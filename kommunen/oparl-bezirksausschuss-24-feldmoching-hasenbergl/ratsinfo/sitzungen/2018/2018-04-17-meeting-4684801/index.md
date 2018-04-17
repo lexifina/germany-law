@@ -1,0 +1,70 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4684801
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4684801
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.: Bauvorhaben:
+- TOP 5.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: a) Neubesetzung Mitgliedschaft im Unterausschuss Schule, Sport, Soziales b) Neubesetzung Ersatzmitgliedschaft im Unterausschuss Planung, Verkehr und Umwelt c) Neubesetzung Ersatzmitgliedschaft im Unterausschuss Kultur, Budget d) Benennung einer/s neuen Beauftragten „Integration“ e) Benennung einer/s neuen Beirätin/Beirates für die "Freizeitstätte Lerchenauer"
+- TOP 2.1.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Baumobil vom 01.05. - 03.05.2018 und Zirkus Pumpernudl vom 27.07. - 29.07.2018 4.338,00€ Az. 0262.0-24-0233
+- TOP 3.: Anträge
+- TOP 3.1.: Installation von 2 Dialogdisplays in der Feldmochinger Straße zwischen den Hausnummern 237 und 255
+- TOP 3.2.: Verlegung des Kriegerdenkmals von der Feldmochinger Straße auf das Parkgrundstück östlich der Kirche St. Christoph bis spätestens Sommer 2018
+- TOP 3.3.: Aufklärung zum Landschaftsschutzgebiet mit anliegenden FFH-Gebiet im Feldmochinger Moos
+- TOP 3.4.: Platzierung von Pflanztrögen auf dem Walter-Sedlmayr-Platz
+- TOP 3.5.: Information über Termin der letzten PCB-Messung und deren Werte und Darstellung des nächsten Messtermins
+- TOP 5.1.: 1. Auf den Schrederwiesen, Fl.Nr. 79/0, Gemarkung Ludwigsfeld 2. Irisstr. 46 3. Pappelallee 47 4. Paulckestr. 1 - 9 5. Wilhelmine-Reichard-Str., Fl.Nr. 1070/1233, Gemarkung Feldmoching 6. Paul-Preuß-Str. 2
+- TOP 5.2.: 1. Irisstr. 46 2. Lerchenauer Str. 240 3. Pappelallee 47 4. Paulckestr. 1 - 9 5. Paul-Preuß-Str. 2
+- TOP 5.3.: 1. Kinderzirkus Nordini vom 30.07. - 04.08.2018, Grünanlage Weitlstraße
+- TOP 5.4.: 2. Integrationsfest am 10.05. -13.05.2018; Dülfer Anger
+- TOP 5.4.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen und Baumaßnahmen
+- TOP 5.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Verlängerung absolutes Haltverbot Paul-Preuß-Straße Ostseite
+- TOP 5.4.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen; a) Rothwiesenstr. 18 (SFZ München Nord-West) b) Feldmochinger Str. 251 (GS Feldmochinger Str) und Feldmochinger Str. 247 (KiTa)
+- TOP 5.4.4.: Stadtbezirksbudget für München; Entwurf der Vorlage für den Stadtrat
+- TOP 5.4.5.: Feldmochinger Kurve - Sachstandsbericht und Neubau Bahnquerung Wilhelmine-Reichard-Straße
+- TOP 5.4.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen hier: Lerchenstr. 14 (internationale Montessori-Schule)
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Unterbindung des „wilden Parkens“ der gelbgrauen Leihfahrräder
+- TOP 6.2.: Sicherstellung des Schulsports in der Mittelschule und der Grundschule an der Eduard-Spranger-Straße
+- TOP 6.3.: Anträge aus der 16. Kinder- und Jugendsprechstunde vom 26.01.2018: a) Nr. 16/18 Schallschutzwände Feldmochinger Bahnhof Westseite b) Nr. 16/19 Ausbesserung der Fußwege Grünzug Linus-Funke-Weg und Gustav-Schiefer-Straße
+- TOP 6.4.: Höhengleiche Bahnübergänge im 24. Stadtbezirk; hier: Bahnübergang Fasanerie, Feldmochinger Straße
+- TOP 6.5.: Schlechte Luft im Stadtbezirk 24 Feldmoching-Hasenbergl; hier: Stickoxydbelastung
+- TOP 6.6.: Blitzerampel an der Waldrebenstraße
+- TOP 6.7.: Ampelschaltung in der Lerchenauer Straße
+- TOP 6.8.: Parkplatzproblem der Kita in der Josef-Frankl-Straße 17 b
+- TOP 6.9.: Erstellung zusätzlicher Parkflächen auf dem städtischen Grundstück neben der Flüchtlingsunterkunft im Tollkirschenweg
+- TOP 6.10.: Starke Verschmutzung im Bereich der Abfallcontainer an der Ecke Trollblumen-/Borsigstraße
+- TOP 6.11.: Novellierung der Naturdenkmalverordnung; Vorschläge des BA 24 vom 07.04.2017
+- TOP 6.12.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Haltverbot Schaarschmidtstraße
+- TOP 6.13.: Unveränderte Fortführung von Gaststättenbetrieben: a) Linkstr. 56 b) Karlsfelder Str. 85
+- TOP 6.14.: Daten Pegel Feldmoching
+- TOP 6.15.: Meldelisten Bauvorhaben
+- TOP 6.16.: Meldelisten Baumfällungen
+- TOP 6.17.: (U) Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften,...
+- TOP 6.18.: (U) Vollzug des Bayerischen Straßen- und Wegegesetzes in den Stadtbezirken 11 Milbertshofen - Am Hart und 24 Feldmoching - Hasenbergl Widmung der Gesamtstrecke des Christl-Marie-Schultes-Weges
+- TOP 6.19.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 6.20.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 8.1.: Protokoll der Sitzung am 06.02.2018 (nach Genehmigung in der Sitzung am 13.03.2018)
+- TOP 8.2.: Einsatz für eine strengere Ausgestaltung der Härtefallregelung im Ausführungsgesetz zum Glücksspielstaatsvertrag
+- TOP 8.3.: Isar Card 60
