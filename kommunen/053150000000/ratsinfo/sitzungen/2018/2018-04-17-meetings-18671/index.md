@@ -1,0 +1,66 @@
+# 35. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-17T16:02:00+02:00
+- Ende: 2018-04-17T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18671
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18671
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Stand: Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00656706.pdf
+- Ergebnisprotokoll: Tagesordnung (Stand: Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00656706.pdf
+- Wortprotokoll: Tagesordnung (Stand: Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00656706.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung einer Sachkundigen Einwohnerin
+- TOP -: B Antrag auf Durchführung einer Aktuellen Stunde: "Verkehrsinfarkt vermeiden - Kapazitätssteigerung an den Knotenbahnhöfen Köln Hbf und Köln Messe/Deutz jetzt!" - verwiesen aus der Sitzung des Rates vom 20.03.2018 - ungeändert beschlossen
+- TOP -: C Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag der SPD-Fraktion vom 27.03.2018 betr. Mehr Sicherheit für KVB-Servicemitarbeiterinnen und -mitarbeiter Pilotprojekt mit Bodycams aufsetzen - endgültig abgelehnt
+- TOP 1.2: Für Planungen auf aktueller und solider Datenbasis: Verkehrserhebungen durchführen! - endgültig abgelehnt
+- TOP 1.2.1: Für Planungen auf aktueller und solider Datenbasis: Verkehrserhebungen durchführen! - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung, Köln-Mülheim (Az.: 02-1600-180/17) - geändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Busbeschleunigung Dürener Straße - geändert beschlossen
+- TOP 3.2: Baubeschluss für die Umgestaltung des Knotenpunktbereiches Sachsenring/Ulrichgasse/Vorgebirgstraße sowie für die Änderung der Verkehrsführung im Knotenpunktbereich mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan - im ersten Durchgang verwiesen
+- TOP 3.3: Planung einer temporären Fuß- und Radwegerampe von der unterstromigen linksrheinischen Seite der Hohenzollernbrücke zum Breslauer Platz - im ersten Durchgang verwiesen
+- TOP 3.3.1: Planung einer temporären Fuß- und Radwegerampe von der unterstromigen linksrheinischen Seite der Hohenzollernbrücke zum Breslauer Platz (Vorlagen-Nr. 3561/2017) - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 264. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: Erneuerung der Eisenbahnüberführungen Deutz-Mülheimer Straße in Köln-Deutz - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Ticketautomaten der KVB – Schwarzfahren wider Willen - zurückgestellt
+- TOP 5.1.2: Wie, wann und wo sind die Bussen und Bahnen der KVB besonders ausgelastet? - Sache ist erledigt
+- TOP 5.2: Aktuelle Anfragen
+- TOP 5.2.1: Buslinie 434 – Änderung der Streckenführung - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.2: Förderung von gewerblichen Cargobikes - zurückgestellt
+- TOP 5.2.3: Fahrradführung Deutzer Brücke - zurückgestellt
+- TOP 5.2.4: Südliche Fahrradrampe an der Mülheimer Brücke - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.5: Kostennutzenanalyse Ost-West-Achse - zurückgestellt
+- TOP 5.2.6: Kostenprognose Instandhaltung des unterirdischen Straßenbahn-Netzes in Köln - zurückgestellt
+- TOP 5.2.7: Automatisiertes Fahren in Köln - Hinkt Köln der Entwicklung hinterher? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2.8: Radverkehrskonzepte in den Kölner Stadtteilen - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Elektromobilität: Ladestationen für die Multimodale Lademodul-Integration an Unterwerken der KVB - Sache ist erledigt
+- TOP 6.2: Fragen zur Fortschreibung des Luftreinhalteplans (AN/0162/2018) - Sache ist erledigt
+- TOP 6.3: Beantwortung der Anfrage der SPD-Fraktion - Kölner Anlegeplätze für Binnenschifffahrt auf dem Rhein (AN/0218/2018) - Sache ist erledigt
+- TOP 6.4: Dezentrale Car-Sharing Plätze schaffen, Mobiltiätswende voranbringen - Sache ist erledigt
+- TOP 6.5: Angsträume auf städtischen Flächen - Sache ist erledigt
+- TOP 6.6: Expressbusse statt PKW - Busspur auf dem Clevischen Ring - Sache ist erledigt
+- TOP 6.7: Auslastung der P+R-Anlage Königsforst - Sache ist erledigt
+- TOP 6.8: Förderung der Elektromobilität - Was tut die Verwaltung? - Sache ist erledigt
+- TOP 6.9: Unfälle: KVB vs. Kfz - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Gefährdung von Fußgängern durch Radfahrer - Kenntnis genommen
+- TOP 7.2: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 7.3: Stadtbahnanbindung Rondorf / Meschenich-Nord - Kenntnis genommen
+- TOP 7.4: Haltestelle Lohsestraße - Planungen für den Einbau von Aufzügen - Kenntnis genommen
+- TOP 7.5: Planfeststellungsbeschluss der Bezirksregierung Köln vom 02. Februar 2018 für den Bau der B 51n - Ortsumgehung Meschenich - Kenntnis genommen
+- TOP 7.6: 3-D-Zebrastreifen in Köln - Kenntnis genommen
+- TOP 7.7: Einrichtung des Amtes für Verkehrsmanagement, Neustrukturierung des Amtes für Straßen und Verkehrsentwicklung - zurückgestellt
+- TOP 8: Mündliche Anfragen
