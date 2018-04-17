@@ -1,18 +1,18 @@
-# Der Runderlass richtet sich an den Landesbetrieb Straßenwesen Brandenburg die Landkreise, die kreisfreien Städte sowie kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 15/2006
+# Der Runderlass richtet sich an den Landesbetrieb Straßenwesen Brandenburg die Landkreise, die kreisfreien Städte sowie kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau, Nummer 15/2017
 
 - Herausgeber: Land Brandenburg
-- Datum: 2018-03-09 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/esab_2006_2018
+- Datum: 2018-04-17 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tk_frs_2018
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen in Brandenburg - Empfehlungen zum Schutz vor Unfällen mit Aufprall auf Bäume, Ausgabe 2006 (ESAB 2006)
+Einführung technischer Regelwerke für den Straßenbau in Brandenburg - Technische Kriterien für den Einsatz von Fahrzeug-Rückhaltesystemen in Deutschland (TK FRS)
 
-vom 9. März 2018
+vom 17. April 2018
 
-(ABl./18, [Nr. 15], S.348)
+(ABl./18, [Nr. 17], S.385)
 
 Der Runderlass richtet sich an
 
@@ -20,20 +20,20 @@ den Landesbetrieb Straßenwesen Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau (ARS) Nr. 15/2006 vom 18. September 2006, Sachgebiet 7.01: Straßenverkehrstechnik und Straßenausstattung; Bemessung und Gestaltung der Straßen und Wege hat das Bundesministerium für Verkehr, Bau- und Stadtentwicklung die Empfehlungen zum Schutz vor Unfällen mit Aufprall auf Bäume, Ausgabe 2006 (ESAB 2006) für Bundesfernstraßen bekannt gegeben und um sofortige Anwendung gebeten. Die ESAB 2006 ist im VkBl. 2006, S. 844 veröffentlicht.
+Mit dem Allgemeinen Rundschreiben Straßenbau, Nummer 15/2017 vom 23. August 2017 hat das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) Technische Kriterien für den Einsatz von Fahrzeug-Rückhaltesystemen in Deutschland bekannt gegeben.
 
-Mit Runderlass des Ministeriums für Infrastruktur und Raumordnung, Abteilung 4, Nr. 01/2008 vom 16. Januar 2008 wurden die Empfehlungen zum Schutz vor Unfällen mit Aufprall auf Bäume, Ausgabe 2006 (ESAB 2006) befristet eingeführt.
+Hiermit werden die „Technischen Kriterien für den Einsatz von Fahrzeug-Rückhaltesystemen in Deutschland“ für alle neu einzuleitenden Vergabeverfahren für Fahrzeug-Rückhaltesysteme auf Bundesfern- und Landesstraßen eingeführt.
 
-Hiermit werden die „Empfehlungen zum Schutz vor Unfällen mit Aufprall auf Bäume, Ausgabe 2006 (ESAB 2006)“ für die Straßenbaubehörde des Landes Brandenburg für den Bereich der Bundesfernstraßen und Landesstraßen unbefristet wieder eingeführt.
+Es sind nur noch die für die jeweilige Baumaßnahme relevanten und im Rahmen der konkreten Ausschreibung geforderten Technischen Kriterien maßgebend. Eine Anpassung an das europä-
 
-Den Straßenverkehrsbehörden des Landes Brandenburg werden die ESAB 2006 als Arbeitshilfe im Rahmen der pflichtgemäßen Ermessensausübung und für die Arbeit der Verkehrsunfallkommissionen zur Kenntnis gegeben.
+ische Vergaberecht ist zu gewährleisten.
 
-Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung weiterhin empfohlen.
+Der Runderlass des Ministeriums für Infrastruktur und Landwirtschaft vom 25. Juli 2011 (ABl. S. 1427), welcher Ausführungen des ARS Nr. 28/2010 des Bundesverkehrsministeriums zum Einsatzfreigabeverfahren für Fahrzeug-Rückhaltesysteme in Brandenburg eingeführt hat, wird hiermit aufgehoben. Die Einsatzfreigabeliste nach ARS Nr. 28/2010 ist nicht mehr anzuwenden.
 
-Für die Nachrüstung von Fahrzeug-Rückhaltesystemen im Bestand an Bundesfern- und Landesstraßen wird die Anwendung des Leitfadens für Sonderlösungen zum Baum- und Objektschutz an Landstraßen der Bundesanstalt für Straßenwesen empfohlen. Sonderkonstruktionen dürfen nur dann eingesetzt werden, wenn keine alternativen Regellösungen verfügbar sind und dadurch eine Verbesserung der Verkehrssicherheit zu erwarten ist.
+Für den Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg wird die Anwendung empfohlen.
 
-Dieser Erlass tritt mit seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
+Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse
 
-Die ESAB 2006 sind bei der FGSV-Verlag GmbH, Wesselinger Straße 17, 50999 Köln, zu beziehen.
+www.landesrecht.brandenburg.de eingestellt. Er tritt am 1. Juni 2018 in Kraft.
 
-Der Leitfaden für Sonderlösungen zum Baum- und Objektschutz an Landstraßen wird auf der Homepage der Bundesanstalt für Straßenwesen (BASt) (www.bast.de) bereitgestellt.
+Die Technischen Kriterien für den Einsatz von Fahrzeug-Rückhaltesystemen in Deutschland werden auf der Homepage der Bundesanstalt für Straßenwesen - BASt - (www.bast.de) bereitgestellt.
