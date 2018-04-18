@@ -1,0 +1,82 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2018-04-18T17:00:00+02:00
+- Ende: 2018-04-18T21:55:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4976
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=4976
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - beantwortet
+- TOP 8.1: Entwicklungen im Schulbereich - beantwortet
+- TOP 8.2: Stasi 2.0 in Tempelhof-Schöneberg zur Bespitzelung von Nachbarn? - beantwortet
+- TOP 9: Anträge - (offen)
+- TOP 9.1: Denkmal-Pflegeplan für Gedenkorte an den Nationalsozialismus auf dem Tempelhofer Feld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Antisemitismus entschlossen entgegentreten! - überwiesen
+- TOP 9.3: „Runder Tisch Drogen“ im Bezirk Tempelhof-Schöneberg - überwiesen
+- TOP 9.4: Radikalisierung von Jugendlichen im Bezirk abwenden - überwiesen
+- TOP 9.5: Öffnungszeiten und Angebote der Kinder- und Jugendfreizeiteinrichtungen online einfacher zugänglich machen - überwiesen
+- TOP 9.6: Die Ausstellung „Plätze im Bayerischen Viertel“ nochmal zeigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Behindertengerechtes WC im 1. OG des Rathauses Schöneberg schnellstmöglich herstellen - überwiesen
+- TOP 9.8: Beseitigung von Bodenwellen auf dem südlichen Bürgersteig des Hanielwegs zwischen Marienfelder Allee und An den Klostergärten - überwiesen
+- TOP 9.9: Zebrastreifen in der Oberlandstraße - überwiesen
+- TOP 9.10: Bauen gezielt ermöglichen im Bezirk - in der BVV abgelehnt
+- TOP 9.11: Radspur für die Grunewaldstraße endlich einrichten! - überwiesen
+- TOP 9.12: Deklaration biologische Vielfalt in Tempelhof-Schöneberg - überwiesen
+- TOP 9.13: Umsetzung des Baus der barrierefreien Aufzugsanlage im Hauptfoyer des Rathauses Schöneberg für 2018 sichern - überwiesen
+- TOP 9.14: Videoübertragung möglich machen - überwiesen
+- TOP 9.15: Lichtzeichenanlage im Bereich des S-Bahnhofes Schichauweg mit der Baustellenampel koordinieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.16: Flächenpotentiale heben – Übernutzung und übermäßiger Verdichtung entgegenwirken - überwiesen
+- TOP 9.17: Kulturangebote im Bezirk deutlich sichtbar machen - überwiesen
+- TOP 9.18: Wanderausstellung „Stadt – Land – Biene“ in Tempelhof-Schöneberg zeigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.19: Ausstellungen mit Fotografien von Ottomar Anschütz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Hallensituation für Rollstuhlfahrende im Bezirk verbessern - überwiesen
+- TOP 10: übrige Große Anfragen - (offen)
+- TOP 10.1: Radverkehr in Tempelhof-Schöneberg - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Anliegen der „Senioren-BVV“ ernst nehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Forderung der Senioren-BVV nach kostenloser Mieterberatung unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sozialverträgliche Angebote bei Festen im Bezirk ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Bezirke stärken – Wohnraum schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Die mobile App „Ordnungsamt-Online“ besser bekannt machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Tempelhof-Schöneberg spielt mit – am Weltspieltag 2018! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Bebauung von ehemaligen Bestattungsflächen unterbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Verkehrskonzept für Schöneberg Nord - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Den „Crellemarkt“ im Fokus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Keinen dauerhaften Sperrmüll-Abstellplatz am Crellemarkt entstehen lassen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Saubere Luft im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: Maßnahmen zur Erhöhung der Verkehrssicherheit für den Bereich Potsdamer Straße/Goebenstraße-Pallasstraße anregen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Mehr Fahrradständer im Nahariyaquartier - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Buslinie 275 bis nach Blankenfelde/Mahlow verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Dezentrales Regenwassermanagement in alten und neuen Stadtquartieren auch in Tempelhof-Schöneberg voranbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Tempelhof – Nutzungskonzept für die Beuth Hochschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Blühstreifen für Bienen und andere Insekten am Rathaus Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Änderung der Geschäftsordnung ; "§ 9 Einberufung und Zusammentreten" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Umbau des Nollendorfplatzes endlich beginnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.20: Fußgängerüberweg in der Marienfelder Allee in Höhe des Einganges zum Friedhof schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.21: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Förderverein zum Gedenken an Naziverbrechen um und auf dem Tempelhofer Feld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.22: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Tempelhofer Damm Unternehmerinitiative e.V. - überwiesen
+- TOP 11.23: Planreifeerklärung gemäß § 33 Abs. 1 BauGB für das Vorhaben im Geltungsbereichs des vorhabenbezogenen Bebauungsplanes 7-81VE. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Erhaltungsverordnung für das Gebiet „Grazer Platz“, in der anliegenden Karte mit einer durchgezogenen Linie eingegrenzt, im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg. - überwiesen
+- TOP 12.2: Festsetzung des Bebauungsplanentwurfs 7-74 für das Grundstück Tempelhofer Weg 25-26, Gotenstraße 34-43, Sachsendamm 65-66 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 12.3: Benennung eines beratenden Mitglieds im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Seniorenvertretung weiter stärken – Aufwandsentschädigung neu regeln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.2: Tempo 30 in der Mellener Straße durchsetzen - vertagt
+- TOP 13.3: Elektronisches Genehmigungsverfahren zur Sondernutzung von Straßenland (eGeStra) in Tempelhof-Schöneberg ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Bauvorhaben Barbarossadreieck, Martin-Luther-Straße 48-50 / Speyerer Straße 26-28 - überwiesen
+- TOP 13.5: Aufstellung des vorhabenbezogenen Bebauungsplans 7-93 VE für das Gelände zwischen Speyerer Straße, Martin-Luther-Straße und Barbarossastraße im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - überwiesen
+- TOP 14: Termin der nächsten Sitzung - (offen)
