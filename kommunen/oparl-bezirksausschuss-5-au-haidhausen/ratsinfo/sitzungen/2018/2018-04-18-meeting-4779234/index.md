@@ -1,0 +1,145 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-04-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4779234
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4779234
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Die Polizeiinspektion 21 stellt sich den Fragen des BA
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 2.2.: Gebsattelstr. 28: Abbruch von Balkonen und Anbau neuer Balkone der Wohnungen links (Küche)
+- TOP 2.4.: Weißenburger Str. 19: Vordergebäude: Nutzungsänderungen EG, DG-Ausbau mit Dachterrasse und Gauben, Errichtung Personenaufzug. Rückgebäude mit Seitenflügel: Umbau, Aufstockung und Nutzungsänderung (Gewerbe- zu Wohneinheiten), Errichtung von Balkonen und Dachterrassen. Seitengebäude: Nutzungsänderung (Gewerbe- zu Wohneinheit), Errichtung von Balkonen
+- TOP 0.: Vorstellung
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Parkraummangel im Bereich Einstein-, Grillparzer-, Kirchenstraße
+- TOP 4.2.2.: Einrichtung von Tempo 30 in der Welfenstraße
+- TOP 4.2.3.: Biergarten oder Ballermann ? Schreiben zum SZ-Artikel über das Maxwerk
+- TOP 5.1.: Stadtauswärtigen Radverkehr in der Rosenheimer Straße sicherer leiten
+- TOP 5.2.: Maxwerk (X) – Aushebeln des Antrags- und Anfragerechts des Bezirksaus- schusses und der Bürgerversammlung in Sachen „Maxwerk“
+- TOP 5.3.: Naturdenkmal Maria-Theresia-Straße 4
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse IDIZEM e.V. Projekt S-Codes am 15.04.2018 1.896,00€ - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Joint Adventures Access to dance am 04./05. April 2018 7.662,00€ - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Warenauslage für „Corso Flora“, Johannisplatz 18 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Antrag auf Genehmigung einer Freischankfläche für „Biochicco“, Ohlmüllerstr. 19 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.3.: Antrag auf Genehmigung einer Erweiterung der Freischankfläche für einen Backshop, Wörthstr. 43 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 7.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen
+- TOP 7.2.: Stadtbezirksbudget für München
+- TOP 8.1.1.: Seit Jahren leerstehende Gewerbeeinheit in prominenter Lage am Max-Weber-Platz
+- TOP 8.1.2.: Maßnahmen gegen den illegalen Autoverkehr in der Fußgängerzone beim Genoveva-Schauer-Platz
+- TOP 8.1.3.: Fertigstellung der Sanierungsarbeiten an der Turnhalle Kirchenstr. 13 b
+- TOP 8.1.4.: Crowdsourcing Baumkataster
+- TOP 8.1.5.: Schaffung einer reinen Fußgängerzone am Wiener Platz – Radfahrende absteigen ! BA-Antrag Nr. 14-20 / B 04392
+- TOP 8.1.6.: Nachbarschaftsarbeit in München stärken durch quartierbezogene Bewohnerarbeit
+- TOP 8.2.1.: Ergebnis der Geschwindigkeitskontrollen in der Rosenheimer Straße
+- TOP 8.2.2.: Blockierung des Radwegs durch Fahrzeuge von Pizza Avanti in der Einsteinstraße
+- TOP 8.2.3.: Aufstellen von Hundekotbeutelspender inkl. Mülleimer in der Rablstraße gegenüber Hausnummer 2 und 10
+- TOP 8.2.4.: Parksituation rund um das Prinzregententheater
+- TOP 8.3.1.: Kostenpflichtiger Parkplatz an der Mariahilf-Kirche, Verlängerung Pachtvertrag ? Anfrage Nr. 14-20 / Q 500 der Bürgerversammlung vom 22.02.2018
+- TOP 8.3.2.: Antrag BA 13 Bogenhausen: Mitnahme von 3 Kindern bei der IsarCard 60 Bitte um Unterstützung
+- TOP 8.3.3.: Antrag BA 17 Obergiesing: Einsatz für eine strengere Ausgestaltung der Härtefallregelung im Ausführungsgesetz zum GlüStV (AGGlüStV) Bitte um Unterstützung
+- TOP 8.3.4.: Einführung von Terminvereinbarung im Bürgerbüro Orleansplatz
+- TOP 8.3.5.: Information über Betriebskonzept während Schienenschleifarbeiten auf der U 4 – Ost zwischen Prinzregentenplatz und Arabellapark
+- TOP 8.3.6.: Information der Bezirksausschüsse über neue Bädereintrittspreise
+- TOP 8.3.7.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO)
+- TOP 8.3.8.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Max-Planck-Str. 5: Baumveränderung an 2 Berg-Ahorn, 1 Berg-Ulme, 1 Hainbuche
+- TOP 7.2.: Fällungsgenehmigungen: a) Seeriederstr. 4-26 b) Kuglerstr. 16 c) Falkenstr. 48
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Erinnerung an das Attentat auf Adolf Hitler im Bürgerbräukeller am 8. November 1939, hier: Glockengeläut Antwortschreiben Erzbischöfliches Ordinariat München
+- TOP II.2.: Gedenkveranstaltung zum 80. Jahrestag 09. November 1938
+- TOP II.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 3.2.: Perspektive München – Leitlinie Soziales
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse IDIZEM e.V. Projekt S-Codes am 15.04.2018 1.896,00€
+- TOP 1.2.: Budget der Bezirksausschüsse Joint Adventures Access to dance am 04./05. April 2018 7.662,00€
+- TOP 1.3.: Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Warenauslage für „Corso Flora“, Johannisplatz 18
+- TOP 1.4.: Antrag auf Genehmigung einer Freischankfläche für „Biochicco“, Ohlmüllerstr. 19
+- TOP 1.5.: Antrag auf Genehmigung einer Erweiterung der Freischankfläche für einen Backshop, Wörthstr. 43
+- TOP 2.: Anhörungen
+- TOP 2.1.: „Lozzilauf“ des Pestalozzi-Gymnasiums am 17.07.2018
+- TOP 2.2.: Haidhauser Flohmärkte des AKA e.V. auf der Postwiese am 05.05.2018 und 15.09.2018
+- TOP 2.3.: Skateparkmobil des HIGH FIVE e.V. in der Postwiese von Mai bis September 2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Weißenburger Platz 1: Nutzungsänderung Fotostudio zu Laden mit Verzehrbereich Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Koop e.V.: Ablehnung des Budgetantrags für das Festival „Isarsprudel – Kunst am Fluß“ vom 20.-26.08.2018 - Vertagung aus der Sitzung vom 21.03.2018 -
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Stubenvollstr. 2: Umbau und Sanierung Dachgeschoss „Hotel Preysing“ ( 7 zusätzliche Hotelzimmer im DG, Errichtung einer Notleiteranlage mit Fluchtbalkonen, Herstellung barrierefreier Zugang und weiterer Fluchtweg im EG)
+- TOP 2.3.: Welfenstr. 31 a: Zusammenlegung von 4 NE (Bürofläche) und Nutzungsänderung Wohnraum zu Bürofläche
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Orleansstr. 56, Vorbescheid
+- TOP 3.2.: Kirchenstr. 88, Vorbescheid
+- TOP 3.3.: Wohnungsmarktbeobachtung München Kleinräumige Strukturdaten 2016 für die Stadtbezirke
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Vorstellung des Projekts „City2share“
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Sportangebote für die Bewohnerinnen und Bewohner an der Welfenstraße und dem ehemaligen Paulanergelände schaffen
+- TOP 2.2.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs Abfrage von Standortvorschlägen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: MVG-Radstation am Orleansplatz Antwortschreiben MVG
+- TOP 3.2.: Fahrradparkhaus am Orleansplatz Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 3.3.: Parkraummanagement in München – Fortschreibung Sektor V Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 3.4.: Entfernung des Mülleimers an der Ecke Weißenburger Platz 1 Antwortschreiben Baureferat zu einem Bürgeranliegen
+- TOP 3.5.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fahrradweg Ohlmüllerstraße
+- TOP 4.2.: Halbseitig auf Gehweg abgestellte KfZ in der Unteren Feldstraße Vertagung aus der Sitzung vom 21.03.2018
+- TOP 4.3.: Schaffung einer reinen Fußgängerzone am Wiener Platz – Radfahrende absteigen !
+- TOP 4.4.: Gesundheitsgefährdung durch Lärmexposition in der Entenbachstraße durch Lieferverkehr von Edeka
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 07.05.2018, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 07.05.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 08.05.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 09.05.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 09.05.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 16.05.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Mittwoch, 02.05.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Einladung AKA e.V. zum Vorbereitungstreffen Haidhauser Kultursonntag am 10.04.2018 um 17 Uhr
+- TOP 4.2.: 5. Strategiegruppe Nächtliches Feiern am 10.04.2018 von 16-19 Uhr
+- TOP 4.3.: Treffen der Gleichstellungsbeauftragten am 12.04.2018 von 17.30-19.30 Uhr
+- TOP 4.4.: Einladung zur Veranstaltung „Postwachstum in der Boomtown – ist Wohlfahrt ohne Wachstum möglich ?“ am 16.04.2018 um 19 Uhr
+- TOP 4.5.: Eröffnungsfeier Frühlingsfest am 20.04.2018 ab 14.30 Uhr
+- TOP 4.6.: Tag der offenen Wohnprojekte am 21.04.2018
