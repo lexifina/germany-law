@@ -1,0 +1,111 @@
+# 19. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-04-18T17:00:00+02:00
+- Ende: 2018-04-18T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3880
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3880
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Hausarrest für behinderte Menschen in der Mühlenstraße in Lankwitz? - beantwortet
+- TOP 3.2: Genitalverstümmelung an Mädchen und Frauen FGM: Female Genital Mutilation – ein grausames und leider weit verbreitetes Ritual - beantwortet
+- TOP 3.3: Wie geht es weiter bei den Unterkünften für geflüchtete Menschen? - beantwortet
+- TOP 3.4: Leerstand in der Lipaer Staße 8 - beantwortet
+- TOP 3.5: Datenschutz-Grundverordnung (DSGVO) - beantwortet
+- TOP 3.6: Verstoßen Plakate mit verstümmelten und blutverschmierten Untoten gegen den Kinder- und Jugendschutz? - beantwortet
+- TOP 3.7: Situation an den Lankwitzer Grundschulen - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Sichere Verkehrsführung nach Unfalltod eines Radlers Im Gehege/Königin-Luise-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung eines Bürgerdeputierten im Ausschuss für Ordnung, Verkehr und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines Bürgerdeputierten im Ausschuss für Ordnung, Verkehr und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Nachwahl eines weiteren Mitgliedes in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Berufung eines beratenden Mitgliedes als Vertretung des Bezirkselternausschusses der Kindertagesstätten in den Jugendhilfeausschuss für die V. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Sondermittel der BVV für die DLRG LV Berlin Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Sondermittel der BVV für den Verein der Mitglieder der Baltischen Seglervereinigung in Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Jugendbegegnung Charkiw sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Schloßstraße IV: Radstreifen farblich hervorheben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Elektronisches Genehmigungsverfahren zur Sondernutzung von Straßenland (eGeStra) in Steglitz-Zehlendorf einführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Weg am Teltowkanal instand setzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Fahrradwracks am S-Bahnhof Feuerbachstraße entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Beleuchtung auf dem Marienplatz wiederherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Spielplatzübersicht des Bezirks aktualisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Verkehrsabfluss in Lichterfelde-Süd: S-Bahn-Züge der S25 und S26 verlängern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Beleuchtung des Stichweges von der Wasgenstraße zur Außenstelle der Johannes-Tews-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Naturdenkmal-Schild und Einfriedung für das Naturdenkmal Hubertuseiche ND 6-56/B - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Bäume für die Balbronner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Gefahrlose Überquerung Dahlemer Weg/Hochbaumstraße ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Blindenampeln sind wichtig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Genossenschaftliches Wohnen auf ehemaligen Bahngrundstücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Fairtrade Workshop zum Thema Kaffee in der Botanikschule Steglitz an Schulen in Steglitz-Zehlendorf bewerben - überwiesen
+- TOP 5.2: Der Standort „Am Beelitzhof 24“ ist ungeeignet für eine zusätzliche Bebauung - überwiesen
+- TOP 5.3: Radweg Dahlemer Weg reparieren - überwiesen
+- TOP 5.4: Millieuschutz: Voraussetzungen durch den Senat schaffen! - überwiesen
+- TOP 5.5: Inklusion im Botanischen Garten - überwiesen
+- TOP 5.6: Der Standort „Dahlemer Weg 247“ ist ungeeignet für die Errichtung von Modularen Unterkünften - überwiesen
+- TOP 5.7: Kiezkassen zur Stärkung des lokalen Engagements - überwiesen
+- TOP 5.8: Abfalltrennung im Bezirksamt verbessern - überwiesen
+- TOP 5.9: Cannabiskonsum unter Jugendlichen - überwiesen
+- TOP 5.10: Historie des Gedenksteins auf der Gedenkstätte des 17. Juni klären! - überwiesen
+- TOP 5.11: Bushaltestelle Teltowwerft einrichten - überwiesen
+- TOP 5.12: Der Standort „Osteweg 53“ ist ungeeignet für die Errichtung von Modularen Unterkünften - überwiesen
+- TOP 5.13: Pilotprojekt für eine Abstimmung zwischen der Abfahrt des Busses der Linie 112 der BVG mit der S-Bahn am Bahnhof Nikolassee in den Abendstunden - überwiesen
+- TOP 5.14: Umweltschutz im Bezirksamt: Beim Ankauf von Drucker- und Kopierpapier auf Umweltzeichen „Blauer Engel“ achten - überwiesen
+- TOP 5.15: Wider den Fahrradspeichentod am Stadion Lichterfelde - überwiesen
+- TOP 5.16: Regenbogenflagge - überwiesen
+- TOP 5.17: Lärmschutz: Tempo 30 zwischen 22 und 6 Uhr in der Kaiser-Wilhelm-Straße - überwiesen
+- TOP 5.18: Parkhaus Zehlendorf - überwiesen
+- TOP 5.19: Herausragende Projekte zur Pflege des Stadtbildes - überwiesen
+- TOP 5.20: Sitzbank auf dem Platz Kommandantenstraße / Brüderstraße / Kadettenweg reparieren - überwiesen
+- TOP 5.21: Spielplatz am Beelitzhof - überwiesen
+- TOP 5.22: Schulwegpaten und Erwachsenenlotsen für Schulwege - überwiesen
+- TOP 5.23: Sicherer Fußgängerverkehr Harry-S.-Truman-Allee - überwiesen
+- TOP 5.24: Grünanlagen Am Großen Wannsee - überwiesen
+- TOP 5.25: Akzeptanz von Kreditkarten im Bürgeramt - überwiesen
+- TOP 5.26: Linksabbiegen von der Clayallee durch Straßenmarkierungen erleichtern! - überwiesen
+- TOP 5.27: Einrichtung von „Elternhaltestellen“ - überwiesen
+- TOP 5.28: Fahrradstraße Hochbaumstraße einrichten II - überwiesen
+- TOP 5.29: Anpassung der Software bei Lichtzeichenanlagen - überwiesen
+- TOP 5.30: Aushänge und Notfallkarten von Hilfetelefonnummern gegen Gewalt im Bezirk ergänzen! - überwiesen
+- TOP 5.31: Busbeschleunigung Sachtleben-/Machnower Straße - überwiesen
+- TOP 5.32: Barrierefreiheit an der Busendhaltestelle Sachtlebenstraße herstellen - überwiesen
+- TOP 5.33: Straßenbenennung und Gedenktafeln Frauen widmen - überwiesen
+- TOP 5.34: Uferweg des Teltowkanals unterhalb des Krahmerstegs grundhaft ausbauen - überwiesen
+- TOP 5.35: Kreuzung Unterführung Stadtautobahn / Schildhornstraße / Kreuznacher Straße - überwiesen
+- TOP 5.36: Verbesserung der Querungsmöglichkeit über die Bäkebrücke - überwiesen
+- TOP 5.37: Energie sparen LZA Bismarckstraße/Selerweg - überwiesen
+- TOP 5.38: Durchfahrtsbreitenverbote umstellen - überwiesen
+- TOP 5.39: Bruno-Taut-Siedlung vorschlagen für die Welterbeliste: Siedlung der Berliner Moderne - überwiesen
+- TOP 5.40: Sanierung Feuerbachstraße - überwiesen
+- TOP 5.41: Anschluss bzw. Fortführung des Radweges von Kleinmachnow nach Zehlendorf - überwiesen
+- TOP 5.42: Bushaltestelle Dillgesstraße deutlich kennzeichnen - überwiesen
+- TOP 5.43: Teichanlage im Schönower Park reinigen - überwiesen
+- TOP 5.44: Parken im Lupsteiner Weg - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Redezeitbegrenzung in der BVV Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 6.1.2: Bezirkspolitik ganz nüchtern betrachtet - in der BVV abgelehnt
+- TOP 6.1.3: Schulbauoffensive transparent gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.4: „Demokratie leben“/“Partnerschaft für Demokratie" - in der BVV abgelehnt
+- TOP 7: Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 8: Große Anfragen - beantwortet
+- TOP 8.1: Asylbewerberunterkunft Osteweg - beantwortet
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Vorsorge zur Aufrechterhaltung des S-Bahn-Verkehrs im Bezirk Steglitz- Zehlendorf - in der BVV abgelehnt
+- TOP 9.2: Schließungszeiten von Kindertagesstätten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Sitzbänke für den Hermann-Ehlers-Platz - in der BVV abgelehnt
+- TOP 9.4: Kosten für die kontinuierliche Verkehrsplanung für den B-Plan 6-30 (Lichterfelde-Süd) verbindlich im städtebaulichen Vertrag regeln! - in der BVV abgelehnt
+- TOP 9.5: Die Bezirksverordnetenversammlung muss sich leider noch immer Gehör verschaffen - in der BVV abgelehnt
+- TOP 9.6: Segregation der Sozialwohnungen im Planungsraum Lichterfelde-Süd vermeiden - in der BVV abgelehnt
+- TOP 9.7: Kostenlose Mieterberatung im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Verbesserung des ÖPNV-Angebots in Nikolassee und Schlachtensee - in der BVV abgelehnt
+- TOP 9.9: Ausweitung der Buslinie 114 bis U-Bahnhof Krumme Lanke - in der BVV abgelehnt
