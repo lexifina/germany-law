@@ -1,0 +1,141 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2018-04-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4718494
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4718494
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss/ Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 07.03.18
+- TOP 10.2: Beschluss des Verwaltungs- und Personalausschusses vom 14.03.18
+- TOP 10.3: Beschluss der Vollversammlung vom 13.12.17
+- TOP 10.4: Beschluss des Bauausschusses vom 10.04.18:
+- TOP 10.5: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.18:
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Baustellen-/ Parksituation Colmdorfstraße
+- TOP 2.1.2.: Leinenzwang am Böhmerweiher
+- TOP 2.1.3.: Lärmschutzmaßnahmen Lochhausener Straße
+- TOP 2.1.4.: Müll von der Baustelle in der Colmdorfstraße
+- TOP 2.1.5.: Kinder- und Jugendforum - Umwandlung der Schussenrieder Straße in eine Einbahnstaße
+- TOP 2.1.6.: Bahnschranke Hellensteinstraße
+- TOP 2.1.7.: Kein Parkplatz und keine Bebauung der Wiese in der Friedrichshafener Straße; Entfernung der Verkaufscontainer auf der Wiese Friedrichshafener Straße; Keine Verschleuderung öffentlicher Gelder
+- TOP 2.1.8.: Zwangsweise Erschließung des Fuß- und Radweges zwischen Schubin- und Erni-Singerl-Straße wie im Erschließungs-, Herstellungs- und Vorfinanzierungsvertrag zwischen der Landeshauptstadt München und der Paul Wenger Baulanderschließung GmbH vereinbart
+- TOP 2.1.9.: Nutzung des Fußballplatzes am Überlinger Weg
+- TOP 2.1.10.: Lärmschutzwand Lochhausener Straße Bereich Eisenbahnbrücke
+- TOP 2.1.11.: Planung ehemaliger Indianer-Spielplatz Neuaubing
+- TOP 2.1.12.: Wegearbeiten in der Aubinger Lohe
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällung auf Anforderung: - Grafrather Str. 7 - Strahlenfelser Str. 21 - Aubinger Str. 145 - Amelbrechtstr. 1 N - Eichenauer Str. 14 N - Limesstr. 7
+- TOP 3.1.2.: Baumfällung zu einem Bauvorhaben: - Wüstensteiner Str. 15, Anhörung Planungsreferat vom 19.03.18 N - Brunhamstr. 40, Anhörung Planungsreferat vom 10.04.18
+- TOP 3.1.3.: Baumfällung: Amelbrechtstr. 1, Schr. Planungsreferat vom 04.04.18
+- TOP 4.1.: Ersatzstandort für Bolzplatz auf Gebiet des Bebauungsplanes 2084 (Kleiberweg, Henschel- und Federseestr.) (Sebastian Kriesel, Jürgen Umseher, Jürgen Schrader)
+- TOP 4.2.: Standortprüfung für einen mulitfunktionalen Versammlungsraum in Lochhausen (Sebastian Kriesel, Jürgen Umseher, Jürgen Schrader)
+- TOP 4.3.: Beschleunigung der Buslinien (Karin Binsteiner, Siegfried Liedl, Barbara Ney)
+- TOP 4.4.: Aubing-Ost-Straße - Wiederanpflanzung der Säulenpappeln (Dagmar Mosch, Siegfried Liedl, Barbara Ney)
+- TOP 4.5.: Aubing-Ost-Straße - Name für Platz gesucht (Dagmar Mosch, Karin Binsteiner, Barbara Ney)
+- TOP 4.6.: Neue Buslinie über die Aubing-Ost-Straße (Hr. Bernsdorf)
+- TOP 5.1.: Budget der Bezirksausschüsse: Bayrisches Rotes Kreuz, Kreisverband München, Bereitschaft West 3 Aubing - Anschaffung von zwei Heizgeräten
+- TOP 5.2.: Budget der Bezirksausschüsse: Siedlergemeinschaft Aubing-Ost e.V. - Anschaffung von Sitzgarnituren und Faltpavillon
+- TOP 6.1.1.1.: Veranstaltung im Freien auf Privatgrund: Kastelburgstr. 84-88 und Industriestr. 30 - Segnung Bauarbeiten mit Grundsteinlegung Kirchenaltar am 21.04.18, Anhörung KVR vom 09.04.18
+- TOP 6.1.1.2.: Veranstaltung im Freien auf einer städtischen Grünanlage: Grünanlage Wiesentfelser Str. 57 - Internationales Sommerfest Neuaubing zwischen 23.06.-24.06.18, Anhörung KVR vom 10.04.18
+- TOP 6.1.1.3.: Veranstaltung auf Privatgrund / in einer städtischen Grünanlage: Grünzug zwischen Altenburgstr./Radolfzeller Str. - Stadtteilwoche vom 07.06.-13.06.18
+- TOP 6.1.2.1.: Antrag aus dem Kinder- und Jugenforum: Errichtung eines Jugendtreffs in Lochhausen, Schr. Sozialreferat vom 12.03.18
+- TOP 6.1.2.2.: Krankenliegen für die Friedhöfe im 22. Stadtbezirk (BA-Antrag Nr. 14-20 / B 04304), Schr. Städtische Friedhofsverwaltung vom 13.03.18
+- TOP 6.1.2.3.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge März 2018 (Sozialreferat, 23.03.18)
+- TOP 6.1.2.4.: Ehemaliges Zwangsarbeiterlager an der Ehrenbürgstraße, Schr. Kulturreferat vom 16.02.18
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.1.1.: Veranstaltung in einer städtischen Grünanlage: Skatepark Mobil von April bis September 2018, Anhörung Kreisverwaltungsreferat vom 28.03.18 und 05.04.18
+- TOP 6.2.1.2.: "Schützensport in München", Sachstandsbericht zur Situation des Schießsports sowie zur Erforderlichkeit einer Erweiterung des Angebots an Trainingsmöglichkeiten und der Herstellung von Barrierefreiheit an den Schießstätten; Beschlussvorlage für den Sportausschuss am 09.05.18, Anhörung Referat für Bildung und Sport vom 20.03.18
+- TOP 6.2.1.3.: Kitabarometer - Elternbefragung zum Bedarf an Kindertagesbetreuung in München, Anhörung Referat für Bildung und Sport vom 10.04.18
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2.2.1.: Zusätzliche Fahrkartenautomaten an den Bahnhöfen Leienfelsstraße und Aubing
+- TOP 6.2.2.2.: Neue Bädereintrittspreise, Schr. SWM vom 06.04.2018
+- TOP 6.2.2.3.: Antrag aus dem Kinder- und Jugendforum: Information zum Neubau der Schule (Antrag Nr. 4), Schr. Referat für Bildung und Sport vom 22.03.18
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Änderung der BA-Satzung: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen, Antrag BA 16 Ramersdorf-Perlach, Anhörung Direktorium vom 26.03.18
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnung, hier: - Wiesentfelser Str. 53, Einrichtung eines absoluten Haltverbotes, Anhörung KVR vom 23.03.18
+- TOP 6.3.1.3.: Erinnerungsverfahren, Gehbahnsanierung Zwillergasse, Anhörung Baureferat vom 19.03.18
+- TOP 6.3.1.4.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs - Standortvorschläge, Anhörung KVR vom 11.04.18
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Verkehrssicherheit Aubinger Straße, Schr. KVR vom 13.03.18
+- TOP 6.3.2.2.: Lärmschutzwand an der Eisenbahnbrücke Lochhausener Straße, Schr. Baureferat vom 13.03.18
+- TOP 6.3.2.3.: Verkehrssituation Langwieder Hauptstraße: Einrichtung eines Gehwegs an der Südseite der Langwieder Hauptstraße und Zuschnitt der Sträucher, Schr. Baureferat vom 15.03.18
+- TOP 6.3.2.4.: Überprüfung der Kanaldeckel in der Aubinger Straße zwischen Limes- und Sipplinger Straße, Schr. Baureferat vom 14.03.18
+- TOP 6.3.2.5.: Zusätzlicher Entwerter auf dem Bahnsteig stadteinwärts S-Bahnhalt Neuaubing, Schr. Ref. f. Arbeit u. Wirtschaft vom 21.03.18
+- TOP 6.3.2.6.: Überdachung der Bushaltestelle in der Henschelstraße Nordseite durch Neuordnung des Straßenbereichs der Henschelstraße, Schr. Baureferat vom 16.03.18
+- TOP 6.3.2.7.: Verkehr auf der Wiesentfelser Straße - Zufahrt zur Mittelschule / Lehrerparkplatz, Schr. KVR vom 23.03.18
+- TOP 6.3.2.8.: Verkehrsrechtliche Anordnung, hier: - Ortskern Langwied; Lkw-Sperre, Schr. KVR vom 23.03.18
+- TOP 6.3.2.9.: Herstellung der öffentlichen Verkehrsflächen im Freihamer Weg, Beginn: 13.03.18, Schr. Baureferat vom 20.03.18
+- TOP 6.3.2.10.: Zweirichtungsradweg Bodenseestraße, Schr. KVR vom 19.03.18
+- TOP 6.3.2.11.: "Pförtnerampel" an der BAB 99 AS Germering/Freiham Nord und B2 jeweils Richtung Ost - verkehrssteuernde Maßnahmen für Siedlungsgebiet Freiham/Aubing, Schr. KVR vom 23.03.18
+- TOP 6.3.2.12.: Informationen zur Situation Tunnel Aubing, Schr. KVR vom 20.03.18
+- TOP 6.3.2.13.: Zusätzliche Haltelinie an der neuen Ampel Altostraße Einmündung Ubostraße, Schr. KVR vom 22.03.18
+- TOP 6.3.2.14.: Arbeiten im Straßenraum: Bahnübergang Germeringer Weg (Vollsperre) - Kanalbauarbeiten, Schr. KVR vom 03.04.18
+- TOP 6.3.2.15.: Lärmschutzwand entlang der Lochhausener Straße im Bereich der Eisenbahnbrücke, Schr. Referat für Gesundheit und Umwelt vom 03.04.18
+- TOP 6.3.2.16.: Lärm-Immission in Alt-Aubing, Schr. Referat für Gesundheit und Umwelt vom 03.04.18
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Bauleitplanung Gemeinde Gröbenzell, B-Plan "Obere Gröbenbachwiese", Anhörung Planungsreferat vom 23.03.18
+- TOP 6.4.1.2.: Am Gleisdreieck - Neubau Parkhaus am Gleisdreieck (Am Gleisdreieck/Trimburgstraße), Anhörung Planungsreferat vom 10.04.18
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauanträge im 22. Stadtbezirk: 05.03.-11.03.18, 12.03.-18.03.18, 19.03.-25.03.18, N 26.03.-01.04.18, N 02.04.-08.04.18
+- TOP 6.4.2.2.: Siedlungsgebiet westlich von Aubing, Schr. Planungsreferat vom 23.03.18
+- TOP 6.4.2.3.: Gewerbe in Freiham, Schr. Ref. f. Arbeit u. Wirtschaft vom 23.03.18
+- TOP 6.4.2.4.: Baumaßnahmen der Stadtwerke, Stichtag: 13.03.-21.03.18 und N 22.03.-09.04.18
+- TOP 6.4.2.5.: Bebauungsplan mit Grünordnung Nr. 2083a, Hörweg (südlich), Bodenseestr. (nördlich), BAB A 99 (östlich) - Landschaftspark Freiham, 1. Realierungsabschnitt - , Schr. Planungsreferat vom 26.03.18
+- TOP 6.4.2.6.: Einzäunung und ggf. Neupflanzung der Begrünung an der Nordseite der Lärmschutzwand an der Grünanlage am S-Bahnhof Leienfelsstraße in Richtung Zwingenberger Straße; Begrünung an der Südseite der Lärmschutzwand an der Grünanlage am S-Bahnhof Leienfelsstraße in Richtung Zwingenberger Straße, Schr. Baureferat vom 22.03.18
+- TOP 6.4.2.7.: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV/Verlängerung, Betrieb von Müllfahrzeugen, Schr. Ref. f. Gesundheit u. Umwelt vom 23.03.18
+- TOP 6.4.2.8.: Mehr Parkbänke und Alleebäume in Freiham-Süd, Schr. Baureferat vom 26.03.18
+- TOP 6.4.2.9.: Abgesägte Bäume in Freiham Süd, Schr. Baureferat vom 26.03.18
+- TOP 6.4.2.10.: Stromprojekt Netztrafostation Nederlinger Straße, Schr. SWM vom 09.04.18
+- TOP 6.4.2.11.: Stromprojekt Estinger Straße, Schr. SWM vom 11.04.18
+- TOP 6.4.2.12.: Unterbringung von Auszubildenden und Studenten, Schr. Referat für Stadtplanung und Bauordnung vom 09.04.18
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Verkauf einer städt. Immobilie, hier: Anton-Böck-Str., Gemarkung: Aubing, Flst. 3508/41, Tfl. GE13 SW (Grundstücksgröße ca. 1.090 m² mit einer GF von 1.740 m²), Anhörung Kommunalreferat vom 20.03.18
+- TOP 7.2.: Stadtbezirksbudget für München, Anhörung Direktorium vom 28.03.18
+- TOP 7.3.: Anhörung der Bezirksausschüsse zur Änderung der BA-Satzung und BA-GeschO, Anhörung Direktorium vom 11.04.18
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung "Cafe-Bar Azzurro", Hans-Stützle-Str. 23, Schr. KVR vom 21.03.18
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Am Loferfeld, Schr. Sozialreferat vom 21.03.18 - Am Lochhauser Hügel, Schr. Sozialreferat vom 27.03.18 N - Wichnantstraße, Schr. Sozialreferat vom 04.04.18 N - Zwernitzer Straße, Schr. Sozialreferat vom 04.04.18 N - Wüstensteiner Straße, Schr. Sozialreferat vom 09.04.18
+- TOP 8.3.: Änderung der Bürger- und Einwohnversammlungssatzung; Erweiterung des Rederechts, Schr. Direktorium vom 05.04.18
+- TOP 10.1.1.: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 10.1.2.: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 10.1.3.: (U) PERSPEKTIVE MÜNCHEN - Fortschreibung Hochhausstudie
+- TOP 10.2.1.: (U) Bedienbarkeit der auf der städtischen Homepage bereitgestellten Antragsformulare für Bürgerversammlungen
+- TOP 10.3.1.: (U) Generalinstandsetzung des Beruflichen Schulzentrums Thomas Wimmer - Luisenstraße 9-11, Anmietung eines Ausweichquartiers für die Werkstätten des Städtischen Berufsschulzentrums für das Bau- und Kunsthandwerk an der Luisenstraße 9-11 während der Generalinstandsetzung des Gebäudes Anmietobjekt: Brunhamstraße 21, 22. Stdtbezirk Aubing-Lochhausen- Langwied, Genehmigung des Raumprogrammes, Anmietung eines Ausweichquartiers Umbau / Herrichten des Ausweichquartiers für die Bedarfe der Berufsschulen Schulen: - Berufsschule für das Bau- und Kunsthandwerk, - Fachschule für Bautechnik / Meisterschule, für das Bauhandwerk
+- TOP 10.4.1.: (U) Begrünungsprogramm für Erschließungsstraßen
+- TOP 10.4.2.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 10.5.1.: N - (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 10.5.2.: N - (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen
+- TOP 10.5.3.: N_(U) Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften a) Mehr Freiraum für architektonische Qualität, Bewertung und Umsetzung der Vorschläge des Bundes der Architekten B) Nicht geförderten Wohnraum städtisch unterstützen
+- TOP 11.1.: IsarCard 60, Schr. BA 13 Bogenhausen vom 13.03.18
+- TOP 11.2.: Einsatz für strengere Ausgestaltung der Härtefallregelung im Ausführungsgesetz zum GlüStV, Schr. BA 17 vom 20.03.18
+- TOP 11.3.: Einladung zum Dialog - Zentrale Veranstaltung im Referat für Bildung und Sport am 19.04.18 um 17 Uhr, Schr. Referat für Bildung und Sport vom 09.04.18
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 16.05.2018 im UBO9, Ubostr. 9 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, den 09.04.18, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 10.04.18, 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, den 11.04.18, 19.00 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, den 12.04.18, 19.00 Uhr, Friedrichshafener Str. 11
