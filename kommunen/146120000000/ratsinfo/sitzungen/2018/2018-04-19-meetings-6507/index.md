@@ -1,0 +1,62 @@
+# 50. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-04-19T16:00:00+02:00
+- Ende: 2018-04-19T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6507
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6507
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00340445.pdf
+- Wortprotokoll: Nachtrag_SR_2018_04_19 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00341748.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - zwei Runden
+- TOP 3.1: Einrichtung Gymnasium Gorbitz - erledigt
+- TOP 3.2: Umsetzung Lichtmasterplan Dresden Innenstadt - erledigt
+- TOP 3.3: Gedenken an den 17. April 1945 - erledigt
+- TOP 3.4: Straßenbaulicher Zustand in Dresden-Klotzsche - erledigt
+- TOP 3.5: Städtisches Klinikum Dresden - erledigt
+- TOP 3.6: Elbwiesen sauber halten und an wichtigen Stellen große Container aufstellen - erledigt
+- TOP 3.7: Ruinengrundstücke - erledigt
+- TOP 3.8: Fähre in Pieschen - erledigt
+- TOP 3.9: Kunstaktion Holzengel auf dem Grünstreifen der St. Petersburger Straße - erledigt
+- TOP 3.10: Informationen aus Sitzungen / GLOBUS - erledigt
+- TOP 3.11: Baumaßnahme auf dem Altmarkt - erledigt
+- TOP 3.12: Freifunk für Dresden - erledigt
+- TOP 3.13: Initiativen zur Unterstützung von Geflüchteten - erledigt
+- TOP 3.14: Ordnungsrechtliche Maßnahmen gegenüber Asylbewerbern und geduldeten Flüchtlingen - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 4.1: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 4.2: Umbesetzung im Ortsbeirat Prohlis - Zustimmung
+- TOP 5: Gremienbesetzung - Aufsichtsrat
+- TOP 5.1: Besetzung des Aufsichtsrates der Verkehrsgesellschaft Meißen GmbH (VGM) - gewählt
+- TOP 6: Zweiter Wahlgang
+- TOP 6.1: Wahl von sieben Vertrauenspersonen als Beisitzerinnen bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2019 bis 2023 - gewählt
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Vertagung der Stadtratssitzung vom 25. Januar 2018
+- TOP 8.1: Aufhebung des Erbbaurechtes für das Grundstück Tornaer Straße 40 - Vertagung
+- TOP 9: Vertagungen der Stadtratssitzung vom 22. März 2018
+- TOP 9.1: Anlagepolitik nach ethischen, sozialen und ökologischen Grundsätzen - Vertagung
+- TOP 9.2: Erweiterung des Handlungsprogrammes “Aufwachsen in sozialer Verantwortung” auf ausgewählte Horte und Grundschulen - Zustimmung
+- TOP 9.3: Stadtratsbeschluss zum grundhaften Ausbau und zur Wegweisung touristischer Fernradwege im Stadtgebiet der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 10: Mitgliedschaft der Landeshauptstadt Dresden im Förderverein des Institut français in Sachsen e.V. - Zustimmung
+- TOP 11: Artikelsatzung zur Änderung der Satzungen für die Eigenbetriebe der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 12: Festsetzung der Elternbeiträge ab dem 1. September 2018 nach Vollzug des Abstimmungsverfahrens nach § 15 Abs. 1 SächsKitaG i. V. m. § 2 Abs. 2 der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) - Zustimmung
+- TOP 13: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2016 - Zustimmung
+- TOP 14: 117. Grundschule "Ludwig Reichenbach", Energetische Sanierung Schulgebäude - Zustimmung
+- TOP 15: Bebauungsplan Nr. 3017, Dresden-Hellerau Nr. 13, Gewerbegebiet Flughafen - punktweise Abstimmung mit Ergänzung
+- TOP 16: Grunderwerbsseitige Sicherung der Entwicklungsziele des Bebauungsplanes Nr. 3017 "Dresden-Hellerau Nr. 13, Gewerbegebiet Flughafen" - punktweise Abstimmung
+- TOP 17: Umsetzung „Sozialer Projekte“ im Themenfeld Gesundheit - punktweise Abstimmung mit Ergänzung
+- TOP 18: Förderung der individuellen Elektromobilität im Stadtgebiet der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Umbesetzung im Ortsbeirat Klotzsche - Zustimmung
+- TOP 23: Umbesetzung der Vertretung des Kreiselternrates und des Stadtelternrates Dresden gemäß § 2 und Umbesetzung der Vertretung des Landesamtes für Schule und Bildung (LaSuB) gemäß § 8 (2) der Geschäftsordnung des Bildungsbeirates der LHD - Zustimmung
+- TOP 24: Veränderung der Dresdner Bäderlandschaft nur auf Grundlage eines fortgeschriebenen Bäderkonzeptes durchführen - Vertagung
+- TOP 25: Mietverträge Eigenbetrieb Heinrich-Schütz-Konservatorium der Landeshauptstadt Dresden - Zustimmung mit Ergänzung
+- TOP 26: Mietvertrag Eigenbetrieb Heinrich-Schütz-Konservatorium Dresden - zurückgezogen
