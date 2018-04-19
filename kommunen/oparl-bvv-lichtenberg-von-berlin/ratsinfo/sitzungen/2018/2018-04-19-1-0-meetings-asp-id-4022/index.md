@@ -1,0 +1,118 @@
+# 18. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-04-19T17:00:00+02:00
+- Ende: 2018-04-19T22:05:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4022
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4022
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=238296
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - erledigt
+- TOP 5: Beschlussfassung über die Tagesordnung - erledigt
+- TOP 5.1: Platz am Tierpark-Center sicher und sauber gestalten - vertagt
+- TOP 5.2: Weiternutzung der Spielgeräte der ehemaligen Notunterkunft Karlshorst - zurückgezogen
+- TOP 5.3: Schwerpunkte der Wohnungsbaupolitik in Lichtenberg - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Nacht der Politik - beantwortet
+- TOP 8.2: Artikel "Wer trägt die Verantwortung? Die Müllhalde der Graffiti-Ferkel" - beantwortet
+- TOP 8.3: Ergebnisse des Kita-Forums - beantwortet
+- TOP 8.4: Baumfällungen entlang des Hegemeisterwegs - beantwortet
+- TOP 8.5: Kunst auf dem Gelände der Kultschule vor Baukränen retten - beantwortet
+- TOP 8.6: Holzfiguren Sewanstraße 43 - beantwortet
+- TOP 8.7: Wartezeiten bei Wohngeld- und Elterngeldanträgen in Lichtenberg - beantwortet
+- TOP 8.8: PUR-Konzert in Lichtenberg - beantwortet
+- TOP 8.9: Zusammenarbeit mit dem Tierheim Berlin und die Zukunft der Tiersammelstelle - schriftlich beantwortet
+- TOP 8.10: AfD-Fest im Wartenberger Hof - schriftlich beantwortet
+- TOP 8.11: Björn Höcke im Wartenberger Hof - schriftlich beantwortet
+- TOP 8.12: Spielplatzsituation in Lichtenberg - schriftlich beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Vorschläge zum Bürgerhaushalt aus 2017/2018 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Zuwegung zum Stadtpark barrierearm umgestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Barrierefreiheit im Fennpfuhlpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Sanierung der nordöstlichen Zuwegung zum Fennpfuhlpark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Fortschreibung zur Investitionsplanung 2017 - 2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Audit Familiengerechte Kommune - Bilanzierungsaudit für den Bezirk Lichtenberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Transparente Kommunikation über Flüchtlingswohnen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Lichtenberg wird Mitglied im Bündnis "Kommunen für biologische Vielfalt e. V." - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Selbständige und eigenverantwortliche Kindertagesstätten fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.10: Empfang des Bezirksamtes im Theater an der Parkaue - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Frauen*- und Trans*Personen-Schwimmen auch in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Soziale Infrastrukturbedarfe im Berliner Modell der kooperativen Baulandentwicklung an die Planung des Projektträgers anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Wirksamkeitsdialog qualitativ verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Die BVV über zweckentfremdeten Wohnraum informieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Änderungen im Planverfahren am Prerower Platz - Wartenberger Straße 175 (vorhabenbezogener B-Plan 11-73 VE) - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Überdachung auf dem S-Bahnhof Karlshorst komplettieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Coppi-Gewerbepark schneller und aktiver koordinieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Beleuchtungsanlagen für Lichtenberger Sportplätze - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: App zur Sporthallenauslastung einrichten - überwiesen
+- TOP 9.20: Gedenken an Heinrich Zille am Haus Lückstraße 31 - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Warteliste des Jugendamtes für dringende Kitaplätze bekannt machen - überwiesen
+- TOP 9.22: Verbindliche Freistellungsregelung beim Ehrenamt in der Jugendarbeit schaffen - überwiesen
+- TOP 9.23: Förderung ehrenamtlichen Engagements von Schüler*innen in Lichtenberg - überwiesen
+- TOP 9.24: Verkehrssicherheit in Rummelsburg erhöhen - überwiesen
+- TOP 9.25: Gemeinsame Gestaltung der Freiflächen um die Kultschule - ohne Änderungen in der BVV beschlossen
+- TOP 9.26: Überquerung der Dorotheastraße für Fußgänger erleichtern - überwiesen
+- TOP 9.27: Task-Force für große Bauprojekte - überwiesen
+- TOP 9.28: Parken in der 2. Reihe ahnden - ohne Änderungen in der BVV beschlossen
+- TOP 9.29: Bücher lesen! - überwiesen
+- TOP 9.30: Bessere Würdigung von Ehrenamtlichen der Sozialkommissionen (Soko) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Lückenschluss am Fahrradweg Gehrenseestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Stadtteilkonferenz zu den Nachverdichtungspotenzialen im Fennpfuhl - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.33: Wohnungslosigkeit verhindern - Mieter*innen der Hauptstraße 1g-i schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.34: Vergabe des Preises für „Demokratie und Zivilcourage“ 2018 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.35: Vergabe des Lichtenberger Frauenpreises 2018 für frauen- und gleichstellungspolitisches Engagement - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.36: Einrichtung einer Stelle als Mobilitätsmanager/in für die Umsetzung des Klimaschutzteilkonzeptes „Klimafreundliche Mobilität für Berlin-Lichtenberg“ - überwiesen
+- TOP 9.37: Einführung E-Recruiting (REXX) für alle Stellenausschreibungen der Bezirksverwaltung - überwiesen
+- TOP 9.38: Rahmenkonzept Stadtteildialoge in Lichtenberg - überwiesen
+- TOP 9.39: Beschilderung von Habitat-Bäumen mit entsprechenden Informationsschildern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.40: Bebauungsplan XVII-21 - Geltungsbereichserweiterung; Arbeitstitel: Sportplatz Fischerstraße 15-16 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.41: Bebauungsplan 11-158 - Aufstellungsbeschluss; Arbeitstitel: „Zwieseler Straße/Nord“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Beratungskomplex "Rheinpfalzallee" - beantwortet
+- TOP 11.1: Standort Rheinpfalzallee - beantwortet
+- TOP 11.2: MUF-Standort Rheinpfalzallee - beantwortet
+- TOP 11.3: Keine Modulare Unterkunft für Flüchtlinge in der Rheinpfalzallee 83 - in der BVV abgelehnt
+- TOP 11.4: Unterkunft in der Rheinpfalzallee in Einklang mit vorhandenen B-Plan bringen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bebauungsplan 11-160 - Aufstellungsbeschluss; Arbeitstitel: „Rheinpfalzallee“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Aktuelle Kitaplatz-Situation und Umgang mit dem Betreuungsschlüssel in Lichtenberger Kitas - schriftlich beantwortet
+- TOP 12.2: Obdachlosigkeit und Wohnungslosigkeit bekämpfen - vertagt
+- TOP 13: Wahlen - (offen)
+- TOP 13.1: Vorschlagsliste zur Neuwahl der ehrenamtlichen Richterinnen und Richter bei dem Verwaltungsgericht Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Prioritäten der Fraktionen - (offen)
+- TOP 14.1: Bündnis für Wohnungsneubau und Mieterberatung unterzeichnet sowie Bündnis für Wohnen in Lichtenberg fortgesetzt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Schnelles Bauen an der Frankfurter Allee 196 - in der BVV abgelehnt
+- TOP 14.3: Bebauungsplan für Coppi-Gewerbepark - ohne Änderungen in der BVV beschlossen
+- TOP 15: Beschlussempfehlungen der Ausschüsse - erledigt
+- TOP 16: Anträge zur Beschlussfassung - (offen)
+- TOP 16.1: Entwicklung im Gebiet Große-Leege-Straße/Freienwalder Straße unterstützen - überwiesen
+- TOP 16.2: Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für das Grundstück Große-Leege-Straße 95 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.3: Umgestaltung des Reweparkplatz in der Alfred-Kowalke-Straße - zurückgezogen
+- TOP 16.4: Formen der Kommunikation zwischen dem Bezirksamt und der BVV - zurückgezogen
+- TOP 16.5: Bezirkssportbund durch Verwaltungsstelle entlasten und verstärken - überwiesen
+- TOP 16.6: Sportvereine stärker beteiligen bei Bau-, Modernisierungs- und Planvorhaben von Turnhallen und Sportplätzen - überwiesen
+- TOP 16.7: Rechtzeitige Information bei Neubau, Sanierungs- und Baumaßnahmen von Schulen und Sporthallen sowie Einbeziehung Betroffener bei der Planung - überwiesen
+- TOP 16.8: Fahrradwerkstatt der ehemaligen Notunterkunft Karlshorst erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 16.9: Freie Fahrt fürs Ehrenamt - ohne Änderungen in der BVV beschlossen
+- TOP 16.10: Engagement für Kleiderkammer unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 16.11: Sicherer Schulweg über die Siegfriedstraße - ohne Änderungen in der BVV beschlossen
+- TOP 16.12: Humanitäre Einsätze würdigen - in der BVV abgelehnt
+- TOP 16.13: Straßeninstandsetzung und Beleuchtung Fischerstraße / Zobtener Straße - in der BVV abgelehnt
+- TOP 16.14: Lichtenberg setzt ein Zeichen für die Freiheit der Kunst - vertagt
+- TOP 16.15: Entlastung der Treskowallee - vertagt
+- TOP 16.16: Mobilitätskonzept für das Gewerbegebiet Herzbergstraße - vertagt
+- TOP 16.17: Integriertes Energie- und Klimaschutzkonzept für das Gewerbegebiet Herzbergstraße - vertagt
+- TOP 17: Vorlagen zur Kenntnisnahme - vertagt
+- TOP 17.1: Pflege-Wohngemeinschaften in der Landsberger Allee 131 c retten - vertagt
+- TOP 18: Schließung der Sitzung - erledigt
