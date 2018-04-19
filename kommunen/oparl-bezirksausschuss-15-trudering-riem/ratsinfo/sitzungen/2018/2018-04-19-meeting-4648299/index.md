@@ -1,0 +1,119 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2018-04-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4648299
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4648299
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 1.3.1.: 7.4.0 Willy-Brandt-Alle, Fl.Nr.: 1408/147 - Neubau eines Mehrfamilienhauses mit Gemeinschaftseinrichtungen, Gewerbe und Großgarage BEHANDLUNG IM PLENUM AUF INITIATIVE DES UA VORSITZENDEN (ohne vorherige Anmeldung für die TO)
+- TOP 1.3.2.: 8.2.11 Kranichweg 39
+- TOP 2.1.1.: (E) Budget der Bezirksausschüsse TSV Trudering e.V. Anschaffung von Bodenturnmatten und eines Sprungbretts 4.592,00€ Az. 0262.0-15-0247
+- TOP 2.1.2.: (E) Budget der Bezirksausschüsse Freundeskreis des Sonderpäd. Förderzentrums München-Ost Zuschuss für die Druckkosten der Schülerzeitung „Easrsider“ 573,10€ Az. 0262.0-15-0248
+- TOP 2.1.3.: (E) Budget der Bezirksausschüsse Elternbeirat, Grundschule Lehrer-Wirth-Straße Einsatz digitaler Medien im Unterricht zur Erhöhung der Chancengleichheit 7.099,00 € Az: 0262.0-15-0245
+- TOP 2.2.1.: (E) Verkehrssituation und -sicherheit in der Bahnstraße
+- TOP 3.2.1.: Antrag auf Einrichtung eines Taxi-Standplatzes im Stahlgruberring
+- TOP 3.2.2.: Thomas-Hauser-Straße: zu hohe Geschwindigkeit Verweis aus der Märzsitzung in den UA zwecks Abstimmung eines OT
+- TOP 3.2.3.: Beantragung einer Dogstation in Waldtrudering
+- TOP 3.5.1.: In der Heuluss: Sanierung des Bolzplatzes
+- TOP 4.1.: Den Bienen das Leben leichter machen - auch in Trudering-Riem
+- TOP 4.2.: Wann geht es mit der Alten Flughafentribüne weiter?
+- TOP 4.3.: Bei Umsetzung von SEM auf erhöhten Grundwasserspiegel achten
+- TOP 5.1.: Planungsideen für Kirchtrudering offenlegen
+- TOP 5.2.: Selma-Lagerlöf-Straße 50: Umgestaltung des Gehsteigs
+- TOP 5.3.: Verdruss ohne Ende: S-Bahnaufzug Gronsdorf über drei Wochen außer Betrieb
+- TOP 5.4.: Verfügbarkeit der Fahrtreppen am Truderinger U-Bahnhof verbessern
+- TOP 5.5.: Glasfaseranschluss – städtische und andere öffentliche Einrichtungen gleich behandeln
+- TOP 5.6.: Heinrich-Böll-Straße - Anlieferung für die Kindertagesstätte durch den Riemer Park
+- TOP 5.7.: Gleiche Anbindung ans Internet für alle Bildungseinrichtungen im 15. Stadtbezirk
+- TOP 5.8.: Fertigstellung der Bebauung am Horst-Salzmann-Weg
+- TOP 5.9.: Querungszeit von Verkehrsampel fallweise für Rollstuhlfahrer verlängerbar?
+- TOP 5.10.: Wasserburger Landstraße - Erinnerungsstätte an den schweren Unfall vom September 2017
+- TOP 5.11.: Lieber gut sitzen als schlecht stehen – mehr Sitzgelegenheiten unter dem Gronsdorfer Bahnsteigdach vertagt aus der Märzsitzung
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Stadtbezirksbudget für München; Anhörung der Bezirksausschüsse
+- TOP 7.1.2.: Änderung der BA-Satzung Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen
+- TOP 7.1.3.: Feldbergstr. 95 (Truderinger Festwiese) - Oldtimertreffen mit Sommerfest am 07.07.2018 Termin: 08.06.2018
+- TOP 7.1.4.: Feldbergstr. 95 (Truderinger Festwiese) - Tanz in den Mai am 30.04.2018 Termin: 16.04.2018 (Fristverlängerung bis 20.04.2018)
+- TOP 7.1.5.: Wasserburger Landstr. 32 (Truderinger Festplatz) - Truderinger Festwoche vom 04.05.-13.05.2018 Termin: 18.04.2018 (Fristverlängerung bis 20.04.2018)
+- TOP 7.1.6.: Veranstaltung in einer städtischen Grünanlagen: Skatepark Mobil von April bis September 2018, Standort: Riemer Park und im Skatepark in Trudering Termin: 20.04.2018
+- TOP 7.1.7.: Olof-Palme-Straße / Joseph-Wild-Straße (stadteigenes Fl.St. 1408/104 nördliche Tlfl.) Interkulturelles Fest 2018 am 23.06.2018 - 24.06.2018 und 30.06.2018 - 01.07.2018
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Verkehrssituation Stolzhofstraße
+- TOP 7.2.2.: Hanns-Schwindt-Str.: Einrichtung eines absoluten Halteverbotes
+- TOP 7.2.3.: Radverkehr: Neue Fußgängerfurt und Schutzstreifen im Knoten Riemer Straße / Schatzbogen verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 7.2.4.: Anhörung zum MVG-Leistungsprogramm 2019 Termin: 18.05.2018
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Iltisstraße 43, Fl.Nr.: 505/31 - Neubau zweier Doppelhäuser mit 4 Einzelgaragen - hier: DHH 4 (Iltisstr. 43 / Lebzelterstr. 23)
+- TOP 7.4.2.: Iltisstraße 43, Fl.Nr.: 505/31 - Neubau zweier Doppelhäuser mit 4 Einzelgaragen - hier: DHH 3 (Iltisstr. 43 / Lebzelterstr. 23)
+- TOP 7.4.3.: Iltisstraße 43, Fl.Nr.: 505/31 - Neubau zweier Doppelhäuser mit 4 Einzelgaragen - hier: DHH 2 (Iltisstr. 43 / Lebzelterstr. 23)
+- TOP 7.4.4.: Iltisstraße 43, Fl.Nr.: 505/31 - Neubau zweier Doppelhäuser mit 4 Einzelgaragen - hier: DHH 1 (Iltisstr. 43 / Lebzelterstr. 23)
+- TOP 7.4.5.: Xaver-Weismor-Straße 4c, Fl.Nr.: 98/9 - Neubau dreier Einfamilienhäuser mit Garage - VORBESCHEID
+- TOP 7.4.6.: Talerweg 13, Fl.Nr.: 350/0 - Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 7.4.7.: Fauststraße 40, Fl.Nr.: 2258/125 - Neubau dreier Mehrfamilienhäuser (5+5+8 WE) mit Tiefgarage (Fauststr. 40 / Hippelstr. 57b)
+- TOP 7.4.8.: Lehrer-Götz-Weg 22, Fl.Nr.: 46/5 - Neubau eines Dreispänners mit Garagen
+- TOP 7.4.9.: Gerstäckerstraße 28, Fl.Nr.: 2253/42 - Neubau eines Wohnhauses
+- TOP 7.4.10.: Astrid-Lindgren-Straße (ohne Hausnummer), Fl.Nr.: 1408/162 - Neubau eines Wohn- und Geschäftshauses mit zweigeschossiger Tiefgarage (Astrid-Lindgren-Straße / Michael-Ende-Straße / Willy-Brandt-Allee) - TEKTUR zu 1.1-2015-28507-32
+- TOP 7.4.11.: Kirchtruderinger Straße 8, Fl.Nr.: 45/0 - Neubau eines Mehrfamilienhauses (8 WE) mit Unterflurparkern
+- TOP 7.4.12.: Eisvogelweg 23 - 23a, Fl.Nr.: 524/5 - Neubau eines Mehrfamilienhauses (5 WE)
+- TOP 7.4.13.: Stahlgruberring (ohne Hausnummer), Fl.Nr.: 118/24 - Neubau eines Hotels - VORBESCHEID
+- TOP 7.4.14.: Waldschulstraße 22 - 22a, Fl.Nr.: 1032/0 - Neubau einer Wohnanlage (2 Gebäude mit je 5 WE) mit Tiefgarage
+- TOP 7.4.15.: Vogesenstraße 3, Fl.Nr.: 368/4 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Schanderlweg 5
+- TOP 8.1.2.: In der Heuluss 38/40
+- TOP 8.2.1.: Achenseeplatz 11 Böcklerweg 24 Günderodestr. 15 Kameruner Straße 30 Markgrafenstraße 14 Rofanstraße 17 Rotfuchsweg 10 Sansibarstraße 37 Talerweg 13 Vogesenstraße 3
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Weihnachtsbeleuchtung-Adventleuchten in der Truderinger Straße am 01.12.2017 Sachbericht der Veranstaltung des GEVT (Gewerbe & Eigentümer Verband Trudering e.V.)
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: Thomas-Hauser-Straße: Einrichtung eines eingeschränkten Haltverbotes verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 10.2.2.: Am Mitterfeld zwischen Joseph-Wild-Straße und Stockerweg: Änderung der Beschilderung verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 10.2.3.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 10.2.4.: Information über Betriebskonzept während Schienenschleifarbeiten auf der U2-Ost und U5-Süd
+- TOP 10.2.5.: (U) Antrag auf Reduzierung des Verkehrsaufkommens in der Friedrich-Creuzer-Str. und Friedenspromenade durch Bebauungsplan Nr. 2090 Empfehlung Nr. 14-20 / E 01711 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 05.10.17
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Kathreinweg 22
+- TOP 10.4.2.: Agathenstraße 27
+- TOP 10.4.3.: Mondseestraße 22
+- TOP 10.4.4.: Am Hochacker 51
+- TOP 10.4.5.: Irmelastraße 22
+- TOP 10.4.6.: Talerweg 13
+- TOP 10.4.7.: Edeltraudstr. 29
+- TOP 10.4.8.: Neumarkter Straße 1: Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Nachtrag eines Apparate-, Fabrikations- und Werkstattgebäudes in die Denkmalliste
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Neuvorschläge für schützenswerte Bäume im Stadtbezirk Stellungnahme zum Schreiben des BA vom 01.03.2017 (TOP 7.6.1 / 0217)
