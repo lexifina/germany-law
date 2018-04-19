@@ -1,0 +1,133 @@
+# 17. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2018-04-19T17:30:00+02:00
+- Ende: 2018-04-19T22:40:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4360
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4360
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=403335
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: der Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - im Ausschuss abgelehnt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Kampf gegen Müll in Mitte - beantwortet
+- TOP 7.2: Gedeckte Kernsportanlagen im Bezirksvergleich – Letzter Platz für Mitte - beantwortet
+- TOP 7.3: Streetart meets Mitte - beantwortet
+- TOP 7.4: Mehrbedarf für Alleinerziehende gewähren, finanzielle Armut lindern - beantwortet
+- TOP 7.5: Notunterbringung der Carl-Kraemer-Grundschule auf Grund von Schimmel und Einsturzgefahr und (k)ein Ende in Sicht? - beantwortet
+- TOP 7.6: Hilfe für Moabit hilft - beantwortet
+- TOP 7.7: Weiterhin unbekannter Platz am Maxim-Gorki Theater - beantwortet
+- TOP 7.8: Buckelpisten in der Hauptstadtmitte - schriftlich beantwortet
+- TOP 7.9: Wann kommt endlich das Platzmanagement für den Alexanderplatz? - schriftlich beantwortet
+- TOP 7.10: Tempo 30 auf den Straßen von Berlin Mitte - schriftlich beantwortet
+- TOP 7.11: Planschen in Mitte - schriftlich beantwortet
+- TOP 7.12: Zur Schau Stellung von Menschenteilen: Unterschiedliche Maßstäbe? - schriftlich beantwortet
+- TOP 7.13: Quo vadis Berliner Großmarkt? - schriftlich beantwortet
+- TOP 7.14: Was ist mit den Spielplätzen im Bezirk Mitte? - schriftlich beantwortet
+- TOP 7.15: Bündnis für Wohnungsneubau und Mieterberatung 2018 – 2021 - schriftlich beantwortet
+- TOP 7.16: Luisenstädtischer Kanal und Engelbecken - schriftlich beantwortet
+- TOP 7.17: Wartezeiten im Standesamt Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Räumung der Kameruner Straße 5 - beantwortet
+- TOP 8.2: Kameruner Str. 5 - Zwangsräumung und wie weiter? - schriftlich beantwortet
+- TOP 8.3: Mit Metallstacheln gegen Obdachlose- Rote Karte für Eyes of Berlin! - schriftlich beantwortet
+- TOP 8.4: Girl’s Day: Die Pressestelle des Bezirksamts - ist das MINT? - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Wie wichtig ist dem Bezirk der Umgang mit Eltern der Kita FAIR Play, deren Kitaplätze für ihre Kinder in Gefahr sind? - beantwortet
+- TOP 9.2: Wegsehen, aussitzen, beschwichtigen - die neue (alte) Strategie beim Umgang mit den massiven Problemen im Standesamt Mitte? - beantwortet
+- TOP 9.3: Wie sich das BA mit dem Kutschen-Durchfahrtsverbot „vergaloppierte“ - schriftlich beantwortet
+- TOP 9.4: Jobcenterirrsinn bei Beschäftigungskursen auch in Mitte? - schriftlich beantwortet
+- TOP 9.5: Gibt es ernsthaft Bedenken gegen mehr Grün im Nikolaiviertel? - schriftlich beantwortet
+- TOP 9.6: Rathenower50 – Vorkaufsrecht durchsetzen - schriftlich beantwortet
+- TOP 9.7: Neue Datenschutzrichtlinie der EU - ist das Bezirksamt vorbereitet? - schriftlich beantwortet
+- TOP 9.8: Ende der Taskforce Tiergarten? - schriftlich beantwortet
+- TOP 9.9: Religiös motiviertes Mobbing und weitere Straftaten (Messerattacken) an Berliner Schulen - schriftlich beantwortet
+- TOP 9.10: Trägerwechsel bei Kitas - schriftlich beantwortet
+- TOP 9.11: Kein Platz für Mädchen und Kunst im Bezirk Mitte? - schriftlich beantwortet
+- TOP 9.12: Spielplatzneugestaltungen im Huttenkiez - schriftlich beantwortet
+- TOP 9.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.14: Wie weiter mit dem PALAIS AM FESTUNGSGRABEN - schriftlich beantwortet
+- TOP 9.15: Zusammenarbeit mit der GFJ - schriftlich beantwortet
+- TOP 9.16: Bessere Arbeitsbedingungen für Hebammen durch gute Parkmöglichkeiten - schriftlich beantwortet
+- TOP 9.17: Programm für die Sanierung der Berliner Volksparks 2020? - schriftlich beantwortet
+- TOP 9.18: Säuglingssterblichkeit im Bezirk Mitte - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Schöffenwahlausschuss 2019-2024 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: über den Entwurf der Anmeldungen für die Investitionsplanung 2018 - 2022 für den Fachbereich Schule - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Unterstützung der Eltern in der Kita F.A.I.R. Play in der Albrechtstr. - im Ausschuss abgelehnt
+- TOP 13.2: Versuchstrecke Tempo30-Anordnung der Leipziger Straße verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Eine Toilette für Menschen mit Behinderung in der Arminiushalle - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Umgang mit den BewohnerInnen der Obdachlosenunterkunft Gotenburger Straße nach dem Ende der Kältehilfe - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ausschilderung Stadion Rehberge - überwiesen
+- TOP 14.2: Gewerbesteuer statt Almosen für den Bezirk Mitte - überwiesen
+- TOP 14.3: Kompetenzen im Umgang mit Mobbing und Diskriminierung an den Schulen Mittes stärken - überwiesen
+- TOP 14.4: Bestäuberfreundlicher Bezirk - Flächen für Bienen aufwerten - überwiesen
+- TOP 14.5: Wahl von stellvertretenden Bürgerdeputierten: - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Bürger*innen vor Ort beteiligen - überwiesen
+- TOP 14.7: Weiß das Bezirksamt über die Internetfähigkeiten seiner Schulen Bescheid? - überwiesen
+- TOP 14.8: Falschparker im Volkspark Rehberge - überwiesen
+- TOP 14.9: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: City Trees - überwiesen
+- TOP 14.11: Sondergenehmigung für Mädchenprojekt “A Woman’s Work” - gegenstandslos
+- TOP 14.12: Tierschutz über Bezirksgrenzen hinaus (immer noch) - überwiesen
+- TOP 14.13: Bezirksamt Mitte baut sein Engagement aus zur Beschäftigung von Langzeitarbeitslosen - überwiesen
+- TOP 14.14: Berliner Sportgeschichte hautnah – Eine Flutlichtanlage im Poststadion - überwiesen
+- TOP 14.15: Leicht verständlich mit leichter Sprache auch in leichter Sprache zu verfassen - überwiesen
+- TOP 14.16: Arbeitslosigkeit und Hartz IV vermeiden – Zahl der Schulabbrecher*innen in Mitte endlich nachhaltig senken! - überwiesen
+- TOP 14.17: Konzept über die Ertüchtigung des Mauerradweges - überwiesen
+- TOP 14.18: In die „Blumen-Pötte“ kommen und Urban-Gardening im Nikolaiviertel endlich genehmigen! - überwiesen
+- TOP 14.19: Zentrale Erfassung von Fällen der sogenannten „Reichsbürgern“ und „Selbstverwaltern“ ein-führen - überwiesen
+- TOP 14.20: Spielplätze wirklich realisieren und instand halten II - überwiesen
+- TOP 14.21: Alte Ideen bewahren und neuen Anforderungen gerecht werden - überwiesen
+- TOP 14.22: Ein Zaun macht den Magdeburger Platz noch nicht lebenswert! - überwiesen
+- TOP 14.23: Sitzbänke im Bezirk Mitte instand halten! - überwiesen
+- TOP 14.24: 100 neue Stellen für Mitte: - überwiesen
+- TOP 14.25: Transparenten Beratungsprozess zur Investitionsplanung 2019-2023 rechtzeitig vorbereiten: - überwiesen
+- TOP 14.26: Gestaltung künftiger Haushaltsberatungen II: - überwiesen
+- TOP 14.27: Platz für Mädchen und Kunst im Bezirk Mitte! - gegenstandslos
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: Danksagung an die Jury-Mitglieder im Umbenennungsprozess Afrikanisches Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Gemeinschaft schaffen – Grillen ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 17.2: AnwohnerInnen bei Arbeiten auf Straßen und Plätze informieren - ohne Änderungen in der BVV beschlossen
+- TOP 17.3: Schulen brauchen Internet - WLAN in die Klassenzimmer - in der BVV abgelehnt
+- TOP 17.4: Stadtentwicklung als Chance zum Erinnerungserhalt: Erinnerung an Passierscheinstelle ins Heute und Morgen mitnehmen - mit Änderungen in der BVV beschlossen
+- TOP 17.5: Obdachlosigkeit vermeiden, Wohnen in der Kameruner Str. 5 sichern - ohne Änderungen in der BVV beschlossen
+- TOP 17.6: E-Mobilität fördern: Ladestationen an öffentlichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 17.7: Endlich neue Sitzbänke für den Union Park! - gegenstandslos
+- TOP 17.8: Informationstafeln für Baumfällungen - mit Änderungen in der BVV beschlossen
+- TOP 17.9: Aufstockung der personellen Ressourcen im Schulamt und FM - mit Änderungen in der BVV beschlossen
+- TOP 17.10: Kommunikation verbessern – Beteiligung und Transparenz sichern - ohne Änderungen in der BVV beschlossen
+- TOP 17.11: Neue Straßennamen im Afrikanischen Viertel - mit Änderungen in der BVV beschlossen
+- TOP 17.12: Geschützte Räume für homo- und transsexuelle Obdachlose in der Kältehilfe schaffen - mit Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Alt Moabit zwischen Kleinem Tiergarten Spree-Bogen/McFit sicher überqueren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Erinnerung aufrechterhalten – Deutscher Gedenkort zu Kolonialverbrechen insbes. zum Völkermord an Herero und Nama - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.3: Prüfung der Umsetzungen von städtebaulichen Verträgen und Durchführungsverträgen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.4: Erreichbarkeit von Parks und Grünanlagen verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.5: Anschaffung von Hundekotbeutelspendern am Sparrplatz und Nettelbeckplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Sportmasterplan aktualisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Masterplan Prostitution - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Gefährdungsbeurteilung - GBU Physische und psychische Belastungen am Arbeitsplatz in der Bezirksverwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Namensänderung der 01Y11 Max-Planck-Schule (Gymnasium) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Namensänderung der 01Y09 Diesterweg-Schule (Gymnasium) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Stadtteilzentrum "Bildungs- und Kulturbrücke" Lehrter Str./Seydlitzstr. - mit Zwischenbericht zur Kenntnis genommen
