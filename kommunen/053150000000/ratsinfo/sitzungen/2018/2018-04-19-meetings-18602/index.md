@@ -1,0 +1,70 @@
+# 35. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-19T17:00:00+02:00
+- Ende: 2018-04-19T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18602
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18602
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sicherheitskonzepte zu Veranstaltungen - Kenntnis genommen
+- TOP 7.1.2: Sanierung Bürgersteige 2.0 - Kenntnis genommen
+- TOP 7.1.3: Finanzierung des Spielplatzes Leineweg-Ost - Kenntnis genommen
+- TOP 7.1.4: Alternative Bestattungsformen - Kenntnis genommen
+- TOP 7.1.5: Optimierung des ÖPNV-Angebotes im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.6: Grundstückserweiterung südliche Seeanlieger Escher See - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Öffnungszeiten / Betriebszeiten im Schwimmbad Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Sachstand zur Baumaßnahme alte Schule Roggendorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Session-Vorlage 0482/2018 Anfrage Die Linke - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Behindertengerechter Umbau der Rampe am Fahrradstellplatz U-Bahnhofstation Heimersdorf - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Energiebilanzen der Schulgebäude im Bezirk Chorweiler Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnsi´90 / Die Grünen - ungeändert beschlossen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 8.3.2: Verkehrszählung an der B9 - Ortslage Worringen Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.3.3: Planungsaufnahme zur Verlängerung der Stadtbahnlinie 12 bis Feldkassel Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung einer Mega-Light-Werbeanlage im Bereich der Merianstraße / Einmündung Neusser Landstraße - zurückgestellt
+- TOP 9.1.2: Bewirtschaftung von Stellplätzen sowie Einführung "15-Minuten kostenloses Parken" in Köln-Heimersdorf - ungeändert beschlossen
+- TOP 9.1.3: Umsetzung des Integrierten Handlungskonzeptes Lindweiler Hier: Ernennung eines Mitgliedes für den Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.1.4: Bürgerhaushalt 2016 - Budgetverteilung - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sport- und Erholungsanlage Fühlinger See hier: Ausschreibungsverfahren zur Parkraumbewirtschaftung und Kontrolle des Tauchens ab 2019 - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - ungeändert beschlossen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.2: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.3: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 10.2.4: Durchforstungsplanung 2018 zur Pflege des städtischen Waldes hier: Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.5: Aufwertung von Plätzen in den Stadtbezirken - geändert beschlossen
+- TOP 10.2.6: Planung von Jugendeinrichtungen in Köln Roggendorf / Thenhoven und Kalk hier: Sachstand - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Bilanz nach dem Orkan Friederike - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
+- TOP 11.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
