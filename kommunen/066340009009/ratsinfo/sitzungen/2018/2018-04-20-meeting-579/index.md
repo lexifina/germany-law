@@ -1,0 +1,53 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (16. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2018-04-20T19:02:00+02:00
+- Ende: 2018-04-20T20:47:00+02:00
+- Ort: Dorfgemeinschaftshaus Sondheim, Zum Aschberg 4, 34576 Homberg (Efze), Besprechungsraum
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZQ2Z5WynPrs3o4FQv9HZvok
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/579
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQm7StYHbI9_lMD9uTOrsvJBmy26DHOv7ZcZuN--y0kD/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_20.04.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeMC7s3CkLjPWyVNkiDzKaV8x0G2ajypst43fZTR7Pn_/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_20.04.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Umwidmung von Haushaltsmitteln aus HH-Resten 2017 - (kein Text vorhanden)
+- TOP 2.: Umwidmung von Haushaltsmitteln für die Maßnahme „Sofortprogramm Abwasser“ - (kein Text vorhanden)
+- TOP 3.: Entwidmung des alten Friedhofes im Stadtteil Berge - (kein Text vorhanden)
+- TOP 4.: Vergabe einer neuen Straßenbezeichnung im Holzhäuser Feld - (kein Text vorhanden)
+- TOP 5.: Änderung und Ergänzung der Stadthallensatzung
+- TOP 6.: Neufassung der Satzung über die Entschädigung für ehrenamtliche Tätigkeit in der Kreisstadt Homberg (Efze) - (kein Text vorhanden)
+- TOP 7.: Städtebauförderprogramm Aktive Kernbereiche in Hessen a) Antragstellung auf Aufnahme in das Förderprogramm ab dem Programmjahr 2018 für den Bereich „Südlichen Innenstadt“ b) Beschlussfassung zur Erarbeitung eines Integrierten städtebaulichen Entwicklungs- konzeptes bei einer Aufnahme in das Förderprogramm innerhalb eines Jahres nach der Aufnahme in das Förderprogramm c) Beschlussfassung über den Aufbau einer Steuerungsstruktur (Kernbereichs- management) bei einer Aufnahme in das Förderprogramm d) Beschlussfassung über den Aufbau einer lokalen Partnerschaft - (kein Text vorhanden)
+- TOP 8.: Umbau des Verwaltungsgebäudes des Baubetriebshofes der Kreisstadt Homberg (Efze) a) Aufhebung der Haushaltssperre b) Beratung und Beschlussfassung über eine Ausbauvariante - (kein Text vorhanden)
+- TOP 9.: Verkehrsentwicklungsplan Homberg (Efze), Teil 1: Altstadt hier: Beratung über den Entwurf des Verkehrsentwicklungsplanes für die Altstadt
+- TOP 10.: Sachstandsberichte und sonstige Informationen
+- TOP 10.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 10.2: Antrag der CDU-Fraktion vom 11.12.2014 - betr. Kritische Prüfung des internen Kontrollsystems sowie die Gestaltung wichtiger Arbeitsabläufe
+- TOP 10.3: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 10.4: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 10.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 10.6: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 10.7: Antrag der CDU-Fraktion vom 17.02.2017 - betr. Stärkung des Nahverkehrsstandort Homberg
+- TOP 10.8: Antrag der SPD-Fraktion vom 24.04.2017 – betr. Beutelspender für Hundekot
+- TOP 10.9: Antrag der FDP-Fraktion von 09.05.2017 - betr. Errichtung eines Gehwegs an der Ziegenhainer Straße und der Robert-Bosch-Straße
+- TOP 10.10: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 10.11: Antrag der FWG-Fraktion vom 23.08.2017 - betr. Herkulesstauden in der Gemarkung Homberg und Stadtteile
+- TOP 10.12: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 10.13: Antrag der SPD-Fraktion vom 19.10.2017 - betr. Kriminalpräventionsrat
+- TOP 10.14: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 10.15: Antrag der CDU-Fraktion vom 1. Februar 2018 betr. Alternativlösung neben der derzeitig vorliegenden Projektstudie zur Neukonzeption des Rathauses
+- TOP 10.16: Antrag der BL Homberg vom 1. Februar 2018 betr. PDF-Format von Protokollen und Sitzungsunterlagen
+- TOP 10.17: Resolution Kita-Gebühren auf Anregung des Vorstands der Kreisgruppe des Hessischen Städte- und Gemeindebundes
+- TOP 10.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.: Anträge
+- TOP 11.1: Antrag der BL Homberg vom 05. April 2018 betr. Änderung Nr. 1 zum Bebauungsplan Nr. 31 Schmückebergsweg - (kein Text vorhanden)
+- TOP 11.2: Antrag der BL Homberg vom 05. April 2018 betr. Durchsetzung § 2 Spielhallengesetz - (kein Text vorhanden)
+- TOP 11.3: Antrag der FWG-Fraktion vom 04. April 2018 betr. Straßenbeleuchtung in der Kernstadt und in den Stadtteilen - (kein Text vorhanden)
+- TOP 12.: Anfragen
+- TOP 12.1: Anfrage der BL Homberg vom 05. April 2018 betr. Entwässerungssatzung vom 29.04.2014
+- TOP 12.2: Anfrage der Fraktion Bündnis 90 / DIE GRÜNEN vom 04. April 2018 betr. Verwendung von Auftau- und Streumitteln im Winterdienst
+- TOP 13.: Anregungen
