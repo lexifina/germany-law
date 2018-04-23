@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-23T17:00:00+02:00
+- Ende: 2018-04-23T18:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18697
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18697
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Zielbild 2020 - Kenntnis genommen
+- TOP -: Mitteilung zum Antrag AN/0135/2018 der Fraktion DIE GRÜNEN in der BV 7 (Porz) - Kenntnis genommen
+- TOP 4.2: Veröffentlichung der Broschüre 2020: Köln liebt Vielfalt Diversity Konzept - Kenntnis genommen
+- TOP 4.3: Mitteilung betreffend "Beantwortung der Anfrage AN/0937/2017 aus der Sitzung des Ausschusses Kunst und Kultur am 27.06.2017" - Kenntnis genommen
+- TOP 4.4: Veranstaltungstage KölnDigital - Kenntnis genommen
+- TOP 4.5: Stadtarbeitsgemeinschaft Behindertenpolitik und Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - Kenntnis genommen
+- TOP 4.6: Einrichtung des Amtes für Verkehrsmanagement, Neustrukturierung des Amtes für Straßen und Verkehrsentwicklung - Kenntnis genommen
+- TOP 4.7: Einrichtung einer Stellenbewertungskommission - Kenntnis genommen
+- TOP 4.8: Neuorganisation des Personal- und Verwaltungsmanagements - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion DieLinke betreffend "Datenübermittlung an das Bundesamt für das Personalmanagement der Bundeswehr" zur Sitzung am 12.03.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 12.03.2018 - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion DieLinke betreffend "Auszubildende der städtischen Kliniken, die bei der Stadt angestellt sind" zur Sitzung am 12.03.2018 - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 05.04.2018 - zurückgestellt
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Kinderfeuerwehren, Nachwuchs- und Gesundheitsförderung bei der Kölner Feuerwehr – Sachstand 2017" zur Sitzung am 12.03.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 17.04.2018 - Kenntnis genommen
+- TOP 6.4: Anfrage der CDU-Fraktion betreffend "Tagung der Kölner Hochschulen und Vertretern der Wirtschaft mit Vertretern der Hochschulen der Kölner Partnerstädte" zur Sitzung am ????? - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 23.04.2018 - Kenntnis genommen
+- TOP 6.5: Anfrage der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/ Die Grünen und der FDP-Fraktion betreffend "Funktionsfähigkeit des Taxigewerbes in Köln" zur Sitzung am 23.04.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 05.04.2018 - Kenntnis genommen
+- TOP 6.6: Anfrage der AfD-Fraktion betreffend "Bewachung von Flüchtlingswohnheim durch Rockergruppen" zur Sitzung am 23.04.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 13.04.2018 - Kenntnis genommen
+- TOP 6.7: Anfrage der Gruppe BUNT betreffend "Antikorruption in Köln - Brauchen wir ein besseres Controlling, z. B. bei der Unterbringung von Flüchtlingen?" zur Sitzung am 23.04.2018 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Richtlinien des Rates für die Neu- und Umbenennung von Straßen und Plätzen - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 02.02.2017 - zurückgestellt
+- TOP 8.2: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Leitbild Ordnungsdienst 2020" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 9.1: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2018 - ungeändert beschlossen
+- TOP 9.2: Roncalliplatz: Durchführung der Ausstellung Transition vom 20.04.2018 - 06.05.2018 - Kenntnis genommen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Richtlinie für die Benennung von Straßen - endgültig zurückgezogen
+- TOP 10.2: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen; Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme von Einrichtungen für obdachlose Personen - zurückgestellt
+- TOP 10.3: Neubau des Kölnischen Stadtmuseums und des Studiengebäudes für das Römisch-Germanische Museum im Rahmen des Neubaus Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Ersatzbeschaffung einer Komponente zum bestehenden Data Warehouse - ungeändert beschlossen
+- TOP 10.5: Modernisierung der Leitstelle der Feuerwehr Köln - Projekt „Leitstelle 2020" - ungeändert beschlossen
+- TOP 10.6: 15. Satzung zur Änderung der Satzung der Zusatzversorgungskasse der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Einrichtung einer Fahrradstaffel beim Ordnungs- und Verkehrsdienst - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
