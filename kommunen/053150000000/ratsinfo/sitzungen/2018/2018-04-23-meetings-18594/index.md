@@ -1,0 +1,76 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-23T17:03:00+02:00
+- Ende: 2018-04-23T19:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18594
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18594
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Dauerbaustelle durch ein Gerüst am Höninger Weg/Ecke Gottesweg - Kenntnis genommen
+- TOP 7.1.2: P & R-Platz Godorf - Kenntnis genommen
+- TOP 7.1.3: Problematik mit sog. Wachsleichnamen auf Friedhöfen im Stadtbezirk Köln-Rodenkirchen - Kenntnis genommen
+- TOP 7.1.4: Abschnittsweise Ertüchtigung des Kuckuckswegs in Godorf, Beantwortung der Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen vom 19.03.2018 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2.1: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 7.2.3: Eingriff in den Baumbestand: Vereinbarkeit mit der Baumschutzsatzung, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3.1: Eingriff in den Baumbestand: Vereinbarkeit mit der Baumschutzsatzung - Kenntnis genommen
+- TOP 7.2.4: Lärmbelästigungen durch Jet-Ski-Fahrer am Rheinufer in Rodenkirchen und Weiss - Sürth, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Gymnasium Rodenkirchen / Hauptschule Ringelnatzstraße: Verfügbare Infrastruktur, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5.1: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 7.2.6: Kolumbarium in Weiß: Umsetzung, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6.1: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 7.2.7: Sicherheit für Radfahrer am Kreisel Bonner Str. / Koblenzer Straße, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Fußgängerampel auf der Bonner Landstraße, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8.1: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Behindertenparkplätze an der neuen Post-Agentur in Zollstock, Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.2: Seniorenweg / Zebrastreifen über die Kölnstraße: Entschärfung einer Gefahrenstelle, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.3: Umgestaltung der am Rodderweg in K-Sürth gelegenen Grasfläche in eine Blumenwiese mit Blühpflanzen, Antrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Verkauf von Gebrauchtwagen auf dem Grundstück Auf der Freiheit / Brühler Landstraße in Meschenich, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.6: Kunstraum Fuhrwerkswaage, Köln-Sürth, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.6.1: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 8.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8: Gestaltung des Kreuzungsbereichs Auenweg / Mettfelder Straße in Rodenkirchen, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.8.1: Ergänzungsantrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.9: Ausbau der Elektromobilität in Köln, Antrag der SPD-Fraktion - endgültig zurückgezogen
+- TOP 8.1.10: Aufstellung Gefahrenzeichen im Kreuzungsbereich Unter Buschweg / Josef-Kallscheuer-Straße in Köln-Sürth, Antrag der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.11: Umbaumaßnahme Parkbucht, Köln-Meschenich, Am Kölnberg, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.12: Sozialraum Meschenich: Auswirkung durch Änderungen der Landesregierung, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.13: Dringlichkeitsantrag aller Fraktionen: Bahnhofsareal in Sürth: Planungsauftrag "Tiefgaragen- / P+R-Zufahrt - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.2: Parkraumkonzept Bewohnerparkgebiet in Köln-Bayenthal - zurückgestellt
+- TOP 9.1.3: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 9.1.4: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Südliche Innenstadterweiterung/Parkstadt Süd' in Köln-Bayenthal/-Raderberg/-Zollstock/-Sülz nach § 25 Satz 1 Nr. 2 BauGB - ungeändert empfohlen
+- TOP 9.2.2: Ringstraße 38 - 46 in Köln-Rodenkirchen; Einleitungsbeschluss - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2017 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.2: Bilanz nach Orkan Friederike - Kenntnis genommen
+- TOP 10.2.3: Fahrgastunterstände an der Kapellenstraße, Köln-Rondorf - Kenntnis genommen
+- TOP 10.2.4: Stadtbahnanbindung Rondorf / Meschenich-Nord - Kenntnis genommen
+- TOP 10.2.5: Planfeststellungsbeschluss der Bezirksregierung Köln vom 02. Februar 2018 für den Bau der B 51n - Ortsumgehung Meschenich - Kenntnis genommen
+- TOP 10.2.6: Mdl. Bericht zu Stand Ersatz- und Ausgleichspflanzungen zur 3. Baustufe Nord-Süd-Stadtbahn durch das Amt für Grünflächen - Kenntnis genommen
