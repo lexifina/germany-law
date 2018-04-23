@@ -1,0 +1,76 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-23T16:00:00+02:00
+- Ende: 2018-04-23T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18974
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18974
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658603.pdf
+- Ergebnisprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658603.pdf
+- Wortprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658603.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Wiedereinrichtung von Parkplätzen in der Paulistraße in Köln-Braunsfeld (Az.: 02-1600-16/18) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Reinhaltung des Geländes am P & R Weiden West - Kenntnis genommen
+- TOP 7.1.2: Tempo 30 Neuenhöfer Allee - Kenntnis genommen
+- TOP 7.1.3: Geschwindigkeitsmessungen Adrian-Meller-Str./Widdersdorf - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage zum Lövenicher Sportplatz / Widdersdorfer Str. - Kenntnis genommen
+- TOP 7.2.2: Bewohnerparken in Weiden-Nord - Kenntnis genommen
+- TOP 7.2.3: Errichtung eines Skateparks in Widdersdorf/Lövenich - Kenntnis genommen
+- TOP 7.2.4: Anfrage zum Sachstand der äußeren Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Verwendung der Stadtklima/Stadtverschönerungsmittel für 2017 und 2018 - geändert beschlossen
+- TOP 8.1.2: Namensgebung ‚Platz der Kinderrechte’ am ehemaligen Kinderheim in Sülz - ungeändert beschlossen
+- TOP 8.1.3: Ermöglichung Lebensmittelgeschäft im Neubau des VIKZ an der Stolberger Straße - ungeändert beschlossen
+- TOP 8.1.4: Maßnahmen zur Verbesserung der Verkehrssicherheit im Maarweg - ungeändert beschlossen
+- TOP 8.1.5: Namensgebung/Widmung der Südtribühne des RheinEnergie Stadions - ungeändert beschlossen
+- TOP 8.1.6: Regelung des Parkens, Schutz der Baumscheiben und Grünstreifen in Köln Sülz - geändert beschlossen
+- TOP 8.1.7: Fortführung der Parkordnung Klosterstraße - ungeändert beschlossen
+- TOP 8.1.8: Minimierung Wasserlachen - ungeändert beschlossen
+- TOP 8.1.9: Fahrradständer für das Rheinenergiestadion im Bereich der Junkersdorfer Straße/ Jahnwiese - geändert beschlossen
+- TOP 8.1.10: Spiegel Kreuzung Aachener Str./ Piusstraße in Köln-Lindenthal Ecke Friedhof Melaten - ungeändert beschlossen
+- TOP 8.1.11: Entwicklung von Maßnahmen gegen das "Parken in zweiter Reihe" - ungeändert beschlossen
+- TOP 8.1.12: Trampelpfad von Hans-Willi-Mertens-Straße zur Aachener Straße befestigen - geändert beschlossen
+- TOP 8.1.13: Sanierungsarbeiten und Ersatzpflanzungen Schulzentrum Weiden - geändert beschlossen
+- TOP 8.1.14: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.15: Benennung der zweiten Planstrasse im Neubaugebiet Ludwig-Jahn-Str. - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag Straßenbenennung - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Errichtung einer Stadtinformationsanlage vor dem Grundstück Stolberger Straße 2 - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Parkstadt Süd; Errichtung eines Stadtteilbüros durch Umbau und Nutzungsänderung von bestehenden Räumlichkeiten im Verwaltungstrakt der Großmarkthalle - ungeändert beschlossen
+- TOP 9.2.2: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Südliche Innenstadterweiterung/Parkstadt Süd' in Köln-Bayenthal/-Raderberg/-Zollstock/-Sülz nach § 25 Satz 1 Nr. 2 BauGB - ungeändert beschlossen
+- TOP 9.2.3: Genehmigungsverfahren nach § 6 Abs. 1 Luftverkehrsgesetz (LuftVG) für das Vorhaben ''Errichtung und Betrieb eines Hubschrauber-Sonderlandeplatzes auf dem Klinikgelände des St.-Katharinen-Hospitals in Frechen'' - ungeändert beschlossen
+- TOP 9.2.4: Genehmigungsverfahren nach § 6 Abs. 1 Luftverkehrsgesetz (LuftVG) für das Vorhaben ''Verlegung des Bestandshubschrauber-Sonderlandeplatzes (Gebäude 8a) auf das Dach des Herzzentrums des Universitätsklinikums Köln (Gebäude 40)'' - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2017 im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Sicherung des Fußgängerüberwegs Lindenthalgürtel/Rurstrasse - Kenntnis genommen
+- TOP 11.2.2: Standortgerechte und artenreiche Blumenwiesen in städtischen Grünanlagen - Kenntnis genommen
+- TOP 11.2.3: Sanierung und Herrichtung der alten Trauerhalle auf dem Friedhof Melaten - Kenntnis genommen
+- TOP 11.2.4: Baubeschluss für die Umgestaltung des Knotenpunktes Friedrich Schmidt-Straße/Kitschburger Straße - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 11.3.2: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 11.3.3: Beschluss des Ausschusses für Umwelt und Grün vom 12.10.2017 - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
