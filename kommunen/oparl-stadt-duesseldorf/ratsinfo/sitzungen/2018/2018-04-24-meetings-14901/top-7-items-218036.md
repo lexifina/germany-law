@@ -1,0 +1,8 @@
+# TOP 7: Dependance der Gutenberg-Grundschule an der Diepenstraße
+
+- Sitzung: Bezirksvertretung 7 (2018-04-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/218036
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/91738
