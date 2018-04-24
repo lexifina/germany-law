@@ -1,0 +1,132 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-04-24T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4896297
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4896297
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 4.4.1: a.Februar 2018 (vertagt) b.März 2018
+- TOP 7.7.1: (E) Zweirichtungsverkehr auf dem Radweg der Westendstraße (Ostseite)
+- TOP 7.7.2: (E) Wiederherstellung des Westparks als Ruhezone für Mensch und Tier - keine Eventlocation
+- TOP 9.9.1: (E) Budget der Bezirksausschüsse Feierwerk e.V. Interimsnutzung der Räumlichkeiten des ehemaligen ASZ Westpark als Nachbarschaftstreff ab 30.04.2018 für 6 Monate 15.000,00 Euro Az.: 0262.0-7-0195
+- TOP 9.9.2: (E) Budget der Bezirksausschüsse Maibaumverein Sendling-Westpark Anschaffung eines Fahnenschranks zur Aufbewahrung der Vereinsfahne 1.000,00€ Az. 0262.0-7-0196
+- TOP 9.9.3: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Weiterentwicklung von "Zirkuslust im Westpark" vom 28.05. - 03.06.2018 4.000,00€ Az. 0262.0-7-0193
+- TOP 11.11.1: a.Bau und Umwelt b.Bildung und Sport c.Haushalt ( 16.04.2018) d.Parks und Grünanlagen (18.04.2018) e.Soziales und Kultur ( 04.04.2018) f.Verkehr (10.04.2018)
+- TOP 12.12.1: a.Bericht des Vorsitzenden über längerfristige Projekte b.Beauftragte gegen Rechtsextremismus c.Behindertenbeauftragte d.Delegierter aus dem Migrationsbeirat e.Gleichstellungsbeauftragte f.Internetbeauftragter g.Jugendbeauftragte h.Kinderbeauftragte i.Mieterbeirat j.Migrationsbeauftragter k.REGSAM-Beauftragter l.Seniorenbeauftragter
+- TOP 13.13.1: a.Siegenburger Str. Fällung zweier Bäume 702 Hr. Keller b.Gilmstr. Fällung mehrerer Bäuem 712 Hr. Kramm c.Schongauerstr. Fällung eines Baumes 712 Hr. Kramm d.Gilmstr. Fällung zweier Bäume 713 Fr. Schoenweg e.Farchanterstr. Fällung eines Baumes 714 Hr. Dr. Huber
+- TOP 15.15.1: Straßenfest Schondorfer Straße
+- TOP 15.15.2: Maibaumfeier auf dem Luise-Kiesselbach-Platz
+- TOP 16.16.1: Frühlingsfest Montessori-Kinderhaus
+- TOP 16.16.2: Musikalisches Weinfest 2018
+- TOP 16.16.3: Circus-Galliano
+- TOP 16.16.4: Zirkus Leopoldini
+- TOP 16.16.5: Änderung-Veranstaltungszeit Circus Roberto
+- TOP 16.16.6: Laufveranstaltung Teamstaffel
+- TOP 16.16.7: KKH-Gesundheitslauf 2018
+- TOP 17.: Baureferat
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 19.19.1: Satzungsänderung Verkehrsumleitungen
+- TOP 19.19.2: Stadtbezirksbudget
+- TOP 19.19.3: Folgeänderungen der BA-Satzung und BA-GeschOrd. wegen Gemeindeordnungsänderung
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 29.29.1: MVG-Leistungsprogramm 2019
+- TOP 30.30.1: Amtsblatt
+- TOP 31.: Baureferat
+- TOP 31.31.1: Erinnerungsverfahren Ehrwalder Str.
+- TOP 31.31.2: Gefahrenbaumfällung auf öffentlichem Grund
+- TOP 31.31.3: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 31.31.4: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 31.31.5: (E) Rabensichere Mülleimer im Westpark Empfehlung Nr. 14-20 / E 00774 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 17.11.2015
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Änderung OB-Vollmacht
+- TOP 33.33.2: Angleichung BV-EV Satzung an GO
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Kurzzeitparken GarmischerStr/OhlstadterStr/KrünerStr
+- TOP 35.35.2: Fahrbahnsanierung FarchanterStr
+- TOP 35.35.3: Errichtung eines Zebrastreifens an der Höglwörther Str. SV 14-20 / V 10760
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten / WEB-Listen
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.40.1: (E) Lärmschutzwand A 95 / B 2 Lärmschutzwand A 95 Empfehlung Nr. 14-20 / E 01740 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 10.10.2017 Lärm-Trennwand an der Ausfahrt A95 vom Luise-Kiesselbach-Platz kommend Empfehlung Nr. 14-20 / E 01742 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 10.10.2017
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.2: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 41.41.3: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 41.41.4: (U) PERSPEKTIVE MÜNCHEN Fortschreibung Hochhausstudie
+- TOP 41.41.5: (U) Vermeidung des Ausverkaufs unserer Stadt an ausländische Investoren
+- TOP 41.41.6: (U) Wohnungsmarkt München - Expertenbefragung 2017
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Zweckentfremdung
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 44.44.1: Illegales Parkenauf dem Luise-Kiesselbach-Platz
+- TOP 44.44.2: Arbeitsgruppe Gedenken an den 09-11-38
+- TOP 45.: Baureferat
+- TOP 45.45.1: Fristverlängerung - Aufwertung Südpark mit Toilette und Wasserspende
+- TOP 45.45.2: Einbindung des BA Umbau Werdenfelsstr-Wessobrunner Platz
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budgetbescheid Hasting-Studio
+- TOP 47.47.2: Budgetbescheid Kirchenchor St.Philippus
+- TOP 47.47.3: Gewährung Budgetmittel Jahresempfang 2018
+- TOP 48.: Kommunalreferat
+- TOP 48.48.1: Verlaufsänderung Heckenstaller Str.
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Fristverlängerung Tempo-50 im Tunnel
+- TOP 49.49.2: Parkregelung Garmischer Str.
+- TOP 49.49.3: VVB-Bescheid Praxistag für die ganzheitliche Gesundheit
+- TOP 49.49.4: Begründung der Genehmigung "Praxistag"
+- TOP 49.49.5: Rechtsabbiegespur Fürstenrieder-/ Waldfriedhofstr.
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Fristverlängerung Geländerprovisorien am U-Bahnhof Westendstraße endlich beheben
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Die LHM wird zusammen mit dem Landkreis München eine Machbarkeitsuntersuchung für den Korridor 11a für die Anlage eines Radschnellwegs zwischen Gräfelfing und dem Stadtzentrum vorrangig in Auftrag zu geben
+- TOP 56.: Sozialreferat
+- TOP 57.57.1: Neue Bädereintrittspreise
