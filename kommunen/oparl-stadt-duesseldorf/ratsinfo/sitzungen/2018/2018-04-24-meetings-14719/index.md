@@ -1,0 +1,67 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-04-24T17:00:00+02:00
+- Ende: 2018-04-24T20:22:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14719
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14719
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift BV5-Sitzung 27.02.2018 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315150.pdf
+- Ergebnisprotokoll: Niederschrift BV5-Sitzung 27.02.2018 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315150.pdf
+- Wortprotokoll: Niederschrift BV5-Sitzung 27.02.2018 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315150.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift 2/2018 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Forschungsprojekt INTESO (Integration im Sozialraum) - aktueller Sachstand - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Ehemals Fashion House - Kenntnisgabe Workshop-Verfahren - Empfehlung einstimmig beschlossen
+- TOP 12: Ehemals Fashion House - Frühzeitige Öffentlichkeitsbeteiligung - Empfehlung abweichend beschlossen
+- TOP 13: Neugestaltung von Flächen mit Wechselflorbeetbepflanzung - Empfehlung einstimmig beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2018 - abweichend beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen Dritter - einstimmig beschlossen
+- TOP 16: Verkehrssicherheit in Wittlaer - wechselseitiges Parken Bockumer Straße
+- TOP 17: Radwegehauptnetz im Stadtbezirk 5 - Sachstand - beantwortet
+- TOP 18: Wittlaer - Verkehrserschließung - beantwortet
+- TOP 19: Rheinbahn - Warteunterstände mit digitalisierten Plakat-Vitrinen
+- TOP 20: Einrichtung Drop-on/Drop-off Zone Grundschule Farnweg - beantwortet
+- TOP 21: Verkehrsentlastung im Düsseldorfer Norden - Ausbau B8/Danziger Straße im Abschnitt zwischen A44 und
+- TOP 22: Verkehrssicherheit Querungshilfe Rahmer Straße/Kalkweg
+- TOP 23: U 79 - never ending story - beantwortet
+- TOP 24: Bedeutung der geplanten Ratinger Weststrecke für den Stadtbezirk 5 - beantwortet
+- TOP 25: Anwohnerparken im Einzugsbereich des Schulstandortes Koetschaustraße - beantwortet
+- TOP 26: Zukunftsperspektive ehemaliger Spielplatz Gottfried-Keller-Straße - Drogenschwerpunkt austrocknen - beantwortet
+- TOP 27: Ausbau der Anger in der Ortslage Angermund - beantwortet
+- TOP 28: Toiletten auf dem Friedhof Angermund - beantwortet
+- TOP 29: Verkehrssicherheit Stockhausgasse
+- TOP 30: Sanierungsarbeiten am Kaiserswerther Markt
+- TOP 31: Rechtswidrige Baugenehmigung für das Ed-Sheeran-Konzert und den „D.LIVE Open Air Park“ ? - beantwortet
+- TOP 32: Pflege/Instandhaltung von Bänken
+- TOP 33: Kiss & Ride-Zone am Schulstandort Koetschaustraße - beantwortet
+- TOP 34: Schadhafte Pflasterung in der Edmund-Bertrams-Straße und Oberdorfstraße - beantwortet
+- TOP 35: Nutzung des Parkplatzes P1 (Am Staad) während der Rheinkirmes und des möglichen Ed Sheeran Konzertes - beantwortet
+- TOP 36: KGS Im Grund - Sanierung der Ballspielfläche – Teil 3
+- TOP 37: Alte Grundschule in Kaiserswerth - Nutzungskonzept - beantwortet
+- TOP 38: Mauer am Lantz´schen Park
+- TOP 39: (Öffentliche) Beleuchtung Gerichtsschreiberweg
+- TOP 40: Parken in Lohausen - zur Kenntnis genommen
+- TOP 40.1: Parken in Lohausen - Änderungsantrag - mehrheitlich beschlossen
+- TOP 41: Bücherschrank Kaiserswerth - Klemensplatz - abweichend beschlossen
+- TOP 42: Messeparkplätze - mehrheitlich beschlossen
+- TOP 43: Fördermittel zur Sicherstellung der Sanierungsarbeiten am Kaiserswerther Markt - einstimmig beschlossen
+- TOP 44: Verkehrsbehinderndes – und gefährdendes Parken auf der Zeppenheimer Straße - einstimmig beschlossen
+- TOP 45: Baugenehmigung Ed Sheeran-Konzert und „D.Live Open Air Park“ - mehrheitlich beschlossen
+- TOP 46: Stellungnahmen 24.04.2018 - zur Kenntnis genommen
+- TOP 47: Verbesserung Abendverkehr: Anpassung des Taktangebotes auf den Stadtbahnlinien U72, U73, U75, U77 un - zur Kenntnis genommen
+- TOP 48: Verbesserung Abendverkehr: Ergebnisse Anpassung Takt U74/U79 - zur Kenntnis genommen
+- TOP 49: Verschiedenes - zur Kenntnis genommen
