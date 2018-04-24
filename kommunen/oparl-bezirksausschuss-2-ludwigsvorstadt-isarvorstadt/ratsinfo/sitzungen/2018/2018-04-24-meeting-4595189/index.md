@@ -1,0 +1,158 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-04-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595189
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595189
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.5.: Bürgeranliegen, Rücksichtsloses Verhalten gegenüber RollstuhlfahrerInnen
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.4.: A 4.4 verschoben zu E 4.5
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP 2.6.: Budget, Antrag des Elternbeirates der GS Gärtnerplatz für das Tanzprojekt von April-August 2018. Nochmalige Beschlussfassung.
+- TOP I: Allgemeines
+- TOP 3.1.: Schäden Bürgersteig Fliegenstr.
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Antrag, BA-Eigene Veranstaltung „Alt und Jung - Grenzenlos“
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "MMI-Festival" MMI-Festival 2018 1.800,00€ Az. 0262.0-2-0211
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Förderverein „wach.fair.stark“ der Grundschule an der Tumblingerstraße 6 in München e.V. vier Aktionstage im Rahmen von „SchuleN“ vom 08. bis 16. Mai 2.092,50€ Az. 0262.0-2-0215
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Singend in den Tag" Veranstaltung "Singend in den Tag" am 10.06.2018 60,00€ Az. 0262.0-2-0214
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Initiative "Offene Ateliers 2018" Veranstaltung "Offene Ateliers" vom 30.06. - 01.07.2018 1.789,41 Euro Az.: 0262.0-2-0216
+- TOP 2.5.: Verwendung Rest-Budget des Projekts „Querungshilfen“ mit Mitteln aus „Bürger gestalten ihre Stadt
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Kinder Jugendhaus KUBU - Caritas Erzdiözese München und Freising e.V. Workshops im KUBU am 09.06.2018 250,00 Euro Az.: 0262.0-2-0220
+- TOP 2.8.: (E) Budget der Bezirksausschüsse Initiative Roody Blues Auftritt vor dem Kinder- und Jugendhaus KUBU am 09.06.2018 800,00 Euro Az.: 0262.0-2-0219
+- TOP 2.9.: (E) Budget der Bezirksausschüsse Initiative der uigurischen Frauen für muttersprachliche Angebote, Integration und Kultur Tanz an verschiedenen Orten im Rahmen von "IsarLudwig 2018" 330,00 Euro Az.: 0262.0-2-0218
+- TOP 2.10.: (E) Budget der Bezirksausschüsse Atelierprojekt/Verein zur Förderung bildnerisch-künstlerischer Ausdrucksformen e.V. 25jähriges Jubiläum im Rahmen von "IsarLudwig 2018" am 10.06.2018 900,00 Euro Az.: 0262.0-2-0213
+- TOP 2.11.: (E) Budget der Bezirksausschüsse GeschichtsWerkstatt Ludwigsvorstadt-Isarvorstadt Veranstaltung "IsarLudwig" am 09./10.06.2018 500,00 Euro Az.: 0262.0-2-0221
+- TOP 2.12.: (E) Budget der Bezirksausschüsse KUSCH - Verein zur Förderung von Kulturschaffenden Projekt "Friedhofsmauer" am 09./10.06.2018 2.540,00 Euro. Az.: 0262.0-2-0222
+- TOP 2.13.: (E) Schadstoff- und Lärmbelastung am Spielplatz Roecklplatz Empfehlung Nr. 14-20 / E 01254 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP 3.1.: Schadstoff- und Lärmbelastung am Spielplatz Roecklplatz, Empfehlung Nr. 14-20 / E 01254 der Bürgerversammlung am 10.11.2016; Stellungnahme des Baureferats Gartenbau zum abweichenden Beschluss des BA 2 vom 24.10.2017; Bitte des Direktoriums um nochmaligen BA-Beschluss zur Vermeidung einer OB-Entscheidung
+- TOP 3.2.: Anhörung zum Entwurf der Beschlussvorlage, Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse, Änderung der BA-Satzung und Neufassung der Budget-Richtlinien
+- TOP 3.3.: Anhörung zur Beschlussvorlage „Kitabarometer“ Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 5.1.: Vorstellung des in der Arnulfunterführung geplanten Kunstprojekts „Munichen“
+- TOP 5.2.: Brief an den Oberbürgermeister zur Stärkung des Wohnens im südlichen Bahnhofsviertels
+- TOP 5.3.: Suche nach neuen Räumlichkeiten für das Clubhaus Schwalbennest
+- TOP 5.4.: Suche nach Raummöglichkeiten für ein Gesangsstudio
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Zenettistr. 10, Errichtung eines Kühlhauses (vertagt aus 03/18)
+- TOP 3.1.2.: Hermann-Lingg-Straße 4, Neubau eines Vorder- und Rückgebäudes mit erdgeschossiger Hofüberbauung + Tiefgarage - Vorbescheid
+- TOP 3.1.3.: Hermann-Lingg-Straße 4, Neubau eines Vordergebäudes und rückwärtige Bebauung mit Tiefgarage - Vorbescheid
+- TOP 3.1.4.: Paul-Heyse-Straße 12, Neubau eines Stadthauses mit Wohnen und gewerblichem Wohnen sowie vollautomatischem Parksystem
+- TOP 3.1.5.: Tumblingerstr. 27, Neubau Münchner Volkstheater mit Baumfällungen
+- TOP 3.1.6.: Schwanthalerstr. 55-57, Nutzungsänderung und Neubau eines Hotelgebäudes mit TG mit Baumfällungen
+- TOP 3.1.7.: Lessingstr. 14, Aufstockung eines Büro-und Geschäftshauses mit Wohnungsanbau im geplanten Dachgeschoss, Vorbescheid
+- TOP 3.2.1.: Antrag auf Baumfällung, eine Pappel, Kapuzinerstr. 26
+- TOP 3.2.2.: Antrag auf Baumfällung, eine Douglasie, Schubertstr. 10 -Plenumsbeschluss-
+- TOP 3.3.1.: Änderung der Denkmalliste, Italienisches Kulturinstitut, Hermann-Schmid-Str.8
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Begrünung städtischer Gebäude und Bauwerke im Stadtbezirk 2
+- TOP 1.2.: Zebrastreifen Thalkirchner Str. / Hautklinik
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Freischankflächenantrag Bahnhofplatz 1, Freischankfläche auf der Seite Schützenstraße, Beschluss des BA 2 vom 24.10.2017, Vertagung gem. Schreiben vom 06.02.2018
+- TOP 2.3.1.: (E) Landwehrstraße Lärmbelästigung, Einhaltung der Nachtruhe verstärkt kontrollieren
+- TOP 2.3.2.: (E) Umgestaltung Fahrrad- / Gehweges Stachus / Ecke Kaufhof
+- TOP 2.3.3.: (E) Fußgängerübergang in der Auenstraße / Maximilianskirche
+- TOP 2.3.4.: Rückmeldung zum Vollzug der Beschlussvorlage „Aktive und passive Lärmschutzmaßnahmen entlang der Bahnbrücke Reifenstuel- /Dreimühlenstraße“, BV-Empfehlung 14-20 / E 01831 der BV am 09.11.2017, Sitzungsvorlagennummer 14-20 / V 10867
+- TOP 2.3.5.: (E) Einrichtung eines Fußgängerüberweges, Höhe Thalkirchner Straße 48 sowie Zebrastreifen in der Thalkirchner Straße und eine gesündere Schulwegführung (Kinder-Antrag 4)
+- TOP 2.3.6.: (E) Verkehrsberuhigungsmaßnahmen in der Ehrengutstraße
+- TOP 2.3.7.: (E) Aktive und passive Lärmschutzmaßnahmen entlang der Bahnbrücke Reifenstuel- / Dreimühlenstraße Empfehlung Nr. 14-20 / E 01831 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Anhörung, Glockenbachfest am 23.06.2018 -Plenumsbeschluss-
+- TOP 3.2.1.: Gärtnerplatz: Einrichtung von je drei allgemeinen Behindertenparkplätzen an der Seite Klenzestraße und an der Seite Reichenbachstraße
+- TOP 3.2.2.: Park- und Halteverbotszone Reichenbachstraße
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: MVG Leistungsprogramm 2019
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürger, Taxistandplatz Goetheplatz
+- TOP 5.2.: Bürger, Fahrradstellplätze Klenzestraße für Gärtnerplatztheater
+- TOP 5.3.: Bürger, Mangelhafte Parkraumüberwachung Gärtnerplatz
+- TOP 5.4.: Bürger, Briefkasten in der Isartalstraße
+- TOP 5.5.: Aktuelle Entwicklung City2Share, Platzgestaltung Zenettiplatz
+- TOP 5.6.: Bürger, Haltverbot Bayerstr 2-4 und Entfernung Geländer Südseite Bayerstr.
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen, Antrag auf Satzungsänderung, Anhörungsschreiben des Direktoriums
+- TOP 1.2.: Anhörung, verschiedene Änderungen in der BA-Satzung und BA-Geschäftsordnung
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Anzeige über das Abbrennen eines Feuerwerks zum Frühlingsfest (04.05.2018)
+- TOP A 4.5.: Spielangebote für Mädchen UND Buben – Gendergerechte Spielplatzgestaltung, Sitzungsvorlagennummer 14-20 / V 11072
+- TOP A 4.6.: Abdruck Bürgerschreiben, Barrierefreiheit Münchner U-Bahn
+- TOP A 4.7.: (U) Vollzug der Zweckentfremdungssatzung (ZeS) Bürgerversammlungsempfehlungen Informationskampagne Meldeplattform gegen Leerstand und Zweckentfremdung Empfehlung Nr. 14-20 / E 01780........ Medizintourismus: Sicherstellung der Handlungsfähigkeit des Amtes für Wohnen und Migration im Monat August Empfehlung Nr. 14-20 / E 01782 ..... Gezielte Informationskampagne auf der Onlineplattform gegen Leerstand und Zweckentfremdung Empfehlung Nr. 14-20 / E 01814... Aufstockung des Personals im Sozialreferat, Amt für Wohnen und Migration, Abt. Ferienwohnung Empfehlung Nr. 14-20 / E 01815....
+- TOP A 4.8.: Information, neue Bädereintrittspreise ab 01.05.2018
+- TOP A 4.9.: Information zum Projektstand Flaucherspielplatz
+- TOP A 4.10.: Verkehrsrechtliche Erlaubnis; Aufstellung mobiler Toiletten am Gärtnerplatz
+- TOP A 4.11.: Spielplatz für größere Kinder / kindergerechte Gestaltung der Wiese am KuBu / Spielmöglichkeiten an der Isar (Kinder-Antrag 2, 6 und 7)
+- TOP A 4.12.: Rücknahme des Budgetantrags von Zwischenprost e.V / „Manic Streetparade“ vom 10.09.2017
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Baugenehmigung Lindwurmstraße 35-37
+- TOP B 4.3.: Adolf-Kolping-Straße 9, Nutzungsänderung, Antwortschreiben des Planungsreferates auf das BA-Schreiben vom 21.03.2018
+- TOP B 4.4.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP B 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.6.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP B 4.7.: Ankündigung Sanierung Rad- und Fußwege Am Westermühlbach
+- TOP B 4.8.: Zwischennachricht zu BA-Schreiben Stärkung des Wohnens im südlichen Bahnhofsviertel
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.6.: Umgestaltung Holzplatz, Prüfantrag
+- TOP C 4.7.: Parkplatzsituation Rothmundstr.
+- TOP C 4.8.: Grafitti an Wittelsbacherbrücke
+- TOP C 4.9.: Gebührenbescheid für nicht genehmigte Sondernutzung in der Lindwurmstraße
+- TOP C 4.10.: Antwort zu BA-Antrag Nr. 4-20 / B02685, Radverbindung zw. Baldeplatz und Roecklplatz
+- TOP C 4.11.: Antwort des Referates auf ein Bürgerschreiben vom 15.03.2018 zur Parksituation Rothmundstraße
+- TOP C 4.12.: Info Verlängerung der Vollsperre Fliegenstraße bis voraussichtlich 22.06.18
+- TOP C 4.13.: Straßenreinigung im Bahnhofsviertel, Schreiben des Baureferates an einen Bürger
+- TOP C 4.14.: Winterdienst auf Fahrradstraßen, Antwortschreiben auf den BA-Antrag Br. 14-20 / B 04608 vom 27.02.2018
+- TOP C 4.15.: Bürgerschreiben zur Erhöhung der Straßenreinigungsgebühren
+- TOP C 4.16.: Durchführung eines Feuerwerks, Frühlingsfest auf der Theresienwiese, 27.04.2018
+- TOP C 4.17.: Baustellenbedingte Liniennetzänderungen verschiedeneTramlinien
+- TOP C 4.18.: Stellungnahme Polizei, BA-Antrag Nr. 14-20/B4509 Geschwindigkeitsmessung Herzog-Heinrich-Str.
+- TOP C 4.19.: Fragen zum Parkplatzmanagement, Antwort des Referates für Stadtplanung und Bauordnung
+- TOP C 4.20.: Winterdienst auf Fahrradstraßen
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Abdruck eines Schreibens der Stadtkämmerei zur Stellungnahme des BA2 zum Mehrjahresinvestitionsprogram
+- TOP D 4.2.: Änderung der Vollmacht des Oberbürgermeisters, Erhöhung Wertgrenze bei Zuschüssen
+- TOP D 4.3.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
