@@ -1,0 +1,78 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-04-24T17:00:00+02:00
+- Ende: 2018-04-24T21:10:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14901
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14901
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00314975.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00314975.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00314975.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zurückgezogen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 5: Ausführungs- und Finanzierungsbeschluss Umbau öffentliche Grünanlage Apostelplatz - mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Dependance der Gutenberg-Grundschule an der Diepenstraße - zur Kenntnis genommen
+- TOP 8: Bildung eines Teilstandortes und Erhöhung der Zügigkeit der Gutenberg-Schule, Gemeinschaftsgrundschu - mehrheitlich beschlossen
+- TOP 9: Verbesserung Abendverkehr: Anpassung des Taktangebotes an das veränderte Verkehrsverhalten - zur Kenntnis genommen
+- TOP 10: "Dog Event Düsseldorf" im Jahre 2018 - einstimmig beschlossen
+- TOP 11: "Home & Garden" auf der Galopprennbahn im Jahre 2018 - einstimmig beschlossen
+- TOP 12: Jahrmärkte auf dem Gerricusplatz im Jahre 2018 - einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2018) - abweichend beschlossen
+- TOP 14: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2018) - einstimmig beschlossen
+- TOP 15: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 16: Fußgängerquerung Geibelstraße - abweichend beschlossen
+- TOP 17: Beschriftung Rathaus Gerresheim - einstimmig beschlossen
+- TOP 18: Aufstellung von Fahrradbügeln vor Aldi - einstimmig beschlossen
+- TOP 19: Sachstand zum Park der Villa Sohl - einstimmig beschlossen
+- TOP 20: Verringerung von Glasscherben beim Karnevalsumzug in Gerresheim - zurückgezogen
+- TOP 21: Bebauungsplan Gerresheim – Ost - mehrheitlich abgelehnt
+- TOP 22: OGS Plätze an den Grundschulen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 23: Zusätzliche OGS Gruppe an der KGS Unter den Eichen - einstimmig beschlossen
+- TOP 24: Baumscheibe Josef-Neuberger-Straße 48 in Stand setzen - einstimmig beschlossen
+- TOP 25: Schulische Nutzung der Schwimmbäder und Turnhallen - einstimmig beschlossen
+- TOP 26: Tütenspender für Hundekot - mehrheitlich abgelehnt
+- TOP 27: Grafenberger Deckel ausleuchten! - mehrheitlich abgelehnt
+- TOP 28: Müllcontainer Pfeifferstraße 25 - abweichend beschlossen
+- TOP 29: Rotthäuser Bachtal passierbar machen - einstimmig beschlossen
+- TOP 30: WiFi4EU: EU-Mittel für freies WLAN beantragen - einstimmig beschlossen
+- TOP 31: Entwicklung städtischer Anteil Glasmacherviertel - einstimmig beschlossen
+- TOP 32: Marktplatz in Grafenberg - abweichend beschlossen
+- TOP 33: Marktplatz in Grafenberg - abweichend beschlossen
+- TOP 34: Rheinbahn – Haltestelle am Poststadion, Dreherstraße - einstimmig beschlossen
+- TOP 35: Radhauptnetz, Bezirksnetz - einstimmig beschlossen
+- TOP 36: Nutzung der städtischen Immobilie Heyestr. 51-53 - vertagt
+- TOP 37: Nutzung der städtischen Immobilie Heyestraße 51 - 53 - vertagt
+- TOP 38: Glasfaserkabelausbau im Glasmacherviertel - einstimmig beschlossen
+- TOP 39: Grütersaaper Weg - vertagt
+- TOP 40: Flächennutzung im Stadtbezirk - zur Kenntnis genommen
+- TOP 41: Gräulinger Straße Asphaltierung - zur Kenntnis genommen
+- TOP 42: Untertunnelung S-Bhf. Gerresheim - zur Kenntnis genommen
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Lärmschutz für die Anwohner „Im Heidewinkel“ - zur Kenntnis genommen
+- TOP 45: Kfz-Zulassungszahlen im Stadtbezirk 7 - vertagt
+- TOP 46: Betreuung zwischen Kita und Schule - zur Kenntnis genommen
+- TOP 47: Verkehrsüberwachung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 48: Park Villa Sohl, Ludenberg - vertagt
+- TOP 49: Glascontainer Grafenberger Allee - zur Kenntnis genommen
+- TOP 50: Bergische Kaserne - zur Kenntnis genommen
+- TOP 51: Ausbau des Glasfasernetzes im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 52: Jüdische Erinnerungsorte im Stadtteil Gerresheim / Jüdischer Friedhof Quadenhofstraße - zur Kenntnis genommen
+- TOP 53: Verkehrssicherheit Schutzgitter Gallberg/B7 - zur Kenntnis genommen
+- TOP 54: Öffnung der Fußgängerzone Kölner Tor für den Radverkehr - zur Kenntnis genommen
+- TOP 55: Öffnung von Einbahnstraßen für den Radverkehr in beide Fahrtrichtungen - zur Kenntnis genommen
+- TOP 56: Bebauung Villa Sohl - zur Kenntnis genommen
+- TOP 57: Verbesserung der Verkehrssituation auf dem Gerricusplatz - zur Kenntnis genommen
+- TOP 58: Baumaßnahme Heckteichstraße / Höherhofstraße - zur Kenntnis genommen
+- TOP 59: Mindestens 40 % preisgünstigeren Wohnraum im Glasmacherviertel - zur Kenntnis genommen
+- TOP 60: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 61: Verkürzung der Zeitspanne zum Ersatz von Straßenbäumen - zur Kenntnis genommen
