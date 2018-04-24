@@ -1,0 +1,57 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-04-24T17:00:00+02:00
+- Ende: 2018-04-24T22:15:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14883
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14883
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315009.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315009.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315009.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften 1/2018 und 2/2018 vom 30.01.2018 und 27.02.2018 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Adersstraße - Neugestaltung der Platzfläche an der Hüttenstraße - mehrheitlich beschlossen
+- TOP 5: Volmerswerther Straße - Straßenneubau Stichstraße - einstimmig beschlossen
+- TOP 6: Verkehrskonzept Oberbilk; mündlicher Sachstandsbericht - zur Kenntnis genommen
+- TOP 7: Flächennutzungsplan-Änderung Nr. 187, Neusser Straße / Lahnweg - einstimmig beschlossen
+- TOP 8: Neugestaltung von Flächen mit Wechselflorbeetbepflanzung - zur Kenntnis genommen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Völklinger Straße 109, 109a - Dachgeschossausbau, Errichtung eine zweiten Rettungsweges - einstimmig beschlossen
+- TOP 13: Kronprinzenstraße 119a, 119b - Errichtung eines Wohngebäudes geringer Höhe mit zwei Wohneinheiten - einstimmig beschlossen
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anregungen und Anfragen aus der Bevölkerung - zur Kenntnis genommen
+- TOP 19: Beleuchtung des Weges parallel zur Straßenbahntrasse der 706 zwischen den Haltestellen „Hammer Dorfs - einstimmig beschlossen
+- TOP 20: Gestaltung des Plätzchens an der Kreuzung Suitbertusstr./Aachener Str. - zurückgezogen
+- TOP 21: Verkehrskonzept Hafen - einstimmig beschlossen
+- TOP 21.1: Tempo 30 km/h auf der Ulenbergstraße zwischen Aachener und Merowinger Platz - einstimmig beschlossen
+- TOP 22: Parken an der Brinckmannstraße - zur Kenntnis genommen
+- TOP 23: RRX / Güterzugstrecke Moskauer Straße - zur Kenntnis genommen
+- TOP 24: Radwegebau 2018 im Stadtbezirk 3 - zur Kenntnis genommen
+- TOP 25: Auslastung und Planung weiterer Sporthallen im Stadtbezirk 3 - vertagt
+- TOP 26: Stand Planung Ludwig-Hammers-Platz - vertagt
+- TOP 27: Baumpflanzungen im Stadtbezirk 3 - vertagt
+- TOP 28: Blühwiesen – Bienenweiden - Wildkräuter - vertagt
+- TOP 29: Ernst-Reuter-Platz; Gestaltung - vertagt
+- TOP 30: Heresbachstraße; Düsseldorfer Fahrradhäuschen - einstimmig beschlossen
+- TOP 31: Maßnahmenvorschläge Liste B für den Ansatz 2018 - einstimmig beschlossen
+- TOP 31.1: Schule Suitbertusstraße; Anstricharbeiten - einstimmig beschlossen
+- TOP 31.2: Möbilierung Grundschule Fleher Straße 213 - zurückgezogen
+- TOP 31.3: Kölner Straße 240; Fassadenanstrich des Hauses der Christlichen Hausgemeinschaft - mehrheitlich beschlossen
+- TOP 32: Bebauungsplan Vorentwurf Nr. 5174/016 - Beiderseits Hinter der Böck - Informationsvorlage - zur Kenntnis genommen
+- TOP 33: Einrichtung eines Stadtstrandes in Düsseldorf - einstimmig beschlossen
+- TOP 34: Verbesserung Abendverkehr; Anpassung des Taktangebotes auf den Stadtbahnlinien U72, U73, U75 und U78 an das veränderte Verkehrs- und Nutzungsverhalten - zur Kenntnis genommen
+- TOP 35: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 36: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
