@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-24T16:10:00+02:00
+- Ende: 2018-04-24T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18802
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18802
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 20.04.2018, 12:30 Uhr (6) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658737.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 20.04.2018, 12:30 Uhr (6) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658737.pdf
+- Wortprotokoll: Tagesordnung, Stand 20.04.2018, 12:30 Uhr (6) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658737.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Betrieb städtischer Gebäude im Passivhaus-Standard - Sache ist erledigt
+- TOP 1.1.1: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Betrieb städtischer Gebäude im Passivhaus-Standard" (AN/1490/2017) - Kenntnis genommen
+- TOP 1.2: Würdevoller Umgang mit der Asche Verstorbener nach einer Kremierung - Sache ist erledigt
+- TOP 1.2.1: Würdevoller Umgang mit der Asche Verstorbener nach einer Kremierung (AN/0341/2018) - Kenntnis genommen
+- TOP 1.3: Erstellung eines Gutachtens zur zukünftigen Ausrichtung der städtischen Friedhöfe - Sache ist erledigt
+- TOP 1.3.1: Beantwortung einer Anfrage gemäß § 4 der Geschäftsordnung des Rates zur Erstellung eines Gutachtens für die zukünftige Ausrichtung der städtischen Friedhöfe - Kenntnis genommen
+- TOP 1.4: Anfrage der Fraktion Die Linke betreffend kommunale Maßnahmen zur Luftreinhaltung - zurückgestellt
+- TOP 1.5: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Die Linke betreffend Gräber von Max Reichpietsch und Albin Köbis - zurückgestellt
+- TOP 1.6: Anfrage der CDU-Fraktion betreffend Binnenschifffahrt und Luftreinhalteplanung - zurückgestellt
+- TOP 1.7: Anfrage der SPD-Fraktion betreffend Kölner Umweltzone - zurückgestellt
+- TOP 1.7.1: Beantwortung der Anfrage AN/0046/2018 der SPD-Fraktion im Kölner Rat vom 12.01.2018 zum Thema "Kölner Umweltzone" - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Analyse verschiedener Kleinrammbohrungen (KRB) aus dem Kalkberg - zurückgestellt
+- TOP 2.1.2: Kalkberg - Kenntnis genommen
+- TOP 2.2: Bessere Erfassung der Feinstäube in Köln - endgültig zurückgezogen
+- TOP 2.2.1: Bessere Erfassung der Feinstäube in Köln (AN/0298/2018) - Kenntnis genommen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Sachstandsmitteilung zur Braunkohleverbrennung in Merkenich - Kenntnis genommen
+- TOP 3.2: Jahresbericht 2017 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Stadtklima-/ Stadtverschönerungsprogramm 2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Porz - ungeändert empfohlen
+- TOP 4.2: Stadtklima-/Stadtverschönerungsprogramm 2017 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert empfohlen
+- TOP 4.3: Stadtklima-/Stadtverschönerungsprogramm - Bäume, Brunnen und Gewässer im Bezirk Nippes - ungeändert empfohlen
+- TOP 4.4: Politische Zusetzungen für den Fachbereich Umwelt und Grün (erster Teil 2018) - ungeändert empfohlen
+- TOP 4.5: Ersatzbeschaffung von 8 Kolonnenfahrzeugen für den Bereich "Grünunterhaltung" - ungeändert empfohlen
+- TOP 4.6: Neubeschaffung von Fahrzeugen sowie Maschinen und Geräten für zwei zusätzliche Kolonnen "Straßenbegleitgrün" - ungeändert empfohlen
+- TOP 4.7: Bewerbung des Amtes für Landschaftspflege und Grünflächen für das Label "StadtGrün naturnah" - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Zustand der Schießsportanlage Hubertusweg - Kenntnis genommen
+- TOP 7.2: Dritter "Wald für Köln" in Lindweiler - Kenntnis genommen
+- TOP 7.3: Detailuntersuchung des Grundwassers im Umfeld des Kalkbergs - Kenntnis genommen
+- TOP 7.4: Förderung der Elektromobilität - Was tut die Verwaltung? - Kenntnis genommen
+- TOP 7.5: Energiebericht 2017: Verbrauchs- und Kostenstatistik 2016/Sachstand Energiemanagementkonzept 2017 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Tagesordnungspunkt (betrifft Privatpersonen)
