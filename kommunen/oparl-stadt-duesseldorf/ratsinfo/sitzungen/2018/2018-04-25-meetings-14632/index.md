@@ -1,0 +1,56 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-04-25T17:00:00+02:00
+- Ende: 2018-04-25T18:42:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14632
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14632
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315344.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315344.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315344.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 10.01.2018 - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift 24.01.2018 - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift 14.03.2018 - einstimmig beschlossen
+- TOP 5: Hintergründe Schließung / Nichtumsetzung Jugendfreizeiteinrichtungen - zur Kenntnis genommen
+- TOP 6: Vorhabenbezogener Bebauungsplan-Entwurf Nr. 06/016 - einstimmig beschlossen
+- TOP 7: Dringlichkeitsbeschluss B-Plan Theodorstraße / A 52 - einstimmig beschlossen
+- TOP 8: Ehemals Fashion House - Kenntnisgabe Workshop-Verfahren - zur Kenntnis genommen
+- TOP 9: Ehemals Fashion House - Frühzeitige Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 13: Anfrage CDU: Situation Mühlenbroich - Schausteller - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage der CDU und FDP: Umgestaltung Unterrather Straße - schriftlich beantwortet
+- TOP 16: Anfrage SPD: Fernwärmeleitung durch den Stadtbezirk 6 - schriftlich beantwortet
+- TOP 17: Anfrage CDU und FDP: Ratinger Weststrecke - Nachfrage - schriftlich beantwortet
+- TOP 18: Anfrage Helmke: Stickoxide im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 19: Anfrage Helmke: Integrationsstellenbedarf im Stadtbezirk 6 - schriftlich beantwortet
+- TOP 20: Anfrage SPD: Flughafenparkservice nutzt Parkplatz Lichtenbroicher Weg - schriftlich beantwortet
+- TOP 21: Antrag CDU und FDP: Fortentwicklung Verkehrsentwicklungsplan - Anschluss K3n an die A44 - einstimmig beschlossen
+- TOP 22: Antrag CDU: Fortentwicklung Verkehrsentwicklungsplan Ortsumgehung Rath - einstimmig beschlossen
+- TOP 23: Antrag CDU: Sanierung Radweg Düsseldorfer Straße/Reichswaldallee - abweichend beschlossen
+- TOP 24: Antrag CDU: Ampelschaltung Theodorstraße / Wahlerstraße nach Inbetriebnahme Linie 701 - abweichend beschlossen
+- TOP 25: Antrag Helmke: Ersatzpflanzungen Heinrichstraße (Stadtbezirk 6) - einstimmig beschlossen
+- TOP 26: Trödelmärkte Schützenplatz Rather Broich - 2. Halbjahr 2018 - mehrheitlich beschlossen
+- TOP 27: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 28: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 29: Verfügungsmittel 2018 - einstimmig beschlossen
+- TOP 30: MdV - GAT Artusstraße - zur Kenntnis genommen
+- TOP 31: MdV - Herchenbachstraße Radwegemarkierung - zur Kenntnis genommen
+- TOP 32: MdV - Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 33: MdV - Fußgängerüberweg Westfalenstraße - zur Kenntnis genommen
+- TOP 34: MdV - Parkplätze An der Piwipp/Am Kittelbach - zur Kenntnis genommen
+- TOP 35: MdV - Fußwegverbindung Penny-Markt/Rather Kirchplatz - zur Kenntnis genommen
+- TOP 36: MdV - Verkehrssicherung In der Nießdonk - zur Kenntnis genommen
+- TOP 37: MdV - Schaffung eines Bürgersteiges Nördlicher Zubringer 15 - zur Kenntnis genommen
+- TOP 38: MdV - Eisenbahnunterführung Helmutstraße - zur Kenntnis genommen
+- TOP 39: MdV - Busanbindung Heinrich-Heine-Gesamtschule - zur Kenntnis genommen
