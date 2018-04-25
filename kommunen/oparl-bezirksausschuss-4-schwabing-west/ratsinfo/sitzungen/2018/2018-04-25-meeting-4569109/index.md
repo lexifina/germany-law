@@ -1,0 +1,143 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569109
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569109
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.8.: Empfang der Hauptamtlichen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Tagesmutter / Kindertagespflege "Schwabinger Schlawiner" Anschaffung eines Krippenwagens 1.280,00€ Az. 0262.0-4-0196
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat Sophie-Scholl-Gymnasium Sommerfest der Schule 2018 1.070,00€ Az. 0262.0-4-0195
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Jugendzentrum LIFE / CVJM München e.V. Aktivferien am Ackermannbogen vom 27. - 30.05.2018 4.135,60 Euro Az.: 0262.0-4-0199
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Lernwerkstatt Halle 36 e.V. Bau eines Parklets für das Streetlife-Festival am 05./06.05.2018 763,89 Euro Az.: 0262.0-4-0198
+- TOP 2.5.: „kitabarometer“ - Anhörung zur Beschlussvorlage für den Stadtrat
+- TOP 2.6.: Verlängerung des Bewilligungszeitraums für das aus dem BA-Budget geförderte Jugendkulturprojekt „Hänsel und Gretel“ bis Ende 2018
+- TOP 2.7.: Grundschule Farinellistraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis von BIKU e.V. für das Projekt „Applaus“
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Inwestitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2017 bis 2020 Kindertagesstätten sonstiger Träger; Haus für Kinder an der Friedrich-Loy-Straße 12-14 im 4. Stadtbezirk Schwabing-West Leistung eines Baukostenzuschusses
+- TOP 3.3.2.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 3.3.3.: Neue Bädereintrittspreise ab 01.05.2018
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Bitte um Unterstützung eines Kunstprojektes auf dem Königsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Fallmerayerstr. 1/Hohenzollernstraße: Aufstellung eines Zeitungsentnahmegeräts
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse JOINT ADVENTURES ACCESS TO DANCE vom 14. - 18.05.2018 9.020,00€ Az. 0262.0-4-0193
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Anbringung von Hinweisschildern 365,00 Euro Az.: 0262.0-4-0200
+- TOP 2.2.3.: (E) Budget der Bezirksausschüsse Sakaizani Madagasikara - Freunde Madagaskars e.V. 25-Jahrfeier am 22.09.2018 1.000,00€ Az. 0262.0-4-0197
+- TOP 2.2.4.: Erläuterungsschilder für die Arcis-, Teng- und Zentnerstraße: Anhörung zu Textvorschlägen
+- TOP 2.3.1.: „Kunst im Karree 2018“ am 13.07.2018 in der Isabellastraße
+- TOP 2.3.2.: Spielplatz und Grünfläche Deidesheimer Straße: Familienfest zum International Family Equality Day am 06.05.2018
+- TOP 2.3.3.: Sommerfest von „Pro Animale“ am 21.07.2018 im Luitpoldpark
+- TOP 2.3.4.: Aktivferien Ackermannbogen vom 27. bis 30.05.2018
+- TOP 2.3.5.: Quartiersflohmarkt Ackermannbogen am 30.06.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Anderungsbescheid MGS Filmproduktion
+- TOP 3.2.2.: Bewilligungsbescheid Kreuzkirche
+- TOP 3.2.3.: Verwendungsnachweis der Initiative „Studienensembles“ für Konzert am 03.03.2018
+- TOP 3.3.1.: „Polizeiruf 110“ am 16.04.2018 im Luitpoldpark
+- TOP 3.3.2.: „Wie gut ist deine Beziehung“ am 24.04.2018 im Luitpoldpark
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Thu Vietnamese Cuisine“, Destouchesstr. 48
+- TOP 3.4.2.: Kleingaststätte „Bar Giornaliero“, Hohenzollernstr. 124
+- TOP 3.4.3.: Schank- und Speisewirtschaft „Vinpasa“, Isabellastr. 47
+- TOP 3.4.4.: Konditorei-Café „Höflinger“, Agnesstr. 53
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Jakob-Klar-Str. 4: Dachgeschossausbau (1 WE)
+- TOP 2.1.2.: Agnesstr. 41: Vergrößerung einer Balkonanlage
+- TOP 2.1.3.: Hiltenspergerstr. 49: Nutzungsänderung im EG: Frisörladen zu Wohnung
+- TOP 2.1.4.: Angererstr. 9 b: Nachrüstung einer Windschutzsicherung auf Teilen der verglasten Terrassenbrüstung
+- TOP 2.1.5.: Pündterplatz 1: Ausbau der 2. DG-Ebene und eines Teilbereichs der 1. DG-Ebene eines denkmalgeschützten Mehrfamilienhauses sowie Einbau eines Aufzugs
+- TOP 2.1.6.: Destouchesstr. 59/VGB: Teil-Ausbau des Speichers zu einer zusätzlichen Wohneinheit
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen in der Bonner Str. 19
+- TOP 3.2.2.: Nicht baugenehmigungspflichtige Modernisierungsmaßnahmen in der Belgradstr. 24
+- TOP 3.2.3.: Fassadenanstrich Kurfürstenplatz 6 a: Antrag an die Untere Denkmalschutzbehörde
+- TOP 3.2.4.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 3.2.5.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 3.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.7.: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte): Bewilligungsbescheid an Urbanes Wohnen e.V. für die Baumlückenschließung in der Clemensstraße
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: a) Verlegung der Ausstiegshaltestelle der Buslinie 59; b) Parksituation Elisabeth-Kohn-Straße: Ladezone vor der Kindervilla oder Parklizenz
+- TOP 1.2.: Bürgerin: Rechts-vor-Links-Regelung und Begrünung an der Kreuzung Winzerer-/Georgenstraße (vgl. TOP E 1.2, 05/17)
+- TOP 1.3.: Bürgerin: Endhaltestelle der Buslinie 59 am Ackermannbogen
+- TOP 1.4.: Bürger: Einsatz von Elektrobussen im Ackermannbogen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Birnauer Straße (Nymphenburg-Biedersteiner Kanal): Fällung einer Birke
+- TOP 2.1.2.: Winzererstr. 41: Fällung zweier Bergahornbäume
+- TOP 2.1.3.: Karl-Theodor-Str. 92: Fällung einer Platane
+- TOP 2.1.4.: Ainmillerstr. 32. Fällung einer Birke
+- TOP 2.2.1.: Bauliche Umgestaltung der Tengstraße zwischen Ziebland- und Hohenzollernstraße
+- TOP 2.2.2.: (E) Klare Kennzeichnung des Radweges vor der Schule am Elisabethplatz
+- TOP 2.2.3.: Dialog-Displays: Bitte um zwei weitere Standortvorschläge
+- TOP 2.2.4.: (E) Fahrradstraße Clemensstraße
+- TOP 2.2.5.: Fahrradfreundliche Gestaltung an der Kreuzung Clemens-/Fallmerayerstraße
+- TOP 2.2.6.: MVG-Leistungsprogramm 2019
+- TOP 2.2.7.: (E) Maßnahmen zur Durchsetzung des absoluten Halt-verbots vor der Postannahmestelle Saarstraße 7
+- TOP 2.2.8.: Bauliche Umgestaltung der Karl-Theodor-Straße zwischen Schleißheimer Straße und Belgradstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Belgradstraße zwischen Scheidplatz und Karl-Theodor-Straße: Begrünung durch Sträucher auf dem Seitenstreifen (Antwort des Baureferats auf BA-Schreiben vom 23.11.2017)
+- TOP 3.1.2.: Entfernbarer Poller am abgesenkten Gehweg vor den Gebäuden Rümannstr. 57-59 (Antwort des Baureferats auf BA-Schreiben vom 02.03.2018)
+- TOP 3.1.3.: Zufahrtssperren am Helmut-Fischer-Platz (Antwort des Baureferats auf BA-Schreiben vom 01.02.2018)
+- TOP 3.1.4.: Mehr fußläufig erreichbare Christbaumsammelstellen einrichten
+- TOP 3.1.5.: 3-D-Methode zur Hervorhebung von Zebrastreifen und Fahrradstraßen
+- TOP 3.1.6.: Lückenschluss an der Kreuzung Schwere-Reiter-/Elisabethstraße (Antwort des Baureferats auf BA-Schreiben vom 26.07.2017)
+- TOP 3.2.1.: Genehmigungsbescheid zur Fällung einer Linde in der Wormser Straße
+- TOP 3.3.1.: Haltverbot in der Zentnerstraße (Ostseite) nach der Einmündung Hohenzollernstraße
+- TOP 3.3.2.: Belgradstraße zwischen Hohenzollern- und Destouchesstraße: Deckenschlussarbeiten im Gleisbereich
+- TOP 3.3.3.: Sperre der Siedlung Ackermannbogen bei Großveranstaltungen im Olympiapark 2018
+- TOP 3.3.4.: Verbesserung der Verkehrssicherheit an der Kreuzung Georgen-/Friedrich-/Türkenstraße und Georgen-/Kurfürstenstraße
+- TOP 3.3.5.: Anfahrtszone für Behindertentransportfahrzeuge in der Belgradstraße (Ostseite)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 3.4.2.: Baustelleneinrichtung in der Grünanlage Mildred-Scheel-Bogen 15
+- TOP 3.4.3.: Arbeiten im Straßenraum: Reparatur der Fernwärmeleitung im Bereich Tengstr. 39 / Ecke Bauerstraße
+- TOP 3.4.4.: Fortführung der Wegesanierung im Luitpoldpark ab Mitte April
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Aufnahme eines Anhörungs- und Unterrichtungsrechtes bei größeren Verkehrsumleitungen bei größeren Baumaßnahmen Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach auf Änderung der BA-Satzung
+- TOP F.2.: Stadtbezirksbudget für München – Anhörung der Bezirksausschüsse
+- TOP F.3.: Änderung der Bürger- und Einwohnerversammlungssatzung: Erweiterung des Rederechts
+- TOP F.4.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 GO
+- TOP G: Verschiedenes
+- TOP H: Termine
