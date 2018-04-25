@@ -1,0 +1,120 @@
+# 18. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-04-25T17:20:00+02:00
+- Ende: 2018-04-25T22:32:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3234
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3234
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Bauanträge, Millieuschutz, Denkmalschutz - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 3.1: Einspruch gegen Ordnungsmaßnahme - in der BVV abgelehnt
+- TOP 4: Der Bürgermeister hat das Wort - in der BVV abgelehnt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Neukölln verurteilt die Schändung des Mahnmals für Burak Bektas - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Gegen Antisemitismus und Homosexuellenfeindlichkeit - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Abberufung von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Anzahl der Mitglieder des Ältestenrates in der BVV Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Reihenuntersuchung für 4jährige Kinder - beantwortet
+- TOP 9.2: Drogenkonsumraum Neukölln - beantwortet
+- TOP 9.3: Fahrbahnmarkierung im Bereich der KMS-Baustelle - beantwortet
+- TOP 9.4: Gibt es in Neukölln das Recht des wirtschaftlich Stärkeren? - beantwortet
+- TOP 9.5: Sicherheit vor den Gropius Passagen - schriftlich beantwortet
+- TOP 9.6: Plakate zur Wahl - beantwortet
+- TOP 9.7: Personalsituation in der Abteilung Sozialwesen - beantwortet
+- TOP 9.8: Wann ist ein Spielgerät defekt? - schriftlich beantwortet
+- TOP 9.9: Schule in der Oderstraße - schriftlich beantwortet
+- TOP 9.10: Steuergelderverschwendung durch die Neuköllner Koordinierungsstelle für Sicherheit und Ordnung - schriftlich beantwortet
+- TOP 9.11: Anschluss der armen Kinder an digitalisierte Schulen - beantwortet
+- TOP 9.12: Übergabe des Jungedclubs Ufo an einen freien Träger - schriftlich beantwortet
+- TOP 9.13: Bürgersteig - schriftlich beantwortet
+- TOP 9.14: Fahrraddiebstahl Bekämpfung - schriftlich beantwortet
+- TOP 9.15: Eigentümer Maybachufer akzeptiert Prüfergebnisse WBS nicht? - schriftlich beantwortet
+- TOP 9.16: Wer hat Anti-Israel-Demonstration in Neukölln angemeldet? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Ordnungsamt Neukölln - beantwortet
+- TOP 10.2: Durch das Jugendamt Neukölln betreute unbegleitete minderjährige Asylbewerber - beantwortet
+- TOP 10.3: Grüne Welle Sonnenallee - in der BVV abgelehnt
+- TOP 10.4: Fond für die Kosten der Verlegung von Stolpersteinen für Nachfahren der Opfer des Nationalsozialismus - in der BVV abgelehnt
+- TOP 10.5: Murat spielt Prinzessin - in der BVV abgelehnt
+- TOP 10.6: Wahrheit über die 13. Sitzung der BVV bekanntgeben - vertagt
+- TOP 10.7: Altersfeststellung von Amts wegen bei zweifelhaftem Alter von unbegleiteten minderjährigen Asylbewerbern - in der BVV abgelehnt
+- TOP 10.8: Gefährliches Verkehrsverhalten von Radfahrern wirksam bekämpfen - in der BVV abgelehnt
+- TOP 10.9: Ursachenforschung für die unterschiedliche Akzeptanz von Notunterkünften in Neukölln im Rahmen der Kältehilfe (vgl. Drs. Nr. 0535/XX) - schriftlich beantwortet
+- TOP 10.10: Folgen des bevorstehenden weiteren Migrantenzuwachs - vertagt
+- TOP 10.11: Bestandsanierung Asbest und präventive Maßnahmen beim Wohnungsneubau - vertagt
+- TOP 10.12: Ambulante ärztliche Versorgung in Neukölln sicherstellen - schriftlich beantwortet
+- TOP 10.13: Polizeiliche Maßnahmen gegen Drogenkriminalität in und um die Hasenheide - vertagt
+- TOP 10.14: Zuzugssperre - vertagt
+- TOP 10.15: Attraktive Rixdorfer Höhe - überwiesen
+- TOP 10.16: BVV live und archiviert im Internet - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Abbiegerspur in die Kanalstrasse - vertagt
+- TOP 11.2: Glas-Iglus Böhmische Str. 55-56 aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Grünfläche Kielingerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Fußgängerampel Gutschmidtstraße - vertagt
+- TOP 11.5: Geschwindigkeitsüberwachung im Ortolanweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Neukölln soll von der positiven Haushaltssituation profitieren - in der BVV abgelehnt
+- TOP 11.7: Mieterbeiratswahlen demokratisch durchführen - vertagt
+- TOP 11.8: Zeitrahmen für Stadtteildialoge erstellen - in der BVV abgelehnt
+- TOP 11.9: Überbelastung von Buckow durch Flüchtlingsstandorte verhindern! - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Verkaufsverbot an Sonn- und Feiertagen aufheben - vertagt
+- TOP 11.11: Maßnahmen gegen „Trinkerszene“ im U-Bahnhof Rathaus Neukölln - vertagt
+- TOP 11.12: Landesmittel für Drogenkonsumraum in Neukölln nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Fairer Bezirk – Faires Equipment - vertagt
+- TOP 11.14: Wassermenge und Wasserqualität im Rudower Fließ - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Anliegerstraße Ascherslebener Weg - in der BVV abgelehnt
+- TOP 11.16: Sicherheit im Tierpark Neukölln - vertagt
+- TOP 11.17: Zeit nicht länger verschwenden. - vertagt
+- TOP 11.18: Überprüfung der Geschäftsordnnung - ohne Änderungen in der BVV beschlossen
+- TOP 11.19: Bebauungsplan zur Vorhaltung von Produktionsflächen erstellen - vertagt
+- TOP 11.20: Konzept für einen verträglichen Tourismus - ohne Änderungen in der BVV beschlossen
+- TOP 11.21: „Kurze Beine, kurze Wege“ - Grundschulkinder nicht im Stich lassen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Wie fördert das Bezirksamt Neukölln den Neuköllner Sport? - vertagt
+- TOP 12.2: Schulgarten Dammweg - vertagt
+- TOP 12.3: Newsletter der Abteilung Jugend und Gesundheit - Öffentlichkeitsarbeit des Bezirks oder Parteiorgan des Stadtrats? - vertagt
+- TOP 12.4: Mehr Schutz für Fahrradfahrer*innen - vertagt
+- TOP 12.5: möglicher Asbest bekannt und nix passiert - vertagt
+- TOP 12.6: Planungen RIAS Gelände - vertagt
+- TOP 12.7: Lärm – Ein Problem in Neukölln? - vertagt
+- TOP 12.8: Mobbing an Neuköllner Schulen - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Schulgarten Carl-Legien Schule - überwiesen
+- TOP 14.2: Beteiligung am europaweiten autofreien Tag - überwiesen
+- TOP 14.3: Einrichtung von weiteren Neuköllner Koordinierungsstellen - vertagt
+- TOP 14.4: Schilderirrsinn in Neukölln - vertagt
+- TOP 14.5: Angeschaffte Defibrillatoren im Rathaus mit einer Kurzanleitung in Bildersprache ausstatten - überwiesen
+- TOP 14.6: Parkverbotszone - überwiesen
+- TOP 14.7: Lärmprognose in belasteten Gebieten - überwiesen
+- TOP 14.8: Bebauung ehemaliger Güterbahnhof Neukölln - vertagt
+- TOP 14.9: Lärmschutz in Gebieten mit hoher Besucher*innenbelastung - überwiesen
+- TOP 14.10: Statistik zur Gewalt an Schulen - vertagt
+- TOP 14.11: Verkehrslenkende Maßnahmen in der Köpenicker Straße - überwiesen
+- TOP 14.12: Bäume in Neukölln nachpflanzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Änderung der Geschäftsordnung - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Barrierefreie Ampeln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Gefährliches Verkehrsverhalten wirksam bekämpfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Rückschnitt von Sträuchern und Büschen zur Herstellung des nach dem BerlStrG erforderlichen Regelprofiles - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Schilderloses Gestänge entfernen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Fahrradstellplätze Marktplatz Britz-Süd - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Fußgängerampel Mariendorfer Damm/Sandsteinweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.7: Erhalt des "Gletschers" in Britz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauung ehem. Blub-Gelände - mit Abschlussbericht zur Kenntnis genommen
