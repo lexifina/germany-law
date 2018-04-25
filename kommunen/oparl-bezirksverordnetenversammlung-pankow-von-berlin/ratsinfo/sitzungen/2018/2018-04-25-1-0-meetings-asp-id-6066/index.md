@@ -1,0 +1,67 @@
+# 15. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2018-04-25T17:30:00+02:00
+- Ende: 2018-04-25T21:00:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6066
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6066
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=162634
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - im Ausschuss abgelehnt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde auf Antrag der Fraktion Bündnis90/ Die Grünen zum Thema "Tegel schließen, Gesundheitsgefahr stoppen!" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - (offen)
+- TOP 1.5.1: Resolution - Pankow gemeinsam gegen Antisemitismus, Fremdenhass und Gewalt - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.6: Mündliche Anfrage - (offen)
+- TOP 1.6.1: Kann man in Pankow Kippa tragen? - beantwortet
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Nachwahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss zur Schöffenwahl für die Geschäftsjahre 2019-2023 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Ergänzungsplan für 2018 zum Doppelhaushalt 2018/2019 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Jobbörse für obdachlose Menschen durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Senkung der Grunderwerbsteuer - in der BVV abgelehnt
+- TOP 1.14: Vorstellung zur Planung der Bogenschießanlage der Sportanlage Rennbahnstraße - überwiesen
+- TOP 1.15: Bürgerschaftliches Engagement erleichtern – Übersicht über Spielplätze neu gestalten - überwiesen
+- TOP 1.16: Langfristige Sicherung der Kleingartenanlagen im Bezirk Pankow - überwiesen
+- TOP 1.17: Mehr Sicherheit für die Schüler der Kurt-Tucholsky-Oberschule - überwiesen
+- TOP 1.18: Demokratieerklärung für Pankow einfordern - in der BVV abgelehnt
+- TOP 1.19: Bewohnbarkeit der Schönhauser 90 unverzüglich wiederherstellen! - überwiesen
+- TOP 1.20: Spielplätze nachhaltig planen und sanieren - überwiesen
+- TOP 1.21: Neugestaltung und Belebung des Hugenottenplatzes - überwiesen
+- TOP 1.22: Verkehrsinfrastruktur vorausschauend planen - überwiesen
+- TOP 1.23: Bebaubarkeit am Güterbahnhof Greifswalder Straße herstellen - in der BVV abgelehnt
+- TOP 1.24: Schulbauoffensive digital transparent machen - überwiesen
+- TOP 1.25: Europa in Pankower Schulen - überwiesen
+- TOP 1.26: Eröffnungsfeier der beiden Pankower Coding Hubs offiziell begleiten und bewerben - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Informationssteine im Volkspark Prenzlauer Berg reinigen und wo nötig erneuern - überwiesen
+- TOP 1.28: Gemeinsames Vorgehen von Sozialamt und Ordnungsdiensten bei Obdachlosigkeit - überwiesen
+- TOP 1.29: Verkehrssituation für Fußgänger*innen in der Darßer Straße sicherer gestalten - überwiesen
+- TOP 1.30: Mehr Müllbehälter im Volkspark Prenzlauer Berg - überwiesen
+- TOP 1.31: Mehr Schulwegsicherheit in der Görschstraße - überwiesen
+- TOP 1.32: Beschleunigung von Bebauungsplanverfahren - überwiesen
+- TOP 1.33: Lebendiges Stadtquartier statt Shopping-Mall am S-Bahnhof Pankow - überwiesen
+- TOP 1.34: Aufstellung von Mülleimern für das Hundeauslaufgebiet Blankenfelde - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vorgaben für die weitere Entwicklung des Güterbahnhofs Greifswalder Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Blindenleitsystem in den bezirklichen Gebäuden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Moorlinse schützen - Umweltbildung ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Spielplatzplanung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Mehr Angebote für obdachlose Frauen schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Fahrradabstellanlage vor der Schwimmhalle im Ernst-Thälmann-Park neu gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Änderung der Parkordnung in der Bizetstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Frühschwimmen bekannt(er) machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Haltemöglichkeit für Schulbusse vor der Schwimmhalle Thomas-Mann-Straße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Markierung der PKW-Stellplätze im Bötzowviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Rechtswidrigen Durchgangsverkehr unterbinden – Natur schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Abschluss der Konsolidierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bebauungsplan IV-45 für das Gelände zwischen Bahnanlagen, Schwedter Straße, Gleimtunnel und der Bezirksgrenze zum Bezirk Mitte im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Anmeldung des Bezirks Pankow zum Investitionsprogramm 2018 bis 2022 für Schulbaumaßnahmen - mit Abschlussbericht zur Kenntnis genommen
