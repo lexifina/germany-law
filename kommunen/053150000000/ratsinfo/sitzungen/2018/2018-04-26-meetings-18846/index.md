@@ -1,0 +1,73 @@
+# 29. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-26T17:00:00+02:00
+- Ende: 2018-04-26T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18846
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18846
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Parkverbot und Kontrolle auf der Escher Straße (Az.: 02-1600-08/18) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Das neue Carsharing Gesetz - in Kraft getreten am 1. September 2017 - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.3: Beantwortung der Anfrage AN/0147/2018 - Gaukler im Straßenverkehr - Kenntnis genommen
+- TOP 7.1.4: Altbaumburgweg Parksituation - Kenntnis genommen
+- TOP 7.1.5: Wilhelm-Sollmann-Straße/Johannes-Rings-Straße - Kenntnis genommen
+- TOP 7.1.6: Wasserqualität im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.7: Fälle von Zweckentfremdung nach der Wohnraumschutzsatzung seit 2014 - Kenntnis genommen
+- TOP 7.1.8: Mangel an betreutem bzw. ambulant betreutem Wohnen in Köln-Bilderstöckchen für Senioren die "nur" alt sind - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Container Slabystraße auf Grünfläche neben KVB-Gelände - Kenntnis genommen
+- TOP -: Anfrage der FDP in der Sitzung der Bezirksvertretung Nippes am 26.04.2018 - Kenntnis genommen
+- TOP 7.2.2: Aufstellmöglichkeiten für Ford-Leihfahrräder im Bezirk Nippes - Kenntnis genommen
+- TOP 7.2.3: Abstandsregelung für Spielhallen - Kenntnis genommen
+- TOP -: Abstandsregelung für Spielhallen - Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0541/2018) - Kenntnis genommen
+- TOP 7.2.4: Verbesserung der App für KVB-Fahrräder und Maßnahmen gegen das Abstellen der Fahrräder an für die Öffentlichkeit nicht zugänglichen Orten - Kenntnis genommen
+- TOP 7.2.5: Messwerte der Feinstoffbelastungen am Niederländer Ufer - Kenntnis genommen
+- TOP 7.2.6: Wiederherrichten der Gehwege im Bereich der Gocher Straße in Nippes - Kenntnis genommen
+- TOP 7.2.7: Wiederherrichten des Wasserspielplatzes Nippeser Tälchen - Kenntnis genommen
+- TOP 7.2.8: Fußgängerüberweg auf der Sebastianstraße in Höhe der Endhaltestelle der Linie 16 - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Verbesserung der Sicherheit der Verkehrsteilnehmer auf Fuß- und Radweg an der Longericher Straße in Köln Bilderstöckchen - geändert beschlossen
+- TOP 8.1.2: Einrichtung aufsuchender Verbraucherarbeit im Stadtteil Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.3: Standortsuche Freiwillige Feuerwehr Löschgruppe Longerich - geändert beschlossen
+- TOP 8.1.4: Plakatstellen An der Schanz - ungeändert beschlossen
+- TOP -: Plakatstellen An der Schanz - Kenntnis genommen
+- TOP 8.1.5: Einrichtung einer Hundefreifläche im Stadtteil Weidenpesch - ungeändert beschlossen
+- TOP -: Einrichtung einer Hundefreifläche im Stadtteil Weidenpesch - Kenntnis genommen
+- TOP 8.1.6: Abfallbehälter für Parks im Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.1.7: Rattenbekämpfung im Stadtbezirk Nippes wieder intensivieren - ungeändert beschlossen
+- TOP 8.1.8: Grill Scouts für die Parks im Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - geändert beschlossen
+- TOP 9.2.2: 264. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.2: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 10.2.3: Osterather Straße/Liebigstraße in Köln-Bilderstöckchen; 66470/06; Offenlage - Kenntnis genommen
+- TOP 10.2.4: Parkplätze am Friedhof in Alt-Niehl - Kenntnis genommen
+- TOP 10.2.5: Aufstellen von Hundekotbeutelspender im Ebernburgweg Köln Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.6: Haltestelle Lohsestraße - Planungen für den Einbau von Aufzügen - Kenntnis genommen
+- TOP 10.2.7: Errichtung provisorischer Beleuchtungsanlagen auf der Neusser Straße - Kenntnis genommen
+- TOP 10.2.8: Prüfung einiger Vorschläge aus der 4. Zukunftskonferenz Bilderstöckchen - Gemeinsamer Antrag SPD, Grüne, CDU - Kenntnis genommen
