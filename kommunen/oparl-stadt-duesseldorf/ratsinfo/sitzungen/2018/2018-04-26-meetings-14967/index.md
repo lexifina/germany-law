@@ -1,0 +1,71 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-04-26T17:00:00+02:00
+- Ende: 2018-04-26T18:35:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14967
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14967
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315329.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315329.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315329.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Flächennutzungsplan-Änderung Nr. 168 (Entwurf), Nördlich Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 5: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße, im 2. Halbjahr 2018 - einstimmig beschlossen
+- TOP 6: Zuschüsse der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 7: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Toiletten Friedhof Unterbach - beantwortet
+- TOP 9: Grundstück Zum Hexenkotten 8 - beantwortet
+- TOP 10: Postzustellung im Stadtbezirk 8 - beantwortet
+- TOP 11: Fuß- / Radweg entlang der Düssel - beantwortet
+- TOP 12: WLAN im Stadtbezirk 8 - beantwortet
+- TOP 13: S-Bahnhöfe im Stadtbezirk 8 - beantwortet
+- TOP 14: Grundwasserstand Freiheitstraße - beantwortet
+- TOP 15: Skaterpark Eller - beantwortet
+- TOP 16: RRX-Lärmschutz im Stadtbezirk 8 - beantwortet
+- TOP 17: Flüchtlingsunterkunft Gatherweg 60 - beantwortet
+- TOP 18: Werbeflächen im Stadtbezirk 8 - beantwortet
+- TOP 19: Entschlammung Schlossgraben - beantwortet
+- TOP 20: Straßenbaumaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 21: Düssel-Brücke Sandträgerweg - beantwortet
+- TOP 22: Fahrbahnbelag Gothaer Weg - beantwortet
+- TOP 23: Baumaßnahmen Gubener Straße - beantwortet
+- TOP 24: Baumfällungen in Vennhausen - beantwortet
+- TOP 25: E-Bike Ladestation Gubener Straße - einstimmig beschlossen
+- TOP 26: Containerstation Gubener Straße - einstimmig beschlossen
+- TOP 27: Verbesserung Abendverkehr: Anpassung des Taktangebotes an das veränderte Verkehrsverhalten - zur Kenntnis genommen
+- TOP 28: Verkehrsentlastung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 29: Zuständigkeit des OVA - zur Kenntnis genommen
+- TOP 30: Querungsmöglichkeit Sandträgerweg - zur Kenntnis genommen
+- TOP 31: Gedenkstätte Höherweg / Posener Straße - zur Kenntnis genommen
+- TOP 32: Gertrudisplatz - Zufahrt Anhalter Straße - zur Kenntnis genommen
+- TOP 33: Parkregelung Harffstraße - zur Kenntnis genommen
+- TOP 34: Haltestellenneubau Kamper Weg - zur Kenntnis genommen
+- TOP 35: Alter und Pflege im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Skaterpark Eller - zur Kenntnis genommen
+- TOP 37: Fahrbahnbelag Sandträgerweg - zur Kenntnis genommen
+- TOP 38: Geh- und Radweg Am Kleinforst - zur Kenntnis genommen
+- TOP 39: Wildblumenwiese Kamper Weg / Neusalzer Weg - zur Kenntnis genommen
+- TOP 40: Umbau Sebastiansweg - zur Kenntnis genommen
+- TOP 41: Verkehrsversuch Erkrather Straße - zur Kenntnis genommen
+- TOP 42: Masterplan Kinderspielplätze 2019 - zur Kenntnis genommen
+- TOP 43: Gehweg Erlenkamp - zur Kenntnis genommen
+- TOP 44: Geldautomat am Einkaufszentrum Bingener Weg - zur Kenntnis genommen
+- TOP 45: Schulstandort Vennhauser Allee 160-162 - zur Kenntnis genommen
+- TOP 46: Lehrerparkplatz der Astrid-Lindgren-Schule - zur Kenntnis genommen
+- TOP 47: Fahrradbügel auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 48: Kinder- und Jugendarbeit - AWO Hasseler Richtweg 74d - 76d - zur Kenntnis genommen
+- TOP 49: Grundwasserstand Freiheitstraße - zur Kenntnis genommen
+- TOP 50: RRX - Lärmschutz im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: KGS Gerresheimer Landstraße 89 - zur Kenntnis genommen
+- TOP 52: Abstellbahnhof Speyerweg - Lärmmessung - zur Kenntnis genommen
+- TOP 53: Beschilderung von Brücken mit niedrigem Geländer für Radfahrende - zur Kenntnis genommen
+- TOP 54: Grünpflegeplan Stadtbezirk 8 - zur Kenntnis genommen
