@@ -1,0 +1,69 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-26T17:00:00+02:00
+- Ende: 2018-04-26T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18890
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18890
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Parken in der Straße "Im Beginenwäldchen" in Köln-Poll (Az.: 02-1600-176/17) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr 2018 - ungeändert beschlossen
+- TOP 6.2: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte Hier: Ernennung eines stellvertretenden Mitgliedes für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Eisenbahnsiedlung; frühz. Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - mit Änderungen empfohlen
+- TOP 7.1.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.1 - ungeändert beschlossen
+- TOP 7.2: "Umbau von zwei öffentlichen Platzflächen zu multifunktionalen Freiräumen mit Retentionsfunktion (Festwiese Eil und Leidenhausener Platz); Bedarfsfeststellungsbeschluss - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion: Eine zweite integrierte Gesamtschule für Porz - aus der letzten Sitzung geschoben - endgültig zurückgezogen
+- TOP 8.1.1: NEUFASSUNG: Antrag der SPD-Fraktion: Eine zweite integrierte Gesamtschule für Porz - endgültig abgelehnt
+- TOP 8.1.2: Stellungnahme der Verwaltung: AN/0328/2018 Anfrage der SPD-Fraktion zur Errichtung einer zweiten Gesamtschule in Porz - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der SPD-Fraktion: Ergänzung der ÖPNV-Roadmap um Porzer Stadtbahnprojekte - geändert beschlossen
+- TOP 8.5: Umgewandelt in Anfrage TOP 9.2.5
+- TOP 8.6: Antrag der SPD-Fraktion: Einrichtung einer Querungshilfe in der Berliner Straße in Westhoven - geändert beschlossen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8: Antrag der CDU-Fraktion: Friedhof Wahn - ungeändert beschlossen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Antrag der Fraktion Bündnis 90/Die Grünen: Fahrradstraße von Langel nach Zündorf - ungeändert beschlossen
+- TOP 8.13: Antrag der Fraktion Bündnis 90/Die Grünen: Fahrrad Zielbeschilderung am Loorweg Zündorf - ungeändert beschlossen
+- TOP 8.14: Antrag der Fraktion Bündnis 90/Die Grünen: Radverkehr Rather Str - ungeändert beschlossen
+- TOP 8.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Stichkanal für die Groov in Zündorf - Kenntnis genommen
+- TOP 9.1.2: Trimm Dich Parcours in Gut Leidenhausen, Köln-Porz-Eil - Kenntnis genommen
+- TOP 9.1.2.1: Mündliche Anfrage der SPD-Fraktion: Trimm Dich Parcours in Gut Leidenhausen - Kenntnis genommen
+- TOP 9.1.3: TOP 10.2.5 der Sitzung der Bezirksvertretung Porz vom 27.02.2018 - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion: Sachstand zu Antrag AN/1797/2017 Sanierung der Wahner Str. In Zündorf zwischen - Kenntnis genommen
+- TOP 9.2.1.1: Sachstand zu Antrag AN/1797/2017 - Sanierung der Wahner Straße in Zündorf zwischen Gartenweg und Richthofenstraße - Kenntnis genommen
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.1: Spielhallen im Stadtbezirk Porz (AN/0605/2018) - Kenntnis genommen
+- TOP 9.2.3: Anfrage der CDU-Fraktion: Fahrradführung Frankfurter Straße - zurückgestellt
+- TOP 9.2.4: Anfrage der CDU-Fraktion: Anwohnerparken für Wahner Straßen - zurückgestellt
+- TOP 9.2.5: Anfrage der SPD-Fraktion: Prüfung alternativer Betriebsformen auf der Heidestraße in Wahnheide - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.2: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 10.2.3: Langeler Berg in Köln-Porz-Langel; 70346/03; Offenlage - Kenntnis genommen
+- TOP 10.2.4: Aufwertung von Plätzen in den Stadtbezirken; AN/0922/2017 - Kenntnis genommen
+- TOP 10.2.5: An der Mühle in Porz-Langel; AN/0329/2018 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
