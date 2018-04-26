@@ -1,0 +1,77 @@
+# 32. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-04-26T15:10:00+02:00
+- Ende: 2018-04-26T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18790
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18790
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Angsträume auf städtischen Flächen - Kenntnis genommen
+- TOP 1.2: Beantwortung der Anfrage (AN/0396/2018) der Fraktion Die Linke vom 08.03.2018 betreffend der Revitalisierung der Porzer Innenstadt - TOP 5.2 der Sitzung des Stadtentwicklungsausschusses am 15.03.2018 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Nah- und Fernwärme in Köln
+- TOP 2.1.2: Städtebauförderung nutzen
+- TOP 2.1.3: Neuaufstellung des Regionalplans - Sache ist erledigt
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Genossenschaftlicher Wohnungsbau in Köln/Wohnungsbauleitstelle
+- TOP 2.2.2: „Starke Veedel – starkes Köln“ weiterhin in Gefahr?
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Parkstadt Süd; Errichtung eines Stadtteilbüros durch Umbau und Nutzungsänderung von bestehenden Räumlichkeiten im Verwaltungstrakt der Großmarkthalle - ungeändert beschlossen
+- TOP 5.2: Genehmigungsverfahren nach § 6 Abs. 1 Luftverkehrsgesetz (LuftVG) für das Vorhaben ''Errichtung und Betrieb eines Hubschrauber-Sonderlandeplatzes auf dem Klinikgelände des St.-Katharinen-Hospitals in Frechen'' - ungeändert beschlossen
+- TOP 5.3: Genehmigungsverfahren nach § 6 Abs. 1 Luftverkehrsgesetz (LuftVG) für das Vorhaben ''Verlegung des Bestandshubschrauber-Sonderlandeplatzes (Gebäude 8a) auf das Dach des Herzzentrums des Universitätsklinikums Köln (Gebäude 40)'' - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - geändert beschlossen
+- TOP 6.2: Erneuerung der Eisenbahnüberführungen Deutz-Mülheimer Straße in Köln-Deutz - zurückgestellt
+- TOP 6.3: Planung einer temporären Fuß- und Radwegerampe von der unterstromigen linksrheinischen Seite der Hohenzollernbrücke zum Breslauer Platz - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Neubau des Kölnischen Stadtmuseums und des Studiengebäudes für das Römisch-Germanische Museum im Rahmen des Neubaus Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP -: Zusatz- bzw. Änderungsantrag der sachkundigen Einwohnerin im Stadtentwicklungsausschuss auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenvertreterin - ohne Votum in nachfolgende Gremien
+- TOP -: Neubau des Kölnischen Stadtmuseums und des Studiengebäudes für das Römisch-Germanische Museum im Rahmen des Neubaus Historische Mitte; Vorlage Nr. 0353/2018 - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Förmliche Festsetzung des städtebaulichen Entwicklungsbereichs 'Deutzer Hafen' - ungeändert beschlossen
+- TOP 6.6: Satzung über das besondere Vorkaufsrecht für das Gebiet 'Südliche Innenstadterweiterung/Parkstadt Süd' in Köln-Bayenthal/-Raderberg/-Zollstock/-Sülz nach § 25 Satz 1 Nr. 2 BauGB - ungeändert beschlossen
+- TOP 6.7: "Umbau von zwei öffentlichen Platzflächen zu multifunktionalen Freiräumen mit Retentionsfunktion (Festwiese Eil und Leidenhausener Platz); Bedarfsfeststellungsbeschluss - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Rochusstraße in Köln-Ossendorf; Anhörung der BV 4 zu den Ergebnissen der frühz. Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des B-Plan-Entwurfes (vorhabenbez. B-Plan) - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Subbelrather Straße 486 - 494 in Köln-Ehrenfeld; VEP Einleitungsbeschluss - geändert beschlossen
+- TOP 10.2: Seeadlerweg in Köln-Ehrenfeld; VEP Einleitungsbeschluss und frühz Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10.3: Eygelshovener Straße/Sürther Straße in Köln-Rodenkirchen/Aufstellung B-Plan; Eygelshovener Straße in Köln-Rodenkirchen/Aufhebung Einleitungsbeschluss - zurückgestellt
+- TOP 10.4: "Volkhovener Straße" in Köln-Esch/Auweiler; VEP Einleitungsbeschluss und frühz. Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.5: Glashüttenstraße in Köln-Porz; 74399/04; Ergänzte Beschlussvorlage zu Session-Nr. 3552-2015 - zurückgestellt
+- TOP 10.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Neue Flächen für den Wohnungsbau im Bezirk Chorweiler; - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke und FDP - ungeändert beschlossen
+- TOP 16.2: Beschluss der Bezirksvertretung Porz vom 26.09.2017 über die vereinfachte Änderung des Bebauungsplanes 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1. Änderung - zurückgestellt
+- TOP 16.3: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Langeler Berg in Köln-Porz-Langel; 70346/03; Offenlage - Kenntnis genommen
+- TOP 17.2: Stadtentwicklungskonzept Wohnen (StEK Wohnen): Wiederaufnahme der Baulückenbearbeitung, Ergebnisse 2017 und weiteres Vorgehen - Kenntnis genommen
+- TOP 17.3: Osterather Straße/Liebigstraße in Köln-Bilderstöckchen; 66470/06; Offenlage - Kenntnis genommen
+- TOP 17.4: Stadtbahnanbindung Rondorf / Meschenich-Nord - Kenntnis genommen
+- TOP 17.5: Planfeststellungsbeschluss der Bezirksregierung Köln vom 02. Februar 2018 für den Bau der B 51n - Ortsumgehung Meschenich - Kenntnis genommen
+- TOP 17.6: Vorhabenbezogener Bebauungsplan-Entwurf 63465/02; Arbeitstitel: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 17.7: Neue Kölner Statistik 1/2018 - Kenntnis genommen
+- TOP 17.8: Wohnraumförderung 2018 - Kenntnis genommen
+- TOP 17.9: Jahresbericht 2017 der Koordinationsstelle Klimaschutz - zurückgestellt
+- TOP 17.10: Förderung der Elektromobilität - Was tut die Verwaltung? - Kenntnis genommen
+- TOP 17.11: Städtebaulicher Entwicklungsbereich "Deutzer Hafen"- Verkehrsplanung - Kenntnis genommen
+- TOP 17.12: Mitteilung: Sachstandsbericht zu Verfahren Spielcasino Deutz - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
