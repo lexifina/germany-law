@@ -1,0 +1,52 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2018-04-26T17:00:00+02:00
+- Ende: 2018-04-26T20:35:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUbEe--ac7BYTnFmVVD8fhw
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1780
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWEEhKNc_orCVhFEctXfohlnIeTLQI_z8o0imWeDLhso/Bekanntmachung_Rat_26.04.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSPxJJM89k0z7S6nhe7GyExCMWRulA-PfKQHhMj9bL5z/Oeffentliche_Niederschrift_Rat_26.04.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Integriertes städtisches Entwicklungskonzept (ISEK); hier: Gestaltung des Schulhofes und der Außenanlagen der Grundschule Rahden - Ohne Abstimmung
+- TOP 5.: 7. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 6.: Benennung der neuen Straße im Bereich des Bebauungsplanes Nr. 91 "Wehe-Husen" in der Ortschaft Wehe - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erlass einer 3. Satzung zur Änderung der Hauptsatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 8.: Neufassung der Förderrichtlinien über die Verwendung der Mittel aus der Sportpauschale in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: Bestellung des Leiters sowie eines stellvertretenden Leiters der Freiwilligen Feuerwehr der Stadt Rahden
+- TOP 9.1: Bestellung des Leiters der Freiwilligen Feuerwehr der Stadt Rahden
+- TOP 9.2: Bestellung des stellvertretenden Leiters der Freiwilligen Feuerwehr der Stadt Rahden
+- TOP 10.: Genehmigung der Verringerung der allgemeinen Rücklage für das Haushaltsjahr 2018
+- TOP 11.: Quartalsbericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im 1. Quartal 2018
+- TOP 12.: Antrag der Fraktion BÜNDNIS 90/ DIE GRÜNEN auf Verbot der Anwendung von Glyphosat und Ausbringung von Neonicotionoid behandeltem Saatgut auf stadteigenen landwirt-schaftlichen Verpachtungsflächen - 15 Stimmen dafür, 20 dagegen, 0 Enthaltungen
+- TOP 13.: Antrag der SPD-Fraktion auf zeitliche Begrenzung der Sitzungen
+- TOP 14.: Bekanntgaben
+- TOP 14.1: Stelle einer Konrektorin/eines Konrektors an der Grundschule Rahden
+- TOP 14.2: Arbeitskreise Schulangelegenheiten
+- TOP 14.3: Tag der Architektur
+- TOP 15.: Verschiedenes
+- TOP 15.1: Arbeitskreis Friedhof
+- TOP 15.2: Windkraftanlagen
+- TOP 15.3: Rats- und Ausschussprotokolle
+- TOP 15.4: Trinkwasserschutzkonzept
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 16.: Veräußerung von Gewerbeflächen im Gewerbegebiet Süd - Einstimmig, 0 Enthaltungen
+- TOP 17.: Grundstücksangelegenheiten
+- TOP 17.1: Gewerbeansiedlung
+- TOP 17.2: Altes Feuerwehrgerätehaus Rahden
+- TOP 18.: Bekanntgaben
+- TOP 19.: Verschiedenes
+- TOP 19.1: Schülerspezialverkehr
+- TOP 19.2: Städtisches Eigentum "Am Brullfeld" und Weller Straße"
+- TOP 19.3: Bahnhofsnutzung
+- TOP 19.4: Kindertagesstätten in Rahden
