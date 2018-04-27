@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-04-27T14:00:00+02:00
+- Ende: 2018-04-27T18:20:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14642
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14642
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315386.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315386.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315386.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 3/2018 über die öffentliche Sitzung der Bezirksvertretung 1 vom 23.03.2018 - zurückgezogen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: Mündliche Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 4.1: Lagedarstellung der Polizeiinspektionen Mitte und Nord - zur Kenntnis genommen
+- TOP 4.2: Bezirkscheck: Jugend checkt Düsseldorf - zur Kenntnis genommen
+- TOP 4.3: Partizipation im Stadtbezirk 1 - Till Eulenspiegel - der Kinder- und Jugendanwalt - passieren lassen
+- TOP 4.4: Opernhaus Düsseldorf, Erneuerung der Steuerungstechnik der Bühnenmaschinerie - Ausführungs- und Fina - Empfehlung einstimmig beschlossen
+- TOP 4.5: Konrad-Adenauer-Platz 1 - Ausführungs- und Finanzierungsbeschluss - - Empfehlung einstimmig beschlossen
+- TOP 4.6: Einrichtung eines Stadtstrandes in Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 4.7: Neugestaltung von Flächen mit Wechselflorbeetbepflanzung - Empfehlung einstimmig beschlossen
+- TOP 4.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 4.9: Mauer am Kinderspielplatz Schwanenmarkt: Gestaltung und Graffitischutz - vertagt
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 5.1: Martin-Luther-Platz: Verkehrsschilder an neuen Laternen - zur Kenntnis genommen
+- TOP 5.2: Weihnachtsmarktbeleuchtung Nordstraße - zur Kenntnis genommen
+- TOP 5.3: Vertrag mit Firma Wall - zur Kenntnis genommen
+- TOP 5.4: Umleitung/Wegeführung vom Hofgarten zum Joachim-Erwin-Platz - zur Kenntnis genommen
+- TOP 5.5: Digitale Bildungsangebote für ältere Mitbürger*innen im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 5.6: Baustelle Konrad-Adenauer-Platz 1: Situation für die Fußgänger*innen - zur Kenntnis genommen
+- TOP 5.7: Genehmigung und Auflagen von Gastronomie-Terrassen auf Gehwegen im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 5.8: Wertgutachten Luisen-Gymnasium - zur Kenntnis genommen
+- TOP 6: Anträge - zur Kenntnis genommen
+- TOP 6.1: Nördliche Düsselmündung an der Unteren Werft - einstimmig beschlossen
+- TOP 6.2: Denkmal von Karl Hilgers im Hofgarten: Reinigung und Instandsetzung - einstimmig beschlossen
+- TOP 6.3: Sperrmüllbeseitigung am Ratinger Tor - einstimmig beschlossen
+- TOP 6.4: Auffahrt Fahrradweg Theodor-Heuss-Brücke - Richtung Niederkassel - einstimmig beschlossen
+- TOP 6.5: Nordfriedhof: Verstöße gegen § 6 der Friedhofsordnung - einstimmig beschlossen
+- TOP 6.6: Umgestaltung der Bismarckstraße im Rahmen des EKISO-Projektes - einstimmig beschlossen
+- TOP 6.7: Beleuchtete Fahrpläne an den Haltestellen der Rheinbahn - einstimmig beschlossen
+- TOP 6.8: Bericht zur Zukunft des Luisen-Gymnasiums - einstimmig beschlossen
+- TOP 7: Informationsvorlagen - zur Kenntnis genommen
+- TOP 7.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8: Verschiedenes - zur Kenntnis genommen
