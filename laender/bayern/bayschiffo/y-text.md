@@ -1,0 +1,1 @@
+Auf Grund von Art. 27 Abs. 5 und Art. 22 in Verbindung mit Art. 75 Abs. 3 des Bayerischen Wassergesetzes (BayWG) erläßt das Bayerische Staatsministerium für Wirtschaft und Verkehr im Einvernehmen und, soweit der Gemeingebrauch nach den Art. 22 und 75 Abs. 3 BayWG geregelt wird, gemeinsam mit dem Bayerischen Staatsministerium des Innern folgende Verordnung:
