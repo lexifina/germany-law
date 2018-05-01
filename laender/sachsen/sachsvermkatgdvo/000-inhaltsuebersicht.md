@@ -19,5 +19,4 @@
 § 18 Aufsicht über die unteren Vermessungsbehörden
 § 19 Übermittlung von Informationen aus den Bestandsdaten des Liegenschaftskatasters durch Gemeinden und Öffentlich bestellte Vermessungsingenieure
 § 20 Daten des Amtlichen Topographisch-Kartographischen Informationssystems
-§ 21 Übergangsregelungen
-§ 22 Inkrafttreten und Außerkrafttreten
+§ 21 Inkrafttreten und Außerkrafttreten
