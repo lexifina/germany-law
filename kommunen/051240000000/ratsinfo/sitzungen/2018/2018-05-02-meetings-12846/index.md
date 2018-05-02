@@ -1,0 +1,71 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-05-02T16:06:00+02:00
+- Ende: 2018-05-02T18:10:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12846
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12846
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00219347.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00220501.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Geschäftsführerin - ungeändert beschlossen
+- TOP 2: Wie geht es weiter mit der Grundsteuer? - Konsequenzen aus dem Urteil des Bundesverfassungsgericht
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 3: Jahresabschlüsse
+- TOP 3.1: Jahresabschluss 2017 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 3.1.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 3.2: Jahresabschluss 2017 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 3.3: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 3.4: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 4: Wirtschaftspläne
+- TOP 5: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 5.1: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 31.03.2018 - Entgegennahme ohne Beschluss
+- TOP 5.2: Geschäftsführer- und Vorstandsangelegenheiten der WSW-Gruppe - Entgegennahme ohne Beschluss
+- TOP 5.3: Wiederbestellung des Geschäftsführers der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 5.4: Veränderungen in der Besetzung der Geschäftsführung der Helios Klinikum Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 5.5: Tilgung eines Verlustvortrages bei den Alten- und Altenpflegeheimen der Stadt Wuppertal (APH) - ungeändert beschlossen
+- TOP 5.6: Bergische Gesellschaft für Ressourceneffizienz mbH (BGR) - Beteiligungsangelegenheiten - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: "Ein Wuppertal für Alle" - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2017/2018 - Entgegennahme ohne Beschluss
+- TOP 7.2: Änderung der bisherigen Rechtslage im Erschließungsbeitragsrecht - vertagen
+- TOP 7.3: Ausbau und zukünftige Gestaltung des Carnaper Platzes - Entgegennahme ohne Beschluss
+- TOP 8: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 8.1: Parkraumbewirtschaftung auf dem Carnaper Platz - ungeändert beschlossen
+- TOP 8.2: Abdichtung Westkotter Viadukt - ungeändert beschlossen
+- TOP 8.3: Neubau einer Sport- und Turnhalle (vier Halleneinheiten) auf dem städtischen Sportplatzgrundstück Nevigeser Str. - ungeändert beschlossen
+- TOP 8.4: Neubau Brücke Remlingrade - Neufestsetzung der Gesamtbaukosten - ungeändert beschlossen
+- TOP 8.5: Baumaßnahmen Rettungsdienst - Anpassung des Durchführungsbeschlusses VO/1050/17 zur Umsetzung des Rettungsdienstbedarfsplans - ungeändert beschlossen
+- TOP 8.6: Verkauf eines städtischen Grundstücks innerhalb des Wupperparks, Gewährung eines Erbbaurechts an dem Tiefbunker Döppersberg sowie Abschluss eines Rahmenvertrages - ungeändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 10: Berichtsvorlagen
+- TOP 10.1: Finco-Bericht zum 31.03.2018 - Entgegennahme ohne Beschluss
+- TOP 10.2: Stand der Schulden und Kassenkredite zum 31.03.2018 - Entgegennahme ohne Beschluss
+- TOP 10.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 10.4: Auswirkungen des Tarifabschlusses 2018 auf den Haushalt 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 11: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 11.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2017 - ungeändert beschlossen
+- TOP 11.2: Umsetzung des Bundesinvestitionsprogramms (1. Kapitel) - ungeändert beschlossen
+- TOP 11.3: Umsetzung des Bundesinvestitionsprogramms Kapitel 2 - ungeändert beschlossen
+- TOP 11.4: Bereitstellung überplanmäßiger Mittel für die Einführung von VOIS - ungeändert beschlossen
+- TOP 11.5: Sanierung Brücke Uellendahler Str, 2. BA - Genehmigung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 11.6: Ergänzungsvereinbarung zur öffentlich-rechtlichen Vereinbarung zwischen den Städten Wuppertal und Remscheid zur Übernahme der Verwaltung der Wohnungsbau- und Arbeitgeberdarlehen der Stadt Remscheid durch die Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.7: Wirtschaftliche Sicherung der Diakonie Wuppertal-Evangelische Kindertagesstätten gemeinnützige GmbH Wuppertal für das Kindergartenjahr 2018/2019 - ungeändert beschlossen
+- TOP 11.8: Dreizehnte Satzung zur Änderung der Gebührensatzung für die Friedhöfe der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.9: Änderung der Entgeltordnung für die Bergische Musikschule - vertagt auf Rat
+- TOP 12: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 13: Berichtsvorlagen
+- TOP 13.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das IV. Quartal 2017 - Entgegennahme ohne Beschluss
+- TOP 13.2: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das I. Quartal 2018 - Entgegennahme ohne Beschluss
+- TOP 13.3: Veröffentlichung des Prüfvermerkes der Gemeindeprüfungsanstalt zum Jahresabschluss des Eigenbetriebes WAW für das Jahr 2016 - Entgegennahme ohne Beschluss
+- TOP 14: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 15: Berichte und Mitteilungen
