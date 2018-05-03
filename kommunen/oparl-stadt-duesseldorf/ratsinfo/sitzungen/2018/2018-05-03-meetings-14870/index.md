@@ -1,0 +1,77 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-05-03T14:00:00+02:00
+- Ende: 2018-05-03T20:56:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14870
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14870
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315837.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315837.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315837.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Anfragen aus aktuellem Anlass - zur Kenntnis genommen
+- TOP 2.1: Anfrage aktueller Anlass: Verdacht der Korruption bei der Feuerwehr - beantwortet
+- TOP 2.2: Anfrage aktuell von Bü90-Grü: Planung von Symposium und Ausstellunbg zu Max Stern - beantwortet
+- TOP 2.3: Anfrage aus aktuellem Anlass Die Linke: Baugenehmigung für das Grundstück Am Trippelsberg 100 - beantwortet
+- TOP 3: Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage der Ratsfraktion DIE LINKE: Videoüberwachung in Düsseldorf - beantwortet
+- TOP 3.2: Anfrage der Ratsfraktion BÜ90/GRÜ: Digitalisierung - beantwortet
+- TOP 3.3: Anfrage des Ratsherrn Grenda: Vereinsdatenbank und www.sportangebote-duesseldorf.de - beantwortet
+- TOP 3.4: Anfrage CDU: Fehlende Kita- und Schulstandorte – sind Hybridbauten eine Lösung? - beantwortet
+- TOP 3.5: Anfrage der CDU-Ratsfraktion: Spart Verwaltung 2020 die Musikschule kaputt? - schriftlich beantwortet
+- TOP 3.6: Anfrage DIE LINKE: Kontakte mit dem Moscheeverband DITIB - schriftlich beantwortet
+- TOP 3.7: Anfrage der SPD-Ratsfraktion: Der Weiterbildung Raum geben: Welche Zukunft wartet auf die VHS? - schriftlich beantwortet
+- TOP 3.8: Anfrage der Ratsfrau Opelt: Gesundheitliche Risiken durch WLAN an Schule - schriftlich beantwortet
+- TOP 3.9: Anfrage des Ratsherrn Maniera: Straftaten an Düsseldorfer Schulen - schriftlich beantwortet
+- TOP 3.10: Anfrage des Ratsherrn Maniera: Kosten für minderjährige unbegleitete Asylbewerber - schriftlich beantwortet
+- TOP 3.11: Anfrage des Ratsherrn Grenda: Außenwerbung in Düsseldorf - schriftlich beantwortet
+- TOP 3.12: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Brandschutzbedarfsplan - schriftlich beantwortet
+- TOP 3.13: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Angermunder Baggerseen - schriftlich beantwortet
+- TOP 3.14: Anfrage des Ratsherrn Dr. Wlecke: Dringlichkeitsentscheidung Grand Départ - schriftlich beantwortet
+- TOP 3.15: Anfrage des Ratsherrn Dr. Wlecke: Abwicklung zum Grand Départ - schriftlich beantwortet
+- TOP 3.16: Anfrage der Ratsfrau El Fassi: Unhaltbare Zustände im Hofgarten - schriftlich beantwortet
+- TOP 3.17: Anfrage der Ratsfrau El Fassi: Baustellen im Hofgarten - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 5: Konrad-Adenauer-Platz 1 - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 6: Opernhaus Düsseldorf, Erneuerung der Steuerungstechnik der Bühnenmaschinerie - Ausführungs- und Fina - einstimmig beschlossen
+- TOP 7: Finanzierung diverser durch die IPM zu realisierenden Schulbaumaßnahmen - einstimmig beschlossen
+- TOP 8: Durchführung der bodentechnischen Aufbereitung von städtischen Flächen im Glasmacherviertel - mehrheitlich beschlossen
+- TOP 9: Freier Eintritt für Gäste des Kulturliste Düsseldorf e.V. in städtische Museen und in Konzerte (Eige - einstimmig beschlossen
+- TOP 10: Bildung eines Teilstandortes und Erhöhung der Zügigkeit der Gutenberg-Schule, Gemeinschaftsgrundschu - einstimmig beschlossen
+- TOP 11: Schulische Inklusion in Düsseldorf - Analyse kommunaler Handlungsfelder und Maßnahmenplanung - einstimmig beschlossen
+- TOP 12: Einrichtung eines Stadtstrandes in Düsseldorf - einstimmig beschlossen
+- TOP 13: Städtische Richtlinien für die Förderung von selbstgenutztem Wohneigentum - mehrheitlich beschlossen
+- TOP 14: Öffentlich rechtliche Vereinbarung zur Durchführung der Beihilfesachbearbeitung für die KZVK - einstimmig beschlossen
+- TOP 15: Beitritt der Landeshauptstadt Düsseldorf zum "Strong Cities Network" - einstimmig beschlossen
+- TOP 16: Berufung eines Mitgliedes der Kunstkommission Düsseldorf - einstimmig beschlossen
+- TOP 17: Berufung von zwei Mitgliedern in das Preisgericht des Heine-Preises - einstimmig beschlossen
+- TOP 18: Berufung von einem Mitglied und Umbesetzung eines Stellvertreters für die Jury Förderpreis für Liter - einstimmig beschlossen
+- TOP 19: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 20: Bebauungsplan-Entwurf Nr. 06/06 Verfahren gem§ 13a BauGB - Westfalenstraße 46-48- Stellungnahme, Änd - mehrheitlich beschlossen
+- TOP 21: Anträge - zur Kenntnis genommen
+- TOP 21.1: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Keine Pferde im Karneval - mehrheitlich abgelehnt
+- TOP 21.1.1: ÄA BÜ90/GRÜ: Gemeinsame Lösung für Tierschutz und Brauchtum finden - mehrheitlich beschlossen
+- TOP 21.2: Antrag der Ratsfraktion DIE LINKE: Autofreier Tag für Düsseldorf - zurückgezogen
+- TOP 21.3: Antrag der Ratsfraktion DIE LINKE: Feldversuch zu Fahrscheinlosem ÖPNV in Düsseldorf - abweichend beschlossen
+- TOP 21.3.1: ÄA von SPD, BÜ90/GRÜ und FDP: Modellstädte für Luftreinhaltung - einstimmig beschlossen
+- TOP 21.3.1.1: Änderungsantrag des Ratsherrn Grenda: Feldversuch zu Fahrscheinlosem ÖPNV - mehrheitlich abgelehnt
+- TOP 21.4: Antrag CDU: Familienfreundliches Düsseldorf - Still- und Wickelmöglichkeiten verbessern - abweichend beschlossen
+- TOP 21.5: Antrag Tierschutz FREIE WÄHLER: Düsseldorf hat ein schlechtes Klima - Rettet die Bäume an der Messe - mehrheitlich abgelehnt
+- TOP 21.5.1: ÄA BÜ90/GRÜ: Open-Air-Gelände: keine Baumfällungen vor der Baugenehmigung - mehrheitlich beschlossen
+- TOP 21.6: Antrag Die Linke: Internationaler Frauentag am 8. März - Einführung eines Feiertages - mehrheitlich abgelehnt
+- TOP 21.7: Antrag Die Linke: Tempo 30 in der Düsseldorfer Innenstadt - mehrheitlich abgelehnt
+- TOP 21.8: Antrag der CDU-Ratsfraktion: Jedem Kind ein Platz an der Clara-Schumann-Musikschule
+- TOP 21.9: Antrag der Ratsfraktionen von CDU, SPD, BÜ90/GRÜ und FDP: Stärkung der Bildungsarbeit in der Mahn- u
+- TOP 21.10: Antrag DIE LINKE: Open-Air-Gelände: Rat und Öffentlichkeit beteiligen - mehrheitlich abgelehnt
+- TOP 21.11: Antrag DIE LINKE: Bericht über die Prüfung der finanziellen Abwicklung des Grand Départ
+- TOP 21.12: Antrag Bü90-Grü, SPD und FDP: Düsseldorf steht zu seinem Wort - Flüchtlinge sind willkommen
+- TOP 22: Vergabe von öffentlichen Personenverkehrsdiensten - mehrheitlich beschlossen
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Aufsichtsrat SWD Städt. Wohnungsgesellschaft Düsseldorf mbH & Co. KG - einstimmig beschlossen
