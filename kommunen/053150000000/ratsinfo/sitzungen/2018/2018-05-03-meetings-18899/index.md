@@ -1,0 +1,69 @@
+# 29. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-03T17:00:00+02:00
+- Ende: 2018-05-03T19:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18899
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18899
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658845.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658845.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00658845.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 19.01.2018 betr. Angstraum BAB-Unterführung Rösrather Straße in Köln-Ostheim - Kenntnis genommen
+- TOP 1.2: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 19.01.2018 betr. Parken auf dem Dr. Uta Renn-Platz in Köln-Ostheim - Kenntnis genommen
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Baumpflanzungen im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Sicherung der Anliegerstraßen und deren Schulwege „Pohlstadtsweg“ (Az.: 02-1600-187/17) - Alternative beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Umbenennung der Heinrich-Lersch-Straße in Köln-Neubrück - zurückgestellt
+- TOP 7.2: Verkehrsberuhigung in der Waldbröler Straße in Köln-Brück - geändert beschlossen
+- TOP 7.3: Kurzstreckenticket zum Nulltarif im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 7.4: Gesamtumgestaltung der Steprathstraße in Köln-Kalk - geändert beschlossen
+- TOP 7.5: Aufstellung von Schulcontainern auf dem Grundstück der KGS Andreas-Hermes-Straße in Köln-Neubrück - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für die Errichtung eines Minikreisverkehrs an der Kreuzung Ostmerheimer - ungeändert beschlossen
+- TOP 8.1.2: Vergabe eines Teils der bezirksorientierten Mittel für das Jahr 2018 - ungeändert beschlossen
+- TOP 8.1.3: Verwendung der Kulturmittel 2018 für den Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Kasernenstraße in Köln-Kalk; 71455/01; Satzungsbeschluss - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Autobahn 559 (Östlicher Zubringer) Richtung Porz - Ausfahrt "Am Grauen Stein" - Kenntnis genommen
+- TOP 9.1.3: Sachstand Bürgereingabe Zwischennutzung für Subkulturhof 02-1600-134/17 - Kenntnis genommen
+- TOP 9.1.4: Sachstand der Grundschulanmeldungen in den Stadtteilen Neubrück und Merheim - Kenntnis genommen
+- TOP 9.1.5: Öffnung der Einbahnstraßen in Köln Kalk für den gegenläufigen Radverkehr - Kenntnis genommen
+- TOP 9.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Fragen der Einwohner*innen beim Stadtgespräch in Köln-Kalk am 28.02.2018 - Kenntnis genommen
+- TOP 9.2.2: Sind die Baumstümpfe samt Loch der ehemaligen Wurzeln aus den Sturmschäden für die Verwaltung Kunst oder können die weg? - Kenntnis genommen
+- TOP 9.2.3: Parken auf Radwegen verhindern und sanktionieren - Kenntnis genommen
+- TOP 9.2.4: Sachstand zum Planungsgebiet Hallen Kalk/Kalk Süd - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Sachstand zu den Beschlüssen der Bezirksvertretung Kalk, hier: Für eine mobile Schäl Sick – Ausbau des Öffentlichen Personennahverkehrs im rrh. Köln voranbringen vom 27.11.2014, 23.02.2016 und 16.06.2016 - Kenntnis genommen
+- TOP 10.1.2: Sachstand zu den Beschlüssen der Bezirksvertretung Kalk, hier: Umgestaltung der Rösrather Straße in Köln-Rath/Heumar vom 28.01.2018 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Auftrag zur vertieften Standortuntersuchung für eine Hubschrauberbetriebsstation - Kenntnis genommen
+- TOP 10.2.2: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 10.2.3: Ausstellung von Bewohnerparkausweisen im Rahmen des privaten Car-Sharing - Kenntnis genommen
+- TOP 10.2.4: Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht - Kenntnis genommen
+- TOP 10.2.5: Detailuntersuchung des Grundwassers im Umfeld des Kalkbergs - Kenntnis genommen
+- TOP 10.2.6: Aufstellung von Schulcontainern auf dem Grundstück der KGS Andreas-Hermes-Straße in Neubrück - Kenntnis genommen
+- TOP 10.2.7: Pläne für die Verkehrsführung auf der Eiler Straße bzw. der Rather Schulstraße während der Sanierung der A3-Brückenbauwerke in Rath/Heumar - Kenntnis genommen
+- TOP 10.2.8: Vorhaben- und Erschließungsplan (VEP) 74440/02 "Rather See" in Köln-Rath/Heumar - Kenntnis genommen
