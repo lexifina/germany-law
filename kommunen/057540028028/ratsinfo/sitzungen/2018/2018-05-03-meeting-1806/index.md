@@ -1,0 +1,53 @@
+# Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss (30. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2018-05-03T17:00:00+02:00
+- Ende: 2018-05-03T22:17:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-16
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZb8MNvQf6sWLF21Aco6L9JY
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1806
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZc_Uc19W16GOhogjbU59Tv7oNnaRVGjZ8xTUKA_WzTa/Bekanntmachung_Bau--_Stadtentwicklungs--_Umwelt-_und_Verkehrsausschuss_03.05.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY5Ubl87N6ts2P2WdcTpOvZSwGtxGvdAdOTLTdtudJB4/Oeffentliche_Niederschrift_Bau--_Stadtentwicklungs--_Umwelt-_und_Verkehrsausschuss_03.05.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Bürgerantrag; Beleuchtung eines Radweges "Am Frankenbrink" - 8 Ja-Stimme(n), 3 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 4: Bürgerantrag Bau eines Radweges zwischen der Pixeler Straße und dem Tunneldurchstich am Bahnhof Rheda - Einstimmig
+- TOP 5: Bürgerantrag; Ausübung des Vorkaufsrechts nach § 25 BauGB im Bereich der Altstadt Rheda - Einstimmig
+- TOP 5.1: Bericht der Verwaltung zum Antrag auf Erlass einer Zweckentfremdungssatzung für Wohnungen und Wohnhäuser nach dem Wohnungsaufsichtsgesetzt (WAG ) NRW - 12 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 6: Antrag der CDU-Fraktion; Überprüfung der Straßenbeleuchtung in Rheda-Wiedenbrück - Einstimmig
+- TOP 7: Antrag der SPD-Fraktion: Überprüfung / Verbesserung der Radwegeanbindung an den Straßen Beckumer Straße, Lümernweg, Matheweg und Kleestraße - Einstimmig
+- TOP 8: Antrag der FDP-Fraktion Fürst-Bentheim-Straße als Fahrradstraße - Einstimmig
+- TOP 9: Antrag der FDP-Fraktion Parkraumbewirtschaftung in Wiedenbrück - Einstimmig
+- TOP 10: Antrag der Fraktion Bündnis 90/Die Grünen vom 15.12.2017 - Einstimmig
+- TOP 11: Bebauungsplan Nr. 371 "Hof Oldemeyer" - Rechtliche Würdigung des Sachstandes - Einstimmig
+- TOP 12: Lärmaktionsplanung der Stadt Rheda-Wiedenbrück (Stufe 3) - Einstimmig
+- TOP 13: Antrag der CDU-Fraktion; Beleuchtung des Radweges zwischen St.-Vinzenz-Straße und der Einmündung zum Siedlungsgebiet Lintel (Am Jägerheim) - Einstimmig
+- TOP 14: Antrag der CDU-Fraktion Radfahrerschutzstreifenmarkierung auf dem Hellweg ab Beckumer Straße in Richtung WD bis Dr. Jasper Straße - Einstimmig
+- TOP 15: Antrag der CDU-Fraktion: Prüfung der verkehrlichen Situation der beiden Kreuzungen Feldhüserweg und Mühlenstraße im Verlauf der Ringstraße - 10 Ja-Stimme(n), 3 Enthaltung(en)
+- TOP 16: Antrag der FDP-Fraktion; Beleuchtung der Bahnunterführung Herzebrocker Straße - Einstimmig
+- TOP 17: Antrag der Fraktion Bündnis 90/Die Grünen „Lebensraum für Insekten und Wildbienen schaffen - Insektenhotels" - Einstimmig
+- TOP 18: Klimaschutzmanagement in Rheda-Wiedenbrück - Einstimmig
+- TOP 19: Alltagsradwege im Kreis Gütersloh - Einstimmig
+- TOP 20: Umgestaltung des Doktorplatzes; Entscheidung für ein Planungskonzept und weitere Beauftragung - Einstimmig
+- TOP 21: 1. Änderung des "Bebauungsplans Nr. 227.3 Frankenbrink, 3. Änderung" - Aufstellungsbeschluss - Einstimmig
+- TOP 22: Erstmalige Herstellung der "Fabianstraße" - Informationsveranstaltung am 09.04.2018 - Beschluss des Ausbauplanes (Bauprogramm - Einstimmig
+- TOP 23: Straßenbenennung im Bereich des Bebauungsplanes Nr. 376 "Auf der Woeste" - Einstimmig
+- TOP 24: Bekanntgabe der jährlichen Flächenbilanz der zu pflegenden öffentlichen Grünflächen im Stadtgebiet - Einstimmig
+- TOP 25: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 26: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 27: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 28: Erklärung von Ausschließungsgründen
+- TOP 29: Liegenschaftsangelegenheiten - Kenntnisnahme
+- TOP 30: Bericht und Beratung zu Empfehlungen des Gestaltungsbeirates - Kenntnisnahme
+- TOP 31: Berichterstattung für Baumaßnahmen über 25.000,- € im Fachbereich Tiefbau - Kenntnisnahme
+- TOP 32: Bekanntgabe von Auftragsvergaben - Kenntnisnahme
+- TOP 33: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 34: Dringende Anfragen und Anregungen
