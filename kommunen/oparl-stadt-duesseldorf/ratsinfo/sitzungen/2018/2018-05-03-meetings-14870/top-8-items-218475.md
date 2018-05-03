@@ -1,0 +1,8 @@
+# TOP 8: Durchführung der bodentechnischen Aufbereitung von städtischen Flächen im Glasmacherviertel
+
+- Sitzung: Rat (2018-05-03)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/218475
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/90013
