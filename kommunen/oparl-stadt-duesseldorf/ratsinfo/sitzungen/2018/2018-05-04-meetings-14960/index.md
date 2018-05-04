@@ -1,0 +1,51 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-05-04T16:00:00+02:00
+- Ende: 2018-05-04T18:18:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14960
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14960
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315863.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315863.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00315863.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Neuwahl einer Schiedsfrau für den Bezirk 19 - Empfehlung einstimmig beschlossen
+- TOP 5: Qualitätssicherndes Verfahren mit Öffentlichkeitsbeteiligung - Südlich Hildener Straße - zur zustim - Empfehlung einstimmig beschlossen
+- TOP 6: Entwicklung Hallenfreibad Benrath - Planerisches Grundkonzept - zurückgezogen
+- TOP 7: Umbau Hildener Straße - Empfehlung einstimmig beschlossen
+- TOP 8: Münchener Straße – Einrichtung eines Bussonderfahrstreifens (1. BA) - zur Kenntnis genommen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2018 (Liste A) - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2018 (Liste B) - einstimmig beschlossen
+- TOP 11: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2018 - einstimmig beschlossen
+- TOP 12: Neugestaltung von Flächen mit Wechselflorbeetbepflanzung - Empfehlung abweichend beschlossen
+- TOP 13: Anfrage: Zusätzliche Fahrradständer am Bahnhof Benrath - vertagt
+- TOP 14: Anfrage: Verkehrssituation im Rathausviertel Benrath - vertagt
+- TOP 15: Anfrage: Durchfahrt Benninghauser Straße - beantwortet
+- TOP 16: Anfrage: Kleingartengelände am Brückerbach (Ohmweg) - beantwortet
+- TOP 17: Anfrage: Anschluss Grünzug Ohmweg an Brückerbach - beantwortet
+- TOP 18: Anfrage: Gewerbliche Nutzung Outokumpu-Gelände - beantwortet
+- TOP 19: Antrag: Verkehrslenkung Albrecht-Dürer-Berufskolleg - vertagt
+- TOP 20: Antrag: Bowlingsport-Zentrum Wimpfener Straße - einstimmig beschlossen
+- TOP 21: Antrag: Schwerlastverkehr Reisholzer Hafen - mehrheitlich abgelehnt
+- TOP 22: Antrag: Fahrradstraßen im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 23: Antrag: Umlaufschranken an Haltestellen Werstener Dorfstraße und Provinzialplatz - einstimmig beschlossen
+- TOP 24: Antrag: Kleinspielfeld (Bolzplatz) am „Lauftreff-Süd“ - einstimmig beschlossen
+- TOP 25: Antrag: Verlängerung Buslinie 727 - einstimmig beschlossen
+- TOP 26: Antrag: Kundenservice Stadtsparkasse - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel Singkreis "Neues Lied" - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel Karnevalsgesellschaft "Düsseldorfer Räbbelche 1962 e.V."; Teil einer Unifor - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Förderverein Theodor-Heuss-Schule e.V., Zirkusprojekt "Zappzarap" - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel St.-Sebastianus-Schützenverein e.V. D-Holthausen - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Wikinger Kanufreunde Himmelgeist e.V., Bus - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Düsseldorfer Hofmusik e.V., Internationale Sommerakademie - einstimmig beschlossen
+- TOP 33: Informationsvorlage: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 34: Informationsvorlage zum Beschluss der BV 9 vom 16.03.2018, Bunker Kölner Landstr./ Burscheider Str. - zur Kenntnis genommen
