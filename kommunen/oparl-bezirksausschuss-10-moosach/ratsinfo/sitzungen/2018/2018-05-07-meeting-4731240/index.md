@@ -1,0 +1,69 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-05-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731240
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731240
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Anordnung Tempo-30-Zone vor der Kinderkrippe auf Höhe der Feldmochinger Str. 14
+- TOP 3.2.1.: Schaffung einer Anfahrts- und Ausstiegsmöglichkeit für Menschen mit Beeinträchtigungen im Bereich des Memminger Platzes (-> WV aus der Sitzung am 19.03.2018, TOP 2.1 nach Ortstermin am 19.04.2018)
+- TOP 3.2.2.: Haltestellensituation für neue Expressbuslinie X50 im Bereich Moosach Bahnhof / Breslauer Straße (-> WV aus Sitzung am 19.03.2018, TOP 6.8)
+- TOP 3.2.3.: Überprüfung der Sicherheit für Fußgänger und Radfahrer an der nördlichen stadteinwärts gelegenen Verkehrsinsel Dachauer Straße / Hanauer Straße (-> WV aus der Sitzung am 16.04.2018, TOP 4.3.1)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Riesstr. 49 2. Hanauer Str. 57 3. Eggmühler Str. 49
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Riesstr. 49 (-> BV siehe TOP 3.3.1.1) 2. Hanauer Str. 57 (-> BV siehe TOP 3.3.1.2) 3. Simrockstr. 4
+- TOP 3.3.3.: Aufstellen von Betonpflanzkübeln am Moosacher Stachus (-> WV aus der Sitzung am 16.04.2018, TOP 4.2.1)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Radweg Dachauer Straße auf Höhe der Einmündlung der Franz-Fihl-Straße verbessern
+- TOP 4.1.2.: Kurzparken in der Feldmochinger Straße
+- TOP 4.1.3.: Einrichtung einer Christbaum-Sammelstelle an der Merseburger Straße
+- TOP 4.2.1.: Ausschilderung Parkhaus Meile Moosach
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Pfennigparade Phoenix Schulen und Kitas GmbH; Inklusive Bildung und Konduktive Förderung Montage eines Wasserspiel Bereiches 1.000,00€ Az. 0262.0-10-0153
+- TOP 5.2.: (E) Freihalten des Parkplatzes am Westfriedhof (Zugang zur Aussegnungshalle) für Friedhofbesucher
+- TOP 5.3.: (E) Verbindliche Terminsetzung zur Entfernung von Wahlplakaten
+- TOP 6.1.: Stadtbezirksbudget für München; Entwurf der Vorlage für den Stadtrat (-> vertagt aus Sitzung am 16.04.2018)
+- TOP 6.2.: Änderung der BA-Satzung und BA-Geschäftsordnung als Folge von Änderungen der Bayerischen Gemeindeordnung
+- TOP 6.3.: "kita-Barometer" - Elternbefragung zum Bedarf an Kinderbetreuung in München (Entwurf Beschlussvorlage)
+- TOP 6.4.: MVG-Leistungsprogramm 2019
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Abensbergstr. 24 2. Henckystr. 3 3. Leipziger Str. 80 4. Naumburger Str. 5
+- TOP 6.6.: Veranstaltung: Pyrotechnik der Kategorie 2 am 09.06.2018 in der Kleingartenanlage, Nederlinger Str. 80
+- TOP 6.7.: 5. Pavillionbauprogramm - Beschlussvorlage
+- TOP 7.1.: Luftschadstoffmessungen in Moosach / Stickstoffdioxid [Rückfrage des BA10 vom 17.01.2018; Standortwahl danach, dass das gesamte Spektrum der in der Modellberechnung dargestellten Belastungen abgebildet wird, deshalb Durchmischung von Grenzwerteinhaltungen und -überschreitung]
+- TOP 7.2.: Parken vor Anwesen Dachauer Str. 246 auf dem Grünstreifen und Radweg [Antrag SPD-Fraktion, Schreiben BA10 vom 06.02.18; mehrere Baumschutzbügel werden platziert.]
+- TOP 7.3.: Öffentliche Ladeinfrastruktur für Elektrofahrzeuge; Ladestation für E-Bikes am Memminger Platz in München-Moosach [BA-Antrag Nr. 14-20 / B 01967 vom 18.01.2016; Auszug aus Sitzungsvorlage Nr. 14-20 / V 1073, siehe TOP 8.14; Keine Einrichtung einer Lademöglichkeit für E-Bikes; MVG-Radstation ist mittlerweile vorhanden.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO)
+- TOP 8.4.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 8.5.: SWM: Neue Bädereintrittspreise ab Mai 2018
+- TOP 8.6.: Perspektive München: Broschüre "Leitlinie Soziales" (Ausgabe April 2018)
+- TOP 8.7.: Broschüre "Bürgerschaftliches Engagement gewinnt - durch Weiterbildung in München" (Qualifizierungsangebote März bis August 2018)
+- TOP 8.8.: Vereinigung Münchner Wohnungsunternehmen e.V.: WohWi Mieten Atlas München 2018
+- TOP 8.9.: (U) Am Oberwiesenfeld Neubau öffentliche Grünfläche mit Ausgleichsfläche im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2073 im 10. Stadtbezirk Moosach und im 11. Stadtbezirk Milbertshofen - Am Hart Bedarfs- und Konzeptgenehmigung
+- TOP 8.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 8.12.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 8.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15.: WEB - alle Anträge vom 01.04.2018 bis 15.04.2018 - nicht-öffentlich -
