@@ -1,0 +1,70 @@
+# 31. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-07T17:00:00+02:00
+- Ende: 2018-05-07T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18838
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18838
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation, verschmutzte Gehwege Fridolinstraße in Neu-Ehrenfeld (Az.: 02-1600-75/17) - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der SPD-Fraktion, betr.: Ausübung des kommunalen Vorkaufsrechts für Grundstücke: "Bewährtes Instrument zur Behenung der Wohnungsnot - auch für Ehrenfeld" - Kenntnis genommen
+- TOP 6.1.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion, betr.: Segro Gelände und ehemaliges Verwaltungsgebäude Herbig Haarhaus - Kenntnis genommen
+- TOP 6.2.1: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung, betr,: Segro Gelände und ehemaliges Verwaltungsgebäude Herbig Haarhaus - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Schließung Notfallpraxis in Ehrenfeld - Kenntnis genommen
+- TOP 6.3.1: Beantwortung der Anfrage AN/0412/2018 der Fraktion Bündnis90/Die Grünen zur Notfallversorgung in Ehrenfeld - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der CDU-Fraktion, betr.: Open Air Veranstaltungen / Arena an der Wassermannhalle - zurückgestellt
+- TOP 7.2: Anfrage der SPD-Fraktion, betr.: Entwicklung von neuen Kitas im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.2.1: Beantwortung einer Anfrage der SPD-Fraktion, betr.: Entwicklung von neuen Kitas im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Baumfällungen an der Subbelrather Straße - zurückgestellt
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Teilsperrung der Philippstraße - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Leyendeckerstraße Tempo 30 und Fußgängerüberweg - ungeändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: neuer Fußgänger-Überweg Vogelsangerstr./ Höhe Goldammerweg, Vogelsang - geändert beschlossen
+- TOP 8.4: Antrag der Fraktion Die Linke, betr.: Leerstände beenden: Überforderten Eigentümer*innen helfen – dem Gemeinwohl dienen - geändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Verkehrsberuhigung Kreuzung Akazienweg/Am Fliederbusch/Am Langen Stein - zurückgestellt
+- TOP 8.6: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Vorstellung der aktuell vorliegenden Planung zum HERBOL-Gelände - Sache ist erledigt
+- TOP 8.7: Antrag der CDU-Fraktion, betr.: Bauvorhaben Venloer Straße 525 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Zeitgleiche Fertigstellung von Kitas und neuen Wohnbaugebieten - geändert beschlossen
+- TOP 8.9: Antrag der CDU-Fraktion, betr.: Änderung der Vorfahrtsregelung Vogelsangerstr./ Goldammerweg, Vogelsang - geändert beschlossen
+- TOP 8.10: Antrag der SPD-Fraktion, betr.: Fahrradnadeln Ollenhauerring - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion, betr.: Auflistung aller Bunkeranlagen im Bezirk Ehrenfeld - geändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion, betr.: Artilleriehalle Alpenerstraße 4 – 6 in Köln-Ehrenfeld - geändert beschlossen
+- TOP 8.12.1: Ergänzungsantrag der SPD-Fraktion zu TOP 8.12, betr.: Halle Alpenerstraße - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Benennung einer Planstraße im Baugebiet ehemaliger Güterbahnhof Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Von-Hünefeld-Straße 59 - ungeändert beschlossen
+- TOP 9.3: Errichtung einer Mega-Light-Werbeanlage im Bereich der Nattermannallee / Einmündung Venloer Straße - ungeändert beschlossen
+- TOP 9.4: Vorlage 0397/2018 Errichtung einer City-Light-Säule vor dem Grundstück Äußere Kanalstraße 67 / Einmündung Borsigstraße.-Vorlage wurde von der Verwaltung zurückgezogen- - endgültig zurückgezogen
+- TOP 9.5: Errichtung einer City-Light-Säule vor dem Grundstück Äußere Kanalstraße / Subbelrather Straße 481 - ungeändert beschlossen
+- TOP 9.6: Errichtung einer City-Light-Säule vor dem Grundstück Venloer Straße gegenüber 891 / Einmündung Mathias-Brüggen-Straße - ungeändert beschlossen
+- TOP 9.7: Bezirkssportanlage Bocklemünd, Heinrich-Rohlmann-Straße, Platz 2 - ungeändert beschlossen
+- TOP 9.8: 2. Vergabe der bezirklichen Finanzmittel 2018 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung (0531/2018) - Vorlage wurde von der Verwaltung zurückgezogen- - endgültig zurückgezogen
+- TOP 10.2: 264. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 11.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Nahversorgung am Butzweilerhof Hier: Antrag der SPD-Fraktion AN/1377/2017 in der Sitzung der BV 4 vom 09.10.2017 - Kenntnis genommen
+- TOP 12.3: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2017 im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.4: Osterather Straße/Liebigstraße in Köln-Bilderstöckchen; 66470/06; Offenlage - Kenntnis genommen
+- TOP 12.5: Sachstand bei der Sanierung der Schule Görlinger Zentrum - Kenntnis genommen
+- TOP 12.6: Vorhabenbezogener Bebauungsplan-Entwurf 63465/02; Arbeitstitel: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.7: Prioritätenliste Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 13: mündliche Anfragen
