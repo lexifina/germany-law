@@ -1,0 +1,60 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-05-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 10.04.2018
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Änderung der BA-Satzung und BA-Geschäftsordnung im Rahmen der Änderung der Bayerischen Gemeindeordnung (BayGO) zum 01.04.2018
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: Finanzierung Informationsveranstaltungen Stadtbezirksbudget
+- TOP 3.3.: (E) Budget der Bezirksausschüsse TSV Forstenried e.V. 50-jähriges Jubiläum ab dem 31.05.2018 2.000,00 € Az: 0262.0-19-0215
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Alternative Abstellflächen für Fahrräder im Rahmen der Instandsetzung der Straßenbrücke an der Wolfratshauser Straße
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Aktueller Verfahrensstand
+- TOP 5.3.: (Antrag) Radweg Züricher Straße
+- TOP 5.4.: (A) MVG-Leistungsprogramm 2019
+- TOP 5.5.: (A) Einrichtung eines Behindertenparkplatzes: Tölzer Straße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Haltverbot Teschener Straße
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Grundschule Baierbrunner Straße
+- TOP 5.8.: (E) + (U) Zusätzlicher Fahrkartenautomat am Bahnsteig des S-Bahnhofs Siemenswerke Empfehlung Nr. 14-20 / E 01459 der Bürgerversammlung des Stadtbezirkes 19 – Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 11.05.2017
+- TOP 5.9.: (Antrag) Wendemöglichkeit Drygalski-Allee
+- TOP 5.10.: (Antrag) Errichtung einer Aufstellfläche am Fußgängerübergang Winterthurer Straße
+- TOP 5.11.: (Antrag) Aufhebung absolutes Haltverbot Machtlfinger Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: IKEA-Markt am Ratzingerplatz
+- TOP 6.3.: Resolution: Fehlende Infrastruktur im 19. Stadtbezirk
+- TOP 6.4.: (Antrag) Wochenmarkt Fürstenried-Ost
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) „kitabarometer“ Elternbefragung zum Bedarf an Kindertagesbetreuung in München; Sitzungsvorlage Nr. 14-20 / V 10991
+- TOP 7.3.: (A) Grundlagen, Strukturen und Angebote zur Verbesserung der Familienfreundlichkeit der Landeshauptstadt München; Schaffung eines Familienbeirats BV-Empfehlung Nr. 14-20 / E 01476; Sitzungsvorlage Nr. 14-20 / V 11394
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Theaterprojekt Schweizer Platz/Graubündener Straße am 05.06 und 06.06.2018 und Schäftlarnstraße/Tierparkstraße am 29.06. und 30.06.2018
+- TOP 8.3.: Fest der Demokratie am 7. November 2018
+- TOP 8.4.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee: 07.05 bis 06.08.18
