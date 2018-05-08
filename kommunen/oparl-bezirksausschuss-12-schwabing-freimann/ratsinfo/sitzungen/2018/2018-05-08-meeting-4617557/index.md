@@ -1,0 +1,113 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2018-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4617557
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4617557
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 8.1.: Vertretungsregelung in den Unterausschüssen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 1.1.: Grundsatzbeschluss zur ideellen und finanziellen Unterstützung eines Denkmals für Helmut Dietl in unmittelbarer Nähe zur Helmut-Fischer-Skulptur beim Café Münchner Freiheit
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 7.1.: Information zu einer Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 7.2.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO)
+- TOP 9.1.: Anhörung zur Änderung der BA-Satzung und BA-Geschäftsordnung
+- TOP 9.2.: Stadtbezirksbudget für München
+- TOP B.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Wie sich das Lamm auf dem Spieß drehte" Projekt „Wie sich das Lamm auf dem Spieß drehte“ vom 11. - 13.05.2018 2.000,00 € AZ: 0262.0-12-0253
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Blütenring e.V. Theateraufführungen im Amphitheater im Juni/Juli 2018 3.320,50 Euro Az.: 0262.0-12-0255
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Domagkateliers gGmbH "Offene Ateliertage" vom 08. - 10.06.2018 8.000,00 Euro Az.: 0262.0-12-0256
+- TOP 3.: Anhörungen
+- TOP 3.1.: Anhörung zur Sitzungsvorlage, „kitabarometer“ Elternbefragung zum Bedarf an Kindertagesbetreuung in München, Sitzungsvorlagennummer 14-20 / V 10991
+- TOP 3.2.: Flohmarkt Parkstadt Schwabing, Spiel- und Sportgelände Weißenhofweg/Wilhelm-Wagenfeld-Straße
+- TOP 3.3.: 5. Pavillonbauprogramm, Beschlussvorlage des Referates für Bildung und Sport
+- TOP 3.4.: Werbeveranstaltung des FC Bayern Basketball am 15.05.2018 an der Münchner Freiheit
+- TOP 4.1.: Toiletten bei Veranstaltungen an der Schulsportanlage Situlistraße Freimann am Wochenende
+- TOP 5.: Unterrichtungen
+- TOP 5.3.1.: (U) Ergebnis des Trägerschaftsauswahlverfahrens - Vergabe der Trägerschaft eines Flexi-Heims Variante 1 in der Lotte-Branz-Straße 12 Förderung ab Haushaltsjahr 2018 Ausweitung des Mehrjahresinvestitionsprogramms 2017 - 2021
+- TOP 5.3.2.: Information zu den neuen Bädereintrittspreisen
+- TOP 5.3.3.: Interimsschulgebäudeplanung für die FOS Nord für Sozialwesen, Heidemannstraße 164 klären, Antwortschreiben des Referates auf ein Bürgeranliegen
+- TOP 5.3.4.: Kunstprojekt Svapinga, Referatsschreiben
+- TOP C.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Aufstellung von neuer Verkaufseinrichtung auf öffentlichem Grund, Occamstraße 1
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Begonienstraße, Neubau eines Mehrfamilienhaus mit Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Guerickestraße 19 – 19a, Sanierung und Erweiterung Studentenwohnheim
+- TOP 3.1.3.: Zirbelweg 13, 1 Kiefer
+- TOP 3.2.1.: Bebauungsplan mit Grünordnung Nr. 1942a, Lilienthalallee (westlich), Maria-Probst-Straße (östlich), (Teiländerung des Bebauungsplans Nr. 1404a), Campus für Innovation und Forschung
+- TOP 3.2.2.: Dunantstraße 4, Neubau 2er Mehrfamilienhäuser mit Tiefgarage – VORBESCHEID (Dunantstraße 4 / Klementinenstraße)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kühlanhänger während der Fußball-Weltmeisterschaft neben dem Kiosk an der Münchner Freiheit
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Auwiesenweg 18, Neubau 2er Doppelhaushälften mit Garagen – Haus 1+2
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 5.3.2.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 5.3.5.: Abgelehnte Baumfällung einer Robinie, Am Tucherpark 12
+- TOP D.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Doppelnutzung des Taxistandplatzes in der Edmund-Rumpler-Straße
+- TOP 1.2.: Buslinie von Bogenhausen nach Neuhausen
+- TOP 1.3.: Klärung Haltverbot Hohenzollernstraße 26
+- TOP 1.4.: Hohenzollernstraße – Schnellstmögliche Umsetzung Fahrradverkehr gegen Einbahnrichtung zwischen Friedrich- und Leopoldstraße
+- TOP 1.5.: Anordnung eines temporären Wendeverbotes an der Werner-Heisenberg-Allee während Fußballspielen in der Allianz-Arena
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Grün in der Stadt – Plan für mögliche neu zu pflanzende Bäume, BV-Empfehlung Nr. 14-20 / E 01088, Referatsschreiben zum BA-Beschluss
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Absolute Haltverbote Tristanstraße
+- TOP 3.1.2.: Parken und Haltverbote im Wendehammer Wilhelm-Wagenfeld-Straße
+- TOP 3.1.3.: Freigabe des Parkens (nur für PKW) in den Abschnitten a) nördlich LSA Heidemannstraße bis Zufahrt Sportplatz, sowie b) zwischen Zufahrt Sportplatz und Zufahrt Supermarkt
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: MVG-Leistungsprogramm 2019
+- TOP 3.2.2.: Erstellung einer Statistik über die Baumfällungen im 12. Stadtbezirk, BV-Empfehlung Nr. 14-20 / E 01560, Referatsschreiben
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Gullydeckel an der Seestraße 8
+- TOP 4.2.: Begrünung der Germaniastraße, Südliches Teilstück
+- TOP 4.3.: Parksituation bei Fußballspielen und Toilettenanlage am U-Bahnhof Kieferngarten
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Arbeiten im Straßenraum, Max-Bill-Straße, Herstellung Fahrbahn / Gehweg
+- TOP 5.2.2.: Arbeiten im Straßenraum, Isoldenstraße / Heckscherstraße; Barrierefreie Bushaltestelle und Umbau des Einmündungsbereiches Isoldenstraße / Heckscherstraße
+- TOP 5.2.3.: Z 239 Peter-Paul-Althaus-Straße / Karl-Arnold-Straße
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Vollzug der Grünanlagensatzung, Baustelleneinrichtung an der Berliner Straße
+- TOP 5.3.2.: Begrünungsmöglichkeiten in der Hohenzollernstraße, Ergebnisse des Ortstermins am 07.02.2018
+- TOP 5.3.3.: Vollzug des BayStrWG, St 2588 Nord-Ost-Verbindung zwischen St 2088 (Föhringer Ring) und BAB A94, Einstellung des Verfahrens
+- TOP 5.3.4.: Verkehrssituation Wilhelm-Wagenfeld-Straße, Antwortschreiben des Referats auf das Bürgeranliegen D.4.1-11/17
+- TOP 5.3.5.: Alfred-Arndt-Straße, Zebrastreifen, Ergebnis des Ortstermins vom 17.04.2018
+- TOP 5.3.6.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
