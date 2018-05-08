@@ -1,0 +1,168 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4670874
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4670874
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.2.: Gründung des neuen Unterausschusses für besondere Angelegenheiten (vertagt am 10.04.2018)
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.11.: Ebersberger Str. 14: Erweiterung eines Einfamilienhauses; Erstantragsverfahren
+- TOP 2.2.12.: Max-Nadler-Str. 4: Nachverdichtung einer Wohnanlage mit Erweiterung Tiefgarage - Vorbescheid
+- TOP 2.2.13.: Geibelstr. 8: Nutzungsänderung und Umbau eines Wohnung in ein Büro; Erstantragsverfahren
+- TOP 2.2.14.: Oberföhringer Str. 131: Neubau einer Mehrfamilienwohnhausanlage mit Tiefgarage - Vorbescheid
+- TOP 2.2.16.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.21.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.24.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.1.: Umstrukturierungen bei der Caritas - Vorstellung durch Vertreter (vertagt am 13.03.2018)
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.5.: (Grundsätzliche) Nutzung des Cosimaplatzes (vertagt am 13.03.2018 und 10.04.2018)
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 10.04.2018
+- TOP 2.2.1.: Vorplanungen zu Heizwerkstandorten (Parkplatz Cosimaplatz) (vertagt am 10.04.2018)
+- TOP 2.2.2.: Stuntzstr. 16: Fassadengestaltung - Vorstellung durch Bauherren
+- TOP 2.2.3.: Planungen zum Arabella-Sheraton – Vorstellung durch die Bayerische Hausbau
+- TOP 2.2.4.: Oberföhringer Str. 224: Neubau einer vierzügigen Grundschule mit Dreifachsporthalle und Haus für Kinder - Stellungnahme des BA 13 vom 10.04.2018; Übermittlung eines Umzäunungsplanes; Schreiben des Referats für Bildung und Sport vom 18.04.2018
+- TOP 2.2.5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich II/22 und Bebauungsplan mit Grünordnung Nr. 2122 Eggenfeldener Straße (südlich), Hultschiner Straße (östlich), Töginger Straße (BAB 94) (nördlich); Beteiligung der Öffentlichkeit Frühzeitige Unterrichtung gemäß § 3 Abs. 1 des Baugesetzbuches (BauGB), Schreiben des Referats für Stadtplanung und Bauordnung vom 26.02.2018 (vertagt am 10.04.2018)
+- TOP 2.2.6.: Bebauung der Wiese Eggenfeldener Straße (Teil 1 - 3); Bürgeranliegen vom 14.02.2018 und 14.03.2018 (vertagt am 10.04.2018)
+- TOP 2.2.7.: Daglfinger Str. 67: Antrag auf unbefristete Nutzungsänderung: Bürogebäude in Kindertagesstätte; Bürgeranliegen (Rudolf-Steiner-Schulverein e. V.) vom 29.03.2018
+- TOP 2.2.8.: Partymeile Musenbergstraße; Bürgeranliegen vom 01.04.2018
+- TOP 2.2.9.: Theaterfabrik Joanneskirchen - Kunstpark Johanneskirchen?; Bürgeranliegen vom 06.04.2018
+- TOP 2.2.10.: Normannenstr. 16: Geplantes Bauvorhaben - Bau einer Duplex-Tiefgarage; Bürgeranliegen vom 14.04.2018
+- TOP 2.2.15.: Herzogparkstr. 1: Wiederaufbau und Umbau eines denkmalgeschützten Wohnhauses mit Errichtung einer Tiefgarage – Vorbescheid (Var. 2)
+- TOP 2.2.17.: Beetzstr. 5: Denkmalpflege im Ensemble Bogenhausen (gefährdetes Sgraffiti); Anliegen des Nord-Ost-Kulturvereins vom 12.04.2018
+- TOP 2.2.18.: Baulicher Zustand des Höchl-Schlössls; Antrag der CSU-Fraktion vom 02.05.2018 (Nachtrag)
+- TOP 2.2.19.: 5. Pavillonbauprogramm Beschlussvorlage des Referats für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung am 03.07.2018; Anhörung des Referats für Bildung und Sport vom 02.05.2018 (Nachtrag)
+- TOP 2.2.20.: Weitere Themen aus der Tagesordnung, z.B. Bauvorhaben aus den Bekanntgaben
+- TOP 2.3.1.: (E) Mobilitätskonzept Prinz-Eugen-Park: Tempolimit von 20 km/h oder Ausweisung von Spielstraßen
+- TOP 2.3.2.: (E) Parksituation in der Amberger Str. und Gebelestr.
+- TOP 2.3.3.: Leistungsprogramm 2019 für den Fahrplanwechsel am 09.12.2018; Anhörung der MVG vom 09.04.2018; Pressmitteilung und Stellungnahme des AAN und BN zum Leistungsprogramm 2019 der MVG; Schreiben des Münchner Forums vom 19.04.2018 Stellungnahme des Fahrgastverbands PRO BAHN zum Leistungsprogramm 2019 der MVG; Schreiben des Fahrgastverbands PRO BAHN vom 24.04.2018
+- TOP 2.3.4.: "Sammelplatzproblematik" im 13. Stadtbezirk; E-Mail der Firma Wittmann mit dem Angebot eines Vororttermins
+- TOP 2.3.5.: St 2588 Nord-Ost-Verbindung zwischen St 2088 (Föhringer Ring) und der BAB A 94, Planfeststellung nach Art. 36 BayStrWG i.V.m. Art 72 ff. BayVwVfG - Einstellung des Verfahrens; Schreiben des Referats vom für Stadtplanung und Bauordnung vom 17.04.2018
+- TOP 2.3.6.: Freischützstr. 15: Baumaßnahme - Rampe für Kinderwagen/Rollstuhlfahrer; Bürgeranliegen vom 07.04.2018; Rückmeldung des Kreisverwaltungsreferats vom 11.04.2018; Entfernung der gerade installierten Pflanztröge; Interfraktioneller Antrag vom 03.05.2018
+- TOP 2.3.7.: Ismaninger Straße vernünftig überplanen BA-Antrag Nr. 14-20 / B 04438 (siehe TOP 6.16) Sofortige Einstellung der Vorbereitungen für die Gleiserneuerung in der Ismaninger Straße BA-Antrag Nr. 14-20 / B 04732 (siehe TOP 6.17)
+- TOP 2.3.8.: Ismaninger Straße zwischen Max-Weber-Platz und Herkomer Platz Gleissanierung – Los 1; Schreiben des Kreisverwaltungsreferats vom 23.04.2018
+- TOP 2.3.9.: Ismaninger Straße zwischen Max-Weber-Platz und Herkomer Platz Gleissanierung – Los 2; Schreiben des Kreisverwaltungsreferats vom 24.04.2018
+- TOP 2.3.10.: Errichtung eines Fußgängerübergangs in der Ismaninger Straße (Höhe Trambahnhaltestelle Holbeinstraße), Bürgeranliegen vom 13.02.2018 (vertagt am 13.03.2018, TOP 2.3.15)
+- TOP 2.3.11.: Diskussion mit Vertretern von Referat für Stadtplanung, Kreisverwaltungsreferat, Baureferat und Konsortium Prinz-Eugen-Park (PEP): Mobilitätskonzept Prinz-Eugen-Park (vertagt am 13.03.2018)
+- TOP 2.3.12.: Ostpreußenstr. (Westseite) Ecke Denninger Str.: Zulassung des Radverkehrs auf der Gehbahn im Bereich der Anwesen Denninger Str. 235 – 237; Schreiben des Kreisverwaltungsreferats vom 23.04.2018
+- TOP 2.3.13.: Maßnahmen zur Luftverbesserung erarbeiten und umsetzen; Antrag der CSU-Fraktion vom 05.03.2018 (vertagt am 10.04.2018)
+- TOP 2.3.14.: Einführung eines temporären Parklizenzgebietes in der Parkstadt Bogenhausen in den Bereichen Stuntz-, Beblo- und Buschingstraße; Antrag der SPD-Fraktion vom 17.03.2018
+- TOP 2.3.15.: Scheinerstraße 3: Aufheben des eingeschränkten Haltverbots vor dem Anwesen; Antrag der CSU-Fraktion vom 08.05.2018
+- TOP 2.3.16.: Leistungsfähige Busanbindung Bruno-Walter-Ring; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 23.03.2018
+- TOP 2.3.17.: Problemzone „Bürgerpark Oberföhring“ BA-Antrag Nr. 14-20 / B 04438; Erneutes Bürgeranliegen vom 10.04.2018
+- TOP 2.3.18.: Antrag auf einseitiges Parkverbot in der Asgardstraße BA-Antrag Nr. 14-20 / B 04666; Bürgeranliegen (Einspruch) vom 10.04.2018
+- TOP 2.3.19.: Schwarzwaldstraße 2a Gaststätte Zamdorfer: Schwierige Parkplatzsituation; Bürgeranliegen vom 05.04.2018
+- TOP 2.3.20.: Wahnfriedallee: Belastung der Anwohner durch gestiegenen Durchfahrtsverkehr; Bürgeranliegen vom 08.04.2018
+- TOP 2.3.21.: Sichere (Schul-) Wege im Prinz-Eugen-Park; Bürgeranliegen (E-Mail) vom 18.04.2018
+- TOP 2.3.22.: Bahnlinie der S8: Güterverkehr am Sonntag; Bürgeranliegen vom 08.04.2018
+- TOP 2.3.23.: Auswirkungen des S-Bahn Ersatzverkehrs- bzw. Umleitungsmaßnahmen; Antrag der CSU-Fraktion vom 02.05.2018 (Nachtrag)
+- TOP 2.3.25.: Verschiedenes, Termine
+- TOP 2.4.1.: Stadtbezirksbudget für München - Entwurf der Vorlage für den Stadtrat; Anhörung des Direktoriums vom 28.03.2018
+- TOP 2.4.2.: Anhörung der Bezirksausschüsse zur Änderung der BA-Satzung und BA-GeschO; Anhörung des Direktoriums vom 11.04.2018
+- TOP 2.4.3.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts; Schreiben des Direktoriums vom 05.04.2018
+- TOP 2.4.4.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung; Schreiben des Direktoriums vom 09.04.2018
+- TOP 2.4.5.: Anhörungsrecht bei Gleiserneuerungen; Antrag der CSU-Fraktion vom 11.04.2018
+- TOP 2.4.6.: Zugang zu der Kooperationsplattform „Alfresco“ für Vertreter der Polizei und Presse; Antrag vom 23.04.2018
+- TOP 2.4.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.8.: Verschiedenes, Termine
+- TOP 2.5.2.: „kitabarometer“ - Elternbefragung zum Bedarf an Kindertagesbetreuung in München Beschluss des Bildungsausschusses des Stadtrates vom 13.06.2018 (VB); Anhörung des Referats für Bildung und Sport vom 10.04.2018
+- TOP 2.5.3.: Bürgerschaftliche und kulturelle Nutzung des Höchl-Schlössels; Antrag der CSU-Fraktion vom 05.03.2018 (vertagt am 10.04.2018)
+- TOP 2.5.4.: Wunsch nach zusätzlichen Sportgeräten an der Isar; Bürgeranliegen vom 11.04.2018
+- TOP 2.5.5.: IsarCard 60 BA-Antrag Nr. 14-20 / B 04654 (siehe TOP 6.18) Unterstützung des BA-Antrags von BA 8, 10, 11, 17, 20, 23, 24
+- TOP 2.5.6.: Errichtung einer Rollstuhlschaukel in Bogenhausen; Bürgeranliegen vom 28.03.2018
+- TOP 2.5.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.8.: Verschiedenes, Termine
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Max-Nadler-Str. 4 - 8: lt. Plan Savitsstr. 7: lt. Plan Pühnstr.: lt. Plan Musenbergstr. 14 - 16a: lt. Plan Am Eschbichl 1: 3 Robinien Hofererweg 1: 2 Schwarzkiefer Kolbergstr. 29: 1 Mehlbeere Lentnerweg 20: 1 Waldkiefer Mauerkircherstr. 32: 1 Thuja Mauerkircherstr. 175: 9 Bäume Möhlstr. 17: 1 Linde Turfstr. 23: 1 Fichte Englschalkinger Str. 146: 1 Schwarzkiefer, 2 Robinien Gumbinnenstr. 8: 1 Kiefer, 1 Zypresse Pernerkreppe 11: 1 Esche Musenbergstr. 40: lt. Plan Hitzestr. 7: lt. Plan Stuntzstr. 16: lt. Plan (Nachtrag) Cosimastr. 290: 1 Schwarzkiefer (Nachtrag) Flensburger Str. 28: 2 Birken (Nachtrag) Krenklstr. 7: 2 Rotbuchen (Nachtrag) Meistersingerstr. 94: 1 Baum (Nachtrag) Vollmannstr. 61: 1 Fichte (Nachtrag) Wimmerstr. 24: 1 Tanne (Nachtrag)
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Alsenweg 2 (lt. Bescheid),
+- TOP 2.6.3.: Toiletten in den Krautgärten in der Gartenstadt Johanneskirchen; Empfehlung Nr. 14-20 / E 01805 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017; Anhörung des Referats für Stadtplanung und Bauordnung vom 10.04.2018
+- TOP 2.6.4.: Beschlussentwurf "Gartenschau ab 2029 im Bereich der SEM Nordost" (Antrag Nr. 14-20 / A 03245); Anhörung des Referats für Stadtplanung und Bauordnung vom 16.02.2018 (vertagt am 13.03.2018 und 10.04.2018)
+- TOP 2.6.6.: Aufhebung der Widmung als Verkehrsfläche für eine Tramwendeschleife am Cosimaplatz BA-Antrag Nr. 14-20 / B 04359 (siehe TOP 6.12)
+- TOP 2.6.7.: Maria-Nindl-Platz: Bürgerbeteiligungsveranstaltung; E-Mail des Baureferats vom 19.04.2018
+- TOP 2.6.8.: Vogelpopulation erhalten; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 20.04.2018
+- TOP 2.6.9.: KulturGeschichtsPfad: Hinweisschild zur Statue des Wotan am Rande der Odinstraße (vertagt am 13.03.2018 und 10.04.2018)
+- TOP 2.6.10.: Neue Gartenhäuser im Gelände des ÖBZ; Schreiben des MVHS vom 16.04.2018 (Vorstellungen der Planungen am 11.06.2018)
+- TOP 2.6.11.: Reinhaltung von Parks - Hundekot; Bürgeranliegen vom 03.04.2018
+- TOP 2.6.12.: Maßnahmen zur Luftverbesserung erarbeiten und umsetzen; Antrag der CSU-Fraktion vom 05.03.2018 (vertagt am 10.04.2018)
+- TOP 2.6.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.14.: Verschiedenes, Termine
+- TOP 5.1.: Veranstaltung in städtischen Grünanlagen; Circus Roberto von 21.09.-30.09.2018 (Aufbau ab 17.09., Abbau bis 01.10.) in der Grünanlage Bichlhofweg; Anhörung des Kreisverwaltungsreferats vom 23.04.2018
+- TOP 5.2.: An der Cosimastr./Englschalkinger Str (Flst. 193/1): Grüne Parteiveranstaltung „Offene Gesellschaft“ am 16.06.2018; Anhörung des Kommunalreferats vom 19.04.2018
+- TOP 5.3.: Veranstaltung auf öffentlichem Verkehrsgrund; Sommerfest der Kirchengemeinde Immanuel-Nazareth am 01.07.2018 in der Allensteinerstr.; Anhörung des Kreisverwaltungsreferats vom 26.04.2018 (Nachtrag)
+- TOP 5.4.: Rennbahnstr. 35: Abbrennen eines Feuerwerks Kl. II-IV und F4 auf der Trabrennbahn am 05.05.2018; Anhörung des Kreisverwaltungsreferats vom 26.04.2018 (Nachtrag); - Zustimmung gem. § 20 Abs. 1 Satz 2 BezirksausschussSatzung am 27.04.2018 -
+- TOP 6.1.: Freies WLAN in jeder Flüchtlingsunterkunft
+- TOP 6.2.: Vorhalten einer separaten ÖPNV-Spur je Fahrtrichtung beim Bebauungsplan Eggenfeldener Straße
+- TOP 6.3.: Bebauung der Wiese an der Eggenfeldener Straße
+- TOP 6.4.: Halteverbote vor Konsulaten
+- TOP 6.5.: Fehlende Bodenmarkierung der Parkplätze am Rosenkavalierplatz
+- TOP 6.6.: Eylauer Str. 11: Neubau eines Mehrfamilienhauses mit Stellplätzen - Vorbescheid; Schreiben des Referats für Stadtplanung und Bauordnung vom 29.03.2018
+- TOP 6.7.: Antrag auf Installierung einer Fußgängerampel Arabellastraße 6
+- TOP 6.8.: Beschwerde über den Wertstoffcontainerstandort Lüderitzstraße
+- TOP 6.9.: Anzahl der Stockwerke bei Schulbauten
+- TOP 6.10.: Schulwegsicherung: Schaffung eines gegenläufigen Radwegs auf einem Teilstück der Johanneskirchner Straße
+- TOP 6.11.: Schnittmaßnahmen Grünfläche zwischen Weltenburger Straße/Pühnstraße
+- TOP 6.12.: Bauvorhaben Nachverdichtung Cosimapark
+- TOP 6.13.: Mangelware Realschulplätze: Mehr Transparenz bei der Platzvergabe
+- TOP 6.13.1: Baumfällung in der Lamontraße - Anwendung der Baumschutzverordnung
+- TOP 6.14.: Fahrradfreundliche Kreuzungssanierung Riemer Straße / Rennbahnstraße
+- TOP 6.15.: Ismaninger Straße vernünftig überplanen
+- TOP 6.16.: Sofortige Einstellung der Vorbereitungen für die Gleiserneuerung in der Ismaninger Straße
+- TOP 6.17.: IsarCard 60
+- TOP 6.18.: Aufhebung der Widmung als Verkehrsfläche für eine Tramwendeschleife am Cosimaplatz
+- TOP 7.1.1.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse; Schreiben des Direktoriums vom 16.04.2018
+- TOP 7.2.1.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 7.2.2.: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung, Sitzungsvorlage Nr. 14-20 / V 11072; Beschluss des Bauausschusses vom 10.04.2018
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättenbetriebes: - Bistro am Herkomerplatz
+- TOP 7.5.2.: Unveränderte Fortführung des Gaststättenbetriebes: - Schank- und Speisewirtschaft "Kerala", Schumannstraße 9
+- TOP 7.7.1.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 7.7.2.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 7.7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.4.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 7.9.1.: (U) Vollzug der Zweckentfremdungssatzung (ZeS) Bürgerversammlungsempfehlungen Informationskampagne Meldeplattform gegen Leerstand und Zweckentfremdung Empfehlung Nr. 14-20 / E 01780........ Medizintourismus: Sicherstellung der Handlungsfähigkeit des Amtes für Wohnen und Migration im Monat August Empfehlung Nr. 14-20 / E 01782 ..... Gezielte Informationskampagne auf der Onlineplattform gegen Leerstand und Zweckentfremdung Empfehlung Nr. 14-20 / E 01814... Aufstockung des Personals im Sozialreferat, Amt für Wohnen und Migration, Abt. Ferienwohnung Empfehlung Nr. 14-20 / E 01815....
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch, Weichselstr. 1 vorher: 96 m² bzw. 1 WE, geplant: 323 m² bzw. 2 WE
+- TOP 7.13.1.: TRAM: Baustellenbedingte Liniennetzänderungen bei den Tramlinien 16, 17, 19, 20, 21, 25, 27 und 28 sowie N17 vom 07.05.2018 bis vsl. 29.07.2018; Schreiben der MVG vom 03.04.2018
+- TOP 7.14.1.: Information der Bezirksausschüsse - Neue Bädereintrittspreise; Schreiben der Stadtwerke München vom 06.04.2018
