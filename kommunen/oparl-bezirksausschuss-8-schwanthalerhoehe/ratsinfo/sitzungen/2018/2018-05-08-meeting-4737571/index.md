@@ -1,0 +1,58 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737571
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737571
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Holzapfelstr. 10
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.1.1.: (E) + (U) Bei Bauanträgen und Baumfällarbeiten auch die Mieter des Anwesens und der Nachbarhäuser informieren Empfehlung Nr. 08 - 14 / E 01823 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 13.06.2013
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Gebäude Ligsalzstr. 9
+- TOP 6.3.3.: Fuß- und Radwegbrücke Arnulfpark
+- TOP 6.3.4.: Abbruch Bestandsgebäude - Gollierstr. 4
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Ortstermin zur Raumsituation der Grundschule an der Pfeuferstraße
+- TOP 7.3.2.: Ortstermin Schule an der Bergmannstraße
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: MVG - Leistungsprogramm 2019
+- TOP 8.2.2.: KIKS - Festival 2018
+- TOP 8.2.3.: Sidewalk Culture Festival - Georg-Freundorfer-Platz
+- TOP 8.2.4.: Patrozinium Hl. Georg - Gollierplatz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Neue Wege für das Rad im Stadtbezirk 8; Antrag vom 13.01.2015
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Kongolesische Liga für die Verteidigung der Menschenrechte Vortrag "aktuelle Lage der Menschenrechte in Kongo" 2.100,00€ Az. 0262.0-8-0139
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Asociación Cultural Peruana "Chasqui" e.V. Fotoausstellung vom 05. bis 27.07.2018 380,00 € Az: 0262.0-8-0145
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Jahresbericht Open Westend 2018
+- TOP 9.3.2.: Änderung der Vollmacht des Oberbürgermeisters
+- TOP 11.1.: Anhörung zur Änderung der BA-Satzung und BA-Geschäftsordnung
+- TOP 11.2.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 11.3.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
