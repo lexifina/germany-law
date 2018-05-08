@@ -1,0 +1,61 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-08T14:15:00+02:00
+- Ende: 2018-05-08T16:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18754
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18754
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00661773.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00661773.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00661773.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Präsentation zum Konzept des ''Väter in Köln e.V.''
+- TOP -: Konzept des "Väter in Köln e.V." - Kenntnis genommen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Sommerblut-Kulturfestival e.V." - zurückgestellt
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: SCHLAU Köln e.V. - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Investiver Zuschuss für Baumaßnahmen des Trägers "Caritasverband für die Stadt Köln e.V." in der Einrichtung "Ganz offene Tür (GOT) Elsaßstraße - ungeändert beschlossen
+- TOP 2.2.2: Mobile aufsuchende Jugendarbeit im rechtsrheinischen Köln - Anschaffung eines Fahrzeuges - geändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Kindertagespflege nach § 23 SGB VIII - Festlegung eines Betrags für Mahlzeiten - geändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Neugestaltung des Bolzplatzes Hansaplatz in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 3.2: Neugestaltung Spielplatz Osloer Straße / Athener Ring in Köln-Chorweiler - ungeändert beschlossen
+- TOP 3.3: Neugestaltung Bolzplatz Elbeallee in Köln-Chorweiler (Nord) - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Neuwahl eines stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.2: Neuwahl eines stellvertretend beratenden Mitglieds für den Jugendhilfeausschuss der Stadt Köln - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Köln-Ferienprogramm 2018 - Kenntnis genommen
+- TOP 8.4.2: Darlegung der Erweiterung von Jugendprojekten oder Umwandlung in Jugendeinrichtungen - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Jahresbericht 2017 der Kinder- und Jugendpädagogischen Einrichtung der Stadt Köln - Kenntnis genommen
+- TOP 8.5.2: Kurzer Sachstand zur laufenden Umsetzung der Kölner Jugendbefragung 2018 - Kenntnis genommen
