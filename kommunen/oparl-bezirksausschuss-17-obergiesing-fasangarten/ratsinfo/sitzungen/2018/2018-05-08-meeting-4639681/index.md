@@ -1,0 +1,161 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4639681
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4639681
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Migration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Verkehrsberuhigung in der Traunsteinerstraße
+- TOP 2.1.2.2.: Anträge und Anmerkungen zu den Themen Verkehr und Umwelt
+- TOP 2.1.2.3.: Marode Parkbank am Walchenseeplatz
+- TOP 2.1.2.4.: Markierung bauliche Anpassung in der Deisenhofenerst
+- TOP 4.1.: Tagesbetreuung Obergiesing
+- TOP 4.2.: Bezirk-bezogene Informationen digital veröffentlichen
+- TOP 4.3.: Zukunftsträchtiges Carsharing-Angebot fortführen
+- TOP 4.4.: Fassaden- und Dachbegrünung an Kommunalen Gebäuden
+- TOP 4.5.: Förderung der Nutzung von E-Bikes
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Bürgerinitiative Amisiedlung Poetisches Sommerfest am 30.06.2018 950,00 € Az: 0262.0-17-0165
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Verein zur Erhaltung und Pflege des Perlacher/Grünwalder Forstes e.V. Waldfest vom 06-08.07.2018 3.512,46 € Az: 0262.0-17-0164
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Weißenseestr., Errichtung einer freistehenden, öffentlichen WC-Anlage im Weißenseepark
+- TOP 6.1.3.2.: Gemeinde Neubiberg; Vollzug des Baugesetzbuches; Aufstellung des Bebauungsplans Nr. 78 für den Bereich südlich der Kyffhäuserstraße, nördlich des Gymnasiums, östlich der Cramer-Klett-Straße und westlich der Kyffhäuserstraße Nrn. 30, 30b-d
+- TOP 6.1.3.3.: Gemeinde Neubiberg; Vollzug des Baugesetzbuches; Aufstellung des Bebauungsplans Nr. 82 für den Bereich "Tannenstraße und Kameterstraße Ost, für die Grundstücke östlich der Kaiserstraße und westlich der Hohenbrunner Straße"
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baulisten
+- TOP 6.1.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.3.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 6.1.4.4.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 6.1.4.5.: Vollzug der Erhaltungssatzung; Deisenhofener Str. 121, 1. OG rechts
+- TOP 6.1.4.6.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Warthofstr. 5
+- TOP 6.1.4.7.: Vollzug der Erhaltungssatzung; Deisenhofener Str. 41, 2. OG rechts
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: „kitabarometer“ - Elternbefragung zum Bedarf an Kindertagesbetreuung in München Beschluss des Bildungsausschusses des Stadtrates vom 13.06.2018 (VB) Anhörung der Bezirksausschüsse
+- TOP 6.2.4.1.: Antrag "Rollatoren-Unterstand"; Antwort der GWG
+- TOP 6.2.4.2.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 6.2.4.3.: Schulgelände am Perlacher Forst;Lebensmitteltrockenlager, Küchensanierung
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Lärm- und Abgasschutz entlang der Tegernseer Landstraße Einführung eines einheitlichen und durchgängigen Tempolimits von 50 km/h und dessen permanente Überwachung (Ziffer 1 des Antrags der BV vom 20.07.2017)
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Park- und Liefersituation in der südlichen Tegernseer Landstraße,
+- TOP 6.3.3.2.: Personenbeförderungsgesetz (PBefG); Straßenbahn München - Straßenbahnhauptwerkstätte Ständlerstraße; Antrag auf Beseitigung von Teilanlagen und Bodensanierung
+- TOP 6.3.3.3.: Leistungsprogramm 2019 der MVG (Fahrplanwechsel Dezember 2018)
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; Aufhebung des Sonderparkplatzes in der Weißenseestr. 79
+- TOP 6.3.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO; Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Chiemgaustr. 81 Seite: Falkensteinstr.
+- TOP 6.3.4.3.: Verkehrsrechtliche Anordnung nach § 45 StVO; Marklandstraße und Cincinnatistraße; Einrichtung eines absoluten Halteverbotes sowie Aufstellung von Gehfahrenzeichen
+- TOP 6.3.4.4.: (E) Einführung der Radwegbenutzungspflicht in der Fasangartenstraße zwischen Tegernseer Landstraße und Autobahnbrücke spätestens nach der Probephase im Februar 2016 Empfehlung Nr. 14-20 / E 00499 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing am 18.06.2015
+- TOP 6.3.4.5.: (U) Barrierefreier Ausbau und gestalterische Aufwertung der Fuß- und Radwegunterführung unter der Chiemgaustraße zwischen Neuschwansteinplatz und Scharfreiterplatz im 17. Stadtbezirk Obergiesing - Fasangarten Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße / Chiemgaustraße Projektkosten (Ausführungskosten): 1.810.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 37.000 € und der Münchner Stadtentwässerung = 175.000 €) 1. Ausführungsgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022
+- TOP 6.3.4.6.: Strassensituation Fasangarten; Antwortschreiben vom Baureferat und vom Kreisverwaltungsreferat
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Aufstellen von Sitzbänken am Grünstreifen in der Watzmannstraße
+- TOP 6.4.4.2.: Messung der Luftqualität im Stadtbezirk Obergiesing-Fasangarten; Anfrage zur Veröffentlichung der Messergebnisse
+- TOP 6.4.4.3.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 6.4.4.4.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 6.4.4.5.: Elektrolieferwagen einsetzen!
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.2.1.: Fest der Demokratie am 7. November 2018 Beteiligung der Bezirksausschüsse
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Verwendungsnachweise
+- TOP 6.5.4.2.: Franz-Eigl-Weg, Gottesdienst zu Himmelfahrt am 10.05.2018 Unterrichtung nach § 20 Abs. 1 BezirksausschussS
+- TOP 6.5.4.3.: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; Antrag für eine Freischankfläche; Giesinger Bräu Gastronomie GmbH
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; Aufstellung 2 Zeitungsentnahmegeräte: TZ und Jost (Bild) in der Werner-Schlierf-Str. 5
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Antrag auf unveränderte Fortführung; Cafe Bistro Central
+- TOP 6.6.4.2.: Antrag auf unveränderte Fortführung; Pummarola
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Stadtbezirksbudget für München; Anhörung der Bezirksausschüsse
+- TOP 7.2.2.: Anhörung der Bezirksausschüsse zur Änderung der BA-Satzung und BA-GeschO
+- TOP 7.3.1.: Änderungen der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 7.3.2.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO)
+- TOP 7.3.3.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausauschüsse
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
