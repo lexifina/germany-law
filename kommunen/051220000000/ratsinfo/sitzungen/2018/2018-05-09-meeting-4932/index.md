@@ -1,0 +1,51 @@
+# Finanzausschuss (30. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-05-09T17:00:00+02:00
+- Ende: 2018-05-09T18:50:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Tagungsraum 3
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZa9QZFoW8Hw37IOnvpKFeCI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4932
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcS-IGx4Vr3xWq7if4hsmqiX2CoNukKZJyzbqr0TU8a5/Bekanntmachung_Finanzausschuss_09.05.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd57kik8ft9DuDGpW9cuD1L6KOP4MUV0bRJdd2MPttnH/Oeffentliche_Niederschrift_Finanzausschuss_09.05.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Umsetzung der Tarifabschlüsse im öffentlichen Dienst hier: Anfrage der FDP-Ratsfraktion vom 24.04.2018
+- TOP 2.: Protokoll über die 29. Sitzung des Finanzausschusses am 08.03.2018
+- TOP 3.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4.: Neubewertung Sondernutzungsgebühren hier: Antrag der CDU-Ratsfraktion vom 12.04.2018
+- TOP 5.: Änderung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen hier: Antrag der SPD-Ratsfraktion vom 13.04.2018
+- TOP 5.1: Änderung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen hier: Ergänzungsantrag der SPD-Ratsfraktion vom 04.05.2018
+- TOP 6.: Entwicklung eines Instruments zur Bestimmung und Anpassung städtischer Gebühren hier: Antrag der CDU-Ratsfraktion vom 25.04.2018
+- TOP 7.: I. Änderungssatzung zur Vergnügungssteuersatzung der Klingenstadt Solingen für das Vermitteln oder Veranstalten von Pferde- und Sportwetten in Einrichtungen (Wettbürosteuersatzung) vom 27.09.2016
+- TOP 7.1: I. Änderungssatzung zur Vergnügungssteuersatzung der Klingenstadt Solingen für das Vermitteln oder Veranstalten von Pferde- und Sportwetten in Einrichtungen (Wettbürosteuersatzung) vom 27.09.2016
+- TOP 8.: Grundsteuer: Entscheidung des Bundesverfassungsgerichts vom 10. April 2018
+- TOP 9.: Controllingbericht Haushaltssanierungsplan und Haushalt 2017
+- TOP 10.: 1. Quartalsbericht 2018
+- TOP 11.: Zustimmung zu einem aus 100% aus Fördermitteln gedeckten konsumtivem Mehraufwand gemäß § 83 GO NRW hier: Durchführung und Fertigstellung diverser Stadtentwicklungsamaßnahmen
+- TOP 12.: Zustimmung zu einer konsumtiven Mehrauszahlung gemäß § 83 GO NRW Erhöhung der Krankenhausumlage durch Nachtragshaushaltsgesetz 2017 des Landes NRW
+- TOP 13.: Quartalsinformationen Kreditportfolio Verwaltung
+- TOP 14.: Aufgabenverlagerungen/-veränderungen ohne vollständigen finanziellen Ausgleich (Konnexität)
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.1.1: Gründung einer Bürgerstiftung
+- TOP 15.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 29. Sitzung des Finanzausschusses am 08.03.2018
+- TOP 4.: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 4.1: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 5.: Vergabe von Architektenleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens
+- TOP 6.: - Bereich Kolumbusstraße, Richard-Wagner-Straße -
+- TOP 7.: Abberufung eines Dienstleiters
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.2: Anfragen an die Verwaltung
