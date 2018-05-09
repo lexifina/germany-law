@@ -1,0 +1,100 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4880057
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4880057
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 4.1.2.: Wohnungen für Kommunalbedienstete in der GWG-Siedlung Harthof Empfehlung Nr. 14-20 / E 01668 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 20.07.2017
+- TOP 4.2.1.: (E) Rückbau der Gemeinschaftsunterkunft an der Thalhoferstraße; Beweissicherung durch Gutachter Empfehlung Nr. 14-20 / E 01671 .....................
+- TOP 4.2.2.: Aufstellen eines Trinkwasserbrunnens im Skatepark am Brundageplatz
+- TOP 4.2.3.: Sanierung der Wertstoffinsel Christoph-von-Gluck-Platz / Milbertshofener Straße
+- TOP 4.2.4.: Nachfrage des BA 11: Griegstraße 22-24 - denkmalgeschütztes Gebäude
+- TOP 4.2.5.: Nachfrage des BA 11: Ortsterminvereinbarung - Schleißheimerstr. 426-432
+- TOP 4.2.6.: Nachfrage des BA 11: Leopoldstr. 251 - Antragsteller_in
+- TOP 4.4.1.: Parkplätze entlang der Riesenfeldstraße
+- TOP 4.4.2.: Nachfrage zum Einsatz von Dialog-Displays - Benennung von zwei Ersatzstandorten
+- TOP 4.4.3.: 2 öffentliche Elektroladestationen in der Straßbergerstraße (Olympiadorf)
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Generationenzentrum e.V. Familien-Mutmach-Tag am 10.05.2018 2.029,42 Euro Az.: 0262.0-11-0279
+- TOP 6.1.2.: (E) Budget des Bezirksausschüsse Gesellschaft für Deutsch-Indische Zusammenarbeit e.V. "Spirit of India Konzert - eine Tanz- und Musikreise durch Indien" am 20.05.2018 673,00€ Az. 0262.0-11-0278
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Ganztagesangebot Zirkusferien vom 22. - 25.05.2018 2.790,00 Euro Az.: 0262.0-11-0280
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Projekt "Dino-kreativ" vom 14.05.2018 - 31.12.2018 3.397,00 € AZ: 0262.0-11-0281
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse Sakaizani Madagasikara - Freunde Madagaskars e.V. 25-Jahrfeier am 22.09.2018 1.000,00€ Az. 0262.0-11-0277
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Stadteiltreff FaMoos Stadtteilarbeit e.V. Kindertheater am 14.06.2018 und 07.10.2018 850,00 € AZ: 0262.0-11-0284
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Fußgängerübergang Weyprechtstraße (Höhe St.Gertrud-Kirche)
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Wertstoffinseln im 11. Stadtbezirk Milbertshofen-Am Hart
+- TOP 7.2.2.: Park Aussiger Platz - Ersatzpflanzungen vornehmen für die gefällten Bäume
+- TOP 7.2.3.: Verbindliche Planung der Begrünung von städtischen Gebäuden und Bauwerken im 11. Stadtbezirk bis Ende 2019
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Änderung der BA-Satzung und BA-Geschäftsordnung als Folge von Änderungen der Bayerischen Gemeindeordnung
+- TOP 8.1.2.: Stadtbezirksbudget für München
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Errichtung einer City-Light-Säule (Fundamentplatte): a) Petuelring (Fl.Nr. 294/0) b) Lerchenauer Str. (Fl.Nr. 367/0)
+- TOP 8.2.2.: Vollzug der Baumschutzverordnung - Baumfällungen: a) Karlsteinstr. 11 b) Dewetstr. 1 c) Moosacher Str. 36b d) Rothpletzstr. 40
+- TOP 8.2.3.: Bauvorhaben und Nutzungsänderungen: Preußenstraße 35 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.2.4.: Ehemaliger Busbahnhof Olympiazentrum - Beschlussentwurf
+- TOP 8.2.5.: 5. Pavillonbauprogramm Schulbauoffensive 2013-2030 - Beschlussentwurf
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Evangeliumsverkündigung" auf dem Harthofanger vom 20. - 22.07.2018
+- TOP 8.3.2.: Veranstaltung "Sommernachtslauf München" im Olympiapark am 24.07.2018
+- TOP 8.3.3.: "kita-Barometer" - Elternbefragung zum Bedarf an Kinderbetreuung in München (Entwurf Beschlussvorlage)
+- TOP 8.3.4.: Veranstaltung "E-Bike-Days München" im Olympiapark vom 25. - 27.05.2018
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Feldmochinger Kurve - Sachstandbericht und Neubau Bahnquerung Wilhelmine-Reichard-Straße
+- TOP 8.4.2.: MVG: Leistungsprogramm 2019 für den Fahrplanwechsel am 09.12.2018
+- TOP 8.4.3.: Verkehrsrechtliche Anordnungen: a) Schmalkaldener Str. 16-18 und 24-26 - zeitlich beschränkte + dauerhafte Haltverbote b) Wallensteinplatz - absolutes Haltverbot c) Schopenhauerstr. / Nietzschestr. / Korbinianstr. - absolute Haltverbote d) Weyprechtstr. 75 - Tempo 30 e) Schleißheimer Str. 275, 279 und 299 - Tempo 30
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Änderung der Vollmacht des Oberbürgermeisters (Anhang 3 der BA-Satzung)
+- TOP 9.1.2.: Änderung der Bürger- und Einwohnerversammlungssatzung: Erweiterung des Rederechts
+- TOP 9.1.3.: Neues Verfahren bei der Einbindung der Bezirksausschüsse - Benennung von Straßen und Plätzen nach Persönlichkeiten
+- TOP 9.1.4.: BA-Budget - Verwendungsnachweise, Kurzberichte, Schriftverkehr: a) Zukunft am Hart e.V. - Vortrag "Wie war das eigentlich - damals" b) Zukunft am Hart e.V. - "Tschernobyl - Folgen im Westen
+- TOP 9.1.5.: Neue Bädereintrittspreise: - Hallenbäder ab 01.05.2018 - Freibäder ab der Saison 2018
+- TOP 9.1.6.: Fortführung eines Gaststättenbetriebes: a) "Konradstüberl", Graf-Konrad-Str. 20 b) "Garten Oase", Bad-Soden-Str. 16a
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Am Oberwiesenfeld Neubau öffentliche Grünfläche mit Ausgleichsfläche im Geltungsbereich des vorhabenbezogenen Bebauungsplanes mit Grünordnung Nr. 2073 im 10. Stadtbezirk Moosach und im 11. Stadtbezirk Milbertshofen - Am Hart Bedarfs- und Konzeptgenehmigung
+- TOP 9.2.2.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 9.2.3.: (U) Beschluss zur Aufstellung und (Teil-)Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013-2030
+- TOP 9.2.4.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 9.2.5.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 9.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7.: Meldelisten Bauvorhaben/Nutzungsänderungen vom 19.03.2018 - 15.04.2018
+- TOP 9.2.8.: Überprüfung des Nachverdichtungspotenzials im gesamten Bereich der Mortonstraße und Morsering
+- TOP 9.2.9.: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV: a) Rockefellerstr. 20-72 - Ablehnung der Baumfällung b) Moosacher Str. 42-50 - Genehmigung der Baumfällung c) Milbertshofener Str. 49b-55 - Genehmigung der Baumfällung d) Straßbergerstr. 125-139 - Genehmigung der Baumfällung e) Josef-Ressel-Str. 11a - Genehmigung der Baumfällung
+- TOP 9.2.10.: (E) Verkehrsüberwachung in der Griegstraße und in der Milbertshofener Straße
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Sitzungsvorlage Nr. 14-20 / V 11072
+- TOP 9.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Vollzug des Bayerischen Straßen- und Wegegesetzes in den Stadtbezirken 11 Milbertshofen - Am Hart und 24 Feldmoching - Hasenbergl Widmung der Gesamtstrecke des Christl-Marie-Schultes-Weges
+- TOP 9.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Knorrstr. 171 - Tempo 30
