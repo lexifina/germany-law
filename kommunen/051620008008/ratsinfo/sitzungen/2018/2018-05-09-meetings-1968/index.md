@@ -1,0 +1,97 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-05-09T18:06:00+02:00
+- Ende: 2018-05-09T20:15:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1968
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1968
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Einwohnerfragestunde
+- TOP 2.1: Anlaufstelle in der Verwaltung
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Innenstadtentwicklung (Antrag Nr. 79/18) - einstimmig
+- TOP 3.1.2: Änderung des FNP im Bereich Neuenhausen zur Schaffung Fläche Nahversorgungsmarkt (Antrag Nr. 87/18) - einstimmig
+- TOP 3.1.3: Ausbau der Kindertagesbetreuung (Antrag Nr. 88/18) - einstimmig
+- TOP 3.1.4: Änderung Satzung über Elternbeiträge in Tageseinrichtungen für Kinder (Antrag Nr. 89/18) - einstimmig
+- TOP 3.1.5: Verkehrsspiegel (Antrag Nr. 92/18) - einstimmig
+- TOP 3.1.6: Parkraum Auf dem Wiler (Antrag Nr. 93/18) - einstimmig
+- TOP 3.1.7: Tiervielfalt schützen (Antrag Nr. 94/18) - einstimmig
+- TOP 3.1.8: Gebühren senken, Plätze schaffen, Qualität verbessern (Antrag N - einstimmig
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Modellversuch „Kostenloser Nahverkehr“ (Antrag Nr. 90/18) - einstimmig
+- TOP 3.3.2: Angebot für junge Menschen: „Jugend Taxi in Grevenbroich“ (Antrag Nr. 91/18) - einstimmig
+- TOP 3.3.3: Wohnraumpotenzial über Grevenbroichs Supermärkten erfassen (Antrag Nr. 81/18) - einstimmig
+- TOP 3.3.4: Wegweiser zum EVITA-Beach (Antrag Nr. 77/18) - einstimmig
+- TOP 3.3.5: Kirschbäume auf der Marktstraße in Wevelinghoven erhalten (Antrag Nr. 78/18) - einstimmig
+- TOP 3.4: FDP
+- TOP 3.4.1: Sachstand zum Digitalisierungs-Update (Antrag Nr. 76/18) - einstimmig
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Einrichtung einer Tempo 30 Zone in der Jülicher Straße (Antrag Nr. 73/18) - einstimmig
+- TOP 3.5.2: Artenvielfalt stärken - Insektensterben stoppen (Antrag Nr. 80/18) - einstimmig
+- TOP 3.5.3: Ausschussumbesetzung (Antrag Nr. 83/18) - einstimmig
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke- Freie Bürger l
+- TOP 3.8: Gemeinschaftsanträge
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.3.1: Wlan am Pascal-Gymnasium (Anfrage Nr. 86/18) - Kenntnisnahme
+- TOP 4.4: FDP
+- TOP 4.4.1: Wie geht es weiter mit der Digitalisierung der Stadt Grevenbroich? (Anfrage Nr. 75/18) - Kenntnisnahme
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.5.1: Straßenverkehrsordnungen nach § 45 StVo in Kapellen und Wevelinghoven (Anfrage Nr. 82/18) - Kenntnisnahme
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Die Linke - Freie Bürger
+- TOP 4.7.1: Entwicklung KITA und KIGA (Anfrage Nr. 84/18) - Kenntnisnahme
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Flüchtlings- und Integrationsangelegenheiten
+- TOP 8: Aufstellung von Schöffenlisten - einstimmig
+- TOP 9: JA 2017 - Kenntnisnahme
+- TOP 10: Rückzahlung Kirche GTK - einstimmig
+- TOP 11: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen im Jahr 2017 - Kenntnisnahme
+- TOP 12: Beratungspunkte Ausschüsse
+- TOP 12.1: Beratung und Beschluss des Gesamtabschlusses 2016 - einstimmig
+- TOP 13: Entscheidung PlanungsA
+- TOP 13.1: 23. FNPÄnd. Beschluss n. § 6 - einstimmig
+- TOP 13.2: 1. Änd. G 127 § 13a Aufst.beschluss - einstimmig
+- TOP 13.3: Städtebaulicher Vertrag N 40 - einstimmig
+- TOP 13.4: N 40 - Satzungsbeschluss - einstimmig
+- TOP 13.5: Beschluss Fortschreibung EHSK - Kenntnisnahme
+- TOP 13.6: Resolution L361 n - mehrheitlich bei
+- TOP 13.7: Benennung von Mitgliedern für den Bürgerverfügungsfonds - Kenntnisnahme
+- TOP 14: Beantwortung Anträge und Anfragen
+- TOP 14.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 14.2: Ausschreibung der Stelle eines Quartiersmanagers (Antrag Nr. 243/17) - Kenntnisnahme
+- TOP 14.3: Berichterstattung zur Wahl des Integrationsrates in der türkischen Presse (Antrag Nr. 264/17) - Kenntnisnahme
+- TOP 14.4: Erstellung eines jährlichen Energieberichtes (Antrag Nr. 266/17) - Kenntnisnahme
+- TOP 14.5: Erstattung von Personalkosten in den städtischen Haushalt (Antrag Nr. 48/18) - Kenntnisnahme
+- TOP 15: mündliche Anträge/Anfragen
+- TOP 15.1: Verkehrssituation Grabenstraße (97/218)
+- TOP 15.2: Papiercontainer Neuenhausen (98/2018)
+- TOP 15.3: Modernisierung Wohnhaus Kolpingstraße (99/2018)
+- TOP 15.4: Wirtschaftlichkeit von Parkgebühren auf dem Marktplatz in Wevelinghoven (256/2017)
+- TOP 15.5: Befangenheit (100/2018)
+- TOP 15.6: Parkraum Bahnstraße (101/2018)
+- TOP 15.7: Projekt "WiFi4EU" (102/2018)
+- TOP 15.8: Zweiter Pressesprecher (103/2018)
+- TOP 15.9: Lange Walker-Gelände (104/2018)
+- TOP 15.10: Taxi-Stände Bahnstraße (105/2018)
+- TOP 15.11: Masterplan Quartiersozialarbeit (209/2017)
+- TOP 15.12: Alkoholverbot im öffentlichen Straßenraum (106/2018)
+- TOP 15.13: Stellfläche Fahrradständer Bahnhofsvorplatz (107/2018)
+- TOP 15.14: Mülltonnen Ostwall (108/2018)
+- TOP 15.15: Steinweg / Ölgasse (109/2018)
+- TOP 15.16: Parkplätze Bobolandia (110/2018)
+- TOP 16: Mitteilungen BM
+- TOP 16.1: ISEK - Kenntnisnahme
