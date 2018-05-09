@@ -1,0 +1,6 @@
+# TOP 6: Stellungnahme des Landkreises zum Landesentwicklungsplan Hauptstadtregion Berlin-Brandenburg
+
+- Sitzung: 27. Sitzung des Kreisausschusses (2018-05-09)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=14457
