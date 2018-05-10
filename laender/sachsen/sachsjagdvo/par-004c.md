@@ -1,0 +1,2 @@
+# § 4c Einschränkung sachlicher Verbote bei der Jagd auf Schwarzwild
+Abweichend von § 19 Absatz 1 Nummer 5 Buchstabe a des Bundesjagdgesetzes dürfen bei der Jagd auf Schwarzwild künstliche Lichtquellen, Vorrichtungen zum Anstrahlen oder Beleuchten des Zieles und Nachtzielgeräte, die einen Bildwandler oder eine elektronische Verstärkung besitzen und für Langwaffen bestimmt sind, verwendet und genutzt werden. Waffenrechtliche Vorschriften bleiben unberührt.
