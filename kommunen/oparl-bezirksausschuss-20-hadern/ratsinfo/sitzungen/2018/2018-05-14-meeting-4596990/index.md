@@ -1,0 +1,96 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4596990
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4596990
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Neufriedenheimer Platz 4, gem. Baumbestandsplänen Nr. 2689 und 2691
+- TOP 7.1.2.: Eisenhutstraße 11, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2757
+- TOP 7.1.3.: Fürstenrieder Straße 180, gem. Baumbestandsplänen Nr. 5238 und 5239
+- TOP 7.1.4.: Am Brombeerschlag 33, 1 Fichte
+- TOP 7.1.5.: Kornwegerstraße 46, 2 Fichten
+- TOP 7.1.6.: Neufriedenheimer Straße 12, 1 Fichte, 1 Thuja und 1 Apfelbaum
+- TOP 7.1.7.: Ossingerstraße 75, 1 Koloradotanne
+- TOP 7.1.8.: Senftenauerstraße 111, 1 Birke und 1 Weide
+- TOP 7.1.9.: Terofalstraße 21, 1 Spitzahorn
+- TOP 7.1.10.: Waldesruhe 31, 1 Serbische Blaufichte
+- TOP 7.1.11.: Kleinhaderner Straße 47, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 4240
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Anfrage wegen Aktionskunst
+- TOP 1.2.: Toiletten-Ausrüstung für den Haderner Krautgarten
+- TOP 4.1.: Bildungslokal Blumenau (Grünen-Fraktion)
+- TOP 5.1.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., Theaterprojekt "Theater spielen - stärken für&#039;s Leben", 678,- € (Direktorium, 05.04.18)
+- TOP 5.2.: Budget der Bezirksausschüsse, TSV München-Großhadern von 1926 e.V., Anschaffung eines mobilen Mattenständers sowie von Gymnastikmatten, 724,61 € (Direktorium, 10.04.18)
+- TOP 6.1.: Stadtbezirksbudget für München, Anhörung der Bezirksausschüsse (Direktorium, 28.03.18) (vertagt aus 04/18)
+- TOP 6.2.: Anhörung der Bezirksausschüsse zur Änderung der BA-Satzung und BA-GeschO (Direktorium, 11.04.18)
+- TOP 6.3.: Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Bildungsausschuss: "kitabarometer", Elternbefragung zum Bedarf an Kindertagesbetreuung in München (Referat für Bildung und Sport, 10.04.18)
+- TOP 6.4.: Leistungsprogramm 2019 der MVG (Fahrplanwechsel Dezember 2018) (MVG, 06.04.18)
+- TOP 6.5.: Verkehrsrechtliche Anordnung, hier: Lupinenweg; Errichtung eines absoluten Haltverbotes (Z. 283 StVO) (Kreisverwaltungsreferat, 20.04.18)
+- TOP 6.6.: Verkehrsrechtliche Anordnung, hier: Großhaderner Straße; Errichtung des Gefahrzeichens 102 StVO vor der Kreuzung mit der Gräfelfinger Straße (Kreisverwaltungsreferat, 04.05.18)
+- TOP 6.7.: Feuerwerk am Max-Lebsche-Platz, Haderner Dorffest am 12.05.18 (Kreisverwaltungsreferat, 03.05.18)
+- TOP 6.8.: Beschlussentwurf für den Bildungsausschuss gemeinsam mit dem Kinder- und Jugendhilfeausschuss, dem Bauausschuss und dem Ausschuss für Stadtplanung und Bauordnung am 03.07.18: 5. Pavillonbauprogramm (Referat für Bildung und Sport, 02.05.18)
+- TOP 6.9.: Erinnerungsverfahren Farnweg 12-14 (Baureferat, 26.04.18)
+- TOP 8.1.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 06.04.18)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Drozzaweg (Sozialreferat, 03.04.18) - Fürstenrieder Straße (Sozialreferat, 19.04.18) - Gräfelfinger Straße (Sozialreferat, 19.04.18)
+- TOP 8.3.: Mehrjahresinvestitionsprogramm 2018 - 2022, Anhörung der Bezirksausschüsse (Stadtkämmerei, 09.04.18)
+- TOP 8.4.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts (Direktorium, 05.04.18)
+- TOP 8.5.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO) (Direktorium, 09.04.18)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, hier: Strom-Projekt Terofalstraße (SWM, 12.04.18)
+- TOP 8.7.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse (Direktorium, 16.04.18)
+- TOP 8.8.: Waldwiesenstraße; Verlängerung einer Linksabbiegespur und Fahrbahnsanierung (Baureferat, 20.04.18)
+- TOP 9.1.: Aktueller Stand des Hallenbau-Projektes des TSV Großhadern (Referat für Bildung und Sport, 05.12.17)
+- TOP 9.2.: Aufstellung von City-Trees (Referat für Gesundheit und Umwelt, 05.04.18)
+- TOP 9.3.: Beschilderung der Heiglhofstraße (Baureferat, 10.04.18)
+- TOP 9.4.: Absenkung Bordstein Ida-Schumacher-Weg / Menaristraße (Kreisverwaltungsreferat, 06.04.18)
+- TOP 9.5.: Ausbau Sauerbruchstraße (Baureferat, 12.04.18)
+- TOP 9.6.: Verlängerung der U 6 bis zum S-Bahnhof Planegg (Referat für Stadtplanung und Bauordnung, 11.04.18)
+- TOP 9.7.: Baumfällungen im Bereich der Wohnanlage Terofalstraße 11 - 15 und 17 sowie dem NORMA-Gelände Terofalstraße 19 (Referat für Stadtplanung und Bauordnung, 23.04.18)
+- TOP 9.8.: WC-Gestellung Guardinistraße (Kommunalreferat, Markthallen München und DBV Baumaschinen- & Baugerätevertriebs GmbH, 25.04.18 / 26.04.18 / 30.04.18)
+- TOP 11.1.: Stellungnahme BN und ANN zum Leistungsprogramm 2019 der MVG (Münchner Forum, 19.04.18)
+- TOP 11.2.: Stellungnahme PRO BAHN zum Leistungsprogramm 2019 (PRO BAHN München, 24.04.18)
+- TOP 11.3.: Fest der Demokratie am 07. November 2018, Beteiligung aller Bezirksausschüsse (BA 8 Schwanthalerhöhe, 16.04.18)
+- TOP 11.4.: AKIM - Allparteiliches Konfliktmanagement in München, Terminabsprache zum Treffen der Bezirksausschüsse (AKIM, 26.04.18)
+- TOP 1.1.1.: Beschluss vom 21.03.2018: Tram Westtangente von Aidenbachstraße (Ratzingerplatz) bis zum Romanplatz Trassierungsbeschluss P+R-Anlage Aidenbachstraße – Vorbereitender Beschluss zur Bedarfs- und Konzeptgenehmigung
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Verwaltungs- und Personalausschusses vom 14.03.2018: Bedienbarkeit der auf der städtischen Homepage bereitgestellten Antragsformulare für Bürgerversammlungen
+- TOP 2.1.2.: Beschluss des Bauausschusses vom 10.04.2018: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 2.1.3.: Beschluss des Bauausschusses vom 10.04.2018: Begrünungsprogramm für Erschließungsstraßen
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018: Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen
+- TOP 2.2.2.: Hinweis / Ergänzung vom 02.03.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018: Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften
+- TOP 2.2.3.: Beschluss des Bauausschusses vom 08.05.2018: Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschusses für Stadtplanug und Bauordnung vom 18.04.2018: Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 4.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 07.03.2018: Wohnungsmarkt München - Expertenbefragung 2017
