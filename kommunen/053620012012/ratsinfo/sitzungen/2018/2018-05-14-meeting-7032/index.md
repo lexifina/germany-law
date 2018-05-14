@@ -1,0 +1,64 @@
+# Rat (40. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-05-14T18:42:00+02:00
+- Ende: 2018-05-14T22:50:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcAu3Em8XsXpV8EsNzioHGo
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7032
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTqY7yfx4VykTVlQ-GHtZnPvyN8mzT5OTGu3OcnqKBEP/Bekanntmachung_Rat_14.05.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYAkaEoVjEeiZ1ye_GHga-P_3TNfq17rNx1vRecfe4Ab/Oeffentliche_Niederschrift_Rat_14.05.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Einzelhandel in Brühl
+- TOP 1.2: Stadtwerke Brühl
+- TOP 1.3: Boulefeld am Parkplatz Belvedere
+- TOP 1.4: ITB-Berlin
+- TOP 1.5: Moschee Brühl-Ost
+- TOP 1.6: Flächennutzungsplan
+- TOP 1.7: Müllverbrennungsanlage
+- TOP 2.: Niederschrift vom 05.03.2018
+- TOP 3.: Entwurf des Jahresabschlusses 2017
+- TOP 4.: Ermächtigungsübertragung aus dem Haushaltsplan 2017 nach 2018
+- TOP 5.: 3. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Kindern an der Offenen Ganztagsschule an Grundschulen der Stadt Brühl. - (kein Text vorhanden)
+- TOP 6.: Bereitstellung von naturwissenschaftlichen Unterrichtsräumen an der Erich Kästner-Realschule
+- TOP 7.: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 06.15 "Alte Bonnstraße/Südlich Otto-Wels-Str., Linie18" - (kein Text vorhanden)
+- TOP 8.: Bebauungspläne
+- TOP 8.1: Bebauungsplan 03.03 "Kölnstraße / nördlich Heinrich-Esser-Straße" Teilbereich I - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 8.2: Bebauungsplan 06.15 "Alte Bonnstraße, Otto-Wels-Straße, Linie 18" - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 9.: Änderung Gesellschaftsvertrag Gebausie - (kein Text vorhanden)
+- TOP 10.: Anträge
+- TOP 10.1: Offene Ganztagsschule
+- TOP 10.1.1: Offene Ganztagsschule: Kriterien zur Gewinnung von qualifiziertem Personal Bezug: Antrag der SPD-Fraktion vom 2.4.2018
+- TOP 10.1.2: Tarifgerechte Bezahlung in der OGS Bezug: Antrag der Fraktion Linke&Piraten vom 20.4.2018
+- TOP 10.1.3: Qualität und tarifliche Bezahlung in der Offenen Ganztagsschule (OGS) Bezug: Antrag der SPD-Fraktion vom 02.04.2018, Vorlage Nr. 107/2018 und Antrag der Fraktion Die Linke und Piraten Partei vom 20.04.2018, Vorlage Nr. 127/2018
+- TOP 10.2: Realisierung Wohnbebauung durch Stelzenbauweise Bezug: Antrag der SPD-Fraktion vom 14.04.2018 - (kein Text vorhanden)
+- TOP 10.3: Erstellung von neuem Wohnraum in Brühl durch die Gebausie Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 18.04.2018 - (kein Text vorhanden)
+- TOP 11.: Umbesetzung in Ausschüssen
+- TOP 11.1: Umbesetzung im Hauptausschuss Bezug: Antrag der Grüne-Fraktion vom 17.04.2018 - (kein Text vorhanden)
+- TOP 11.2: Umbesetzung im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 12.: Mitteilungen
+- TOP 12.1: Haushalt
+- TOP 13.: Anfragen
+- TOP 13.1: Schaffung eines öffentlich geförderten Beschäftigungssektors Bezug: Anfrage der Fraktion Linke&Piraten vom 18.4.2018
+- TOP 13.2: Externe Beratungskosten der Stadt Brühl Bezug: Anfrage der Fraktion Linke&Piraten vom 18.04.2018
+- TOP 13.3: Baumfällungen in Brühl-Kierberg
+- TOP 13.4: Shisha-Bars I
+- TOP 13.5: Shisha Bars II
+- TOP 13.6: Gesamtverschuldung der Kommunen
+- TOP 13.7: Stadtwerke Brühl
+- TOP B): Nichtöffentliche Sitzung
+- TOP 14.: Einberufung der Gesellschafterversammlungen der Stadtwerke Brühl GmbH und der Gebausie Brühl GmbH - (kein Text vorhanden)
+- TOP 15.: Einberufung der Gesellschafterversammlungen der Stadtwerke Brühl GmbH und der Ge-bausie Brühl GmbH - (kein Text vorhanden)
+- TOP 16.: Bestellung eines/einer stellvertretenden Leiters der Freiwilligen Feuerwehr - (kein Text vorhanden)
+- TOP 17.: Aufstellung der Vorschlagsliste der Stadt Brühl für die Wahl der Schöffinnen und Schöffen für die Wahlperiode 2019 - 2023 - (kein Text vorhanden)
+- TOP 18.: Mitteilungen
+- TOP 18.1: Entwurf Jahresabschluss
+- TOP 19.: Anfragen
+- TOP 19.1: Vorkommnisse am Lupinenweg
