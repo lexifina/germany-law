@@ -1,0 +1,71 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (26. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-05-14T17:00:00+02:00
+- Ende: 2018-05-14T19:12:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYW3560G6QFw7-dEGoUMMDA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5088
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSMw2JldhS8CkeGF4mkZZvr4pjyyX6yJtwEUGzlHxpLX/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_14.05.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUPNGSJ3hXrPkC5vkh2QEvnkV92rhu73I99dQLW80BCa/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_14.05.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Abfallwirtschaftskonzept 2018 - 2022 hier: Anfrage von RM Gaida im ASUKM vom 12.03.2018
+- TOP 1.3: Rodung am Roten Esel hier: Anfrage "Bündnis90/Die Grünen-offene Liste" vom 12.03.2018
+- TOP 1.4: Laserdrucker in Bereichen des „Konzerns Stadt Solingen“ hier: Anfrage Die Grünen vom 27.02.2018
+- TOP 1.5: ICE-Konzept Köln Berlin Anfrage der FDP-Fraktion vom 24.04.2018
+- TOP 1.6: Anfrage zur Nachhaltigkeitsstrategie der Stadt Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die gem. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität und der Bezirksvertretung Burg/Höhscheid am 12.03.2018
+- TOP 4.: Protokoll über die 25. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 12.03.2018
+- TOP 5.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 5.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 6.: Planung Leben braucht Vielfalt 2018
+- TOP 7.: Fördermöglichkeiten Ausbau Dickenbusch
+- TOP 7.1: Fördermöglichkeiten Ausbau Dickenbusch
+- TOP 8.: Ergebnis der Luftqualitätsmessung an der Konrad-Adenauer-Straße im Jahr 2017
+- TOP 9.: Luftreinhaltung an der Konrad-Adenauer-Straße - weitere Schritte
+- TOP 10.: Emissionsreduzierung in der Solinger Innenstadt ohne Fahrverbote hier: gemeinsamer Antrag der Ratsfraktionen CDU, BfS und FDP vom 01.03.2018
+- TOP 11.: Maßnahmen zur Reduzierung der Stickoxidbelastung auf der Konrad-Adenauer-Straße hier: Antrag der FDP-Fraktion vom 09.04.2018
+- TOP 12.: Luftreinhalteplan - Konsequenzen aus dem Dieselurteil des BVG hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 12.1: Luftreinhalteplan - Konsequenzen aus dem Dieselurteil des BVG hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 13.: Solingen fahrradfreundlich gestalten hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 13.1: Solingen fahrradfreundlich gestalten hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 14.: Keine Neonikotinoide auf Solingens Böden hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 14.1: Keine Neonikotinoide auf Solingens Böden hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 01.03.2018
+- TOP 15.: Abbau von Signalanlagen
+- TOP 16.: Bauleitplanung der Stadt Haan „Nördlich Backesheide“
+- TOP 17.: Zustimmung zur Direktvergabe von öffentlichen Personennahverkehrsdiensten an die Bahnen der Stadt Monheim (kurz BSM) als mitbedienendes Verkehrsunternehmen
+- TOP 18.: Denkmalliste der Stadt Solingen hier: Eintragung in die Denkmalliste der Stadt Solingen, Bodendenkmal „Wasserburg, Schloss Hackhausen“
+- TOP 19.: Denkmalliste der Stadt Solingen hier: Schutzerweiterung des Baudenkmals „Schloss Hackhausen“, Hackhausen 1
+- TOP 20.: Bauleitplanung Düsseldorfer Straße/ Baustraße Beschluss einer Veränderungssperre (Nr. 168/ 203-B 1. Änd.) für das Gebiet zwischen der Baustraße, der Straße Am Weisenhäuschen, der Wittenbergstraße und der Düsseldorfer Straße - Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid –
+- TOP 21.: ÖPNV-Erschließung des Ortsteils Solingen Eipaß mit einem Taxibus
+- TOP 22.: Verkehrsmaßnahmen Burg hier: Antrag der FDP-Fraktion vom 27.04.2018
+- TOP 22.1: Verkehrsmaßnahmen Burg hier: Antrag der CDU-Fraktion vom 09.05.2018
+- TOP 23.: Discounter hier: Antrag der SPD-Fraktion vom 29.04.2018
+- TOP 24.: Beschlusskontrolle ASUKM 2017
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.1.1: ÖPNV-Fahrgastbeirat
+- TOP 25.1.2: DB Kundencenter Solingen Hauptbahnhof
+- TOP 25.1.3: Lärmaktionsplan der Stadt Solingen Vorlage Nr. 3279 ASUKM vom 29.01.2018
+- TOP 25.1.4: Änderungsverfahren CO-Pipeline der Covestro Deutschland AG (vormals Bayer Material Science AG BMS) - Antrag vom 19.04.2012 auf Änderung des Planfeststellungsbeschlusses vom 14.02.2007
+- TOP 25.1.5: Ermittlung des Wohnraumbedarfs und Maßnahmen zur Aktivierung von Innenentwicklungspotenzialen für Wohnen
+- TOP 25.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 26. Sitzung des ASUKM am 12.03.2018
+- TOP 4.: Vergabe von Architektenleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens
+- TOP 5.: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 5.1: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
