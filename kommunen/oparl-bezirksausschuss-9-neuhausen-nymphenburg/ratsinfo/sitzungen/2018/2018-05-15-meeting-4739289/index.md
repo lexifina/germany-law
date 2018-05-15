@@ -1,0 +1,175 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739289
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739289
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Wahl Zusätzliche/n Seniorenbeauftragte/n
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 5.5.4.: Vorplanungen zu Heizwerkstandorten
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.4.: Nachbarschaftstreff Mosaik: Situation der Jugendlichen im Hirschgarten-Quartier
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.2.1.: "Lasst uns mal ran!" - Einrichtung eines Kinder- und Jugendbudgets (siehe TOP 6)
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Aufhebung des absoluten Haltverbots in der Johann-Pez-Straße
+- TOP 3.1.2.: (E) Reduzierung der Fließgeschwindigkeit auf der Achse Nymphenburger Straße und Waisenhausstraße
+- TOP 3.1.3.: Christbaumverkauf an der Dachauer Str. / Hedwig-Dransfeld-Allee
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Abstellen von vermehrten Wohnwagen und Gewerbeanhängern
+- TOP 3.2.2.: Ergänzung der Hinweistafel an der Haltestelle Maria-Ward-Straße um "Klinikum Dritter Orden"
+- TOP 3.2.3.: Enggasserbogen/Hirschgarten: Lärmbelästigung durch Bauarbeiten der 2. Stammstrecke
+- TOP 3.2.4.: Westfriedhof/Baldurstraße - Erweiterung der zeitlich begrenzten Parkzonen
+- TOP 3.2.5.: Ausweichverkehr Menzinger Str. / Wintrichring
+- TOP 3.2.6.: FC Teutonia München - kein schlüssiges Verkehrskonzept
+- TOP 3.2.7.: Parken von Lastkraftwagen und Wohnmobilen am Nymphenburger Kanal
+- TOP 3.2.8.: Baustellenbedingte Staubbelastung an der Radstammstrecke Bahnhof Laim - Donnersbergerbrücke
+- TOP 3.2.9.: Einrichtung von Busspuren in Neuhausen
+- TOP 3.2.10.: Fuß- und Radwegbrücke über die Schwere-Reiter-Straße
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: MVG-Leistungsprogramm 2019
+- TOP 3.3.2.: Einsatz von Dialog-Displays im Rahmen eines zweijährigen Versuchs - Abfrage von Standortvorschlägen
+- TOP 3.3.3.: Ausweisung der De-la-Paz-Straße zur Fahrradstraße
+- TOP 3.3.4.: Gefahrzeichen "Radverkehr" in der Sustrisstraße
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Realisierung des Arnulfstegs
+- TOP 3.4.2.: E-Ladestation am Steubenplatz und in der Donnersbergerstraße
+- TOP 3.4.3.: Durchfahrt/Einfahrt Tiefgarage zwischen den Hausnummern der Rosa-Bavarase-Straße 6 und 12
+- TOP 3.4.4.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 3.4.5.: Verkehrsspiegel an der Arnulfstraße 269
+- TOP 3.4.6.: Straßenfeste vor Kindertagesstätten
+- TOP 3.4.7.: Fußgängerampel Romanstraße / Ferndinand-Maria-Straße
+- TOP 3.4.8.: Betrieb Tramlinie 20/21
+- TOP 3.4.9.: Hedwigstraße: Einrichtung als Einbahn- und Anliegerstraße
+- TOP 3.4.10.: Ampelabbau an der Kreuzung Nibelungenstraße / Renatastraße
+- TOP 3.4.11.: Zweispuriger Übergang der Dachauer Str. für Radfahrer entlang der Westseite der Landshuter Allee
+- TOP 3.4.12.: Zuparken einer abgesenkten Bordsteinkante
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Wettbewerb Gestaltung Romanplatz Weiteres Vorgehen zum ehemaligen Stationshaus (Romanplatz 7) Finanzierung des städtischen Projektkostenanteils
+- TOP 3.5.2.: Baubeginn Fuß- und Radwegbrücke Arnulfpark
+- TOP 3.5.3.: Taschnerstraße und Parallelstraßen - zunehmender und zu schneller Baustellenschleichverkehr
+- TOP 3.5.4.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 3.5.5.: Verkehrsrechtliche Anordnungen: - Herthastraße - Andreestraße - Aldringenstr. - Nymphenburger Str. - Christoph-Rapparini-Bogen - Friedenheimer Brücke - Notburgastraße - Menzinger Str. / Wintrichring
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.1.1.: (E) + (U) Neubau des Museums "Biotopia": Der Bau soll sich harmonisch in das Ensemble des Schlosses Nymphenburg einfügen Empfehlung Nr. 14-20 / E 01885 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 05.12.2017
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Hotel Holiday Inn Express/Friedenheimer Brücke - Regenauslauf auf den Fußgänger-Gehweg
+- TOP 4.2.2.: Brachfläche Marsstraße 76
+- TOP 4.2.3.: Bebauung Marsstraße 76
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Vorplanungen zu Heizwerkstandorten (vertagt aus 04/18)
+- TOP 4.3.2.: Bauvorhaben im Stadtbezirk - Nymphenburger Str. 166 (5995-22) - Arnulfstr. 195 (5034-22) - Landshuter Allee 55 (5708-22)
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Landshuter Allee 48 - Neubau eines Umspannwerkes
+- TOP 4.4.2.: Überbauung von Parkplätzen
+- TOP 4.4.3.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 4.5.2.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 4.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.4.: FC Teutonia München - kein schlüssiges Verkehrskonzept (siehe TOP 3 - Verkehr)
+- TOP 4.5.5.: Meldelisten der Lokalbaukommission
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse ARGE St.-Vinzenz-Viertel Projekt „Wanderbaumallee" vom 14.05.2018 – Anfang Juni 2.000,00 € AZ: 0262.0-9-0276
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Begrünung der Klarastraße
+- TOP 5.2.2.: Drohende Zerstörung einer naturdenkmalwürdigen Eibe in der Nederlinger Straße 37 durch Bauvorhaben Kuglmüllerstraße 1 - 3
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Baumfällungsanträge - Erhard-Auer-Straße 14 - Gerner Straße 30 - Nymphenburg-Biedersteiner Kanal - Romanstraße 92 - Ruffinistraße 7 - Schlörstraße 6 - Hilblestr. 53
+- TOP 5.3.2.: Pyrotechnik der Kategorie 2 am 09.06.2018 in der Kleingartenanlage Nederlinger Straße
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 5.4.2.: Schadstoffbelastung an der Landshuter Allee
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 5.5.2.: Verlängerung der Ausnahmezulassung: Arbeiten an Anlagen des ÖPNV in der Menzingerstraße - Vollzug des BImSchG und der Geräte- u. Masch.lärmSchV
+- TOP 5.5.3.: Fällungsgenehmigung Klugstraße 113
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Regsam e.V. Aktion "Stühle raus!" am 20.07.2018 680,00 Euro Az.: 0262.0-9-0272
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Barrierefreies München - Toiletten für alle
+- TOP 6.2.2.: "Lasst uns mal ran!" - Einrichtung eines Kinder- und Jugendbudgets
+- TOP 6.2.3.: Spielplätze an der Grünanlage Dall&#039;Armi-Str.
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Kuglmüllerstraße 1-3 - Genehmigung Zweckentfremdung von Wohnraum durch Abbruch
+- TOP 6.5.2.: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Sitzungsvorlae Nr. 14-20/ V 11072
+- TOP 6.5.3.: Leitlinie Soziales
+- TOP 6.5.4.: Veranstaltung "Stühle raus" am 20.07.2018 im Stadtbezirk 9
+- TOP 6.5.5.: Spielplatz Kinderhaus Ferdinand
+- TOP 6.6: Verschiedenes
+- TOP 6.6.1.: Zweckentfremdung in Neuhausen-Nymphenburg u.a. durch Portale wie Airbnb oder Mr. Lodge
+- TOP 6.6.2.: "Jugend im 9. Stadtbezirk" - Möglichkeiten wie Jungbürgerversammlung, etc.
+- TOP 6.6.3.: Stadtteilinformation/Willkommensschreiben bei Anmeldung eines neuen Wohnsitzes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Werkstatt-Geschichten" "Werkstatt-Geschichten" im MachWerk vom 11.05. - 14.12.2018 2.982,00 Euro Az.: 0262.0-9-0269
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Inkunst e.V. Theaterstück "Muttersprache" ab 01.06.2018 6.775,00 Euro Az.: 0262.0-9-0275
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Umbenennung der Hilblestraße
+- TOP 7.2.2.: Unterstützung Fest der Demokratie am 7. November
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Anfrage zur Durchführung einer Gedenkveranstaltung im 9. Stadtbezirk der Israelitischen Kultusgemeinde München
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Kreuzung Nymphenburger Straße/Waisenhausstraße - Genehmigung eines "Offenen Bücherschranks"
+- TOP 7.4.2.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 7.4.3.: Geschichtswerkstatt Neuhausen e.V.: Erklärungsschilder für Straßennamen
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5.2.: Status Quo im Kreativquartier: Nutzungsmix und Öffentlichkeitsarbeit
+- TOP 7.5.3.: Aktualisierung des KulturGeschichtsPfades Neuhausen-Nymphenburg
+- TOP 7.5.4.: Widerstandsdenkmal am Platz der Freiheit
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse FT München-Gern e.V. Festwoche 111 Jahre FT Gern vom 18.07. - 22.07.2018 3.350,00 € AZ: 0262.0-9-0274
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.2.: Bezirkssportanlage auf dem Tierklinik-Gelände am Olympiapark
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: "kita-Barometer" - Elternbefragung zum Bedarf an Kinderbetreuung in München (Entwurf Beschlussvorlage)
+- TOP 8.3.2.: 5. Pavillonbauprogramm - Beschlussvorlage - Anhörungs-/Unterrichtungsverfahren
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 8.4.2.: Hirschgarten: 2 Fußballtore und ein größeres Fußballfeld - Antrag aus der Kinder- und Jugendversammlung Laim
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: Neue Bädereintrittspreise: - Hallenbäder ab 01.05.2018 - Freibäder ab der Saison 2018
+- TOP 8.5.2.: Tanzworkshop in der Grundschule an der Helmholtzstraße
+- TOP 8.5.3.: Skatepark-Mobil von Mai bis September 2018
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Missstände am Rotkreuzplatz und in der Donnersbergerstraße
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Änderung der BA-Satzung und BA-Geschäftsordnung als Folge von Änderungen der Bayerischen Gemeindeordnung
+- TOP 9.3.2.: Stadtbezirksbudget für München
+- TOP 9.3.3.: Ökumenischer Gottesdienst der Christkönigkirche am 07.07.2018 im Hirschgarten
+- TOP 9.3.4.: Nymphenburger-/Ecke Waisenhausstr. | Anhörung § 29 StVO für Einweihung öffentlicher Bücherschrank am 23.06.2018 | Anhörungsfrist: 11.06.2018
+- TOP 9.3.5.: Rotkreuzplatz | "Kunst Ideen Kulinarikum Stadtmarkt" am 29.06.-02.07.2018 |
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Änderung der Bürger- und Einwohnerversammlungssatzung - Erweiterung des Rederechts
+- TOP 9.5.2.: Änderung der Vollmacht des Oberbürgermeisters (Anhang 3 der BA-Satzung)
+- TOP 9.5.3.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 9.5.4.: Veranstaltungserlaubnis: - Gottesdienst unter freiem Himmel im Grünwaldpark am 10.05.2018
+- TOP 9.5.5.: Gaststättenfortführungen: - "Muris Lounge" - Landshuter Allee 128 - "Bayrisch guad - bei Martina" - Stupfstr. 21
+- TOP 9.6: Verschiedenes
+- TOP 9.6.1.: Haushalt fair teilen - Rückmeldungen BA-Budget
