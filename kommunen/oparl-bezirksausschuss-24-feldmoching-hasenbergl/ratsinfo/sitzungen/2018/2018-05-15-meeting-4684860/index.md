@@ -1,0 +1,91 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4684860
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4684860
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Vorplanungen zu Heizwerkstandorten - Vorstellung der ersten Überlegungen (Präsentation)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kulturhistorischer Verein Feldmoching auf dem Gfild e.V. Ausstellung "Geschichten der Pfarrei Feldmoching" vom 11.05. - 27.10.2018 Az.: 0262.0-24-0224
+- TOP 2.2.: (E) Budget der Bezirksausschüsse FFW Ludwigsfeld-Fasanerie Einbau einer Fluchttüre und einer Terrasse Az.: 0262.0-24-0222
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Münchner Sportclub e.V. Errichtung eines Betriebshof in Form eines Containermoduls im April 2018 AZ: 0262.0-24-0221
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Bürgerverein Lerchenau e.V. Anschaffung eines öffentlichen Bücherschrankes Az. 0262.0-24-0225
+- TOP 2.5.: N Budget der Bezirksausschüsse Kleingärtnerverein NW88 München-Hasenbergl e.V. Gartenfest am 30.06.2018 450,00 € AZ: 0262.0-24-0226
+- TOP 3.: Anträge
+- TOP 3.1.: Platzierung von Pflanztrögen auf dem Walter-Sedlmayr-Platz
+- TOP 3.2.: Parken von LKW&#039;s über 7,5 t in der Siedlung am Lerchenauer See
+- TOP 3.3.: Vermüllung Christl-Marie-Schultes-Weg
+- TOP 3.4.: Verbesserung der Sicherheit und Lebensqualität der Bürgerinnen und Bürger in der Wohnsiedlung Ludwigsfeld: Sicherer Schulweg für die Schüler
+- TOP 3.5.: Überprüfung der Anträge aus der Kinder- und Jugendsprechstunde: a) Klettergerüst für den Sandspielplatz am Feldmochinger See, Ferchenbachstr. Ostufer (Nr. 15/6) b) Sitzmöglichkeiten am Streetballplatz Ludwigsfeld (Nr. 15/5)
+- TOP 3.6.: Aufstellung einer Tischtennisplatte in Ludwigsfeld
+- TOP 3.7.: Ausbau des Fuß- und Radweges der Karlsfelder Str. bis zur MAN
+- TOP 3.8.: Umleitung des Schwerlastverkehrs aus der Siedlung Ludwigsfeld, Kristallstr.
+- TOP 3.9.: Verkehrssicherheit für Kinder in Feldmoching; 1. Schulbushaltestelle Schwarzhölzlstraße - Ecke Berchardweg 2. Sanierung der Schwarzhölzlstraße 3. Änderung der Vorfahrtsregelung Schwarzhölzlstraße-Leuchsstraße
+- TOP 5.1.1.: Wilhelmine-Reichard-Str., Fl.Nr. 1070/1233, Gemarkung Feldmoching - Tektur
+- TOP 5.1.2.: Lassallestr. 49, Haus 10
+- TOP 5.1.3.: Lassallestr. 49, Haus 13
+- TOP 5.2.1.: Silberpappelstr. 7
+- TOP 5.2.2.: Hardenstr. 5
+- TOP 5.2.3.: N Helmunistr. 4
+- TOP 5.3.1.: Theaterprojekt des Open Border Ensemble am 18./19.07.2018, Walter-Sedlmayr-Platz
+- TOP 5.3.2.: Spielefest am Wochenmarkt am 23.06.2018, Lassallestraße
+- TOP 5.4.1.: Stadtbezirksbudget für München; Entwurf der Vorlage für den Stadtrat
+- TOP 5.4.2.: Änderung der BA-Satzung und BA-Geschäftsordnung als Folge von Änderungen der Bayerischen Gemeindeordnung
+- TOP 5.4.3.: Feldmochinger Kurve - Sachstandsbericht und Neubau Bahnquerung Wilhelmine-Reichard-Straße, BVE-Nrn. 14-20 / E 01410 und E 01411 - Beschlussentwurf -
+- TOP 5.4.4.: Plätze und Aufenthaltsqualität - Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung,... - Beschlussentwurf -
+- TOP 5.4.5.: Bauleitplanung der Gemeinde Karlsfeld - BPlan Nr. 110 Gymnasium und Kita - Beteiligung nach § 4 Abs. 1 BauGB
+- TOP 5.4.6.: "kita-Barometer" - Elternbefragung zum Bedarf an Kinderbetreuung in München - Beschlussentwurf -
+- TOP 5.4.7.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Haltverbote Drudhartstraße b) Haltverbote Schwarzhölzlsiedlung c) Haltverbote Ittlinger Straße d) Stichstraße bei Josef-Frankl-Straße 21
+- TOP 5.4.8.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen; Rothwiesenstr. 18 (SFZ München Nord-West) - neuer Sachstand
+- TOP 5.4.9.: MVG-Leistungsprogramm 2019
+- TOP 5.4.10.: N 5. Pavillonbauprogramm - Beschlussentwurf -
+- TOP 5.4.11.: N Vollzug der Wassergesetze; vorläufige Sicherung des Überschwemmungsgebiets an der Würm von Flusskilometer 8,9 bis 9,3 (noch nicht festgesetzter Abschnitt) sowie am Würmkanal von Flusskilometer 0 bis 4,1 jeweils innerhalb der Stadtgrenzen der Landeshauptstadt München
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Barrierefreiheit für behinderte Menschen im 24. Stadtbezirk (Antragspaket)
+- TOP 6.2.: Errichtung einer öffentlichen Grünanlage mit Spielplatz zwischen dem Tollkirschenweg und der Hummelblumenstraße - Sachstand
+- TOP 6.3.: Bebauungsplan "Karlsfelder Straße", Brücke über das Schwabenbächl; hier: Tonnagebelastbarkeit der denkmalgeschützten Brücke
+- TOP 6.4.: Unverzügliche Unterrichtung des BA 24 über den Sachstand der Sanierung der Turnhalle und Schwimmhalle der Toni-Pfülf-Schule
+- TOP 6.5.: Bereitstellung von geeigneten Räumlichkeiten für einen Nachbarschafts-/Bürgertreff in der Fasanerie
+- TOP 6.6.: Anträge aus der 16. Kinder- und Jugendsprechstunde vom 26.01.2018; Zebrastreifen über die Karlsfelder Str. an der Haltestelle &#039;Siedlung Ludwigsfeld&#039;, Antrag Nr. 16/20
+- TOP 6.7.: Parkplätze bei der Bushaltebucht in der Lerchenauer Straße 322 hier: Einrichtung einer Kurzparkzone für Längsparker
+- TOP 6.8.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolutes Haltverbot im Franz-Sperr-Weg südlich Toni-Pfülf-Straße b) Anordnung Tempo 30, Paulckestraße 10 (GS/KiGa)
+- TOP 6.9.: Ausnahmegenehmigung Skateparkmobil im Zeitraum 28.04.-03.11.2018; Termine im Skatepark in der Fasanerie
+- TOP 6.10.: Unveränderte Fortführung von Gaststättenbetrieben: Weitlstr. 66
+- TOP 6.11.: Änderung der Vollmacht des Oberbürgermeisters nach Art. 60 Abs. 2 Satz 2 Gemeindeordnung (GO); Erweiterung der Zuständigkeit der Bezirksausschüsse bei der Vergabe von Zuschüssen
+- TOP 6.12.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 6.13.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 6.14.: Daten Pegel Feldmoching
+- TOP 6.15.: Meldelisten Bauvorhaben
+- TOP 6.16.: Meldelisten Baumfällungen
+- TOP 6.17.: Neue Bädereintrittspreise ab Mai 2018
+- TOP 6.18.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 6.19.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 6.20.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 6.21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.22.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 6.23.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 6.24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.25.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 6.26.: (U) Münchner Sportclub e.V. 1. Neubau einer 2-Feld-Tennishalle auf der Sportanlage an der Eberwurzstraße 28 Förderung der Baumaßnahme nach den Sportförderrichtlinien der Landeshaupt- stadt München 2. Verlängerung des Erbbaurechtsvertrages
+- TOP 7.1.1.: Parkplatzproblem der Kita in der Josef-Frankl-Straße 17 b; Rückmeldung an das KVR
+- TOP 8.1.: Protokoll der Sitzung am 13.03.2018 (nach Genehmigung in der Sitzung am 17.04.2018)
