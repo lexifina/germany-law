@@ -1,0 +1,7 @@
+# TOP 7: Rückblick Start-Up-Woche 2018
+
+- Sitzung: Ausschuss für Wirtschaftsförderung, Tourismus und Liegenschaften (2018-05-15)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/218614
+- Ergebnis: zur Kenntnis genommen
