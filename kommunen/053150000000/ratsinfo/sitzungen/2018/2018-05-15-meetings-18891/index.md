@@ -1,0 +1,53 @@
+# 37. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-15T17:00:00+02:00
+- Ende: 2018-05-15T18:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18891
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18891
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: B - Überflutungsvorsorge, Vortrag der StEB
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte Hier: Ernennung für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 6.2: Vergabe der bezirksorientierten Mittel 2018 - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion: Ladestation für E-Autos in Poll - ungeändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der SPD-Fraktion: Ortstermin Mendener Straße - Sache ist erledigt
+- TOP 8.4.1: Stellungnahme der Verwaltung zum Antrag: Ortstermin Mendener Straße - Kenntnis genommen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag der CDU-Fraktion: Houdainer Straße - geändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion: Westfeldgasse - geändert beschlossen
+- TOP 8.7.1: Änderungsantrag der SPD-Fraktion zu TOP 8.7: Westfeldgasse - endgültig abgelehnt
+- TOP 8.8: Antrag der CDU-Fraktion: Komplettierung einer Mitteilung - endgültig zurückgezogen
+- TOP 8.8.1: Stellungnahme der Verwaltung zum Antrag der CDU-Fraktion unter TOP 8.8 - Kenntnis genommen
+- TOP 8.9: Antrag der CDU-Fraktion: Autonome Beleuchtung für Fußgänger und Radfahrer Senkelsgraben - geändert beschlossen
+- TOP 8.10: Antrag der CDU-Fraktion: Rampe für das Bürgerzentrum Ahl Poller Schull - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion: Sachstandsbericht Eingang Bildungszentrum - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion: DHL- Paketstation an der Heidestraße - zurückgestellt
+- TOP 9.2.2: Anfrage der CDU-Fraktion: Kameras an dem Haus „Hotel zur Post“; ist das „Hotel zur Post“ ein Hotel? - Kenntnis genommen
+- TOP 9.2.2.1: Antwort der Verwaltung: Kameras an dem Haus "Hotel zur Post"; ist das "Hotel zur Post" ein Hotel? - Kenntnis genommen
+- TOP 9.2.3: Mündliche Anfrage der Fraktion die Grünen: GGS Hauptstraße - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2017 Naturschutzwacht Bezirk 7 Süd - Kenntnis genommen
+- TOP 10.2.2: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Sammelumdruck - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
