@@ -1,0 +1,131 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-05-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595270
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595270
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.3.: Wohnungslose an der Brücke Kapuzinerstr. (aus BA Sitzung 04/18)
+- TOP 5.4.: Mehr Streetwork am Hauptbahnhof (aus BA Sitzung 04/18)
+- TOP 5.6.: Toilette am Gärtnerplatz
+- TOP 5.7.: Spielplatz für größere Kinder, Ortstermin am 06.06.2018
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.3.: Laute Musik und Bässe vom Viehhofgelände (aus BA Sitzung 04/18)
+- TOP 5.12.: Fahrradständer Klenzestr.
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Einrichtung eines Unterausschusses für besondere Angelegenheiten
+- TOP 2: Termine
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Antrag, BA-Eigene Veranstaltung Kinder- und Jugendeinwohnerversammlung“ am 22.11.2018, beantragter Betrag: 600€
+- TOP 1.2.: Antrag, Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung „Dreimühlenviertel“
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Spielgruppe "Mini-KUBU" e.V. Einrichtung einer Spielecke 359,60 Euro Az.: 0262.0-2-0217
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Urban League GmbH Schaffung eines Anwohnergartens ab 01.06.2018 6.465,00 Euro Az.: 0262.0-2-0223
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Zeltschule e.V. Sommerfest am 16.06.2018 1.090,00 € AZ: 0262.0-2-0225
+- TOP 3.1.: Anhörung zur Beschlussvorlage „Kitabarometer“ Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 3.2.: Anhörung zum Entwurf der Beschlussvorlage, Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse, Änderung der BA-Satzung und Neufassung der Budget-Richtlinien
+- TOP 3.3.: Anhörung zur Sitzungsvorlage, Pavillonbauprogramm, Schulbauoffenisve 2013-2030
+- TOP 5.1.: Bürger, Obststand und Kinder am Roecklplatz
+- TOP 5.2.: Gedenkveranstaltung 09./10. November
+- TOP 5.5.: Konzept: Forum Humor und komische Kunst
+- TOP 5.8.: Veranstaltung „1918/2018 - Was ist Demokratie“
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Lindwurmstr. 1, Neubau eines Wohn- und Geschäftsgebäudes mit Tiefgarage - Vorbescheid
+- TOP 3.2.1.: Antrag auf Baumfällung: eine Birke, Auenstr. 38
+- TOP 3.2.2.: Baumfällungen und Ersatzpflanzungen, Dreimühlenstr. 3
+- TOP 3.2.3.: Antrag auf Baumfällung: eine Pappel, Bayerstr. 16
+- TOP 3.2.4.: Antrag auf Baumfällung: Ein Bergahorn und zwei Birken, Goethestr. 55
+- TOP 3.3.1.: Anhörung zum Vorlagenentwurf; Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2002a Arnulfstraße südlich zwischen Paul-Heyse-Unterführung und nördlichem Vorplatz (Flst. Nr. 6856/97 Gemarkung München, Sektion 4), - Starnberger Flügelbahnhof - - Einleitungsbeschluss für einen vorhabenbezogenen Bebauungsplan mit Grünordnung Nr. 2002a; Qualifizierung des Aufstellungsbeschlusses Nr. 2002 vom 25.04.2007 in einem Teilbereich -
+- TOP 3.3.2.: Plangenehmigungsverfahren; U-Bahnhof Theresienwiese – Errichtung von temporären Überdachungen und Schwenktoren am Zugang „St. Pauls - Kirche“
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Landwehrstr. 10, Genehmigung einer Freischankfläche
+- TOP 2.1.2.: Hans-Sachs-Str. 2, Genehmigung einer Freischankfläche -Plenumsbeschluss-
+- TOP 2.3.1.: (E) Fußgängerübergang in der Auenstraße / Maximilianskirche
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Straßenfest in der Thalkirchnerstr. am 17.06.2018
+- TOP 3.2.1.: Einrichtung einer Fahrradstraßenroute zwischen Sendlinger Tor und Baldeplatz
+- TOP 3.2.2.: Gärtnerplatz: Einrichtung von je drei allgemeinen Behindertenparkplätzen an der Seite Klenzestraße und an der Seite Reichenbachstraße (vertagt aus BA-Sitzung 04/2018)
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Plätze und Aufenthaltsqualität – Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung, Anhörung zum Beschlussentwurf
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürger, Nachfrage Einbahn Haydnstr.
+- TOP 5.2.: Vorstellung der Umorganisation in der KVR Abteilung 1 Verkehrsmanagement
+- TOP 5.4.: Bürger, Haltverbot Bayerstr 2-4 und Entfernung Geländer Südseite Bayerstr. (vertagt aus BA-Sitzung 04/18)
+- TOP 5.5.: Bürger, Wertstoffinsel gegenüber Auenstr. 100 verschiedene Beschwerden
+- TOP 5.6.: Bürger, Fußgängerampel am Standort Wittelsbacherstr. / Klenzestr.
+- TOP 5.7.: Bürger, Stachus Ampelschaltung und Trennung Rad-/Fußweg
+- TOP 5.8.: Bürger, Fußballplatz an der Isar, Probleme mit freilaufenden Hunde
+- TOP 5.9.: Bürger, Pflasterung am Glockenbachplatz
+- TOP 5.10.: Bürger, City2Share Standort der Verteilstation prüfen
+- TOP 5.11.: Bürger, Fahrradständer Ehrengutstr. 20
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.3.: Baubeginnanzeige, Kinderkrippe Baaderstr. 86-90
+- TOP A 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A 4.5.: Schreiben des Direktoriums zum Antrag auf Budgetmittel des BA 2; eigene Veranstaltung „Jung&Alt“
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: Fällung eines Gefahrenbaumes, eine Linde, Erhardtstr. gegenüber Deutsches Patentamt
+- TOP B 4.3.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP B 4.4.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP B 4.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.6.: Tempo 30 in der gesamten Thalkirchner Str. im Abschnitt zw. Müller- und Kapuzinerstr.
+- TOP C 4.7.: BA-Antrag, Bushaltestelle Stephansplatz
+- TOP C 4.8.: Antwort auf BA-Schreiben v. 01.03.2018, Schaffung einer Fahrradroute zwischen Sendlinger Tor und Baldeplatz (vgl. dazu Anhörung unter TOP C 3.2.1)
+- TOP C 4.9.: BA-Antrag, Begrünung Herzog-Heinrich-Str.
+- TOP C 4.10.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP C 4.11.: Einmalige Entfernung aller Schrotträder
+- TOP C 4.12.: Abdruck, Antwortschreiben zu Straßenreinigungsgebühren
+- TOP C 4.13.: Schöne Graffiti statt Schmierereien an Häuserwänden
+- TOP C 4.14.: (U) Ausnahme nach der Satzung der Benutzung der städtischen öffentlichen Grünanlagen (Grünanlagensatzung) Veranstaltungen in der Grünanlage an der Ziemenssenstraße (Nußbaumpark) 2018 bis 2020 und Folgejahre
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP D 4.2.: Verteilung nicht-öffentlicher Dokumente an BA-Mitglieder
+- TOP D 4.3.: Informationsschreiben zur Nutzung der LTE-Router
+- TOP D 4.4.: Änderung der Bürger- und Einwohnerversammlung; Erweiterung des Rederechts, Sitzungsvorlage 14-20/V11392
