@@ -1,0 +1,63 @@
+# 29. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-15T15:35:00+02:00
+- Ende: 2018-05-15T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18649
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18649
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00659793.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00659793.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00659793.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Leitprojekit - Stärkung der freien Szene als Akteur der Stadtgesellschaft"; hier: Sparte Musik - zusätzliche Förderung - geändert beschlossen
+- TOP 3.2: Antrag der Fraktion Die.Linke betr.: "Mahnmal zur Vertreibung und Vernichtung des Armenischen Volkes" - Sache ist erledigt
+- TOP 3.3: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Konsolidierung der Depotsituation des Kölnischen Stadtmuseums: Schließung Außendepot Weyerhof" - geändert beschlossen
+- TOP -: Änderungs- bzw. Zusatzantrag der SPD-Fraktion betr.: "TOP 3.3 - Konsolidierung der Depotsituation des Kölnischen Stadtmuseums: Schließung Außendepot Weyerhof" - ungeändert beschlossen
+- TOP 3.4: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis90/Die Grünen betr.: "Sanierung der Orangerie im Volksgarten" - geändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Vergabe der Fördermittel in den Schwerpunkten "Produktionen und Sonderprojekte" und Cologne Music Export" - ungeändert beschlossen
+- TOP 4.2: Bedarffeststellungsbeschluss über die Vergabe von Scandienstleistungen betreffend die Meldekartei beim Historischen Archiv - ungeändert beschlossen
+- TOP 4.3: Beauftragung der 3. Ausbaustufe zur Web-Anwendung "Restaurierungsdokumentationsmodul" (RDM) - ungeändert beschlossen
+- TOP 4.4: Bedarfsfeststellungsbeschluss zum Abschluss eines Rahmenvertrages für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.5: Künftige Nutzung des "Kölner Filmhauses" in der Maybachstraße 111, 50670 Köln - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungs- bzw. Zusatzantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "TOP 1.3 – Künftige Nutzung des „Kölner Filmhauses" (1341/2018)" - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Vergabe von Zuschüssen zur Technikförderung und Bauunterhaltung der freien Szene - geändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen im Museum für Angewandte Kunst - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Ergebnisse der „Fast-Besucher-Befragung für die freie Theater- und Tanzszene" - Kenntnis genommen
+- TOP 8.2: Förderung des Kölner Offenbach-Gesellschaft e.V. zur Koordination der Festveranstaltungen zum 200. Geburtstag von Jacques Offenbach in 2019 - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Abschluss des von der Deutschen Forschungsgemeinschaft finanzierten Projekts „Einwerbung und Erschließung von Galeriepublikationen“ in der Kunst- und Museumsbibliothek der Stadt Köln - Kenntnis genommen
+- TOP 8.5: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht 43 - Neubau des Historischen Archivs mit Rheinischem Bildarchiv
+- TOP 9.3: Generalsanierung Zentralbibliothek Josef-Haubrich-Hof 1 Projektstatusbericht
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der FDP-Fraktion betr.: "Konzept zur Neuaufstellung der Kölner Museen" - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion - AN/0516/2018 vom 10.04.2018 betr.: "Konzept zur Neuaufstellung der Kölner Museen" - Kenntnis genommen
+- TOP 11.2: Anfrage der SPD-Fraktion betr.: "Generalsanierung Zentralbibliothek" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion - AN/0562/2018 vom 12.04.2018 - betr.: "Generalsanierung Zentralbibliothek" - Kenntnis genommen
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Anfrage der SPD-Fraktion betr.: "Berücksichtigung von Kulturräumen bei den Planungen des Deutzer Hafens und von Mülheim-Süd" - zurückgestellt
+- TOP 11.5: Anfrage der SPD-Fraktion betr.: "Kunsthaus Rhenania" - zurückgestellt
+- TOP 11.6: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: "Kulturelle Bildung" - zurückgestellt
+- TOP 11.7: Anfrage der SPD-Fraktion betr.: "Denkmalensemble Bahnhof Belvedere" - zurückgestellt
+- TOP 11.8: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Stellenplan und Stellenvakanzen im wissenschaftlichen Betrieb der städtischen Museen" - zurückgestellt
+- TOP 12: Mündliche Anfragen
