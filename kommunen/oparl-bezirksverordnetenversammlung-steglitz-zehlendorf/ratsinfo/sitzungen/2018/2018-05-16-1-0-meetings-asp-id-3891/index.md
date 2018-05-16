@@ -1,0 +1,86 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz­Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-05-16T17:00:00+02:00
+- Ende: 2018-05-16T22:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3891
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3891
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Spielplätze im Bezirk - beantwortet
+- TOP 3.2: Kooperation der Bezirksbürgermeisterin mit der AfD bei der Raum-Suche? - beantwortet
+- TOP 3.3: Leistungen nach dem Unterhaltsvorschussgesetz - beantwortet
+- TOP 3.4: MUFs am Beelitzhof: Stigmatisierung und Ghettobildung - beantwortet
+- TOP 3.5: Warum ehrt Steglitz-Zehlendorf „Bluthilde“ Benjamin? - beantwortet
+- TOP 3.6: Die Schloßstraße wird überdacht. Was wird aus der Rückseite des Kreisels? - beantwortet
+- TOP 3.7: Mobilitätsgesetz - beantwortet
+- TOP 3.8: Kältehilfe 2018/2019 - vertagt
+- TOP 3.9: Aktualisierung der Homepage www.ba-steglitz-zehlendorf.de - schriftlich beantwortet
+- TOP 3.10: Sanierung und Neubau Rathaus Zehlendorf - schriftlich beantwortet
+- TOP 3.11: Brachland in Zehlendorf - schriftlich beantwortet
+- TOP 3.12: Pädagogische Programme von Kindertagesstätten - schriftlich beantwortet
+- TOP 3.13: Beginn des bezirklichen Wohnraumbündnisses - schriftlich beantwortet
+- TOP 3.14: Geisterhaus Schmarjestraße steht seit Jahren leer – was plant das Bezirksamt? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - (offen)
+- TOP 4.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Nachwahl eines weiteren Mitgliedes in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Verlängerung der Veränderungssperre 6-34B/44 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Sichere Überquerung des neuen Zebrastreifens Onkel-Tom-Straße/ Fischtalpark gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Verkehrsanbindung U-Bahn und S-Bahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Kein absolutes Halteverbot auf Behindertenparkplätzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Neuregelung der Zuständigkeiten der Ämter für Flüchtlinge wieder nach dem Wohnortprinzip verteilen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Öffentliche Durchwegung der "Grünen Mitte" auf dem "Parks Range"-Gelände in Lichterfelde-Süd für Bürgerinnen und Bürger II - in der BVV abgelehnt
+- TOP 4.10: Rad sicher bis Teltow führen, Bus beschleunigen, Allee fortführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Fahrradleichen am S-Bahnhof Rathaus-Steglitz entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Ehrenmal Volksaufstand 17. Juni 1953 Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Umweltschutz im Bezirksamt: Beim Ankauf von Drucker- und Kopierpapier auf Umweltzeichen „Blauer Engel“ achten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Gründung einer neuen Grundschule im Ortsteil Steglitz, Plantagenstraße 8,12169 Berlin zum Schuljahr 2018/19 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Betreff Neubauvorhaben am Wiesenschlag - überwiesen
+- TOP 5.2: Touristische Infrastrukturförderung Wannsee-Insel - überwiesen
+- TOP 5.3: Bürger am Integrationsprozess beteiligen/ Mehr Transparenz bei der Standortsuche für Flüchtlingsunterkünfte - überwiesen
+- TOP 5.4: Verstärkung der Buslinie 284 zwischen S-Bahnhof Lichterfelde-Süd und Haltestelle Lankwitz Kirche - überwiesen
+- TOP 5.5: Eine zweite Gemeinschaftsschule für Steglitz-Zehlendorf in Lichterfelde-Süd - überwiesen
+- TOP 5.6: LSA Königsberger Straße - S-Bahn-Unterführung Lichterfelde Ost - überwiesen
+- TOP 5.7: E-Bus-Strecke Wannsee prüfen - überwiesen
+- TOP 5.8: Klares Ja zum Schulstandort Osteweg - überwiesen
+- TOP 5.9: Eine Buswendeschleife bringt nur etwas, wenn dort auch Busse wenden können - überwiesen
+- TOP 5.10: Denkmalbeirat aktivieren - überwiesen
+- TOP 5.11: Touristische Angebote im Berliner Südwesten digital aufbereiten und anbieten - überwiesen
+- TOP 5.12: Schaffung verbindlicher Beteiligungsstrukturen für junge Menschen bei Vorhaben der Stadt- und Grünplanung - überwiesen
+- TOP 5.13: Zum Schichtwechsel wäre einer mehr ganz nett - überwiesen
+- TOP 5.14: Einführung der vollständigen Lernmittelfreiheit für die Jahrgangsstufen 1-6 - überwiesen
+- TOP 5.15: Radstreifen auf der Birkbuschstraße - überwiesen
+- TOP 5.16: Engstelle Moltkebrücke in beiden Richtungen befahren - überwiesen
+- TOP 5.17: Barrierefreie Treppengestaltung im Außenbereich des Rathauses Zehlendorf - überwiesen
+- TOP 5.18: X10 aufrechterhalten - überwiesen
+- TOP 5.19: Gedenkstele für Clara Immerwahr errichten - überwiesen
+- TOP 5.20: Zweiter Ausgang für den S-Bahnhof Botanischer Garten - überwiesen
+- TOP 5.21: Bushaltestelle „Wasgensteig“ in „Studentendorf Schlachtensee“ umbenennen - überwiesen
+- TOP 5.22: Wohnungen für gemeinnützige Träger im städtebaulichen Vertrag absichern - überwiesen
+- TOP 5.23: Zentrenkonzept für den Bezirk aktualisieren - überwiesen
+- TOP 5.24: Umgestaltung des Hermann-Ehlers-Platzes - überwiesen
+- TOP 5.25: Vergabeentscheidungen im Jugendamt - überwiesen
+- TOP 6: Dringlichkeiten - (offen)
+- TOP 6.1: Mörderinnen keine Ehre - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Broschüre „Starke Frauen in Steglitz-Zehlendorf 1945-1990“ in dieser Form nicht veröffentlichen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - beantwortet
+- TOP 7.1: Mädchenempowerment und die Aneignung von Selbstbestimmung über die Umstände des eigenen Lebens - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Der Bezirk muss Ersatzstandorte zum Osteweg benennen! - in der BVV zurückgezogen
+- TOP 8.2: Festsetzung der Höchstgrenze bei der Unterbringung von Geflüchteten am Standort Heckeshorn/Mehr soziale Infrastruktur - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Summend durch den Sommer: Blühstreifen für Bienen und andere Insekten am Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Ehrenmal Gemeindepark Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Geisterhaus Gardeschützenweg 3 – Anwohner*innen, Passant*innen und Autofahrer*innen vor herabstürzenden Gebäudeteilen schützen - in der BVV abgelehnt
+- TOP 9.4: Regenbogenflagge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Millieuschutz: Voraussetzungen durch den Senat schaffen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
