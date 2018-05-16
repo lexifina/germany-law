@@ -1,0 +1,60 @@
+# 32. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-05-16T17:06:00+02:00
+- Ende: 2018-05-16T21:17:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10897
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10897
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00422896.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag Nr. A-R/0018/2017 der CDU-Fraktion und der Fraktion Bündnis 90/Die - einstimmig beschlossen
+- TOP 2.2: Antrag der Ratsgruppe AfD Nr. A-R/0077/2017 "Sonderfonds für Schwangere - Höchstbeträge für Einzelleistungen aufstocken" - mehrheitlich beschlossen
+- TOP 2.3: Antrag der Ratsgruppe AfD Nr. A-R/0072/2017 "Änderung der Regelung beim Unterhaltsvorschuss" - mehrheitlich beschlossen
+- TOP 2.4: Qualitätsoffensive bei naturschutzrechtlichen Kompensationsmaßnahmen - mehrheitlich beschlossen
+- TOP 3: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 4: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2018) - einstimmig beschlossen
+- TOP 5: Aktualisierter Wirtschaftsplan 2018 der Theaterhaus Pumpenhaus gGmbH (Pumpenhaus) - mehrheitlich beschlossen
+- TOP 6: Jahresabschluss 2017 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 7: Schulden- und Liquiditätsbericht 2017 - zur Kenntnis genommen
+- TOP 8: Stiftung Magdalenenhospital / Stiftungsfonds Hüfferstiftung: Anschaffung von E-Fahrradrikschas für das Projekt "Radeln ohne Alter in Münster" - mehrheitlich beschlossen
+- TOP 9: Jahresbericht der Ombudsstelle 2017 - zur Kenntnis genommen
+- TOP 10: KlimaDiskurs.NRW e.V. - Beitritt der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Konversion
+- TOP 11.1: Ankauf der Konversionsflächen der Oxford- und der York-Kaserne: Überblick über den Sachstand und die Entscheidungsbedarfe (Mantelvorlage) - ohne Beschlussfassung geschoben
+- TOP 11.2: Finanzierung des Ankaufs der Konversionsflächen durch die KonvOY GmbH und die Wohn+Stadtbau GmbH und Inanspruchnahme der Verbilligungsrichtlinie durch die Wohn+Stadtbau GmbH - ohne Beschlussfassung geschoben
+- TOP 11.3: Verlagerung der Zentralen Unterbringungseinrichtung (ZUE) - ohne Beschlussfassung geschoben
+- TOP 12: Städtepartnerschaften der Stadt Münster: Aufbau weiterer städtepartnerschaftlicher Beziehungen Ratsantrag der SPD vom 22.11.2016 - Friedensstadt konkret (A-R/0052/2016) - von der Tagesordnung abgesetzt
+- TOP 13: Satzung zur Änderung der Betriebssatzung der Stadt Münster für die Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 14: Jahresabschluss 2017 der Westfälische Bauindustrie GmbH - einstimmig beschlossen
+- TOP 15: Anpassung der Fahrpreise zum 1. August 2018 im Westfalentarif - mehrheitlich beschlossen
+- TOP 16: Errichtung der "Städtischen Grundschule Wolbeck-Nord" im Sinne des § 81 Absatz 2 Schulgesetz für das Land Nordrhein-Westfalen (Schulgesetz NRW - SchulG) - einstimmig beschlossen
+- TOP 17: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig beschlossen
+- TOP 17.1: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1
+- TOP 18: Schülerfahrkosten, - mehrheitlich beschlossen
+- TOP 19: Kindertageseinrichtungen
+- TOP 19.1: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung Errichtungs- und Baubeschluss für einen 2-Gruppen-Pavillon an der Beckstraße, Aaseestadt - mehrheitlich beschlossen
+- TOP 19.2: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung Errichtungs- und Baubeschluss für einen 1-Gruppen-Pavillon, Westerheide, Gelmer - einstimmig geändert beschlossen
+- TOP 19.3: Nutzung des ehemaligen Hauptzollamtes und des ehemaligen Teilbereiches des Bundesvermögensamtes Sonnenstraße 85-89 als Kindertageseinrichtung - mehrheitlich beschlossen
+- TOP 19.4: Dauerhafte Maßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für eine 4-Gruppen Einrichtung im Erdgeschoss der ehemaligen Flüchtlingseinrichtung am Dahlweg 118, Schützenhof - mehrheitlich beschlossen
+- TOP 20: Erweiterung des Maßnahmenprogramms einer kind- und jugendbezogenen - einstimmig beschlossen
+- TOP 21: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen, Ergebnisse des Verfahrens 2016-2018 - mehrheitlich beschlossen
+- TOP 22: Zum Umgang mit Kriegerdenkmälern im öffentlichen Raum der Stadt Münster – Erarbeitung eines neuen Konzeptes zur Gedenk- und Erinnerungskultur - ohne Beschlussfassung geschoben
+- TOP 23: Stiftung Siverdes / Finanzielle Beteiligung am genossenschaftlichen Windenergie-Projekt Münster-Amelsbüren II - mehrheitlich beschlossen
+- TOP 24: Neubau eines Frauenhauses in Trägerschaft des Vereins Frauenhaus und Beratung e. V. in Münster- Wolbeck - zur Kenntnis genommen
+- TOP 25: European Energy Award 2018 - Energiepolitisches Arbeitsprogramm - ohne Beschlussfassung geschoben
+- TOP 26: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - Änderung der Richtlinien für die Förderung von Photovoltaikanlagen - ohne Beschlussfassung geschoben
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Hiltrup
+- TOP 27.1.1: Bebauungsplan Nr. 595 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28: Neubau der Feuer- und Rettungswache III in Münster-Hiltrup - Architektenwettbewerb - einstimmig beschlossen
+- TOP 29: Verschiedenes
