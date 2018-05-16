@@ -1,0 +1,73 @@
+# 31.Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-05-16T18:29:00+02:00
+- Ende: 2018-05-16T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10898
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10898
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00422898.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Bezirksvertretungen bei städtebaulichen Wettbewerben, Architektenwettbewerben und Ähnlichem grundsätzlich in den Jurys als Sachpreisrichter beteiligen - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Konversion
+- TOP 10.1: Ankauf der Konversionsflächen der Oxford- und der York-Kaserne: Überblick über den Sachstand und die Entscheidungsbedarfe (Mantelvorlage) - zur Kenntnis genommen
+- TOP 10.2: Finanzierung des Ankaufs der Konversionsflächen durch die KonvOY GmbH und die Wohn+Stadtbau GmbH und Inanspruchnahme der Verbilligungsrichtlinie durch die Wohn+Stadtbau GmbH - einstimmig beschlossen
+- TOP 10.3: Verlagerung der Zentralen Unterbringungseinrichtung (ZUE) - einstimmig beschlossen
+- TOP 11: Städtepartnerschaften der Stadt Münster: Aufbau weiterer städtepartnerschaftlicher Beziehungen Ratsantrag der SPD vom 22.11.2016 - Friedensstadt konkret (A-R/0052/2016) - von der Tagesordnung abgesetzt
+- TOP 12: Besetzung, ggf. Auflösung und Neubildung des Ausschusses für Stadtplanung, Stadtentwicklung, Verkehr und Wohnen - beschlossen
+- TOP 13: Besetzung, ggf. Auflösung und Neubildung des Sportausschusses - beschlossen
+- TOP 14: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 15: Bestellung des Vorsitzenden des Umlegungsausschusses - einstimmig beschlossen
+- TOP 16: Satzung zur Änderung der Betriebssatzung der Stadt Münster für die Abfallwirtschaftsbetriebe Münster - beschlossen
+- TOP 17: Jahresabschluss 2017 der Westfälische Bauindustrie GmbH - einstimmig beschlossen
+- TOP 18: Anpassung der Fahrpreise zum 1. August 2018 im Westfalentarif - mehrheitlich beschlossen
+- TOP 19: Errichtung der "Städtischen Grundschule Wolbeck-Nord" im Sinne des § 81 Absatz 2 Schulgesetz für das Land Nordrhein-Westfalen (Schulgesetz NRW - SchulG) - einstimmig beschlossen
+- TOP 20: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig beschlossen
+- TOP 20.1: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1
+- TOP 21: Schülerfahrkosten, - mehrheitlich beschlossen
+- TOP 22: Kindertageseinrichtungen
+- TOP 22.1: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung Errichtungs- und Baubeschluss für einen 2-Gruppen-Pavillon an der Beckstraße, Aaseestadt - einstimmig beschlossen
+- TOP 22.2: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung Errichtungs- und Baubeschluss für einen 1-Gruppen-Pavillon, Westerheide, Gelmer - einstimmig geändert beschlossen
+- TOP 22.3: Nutzung des ehemaligen Hauptzollamtes und des ehemaligen Teilbereiches des Bundesvermögensamtes Sonnenstraße 85-89 als Kindertageseinrichtung - einstimmig beschlossen
+- TOP 22.4: Dauerhafte Maßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung - Errichtungs- und Baubeschluss für eine 4-Gruppen Einrichtung im Erdgeschoss der ehemaligen Flüchtlingseinrichtung am Dahlweg 118, Schützenhof - einstimmig beschlossen
+- TOP 23: Erweiterung des Maßnahmenprogramms einer kind- und jugendbezogenen - einstimmig beschlossen
+- TOP 24: Mediationsverfahren zur Festlegung dauerhafter Standorte für Flüchtlingseinrichtungen, Ergebnisse des Verfahrens 2016-2018 - einstimmig beschlossen
+- TOP 25: Zum Umgang mit Kriegerdenkmälern im öffentlichen Raum der Stadt Münster – Erarbeitung eines neuen Konzeptes zur Gedenk- und Erinnerungskultur - einstimmig geändert beschlossen
+- TOP 26: Stiftung Siverdes / Finanzielle Beteiligung am genossenschaftlichen Windenergie-Projekt Münster-Amelsbüren II - einstimmig beschlossen
+- TOP 27: Neubau eines Frauenhauses in Trägerschaft des Vereins Frauenhaus und Beratung e. V. in Münster- Wolbeck - zur Kenntnis genommen
+- TOP 28: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 29: European Energy Award 2018 - Energiepolitisches Arbeitsprogramm - mehrheitlich beschlossen
+- TOP 30: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - Änderung der Richtlinien für die Förderung von Photovoltaikanlagen - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Hiltrup
+- TOP 31.1.1: Bebauungsplan Nr. 595 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 32.1: Auflösung und Neubildung von Ausschüssen des Rates - einstimmig abgelehnt
+- TOP 32.2: Teilhabe am „Investitionspakt Soziale Integration im Quartier NRW 2018“ ermöglichen - verwiesen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 33.1: Bei möglichen Belastungen der Anlieger durch Erschließungsbeiträge frühzeitig Transparenz schaffen - verwiesen
+- TOP 33.2: „Frauenbüro“: Dem Auftrag zur Gleichstellung auch im Namen und in der Besetzung gerecht werden - verwiesen
+- TOP 33.3: E-Mobilität willkommen heißen - verwiesen
+- TOP 33.4: Grundschulen fit machen für 2025:Anspruch auf offenen Ganztag braucht Vorlauf - verwiesen
+- TOP 33.5: Den Gründer der Sozialen Marktwirtschaft Alfred Müller-Armack ehren - verwiesen
+- TOP 33.6: Das Lichtfest Luminale nach Münster holen - verwiesen
+- TOP 33.7: Nachtflohmarkt erhalten und finanziell absichern - verwiesen
+- TOP 33.8: Münster ist Industriestandort! Gute Arbeitsplätze sichern und neue schaffen – ein Industriekonzept für Münster - verwiesen
+- TOP 33.9: Lückenschluss an der Schillerstraße – Veloroute Südost realisieren - verwiesen
+- TOP 33.10: Identifikation mit der Heimat stärken – Heimat-Preis und Heimat-Werkstatt in Münster - verwiesen
+- TOP 34: Verschiedenes
