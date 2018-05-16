@@ -1,0 +1,102 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2018-05-16T17:00:00+02:00
+- Ende: 2018-05-16T22:30:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5061
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5061
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=306473
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 3.1: Wahl der Vertrauenspersonen als Beisitzer für die bei den Amtsgerichten gem. § 40 Abs. 2 Gerichtverfassungsgesetz (GVG) zu bildenden Ausschüsse - ohne Änderungen in der BVV beschlossen
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 7: Tempo 30 in der Mellener Straße durchsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - erledigt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: QM-Gebiet Schöneberger Norden über 2020 erhalten - beantwortet
+- TOP 9.2: Wie geht es weiter mit den Kleingärten im Bezirk? - beantwortet
+- TOP 9.3: Ideologie vor Rechtsstaatlichkeit in Tempelhof-Schöneberg? - beantwortet
+- TOP 9.4: Kurfürstenstr. 145-149: Bezahlbarer Wohnraum wiederherstellen, schaffen und langfristig sichern - beantwortet
+- TOP 9.5: Wiederherstellung der Arbeitsfähigkeit im Jugendamt - beantwortet
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Hilfetelefon “Gewalt gegen Frauen“ - Nummer 08000 116 016 mittels Aufklebern verfügbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Die Geschichte Schönebergs nicht vergessen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Anwohnerwünschen folgen und eine Parkraumbewirtschaftungszone auf der Schöneberger Insel bzw. im Bereich der Schöneberger Linse prüfen. - überwiesen
+- TOP 10.4: Schienenersatzverkehr bis nach Blankenfelde/Mahlow einsetzen - überwiesen
+- TOP 10.5: Ergänzung der Geschäftsordnung § 22 - überwiesen
+- TOP 10.6: Situation auf Spielplätzen im Bezirk verbessern - überwiesen
+- TOP 10.7: Verkehrskonzept für Sanierungsphasen am Tempelhofer und Mariendorfer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Kolonnenstraße komplett umgestalten - überwiesen
+- TOP 10.9: Nach 10 jähriger Bedenkzeit – bitte handeln! - vertagt
+- TOP 10.10: Alkoholwerbung hat nichts vor Schulen und Kitas verloren - überwiesen
+- TOP 10.11: BRUNNEN AM Viktoria-Luise-Platz - überwiesen
+- TOP 10.12: Haltestelle umbenennen in „Am Marienpark“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Freie Fahrt für freie Räder um den Viktoria-Luise-Platz - überwiesen
+- TOP 10.14: Fahrradparkhäuser auch in Tempelhof-Schöneberg - überwiesen
+- TOP 10.15: Keine Werbung für Bundeswehr vor den Schulen - vertagt
+- TOP 10.16: Monostruktur von Gewerbe entgegenwirken - Zahl der Shisha-Bars eindämmen, Versorgungsfunktion stützen - überwiesen
+- TOP 10.17: Fahrradparken bei der Bahn - überwiesen
+- TOP 10.18: Lücke im Verlauf des Mauerwegs schließen - überwiesen
+- TOP 10.19: Sexistische Werbung in Tempelhof-Schöneberg verbieten - überwiesen
+- TOP 10.20: Verkehrsberuhigung der Skutaristraße besser umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Sportstättenvergabekommission nach Vorbild Treptow-Köpenicks und Marzahn-Hellersdorfs endlich einrichten! - überwiesen
+- TOP 10.22: Verkehrsberuhigung durch die Mittelinsel in Höhe des Mauerwegs auf der Lichtenrader Chaussee am Ortseingang Lichtenrade/Groß-Ziehten - überwiesen
+- TOP 10.23: Marienfelder Allee: Direkte Bahnhofszugänge einplanen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.24: Verkehrssicherheit verbessern: Maßnahmen zur Einhaltung der angemessenen Geschwindigkeit an Ortseingängen ergreifen - überwiesen
+- TOP 10.25: Kontrolle im Radverkehr erhöhen - vertagt
+- TOP 10.26: Kapazitätserweiterung des Eckener-Gymnasiums auf dem Gelände an der Küterstraße prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.27: Medizinische Versorgung im Süden des Bezirks optimieren - Rettungsstellen der Krankenhäuser entlasten - überwiesen
+- TOP 10.28: Prekärer Personalsituation in unseren Jugendverkehrsschulen entgegenwirken - überwiesen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Erhalt des Nachbarschaftszentrums Lichtenrade - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Ergänzung der Geschäftsordnung um § 38a – Spontane Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Verauslagten Unterhalt konsequent eintreiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Zeitplan für Sanitär- und Umkleidecontainer für die Halker Zeile - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Auf die vier Kliniken im Bezirk besonders hinweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Passender Brunnen für den Breslauer Platz - überwiesen
+- TOP 12.7: Sprachlernbereich an der Johanna-Eck-Schule erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Mehr Zeit für Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Werner-Voß-Damm 51-57 - vertagt
+- TOP 12.10: Keine Zweckentfremdung bei GEWOBAG-Häusern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Antragsannahme-Verweigerungsstrategie des Jobcenters muss beendet werden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Unterstützung der Forderungen der studentischen Hilfskräfte an den Berliner Hochschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Situation auf Spielplätzen verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Gartenstadt entlasten - BAB-Anschlussstelle endlich modernisieren! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Pflegestützpunkt in der Reinhardstraße 7 unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: KZ Columbiahaus adäquat in Erinnerung bringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Möglichkeiten ausweiten – De-Mail-Verfahren im Bezirk testen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Tempelhofer Damm Unternehmerinitiative e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Öffnungszeiten und Angebote der Kinder- und Jugendfreizeiteinrichtungen online einfacher zugänglich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Kulturangebote im Bezirk deutlich sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Passender Brunnen für den Breslauer Platz - überwiesen
+- TOP 12.22: Ausbau nachhaltiger Mobilität auch in Tempelhof-Schöneberg - vertagt
+- TOP 12.23: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.24: Haus der Jugend - vertagt
+- TOP 12.25: Festsetzung des Bebauungsplanentwurfs 7-74 für das Grundstück Tempelhofer Weg 25-26, Gotenstraße 34-43, Sachsendamm 65-66 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Beschlussfassung - (offen)
+- TOP 14: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 14.1: Realisierung des S-Bahnhofs Kamenzer Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Einen zusätzlichen S-Bahnhof im Zuge des Ausbaus der Dresdner Bahn am Kamenzer Damm/Lankwitzer Straße gleich mitbauen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Tempo 30 in der Akazienstraße durch Überführung in Bezirkszuständigkeit - überwiesen
+- TOP 14.4: Städtepartnerschaften vollständig darstellen - überwiesen
+- TOP 14.5: Nutzung des Grundstücks Marienfelder Allee 222-244 für Bildung und Sport - im Ältestenrat zurückgezogen
+- TOP 14.6: Rathaus Friedenau - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Mehr Sportanlagen braucht das Land… - überwiesen
+- TOP 14.8: Die mobile App „Ordnungsamt-Online“ besser bekannt machen - überwiesen
+- TOP 14.9: Ersatzstandort für den bisherigen BSR-Recyclinghof Tempelhofer Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.10: Fehlende Beleuchtung auf öffentlichen Wegen bei der zuständigen Senatsverwaltung anmahnen - überwiesen
+- TOP 14.11: Sachgerechter, rechtskonformer und transparenter Umgang mit Kleinen Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.12: Bezirksamt unterstützen: Keine MUF am Diedersdorfer Weg in Marienfelde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.13: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Aufstellung des Bebauungs-plans 7-83 für die Grundstücke Innsbrucker Straße 14-15, Steinacher Straße 3/9, Sterzinger Straße 3-4, Meraner Straße 31/47A, Am Mühlenberg 2/4, 7-13, eine Teilfläche des Grundstücks Badensche Straße 55, Innsbrucker Straße 12-13, Steinacher Straße 2/6, Am Mühlenberg 5, die Grünfläche zwischen Meraner Straße und Am Mühlenberg (Flurstück 67/12) sowie die Steinacher Straße, Am Mühlenberg und Sterzingerstraße (teilwe - überwiesen
+- TOP 15: Termin der nächsten Sitzung - erledigt
