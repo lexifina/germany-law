@@ -1,0 +1,55 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2018-05-16T17:00:00+02:00
+- Ende: 2018-05-16T19:58:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3805
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3805
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 18.04.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Auslaufende Schließung der GHS Burtscheid - ungeändert beschlossen
+- TOP 5: Bewohnerparken "V" (Viktoriaallee) und "Z" (Zollernstraße);hier: Ergebnisse der Nacherhebung - geändert beschlossen
+- TOP 6: Erhöhung der Eintrittspreise von Stadttheater und Musikdirektion Aachen ab der Spielzeit 2018/19 - ungeändert beschlossen
+- TOP 7: 5. Nachtrag zur Gebührenordnung für Parkscheinautomaten im Gebiet der Stadt Aachen (Parkgebührenordnung)Förderung der Elektromobilität durch die Befreiung von Parkgebühren von E-Mobilen beim Parken an Parkscheinautomaten - ungeändert beschlossen
+- TOP 8: Erlass eines zweiten Nachtrages zur Gebührensatzung für die Inanspruchnahme des Rettungsdienstes der Stadt Aachen - ungeändert beschlossen
+- TOP 9: 4. Nachtrag zur Zweitwohnungssteuersatzung - ungeändert beschlossen
+- TOP 10: Vertrag mit der Verbraucherzentrale NRW zur Finanzierung der Verbraucherberatungsstelle Aachenfür die Jahre 2019 bis 2023 (Allgemeine Verbraucherberatung einschl. Schuldnerberatung) - ungeändert beschlossen
+- TOP 11: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Jülicher Straße / Prager Ring - ungeändert beschlossen
+- TOP 12: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich des Bebauungsplanes Nr. 885 - Joseph-von-Görres-Straße - - ungeändert beschlossen
+- TOP 13: Beschluss über eine Veränderungssperre für den Bereich Nikolausstraße, Antoniusstraße und Mefferdatisstraße im Stadtbezirk Aachen-Mitte - ungeändert beschlossen
+- TOP 14: Bebauungsplan Nr. 965 Verlautenheidener Straße / Kelmesbergweg - für den Planbereich im Stadtbezirk Aachen-Haaren zwischen Verlautenheidener Straße und Kelmesbergweghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 15: Aufhebung des Durchführungsplans Nr. 1 der ehemaligen Gemeinde Brand einschließlich aller Änderungenhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 16: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 16.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2018, Produkt 021501 Brandbekämpfung, Nachrüstung von 5 Hubrettungsfahrzeugen
+- TOP 17: Neuerstellung des Brandschutzbedarfsplanes der Stadt Aachen - ungeändert beschlossen
+- TOP 18: Nachhaltige Sicherung des Kurstandorts Burtscheid - ungeändert beschlossen
+- TOP 19: Wahl des Ausschusses beim Amtsgericht, der die Schöffinnen und Schöffen für die Amtsperiode 2019-2023 aus der Vorschlagsliste wählt und der über etwaige Einsprüche gegen die Vorschlagsliste zu entscheiden hat - ungeändert beschlossen
+- TOP 20: Anfragen:
+- TOP 20.1: Ratsanfragen - ungeändert beschlossen
+- TOP 20.2: Stellungnahmen zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Ratsanträge - ungeändert beschlossen
+- TOP 22: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 22.1: Nachwahl eines Mitgliedes für den Beirat bei der unteren Naturschutzbehörde der Stadt Aachen - ungeändert beschlossen
+- TOP 22.2: Besetzung Aufsichtsrat des aachen tourist service e.V. - ungeändert beschlossen
+- TOP 22.3: Umbesetzungsantrag der PIRATEN-Fraktion vom 14.05.2018 - ungeändert beschlossen
+- TOP 23: Mitteilungen der Verwaltung
+- TOP 24: Neues Kurhaus - zur Kenntnis genommen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
