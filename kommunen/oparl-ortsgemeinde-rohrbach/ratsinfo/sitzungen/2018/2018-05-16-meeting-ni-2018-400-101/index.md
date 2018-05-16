@@ -1,0 +1,53 @@
+# 23. Sitzung des Ortsgemeinderates Rohrbach
+
+- Körperschaft: Ortsgemeinde Rohrbach
+- Beginn: 2018-05-16T19:30:00+02:00
+- Ende: 2018-05-16T23:35:00+02:00
+- Ort: Dorfgemeinschaftshaus Rohrbach, Ratssaal, Am Dorfplatz 3, 76865 Rohrbach
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/400
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2018-400-101
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2018-400-101
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2018-400-101
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-400-101
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-400-101
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Gewerbeflächenkonzept der Verbandsgemeinde Herxheim
+- TOP 3: Funktionale und barrierefreie Neugestaltung des Friedhofes Rohrbach
+- TOP 4: Sachstandsmitteilung über die Erweiterung der Kindertagesstätte
+- TOP 5: 
+- TOP 6: Park-and-Ride-Parkplatz Bahnhof
+- TOP 7: Auftragsvergaben Ausbau der Wendegasse
+- TOP 8: Strategisches Innenentwicklungsmanagement
+- TOP 9: Aufhebung des Bebauungsplans ?Loosäcker?
+- TOP 10: Einheitlicher Regionalplan Teilregionalplan 'Windenergie'
+- TOP 11: Einheitlicher Regionalplan 1. Teilfortschreibung 'Wohnbauflächen'
+- TOP 12: Gewährung von Zuschüssen nach den Richtlinien zur Förderung von Kultur, Sport und Jugendpflege in der Ortsgemeinde Rohrbach
+- TOP 13: Festlegung von Marktsonntagen im Jahr 2018
+- TOP 14: Festlegung von verkaufsoffenen Sonntagen im Jahr 2018
+- TOP 15: Wahl für die Vorschlagsliste der Schöffen für die Geschäftsjahre 2019-2023
+- TOP 16: Sponsoring, Spenden, Schenkungen und ähnliche Zuwendungen an die Ortsgemeinde Rohrbach
+- TOP 17: Verbesserung der Mobilität im Nahverkehr
+- TOP 18: Auftragsvergaben
+- TOP 19: Teilnahme der Ortsgemeinde Rohrbach am Projekt 'Wifi4eu Portal' Antrag der FWG-Fraktion
+- TOP 20: Verkehrsführung Fachmarktzentrum Antrag der FWG-Fraktion
+- TOP 21: Verkehrssituation in der Bahnhofstraße und Insheimer Straße (Antrag der FWG-Fraktion)
+- TOP 22: Beschilderung beim Spielplatz im neuen Neubaugebiet (Antrag der FWG-Fraktion)
+- TOP 23: 23/24Kostenermittlung des Rechtsstreits bezügl. des Daches am Dorfgemeinschaftshaus sowie weitere Vorgehensweise (Antrag der FWG-Fraktion)
+- TOP 24: Grundstücksangelegenheiten
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.1: Mitteilungen und Anfragen; Verbindungsweg zwischen Wendegasse und Bei der Gernbrücke (FlNr. 6498/1)
+- TOP 26.2: Mitteilungen und Anfragen; Friedhofswege
+- TOP 26.3: Mitteilungen und Anfragen; Sachstand Pistorhaus
+- TOP 26.4: Mitteilungen und Anfragen; Sitzungstermine im RIS
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
