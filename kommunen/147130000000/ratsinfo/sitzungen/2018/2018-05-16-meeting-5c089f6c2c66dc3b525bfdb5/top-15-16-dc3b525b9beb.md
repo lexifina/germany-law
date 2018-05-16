@@ -1,0 +1,8 @@
+# TOP 15.16: Umsetzung der Pflichtquote zur Beschäftigung Schwerbehinderter <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span>
+
+- Sitzung: Ratsversammlung (2018-05-16)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c089f5b2c66dc3b525b9beb
+- Ergebnis: (offen)
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5c089f5b2c66dc3b525b9acb
