@@ -1,0 +1,107 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569219
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569219
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Bürger: Betreuungsituation an der Grundschule Gertrud-Bäumer-Straße
+- TOP 2.1.: 5. Pavillonbauprogramm – Beschlussvorlage des Referates für Bildung und Sport für eine gemeinsame Sitzung des Bildungs-, des Kinder- und Jugendhilfeausschusses, des Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung am 03.07.2018
+- TOP 2.2.: (E) Budget der Bezirksausschüsse PA/ Spielen in der Stadt e.V. Wasserspielmobil vom 02. - 04.08.2018 1.522,00 € AZ: 0262.0-4-0201
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zukunft der Aton-Schule (Zwischennachricht der 3. Bürgermeisterin auf BA-Schreiben vom 26.04.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Kurzbericht über die Zirkusshow von A.pplaus am 05.11.2017 im Circus Roncalli
+- TOP 3.2.2.: Änderungsbescheid „Initiative Hänsel&Gretel“: Verlängerung des Bewilligungszeitraums
+- TOP 3.2.3.: Bewilligungsbescheid für die Aktivferien am Ackermannbogen
+- TOP 3.2.4.: Bewilligungsbescheid für die Kindertagespflege „Schwabinger Schlawiner“
+- TOP 3.2.5.: Bewilligungsbescheid für die Lernwerkstatt Halle 36 e.V.
+- TOP 3.2.6.: Bewilligungsbescheid für den Elternbeirat des Sophie-Scholl-Gymnasiums
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Belgradstr. 2 „Die Keule“: Aufstellung von zwei Postkartenständern
+- TOP 2.3.1.: Straßenfest in der Apianstraße am 30.06.2018
+- TOP 2.3.2.: Spielaktionen der AG Spiellandschaft Stadt 2018 (Wasserspielbus im Ackermannbogen, Kicklusion und Geschichtenfestival im Luitpoldpark)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid für die „Freunde Madagaskars“ e.V.
+- TOP 3.2.2.: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte): Bewiligungsbescheid an JOINT ADVENTURES
+- TOP 3.3.1.: „Aktenzeichen XY“ am 08.05.2018 im Luitpoldpark
+- TOP 3.3.2.: Fotoaufnahmen für Werbung vom 08. bis 11.05.2018 im Luitpoldpark
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Javi“, Schleißheimer Str. 182
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Degenfeldstr. 5: Anbau eines Balkons mit Freitreppe (EG-Wohnung)
+- TOP 2.1.2.: Tektur Infanteriestr. 11 a: Neubau Pavillon V für Hochschulnutzung mit Kantine
+- TOP 2.1.3.: Bauerstr. 10: Neubau eines Wohngebäudes mit Unterflurparker für 20 Stellplätze und Erweiterug eines Bestandsgebäudes im 5. OG
+- TOP 2.1.4.: Tektur Elisabethstr. 47-49/Zentnerstr. 39+41: Aufstockung um ein Vollgeschoss etc. hier: Änderung und Anpassung der Dachform
+- TOP 2.1.5.: Fallmerayerstr. 13: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 2.1.6.: Bauerstr. 28: Anbau von 4 Balkonen (als untergeordnetes Bauteil an der nördl. Hoffassade
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaßnahmen im Anwesen Clemensstr. 45
+- TOP 3.2.2.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 3.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 3.2.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Georgenstraße zur Fahrradstraße umwidmen
+- TOP 1.2.: Bürger: Taubenplage in Schwabing-West
+- TOP 1.3.: Bürgerin: Fahrradstellplätze beim Kinderkunsthaus Römer-/Ecke Hohenzollernstraße
+- TOP 1.4.: Bürger: Blitzampel an der Karl-Theodor-Straße (Übergang zum Luitpoldpark)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Mottlstr. 14: Fällung eines Walnussbaums
+- TOP 2.1.2.: Isoldenstr. 5: Fällung einer Weihmutskiefer
+- TOP 2.2.1.: Tempo 30 vor Schulen (Parzival Schule, Hermann-Frieb-Realschule, Aton-Schule, Sophie-Scholl-Gymnasium)
+- TOP 2.2.2.: Haltverbote an der Westseite der Therese-Studer-Straße und an der Einmündung Rosa-Aschenbrenner-Bogen
+- TOP 2.2.3.: Plätze und Aufenthaltsqualität – Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung (u.a. Schleißheimer/Lerchenauer Straße) Anhörung zum Beschlussentwurf für den Stadtrat
+- TOP 2.2.4.: MVG-Leistungsprogramm 2019 (vertagt aus 04/18)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Neue Beschilderung von Parkplätzen an E-Ladesäulen (Rathaus Umschau-Meldung und Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 26.10.2017)
+- TOP 3.2.1.: Genehmigungsbescheid zur Fällung einer Fichte in der Gernotstr. 4-6
+- TOP 3.2.2.: Genehmigungsbescheid zur Fällung eines Ahorn in der Lerchenauer Str. 5-7
+- TOP 3.3.1.: Öffnung der in Richtung Norden einbahngeregelten Ansprengerstraße zwischen 25 m südlich der Kar-Theodor-Straße bis Unertlstraße für den gegenläufigen Radverkehr
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Verwendungsnachweis für den Budgetzuschuss zum Projekt „Urbanes Bezirksnaturnetz – Begrünung Lothstraße“
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Anhörung zu Änderungen der BA-Satzung und -Geschäftsordnung infolge von Änderungen der Bayerischen Gemeindeordnung
+- TOP F.2.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP G: Verschiedenes
+- TOP H: Termine
