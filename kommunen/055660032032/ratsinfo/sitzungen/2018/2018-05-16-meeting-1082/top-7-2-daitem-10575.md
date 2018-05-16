@@ -1,0 +1,6 @@
+# TOP 7.2: Zustand Radweg Einmündung Ruthemeiers Esch bis B 475
+
+- Sitzung: Umweltausschuss (13. Sitzung) (2018-05-16)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/10575
