@@ -1,0 +1,195 @@
+# Ratsversammlung
+
+- Körperschaft: Leipzig
+- Beginn: 2018-05-16T14:00:00+02:00
+- Ende: 2018-05-16T20:55:00+02:00
+- Ort: Martin-Luther-Ring 4-6, 04109 Leipzig
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Ratsinformationssystem: N/Ato010.asp?SILFDNR=1003761
+- OParl: https://oparl.politik-bei-uns.de/meeting/5c089f6c2c66dc3b525bfdb5
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung - (offen)
+- TOP 2: Feststellung der Beschlussfähigkeit - (offen)
+- TOP 3: Feststellung der Tagesordnung - (offen)
+- TOP 4: Bekanntgabe von Beschlüssen aus nichtöffentlicher Sitzung - (offen)
+- TOP 5: Niederschrift - (offen)
+- TOP 5.1: Niederschrift der Sitzung vom 21.03.2018 Teil II: Verlaufsprotokoll - ungeändert beschlossen
+- TOP 5.2: Niederschrift der Sitzung vom 18.04.2018/25.04.2018 Teil I: Beschlussprotokoll - ungeändert beschlossen
+- TOP 6: Eilentscheidung des Oberbürgermeisters - (offen)
+- TOP 7: Mandatsveränderungen - (offen)
+- TOP 8: Einwohneranfragen (Der Tagesordnungspunkt wird gg. 17.00 Uhr aufgerufen) - (offen)
+- TOP 8.1: Bürgerparkprojekt GleisGrünZug <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Daniel Bergelt)</span> - zur Kenntnis genommen
+- TOP 8.2: Fahrbahnsanierung Breitenfelder Straße <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Eric Kremers)</span> - zur Kenntnis genommen
+- TOP 8.3: Geplante Aktivitäten der Stadt Leipzig aus Anlass des 30. Jahrestages der Friedlichen Revolution im Oktober 2019 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dieter Krause)</span> - zur Kenntnis genommen
+- TOP 8.3.1: Geplante Aktivitäten der Stadt Leipzig aus Anlass des 30. Jahrestages der Friedlichen Revolution im Oktober 2019 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Kultur)</span> - zur Kenntnis genommen
+- TOP 8.4: Sozialarbeit mit Obdachlosen in Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Franca Belle Borger)</span> - zur Kenntnis genommen
+- TOP 8.5: Sozialarbeit mit Obdachlosen in Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Antonia Groß)</span> - zur Kenntnis genommen
+- TOP 8.6: Einhaltung der Eigentümerziele LWB/Sanierungspläne im Leipziger Süden <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ulrike Schult und Alexander Rode)</span> - zur Kenntnis genommen
+- TOP 9: Petitionen (werden nach TOP Einwohneranfragen aufgerufen) - (offen)
+- TOP 9.1: Petition zum Problem der starken Zunahme der Lärm- und Schadstoffbelastung durch LKW-, Bus- und PKW-Verkehr in der Karl-Tauchnitz-Straße <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - geändert beschlossen
+- TOP 9.1.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - zur Kenntnis genommen
+- TOP 9.1.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - ungeändert beschlossen
+- TOP 9.1.3: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - geändert beschlossen
+- TOP 9.2: Petition zum Mittlerer Ring Ost/Südost <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.2.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - zur Kenntnis genommen
+- TOP 9.2.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - abgelehnt
+- TOP 9.3: Überprüfung von Bürgermeistern und Stadtratsmitgliedern auf frühere Stasi-Mitarbeit <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.3.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - zur Kenntnis genommen
+- TOP 9.4: Schulweg sicher machen - Wiedereinrichtung des Fußgängerüberwegs auf der Eilenburger Straße <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.4.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - zur Kenntnis genommen
+- TOP 9.5: Petition für eine Straße oder Platz mit dem Namen: "Dr. Ruth Pfau" <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.5.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - zur Kenntnis genommen
+- TOP 9.6: Reduzierung von Luftverschmutzung und Lärmbelästigung durch Silvester-, Feuerwerks- und Knallkörper <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.6.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Umwelt, Ordnung, Sport)</span> - zur Kenntnis genommen
+- TOP 9.7: Einrichtung eines Oparl-Endpunktes <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.8: Petition zum Verfahren zur Vergabe von Essensaufträgen in Schulen und Kitas <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 9.9: Schulessen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Petitionsausschuss)</span> - ungeändert beschlossen
+- TOP 10: Wichtige Angelegenheit der Stadtbezirksbeiräte gem. § 5 Abs. 5 der Geschäftsordnung der Stadtbezirksbeiräte (werden nach TOP Petitionen aufgerufen) - (offen)
+- TOP 10.1: Wichtige Angelegenheit: Nutzbarkeit im nordöstlichen Lene-Voigt-Park verbessern - Verweisung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SBB Südost)</span> - zur Kenntnis genommen
+- TOP 11: Änderung der Besetzung von Gremien - (offen)
+- TOP 11.1: Beirat für Gleichstellung (6. Änderung) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - ungeändert beschlossen
+- TOP 11.2: Vergabegremium VOL (1. Änderung) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - ungeändert beschlossen
+- TOP 11.3: Stadtbezirksbeirat West (4. Änderung) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - ungeändert beschlossen
+- TOP 11.4: Stadtbezirksbeirat Süd (4. Änderung) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - ungeändert beschlossen
+- TOP 12: Wahl und Entsendung der Vertreter der Stadt Leipzig in Aufsichtsräte, Zweckverbände und Gremien, in denen die Stadt Mitglied ist - (offen)
+- TOP 12.1: Vertreter der Stadt Leipzig in der Verbandsversammlung Regionaler Planungsverband Westsachsen (2. Änderung) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - ungeändert beschlossen
+- TOP 13: Anträge zur Aufnahme in die Tagesordnung und Verweisung in die Gremien gem. § 5 Abs. 3 - 5 der Geschäftsordnung (Die Anträge finden Sie in der aktualisierten elektronischen Version der TO in Allris) - (offen)
+- TOP 13.1: Ergänzung der Erhaltungssatzung der Leipziger Innenstadt <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span> - (offen)
+- TOP 13.2: Etablierung eines Verfügungsfonds im Rahmen der Stadterneuerung in Mockau <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Stadträte F. Dossin, I. Glöckner, W. Grosser, G. Heinrich, H.Hentschel, A. Maciejewski, A. Niermann, S. Wehmann, C. Müller)</span> - (offen)
+- TOP 13.3: Ausbildung zum staatlich geprüften Sozialassistenten und Sozialassistentin und zum staatlich geprüften Erzieher und Erzieherin <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - (offen)
+- TOP 13.4: Erhöhung der Leistungen für Kinder & Jugendliche in stationärer Unterbringung. Im Speziellen des Kulturgeldes, Verpflegungsgeldes sowie des Weihnachts- und Geburtstagsgeldes <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Jugendbeirat/Jugendparlament)</span> - (offen)
+- TOP 13.5: Ehrenamt ermöglichen - Nutzung unterstützen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - (offen)
+- TOP 13.6: 50. Jahrestag der Sprengung der Universitätskirche St. Pauli; Überprüfung des Stadtarchives nach historischen Dokumenten betreffs offener Fragen zu schriftlicher Erfassung und Verbleib der in der Kirche bestatteten Toten und deren Grabbeigaben <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span> - (offen)
+- TOP 13.7: Kurzparkmöglichkeiten vor Kindertagesstätte "Mockauer Spatzen" <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span> - (offen)
+- TOP 13.8: Namensvergabe für Wege im Leipziger Zoo <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span> - (offen)
+- TOP 13.9: Nachfolgeregelung/Auswahlverfahren für Amtsleiter/in Branddirektion Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span> - (offen)
+- TOP 13.10: Aufbau eines kommunalen Wohnungsbauprogramms <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 13.11: Adresse der Kita und Förderschule am Standort Curiestraße <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 13.12: Fußgängerüberwege an allen Zu- und Ausfahrten des Kreisverkehrs am Herzliya-Platz optimieren <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - (offen)
+- TOP 13.13: kommunales Förderprogramm "Schallschutzfenster in Bestandsgebäuden" auflegen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - (offen)
+- TOP 13.14: Planungen zum Bau des Stadthafens und seines Umfeldes evaluieren <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - (offen)
+- TOP 13.15: Erhöhung des Ausgleichsbetrages im Verkehrsleistungsfinanzierungsvertrag <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Nachhaltige Sicherung des Objektes Schkorlopper Straße 34, 04249 Leipzig als Vereinshaus <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Hartmannsdorf-Knautnaundorf)</span> - vertagt
+- TOP 14.1.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Wirtschaft und Arbeit)</span> - vertagt
+- TOP 14.2: Einrichtung eines Runden Tisches zum Thema "Wohnen in Leipzig für Menschen mit Migrationsgeschichte / Fluchterfahrung" <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Migrantenbeirat)</span> - geändert beschlossen
+- TOP 14.2.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - zur Kenntnis genommen
+- TOP 14.2.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - ungeändert beschlossen
+- TOP 14.3: Anpassung der Zuwendungsvoraussetzungen der Fachförderrichtlinie des Amtes für Umweltschutz <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - ungeändert beschlossen
+- TOP 14.3.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Umwelt, Ordnung, Sport)</span> - zur Kenntnis genommen
+- TOP 14.4: Ergänzung der Sondernutzungssatzung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Beirat für Gleichstellung von Frau und Mann)</span> - geändert beschlossen
+- TOP 14.4.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - ungeändert beschlossen
+- TOP 14.5: Aussetzung von Maßnahmen nach STEP Verkehr und öffentlicher Raum aus 2014 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - abgelehnt
+- TOP 14.5.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - zur Kenntnis genommen
+- TOP 14.6: Verkehrsleitsystem - Maßnahmen zur Begrenzung der Schadstoffbelastung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion Einreicher: SPD-Fraktion)</span> - vertagt
+- TOP 14.6.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - vertagt
+- TOP 14.7: Aufbau einer Selbstversicherung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - geändert beschlossen
+- TOP 14.7.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - ungeändert beschlossen
+- TOP 14.8: Einführung einer Strategischen Sozialplanung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - vertagt
+- TOP 14.8.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - vertagt
+- TOP 14.9: Gedenken an politisch motiviertes Unrecht im Gebäudekomplex Riebeckstraße <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - ungeändert beschlossen
+- TOP 14.9.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - zur Kenntnis genommen
+- TOP 14.9.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - zur Kenntnis genommen
+- TOP 14.10: Fahrradstraßen im Musikviertel <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Jugendbeirat/Jugendparlament)</span> - geändert beschlossen
+- TOP 14.10.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - geändert beschlossen
+- TOP 14.10.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - ungeändert beschlossen
+- TOP 14.11: Kennzeichnungspflicht für den Stadtordnungsdienst <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Jugendbeirat/Jugendparlament)</span> - geändert beschlossen
+- TOP 14.11.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Umwelt, Ordnung, Sport)</span> - zur Kenntnis genommen
+- TOP 14.11.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - zurückgezogen
+- TOP 14.12: Strategiekonferenz zur Wohnungslosigkeit in Leipzig einberufen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - geändert beschlossen
+- TOP 14.12.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - zur Kenntnis genommen
+- TOP 14.12.2: Strategiekonferenz zur Wohnungslosigkeit in Leipzig einberufen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 14.13: Leipzig als Modellregion für fahrscheinlosen Nahverkehr <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Gabelmann, Ute Elisabeth)</span> - geändert beschlossen
+- TOP 14.13.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - zur Kenntnis genommen
+- TOP 14.14: Gemeinsam für Leipzig - Synergien in der L-Gruppe für Leipzig nutzen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - vertagt
+- TOP 14.14.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - vertagt
+- TOP 14.15: Straßen in neuen Stadtvierteln sinnvoll benennen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - abgelehnt
+- TOP 14.15.1: dazu VSP <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - zur Kenntnis genommen
+- TOP 15: Anfragen an den Oberbürgermeister - (offen)
+- TOP 15.1: Grundsteuer <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - zur Kenntnis genommen
+- TOP 15.2: Stand der Umsetzung Einigung über die zukünftige Nutzung des ehemaligen Stasi-Kinosaals auf dem Grundstück Goerdelerring 20 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - zurückgezogen
+- TOP 15.3: Illegale Müllablagerungen - wie groß ist der Schaden? <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - zur Kenntnis genommen
+- TOP 15.4: Erteilungspraxis von Sondernutzungserlaubnissen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - zur Kenntnis genommen
+- TOP 15.5: Erkenntnisse aus dem Schulversuch ERINA für gelingende Inklusion <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - (offen)
+- TOP 15.6: Lastenfahrräder fördern <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - zur Kenntnis genommen
+- TOP 15.7: Krähenalarm jetzt auch in Leipzig? <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - (offen)
+- TOP 15.8: Speisenversorgung in Kitas und Schulen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - (offen)
+- TOP 15.9: Auswirkungen der Datenschutz-Grundverordnung (DS-GVO) auf die Stadtverwaltung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - (offen)
+- TOP 15.10: Änderung der strategischen Liegenschaftspolitik <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion Einreicher: Fraktion DIE LINKE Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - (offen)
+- TOP 15.11: Anfrage zur Vorlage VI-DS-05434 "Überplanmäßige Aufwendungen nach § 78 SächsGemO in Anlehnung an § 79 Absatz 1 SächsGemO für die Kinder- und Jugendförderung und Zuschüsse für Vereine und Verbände im Sozial- und Gesundheitsamt" <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - (offen)
+- TOP 15.12: Leipziger Wasserwege - Instandhaltung, Gebühren und Ausbau <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - (offen)
+- TOP 15.13: Verbleib von Karstadt <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - (offen)
+- TOP 15.14: Stand der Baumaßnahmen Unterkunft für unbegleitete minderjährige AusländerInnen, Offener Treff und Spielmobilstandort in der Prinz-Eugen-Straße 34 ("Am Mühlholz") <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 15.15: Situation der kommunalen Offenen Treffs <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 15.16: Umsetzung der Pflichtquote zur Beschäftigung Schwerbehinderter <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 15.17: Grünflächenunterhaltung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Wohlfarth, Nicole)</span> - (offen)
+- TOP 15.18: Umsetzung von Änderungen der Sächsischen Gemeindeordnung in der Hauptsatzung der Stadt Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - (offen)
+- TOP 15.19: Vorläufiger Jahresabschluss 2017 und Gründe für die Haushaltssperre <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - zur Kenntnis genommen
+- TOP 16: Bericht des Oberbürgermeisters - (offen)
+- TOP 17: Spenden, Schenkungen und ähnliche Zuwendungen - (offen)
+- TOP 17.1: Entscheidung über die Annahme von Spenden, Schenkungen der Stadt Leipzig und ähnliche Zuwendungen gem. § 73 (5) SächsGemO bis zu einem Wert von 1.000 € bis März 2018 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Finanzen)</span> - ungeändert beschlossen
+- TOP 18: Vorlagen I - (offen)
+- TOP 18.1: 3. Änderung zum Bau- und Finanzierungsbeschluss DS-00553/14 vom 25.02.15 Oberschule Ratzelstraße aufgrund von Mehrkosten im Zusammenhang mit der Bestätigung einer überplanmäßigen Auszahlung nach § 78 SächsGemO in Anlehnung an § 79 (1) SächsGemO- Eilbedürftig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 18.2: Neubau 4-zügige Grundschule mit Schulhort und Sporthalle, Baumannstraße 13 in Verbindung mit der Bestätigung einer überplanmäßigen Auszahlung gemäß § 78 SächsGemO in Anlehnung an § 79 (1) SächsGemO <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - geändert beschlossen
+- TOP 18.2.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - zur Kenntnis genommen
+- TOP 18.3: Grundschule, Thierschstraße, 04289 Leipzig, Neubau i.V.m. Bestätigung einer überplanmäßigen Verpflichtungsermächtigung nach § 81(5) SächsGemO <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 18.4: Kindertagesstättenplanung der Stadt Leipzig für den Planungszeitraum Januar bis Dezember 2018 sowie Januar bis Dezember 2019; Fortschreibung 2020 bis 2022 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - geändert beschlossen
+- TOP 18.4.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span> - ungeändert beschlossen
+- TOP 18.4.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: AfD-Fraktion)</span> - zur Kenntnis genommen
+- TOP 18.4.3: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - ungeändert beschlossen
+- TOP 18.4.4: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - zur Kenntnis genommen
+- TOP 18.4.5: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - zur Kenntnis genommen
+- TOP 18.5: Integriertes Stadtentwicklungskonzept Leipzig 2030 (INSEK) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - vertagt
+- TOP 18.5.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Engelsdorf)</span> - vertagt
+- TOP 18.5.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - vertagt
+- TOP 18.5.3: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Mölkau)</span> - vertagt
+- TOP 18.5.4: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Beirat für Gleichstellung von Frau und Mann)</span> - vertagt
+- TOP 18.5.5: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span> - vertagt
+- TOP 18.5.6: Integriertes Stadtentwicklungskonzept Leipzig 2030 (INSEK) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Heller, Jessica)</span> - vertagt
+- TOP 18.6: Integriertes Stadtteilentwicklungskonzept Grünau 2030 (STEK Grünau) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - ungeändert beschlossen
+- TOP 18.7: Unterbringung des Stadtarchivs - 1. Nachtrag zum Mietvertrag <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung Einreicher: Dezernat Stadtentwicklung und Bau)</span> - ungeändert beschlossen
+- TOP 18.8: 2. Änderung zum Bau- und Finanzierungsbeschluss im Berufsschulzentrum 7, Neustädter Straße 1, 04315 Leipzig in Verbindung mit der Bestätigung einer überplanmäßigen Auszahlung nach § 78 SächsGemO in Anlehnung an den § 79 (1) SächsGemO <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 18.9: Steuerung der Eigenbetriebe der Stadt Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Finanzen)</span> - ungeändert beschlossen
+- TOP 18.10: Bebauungsplan Nr. 236 "Radefelder Allee Südost"; Stadtbezirk Nordwest, Ortsteil Lützschena-Stahmeln; Satzungsbeschluss <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - vertagt
+- TOP 18.11: Bebauungsplan Nr. 428 "Gewerbegebiet Plagwitz Süd/Markranstädter Straße"; Stadtbezirk Südwest, Ortsteil Plagwitz; Erweiterung des Geltungsbereiches des Aufstellungsbeschlusses <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - ungeändert beschlossen
+- TOP 18.12: (nichtöffentlich)
+- TOP 18.13: (nichtöffentlich)
+- TOP 18.14: Änderung der Vergnügungsteuersatzungen der Stadt Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Finanzen)</span> - ungeändert beschlossen
+- TOP 18.15: Kommunalwahlen 2019: Zahl der Stadtrats- und Ortschaftsratsmitglieder, Stadtratswahlkreise <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - ungeändert beschlossen
+- TOP 18.15.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - abgelehnt
+- TOP 18.16: Straßenbenennung 1/2018 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - vertagt
+- TOP 18.16.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Mitglieder des FA Umwelt und Ordnung)</span> - vertagt
+- TOP 18.16.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Rückmarsdorf)</span> - vertagt
+- TOP 18.16.3: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Freibeuter)</span> - vertagt
+- TOP 18.17: Fortschreibung der Eigentümerziele der Stadt Leipzig für die Leipziger Entwicklungs- und Vermarktungsgesellschaft mbH & Co. Grundstücks-KG (LEVG) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - vertagt
+- TOP 18.17.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span> - vertagt
+- TOP 18.17.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - zurückgezogen
+- TOP 18.17.3: Fortschreibung der Eigentümerziele der Stadt Leipzig für die Leipziger Entwicklungs- und Vermarktungsgesellschaft mbH & Co. Grundstücks-KG (LEVG) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - vertagt
+- TOP 18.18: Überplanmäßige Aufwendungen nach § 78 SächsGemO in Anlehnung an § 79 (1) SächsGemO für das Jahr 2018 für die konsumtive Ausstattung von schulischen Objekten im Rahmen der Verschiebung der Fertigstellung von Baumaßnahmen <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - vertagt
+- TOP 18.19: Kommunales Programm zur Förderung von MINT-Aktivitäten und Vorbereitung von Jugendlichen auf die Arbeitswelt 4.0 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Wirtschaft und Arbeit)</span> - vertagt
+- TOP 18.20: Stellungnahme der Stadt Leipzig zum Beteiligungsentwurf des Regionalplans Leipzig-Westsachsen 2017 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - vertagt
+- TOP 18.20.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: SPD-Fraktion)</span> - vertagt
+- TOP 18.20.2: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Lindenthal)</span> - vertagt
+- TOP 18.20.3: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Lützschena-Stahmeln)</span> - vertagt
+- TOP 18.20.4: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - vertagt
+- TOP 18.20.5: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion Bündnis 90/Die Grünen)</span> - vertagt
+- TOP 18.20.6: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - vertagt
+- TOP 18.20.7: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Seehausen)</span> - vertagt
+- TOP 18.20.8: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Ortschaftsrat Mölkau)</span> - vertagt
+- TOP 19: Informationen I - (offen)
+- TOP 19.1: Sportprogramm 2024 für die Stadt Leipzig - Umsetzungsbericht Stand 31.12.2017 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Umwelt, Ordnung, Sport)</span> - vertagt
+- TOP 19.2: EFRE-Fördergebiet Leipziger Westen 2014-2020 1. Änderung zum Beschluss VI-DS-03124, Förderung von Baumaßnahmen- Philippus Leipzig, Aurelienstraße 54 - Energetische und bauliche Sanierung des Kirchenbaues incl. Nebenräume zu einem öffentlichem Veranstaltungsort, 1. BA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Bau)</span> - vertagt
+- TOP 19.3: Umsetzung des Beschlusses der Ratsversammlung VI-A-03534 zur Einführung eines Internen Kontrollsystems (IKS) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Allgemeine Verwaltung)</span> - vertagt
+- TOP 19.4: Jobcenter Leipzig: Zielabrechnung 2017 und Zielvereinbarung 2018, Arbeitsmarkt- und Integrationsprogramm 2018 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Wirtschaft und Arbeit)</span> - vertagt
+- TOP 19.5: Kosten der Unterkunft und Heizung: Anpassung der Richtwerte für Leistungsberechtigte nach dem SGB II und SGB XII <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - vertagt
+- TOP 19.5.1: dazu ÄA <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion DIE LINKE)</span> - vertagt
+- TOP 20: nicht öffentlicher Tagesordnungspunkt
+- TOP 21: nicht öffentlicher Tagesordnungspunkt
+- TOP 22: nicht öffentlicher Tagesordnungspunkt
+- TOP 23: nicht öffentlicher Tagesordnungspunkt
+- TOP 24: nicht öffentlicher Tagesordnungspunkt
+- TOP 25: nicht öffentlicher Tagesordnungspunkt
