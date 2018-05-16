@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-05-16T15:00:00+02:00
+- Ende: 2018-05-16T19:02:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4096
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4096
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 29. Sitzung des Rates am 15.02.2018 - öffentlicher Teil - Siehe Anlage - Zur Kenntnis genommen
+- TOP 2: Niederschrift über die 30. Sitzung des Rates am 21.03.2018 - öffentlicher Teil - Siehe Anlage - Zur Kenntnis genommen
+- TOP 3: Mönchengladbacher Tafel e.V. - Einstimmiger Beschluss
+- TOP 4: HSP-Umsetzungsbericht 15.04.2018 - Kenntnisnahme
+- TOP 5: Beteiligung an der Flughafengesellschaft Mönchengladbach GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 5.1: Vorlage Nr. 2954/IX (TOP 5): Beteiligung der NEW mobil & aktiv Mönchengladbach an der Flughafengesel - Einstimmiger Beschluss
+- TOP 6: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 - Kenntnisnahme
+- TOP 7: Jahresrechnung 2017 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 8: Vertretung der Stadt in Gremien von Beteiligungsgesellschaften - Einstimmiger Beschluss
+- TOP 9: Vertretung der Stadt in Gremien von Beteiligungsgesellschaften - Gewählt nach Hare Niemeyer
+- TOP 9.1: TOP 9: Neubesetzung des Aufsichtsrates der Flughafengesellschaft; Vorlagen-Nr. 3097/IX - Getrennte Abstimmung (s. Niederschrift)
+- TOP 10: Rahmenplan "Offener Ganztag und schulische Betreuung" - Mit Stimmenmehrheit beschlossen
+- TOP 11: OGS im Primarbereich - Einstimmiger Beschluss
+- TOP 12: Bestellung von ständigen Mitgliedern mit beratender Stimme im Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 13: Abschluss einer Leistungsvereinbarung mit dem Flüchtlingsrat e.V. - Mit Stimmenmehrheit beschlossen
+- TOP 14: Feststellung einer verbindlichen Bedarfsplanung - Einstimmiger Beschluss
+- TOP 15: Verlängerung der Leistungsvereinbarung Mahlzeitendienst - Einstimmiger Beschluss
+- TOP 16: Vertragsneuabschluss mit der Verbraucherzentrale - Einstimmiger Beschluss
+- TOP 17: Umbesetzung des Jugendhilfeausschusses - Einstimmiger Beschluss
+- TOP 18: BP 782/W -Stadtbezirk West - Rheindahlen-Land, Mennrath - Mit Stimmenmehrheit beschlossen
+- TOP 19: Werbeanlagensatzung Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 778/N - Stadtbezirk Nord - Stadtteil Venn - Einstimmiger Beschluss
+- TOP 21: Dritte Änderung des Landschaftsplanes - Einstimmiger Beschluss
+- TOP 22: Gestaltungsrichtlinie der Stadt Mönchengladbach Sondernutzungserlaubnisse Innenstadt Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 23: Sanierung der Kaiser-Friedrich-Halle: Geschossdecken und Lüftungsanglage - Mit Stimmenmehrheit beschlossen
+- TOP 24: Neuwahl des Verbandsrates des Niersverbandes - Einstimmiger Beschluss
+- TOP 25: Alternatives Grundstück zum Bau einer Tiefgarage im Geropark - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Digitalisierungsbericht; hier: Antrag der FDP-Ratsfraktion vom 24.04.2018 - Vom Antragsteller zurückgezogen
+- TOP 27: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 27.1: Bestellung eines beratenden Mitgliedes in den Ausschuss für Finanzen und Beteiligungen - Einstimmiger Beschluss
+- TOP 28: Anfragen und Mitteilungen
+- TOP 28.1: Anfrage von RH Willi Schmitz (CDU)
+- TOP 28.2: Anfrage von RH Gutowski (FDP)
+- TOP 28.3: Anfrage von RH Dr. Wolkowski (Bündnis 90/Die Grünen)
+- TOP 28.4: Anfrage von RH Heinrichs (SPD)
+- TOP 28.5: Anfrage von RH Schoutz
+- TOP 28.6: Tagesordnungspunkt (betrifft Privatpersonen)
