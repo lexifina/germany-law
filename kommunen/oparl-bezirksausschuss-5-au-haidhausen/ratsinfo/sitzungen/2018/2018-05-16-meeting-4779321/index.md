@@ -1,0 +1,176 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-05-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4779321
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4779321
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.2.: Wahl des/der Vorsitzenden des UA Soziales
+- TOP 1.3.: Nachbesetzung des/der REGSAM Beauftragten
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 3.1.: Vorstellung des neuen Seniorenbeirats
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.4.: Lesung 5. Mai 1919/2019
+- TOP 2.2.: Sieboldstr. 4: Aufstockung einer Halle um eine Dreifachsporthalle (Sieboldstr. 4 / Auerfeldstr.)
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: A 7.2 ASZ-Flohmarkt auf dem Gehweg Wolfgangstraße 18 am 09.06.2018
+- TOP 2.3.: A 8.3.4 Entscheidung für den 15. Stadtbezirk Trudering-Riem als Einsatzstandort für den Kinder-Aktions-Koffer 2019
+- TOP 2.4.: A 8.3.5 Gastronomische Nutzung des Wasserkraftwerks Maxwerk (Schreiben Münchner Forum)
+- TOP 2.5.: zu B V 3.9 Eilantrag Lüftungsanlage im Rahmen der Sanierung der GS Mariahilfplatz
+- TOP 2.6.: zu C 1 Eilantrag Umsetzung der Sanierungspläne für den Jugendtreff Au am Kegelhof
+- TOP 2.7.: C 4.8 Barrierefreier Zugang zur Isar, Informationstermin am 13.06.2018 um 16 Uhr
+- TOP 2.8.: C 4.9 Jahresdienstversammlung 2018 der Freiwilligen Feuerwehr München am 17.05.2018 um 19.30 Uhr
+- TOP 2.9.: C 4.10 Oktoberfest 2018, Reservierung der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 4.2.1.: Akuter Notstand bei der Nachmittagsbetreuung in der Grundschule Mariahilfplatz
+- TOP 4.2.2.: Verfallendes und verschandeltes Haus Preysingplatz 8
+- TOP 4.2.3.: Vorkaufsrecht Ohlmüllerstraße
+- TOP 4.2.4.: Umbaumaßnahmen Pariser Platz – Horror vacui
+- TOP 5.1.: Taktverdichtung auf der Trambahnlinie 18
+- TOP 5.2.: Kein Parken auf den Gehsteigen in der Hochstraße
+- TOP 5.3.: Fortschrittsbericht zur Umsetzung des „Sauba Sog I“ Bürgerbegehrens
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Freunde Haidhausens - Verein für Haidhausen e.V. Beschaffung, Herrichten und Transport des Haidhauser Maibaums und Aufstellung mit Fest am 05.05.2018 2.500,00€ Az. 0262.0-5-0192
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt "Zirkus Pumpernudl" vom 20.07.-22.07.2018 1.446,00 € Az: 0262.0-5-0193
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche für das „Eckcafe“, Metzstr. 37 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Erweiterung einer bestehenden Freischankfläche für das „metz 7“, Metzstr. 7 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.3.: Erweiterung einer bestehenden Freischankfläche für das „b.good“, Weißenburger Str. 36 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.4.: Genehmigung einer Freischankfläche für das Tagescafe in der Einsteinstr. 34 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.5.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund für die „Wiedemann Parfümerie“, Steinstr. 9 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Absolutes Haltverbot im Bereich Übergang Sommerstraße 9, Eduard-Schmid-Straße 35
+- TOP 6.3.2.: (E) Aufstellung von Fahrradständern rund um das Maria-Theresia-Gymnasium
+- TOP 6.3.3.: (E) Verschönerung des Zita-Zehner-Platzes Empfehlung Nr. 14-20 / E 01915 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 22.02.2018
+- TOP 7.1.: Anhörung der Bezirksausschüsse zur Änderung der BA-Satzung und BA-GeschO
+- TOP 8.1.1.: Ein Stadtviertelbus für die Au
+- TOP 8.1.2.: Auskunftsrecht des Bezirksausschusses bezüglich Angelegenheiten privatrechtlich organisierter Unternehmen der Landeshauptstadt München, des Freistaats Bayern und des Bundes Anfrage
+- TOP 8.1.3.: Seit Jahren leerstehendes Wohnhaus Kirchenstr. 14
+- TOP 8.1.4.: Auskunft zu Baumaßnahmen des RBS
+- TOP 8.1.5.: Baumgräben in der Lothringer Straße instand setzen
+- TOP 8.1.6.: Anfrage zur Schulentwicklungsplanung
+- TOP 8.1.7.: Vorgesehene Sanierungsarbeiten an der GS Mariahilfplatz, sowie der dortigen Kita und dem Hort
+- TOP 8.1.8.: Fehlbelegung von öffentlich geförderten Familienwohnungen im Stadtbezirk
+- TOP 8.1.9.: Schulwegsicherheit am Gebsattelberg
+- TOP 8.2.1.: Verkehrsregelung Einfahrt Lucile-Grahn-Straße in Einsteinstraße Antwortschreiben auf Bürgeranliegen
+- TOP 8.3.1.: Baustellenbedingte Liniennetzänderungen bei den Tramlinien 16,17,19,20,21,25,27 und 28 sowie N17 vom 07.05.-29.07.2018
+- TOP 8.3.2.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 8.3.3.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts Sitzungsvorlagen Nr. 14-20 / V 11392, Beschluss der Vollversammlung des Stadtrats am 25.04.2018
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Metzstr. 29 a: Fällung von 1 Pappel
+- TOP 7.2.: Trogerstr. 17 b: Fällung von 1 Eibe
+- TOP 7.3.: Orleansstr. 10: Fällung von 1 Linde
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Besprechung mit dem Hoch X wegen eines Straßenfests in der Entenbachstraße
+- TOP II.2.: Termin für die Enthüllung der Gedenktafel der Familie Schülein in der Einsteinstr. 42
+- TOP II.3.: Fest der Demokratie auf der Theresienwiese am 07.11.2018 Beteiligung aller Bezirksausschüsse
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: „kitabarometer“ - Elternbefragung zum Bedarf an Kindertagesbetreuung in München Beschluss des Bildungsausschusses des Stadtrates vom 13.06.2018 (VB) Anhörung der Bezirksausschüsse
+- TOP 2.2.: Austausch des Baucontainers auf der Postwiese Bitte um Unterstützung von AKA
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Wiederaufnahme des Betriebs der Kindertagesstätte Kirchenstr. 17a ab 23.04.2018
+- TOP 3.2.: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung, Sitzungsvorlage Nr. 14-20 / V 11072; Beschluss des Bauausschusses vom 10.04.2018
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Freunde Haidhausens – Verein für Haidhausen e.V. Beschaffung, Herrichten und Transport des Haidhauser Maibaums und Aufstellung mit Fest am 05.05.2018 2.500,00 €
+- TOP 1.2.: Budget der Bezirksausschüsse PA/Spielen in der Stadt Zirkus „Pumpernudl“ vom 20.07.-22.07.2018 1.446,00 €
+- TOP 1.3.: Erweiterung einer bestehenden Freischankfläche für das „Eckcafe“, Metzstr. 37
+- TOP 1.4.: Erweiterung einer bestehenden Freischankfläche für das „metz 7“, Metzstr. 7
+- TOP 1.5.: Erweiterung einer bestehenden Freischankfläche für das „b.good“, Weißenburger Str. 36
+- TOP 1.6.: Genehmigung einer Freischankfläche für das Tagescafe in der Einsteinstr. 34
+- TOP 1.7.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund für die „Wiedemann Parfümerie“, Steinstr. 9
+- TOP 2.: Anhörungen
+- TOP 2.1.: Info-Stand „Moralische Grundwerte“ am 15.06.2018 am Weißenburger Platz
+- TOP 2.2.: Skate-Programm High Five vom 21.05.-31.10.2018 im Hypopark - Zustimmung am 03.05.2018 gem. § 20 Abs. 1 Satz 2 BezirksausschussSatzung -
+- TOP 2.3.: Skateboardworkshops vom 22.05.-25.05.2018 in den Skatenanlagen Grünlange Tassiloplatz und an der Postwiese - Zustimmung am 03.05.2018 gem. § 20 Abs. 1 Satz 2 BezirksausschussSatzung -
+- TOP 2.4.: Straßenfest vom 15.06. - 17.06.2018 in der Breisacher Str. 22
+- TOP 2.5.: Leuchtenbergring 20: 2 temporäre Werbeschilder an Bautafelgestell / einseitig, unbeleuchtet – befristet vom 19.02. - 18.04.2018 - Rückfrage des BA 5 am 03.05.2018 -
+- TOP 2.6.: Entscheidung über Sondernutzungserlaubnis Antrag auf Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund Warenauslage für „Hands Gallery“, Pariser Str. 21 (TOP 6.2.1 vom 21.03.2018) Einspruch / Anhörung des Kreisverwaltungsreferats
+- TOP 2.7.: Gemeindefest der evangelischen Kirchengemeinde am 08.07.2018 in der Preysingstr. 17
+- TOP 2.8.: Public Viewing zur WM 2018 vom 10.07.-15.07.2018 in der Breisacher-/ Elsässer Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Abbaulärm der Dult Schausteller bis weit in die Nacht / Morgenstunden hinein Antwortschreiben Referat für Arbeit und Wirtschaft zu Bürgeranliegen
+- TOP 3.2.: Ausnahmegenehmigung Skateparkmobil im Zeitraum 13.05.-16.09.2018 in der Grünanlage „Postwiese“
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Öffnung des Kiosk am Pariser Platz auch an Sonn- und Feiertagen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Orleansstr. 70: Temporäre Nutzungsänderung für den Kfz-Verkauf, befristet auf 3 Jahre
+- TOP 2.3.: 5. Pavillonbauprogramm Beschlussvorlage des Referats für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung am 03.07.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften Sitzungsvorlagen Nr. 14-20 / V 09931, Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018
+- TOP 3.2.: Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referats für Stadtplanung und Bauordnung zur Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung Sitzungsvorlagen Nr. 14-20 / V 10520, Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018
+- TOP 3.3.: Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Sitzungsvorlagen Nr. 14-20 / V 10817, Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018
+- TOP 3.4.: Vorbescheid Maria-Theresia-Str. 4
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 3.7.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 3.8.: Am Neudeck 10 – 14: Nutzungsänderung der ehem. JVA zu einem Wohngebäude (128 WE), Umbau und Sanierung der Bestandsgebäude, Anfügen von Anbauten und DG-Ausbau, Neubau einer Tiefgarage (80 Stpl.) - TEKTUR – jetzt 127 WE + 82 Stpl.; Baugenehmigung
+- TOP 3.9.: Vorgesehene Sanierungsarbeiten an der GS Mariahilfplatz, sowie der dortigen Kita und dem Hort BA-Antrag Nr. 14-20 / B 04451 (siehe auch TOP 8.1.7)
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: MVG Leistungsprogramm 2019 - Stellungnahme des AAN und BN - Stellungnahme des Fahrgastverbands PRO BAHN
+- TOP 2.2.: Touristikbusse am Gasteig
+- TOP 2.3.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Wörthstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: MVV-Fahrplanänderungen ab Mai, Juni und Dezember 2018
+- TOP 3.2.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 3.3.: Ismaninger Straße zwischen Max-Weber-Platz und Herkomer Platz Gleissanierung – Los 1 und Los 2
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Problembereich Rosenheimer Straße
+- TOP 4.2.: Glascontainer über dem Auer Mühlbach
+- TOP 4.3.: Alternativvorschlag zur „Nur vorwärts einparken“-Vorschrift in der Asamstraße
+- TOP 4.4.: Parkschilder St.-Wolfgangs-Platz
+- TOP 4.5.: Einrichtung von Tempo 30 in der Welfenstraße Verweisung aus der Sitzung vom 18.04.2018
+- TOP 4.6.: Fahrradweg Ohlmüllerstraße Verweisung aus der Sitzung vom 18.04.2018
+- TOP 4.7.: Fahrradstraßen in München (Preysingstraße) Rückmeldung der Stabstelle Radverkehr
+- TOP 4.8.: Verkehrsberuhigung der Trogerstraße – Abschnitt Perfall- und Prinzregentenstraße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 11.06.2018, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 11.06.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 12.06.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 13.06.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 14.06.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 20.06.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 05.06.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: AKIM - Allparteiliches Konfliktmanagement in München am 20.06.2018 (Terminabsprache)
+- TOP 4.2.: Ortstermin mit Klinikum rechts der Isar am 12.06.2018, 16:00 – ca. 18:30 Uhr, Treffpunkt: Cafeteria Tranlatum
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Theaterabend im Oratorium Don Bosco am 15.05.2018 um 19.30 Uhr
+- TOP 4.5.: Bürgerforum Altenpflege am 29.05.2018 um 18 Uhr zum Thema „Selbstbestimmung bei Demenz“
+- TOP 4.6.: Mieterfest der GWG-Wohnanlage Au-Haidhausen am 18.05.2018 um 14 Uhr
+- TOP 4.7.: Sommerspielaktion vom 12.06.-14.06.2018 in den Frühlingsanlagen, jeweils von 15-19 Uhr
