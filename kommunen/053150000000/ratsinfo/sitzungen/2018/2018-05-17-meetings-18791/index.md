@@ -1,0 +1,71 @@
+# 33. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-17T15:00:00+02:00
+- Ende: 2018-05-17T18:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18791
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18791
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Gemeinsame Anfrage der SPD-Fraktion, der CDU-Fraktion, der Fraktionen Bündnis 90/Die Grünen, der Fran - Kenntnis genommen
+- TOP 1.2: Fitnesscenter in Gewerbegebieten; Anfrage des RM Frenzel aus der 28. Sitzung des Stadtentwicklungsausschusses vom 09.11.2017 - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Nah- und Fernwärme in Köln
+- TOP 2.1.2: Städtebauförderung nutzen - Sache ist erledigt
+- TOP -: Antwort zu der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen (AN/0406/2018) " Städtebauförderung nutzen" vom 15.03.2018 - Kenntnis genommen
+- TOP 2.1.3: Genossenschaftlicher Wohnungsbau in Köln/Wohnungsbauleitstelle
+- TOP 2.1.4: „Starke Veedel – starkes Köln“ weiterhin in Gefahr? - Sache ist erledigt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates der SPD Fraktion (AN/0604/2018), "Starke Veedel - Starkes Köln" weiterhin in Gefahr? - Kenntnis genommen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Hallen Kalk - Werkstattverfahren für die Katz‘?
+- TOP 2.2.2: 3D-Bebauungspläne in Köln?
+- TOP 2.2.3: Bebauungsplanaufstellung für Lövenich
+- TOP 3: Anträge
+- TOP 3.1: Bekanntmachung des Städtebauförderprogramms „Investitionspakt Soziale Integration im Quartier NRW 2018“ Köln muss sich um Förderungen für soziale Integration im Quartier bemühen! - zurückgestellt
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Grundstücksverkauf im Sürther Feld in Köln-Rodenkirchen, 3. Bauabschnitt - zurückgestellt
+- TOP -: TOP 1.2 Grundstücksverkauf im Sürther Feld 3. Bauabschnitt – Baufelder „Sonnentauweg“ u. „Waldmeisterweg“ – Konzeptausschreibung, 0718/2018 - zurückgestellt
+- TOP -: Änderungsantrag zur Vorlage 0718/2018, Grundstücksverkauf im Sürther Feld in Köln-Rodenkirchen, 3. Bauabschnitt, Baufelder "Sonnentauweg" und "Waldmeisterweg" - Konzeptausschreibung - zurückgestellt
+- TOP 6.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6.3: Stärkung und Ausweitung des KVB-Busnetzes - ohne Votum in nachfolgende Gremien
+- TOP 6.4: Stärkung und Ausweitung des KVB-Busnetzes - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Eisenbahnsiedlung; frühz. Öffentlichkeitsbeteiligung; Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - geändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Glashüttenstraße in Köln-Porz; 74399/04; Ergänzte Beschlussvorlage zu Session-Nr. 3552-2015 - zurückgestellt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.3: Ringstraße 38 - 46 in Köln-Rodenkirchen; Einleitungsbeschluss - ungeändert beschlossen
+- TOP -: Änderungsantrag zu StEA TOP 10.3, Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: Ringstraße 38 - 46 in Köln-Rodenkirchen - endgültig abgelehnt
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP -: Änderungsantrag zu StEA TOP 10.4, Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - endgültig zurückgezogen
+- TOP 10.5: Eygelshovener Straße/Sürther Straße in Köln-Rodenkirchen/Aufstellung B-Plan; Eygelshovener Straße in Köln-Rodenkirchen/Aufhebung Einleitungsbeschluss - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Kasernenstraße in Köln-Kalk; 71455/01; Satzungsbeschluss - geändert beschlossen
+- TOP 12.2: Euroforum Nord in Köln-Mülheim, 1. Änderung; 69460/07; Satzungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Teilaufhebung des Bebauungsplans Nr. 70451/03 – Arbeitstitel: MHD Gelände in Köln-Kalk;Stellungnahme der Bezirksvertretung Kalk zu den Ergebnissen der frühzeitigen ;Öffentlichkeitsbeteiligung, Beschluss über die Fortführung des Teilaufhebungsverfahre - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Neue Kölner Statistik 2/2018 - Kraftfahrzeuge - Kenntnis genommen
+- TOP 17.2: Neue Kölner Statistik 3/2018 Hohe Zahl an Wohnungen im Bau - viele Wohnbauflächen in Planung - Kenntnis genommen
+- TOP 17.3: Bekanntmachung der Broschüre "Gemeinsam fürs Klima in Bilderstöckchen - Eine Erfolgsgeschichte über Bürgerengagement auf Stadtteilebene" - Kenntnis genommen
+- TOP 17.4: Gewerbegebiet Langel in Köln-Fühlingen/Merkenich, 7. Änderung; B-Plan-Entwurf 6456/06; Offenlage - Kenntnis genommen
+- TOP 17.5: Stadtbahnanbindung Rondorf/Meschenich; Erhöhung der geplanten Wohneinheiten von 1.000 WE auf 1.300 WE - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
