@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-17T15:30:00+02:00
+- Ende: 2018-05-17T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18780
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18780
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag der Fraktion DieLinke betreffend "Gebührenbefreiung für die Ausstellung von Ausweispapieren" - zurückgestellt
+- TOP 2.2: Antrag der FDP-Fraktion betreffend "Prüfbericht zu den Nutzungsvereinbarungen zur Flüchtlingsunterbringung in Hotels" - ungeändert beschlossen
+- TOP 2.3: Präventive Hausbesuche - geändert beschlossen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen; Satzung der Stadt Köln über die Erhebung von Gebühren für die Inanspruchnahme von Einrichtungen für obdachlose Personen - ungeändert beschlossen
+- TOP 4.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o.Nr., 50765 Köln-Blumenberg, Planungsbeschluss - ungeändert beschlossen
+- TOP 4.3: Verteilung von Restmitteln zur Förderung von Interkulturellen Zentren für das Jahr 2018 - Teil II - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.2: Neue Kölner Statistik 3/2018 Hohe Zahl an Wohnungen im Bau - viele Wohnbauflächen in Planung - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Anfrage der Fraktion DieLinke betreffend "Steigende Kosten für das Flüchtlingszentrum „Fliehkraft“" - zurückgestellt
+- TOP 9.1.2: Anfrage der Fraktion DieLinke betreffend "Selbstbeteiligung bei der Unterbringung von Geflüchteten in Hotels" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung betreffend "Selbstbeteiligung bei der Unterbringung von Geflüchteten in Hotels" - Kenntnis genommen
+- TOP 9.1.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Flüchtlingsunterbringung Rubensstraße" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Flüchtlingsunterbringung Rubensstraße (AN/0716/2018)" - Kenntnis genommen
+- TOP 9.1.4: Anfrage der SPD-Fraktion betreffend "Unterbringung von Flüchtlingen" - zurückgestellt
+- TOP 9.2: 20. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.3: Informationen zur Ombudsstelle für Flüchtlinge - Kenntnis genommen
+- TOP 9.4: Ressourcenmanagement zur Unterbringung Geflüchteter - Sachstand I. Quartal 2018 - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Erläuterung von amtlichen Bescheiden in „Leichter Sprache“" - zurückgestellt
+- TOP 11.1.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht (0465/2018)" - zurückgestellt
+- TOP 11.1.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Beförderung von E-Scootern durch die KVB: Einsatz der blauen Plakette" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Beförderung von E-Scootern durch die KVB: Einsatz der blauen Plakette" - Kenntnis genommen
+- TOP 11.1.4: Beantwortung einer mündlichen Anfrage zu Förderung von Interkulturellen Zentren aus dem Ausschusses für Soziales und Senioren vom 30.01.2018 - Kenntnis genommen
+- TOP 11.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.6: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Wohnsiedlung 'Im Mönchsfeld'", TOP 12.6 in der Sitzung vom 01.03.2018 Hier: Neu aufbereitete Tabelle - Kenntnis genommen
+- TOP 11.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Anfrage der Fraktion DieLinke betreffend "Angebote für Obdachlose" - zurückgestellt
+- TOP 11.2.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Ausbildungsduldung" - Sache ist erledigt
+- TOP -: Beantwortung Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen im Sozialausschuss AN 0717/2018 betreffend "Ausbildungsduldung" - Kenntnis genommen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Veröffentlichung der Broschüre 2020: Köln liebt Vielfalt Diversity Konzept - Kenntnis genommen
+- TOP 12.2: Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht - Kenntnis genommen
+- TOP 12.3: Eröffnung einer Einrichtung zur ordnungsrechtlichen Unterbringung obdachloser alleinstehender Frauen - Kenntnis genommen
+- TOP 12.4: Bekanntmachung der Broschüre "Gemeinsam fürs Klima in Bilderstöckchen - Eine Erfolgsgeschichte über Bürgerengagement auf Stadtteilebene" - Kenntnis genommen
+- TOP 12.5: Weiterführung der Postfiliale Köln-Zollstock (Beschluss des Ausschusses für Soziales und Senioren vom 01.03.2018 bzw. der BV Rodenkirchen vom 19.02.2018) - Kenntnis genommen
+- TOP 12.6: Die Verwaltungsreform im Dezernat für Soziales, Integration und Umwelt - Kenntnis genommen
+- TOP 12.7: Dokumentation der Winterhilfeaktivitäten 2017-2018 für wohnungslose Bürgerinnen und Bürger durch das Amt für Soziales und Senioren - Kenntnis genommen
