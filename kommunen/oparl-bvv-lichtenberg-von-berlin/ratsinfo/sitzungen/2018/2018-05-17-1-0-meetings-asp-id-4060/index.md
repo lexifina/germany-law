@@ -1,0 +1,94 @@
+# 19. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-05-17T17:00:00+02:00
+- Ende: 2018-05-17T22:13:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4060
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4060
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=240533
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Feststellung der Beschlussfähigkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Für Fußgehende freundliche und sichere Gestaltung der Weitlingstraße zwischen Einbecker- und Irenenstraße - vertagt
+- TOP 4.2: Bebauungsplan für den Innenhof Barther Straße - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Obdachlosigkeit und Wohnungslosigkeit bekämpfen - vertagt
+- TOP 5.2: Kein Durchgangsverkehr mehr "An der Bucht" - Sicherheit und Gesundheit geht vor - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Klärung des Begriffs "öffentlich" - vertagt
+- TOP 8.2: Brunnen am Castello-Center - beantwortet
+- TOP 8.3: Verkaufsabsichten der Deutschen Bahn in der Tannhäuser Straße - beantwortet
+- TOP 8.4: Kulturstandort Lichtenberg - beantwortet
+- TOP 8.5: Vertreibt das Bezirksamt den Kulturinvestor an der Herzbergstraße? - beantwortet
+- TOP 8.6: Mündliche Zusagen zur Nutzung des Grundstücks Herzbergstraße 40 - 43 - beantwortet
+- TOP 8.7: Fassade Kulturhaus Karlshorst - beantwortet
+- TOP 8.8: Geeignete Standorte für zusätzliche Fahrradbügel und Doppelstockparker - beantwortet
+- TOP 8.9: Parken in der Wönnichstraße - DS/0303/VIII - beantwortet
+- TOP 8.10: Brandserie in Neu-Hohenschönhausen - im Ausschuss abgelehnt
+- TOP 8.11: Rummelsburger Bucht - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: BVV-Sondermittel für das Graphik-Collegium Berlin e. V. für das Experiment Druckgraphik - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: BVV-Sondermittel für den Förderverein Museum Kesselhaus Herzberge e. V. für das Projekt HERZBERGER LICHTER - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Haushaltsmittel für Lichtenbergs öffentliche Parkanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Künftige Straßennamen - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Kinder- und Jugendbeteiligung bei Auswahlverfahren "Kunst am Bau" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Bessere Nahversorgung für Karlshorst-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Solartechnologie für Lichtenbergs Gehwege und Radverkehrsanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Schulbau in Lichtenberg weiter beschleunigen - überwiesen
+- TOP 9.9: Schulneubau schneller vorantreiben - überwiesen
+- TOP 9.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11: Bezirkliches Tourismuswegeleitsystem für Lichtenberg - überwiesen
+- TOP 9.12: Ordnung für sicheres Parken in der Region Hohenschönhausen Nord befördern - überwiesen
+- TOP 9.13: Wartenberger Straße 51 wieder für Nahversorgung fit machen - überwiesen
+- TOP 9.14: Straßenertüchtigung in der Waldsiedlung prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Mehr Mitspracherecht für Kitaträger - überwiesen
+- TOP 9.16: Mehr Auszubildende im Kita Eigenbetrieb NordOst - mit Änderungen in der BVV beschlossen
+- TOP 9.17: Tempo 30 - ganztägig auf der Hauptstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Gehwegsanierung Verlängerte Waldowallee abschließen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Tourismus-Konzept in Hohenschönhausen - überwiesen
+- TOP 9.20: Konversion einer Verkehrsfläche in Karlshorst-West - überwiesen
+- TOP 9.21: Einbahnstraße Kriemhildstraße für gegenläufigen Radverkehr freigeben - überwiesen
+- TOP 9.22: Neue Sporthalle für die Karlshorster Grundschule - überwiesen
+- TOP 9.23: Anmeldung zum Investitionsprogramm 2018 - 2022 - Berliner Schulbauoffensive (BSO) - überwiesen
+- TOP 9.24: Pflege-Wohngemeinschaften in der Landsberger Allee 131 c retten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Kreuzung Pablo-Picasso-Straße/Gehrenseestraße/Hohenschönhauser Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: Eignung des Standortes Rhinstraße für Wohnungsbau prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Vorhabenbezogener Bebauungsplan 11-118 VE - Änderung des Aufstellungsbeschlusses aufgrund der Änderung des Vorhabens; Arbeitstitel: Landsberger Allee 341/343 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.28: Bebauungsplan 11-157 - Aufstellungsbeschluss; Arbeitstitel: östlich Detlevstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.29: Kita-Leitstelle im Bezirksamt Lichtenberg - überwiesen
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Schwerpunkte der Wohnungsbaupolitik in Lichtenberg - schriftlich beantwortet
+- TOP 12: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 12.1: Lichtenberg setzt ein Zeichen für die Freiheit der Kunst - in der BVV abgelehnt
+- TOP 12.2: Entlastung der Treskowallee - in der BVV zurückgezogen
+- TOP 12.3: Mobilitätskonzept für das Gewerbegebiet Herzbergstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Integriertes Energie- und Klimaschutzkonzept für das Gewerbegebiet Herzbergstraße - überwiesen
+- TOP 13: Prioritäten der Fraktionen - (offen)
+- TOP 13.1: Abgestimmte Position zum Gewerbegebiet Herzbergstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Der Kunst im Gewerbegebiet Herzbergstraße eine Chance geben - überwiesen
+- TOP 13.3: Handlungsempfehlung aus der Einschulungsuntersuchung entwickeln - überwiesen
+- TOP 13.4: Strategien und Maßnahmen für mehr Sauberkeit - ohne Änderungen in der BVV beschlossen
+- TOP 14: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 14.1: Nachweisung der im Haushaltsjahr 2016 für den Bezirk Lichtenberg in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Holocaust-Gedenktag im Rathaus begehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: Bürgerbeteiligung in der Stadtentwicklung fortlaufend evaluieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.4: Bezirkliches Konzept zur systematischen Erhaltungsplanung öffentlicher Lichtenberger Straßen-Verkehrsflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.5: Paul-und-Charlotte-Kniese-Schule nachhaltig entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge zur Beschlussfassung - (offen)
+- TOP 15.1: Antisemitismus entschlossen bekämpfen! - mit Änderungen in der BVV beschlossen
+- TOP 15.2: Planstellen für Fahrrad-Infrastruktur zügig besetzen - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Sicher feiern - Drug Checking in Lichtenberger Clubs - überwiesen
+- TOP 16: Vorlagen zur Beschlussfassung - (offen)
+- TOP 16.1: Soziale Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB für das Gebiet „Weitlingstraße“ im Bezirk Lichtenberg von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 17: Schließung der Sitzung - erledigt
