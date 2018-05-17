@@ -1,0 +1,7 @@
+# TOP 3: Vorstellung Planungsstand Straßenraum Thomasstr. durch Planungsbüro SWUP GmbH
+
+- Sitzung: 18. öffentliche Sitzung des Ausschusses für Stadtentwicklung und Wohnen (2018-05-17)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=27589
+- Ergebnis: erledigt
