@@ -1,0 +1,69 @@
+# 51. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-05-17T16:00:00+02:00
+- Ende: 2018-05-17T22:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6508
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6508
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00344891.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Zukunftsstadt Dresden – Online Voting über 200.000 Euro - erledigt
+- TOP 3.2: Kunst im öffentlichen Raum - zurückgezogen
+- TOP 3.3: Sanierung/Neubau der Turnhallen der 49. Grundschule - erledigt
+- TOP 3.4: Aktueller Stand Wohnungsplanung der WiD - erledigt
+- TOP 3.5: Gesamtbilanz inkl. Umweltbilanz des Ski-Weltcups - erledigt
+- TOP 3.6: Unfallgefahr für Fußgänger an der Waldschlößchenbrücke - erledigt
+- TOP 3.7: Stadtratsbeschluss vom 09.02.2006 – Verkehrsbauvorhaben Staffelsteinstraße – Straße des Friedens - erledigt
+- TOP 3.8: Umsetzung des Stadtratsbeschluss V1066/16 zur Förderung des Dresdner Rennvereins 1890 e. V. - erledigt
+- TOP 3.9: Integration in den Arbeitsmarkt - erledigt
+- TOP 3.10: Baumaßnahme Oskarstraße - erledigt
+- TOP 3.11: Bauvorhaben Lennéplatz - erledigt
+- TOP 3.12: Soziales Wohnraumkonzept - erledigt
+- TOP 3.13: Verbesserungsmaßnahmen am Ullersdorfer Platz - erledigt
+- TOP 3.14: Grundbesitz von Leistungsbeziehern nach dem AsylbLG - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 4.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Zustimmung
+- TOP 4.2: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Zustimmung
+- TOP 4.3: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum Dresden) - Zustimmung
+- TOP 4.4: Ausschuss für Wirtschaftsförderung - Zustimmung
+- TOP 5: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 5.1: Integrations- und Ausländerbeirat - Zustimmung
+- TOP 6: Einigungsverfahren Gremeinbesetzung - Ortsbeirat
+- TOP 6.1: Umbesetzung Ortsbeirat Loschwitz - Zustimmung
+- TOP 7: Umbesetzung Kriminalpräventiver Rat - zurückgezogen
+- TOP 8: Besetzung des Aufsichtsrates der Mitteldeutschen Flughafen AG - Zustimmung
+- TOP 9: Berufung Stiftungsratsmitglied der Stiftung Kunst & Musik für Dresden - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Vertagung der Stadtratssitzung vom 1. März 2018
+- TOP 11.1: Landschaftsplan der Landeshauptstadt Dresden in der Fassung August 2017 - hier: Abwägungsbeschluss, Beschluss des Landschaftsplanes - Zustimmung mit Änderung
+- TOP 12: Verweisung aus der Stadtratssitzung vom 22. März 2018
+- TOP 12.1: Neuordnung des Verkehrsraums um den Neustädter Markt zugunsten des Fuß- und Radverkehrs - Vertagung
+- TOP 12.2: Schaffung eines Ortskerns für Tolkewitz - Rahmenplanung Nr. 787 „Seidnitz/Tolkewitz“ jetzt vorantreiben - Vertagung
+- TOP 13: Vertagung der Stadtratssitzung vom 19. April 2018
+- TOP 13.1: Aufhebung des Erbbaurechtes für das Grundstück Tornaer Straße 40 - Vertagung
+- TOP 13.2: Veränderung der Dresdner Bäderlandschaft nur auf Grundlage eines fortgeschriebenen Bäderkonzeptes durchführen - Vertagung durch Einreicher
+- TOP 14: Ausschreibung einer Dienstleistungskonzession für die Organisation und Durchführung des Winterevents auf dem Altmarkt - Zustimmung mit Ergänzung
+- TOP 15: Einrichtung eines Open-Data-Portals für die Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Einlage von weiteren Grundstücken in die WiD Wohnen in Dresden GmbH & Co. KG - 2. Grundstückspaket - Zustimmung mit Ergänzung
+- TOP 17: Polizeiverordnung der Landeshauptstadt Dresden zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Zusammenhang mit Fußballspielen im Stadion an der Lennéstraße (PolVO Lennéstraße) - Zustimmung mit Änderung
+- TOP 18: Vorplanung Gerokstraße – Blasewitzer Straße zwischen Güntzplatz und Fetscherstraße - Zustimmung mit Ergänzung
+- TOP 19: Bebauungsplan Nr. 3028, Dresden-Trachau Nr. 6, Hufewiesen Alttrachau - Zustimmung mit Ergänzung
+- TOP 20: Ersatzneubau der Brücke über die DB-Anlagen im Zuge der Talstraße (K6240) in Dresden-Cossebaude - Vertagung
+- TOP 21: Änderung der Geschäftsordnung der Gestaltungskommission Dresden - Zustimmung
+- TOP 22: Bebauungsplan Nr. 67, Dresden-Löbtau Nr. 1, Kesselsdorfer Straße/Wernerstraße - Zustimmung
+- TOP 23: Bebauungsplan Nr. 398.A, Dresden-Reick/Strehlen, Wissenschaftsstandort Dresden-Ost, Teilbereich I.A - Zustimmung
+- TOP 24: Bebauungsplan Nr. 3000, Dresden-Bühlau Nr. 9, P+R-Platz Bühlau - Zustimmung
+- TOP 25: Veränderungssperre für den Bebauungsplan Nr. 3023, Dresden-Leubnitz-Neuostra Nr. 7, Dohnaer Straße/Tornaer Straße Südseite - Vertagung durch Einreicher
+- TOP 26: Neubenennung von Straßen - Zustimmung
+- TOP 27: Finanzbedarf der Verkehrsmuseum Dresden gGmbH - Vertagung nach 22 Uhr
+- TOP 28: Erhöhung des jährlichen Zuschusses der LH Dresden an die Verkehrsmuseum Dresden gGmbH - Vertagung nach 22 Uhr
+- TOP 29: Umgang mit ansteckungsfähiger Lungentuberkulose in Gemeinschaftseinrichtungen - Vertagung
