@@ -1,0 +1,82 @@
+# 36. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-17T17:00:00+02:00
+- Ende: 2018-05-17T19:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18603
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18603
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Öffnungszeiten / Betriebszeiten im Schwimmbad Chorweiler - Kenntnis genommen
+- TOP 7.1.2: Alternative Bestattungsformen - geändert beschlossen
+- TOP 7.1.3: Grundstückserweiterung südliche Seeanlieger Escher See - Kenntnis genommen
+- TOP 7.1.4: Frischluftschneisen im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Sicherheitskonzepte zu Veranstaltungen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tag der Städtebauförderung und Via Culturalis am 05.Mai 2018 Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.2: Bestattungen von Menschen ohne Angehörige Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.3: Stationen für Leihfahrräder im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Geschwindigkeitskontrolle im Ortsteil Merkenich Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Litfaßsäule am Londoner Platz in Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.6: Kreisverkehr in Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.7: Nächtliche Schließung von Friedhöfen im Kölner Norden Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Stadtverschönerungsmittel 2018 Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - geändert beschlossen
+- TOP 8.3.2: Irreführende Straßenmarkierung Kreuzung Hackhauser Weg / Üdesheimer Weg Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.3: Kostenlose WLAN-Hotspots an den S-Bahnhöfen im Stadtbezirk Chorweiler Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.3.4: Fahrradwege an der Willi-Suth-Allee anlegen Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung einer Mega-Light-Werbeanlage im Bereich der Merianstraße / Einmündung Neusser Landstraße - ungeändert beschlossen
+- TOP 9.1.2: Neugestaltung Spielplatz Osloer Straße / Athener Ring in Köln-Chorweiler - ungeändert beschlossen
+- TOP 9.1.3: Neugestaltung Bolzplatz Elbeallee in Köln-Chorweiler (Nord) - ungeändert beschlossen
+- TOP 9.1.4: Besetzung der Stelle Leitung des Bürgeramtes Chorweiler - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sport- und Erholungsanlage Fühlinger See hier: Ausschreibungsverfahren zur Parkraumbewirtschaftung und Kontrolle des Tauchens ab 2019 - ungeändert beschlossen
+- TOP 9.2.2: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o.Nr., 50765 Köln-Blumenberg - Planungsbeschluss - geändert beschlossen
+- TOP 9.2.3: Schulrechtliche Anpassung der Zügigkeit der Sekundarstufe II der Heinrich-Böll-Gesamtschule, Merianstraße 11, 50765 Köln an die bestehende Aufnahmesituation - ungeändert beschlossen
+- TOP 9.2.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: "Volkhovener Straße" in Köln-Esch/Auweiler - ungeändert beschlossen
+- TOP 9.2.5: Baubeschluss für die Generalinstandsetzung der Industriestraße im Bereich zwischen dem Parkplatz 7 (Fühlinger See) und Oranjehofstraße mit gleichzeitiger Umgestaltung der Zufahrtsrampe Oranjehofstraße/Industriestraße sowie Freigabe von investiven - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2017 - Kenntnis genommen
+- TOP 10.2.2: Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht - Kenntnis genommen
+- TOP 10.2.3: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.4: Jahresbericht 2017 Naturschutzwacht, Bezirk 6 - West - Kenntnis genommen
+- TOP 10.2.5: Jahresbericht 2017 Naturschutzwacht, Bezirk 6 Chorweiler - Ost - Kenntnis genommen
+- TOP 10.2.6: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf 6456/06, 7. Änderung Arbeitstitel: Gewerbegebiet Langel in Köln-Fühlingen/Merkenich, 7. Änderung - Kenntnis genommen
+- TOP 10.2.7: Wohnbauvorhaben in Verbindung mit § 34 BauGB in den Stadtbezirken 1 - 9 - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Vergabe der bezirksorientierten Mittel 2017, die dem Sport zugute gekommen sind / Bezirksorientierte Mittel für den Sport - Kenntnis genommen
+- TOP 11.1.2: Giftige Stickoxide (NOx) im Bezirk Chorweiler - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
