@@ -1,0 +1,71 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-05-17T17:00:00+02:00
+- Ende: 2018-05-17T18:11:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTWn79zB0qzY5ZonThdXj9k
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5058
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbCeCy3nzKmdIMLyd8wmQ5IkeEy12xAeun9sfES_l3V/Bekanntmachung_Rat_17.05.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWUAjh-zAmCLH7TBVSoDLLx6q-cWewHEWLuQ4ssJUBh0/Oeffentliche_Niederschrift_Rat_17.05.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Kosten bei Online-Tickets für das Theater und Konzerthaus hier: Anfrage von RM Müller vom 15.03.2018
+- TOP 1.2: Nutzung von Abwasser zur Energiegewinnung hier: Anfrage von RM Krause in der Ratssitzung vom 15.03.2018
+- TOP 1.3: Digitalisierung hier: Anfrage von RM Prof. Dr. Becker in der Ratssitzung am 15.03.2018
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 28. Sitzung des Rates am 15.03.2018
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 7.: Erneute Bestellung eines Prüfers beim Revisionsdienst
+- TOP 7.1: Erneute Bestellung eines Prüfers beim Revisionsdienst
+- TOP 8.: Bestellung einer Prüferin beim Revisionsdienst
+- TOP 8.1: Bestellung einer Prüferin beim Revisionsdienst
+- TOP 9.: Bestellung einer Prüferin beim Revisionsdienst
+- TOP 9.1: Bestellung einer Prüferin beim Revisionsdienst
+- TOP 10.: Wupperverband hier: Neubenennung der Direktdelegierten für die Verbandsversammlung des Wupperverbandes
+- TOP 11.: Wahl von Vertrauenspersonen sowie Stellvertreterinnen/Stellvertretern als Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Solingen für die Amtsperiode vom 01.01.2019 bis 31.12.2023
+- TOP 12.: V. Änderung der Geschäftsordnung für den Rat der Stadt Solingen, seine Ausschüsse und die Bezirksvertretungen
+- TOP 13.: Änderung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen hier: Antrag der SPD-Ratsfraktion vom 13.04.2018
+- TOP 13.1: Änderung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Klingenstadt Solingen hier: Ergänzungsantrag der SPD-Ratsfraktion vom 04.05.2018
+- TOP 14.: Einstieg in den kommunalen sozialen Wohnungsbau hier: Antrag DIE LINKE vom 17.04.2018
+- TOP 14.1: Einstieg in den kommunalen sozialen Wohnungsbau hier: Änderungsantrag DIE LINKE vom 30.04.2018
+- TOP 15.: Erarbeitung einer Wohnraumschutzsatzung für Solingen hier: Antrag DIE LINKE vom 17.04.2018
+- TOP 15.1: Erarbeitung einer Wohnraumschutzsatzung für Solingen hier: Änderungsantrag DIE LINKE vom 30.04.2018
+- TOP 16.: Entwicklung eines Instruments zur Bestimmung und Anpassung städtischer Gebühren hier: Antrag der CDU-Ratsfraktion vom 25.04.2018
+- TOP 16.1: Entwicklung eines Instruments zur Bestimmung und Anpassung städtischer Gebühren hier: gemeinsamer Antrag der Ratsfraktionen CDU und SPD vom 09.05.2018
+- TOP 17.: I. Änderungssatzung zur Vergnügungssteuersatzung der Klingenstadt Solingen für das Vermitteln oder Veranstalten von Pferde- und Sportwetten in Einrichtungen (Wettbürosteuersatzung) vom 27.09.2016
+- TOP 17.1: I. Änderungssatzung zur Vergnügungssteuersatzung der Klingenstadt Solingen für das Vermitteln oder Veranstalten von Pferde- und Sportwetten in Einrichtungen (Wettbürosteuersatzung) vom 27.09.2016
+- TOP 18.: Zustimmung zu einer konsumtiven Mehrauszahlung gemäß § 83 GO NRW Erhöhung der Krankenhausumlage durch Nachtragshaushaltsgesetz 2017 des Landes NRW
+- TOP 19.: Zustimmung zu einem aus 100% aus Fördermitteln gedeckten konsumtivem Mehraufwand gemäß § 83 GO NRW hier: Durchführung und Fertigstellung diverser Stadtentwicklungsamaßnahmen
+- TOP 20.: Entwurf des Jahresabschlusses 2017 der Stadt Solingen
+- TOP 21.: Zustimmung zur Direktvergabe von öffentlichen Personennahverkehrsdiensten an die Bahnen der Stadt Monheim (kurz BSM) als mitbedienendes Verkehrsunternehmen
+- TOP 22.: Denkmalliste der Stadt Solingen hier: Schutzerweiterung des Baudenkmals „Schloss Hackhausen“, Hackhausen 1
+- TOP 23.: Denkmalliste der Stadt Solingen hier: Eintragung in die Denkmalliste der Stadt Solingen, Bodendenkmal „Wasserburg, Schloss Hackhausen“
+- TOP 24.: Bauleitplanung Düsseldorfer Straße/ Baustraße Beschluss einer Veränderungssperre (Nr. 168/ 203-B 1. Änd.) für das Gebiet zwischen der Baustraße, der Straße Am Weisenhäuschen, der Wittenbergstraße und der Düsseldorfer Straße - Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid –
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.1.1: Gründung einer Bürgerstiftung
+- TOP 25.1.2: Haushaltsverfügung für das Jahr 2018
+- TOP 25.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Umgestaltung des ÖPNV in Solingen für ein fahrscheinfreies Ticket hier: Anfrage von RM Potthoff in der Ratssitzung am 15.03.2018
+- TOP 1.2: Sachstand RWE-Aktien hier: gemeinsame Anfrage der Ratsfraktionen SPD und Bündnis 90/Die Grünen-offene Liste vom 03.05.2018
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 3.1: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens
+- TOP 3.2: Vergabe von Ingenieurleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MWIDE NRW) im Rahmen eines VGV-Verfahrens hier: Finanzierung Eigenanteile
+- TOP 4.: Vergabe von Architektenleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens
+- TOP 4.1: Vergabe von Architektenleistungen im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens hier Finanzierung Eigenanteile
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
