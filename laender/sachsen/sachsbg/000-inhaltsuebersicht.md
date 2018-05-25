@@ -123,14 +123,14 @@ Unterabschnitt 3 Nebentätigkeit und Tätigkeit nach Beendigung des Beamtenverh�
 § 109 Verordnungsermächtigung
 § 110 Tätigkeit nach Beendigung des Beamtenverhältnisses
 Unterabschnitt 4 Personalaktenrecht
-§ 111 Führung der Personalakte
+§ 111 Führung der Personalakte und Verarbeitung personenbezogener Daten
 § 112 Beihilfeakten
-§ 113 Anhörungsrecht
-§ 114 Einsichtnahme
-§ 115 Auskünfte an Dritte
+§ 113 Anhörung
+§ 114 Auskunft an den betroffenen Beamten
+§ 115 Übermittlung und Auskunft an nicht betroffene Personen
 § 116 Vernichtung von Unterlagen
 § 117 Aufbewahrung
-§ 118 Verarbeitung und Nutzung von Personalaktendaten
+§ 118 Verarbeitung von Personalaktendaten
 Abschnitt 7 Beteiligung der Spitzenorganisationen und Landesverbände im Freistaat Sachsen
 § 119 Beteiligung der Spitzenorganisationen und Landesverbände im Freistaat Sachsen
 Abschnitt 8 Landespersonalausschuss
