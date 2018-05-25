@@ -1,4 +1,5 @@
 # Verordnung der Sächsischen Staatsregierung zur Übertragung von Verordnungsermächtigungen im Bereich der Land- und Forstwirtschaft sowie des Verbraucherschutzes (Ermächtigungsübertragungsverordnung Land- und Forstwirtschaft sowie Verbraucherschutz – LaFoVErmÜVO)
+Rechtsbereinigt mit Stand vom 25. Mai 2018
 Vom 7. Januar 2016
 Auf Grund
 – des § 6 Absatz 3, § 9 Absatz 7, § 10 Satz 2 und 3, § 14 Absatz 4, § 16 Absatz 5, § 24 Absatz 1 Satz 2 und 3 sowie § 29 Absatz 2 des Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S. 148, 1281),
