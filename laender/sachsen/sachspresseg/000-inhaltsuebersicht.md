@@ -10,7 +10,7 @@
 § 9 Kennzeichnung entgeltlicher Veröffentlichungen
 § 10 Gegendarstellung
 § 11 Ablieferungspflicht analoger und digitaler Publikationen
-§ 11a Anwendbarkeit des Bundesdatenschutzgesetzes
+§ 11a Datenverarbeitung zu journalistischen und literarischen Zwecken
 § 12 Strafrechtliche Verantwortung
 § 13 Ordnungswidrigkeiten
 § 14 Verjährung
