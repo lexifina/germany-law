@@ -72,6 +72,7 @@ Vierter Teil Schlußbestimmungen
 55 | Fristen, Termine und Form
 56 | Wahlkosten
 57 | Wahlstatistik
+57a | Beschränkung von Rechten der betroffenen Person nach der Verordnung (EU) 2016/679
 58 | Landeswahlordnung
 59 | Vorzeitige Beendigung der Wahlperiode der Bürgerschaft.
 60 | Auswirkungen einer vorzeitigen Beendigung der Wahlperiode der Bürgerschaft auf die Wahl zur Stadtverordnetenversammlung.
