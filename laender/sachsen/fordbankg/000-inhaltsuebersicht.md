@@ -8,6 +8,7 @@ Abschnitt 1 Allgemeine Vorschriften
 § 6 Stammkapital
 § 7 Grundsätze der Geschäftsführung
 § 8 Siegelführung
+§ 8a Befugnis zur Datenverarbeitung
 § 9 Öffentliche Bekanntmachungen
 Abschnitt 2 Verfassung der Bank
 § 10 Organe
