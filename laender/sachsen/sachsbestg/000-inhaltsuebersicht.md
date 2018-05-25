@@ -1,4 +1,4 @@
-Inhaltsübersicht 1
+Inhaltsübersicht
 Erster Abschnitt Friedhofswesen
 § 1 Bestattungsplätze
 § 2 Gemeindefriedhöfe
