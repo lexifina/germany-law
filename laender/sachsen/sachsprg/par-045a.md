@@ -1,2 +1,0 @@
-# § 45a Schutz der Geheimhaltung
-Wer die Geheimhaltung gemäß § 9 Abs. 1 Satz 5 verletzt, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft. Handelt der Täter gegen Entgelt oder in der Absicht, sich oder einen anderen zu bereichern oder einen anderen zu schädigen, so ist die Strafe Freiheitsstrafe bis zu zwei Jahre oder Geldstrafe.

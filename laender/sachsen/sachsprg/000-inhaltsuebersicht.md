@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 1. Abschnitt Allgemeine Bestimmungen
 § 1 Anwendungsbereich
 § 1a Begriffsbestimmungen
@@ -54,9 +54,8 @@ Inhaltsübersicht
 § 42 Untersagung der Verbreitung
 § 43 Ordnungswidrigkeiten
 10. Abschnitt Datenschutz und Geheimschutz
-§ 44 Datenverarbeitung zu eigenen publizistischen Zwecken
-§ 45 Bestandsdaten, Daten über den Empfang von Programmen und Sendungen
-§ 45a Schutz der Geheimhaltung
+§ 44 Datenverarbeitung
+§ 45 Schutz der Geheimhaltung
 11. Abschnitt Übergangs- und Schlussbestimmungen
 § 46 Übergangsbestimmungen
 § 47 In-Kraft-Treten
