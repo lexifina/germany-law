@@ -1,9 +1,9 @@
 # Inhaltsverzeichnis
-Inhaltsverzeichnis
-Abschnitt 1 | Allgemeine Vorschriften
+Inhaltsübersicht
+Abschnitt 1 Allgemeine Vorschriften
 § 1 | Geltungsbereich
 § 2 | Begriffsbestimmungen
-Abschnitt 2 | Zulassung von Rundfunkprogrammen
+Abschnitt 2 Zulassung von Rundfunkprogrammen
 § 3 | Zulassung
 § 4 | Zulassungsvoraussetzungen
 § 5 | Zulassungsgrundsätze zur Sicherung der Vielfalt
@@ -13,7 +13,7 @@ Abschnitt 2 | Zulassung von Rundfunkprogrammen
 § 9 | Vereinfachtes Zulassungsverfahren
 § 10 | Rücknahme
 § 11 | Widerruf
-Abschnitt 3 | Anforderungen an Rundfunkprogramme und Veranstalter
+Abschnitt 3 Anforderungen an Rundfunkprogramme und Veranstalter
 § 12 | Programmauftrag
 § 13 | Vielfalt
 § 14 | Programmgrundsätze
@@ -24,60 +24,58 @@ Abschnitt 3 | Anforderungen an Rundfunkprogramme und Veranstalter
 § 19 | Gegendarstellungsrecht
 § 20 | Verlautbarungsrecht
 § 21 | Besondere Finanzierungsarten
-Abschnitt 4 | Weiterverbreitung
+Abschnitt 4 Weiterverbreitung
 § 22 | Zulässigkeit der Weiterverbreitung
 § 23 | Weiterverbreitungsgrundsätze
-§ 24 | Verfahren
-Abschnitt 5 | Übertragungskapazitäten
-Unterabschnitt 1 | Terrestrik und Satelliten
-Kapitel 1 | Zuordnung
+§ 24 | Weitere Voraussetzungen
+Abschnitt 5 Übertragungskapazitäten
+Unterabschnitt 1 Terrestrik und Satelliten
+Kapitel 1 Zuordnung
 § 25 | Zuordnung von Übertragungskapazitäten
 § 26 | Zuordnungsverfahren
-§ 26a | Rücknahme und Widerruf
-§ 27 | Zuordnung von Übertragungskapazitäten zwischen Ländern
-Kapitel 2 | Zuweisung
-§ 28 | Zuweisung von Übertragungskapazitäten durch die Landesmedienanstalt
-§ 29 | Verfahren, Antrag, Mitwirkungspflichten
-§ 30 | Auswahlkriterien
-§ 31 | Inhalt der Zuweisung
-§ 32 | Rücknahme der Zuweisung
-§ 33 | Widerruf der Zuweisung
-Unterabschnitt 2 | Kabelnetze
-§ 34 | Anwendungsbereich
-§ 35 | Digitalisierung der Kabelnetze
-§ 36 | Rangfolge
-§ 37 | Mitwirkungspflichten
-§ 38 | Untersagung
-Abschnitt 6 | Bürgerrundfunk
-§ 39 | Aufgabe und Nutzung
-§ 40 | Offener Kanal
-§ 41 | Ereignisrundfunk
-§ 42 | Medienkompetenz
-§ 43 | Verbreitung
-§ 44 | Satzungsermächtigung
-Abschnitt 7 | Bremische Landesmedienanstalt
-§ 45 | Aufgaben, Rechtsform und Organe
-§ 46 | Medienkompetenz
-§ 47 | Modellversuche
-§ 48 | Aufsicht über private Rundfunkveranstalter
-§ 49 | Zusammensetzung des Medienrates
-§ 50 | Mitgliedschaft, persönliche Voraussetzungen
-§ 50a | Wahl und Amtszeit des Medienrates
-§ 51 | Aufgaben und Arbeitsweise des Medienrates, Kostenerstattung
-§ 52 | Aufgaben der Direktorin oder des Direktors
-§ 53 | Wahl, Amtsdauer, Abberufung der Direktorin oder des Direktors
-§ 54 | Finanzierung und Haushaltswesen
-§ 55 | Rechtsaufsicht
-Abschnitt 8 | Datenschutz
-§ 56 | Geltung von Datenschutzvorschriften
-§ 57 | Datenschutzkontrolle
-§ 58 | Datenverarbeitung für publizistische Zwecke
-Abschnitt 9 | Bußgeld-, Übergangs- und Schlussvorschriften
-§ 59 | Ordnungswidrigkeiten
-§ 60 | Ausführungsbestimmung zu § 35 des Rundfunkstaatsvertrages
-§ 61 | Zuständigkeit für den Datenschutz
+§ 27 | Rücknahme und Widerruf
+§ 28 | Zuordnung von Übertragungskapazitäten zwischen Ländern
+Kapitel 2 Zuweisung
+§ 29 | Zuweisung von Übertragungskapazitäten durch die Landesmedienanstalt
+§ 30 | Verfahren, Antrag, Mitwirkungspflichten
+§ 31 | Auswahlkriterien
+§ 32 | Inhalt der Zuweisung
+§ 33 | Rücknahme der Zuweisung
+§ 34 | Widerruf der Zuweisung
+Unterabschnitt 2 Kabelnetze
+§ 35 | Anwendungsbereich
+§ 36 | Digitalisierung der Kabelnetze
+§ 37 | Rangfolge
+§ 38 | Mitwirkungspflichten
+§ 39 | Untersagung
+Abschnitt 6 Bürgermedien
+§ 40 | Aufgabe und Nutzung
+§ 41 | Offener Kanal
+§ 42 | Ereignisrundfunk
+§ 43 | Medienpädagogische Ziele
+§ 44 | Verbreitung
+§ 45 | Satzungsermächtigung
+Abschnitt 7 Landesmedienanstalt
+§ 46 | Aufgaben, Rechtsform und Organe
+§ 47 | Medienkompetenz
+§ 48 | Modellversuche
+§ 49 | Aufsicht über private Veranstalter
+§ 50 | Zusammensetzung des Medienrates
+§ 51 | Mitgliedschaft, persönliche Voraussetzungen
+§ 52 | Wahl und Amtszeit des Medienrates
+§ 53 | Aufgaben und Arbeitsweise des Medienrates, Kostenerstattung
+§ 54 | Aufgaben der Direktorin oder des Direktors
+§ 55 | Wahl, Amtsdauer, Abberufung der Direktorin oder des Direktors
+§ 56 | Finanzierung und Haushaltswesen
+§ 57 | Rechtsaufsicht
+Abschnitt 8 Datenschutz
+§ 58 | Geltung von Datenschutzvorschriften
+§ 59 | Datenschutzkontrolle
+Abschnitt 9 Bußgeld-, Übergangs- und Schlussvorschriften
+§ 60 | Ordnungswidrigkeiten
+§ 61 | Ausführungsbestimmung zu § 35 des Rundfunkstaatsvertrages
 § 62 | Aufsicht bei Telemedien
 § 63 | Zuständigkeit bei Ordnungswidrigkeiten
 § 64 | Übergangsvorschrift
 § 65 | Überprüfungsklausel
-§ 66 | Inkrafttreten, Außerkrafttreten
+§ 66 | Inkraftreten, Außerkrafttreten
