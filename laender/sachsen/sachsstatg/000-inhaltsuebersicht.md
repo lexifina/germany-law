@@ -19,7 +19,7 @@
 § 17 Auskunftspflicht
 § 18 Geheimhaltung
 § 19 Übermittlung von Einzelangaben
-§ 20 Unterrichtung
+§ 20 Rechte der Befragten
 § 21 Strafvorschrift
 § 22 Bußgeldvorschrift
 § 23 Statistisches Informationssystem
