@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung vorliegender Protokolle
+
+- Sitzung: 10. öffentliche Sitzung des Ausschusses für Gesundheit (2018-05-28)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=49082
+- Ergebnis: vertagt
