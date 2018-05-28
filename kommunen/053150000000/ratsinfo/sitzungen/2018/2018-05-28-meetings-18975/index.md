@@ -1,0 +1,68 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-28T16:00:00+02:00
+- Ende: 2018-05-28T17:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18975
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18975
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00663989.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00663989.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00663989.pdf
+
+## Tagesordnung
+
+- TOP -: Bericht über die Weidener Grabkammer durch Professor Horn
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Bewohnerparken in Weiden-Nord - Kenntnis genommen
+- TOP 7.1.2: Lövenicher Sportplatz / Widdersdorfer Landstraße - Beantwortung der Anfrage AN/0485/2018 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen - Kenntnis genommen
+- TOP 7.2.1: Parksituation am Weidener Wochenmarkt - Kenntnis genommen
+- TOP 7.2.2: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - Kenntnis genommen
+- TOP 7.2.3: Bauprojekt Wohngebäude auf der Brauweiler Straße in Köln-Lövenich - Kenntnis genommen
+- TOP 7.2.4: Inwieweit entsprechen „Dixi-Klos“ auf den Wochenmarktplätzen des Stadtbezirks den gesetzlichen Hygiene-Vorschriften - Kenntnis genommen
+- TOP 7.2.5: Aktivität des Ordnungsamts am 07.07. 2016 Zülpicher Straße - Kenntnis genommen
+- TOP 7.2.6: Aufstellung der Werbe- und Informationstafeln im Rheinenergiesportpark - Kenntnis genommen
+- TOP 7.2.7: Erwerb der Weißhaus-Immobilie einschließlich Parkanlage durch die Öffentliche Hand - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Anwohnerschutzkonzept Straße Am Römerhof in Köln Junkersdorf - ungeändert beschlossen
+- TOP 8.1.2: Altglascontainer Linnicher Straße - ungeändert beschlossen
+- TOP 8.1.3: Verbesserung der Beleuchtung des Fußweges an der Luxemburger Straße - ungeändert beschlossen
+- TOP 8.1.4: Beflaggung zum Kölner CSD - ungeändert beschlossen
+- TOP 8.1.5: Sanierung der Radwege - ungeändert beschlossen
+- TOP 8.1.6: Antrag Spazierwege Weiden-Süd - ungeändert beschlossen
+- TOP 8.1.7: Überprüfung der Ampelschaltung auf der Berrenrather Straße - ungeändert beschlossen
+- TOP 8.1.8: Rüchnahme des Beschlusses der Bezirksvertretung zur Erneuerung der Signalanlage Bachemer Strasse/Lindenburger Allee - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Auusübung des Anhörungsrechtes gemäß 3 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen - ungeändert beschlossen
+- TOP 9.2.1: 265. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.2: Stärkung und Ausweitung des KVB-Busnetzes - geändert beschlossen
+- TOP -: Ergänzungsantrag zu TOP 9.2.2. - ungeändert beschlossen
+- TOP 9.2.3: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.1.2: Jahresbericht 2017 Naturschutzwacht Bezirk 3 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Durchgangsverkehr auf der Amselstraße - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Umwandlung in eine unbefristete Anerkennung als Träger der freien Jugendhilfe; hier: "Tree House Swans gGmbH" - Kenntnis genommen
+- TOP 11.3.2: Verkehrsversuch Sperrung Zülpicher Straße - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
