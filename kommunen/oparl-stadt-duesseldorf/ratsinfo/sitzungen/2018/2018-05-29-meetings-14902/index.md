@@ -1,0 +1,66 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-05-29T17:00:00+02:00
+- Ende: 2018-05-29T19:59:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14902
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14902
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00317716.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00317716.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00317716.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - vertagt
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Nutzung der städtischen Immobilie Heyestraße 51-53 - zur Kenntnis genommen
+- TOP 5: Nutzung der städtischen Immobilie Heyestr. 51-53 - mehrheitlich beschlossen
+- TOP 6: Nutzung der städtischen Immobilie Heyestraße 51 - 53 - zur Kenntnis genommen
+- TOP 7: Freifunk Düsseldorf e. V. - zur Kenntnis genommen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Wiederwahl eines Schiedsmannes für den Bezirk 15 - einstimmig beschlossen
+- TOP 11: Bauern- und Handwerkermarkt auf dem Apostelplatz am 09./10.06.2018 - einstimmig beschlossen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Tischtennisplatten im Dreherpark (Alter Gerresheimer Friedhof) - vertagt
+- TOP 14: Sichere Überquerung der Ludenberger Straße - zurückgezogen
+- TOP 15: Schließung der Postfiliale in Grafenberg - einstimmig beschlossen
+- TOP 16: Filialkonzept der Deutschen Post AG; Veränderung im Filialnetz - zur Kenntnis genommen
+- TOP 17: Instandsetzung St.- Hippolyt-Weg - einstimmig beschlossen
+- TOP 18: Pflasterung Verlängerung Zur Düsselaue - abweichend beschlossen
+- TOP 19: Grüner Pfeil Sichelstr. / Torfbruchstr. - abweichend beschlossen
+- TOP 20: Ergänzung DStO: Hundekot-Tüten - mehrheitlich beschlossen
+- TOP 21: Verkehrserschließung Glasmacherviertel - mehrheitlich abgelehnt
+- TOP 22: Öffnung der Dornaper Straße für den Radverkehr - mehrheitlich beschlossen
+- TOP 23: Öffnung der Friedingstraße für den Radverkehr - mehrheitlich beschlossen
+- TOP 24: Öffnung der Glasblaserstraße für den Radverkehr - mehrheitlich beschlossen
+- TOP 25: Öffnung der Hardenbergstraße für den Radverkehr - abweichend beschlossen
+- TOP 26: Öffnung der Regenbergastraße für den Radverkehr - mehrheitlich beschlossen
+- TOP 27: Öffnung der Schwarzbachstraße für den Radverkehr - zurückgezogen
+- TOP 28: Öffnung der Sonnbornstraße für den Radverkehr - mehrheitlich beschlossen
+- TOP 29: Verbesserungen für die BenutzerInnen des S-Bahnhofs Gerresheim - abweichend beschlossen
+- TOP 30: Sitzbank Benderstraße 28 - einstimmig beschlossen
+- TOP 31: Glasfaserausbau für schnelles Internet im Stadtbezirk 7 - zurückgezogen
+- TOP 32: Grütersaaper Weg - zur Kenntnis genommen
+- TOP 33: Kfz-Zulassungszahlen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 34: Park Villa Sohl, Ludenberg - zur Kenntnis genommen
+- TOP 35: Fußgängerbrücke über die Düssel in Höhe KGV Hippeland - vertagt
+- TOP 36: Baumfällungen im Stadtbezirk 7 - vertagt
+- TOP 37: Prozedere Erhalt der Gaslaternen - vertagt
+- TOP 38: Förderfähigkeit von Verkehrsvorhaben II - vertagt
+- TOP 39: Verkehrsstaus im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 40: Sanierung Ratinger Weg und Weg entlang Pillebach - zur Kenntnis genommen
+- TOP 41: Erhaltungssatzung Dreifaltigkeitsstraße - zur Kenntnis genommen
+- TOP 42: Fahrradverleih - zur Kenntnis genommen
+- TOP 43: E-Tankstelle am P+R-Platz Gerresheim Krankenhaus - zur Kenntnis genommen
+- TOP 44: Fußgängerquerung Schubertstraße - zur Kenntnis genommen
+- TOP 45: Beschilderung von Brücken mit niedrigem Geländer für Radfahrende - zur Kenntnis genommen
+- TOP 46: WiFi4EU: EU-Mittel für freies WLAN beantragen - zur Kenntnis genommen
+- TOP 47: Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 48: Situation Geibelstraße - zur Kenntnis genommen
+- TOP 49: WLAN- und Breitbandausbau in Düsseldorf - zur Kenntnis genommen
