@@ -1,0 +1,144 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-05-29T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638179
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638179
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 31.31.4: Erinnerungsverfahren Farchanter Straße
+- TOP 41.41.8: Vollzug der BaumschutzVerordnung
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 58.: Weiterer Schriftverkehr
+- TOP 59.: Verschiedenes
+- TOP 60.: nichtöffentliche Tagesordnungspunkte
+- TOP 7.7.1: (E) Zweirichtungsverkehr auf dem Radweg der Westendstraße (Ostseite)
+- TOP 7.7.2: (E) Fußgänger am Partnachplatz-Nord Empfehlung Nr. 14-20 / E 01727 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 10.10.2017
+- TOP 9.9.1: (E) Budget der Bezirksausschüsse Kleingartenverein München SW 12 e.V. Jubiläumsfest vom 01. - 03.06.2018 967,00 Euro Az.: 0262.0-7-0198
+- TOP 9.9.2: (E) Budget der Bezirksausschüsse Malteser Hilfsdienst e.V. Stadtgeschäftsstelle München Anschaffung eines Mehrzweckfahrzeuges für die Malteser Einsatzdienste München Stadt 3.000,00 € Az: 0262.0-7-0197
+- TOP 9.9.3: Fest der Demokratie; BA-Beteiligung
+- TOP 9.9.4: (E) Budget der Bezirksausschüsse Kontrapunkt gGmbH Tunnelprojekt Grasweg ab Mitte/Ende Mai 2018 7.107,08 Euro Az.: 0262.0-7-0199
+- TOP 10.10.1: Carsharing im 7. Stadtbezirk erweitern
+- TOP 10.10.2: Parkplätze im Umfeld des Waldfriedhofes bereitsstellen
+- TOP 10.10.3: Anschaffung von Tempomessgeräten
+- TOP 10.10.4: NOx im Stadtbezirk
+- TOP 10.10.5: Instandsetzung Radweg westlich des Westparks
+- TOP 10.10.6: Gegenläufiger Radverkehr im Max-Seidl-Weg
+- TOP 10.10.7: Schulsozialarbeit an Gymnasien
+- TOP 11.11.1: Bau und Umwelt Bildung und Sport Haushalt Parks und Grünanlagen Soziales und Kultur Verkehr
+- TOP 12.12.1: Bericht des Vorsitzenden über längerfristige Projekte Beauftragte gegen Rechtsextremismus Behindertenbeauftragte Delegierter aus dem Migrationsbeirat Gleichstellungsbeauftragte Internetbeauftragter Jugendbeauftragte Kinderbeauftragte Mieterbeirat Migrationsbeauftragter REGSAM-Beauftragter Seniorenbeauftragter
+- TOP 13.13.1: Grüntenstr. Fällung einer Fichte 701 Hr. Keller Hahndorfer Str. Fällung eines Ahorn 713 Fr. Schoneweg Heiterwanger Str. Fällung einer Birke 705 Hr. Nagel Waldfriedhofstr. Fällung zweier Birken 715 Hr. Schmidt
+- TOP 15.15.1: Straßenfest Zirler Wiese
+- TOP 15.15.2: Bürgerfest im Heckenstallerpark
+- TOP 15.15.3: Straßenfest Johann-Houis-Straße
+- TOP 15.15.4: Achilleslauf 2018
+- TOP 16.16.1: Kino,Mond und Sterne 2018
+- TOP 16.16.2: Start der Fahrraddemo ADFC
+- TOP 17.: Baureferat
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Verbesserung der Abstellsituation für Fahrräder SV 14-20 / V 9424
+- TOP 31.31.2: Begrünungsprogramm für Erschließunsstraßen SV 14-20 / V 8441
+- TOP 31.31.3: Spielangebote für Mädchen und Buben SV 14-20 / V 11072
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Angleichung BV - EV an die Bayr. Gemeindeordnung
+- TOP 33.33.2: Reservierung Ratsbox 2018
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Filmaufnahmen" Schicksale"
+- TOP 35.35.2: Fahrbahnsanierung Farchanter Str. 24-48
+- TOP 35.35.3: Gaststättenfortführung
+- TOP 35.35.4: Kurzparkzone vor dem Anwesen Luise-Kiesselbach-Platz 35
+- TOP 35.35.5: Baustelleneinrichtung Hammersbacher Str.
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: 5. Pavillonbauprogramm
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Direkter Austausch des Stadtrates mit der Stadtverwaltung SV 14-20 / V 9931
+- TOP 41.41.2: Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen SV 14-20/V 10817
+- TOP 41.41.3: Beschlussvollzugskontrolle SV 14-20 / V 11493
+- TOP 41.41.4: Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG SV 14-20 / V 10699
+- TOP 41.41.5: Zuwendungsrichtlinien für die Gewährung von Zuwendungen zur Förderung des Dialogs zu Themen der Stadtentwicklung SV 14-20 / V 10520
+- TOP 41.41.6: Strategien zu Schaffung von preisgünstigem Wohnraum SV 14-20 / V 11381
+- TOP 41.41.7: Mehr Kreativität und Qualität in Stadtplanung und Architektur SV 14-20 / V 11348
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Zweckentfremdung
+- TOP 42.42.2: Zweckentfremdungen in Erhaltungssatzung
+- TOP 43.43.1: Baumaßnahme der SWM
+- TOP 44.44.1: Wertstoffcontainer Luise-Kiesselbach-Platz und Friedrich-Hebbel-Straße
+- TOP 44.44.2: Toilettenanlage Wasserspielplatz
+- TOP 44.44.3: Haltestelle Busanzeiger Fuggerstr.
+- TOP 44.44.4: Haltverbot Sonnenlängstr.
+- TOP 44.44.5: Toilettenanlage Partnachplatz
+- TOP 44.44.6: Musikalisches Weinfest
+- TOP 44.44.7: Gratulation zur Ernennung zum Staatsminister
+- TOP 45.: Baureferat
+- TOP 45.45.1: Luise-Kiesselbach-Platz und Kunst am Bau
+- TOP 45.45.2: Lärmschutz für die Anwohnerinnen und Anwohner im Max-Seidl-Weg
+- TOP 45.45.3: Sauberkeit auf der Hochpromenade in der Garmischer Straße
+- TOP 45.45.4: Ersatz für Schaukästen am Mollsee im Westpark
+- TOP 45.45.5: Nutzung der Zelthütten im Westpark als Ausstellungsplattform
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budgetbescheid Feierwerk
+- TOP 47.47.2: Budgetbescheid Maibaumverein Sendling-Westpark
+- TOP 47.47.3: Bezuschussung Maibaumaufstellung durch den BA7
+- TOP 47.47.4: Benennung Straßennamen Einbindung der BAs
+- TOP 48.: Kommunalreferat
+- TOP 48.48.1: Jetzigen Standort der Freiwilligen Feuerwehr Sendling zukünftig als Kinder- und Jugendzentrum nutzen
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Maifeier Luise-Kiesselbach-Platz
+- TOP 49.49.2: Radwegsituation Passauerstraße: Tempo 30
+- TOP 49.49.3: Ausweisung Sackgassen Max-Seidl-Weg und Mainburger Straße.
+- TOP 49.49.4: VVB-Bescheid KKH-Lauf
+- TOP 49.49.5: VVB-Bescheid Vesakhfest
+- TOP 49.49.6: VVB-Bescheid Sommerfest Rosengarten
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Schadstoffmessungen am Luise-Kiesselbach-Platz
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.56.: Verhandlungen mit oBike aufnehmen: Nutzung des öffentlichen Raums muss geregelt werden
+- TOP 57.: Sozialreferat
