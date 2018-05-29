@@ -1,0 +1,61 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-05-29T16:00:00+02:00
+- Ende: 2018-05-29T18:35:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14745
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14745
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00317904.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00317904.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00317904.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: JFE Theodor-Litt-Straße 2, Ersatzneubau für Lüderitzstraße - AuF - Vorlage des Jugendamtes - - passieren lassen
+- TOP 4.3: Zwischenberichterstattung über die Entwicklung des Freiraumkonzeptes durch Vertreter/Innen des Garten-Friedhofs-und Forstamtes - passieren lassen
+- TOP 4.4: Qualitätssicherndes Verfahren mit Öffentlichkeitsbeteiligung - Südlich Hildener Straße - zur zustimmenden Kenntnisnahme - Vorlage des Stadtplanungsamtes - - passieren lassen
+- TOP 4.5: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an die Gesamtschule Stettiner Straße - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10 -Zuschuss an die Fritz-Henkel-Schule- - einstimmig beschlossen
+- TOP 4.7: Bezirklicher Bauunterhalt 2018 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: E-Mobilität in Garath und Hellerhof - zur Kenntnis genommen
+- TOP 5.2: Flugrouten im Bereich Düsseldorf und Köln - zur Kenntnis genommen
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Bürgerbeteiligung und Planungsstand des ehemaligen EDEKA-Grundstücks in Garath Süd-West - schriftlich beantwortet
+- TOP 6.2: Unterricht an der Musikschule im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.3: Durchführung von Besuchen des Elternbesuchdienstes im Düsseldorfer Süden - schriftlich beantwortet
+- TOP 6.4: Baumfällungen im Stadtbezirk 10 - vertagt
+- TOP 6.5: Gewalt in Schulen - schriftlich beantwortet
+- TOP 6.6: Erfassung des Zustandes der Straßen im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.7: Kritische Situation für das Autoparken auf der Jakob-Kneip-Straße - vertagt
+- TOP 6.8: Parkplätze auf der Fahrbahn - Peter-Behrens-Straße - vertagt
+- TOP 6.9: Baumschäden in der Urdenbacher Kämpe - vertagt
+- TOP 6.10: Fahrrad- Häuschen in Hellerhof - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Verbesserung der Pünktlichkeit des SB 57 - einstimmig beschlossen
+- TOP 7.2: Barrierefreie Querungen "T-Kreuzungen" an der Frankfurter Straße/Hellerhofweg und Frankfurter Straße - einstimmig beschlossen
+- TOP 7.3: Planungsstand zur Umsetzung der Barrierefreiheit im Innenbereich der Wilhelm-Schmidtbonn-Straße - einstimmig beschlossen
+- TOP 7.4: Besichtigung einiger ausgewählter Container-Standorte - abweichend beschlossen
+- TOP 7.5: Rückschnitt Vegetation zwischen Graf-von-Stauffenberg-Straße und Hellerhofweg, Einmündung Christoph- - einstimmig beschlossen
+- TOP 7.6: Shared Space Zone am Einkaufszentrum Hellerhof - mehrheitlich beschlossen
+- TOP 7.7: Parkmöglichkeiten Jakob-Kneip-Straße - mehrheitlich beschlossen
+- TOP 7.8: Parkmöglichkeit Josef-Maria-Olbrich-Straße - einstimmig beschlossen
+- TOP 7.9: Herrichtung des Hauptweges durch die Kleingartenanlage in Hellerhof - abweichend beschlossen
+- TOP 7.10: Einladung des VRR und der Deutsche Bahn AG zur Erläuterung der derzeitigen Wagenausstattung der S6 - abweichend beschlossen
+- TOP 7.11: Erweiterung der Abbiegespur von der B8, aus Langenfeld kommend, in die - mehrheitlich beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Reparatur Fuß- und Radwege rund um den Mühlenbach - zur Kenntnis genommen
+- TOP 8.2: Errichtung einer E-Bike Ladestation an der Freizeitstätte Garath - zur Kenntnis genommen
+- TOP 8.3: Beschilderung von Brücken mit niedrigem Geländer für Radfahrende - zur Kenntnis genommen
+- TOP 8.4: Belästigung und belastende Emissionen in Hellehof Ost - zur Kenntnis genommen
+- TOP 8.5: Sachstand zur Baumaßnahme des von der kath. Pfarrgemeinde Düsseldorf-Garath geplanten Pfarrzentrum i - zur Kenntnis genommen
+- TOP 9: Verschiedenes
