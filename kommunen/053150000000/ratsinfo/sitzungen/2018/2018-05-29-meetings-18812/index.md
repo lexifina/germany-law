@@ -1,0 +1,51 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-29T16:10:00+02:00
+- Ende: 2018-05-29T17:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18812
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18812
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00664530.pdf
+- Ergebnisprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00664530.pdf
+- Wortprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00664530.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Kölner Umweltzone - Sache ist erledigt
+- TOP 1.1.1: Beantwortung der Anfrage AN/0046/2018 der SPD-Fraktion im Kölner Rat vom 12.01.2018 zum Thema "Kölner Umweltzone" - Kenntnis genommen
+- TOP 1.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: kommunale Maßnahmen zur Luftreinhaltung - zurückgestellt
+- TOP 1.3: Gräber von Max Reichpietsch und Albin Köbis - zurückgestellt
+- TOP 1.4: Binnenschiffahrt und Luftreinhalteplanung - Sache ist erledigt
+- TOP 1.4.1: Beantwortung der Anfrage Binnenschifffahrt und Luftreinhaltung (0610/2018) - Kenntnis genommen
+- TOP 1.5: Berücksichtigung allergologischer Kriterien bei Baumpflanzungen - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Analyse verschiedener Kleinrammbohrungen (KRB) aus dem Kalkberg - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Köln nimmt an der Aktion "STADTRADELN" vom 16. Juni bis 06. Juli 2018 teil - Kenntnis genommen
+- TOP 3.2: Nutzung von Fernwärme in öffentlichen Gebäuden - Kenntnis genommen
+- TOP 3.3: EU-Projekt Grow Smarter: Mieterversammlung in der Stegerwaldsiedlung - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Ersatzbeschaffung von 3 LKW 18 t mit Ladekran im Bereich "Stadtgrün" hier: Bedarfsfeststellung und Freigabe einer investiven Auszahlungsermächtigung - ungeändert beschlossen
+- TOP 4.2: Gefährdungsabschätzung des PFT-Schadens "Fuggerstraße" in Köln-Porz - ungeändert beschlossen
+- TOP 4.3: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 4.4: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Mitteilungen
+- TOP 7: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7.1: Bekanntmachung der Broschüre "Gemeinsam fürs Klima in Bilderstöckchen - Eine Erfolgsgeschichte über Bürgerengagement auf Stadtteilebene" - Kenntnis genommen
+- TOP 7.2: Neue Kölner Statistik 2/2018 - Kraftfahrzeuge - Kenntnis genommen
+- TOP 7.3: Die Verwaltungsreform im Dezernat für Soziales, Integration und Umwelt - Kenntnis genommen
+- TOP 7.4: Bienenfreundliches Köln - Kenntnis genommen
+- TOP 7.5: Gründung "Obstwiesen-Kommission Köln - Kenntnis genommen
+- TOP 7.6: Messungen von Luftschadstoffen auf Kölner Stadtgebiet - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Mündliche Anfragen
