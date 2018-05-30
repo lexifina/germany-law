@@ -1,0 +1,70 @@
+# 30. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-05-30T17:00:00+02:00
+- Ende: 2018-05-30T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18847
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18847
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Geplantes Bauvorhaben "Simonskaul" - geändert beschlossen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung Sechzigstraße/Zonser Straße (Az.: 02-1600-27/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Messwerte der Feinstaubbelastungen am Niederländer Ufer (AN/0543/2018) - Kenntnis genommen
+- TOP 7.1.2: Tempo 30 auf der Bergstraße oder Einrichtung einer Tempo 30-Zone - Kenntnis genommen
+- TOP 7.1.3: Wiedereinrichten der Gehwege im Bereich der Gocher Straße in Nippes - Kenntnis genommen
+- TOP 7.1.4: Änderung der Fahrtroute der Buslinie 147 - Kenntnis genommen
+- TOP 7.1.5: Aufstellmöglichkeiten für Ford-Leihfahrräder im Bezirk Nippes - Kenntnis genommen
+- TOP 7.1.6: Graseggerstraße - Kenntnis genommen
+- TOP 7.1.7: Umgang mit Leihrädern im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Zustand der Buchsbaumhecke Park Namibia/Usambara/Tanga Straße - Kenntnis genommen
+- TOP 7.2.2: Hotelschließung Hugo-Junker-Straße - Kenntnis genommen
+- TOP 7.2.3: Rodungen entlang der Kleingartenanlage und an der Mülheimer Brücke/Kuhweg - Kenntnis genommen
+- TOP 7.2.4: Chaos Wilhelmplatz - Kenntnis genommen
+- TOP 7.2.5: Verbesserung der App für KVB-Fahrräder und Maßnahmen gegen das Abstellen der Fahrräder an für die Öffentlichkeit nicht zugänglichen Orten - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Durchfahrt Herforder Straße/Militärringstraße - geändert beschlossen
+- TOP 8.1.2: Fahrradabstellplätze/Fahrradnadeln am Wilhelmplatz - zurückgestellt
+- TOP 8.1.3: Böschung Lützlongericher Straße/Longericher Hauptstraße - ungeändert beschlossen
+- TOP 8.1.4: Sicherheit der Radfahrer in der Kurve der Rennbahnstraße Höhe Tennis Club - ungeändert beschlossen
+- TOP 8.1.5: Absperrungen Gustav-Nachtigal-Straße/Toni-Steingass-Park - zurückgestellt
+- TOP 8.1.6: Kleinkindergerechte Ausstattung der Spielplätze im Bezirk Nippes - ungeändert beschlossen
+- TOP 8.1.7: Areal Etzelstraße/Auf dem Ginsterberg - geändert beschlossen
+- TOP 8.1.8: Durchfahrtsverbot Merheimer Straße für LKWs über 7,5 t - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Einbeziehung eines Teilstücks der Frankenthaler Straße in den Schiefersburger Weg in Köln-Bilderstöckchen - ungeändert beschlossen
+- TOP 9.1.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - geändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP 9.2.2: Busanbindung Lentpark - ungeändert beschlossen
+- TOP 9.2.3: 265. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Stärkung und Ausweitung des KVB-Busnetzes - geändert beschlossen
+- TOP 9.2.5: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen am 10.06.2018 im Stadtbezirk Nippes - ungeändert beschlossen
+- TOP 9.2.6: Anpassung des Planungsbeschlusses zur Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Turnhalle am Standort des ehemaligen "Nippesbad", Friedrich-Karl-Str. / Ecke Niehler Kirchweg, 50737 Köln-Nippes - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Kostenfreie WLAN-Hotspots im Bereich der S-Bahnhöfe Nippes, Bilderstöckchen, Longerich - Kenntnis genommen
+- TOP 10.2.2: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Bekanntmachung der Broschüre "Gemeinsam fürs Klima in Bilderstöckchen - Eine Erfolgsgeschichte über Bürgerengagement auf Stadtteilebene" - Kenntnis genommen
+- TOP 10.2.4: Parkmöglichkeiten auf der Contzenstraße (Longerich) - Kenntnis genommen
+- TOP 10.2.5: Parksituation auf der Niehler Straße entlang des Clouth-Geländes - Kenntnis genommen
+- TOP 10.2.6: Absperrungen Gustav-Nachtigal-Straße/Toni-Steingass-Park - Kenntnis genommen
+- TOP 10.2.7: Einrichtung eines breiten Fußweges oder einer Spielstraße zwischen Franz-Denhoven-Straße und Pastor-Wolff-Straße - Kenntnis genommen
