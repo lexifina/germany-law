@@ -1,0 +1,51 @@
+# 58. Sitzung des Ausschusses für Wirtschaftsförderung
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-05-30T16:00:00+02:00
+- Ende: 2018-05-30T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/12
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6648
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6648
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_WF_2018_05_30 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00348449.pdf
+- Wortprotokoll: Beschlussempfehlung_WF_A0406/18_ff http://oparl.dresden.de/bodies/0001/downloadfiles/a/00351139.pdf
+
+## Tagesordnung
+
+- TOP -: Geschäftsbereich Finanzen, Personal und Recht
+- TOP 1: Beschlussvorlagen zu Vergaben freiberuflicher Leistungen
+- TOP 1.1: Vergabenummer: A16/17, Schulstandort Freiberger Straße, Neubau Allgemeinbildende weiterführende Schule mit 4-Feld-Sporthalle, Planungsleistungen der Objektplanung gem. § 34 i. V. mit Anlage 10 HOAI 2013, stufenweise Vergabe - Zustimmung mit Ergänzung
+- TOP 1.2: Vergabenummer: A20/17, Schulstandort Freiberger Straße, Neubau Allgemeinbildende weiterführende Schule mit 4-Feld-Sporthalle, Planungsleistungen der Tragwerksplanung gem. § 51 i. V. m. Anlage 14, HOAI 2013, stufenweise Vergabe - Zustimmung mit Ergänzung
+- TOP 1.3: Vergabenummer: A21/17 Schulstandort Freiberger Straße, Neubau Allgemeinbildende weiterführende Schule und 4-Feld-Sporthalle, Objektplanungsleistungen für Freianlagen gemäß § 39 ff. HOAI 2013 i. V. m. Anlage 11, Lph 2-9, stufenweise Vergabe - Zustimmung
+- TOP 2: Beschlussvorlagen zu Vergaben für Einkäufe und Dienstleistungen
+- TOP 2.1: Vergabenummer: 2018-4012-00004, Unterhalts- und Grundreinigung Vitzthum-Gymnasium, Paradiesstraße 35, 01217 Dresden - Zustimmung
+- TOP 2.2: Vergabenummer: 2018-4012-00009, Unterhalts- und Grundreinigung 9. Oberschule "Am ElbePark", Lommatzscher Straße 121, 01139 Dresden - Zustimmung
+- TOP 3: Beschlussvorlagen zu Bauvergaben
+- TOP 3.1: Vergabenummer: 2018-6615-00026, Deckentausch Dohnaer Straße Knotenpunkt (KP) Langer Weg, Los Straßen- und Tiefbau - Zustimmung
+- TOP 3.2: Vergabenummer: 2018-6615-00017, Kreuzung Prellerstraße - Goetheallee - Käthe-Kollwitz-Ufer, Los Straßen- und Tiefbau - Zustimmung
+- TOP 3.3: Vergabenummer: 2018-6615-00016, Elbradweg Loschwitzer Wiesenweg zwischen Friedrich-Press-Straße und Altwachwitz, Los: Straßen-und Tiefbau - Zustimmung
+- TOP 3.4: Vergabenummer: 2018-6615-00022, Fahrbahnerneuerung der Washingtonstraße Ost von Flügelwegbrücke bis Scharfenberger Straße, Los: Straßenbau - Zustimmung
+- TOP 3.5: Vergabenummer: 2018-6615-00021, Rahmenvertrag Kleinreparaturen an Fahr-, Geh- und Radbahnen 2018-2020, Los 1 bis 8 - Zustimmung
+- TOP 3.6: Vergabenummer: 2018-65-00065, 10. Grundschule, Neubau Einfeld-Sporthalle, Struvestraße 11, 01069 Dresden, Los 51: Garten- und Landschaftsbau - Vertagung
+- TOP 3.7: Vergabenummer: 2018-65-00074, Erweiterungsbau 47. Grundschule und Neubau Einfeldsporthalle, Mockritzer Straße 19, 01219 Dresden, Los 320-04: Metallbau (inkl. Fenster und Innenelemente) - Zustimmung
+- TOP 3.8: Vergabenummer: 2018-65-00086, BSZ für Wirtschaft Franz Ludwig Gehe, Energetische Sanierung Schulgebäude, Leutewitzer Ring 139-141, 01169 Dresden; Los 07.3: Rohbauarbeiten Verbinder - Vertagung
+- TOP 3.9: Vergabenummer: 2018-GB111-00032, Kita Anton-Graff-Straße 9, 01309 Dresden, Los 02 - Landschafts- und Tiefbau - Zustimmung
+- TOP 3.10: Vergabenummer: 2018-GB111-00002, Förderschule Makarenko, Leisniger Straße 76, 01127 Dresden, Los 01 - Bauleistungen - Zustimmung
+- TOP 3.11: Vergabenummer: 2018-GB111-00027, Gymnasium Dreikönigsschule - Sanierung Haus A-C, Louisenstraße 42, 01099 Dresden, Los A02 - Dachdecker- und Dachklempner - Zustimmung
+- TOP 3.12: Vergabenummer: 2018-GB111-00029, Gymnasium Dreikönigsschule, Sanierung Haus A-C, Louisenstraße 42, 01099 Dresden; Los A08: Außenfenster und -türen - Zustimmung
+- TOP 3.13: Vergabenummer: 2018-GB111-00048, Entwicklung Schulstandort Dresden-Pieschen, Ecke Gehestraße/Erfurter Straße, 01127 Dresden, Flurstück 1298/9, 1225/14; VE03.2 Rohbau Sporthalle Nord - Zustimmung
+- TOP 3.14: Vergabenummer: 2018-GB111-00035, Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9,1225/14; - Zustimmung
+- TOP 3.15: Vergabenummer: 2018-GB111-00039, Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9, 1225/14; VE06.1 - Metallarbeiten/Alu-Fenster/Pfosten-Riegel-Fassade - Zustimmung
+- TOP 3.16: Vergabenummer: 2018-GB111-00038; Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9, 1225/14; VE06.2 - Holz-Alufenster und Sonnenschutz - Zustimmung
+- TOP 3.17: Vergabenummer: 2018-GB111-00037, Entwicklung Schulstandort Dresden-Pieschen, Ecke Gehestraße/Erfurter Straße, 01127 Dresden, Flurstück 1298/9, 1225/14; VE08.1 Trockenbau Wände - Zustimmung
+- TOP 3.18: Vergabenummer: 2018-GB111-00042, Entwicklung Schulstandort Dresden-Pieschen, Ecke Gehestraße/Erfurter Straße, 01127 Dresden, Flurstück 1298/9, 1225/14, VE10.3 Metallbau- und Schlosserarbeiten - Geländer - Zustimmung
+- TOP 3.19: Vergabenummer: 2018-GB111-00041, Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9, 1225/14; VE21 - Lüftung - Zustimmung
+- TOP 3.20: Vergabenummer: 2018-GB111-00052, Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9, 1225/14; VE20 - Heizung - Zustimmung
+- TOP 3.21: Vergabenummer: 2018-GB111-00053, Entwicklung Schulstandort Dresden-Pieschen, Ecke Gehestraße/Erfurter Straße, 01127 Dresden, Flurstück 1298/9, 1225/14; VE22 Sanitär - Zustimmung
+- TOP 3.22: Vergabenummer: 2018-GB111-00051, Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9, 1225/14; VE23 MSR und Gebäudeleittechnik (GLT) - Zustimmung
+- TOP 3.23: Vergabenummer: 2018-GB111-00040, Entwicklung Schulstandort Dresden-Pieschen, Ecke Gehestraße/Erfurter Straße, 01127 Dresden, Flurstück 1298/9, 1225/14; VE24 Starkstrom - Zustimmung
+- TOP 3.24: Vergabenummer: 2018-GB111-00050, Entwicklung Schulstandort Dresden-Pieschen, Ecke Gehestraße/Erfurter Straße, 01127 Dresden, Flurstück 1298/9, 1225/14; VE25 Sicherheitstechnik - Zustimmung
+- TOP 3.25: Vergabenummer: 2018-GB111-00036, Entwicklung Schulstandort Dresden-Pieschen, 01127 Dresden, Ecke Gehestraße/Erfurter Straße, Flurstück 1298/9, 1225/14; VE30 Freianlagen - Zustimmung
+- TOP 4.2: Offene Beschlussvorlagen
