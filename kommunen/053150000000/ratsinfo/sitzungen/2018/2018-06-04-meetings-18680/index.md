@@ -1,0 +1,70 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-04T17:00:00+02:00
+- Ende: 2018-06-04T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18680
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18680
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage: Probleme wegen knapper Parkplatzsituation rund um die Rüdesheimer Straße
+- TOP 1.2: Einwohnerfrage: Lichtsignalanlage auf der Heidelberger Straße bzw. Kopernikusstraße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage zum Erhalt der Grabstätte von Wilhelm David auf dem Friedhof Holweide (AN/0509/2018) - Kenntnis genommen
+- TOP 7.1.2: Kennzeichnung der Ampido-Parkplätze auf den Parkplätzen an der Mülheimer Stadthalle - Kenntnis genommen
+- TOP 7.1.3: Schulweg zum Teilstandort der Gesamtschule Höhenhaus - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.1.4: Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.1.5: Einrichtung einer Querungshilfe auf der Heidelberger Strasse in Buchforst - Kenntnis genommen
+- TOP 7.1.6: Buslinie 434 - Änderung der Streckenführung - Kenntnis genommen
+- TOP 7.1.7: Antwort auf die Anfrage gem. § 38 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.4: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Spielhallen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.5: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Historische Grabstätte der Familie von Andreae - Kenntnis genommen
+- TOP 7.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Kreisverkehrsplatz Neufelder Straße/Andersenstraße/Schnellweider Straße/Schwabstraße - ungeändert beschlossen
+- TOP 8.1.2: Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verbesserung der Beleuchtung in der Von-Quadt-Straße im Bereich des Seniorenzentrums Der SBK Köln-Dellbrück, zwischen Dellbrücker Hauptstraße und dem Haus 78 - ungeändert beschlossen
+- TOP 8.1.3: Antrag der SPD-Fraktion: Prüfung der Verkehrssituation für Fußgänger und Radfahrer auf der Herler Straße (Höhe Straßenbahn- und Bushaltestelle Herler Straße) - ungeändert beschlossen
+- TOP 8.1.4: Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Erneuerung der Fahrbahndecke in der Miltzstraße in Köln-Flittard - ungeändert beschlossen
+- TOP 8.1.5: Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Instandsetzung der Gehwege im Jungbornweg in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8.1.6: Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Prüfung der Verkehrssituation auf dem Stammheimer Ring (ab Bahnüberquerung und bis Höhe Schloßstraße) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Querungshilfe Auenweg - ungeändert beschlossen
+- TOP 9.1.2: Deckensanierung auf der Frankfurter Straße zwischen der Ackerstraße und der Montanusstraße - ungeändert beschlossen
+- TOP 9.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.4: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 264. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - abgelehnt (in der Vorberatung)
+- TOP 9.2.2: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - zurückgestellt
+- TOP 9.2.3: Euroforum Nord in Köln-Mülheim, 1. Änderung; 69460/07; Satzungsbeschluss - geändert beschlossen
+- TOP 9.2.4: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert beschlossen
+- TOP 9.2.5: Stärkung und Ausweitung des KVB-Busnetzes - geändert beschlossen
+- TOP 9.2.6: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Straße 219a, 51063 Köln-Mülheim - Planungsbeschluss - zurückgestellt
+- TOP 9.2.7: Planungsaufnahme zur Erstellung eines Erweiterungsbaus für die KGS Thurner Str. 23, Nebenstelle Urnenstr. 7, 51069 Köln-Dellbrück - geändert beschlossen
+- TOP 9.2.8: Errichtung eines neuen Schulgebäudes sowie einer 6-fach Sporthalle für die Willy-Brandt-Gesamtschule Im Weidenbruch 214, 51061 Köln - Beschluss über Mehrausgaben gemäß § 13 Abs 4 Satz 2 der Betriebssatzung der Gebäudewirtschaft - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.4: Umgestaltung Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
