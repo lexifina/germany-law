@@ -1,0 +1,62 @@
+# 32. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-04T17:00:00+02:00
+- Ende: 2018-06-04T21:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18839
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18839
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der CDU-Fraktion, betr.: Open Air Veranstaltungen / Arena an der Wassermannhalle - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Baumfällungen an der Subbelrather Straße - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Teilsperrung der Philippstraße - Kenntnis genommen
+- TOP 6.3.1: Teilsperrung der Philippstraße - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Die Linke, betr.: Abgeschlossenheitsbescheinigungen – Umwandlung von Miet- in Eigentumswohnungen im Haus Stammstraße 4/Hansemannstraße 54 - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Sachstand Westfriedhof - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion Die Linke, betr.: Schädigung des denkmalgeschützten Hauses Hansemannstraße 2 - Kenntnis genommen
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Anfrage: Anlage von Baumscheiben auf dem Erlenweg als Maßnahme der Verkehrsberuhigung - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Verlegung des Bickendorfer Wochenmarktes auf den Mittelstreifen der Wilhelm-Mauser-Str. - endgültig zurückgezogen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.1: Ergänzungsantrag der SPD-Fraktion zu TOP 8.2, betr.: Hansemannstraße 2 - geändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion, betr.: Vorstellung der Verkehrsanbindung Gesamtschule Vogelsang - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Denkmalschutz im Bezirk Ehernfeld - endgültig zurückgezogen
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen, betr.: Barrierefreier Ausbau der Linie 13 - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - geändert beschlossen
+- TOP 9.2: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 9.3: 3. Vergabe der bezirklichen Finanzmittel 2018 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.2: 264. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.3: 265. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.4: Planungsaufnahme und Planungsbeschluss zur Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstraße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.5: Stärkung und Ausweitung des KVB-Busnetzes - Kenntnis genommen
+- TOP 10.6: Stärkung und Ausweitung des KVB-Busnetzes - geändert beschlossen
+- TOP 10.6.1: Änderungsantrag der CDU-Fraktion zu TOP 10.6, betr.: Buslinie zur Verbindung der Endhaltestellen der Stadtbahn - ungeändert beschlossen
+- TOP 10.6.2: Änderungsantrag der CDU-Fraktion zu TOP 10.6, betr.: Verlängerung der Buslinie 145 - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: REWE-Markt Venloer Straße 310 - Kenntnis genommen
+- TOP 12.2: Beantwortung mehrerer mündlicher Anfragen in der 30. Sitzung der Bezirksvertretung Ehrenfeld vom 19.03.2018 zu TOP 10.5: Planungsaufnahme zur Errichtung eines Erweiterungsbaus für die Michael-Ende-Schule, KGS Platenstr. 7-9, 50825 Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.3: Querungsmöglichkeiten über die Äußere Kanalstraße erweitern - sicheren Fußgängerüberweg vom Takufeld zum Ossendorfer Bad einrichten - Kenntnis genommen
+- TOP 12.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.5: Auswirkungen Bautätigkeit Rochusplatz - Kenntnis genommen
+- TOP 12.6: Fahrbahnsanierug Wilhelm-Mauser-Straße - Kenntnis genommen
+- TOP 12.7: Maarweg - Kenntnis genommen
+- TOP 12.8: Marktsituation auf dem Neptunplatz - Kenntnis genommen
+- TOP 13: mündliche Anfragen
