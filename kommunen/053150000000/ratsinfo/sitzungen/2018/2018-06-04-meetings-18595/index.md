@@ -1,0 +1,75 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-04T17:00:00+02:00
+- Ende: 2018-06-04T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18595
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18595
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Umsiedlung von Flüchtlingen im Rahmen der Integrativen Quartiersentwicklung am Kalscheurer Weg - Kenntnis genommen
+- TOP 7.1.2: Anmeldezahlen aller Schulen im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Abschnittsweise Ertüchtigung des Kuckuckswegs in Godorf, Baentwortung einer mdl. Nachfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen am 23.04.2018 - Kenntnis genommen
+- TOP 7.1.5: Feuer in der Hans-Berge Straße in Rondorf, Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen vom 23.04.2018 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Veränderungen im Gewerbegebiet an der Weißer Straße in Köln-Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Bahnhofstraße in Sürth: Geschwindigkeitsmessungen, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3.1: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 7.2.4: Informationen zum Bezirksjugendamt in Köln-Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Beantwortung durch das Fachamt in der Sitzung der Bezirksvertretung Rodenkirchen - Kenntnis genommen
+- TOP 7.2.5: Erschließung des Gewerbegebietes in Immendorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Genehmigungen von Film- und Fernseh-Aufnahmen im Stadtteil Köln-Bayenthal, Gemeinsame Anfrage aller Fraktionen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Ausbau P+R Parkplatz in Godorf, Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.2: Begrünung der Fassade der Transformatorenanlage an der Stadtbahnhaltestelle Marktstraße in Köln-Bayenthal, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Gestaltung des Kreuzungsbereichs Auenweg / Mettfelder Straße in Rodenkirchen, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.4.1: Gestaltung Kreuzungsbereich Auenweg / Mettfelder - Ergänzungsantrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.5: Höninger Weg: Bewirtschaftung von Parkplätzen, Antrag der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.5.1: Änderungsantrag der CDU-Fraktion: Höninger Weg: Bewirtschaftung von Parkplätzen - Sache ist erledigt
+- TOP 8.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verlängerung der Rechtsabbiegespur an der Kreuzung Militärringstr. mit gleichzeitiger Schutzbepflanzung der angrenzenden Grünfläche - endgültig abgelehnt
+- TOP 8.1.7: Blumenwiesen: Verstärkte Anlage im Bezirk, Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Parkraumkonzept Bewohnerparkgebiet in Köln-Bayenthal - zurückgestellt
+- TOP 9.1.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.3: Bestellung einer stellvertretenden Schriftführerin gem. § 36 Abs. 5 Satz 2 i.V.m. § 52 Abs. 1 GO - ungeändert beschlossen
+- TOP 9.1.4: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - geändert beschlossen
+- TOP 9.1.5: Busführung durch das Baugebiet Sürther Feld - geändert beschlossen
+- TOP 9.1.6: Vergabe der bezirksorientierten Mittel 2018 gemäß § 37 Absatz 3 GO NW - 1. Runde - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 265. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.2: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert empfohlen
+- TOP 9.2.3: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Mitteilung zur Beschlussvorlage 2346/2017 Parkraumkonzept Bewohnerparkgebiet in Köln-Bayenthal - Kenntnis genommen
+- TOP 10.2.3: Umgestaltung der am Rodderweg in Köln-Sürth gelegenen Grasfläche in eine Blumenwiese mit Blühpflanzen - zurückgestellt
+- TOP 10.2.4: Behindertenparkplätze an der neuen Post-Agentur in Zollstock - Kenntnis genommen
+- TOP 10.2.5: Weiterführung der Postfiliale Köln-Zollstock (Beschluss des Ausschusses für Soziales und Senioren vom 01.03.2018 bzw. der BV Rodenkirchen vom 19.02.2018) - Kenntnis genommen
+- TOP 10.2.6: Stadtbahnanbindung Rondorf/Meschenich; Erhöhung der geplanten Wohneinheiten von 1.000 WE auf 1.300 WE - zurückgestellt
+- TOP 10.2.7: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) in Anwendung des beschleunigten Verfahrens nach § 13 a BauGB - zurückgestellt
+- TOP 10.2.8: Anmietung eines Objektes für Geflüchtete in Raderberg - Kenntnis genommen
