@@ -1,0 +1,65 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-04T14:35:00+02:00
+- Ende: 2018-06-04T16:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18479
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18479
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Handstreichartige Neustrukturierung der Stadtwerkegeschäftsführung und ihre Folgen - Sache ist erledigt
+- TOP 2: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 3.1: Haushaltsplanaufstellung für das Hj. 2019 inklusive Mittelfristplanung bis 2022 - Kenntnis genommen
+- TOP 3.2: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 3.3: Maßnahmenliste Sanierung von Schultoiletten - Kenntnis genommen
+- TOP 3.4: 20. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 3.5: Sachstandsbericht MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 3.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 3.7: Gründung einer Wirtschaftsförderungs-GmbH - Aktueller Sachstand Mai 2018 - Kenntnis genommen
+- TOP 3.8: Projektergebnisse und Abschlussbericht „Leistungsfähige Infrastruktur generationengerecht finanziert – am Beispiel der Stadt Köln“ (Datengrundlagen, Bedarfsermittlung, Tragfähigkeit) - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Inventur von Möbeln und Computern an städtischen Schulen - Kenntnis genommen
+- TOP 4.1.1: Inventur von Möbeln und Computern an städtischen Schulen; Anfrage der FDP-Fraktion AN/0726/2018 - Kenntnis genommen
+- TOP 4.2: Akademie der Künste der Welt, Köln gGmbH – wirtschaftliche Entwicklung - zurückgestellt
+- TOP 4.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen, CDU-Fraktion betreffend: Akademie der Künste der Welt, Köln gGmbH - wirtschaftliche Entwicklung - zurückgestellt
+- TOP 4.3: Verantwortungsvolle Ausübung von Aufsichtsratsmandaten und der Public Corporate Governance Kodex (PCGK) der Stadt Köln - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 6: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 8: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 8.1: Ersatzbeschaffung von 3 LKW 18 t mit Ladekran im Bereich "Stadtgrün" hier: Bedarfsfeststellung und Freigabe einer investiven Auszahlungsermächtigung - ungeändert beschlossen
+- TOP 8.2: Beauftragung der 3. Ausbaustufe zur Web-Anwendung "Restaurierungsdokumentationsmodul" (RDM) - ungeändert beschlossen
+- TOP 9: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 10: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10.1: Überplanmäßige Mehrauszahlung im Teilfinanzplan 0111 – Sonstige Innere Verwaltung, Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 11: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 12: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 12.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für die Hj.2017 und 2018 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzungen 2016/2017 bzw. 201 - ungeändert beschlossen
+- TOP 13: Allgemeine Beschlussvorlagen
+- TOP 13.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o.Nr., 50765 Köln-Blumenberg, Planungsbeschluss - ungeändert beschlossen
+- TOP 13.2: Baubeschluss für die Umgestaltung des Knotenpunktbereiches Sachsenring/Ulrichgasse/Vorgebirgstraße sowie für die Änderung der Verkehrsführung im Knotenpunktbereich mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan - ungeändert beschlossen
+- TOP 13.3: Ausschreibung eines Mietvertrages für den Bezug eines Neubaus für Bühnenwerkstätten - ohne Votum in nachfolgende Gremien
+- TOP 13.4: Verteilung von Restmitteln zur Förderung von Interkulturellen Zentren für das Jahr 2018 - Teil II - ungeändert beschlossen
+- TOP 13.5: Bau einer Freitreppe an St. Maria im Kapitol und Umgestaltung der Pipinstraße - geändert beschlossen
+- TOP 13.6: Weiterplanungsbeschluss Niehler Gürtel sowie Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201 – Straßen, Wege, Plätze, - ungeändert beschlossen
+- TOP 13.7: Planung einer temporären Fuß- und Radwegerampe von der unterstromigen linksrheinischen Seite der Hohenzollernbrücke zum Breslauer Platz - ungeändert beschlossen
+- TOP 13.8: Baubeschluss für die Generalinstandsetzung der Industriestraße im Bereich zwischen dem Parkplatz 7 (Fühlinger See) und Oranjehofstraße mit gleichzeitiger Umgestaltung der Zufahrtsrampe Oranjehofstraße/Industriestraße sowie Freigabe von investiven - ungeändert beschlossen
+- TOP 13.9: Vergabe von Zuschüssen zur Technikförderung und Bauunterhaltung der freien Szene - geändert beschlossen
+- TOP 13.10: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2018/19 - ohne Votum in nachfolgende Gremien
+- TOP 13.11: Wirtschaftsplan des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln für das Wirtschaftsjahr 2018 - ungeändert beschlossen
+- TOP 13.12: Kölner Verkehrs-Betriebe AG (KVB): Beschaffung von niederflurigen Stadtbahnwagen - ungeändert beschlossen
+- TOP 13.13: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 13.14: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 13.15: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2017 - ungeändert beschlossen
+- TOP 13.16: Errichtung eines neuen Schulgebäudes sowie einer 6-fach Sporthalle für die Willy-Brandt-Gesamtschule Im Weidenbruch 214, 51061 Köln - Beschluss über Mehrausgaben gemäß § 13 Abs 4 Satz 2 der Betriebssatzung der Gebäudewirtschaft - ungeändert beschlossen
+- TOP 13.17: Untersuchungsdesign zur Prüfung der 3 Alternativstandorte Köln-Merheim, Flughafen Köln-Bonn und Flugplatz Kurtekotten - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 13.18: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert beschlossen
+- TOP 13.19: Vertretung der Stadt Köln in Haupt- und Gesellschafterversammlungen - ohne Votum in nachfolgende Gremien
+- TOP 14: Mündliche Anfragen
