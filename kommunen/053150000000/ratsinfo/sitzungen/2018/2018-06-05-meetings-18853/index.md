@@ -1,0 +1,52 @@
+# Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-05T17:00:00+02:00
+- Ende: 2018-06-05T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18853
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18853
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00663708.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00663708.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00663708.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung neuer Mitglieder - zugesetzt-
+- TOP 1: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 1.1: Handlungsleitfaden zum Umgang mit sexistischer und sexualisierter Werbung in Köln (Mitteilung 0198-2018) - zurückgestellt
+- TOP 1.1.1: Beantwortung: Handlungsleitfaden zum Umgang mit sexistischer und sexualisierter Werbung in Köln - zurückgestellt
+- TOP 1.2: Via Culturalis - Beteiligung des Frauengeschichtsvereins und des Centrum für schwule Geschichte - vertagt vom 22.03.2018- - Kenntnis genommen
+- TOP 1.3: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4: Aufwände der Stadt Köln zugunsten des Kölner Karnevals und des Kölner CSD - zurückgestellt
+- TOP 1.5: Termin mit den Fraktionen zur Beteiligung an der HH Planung 2019 - Kenntnis genommen
+- TOP 2: Trans*
+- TOP 2.1: Schwimmzeiten für Trans* - Kenntnis genommen
+- TOP 2.2: Trans* im Krankenhaus
+- TOP 3: LSBTI Geflüchtete
+- TOP 3.1: Unterbringung von LSBTI Geflüchteten - Kenntnis genommen
+- TOP 4: Sichtbarkeit von Lesben in Köln
+- TOP 4.1: Lesbenfrühlingstreffen 2019 in Köln - Kenntnis genommen
+- TOP 4.2: Städtepartnerschaftlicher Austausch zum CSD 2018 - Kenntnis genommen
+- TOP 5: Diversity
+- TOP 5.1: Die Verwaltungsreform im Dezernat für Soziales, Integration und Umwelt - Kenntnis genommen
+- TOP 5.2: Kampagne für Vielfalt und Wertschätzung, gegen Intoleranz, Diskriminierung und Ausgrenzung im Rahmen von Diversity - Kenntnis genommen
+- TOP 5.3: Veröffentlichung der Broschüre 2020: Köln liebt Vielfalt Diversity Konzept - Kenntnis genommen
+- TOP 6: Sachstandsberichte und Mitteilungen
+- TOP 6.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht - Kenntnis genommen
+- TOP 6.2: Arbeitsgruppe "Polizei" - vertagt vom 22.03.2018
+- TOP 6.3: Integrationsbudget 2018 - vertagt vom 22.03.2018 - - Kenntnis genommen
+- TOP 6.4: Aktionsplan LSBTI -vertagt vom 22.03.2018 - - Kenntnis genommen
+- TOP 6.5: Städtische Förderung des Homochrom Filmfestivals - Kenntnis genommen
+- TOP 7: Berichte aus Ausschüssen
+- TOP 8: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 8.1: Tausch der Funktionen des Vertreters und Stellvertreters im Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 8.2: Durchführung einer Kampagne zur Erhöhung der Anzeigenbereitschaft LST - ungeändert beschlossen
+- TOP 9: Neue Anfragen
+- TOP 10: Öffentlichkeitsarbeit
+- TOP 10.1: Rainbow Cities Ausstellung 2018: Thema Transgender - Kenntnis genommen
+- TOP 11: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 12: Verschiedenes
