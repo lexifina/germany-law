@@ -1,0 +1,55 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-06-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674196
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674196
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 3.: Genehmigung der Protokolle vom 07.02.2017
+- TOP 2: Allgemeines
+- TOP 1.: Termine
+- TOP 2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 1.3.: Sommerfest Wiesenwerkstatt eV.
+- TOP 9: Verschiedenes
+- TOP 1.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Kath. Stadtpfarrei St. Johann Baptist München-Solln Sommerkonzert am 08.07.2018 1.800,00 € Az: 0262.0-19-0214
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Internationaler Bund Süd/Jugendhilfe&Migration/Schulsozialarbeit Trommel- und Percussion-Projekt zu Beginn des Schuljahres 2018/19 700,00 € Az: 0262.0-19-0210
+- TOP 1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 1.1.: (U) UNB-Bescheid Bestelmeyerstr.
+- TOP 1.2.: (U) UNB-Beischeid Engadiner Str.
+- TOP 1.: Antwortschreiben, Unterrrichtungen, Berichte
+- TOP 1.1.: (E) Barrierefreie Haltestelle_Vincenz-Schüpfer-Str
+- TOP 1.2.: Gehwegparken Pognerstr
+- TOP 1.3.: (U) Haltverbot Teschener Str.11
+- TOP 1.4.: (A) Kurzparkzone Wolfrathauser Str.
+- TOP 1.5.: (A) Tempo30 vor Boschetsreider Schule
+- TOP 1.6.: (A) Halteverbot Blieskastelstraße
+- TOP 1.7.: (A) Haltverbot Neunkirchner Str.
+- TOP 1.8.: (A) Tempo30 vor Schulen in der Drygalski_Allee
+- TOP 1.9.: (A) Tempo30 vor Schule in der Stäblistr.
+- TOP 1.10.: (A) Tempo30 vor Schule in der Wolfratshausener Str.
+- TOP 1.11.: (A) Tempo30 vor Schule in der Züricher Str
+- TOP 1.12.: (A) Behindertenparkplatz Engadiner Str
+- TOP 1.: Antwortschreiben, Unterrrichtungen, Berichte
+- TOP 1.: Antwortschreiben, Unterrrichtungen, Berichte
+- TOP 1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 1.1.: Bescheid_Maifest_Maibaumverein_Thalkirchen
+- TOP 1.2.: (U) Einladung Jour-Fix 060618
