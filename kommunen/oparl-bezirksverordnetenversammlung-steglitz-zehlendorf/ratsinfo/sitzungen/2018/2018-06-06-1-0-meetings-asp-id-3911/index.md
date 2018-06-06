@@ -1,0 +1,56 @@
+# 14. öffentliche Sitzung des Ausschusses für Ordnung, Verkehr und Bürgerdienste
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-06-06T17:30:00+02:00
+- Ende: 2018-06-06T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=61
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3911
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3911
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 02.05.2018 - erledigt
+- TOP 3: Anträge - erledigt
+- TOP 3.1: Feuerwehrzufahrt und -aufstellfläche in der Treitschkestraße freihalten - erledigt
+- TOP 3.2: Steglitz-Zehlendorf macht sich stark für die Tram / Erschließung aus dem Osten - vertagt
+- TOP 3.3: Steglitz-Zehlendorf macht sich stark für die Tram / Erschließung aus dem Westen - im Ausschuss abgelehnt
+- TOP 3.4: Sicherer Schulweg Emil Molt Schule und Süd-Grundschule - mit Änderungen im Ausschuss beschlossen
+- TOP 3.5: Sicherheit in der Giesensdorfer Straße - mit Änderungen im Ausschuss beschlossen
+- TOP 3.6: Abbiegesituation Drakestraße/Ringstraße für Busse verbessern - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.7: Barrierefreier Zugang S-Bahnhof Nikolassee - vertagt
+- TOP 3.8: Tempo 30 vor der Kita und Kirchengemeinde in der Mühlenstraße durchsetzen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.9: Shisha-Bars - im Ausschuss abgelehnt
+- TOP 3.10: Verbesserte Umsteige-Chancen am Bus-Knoten Lankwitz Kirche im Nachtnetz (N81, N84 und M82) - vertagt
+- TOP 3.11: Illegalen Welpenhandel bekämpfen - mit Änderungen im Ausschuss beschlossen
+- TOP 3.12: Müllabfuhr in der Marschnerstraße sicherstellen - vertagt
+- TOP 3.13: Keine weitere Anlage von Fahrradangebotsstreifen ohne Bedarfsanalyse - im Ausschuss abgelehnt
+- TOP 3.14: Hüttenweg Ecke Onkel-Tom-Straße - Grüner Pfeil - mit Änderungen im Ausschuss beschlossen
+- TOP 3.15: Bushaltestelle Teltowwerft einrichten - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.16: Lärmschutz: Tempo 30 zwischen 22 und 6 Uhr in der Kaiser-Wilhelm-Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.17: Sicherer Fußgängerverkehr Harry-S.-Truman-Allee - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.18: Fahrradstraße Hochbaumstraße einrichten II - mit Änderungen im Ausschuss beschlossen
+- TOP 3.19: Busbeschleunigung Sachtleben-/Machnower Straße - vertagt
+- TOP 3.20: Verbesserung der Querungsmöglichkeit über die Bäkebrücke - vertagt
+- TOP 3.21: Aushänge und Notfallkarten von Hilfetelefonnummern gegen Gewalt im Bezirk ergänzen! - vertagt
+- TOP 3.22: Cannabiskonsum unter Jugendlichen - vertagt
+- TOP 3.23: Anpassung der Software bei Lichtzeichenanlagen - vertagt
+- TOP 3.24: Kreuzung Unterführung Stadtautobahn / Schildhornstraße / Kreuznacher Straße - vertagt
+- TOP 3.25: Energie sparen LZA Bismarckstraße/Selerweg - vertagt
+- TOP 3.26: Durchfahrtsbreitenverbote umstellen - vertagt
+- TOP 3.27: Bushaltestelle Dillgesstraße deutlich kennzeichnen - vertagt
+- TOP 3.28: Parken im Lupsteiner Weg - vertagt
+- TOP 3.29: Pilotprojekt für eine Abstimmung zwischen der Abfahrt des Busses der Linie 112 der BVG mit der S-Bahn am Bahnhof Nikolassee in den Abendstunden - vertagt
+- TOP 3.30: Akzeptanz von Kreditkarten im Bürgeramt - vertagt
+- TOP 3.31: Verstärkung der Buslinie 284 zwischen S-Bahnhof Lichterfelde-Süd und Haltestelle Lankwitz Kirche - vertagt
+- TOP 3.32: Radstreifen auf der Birkbuschstraße - vertagt
+- TOP 3.33: Eine Buswendeschleife bringt nur etwas, wenn dort auch Busse wenden können - vertagt
+- TOP 3.34: Zum Schichtwechsel wäre einer mehr ganz nett - vertagt
+- TOP 3.35: Engstelle Moltkebrücke in beiden Richtungen befahren - vertagt
+- TOP 3.36: LSA Königsberger Straße - S-Bahn-Unterführung Lichterfelde Ost - vertagt
+- TOP 3.37: Bushaltestelle „Wasgensteig“ in „Studentendorf Schlachtensee“ umbenennen - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
