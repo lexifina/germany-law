@@ -1,0 +1,98 @@
+# 16. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2018-06-06T17:30:00+02:00
+- Ende: 2018-06-06T22:20:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6067
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6067
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=165316
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Anspruchs- und Ermessenseinbürgerungen in Pankow - beantwortet
+- TOP 1.5.2: Möglichkeiten des BA zur Kooperation hinsichtlich finanzieller Belastungen bei Anträgen auf Sondernutzung öffentlicher Plätze für Bürgerfeste im Kontext der Absage des Weißenseer Blumenfestes - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Berufung eines stellvertretenden beratenden Mitgliedes des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VIII. Wahlperiode - gewählt
+- TOP 1.9: Wahl eines Mitgliedes in den Vorstand der BVV - gewählt
+- TOP 1.10: „Gute Arbeit“ für Volkshochschuldozent*innen - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.11: Schadstoffarme Fahrzeugflotte - Sofortprogramm "Saubere Luft 2017-2020" nutzen - in der BVV abgelehnt
+- TOP 1.12: Konzept für die Einrichtung eines Gedenk - und Informationsortes auf dem Bezirksamtsgelände (Kellerräume Haus 3) - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Deklaration „Kommunen für biologische Vielfalt“ unterzeichnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Transferfenster öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Radverkehr dauerhaft zählen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Bessere Bürgerinformation und Bürgerbeteiligung in Bezug auf Flüchtlingsunterkünfte in Pankow - in der BVV abgelehnt
+- TOP 1.17: Erhöhung der Querungssicherheit an der Wiltbergstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Organisation und Konzeption der Bürgerbeteiligungs-Workshops - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Nachhaltige Verkehrsplanung für die Michelangelostraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Rahmen und Verfahren für den Blankenburger Süden vom Kopf auf die Füße stellen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Geldautomat in Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Informationssteine im Volkspark Prenzlauer Berg reinigen und wo nötig erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Durchgangsverkehre reduzieren - Verkehrssicherheit und Lebensqualität erhöhen - überwiesen
+- TOP 1.24: Erst das Asylrecht durchsetzen, dann weitere modulare Unterkünfte für Migranten (MUFs) im Bezirk errichten - in der BVV abgelehnt
+- TOP 1.25: Resolution – für ein vielfältiges, bürgerschaftliches und soziales Engagement in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Innerstädtisches Natur- und Naherholungsgebiet Nord-Pankow schonend entwickeln - überwiesen
+- TOP 1.27: Bürgerinnen und Bürger über das Verfahren und die Bausteine des „Pankower Tors“ informieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: P+R- Parkplatz Heinersdorf und dessen Umfeld für den anstehenden Schienenersatzverkehr ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Grußwort des Bezirksbürgermeisters bei einer Veranstaltung der linksextremistischen Vereinigung „North-East Antifa (NEA)“ - in der BVV abgelehnt
+- TOP 1.30: Historische Bezüge im Inklusionssportpark an der Cantianstraße darstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Mangel an Spielflächen begegnen – Einrichtung von temporären Spielstraßen fördern - überwiesen
+- TOP 1.32: Verkehrssicherheit an der Bus- und Straßenbahnhaltestelle S+U-Bahnhof Pankow herstellen - überwiesen
+- TOP 1.33: Pankower Schüler auskömmlich mit Lehr- und Lernmitteln ausstatten - überwiesen
+- TOP 1.34: Robert Rössle - überwiesen
+- TOP 1.35: Wiederaufbau und langfristige bauliche Erhaltung der Spielplatzinfrastruktur - überwiesen
+- TOP 1.36: Leistungsfähigkeit des Schienenersatzverkehrs gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Kleingartenanlage Hansastrasse als Modellprojekt entwickeln - überwiesen
+- TOP 1.38: Parks statt Müllhalden - überwiesen
+- TOP 1.39: Verkehrssicherheit vor der Kita Streustraße 41 verbessern - überwiesen
+- TOP 1.40: Schlosspark Pankow – Nutzungskonzept für Park und Wege - überwiesen
+- TOP 1.41: Schnellere Entfernung von Schrottfahrrädern - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Durchgangsverkehre reduzieren, Verkehrssicherheit erhöhen, Lebensqualität verbessern - überwiesen
+- TOP 1.43: Fahrradabstellplätze bei der Neugestaltung von Kreuzungen - überwiesen
+- TOP 1.44: Erhöhung der Transparenz des Verwaltungshandelns durch Kostenausweis gegenüber der BVV - überwiesen
+- TOP 1.45: Keine P+R- Parkplätze am S-Bahnhof Pankow - überwiesen
+- TOP 1.46: Aufträge für Baumfällungen und Baumschnittarbeiten nur mit Fristsetzung vergeben - überwiesen
+- TOP 1.47: Gesundheitsstandort Buch: ÖPNV-Anbindung verbessern, Regionalbahnhalt ermöglichen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Fahrradbügel statt Parklet vor den Schönhauser Allee Arcaden - überwiesen
+- TOP 1.49: Soziales und ökologisches Konzept zusammen denken beim Bauvorhaben Michelangelostraße - überwiesen
+- TOP 1.50: Informationsveranstaltung "Open Data - Neue Möglichkeiten für bürgerschaftliches Engagement" - ohne Änderungen in der BVV beschlossen
+- TOP 1.51: Eco-Toiletten für Pankow - überwiesen
+- TOP 1.52: Realresolution - Pankower politische und gesellschaftliche Akteure gemeinsam - in der BVV abgelehnt
+- TOP 1.53: Antrag zum Thema einer objektiven Betrachtung und Empfehlung der BVV zur Offenhaltung Tegels - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Brandschutz an Pankower Schulen - vertagt
+- TOP 2.2: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Stille Straße 10 wird Tschaikowskistraße 14 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Verkehrsanbindung des Stadtquartiers „Wilhelmsruher Tor“ / B-Plan 3-18 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Städtebaulicher Rahmenplan für den Ortskern Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Fahrradinfrastruktur in der Metzer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Dreiecksplätze nach verdienstvollen Frauen benennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Open-Data Initiative Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Planungsrahmen am ehemaligen Güterbahnhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: »Obdachlotsen« - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Alternativer Standort für den Vogelgnadenhof - vertagt
+- TOP 2.14: Keine erneuten Eisflächen in der Boenkestraße - vertagt
+- TOP 2.15: Planungsprozess zur Anlage eines Radfahrstreifens in der Storkower Straße einleiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Mehrsprachige Beschilderung des Bezirksamtsgeländes Fröbelstraße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Unterstützung der Mieter*innen in Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Standorte in Pankow zur Errichtung von Fahrradabstellanlagen benennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Klimaschutzprojekte durch Fördermöglichkeiten realisieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Erhöhung der Schulwegsicherheit im Komponistenviertel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Ausgleichsflächen für die Realisierung der größeren Wohnungsbaustandorte - vertagt
+- TOP 2.22: Verkehrssicherheit an der Klecksgrundschule - vertagt
+- TOP 2.23: Petition zur „Verlängerung der Heidekrautbahn über Wilhelmsruh bis Berlin Gesundbrunnen“ unterstützen - vertagt
+- TOP 2.24: Weniger Tempo und mehr Verkehrssicherheit im Bereich zwischen Sellheimbrücke und Treseburger Straße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Beteiligungsverfahren zum 2. Entwurf des Landesentwicklungsplanes Hauptstadtregion Berlin Brandenburg (LEP HR) gemäß § 10 Abs. 1 Raumordnungsgesetz (ROG) i.V. m. Artikel 8 Abs. 2 und Artikel 8a Abs. 2 des Landesplanungsvertrages; Gemeinsame Stellungnahme des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Benennung für eine bisher unbenannte öffentlich gewidmete Straße im Ortsteil Rosenthal in „Nordgrabenweg“ - mit Abschlussbericht zur Kenntnis genommen
