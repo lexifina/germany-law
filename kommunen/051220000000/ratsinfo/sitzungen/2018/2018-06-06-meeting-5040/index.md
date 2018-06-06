@@ -1,0 +1,52 @@
+# Zentraler Betriebsausschuss (16. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-06T16:36:00+02:00
+- Ende: 2018-06-06T18:52:00+02:00
+- Ort: Technische Betriebe Solingen, Dültgenstaler Straße 61, 42719 Solingen, Haus H, Aufenthaltsraum UG
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYkBcYJp9o7dn0KTSPjgSuM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5040
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZViUV_WPivG6OKgCG6pY1bU1N8U3zyu1RMGQOJXXGWR4/Bekanntmachung_Zentraler_Betriebsausschuss_06.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbkixjUrMMcMJuhV3XNqZQh4u11F8gWbQPx9FswOQQgU/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_06.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Kostenumlage neue Straßenbeleuchtung hier: Anfrage von SB Dr. Grützmann in der Sitzung des Zentralen Betriebsausschusses vom 28.02.2018
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 15. Sitzung des zentralen Betriebausschusses am 28.02.2018
+- TOP 4.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 4.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 4.1.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Antrag der FDP-Fraktion vom 11.05.2018
+- TOP 4.1.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 5.: Quartalsbericht 1. Quartal 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 6.: Quartalsbericht 1. Quartal 2018 der Technischen Betriebe Solingen
+- TOP 7.: Quartalsbericht 1. Quartal 2018 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 8.: Jahresabschluss 2017 der Technischen Betriebe Solingen Feststellung des Jahresabschlusses
+- TOP 9.: TBS-Standort- und Gebäudeanalyse – Bestandsaufnahme Gottlieb-Heinrich-Straße
+- TOP 10.: Zwischenbericht Hallenbad Vogelsang
+- TOP 11.: SoLiMa
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen des Betriebes
+- TOP 12.1.1: Abfallbilanz 2017 für die Stadt Solingen
+- TOP 12.1.2: Energie aus Abwasser
+- TOP 12.1.3: Jahresbericht 2017 der Umweltberatung der Verbraucherzentrale Solingen
+- TOP 13.: Anfragen an den Betrieb
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 15. Sitzung des zentralen Betriebausschusses am 28.02.2018
+- TOP 4.: Quartalsbericht 1. Quartal 2018 der Entsorgung Solingen GmbH
+- TOP 5.: Quartalsbericht 1. Quartal 2018 der Solinger Bädergesellschaft mbH
+- TOP 6.: Jahresabschluss 2017 der Entsorgung Solingen GmbH
+- TOP 7.: Jahresabschluss 2017 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 8.: Abberufung eines Prokuristen
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen des Betriebes
+- TOP 9.1.1: Vergaben und Vertragsabschlüsse über 50.000 Euro der TBS Berichtszeitraum 02.02.2018 bis 30.04.2018
+- TOP 9.1.2: Vergaben und Vertragsabschlüsse über 50.000 Euro des DBSG
+- TOP 9.2: Anfragen an den Betrieb
