@@ -1,0 +1,51 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-06-06T17:00:00+02:00
+- Ende: 2018-06-06T20:34:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14633
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14633
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318311.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318311.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318311.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Verkehrs- / Kriminalstatistik 2017 im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 3: Grütersaaper Weg (Themenkomplex) - zur Kenntnis genommen
+- TOP 4: Bericht einer Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - zur Kenntnis genommen
+- TOP 5: Veränderungssperre 06/019 Theodorstraße - zwischen A 52 und Wahlerstraße - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Umwidmung Kinderspielplatz Eggerscheidter Straße - einstimmig beschlossen
+- TOP 8: Umwidmung Kinderspielplatz Fritz-von-Wille-Straße - vertagt
+- TOP 9: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - vertagt
+- TOP 10: Anfrage CDU: Situation Mühlenbroich - Schausteller - vertagt
+- TOP 11: Anfrage SPD: Fernwärmeleitung durch den Stadtbezirk 6 - vertagt
+- TOP 12: Anfrage SPD: Entwicklung der Schülerzahlen - schriftlich beantwortet
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Anfrage CDU: Kleidercontainerleerung in Mörsenbroich - vertagt
+- TOP 15: Antrag CDU: Thewissenweg Tempo 30 / Radwegeführung - zurückgezogen
+- TOP 16: Antrag SPD: Tempo 30 auf dem Thewissenweg - abweichend beschlossen
+- TOP 17: Antrag CDU: Installation von Verkehrssicherheitsspiegeln - einstimmig beschlossen
+- TOP 18: Antrag CDU: zusätzliches Verkehrsschild und Verkehrssicherheitsspiegel - abweichend beschlossen
+- TOP 19: Antrag SPD: Halteverbot Tiefenbroicher Weg 12-16 - einstimmig beschlossen
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Antrag CDU und FDP: Änderungen Verkehrsführungen Stadtbezirk 6 - einstimmig beschlossen
+- TOP 22: Interfraktioneller Antrag: Vorgehen gegen Flughafenparker im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 23: Bauern- und Handwerkermarkt in Lichtenbroich am 30.06/01.07.2018 - einstimmig beschlossen
+- TOP 24: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 25: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 26: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 27: MdV - Beschilderung von Brücken - zur Kenntnis genommen
+- TOP 28: MdV - Baumfällungen im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 29: MdV - Rückbau Gehwege / Lichtung der Büsche Grünanlage Lenaustraße - zur Kenntnis genommen
+- TOP 30: MdV - Neupflanzungen von Bäumen auf dem Rather Broich - zur Kenntnis genommen
+- TOP 31: MdV - Fußgängerampel Volkardeyer Weg - zur Kenntnis genommen
+- TOP 32: MdV - Unterrather Straße - Verlegung der Bushaltstelle Eckener Straße - zur Kenntnis genommen
+- TOP 33: Förderung Dritter 2018 - abweichend beschlossen
+- TOP 34: Zuschussvergabe 2018 - einstimmig beschlossen
