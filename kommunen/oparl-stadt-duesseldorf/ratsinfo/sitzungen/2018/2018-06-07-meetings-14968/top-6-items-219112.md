@@ -1,0 +1,7 @@
+# TOP 6: Lärmaktionsplan II im Stadtbezirk 8
+
+- Sitzung: Bezirksvertretung 8 (2018-06-07)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/219112
+- Ergebnis: zur Kenntnis genommen
