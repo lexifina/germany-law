@@ -1,0 +1,60 @@
+# 52. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-06-07T16:00:00+02:00
+- Ende: 2018-06-07T22:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6509
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6509
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00349377.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: 8. Einwohnerinnen- und Einwohnerfragestunde
+- TOP 3.1: Flüchtlingsheime als Obdachlosenheime nutzen - erledigt
+- TOP 3.2: Planungen zum Umbau Hamburger Straße/Umbau Gymnasium Cotta - erledigt
+- TOP 3.3: Angrenzendes Grundstück am Pflegeheim Bürgerwiese - erledigt
+- TOP 3.4: Geschwindigkeitsüberschreitungen Kleinnaundorfer Straße - erledigt
+- TOP 3.5: Finanzbudget der Stadt Dresden - erledigt
+- TOP 3.6: Sportplatz FV Löbtauer Kickers 93 e. V. - erledigt
+- TOP 3.7: Fuß- und Radweg an der S177 - erledigt
+- TOP 3.8: Beschlussumsetzung V1096/16 und P0075/16 - erledigt
+- TOP 4: Einigungsverfahren Gremienbesetzung - Ortsbeirat
+- TOP 4.1: Umbesetzung im Ortsbeirat Plauen - Zustimmung
+- TOP 4.2: Umbesetzung im Ortsbeirat Klotzsche - Zustimmung
+- TOP 5: Aufstellung der Vorschlagsliste für das Schöffenamt für die Amtsperiode 2019 bis 2023 - gewählt
+- TOP 6: Aufstellung der Vorschlagsliste für das Amt der ehrenamtlichen Richterin bzw. des ehrenamtlichen Richters beim Verwaltungsgericht für die Amtsperiode 2019 bis 2023 - gewählt
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Vertagung der Stadtratssitzung vom 22. März 2018
+- TOP 8.1: Interimsunterbringung der Organisationseinheiten aus dem Objekt Grunaer Str. 2/St. Petersburger Str. 9 - Zustimmung mit Änderung
+- TOP 9: Vertagung der Stadtratssitzung vom 17. Mai 2018
+- TOP 9.1: Neuordnung des Verkehrsraums um den Neustädter Markt zugunsten des Fuß- und Radverkehrs - punktweise Abstimmung mit Ergänzung
+- TOP 9.2: Schaffung eines Ortskerns für Tolkewitz - Rahmenplanung Nr. 787 „Seidnitz/Tolkewitz“ jetzt vorantreiben - Vertagung
+- TOP 9.3: Aufhebung des Erbbaurechtes für das Grundstück Tornaer Straße 40 - Zustimmung
+- TOP 9.4: Veränderung der Dresdner Bäderlandschaft nur auf Grundlage eines fortgeschriebenen Bäderkonzeptes durchführen - Vertagung nach 22 Uhr
+- TOP 9.5: Ersatzneubau der Brücke über die DB-Anlagen im Zuge der Talstraße (K6240) in Dresden-Cossebaude - Verweisung
+- TOP 9.6: Veränderungssperre für den Bebauungsplan Nr. 3023, Dresden-Leubnitz-Neuostra Nr. 7, Dohnaer Straße/Tornaer Straße Südseite - zurückgezogen
+- TOP 9.7: Finanzbedarf der Verkehrsmuseum Dresden gGmbH - Zustimmung
+- TOP 9.8: Erhöhung des jährlichen Zuschusses der LH Dresden an die Verkehrsmuseum Dresden gGmbH - Zustimmung mit Ergänzung
+- TOP 9.9: Umgang mit ansteckungsfähiger Lungentuberkulose in Gemeinschaftseinrichtungen - Vertagung
+- TOP 10: Einführung der elektronischen Vorgangsbearbeitung in allen bauaufsichtlichen Verfahren zur Umsetzung des Sächsischen E-Government-Gesetzes (SächsEGovG) - eBauaufsicht - Vertagung nach 22 Uhr
+- TOP 11: Satzung zur Änderung der Hauptsatzung - Ersetzung - punktweise Abstimmung
+- TOP 12: Feststellung der Jahresabschlussergebnisse 2016 einschließlich des Anhanges mit Anlagen und des Rechenschaftsberichtes mit Anlagen - Zustimmung
+- TOP 13: Fortschreibung der investiven Finanzplanung 2018 durch Umverteilung des Mittelabflusses ausgewählter Projekte auf die Jahre 2019 bis 2021 - Zustimmung
+- TOP 14: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erstattung der notwendigen Schülerbeförderungskosten vom 27. März 2014 (Satzung Schülerbeförderungskosten - Erstattung) - Vertagung nach 22 Uhr
+- TOP 15: Standortentwicklung der Universitätsgrundschule und der Universitätsoberschule - punktweise Abstimmung mit Änderung
+- TOP 16: Nutzungskonzept und Betreibung Gamigstraße 26 "Bürgerhaus Prohlis" - Vertagung nach 22 Uhr
+- TOP 17: Neubau eines Gehweges im Abschnitt der Hutbergstraße zwischen Rochwitz und Bühlau - Vertagung nach 22 Uhr
+- TOP 18: Vorplanung Kesselsdorfer Straße zwischen Reisewitzer Straße und Rudolf-Renner-Straße - Vertagung
+- TOP 19: Aufhebung des Stadtratsbeschlusses V1660-SR69-08 vom 12. Juni 2008 zur Errichtung einer Baupflegekommission Hellerau - Zustimmung
+- TOP 20: Konzeptausschreibung für das Sachsenbad - Vertagung nach 22 Uhr
+- TOP 21: Bebauungsplan Nr. 3006, Dresden-Altstadt II/Strehlen, Lennéplatz - Verweisung
+- TOP 22: Fachkräftestrategie für Dresden - Vertagung nach 22 Uhr
+- TOP 23: Gebiet am "Alten Leipziger Bahnhof" als Standort für preisgünstige, familienfreundliche und behindertengerechte Wohnungen entwickeln - Ersetzung
+- TOP 27: auszureichende Informationsvorlagen
+- TOP 27.1: Prüfung zu Erhalt und Nutzung der ehemaligen Robotronkantine - zur Kenntnis genommen
