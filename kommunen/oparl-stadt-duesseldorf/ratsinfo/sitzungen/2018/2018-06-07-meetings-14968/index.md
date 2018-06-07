@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-06-07T17:00:00+02:00
+- Ende: 2018-06-07T19:34:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14968
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14968
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318371.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318371.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318371.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Amselstraße 30 - Abbruch von Anbauten - einstimmig beschlossen
+- TOP 5: Bebauungsplan-Vorentwurf Nr. 08/005 - einstimmig beschlossen
+- TOP 6: Lärmaktionsplan II im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 7: Vorstellung des Klimaanpassungskonzepts - zur Kenntnis genommen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2018 - einstimmig beschlossen
+- TOP 10: Freigabe verkaufsoffener Sonntagnachmittage im 2. Halbjahr 2018 - mehrheitlich beschlossen
+- TOP 11: Baumfällungen im Stadtbezirk 8 - beantwortet
+- TOP 12: Trinkwasserüberprüfung im Stadtbezirk 8 - beantwortet
+- TOP 13: Schaukästen im Schlosspark Eller - beantwortet
+- TOP 14: Straßenbeleuchtung im Stadtbezirk 8 - beantwortet
+- TOP 15: Parksituation Am Stufstock - beantwortet
+- TOP 16: Grundstück Vennhauser Allee 214 - beantwortet
+- TOP 17: Grundstück Vennhauser Allee 222 - beantwortet
+- TOP 18: Grundstück Freiheitstraße 78 - beantwortet
+- TOP 19: Barrierefreier Zugang zum Unterbacher See - beantwortet
+- TOP 20: Ortsumgehung Gerresheim - beantwortet
+- TOP 21: Falschparker im Stadtbezirk 8 - beantwortet
+- TOP 22: Park & Ride - Parkplatz Eller Süd - beantwortet
+- TOP 23: Parksituation Am Seeblick - einstimmig beschlossen
+- TOP 24: Grünpflege am S-Bahnhof Eller Süd - einstimmig beschlossen
+- TOP 25: Bordsteinabsenkung Heidelberger Straße - einstimmig beschlossen
+- TOP 26: Abfalleimer Friedrich-Engels-Straße - einstimmig beschlossen
+- TOP 27: Zufahrt Unterbacher See Nordstrand - einstimmig beschlossen
+- TOP 28: Querungshilfe Königsberger Straße - einstimmig beschlossen
+- TOP 29: Geschwindigkeitsregelung Königsberger Straße - mehrheitlich abgelehnt
+- TOP 30: Taubenschlag Parkplatz Eller Mitte - einstimmig beschlossen
+- TOP 31: Grünpflege Am Pfaffenbusch - einstimmig beschlossen
+- TOP 32: Angsträume S-Bahnhof Eller Süd - einstimmig beschlossen
+- TOP 33: Poller Gehweg Ludwigstraße - einstimmig beschlossen
+- TOP 34: Radweg Karl-Geusen-Straße - einstimmig beschlossen
+- TOP 35: Bushaltestelle Fuldaer Straße - einstimmig beschlossen
+- TOP 36: Papierkörbe Monckartzhofweg - einstimmig beschlossen
+- TOP 37: Radverkehr Ludwigshafener Straße - zurückgezogen
+- TOP 38: S-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Sanierungsmaßnahmen GGS Arnstadter Weg 6-16 - zur Kenntnis genommen
+- TOP 40: Hausmeisterwohnung der GGS Vennhauser Allee 160-162 - zur Kenntnis genommen
+- TOP 41: Kanalbaumaßnahme Am Kleinforst - zur Kenntnis genommen
+- TOP 42: Containerstation Gerresheimer Landstraße / Wittenbruchstraße - zur Kenntnis genommen
+- TOP 43: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Lärmaktionsplan II im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: E-Bike Ladestation in Vennhausen - zur Kenntnis genommen
+- TOP 46: Containerstation Gubener Straße - zur Kenntnis genommen
+- TOP 47: Baumfällungen in Vennhausen - zur Kenntnis genommen
+- TOP 48: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 49: Falschparker im Stadtbezirk 8 - zur Kenntnis genommen
