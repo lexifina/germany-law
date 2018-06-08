@@ -1,0 +1,2 @@
+# § 130b Übergangsregelung für Anträge auf Ruhestandsaufschub im Schuldienst
+Schulleiterinnen und Schulleiter und Lehrerinnen und Lehrer, deren Ruhestandseintritt aufgrund von § 35 Absatz 4 Satz 1 am 7. Juni 2018 bereits um drei Jahre hinausgeschoben wurde, müssen einen darauffolgenden Antrag abweichend von § 35 Absatz 4 Satz 1 Nummer 2 spätestens vier Wochen vor Eintritt in den Ruhestand stellen.
