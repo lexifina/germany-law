@@ -1,0 +1,58 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-06-08T14:00:00+02:00
+- Ende: 2018-06-08T17:50:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14643
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14643
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318470.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318470.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318470.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 3/2018 über die öffentliche Sitzung vom 23.03.2018 - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: Mündliche Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 4.1: Refill Düsseldorf - zur Kenntnis genommen
+- TOP 4.2: Vorstellung des Klimaanpassungskonzeptes - zur Kenntnis genommen
+- TOP 4.3: Projekt 01/016 Revitalisierung Bahnhofsumfeld Wettbewerbsergebnis - Empfehlung einstimmig beschlossen
+- TOP 4.4: Qualitätssicherndes Verfahren gem. RPW 2013 - Schwannstraße 3 - - Empfehlung einstimmig beschlossen
+- TOP 4.5: Bebauungsplan Nr. 01/005 Worringer Straße/ Gerresheimer Straße (Baufeld A) - Empfehlung einstimmig beschlossen
+- TOP 4.6: Bebauungsplan Nr. 01/013 Harkortstraße (Normalverfahren) - Empfehlung einstimmig beschlossen
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Mauer am Kinderspielplatz Schwanenmarkt: Gestaltung und Graffitischutz - einstimmig beschlossen
+- TOP 4.12: Freigabe verkaufsoffener Sonntagnachmittage im 2. Halbjahr 2018 - Empfehlung abweichend beschlossen
+- TOP 4.13: Weihnachtsmarkt in der Düsseldorfer Innenstadt im Jahre 2018 - Empfehlung einstimmig beschlossen
+- TOP 4.14: Veranstaltungen Burgplatz - Nachmeldung zum Jahresprogramm 2018 - Empfehlung mehrheitlich beschlossen
+- TOP 4.15: Radschlägermärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2018 - Empfehlung einstimmig beschlossen
+- TOP 4.16: ERGO-Platz (Benennung von Straßen) - einstimmig beschlossen
+- TOP 4.17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 4.18: Bericht einer Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - zur Kenntnis genommen
+- TOP 4.19: Mannesmannufer 3 - Auslobung eines Wettbewerbes - Zustimmende Kenntnisnahme - zur Kenntnis genommen
+- TOP 5: Anfragen - zur Kenntnis genommen
+- TOP 5.1: Sachstand geplanter Radweg Fischerstraße bis Kaiserstraße - zur Kenntnis genommen
+- TOP 5.2: Reinigung der Leuchten am Rheinufer (Perlenkette) - zur Kenntnis genommen
+- TOP 5.3: Gestaltung von Baumscheiben und Grünflächen durch Bürger*innen - zur Kenntnis genommen
+- TOP 5.4: Gastro-Pavillon vor dem Martin-Luther-Platz - zur Kenntnis genommen
+- TOP 5.5: Sanierung des bisherigen VHS-Gebäudes auf der Franklinstraße - zur Kenntnis genommen
+- TOP 5.6: Alte Kämmerein - zur Kenntnis genommen
+- TOP 5.7: Fassadenbegrünung im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 6: Anträge - zur Kenntnis genommen
+- TOP 6.1: Leihfahrräder - einstimmig beschlossen
+- TOP 6.2: Fahrradabstellplätze im Bereich des Ehrenhofs und der Tonhalle - mehrheitlich beschlossen
+- TOP 6.3: Wildblumenwiese Golzheimer Straße - einstimmig beschlossen
+- TOP 6.4: Bericht über Pflegeintervalle von öffentlichen Grünanlagen sowie des Straßenbegleitgrüns - mehrheitlich beschlossen
+- TOP 6.5: Insektenfreundliches Rathaus Düsseldorf - Insektenbüffet anstatt Geranien - mehrheitlich beschlossen
+- TOP 6.6: Taktung der Straßenbahnlinie 701 - mehrheitlich beschlossen
+- TOP 6.7: Fortuna Düsseldorf – Public Viewing ermöglichen - einstimmig beschlossen
+- TOP 7: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8: Verschiedenes - zur Kenntnis genommen
