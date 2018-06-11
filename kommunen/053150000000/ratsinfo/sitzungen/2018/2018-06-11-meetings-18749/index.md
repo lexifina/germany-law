@@ -1,0 +1,52 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-11T15:10:00+02:00
+- Ende: 2018-06-11T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18749
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18749
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage zu Konsequenzen der Mißachtung der Beteiligungsrechte des Integrationsrates - Sache ist erledigt
+- TOP -: Konsequenzen der Mißachtung der Beteiligungsrechte des Integrationsrates - AN/0627/2018 - Kenntnis genommen
+- TOP 4.2: Anfrage zu Hausverboten im Jugend- und Gemeinschaftszentren Glashütte in Köln-Porz - Sache ist erledigt
+- TOP -: Hausverbote im Jugend- und Gemeinschaftszentrum Glashütte in Köln Porz für Jugendliche aus benachbarten Wohnsiedlungen - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 5.2: Zahlung von Sitzungsgeld und einer pauschalierten Aufwandsentschädigung gem. § 33 GO (AN/0324/2018) - Kenntnis genommen
+- TOP 5.3: Thema Flüchtlingsunterbringung - Kenntnis genommen
+- TOP 5.4: Anfrage gem. § 4 der Geschäftsordnung des Rates AN/0962/2017 gleichzeitig Beantwortung der mündlichen Anfrage vom 05.12.2017 - Kenntnis genommen
+- TOP 5.5: Beantwortung der Anfrage der Fraktion DIE LINKE AN/0599/2018 - Steigende Kosten für das Flüchtlingszentrum „Fliehkraft" - Kenntnis genommen
+- TOP 5.6: Beantwortung einer mündlichen Anfrage zu TOP 12.1 der Sitzung des Ausschusses Soziales und Senioren vom 19.04.2018 zum Projektbericht Clearingstelle Migration und Gesundheit Köln - Kenntnis genommen
+- TOP 5.7: Informationskarten für Seniorinnen und Senioren - Kenntnis genommen
+- TOP 5.8: Vergabe der Mittel für Antirassismus-Training im Jahr 2018, hier: Abschlussveranstaltung zum Wettbewerb an Kölner Schulen und Jugendeinrichtungen „Dissen - mit mir nicht - Kreativ gegen Rassismus und Diskriminierung" - Kenntnis genommen
+- TOP 5.9: KOMM-AN - Kenntnis genommen
+- TOP 5.10: Beantwortung der Anfrage "Schulbildung für junge Geflüchtete ab dem 19. Lebensjahr" (AN/1174/2017) - Kenntnis genommen
+- TOP 5.11: Bericht der drei Träger Auszugsmanagement für den Zeitraum 15.10.2015 - 31.12.2017 - zurückgestellt
+- TOP 5.12: Aufhebung des Vergabeverfahrens „Hausmeister- und Sicherheitsdienstleistungen in den Einrichtungen für obdachlose Personen und den Übergangswohnheimen für Aussiedler und ausländische Flüchtlinge der Stadt Köln" - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zum Eckpunktepapier zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - geändert beschlossen
+- TOP 6.2: Antrag zur Neubesetzung des Postens einer Sprecherin / eines Sprechers im AK 1 – Kultur und Sport - ungeändert beschlossen
+- TOP 6.3: Antrag zur Einrichtung eines Preises „Miteinander - Preis Köln. Engagement von Kölner Migrant*innen für Demokratie und Vielfalt“ - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Straße 219a, 51063 Köln-Mülheim - Planungsbeschluss - ungeändert beschlossen
+- TOP 8.2: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - Einstellung der weiteren Planungen - ungeändert beschlossen
+- TOP 8.3: Planung eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg ohne Nummer in 51143 Köln (Porz-Zentrum) - ungeändert beschlossen
+- TOP 8.4: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Kolmarer Straße, zwischen den Hausnummern 53 und 57, 50769 Köln-Merkenich - Planungsbeschluss - ungeändert beschlossen
+- TOP 8.5: Machbarkeitsstudie für konventionelle Wohnhäuser zur Flüchtlingsunterbringung auf dem Sportgelände an der Widdersdorfer Landstraße / Johanniterstraße, 50859 Köln-Lövenich - ungeändert beschlossen
+- TOP 8.6: Neufassung der Geschäftsordnung Integrationsrat - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
