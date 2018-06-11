@@ -1,0 +1,7 @@
+# TOP 1.: Behindertengerechter Umbau Burgberggaststätte und Außenbereich; hier: Sachstand
+
+- Sitzung: Ausschuss für Bau, Planung, Umwelt und Stadtentwicklung* (28. Sitzung) (2018-06-11)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/1208
+- Beratung: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/consultation/971
