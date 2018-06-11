@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-11T15:05:00+02:00
+- Ende: 2018-06-11T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18775
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18775
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Bestellung einer stellvertretenden Schriftführerin - ungeändert beschlossen
+- TOP 1.2: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.3: Gleichstellungsrelevante Themen
+- TOP 1.4: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Einrichtung einer 3-zügigen Dependance einer Gesamtschule am Standort der Elsa-Brändström-Realschule - endgültig zurückgezogen
+- TOP 2.2: Beratung für Familien zum Bildungsangebot in Kita und OGTS insbesondere in den Kölner Sozialräumen - geändert beschlossen
+- TOP 2.3: Spielplatz an Leichtbauhallen am Schulzentrum Ostheim für Nutzung durch die Schulen freigeben - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Geänderte Rahmenbedingungen im Schülerspezialverkehr - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Rahmenbedingungen im Schülerspezialverkehr zu AN/0598/2018 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.1.2: Schulabgänger*innen in Köln – Schuljahr 2016/2017 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Schulformwechsel und Schulabgänger/innen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 3.1.3: Konzeptionelle Planung zum Aufbau von Schulcontainern - Kenntnis genommen
+- TOP 3.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.5: Gemeinschaftsgrundschule Hauptstraße in Porz-Mitte - Kenntnis genommen
+- TOP 3.1.6: Aula an der Gesamtschule Höhenhaus, Im Weidenbruch 214 - Kenntnis genommen
+- TOP 3.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.8: Geschützte dienstliche E-Mail-Adressen für Lehrkräfte in Köln – Sachstand 2018 - Kenntnis genommen
+- TOP 3.1.9: Beantwortung der Anfrage "Schulbildung für junge Geflüchtete ab dem 19. Lebensjahr" (AN/1174/2017) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.2: Neue Anfragen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Planungsaufnahme und Planungsbeschluss zur Erstellung eines Erweiterungsbaus für das Schulgebäude Overbeckstraße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 4.2: Ausstattung der Gesamtschule Wasseramselweg 2, 50829 Köln-Vogelsang, hier: Freigabe von investiven Auszahlungsermächtigungen für die Einrichtung auf der Finanzstelle 4014-0301-4-1126 - ungeändert beschlossen
+- TOP 4.3: Zügigkeitsänderung der Ursula-Kuhr-Hauptschule, Volkhovener Weg 140, 50767 Köln (Heimersdorf) von 4 auf 3 Züge gem § 81 Abs. 2 Schulgesetz NRW zum Schuljahr 2019/20 - unter Vorbehalt beschlossen
+- TOP 4.4: Modifizierung des ersten GU/TU-Maßnahmenpaketes für Schulbauprojekte - Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer - ungeändert beschlossen
+- TOP 4.5: Planungsaufnahme zur Erstellung eines Erweiterungsbaus für die KGS Thurner Str. 23, Nebenstelle Urnenstr. 7, 51069 Köln-Dellbrück - ungeändert beschlossen
+- TOP 4.6: Aufstellung von Schulcontainern an der KGS Andreas-Hermes-Straße - ungeändert beschlossen
+- TOP 4.7: Städtebauliches Werkstattverfahren Hallen Kalk; Festlegung Schulstandort/Fortführung d. städteb. Planung - ungeändert beschlossen
+- TOP 4.8: Anpassung des Planungsbeschlusses zur Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Turnhalle am Standort des ehemaligen "Nippesbad", Friedrich-Karl-Str. / Ecke Niehler Kirchweg, 50737 Köln-Nippes - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Kulturelle Bildung AN/0741/2018 - Kenntnis genommen
+- TOP 5.2: Errichtung eines neuen Schulgebäudes sowie einer 6-fach Sporthalle für die Willy-Brandt-Gesamtschule Im Weidenbruch 214, 51061 Köln - Beschluss über Mehrausgaben gemäß § 13 Abs 4 Satz 2 der Betriebssatzung der Gebäudewirtschaft - Kenntnis genommen
+- TOP 5.3: Realisierung einer Gesamtschule im Stadtbezirk Lindenthal an den Teilstandorten Berrenrather Straße und Alter Militärring zum Schuljahr 2019/20 bei auslaufender Schließung der Elsa-Brändström-Realschule und der Ernst-Simons-Realschule - Kenntnis genommen
+- TOP 5.4: Bericht über den Besuch einer Kölner Bildungsdelegation in Peking und Shanghai im Mai 2018 - Kenntnis genommen
+- TOP 5.5: Qualität der Volkshochschule erneut extern bestätigt - Kenntnis genommen
+- TOP 5.6: Übergang von der Grundschule in die Sek. I nach Schulformempfehlung - Kenntnis genommen
+- TOP 5.7: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 5.8: Abschluss des Schulanmeldeverfahrens der weiterführenden Schulen für das Schuljahr 2018/19 - Kenntnis genommen
+- TOP 5.9: Inklusionsmonitoring; Stand Schuljahr 2017/18 - Kenntnis genommen
+- TOP 5.10: Preisverleihung an die Rheinische Musikschule Köln - Kenntnis genommen
+- TOP 5.11: Beschluss der Bezirksvertretung Porz vom 15.05.2018 zur Verlagerung des Berufskollegs Porz (BK 10) - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
