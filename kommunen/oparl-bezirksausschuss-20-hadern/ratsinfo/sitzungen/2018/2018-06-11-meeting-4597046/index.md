@@ -1,0 +1,101 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4597046
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4597046
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Haseneystraße 12, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 6333
+- TOP 7.1.2.: Steinbrechweg 17, gem. Baumbestandsplänen Nrn. 8481, 8482, 8483, 8484, 8485 und 8486
+- TOP 7.1.3.: Großhaderner Straße 15, 1 Buche
+- TOP 7.1.4.: Kurparkstraße 21, 4 Fichten
+- TOP 7.1.5.: Pelargonienweg 15, 4 serbische Fichten
+- TOP 7.1.6.: Wadlerstraße 2, 1 Birke
+- TOP 7.1.7.: Waldesruhe 23, 1 Rotfichte
+- TOP 7.1.8.: Würmtalstraße 178, 1 Robinie
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Feuerwehrzufahrten Stiftsbogen 29 - 41
+- TOP 1.2.: Bücherschrank im Stadtteil Hadern
+- TOP 1.3.: Baustelle Großhaderner Straße
+- TOP 1.4.: Straßenbaumaßnahme Waldwiesenstraße
+- TOP 5.1.: Budget der Bezirksausschüsse, Förderverein Kindergarten Fronleichnam e.V., Zuschuss für einen Drehkletterturm, 4.889,82 € (Direktorium, 07.05.18)
+- TOP 5.2.: Budget der Bezirksausschüsse, Stüps-Schulsozialarbeit Grundschule Blumenauer Straße; Träger: schule-beruf e.V., Präventionsprojekt „Schlaue Power-selbstbewusste und starke Kinder“ von Oktober bis Dezember 2018, 1.350,00 € (Direktorium, 07.05.18)
+- TOP 5.3.: Budget der Bezirksausschüsse, Katholische Pfarrgemeinde Namen Jesu, Zuschuss für Anschaffungen der Jugend für das Sommer-Zeltlager, 800,00 € (Direktorium, 28.05.18)
+- TOP 5.4.: Budget der Bezirksausschüsse, Seniorenvertretung Hadern der LHM, Festkonzert am Freitag, den 19.10.2018, 1.600,00 € (Direktorium, 29.05.18)
+- TOP 5.5.: Budget der Bezirksausschüsse, FTM-Blumenau von 1966 e.V., Anschaffung wettkampftauglicher Tischtennisbälle, 750,00 € (Direktorium, 29.05.18)
+- TOP 5.6.: Budget der Bezirksausschüsse, KAB St. Canisius, Anschaffung einer transportablen Mikrofonanlage, 293,84 € (Direktorium, 29.05.18)
+- TOP 5.7.: Budget der Bezirksausschüsse, REGSAM e.V., Blumenauer Sommerfest am 21.07.2018, 3.435,00 € (Direktorium, 30.05.18)
+- TOP 6.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Ossingerstraße 25 (Kreisverwaltungsreferat, 09.05.18)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Anwohnerstraßenfest in der Wilhelm-Weitling-Straße zwischen Christrosenweg und Platanenstraße am 23.06.2018 von 16.00 - 24.00 Uhr (Kreisverwaltungsreferat, 11.05.18)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest im Buschrosenweg 2 - 8 am 30.06. bzw. 07.07.2018 von 12.00 - 02.00 Uhr (Kreisverwaltungsreferat, 11.05.18)
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund und in einer städtischen Grünanlage, hier: Anwohnerstraßenfest in der Rolandseckstraße (von Kreuzung Windeck- bis Kreuzung Holzapfelkreutherstraße) am 07. bzw. 08.07.2018 von 12.00 - 23.45 Uhr (Kreisverwaltungsreferat, 11.05.18)
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund, hier: Straßenfest in der Blumenauer Straße, auf dem Gelände der Pfarrei "Erscheinung des Herrn" und auf dem Vorplatz des Einkaufszentrum am 21.07.2018 von 14.00 - 22.00 Uhr (Kreisverwaltungsreferat, 11.05.18)
+- TOP 6.6.: Veranstaltung in einer städtischen Grünanlage, Max-Lebsche-Platz, Kermesfest / Sommerfest vom 06.07. - 08.07.2018 von 10.00 - 22.00 Uhr (Kreisverwaltungsreferat, 11.05.18)
+- TOP 6.7.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest des Musischen Kindergartens Christa Gittner in der Neufriedenheimer Straße 71 - 79 am 23.06.2018 von 14.00 - 18.00 Uhr (Kreisverwaltungsreferat, 23.05.18)
+- TOP 6.8.: Nachwahlbefragung von Münchner BürgerInnen zur Bundestagswahl 2017 (Fachstelle für Demokratie, 17.05.18)
+- TOP 6.9.: Verfahren nach § 4 Abs. 2 BauGB, Gemeinde Neuried, Bebauungsplan Nr. 47 "Südlich Maxhofweg" (Referat für Stadtplanung und Bauordnung, 18.05.18)
+- TOP 6.10.: Kinder- und Jugendbeteiligung (Münchner Forum e.V., 22.05.18)
+- TOP 6.11.: Verkehrsrechtliche Anordnung, hier: Großhaderner Straße; Kurzzeitparken vor dem Anwesen Nr. 6 (Kreisverwaltungsreferat, 08.06.18)
+- TOP 7.2.1.: Listen des Baureferates vom 24.04.2018 und 15.05.2018: 14 Bäume auf dem Waldfriedhof und 35 Bäume auf dem Waldfriedhof
+- TOP 7.2.2.: Farnweg 5, 1 Linde (Referat für Stadtplanung und Bauordnung, 18.05.18)
+- TOP 7.2.3.: Kornwegerstraße 28, 2 Birken (Referat für Stadtplanung und Bauordnung, 15.05.18)
+- TOP 7.2.4.: Haderunstraße 21, 1 Vogelkirsche (Referat für Stadtplanung und Bauordnung, 07.06.18)
+- TOP 7.2.5.: Wilhelm-Weitling-Straße 28, 1 serbische Fichte (Referat für Stadtplanung und Bauordnung, 07.06.18)
+- TOP 8.1.: Verkehrsrechtliche Anordnungen, hier: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen - Blumenauer Straße 11 - Senftenauerstraße 21 (Kreisverwaltungsreferat, 16.05.18)
+- TOP 8.2.: Kinder-Aktions-Koffer 2019: Entscheidung für den 15. Stadtbezirk Trudering-Riem (Sozialreferat, 07.05.18)
+- TOP 8.3.: Informationsschreiben zur Nutzung der LTE-Router (Direktorium, 02.05.18)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, hier: - Barbierstraße (Sozialreferat, 02.05.18) - Josef-Sterr-Straße (Sozialreferat, 09.05.18) - Haseneystraße (Sozialreferat, 28.05.18)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: "Café Custum", Marchioninistraße 15 (im Klinikum Großhadern) (Kreisverwaltungsreferat, 11.05.18)
+- TOP 8.6.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts (Direktorium, 02.05.18)
+- TOP 9.1.: Verkehrsrechtliche Anordnung, hier: Radverkehr; Schutzstreifen für den Radverkehr in der Terofalstraße zwischen Silberdistelstraße und Blumenauer Straße und in der Blumenauer Straße zwischen Terofalstraße und Rolf-Pinegger-Straße (Kreisverwaltungsreferat, 07.05.18)
+- TOP 9.2.: Bocciabahn am Stiftsbogen (Baureferat, 07.05.18)
+- TOP 9.3.: A96 - Reduzierung der zulässigen Geschwindigkeit im Stadtgebiet auf 60 km/h (Kreisverwaltungsreferat, 23.05.18)
+- TOP 9.4.: Aktueller Stand zum Umbau des Klinikum Großhadern, Anfrage Nr. 14-20 / Q 00297 vom 20.10.2016 (Referat für Stadtplanung und Bauordnung, 04.05.18)
+- TOP 9.5.: Kreuzung Großhaderner Straße / Gräfelfinger Straße; Gestaltung Baumgräben (Baureferat, 29.05.18)
+- TOP 9.6.: Beleuchtung Gaberlstraße (Baureferat, 06.06.18)
+- TOP 11.1.: Protokoll der Infoveranstaltung des Sozialreferates vom 23.04.2018 (Sozialreferat, 16.05.18)
+- TOP 11.2.: Oktoberfest 2018, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse (Bürgermeisterin Strobl, 02.05.18)
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Bauausschusses vom 08.05.2018: Begrünungsprogramm für Erschließungsstraßen
+- TOP 2.1.2.: Beschluss des Sozialausschusses vom 19.04.2018: Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung im Anwesen Josef-Sterr-Str. 6, Wohnung Nr. 46 für die kurzzeitige Unterbringung von Angehörigen von Krebspatienten des Klinikums Großhadern
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018: Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen
+- TOP 2.1.4.: Hinweis / Ergänzung vom 02.03.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.04.2018: Direkter Austausch des Stadtrates mit der Stadtverwaltung, der Stadtgestaltungskommission und den an Planung und Bau beteiligten Interessengemeinschaften A) Mehr Freiraum für architektonische Qualität Bewertung und Umsetzung der Vorschläge des Bundes der Architekten B) Nicht geförderten Wohnraum städtisch unterstützen
+- TOP 2.1.5.: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbetrieb München vom 08.03.2018: Verbesserte Sauberkeit an den Münchner Wertstoffinseln
+- TOP 2.1.6.: Beschluss des Bauausschusses vom 08.05.2018: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Strategien zur Schaffung von preisgünstigem Wohnraum
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG
+- TOP 2.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Hinweis / Ergänzung vom 25.04.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 4.1.: Hinweis / Ergänzung vom 07.05.2018 zur Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 09.05.2018: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
