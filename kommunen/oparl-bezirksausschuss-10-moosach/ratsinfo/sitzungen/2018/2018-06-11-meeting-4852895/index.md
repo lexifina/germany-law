@@ -1,0 +1,88 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4852895
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4852895
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Tramverkehr nach Moosach
+- TOP 2.2.: Fehlende Sitzgelegenheit an der Bushaltestelle am Westfriedhof
+- TOP 2.3.: Auslagerung der Kita Löfftzstr.6
+- TOP 3.1.1.: Münchner Forum: Kinder- und Jugendbeteiligung; Fragenkatalog
+- TOP 3.2.1.: Überprüfung der Sicherheit für Fußgänger und Radfahrer an der nördlichen stadteinwärts gelegenen Verkehrsinsel Dachauer Straße / Hanauer Straße (-> vertagt aus Sitzungen 16.04. und 07.05.18)
+- TOP 3.2.2.: Tiefgaragenausfahrt Netzerstr.66
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Berta-Hummel-Straße 2. Bunzlauer Platz 1 3. Dachauer Str. 457 4. Glogauer Str. 35- 39 5. Ehrenbreitsteiner Str. 32
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Glogauer Str. 35 - 39 (-> BV siehe TOP 3.3.1.4) 2. Waldhornstr. 64
+- TOP 3.3.3.: Aufstellen von Betonpflanzkübeln am Moosacher Stachus (-> vertagt aus Sitzungen 16.04. und 07.05.18)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Bezirkssportanlage für Moosach; Anfrage bzgl. Planungsstand
+- TOP 4.2.1.: Kindergärten in der Borstei erhalten
+- TOP 5.1.: (E) Budget der Bezirksausschüsse blattgold-literatur Veranstaltungsreihe „ein Buch für Moosach“, Lesungen am 03./04.05.2018 1.400,00 € AZ: 0262.0-10-0152
+- TOP 5.2.: (E) Budget der Bezirksausschüsse AG Buhlstraße e.V., Nachbarschaftstreff Untermenzinger Straße Sommerfest am 29.06.2018 1.290,00 € AZ: 0262.0-10-0155
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dieselstraße Zirkusprojekt vom 09. - 13.07.2018 1.100,00 € AZ: 0262.0-10-0158
+- TOP 5.4.: (E) Budget der Bezirksausschüsse PA/ Spielen in der Stadt e.V. Wasserspielmobil vom 24. - 26.07.2018 und Baumobil vom 17. - 19.09.2018 2.968,00 € AZ: 0262.0-10-0156
+- TOP 5.5.: (E) Budget der Bezirksausschüsse Caritas München-Freising e.V.; Caritas München West; GSA Moosach Fahrkarten für den öffentlichen Personennahverkehr 2018 1.000,00 € AZ: 0262.0-10-0154
+- TOP 5.6.: (E) Budget der Bezirksausschüsse Kinder- und Jugendtreff Mooskito Sommerferienprogramm vom 30.07.-08.09.2018 5.915,00 € AZ: 0262.0-10-0157
+- TOP 5.7.: (E) Entschärfung der gefährlichen Verkehrssituation in der Schragenhofstraße Kreuzung Reinoltstraße
+- TOP 5.8.: Entscheidung gemäß OB-Vollmacht: Sondernutzungserlaubnis Genehmigung einer Freischankfläche Bunzlauer Str. 11
+- TOP 5.9.: Finanzielle Beteiligung - Fest der Demokratie am 07.11.2018
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund, in einer städt. Grünanlage und auf Privatgrund: Untermenzinger Str. 74 - 80 und Am Hartmannshofer Bächl: "Sommerfest Nachbarschaft Lauinger-Dillinger am 29.06.2018"
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, auf städt. Grünfläche und auf Privatgrund: Chemnitzer Platz, Plauener Straße: "Pfarrfest am 08.07.2018"
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund (Begleitgrün): Moosacher St.-Martins-Platz: "Mittelalterspektakel 27.07. bis 29.07.2018"
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Moosacher St.-Martins-Platz: "8. Moosacher Weinfest am 03.08.2018" - wurde gestrichen -
+- TOP 6.5.: Veranstaltung im Freien in einer städt. Grünanlage: PSV Franz-Mader-Str. 11, Am Kapuzinerhölzl, in den Kirschen, Wintrichring: "Sri Chinmoy Peace-Mile 6-Stunden-Lauf am 15.09.2018"
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund: Franz-Marc-Straße: "Borstei-Sommerfest am 14.07.2018"
+- TOP 6.7.: Baumfällungen (Baumschutz): 1. Abensbergstr. 3 2. Claudiusplatz 8 3. Prochintalstr. 42
+- TOP 6.8.: Veranstaltung auf öffentlichem Verkehrsgrund: Sommerfest der Siedlung Hartmannshofen am 01.07.2018
+- TOP 7.1.: Personelle Situation und Betreuung der Bürger in den Sozialbürgerhäusern, insbesondere in Moosach [BA-Antrag Nr. 14-20 / B 04533 vom 05.02.2018; Fachkräftemangel, unbesetzte Stellen, Ausfälle Personal, Vertretungssituationen]
+- TOP 7.2.: Bauleitplanung Realschule Franz-Mader-Straße: Berücksichtigung einer Nutzung des Pausenhofes durch die Öffentlichkeit [BA-Antrag Nr. 14-20 / B 04534 vom 05.02.2018; Befassung Stadtrat in 2019 ausserschulische Nutzung grds. erst nach Schulschluss und am Wochenende]
+- TOP 7.3.: Tempo 50 am Georg-Brauchle-Ring / Wintrichring [BA-Antrag Nr. 14-20 / B 04388 vom 11.12.2017; Zwischennachricht: Derzeit Gesamtbetrachtung Notwendigkeit aller noch bestehenden T60-Straßenabschnitte soll Ende 2018 dem Stadtrat vorgelegt werden.]
+- TOP 7.4.: Neugestaltung des Amphionparks [Anfrage der Kinder- und Jugendbeauftragten, Schreiben BA10 vom 21.03.18; Beleuchtung wird zurückgestellt bis Ergebnisse städt. Pilotprojekt vorliegen; Beschilderung wirdn Mai 2018 erneuert]
+- TOP 7.5.: Wohnen für Alle - Projekt am Dantebad; hier: Kürzung von Personalstellen [Schreiben BA10 vom 18.04.18; Stellenbefristungen zunächst auf 3 Jahre, danach Entscheidungsvorschläge für längerfristige Bedarfe an Stadtrat]
+- TOP 7.6.: Schulzentrum Gerastraße; Abbau der Pavillions [Schreiben BA10 vom 12.12.18; Baureferat wurde beauftragt Pavillions Haus A und B und Wiederherstellung der Freifläche beauftragt. Neuerrichtung MS Franz-Mader-Straße; Maßnahme in Vorplanung; jeweils 2.5 Jahre Planungzeit und Bauzeit]
+- TOP 7.7.: Erhalt der Spielgruppe "Die Strolche" im Boomerang [Schreiben BA10 vom 18.04.18; Konzept der Freizeitstätte muss in Absprache mit Jugendamt angepasst werden. Der an die Spielgruppe vermietete Raum wird dafür benötigt.]
+- TOP 7.8.: Leerstand von Wohnraum in Hartmannshofen (Zwischennachricht) [Schreiben BA10 vom 18.04.18; Eigentümer Freistaat Bayern plant zeitnahe Verkäufe]
+- TOP 7.9.: Zugangsmöglichkeiten im Bereich des Dantebades für Menschen mit Beeinträchtigungen - Protokoll SWM über Ortstermin am 07.05.2018 [bauliche Verbesserungen aufgrund örtlicher Gegebenheiten nicht möglich; Mitarbeiter des Dantebades sind beim Ein- und Ausstieg behilflich]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Veranstaltung auf Privatgrund und öffentlichem Verkehrsgrund: Moosacher St.-Martins-Platz 2: "Stadtteilkulturtag am 09.06.2018" (Vorabzustimmung Vorsitzender gem. § 13 Abs.2 S. 3 BA-Satzung)
+- TOP 8.4.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 8.5.: Erinnerungsverfahren (§ 6.1 AufgrO): Dachauer Straße 369-403 und ggü.; Bauabschnitt Hugo-Troendle-Straße bis Wintrichring und ggü.: Radwegsanierung
+- TOP 8.6.: unveränderte Fortführung eines Gaststättenbetriebes: Dachauer Str. 274
+- TOP 8.7.: (U) Ludwigsfelder Straße zwischen Spiegelbergstraße und ca. 250 m westlich Am Neubruch im 10. Stadtbezirk Moosach und im 23. Stadtbezirk Allach - Untermenzing Erstmalige Herstellung hier: Maßnahmen der Bauphase 3 und 4 Projektkosten (Ausführungskosten): 4.100.000 € 1. Ausführungsgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022
+- TOP 8.8.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 8.9.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 8.10.: (U) Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Die Planungsempfehlungen "Spielangebote für Mädchen und Jungen - Gendergerechte Spielraumgestaltung" vom Stadtrat beschließen lassen Empfehlung der Stadtratskommission zur Gleichstellung von Frauen an ihrem Strategietag am 10.11.2017
+- TOP 8.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12.: (U) Vorlage Konzept zur Verkehrsberuhigung Donnersberger Brücke und Mittlerer Ring Nord Empfehlung Nr. 14-20 / E 01365 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen- Nymphenburg am 17.11.2016
+- TOP 8.13.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 8.14.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 8.15.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 8.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.17.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 8.18.: Verbot der Zweckentfremdung von Wohnraum: 1. Feldmochinger Str. .. 2. Simrockstr. .. 3. Simrockstr. .. - nicht-öffentlich -
+- TOP 8.19.: WEB - alle Anträge vom 16.04.2018 bis 30.04.2018 - nicht öffentlich -
+- TOP 8.20.: Mobilfunk: 1. Erweiterung einer Mobilfunkstation - Baubeginnsanzeige 2. Suchkreis für temporäre Mobilfunksendeanlage - nicht-öffentlich -
