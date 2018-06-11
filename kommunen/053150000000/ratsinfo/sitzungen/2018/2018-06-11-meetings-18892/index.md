@@ -1,0 +1,53 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-11T18:00:00+02:00
+- Ende: 2018-06-11T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18892
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18892
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines stellvertretenden Schriftführers
+- TOP -: A - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - geändert beschlossen
+- TOP 6.2: Widmung eines Teilstücks der Reinholdstraße in Köln-Grengel - ungeändert beschlossen
+- TOP 6.3: Mittel PVP Porz - ungeändert beschlossen
+- TOP 6.4: Genehmigung einer Dringlichkeitsentscheidung: Änderungsverordnung zur Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen vom 26.03.2018 - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Humboldtstraße in Köln-Porz-Finkenberg; 75409/05; Satzungsbeschluss - mit Änderungen empfohlen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Stärkung und Ausweitung des KVB-Busnetzes - mit Änderungen empfohlen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Änderungsantrag der SPD-Fraktion zu TOP 7.2 - Buskonzept - ungeändert beschlossen
+- TOP 7.3: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - Einstellung der weiteren Planungen - mit Änderungen empfohlen
+- TOP 7.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion: Baumpflanzungen - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Fuß- und Radweg entlang DB-Trasse: Rolshover Straße bis Am Grauen Stein - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion: Fuß- und Radweg entlang KVB-Trasse: Poll Salmstraße bis Baumschu-lenweg - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion: Radweganschluss Weilerhöfe Libur - geändert beschlossen
+- TOP 8.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Wildes Abstellen von KVB-Fahrrädern - Kenntnis genommen
+- TOP 9.1.2: Beantwortung einer Anfrage AN/0262/2016 - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Dringlichkeitsantrag der SPD-Fraktion: Stellplatz Cambio Carsharing - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
