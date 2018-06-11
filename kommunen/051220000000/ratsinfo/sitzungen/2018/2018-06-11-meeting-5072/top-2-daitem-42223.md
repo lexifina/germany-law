@@ -1,0 +1,7 @@
+# TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+
+- Sitzung: Bezirksvertretung Wald (27. Sitzung) (2018-06-11)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/42223
+- Beschluss (Datei): Infotext (Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaPKHQvPfETKSakhWOlRx-2yWQ51EDU7rUyEbNxv84qA/Infotext_TOP_2._-oeffentlich-_Bezirksvertretung_Wald_11.06.2018.pdf
