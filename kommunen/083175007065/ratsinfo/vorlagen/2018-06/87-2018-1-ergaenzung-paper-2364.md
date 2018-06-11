@@ -1,0 +1,21 @@
+# Bebauungsplan HOHBERGWEG - Aufstellungsbeschluss - Beratung des Entwurfs - Beschleunigtes Verfahren nach § 13a BauGB - Beschluss zur Offenlage mit der Beteiligung der Öffentlichkeit sowie der Behörden und sonstiger Träger öffentlicher Belange
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 87/2018 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-06-11
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZSdzgEzmj6lqCxFn_z3L-Ro
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2364
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bebauungsplan HOHBERGWEG
+- Aufstellungsbeschluss
+- Beratung des Entwurfs
+- Beschleunigtes Verfahren nach § 13a BauGB
+- Beschluss zur Offenlage mit der Beteiligung der Öffentlichkeit sowie der Behörden 	und sonstiger Träger öffentlicher Belange) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYl-N9o94bXXW6pMXxScBC5OO4o3f-LfCG0jhvIcHZV/Beschlussvorlage_87-2018_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (- Bestandsplan mit Abgrenzung des Geltungsbereichs) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYZ9DFNpUG1EZDQHkyclwBSY4XjygGa8s2LQFY47loku/-_Bestandsplan_mit_Abgrenzung_des_Geltungsbereichs.pdf
+- Anlage: Beschlussvorlage (- Nutzungsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSKAfPVcHScP4NbnxoOuebEwLmM7U59Ve5FD4Rw2vj1r/-_Nutzungsplan.pdf
+- Anlage: Beschlussvorlage (- Gestaltungsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW9mE9fh4srl1uTd1m8bm1C3WT4f__D9kXnRq36EPN22/-_Gestaltungsplan.pdf
+- Anlage: Beschlussvorlage (- Planungsrechtliche Festsetzungen, Örtliche Bauvorschriften, Begründung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTTJBxPCaoaT9RVyWYIyVaIu5M0DFNLDMUWo6e9c8Ekh/-_Planungsrechtliche_Festsetzungen-_Oertliche_Bauvorschriften-_Begruendung.pdf
+- Anlage: Beschlussvorlage (- Artenschutzrechtliche Betrachtung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZen8VlFae7gL585I5aW7U-5GpXCC6_0oBOk-XoNddLhc/-_Artenschutzrechtliche_Betrachtung.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1978 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-31
