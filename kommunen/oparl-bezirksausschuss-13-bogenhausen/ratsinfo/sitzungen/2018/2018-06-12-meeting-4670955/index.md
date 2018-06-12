@@ -1,0 +1,149 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4670955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4670955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.12.: Neuberghauser Str. 3: Aufstockung eines Wohngebäudes und Errichtung eines Wintergartens auf der Dachterrasse - Vorbescheid
+- TOP 2.2.13.: Redwitzstr. 4: Neubau eines Gebäudes mit Archiv und Bibliothek für das Büro im Vordergebäude (EG) sowie 2 WE für Konsulatsmitarbeiter im Vordergebäude (1. OG) - Vorbescheid
+- TOP 2.2.14.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.15.: Weitere Themen aus der Tagesordnung, z.B. Bauvorhaben aus den Bekanntgaben
+- TOP 2.2.16.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 08.05.2018
+- TOP 2.2.1.: 5. Pavillonbauprogramm Beschlussvorlage des Referats für Bildung und Sport für eine gemeinsame Sitzung des Bildungsausschusses, des Kinder- und Jugendhilfeausschusses, des Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung am 03.07.2018; Anhörung des Referats für Bildung und Sport vom 02.05.2018 (Nachtrag, vertagt am 08.05.2018)
+- TOP 2.2.2.: Vorplanungen zu Heizwerkstandort (Parkplatz Cosimabad), E-Mail der SWM vom 12.02.2018 (vertagt am 10.04.2018 und 08.05.2018)
+- TOP 2.2.3.: Antrag auf unbefristete Nutzungsänderung Bürogebäude in Kindertagesstätte Daglfinger Str. 67; Bürgeranliegen vom 29.03.2018 (inkl. neue Unterlagen) (vertagt am 08.05.2018)
+- TOP 2.2.4.: Stuntzstr. 16: Fassadengestaltung - Vorstellung durch Bauherren (vertagt am 08.05.2018)
+- TOP 2.2.5.: Stellungnahme zum Bauvorhaben Max-Nadler-Straße; Bürgeranliegen vom 23.05.2018
+- TOP 2.2.6.: Nichtzustimmung zum Bauvorhaben Max-Nadler-Straße 4; Bürgeranliegen vom 25.05.2018
+- TOP 2.2.7.: (U) Gewährleistung der Wohngesundheit und Qualität der GEWOFAG-Wohnungen; Schimmel und Schäden Empfehlung Nr. 14-20 / E 01800 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017 Empfehlung Nr. 14-20 / E 01801 der der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017
+- TOP 2.2.8.: Stellplatzbedarf der Gärtnerklinik; Antrag der CSU-Fraktion vom 24.05.2018
+- TOP 2.2.9.: Optimierung der Unterrichtungslisten; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 17.05.2018
+- TOP 2.2.10.: Holbeinstr. 15: - Abbruch eines Gebäudes; Abbruchanzeige - Neubau eines Einfamilienhauses mit Tiefgarage; Erstantragsverfahren
+- TOP 2.2.11.: Eugen-Jochum-Str.: Neubau eines Senioren-Pflegeheims mit Seniorenwohnen, Begegnungsstätte und Synagoge („Seniorenwohnen am Prinz-Eugen-Park“); Erstantragsverfahren
+- TOP 2.2.17.: Plangenehmigung nach dem Personenbeförderungsgesetz für das Vorhaben Straßenbahn München - Straßenbahnbetriebshof Einsteinstraße; Sanierung Gleis 4 und 5, Teilneubau UIH; Anhörung des Referats für Stadtplanung und Bauordnung vom 30.05.2018 (Nachtrag)
+- TOP 2.3.1.: Troger Str. 23 a: Aufhebung eines Sonderparkplatzes; Unterrichtung des Kreisverwaltungsreferats vom 07.05.2018
+- TOP 2.3.2.: Vororttermin zum Thema "Sammelplatzproblematik" im 13. Stadtbezirk (vertagt am 08.05.2018)
+- TOP 2.3.3.: Parkplatzsituation Gaststätte Zamdorfer; Bürgeranliegen vom 05.04.2018 (vertagt am 08.05.2018) Ortstermin geplant
+- TOP 2.3.4.: Belastung der Anwohner der Wahnfriedallee durch gestiegenen Durchfahrtsverkehr; Bürgeranliegen vom 08.04.2018 (vertagt am 08.05.2018) Ortstermin geplant
+- TOP 2.3.5.: Parksituation und Belästigungen durch den Wochenmarkt am Fritz-Meyer-Weg; Schreiben der Markthallen München vom 15.05.2018
+- TOP 2.3.6.: ÖV im Münchner Osten attraktiver machen (4): Ausstiegshaltestelle der Tram schafft kurze Wege zu den Bussen in Berg-am-Laim-Nord BA-Antrag 14-20 / B 04848 (BA 13, BA 14, BA 15)
+- TOP 2.3.7.: Installation von Elektroladesäulen; Antrag der CSU-Fraktion vom 16.05.2018
+- TOP 2.3.8.: Instandsetzung des Gehweges und Installation eines Sicherheitsgeländers vor dem Haupteingang der Grund- und Mittelschule an der Stuntzstraße; Antrag der SPD-Fraktion vom 23.05.2018
+- TOP 2.3.9.: Prinz-Eugen-Park: Verbesserung der Kreuzung Cosimastraße/Ruth-Drexel-Straße/Wesendonkstraße; Antrag der Fraktion DaCG/ödp vom 17.05.2018
+- TOP 2.3.10.: Fußgängerüberweg an der Tram Haltestelle Taimerhofstraße; Bürgeranliegen vom 11.05.2018
+- TOP 2.3.11.: Ab Ecke Johnneskirchner Straße - Freischützstraße: Einrichtung einer 30 km/h-Zone; Bürgeranliegen vom 13.05.2018
+- TOP 2.3.12.: Normannenplatz: Blockade parkende Fahrzeuge; Bürgeranliegen vom 27.05.2018
+- TOP 2.3.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.14.: Verschiedenes, Termine
+- TOP 2.4.1.: Verschiedene Vorhaben der Münchner Schule für Bairische Musik - Wastl Fanderl Schule
+- TOP 2.4.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt im BJR K.d.ö.R (SZB Fideliopark) Stadtteilfest Bogenhausen am 16.06.2018 2.290,00 € Az: 0262.0-13-0172
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Gehörlosenverband München und Umland e.V. Barrierefreies Sommerfest am 30.06.2018 1.516,25 € Az: 0262.0-13-0173
+- TOP 2.4.4.: (E) Budget der Bezirksausschüsse Malteser Hilfsdienst e.V. Stadtgeschäftsstelle München Anschaffung eines Mehrzweckfahrzeuges für die Malteser Einsatzdienste München Stadt 3.000,00 € Az: 0262.0-13-0171
+- TOP 2.4.5.: (E) Budget der Bezirksausschüsse Gehörlose Bergfreunde München e.V. "Happy Day Family" - Familienfest am 14.07.2018 1.018,36 € Az: 0262.0-13-0175
+- TOP 2.4.6.: BA-eigene Veranstaltung „Alt und Jung – Grenzenlos“ Budget-Antrag
+- TOP 2.4.7.: Fest der Demokratie am 07.November 2018 Beteiligung aller Bezirksausschüsse; Schreiben des BA 8 vom 16.04.2018
+- TOP 2.4.9.: Verschiedenes, Termine
+- TOP 2.5.1.: Jensenst. 6: Haus für Kinder - Vorstellung durch Denk mit! Kinderbetreuungseinrichtungen; Präsentation vom 05.06.2018
+- TOP 2.5.2.: Freischützstr. 91: Information: Haus für Kinder mit 2 Krippen- und 2 Kindergartengruppen in der; Unterrichtung des Referats für Bildung und Sport vom 22.05.2018
+- TOP 2.5.3.: Kinder- und Jugendbeteiligung bei Fragen der Stadtentwicklung Münchens; Schreiben des Münchner Forums vom 22.05.2018
+- TOP 2.5.4.: Einrichtung einer verwaltungsinternen Koordinierungsgruppe zur Thematik von Schule und Kinderbetreuung für Prinz-Eugen-Park?; StR-Anfrage 14-20 / F 01100; Antwortschreiben vom Referat für Bildung und Sport vom 18.04.2018
+- TOP 2.5.5.: Bedarf an mehr Gastronomie in Englschalking; Bürgeranliegen vom 11.05.2018
+- TOP 2.5.6.: Denninger Str. 189: Information: Vertrag über die Überlassung und den Betrieb einer städtischen Kindertageseinrichtung; Unterrichtung des Referats für Bildung und Sport vom 28.05.2018
+- TOP 2.5.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.8.: Verschiedenes, Termine
+- TOP 2.6.1.: Neue Gartenhäuser im Gelände des ÖBZ - Vorstellung der MVHS; Schreiben des MVHS vom 16.04.2018
+- TOP 2.6.2.: Baumfällungen (Anhörungen): An der Salzbrücke: lt. Plan Zaubzerstr. 11: lt. Plan Cosimastr. 290: 1 Schwarzkiefer Flensburger Str. 28: 2 Birken Friedrich-Eckart-Str. 21: 2 Birken Gotenstr. 2: 7 Bäume Krenklstr. 7: 2 Rotbuchen Meistersingerstr. 94: 1 Baum Ortnitstr. 9: 1 Thuja Turfstr. 8: 1 Birke Vollmannstr. 23: 1 Baum Wimmerstr. 24: 1 Tanne Zimmermannsweg 10-12: 1 Baum Vollmannstr. 61: 1 Fichte
+- TOP 2.6.3.: Baumfällungen (Unterrichtungen): Turfstr. 23 (4 Blau-Fichten, abgestorben), Mauerkircherstr. 55 (1 Ahorn, Gefahrenbaum), Vollmannstr. 61 (1 Fichte, Borkenkäfer)
+- TOP 2.6.4.: (Grundsätzliche) Nutzung des Cosimaplatzes (vertagt am 13.03.2018, 10.04.2018, 08.05.2018); Diskussionsgrundlage vom 06.06.2018; Keine Trambahnwendeschleife vor dem Cosimabad; Antrag der CSU-Fraktion vom 07.06.2018
+- TOP 2.6.5.: Aufhebung der Widmung als Verkehrsfläche für eine Tramwendeschleife am Cosimaplatz BA-Antrag Nr. 14-20 / B 04359 (vertagt am 08.05.2018 (TOP 6.18))
+- TOP 2.6.6.: Beschlussentwurf "Gartenschau ab 2029 im Bereich der SEM Nordost" (Antrag Nr. 14-20 / A 03245); Anhörung des Referats für Stadtplanung und Bauordnung vom 16.02.2018 (vertagt am 13.03.2018, 10.04.2018, 08.05.2018); Rückmeldung des Referats für Stadtplanung und Bauordnung vom 30.05.2018
+- TOP 2.6.7.: "Grünes Band Ost" - Information zum geplanten Ausbau der öffentlichen Grünfläche an der Pühnstraße; Schreiben des Baureferats vom 25.04.2018 (BA-Antrag Nr. 14-20 / B 04349)
+- TOP 2.6.8.: Nachfrage zum aktuellen Stand: Herstellung des Pühnparks, Nachfrage zum Bestand Naturkindergarten, Wagenburg „Hin und Weg“
+- TOP 2.6.9.: "Neugestaltung" des Denninger Angers, Bürgeranliegen vom 13.05.2018
+- TOP 2.6.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.11.: Vorschlag zur Nutzung des Grundstücks Ecke Flaschenträgerstraße und Robert-Heger-Straße; Bürgeranliegen vom 02.05.2018
+- TOP 2.6.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.13.: Verschiedenes, Termine
+- TOP 5.1.: Infoveranstaltung Demokratie im Einsatz am 01.06.2018 im Scherfweg 6; Anhörung des Kreisverwaltungsreferats vom 08.05.2018 Zustimmung nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung am 25.05.2018 erteilt (Eilentscheidung)
+- TOP 5.2.: Veranstaltung in städtischen Grünanlagen; Stadtteilfest am Zamilasee am 21.07.2018 in der Fritz-Lutz-Straße / Zamilapark; Anhörung des Kreisverwaltungsreferats vom 04.06.2018 Nachtrag
+- TOP 5.3.: Flst. 354/13 Tlfl. Gemarkung Bogenhausen, An der Marienburger Straße/Daglfinger Straße: Stellplatz für einen Lkw zur Bettfederreinigung vom 21.06. - 27.06.2018; Anhörung des Kommunalreferats vom 25.05.2018 Nachtrag
+- TOP 5.4.: Veranstaltung in städtischen Grünanlagen; Stadtteilfest SBZ Fideliopark am 16.06.2018 in der Fideliostraße; Anhörung des Kreisverwaltungsreferats vom 04.06.2018 Nachtrag
+- TOP 6.1.: Antrag auf "schwebenden Kreisverkehr" für Radfahrer
+- TOP 6.2.: Radwegänderungen an der Eggenfeldener Straße
+- TOP 6.3.: Verbesserung der Schulwegsicherheit an der Fritz-Lutz-Straße
+- TOP 6.4.: Planung von Kindertagesstätten im Neubaugebiet „Prinz-Eugen-Park“
+- TOP 6.5.: Lernhausmodell: Erweiterung + Inklusion Ruth-Drexel-Schule?
+- TOP 6.6.: Prüfantrag: Errichtung von Anwohnertiefgaragen in den Gebieten Holbein- und Mühlbaurstraße
+- TOP 6.7.: Aufstellen eines Buswartehäuschen an der Bushaltestelle Freischützstraße (an der Ecke Bäckerei Wimmer)
+- TOP 6.8.: Quotale Zuordnung der verschiedenen Wohntypen im Prinz-Eugen-Park
+- TOP 6.9.: Ruth-Drexel-Str.: Neubau zweier Wohngebäude mit 2 Kindertagesstääten und Tiefgarage (Prinz-Eugen-Park, WA 9 West) - Vorbescheid; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 03.05.2018
+- TOP 6.10.: Ismaninger Straße vernünftig überplanen
+- TOP 6.11.: Sofortige Einstellung der Vorbereitungen für die Gleiserneuerung in der Ismaninger Straße
+- TOP 6.12.: Fehlender Busunterstand an der Haltestelle Rümelinstraße (Bürgeranliegen) Wartehäuschen an der Bushaltestelle Rümelinstraße; (Antrag der CSU-Fraktion)
+- TOP 6.13.: Aufheben des eingeschränkten Haltverbots vor dem Anwesen Scheinerstraße 3
+- TOP 7.1.1.: (U) Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 7.1.2.: Nachwahlbefragung von Münchner Bürger/innen zur Bundestagswahl 2017; Anhörung der Fachstelle für Demokratie; Stellungnahme des BA 13 vom 28.05.2018
+- TOP 7.2.1.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 7.2.2.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 7.2.3.: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung, Sitzungsvorlage Nr. 14-20 / V 11072; Beschluss des Bauausschusses vom 10.04.2018
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft: Flst. 166, 172, 180, Gemeinde Daglfing
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättenbetriebes: - Fritz-Meyer-Weg 55: "Barcode" - Stefan-George-Ring 20: "Goldene Lilie" - Ludwig-Brück-Str. 3: "Tantra Bar & Lounge"
+- TOP 7.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.2.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 7.7.3.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 7.7.4.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 7.7.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 7.9.1.: (U) Vollzug der Zweckentfremdungssatzung (ZeS) Bürgerversammlungsempfehlungen Informationskampagne Meldeplattform gegen Leerstand und Zweckentfremdung Empfehlung Nr. 14-20 / E 01780........ Medizintourismus: Sicherstellung der Handlungsfähigkeit des Amtes für Wohnen und Migration im Monat August Empfehlung Nr. 14-20 / E 01782 ..... Gezielte Informationskampagne auf der Onlineplattform gegen Leerstand und Zweckentfremdung Empfehlung Nr. 14-20 / E 01814... Aufstockung des Personals im Sozialreferat, Amt für Wohnen und Migration, Abt. Ferienwohnung Empfehlung Nr. 14-20 / E 01815....
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch, Musenbergstr. 14, 16, 16 a vorher: 629 m² bzw. 14 WE, geplant: 629 m² bzw. 5 WE
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Nutzungsänderung, Geibelstr. 8, 1. OG rechts vorher: 212 m² bzw. 1 WE, geplant: 226 m² bzw. 1 WE
+- TOP 7.9.4.: Einladung zur MünchnerSommerSpielAktion: 08.07 - 10.07.2018, 15:00 - 19:00 Uhr, Standort: Beim Geologiegarten in der Grünfläche Zamilapark
