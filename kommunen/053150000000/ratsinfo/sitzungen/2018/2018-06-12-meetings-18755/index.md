@@ -1,0 +1,65 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-12T14:05:00+02:00
+- Ende: 2018-06-12T15:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18755
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18755
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00667221.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00667221.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00667221.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Freigabe und Gewährung von Zuschussmitteln inklusive pauschale Erhöhung der Betriebskostenförderung 2018 für die freien Träger. - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2018/19 - ungeändert beschlossen
+- TOP 2.3.2: Delegation von Aufgaben aus dem Arbeitsbereich der Jugendgerichtshilfe an den AWO-Kreisverband Köln e.V. - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Beratung für Familien zum Bildungsangebot in Kita und OGTS insbesondere in den Kölner Sozialräumen - geändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Nutzerkreis und Nutzung des Bildungs- und Teilhabepakets - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler, hier: Anfrage TOP 8.5.2 JHA 27.02.2018 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Mündliche Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Mündliche Anfrage der FDP-Fraktion
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Stellungnahme zum Änderungsantrag des Integrationsrates AN/0563/2018 über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Gruppen in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.2.2: Verlängerung der Feldphase der Kölner Jugendbefragung 2018 bis zum 01.07.2018 - Kenntnis genommen
+- TOP 8.2.3: Qualitätsoffensive in allen kommunalen Kindertageseinrichtungen der Stadt Köln - Kenntnis genommen
+- TOP 8.2.4: Übernahme der bisher evangelischen Kindertageseinrichtung Am Hilgerskreuz 2 (Köln-Meschenich) durch die Stadt Köln zum 01.08.2018 - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Studie und Medienberichterstattung über die Personalausstattung in Jugendämtern - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Planung einer neuen Jugendeinrichtung auf dem ehemaligen Maltesergelände in Köln Kalk - Kenntnis genommen
+- TOP 8.4.2: Offene Kinder und Jugendarbeit Rodenkirchen. Erster Sachstand zur Anfrage BV2 "Ein Jugendschiff für Rodenkirchen" - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Umwandlung in eine unbefristete Anerkennung als Träger der freien Jugendhilfe; hier: "Tree House Swans gGmbH" - Kenntnis genommen
+- TOP 8.5.2: Bericht über die Arbeit der Familienberatungsstellen 2017 - Kenntnis genommen
+- TOP 8.5.3: Beantwortung der Anfrage "Schulbildung für junge Geflüchtete ab dem 19. Lebensjahr" (AN/1174/2017) - Kenntnis genommen
+- TOP 8.5.4: Neues Amt für Integration und Vielfalt - Kenntnis genommen
+- TOP 8.5.5: Ehrenamtskarte und Jugendleitercard (JuLeiCa) - Kenntnis genommen
