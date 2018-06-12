@@ -1,0 +1,7 @@
+# TOP 1.: Beantwortung von Anfragen
+
+- Sitzung: Beirat Untere Naturschutzbehörde (24. Sitzung) (2018-06-12)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/42496
+- Beschluss (Datei): Infotext (Beantwortung von Anfragen) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWAHV1WKSlRya5l_BoniOFvYd9eq67qQ15ulTOJZp0QP/Infotext_TOP_1._-oeffentlich-_Beirat_Untere_Naturschutzbehoerde_12.06.2018.pdf
