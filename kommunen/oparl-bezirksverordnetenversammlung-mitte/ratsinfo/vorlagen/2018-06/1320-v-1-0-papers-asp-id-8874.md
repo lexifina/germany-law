@@ -1,0 +1,28 @@
+# Runder Tisch Mieten und Wohnen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 1320/V
+- Art: Beschlussempfehlung
+- Datum: 2018-06-12
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=8874
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=8874
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=408948
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4407 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4439 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4453 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4461 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4498 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4445 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4501 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4530 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4554 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4587 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4614 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4672 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4707 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4722 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4744 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4759 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4805 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=27
