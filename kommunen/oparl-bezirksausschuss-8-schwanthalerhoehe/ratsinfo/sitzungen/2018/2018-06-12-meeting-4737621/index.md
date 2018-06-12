@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737621
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737621
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Westendstr. 35
+- TOP 6.2.2.: Bauvorhaben Landsberger Str. 139
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 5.1.: Oktoberfest 2018; Reservierung Ratsboxe
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Antrag auf Zweckentfremdung Kazmairstraße
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Nutzungskonflikte im öffentlichen Raum - AKIM
+- TOP 7.3.2.: Informations- und Vernetzungstreffen 20.06.18 - AKIM
+- TOP 7.3.3.: Mehrzweckhalle für Sportvereine und Organisationen im Westend; Ziff.3 der Empfehlung aus BV vom 21.04.2015
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Schulwegsicherheit - Tempo 30 Ridlerstraße
+- TOP 8.2.2.: Veranstaltung - 9. Münchner Radlnacht
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Veranstaltung - Jubiläum 15 Jahre Verkehrszentrum München
+- TOP 8.3.2.: Oktober 2018 - Baustellenführung
+- TOP 8.3.3.: Verkehrsrechtliche Anordnung Philipp-Loewenfeld-Straße
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse AK "Westend hat ein Gesicht" 4. Kunst- und Kulturtage von Mitte Juni bis Ende Juli 2018 5.000,00 € Az: 0262.0-8-0143
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Initiative Western Swing Konzert im Rahmen der Stadtteiltage am 30.06.2018 125,00 € Az: 0262.0-8-0148
+- TOP 9.1.3.: (E) Budget der Bezirksausschüsse United Cultures Initiative e.V. Sidewalk Cultures Festival am 22.06.2018 4.580,00 € Az: 0262.0-8-0147
+- TOP 9.1.4.: (E) Budget der Bezirksausschüsse MORGEN e.V. - Netzwerk Münchner Migrantenorganisationen Festival am 24.06.2018 1.000,00 € AZ: 0262.0-8-0150
+- TOP 9.1.5.: (E) Budget der Berzirksausschüsse Feierwerk e.V. 10 Jahre – SOUND OF MUNICH NOW – Open Air am 28.07.2018 3.000,00 € AZ: 0262.0-8-0146
+- TOP 9.1.6.: (E) Budget der Bezirksausschüsse Malteser Hilfsdienst e.V. Stadtgeschäftsstelle München Anschaffung eines Mehrzweckfahrzeuges für die Malteser Einsatzdienste München Stadt 2.980,00 € Az: 0262.0-8-0144
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Baulicher Zustand und Verkehrssicherheit in und um das Anwesen Schwanthalerstr. 119
+- TOP 11.1.: Studie zum Thema "Nichtwähler in München"
