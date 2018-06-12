@@ -1,0 +1,156 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4639807
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4639807
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Migration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Bitte um Unterstützung vom Cafe Schau ma moi
+- TOP 3.9.1.1.: Winlandstr. 4, Akazie, Anfaulung
+- TOP 3.9.1.2.: Bantingstr. 1, Birke, Morschung
+- TOP 3.9.1.3.: Minnewitstr. 1, Ahorn, Wurzelteller gehoben, Risse
+- TOP 4.1.: S-Bahn-Südring umsetzen!
+- TOP 4.2.: Temporäre Fußgängerzonen in den Sommermonaten
+- TOP 4.3.: Antrag der CSU-Fraktion Rasengleis für die Trambahn in der Eintrachtstraße und am St.-Martins-Platz
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Initiative Cafe Schau ma moi "Revolution + Räte" im Cafe Schau ma moi 700,00 € Az: 0262.0-17-0166
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse PA / Spielen in der Stadt e.V. Baumobil vom 18.06. - 20.06.2018 1.446,00 € AZ: 0262.0-17-0167
+- TOP 5.1.3.: (E) Budget der Bezirksausschüsse Verein für Sozialarbeit e.V. - Familientreffpunkt Giesing Veranstaltung "Sommer im Park" am 29.06.2018 8.200,00 € AZ: 0262.0-17-0169
+- TOP 5.1.4.: (E) Budget der Bezirksausschüsse KulturVERSTRICKUNGEN e.V. Kultivierung des Areals am Giesinger Grünspitz ab Mai 2018 5.925,00 € Az: 0262.0-17-0163
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Perlacher Str. 11, Gaststätte zu Büro und Wohnung
+- TOP 6.1.3.2.: Gemeinde Unterhaching, Bebauungsplan Nr. 170A/2017 für das Gebiet Westlich Biberger Straße zwischen Adejeweg und Walter-Paetzmann-Straße zur Förderung von preisgünstigem Wohnraum
+- TOP 6.1.3.3.: Gemeinde Neubiberg, Bebauungsplan Nr. 51, Änderung - Schaffung bezahlbarer Wohnraum auf dem gemeindeeigenen Gründstück Fl.Nr 130/11 am Floriansanger
+- TOP 6.1.3.4.: Tegernseer Landstraße 212-224, Anfrage bei der Gemeinde durch die Baudienststelle
+- TOP 6.1.3.5.: Untersbergstr. 3 - 7, Sozial-Pastorales Zentrum - Neubau von Wohnungen, eines Pfarrzentrums und einer Kita
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baulisten
+- TOP 6.1.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum, Tegernseer Landstraße 37/1
+- TOP 6.1.4.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum, Holtzendorffstraße 26
+- TOP 6.1.4.4.: (U) Bonusgeschosse für stadtplanerisch erwünschte Erdgeschossnutzungen Antrag Nr. 14-20 / A 03341 der Stadtratsfraktion Die Grünen – rosa liste vom 24.08.2017
+- TOP 6.1.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.6.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 6.1.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.8.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.2.1.: BA-Anhörung "kitabarometer", Nachfrage vom RBS
+- TOP 6.2.2.2.: 5. Pavillonsbauprogramm
+- TOP 6.2.4.1.: Entscheidung für den 15. Stadtbezirk Trudering-Riem als Einsatzort für den Kinder-Aktions-Koffer 2019
+- TOP 6.2.4.2.: Rollatoren-Unterstand
+- TOP 6.2.4.3.: BA-Antrag Nr. 14-20 / B 04648, Rollatoren-Unterstand; Antwort der GEWOFAG
+- TOP 6.2.4.4.: Baubeginnsanzeige: Grundschule an der Weißenseestraße 45
+- TOP 6.2.4.5.: General-Kalb-Weg 33, Rasenplatzsanierung (Schulzentrum Perlacher Forst)
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegunterführung an der Otkerstraße unter Tegernseer Landstraße im 17. Stadtbezirk Obergiesing-Fasangarten und im 18. Stadtbezirk Untergiesing-Harlaching
+- TOP 6.3.3.2.: Spurlinienführung Tegernseer Landstraße
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Unterführung am Giesinger Berg – Radfahrer-Ampel für Fußgänger umrüsten
+- TOP 6.3.4.2.: Verlängerung des Schutzgitters am Südlichen Ausgang der Grundschule an der Ichostr. 2
+- TOP 6.3.4.3.: Grunderwerb und umfassende Sanierung des "General-Kalb-Weges"
+- TOP 6.3.4.4.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Bantingstr. 5, Fällungsgenehmigung
+- TOP 6.4.4.2.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 6.4.4.3.: Hunde im AGFA - Park
+- TOP 6.4.4.4.: Winlandstr. 4, Fällungsgenehmigung
+- TOP 6.4.4.5.: Behälter für Altkleider im Fasangarten und am Giesinger Bahnhof
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Giesinger Bahnhofplatz 1: Giesinger Bahnhofsfest am 15.09.2018
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Informationsveranstaltung des Kulturreferates für Mitglieder von Bezirksausschüssen und Kulturschaffende oder Initiativen über laufende Kosten bei Zwischennutzungen
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Antrag für Warenauslagen, Schwanseestr. 2
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Einsatz für eine strengere Ausgestaltung der Härtefallregelung im Ausführungsgesetz zum GlüStV (AGGlüStV)
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Informationsschreiben zur Nutzung der LTE-Router
+- TOP 7.3.2.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
