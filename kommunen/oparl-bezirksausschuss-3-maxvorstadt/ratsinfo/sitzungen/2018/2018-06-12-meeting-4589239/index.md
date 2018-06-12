@@ -1,0 +1,136 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2018-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4589239
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4589239
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen
+- TOP 5.3.1.: Das Diakoniewerk München-Maxvorstadt stellt sich vor.
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen der LBK:
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: Bericht des Internetbeauftragten
+- TOP 1.2.: Vorsitz und Besetzung Ferienausschuss am 14.08.2018
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 08.05.2016: Sachstand Zebrastreifen Heß-/Arcisstraße
+- TOP 5.2.2.: Bürgeranliegen vom 10.05.2018: Container vor der Hochschule für Fernsehen und Film
+- TOP 5.2.3.: Bürgeranliegen vom 07.03.2018: Veranstaltungen auf dem Josephsplatz
+- TOP 5.2.4.: Bürgeranliegen vom 21.05.2018: Vandalismus in der Maxvorstadt
+- TOP 5.2.5.: Bürgeranliegen vom 25.05.2018: Minna Thiel auf dem Bernd-Eichinger-Platz
+- TOP 5.3.2.: Vorstellung des Bauvorhabens Erzgießereistraße 14/ Linprunstraße 18
+- TOP 6.1.: Renovierung der Turnhalle der "Schwindschule"
+- TOP 6.2.: Einheitliche Beleuchtung im Kunstareal, BA-Antrag Nr. 14-20 / B 04649 vom 13.03.2018, Zwischennachricht des Baureferats
+- TOP 6.3.: "Fit im Alten Botanischen Garten"
+- TOP 7.2.1.: Oktoberfest 2018; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag der CSU vom 07.02.2018 Verzicht auf den 2. Bauabschnitt der Pinakothek der Moderne vertagt aus der Sitzung vom 13.03.2018, vertagt aus der Sitzung vom 17.04.20
+- TOP 1.2.: Antrag von Bündnis 90/Die Grünen vom 27.03.2018 Zeitnahe Umsetzung des Masterplanes Freiflächengestaltung im Kunstareal vertagt aus der Sitzung vom 17.04.2018
+- TOP 1.3.: Antrag der SPD vom 01.05.2018 Mähen der öffentlichen Grünflächen in der Maxvorstadt auf ein Mindestmaß begrenzen
+- TOP 1.4.: Antrag der SPD vom 09.05.2018 Begrünung der Georgenstraße mit Bäumen
+- TOP 1.5.: Antrag der Grünen vom 28.05.2018 Begrünung der Heßstraße mit Bäumen
+- TOP 1.6.: Antrag der SPD vom 28.05.2018 Insektenfreundliche Bepflanzung am Rudi-Hierl-Platz
+- TOP 2.1.1.: Listen der Bauvorhaben der LBK: 18., 19., 20., 21. KW
+- TOP 2.1.3.: Barer Straße 77, Umbau, Sanierung und Nutzungsänderung VGB; vier Wohnungen und zwei Büroeinheiten zu acht Wohnungen sowie Neubau eines Rückgebäudes (acht WE) mit Tiefgarage
+- TOP 2.1.4.: Arcisstraße 49, Baulückenschließung durch Kommunwandbebauung - Vorbescheid
+- TOP 2.1.5.: Gabelsbergerstraße 91, Abbruch des Rückgebäudes und Neubau eines Studentenwohnhei- mes mit Laubengangerschließung und Anbindung an das Vordergebäude u.s.w.
+- TOP 2.1.6.: Dachauer Straße 74, Neubau eines Rückgebäudes - Vorbescheid
+- TOP 2.1.7.: Schleißheimer Straße 50 / RGB, Errichtung eines Rückgebäudes (Büronutzung) unter Erhalt der bestehenden Umfassungs- und Brandwände eines ehemaligen Werkstattgebäudes
+- TOP 2.1.8.: Schleißheimer Straße 90, Neubau eines Wohn- und Geschäftshauses
+- TOP 2.1.9.: Marsstraße 37, Erweiterung (Anbau eines Verwaltungsgebäudes – Vorbescheid -
+- TOP 2.1.10.: Fürstenstraße 7, Neubau eines Wohnhauses mit Tiefgarage – Vorbescheid
+- TOP 5.1.: Baugenehmigung Bernd-Eichinger-Platz 1, Begegnungsstätte für sozio-kulturelle Nutzung und Gastronomie mit Schienenbus und Terrasse / befristet auf drei Jahre
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der FDP vom 27.03.1018 Modellversuch Alternative 5 vertagt aus der Sitzung vom 17.04.2018
+- TOP 1.2.: Antrag der FDP vom 27.03.2018 Fußgängerzone Barer Straße vertagt aus der Sitzung vom 17.04.2018
+- TOP 1.3.: Antrag der SPD vom 09.05.2018 Hinweisschild für das Kunstwerk am Rudi-Hierl-Platz
+- TOP 1.4.: Antrag SPD vom 09.05.2918 Umgestaltung der Augustenstraße, Nachfrage
+- TOP 1.5.: Antrag der SPD vom 23.05.2018 Aufstellung weiterer Abfallbehälter auf dem Josephsplatz-Spielplatz
+- TOP 1.6.: Antrag der Grünen vom 28.05.2018 Auskunft zum Planungsstand zur Entschärfung der Gefahrensituation in der Augustenstraße und zur Prüfung eines Pilotprojekts Shared Space/Begegnungszone
+- TOP 1.7.: Antrag der Grünen vom 28.05.2018 Kein Fan-Meeting Point im Alten Botanischen Garten beim UEFA EURO 2020
+- TOP 1.8.: Antrag der FDP vom 29.05.2018 Hinweisschilder an den Brunnen der Maxvorstadt
+- TOP 1.9.: Antrag des BA 3 vom 05.06.2018 Zeitnahe Umsetzung des Masterplans im Kunstareal
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kreisverwaltungsreferat, Anhörung Haltverbot mit Zeitbeschränkung in der Adalbertstraße 51
+- TOP 2.1.2.: Kreisverwaltungsreferat Verkehrsrechtliche Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen vertagt aus 05/2018, TOP A 6.3
+- TOP 2.2.1.: Aufstellen eines offenen Bücherschrankes auf dem Rudi-Hierl-Platz
+- TOP 2.2.2.: Verkaufseinrichtung auf öffentlichem Grund Schleißheimer Straße 106, Seite Georgenstraße, Zeitungsentnahmegerät
+- TOP 2.4.1.: Klassik am Odeonsplatz am 13. und 14.07.2018
+- TOP 2.4.2.: Pfarrfest St. Benno am 21.07.2018, Ferdinand-von-Miller-Platz
+- TOP 2.4.3.: Fränkisches Weinfest auf dem Josephsplatz am 21.07.2018
+- TOP 2.4.4.: Münchner Radlnacht am 07.07.2018, Start/Ziel: Königsplatz
+- TOP 2.4.5.: Münchner Sportfestival am 01.07.2018 auf dem Königsplatz
+- TOP 2.4.6.: Straßenfest am 21.07.2018 in der Schleißheimer Straße
+- TOP 2.4.7.: BISS-Aktionen von Mitte Juli bis Mitte Oktober, Wittelsbacherplatz
+- TOP 2.4.8.: Jugendgeschichtswerkstatt am 17./18.07.2018 auf dem Königsplatz Abstimmungsergebnis:
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a) Pappenheimstr. 3, Reparatur der Fernwärmeleitung b) Seidl-, Dachauer-, Brienner Straße, Fernwärme, Änderung der Bauphase 3 c) Schellingstraße zw. Schwind- und Luisenstraße und Schwindstraße südlich Schelling straße, Fernwärme d) Augustenstraße zwischen Dachauer Straße und Karlstraße, Fernwärme e) Georgenstraße 67 – Kreuzungsbereich zur Isabellastraße, Fahrbahnsanierung f) Umbau des Kreuzungsbereichs Adalbert-/Amalienstraße
+- TOP 3.2.: Kreisverwaltungsreferat Baustelleneinrichtung an der Ottostraße, Verlängerung der Ausnahmegenehmigung
+- TOP 3.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Ausnahmegenehmigung für Kinderspielnachmittage im Alten Botanischen Garten
+- TOP 3.4.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Erlaubnisfreier Fahrradständer Theresienstraße 100, Seite Luisenstraße
+- TOP 3.5.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Parkraummanagement Lizenzgebiet Schönfeldstraße
+- TOP 3.6.: Kreisverwaltungsreferat, Radlsicherheitscheck 15. u. 16.05.2018, Geschwister-Scholl-Platz
+- TOP 3.7.: Kreisverwaltungsreferat, Austausch von Lichtsignalanlagen: Marsstraße/Spatenbräuausfahrt
+- TOP 3.8.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Genehmigungsbescheid Große Stadtfronleichnamsprozession mit Gottesdienst ab Marienplatz am 31.05.2018
+- TOP 3.9.: Referat für Bildung und Sport, UEFA EURO 2020 Fan Meeting-Point am Alten Botranischen
+- TOP 3.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Hamburger Fischmarkt, Erlaubnisbescheid
+- TOP 3.11.: Kreisverwaltungsreferat, Baustelleneinrichtung am Oskar-von-Miller-Ring 18
+- TOP 3.12.: Kreisverwaltungsreferat Vorstellung des Kommunalen Außendienstes (KAD)
+- TOP 3.13.: Kreisverwaltungsreferat, Temporäre Verkehrsanordnungen Baustelleneinrichtung für Bauvorhaben Erzgießereistraße 14 bis Linprunstraße 18
+- TOP 3.14.: Referat für Gesundheit und Umwelt, Immissionsschutz Süd Ausnahmezulassung für die Mülleinsammlung ab 06.00 Uhr im Bereich Schleißheimer Straße, Schwind-, Theresien-, Linprun-, Schelling- und Sandstraße
+- TOP 3.15.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Rockavaria, Erlaubnisbescheid
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Türkenstraße Vorstellung eines Geschichtenerzählers zum Thema „Sprache baut Brücken“ am 18. & 22.06.2018 910,00 € AZ: 0262.0-3-0203
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Dachauer Straße 98 MFM-Projekt am 15.06.2018 740,00 Euro Az.: 0262.0-3-0208
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Sachbericht der Lernwerkstatt Halle 36 zum Bau eines Parklets
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der SPD vom 01.05.2018 Öffnungszeiten der Hochschule für Film und Fernsehen verlängern und Schaffung einer Begegnungsstätte für kreativen Austausch der Studenten
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Empfangshalle GbR Projekte von Künstlerinnen und Künstlern in einer Galerie in der Theresienstraße ab Mai 2018 4.000,00 € AZ: 0262.0-3-0205
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Bahnwärter Kulturstätten GmbH Gestaltung der Minna Thiel durch Street Art Künstler vom 21. - 24.05.2018 1.950,00 Euro Az.: 0262.0-3-0202
+- TOP 2.3.: (E) Budget der Bezirksausschüsse MIR e.V., Verein für kulturelle Beziehungen Gedenkveranstaltung am 12.07.2018 1.075,00 Euro Az.: 0262.0-3-0207
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Offene Bücherschränke Maxvorstadt e.V. Anschaffung und Aufstellung eines "offenen Bücherschranks" 9.758,00 € AZ: 0262.0-3-0210
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Oktoberfest 2018; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP F.2.: Fachstelle für Demokratie, Anhörung Ausweitung der Bürgerkontakte und dialogischer Angebote
+- TOP F.3.: 4. Terminplanung für das Jahr 2019
+- TOP G: Nicht öffentliche Sitzung
