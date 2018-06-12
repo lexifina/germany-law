@@ -1,0 +1,54 @@
+# Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (28. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-12T17:00:00+02:00
+- Ende: 2018-06-12T21:01:00+02:00
+- Ort: Gründer- und Technologiezentrum, Grünewalder Straße 29-31, 42657 Solingen, Pliestersaal I
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-41
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSOkFR6G-BzO1mX9GhztZQQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5085
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZSAiaz46ZnZLSaWGgsOf4rTWRocFYYLN64ZtqlNC_MV/Bekanntmachung_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_12.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRTRuC418dAH8tpeq39GZSEpwIPsrEsQX8W9LO_5K5Iw/Oeffentliche_Niederschrift_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_12.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Örtliche Angemessenheitsgrenze für die KdU Nachfragen der Fraktion DIE LINKE zur VorlageNr. 4163/2018
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 26. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 02.05.2018
+- TOP 4.: Vorstellung der Solinger Tafel
+- TOP 5.: Vorstellung des Vereins FoodSaving-Solingen e. V.
+- TOP 6.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 6.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 6.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 7.: Örtliche Planung der Klingenstadt Solingen gemäß § 7 Alten- und Pflegegesetz NRW
+- TOP 8.: Leistungsbeschreibung Schlüssiges Konzept
+- TOP 9.: Ermittlung des Wohnraumbedarfs und Maßnahmen zur Aktivierung von Innenentwicklungspotenzialen für Wohnen
+- TOP 10.: Fortsetzung der Neuordnung der Unterbringung wohnungsloser Personen auf der Basis der „Grundlegende Überlegungen zur Optimierung der Unterbringungssituation von wohnungslosen Menschen durch die Zentrale Fachstelle für Wohnungsnotfallhilfen (ZFS)“ bei Aufgabe des Objektes Scharrenberger Str. 31
+- TOP 11.: Obdachlosen- und Flüchtlingsangelegenheiten hier: • Widmung der Gebäude Brunnenstr. 9 sowie Saturnstr. 1, 3, 5 und 7 als Unterkünfte für Flüchtlinge und Obdachlose • Entwidmung der Gebäude Junkerstr. 7 und Scharrenberger Str. 31 als Obdachlosenunterkünfte
+- TOP 12.: Obdachlosenangelegenheiten hier: Widmung des Gebäudes Schulstr. 3 als Obdachlosenunterkunft
+- TOP 13.: Obdachlosenangelegenheiten hier: Widmung des Gebäudes Birkenweiher 2 als Obdachlosenunterkunft
+- TOP 14.: Obdachlosenangelegenheiten hier: • 1. Satzung zur Änderung der Satzung der Klingenstadt Solingen über die Obdachlosenunterkünfte
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.1.1: Umsteuerung des Verfahrens zum Einkauf von Arbeitsgelegenheiten (AGH)
+- TOP 15.1.2: Umsetzung Datenschutz-Grundverordnung im Bereich Wohngeld
+- TOP 15.1.3: Wohnraumförderung 2018 ff hier: Richtlinie Modernisierungen
+- TOP 15.1.4: Obdachlosenunterkunft Eckstr.
+- TOP 15.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 26. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 02.05.2018
+- TOP 4.: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2018
+- TOP 5.: Städtisches Klinikum Solingen gemeinnützige GmbH – Bestellung des Ärztlichen Direktors und Bestellung der stellv. Ärztlichen Direktoren und stellv. Mitglieder der Betriebsleitung
+- TOP 6.: Städtisches Klinikum Solingen gemeinnützige GmbH – Vergleich mit der AOK Rheinland/Hamburg
+- TOP 7.: Jahresabschluss 2017 der Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 8.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Bestellung Wirtschaftsprüfer zum JA 2018
+- TOP 9.: Weitergabe von Krediten an die Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 10.: Verschiedenes
+- TOP 10.1: Mitteilungen der Verwaltung
+- TOP 10.2: Anfragen an die Verwaltung
