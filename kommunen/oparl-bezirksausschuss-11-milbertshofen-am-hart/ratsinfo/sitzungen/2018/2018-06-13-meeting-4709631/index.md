@@ -1,0 +1,90 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709631
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709631
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Am Oberwiesenfeld - Bebauungsplan 2073 Berücksichtigung der Forderung des BA 11 - Mehr Baumpflanzungen
+- TOP 4.2.2.: Erhalt einer Schank- und Speisewirtschaft auf dem Gelände des bisherigen Wirtshauses Weyprechthof
+- TOP 4.2.3.: Rose-Pichler-Weg 48: Instandsetzung der Beschrankung der Stellplätze des Kindergartens
+- TOP 4.2.4.: Verzögerung der Freigabe des Wasserspielbereichs am Spielplatz am Christoph-von-Gluck-Platz
+- TOP 4.4.1.: (U) Vorlage Konzept zur Verkehrsberuhigung Donnersberger Brücke und Mittlerer Ring Nord Empfehlung Nr. 14-20 / E 01365 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen- Nymphenburg am 17.11.2016
+- TOP 4.4.2.: Veranstaltungen im Olympiapark - stärkeres Hinwirken auf die Benutzung des ÖPNV
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Stadteiltreff FaMoos Stadtteilarbeit e.V. Kindertheater am 14.06.2018 und 07.10.2018 850,00 € AZ: 0262.0-11-0284
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Kulturverein Olympiadorf e.V. Stadtteil-Sommerfest am 07.07.2018 2.928,55 € AZ: 0262.0-11-0285
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Traummaschine GbR Theaterstück "Kids Carraldo" vom 22.07.-24.07.2018 2.594,00 € AZ: 0262.0-11-0282
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 04.08. - 07.09.2018 2.650,00 Euro Az.: 0262.0-11-0283
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Verbesserung der Zugänglichkeit zur Wertstoffinsel Christoph-von-Gluck-Platz/Milbertshofener Straße
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Kreuzung Moosacher Straße / Schleißheimer Straße - Verkehrssicherheit schnellstmöglich herstellen
+- TOP 7.4.2.: Verlegung der Bushaltestelle in der Moosacher Straße
+- TOP 7.4.3.: Erweiterung der kommunalen Verkehrsüberwachung auf den Stadtbezirk 11 und Schaffung der hierfür notwendigen Stellen
+- TOP 7.4.4.: Intensivierung der kommunalen Verkehrsüberwachung im Stadtbezirk 11 und Schaffung der hierfür notwendigen Stellen
+- TOP 7.4.5.: Anbringen von Fahrradständern in der Riesenfeldstraße
+- TOP 7.4.6.: Verlängerung eines Taxisstandplatzes "Am Oberwiesenfeld" - Moosacher Str.
+- TOP 7.4.7.: Verbesserung der Verkehrssicherheit an der Kreuzung Schleißheimer Str. / Moosacher Str.
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Finanzielle Beteiligung - Fest der Demokratie am 07.11.2018
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Ehemaliger Busbahnhof Olympiazentrum - Beschlussentwurf
+- TOP 8.2.2.: Vollzug der BaumschutzV und des Bayer. Naturschutzgesetzes: a) Griegstraße 22-24 b) Gundelkoferstr. 2
+- TOP 8.2.3.: 5. Pavillonbauprogramm - Schulbauoffensive 2013-2030 - Beschlussentwurf
+- TOP 8.2.4.: Am Oberwiesenfeld 10 - Ursache der Vermüllung der neuen Unterführung zwischen der Wilhelmine-Reichard-Str. und dem Oberwiesenfeld finden
+- TOP 8.2.5.: Bauvorhaben und Nutzungsänderungen: Riesenfeldstr. 52 - Neubau eines Mehrfamilienhauses mit TG
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Bavarian Run 2018" im Olympiapark am 01.07.2018
+- TOP 8.3.2.: Veranstaltung "B2Run" im Olympiapark am 17.07.2018
+- TOP 8.3.3.: Veranstaltung "Bergmesse" am Olympiaberg am 05.08.2018
+- TOP 8.4: Verkehr
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 9.1.2.: Danksagung und Kurzbericht von kick it international e.V. - Großer Familientag am 01.05.2018
+- TOP 9.1.3.: Unveränderte Fortführung eines Gaststättenbetriebes: a) "Red Diamond", Max-Diamand-Str. 21
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV: a) Leopoldstr. 251 - Genehmigung der Baumfällung b) Karlsteinstr. 11 - Ablehnung der Baumfällung
+- TOP 9.2.2.: (U) GWG-Sanierung Harthof Nord Erweiterung/Außenstelle der Familienangebote des Mehrgenerationenhauses "Unter den Arkaden"/ETC (MGH) 11. Stadtbezirk, Teilbereich Harthof-Nord, Kämpferstraße, 55. Bauteil Soziale Infrastruktur für das Neubaugebiet Harthof Nord Bebauungsplan mit Grünordnung Nr. 1898 b 1. Zustimmung zur Planung 2. Genehmigung des vorläufigen Nutzerbedarfsprogramms 3. Ermächtigung zum Betrieb der Einrichtung 4. Ermächtigung des Kommunalreferates zu Verhandlungen für die Anmietung 5. Fortschreibung bzw. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogramms 2018 - 2022
+- TOP 9.2.3.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 9.2.4.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 9.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 9.2.7.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Doeberlstraße 1
+- TOP 9.2.8.: Meldelisten von Bauvorhaben vom 16.04. - 20.05.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Anfrage des BA 9 zur Durchführung einer Gedenkveranstaltung der Israelitischen Kultusgemeinde München
+- TOP 9.3.2.: Antrag Stellenerweiterung für eine pädagogische Fachkraft im neuen Stadtteilzentrum Milbertshofen ab 2019
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 9.4.2.: Arbeiten im Straßenraum: Schleißheimer Str. und Hamburger Str. - Gasleitungsverlegung (02.06. - 27.07.18)
+- TOP 9.4.3.: Vollzug des BImSchG und der 32. BImSchV: a) Mäharbeiten an den Ring- und Ausfallstraßen im 11. Stadtbezirk
+- TOP 9.4.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Neuherbergstraße 20 - Tempo 30 b) Rockingerstraße - absolutes Haltverbot
+- TOP 9.4.5.: Erhöhung der Schulwegsicherheit an der Kreuzung Schleißheimer Str. / Moosacher Str.
