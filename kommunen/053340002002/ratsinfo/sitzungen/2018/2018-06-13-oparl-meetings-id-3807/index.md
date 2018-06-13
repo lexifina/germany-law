@@ -1,0 +1,54 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2018-06-13T17:00:00+02:00
+- Ende: 2018-06-13T19:45:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3807
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3807
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 16.05.2018 (öffentlicher Teil) - vertagt
+- TOP 4: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - geändert beschlossen
+- TOP 4.1: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - geändert beschlossen
+- TOP 5: Ratsantrag Nr. 324/17 der PIRATEN-Fraktion zusammen mit Ratsherrn Schnitzler (UWG) vom 24.01.2018Pfand gehört daneben - ungeändert beschlossen
+- TOP 6: Transparenz schaffen I - Technische Optimierung des RatsinformationssystemsRatsantrag Nr. 291/17 vom 24.08.2017 von Allianz für Aachen - verwiesen
+- TOP 7: Übersicht über die Übertragung von Ermächtigungen oberhalb der Wertgrenze vom Haushaltsjahr 2017 in das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 8: Aufhebung des Durchführungsplanes Nr. 447 für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Hohenstaufenallee, Goethestraße und Schillerstraßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 9: Aufhebung des Durchführungsplanes Nr. 448 für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Gartenstraße, Junkerstraße und Vaalser Straßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 10: Aufhebung des Durchführungsplanes Nr. 476 für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Roermonder Straße und Rütscher Straßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 11: Aufhebung des Durchführungsplanes Nr. 473 für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Seffenter Weg und dem nordöstlich gelegenen Eisenbahngeländehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 12: Anfragen:
+- TOP 12.1: Ratsanfragen - ungeändert beschlossen
+- TOP 12.2: Stellungnahmen zu Ratsanfragen - ungeändert beschlossen
+- TOP 13: Ratsanträge - ungeändert beschlossen
+- TOP 14: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 14.1: Umbesetzungsantrag der SPD-Fraktion vom 05.06.2018 - ungeändert beschlossen
+- TOP 14.2: Umbesetzungsantrag der FDP-Fraktion vom 28.05.2018 - ungeändert beschlossen
+- TOP 14.3: Umbesetzungsantrag der CDU-Fraktion vom 04.06.2018 - ungeändert beschlossen
+- TOP 15: Mitteilungen der Verwaltung
+- TOP 16: Überplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen- Haushaltsjahr 2018, hier: Anti-Terror-Sperren Pfalzbezirk - ungeändert beschlossen
+- TOP 17: Bericht der PricewaterhouseCoopers AG Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2016 und Lagebericht für das Wirtschaftsjahr 2016 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 18: Urteil des Verwaltungsgerichts zum Thema Luftreinhalteplan
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
