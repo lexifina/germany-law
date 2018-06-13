@@ -1,0 +1,6 @@
+# TOP 5: Berichte der Verwaltung u.a.
+
+- Sitzung: Sitzung (2018-06-13)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/182403
