@@ -1,0 +1,53 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2018-06-14T17:00:00+02:00
+- Ende: 2018-06-14T19:00:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbwQeWn9f1dfavmt8jqrtoI
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1784
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVOA44s4EM9m00ZCllYHxYTJSiHMRLqYsOp7eHtlcJoq/Bekanntmachung_Rat_14.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZemoGJZVlHHHO6s03vibGUdGjxzU9SdzbJvCviA-4uau/Oeffentliche_Niederschrift_Rat_14.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Verabschiedung einer Resolution zur Medizinstrategie der MKK Mühlenkreiskliniken - Einstimmig, 0 Enthaltungen
+- TOP 5.: Umgestaltung des Kirchplatzes Auswahl des Naturstein-Pflasters - 25 Stimmen dafür, 1 dagegen, 2 Enthaltungen
+- TOP 6.: Einziehung und Teileinziehung einer Teilstrecke der Straße "Seufzerallee" in Rahden - 26 Stimmen dafür, 0 dagegen, 2 Enthaltungen
+- TOP 7.: Einführung der Wertstofftonne
+- TOP 8.: Wasserversorgungskonzept der Stadt Rahden für Jahre 2018 bis 2023 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Sparkassenangelegenheiten: a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2017 b) Verteilung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 10.: Genehmigung der Verringerung der allgemeinen Rücklage für das Haushaltsjahr 2018 hier: Stellungnahme der Verwaltung
+- TOP 11.: Vorbereitung der Wahl der Schöffinnen und Schöffen für die Amtsperiode 2019 bis 2023 - Aufstellung der Vorschlagsliste - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bekanntgaben
+- TOP 12.1: Klimaschutz
+- TOP 12.2: Ausbau Radweg Mindener Straße/Lübbecker Straße
+- TOP 13.: Verschiedenes
+- TOP 13.1: Förderung der Stadt Rahden an die MKK Mühlenkreiskliniken
+- TOP 13.2: Sanierung Südring
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 14.: Beschaffung eines Tanklöschfahrzeuges (TLF 3000) für die Löschgruppe Varl-Sielhorst; hier: Auftragsvergabe - Einstimmig, 0 Enthaltungen
+- TOP 15.: Dienstanweisung für die Finanzbuchhaltung der Stadt Rahden
+- TOP 16.: Bekanntgabe der im IV. Quartal 2017 und I. Quartal 2018 erteilten Bauaufträge
+- TOP 17.: Erwerb von landwirtschaftlichen Tauschflächen - Einstimmig, 0 Enthaltungen
+- TOP 18.: Erwerb von Erweiterungsflächen im Bereich des Gewerbegebietes Rahden-Süd - Einstimmig, 0 Enthaltungen
+- TOP 19.: Abschluss eines Grundstückstauschvertrages - 26 Stimmen dafür, 2 dagegen, 0 Enthaltungen
+- TOP 20.: Veräußerung einer Gewerbefläche und Gewährung von Wirtschaftsfördermitteln - 27 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 21.: Grundstücksangelegenheiten
+- TOP 22.: Bekanntgaben
+- TOP 22.1: Arbeitskreis Schul- und Sportzentrum
+- TOP 22.2: Bekanntgabe Stundungen
+- TOP 23.: Verschiedenes
+- TOP 23.1: Auftragsvergabe für den freigestellten Schülerverkehr zu den Rahdener Schulen für das Schuljahr 2018/19 - 27 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 23.2: Projekte im Rahmen des IKEK
+- TOP 23.3: Breitbandausbau
+- TOP 23.4: Werbeflächen in der Innenstadt
+- TOP 23.5: Brandruine Osnabrücker Straße/Sudriede
+- TOP 23.6: Einführung Wertstofftonne
