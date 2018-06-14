@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-06-14T14:00:00+02:00
+- Ende: 2018-06-14T19:07:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14871
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14871
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318699.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318699.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00318699.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung des Ehrenringes des Rates
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der CDU-Ratsfraktion: Werbung für die Stadt - Düsseldorf auf "Null-Euro-Scheinen" - Teil 1 - beantwortet
+- TOP 5.2: Anfrage der CDU-Ratsfraktion: Werbung für die Stadt - Düsseldorf auf "Null-Euro-Scheinen" - Teil 2 - beantwortet
+- TOP 5.3: Anfrage Bü90/Grü: Auswirkungen des Freihandelsabkommens zwischen der EU und Japan (JEEPA) - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Brandschutz- und Rettungskonzept - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion DIE LINKE: Ermäßigung für Studierende in städtischen Einrichtungen - beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion DIE LINKE: Ausnahmegenehmigung zum Parken für Hebammen - beantwortet
+- TOP 5.7: Anfrage des Ratsherrn Maniera: Cyberangriffe auf Verwaltung - beantwortet
+- TOP 5.8: Anfrage des Ratsherrn Maniera: Moscheebau in Oberbilk - schriftlich beantwortet
+- TOP 5.9: Anfrage Rf Opelt: Unterstützung/ Förderung des Europe Direct Informationszentrum durch die Stadt Düs - schriftlich beantwortet
+- TOP 5.10: Anfrage der Ratsfrau Opelt: Auswirkungen des BAMF-Skandals auf Düsseldorf - schriftlich beantwortet
+- TOP 5.11: Anfrage des Ratsherrn Grenda: Bike/E-Roller-Sharing-Anbieter - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Grenda: Zukunft der Esprit Arena - schriftlich beantwortet
+- TOP 5.13: Anfrage Tierschutz Freie Wähler: Gänsereiten am 12. Mai 2018 im Rahmen des Schützenfestes Düsseldorf - schriftlich beantwortet
+- TOP 5.14: Anfrage der Ratsfraktion BÜ90/GRÜ: Neue Standorte für Litfaßsäulen - schriftlich beantwortet
+- TOP 5.15: Anfrage der SPD-Ratsfraktion: Erneuerung der Steuerungstechnik der Deutschen Oper am Rhein - schriftlich beantwortet
+- TOP 5.16: Anfrage des Ratsherrn Dr. Fils: Werbung für die Stadt - Düsseldorf auf Briefmarken und Münzen - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau El Fassi: Luftreinhaltung in Düsseldorf - schriftlich beantwortet
+- TOP 5.18: Anfrage der Ratsfrau El Fassi: Verwendung von Herbiziden mit dem Wirkstoff Glyphosat und - schriftlich beantwortet
+- TOP 5.19: Anfrage Rh Dr. Wlecke: App auf dem Smartphone: Notruf auch an Ersthelfer absetzen - schriftlich beantwortet
+- TOP 5.20: Anfrage Dr. Wlecke: Multiresistente Keime - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Jahresabschluss 2017 - einstimmig beschlossen
+- TOP 9: Finanzielle Abwicklung des Grand Départ - zur Kenntnis genommen
+- TOP 10: Übertragene Ermächtigungen von 2017 nach 2018 - einstimmig beschlossen
+- TOP 11: Ausführungs- und Finanzierungsbeschluss für die Erschließung des Wohngebietes ,,Am Scheitenwege Süd“ - einstimmig beschlossen
+- TOP 12: JFE Theodor-Litt-Straße 1, Ersatzneubau für Lüderitzstraße - AuF - einstimmig beschlossen
+- TOP 13: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Baumaßnahme "Nachrüstung Blindenleits - einstimmig beschlossen
+- TOP 14: Umbau Hildener Straße - einstimmig beschlossen
+- TOP 15: Freigabe eines verkaufsoffenen Sonntagnachmittages am Sonntag, dem 01.07.2018 in Teilen von Düsseldo - mehrheitlich beschlossen
+- TOP 16: Änderungssatzung zur Wettbürosteuersatzung vom 01.01.2016 - einstimmig beschlossen
+- TOP 17: Neuwahl einer Schiedsfrau für den Bezirk 19 - einstimmig beschlossen
+- TOP 18: Wahl der Vertrauenspersonen für den Schöffenwahlausschuss - einstimmig beschlossen
+- TOP 19: Abberufung und Bestellung von Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 20: Schulausschuss - Ersatzbestellung von beratenden Mitgliedern - - einstimmig beschlossen
+- TOP 21: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Projekt 01/018 - "Blau-grüner Ring Städtebaulich-freiraumplanerischer - abweichend beschlossen
+- TOP 23: Bebauungsplan-Entwurf Nr. 02/009 - Grafental Mitte - Verfahren gem. § 13a BauGB, StellungnahmenÄnd - mehrheitlich beschlossen
+- TOP 24: Anträge
+- TOP 24.1: Antrag der CDU-Ratsfraktion: Jedem Kind ein Platz an der Clara-Schumann-Musikschule - mehrheitlich abgelehnt
+- TOP 24.2: Antrag der Ratsfraktionen von CDU, SPD, BÜ90/GRÜ und FDP: Stärkung der Bildungsarbeit in der Mahn- u - mehrheitlich beschlossen
+- TOP 24.3: Antrag Bü90-Grü, SPD und FDP: Düsseldorf steht zu seinem Wort - Flüchtlinge sind willkommen - mehrheitlich beschlossen
+- TOP 24.4: Antrag der CDU: Ergebnisse der "Projektgruppe Sanierung Kulturgebäude" - mehrheitlich abgelehnt
+- TOP 24.5: Antrag der CDU-Ratsfraktion: Mehr Park-&-Ride-Plätze schaffen - mehrheitlich abgelehnt
+- TOP 24.6: Antrag der Ratsfraktion von SPD, BÜ90/GRÜ und FDP: Entwicklungskonzept Clara-Schumann-Musikschule - mehrheitlich beschlossen
+- TOP 24.7: Antrag der Ratsfraktionen von CDU, SPD, BÜ90/GRÜ und FDP: Weitere Bebauung am Hafen Reisholz steuern - mehrheitlich beschlossen
+- TOP 25: Kuratorium der ZERO-Foundation - Ersatzwahl - einstimmig beschlossen
+- TOP 26: Umbesetzung in der Kunstkommission Düsseldorf - einstimmig beschlossen
+- TOP 27: Düsseldorfer Gesundheitskonferenz - Ersatzbestellung eines ordentlichen Mitglieds - einstimmig beschlossen
+- TOP 28: Änderung in der Besetzung des Vorstandes der Psychosozialen Arbeitsgemeinschaf - einstimmig beschlossen
