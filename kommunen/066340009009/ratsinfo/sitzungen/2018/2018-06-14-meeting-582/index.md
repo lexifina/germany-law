@@ -1,0 +1,51 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (17. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2018-06-14T19:02:00+02:00
+- Ende: 2018-06-14T20:35:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZWP-_bJoDW-yfTiQVsII5Ig
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/582
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZanYm-576JzxPzS2i9S9cFsQKDncvSP9ns7D--Eh8ab0/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_14.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZxlSKJjZtr_rLTZI-ullWSqqu5s8kxR9sjCpbnkjDbj/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_14.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Änderung der Satzung über die Benutzung und die Gebühren für die Kindergärten der Kreisstadt Homberg (Efze) - (kein Text vorhanden)
+- TOP 2.: Beschlussfassung über eine Vorschlagsliste der Schöffinnen und Schöffen für die Amtsperiode 2019 bis 2023 - (kein Text vorhanden)
+- TOP 3.: Aufstellung einer Erweiterung Nr. 1 zum Bebauungsplan Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Holzhausen zur Ausweisung eines Allgemeinen Wohngebietes (WA) im Bereich Kurzweg gem. § 13 b BauGB; hier: Abwägung über die während der öffentlichen Auslegung gem. § 3 (2) eingegangenen Stellungnahmen der Träger öffentlicher Belange und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 4.: Neubau eines Einkaufszentrums „Drehscheibe Homberg (Efze)“ hier: Umgang mit Planungsänderungen - (kein Text vorhanden)
+- TOP 4.1: Neubau eines Einkaufszentrums „Drehscheibe Homberg (Efze)“ hier: Umgang mit Planungsänderungen
+- TOP 5.: Verkehrsentwicklungsplan Homberg (Efze), Teil 1: Altstadt hier: Beratung über den Entwurf des Verkehrsentwicklungsplanes für die Altstadt - (kein Text vorhanden)
+- TOP 6.: Grundhafte Sanierung der KiTa im Osterbach hier: Umwidmung von Haushaltsmitteln zur Sicherstellung der Umsetzung der Maßnahme - (kein Text vorhanden)
+- TOP 7.: Änderung und Ergänzung der Stadthallensatzung - (kein Text vorhanden)
+- TOP 8.: Kommunales Investitionsprogramm (KIP – Bund / Land) hier: Beratung und Beschlussfassung über die Neuordnung der Förderprojekte im Landesprogrammteil - (kein Text vorhanden)
+- TOP 9.: Homberg (Efze) als Cittaslow?! hier: Beratung und Beschlussfassung zur Bewerbung für die Aufnahme in das Cittaslow- Netzwerk - (kein Text vorhanden)
+- TOP 10.: Verkauf Erbbaurecht Schwimmbadcafé Homberg (Efze); hier: Ausübung des Vorkaufsrechtes der Kreisstadt Homberg (Efze) - (kein Text vorhanden)
+- TOP 11.: LEADER-Projekt Neugestaltung Dorfmitte Holzhausen hier: Beantragung weiterer Fördermittel und Umwidmung von Haushaltsmitteln zur Durchführung der Maßnahme - (kein Text vorhanden)
+- TOP 12.: Sachstandsberichte und sonstige Informationen
+- TOP 12.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 12.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 12.1.2: Antrag der CDU-Fraktion vom 11.12.2014 - betr. Kritische Prüfung des internen Kontrollsystems sowie die Gestaltung wichtiger Arbeitsabläufe
+- TOP 12.1.3: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 12.1.4: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 12.1.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 12.1.6: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 12.1.7: Antrag der CDU-Fraktion vom 17.02.2017 - betr. Stärkung des Nahverkehrsstandort Homberg
+- TOP 12.1.8: Antrag der SPD-Fraktion vom 24.04.2017 – betr. Beutelspender für Hundekot
+- TOP 12.1.9: Antrag der FDP-Fraktion von 09.05.2017 - betr. Errichtung eines Gehwegs an der Ziegenhainer Straße und der Robert-Bosch-Straße
+- TOP 12.1.10: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 12.1.11: Antrag der FWG-Fraktion vom 23.08.2017 - betr. Herkulesstauden in der Gemarkung Homberg und Stadtteile
+- TOP 12.1.12: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 12.1.13: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 12.1.14: Antrag der CDU-Fraktion vom 1. Februar 2018 betr. Alternativlösung neben der derzeitig vorliegenden Projektstudie zur Neukonzeption des Rathauses
+- TOP 12.1.15: Antrag der BL Homberg vom 05. April 2018 betr. Durchsetzung § 2 Spielhallengesetz
+- TOP 12.1.16: Antrag der FWG-Fraktion vom 04. April 2018 betr. Straßenbeleuchtung in der Kernstadt und in den Stadtteilen
+- TOP 13.: Anträge
+- TOP 13.1: Antrag der FWG-Fraktion vom 30. Mai 2018 betr. Errichtung eines neuen Fußgängerüberwegs - (kein Text vorhanden)
+- TOP 13.2: Antrag der FWG-Fraktion vom 31. Mai 2018 betr. umweltfreundliche Gestaltung von Privatgärten - (kein Text vorhanden)
+- TOP 14.: Anregungen
