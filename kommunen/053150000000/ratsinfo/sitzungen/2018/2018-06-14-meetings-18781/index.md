@@ -1,0 +1,74 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-14T15:30:00+02:00
+- Ende: 2018-06-14T18:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18781
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18781
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Antrag der Fraktion Die Linke betreffend "Gebührenbefreiung für die Ausstellung von Ausweispapieren" - Sache ist erledigt
+- TOP -: Gebührenbefreiung für die Ausstellung von Ausweispapieren - Kenntnis genommen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Radeln ohne Alter - endgültig zurückgezogen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o.Nr., 50765 Köln-Blumenberg, Planungsbeschluss - Sache ist erledigt
+- TOP 4.2: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Straße 219a, 51063 Köln-Mülheim - Planungsbeschluss - zurückgestellt
+- TOP 4.3: Planung eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg ohne Nummer in 51143 Köln (Porz-Zentrum) - ungeändert beschlossen
+- TOP 4.4: Machbarkeitsstudie für konventionelle Wohnhäuser zur Flüchtlingsunterbringung auf dem Sportgelände an der Widdersdorfer Landstraße / Johanniterstraße, 50859 Köln-Lövenich - ungeändert beschlossen
+- TOP 4.5: Umbau des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2, 51149 Köln zu einer Unterkunft für Geflüchtete - Einstellung der weiteren Planungen - geändert beschlossen
+- TOP 4.6: Wahl eines Vertreters einer sachkundigen Einwohnerin in den Ausschuss Soziales und Senioren - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Beratung für Männer in Problemlagen - ungeändert beschlossen
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Datenschutz im Jobcenter - zurückgestellt
+- TOP 8.1.2: Beantwortung einer Anfrage zum Bericht des Jobcenter Köln betreffend "Ausbildungszuschüsse" - Kenntnis genommen
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Anfrage der Fraktion Die Linke betreffend "Steigende Kosten für das Flüchtlingszentrum „Fliehkraft“" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage der Fraktion DIE LINKE AN/0599/2018 - Steigende Kosten für das Flüchtlingszentrum „Fliehkraft" - Kenntnis genommen
+- TOP 9.1.2: Anfrage der SPD-Fraktion betreffend "Unterbringung von Flüchtlingen" - zurückgestellt
+- TOP -: Beantwortung betreffend "Unterbringung von Flüchtlingen" - Kenntnis genommen
+- TOP 9.1.3: Anfrage der FDP-Fraktion betreffend "Nutzung von Leichtbauhallen" - zurückgestellt
+- TOP 9.2: Thema Flüchtlingsunterbringung - Kenntnis genommen
+- TOP 9.3: KOMM-AN - Kenntnis genommen
+- TOP 9.4: Bericht der drei Träger Auszugsmanagement für den Zeitraum 15.10.2015 - 31.12.2017 - zurückgestellt
+- TOP 9.5: Mitteilung einer Beantwortung der Anfrage "Schulbildung für junge Geflüchtete ab dem 19. Lebensjahr" (AN/1174/2017) - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Erläuterung von amtlichen Bescheiden in „Leichter Sprache“" - zurückgestellt
+- TOP -: Beantwortung einer Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Erläuterung von amtlichen Bescheiden in „Leichter Sprache“" - zurückgestellt
+- TOP 11.1.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht (0465/2018)" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der CDU-Fraktion und Bündnis 90/Die Grünen (AN/0581/2018) betreffend "Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht (0465/2018) - Kenntnis genommen
+- TOP 11.1.3: Anfrage der Fraktion Die Linke betreffend "Angebote für Obdachlose" - zurückgestellt
+- TOP 11.1.4: Beantwortung einer mündlichen Anfrage zu TOP 12.1 der Sitzung des Ausschusses Soziales und Senioren vom 19.04.2018 zum Projektbericht Clearingstelle Migration und Gesundheit Köln - Kenntnis genommen
+- TOP 11.1.5: Beantwortung einer mündlichen Nachfrage aus dem Ausschuss Soziales und Senioren am 19.04.2018 zum TOP 12.3 Mitteilung zur Veranstaltung "gesund & mobil im Alter" - Kenntnis genommen
+- TOP 11.1.6: Beantwortung einer mündlichen Anfrage des SE Dr. Dr. Mück betreffend "Gewalt in der Pflege" - Kenntnis genommen
+- TOP 11.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Anfrage der Fraktion Die Linke betreffend "Obdachlosigkeit von Jugendlichen und jungen Erwachsenen" - zurückgestellt
+- TOP -: Beantwortung der Anfrage der Fraktion „Die Linke“ vom 22.05.2018 zum Thema „Obdachlosigkeit von Jugendlichen und jungen Erwachsenen.(AN/0815/2018) - zurückgestellt
+- TOP 11.2.2: Anfrage der Gruppe "Bunt" betreffend "Arbeitsmarktintegration und Ausbildungsduldungen" - zurückgestellt
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Erste Ergebnisse nach Erweiterung der Öffnungszeiten der Kontakt- und Anlaufstelle sowie Drogenkonsumraum am Hauptbahnhof (KAD 1) - Kenntnis genommen
+- TOP 12.2: Informationskarten für Seniorinnen und Senioren - Kenntnis genommen
+- TOP 12.3: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - Kenntnis genommen
+- TOP 12.4: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen (I/2018) - Kenntnis genommen
+- TOP 12.5: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 12.6: Aufhebung des Vergabeverfahrens „Hausmeister- und Sicherheitsdienstleistungen in den Einrichtungen für obdachlose Personen und den Übergangswohnheimen für Aussiedler und ausländische Flüchtlinge der Stadt Köln" - Kenntnis genommen
+- TOP 12.7: Neues Amt für Integration und Vielfalt - Kenntnis genommen
