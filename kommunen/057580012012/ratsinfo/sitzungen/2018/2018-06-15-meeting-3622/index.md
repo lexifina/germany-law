@@ -1,0 +1,61 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2018-06-15T16:00:00+02:00
+- Ende: 2018-06-15T18:25:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSz3bjS-3amqD_zK1v8abmI
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3622
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZatuXKHFhlx0KVf0JIPb5iskX1jPM3ugT6GPl3t5T2s/Einladung_Rat_15.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVBCX3MzDlLR0t24El5mHu0X7_puf4rtej09A1LlqEir/Oeffentliche_Niederschrift_Rat_15.06.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 27.04.2018
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.10: Alkoholkonsum an bestimmten Stellen der Herforder Innenstadt - Dritte Änderung der "Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung“ - Hier: Verlängerung des Alkoholkonsumverbots in Teilbereichen der Innenstadt bis zum 30.12.2018. - Bei 9 Nein-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH a) Feststellung des Jahresabschlusses 2017 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung
+- TOP zu A.5a: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH a) Feststellung des Jahresabschlusses 2017 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung - Bei 2 Enthaltungen und ohne Nein-Stimme wurde folgender Beschluss gefasst: 
+- TOP A.5b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH Konzernabschluss 2017: a) Billigung des Konzernabschlusses b) Ergebnisverwendung - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5c: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 31.03.2018 b) Jahresprognose 2018 der Beteiligungsunternehmen
+- TOP A.5d: HVV- Konzern: Änderung von Gesellschaftsverträgen bei Gesellschaften mit Aufsichtsräten: a) Änderung des Gesellschaftsvertrages der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH b) Änderung der Gesellschaftsvertrages der WWS Wohn- und Wirtschafts-Service Herford GmbH c) Änderung des Gesellschaftsvertrages der SWH Stadtwerke Herford GmbH d) Änderung des Gesellschaftsvertrages der Stadtentwicklungsgesellschaft Hansestadt Herford mbH - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP zu A.5d: Änderungsantrag der Fraktion B90/DIE GRÜNEN zum TOP A.5d: Änderung der Gesellschaftsverträge bei Gesellschaften mit Aufsichtsräten - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.5d: Rechtliche Stellungnahme zu Vertragsänderungen bei Gesellschaften mit Aufsichtsräten
+- TOP A.5e: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2017 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung
+- TOP zu A.5e: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2017 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5f: Anträge über das Spendenverfahren der HVV, betreffend den Bereich Soziales - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5g: Anträge der Sportvereine über das Spendenverfahren der FSH GmbH
+- TOP zu A.5g: Anträge der Sportvereine über das Spendenverfahren der FSH GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5h: Verwendung von Spenden der FSH GmbH für den Kulturbereich - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5i: Umbesetzungen in den Drittorga-Gremien:
+- TOP A.5i)1: Gremienumbesetzung: Entsendung eines Vertreters der Hansestadt Herford in die Verbandsversammlung des Sparkassenzweckverbandes im Kreis Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5i)2: Antrag der Fraktion DIE LINKE auf Umbesetzung von personellen Vertretungen für DIE LINKE in Drittorga-Gremien - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6: 1. Situationsbericht zur Haushaltswirtschaft 2018
+- TOP A.7: Projekt "Markthalle" Sachstandsbericht
+- TOP A.8: Projekt "Archäologisches Fenster am Münster (AFaM)" Sachstandsbericht - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.9: Stadtentwicklungsprogramm "Herford 2030" hier: Entwurf - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Zukünftige Nutzung des Gebäudes der Hauptschule Meierfeld; hier: a) Teilstandortbildung Ernst-Barlach-Realschule b) Teilstandortbildung Königin-Mathilde-Gymnasium
+- TOP zu A.11: Zukünftige Nutzung des Gebäudes der Hauptschule Meierfeld; hier: a) Teilstandortbildung Ernst-Barlach-Realschule b) Teilstandortbildung Königin-Mathilde-Gymnasium - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.12: Abschluss einer öffentlich–rechtlichen Vereinbarung mit der Stadt Minden zur Einrichtung des Lehrgangs „ABI-Online“ des Weser-Kollegs Minden in der Hansestadt Herford
+- TOP zu A.12: Abschluss einer öffentlich–rechtlichen Vereinbarung mit der Stadt Minden zur Einrichtung des Lehrgangs „ABI-Online“ des Weser-Kollegs Minden in der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.13: 3. Satzung zur Änderung der Satzung über den Behindertenbeirat der Hansestadt Herford vom 18.01.2006 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Bebauungsplan Nr. 4.65 "Waisenhausstraße" hier: Verlängerung der Veränderungssperre - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.15: Umbesetzungen in den städtischen Gremien:
+- TOP A.15a: Nachbesetzung im Behindertenbeirat - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.15b: Antrag der Fraktion DIE LINKE auf Umbesetzung von personellen Vertretungen für DIE LINKE in städtischen Gremien - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.16: Antrag der SPD-Fraktion: Abberufung eines Ratsmitglieds
+- TOP zu A.16: Antrag der SPD-Fraktion: Abberufung eines Ratsmitglieds - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Antrag der SPD-Fraktion: Auflösung und anschließende Neuwahl aller Ausschüsse, Gremien und Aufsichtsräte der Hansestadt Herford
+- TOP zu A.17: Antrag der SPD-Fraktion: Auflösung und anschließende Neuwahl aller Ausschüsse, Gremien und Aufsichtsräte der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.17: Einheitlicher Antrag zum Verfahrensvorschlag
+- TOP A.18: Antrag der FDP-Fraktion:Öffnungszeiten im Freibad Elverdissen
+- TOP zu A.18: Antrag der FDP-Fraktion: Öffnungszeiten im Freibad Elverdissen - Bei 3 Enthaltungen und 3 Ja-Stimmen wurde der Antrag der FDP-Fraktion mehrheitlich abgelehnt.
+- TOP A.19: Genehmigung einer überplanmäßigen Verpflichtungsermächtigung für die Salzufler Straße für das Jahr 2018 - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.20: Mitteilungen
