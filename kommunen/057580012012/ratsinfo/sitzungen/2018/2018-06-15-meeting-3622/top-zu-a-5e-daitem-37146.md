@@ -1,0 +1,14 @@
+# TOP zu A.5e: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2017 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung
+
+- Sitzung: Rat (31. Sitzung) (2018-06-15)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37146
+- Ergebnis: Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- Beratung: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/17461
+- Beschluss (Datei): Beschlusstext (WWS Wohn- und Wirtschafts-Service Herford GmbH
+a) Feststellung des Jahresabschlusses 2017
+b) Ergebnisverwendung
+c) Bericht des Aufsichtsrates
+d) Entlastung des Aufsichtsrates
+e) Entlastung der Geschäftsführung ) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZULMZtuR8akPNXsyn-QNEIjwszGfM6-5CIIvlsL-RjSQ/Beschlusstext_RA-79-2018_1._Ergaenzung_-oeffentlich-_Rat_15.06.2018.pdf
