@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-18T17:00:00+02:00
+- Ende: 2018-06-18T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18701
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18701
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Europäische Charta der Gleichstellung von Frauen und Männern auf lokaler Ebene - ungeändert beschlossen
+- TOP 2: Internationales
+- TOP 2.1: EU-Projektantrag im Programm HORIZON 2020 - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Mündliche Nachfrage von MdR Richter in der Sitzung des AVR am 28.05.2018 betreffend "Besteuerung von Geldspielgeräten" - Kenntnis genommen
+- TOP 3.3: Mündliche Nachfrage von MdR Tokyürek in der Sitzung des AVR am 28.05.2018 betreffend "Versuchter Ausschluss von der Bürgerbeteiligung zur Ost-West-Achse" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - zurückgestellt
+- TOP 4.2: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen (I/2018) - Kenntnis genommen
+- TOP 4.3: Aufhebung des Vergabeverfahrens „Hausmeister- und Sicherheitsdienstleistungen in den Einrichtungen für obdachlose Personen und den Übergangswohnheimen für Aussiedler und ausländische Flüchtlinge der Stadt Köln" - Kenntnis genommen
+- TOP 4.4: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 4.5: Erhebung einer Verfassungsbeschwerde gegen die Durchführungsverordnung zum Prostituiertenschutzgesetz des Landes Nordrhein-Westfalen (DVO ProstSchG NRW) und Anwaltsbeauftragung - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Neues Amt für Integration und Vielfalt - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen betreffend "Werbesäulen" zur Sitzung am 28.05.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 14.06.2018 - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Umsetzung des Glücksspielstaatsvertrages" zur Sitzung am 28.05.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 14.06.2018 - Kenntnis genommen
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Ausmaß von und Einnahmen aus Melderegisterauskünften 2015 bis 2018" zur Sitzung am 18.06.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 11.06.2018 - Kenntnis genommen
+- TOP 6.4: Anfrage der FDP-Fraktion betreffend "Angriffe und Gewalt gegen Polizisten, Rettungskräfte und Klinikpersonal" zur Sitzung am 18.06.2018 - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend "Autonomes Zentrum an der Luxemburger Str. 93" zur Sitzung am 18.06.2018 - zurückgestellt
+- TOP 6.6: Anfrage der Gruppe BUNT betreffend "Was macht die Kölner Initiative für vernetzte Kriminalitätsbekämpfung (KIVEK)?" zur Sitzung am 18.06.2018
+- TOP -: Stellungnahme der Verwaltung vom 18.06.2018 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der Gruppe BUNT betreffend "Wo und was sind Angsträume? – Köln startet Aktionen zur Identifizierung von Angsträumen in Köln" - endgültig zurückgezogen
+- TOP -: Änderungsantrag der FDP-Fraktion - Kenntnis genommen
+- TOP -: Änderungsantrag der Fraktion DieLinke und von MdR Wortmann (Freie Wähler Köln) - Kenntnis genommen
+- TOP -: Änderungsantrag der SPD-Fraktion - Kenntnis genommen
+- TOP 8.2: Dringlichkeitsantrag der SPD-Fraktion, der Fraktion DieLinke und der Gruppe BUNT betreffend "Stadtarbeitsgemeinschaft Behindertenpolitik und Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - Aufwandsentschädigung und Sitzungsgeld" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Neufassung der Geschäftsordnung Integrationsrat - ungeändert beschlossen
+- TOP 10.2: Zusammenarbeit im Bereich der elektronischen Langzeitarchivierung „Digital Preservation Solution“ (DiPS.kommunal) - ungeändert beschlossen
+- TOP 10.3: Einlegung der Berufung gegen die Urteile des Verwaltungsgerichts Köln vom 17.05.2018 betreffend Maßnahmen gegen die Lärmimmissionen auf dem Brüsseler Platz - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
