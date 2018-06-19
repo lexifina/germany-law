@@ -1,0 +1,64 @@
+# Beteiligungsausschuss (32. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-19T17:18:00+02:00
+- Ende: 2018-06-19T19:18:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZcRfoAPrJJj3vYNFpLijB18
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5093
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT9IucENXclZTcJohD8w2NMu8uV-jJRuIRG93gAd0Shc/Bekanntmachung_Beteiligungsausschuss_19.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbt4Sdvvd5k-7sIesheuV6T9FEkloJ3ivNJMqGf_liZG/Oeffentliche_Niederschrift_Beteiligungsausschuss_19.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Frage im Beteiligungsausschuss vom 08.05.2018 zu TOP 4 Bedeutung des Klinik-Turbinenausfalls für die Strom-/Dampfproduktion
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung des Beteiligungsausschuss am 08.05.2018
+- TOP 4.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 4.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 4.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Protokoll über die 31. Sitzung des Beteiligungsausschuss am 08.05.2018
+- TOP 3.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4.: Städtische Musikschule Solingen GmbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2017/2018
+- TOP 5.: Wirtschaftsplan 2018/2019 der Städtische Musikschule Solingen GmbH
+- TOP 6.: Städtische Musikschule Solingen GmbH - Einzahlung in die Kapitalrücklage der Städtischen Musikschule Solingen GmbH
+- TOP 7.: Jahresabschluss 2017 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 7.1: Jahresabschluss 2017 der Solinger Bädergesellschaft mbH (SBG) hier: ergänzte Beschlussfassung
+- TOP 8.: Weitergabe von Krediten an die Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 9.: Jahresabschluss 2017 der Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 10.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Bestellung Wirtschaftsprüfer zum JA 2018
+- TOP 11.: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2018
+- TOP 12.: Städtisches Klinikum Solingen gemeinnützige GmbH - Jahresabschluss 2017
+- TOP 13.: Städtisches Klinikum Solingen gemeinnützige GmbH – Vergleich mit der AOK Rheinland/Hamburg
+- TOP 14.: Städtisches Klinikum Solingen gemeinnützige GmbH – Bestellung des Ärztlichen Direktors und Bestellung der stellv. Ärztlichen Direktoren und stellv. Mitglieder der Betriebsleitung
+- TOP 15.: Jahresabschluss 2017 der Entsorgung Solingen GmbH
+- TOP 16.: Bergische Gesellschaft für Ressourceneffizienz mbH – Umstrukturierung Gesellschaftsanteile und Änderung Gesellschaftsvertrag
+- TOP 17.: Bergisches Gesellschaft für Ressourceneffizienz mbH - Wiederbestellung des Geschäftsführers
+- TOP 18.: Jahresabschluss 2017 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 19.: Wirtschaftsförderung Solingen Verwaltungs GmbH - Bestellung des Jahresabschlussprüfers 2018
+- TOP 20.: Jahresabschluss 2017 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 21.: Wirtschaftsförderung Solingen GmbH & Co. KG - Bestellung des Jahresabschlussprüfers 2018
+- TOP 22.: Jahresabschluss 2017 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 23.: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Beteiligung an der Entwicklung des 3D Startup Campus NRW auf dem Gelände der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 24.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG - Bestellung des Jahresabschlussprüfers 2018
+- TOP 25.: Institut für Galvano- und Oberflächentechnik Solingen GmbH - Bestellung des Jahresabschlussprüfers 2018
+- TOP 26.: Jahresabschluss 2017 der Wasserwerk Baumberg GmbH
+- TOP 27.: Gründung der Trianel Energieprojekte GmbH & Co. KG und der Trianel Energieprojekte Verwaltungs GmbH als Komplementär-GmbH durch die Trianel GmbH
+- TOP 28.: Jahresabschluss 2017 der Elba Omnibusreisen GmbH
+- TOP 29.: Elba Omnibusreisen GmbH - Wahl des Abschlussprüfers für das Geschäftsjahr 2018
+- TOP 30.: Elba-Omnisbusreisen GmbH – Erhöhung Bezüge und Zahlung Tantieme 2017 Geschäftsführer
+- TOP 31.: Elba-Omnisbusreisen GmbH – Einführung Ticket-Plus-Karte
+- TOP 32.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Städtischen Musikschule Solingen GmbH
+- TOP 33.: Verschiedenes
+- TOP 33.1: Mitteilungen der Verwaltung
+- TOP 33.2: Anfragen an die Verwaltung
