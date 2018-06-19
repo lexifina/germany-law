@@ -1,0 +1,61 @@
+# 30. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-19T15:40:00+02:00
+- Ende: 2018-06-19T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18653
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18653
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00665952.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00665952.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00665952.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Ankauf eines Kunstwerkes des Künstlers Norbert Kricke für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.2: Vergabe von Datenerfassungsarbeiten (Laufzettel) an externen Dienstleister - ungeändert beschlossen
+- TOP 4.3: Vergabe der Konzeptionsförderung in der Sparte Theater, Haushaltsjahre 2019-2022 - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung von Kunstwerken der Künstlerin Candida Höfer und des Künstlers Wolfgang Tillmans an das Museum Ludwig - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - Kenntnis genommen
+- TOP 8.3: Geschäftsbericht 2017 des Kulturamtes - Kenntnis genommen
+- TOP 8.4: Clubförderung - Kenntnis genommen
+- TOP 8.5: Atelierumfrage 2017 - Kenntnis genommen
+- TOP 8.6: Berichterstattung über die Mittelverwendung zur Förderung von innovativen Kleinfestivals und Veranstaltungen 2018 - Kenntnis genommen
+- TOP 8.7: EU-Projektantrag im Programm HORIZON 2020 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR Jüdisches Museum im Archäologischen Quartier Köln - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht 43 - Neubau des Historischen Archivs mit Rheinischem Bildarchiv - Kenntnis genommen
+- TOP 9.3: Generalsanierung Zentralbibliothek Josef-Haubrich-Hof 1, Projektstatusbericht - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Anfrage der Fraktion Die Linke. betr.: "Sachstand zur Zwischennutzung Ebertplatz" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Kulturelle Bildung" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen - AN/0741/2018 - betr.: "Kulturelle Bildung" - Kenntnis genommen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfrage der SPD-Fraktion betr.: "Denkmalensemble Bahnhof Belvedere" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion - AN0736/2018 - betr.: "Denkmalensemble Bahnhof Belvedere" - Kenntnis genommen
+- TOP 11.4: Anfrage der SPD-Fraktion betr.: "Kunsthaus Rhenania" - zurückgestellt
+- TOP 11.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Stellenplan und Stellenvakanzen im wissenschaftlichen Betrieb der städtischen Museen" - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0745/2018 der Fraktionen CDU und Bündnis90/Die Grünen - zurückgestellt
+- TOP 11.6: Anfrage der SPD-Fraktion betr.: "Berücksichtigung von Kulturräumen bei den Planungen des Deutzer Hafens und von Mülheim-Süd" - Kenntnis genommen
+- TOP -: Beantwortung einer SPD-Anfrage nach § 4; AN/0561/2018; Berücksichtigung von Kulturräumen bei den Planungen des Deutzer Hafens und von Mülheim-Süd - Kenntnis genommen
+- TOP 11.7: Museumscard der Museen der Stadt Köln - zurückgestellt
+- TOP 11.8: Westseite des Baukomplexes von Museum Schnütgen und Rautenstrauch-Joest-Museum: "Hässliche Aufbauten über den Zugängen zum Untergeschoss" - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.9: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - zurückgestellt
+- TOP 11.10: Anfrage der Ratsgruppe BUNT betr.: "Virtueller Klassenraum – für Deutschlernende und für alle?" - zurückgestellt
+- TOP 12: Mündliche Anfragen
