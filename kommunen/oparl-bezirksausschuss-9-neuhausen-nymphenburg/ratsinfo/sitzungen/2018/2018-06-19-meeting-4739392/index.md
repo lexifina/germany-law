@@ -1,0 +1,141 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-06-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739392
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739392
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.5.2.: Konzept Veranstaltung zum öffentlichen Raum - WV aus 03/18
+- TOP 6.6.1.: Nachbarschaftstreff Mosaik: Situation der Jugendlichen im Hirschgarten-Quartier - vertagt aus 05/18
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.1.1.: "Lasst uns mal ran!" - Einrichtung eines Kinder- und Jugendbudgets (siehe TOP 6 - vertagt aus 05/18)
+- TOP 8.6.1.: Kinderfest im "Großen Grünwaldpark" am 21.07.2018
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund: Landshuter Allee 42
+- TOP 3.1.2.: (E) Gefahrenzone durch Schleichweg Haneberg-/Johann-Schmaus-/Braganzastraße
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Konzept "Vision Zero" als Modellversuch am Rotkreuzplatz
+- TOP 3.2.2.: Schleichweg Hanebergstraße / Johann-Schmaus-Str. / Braganzastr.
+- TOP 3.2.3.: Verkehrsregelung Nördliche Auffahrtsallee
+- TOP 3.2.4.: Kreuzung Wendl-Dietrich-Straße / Hawartstraße
+- TOP 3.2.5.: Verkehrssituation Margarethe-Danzi-Straße
+- TOP 3.2.6.: Beschilderung Winfriedstraße
+- TOP 3.2.7.: Ampelschaltung Kreuzung Romanstraße / Hubertusstraße
+- TOP 3.2.8.: Verkehrsregelung Horemansstraße
+- TOP 3.2.9.: Busanbindung Gern
+- TOP 3.2.10.: Parksituation im Arnulfpark
+- TOP 3.3: Anhörungen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Fahrradstraßenpilotroute Nymphenburg-Petuelring - Teilprojekt Menzinger Straße bis Dachauer Straße
+- TOP 3.4.2.: Verbesserung des Kreuzungsbereiches Leonrodplatz für den Fuß- und Radverkehr - Ergebnisse Ortstermin vom 30.01.2018
+- TOP 3.4.3.: Zweispuriger Übergang der Dachauer Str. für Radfahrer entlang der Westseite der Landshuter Allee
+- TOP 3.4.4.: Parkplatzsituation am Steubenplatz und in der Trojanostraße
+- TOP 3.4.5.: Fahrradabstellplätze Nymphenburger Straße / Rotkreuzplatz
+- TOP 3.4.6.: Haltverbot Nymphenburger Straße 110a
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: ÖPNV-Offensive IV - Haltestelle Botanischer Garten
+- TOP 3.5.2.: MVG: Busspur / Baustelle am Romanplatz - Bericht MVG im UA Verkehr
+- TOP 3.5.3.: (U) Vorlage Konzept zur Verkehrsberuhigung Donnersberger Brücke und Mittlerer Ring Nord Empfehlung Nr. 14-20 / E 01365 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen- Nymphenburg am 17.11.2016
+- TOP 3.5.4.: Verkehrsrechtliche Anordnungen des KVR: - Dachauer Straße / Postillonstraße - Herthastraße - Nymphenburger Str. 110a - Landshuter-Allee-Tunnel - Steubenplatz - Menzinger Str. / Wintrichring
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Kinder- und Jugendbeteiligung in Fragen der Stadtentwicklung - Münchner Forum e.V.
+- TOP 4.2.2.: Blutenburgstraße 47 - Ankündigung von Baumaßnahmen
+- TOP 4.2.3.: Hotel Holiday Inn Express/Friedenheimer Brücke - Regenauslauf auf den Fußgänger-Gehweg - - vertagt aus 05/18
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörungen zu Bauvorhaben: - Schulstraße 41 (6110-22) - Herthastraße 32 (7139-22) - Dantestraße 18 (7312-22) - Engasserbogen (7524-22) - Laimer Str. 36 (6117-22)
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Prinzenstraße 30 - Nachtrag in die Denkmalliste
+- TOP 4.4.2.: Erhaltungssatzung für den Bereich Donnersberger-, Schlör-, Schluder- und Sedlmayrstraße
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Meldelisten der Lokalbaukommission über eingegangene Bauanträge
+- TOP 4.5.2.: Planung Neubauprojekt Klarastraße
+- TOP 4.5.3.: Baustelle des Strafjustizzentrums
+- TOP 4.5.4.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 4.5.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.6.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 4.5.7.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Abfalleimer entlang des Nymphenburger Kanals
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Senkung der Feinstaubbelastung im gesamten Stadtgebiet - Anhörung zur BV-Empfehlung Nr. 1890 des 9. Stadtbezirkes vom 05.12.2017
+- TOP 5.3.2.: Anhörung zu Baumfällungsanträgen: - Bandelstr. 3 - Fuetererstr. 21 - Wintrichring 105
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Baustelleneinrichtung - Magazinneubau in der Leonrodstraße
+- TOP 5.4.2.: Abfallbehälter an der Ecke Waisenhausstraße / Ruffinistraße / Nymphenburger Straße
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Malteser Hilfsdienst e.V. Stadtgeschäftsstelle München Anschaffung eines Mehrzweckfahrzeuges für die Malteser Einsatzdienste München Stadt 3.000,00 € Az: 0262.0-9-0271
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 04.08. - 07.09.2018 2.650,00 Euro Az.: 0262.0-9-0279
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Integrierter Treff Mosaik, AG Buhlstraße e.V. "Hood-Mobil" am 21.07.2018 884,00 Euro Az.: 0262.0-9-0281
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Dauerkleingartenanlage Nord-West 1 e.V. Kinder- und Bürgerfest am 14.07.2018 270,00 Euro Az.: 0262.0-9-0286
+- TOP 6.1.5.: (E) Entfernung der Parkbank an der Ecke Stadtsparkasse, Leonrodstraße 72 Empfehlung Nr. 14-20 / E 01871 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Zweckentfremdung von Wohnraum im Stadtbezirk
+- TOP 6.2.2.: Unerlaubte Sondernutzung um den Rotkreuzplatz durch Bettelbande(n)
+- TOP 6.2.3.: Reduktion der Lärmbelastung an der Seidlhofstraße (Grünfläche)
+- TOP 6.2.4.: Barrierefreies München - Toiletten für alle - vertagt aus 05/18
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Hood Training im Hirschgarten am 21.07.2018
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Bericht von Vertretern des Sozialreferat im UA Soziales zum Projekt: "Umbau des Bürogebäudes Wotanstraße 88 in ein Flexi-Heim für anerkannte Flüchtlingsfamilien und wohnungslose Familien in kommunaler Zuständigkeit" (Vorlagen-Nr. 14-20 / V 09529)
+- TOP 6.6: Verschiedenes
+- TOP 6.6.2.: "Lasst uns mal ran!" - Einrichtung eines Kinder- und Jugendbudgets - vertagt aus 05/18
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Kreativlabor - Nutzungsanfragen zur Bespielung des "Spiegelplatzes"
+- TOP 7.3.2.: Finanzielle Beteiligung - Fest der Demokratie am 07.11.2018 - WV aus 05/18
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Vorstellung Projekt "Circus Creation Weekend" - Mögliche Unterstützung BA
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.2.: (E) Budget der Bezirksausschüsse 1. Münchner Football Club München 1979 e.V. - "Munich Cowboys" Anschaffung eines Anhängers 1.275,00 € AZ: 0262.0-9-0278
+- TOP 8.1.3.: (E) Budget der Bezirksausschüsse Erzdiözese München und Freising, Erzbischöfliches Maria-Ward-Gymnasium Nymphenburg Romfahrt 01. - 07.07.2018, Studienfahrt Berlin 02. - 06.07.18, Studienfahrt Neuwerk 30.06. - 05.07.18 1.800 € AZ: 0262.0-9-0285
+- TOP 8.1.4.: (E) Budget der Bezirksausschüsse Initiative Tanzworkshops "Ich war das nicht" Tanzworkshops vom 16.07.- 26.07.2018 500,00 € AZ: 0262.0-09-0277
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Antwort der Stadtschulrätin zu Themen aus der Kita-Konferenz: - Personal - Kita-Finder
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Tollwood Sommerfestival vom 27.06. - 22.07.2018
+- TOP 9.3.2.: Pfarrverbandsfest St. Clemens am 01.07.2018
+- TOP 9.3.3.: Magdalenenfest im Hirschgarten vom 07.-22.07.2018
+- TOP 9.3.4.: "Stühle raus" - Auftritt Matrosenchor am Nederlinger Platz - 20.07.2018
+- TOP 9.3.5.: Straßenfest in der Klugstraße am 21.07.2018
+- TOP 9.3.6.: Präsentation Urlaubsregionen am 20.08.2018 auf dem Rotkreuzplatz
+- TOP 9.3.7.: Bluesfest am 19.08.2018 auf dem Rotkreuzplatz
+- TOP 9.3.8.: Oktoberfest 2018 - Reservierung der Ratsboxe
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Straßenfeste vor Kindertagesstätten (vertagt aus 05/18)
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Unveränderte Gaststättenfortführung: Schulstraße 42 - "Moments"
+- TOP 9.6: Verschiedenes
