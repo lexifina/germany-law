@@ -1,0 +1,81 @@
+# 38. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-19T16:03:00+02:00
+- Ende: 2018-06-19T17:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18674
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18674
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00666876.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00666876.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00666876.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 1.2: „Spar dir dein Auto“ in Köln - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Verkehrsführungskonzept Altstadt - zurückgestellt
+- TOP 3.2: Busanbindung Lentpark - ungeändert beschlossen
+- TOP 3.2.1: Busanbindung Lentpark - endgültig abgelehnt
+- TOP 3.3: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - im ersten Durchgang verwiesen
+- TOP 3.4: Bedarfsfeststellung und Vergabe einer Ingenieurleistung zur Machbarkeitsstudie einer Erweiterung der nördlichen und südlichen Seite der Hohenzollernbrücke - ungeändert beschlossen
+- TOP 3.5: Bedarfsfeststellungsbeschluss zur Umrüstung des analogen Videosystems zur Verkehrsvisualisierung auf moderne/digitale Technik - ungeändert beschlossen
+- TOP 3.6: Bedarfsfeststellung und Vergabe eines Rahmenvertrages für Hinweisbeschilderungen mit einer Laufzeit von zwei Jahren - ungeändert beschlossen
+- TOP 3.7: Bedarfsfeststellung und Vergabe des Zeitvertrages für unvorhersehbare Arbeiten an Induktionsschleifen an Lichtsignalanlagen - ungeändert beschlossen
+- TOP 3.8: Bedarfsfeststellungsbeschluss und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 264. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert empfohlen
+- TOP 4.2.1: TOP 4.2 Stärkung und Ausweitung des KVB-Busnetzes - endgültig abgelehnt
+- TOP 4.3: Stärkung und Ausweitung des KVB-Busnetzes - mit Änderungen empfohlen
+- TOP 4.3.1: Änderungsantrag zu TOP 4.3 Stärkung und Ausweitung des KVB-Busnetzes; Dauerhafte Erweiterungen - ungeändert empfohlen
+- TOP 4.4: Erneuerung der Eisenbahnüberführungen Deutz-Mülheimer Straße in Köln-Deutz - ungeändert empfohlen
+- TOP 4.5: Generalinstandsetzung der Germaniastraße in Köln-Höhenberg zwischen Olpener Straße und Gothaer Straße, hier Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziff. 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straß - ungeändert empfohlen
+- TOP 4.6: Umstellung des Linienbusnetzes auf alternative Antriebsformen - im ersten Durchgang verwiesen
+- TOP 4.7: Bedarfsfeststellung und Vergabe des Zeitvertrages für unvorhersehbare Tiefbauarbeiten an Lichtsignalanlagen - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Anfrage des Seniorenvertreters Meurers betr. Reichenspergerplatz - zurückgestellt
+- TOP 5.1.2: Organisation der Bürgerbeteiligung zur Ost-West-Achse - Sache ist erledigt
+- TOP 5.1.3: Überprüfung und Rückbau freilaufender Rechtsabbieger - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Schulwegpläne in Köln - Sache ist erledigt
+- TOP 5.2.2: Externe Beratung in Radverkehrsfragen - Sache ist erledigt
+- TOP 5.2.3: Fahrscheinloser Tag der KVB 2018 - Sache ist erledigt
+- TOP 5.2.4: Ost-West-Achse - Sache ist erledigt
+- TOP 5.2.4.1: Anfrage der SPD-Fraktion vom 14.06.2018 betr. Ost-West-Achse - Kenntnis genommen
+- TOP 5.2.5: Einsatz von Abbiegeassistenten - Sache ist erledigt
+- TOP 5.2.6: Versorgung von Flusskreuzfahrtschiffen - Sache ist erledigt
+- TOP 5.2.7: Zukünftige Leistungsfähigkeit des Bonner Verteiler-Kreises - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 6.2: Förderung von gewerblichen Cargobikes - Sache ist erledigt
+- TOP 6.3: Stellungnahme zu einer Anfrage der FDP, hier: Nutzung der „Wolke" in den U-Bahn-Station Heumarkt (AN/1687/2017) - Sache ist erledigt
+- TOP 6.4: Fahrradführung Deutzer Brücke - Sache ist erledigt
+- TOP 6.5: Kostenprognose Instandhaltung des unterirdischen Straßenbahnnetzes in Köln - Sache ist erledigt
+- TOP 6.6: Sachstand und bisherige Erkenntnisse des Verkehrsgutachtens Mülheimer Süden - Sache ist erledigt
+- TOP 6.7: Radverkehrskonzepte in den Kölner Stadtteilen - Sache ist erledigt
+- TOP 6.8: Kölner Verkehrs-Betriebe AG (KVB): Weitere Planung Rasengleise (AN/0738/2018) - Sache ist erledigt
+- TOP 6.9: Ticketautomaten der KVB – Schwarzfahren wider Willen - Sache ist erledigt
+- TOP 6.10: Kostennutzenanalyse Ost-West-Achse - Sache ist erledigt
+- TOP 6.11: Kölner Verkehrs-Betriebe AG (KVB): Ausgaben für Dienstleistungen und Angebote der digitalen Fahrplanbeauskunftung der KVB (AN/0724/2018) - Sache ist erledigt
+- TOP 6.12: Realisierung von ÖPNV-Maßnahmen - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Bericht über die Umsetzung von Anträgen und Verwaltungsvorlagen - Kenntnis genommen
+- TOP 7.2: Neue Kölner Statistik 2/2018 - Kraftfahrzeuge - Kenntnis genommen
+- TOP 7.3: Verkehrsversuch Sperrung Zülpicher Straße - Kenntnis genommen
+- TOP 7.4: Verkehrsunfallsituation des Jahres 2017 im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 7.5: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 7.6: Einrichtung von (Quartiers-) Mobilstationen im Rahmen des experimentellen Wohnungs- und Städtebau -Modellvorhabens in der Altstadt-Süd - Kenntnis genommen
+- TOP 7.7: Werbesäulen - Kenntnis genommen
+- TOP 7.8: Tunnel Kalk - Verkehrsphasenumstellung in der unteren Tunnelröhre - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Radwege im Grüngürtel - Sache ist erledigt
+- TOP 8.2: Auswertungen zum fahrscheinlosen Tag - Sache ist erledigt
