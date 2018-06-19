@@ -1,0 +1,8 @@
+# TOP 5.3: Neugestaltung und Belebung des Hugenottenplatzes
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2018-06-19)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=42762
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/consultations.asp?typ=i&id=42762
