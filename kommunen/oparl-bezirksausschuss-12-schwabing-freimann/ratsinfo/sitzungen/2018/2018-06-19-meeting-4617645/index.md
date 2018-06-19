@@ -1,0 +1,152 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2018-06-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4617645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4617645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 8.1.: Vertretungsregelung in den Unterausschüssen (vertagt aus der Sitzung vom 08.05.2018)
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Baumfällungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Maßnahmeträger Bayernkaserne
+- TOP 6.2.: Schaffung eines Referats für Mobilität
+- TOP 6.3.: Würdige Wahlurnen statt umfunktionierter Mülltonnen
+- TOP 7.1.: Informationsschreiben zur Nutzung der LTE-Router
+- TOP 7.2.: Änderung der Bürger- und Einwohnerversammlungssatzung; Erweiterung des Rederechts
+- TOP 7.3.: (U) Änderung der Bürger- und Einwohnerversammlungssatzung
+- TOP 8.2.: Besetzung des Ferienausschusses und Wahl der/des Vorsitzenden des Ferienausschusses 2018
+- TOP 8.3.: Sitzungstermine 2019 für den BA 12
+- TOP 9.1.: Oktoberfest 2018, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP B.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Wasser an der Münchner Freiheit
+- TOP 1.2.: Einrichtung eines Warnblinkzeichens an der Einmündung der Bismarckstraße in die Clemensstraße
+- TOP 1.3.: Überprüfung der Schaltzeiten Ampelanlage Ungererstraße / Domagkstraße noch vor Schulbeginn September 2018
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Grün in der Stadt – Plan für mögliche neu zu pflanzende Bäume, BV-Empfehlung Nr. 14-20 / E 01088, Referatsschreiben zum BA-Beschluss
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Parkraummanagement, Lizenzgebiet Potsdamer Straße, Parkregelung in der Leopoldstraße
+- TOP 3.2.1.: Erinnerungsverfahren, Frankfurter Ring 50-54
+- TOP 3.2.2.: Parken Lappenweg und Kieferngartenstraße, BA-Antrags-Nr 14-20 / B 04360, Referatsschreiben
+- TOP 3.2.3.: Erstellung einer Statistik über die Baumfällungen im 12. Stadtbezirk, BV-Empfehlung Nr. 14-20 / E 01560, Referatsschreiben
+- TOP 3.2.4.: Neuer Wertstoffcontainerstandort: Margarete-Schütte-Lihotzky-Straße (Domakgpark bei Atelierhaus)
+- TOP 4.1.: Einführung der Parklizenzierung in der Alten Heide
+- TOP 4.2.: Verkehrsberuhigung und Umwidmung der Mannheimer Straße / Sulzbacher Straße
+- TOP 4.3.: Parkplatzproblematik in der Germaniastraße
+- TOP 4.4.: Veränderung der Haltverbotsregelung vom 23.05.2018 in der Kieferngartenstraße
+- TOP 4.5.: Antrag zur Unterstützung der Begrünung der Germaniastraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Laubentfernung in der Osterwaldstraße
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Schlößlanger 2
+- TOP 5.2.2.: Arbeiten im Straßenraum, Am Blütenring, Sondermeierstraße, Auswechslung von zwei Wasserhauptleitungen und Wasserhausanschlüsse
+- TOP 5.2.3.: Arbeiten im Straßenraum, Keilberthstraße 6 und Werner-Egk-Bogen 39 und gegenüber, Tiefbau und Kabelzug
+- TOP 5.2.4.: Parken Kieferngartenstraße Wirtsbreite
+- TOP 5.2.5.: Arbeiten im Straßenraum, Ungererstraße 189 / Garchinger Straße / Domgakstraße, Fernwärmearbeiten
+- TOP 5.2.6.: Arbeiten im Straßenraum, Floriansmühlstraße 21 Seite Freisinger Landstraße, Reparatur Wasserhauptleitungsschieber
+- TOP 5.2.7.: Arbeiten im Straßenraum, Montsalvatstraße 3 – 19 zwischen Isoldenstraße und Tristanstraße, Fahrbahnsanierung
+- TOP 5.3.1.: SWM Trinkwasserprojekt, Am Blütenring
+- TOP 5.3.2.: SWM Telekommunikationsprojekt, Werner-Egk-Bogen
+- TOP 5.3.3.: Antwortschreiben des Referats bezüglich des BA-Schreibens zu den Standortvorschlägen für Dialog-Displays
+- TOP 5.3.4.: (U) P+R Park & Ride GmbH Instandsetzung technischer Anlagen mit Toilettenanlage West im P+R Parkhaus Fröttmaning
+- TOP 5.3.5.: (U) Begrünungsprogramm für Erschließungsstraßen Antrag Nr. 14-20 / A 02385 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Heide Rieke und Herrn Stadtrat Christian Amlong vom 08.08.2016
+- TOP 5.3.6.: Infoflyer SWM, Fernwärmeprojekt Siegfriedstraße
+- TOP 5.3.7.: Antwort der Stadtentwässerung zum Bürgeranliegen: Gullydeckel an der Seestraße 8, D.4.1-05/18
+- TOP 5.3.8.: (U) Klärwerk Gut Großlappen, Photovoltaikpark Klärwerk Gut Marienhof Gesamtkosten (Kostenberechnung): 9,4 Mio. € Projektgenehmigung
+- TOP 5.3.9.: Antwortschreiben des Kommunalreferats zum Bürgeranliegen „Toilettenanlage am U-Bahnhof Kieferngarten, D.4.3-05/18
+- TOP 5.3.10.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 5.3.11.: SWM Fernwärmeprojekt Wilhelm-Wagenfeld-Straße
+- TOP 5.3.12.: SWM Fernwärmeprojekt Garchinger Straße, Ungerer Straße
+- TOP C.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Einrichtung eines Baumgräberfeldes am Nordfriedhof, bezugnehmend auf den BA-Antrag 14-20 / B 04474 vom 23.01.2018
+- TOP 1.2.: Schluss mit der Mangelverwaltung! Mehr Ateliers für das städtische Atelierhaus am Domagkpark durch mutige Nachverdichtung
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Wilhelmschule-Förderverein e.V. Projekt "Kinder treffen Künstler" vom 25.06.-13.07.2018 1.000,00 € AZ: 0262.0-12-0257
+- TOP 2.2.: (E) Budget der Bezirksausschüsse PA/SPIELkultur e.V. Offene Mal- und Sprühaktion "Graffiti an der Münchner" am 29. und 30.06.2018 1.257,61 € AZ: 0262.0-12-0258
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Theater des Hölzernen Gelächters Sommertheaterproduktion im August/September 2018 3.700,00 Euro Az.: 0262.0-12-0261
+- TOP 2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anhörungen
+- TOP 3.1.: Veranstaltung an der Münchner Freiheit, Graffiti und Malen am 29. und 30.6.2018
+- TOP 3.2.: Veranstaltung am Adam-Erminger-Platz, Sommerfest der Gemeinschaft Sant&#039;Egidio
+- TOP 3.3.: Fragenkatalog der Fachstelle für Demokratie
+- TOP 3.4.: Schools over Jam am 27.07.2018 an der Münchner Freiheit
+- TOP 3.5.: Sommerfest der Kinderkrippe an der Oskar-Schlemmer-Straße am 20.07.2018
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Aufzug Seidlvilla
+- TOP 5.2.1.: Leopoldstraße 150
+- TOP 5.2.2.: Leopoldstraße 28a
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Neubau einer offenen Einrichtung für Kinder und Jugendliche auf dem Gelände der ehemaligen Bayernkaserne Bebauungsplan mit Grünordnung Nr. 1989 12. Stadtbezirk Schwabing-Freimann 1. Genehmigung des Bedarfs 2. Zustimmung zur Planung 3. Ermächtigung zum Betrieb der Einrichtung 4. Standortsicherung
+- TOP 5.3.2.: Stellungnahme des Referats bezüglich der Ablehnung des Ungarischen Markts an der Münchner Freiheit durch den BA
+- TOP 5.3.3.: Veranstaltungsgenehmigung in der Grünanlage Otl-Aicher-Straße am 06.05. und 14.10.2018, Ausnahmegenehmigung
+- TOP 5.3.4.: TamS-Theater, Kurzbericht zur vom BA geförderten Maßnahme „Adventskalender Macht hoch die Tür“
+- TOP 5.3.5.: (U) Bereitstellung von Räumen für das Familien- und Beratungszentrum und die Ersatzbetreuung in der Kindertagespflege Bayernkaserne Soziale Infrastruktur für das Neubaugebiet Stadtbezirk 12 Schwabing - Freimann Bebauungsplan 1989 1. Zustimmung zur Planung 2. Genehmigung des vorläufigen Nutzerbedarfsprogramms 3. Ermächtigung zum Betrieb der Einrichtung 4. Fortschreibung bzw. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogramms 2018 - 2022
+- TOP 5.3.6.: Veranstaltung „StuStaCulum“ vom 30.05. - 02.06.2018, Eilentscheidung des Vorsitzenden
+- TOP 5.3.7.: Veranstaltung „kids@work“ am 29.06.2018, Eilentscheidung des Vorsitzenden
+- TOP 5.3.8.: Veranstaltung „Informationsveranstaltung“ an der Münchner Freiheit am 08.06.2018, Eilentscheidung des Vorsitzenden
+- TOP 5.3.9.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 23.04.2018 im Sozialreferat
+- TOP 5.3.10.: Verlängerung der Sondernutzungserlaubnis zur Kunstaktion am Siegestor
+- TOP 5.3.11.: Sachbericht, Lernwerkstatt Halle 36, Parklet-Projekt
+- TOP 5.3.12.: Veranstaltung, 1.) Spielplatz Situlistraße 2.) Haidpark Freimann, Mobile Spielaktionen des Freizeittreffs Freimann am 07.06. und 05.07.2018, Eilentscheidung des Vorsitzenden, Zustimmung durch Fristablauf
+- TOP D.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Antrag für einen mobilen Fahrradständer, Herzogstraße 21
+- TOP 2.2.: Antrag für eine Warenauslage, Fritz-Winter-Straße 3
+- TOP 2.3.: Antrag für eine Warenauslage, Haimhauserstraße 5
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Mies-van-der-Rohe-Straße 5, Aufstockung und Erweiterung eines Bürogebäudes
+- TOP 3.1.2.: Brettener Straße 24, 1 Serbische Fichte
+- TOP 3.1.3.: Klementinenstraße 9, Neubau eines Einfamilienhauses (2WE) mit Tiefgarage
+- TOP 3.1.4.: Sondermeierstraße 76, Errichtung eines Anbaus und Neubau einer Garage
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Litfaßsäule Leopoldstraße Ecke Herzogstraße Süd entfernen, BA-Antrags-Nr 14-20 / B 04171 vom 17.10.2017
+- TOP 3.2.2.: Anhörung des BA 12 zum BA Antrag „Ausstellung zur Geschichte des Ausbesserungswerks“ Nr. 14-20 / B04176 vom 17.10.2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: 100 Jahre Baugesellschaft Alte Heide
+- TOP 4.2.: Parkstadt Schwabing, Bebauung der letzten Freiflächen, Erhalt der ausgewachsenen Bäume
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Wasserturm Freimann
+- TOP 5.1.2.: Nutzung des Kleinhauses in der Werneckstraße 10 (Einzeldenkmal, um 1800) im Ensemblebereich Altschwabing
+- TOP 5.1.3.: Stromerzeuger von Gemüse- und sonstigen Verkaufsständen, BA-Antrags-Nr 14-20 / B 04615 vom 27.02.2018
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 5.3.2.: (U) Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung Antrag Nr. 14-20 / A 03590 der Stadtratsfraktion Die Grünen – rosa liste vom 13.11.2017
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: (U) Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG Antrag Nr. 14-20 / A 03432 der FDP - HUT Stadtratsfraktion vom 02.10.201
+- TOP 5.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.6.: Abgelehnte Baumfällung Königinstraße 28
+- TOP 5.3.7.: Eilentscheidung des Vorsitzenden, Begonienstraße, Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 5.3.8.: Eilentscheidung des Vorsitzenden, Lilienthalallee 45, Umbau, Neubau und Fassadensanierung des ehemaligen Gebäudes 79 zu einem Private Member Club
+- TOP 5.3.9.: Vollzug der Zweckentfremdungssatzung, Vollzug der Erhaltungssatzungen, Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten, Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014, Bekanntgabe der Jahresstatistik 2017, Sitzungsvorlagennummer 14-20 / V 11151
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
