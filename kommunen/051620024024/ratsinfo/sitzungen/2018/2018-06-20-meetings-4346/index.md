@@ -1,0 +1,53 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2018-06-20T17:00:00+02:00
+- Ende: 2018-06-20T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/12
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4346
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4346
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: 130. FNP-Ä - Hammfeld II West - zur Kenntnis genommen
+- TOP 4: Bebauungsplan Nr. 490 - Hammfeld II (West), Möbelfachmarkt - Satzung - zur Kenntnis genommen
+- TOP 5: BP Nr. 131/6/1 - Stresemannallee, Hammfelddamm - Auslegung - zur Kenntnis genommen
+- TOP 6: BP Nr. 476 - Augustinusviertel, Hammfelddamm, Alexianerplatz - (Leuchtenberg) Auslegung - zur Kenntnis genommen
+- TOP 7: Bebauungsplan Nr. 460 - Norf, Nievenheimer Straße - - zur Kenntnis genommen
+- TOP 8: Bebauungsplan Nr. 495 – Furth-Süd, Further Straße / Josefstraße – - zur Kenntnis genommen
+- TOP 9: VBP Nr. V 41/1 - Furth-Süd, Weißenberger Weg - - zur Kenntnis genommen
+- TOP 10: BP 120/19 Weckhoven, Otto-Wels-Str. erneute Aufstellung - zur Kenntnis genommen
+- TOP 11: Veränderungssperre Nr. 38 zu BP 120/19 Otto-Wels-Str. - zur Kenntnis genommen
+- TOP 12: Umstellung des Verfahrens zum Bebauungsplan Nr. 485 – Holzheim, Kreitzer Straße (Gewerbegebiet und G - zur Kenntnis genommen
+- TOP 13: „Botanischer Garten“ - - zur Kenntnis genommen
+- TOP 14: Höchstgeschwindigkeit Deutsche Straße - zur Kenntnis genommen
+- TOP 15: Gestaltungsleitfaden Außengastronomie - zur Kenntnis genommen
+- TOP 16: Gesamtverkehrskonzept für Norf und Derikum - zur Kenntnis genommen
+- TOP 17: Sachstand Entwicklung ETEX-Areal - zur Kenntnis genommen
+- TOP 17.1: Sachstand Radschnellweg - zur Kenntnis genommen
+- TOP 17.2: Standort von Papiercontainer - zur Kenntnis genommen
+- TOP 17.3: Ausweisung Grünfläche für das Clemens-Sels-Museum - zur Kenntnis genommen
+- TOP 18: Antrag der Fraktionen von SPD und FDP betr. Aufbau einer flächendeckenden Ladeinfrastruktur für Elek - zur Kenntnis genommen
+- TOP 19: Bau einer Umgehungsstraße vom Gewerbegebiet Krupp-/Mainstraße zur geplanten AS-Delrath - zur Kenntnis genommen
+- TOP 20: Erweiterung des REWE Parkplatzes und eine evtl. damit zusammenhängende Neugestaltung des Kirmesplatz - zur Kenntnis genommen
+- TOP 21: Mauerreste des alten Bahnhofes untersuchen - zur Kenntnis genommen
+- TOP 22: Wegeverbindung Stauffenbergstraße/Rheydter Straße - zur Kenntnis genommen
+- TOP 23: Zusatzzeichen „Bei Rot hier halten“ an der Ecke Werresweg / Bonner Straße - zur Kenntnis genommen
+- TOP 24: Sachstandsbericht „ÖPNV-Anbindung der Klever Straße“ - zur Kenntnis genommen
+- TOP 25: Sachstandsbericht zur Elektromobilität - zur Kenntnis genommen
+- TOP 26: Sachstandsbericht Regiobahnhaltepunkt Morgensternsheide - zur Kenntnis genommen
+- TOP 27: ÖPNV in Neuss - zur Kenntnis genommen
+- TOP 28: Sachstandsbericht neues Gewerbeflächengutachten - zur Kenntnis genommen
+- TOP 29: Sachstand zum Integrierten Städtebaulichen Entwicklungskonzept (ISEK) Bahnhofsumfeld Neuss - zur Kenntnis genommen
+- TOP 30: Konzept zur Steuerung von Vergnügungsstätten/Wettbüros - zur Kenntnis genommen
+- TOP 31: Erarbeitung eines Ortmittelpunktkonzeptes im Neusser Süden - zur Kenntnis genommen
+- TOP 32: Änderung des Landesentwicklungsplans - zur Kenntnis genommen
+- TOP 33: Sachstandsbericht neuer Regionalplan (RPD) - zur Kenntnis genommen
+- TOP 34: Bebauungsplan Nr. 484 - Augustinusviertel, Ehem. St.-Alexius Krankenhaus – - zur Kenntnis genommen
+- TOP 35: Bericht aus der 14. Sitzung des Beirates Innenstadtstärkungsprogramm vom 17.05.2018 - zur Kenntnis genommen
+- TOP 36: Bericht aus dem Beirat Hammfeld II West - zur Kenntnis genommen
