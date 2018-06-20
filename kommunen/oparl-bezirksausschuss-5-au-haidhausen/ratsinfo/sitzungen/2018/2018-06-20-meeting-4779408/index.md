@@ -1,0 +1,159 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-06-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4779408
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4779408
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP V.1.: Führung durch die Ausstellung zum Architekturwettbewerb Gasteig um 19 Uhr, Treffpunkt Glashalle
+- TOP 2.1.: Aurbacherstr. 4: Teilung einer Wohnung in 2 Wohnungen (Bestand)
+- TOP 2.2.: Sommerstr. 2: Anbau von 5 Balkonen
+- TOP 2.5.: Wörthstr. 17: Umbau eines Bäckerei-Cafes
+- TOP 2.6.: Franziskanerstr. 45: Anbau eines Außenaufzugs
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Wohngebäude Johannisplatz 10 – Vollzug der Feuerbeschau-Verordnung
+- TOP 4.2.2.: Behinderung und Gefährdung auf der Falkenstraße (Baustelle ehem. Paulaner) (Antwortschreiben KVR liegt vor)
+- TOP 4.2.3.: 30er Zone in der Welfenstraße
+- TOP 4.2.4.: Fahrradstellplätze in der Sommer-/Eduard-Schmid-Straße
+- TOP 4.2.5.: Beschwerde Situation Hort Welfenstraße
+- TOP 4.2.6.: Offener Abwasserdeckel in der Sedanstr. 10
+- TOP 4.2.7.: Beschwerde Parkraumlizenzgebiet Regerstraße Antwortschreiben KVR liegt vor
+- TOP 5.1.: Oberleitungsmaste Ecke Einstein-/Grillparzerstraße
+- TOP 5.2.: Mehr Platz für Fußverkehr – Wörthstraße / Breisacher Straße
+- TOP 5.3.: Radabstellplätze schaffen
+- TOP 5.4.: Instandhaltung des Maxwerks durch die SWM
+- TOP 5.5.: Schließfächer im UG des Ostbahnhof neu positionieren
+- TOP 5.6.: Sitzungstermine des BA: RIS erweitern – Digitalen Kalender einführen
+- TOP 5.7.: Rechtliche Grundlage der Erweiterung des Bebauungsplans Nr. 2076 – Baugebiet 2 (2) ehem. Paulaner Gelände zwischen Hoch- und Regerstraße Anfrage
+- TOP 5.8.: Aktueller Stand: Inbetriebnahme der Containeranlage an der GS Flurstraße Anfrage
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Kulturlust e.V. Radl-Aktion "Räder für alle" ab dem 01.07.2018 4.660,30 € Az: 0262.0-5-0195
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Theater und Live Art München e.V. HochX Straßen-Sommerfest am 29.07.2018 2.500,00 € AZ: 0262.0-5-0199
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Arbeitsgemeinschaft Kinder und Jugendliche in Au/Haidhausen Haidhauser Kultursonntag am 01.07.2018 710,00 € Az: 0262.0-5-0200
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Projekt-Laden International Haidhausen (vij – Ortsverein München) Ausflüge „Bewegung“ für Mädchen und Jungen im Oktober 2018 447,60 € AZ: 0262.0-5-0194
+- TOP 6.1.5.: (E) Budget der Bezirksausschüsse AKA e.V. Haidhauser Kultursonntag am 01.07.2018 2.500,00 € AZ: 0262.0-5-0197
+- TOP 6.1.6.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Großes Sommerfest am 04.07.2018 850,00 € Az: 0262.0-5-0198
+- TOP 6.1.7.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule am Mariahilfplatz Drei Tanzprojekte im Schuljahr 2018/2019 1740,00 € AZ: 0262.0-5-0194
+- TOP 6.1.8.: (E) Budget der Bezirksausschüsse Leichtathletik Förderzentrum München e.V. Schulsportveranstaltung Schüler XCROSS Hindernislauf am 20.06.2018 1.840,00 € AZ: 0262.0-5-0196
+- TOP 6.1.9.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube „komm“-Streetwork am 10.08.2018 172,00 € AZ: 0262.0-5-0203
+- TOP 6.2.1.: Genehmigung einer Freischankfläche für die Gaststätte „Pizzesco“ in der Rosenheimer Str. 16 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Aussagekraft des Verkehrsversuchs an der Rosenheimer Straße Empfehlung Nr. 14-20 / E 01924 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen am 01.03.2018 Tempolimit Rosenheimer Straße Empfehlung Nr. 14-20 / E 01925 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen am 01.03.2018 Mehr Geschwindigkeitskontrolle an der Rosenheimer Straße (Ziffer 1) Empfehlung Nr. 14-20 / E 01926 der Bürgerversammlung des 05. Stadtbezirkes Au-Haidhausen am 01.03.2018
+- TOP 6.3.2.: Kirchenstraße zwischen Seerieder- und Flurstraße Rückbau der Radwege, Verbreiterung Gehweg, barrierefreier Ausbau der Bushaltestelle Kirchenstraße - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 7.1.: Sponsorenlauf der Nachbarschaftshilfe in der Au e.V. auf dem Mariahilfplatz am 28.09.2018
+- TOP 8.1.1.: Umsetzung von Beschlüssen transparenter darstellen
+- TOP 8.1.2.: Verkehrsversuch Rosenheimer Straße: Nachbesserungen; Geschwindigkeitsbegrenzung auf 30 km/h auf einer Hauptverkehrsstraße
+- TOP 8.1.3.: Softwareumstellung an den Parkscheinautomaten
+- TOP 8.1.4.: Beendigung der Verpachtung öffentlichen Grundes (ehemaliger Biergarten der Gaststätte "Hutterer", Grütznerstraße 8)
+- TOP 8.1.5.: Beteiligung der Bezirksausschüsse an der Studie für die LHM „Nutzungsmuster öffentlich zugänglicher Freiräume im Zuge des sozialdemographischen Wandels“
+- TOP 8.1.6.: Mobile Durchfahrtssperre für KfZ
+- TOP 8.1.7.: Rechts vor links in der Balanstraße zwischen Rosenheimer Straße und Orleans- straße BA-Antrag Nr. 14-20 / B 04787 Bitte um Fristverlängerung bis 31.08.2018
+- TOP 8.1.8.: Verkehrsüberwachung auf dem Fahrrad
+- TOP 8.1.9.: Parkplatzregelung Preysingplatz
+- TOP 8.1.10.: Profilierung des Spartentunnels an der Reichenbachbrücke nacharbeiten
+- TOP 8.2.1.: Preysingplatz 8, Nichtbeachtung der Straßenreinigungspflicht und Winterdienst durch den Eigentümer
+- TOP 8.3.1.: Nachteile Südring
+- TOP 8.3.2.: Erschütterungsmaßnahmen (2. S-Bahn Stammstrecke)
+- TOP 8.3.3.: Fußgänger in München stärken
+- TOP 8.3.4.: Stickoxydbelastung Humbolt-/Pilgersheimer Straße
+- TOP 8.3.5.: Gewinnung von Wahlhelferinnen und Wahlhelfern zur Wahl Bayerischer Landtag und Bezirkstag am 14.10.2018
+- TOP 8.3.6.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Pütrichstr. 2: Fällung von 1 Bergahorn
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Vorstellung des Kunstprojektes „Part – eine Performance im Öffentlichen Baum“
+- TOP II.2.: Fest der Demokratie auf der Theresienwiese am 07.11.2018 Beteiligung aller Bezirksausschüsse Schreiben BA 8
+- TOP II.3.: Termin für die Enthüllung der Gedenktafel der Familie Schülein in der Einsteinstr. 42
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kinder- und Jugendbeteiligung bei Fragen der Stadtentwicklung Anfrage Münchner Forum
+- TOP 2.2.: Dialogische Formate bei den Bezirksausschüssen Anfrage der Fachstelle für Demokratie
+- TOP 2.3.: Nutzung der Halfpipe am Spielplatz Tassilopark Bürgeranliegen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 23.04.2018 im Sozialreferat
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Budget der Bezirksausschüsse Kulturlust e.V. Radl-Aktion „Räder für alle“ ab dem 01.07.2018 4.660,30 €
+- TOP 1.2.: Budget der Bezirksausschüsse Theater und Live Art München e.V. HochX Straßen-Sommerfest am 29.07.2018 2.500,00 €
+- TOP 1.3.: Budget der Bezirksausschüsse Arbeitsgemeinschaft Kinder und Jugendliche in Au/Haidhausen Haidhauser Kultursonntag am 01.07.2018 710,00 €
+- TOP 1.4.: Genehmigung einer Freischankfläche für die Gaststätte "Pizzesco" in der Rosenheimer Str. 16
+- TOP 2.: Anhörungen
+- TOP 2.1.: Haidhauser Kultursonntag 2018 am 01.07.2018 auf dem Johannisplatz
+- TOP 2.2.: Münchner Radlnacht am 07.07.2018 (Strecke u.a. in der Falkenstraße, Mariahilfplatz, Schweigerstraße)
+- TOP 2.3.: Fahrradverlosung Bordeauxplatz am 22.07.2018
+- TOP 2.4.: Straßenfest in der Lothringer Straße am 14.07.2018
+- TOP 2.5.: Straßenfest Theater HochX in der Entenbachstraße am 29.07.2018
+- TOP 2.6.: „Omnibus für direkte Demokratie“ vom 05.09.-06.09.2018 am Wiener Platz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.3.: Neue Sitzgelegenheiten an öffentlichen Plätzen ( 38 Sitzbänke )
+- TOP 2.4.: Ismaninger Str. 22: Nutzungsänderung zu einer Zentralen Interdisziplinären Chemotherapie-Einheit (ZIC)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Ablehnung Bauvorhaben Maria-Theresia-Str. 4
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Kirchenstraße zwischen Seerieder- und Flurstraße Rückbau der Radwege, Verbreiterung Gehweg, barrierefreier Ausbau der Bushaltestelle Kirchenstraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Ausbau des Umweltverbundes in Au-Haidhausen; hier: - Fahrradstraße in der Maria-Theresia-Straße und in der Kirchenstraße (Ziffer 3 des Antrags) - Verlegung des Radwegendes am Haidenauplatz, verlängerte Radeinfädelungsspur in der Orleansstraße (Ziffer 4 des Antrags) -Installation einer 2. Signalanlage an der Haltestelle Haidenauplatz (Ziffer 5 des Antrags) - Stellungnahme zur Verlegung des Radwegendes in der Berg-am-Laim-Straße -
+- TOP 2.2.: Ernst-Reuter-Str. 1; Verlängerung der Feuerwehranfahrtzone sowie Einrichtung Ladezone, allgemeinen Behindertenparkplätzen und Anfahrtszone für Krankentransporte
+- TOP 2.3.: Jugendstraße westlich Wolfgangstraße; Einrichtung von absoluten Haltverboten
+- TOP 2.4.: Plangenehmigung Straßenbahnbetriebshof Einsteinstraße Sanierung Gleis 4 und 5, Teilneubau UIH
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Protokoll Ortstermin Obere Preysingstraße
+- TOP 3.2.: Projekt City2Share in Au-Haidhausen Antwortschreiben Referat für Stadtplanung und Bauordnung
+- TOP 3.3.: Schulwegsicherheit am Gebsattelberg BA-Antrag Nr. 14-20 / B 04160 - Vertagung aus der Sitzung vom 16.05.2018 -
+- TOP 3.4.: Einbahnregelung Schornstraße; verkehrsrechtliche Anordnung
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Verkehrsberuhigung der Trogerstraße – Abschnitt Perfall- und Prinzregentenstraße Verweisung aus der Sitzung vom 16.05.2018 Ortstermin am 12.06.2018
+- TOP 4.2.: Fahrradweg Ohlmüllerstraße Verweisung aus der Sitzung vom 16.05.2018
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales 09.07.2018, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 09.07.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 10.07.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 11.07.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 12.07.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 18.07.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 03.07.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Tag der offenen Tür im Polizeipräsidium München am 16.06.2018 ab 10 Uhr
+- TOP 4.2.: Infoveranstaltung zum Handlungsraumansatz der Stadtentwicklung und zum integrierten Handlungsraumkonzept „Rund um den Ostbahnhof – Ramersdorf – Giesing“ am 04.07.2018 um 17.30 Uhr
+- TOP 4.3.: Ortstermin zur Neuordnung der Parksituation Am Gasteig am 10.07.2018 um 14 Uhr
+- TOP 4.4.: Flussrunde „Zeitleiste und Abhängigkeiten“ am 02.07.2018 um 16 Uhr
+- TOP 4.5.: Fachforum „Wie kann München eine Wohnstadt mit Herz werden ?“ am 19.07.2018 um 10 Uhr
