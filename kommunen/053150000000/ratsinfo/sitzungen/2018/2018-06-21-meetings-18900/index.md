@@ -1,0 +1,75 @@
+# 30. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-21T17:00:00+02:00
+- Ende: 2018-06-21T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18900
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18900
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00666322.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00666322.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00666322.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Einbahnstraßenführung Heinrich-Lersch-Straße, Köln-Neubrück (Az.: 02-1600-145/17) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Umbenennung der Heinrich-Lersch-Straße in Köln-Neubrück - geändert beschlossen
+- TOP 7.2: Anlage eines Zebrastreifens in der Falckensteinstraße in Köln-Kalk - ungeändert beschlossen
+- TOP 7.3: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz in Köln-Neubrück - geändert beschlossen
+- TOP -: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz in Köln-Neubrück - ungeändert beschlossen
+- TOP 7.4: Prüfauftrag zur Änderung der Linienführung der Buslinie 157 in Köln-Ostheim in Fahrtrichtung Ostheim||hier: Erinnerung an die Abarbeitung/Erledigung des beschlossenen Antrages vom 22.06.2017 (AN/0832/2017) - ungeändert beschlossen
+- TOP 7.5: Rückbau des Autobahnzubringers an der Olpener Straße/Hans-Schulten-Straße im Bereich der Kölner Stadtteile Brück, Neubrück und Merheim - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Entwässerung des Tennenplatzes des TuS rrh., Höhenberger Sportpark II, in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8.1.2: Teilaufhebung des Bebauungsplans Nr. 70451/03 – Arbeitstitel: MHD Gelände in Köln-Kalk; Stellungnahme der Bezirksvertretung Kalk zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über d. Fortführung d. Teilaufhebungsverfahrens - ungeändert beschlossen
+- TOP 8.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Strassenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 8.1.4: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - geändert beschlossen
+- TOP 8.1.5: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert beschlossen
+- TOP 8.1.6: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Städtebauliches Werkstattverfahren Hallen Kalk; Festlegung Schulstandort/Fortführung d. städteb. Planung - geändert beschlossen
+- TOP -: Städtebauliches Werkstattverfahren Hallen Kalk ||Festlegung des Schulstandortes und Fortführung der städtebaulichen Planung (1423/2018) - ungeändert beschlossen
+- TOP 8.2.2: Generalinstandsetzung der Germaniastraße in Köln-Höhenberg zwischen Olpener Straße und Gothaer Straße, hier Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziff. 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straß - ungeändert beschlossen
+- TOP 8.2.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Straßenbahntrassen zu Busspuren - Kenntnis genommen
+- TOP 9.1.2: Fragen der Einwohner*innen beim Stadtgespräch in Köln-Kalk am 28.2.18 - Kenntnis genommen
+- TOP 9.1.3: Pläne für die Verkehrsführung auf der Eiler Straße bzw. der Rather Schulstraße während der Sanierung der A3-Brückenbauwerke in Rath/Heumar - Kenntnis genommen
+- TOP 9.1.4: Spielgeräte im Bürgerpark Kalk - Kenntnis genommen
+- TOP 9.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Anfrage von Bezirksvertreter Schuiszill zur ausgelagerten Schule Katholische Grundschule Forststraße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.7: Renovierung der Stadtteilbibliothek Kalk - Kenntnis genommen
+- TOP 9.1.8: Realisierung von Kreisverkehren im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.9: Angebot von Schwimmunterricht im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.10: Verzögerte Beantwortung von Anfragen in der Bezirksvertretung Kalk - Kenntnis genommen
+- TOP 9.1.11: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung; hier: Sachstand zum Planungsgebiet Hallen Kalk/Kalk Süd, Gemeinsame Anfrage der SPD-Fraktion, der CDU-Fraktion, der Fraktion DIE LINKE. und der Fraktion Bündnis 90/Die Grünen vom 25.04.2018 - Kenntnis genommen
+- TOP 9.1.12: Glasunterflurcontainer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Umsetzung des Drogenkonsumraums im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.2.2: Ökologische, ökonomische und verkehrliche Folgen eines möglichen Abrisses des Autobahnzubringers Hans-Schulten-Straße in Köln-Brück/-Neubrück zugunsten einer Nachverdichtung durch Wohnbebauung - Kenntnis genommen
+- TOP 9.2.3: Instandsetzung der Stichstraße entlang der Sportanlagen zwischen dem Pohlstadtweg und dem ehemaligen Flughafenstadion in Köln-Brück - Kenntnis genommen
+- TOP -: Beantwortug einer Anfrage gem. §4 der Geschäftsordnung des Rates vom 14.06.2018 - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Sachstand zu den Beschlüssen der Bezirksvertretung Kalk, hier: Umgestaltung der Rösrather Straße in Köln-Rath/Heumar vom 28.01.2018 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Planung einer neuen Jugendeinrichtung auf dem ehemaligen Maltesergelände in Köln Kalk - Kenntnis genommen
+- TOP 10.2.3: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 10.2.4: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.5: Beantwortung einer Anfrage der CDU-Fraktion und Bündnis 90/Die Grünen (AN/0581/2018) betreffend "Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht (0465/2018) - Kenntnis genommen
+- TOP 10.2.6: Werbesäulen - Kenntnis genommen
+- TOP 10.2.7: 15 Minuten kostenfreies Parken im Stadtbezirk Kalk - Kenntnis genommen
