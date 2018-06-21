@@ -1,0 +1,56 @@
+# Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-06-21T17:08:00+02:00
+- Ende: 2018-06-21T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10916
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10916
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00425152.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge und Eingaben
+- TOP 4.1: Bekanntgabe
+- TOP 4.2: Stellungnahmen
+- TOP 4.2.1: Antrag Nr. A-R/0037/2018 der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen/GAL "Teilhabe am "Investitionspakt Soziale Integration im Quartier NRW 2018" ermöglichen"
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 5.1: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche, Durchführung weiterer Umnutzungs- und Sanierungsmaßnahmen - einstimmig geändert beschlossen
+- TOP 5.2: Zusammenarbeit in der Stadtregion Münster - zur Kenntnis genommen
+- TOP 5.3: Quartiersmanagement Stadtraum Hauptbahnhof / Bremer Platz - mehrheitlich beschlossen
+- TOP 5.4: Stellungnahme der Stadt Münster im Beteiligungsverfahren zur Änderung des Landesentwicklungsplans (LEP) NRW - ohne Beschlussfassung geschoben
+- TOP 5.5: Weiterführung der Wärmedämmstandards der Stadt Münster - mehrheitlich beschlossen
+- TOP 5.6: Fortschreibung des Baulandprogramms 2018 - 2025 - mehrheitlich geändert beschlossen
+- TOP 5.7: Erarbeitung von Stadtteilentwicklungskonzepten und Durchführung von Zukunftswerkstätten für Außenstadtteile der Stadt Münster - einstimmig geändert beschlossen
+- TOP 5.8: Ergebnisbericht zur Zukunftswerkstatt Amelsbüren - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Stadtteil Coerde - Stand der aktuellen Planungs- und Beteiligungsverfahren
+- TOP 6.2: 80. Änderung des Flächennutzungsplans - Beschluss über Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 6.3: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.4: 63. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 588 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 6.5: 63. Änderung FNP - Vorhabenbezogener Bebauungsplan Nr. 588 - Kenntnisnahme der Entwürfe zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 6.6: Gemeindliches Einvernehmen zur Errichtung eines zeitgemäßen Neubaus der Justizvollzugsanstalt Münster auf einem Standort nordöstlich von Münster-Wolbeck - mehrheitlich beschlossen
+- TOP 6.7: Wigbold Wolbeck - vertagt
+- TOP 6.8: 55. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 6.9: Bebauungsplan Nr. 568 - Beschluss über die Stellungnahmen - Satzungsbeschluss / Aufhebung des Bebauungsplans Nr. 183 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.10: 86. Änderung des FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 6.11: 86. Änderung des FNP - Bebauungsplan Nr. 434, 1. Änderung - Kenntnisnahme der Entwürfe zur Offenlegung - zur Kenntnis genommen
+- TOP 6.12: 69. Änderung des FNP Teilbereich 2 - Abschließender Beschluss - einstimmig beschlossen
+- TOP 6.13: Bebauungsplan Nr. 586 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.14: Bebauungsplan Nr. 587 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.15: 90. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 559 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 6.16: Neubau der Grundschule Sprakel einschließlich einer Zweifachsporthalle auf einem Grundstück im Bereich des in Aufstellung befindlichen Bebauungsplanes Nr. 559: Sprakel - Nördlich Landwehr / Westlich Schlehenweg und Weißdornweg - einstimmig beschlossen
+- TOP 7: Verkehr
+- TOP 7.1: Umsetzungsstand Masterplan Mobilität Münster 2035+ unter Berücksichtigung des Mobilitätsfonds für eine nachhaltige Mobilitätsinfrastruktur - zur Kenntnis genommen
+- TOP 7.2: Konzept zur Bevorrechtigung des Radverkehrs an den Promenadenquerungen - vertagt
+- TOP 7.3: Wolbecker Straße - Einrichtung und barrierefreier Ausbau einer neuen Haltestelle in Höhe des Baugebietes Mühlhäuser Straße - einstimmig beschlossen
+- TOP 7.4: Knotenpunkt Westfalenstraße / Hummelbrink - Verbesserung der Verkehrssicherheit - einstimmig beschlossen
+- TOP 7.5: Auswirkungen des BAB-Anschlusses Hiltrup/Amelsbüren - einstimmig beschlossen
+- TOP 8: Verschiedenes
