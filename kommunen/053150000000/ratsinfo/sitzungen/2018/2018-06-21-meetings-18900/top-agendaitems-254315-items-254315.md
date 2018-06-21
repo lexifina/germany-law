@@ -1,0 +1,8 @@
+# TOP -: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz in Köln-Neubrück
+
+- Sitzung: 30. Sitzung der Bezirksvertretung Kalk (2018-06-21)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/254315
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/116788
