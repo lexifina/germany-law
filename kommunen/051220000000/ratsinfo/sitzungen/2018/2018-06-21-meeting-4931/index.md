@@ -1,0 +1,56 @@
+# Finanzausschuss (31. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-21T17:00:00+02:00
+- Ende: 2018-06-21T18:15:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Tagungsraum 3
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbgZyGVyW_i0ZAmPU_8WD9I
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4931
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRVtU1e3EkLN7zmHERStrJmx56VGIiMswoOOgo4SXpox/Bekanntmachung_Finanzausschuss_21.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRiie5BmjHB-2Q0ri8-RK9nRbH5ef10CqAHuohNfiETK/Oeffentliche_Niederschrift_Finanzausschuss_21.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Aufgabenverlagerung ohne vollständigen finanziellen Ausgleich (Konnexität)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des Finanzausschusses am 09.05.2018
+- TOP 4.: Bekämpfung der Spielsucht hier: Antrag der FDP Ratsfraktion vom 30.05.2018
+- TOP 5.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 5.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 5.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 6.: Spielplatzentwicklungsplanung
+- TOP 7.: Verwendung der Mittel aus dem Kapitel 2 des Kommunalinvestitionsförderungsgesetzes NRW (KInvFöG)
+- TOP 8.: Abbau von Signalanlagen
+- TOP 9.: Neufassung der Bürgschaftsentgeltordnung
+- TOP 10.: Errichtung der Gerd-Kaimer-Bürgerstiftung Solingen
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Obdachlosenunterkunft Eckstr.
+- TOP 11.1.2: Grundschule Westersburg hier: Sachstandsbericht zur aktuellen Planung
+- TOP 11.1.2.1: Grundschule Westersburg hier: Sachstandsbericht zur aktuellen Planung
+- TOP 11.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des Finanzausschusses am 09.05.2018
+- TOP 4.: Aktueller Sachstand Masterplanung Berufsfeuerwehr 2030
+- TOP 5.: Vergabe von Projektsteuerungsleistungen zur Masterplanung Berufsfeuerwehr 2030 im Rahmen des VgV Verfahrens
+- TOP 6.: Vergabe von Planungsleistungen (Freiraumplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW ) im Rahmen eines VgV-Verfahrens
+- TOP 6.1: Vergabe von Planungsleistungen (Freiraumplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW ) im Rahmen eines VgV-Verfahrens
+- TOP 7.: Vergabe von Architektenleistungen (Museumsplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VgV-Verfahrens
+- TOP 7.1: Vergabe von Architektenleistungen (Museumsplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VgV-Verfahrens
+- TOP 8.: Vergabe von Architektenleistungen für einen Ersatzneubau und Umbau Bestandsgebäude, GGS Westersburg, Bausmühlenstr. 14
+- TOP 9.: Vergabe von Architektenleistungen für zwei Erweiterungsbauten sowie Sanierung der Häuser 10 und 5 (tlw.) des Technischen Berufskollegs im Rahmen des VgV Verfahrens
+- TOP 10.: Vergabe von Ingenieurleistungen für zwei Erweiterungsbauten sowie Sanierung der Häuser 10 und 5 (tlw.) des Technischen Berufskollegs im Rahmen des VgV Verfahrens
+- TOP 11.: Verkauf einer städtischen Liegenschaft - Bereich Höher Straße -
+- TOP 12.: Vergaben und Vertragsabschlüsse über 50.000 Euro sowie An- und Verkauf von Grundstücken über 50.000 Euro bis 250.000 Euro Berichtszeitraum 01.01.2018 bis 15.05.2018
+- TOP 13.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 14.: Weitergabe von Krediten an die Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 15.: Verschiedenes
+- TOP 15.1: Mitteilungen der Verwaltung
+- TOP 15.2: Anfragen an die Verwaltung
