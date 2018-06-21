@@ -1,0 +1,83 @@
+# 37. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-21T17:00:00+02:00
+- Ende: 2018-06-21T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18604
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18604
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Straßenbeleuchtung in der Mercatorstraße (Az.: 02-1600-06/18) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Entwicklung Förderschule Soldiner Straße in Lindweiler - Kenntnis genommen
+- TOP 7.1.2: Tag der Städtebauförderung und Via Culturalis am 05. Mai 2018 - Kenntnis genommen
+- TOP 7.1.3: Geschwindigkeitskontrolle im Ortsteil Merkenich - Kenntnis genommen
+- TOP 7.1.4: Carsharing - Mobiles Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Ansiedelung eines Bankautomaten (Geldautomatenstandort) im Stadtteil Fühlingen Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Schutzabstände zu Hochspannungsleitungen Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Geplante GAG-Baumaßnahme in Merkenich 'In den Kämpen/Derichsweg' Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Machbarkeitsstudie Baugebiet Kreuzfeld Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Sicherheit auf Wegen in Grünanlagen Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.6: Radweg am Volkovenerweg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Irreführende Straßenmarkierung Kreuzung Hackhauser Weg/Üdesheimer Weg - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Vergabe der bezirksorientierten Mittel und der Kulturmittel Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion dund der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Initiative zur Schulentwicklung im Bezirk Chorweiler Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90 / Die Grünen und Die Linke - geändert beschlossen
+- TOP 8.3.2: Verbesserung der Straßenbeleuchtung im Bezirk Chorweiler Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90 / Die Grünen und Die Linke - ungeändert beschlossen
+- TOP 8.3.3: Tempo 30 Am Baggerfeld Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.4: Mobilitätsberatungsstelle Chorweiler Antrag der Fraktion Bündnis´90 / Die Grünen - geändert beschlossen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 8.3.5: Einstellung von Fachpersonal beim Amt für Gebäudemanagement Antrag der SPD-Fraktion - endgültig abgelehnt
+- TOP 8.3.6: Evaluation und Anpassung der Reinigungspläne in Schulen Antrag der SPD-Fraktion - endgültig abgelehnt
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.2: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" gemäß § 2, Absatz 1, Ziffer 4.1 der Zuständigkeitsordnung des Rates - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Zügigkeitsänderung der Ursula-Kuhr-Hauptschule, Volkhovener Weg 140, 50767 Köln (Heimersdorf) von 4 auf 3 Züge gem § 81 Abs. 2 Schulgesetz NRW zum Schuljahr 2019/20 - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - ungeändert beschlossen
+- TOP 9.2.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - geändert beschlossen
+- TOP 9.2.4: Stärkung und Ausweitung des KVB-Busnetzes hier: Dauerhafte Erweiterungen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2017 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.2: Fläche für eine Kindertagesstätte in der Swinestraße in Köln-Chorweiler - geändert beschlossen
+- TOP 10.2.3: Skulptur "Tomate" auf dem Pariser Platz - Kenntnis genommen
+- TOP 10.2.4: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 10.2.5: Stadtbahnhaltestelle Chorweiler - Brandschutztechnische Nachrüstung Sachstand der Planung und Umsetzung - Kenntnis genommen
+- TOP 10.2.6: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.7: Verbraucherberatung im Quartier: Jahresbericht 2017 und 2. Sachstandsbericht - Kenntnis genommen
+- TOP -: Weitere Mitteilung - Kenntnis genommen
+- TOP 10.2.8: 3. Nahverkehrsplan der Stadt Köln - Kenntnis genommen
+- TOP 10.2.9: Werbesäulen - Kenntnis genommen
+- TOP 10.2.10: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Neubau des Verwaltungsgebäudes der Ineos in Worringen - Kenntnis genommen
+- TOP 11.1.2: Sportunterricht Förderschule Soldinerstr. - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
