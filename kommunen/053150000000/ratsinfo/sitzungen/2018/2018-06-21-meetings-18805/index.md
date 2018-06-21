@@ -1,0 +1,57 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-21T16:00:00+02:00
+- Ende: 2018-06-21T17:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18805
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18805
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 15.06.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00667651.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 15.06.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00667651.pdf
+- Wortprotokoll: Tagesordnung, Stand 15.06.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00667651.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: kommunale Maßnahmen zur Luftreinhaltung - zurückgestellt
+- TOP 1.2: Gräber von Max Reichpietsch und Albin Köbis - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2.1: Anfrage der Fraktionen SPD und Die Linke im Ausschuss Umwelt und Grün am 24.04.2018 (AN/0592/2018) zu den Gräbern Max Reichpietsch und Albin Köbis - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.3: Berücksichtigung allergologischer Kriterien bei Baumpflanzungen - Sache ist erledigt
+- TOP 1.3.1: Berücksichtigung allergologischer Kriterien bei Baumpflanzungen Beantwortung der Anfrage der SPD-Fraktion AN/0819/2018 - Kenntnis genommen
+- TOP 1.4: Atomkraftwerke in Tihange und Doel - zurückgestellt
+- TOP 1.4.1: Atomkraftwerke in Tihange und Doel - zurückgestellt
+- TOP 1.5: Umweltauswirkungen des möglichen U-Bahn-Baus - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Stadtklima-/ Stadtverschönerungsprogramm 2017/2018 - Bäume, Brunnen und Gewässer - Kenntnis genommen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Sachstandsmitteilung Klimaschutz - Kenntnis genommen
+- TOP 3.2: Beantwortung der Fragen aus der Sitzung des Ausschusses für Umwelt und Grün vom 24.04.2018 betr. Jahresbericht der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - Kenntnis genommen
+- TOP 4.2: Wasserversorgungskonzept der Stadt Köln - ungeändert empfohlen
+- TOP 4.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert empfohlen
+- TOP 4.4: Wahl der Vertreter des Rates in der Jurysitzung des Umweltschutzpreises der Stadt Köln - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.5: „Klima und Lebensqualität in unseren Veedeln verbessern – Offensive für Dach- und Fassadenbegrünung“ - ungeändert empfohlen
+- TOP 4.6: Innerer Grüngürtel in Köln-Nippes zwischen Neusser Straße und Merheimer Straße – Erweiterung der Sportangebote - zurückgestellt
+- TOP 4.7: Sanierung des Blücherparkweihers durch die Steb - ungeändert empfohlen
+- TOP 4.8: Stadtklima-/Stadtverschönerungsprogramm 2016/2017 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Kiosk Rheinboulevard - Kenntnis genommen
+- TOP 7.2: Mitteilung über die Migration der Stadt Köln in das Integrierte Datenverarbeitungssystem Verbraucherschutz (IDV) NRW - Kenntnis genommen
+- TOP 7.3: nicht belegt - Sache ist erledigt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Sachstand Konzept "Essbare Stadt" - Kenntnis genommen
+- TOP 7.6: Ersatzbeschaffung von Gräberbaggern - Kenntnis genommen
+- TOP 7.7: Sachstand EFRE Projekt Grüne Infrastruktur Köln "Vielfalt vernetzen" - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Parkstadt Süd Teilbereich Eifelwall hier: Sachstand - Kenntnis genommen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Beantwortung der mündlichen Anfragen im Ausschuss Umwelt und Grün am 29.05.2018 zu TOP 4.1 - Ersatzbeschaffung von 3 LKW 18 t mit Ladekran im Bereich "Stadtgrün" - zurückgestellt
+- TOP 9: Mündliche Anfragen
