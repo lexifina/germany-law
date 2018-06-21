@@ -1,0 +1,74 @@
+# 31. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-21T16:30:00+02:00
+- Ende: 2018-06-21T18:25:00+02:00
+- Ort: Restaurant des Kölner Zoos
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18848
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18848
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation Altbaumburgweg/Scharfeneckweg/Trifelsstraße/ Kropsburgweg (Az.: 02-1600-47/18) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Hotelschließung Hugo-Junkers-Straße - Kenntnis genommen
+- TOP 7.1.2: AN/0568/2018; Wiederherrichten des Wasserspielplatzes Nippeser Tälchen - Kenntnis genommen
+- TOP 7.1.3: Chaos Wilhelmplatz - Kenntnis genommen
+- TOP 7.1.4: Gefahr im Verzug auf Schulweg in Niehl - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: KVB-Weiche Mollwitzstraße - Kenntnis genommen
+- TOP 7.2.2: Schulneubau Schmiedegasse - Kenntnis genommen
+- TOP 7.2.3: Taubendreck im Umfeld des Nippeser Bahnhofs - Kenntnis genommen
+- TOP 7.2.4: "Kulturrucksack NRW" - Angebote im Bezirk Nippes - Kenntnis genommen
+- TOP 7.2.5: Kölner Zoo - Aktions-Verkauf reduzierter Eintrittskarten im Winter - Kenntnis genommen
+- TOP -: Antwort der Verwaltung - Kenntnis genommen
+- TOP 7.2.6: Häuser in der Altonaer Str. 11-21 in Köln-Longerich - Kenntnis genommen
+- TOP 7.2.7: Anmeldezahlen am Dreikönigsgymnasium - Kenntnis genommen
+- TOP 7.2.8: Kiosk Ortseinfahrt Mauenheim im Bereich zwischen Neusser Straße und Grüner Hof - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Fahrradabstellplätze/Fahrradnadeln am Wilhelmplatz - endgültig zurückgezogen
+- TOP 8.1.2: Absperrungen Gustav-Nachtigal-Straße/Toni-Steingass-Park - zurückgestellt
+- TOP 8.1.3: Sicherung des Schulweges zur GGS Halfengasse in Alt-Niehl - ungeändert beschlossen
+- TOP 8.1.4: Bodenmarkierungen an den neuen Ladesäulen Neusser Straße - Sache ist erledigt
+- TOP 8.1.5: Schließung des Schleichwegs zwischen Eschenbachstraße und dem Donnersbergweg - geändert beschlossen
+- TOP 8.1.6: Neugestaltung des Wilhelmplatzes - ungeändert beschlossen
+- TOP 8.1.7: Behindertentoilette auf der Bezirkssportanlage Scheibenstraße - ungeändert beschlossen
+- TOP 8.1.8: Absperrung Eingang Innerer Grüngürtel an der Merheimer Straße Richtung Escher Straße - ungeändert beschlossen
+- TOP 8.1.9: Herrichtung der Fläche vor dem Novesia-Haus als Parkplatz - ungeändert beschlossen
+- TOP 8.1.10: Änderung der Verkehrsführung für den Fahrradverkehr rund um den S-Bahnhof Nippes - endgültig zurückgezogen
+- TOP 8.1.11: Flüchtlingsunterkunft in Niehl - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Anpassung des Planungsbeschlusses zur Errichtung eines 3-zügigen Grundschulgebäudes mit 1-fach Turnhalle am Standort des ehemaligen "Nippesbad", Friedrich-Karl-Str. / Ecke Niehler Kirchweg, 50737 Köln-Nippes - geändert beschlossen
+- TOP 9.2.2: Aufhebung der Klassifizierung der K1 Niehler Damm und Teil der Bremerhavener Straße in Köln-Niehl/Nippes - zurückgestellt
+- TOP 9.2.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert beschlossen
+- TOP 9.2.4: Innerer Grüngürtel in Köln-Nippes zwischen Neusser Straße und Merheimer Straße – Erweiterung der Sportangebote - zurückgestellt
+- TOP 9.2.5: Sanierung des Blücherparkweihers durch die StEB - geändert beschlossen
+- TOP 9.2.6: Neuordnung des Parkplatz der Sportanlage Pastor-Wolff-Straße in Köln-Niehl - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Parkraum an der Etzelstraße - Kenntnis genommen
+- TOP 10.2.2: Kleinkindgerechte Ausstattung der Spielplätze im Bezirk Nippes AN/0778/2018 - Kenntnis genommen
+- TOP 10.2.3: Einrichtung aufsuchender Verbraucherarbeit im Stadtbezirk Nippes - Beschluss der Bezirksvertretung Nippes - Kenntnis genommen
+- TOP 10.2.4: Autohaus Robert-Perthel-Straße in Köln-Longerich/-Bilderstöckchen; 64494/02; Offenlage - Kenntnis genommen
+- TOP 10.2.5: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.6: Werbesäulen - Kenntnis genommen
+- TOP 10.2.7: 15 Minuten kostenfreies Parken im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.8: Parkplätze am Friedhof in Alt-Niehl - Kenntnis genommen
