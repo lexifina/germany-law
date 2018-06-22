@@ -1,0 +1,21 @@
+# Schulwegsicherheit während Straßenbaumaßnahmen
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-A-01243
+- Art: Antrag
+- Datum: 2018-06-22
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1001733
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a311c2c66dc3b52ffe7a5
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c0911292c66dc3b529e6815
+- Beratung: Beschlussfassung https://oparl.politik-bei-uns.de/meeting/5c08a7192c66dc3b526d8411 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: Verweisung in die Gremien https://oparl.politik-bei-uns.de/meeting/5c08b3a82c66dc3b52899bec https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: Bestätigung https://oparl.politik-bei-uns.de/meeting/5c08b4162c66dc3b5289e236 https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a221d
+- Beratung: Bestätigung https://oparl.politik-bei-uns.de/meeting/5c08b4242c66dc3b5289ec82 https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a221d
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1e6d
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1e6d
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
