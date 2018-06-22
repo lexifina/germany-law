@@ -1,0 +1,64 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-06-22T16:00:00+02:00
+- Ende: 2018-06-22T19:10:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14961
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14961
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00319590.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00319590.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00319590.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Flächennutzungsplan-Änderung Nr. 179 - Nördlich Paulsmühlenstraße - einstimmig beschlossen
+- TOP 5: Bebauungsplan-Entwurf Nr. 09/003 - Nördlich Paulsmühlenstraße - - einstimmig beschlossen
+- TOP 6: Entwicklung Hallenfreibad Benrath - städtebauliches Rahmenkonzept - einstimmig beschlossen
+- TOP 7: Annette-von-Droste-Hülshoff-Gymnasium, Bau einer Dreifachsporthalle - einstimmig beschlossen
+- TOP 8: Forst-/Kleinstraße - Baumfällungen im Zuge des Knotenausbaus - mehrheitlich beschlossen
+- TOP 9: Vorstellung des Klimaanpassungskonzepts - mündl. Vortrag - zur Kenntnis genommen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Bericht zur Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - zur Kenntnis genommen
+- TOP 14: Errichtung von städtischen Kolumbarien - zur Kenntnis genommen
+- TOP 15: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2018 - einstimmig beschlossen
+- TOP 16: Freigabe verkaufsoffener Sonntagnachmittage im 2. Halbjahr 2018 - mehrheitlich beschlossen
+- TOP 17: Anfrage: Zusätzliche Fahrradständer am Bahnhof Benrath - beantwortet
+- TOP 18: Anfrage: Verkehrssituation im Rathausviertel Benrath - vertagt
+- TOP 19: Anfrage: Planungskonzept "Nördliche Paulsmühlenstraße“ - beantwortet
+- TOP 20: Anfrage: Regenrückhalteflächen/-becken etc. - beantwortet
+- TOP 21: Anfrage: Straßenunterhaltungsprogramm, Benrodestr. und Erich-Müller-Str. - vertagt
+- TOP 22: Anfrage: Fahrradverkehr Albrecht-Dürer-Berufskolleg - beantwortet
+- TOP 23: Anfrage: Fuß- und Fahrradverkehr an der "Angströhre" beim Neubau Albrecht-Dürer-Berufskolleg - beantwortet
+- TOP 24: Anfrage: Verbesserungsmöglichkeiten Auslastung Hochgarage am Neubau des Albrecht-Dürer-Beru - beantwortet
+- TOP 25: Anfrage: Grundwassersanierung Benrather Schlosspark - beantwortet
+- TOP 26: Antrag: Verkehrslenkung Albrecht-Dürer-Berufskolleg - mehrheitlich beschlossen
+- TOP 27: Antrag: Drängelgitter Spielplatz Benrodestr. 3 - einstimmig beschlossen
+- TOP 28: Antrag: Reinhaltung des Urdenbacher- und Benrather Rheinufers - einstimmig beschlossen
+- TOP 29: Antrag: Insektenfreundliches Rathaus - abweichend beschlossen
+- TOP 30: Antrag: Kindertreff Geeststraße 99 - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Förderkreis Düsseldorf-Wersten e.V., Stadtteilfest - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Turnerbund Hassels 1925 e.V., Deutsche Meisterschaft Tchoukball - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Freundes- und Förderkreis der Kantorei an der Stephanuskirche, Kindermusica - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Benrather Schlossnarren e.V. - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel St. Hubertus Schützenbruderschaft Itter e.V., Mobile Sanitäranlage - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel Adolf-Klarenbach-Schule; "Bühne frei" - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel St. Cäcilia-Schule, Zirkusprojekt - einstimmig beschlossen
+- TOP 38: Antrag: Verfügungsmittel St. Sebastianus Reiterkorps Düsseldorf-Wersten e.V. - einstimmig beschlossen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 16.03.2018, Aufwertung Corelliplatz - zur Kenntnis genommen
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 16.03.2018, Straßenbeleuchtung Nixenstr./Bruchhausens - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 16.03.2018, Verbesserung der Straßenbeleuchtung Nixen - zur Kenntnis genommen
+- TOP 42: Informationsvorlage: Beschilderung von Brücken mit niedrigem Geländer für Radfahrende - zur Kenntnis genommen
+- TOP 43: Informationsvorlage: Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 44: Informationsvorlage zum Beschluss der BV 9 vom 16.03.2018, Bericht Tempo 30 "Am Schönenkamp" - 179/ - zur Kenntnis genommen
+- TOP 45: Abriss und Neubau der Gemeinschaftshauptschule Benrath und Errichtung einer 2-Feld-Sporthalle - einstimmig beschlossen
+- TOP 46: Eisenbahnüberführung (EÜ) Bamberger Straße, Tieferlegung der Straße - einstimmig beschlossen
+- TOP 47: Antrag: Verfügungsmittel DRK-Pflegedienste, Seniorenzentrum Benrath - Ausflug - einstimmig beschlossen
