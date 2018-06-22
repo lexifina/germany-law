@@ -1,0 +1,331 @@
+# Vollzitat: RL Soziale Betreuung Flüchtlinge
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 2018-06-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17735.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+Zur Portalnavigation
+
+Zum Hauptinhalt
+
+Zum Footer-Bereich
+
+REVOSax – Landesrecht Sachsen
+
+Portalnavigation
+
+REVOSax
+
+Hauptinhalt
+
+Historische Fassung
+
+war gültig vom
+22.06.2018
+bis
+29.06.2023
+
+RL Soziale Betreuung Flüchtlinge
+
+Vollzitat: RL Soziale Betreuung Flüchtlinge vom  5. Juni 2018 (SächsABl. S. 783), die durch die Richtlinie vom  9. Juni 2023 (SächsABl. S. 772) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  4. Dezember 2025 (SächsABl. SDr. S. S 272)
+
+I.
+Zuwendungszweck, Rechtsgrundlagen
+
+
+1.
+
+
+Der Freistaat Sachsen gewährt nach Maßgabe dieser Richtlinie und den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere den §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 (SächsGVBl. S. 630) geändert worden ist, in der jeweils geltenden Fassung, sowie den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 3. Januar 2018 (SächsABl. S. 132, 453) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), in der jeweils geltenden Fassung, Zuwendungen für die soziale Beratung und Betreuung von Flüchtlingen in Unterbringungseinrichtungen der Landkreise und Kreisfreien Städte im Freistaat Sachsen.
+
+
+2.
+
+Ziel der Förderung ist, dass Flüchtlinge in Abstimmung mit den Voraussetzungen der Unterbringung vor Ort eine qualifizierte soziale Beratung und Betreuung erhalten. Die unteren Unterbringungsbehörden entscheiden im Zusammenhang mit der Unterbringung über Art, Umfang und Durchführung der sozialen Betreuung ausländischer Flüchtlinge.
+
+
+3.
+
+Ein Rechtsanspruch auf die Gewährung von Zuwendungen besteht nicht. Die Bewilligungsbehörde entscheidet aufgrund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel.
+
+
+II.
+Gegenstand der Förderung
+
+
+1.
+
+
+Es werden Vorhaben gefördert, die
+
+
+a)
+
+zum Zurechtfinden in der unbekannten neuen Lebenssituation, zur Eigenverantwortlichkeit, zur Alltagsbewältigung und Aufnahme von Beschäftigung beitragen,
+
+
+b)
+
+
+das friedliche Zusammenleben und die gegenseitige Unterstützung der Bewohner der Unterkunft fördern,
+
+
+c)
+
+den Flüchtlingen helfen, Konfliktsituationen zu vermeiden oder zu bewältigen,
+
+
+d)
+
+zum Kennenlernen und gegenseitigen Verständnis zwischen Flüchtlingen und der einheimischen Bevölkerung beitragen,
+
+
+e)
+
+ehrenamtliches soziales Engagement der Bevölkerung, von Verbänden, der Kirchen und anderer gemeinwohlorientierter Einrichtungen und Organisationen fördern, sofern die Ziele dieser Richtlinie verfolgt werden,
+
+
+f)
+
+zur Pflege des Kulturgutes der Flüchtlinge beitragen,
+
+
+g)
+
+Hilfestellungen bei der Unterbringung in einer Wohnung und beim Einleben in eine Wohnung geben,
+
+
+h)
+
+den Besuch von Kindertageseinrichtungen und Schulen durch Kinder fördern und unterstützend begleiten,
+
+
+i)
+
+über Möglichkeiten der freiwilligen Ausreise im jeweiligen Einzelfall aufklären und diese fördern.
+
+
+2.
+
+Ausgeschlossen ist die Förderung von Vorhaben
+
+
+a)
+
+zur Verfahrens- oder Rechtsberatung,
+
+
+b)
+
+die den Grundsätzen der freiheitlich demokratischen Grundordnung der Bundesrepublik Deutschland nicht entsprechen,
+
+
+c)
+
+die die körperliche Unversehrtheit oder sonstige wichtige persönliche Rechtsgüter Dritter, insbesondere das allgemeine Persönlichkeitsrecht und das Eigentum, gefährden.
+
+
+3.
+
+Die Vorhaben richten sich an Flüchtlinge nach § 5 des Sächsischen Flüchtlingsaufnahmegesetzes vom 25. Juni 2007 (SächsGVBl. S. 190), das zuletzt durch Artikel 23 des Gesetzes vom 26. April 2018 (SächsGVBl. S. 198) geändert worden ist, in der jeweils geltenden Fassung.
+
+
+III.
+Zuwendungsempfänger
+
+
+Zuwendungsempfänger sind die Landkreise und Kreisfreien Städte als untere Unterbringungsbehörden nach § 2 des Sächsischen Flüchtlingsaufnahmegesetzes. Sie können die Zuwendung als Erstempfänger nach Maßgabe dieser Richtlinie und nach Nummer 12 der Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung – Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK) – an Träger der freien Wohlfahrtspflege oder andere in der Regel gemeinnützige juristische Personen des Privatrechts und juristische Personen des öffentlichen Rechts sowie deren Untergliederungen außerhalb der im Einzelfall vorliegenden Leistungsaustauschverhältnisse weiterleiten.
+
+
+IV.
+Zuwendungsvoraussetzungen
+
+
+1.
+
+
+Zuwendungen durch den Freistaat Sachsen werden gewährt, wenn sich der Zuwendungsempfänger
+
+
+a)
+
+zur Teilnahme an einer projektbegleitenden Evaluierung bereit erklärt,
+
+
+b)
+
+an der Finanzierung der zuwendungsfähigen Ausgaben mit mindestens 10 Prozent beteiligt.
+
+
+2.
+
+
+Personalausgaben sind grundsätzlich nur zuwendungsfähig für
+
+
+a)
+
+Diplom-Sozialpädagogen und Mitarbeiter mit vergleichbaren Studienabschlüssen,
+
+
+b)
+
+Personen mit besonderen Kenntnissen, interkulturellen Fähigkeiten oder praktischen Erfahrungen, welche für die soziale Betreuung von Flüchtlingen förderlich sind. Die besonderen Kenntnisse, Fähigkeiten oder Erfahrungen sind durch geeignete schriftliche Bestätigungen (beispielsweise Zeugnisse, Zertifikate, Arbeitsverträge) nachzuweisen.
+
+
+3.
+
+Die Zuwendungen dürfen nur zur Finanzierung von Maßnahmen zur Betreuung derjenigen Flüchtlinge verwendet werden, die keine anderen öffentlich geförderten Betreuungsmaßnahmen in Anspruch nehmen können.
+
+
+4.
+
+Die Förderung ist für Aufwendungen ausgeschlossen, die bereits mit der Kostenpauschale nach § 10 des Sächsischen Flüchtlingsaufnahmegesetzes abgegolten werden.
+
+
+5.
+
+Ausgaben für Investitionen werden nicht bezuschusst.
+
+
+6.
+
+Die Förderung nach dieser Richtlinie entfällt, soweit für die zuwendungsfähigen Ausgaben nach Ziffer V Nummer 4 anderweitige Mittel des Freistaates Sachsen, des Bundes oder europäischer Förderprogramme in Anspruch genommen werden.
+
+
+V.
+Art und Umfang, Höhe der Zuwendungen
+
+
+1.
+
+
+Die Zuwendung wird den Zuwendungsempfängern als Projektförderung im Wege der Festbetragsfinanzierung gewährt.
+
+
+2.
+
+Die Zuwendung erfolgt als zweckgebundener, nicht rückzahlbarer Zuschuss in Form einer Pauschale.
+
+
+3.
+
+Die maximale Höhe der Zuwendung ermittelt sich nach dem zum 31. August des Vorjahres der Antragstellung gültigen Schlüssel des § 6 Absatz 3 des Sächsischen Flüchtlingsaufnahmegesetzes.
+
+
+4.
+
+Zuwendungsfähig sind ausschließlich projektbezogene Personal- und Sachausgaben, die ohne das Projekt nicht entstehen würden.
+
+
+5.
+
+Personalausgaben sind nur bis zur Höhe der vergleichbaren Vergütung nach dem Tarifvertrag für den öffentlichen Dienst (TVöD) zuwendungsfähig.
+
+
+6.
+
+Personalausgaben werden nicht gefördert, sofern die Vergütung nicht nach den allgemein geltenden Vorschriften der sozialen Betreuung im kommunalen Bereich erfolgt, die Stelle nicht besetzt ist oder ein Vergütungsanspruch, wie insbesondere bei Krankheit, Elternzeit oder Mutterschutz, nicht besteht.
+
+
+7.
+
+Die Förderung von Sachausgaben ist auf insgesamt 20 Prozent der bewilligten Mittel begrenzt.
+
+
+8.
+
+Projekte können vorbehaltlich verfügbarer Verpflichtungsermächtigungen mit einer maximalen Dauer von bis zu drei Jahren bewilligt werden.
+
+
+VI.
+Verfahren
+
+
+1.
+
+
+Bewilligungsbehörde ist die Landesdirektion Sachsen.
+
+
+2.
+
+Die Anträge auf Gewährung einer Zuwendung sind durch die Zuwendungsempfänger bis zum 15. Oktober eines Vorjahres bei der Bewilligungsbehörde einzureichen.
+
+
+3.
+
+Abweichend von Nummer 1.3 Satz 1 und 2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung darf mit dem Vorhaben zum 1. Januar eines Jahres begonnen werden, sobald der Antrag auf Gewährung einer Zuwendung bei der Bewilligungsbehörde eingegangen ist. Der Antragsteller trägt das Risiko, die Zuwendung nicht, nicht in der beantragten Höhe oder nicht zu dem beantragten Zeitpunkt zu erhalten.
+
+
+4.
+
+Ein Verwendungsnachweis ist bis zum 30. Juni des Folgejahres der Bewilligungsbehörde vorzulegen. Er besteht aus einem zahlenmäßigen Nachweis mit einer tabellarischen Übersicht über die geförderten Vorhaben, der unter Verwendung der Vordrucke der Bewilligungsbehörde aufzustellen ist, sowie einem zusammenfassenden Sachbericht.
+
+
+5.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheids und die Rückforderung der gewährten Zuwendung gelten die Verwaltungsvorschriften zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
+
+
+VII.
+Inkrafttreten und Außerkrafttreten
+
+
+Diese Richtlinie tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tritt die RL Soziale Betreuung Flüchtlinge vom 8. Juli 2015 (SächsABl. S. 992), zuletzt enthalten in der Verwaltungsvorschrift vom 16. November 2017 (SächsABl. SDr. S. S 422), außer Kraft.
+
+
+Dresden, den 5. Juni 2018
+
+
+Die Staatsministerin für Gleichstellung und Integration
+
+Petra Köpping
+
+
+Verweis auf Bundesgesetze
+
+Fundstelle und systematische Gliederungsnummer
+
+SächsABl. 2018 Nr. 25, S. 783
+
+Fsn-Nr.: 5580-V18.3
+
+Gültigkeitszeitraum
+
+Fassung gültig ab: 22. Juni 2018
+
+Fassung gültig bis: 29. Juni 2023
+
+Drucken/Speichern
+
+HTML-Gesamtansicht
+
+Vorschrift als PDF
+
+Einzeldruck
+
+Hilfe
+
+Hilfe
+
+Hilfe zu Historische Fassungen
+
+Fragen und Antworten
+
+Barrierefreiheit
+
+|  |
+
+|  |
+
+Quelle: REVOSax
+https://www.revosax.sachsen.de/vorschrift/17735.1
+Stand vom
+18.11.2026
+
+Herausgeber: Sächsische Staatskanzlei https://www.sk.sachsen.de/
