@@ -1,0 +1,55 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (29. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-25T18:00:00+02:00
+- Ende: 2018-06-25T20:00:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbum3ujkgQugBl8phUvTXvA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5163
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRo85Af5iDCwkNDUzBxdKeeQVuOpMSRaDQiKkSWkJmiy/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_25.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRFKmQJHSiar12jOznS-kqrqnGArE02KqAlOU4iiH0pP/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_25.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Discounter Hier: Antrag der SPD-Fraktion vom 29.04.2018
+- TOP 1.2: Alternativen zur Elektromobilität
+- TOP 1.3: Vorhaben Tank und Rast A3 Ohligs West
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 26. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 14.05.2018
+- TOP 4.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW"
+- TOP 4.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 4.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Antrag der FDP-Fraktion vom 06.06.2018
+- TOP 5.: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der kreisfreien Klingenstadt Solingen 1) Beschluss über die Anregungen aus den Anhörungen nach § 45 und § 46 Abs. 2 Landesnaturschutzgesetz (LNatSchG NRW) 2) Beschluss über die Neufassung der Verordnung
+- TOP 6.: Überschreitung des Grenzwertes für NO2 an der Konrad-Adenauer-Straße
+- TOP 7.: City 2013 Mühlenplatz - Umgestaltung der Platzfläche
+- TOP 8.: Antrag auf Änderung des Regionalplans
+- TOP 9.: Abbau von Signalanlagen
+- TOP 9.1: Abbau von Signalanlagen hier: Ergebnis der Beratungen in den Bezirksvertretungen
+- TOP 10.: Verkehrsplanung Ortsdurchfahrt Unterburg Ergebnis der Bürgerinformation und weiteres Vorgehen
+- TOP 11.: Verkehrsmaßnahmen Burg hier: Antrag der CDU-Fraktion vom 09.05.2018
+- TOP 12.: Verkehrsmaßnahmen Burg hier: Antrag der FDP-Fraktion vom 28.05.2018
+- TOP 13.: Ermittlung des Wohnraumbedarfs und Maßnahmen zur Aktivierung von Innenentwicklungspotenzialen für Wohnen
+- TOP 14.: Bauleitplanung Am Neumarkt/ Heinestraße Allgemeiner Beschluss zur Aufstellung der 4. Änderung des Bebauungsplanes S 254 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet zwischen der Friedrichstraße im Nordwesten, der Heinestraße im Westen – einschließlich der straßenseitigen Grundstücke westlich der Heinestraße, der Straße Am Neumarkt im Südosten, der Kölner Straße sowie dem Graf-Wilhelm-Platz im Osten und dem Peter-Hahn-Weg im Nordosten
+- TOP 15.: Bauleitplanung Höher Straße/Locher Kotten Information über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung zum Vorentwurf des Bebauungsplanes W 642 und zum Vorentwurf der Flächennutzungsplanänderung Nr. 27/04 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes W 642 und zum Entwurf der Flächennutzungsplanänderung Nr. 27/04, beide für das Gebiet südlich der Straße Locher Kotten, westlich der Höher Straße und östlich der Straße Locher Büschchen (Beschluss 2) - Stadtbezirke Ohligs/ Aufderhöhe/ Merscheid und Mitte -
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen der Verwaltung
+- TOP 16.1.1: Solingen fahrradfreundlicher gestalten
+- TOP 16.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Protokoll über die 26. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 14.05.2018
+- TOP 3.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4.: Vergabe von Planungsleistungen (Freiraumplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW ) im Rahmen eines VgV-Verfahrens
+- TOP 4.1: Vergabe von Planungsleistungen (Freiraumplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW ) im Rahmen eines VgV-Verfahrens
+- TOP 5.: Vergabe von Architektenleistungen (Museumsplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VgV-Verfahrens
+- TOP 5.1: Vergabe von Architektenleistungen (Museumsplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VgV-Verfahrens
+- TOP 6.: Bauvorhaben Neubau einer Sporthalle auf der Kanalstraße (BHC-Trainingszentrum)
+- TOP 6.1: Bauvorhaben Neubau einer Sporthalle auf der Kanalstraße (BHC-Trainingszentrum)
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.2: Anfragen an die Verwaltung
