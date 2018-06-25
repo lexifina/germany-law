@@ -1,0 +1,21 @@
+# Erhalt Straßenbahninfrastruktur ab Connewitzer Kreuz bis Markkleeberg-Mitte
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-A-02094
+- Art: Antrag
+- Datum: 2018-06-25
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1003105
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a30f62c66dc3b52ffd6d7
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c091d702c66dc3b52a0e3e3
+- Beratung: Verweisung in die Gremien https://oparl.politik-bei-uns.de/meeting/5c08b1062c66dc3b528715d3 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08b21d2c66dc3b5288ba54 https://oparl.politik-bei-uns.de/organization/5c089ed42c66dc3b525a199d
+- Beratung: Bestätigung https://oparl.politik-bei-uns.de/meeting/5c08b2342c66dc3b5288c66f https://oparl.politik-bei-uns.de/organization/5c089ece2c66dc3b525a13c7
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b2cc2c66dc3b52891f3d https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b2d52c66dc3b528923e2 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: Anhörung  https://oparl.politik-bei-uns.de/organization/5c089ed42c66dc3b525a199d
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ee72c66dc3b525a26ea
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ee72c66dc3b525a26ea
+- Beratung: Beschlussfassung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
