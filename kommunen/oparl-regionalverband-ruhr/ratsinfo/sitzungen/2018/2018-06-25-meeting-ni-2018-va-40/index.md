@@ -1,0 +1,64 @@
+# 16. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-06-25T10:05:00+02:00
+- Ende: 2018-06-25T11:50:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-VA-40
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-VA-40
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-VA-40
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-VA-40
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.1: Regionalplan Ruhr für das Verbandsgebiet des Regionalverbands Ruhr hier: Erarbeitungsbeschluss
+- TOP 1.1.1: Anfrage der SPD-Fraktion zur Vorgehensweise zur Einleitung des Erarbeitungsverfahrens des Regionalplans Ruhr vom 23.03.2018/ Mündliche Anfrage der CDU-Fraktion vom 23.03.2018
+- TOP 1.2: Information über die geplanten Änderungen des Landesentwicklungsplanes NRW und über den Erlass der Landesplanungsbehörde zur Konkretisierung des LEP NRW „Wohnen, Gewerbe und Industrie“ vom 19.04.2018 und potenzielle Konsequenzen für die Aufstellung des Regionalplans Ruhr
+- TOP 1.3: Änderung des Landesentwicklungsplans Nordrhein-Westfalen; Stellungnahme der Regionalplanungsbehörde beim Regionalverband Ruhr
+- TOP -: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen der Verwaltung
+- TOP 2.1: Änderung der Haushaltssatzung 2018
+- TOP 2.2: Entwurf des Jahresabschlusses 2016 des Regionalverbandes Ruhr
+- TOP 2.3: Bestellung der zwei stellvertretenden Schriftführungen für die Verbandsversammlung
+- TOP 2.4: Ziel- und Strategiekonzept der RVR-Familie
+- TOP 2.5: Die Stadt der Städte wählt Informations- und Motivationskampagne zur Direktwahl des Ruhrpartlaments im Jubiläumsjahr 2020
+- TOP 2.6: Angelegenheiten der Freizeitgesellschaften - Wechsel in der Geschäftsführung der Revierpark Gysenberg Herne GmbH
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.7: Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr Hier: Beteiligungsverfahren
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.8: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Konzept für die Intensivierung und Verstetigung der Europaarbeit der Metropole Ruhr in Brüssel
+- TOP 2.9: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Formate und Initiativen zur Mobilisierung für die Europawahl 2019
+- TOP 2.10: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.11: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Finanzierungsherausforderungen
+- TOP 2.12: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.13: Bericht über die Beteiligungen des Regionalverbandes Ruhr 2016 nach GO NRW
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.14: Projekt 'Kunstcamp' (AT)
+- TOP 2.15: Vertragsverlängerung des kuratorischen Teams Interkultur Ruhr
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.16: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Neufassung der Betriebssatzung
+- TOP 2.16.1: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Neufassung der Betriebssatzung
+- TOP 2.16.2: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Änderungen in der Neufassung der Betriebssatzung
+- TOP 2.16.3: Ergänzungsantrag der FDP-Fraktion zur Betriebssatzung
+- TOP 2.17: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2016 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.18: Masterplan Klimaschutz des Handwerks Region Ruhrgebiet mit dem Regionalverband Ruhr
+- TOP 2.19: Aktuelle Projekte und Projektvorhaben der klimametropole RUHR 2022 der Haushaltsjahre 2018/2019/2020
+- TOP 2.20: Projekt WALDband: Regionaltouristisches Konzept für den Naturpark Hohe Mark hier: Vorstellung der Ergebnisse
+- TOP -: Fraktionsanträge
+- TOP 2.21: Antrag zur Einbeziehung des RVR in die geplante Ruhrkonferenz Antrag der FDP-Fraktion vom 20.04.2018
+- TOP -: Anfragen und Mitteilungen
+- TOP 2.22: Anfrage zum Planungsstand der Ruhrkonferenz Anfrage der FDP-Fraktion vom 20.04.2018 hier: Antwort der Verwaltung
+- TOP 2.23: Anliegen/Wünsche des RVR gegenüber der Landesregierung hier: Antwort der Verwaltung
+- TOP 2.24: Antwort der Verwaltung auf die Anfrage der CDU-Fraktion im Planungsausschuss vom 13. Juni 2018 zur Drucksache 13/1086 – ruhrFIS-Flächeninformationssystem Ruhr
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
