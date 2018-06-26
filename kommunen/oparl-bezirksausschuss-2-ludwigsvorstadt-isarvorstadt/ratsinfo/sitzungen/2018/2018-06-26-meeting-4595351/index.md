@@ -1,0 +1,162 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-06-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595351
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595351
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.5.: Budget; Zeltschule
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.5.: Bücherschrank
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.3.: Beschluss über den Feriensenat für die BA Sitzung am 28.08.2018
+- TOP 2: Termine
+- TOP 3.1.: Fotoaktion München 11:58 am 07.07.2018
+- TOP 3.2.: IBA-Machbarkeitsstudie Symposium am 11.07.2018
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Antrag zur Veranstaltung „1918/2018 – Was ist Demokratie“
+- TOP 1.2.: Antrag, Meldeplattform „Raum für München“
+- TOP 1.3.: Antrag zur Veranstaltung „1918/2018 – Was ist Demokratie“
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Katalogpräsentation" Katalogpräsentation am 09.06.2018 700,00 Euro Az.: 0262.0-2-0224
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Münchner Judo Club e.V. Jugendfreizeit nach Ostfriesland vom 03. - 05.08.2018 865,20 Euro Az.: 0262.0-2-0226
+- TOP 2.3.: (E) Schaffung von Planstellen für Küchen- und Bewirtungspersonal in der gebundenen Ganztagsschule an der Tumblingerstraße
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Schüler-Frei-Raum e.V. Fußballtunier für Horte am 11.07.2018 382,50 € AZ: 0262.0-2-0228
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube „komm“-Streetwork am 10.08.2018 172,00 € AZ: 0262.0-2-0230
+- TOP 3.1.: Anhörung zur Sitzungsvorlage, Pavillonbaubauprogramm, Schulbauoffenisve 2013-2030
+- TOP 3.2.: Anhörung zur Sitzungsvorlage, Errichtung einer 3-gruppigen Kinderkrippe an der Baaderstr. 86-90, Genehmigung des Nutzerbedarfsprogramms
+- TOP 5.1.: Informationen aus der Veranstaltung „Tagasyl“
+- TOP 5.2.: Vorstellung Planungen zur Aufwertung des Glockenbachspielplatzes
+- TOP 5.3.: Bürger, Obststand und Kinder am Roecklplatz
+- TOP 5.4.: Anfrage, Kinder- und Jugendbeteiligung
+- TOP 5.6.: Stadtteilkulturzentrum Namenswettbewerb
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: Projektplanung, ÖPNV Offensive, Um- und Ausbau der Bushaltestelle Baaderstr/Corneliusstr.
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Rumfordstr. 2, Nutzungsänderung: Gaststätte zu Vergnügungsstätte
+- TOP 3.1.2.: Herzog-Heinrich-Str. 24, DG-Ausbau, Nutzungsänderung (Gewerbe zu Wohnen), Balkon- und Liftanbau -Tektur-
+- TOP 3.1.3.: Landwehrstr. 56, Nutzungsänderung: Mehrfamilienhausmit Büro zu Hotel sowie Aufstockung des Anbaus -Tektur-
+- TOP 3.1.4.: Kapuzinerstr. 20, Neubau eines Wohngebäudes und eines Supermarktes mit Tiefgarage, Vorbescheid
+- TOP 3.1.5.: Lindwurmstr. 149, DG-Ausbau und Errichtung von Dachgauben (VGB), Tektur
+- TOP 3.1.6.: Häberlstr. 12, Umbau eines Bürogebäudes, formloser Änderungsantrag
+- TOP 3.1.7.: Schillerstr. 23, Errichtung einer Freischankfläche im Innenhof, Tektur
+- TOP 3.1.8.: Auenstr. 32, Abbruch und Änderung von Innenwänden
+- TOP 3.1.9.: Fraunhoferstr. 42, Nutzungsänderung: Einzelhandel zu Gaststätte sowie Trennung Garderobe/Putzraum innerhalb des Lokals
+- TOP 3.1.10.: Goethestr. 40, Errichtung einer Freischankfläche (14,75 m² / 12 Sitzplätze)
+- TOP 3.1.11.: Goethestr. 40, Nutzungsänderung: Erweiterung der Gastraumfläche um die Ladenfläche im EG und die Lagerfläche im Zwischengeschoss mit Neubau von Toiletten
+- TOP 3.1.12.: Buttermelcherstr. 19, Anbau von Balkonen
+- TOP 3.1.13.: Lindwurmstr. 70, Neubau eines Außenaufzugs
+- TOP 3.1.14.: Adlzreiterstr. 3/RGB, Nutzungsänderung: Gewerbliche Räume zu Wohnungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Umgestaltung Goetheplatz
+- TOP 1.2.: Entfernung nicht fahrtüchtiger Leihräder der Firma O-Bike
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche, Hermann-Lingg-Str. 14
+- TOP 2.1.2.: Genehmigung einer Freischankfläche; Hans-Sachs-Str. 2
+- TOP 2.1.3.: Erweiterung einer bestehenden Freischankfläche, Ruppertstr. 22
+- TOP 2.1.4.: Genehmigung einer Freischankfläche, Thalkirchner Straße 57
+- TOP 2.1.5.: Genehmigung einer Freischankfläche, Thalkirchner Str. 1
+- TOP 2.2.1.: Lindwurmstr. 46, Aufstellung von Verkaufseinrichtungen
+- TOP 2.2.2.: Zenettistr. 43, Antrag für die Aufstellung von Sitzgelegenheiten
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Jubiläumsprojekt der Bayerischen Staatsoper am 09.07.2018 auf dem Gärtnerplatz
+- TOP 3.2.1.: Anhörung, Tempo 30 vor Schulen, Schwanthalerstr.
+- TOP 3.2.2.: Anhörung, Tempo 30 vor Schulen, Haydnstr., Kaiser-Ludwig-Platz, Beethovenstr.
+- TOP 3.2.3.: Anhörung, Motorradstellplätze am Röcklplatz
+- TOP 3.2.4.: Anhörung, Reichenbachstraße, Einrichtung von absoluten Haltverboten
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgerin, Bänke am Esperantoplatz
+- TOP 5.2.: Beschilderung Fuß- und Radweg Westermühlbach, aus Sitzung 05/18
+- TOP 5.3.: Bürger, Nachfrage Einbahn Haydnstr.
+- TOP 5.4.: Vorstellung der Umorganisation in der KVR Abteilung 1 Verkehrsmanagement
+- TOP 5.5.: Antwortschreiben zu BA-Antrag Nr. 14-20 / B4609 „Einmalige Entfernung aller Schrotträder“, erneute Stellungnahme
+- TOP 5.6.: Genehmigung des Konzepts zur Bespielung des Nußbaumparks
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Anfrage der Fachstelle für Demokratie; Erfahrungen mit Bürgerbeteiligung bzw. dialogischen Formaten
+- TOP 1.2.: Terminübersicht 2019, BA 2 Ludwigsvorstadt-Isarvorstadt
+- TOP 1.4.: Wahl eines/einer zusätzlichen Beauftragten gegen Rechtsextremismus
+- TOP 1.5.: Wahl eines/einer Inklusionsbeauftragten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Nichtöffentlicher Teil
+- TOP A 4: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: Sozialreferat, Protokoll zur Informationsveranstaltung der Bezirksausschüsse
+- TOP A 4.4.: Zwischennachricht, Büro des OB, BA-Schreiben „Strärkung des Wohnens im südlichen Bahnhofsviertel“
+- TOP A 4.5.: Antwortschreiben des Baureferats, Aufstellung von Toren an der Isar, Wittelsbacherbrücke
+- TOP A 4.6.: Antwortschreiben des Direktoriums, Budgetmittel für eigene Veranstaltung „Kinder- und Jugendeinwohnerversammlung“
+- TOP A 4.7.: Antwortschreiben des Direktoriums, Projekt „Querungshilfen“ Verlängerung des Bewilligungszeitraums
+- TOP A 4.8.: Antwortschreiben zu Anträgen des BA 2 zum Thema Schulanlage Schwanthalerstraße 87, Tumblingerstraße 6 und Wittelsbacherstraße 10, BA-Anträge 08-14 / B 00743, B 00559, B 05294, B 00557, B 00558, B 00554
+- TOP A 4.9.: Vollzug der Zweckentfremdungssatzung, Vollzug der Erhaltungssatzungen, Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014, Bekanntgabe der Jahresstatistik 2017, Sitzungsvorlage Nr. 14-20 / V 11151
+- TOP A 4.10.: Antwortschreiben des Referats auf den BA-Antrag „Verbreiterung des Gehweges vor der Schwanthaler-Schule“ Nr. 14-20 / B 04682
+- TOP A 4.11.: Widerrufsbescheid, Zuwendung aus dem Budget der Bezirksausschüsse
+- TOP A 4.12.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP A 4.13.: Verlängerung und Prüfung der Ausweitung der Erhaltungssatzung „Dreimühlenstraße / Baldeplatz“
+- TOP A 4.14.: Antwortschreiben des Oberbürgermeisters zum Fest der Demokratie am 07.11.2018, finanzielle Beteiligung des Direktoriums
+- TOP A 4.15.: Zwischennachricht zur Anfrage, Mehr Streetwork am Hauptbahnhof
+- TOP B 4: Bereich Unterausschuss Planen, Bauen
+- TOP B 4.2.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP B 4.3.: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2002a Arnulfstraße südlich zwischen Paul-Heyse-Unterführung und nördlichem Vorplatz (Flst. Nr. 6856/97 Gemarkung München, Sektion 4), - Starnberger Flügelbahnhof - - Einleitungsbeschluss für einen vorhabenbezogenen Bebauungsplan mit Grünordnung Nr. 2002a; Qualifizierung des Aufstellungsbeschlusses Nr. 2002 vom 25.04.2007 in einem Teilbereich -
+- TOP B 4.4.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP B 4.5.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP C 4: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.6.: Durchsetzung des Haltverbots für Reisebusse innerhalb des Sperrringes beim Oktoberfest
+- TOP C 4.7.: Zwischennachricht der Deutschen Post, Aufstellen eines Briefkastens
+- TOP C 4.8.: Umgestaltung Holzplatz, Prüfantrag
+- TOP C 4.9.: Bürgerschreiben zur Aufwertung des Pissoir am Holzplatz
+- TOP C 4.10.: Antwort des Referat für Gesundheit und Umwelt, BA-Anfrage “Wilde Müllhalde“ Braunauer Eisenbahnbrücke
+- TOP C 4.11.: Sanierung von öffentlichen Toiletten, Standort WC U-Bahnhof Goetheplatz
+- TOP C 4.12.: Eilentscheidung, Veranstaltung im Nußbaumpark, Zirkusworkshop im Rahmen von Isarludwig 2018
+- TOP C 4.13.: Zwischennachricht zu BA-Antrag Nr. 14-20/B04790, Zebrastreifen Thalkirchnerstr
+- TOP C 4.14.: Antwortschreiben des Referats für Arbeit und Wirtschaft zum Erfahrungsbericht Oktoberfest 2017
+- TOP C 4.15.: Antwortschreiben des Kreisverwaltungsreferats zum Bürgeranliegen 2018.03 C 5.1 Drogenszene Ludwigsvorstadt (südliches Bahnhofsviertel)
+- TOP C 4.16.: Referatsschreiben zur Einholung einer OB-Entscheidung, Antrag auf Genehmigung einer Freischankfläche, Bahnhofplatz 1, Freischankfläche auf der Seite Schützenstraße
+- TOP C 4.17.: Referatsschreiben zum BA-Antrag „Tempo 30 in der gesamten Thalkirchner Str. im Abschnitt zw. Müller- und Kapuzinerstr.“, Stellungnahme zum BA-Schreiben 2018.05 C 4.6
+- TOP C 4.18.: Eilentscheidung, Bogenschießen in der Grünanlage Alter südlicher Friedhof im Rahmen von Isarludwig 2018
+- TOP C 4.19.: Absage Straßenfest Thalkirchner Str. am 17.06.2018
+- TOP C 4.20.: Antwort des KVR zur Anfrage bezüglich „Salon Pitzelberger“ am Gärtnerplatz
+- TOP C 4.21.: Zwischennachricht mit Fristverlängerung zum BA Antrag Nr. 14-20/B04508 Öffnung der Müllerstraße für den Fahrradverkehr
+- TOP C 4.22.: Vollzug der abfallrechtlichen Bestimmungen; Braunauer Eisenbahnbrücke – hefner-Alteneck-Str.
+- TOP C 4.23.: Zwischennachricht mit Fristverlängerung zu BA-Antrag Nr. 14-20/B04681 Radverkehr Wittelsbacherbrücke
+- TOP D 4: Bereich BA-Angelegenheiten
