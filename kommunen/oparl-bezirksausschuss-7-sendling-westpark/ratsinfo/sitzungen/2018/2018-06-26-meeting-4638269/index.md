@@ -1,0 +1,135 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-06-26T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638269
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638269
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 41.41.1: Sitzung der Stadtgestaltungskommision
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 7.7.1: (E) Lärmmessung im Umfeld des Luise-Kiesselbach-Platzes Empfehlung Nr. 14-20 / E 01255 der Bürgerversammlung des Stadtbezirkes 07 Sendling-Westpark am 10.11.2016
+- TOP 7.7.2: (E) Zweirichtungsverkehr auf dem Radweg der Westendstraße (Ostseite)
+- TOP 9.9.1: (E) Budget der Bezirksausschüsse Feierwerk e.V. - Dschungelpalast Sommerfest am 22.07.2018 1.600 € AZ: 0262.0-7-0202
+- TOP 9.9.2: (E) Budget der Bezirksausschüsse Feierwerk e.V. - Dschungelpalast Sommerferienprogramm vom 30.07. - 17.08.2018 2.600 € AZ: 0262.0-7-0203
+- TOP 9.9.3: (E) Budget der Bezirksausschüsse MORGEN e.V. - Netzwerk Münchner Migrantenorganisationen Festival am 24.06.2018 1.000,00 € AZ: 0262.0-7-0200
+- TOP 9.9.4: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Fernpaßstraße Neugestaltung des Eingangsbereiches der Schule 1.800 € AZ: 0262.0-7-0201
+- TOP 9.9.5: (E) Budget der Bezirksausschüsse Männer-Turn-Verein München von 1879 e.V. Anschaffung einer neuen Regenschutzhaube 660,00 € 0262.0-7-0205
+- TOP 10.10.1: Sitzbank beim Bücherschrank Partnachplatz
+- TOP 15.15.1: Flohmarkt-Murmeltiere
+- TOP 15.15.2: Sommerfest SPD
+- TOP 16.16.1: Sommerferienprogramm Wasserspielplatz
+- TOP 16.16.2: Wasserpuppentheater im Theatron
+- TOP 16.16.3: Internationales Fest des Migrationsbeirates
+- TOP 16.16.4: Jubiläumsfest Bayr. Staatsoper
+- TOP 17.: Baureferat
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 21.21.1: Widmung der Werdenfelsstr als Fahrradstraße
+- TOP 21.21.2: Umbau LZA und Kreuzungsbereiche
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 25.25.1: Sportbauprogramm
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 30.30.1: Amtsblatt
+- TOP 31.: Baureferat
+- TOP 31.31.1: Spielangebot für Mädchen UND Buben SV 14-20 / V 11072
+- TOP 31.31.2: Verbesserung der Abstellsituation für Fahrräder SV 14-20 / V 9424
+- TOP 31.31.3: Begrünungsprogramm für Erschließungsstraßen SV 14-20 /V 8441
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 32.32.1: Nachwahlbefragung zur Bundestagswahl 2017
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Zweckentfremdung
+- TOP 34.34.2: Jetzigen Standort der Freiwilligen Feuerwehr Sendling zukünftig als Kinder- und Jugendzentrum nutzen
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Suche nach Wahlhelfern
+- TOP 35.35.2: Haltverbot Tübinger Str
+- TOP 35.35.3: Haltverbot Garmischer Str.
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.40.1: Erweiterung Mobilfunksendeanlage-Landaubogen
+- TOP 40.40.2: Antwort BV-Anfrage 457; LärmschutzA95
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.2: Neues Förderprogramm ökologische Landwirtschaft in München SV 14-20 / V 11475
+- TOP 41.41.3: Mehr Kreativität und Qualität in Stadtplanung und Architektur SV 14-20 / V 11348
+- TOP 41.41.4: Strategien zur Schaffung von preisgünstigem Wohnraum SV 14-20 / V 11381
+- TOP 41.41.5: Beschlussvollzugskontrolle SV 14-20 / V 11493
+- TOP 41.41.6: Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG SV 14-20 / V 10699
+- TOP 41.41.7: Zuwendungsrichtlinien für die Gewährung von Zuwendungen SV 14-20 / V 10520
+- TOP 41.41.8: Vollzug der Zweckentfremdungssatzung SV 14-20 / V 11151
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Mieterbeiratswahl;Berufung eines stimmberechtigten Mitgliedes SV 14-20 / V 11144
+- TOP 43.43.1: Baumaßmanhmen SWM
+- TOP 44.44.1: GaGaGarden-Fest
+- TOP 44.44.2: Tag der offenen Tür der Münchner Polizei
+- TOP 44.44.3: Parkplätze für Kleingärtner in der Siegenburger Str.
+- TOP 44.44.4: Einbahnverkehr Zillertalstr.
+- TOP 44.44.5: Parksituation Siegenburger Str
+- TOP 44.44.6: Kinder- und Jugendbeteiligung bei Fragen der Stadtentwicklung
+- TOP 44.44.7: Hörspaziergang Westpark-Mittlerer Ring- Wohngebiete
+- TOP 44.44.8: Budgetkurzbericht MobilSpiel Westpark
+- TOP 44.44.9: Kreuzung Ettal-Waldfriedhofstr.
+- TOP 44.44.10: Litfasssäule Murnauerstr.
+- TOP 45.: Baureferat
+- TOP 45.45.1: Oberfläche der Fußwegverbindung Garmischer Straße zur Siegenburger Straße verbessern
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Zuwendung aus dem Budget
+- TOP 48.: Kommunalreferat
+- TOP 48.48.1: Busparkplatz Hansastr
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Straßenfest Zirlerstr
+- TOP 49.49.2: VVB-Bescheid Bürgerfest Heckenstaller Park
+- TOP 49.49.3: VVB-Bescheid Straßenfest Johann-Houis-Str
+- TOP 49.49.4: Kurzparkzone vor dem Anwesen Luise-Kiesselbach-Platz 35
+- TOP 49.49.5: Wiederherstellung des Westparks als Ruhezone
+- TOP 49.49.6: Lichtzeichenanlagen und Kreuzungsumbauten
+- TOP 49.49.7: Verjekrsregelungen Hinterbärenstr
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Zwischennachricht BV-Empfehlung Elektrofahrzeuge im Waldfriedhof
+- TOP 54.54.2: Lärmbelastung Bahnanlagen Mittersendling
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 56.: Sozialreferat
