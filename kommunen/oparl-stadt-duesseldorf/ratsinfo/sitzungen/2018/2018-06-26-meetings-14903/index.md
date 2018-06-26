@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-06-26T17:00:00+02:00
+- Ende: 2018-06-26T20:31:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14903
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14903
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00319827.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00319827.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00319827.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Gewässerbewirtschaftungskonzept Pillebach - zur Kenntnis genommen
+- TOP 5: Mietfreie Überlassung eines Ladenlokals - mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Umwidmung Waldspielplatz Gräulinger Straße - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Erweiterung der Kita Sulzbachstraße - Bedarfsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 11: Glasmacherviertel Umbau Nachtigallstraße - Baumfällung - - vertagt
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Entwicklung Bergische Kaserne - mehrheitlich beschlossen
+- TOP 14: Verkehrssicherheit Josef-Neuberger Str. / Torfbruchstraße - abweichend beschlossen
+- TOP 15: Sicherheit auf der Bertastraße - einstimmig beschlossen
+- TOP 16: Erweiterung Geschäftsgebiet „Eddy“ auf Gerresheim - einstimmig beschlossen
+- TOP 17: Instandsetzung Verlängerung Ikenstraße zum Wald - einstimmig beschlossen
+- TOP 18: Freigabe des Wasserspielplatzes Alter Friedhof - zurückgezogen
+- TOP 19: Natur statt Perfektion – gegen die weitere Zerstörung der Natur im Stadtbezirk - abweichend beschlossen
+- TOP 20: Ausbau Torfbruchstraße - einstimmig beschlossen
+- TOP 21: Fußgängerbrücke über die Düssel in Höhe KGV Hippeland - vertagt
+- TOP 22: Baumfällungen im Stadtbezirk 7 - vertagt
+- TOP 23: Prozedere Erhalt der Gaslaternen - vertagt
+- TOP 24: Förderfähigkeit von Verkehrsvorhaben II - zur Kenntnis genommen
+- TOP 25: Brücke über die Dreherstraße - vertagt
+- TOP 26: Kfz-Zulassungsprognosen und moderne Mobilität - vertagt
+- TOP 27: Verkehrsfluss Bergische Landstraße – Ludenberger Straße – Grafenberger Allee - vertagt
+- TOP 28: Themenkomplex Grütersaaper Weg - vertagt
+- TOP 29: Autoarmes Wohnen im Glasmacherviertel - zur Kenntnis genommen
+- TOP 30: Verkehrserschließung Glasmacherviertel - zur Kenntnis genommen
+- TOP 31: Parkmöglichkeit auf Supermarktparkplätzen im Stadtbezirk 7 - vertagt
+- TOP 32: Glasfaserkabelausbau im Glasmacherviertel - zur Kenntnis genommen
+- TOP 33: Zusätzliche OGS Gruppe an der KGS Unter den Eichen - zur Kenntnis genommen
+- TOP 34: Schulische Nutzung der Schwimmbäder und Turnhallen - zur Kenntnis genommen
+- TOP 35: Rotthäuser Bachtal passierbar machen - zur Kenntnis genommen
+- TOP 36: Baumscheibe Josef-Neuberger-Straße 48 in Stand setzen - zur Kenntnis genommen
+- TOP 37: Fußgängerquerung Geibelstraße - zur Kenntnis genommen
+- TOP 38: Entwicklung städtischer Anteil Glasmacherviertel - zur Kenntnis genommen
+- TOP 39: Schließung der Postfiliale Grafenberg - zur Kenntnis genommen
+- TOP 40: Bericht zur Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - abweichend beschlossen
+- TOP 41: Sichere Überquerung der Ludenberger Straße / Wegeverbindung zwischen Hirschburgweg und Pfeifferbrück - zur Kenntnis genommen
