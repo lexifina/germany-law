@@ -1,0 +1,63 @@
+# Haupt- und Personalausschuss (29. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-26T17:00:00+02:00
+- Ende: 2018-06-26T19:22:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfg4IU5I0sCPU06hBKgozdw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5099
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTuWvImdAcDNo-QPVAHTfZ4RxAeiPZP3qw7YxkiMEgZr/Bekanntmachung_Haupt-_und_Personalausschuss_26.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXQ_n6_-LvtoZRxc4Wo5knXVkQfDIrEK5UBUMjjao7_f/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_26.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 28. Sitzung des Haupt- und Personalausschusses am 15.05.2018
+- TOP 4.: Eingabe nach § 24 GO NRW hier: Änderung im Straßenverzeichnis als Anlage der Straßenreinigungssatzung
+- TOP 5.: Eingabe nach § 24 GO NRW hier: Einrichtung einer Tempo-30-Zone auf der Altenhofer Straße
+- TOP 6.: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen
+- TOP 6.1: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen Antrag der Fraktion Bündnis/90 Die Grünen – offene Liste vom 08.06.2018
+- TOP 6.2: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen
+- TOP 7.: Bewerbung Müngstener Brücke UNESCO-Weltkulturerbe - mündlicher Bericht -
+- TOP 8.: Errichtung der Gerd-Kaimer-Bürgerstiftung Solingen
+- TOP 9.: Einberufung der Einigungsstelle gem. § 67 LPVG NRW hier: Besetzung der Beisitzerfunktionen
+- TOP 10.: Bekämpfung der Spielsucht hier: Antrag der FDP Ratsfraktion vom 30.05.2018
+- TOP 11.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2017 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Verwendung des Jahresüberschusses der Sparkasse
+- TOP 12.: Zugang zu Angeboten der gesundheitlichen Versorgung für Menschen mit Behinderung sowie Seniorinnen und Senioren in Solingen transparent gestalten
+- TOP 13.: Evaluierung des Rettungsdienstbedarfsplans vom 26.05.2015
+- TOP 14.: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“ - Erste Lesung –
+- TOP 14.1: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“ - Erste Lesung –
+- TOP 15.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 16.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 17.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 18.: Verschiedenes
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 18.1.1: Qualitätsbericht 2017 für die gemeinsame Leitstelle
+- TOP 18.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Beirat Solinger Kunst-Stiftung
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 28. Sitzung des Haupt- und Personalausschusses am 15.05.2018
+- TOP 4.: Wahl der Haupt- und Hilfsschöffinnen und -schöffen für die Amtszeit vom 01.01.2019 bis 31.12.2023 für die Strafkammern (einschließlich Schwurgericht – ohne Jugendkammern) des Landgerichts Wuppertal für die Schöffengerichte des Landgerichtsbezirks Wuppertal
+- TOP 5.: Aktueller Sachstand Masterplanung Berufsfeuerwehr 2030
+- TOP 6.: Beirat Solinger Kunst-Stiftung
+- TOP 6.1: Beirat Solinger Kunst-Stiftung hier: Antrag der CDU-Ratsfraktion vom 14.05.2018
+- TOP 7.: Beschaffung einer Drehleiter des Typs DLA (K) 23-12
+- TOP 8.: Bergische Gesellschaft für Ressourceneffizienz mbH – Umstrukturierung Gesellschaftsanteile und Änderung Gesellschaftsvertrag
+- TOP 9.: Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö) - Beteiligung an der Entwicklung des 3D Startup Campus NRW auf dem Gelände der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 10.: Jahresabschluss 2017 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 11.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG - Bestellung des Jahresabschlussprüfers 2018
+- TOP 12.: Jahresabschluss 2017 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WiFö Verwaltungs GmbH)
+- TOP 13.: Wirtschaftsförderung Solingen Verwaltungs GmbH - Bestellung des Jahresabschlussprüfers 2018
+- TOP 14.: Jahresabschluss 2017 der Wirtschaftsförderung Solingen GmbH & Co. KG (WiFö)
+- TOP 15.: Wirtschaftsförderung Solingen GmbH & Co. KG - Bestellung des Jahresabschlussprüfers 2018
+- TOP 16.: Institut für Galvano- und Oberflächentechnik Solingen GmbH - Bestellung des Jahresabschlussprüfers 2018
+- TOP 17.: Verschiedenes
+- TOP 17.1: Mitteilungen der Verwaltung
+- TOP 17.2: Anfragen an die Verwaltung
