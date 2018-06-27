@@ -1,0 +1,22 @@
+# Städtische Förderung von Einzelmaßnahmen zur Verbesserung der Alters- und Behindertengerechtigkeit von Wohnungen
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-A-02410
+- Art: Antrag
+- Datum: 2018-06-27
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1003665
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a30d92c66dc3b52ffc4e7
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c0922cc2c66dc3b52a16689
+- Beratung: Verweisung in die Gremien https://oparl.politik-bei-uns.de/meeting/5c08a73f2c66dc3b526dfa30 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b21e2c66dc3b5288bb41 https://oparl.politik-bei-uns.de/organization/5c089ecb2c66dc3b525a10d2
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b22b2c66dc3b5288c297 https://oparl.politik-bei-uns.de/organization/5c089ecf2c66dc3b525a1435
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ecf2c66dc3b525a1435
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ecb2c66dc3b525a10d2
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: Beschlussfassung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
