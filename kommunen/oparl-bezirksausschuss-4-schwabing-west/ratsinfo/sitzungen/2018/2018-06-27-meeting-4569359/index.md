@@ -1,0 +1,136 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569359
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569359
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.5.: Unterstützung/Brief zu den Vorhaben der Aton-Schule
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.1.1.: Fällungsantrag Sailerstr. 26 - TOP entfällt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 04.08. - 07.09.2018 2.650,00 Euro Az.: 0262.0-4-0202
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Wilhelmschule-Förderverein e.V. Projekt "Kinder treffen Künstler" vom 25.06.-13.07.2018 1.000,00 € AZ: 0262.0-4-0203
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Förderverein der Städtischen Hermann-Frieb-Realschule e.V. Ausbildungs-Workshop vom 24. - 26.09.2018 765,60 € AZ: 0262.0-4-0204
+- TOP 2.4.: Nochmalige Verlängerung des Bewilligungszeitraums für das aus dem BA-Budget geförderte Jugendkulturprojekt „Hänsel und Gretel“ bis Ende Juli 2019
+- TOP 2.6.: Unterstützung des „Elki“ bei weiteren Vorhaben
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Zukunft der Aton-Schule (Zwischennachricht des 2. Bürgermeisters zum BA-Schreiben vom 26.04.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Sachbericht der Lernwerkstatt Halle 36 zum Bau eines Parklets
+- TOP 3.2.2.: Bewilligungsbescheid für das Wasserspielmobil
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: „Euro Shop“ Hohenzollernstr. 60: Aufstellung von vier Warenauslagen
+- TOP 2.1.2.: „Schreiberia“ Karl-Theodor-Str. 84, Aufstellung von Warenauslagen
+- TOP 2.1.3.: „Schwabinger Kebaphaus“Hohenzollernstr. 57: Erweiterung der Freischankfläche
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Initiative "Open-Air-Kunstwerk" Open-Air Kunstwerk vom 11.11. - 02.12.2018 5.000,00 € AZ: 0262.0-4-0206
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V., KulturBüro Veranstaltungen mit dem Thema "Gelebte Demokratie" vom 23.-25.11.2018 1.908,50 € AZ: 0262.0-4-0205
+- TOP 2.2.3.: (E) Budget der Bezirksausschüsse Initiative "84 GHz - Raum für Gestaltung" Veranstaltung "Kunst im Karrée" am 14./15.07.2018 2.000,00 Euro Az.: 0262.0-4-0211
+- TOP 2.3.1.: Spendenlauf des Willy-Graf-Gymnasiums am 06.07.2018 im Luitpoldpark
+- TOP 2.3.2.: SPD-Bürgerfest am 21.07.2018 auf dem Elisabethplatz
+- TOP 2.3.3.: Georgenstraßenfest am 28. und 29.07.2018
+- TOP 2.3.4.: Italienisches Georgenstraßenfest am 21.07.2018
+- TOP 2.3.5.: Sommerfest des Ackermannbogen e.V. am 28.07.2018 auf der großen Wiese
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.3.1.: Schulfilm vom 30.05. bis 01.06.2018 im Luitpoldpark
+- TOP 3.3.2.: Fernsehproduktion „Schicksale“ am 30.05.2018 im Luitpoldpark
+- TOP 3.3.3.: Modeaufnahmen für die Produktion „Youmeco“ am 30.05.2018 im Luitpoldpark
+- TOP 3.3.4.: Fernsehproduktion „Toni, männlich, Hebamme“ am 08./09.06.2018 in der Klopstok-, Barlach- und Rümannstraße
+- TOP 3.4.1.: Kleingaststätte „Effinger“, Herzogstr. 86
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Agnesstraßenfest am 07.07.2018: Zustimmung per Eilentscheidung des Vorsitzenden
+- TOP 3.5.2.: Anwohnerbeschwerde über Lärmbelästigung durch Veranstaltungen im Olympiapark – Schreiben des Vorsitzenden an die Olympiapark GmbH, das Referat für Arbeit und Wirtschaft sowie das Kreisverwaltungsreferat
+- TOP 3.5.3.: Sporttag des Jugendzentrums LIFE am 28.06.2018 auf der Großen Wiese: Zustimmung per Eilentscheidung des Vorsitzenden
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: SPD: Erhaltungssatzungsgebiet „Schleißheimer Straße“
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Keuslinstr. 7 – 7a: Aufstockung 5. OG + DG, Anbau zweier Außenaufzüge, Errichtung je zweier Balkonanlagen im Hof und auf der Straßenseite, Neubau einer Duplexgarage mit 6 Stellplätzen
+- TOP 2.1.2.: Hohenzollernstr. 43: Nutzungsänderung Einzelhandels-/Gewerbeflächen zu Gastronomie- und Büro-/Praxisflächen mit Lagerräumen (EG) sowie Büro-/Praxis- und Wohnflächen (1. OG)
+- TOP 2.1.3.: Tengstr. 22: Einbau einer ursprünglich genehmigten internen Verbindungstreppe (4.-5. OG)
+- TOP 2.1.4.: Kathi-Kobus-Str. 9-11: Nutzungsänderungen mit baulichen Maßnahmen im 1. OG: Fabrikation zu Büro sowie Personal zu Wohnen; KG: Packraum zu Lager sowie Tank- zu Abstellraum; Errichtung eines Nebengebäudes mit Flucht- und Rettungsweg für die Tiefgarage
+- TOP 2.1.5.: Georgenstr. 70/RGB: Umbau und Nutzungsänderung eines Atelier-/Werkstatt-Gebäudes in ein Bürogebäude mit Anbau eines Wintergartens
+- TOP 2.1.6.: Tektur Infanteriestr. 11 a: Neubau Pavillon V für Hochschulnutzung mit Kantine (vertagt aus 05/18, jetzt mit Änderungsschreiben)
+- TOP 2.1.7.: Lerchenauer Str. 22: Galeriegeschoss-Ausbau zu einer Wohnung
+- TOP 2.1.8.: Schleißheimer Str. 85-87: Änderung des Fluchtwegsystems OG/EG (bisherige Erschließung und Fluchtweg über Agnesstr. 53)
+- TOP 2.1.9.: Vorbescheid Hiltenspergerstr. 76 – 82a: Neubau eines Seniorenzentrums mit Tiefgarage, Sanierung und Erweiterung eines Jugendwohnheims mit Tiefgarage sowie Nutzungsänderung Hiltenspergerstr. 76 in ein Wohnheim für Mitarbeitende
+- TOP 2.1.10.: Arcisstraße: Nutzungsänderung Verkaufsstand zu Kundentoilette für den Elisabethmarkt
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Beseitigung eines Wintergartens in der Hiltenspergerstr. 47 (Zwischennachricht der LBK zu diversen BA-Schreiben)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Mieterbeirat: Protokoll der Sitzung vom 23.04.2018
+- TOP 3.2.2.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 3.2.3.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
+- TOP 3.2.4.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Schnellere Grünphasen für Fußgänger in der Karl-Theodor- bzw. Ackermannstraße
+- TOP 1.2.: SPD: Begrünung der Georgenstraße mit Bäumen
+- TOP 1.3.: SPD: Schaffung von Fahrradabstellplätzen in der Agnesstraße
+- TOP 1.4.: Bürgerin: Baumpflanzung in der Schleißheimer Straße
+- TOP 1.5.: Bürgerin: Absenkung des kombinierten Rad- und Fußweges Barlachstraße Nord im Bereich der Hagedornstraße
+- TOP 1.6.: Bürger: Barbarasiedlung: Zufahrt zu den Häusern 16-16c zwischen Infanteriestraße und Schwere-Reiter-Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.2.: Lerchenauer Str. 9: Fällung eines Silberahorn und zweier Ebereschen
+- TOP 2.1.3.: Kölner Platz 1: Baumfällungen und -pflegemaßnahmen auf dem Klinikgelände
+- TOP 2.1.4.: Green City e.V.: Wanderbaumallee in der Winzerer-/Lothstraße
+- TOP 2.2.1.: Straßenbahn München – Streckenabschnitt 7: Geänderte Planunterlagen zum Umbau der „Ackermannschleife“
+- TOP 2.2.2.: Parkraummanagement: Einrichtung einer Bewohnerparkzone in der Fürstenbergstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Fahrbahnmarkierungen „Fahrradstraße“ in der Clemensstraße erneuern (Antwort des Baureferats auf BA-Schreiben vom 26.04.2018)
+- TOP 3.1.2.: Verlegung der Fernwärmeleitung in der Karl-Theodor-Straße unter die Fahrbahn im Rahmen der vorgesehenen Straßenumbauten
+- TOP 3.1.3.: Taubenplage in Schwabing-West (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 17.05.2018)
+- TOP 3.1.4.: Umgestaltung des Bereichs Winzerer-, Loth-, Georgenstraße (Antwort des Baureferats auf BA-Schreiben vom 26.04.2018)
+- TOP 3.2.1.: Genehmigungsbescheid zur Fällung eines Walnussbaums in der Mottlstr. 14
+- TOP 3.2.2.: Fällung einer abgestorbenen Birke in der Kaiserstr. 54
+- TOP 3.3.1.: Öffnung der einbahngeregelten Krumbacherstraße zwischen Hiltensperger- und Adelheidstraße für den gegenläufigen Radverkehr
+- TOP 3.3.2.: Deckenschlussarbeiten im Gleisbereich der Belgradstraße zwischen Hohenzollern- und Destouchesstraße
+- TOP 3.3.3.: Straßenbauarbeiten zur Änderung der Radwegführung im Bereich Schwere-Reiter-/Ackermann-/Infanteriestraße
+- TOP 3.3.4.: Fahrbahnsanierung im Kreuzungsbereich Georgen-/Isabellastraße
+- TOP 3.3.5.: Ladezone Theo-Prosel-Weg
+- TOP 3.3.6.: Parkraummanagement: Einrichtung einer Bewohnerparkzone in der Fürstenbergstraße (s. oben, TOP E 2.2.2)
+- TOP 3.3.7.: Öffnung des Theo-Prosel-Wegs zwischen der Elisabethstraße und der Kathi-Kobus-Straße für den gegenläufigen Radverkehr
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ausnahmegenehmigung für Mäharbeiten, u.a. am Petuelring und in der Ackermannstraße
+- TOP 3.4.2.: Wegebeleuchtung an der Großen Wiese am Ackermannbogen vollständig
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Oktoberfest 2018 – Reservierung in der Ratsboxe Wunschtermine mit Zeitraum und Teilnehmerzahl
+- TOP F.2.: Verstärkte dialogische Angebote der Bezirksausschüsse Fragenkatalog der Fachstelle für Demokratie
+- TOP F.3.: Ferienausschuss am 29.08.2018 3.1 Benennung der Mitglieder 3.2 Wahl der/des Ferienausschussvorsitzenden 3.3 Vertretungsregelung
+- TOP F.4.: BA-Sitzungstermine 2019
+- TOP G: Verschiedenes
+- TOP H: Termine
