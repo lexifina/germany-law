@@ -1,0 +1,51 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-06-27T17:00:00+02:00
+- Ende: 2018-06-27T21:05:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4098
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4098
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 28. Sitzung des Hauptausschusses am 09.05.2018 -öffentlicher Teil- Siehe Anlage - Niederschrift ohne Einwendung
+- TOP 2: Jahresabschluss der Stadtsparkasse MG - Einstimmiger Beschluss
+- TOP 3: Entlastung Sparkassenorgane - Einstimmiger Beschluss
+- TOP 4: Betriebsleistung der BVR Busverkehr Rheinland GmbH - Einstimmiger Beschluss
+- TOP 5: Anbpassung Geseellschaftsvertrag NEW m&a Mg - Einstimmiger Beschluss
+- TOP 6: Anpassung der Satzung der NEW AG - An den Rat verwiesen
+- TOP 7: Unterjährige Anpassung HSP - An den Rat verwiesen
+- TOP 7.1: Vorlage 3183/IX - Unterjährige Anpassung des Haushaltssanierungsplanes - An den Rat verwiesen
+- TOP 7.2: Unterjährige Anpassung des Haushaltssanierungsplanes – Vorlagen-Nr.: 3183/IX - An den Rat verwiesen
+- TOP 8: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 - Kenntnisnahme
+- TOP 9: Ordnungsbehördliche Verordnung Offenhalten Verkaufsstellen Stadtschützenfest - Mit Stimmenmehrheit beschlossen
+- TOP 10: OGS im Primarbereich - Einstimmiger Beschluss
+- TOP 11: Kommunale Schulsozialarbeit - An den Rat verwiesen
+- TOP 11.1: Fortführung Projekt Kom. Schulsozialarbeit - An den Rat verwiesen
+- TOP 12: Jahresabschluss 2017 der Gebäudereinigung der Stadt Mönchengladbach (GSM) und Verwendung des Jahresü - Einstimmiger Beschluss
+- TOP 13: Jahresbericht zur Abwasserbeseitigung 2017 - Kenntnisnahme
+- TOP 14: Einundfünfzigster Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 15: Erste Verlängerung Veränderungssperre Europaplatz - Einstimmiger Beschluss
+- TOP 16: Erste Verlängerung Veränderungssperre Venner Straße - Einstimmiger Beschluss
+- TOP 17: Bebauungsplan Nr. 773/S "An den Fichten" - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 18: Bebauungsplan Nr. 780/O ("Friesenstraße"), § 13a BauGB, Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 783/O, § 13a BauGB, ("Bönninghausenstraße") - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 20: Instandsetzung von Straßenbrücken - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 21: Berichtsvorlage zur Umsetzung der Stadtentwicklungsstrategie mg+ Wachsende Stadt - Kenntnisnahme
+- TOP 22: Pflege-Detektive; hier: Fraktionsantrag DIE LINKE vom 03.05.2018 - In den nächsten Ratszug geschoben
+- TOP 23: Kultursensible Pflege in Mönchengladbach; hier: Fraktionsantrag DIE LINKE vom 03.05.2018 - In den nächsten Ratszug geschoben
+- TOP 24: Erweiterung der Angebote des Gesundheitsamtes; hier: Fraktionsantrag DIE LINKE vom 03.05.2018 - In den nächsten Ratszug geschoben
+- TOP 25: Bericht Stadtklima; hier: Fraktionsantrag Bündnis 90/Die Grünen vom 30.05.2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Mehr „Wildniswald“ für Mönchengladbach; hier: Fraktionsantrag Bündnis 90/Die Grünen vom 30.05.2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Nachnutzung ehemaliges Polizeipräsidium Mönchengladbach; hier: gemeinsamer Fraktionsantrag CDU/SPD vom 12.06.2018 - Mit Stimmenmehrheit beschlossen
+- TOP 28: Umsetzung des Tarifergebnisses im ÖffentlichenDienst (TVöD) für die Beschäftigten aller Städtischen - An den Rat verwiesen
+- TOP 29: Personalstruktur der Stadtverwaltung Mönchengladbach - Ohne Abstimmung
+- TOP 30: Anfragen und Mitteilungen
+- TOP 30.1: Mitteilung Stadtkämmer Heck
+- TOP 30.2: Anfrage Ratsfrau Brombeis, Bündnis 90/Die Grünen
+- TOP 30.3: Anfrage Ratsherr Schultz, DIE LINKE
+- TOP 30.4: Anfrage Ratsfrau Finger, FDP
