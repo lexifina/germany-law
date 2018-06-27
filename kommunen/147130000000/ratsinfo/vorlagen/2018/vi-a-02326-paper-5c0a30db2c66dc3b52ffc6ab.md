@@ -1,0 +1,25 @@
+# Integration durch Sport
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-A-02326
+- Art: Antrag
+- Datum: 2018-06-27
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1003522
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a30db2c66dc3b52ffc6ab
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c0921612c66dc3b52a148c0
+- Beratung: Verweisung in die Gremien https://oparl.politik-bei-uns.de/meeting/5c08a73f2c66dc3b526dfa30 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a8992c66dc3b526fd917 https://oparl.politik-bei-uns.de/organization/5c089ece2c66dc3b525a13c7
+- Beratung: 2. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b1752c66dc3b5287d4f6 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: 2. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b1f82c66dc3b5288a602 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08b2152c66dc3b5288b5db https://oparl.politik-bei-uns.de/organization/5c089ece2c66dc3b525a13c7
+- Beratung: Vorberatung https://oparl.politik-bei-uns.de/meeting/5c08b22a2c66dc3b5288c16b https://oparl.politik-bei-uns.de/organization/5c089ed22c66dc3b525a1732
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b24e2c66dc3b5288d792 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b2512c66dc3b5288da02 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08b2622c66dc3b5288e2c3 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0ee1
+- Beratung: Vorberatung https://oparl.politik-bei-uns.de/meeting/5c08b2702c66dc3b5288e987 https://oparl.politik-bei-uns.de/organization/5c089ed22c66dc3b525a1732
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edc2c66dc3b525a1f27
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edc2c66dc3b525a1f27
+- Beratung: Beschlussfassung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
