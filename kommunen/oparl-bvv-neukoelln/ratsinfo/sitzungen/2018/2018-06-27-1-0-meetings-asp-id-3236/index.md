@@ -1,0 +1,149 @@
+# 20. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-06-27T17:00:00+02:00
+- Ende: 2018-06-27T22:37:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3236
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3236
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 1.1: Gefährliche Verkehrsituation an der Kreuzung Herrmannnstraße/Thomasstraße - schriftlich beantwortet
+- TOP 1.2: Sondernutzung Straßenland nach §13 BerlStrG - beantwortet
+- TOP 1.3: Kindl - Gelände - beantwortet
+- TOP 1.4: Vorkaufsrecht / Milieuschutz die Sanderstraße 11/11a betreffend - beantwortet
+- TOP 1.5: Hitze Karlsgartengrundschule - beantwortet
+- TOP 1.6: Hitze Karlsgartengrundschule - beantwortet
+- TOP 1.7: Hitze Karlsgartengrundschule - beantwortet
+- TOP 1.8: Hitze Karlsgartengrundschule - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Verlängerung der Veränderungssperre XIV-24-1/31 für die Grundstücke mit der Lagebezeichnung Lahnstraße 33A, Naumburger Straße 33 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-24-1 - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Weitere Verlängerung der Veränderungssperre XIV-60/29 - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Bildung von Ausschüssen gem. § 9 Abs. 1 und 2 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als Bezirksverordneter im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Neubenennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Neuköllner Register - beantwortet
+- TOP 9.2: Bauarbeiten am "Gletscher" - beantwortet
+- TOP 9.3: Aus für das Elterncafé im Haus der Familie? - beantwortet
+- TOP 9.4: Sonnen-Grundschüler*innen haben ein Recht auf Bildung - beantwortet
+- TOP 9.5: Maßnahmen gegen Übergriffe auf sexuelle Minderheiten - beantwortet
+- TOP 9.6: Neuköllner Brennpunktschulen - beantwortet
+- TOP 9.7: Abgesagte Sitzung des Krankenhausbeirates - beantwortet
+- TOP 9.8: Robbin Hood Spielplatz - schriftlich beantwortet
+- TOP 9.9: Leere Zimmer in Pflegheimen trotz Warteliste? - schriftlich beantwortet
+- TOP 9.10: Erweiterungsbau BlueberryInn – Probleme durch vorausschauende Planung frühzeitig vermeiden - schriftlich beantwortet
+- TOP 9.11: Erhöhte Unfallgefahr auf dem „Blub“-Gelände - schriftlich beantwortet
+- TOP 9.12: Fortbestand des Familiencafés in der Glasower Straße - schriftlich beantwortet
+- TOP 9.13: Fischsterben im Britzer Dorfteich - schriftlich beantwortet
+- TOP 9.14: Weiterentwicklung der bisherigen Präventionskette auf die gesamte Lebensspanne - schriftlich beantwortet
+- TOP 9.15: Neue Unterkunft für geflüchtete Menschen - schriftlich beantwortet
+- TOP 9.16: Eingriffe in den Straßenverkehr durch selbsternannte Straßenwächter - schriftlich beantwortet
+- TOP 9.17: Was hat wer? - schriftlich beantwortet
+- TOP 9.18: Gewalt an Neuköllner Schulen - schriftlich beantwortet
+- TOP 9.19: Verdachtsfälle bei Problemhäusern - schriftlich beantwortet
+- TOP 9.20: Baustelle Flughafen- Ecke Hermannstraße - schriftlich beantwortet
+- TOP 9.21: Säuglingssterblichkeit - schriftlich beantwortet
+- TOP 9.22: Verweigerung von Hospitationsbesuchen bei Einbürgerungstest des BAMF an der VHS und bei Keplerschule - schriftlich beantwortet
+- TOP 9.23: Fahrradschienen Fußgängerbrücke Weigandufer-Kiehlufer - schriftlich beantwortet
+- TOP 9.24: Nachforschungen zu Drucksache - 0689/XX - Vorbeter am Dürergymnasium - schriftlich beantwortet
+- TOP 9.25: Säuglingssterblichkeit als Folge von Inzest? - schriftlich beantwortet
+- TOP 9.26: Werbung Festival "Offenes Neukölln" mit dem Logo des Bezirksamts und WLAN "offenes Neukölln" im Rathaus - schriftlich beantwortet
+- TOP 9.27: Nachfrage zur angeblichen Vereinbarkeit von Islam und Demoktratie (BA-finanzierte Projekte) - KA026/XX - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Bebauungsplan zur Vorhaltung von Produktionsflächen erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wie fördert das Bezirksamt Neukölln den Neuköllner Sport? - beantwortet
+- TOP 10.3: Schulgarten Dammweg - beantwortet
+- TOP 10.4: Newsletter der Abteilung Jugend und Gesundheit - Öffentlichkeitsarbeit des Bezirks oder Parteiorgan des Stadtrats? - beantwortet
+- TOP 10.5: Mehr Schutz für Fahrradfahrer*innen - beantwortet
+- TOP 10.6: möglicher Asbest bekannt und nix passiert - beantwortet
+- TOP 10.7: Planungen RIAS Gelände - vertagt
+- TOP 10.8: Mobbing an Neuköllner Schulen - vertagt
+- TOP 10.9: Einrichtung von weiteren Neuköllner Koordinierungsstellen - vertagt
+- TOP 10.10: Schilderirrsinn in Neukölln - vertagt
+- TOP 10.11: Statistik zur Gewalt an Schulen - vertagt
+- TOP 10.12: Qualität und Quantität in der Kältehilfe gemeinsam verbessern - vertagt
+- TOP 10.13: Stopp dem Feuerwerkswahnsinn! - vertagt
+- TOP 10.14: Gemeinsame Geschäftsordnung im Bezirksamt Neukölln einhalten - vertagt
+- TOP 10.15: Wie gewährleistet das Bezirksamt die Sicherheit für Radfahrende in der Karl-Marx-Straße? - vertagt
+- TOP 10.16: Arbeiten auf dem Tempelhofer Feld - vertagt
+- TOP 10.17: Gegen nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen - vertagt
+- TOP 10.18: Verkehrskollaps Koppelweg - vertagt
+- TOP 10.19: Bürgerämter Neukölln - Sieht so Bürgerfreundlichkeit aus? - vertagt
+- TOP 10.20: Säuglingssterblichkeit in Neukölln - schriftlich beantwortet
+- TOP 10.21: Derzeitiger Stand der Berliner Schulbauoffensive für Neukölln - schriftlich beantwortet
+- TOP 10.22: Suchtstationen und Spielhallen abschöpfen - schriftlich beantwortet
+- TOP 10.23: Obdachlose aus Ost - und Südosteuropa – Gesetze konsequent anwenden - vertagt
+- TOP 10.24: Vorbereitende Untersuchung Milieuschutzgebiet Gropiusstadt beauftragen - vertagt
+- TOP 10.25: Haltestellenumbenennung - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bebauung ehemaliger Güterbahnhof Neukölln - vertagt
+- TOP 11.2: Tischlerzeile / Severingstraße für Grundschulkinder sicher machen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Schulgarten Carl-Legien Schule - vertagt
+- TOP 11.4: Beteiligung der Betroffenen der Schulbauoffensive sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 11.5: Parkraumbewirtschaftung geht gar nicht - in der BVV abgelehnt
+- TOP 11.6: Parkraumbewirtschaftung: Ist das sinnvoll für Neukölln? - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Parkverbotszone - vertagt
+- TOP 11.8: Beteiligung am europaweiten autofreien Tag - vertagt
+- TOP 11.9: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - vertagt
+- TOP 11.10: Brandschutz in Shisha-Bars sicherstellen - vertagt
+- TOP 11.11: Blühstreifen, Blühflächen und wohnumfeldnahes Grün - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Neuköllner Schreiambulanz - vertagt
+- TOP 12.2: Mehr Macht für den Bürgermeister? - vertagt
+- TOP 12.3: Asbest Rias-Gelände - vertagt
+- TOP 12.4: Brandbrief von Schulen im Bezirk & Maßnahmen gegen die gravierenden Missstände an den Neuköllner Schulen - vertagt
+- TOP 12.5: Gesundheitspräventionskette in Neukölln - vertagt
+- TOP 12.6: Verkehrskonzept für Neukölln – viele „Baustellen“ und kein Plan? - vertagt
+- TOP 12.7: Ausbau von Dachgeschossen - vertagt
+- TOP 12.8: Langzeitarbeitslosigkeit und „soziales Grundeinkommen“ in Neukölln - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bahnhof Zwickauer Damm - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Ausschilderung Baustelle Karl-Marx-Straße - vertagt
+- TOP 14.3: Wilde Altkleidercontainer - vertagt
+- TOP 14.4: Skulptur für Stadtteilbibliothek - vertagt
+- TOP 14.5: Wirksame Tempobegrenzung in der Hufeisensiedlung - vertagt
+- TOP 14.6: Sitzbänke am Weigandufer aufstellen - vertagt
+- TOP 14.7: Keine Verwaltungsreform zu Lasten der Bezirke - vertagt
+- TOP 14.8: Grundwassermanagement - vertagt
+- TOP 14.9: Bürger*innenpreis für Demokratie und Courage in Neukölln - vertagt
+- TOP 14.10: Fair gehandelte Bewirtung im Bezirksamt - vertagt
+- TOP 14.11: Im digitalen Zeitalter ankommen und die BVV im Livestream umsetzen - vertagt
+- TOP 14.12: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - vertagt
+- TOP 14.13: Lehr- und Lernmitteletat der Schulen - vertagt
+- TOP 14.14: Maßnahmen gegen ausufernde Lärmbelästigung in der Weserstraße - vertagt
+- TOP 14.15: LSBTI in Neukölln wirksam vor Gewalt schützen – Stelle für Queer-Beauftragte*n umgehend einrichten - vertagt
+- TOP 14.16: Gedenkort Zwangarbeiterlager Fulhamer Allee - vertagt
+- TOP 14.17: Einrichtung von Boule-Bahnen - vertagt
+- TOP 14.18: Vor weiteren modularen Unterkünften für Migranten das Asylrecht durchsetzen - vertagt
+- TOP 14.19: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - vertagt
+- TOP 14.20: Einrichtung weiterer Sonderschulen - vertagt
+- TOP 14.21: Maroder Bordstein - vertagt
+- TOP 14.22: Bei weiterem Umbau der Karl-Marx-Straße Konsequenzen aus dem Fahrradstreifen-Desaster ziehen - vertagt
+- TOP 14.23: Rettet die Baumscheibe - vertagt
+- TOP 14.24: Buslinie M 41 verlängern - vertagt
+- TOP 14.25: Schilder da, aber niemand kann sie sehen - vertagt
+- TOP 14.26: Preisgestaltung bei den Berliner Bäderbetrieben - vertagt
+- TOP 14.27: Verkehrsschild mit Graffiti - vertagt
+- TOP 14.28: Zentrale Erfassung und Veröffentlichung aller Tage der offenen Türen an den Neuköllner Schulen - vertagt
+- TOP 14.29: Keine öffentlichen Stellflächen für Zirkusse mit bestimmten wildlebenden Arten - vertagt
+- TOP 14.30: Einführung eines elektronischen Klassenbuches - Reduzierung der Schulschwänzer - vertagt
+- TOP 14.31: Einführung eines Männersportförderpreises in Neukölln - vertagt
+- TOP 14.32: Anwendung des Berliner Schulgesetzes zur Durchsetzung eines normalen Unterrichtes - vertagt
+- TOP 14.33: Mitbestimmung der Schulleiterkonferenz an der Schülerzuweisung - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Baumschulware am Campus Rütli retten - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Fortschreibung des Neuköllner Integrationspapiers von 2009 - vertagt
