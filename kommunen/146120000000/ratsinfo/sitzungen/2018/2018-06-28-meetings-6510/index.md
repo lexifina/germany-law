@@ -1,0 +1,65 @@
+# 53. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-06-28T16:00:00+02:00
+- Ende: 2018-06-29T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6510
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6510
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00352725.pdf
+- Wortprotokoll: Nachtrag_SR_28./29.06.2018 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00353973.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 3.1: Umsetzung von Stadtratsbeschlüssen im Sportbereich - erledigt
+- TOP 3.2: VONOVIA-Mieterhöhung/Angemessenheitsgrenze vom Jobcenter - erledigt
+- TOP 3.3: Umgang der Landeshauptstadt mit Garagenbesitzern - erledigt
+- TOP 3.4: Erhalt von Kleingärten im Altelbarm zwischen Leuben und Laubegast - erledigt
+- TOP 3.5: Unterstützung des Rettungsschiffes Lifeline - erledigt
+- TOP 3.6: Zukunft des Dresdner Fernsehturms - erledigt
+- TOP 3.7: Benachteiligung fraktionsloser Stadträte - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Vertagungen der letzten Stadtratssitzung vom 7. Juni 2018
+- TOP 5.1: Schaffung eines Ortskerns für Tolkewitz - Rahmenplanung Nr. 787 „Seidnitz/Tolkewitz“ jetzt vorantreiben - Zustimmung
+- TOP 5.2: Veränderung der Dresdner Bäderlandschaft nur auf Grundlage eines fortgeschriebenen Bäderkonzeptes durchführen - Ablehnung
+- TOP 5.3: Umgang mit ansteckungsfähiger Lungentuberkulose in Gemeinschaftseinrichtungen - Ersetzung - punktweise Abstimmung
+- TOP 5.4: Einführung der elektronischen Vorgangsbearbeitung in allen bauaufsichtlichen Verfahren zur Umsetzung des Sächsischen E-Government-Gesetzes (SächsEGovG) - eBauaufsicht - Zustimmung
+- TOP 5.5: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erstattung der notwendigen Schülerbeförderungskosten vom 27. März 2014 (Satzung Schülerbeförderungskosten - Erstattung) - Zustimmung
+- TOP 5.6: Nutzungskonzept und Betreibung Gamigstraße 26 "Bürgerhaus Prohlis" - Ersetzung
+- TOP 5.7: Neubau eines Gehweges im Abschnitt der Hutbergstraße zwischen Rochwitz und Bühlau - Zustimmung
+- TOP 5.8: Konzeptausschreibung für das Sachsenbad - Zustimmung mit Ergänzung
+- TOP 5.9: Fachkräftestrategie für Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anteilserwerb der Technische Werke Dresden GmbH an der Stadtreinigung Dresden GmbH - Zustimmung
+- TOP 8: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2018/2019 - Vertagung
+- TOP 9: Berufsschulzentrum für Bau und Technik, Güntzstraße 3 in 01069 Dresden - Ersatzneubau Zweifeld-Schulsporthalle - Zustimmung
+- TOP 10: Eintrittspreise im Europäischen Zentrum der Künste Hellerau ab der Spielzeit 2018/2019 - Zustimmung
+- TOP 11: Satzung der Landeshauptstadt Dresden über Stellplätze und Garagen sowie Abstellplätze für Fahrräder (Stellplatz-, Garagen- und Fahrradabstellplatzsatzung – StGaFaS) - Zustimmung mit Ergänzung
+- TOP 12: Entwurf des Rahmenplanes/Masterplanes Nr. 786.1 Leipziger Vorstadt/Neustädter Hafen - Zustimmung
+- TOP 13: Neuanmietung für das Sozialamt - Zustimmung
+- TOP 14: Erhaltungssatzung Langebrück H-10, Dresden-Langebrück - Zustimmung
+- TOP 15: Gestaltungssatzung Langebrück G-06, Dresden-Langebrück - Zustimmung
+- TOP 16: Bebauungsplan Nr. 389 A-1, Dresden-Altstadt I Nr. 44, Stadtquartier am Blüherpark-West, Teil Süd - Zustimmung
+- TOP 17: Bebauungsplan Nr. 3037, Dresden-Altstadt II Nr. 31, Marschnerstraße/Canalettostraße - Zustimmung
+- TOP 18: Veränderungssperre für Bebauungsplan Nr. 3037, Dresden-Altstadt II Nr. 31, Marschnerstraße/Canalettostraße - Zustimmung
+- TOP 19: Ergebnisse des Hochwasser-Audits vom 11./12. Oktober 2017 und weiteres Vorgehen - Zustimmung
+- TOP 20: Kooperation zwischen Dresdner Schulen und Schulen anderer Regionen - Vertagung
+- TOP 21: Anlagepolitik nach ethischen, sozialen und ökologischen Grundsätzen - Vertagung
+- TOP 22: Schwerpunktsportarten - Breitensport - Vertagung
+- TOP 23: Andenken an Johann "Rukeli" Trollmann wachhalten - Boxerdenkmal herrichten und an einen würdigeren Ort im Sportpark Ostra umsetzen - Vertagung
+- TOP 24: Schulbibliotheken für Dresden - Zustimmung
+- TOP 25: Hufeisennasen-Monitoring an der Waldschlößchenbrücke durchführen - Ablehnung
+- TOP 26: Haltung der Stadt Dresden zum geplanten Kiesabbau in Söbrigen - Vertagung
+- TOP 27: Konzept für dringend notwendige Investitionen im Städtischen Klinikum Dresden - punktweise Zustimmung mit Ergänzung
+- TOP 28: Sicherheit in der Erstaufnahmeeinrichtung Hamburger Straße wiederherstellen und was die Landeshauptstadt dazu beitragen kann - Zustimmung mit Ergänzung
+- TOP 31: Sportförderrichtlinie der Landeshauptstadt Dresden (LHD) - Übergangsregelung zur Anmietung der Margon Arena (Teil B, Punkt 8.2 (1)) - Zustimmung
+- TOP 32: Wahl einer Vertrauensperson als Beisitzerin bzw. Beisitzer für den Schöffenwahlausschuss beim Amtsgericht Dresden für die Amtsperiode 2019 bis 2023 aufgrund des Ausscheidens einer bereits gewählten Beisitzerin - gewählt
+- TOP 33: auszureichende Informationsvorlagen
+- TOP 33.1: Ergebnis der Prüfung zur künftigen Investitionsplanung gem. Beschluss zu V1334/16 Haushaltssatzung 2017/2018 und Wirtschaftspläne 2017 der Eigenbetriebe - zur Kenntnis genommen
+- TOP 33.2: Einrichtung einer Ombudsstelle in der Landeshauptstadt Dresden - zur Kenntnis genommen
