@@ -1,0 +1,33 @@
+# Geplanter Rathausneubau Wirtschaftlichkeitsvergleich gem. §12 Abs. 1 GemHVO
+
+- Körperschaft: Gemeinde Aarbergen
+- Drucksache/Vorlage: VL-22/2018 2. Ergänzung
+- Art: Beschlussvorlage Ausschuss HFA
+- Datum: 2018-06-28
+- Ratsinformationssystem: https://rim.ekom21.de/aarbergen/vorgang/?__=UGhVM0hpd2NXNFdFcExjZbPUHlLd3hDg5hdXntneK1E
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/paper/2315
+- Quelle: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage Ausschuss HFA (Geplanter Rathausneubau
+Wirtschaftlichkeitsvergleich gem. §12 Abs. 1 GemHVO ) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUnvYSW9tPXBummfaVk_0qMf7EMIOZtHI2K8Mfp5C3IM/Beschlussvorlage_Ausschuss_HFA_VL-22-2018_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_07/22.02.18_Vorstand_Vertretung_Anschreiben_Ruppel) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYkBLI1uTd7Z5SEbwLvxP-0dywQGMa7xLYP0ZjXkQ74A/Anlage_07-22.02.18_Vorstand_Vertretung_Anschreiben_Ruppel.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_07/22.02.18_Vorstand_Vertretung_Anschreiben2_Ruppel) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbLQ6XOsGlq173-2ZyTjxc-8UiN4D0YwQ07vnXvzF-o9/Anlage_07-22.02.18_Vorstand_Vertretung_Anschreiben2_Ruppel.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_07/22.02.18_Vorstand_Vertretung_Kostenberechnung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd4i3SxH0CKT4IdBrWWmu9DpJJ0riy0DKCPDelEj_kMn/Anlage_07-22.02.18_Vorstand_Vertretung_Kostenberechnung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_07/22.02.18_Vorstand_Vertretung_Flächen_Rathaus) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWL8dNTtnVzjAD7CJBdeF-UMvAYjHPCfqdd9v1pKxf7S/Anlage_07-22.02.18_Vorstand_Vertretung_Flaechen_Rathaus.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_11/26.04.18_Vorstand_Vertretung_Wirtschaftlichkeitsvergleich_Rathaus_Aarbergen_Kosten) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUETuhiq0VBAP0qEe-Soxn26JmJTGLvLxzSTZEbvuOG_/Anlage_11-26.04.18_Vorstand_Vertretung_Wirtschaftlichkeitsvergleich_Rathaus_Aarbergen_Kosten.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_11/26.04.18_Vorstand_Vertretung_Bedarfsplan_Rathaus_2018) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFxNquvJh8wPxFMz1d9WOhVGElyBVQkRm2Gk8Xb2pUL/Anlage_11-26.04.18_Vorstand_Vertretung_Bedarfsplan_Rathaus_2018.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_Ausschuss_Planentwurf Neubau) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaPXXO7cz9UJAF6IiTnB5_kV5nKZ105DLR8hAgtzAZcU/Anlage_Ausschuss_Planentwurf_Neubau.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_Ausschuss_Kosten - Erträge Rathaus Neubau) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVakXBD0lZGoW0ErDQyWJg9_XYA-fXOo9lR2j19Qqp9h/Anlage_Ausschuss_Kosten_-_Ertraege_Rathaus_Neubau.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vorstand_07.02_Beschlussvorschlag) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZafbq8Ut6fU2ellyytR7ZoMrovCasDPAZzl1XU5U3Zj5/Vorstand_07.02_Beschlussvorschlag.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vorstand_07.02_Beschluss) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcuBbrE5xVRpaXsmCnArmavAAa2Z5Ptfn8H6EV9qLmWO/Vorstand_07.02_Beschluss.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vertretung_22.02_Beschlussvorschlag) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfWw23-8CrhUeUEZcGyfpq2hV8-cfNhPR1uxUkHxvHCO/Vertretung_22.02_Beschlussvorschlag.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vertretung_22.02_Beschluss) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXqq501mp_keBqjgRaYbbnLm154yD_WKiqvYr6PtYJWZ/Vertretung_22.02_Beschluss.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vorstand_11.04_Beschlussvorschlag) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUDcEfkZK0z6tk5NIL5Arf_fLZWLNWBhangdMGclxekF/Vorstand_11.04_Beschlussvorschlag.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vorstand_11.04_Beschluss) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZelcZUbZLYzSEfpuRuHOxtYvVBuLyOl9lp8-nsHC2vcG/Vorstand_11.04_Beschluss.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vertretung_26.04_Beschlussvorschlag) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWmEvusDoEdSri4LHnE7HEyZVmCxRtyhrIBaNZGMrO2U/Vertretung_26.04_Beschlussvorschlag.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Vertretung_26.04_Beschluss) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd7mgwwBbG70UlrOuYdBKX3GfMWruVguWsi3xYCqVTIw/Vertretung_26.04_Beschluss.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_Ausschuss_Planentwurf_Sanierung_EG) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeqALcIsBY7mxFY5IATOaHOkNUaLBULvJE_8l8Au83k6/Anlage_Ausschuss_Planentwurf_Sanierung_EG.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_Ausschuss_Planentwurf_Sanierung_1.OG) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWLkmwgVsfWr_AtHoYG2s2fSLJ7mQTS4J5DTXerv7jMD/Anlage_Ausschuss_Planentwurf_Sanierung_1.OG.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_Ausschuss_Finanzierung) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcHdl7cUgx6-sE_EQoIL3T6sNGAFOcLJzrYy-e0nju03/Anlage_Ausschuss_Finanzierung.pdf
+- Anlage: Beschlussvorlage Ausschuss HFA (Anlage_Ausschuss_Grundriss_Rathaus_1OG) https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbtbz8q_E3U29XoAsF_pPQpPVw2_qQ4D44vlSwofQew9/Anlage_Ausschuss_Grundriss_Rathaus_1OG.pdf
+- Beratung:  https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/meeting/1108 https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/1-2
+- underDirectionOf: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/organization/3-2
