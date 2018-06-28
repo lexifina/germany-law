@@ -1,0 +1,94 @@
+# 34. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-06-28T15:07:00+02:00
+- Ende: 2018-06-28T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18792
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18792
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage der SPD-Fraktion betreffend "Genossenschaftlicher Wohnungsbau in Köln/Wohnungsbauleitstelle - Kenntnis genommen
+- TOP 1.2: Bunt Anfrage nach § 4 vom 14.05.2018, AN/0751/2018, hier: 3D-Bebauungspläne in Köln - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Nah- und Fernwärme in Köln - zurückgestellt
+- TOP 2.1.2: Anfrage der Fraktion Die Linke vom 17.05.2018 betreffend "Hallen Kalk - Werkstattverfahren für die Katz‘?" - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage nach § 4 der Geschäftsordnung, Beantwortung der Anfrage der Fraktion DIE LINKE vom 26.04.2018, hier: Hallen Kalk – Werkstattverfahren für die Katz? AN/0655/2018 - Kenntnis genommen
+- TOP 2.1.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen vom 17.05.2018 betreffend "Bebauungsplanaufstellung für Lövenich" - zurückgestellt
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Entwicklungen im Bereich Ehrenfeld" - Sache ist erledigt
+- TOP 2.2.2: Entwicklung von Grundstücken des Bundes - Sache ist erledigt
+- TOP 2.2.3: Neue Gebietskategorie ‚Urbane Gebiete‘ - Sache ist erledigt
+- TOP 3: Anträge
+- TOP 3.1: Dringlichkeitsantrag der SPD-Fraktion betreffend "Bekanntmachung des Städtebauförderprogramms „Investitionspakt Soziale Integration im Quartier NRW 2018“ Köln muss sich um Förderungen für soziale Integration im Quartier bemühen!" - Sache ist erledigt
+- TOP -: Dringlichkeitsantrag der SPD-Fraktion vom 17.05.2018 (AN/0779/2018) betr. "Bekanntmachung des Städtebauförderprogramms "Investitionspakt Soziale Integration im Quartier NRW 2018" Köln muss sich um Förderungen für soziale Integration im Quartier bemü - Kenntnis genommen
+- TOP 3.2: AAntrag der Fraktion Die Linke betreffend "Zweckentfremdung von Wohnungen als Ferienwohnungen verhindern - Personal im Wohnungsamt zusetzen! - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP -: Änderungsantrag zu StEA TOP 3.2, "Zweckentfremdung von Wohnungen als Ferienwohnungen verhindern - Personal im Wohnungsamt zusetzen!" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.3: Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Städtebauliche Neuordnung für den Bereich Parkgürtel Süd und GE Schlachthof - ungeändert beschlossen
+- TOP -: Änderungsantrag zu StEA TOP 3.3, "Städtebauliche Neuordnung für den Bereich Parkgürtel Süd und GE Schlachthof" - endgültig abgelehnt
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Umsetzung Masterplan
+- TOP 4.1.1: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - ohne Votum in nachfolgende Gremien
+- TOP -: Wo bleibt der Rahmenplanungsbeirat für die Parkstadt-Süd? - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Vorlage Beschluss Integrierter Plan Deutzer Hafen - ohne Votum in nachfolgende Gremien
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Städtebauliches Werkstattverfahren Hallen Kalk; Festlegung Schulstandort/Fortführung d. städteb. Planung - geändert beschlossen
+- TOP 5.2: Verfahrensablauf und erweiterter Planungsbeschluss über den Pflasterverband der Neugestaltung Gürzenichstraße im Rahmen der Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Grundstücksverkauf im Sürther Feld in Köln-Rodenkirchen, 3. Bauabschnitt - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der SPD-Fraktion - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu Top 6.1 Grundstücksverkauf im Sürther Feld in Köln-Rodenkirchen, 3. Bauabschnitt - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Erneuerung der Eisenbahnüberführungen Deutz-Mülheimer Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: Deutzer Hafen; Einleitungsbeschluss; 227. Änderung (FNP) im Stadtbezirk 1, in Köln-Deutz - geändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes; Arbeitstitel: Südlich Baptiststraße in Köln-Roggendorf/Thenhoven - Sache ist erledigt
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.2 Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - Arbeitstitel: Simonskaul in Köln-Weidenpesch - endgültig abgelehnt
+- TOP 10.3: 1. Aufstellung eines Bebauungsplanes AT: Trierer Straße in Köln-Neustadt/Süd; 2. Aufhebung des Einleitungsbeschlusses zur 1. Änderung des Bebauungsplanes Nr. 66437/04 AT: 1. Änderung Trierer Straße in Köln-Ne - geändert beschlossen
+- TOP 10.4: Deutzer Hafen in Köln-Deutz; Beschluss über die Aufstellung eines Bebauungsplanes - geändert beschlossen
+- TOP 10.5: Nördlich Kronstädter Straße in Köln-Weiden; Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - geändert beschlossen
+- TOP 10.6: Glashüttenstraße in Köln-Porz; 74399/04; Ergänzte Beschlussvorlage zu Session-Nr. 3552-2015 - zurückgestellt
+- TOP 10.7: Westlich Zülpicher Wall in Köln-Lindenthal; Einleitungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Humboldtstraße in Köln-Porz-Finkenberg; 75409/05; Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.2: Antoniusstraße in Köln-Porz-Urbach; 76390/02; 2. Änderung; Satzungsbeschluss - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - zurückgestellt
+- TOP 16.2: Beschluss der Bezirksvertretung Porz über die städtebauliche Entwicklung des Gewerbegebiets Porz-Eil - geändert beschlossen
+- TOP 16.3: Beschluss der Bezirksvertretung Porz über die städtebauliche Entwicklung des Grundstücks "An der Mühle/ Ecke Lülsdorfer Str." in Porz-Langel - ungeändert beschlossen
+- TOP 16.4: Beschluss der Bezirksvertretung Porz über die städtebauliche Entwicklung des ehemaligen Dielektra-Geländes in Porz-Mitte - zurückgestellt
+- TOP 16.5: Beschluss der Bezirksvertretung Porz vom 26.09.2017 über die vereinfachte Änderung des Bebauungsplanes 7441/02 Arbeitstitel: Gewerbegebiet Eil in Köln-Porz-Eil, 1. Änderung - geändert beschlossen
+- TOP 17: Mitteilungen
+- TOP 17.1: Jahresbericht 2017 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 17.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 17.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) in Anwendung des beschleunigten Verfahrens nach § 13 a BauGB - Kenntnis genommen
+- TOP 17.4: Autohaus Robert-Perthel-Straße in Köln-Longerich/-Bilderstöckchen; 64494/02; Offenlage - Kenntnis genommen
+- TOP 17.5: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf 74393/04; Arbeitstitel: "Revitalisierung Innenstadt Köln-Porz" in Köln-Porz - Kenntnis genommen
+- TOP 17.6: Kiosk Rheinboulevard - Kenntnis genommen
+- TOP 17.7: Gemeinschaftsgrundschule Hauptstraße in Porz-Mitte - Kenntnis genommen
+- TOP 17.8: Werbesäulen - Kenntnis genommen
+- TOP 17.9: Planfeststellungsbeschluss für den 6-streifigen Ausbau der A 59 zwischen dem Autobahndreieck Köln-Porz und der Anschlussstelle Flughafen Köln-Bonn - Kenntnis genommen
+- TOP 17.10: Sachstand und bisherige Erkenntnisse des Verkehrsgutachtens Mülheimer Süden - Kenntnis genommen
+- TOP 17.11: Veröffentlichung Themenberichte 1 und 2 zu den Ergebnissen der "Leben in Köln" - Umfrage
+- TOP 17.12: Erhebung von Ausgleichsbeträgen nach § 154 Baugesetzbuch (BauGB) im ehemaligen Sanierungsgebiet Finkenberg - Kenntnis genommen
+- TOP 17.13: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage - Kenntnis genommen
+- TOP 17.14: Fertigstellung des Monitoring Stadtentwicklung Köln
+- TOP 17.15: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 17.16: Mündliche Mitteilung der Verwaltung betreffend ""Rondorf Nordwest
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
