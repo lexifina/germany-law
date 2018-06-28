@@ -1,0 +1,65 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-06-28T17:00:00+02:00
+- Ende: 2018-06-28T17:35:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUIz7R_MP_h6Xiievq0ywPM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4972
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb48G9W-eacQNkQV5MNeDNmaxYxfLw9t-wFO7IDQOKM1/Bekanntmachung_Rat_28.06.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWi4a2pCsNKG2J978-1ng3hnaxCVxoLSTKGG0GclZItO/Oeffentliche_Niederschrift_Rat_28.06.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Geförderter Wohnungsbau
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 29. Sitzung des Rates am 17.05.2018
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Einberufung der Einigungsstelle gem. § 67 LPVG NRW hier: Besetzung der Beisitzerfunktionen
+- TOP 7.: Errichtung der Gerd-Kaimer-Bürgerstiftung Solingen
+- TOP 8.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Konkretisierter Beschlussentwurf
+- TOP 8.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: gemeinsamer Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/Die Grünen- offene Liste, BfS, DIE LINKE und FDP vom 27.06.2018
+- TOP 8.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Ergänzungsantrag der FDP-Ratsfraktion vom 22.06.2018
+- TOP 8.3: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Liste Beratungsschwerpunkte
+- TOP 8.4: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Einbringung
+- TOP 9.: Bekämpfung der Spielsucht hier: Antrag der FDP Ratsfraktion vom 30.05.2018
+- TOP 10.: Evaluierung des Rettungsdienstbedarfsplans vom 26.05.2015
+- TOP 11.: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“ - Erste Lesung –
+- TOP 11.1: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“ - Erste Lesung –
+- TOP 12.: Obdachlosenangelegenheiten hier: • 1. Satzung zur Änderung der Satzung der Klingenstadt Solingen über die Obdachlosenunterkünfte
+- TOP 13.: Obdachlosen- und Flüchtlingsangelegenheiten hier: • Widmung der Gebäude Brunnenstr. 9 sowie Saturnstr. 1, 3, 5 und 7 als Unterkünfte für Flüchtlinge und Obdachlose • Entwidmung der Gebäude Junkerstr. 7 und Scharrenberger Str. 31 als Obdachlosenunterkünfte
+- TOP 14.: Obdachlosenangelegenheiten hier: Widmung des Gebäudes Schulstr. 3 als Obdachlosenunterkunft
+- TOP 15.: Obdachlosenangelegenheiten hier: Widmung des Gebäudes Birkenweiher 2 als Obdachlosenunterkunft
+- TOP 16.: Neufassung der Bürgschaftsentgeltordnung
+- TOP 17.: Verwendung der Mittel aus dem Kapitel 2 des Kommunalinvestitionsförderungsgesetzes NRW (KInvFöG)
+- TOP 18.: Bericht über die Prüfung des Gesamtabschlusses der Stadt Solingen zum 31.12.2016
+- TOP 19.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2017 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Verwendung des Jahresüberschusses der Sparkasse
+- TOP 20.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2017 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Entlastung der Organe der Sparkasse
+- TOP 21.: Elektrifizierung der Eisenbahnstrecke Solingen Hbf - Remscheid Hbf - Wuppertal-Oberbarmen hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 07.06.2018
+- TOP 22.: Antrag auf Änderung des Regionalplans
+- TOP 23.: Neufassung der Ordnungsbehördlichen Verordnung zum Schutz von Naturdenkmälern für das Gebiet der kreisfreien Klingenstadt Solingen 1) Beschluss über die Anregungen aus den Anhörungen nach § 45 und § 46 Abs. 2 Landesnaturschutzgesetz (LNatSchG NRW) 2) Beschluss über die Neufassung der Verordnung
+- TOP 24.: Bauleitplanung Am Neumarkt/ Heinestraße Allgemeiner Beschluss zur Aufstellung der 4. Änderung des Bebauungsplanes S 254 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet zwischen der Friedrichstraße im Nordwesten, der Heinestraße im Westen – einschließlich der straßenseitigen Grundstücke westlich der Heinestraße, der Straße Am Neumarkt im Südosten, der Kölner Straße sowie dem Graf-Wilhelm-Platz im Osten und dem Peter-Hahn-Weg im Nordosten
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 29. Sitzung des Rates am 17.05.2018
+- TOP 4.: Bergische Gesellschaft für Ressourceneffizienz mbH – Umstrukturierung Gesellschaftsanteile und Änderung Gesellschaftsvertrag
+- TOP 5.: Gründung der Trianel Energieprojekte GmbH & Co. KG und der Trianel Energieprojekte Verwaltungs GmbH als Komplementär-GmbH durch die Trianel GmbH
+- TOP 6.: Vergabe von Planungsleistungen (Freiraumplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW ) im Rahmen eines VgV-Verfahrens
+- TOP 6.1: Vergabe von Planungsleistungen (Freiraumplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW ) im Rahmen eines VgV-Verfahrens
+- TOP 7.: Vergabe von Architektenleistungen (Museumsplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VgV-Verfahrens
+- TOP 7.1: Vergabe von Architektenleistungen (Museumsplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VgV-Verfahrens
+- TOP 8.: Weitergabe von Krediten an die Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 9.: Wahl der Haupt- und Hilfsschöffinnen und -schöffen für die Amtszeit vom 01.01.2019 bis 31.12.2023 für die Strafkammern (einschließlich Schwurgericht – ohne Jugendkammern) des Landgerichts Wuppertal für die Schöffengerichte des Landgerichtsbezirks Wuppertal
+- TOP 10.: Verschiedenes
+- TOP 10.1: Mitteilungen der Verwaltung
+- TOP 10.2: Anfragen an die Verwaltung
