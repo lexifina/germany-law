@@ -1,0 +1,75 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2018-06-29T16:00:00+02:00
+- Ende: 2018-06-29T20:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4351
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4351
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Mühlenstraße: Straßenwiederherstellung nach Kanalbau nach Stand der Technik - einstimmig zugestimmt
+- TOP 6: Umbau Einmündung Weckhovener Straße/Carlo-Mierendorff-Straße - einstimmig zugestimmt
+- TOP 7: Knotenpunkt Breite Straße/Hesemannstraße: Aufweitung des Gehweges Breite Straße - einstimmig zugestimmt
+- TOP 8: Römerstraße, Stichweg: Herstellung eines Gehweges zur fußläufigen Erschließung der Kita Römerstraße - einstimmig zugestimmt
+- TOP 9: Stichwege Erich-Hoepner-Straße: Straßenwiederherstellung nach Verl. Versorgungsleitungen u. Kanalsan - einstimmig zugestimmt
+- TOP 10: Stichweg Daimlerstraße: Straßenwiederherstellung nach Verlegung Versorgungsleitungen - einstimmig zugestimmt
+- TOP 11: Ersatzneubau Brücke "Gut Nixhof" über die Erft - einstimmig zugestimmt
+- TOP 12: Grunderneuerung Brücke Burggraben - einstimmig zugestimmt
+- TOP 13: Hülchrather Straße: Barrierefreier Umbau der Bushaltestelle "Hülchrather Straße" - einstimmig zugestimmt
+- TOP 14: Nachrüstung vorhandener Bushaltestellen mit taktilen Elementen (2. Maßnahmenpaket) - einstimmig zugestimmt
+- TOP 15: Oberstraße, Straßenbahnhaltestellen Markt: Nachrüstung mit taktilen Elementen - einstimmig zugestimmt
+- TOP 16: Fichtestraße / Olympiastraße: Straßenwiederherstellung nach Kanalsanierung - einstimmig zugestimmt
+- TOP 17: Schulorganisatorische Maßnahmen, befr. Teilstandort Gesamtschule Nordstadt - einstimmig zugestimmt
+- TOP 18: Vorgeschlagene Änderungen der Satzung Elternbeiträge für Angebote der offenen - einstimmig zugestimmt
+- TOP 19: Nievenheimer Straße (L 380): Querungsstelle als ergänzende Erschließung des B-Plangebietes 460 - einstimmig zugestimmt
+- TOP 20: BP 449/0/1 - Holzheim, Blausteinsweg Nord (Mehrfamilienhäuser) - einstimmig zugestimmt
+- TOP 21: Feststellung des Jahresabschlusses 2017 der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2017 - einstimmig zugestimmt
+- TOP 22: Verlängerung des Mandats für die Jahresabschlussprüfung bei den Städtischen Friedhöfen Neuss (SFN) - einstimmig zugestimmt
+- TOP 23: Änderung Hauptsatzung wegen Mindestlohn - einstimmig zugestimmt
+- TOP 24: Steigerung der Attraktivität und Leistungsfähigkeit der Freiwilligen Feuerwehr - einstimmig zugestimmt
+- TOP 25: 11. Satzung zur Änderung der Verwaltungsgebührensatzung - mehrheitlich zugestimmt
+- TOP 26: Umsetzung des Glücksspielstaatsvertrages - einstimmig zugestimmt
+- TOP 27: Haus der Jugend; hier: Sanierungskonzept - einstimmig zugestimmt
+- TOP 28: Jugendhilfeplanung "Kindertagesbetreuung", hier: Bedarfsplan Kindertagesbetreuung 2018/2019 ff. - einstimmig zugestimmt
+- TOP 28.1: Jugendhilfeplanung „Kindertagesbetreuung“, hier: Bau einer Kita auf dem Dach eines Park-hauses - einstimmig zugestimmt
+- TOP 29: Bebauungsplan Nr. 495 – Furth-Süd, Further Straße / Josefstraße – - einstimmig zugestimmt
+- TOP 30: 130. FNP-Ä - Hammfeld II West - einstimmig zugestimmt
+- TOP 31: Bebauungsplan Nr. 490 - Hammfeld II (West), Möbelfachmarkt - Satzung - einstimmig zugestimmt
+- TOP 32: VBP Nr. V 41/1 - Furth-Süd, Weißenberger Weg - - einstimmig zugestimmt
+- TOP 33: BP Nr. 131/6/1 - Stresemannallee, Hammfelddamm - Auslegung - einstimmig zugestimmt
+- TOP 34: BP Nr. 476 - Augustinusviertel, Hammfelddamm, Alexianerplatz - (Leuchtenberg) Auslegung - einstimmig zugestimmt
+- TOP 35: BP 120/19 Weckhoven, Otto-Wels-Str. erneute Aufstellung - einstimmig zugestimmt
+- TOP 36: Veränderungssperre Nr. 38 zu BP 120/19 Otto-Wels-Str. - einstimmig zugestimmt
+- TOP 37: „Botanischer Garten“ - - einstimmig zugestimmt
+- TOP 38: Bebauungsplan Nr. 460 - Norf, Nievenheimer Straße - - einstimmig zugestimmt
+- TOP 39: Weiterentwicklung Gründungsstandort Neuss - einstimmig zugestimmt
+- TOP 40: Jahresabschluss 2017 der Liegenschaften u. Vermessung Neuss (LVN) und Gewinnverwendungsbeschluss - mehrheitlich zugestimmt
+- TOP 40.1: Dienstreisegenehmigung Expo Real 2018 vom 08. - 10.10.2018 - mehrheitlich zugestimmt
+- TOP 41: Konferenz der Ratsmitglieder im Städtetag NRW am 12.12.2018 in Köln - einstimmig zugestimmt
+- TOP 42: Aufstellung der Vorschlagsliste für die Wahl der Schöffinnen und Schöffen - einstimmig zugestimmt
+- TOP 43: Vertrag mit der Jüdischen Gemeinde - mehrheitlich zugestimmt
+- TOP 44: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften - einstimmig zugestimmt
+- TOP 45: Zukunftskommission Digitale Agenda - mehrheitlich zugestimmt
+- TOP 46: Antrag der AfD-Fraktion betr. Bevorrechtigung ÖPNV - mehrheitlich abgelehnt
+- TOP 47: Antrag der SPD-Fraktion betr. Insektensterben - verwiesen
+- TOP 48: Antrag der SPD-Fraktion betr. Baggersee Am Blankenwasser entwickeln - verwiesen
+- TOP 49: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Breitbandausbau in Neuss beschleunigen II - einstimmig zugestimmt
+- TOP 50: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Kinderarmut wirksam bekämpfen - Stadtteilk - verwiesen
+- TOP 50.1: Dringlichkeitsantrag der SPD-Fraktion betr. Einbau eines automatischen Torantriebs in der Fahrzeugha - zur Kenntnis genommen
+- TOP 51: Anfrage von Herrn STV Baum betr. Feuerwache Hoisten - zur Kenntnis genommen
+- TOP 52: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 52.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53: Kenntnisnahme üpl./apl. IV/2017 - I/2018 - zur Kenntnis genommen
+- TOP 54: Sachstand zur Situation KiTa-Versorgung 2018/2019 - zur Kenntnis genommen
+- TOP 55: Korrektur von Ratsniederschriften - zur Kenntnis genommen
+- TOP 56: Einwohnerfragestunde - zur Kenntnis genommen
