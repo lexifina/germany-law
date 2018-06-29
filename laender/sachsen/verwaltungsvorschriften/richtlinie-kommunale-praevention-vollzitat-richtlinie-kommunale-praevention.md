@@ -1,0 +1,265 @@
+# Richtlinie Kommunale Prävention Vollzitat: Richtlinie Kommunale Prävention
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 2018-06-29 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17736.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+Zur Portalnavigation
+
+Zum Hauptinhalt
+
+Zum Footer-Bereich
+
+REVOSax – Landesrecht Sachsen
+
+Portalnavigation
+
+REVOSax
+
+Hauptinhalt
+
+Historische Fassung
+
+war gültig vom
+29.06.2018
+bis
+31.12.2019
+
+Richtlinie Kommunale Prävention
+
+Vollzitat: Richtlinie Kommunale Prävention vom 12. Juni 2018 (SächsABl. S. 811), die zuletzt durch die Richtlinie vom 31. Mai 2023 (SächsABl. S. 655) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 25. November 2025 (SächsABl. SDr. S. S 212)
+
+I.
+Zuwendungszweck und Rechtsgrundlage
+
+
+1.
+
+
+Der Freistaat Sachsen gewährt nach Maßgabe dieser Richtlinie sowie den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere §§ 23, 44 und 44a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 (SächsGVBl. S. 630) geändert worden ist, in der jeweils geltenden Fassung, und den dazu erlassenen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 3. Januar 2018 (SächsABl. S. 132, 453) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), in der jeweils geltenden Fassung, Zuwendungen zur Unterstützung kommunaler Gebietskörperschaften bei der Bildung und Etablierung kommunalpräventiver Gremien sowie bei der kommunalpräventiven Arbeit zur Gewährleistung von Sicherheit und Ordnung.
+
+
+2.
+
+
+Ziel der Förderung ist es, Anreize zu eigenen Aktivitäten zum Aufbau kommunalpräventiver Strukturen zu schaffen sowie kommunalpräventive Projekte und Maßnahmen zur Stärkung der Sicherheit und Ordnung zu unterstützen.
+
+
+3.
+
+
+Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Vielmehr entscheidet die Bewilligungsbehörde auf Grund ihres pflichtgemäßen Ermessens im Rahmen der verfügbaren Haushaltsmittel. Eine Förderung von Projekten und Maßnahmen nach dieser Richtlinie eröffnet keinen Rechtsanspruch auf eine Förderung von Folgeprojekten und -maßnahmen.
+
+
+II.
+Gegenstand der Förderung
+
+
+Gefördert werden Präventionsprojekte, die unmittelbar oder mittelbar zur Vorbeugung von Kriminalität und zur Stärkung der öffentlichen Sicherheit und Ordnung beitragen.
+
+Priorität haben dabei Projekte und Maßnahmen, die
+
+
+1.
+
+sich als Erfordernis aus aktuellen Kriminalitätslagebildern und kriminalgeografischen Entwicklungen ableiten,
+
+
+2.
+
+dazu beitragen, kriminalpräventive Tendenzen zur erkennen und Ansätze für Präventionsstrategien zu entwickeln,
+
+
+3.
+
+der Vernetzung von Akteuren oder Aktivitäten mit dem Ziel dienen, Initiativen, Finanzen und Personal sinnvoll und ressourcenschonend zu bündeln,
+
+
+4.
+
+unmittelbar durch die kommunalpräventiven Gremien vor Ort geplant und umgesetzt werden oder
+
+
+5.
+
+im Rahmen einer Evaluation eine Erfolgskontrolle der Präventionsarbeit ermöglichen.
+
+
+III.
+Zuwendungsempfänger
+
+
+Zuwendungsempfänger im Sinne dieser Richtlinie sind grundsätzlich kommunale Gebietskörperschaften einschließlich ihrer Eigenbetriebe. Eine vollumfängliche oder teilweise
+
+Weiterleitung der Zuwendung an nicht-staatliche Organisationen ist möglich, wobei ausschließlich der Zuwendungsbescheid die Gestattung der Weiterleitung regelt.
+
+
+IV.
+Zuwendungsvoraussetzungen
+
+
+1.
+
+Förderfähig sind Projekte und Maßnahmen, die im Freistaat Sachsen durchgeführt werden.
+
+
+2.
+
+Vor Antragstellung ist eine Beratung durch die Geschäftsstelle des Landespräventionsrates im Freistaat Sachsen verpflichtend.
+
+
+V.
+Art, Umfang und Höhe der Zuwendung
+
+
+1.
+
+Zuwendungsart
+Zuwendungen werden als Projektförderung gewährt.
+
+
+2.
+
+Finanzierungsart
+
+Zuwendungen werden regelmäßig als Anteilsfinanzierung bewilligt, wobei der Förderanteil des Freistaates Sachsen bis zu 90 Prozent der zuwendungsfähigen Ausgaben betragen
+
+kann. Im Ausnahmefall ist die Gewährung der Zuwendung im Rahmen einer Festbetragsfinanzierung zugelassen.
+
+
+3.
+
+Form der Zuwendung
+
+Die Zuwendung wird als zweckgebundener, nicht rückzahlbarer Zuschuss gewährt.
+
+
+4.
+
+Bemessungsgrundlage
+
+Bemessungsgrundlage für die Höhe der Zuwendung sind die für das Projekt oder die Maßnahme als zuwendungsfähig anerkannten Ausgaben. Zuwendungsfähig sind die Personal- und Sachausgaben, die für die Erreichung des Zuwendungszwecks notwendig sind. Nicht zuwendungsfähig sind investive Ausgaben.
+
+
+5.
+
+Eigenanteil
+
+Voraussetzung für eine Förderung ist die Erbringung eines Eigenanteils durch die Kommunen. Als Eigenanteil wird dabei auch die Bereitstellung von kommunalem Personal sowie von Sachmitteln innerhalb der Kommunalverwaltung für die Steuerung des kommunalen Präventionsgremiums anerkannt.
+
+
+VI.
+Verfahren
+
+
+1.
+
+Bewilligungsbehörde ist das Staatsministerium des Innern, Geschäftsstelle des Landespräventionsrates im Freistaat Sachsen.
+
+
+2.
+
+Der Antrag auf Gewährung einer Zuwendung ist schriftlich unter Verwendung des Formblatts Muster 1a zu § 44 der Sächsischen Haushaltsordnung in einfacher Fertigung ab 31.August bis spätestens 15.Oktober des laufenden Jahres für das Folgejahr bei der Bewilligungsbehörde einzureichen.
+
+Im begründeten Einzelfall kann die Bewilligungsbehörde auch über Anträge entscheiden, die zu einem späteren Zeitpunkt eingereicht werden. In diesen Fällen ist der Antrag mindestens sechs Wochen vor Beginn des Projektes bei der Bewilligungsbehörde einzureichen.
+
+
+3.
+
+Dem Antrag sind beizufügen:
+
+
+a)
+
+eine ausführliche Projektbeschreibung, die sich an den Beccaria-Standards zur Qualitätssicherung kriminalpräventiver Projekte orientiert (https://beccariatest.files.wordpress.com/2011/10/beccaria-standards_brosch_de-neu.pdf) sowie
+
+
+b)
+
+ein Finanzierungsplan.
+
+
+Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen anzufordern.
+
+
+4.
+
+Die Genehmigung zum förderunschädlichen vorzeitigen Vorhabensbeginn kann im Einzelfall auf schriftlichen Antrag erteilt werden.
+
+
+5.
+
+Die Bewilligungsbehörde prüft die Förderfähigkeit und entscheidet über die Gewährung der Zuwendung. Die Bewilligung erfolgt durch schriftlichen Zuwendungsbescheid.
+
+
+6.
+
+Die Auszahlung der bewilligten Mittel erfolgt auf Antrag.
+
+
+7.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen werden.
+
+
+VII.
+Inkrafttreten
+
+
+Diese Richtlinie tritt am Tag nach der Veröffentlichung in Kraft.
+
+
+Dresden, den 12. Juni 2018
+
+
+Der Staatsminister des Innern
+
+Prof. Dr. Roland Wöller
+
+
+Verweis auf Bundesgesetze
+
+Fundstelle und systematische Gliederungsnummer
+
+SächsABl. 2018 Nr. 26, S. 811
+
+Fsn-Nr.: 551-V18.3
+
+Gültigkeitszeitraum
+
+Fassung gültig ab: 29. Juni 2018
+
+Fassung gültig bis: 31. Dezember 2019
+
+Drucken/Speichern
+
+HTML-Gesamtansicht
+
+Vorschrift als PDF
+
+Einzeldruck
+
+Hilfe
+
+Hilfe
+
+Hilfe zu Historische Fassungen
+
+Fragen und Antworten
+
+Barrierefreiheit
+
+|  |
+
+|  |
+
+Quelle: REVOSax
+https://www.revosax.sachsen.de/vorschrift/17736.1
+Stand vom
+18.11.2026
+
+Herausgeber: Sächsische Staatskanzlei https://www.sk.sachsen.de/
