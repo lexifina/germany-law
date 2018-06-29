@@ -101,4 +101,5 @@ Teil 7 Übergangs- und Schlussbestimmungen
 § 70a | Förderzentrum
 § 71 | Zweijähriger Bildungsgang Berufseingangsstufe/Berufsfachschule
 § 72 | Werkschulen
+§ 72a | Schuljahre 2018/2019 und 2019/2020
 § 73 | Inkrafttreten
