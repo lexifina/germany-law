@@ -3,7 +3,7 @@ Vom 16. Oktober 2014
 Aufgrund von Artikel 2 der Dritten Verordnung der Sächsischen Staatsregierung zur Änderung der Zuständigkeitsübertragungsverordnung Justiz vom 16. Juni 2014 (SächsGVBl. S. 329) wird nachstehend der Wortlaut der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz und für Europa (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) in der ab dem 5. Juli 2014 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
 I. die Fassung der Bekanntmachung der Verordnung vom 25. März 2013 (SächsGVBl. S. 209),
 II. die am 12. Oktober 2013 in Kraft getretene Verordnung vom 11. September 2013 (SächsGVBl. S. 778),
-III. die am 5. Juli 2014 nach ihrem Artikel 3 in Kraft getretene eingangs genannte Verordnung .
+III. die am 5. Juli 2014 nach ihrem Artikel 3 in Kraft getretene eingangs genannte Verordnung.
 Die Rechtsvorschriften wurden erlassen aufgrund von
 zu II. 1.
 § 1 Abs. 3, § 2 Abs. 3 Satz 3, Abs. 5, § 81 Abs. 4 Satz 1, 2 und 4, § 126 Abs. 1 Satz 3, § 127 Abs. 1, § 135 Abs. 3, § 140 Abs. 1 Satz 3 und 4 sowie § 148 Abs. 2 Satz 4 Halbsatz 2 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114), die zuletzt durch Artikel 5 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1800) geändert worden ist,
