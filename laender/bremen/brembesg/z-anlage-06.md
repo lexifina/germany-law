@@ -2,12 +2,12 @@
 Anlage 6
 Amtszulagen, Stellenzulagen, Zulagen
 (Monatsbeträge in Euro) in der Reihenfolge der Gesetzestabellen
-Gültig ab 01. Januar 2018
+Gültig ab 01. Juli 2018
 Zulagen dem Grunde nach geregelt in | Betrag in Euro | 
 § 42 Abs: 1 (Allgemeine Stellenzulage) |  | 
-Nr. 1 Buchstabe a | 20,46 | 
-Nr. 1 Buchstabe b | 80,04 | 
-Nr. 2 | 88,95 | 
+Nr. 1 Buchstabe a | 20,94 | 
+Nr. 1 Buchstabe b | 81,92 | 
+Nr. 2 | 91,04 | 
 § 43 (Sicherheitszulage) Die Zulage beträgt für Beamtinnen und Beamte der Besoldungsgruppen |  | 
 A 3 bis A 5 | 115,04 | 
 A 6 bis A 9 | 153,39 | 
@@ -28,32 +28,32 @@ der Laufbahngruppe 2 | 38,35 |
 § 51 (Zulage bei mehreren Ämtern) wenn ein Amt ausgeübt wird |  | 
 in der Besoldungsgruppe R 1 | 205,54 | 
 in der Besoldungsgruppe R 2 | 230,08 | 
-§ 70 (Leitung untere Verwaltungsbehörden) | 216,11 | 
+§ 70 (Leitung untere Verwaltungsbehörden) | 221,19 | 
 Besoldungsordnungen A und B |  | 
-Besoldungsgruppen | Fußnote | 
-A 4 | 2 | 70,48
-A 5 | 2 | 70,48
-A 6 | 2 | 38,20
-A 9 | 1 | 284,48
+Besoldung | Fußnote | 
+A 4 | 2 | 72,14
+A 5 | 2 | 72,14
+A 6 | 2 | 39,10
+A 9 | 1 | 291,17
 A 10 | 3, 4 | 25,56
 A 11 | 1, 2 | 25,56
 A 12 | 3 | 25,56
- | 7 | 161,07
-A 12a | 2 | 25,56
- | 5 | 161,07
-A 13 | 1, 9, 10 | 281,83
- | 12 | 193,22
- | 14 -kw- | 173,93
- | 15 | 86,73
-A 14 | 2 | 193,22
-A 15 | 1 | 128,84
- | 4 | 193,22
- | 6 | 321,98
- | 7 -kw- | 357,22
-A 16 | 3 | 216,11
+ | 7 | 164,86
+A 12 a | 2 | 25,56
+ | 5 | 164,86
+A 13 | 1, 9, 10 | 288,45
+ | 12 | 197,76
+ | 14 -kw - | 178,02
+ | 15 | 88,77
+A 14 | 2 | 197,76
+A 15 | 1 | 131,87
+ | 4 | 197,76
+ | 6 | 329,55
+ | 7 -kw - | 365,61
+A 16 | 3 | 221,19
 Besoldungsordnung R |  | 
-Besoldungsgruppen | Fußnote | 
-R 1 | 1, 2 | 213,63
-R 2 | 1, 2, 6, 7, 8 | 213,63
- | 3 | 346,04
-R 3 | 1 | 213,63
+Besoldung | Fußnote | 
+R 1 | 1, 2 | 218,65
+R 2 | 1, 2, 6, 7, 8 | 218,65
+ | 3 | 354,17
+R 3 | 1 | 218,65
