@@ -24,3 +24,7 @@ Nummer | Gericht | Verfahrensbereich | Datum
 19. | Amtsgericht Kamenz | Grundbuchsachen | 1. Mai 2018
 20. | Amtsgericht Riesa | Grundbuchsachen | 1. Mai 2018
 21. | Amtsgericht Zwickau | Grundbuchsachen | 1. Mai 2018
+22. | Amtsgericht Borna | Grundbuchsachen | 1. Juli 2018
+23. | Amtsgericht Dippoldiswalde | Grundbuchsachen | 1. Juli 2018
+24. | Amtsgericht Döbeln | Grundbuchsachen | 1. Juli 2018
+25. | Amtsgericht Weißwasser | Grundbuchsachen | 1. September 2018

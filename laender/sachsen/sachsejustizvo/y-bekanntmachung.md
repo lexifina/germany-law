@@ -15,12 +15,12 @@ b)
 c)
 § 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 d)
-§ 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 22 des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026, 2043) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 desHandelsgesetzbuchs und § 1 Nr. 25ZustÜVOJu,
+§ 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 22 des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026, 2043) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25ZustÜVOJu,
 zu 2. § 65a Abs. 1 Satz 1 des Sozialgerichtsgesetzes (SGG) in der Fassung der Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), das zuletzt durch Artikel 2 des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2262, 2271) geändert worden ist, in Verbindung mit § 1 Nr. 38 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz (Zuständigkeitsübertragungsverordnung Justiz –ZustÜVOJu) vom 7. November 2007 (SächsGVBl. S. 501), zuletzt geändert durch Artikel 1 der Verordnung vom 7. Januar 2011 (SächsGVBl. S. 12),
 zu 3. a)
-§ 8a Abs. 2 Satz 1 desHandelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 8 des Gesetzes vom 1. März 2011 (BGBl. I S. 288, 307) geändert worden ist, in Verbindung mit § 1 Nr. 25 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz und für Europa (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) vom 7. November 2007 (SächsGVBl. S. 501), die zuletzt durch Artikel 1 der Verordnung vom 7. Januar 2011 (SächsGVBl. S. 12) geändert worden ist,
+§ 8a Abs. 2 Satz 1 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 8 des Gesetzes vom 1. März 2011 (BGBl. I S. 288, 307) geändert worden ist, in Verbindung mit § 1 Nr. 25 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz und für Europa (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) vom 7. November 2007 (SächsGVBl. S. 501), die zuletzt durch Artikel 1 der Verordnung vom 7. Januar 2011 (SächsGVBl. S. 12) geändert worden ist,
 b)
-§ 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 desHandelsgesetzbuchs und § 1 Nr. 25ZustÜVOJu,
+§ 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 10 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1124) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25ZustÜVOJu,
 c)
 § 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 22 des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026, 2043) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 d)
@@ -32,7 +32,7 @@ f)
 g)
 § 9 Abs. 4 Satz 1 des Gesetzes über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (Kapitalanleger-Musterverfahrensgesetz – KapMuG) vom 16. August 2005 (BGBl. I S. 2437), das durch Artikel 12 des Gesetzes vom 5. Januar 2007 (BGBl. I S. 10, 31) geändert worden ist, in Verbindung mit § 1 Nr. 30ZustÜVOJu,
 h)
-§ 110a Abs. 2 Satz 1 desGesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353, 2354) geändert worden ist, in Verbindung mit § 1 Nr. 34 ZustÜVOJu,
+§ 110a Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353, 2354) geändert worden ist, in Verbindung mit § 1 Nr. 34 ZustÜVOJu,
 i)
 § 41a Abs. 2 Satz 1 der Strafprozessordnung (StPO) in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 5 des Gesetzes vom 23. Juni 2011 (BGBl. I S. 1266, 1269) geändert worden ist, in Verbindung mit § 1 Nr. 14ZustÜVOJu,
 zu 4. a)
@@ -42,7 +42,7 @@ b)
 c)
 § 9 Abs. 4 Satz 1 des Gesetzes über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (Kapitalanleger-Musterverfahrensgesetz – KapMuG) vom 16. August 2005 (BGBl. I S. 2437), das zuletzt durch Artikel 2 Abs. 28 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3048) geändert worden ist, in Verbindung mit § 1 Nr. 30ZustÜVOJu,
 d)
-§ 110a Abs. 2 Satz 1 desGesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353, 2354) geändert worden ist, in Verbindung mit § 1 Nr. 34ZustÜVOJu,
+§ 110a Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353, 2354) geändert worden ist, in Verbindung mit § 1 Nr. 34ZustÜVOJu,
 e)
 § 41a Abs. 2 Satz 1 der Strafprozessordnung (StPO) in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 2 Abs. 30 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3048) geändert worden ist, in Verbindung mit § 1 Nr. 14ZustÜVOJu,
 f)
@@ -56,21 +56,21 @@ c)
 d)
 § 9 Abs. 4 Satz 1 des Gesetzes über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten (Kapitalanleger-Musterverfahrensgesetz –KapMuG) vom 16. August 2005 (BGBl. I S. 2437), das zuletzt durch Artikel 2 Abs. 28 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3046) geändert worden ist, in Verbindung mit § 1 Nr. 30ZustÜVOJu,
 e)
-§ 110a Abs. 2 Satz 1 desGesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353, 2354) geändert worden ist, in Verbindung mit § 1 Nr. 34ZustÜVOJu,
+§ 110a Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten (OWiG) in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), das zuletzt durch Artikel 2 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2353, 2354) geändert worden ist, in Verbindung mit § 1 Nr. 34ZustÜVOJu,
 f)
 § 41a Abs. 2 Satz 1 der Strafprozessordnung (StPO) in der Fassung der Bekanntmachung vom 7. April 1987 (BGBl. I S. 1074, 1319), die zuletzt durch Artikel 2 Abs. 30 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3046) geändert worden ist, in Verbindung mit § 1 Nr. 14 ZustÜVOJu,
 g)
 § 55a Abs. 1 Satz 1 der Verwaltungsgerichtsordnung (VwGO) in der Fassung der Bekanntmachung vom 19. März 1991 (BGBl. I S. 686), die zuletzt durch Artikel 5 Abs. 2 des Gesetzes vom 24. Februar 2012 (BGBl. I S. 212, 248) geändert worden ist, in Verbindung mit § 1 Nr. 44 ZustÜVOJu,
 h)
-§ 46c Abs. 2 Satz 1 desArbeitsgerichtsgesetzes in der Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036), das zuletzt durch Artikel 6 des Gesetzes vom 24. November 2011 (BGBl. I S. 2302, 2305) geändert worden ist, in Verbindung mit § 1 Nr. 5 ZustÜVOJu,
+§ 46c Abs. 2 Satz 1 des Arbeitsgerichtsgesetzes in der Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036), das zuletzt durch Artikel 6 des Gesetzes vom 24. November 2011 (BGBl. I S. 2302, 2305) geändert worden ist, in Verbindung mit § 1 Nr. 5 ZustÜVOJu,
 i)
 § 52a Abs. 1 Satz 1 der Finanzgerichtsordnung (FGO) in der Fassung der Bekanntmachung vom 28. März 2001 (BGBl. I S. 442, 2262, 2002 I S. 679), die zuletzt durch Artikel 2 Abs. 35 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3046) geändert worden ist, in Verbindung mit § 1 Nr. 15 ZustÜVOJu,
 zu 6. a)
 § 8a Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 4. Oktober 2013 (BGBl. I S. 3746) geändert worden ist, in Verbindung mit § 1 Nr. 25 der Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten im Bereich der Rechtspflege auf das Sächsische Staatsministerium der Justiz und für Europa (Zuständigkeitsübertragungsverordnung Justiz – ZustÜVOJu) in der Fassung der Bekanntmachung vom 25. März 2013 (SächsGVBl. S. 209), die durch Verordnung vom 11. September 2013 (SächsGVBl. S. 778) geändert worden ist,
 b)
-§ 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 8 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379, 2385) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 und 2 desHandelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
+§ 156 Abs. 1 Satz 1 des Gesetzes betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz – GenG) in der Fassung der Bekanntmachung vom 16. Oktober 2006 (BGBl. I S. 2230), das zuletzt durch Artikel 8 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379, 2385) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 c)
-§ 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 1 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2386) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 und 2 desHandelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
+§ 5 Abs. 2 des Gesetzes über Partnerschaftsgesellschaften Angehöriger Freier Berufe (Partnerschaftsgesellschaftsgesetz – PartGG) vom 25. Juli 1994 (BGBl. I S. 1744), das zuletzt durch Artikel 1 des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2386) geändert worden ist, in Verbindung mit § 8a Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs und § 1 Nr. 25 ZustÜVOJu,
 d)
 § 55a Abs. 1 Satz 1 des Bürgerlichen Gesetzbuches (BGB) in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909, 2003 I S. 738), das zuletzt durch Artikel 4 Abs. 5 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3719, 3726) geändert worden ist, in Verbindung mit § 1 Nr. 11 ZustÜVOJu,
 e)

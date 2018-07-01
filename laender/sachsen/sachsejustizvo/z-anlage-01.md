@@ -13,10 +13,13 @@ Nummer | Gericht | Verfahrensbereich | Datum
 8. | Amtsgericht Chemnitz | Handels-, Genossenschafts- und Partnerschaftsregister | 1. Januar 2007
 Straf- und Ordnungswidrigkeitenverfahren | 1. August 2012
 Grundbuchsachen | 1. April 2017
+Insolvenzverfahren, soweit gemäß § 5 Absatz 4 InsO Tabellen und Verzeichnisse sowie die dazugehörigen Dokumente eingereicht werden | 1. Juli 2018
 9. | Amtsgericht Dresden | Handels-, Genossenschafts- und Partnerschaftsregister | 1. Januar 2007
 Straf- und Ordnungswidrigkeitenverfahren | 1. April 2012
 Grundbuchsachen | 1. April 2014
+Insolvenzverfahren, soweit gemäß § 5 Absatz 4 InsO Tabellen und Verzeichnisse sowie die dazugehörigen Dokumente eingereicht werden | 1. Juli 2018
 10. | Amtsgericht Leipzig | Handels-, Genossenschafts- und Partnerschaftsregister | 1. Januar 2007
+Insolvenzverfahren, soweit gemäß § 5 Absatz 4 InsO Tabellen und Verzeichnisse sowie die dazugehörigen Dokumente eingereicht werden | 1. Juli 2018
 Straf- und Ordnungswidrigkeitenverfahren | 1. Februar 2012
 Grundbuchsachen | 1. Februar 2015
 11. | Amtsgericht Aue | Straf- und Ordnungswidrigkeitenverfahren | 1. August 2012
@@ -26,8 +29,11 @@ Grundbuchsachen | 1. Oktober 2017
 13. | Amtsgericht Bautzen | Straf- und Ordnungswidrigkeitenverfahren | 1. Oktober 2012
 Grundbuchsachen | 1. Juni 2017
 14. | Amtsgericht Borna | Straf- und Ordnungswidrigkeitenverfahren | 1. Februar 2012
+Grundbuchsachen | 1. Juli 2018
 15. | Amtsgericht Dippoldiswalde | Straf- und Ordnungswidrigkeitenverfahren | 1. April 2012
+Grundbuchsachen | 1. Juli 2018
 16. | Amtsgericht Döbeln | Straf- und Ordnungswidrigkeitenverfahren | 1. August 2012
+Grundbuchsachen | 1. Juli 2018
 17. | Amtsgericht Eilenburg | Straf- und Ordnungswidrigkeitenverfahren | 1. November 2011
 Grundbuchsachen | 1. August 2017
 18. | Amtsgericht Freiberg | Straf- und Ordnungswidrigkeitenverfahren | 1. August 2012
@@ -55,6 +61,7 @@ Grundbuchsachen | 1. Mai 2018
 29. | Amtsgericht Torgau | Straf- und Ordnungswidrigkeitenverfahren | 1. Februar 2012
 Grundbuchsachen | 1. Oktober 2017
 30. | Amtsgericht Weißwasser | Straf- und Ordnungswidrigkeitenverfahren | 1. Dezember 2012
+Grundbuchsachen | 1. September 2018
 31. | Amtsgericht Zittau | Straf- und Ordnungswidrigkeitenverfahren | 1. Dezember 2012
 Grundbuchsachen | 1. März 2018
 32. | Amtsgericht Zwickau | Straf- und Ordnungswidrigkeitenverfahren | 1. November 2011
