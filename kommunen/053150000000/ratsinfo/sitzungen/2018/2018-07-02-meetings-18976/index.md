@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-07-02T16:00:00+02:00
+- Ende: 2018-07-02T19:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18976
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18976
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00670608.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00670608.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00670608.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gemäß § 24 GO einer Eigentümer- bzw. Erbengemeinschaft aus dem Bereich Meister-Ekkehart-Straße hinsichtlich einer möglichen Häufung von Nutzungen der Uniwiese und der sich damit ergebenden Beeinträchtigungen - geändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Fuß- und Radweg Rautenstrauchkanal, Köln-Lindenthal (Az.: 02-1600-17/18) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Werbesäulen - Kenntnis genommen
+- TOP 7.1.2: Bauvorhaben Stolberger Straße und Eupener Straße; Anfrage der Fraktionen CDU, SPD und Bündnis 90/Die Grünen - Kenntnis genommen
+- TOP 7.1.3: Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gefahrenbewertung zum Neubauprojekt am Clarenbachplatz in Köln-Braunsfeld - Kenntnis genommen
+- TOP 7.2.2: Sanierungsarbeiten auf der Bert-Fenger-Straße - Kenntnis genommen
+- TOP 7.2.3: Vorkaufsrecht Weidener Bogen - Kenntnis genommen
+- TOP 7.2.4: Bebauung Clarenbachplatz - Kenntnis genommen
+- TOP 7.2.5: Statikgutachten zu Bauvorhaben der GWG Köln-Sülz - Kenntnis genommen
+- TOP 7.2.6: Arbeiten im Bereich des geplanten RheinEnergieSportparkes - Kenntnis genommen
+- TOP 7.2.7: Kontrolle des Ordnungsamtes auf der Jahnwiese in Köln Müngersdorf - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Assistenz Systeme für Fahrzeuge der AWB - ungeändert beschlossen
+- TOP 8.1.2: Rückschnitt von Sträuchern, Hecken und Bäumen - zurückgestellt
+- TOP 8.1.3: P&R Haus Vorst - geändert beschlossen
+- TOP 8.1.4: Fahrradständer Wendehammer Margueritenweg - ungeändert beschlossen
+- TOP 8.1.5: Sicherheit auf dem Fußgängerüberweg Aachener Str. in Höhe der Bahnanlage der HGK - ungeändert beschlossen
+- TOP 8.1.6: Verbesserung der Beleuchtungssituation in der Bahnunterführung Weißhausstraße/Pohligstraße - ungeändert beschlossen
+- TOP 8.1.7: Aufzug Weiden West - ungeändert beschlossen
+- TOP 8.1.8: Erweiterung der Erholungszone Stadtwald - geändert beschlossen
+- TOP 8.1.9: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.10: Schulweg Wasseramselweg - ungeändert beschlossen
+- TOP 8.1.11: Gewichtsbegrenzungsschilder Gleueler Brücke - ungeändert beschlossen
+- TOP 8.1.12: 2. Änderungsantrag Stadtklima/Stadtverschönerungsmittel 2017 Bereich Bereich Aachener Strasse Braunsfeld - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Demontage der Lichtsignalanlagen Kerpener Straße/Weyertal und Kerpener Straße/Josef-Stelzmann-Straße und Ersatz durch alternative Betriebsformen - ungeändert beschlossen
+- TOP 9.1.2: Benennung von zwei Planstraßen im Baugebiet Ludwig-Jahn-Straße in Köln-Junkersdorf - ungeändert beschlossen
+- TOP 9.1.3: Beschluss über die Planung und Durchführung von Maßnahmen auf den Kölner Schulhöfen im Rahmen des Landesförderprogramms "Gute Schule 2020" - ungeändert beschlossen
+- TOP 9.1.4: Dachsanierung am Umkleidehaus Nordfeld - ungeändert beschlossen
+- TOP 9.1.5: Sportanlage Salzburger Weg, Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert beschlossen
+- TOP 9.2.2: Nördlich Kronstädter Straße in Köln-Weiden; Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - zurückgestellt
+- TOP 9.2.3: Machbarkeitsstudie für konventionelle Wohnhäuser zur Flüchtlingsunterbringung auf dem Sportgelände an der Widdersdorfer Landstraße / Johanniterstraße, 50859 Köln-Lövenich - ungeändert beschlossen
+- TOP 9.2.4: Westlich Zülpicher Wall in Köln-Lindenthal; Einleitungsbeschluss - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Niederschrift der Sondersitzung des Rahmenplanungsbeirates vom 17.04.2018 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 11.3.2: Realisierung einer Gesamtschule im Stadtbezirk Lindenthal an den Teilstandorten Berrenrather Straße und Alter Militärring zum Schuljahr 2019/20 bei auslaufender Schließung der Elsa-Brändström-Realschule und der Ernst-Simons-Realschule - Kenntnis genommen
+- TOP 11.3.3: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 11.3.4: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - Kenntnis genommen
+- TOP 11.3.5: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 11.3.6: Schulweg Wasseramselweg - Kenntnis genommen
+- TOP 11.3.7: 15 Minuten kostenfreies Parken im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
