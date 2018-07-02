@@ -1,0 +1,71 @@
+# 33. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-07-02T17:00:00+02:00
+- Ende: 2018-07-02T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18840
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18840
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: barrierefreier Ausbau Linie 13 - zurückgestellt bis zur Sitzung am 10.09.2018- - zurückgestellt
+- TOP -: Verkehrsanbindung/Schulwegsicherung der Gesamtschule Wasseramselweg
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: "Boulevard Ehrenfeld" (Az.: 02-1600-76/17) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Versetztes Parken Nagelschmiedgasse (Az.: 02-1600-37/18) -zurückgestellt bis zur Sitzung am 10.09.2018- - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke, betr.: Sachstand Westfriedhof - Kenntnis genommen
+- TOP 6.1.1: Sachstand Sanierung Kriegsgräberanlage Westfriedhof - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion, betr.: Anfrage: Anlage von Baumscheiben auf dem Erlenweg als Maßnahme der Verkehrsberuhigung - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Zeitplan der „aktuellen Projekte“ für den Radverkehr in Ehrenfeld - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verlängerung der Stadtbahnlinie 5 - zurückgestellt
+- TOP 7.3: Anfrage der SPD-Fraktion, betr.: Querungshilfe Alexianer Werkstätten - Kenntnis genommen
+- TOP 7.3.1: Querungshilfe Alexianer Werkstätten - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Sicherung der Kreuzung Mühlenweg Mathias-Brüggen-Straße in Köln - Ossendorf - geändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion, betr.: Verkehrsberuhigung Kreuzung Akazienweg/Am Fliederbusch/Am Langen Stein - geändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Einrichtung von Betreuungsgruppen für Kinder in den freien Räumen der Flüchtlingsunterkunft Butzweilerhof. - geändert beschlossen
+- TOP 8.6: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Nachpflanzung eines abgestorbenen Baumes und Klärung des Vorgangs - Sache ist erledigt
+- TOP 8.6.1: Nachpflanzung eines abgestorbenen Baumes und Klärung des Vorgangs - Kenntnis genommen
+- TOP 8.7: Dringlichkeitsantrag der SPD-Fraktion, betr.: Bauvorhaben Liebigstraße - ungeändert beschlossen
+- TOP 8.8: Dringlichkeitsantrag der SPD-Fraktion, betr.: Erhalt der Postfiliale in Bickendorf, Am Haselbusch - geändert beschlossen
+- TOP 8.9: Dringlichkeitsantrag der Fraktion Die Linke, betr.: Fahrradabstellplätze Bahnhof Ehrenfeld - geändert beschlossen
+- TOP 8.10: Dringlichkeitsantrag der SPD-Fraktion, betr.: Neuordnung der öffentlichen Flächen vor dem Gebäude Ehrenfeldgürtel 125 - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Namensgebung der Katholischen Grundschule Wilhelm-Schreiber-Str. 56, 50827 Köln (Ossendorf) - geändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - zurückgestellt
+- TOP 10.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Geschäfts- und Wohngebäude Ehrenfeldgürtel 125 in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.2.1: Änderungsantrag der SPD-Fraktion - wurde unter TOP 8.10 behandelt
+- TOP 10.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.2: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 12.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.4: Werbesäulen - Kenntnis genommen
+- TOP 12.5: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 12.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.7: Entwicklung von neuen Kitas im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.8: Niederschrift der Sondersitzung des Rahmenplanungsbeirates vom 17.04.2018 - Kenntnis genommen
+- TOP 12.9: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 12.10: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - zurückgestellt
+- TOP 12.11: Umgestaltung Kreuzung Klarastraße/Stammstraße - Kenntnis genommen
+- TOP 12.12: Antrag der CDU-Fraktion, Artilleriehalle Alpenerstraße 4-6 in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.13: Schädigung des denkmalgeschützten Hauses Hansemannstr. 2 (öffentlicher Teil der Beantwortung) - Kenntnis genommen
+- TOP 12.14: Unfallhäufungsstellen des Jahres 2017 im Stadtbezirk Ehrenfeld - Nachfrage zur Unfallhäufungsstelle Melatengürtel/Oskar-Jäger-Straße und Ehrenfeldgürtel/Stammstraße (Ehrenfeld) - Kenntnis genommen
+- TOP 12.15: Schulweg Wasseramselweg - Kenntnis genommen
+- TOP 12.15.1: Dringlichkeitsantrag der CDU-Fraktion, betr.: Schulweg Wasseramselweg - Mitteilung TOP 12.15- 2182/2018 - geändert beschlossen
+- TOP 12.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: mündliche Anfragen
