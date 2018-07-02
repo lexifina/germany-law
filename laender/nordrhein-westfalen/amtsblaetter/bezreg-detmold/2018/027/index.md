@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Detmold 2018 Nr. 27 vom 02.07.2018
+
+- Herausgeber: Bezirksregierung Detmold
+- Ausgabe: 2018-07-02 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 27
+- Quelle: https://www.bezreg-detmold.nrw.de/system/files/media/document/file/1.12_amtsblatt_2018_nr27.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+- Bekanntmachungen: 3 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
