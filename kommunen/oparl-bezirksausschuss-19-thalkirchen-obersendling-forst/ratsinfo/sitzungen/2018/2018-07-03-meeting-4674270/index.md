@@ -1,0 +1,78 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-07-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674270
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674270
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 05.06.2018
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.2.1: Technikpauschale für die Mitglieder der Bezirksausschüsse - Informationsschreiben
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: (Antrag) Unterrichtung des Bezirksausschusses über politisch motivierte Vorkommnisse und Straftaten im 19. Stadtbezirk
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Münchner Krautgarten Solln: Anschaffung eines Wasseranschlusses; Sitzungsvorlage Nr. 14-20 / V 12008
+- TOP 3.3.: (E) Budget der Bezirksausschüsse; Münchner Krautgarten Solln Anschaffung eines Wasseranschluss; 5.369,49 € AZ: 0262.0-19-0216
+- TOP 3.4.: (E) Budget der Bezirksausschüsse die Stadtmacherei GbR „Vertikale Freiräume“ im Sommersemester 2018 3.000,00 € AZ: 0262.0-19-0221
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Imkerverein München und Umgebung e.V. Beschaffung einer Ausstattung zum Schleudern von Honig Az. 0262.0-19-0173
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Imkerverein München und Umgebung e.V. Beschaffung einer Ausstattung zum Einschmelzen alter Waben 500,10 € AZ: 0262.0-19-0220
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Keine kommerziellen Veranstaltungen an der Isar zulassen
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Instandsetzung Hinterbrühler Mühlbach
+- TOP 4.4.: (A) Bebauungsplan 2072a mit Grünordnung: Christel-Kuepper-Platz
+- TOP 4.5.: (U) Mobilfunkanlagen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Dauerparker am Südpark
+- TOP 5.1.2: Barrierefreiheit am U-Bahnhof Obersendling
+- TOP 5.1.3: Wendemöglichkeit auf der Drygalski-Allee
+- TOP 5.1.4: Aufhebung absolutes Haltverbot Machtlfinger Straße
+- TOP 5.1.5: Geschwindigkeitsüberwachung in der Josephinenstraße
+- TOP 5.1.6: Ziffer 4: Bettler in der Forstenrieder Allee
+- TOP 5.1.7: Halten vor der Grundschule an der Boschetsrieder Straße
+- TOP 5.2.: Verkehrskonzept 19. Stadtbezirk - Verfahren, Bürgerbeteiligung und Termine für die Informationsveranstaltung und Sondersitzungen des Unterausschusses und des BA
+- TOP 5.3.: (Antrag) Taktverdichtung Bus 134
+- TOP 5.4.: (Antrag) Verkehrssicherheit Thomas-Mann-Gymnasium
+- TOP 5.5.: (Antrag) Taktverdichtung Linie U3, Anbringung Sitzgelegenheiten U-Bahnstation Aidenbachstraße, Verlegung Buslinie 132 Züricher Straße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Hotelanfahrt und Ladezone Zielstattstraße
+- TOP 5.7.: (Antrag) Abänderung der Fahrtrichtung in diversen Nebenstraßen der Kistlerhofstraße
+- TOP 5.8.: (Antrag) Verlegung Taxistand Baierbrunner Straße
+- TOP 5.9.: (Antrag) Parksituation vor Hotel in der Kistlerhofstraße 142
+- TOP 5.10.: Umgang mit Anträgen auf Errichtung von Verkehrsspiegeln
+- TOP 5.11.: (E) Sondernutzungserlaubnis: Christbaumverkauf Strähuberstraße 1 a, Seite Wolfratshauser Straße
+- TOP 5.12.: (Antrag) Ausweitung Tempo 30 auf der Herterichstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Erhalt des Café Kustermann in Solln
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: Infrastruktur im 19. Stadtbezirk
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Errichtung eines Kinderspielplatzes in der Linastraße
+- TOP 7.2.: (Antrag) Bereitstellung Grünfläche für ein Projekt für Menschen mit Behinderung
+- TOP 7.3.: (Antrag) Schulschwimmbad Samberger Schule
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Herbstflohmarkt Wiesenwerkstatt e.V. am 15.09.2018
+- TOP 8.3.: (A) Veranstaltung: Ansichtskarten-Sammlerbörse am 24.07.2018
+- TOP 8.4.: (Antrag) KulturGeschichtsPfad für den 19. Stadtbezirk
+- TOP 8.5.: (A) Straßenerläuterungsschilder im 19. Stadtbezirk
+- TOP 8.6.: (U) Gaststättenfortführung: Kistlerhofstraße 251
+- TOP 8.7.: (U) Gaststättenfortführung: Baierbrunner Straße 1
