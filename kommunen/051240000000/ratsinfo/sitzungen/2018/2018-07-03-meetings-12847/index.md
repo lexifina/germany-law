@@ -1,0 +1,79 @@
+# öffentliche/ nicht öffentliche Sitzung Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-07-03T16:05:00+02:00
+- Ende: 2018-07-03T17:29:00+02:00
+- Ort: Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12847
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12847
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00221676.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00222862.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2017 der APH Service GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.3.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2017 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss und Konzernabschluss 2017 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.7.1: Jahresabschluss 2017 der WSW Wuppertaler Stadtwerke GmbH - Entlastung des Aufsichtsrates - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2017 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.8.1: Jahresabschluss 2017 der WSW mobil GmbH - Entlastung des Aufsichtsrates - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2017 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.9.1: Jahresabschluss 2017 der WSW Energie & Wasser AG - Entlastung des Aufsichtsrates - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2017 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2017 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.11.1: Jahresabschluss 2017 der Stadtsparkasse Wuppertal - Entlastung des Verwaltungsrates - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss 2017 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.12.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss 2017 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.13.1: Entlastung des Aufsichtsrates der GWG Gemeinnützige Wohnungsbaugesellschaft mbH - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2017 der WQG Wuppertaler Quartierentwicklungs GmbH - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss 2017 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.15.1: Jahresabschluss 2017 der BEG Entsorgungsgesellschaft mbH - Entlastung des Aufsichtsrates - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss 2017 der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Gründung eines neuen Tochterunternehmens der WSW Wuppertaler Stadtwerke GmbH - vertagt auf Rat
+- TOP 3.2: Wahl von Aufsichtsratsmitgliedern durch die Gesellschafterversammlung der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 3.3: Änderung der Geschäftsordnung für den Aufsichtsrat der Wuppertal Marketing GmbH (WMG) - ungeändert beschlossen
+- TOP 3.4: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2017/2018 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Digitalisierungsstrategie der Stadtverwaltung und Digitale Modellkommune - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 5.2: Neugestaltung Carnaper Platz - Entgegennahme ohne Beschluss
+- TOP 5.3: Änderung der bisherigen Rechtslage im Erschließungsbeitragsrecht - Entgegennahme ohne Beschluss
+- TOP 5.4: Änderung der bisherigen Rechtslage im Erschließungsbeitragsrecht - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Gestaltung des Wupperparks sowie der zu errichtenden Gebäude - ungeändert beschlossen
+- TOP 6.2: Bundesgartenschau in Wuppertal - vertagt auf Rat
+- TOP 6.3: Baumaßnahmen Rettungsdienst am Standort Hauptfeuer- und Rettungswache August-Bebel-Str. 55 zur Umsetzung des Rettungsdienstbedarfsplans 2017 - ungeändert beschlossen
+- TOP 6.4: Hauptstraße - Hastener Straße Neue Bordführung zur Verkehrsverbesserung - ungeändert beschlossen
+- TOP 6.5: Modernisierung des Sportplatzes Grundstr. und Aufgabe des Sportplatzes Clausewitzstr. in Langerfeld - ungeändert beschlossen
+- TOP 6.6: Ersatzbeschaffung einer Kehrmaschine - ungeändert beschlossen
+- TOP 6.7: Änderungsantrag zu Vorlage VO/0284/18, Änderung der Entgeltordnung für die Bergische Musikschule - zurückgezogen
+- TOP 6.8: Änderung der Entgeltordnung für die Bergische Musikschule - geändert beschlossen
+- TOP 6.9: Cash-Pools im Beteiligungsportfolio der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 6.9.1: Antwort auf die große Anfrage von AfW vom 25.06.2018 zum Thema Cashpools im Beteiligungsportfolio der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Bericht zum 31.05.2018 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Stadtentwässerung - Maßnahmenkatalog 2019/ Katalogentwurf 2020 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
