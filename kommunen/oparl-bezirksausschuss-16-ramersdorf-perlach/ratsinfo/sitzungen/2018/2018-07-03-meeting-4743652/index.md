@@ -1,0 +1,238 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2018-07-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4743652
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4743652
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokolle
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.6: Sonstige
+- TOP 3: Anträge
+- TOP 3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.5.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.4.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.4.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.3.1.: Dienstag, 10.07.2018, 18:00 Uhr, Ort wird noch bekannt gegeben
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: 2.2.1.6 Budget der Bezirksausschüsse Verein für nachbarschaftliches Leben in Waldperlach e.V. Aufstellung eines öffentlichen Bücherschrankes Antragssumme: 9.000,00 € Sitzungsvorlage Nr. 14-20 / V 11918 zu 3.1.7 Keine zeitliche Begrenzung der Tempo 30 Regelung im Hugo-Lang-Bogen Bürgeranliegen vom 17.06.2018 Auskunft des Kreisverwaltungsreferats zu einer früheren Anfrage des Bürgers und Rückmeldung des Bürgers zu dieser Auskunft. Zuleitung vom 28.06.2018 zu 3.5.2 Adenauerring - Störende Leuchtreklame Bürgeranliegen vom 07.06.2018 Rechtsauskunft der Lokalbaukommission vom 02.07.2018 4.4.1.15 Zinnebergstr. 4 - Fl.Nr.: 18447/10 – Neubau 3er Stadthäuser sowie eines Doppelparkers und einer Garage – Haus 1, Haus 2 und Haus 3 Zuleitung vom 28.06.2018 4.4.1.16 Asenweg 20 - Fl.Nr.: 2214/9 – Neubau eines Mehrfamilienhauses mit Garagen Zuleitung vom 02.07.2018
+- TOP 1.2.2.: 4.4.2.4 Anhörung gemäß § 9 der BA-Satzung: Projektname: Bebauungsplan mit Grünordnung Nr. 2090, Friedrich-Creuzer-Straße / Alexisweg, Karl-Marx-Ring, Niederalmstraße, Stemplingeranger - Herstellung und Umbau der öffentlichen Verkehrsflächen - 1. Bauabschnitt Alexisweg Projektnummer: 100903 Zuleitung vom 02.07.2018 4.5.4.2 Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen): St.-Martin-Str. - Fl.Nr.: 16358/0 1 beleuchtete Litfaßsäule (als Ersatz für die bestehende Litfaßsäule) Zuleitung vom 02.07.2018 zu 6.4.2.8 Information des Referats für Stadtplanung und Bauordnung zur Stellungnahme an das Referat für Gesundheit und Umwelt zur Errichtung und dem Betrieb einer Biomasse-Aufbereitungsanlage nach dem Florafuel-Verfahren in der Carl-Wery-Str. Zuleitung vom 11.06.2018 Schreiben des Vorsitzenden des BA 16 vom 30.06.2018 an das Referat für Gesundheit und Umwelt, das Kommunalreferat und das Referat für Stadtplanung und Bauordnung zur Biomasseanlage Carl-Wery-Straße 6.5.5 Anfrage von AKIM zur Durchführung eines Runden Tisches bezüglich dem Konsums von Alkohol im Sudermann-Zentrum und in der Sudermann-Allee Zuleitung vom 28.06.2018 7.2.1.1 Budget der Bezirksausschüsse Arbeitsgemeinschaft Friedenspädadgogik e.V. Light at Skate- and Sportsnight zur Eröffnung der Beleuchtungsanalage im Gefilde Antragssumme: 1.700,00 €
+- TOP 1.2.3.: zu 7.4.4.8 Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings Sitzungsvorlage Nr. 14-20 / V 09424 Zuleitung vom 07.06.2018 Auskunft zur genauen Situierung der Abstellanlagen und Angebot von drei Terminen für einen Ortstermin. Zuleitung vom 28.06.2018
+- TOP 2.1: Mobilität und Umwelt
+- TOP 2.1.1.: Randsteinabsenkung an der Peralohstraße BV-Empfehlung Nr. 14-20 / E 01963 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 26.04.2018 Sitzungsvorlage Nr. 14-20 / V 11967
+- TOP 2.1.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Projektplanung: Errichtung einer Fitnessanlage im Bereich der bestehenden Grünanlage „Im Gefilde“ im Stadtbezirk 16 Ramersdorf-Perlach Zuleitung vom 19.06.2018
+- TOP 2.2: Budget, Kultur und Sport
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: Budget der Bezirksausschüsse Trägerverein Pepper e.V. Kulturlandschaft Neuperlacher Forst: HoodWood Open Air Neuperlach Antragssumme: 11.165,00 €
+- TOP 2.2.1.2.: Buget der Bezirksausschüsse Schutzgemeinschaft Ramersdorf e.V. Buchprojekt Antragssumme: 1.125,80 €
+- TOP 2.2.1.3.: Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube „komm“-Streetwork am 10.08.2018 Antragssumme: 172,00 €
+- TOP 2.2.1.4.: Budget der Bezirksausschüsse THW Förderverein München Ost e.V. Beschaffung eines Jugendfahrzeuges Antragssumme: 12.000,00 €
+- TOP 2.2.1.5.: Budget der Bezirksausschüsse ZAK "Zusammen Aktiv in Neuperlach" e.V. Gemeinsames Sommerfest am 21.07.2018 Antragssumme: 1.100,00 €
+- TOP 2.2.1.6.: (E) Budget der Bezirksausschüsse Verein für nachbarschaftliches Leben in Waldperlach e.V. Aufstellung eines öffentlichen Bücherschrankes 9.000,00 € Az: 0262.0-16-0232
+- TOP 2.2.2.1.: Durchführung der BA-eigenen Veranstaltung "2. Neuperlacher Sommerfest" am 21./22. Juli 2018
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 2.5.1.: Errichtung eines Mülleimers mit Tütenspender für Hundekot in der Gleißnerstraße Empfehlung Nr. 14-20 / E 01965 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 26.04.2018
+- TOP 3.1: Mobilität und Umwelt
+- TOP 3.1.1.: Anfrage zu den verkehrsrechtlichen Planungen an der Ecke Leoprechtingstr. / Friedrich-Panzer-Weg; Forderung des Antragsstellers sich den Zustand des Straßenabschnittes anzuschauen. Bürgeranliegen vom 11.09.2017 (TOP 3.1.1 vom 07.06.2018, TOP 3.1.5 vom 18.01.2018, TOP 3.1.7 vom 06.12.2017, TOP 3.1.12 vom 09.11.2017) Wiedervorlage
+- TOP 3.1.2.: Parkverbot für LKWs oder Anwohnerparken zur Verbesserung der Parksituation in der Langbürgener Str., Am Blankstadl, Endorfer Str. Bürgeranliegen vom 15.05.2018 (TOP 3.1.4 vom 07.06.2018)
+- TOP 3.1.3.: Verschlechterung der Parksituation in der Aribonenstr. Bürgeranliegen vom 08.05.2018 (TOP 3.1.7 vom 07.06.2018)
+- TOP 3.1.4.: Schulwegsicherheit am Werner-von-Siemens Gymnasium erhöhen! Antrag der Fraktion Bündnis 90 / Die Grünen vom 28.05.2018 (TOP 3.1.9 vom 07.06.2018)
+- TOP 3.1.5.: Blockieren von Parkplätzen mit Motorrädern vor dem Gewerbehof der MVG in der Ständlerstr. Bürgeranliegen vom 20.06.2018
+- TOP 3.1.6.: 1. Die Hochäckerstraße wird zwischen Unterhachinger Straße und Görzerstraße als Tempo 30-Zone ausgewiesen. 2. (Erwachsene) Fahrradfahrer nutzen künftig nicht mehr den Gehweg, sondern fahren bis nach der Autobahnbrücke auf der Straße. Darauf ist durch entsprechende Markierungen hinzuweisen. Antrag der Bündnis 90 / Die Grünen-Fraktion im BA 16 vom 25.06.2018
+- TOP 3.1.7.: Keine zeitliche Begrenzung der Tempo 30 Regelung im Hugo-Lang-Bogen Bürgeranliegen vom 17.06.2018
+- TOP 3.1.8.: Verbesserungsvorschläge für die Kreuzung Innsbrucker Ring / Ottobrunner Str. Bürgeranliegen vom 21.06.2018
+- TOP 3.1.9.: Wilramstraße - Blockieren von Parkplätzen durch LKW, Wohnwägen, Wohnmobile und Anhänger Bürgeranliegen vom 17.06.2018
+- TOP 3.1.10.: Verkehrsdatenerfassung nach selbst festgelegten Brenn- und Schwerpunkten in Eigenregie - Anschaffung eines Geschwindigkeitsmessgerätes durch den Bezirksausschuss 16 Antrag der SPD-Fraktion im BA 16 vom 03.06.2018
+- TOP 3.1.11.: Vorschlag zum Ausbau des Gehwegs am Pfarrweg Bürgeranliegen vom 01.06.2018
+- TOP 3.1.12.: Verlegung der 6 neu errichteten Elektroladesäulen in der Hofangerstr. 84 zur Wiederherstellung von 6 Kurzzeitparkplätzen Mehrere Bürgeranliegen vom 25.06.2018
+- TOP 3.2: Budget, Kultur und Sport
+- TOP 3.2.1.: Generalsanierung des Kindergartens St. Bruder Klaus - Anfrage an den BA 16 mit der Bitte um Unterstützung Bürgeranliegen vom 12.06.2018
+- TOP 3.2.2.: Gestaltungsidee für den Hachinger Bach - Anfrage zu einer Vorstellung im BA Bürgeranliegen vom 25.06.2018
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 3.3.1.: Anfrage zum Austausch über die Erfahrungen und Ansätze von BA-Mitgliedern zur Kinder- und Jugendbeteiligung Bürgeranliegen vom 22.05.2018 (TOP 3.3.1 vom 07.06.2018)
+- TOP 3.3.2.: Neue Räumlichkeiten für Streetwork Neuperlach Antrag der Jugendbeauftragten des BA 16 vom 25.06.2018
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 3.5.1.: Ruhestörung in Neuperlach Süd: Maximilian-Kolbe-Allee & Therese-Giehse-Allee Bürgeranliegen vom 01.06.2018
+- TOP 3.5.2.: Adenauerring - Störende Leuchtreklame Bürgeranliegen vom 07.06.2018
+- TOP 3.5.3.: Entsorgung von Müll vor dem PEP Antrag der Bündnis 90/Die Grünen-Fraktion im BA 16 vom 26.06.2018
+- TOP 4.1: Mobilität und Umwelt
+- TOP 4.1.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Albert-Schweitzer-Straße (Mittelschule Albert-Schweitzer-Straße) Zuleitung vom 07.06.2018
+- TOP 4.1.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Claudius-Keller-Straße 9 (Montesori Schule in der Balanstraße 73) Zuleitung vom 07.06.2018
+- TOP 4.1.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Heinrich-Wieland-Straße (Werner-von-Siemens-Gymnasium und Werner-von-Siemens-Realschule) Zuleitung vom 07.06.2018
+- TOP 4.1.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Kirchseeoner Straße 5-9 (Grund- und Mittelschule in der Führichstraße und städt. Kindergärten) Zuleitung vom 07.06.2018
+- TOP 4.1.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Klabundstraße (Wilhelm-Röntgen-Realschule) Zuleitung vom 07.06.2018
+- TOP 4.1.6.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Quiddestraße 4 (Werner-von-Siemens-Gymnasium, Werner-von-Siemens-Realschule und städt. Haus für Kinder) Zuleitung vom 07.06.2018
+- TOP 4.1.7.: Entwurf der Parkständemarkierung am Pfanzeltplatz mit der Bitte um Stellungnahme Zuleitung vom 21.06.2018
+- TOP 4.1.8.: Anhörung zur Aufstellung des Schildes 136-10 StVO (Kinder) im Perlacher Weg vor der Kindertagesstätte "Sternenfee" Zuleitung vom 20.06.2018
+- TOP 4.1.9.: Verkehrsrechtliche Anordnung nach § 45 StVO: Klara-Ziegler-Bogen Westseite Zufahrt zu den Anwesen 53 - 101 Absolutes Haltverbot Z 283 mit Zusatz „Feuerwehranfahrtszone“ Zuleitung vom 26.06.2018
+- TOP 4.2: Budget, Kultur und Sport
+- TOP 4.2.1.: Finanzierungsbeteiligung für das Fest der Demokratie am 7. November 2018 Zuleitung vom 09.05.2018 (TOP 4.2.2 vom 07.06.2018)
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 4.3.1.: Antrag für ein Haus der Kultur- und Jugendarbeit in Ramersdorf BV-Empfehlung Nr. 14-20 / E 01603 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach vom 22.06.2017 Sitzungsvorlage Nr. 14-20 / V 11596 Beschluss des Sozialausschusses vom 27.09.2018 (SB) Fristverlängerung bis einschließlich 09.07.2018 Zuleitung vom 18.05.2018 (TOP 4.3.2 vom 07.06.2018)
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 4.4.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1.: Werinherstr. 111 - 113 – Fl.Nr.: 15671/55 – Neubau zweier Rückgebäude - VORBESCHEID Zuleitung vom 07.05.2018 Stellungnahme vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung mit der Bitte um Fristverlängerung Vorstellung im UA (TOP 4.4.1.5 vom 07.06.2018, TOP 4.4.1.18 vom 09.05.2018)
+- TOP 4.4.1.2.: Adam-Berg-Str. 148 – Fl.Nr.: 1243/5 – Abbruch und Wiederaufbau eines Reihenendhauses - VORBESCHEID Zuleitung vom 22.05.2018 (TOP 4.4.1.9 vom 07.06.2018)
+- TOP 4.4.1.3.: Nixenweg 4 – Fl.Nr.: 2192/83 – Neubau eines Mehrfamilienhauses Zuleitung vom 22.05.2018 (TOP 4.4.1.11 vom 07.06.2018)
+- TOP 4.4.1.4.: Lorenzstraße 25 - Fl.Nr.: 276/17 - Neubau eines Mehrfamilienhauses (4 WE) mit Doppel-Duplexparkergarage Zuleitung vom 28.05.2018 (TOP 4.4.1.12 vom 07.06.2018)
+- TOP 4.4.1.5.: Traunreuter Straße - Fl.Nr.: 16225/1 - Errichtung einer Wohnanlage - teilweise gefördert im München Modell - mit 2 Tiefgaragen Zuleitung vom 28.05.2018 (TOP 4.4.1.13 vom 07.06.2018)
+- TOP 4.4.1.6.: Traunreuter Straße - Fl.Nr.: 16222/15 - Errichtung einer Wohnanlage - teilweise gefördert im München Modell - mit 2 Tiefgaragen Zuleitung vom 28.05.2018 (TOP 4.4.1.14 vom 07.06.2018)
+- TOP 4.4.1.7.: Kagerstraße 9 - Fl.Nr.: 16257/2 - Neubau eines Betriebshofs für den Tiefbau T22 / Mitte und das Parkraummanagement Kagerstraße 9 - VORBESCHEID Zuleitung vom 28.05.2018 (TOP 4.4.1.15 vom 07.06.2018)
+- TOP 4.4.1.8.: Rosenheimer Str. 192 - Fl.Nr.: 16341/16 - Umbau zum Jugendtheater "FestSpielHaus", befristet bis 30.04.2028 Zuleitung vom 04.06.2018 (TOP 4.4.1.16 vom 07.06.2018)
+- TOP 4.4.1.9.: Lavaterstr. 6 - Fl.Nr.: 2309/0 – Neubau eines Doppelhauses - VORBESCHEID Zuleitung vom 20.06.2018
+- TOP 4.4.1.10.: Hofangerstr. 37 - Fl.Nr.: 1340/13 – Neubau eines Mehrfamilienhauses samt Ladeneinheit sowie eines Doppelhauses, gesamt mit Tiefgarage - VORBESCHEID Zuleitung vom 20.06.2018
+- TOP 4.4.1.11.: Amselweg 7 - Fl.Nr.: 1320/35 – Neubau eines Mehrfamilienhauses (6 WE) mit Stadthaus und Tiefgarage – hier: 1 zusätzlicher TG-Stellplatz, Dach Stadthaus niedriger in gleicher Form wie Hauptgebäude, Gebäude 15 cm breiter, einbau WC, Bad im DG, Balkone im 1. OG West je 2,60 m breit, insges. Kleiner ein Drittel Wandl. Zuleitung vom 20.06.2018
+- TOP 4.4.1.12.: Balanstr. 208 - Fl.Nr.: 16225/0 – Neubau 2er Einfachsporthallen für die städt. Berufsschule zur Berufsintegration - VORBESCHEID Zuleitung vom 20.06.2018
+- TOP 4.4.1.13.: Bärenwaldstr. 16 - Fl.Nr.: 1168/3 – Neubau eines Mehrfamilienhauses (6 WE) mit Garagen - VORBESCHEID Zuleitung vom 21.06.2018
+- TOP 4.4.1.14.: Ramersdorfer Str. 9 - Fl.Nr.: 18428/0 – Neuplanung einer Wohnanlage (ca. 24 WE) mit Tiefgarage– VORBESCHEID (2 Var.) Zuleitung vom 26.06.2018
+- TOP 4.4.2: Weitere Anhörungen
+- TOP 4.4.2.1.: Verfahren nach § 4 Abs. 2 BauGB: Bauleitplanung Gemeinde Ottobrunn; B-Plan 129 „Isar-Center“ Bitte um Stellungnahme bis zum 18.07.2018, wenn möglich 05.07.2018 Zuleitung vom 05.06.2018 (TOP 4.4.2.5 vom 07.06.2018)
+- TOP 4.4.2.2.: Wohnen in München VI 1) Erfahrungsbericht für das Jahr 2017 2) Verlängerung der Befristung der Stelle für die Grundstücksausschreibungen in Freiham 3) Empfehlungen/Anträge/Petitionen zu diversen Wohnungsbauvorhaben, u.a. WAL-Vorhaben Erwin-Schleich-Straße Stadtbezirk 15 Trudering-Riem Stadtbezirk 16 Ramersdorf-Perlach Stadtbezirk 23 Allach-Untermenzing Sitzungsvorlagen Nr. 14-20/ V Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018 (VB) Öffentliche Sitzung Stellungnahme des BA zum Entwurf
+- TOP 4.4.2.3.: Max-Kolmsperger-Str. 3, 3a, 5, 7, 9 (unger.), Fl.Nr. 1738/9, Gemarkung Perlach Vollzug von §2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadtplanung und Bauordnung Katalog-Nr. 11.1; Bayerische Denkmalliste nach Art. 2 Denkmalschutzgesetz (DayDSchG), Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München, hier: Nachtrag des Kirchenzentrums St. Monika in die Denkmalliste Bitte um Stellungnahme bis zum 29.06.2018
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.5.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2.1.: Anzeige für öffentliche Vergnungsverantsaltungen im Freien auf Privatgrund / in städtischen Grünanalagen / in geschlossenen Räumen: 2. Neuperlacher Sommerfest am 21.07.2018 und 22.07.2018
+- TOP 4.5.4: Weitere Anhörungen
+- TOP 4.5.4.1.: Informationsschreiben Nr. 03/2018; Technikpauschale für die Mitglieder der Bezirksausschüsse Bitte um Rückmeldung jedes BA-Mitglieds zum Verzicht auf einen Versand der Ladung und der Sitzungsunterlagen in Papierform bis zum 15.07.2018 Zuleitung vom 25.06.2018
+- TOP 4.6: Sonstige
+- TOP 5.2.1: Mobilität und Umwelt
+- TOP 5.2.2: Budget, Kultur und Sport
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität und Umwelt
+- TOP 6.1.1.: Abbiegesituation an der Einmündung Eulenspiegelstraße / Putzbrunner Straße verbessern Zuleitung vom 19.06.2018
+- TOP 6.1.2.: Trambahnbetriebshof: Zukunftsoffene Anbindung über die Ständlerstraße sicherstellen Bitte um Terminverlängerung bis 30.09.2018 Zuleitung vom 19.06.2018
+- TOP 6.1.3.: Parksituation Pfanzeltplatz - Rückmeldung des Denkmalschutzes zu den Vorschlägen bezüglich Fahrbahnmarkierungen aus dem Ortstermin zum Pfanzeltplatz am 26.04.2018 Schreiben vorab durch den Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung Zuleitung vom 19.06.2018
+- TOP 6.1.4.: Einrichten eines Zebrastreifens über die Arnold-Sommerfeld-Straße Empfehlung Nr. 14-20 / E 00552 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf-Perlach am 09.07.2015 Weiterleitung des Beschlusses des BA 16 vom 08.03.2018 zur Forderung einer Querungshilfe anstatt eines Zebrastreifens an das Baureferat Zuleitung vom 15.06.2018
+- TOP 6.1.5.: Einrichtung eines Fußgängerüberwegs an der Bushaltestelle Am Hain in Waldperlach Zuleitung vom 12.06.2018
+- TOP 6.1.6.: Verbesserungen der Rupertigaustraße und Ayinger Straße - Einbahnregelung in der Rupertigaustraße Zuleitung vom 11.06.2018
+- TOP 6.1.7.: Reale Betrachtung der Kreuzungsfahrten zur Feststellung der Beeinflussung des Individualverkehrs durch Aus-/ Einrücker ab dem Betriebshof Ständlerstraße Zuleitung vom 07.06.2018
+- TOP 6.1.8.: Defekte Beleuchtung und mangelhaftes Räumen und Streuen des Gehweges zwischen Kafkastr. 42 - 48 und Tucholskystr. 8 - 10 im Winter Zuleitung vom 25.05.2018
+- TOP 6.1.9.: Wegbenennung der Verbindung Wohnanlage Hochäckerstraße/Peralohstraße und Klärung der Pflichten der Angrenzer (Verkehrssicherung/Beleuchtung). Zuleitung vom 25.06.2018
+- TOP 6.1.10.: Einbau von Gleisschmieranlagen bereits in der Erprobungsphase Zuleitung vom 21.06.2018
+- TOP 6.1.11.: Berücksichtigung des Entfalls des Schienenbonus für Straßenbahn Neubauten bzw. Erweiterung ab 2019 bei den Planungen der SWM Zuleitung vom 17.05.2018
+- TOP 6.1.12.: Aufstellung von einer oder zwei Fahrradreparatursäulen in der Ungsteiner Straße Zuleitung vom 17.05.2018
+- TOP 6.1.13.: Rückmeldung der Polizeiinspektion 23 zur Anfrage des BA 16 bezüglich der Effektivität der Maßnahmen gegen die Unfallhäufung (Vorfahrtsverstöße) an der Aschauer Str./Ständlerstr. Zuleitung vom 06.06.2018
+- TOP 6.1.14.: Mehr Bäume für Ramersdorf – Begrünung der Adam-Berg-Straße sowie des Abschnitts Jäcklinstraße zwischen Aufleger- und Adam-Berg-Straße Empfehlung Nr. 14-20 / E 00465 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 11.06.2015 Begrünung der Berger-Kreuz- und der Adam-Berg-Straße, Ausweitung der Grüngestaltung des Jäcklinplatzes und der Jäcklinstraße Empfehlung Nr. 14-20 / E 01118 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 28.06.2016 Erweiterung des Jäcklinplatzes, Begrünung und ev. Cafe Empfehlung Nr. 14-20 / E 01582 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 22.06.2017 Sitzungsvorlage Nr. 14-20 / V 11095 Rückmeldung des Baureferats zum Beschluss des Bezirksausschusses 16 vom 12.04.2018 Zuleitung vom 14.06.2018
+- TOP 6.1.15.: (E) Einhaltung der Tempo 30 Zone in der Führichstraße Rückmeldung des Kreisverwaltungsreferats zur Ergänzung des Beschlusses des BA 16 vom 08.12.2016 Zuleitung vom 04.06.2018
+- TOP 6.2: Budget, Kultur und Sport
+- TOP 6.2.1.: Dringlichkeitsantrag des Bezirksausschusses des 16. Stadtbezirkes Ramersdorf-Perlach an das Kommunalreferat zur Vorlage eines verbindlichen Zeitplans für den Bezug des Übergangskulturhauses in der Albert-Schweitzer-Straße 62 – 66 und Information über die längst mögliche Nutzung des Kulturhauses am Hanns-Seidel-Platz Dringlichkeitsantrag der im BA 16 vertretenen Fraktionen und Parteien: CSU, DaCG/ÖDP, FDP, Bündnis 90/Die Grünen und SPD vom 08.02.2018 Terminverlängerung bis 15.07.2018 Zuleitung vom 22.06.2018
+- TOP 6.2.2.: Zwischeninformationen zum aktuellen Planungsstand der laufenden Planungen im Bereich der Jugendspielanlagen im Grünzug Im Gefilde Zuleitung vom 11.06.2018
+- TOP 6.2.3.: Errichtung einer Roller-/Inline- und Skateranllage an der Stethaimerstraße Zuleitung vom 28.05.2018
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 6.3.1.: Ameisenvergämung am Spielplatz in Perlach auf Höhe Hugo-Lang-Bogen 34/36 Unterrichtung des Baureferats vom 06.06.2018 zu einem Bürgeranliegen vom 05.06.2018
+- TOP 6.3.2.: Ausweisung eines neuen Grundschulstandorts im Stadtbezirksteil Perlach und umgehende Realisierung Antrag des Vorstands des BA 16 vom 03.04.2018 BA-Antrag Nr. 14-20 / B 04756 Terminverlängerung bis 16.09.2018 Zuleitung vom 07.06.2018
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 6.4.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.1.1.: Öffentliche Bekanntmachung einer Baugenehmigung gem. Art. 66 Abs. 2 Satz 4 BayBO Anwesen: Albert-Schweitzer-Straße 62, 64 und 66 - Gemarkung/Flurnr./Stadtbezirk: Gemarkung Perlach; Flrunnr. 1529/91; Stadtbezirk 16 Zuleitung vom 17.06.2018
+- TOP 6.4.1.2.: Hofangerstr. 2 – Fl.Nr.: 1324/0 – Errichtung einer Freischankfläche Zuleitung vom 16.05.2018
+- TOP 6.4.1.3.: Amselweg 7 - Fl.Nr.: 1320/35 – Neubau eines Mehrfamilienhauses mit Stadthaus (7 WE) und Tiefgarage Zuleitung vom 06.06.2018
+- TOP 6.4.1.4.: Isegrimstr. 17 - Fl.Nr.: 2192/34 – Neubau eines Mehrfamilienhauses mit Tiefgarage Zuleitung vom 12.06.2018
+- TOP 6.4.1.5.: Winninger Str. 9 - Fl.Nr.: 596/4 – Anbau zweier Balkone und einer Terrasse an ein Mehrfamilienhaus - VORBESCHEID Zuleitung vom 08.06.2018
+- TOP 6.4.1.6.: Sebastian-Bauer-Str. 10a - Fl.Nr.: 150/2 – Anbau zweier Balkone und einer Terrasse an ein Mehrfamilienhaus - VORBESCHEID Zuleitung vom 06.06.2018
+- TOP 6.4.1.7.: Balanstr. 234 - Fl.Nr.: 16222/24 – Neubau eines Mehrfamilien- und eines Doppelhauses mit Tiefgarage Zuleitung vom 16.05.2018
+- TOP 6.4.1.8.: Hötzlring 20 - Fl.Nr.: 1177/5 – Neubau eines Mehrfamilienhauses mit Tiefgarage Zuleitung vom 30.05.2018
+- TOP 6.4.2.1.: Immissionsschutz-Maßnahmen am Innsbrucker-Ring entlang der Wohnbebauung (Bad-Schachener-Str. Richtung Ayinger Str., parallel zur Möschenfelderstr.) Antrag der Bündnis 90 / Die Grünen-Fraktion vom 27.02.2018 Zuleitung vom 20.06.2018
+- TOP 6.4.2.2.: Infopavillon Hanns-Seidel-Platz Antrag der CSU-Fraktion im BA 16 Terminverlängerung bis 31.07.2018 Zuleitung vom 19.06.2018
+- TOP 6.4.2.3.: Wiederherstellung einer ausreichenden Versorgung der Bevölkerung im 16. Stadtbezirk mit Filialen der Stadtsparkasse München Zuleitung vom 18.06.2018
+- TOP 6.4.2.4.: Bitte um Verlegung und Klärung der Rechte an der Eisen Skulptur "Legung" am Hanns-Seidel-Platz Bitte um Terminverlängerung bis zum 16.07.2018 Zuleitung vom 18.06.2018
+- TOP 6.4.2.5.: Sofortige Beteiligung des Bezirksausschusses bei der Kagerstraße 9 Zuleitung vom 18.06.2018
+- TOP 6.4.2.6.: Großprojekte in Waldperlach - Auswirkungen auf den Landschaftspark "Im Gefilde" (Ziffer 2 der Empfehlung) Zwischennachricht zur Terminverlängerung bis 31.12.2018 Zuleitung vom 04.06.2018
+- TOP 6.4.2.7.: Kustermannpark keine bauliche Verdichtung Zwischennachricht zur Terminverlängerung bis 15.09.2018 Zuleitung vom 28.05.2018
+- TOP 6.4.2.8.: Information des Referats für Stadtplanung und Bauordnung zur Stellungnahme an das Referat für Gesundheit und Umwelt zur Errichtung und dem Betrieb einer Biomasse-Aufbereitungsanlage nach dem Florafuel-Verfahren in der Carl-Wery-Str. Zuleitung vom 11.06.2018
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 6.5.1.: Status der Elektroladesäulen an der Adam-Berg-Straße Zuleitung vom 12.06.2018
+- TOP 6.5.2.: Fragestellung zu zwei E-Ladestationen an der Adam-Berg-Straße 24-26a Zuleitung vom 24.05.2018
+- TOP 6.5.3.: Mehrere Ideen zur Verbesserung der Situation rund um die Müllcontainer Zuleitung vom 12.06.2018
+- TOP 6.5.4.: Aufstellung von Elektroladesäulen und behindertengerechter Ausbau des Busbahnhofs Neuperlach Zentrum Antwortschreiben der SWM zum Schreiben des BA 16 vom 17.05.2018 Zuleitung vom 20.05.2018
+- TOP 6.6: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität und Umwelt
+- TOP 7.1.1.: Verkersrechtliche Anordnung nach § 45 StVO: Versetzung des Einfahrtsverbotes Zeichen 267 StVO in der Rupertigaustraße Zuleitung vom 14.06.2018
+- TOP 7.1.2.: Verkerhsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Balanstraße 153 Zuleitung vom 12.06.2018
+- TOP 7.1.3.: Quiddestraße / Staudingerstraße / Plettstraße Austausch der Lichtsignalanlage, Kreuzungsumbau zur Verbesserung der Nahmobilität und barrierefreier Ausbau der Bushaltestelle im 16. Stadtbezirk Ramersdorf - Perlach Kenntnisnahme von der Ausführungsgenehmigung des Projektes auf dem Verwaltungsweg
+- TOP 7.1.4.: Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017 Zuleitung vom 04.06.2018
+- TOP 7.1.5.: Rückmeldung des Referats für Arbeit und Wirtschaft an eine Bürgerin zu Ihrer Anfrage bezüglich eines U-Bahnhofs Zuleitung vom 21.06.2018
+- TOP 7.2: Budget, Kultur und Sport
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.2.3.1.: Aktueller Stand der Kunstwerke Neuperlach Zuleitung vom 26.06.2018
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 7.3.1.: Liste und Karte mit Standorten für Flüchtlinge und Wohnungslose - Stand 30.05.2018 Zuleitung vom 19.06.2018
+- TOP 7.3.2.: Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder Zuleitung vom 08.06.2018
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 7.4.2.1.: Kurt-Eisner-Str. 50-52; Fällungsantrag vom 07.05.2018; Bescheid vom 22.06.2018
+- TOP 7.4.2.2.: Dornröschenstr. 34a; Fällungsantrag vom 12.05.2018; Bescheid vom 22.06.2018
+- TOP 7.4.2.3.: Therese-Giehse-Allee 27-33, Helmut-Kräutner-Str. 9 -15; Fällungsantrag vom 09.05.2018; Bescheid vom 21.06.2018
+- TOP 7.4.2.4.: Gänselieselstr. 59; Fällungsantrag vom 02.05.2018; Bescheid vom 13.06.2018
+- TOP 7.4.2.5.: Bayerwaldstr. 49; Fällungsantrag vom 16.05.2018; Bescheid vom 12.06.2018
+- TOP 7.4.3.1.: Oggersheimer Str. , Mitteilung vom 13.06.2018
+- TOP 7.4.3.2.: Gleißnerstr. , Mitteilung vom 07.06.2018
+- TOP 7.4.4: Weitere Unterrichtungen
+- TOP 7.4.4.1.: Schreiben eines Vereins zu einem Zeitungsartikel zur Biomasse-Anlage in der Carl-Wery-Straße 63 Zuleitung vom 25.06.2018
+- TOP 7.4.4.2.: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften Zuleitung vom 25.06.2018
+- TOP 7.4.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.4.4.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016 Zuleitung vom 25.06.2018
+- TOP 7.4.4.5.: Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen Zuleitung vom 25.06.2018
+- TOP 7.4.4.6.: Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017 Zuleitung vom 25.06.2018
+- TOP 7.4.4.7.: Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018 Zuleitung vom 25.06.2018
+- TOP 7.4.4.8.: Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings Zuleitung vom 07.06.2018
+- TOP 7.4.4.9.: Bebauungsplan mit Grünordnung Nr. 2070 Aschauer Straße (östlich), Chiemgaustraße (südlich) (Teiländerung des Bebauungsplans Nr. 1748) Zuleitung vom 07.06.2018 - Satzungsbeschuss -
+- TOP 7.4.4.10.: Schriftverkehr des Luftamts Südbayern mit einem Bürger zu der Baumbeseitigung im öffentlichen Straßenraum für die Hubschrauberflüge am Klinikum München-Neuperlach und der Helios Klinik München Perlach und möglicher Nachpflanzungen Zuleitung vom 08.06.2018 bis 24.06.2018
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 7.5.2: Weitere Unterrichtungen
+- TOP 7.5.2.1.: Organisatorische Hinweise zur Interessensbekundung für die Übernahme von gastronomischen Leistungen im Rahmen des 2. Neuperlacher Sommerfestes
+- TOP 7.6: Sonstige
+- TOP 8.1.1: Mobilität und Umwelt
+- TOP 8.1.1.1.: Montag, 16.07.2018, 19:00 Uhr, „Zum Aloisius“, Neuperlach, Max-Reinhardt-Weg 28, 81739 München
+- TOP 8.1.2: Budget, Kultur und Sport
+- TOP 8.1.2.1.: Montag, 09.07.2018, 19:30 Uhr, Nebenraum im Bräustüberl der Perlacher Forschungsbrauerei, Unterhachinger Str. 78, 81737 München
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 8.1.4.1.: Dienstag, 17.07.2018, 19.00 Uhr, Technisches Rathaus, Raum 0.409, Friedenstraße 40, 81671 München
+- TOP 8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.1.5.1.: Mittwoch, 11.07.2018, 19:00 Uhr, Stephanszentrum, Lüdersstraße 12, 81737 München
