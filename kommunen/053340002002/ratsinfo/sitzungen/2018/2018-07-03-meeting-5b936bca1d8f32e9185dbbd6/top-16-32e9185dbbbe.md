@@ -1,0 +1,7 @@
+# TOP 16: Sachstandsbericht Masterplanziel 10.000 Bäume Antrag der Fraktion: DIE LINKE vom 24.04.2018 <span style="color: #888a85" title="Zusatzinfo">(- Unterlagen werden nachgereicht -)</span>
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Ausschusses für Umwelt und Klimaschutz (2018-07-03)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b936bca1d8f32e9185dbbbe
+- Ergebnis: zurückgestellt
