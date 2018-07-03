@@ -1,0 +1,7 @@
+# TOP 1: Einwohnerfragestunde
+
+- Sitzung: 19. außerordentliche (teilweise nicht) öffentliche Sitzung des Ausschusses für Stadtplanung und Wirtschaft (2018-07-03)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=79558
+- Ergebnis: erledigt
