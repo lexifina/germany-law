@@ -1,0 +1,30 @@
+# Satzung zur Festlegung der Schulbezirksgrenzen der Grundschulen der Stadt Leipzig
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-DS-05605-NF-01
+- Art: Neufassung
+- Datum: 2018-07-03
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1010210
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a30cd2c66dc3b52ffbce0
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c096bf82c66dc3b52a97667
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a0272c66dc3b525eadef https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a1623
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a02c2c66dc3b525ec0d1 https://oparl.politik-bei-uns.de/organization/5c089ed62c66dc3b525a1aa3
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a0412c66dc3b525ecd9a https://oparl.politik-bei-uns.de/organization/5c089ed02c66dc3b525a1564
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a12d2c66dc3b52610f60 https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a21d2
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a1352c66dc3b5261121a https://oparl.politik-bei-uns.de/organization/5c089ec92c66dc3b525a0e0d
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a21d2c66dc3b52621c12 https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a1607
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2692c66dc3b52632989 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0fbb
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a26c2c66dc3b526334d4 https://oparl.politik-bei-uns.de/organization/5c089ee32c66dc3b525a245f
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a26f2c66dc3b52633f65 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a106d
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2802c66dc3b52637068 https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a221d
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2a02c66dc3b5263c736 https://oparl.politik-bei-uns.de/organization/5c089ede2c66dc3b525a20f8
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2d92c66dc3b52645a39 https://oparl.politik-bei-uns.de/organization/5c089ed02c66dc3b525a15af
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2fa2c66dc3b52649914 https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a15e4
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a3002c66dc3b5264a736 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a1014
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a3032c66dc3b5264a8af https://oparl.politik-bei-uns.de/organization/5c089ed42c66dc3b525a199d
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a30d2c66dc3b5264ad80 https://oparl.politik-bei-uns.de/organization/5c089ee02c66dc3b525a2273
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a30f2c66dc3b5264ae6e https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b48
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a31e2c66dc3b5264b63d https://oparl.politik-bei-uns.de/organization/5c089ecf2c66dc3b525a14b9
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: Beschlussfassung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
