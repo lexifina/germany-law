@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Betriebsausschusses 1 (Kultur, Ordnung, Ausländerwesen und Feuerwehr) (2018-07-04)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2018-B1-92%7Czt_2%7C2
