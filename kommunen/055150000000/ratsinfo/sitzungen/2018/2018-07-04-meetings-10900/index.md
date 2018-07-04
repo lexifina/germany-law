@@ -1,0 +1,109 @@
+# 32. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-07-04T17:58:00+02:00
+- Ende: 2018-07-04T23:03:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10900
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10900
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00425519.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Auswirkungen der Verlegung der Fernwärmeleitung vom Hansaring Richtung Ostmarkstraße auf den Baumbestand
+- TOP 1.2: Solidarität mit den nach Münster geflüchteten syrischen Kurden
+- TOP 1.3: Entwicklung des Hafencenter-Projekts
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Margaretenschule - Ausbau zur 3-Zügigkeit - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Beleuchtung von Straßen, Parks und Wegen optimieren - verwiesen
+- TOP 9.2: Schulweg sicher machen! - verwiesen
+- TOP 10: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2015 - einstimmig beschlossen
+- TOP 11: Einsatz von "Honorarkräften" bei der Stadt Münster - mehrheitlich beschlossen
+- TOP 12: Städtepartnerschaften der Stadt Münster: Aufbau weiterer städtepartnerschaftlicher Beziehungen Ratsantrag der SPD vom 22.11.2016 - Friedensstadt konkret (A-R/0052/2016) - mehrheitlich beschlossen
+- TOP 13: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 14: Besetzung von frei werdenden Positionen im Beirat für Stadtgestaltung - einstimmig beschlossen
+- TOP 15: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Roxel der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 16: Neustrukturierung der Wasserversorgung - DIPOL (nach Zustimmung der Bezirksregierung Münster zum Wasserversorgungskonzept vom 05.04.2018) - mehrheitlich geändert beschlossen
+- TOP 17: Perspektiven für den Haushaltsplan 2019 - Finanzeckwerte, Nachhaltige Haushaltssanierung - zur Kenntnis genommen
+- TOP 18: Haushaltsplanentwurf 2019 - voraussichtliches Investitionsprogramm - zur Kenntnis genommen
+- TOP 19: NKF-Gesamtabschluss der Stadt Münster zum 31.12.2016 - einstimmig beschlossen
+- TOP 20: Feststellung von Jahresabschlüssen
+- TOP 20.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2017 - einstimmig beschlossen
+- TOP 20.2: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2017 - mehrheitlich beschlossen
+- TOP 20.3: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2016/2017 - einstimmig beschlossen
+- TOP 20.4: Feststellung der Jahresabschlüsse 2017 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 20.5: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2017 - einstimmig beschlossen
+- TOP 21: Umsetzung des Konzeptes "Masterplan Allwetterzoo Münster 2030 plus" - mehrheitlich geändert beschlossen
+- TOP 22: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - mehrheitlich beschlossen
+- TOP 23: Gesellschafterdarlehen AirportPark FMO GmbH: Zinsanpassung und Tilgungsmodifizierung - mehrheitlich beschlossen
+- TOP 24: Verschmelzung der RVM-Verkehrsdienst GmbH auf die Regionalverkehr Münsterland GmbH - einstimmig beschlossen
+- TOP 25: Konversionsflächen der York- und Oxfordkaserne - einstimmig beschlossen
+- TOP 26: Fortschreibung des Baulandprogramms 2018 - 2025 - mehrheitlich beschlossen
+- TOP 26.1: Fortschreibung des Baulandprogramms 2018 - 2025
+- TOP 27: Gemeindliches Einvernehmen zur Errichtung eines zeitgemäßen Neubaus der Justizvollzugsanstalt Münster auf einem Standort nordöstlich von Münster-Wolbeck - mehrheitlich beschlossen
+- TOP 28: Zusammenarbeit in der Stadtregion Münster - zur Kenntnis genommen
+- TOP 29: Stellungnahme der Stadt Münster im Beteiligungsverfahren zur Änderung des Landesentwicklungsplans (LEP) NRW - mehrheitlich beschlossen
+- TOP 30: Integrierte Jugendhilfe- und Schulentwicklungsplanung Teilprojekt Schulsozialarbeit: Neuverteilung der kommunalen Personalressourcen für die Schuljahre 2018/2019 und 2019/2020 - mehrheitlich beschlossen
+- TOP 30.1: Integrierte Jugendhilfe- und Schulentwicklungsplanung Teilprojekt Schulsozialarbeit: Neuverteilung der kommunalen Personalressourcen für die Schuljahre 2018/2019 und 2019/2020
+- TOP 31: Änderung der Entgeltordnung für die Volkshochschule Münster aufgrund der Einführung der Ehrenamtskarte NRW - einstimmig beschlossen
+- TOP 32: Astrid Lindgren-Schule Gelmer: Aufstockung der bestehenden Fertigbauklassenanlage um eine weitere Fertigbauklasse - einstimmig beschlossen
+- TOP 33: Neubau der Grundschule Sprakel einschließlich einer Zweifachsporthalle auf einem Grundstück im Bereich des in Aufstellung befindlichen Bebauungsplanes Nr. 559: Sprakel - Nördlich Landwehr / Westlich Schlehenweg und Weißdornweg - einstimmig geändert beschlossen
+- TOP 33.1: Neubau der Grundschule Sprakel einschließlich einer Zweifachsporthalle auf einem Grundstück im Bereich des in Aufstellung befindlichen Bebauungsplanes Nr. 559: Sprakel - Nördlich Landwehr / Westlich Schlehenweg und Weißdornweg
+- TOP 34: Kindertagesbetreuungsbericht 2018 - mehrheitlich beschlossen
+- TOP 35: Trägervergabe für die Kindertageseinrichtung in Amelsbüren an der Landsberger Straße - mehrheitlich beschlossen
+- TOP 36: Trägervergabe für die Kindertageseinrichtung in Wolbeck an der Petersheide - mehrheitlich beschlossen
+- TOP 37: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Zentrum Nord, Münster-Mitte - mehrheitlich beschlossen
+- TOP 38: Unternehmensgruppe Altenzentrum Klarastift / Änderung des Gesellschaftsvertrages der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 39: Quartiersmanagement Stadtraum Hauptbahnhof / Bremer Platz - mehrheitlich beschlossen
+- TOP 40: Neues Konzept für die Betreuung von Menschen in städtischen Obdachloseneinrichtungen - Festlegung weiterer Standorte - mehrheitlich beschlossen
+- TOP 41: Weiterführung der Wärmedämmstandards der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 42: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 43: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche, Durchführung weiterer Umnutzungs- und Sanierungsmaßnahmen - einstimmig beschlossen
+- TOP 43.1: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche, Durchführung weiterer Umnutzungs- und Sanierungsmaßnahmen
+- TOP 44: Nachhaltige Quartiersentwicklung und Quartiersmanagement - von der Tagesordnung abgesetzt
+- TOP 45: Bauleitplanung
+- TOP 45.1: Stadtbezirk Münster-Mitte
+- TOP 45.1.1: Bebauungsplan Nr. 586 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 45.2: Stadtbezirk Münster-West
+- TOP 45.2.1: 69. Änderung des FNP Teilbereich 2 - Abschließender Beschluss - einstimmig beschlossen
+- TOP 45.3: Stadtbezirk Münster-Hiltrup
+- TOP 45.3.1: 86. Änderung des FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 45.3.2: 55. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 45.3.3: Bebauungsplan Nr. 568 - Beschluss über die Stellungnahmen - Satzungsbeschluss / Aufhebung des Bebauungsplans Nr. 183 - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 45.4: Stadtbezirk Münster-Nord
+- TOP 45.4.1: 90. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 559 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 45.4.2: Bebauungsplan Nr. 587 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 45.5: Stadtbezirk Münster-Südost
+- TOP 45.5.1: 63. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 588 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 45.5.2: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 45.5.2.1: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss
+- TOP 45.6: Stadtbezirk Münster-Ost
+- TOP 45.6.1: 80. Änderung des Flächennutzungsplans - Beschluss über Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 46: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 46.1: Stadtplanerische und bauliche Entwicklung in Münster-Ost im Zusammenhang bewerten und entwickeln - zurückgezogen
+- TOP 47: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 47.1: Gemeinwohlökonomie in der Stadt Münster stärken - verwiesen
+- TOP 47.2: Bonus-System für Baumaßnahmen im Stadt-verkehr: Vorteile gegen Mehrkosten abwägen - verwiesen
+- TOP 47.3: Wohnen für junge Familien in Münster fördern – Schaffung von Wohneigentum unterstützen - verwiesen
+- TOP 47.4: Wohnraum schaffen ohne Flächenversiegelung - verwiesen
+- TOP 47.5: Auf Open Source Software umsteigen - verwiesen
+- TOP 47.6: Keine Kommerzialisierung kommunaler Daten - verwiesen
+- TOP 47.7: WLE: Reaktivierung der Schienenstrecke richtig umsetzen - verwiesen
+- TOP 47.8: Photovoltaik und Klimaschutz gemeinsam mit der Bürgerschaft voranbringen - verwiesen
+- TOP 47.9: LKW-Abbiegesysteme für mehr Verkehrssicherheit im städtischen Fuhrpark nachrüsten - verwiesen
+- TOP 47.10: Hochschulstandort stärken, Wohnraumangebot für Studierende ausbauen - verwiesen
+- TOP 47.11: Wohnraum für Wohnungslose schaffen – „Housing first“ in Münster umsetzen - verwiesen
+- TOP 47.12: Teilhabe am sozialen Arbeitsmarkt - verwiesen
+- TOP 48: Verschiedenes
