@@ -1,0 +1,51 @@
+# Rat (49. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2018-07-04T18:00:00+02:00
+- Ende: 2018-07-04T22:37:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbnxXaVmGHxbBWR8n80x6mo
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3840
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfU9WSypR0fbXgmKcdkW5QJq_vYfrX03kEmA2Fd-c-1T/Bekanntmachung_Rat_04.07.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdwpmOBW-0GaYQweWcxjjX5ZZMx0-Md9f62B7f-ZdZeM/Oeffentliche_Niederschrift_Rat_04.07.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Prüfung der Denkmal-Unterschutzstellung nach Abrissgenehmigung (Herren Bröker und Perrevort)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 06.06.2018
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Fragen der Ortsbildpflege und des Denkmalschutzes im Ortsteil Epe; Antrag der FDP-Fraktion vom 18.06.2018 - 20 Jastimmen, 15 Neinstimmen, 2 Enthaltungen
+- TOP 4.2: Antrag der Fraktion Pro! Bürgerschaft/Piraten im Rat der Stadt Gronau Kapelle am Prozessionsweg - Unterschutzstellung gem. § 3 DSchG - Einstimmig, 0 Enthaltungen
+- TOP 5.: Jahresabschluss für das Abwasserwerk der Stadt Gronau (Westf.) Wirtschaftsjahr 2017 - Schlussbesprechung und Beschlussfassung - Einstimmig, 0 Enthaltungen
+- TOP 6.: Wasserversorgungskonzept der Stadt Gronau (Westf.) gem. § 38 Absatz 3 LWG - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erwerb eines Geschäftsanteils der Stadt Gronau an der Genossenschaft grogeno - Bürgerenergie Gronau eG - Ohne Abstimmung
+- TOP 8.: Spenden resultierend aus anteiligen Gewinnabführungen der Sparkasse Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 9.: Anregungen und Beschwerden gem. § 24 GO NRW Bürgerantrag Nr. 2/2018 vom 06.04.2018 Aufstellungsbeschluss für einen Straßenabschnitt bezogenen Bebauungsplan im Stadtteil Epe - Einstimmig, 0 Enthaltungen
+- TOP 10.: Aufstellungsbeschluss Bebauungsplan Nr. 26 „Bayernstraße“, 3. Änderung, Stadtteil Gronau (zugleich Änderung des Bebauungsplanes Nr. 57, Stadtteil Gronau) (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 11.: Vorhabenbezogener Bebauungsplan Lennéstraße, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss 6. Berichtigung des Flächennutzungsplans - Ohne Abstimmung
+- TOP 11.1: Vorhabenbezogener Bebauungsplan Lennéstraße, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Satzungsbeschluss 6. Berichtigung des Flächennutzungsplans - Einstimmig, 1 Enthaltungen
+- TOP 12.: Anpassung der Beitragssatzung für die OGS / ÜMI an Gronauer Grundschulen - Einstimmig, 1 Enthaltungen
+- TOP 13.: Richtlinie zur Besetzung von Führungspositionen und Stellen in der Rechnungsprüfung - Einstimmig, 0 Enthaltungen
+- TOP 13.1: Richtlinie zur Besetzung von Führungspositionen und Stellen in der Rechnungsprüfung - Ohne Abstimmung
+- TOP 14.: Stellenbedarf im Fachdienst Sicherheit und Ordnung - Feuerwehr - Einstimmig, 0 Enthaltungen
+- TOP 15.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 16.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 17.: Mitteilungen der Verwaltung
+- TOP 18.: Anfragen
+- TOP 18.1: Sachstandbericht zum Gleisdreieck an der Gildehauser Straße (RM Krause)
+- TOP 18.2: Ermäßigungen für den Bäderbesuch und Schwimmkurse für Geringverdiener und Leistungsbezieher (RM Strestik)
+- TOP 18.3: Verbesserungsvorschlag für die Sirenen-Alarmierung (RM Ricking)
+- TOP 18.4: Fallschutzkies an der Hermann-Löns-Schule (RM U. Doetkotte)
+- TOP 18.5: Änderung der Geschäftsordnung möglich? (RM Gabbe)
+- TOP 18.6: Dankschreiben an die Hilfskräfte beim Feuerwehreinsatz an der Brookstraße am 29.06.2018 (RM Jürgens)
+- TOP 18.7: Anregungen für den Außenbereich der Viktoriaschule (RM Buchholz)
