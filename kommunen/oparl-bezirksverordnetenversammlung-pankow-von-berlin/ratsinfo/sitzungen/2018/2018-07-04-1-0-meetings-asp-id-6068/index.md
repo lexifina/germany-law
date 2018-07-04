@@ -1,0 +1,92 @@
+# 17. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2018-07-04T18:30:00+02:00
+- Ende: 2018-07-04T22:20:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6068
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6068
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=167589
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Gleimstr. 56 – Vorkaufsrecht konsequent wahrnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Bearbeitungsstand Drs. VII-1057 - beantwortet
+- TOP 1.5.2: Graffiti im Mauerpark (Drucksache Nr.: VIII-0174) - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachweis der im Haushaltsjahr 2017 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.9: Einwohnerversammlung zum Bebauungsplan 3-59 (ehemals XIX-48c) - überwiesen
+- TOP 1.10: Pedelecs für das Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Parkraumbewirtschaftung und Anwohnerparken für die Carl-Legien-Siedlung und ihre Umgebung - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Mobilitätsmonitore in den Bürgerämtern - in der BVV abgelehnt
+- TOP 1.13: Baustellenkoordinierung im öffentlichen Straßenland - in der BVV abgelehnt
+- TOP 1.14: Rasche Nutzbarmachung der Wege im Ernst-Thälmann-Park - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Mehr Sicherheit für die Schüler der Kurt-Tucholsky-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Beschleunigung von Bebauungsplanverfahren - in der BVV abgelehnt
+- TOP 1.17: Verkehrsinfrastruktur vorausschauend planen - in der BVV abgelehnt
+- TOP 1.18: Langfristige Sicherung der Kleingartenanlagen im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Mehr Schulwegsicherheit in der Görschstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Erzieher*innen und Sozialarbeiter*innen besser bezahlen – Möglichkeiten des TV-L ausnutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Obdachlosigkeit unkonventionell begegnen – Little Home e.V. unterstützen - überwiesen
+- TOP 1.22: Conrad-Blenkle Straße - überwiesen
+- TOP 1.23: Verkehrssicherheit in der Triftstraße im Ortsteil Französisch Buchholz verbessern - überwiesen
+- TOP 1.24: Schützung der Erholungsanlage Blankenburg - in der BVV abgelehnt
+- TOP 1.25: Keine Werbung der Bundeswehr an Pankower Schulen - überwiesen
+- TOP 1.26: Schulneubauten für ihre Nachbarschaft öffnen - überwiesen
+- TOP 1.27: Radwege befahrbarer machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: „Kurze Beine - kurze Wege“ auch für Erstklässler im Gebiet Alter Schlachthof - überwiesen
+- TOP 1.29: Gründung von Schulbauausschüssen fördern - überwiesen
+- TOP 1.30: Regelmäßiges Vernetzungs- und Austauschtreffen für die und mit der freie(n) Kulturszene in Pankow veranstalten - überwiesen
+- TOP 1.31: Soziale Erhaltungsziele konsequenter durchsetzen: die Umwandlung von Miet- in Eigentumswohnungen in Abwendungsvereinbarungen ausschließen - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Stellungnahme zur geplanten Änderung des Flächennutzungsplanes im Ortsteil Buch - überwiesen
+- TOP 1.33: Opferberatung und Bildung gegen Rechtsextremismus, Rassismus und Antisemitismus »ReachOut« bekannter machen - überwiesen
+- TOP 1.34: Jubiläen von Einrichtungen der freien Kunst- und Kulturszene in Pankow bekannt machen und würdigen - überwiesen
+- TOP 1.35: Jahresbericht zur Anwendung des Vorkaufsrechts - überwiesen
+- TOP 1.36: Nutzbarkeit der Sitzgelegenheiten im Bürgerpark Pankow und im Schlosspark Schönhausen wiederherstellen und dauerhaft sicherstellen - überwiesen
+- TOP 1.37: Umsetzung der »Charta der Vielfalt« - überwiesen
+- TOP 1.38: Konzept und Umsetzungsweg für ein Informationsblatt über Bezirkspolitik in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Stellensituation im Bezirksamt - überwiesen
+- TOP 1.40: Abwasseranschlüsse für schnell wachsende Siedlungsgebiete - überwiesen
+- TOP 1.41: Wohnberechtigungsscheine (WBS) für wohnungslose Alleinerziehende - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Freiräume schaffen - Zwischennutzung ermöglichen - überwiesen
+- TOP 1.43: Transparentes Verfahren auch bei Mietverträgen bezirklicher Objekte - überwiesen
+- TOP 1.44: Unterrichtung der BVV über FNP-Änderungsverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 1.45: Straßen- und Gehwegschäden beseitigen - überwiesen
+- TOP 1.46: Mehr Schulwegsicherheit in der Tino- Schwierzina- Straße - überwiesen
+- TOP 1.47: Toilettenanlage im Park am Weißen See öffnen - überwiesen
+- TOP 1.48: Praxis der Beantwortung kleiner Anfragen verbessern - mit Änderungen in der BVV beschlossen
+- TOP 1.49: Fahrgäste schützen - Wahrnehmbarkeit von Haltestellen verbessern - überwiesen
+- TOP 1.50: Fahrradabstellanlagen am S- und U-Bahnhof Schönhauser Allee ausbauen - überwiesen
+- TOP 1.51: Pankow nutzt die Bundesinitiative „Kurze Wege für den Klimaschutz“- summend und blühend durch die Jahreszeiten - in der BVV abgelehnt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vertagte Drucksachen der 16. BVV am 06.06.2018, Unterlagen wurden bereits ausgehändigt - (offen)
+- TOP 2.1.1: Brandschutz an Pankower Schulen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.2: Alternativer Standort für den Vogelgnadenhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Keine erneuten Eisflächen in der Boenkestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.4: Ausgleichsflächen für die Realisierung der größeren Wohnungsbaustandorte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.5: Verkehrssicherheit an der Klecksgrundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.6: Petition zur „Verlängerung der Heidekrautbahn über Wilhelmsruh bis Berlin Gesundbrunnen“ unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Vietnamesischsprachige Erziehungs- und Familienberatung (EFB) in Berlin einrichten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Mehr Angebote für obdachlose Frauen schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Coding Hub in Pankow bekannt machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bezirkliche Seniorenvertretung stärken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Bildung des Integrationsbeirates der VIII. Wahlperiode - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Stammstrecke der Heidekrautbahn als Leuchtturmprojekt für i2030 voranbringen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Aufhebung des BA-Beschlusses zur Ausübung des Vorkaufsrechts Belforter Straße 16 vom 19.12.2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Neuerrichtung der Wegebeleuchtung in der Erholungsanlage ‚Blankenburg‘ in Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Trilaterale Zielvereinbarung 2018 zwischen den Trägern des Jobcenters Berlin Pankow und der Geschäftsführung des Jobcenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Verteilung der Erträge der Sammelstiftung Kreuzberg 2019 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Prüfkriterien für die Beurteilung von Anträgen auf Rückbau, Änderung oder Nutzungsänderung baulicher Anlagen in den Erhaltungsgebieten nach § 172 Absatz 1 Satz 1 Nummer 2 BauGB (soziale Erhaltungsgebiete) im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
