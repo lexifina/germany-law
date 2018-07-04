@@ -1,0 +1,53 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-07-04T15:00:00+02:00
+- Ende: 2018-07-04T17:40:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4099
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4099
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die . Sitzung des Rates am - öffentlicher Teil - Siehe Anlage - Zur Kenntnis genommen
+- TOP 2: Jahresabschluss der Stadtsparkasse MG - Einstimmiger Beschluss
+- TOP 3: Entlastung Sparkassenorgane - Einstimmiger Beschluss
+- TOP 4: Betriebsleistung der BVR Busverkehr Rheinland GmbH - Einstimmiger Beschluss
+- TOP 5: Anbpassung Geseellschaftsvertrag NEW m&a Mg - Einstimmiger Beschluss
+- TOP 6: Anpassung der Satzung der NEW AG - Einstimmiger Beschluss
+- TOP 7: Unterjährige Anpassung HSP - Mit Stimmenmehrheit beschlossen
+- TOP 7.1: Unterjährige Anpassung des Haushaltssanierungsplanes – Vorlagen-Nr.: 3183/IX - Einstimmiger Beschluss
+- TOP 7.2: Vorlage 3183/IX - Unterjährige Anpassung des Haushaltssanierungsplanes - Mit Stimmenmehrheit abgelehnt
+- TOP 7.3: Vorlage 3183/IX - Unterjährige Anpassung des Haushaltssanierungsplanes - Mit Stimmenmehrheit abgelehnt
+- TOP 8: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 - Kenntnisnahme
+- TOP 9: Ordnungsbehördliche Verordnung Offenhalten Verkaufsstellen Stadtschützenfest - Mit Stimmenmehrheit beschlossen
+- TOP 10: OGS im Primarbereich - Einstimmiger Beschluss
+- TOP 11: Kommunale Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 11.1: Fortführung Projekt Kom. Schulsozialarbeit - Vom Antragsteller zurückgezogen
+- TOP 11.2: Zur Beratungsvorlage 2919/IX: Fortführung des Projektes Kommunale Schulsozialarbeit - Einstimmiger Beschluss
+- TOP 12: Jahresabschluss 2017 der Gebäudereinigung der Stadt Mönchengladbach (GSM) und Verwendung des Jahresü - Einstimmiger Beschluss
+- TOP 13: Jahresbericht zur Abwasserbeseitigung 2017 - Kenntnisnahme
+- TOP 14: Einundfünfzigster Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 15: Erste Verlängerung Veränderungssperre Europaplatz - Einstimmiger Beschluss
+- TOP 16: Erste Verlängerung Veränderungssperre Venner Straße - Einstimmiger Beschluss
+- TOP 17: Bebauungsplan Nr. 773/S "An den Fichten" - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 18: Bebauungsplan Nr. 780/O ("Friesenstraße"), § 13a BauGB, Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 783/O, § 13a BauGB, ("Bönninghausenstraße") - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 20: Instandsetzung von Straßenbrücken - Einstimmiger Beschluss
+- TOP 21: Bericht Stadtklima - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Wildniswald - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Nachnutzung ehemaliges Polizeipräsidium Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 24: Umsetzung des Tarifergebnisses im ÖffentlichenDienst (TVöD) für die Beschäftigten aller Städtischen - Getrennte Abstimmung (s. Niederschrift)
+- TOP 25: Aufbau einer offenen, digitalen Internet-Parken-Plattform in Mönchengladbach zur Information über Pa - Einstimmiger Beschluss
+- TOP 26: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 27: Anfragen und Mitteilungen
+- TOP 27.1: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur Vermeidung von Plastikmüll - Zur Kenntnis genommen
+- TOP 27.2: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur Umsetzung des Glücksspielstaatsvertrages - Zur Kenntnis genommen
+- TOP 27.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zu Elektrofahrrädern
+- TOP 27.4: Anfrage von RF Stephan (FDP) zu einer Touristeninformation
+- TOP 27.5: Anfrage von RF Finger (FDP) zum Medienentwicklunsplan Schulen
+- TOP 27.6: Mitteilung von Oberbürgermeister Reiners zur Haushaltsverfügung
+- TOP 27.7: Mitteilung von Oberbürgermeister Reiners zum neuen Rathaus
