@@ -1,0 +1,92 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-07-04T17:19:00+02:00
+- Ende: 2018-07-04T23:01:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10899
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10899
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00425517.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 3: Bericht über die Beschäftigung von Menschen mit Schwerbehinderungen und diesen Gleichgestellten bei der Stadt Münster 2015 - 2017 - zur Kenntnis genommen
+- TOP 4: Kosten für Abfallentsorgung bei Menschen, die auf Grund einer Behinderung oder aufgrund von gesundheitlichen Einschränkungen einen erhöhten Bedarf an Windeln haben - einstimmig geändert beschlossen
+- TOP 5: Jahresabschlüsse von Gesellschaften
+- TOP 5.1: Jahresabschluss 2017 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 5.2: Jahresabschluss 2017 der FMO Flughafen Münster/Osnabrück GmbH (FMO GmbH) - mehrheitlich beschlossen
+- TOP 5.3: Jahresabschluss 2017 der AirportPark FMO GmbH - mehrheitlich beschlossen
+- TOP 5.4: KonvOY GmbH: Jahresabschluss 2017, Feststellung des Jahresergebnisses, Beschluss über die Verwendung des Jahresergebnisses und über die Entlastung der Geschäftsführung - einstimmig beschlossen
+- TOP 6: Bestellung des Abschlussprüfers für das Geschäftsjahr 2018 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 7: Antrag an den Rat Nr. A-R/0025/2010: Bürgerschaft am Klimaschutz beteiligen - mehrheitlich beschlossen
+- TOP 8: KlimaDiskurs.NRW e.V. - Beitritt der Stadt Münster - mehrheitlich beschlossen
+- TOP 9: Erweiterung der Grundschulen Kreuzschule und Mauritzschule in Münster zur vollen Dreizügigkeit - Beschluss zur Durchführung eines nichtoffenen Architektenwettbewerbs - einstimmig beschlossen
+- TOP 9.1: Erweiterung der Grundschulen Kreuzschule und Mauritzschule in Münster zur vollen Dreizügigkeit - Beschluss zur Durchführung eines nichtoffenen Architektenwettbewerbs
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 10: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2015 - einstimmig beschlossen
+- TOP 11: Einsatz von "Honorarkräften" bei der Stadt Münster - einstimmig beschlossen
+- TOP 12: Städtepartnerschaften der Stadt Münster: Aufbau weiterer städtepartnerschaftlicher Beziehungen Ratsantrag der SPD vom 22.11.2016 - Friedensstadt konkret (A-R/0052/2016) - ohne Beschlussfassung geschoben
+- TOP 13: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Roxel der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 14: Neustrukturierung der Wasserversorgung - DIPOL (nach Zustimmung der Bezirksregierung Münster zum Wasserversorgungskonzept vom 05.04.2018) - ohne Beschlussfassung geschoben
+- TOP 15: Perspektiven für den Haushaltsplan 2019 - Finanzeckwerte, Nachhaltige Haushaltssanierung - zur Kenntnis genommen
+- TOP 16: Haushaltsplanentwurf 2019 - voraussichtliches Investitionsprogramm - zur Kenntnis genommen
+- TOP 17: NKF-Gesamtabschluss der Stadt Münster zum 31.12.2016 - einstimmig beschlossen
+- TOP 18: Feststellung von Jahresabschlüssen
+- TOP 18.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2017 - einstimmig beschlossen
+- TOP 18.2: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2017 - einstimmig beschlossen
+- TOP 18.3: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2016/2017 - einstimmig beschlossen
+- TOP 18.4: Feststellung der Jahresabschlüsse 2017 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 18.5: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2017 - einstimmig beschlossen
+- TOP 19: Umsetzung des Konzeptes "Masterplan Allwetterzoo Münster 2030 plus" - ohne Beschlussfassung geschoben
+- TOP 20: Managementkontrakt (MMK) mit der Westfälischer Zoologischer Garten Münster GmbH (Zoo GmbH) - ohne Beschlussfassung geschoben
+- TOP 21: Gesellschafterdarlehen AirportPark FMO GmbH: Zinsanpassung und Tilgungsmodifizierung - mehrheitlich beschlossen
+- TOP 22: Verschmelzung der RVM-Verkehrsdienst GmbH auf die Regionalverkehr Münsterland GmbH - einstimmig beschlossen
+- TOP 23: Konversionsflächen der York- und Oxfordkaserne - ohne Beschlussfassung geschoben
+- TOP 24: Fortschreibung des Baulandprogramms 2018 - 2025 - ohne Beschlussfassung geschoben
+- TOP 24.1: Fortschreibung des Baulandprogramms 2018 - 2025
+- TOP 25: Gemeindliches Einvernehmen zur Errichtung eines zeitgemäßen Neubaus der Justizvollzugsanstalt Münster auf einem Standort nordöstlich von Münster-Wolbeck - mehrheitlich beschlossen
+- TOP 26: Zusammenarbeit in der Stadtregion Münster - zur Kenntnis genommen
+- TOP 27: Stellungnahme der Stadt Münster im Beteiligungsverfahren zur Änderung des Landesentwicklungsplans (LEP) NRW - ohne Beschlussfassung geschoben
+- TOP 28: Integrierte Jugendhilfe- und Schulentwicklungsplanung Teilprojekt Schulsozialarbeit: Neuverteilung der kommunalen Personalressourcen für die Schuljahre 2018/2019 und 2019/2020 - ohne Beschlussfassung geschoben
+- TOP 28.1: Integrierte Jugendhilfe- und Schulentwicklungsplanung Teilprojekt Schulsozialarbeit: Neuverteilung der kommunalen Personalressourcen für die Schuljahre 2018/2019 und 2019/2020
+- TOP 29: Änderung der Entgeltordnung für die Volkshochschule Münster aufgrund der Einführung der Ehrenamtskarte NRW - einstimmig beschlossen
+- TOP 30: Astrid Lindgren-Schule Gelmer: Aufstockung der bestehenden Fertigbauklassenanlage um eine weitere Fertigbauklasse - einstimmig beschlossen
+- TOP 31: Neubau der Grundschule Sprakel einschließlich einer Zweifachsporthalle auf einem Grundstück im Bereich des in Aufstellung befindlichen Bebauungsplanes Nr. 559: Sprakel - Nördlich Landwehr / Westlich Schlehenweg und Weißdornweg - einstimmig geändert beschlossen
+- TOP 31.1: Neubau der Grundschule Sprakel einschließlich einer Zweifachsporthalle auf einem Grundstück im Bereich des in Aufstellung befindlichen Bebauungsplanes Nr. 559: Sprakel - Nördlich Landwehr / Westlich Schlehenweg und Weißdornweg
+- TOP 32: Kindertagesbetreuungsbericht 2018 - ohne Beschlussfassung geschoben
+- TOP 33: Trägervergabe für die Kindertageseinrichtung in Amelsbüren an der Landsberger Straße - ohne Beschlussfassung geschoben
+- TOP 34: Trägervergabe für die Kindertageseinrichtung in Wolbeck an der Petersheide - ohne Beschlussfassung geschoben
+- TOP 35: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung im Zentrum Nord, Münster-Mitte - ohne Beschlussfassung geschoben
+- TOP 36: Unternehmensgruppe Altenzentrum Klarastift / Änderung des Gesellschaftsvertrages der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 37: Quartiersmanagement Stadtraum Hauptbahnhof / Bremer Platz - mehrheitlich beschlossen
+- TOP 38: Neues Konzept für die Betreuung von Menschen in städtischen Obdachloseneinrichtungen - Festlegung weiterer Standorte - ohne Beschlussfassung geschoben
+- TOP 39: Weiterführung der Wärmedämmstandards der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 40: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 41: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche, Durchführung weiterer Umnutzungs- und Sanierungsmaßnahmen - ohne Beschlussfassung geschoben
+- TOP 41.1: Dauerhafte Installation eines Kunstwerkes von Gerhard Richter in der Dominikanerkirche, Durchführung weiterer Umnutzungs- und Sanierungsmaßnahmen
+- TOP 42: Nachhaltige Quartiersentwicklung und Quartiersmanagement - von der Tagesordnung abgesetzt
+- TOP 43: Bauleitplanung
+- TOP 43.1: Stadtbezirk Mitte
+- TOP 43.1.1: Bebauungsplan Nr. 586 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 43.2: Stadtbezirk West
+- TOP 43.2.1: 69. Änderung des FNP Teilbereich 2 - Abschließender Beschluss - einstimmig beschlossen
+- TOP 43.3: Stadtbezirk Hiltrup
+- TOP 43.3.1: 86. Änderung des FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 43.3.2: 55. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 43.3.3: Bebauungsplan Nr. 568 - Beschluss über die Stellungnahmen - Satzungsbeschluss / Aufhebung des Bebauungsplans Nr. 183 - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 43.4: Stadtbezirk Nord
+- TOP 43.4.1: 90. Änderung FNP- Beschluss zur Änderung - Bebauungsplan Nr. 559 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 43.4.2: Bebauungsplan Nr. 587 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 43.5: Stadtbezirk Südost
+- TOP 43.5.1: 63. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 588 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 43.5.2: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 43.5.2.1: Bebauungsplan Nr. 553 - Beschluss über die Stellungnahmen - Satzungsbeschluss
+- TOP 43.6: Stadtbezirk Ost
+- TOP 43.6.1: 80. Änderung des Flächennutzungsplans - Beschluss über Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 44: Verschiedenes
