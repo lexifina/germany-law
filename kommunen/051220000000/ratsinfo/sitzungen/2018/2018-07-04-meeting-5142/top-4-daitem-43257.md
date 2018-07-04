@@ -1,0 +1,7 @@
+# TOP 4.: Austausch mit dem Jugendstadtrat über eine Zusammenarbeit
+
+- Sitzung: Seniorenbeirat (28. Sitzung) (2018-07-04)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/43257
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/27823
