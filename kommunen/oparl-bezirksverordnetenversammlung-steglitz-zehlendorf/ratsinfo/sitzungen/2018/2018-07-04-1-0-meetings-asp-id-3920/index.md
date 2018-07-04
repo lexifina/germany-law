@@ -1,0 +1,66 @@
+# 15. außerordentliche öffentliche Sitzung des Ausschusses für Ordnung, Verkehr und Bürgerdienste
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-07-04T17:30:00+02:00
+- Ende: 2018-07-04T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=61
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3920
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3920
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 06.06.2018 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Steglitz-Zehlendorf macht sich stark für die Tram / Erschließung aus dem Osten - erledigt
+- TOP 4.2: Präsenz von Ordnungsamt und Polizei an der Johannes-Tews-Schule - erledigt
+- TOP 4.3: Barrierefreier Zugang S-Bahnhof Nikolassee - erledigt
+- TOP 4.4: Verbesserte Umsteige-Chancen am Bus-Knoten Lankwitz Kirche im Nachtnetz (N81, N84 und M82) - erledigt
+- TOP 4.5: Müllabfuhr in der Marschnerstraße sicherstellen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Busbeschleunigung Sachtleben-/Machnower Straße - erledigt
+- TOP 4.7: Verbesserung der Querungsmöglichkeit über die Bäkebrücke - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.8: Aushänge und Notfallkarten von Hilfetelefonnummern gegen Gewalt im Bezirk ergänzen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.9: Cannabiskonsum unter Jugendlichen - erledigt
+- TOP 4.10: Anpassung der Software bei Lichtzeichenanlagen - erledigt
+- TOP 4.11: Barrierefreiheit an der Busendhaltestelle Sachtlebenstraße herstellen - erledigt
+- TOP 4.12: Kreuzung Unterführung Stadtautobahn / Schildhornstraße / Kreuznacher Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.13: Energie sparen LZA Bismarckstraße/Selerweg - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.14: Durchfahrtsbreitenverbote umstellen - erledigt
+- TOP 4.15: Bushaltestelle Dillgesstraße deutlich kennzeichnen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.16: Parken im Lupsteiner Weg - mit Änderungen im Ausschuss beschlossen
+- TOP 4.17: Pilotprojekt für eine Abstimmung zwischen der Abfahrt des Busses der Linie 112 der BVG mit der S-Bahn am Bahnhof Nikolassee in den Abendstunden - erledigt
+- TOP 4.18: Akzeptanz von Kreditkarten im Bürgeramt - im Ausschuss abgelehnt
+- TOP 4.19: Verstärkung der Buslinie 284 zwischen S-Bahnhof Lichterfelde-Süd und Haltestelle Lankwitz Kirche - erledigt
+- TOP 4.20: Radstreifen auf der Birkbuschstraße - erledigt
+- TOP 4.21: Eine Buswendeschleife bringt nur etwas, wenn dort auch Busse wenden können - erledigt
+- TOP 4.22: Zum Schichtwechsel wäre einer mehr ganz nett - erledigt
+- TOP 4.23: X10 aufrechterhalten - erledigt
+- TOP 4.24: Engstelle Moltkebrücke in beiden Richtungen befahren - erledigt
+- TOP 4.25: Zweiter Ausgang für den S-Bahnhof Botanischer Garten - erledigt
+- TOP 4.26: LSA Königsberger Straße - S-Bahn-Unterführung Lichterfelde Ost - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.27: Bushaltestelle „Wasgensteig“ in „Studentendorf Schlachtensee“ umbenennen - erledigt
+- TOP 4.28: Freie Fahrt für Radfahrer*innen am Hindenburgdamm vor dem Geisterhaus - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.29: Endlich ein pünktlicher Bus X83 - erledigt
+- TOP 4.30: Verstärkung der Buslinie 283 auf den Teilstrecken - erledigt
+- TOP 4.31: Straßenzug Laubacher-, Maßmann-, Lepsiusstraße - Tempo 30! - erledigt
+- TOP 4.32: Hinweis für Anhänger - erledigt
+- TOP 4.33: Radfahrstreifen auf der Potsdamer Chaussee zwischen Kronprinzessinnenweg und Forst- bzw. Fürstenstraße - erledigt
+- TOP 4.34: Feuerbachstraße: Ausreichend Platz auf dem Bürgersteig - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.35: Feuerbachstraße Tempo 30 - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.36: Sichere Querungen Dahlemer Weg - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.37: „Am Großen Wannsee“: Einbahnstraße vs. Fahrradfahrer - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.38: Verbesserung der Anbindung durch öffentlichen Nahverkehr in Wannsee - erledigt
+- TOP 4.39: In der Kirchstraße muss auch die Rettung und Feuerwehr passieren können - erledigt
+- TOP 4.40: Parkregelung Schlossstraße für die Zeit der Kreiselarbeiten ändern - erledigt
+- TOP 4.41: Sichere Königstraße - erledigt
+- TOP 4.42: Zebrastreifen über die Finckensteinallee hinweg an der Kreuzung Baseler Straße - erledigt
+- TOP 4.43: Haltestelle Pinnauweg markieren - erledigt
+- TOP 4.44: Bedarfsampel Filandastraße/Auffahrt Tiburtiusbrücke - erledigt
+- TOP 4.45: Barrierefreiheit an der Bushaltestelle Charité – Campus Benjamin Franklin - erledigt
+- TOP 4.46: Bürgerterminal bereitstellen - erledigt
+- TOP 4.47: Teltower Damm/Kirchstraße - Zusatzschild vor LSA - erledigt
+- TOP 5: Verschiedenes - erledigt
