@@ -1,0 +1,155 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2018-07-04T17:00:00+02:00
+- Ende: 2018-07-04T22:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4409
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4409
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=284211
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Überfüllung der S-Bahnlinie 1 - beantwortet
+- TOP 2.2: Einbahnstraße zwischen Dianastr. und B 96 - vertagt
+- TOP 2.3: Heizkraftwerk Wittenau - beantwortet
+- TOP 2.4: Grün des KBoN-Geländes - beantwortet
+- TOP 2.5: Gelände des ehemaligen KBoN - beantwortet
+- TOP 2.6: Vollzug der Abschiebung - erledigt
+- TOP 2.7: Kolonie Talheim - schriftlich beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 22. Sitzung der BVV am 04.07.2018 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Baumaßnahme in Wittenau - beantwortet
+- TOP 4.2: Keime im Flughafensee - beantwortet
+- TOP 4.3: Schulweg-Sicherheit in Heiligensee - beantwortet
+- TOP 4.4: Mäckeritzwiesen - beantwortet
+- TOP 4.5: Jugendhilfe und Überleitung in eigene Wohnung - beantwortet
+- TOP 4.6: Sportvereine in Reinickendorf - zurückgezogen
+- TOP 4.7: Gefahr für Reinickendorfer Bürger durch Handlungsunfähigkeit der freiwilligen Feuerwehr - beantwortet
+- TOP 4.8: Abenteuerspielplatz sichern! - beantwortet
+- TOP 4.9: Barrierefreie Bibliotheken - beantwortet
+- TOP 4.10: Fahrrat in Reinickendorf - beantwortet
+- TOP 4.11: Einsätze gegen den Welpenhandel II - beantwortet
+- TOP 4.12: Einspruch des Bezirksamtes gegen den Bau neuer Asylbewerberheime - beantwortet
+- TOP 4.13: "Weiterverwiesen, bis die Pflanzlust vergangen ist?" - schriftlich beantwortet
+- TOP 4.14: Überprüfungskonzept zur Standfestigkeit öffentlicher Gebäude - schriftlich beantwortet
+- TOP 4.15: Unterkünfte für geflüchtete Menschen - schriftlich beantwortet
+- TOP 4.16: Zukunft der Menschen in den Mäckeritzwiesen und in Heiligensee - schriftlich beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Kita-Bedarf (Große Anfrage) - beantwortet
+- TOP 5.1.1: Kita-Bedarf - überwiesen
+- TOP 5.1.2: Kita-Bedarf - überwiesen
+- TOP 5.2: Grundschulmesse (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.3: Bürgerbeteiligung bei zukünftigen Asylbewerberheimen und Flüchtlingsunterkünften (Beschlussempfehlung) - mit Änderungen in der BVV beschlossen
+- TOP 5.4: Bürgerbeteiligung bei Unterkünften für Geflüchtete ausweiten (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Umleitungsbelastungen in Heiligensee vermeiden (Beschlussempfehlung) - vertagt
+- TOP 5.6: P+R Waidmannslust (Antrag) - vertagt
+- TOP 5.7: Vorstellung Spielplatzentwicklungsplan (Beschlussempfehlung) - vertagt
+- TOP 5.8: Parken im Frohnauer Zentrum 1 - Parkzone deutlich erweitern (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Parken im Frohnauer Zentrum 2 - Gestaffelte Parkzeiten einführen (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Regenbogenflagge (Ersuchen) - vertagt
+- TOP 5.11: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2018 und 2019 (Doppelhaushalt) - WLAN-Anbindung der Volkshochschulen (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 5.12: Interkultureller Garten in Reinickendorf (Vorlage zur Kenntnisnahme) - vertagt
+- TOP 5.13: Stand der Beziehungen zu den Reinickendorfer Partnerstädten (Große Anfrage) - vertagt
+- TOP 5.14: Schilderwald im Frohnauer Zentrum roden (Beschlussempfehlung) - in der BVV abgelehnt
+- TOP 5.15: Fahrradparkhaus in Wittenau (Beschlussempfehlung) - vertagt
+- TOP 5.16: Verkehrsinfarkt verhindern 10 - Ertüchtigung Alter Bernauer Heerweg (Beschlussempfehlung) - vertagt
+- TOP 5.17: Keine weiteren Flüchtlinge in Reinickendorf aufnehmen (Beschlussempfehlung) - vertagt
+- TOP 5.18: Konstruktive Bürgerbeteiligung bei der Unterstützung von zukünftigen Unterkünften für Geflüchtete (Beschlussempfehlung) - ohne Änderungen in der BVV beschlossen
+- TOP 5.19: Jugendfreizeiteinrichtungen und homosexuelle Jugendliche (Große Anfrage) - schriftlich beantwortet
+- TOP 5.20: Ombudsstelle JobCenter Reinickendorf einrichten (Beschlussempfehlung) - vertagt
+- TOP 5.21: Regenbogenflagge (1) (Beschlussempfehlung) - vertagt
+- TOP 5.22: Freistellung für Ehrenamtler in der Jugendarbeit (Beschlussempfehlung) - vertagt
+- TOP 5.23: Kein Bezug der "MUF" mit Asylbewerbern im Märkischen Viertel (Empfehlungen) - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2016 und 2017 (Doppelhaushalt) Ausschöpfung des Härtefallfonds für das Schulmittagessen prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: S 85 weiter in Reinickendorf fahren lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Fahrtrichtungen am Waidmannsluster Damm eindeutig markieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Metallic-Konfetti - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Verkehr in der Alemannenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Radfahrer-Ampel Seidelstr./Höhe Bundesautobahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-26B-1 vom 8. Juni 2015 für die Grundstücke Blankestraße 4, 5, 7, 8, 8A und 8B sowie Gotthardstraße 92, 96 und 100 im Bezirk Reinickendorf, Ortsteil Reinickendorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Sicherheit am Wilhelmruher Damm IV - in der BVV abgelehnt
+- TOP 10.2: Zeit-/Maßnahmenplan für Schulsanierungen und Schulneubau - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Schulsanierung und Schulneubau mit hohen Standards realisieren! - in der BVV abgelehnt
+- TOP 10.4: Montessori Schule unterstützen - erledigt
+- TOP 10.5: Barrierefreie Übergänge schaffen - in der BVV abgelehnt
+- TOP 10.6: Anonyme Beisetzungen auf Reinickendorfer Friedhöfen - erledigt
+- TOP 10.7: Personalentwicklung im Bezirksamt Reinickendorf - erledigt
+- TOP 10.8: Klix-Arena - erledigt
+- TOP 10.9: Sonderprogramm Straßenbäume - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Zusätzliche Zielanzeiger bei der S-Bahn in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Übergangsanzeiger auf dem S+U-Bahnhof Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Modernes Carsharing in Reinickendorf - in der BVV abgelehnt
+- TOP 10.13: Lärmschutz Schorfheidestraße - in der BVV abgelehnt
+- TOP 10.14: Beteiligung am Pilotprojekt European Energy Award - vertagt
+- TOP 10.15: Sanierung Waldweg Saatwinkel - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Fußgängerüberwege Baustelle Oranienburger Straße - erledigt
+- TOP 10.17: Waldweg an der Ruppiner Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Sicherheit am Wilhelmsruher Damm V - in der BVV abgelehnt
+- TOP 10.19: Modernisierung der Pförtnerloge im Rathaus - in der BVV abgelehnt
+- TOP 10.20: Unterstützung beim Säubern Reinickendorfer Gewässer - vertagt
+- TOP 10.21: Mehr Parkraum rund um den S-Bahnhof Frohnau - erledigt
+- TOP 10.22: Verkehrsentlastung im Märkischem Viertel - in der BVV abgelehnt
+- TOP 10.23: Taxistand für das medizinische Zentrum in Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Umleitungsverkehr während der Damm-Sanierung der U-Bahn Linie 6 - in der BVV abgelehnt
+- TOP 10.25: Querung Teichstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Zusätzliche Therapieräume für das Humboldt-Klinikum - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Sauberkeit rund um die ehemalige Karl-Bonhoeffer-Nervenklinik - überwiesen
+- TOP 10.28: Therapieflächen für die Psychiatrie im Humboldt-Klinikum - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Änderung der Geschäftsordnung - Sondermittel - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: Informationsschalter im Rathaus dauerhaft besetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Turnhallen im Winter - Verstärkungsmittel beantragen - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Übernahme privater Betreuungskosten - ohne Änderungen in der BVV beschlossen
+- TOP 10.33: Bürgerbeteiligung bei Planung und Auswahl von Standorten für Flüchtlingsunterkünfte entsprechend § 25 VwVfG - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Spielstraße in der Mittelbruchzeile - überwiesen
+- TOP 12.2: Bewässerung von Straßenbäumen - überwiesen
+- TOP 12.3: Aufstellung eines Reinickendorfer Kleingartenentwicklungsplans - überwiesen
+- TOP 12.4: Grünflächen zurück schneiden und säubern - überwiesen
+- TOP 12.5: Ausreichende Grundschulversorgung in Waidmannslust sicherstellen - überwiesen
+- TOP 12.6: Verbesserung der Aufnahmequalität der Audioprotokolle in den Ausschüssen - überwiesen
+- TOP 12.7: Walking Bus - Piloten an Reinickendorfer Schulen initiieren - überwiesen
+- TOP 12.8: Elektronisches Abstimmungssystem einführen - überwiesen
+- TOP 12.9: Leitfaden Urban Gardening - überwiesen
+- TOP 12.10: Flächen für die öffentliche Daseinsvorsorge - überwiesen
+- TOP 12.11: Allgemeine Behindertenparkplätze in Reinickendorf II - überwiesen
+- TOP 12.12: Kohlendioxid-Mess- und Warngeräte - überwiesen
+- TOP 12.13: Freie Fahrt für Rollstuhlfahrerinnen und Rollstuhlfahrer - überwiesen
+- TOP 12.14: Transparenz bei der städtebaulichen Entwicklung verbessern - überwiesen
+- TOP 12.15: Allgemeine Behindertenparkplätze in Reinickendorf I - überwiesen
+- TOP 12.16: Fahrbahnmarkierung auf der Spielstraße - überwiesen
+- TOP 12.17: Erstellung eines Baulückenkatasters für Reinickendorf - überwiesen
+- TOP 12.18: Jugendfreizeiteinrichtung in Tegel - überwiesen
+- TOP 12.19: Zusätzliche Fahrradbügel Rathaus Reinickendorf - überwiesen
+- TOP 12.20: Illegal entsorgten Bauschutt zügiger entfernen - überwiesen
+- TOP 12.21: Vermeidung von Überschwemmungsschäden durch Starkregen in Frohnau - in der BVV zurückgezogen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Reinigung des Schäfersees - überwiesen
+- TOP 13.2: Informationstafel auf dem S-Bahnhof Alt-Reinickendorf - überwiesen
+- TOP 13.3: Sperrfläche vor der Ladenzeile Maximiliankorso/Ludolfinger Platz - überwiesen
+- TOP 13.4: Nachtruhe im Dannenwalder Weg - überwiesen
+- TOP 13.5: Vorklassenpflicht an den Berliner Grundschulen einführen - überwiesen
+- TOP 13.6: Aufhebung der 30 km/h Zone Cyclopstraße - überwiesen
+- TOP 13.7: Nachtruhe auf der Conradstraße - überwiesen
+- TOP 13.8: Brandbekämpfung und Lebensrettung in Reinickendorf - überwiesen
+- TOP 13.9: Lichtzeichenanlage Autobahnausfahrt A111 Seidelstraße Richtung Süden - überwiesen
+- TOP 13.10: Taubenschutzgitter S-Bahnbrücke (S25) Holzhauser Straße - überwiesen
+- TOP 13.11: "Grüne Welle" verbessern - Verkehrsfluss verbessern, Umweltbelastung reduzieren - überwiesen
+- TOP 13.12: Parkverbotszone an der Ausfahrt Parkplatz Rathaus Reinickendorf - überwiesen
+- TOP 13.13: Zugang zum Hundeauslaufgebiet verbessern - überwiesen
+- TOP 13.14: Dachgeschosse in Reinickendorf ausbauen - überwiesen
+- TOP 13.15: Parkverbot an Ausfahrt der Finsterwalder Straße 9 - überwiesen
+- TOP 13.16: Wasserfontäne für den Schäfersee - überwiesen
+- TOP 13.17: Bürgerinnen und Bürger auf ihr Beistandsrecht bei Ämtern, Behörden und dem Jobcenter hinweisen - überwiesen
