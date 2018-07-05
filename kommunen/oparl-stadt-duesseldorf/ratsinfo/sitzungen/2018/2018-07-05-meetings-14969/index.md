@@ -1,0 +1,63 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-07-05T17:00:00+02:00
+- Ende: 2018-07-05T19:12:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14969
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14969
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00320960.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00320960.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00320960.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Unfallstatistik und Kriminalitätsentwicklung 2017 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Bericht zur Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - zur Kenntnis genommen
+- TOP 6: Höherhofstraße / Gubener Straße / Nach den Mauresköthen – Umbau des Knotenpunktes zu einem Kreisverk - vertagt
+- TOP 7: Zuschuss an den Arbeitskreis Kultur im Stadtbezirk 8 e. V. - einstimmig beschlossen
+- TOP 8: Zuschuss an den Freundeskreis Kulturbahnhof Eller e. V. - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2018 - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 11: Grundstück Schlosskirche Eller - beantwortet
+- TOP 12: Neue Jugendfreizeiteinrichtung Gatherweg 109 - beantwortet
+- TOP 13: Radschnellweg durch den Stadtbezirk 8 - beantwortet
+- TOP 14: Grundstück Reisholzer Straße / Am Hackenbruch - beantwortet
+- TOP 15: Beachvolleyball - Anlage BSA Wilhelm-Heinrich-Weg - beantwortet
+- TOP 16: Blühwiesen im Stadtbezirk 8 - beantwortet
+- TOP 17: Bauvorhaben Tulpenweg - beantwortet
+- TOP 18: Litfaßsäulen im Stadtbezirk 8 - beantwortet
+- TOP 19: Ersatzstandort JFE Chemnitzer Straße - beantwortet
+- TOP 20: Kreuzungsumbau Eller Kamp / Kamper Weg - beantwortet
+- TOP 21: Verkehrsregelung Alt-Eller - einstimmig beschlossen
+- TOP 22: Grünpflege in Unterbach - einstimmig beschlossen
+- TOP 23: Toilettenanlage Nachbarschaftspark Am Stufstock - einstimmig beschlossen
+- TOP 24: Gehweg Reisholzer Straße - ehemalige Tankstellenzufahrt - einstimmig beschlossen
+- TOP 25: Verkehrssicherung Kindertagesstätte Königsberger Straße 197 - einstimmig beschlossen
+- TOP 26: Barrierefreies Eller - einstimmig beschlossen
+- TOP 27: Litfaßsäule Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 28: Ludwigshafener Straße - Einrichtung einer Fahrradstraße - einstimmig beschlossen
+- TOP 29: Fahrradverkehr Karl-Geusen-Straße / Am Stufstock - einstimmig beschlossen
+- TOP 30: Feinstaub-Messung Karl-Geusen-Straße / Am Turnisch - mehrheitlich beschlossen
+- TOP 31: Durchgang Naumburger Straße zur Südlichen Düssel - zurückgezogen
+- TOP 32: Entwicklungskonzept 'Raumwerk D' im Stadtbezirk 8 - zurückgezogen
+- TOP 33: Parkregelung Kündgensweg - zurückgezogen
+- TOP 34: Sicherheit an Rheinbahnhaltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Baumaßnahmen Gubener Straße - zur Kenntnis genommen
+- TOP 36: Grünpflege S-Bahnhof Eller Süd - zur Kenntnis genommen
+- TOP 37: Gertrudisplatz - zur Kenntnis genommen
+- TOP 38: Abfalleimer Friedrich-Engels-Straße - zur Kenntnis genommen
+- TOP 39: Grünordnungsrahmenplan für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: WLAN im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Parksituation Am Stufstock - zur Kenntnis genommen
+- TOP 42: Straßenbeleuchtung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Errichtung von 5 Wohnschiffen auf dem Unterbacher See - zur Kenntnis genommen
+- TOP 44: Schaukästen im Schlosspark Eller - zur Kenntnis genommen
+- TOP 45: Park & Ride - Parkplatz S-Bahnhof Eller Süd - zur Kenntnis genommen
+- TOP 46: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
