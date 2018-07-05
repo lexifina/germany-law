@@ -1,0 +1,52 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-07-05T17:00:00+02:00
+- Ende: 2018-07-05T22:15:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14885
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14885
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321010.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321010.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321010.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 3/2018 vom 24.04.2018 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Kaistraße 8b; Genehmigung eines Dringlichkeitsbeschlusses - mehrheitlich beschlossen
+- TOP 15: Anregungen und Anfragen aus der Bevölkerung (18:00 Uhr) - zur Kenntnis genommen
+- TOP 16: Bericht zur Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - zur Kenntnis genommen
+- TOP 17: Namensänderung des Städtischen Gymnasiums Schmiedestraße (Schulnummer 100015) - mehrheitlich beschlossen
+- TOP 18: Erna-Eckstein-Straße; Benennung - einstimmig beschlossen
+- TOP 19: Bennung Planstraße 3349 In Palermostraße und Planstraße 3350 in Readingstraße - vertagt
+- TOP 20: Geschwindigkeitsreduzierung auf der Münchener Straße - mehrheitlich beschlossen
+- TOP 21: Verkehrssituation an Unterführung S-Bahnhof Bilk verbessern - einstimmig beschlossen
+- TOP 22: Kreuzung Friedrichstraße / Bachstraße - einstimmig beschlossen
+- TOP 23: Flüchtlingsunterkunft Völklinger Straße - zurückgezogen
+- TOP 23.1: Bachstraße, Düsselufer - einstimmig beschlossen
+- TOP 24: Baumpflanzungen im Stadtbezirk 3 - vertagt
+- TOP 25: Blühwiesen – Bienenweiden - Wildkräuter - vertagt
+- TOP 26: Ständehaus Parkanlage; Historisches Brückengeländer an der Haroldstraße - vertagt
+- TOP 27: Öffnung der Schulhöfe - schriftlich beantwortet
+- TOP 28: Uhrenfeld - schriftlich beantwortet
+- TOP 29: Ernst-Reuter-Platz; Gestaltung - vertagt
+- TOP 30: Fahrradturm am Bilker Bahnhof - zur Kenntnis genommen
+- TOP 31: Morsestraße; Baumpflanzung - vertagt
+- TOP 32: Hydrant vor dem Uhrenturm an der Grafenberger Allee - schriftlich beantwortet
+- TOP 33: Neubau des Luisen-Gymnasiums am Standort Völklinger Straße - einstimmig beschlossen
+- TOP 34: Freigabe verkaufsoffener Sonntagnachmittage im 2. Halbjahr 2018 - mehrheitlich beschlossen
