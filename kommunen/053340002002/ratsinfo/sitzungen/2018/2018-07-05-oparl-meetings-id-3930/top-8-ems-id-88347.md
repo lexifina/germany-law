@@ -1,0 +1,8 @@
+# TOP 8: Fahrradparkhaus im Umfeld des Hauptbahnhofs
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Mobilitätsausschusses unter Beiladung der Bezirksvertretung Aachen-Mitte zu den öffentlichen Tagesordnungspunkten 2 und 3 (2018-07-05)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=88347
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=25705&bi=26242
