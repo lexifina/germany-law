@@ -1,0 +1,70 @@
+# 18. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-07-06T10:00:00+02:00
+- Ende: 2018-07-06T12:30:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-VV-36
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-VV-36
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2018-VV-36
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2018-VV-36
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2018-VV-36
+
+## Tagesordnung
+
+- TOP -: Tagesordnung
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.1: Regionalplan Ruhr für das Verbandsgebiet des Regionalverbands Ruhr hier: Erarbeitungsbeschluss
+- TOP 1.1.3: Antrag der Fraktion Die Linke zu TOP 1.1 Regionalplan
+- TOP 1.1.2: Begleitantrag zum Erarbeitungsbeschluss des Regionalplans Ruhr
+- TOP 1.1.1: Anfrage der SPD-Fraktion zur Vorgehensweise zur Einleitung des Erarbeitungsverfahrens des Regionalplans Ruhr vom 23.03.2018/ Mündliche Anfrage der CDU-Fraktion vom 23.03.2018
+- TOP 2.6: Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr Hier: Beteiligungsverfahren
+- TOP 2.6.1: Antrag der Fraktion Die Linke zu TOP 2.6, Ergänzung des Handlungsprogramms zur räumlichen Entwicklung der Metropole Ruhr
+- TOP 1.2: Information über die geplanten Änderungen des Landesentwicklungsplanes NRW und über den Erlass der Landesplanungsbehörde zur Konkretisierung des LEP NRW „Wohnen, Gewerbe und Industrie“ vom 19.04.2018 und potenzielle Konsequenzen für die Aufstellung des Regionalplans Ruhr
+- TOP 1.3: Änderung des Landesentwicklungsplans Nordrhein-Westfalen; Stellungnahme der Regionalplanungsbehörde beim Regionalverband Ruhr
+- TOP 1.3.1: Schreiben des Kreises Wesel vom 29.06.2018 zur Ergänzung der Stellungnahme zur 1. Änderung des Landesentwicklungsplanes
+- TOP -: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP 2.1: Änderung der Haushaltssatzung 2018
+- TOP 2.2: Entwurf des Jahresabschlusses 2016 des Regionalverbandes Ruhr
+- TOP 2.3: Bestellung der zwei stellvertretenden Schriftführungen für die Verbandsversammlung
+- TOP 2.4: Ziel- und Strategiekonzept der RVR-Familie
+- TOP 2.5: Die Stadt der Städte wählt Informations- und Motivationskampagne zur Direktwahl des Ruhrpartlaments im Jubiläumsjahr 2020
+- TOP 2.5.1: Jugendbeteiligung Direktwahl 2020
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.7: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Konzept für die Intensivierung und Verstetigung der Europaarbeit der Metropole Ruhr in Brüssel
+- TOP 2.8: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Formate und Initiativen zur Mobilisierung für die Europawahl 2019
+- TOP 2.9: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.10: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Finanzierungsherausforderungen
+- TOP 2.11: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.12: Bericht über die Beteiligungen des Regionalverbandes Ruhr 2016 nach GO NRW
+- TOP -: Vorlagen aus dem Kultur- und Sportausschuss
+- TOP 2.13: Projekt 'Kunstcamp' (AT)
+- TOP 2.13.1: Projekt 'Kunstcamp' Ergänzungsantrag zu Drs. 13/1136-1
+- TOP 2.14: Vertragsverlängerung des kuratorischen Teams Interkultur Ruhr
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.15: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Neufassung der Betriebssatzung
+- TOP 2.15.1: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Neufassung der Betriebssatzung
+- TOP 2.15.2: Angelegenheiten der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün - Änderungen in der Neufassung der Betriebssatzung
+- TOP 2.16: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2016 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.16.1: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2016 Nachfrage zu einzelnen Positionen
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.17: Masterplan Klimaschutz des Handwerks Region Ruhrgebiet mit dem Regionalverband Ruhr
+- TOP 2.18: Der TOP wurde zurückgezogen.
+- TOP 2.19: Projekt WALDband: Regionaltouristisches Konzept für den Naturpark Hohe Mark hier: Vorstellung der Ergebnisse
+- TOP -: Fraktionsanträge
+- TOP 2.20: Resolution zur IGA 2027
+- TOP 2.21: Öffentlichkeitsarbeit des Verbandes – Werbebroschüre über den RVR
+- TOP 2.22: Antrag zur Einbeziehung des RVR in die geplante Ruhrkonferenz Antrag der FDP-Fraktion vom 20.04.2018
+- TOP 2.23: Anfrage zum Planungsstand der Ruhrkonferenz Anfrage der FDP-Fraktion vom 20.04.2018 hier: Antwort der Verwaltung
+- TOP 2.24: Zustand des RVR-Waldes
+- TOP 2.25: Anfrage der SPD-Fraktion zur Drucksache Nr. 13/1142 'Neuer Sportimpuls für die Metropole Ruhr' aus dem Kultur- und Sportausschuss
+- TOP 2.26: Mitteilung der Verwaltung i.S. IGA 2027
+- TOP -: Anfragen und Mitteilungen
+- TOP -: Sitzungsende
