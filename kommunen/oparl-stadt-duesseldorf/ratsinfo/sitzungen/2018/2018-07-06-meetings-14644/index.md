@@ -1,0 +1,51 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-07-06T14:00:00+02:00
+- Ende: 2018-07-06T18:35:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14644
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14644
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00320971.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00320971.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00320971.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 4/2018 über die öffentliche Sitzung der Bezirksvertretung 1 vom 27.04.2018 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 5/2018 über die öffentliche Sitzung der Bezirksvertretung 1 vom 08.06.2018 - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 5: Mündliche Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5.1: Zukunft des Luisen-Gymnasiums - zur Kenntnis genommen
+- TOP 5.2: Neubau eines Gymnasiums am Standort Völklinger Straße - einstimmig beschlossen
+- TOP 5.3: Bau einer Ausgabeküche am Görres-Gymnasium, Königsallee 57 - einstimmig beschlossen
+- TOP 5.4: Kunstkommission: Reeser Platz, Vorstellung der nächsten Schritte - zur Kenntnis genommen
+- TOP 5.5: Gestaltung Umfeld Kö-Bogen II - zur Kenntnis genommen
+- TOP 5.6: Südlich An der Piwipp - Unterrather Hallenbad Workshopverfahren - Empfehlung einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 5.8: Ergebnisse: Stadtteilkonferenz Pempelfort vom 29.05.2018 - zur Kenntnis genommen
+- TOP 5.9: Auflösung der öffentlichen Einrichtung Großmarkt - zur Kenntnis genommen
+- TOP 5.10: Auflösung der öffentlichen Einrichtung "Radschlägermarkt" - zur Kenntnis genommen
+- TOP 5.11: Veranstaltungen im Ehrenhof - Empfehlung einstimmig beschlossen
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 6.1: Sachstandsbericht zum Ausschreibungsverfahren "En de Canon" - zur Kenntnis genommen
+- TOP 6.2: Sanierung Aalschocker im Alten Hafen - zur Kenntnis genommen
+- TOP 6.3: Multifunktionsfläche unter der Theodor-Heuss-Brücke - zur Kenntnis genommen
+- TOP 6.4: Verkauf des VHS-Gebäudes Franklinstraße - zur Kenntnis genommen
+- TOP 6.5: Radschlägermarkt auf dem Großmarkt-Gelände - zur Kenntnis genommen
+- TOP 6.6: Start der Umbaumaßnahmen Mühlenstraße und Karlstraße - zur Kenntnis genommen
+- TOP 6.7: Stickoxid-Messungen des WDR im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 7: Anträge - zur Kenntnis genommen
+- TOP 7.1: Wiederherstellung des Fahrbahnbelags auf der Inselstraße - einstimmig beschlossen
+- TOP 7.2: Geplante Restrukturierung der Museumslandschaft - einstimmig beschlossen
+- TOP 7.3: Berichterstattung: Pläne zur Umgestaltung des Großmarktes - zurückgezogen
+- TOP 7.4: Trinkbrunnen an der Multifunktionsfläche unter der Theodor-Heuss-Brücke - einstimmig beschlossen
+- TOP 7.5: Achtung Kinder – Derendorfer Straße - einstimmig beschlossen
+- TOP 7.6: Überprüfung der Dauer der Grünphase von Ampeln an Fußgängerüberwegen - mehrheitlich abgelehnt
+- TOP 7.7: Fahrradständer im Bereich Moltkestraße/Tußmannstraße - einstimmig beschlossen
+- TOP 8: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 9: Verschiedenes - zur Kenntnis genommen
