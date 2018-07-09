@@ -1,0 +1,72 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-07-09T18:00:00+02:00
+- Ende: 2018-07-09T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18893
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18893
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Vorstellung des Kölner Polizeipräsidenten Uwe Jacob
+- TOP -: B - Sachstand Porz-Mitte
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Sportanlage Humboldtstraße, Platz 1 ( an Schule), Köln-Porz - ungeändert beschlossen
+- TOP 6.2: Sommerfest des Garde-Korps Köln KG Blau-Weiß Zündorf von 1928 e.V. - geändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Städtebauliches Planungskonzept "Am Bahnhof" in Köln-Porz-Wahn,Anhörung der Bezirksvertretung Porz zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 7.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - Sammelumdruck - - zurückgestellt
+- TOP 7.2.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2: ISEK - zurückgestellt
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - Sammelumdruck - - ungeändert empfohlen
+- TOP 7.4: Planung eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg ohne Nummer in 51143 Köln (Porz-Zentrum) - Sammelumdruck - - ungeändert empfohlen
+- TOP 7.5: Antoniusstraße in Köln-Porz-Urbach; 76390/02; 2. Änderung; Satzungsbeschluss - Sammelumdruck - - mit Änderungen empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion: Sanierung einer Außenmauer der GGS Hohe Straße in Ensen - Sache ist erledigt
+- TOP 8.2.1: Sanierung Gemeinschaftsgrundschule (GGS) Hohe Straße in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der SPD-Fraktion: Stopp der Weitervermietung der Pavillons auf der Brücke Porz-Mitte - ungeändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Antrag der SPD-Fraktion: Errichtung eines Zauns im Bereich der Straße „Am Liburer Wall“ in Libur - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion: Planungskriterien taktile Elemente - ungeändert beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Antrag der CDU-Fraktion: Gehweg “Albert- Schweitzer- Straße - ungeändert beschlossen
+- TOP 8.10: Antrag der CDU-Fraktion: Sachstandsbericht zu 15 Minuten kostenfreies Parken - Sache ist erledigt
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: PFT-Belastungen in Köln-Porz - Kenntnis genommen
+- TOP 9.1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Werbesäulen - Kenntnis genommen
+- TOP 9.1.3: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 9.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der Fraktion Die Grünen: Maßnahmen am Bahnhof Wahn - zurückgestellt
+- TOP 9.2.2: Mündliche Anfrage der SPD-Fraktion: Verkehrsberuhigung in der neuen Eiler Straße - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Gemeinschaftsgrundschule Hauptstraße in Porz-Mitte - Kenntnis genommen
+- TOP 10.2.2: Planfeststellungsbeschluss für den 6-streifigen Ausbau der A 59 zwischen dem Autobahndreieck Köln-Porz und der Anschlussstelle Flughafen Köln-Bonn - Kenntnis genommen
+- TOP 10.2.3: Beschluss der Bezirksvertretung Porz vom 15.05.2018 zur Verlagerung des Berufskollegs Porz (BK 10) - Kenntnis genommen
+- TOP 10.2.4: Bürgerinformationsveranstaltung zum Modellversuch „Schutzstreifen auf der Siegburger Straße“ - Kenntnis genommen
+- TOP 10.2.5: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 10.2.6: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.7: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Bebauungsplan-Entwurf 74393/04; Arbeitstitel: "Revitalisierung Innenstadt Köln-Porz" in Köln-Porz - Kenntnis genommen
+- TOP 10.2.8: 15 Minuten kostenfreies Parken im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.9: Erhebung von Ausgleichsbeträgen nach § 154 Baugesetzbuch (BauGB) im ehemaligen Sanierungsgebiet Finkenberg - Kenntnis genommen
+- TOP 10.2.10: Machbarkeitsstudie für leistungsfähige regionale Radverbindungen/Radhauptachsen zwischen Köln, Leverkusen, dem Rheinisch-Bergischen Kreis und dem Rhein-Sieg Kreis - Kenntnis genommen
+- TOP 10.2.11: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Sammelumdruck - - Kenntnis genommen
+- TOP 10.2.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.13: Sachstandsbericht zum Eingang des Bildungszentrums im Bezirksrathaus Porz - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
