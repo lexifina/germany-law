@@ -1,0 +1,130 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-07-09T16:08:00+02:00
+- Ende: 2018-07-09T21:06:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12754
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12754
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Rat - Stand: 29.06.18 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00221818.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00222705.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Aktuelle halbe Stunde
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kosten der Unterkunft I - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Kosten der Unterkunft" (VO/0355/18) vom 18.04.2018 - Entgegennahme ohne Beschluss
+- TOP 2.2: Kosten der Unterkunft II - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Kosten der Unterkunft II" (VO/0543/18) vom 21.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.3: Erscheinungsbild des Hauptbahnhofs Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der FDP-Fraktion " Erscheingungsbild des Hauptbahnhofs Wuppertal" (VO/0371/18) vom 26.04.2018 - Entgegennahme ohne Beschluss
+- TOP 2.4: Säumige GEZ-Zahler in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Säumige GEZ-Zahler in Wuppertal" (VO/0444/18) vom 30.05.2018 - Entgegennahme ohne Beschluss
+- TOP 2.5: Vielehen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Vielehen in Wuppertal" (VO/0452/18) vom 30.05.2018 - Entgegennahme ohne Beschluss
+- TOP 2.6: Immobilie des Autonomen Zentrums in Elberfeld - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Immobilie des Autonomen Zentrums in Elberfeld" (VO/0453/18) vom 30.05.2018 - Entgegennahme ohne Beschluss
+- TOP 2.7: Starkregenereignisse in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Starkregenereignisse in Wuppertal" (VO/0457/18) vom 06.06.18 - Entgegennahme ohne Beschluss
+- TOP 2.8: Elementarschadenversicherung für städtische Gebäude - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Antwort auf die Anfrage der FDP-Fraktion "Elementarschadenversicherung für städtische Gebäude" (VO/0505/18) vom 12.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.9: Situation der Qualifizierung von Kindertagespflegepersonen (KTPP) in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.9.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Situation der Qualifizierung von Kindertagespflegepersonen (KTPP) in Wuppertal" (VO/0499/18) vom 12.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.10: Sicherheitskonzept für den neuen Döppersberg - Entgegennahme ohne Beschluss
+- TOP 2.10.1: Antwort auf die Anfrage der FDP-Fraktion "Sicherheitskonzept für den neuen Döppersberg" (VO/0516/18) vom 14.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.11: Kündigung von Eingliederungsvereinbarungen - Entgegennahme ohne Beschluss
+- TOP 2.11.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Kündigung der Eingliederungsvereinbarungen" (VO/0529/18) vom 19.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.12: Gebäude des Hauptbahnhofs Döppersberg - Entgegennahme ohne Beschluss
+- TOP 2.12.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Gebäude des Hauptbahnhofs Döppersberg" (VO/0503/18) vom 19.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.13: Gewerbeflächen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.13.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Gewerbeflächen in Wuppertal" (VO/0531/18) vom 19.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.14: Direkte und indirekte Kosten der Kfz-Zulassung II - Entgegennahme ohne Beschluss
+- TOP 2.14.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Direkte und indirekte Kosten der Kfz-Zulassung II" (VO/0532/18) vom 19.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.15: Ausgebliebene israelische Beflaggung im Stadtgebiet am 14.05.2018 - Entgegennahme ohne Beschluss
+- TOP 2.15.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Ausgebliebene israelische Beflaggung im Stadtgebiet am 14.05.2018" (VO/0539/18) vom 20.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.16: Zusammenarbeit des Jobcenter Wuppertal Anstalt öffentlichen Rechts und der Bit gGmbH - Entgegennahme ohne Beschluss
+- TOP 2.16.1: Antwort auf die Anfrage der Fraktion DIE LINKE vom 21.06.2018 "Zusammenarbeit der Jobcenter Wuppertal AöR und der Bit gGmbH"
+- TOP 2.17: Bundesgartenschau in Wuppertal - Voraussetzungen und Konsequenzen - Entgegennahme ohne Beschluss
+- TOP 2.17.1: Antwort auf die Anfrage der CDU-Fraktion "Bundesgartenschau in Wuppertal - Voraussetzungen und Konsequenzen" (VO/0553/18) vom 25.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.18: Demonstration am 16.06.2018 - Abstimmungen im Vorfeld - Entgegennahme ohne Beschluss
+- TOP 2.18.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Demonstration am 16.06.2018 - Abstimmungen im Vorfeld" (VO/0556/18) vom 26.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.19: Radschnellweg Wuppertal - Düsseldorf - Entgegennahme ohne Beschluss
+- TOP 2.20: Mobilfunkpakt - Entgegennahme ohne Beschluss
+- TOP 2.20.1: Antwort auf die Anfrage der CDU-Fraktion "Mobilfunkpakt" (VO/0561/18) vom 27.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.21: Baumaßnahmen Döppersberg Mall - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Abgesetzt. Vorberatung nicht abgeschlossen. Bürgerantrag zur Beibehaltung der Freigabe für den Radverkehr in der Fußgängerzone Elberfeld
+- TOP 3.2: Bürgerantrag zur pestizidfreien Kommune Wuppertal
+- TOP 3.3: Bürgerantrag zur Verbesserung der Tunnelbeleuchtung auf der Nordbahntrasse
+- TOP 3.4: Bürgerantrag zum Busverkehr, insbesondere zwischen Hauptbahnhof und Universität
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Abgesetzt. Vorberatung nicht abgeschlossen. Integrationspauschale - abgesetzt
+- TOP 4.2: Erstellung eines Sicherheitskonzeptes - abgelehnt
+- TOP 4.3: Terminverschiebung der Abstimmung zur Durchführung der Bundesgartenschau (BUGA) in Wuppertal - abgelehnt
+- TOP 4.4: Bundesgartenschau in Wuppertal - geändert beschlossen
+- TOP 4.5: Sachstandsbericht Gesundheitsamt - zur Beratung und Entscheidung verwiesen
+- TOP 4.6: Autonomes Zentrum - zur Vorberatung verwiesen
+- TOP 4.7: Suspendierung und mögliche Entfernung des Leiters des Jobcenter Wuppertal aus jeglichem Beamtenverhältnis - abgelehnt
+- TOP 4.8: Seilbahn für den Zoo - zurückgestellt
+- TOP 4.9: Hängebrücke als Touristenmagnet für Wuppertal - zurückgestellt
+- TOP 4.10: Wildblumen auf städtischen Grünflächen - zur Vorberatung verwiesen
+- TOP 4.11: Metropolregion Rheinland: Wuppertaler Engagement und regelmäßige Berichterstattung - zur Vorberatung verwiesen
+- TOP 4.11.1: Information über die Arbeit des Vereins Metropolregion Rheinland - Entgegennahme ohne Beschluss
+- TOP 4.12: Einsatz der Polizei am 16.06.2018 - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Rückgabe des Hans Georg von Arnim-Denkmals an Wuppertals Partnerstadt Liegnitz - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Satzung zur Erhebung von Elternbeiträgen für die Betreuung von Kindern in Kindertageseinrichtungen und in Kindertagespflege der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Verordnung über das Offenhalten von Verkaufsstellen am 14.10.2018 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.3: Verordnung über das Offenhalten von Verkaufsstellen am 09.12.2018 in Wuppertal-Elberfeld - geändert beschlossen
+- TOP 6.4: Verordnung über das Offenhalten von Verkaufsstellen am 09.12.2018 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.5: Verordnung über das Offenhalten von Verkaufsstellen am 09.12.2018 in Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 6.6: Ablehnung der Anträge auf Sonntagsöffnung der Verkaufsstellen in Elberfeld am 07.10.2018 und 04.11.2018 - ungeändert beschlossen
+- TOP 6.7: Änderung der Entgeltordnung für die Bergische Musikschule - geändert beschlossen
+- TOP 6.7.1: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Änderungsantrag zur Drucksache VO/0284/18, Änderung der Entgeltordnung für die Bergische Musikschule - abgesetzt
+- TOP 6.8: Änderung des Taxentarifs / Neufassung der Rechtsverordnung über die Festsetzung von Beförderungsentgelten u. -bedingungen für die von der Stadt Wuppertal als Genehmigungsbehörde zugelassenen Taxen (Taxentarif) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Genehmigung einer außerplanmäßigen Ausgabe: Ersatzbeschaffung einer Kehrmaschine für den Zoo - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Abgesetzt. Bestellung einer stellvertretenden Betriebsleitung für den Eigenbetrieb Straßenreinigung Wuppertal - abgesetzt
+- TOP 8.2: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal für das Geschäftsjahr 2016 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2017 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2017 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss 2017 der Stadtsparkasse Wuppertal - Entlastung des Verwaltungsrates - ungeändert beschlossen
+- TOP 8.7: Abgesetzt. Vorberatung nicht abgeschlossen. Gründung eines neuen Tochterunternehmens der Wuppertaler Stadtwerke GmbH - abgesetzt
+- TOP 8.8: Bestellung der stellvertretenden Betriebsleitung des Eigenbetriebs Kinder- und Jugendwohngruppen - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Stellungnahme der Stadt Wuppertal im Planfeststellungs- bzw. -änderungsverfahren zur Elektrifizierung der geplanten Regiobahntrasse (S 28) - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1237 - nördlich Müngstener Straße - 1. Verlängerung einer Veränderungssperre - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Hauptstraße/Hastener Straße - Neue Bordführung zur Verkehrsverbesserung - ungeändert beschlossen
+- TOP 10.2: Baumaßnahmen Rettungsdienst am Standort Hauptfeuer- und Rettungswache August-Bebel-Straße zur Umsetzung des Rettungsdienstbedarfsplans 2017 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gewährung von Zuschüssen für den Besuch von Spielgruppen und anderen Gruppen - ungeändert beschlossen
+- TOP 11.2: Neubau einer 6-gruppigen Tageseinrichtung für Kinder auf dem Grundstück Löhrerlen / Ecke Hannoverstraße - ungeändert beschlossen
+- TOP 11.3: Neubau einer 6-gruppigen Tageseinrichtung für Kinder in der Grafenstraße - ungeändert beschlossen
+- TOP 11.4: Sanierung und Erweiterung der Gesamtschule Langerfeld - ungeändert beschlossen
+- TOP 11.5: Modernisierung des Sportplatzes Grundstraße und Aufgabe des Sportplatzes Clausewitzstraße - ungeändert beschlossen
+- TOP 11.6: Stadtentwässerung - Maßnahmenkatalog 2019/Katalogentwurf 2020 - ungeändert beschlossen
+- TOP 11.7: Ausbau des Wuppertaler Gesamtschulangebots - ungeändert beschlossen
+- TOP 11.8: Einrichtung eines Teilstandortes für die Gemeinschaftshauptschule Oberbarmen, Hügelstraße, Wuppertal im Schulgebäude Röttgen - ungeändert beschlossen
+- TOP 11.9: Fortführung der Sozialen Arbeit an Schulen, Schulsozialarbeit nach dem Bildungs- und Teilhabepaket, bis zum 31.12.2020 - ungeändert beschlossen
+- TOP 11.10: Gestaltung des Wupperparks sowie der zu errichtenden Gebäude - geändert beschlossen
+- TOP 11.11: Straßen-/Platzbenennung nach Hans-Dietrich Genscher - ungeändert beschlossen
+- TOP 11.12: Antrag auf Genehmigung eines Bildungsganges "Kaufmann/-frau im E-Commerce" für das Berufskolleg Barmen - ungeändert beschlossen
+- TOP 11.13: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Konzept zur Erstellung einer Vorhabenliste für Bürgerbeteiligungsprojekte - abgesetzt
+- TOP 11.14: Fortlaufende Berichterstattung und Information über den Zivilprozess Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH vor dem Landgericht Bochum aufgrund der Drucksache VO/1021/156 - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung in der Verbandsversammlung des EKOCity Abfallwirtschaftsverbandes - ungeändert beschlossen
+- TOP 12.2: Wahl von Aufsichtsratsmitgliedern durch die Gesellschafterversammlung der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 12.3: Benennung eines zusätzlichen beratenden Mitglieds für die Kommission für eine Kultur des Erinnerns - ungeändert beschlossen
+- TOP 12.4: Vertreter in der Gesellschafterversammlung der NRW.URBAN Kommunale Entwicklung GmbH - ungeändert beschlossen
+- TOP 12.5: Aufstellung der Vorschlagsliste zur Wahl der Schöffinnen und Schöffen für die Wahlzeit 01.01.2019 - 31.12.2023 - geändert beschlossen
+- TOP 12.6: Einigungsstelle der Stadtverwaltung Wuppertal (§ 67 Landespersonalvertretungsgesetz NRW) - Bestimmung der von der Dienststelle zu benennende Beisitzerinnen und Beisitzer - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung / Benennungen - ungeändert beschlossen
