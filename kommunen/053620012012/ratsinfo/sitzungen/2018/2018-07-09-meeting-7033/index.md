@@ -1,0 +1,74 @@
+# Rat (42. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-07-09T18:02:00+02:00
+- Ende: 2018-07-09T22:34:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcajSFbma6CjSVQIK5h0Awc
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7033
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe3LxhmDyPcAJgqfEF0hbvcvEo0t-FC8kvZF_lzhnBh4/Bekanntmachung_Rat_09.07.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2uFkWQslWgSoOLlIKQKdadfBWIbfuwdlslhU34mi0E/Oeffentliche_Niederschrift_Rat_09.07.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Rathausneubau I
+- TOP 1.2: Rathausneubau II
+- TOP 1.3: Wasserversorgungskonzept
+- TOP 1.4: Verfahren Einwohnerfragestunde
+- TOP 1.5: Spielplatz Sophie-Scholl-Straße
+- TOP 2.: Niederschrift vom 14.05.2018
+- TOP 3.: Niederschrift vom 04.06.2018
+- TOP 4.: Rathaus B: Freigabe Leistungsphase 2 -Vorplanung- - (kein Text vorhanden)
+- TOP 4.1: Verzicht auf die im Vorentwurf vorgesehene Ausweitung der Flächen für die Bücherei im Untergeschoss und den Lesehof Bezug: Antrag der SPD-Fraktion vom 22.06.2018 - (kein Text vorhanden)
+- TOP 4.2: Gestaltung der Fassade Rathaus-Neubau Bezug: mündlicher Antrag der Grüne-Fraktion in der Sitzung des HA am 25.06.2018
+- TOP 4.3: Rathaus B Freigabe der Vorplanung (Leistungsphase 2)
+- TOP 5.: Wasserversorgungskonzept der Stadt Brühl - (kein Text vorhanden)
+- TOP 6.: Neugestaltung Bahnhofsumfeld Abriss und Neubau der Radstation - (kein Text vorhanden)
+- TOP 7.: Gesellschafterversammlung Gebausie - Jahresabschluss 2017 - (kein Text vorhanden)
+- TOP 8.: Deklaration zur Verkehrssicherheit in der Stadt Brühl - (kein Text vorhanden)
+- TOP 9.: Schulname für die neu zu gründende Gemeinschaftsgrundschule im Brühler Norden - (kein Text vorhanden)
+- TOP 10.: Verwendungsnachweis KOMM-AN 2017
+- TOP 11.: Pilotprojekt ‚FerienIntensivTraining Deutsch – FIT in Deutsch‘ des Ministeriums für Schule und Bildung des Landes NRW in den Herbstferien 2017 im KOMM-MIT
+- TOP 12.: Video Integration
+- TOP 13.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahre 2017 hier: Schreiben der KSK vom 04.06.2018
+- TOP 14.: Anträge
+- TOP 14.1: Gedenktafel für Caspar Markard Bezug: Antrag der SPD-Fraktion vom 15.06.2018 - (kein Text vorhanden)
+- TOP 14.2: Vertretungsregelung in verschiedenen Ausschüssen Bezug: Antrag der Fraktion Linke&Piraten vom 19.06.2018 - (kein Text vorhanden)
+- TOP 15.: Benennung von zwei Mitgliedern / zwei stellvertretenden Mitgliedern für den Aufsichtsrat der Wirtschaftsförderung Rhein-Erft GmbH (WfG) ab 01.07.2018 - (kein Text vorhanden)
+- TOP 16.: Umbesetzung in Ausschüssen
+- TOP 16.1: Umbesetzung im Ausschuss für Bauen und Umwelt Bezug: Antrag der Fraktion Linke&Piraten vom 17.06.2018 - (kein Text vorhanden)
+- TOP 17.: Mitteilungen
+- TOP 17.1: Schreiben von Philippe Laurent
+- TOP 18.: Anfragen
+- TOP 18.1: Neuer Digitalnetzversorger Bezug: Anfrage der FDP-Fraktion vom 27.05.2018
+- TOP 18.1.1: Neue Digitalnetzversorger im Stadtgebiet Bezug: Anfrage der FDP-Fraktion vom 27.05.2018
+- TOP 18.2: Datenhandel Bezug: Anfrage der Fraktion Linke&Piraten vom 19.06.2018
+- TOP 18.2.1: Datenhandel Bezug: Anfrage der Fraktion Die Linke. & Piraten vom 19.06.2018
+- TOP 18.3: Datenschutzgrundverordnung (EU-DSGVO) Bezug: Anfrage der Fraktion Linke&Piraten vom 19.06.2018
+- TOP 18.3.1: Anfrage der Partei Die Linke & Piraten Partei zur Datenschutzgrundverordnung vom 19.06.2018
+- TOP 18.4: OGS Martin-Luther-Schule
+- TOP 18.5: Denkmal am Brühler Bahnhof
+- TOP 18.6: Kreisparkasse Köln/Raiffeisenbank
+- TOP 18.7: Neue Feuerwache
+- TOP 18.8: Externe Beratungskosten
+- TOP 18.9: Kolpingplatz
+- TOP 18.10: Immobilienmanagement
+- TOP 18.11: Pflegeplätze für Senioren
+- TOP 18.12: Seniorenresidenz Nitsche
+- TOP B): Nichtöffentliche Sitzung
+- TOP 19.: Bericht über die 140. Sitzung des Aufsichtsrates der REVG mbH am 01.03.2018
+- TOP 20.: Bericht über die 141. Sitzung des Aufsichtsrates der REVG mbH am 27.04.2018
+- TOP 21.: Bericht über die 142. Sitzung des Aufsichtsrates der REVG mbH am17.05.2018
+- TOP 22.: Bericht über die 143. Sitzung des Aufsichtsrates der REVG mbH am 30.05.2018
+- TOP 23.: Belastung eines Erbbaurechts - (kein Text vorhanden)
+- TOP 24.: Übertragung Festsetzungsbefugnis RVK - (kein Text vorhanden)
+- TOP 25.: Bestellung stellvertretender Leiter RPA
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen
+- TOP 27.1: Arbeitskreis FNP
+- TOP 27.2: Rathaus Neubau
