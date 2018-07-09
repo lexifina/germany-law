@@ -1,0 +1,70 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-07-09T17:00:00+02:00
+- Ende: 2018-07-09T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18682
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18682
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage wegen Halteverbot auf der Rüdesheimer Straße
+- TOP 1.2: Einwohnerfrage wegen Alter Wipperführter Straße 35
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Fußgängerüberweg Schweidtnitzer Str./Am Klosterhof Köln-Dünnwald (Az.: 02-1600-207/16) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Gesicherter Schulradweg vom Teilstandort Köln-Dellbrück in die Willy-Brandt-Gesamtschule nach Köln-Höhenhaus (Az.: 02-1600-56/18) - geändert beschlossen
+- TOP 2.3: Von-Quadt-Straße, 02-1600-01/18, Beschlussvorlage BV 9, Trimmparcour, Bouleplatz, § 24 GO - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Spielhallen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.1.2: Verkehrssicherungspflicht Rad- und Fußweg Odenthaler Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 7.1.3: Möglichkeiten für die Bewohner der neuen Wohnanlage Haferkamp, Anfrage der FDP - Kenntnis genommen
+- TOP 7.1.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - Kenntnis genommen
+- TOP 7.1.5: Verkehrliche Maßnahmen auf der Bergisch Gladbacher Straße - Kenntnis genommen
+- TOP 7.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.7: Förderung des Bundesumweltministeriums zum "Klimaschutz durch Radverkehr" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Umsetzung von Beschlüssen bezüglich des Radverkehr im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.2: Gewerbegebiet zwischen Düsseldorferstraße und Dünnwalder-Kommunalweg - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Barrierefreiheit der S-Bahnsteige in Holweide und Dellbrück - ungeändert beschlossen
+- TOP 8.1.2: Antrag der SPD-Fraktion: Versetzung der Sitzbank auf dem Elisabeth-Schäfer-Weg auf Höhe der Querung Kieppemühler Straße - ungeändert beschlossen
+- TOP 8.1.3: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Sicherstellung der Verkehrssicherheit auf der Odenthaler Straße in Köln-Dünnwald - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Abschließende Vergabe von Bezirksorientierten Mitteln für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 9.1.2: Haushaltsplanentwurf 2019: Aufteilung der bezirksorientierten Mitteln nach § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.3: Aufhebung des Beschlusses der Bezirksvertretung Mülheim vom 05.12.2016 (Session 2552/2016) zur Verkehrssicherheit auf der Kunstfelder Straße in Köln-Dünnwald - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert beschlossen
+- TOP 9.2.2: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verzögerte Beantwortung von Anfragen in der Bezirksvertretung Kalk (Tischvorlage in der Bezirksvertretung Kalk am 21.06.2018) - Kenntnis genommen
+- TOP 10.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1.3: Beantwortung einer mündlichen Anfrage aus einer früheren Sitzung zur Unterbringung von Flüchtlingen (Rechnungsprüfungsausschuss am 26.06.2018) - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 10.2.4: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 10.2.5: 15 Minuten kostenfreies Parken im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.6: Sachstand und bisherige Erkenntnisse des Verkehrsgutachtens Mülheimer Süden - Kenntnis genommen
+- TOP 10.2.7: Werbesäulen - Kenntnis genommen
+- TOP 10.2.8: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.9: Machbarkeitsstudie für leistungsfähige regionale Radverbindungen/Radhauptachsen zwischen Köln, Leverkusen, dem Rheinisch-Bergischen Kreis und dem Rhein-Sieg Kreis - Kenntnis genommen
+- TOP 10.2.10: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.11: Umgestaltung Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
