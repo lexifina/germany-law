@@ -1,0 +1,94 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4597102
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4597102
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 6.3.: Heiglhofstraße 13, Betrieb des Biergartens (Referat für Stadtplanung und Bauordnung, 28.05.18)
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Schlüsselblumenweg, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 3752
+- TOP 7.1.2.: Zypressenweg 16, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 9251
+- TOP 7.1.3.: Aurikelstraße 3, 1 Lärche
+- TOP 7.1.4.: Ebernburgstraße 12, 3 Robinien und 1 Birke
+- TOP 7.1.5.: Gräfelfinger Straße 96 a, 1 Japanische Nelken-Kirsche
+- TOP 7.1.6.: Neufriedenheimer Platz 7, 1 Birke
+- TOP 7.1.7.: Rodensteinstraße 16, 1 Kiefer
+- TOP 7.1.8.: Silberblattstraße, 1 Lärche
+- TOP 7.1.9.: Waldklausenweg 4 a, 1 Blautanne
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Erklärung der SPD-Fraktion zur BA-Sitzung am 11.06.2018
+- TOP B.: Erklärung der Grünen-Fraktion
+- TOP 1.1.: Radweg zur Menaristraße: Ida-Schuhmacher-Weg
+- TOP 1.2.: Autowäsche auf öffentlichen Straßen
+- TOP 1.3.: Verkehrssituation in der Prälat-Wellenhofer-Straße
+- TOP 1.4.: Straßenbaumaßnahme Waldwiesenstraße
+- TOP 4.1.: Persönliche Beteiligung gem. § 13 BA-Geschäftsordnung (Grünen-Fraktion)
+- TOP 4.2.: Feuerwehrzufahrten bei der Baustelle Stiftsbogen 152 - 166 (Grünen-Fraktion)
+- TOP 4.3.: Mietminderung für die Wohnungen Stiftsbogen 152 - 166 während der Baumaßnahme (Grünen-Fraktion)
+- TOP 4.4.: Mieten in den aufgestockten Wohnungen Stiftsbogen 152 - 166; Kitagebühren des privaten Trägers am Stiftsbogen (Grünen-Fraktion)
+- TOP 4.5.: Ersatzpflanzungen für die im Zusammenhang mit der Baumaßnahme Stiftsbogen 152 - 166 gefällten Bäume (Grünen-Fraktion)
+- TOP 5.1.: Budget der Bezirksausschüsse, Förderverein für die Grundschule und das Tagesheim am Hedernfeld e.V., Zirkus Projektwoche für 212 Kinder vom 22. bis 26.07.2018, 3.000,00 € (Direktorium, 13.06.18)
+- TOP 5.2.: Budget der Bezirksausschüsse, Turn- und Sportverein München-Großhadern 1926 e.V., Anschaffung neuer Bälle, 236,20 € (Direktorium, 25.06.18)
+- TOP 5.3.: Budget der Bezirksausschüsse, Turn- und Sportverein München-Großhadern 1926 e.V., Anschaffung eines neuen Trikotsatzes, 762,74 € (Direktorium, 25.06.18)
+- TOP 6.1.: Vollzug des § 4 Abs. 1 BauGB, Gemeinde Planegg; Gesamtfortschreibung des Flächennutzungsplanes (Referat für Stadtplanung und Bauordnung, 12.06.18)
+- TOP 6.2.: Erinnerungsverfahren: Marchioninistraße 13 bis Sauerbruchstraße (Baureferat, 07.06.18)
+- TOP 7.2.1.: Liste des Baureferates vom 30.05.2018 und 13.06.2018: 19 Bäume auf dem Waldfriedhof
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Lupinenweg; Errichtung eines absoluten Haltverbotes (Z. 283 StVO) (Kreisverwaltungsreferat, 13.06.18)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: - Fürstenrieder Straße 220 / Ossingerstraße -> Strom (SWM, 04.06.18)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Großhaderner Straße; Errichtung des Gefahrenzeichens 102 StVO vor der Kreuzung mit der Gräfelfinger Straße (Kreisverwaltungsreferat, 20.06.18)
+- TOP 8.4.: Informationsschreiben Nr. 03/2018; Technikpauschale für die Mitglieder der Bezirksausschüsse (Hinweis auf Beschlussvorlage Nr. 14-20 / V 11207) (Direktorium, 25.06.18)
+- TOP 9.1.: Straßenschäden Heiglhofstraße (Baureferat, 29.05.18)
+- TOP 9.2.: Wochenmarkt Guardinistraße, Marktzeiten (Kommunalreferat, Markthallen München, 30.05.18)
+- TOP 9.3.: Haltverbot Großhaderner Straße / Gräfelfinger Straße (Kreisverwaltungsreferat, 06.06.18)
+- TOP 9.4.: Biodiversität: Zwei zusätzliche Wildblumenwiesen pro Stadtbezirk auf öffentlichen Grünflächen (Baureferat, 14.06.18)
+- TOP 9.5.: Taubenplage in der Guardinistraße (Referat für Gesundheit und Umwelt, 28.05.18)
+- TOP 9.6.: Zwischennachricht: BildungsLokal Blumenau, Antr.-Nr. 14-20 / B 04856 (Referat für Bildung und Sport, 30.05.18)
+- TOP 10.1.: Baumaßnahmen in der Terofalstraße (SWM, 29.05.18)
+- TOP 10.2.: Hinweis auf die "Heiglhofstraße" an der U-Bahnhaltestelle "Großhadern" (MVG, 01.06.18)
+- TOP 10.3.: Baustelle Stiftsbogen 152 - 166 (Riebel GU AG St. Gallen, 21.06.18)
+- TOP 11.1.: Protokoll der Sitzung des Mieterbeirats vom 23.04.2018 (Sozialreferat, 29.05.18)
+- TOP 11.2.: Wahl zum 18. Bayerischen Landtag und zum 16. bayerischen Bezirkstag am 14.10.2018; Gewinnung von Wahlhelferinnen und Wahlhelfern (Kreisverwaltungsreferat, 22.05.18)
+- TOP 11.3.: Einladung zum 36. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Donnerstag, 12.07.2018 (Gleichstellungsstelle für Frauen, 07.06.18)
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Erhebung der Belegung der großen Wohnungen bei GWG und GEWOFAG
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Strategien zur Schaffung von preisgünstigem Wohnraum
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Mehr Kreativität und Qualität in Stadtplanung und Architektur durch höhere Flexibilität in Wettbewerben und Bauleitplanung
+- TOP 2.1.4.: Beschluss des Bauausschusses vom 08.05.2018: Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 2.2: Referentenanträge
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Hinweis / Ergänzung vom 25.04.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.05.2018: Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Sozialausschusses vom 19.06.2018: Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 3.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.06.2018: Neues Förderprogramm ökologische Landwirtschaft in München
+- TOP 4.1.: Hinweis / Ergänzung vom 07.05.2018 zur Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 09.05.2018: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2017 – 31.12.2017
+- TOP 4.2.: Bekanntgabe im Sozialausschuss vom 17.05.2018: Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
