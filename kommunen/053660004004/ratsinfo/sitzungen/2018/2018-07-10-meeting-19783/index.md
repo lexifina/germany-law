@@ -1,0 +1,60 @@
+# Rat (28. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2018-07-10T18:00:00+02:00
+- Ende: 2018-07-10T20:30:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVFyLJwGMJJvLYJ0WuZS8N8
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19783
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVe_-1Xkeb_mzu5ASjldhwHjvojmmnJUgK0H1Q09Z7QB/Bekanntmachung_Rat_10.07.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQA3Eg54rzDvuNSj8nWDedRmg3jLe8RgMbzdRlVqMRDd/Oeffentliche_Niederschrift_Rat_10.07.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 08.05.2018 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Vorlage der Prüfberichte -      
+- TOP -: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Vorlage der Prüfberichte - Einstimmiger Beschluss:
+- TOP 5.: Wasserspiele am Werther Tor hier: Antrag der FDP-Fraktion - Einstimmiger Beschluss:
+- TOP 6.: Besetzung von Ausschüssen hier: Antrag der UWV-Fraktion vom 28.04.2018 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 7.: Besetzung von Ausschüssen hier: Antrag der UWV-Fraktion vom 18.06.2018 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 8.: Besetzung von Ausschüssen hier: Antrag der SPD-Fraktion vom 25.06.2018 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Neuerlass der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Bad Münstereifel -   
+- TOP -: Neuerlass der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Bad Münstereifel - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 11.: 1. Verordnung zur Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel vom 31.03.2017 -    
+- TOP -: 1. Verordnung zur Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel vom 31.03.2017 - Beschluss mit 18 Ja- und 9 Nein-Stimmen:
+- TOP 12.: Hundesteuer hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 18.04.2018 - Beschluss mit 17 Ja- und 9 Nein-Stimmen, sowie 1 Enthaltung:
+- TOP 13.: Hundekotproblematik; hier: Grundsatzbeschluss -   
+- TOP -: Hundekotproblematik; hier: Grundsatzbeschluss - Beschluss mit einer Gegenstimme:
+- TOP 14.: Aktualisierung des Integrierten Klimaschutzkonzeptes zur Beantragung eines/r Klimaschutzmanager/in - Beschluss mit einer Gegenstimme:
+- TOP 15.: ISEK Bad Münstereifel hier: Vorstellung Abschlussbericht, Vorstellung Maßnahme Stadtpark -   
+- TOP -: ISEK Bad Münstereifel hier: Beschluss zum Abschlussbericht -   
+- TOP 15.1: ISEK Bad Münstereifel hier: Vorstellung Abschlussbericht - Beschluss mit einer Gegenstimme:
+- TOP 16.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Witscheiderhof - Bereich südwestlich der Wilhelmstraße (Ergänzungssatzung) hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Originalniederschrift) erfolgen einstimmig.
+- TOP -: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Witscheiderhof - Bereich südwestlich der Wilhelmstraße (Ergänzungssatzung) hier: Abwägungsbeschlüsse und Satzungsbeschluss - Beschluss mit einer Gegenstimme:
+- TOP 17.: Entwidmung und Widmung von Wegeflächen in der Gemarkung Eschweiler - Einstimmiger Beschluss:
+- TOP 18.: Feststellung Jahresabschluss zum 31.12.2017 des Eigenbetriebs Stadtwerke - Betriebszweig Wasser - - Einstimmiger Beschluss:
+- TOP 19.: Feststellung Jahresabschluss zum 31.12.2017 des Eigenbetriebes Stadtwerke - Betriebszweig Abwasser- - Einstimmiger Beschluss:
+- TOP 20.: Gesamtabschluss 2016 hier: Zuleitung des Prüfungsberichtes des Rechnungsprüfungsausschusses sowie Feststellung und Entlastung gem. § 116 GO NRW i.V.m. § 96 GO NRW - Einstimmiger Beschluss:
+- TOP 21.: Jahresabschluss 2017 hier: Zuleitung des Prüfungsberichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses 2017 und Entlastung gem. § 96 Abs. 1 GO NRW - Einstimmiger Beschluss:
+- TOP 22.: Anfragen und Mitteilungen
+- TOP 22.1: Aktualisierung von Ratsvorlagen
+- TOP 22.2: Mitglied des Behindertenbeirates als stellvertretendes beratendes Mitglied im Ausschuss für Bildung, Kultur, Sport, Soziales, Städtepartnerschaften und Tourismus
+- TOP 22.3: Tarifierung der Strecke Bad Münstereifel - Rheinbach
+- TOP 22.4: Denkmalförderprogramm 2018
+- TOP 22.5: Bürgerversammlung zum ISEK (Integriertes Stadtentwicklungskonzept)
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Entwicklungsbereich Schleidpark hier: Grundstücksangelegenheit - Beschluss mit einer Gegenstimme:
+- TOP 2.: Sportplatz Bad Münstereifel Hier: aktuelle Vertragssituation und weitere Verfahrensweise - Beschluss mit einer Gegenstimme, sowie 1 Enthaltung:
+- TOP 3.: Bericht aus den Beteiligungen -   
+- TOP 4.: Wandteppich (Tapisserie) aus dem historischen Ratssaal - Einstimmiger Beschluss:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Vandalismusschäden im Kurpark
+- TOP 5.2: Kurpark Scheidtpark hier: Sachstand Rechtsstreit
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
