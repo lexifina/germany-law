@@ -1,0 +1,7 @@
+# TOP 1.1.: Besetzung der Stelle der Bereichsleitung „Verkehrsflächen“.
+
+- Sitzung: Rat (32. Sitzung) (2018-07-10)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/68450
+- Ergebnis: Einstimmig, 0 Enthaltungen
