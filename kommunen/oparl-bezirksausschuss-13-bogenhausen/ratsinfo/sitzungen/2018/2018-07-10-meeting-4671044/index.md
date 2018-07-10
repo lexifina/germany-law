@@ -1,0 +1,147 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-07-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4671044
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4671044
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.5.: Musenbergstr. 40: Nutzungsänderung: Lagerhalle zu Veranstaltungshalle (max. 1400 Personen), befristet auf 10 Jahre; Anhörung des Referates für Stadtplanung und Bauordnung vom 04.06.2018 (siehe auch TOP 6.7 + 6.8)
+- TOP 2.2.10.: Neuberghauser Str. 3: Aufstockung eines Wohngebäudes und Errichtung eines Wintergartens auf der Dachterrasse - Vorbescheid (vertagt am 12.06.2018)
+- TOP 2.2.11.: Redwitzstr. 4: Neubau eines Gebäudes mit Archiv und Bibliothek für das Büro im Vordergebäude (EG) sowie 2 WE für Konsulatsmitarbeiter im Vordergebäude (1. OG) - Vorbescheid (vertagt am 12.06.2018)
+- TOP 2.2.12.: Mauerkircherstr. 70: Umbau eines Einfamilienhauses, Errichtung eines versenkbaren Doppelparkers und Erweiterung des Kellers - Tektur
+- TOP 2.2.13.: Ebersberger Str. 12a: Abbruch der Garage, Neubau einer Garage mit Rasengitter-Rampe, Abbruch und Neubau Wintergarten + Hobbyraum UG; Erstantragsverfahren
+- TOP 2.2.14.: Muspillistr. 8: Umbau eines Wohnhauses in 3 Wohneinheiten; Erstantragsverfahren
+- TOP 2.2.15.: Ebersberger Str. 14: Erweiterung eines Einfamilienhauses; Erstantragsverfahren
+- TOP 2.2.17.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.18.: Weitere Themen aus der Tagesordnung, z.B. Bauvorhaben aus den Bekanntgaben
+- TOP 2.2.19.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.16.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Technikpauschale für die Mitglieder der Bezirksausschüsse; Schreiben des Direktoriums vom 25.06.2018 (siehe auch TOP 7.1.1) - Bitte Verzichtserklärung bis spätestens 15.07.2018 der BA-Geschäftsstelle weiterleiten -
+- TOP 2.2.1.: Richard-Strauss-Str.: Entwurf Eckdatenbeschluss, Anhörung des Referates für Stadtplanung und Bauordnung vom 20.06.2018
+- TOP 2.2.2.: "Moosgrund im Münchner Nordosten" - Unterschutzstellung als Landschaftsschutzgebiet; Schreiben des Referates für Stadtplanung und Bauordnung vom 13.06.2018
+- TOP 2.2.3.: Max-Proebstl-Str. 4 - Verlängerung der Baugenehmigung; Mail des Sozialreferates vom 04.06.2018
+- TOP 2.2.4.: Verkehrsgutachten Wilhelm-Hausenstein-Gymnasium; Schreiben des Baureferates vom 18.06.2018
+- TOP 2.2.6.: Musenbergstr. 40: Genehmigungsverfahren "Theaterfabrik"; Bürgeranliegen vom 29.05.2018
+- TOP 2.2.7.: Bebauung der Wiese an der Eggenfeldener Straße; Bürgeranliegen vom 01.06.2018
+- TOP 2.2.8.: Holbeinstr. 15: - Abbruch eines Gebäudes; Abbruchanzeige - Neubau eines Einfamilienhauses mit Tiefgarage; Erstantragsverfahren (vertagt am 12.06.2018)
+- TOP 2.2.9.: Eugen-Jochum-Str.: Neubau eines Senioren-Pflegeheims mit Seniorenwohnen, Begegnungsstätte und Synagoge („Seniorenwohnen am Prinz-Eugen-Park“); Erstantragsverfahren (vertagt am 12.06.2018)
+- TOP 2.2.16.: Max-Nadler-Str. 4: Nachverdichtung einer Wohnanlage mit Erweiterung Tiefgarage – Vorbescheid; Rückmeldung des Antragstellers bzw. Architekten; Mail vom 25.06.2018
+- TOP 2.3.1.: Stellungnahme des Baureferats zu TOP 2.3.1 und TOP 2.3.2 (Mobilitätskonzept Prinz-Eugen-Park): Erledigung der BV-Empfehlungen; Schreiben des Baureferats vom 18.05.2018
+- TOP 2.3.2.: (E) Mobilitätskonzept Prinz-Eugen-Park: Bordsteine verzichtbar? Empfehlung Nr. 14-20 / E 01843 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 26.10.2017
+- TOP 2.3.3.: (E) Mobilitätskonzept Prinz-Eugen-Park: Sichere, ruhige Querungen im Straßenraum Empfehlung Nr. 14-20 / E 01842 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 26.10.2017
+- TOP 2.3.4.: Freischützstr. 91: neue Kindertagesstätte: Einrichtung einer Hol- und Bringzone (3 Parkplätze) sowie einem geschwindigkeitsreduzierten Bereich auf 30 km/h; Anhörung des Kreisverwaltungsreferates vom 07.06.2018
+- TOP 2.3.5.: Freischützstr. 106: Entfernung eines Fußgängerüberwegs; Anhörung des Kreisverwaltungsreferats vom 20.06.2018
+- TOP 2.3.6.: Höslstr: Anordnung eines absoluten Halteverbots; Anhörung des Kreisverwaltungsreferats vom 25.06.2018
+- TOP 2.3.7.: Straßenbauarbeiten im Kreuzungsbereich Riemer Straße/ Rennbahnstraße; Schreiben des Baureferates vom 13.06.2018
+- TOP 2.3.8.: Scheinerstr. 3 und Laplacestr.: Aufhebung der eingeschränkten Haltverbote sowie des Gefahrzeichens „Krankenhaus“; Unterrichtung des Kreisverwaltungsreferats vom 26.06.2018
+- TOP 2.3.9.: Röntgenstr. 5: Absolutes Haltverbot - Verkleinerung der Sicherheitszone vor dem polnischen Konsulat; Unterrichtung des Kreisverwaltungsreferats vom 26.06.2018
+- TOP 2.3.10.: Stegmühlstr.: Ergänzung der Beschilderung um das Verkehrsschild „Anlieger Frei"; Antrag der CSU-Fraktion vom 25.06.2018
+- TOP 2.3.11.: Verlängerung der Nachtlinie N 17 zur Endstation St. Emmeram; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 26.06.2018
+- TOP 2.3.12.: Parkplatzsituation Gaststätte Zamdorfer; Bürgeranliegen vom 05.04.2018 (vertagt am 08.05.2018 und 12.06.2018); Einrichtung von provisorischen PKW-Parkplätzen für die Gaststätte Zamdorfer; Fraktionsübergreifender Antrag vom 02.07.2018
+- TOP 2.3.13.: Vororttermin zum Thema "Sammelplatzproblematik" im 13. Stadtbezirk (vertagt am 08.05.2018 und 12.06.2018)
+- TOP 2.3.14.: Radroute von Denning zum Feringasee; Bürgeranliegen vom 11.06.2018
+- TOP 2.3.15.: Maria-Theresia-Str.: Aufhebung der Einbahnstraßenregelung für Fahrradfahrer; Bürgeranliegen vom 29.05.2018
+- TOP 2.3.17.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Budget der Bezirksausschüsse Wohnen im Alter im Cosimapark e.V. (WiAC e.V.) Sommer-Café für WiAC-Mitglieder am 13.07.2018 1.033,00 € Az: 0262.0-13-0174
+- TOP 2.4.2.: Hinweise zum Budgetantrag "Wohnen im Alter im Cosimapark e.V. (WiAC e.V.) Sommer-Café für WiAC-Mitglieder am 13.07.2018" (TOP 2.4.1); E-Mail des Antragstellers vom 06.06.2018
+- TOP 2.4.3.: (E) Budget der Bezirksausschüsse Isarlust e.V. Play me, I&#039;m yours im Herbst 2018 3.000,00 € AZ: 0262.0-13-0177
+- TOP 2.4.4.: (E) Budget der Bezirksausschüsse THW Förderverein München Ost e.V. Beschaffung eines Jugendfahrzeuges 14.000,00 € AZ: 0262.0-13-0178
+- TOP 2.4.5.: (E) Budget der Bezirksausschüsse Initiative Papiertheaterfestival 2. Papiertheaterfestival vom 18.-21.10.2018 3.000,00 € AZ: 0262.0-13-0180
+- TOP 2.4.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.7.: Verschiedenes, Termine
+- TOP 2.5.1.: Kinder- und Jugendbeteiligung bei Fragen der Stadtentwicklung Münchens; Schreiben des Münchner Forums vom 22.05.2018
+- TOP 2.5.2.: Mosaik Jugendpreis 2019; Mail des Sozialreferats vom 07.06.2018
+- TOP 2.5.3.: Ameisenbefall im Immanuel-Kindergarten; Bürgeranliegen vom 18.06.2018
+- TOP 2.5.4.: Unverzügliche Schaffung eines Bürgerbüros im 13. Stadtbezirk; Antrag der SPD-Fraktion vom 26.06.2018
+- TOP 2.5.5.: Mietforderungen in den städtischen Gemeinschaftsunterkünften; Antrag der SPD-Fraktion vom 26.06.2018
+- TOP 2.5.6.: Bezirkssportanlage Fritz-Lutz-Str. 23: Modernisierung der Freisportanlagen - Ortsbesichtigung vom 29.05.2018; E-Mail des Referats für Bildung und Sport vom 08.06.2018
+- TOP 2.5.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.8.: Verschiedenes, Termine
+- TOP 2.5.9.: Vorziehen des Baus eines Kunstrasenplatzes und Bereitstellung von Umkleidemöglichkeiten; Gemeinsamer Antrag der CSU und der SPD
+- TOP 2.6.1.: Neue Gartenhäuser im Gelände des ÖBZ - Vorstellung der MVHS; Handout der MVHS vom 12.06.2018 (vertagt am 12.06.2018) - gemeinsame Sitzung mit UA Planung -
+- TOP 2.6.2.: Baumfällungen (Anhörungen): Flensburger Str. (Fl. Nr. 779/396): lt. Plan Elbinger Str. 1c-3: lt. Plan Am Hierlbach 40: lt. Plan Flensburger Str. (Fl. Nr. 779/43): lt. Plan Brodersenstr. 54: 10 Fichten, 2 Birken Daphnestr. 32: 1 Salzweide Eggenfeldener Str. 125: 3 Kiefer Mauerkircherstr. 11: 1 Winterlinde Neuberghauser Str. 9: 6 Bäume Wacholderweg 1: 1 Buche Flaschenträgerstr. 13: 1 Feldahorn Lierstr. 19 – 21: 1 Lärche Burgauerstr. 113 – 117: 1 Zypresse Ismaninger Str. 57: 1 Eibe
+- TOP 2.6.3.: Baumfällungen (Unterrichtungen): Daphnestr. 32 (1 Salzweide)
+- TOP 2.6.4.: (E) Ablehnung zur Errichtung eines Mobilfunksenders in der Posener Str. 12 und Umgebung Empfehlung Nr. 14-20 / E 01245 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 27.10.2016
+- TOP 2.6.5.: Beschlussentwurf "Gartenschau ab 2029 im Bereich der SEM Nordost" (Antrag Nr. 14-20 / A 03245); Anhörung des Referats für Stadtplanung und Bauordnung vom 16.02.2018 (vertagt am 13.03.2018, 10.04.2018, 08.05.2018, 12.06.2018); Rückmeldung des Referats für Stadtplanung und Bauordnung vom 30.05.2018
+- TOP 2.6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.7.: Blühende Fahrbahnmittelstreifen; Antrag der CSU-Fraktion vom 25.06.2018
+- TOP 2.6.8.: Cosimaplatz: Bedenken gegen den Beschluss zur zukünftigen Nutzung des Platzes; Bürgeranliegen vom 25.06.2018
+- TOP 2.6.9.: Vertrocknete Felsenbirnen am Effnerplatz; Bürgeranliegen vom 29.05.2018, Rückmeldung des Baureferates vom 04. und 20.06.2018
+- TOP 2.6.10.: Isarinsel Oberföhring: Vermüllung; Antwortschreiben des Baureferats vom 15.06.2018
+- TOP 2.6.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.12.: Verschiedenes, Termine
+- TOP 6.1.: Baumfällungen Denninger Anger entlang Neckarstraße
+- TOP 6.2.: Schaffung eines Bürgerbüros im 13. Stadtbezirk
+- TOP 6.3.: Förderung des Neubaus einer Dreifachhalle des TS Jahn auf seinem eigenen Gelände an der Weltenburgerstraße
+- TOP 6.4.: Neugestaltung Herkomerplatz
+- TOP 6.5.: Wann kommt die Fahrradstraße Bogenhausen - Haidhausen?
+- TOP 6.6.: Sinnvolle Raumgestaltung
+- TOP 6.7.: Theaterfabrik
+- TOP 6.8.: Prekäre Verkehrssituation nach Veranstaltungen in der „Neuen Theaterfabrik“ (Musenbergstraße 40) prüfen
+- TOP 6.9.: Entfernung der installierten Pflanztröge bei der Wohnanlage Fideliopark
+- TOP 6.10.: Antrag auf einseitiges Parkverbot in der Asgardstraße
+- TOP 7.1.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 06.12.2017 Tablet-Computer für alle BA-Mitglieder Zuschuss zur Anschaffung von leistungsfähigen Druckern und monatliche Druckkostenpauschale für BA-Mitglieder Papierloses Arbeiten der Bezirksausschüsse unterstützen – Einen Zuschuss für selbst beschaffte IT-Ausstattung Aufwandsentschädigung für BA-Mitglieder bei Nutzung der Alfresco-Plattform 2. Umsetzung der Empfehlung in eine Änderungssatzung
+- TOP 7.2.1.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft: Flst. 439/31, Gemarkung Oberföhring, Ruth-Drexel-Straße, Cosimastraße
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättenbetriebes: - Cosimastr. 4: "La Cambusa"
+- TOP 7.7.1.: (U) Toiletten in den Krautgärten in der Gartenstadt Johanneskirchen Empfehlung Nr. 14-20 / E 01805 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 26.10.2017
+- TOP 7.7.2.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 7.7.3.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 7.7.4.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 7.7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.6.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 7.7.7.: (U) Vollzug der Naturschutzgesetze; Verlängerung der einstweiligen Sicherstellung des Gebietes "Moosgrund im Münchner Nordosten" als Landschaftsschutzgebiet
+- TOP 7.7.8.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 7.7.9.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 7.8.1.: Errichtung eines Hauses für Kinder am Prinz-Eugen-Park WA13; Baubeginnsanzeige des Referats für Bildung und Sport vom 24.05.2018
+- TOP 7.8.2.: (U) Städtische Berufsschule am Bogenhauser Kirchplatz
+- TOP 7.9.1.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 7.9.2.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch, Zur Deutschen Einheit 2 b vorher: 86 m² bzw. 1 WE, geplant: 388 m² bzw. 3 WE
