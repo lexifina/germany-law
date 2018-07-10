@@ -1,0 +1,159 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-07-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4639931
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4639931
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Migration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4.4.4.: Anträge und Anmerkungen zu den Themen Verkehr und Umwelt, Bürgerschreiben vom 03.04.2018
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.1.: umfassendes Tempolimit für die Ichostraße, Silberhornstraße und den vorderen Teil der Deisenhofenerstraße
+- TOP 2.1.2.: Antrag auf Einrichtung von Fahrradstellplätzen in der Rotwandstraße
+- TOP 2.1.3.: Märkte/ kleine Läden in Obergiesing
+- TOP 2.1.4.: Entlastungstunnel Giesing
+- TOP 2.1.5.: Fahrradwege bei Bahnunterführungen Chiemgaustraße und Werinherstraße
+- TOP 2.1.6.: Anfrage bezüglich Funkmast in der Chiemgaustraße
+- TOP 2.1.7.: Mooswände entlang des Mittleren Rings im 17. Stadtbezirk durch das BA-Budget Finanzieren
+- TOP 2.1.8.: Bücherbus in der Siedlung am Perlacher Forst
+- TOP 3.9.1.1.: Seemüllerstraße 13
+- TOP 3.9.1.2.: Mitterteicher Str. 9
+- TOP 4.1.: Radschnellweg schnell und verträglich ausbauen!
+- TOP 4.2.: Situation der Kinderbetreuung im Bezirk 17 Obergiesing-Fasangarten
+- TOP 4.3.: Stärkere Beteiligung der Bürger am Bebauungsplan des Planungsgebietes zwischen Autobahn A8 München-Salzburg und der Münchberger Straße
+- TOP 4.4.: McGraw Gelände innovativ und langfristig denken Anträge der SPD Fraktion
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse ARGE St.-Quirin-Fest Giesing 21. St.-Quirin-Fest am 05.07.2018 5.728,60 € AZ: 0262.0-17-0171
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse Initiative Kamera Künstlerisch-wissenschaftliche Publikation 4.260,00 € AZ: 0262.0-17-0168
+- TOP 5.1.3.: (E) Budget der Bezirksausschüsse Isarlust e.V. Play me, I&#039;m yours im Herbst 2018 3.000,00 € AZ: 0262.0-17-0172
+- TOP 5.1.4.: (E) Budget der Bezirksausschüsse KulturVERSTRICKUNGEN e.V. Kultivierung des Areals am Giesinger Grünspitz ab Mai 2018 5.925,00 € Az: 0262.0-17-0163
+- TOP 5.1.5.: (E) Budget der Bezriksausschüsse Real München e.V. Ois Giasing! 2018 – Straßenfest am 08.09.2018 16.000,00 € AZ: 0262.0-17-0174
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 04.06.2018-10.06.2018
+- TOP 6.1.4.2.: Zweckentfremdungen im 17. Stadtbezirk
+- TOP 6.1.4.3.: Bauvorhaben Schliersee-/St.-Martin-Straße - Projektflyer
+- TOP 6.1.4.4.: Auswirkungen bei Änderung des FNPs im Falle einer Projektrealisierung „Brauerei in der Tegernseer Landstr. 337“ (ehemalige US-Tankstelle) auf die Umgebung
+- TOP 6.1.4.5.: Antrag der CSU-Fraktion auf sofortigen Stopp des Verkaufs des denkmalgeschützten Gebäudes Obere Grasstraße 1
+- TOP 6.1.4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.7.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
+- TOP 6.1.4.8.: (U) Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 6.1.4.9.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 6.1.4.10.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 6.1.4.11.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 6.1.4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Überplanung bzw. Instandhaltung des Bolzplatzes "Lincolnstraße"
+- TOP 6.2.4.2.: Verbesserung des Sportplatzes am General-Kalb-Weg
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Tempo 30 Severinstraße
+- TOP 6.3.3.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes gegenüber der Watzmannstr. 16
+- TOP 6.3.3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Untersbergstraße 70 a
+- TOP 6.3.3.4.: Tegernseer Landstraße 225/27; Einrichtung eines absoluten Halteverbote
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Traunsteiner Straße; Änderung der Halteverbotsregelung
+- TOP 6.3.4.2.: Anträge und Anmerkungen zu den Themen Verkehr und Umwelt, Bürgerschreiben vom 03.04.2018
+- TOP 6.3.4.3.: Schaffung eines sicheren Straßenüberganges an der Ecke Warngauer Str. / Untersbergstr.
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Begrünungsprogramm für Erschließungsstraßen (Sitzungsvorlage Nr. 14-20 / V 08441); Antrag des Bezirksausschusses 17 Obergiesing Fasangarten
+- TOP 6.4.4.2.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 6.4.4.3.: Winlandstraße 4 Fällgenehmigung
+- TOP 6.4.4.5.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 6.4.4.6.: Behälter für Altkleider im Fasanengarten und am Giesinger Bahnhof; hier Altkleidercontainer des AWM
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Beschlussvorlage Sportbauprogramm
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Antrag für Warenauslagen, Schwanseestr. 2
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Kistlerstraße 1, Kleingaststätte und Freischankfläche „Schau ma moi“
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Cafe "Heimatliebe" Antrag auf Neuerrichtung - Unterrichtung -
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
