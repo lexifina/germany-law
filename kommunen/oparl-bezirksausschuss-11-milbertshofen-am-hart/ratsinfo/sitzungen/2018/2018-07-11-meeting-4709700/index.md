@@ -1,0 +1,90 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709700
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709700
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Wahl und Benennung von Mitgliedern
+- TOP 2.2: Wahl einer bzw. eines neuen Vorsitzenden des Unterausschusses Bau / Umwelt
+- TOP 2.3: Benennung einer bzw. eines neuen Baumschutzbeauftragten (Nord)
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.1.: Ausweitung des Bayern WLAN im 11. Stadtbezirk
+- TOP 4.1.2.: Technikpauschale für die Mitglieder der Bezirksausschüsse - Informationsschreiben
+- TOP 4.2.1.: Zwischennutzung der Leichtbauhallenstandorte - Neuherbergstr. 24 und - Maria-Goeppert-Mayer-Str. 21
+- TOP 4.2.2.: Park Aussiger Platz - Ersatzpflanzungen vornehmen für die gefällten Bäume
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Angerfest am 30.06.2018 3.361,00 € AZ: 0262.0-11-0286
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube „komm“-Streetwork am 10.08.2018 172,00 € AZ: 0262.0-11-0290
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Versöhnungskirche München Harthof Sommerfest am 08.07.2018 440,72 Euro Az.: 0262.0-11-0288
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt "Play Me, I&#039;m Yours" im Herbst 2018 3.000,00 Euro Az.: 0262.0-11-0287
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Neuaufnahme in die Beauftragten-Liste des BA 11: PSAG-Beauftragte/n
+- TOP 7.2.1.: Information der Pressestelle des Baureferats über bevorstehende Gehölzpflegemaßnahmen und Baum(teil)fällungen
+- TOP 7.2.2.: Reduzierung des Fluglärms im Münchner Norden
+- TOP 7.2.3.: Rose-Pichler-Weg 48 - Parkplatzbeleuchtung
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Sportbauprogramm - Beschlussentwurf
+- TOP 8.2.2.: Vollzug der Baumschutzverordnung: Torquato-Tasso-Str. 36-38 - Neubau Haus für Kinder mit 6 Gruppen
+- TOP 8.2.3.: Anhalter-Str. 6 - Neubau eines Mehrfamilienhauses mit TG
+- TOP 8.2.4.: Heidemannstr. 40 - Abbruch einer Tankstellenanlage
+- TOP 8.2.5.: Konstanzer Str. 53-55 - Neubau eines Hotels mit TG
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Outdoorsportfestival" am 16.09.2018 im Olympiapark
+- TOP 8.3.2.: Veranstaltung "Sommerfest des Stadtteilzentrums Milbertshofen" am 20.07.2018 - Alter-St.-Georgs-Platz 4
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Knorrstr. 171 - Gymnasium München Nord - Einrichtung einer Anfahrtszone b) Prager Str. - Einrichtung eines absoluten Haltverbots
+- TOP 8.4.2.: MVG-Leistungsprogramm 2019
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 9.1.2.: Aufwertung der Grünfläche an der Thalhoferstraße - Workshop am 21.07.2018
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
+- TOP 9.2.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Georg-von-Mayr-Straße 7 - Abbruch
+- TOP 9.2.3.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 9.2.4.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 9.2.5.: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV: a) Moosacher Str. 36-36b - Genehmigung der Baumfällung mit der Auflage: Ersatzpflanzung b) Gundelkoferstr. 2 - Genehmigung der Baumfällung c) Konstanzer Str. 49 - Genehmigung der Baumfällung mit der Auflage: Ersatzpflanzung
+- TOP 9.2.6.: Eckdatenbeschluss: Neue multifunktionale Sportarena im Olympiapark - Toni-Merkens-Weg 4, Landshuter Allee (östlich), Nymphenburg-Biedersteiner-Kanal (nördlich), Ernst-Curtius-Weg (westlich) und Sapporobogen (südlich)
+- TOP 9.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.8.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 9.2.9.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/52 Heidemannstraße (südlich), Maria-Probst-Straße (westlich), Helene-Wessel-Bogen (nördlich), Spitzer-, Kollwitz- und Paracelsusstraße (östlich) - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne -
+- TOP 9.2.10.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 9.2.11.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 9.2.12.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 9.2.13.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 9.2.14.: (U) Lechenauer Straße (westlich) Georg-Brauchle-Ring (nördlich) Brundageplatz (östlich) Helene-Mayer-Ring (südlich) - ehemaliger Busbahnhof Olympiazentrum - A) Eckdatenbeschluss und Erweiterung des Grundsatzbeschlusses vom 06.07.2016 mit vertiefender Untersuchung B) Weiteres Vorgehen C) Aufgreifen der Planungen zur Neugestaltung des Busbahnhofs Olympiazentrum BA-Antrag Nr. 14-20 / B 04579 des Bezirksausschusses des Stadtbezirks 11- Milbertshofen-Am Hart vom 21.02.2018
+- TOP 9.2.15.: (U) 1. Bebauungsplan mit Grünordnung Nr. 1989 Heidemannstraße (südlich), Maria-Probst-Straße (westlich), Helene-Wessel-Bogen (nördlich), Spitzer-, Kollwitz- und Paracelsusstraße (östlich) - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne - (Teilaufhebung des Bebauungsplanes Nr. 1505a und Aufhebung von über- geleiteten Bebauungsplänen gemäß § 173 Abs. 3 BBauG sowie Teilverdrängung der Bebauungspläne Nr. 977, 1451 und 1505a) ...
+- TOP 9.2.16.: Meldelisten Bauvorhaben/Nutzungsänderungen vom 21.05.2018 - 17.06.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Unterrichtungen über die Veranstaltungen "Feuerwerk": a) Olympiastadion am 05.07.2018 b) Olympiapark am 07.07.2018
+- TOP 9.3.2.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für das Angererfest, Frauenmantelanger / Hildegard-von-Bingen-Anger am 30.06.2018
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO - absolutes Haltverbot: a) Schmalkaldener Str. 16-18 und 24-26 b) Wallensteinplatz c) Nietzsche-/Schopenhauer-/Korbinianstraße
