@@ -1,0 +1,58 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-07-11T17:00:00+02:00
+- Ende: 2018-07-11T19:05:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14635
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14635
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321313.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321313.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321313.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Vorstellung Klimaanpassungskonzept - zur Kenntnis genommen
+- TOP 4: Südlich An der Piwipp - Unterrather Hallenbad Workshopverfahren - einstimmig beschlossen
+- TOP 5: Anfrage Daxenberger: Verlegung Unterrather Schwimmbad - beantwortet
+- TOP 6: Auflösung der öffentlichen Einrichtung Großmarkt - zur Kenntnis genommen
+- TOP 7: Auflösung der öffentlichen Einrichtung "Radschlägermarkt" - zur Kenntnis genommen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Umwidmung Kinderspielplatz Fritz-von-Wille-Straße - vertagt
+- TOP 13: Heinrichstraße - Neubau einer barrierefreien Metrobus-Haltestelle - zur Kenntnis genommen
+- TOP 14: Anfrage Kals und Schentek (CDU): Sachstand Erschließung Oberhausener Straße - schriftlich beantwortet
+- TOP 15: Anfrage CDU: Situation Mühlenbroich - Schausteller - schriftlich beantwortet
+- TOP 16: Anfrage SPD: Fernwärmeleitung durch den Stadtbezirk 6 - vertagt
+- TOP 17: Anfrage CDU: Kleidercontainerleerung in Mörsenbroich - vertagt
+- TOP 18: Anfrage FDP und CDU: Sanierung Fahrbahn Kieshecker Weg - schriftlich beantwortet
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Anfrage SPD: Ahrensplatz - vertagt
+- TOP 21: Anfrage der CDU-Fraktion: Hubschrauber-Übungsflüge über Rath - schriftlich beantwortet
+- TOP 22: Anfrage SPD: Sicherheit Fahrradfahrende An der Piwipp 86 - vertagt
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Antrag SPD: Information Schienenersatzverkehr Haltstellen An der Piwipp und Elsässer Straße - einstimmig beschlossen
+- TOP 25: Interfraktioneller Antrag: Vorgehen gegen Mercedesparker in Unterrather Wohngebieten - einstimmig beschlossen
+- TOP 26: Zuschussvergabe 2018 - vertagt
+- TOP 27: Zuschussvergabe 2018 - vertagt
+- TOP 28: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 30: Verfügungsmittel 2018 - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2018 - mehrheitlich beschlossen
+- TOP 32: MdV - Ausgleichsfläche Mühlenbroich - zur Kenntnis genommen
+- TOP 33: MdV - Kunst an Schulen - zur Kenntnis genommen
+- TOP 34: MdV - Toilettensanierung der St. Franziskus Grundschule Herchenbachstraße - zur Kenntnis genommen
+- TOP 35: MdV - Sanierung des Gehweg Vogelsanger Weg - zur Kenntnis genommen
+- TOP 36: MdV - Stickoxide im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 37: MdV - Ratinger Weststrecke - Nachfrage - zur Kenntnis genommen
+- TOP 38: MdV - Intergrationsstellenbedarf im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 39: MdV - Zebrastreifen An der Piwipp - zur Kenntnis genommen
+- TOP 40: MdV - Sanierung Radweg Düsseldorfer Straße / Reichswaldallee - Vorlage 176/ 52/2018 - zur Kenntnis genommen
+- TOP 41: MdV - Nutzung Parkplatz Lichtenbroicher Weg über Regenrückhaltebecken - Vorlage 176/ 65/2018 - zur Kenntnis genommen
