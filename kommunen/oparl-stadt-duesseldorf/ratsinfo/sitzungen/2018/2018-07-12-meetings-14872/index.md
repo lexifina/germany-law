@@ -1,0 +1,85 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-07-12T14:00:00+02:00
+- Ende: 2018-07-12T17:41:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14872
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14872
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321283.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321283.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00321283.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Grundsicherung im Alter - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Patientenwerbung und Gesundheitswirtschaft - beantwortet
+- TOP 4.3: Anfrage Die Linke: Städtische Kosten Ed Sheeran Konzert - beantwortet
+- TOP 4.4: Anfrage FDP: Nutzung von unbebauten Grundstücken des Bundes zum Wohle der Düsseldorfer Bürgerinnen u - beantwortet
+- TOP 4.4.1: Anfrage der CDU-Ratsfraktion: Verletzte OSD-Mitarbeiterin soll Strafanzeige zurücknehmen - beantwortet
+- TOP 4.5: Anfrage des Ratsherrn Maniera: Ambulanz für Pädophilie in Düsseldorf - schriftlich beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Maniera: Ausreisepflichtige Asylbewerber - schriftlich beantwortet
+- TOP 4.7: Anfrage des Ratsherrn Grenda: Schul-DienstPC´s, DSGVO und private Rechnernutzung - schriftlich beantwortet
+- TOP 4.8: Anfrage CDU: Was passiert mit den 60 ausgepflanzten Bäumen vom Messeparkplatz P1 - schriftlich beantwortet
+- TOP 4.9: Anfrage Bü90-Grü: Wird es bald eine attraktive Veloroute zwischen Wuppertal und Düsseldorf geben? - schriftlich beantwortet
+- TOP 4.10: Anfrage Bü90-Grü: Beteiligung bei Planung und Erstellungen von Velorouten für Pendler*innen - schriftlich beantwortet
+- TOP 4.11: Anfrage Rf Krüger - 60 Bäume auf dem Messeparkplatz / Kommunikation über die Medien - schriftlich beantwortet
+- TOP 4.12: Anfrage des Rh Dr. Wlecke: Aktuelle Finanzlage der Landeshauptstadt Düsseldorf zum 30.06.2018 - schriftlich beantwortet
+- TOP 4.13: Anfrage des Rh Dr. Wlecke: Forderungen, Wertberichtigungen, Abschreibungen und Ausbuchungen - schriftlich beantwortet
+- TOP 4.14: Anfrage der Rf El Fassi: Tierquälerei und Tiertötungen zum Wohle der Kunst - schriftlich beantwortet
+- TOP 4.15: Anfrage der Rf El Fassi: aktueller Sachstand zur Verordnung zum Schutz freilebender Katzen - schriftlich beantwortet
+- TOP 4.16: Anfrage des Ratsherrn Wolf: Abmähen liebevoll bepflanzter Baumscheiben - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 7: Entwürfe der Gesamtabschlüsse 2013 - 2015 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 8: Betrauung einer städtischen Beteiligungsgesellschaft mit gemeinwirtschaftlichen Aufgaben - mehrheitlich beschlossen
+- TOP 9: Jahresabschluss 2017 der Stadtsparkasse Düsseldorf - mehrheitlich beschlossen
+- TOP 10: Neubau eines 4-zügigen Gymnasiums mit Sporthalle - einstimmig beschlossen
+- TOP 11: Karl-Müller-Straße 25 – Brehmschule – Errichtung von zwei Klassenersatzcontainern und Neubau einer M - einstimmig beschlossen
+- TOP 12: Annette-von-Droste-Hülshoff-Gymnasium, Bau einer Dreifachsporthalle - einstimmig beschlossen
+- TOP 13: Abriss und Neubau der Gemeinschaftshauptschule Benrath und Errichtung einer 2-Feld-Sporthalle - einstimmig beschlossen
+- TOP 14: Ausführungs- und Finanzierungsbeschluss B 7, Anschlussstelle Heerdter Lohweg - mehrheitlich beschlossen
+- TOP 15: Erweiterung der Kita Sulzbachstraße - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 16: Eisenbahnüberführung (EÜ) Bamberger Straße, Tieferlegung der Straße - mehrheitlich beschlossen
+- TOP 17: Ertüchtigungen der Ofenlinien 1-3 einschließlich der Erneuerung des Glykolkreislaufes für di - einstimmig beschlossen
+- TOP 18: Auflösung der öffentlichen Einrichtung Großmarkt - mehrheitlich beschlossen
+- TOP 19: Auflösung der öffentlichen Einrichtung "Radschlägermarkt" - mehrheitlich beschlossen
+- TOP 20: Schließung der Methadon- und Drogenambulanz bei Beibehaltung von 5,0 Stellen der psychosozialen Betr - mehrheitlich beschlossen
+- TOP 21: Verleihung der Förderpreise bildende Kunst, darstellende Kunst, Musik und Literatur - einstimmig beschlossen
+- TOP 22: Freigabe verkaufsoffener Sonntagnachmittage im 2. Halbjahr 2018 - abweichend beschlossen
+- TOP 23: Bericht zur Methode im Umgang mit Gasbeleuchtung im Gesamtkontext „Masterplan Energieeffiziente un - zur Kenntnis genommen
+- TOP 24: Abschluss einer öffentlich-rechtlichen Vereinbarung zur Durchführung von Aufgaben zur Vergabe öffent - einstimmig beschlossen
+- TOP 25: Änderung der Geschäftsordnung des Rates der Landeshauptstadt Düsseldorf - zurückgezogen
+- TOP 26: Änderung der Zuständigkeitsordnung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 27: Neufassung der Geschäftsordnung der Düsseldorfer Gesundheitskonferenz - einstimmig beschlossen
+- TOP 28: Elektronische Gesundheitskarte - Sachstandsbericht - zur Kenntnis genommen
+- TOP 29: Aufsichtsrat der IPM Immobilien Projekt Management Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 30: Aufsichtrat der Tonhalle gGmbH - Neuwahl - einstimmig beschlossen
+- TOP 31: Aufsichtsrat der D.LIVE GmbH & Co. KG - Neuwahl - zurückgezogen
+- TOP 32: Sportbeirat der D.LIVE GmbH & Co. KG - Neuwahl - zurückgezogen
+- TOP 33: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 34: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 35: Vorstand des Bergisch-Rheinischen Wasserverbandes - einstimmig beschlossen
+- TOP 36: Wiederwahl eines Schiedsmannes für den Bezirk 15 - einstimmig beschlossen
+- TOP 37: Änderung des Landesentwicklungsplans (LEP NRW) - Beteiligungsverfahren - einstimmig beschlossen
+- TOP 38: Zukunftskonzept „RegioNetzWerk“ - Beschluss - - einstimmig beschlossen
+- TOP 39: Veränderungssperre 06/019 Theodorstraße - zwischen A 52 und Wahlerstraße - mehrheitlich beschlossen
+- TOP 40: Portofreie Wahlunterlagen - einstimmig beschlossen
+- TOP 41: Änderung der Satzung des Seniorenrates - einstimmig beschlossen
+- TOP 42: Anträge
+- TOP 42.1: Antrag der Ratsfraktion DIE LINKE: Düsselpass für Seniorinnen und Senioren - abweichend beschlossen
+- TOP 42.2: Antrag Tierschutz FREIE WÄHLER: Rechnungsprüfungsausschuss tagt auch öffentlich - mehrheitlich abgelehnt
+- TOP 42.3: Antrag Tierschutz FREIE WÄHLER: finanzielle Mindestausstattung - mehrheitlich abgelehnt
+- TOP 42.4: Antrag Tierschutz FREIE WÄHLER: Prüfung einer Open Air Veranstaltungsfläche - mehrheitlich abgelehnt
+- TOP 42.5: Antrag CDU: Schutz- und Handlungskonzept „Übergriffe auf städtische Mitarbeiterinnen und Mitarbeiter - zurückgezogen
+- TOP 42.6: Antrag CDU: Ed Sheeran – Bilanz eines nicht stattgefundenen Konzerts - zurückgezogen
+- TOP 42.7: Antrag CDU: Veröffentlichung von Informationen zu Spielplatzstandorten - mehrheitlich abgelehnt
+- TOP 43: Bestimmungen über die Verleihung des Gleichstellungspreises der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 44: Rennbahnstraße 60, Waldschule im Wildpark - Neubau -, Änderungsbeschluss - einstimmig beschlossen
