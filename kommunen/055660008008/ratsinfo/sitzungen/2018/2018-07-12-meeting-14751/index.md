@@ -1,0 +1,52 @@
+# Rat (114. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2018-07-12T18:02:00+02:00
+- Ende: 2018-07-12T19:42:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQy24f1U_1Nqh4EsGOcDEp0
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14751
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZblhnRdaQKuwO7T-wPLwOODD6JEO33rLzl7TkxOH4XHT/Bekanntmachung_Rat_12.07.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfnZQx1Qec-cvY9qd56n7MIqjz5UIeHyZaTgnqZueogI/Oeffentliche_Niederschrift_Rat_12.07.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 17.05.2018
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Zielbildungsverfahren in politischen Ausschüssen
+- TOP 4.1: Neuausrichtung und Anpassung der Strategischen Schwerpunkte - Einstimmig
+- TOP 5.: Verwaltungsorganisation
+- TOP 5.1: Organisation des städtischen Archivs - Zur Kenntnis genommen
+- TOP 6.: Verlagerung des Baubetriebshofes - Einstimmig
+- TOP 7.: Stadtwerke Emsdetten GmbH
+- TOP 7.1: Stadtwerke Emsdetten GmbH: Jahresabschluss 2017 und Gewinnverwendung - Einstimmig
+- TOP 8.: Betriebsabrechnung Abfallwirtschaft 2017 - Zur Kenntnis genommen
+- TOP 9.: Betriebsabrechnung Straßenreinigung und Winterdienst 2017 - Zur Kenntnis genommen
+- TOP 10.: Antrag der Fraktion DIE GRÜNEN "E-Mobilität fördern - kostenloses Parken ermöglichen!" - Einstimmig
+- TOP 11.: Durchführung eines Bürgerentscheides zur Untersagung von Silvesterfeuerwerk am 31.12./01.01. im Stadtgebiet hier: Antrag der Fraktion DIE LINKE vom 06.04.2018 - 38 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 12.: Machbarkeitsstudie zur ärztlichen Notfallversorgung hier: Sachstand zur Vorlage eines Konzeptes zur Datenerhebung - 38 Ja-Stimme(n), 0 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 13.: Flächennutzungsplan
+- TOP 13.1: Flächennutzungsplan der Stadt Emsdetten 15. Änderung im Bereich des Bebauungsplanes Nr. 8 K "Rheiner Straße / Emsstraße" - Feststellungsbeschluss - - 25 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Bebauungspläne
+- TOP 14.1: Bebauungsplan Nr. 8 K "Rheiner Straße / Emsstraße" - Beschluss zur öffentlichen Auslegung - - 26 Ja-Stimme(n), 15 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 15.: Planung von Hochbauvorhaben
+- TOP 15.1: Aktueller Status des Projektes "Neubau einer P&R-Anlage" (Kostenrahmen, Zeitplan) - 33 Ja-Stimme(n), 3 Gegenstimme(n), 5 Enthaltung(en)
+- TOP 15.2: Neubau einer Sporthalle an der Käthe-Kollwitz-Realschule Vorstellung des Raumprogramms - Einstimmig
+- TOP 16.: Planung von Tiefbauvorhaben
+- TOP 16.1: Stichweg Spatzenweg Vorstellung der Ausbauplanung - Einstimmig
+- TOP 17.: Wegeverbindung Lönsstraße / An den Bleichen Entscheidung über Neubau einer Brücke - 34 Ja-Stimme(n), 6 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.: Schulangelegenheiten
+- TOP 18.1: Begrenzung der im Schuljahr 2019/2020 an der Schule Hollingen in die Eingangsklassen aufzunehmenden Schülerinnen und Schüler - Einstimmig
+- TOP 19.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 19.1: Vergabe einer Trägerschaft für eine Kindertageseinrichtung in Emsdetten - Einstimmig
+- TOP 19.2: Veränderung und Umgestaltung der inhaltlichen Ausgestaltung der Richtlinien zur Förderung der Kinder- und Jugendarbeit - Einstimmig
+- TOP 20.: Allgemeine Umweltangelegenheiten
+- TOP 20.1: Antrag der FDP-Fraktion auf Entwicklung eines Mehrweg-Trinkbechersystems für Emsdetten - Einstimmig
+- TOP 20.2: Einsatzverbot von glyphosathaltigen Herbiziden auf städtischen Grundstücken Antrag der Fraktion DIE GRÜNEN - 26 Ja-Stimme(n), 13 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 20.3: Nutzungspotenziale alternativer Antriebsarten für den Fuhrpark der Stadt Emsdetten - Einstimmig
+- TOP 21.: Verschiedenes
