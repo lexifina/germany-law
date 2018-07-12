@@ -1,0 +1,55 @@
+# Gemeinderat (39. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2018-07-12T18:08:00+02:00
+- Ende: 2018-07-12T22:15:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeHKoFuf3ZbnR1ajbGgv824
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1654
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVost-Encck1Hv1Hfjb3U0EKhVlRylPZfIrn3HsCBzte/Bekanntmachung_Gemeinderat_12.07.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWVoS1kMfuTE9dt6u6vOTP6l_AaZTs6ANKCb2P2l-ytW/Oeffentliche_Niederschrift_Gemeinderat_12.07.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.05.2018 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 3.1: Prüfung und Feststellung des Jahresabschlusses 2017 - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Entlastung des Bürgermeisters für das Haushaltsjahr 2017 - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1: Bebauungsplan 71 S - Schleidener Straße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: 2. Änderung des Bebauungsplans 18 S - Im Lohfeld - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Aufstellung des Bebauungsplans 74 S - Am Wittstock - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 74 S - Am Wittstock - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Aufstellung des Bebauungsplans 75 S - Pützgracht - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 75 S - Pützgracht - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 5.5: Aufstellung des Bebauungsplans 76 D - Im Dorf - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 76 D - Im Dorf - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Entwicklung des Schulstandortes Aldenhoven hier: Angebotseinholung von Schulbauberatungsteams - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Anträge von Fraktionen
+- TOP 7.1: Antrag der FWG-Fraktion zur Kindergartenplanung -überörtliche Situation im Kreis Düren- - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Tourismusorganisation im indeland - 24 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 9.: Haushaltsmittel für Gebäudereinigung - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Sachstandsberichte der Verwaltung
+- TOP 10.1: Sachstandsbericht des Ombudsmanns "Gegen Rechts"
+- TOP 10.2: Ausführung des Haushalts
+- TOP 10.3: Vorstellung des Verwaltungsberichtes 2017
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 17.05.2018 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Veräußerung einer landwirtschaftlichen Fläche durch die Freizeitzentrum Blaustein-See GmbH an die Stadt Eschweiler - Einstimmig, 3 Enthaltung(en)
+- TOP 2.2: Neubestellung eines Prokuristen für die Freizeitzentrum Blaustein-See GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 2.3: Kündigung Reinigungsleistungen WOGA Beteiligungs GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 2.4: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Verkauf einer Teilfläche einer gemeindeeigenen Parzelle - 21 Ja-Stimme(n), 4 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Beamtenverhältnis hier: Verschiebung des Eintritts in den Ruhestand - vertagt
+- TOP 5.: Sachstandsberichte der Verwaltung
+- TOP 5.1: Sachstandbericht zur Personalentwicklung
+- TOP 5.2: Interkommunale Zusammenarbeit
+- TOP 6.: Verschiedenes
