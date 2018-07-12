@@ -1,0 +1,112 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-07-12T18:08:00+02:00
+- Ende: 2018-07-12T19:49:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1970
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1970
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anlage 1 zur Niederschrift, Beantwortung zu Top 6 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00087708.pdf
+- Ergebnisprotokoll: Anlage 1 zur Niederschrift, Beantwortung zu Top 6 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00087708.pdf
+- Wortprotokoll: Anlage 1 zur Niederschrift, Beantwortung zu Top 6 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00087708.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.2: SPD
+- TOP 2.2.1: Sportstätten-Bereisung (Antrag Nr. 138/18) - einstimmig
+- TOP 2.2.2: Sportgutscheine (Antrag Nr. 139/18) - einstimmig
+- TOP 2.2.3: Ausschussumbesetzungen (Antrag Nr. 129/18) - einstimmig
+- TOP 2.3: UWG
+- TOP 2.3.1: Verkehrssituation Neuenhausen (Antrag Nr. 126/18) - einstimmig
+- TOP 2.3.2: Verlegung Weihnachtsmarkt auf Schlossstr. und Schlossplatz (Antrag Nr. 128/18) - einstimmig
+- TOP 2.3.3: Gebührensatzung zur Entwässerungssatzung (Antrag Nr. 127/18) - einstimmig
+- TOP 2.3.4: Einführung einer Mautpflicht für Lkw auf der L116 (Antrag Nr. 113/18) - einstimmig
+- TOP 2.4: FDP
+- TOP 2.4.1: Digitaler Dornröschenschlaf in Grevenbroich (Antrag Nr. 137/18) - einstimmig
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.5.1: Festlegung von LKW-Vorrangrouten (Antrag Nr. 124/18) - einstimmig
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.6.1: Prüfauftrag Ausweisung Sanierungsgebiet u. Erlass Sanierungssatzung (Antrag Nr. 130/18) - einstimmig
+- TOP 2.6.2: Aufhebung Tempo 30 im Bereich der Rheydter Straße (Antrag Nr. 131/18) - einstimmig
+- TOP 2.6.3: Ausschussumbesetzung (Antrag Nr. 134/18) - einstimmig
+- TOP 2.7: Die Linke- Freie Bürger
+- TOP 2.8: Gemeinschaftsanträge
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Sachstand bei der Einführung/ Umgestaltung Abitur G8 auf G9 (Anfrage Nr. 96/18) - Kenntnisnahme
+- TOP 3.3.2: Steuersatzberechnung beim Legen eines Hauswasseranschlusses (Anfrage Nr. 114/18) - Kenntnisnahme
+- TOP 3.3.3: Abriss der Feuerwache Lilienthalstr. (Anfrage Nr. 115/18) - Kenntnisnahme
+- TOP 3.3.4: Wie wird Betreuung der Kinderin Kitas sichergestellt, während den Personalversammlungen(AnfrageNr125 - Kenntnisnahme
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.5.1: Anfrage zu LKW-Durchfahrten (Anfrage Nr. 136/18) - Kenntnisnahme
+- TOP 3.5.2: Pflegeplan bei Neuanpflanzungen (Anfrage Nr. 132/18) - Kenntnisnahme
+- TOP 3.5.3: Platz gegenüber dem Montanushof (Anfrage Nr.133/18) - Kenntnisnahme
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke - Freie Bürger
+- TOP 3.7.1: Entwicklung KITA-Plätze (Anfrage Nr. 135/18) - Kenntnisnahme
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Bekanntgabe der über- und außerplanmäßigen Mittelbereitstellungen 2018 - Kenntnisnahme
+- TOP 7: Offene Anträge und Anfragen aus dem 1. Halbjahr 2018 - Kenntnisnahme
+- TOP 8: Abberufung von beratenden Mitgliedern - einstimmig
+- TOP 9: Flüchtlings- und Integrationsangelegenheiten
+- TOP 10: Finanzierung der Schuldner- und Insolvenzberatung - einstimmig
+- TOP 11: Finanzierung der Kontakt- und Beratungsstelle - einstimmig
+- TOP 12: Entscheidung über einen Beratungspunkt aus der Sitzung des Kulturausschussses vom 29.05.2018
+- TOP 12.1: Zusammenführung FB 41 und 43 und Abgabe Archiv - einstimmig
+- TOP 13: Entscheidung über Beratungspunkte aus der Sitzung des Planungsausschusses vom 29.05.2018
+- TOP 13.1: 25. FNP Änd. Aufst.beschl. - einstimmig
+- TOP 13.2: 1. Änd. K 32 Aufst.beschl.+ frühz. Bürgerbeteil. - einstimmig
+- TOP 13.3: Straßenbenennung B-plan N 40 - mehrheitlich bei
+- TOP 13.4: Beschluss Fortschreibung EHSK - Kenntnisnahme
+- TOP 14: Entscheidung über Beratungspunkte aus der Sitzung des Schulausschusses vom 12.06.2018
+- TOP 14.1: Antrag BezReg - Umzug Käthe Kollwitz - einstimmig
+- TOP 14.2: SEP Sek I - einstimmig
+- TOP 15: Entscheidung über Beratungspunkte aus der Sitzung des Jugendhilfeausschusses vom 12.06.2018
+- TOP 15.1: Satzungsänderung KiTa und KTP - einstimmig
+- TOP 15.2: Neue Kita in Wevelinghoven (Antrag Nr. 30/18) - einstimmig
+- TOP 15.3: Außengelände Sonnenland - einstimmig
+- TOP 16: Entscheidung über Beratungspunkte aus der Sitzung des Sport- und Bäderausschusses vom 19.06.2018
+- TOP 16.1: Neukonzeptionierung einer Sportanlage in Frimmersdorf/Neurath - Kenntnisnahme
+- TOP 16.2: Anträge auf Errichtung von Kunstrasenspielfeldern - Kenntnisnahme
+- TOP 17: Beantwortung Anträge und Anfragen
+- TOP 17.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 17.2: Arbeitsverträge (Anfrage Nr. 43/18) - Kenntnisnahme
+- TOP 17.3: Wohnungsbaugesellschaft (Anfrage Nr. 44/18) - Kenntnisnahme
+- TOP 17.4: Schrottimmobilien (Anfrage Nr. 61/18) - Kenntnisnahme
+- TOP 17.5: Innenstadtmanagement (Antrag Nr. 71/18) - Kenntnisnahme
+- TOP 17.6: Wlan am Pascal-Gymnasium (Anfrage Nr. 86/18) - Kenntnisnahme
+- TOP 17.7: Entwicklung KITA und KIGA (Anfrage Nr. 84/18) - Kenntnisnahme
+- TOP 17.8: Bekanntgabe von über- und außerplanmäßigen Mittelbereitstellungen im Jahr 2017 - Kenntnisnahme
+- TOP 18: mündliche Anträge/Anfragen
+- TOP 18.1: Baustelle Parkplatz Ostwall (Anfrage Nr. 141/2018)
+- TOP 18.2: Ladesäule für Elektrofahrzeuge (Anfrage Nr. 142/2018)
+- TOP 18.3: Pflaster Marktplatz Wevelinghoven (Anfrage Nr. 143/2018)
+- TOP 18.4: Ersatzbepflanzung (Anfrage Nr. 144/2018)
+- TOP 18.5: Friedhof Wevelinghoven (Anfrage Nr. 145/2018)
+- TOP 18.6: Säuleneiche am Kreisverkehr "An der Eiche" (Anfrage Nr. 146/2018)
+- TOP 18.7: Brückengeländer "Am Wehr/An der Untermühle" (Anfrage Nr. 147/2018)
+- TOP 18.8: Stadtpark Wevelinghoven (Anfrage Nr. 148/2018)
+- TOP 18.9: Erteilung von Bußgeldern (Anfrage Nr. 149/2018)
+- TOP 18.10: Bußgelder in der Fußgängerzone Oelgasse/Steinweg (Anfrage Nr. 150/2018)
+- TOP 18.11: Bürgerantrag (Anfrage Nr. 151/2018)
+- TOP 18.12: Kreiskrankenhaus Grevenbroich (Anfrage Nr. 152/2018)
+- TOP 18.13: Tribünenweg (Anfrage Nr. 153/2018)
+- TOP 18.14: Rückstau Elsbach-Tunnel (Anfrage Nr. 154/2018)
+- TOP 18.15: Neugestaltung Bahnstraße (Anfrage Nr. 155/2018)
+- TOP 18.16: Resolution L361 n (Anfrage Nr. 156/2018)
+- TOP 18.17: Starkregenereignis 2016 (Anfrage Nr. 157/2018)
+- TOP 18.18: Aufstellung von Müllgefäßen (Anfrage Nr. 158/2018)
+- TOP 18.19: LED-Umrüstung und Photovoltaik zum Eigenverbrauch (Antrag Nr. 268/2017)
+- TOP 18.20: Parkautomat auf dem Parkplatz am Ostwall (Anfrage Nr. 159/2018)
+- TOP 18.21: Parknischen auf der Deutsch-Ritter-Allee (Anfrage Nr. 160/2018)
+- TOP 19: Mitteilungen BM
