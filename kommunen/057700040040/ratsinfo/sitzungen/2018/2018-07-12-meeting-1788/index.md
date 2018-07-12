@@ -1,0 +1,53 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2018-07-12T17:00:00+02:00
+- Ende: 2018-07-12T19:10:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfnKQej3lDu-G1TisvA6vNM
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1788
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRE50q3UwUM8U7Hu7aEH7B_h6ZsfjCaa7DSBkrse72y0/Bekanntmachung_Rat_12.07.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaDeEUF1zYRGUe6u6qisgZKX6SrlfaWh9MKJQdSiWmf3/Oeffentliche_Niederschrift_Rat_12.07.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Verabschiedung eines Ratsmitgliedes
+- TOP 3.: Einführung eines neuen Ratsmitgliedes durch den Bürgermeister
+- TOP 4.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 5.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 6.: Wahl eines Ortsvorstehers für die Ortschaft Rahden - 14 Stimmen dafür, 10 dagegen, 8 Enthaltungen
+- TOP 7.: Ersatzwahlen zu Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 8.: Bestimmung eines stellvertretenden Ausschussvorsitzenden für den Bau-, Planungs- und Umweltausschuss - Einstimmig, 0 Enthaltungen
+- TOP 9.: Ersatzwahl zur Verbandsversammlung des Zweckverbandes Volkshochschule Lübbecker Land - 31 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 10.: Bestellung einer Ortsheimatpflegerin für die Ortschaft Varl - 29 Stimmen dafür, 2 dagegen, 1 Enthaltungen
+- TOP 11.: Quartalsbericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlun-gen im II. Quartal 2018
+- TOP 12.: Wirtschaftswegekonzept für die Stadt Rahden - 29 Stimmen dafür, 2 dagegen, 1 Enthaltungen
+- TOP 13.: Aufstellung des Bebauungsplanes Nr. 93 "Kleinendorf - Holunderweg" sowie 82. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 93 "Kleinendorf - Holunderweg" sowie des Änderungsplanes für die 82. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 14.: Verfahren zur Änderung des Landesentwicklungsplanes Nordrhein-Westfalen (LEP NRW); hier: Bewertung des Entwurfs und Stellungnahme der Stadt Rahden - 29 Stimmen dafür, 2 dagegen, 1 Enthaltungen
+- TOP 15.: Aufstellung eines Integrierten Kommunalen Entwicklungskonzeptes (IKEK) für das Gebiet der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Einführung der Ehrenamtskarte NRW - Einstimmig, 0 Enthaltungen
+- TOP 17.: Ansprechpartner/innen für Seniorinnen und Senioren in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bekanntgaben
+- TOP 18.1: Ehrenamtspreis
+- TOP 18.2: Sitzungskalender
+- TOP 19.: Verschiedenes
+- TOP 19.1: Werbetafeln im Stadtgebiet Rahden
+- TOP 19.2: Aufstellen eines Bücherschranks
+- TOP 19.3: Defibrilatoren im Stadtgebiet Rahden
+- TOP 19.4: Standorte Ortseingangssschilder
+- TOP 19.5: Tourismus - Potentialanalyse
+- TOP 19.6: Umbau / Erweiterung Sekundarschule
+- TOP 19.7: Strukturierungsprozess Mühlenkreiskliniken
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 20.: Genehmigung des Beschlusses des Verwaltungsrates der Stadtsparkasse Rahden über die Wiederbestellung des Vorstandsvorsitzenden zum 1. Juni 2018 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Grundstücksangelegenheiten
+- TOP 21.1: Grundstücksangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 21.2: Erwerb einer landwirtschaftlichen Tauschfläche - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bestellung eines Betriebsleiters für die Eigenbetriebe '"Wasserwerk der Stadt Rahden und städtische Bäder" sowie "Abwasserentsorgung Stadt Rahden" - Einstimmig, 0 Enthaltungen
+- TOP 23.: Bekanntgaben
+- TOP 24.: Verschiedenes
