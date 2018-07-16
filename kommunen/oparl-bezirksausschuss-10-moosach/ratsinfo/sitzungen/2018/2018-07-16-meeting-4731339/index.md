@@ -1,0 +1,90 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-07-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731339
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731339
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.2.: 3. Info-Veranstaltung am 18.09.2918: Aufbau eines öffentlichen Ladesystems für E-Fahrzeuge
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Asphaltierung Kreuzung Fußgängerbrücke Rangierbahnhof / Verlängerung Donaustauferstraße und Fuß-Radweg Rangierbahnhof
+- TOP 2.2.: Buslinie 163: Aufstellen einer Sitzbank an der Haltestelle "Pelkovenstraße" (vor dem "Alten Wirt")
+- TOP 2.3.: Parkmöglichkeiten für Kunden der Einzelhandelsfilialen im Anwesen Feldmochinger Str. 4
+- TOP 2.4.: Wertstoffcontainer Ecke Hugo-Troendel-Straße / Wintrichring
+- TOP 3.2.1.: Überprüfung der Sicherheit für Fußgänger und Radfahrer an der nördlichen stadteinwärts gelegenen Verkehrsinsel Dachauer Straße / Hanauer Straße (ÖDP-Antrag vom 05.04.2018 und Bericht über Ortstermin am 20.06.2018)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Pelkovenstr. 66 2. Siegmund-Schacky-Str. 15 3. Triebstr. 44
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Leipziger Str. 71 2. Siegmund-Schacky-Str. 15 (-> BV siehe TOP 3.3.1.3) 3. Ernst-Platz-Str. 35a 4. Triebstr. 44 (-> BV siehe TOP 3.3.1.4) 5. Bärlauchweg 17 6. Moosanger
+- TOP 3.3.3.: Aufstellen von Betonpflanzkübeln am Moosacher Stachus (-> vertagt aus Sitzung am 11.06.18)
+- TOP 3.3.4.: Anliegerinformation: Ludwigsfelder Straße; Straßenbaumaßnahmen vom 16.07. 18 bis Ende 2019
+- TOP 3.4.1.: Antwortschreiben RL RBS: Keine Auslagerung der Kita Löfftzstr. 6
+- TOP 3.4.3.: Reinigung Bunzlauer Platz und Memminger Platz [Es wurde Sondervereinbarung getroffen: Turnuserhöhung Leerung Abfallkörbe und maschinelle Reinigung]
+- TOP 3.4.4.: Schaffung einer Anfahrts- und Ausstiegsmöglichkeit für Menschen mit Beeinträchtigungen im Bereich des Memminger Platzes (U- und S-Bahnstation Moosacher Bahnhof) [Schreiben BA10 vom 09.05.18; vorhandene 3 Behindertenstellplätze in der P+R-Tiefgarage Moosach sind selten ausgelastet; kurzzeitiger Ausstieg während Karenzzeitregelung 20 min kostenfrei möglich]
+- TOP 3.4.5.: Durchführung Realisierungswettbewerb für den Neubau einer Sportarena; hier: Benennung eines Sachverständigen aus dem BA 10
+- TOP 4.: Anträge
+- TOP 4.1.1.: Kultur und Bürgerhaus Moosach, Pelkovenschlössl, zum WLAN-Hotspot ausbauen
+- TOP 4.2.1.: Schulwegsicherheit vor dem Schulzentrum an der Gerastraße sicherstellen
+- TOP 4.2.2.: Behelfsbushaltestelle Moosacher St.-Martins-Platz / Pelkovenstraße Nord verkehrssicher machen
+- TOP 4.3.1.: Fahrradmobilität unterstützen: Aufstellung einer öffentlich zugänglichen Fahrradpumpstation im Bereich Westfriedhof
+- TOP 4.3.2.: Fahrradmobilität unterstützen: Aufstellen von Fahrradständern an der Trambahnhaltestelle "Hugo-Troendle-Straße"
+- TOP 4.3.3.: Einrichten eines "Kiss and Ride" Parkplatzes in der Bunzlauer Straße (gegenüber des Aufzuges zur U-Bahn)
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube „komm“-Streetwork am 10.08.2018 172,00 € AZ: 0262.0-10-0160
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt "Play Me, I&#039;m Yours" im Herbst 2018 3.000,00 Euro Az.: 0262.0-10-0159
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule Amphionpark Anstellung eines Jugendlichen als FSJler für das Schuljahr 2018/2019 3.000,00 Euro Az.: 0262.0-10-0162
+- TOP 5.4.: (E) Budget der Bezirksausschüsse Freiwillige Feuerwehr Moosach e.V. Ferien-Programm der Jugendfeuerwehr vom 28.07. bis 05.08.2018 341,53 € AZ: 0262.0-10-0163
+- TOP 5.5.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Einziehung einer Teilstrecke der Emmy-Noether-Straße
+- TOP 5.6.: (E) Budget der Bezirksausschüsse Initiative "...fra le mura" Aufführung mit mittelalterlicher Musik vom 27. - 29.07.2018 800,00 € 0262.0-10-0161
+- TOP 6.1.: Situierung der geplanten Kita im Neubauprojekt der GWG Gubestr. 27-37; Bürgerversammlungsempfehlung Nr. 14-20/ E 01760 vom 19.10.2017 hier: abweichender Beschluss des BA 10 vom 19.03.2018; erbetene Stellungnahme BA 10 vor OB-Entscheidung
+- TOP 6.2.: Sportbauprogramm - Beschlussentwurf
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund: Moosacher St.-Martins-Platz: "öffentliches Stadtpicknick "Green Dinner" am 25.08.2018"
+- TOP 6.4.: Buslinie 51 in Moosach
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Amslerstr. 15 2. Fodermayrstr. 42 3. Wildermuthstr. 69 4. Bauberger Str. 16 5. Rathgeberstr. 34 6. Abensbergstr. 58 7- Gleißmüllerstr. 11
+- TOP 6.6.: Veranstaltung in einer städt. Grünanlage: Triebstraße Skateboardworkshops für Kinder und Jugendliche am 03.08.2018
+- TOP 7.1.: Ausbau der Untermenzinger Straße zwischen Allacher Straße und Memminger Platz [Schreiben BA 10 vom 21.03.2018; Umbau befindet sich in der Entwurfsplanung; Anlage von Radfahrstreifen sind vorgesehen]
+- TOP 7.2.: Verkehrssicherheit für Kinder an der Kita Bauberger Str. 65 [Schreiben BA 10 vom 16.05.2017; Tempo30 vor Kindergärten wird aufgrund Gesetzesänderung für das gesamte Stadtgebiet geprüft: ggf. Anbringung Verkehrsschild Achtungs Kinder"; Zebrastreifen nicht umsetzbar.]
+- TOP 7.3.: Ein großer Veranstaltungsraum für Moosach [BA-Antrag Nr. 14-20 / B 02682vom 25.07.2016; Zwischennachricht: 09/18 soll aktueller Stand der Machbarkeitsstudie der Politik vorgestellt werden. Dann weitere baurechtliche Klärung.]
+- TOP 7.4.: Anfrage zur "Sozialen Stadt" in Moosach [Schreiben BA10 vom 18.04.2018; Moosach ist weiterhin Untersuchungsgebiet. geplante Zeitschiene: innerhalb von 2 Jahren sollen Erarbeitung eines integrierten städtebaulichen Entwicklungskonzept (ISEK) und Bürgerbeteiligung stattgefunden haben.]
+- TOP 7.5.: Freiflächengestaltung auf dem Grundstück Franz-Fihl-Str. 10 (auch südlich des Grundstückes Meißener Str. 11). [Schreiben BA 10 vom 21.03.2018; Vorgang wird in LBK noch aktiv bearbeitet, die Räumung des Grundstückes gestaltet sich schwierig]
+- TOP 7.6.: Gebäude in der Weidmannstraße / Nutzung Wohnen [SPD-Antrag, Schreiben BA10 vom13.12.2017; Verdacht einer ausschließlichen gewerblichen Nutzung kann nicht bestätigt werden; Innenausbau nicht fertiggestellt]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Ausdehnung der Tempo-30-Zone Nr. 243 auf die Triebstraße
+- TOP 8.4.: Eckdatenbeschluss: Neue multifunktionale Sportarena im Olympiapark - Toni-Merkens-Weg 4, Landshuter Allee (östlich), Nymphenburg-Biedersteiner-Kanal (nördlich), Ernst-Curtius-Weg (westlich) und Sapporobogen (südlich)
+- TOP 8.5.: MVG-Leistungsprogramm 2019 - Auszug Beschlussvorlage (Hinweis für BA 10)
+- TOP 8.6.: (U) Ausbau Mittlerer Ring (B2R) Abschnitt Landshuter Allee Neubau Landshuter Allee-Tunnel im 9. Stadtbezirk Neuhausen - Nymphenburg und im 10. Stadtbezirk Moosach 1. Sachstand der Vorplanung 2. Agieren statt reagieren - Infrastruktur vorausschauend planen (Teil I) Landshuter Allee-Tunnel: Wann geht es endlich los? Anfrage Nr. 14-20 / F 01184 von Herrn Stadtrat Johann Altmann, Herrn Stadtrat Dr. Josef Assal, Frau Stadträtin Eva Maria Caim, Herrn Stadtrat Richard Progl und Herrn Stadtrat Mario Schmidbauer vom 24.04.2018
+- TOP 8.7.: Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung hier: Ergänzung vom 25.04.2018 (-> zu SV TOP 8.13 in Sitzung am 11.06.2018)
+- TOP 8.8.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 8.9.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 8.10.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 8.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 8.13.: (U) Bebauungsplan mit Grünordnung Nr. 2087b Georg-Brauchle-Ring (ca. 140 m südlich), Emmy-Noether-Straße (westlich bzw. beidseits), Dachauer Straße (nördlich), Hanauer Straße (östlich) (Teilverdrängung der Bebauungspläne Nrn. 1927a und 2087a) Satzungsbeschluss Stadtbezirk 10 Moosach
+- TOP 8.14.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 8.15.: (U) Atlas Wirtschaftsstandort München
+- TOP 8.16.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 8.17.: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 8.18.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 8.19.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2016
+- TOP 8.20.: Mitteilung über ein Grundstücksgeschäft: Kauf Flurstück Jenaer Straße - nicht-öffentlich -
+- TOP 8.21.: WEB- alle Anträge vom 01.06.2018 bis 15.06.2018 - nicht-öffentlich -
