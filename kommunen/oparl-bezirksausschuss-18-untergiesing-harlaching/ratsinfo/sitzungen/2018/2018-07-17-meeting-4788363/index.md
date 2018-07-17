@@ -1,0 +1,144 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-07-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4788363
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4788363
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Signalanlage vor Maria Immaculata, Theodolinden- / Seybothstraße, und Fahrradabstellplätze am Tiroler Platz; Bürgerschreiben vom 07.06.18
+- TOP 2.1.2.2.: Umgestaltung Hans-Mielich-Platz; Bürgerschreiben (E-Mail) vom 02.07.18
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Spiellandschaft Stadt e.V. Schreib-, Illustrations- und Buchwerkstatt zum Thema Geschichten aus dem Zirkus in einem Zeitraum vom 16.08.-19.08.2018 2.800,00 € AZ: 0262.0-18-0140
+- TOP 3.1.2.2.: (E) Budget der Bezirksausschüsse Isarlust e.V. Play me, I&#039;m yours im Herbst 2018 3.000,00 € AZ: 0262.0-18-0141
+- TOP 3.1.2.3.: (E) Budget der Bezirksausschüsse Aktionsgruppe Untergiesing e.V. Stadtteilfest „Ois Giasing“ am 08.09.2018 1.200,00 € AZ: 0262.0-18-0143
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 über die Orojektplanung Oberbiberger Straße / Säbener Straße; Beschlussvorlage des Baureferats
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Funktion "Dauerkneeling" bei allen MVG-Bussen; Antrag der Freien Wähler
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Fahrradstraßen im 18. Stadtbezirk - Prüfung folgender Straßen: - Oberbiberger Straße - Tegelbergstraße - Säbener Straße - Am Perlacher Forst
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Antrag und Stellungnahme des BA18 zum Grundsatzbeschluss zur Förderung des Radverkehrs in München; Fortschreibung und Radverkehrsbericht 2017
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Umbau der Schönstraße zwischen Candidstraße und Lebschéestraße im 18. Stadtbezirk Untergiesing - Harlaching Projektkosten (Ausführungskosten): 4.000.000 € Ausführungsgenehmigung
+- TOP 3.2.6.2.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 3.2.6.3.: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Schadstoffbelastung durch das Grillen am Flaucher; Antrag der Freien Wähler
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Messstelle für Luftqualität in der Tegernseer Landstraße; Antwortschreiben des Referats für Gesundheit und Umwelt
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.1.1.: Nachwahlbefragung von Münchner Bürger*innen zur Bundestagswahl 2017; Schreiben der Fachstelle für Demokratie vom 17.05.18 mit der Bitte um Rückmeldung
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Erwerb des Grundstücks Schilcherweg 8 – 10 zur Einrichtung von Kita-Plätzen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Temporärer Sicht- und Lärmschutz am ehemaligen Kiosk Kolumbusplatz, Pilgersheimer Straße 13, "Hexenhaus"
+- TOP 3.5.5.2.: Grünwalder Straße 4, Städtisches Stadion an der Grünwalder Straße, Sanierung der Westkurve für die Dritte Liga mit 15.000 Zuschauern; Antwortschreiben und Baugenehmigung des Referats für Stadtplanung und Bauordnung
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.4.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 3.5.6.5.: (U) Atlas Wirtschaftsstandort München
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.1.1.: Gedenkveranstaltung zum 80. Jahrestag des 9. November 1938: „Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn“; Schreiben der Arbeitsgruppe „Gedenken an den 9. November 1938“ vom 15.03.18
+- TOP 3.6.1.2.: Fest der Demokratie am 7. November 2018, Beteiligung ller Bezirksausschüsse; Schreiben des BA 8 - Schwanthalerhöhe vom 16.04.18
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Technikpauschale für die Mitglieder der Bezirksausschüsse - Informationsschreiben
+- TOP 4.3.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 – 2026; Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 4.3.3.: Anhörungsrecht für die Einrichtung von Elektroladestationen (Vertagt aus der Sitzung vom 21.08.2018)
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.1.: Fahnenmastreparatur in der Westkurve des Städtischen Stadions an der Grünwalder Straße
