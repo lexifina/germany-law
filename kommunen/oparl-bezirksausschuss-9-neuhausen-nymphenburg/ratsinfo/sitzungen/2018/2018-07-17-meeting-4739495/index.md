@@ -1,0 +1,147 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-07-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739495
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739495
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: Antrag auf Genehmigung einer Freischankfläche in der Blutenburgstr. 112
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Schleichweg Hanebergstraße / Johann-Schmaus-Str. / Braganzastr.
+- TOP 3.2.2.: Untertunnelung der Landshuter Allee - weitere Verzögerungen verhindern
+- TOP 3.2.3.: Radstreckenführung unter der Donnersbergerbrücke
+- TOP 3.2.4.: Verkehrsaufkommen Menzinger Straße auf Höhe Von-Goebel-Platz
+- TOP 3.2.5.: Parksituation am Steubenplatz
+- TOP 3.2.6.: Wohnmobile und Wohnwagen entlang des Nymphenburger Kanals
+- TOP 3.2.7.: Verbindung der Bundesautobahnen A 95 und A 96 zwischen Dreieck Starnberg und Dreieck München Süd-West
+- TOP 3.2.8.: Öffnung der Pötschnerstraße für gegenläufigen Radverkehr
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Austausch von Lichtsignalanlagen
+- TOP 3.3.2.: Verkehrsrechtliche Anordnung Tempo 30 in Höhe Romanstraße 12
+- TOP 3.3.3.: MVG-Leistungsprogramm 2019 - Anhörung zur Beschlussvorlage Nr. 14-20 / V 12021
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Umgestaltung der Kreuzung Winthirstraße / Nibelungenstraße
+- TOP 3.4.2.: Sitzgelegenheiten an der Bushaltestelle Dom-Pedro-Straße
+- TOP 3.4.3.: Umgestaltung des Parkbereichs beim Aufgang der Unterführung an der Schlörstraße
+- TOP 3.4.4.: Landshuter Allee: Prüfung der Installation eines Blitzers
+- TOP 3.4.5.: Aktuelle Informationen zur Umweltverbundröhre
+- TOP 3.4.6.: Lärmbelästigung durch Straßenbahnen
+- TOP 3.4.7.: Verkehrssituation Margarethe-Danzi-Straße
+- TOP 3.4.8.: Errichtung dreier beleuchteter Litfaßsäulen am Eisnergutbogen
+- TOP 3.4.9.: Laimer Unterführung - Rückbau Radunterführung
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Verkehrsrechtliche Anordnungen des KVR - Burghausener Straße - Erika-Mann-Straße - Ofterdingenstraße - St.-Galler-Straße - Sustrisstraße - Steubenplatz - Waskestraße
+- TOP 3.5.2.: (E) Pflanzung einer Baumreihe in der Hirschbergstraße Empfehlung Nr. 14-20 / E 01883 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.5.3.: (U) Ausbau Mittlerer Ring (B2R) Abschnitt Landshuter Allee Neubau Landshuter Allee-Tunnel im 9. Stadtbezirk Neuhausen - Nymphenburg und im 10. Stadtbezirk Moosach 1. Sachstand der Vorplanung 2. Agieren statt reagieren - Infrastruktur vorausschauend planen (Teil I) Landshuter Allee-Tunnel: Wann geht es endlich los? Anfrage Nr. 14-20 / F 01184 von Herrn Stadtrat Johann Altmann, Herrn Stadtrat Dr. Josef Assal, Frau Stadträtin Eva Maria Caim, Herrn Stadtrat Richard Progl und Herrn Stadtrat Mario Schmidbauer vom 24.04.2018
+- TOP 3.5.4.: (U) Bahnknoten München 2. Stammstrecke a) Sachstand 2. Stammstrecke b) Anträge und Empfehlungen
+- TOP 3.5.5.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 3.5.6.: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Hotel Holiday Inn Express/Friedenheimer Brücke - Regenauslauf auf den Fußgänger-Gehweg
+- TOP 4.2.2.: Maßnahmen gegen Verschmutzung der Baustelle des Strafjustizzentrums
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Bauvorhaben - Wendl Dietrich Str. 20 - Reitknechtstr. 6 + 10 - Dom-Pedro-Platz 4 - Hanebergstr. 2 - Fraasstr. 16 - Bäumlstr. 7 - Schulstr. 6
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.5.2.: Neubau Speichermagazin an der Leonrodstraße 57
+- TOP 4.5.3.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 4.5.4.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 4.5.5.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 4.5.6.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 4.5.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.8.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 4.5.9.: (U) Toni-Merkens-Weg 4, Landshuter Allee (östlich), Nymphenburg-Biedersteiner-Kanal (nördlich), Ernst-Curtius-Weg (westlich) und Sapporobogen (südlich) - Neue multifunktionale Sportarena im Olympiapark - - Eckdatenbeschluss - Stadtbezirk 11 Milbertshofen-Am Hart
+- TOP 4.5.10.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 4.5.11.: (U) Atlas Wirtschaftsstandort München
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Toilettensituation am Hirschgarten
+- TOP 5.2.2.: Begrünung der Klarastraße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung über Baumfällungsanträge: - Romanstr. 54 - Lierstr. 9 - Lierstr. 19 - Leonrodstr. 60 - Trivastr. 12 - Kratzerstr. 42 - Böcklinstr. 29 - Ferdinand-Maria-Straße 23
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Errichtung eines Zaunes am Bahndamm "An der Schlossmauer"
+- TOP 5.4.2.: Drohende Zerstörung einer naturdenkmalwürdigen Eibe in der Nederlinger Straße 37 durch Bauvorhaben Kuglmüllerstraße 1
+- TOP 5.4.3.: "o&#039;pflanzt is!" - Neuer Standort in Neuhausen-Nymphenburg
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 5.5.2.: Baumentfernungen und Gehölzpflegemaßnahmen Flüggenstr. 3
+- TOP 5.5.3.: (U) Verbot von Laubbläsern Empfehlung Nr. 14-20 / E 01872 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 05.12.2017
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Biku e.V. Betreuung von Kindern und Jugendlichen vom 30.07. - 17.08.2018 5.458,00 Euro Az.: 0262.0-9-0287
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Initiative TranslAid Vernetzungsfst am 26.07.2018 969,00 € 0262.0-9-0289
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse KUNIRI gemeinnützige UG Crowdfunding-Kampagne von August bis November 2018 9.780,00 € AZ: 0262.0-9-0290
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Reduktion der Lärmbelastung an der Seidlhofstraße (Grünfläche)
+- TOP 6.2.2.: Barrierefreies München - Toiletten für alle
+- TOP 6.2.3.: Hilfe bei Obdachlosigkeit - Einrichtungen für Frauen schaffen, die in Neuhausen-Nymphenburg von Obdachlosigkeit bedroht sind
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Aufstellen einer Bank auf der Grünfläche Hübnerstraße
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Neue Bädereintrittspreise: - Hallenbäder ab 01.05.2018 - Freibäder ab der Saison 2018
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Protokoll der Sitzung der Arbeitsgemeinschaft Spiellandschaft
+- TOP 6.5.2.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Christuskirche Jubiläumskonzert am 26.10.2018 3.000,00 Euro Az.: 0262.0-9-0283
+- TOP 7.1.2.: (E) Budget der Bezirksausschüsse Tanztendenz München e.V. Projekt "STANDPUNKT.e/"welcome to my world" vom 04.07. - 15.07.2018 3.000,00 Euro Az.: 0262.0-9-0284
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse ARGE St.-Vinzenz-Viertel Straßenfest am 30.06.2018 788,67 € 0262.0-9-0292
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Umbenennung der Hilblestraße - Namensvorschläge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Hip-Hop-Konzert auf dem Spiegelplatz im Kreativquartier am 04.08.2018
+- TOP 7.3.2.: Kunstausstellung am Zaun (DB-Zaun Schlossmauer nähe Kanal)
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Benennung der Jutierhalle in "Ernst-Henle-Halle"
+- TOP 7.5: Antwortschreiben
+- TOP 7.5.1.: Vermietungen im Kreativlabor
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Budget der Bezirksausschüsse Die Hirschgartenkinder e.V. Toilettenraumsanierung 5.826,15 € AZ: 0262.0-9-0280
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Sportbauprogramm - Beschlussentwurf
+- TOP 8.3.2.: Anhörungsverfahren zur Änderung der Grundschulorganisation
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Diskussions-Veranstaltung BA zur Eisenbahnergenossenschaft Anfang Oktober - Budgetrahmen bis ca. 6.000€ -
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Kinderfest des BA im Grünwaldpark am 21.07.2018
+- TOP 9.3.2.: Nachbarschaftsfest Rolandstraße am 11.08.2018
+- TOP 9.3.3.: XXL-Radlsicherheitscheck, Rotkreuzplatz, 31.08.+01.09.2018
+- TOP 9.3.4.: Eröffnung Taxispark am 03.08.2018
+- TOP 9.3.5.: Skateboardkurs für Kinder und Jugendliche im Hirschgarten
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Technikpauschale für die Mitglieder der Bezirksausschüsse - Informationsschreiben
+- TOP 9.5.2.: Unveränderte Fortführung eines Gaststättenbetriebs: Shisha-Bar "Oceans" (ehem. Kuchlbauer) - Wendl-Dietrich-Straße 11
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
