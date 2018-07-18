@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Minden (ARS 057700024024)
 - Datum: 2018-07-18 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.minden.de/dokumente/satzungen/feuerwehr/3.10-satzung-ueber-den-ersatz-von-verdienstausfall-nach-dem-bhkg.pdf?cid=5pg
+- Quelle: https://www.minden.de/dokumente/satzungen/oeffentliche-sicherheit-und-ordnung/3.10-satzung-ueber-den-ersatz-des-verdienstausfalls-der-beruflich-selbstaendigen-ehrenamtlichen-angehoerigen-der-freiwilligen-feuerwehr-der-stadt-minden.pdf?cid=6ed
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -30,8 +30,14 @@ Satzung Verdienstausfall nach dem BHKG Anmerkung: Öffentlich bekanntgemacht am 
 
 3.10
 
-Änderungen: Satzung vom betroffene Vorschriften veröffentlicht am
+Änderungen:
 
-in Kraft ab
+Satzung vom betroffene Vorschriften veröffentlicht am
+
+29.06.2001 § 1
+
+06.07.2001
+
+in Kraft ab 01.01.2002
 
 2
