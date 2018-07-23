@@ -1,0 +1,22 @@
+# 1. Teilbebauungsplan WILLY-BRANDT-STRASSE - Geänderter Geltungsbereich - Beratung des Entwurfs - Beteiligung der Bürger sowie der Behörden und sonstiger Träger öffentlicher Belange
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 173/2018 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-07-23
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZ3M2AuWyeRdszj-OWfSIxI
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2417
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (1. Teilbebauungsplan WILLY-BRANDT-STRASSE
+- Geänderter Geltungsbereich
+- Beratung des Entwurfs 
+- Beteiligung der Bürger sowie der Behörden und sonstiger Träger öffentlicher        Belange) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQB_Suont71G_1zASjXGpYQMKfSTFcx5Xn7Gqo2AXf9T/Beschlussvorlage_173-2018_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (- Bestandsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUwkcfFTRrcEJwlaIwtJLd9uCVE2xeVj5LEUvUvj2m3M/-_Bestandsplan.pdf
+- Anlage: Beschlussvorlage (- Gestaltungsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRe0_Z7PDHl8qK5vAVkEOTnBtVkZeEJykA7o4lZHKSo6/-_Gestaltungsplan.pdf
+- Anlage: Beschlussvorlage (- Nutzungsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSu0SHFtAAZ7jZr7DrmTNwj2-C44pTA_EcgHTin0eMEf/-_Nutzungsplan.pdf
+- Anlage: Beschlussvorlage (- Planungsrechtliche Festsetzungen) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-GSfvOmLqvSNC4eKYTcn6SgNifUm8LzwDTUT-uZbYV/-_Planungsrechtliche_Festsetzungen.pdf
+- Anlage: Beschlussvorlage (- Örtliche Bauvorschriften) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfXknfdc916AcpLJqGBtYHmYOZP6DxEn1J85qYslW4zH/-_Oertliche_Bauvorschriften.pdf
+- Anlage: Beschlussvorlage (- Begründung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbEYgcEkppV6mgXEWNU6eMs4YCThmzzHHCzYIgi6PfVB/-_Begruendung.pdf
+- Anlage: Beschlussvorlage (- Schalltechnische Untersuchung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQdXJ4KM1Fkt-iMhFHlkdjM-oA2s1kvHd2se_svENS3O/-_Schalltechnische_Untersuchung.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1980 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-31
