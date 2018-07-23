@@ -1,0 +1,38 @@
+# Bebauungsplan ALTENBERG, 1. Änderung - Aufstellungsbeschluss mit geändertem Geltungsbereich - Beratung des Entwurfs - Beschleunigtes Verfahren nach § 13a und 13b BauGB - Beschluss zur Offenlage mit der Beteiligung der Öffentlichkeit sowie der Behörden und sonstiger Träger öffentlicher Belange
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 117/2018 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-07-23
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZY5bkN4aXial9dIEd9P0McE
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2419
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bebauungsplan ALTENBERG, 1. Änderung
+- Aufstellungsbeschluss mit geändertem Geltungsbereich
+- Beratung des Entwurfs
+- Beschleunigtes Verfahren nach § 13a und 13b BauGB
+- Beschluss zur Offenlage mit der Beteiligung der Öffentlichkeit sowie der Behörden 	und sonstiger Träger öffentlicher Belange) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZgY4ecJxUZ3T0M3WjbWSDgL42jxSf4fjcFRSOO5Bv3p/Beschlussvorlage_117-2018_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (- Geltungsbereich, 7.6.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWcPD19sOSpOJ0Ks0lp27M26jZesp2J9zgD-wIYneylP/-_Geltungsbereich-_7.6.2018.pdf
+- Anlage: Beschlussvorlage (- Nutzungsplan, 9.7.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZahDhQ4pDiT1mcctf3i80LQtIU5-1fOl6J9XD1nK1I6e/-_Nutzungsplan-_9.7.2018.pdf
+- Anlage: Beschlussvorlage (- Zeichenerklärung/Legende 9.7.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZehPrH2Lu2YCxFWGr17uIzBh-agX_Ca21RQl7sEHi451/-_Zeichenerklaerung-Legende_9.7.2018.pdf
+- Anlage: Beschlussvorlage (- Planungsrechtliche Festsetzungen, 9.7.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXDvjVOxsRMz8FBTJQeCGHNLGcto-QBnbl50KR4r7BZC/-_Planungsrechtliche_Festsetzungen-_9.7.2018.pdf
+- Anlage: Beschlussvorlage (- Örtliche Bauvorschriften, 9.7.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQrhpWhMgnZFDYwIjynaG_C4WXw4uHVZKpJ19AQEpOWd/-_Oertliche_Bauvorschriften-_9.7.2018.pdf
+- Anlage: Beschlussvorlage (- Begründung, 9.7.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQvpROF3m7NgQcczbCji_W5n8_wyL1kE4tu-4nsaWWYY/-_Begruendung-_9.7.2018.pdf
+- Anlage: Beschlussvorlage (- Städtebauliches Konzept, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYg2Ji33X6wc8s7-r93l4KgPcgfdJ_DUPhgsiXJprMUY/-_Staedtebauliches_Konzept-_23.4.2018.pdf
+- Anlage: Beschlussvorlage (- Schnitte 1, 5, 6, 7, 8, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVsjWPkve7Lb8VF0tOKbbVdTNDURP7jXNA_wYQSX4KpC/-_Schnitte_1-_5-_6-_7-_8-_23.4.2018.pdf
+- Anlage: Beschlussvorlage (- Schnitte 2, 4, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUUPnhBiETyA-5CD04Aj9SAZNHDRR_qzq2tjzL6GeOWw/-_Schnitte_2-_4-_23.4.2018.pdf
+- Anlage: Beschlussvorlage (- Schnitte 3, 9, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZarFJxEGaDW6exfvDsoz3KvvsfXY6vQmt7mrPebBbDOr/-_Schnitte_3-_9-_23.4.2018.pdf
+- Anlage: Beschlussvorlage (- Schnitte 4, 7-1, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTIec2kk-D4-XblKOcx6xMxDgl5kzbL1LLk5pnXQ_ILp/-_Schnitte_4-_7-1-_23.4.2018.pdf
+- Anlage: Beschlussvorlage (- Schnitte 7-2, 7-3, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVfXNNrVWYNvvfxIUd_S6SqhHtr2xZCaBMdEF3yVkZbc/-_Schnitte_7-2-_7-3-_23.4.2018.pdf
+- Anlage: Beschlussvorlage (- Verkehrsuntersuchung, 23.4.2018/23.5.2016) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZY1thm1d-gxrc6g65Scn1rA1Jg_Y9mS3j1sTn6mNg4H/-_Verkehrsuntersuchung-_23.4.2018-23.5.2016.pdf
+- Anlage: Beschlussvorlage (- Verkehrsuntersuchung Fortschreibung, 23.4.2018/22.12.2017) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbbGUJuTWMUagVH4No6-YQlbaSHVSLMGOlworTA2GJjV/-_Verkehrsuntersuchung_Fortschreibung-_23.4.2018-22.12.2017.pdf
+- Anlage: Beschlussvorlage (- Schalltechnische Untersuchung, 23.4.2018/1.2.2018/22.12.2017) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZFBjq6DxgtAuw7YXzcs21A7ISTA4igwWp-qHNib3Wt/-_Schalltechnische_Untersuchung-_23.4.2018-1.2.2018-22.12.2017.pdf
+- Anlage: Beschlussvorlage (- Umweltbeitrag mit integriertem Grünordnungsplan und Vorprüfung Natura 2000, 6.6.2018, 9.7.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTXN3v8rRcdLi-tNlwqDaCNLMdOZ2bsHf5vM5PaRT3Kb/-_Umweltbeitrag_mit_integriertem_Gruenordnungsplan_und_Vorpruefung_Natura_2000-_6.6.2018-_9.7.2018.pdf
+- Anlage: Beschlussvorlage (- Spezielle artenschutzrechtliche Prüfung, 2.5.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQAekcZhENlVAI5ueOKfvRWzbGm_Ont6wsjQEPvQLwPH/-_Spezielle_artenschutzrechtliche_Pruefung-_2.5.2018.pdf
+- Anlage: Beschlussvorlage (- Fachgutachten Fledermäuse, 3.12.2015) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU4ok75ZKZQrGIOcWDhWVkD_j06UX4vklJGBT6VhyfFC/-_Fachgutachten_Fledermaeuse-_3.12.2015.pdf
+- Anlage: Beschlussvorlage (- Freiflächenkonzept, 6.12.2017) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTAJ4zRZNKLYepZvunVQI4pE2mfGJKpVmeeFVriGPbN6/-_Freiflaechenkonzept-_6.12.2017.pdf
+- Anlage: Beschlussvorlage (- Geotechnischer Vorbericht, 29.2.2016) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe7lA_t5J87srj-AYVngB-PPlcNW8ce_DQqWcal5Cju3/-_Geotechnischer_Vorbericht-_29.2.2016.pdf
+- Anlage: Beschlussvorlage (- Fachgutachterliche Stellungnahme zu den lokalklimatischen Auswirkungen, 4.12.2017) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUQamNNWqzUAIlF9qZmxaNDp7kJUDCiFbzFvlA3ybg7O/-_Fachgutachterliche_Stellungnahme_zu_den_lokalklimatischen_Auswirkungen-_4.12.2017.pdf
+- Anlage: Beschlussvorlage (- Gestaltungshandbuch, 23.4.2018) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6j2YAQri3bxQo4mLvyypr4xEhX1uLzrwNmWaVZbYzP/-_Gestaltungshandbuch-_23.4.2018.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1980 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-31
