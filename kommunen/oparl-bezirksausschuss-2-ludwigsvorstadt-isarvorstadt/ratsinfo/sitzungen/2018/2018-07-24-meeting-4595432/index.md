@@ -1,0 +1,136 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-07-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595432
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595432
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 1.1.: Betriebskonzept Stadtteilkulturzentrum
+- TOP 1.2.: Einrichtung einer Ampel Klenze-/Wittelsbacherstr.
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.6.: Unterführung Kapuzinertunnel
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.5.: Besuch eines Vertreters der Firma Lidl
+- TOP 5.6.: Entschärfung des Kreuzungsbereichs Lindwurmstr. / Poccistr. Aus BA-Sitzung 06/2018
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP E.1.: Schillerstraße 3 und 3a, Gäste aus der Nachbarschaft mit Forderungen an die LBK sowie dem Bezirksausschuss
+- TOP E.2.: IsarLudwig: Weiteres Vorgehen mit den Erkenntnissen aus der UA Sitzung KJS
+- TOP E.3.: Vorstellung der Geothermieanlage Schäftlarnstr.
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP E 4.1.: Information zur Baustelle 2. Stammstrecke am Hauptbahnhof
+- TOP E 4.2.: Information zum Heizkraftwerk Süd
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt "Play Me, I&#039;m Yours" im Herbst 2018 3.000,00 Euro Az.: 0262.0-2-0229
+- TOP 2.2.: Budget der Bezirksausschüsse, Initiative der uigurischen Frauen, anderweitige Verwendung des Betrages i.H.v. 70,00€
+- TOP 3.1.: Überprüfung und Erlass der Erhaltungssatzung "Dreimühlenstr. / Baldeplatz"
+- TOP 5.1.: Toilette am Gärtnerplatz, Sachstandsbericht
+- TOP 5.2.: Konzept einer Initiativgruppe für Räumlichkeiten in der Viehhofbank
+- TOP 5.3.: Brief des Elternbeirats der Grundschule Klenzestraße, Ganztagsklasse im Schuljahr 2018/2019
+- TOP 5.4.: Vorstellung des Bürgerbeteiligungsprojekts muc.de der TUM
+- TOP 5.5.: Ergebnis des Ortstermins am Roecklplatz
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: Projektplanung, Programm barrierefreie Bushaltestellen, hier: Bushaltestelle Beethovenplatz
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Schillerstr. 3-3a, Neubau eines Hotels mit Gastronomie im EG und Tiefgarage
+- TOP 3.1.2.: Thalkirchner Str. 80, Sanierung zweier Wohngebäude, Ausbau zweier Dachgeschosse zu Wohnungen mit Gauben und Dachterrassen, Grundrissänderungen, Einbau zweier Aufzüge, Anbau von Balkonen, Errichtung einer Dachterrasse auf dem Zwischengebäude, Nutzungsänderung (EG) von Lager+Versand (Buchbinderei) zu Wohnungen, Umbau und Erweiterung des Lichthofs, Nutzungsänderung (UG) Lager zu Schulungsräume; TEKTUR
+- TOP 3.1.3.: Vollzug der Baumschutzverordnung, Bauvorhaben Schillerstr. 3-3a, Neubau eines Hotels mit und Gastronomie im EG und Tiefgarage
+- TOP 3.2.1.: Fällung/Veränderung eines Ahorn, Palmstr. 5
+- TOP 3.3.1.: Sondernutzungserlaubnis für den Streetworkerbus von Condrobs e.V. am Esperantoplatz, 22.09.-07.10.2018
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Vorstellung Projektplanung Regionalzughalt Poccistraße
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Mehr Sicherheit und Konfort an der Ampel Sonnen-/Schwanthalerstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche, Bayerstr. 15
+- TOP 2.1.2.: Genehmigung einer Freischankfläche, Hermann-Lingg-Str. 14; Bitte des Kreisverwaltungsreferats um erneute Behandlung
+- TOP 2.2.1.: Aufstellung von Verkaufseinrichtungen (4 Postkartenständer) auf öffentlichem Grund, Baaderstr. 22
+- TOP 2.3.1.: Antwort des Referats für Gesundheit und Umwelt zum Beschluss des BA 2 zur Sitzungsvorlage Nr. 14-20/V08550, Bürgerversammlungsempfehlung Nr. 14-20/E01258, Lärmschutz an der Bahntrasse Dreimühlenviertel; Bitte um erneute Beschlussfassung
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Queer Outdoor Cafe am 15.08.2018 auf dem Karl-Heinz-Ulrichs-Platz
+- TOP 3.1.2.: Hans-Sachs-Straßenfest am 18.08.2018
+- TOP 3.2.1.: Einrichtung von absoluten Haltverboten in der Reichenbachstr., nördlich der Einmündung Fraunhoferstr.
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Antrag zur Aufstellung einer Holzbank, Fraunhoferstr. 3
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürger, Verkehrskonzept / Verkehrsberuhigung im Gärtnerplatzviertel
+- TOP 5.2.: Vorstellung des Kommunalen Außendienstes im KVR
+- TOP 5.3.: Bürgeranliegen, Sitzbank Adlzreiterstr / Ecke Kapuzinerstr. und Blumenstand, Verkehrsinsel
+- TOP 5.4.: Stromversorgung bei Festen auf dem Glockenbachplatz
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Aktualisierung der Karte und Liste mit Standorten für Flüchtlinge und Wohnungslose
+- TOP A 4.4.: Fairer Umgang mit dem Verein Zeit, Schlacht und Raum
+- TOP A 4.5.: (U) Errichtung einer 3gruppigen Kinderkrippe an der Baaderstraße 86-90 im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt Genehmigung des NBP
+- TOP A 4.6.: Antwortschreiben des Oberbürgermeisters zum BA-Schreiben Stärkung des Wohnens im südlichen Bahnhofsviertel
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Information zum Vorbescheid Lessingstr. 14
+- TOP B 4.3.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume, eine Säulenpappel, Bayerstr. 31
+- TOP B 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.5.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP B 4.6.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP B 4.7.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP B 4.8.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP B 4.9.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP B 4.10.: (U) Wiedererrichtung des Denkmals König Ludwig II. auf der Corneliusbrücke Antrag Nr. 08-14 / A 04110 von Herrn Stadtrat Josef Schmid, Herrn Stadtrat Richard Quaas, Herrn Stadtrat Georg Schlagbauer und Herrn Stadtrat Mario Schmidbauer vom 18.03.2013 Antrag Nr. 08-14 / B 04682 des Bezirksausschusses des Stadtbezirkes 2 Ludwigsvorstadt - Isarvorstadt vom 19.03.2013
+- TOP B 4.11.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP B 4.12.: (U) Atlas Wirtschaftsstandort München
+- TOP B 4.13.: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP B 4.14.: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP B 4.15.: Vorbescheid Kapuzinerstr. 20
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Temporäre Kunst im öffentlichen Raum, „Bavaria“ Erhardtstraße
+- TOP C 4.7.: BA-Antrag, Geschwindigkeitsmessung Herzog-Heinrich-Str.
+- TOP C 4.8.: Öffnung Glockenbach
+- TOP C 4.9.: Genehmigung Freischankfläche Gaststätte „Neni“
+- TOP C 4.10.: Pflanzung von früh- und spätblühenden Blumen
+- TOP C 4.11.: Umwandlung von KFZ-Stellplätzen zu Fahrradstellplätzen, Klenzestr. 26
+- TOP C 4.12.: Temporäre Kunst im öffentlichen Raum, „Gedankenfluss“, Wittelsbacherbrücke
+- TOP C 4.13.: Information zu temporären Einbahnregelungen in der Tumblinger- und Ruppertstr.
+- TOP C 4.14.: Abdruck eines Antwortschreibens an einen Bürger bezüglich der Ampelschaltung am Stachus
+- TOP C 4.15.: Radverkehr Wittelsbacherbrücke
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 4: Bereich Besondere Angelegenheiten
