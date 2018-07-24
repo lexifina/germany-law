@@ -1,0 +1,97 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-07-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4710242
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4710242
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube „komm“-Streetwork am 10.08.2018 172,00 € AZ: 0262.0-24-0235
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Durchführung einer Sonnwendfeier am 16.06.2018 3.560,00 € AZ: 0262.0-24-0227
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt Mobile Spielaktion vom 30.07. - 10.08.2018 2.047,50 Euro Az.: 0262.0-24-0234
+- TOP 2.4.: (E) Lärmreduzierende Maßnahmen am Gütergleis 5566; I. Realisierung der durch das RGU bevorzugten Maßnahmen II. Wegfall des festgesetzten Stichtages zur freiwilligen Lärmsanierung Empfehlung Nr. 14-20 / E 01931 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 2.5.: (E) Errichtung einer Blitzlichtampel an der Kreuzung Lerchenauer Straße/ Bocksdornstraße
+- TOP 2.6.: (E) Errichtung eines beidseitigen Haltverbotes in der Himmelsschlüsselstraße, 80995 München
+- TOP 2.7.: (E) Verkehrssituation in der Wohnsiedlung Ludwigsfeld; Sperrung der Kristallstraße für Fahrzeuge mit mehr als 7,5 t Gesamtgewicht (Ziffer 1 des Antrags)
+- TOP 2.8.: N (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Feldmochinger Rosstag am 14.10.2018 7.150,00 € Az. 0262.0-24-0237
+- TOP 2.9.: N (E) Budget der Bezirksausschüsse HuVTV Edelweiß-Stamm München-Lerchenau e.V. Restaurierung Maibaumfiguren, Erneuerung des Maibaumes 450,00 € Az. 0262.0-24-0216
+- TOP 2.10.: N (E) Budget der Bezirksausschüsse Verein der Freiwilligen Feuerwehr Harthof e.V. Anschaffung von zwei CO-Warnern und einer HLW Übungspuppe 1.208,34 € Az. 0262.0-24-0236
+- TOP 3.: Anträge
+- TOP 3.1.: Errichtung von Holperschwellen im Blausternweg
+- TOP 3.2.: Einrichtung einer Strecke mit Haltverbot Am Blütenanger
+- TOP 3.3.: N Erneuerung und Erstellung einer Fahrbahnmarkierung für Radfahrer
+- TOP 3.4.: N Überdachte Fahrradstellplätze U-Bahn-Station Hasenbergl
+- TOP 3.5.: N Durchführung von verschiedenen Maßnahmen an der letzten Baracke des KZ‐Außenlagers Dachau‐Allach in Ludwigsfeld
+- TOP 3.6.: N Nicht tragbare Mieterhöhung für die Räume des gemeinnützigen Kulturhistorischen Vereins Feldmoching auf dem Gfild e.V.
+- TOP 3.7.: N Ausbesserung der Radwege am Rangierbahnhof
+- TOP 3.8.: N Internetplattform der Jungen Akademie der TUM; Pilotprojekt im 24. Stadtbezirk
+- TOP 3.9.: N DB-Nordring vorantreiben - und sich nicht mit luftigen Hochseilbahnnummern verzetteln!
+- TOP 5.1.1.: Regattaweg 193
+- TOP 5.1.2.: Schafgarbenweg 6
+- TOP 5.1.3.: N Lassallestr. 95 - 101
+- TOP 5.1.4.: N Paul-Preuß-Str. 2
+- TOP 5.2.1.: Auf den Schrederwiesen 77
+- TOP 5.2.2.: N Schleißheimer Str. 437
+- TOP 5.2.3.: N Hasenberglstr. 30
+- TOP 5.3.1.: Skateboardkurs für Kinder und Jugendliche am Fasaneriesee am 01.08.2018 und 02.08.2018
+- TOP 5.4.1.: Sportbauprogramm - Beschlussentwurf
+- TOP 5.4.2.: Vollzug der Wassergesetze; vorläufige Sicherung des Überschwemmungsgebiets an der Würm von Flusskilometer 8,9 bis 9,3 (noch nicht festgesetzter Abschnitt) sowie am Würmkanal von Flusskilometer 0 bis 4,1 jeweils innerhalb der Stadtgrenzen der Landeshauptstadt München
+- TOP 5.4.3.: Bauleitplanung der Gemeinde Karlsfeld - B-Plan Nr. 113 "Am Burgfrieden Süd" - Beteiligung nach § 4 Abs. 1 BauGB
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Technikpauschale für die Mitglieder der Bezirksausschüsse - Informationsschreiben Nr. 03/2018
+- TOP 6.2.: (E) Einrichtung eines (barrierefreien) Bürgertreffs in der Fasanerie, BV-Empfehlung Nr. 14/20 / E 01389 vom 30.03.2017
+- TOP 6.3.: Lassallestr. 54 - Überprüfung der gewerblichen Nutzung und Vermietung der Container als Wohnraum Empfehlung Nr. 14-20 / E 00896 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching Hasenbergl am 17.03.2016 Überprüfung des Grundstückes Lassallestr. 54 auf Gewerbe und bewohnte Container Empfehlung Nr. 14-20 / E 00895 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching Hasenbergl am 17.03.2016
+- TOP 6.4.: Aufklärung zum Landschaftsschutzgebiet mit anliegenden FFH-Gebiet im Feldmochinger Moos
+- TOP 6.5.: Barrierefreiheit für behinderte Menschen im 24. Stadtbezirk (Antragspaket)
+- TOP 6.6.: Anträge aus der 16. Kinder- und Jugendsprechstunde vom 26.01.2018; a) Nr. 16/20 (Zebrastreifen Karlsfelder Str.) b) Nrn. 16/22, 16/23, 16/24, 16/25 (Josef-Frankl-Str., Bushaltestelle Max-Wönner-Str.)
+- TOP 6.7.: Parken von LKW&#039;s über 7,5 t in der Siedlung am Lerchenauer See
+- TOP 6.8.: Verbesserung der Sicherheit und Lebensqualität der Bürgerinnen und Bürger in der Wohnsiedlung Ludwigsfeld: Sicherer Schulweg für die Schüler
+- TOP 6.9.: Ausbau des Fuß- und Radweges der Karlsfelder Str. bis zur MAN
+- TOP 6.10.: Umleitung des Schwerlastverkehrs aus der Siedlung Ludwigsfeld, Kristallstr.
+- TOP 6.11.: Verlegung des Kriegerdenkmals von der Feldmochinger Straße auf das Parkgrundstück östlich der Kirche St. Christoph bis spätestens Sommer 2018
+- TOP 6.12.: Auskunft zur Grundwassermessstelle KPA 996
+- TOP 6.13.: Neubau einer Lichtsignalanlage, Wilhelmine-Reichard-Straße / Christl-Marie-Schultes-Weg
+- TOP 6.14.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Stichstraße bei Josef-Frankl-Straße 21 b) Absolutes Haltverbot in der Drudhardstraße c) Ittlinger Straße 58, Ostseite Haltverbot
+- TOP 6.15.: Daten Pegel Feldmoching
+- TOP 6.16.: Meldelisten Bauvorhaben
+- TOP 6.17.: Meldelisten Baumfällungen
+- TOP 6.18.: (U) Bebauungsplan mit Grünordnung Nr. 2106 Hochmuttinger Straße (östlich), Herbergstraße (nördlich), Paul-Preuß-Straße (westlich) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 24 – Feldmoching-Hasenbergl
+- TOP 6.19.: (U) Feldmochinger Kurve - Sachstandsbericht und Neubau Bahnquerung Wilhelmine-Reichard-Str. a) Geplanter S-Bahnverkehr auf dem Gütergleis 5566 / Feldmochinger Kurve - Lärmschutz Empfehlung Nr. 14 - 20 / E 01410 der Bürgerversammlung des Stadtbezirks 24 Feldmoching-Hasenbergl vom 30.03.2017 b) Lärmschutz entlang Gütergleis 5566 - Bahnlärm Empfehlung Nr. 14 - 20 / E 01411 der Bürgerversammlung des Stadtbezirks 24 Feldmoching-Hasenbergl vom 30.03.2017
+- TOP 6.20.: (U) Atlas Wirtschaftsstandort München
+- TOP 6.21.: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP 6.22.: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 6.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.24.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 6.25.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 6.26.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 6.27.: (U) Kooperatives Stadtentwicklungsmodell für Feldmoching – Ludwigsfeld - Grundsatzbeschluss - A) Entwicklung von Verfahrensgrundsätzen für ein kooperatives Stadtentwicklungsmodell für Feldmoching-Ludwigsfeld B) Beauftragung von Untersuchungen für Feldmoching-Ludwigsfeld C) Satzung über ein besonderes Vorkaufsrecht an unbebauten und bebauten Grundstücken im Sinne des § 25 Absatz 1 Satz 1 Nr. 2 BauGB für Feldmoching-Ludwigsfeld - Vorkaufssatzung - D) Finanz- und Personalbedarf Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 6.28.: (U) Aufstellung und (Teil-) Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013 - 2030 - Finanzierungsbedarf -
+- TOP 6.29.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 6.30.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 6.31.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 6.32.: (U) Verbesserung der Abstellsituation für Fahrräder Studie zur Überdachung bestehender B+R-Anlagen außerhalb des Mittleren Rings
+- TOP 6.33.: (U) Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 6.34.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2017
+- TOP 6.35.: N Standort Hubschrauberlandeplatz Oberschleißheim
+- TOP 6.36.: N Vermüllung Christl-Marie-Schultes-Weg
+- TOP 8.1.: Protokoll der Sitzung am 15.05.2018 (nach Genehmigung in der Sitzung am 19.06.2018)
+- TOP 8.2.: Beschwerdebrief des Elternbeirates aus dem Haus für Kinder, Josef-Frankl-Str. 17 b
