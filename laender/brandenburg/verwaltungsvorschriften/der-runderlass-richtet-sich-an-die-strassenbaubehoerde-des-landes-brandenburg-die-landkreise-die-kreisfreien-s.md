@@ -1,18 +1,20 @@
-# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Mit dem Allgemeinen Rundschreiben Straßenbau Nummer 16/2016
+# Der Runderlass richtet sich an die Straßenbaubehörde des Landes Brandenburg die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg. Die Brandenburgischen Technischen Lieferbedingungen für Stahlwe
 
 - Herausgeber: Land Brandenburg
-- Datum: 2016-12-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/tl_g_ob_stb_15
+- Datum: 2018-07-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/btl_swls_stb_2018
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg - Technische Lieferbedingungen für die Bauliche Erhaltung von Verkehrsflächenbefestigungen, Teil: Güteüberwachung, Teil: Ausführung von Oberflächenbehandlungen, Ausgabe 2015 (TL G OB-StB 15)
+Einführung technischer Regelwerke für das Straßenwesen im Land Brandenburg -
 
-vom 21. Dezember 2016
+Brandenburgische Technische Lieferbedingungen für Stahlwerkslagerschlacken im Straßenbau, Ausgabe 2018 (BTL SWLS-StB)
 
-(ABl./17, [Nr. 02], S.36)
+vom 25. Juli 2018
+
+(ABl./18, [Nr. 32], S.681)
 
 Der Runderlass richtet sich an
 
@@ -20,18 +22,32 @@ die Straßenbaubehörde des Landes Brandenburg
 
 die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Mit dem Allgemeinen Rundschreiben Straßenbau Nummer 16/2016 vom 17. Juli 2016 hat das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) die „Technischen Lieferbedingungen für die Bauliche Erhaltung von Verkehrsflächenbefestigungen, Teil: Güteüberwachung, Teil: Ausführung von Oberflächenbehandlungen, Ausgabe 2015 (TL G OB-StB 15)“ bekannt gegeben.
+Die Brandenburgischen Technischen Lieferbedingungen für Stahlwerkslagerschlacken im Straßenbau, Ausgabe 2008 (BTL SWLS-StB), eingeführt mit Runderlass des Ministeriums für Infrastruktur und Raumordnung, Abteilung 4, Nr. 21/2008 - Verkehr vom 30. Oktober 2008 (ABl. S. 2493), deren Geltungsdauer durch den Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4, Nr. 24/2013 - Verkehr vom 22. Oktober 2013 (ABl. S. 2887) verlängert worden ist, wurden überarbeitet.
 
-Die TL G OB-StB 15 regeln die Güteüberwachung der Bauweise Oberflächenbehandlung.
+Die BTL SWLS, Ausgabe 2018 wurden angepasst an die folgenden technischen Regelwerke des Straßenbaus:
 
-Im Auftrag der Obersten Straßenbaubehörde des Landes Brandenburg gibt der Landesbetrieb Straßenwesen Brandenburg (LS) die güteüberwachten Ausführenden und die Produktionseinheiten aus dem Land Brandenburg über eine Liste auf der Internetseite bekannt (www.ls.brandenburg.de).
+Technische Lieferbedingungen für Gesteinskörnungen im Straßenbau, Ausgabe 2004, Fassung 2007 (TL Gestein-StB 04)
 
-Die Fremdüberwachungsberichte der im Land Brandenburg ansässigen ausführenden Firmen sind dem LS zuzusenden. Güteüberwachte Ausführende und Produktionseinheiten aus anderen Bundesländern gelten in Brandenburg als anerkannt.
+Technische Lieferbedingungen für Baustoffgemische und Böden zur Herstellung von Schichten ohne Bindemittel im Straßenbau, Ausgabe 2004, Fassung 2007 (TL SoB-StB 04)
 
-In den Ausschreibungsunterlagen für die Bauweise Oberflächenbehandlung ist der Nachweis der Durchführung der Fremdüberwachung gemäß TL G OB-StB 15 abzufordern.
+Technische Lieferbedingungen für Baustoffgemische und Böden zur Herstellung von Schichten ohne Bindemittel im Straßenbau, Teil Güteüberwachung, Ausgabe 2004, Fassung 2007 (TL G SoB-StB 04)
 
-Hiermit werden die Regelungen des BMVI und die TL G OB-StB 15 für den Bereich der Bundesfernstraßen und Landesstraßen eingeführt. Für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
+Zusätzliche Technische Vertragsbedingungen und Richtlinien für den Bau von Schichten ohne Bindemittel im Straßenbau, Ausgabe 2004, Fassung 2007 (ZTV SoB-StB 04)
 
-Der Runderlass des Ministeriums für Infrastruktur und Raumordnung, Abteilung 5, Nummer 15/2006 - Straßenbau - vom 29. März 2006 (ABl. S. 336) wird aufgehoben.
+Technische Lieferbedingungen für Böden und Baustoffe für den Erdbau im Straßenbau, Ausgabe 2009 (TL BuB E-StB 09)
 
-Die TL G OB-StB 15 sind bei der FGSV-Verlag GmbH, Wesselinger Str. 17, 50999 Köln zu beziehen.
+Brandenburgische Technische Richtlinien für Recycling-Baustoffe im Straßenbau, Ausgabe 2014 (BTR RC-StB 14).
+
+Die BTL SWLS-StB, Ausgabe 2018 beinhalten bautechnische Anforderungen, die bei der Anwendung des Baustoffs im Straßenbau zu berücksichtigen sind. Des Weiteren sind mit der Umweltverwaltung des Landes Brandenburg abgestimmte umweltrelevante Parameter sowie Regelungen zur Güteüberwachung von Stahlwerkslagerschlacken enthalten.
+
+Anstelle der TL Gestein-StB 04, Fassung 2007, Anhang D, Tabellen D.1 bis D.3 gelten für Stahlwerkslagerschlacken die BTL SWLS-StB, Ausgabe 2018, Abschnitt 3.2.
+
+Hiermit werden die Brandenburgischen Technischen Lieferbedingungen für Stahlwerkslagerschlacken im Straßenbau, Ausgabe 2018 (BTL SWLS-StB) für die im Zuständigkeitsbereich des Landes Brandenburg liegenden Bundesfernstraßen und Landesstraßen sowie für die im Zuständigkeitsbereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen eingeführt.
+
+Die BTL SWLS-StB, Ausgabe 2018 ersetzen die Brandenburgischen Technischen Lieferbedingungen für Stahlwerkslagerschlacken im Straßenbau, Ausgabe 2008 (BTL SWLS-StB).
+
+Der folgende Runderlass wird aufgehoben:
+
+Runderlass des Ministeriums für Infrastruktur und Raumordnung, Abteilung 4, Nr. 21/2008 - Verkehr vom 30. Oktober 2008 (ABl. S. 2493), der durch den Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4, Nr. 24/2013 - Verkehr vom 22. Oktober 2013 (ABl. S. 2887) geändert worden ist.
+
+Die Veröffentlichung des Regelwerkes erfolgt im Internet unter www.ls.brandenburg.de.
