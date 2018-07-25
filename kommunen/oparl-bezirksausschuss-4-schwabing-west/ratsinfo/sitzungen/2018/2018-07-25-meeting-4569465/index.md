@@ -1,0 +1,123 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569465
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569465
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.1.1.: entfällt: Baum fällt nicht unter die BaumschutzVO und kann ohne Genehmigung gefällt werden
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Marli Bossert Stiftung e.V. Projekt "eigenleben.jetzt: Lesezimmer und Schreibstube" vom 27. - 29.07.2018 2.750,00 € Az. 0262.0-4-0212
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative Stiftzwerge e.V. Anschaffung eines Planschbeckens 149,95 € AZ: 0262.0-4-0213
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Verein für Internationale Jugendarbeit, Ortsverein München e.V. Projekt "MigrantInnen als MultiplikatorInnen" von Juli bis Dezember 2018 2.618,50 € Az. 0262.0-4-0210
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Sozialpsychiatrischer Dienst Schwabing des Caritasverbandes München und Freising e.V. Jubiläumsfeier am 07.11.2018 2.700,00 € Az. 0262.0-4-0214
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Planungen für den Schulstandort Scheidplatz (Antwort des Referats für Bildung und Sport auf BA-Anfrage vom 22.03.2018)
+- TOP 3.1.2.: Zukunft der Aton-Schule (Antwort des Kommunalreferats auf BA-Schreiben vom 26.04.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Änderungsbescheid Condrobs e.V.
+- TOP 3.2.2.: Bewilligungsbescheid Stiftzwerge
+- TOP 3.2.3.: Bewilligungsbescheid ClubIN „Multiplikatorenprojekt“
+- TOP 3.2.4.: Bewilligungsbescheid 40 Jahre Sozialpsychiatrischer Dienst
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Aktualisierung der Liste und Karte mit Standorten für Flüchtlinge und Wohnungslose
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 62 „Pia Antonia“: Aufstellen einer Kleiderstange
+- TOP 2.2.1.: (E) Budget der Bezirksausschüsse Isarlust e.V. Projekt "Play Me, I&#039;m Yours" im Herbst 2018 3.000,00 Euro Az.: 0262.0-4-0207
+- TOP 2.3.1.: Benefiz-Flohmärkte auf dem Elisabethplatz (28.07., 18.08. und 22.09.2018)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Wiederstandskämpfer: Geänderter Text für Josef Ackermann (Antwort des Kommunalreferats auf BA-Schreiben vom 01.02.2018)
+- TOP 3.1.2.: Anwohnerbeschwerden über nächtliche Lärmbelästigung durch „Der Akademiker“, Clemensstr. 118 (Antwort der Bezirksinspektion Nord auf BA-Schreiben vom 17.05.2018)
+- TOP 3.1.3.: Genehmigung für Liegestühle auf der Grünfläche vor dem Nordbad (Antwort der Bezirksinspektion Nord auf BA-Schreiben vom 28.06.2018)
+- TOP 3.1.4.: Anwohnerbeschwerden über Lärmbelästigung durch Veranstaltungen im Olympiapark (Antwort der Olympiapark GmbH auf BA-Schreiben vom 28.06.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Kabarett in der Pfennigparade: Bewilligter Zuschuss wird nicht benötigt
+- TOP 3.2.2.: Bewilligungsbescheid Isarlust e.V. „Play me, I&#039;m yours
+- TOP 3.3.1.: „Galileo – Leihrad-Check“ am 22.06.2018 im Luitpoldpark
+- TOP 3.3.2.: „Die versteckte Kamera 2018“ am 04.07.2018 im Luitpoldpark
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Lebenslust“, Erich-Kästner-Str. 14
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 1.1.: Grüne: Gebäudebegrünung und Entsiegelung in Schwabing-West
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Emanuelstr. 18 – Tektur: Energetische Sanierung eines Studentenwohnheims mit Umbaumaßnahmen und Erweiterung im 4. OG und TG, Abbruch des Dachstuhls und Aufstockung eines 5. u. 6. OG, Errichtung einer Notleiteranlage
+- TOP 2.1.2.: Ansprengerstraße: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.3.: Belgradstr. 74: Erweiterung der Verkaufsfläche eines Supermarktes um die Fläche eines Cafés
+- TOP 2.1.4.: Belgradstr. 5: DG-Ausbau, Anbau einer Fluchttreppe, Einbau einer Verbndungstreppe zw. Wohnung im 2. und 3. OG (Zuammenlegung), Nutzungsänderung im 2. OG: Büro zu psychologischer Praxis
+- TOP 2.1.5.: Kathi-Kobus-Str. 9-11: Nutzungsänderungen mit baulichen Maßnahmen im 1. OG: Fabrikation zu Büro sowie Personal zu Wohnen; KG: Packraum zu Lager sowie Tank- zu Abstellraum; Errichtung eines Nebengebäudes mit Flucht- und Rettungsweg für die Tiefgarage (mit nachgereichtem Plan für das 1. OG)
+- TOP 2.1.6.: Erich-Kästner-Str. 11: Errichtung eines Außenaufzugs und neuer Balkonanlagen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Bauvorhaben Belgradstr. 109 (Antwort der LBK auf BA-Anfrage vom 28.06.2018)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 3.2.2.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 3.2.3.: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 3.2.4.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 3.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.6.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 3.2.7.: (U) Aufstellung und (Teil-) Änderung von Bebauungsplänen im Rahmen der Schulbauoffensive (SBO) 2013 - 2030 - Finanzierungsbedarf -
+- TOP 3.2.8.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 3.2.9.: (U) Atlas Wirtschaftsstandort München
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Gefährdung von Kindern und Radfahrern am Bonner Platz
+- TOP 1.2.: Bürger: Rücksichtslose Radfahrer auf Gehwegen
+- TOP 1.3.: Bürger: Blumenwagen auf dem Hohenzollernplatz
+- TOP 1.4.: Bürger: Buslinie 59
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.2.: Elisabethstr. 15-19: Fällung zweier Pappeln
+- TOP 2.1.3.: Schleißheimer Str. 229: Fällung zweier Fichten
+- TOP 2.1.4.: Destouchesstr. 40: Fällung einer Fichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Parksituation Elisabeth-Kohn-Straße – Zeitlich befristetes Haltverbot vor der Kindervilla Drei Eichen (Antwort des KVR auf BA-Schreiben vom 26.04.2018)
+- TOP 3.1.2.: Taubenplage in Schwabing-West (Antwort des Referates für Gesundheit und Umwelt auf BA-Schreiben vom 17.05.2018)
+- TOP 3.1.3.: Anbringen des Hinweisschildes „Achtung Kinder“ vor dem Kinderhaus St. Markus in der Hiltenspergerstr. 55 (Antwort des KVR auf BA-Schreiben vom 26.04.2018)
+- TOP 3.1.4.: Zusätzliche Fahrradständer im Bereich des Kinderkunsthauses Römerstr. 21 (Ergebnis des Ortstermins vom 02.07.2018)
+- TOP 3.1.5.: Absterbende Kastanie Fallmerayerstr. 7; Kirschbaum Herzogstr. 93; Ungenehmigte Baumveränderung auf dem Grundstück Fallmerayerstr. 22 (Antworten der Unteren Naturschutzbehörde auf BA-Schreiben vom 28.06.2018)
+- TOP 3.1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.1.: Bevorstehende Entfernung eines Gefahrenbaums in der Infanteriestr. 19
+- TOP 3.3.1.: Haltverbote in der Therese-Studer-Straße
+- TOP 3.3.2.: Anfahrtszone vor der Post Saarstr. 7
+- TOP 3.3.3.: Fahrbahnsanierung im Kreuzungsbereich Georgen-/Isabellastraße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Radschutzstreifen in der Franz-Joseph-Straße (Antwort des Baureferats auf Nachfrage des BA 12 zur Zeitplanung)
+- TOP 3.4.2.: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP 3.4.3.: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: BA-Sitzungstermine 2019 (vertagt aus 06/2018)
+- TOP G: Verschiedenes
+- TOP H: Termine
