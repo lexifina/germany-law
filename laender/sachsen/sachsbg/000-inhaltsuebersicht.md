@@ -162,6 +162,7 @@ Unterabschnitt 2 Andere Beamtengruppen
 § 141 Beamte des Landesamtes für Verfassungsschutz
 § 142 Beamte der Laufbahnen der Fachrichtung Agrar- und Forstverwaltung
 § 143 Beamte des Justizvollzugsdienstes und des Justizwachtmeisterdienstes in der Fachrichtung Justiz
+§ 143a Beamte der Fachrichtung Allgemeine Verwaltung im Vollzugsdienst einer Abschiebungshaft- und Ausreisegewahrsamseinrichtung
 § 144 Beamte der Laufbahnen der Fachrichtung Feuerwehr
 Abschnitt 11 Kommunale Wahlbeamte
 § 145 Anwendungsbereich
