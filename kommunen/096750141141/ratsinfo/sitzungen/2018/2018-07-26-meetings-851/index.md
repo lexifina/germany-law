@@ -1,0 +1,52 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2018-07-26T18:15:00+02:00
+- Ende: 2018-07-26T00:00:00+02:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/851
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/851
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00035499.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00037604.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung der öffentlichen Niederschrift des Stadtrates vom 12.06.18 - beschlossen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Auftragsvergaben
+- TOP 3.1: Neubau einer Zweifeldschulsporthalle mit offenem Ganztagsbereich und einer Parkgarage - abgesetzt
+- TOP 3.2: Notwohngebiet - beschlossen
+- TOP 3.3: Umbau und Erweiterung Grund- und Mittelschule Kitzingen Siedlung, 2. Bauabschnitt, Sporthalle - beschlossen
+- TOP 4: Notwohngebiet Kitzingen; hier: städtischer Zuschuss für die Sofortmaßnahme "Soziale Betreuung" - beschlossen
+- TOP 5: Grund- und Mittelschule Kitzingen-Siedlung - beschlossen
+- TOP 6: Zuschuss zum Neubau mit Erweiterung um zwei Kinderkrippengruppen des Kindergartens St. Johannes in der Glauberstraße 30 - beschlossen
+- TOP 7: Florian-Geyer-Halle - zurückgestellt
+- TOP 8: Bebauungsplan Nr. 32 "Schwarzacher Straße Ost"; hier 5. Änderung bzw. Erweiterung mit Änderung des Flächennutzungsplans für diesen Bereich - beschlossen
+- TOP 9: Aufhebung des Grundsatzbeschlusses v. 24.10.2017 zum Verkauf des Wohngebäudes "Alte Poststraße 30" - beschlossen
+- TOP 10: Budgetübertrag
+- TOP 10.1: Budgetabrechnung 2017; - Ohne Abstimmung
+- TOP 10.2: Budgetabrechnung für das Haushaltsjahr 2017; Budget Verkehrsüberwachung - UA 1122, UA 6815 - Ohne Abstimmung
+- TOP 10.3: Budgetabrechnung für das Haushaltsjahr 2017; Budget "Schulischer Sachaufwand" für die D.-Paul-Eber-Mittelschule - UA 2121 - Ohne Abstimmung
+- TOP 10.4: Budgetabrechnung für HHJ.2017, Budget Alte Synagoge - UA 3009 - Ohne Abstimmung
+- TOP 10.5: Städt. Museum Kitzingen; Budgetabrechnung 2017 - Ohne Abstimmung
+- TOP 10.6: Budgetübertrag von 2017, UA 3400, Heimat- und Kulturpflege - beschlossen
+- TOP 10.7: Budgetabrechnung für HHJ.2017, Budget Volkshochschule - UA 3501 - Ohne Abstimmung
+- TOP 10.8: Budgetabrechnung für das Haushaltsjahr 2017; Gesamtbudget "Sportanlagen" - UA 2141, 5601, 5602, 5603, 5651, 5652 - Ohne Abstimmung
+- TOP 10.9: Budgetabrechnung für das Haushaltsjahr 2017; Budget Gärtnerei - UA 5821 - Ohne Abstimmung
+- TOP 10.10: Budgetabrechnung für das Haushaltsjahr 2017; Gesamtbudget "Straßen, Wege, Plätze" - beschlossen
+- TOP 10.11: Budgetabrechnung für das Haushaltsjahr 2017; Gesamtbudget "Abwasserbeseitigung" - Ohne Abstimmung
+- TOP 10.12: Budgetabrechnung 2017; - Ohne Abstimmung
+- TOP 10.13: Budgetabrechnung für das Haushaltsjahr 2017; Budget Bauhof - UA 7711 - Ohne Abstimmung
+- TOP 10.14: Budgetabrechnung für das Haushaltsjahr 2017 - Ohne Abstimmung
+- TOP 10.15: Budgetübertrag 2017, hier: Gesamtbudget Sonstige Öffentliche Einrichtungen - UA 7690, 7691, 7692, 7693 - beschlossen
+- TOP 10.16: Budgetabrechnung 2017; Budget "Städtischer Waldbesitz" - UA 8551 - Ohne Abstimmung
+- TOP 10.17: Budgetabrechnung 2017; Budget "Wohngrundstücke, sonstige bebaute Grundstücke" - UA 8801, UA 8802 - Ohne Abstimmung
+- TOP 10.18: Budgetabrechnung 2017; Budget "Sonstiges Allgemeines Grundvermögen" - UA 8891 - Ohne Abstimmung
+- TOP 11: Anträge von Fraktionen und Gruppen
+- TOP 11.1: Antrag der CSU-Fraktion vom 11.06.2018; - zurückgestellt
+- TOP 12: Berichtswesen
+- TOP 13: Sonstiges
+- TOP 13.1: Anfrage von Stadträtin Dr. Endres-Paul LKW-Parksituation am Schotterparkplatz
