@@ -1,5 +1,6 @@
 # Bekanntmachung der Neufassung des Landesjugendhilfegesetzes
 Vom 4. September 2008
+Rechtsbereinigt mit Stand vom 26. Juli 2018
 Auf Grund von Artikel 79 Abs. 1 des Gesetzes zur Neuordnung der Sächsischen Verwaltung vom 29. Januar 2008 (SächsGVBl. S. 138, 194) wird nachstehend der Wortlaut des Landesjugendhilfegesetzes in der seit 1. August 2008 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
 1. den am 13. März 1992 in Kraft getretenen Artikel 1 des Gesetzes vom 4. März 1992 (SächsGVBl. S. 61),
 2. den am 1. September 1993 in Kraft getretenen Artikel 3 des Gesetzes vom 19. August 1993 (SächsGVBl. S. 686),
