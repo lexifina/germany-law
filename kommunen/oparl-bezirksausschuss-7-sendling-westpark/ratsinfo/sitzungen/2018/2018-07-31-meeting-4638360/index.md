@@ -1,0 +1,167 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-07-31T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638360
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638360
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 7.7.1: (E) Lärmschutz durch Radarmessanlagen an der B2 (A95) und Tempo 50 stadtauswärts
+- TOP 7.7.2: (E) Zweirichtungsverkehr auf dem Radweg der Westendstraße (Ostseite)
+- TOP 9.9.1: (E) Budget der Bezirksausschüsse Baugenossenschaft Kriegersiedlung eG Sommerfest am 13.07.2018 440,00 € Az. 0262.0-7-0207
+- TOP 10.10.1: Erhalt der Gaststätte "Krüner Stüber&#039;l, Fernpaß- / Hinterbärenbad Straße
+- TOP 10.10.2: Einfahrt von der Lindauer Autobahn in die Garmischer Straße Richtung Süden: Geschwindigkeitsbeschilderung
+- TOP 15.15.1: Sommerfest der CSU am Luise-Kisselbach-Platz
+- TOP 15.15.2: Green Dinner Klaiser Weg
+- TOP 16.16.1: Tanznachmittag Westpark Seebühne
+- TOP 16.16.2: Mallorca meets Munich – Veranstaltung Gaststätte Rosengarten
+- TOP 16.16.3: Khao Phansa mit Prozession, Asiaensemble
+- TOP 17.: Baureferat
+- TOP 17.17.1: Ehrwalder Str. 37-57, Ehrwalder Str. 86 – Hans-Koch-Weg; Radwegsanierung
+- TOP 17.17.2: Werdenfelsstr. 1 – 11; Fahrbahnsanierung
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 19.19.1: Budgetantrag Feierwerk e.V. - Nutzung der Räume des ASZ-Westpark; Verlängerung des Zuteilungszeitraums
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 21.21.1: Bären-Apotheke, Hinterbärenbadstr. 20a; Antrag für Sitzgelegenheiten
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 24.24.1: Busspur in der Fürstenrieder Straße zwischen Waldfriedhofstraße und Lindauer Autobahn (BAB 96) - Antrag 4930 vom 27.03.18 – Fristverlängerung
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 27.27.1: Überprüfung und Erlass einer Erhaltungssatzung „Am Harras / Passauer Str.“
+- TOP 28.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Unterrichtung über die Fällung von Gefahrenbäumen
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Technikpauschale für die Mitglieder der Bezirksausschüsse
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Filmaufnahmen "Die versteckte Kamera 2018"
+- TOP 35.35.2: Filmaufnahmen „Moderatorin grillt mit einer Soziologin“
+- TOP 35.35.3: Gaststättenfortführung
+- TOP 35.35.4: Albert-Roßhaupter-Straße; Hotelanfahrt
+- TOP 35.35.5: Partnachplatz / Zillertalstraße; Richtungsgebot
+- TOP 35.35.6: Verkürzung der Einbahnregelung Cimbernstraße
+- TOP 35.35.7: Innerkoflerstr. 38; Aufhebung personenbezogener Behindertenparkplatz
+- TOP 35.35.8: Haltverbot Rudolf-Camerer-Straße
+- TOP 35.35.9: Baustelleneinrichtung Hammersbacher Straße 14
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 37.37.2: Abgeschlossenheitsbescheinigungen
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Aufbau eines Ladesäulensystems für E-Fahrzeuge
+- TOP 38.38.2: Leistungsprogramm MVG SV 14-20 / V 12021
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: MTV-München von 1879 e.V.; bauliche Umsetzung eines Brandschutzgutachtens
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.40.1: Lärmmessung im Umfeld des Luise-Kiesselbach-Platzes – BV-Empfehlung Nr. 1255 vom 10.11.2016; Vollzug des BA-Beschlusses
+- TOP 40.40.2: (E) Lärmschutzwand A 95 / B 2 Lärmschutzwand A 95 Empfehlung Nr. 14-20 / E 01740 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 10.10.2017 Lärm-Trennwand an der Ausfahrt A95 vom Luise-Kiesselbach-Platz kommend Empfehlung Nr. 14-20 / E 01742 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 10.10.2017
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Unterrichtung über Baumfällanträge
+- TOP 41.41.2: Bescheid Bauvorhaben Hinterbärenbadstraße 2
+- TOP 41.41.3: (U) Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2017b Bauernbräuweg (südlich) Bahnlinie München-Lenggries (westlich) Distlhofweg (östlich) (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 2017a) - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 7 Sendling-Westpark
+- TOP 41.41.4: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 41.41.5: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 41.41.6: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 41.41.7: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 41.41.8: (U) Neues Förderprogramm ökologische Landwirtschaft in München Antrag Nr. 14-20 / A 03077 der Stadtratsfraktion Die Grünen – rosa liste vom 04.05.2017, eingegangen am 04.05.2017
+- TOP 41.41.9: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 41.41.10: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP 41.41.11: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 41.41.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.13: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 41.41.14: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 41.41.15: (U) Atlas Wirtschaftsstandort München
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Vorkaufsrechtsprüfungsverfahren
+- TOP 42.42.2: Ergebnisprotokoll Vernetzungstreffen AKIM am 20.06.2018
+- TOP 43.43.1: Baumaßnahme der SWM
+- TOP 43.43.2: SWM-Baumaßnahme Gilmstraße
+- TOP 44.44.1: Westparkgrillen
+- TOP 44.44.2: Tram Westtangente
+- TOP 44.44.3: Dankesbrief Islamische Gemeinschaft in München e.V.
+- TOP 44.44.4: Lautstärkeentwicklung einer Veranstaltung auf der Seebühne am 15.07.18
+- TOP 44.44.5: Verkehrssituation Ampel Passauer- / Konrad-Celtis-Straße
+- TOP 44.44.6: Einweihungsfeier Nachbarschaftstreff Badgasteiner Straße
+- TOP 45.: Baureferat
+- TOP 45.45.1: Fahrradabstellplätze an U-Bahnhöfen
+- TOP 45.45.2: Bauarbeiten am Spielplatz Adunipark
+- TOP 45.45.3: Bauzaun und Hundepoller am Luise-Kiesselbach-Platz
+- TOP 45.45.4: Sanierung des Froschteichs im Westpark-Ostteil
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 46.46.1: Austausch der BA-Vorsitzenden mit Frau Bürgermeisterin Strobl am 15.01.2019
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budgetbescheid Männer-Turn-Verein München von 1879 e.V.
+- TOP 47.47.2: Budgetbescheid Feierwerk e.V. Dschungelpalast Sommerferienprogramm
+- TOP 47.47.3: Budgetbescheid Feierwerk e.V. Dschungelpalast Sommerfest
+- TOP 47.47.4: Budgetbescheid Kleingartenverein München SW 12 e.V.
+- TOP 47.47.5: Budgetbescheid Elternbeirat der Grundschule Fernpaßstraße
+- TOP 47.47.6: Budgetbescheid Malteser Hilfsdienst e.V.
+- TOP 47.47.7: Budgetbescheid Kontrapunkt gGmbH
+- TOP 47.47.8: Budgetbescheid Morgen e.V.
+- TOP 47.47.9: Budgetbescheid Feierwerk e.V. - Raumnutzung ASZ
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Mallorca meets Munich Fest
+- TOP 49.49.2: VVB-Bescheid Vesakh Fest – Buddhas Geburtstag
+- TOP 49.49.3: VVB-Bescheid Sonntagsgefühl präsentiert den GaGaGarden
+- TOP 49.49.4: VVB-Bescheid Flohmarkt
+- TOP 49.49.5: VVB-Bescheid Church Day Out
+- TOP 49.49.6: VVB-Bescheid Jubiläumsprojekt der Bayerischen Staatsoper
+- TOP 49.49.7: VVB-Bescheid Circus Leopoldini
+- TOP 49.49.8: VVB-Bescheid 7. Achilles Hope & Possibility Run
+- TOP 49.49.9: VVB-Bescheid Sommerfest der Ägyptischen Gesellschaft in Bayern e.V.
+- TOP 49.49.10: VVB-Bescheid Straßenfest Partnachstraße
+- TOP 49.49.11: Busspur in der Fürstenrieder Straße zwischen Waldfriedhofstraße und Lindauer Autobahn (BAB 96)
+- TOP 49.49.12: Beschilderung LKW-Sperrkonzept im Umfeld Luise-Kisselbach-Platz und Murnauer Straße
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Anbringung von Ziel/Abfahrtsanzeigen an den Bushaltestellen Ortler- und Fuggerstraße
+- TOP 52.52.2: Geländerproviorium am U-Bahnaufgang Westendstraße endlich beheben
+- TOP 52.52.3: Informationsveranstaltung „Aufbau eines öffentlichen Ladesäulensystems für E-Fahrzeuge“ am 18.09.2018
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Schwimmbecken für den Bildungscampus
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Lärmbelästigung Bahnanlage Mittersendling
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Baut IKEA am Ratzingerplatz?
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Schulsozialarbeit an bayerischen Gymnasien
+- TOP 57.57.1: Polizei: Erfahrungen mit dem neuen Ordnungsdienst im Westpark
+- TOP 59.59.1: Feierwerk und MünchenTicket
