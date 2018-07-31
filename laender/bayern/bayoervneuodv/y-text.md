@@ -1,0 +1,1 @@
+Auf Grund von Art. 4 Satz 2, Art. 5 Abs. 1 Satz 2 und Art. 21 Abs. 1 Satz 4, Abs. 2 Satz 1 des Gesetzes zur Neuordnung der Rechtsverhältnisse der öffentlich-rechtlichen Versicherungsanstalten des Freistaates Bayern vom 23. Juli 1994 (GVBl S. 603, BayRS 763-15-I) erläßt die Bayerische Staatsregierung folgende Verordnung:
