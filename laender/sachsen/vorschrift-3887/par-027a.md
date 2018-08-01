@@ -1,0 +1,3 @@
+# § 27a Täuschungen
+(1) Werden bei Leistungsnachweisen unerlaubte Hilfsmittel benutzt oder wird auf andere Weise getäuscht oder der Versuch einer Täuschung unternommen, kann der Lehrer eine Wiederholung des Leistungsnachweises anordnen, ab der Klassenstufe 3 die Benotung herabsetzen oder in einem schweren Fall ab der Klassenstufe 4 die Note „ungenügend“ erteilen.
+(2) Wird die Benotung herabgesetzt oder die Note „ungenügend“ erteilt, ist dies den Eltern mit einer kurzen Begründung schriftlich mitzuteilen. Diese Noten sind wie andere Leistungsnachweise bei der Notengebung in der Halbjahresinformation oder im Jahreszeugnis zu berücksichtigen.
