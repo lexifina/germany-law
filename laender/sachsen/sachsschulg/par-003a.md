@@ -1,0 +1,6 @@
+# § 3a Qualitätssicherung
+(1) In Verwirklichung ihres Erziehungs- und Bildungsauftrages entwickelt jede Schule ihr eigenes pädagogisches Konzept. Sie plant und gestaltet den Unterricht sowie andere schulische Veranstaltungen auf der Grundlage der Lehrpläne in eigener Verantwortung. Die pädagogischen, didaktischen und schulorganisatorischen Grundsätze zur Erfüllung des Erziehungs- und Bildungsauftrages im Rahmen der zur Verfügung stehenden Ressourcen legt die Schule in einem Schulprogramm fest.
+(2) Die Schulen und die Schulaufsichtsbehörden haben die gemeinsame Aufgabe, die Qualität schulischer Arbeit zu sichern und zu verbessern. Sie sind dazu verpflichtet, die Schulqualität mittels interner und externer Evaluationen, Untersuchungen zu Schülerleistungen und weiteren Maßnahmen regelmäßig zu überprüfen und an dem Ziel der Umsetzung des Erziehungs- und Bildungsauftrags auszurichten.
+(3) Wesentliche Bezugspunkte zur Überprüfung der pädagogischen Arbeit sind das Schulprogramm der Schule, die Lehrpläne und die ländergemeinsamen Bildungsstandards.
+(4) Die Schule informiert die Öffentlichkeit über das Schulprogramm und die pädagogische Arbeit an der Schule.
+(5) Die oberste Schulaufsichtsbehörde kann externe Evaluationen und Untersuchungen zu Schülerleistungen anordnen sowie die Auswahl der teilnehmenden Schulen auf die Schulaufsichtsbehörde übertragen.

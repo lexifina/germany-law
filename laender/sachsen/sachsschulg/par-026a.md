@@ -9,10 +9,15 @@
 6. der Ernährungszustand;
 7. der Haltungs- und Bewegungsapparat und
 8. Hinweise auf psychosoziale Auffälligkeiten und auf ansteckende oder chronische Krankheiten.
-(3) Den Eltern obliegt es, die erforderlichen Auskünfte zu geben. Das Ergebnis der Untersuchungen ist nur den Eltern mitzuteilen. Die Behörden des öffentlichen Gesundheitsdienstes informieren die Schule über die notwendigen schulischen Maßnahmen.
-(4) Alle schulpflichtigen und die von den Eltern gemäß § 27 Abs. 2 angemeldeten Kinder sind verpflichtet, sich einer Schulaufnahmeuntersuchung zu unterziehen. Die Anwesenheit eines Elternteils bei der Schulaufnahmeuntersuchung ist erforderlich.
-(5) Weitere Untersuchungen werden in der Klassenstufe 2 oder 3 und in der Klassenstufe 6 durchgeführt. In den Förderschulen können zusätzliche Untersuchungen durchgeführt werden. Die Schüler sind verpflichtet, sich den Untersuchungen zu unterziehen. Bei den Untersuchungen können die Eltern anwesend sein.
-(6) Die Eltern können die Untersuchungen gemäß Absatz 5 Satz 1 durch einen Kinder- oder Hausarzt durchführen lassen. Die Untersuchung muss den Vorgaben für die Untersuchungen durch den öffentlichen Gesundheitsdienst entsprechen. Die Eltern legen dem Schulleiter eine ärztliche Bescheinigung über die Durchführung der Untersuchungen vor.
+(3) Untersuchungen sind
+1. die Schulaufnahmeuntersuchung für alle schulpflichtigen und die von den Eltern gemäß § 27 Absatz 2 angemeldeten Kinder,
+2. die allgemeine Schuluntersuchung in der Klassenstufe 6,
+3. zusätzliche allgemeine Schuluntersuchungen an den Förderschulen,
+4. die Vorstellung beim Kinder- und Jugendärztlichen Dienst für minderjährige Schüler in allen Klassen- und Jahrgangsstufen auf Wunsch der Eltern oder auf Veranlassung der Schule mit Einwilligung der Eltern und
+5. die Wiedervorstellung, die vom öffentlichen Gesundheitsdienst nach ärztlichem Ermessen angeboten werden kann.
+(4) Die Kinder und Jugendlichen sind verpflichtet, sich den Untersuchungen nach Absatz 3 Nummer 1 bis 3 zu unterziehen. Die Eltern können anwesend sein. Bei der Schulaufnahmeuntersuchung ist die Anwesenheit eines Elternteils erforderlich. Den Eltern obliegt es, die erforderlichen Auskünfte zu geben. Das Ergebnis der Untersuchungen ist nur den Eltern mitzuteilen. Die Behörden des öffentlichen Gesundheitsdienstes informieren den Schulleiter über die notwendigen schulischen Maßnahmen und geben die erforderlichen allgemeinen Hinweise, soweit aus den Ergebnissen der Untersuchungen Folgerungen für die Schule zu ziehen sind.
+(5) Die Eltern können die Untersuchungen gemäß Absatz 3 Nummer 2 bis 5 durch einen Kinder- oder Hausarzt durchführen lassen. Die Untersuchung muss den Vorgaben für die Untersuchungen durch den öffentlichen Gesundheitsdienst entsprechen. Die Eltern legen dem Schulleiter eine ärztliche Bescheinigung über die Durchführung der Untersuchungen vor.
+(6) Die Eltern sind verpflichtet, gesundheitliche Beeinträchtigungen des Schülers, die sich im Schulbetrieb auswirken können, der Schule mitzuteilen.
 (7) Die oberste Schulaufsichtsbehörde wird ermächtigt, im Einvernehmen mit dem Staatsministerium für Soziales und Verbraucherschutz durch Rechtsverordnung Inhalt, Umfang, Verfahren, Zuständigkeit und Durchführung der Schulgesundheitspflege zu regeln.
-(8) Das Staatsministerium für Kultus wird ermächtigt, im Einvernehmen mit dem Staatsministerium für Soziales durch Rechtsverordnung Inhalt, Umfang, Verfahren, Zuständigkeit und Durchführung der Schulgesundheitspflege zu regeln.
-(9) Durch die Maßnahmen der Schulgesundheitspflege aufgrund dieses Gesetzes kann das Recht auf informationelle Selbstbestimmung (Artikel 2 Abs. 1 in Verbindung mit Artikel 1 Abs. 1 des Grundgesetzes für die Bundesrepublik Deutschland, Artikel 33 der Verfassung des Freistaates Sachsen) eingeschränkt werden.
+(8) Die Absätze 1, 2, 3 Nummer 1 sowie Absätze 4, 6 und 7 gelten für Schulen in freier Trägerschaft und ihre Schüler entsprechend. Die Behörden des öffentlichen Gesundheitsdienstes können Untersuchungen gemäß Absatz 3 Nummer 2 bis 5 für Schüler an Schulen in freier Trägerschaft anbieten; Absatz 4 Satz 1 gilt für diese Untersuchungen nicht.
+(9) Angehörige des sorbischen Volkes haben das Recht, die Untersuchung in sorbischer Sprache wahrzunehmen.

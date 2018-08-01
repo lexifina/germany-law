@@ -1,12 +1,17 @@
+## Schulgesetz für den Freistaat Sachsen (Sächsisches Schulgesetz – SächsSchulG)
 # Inhaltsübersicht
 1. Teil Allgemeine Vorschriften
 1. Abschnitt Erziehungs- und Bildungsauftrag, Geltungsbereich
 § 1 Erziehungs- und Bildungsauftrag der Schule
 § 2 Sorbische Kultur und Sprache an der Schule
 § 3 Geltungsbereich
+§ 3a Qualitätssicherung
+§ 3b Eigenverantwortung
 2. Abschnitt Gliederung des Schulwesens
 § 4 Schularten und Schulstufen
-§ 4a Mindestschülerzahl, Klassenobergrenze, Zügigkeit, Schulweg
+§ 4a Mindestschülerzahl, Klassenobergrenze, Zügigkeit
+§ 4b Schulstandorte im ländlichen Raum
+§ 4c Sonderpädagogischer Förderbedarf
 § 5 Grundschule
 § 6 Oberschule
 § 7 Gymnasium
@@ -15,8 +20,7 @@
 § 10 Fachschule
 § 11 Fachoberschule
 § 12 Berufliches Gymnasium
-§ 13 Allgemein bildende Förderschulen
-§ 13a Berufsbildende Förderschulen
+§ 13 Förderschulen
 § 14 Schulen des zweiten Bildungsweges
 § 15 Schulversuche
 § 16 Betreuungsangebote
@@ -29,7 +33,7 @@
 2. Teil Schulträgerschaft
 § 21 Grundsätze
 § 22 Schulträger
-§ 23 Aufgaben des Schulträgers
+§ 23 Aufgaben des Schulträgers, Schülerbeförderung
 § 23a Schulnetzplanung
 § 24 Einrichtung, Änderung und Aufhebung von Schulen
 § 25 Schulbezirk und Einzugsbereich
@@ -39,7 +43,7 @@
 § 27 Beginn der Schulpflicht
 § 28 Dauer und Ende der Schulpflicht
 § 29 Ruhen der Schulpflicht
-§ 30 Besuch von Förderschulen
+§ 30 (weggefallen)
 § 31 Verantwortung für die Erfüllung der Schulpflicht
 4. Teil Schulverhältnis
 § 32 Rechtsstellung der Schule
@@ -51,7 +55,8 @@
 § 36 Familien- und Sexualerziehung
 § 37 (weggefallen)
 § 38 Schulgeld- und Lernmittelfreiheit
-§ 38a Unterstützungsangebote bei auswärtiger Unterbringung
+§ 38a Unterstützungsangebote bei außerhäuslicher Unterbringung
+§ 38b E-Learning
 § 39 Erziehungs- und Ordnungsmaßnahmen
 5. Teil Lehrer, Schulleiter
 § 40 Personalhoheit, Lehrer
@@ -80,16 +85,15 @@
 7. Teil Schulaufsicht
 § 58 Inhalt der Schulaufsicht
 § 59 Schulaufsichtsbehörden
-§ 59a Evaluation
 § 60 Zulassung von Lehr- und Lernmitteln
 § 61 Ordnungswidrigkeiten
 § 62 Schul- und Prüfungsordnungen
 8. Teil Landesbildungsrat
 § 63 Landesbildungsrat
+9. Teil Schlussbestimmungen
 § 63a Schuldatenschutz
 § 63b Statistik
 § 63c Einschränkung von Grundrechten
 § 63d Schulen besonderer Art
-9. Teil Schlussbestimmungen
 § 64 Übergangsvorschrift
-§ 65 In-Kraft-Treten
+§ 65 Inkrafttreten

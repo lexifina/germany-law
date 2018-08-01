@@ -1,0 +1,2 @@
+# § 38b E-Learning
+An allen Schularten können Schüler bei Vorlage eines von der Schulkonferenz beschlossenen pädagogischen Konzeptes innerhalb und außerhalb der Schule zeitweilig über elektronische Medien und mittels Lern- und Kommunikationsplattformen unterrichtet werden (E-Learning). E-Learning kann insbesondere zur Unterrichtung längerfristig erkrankter Schüler, von Schülern, die selbst oder mit ihren Eltern beruflich reisen, zur Förderung individueller besonderer Begabungen und zur Förderung von Schülern mit sonderpädagogischem Förderbedarf genutzt werden.
