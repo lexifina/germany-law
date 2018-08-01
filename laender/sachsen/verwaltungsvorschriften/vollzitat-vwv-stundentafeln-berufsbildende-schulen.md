@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-06-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.2
+- Datum: 2018-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-08.06.2018
+01.08.2018
 bis
-31.07.2018
+06.06.2019
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -106,7 +106,7 @@ Die für ein Betriebspraktikum, eine berufspraktische Ausbildung oder den fachpr
 Evangelische Religion, Katholische Religion und Ethik
 
 
-Sind in den Stundentafeln die Fächer Evangelische Religion, Katholische Religion oder Ethik ausgewiesen und kann der Unterricht an der Schule nicht angeboten werden, soll anstelle dieser Fächer an der Berufsschule und Berufsfachschule im gleichen Umfang Unterricht in einem anderen Fach, vorzugsweise in einem gesellschaftswissenschaftlichen, erteilt werden. Satz 1 gilt ab dem 1. August 2018 für die Fachschule entsprechend.
+Sind in den Stundentafeln die Fächer Evangelische Religion, Katholische Religion oder Ethik ausgewiesen und kann der Unterricht an der Schule nicht angeboten werden, soll anstelle dieser Fächer an der Berufsschule, Berufsfachschule und Fachschule im gleichen Umfang Unterricht in einem anderen Fach, vorzugsweise in einem gesellschaftswissenschaftlichen, erteilt werden.
 
 
 II.
@@ -391,6 +391,9 @@ C.3
 
 Fachbereich Sozialwesen, Fachrichtung Sozialpädagogik
 
+C.3a
+
+Fachbereich Sozialwesen, Fachrichtung Sozialäpdagogik, verkürzte Ausbildung
 
 C.4
 
@@ -611,7 +614,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Informations- und Kommunika
 
 E.6
 
-Schulversuch DUBAS – 1. bis 4. Ausbildungsjahr, Fachrichtung Informations- und Kommunikationstechnologie
+Doppelqualifizierter Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Informations- und Kommunikationstechnologie
 
 
 E.7
@@ -621,7 +624,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Technikwissenschaft
 
 E.8
 
-Schulversuch DUBAS – 1. bis 4. Ausbildungsjahr, Fachrichtung Technikwissenschaft
+Doppelqualifizierter Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Technikwissenschaft
 
 
 E.9
@@ -631,7 +634,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Wirtschaftswissenschaft
 
 E.10
 
-Schulversuch DUBAS – 1. bis 4. Ausbildungsjahr, Fachrichtung Wirtschaftswissenschaft
+Doppelqualifizierter Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Wirtschaftswissenschaft
 
 
 E.11
@@ -642,7 +645,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Wirtschaftswissenschaft, Zu
 F)
 
 
-Auslaufende Stundentafeln
+Auslaufende Stundentafeln (Schulart Fachschule)
 
 
 F.1
@@ -818,9 +821,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  8. Juni 2018
+Fassung gültig ab:  1. August 2018
 
-Fassung gültig bis: 31. Juli 2018
+Fassung gültig bis:  6. Juni 2019
 
 Drucken/Speichern
 
@@ -847,7 +850,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.2
+https://www.revosax.sachsen.de/vorschrift/17348.3
 Stand vom
 18.11.2026
 
