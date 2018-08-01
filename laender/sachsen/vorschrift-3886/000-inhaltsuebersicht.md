@@ -6,29 +6,31 @@ Abschnitt 2 Schuleingangsphase und Schulwechsel
 § 3 Anmeldung
 § 4 Aufnahme und Zurückstellung
 § 5 Schuleingangsphase
-§ 6 Schulwechsel und Bildungsberatung
+§ 6 Bildungsberatung
+§ 7 Feststellung des sonderpädagogischen Förderbedarfs
+§ 8 Schulwechsel
 Abschnitt 3 Unterrichtsorganisation
-§ 7 Klassen- und Gruppenbildung
-§ 8 Unterrichtszeit
-§ 9 Schuljahr, Ferien, unterrichtsfreie Tage
-§ 10 Aufsicht
+§ 9 Klassen- und Gruppenbildung
+§ 10 Unterrichtszeit
+§ 11 Schuljahr, Ferien, unterrichtsfreie Tage
+§ 12 Aufsicht
 Abschnitt 4 Unterricht
-§ 11 Pflichtunterricht
-§ 12 Zusätzliche schulische Veranstaltungen
-§ 13 Förderunterricht
-§ 13a LRS-Klassen
+§ 13 Pflichtunterricht, zusätzliche schulische Veranstaltungen
+§ 14 Individuelle Förderung
+§ 15 LRS-Klassen
+§ 16 Inklusiver Unterricht
 Abschnitt 5 Ermittlung und Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 14 Grundlagen der Leistungsbewertung
-§ 15 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
-§ 16 Klassenarbeiten, Kurzkontrollen und Komplexe Leistungen
-§ 17 Hausaufgaben
-§ 18 Täuschungen
-§ 19 Halbjahresinformationen
-§ 20 Jahreszeugnisse
-§ 21 Bildungsempfehlung
+§ 17 Grundlagen der Leistungsbewertung
+§ 18 Bewertung von Leistungen, Betragen, Fleiß, Mitarbeit und Ordnung
+§ 19 Klassenarbeiten, Kurzkontrollen und Komplexe Leistungen
+§ 20 Hausaufgaben
+§ 21 Täuschungen
+§ 22 Halbjahresinformationen
+§ 23 Jahreszeugnisse
+§ 24 Bildungsempfehlung
 Abschnitt 6 Versetzung, Wiederholung
-§ 22 Versetzungsbestimmungen
-§ 23 Freiwillige Wiederholung einer Klassenstufe
-§ 24 Wechsel und Überspringen einer Klassenstufe
+§ 25 Versetzungsbestimmungen
+§ 26 Freiwillige Wiederholung einer Klassenstufe
+§ 27 Wechsel und Überspringen einer Klassenstufe
 Abschnitt 7 Schlussvorschrift
-§ 25 Inkrafttreten und Außerkrafttreten
+§ 28 Inkrafttreten und Außerkrafttreten
