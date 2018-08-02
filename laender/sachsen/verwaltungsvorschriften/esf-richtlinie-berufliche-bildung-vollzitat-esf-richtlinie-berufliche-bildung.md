@@ -1,8 +1,8 @@
 # ESF-Richtlinie Berufliche Bildung Vollzitat: ESF-Richtlinie Berufliche Bildung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-07-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17302.1
+- Datum: 2018-08-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17302.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.07.2017
+02.08.2018
 bis
-01.08.2018
+19.08.2021
 
 ESF-Richtlinie Berufliche Bildung
 
@@ -477,7 +477,7 @@ Angaben zu Art und Form der Nachweise sind der Internetseite der Bewilligungsste
 Abweichend von Nummer 6.1 der NBest-SF ist der Verwendungsnachweis zum Vorhabensende innerhalb von zwei Monaten nach Ende des Bewilligungszeitraums bei der Bewilligungsstelle einzureichen. Ein Zwischennachweis ist nicht vorzulegen.
 
 
-5.4
+5.5
 
 Abweichend von Nummer 5.2 der EFRE/ESF-Rahmenrichtlinie erfolgt die Aufbewahrung der Belege und Verträge sowie aller sonst mit der Förderung zusammenhängender Unterlagen durch die Bewilligungsstelle.
 
@@ -2617,9 +2617,9 @@ Fsn-Nr.: 559-V17.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Juli 2017
+Fassung gültig ab:  2. August 2018
 
-Fassung gültig bis:  1. August 2018
+Fassung gültig bis: 19. August 2021
 
 Drucken/Speichern
 
@@ -2644,7 +2644,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17302.1
+https://www.revosax.sachsen.de/vorschrift/17302.2
 Stand vom
 18.11.2026
 
