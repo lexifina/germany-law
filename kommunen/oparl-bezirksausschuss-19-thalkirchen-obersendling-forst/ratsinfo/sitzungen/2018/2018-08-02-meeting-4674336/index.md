@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-08-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674336
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674336
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 03.07.2018
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: Terminplanung 2019
+- TOP 2.4.: Wochenmarktsituation im 19. Stadtbezirk
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Isarlust e.V. Play me, I&#039;m yours im Herbst 2018 3.000,00 € AZ: 0262.0-19-0219
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde München-Andreaskirche Weihnachtsoratorium am 09.12.2018 1.000,00 € AZ: 0262.0-19-0223
+- TOP 3.4.: (E) Budget der Bezirksausschüsse Evangelisches Pflegezentrum Sendling Projekt Trommeln und Rhythmik ab Mitte August 2018 1.926,00 € AZ: 0262.0-19-0224
+- TOP 3.5.: (E) Budget der Bezirksausschüsse Krankenhaus Martha-Maria Anschaffung und Installation eines öffentlichen Bücherschrankes 10.095,00 € 0262.0-19-0225
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Thalkirchner Burschen e.V. 4. Thalkirchner Sommerfest vom 27. - 29.07.2018 4.655,00 € Az. 0262.0-19-0222
+- TOP 3.7.: (E) Budget der Bezirksausschüsse Kath. öffentliche Bücherei St. Johann Baptist / Solln Anschaffung von Kinder- und Jugendbüchern 450,00 € Az: 0262.0-19-0226
+- TOP 3.8.: (E) Budget der Bezirksausschüsse TSV München Solln e.V. Einbau eines Basketballspielfeldes 9.463,71 € Az: 0262.0-19-0218
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Instandsetzung Hinterbrühler Mühlbach
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Errichtung einer Aufstellfläche am Fußgängerübergang Winterthurer Straße
+- TOP 5.1.2: Einrichtung zweier Behindertenparkplätze am Ärztezentrum Sparkasse Fürstenried Ost
+- TOP 5.1.3: Kurzparkzone im Dominik-Brunner-Weg
+- TOP 5.1.4: Ziffer 3: Verkehrssituation Forstenrieder Allee zwischen Züricher Straße und Stäblistraße
+- TOP 5.1.5: Sachstandsanfrage Verkehrsentwicklungsplan
+- TOP 5.1.6: Verkehrszählung Drygalskiallee vom 21.11.2017
+- TOP 5.1.7: Ausweitung Tempo 30 auf der Herterichstraße bis zur Sörgelstraße
+- TOP 5.2.: (Antrag) Verkehrssicherheit Thomas-Mann-Gymnasium
+- TOP 5.3.: (Antrag) Taktverdichtung Linie U3, Anbringung Sitzgelegenheiten U-Bahnstation Aidenbachstraße, Verlegung Buslinie 132 Züricher Straße
+- TOP 5.4.: (A) Einrichtung eines Behindertenparkplatzes: Forst-Kasten-Allee
+- TOP 5.5.: (E) Haltverbot in der Boschetsrieder Straße zw. Höglwörther Straße und Tankstelle
+- TOP 5.6.: (E) Spielstraße in der Rietschelstraße
+- TOP 5.7.: (Antrag) Errichtung Taxistand Drygalski-Allee
+- TOP 5.8.: (A) Einrichtung eines Behindertenparkplatzes: Drygalski-Allee
+- TOP 5.9.: (Antrag) Ausweichmöglichkeiten in der Ludwigshöher Straße
+- TOP 5.10.: (E) Instandhaltung von Radwegen sowie Verkehrssicherheit im Bereich der Aidenbachstraße Empfehlung Nr. 14-20 / E 01969 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Denkmaleigenschaft Zeppelinhalle, Hofmannstraße 43
+- TOP 6.4.: (A) Prüfung einer Erhaltungssatzung für Thalkirchen
+- TOP 6.5.: (U) Grundstücksgeschäft: Forstenried
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Keine Flächen für Stattpark OLGA im Siemens-Sportpark oder im Landschaftsschutzgebiet
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.1: KulturGeschichtsPfad für den 19. Stadtbezirk
+- TOP 8.1.2: Antrag zum Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 8.2.: (U) Gaststättenfortführung: Waakirchner Straße 33
+- TOP 8.3.: (A) Veranstaltung: After Work Grillen am 17.08.2018
+- TOP 8.4.: (U) Gaststättenfortführung: Herterichstr. 139
+- TOP 8.5.: (U) Gaststättenfortführung: Herterichstr. 8
