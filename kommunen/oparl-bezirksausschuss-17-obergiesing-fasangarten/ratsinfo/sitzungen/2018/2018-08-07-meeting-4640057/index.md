@@ -1,0 +1,127 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-08-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4640057
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4640057
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Migration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.1: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 3.9.1.1.: Perlacher Straße 10
+- TOP 3.9.1.2.: Untersbergstraße 14
+- TOP 3.9.1.3.: Kapellenfeldstraße 21
+- TOP 3.9.1.4.: Frasdorferstraße 12
+- TOP 3.9.1.5.: Schlierseestraße 55
+- TOP 3.9.1.6.: Martin-Luther-Straße 20
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Seniorenpflegeheim Casa Reha GmbH Mal-Studio für Senioren ab dem 01.09.2018 300,00 € Az. 0262.0-17-01777
+- TOP 5.1.2.: (E) Budget der Bezirksausschüsse KulturVERSTRICKUNGEN e.V. Kultivierung des Areals am Giesinger Grünspitz ab Mai 2018 5.925,00 € Az: 0262.0-17-0163
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Tegernseer Landstraße 40, Zusammenlegung 3er Wohnungen zu einer Wohnung (1. OG) und 3er Wohnungen zu zwei Wohneinheiten (DG) sowie Nutzungsänderung im EG: Ladenwohnung zu Laden; RGB - Abbruch und Neuerrichtung (4 WE) mit Verbindungsbau als Erweiterung Laden sowie Unterkellerung
+- TOP 6.1.3.2.: Rotwandstr. 3-7, Hofbebauung über Gründeckel mit Anbau an ein Bestandsgebäude, Neubau einer Tiefgarage und Errichtung von Überbautem Stellplätzen im Hof
+- TOP 6.1.3.3.: Scharfreiterplatz 8, Einbau zweier Appartements im Dachgeschoss, Errichtung von Dachaufbauten
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Verkehrsrechtliche Anordnung, Deisenhofener Straße: Tempo 30 vor Schulen und ähnliche Einrichtungen
+- TOP 6.3.3.2.: Verkehrsrechtliche Anordnung, Schwanseestraße/Georg-Meisenbach-Straße; Zeitlich unbegrenztes absolutes Halteverbot
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Verkehrsrechtliche Anordnung, Tegernseer Landstraße: Fahrbahnsanierung
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Kistlerstr. | Anhörung zur VA auf öff. VG, hier Ois Giesing 2018 am 08.09.2018
+- TOP 6.5.3.2.: Heilig Kreuz Kirche/Gietlstr. | Anhörung zur VA auf öff. VG, hier Ois Giesing 2018 am 08.09.2018
+- TOP 6.5.3.3.: Weinbauernstr. | Anhörung zur VA auf öff. VG, hier Ois Giesing 2018 am 08.09.2018
+- TOP 6.5.3.4.: Alpenplatz. | Anhörung zur VA auf öff. VG, hier Ois Giesing 2018 am 08.09.2018
+- TOP 6.5.3.5.: obere Grasstr. | Anhörung zur VA auf öff. VG, hier Ois Giesing 2018 am 08.09.2018
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
