@@ -1,0 +1,58 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-08-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737719
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737719
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.1.1.: Sondernutzung - Freischankfläche Landsberger Str. 108
+- TOP 6.1.2.: Sondernutzung - Freischankfläche Alter Messeplatz 6
+- TOP 6.2.1.: Bauvorhaben Schwanthalerstr. 160
+- TOP 6.2.2.: Bauvorhaben Ligsalzstr. 27
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Antwort zur Bürgeranfrage zum Thema "Dauerbaustelle Schwanthalerstr. 111 - 115"
+- TOP 6.3.3.: Gaststättenfortführung Westendstr. 33
+- TOP 6.3.4.: Gaststättenfortführung Parkstr. 25
+- TOP 6.3.5.: Gaststättenfortführung Alter Messeplatz 8
+- TOP 6.3.6.: Antwort zur Bürgeranfrage zum Thema "Beschwerden über die Gaststätte in der Ligsalzstr. 30"
+- TOP 6.3.7.: Mitteilung zum Grundstücksgeschäft Theresienhöhe Flst. 7672/39
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Antwort zur Anfrage aus der Bürgerversammlung vom 19.06.18 zum Thema "Übernachtung im Durchgang Theresienwiese"
+- TOP 7.3.2.: Antwort zur Bürgeranfrage "Junkieszene am Gollierplatz"
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmungserweiterung eines Teilbereichs des Gollierplatzes (Südseite)
+- TOP 8.1.2.: Gelbe Auffahrrampen an den U-Bahn-Bahnsteigen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Baumfällungsantrag Westendstr. 17
+- TOP 8.2.2.: Baumfällungsantrag Gollierstr. 4
+- TOP 8.3: Unterrichtungen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse Nyx e.V. Theaterprojekt "100 Jahre 100 Pfade 100 Leute - Demokratiemodelle" im Frühjahre 2019 5.000,00 € 0262.0-8-0152
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Initiative NÜE Gallery Ausstellung REFLECTION im September 2018 2.925,00 € Az: 0262.0-8-0153
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
