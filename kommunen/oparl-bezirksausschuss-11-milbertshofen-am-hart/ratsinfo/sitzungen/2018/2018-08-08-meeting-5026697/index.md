@@ -1,0 +1,76 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-08-08T18:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5026697
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5026697
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 5.1: Bürgeranliegen
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Wertstoffinseln im 11. Stadtbezirk Milbertshofen-Am Hart - Antwortschreiben
+- TOP 4.2.2.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP 4.4.1.: Intensivierung der kommunalen Verkehrsüberwachung im Stadtbezirk 11 und Schaffung der hierfür notwendigen Stellen
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 5.1.1.: Sauberkeit der Aufstellplätze von Wertstoffcontainern im 11. Stadtbezirk: Benennung eines Ansprechpartners im BA 11 für die Bürgerinnen und Bürger
+- TOP 5.1.2.: Unterschiedliche Bearbeitungsdauer von Fachreferatsanträgen und Bürgerversammlungsanträgen - Anforderung einer BA 11-Stellungnahme
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Angerfest am 30.06.2018 3.361,00 € AZ: 0262.0-11-0286
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse KJR München-Stadt, Einrichtung Riva Nachbarschaftsfest am 15.09.2018 1.713,75 € Az. 0262.0-11-0291
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis: Erweiterung einer Freischankfläche in der Riesenfeldstr. 72
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Bauvorhaben - Vollzug der BaumSchutzVO: a) Hänflingweg 34 - Neubau Einfamilienhaus mit Doppelgarage und Abstellraum (Baumfällungen) b) Dohlenweg 15 - Neubau Doppelhaus mit Garagen (Baumfällungen) c) Taunusstr. 34 - Neubau Bürogebäude mit TG - Vorbescheid (Baumfällungen)
+- TOP 8.2.2.: Bauvorhaben – Lokalbaukommission: Moosacher Straße 42-50 – Neubau einer Trafostation
+- TOP 8.2.3.: Neuherbergstraße / Ecke Schleißheimer Straße - Sammelhinweisanlage (Werbeanlage) im öffentlichen Straßenraum
+- TOP 8.2.4.: Anträge auf Baumfällungen: a) Am Haag 7a b) Hans-Denzinger-Str. 23 c) Keferloherstr. 121 d) Keferloherstr. 146 e) Marienbader Str. 32 f) Tüllesamtstr. 10
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung „Women`s Run 2018“ am 08.09.2018 im Olympiapark
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Preußenstraße - Aufhebung des Haltverbot b) Gundelkoferstraße - Haltverbot
+- TOP 9.1: Plenum
+- TOP 9.1.1.: BA-Budget: Verwendungsnachweise, Schriftverkehr, Sachberichte
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 9.2.2.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP 9.2.3.: (U) Atlas Wirtschaftsstandort München
+- TOP 9.2.4.: Neuherbergstraße 24 - Leichtbauhallenstandort wird für Flüchtlinge bis Mitte 2019 als potentieller Standort vorgehalten
+- TOP 9.2.5.: (U) Lechenauer Straße (westlich), Georg-Brauchle-Ring (nördlich), Brundageplatz (östlich), Helene-Mayer-Ring (südlich) - ehemaliger Busbahnhof Olympiazentrum - A) Eckdatenbeschluss und Erweiterung des Grundsatzbeschlusses vom 06.07.2016 mit vertiefender Untersuchung B) Weiteres Vorgehen C) Aufgreifen der Planungen zur Neugestaltung des Busbahnhofs Olympiazentrum BA-Antrag Nr. 14-20 / B 04579 des Bezirksausschusses des Stadtbezirks 11- Milbertshofen-Am Hart vom 21.02.2018 Ergänzungen: 14-20 / A 04217 (A) Seniorenwohnen und Pflegeheim am ehemaligen Busbahnhof Olympiapark 14-20 / A 04254 (AeA) Ehemaliger Busbahnhof Olympiazentrum - Ausreichend Platz für Besucher- und Informationszentrum mit Ausstellungsflächen / Museum einplanen
+- TOP 9.2.6.: Satzung über das Verbot der Zweckentfremdung von Wohnraum: a) Abbruchanzeige: Kaadener Str. 13 b) Abbruchanzeige: Bernaysstr. 35
+- TOP 9.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.8.: Meldelisten Bauvorhaben vom 18.06.2018 - 08.07.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Veranstaltung "B2Run Firmenlauf" im Olympiapark am 17.07.2018
+- TOP 9.3.2.: Olympiapark - Unterrichtung über nichtgenehmigungspflichtige Feuerwerke am 02.08.2018 und 16.08.2018 (Ausweichtermine jeweils einen Tag später)
+- TOP 9.3.3.: Information über Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämper - Ackermannstraße im 4. Stadtbezirk
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Arbeiten im Straßenraum: a) Petuelring (Wendeschleife) - Verlegen von Leitungen für die geplante Lichtsignalanlage b) Schleißheimer Str. und Detmoldstr. - Neubau einer Fernwärmeleitung und - hausanschluss c) Frankfurter Ring - Verlegen einer Gashochdruckleitung d) Schleißheimer Str. - Gleisbau zwischen Nordbad und Petuelring e) Schleißheimer Str. und Hamburger Str. - Verlegen einer Gasleitung
+- TOP 9.4.2.: Unterrichtung über ausgeführte verkehrsrechtliche Anordnungen: Weyprechtstraße 75 - Tempo 30
+- TOP 9.4.3.: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 9.4.4.: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
