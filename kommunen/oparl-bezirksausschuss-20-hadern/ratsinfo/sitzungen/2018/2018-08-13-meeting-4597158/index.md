@@ -1,0 +1,108 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-08-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4597158
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4597158
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Waldwiesenstraße 21, Neubau eines Doppelhauses mit Garagen, hier: DHH 1 und DHH 2 (Referat für Stadtplanung und Bauordnung, 11.07.18)
+- TOP 6.2.: Gräfelfinger Straße 155, Neubau / Erweiterung Wohngebäude - Vorbescheid (2 Var.) (Referat für Stadtplanung und Bauordnung, 13.07.18)
+- TOP 6.3.: Mohnweg 4: Neubau eines Einfamilienhauses mit Carport (Referat für Stadtplanung und Bauordnung, 27.07.18)
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Waldwiesenstraße 21, gem. Baumbestandsplan Nrn. 13721 und 13727
+- TOP 7.1.2.: Gräfelfinger Straße 155, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 12730
+- TOP 7.1.3.: Mohnweg 4, gem. Baumbestandsplan Nr. 14959
+- TOP 7.1.4.: Farnweg 5, 1 Lärche, 1 Linde und 1 Kiefer
+- TOP 7.1.5.: Haseneystraße 34, 1 Birke
+- TOP 7.1.6.: Marchioninistraße 15, 2 Kiefern und 1 Ahorn
+- TOP 7.1.7.: Pfingstrosenstraße 33 a, 1 Birke
+- TOP 7.1.8.: Würmtalstraße 151, 1 Fichte
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.7.: Bücherschrank in Hadern
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 1.1.: Zustand rund um den Containerstandplatz Platanenstraße / Ecke Am Wiesenhang
+- TOP 1.2.: Bushaltestellen in der Waldwiesenstraße
+- TOP 1.3.: Lärmbelästigung durch Bauarbeiten Am Ährenfeld
+- TOP 1.4.: Zustand Gehweg Lupinenweg
+- TOP 1.5.: ASZ-Außenstelle bzw. ASZ Großhadern im Stadtteil Großhadern (Nähe Max-Lebsche-Platz)
+- TOP 1.6.: Unbefriedigende Parksituation Waldfriedhof / Neuer Teil
+- TOP 5.1.: Budget der Bezirksausschüsse, Turn- und Sportverein München-Großhadern 1926 e.V., Anschaffung von neuen Freizeitjacken mit dem TSV-Logo, 3.675,00 € (Direktorium, 25.06.18)
+- TOP 5.2.: Budget der Bezirksausschüsse, SV Sentilo Blumenau e.V., Anschaffung eines Freistoß-Dummy-Sets, 599,00 € (Direktorium, 04.07.18)
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Zeitungsständer Lorettoplatz 2 (Kreisverwaltungsreferat, 12.07.18)
+- TOP 5.4.: Budget der Bezirksausschüsse, Turn- und Sportverein München-Großhadern 1926 e.V., Anschaffung von Matten, 1.873,46 € (Direktorium, 27.07.18)
+- TOP 5.5.: Budget der Bezirksausschüsse, REGSAM, Mobiles Spielangebot vom 24.09.-28.09.18, 670,00 € (Direktorium, 27.07.18)
+- TOP 6.4.: Gemeinde Neuried, Bebauungsplan Nr. 50 "Forsthaus Kasten" (Referat für Stadtplanung und Bauordnung, 30.07.18)
+- TOP 7.2.1.: Liste des Baureferates vom 03.07.2018: 17 Bäume auf dem Waldfriedhof
+- TOP 7.2.2.: Eichenstraße 28 d, 1 Fichte (Referat für Stadtplanung und Bauordnung, 09.07.18)
+- TOP 7.2.3.: Maenherstraße 2 a, 1 Fichte (Referat für Stadtplanung und Bauordnung, 27.07.18)
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, hier: Telekommunikationsprojekt Senftenauerstraße (SWM, 12.07.18)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: Eichhornstraße (Sozialreferat, 02.07.18)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Großhaderner Straße, Gräfelfinger Straße, Kurzzeitparken (Kreisverwaltungsreferat, 09.07.18)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Ossingerstraße 25 (Kreisverwaltungsreferat, 09.07.18)
+- TOP 8.5.: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2017 (Sozialreferat, 09.07.18)
+- TOP 8.6.: Betreff Schröfelhofstraße (Sozialreferat, 02.08.18)
+- TOP 9.1.: Neubau für die Freiwillige Feuerwehr, Würmtalstraße 126 (Kommunalreferat, 29.06.18)
+- TOP 9.2.: Beleuchtung Gaberlstraße (Baureferat, 05.07.18)
+- TOP 9.3.: Radweg zur Menaristraße: Ida-Schumacher-Weg (Kreisverwaltungsreferat, 25.07.18)
+- TOP 9.4.: Gefahrenbaumfällungen im Waldfriedhof (Baureferat, 26.07.18)
+- TOP 9.5.: Belastung durch dieselbetriebenen Kran auf der Baustelle Stiftsbogen 152 - 166 (Referat für Gesundheit und Umwelt, 25.07.18)
+- TOP 9.6.: Baustelle Stiftsbogen 152 - 166 (Referat für Stadtplanung und Bauordnung, 09.08.18)
+- TOP 11.1.: 3. Infoveranstaltung für BAs: Aufbau eines öffentlichen Ladesäulensystems am 18.09.2018, 18.00 - 20.00 Uhr (Referat für Arbeit und Wirtschaft, 09.07.18)
+- TOP 11.2.: Protokoll des BA-Vernetzungstreffens mit AKIM vom 20.06.2018 (Sozialreferat, 10.07.18)
+- TOP 11.3.: Terminplanung 2019
+- TOP 11.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.5.: Kurzbericht zum Projekt "München erzählt...G&#039;schichten zwischen Blumenau und Waldfriedhof" (fasfood theater Improvisation e.V., 19.07.18)
+- TOP 11.6.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse (Kommunalreferat, 23.07.18)
+- TOP 11.8.: Protokoll der öffentlichen Sitzung des Mieterbeirates der Landeshauptstadt München vom 16.07.18 (Mieterbeirat, 27.07.18)
+- TOP 11.9.: Oktoberfest 2018, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Termin BA 20: Freitag, 28.09.2018 (Direktorium, 30.07.18)
+- TOP 11.10.: Zukunftsfähiges München?, Einladung zum Stadtratshearing zum Thema Bildung für nachhaltige Entwicklung (BNE) am 20.09.2018 (Referat für Bildung und Sport, 06.08.18)
+- TOP 1.1.1.: Beschluss vom 27.06.2018: Mieterbeiratswahl 2018 Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP 1.1.2.: Beschluss vom 06.06.2018: Zuwendungsrichtlinien für die Gewährung von Zuwendungen des Referates für Stadtplanung und Bauordnung zur den Förderung des Dialogs zu Themen der Stadtentwicklung und Stadtplanung
+- TOP 1.1.3.: Beschluss vom 27.06.2018: Neues Förderprogramm ökologische Landwirtschaft in München
+- TOP 1.2.1.: Beschluss vom 25.07.2018: Schulbauoffensive 2013-2030 A) Pavillonbauprogramme B) Personalbedarf der mit der Schulbauoffensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten D) Behandlung von Petitionen E) Behandlung von Anträgen und Empfehlungen
+- TOP 1.2.2.: Beschluss vom 25.07.2018: Städtische Wohnungsbaugesellschaften Städtische Mietpreisbremse München
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des IT-Ausschusses vom 16.05.2018: Internetauftritt muenchen.de und mvg.de
+- TOP 2.2: Referentenanträge
+- TOP 2.2.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2018: Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur
+- TOP 2.2.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2018: Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 2.2.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner)
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2018: Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 3.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2018: Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 3.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 3.1.4.: Hinweis / Ergänzung vom 09.07.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC)
+- TOP 3.2: Referentenanträge
+- TOP 3.2.1.: Beschluss des Ausschuses für Stadtplanung und Bauordnung vom 04.07.2018: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 3.2.2.: Hinweis / Ergänzung vom 06.07.2018 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Optimierung der Bebauungsplanverfahren und der Bürgerbeteiligung und Öffentlichkeitsarbeit im Referat für Stadtplanung und Bauordnung; Organisatorische Anpassungen in der Hauptabteilung II - Stadtplanung; Personalentwicklung im Referat für Stadtplanung und Bauordnung
+- TOP 4.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.07.2018: Atlas Wirtschaftsstandort München
