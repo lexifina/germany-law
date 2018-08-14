@@ -1,0 +1,7 @@
+# TOP 4: Investitionsprogramm 2019
+
+- Sitzung: gemeinsame Sitzung des Ortsgemeinderates und des Bau- und Finanzausschusses der Ortsgemeinde Horbach (2018-08-14)
+- Körperschaft: Ortsgemeinde Horbach
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2018-12OGR-12%7Czt_1%7C1
+- Beschluss (Datei): Beschluss - Top 4 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-12OGR-12%7Czt_1%7C1
