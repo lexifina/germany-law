@@ -1,0 +1,6 @@
+# TOP 1: Kontrolle der Niederschrift vom 24.05.2018 und 14.06.2018
+
+- Sitzung: 55. Sitzung des Jugendhilfeausschusses (2018-08-16)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/103599
