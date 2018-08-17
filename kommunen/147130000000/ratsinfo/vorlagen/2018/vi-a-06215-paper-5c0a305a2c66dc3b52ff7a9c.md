@@ -1,0 +1,21 @@
+# Aufstockung des Budgets für Sprach- und Integrationsmittlung für Freie Träger für 2018 und Beachtung der gewachsenen Bedarfe im Doppelhaushalt 2019/2020
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-A-06215
+- Art: Antrag
+- Datum: 2018-08-17
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1010433
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a305a2c66dc3b52ff7a9c
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c096efe2c66dc3b52a9a865
+- Beratung: Beschlussfassung https://oparl.politik-bei-uns.de/meeting/5c08a00a2c66dc3b525e5b3c https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: 2. Lesung https://oparl.politik-bei-uns.de/meeting/5c08a18d2c66dc3b526136d4 https://oparl.politik-bei-uns.de/organization/5c089ed32c66dc3b525a1855
+- Beratung: Verweisung in die Gremien https://oparl.politik-bei-uns.de/meeting/5c08a1e72c66dc3b526160b5 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08a24e2c66dc3b5262dc0e https://oparl.politik-bei-uns.de/organization/5c089ed32c66dc3b525a1855
+- Beratung: 1. Lesung https://oparl.politik-bei-uns.de/meeting/5c08a27d2c66dc3b52636651 https://oparl.politik-bei-uns.de/organization/5c089ed22c66dc3b525a1732
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
