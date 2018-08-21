@@ -1,0 +1,8 @@
+# TOP 9: Bürgerbeteiligungssatzung
+
+- Sitzung: 50. Sitzung des Ortschaftsrates Langebrück (2018-08-21)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/104224
+- Ergebnis: Ablehnung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/32616
