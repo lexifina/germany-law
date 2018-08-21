@@ -1,0 +1,15 @@
+# Rechnungsprüfungsausschuss
+
+- Körperschaft: Ortsgemeinde Hergenroth
+- Beginn: 2018-08-21T00:00:00+02:00
+- Ende: 2018-08-21T00:00:00+02:00
+- Ort: 
+- Status: terminiert
+- Gremium: https://westerburg.gremien.info/oparl/organization/153
+- Ratsinformationssystem: https://westerburg.gremien.info/oparl/meeting/ni_AD-6445
+- OParl: https://westerburg.gremien.info/oparl/meeting/ni_AD-6445
+- Quelle: https://westerburg.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: nicht öffentlicher Tagesordnungspunkt
