@@ -1,0 +1,87 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-08-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4904772
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4904772
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Für eine lebenswerte Stadt: Ja zum Arnulfsteg Empfehlung Nr. 14-20 / E 01966 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Radl-Abstellfläche vor der Kita in der Albrechtstraße 33
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Gesamtkonzeption Fahrradparken in München
+- TOP 3.3.2.: Anhörung zu verkehrsrechtlichen Anordnungen: - Funkerstraße - Dom-Pedro-Straße - Gertrud-Bäumer-Straße
+- TOP 3.4: Antwortschreiben
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Unterrichtung über verkehrsrechtliche Anordnungen im Stadtbezirk 9
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Bürgeranliegen zur Baustelle Jugendherberge Winthirplatz
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Bauvorhaben: - Gabrielenstraße 3 - Hanebergstraße 2 - Kratzerstraße 11 - Ruffinistraße 6 - Schulstraße 13-15
+- TOP 4.4: Antwortschreiben
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Budget der Bezirksausschüsse Initiative "Pflanzteam" Kletterpflanzen zwischen S-Bahn Haltestelle Hirschgarten und dem Nymphenburg-Pasing Kanal 7.000,00 Euro Az.: 0262.0-9-0288
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Einsatz von Laubbläsern
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Senkung der Feinstaubbelastung im gesamten Stadtgebiet
+- TOP 5.3.2.: - Anträge auf Baumentfernung - Nymphenburger Str. 126 Winfriedstr. 11 Kratzerstr. 24 Jagdstr. 8 Lierstr. 11 Magdalenenstr. 39 Funkerstr. 4 Notburgastr. 15
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Wotanstr. 88: Zügige Umsetzung des Umbaus in ein Flexi-Heim Variante 1 für anerkannte Flüchtlingsfamilien und wohnungslose Familien in kommunaler Zuständigkeit; Flexi-Wohnheim Wotanstraße: zügige Umsetzung als "Wohnen für Alle" Empfehlung Nr. 14-20 / E 01875 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg am 05.12.2017
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Budget der Bezirksausschüsse Initiative "Circus Creation Weekends" Projekt "Circus Creation Weekends" von Oktober bis Dezember 2018 3.400,00 € Az. 0262.0-9-0291
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Budget der Bezirksausschüsse: Verlängerung Antrag Kontrapunkt e.V.
+- TOP 7.3.2.: Veranstaltung zum 9. November 2018
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Antwortschreiben
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Einweisungstermine für Senioren zu Geräten im Taxispark
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Technikpauschale für Unterausschuss- und Fraktionsvorsitzende
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Backyard Pool Contest am 22.09.2018 an der Skateanlage Hirschgarten
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Bericht Planungen Veranstaltung Eisenbahnerwohnungen
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
