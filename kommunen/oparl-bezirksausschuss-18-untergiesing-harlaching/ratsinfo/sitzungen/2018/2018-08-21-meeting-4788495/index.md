@@ -1,0 +1,160 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-08-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4788495
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4788495
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Zufahrt St. Anna Kircherl; Schreiben der Katholischen Kirchenstiftung Hl. Familie vom 11.07.18 (vertagt vom 17.07.18)
+- TOP 2.1.2.2.: Wiederholte Ruhestörung in öffentlicher Parkanlage Kuntersweg; Antwortschreiben des Baureferats-Gartenbau vom 03.08.18 auf ein Bürgeranliegen
+- TOP 2.1.2.3.: Ausweitung der Haltverbotzone in der Kurzstraße; Kopie eines Schreibens der Bayerischen Landesschule für Körperbehinderte an das Kreisverwaltungsreferat
+- TOP 3.1.2.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt Projekt "Demokratie im Einsatz - Demokratiemobil" vom 28.09. - 13.10.2018 2.000,00 € 0262.0-18-0144
+- TOP 3.1.2.2.: Beschlussfassung über die Finanzierung des Jahresempfangs 2018 des BA 18 aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von 7.500,- €; Antrag der CSU-Fraktion
+- TOP 3.1.2.3.: Beschlussfassung über die Finanzierung der Veranstaltung zum "Fest der Demokratie" des BA 18 am 08.11.18 aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von 2.000,- €; Antrag der CSU-Fraktion
+- TOP 3.1.2.4.: Beschlussfassung über die Finanzierung des Rahmenprogramms zum Gedenken an die Reichspogromnacht am 10.11.18 aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von 1.000,- €; Antrag der CSU-Fraktion
+- TOP 3.1.2.5.: (E) Budget der Bezirksausschüsse Elternbeirat des Städt. Theodolinden Gymnasiums Straßenfest & Musikevent "Melody of Diversity" am 21.07.2018 794,68 € Az. 0262.0-18-0146
+- TOP 3.1.2.6.: (E) Budget der Bezirksausschüsse Initiative "Gedenken Reichsprogromnacht 1938" Herstellung und Aufstellung eines Kunstwerks am 10.11.2018 18.000,00 € Az. 0262.0-18-0145
+- TOP 3.1.3.1.1.: Antragsteller Privatperson für Veranstaltung im Rahmen des Tags des Denkmals im ASZ Untergiesing; Antragssumme 720,-€
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.2.: Gehwegabsenkung Kurz- / Harlachinger Straße; Antrag der Fraktion Bündnis `90 / Die Grünen (vertagt vom 17.07.18)
+- TOP 3.2.3.3.: Seilbahn (zwischen den U-Bahnhöfen Wettersteinplatz und Thalkirchen / Tierpark); Antrag der Fraktion Bündnis `90 / Die Grünen (vertagt vom 17.07.18)
+- TOP 3.2.3.4.: Regengeschützte Fahrradabstellräume Hohlraum am Wettersteinplatz; Antrag der Fraktion Bündnis`90/Die Grünen (vertagt vom 17.07.18)
+- TOP 3.2.3.5.: Barrierearmer Weg nach Obergiesing; Antrag der Fraktion Bündnis`90 / Die Grünen
+- TOP 3.2.3.6.: Rotlichtblitzer Pilgersheimer Straße; Antrag der Fraktion Bündnis `90 / Die Grünen
+- TOP 3.2.3.7.: Umwidmung des Fuß- und Radweges an der Rückseite des Gebäudes Candidplatz 13 zum reinen Fußweg; Antrag der Freien Wähler
+- TOP 3.2.3.8.: Schrägparken in der Schyrenstraße
+- TOP 3.2.3.9.: Verbesserung der Verkehrssicherheit an der Einmündung Münchner Kindl-Weg
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Fahrradstraßen im 18. Stadtbezirk - Prüfung folgender Straßen: - Oberbiberger Straße - Tegelbergstraße - Säbener Straße - Am Perlacher Forst
+- TOP 3.2.4.2.: Projektname: Naupliastraße / St.-Magnus-Straße; Anhörung durch das Baureferat-Tiefbau zur Kreuzungsertüchtigung
+- TOP 3.2.4.3.: Naupliastraße 113 a, erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen Kindergärten und ähnlichen Einrichtungen (hier: "Wichtelakademie"); Anhörung durch das Kreisverwaltungsreferat zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.2.4.4.: Austausch von Lichtsignalanlagen, hier: Wettersteinplatz; Schreiben des Kreisverwaltungsreferates mit der Möglichkeit, Anregungen einbringen zu können
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Keine punktuelle Verbesserung am Tegernseer Platz auf Kosten der Untergiesinger und Harlachinger Bürger
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Absolutes Haltverbot (Sichthaltverbot) Grünwalder Straße (Aral-Tankstelle); verkehrsrechtliche Anordnung des Kreisverwaltungsreferates
+- TOP 3.2.6.2.: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Nutzung der Überdachten Abstellplätze für Solarstromgewinnung; Antrag der Fraktion Bündnis`90 / Die Grünen (vertagt vom 17.07.18)
+- TOP 3.3.3.2.: Antrag auf Pflanztröge an der Kühbachstraße
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Mehr Maßnahmen zum Erhalt des Gleichgewichts der Urbanen Fauna
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen, hier: Unterrichtung über bevorstehende Entfernung eines Gefahrenbaums, Säbener Straße ggü. 170; Unterrichtung durch das Baureferat-Gartenbau
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Errichtung eines Basketballfeldes mit zwei Körben am Spielplatz Athener Platz Empfehlung Nr. 14-20 / E 01850 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 16.11.2017
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Unterstützung des Projekts "Toiletten für Alle", Berücksichtigung bei Neubauprojekten
+- TOP 3.4.5.2.: Bezahlbares Wohnen für Auszubildende Jugendliche im 18. Stadtbezirk
+- TOP 3.4.5.3.: Nutzung der Liegenschaft Schilcherweg 8 als öffentliche Kindertagesstätte bzw. Kinderkrippe zur Verbesserung der Versorgungssituation bei bezahlbarer Kinderbetreuung; Antrag aus der Einwohnerversammlung vom 13.09.2017
+- TOP 3.4.5.4.: Münchner Mietrechner APP
+- TOP 3.4.5.5.: Reinigung, Rückschnitt Grünstreifen Grünwalder Straße (Höhe Trainingsgelände TSV 1860 München); Instandsetzung der Sitzbank
+- TOP 3.4.5.6.: Grünstreifen Grünwalder Straße (Höhe Trainingsgelände TSV 1860 München); Instandsetzung der Sitzbank Vol. 2
+- TOP 3.4.5.7.: Grünstreifen Grünwalder Straße (Höhe Trainingsgelände TSV 1860 München): Instandsetzung der Sitzbank
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Grundschule an der Rotbuchenstraße 81, Toiletten der Mittagsbetreuung im Untergeschoss, Ortstermin am 16.07.18 mit dem BA 18; Protokoll des Referats für Bildung und Sport
+- TOP 3.4.6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Bayerische Denkmalliste - Teil A: Baudenkmäler; hier: Anwesen in der Reinerstraße, Nachtrag einer Reihenhausanlage in die Denkmalliste; Schreiben des Referats für Stadtplanung und Bauordnung mit der Möglichkeit zur Stellungnahme
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Aufnahme von Planungen zur Neugestaltung des Vorplatzes des städtischen Krankenhauses München-Harlaching unter Einbindung des BA 18
+- TOP 3.5.5.2.: Beteiligung des BA 18 am städtebaulichen Wettbewerb „McGraw-Kaserne"
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.2.1 Anwesen Meraner Straße 3.5.6.2.2 Anwesen Grauertstraße
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.1.1.: Gedenkveranstaltung zum 80. Jahrestag des 9. November 1938: „Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn“; Schreiben der Arbeitsgruppe „Gedenken an den 9. November 1938“ vom 15.03.18
+- TOP 3.6.1.2.: Fest der Demokratie am 7. November 2018, Beteiligung ller Bezirksausschüsse; Schreiben des BA 8 - Schwanthalerhöhe vom 16.04.18
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Hans-Mielich-Platz, Flohmarkt des Kirschbaumkindergarten e.V. am 28.10.18; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Anhörungsrecht für die Einrichtung von Elektroladestationen, BA-Antrag Nr. 14-20/B 05020 des BA 16 vom 07.06.2018
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.5.: Naupliastr. 72
+- TOP 4.3.1.6.: Stresemannstr. 15
+- TOP 4.5.1.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten, Einbindung der Bezirksausschüsse; Schreiben des Kommunalreferats vom 19.07.18
