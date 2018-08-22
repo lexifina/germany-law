@@ -1,0 +1,158 @@
+---
+ecli: "ECLI:DE:BGH:2018:220818XIIZB37.18.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 37/18"
+decided: "2018-08-22"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2018&Sort=1&Seite=62&nr=87496&anz=2994&pos=1875&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2018-08-22_XII_ZB_37_18_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/famfg/0068.md", "germany/bund/acts/famfg/0070.md", "germany/bund/acts/famfg/0117.md", "germany/bund/acts/famfg/0137.md", "germany/bund/acts/zpo/0005.md", "germany/bund/acts/zpo/0522.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, XII ZB 37/18 vom 2018-08-22
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                            BESCHLUSS
+XII ZB 37/18
+
+                                    vom
+
+                              22. August 2018
+
+                            in der Familiensache
+
+
+Nachschlagewerk:      ja
+
+BGHZ:               nein
+
+BGHR:                 ja
+
+
+
+FamFG § 70
+
+
+Entscheidet das Amtsgericht im Scheidungsverbund über eine Familiensache
+der freiwilligen Gerichtsbarkeit (hier: Versorgungsausgleich) und verwirft das
+Beschwerdegericht die dagegen gerichtete Beschwerde wegen Versäumung
+der Beschwerdefrist als unzulässig, findet gegen den Verwerfungsbeschluss
+keine zulassungsfreie Rechtsbeschwerde statt (im Anschluss an Senatsbeschluss vom 13. November 2013 - XII ZB 414/13 - FamRZ 2014, 109).
+
+BGH, Beschluss vom 22. August 2018 - XII ZB 37/18 - OLG Frankfurt am Main
+                                                     AG Hanau
+
+
+
+
+ECLI:DE:BGH:2018:220818BXIIZB37.18.0
+
+                                        -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 22. August 2018 durch die
+    Richter Prof. Dr. Klinkhammer, Dr. Nedden-Boeger, Dr. Botur und Guhling und
+    die Richterin Dr. Krüger
+
+    beschlossen:
+
+
+          Die Rechtsbeschwerde gegen den Beschluss des 8. Senats für
+          Familiensachen des Oberlandesgerichts Frankfurt am Main vom
+          3. Januar 2018 wird auf Kosten des Antragsgegners verworfen.
+
+          Beschwerdewert: 2.434 €
+
+
+
+
+                                      Gründe:
+
+                                         I.
+
+1         Das Amtsgericht hat die Ehe der Antragstellerin (im Folgenden: Ehefrau)
+    und des Antragsgegners (im Folgenden: Ehemann) auf den am 26. Januar
+    2008 zugestellten Scheidungsantrag durch Beschluss vom 23. Oktober 2013
+    geschieden und den Versorgungsausgleich geregelt. Die Entscheidung des
+    Amtsgerichts ist dem damaligen Verfahrensbevollmächtigten des Ehemanns
+    am 25. November 2013 zugestellt worden. Gegen die Entscheidung zum Versorgungsausgleich hat der im Beschwerdeverfahren anwaltlich seinerzeit nicht
+    mehr vertretene Ehemann persönlich und fristgerecht Beschwerde eingelegt;
+    die Beteiligte zu 3 (DRV Bund) hat sich der Beschwerde angeschlossen. Das
+    Oberlandesgericht hat den angefochtenen Ausspruch zum Versorgungsausgleich auf die Beschwerde des Ehemanns und die Anschlussbeschwerde der
+
+                                         -3-
+
+
+
+    DRV Bund in der Sache abgeändert. Auf die vom Oberlandesgericht zugelassene Rechtsbeschwerde der Ehefrau hat der Senat (Senatsbeschluss vom
+    26. April 2017 - XII ZB 3/16 - FamRZ 2017, 1151) die angefochtene Entscheidung aufgehoben und die Sache an das Oberlandesgericht zurückverwiesen,
+    weil sich Ehegatten auch bei der Einlegung einer isolierten Beschwerde in einer
+    Folgesache der freiwilligen Gerichtsbarkeit durch einen Rechtsanwalt vertreten
+    lassen müssen und die Erstbeschwerde des Ehemanns demzufolge unzulässig
+    gewesen ist.
+
+2         Die Entscheidung des Senats ist dem Ehemann am 26. Mai 2017 zugestellt worden. Durch einen am 9. Juni 2017 per Telefax bei dem Oberlandesgericht eingegangenen Schriftsatz vom 6. Juni 2017 hat der - anwaltlich wieder
+    vertretene - Ehemann Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Beschwerdefrist beantragt. Auf einen am 4. August 2017 erteilten
+    Hinweis des Oberlandesgerichts, dass bei dem Amtsgericht bislang keine von
+    einem Rechtsanwalt unterzeichnete Beschwerde eingegangen sei, hat die nunmehrige Verfahrensbevollmächtigte des Ehemanns mitgeteilt, dies könne nicht
+    nachvollzogen werden, weil am 6. Juni 2017 eine Beschwerdeschrift bei dem
+    Amtsgericht eingereicht worden sei. Eine vom 6. Juni 2017 datierende und von
+    der Verfahrensbevollmächtigten des Ehemanns unterzeichnete Beschwerdeschrift ist (erst) nach einem nochmaligen Hinweis des Oberlandesgerichts am
+    5. Dezember 2017 bei dem Amtsgericht eingegangen. Das Oberlandesgericht
+    hat dem Ehemann die Wiedereinsetzung in die Beschwerdefrist versagt und
+    seine Beschwerde als unzulässig verworfen. Hiergegen richtet sich die Rechtsbeschwerde des Ehemanns.
+
+                                           -4-
+
+
+
+                                           II.
+
+3         Die Rechtsbeschwerde ist nicht statthaft.
+
+4         Entgegen der Ansicht der Rechtsbeschwerde ergibt sich die Statthaftigkeit der Rechtsbeschwerde nicht aus § 117 Abs. 1 Satz 4 FamFG iVm §§ 522
+    Abs. 1 Satz 4, 574 Abs. 1 Nr. 1 ZPO.
+
+5         1. Wie der Senat bereits ausgeführt hat, gelten die sich aus § 117
+    FamFG ergebenden Modifikationen und Ergänzungen des Rechtsmittelverfahrens nach den §§ 58 ff. FamFG nur für Ehesachen und Familienstreitsachen,
+    nicht aber für Familiensachen der freiwilligen Gerichtsbarkeit. Daran ändert der
+    Umstand nichts, dass im vorliegenden Fall über den Versorgungsausgleich im
+    Scheidungsverbund (§ 137 FamFG) entschieden worden ist. Die Scheidungssache und die einzelnen Folgesachen bleiben auch im Fall der gemeinsamen
+    Verhandlung und Entscheidung im Verbund in verfahrensrechtlicher Hinsicht
+    eigenständig. Für Familiensachen der freiwilligen Gerichtsbarkeit, die - wie hier
+    der Versorgungsausgleich - als Folgesachen Teil einer Verbundentscheidung
+    sein können, gelten im Beschwerdeverfahren deshalb allein die allgemeinen
+    Vorschriften der §§ 58 ff. FamFG - gegebenenfalls in Verbindung mit den Spezialvorschriften für diese Verfahren in den entsprechenden Abschnitten im zweiten Buch des Gesetzes über das Verfahren in Familiensachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit - ohne die ausschließlich für die Anfechtung des Scheidungsausspruchs und die Streitfolgesachen maßgeblichen
+    Verweisungen des § 117 FamFG auf Vorschriften der Zivilprozessordnung (Senatsbeschlüsse vom 13. November 2013 - XII ZB 414/13 - FamRZ 2014, 109
+    Rn. 4 und vom 27. November 2013 - XII ZB 464/13 - juris Rn. 4 f.).
+
+6         2. Die Prüfung der Zulässigkeit der Erstbeschwerde richtet sich im vorliegenden Fall somit nicht nach § 117 Abs. 1 Satz 4 FamFG iVm § 522 Abs. 1
+
+                                         -5-
+
+
+
+    Satz 1 ZPO, sondern - wie das Beschwerdegericht zutreffend erkannt hat -
+    nach § 68 Abs. 2 Satz 1 FamFG. Hat das Beschwerdegericht im Anschluss an
+    diese Prüfung eine Beschwerde in einer Familiensache der freiwilligen Gerichtsbarkeit nach § 68 Abs. 2 Satz 2 FamFG als unzulässig verworfen, beurteilt
+    sich die Statthaftigkeit der Rechtsbeschwerde gegen die Verwerfungsentscheidung allein nach § 70 Abs. 1 FamFG, so dass die Rechtsbeschwerde nur für
+    den Fall der Zulassung gegeben ist. Dies gilt auch dann, wenn dem Beschwerdeführer - wie hier - eine Wiedereinsetzung in den vorherigen Stand gegen die
+    Versäumung der Beschwerdefrist nach §§ 17 ff. FamFG versagt worden ist
+    (Senatsbeschlüsse vom 13. November 2013 - XII ZB 414/13 - FamRZ 2014,
+    109 Rn. 5 und vom 27. November 2013 - XII ZB 464/13 - juris Rn. 3).
+
+7          3. Das Beschwerdegericht hat die Rechtsbeschwerde nicht zugelassen
+    und für seine unanfechtbare Entscheidung - folgerichtig - auch keine Rechtsmittelbelehrung erteilt.
+
+    Klinkhammer                       Nedden-Boeger                        Botur
+
+                        Guhling                             Krüger
+
+    Vorinstanzen:
+    AG Hanau, Entscheidung vom 23.10.2013 - 61 F 1376/07 -
+    OLG Frankfurt am Main, Entscheidung vom 03.01.2018 - 8 UF 28/17 -
