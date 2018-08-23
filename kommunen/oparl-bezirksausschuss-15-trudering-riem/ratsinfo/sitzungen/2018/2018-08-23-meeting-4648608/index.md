@@ -1,0 +1,74 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2018-08-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4648608
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4648608
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 1.3.1.: 8.2.16 Etzwiesenstraße 26
+- TOP 2.2.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 29.09.2018 (Ersatztermin: 06.10.2018) auf dem Platz der Menschenrechte
+- TOP 2.2.2.: (E) Geplante Baumfällaktion Bajuwarenstraße 136/138 Empfehlung Nr. 14-20 / E 01715 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 05.10.2017
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Drachenfest in der Grünanlage Riemer Park am 22. und 23.09.2018 Termin: 31.08.18
+- TOP 7.1.2.: Stadteigenes Grundstück Flst. 1408/104 Tlfl. Gemarkung Trudering-Riem An der Olof-Palme-Straße / Joseph-Wild-Straße Gastspielanfrage: Festival der Marionetten vom 20.11. - 27.11.2018
+- TOP 7.1.3.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund Informationsveranstaltungen des Kreisjugendrings zur Wahl - "Demokratie im Einsatz" auf dem Willy-Brandt-Platz am 02.10. und 04.10.2018 Termin: 14.09.2018
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Leibengerstraße 23, Fl.Nr.: 1613/0 - Neubau eines Dreispänners (Haus 1, 2, 3) mit Garagen
+- TOP 7.4.2.: Wimbachtalstraße 27, Fl.Nr.: 314/13 - Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage, Abbruch des Bestandsgebäudes
+- TOP 7.4.3.: Tangastraße 26, Fl.Nr.: 491/3 - Neubau eines Mehrfamilienhauses mit Tiefgarage / Haus A
+- TOP 7.4.4.: Tangastraße 26, Fl.Nr.: 491/3 - Neubau eines Mehrfamilienhauses mit Carport / Haus B
+- TOP 7.4.5.: Gerstäckerstraße 45, Fl.Nr.: 2254/49 - Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage - TEKTUR zu 1.2-2015-13914-32
+- TOP 7.4.6.: Truderinger Straße 210, Fl.Nr.: 345/8 - Bebauung Eckgrundstücke Halfingerstraße / Truderinger Straße - VORBESCHEID
+- TOP 7.4.7.: Heilwigstraße 39, Fl.Nr.: 408/62 - Neubau eines Wohngebäudes (5 WE) mit Carports
+- TOP 7.4.8.: Büchmannstraße 25, Fl.Nr.: 189/80 - Anbau eines Einfamilienhauses mit Garage an ein Zweifamilienhaus
+- TOP 7.4.9.: Vogesenstraße 14, Fl.Nr.: 685/0 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.10.: Waldtruderinger Straße 49, Fl.Nr.: 482/5 - Neubau eines Mehrfamilienhauses mit Garage
+- TOP 7.4.11.: Stahlgruberring 40, Fl.Nr.: 131/26 - Nutzungsänderung: Ausstellungsfläche zu Spielothek
+- TOP 7.4.12.: Vogesenstraße 3, Fl.Nr.: 368/4 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.13.: Kreuzkopfstraße 4, Fl.Nr.: 366/7 - Neubau einer Doppelhaushälfte (Ost) mit Fertiggarage
+- TOP 7.4.14.: Kreuzkopfstraße 4, Fl.Nr.: 366/7 - Neubau einer Doppelhaushälfte (West) mit Fertiggarage
+- TOP 7.4.15.: Salzmesserstr. 57, Fl.Nr.: 149/4 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.16.: Hippelstr. 48, Fl.Nr.: 2255/27 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Erdinger Straße 16 Georg-Thiele-Straße 1 Otto-Lederer-Weg 8 Tangastraße 34 Wolfgang-Borchert-Weg 1- 3 Zauberwaldstraße 1
+- TOP 8.2.1.: Etzwiesenstraße 7 Fabinistraße 4 Florastraße 2 Friedenspromenade 98 Hippelstr. 48 Kirchtruderinger Straße 28 Leonhardiweg 33 Mönchbergstraße 5 Ottilienstraße 7 Salzmesserstr. 57 Unnützstraße 28 Unnützstraße 33 Vogesenstraße 14 Von-Erckert-Platz 19 - durch UNB zugestimmt Waldtruderinger Straße 49
+- TOP 10.1: UA Allgemeines
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.4: UA Planung
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.6: UA Umwelt
