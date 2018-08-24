@@ -2,20 +2,20 @@
 Lfd. Nr. Sachgebiet Titel/Quelle/Genese/fortgeltende Bestandteile
 1. 214 Vierte Durchführungsverordnung zum Landeskulturgesetz – Schutz vor Lärm –
 vom 14. Mai 1970 (GBl. II Nr. 46 S. 343)
-Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 22 des G vom 6. Juni 2002 (SächsGVBl. S. 168)
+Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 22 des Gesetzes vom 6. Juni 2002 (SächsGVBl. S. 168)
 2. 214 Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung – Feuerungsanordnung (FeuAO) –
 vom 10. September 1990 (GBl. I Nr. 62 S. 1557)
-Vorschrift außer Kraft durch § 15 Absatz 2 der VO vom 17. September 1998 (SächsGVBl. S. 516, 520)
+Vorschrift außer Kraft durch § 15 Absatz 2 der Verordnung vom 17. September 1998 (SächsGVBl. S. 516, 520)
 3. 215 Brandschutzanordnung Nr. 9 – Verkaufsstätten, Warenhäuser und Messehallen –
 vom 26. Januar 1963 (GBl. II Nr. 13 S. 79)
-Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 23 des G vom 6. Juni 2002 (SächsGVBl. S. 168)
+Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 23 des Gesetzes vom 6. Juni 2002 (SächsGVBl. S. 168)
 4. 215 Arbeitsschutz- und Brandschutzanordnung 420 – Verkaufsstellen –
 vom 27. Dezember 1973 (GBl. I 1974 Nr. 7 S. 66)
 fortgeltend:
 §§ 1, 2, 4 bis 12 § 13 Abs. 2 bis 8 § 14 Abs. 2 und 3 §§ 15 bis 18
 5. 221 Anordnung über die Ausbildung von technischen Assistenten auf dem Gebiet der Naturwissenschaften
 vom 10. Dezember 1960 (GBl. II 1961 Nr. 2 S. 3)
-Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 24 des G vom 6. Juni 2002 (SächsGVBl. S. 168)
+Vorschrift aufgehoben durch Artikel 1 § 1 Nr. 24 des Gesetzes vom 6. Juni 2002 (SächsGVBl. S. 168)
 6. 226+ Anordnung über die Touristik mit Reit- und Zugtieren
 vom 31. Oktober 1974 (GBl. I Nr. 56 S. 511)
 fortgeltend:
@@ -30,17 +30,16 @@ fortgeltend:
 gesamte Vorschrift
 9. 315 Gesetz über die Schiedsstellen in den Gemeinden
 vom 13. September 1990 (GBl. I Nr. 61 S. 1527)
-Vorschrift außer Kraft durch § 59 des G vom 27. Mai 1999 (SächsGVBl. S. 247, 254)
+Vorschrift außer Kraft durch § 59 des Gesetzes vom 27. Mai 1999 (SächsGVBl. S. 247, 254)
 10. 40a Gesetz über die Bildung und Tätigkeit von Stiftungen – Stiftungsgesetz –
 vom 13. September 1990 (GBl. I Nr. 61 S. 1483)
-Vorschrift außer Kraft durch Artikel 3 Nr. 1 des G vom 7. August 2007 (SächsGVBl. S. 386, 388
+Vorschrift außer Kraft durch Artikel 3 Nr. 1 des Gesetzes vom 7. August 2007 (SächsGVBl. S. 386, 388
 11. 611 Gesetz zur Regelung des Kirchensteuerwesens
 vom 23. September 1990 (BGBl. 1990 II S. 885, 1194)
-Vorschrift außer Kraft durch § 17 des G vom 14. Februar 2002 (SächsGVBl. S. 82, 84)
+Vorschrift außer Kraft durch § 17 des Gesetzes vom 14. Februar 2002 (SächsGVBl. S. 82, 84)
 12. 7820 Anordnung über den Einsatz von Bienenvölkern zur Blütenbestäubung von Obst-, Ölfrucht- und Vermehrungskulturen sowie zur Nutzung sonstiger Kultur- und Naturtrachten
 vom 18. September 1987 (GBl. I Nr. 25 S. 243)
-fortgeltend:
-§ 1 Abs. 1 und 2 Buchst. b, soweit sonstige Betriebe und Einrichtungen, die Bienen halten, betroffen sind, und Buchst. d § 2 Abs. 1 Satz 1 und 2 § 12, mit Ausnahme des Hinweises in Absatz 2 auf den staatlichen Standard (TGL) und die Abstimmung mit dem für die Belegstationen zuständigen Vorstand des VKSK § 15 Abs. 1
+Vorschrift außer Kraft durch § 7 Satz 2 des Gesetzes vom 3. August 2018 (SächsGVBl. S. 494)
 13. 791 Verordnung über die Erhaltung, die Pflege und den Schutz der Bäume – Baumschutzverordnung –
 vom 28. Mai 1981 (GBl. I Nr. 22 S. 273)
 fortgeltend:
@@ -60,15 +59,15 @@ fortgeltend:
 gesamte Vorschrift nach Maßgabe von Artikel 3 Satz 3 des Gesetzes zur Regelung der Rechtsverhältnisse bei Eisenbahnen und Seilbahnen im Freistaat Sachsen vom 12. März 1998 (SächsGVBl. S. 97, 106).
 17. 94 Anordnung Nr. 2 über die Regelung des Verkehrs auf Binnengewässern – Binnengewässerverkehrsordnung (BGVO) –
 vom 15. Februar 1984 (GBl. I Sonderdruck Nr. 951/1)
-Vorschrift außer Kraft durch § 17 Nr. 1 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
+Vorschrift außer Kraft durch § 17 Nr. 1 der Verordnung vom 12. März 2004 (SächsGVBl. S. 123, 126)
 18. 94 Anordnung Nr. 2 über die Regelung des Verkehrs mit Sport- und Hausbooten – Sportbootanordnung (SBAO) –
 vom 27. Februar 1990 (GBl. I Sonderdruck Nr. 730/4)
-Vorschrift außer Kraft durch § 17 Nr. 2 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
+Vorschrift außer Kraft durch § 17 Nr. 2 der Verordnung vom 12. März 2004 (SächsGVBl. S. 123, 126)
 19. 950 Anordnung über den Betrieb und die Benutzung von Fähren und Fähranlegestellen – Fährordnung –
 vom 26. März 1970 (GBl. II Nr. 32 S. 231)
-Vorschrift außer Kraft durch § 17 Nr. 3 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
-20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB- AO) –
+Vorschrift außer Kraft durch § 17 Nr. 3 der Verordnung vom 12. März 2004 (SächsGVBl. S. 123, 126)
+20. 9503 Anordnung über die Besetzung von Fahrzeugen und Verbänden sowie über Befähigungszeugnisse, Berechtigungsscheine, Bordlisten und Schifferdienstbücher in der Binnenschiffahrt – Binnenschiffsbesetzungsanordnung (BSB-AO) –
 vom 18. Dezember 1986 (GBl. I Sonderdruck Nr. 1281)
-Vorschrift außer Kraft durch § 17 Nr. 4 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
+Vorschrift außer Kraft durch § 17 Nr. 4 der Verordnung vom 12. März 2004 (SächsGVBl. S. 123, 126)
 21. 97 Anordnung über die öffentliche Personen- und Gepäckbeförderung des Kraftverkehrs, Nahverkehrs und der Fahrgastschiffahrt – Personenbeförderungsanordnung (PBO) –
-Vorschrift außer Kraft durch § 17 Nr. 5 der VO vom 12. März 2004 (SächsGVBl. S. 123, 126)
+Vorschrift außer Kraft durch § 17 Nr. 5 der Verordnung vom 12. März 2004 (SächsGVBl. S. 123, 126)
