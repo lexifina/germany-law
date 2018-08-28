@@ -1,0 +1,123 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-08-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595513
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595513
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Budget der Bezirksausschüsse LORA Förderverein e.V. Projekt "Für Demokratie und Menschenrechte - 25 Jahre LORA München als Forum der Stadtgesellschaft" am 05.10.2018 2.000,00 Euro Az.: 0262.0-2-0233
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Hidalgo e.V. Veranstaltung "Prometheus" am 13.09.2018 2.676,50 Euro Az.: 0262.0-2-0231
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Hidalgo e.V. Veranstaltung "Song&Slam" am 10.09.2018 3.000,00 Euro Az. 0262.0-2-0232
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Initiative "from paper to print" Projekt "from Paper to Print" 1.100,00 € Az: 0262.0-2-0234
+- TOP 5.1.: Öffnungszeiten Schyrenbad
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.3.1.: Antrag auf Baugenehmigung einer Werbeanlage (Ersatz), Schwanthalerstraße 43
+- TOP 3.3.2.: Änderung der Denkmalliste, hier: Ensemble Wiesenviertel, Erweiterung der Ensemblefläche
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Genehmigung einer Freischankfläche, Kapuzinerstraße 4
+- TOP 2.1.2.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Kapuzinerstraße 31
+- TOP 2.1.3.: Antrag auf Aufhebung der Sperrzeit, Schillerstraße 11a / rechts
+- TOP 2.1.4.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Thalkirchner Straße 16
+- TOP 2.2.1.: Roecklplatz 3, Erweiterung einer Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.3.1.: Antrag für 2 Bänke, Holzstraße 2
+- TOP 2.3.2.: Entscheidung über die Projektplanung, Programm barrierefreie Bushaltestellen, Lessingstraße, Haltestelle Georg-Hirth-Platz
+- TOP 2.3.3.: (E) Aufstockung der Polizeibestreifung zwischen Karlsplatz und Hauptbahnhof
+- TOP 2.3.4.: Antrag für einen mobilen Fahrradständer, Schillerstraße 7
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: München Marathon am 14.10.2018 und Trachtenlauf am 13.10.2018
+- TOP 3.1.2.: Wiesnzüge Oktoberfest am 22.09.2018 und 23.09.2018
+- TOP 3.1.3.: Sitztribünen und Toiletten für Wiesnzüge Oktoberfest am 22.09.2018 und 23.09.2018
+- TOP 3.1.4.: Eröffnung Zenettiplatz vom 15.09.-22.09.2018
+- TOP 3.1.5.: „Play me, I&#039;m yours 2018“ im Zeitraum vom 07.09. - 23.09.2018 (Aufbau ab 03.09., Abbau bis 28.09.)
+- TOP 3.2.1.: Gesamtkonzeption Fahrradparken in München
+- TOP 3.2.2.: Planfeststellungsverfahren, Bau eines dritten Tram-Gleises am Bahnhofsvorplatz München Hauptbahnhof, TEKTUR
+- TOP 3.2.3.: Bavariaring (Südseite) zwischen der Ein- und Ausfahrt an der Wirtsbudenstraße und der Lichtsignalanlage Bavariaring/Theresienhöhe – Freigabe des Gehweges für den gegenläufigen Radverkehr
+- TOP 3.2.4.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen nud ähnliche Einrichtungen, hier: Wittelsbacherstraße, Mittelschule Wittelsbacherstraße 10
+- TOP 3.2.5.: Umsetzung E-Parken in City2Share
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Mehr temporäre Zwischennutzungen und Freischankflächen, Anhörung zum Stadtratsantrag
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP A 4.3.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP A 4.4.: (U) Errichtung einer 3gruppigen Kinderkrippe an der Baaderstraße 86-90 im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt Genehmigung des NBP
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.3.: Begrünung städtischer Gebäude und Bauwerke im Stadtbezirk 2
+- TOP B 4.4.: (U) Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner) Empfehlung Nr. 14-20 / E 01938 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 22.03.2018
+- TOP B 4.5.: (U) Atlas Wirtschaftsstandort München
+- TOP B 4.6.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP B 4.7.: (U) Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP B 4.8.: Schillerstraße 3, Neubau eines Hotels mit Gastronomie im EG und Tiefgarage, Referatsschreiben
+- TOP B 4.9.: Landwehrstraße 50, Nutzungsänderung: Spielhalle zu Wettbüro, Referatsschreiben
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.6.: Fahrradstellplätze für die Goethestraße
+- TOP C 4.7.: Sauberkeit Goetheplatz
+- TOP C 4.8.: Abdruck, Schreiben des BA 1 zum Thema (temporäre) Fußgängerzone Reichenbachstraße
+- TOP C 4.9.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten, Einbindung der Bezirksausschüsse
+- TOP C 4.10.: Zenettiplatz, Veranstaltungen, Antwort der Verwaltung auf ein Bürgerschreiben
+- TOP C 4.11.: Brunnen am St.-Pauls-Platz - BA trägt Betriebskosten für bestehenden Brunnen, Antwortschreiben auf den BA-Antrag Nr. 14-20 / B 04887 vom 15.05.2018
+- TOP C 4.12.: Längere Aufbauzeiten – sichere Oktoberfestbaustelle
+- TOP C 4.13.: Haltverbot Bayerstraße 2-4 und Entfernung von Geländern an der Südseite der Bayerstraße, Antwort auf das BA-Schreiben 2018.05 C 5.4
+- TOP C 4.14.: Vollzug des Bundesimmissionsschutzgesetzes, Ausnahmezulassung, Baaderstraße 3, Thierschstraße 3, Thierschstraße 23, Mariannenplatz 1; Grabenlose Kanalsanierung mittels Schlauchlinerverfahren
+- TOP C 4.15.: Vollzug des Bundesimmissionsschutzgesetzes, Ausnahmezulassung für nächtliche Arbeiten: Herstellen von Reinigungsöffnungen an begehbaren Kanälen
+- TOP C 4.16.: Eilentscheidung, Veranstaltung, Fest in der Pesalozzistraße am 01.09.2018
+- TOP C 4.17.: Beschilderung Fuß- und Radweg Westermühlbach, Antwortschreiben auf 2018.06 C 5.2
+- TOP C 4.18.: Nutzung an der Örtlichkeit Kapuzinerstraße 2, Antwortschreiben auf 2018.07 C 5.3
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Informationsschreiben zu Ausschreibungen ab 18.10.2018
+- TOP D 4.2.: Stadtbezirksbudget für München; Informationen über die Beschlussfassung im Stadtrat
+- TOP E 2: Bereich Besondere Angelegenheiten
