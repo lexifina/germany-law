@@ -1,0 +1,165 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-08-29T17:18:00+02:00
+- Ende: 2018-08-29T22:31:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3237
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3237
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Vorkaufsrecht des Milieuschutzgebiet Schillerpromenade durch den Bezirk - beantwortet
+- TOP 1.2: Wissmannstraße - Drucksache 0089/XX - beantwortet
+- TOP 1.3: Schließung der Böhmischen Straße - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - in der BVV abgelehnt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Die Buslinie 171 soll wieder durch das Einkaufs- und Dienstleistungszentrum Alt-Rudow fahren - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Ausschuss für Soziales und Bürgerdienste - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Vorzeitige Beendigung eines Mandats als stellvertretende Bürgerdeputierte im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.4: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.5: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.6: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.7: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.8: Nachrücken zweier stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.9: Benennung eines Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer stellvertretenden Bürgerdeputierten für den Soziales und Bürgerdienste - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - gewählt
+- TOP 7.3: Nachwahl eines stellvertretenden Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 7.4: Wahl einer Schiedsfrau / eines Schiedsmannes für den Schiedsamtsbezirk 3 - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8.1: Genehmigung der im Haushaltsjahr 2017 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 8.2: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2017 - überwiesen
+- TOP 9: Mündliche Anfragen - erledigt
+- TOP 9.1: Vorsorgeuntersuchungen bei Menschen mit Migrationshintergrund - beantwortet
+- TOP 9.2: Brandschutz an der Karlsgarten-Schule - beantwortet
+- TOP 9.3: Dänischer Pensionsfonds auch in Neukölln aktiv? - beantwortet
+- TOP 9.4: Warum müssen Neuköllner Schüler*innen zum Schuljahresbeginn in ungereinigten Räumen lernen? - beantwortet
+- TOP 9.5: Michael Ende Grundschule - beantwortet
+- TOP 9.6: Schüler werden von Schulen zurückgewiesen? - schriftlich beantwortet
+- TOP 9.7: Verkehrskonzept Richardkiez - beantwortet
+- TOP 9.8: Holpriger Schulstart - schriftlich beantwortet
+- TOP 9.9: Reinigungszustand an Schulen - schriftlich beantwortet
+- TOP 9.10: "Niemand hat die Absicht, eine Mauer zu errichten" - schriftlich beantwortet
+- TOP 9.11: Mietschuldenübernahme Maybachufer/Manitiusstr. - schriftlich beantwortet
+- TOP 9.12: Ausweichstandort für geplante Modulare Flüchtlingsunterkunft - schriftlich beantwortet
+- TOP 9.13: Wasserführung in Neuköllner Feuchtbiotopen - schriftlich beantwortet
+- TOP 9.14: Stand der Tiefenprüfungen an vorgesehenen MUF-Standorten - schriftlich beantwortet
+- TOP 9.15: Austausch moderner Gasetagenheizungen - schriftlich beantwortet
+- TOP 9.16: Sanierungs- und Renovierungsarbeiten an Schule - schriftlich beantwortet
+- TOP 9.17: Warum verweigert das Bezirksamt die Beantwortung der KA 221? - schriftlich beantwortet
+- TOP 9.18: Partnerschaften für Demokratie Neukölln - schriftlich beantwortet
+- TOP 9.19: Zutritt der AfD zu Neukölln Open - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Planungen RIAS Gelände - beantwortet
+- TOP 10.2: Mobbing an Neuköllner Schulen - beantwortet
+- TOP 10.3: Einrichtung von weiteren Neuköllner Koordinierungsstellen - überwiesen
+- TOP 10.4: Schilderirrsinn in Neukölln - überwiesen
+- TOP 10.5: Statistik zur Gewalt an Schulen - (offen)
+- TOP 10.6: Qualität und Quantität in der Kältehilfe gemeinsam verbessern - (offen)
+- TOP 10.7: Stopp dem Feuerwerkswahnsinn! - (offen)
+- TOP 10.8: Gemeinsame Geschäftsordnung im Bezirksamt Neukölln einhalten - (offen)
+- TOP 10.9: Wie gewährleistet das Bezirksamt die Sicherheit für Radfahrende in der Karl-Marx-Straße? - (offen)
+- TOP 10.10: Arbeiten auf dem Tempelhofer Feld - (offen)
+- TOP 10.11: Gegen nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen - (offen)
+- TOP 10.12: Verkehrskollaps Koppelweg - (offen)
+- TOP 10.13: Bürgerämter Neukölln - Sieht so Bürgerfreundlichkeit aus? - (offen)
+- TOP 10.14: Obdachlose aus Ost - und Südosteuropa – Gesetze konsequent anwenden - (offen)
+- TOP 10.15: Vorbereitende Untersuchung Milieuschutzgebiet Gropiusstadt beauftragen - überwiesen
+- TOP 10.16: Haltestellenumbenennung - überwiesen
+- TOP 10.17: Bebauung ehemaliger Güterbahnhof Neukölln - (offen)
+- TOP 10.18: Schulgarten Carl-Legien Schule - (offen)
+- TOP 10.19: Parkverbotszone - (offen)
+- TOP 10.20: Beteiligung am europaweiten autofreien Tag - (offen)
+- TOP 10.21: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - (offen)
+- TOP 10.22: Brandschutz in Shisha-Bars sicherstellen - (offen)
+- TOP 10.23: Blühstreifen, Blühflächen und wohnumfeldnahes Grün - (offen)
+- TOP 10.24: Neuköllner Schreiambulanz - (offen)
+- TOP 10.25: Mehr Macht für den Bürgermeister? - (offen)
+- TOP 10.26: Asbest Rias-Gelände - (offen)
+- TOP 10.27: Brandbrief von Schulen im Bezirk & Maßnahmen gegen die gravierenden Missstände an den Neuköllner Schulen - (offen)
+- TOP 10.28: Gesundheitspräventionskette in Neukölln - (offen)
+- TOP 10.29: Verkehrskonzept für Neukölln – viele „Baustellen“ und kein Plan? - (offen)
+- TOP 10.30: Ausbau von Dachgeschossen - (offen)
+- TOP 10.31: Langzeitarbeitslosigkeit und „soziales Grundeinkommen“ in Neukölln - (offen)
+- TOP 10.32: Ausschilderung Baustelle Karl-Marx-Straße - (offen)
+- TOP 10.33: Wilde Altkleidercontainer - überwiesen
+- TOP 10.34: Skulptur für Stadtteilbibliothek - überwiesen
+- TOP 10.35: Wirksame Tempobegrenzung in der Hufeisensiedlung - überwiesen
+- TOP 10.36: Sitzbänke am Weigandufer aufstellen - (offen)
+- TOP 10.37: Keine Verwaltungsreform zu Lasten der Bezirke - überwiesen
+- TOP 10.38: Grundwassermanagement - überwiesen
+- TOP 10.39: Bürger*innenpreis für Demokratie und Courage in Neukölln - überwiesen
+- TOP 10.40: Fair gehandelte Bewirtung im Bezirksamt - überwiesen
+- TOP 10.41: Im digitalen Zeitalter ankommen und die BVV im Livestream umsetzen - (offen)
+- TOP 10.42: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - überwiesen
+- TOP 10.43: Lehr- und Lernmitteletat der Schulen - überwiesen
+- TOP 10.44: Maßnahmen gegen ausufernde Lärmbelästigung in der Weserstraße - überwiesen
+- TOP 10.45: LSBTI in Neukölln wirksam vor Gewalt schützen – Stelle für Queer-Beauftragte*n umgehend einrichten - überwiesen
+- TOP 10.46: Gedenkort Zwangarbeiterlager Fulhamer Allee - überwiesen
+- TOP 10.47: Einrichtung von Boule-Bahnen - überwiesen
+- TOP 10.48: Vor weiteren modularen Unterkünften für Migranten das Asylrecht durchsetzen - (offen)
+- TOP 10.49: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - (offen)
+- TOP 10.50: Einrichtung weiterer Sonderschulen - (offen)
+- TOP 10.51: Maroder Bordstein - (offen)
+- TOP 10.52: Bei weiterem Umbau der Karl-Marx-Straße Konsequenzen aus dem Fahrradstreifen-Desaster ziehen - überwiesen
+- TOP 10.53: Rettet die Baumscheibe - (offen)
+- TOP 10.54: Buslinie M 41 verlängern - (offen)
+- TOP 10.55: Schilder da, aber niemand kann sie sehen - (offen)
+- TOP 10.56: Preisgestaltung bei den Berliner Bäderbetrieben - (offen)
+- TOP 10.57: Verkehrsschild mit Graffiti - (offen)
+- TOP 10.58: Zentrale Erfassung und Veröffentlichung aller Tage der offenen Türen an den Neuköllner Schulen - (offen)
+- TOP 10.59: Keine öffentlichen Stellflächen für Zirkusse mit bestimmten wildlebenden Arten - (offen)
+- TOP 10.60: Einführung eines elektronischen Klassenbuches - Reduzierung der Schulschwänzer - (offen)
+- TOP 10.61: Einführung eines Männersportförderpreises in Neukölln - (offen)
+- TOP 10.62: Anwendung des Berliner Schulgesetzes zur Durchsetzung eines normalen Unterrichtes - (offen)
+- TOP 10.63: Mitbestimmung der Schulleiterkonferenz an der Schülerzuweisung - überwiesen
+- TOP 10.64: Baumschulware am Campus Rütli retten - (offen)
+- TOP 10.65: Fortschreibung des Neuköllner Integrationspapiers von 2009 - (offen)
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Ausbildungsaufgaben gerecht verteilen und Stundenbelastung senken - (offen)
+- TOP 11.2: Nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen ausschließen - (offen)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Dauerprojekt Späthbrücke - (offen)
+- TOP 12.2: Unzumutbare Bearbeitungszeiten beim Unterhaltsvorschuss? - (offen)
+- TOP 12.3: Abgetauchte Migranten - (offen)
+- TOP 12.4: Bürgersteige - (offen)
+- TOP 12.5: Zweckentfremdung von Wohnraum für Ferienwohnungen - (offen)
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: QM in der Gropiusstadt - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Radweg Gielower Straße - Grüner Weg/ Buschkrugallee - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Abwendungsvereinbarungen - überwiesen
+- TOP 14.4: Auflagen für Schankvorgärten bei Außengastronomie - überwiesen
+- TOP 14.5: Spielplatzkommission konzeptionell neu aufstellen - überwiesen
+- TOP 14.6: Sicherung von Kleingartenanlagen - überwiesen
+- TOP 14.7: Das Berliner Mobilitätsgesetz in Neukölln zügig umsetzen - überwiesen
+- TOP 14.8: Unterhaltsvorschuss: Alleinerziehende nicht warten lassen! - überwiesen
+- TOP 14.9: Fairen Einkauf für die Verwaltungen erleichtern - überwiesen
+- TOP 14.10: Wohnraum sichern: Illegale Vermietung von Ferienwohnungen unterbinden! - überwiesen
+- TOP 14.11: Verbot der Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten - (offen)
+- TOP 14.12: Ursachen für Säuglingssterblichkeit wissenschaftlich erforschen lassen - überwiesen
+- TOP 14.13: Der Berliner Luftbrücke in Neukölln angemessen gedenken und Neuköllner Jugendliche darüber informieren - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - (offen)
+- TOP 16.2: Fußgängerüberweg vor Kita Momo - (offen)
+- TOP 16.3: Nachtruhe sichern - (offen)
+- TOP 16.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.5: Fußgängerampelzeit Werbellinstraße/ Ecke Morusstraße - (offen)
+- TOP 16.6: Behindertengerechter Übergang - (offen)
+- TOP 16.7: Öffentlich-rechtliche Informationssender für Meinungsvielfalt statt privatem Nachrichtensender im Bezirk - (offen)
+- TOP 16.8: Recyclinghof - (offen)
+- TOP 16.9: Müll-Haie in der Gradestraße - (offen)
+- TOP 16.10: Leichte Sprache als gut sichtbares Zusatzangebot - (offen)
+- TOP 16.11: Landesmittel für Drogenkonsumraum in Neukölln nutzen - (offen)
+- TOP 16.12: Glas-Iglus Böhmische Str. 55-56 aufstellen - (offen)
