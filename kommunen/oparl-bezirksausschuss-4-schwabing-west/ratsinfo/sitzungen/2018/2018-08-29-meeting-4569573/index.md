@@ -1,0 +1,146 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-08-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindungen der Bezirksausschüsse
+- TOP 6.2.: Stadtbezirksbudget: Information des Direktoriums zur Umstellung
+- TOP B: Soziales
+- TOP 1.1.: Bürger: Sanierung der Georgenschwaige
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Gärtnerei Stängle & Limmer 20 Führungen von September 2018 - Juli 2019 1.960,00 Euro Az.: 0262.0-4-0217
+- TOP 2.2.: (E) Stadtbezirksbudget Förderverein Farinelli-Schule e.V. Programm der Städt. Schule der Phantasie im Schuljahr 2018/2019 4.600,00 Euro Az.: 0262.0-4-0216
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Sanierung der Georgenschwaige: Verbesserung des Angebots für Ältere und Menschen mit Behinderung (Antwort der SWM Bäder auf BA-Schreiben vom 02.08.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid LILALU „Umsonst und Draußen“
+- TOP 3.2.2.: Bewilligungsbescheid „Kinder treffen Künstler“ an der Wilhelmschule
+- TOP 3.2.3.: Verwendungsnachweis für den Bau eines Parklets
+- TOP 3.2.4.: Bewilligungsbescheid Ausbildungsworkshop Hermann-Frieb-Realschule
+- TOP 3.2.5.: Bewilligungsbescheid Marli Bossert Stiftung „eigenleben.jetzt“
+- TOP 3.2.6.: Änderungsbescheid Initiative „Hänsel und Gretel“
+- TOP 3.2.7.: Änderungsbescheid Condrobs e.V.
+- TOP 3.2.8.: Bewilligungsbescheid Stiftzwerge
+- TOP 3.2.9.: Bewilligungsbescheid ClubIN „Multiplikatorenprojekt“
+- TOP 3.2.10.: Bewilligungsbescheid 40 Jahre Sozialpsychiatrischer Dienst
+- TOP 3.2.11.: Verwendungsnachweis für die Aktion „AktivFerien am Ackermannbogen“
+- TOP 3.2.12.: Kurzbericht zu dem Projekt „Kicklusion – Alle spielen mit!“ – MobilSpiel e.V.
+- TOP 3.2.13.: Kurzbericht zum Sommerfest des Sophie-Scholl-Gymnasiums
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: REWE-Markt Hohenzollernstr. 84: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.1.2.: Imbiss „Shizoo“ Isoldenstr. 35: Genehmigung einer Freischankfläche
+- TOP 2.1.3.: Schuhgeschäft „EmmaLuis“ Belgradstr. 4: Antrag für eine Flächenerweiterung einer bestehenden Warenauslage
+- TOP 2.1.4.: Antrag der SPD-Stadtratsfraktion: Mehr temporäre Zwischennutzungen und Freischankflächen
+- TOP 2.1.5.: „Rossmann“ Isoldenstr. 37: Aufstellung eines zweiten mobilen Fahrradständers
+- TOP 2.3.1.: München Marathon am 14.10.2018
+- TOP 2.3.2.: Geschichtenfestival vom 11. bis 14.10.2018 im Luitpoldpark
+- TOP 2.3.3.: Winterfeuer des Jugendzentrums am 07.12.2018 am Ackermannbogen
+- TOP 2.3.4.: Sporttag des Jugendzentrums am 05.10.2018 am Ackermannbogen
+- TOP 2.3.5.: Aktion „Play me, I&#039;m Yours 2018“ in der Georg-Birk-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid „Never Again“ Open Air Kunstwerk Königsplatz
+- TOP 3.2.2.: Bewiligungsbescheid Ackermannbogen e.V. „Gelebte Demokratie“
+- TOP 3.2.3.: Bewilligungsbescheid Kunst im Karrée 2018
+- TOP 3.2.4.: Kurzbericht zum Tanzprojekt ACCESS TO DANCE - depARTures
+- TOP 3.2.5.: Bewilligungsbescheid Isarlust e.V. „Play me, I&#039;m yours“
+- TOP 3.3.1.: „Tatort“ am 15.08.2018 im Luitpoldpark
+- TOP 3.3.2.: „Barmer“ am 21. und 22.08.2018 in der Riesstraße 38 sowie Friedrichstraße 23
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Ersatzstandort des ambulanten Obsthändlers an der Wendeschleife Petuelring
+- TOP 3.5.2.: Muharram 2018 im Luitpoldpark (Eilentscheidung des stellv. Vorsitzenden)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Clemensstr. 131 - „Schwabinger Carré“: Temporäre Verbindung der beiden Tiefgaragen RT1 + RT2 im UG während der Bauzeit des 2. (südlichen) Bauabschnitts
+- TOP 2.1.2.: Hohenzollernstr. 158: Erweiterung eines Backshops um einen Lieferservice (Pizza/Asia) mit Nutzungsänderung
+- TOP 2.1.3.: Vorbescheid Bauerstr. 9: DG-Ausbau und Nutzungsänderung der Einheit 18 (Souterrain) von Lagerräumen zu Wohnfläche
+- TOP 2.1.4.: Jakob-Klar-Str. 12: Einbau eines Zwerchgiebels mit Balkon und einer Gaube in eine bestehende DG-Wohnung
+- TOP 2.1.5.: Vorbescheid Clemensstr. 67: Umbau einer Wohnung (4. OG) mit Errichtung eines Dacheinschnitts und eines Zugangs zum Speicher in einem Wohn- und Geschäftshaus
+- TOP 2.1.6.: Jakob-Klar-Str. 9: DG-Ausbau mit Errichtung zweier Wohnungen und Anbau eines Außenaufzugs
+- TOP 2.1.7.: Franz-Joseph-Str. 35: Nutzungsänderung Ladenfläche zu Gaststätte mit Alkoholausschank
+- TOP 2.1.8.: Tektur Franz-Joseph-Str 45: Um- und Ausbau RGB, Erweiterung einer Wohneinheit (RGB) sowie Errichtung eines hofseitigen Balkons im DG/VGB, hier: Nutzungsänderung im EG: Bankflächen zu Arztpraxis
+- TOP 2.1.9.: Wilhelm-Meister-Str. 14: Erweiterung der Gaube, Errichtung zweier Gauben sowie einer Eingangsüberdachung
+- TOP 2.1.10.: Schleißheimer Str. 85-87: Änderung von Erschließung und Fluchtweg Bereich EG/1. OG durch Errichtung eines befestigten Wegs auf dem Flachach über EG
+- TOP 2.1.11.: Tektur Clemensstr. 51: DG-Ausbau (RGB)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Einrichtung eines neuen Erhaltungssatzungsgebietes „Schleißheimer Straße“ (Zwischennachricht zum BA-Antrag Nr. 14-20/B 05058 vom 27.06.2018)
+- TOP 3.1.2.: Prüfung der Denkmaleigenschaft des Walmdachhauses an der Schwere-Reiter-Straße
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.2.: Adelheidstr. 27: Abdruck der Baugenehmigung für die Tektur (vgl. Stellungnahme des BA vom 01.02.2018)
+- TOP 3.2.3.: Protokoll der Mieterbeiratssitzung vom 16.07.2018 – Referat zum neuen Vorkaufsrecht
+- TOP 3.2.4.: Gestaltung der Grünflächen im Kreativquartier (Abdruck eines Schreibens des Baureferats Gartenbau an den BA 9)
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: a) Zebrastreifen oder Bedarfsampel an der Infanteriestraße b) Feuerwehranfahrtszone Elisabeth-Kohn-Straße
+- TOP 1.2.: Bürger: Verkehrssituation Barbarastraße
+- TOP 1.3.: Bürger: Parksituation Therese-Studer-Straße
+- TOP 1.4.: Bürger: Wasserstelle für Vögel, Luitpoldpark
+- TOP 1.5.: Bürger: Überfüllter Mülleimer Ecke Isabella- / Agnes Straße
+- TOP 1.6.: Bürger: Ausbau der Radschnellwege Nord-Süd in der Schleißheimer Straße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: St.-Blasien-Str. 1-3: Fällung einer Birke
+- TOP 2.1.2.: Zittelstr. 4: Fällung einer Espe
+- TOP 2.1.3.: Lerchenauerstr. 41: Fällung von drei Silberahorn
+- TOP 2.1.4.: Parzivalstr. 63: Fällung einer Blaufichte
+- TOP 2.2.1.: Sitzplätze im nördlichen Buswartehäuschen (Linie 142) am Scheidplatz
+- TOP 2.2.2.: Schulwegsicherheit an der Kreuzung Rhein-/Mainzer Straße: Ergebnisse des Ortstermins
+- TOP 2.2.3.: Absolutes Haltverbot in der Lissi-Kaeser-Straße außerhalb der Parkbuchten
+- TOP 2.2.4.: Fahrradfreundliche Gestaltung der Kreuzung Clemens-/Fallmerayerstraße (Baureferat Tiefbau bittet um Stellungnahme zu neuem Vorschlag)
+- TOP 2.2.5.: Entwurf der Beschlussvorlage zur Bürgerversammlungsempfehlung Nr. 14-20 / E 01701: Minderung der Emissionen des ÖPNV durch Einsatz von Elektrobussen in Schwabing-West (Sitzungsvorlage Nr. 14-20 / V 10975)
+- TOP 2.2.6.: (E) Winzererstraße in voller Länge zur Fahrradstraße umwidmen
+- TOP 2.2.7.: Haltverbote in der Therese-Studer-Straße (Rückfrage des KVR zum BA-Antrag, dazu Ortstermin am 27.08.2018 um 13.30 Uhr vor Therese-Studer-Str. 1)
+- TOP 2.2.8.: Absenkung des kombinierten Rad- und Fußwegs Barlachstraße im Bereich der Hagedornstraße: Terminvorschläge des Baureferats für Ortstermin
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Efeubewachsener Baum in der Herzogstr. 91 (Antwort der Unteren Naturschutzbehörde auf BA-Schreiben vom 28.06.2018)
+- TOP 3.1.2.: Baumfällungen vor dem Altenheim St. Willibrord (Antwort der Caritas auf BA-Schreiben vom 26.07.2018)
+- TOP 3.1.3.: Parklizenzgebiet „Lerchenauer Straße“ (Antwort des KVR auf BA-Schreiben vom 28.06.2018)
+- TOP 3.1.4.: Gefährdung von Radfahrern am Bonner Platz (Antwort des KVR auf BA-Schreiben vom 26.07.2018)
+- TOP 3.1.5.: Einrichtung eines Taubenhauses auf dem Dach des Karstadt am Nordbad (Antwort der Geschäftsführung auf BA-Schreiben vom 26.07.2018)
+- TOP 3.2.1.: Genehmigungsbescheid zur Fällung zweier Fichten in der Schleißheimer Str. 229
+- TOP 3.2.2.: Genehmigungsbescheid zur Fällung zweier Pappeln in der Elisabethstr. 15-21
+- TOP 3.2.3.: Genehmigungsbescheid zur Fällung einer Fichte in der Destouchesstr. 40
+- TOP 3.3.1.: Tempo 30 in der Karl-Theodor-Straße (Bereich Sophie-Scholl-Gymnasium)
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Ausnahmegenehmigung für Fahrleitungsarbeiten an der Tramwendeschleife Petuelring nachts und -soweit erforderlich- an Sonn- und Feiertagen in der Zeit vom 26.07.2018 bis 07.10.2018
+- TOP 3.4.2.: Ausnahmegenehmigung für den Beginn der Mülleinsammlung in der Schleißheimer Straße zwischen Ackermannstraße und Petuelring bereits ab 5.30 Uhr
+- TOP 3.4.3.: Ausnahmezulassung für Feiertagsarbeit am 15.08.2018; Unterhaltsmaßnahme im Rahmen der Gleiserneuerung an der Tram-Wendeschleife Petuelring
+- TOP 3.4.4.: Ausnahmezulassung für nächtliche Arbeiten im Bereich Kurfürstenplatz
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
