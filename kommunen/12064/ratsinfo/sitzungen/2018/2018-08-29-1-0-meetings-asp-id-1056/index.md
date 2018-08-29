@@ -1,0 +1,51 @@
+# 31. Sitzung des Kreistages Märkisch-Oderland
+
+- Körperschaft: Landkreis Märkisch-Oderland
+- Beginn: 2018-08-29T17:00:00+02:00
+- Ende: 2018-08-29T19:50:00+02:00
+- Ort: Erich-Weinert-Straße 13, 15306 Seelow
+- Status: 
+- Gremium: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://ratsinfo-online.net/landkreis-mol-bi/to010.asp?SILFDNR=1056
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=1056
+- Quelle: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=105&id=60399
+- Ergebnisprotokoll: Niederschrift https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/download.asp?dtyp=110&id=60875
+
+## Tagesordnung
+
+- TOP 1: Zur Geschäftsordnung
+- TOP 1.1: Begrüßung und Eröffnung
+- TOP 1.2: Prüfung der Ordnungsmäßigkeit der Ladung
+- TOP 1.3: Entscheidung über Einwendungen gegen die Niederschrift (Öffentlicher Teil) der 30. Sitzung vom 06.06.2018
+- TOP 1.4: Feststellung der Tagesordnung
+- TOP 1.5: Feststellung von Ausschließungsgründen gem. § 22 BbgKVerf
+- TOP 2: Anfragen der Einwohner
+- TOP 2.1: Bau einer Oberschule in Fredersdorf-Vogelsdorf <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Bürger aus Fredersdorf)</span>
+- TOP 3: Anfragen der Kreistagsabgeordneten
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Anfrage zur Kündigung von Prämiensparverträgen der Kreissparkasse Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion BVB-Freie Wähler, FDP)</span>
+- TOP 3.3: Aktueller Stand des Breitbandausbaus im Landkreis Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion AfD/Freiheit, Arbeit, Werte)</span>
+- TOP 3.4: Aufgabenübertragung für Verkehrsrechtliche Anordnung auf die kommunale Ebene <span style="color: #888a85" title="Zusatzinfo">(Einreicher: CDU-Fraktion)</span>
+- TOP 4: Information des Landrates zur aktuellen Situation im Landkreis
+- TOP 5: Beschlussfassung über die Entlastung der Mitglieder des Verwaltungsrates der Kreissparkasse Märkisch-Oderland für das Geschäftsjahr 2017 in Listenform <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 6: Beschlussfassung über die Entlastung der Mitglieder des Verwaltungsrates der Kreissparkasse Märkisch-Oderland für das Geschäftsjahr 2017 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 7: Vorzeitige Kündigung von Prämiensparverträgen durch die Kreissparkasse Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Fraktion BVB-Freie Wähler, FDP)</span>
+- TOP 8: Beratung und Beschlussfassung zum Jahresabschluss des Entsorgungsbetriebes Märkisch-Oderland (EMO) für das Geschäftsjahr 2017 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 9: Beratung und Beschlussfassung zur Entlastung der Werkleiterin des Entsorgungsbetriebes Märkisch-Oderland (EMO) für das Geschäftsjahr 2017 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 10: Beschlussfassung über die Genehmigung der Eilentscheidung vom 03.07.2018 zur Zuschlagserteilung für den Auftrag LOS 01 Entwässerungsarbeiten und Sanierung Laufbahn am Sportplatz - Einstein-Gymnasium Neuenhagen, Dahlwitzer Straße 79, 15366 Neuenhagen bei Berlin
+- TOP 11: Beratung und Beschlussfassung über die Vergabe für den Auftrag LOS 01 Rohbauarbeiten Neubau 3-Feldsporthalle Rüdersdorf an die Firma Thiele Baugeschäft mbH <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 12: Beratung und Beschlussfassung über die Vergabe für den Auftrag LOS 04 Dachdecker- und Klempnerarbeiten / Lichtband für den Neubau 3-Feldsporthalle Rüdersdorf an die Firma Gurr Spezialbau GmbH, 18442 Niepars <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 13: Benennung als Kommunale Gleichstellungsbeauftragte und Beauftragte für die Integration von Menschen mit Behinderung des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 14: Beratung und Beschlussfassung zur ÖPNV-Investitionsliste 2018/4 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 15: Beratung und Beschlussfassung der Vorschlagsliste zur Wahl der ehrenamtlichen Richter am Verwaltungsgericht Frankfurt (Oder) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 16: Beratung und Beschlussfassung der Richtlinie des Landkreises Märkisch-Oderland zur Förderung von Auslandsaufenthalten von Schülerinnen und Schülern mit Schulbesuch <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 17: Beratung und Beschlussfassung zur Vergabe der in Betriebnahme eines Wohnverbundes für Asylbewerber und Flüchtlinge in Seelow (wird nachgereicht)
+- TOP 18: Beratung und Beschlussfassung zur Gründung eines Kitaelternbeirates im Landkreis Märkisch-Oderland
+- TOP 19: Information zu unerheblichen über- und außerplanmäßigen Aufwendungen und Auszahlungen 2017 des Landkreises Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 20: Informationsvorlage zur Denkmalförderung 2017 im Landkreis Märkisch-Oderland <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+- TOP 21: Informationen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
