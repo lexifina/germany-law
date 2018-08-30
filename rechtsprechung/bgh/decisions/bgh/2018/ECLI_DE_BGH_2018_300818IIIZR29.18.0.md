@@ -1,0 +1,116 @@
+---
+ecli: "ECLI:DE:BGH:2018:300818IIIZR29.18.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-03"
+aktenzeichen: "III ZR 29/18"
+decided: "2018-08-30"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2018&Sort=1&Seite=64&nr=87565&anz=2994&pos=1933&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-03_NA_2018-08-30_III_ZR_29_18_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bnoto/0004.md", "germany/bund/acts/bnoto/0019.md", "germany/bund/acts/zpo/0100.md", "germany/bund/acts/zpo/0287.md", "germany/bund/acts/zpo/0543.md", "germany/bund/acts/zpo/0544.md"]
+---
+
+# Bundesgerichtshof, III ZR 29/18 vom 2018-08-30
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                         BESCHLUSS
+III ZR 29/18
+                                vom
+
+                           30. August 2018
+
+                         in dem Rechtsstreit
+
+
+
+
+ECLI:DE:BGH:2018:300818BIIIZR29.18.0
+
+                                           - 2 -
+
+
+
+    Der III. Zivilsenat des Bundesgerichtshofs hat am 30. August 2018 durch den
+    Vorsitzenden Richter Dr. Herrmann, die Richter Tombrink, Dr. Remmert, die
+    Richterinnen Dr. Arend und Dr. Böttcher
+
+    beschlossen:
+
+          Die Beschwerde der Kläger gegen die Nichtzulassung der Revision in dem Urteil des 9. Zivilsenats des Kammergerichts vom
+          12. Januar 2018 - 9 U 1/17 - wird zurückgewiesen.
+
+
+          Die Kläger tragen die Kosten des Beschwerdeverfahrens je zur
+          Hälfte (§ 97 Abs. 1, § 100 Abs. 1 ZPO).
+
+
+          Streitwert: 143.489 €
+
+
+
+                                        Gründe:
+
+1         Die Revision ist nicht zuzulassen, weil weder die Rechtssache grundsätzliche Bedeutung hat noch die Fortbildung des Rechts oder die Sicherung
+    einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts
+    erfordert (§ 543 Abs. 2 Satz 1 ZPO).
+
+
+2   1.    Zwar ist die Auffassung des Berufungsgerichts, die Kläger hätten den
+    von ihnen eingeklagten Schaden nicht schlüssig dargelegt (S. 6 des Berufungsurteils), nicht frei von Rechtsfehlern. Bei der Betrachtung möglicher Steuervorteile muss berücksichtigt werden, ob dem Geschädigten aus der Zuerkennung
+    des Schadensersatzanspruchs und dessen Gestaltung steuerliche Nachteile
+    erwachsen. Erstattungsbeträge, die Werbungskosten ersetzen, aus denen der
+    Geschädigte Steuervorteile erzielt hat, sind im Jahr ihres Zuflusses steuerpflich-
+
+                                         - 3 -
+
+
+
+    tige Einnahmen der Einkunftsart, bei der die Aufwendungen vorher als Werbungskosten abgezogen worden sind (Senat, Urteil vom 20. August 2015
+    - III ZR 57/14, WM 2015, 1803 Rn. 15; BGH, Urteil vom 26. Januar 2012
+    - VII ZR 154/10, WM 2012, 1790 Rn. 11; jeweils mwN). Vorstehendes gilt auch
+    für steuerliche Abzüge, die im Rahmen des Erwerbs von zu sanierenden denkmalgeschützten Gebäuden erzielt wurden (BGH, Urteil vom 26.Januar 2012
+    aaO).
+
+3           Da das Gericht über die Höhe des Schadens unter Würdigung aller
+    Umstände des Einzelfalls nach freier Überzeugung zu entscheiden hat (§ 287
+    Abs. 1 ZPO) und eine exakte Errechnung von Steuervorteilen unter Gegenüberstellung der tatsächlichen mit einer hypothetischen Vermögenslage angesichts der vielfältigen Besonderheiten der konkreten Besteuerung häufig einen
+    unverhältnismäßigen Aufwand erfordert, müssen in der Regel keine Feststellungen dazu getroffen werden, in welcher genauen Höhe sich die Versteuerung
+    der Schadensersatzleistung auswirkt. Etwas anderes gilt nur, wenn der Schädiger Umstände darlegt, auf deren Grundlage dem Geschädigten auch unter Berücksichtigung der Steuerbarkeit der Ersatzleistung derart außergewöhnlich
+    hohe Steuervorteile verbleiben, dass es unbillig wäre, ihm diese zu belassen.
+    Die Darlegungs- und Beweislast für das Vorliegen anrechenbarer außergewöhnlicher Steuervorteile trägt der Schädiger (Senat, Urteil vom 15. Juli 2010
+    - III ZR 336/08, BGHZ 186, 205 Rn. 36 ff; BGH, Urteile vom 28. Januar 2014
+    - XI ZR 495/12, NJW 2014, 994 Rn. 11 und vom 26. Januar 2012 aaO Rn. 23).
+
+
+4           Diese Grundsätze hat das Berufungsurteil, das den Klägern substantiierten Vortrag zu den von ihnen aus der Denkmaleigenschaft der Wohnanlage
+    erzielten Steuervorteilen abverlangt, nicht beachtet. Der Rechtsfehler ist jedoch
+    nicht entscheidungserheblich, da das Berufungsgericht - selbständig tragend -
+    einen Anspruch der Kläger aus notarieller Amtshaftung gemäß § 19 Abs. 1
+
+                                        - 4 -
+
+
+
+    Satz 2 BNotO verneint hat, weil die Kläger nicht die Möglichkeit ausgeräumt
+    haben, dass sie die den Kaufpreis finanzierende Bank mit Erfolg auf Schadensersatz hätten in Anspruch nehmen können. Die diesbezüglichen Ausführungen
+    des Berufungsurteils lassen im Hinblick auf die besonderen Umstände des vorliegenden Einzelfalls, zu denen gehört, dass die Kläger trotz des ihnen in der
+    mündlichen Verhandlung am 1. Dezember 2017 erteilten Hinweises und des
+    ihnen gewährten Schriftsatznachlasses nicht ergänzend vorgetragen haben,
+    keine zulassungsrelevanten Rechtsfehler erkennen.
+
+
+5         Von einer weiteren Begründung wird gemäß § 544 Abs. 4 Satz 2 Halbsatz 2 ZPO abgesehen.
+
+
+    Herrmann                           Tombrink                         Remmert
+
+                      Arend                                 Böttcher
+
+
+
+
+    Vorinstanzen:
+    LG Berlin, Entscheidung vom 07.12.2016 - 84 O 90/15 -
+    KG Berlin, Entscheidung vom 12.01.2018 - 9 U 1/17 -
