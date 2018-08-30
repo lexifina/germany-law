@@ -1,0 +1,64 @@
+# 54. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-08-30T16:00:00+02:00
+- Ende: 2018-08-30T22:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6511
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6511
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00361734.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden (Wahlkreis 5 - Mandat Christlich Demokratische Union Deutschlands - CDU) - Zustimmung
+- TOP 2: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 3: Bericht des Oberbürgermeisters
+- TOP 3.1: Haushaltssatzung 2019/2020 und Wirtschaftspläne 2019 der Eigenbetriebe - zur Kenntnis genommen
+- TOP 4: Aktuelle Stunde zum Thema "Beschränkung von Feuerwerken - rechtliche, politische und gesellschaftliche Bedenken zum Verwaltungshandeln" - erledigt
+- TOP 5: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 5.1: Kita-Investitionen im Doppelhaushalt 2019/20 - erledigt
+- TOP 5.2: Unterstützung von Seenotrettern - erledigt
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Sportgrundschule - erledigt
+- TOP 5.5: Sachstand zur Vergabe Erbaupacht Villa Wigman - erledigt
+- TOP 5.6: Reichsbürger in Dresden - erledigt
+- TOP 5.7: Umsetzung von Stadtratsbeschlüssen - erledigt
+- TOP 6: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 6.1: Nachbesetzung des Beirates für Menschen mit Behinderungen gemäß § 25 Absatz 8, 2. Anstrich Hauptsatzung der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 7: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 7.1: Umbesetzung im Ortsbeirat Leuben - Vertagung nach 22 Uhr
+- TOP 7.2: Umbesetzung im Ortsbeirat Loschwitz - Vertagung nach 22 Uhr
+- TOP 7.3: Umbesetzung im Ortsbeirat Cotta - Vertagung nach 22 Uhr
+- TOP 8: Einigungsverfahren Aufsichtsrat
+- TOP 8.1: Umbesetzung Aufsichtsrat Dresdner Bäder GmbH - Vertagung nach 22 Uhr
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Vertagung der Stadtratssitzung vom 25. Januar 2018
+- TOP 10.1: Benennung eines Wegeteilstücks in Briesnitz - Vertagung nach 22 Uhr
+- TOP 11: Verweisung der Stadtratssitzung vom 7. Juni 2018
+- TOP 11.1: Ersatzneubau der Brücke über die DB-Anlagen im Zuge der Talstraße (K6240) in Dresden-Cossebaude - Vertagung nach 22 Uhr
+- TOP 12: Vertagung der letzten Stadtratssitzung am 28./29. Juni 2018
+- TOP 12.1: Fachkräftestrategie für Dresden - Vertagung nach 22 Uhr
+- TOP 12.2: Anlagepolitik nach ethischen, sozialen und ökologischen Grundsätzen - Vertagung nach 22 Uhr
+- TOP 12.3: Schwerpunktsportarten - Breitensport - Vertagung
+- TOP 12.4: Andenken an Johann "Rukeli" Trollmann wachhalten - Boxerdenkmal herrichten und an einen würdigeren Ort im Sportpark Ostra umsetzen - Vertagung
+- TOP 12.5: Haltung der Stadt Dresden zum geplanten Kiesabbau in Söbrigen - Zustimmung
+- TOP 13: Satzung zur Änderung der Hauptsatzung - Zustimmung
+- TOP 14: Grundsatzbeschluss zum Breitbandausbau in der Landeshauptstadt Dresden: finanzielle Sicherung der investiven Vorfinanzierung, notwendigen Eigenmittel und Beratungsleistungen - für das Ausbauprojekt "Unterversorgte Adressen" im Stadtgebiet Dresden - Zustimmung mit Ergänzung
+- TOP 15: Weiterführung der Unterstützung der Ausrichtung des FIS Ski-Weltcups Dresden für die Jahre 2019 bis 2022 - Zustimmung mit Ergänzung
+- TOP 16: Schule zur Lernförderung "Am Leutewitzer Park", Gottfried-Keller-Straße 40 in 01157 Dresden - Ersatzneubau Schulsporthalle - Vertagung nach 22 Uhr
+- TOP 17: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2018 und 2019 des Eigenbetriebes Kindertageseinrichtungen Dresden - Vertagung nach 22 Uhr
+- TOP 18: Touristische Maßnahmen der Landeshauptstadt Dresden 2018 in Umsetzung des SR-Beschlusses zur Beherbergungssteuer - Zustimmung
+- TOP 19: Kapitaleinlagen der Landeshauptstadt Dresden in die Kommunale Immobilien Dresden GmbH & Co. KG zur Umwandlung des Gesellschafterdarlehens, Deckung von Mehrausgaben für den Kulturpalast sowie zum Verlustausgleich - Vertagung nach 22 Uhr
+- TOP 20: Wohnungsnotfallhilfekonzept 2018 - Vertagung
+- TOP 21: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über den Zuschuss zur gemeinschaftlichen Mittagsverpflegung in den Schulferien (Satzung Mittagessenzuschuss während der Schulferien) vom 26. September 2013 - Vertagung nach 22 Uhr
+- TOP 22: Beitritt der Landeshauptstadt Dresden als Träger des Eigenbetriebes Städtisches Klinikum Dresden zum „akg – Arbeitsgemeinschaft Kommunaler Großkrankenhäuser e. V." - Vertagung nach 22 Uhr
+- TOP 23: Abschluss eines Mietvertrages zum Objekt Hauboldstraße 7 in 01239 Dresden - Vertagung nach 22 Uhr
+- TOP 24: Wissenschaftsstandort Dresden-Ost, Vorplanung Verkehrsanlagen Liebstädter Straße und Tiergartenstraße - Vertagung nach 22 Uhr
+- TOP 25: Bebauungsplan Nr. 3013 A, Dresden-Mickten Nr. 13, Flößerstraße - Vertagung durch Einreicher
+- TOP 26: Periodischer Betriebsplan und zehnjähriger Wirtschaftsplan (Forsteinrichtungswerk) des Körperschaftswaldes der Landeshauptstadt Dresden für den Einrichtungszeitraum vom 1. Januar 2017 bis 31. Dezember 2026 - Vertagung nach 22 Uhr
+- TOP 27: Sanierungsplanung für alle A-priorisierten Schulen und kurzfristige Mängelbeseitigung im Objekt Marienberger Straße 7 - Vertagung nach 22 Uhr
+- TOP 28: Grundsatzbeschluss zur Verwendung der Mittel im Präventionsbudget - Vertagung
+- TOP 29: Die touristische Infrastruktur weiter entwickeln durch eine Verbesserung des mehrsprachigen Wegeleitsystems in Dresden im Rahmen der Bewerbung zur Europäischen Kulturhauptstadt 2025 - Vertagung nach 22 Uhr
