@@ -1,0 +1,6 @@
+# TOP 11.: Mitteilungen und Anfragen
+
+- Sitzung: Jugendhilfeausschuss (21. Sitzung) (2018-09-04)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/68554
