@@ -1,0 +1,52 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-04T15:00:00+02:00
+- Ende: 2018-09-04T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18750
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18750
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Beantwortung der mdl. Anfrage von DEIN KÖLN - türk. Wahlkampf-Auftritte in Köln
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 5: Mitteilungen
+- TOP 5.1: Neues Amt für Integration und Vielfalt
+- TOP 5.2: Darstellung der Sparten
+- TOP 5.3: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen (I/2018)
+- TOP 5.4: Bericht der drei Träger Auszugsmanagement für den Zeitraum 15.10.2015 - 31.12.2017
+- TOP 5.5: 4. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln
+- TOP 5.6: 21. Bericht zur Situation Geflüchteter
+- TOP 5.7: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW"
+- TOP 5.8: Stellungnahme zur WDR-Berichterstattung "Unterbringung in Beherbergungsbetrieben" sowie „Bauvorhaben Im Grund / Pastor-Wolff-Str.“
+- TOP 5.9: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 5.10: Beantwortung einer Anfrage - Erläuterung von amtlichen Bescheiden in „Leichter Sprache“
+- TOP 5.11: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln"
+- TOP 5.12: Kinder– und Jugendgesundheit in Köln – Bericht 2017/2018
+- TOP 5.13: Volkshochschule: Das Feriencamp talentCAMPus 2018 für geflüchtete Kinder und Jugendliche war wieder ein Erfolg!
+- TOP 5.14: Antidiskriminierungsarbeit im Bereich sexueller Orientierung und geschlechtlicher Vielfalt in Köln
+- TOP 5.15: Europäischer Hilfsfonds für die am stärksten benachteiligten Personen (EHAP)
+- TOP 5.16: Neues Amt für Integration und Vielfalt (Sachstand zum 15.08.2018)
+- TOP 5.17: Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets
+- TOP 5.18: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Einrichtung eines Preises „Miteinander - Preis Köln. Engagement von Kölner Migrant*innen für Demokratie und Vielfalt“ - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Projektverlängerung - Koordinierung der Bildungsangebote für Neuzugewanderte - ungeändert beschlossen
+- TOP 8.2: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf, Planungsbeschluss - ungeändert beschlossen
+- TOP 8.3: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Planungsbeschluss - ungeändert beschlossen
+- TOP 8.4: Vergabe der Mittel für Antirassismus-Training im Jahr 2018 / 2. Teil - ungeändert beschlossen
+- TOP 8.5: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. ohne Nr., 51143 Köln-Porz - Planungsbeschluss - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
