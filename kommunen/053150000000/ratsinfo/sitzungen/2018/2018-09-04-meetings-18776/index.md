@@ -1,0 +1,66 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-04T15:00:00+02:00
+- Ende: 2018-09-04T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18776
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18776
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677992.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677992.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677992.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Für jede Kölner Schule einen Sozialarbeiter / eine Sozialarbeiterin - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zur Vorlage „Für jede Kölner Schule einen Sozialarbeiter / eine Sozialarbeiterin“, DS-Nr. AN/1136/2018; TOP 2.1 - ohne Votum in nachfolgende Gremien
+- TOP 2.2: Schultoiletten zweimal täglich reinigen – schnellstmögliche Umsetzung noch in 2018 - zurückgestellt
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.2: Geänderte Rahmenbedingungen im Schülerspezialverkehr - Sache ist erledigt
+- TOP -: Rahmenbedingungen im Schülerspezialverkehr zu AN/0598/2018 - Kenntnis genommen
+- TOP 3.1.3: Beantwortung der Anfrage "Schulbildung für junge Geflüchtete ab dem 19. Lebensjahr" (AN/1174/2017) - Sache ist erledigt
+- TOP 3.1.4: Nutzung von Leichtbauhallen - Sache ist erledigt
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Virtueller Klassenraum – für Deutschlernende und für alle? - Sache ist erledigt
+- TOP -: AN/0977/2018 Virtueller Klassenraum - für Deutschlernende und für alle? - Sache ist erledigt
+- TOP 3.2.2: Wann wird der erhöhte Reinigungsturnus für die Schultoiletten umgesetzt? - Sache ist erledigt
+- TOP -: Wann wird der erhöhte Reinigungsturnus für die Schultoiletten umgesetzt? - Kenntnis genommen
+- TOP 3.2.3: Schulnotstand und Lehrkräftemangel in Köln - zurückgestellt
+- TOP 3.2.4: Schulanmeldezahlen 5. Klasse ./. 7. Klasse - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VfJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2019 bis 2022 - ungeändert beschlossen
+- TOP 4.3: Umweltbildungskonzept der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Schulrechtliche Errichtung einer Gesamtschule im Stadtbezirk Lindenthal zum Schuljahr 2019/20 bei gleichzeitiger auslaufender Schließung der Elsa-Brändström-Realschule und der Ernst-Simons-Realschule - zurückgestellt
+- TOP 4.5: Zügigkeitserweiterung der Erich-Ohser-Grundschule, GGS Schulstraße gem. § 81 Abs. 2 Schulgesetz NRW von 2 auf 3 Züge zum Schuljahr 2019/20 - ungeändert beschlossen
+- TOP 4.6: Projektverlängerung - Koordinierung der Bildungsangebote für Neuzugewanderte - ungeändert beschlossen
+- TOP 4.7: Beschleunigungsmaßnahme Sonderprogramm ‚Maßnahmenpaket Schulbau‘ GU/TU - Schulstandort Severinswall - ungeändert beschlossen
+- TOP 4.8: Antrag des Integrationsrates zum Eckpunktepapier zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Beschluss der Bezirksvertretung Porz vom 15.05.2018 zur Verlagerung des Berufskollegs Porz (BK 10) - zurückgestellt
+- TOP 4.10: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf - zurückgestellt
+- TOP 4.11: Generalinstandsetzung des Gebäudetraktes D mit Klassentrakt, Turnhalle und Aula sowie Erneuerung der Orthopädietechnikfachräume des Berufskollegstandortes Perlengraben 101 in 50667 Köln - Mehrkostenanzeige - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitteilungen
+- TOP 5.1: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 5.2: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 5.3: Das VHS-Programm für das 2. Semester 2018 ist erschienen - Kenntnis genommen
+- TOP 5.4: Kinder– und Jugendgesundheit in Köln – Bericht 2017/2018 - Kenntnis genommen
+- TOP 5.5: Projekt „Plan27“ – Aufsuchendes Hilfeangebot für junge Menschen mit psychischen Problemen – Zwischenauswertung nach einem Jahr Projektlaufzeit - Kenntnis genommen
+- TOP 5.6: Mehrstelle Elternberatung Inklusion - Kenntnis genommen
+- TOP 5.7: Von der Achten bis zur Zehnten, Elternbegleiter zu den Standardelementen der beruflichen Orientierung in der Schule, im Rahmen von "Kein Abschluss ohne Anschluss (KAoA)" - Kenntnis genommen
+- TOP 5.8: Volkshochschule: Das Feriencamp talentCAMPus 2018 für geflüchtete Kinder und Jugendliche war wieder ein Erfolg! - Kenntnis genommen
+- TOP 5.9: Antidiskriminierungsarbeit im Bereich sexueller Orientierung und geschlechtlicher Vielfalt in Köln - Kenntnis genommen
+- TOP 5.10: Anpassung der Personalkostenzuschüsse an die Träger kommunaler Schulsozialarbeit an Grundschulen - Kenntnis genommen
+- TOP 5.11: Zweiter Bericht der Abteilung Regionale Bildungslandschaft im Amt für Schulentwicklung - Kenntnis genommen
+- TOP 5.12: Schülerbeförderung - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
