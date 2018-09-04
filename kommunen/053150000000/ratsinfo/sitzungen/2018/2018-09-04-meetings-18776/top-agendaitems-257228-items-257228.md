@@ -1,0 +1,8 @@
+# TOP -: Wann wird der erhöhte Reinigungsturnus für die Schultoiletten umgesetzt?
+
+- Sitzung: Sitzung des Ausschusses Schule und Weiterbildung (2018-09-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/257228
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/120291
