@@ -1,0 +1,72 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-09-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674402
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674402
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 02.08.2018
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.3.: (A) Wochenmärkte in Fürstenried Ost und Fürstenried West
+- TOP 2.4.: (A) Satzungsänderung: Bildung der Bezirksausschüsse für die Amtsperiode 2020-2026
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (A) Verlängerung des Bewilligungszeitraumes: Münchner Krautgarten Solln: Anschaffung eines Wasseranschlusses; Sitzungsvorlagen Nr.: 14-20 / V 12008
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Feinstaubmessung entlang des Schulwegs zur Grundschule an der Boschetsrieder Straße Empfehlung Nr. 14-20 / E 01976 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 4.4.: (E) Begrünung Thalkirchner Platz Empfehlung Nr. 14-20 / E 01977 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 4.5.: (E) Ersatzpflanzungen für Baumfällungen an der Isar Empfehlung Nr. 14-20 / E 01978 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Taktverdichtung Buslinie 134 in den Hauptverkehrszeiten
+- TOP 5.1.2: Schaffung einer Ausweichmöglichkeit in der Ludwigshöher Straße
+- TOP 5.2.: (A) Entstehende Verkehrsprobleme durch Nachverdichtung BV-Empfehlung Nr. 14-20 / E 01972; Sitzungsvorlage Nr. 14-20 / V 12306
+- TOP 5.3.: (A) Mehr temporäre Zwischennutzungen und Freischankflächen
+- TOP 5.4.: (Antrag) Errichtung von Pollern in der Bleibtreustraße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Haltverbot Frillenseestraße
+- TOP 5.6.: (A) Satzungsänderung: Anhörungsrecht für die Einrichtung von Elektroladestationen
+- TOP 5.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8.: (E) Sondernutzungserlaubnisse: 5 neue Standorte für Zeitungsentnahmegeräte
+- TOP 5.9.: (A) Beschlussentwurf Parkraummanagement in München - Umsetzung Sektor V
+- TOP 5.10.: (Antrag) Zusätzliche Parkplätze in der Koppstraße
+- TOP 5.11.: Baustelleneinrichtung Winterthurer Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Grünfläche Kistlerhofstraße Ecke Münsinger Straße
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Grünflächenquote pro Einwohner BV-Empfehlung Nr. 14-20 / E 01982; Sitzungsvorlage Nr. 14-20 / V 12352
+- TOP 6.4.: (Antrag) Erhalt des gesamten Derzbachhof Areals und Umfelds im Ensemble Forstenried aus stadtklimatischen und ökologischen Gründen
+- TOP 6.5.: (U) Grundstücksgeschäft: Tierparkstraße
+- TOP 6.6.: (A) Bauleitplanung: Gemeinde Neuried; Forsthaus Kasten
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Barrierefreiheit Siemens-Sportpark
+- TOP 7.3.: (Antrag) Barrierefreiheit der neuen Räumlichkeiten der Stadtbibliothek
+- TOP 7.4.: (Antrag) Kitaplätze und Personalsituation
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Zweiter öffentlicher Bücherschrank im 19. Stadtbezirk
+- TOP 8.3.: (U) Neuerrichtung Gaststätte: Hofmannstraße 2
+- TOP 8.4.: (U) Vermietung stadteigenes Grundstück: Forstenrieder Allee
+- TOP 8.5.: Mögliche kulturelle Nutzung der Fraunbergstraße 4
+- TOP 8.6.: (U) Gaststättenfortführung: Siemensallee 61
+- TOP 8.7.: (U) Veranstaltung: „Play Me I´m Yours 2018“ vom 07.09. bis 23.09.2018
+- TOP 8.8.: (A) Veranstaltung: 17. Internationaler Wildwassersprint und Classicrennen am 22.09.2018
+- TOP 8.9.: (A) Veranstaltung: 64. Münchner Kanu-Slalom am 22.09.2018
+- TOP 8.10.: (A) Veranstaltung: After Work Grillen am 17.08.2018
