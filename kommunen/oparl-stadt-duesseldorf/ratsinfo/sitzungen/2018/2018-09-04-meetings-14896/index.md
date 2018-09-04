@@ -1,0 +1,52 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-04T16:00:00+02:00
+- Ende: 2018-09-04T19:45:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14896
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14896
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323354.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323354.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323354.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift
+- TOP 4: Kunstkommission Wettbewerbsergebnis Goethegymnasium - zur Kenntnis genommen
+- TOP 5: Klimaanpassungskonzept - zur Kenntnis genommen
+- TOP 6: Lindenstraße 95 - Abbruch eines Wohn- und Geschäftshauses - vertagt
+- TOP 7: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - mehrheitlich beschlossen
+- TOP 8: Bezirksbezogene Haushaltsmittel - mehrheitlich beschlossen
+- TOP 9: Bezirksbezogene Haushaltsmittel - mehrheitlich beschlossen
+- TOP 10: Stolpersteinrundgänge im Stadtbezirk 2 - einstimmig beschlossen
+- TOP 11: Fahrradunfälle im Bezirk 2 - zurückgezogen
+- TOP 12: Obdachlose Frauen im Stadtbezirk 2 - einstimmig beschlossen
+- TOP 13: Pilotversuch Tempo 30 km/h Lindemannstr. - mehrheitlich abgelehnt
+- TOP 14: Bordsteinabsenkungen im Bereich des Brahmsplatzes - einstimmig beschlossen
+- TOP 15: Eckgebäude Birkenstraße Ecke Dorotheenstraße - einstimmig beschlossen
+- TOP 16: Satzungsgeschützte Bäume und Ersatzpflanzungen - beantwortet
+- TOP 17: Verlangsamung Linie 706
+- TOP 18: Treppengerüst am Brehmplatz - beantwortet
+- TOP 19: Ersatzpflanzungen im Bezirk 2
+- TOP 20: Überprüfung von Brücken
+- TOP 21: Fahrradabstellflächen gewerblicher Anbieter - beantwortet
+- TOP 22: Gänsemanagement - beantwortet
+- TOP 23: Sonnenschutz am Wasserspielplatz im Zoopark - zur Kenntnis genommen
+- TOP 24: Unterführung Wewtterstraße zur Gerresheimer Straße - zur Kenntnis genommen
+- TOP 25: Fahrradabstellbügel GBA Engerstraße - zur Kenntnis genommen
+- TOP 26: Aufstellung von Fahrradständern im Stadtbezirk - Kiefernstraße - zur Kenntnis genommen
+- TOP 27: Recyclinghof Flinger Broich, Verkehrserschließung - zur Kenntnis genommen
+- TOP 28: Uhlandstraße - Tempo 30 - zur Kenntnis genommen
+- TOP 29: Aufstellung von Fahrradständern im Stadtbezirk - zur Kenntnis genommen
+- TOP 30: Beschlusskontrolle der Bezirksvertretung - zur Kenntnis genommen
+- TOP 31: PFT-Boden- und Grundwasserverunreinigung Gerresheim – aktueller Sachstand - zur Kenntnis genommen
+- TOP 32: Verpflichtung eines Mitglieds der Bezirksvertretung - zur Kenntnis genommen
+- TOP 33: Grünverbindung Stadtnaturpark Stadtwerkepark - zur Kenntnis genommen
+- TOP 34: Müllberge an den Feiertagen - zur Kenntnis genommen
+- TOP 35: Ampelschaltung Zoo S - zur Kenntnis genommen
