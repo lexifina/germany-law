@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Ortsgemeinderates der Ortsgemeinde Neuhäusel (2018-09-05)
+- Körperschaft: Ortsgemeinde Neuhäusel
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2018-16OGR-10%7CMAnoe%7C2
