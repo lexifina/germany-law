@@ -1,0 +1,85 @@
+# Fortsetzung der 21. öffentlichen Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-09-05T19:10:00+02:00
+- Ende: 2018-09-05T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3539
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3539
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 1.1: Statistik zur Gewalt an Schulen - in der BVV abgelehnt
+- TOP 1.2: Qualität und Quantität in der Kältehilfe gemeinsam verbessern - in der BVV abgelehnt
+- TOP 1.3: Stopp dem Feuerwerkswahnsinn! - ohne Änderungen in der BVV beschlossen
+- TOP 1.4: Gemeinsame Geschäftsordnung im Bezirksamt Neukölln einhalten - in der BVV abgelehnt
+- TOP 1.5: Wie gewährleistet das Bezirksamt die Sicherheit für Radfahrende in der Karl-Marx-Straße? - beantwortet
+- TOP 1.6: Arbeiten auf dem Tempelhofer Feld - beantwortet
+- TOP 1.7: Gegen nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen - beantwortet
+- TOP 1.8: Verkehrskollaps Koppelweg - vertagt
+- TOP 1.9: Bürgerämter Neukölln - Sieht so Bürgerfreundlichkeit aus? - vertagt
+- TOP 1.10: Obdachlose aus Ost - und Südosteuropa – Gesetze konsequent anwenden - vertagt
+- TOP 1.11: Bebauung ehemaliger Güterbahnhof Neukölln - vertagt
+- TOP 1.12: Schulgarten Carl-Legien Schule - vertagt
+- TOP 1.13: Parkverbotszone - vertagt
+- TOP 1.14: Beteiligung am europaweiten autofreien Tag - vertagt
+- TOP 1.15: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - vertagt
+- TOP 1.16: Brandschutz in Shisha-Bars sicherstellen - vertagt
+- TOP 1.17: Blühstreifen, Blühflächen und wohnumfeldnahes Grün - vertagt
+- TOP 1.18: Neuköllner Schreiambulanz - vertagt
+- TOP 1.19: Mehr Macht für den Bürgermeister? - vertagt
+- TOP 1.20: Asbest Rias-Gelände - vertagt
+- TOP 1.21: Brandbrief von Schulen im Bezirk & Maßnahmen gegen die gravierenden Missstände an den Neuköllner Schulen - vertagt
+- TOP 1.22: Gesundheitspräventionskette in Neukölln - schriftlich beantwortet
+- TOP 1.23: Verkehrskonzept für Neukölln – viele „Baustellen“ und kein Plan? - schriftlich beantwortet
+- TOP 1.24: Ausbau von Dachgeschossen - vertagt
+- TOP 1.25: Langzeitarbeitslosigkeit und „soziales Grundeinkommen“ in Neukölln - vertagt
+- TOP 1.26: Ausschilderung Baustelle Karl-Marx-Straße - vertagt
+- TOP 1.27: Sitzbänke am Weigandufer aufstellen - vertagt
+- TOP 1.28: Im digitalen Zeitalter ankommen und die BVV im Livestream umsetzen - vertagt
+- TOP 1.29: Vor weiteren modularen Unterkünften für Migranten das Asylrecht durchsetzen - vertagt
+- TOP 1.30: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - vertagt
+- TOP 1.31: Einrichtung weiterer Sonderschulen - vertagt
+- TOP 1.32: Maroder Bordstein - vertagt
+- TOP 1.33: Rettet die Baumscheibe - vertagt
+- TOP 1.34: Buslinie M 41 verlängern - vertagt
+- TOP 1.35: Schilder da, aber niemand kann sie sehen - vertagt
+- TOP 1.36: Preisgestaltung bei den Berliner Bäderbetrieben - vertagt
+- TOP 1.37: Verkehrsschild mit Graffiti - vertagt
+- TOP 1.38: Zentrale Erfassung und Veröffentlichung aller Tage der offenen Türen an den Neuköllner Schulen - vertagt
+- TOP 1.39: Keine öffentlichen Stellflächen für Zirkusse mit bestimmten wildlebenden Arten - vertagt
+- TOP 1.40: Einführung eines elektronischen Klassenbuches - Reduzierung der Schulschwänzer - vertagt
+- TOP 1.41: Einführung eines Männersportförderpreises in Neukölln - vertagt
+- TOP 1.42: Anwendung des Berliner Schulgesetzes zur Durchsetzung eines normalen Unterrichtes - vertagt
+- TOP 1.43: Baumschulware am Campus Rütli retten - vertagt
+- TOP 1.44: Fortschreibung des Neuköllner Integrationspapiers von 2009 - vertagt
+- TOP 2: Beschlussempfehlungen - (offen)
+- TOP 2.1: Ausbildungsaufgaben gerecht verteilen und Stundenbelastung senken - vertagt
+- TOP 2.2: Nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen ausschließen - vertagt
+- TOP 3: Große Anfragen - (offen)
+- TOP 3.1: Dauerprojekt Späthbrücke - vertagt
+- TOP 3.2: Unzumutbare Bearbeitungszeiten beim Unterhaltsvorschuss? - vertagt
+- TOP 3.3: Abgetauchte Migranten - vertagt
+- TOP 3.4: Bürgersteige - vertagt
+- TOP 3.5: Zweckentfremdung von Wohnraum für Ferienwohnungen - vertagt
+- TOP 4: Große Anfragen - schriftlich - (offen)
+- TOP 5: Anträge - (offen)
+- TOP 5.1: Verbot der Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten - vertagt
+- TOP 6: Mitteilungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - vertagt
+- TOP 7.2: Fußgängerüberweg vor Kita Momo - vertagt
+- TOP 7.3: Nachtruhe sichern - vertagt
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Fußgängerampelzeit Werbellinstraße/ Ecke Morusstraße - vertagt
+- TOP 7.6: Behindertengerechter Übergang - vertagt
+- TOP 7.7: Öffentlich-rechtliche Informationssender für Meinungsvielfalt statt privatem Nachrichtensender im Bezirk - vertagt
+- TOP 7.8: Recyclinghof - vertagt
+- TOP 7.9: Müll-Haie in der Gradestraße - vertagt
+- TOP 7.10: Leichte Sprache als gut sichtbares Zusatzangebot - vertagt
+- TOP 7.11: Landesmittel für Drogenkonsumraum in Neukölln nutzen - vertagt
+- TOP 7.12: Glas-Iglus Böhmische Str. 55-56 aufstellen - vertagt
