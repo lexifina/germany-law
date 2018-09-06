@@ -1,0 +1,8 @@
+# TOP -: Beantwortung betreffend "Datenschutz im Jobcenter"
+
+- Sitzung: Sitzung des Ausschusses Soziales und Senioren (2018-09-06)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/256762
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/119041
