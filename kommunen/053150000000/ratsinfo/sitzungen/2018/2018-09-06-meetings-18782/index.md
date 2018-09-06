@@ -1,0 +1,103 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-06T15:30:00+02:00
+- Ende: 2018-09-06T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18782
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18782
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung sachkundiger Einwohner
+- TOP -: A Illegale Vermietung von Studentenappartments als Ferienwohnungen in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Förderung von Frauenvereinen im Sozialbereich 2018 - ungeändert beschlossen
+- TOP 3.2: Leitprojekt "Weiterentwicklung des Seniorenpakets vor dem Hintergrund des demografischen Wandels" - ungeändert beschlossen
+- TOP 3.3: Förderung von Selbsthilfegruppen im Sozialbereich 2018 - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Straße 219a, 51063 Köln-Mülheim - Planungsbeschluss - ungeändert beschlossen
+- TOP 4.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Projektverlängerung - Koordinierung der Bildungsangebote für Neuzugewanderte - ungeändert beschlossen
+- TOP 4.4: Antrag des Integrationsrates zum Eckpunktepapier zur Integration von neu zugewanderten Kindern und Jugendlichen in Kölner Schulen - ungeändert beschlossen
+- TOP 4.5: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf, Planungsbeschluss - ungeändert beschlossen
+- TOP 4.6: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Planungsbeschluss - ungeändert beschlossen
+- TOP 4.7: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. ohne Nr., 51143 Köln-Porz - Planungsbeschluss - unter Vorbehalt beschlossen
+- TOP 4.8: Vergabe der Mittel für Antirassismus-Training im Jahr 2018 / 2. Teil - ungeändert beschlossen
+- TOP 4.9: Innerer Grüngürtel in Köln-Nippes - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Anfrage der Gruppe Bunt betreffend "Datenschutz im Jobcenter" - Sache ist erledigt
+- TOP -: Beantwortung betreffend "Datenschutz im Jobcenter" - Kenntnis genommen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Anfrage der Gruppe BUNT betreffend "Nachfragen zum Datenschutz im Jobcenter" - zurückgestellt
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Anfrage der SPD-Fraktion betreffend "Unterbringung von Flüchtlingen" - zurückgestellt
+- TOP 9.1.2: Anfrage der FDP-Fraktion betreffend "Nutzung von Leichtbauhallen" - Sache ist erledigt
+- TOP -: Beantwortung betreffend "Nutzung von Leichtbauhallen" - Kenntnis genommen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Bericht der drei Träger Auszugsmanagement für den Zeitraum 15.10.2015 - 31.12.2017 - Kenntnis genommen
+- TOP 9.3: Stellungnahme zur WDR-Berichterstattung "Unterbringung in Beherbergungsbetrieben" sowie „Bauvorhaben Im Grund / Pastor-Wolff-Str.“ - Kenntnis genommen
+- TOP 9.4: 21. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.5: Mitteilung einer Beantwortung zu einer Anfrage aus der Sitzung des Rechnungsprüfungsausschusses betreffend "Unterbringung von Flüchtlingen" - Kenntnis genommen
+- TOP 9.6: 4. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 9.7: Prüfung der Istkostenerhebung der tatsächlich in den Kommunen anfallenden Kosten für die Unterbringung von Flüchtlingen in Köln durch die Gemeindeprüfungsanstalt NRW - Kenntnis genommen
+- TOP 9.8: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 10.2: Neuauflage der Broschüre "Köln Barrierefrei" erschienen - Kenntnis genommen
+- TOP 10.3: Sachstand: Mitnahme von E-Scootern bei der KVB AG - zurückgestellt
+- TOP 10.4: Stadtarbeitsgemeinschaft Behindertenpolitik - Beschlussempfehlung aus der Sitzung am 29.05.2018 zu "In Rede stehende Dezernatsumbildung auf Basis der Kooperationsvereinbarung CDU / Die Grünen" - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Erläuterung von amtlichen Bescheiden in „Leichter Sprache“" - Sache ist erledigt
+- TOP -: Beantwortung betreffend "Erläuterung von amtlichen Bescheiden in „Leichter Sprache“" - Kenntnis genommen
+- TOP 11.1.2: Anfrage der Fraktion Die Linke betreffend "Angebote für Obdachlose" - Sache ist erledigt
+- TOP -: Beantwortung betreffend "Angebote für Obdachlose" - Kenntnis genommen
+- TOP 11.1.3: Anfrage der Fraktion Die Linke betreffend "Obdachlosigkeit von Jugendlichen und jungen Erwachsenen" - Sache ist erledigt
+- TOP -: Beantwortung betreffend „Obdachlosigkeit von Jugendlichen und jungen Erwachsenen" - Kenntnis genommen
+- TOP 11.1.4: Anfrage der Gruppe Bunt betreffend "Arbeitsmarktintegration und Ausbildungsduldungen" - zurückgestellt
+- TOP 11.1.5: Beantwortung einer mündlichen Anfrage betreffend "Prüfung der Bereitstellung von Assistenzleistungen zur Unterstützung der Stadtarbeitsgemeinschaft Behindertenpolitik" - Kenntnis genommen
+- TOP 11.1.6: Beantwortung einer mündlichen Anfrage betreffend "Entwicklung Stadtteilmütter-Projekt in Mülheim" - Kenntnis genommen
+- TOP 11.1.7: Ergänzung der Beantwortung der mündlichen Anfrage der Fraktion DIE LINKE Nr. 0193/2017 betreffend "Garantieerklärungen als Alternative zum ausgezahlten Kautionsdarlehen" - Kenntnis genommen
+- TOP 11.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.1.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Deckung des Bedarfs an vollstationären Dauerpflegeplätzen in Köln" - zurückgestellt
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 12.2: Veröffentlichung Themenberichte 1 und 2 zu den Ergebnissen der "Leben in Köln" - Umfrage - zurückgestellt
+- TOP 12.3: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2017 - Kenntnis genommen
+- TOP 12.4: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 12.5: Neuverpachtung der Gastronomie im Bürgerhaus Stollwerck - Kenntnis genommen
+- TOP 12.6: Verbraucherberatungsstelle Köln: Jahresbericht 2017 - zurückgestellt
+- TOP 12.7: Ziel- und Leistungsvereinbarungen 2018 der Bürgerhäuser/-zentren - Kenntnis genommen
+- TOP 12.8: Mitteilung über eine Beantwortung einer mündlichen Anfrage der SPD-Fraktion aus der Sitzung des Wirtschaftsausschusses vom 14.06.2018 betreffend TOP 11.1: Arbeitsmarkt Köln - Rückblick 2017 und bisherige Entwicklung 2018 (Mitteilung 1779/2018) - Kenntnis genommen
+- TOP 12.9: Projekt „Plan27“ – Aufsuchendes Hilfeangebot für junge Menschen mit psychischen Problemen – Zwischenauswertung nach einem Jahr Projektlaufzeit - zurückgestellt
+- TOP 12.10: Kinder– und Jugendgesundheit in Köln – Bericht 2017/2018 - zurückgestellt
+- TOP 12.11: Europäischer Hilfsfonds für die am stärksten benachteiligten Personen (EHAP) - Kenntnis genommen
+- TOP 12.12: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 12.13: KölnerLeben erhält erneut BAGSO-Verbraucherempfehlung und KölnerLeben mit Klaaf - Kenntnis genommen
+- TOP 12.14: Neues Amt für Integration und Vielfalt (Sachstand zum 15.08.2018) - Kenntnis genommen
+- TOP 12.15: Fachtag „Gewalterfahrungen in der Pflege – Vorbeugen und Erkennen“ Kölner Appell gegen Gewalt in der häuslichen Pflege - Kenntnis genommen
+- TOP 12.16: Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets - Kenntnis genommen
+- TOP 12.17: Präventive Hausbesuche Evaluation - zurückgestellt
