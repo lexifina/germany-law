@@ -1,0 +1,57 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (18. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2018-09-06T19:01:00+02:00
+- Ende: 2018-09-06T21:32:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZbhYxdA9LARLv1ELywTcdeE
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/585
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ2DBH3mmv_FgT25N2YgUTeiWGWZFo-pcdxZDHg1-l1D/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_06.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXTaMwzETmeX9QTCqORWK9NrLJlOlmr5IXI9X1W-Mcqb/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_06.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Städtebauförderprogramm „Zukunft Stadtgrün“ für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark; hier: Zwischenbericht zum integrierten städtebaulichen Entwicklungskonzept „ISEK“
+- TOP 2.: Aufstellung einer Änderung Nr. 1 zum vorhabenbezogenen Bebauungsplan Nr. 66 Sondergebiet „Einkaufszentrum Drehscheibe" der Kreisstadt Homberg (Efze) zur Anpassung der aktuellen Vorhabenplanung im beschleunigten Verfahren gem. § 13 a BauGB; hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 3.: Entscheidung über die Ausübung des gesetzlichen Vorkaufsrechtes nach §§ 24 BauGB ff; hier: Verkauf der Liegenschaften Holzhäuser Straße 1, Marktplatz 14 u. 15 - (kein Text vorhanden)
+- TOP 4.: Neubau Gehweg und Bushaltestelle K 26 Mardorf hier: Bereitstellung weiterer Haushaltsmittel im Jahr 2019 - (kein Text vorhanden)
+- TOP 5.: Kindertagesstätte Wernswig hier: Standortanalyse
+- TOP 5.1: Kindertagesstätte Wernswig hier: Standortanalyse
+- TOP 6.: Studien zu geplanten Straßenbauprojekten a) Lückenschluss Parkstraße – Am Schlossberg b) Georg-Textor-Weg c) Hersfelder Straße d) Geh- und Radweg Kreisverkehr Ziegenhainer Straße - Industriegebiet
+- TOP 6.1: Straßenbau - Lückenschluss Parkstraße - Am Schlossberg hier: Vorlage einer Machbarkeitsstudie
+- TOP 6.2: Grundhafte Erneuerung Georg-Textor-Weg hier: Vorlage einer Machbarkeitsstudie
+- TOP 6.3: Grundhafte Erneuerung Hersfelder Straße hier: Vorlage einer Machbarkeitsstudie
+- TOP 6.4: Geh- und Radweg Kreisverkehr Ziegenhainer Straße - Industriegebiet hier: Vorlage einer Machbarkeitsstudie
+- TOP 6.5: Grundhafte Erneuerung Schmückebergsweg (Straße und Kanalisation) hier: Information über eine geplante Baumaßnahme des Wasserverbandes Gruppenwasserwerk Fritzlar-Homberg
+- TOP 7.: Sachstandsberichte und sonstige Informationen
+- TOP 7.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 7.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 7.1.2: Antrag der CDU-Fraktion vom 11.12.2014 - betr. Kritische Prüfung des internen Kontrollsystems sowie die Gestaltung wichtiger Arbeitsabläufe
+- TOP 7.1.3: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 7.1.4: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 7.1.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 7.1.6: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 7.1.7: Antrag der CDU-Fraktion vom 17.02.2017 - betr. Stärkung des Nahverkehrsstandort Homberg
+- TOP 7.1.8: Antrag der SPD-Fraktion vom 24.04.2017 – betr. Beutelspender für Hundekot
+- TOP 7.1.9: Antrag der FDP-Fraktion von 09.05.2017 - betr. Errichtung eines Gehwegs an der Ziegenhainer Straße und der Robert-Bosch-Straße
+- TOP 7.1.10: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 7.1.11: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht Juli 2018
+- TOP 7.1.12: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 7.1.13: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 7.1.14: Antrag der CDU-Fraktion vom 1. Februar 2018 betr. Alternativlösung neben der derzeitig vorliegenden Projektstudie zur Neukonzeption des Rathauses
+- TOP 7.1.15: Antrag der FWG-Fraktion vom 30. Mai 2018 betr. Errichtung eines neuen Fußgängerüberwegs
+- TOP 7.1.16: Antrag der FWG-Fraktion vom 31. Mai 2018 betr. umweltfreundliche Gestaltung von Privatgärten
+- TOP 7.2: Antrag auf Aufnahme in das Hessische Dorfentwicklungsprogramm 2018 als gesamt-kommunaler Förderschwerpunkt hier: Schreiben des Schwalm-Eder-Kreises vom 17.07.2018
+- TOP 8.: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet - (kein Text vorhanden)
+- TOP 8.2: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Abschaffung Straßenbeitragsgebühren - (kein Text vorhanden)
+- TOP 8.3: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung - (kein Text vorhanden)
+- TOP 8.4: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg - (kein Text vorhanden)
+- TOP 8.5: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Kurve an L3224 oberhalb Basaltwerk - (kein Text vorhanden)
+- TOP 8.6: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße - (kein Text vorhanden)
+- TOP 8.7: Antrag der CDU-Fraktion vom 23. August 2018 betr. Straßenbeiträge - (kein Text vorhanden)
+- TOP 9.: Anregungen
