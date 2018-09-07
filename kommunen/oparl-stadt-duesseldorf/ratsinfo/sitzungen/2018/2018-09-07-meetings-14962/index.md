@@ -1,0 +1,62 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-07T16:00:00+02:00
+- Ende: 2018-09-07T18:06:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14962
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14962
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323553.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323553.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323553.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Flugbewegungen über dem Düsseldorfer Süden - Vortrag der Deutschen Flugsicherung GmbH - zur Kenntnis genommen
+- TOP 5: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - Empfehlung einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2018 - einstimmig beschlossen
+- TOP 11: Benrather Weihnachtsdörfchen 2018 - abweichend beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2018 (Liste B, sonsti - abweichend beschlossen
+- TOP 13: Anfrage: Verkehrssituation im Rathausviertel Benrath - beantwortet
+- TOP 14: Anfrage: Straßenunterhaltungsprogramm, Benrodestr. und Erich-Müller-Str. - beantwortet
+- TOP 15: Anfrage: Geschwindigkeitsbegrenzung Am Schönenkamp - vertagt
+- TOP 16: Anfrage: Zukunft der Kinderbücherei in Hassels - beantwortet
+- TOP 17: Anfrage: Baumlose Baumscheiben - vertagt
+- TOP 18: Anfrage: Grundwasserzustand im Stadtteil Wersten - beantwortet
+- TOP 19: Anfrage: Fußgängerbereich Leverkuser Str./ Küppersteger Str. - beantwortet
+- TOP 20: Anfrage: Sachstand "Öffnung von Einbahnstraßen für gegenläufigen Radverkehr" - vertagt
+- TOP 21: Antrag: Stadtbahnlinien 71 und 83 - einstimmig beschlossen
+- TOP 22: Antrag: Zufahrtsbeschränkung und Geschwindigkeitsbegrenzung Fürstenberger Platz - einstimmig beschlossen
+- TOP 23: Antrag: Feuerwache - einstimmig beschlossen
+- TOP 24: Antrag: Belüftung Kunstbunker Wersten - zurückgezogen
+- TOP 25: Antrag: Förderung von stationsbasiertem CarSharing in Benrath - einstimmig beschlossen
+- TOP 26: Antrag: Fernwärmeverbund Düsseldorf Süd - einstimmig beschlossen
+- TOP 27: Antrag: Lärmschutzwand Cäcilienstraße - einstimmig beschlossen
+- TOP 28: Antrag: Düsseldorfer Eissporthalle Benrath - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Chorverband Düsseldorf - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath, Sommerfest - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel SoVD - Sozialverband Deutschland e.V.; Ausflug - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Düsseldorfer Künstler e.V. - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Paulinenpark-Fest - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz e.V., Martinsumzug 2018 - einstimmig beschlossen
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 16.03.2018, Studierendenwohnheim Ickerswarder Str. / - zur Kenntnis genommen
+- TOP 36: Informationsvorlage zum Beschluss der BV 9 vom 04.05.2018, Umlaufschranken an Haltestellen Werstener - zur Kenntnis genommen
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 04.05.2018, Fahrradstraßen im Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 38: Informationsvorlage zum Beschluss der BV 9 vom 04.05.2018, Kundenservice Stadtsparkasse - zur Kenntnis genommen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 04.05.2018, Kleinspielfeld am "Lauftreff Süd" - zur Kenntnis genommen
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 22.06.2018, Drängelgitter Spielplatz Benrodestr. 3 - zur Kenntnis genommen
+- TOP 41: Informationsvorlage zum Beschluss der BV 9 vom 22.06.2018, Kindertreff Geeststraße 99 - zur Kenntnis genommen
+- TOP 42: Informationsvorlage zum Beschluss der BV 9 vom 26.01.2018, Hochwasserschutzprojekt Himmelgeist - zur Kenntnis genommen
+- TOP 43: Informationsvorlage zum Beschluss der BV 9 vom 13.10.2017, Wilhelm-Rüther-Straße - zur Kenntnis genommen
+- TOP 44: Informationsvorlage Einsatz der Geschwindigkeitsanzeigetafel im Stadtbezirk 9 im Jahre 2017 - zur Kenntnis genommen
+- TOP 45: Informationsvorlage zum Beschluss der BV 9 vom 22.06.2018, Insektenfreundliches Rathaus Benrath - 1 - zur Kenntnis genommen
