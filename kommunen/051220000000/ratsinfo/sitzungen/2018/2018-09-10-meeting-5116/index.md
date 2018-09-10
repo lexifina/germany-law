@@ -1,0 +1,52 @@
+# Zuwanderer- und Integrationsrat (26. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-09-10T17:06:00+02:00
+- Ende: 2018-09-10T18:46:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-285
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZave_1OCC5CINKUwJ2KiRwM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5116
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWO1Xkq6l9bEr1TSvbo49Q6blbRO9_FYuwnZ1Vwzrcpb/Bekanntmachung_Zuwanderer-_und_Integrationsrat_10.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV2WN1pgu3qI39d8X1s0yMLpxpMypoKv9BkUVc4KYNPo/Oeffentliche_Niederschrift_Zuwanderer-_und_Integrationsrat_10.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Solinger Städtepartnerschaften
+- TOP 1.2: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 1.3: Bestandsaufnahme der Beteiligung von Migrantinnen und Migranten am Solinger Kunst- und Kulturangebot
+- TOP 1.4: Ramadan
+- TOP 1.5: Landesintegrationsrat
+- TOP 1.6: Gedenkveranstaltung mit Podiumsdiskussion anlässlich des 25. Jahrestages des Solinger Brandanschlages
+- TOP 1.7: Aktuelle Zahlen der Personen mit Migrationshintergrund in Solingen
+- TOP 1.8: Nachfrage bei Schulanmeldungen
+- TOP 1.9: Überprüfung des Beschlusses zur Vorlage 3311 „Förderanträge“
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 24. Sitzung des Zuwanderer- und Integrationsrates am 23.04.2018
+- TOP 4.: Protokoll über die 25. Sitzung des Zuwanderer- und Integrationsrates am 04.06.2018
+- TOP 5.: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 6.: Elternstärkung in der Schule - mündlicher Bericht -
+- TOP 7.: Schulisches Konzept in Bezug auf Mobbing, Ausgrenzung und kulturelle Abschottung - mündlicher Bericht -
+- TOP 8.: Änderung der Förderrichtlinien Förderanträge - mündlicher Bericht -
+- TOP 9.: Berichte aus den Gremien
+- TOP 10.: Berichte aus den Arbeitsgruppen
+- TOP 11.: Bericht aus dem Landesintegrationsrat
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.1.1: Beschlusskontrolle 2017-2018
+- TOP 12.1.2: Beschlusskontrolle 2017-2018 - Anlage als Nachtrag
+- TOP 12.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Überprüfung des Beschlusses zur Vorlage 3324 "Pressemitteilung"
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 24. Sitzung des Zuwanderer- und Integrationsrates am 23.04.2018
+- TOP 4.: Protokoll über die 25. Sitzung des Zuwanderer- und Integrationsrates am 04.06.2018
+- TOP 5.: Aussprache
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
