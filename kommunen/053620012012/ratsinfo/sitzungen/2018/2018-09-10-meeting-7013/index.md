@@ -1,0 +1,51 @@
+# Hauptausschuss (65. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-09-10T18:03:00+02:00
+- Ende: 2018-09-10T19:51:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-22
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcmTarswzFUN6afu0fGTdQI
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7013
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSb9EZrYbX0l1LMC1EWrgMUYc9ZBBN8YKtlOhOR6S1Hm/Bekanntmachung_Hauptausschuss_10.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZx44XDfSM6TqmW8Pzrl7s40cWsBthXLQVunM37v0ROK/Oeffentliche_Niederschrift_Hauptausschuss_10.09.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 25.06.2018
+- TOP 2.: Anregungen und Beschwerden gem. § 24 Gemeindeordnung
+- TOP 2.1: Anbringen einer Gedenktafel für Caspar Markard
+- TOP 2.1.1: Anregung nach § 24 GO NRW; hier: Anbringen einer Gedenktafel für Caspar Markard, Bezug: Antrag der Brühler Initiative für Völkerverständigung, Gartenstr. 6, 50321 Brühl, vom 25.06.2018
+- TOP 2.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Anregung nach § 24 GO NRW vom 27.07.2018 hier: Antrag auf Erteilung einer Ausnahmegenehmigung für die Eltern der Kindertagesstätte St. Margareta für das Parken im Bereich Innenstadt Nord, hilfsweise auf Ausstattung der Parkautomaten in diesem Bereich mit der sogenannten "Brötchentaste" (die Erlaubnis zur Veröffentlichung der Personendaten wurde nicht erteilt). - (kein Text vorhanden)
+- TOP 2.3: Anregung nach § 24 GO NRW vom 25.07.2018; hier: Antrag der Bürgerinitiative Kaiserstraße auf sofortige Umsetzung eines LKW-Verbotes auf der Kaiserstraße für die Dauer der Baumaßnahme Heinrich-Esser-Straße; ferner auf Einrichtung eines LKW-Leitsystems für Brühl mit einem langfristigen LKW-Verbot für die Kaiserstraße - (kein Text vorhanden)
+- TOP 2.4: Anregung nach § 24 GO NRW vom 11.08.2018; hier: Antrag auf Wiederherstellung des ursprünglichen Zustandes des Fußweges auf der Willy-Brandt-Straße - (kein Text vorhanden)
+- TOP 2.5: Anregung/Beschwerde nach § 24 GO NRW vom 18.08.2018; hier: Beeinträchtigungen der Gartennutzung durch Pollenflug und Schattenwurf durch den Bewuchs des Biotops zwischen den Straßen "Auf der Pehle" und "Alte Bonnstraße" - (kein Text vorhanden)
+- TOP 3.: Bürgerbeteiligung in der Stadt Brühl; hier: Aktualisierung der Vorhabenliste und der Beteiligungsprotokolle
+- TOP 4.: Sanierung Erich-Kästner-Realschule hier: Vorstellung des Sanierungskonzeptes
+- TOP 5.: Benennung von Straßen
+- TOP 5.1: Benennung einer Straße im Baugebiet „Gallbergsiedlung“ Bebauungsplan 06.92 2. Änderung - (kein Text vorhanden)
+- TOP 6.: Beitritt zum Rahmenvertrag zur Rückzahlung von Sanierungsgeld der Kirchlichen Zusatzversorgungskasse - (kein Text vorhanden)
+- TOP 7.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 7.1: Überplanmäßige Ausgabe für Dienst-/ Schutzkleidung. - (kein Text vorhanden)
+- TOP 7.2: Außerplanmäßige Ausgabe für ein Dienstfahrzeug - (kein Text vorhanden)
+- TOP 7.3: FIT in Deutsch – FerienIntensivTraining Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 7.4: Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 2. Quartal 2018
+- TOP 8.: 1. Zwischenbericht zur Haushaltslage 2018 zum 30.06.18 mit Prognose zum 31.12.18
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen
+- TOP 10.1: Verkehrsführung Badorf
+- TOP 10.2: Verwarnungen Janshof
+- TOP 10.3: Zustand Partnerschaftsweg
+- TOP B): Nichtöffentliche Sitzung
+- TOP 11.: Einstellungen, Beförderungen, Höhergruppierungen und Personalbewegungen
+- TOP 12.: Unbefristete Niederschlagung einer Forderung Hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 13.: Unbefristete Niederschlagung einer Forderung Hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 14.: Unbefristete Niederschlagung einer Forderung hier: Zahlung von Unterhalt - (kein Text vorhanden)
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
+- TOP 16.1: Sachstand Grundstücksverkauf Bonnstraße an die Gebausie
