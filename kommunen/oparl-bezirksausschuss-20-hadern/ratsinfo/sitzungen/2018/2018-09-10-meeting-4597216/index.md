@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2018-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4597216
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4597216
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte und Berichte zu Informationsveranstaltungen städtischer Referate
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Bau und Wohnen
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 7.: Baumschutz
+- TOP 7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.1.: Klematisstraße 13, gem. Baumbestandsplänen Nrn. 16334, 16335, 16336, 16337
+- TOP 7.1.2.: Cochemstr. 4, 3 Fichten
+- TOP 7.1.3.: Großhaderner Str. 7, 1 Nussbaum
+- TOP 7.1.4.: Guardinistr. 60, 2 Eschen
+- TOP 7.1.5.: Guardinistr. 157, 1 Hainbuche
+- TOP 7.1.6.: Pelargonienweg 70, 1 Esche
+- TOP 7.1.7.: Toemlingerstr. 11, 1 Tanne
+- TOP 7.1.8.: Guardinistr. 11, gem. Baumbestandsplan Nr. 12773
+- TOP 7.1.9.: Asternstraße 7, 1 Blautanne
+- TOP 7.1.10.: Willibaldstraße 148, 1 Robinie
+- TOP 7.2: Fällung von Gefahrenbäumen
+- TOP 7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 9.: Antworten der Stadt
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.2.: Broschüre "Atlas Wirtschaftsstandort München" (Referat für Stadtplanung und Bauordnung)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.: Vollversammlung
+- TOP 1.1: Gefasste Beschlüsse
+- TOP 1.2: Referentenanträge
+- TOP 2.: Senatsbeschlüsse
+- TOP 3.: Vorberatende Ausschüsse
+- TOP 4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP A.: Benennung eines Internetbeauftragten
+- TOP 1.1.: Lichtbelästigung durch Leuchtstoffröhren Kurparkstraße 60-62
+- TOP 1.2.: Bauvorhaben Neufriedenheimer Straße 56
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 23.02.2017 über die Projektplanung: Gendergerechte Umgestaltung des Bolzplatzes / Jugendspielplatzes Krokus- / Veilchenstraße im 20. Stadtbezirk Hadern (Baureferat, 09.08.18)
+- TOP 6.1.: Antrag SPD-Stadtratsfraktion: Mehr temporäre Zwischennutzungen und Freischankflächen (Kreisverwaltungsreferat, 13.08.18)
+- TOP 6.2.: Klematisstraße 13, Neubau von 4 gereihten Stadthäusern sowie 2er Doppelparker - hier: Haus 1 - Haus 4 (Referat für Stadtplanung und Bauordnung, 09.08.18)
+- TOP 6.3.: Heiglhofstraße 80 - 98, Aufstockung eines Wohngebäudes - VORBESCHEID (Referat für Stadtplanung und Bauordnung, 09.08.18)
+- TOP 6.4.: Bildung der Bezirksausschüsse für die Amtsperiode 2020-2026; Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung (Direktorium, 17.08.18)
+- TOP 6.5.: Anhörungsrecht für die Einrichtung von Elektroladestationen (Direktorium, 17.08.18)
+- TOP 6.6.: Barbierstr. 1a, Umbau eines Vierfamilienhauses mit Tiefgarage (Referat für Stadt- planung und Bauordnung, 28.08.18)
+- TOP 6.7.: Guardinistr. 11, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 27.08.18)
+- TOP 6.8.: Guardinistraße 83, Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (BayDSchG), hier: Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Nachtrag des Pfarrzentrums St. Ignatius in die Denkmalliste (Referat für Stadtplanung und Bauordnung, 29.08.18)
+- TOP 6.9.: Veranstaltung in einer städtischen Grünanlage bzw. Fußballplatz zwischen Zöllerstraße und Waldheim, hier: Spendenlauf am Biergarten Waldheim, Aktion Sonnenschein Montessorischule am 02.10.2018 von 10.00 - 12.00 Uhr (Kreisverwaltungsreferat, 28.08.18)
+- TOP 6.10.: Veranstaltung in einer städtischen Grünanlage, hier: Max-Lebsche-Platz, "After work grillen" am 13.09.2018 (Kreisverwaltungsreferat, 30.08.18)
+- TOP 7.2.1.: Listen des Baureferates vom 25.07.18 und 08.08.18: Bäume auf dem Waldfriedhof
+- TOP 8.1.: Stadtbezirksbudget für München; Information über die Beschlussfassung im Stadtrat (siehe auch Beschluss der Vollversammlung vom 25.07.2018, Sitzungsvorlage Nr. 14-20 / V 12100) (Direktorium, 10.08.18)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, hier: - Steinbrechweg (Sozialreferat, 06.08.18)
+- TOP 8.3.: Drehgenehmigung für Grünanlage Gondrellplatz am 31.08. - 01.09.18 und 05.09.18 (Kreisverwaltungsreferat, 27.08.18)
+- TOP 9.1.: Ausgetretener Weg am U-Bahnhofaufgang Guardinistraße Westseite (Baureferat, 08.08.18)
+- TOP 9.2.: Straßenbaumaßnahme Waldwiesenstraße (Baureferat, 08.08.18)
+- TOP 9.3.: Biodiversität: Zwei zusätzliche Wildblumenwiesen pro Stadtbezirk auf öffentlichen Grünflächen, Stadtratsantrag vom 31.01.17 (Baureferat, 14.08.18)
+- TOP 9.4.: Persönliche Beteiligung gem. § 13 BA-Geschäftsordnung (Direktorium, 17.08.18)
+- TOP 9.5.: Zwischennachricht: A96; Machbarkeitsstudie zur Einhausung, Empfehlung Nr. 14-20 / E 01738 (Referat für Stadtplanung und Bauordnung, 03.09.18)
+- TOP 11.1.: 18.jetzt - Fest junger Erwachsener im Rathaus am 13.10.18 (Direktorium, 20.08.18)
+- TOP 11.3.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 20. Stadtbezirk Hadern (Kommunalreferat, 27.08.18)
+- TOP 11.4.: Einladung zur Kampagne "munich4EUROPE" (Referat für Arbeit und Wirtschaft, 24.08.18)
+- TOP 1.1.1.: Beschluss vom 25.07.2018: Leistungsprogramm der MVG für die Fahrplanperiode 2019
+- TOP 2.1: Gefasste Beschlüsse
+- TOP 2.1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2018: Ehrenpreis für guten Wohnungsbau Verleihung der Ehrenpreise 2018
+- TOP 2.1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Grün- und Freiflächenverordnung a) verbindliche Einhaltung bei Neubauvorhaben b) Rückkehr zu den alten Werten (Grün pro Einwohner)
+- TOP 2.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2018: Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur
+- TOP 2.1.4.: Beschluss des Bildungsausschusses vom 29.11.2017: Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 2.2: Referentenanträge
+- TOP 3.1: Gefasste Beschlüsse
+- TOP 3.1.1.: Beschluss des Verwaltungs- und Personalausschusses vom 11.07.2018: Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 25.06.2018 a) Aufnahme eines Anhörungs- und Unterrichtungsrechts bei größeren Verkehrsumleitungen und Baumaßnahmen Antrag Nr. 14-20 / B 04002 des BA 16 - Ramersdorf-Perlach vom 15.09.2017 b) Beauftragte für Menschen mit Behinderungen - Initiative des Sozialreferates c) Beauftragter gegen Extremismus Antrag Nr. 14-20 / B 03901 des BA 21 - Pasing-Obermenzing vom 25.07.2017 d) Folgeänderungen der BayGO-Änderung (Zusammensetzung UAs, Vertretung im Vorsitz); Vereidigung 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 3.1.4.: Beschluss des Bildungsausschusses vom 04.07.2018: "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 3.1.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 3.2: Referentenanträge
+- TOP 4.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2018: Atlas Wirtschaftsstandort München
