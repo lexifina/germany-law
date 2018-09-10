@@ -1,0 +1,92 @@
+# 34. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-10T17:00:00+02:00
+- Ende: 2018-09-10T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18841
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18841
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verkehrsanbindung Schule Wasseramselweg
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Umgestaltung der Philippstraße in Köln-Ehrenfeld (Az.: 02-1600-77/18) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: "Kulturstandorte retten – Lebensqualität in Köln sichern" (Az. 02-1600-167/17) - ungeändert beschlossen
+- TOP 3.3: Bürgereingabe gemäß § 24 GO; "Verkehrsberuhigung & Verkehrsplanung Vogelsanger Str. (zwischen Helmholtzstraße und äußere Kanalstraße" Az. 02-1600-18/18) - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 5.1: Annahme einer Spende - Schenkung für das Familienhaus „Familie im Zentrum – FIZ'' in Bocklemünd-Mengenich - ungeändert beschlossen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der SPD-Fraktion, betr.: Anfrage: Anlage von Baumscheiben auf dem Erlenweg als Maßnahme der Verkehrsberuhigung - Kenntnis genommen
+- TOP 6.1.1: Anlage von Baumscheiben auf dem Erlenweg als Maßnahme der Verkehrsberuhigung - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verlängerung der Stadtbahnlinie 5 - Kenntnis genommen
+- TOP 6.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Ehrenfeld am 02.07.2018 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Maßnahmen gegen den Bauüberhang im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Sach- und Planungsstand der Wohnungsbauvorhaben im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.3: Entwicklung der Bodenpreise im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.3.1: Entwicklung der Bodenpreise im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Weitere Planung für die Grundschule Bocklemünd - zurückgestellt
+- TOP 7.5: Anfrage der CDU-Fraktion, betr.: Verkehrsregelung an der Kreuzung Mühlenweg Mathias-Brüggen-Straße - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Ersatz der Betonquader Vogelsanger Straße / Goldammerweg - ungeändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Schulbussverkehr zur Gesamtschule Wasseramselweg in Vogelsang - zurückgestellt
+- TOP 8.4: Öffentliche Toiletten in Ehrenfelder Grünanlagen - geändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Straßensanierungen für die Neugestaltung des Straßenraums nutzen - endgültig zurückgezogen
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Beratung der Haushaltsplan-Entwurfs 2019 einschließlich der Finanzplanung bis 2022 und der sonstigen Anlagen - geändert beschlossen
+- TOP 9.1.1: Änderungsantrag der Fraktion Die Linke zu TOP 9.1 - Hpl.-Entwurf 2019, betr.: Millieuschutzssatzung für Ehrenfeld - ungeändert beschlossen
+- TOP 9.1.2: Änderungsantrag der Fraktion Die Linke zu TOP 9.1 - Hpl.-Entwurf 2019, betr.: Einhaltung der Wohnraumschutzsatzung in Köln und in Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Haushaltsplan-Entwurf 2019 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.3: Genehmigung einer Dringlichkeitseintscheidung, Vergabe der bezirklichen Finanzmittel - Antrag der AWO Jugendeinrichtung 8zwo7 - ungeändert beschlossen
+- TOP 9.4: StadtNaturPark - Anlage und Pflege von artenreichen Blumenwiesen und Obstbäumen - ungeändert beschlossen
+- TOP 9.5: 4. Vergabe der bezirklichen Finanzmittel 2018 - ungeändert beschlossen
+- TOP 9.6: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - zurückgestellt
+- TOP 10.1.1: Änderungsantrag der Fraktion Die Linke zu TOP 10.1, betr.: Planunterlagen den stadtgesellschaftlichen Anforderungen anpassen; - zurückgestellt
+- TOP 10.2: Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63465/02, Arbeitstitel: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 10.3: Wohnen westlich Ölstraße in Köln-Ehrenfeld, Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 10.4: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf
+- TOP 10.5: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 12.2: Barrierefreier Ausbau der Linie 13; Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen in der 32. Sitzung der Bezirksvertretung Ehrenfeld am 04.06.2018 (AN/0855/2018) - zurückgestellt
+- TOP 12.3: Anlage eines Zebrastreifens auf der Höhe der Querung zum Discounter Aldi und Verkürzung der verlängerten Rechtsabbiegespur zu Aldi - Kenntnis genommen
+- TOP 12.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.5: Neuer Fußgängerüberweg Schule Baadenberger Straße - Kenntnis genommen
+- TOP 12.6: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 12.7: Gravenreuthstraße - Kenntnis genommen
+- TOP 12.8: Lebenswerte Veedel - Bürger- und Sozialraumkoordination in Köln - Kenntnis genommen
+- TOP 12.9: Ziel- und Leistungsvereinbarung 2018 - Bürgerzentrum Ehrenfeld, Bürgerschaftshaus Bocklemünd/Mengenich - Kenntnis genommen
+- TOP 12.10: Entwicklungen im Bereich Ehrenfeld; Anfrage CDU-Fraktion im Rat; Fraktion Bündnis 90/Die Grünen im Kölner Rat; AN/0981/2018 - Kenntnis genommen
+- TOP 12.11: Vitalisstraße in Ehrenfeld - Kenntnis genommen
+- TOP 12.12: Oberflächenwiederherstellung nach Versorgungsarbeiten in der Glasstraße - Neuordnung des ruhenden Verkehrs inklusive Optimierung für den Radverkehr - Kenntnis genommen
+- TOP 12.13: Einrichtung von Betreuungsgruppen für Kinder in den freien Räumen der Flüchtlingsunterkunft Butzweilerhof - Kenntnis genommen
+- TOP 12.14: Gestaltung des Parkraumes auf der Frohnhofstraße im Bereich Emilstraße bis Masiusstraße im Zuge der Fahrbahnsanierung - Kenntnis genommen
+- TOP 12.15: Entwicklung einer Beteiligungskultur für Köln - Kenntnis genommen
+- TOP 12.16: Einsatz Sozialer Erhaltungssatzungen in Köln hier: Weiteres Vorgehen Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) - Kenntnis genommen
+- TOP 12.17: Änderung der Parksituation in der Fridolinstraße - Kenntnis genommen
+- TOP 12.18: Verkehrsberuhigung Bocklemünd - Kenntnis genommen
+- TOP 12.19: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 12.20: Querungshilfe Alexianerwerkstätten - Kenntnis genommen
+- TOP 12.21: Beantwortung einer mündlichen Anfrage von Bezirksvertreter Hanselmann (SPD-Fraktion) Sitzung BV Ehrenfeld 04.06.2018 - Kenntnis genommen
+- TOP 12.22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.23: Beantwortung der mündlichen Anfrage von Bezirksvertreterin Kaiser (CDU-Fraktion) aus der Sitzung vom 07.05.2018 - Kenntnis genommen
+- TOP 12.24: Schulweg Wasseramselweg - Kenntnis genommen
+- TOP 12.25: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 12.26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.27: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 12.28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: mündliche Anfragen
+- TOP 14: Anfragen aus vergangenen Sitzungen
