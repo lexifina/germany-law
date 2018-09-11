@@ -1,0 +1,7 @@
+# TOP 6: Straßennamen im Neubaugebiet "Wiesenblumenweg"
+
+- Sitzung: OR Holzhausen (2018-09-11)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d5dd92c66dc3b52541cbd
+- Ergebnis: (offen)
