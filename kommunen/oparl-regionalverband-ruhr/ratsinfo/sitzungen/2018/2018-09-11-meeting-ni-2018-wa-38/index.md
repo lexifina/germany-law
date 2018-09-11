@@ -1,0 +1,57 @@
+# 19. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-09-11T10:00:00+02:00
+- Ende: 2018-09-11T13:25:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-WA-38
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-WA-38
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-WA-38
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-WA-38
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 12.06.2018
+- TOP 3: Angelegenheiten der Business Metropole Ruhr GmbH
+- TOP 3.1: Angelegenheiten der Business Metropole Ruhr GmbH - Gründung einer Flächenentwicklungsgesellschaft
+- TOP 3.2: Angelegenheiten der Business Metropole Ruhr GmbH - Jahresabschluss zum 31.12.2017
+- TOP 3.3: Angelegenheiten der Business Metropole Ruhr GmbH - Bericht über die wirtschaftliche Entwicklung zum 30.06.2018 und Prognose zum 31.12.2018
+- TOP 4: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 4.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2017
+- TOP 4.2: Angelegenheiten der Ruhr Tourismus GmbH - Bericht über die wirtschaftliche Entwicklung zum 30.06.2018 und Prognose zum 31.12.2018
+- TOP 4.3: Angelegenheiten der Ruhr Tourimus GmbH - Bilanz der in 2018 durchgeführten Großveranstaltungen - ExtraSchicht / Sing! Day of Song / Tag der Trinkhallen
+- TOP 5: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 5.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2017
+- TOP 5.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2017
+- TOP 5.3: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2017
+- TOP 6: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Anregungen der Metropole Ruhr zu den Legislativvorschlägen der Europäischen Kommission zu den Ausgabenprogrammen für die EU-Förderperiode 2021-2027 - Positionspapier
+- TOP 7: Angelegenheiten der Freizeitgesellschaften
+- TOP 7.1: Freizeitgesellschaft Metropole Ruhr mbH (FMR)
+- TOP 7.1.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Sachstand zur Entwicklung der FMR
+- TOP 7.1.2: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH (FMR) - Jahresabschluss zum 31.12.2017 der FMR und ihrer Betriebsstätten
+- TOP 7.2: Angelegenheiten der Freizeitgesellschaften - Bericht über die wirtschaftliche Entwicklung der Freizeitgesellschaften zum 30.06.2018 und Prognose zum 31.12.2018
+- TOP 7.3: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2017 der nicht in die FMR mbH integrierten Freizeitgesellschaften (Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH, Freizeitzentrum Xanten GmbH)
+- TOP 7.4: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2017
+- TOP 7.5: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2017
+- TOP 7.6: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2017
+- TOP 8: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2017
+- TOP 9: Angelegenheiten der Umweltzentrum Westfalen GmbH
+- TOP 9.1: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2017
+- TOP 9.2: Angelegenheiten der Umweltzentrum Westfalen GmbH - Änderung der Nebenabrede
+- TOP 10: Integriertes Handlungskonzept 'Zukunft und Heimat: Revierparks 2020' - Aktueller Stand der Förderanträge; Sachstandsbericht
+- TOP 11: Ausbildung beim Regionalverband Ruhr und in den Beteiligungsgesellschaften
+- TOP 12: Aktueller Sachstand Bewerbung IGA 2027
+- TOP 13: Anträge
+- TOP 14: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
