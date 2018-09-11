@@ -1,0 +1,78 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737931
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737931
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.3.: Bauvorhaben Parkstr. 24
+- TOP 6.2.4.: Bauvorhaben Holzapfelstr. 10
+- TOP 6.2.5.: Bauvorhaben Gollierstr. FlNr. 7816/0
+- TOP 6.2.6.: Bauvorhaben Parkstr. 25
+- TOP 6.2.7.: Bauvorhaben Ligsalzstr. 42-44
+- TOP 6.2.8.: Bauvorhaben Gollierplatz 16 VGB
+- TOP 6.2.9.: Bauvorhaben Gollierplatz 16 RGB
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Durchfahrt/Poller am Oda-Schaefer-Weg
+- TOP 6.1.1.: Änderung des Bodenbelages für Veranstaltungen auf dem "Schneckenplatz"; BV-Empfehlung Nr. 14-20 / E 02041
+- TOP 6.1.2.: (E) Änderung des Bodenbelages für Veranstaltungen auf dem „Schneckenplatz“ Empfehlung Nr. 14-20 / E 02041 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 6.1.3.: Sondernutzung - Freischankfläche Kazmairstr. 31
+- TOP 6.1.4.: Sondernutzung - Verkaufsstand Franziska-Bilek-Weg (U-Bahnausgang)
+- TOP 6.2.1.: Mehr temporäre Zwischennutzungen und Freischankflächen
+- TOP 6.2.2.: Werbeanlagen Landsberger Straße
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Sondernutzungserlaubnis - "munich4EUROPE" am Bavariapark
+- TOP 6.3.3.: "Taubenplage" im Dönerhaus (Schwanthalerstr. 119); BV-Anfrage Nr. 14-20 /Q 00537
+- TOP 6.3.4.: Umsetzung eines Sanitärgebäudes auf oder neben dem Gollierplatz (erneute Stellungnahme Baureferat)
+- TOP 7.1: Entscheidungen
+- TOP 7.1.1.: (E) Internetzugang für Leute mit wenig Geld
+- TOP 7.1.2.: 18.jetzt - Fest junger Erwachsener am 13.10.2018
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Straßenbenennung - Josef-Thurner-Platz
+- TOP 7.2.2.: Objektive Vergabepraxis von Schulplätzen; Standortprüfung für ein Gymnasium im Stadtbezirk; BV-Empfehlung Nr. 14-20 / E 02061
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Fristverlängerung - Denkmal auf dem Sinti-Roma-Platz; BA-Antrag 08-14 / B04613
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Ersatzpflanzung und Neupflanzung von Bäumen im Bereich Gollierstraße/ Gollierplatz Empfehlung Nr. 14-20 / E 02056 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.1.2.: (E) Ausweisung einer Freilauffläche für Hunde im Stadtbezirk Empfehlung Nr. 14-20 / E 02058 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.1.3.: (E) Fahrradstellplätze auf dem „Schneckenplatz“ Empfehlung Nr. 14-20 / E 02050 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.1.4.: (E) Begrenzungspoller an der Stirnseite der Parkplätze in der Schnaderböckstraße Empfehlung Nr. 14-20 / E 02051 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.1.5.: (E) + (U) Gelbe Auffahrrampen an den U-Bahn-Bahnsteigen Empfehlung Nr. 14-20 / E 02049 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 19.06.2018
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Stadtratsantrag - Ausweitung der Auf- und Abbauzeiten für das Oktoberfest
+- TOP 8.2.2.: Beschlussentwurf Parkraummanagement in München - Umsetzung Sektor V
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Radweg - und Straßenmarkierung Landsberger Str. / Grasserstr. (BA-Antrag Nr. 14-20 / B 04757)
+- TOP 8.3.2.: Oktoberfest 2018 - Zusammenfassung Ergebnis der Baustelleneinrichtungsfläche im Bereich Gollier- / Schießstättstr.
+- TOP 8.3.3.: Für eine lebenswerte Stadt: Ja zum Arnulfsteg; BV-Empfehlung Nr. 14-20 / E 01966
+- TOP 8.3.4.: 3. Infoveranstaltung - Aufbau eines öffentlichen Ladesäulensystems für E-Fahrzeuge am 18.09.2018
+- TOP 8.3.5.: Erhöhtes Verkehrsaufkommen durch das neue Einkaufszentrum - Forum Schwanthalerhöhe; BV-Empfehlung Nr. 14-20 / E 01453
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Budget der Bezirksausschüsse CHOSSYs WunderKammerMusik Konzert am 05.08.2018 800,00 € Az: 0262.0-8-0151
+- TOP 9.1.2.: (E) Budget der Bezirksausschüsse Nyx e.V. Theaterprojekt "100 Jahre 100 Pfade 100 Leute - Demokratiemodelle" im Frühjahre 2019 5.000,00 € 0262.0-8-0152
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Informationsschreiben Fördermöglichkeiten - "Bürgerinnen und Bürger gestalten die Stadt"
+- TOP 11.1.: Satzungsänderungb - Anhörungsrecht für die Einrichtung von Elektroladestationen
+- TOP 11.2.: Satzungsänderung - Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anhörung zur nötigen Anpassung der Anlage 2 der BA-Satzung
