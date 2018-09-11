@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-11T17:00:00+02:00
+- Ende: 2018-09-11T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18894
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18894
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Eiler Plätze
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Haushaltsplanung 2019, Beteiligung der Bezirksvertretung - geändert beschlossen
+- TOP 6.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Erneuerung des Saalbodens im Bürgerzentrum Engelshof, Oberstr. 96, 51149 Köln - ungeändert beschlossen
+- TOP 6.3: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte hier: Ernennung eines stellvertretenden Mitgliedes für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Städtebauliches Planungskonzept "Am Bahnhof" in Köln-Porz-Wahn,Anhörung der Bezirksvertretung Porz zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - aus der letzten Sitzung zurückgestellt - ungeändert empfohlen
+- TOP 7.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - aus der letzten Sitzung zurückgestellt - mit Änderungen empfohlen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: AN/1113/2018: Ergänzungsantrag zur Sitzung der Bezirksvertretung Porz am 09.07.2018, ISEK Porz Mitte hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 7.2.3: Antwort der Verwaltung: AN/1116/2018 - Gemeinsamer Änderungsantrag von CDU-Fraktion, B90/Grüne-Fraktion, FDP-Fraktion in der Bezirksvertretung (BV) Porz zu TOP 7.2 der Sitzung der BV am 09.07.2018: "ISEK Porz Mitte" hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Deutzer Hafen; Einleitungsbeschluss; 227. Änderung (FNP) im Stadtbezirk 1, in Köln-Deutz - ungeändert empfohlen
+- TOP 7.4: Deutzer Hafen in Köln-Deutz; Beschluss über die Aufstellung eines Bebauungsplanes - mit Änderungen empfohlen
+- TOP 7.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Vorlage Beschluss Integrierter Plan Deutzer Hafen - Sammelumdruck - ungeändert empfohlen
+- TOP 7.6: 266. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.7: Widmung eines Verbindungsweges vom Wendehammer der Konrad-Adenauer-Straße zur Humboldtstraße entlang der Grundschule in Köln-Finkenberg - geändert beschlossen
+- TOP 7.7.1: Änderungsantrag der Fraktion Die Grünen zu TOP 7.7 - Widmung eines Weges - ungeändert beschlossen
+- TOP 7.8: Teileinziehung eines Teilstückes der Raiffeisenstraße zwischen Poller Kirchweg und Schreberstraße in Köln-Poll - ungeändert beschlossen
+- TOP 7.9: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. ohne Nr., 51143 Köln-Porz - Planungsbeschluss - ungeändert empfohlen
+- TOP 7.9.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.9 - Wohnhaus Houdainer Straße - endgültig abgelehnt
+- TOP 7.10: "Revitalisierung Innenstadt Köln-Porz in Köln-Porz"; 74393/04; Beschluss über Stellungnahmen sowie Satzungsbeschluss - Sammelumdruck - ungeändert empfohlen
+- TOP 7.11: Generalsanierung Drehbrücke Deutzer Hafen Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - ungeändert empfohlen
+- TOP 7.12: Gestaltungsplanung für die Erweiterung des Kooperationsgräberfeldes auf dem Friedhof Wahn - ungeändert empfohlen
+- TOP 7.13: Bedarfsfeststellungsbeschluss; aus dem Programm "Integriertes Stadtentwicklungskonzept Porz Mitte" - ungeändert empfohlen
+- TOP 7.14: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Antrag Gräberwege Sankt Michael - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion:Verlegung Haltelinie Lichtsignalanlage Siegburger Str./Allerseelenstr in Poll - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktion die Grünen: unerledigte Anträge der Bezirksvertretung - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Entwicklung von Zündorf Süd - Kenntnis genommen
+- TOP 9.1.2: Anfrage zur Sitzung der Bezirksvertretung Porz am 14.06.2016 zum Wohnungsaufsichtsgesetz (WAG NRW) - Kenntnis genommen
+- TOP 9.1.3: TOP 9.2.3 der Sitzung der BV 7 am 15.05.2018, Mündliche Anfrage der Fraktion die Grünen: GGS Hauptstr. - Kenntnis genommen
+- TOP 9.1.3.1: Mündliche Anfrage der Fraktion die Grünen: GGS Hauptstraße - Kenntnis genommen
+- TOP 9.1.4: Anwohnerparken für Wahner Straßen - Kenntnis genommen
+- TOP 9.1.4.1: Anfrage der CDU-Fraktion: Anwohnerparken für Wahner Straßen - Kenntnis genommen
+- TOP 9.1.5: Pläne der Verwaltung bezüglich des Verkehrsübungsplatzes in Köln-Poll; Anfrage CDU-Fraktion in der BV 7 - Kenntnis genommen
+- TOP 9.1.6: DHL-Paketstation an der Heidestraße - Kenntnis genommen
+- TOP 9.1.6.1: Anfrage der CDU-Fraktion: DHL- Paketstation an der Heidestraße - Kenntnis genommen
+- TOP 9.1.7: Parkplatz am Bahnhof Wahn - Kenntnis genommen
+- TOP 9.1.7.1: Anfrage der Fraktion Die Grünen: Maßnahmen am Bahnhof Wahn - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion: Grillhütte in Poll - Sache ist erledigt
+- TOP 9.2.2: Anfrage der SPD-Fraktion: Verkehr im Porzer Süden - zurückgestellt
+- TOP 9.2.3: Anfrage der Fraktion Die Grünen: Bushaltestelle Gut Leidenhausen - zurückgestellt
+- TOP 9.2.4: Anfrage der SPD-Fraktion: Erweiterung Janusz-Korczak-Schule - zurückgestellt
+- TOP 9.2.5: Anfrage der Fraktion Die Grünen: Parkhaus Wahn - zurückgestellt
+- TOP 9.2.6: Anfrage der SPD-Fraktion: Schülerzahlen Hohe Straße - zurückgestellt
+- TOP 9.2.7: mündliche Anfrage der CDU-Fraktion: Poller Wiesen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 10.2.2: Ladestation für E-Autos in Poll - Kenntnis genommen
+- TOP 10.2.3: Ziel- und Leistungsvereinbarung 2018 - Bürgerzentrum Engelshof - Kenntnis genommen
+- TOP 10.2.4: Stärkung und Ausweitung des KVB-Busnetzes - Kenntnis genommen
+- TOP 10.2.5: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.6: Entwicklung einer Beteiligungskultur für Köln - Kenntnis genommen
+- TOP 10.2.7: AN/1054/2018 - Antrag der SPD-Fraktion in der Bezirksvertretung Porz, TOP 8.4 der Sitzung der BV am 09.07.2018: Stopp der Weitervermietung der Pavillons auf der Brücke Porz Mitte hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 10.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.9: Planungskriterien für taktile Elemente - Kenntnis genommen
+- TOP 10.2.10: Straßen- und Radwegunterhaltugsmaßnahmen im Kölner Stadtgebiet (Porz) ab dem Jahr 2017 ff. - Kenntnis genommen
+- TOP 10.2.11: Küchen- und Mensacontainer der Gemeinschaftsgrundschule Porz-Mitte Hauptstraße 432 - Kenntnis genommen
+- TOP 10.2.12: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 10.2.13: Sachstandsbericht zum Einzelhandelskonzept, Antrag AN/1059/2018 - Kenntnis genommen
+- TOP 10.2.14: Besenbinderplatz - Mitteilung über die Veröffentlichung im Amtsblatt - Kenntnis genommen
+- TOP 10.2.15: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 10.2.16: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
