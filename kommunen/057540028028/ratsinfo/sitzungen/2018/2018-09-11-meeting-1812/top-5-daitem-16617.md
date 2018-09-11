@@ -1,0 +1,6 @@
+# TOP 5: Mitteilungen der Vorsitzenden und der Verwaltung
+
+- Sitzung: Ausschuss für Grundstücke und Gebäude (25. Sitzung) (2018-09-11)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/16617
