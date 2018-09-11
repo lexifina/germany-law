@@ -1,0 +1,85 @@
+# 39. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-11T15:30:00+02:00
+- Ende: 2018-09-11T18:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18675
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18675
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677996.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677996.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677996.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Verlängerung der KVB-Linie 142 bis zum Zoo - endgültig abgelehnt
+- TOP 1.2: Programm „Gut und sicher zur Schule“ - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Eifelwall: Einrichtung einer Fahrradstraße - im ersten Durchgang verwiesen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - zurückgestellt
+- TOP 3.2: Bedarfsfeststellung zur Durchführung des Weihnachtsverkehrs 2018 - ungeändert beschlossen
+- TOP 3.3: Verkehrsversuch Bayenthal/Marienburg - im ersten Durchgang verwiesen
+- TOP 3.4: Bedarfsfeststellung und Vergabe des Zeitvertrages über die Lieferung und Montage von Fahrradständern - ungeändert beschlossen
+- TOP 3.5: Green City Masterplan der Stadt Köln - Masterplan für die Gestaltung nachhaltiger und emissionsfreier Mobilität in Köln - ungeändert beschlossen
+- TOP 3.6: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - im ersten Durchgang verwiesen
+- TOP 3.7: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet durch Beschlüsse im Rheinisch-Bergischen Kreis - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert empfohlen
+- TOP 4.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - ungeändert empfohlen
+- TOP 4.4: Baubeschluss für die Erneuerung von 22 Fahrtreppenanlagen an den Stadtbahnhaltestellen Friesenplatz, Rudolfplatz, Venloer Straße/Gürtel, Äußere Kanalstraße, Dom/Hbf., Heumarkt und Leyendeckerstraße mit gleichzeitiger Freigabe von investiven Auszahlun - ungeändert empfohlen
+- TOP 4.5: 266. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.6: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.7: Umgestaltung des Knotenpunktbereiches Sachsenring/Ulrichgasse/Vorgebirgstraße sowie Änderung der Verkehrsführung im Knotenpunktbereich - ungeändert empfohlen
+- TOP 4.8: Bedarfsfeststellungsbeschluss für den Aufbau eines Verkehrszeichenkatasters als Grundlage für eine stadtverträgliche LKW-Navigarion sowie Beschluss zur Bereitstellung einer außerplanmäßigen Verpflichtungsermächtigung, hier: Finanzstelle 6 - ungeändert empfohlen
+- TOP 4.9: Möblierung des kleinen und des großen Offenbachplatzes - ungeändert empfohlen
+- TOP 4.10: 9. Änderung des Gesamtverkehrskonzepts der Stadt Köln - ungeändert empfohlen
+- TOP 4.11: Generalsanierung Drehbrücke Deutzer Hafen Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - ungeändert empfohlen
+- TOP 4.12: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - ungeändert empfohlen
+- TOP 4.13: Stadtbahnanbindung Rondorf/Meschenich-Nord - mit Änderungen empfohlen
+- TOP 4.14: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 4.15: Betrauung der Kölner Verkehrs-Betriebe (KVB) mit der Unterhaltung und Instandhaltung der im städtischen Eigentum stehenden oberirdischen Haltestellen bzw. der darauf befindlichen baulichen Anlagen - mit Änderungen empfohlen
+- TOP 4.16: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ohne Votum in nachfolgende Gremien
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Stadtbahnverlängerung Widdersdorf-Brauweiler - Sache ist erledigt
+- TOP 5.2.2: Entwicklung eines Wasserbussystems auf dem Rhein – Welchen Fortschritt gibt es zur sinnvollen Ergänzung unseres ÖPNV-Angebotes? - Sache ist erledigt
+- TOP 5.2.3: Spielen Lufttaxis (vertikaler Personennahverkehr) bei den Planungen rund um eine kommunale Stellplatzsatzung eine Rolle? - Sache ist erledigt
+- TOP 5.2.4: Anfrage des Seniorenvertreters Meurers vom 05.09.2018 betr. - Sache ist erledigt
+- TOP 5.2.5: Anfrage zu Ausfällen von Bussen und Bahnen der KVB - zurückgestellt
+- TOP 5.2.6: Mobilitätsverhalten der Kölnerinnen und Kölner - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Überprüfung und Rückbau freilaufender Rechtsabbieger - Sache ist erledigt
+- TOP 6.2: Reichenspergerplatz; Anfrage des Seniorenvertreters Meurers aus der Sitzung des Verkehrsausschusses am 15.05.2018, TOP 5.2.1 - Sache ist erledigt
+- TOP 6.3: Fahrscheinloser Tag der KVB 2018 - Sache ist erledigt
+- TOP 6.4: Zukünftige Leistungsfähigkeit des Bonner Verteiler-Kreises - Sache ist erledigt
+- TOP 6.5: Einsatz von Abbiegeassistenten - Sache ist erledigt
+- TOP 6.6: Versorgung von Flusskreuzfahrtschiffen - Sache ist erledigt
+- TOP 6.7: Organisation der Bürgerbeteiligung zur Ost-West-Achse - Sache ist erledigt
+- TOP 6.8: Neue Kölner Statistik 2/2018 - Kraftfahrzeuge 1038/2018 hier: Niederschrift der Sitzung des Verkehrsausschusses vom 19.06.2018, TOP 7.2 - Sache ist erledigt
+- TOP 6.9: Gregor-Mendel-Ring - Sache ist erledigt
+- TOP 6.10: Ost-West-Achse - Sache ist erledigt
+- TOP 6.11: Schulwegpläne in Köln - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Aktueller Stand der Fahrradleihsysteme in der Stadt Köln - Kenntnis genommen
+- TOP 7.2: Machbarkeitsstudie für leistungsfähige regionale Radverbindungen/Radhauptachsen zwischen Köln, Leverkusen, dem Rheinisch-Bergischen Kreis und dem Rhein-Sieg Kreis - Kenntnis genommen
+- TOP 7.3: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.4: Aktueller Sachstand zur Umsetzung der "Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung" - Kenntnis genommen
+- TOP 7.5: Integrierter Plan Deutzer Hafen (Mitteilung zu 1512/2018) - Kenntnis genommen
+- TOP 7.6: Fahrscheinloser ÖPNV: Planungen rund um den 1. fahrscheinlosen Tag in Köln - Kenntnis genommen
+- TOP 7.7: KVB-Linie 12: Taktverdichtung zwischen 23 und 24 Uhr - Kenntnis genommen
+- TOP 7.8: Anpassung der Obergrenze für Einzelaufträge auf Grundlage des Tiefbaurahmenvertrages - Kenntnis genommen
+- TOP 7.9: Sachstand: Mitnahme von E-Scootern bei der KVB AG - Kenntnis genommen
+- TOP 7.10: Stadtradeln 2018 - Kenntnis genommen
+- TOP 7.11: Mobilität in Köln - Aktuelle Ergebnisse der MiD 2017 zum Mobilitätsverhalten der Kölnerinnen und Kölner - Kenntnis genommen
+- TOP 7.12: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 7.13: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Ausfall der Lichtsignalanlage Christophstraße/von-Werth-Straße - zur weiteren Bearbeitung in die Verwaltung überwiesen
