@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-11T17:00:00+02:00
+- Ende: 2018-09-11T19:55:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14722
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14722
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift BV5-Sitzung 29.05.2018 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00322952.pdf
+- Ergebnisprotokoll: Niederschrift BV5-Sitzung 29.05.2018 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00322952.pdf
+- Wortprotokoll: Niederschrift BV5-Sitzung 29.05.2018 - öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00322952.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 29.05.2018 - abweichend beschlossen
+- TOP 3: Genehmigung Niederschrift 26.06.2018 - abweichend beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Realschulneubau Klapheckstraße – Ausstattung und Inventar, Klappheckstraße 31, Stockum - Empfehlung einstimmig beschlossen
+- TOP 9: Bebauungsplan-Entwurf Nr. 05/011 - Verweyenstraße - Verfahren gem. § 13a BauGB, Aufstellung, Öffentl - Empfehlung mehrheitlich abgelehnt
+- TOP 10: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - vertagt
+- TOP 11: Weihnachtsmarkt auf dem Klemensplatz im Jahre 2018 - einstimmig beschlossen
+- TOP 12: Trödelmärkte auf dem Messeparkplatz P1 am 16.09.2018, 03.10.2018 und 04.11.2018 - einstimmig beschlossen
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen Dritter - einstimmig beschlossen
+- TOP 14: Haushaltsmittel 2018 der Bezirksvertretung 5 - einstimmig beschlossen
+- TOP 15: Verkehrssicherheit Querungshilfe Rahmer Straße/Kalkweg - beantwortet
+- TOP 16: Verkehrssicherheit Stockhausgasse
+- TOP 17: Pflege/Instandhaltung von Bänken - beantwortet
+- TOP 18: Spätlandungen am Flughafen Düsseldorf - beantwortet
+- TOP 19: Instandhaltung Gerichtsschreiberweg - beantwortet
+- TOP 20: Angermunder Straße / Pfarrer-Holl-Weg - Verbesserung der Verkehrssituation
+- TOP 21: LKW-Verkehre auf der Stockumer Kirchstraße - beantwortet
+- TOP 22: Fremdnutzer des P&R-Platz S-Bahnhof Angermund
+- TOP 23: Lohauser Deich - Betrieb der Schrankenanlage zum Wasserwerk Am Staad - beantwortet
+- TOP 24: Entsiegelung einer Teilfläche des Lohauser Deichs
+- TOP 25: "kleiner" Angermunder Baggersee (südlich Heiderpatt) - Sauberkeit rund um den See - beantwortet
+- TOP 26: Flughafen Düsseldorf - Schrankenanlage für den Kiss- & Fly-Bereich - beantwortet
+- TOP 27: B8n - Lkw-Verkehr - beantwortet
+- TOP 28: Wann geht es endlich bei der Umbaumaßnahme für die Feuerwehr Kaiserswerth weiter? - beantwortet
+- TOP 29: Flughafen Düsseldorf - Stellplatzangebote und -bewirtschaftung des Flughafens - beantwortet
+- TOP 30: Taktverdichtung auf der Buslinie 728
+- TOP 31: Trinkwasserbrunnen im Stadtbezirk 5 - beantwortet
+- TOP 32: Kalkstraße - Instandsetzung des Gehweges - einstimmig beschlossen
+- TOP 33: Bewältigung von Starkregenereignissen im Stadtbezirk 5 - einstimmig beschlossen
+- TOP 34: Stellungnahmen 11.09.2018 - zur Kenntnis genommen
+- TOP 35: Beschlusskontrolle der Bezirksvertretung 5 im Jahr 2018 - zur Kenntnis genommen
+- TOP 36: Erneuerung der Zaunanlage an der Burgruine der Kaiserpfalz in Kaiserswerth - zur Kenntnis genommen
+- TOP 37: Verschiedenes - zur Kenntnis genommen
