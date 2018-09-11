@@ -1,0 +1,67 @@
+# 31. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-11T15:35:00+02:00
+- Ende: 2018-09-11T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18657
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18657
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00675084.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00675084.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00675084.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnern
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Bestellung eines Mitglieds der Jury zur Verleihung des Heinrich-Böll-Preises der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene - ungeändert beschlossen
+- TOP 4.3: Ankauf von zwei Alabasterreliefs, Verkündigung an Maria, südliche Niederlande um 1410-20, für das Museum Schnütgen - ungeändert beschlossen
+- TOP 4.4: Sanierung Orangerie im Volksgarten - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Ankauf eines Kunstwerkes der Künstlerin Gabriele Münter für das Museum Ludwig und Annahme einer Geldzuwendung - ungeändert beschlossen
+- TOP 4.6: Generalsanierung der Zentralbibliothek der Stadt Köln, Josef-Haubrich-Hof 1, 50676 Köln; Baubeschluss gemäß Weiterplanungsbeschluss vom 24.03.2015 (2781/2014) und Ratsbeschluss vom 18.12.2012 (3142/2012) - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Zustimmung zur Konzeption zur Realisierung des Gedenkorts Deportationslager Köln-Müngersdorf - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung von 95 Schmuckstücken und Textilien aus Nordafrika und Westasien - geändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Vorstellung des Referenten "Kultur als Akteur der Stadtgesellschaft - Kulturelle Teilhabe" - Kenntnis genommen
+- TOP 8.2: Mitteilung der Verwaltung zur Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Werbesäulen" - Kenntnis genommen
+- TOP 8.3: Mitteilung der Verwaltung zur Anfrage der CDU-Fraktion und der Fraktion Bündnis90/Die Grünen betr.: "Stellenplan und Stellenvakanzen im wissenschaftlichen Betrieb der städtischen Museen" - Kenntnis genommen
+- TOP 8.4: Mitteilung der Verwaltung zur Anfrage der FDP-Fraktion betr.: "Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage" - zurückgestellt
+- TOP 8.5: Mitteilung der Verwaltung zur Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Entwicklungen im Bereich Ehrenfeld" - Kenntnis genommen
+- TOP 8.6: Mitteilung der Verwaltung zu Nachfragen der FDP-Fraktion zur Beantwortung 1593/2018 betr.: "Kulturzentrum am Neumarkt" - Kenntnis genommen
+- TOP 8.7: Mitteilung der Verwaltung zur Anfrage der Behindertenorganisationen und -selbsthilfegruppen betr.: "Barrierefreiheit in den Museen" - Kenntnis genommen
+- TOP 8.8: Veränderung der Ausstellungskonzeption für die für 2019 durch das Kölnische Stadtmuseum geplante Sonderausstellung „Jacques Offenbach – Boulevard Europa" wegen Absage - Kenntnis genommen
+- TOP 8.9: Neukonstituierung des Musikbeirates - Kenntnis genommen
+- TOP 8.10: Verlängerung der Sonderausstellung Pas de Deux - Kenntnis genommen
+- TOP 8.11: Entwicklung des Comedia Theaters in der Vondelstraße 4-8 zu einem "Zentrum der Kultur für junge Bürgerinnen und Bürger in Köln und NRW" - Kenntnis genommen
+- TOP 8.12: Neues Kommunales Gesamtkonzept Kulturelle Bildung und Bewerbung um Fördergelder - zurückgestellt
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR- Jüdisches Museum im Archäologischen Quartier Köln, Stand 29.08.18 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 24.08.2018 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Anfrage der Fraktion Die Linke.Köln betr.: "Einbruch in die Hallen Kalk 75 - 77" - Kenntnis genommen
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Beantwortung der mündlichen Anfrage der SPD-Fraktion vom 19.06.2018 betr.: "Sachstand - Ufermauer Porz" - Kenntnis genommen
+- TOP 10.4: Beantwortung der mündlichen Nachfragen der Fraktion Bündnis 90/Die Grünen (1690/2018) betr.: "Kulturelle Bildung" - (AN/0741/2018) - zurückgestellt
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der SPD-Fraktion betr.: "Kunsthaus Rhenania" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion (AN/0737/2018) betr.: "Kunsthaus Rhenania" - Kenntnis genommen
+- TOP 11.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - Sache ist erledigt
+- TOP 11.3: Anfrage der Ratsgruppe BUNT betr.: "Virtueller Klassenraum – für Deutschlernende und für alle?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Ratsgruppe BUNT - AN/0977/2018 - betr.: "Virtueller Klassenraum - für Deutschlernende und für alle?" - Kenntnis genommen
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der schriftlichen Anfrage von SB Dr. Krings betr.: "MuseumsCard der Museen der Stadt Köln" (AN/0891/2018) - Kenntnis genommen
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Mündliche Anfragen
