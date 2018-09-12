@@ -1,0 +1,52 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-12T17:00:00+02:00
+- Ende: 2018-09-12T19:40:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14636
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14636
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323994.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323994.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00323994.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Vorstellung "Bezirkscheck" - zur Kenntnis genommen
+- TOP 5: Forschungsprojekt INTESO - zur Kenntnis genommen
+- TOP 6: 184. FNP-Änderung (Entwurf) - Nördlich Theodorstraße: Möbeleinzelhandel - mehrheitlich beschlossen
+- TOP 7: Plan 06/001 - "Nördlich Volkardeyer Weg"Aufstellungs- und Offenlagebeschluss - mehrheitlich beschlossen
+- TOP 8: Umwidmung Kinderspielplatz Fritz-von-Wille-Straße - einstimmig beschlossen
+- TOP 9: Anfrage SPD: Fernwärmeleitung durch den Stadtbezirk 6
+- TOP 10: Anfrage CDU: Kleidercontainerleerung in Mörsenbroich
+- TOP 11: Anfrage SPD: Ahrensplatz
+- TOP 12: Anfrage SPD: Sicherheit Fahrradfahrende An der Piwipp 86 - beantwortet
+- TOP 13: Anfrage Meier, CDU und FDP: Insektenhotels
+- TOP 14: Anfrage SPD: Gelände Flüchtlingsunterkunft "In der Nießdonk" - beantwortet
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Antrag Meier, CDU und FDP: Schwimmbad Unterrath - einstimmig beschlossen
+- TOP 18: Antrag SPD: Tempo 30 "Am Röttchen" - einstimmig beschlossen
+- TOP 19: Antrag SPD: Spielplatz Einbrunger Weg - abweichend beschlossen
+- TOP 20: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 21: Zuschussvergabe 2018 - einstimmig abgelehnt
+- TOP 22: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 23: Förderung Dritter 2018 - einstimmig beschlossen
+- TOP 24: Förderung Dritter 2018 - einstimmig beschlossen
+- TOP 25: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 26: Beschlusskontrolle Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 32: MdV - Kanalkapazität bei Unwetter - zur Kenntnis genommen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: MdV - Fortentwicklung Verkehrsentwicklungsplan - zur Kenntnis genommen
