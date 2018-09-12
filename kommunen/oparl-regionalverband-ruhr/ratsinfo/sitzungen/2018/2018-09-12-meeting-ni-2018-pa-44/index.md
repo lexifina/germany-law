@@ -1,0 +1,62 @@
+# 19. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-09-12T10:00:00+02:00
+- Ende: 2018-09-12T13:45:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-PA-44
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-PA-44
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2018-PA-44
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2018-PA-44
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift zur 18. Sitzung des Planungsausschusses vom 13.06.2018
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Zielabweichungsverfahren gem.§ 6 Abs. 2 ROG i.V. mit § 16 LPlG NRW auf dem Gebiet der Stadt Duisburg östlich Masurensee
+- TOP 2.2: 9. Änderung des Regionalplans für den Regierungsbezirk Münster Teilabschnitt Emscher-Lippe im Gebiet der Stadt Gladbeck Bekanntmachung im Gesetz- und Verordnungsblatt des Landes NRW
+- TOP 2.3: 89. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Kamp-Lintfort; Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) mit zweckgebundener Nutzung „Übertägige Betriebsanlagen und -einrichtungen des Bergbaus“ in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gelände des ehemaligen Bergwerks West in Kamp-Lintfort Bekanntmachung im Gesetz- und Verordnungsblatt des Landes NRW
+- TOP 2.4: Windenergie-Erlass NRW vom 08.05.2018 (in Kraft getreten am 23.05.2018)
+- TOP 2.5: Abgrabungsmonitoring von Nordrhein-Westfalen – Lockergesteine Hier: Monitoringbericht für das Planungsgebiet Regionalverband Ruhr zum 01.01.2018
+- TOP 2.6: Änderungsverfahren 23 HER und 25 BO des Regionalen Flächennutzungsplans der Planungsgemeinschaft Städteregion Ruhr - Herstellung des Einvernehmens nach § 39 Abs. 3 Nr. 2 Landesplanungsgesetz NRW
+- TOP 2.7: Änderungsverfahren 22 MH des Regionalen Flächennutzungsplanes der Planungsgemeinschaft Städteregion Ruhr - Herstellung des Einvernehmens nach § 39 Abs. 3 Nr. 2 Landesplanungsgesetz NRW
+- TOP -: Regionalplanänderungsverfahren - Unterrichtung der Öffentlichkeit und der öffentlichen Stellen nach § 9 Abs. 1 ROG
+- TOP 2.8: Anträge
+- TOP 2.9: Anfragen und Mitteilungen
+- TOP 2.9.1: Freistellungsbescheide des Eisenbahnbundesamtes
+- TOP 2.9.2: Bericht über laufende Verfahren - RVR als Regionalplanungsbehörde
+- TOP 2.9.3: Raumordnungsverfahren für das Vorhaben Erdgasfernleitung Heiden – Dorsten „HeiDo“ der Open Grid Europe GmbH
+- TOP 3: Regionaler Diskurs / Regionalplan Ruhr
+- TOP 3.1: Beteiligungsformate zum Regionalplan Ruhr und zum Handlungsprogramm
+- TOP 3.2: Anträge
+- TOP 3.2.1: Antrag der Fraktion Die Linke zu TOP 1.1 Regionalplan
+- TOP 3.2.2: Antrag der Fraktion Die Linke zu TOP 2.6, Ergänzung des Handlungsprogramms zur räumlichen Entwicklung der Metropole Ruhr
+- TOP 3.3: Anfragen und Mitteilungen
+- TOP 4: Angelegenheiten nach RVR-Gesetz
+- TOP 4.1: Innovation City Bottrop - Roll Out Vortrag: Burkhard Drescher
+- TOP 4.2: Radschnellweg Ruhr RS1 hier: aktueller Sachstand
+- TOP 4.3: Radschnellweg Mittleres Ruhrgebiet Hier: aktueller Sachstandsbericht
+- TOP -: Radschnellweg Mittleres Ruhrgebiet hier: Erläuterungen zur Vorlage der Stadt Bottrop
+- TOP 4.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5: BMBF-Forschungsvorhaben „ZUKUR – Zukunft Stadt-Region-Ruhr“ im Rahmen der Umsetzung der BMBF-Leitinitiative Zukunftsstadt Hier: Sachstandsbericht
+- TOP 4.6: Zukünftige, zentrale Erstellung der Treibhausgasbilanz durch den RVR für alle Kommunen, Kreise und die Metropole Ruhr.
+- TOP 4.7: Masterplan Handwerk-RVR: Ausbau-Initiative Solarmetropole Ruhr – Start 2019
+- TOP 4.8: Route der Industriekultur – Aufnahme des Baukunstarchivs NRW (ehem. Museum Am Ostwall) in die Route der Industriekultur; Ausstellungskonzeption „Bauten der Industriekultur“
+- TOP 4.9: Route der Industriekultur – 100 Jahre Bauhaus – Konzeption einer speziellen Themenroute
+- TOP 4.10: Route der Industriekultur – Evaluierungsbericht 2014 – 2016 zur Sicherung regional bedeutsamer Standorte (Ankerpunkte)
+- TOP 4.11: Änderungsverfahren für den LEP NRW – Beteiligung der Träger der öffentlichen Belange Hier: Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange
+- TOP 4.12: Planfeststellungsverfahren zum 8-streifigen Ausbau der A40 in Duisburg inkl. Ersatzneubau der Rheinbrücke. Hier: Stellungnahme der Verwaltung, Aufhebung des Gremienvorbehalts
+- TOP 4.13: Datenerhebung Mobilität in Deutschland MiD 2017 Hier: Erste Ergebnisse für das Verbandsgebiet des Regionalverband Ruhr
+- TOP 4.14: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes des Kreises Unna
+- TOP 4.15: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr Hier: Sachstandsbericht
+- TOP 4.16: Anträge
+- TOP 4.17: Anfragen und Mitteilungen
+- TOP 4.17.1: Antwort auf die Anfrage der FDP-Fraktion vom 20.03.2018 zum RS MR im Stadtgebiet Bottrop
+- TOP 4.17.2: Bericht über laufende Verfahren - RVR als Träger öffentlicher Belange
+- TOP 4.17.3: Bericht über die Regionalen Baustellenkonferenzen
+- TOP 4.17.4: Vierter Regionaler Wohnungsmarktbericht und Regionale Nachfrageanalyse Wohnungsmarkt Ruhr 2040 Hier: Ankündigung Planernetzwerk am 23.11.2018
