@@ -1,0 +1,56 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2018-09-12T15:00:00+02:00
+- Ende: 2018-09-12T16:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRmMteMMZcHxoGUjxxcItQs
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/580
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSjDoRQmJwA15yQsS084ZS3XQiHTdoSwpOdfAW6o6SuW/Einladung_Seniorenbeirat_12.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTns-smu9DhOAI4abPdVcdtR9iWhtx3Xu74Cl34-YAsZ/Oeffentliche_Niederschrift_Seniorenbeirat_12.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Bestellung einer stellvertretenden Schriftführung für den Seniorenbeirat - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Vorberatung für Gremien
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Anregungen und Empfehlungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Vorstellung des Projektes "Vom Hausacker zum Urban Green"
+- TOP 8.2: Sport- und Spielgeräte für Senioren in Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.3: Soziale Stadt Bochum-Wattenscheid - Sicherheitsaudit zur städtebaulichen Kriminalprävention
+- TOP 8.4: Seniorengerechte Bänke für Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.5: Schlechte Wegstrecke auf dem Verbindungsweg von der Straße Im Steinnocken bis zur Lewackerstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.6: Berichte aus den Gremien
+- TOP 9: Anfragen
+- TOP 9.1: Keine Fahrradständer vor der neuen Post- und Postbankfiliale - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.2: Toilettenanlagen am Ümminger See - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.3: Ticket- und Fahrscheinverkauf nur noch Digital? - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.4: Wegezustand auf dem Friedhof in Werne - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.5: Starke Einschränkungen der Gehwege im Bereich des Umbaus der Linie 310 - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.6: Wann wird endlich der Elisabeth-Hüfner-Weg von der VBW Seniorenanlage zum Hammer Park instandgesetzt? - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.7: Anlegen eines Hundeplatzes - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.8: Installation einer Querungshilfe an der Dinnendahlstraße - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.9: Ehemaliger Betriebshof Wannerstr. - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.10: Geh- und Radweg von der Freudenbergstraße in Richtung Hofstede - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 11.1: keine Tagesordnungspunkte
