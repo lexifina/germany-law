@@ -1,0 +1,90 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709847
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709847
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Benennung von Mitgliedern
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 2.1.: Benennung einer bzw. eines PSAG-Beauftragten
+- TOP 4.1.1.: Veranstalten einer Bürgersprechstunde mit dem Oberbürgermeister Reiter im Stadtteil Harthof
+- TOP 4.2.1.: Zwischennutzung der Leichtbauhallenstandorte Neuherbergstr. 24 - Stellungnahme
+- TOP 4.2.2.: Nutzung Flurstück 211/2 - Thalhoferstraße
+- TOP 4.2.3.: Vermüllung von Straßen und Parks im 11. Stadtbezirk (BV Anfrage Nr. 14-20/Q 00566) - Antwortschreiben
+- TOP 4.2.4.: Ruhestörung durch Baustellenlärm an Sonn- wie auch Feiertagen - FIZ Nord (BV-Anfrage Nr. 14-20/Q 00564) - Antwortschreiben
+- TOP 4.4.1.: Knorrstr. 171 und Prager Str. - Antrag auf ein Zusatzschild: "Mo. - Fr. von 7.00 - 18.00 Uhr an Schultagen" - Antwortschreiben
+- TOP 4.4.2.: Veranstaltungen im Olympiapark - stärkeres Hinwirken auf die Benutzung des ÖPNV - Stellungnahme
+- TOP 4.4.3.: Verbesserung der Verkehrssicherheit an der Kreuzung Schleißheimer Str. / Moosacher Str. - Sachstandsmeldung
+- TOP 4.4.4.: Anbringen von Fahrradständern in der Riesenfeldstraße - Antwortschreiben
+- TOP 4.4.5.: Intensivierung der kommunalen Verkehrsüberwachung im Stadtbezirk 11 (BA-Antrag Nr. 14-20/B 04992) - Antwortschreiben auf die Rückfrage des BA 11
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Horizont e.V. Finanzierung einer Praktikantenstelle 15.120,00 € 0262.0-11-0289
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Männerchor Milbertshofen Riesenfeld e.V. Hoagart&#039;n am 20.10.2018 413,00 Euro Az.: 0262.0-11-0292
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Kulturverein Olympiadorf e.V. Münchner Bergfilmtage vom 14. - 16.09.2018 1.045,00 Euro Az.: 0262.0-11-0294
+- TOP 6.1.4.: (E) Stadtbezirksbudget Theater Grenzenlos e.V. Theaterstück "Das Zimmer nebenan" von Oktober 2018 - Juli 2019 7.500,00 Euro Az.: 0262.0-11-0293
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Programm barrierefreie Bushaltestellen - Milbertshofener Straße - Haltestelle Abtstraße
+- TOP 6.2.2.: Antrag auf Genehmigung einer Freischankfläche: Schleißheimer Straße 301 "playBilly&#039;s"
+- TOP 6.2.3.: Antrag auf Genehmigung einer Freischankfläche: Schleißheimer Straße 320 "My Asia Food"
+- TOP 6.2.4.: Antrag auf Genehmigung eines mobilen Handels: Schleißheimer Straße / Nordhaideplatz "Obstverkauf"
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Schulsozialarbeit an allen Gymnasien im 11. Stadtbezirk
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Ärztliche Versorgungssituation in München - Förderung freier Träger sowie Beschluss über die Finanzierung ab 2019 Sitzungsvorlage Nr. 14-20 / V 12101 ...Zügiger Ausbau der ambulanten med. Versorgung in München-Nord Empfehlung Nr. 14-20 / E 01102 der BV des 11. SB am 21.07.16... ...Mehr Haus- und Kinderärzte im Münchner Norden BA-Antrags-Nr. 14-20 / B 02798 des BA 11 vom 14.09.16...
+- TOP 8.1.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 8.1.3.: Anhörungsrecht für die Einrichtung von Elektroladestationen,...
+- TOP 8.1.4.: 18.jetzt - Teilnahme BA am Fest junger Erwachsener im Rathaus am 13. Oktober 2018
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Bauvorhaben - Lokalbaukommission: a) Frankfurter Ring - Neubau eines Bürogebäudes mit betriebsinterner Kantine und Großgarage b) Dohlenweg 15 -Neubau eines freistehenden Doppelhauses mit Garagen c) Taunusstr. 34 - Neubau eines Bürogebäudes mit TG - Vorbescheid
+- TOP 8.2.2.: Anträge auf Baumfällungen: a) Vogelhartstraße 16-22 b) Moosacher Str. 80 c) Graf-Konrad-Str. 18a
+- TOP 8.2.3.: Neuherbergstraße / Ecke Schleißheimer Straße - 1 Sammelhinweisanlage
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "München Marathon" am 14.10.2018 und "Trachtenlauf am 13.10.2018 im Olympiapark
+- TOP 8.3.2.: Mehr temporäre Zwischennutzungen und Freischankflächen, Antrag Nr. 14-20 / A 04378 der SPD-Stadtratsfraktion
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Pommernstraße - absolutes Haltverbot
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung der Gaststättenbetriebe: a) Bistro in der BMW-Niederlassung - Frankfurter Ring 35 b) "Café Treff Bar" - Wenzelstr. 2 c) "ZAMgwürfelt" - Helene-Mayer-Ring 14 d) Trink- und Imbisskiosk in der Eishalle - Spiridon-Louis-Ring 3
+- TOP 9.1.2.: Neues Verfahren bei der Einbindung der Bezirksausschüsse - Benennung von Straßen und Plätzen nach Persönlichkeiten
+- TOP 9.1.3.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 25.06.2018 a) Aufnahme eines Anhörungs- und Unterrichtungsrechts bei größeren Verkehrsumleitungen und Baumaßnahmen Antrag Nr. 14-20 / B 04002 des BA 16 - Ramersdorf-Perlach vom 15.09.2017 b) Beauftragte für Menschen mit Behinderungen - Initiative des Sozialreferates c) Beauftragter gegen Extremismus Antrag Nr. 14-20 / B 03901 des BA 21 - Pasing-Obermenzing vom 25.07.2017 d) Folgeänderungen der BayGO-Änderung (Zusammensetzung UAs, Vertretung im Vorsitz); Vereidigung 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 9.1.4.: (U) Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse Stadtbezirksbudget für München Stadtratsaufträge aus dem Beschluss Nr. 14-20 / V 08072 der Vollversammlung vom 26.07.2017 Fairtrade Town München – die BA&#039;s aktiv beteiligen! Scientology-Schutzerklärung bei Zuwendungen aus dem Budget der Bezirksausschüssen Einführung einer standardisierten Prüfung auf alternative städtische Zuschussmöglichkeiten bei BA-Budgetanträgen BA-Budget fair – teilen: Anpassung der Zuwendungsrichtlinien aus dem Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis BA-Budget fair – teilen BA-Budget fair-teilen: Anpassung der Zuwendungsrichtlinien aus dem BA-Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis Gender-Budgeting BA-Budget fair – teilen: Aufnahme des Grundsatzes der gleichstellungsorientierten Haushaltssteuerung in die künftigen Zuwendungsrichtlinien für das Stadtbezirksbudget
+- TOP 9.1.5.: BA-Budget: Verwendungsnachweise, Schriftverkehr, Sachberichte
+- TOP 9.1.6.: Plenumssitzungstermine des BA 11 für 2019
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Verlegung der Polizeihubschrauberstaffel Bayern an den bestehenden Hubschraubersonderlandeplatz Oberschleißheim a) Planfeststellungsbeschluss der Regierung von Oberbayern vom 16.07.2018 b) Verlegung der Landespolizei Hubschrauberstaffel Empfehlung Nr. 14-20 / E 02039 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing - Freimann am 12.06.2018
+- TOP 9.2.2.: Georgenschwaigstr. 37 - Abbruchanzeige
+- TOP 9.2.3.: Meldelisten Bauvorhaben/Nutzungsänderungen für den Zeitraum 18.06.2018 - 19.08.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: LKW-Verkehr in der Keferloherstraße
+- TOP 9.4.2.: Parkraummanagement - Untersuchungsgebiet Milbertshofen
+- TOP 9.4.3.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2019 City Bus Antrag Nr. 14-20 / A 03830 von Herrn Stadtrat Fritz Schmude und Herrn Stadtrat Andre Wächter vom 16.02.2018 Öffentlich besser fahren 2 – Taktverbesserungen bei U-Bahn, Straßenbahn und Bus Antrag Nr. 14-20 / A 03435 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Öffentlich besser fahren 6 – Mehr Metro- und Expressbusse für München Antrag Nr. 14-20 / A 03439 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Verbesserung der Buslinie Nr. 194, Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen BA-Antrag Nr. 14-20 / B 03509 des Bezirksausschusses des 15. Stadtbezirks vom 06.04.2017 Einrichtung eines Quartiersbusses zwischen Perlach und Fasangarten – Öffentliche Erreichbarkeit des Neuen Südfriedhofs verbessern BA-Antrag Nr. 14-20 / B 04219 des Bezirksausschusses des 16. Stadtbezirks – Ramersdorf-Perlach vom 12.10.2017 ÖPNV-Erschließung für das Gewerbegebiet „Triebwerk“ in Neuaubing BA-Antrag Nr. 14-20 / B 04419 des Bezirksausschusses des 22. Stadtbezirks - Aubing – Lochhausen – Langwied vom 20.12.2017
+- TOP 9.4.4.: Arbeiten im Straßenraum: Schleißheimer Str./Frankfurter Ring - Umbau Mittelteiler
+- TOP 9.4.5.: Frankfurter Ring/Schleißheimer Str/Moosacher Str. und Frankfurter Ring zw. Schleißheimer Str. und Knorrstr.: Ausnahmezulassungsverlängerung Mülleinsammlung nach dem BImSchG und 32. BImSchV
