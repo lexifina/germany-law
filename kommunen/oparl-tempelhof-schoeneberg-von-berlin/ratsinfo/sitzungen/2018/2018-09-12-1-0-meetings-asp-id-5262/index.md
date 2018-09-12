@@ -1,0 +1,14 @@
+# nichtöffentliche Sitzung des Ältestenrates
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2018-09-12T19:38:00+02:00
+- Ende: 2018-09-12T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Ratsinformationssystem: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5262
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5262
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
