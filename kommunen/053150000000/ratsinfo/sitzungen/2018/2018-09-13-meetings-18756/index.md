@@ -1,0 +1,83 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-13T14:05:00+02:00
+- Ende: 2018-09-13T16:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18756
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18756
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Präsentation Schnellbericht Jugendbefragung
+- TOP -: Jugendbefragung erfolgreich beendet – erste ausgewählte Ergebnisse im Blitzlicht
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Kindertagespflege nach § 23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - ungeändert beschlossen
+- TOP 2.2.2: Bau der Jugendeinrichtung im Sürther Feld Köln Rodenkirchen Investor "Offene Schule Köln" - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Trägerschaft des Trucks für die mobile Offene Kinder- und Jugendarbeit in Köln - Porz - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Annahme einer zweckgebundenen Spende für den Spielplatz "Im Rapsfeld/Egelspfad" in Köln - Müngersdorf - ungeändert beschlossen
+- TOP 3.2: Neugestaltung des Bolzplatzes Agrippinaufer in Köln-Neustadt/Süd - ungeändert beschlossen
+- TOP 3.3: Sozialraum Bickendorf, Westend, Ossendorf: Neugestaltung einer Trendsporteinrichtung sowie Spiel- und Bewegungsmöglichkeiten - ungeändert beschlossen
+- TOP 3.4: Neugestaltung Spielplatz Rixdorfer Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 3.5: Neuanlage Spiel- und Bewegungsfläche Wuppertaler Straße / Stegwiese in Köln-Buchheim - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Neuwahl eines stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.3: Mitteilung über die Benennung eines neuen stellvertretend beratenden Pflichtmitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.4: Umweltbildungskonzept der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Neuwahl eines stellvertretend stimmberechtigten Mitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.6: Projektverlängerung - Koordinierung der Bildungsangebote für Neuzugewanderte - ungeändert beschlossen
+- TOP 4.7: Innerer Grüngürtel in Köln-Nippes - ohne Votum in nachfolgende Gremien
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Stärkung der präventiven Arbeit mit Kindern und Jugendlichen gegen Antisemitismus, Rassismus und Diskriminierung - ungeändert beschlossen
+- TOP 5.2.2: Neujustierung der Priorisierung für erweiterte/neue Jugendeinrichtungen im Kölner Stadtgebiet - endgültig abgelehnt
+- TOP 5.2.3: Für jede Kölner Schule einen Sozialarbeiter / eine Sozialarbeiterin - endgültig abgelehnt
+- TOP 5.2.4: Änderungsantrag zur Vorlage „Für jede Kölner Schule einen Sozialarbeiter / eine Sozialarbeiterin“, DS-Nr. AN/1136/2018; TOP 2.1
+- TOP 5.2.5: Stärkung der Schulsozialarbeit - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Nutzerkreis und Nutzung des Bildungs- und Teilhabepakets - zurückgestellt
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Bundeswehranfragen - zurückgestellt
+- TOP 6.2.2: Frisches Kochen in Kitas - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Übernachtung in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 7.1.2: Ehrenamtskarte und Jugendleitercard (JuLeiCa) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Beantwortung der Anfrage der Fraktion „Die Linke“ vom 22.05.2018 zum Thema „Obdachlosigkeit von Jugendlichen und jungen Erwachsenen.(AN/0815/2018) - Kenntnis genommen
+- TOP 8.3.2: Entwicklung Stadtteilmütter-Projekt in Mülheim, Beantwortung einer mündlichen Anfrage von Frau RM Heuser, Fraktion Bündnis 90/DIE GRÜNEN im Kölner Rat - Kenntnis genommen
+- TOP 8.3.3: Jahresbericht 2017 – Kölner Haus des Jugendrechts - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Planung einer neuen Jugendeinrichtung auf dem ehemaligen Maltesergelände in Köln Kalk - Kenntnis genommen
+- TOP 8.4.2: Projekt "Gender fair play - Stärkung der geschlechtersensiblen sexualpädagogischen Arbeit / sexuellen Bildungsarbeit" im Rahmen des Landesprogramms "Wertevermittlung und Prävention in der und durch die Jugendhilfe" - Kenntnis genommen
+- TOP 8.4.3: Antidiskriminierungsarbeit im Bereich sexueller Orientierung und geschlechtlicher Vielfalt in Köln - Kenntnis genommen
+- TOP 8.4.4: Qualitativer Ausbau der Übermittagsbetreuung für bestehende Gruppen - Kenntnis genommen
+- TOP 8.4.5: Jugendforum NRW im Rahmen der Spielemesse gamescom - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 8.5.2: Projekt „Plan27“ – Aufsuchendes Hilfeangebot für junge Menschen mit psychischen Problemen – Zwischenauswertung nach einem Jahr Projektlaufzeit - Kenntnis genommen
+- TOP 8.5.3: Kinder– und Jugendgesundheit in Köln – Bericht 2017/2018 - Kenntnis genommen
+- TOP 8.5.4: Kita-Übergangsfinanzierung für das Kindergartenjahr 2019/2020 - Kenntnis genommen
+- TOP 8.5.5: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 8.5.6: Europäischer Hilfsfonds für die am stärksten benachteiligten Personen (EHAP) - Kenntnis genommen
+- TOP 8.5.7: Neues Amt für Integration und Vielfalt (Sachstand zum 15.08.2018) - Kenntnis genommen
+- TOP 8.5.8: Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets - Kenntnis genommen
