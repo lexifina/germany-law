@@ -1,0 +1,91 @@
+# 38. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-13T17:00:00+02:00
+- Ende: 2018-09-13T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18605
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18605
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00679398.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00679398.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00679398.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Straßenbeleuchtung in der Mercatorstraße (Az.: 02-1600-06/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstand zur Baumaßnahme alte Schule Roggendorf - Kenntnis genommen
+- TOP 7.1.2: Ansiedlung eines Bankautomaten (Geldautomatenstandort) im Stadtteil Fühlingen - Kenntnis genommen
+- TOP 7.1.3: Stationen für Leihfahrräder im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Sicherheit auf Wegen in Grünanlagen - Kenntnis genommen
+- TOP 7.1.5: Rhein-Schiffsverkehr im Kölner Norden - Kenntnis genommen
+- TOP 7.1.6: Machbarkeitsstudie Baugebiet Kreuzfeld - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Neugestaltung der “Chorweiler Plätze" Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: TOP wurde auf die Tagesordnung der nächsten Sitzung am 20.09.2018 gesetzt.
+- TOP 7.2.3: TOP wurde auf die Tagesordnung der nächsten Sitzung am 20.09.2018 gesetzt.
+- TOP 7.2.4: TOP wurde auf die Tagesordnung der nächsten Sitzung am 20.09.2018 gesetzt.
+- TOP 7.2.5: Sicherheit unter Brücken im Bezirk Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.6: Verkehrswegesicherheit im Bereich des Eiscafés Couscous Mocca im EKZ Haselnusshof Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.7: zur Parksituation in Köln-Heimersdorf Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.8: Anfrage zur Kinder- und Jugendwohngruppe in der Quettinghofstr. in Roggendorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.9: Bearbeitung von z.B. Lärmbeschwerden durch den Ordnungsdienst Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Anbindung der Buslinie 120 an Langel - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: W-LAN Ausbau auf der Ruderinsel des Fühlinger See Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Verbesserte Anbindung der Jugendeinrichtung Krebelshof an den ÖPNV Antrag der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beratung des Haushaltsplan-Entwurf 2019 einschließlich der mittelfristigen Finanzplanung bis 2022 und der sonstigen Anlagen - geändert beschlossen
+- TOP 9.1.2: Haushaltsplan-Entwurf 2019 hier: Beschluss über die sachliche Verwendung der bezirksorientierten Mittel für das Jahr 2019 gem. § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 9.1.3: Baubeschluss für die Einrichtung der neuen Wartefläche an der Robert-Bosch-Straße im Zusammenhang mit den vorgesehenen Busnetzerweiterungen im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 9.1.4: Sport- und Erholungsanlage Fühlinger See hier: Sanierung des beschädigten Daches im Bootshaus 2018 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Städtebauliches Planungskonzept Damiansweg in Köln-Volkhoven/Weiler; Anhörung der Bezirksvertretung 6 (Chorweiler) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfe - ungeändert beschlossen
+- TOP 9.2.2: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.3: Zügigkeitserweiterung der Erich-Ohser-Grundschule, GGS Schulstraße gem. § 81 Abs. 2 Schulgesetz NRW von 2 auf 3 Züge zum Schuljahr 2019/20 - ungeändert beschlossen
+- TOP 9.2.4: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - zurückgestellt
+- TOP 9.2.5: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - geändert beschlossen
+- TOP 10.2.2: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.3: Bürgerzentrum Chorweiler Ergebnisse der Beiratswahl 2018 - Kenntnis genommen
+- TOP 10.2.4: Ziel- und Leistungsvereinbarung 2018 - Bürgerzentrum Chorweiler - Kenntnis genommen
+- TOP 10.2.5: Planfeststellungsverfahren für den Bau und den Betrieb des Retentionsraums Worringen - Planänderung - Kenntnis genommen
+- TOP 10.2.6: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet hier: Anfrage der SPD-Fraktion in der Sitzung des Verkehrsausschusses am 10.10.2017, TOP 1.4 - Kenntnis genommen
+- TOP 10.2.7: Beantwortung einer SPD-Anfrage zur Sitzung des Rates am 05.07.2018 nach § 4 der Geschäftsordnung des Rates hier: Neue Siedlungsbereiche in Esch/Auweiler AN/0847/2018 - Kenntnis genommen
+- TOP 10.2.8: 3. Nahverkehrsplan der Stadt Köln - Kenntnis genommen
+- TOP 10.2.9: Entwicklung einer Beteiligungskultur für Köln Leitlinienprozess zur Beteiligung der Bürgerinnen und Bürger hier: Pilotphase Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 10.2.10: 15 Minuten kostenfreies Parken (Rahmenbeschluss) - Kenntnis genommen
+- TOP 10.2.11: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 10.2.12: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln Jahresberichte 2017 der Sozialraumkoordinatoren - Kenntnis genommen
+- TOP 10.2.13: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 10.2.14: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 10.2.15: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 10.2.16: „Lärmwagen“ für Chorweiler und Nippes Nächtliche Einsätze gegen Ruhestörungen von Polizei und Ordnungsamt - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Wohnungsleerstände - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
+- TOP 11.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
