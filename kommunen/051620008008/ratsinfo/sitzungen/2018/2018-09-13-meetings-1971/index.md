@@ -1,0 +1,95 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-09-13T18:13:00+02:00
+- Ende: 2018-09-13T20:54:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1971
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1971
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.1.1: Freischneiden des Erftufers (Antrag Nr. 171/18) - einstimmig
+- TOP 2.2: UWG
+- TOP 2.2.1: Parkverbot/ Änderung Einbahnstraßenregelung in Gustorf (Antrag Nr. 169/18) - einstimmig
+- TOP 2.3: FDP
+- TOP 2.3.1: Digitalisierung als Generationengemeinschaftsprojekt (Antrag-Nr. 164/18) - einstimmig
+- TOP 2.3.2: Überprüfung 30er Zonen - einstimmig
+- TOP 2.3.3: Konzept Erhalt des historischen Kreuzes in Gindorf (Antrag Nr. 170/18) - einstimmig
+- TOP 2.3.4: Regelmäßigen Informationen aus Beratungen Strukturwandel (Antrag Nr. 172/18) - Kenntnisnahme
+- TOP 2.3.5: Ausschussumbesetzung (Antrag Nr. 173/18) - einstimmig
+- TOP 2.4: B 90/DIE GRÜNEN
+- TOP 2.5: Mein Grevenbroich
+- TOP 2.6: Die Linke- Freie Bürger
+- TOP 2.6.1: Radwege (Antrag Nr. 166/18) - einstimmig
+- TOP 2.7: SPD
+- TOP 2.7.1: Ausschussumbesetzungen (Antrag Nr. 180/18) - einstimmig
+- TOP 2.7.2: Pilotprojekt Tempo 30 (Antrag Nr. 181/18) - einstimmig
+- TOP 2.7.3: Tempo 70 an der K 39 (Antrag Nr. 182/18) - einstimmig
+- TOP 3: Gemeinschaftsanträge
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.4.1: Evaluation der "unechten Einbahnstraße" in Wevelinghoven (Anfrage Nr. 178/18) - Kenntnisnahme
+- TOP 4.4.2: Status der Verkehrserhebungen in Wevelinghoven (Anfrage Nr. 179/18) - Kenntnisnahme
+- TOP 4.4.3: Auslastung Radstation (Anfrage Nr. 174/18) - Kenntnisnahme
+- TOP 4.4.4: Müllentleerung in Kapellen (Anfrage Nr. 175/18) - Kenntnisnahme
+- TOP 4.4.5: Verzicht auf Beteiligung (Anfrage Nr. 176/18) - Kenntnisnahme
+- TOP 4.5: B 90/DIE GRÜNEN
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Die Linke - Freie Bürger
+- TOP 4.7.1: Lehrkräfte (Anfrage Nr. 167/18) - Kenntnisnahme
+- TOP 4.7.2: Umsetzung der UN Behindertenrechtskonvention (Anfrage Nr. 168/18) - Kenntnisnahme
+- TOP 5: Einbringung des Haushaltes 2019
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Mittelbereitstellungen
+- TOP 8: Übertragung weiterer Aufgaben an die Stadtbetriebe Grevenbroich AöR - einstimmig
+- TOP 9: Änderung Wirtschaftsplan EB - einstimmig
+- TOP 10: Finanzzwischenbericht 2018 - Kenntnisnahme
+- TOP 11: Sachstandsbericht Sanierungsplan zum 30.06.2018 - Kenntnisnahme
+- TOP 12: Sportzplatz Neurath - einstimmig
+- TOP 13: Flüchtlings- und Integrationsangelegenheiten
+- TOP 14: Streetworker für Bahnhofsviertel - einstimmig
+- TOP 15: Entscheidung UmweltA
+- TOP 15.1: Strategischer Bahndamm - einstimmig
+- TOP 16: Entscheidung PlanungsA
+- TOP 16.1: Aufnahme Baudenkmal zur Traube in Denkmalliste - einstimmig
+- TOP 16.2: W 54 -Aufst.beschluss - einstimmig
+- TOP 16.3: Straßenbenennung G 114 und G 212 - einstimmig
+- TOP 17: Offene Anträge und Anfragen aus dem 1. Halbjahr 2018 - Kenntnisnahme
+- TOP 18: Beantwortung Anträge und Anfragen
+- TOP 18.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 18.2: Wirtschaftlichkeit Parkgebühren (Anfrage Nr. 256/2017) - Kenntnisnahme
+- TOP 18.3: LED-Umrüstung und Fotovoltaik zum Eigenverbrauch (Antrag Nr. 268/17) - Kenntnisnahme
+- TOP 18.3.1: Austausch Leuchtstoff- gegen LED-Röhre (Antrag Nr. 177/18) - einstimmig
+- TOP 18.4: Wie geht es weiter mit der Digitalisierung der Stadt Grevenbroich? (Anfrage Nr. 75/18) - Kenntnisnahme
+- TOP 18.5: Straßenverkehrsordnungen nach § 45 StVo in Kapellen und Wevelinghoven (Anfrage Nr. 82/18) - Kenntnisnahme
+- TOP 18.6: Steuersatzberechnung beim Legen eines Hauswasseranschlusses (Anfrage Nr. 114/18) - Kenntnisnahme
+- TOP 18.7: Wie wird Betreuung der Kinderin Kitas sichergestellt, während den Personalversammlungen(AnfrageNr125 - Kenntnisnahme
+- TOP 18.8: Gebührensatzung zur Entwässerungssatzung (Antrag Nr. 127/18) - Kenntnisnahme
+- TOP 18.9: Pflegeplan bei Neuanpflanzungen (Anfrage Nr. 132/18) - Kenntnisnahme
+- TOP 18.10: Entwicklung KITA-Plätze (Anfrage Nr. 135/18) - Kenntnisnahme
+- TOP 18.11: Anfrage zu LKW-Durchfahrten (Anfrage Nr. 136/18) - Kenntnisnahme
+- TOP 19: mündliche Anträge/Anfragen
+- TOP 19.1: Fördermittel (Anfrage zum Antrag 50/2018)
+- TOP 19.2: Abgemeldeter PKW (Anfrage Nr. 183/2018)
+- TOP 19.3: Gaststätte "Alte Backstube", Laach (Anfrage Nr. 184/2018)
+- TOP 19.4: Private Gasse in Hemmerden (Anfrage Nr. 185/2018)
+- TOP 19.5: Patenschaften für Grünflächen im öffentlichen Raum (Anfrage Nr. 186/2018)
+- TOP 19.6: Gelbe Säcke (Anfrage Nr. 187/2018)
+- TOP 19.7: Verkehrsregelung zu Grevenbroicher Schützenfest (Anfrage Nr. 188/2018)
+- TOP 19.8: Ampel auf der Straße "Auf dem Leuchtenberg" (Anfrage Nr. 189/2018)
+- TOP 19.9: Mängelmelder-App (Anfrage Nr. 190/2018)
+- TOP 19.10: Caspari-Palettenwerk (Anfrage Nr. 191/2018)
+- TOP 19.11: Bahnübergang Kapellen (Anfrage N.r 192/2018)
+- TOP 20: Mitteilungen BM
+- TOP 20.1: "Tempo-30" - hier: Klage gegen die Tempo-30-Beschilderung u. Bürgerantrag für Beibehaltung Tempo 30 - Kenntnisnahme
+- TOP 20.2: Termin Neujahrsempfang 2019
