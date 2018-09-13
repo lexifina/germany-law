@@ -1,0 +1,88 @@
+# 31. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-13T17:00:00+02:00
+- Ende: 2018-09-13T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18901
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18901
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677657.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677657.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00677657.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage der Seniorenvertretung im Bezirk 8 vom 06.07.2018 betr. barrierefreier Verbindungsweg in Köln-Vingst - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Bessere Querungsmöglichkeiten, Tempo 30-Zone und Streckenführung der Buslinie 150 (Az.: 02-1600-211/16) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Aufstellen weiterer Abfallbehälter in der Merheimer Heide - ungeändert beschlossen
+- TOP 7.2: Antrag auf Sanierung des Fußweges zwischen den Straßen „An der Rehfurt“ und „Rösrather Straße“ in Köln Rath/Heumar - ungeändert beschlossen
+- TOP 7.3: Prüfung der dauerhaften Sicherung des Parkverbotes in der Kurve Rösrather Straße nach Einmündung Rather Schulstraße (Fahrtrichtung stadtauswärts) in Köln Rath/Heumar - ungeändert beschlossen
+- TOP 7.4: Prüfung einer weiteren Nutzung der zukünftig nicht mehr für die Flüchtlingsunterbringung benötigten Leichtbauhallen am Hardtgenbuscher Kirchweg in Köln-Ostheim - ungeändert beschlossen
+- TOP 7.5: Resolution zur baldigen Nutzung des Grundstücks am Walter-Pauli-Ring in Kalk-West als Standort für eine neue Gesamtschule für Kalk statt Interimslösungen für die TH Deutz - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für die Gestaltung des Vorplatzes der Haltestelle Vingst an der Kuthstraße - ungeändert beschlossen
+- TOP 8.1.2: Spielplatz Hövilandweg in Köln-Ostheim - ungeändert beschlossen
+- TOP 8.1.3: Widmung der Straße Am Narzissenhof in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 8.1.4: Beratung des Haushaltsplan-Entwurfs 2019 einschließlich der Finanzplanung bis 2022 und der sonstigen Anlagen - geändert beschlossen
+- TOP -: Beratung des Haushaltsplan-Entwurfs 2019 einschließlich der Finanzplanung bis 2022 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP -: Beratung des Haushaltsplan-Entwurfs 2019 einschließlich der Finanzplanung bis 2022 und der sonstigen Anlagen (2862/2018) - ungeändert beschlossen
+- TOP 8.1.5: Haushaltsplan-Entwurf 2019 - hier: Veranschlagung der bezirksorientierten Mittel für das Jahr 2019 gemäß § 37 Abs. 3 der Gemeindeordnung für das Land Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 8.1.6: Vergabe weiterer bezirksorientierter Mittel für das Jahr 2018 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Nachfrage von Bezirksvertreter Müller zur Antwort 1029/2018 bezüglich der ausgelagerten Schule Katholische Grundschule Forststraße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.3: Oberirdische Anzeige der ankommenden Straßenbahnen der Linie 1 an der Haltestelle Frankfurter Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.4: Anfrage der SPD-Fraktion in der Bezirksvertretung Kalk zur Umsetzung des Drogenkonsumraums im Stadtbezirk Kalk (AN/0947/2018) - Kenntnis genommen
+- TOP 9.1.5: Vierzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln 1069/2018 - Kenntnis genommen
+- TOP 9.1.6: Neubaugebiet Matthias-Müller-Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.7: Renaturierung des Flehbachs im Bereich der Flehbachstraße in Köln-Brück - Kenntnis genommen
+- TOP 9.1.8: Angebot von Schwimmunterricht im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 9.1.9: Baumfällungen im Kreuzungsbereich Olpener Straße/Frankfurter Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Zweckentfremdung von Wohnraum in der Wetzlarer Straße 18 in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP -: Zweckentfremdung von Wohnraum in der Wetzlarer Str. 18 im Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.2.2: Ergebnisse der Verkehrsüberwachung mittels Blitzer in der Hohensyburgstraße in Köln-Merheim - Kenntnis genommen
+- TOP 9.2.3: Sachstand der Planungen zur Umgestaltung/Instandsetzung der Sieversstraße im Teilstück von Hausnummer 27 bis zur Rolshover Straße - Kenntnis genommen
+- TOP 9.2.4: Hotspots für Kalk - Kenntnis genommen
+- TOP 9.2.5: Mehr Sicherheitsgefühl im Stadtteil Neubrück - Kenntnis genommen
+- TOP -: Mehr Sicherheitsgefühl im Stadtteil Neubrück - Kenntnis genommen
+- TOP 9.2.6: Gefahrenpunkt für Radfahrer Olpener Straße/Höhenberger Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2.7: "Zu jeder Bank einen Mülleimer"; auch auf dem Brücker Marktplatz am Brunnen in Köln-Brück - Kenntnis genommen
+- TOP -: "zu jeder Bank einen Mülleimer", auch auf dem Brücker Marktplatz am Brunnen in Köln-Brück - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Sachstand zu den Beschlüssen der Bezirksvertretung Kalk, hier: Sachstand zur Entwicklung des Areals "Hallen Kalk" in 51103 Köln - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.2: Machbarkeitsstudie für leistungsfähige regionale Radverbindungen/Radhauptachsen zwischen Köln, Leverkusen, dem Rheinisch-Bergischen Kreis und dem Rhein-Sieg Kreis - Kenntnis genommen
+- TOP 10.2.3: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - zurückgestellt
+- TOP 10.2.4: Wegweiser zum Höhenbergbad - Kenntnis genommen
+- TOP 10.2.5: Ziel- und Leistungsvereinbarung 2018 - Bürgerhaus Kalk - Kenntnis genommen
+- TOP 10.2.6: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 10.2.7: Planung einer neuen Jugendeinrichtung auf dem ehemaligen Maltesergelände in Köln Kalk - Kenntnis genommen
+- TOP 10.2.8: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 10.2.9: Entwicklung einer Beteiligungskultur für Köln - Kenntnis genommen
+- TOP 10.2.10: Nutzung von Leichtbauhallen - Kenntnis genommen
+- TOP 10.2.11: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 10.2.12: Rather See in Köln-Rath/Heumar; 74440/02; Offenlage - Kenntnis genommen
+- TOP 10.2.13: Stand des Verfahrens Umbenennung Heinrich-Lersch-Straße - Kenntnis genommen
+- TOP 10.2.14: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.15: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 10.2.16: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 10.2.17: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 10.2.18: Durchführung einer Bürgerbeteiligung für die Straßenbaumaßnahme Abshofstraße in Köln-Merheim - Kenntnis genommen
