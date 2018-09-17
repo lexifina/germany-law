@@ -1,0 +1,123 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-17T16:00:00+02:00
+- Ende: 2018-09-17T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18817
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18817
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde und Aktuelle Stunde
+- TOP 1.1: Aktuelle Stunde zur Situation der Seniorennetzwerke
+- TOP 1.2: Kurzstreckenticket zum Nulltarif im Stadtbezirk Innenstadt und Vereinfachung des Jobticket-Erwerbs
+- TOP 1.3: Aktuelle Stunde "Sport im StadtBezirks-SportVerband 1 Innenstadt /Deutz"
+- TOP 1.4: Antrag der CDU-Fraktion:
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - zurückgestellt
+- TOP 3.2: Deutzer Hafen; Einleitungsbeschluss; 227. Änderung (FNP) im Stadtbezirk 1, in Köln-Deutz - ungeändert empfohlen
+- TOP 3.3: Deutzer Hafen in Köln-Deutz; Beschluss über die Aufstellung eines Bebauungsplanes - ungeändert empfohlen
+- TOP 3.4: Vorlage Beschluss Integrierter Plan Deutzer Hafen - ungeändert empfohlen
+- TOP 3.5: Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes; Städtebauliches Planungskonzept Belgisches Viertel in Köln-Neustadt/Nord - ungeändert empfohlen
+- TOP 3.6: Realisierung von künstlerischen Gestaltungsentwürfen im Bereich der sechs defekten Rolltreppen und den zugehörigen Treppenauf-/abgängen am Ebertplatz (August 2018 - Dezember 2020) - ungeändert beschlossen
+- TOP 3.7: Neugestaltung des Bolzplatzes Agrippinaufer in Köln-Neustadt/Süd - ungeändert beschlossen
+- TOP 3.8: Eifelwall: Einrichtung einer Fahrradstraße - ungeändert beschlossen
+- TOP 3.9: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kindertagesstätte St. Josefshaus e.V." - ungeändert empfohlen
+- TOP 3.10: Umgestaltung des Knotenpunktbereiches Sachsenring/Ulrichgasse/Vorgebirgstraße sowie Änderung der Verkehrsführung im Knotenpunktbereich - ungeändert empfohlen
+- TOP 3.11: Generalsanierung Drehbrücke Deutzer Hafen Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - geändert beschlossen
+- TOP 3.12: Beschleunigungsmaßnahme Sonderprogramm ‚Maßnahmenpaket Schulbau‘ GU/TU - Schulstandort Severinswall - ungeändert empfohlen
+- TOP 3.13: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.14: Möblierung des kleinen und des großen Offenbachplatzes - ungeändert empfohlen
+- TOP 3.15: Roncalliplatz: - ungeändert empfohlen
+- TOP 3.16: Beschluss über die Sanierung des Schulhofs der Förderschule Alter Mühlenweg im Rahmen des Landesförderprogramms "Gute Schule 2020" gemäß § 2 Absatz 1, Ziffer 4.1 der Zuständigkeitsordnung des Rates - ungeändert beschlossen
+- TOP 3.17: Generalinstandsetzung des Gebäudetraktes D mit Klassentrakt, Turnhalle und Aula sowie Erneuerung der Orthopädietechnikfachräume des Berufskollegstandortes Perlengraben 101 in 50667 Köln - Mehrkostenanzeige - ungeändert empfohlen
+- TOP 3.18: Generalsanierung der Zentralbibliothek der Stadt Köln, Josef-Haubrich-Hof 1, 50676 Köln; Baubeschluss gemäß Weiterplanungsbeschluss vom 24.03.2015 (2781/2014) und Ratsbeschluss vom 18.12.2012 (3142/2012) - mit Änderungen empfohlen
+- TOP 3.19: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert empfohlen
+- TOP 3.20: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet durch Beschlüsse im Rheinisch-Bergischen Kreis - ungeändert empfohlen
+- TOP 3.21: Annahme einer Schenkung an das Köln-Kolleg - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Herzogstraße-Entfallen von Parkplätzen (Az.: 02-1600-91/18) - geändert beschlossen
+- TOP 4.2: Wiederinbetriebnahme Liegeplätze Deutzer Werft, Nothafen Deutzer Hafen, Kaianlagen Rheinauhafen - zurückgestellt
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Fahrradfahrer im Rheinauhafen (Az.: 02-1600-76/18) - ungeändert empfohlen
+- TOP 4.4: Benennung der Grünfläche zwischen Mindener Straße, der Abtei Deutz, Urbanstraße und Am Deutzer Kastell in Historischer Park Deutz - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO - Aufstellung von Blumenkübeln in der Norbertstraße (Gereonsviertel) - zurückgestellt
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Maßnahmen zur Verminderung des Parkdrucks im Bewohnerparkgebiet Deutz I., gemeinsamer Antrag Grüne, Linke, GUT und Freunde - geändert beschlossen
+- TOP 5.1.2: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 5.1.3: Erneuerung der Beleuchtung am Boule-Platz, Antrag CDU - geändert beschlossen
+- TOP 5.1.4: Verbesserung der Situation für Zufußgehende am Agrippinaufer - zurückgestellt
+- TOP 5.1.5: Haarnadeln an der Haltestelle Ubierring (Nordseite) - zurückgestellt
+- TOP 5.1.6: Kurzstreckenticket zum Nulltarif im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 5.1.7: Anwohnerparken - ungeändert beschlossen
+- TOP 5.1.8: Domhotel, Antrag Grüne - geändert beschlossen
+- TOP 5.1.9: Behindertenparkplatz und Radabstellanlage Metzer Straße 39 - zurückgestellt
+- TOP 5.1.10: Parken in der Suevenstraße - zurückgestellt
+- TOP 5.1.11: Glascontainer in der Helenenwallstraße - zurückgestellt
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Verbesserung der Situation am Herz-Jesu-Heim / Oberländer Wall - zurückgestellt
+- TOP 5.2.2: Aufhebung der Festlegung der ausnahmsweisen Zulässigkeit / Elsaßstr. - Sache ist erledigt
+- TOP 5.2.3: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.2.4: Rikscha Fahr-bzw. Betriebsverbot auf der Hohenzollernbrücke - endgültig abgelehnt
+- TOP 5.2.5: Maßnahmen zur städtebaulichen Instandsetzung der Bahnbögen im Eigelsteinviertel (Altstadt/Nord) - ungeändert beschlossen
+- TOP 5.2.6: Bauzaun am Domhotel - geändert beschlossen
+- TOP 5.2.7: Schlafplätze für Obdachlose mit ihren Hunden - Sache ist erledigt
+- TOP 5.2.7.1: Notschlafstellen für Obdachlose - ungeändert beschlossen
+- TOP 5.2.8: Wiederinbetriebnahme Hänneschen-Bevesta Brunnen - zurückgestellt
+- TOP 5.2.9: Toilettenanlage am Breslauer Platz/Johannisstraße (Altstadt/Nord) - zurückgestellt
+- TOP 5.2.10: Stickstoffoxidbelastung durch Hotelschiffe bseitigen: Grüner Landstrom anstelle von Dieselstrom - ungeändert beschlossen
+- TOP 5.2.11: Massnahmen auf dem Von-Sandt-Platz - zurückgestellt
+- TOP 5.2.12: Zukunft des Autonomen Zentrums und die Standortfrage - ungeändert beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Sachstand Umgestaltung Maternuskirchplatz
+- TOP 6.1.1: Sachstand Umgestaltung Maternusplatz
+- TOP 6.2: Gastronomien in der Passage Ebertplatz - Sache ist erledigt
+- TOP 6.3: Weitere Präsentation der Archäologie am Historischen Park Deutz
+- TOP 6.3.1: Anfrage der CDU Fraktion in der Sitzung der Bezirksvertretung Innenstadt am 19.04.2018
+- TOP 6.4: Sachstand Kartäuserwall 14, Anfrage Linke
+- TOP 6.4.1: Grundstück Kartäuserwall 14
+- TOP 6.5: Anfrage zur Aufstellung von Lichtsignalmasten und Fußgängerführung, Anfrage FDP
+- TOP 6.5.1: Aufstellung von Lichtsignalmasten und Fußgängerführung
+- TOP 6.6: Vermüllung im Bereich Weidengasse/Gereonswall, Anfrage CDU
+- TOP 6.6.1: Vermüllung im Bereich Weidengasse / Gereonswall in Köln
+- TOP 6.7: Sperrung der Deutzer Drehbrücke für den MIV - Sachstandsanfrage
+- TOP 6.8: Baumassnahmen Agrippabad - zurückgestellt
+- TOP 6.9: Tag des Büdchens - Sachstand - zurückgestellt
+- TOP 6.10: Aufstellung der Toilettenanlage am Severinswall
+- TOP 6.10.1: Aufstellung der Toilettenanlage am Severinswall
+- TOP 7: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 7.1: Wohnraumzweckentfremdungen Gebrüder-Coblenz-Str. 15 (Deutz) und Im Ferkulum 16 (Altstadt/Süd)
+- TOP 7.1.1: Wohnraumzweckentfremdungen Gebrüder-Coblenz-Str. 15 und Im Ferkulum 16
+- TOP 7.2: Praxis des Ordnungsamtes bei Parken auf Rad- und Gehwegen - zurückgestellt
+- TOP 7.3: Sachstand Haus Krefelder Straße 46 (Neustadt/Nord)
+- TOP 7.3.1: Sachstand Haus Krefelder Str. 46
+- TOP 7.4: Antragsbearbeitung Zweckentfremdung - zurückgestellt
+- TOP 8: Mündliche Fragen an die Verwaltung
+- TOP 9: Mitteilungen des Bezirksbürgermeisters
+- TOP 10: Mitteilungen der Verwaltung
+- TOP 10.1: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet
+- TOP 10.2: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation
+- TOP 10.3: Darstellung der Sofortmaßnahmen am Eisenmarkt
+- TOP 10.4: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage
+- TOP 10.5: Mitteilung der Verwaltung; hier: Gesamtübersicht der Planungen für die Universität zu Köln
+- TOP 10.6: Reinigung der LSA-Standorte sowie des städtischen Möbiliars am Neumarkt
+- TOP 10.7: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017
+- TOP 10.8: Ziel- und Leistungsvereinbarung 2018 - Bürgerzentrum Alte Feuerwache, Bürgerzentrum Deutz, Quäker Nachbarschaftsheim, Bürgerhaus Stollwerck
+- TOP 10.9: Fahrradabstellanlagen auf der Neuen Langgasse
+- TOP 10.10: Einrichtung einer Ladezone vor der Kindertagesstätte Richard-Wagner-Straße 49
+- TOP 10.11: Gestaltung der Bahnunterführung der Deutz-Mülheimer-Straße
+- TOP 10.12: Entwicklung einer Beteiligungskultur für Köln
+- TOP 10.13: Qualifizierungsverfahren "Blaue Funken"/Sachsenturm (Blaue Funken-Weg 2), Köln-Innenstadt
+- TOP 10.14: Pilotstrecke Hohenzollernring, Aufwertung der Aufenthaltsqualität
+- TOP 10.15: Einsatz Sozialer Erhaltungssatzungen in Köln hier: Weiteres Vorgehen Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen)
+- TOP 10.16: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018
+- TOP 10.17: Einrichtung von Tempo 30-Zonen und Fahrradstraßen im Georgsviertel Süd
+- TOP 10.18: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017
+- TOP 10.19: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung
+- TOP 10.20: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken
+- TOP 10.21: Antrag der SPD Fraktion in der Bezirksvertretung Innenstadt
