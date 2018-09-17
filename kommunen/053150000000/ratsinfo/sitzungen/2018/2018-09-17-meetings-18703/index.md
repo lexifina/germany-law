@@ -1,0 +1,60 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-17T17:00:00+02:00
+- Ende: 2018-09-17T18:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18703
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18703
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer stellvertretenden Schriftführerin des Ausschusses für Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Bericht über den Besuch einer Kölner Bildungsdelegation in Peking und Shanghai im Mai 2018 - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: KIVEK: Beantwortung einer Anfrage der Ratsgruppe BUNT aus der Sitzung AVR 18.6.2018 (TOP 6.6) - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - Kenntnis genommen
+- TOP 4.2: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage - Kenntnis genommen
+- TOP 4.3: Prüfung der Istkostenerhebung der tatsächlich in den Kommunen anfallenden Kosten für die Unterbringung von Flüchtlingen in Köln durch die Gemeindeprüfungsanstalt NRW - Kenntnis genommen
+- TOP 4.4: Sachstandsbericht zum Projekt "Einwanderung gestalten NRW" - Kenntnis genommen
+- TOP 4.5: Personalrisikomanagement - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Neues Amt für Integration und Vielfalt (Sachstand zum 15.08.2018) - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der FDP-Fraktion betreffend "Angriffe und Gewalt gegen Polizisten, Rettungskräfte und Klinikpersonal" zur Sitzung am 18.06.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 12.09.2018 - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Autonomes Zentrum an der Luxemburger Str. 93" zur Sitzung am 18.06.2018 - Kenntnis genommen
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Welche neuen Entwicklungen gibt es bei der Überprüfung von waffenrechtlichen Erlaubnissen und der Reichsbürger*innen-Bewegung in Köln?" zur Sitzung am 17.09.2018 - endgültig zurückgezogen
+- TOP 6.4: Anfrage der SPD-Fraktion und der Gruppe BUNT betreffend "Informationsangebot über Schwangerschaftsabbrüche auf der städtischen Website" zur Sitzung am 17.09.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 17.09.2018 - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Bündnis 90/ Die Grünen betreffend "Verhalten des Ordnungsdienstes am Tag des offenen Denkmals" zur Sitzung am 17.09.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 17.09.2018 - Kenntnis genommen
+- TOP 6.6: Anfrage der Fraktion DieLinke betreffend "Abschiebungen und Duldungen" zur Sitzung am 17.09.2018 - zurückgestellt
+- TOP 6.7: Anfrage der Gruppe BUNT betreffend "Reichsbürger in Köln" zur Sitzung am 17.09.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 14.09.2018 - Kenntnis genommen
+- TOP 6.8: Anfrage der Fraktion DieLinke betreffend "Fachkräftemangel in der Verwaltung" zur Sitzung am 17.09.2018 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 8: Anträge
+- TOP 8.1: Stadtarbeitsgemeinschaft Behindertenpolitik und Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - Aufwandsentschädigung und Sitzungsgeld - Sache ist erledigt
+- TOP -: Änderungsantrag der CDU-Fraktion und der Fraktion Bündnis 90/ Die Grünen - geändert beschlossen
+- TOP 8.2: Dringlichkeitsantrag der SPD-Fraktion und der Gruppe BUNT betreffend "Bewachungsleistungen am Rheinboulevard durch die KGAB beauftragen" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 9.1: Roncalliplatz: - geändert beschlossen
+- TOP 9.2: Erfahrungsbericht Vergabekonzept 2014 - 2018 und neues Vergabekonzept ab 01.01.2019 - zurückgestellt
+- TOP 9.3: Veranstaltung "STRASSENLAND" am 23.06.2019 auf der Nord-Süd-Fahrt - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Umweltbildungskonzept der Stadt Köln - ungeändert beschlossen
+- TOP 10.2: Projektverlängerung - Koordinierung der Bildungsangebote für Neuzugewanderte - ungeändert beschlossen
+- TOP 10.3: Schulrechtliche Errichtung einer Gesamtschule im Stadtbezirk Lindenthal zum Schuljahr 2019/20 bei gleichzeitiger auslaufender Schließung der Elsa-Brändström-Realschule und der Ernst-Simons-Realschule - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Ablösung des AVA-Programmsystems Arriba - ungeändert beschlossen
+- TOP 10.5: Bedarfsfeststellung für den Abruf von externen Dienstleistungen für die Umsetzung von Digitalisierungsprojekten /Verwaltungsreformprojekten - ungeändert beschlossen
+- TOP 10.6: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 10.7: Bedarfsfeststellung für die Europawahl 2019 - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 11.1: Vergabe zentraler Innenstadtplätze - Neumarkt - ungeändert beschlossen
