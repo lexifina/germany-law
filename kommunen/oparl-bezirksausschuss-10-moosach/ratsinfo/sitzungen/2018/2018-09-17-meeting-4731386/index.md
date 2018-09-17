@@ -1,0 +1,103 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731386
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731386
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Einfassung des Moosacher Brunnens mit einem Stabgitter
+- TOP 2.2.: Bauzaun am Bauvorhaben "Meiller Gärten"
+- TOP 2.3.: Lärmbelästigung am Hartmannshofer Bächl
+- TOP 2.4.: Linksabbiegen von der Breslauer Straße in die Bunzlauer Straße
+- TOP 3.1.1.: 18.jetzt - Fest junger Erwachsener im Rathaus am 13.10.2018
+- TOP 3.1.2.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Ehrenbreitsteiner Str. 32 2. Feldmochinger Str. 12 3. Netzerstr. 47 4. Triebstr. 50-54
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Ehrenbreitsteiner Str. 32 (-> BV siehe TOP 3.3.1.1) 2. Meggendorferstr. 60 3. Netzerstr. 47 (-> BV siehe TOP 3.3.1.3) 4. Triebstr. 50-54 (-> BV siehe TOP 3.3.1.4) 5. Scharnhorststr. 42
+- TOP 4.: Anträge
+- TOP 4.1.1.: Technische Aufrüstung des Aufzuges auf dem Moosacher Bahnhof
+- TOP 4.1.2.: Zustand des Hartmannshofer Bächls
+- TOP 4.2.1.: Beibehaltung des Christbaumverkaufes vor der Aussegnungshalle am Westfriedhof
+- TOP 4.3.1.: Aufstellung von Fahrradständern an der U-Bahnhaltestelle "Olympia-Einkaufszentrum" vor dem Mona-Einkaufszentrum
+- TOP 4.3.2.: Anlage und Aufwertung von öffentlichen Grünflächen durch Blühstreifen mit nachhaltiger und insektenfreundlicher Bepflanzung (Anfrage)
+- TOP 4.4.1.: Einmündung der Caubstraße in die Triebstraße
+- TOP 4.4.2.: Alarmsirene im Haus Alzeyer Str. 2 (Anfrage)
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt Projekt "Demokratie im Einsatz - Demokratiemobil" vom 28.09. - 13.10.2018 2.000,00 € 0262.0-10-0165
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Förderverein der Mittelschule München Moosach Streitschlichter-Ausbildung vom 17. - 20.12.2018 1.629,50 € 0262.0-10-0164
+- TOP 5.3.: (E) Budget der Bezirksausschüsse REGSAM Seniorenwoche Moosach ab dem 11.10.2018 1.000,00 € Az. 0262.0-10-0167
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. OB-Vollmacht: Bunzlauer Str. 22
+- TOP 5.5.: (E) Freihalten des Parkplatzes am Westfriedhof (Zugang zur Aussegnungshalle) für Friedhofbesucher
+- TOP 6.1.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 6.2.: Anhörungsrecht für die Einrichtung von Elektroladestationen,...
+- TOP 6.3.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 10 - Moosach; Satzungsbeschluss Erhaltungssatzung "Moosach"
+- TOP 6.4.: Baumaßnahme Untermenzinger Straße
+- TOP 6.5.: Mehr temporäre Zwischennutzungen und Freischankflächen, Antrag Nr. 14-20 / A 04378 der SPD-Stadtratsfraktion
+- TOP 6.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Halteverbote in der Pfeilschifterstraße 2. Einrichtung eines STOP-Schildes am Knoten Ohlauer Straße / Donauwörther Straße 3. Kurzparkzone für die Kinderkrippe in der Baubergerstr. 4 4. Halteverbot in der Haldenbergerstraße (westlich HsNr. 26)
+- TOP 6.7.: Neue Sitzgelegenheiten an öffentlichen Plätzen im 10. Stadtbezirk
+- TOP 6.8.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund: Bunzlauer Straße und Bunzlauer Platz Informationsveranstaltungen des KJR zur Wahl "Demokratie im Einsatz"
+- TOP 6.9.: Baumfällungen (Baumschutz): 1. Claudiusplatz 8 2. Dieselstr. 19 3. Dillinger Str. 1 4. Feichtmayrstr. 15 5. Hugo-Troendle-Str. 46 6. Karlingerstr.12 7. Skagerrakstr. 1 8. Untermenzinger Str. 68
+- TOP 7.1.: Verwendung der Mittel aus Nahmobilitätspauschale und Sanierung der Feldmochinger Straße [Schreiben BA10 vom 21.03.18; Gehweg Westseite wird wiederhergestellt; Radweg wird beidseitig saniert; geplanter Ausführungszeitraum August/ September 2018].
+- TOP 7.2.: Sachstand Jugendspielplatzplanung auf dem Schulgelände der Leipziger Str. 7 [Schreiben BA10 vom 18.04.18; Planungen Interimspavillions auf dem Gelände vorrangig; Jugendspielplatz erst nach Abbau dieser möglich]
+- TOP 7.3.: Asphaltierung Kreuzung Fußgängerbrücke Rangierbahnhof / Verlängerung Donaustaufer Straße und Fuß-Radweg Rangierbahnhof [Schreiben BA10 vom 14.06.18; Bestehende Asphaltierung Verlängerung Donaustaufer Straße Richtung Brücke wird verlängert bis Brücke einschließlich Kreuzungsbereich im Frühjahr 2019]
+- TOP 7.4.: Baumentferungen und Gehölzepflegemaßnahmen im Westfriedhof [Schreiben BA10 vom 18.12.17: wo möglich werden abgestorbene Bäume auf Torso geschnitten und somit Vögeln und Insekten als Höhlenbaum dienen]
+- TOP 7.5.: Aufstellen einer Komposttoilette im Gartenbereich des städt. Kindergartens Löfftzstr. 6 [Schreiben BA 10 vom 24.07.18 u.a.; RGU lehnt bisher vorgelegte Varianten ab, da infektionsschutzrechtliche Bestimmungen nicht eingehalten werden. RBS strebt trotzdem eine für alle Seiten tragbare Lösung zu finden]
+- TOP 7.6.: Maßnahmen an denkmalgeschützten Gebäuden in der Pelkovenstraße [Schreiben BA10 vom 18.04.18; Werbetafeln sind genehmigt; Gebäudeanbau ist genehmigt; strassenseitige Fassade muss umgestrichen werden]
+- TOP 7.7.: Ausschilderung Parkhaus Meile Moosach [BA-Antrag Nr. 14-20/B 04828; Wegweisung zum Parkhaus erfolgt am Bunzlauer Platz und in der Großbeerenstraße]
+- TOP 7.8.: Verkehrssituation Feldmochinger Straße; Einführung von Tempo 30 im gesamten Straßenverlauf [BA-Antrag Nr. 14-20/B 04716; Tempo 30 wird angeordnet zwischen Dachauer Straße und Torgauer Straße/ Triebstraße.]
+- TOP 7.9.: Kurzparken in der Feldmochinger Straße, Moosach [BA-Antrag Nr. 14-20/B 04827; Kurzparkzone auf der Ostseite ab nördliche Zufahrt HsNr. 34 auf 12 Meter wird angeordnet]
+- TOP 7.10.: Künftig kein Christbaumverkauf und kein Grabschmuckverkauf auf dem Parkplatz vor der Aussegnungshalle des Westfriedhofs [BV-Empfehlung Nr.14-20/E 01757; Beschlussvorlage wurde vom BA10 in Sitzung am07.05.18 abgelehnt. KVR folgt nun Entscheidung BA10 (Christbaumverkauf 2018 und Grabschmuckverkauf jährlich genehmigen]
+- TOP 7.11.: Verbesserung der Verkehrsregelung an der Kreuzung Am Kapuzinerhölzl / Schragenhofstraße / Skagerakstraße [BA-Antrag Nr. 14-20/B 04788 vom 16.04.2018; Änderung Beschilderung nicht zielführend; Unfallsituation ist unauffällig].
+- TOP 7.12.: Neuauflage Broschüre "Kulturgeschichtspfad" für Moosach [Schreiben BA10 vom 13.12.17; Ausführung frühestens 2019]
+- TOP 7.13.: Einrichten einer Christbaumsammelsteille an der Merseburger Straße auf dem Gelände des Schulzentrums Moosach [Schreiben BA10 vom 09.05.18; Januar 2019 wird wieder Sammelstelle eingerichtet]
+- TOP 7.14.: Standort für M-WLAN in Moosach [Schreiben B10 ab 09.07.15; nicht wie beantragt Moosacher Bahnhof, sondern Vorplatz des OEZ]
+- TOP 7.15.: Fehlende Sitzgelegenheiten an der Bushaltestelle am Westfriedhof [Schreiben BA10 vom 13.06.18; hier: Zwischennachricht: Absprache mit Baureferat, ob Fahrradständer versetzt werden können um neue Sitzbänke zu montieren.]
+- TOP 7.16.: Überdachung S-Bahnhaltestelle Moosach [Schreiben BA10 vom 08.06.17; DB verweist auf Antwortschreiben vom 12.03.15; DB sieht keinen Handlungsbedarf; Bahnsteigüberdachungen und Anzeigetafeln sind ausreichend].
+- TOP 7.17.: Wohnanlage Lauinger Str. 10 bis 36; Aufstellen von Sitzbänken und Abfallkörben [Schreiben BA10 vom 27.06.2017; Reduzierung Sitzmöglichkeiten wegen nächtlicher Ruhestörungen seinerzeit notwendig; Beibehaltung bis sich Situation endgültig entspannt hat.]
+- TOP 7.18.: Eckdatenbeschluss Neue Sportarena Olympiapark; hier Wettbewerbsverfahren [Schreiben BA10 vom 10.07.18] - nicht-öffentlich -
+- TOP 7.19.: Vollzug der Satzung der LHStdt München über das Verbot der Zweckentfremdung von Wohnraum; hier: diverse Anwesen im 10. Stb. [Schreiben des BA10 vom 18.04.18) - nicht-öffentlich-
+- TOP 7.20.: (E) Notrufsäulen im S-Bahnhof Moosach aufstellen Empfehlung Nr. 14-20 / E 01146 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 13.10.2016
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Stadtbezirksbudget für München; Information über die Beschlussfassung im Stadtrat (zu Sitzungsvorlage Nr. 14-20 / V 12100)
+- TOP 8.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Kurzparkzone in der Feldmochinger Straße 2. Bahnüberführung Dachauer Straße; Elektronische Höhenkontrolle und Beschilderung
+- TOP 8.5.: Flyer: SWM Fernkälteprojekt Agnes-Pockels-Bogen
+- TOP 8.6.: Veranstaltungen auf öffentlichem Verkehrsgrund sowie auf Privatgrund: 1. Aktion "Play me, I&#039;m Yours 2018" vom 07.09. - 23.09.18 (u.a. am Pelkovenschlössl) 2. "5. Gehwegfest Gubestraße" am 14.09.18 (→ jeweils Vorabzustimmung Vorsitzender gem. § 13 Abs.2 S. 3 BA-Satzung)
+- TOP 8.7.: unveränderte Fortführung eines Gaststättenbetriebes: Gärtnerstr. 6ß0
+- TOP 8.8.: Erinnerungsverfahren (§ 6.1 AufgrO): künftige Straßenmarkierung und Verkehrsführung 1. Baubergerstr. 4-6 2. Seydlitzplatz 2-14
+- TOP 8.9.: (U) Änderung der Satzung und der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 25.06.2018 a) Aufnahme eines Anhörungs- und Unterrichtungsrechts bei größeren Verkehrsumleitungen und Baumaßnahmen Antrag Nr. 14-20 / B 04002 des BA 16 - Ramersdorf-Perlach vom 15.09.2017 b) Beauftragte für Menschen mit Behinderungen - Initiative des Sozialreferates c) Beauftragter gegen Extremismus Antrag Nr. 14-20 / B 03901 des BA 21 - Pasing-Obermenzing vom 25.07.2017 d) Folgeänderungen der BayGO-Änderung (Zusammensetzung UAs, Vertretung im Vorsitz); Vereidigung 2. Umsetzung der Empfehlungen in einer Änderungssatzung sowie Änderung der Geschäftsordnung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 8.10.: (U) Ausbau Mittlerer Ring (B2R) Abschnitt Landshuter Allee Neubau Landshuter Allee-Tunnel im 9. Stadtbezirk Neuhausen - Nymphenburg und im 10. Stadtbezirk Moosach 1. Sachstand der Vorplanung 2. Agieren statt reagieren - Infrastruktur vorausschauend planen (Teil I) Landshuter Allee-Tunnel: Wann geht es endlich los? Anfrage Nr. 14-20 / F 01184 von Herrn Stadtrat Johann Altmann, Herrn Stadtrat Dr. Josef Assal, Frau Stadträtin Eva Maria Caim, Herrn Stadtrat Richard Progl und Herrn Stadtrat Mario Schmidbauer vom 24.04.2018
+- TOP 8.11.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP 8.12.: (U) Fortschreibung der Münchner Schulentwicklungsplanung für Grundschulen, Mittelschulen und Förderzentren
+- TOP 8.13.: (U) "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 8.14.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2019 City Bus Antrag Nr. 14-20 / A 03830 von Herrn Stadtrat Fritz Schmude und Herrn Stadtrat Andre Wächter vom 16.02.2018 Öffentlich besser fahren 2 – Taktverbesserungen bei U-Bahn, Straßenbahn und Bus Antrag Nr. 14-20 / A 03435 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Öffentlich besser fahren 6 – Mehr Metro- und Expressbusse für München Antrag Nr. 14-20 / A 03439 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Verbesserung der Buslinie Nr. 194, Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen BA-Antrag Nr. 14-20 / B 03509 des Bezirksausschusses des 15. Stadtbezirks vom 06.04.2017 Einrichtung eines Quartiersbusses zwischen Perlach und Fasangarten – Öffentliche Erreichbarkeit des Neuen Südfriedhofs verbessern BA-Antrag Nr. 14-20 / B 04219 des Bezirksausschusses des 16. Stadtbezirks – Ramersdorf-Perlach vom 12.10.2017 ÖPNV-Erschließung für das Gewerbegebiet „Triebwerk“ in Neuaubing BA-Antrag Nr. 14-20 / B 04419 des Bezirksausschusses des 22. Stadtbezirks - Aubing – Lochhausen – Langwied vom 20.12.2017
+- TOP 8.15.: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP 8.16.: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP 8.17.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 8.18.: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 8.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.21.: Zweckentfremdung von Wohnraum durch Abbruch: Gröbenzeller Straße - nicht-öffentlich -
+- TOP 8.22.: WEB - alle Anträge vom 16.06. bis 30.06.2018 und 01.08. bis 15.08.2018 - nicht-öffentlich -
+- TOP 8.23.: Neubau einer 3-zügigen Grundschule Emmy-Noether-Straße - verwaltungsinterne Ausführungsgenehmigung - nicht-öffentlich -
