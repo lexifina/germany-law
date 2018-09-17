@@ -1,0 +1,8 @@
+# TOP 5: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung
+
+- Sitzung: Ausschuss für öffentliche Einrichtungen (2018-09-17)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/220955
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/92470
