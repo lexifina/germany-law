@@ -1,0 +1,84 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-17T17:00:00+02:00
+- Ende: 2018-09-17T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18683
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18683
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A) Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Mülheim
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage Mülleimer Elisabeth-Schäfer-Weg
+- TOP 1.2: Einwohnerfrage wegen Parkplatzsituation in der Rüdesheimer Straße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Von-Quadt-Straße, 02-1600-01/18, Beschlussvorlage BV 9, Trimmparcour, Bouleplatz, § 24 GO - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Herler Straße/Elisabeth-Schäfer-Weg in 51067 Köln-Buchheim, (Az.: 02-1600-09/18) - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Parksituation Kindergarten Stegerwaldsiedlung (Az.: 02-1600-99/18) - ungeändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Buschfeldstr. Köln-Holweide (Az.: 02-1600-101/18) - geändert beschlossen
+- TOP 2.5: Bürgereingabe gem. § 24 GO, betr.: Anlegen einer Ladezone Markgrafenstr. (Az.: 02-1600-105/18) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Kostenanstieg des Schulneubaus der Willy-Brandt-Gesamtschule - zu AN/0835/2018 - Kenntnis genommen
+- TOP 7.1.3: Antwort zur Anfrage der CDU-Fraktion in der Bezirksvertretung 9 (Mülheim) vom 02.07.2018 bezüglich Gewerbegebiet zwischen Düsseldorferstraße und Dünnwalder-Kommunalweg - zurückgestellt
+- TOP 7.1.4: Verbesserung der Verspätungsquote der KVB auf den Linien 3 und 18 - Kenntnis genommen
+- TOP 7.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tempoüberschreitungen in Köln Holweide - Kenntnis genommen
+- TOP 7.2.2: Umsetzung des BV-Beschlusses "Schutz der Anwohner*innen" am Clevischen Ring - Kenntnis genommen
+- TOP 7.2.3: Anfrage der CDU-Fraktion: Eishockey-Leistungszentrum in Stammheim - Kenntnis genommen
+- TOP 7.2.4: Anfrage der CDU-Fraktion: KVB-Unterführung zwischen Wiener Platz und Buchheimer Straße - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Taktverbesserung der Buslinie 250 - ungeändert beschlossen
+- TOP 8.1.2: Klimawandel lokal begegnen - Bäume und Grün gegen Hitze - ungeändert beschlossen
+- TOP 8.1.3: Gemeinsamer Dringlichkeitsantrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen zur Innenbebauung zwischen Berliner Straße, Tiefenthalstraße, Hacketäuerstraße und Von-Sparr-Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Neugestaltung Spielplatz Rixdorfer Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.2: Neuanlage Spiel- und Bewegungsfläche Wuppertaler Straße / Stegwiese in Köln-Buchheim - ungeändert beschlossen
+- TOP 9.1.3: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - geändert beschlossen
+- TOP 9.1.4: Sanierung der Trainingsbeleuchtungsanlage auf der Sportanlage Von Bodelschwinghstraße - ungeändert beschlossen
+- TOP 9.1.5: Beschluss über die Planung und Durchführung von Maßnahmen auf drei Schulhöfen im Stadtbezirk Mülheim im Rahmen des Landesförderprogramms "Gute Schule 2020" gemäß § 2 Absatz 1, Ziffer 4.1 der Zuständigkeitsordnung des Rates - ungeändert beschlossen
+- TOP 9.1.6: Haushaltsplanentwurf 2019 mit der mittelfristigen Finanzplanung bis zum Jahr 2022 - Beteiligung und Anhörung der Bezirksvertretung - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Teilaufhebung und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung des Bebauungsplanes Nummer 73490/06 - ungeändert beschlossen
+- TOP 9.2.2: Aufhebung des Bebauungsplanes Nummer 73479/08 - Arbeitstitel: Oberer Wichheimer Kirchweg in Köln-Holweide - Alternative beschlossen
+- TOP 9.2.3: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Straße 219a, 51063 Köln-Mülheim - Planungsbeschluss - ungeändert beschlossen
+- TOP 9.2.5: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet durch Beschlüsse im Rheinisch-Bergischen Kreis - ungeändert beschlossen
+- TOP 9.2.6: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Kabelprojekt Springborn - Merheim
+- TOP 10.1.2: Umbau Heizkraftwerk Merheim
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 10.2.4: Sigwinstraße in Köln-Höhenhaus; 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim; Offenlage - Kenntnis genommen
+- TOP 10.2.5: Ziel- und Leistungsvereinbarung 2018 - Bürgerhaus MüTZe - Kenntnis genommen
+- TOP 10.2.6: Containerprogramm für die Jahre 2019 bis 2021 - Kenntnis genommen
+- TOP 10.2.7: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.8: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 10.2.9: Entwicklung einer Beteiligungskultur für Köln - Kenntnis genommen
+- TOP 10.2.10: Verlegung der Bushaltestelle Linie 260 Neurather Weg - Kenntnis genommen
+- TOP 10.2.11: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 10.2.12: Mitteilung zum Planungsstand "Erweiterung der Feuerwache 9 in Köln-Mülheim" - Kenntnis genommen
+- TOP 10.2.13: Investorenwettbewerb für das Ulrich-Haberland-Haus - Kenntnis genommen
+- TOP 10.2.14: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 10.2.15: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 10.2.16: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 10.2.17: Offenlage gemäß §3 Absatz 2 Baugesetzbuch Vorhabenbezogener Bebauungsplan 71476/02 "Herler Straße" in Köln-Buchheim - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
