@@ -1,0 +1,71 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-09-17T18:05:00+02:00
+- Ende: 2018-09-17T22:32:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3540
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3540
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Der Bürgermeister hat das Wort - erledigt
+- TOP 2: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 2.1: Verkehrskollaps Koppelweg - beantwortet
+- TOP 2.2: Bürgerämter Neukölln - Sieht so Bürgerfreundlichkeit aus? - beantwortet
+- TOP 2.3: Obdachlose aus Ost - und Südosteuropa – Gesetze konsequent anwenden - in der BVV abgelehnt
+- TOP 2.4: Bebauung ehemaliger Güterbahnhof Neukölln - in der BVV abgelehnt
+- TOP 2.5: Schulgarten Carl-Legien Schule - ohne Änderungen in der BVV beschlossen
+- TOP 2.6: Parkverbotszone - in der BVV abgelehnt
+- TOP 2.7: Beteiligung am europaweiten autofreien Tag - ohne Änderungen in der BVV beschlossen
+- TOP 2.8: Shisha-Bars als genehmigungspflichtige Gaststättenbetriebe ausweisen - in der BVV abgelehnt
+- TOP 2.9: Brandschutz in Shisha-Bars sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 2.10: Blühstreifen, Blühflächen und wohnumfeldnahes Grün - ohne Änderungen in der BVV beschlossen
+- TOP 2.11: Neuköllner Schreiambulanz - beantwortet
+- TOP 2.12: Mehr Macht für den Bürgermeister? - beantwortet
+- TOP 2.13: Asbest Rias-Gelände - beantwortet
+- TOP 2.14: Brandbrief von Schulen im Bezirk & Maßnahmen gegen die gravierenden Missstände an den Neuköllner Schulen - beantwortet
+- TOP 2.15: Ausbau von Dachgeschossen - beantwortet
+- TOP 2.16: Langzeitarbeitslosigkeit und „soziales Grundeinkommen“ in Neukölln - vertagt
+- TOP 2.17: Ausschilderung Baustelle Karl-Marx-Straße - vertagt
+- TOP 2.18: Sitzbänke am Weigandufer aufstellen - vertagt
+- TOP 2.19: Im digitalen Zeitalter ankommen und die BVV im Livestream umsetzen - vertagt
+- TOP 2.20: Vor weiteren modularen Unterkünften für Migranten das Asylrecht durchsetzen - vertagt
+- TOP 2.21: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - vertagt
+- TOP 2.22: Einrichtung weiterer Sonderschulen - vertagt
+- TOP 2.23: Maroder Bordstein - vertagt
+- TOP 2.24: Rettet die Baumscheibe - vertagt
+- TOP 2.25: Buslinie M 41 verlängern - vertagt
+- TOP 2.26: Schilder da, aber niemand kann sie sehen - vertagt
+- TOP 2.27: Preisgestaltung bei den Berliner Bäderbetrieben - vertagt
+- TOP 2.28: Verkehrsschild mit Graffiti - vertagt
+- TOP 2.29: Zentrale Erfassung und Veröffentlichung aller Tage der offenen Türen an den Neuköllner Schulen - vertagt
+- TOP 2.30: Keine öffentlichen Stellflächen für Zirkusse mit bestimmten wildlebenden Arten - vertagt
+- TOP 2.31: Einführung eines elektronischen Klassenbuches - Reduzierung der Schulschwänzer - vertagt
+- TOP 2.32: Einführung eines Männersportförderpreises in Neukölln - vertagt
+- TOP 2.33: Anwendung des Berliner Schulgesetzes zur Durchsetzung eines normalen Unterrichtes - vertagt
+- TOP 2.34: Baumschulware am Campus Rütli retten - vertagt
+- TOP 2.35: Fortschreibung des Neuköllner Integrationspapiers von 2009 - vertagt
+- TOP 2.36: Ausbildungsaufgaben gerecht verteilen und Stundenbelastung senken - vertagt
+- TOP 2.37: Nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen ausschließen - vertagt
+- TOP 2.38: Dauerprojekt Späthbrücke - vertagt
+- TOP 2.39: Unzumutbare Bearbeitungszeiten beim Unterhaltsvorschuss? - vertagt
+- TOP 2.40: Abgetauchte Migranten - vertagt
+- TOP 2.41: Bürgersteige - vertagt
+- TOP 2.42: Zweckentfremdung von Wohnraum für Ferienwohnungen - schriftlich beantwortet
+- TOP 2.43: Verbot der Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten - vertagt
+- TOP 2.44: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - vertagt
+- TOP 2.45: Fußgängerüberweg vor Kita Momo - vertagt
+- TOP 2.46: Nachtruhe sichern - vertagt
+- TOP 2.47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.48: Fußgängerampelzeit Werbellinstraße/ Ecke Morusstraße - vertagt
+- TOP 2.49: Behindertengerechter Übergang - vertagt
+- TOP 2.50: Öffentlich-rechtliche Informationssender für Meinungsvielfalt statt privatem Nachrichtensender im Bezirk - vertagt
+- TOP 2.51: Recyclinghof - vertagt
+- TOP 2.52: Müll-Haie in der Gradestraße - vertagt
+- TOP 2.53: Leichte Sprache als gut sichtbares Zusatzangebot - vertagt
+- TOP 2.54: Landesmittel für Drogenkonsumraum in Neukölln nutzen - vertagt
+- TOP 2.55: Glas-Iglus Böhmische Str. 55-56 aufstellen - vertagt
