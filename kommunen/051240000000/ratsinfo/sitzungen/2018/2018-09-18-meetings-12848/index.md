@@ -1,0 +1,72 @@
+# öffentliche/ nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-09-18T16:06:00+02:00
+- Ende: 2018-09-18T18:34:00+02:00
+- Ort: Rathaus Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12848
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12848
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand 10.09.18 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00223835.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00226665.pdf
+
+## Tagesordnung
+
+- TOP 1: Digitalisierungsstrategie der Stadtverwaltung Wuppertal 2018-2023 - Entgegennahme ohne Beschluss
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Vorgaben des Gesellschafters im Rahmen der Jahresabschlusserstellung - Entgegennahme ohne Beschluss
+- TOP 2.2: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2016/2017 - ungeändert beschlossen
+- TOP 2.2.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2016/2017 - ungeändert beschlossen
+- TOP 2.3: Jahresabschluss 2017 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 2.4: Jahresabschluss 2017 KIJU - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2018/2019 - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 4.1: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 30.06.2018 - Entgegennahme ohne Beschluss
+- TOP 4.2: Gründung eines neuen Tochterunternehmens der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 4.3: Mitgliedschaft im Förderverein NRW-Stiftung - ungeändert beschlossen
+- TOP 4.4: Public Corporate Governance Kodex der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4.5: Aufhebung und Vertagung der Beschlüsse zur Entlastung der Organe der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - vertagen
+- TOP 4.6: Arbeitsgerichtsverfahren Adolphe Binder–Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4.6.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Arbeitsgerichtsverfahren Adolphe Binder - Stadt Wuppertal" (VO/0751/18) vom 11.09.2018 - Entgegennahme ohne Beschluss
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: Verwaltungsmodernisierung und Raumplanung - Entgegennahme ohne Beschluss
+- TOP 6.2: Zukünftige Nutzung und Gestaltung des Carnaper Platzes - Entgegennahme ohne Beschluss
+- TOP 6.3: Überörtliche Prüfung der Gemeindeprüfungsanstalt NRW - Entgegennahme ohne Beschluss
+- TOP 6.4: Fortlaufende Berichterstattung und Information über den Zivilprozess Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH (hier: Mitteilung über die Durchführung der Berufung) - Entgegennahme ohne Beschluss
+- TOP 7: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 7.1: Weihnachtsmärkte - Konzepte und Ausschreibung für Barmen, Elberfeld und den Laurentiusplatz - vertagt auf Rat
+- TOP 7.2: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 7.3: Übertragung von Grundstücken - ungeändert beschlossen
+- TOP 7.4: Sanierung Brücke Germanenstraße - Genehmigung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 7.5: Abdichtung Westkotter Viadukt - Genehmigung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 7.6: Bereitstellung überplanmäßiger Mittel für die Projektbegleitung zur Umfeldgestaltung Berliner Platz - ungeändert beschlossen
+- TOP 7.7: Bereitstellung zusätzlicher Finanzmittel für Kinderspielplätze und Parkanlagen - ungeändert beschlossen
+- TOP 7.8: Neubau einer Tageseinrichtung für Kinder in Ronsdorf - ungeändert beschlossen
+- TOP 7.9: Ersatzbeschaffung eines Hubsteigers - ungeändert beschlossen
+- TOP 7.10: Richtlinie der Stadt Wuppertal zum Verfügungsfonds nach Ziffer 17 der Förderrichtlinien Stadterneuerung 2008 – Stand Juli 2018 - ungeändert beschlossen
+- TOP 7.11: Kooperationsvereinbarung zwischen der Montag Stiftung, der Projektgesellschaft Urbane Nachbarschaft BOB gGmbH und der Stadt Wuppertal - ungeändert beschlossen
+- TOP 7.12: Förderantrag Sanierung Freibad Mählersbeck - ungeändert beschlossen
+- TOP 7.13: Serielles, transnationales Welterbe Müngstener Brücke: "Europäische Großbogenbrücken des 19. Jahrhunderts" - ungeändert beschlossen
+- TOP 7.14: Dachterrasse "Infopavillon" / Gebäude Wupperpark - vertagt auf Rat
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 9: Berichtsvorlagen
+- TOP 9.1: Finco-Berichte zu den Terminen 30.06., 31.07. sowie 31.08.2018 - Entgegennahme ohne Beschluss
+- TOP 9.2: Stand der Schulden und Kassenkredite zum 30.06.2018 - Entgegennahme ohne Beschluss
+- TOP 9.3: Nachhaltigkeit der Finanzanlagen der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 10: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 11: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das II. Quartal 2018 - Entgegennahme ohne Beschluss
+- TOP 13: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 13.1.1: Entlastung der Betriebsleitung des WAW für das Jahr 2017 - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
