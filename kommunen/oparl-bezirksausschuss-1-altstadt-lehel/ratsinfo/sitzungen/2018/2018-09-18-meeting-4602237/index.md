@@ -1,0 +1,158 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2018-09-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4602237
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4602237
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP E 4.1.: Stadtbezirksbudget: Nachweise und Berichte
+- TOP A: Allgemeines
+- TOP 4.1.: Anhörungsrecht für die Einrichtung von Elektroladestationen (BA-Antrag Nr. 14-20 / B 05020 des Bezirksausschusses 16 – Ramersdorf-Perlach)
+- TOP 4.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 – 2026; Anhörung zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 4.3.: Teilnahme am Fest junger Erwachsener „18.jetzt“ am 13.10.2018 im Rathaus
+- TOP B: Planen, Bauen, Wohnen
+- TOP 3.1.1.: Maximiliansplatz 19: Umbau und Sanierung eines denkmalgeschützten Hauses
+- TOP 3.1.2.: Residenzstraße 3: VORBESCHEID: Neue Überbauung des östlichen Innenhofs im EG + 1. OG mit Terasse im 2. OG und Balkon im 3. OG
+- TOP 3.1.3.: Sendlinger Straße 10a -12a: Nutzungsänderung und Umbau eines ehemaligen Druckereigebäudes
+- TOP 3.1.4.: Oettingenstraße 31: DG-Ausbau, Anbau von Balkonen und eines Fassadenaufzuges
+- TOP 3.1.5.: Wagmüllerstraße 19: Nutzungsänderung einer Zweigstelle der Stadtsparkasse in eine Gaststätte mit Bäckereiverkauf
+- TOP 3.1.6.: Löwengrube 10: Dachgeschoss-Ausbau
+- TOP 3.1.7.: Altenhofstraße 4: Umbau und Sanierung mit Aufstockung und Teilnutzungsänderung, Einzelhandel mit Verwaltung und fünf Wohneinheiten
+- TOP 3.1.8.: Frauenstraße 7: Nutzungsänderung: Laden- zu Gastraumfläche
+- TOP 3.1.9.: Rindermarkt 13-14: TEKTUR: Errichtung Gastronomiefläche, Verkaufsfläche mit Büroräumen, Kunden-WC
+- TOP 3.1.10.: Maffeistraße 3a: Erweiterung einer Freischankfläche
+- TOP 3.1.11.: Englischer Garten: „MilchHäusl“: Sanierung und nachträgliche Unterkellerung
+- TOP 3.1.12.: Paradiesstraße 10: TEKTUR: Anbau zusätzlicher Balkon Innenhof
+- TOP 3.1.13.: Kreuzstraße 18: VORBESCHEID: Rekonstruktion und Sanierung „Hotel Tannenbaum“
+- TOP 3.1.14.: Frauenstraße 9: Erweiterung einer Freischankfläche
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, aktuelle Situation Englischer Garten
+- TOP 1.2.: Bürgeranliegen, Beschwerde wegen Lärmbelästigung des Wirtshauses „Tattenbach“
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Erweiterung einer Freischankfläche, Tal 7: „Weisses Bräuhaus“
+- TOP 2.1.2.: Erweiterung einer Freischankfläche, Sonnenstraße 11: „Bohne & Malz“
+- TOP 2.3: Sonstige
+- TOP 2.3.1.: (E) Sperrzeitverlängerung in der Altstadt, Bereich Sebastiansplatz
+- TOP 2.3.2.: Antrag auf Sperrzeitaufhebung für „Madam Stripclub“ in der Ledererstraße 21
+- TOP 2.3.3.: (E) Reinigung des Brunnens am Thierschplatz Empfehlung Nr. 14-20 / E 02008 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 07.06.2018
+- TOP 3: Anhörungen
+- TOP 3.1.1.: München Marathon am 14.10.2018 und Trachtenlauf am 13.10.2018
+- TOP 3.1.2.: Lange Nacht der Museen am 20.10.2018 auf dem sog. Odeonsplatz
+- TOP 3.1.3.: „Bauernmarktmeile“ am 30.09.2018 auf dem sog. Odeonsplatz
+- TOP 3.1.4.: „Münchner Eiszauber“ vom 23.11.2018 bis 16.01.2019 auf dem Karlsplatz
+- TOP 3.1.5.: Christkindlmarkt am Sendlinger Tor Platz vom 26.11. bis 22.12.2018
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Material des „monumentalen“ Schriftzuges für die Werbeaktion Munich4Europe am 09.05.2019, Marienplatz
+- TOP 3.2.2.: Antrag der SPD-Stadtratsfraktion: Mehr temporäre Zwischennutzungen und Freischankflächen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Aufstellen von Radargeräten in Liebig- und Sternstraße
+- TOP 1.2.: Bürgeranliegen, Parkplatzsituation Lehel - Unsöldstraße
+- TOP 1.3.: Bürgeranliegen, Entfernen des Fahrradständers Ecke Brunn- / Damenstiftstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Rückbau von zwei Abbiegespuren in der südlichen Oettingen- und Sternstraße Empfehlung Nr. 08-14 / E 02122 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 05.12.2013 Pflanzung von Bäumen in der Sternstraße Empfehlung Nr. 14-20 / E 02007 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 07.06.2018
+- TOP 2.2.: (E) Durchfahrt Hochbrückenstr. zwischen Parkhaus und Spielplatz offenhalten Empfehlung Nr. 14-20 / E 01903 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 07.12.2017
+- TOP 3: Anhörungen
+- TOP 3.1.: Gesamtkonzeption Fahrradparken in München, Sitzungsvorlage Nr. 14-20 / V 08684
+- TOP 3.2.: Antwortschreiben des KVR zu BA-Antrag Nr. 14-20 / B 04739: Parkplätze vor dem Gebäude der Regierung von Oberbayern, Maximilianstraße 39
+- TOP 3.3.: Parkraummanagement in München – Umsetzung Sektor V, Sitzungsvorlage Nr. 14-20 / V 12345
+- TOP 3.4.: Antrag auf Baumfällung, Robert-Koch-Straße 9
+- TOP 3.5.: Verkehrsrechtliche Anordnung: Absolutes Haltverbot Adelgundenstraße
+- TOP 3.6.: Antrag auf Baumfällung, Prälat-Miller-Weg 3
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Personalsituation im Haus für Kinder, Himbselstraße 1
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Gesellschaft zur Förderung des Puppenspiels e.V. Kuckuck-Theaterfestival für Anfänge(r) vom 21. - 28.10.2019 1.100,00 € Az. 0262.0-1-0142
+- TOP 2.2.: (E) Stadtbezirksbudget PA/Kinder- und Jugendmuseum München e.V. Anfertigung eines begehbaren Stadtplanes 1.160,00 Euro Az.: 0262.0-1-0144
+- TOP 3: Anhörungen
+- TOP 3.1.: Anmietung von Räumen für ein Münchner Lesbenzentrum durch den Verein Lesbentelefon e.V. in der Müllerstraße 26
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Wichtige Informationen zu Ausschreibungen ab 18.10.2018
+- TOP A 7.2.: Stadtbezirksbudget: Information des Direktoriums zu der Umstellung
+- TOP A 7.3.: Informationsschreiben über die Fördermöglichkeiten 2019 im Rahmen des Programms „Bürgerinnen und Bürger gestalten ihre Stadt – Bürgerbeteiligung in den Stadtvierteln“
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: Verkehrsrechtliche Anordnung Baufeld Marienhof 2. S-Bahn-Stammstrecke - Phase 3
+- TOP B 4.3.: Terminverlängerung Hofgraben bzw. Löwengrube: Aufschlussbohrung 2. S-Bahn-Stammstrecke
+- TOP B 4.4.: Baugenehmigung Maximilianstraße 33
+- TOP B 4.5.: Zwei Bürgeranliegen, Fahrradständer auf der Mariannenbrücke
+- TOP B 4.6.: Frauenplatz 2: Erweiterung der bestehenden Freischankfläche
+- TOP B 4.7.: Arbeiten im Straßenraum: Oskar-von-Miller-Ring, Prinzregentenstraße, Franz-Joseph-Strauß-Ring, Altstadtringtunnel
+- TOP B 4.8.: Baustelleneinrichtung am Isartorplatz vom 10.09 bis 26.10.2018
+- TOP B 4.9.: Arbeiten im Straßenraum: Kardinal-Faulhaber-, Pranner- und Salvatorstraße vom 22.08 bis 31.10.2018
+- TOP B 4.10.: Planfeststellungsbeschluss für die S-Bahn-Station Isartor – Brandschutz
+- TOP B 4.11.: Arbeiten im Straßenraum: Thierschstraße 1 und Isartorplatz 1-3
+- TOP B 4.12.: Genehmigung des Bauvorhabens Herrnstraße 13
+- TOP B 4.13.: Arbeiten im Straßenraum: Terminverlängerung Sendlinger-Tor-Platz
+- TOP B 4.14.: Änderungsbescheid zur Kanalsanierung Baader-, Thierschstraße sowie Mariannenplatz
+- TOP B 4.15.: Platzl – Wege zum Hofbräuhaus mit neuem Verfahren barrierefrei gestalten, Sitzungsvorlage Nr. 14-20 / V 12322
+- TOP B 4.16.: (U) Sendlinger-Tor-Platz zwischen Sonnenstraße, Oberanger und Herzog-Wilhelm-Straße im 1. Stadtbezirk Altstadt - Lehel Umgestaltung und Herstellung der Barrierefreiheit Projektkosten (Kostenobergrenze): 4.100.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Projektgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022 4. Barrierefreiheit des Sendlinger-Tor-Platzes Antrag Nr. 14-20 / A 00423 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Dr. Constanze Söllner-Schaar und Frau Stadträtin Birgit Volk vom 12.11.2014
+- TOP B 4.17.: Protokoll der Erörterungsveranstaltung „Alte Akademie“ (Bebauungsplan mit Grünordnung Nr. 1975a)
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Bürgeranliegen, „Der Freistaat ein Umweltverschmutzer“, Chinesischer Turm im Englischen Garten
+- TOP C 4.4.: Ausnahmegenehmigung für den Betrieb von Kraftstromerzeugern im Rahmen von Filmdreharbeiten, Widenmayerstraße gegenüber den Hausnummern 45 und 47
+- TOP C 4.5.: Eilentscheidung zum 2. Nachtrag der Veranstaltung Streetlife Festival / Corso Leopold am 08.09 und 09.09.2018
+- TOP C 4.6.: Eilentscheidung zu Änderungen des Planes für das Isarinselfest 2018
+- TOP C 4.7.: Eilentscheidung zu den Wiesnzügen am 22.09 und 23.09.2018
+- TOP C 4.8.: Eilentscheidung zu Sitztribünen und Toiletten der Wiesnzüge am 22.09 und 23.09.2018
+- TOP C 4.9.: Finale Pläne zur Veranstaltung „Nachtschwärmer“ am 07.09.2018
+- TOP C 4.10.: Eilentscheidung zum 3. Nachtrag für das Streetlife Festival / Corso Leopold am 08.09 und 09.09.2018
+- TOP C 4.11.: Eilentscheidung zur neuen Aufplanung der Veranstaltung „Nachtschwärmer“ am 07.09.2018 am Stachus
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Antwortschreiben des KVR zu TOP 2018.07 D 1.5: Parkplatzprobleme für Anwohner der Sendlinger Straße
+- TOP D 4.2.: Erneute Fristverlängerung zur Bürgerversammlungsempfehlung Nr. 08-14 / E 02122 vom 05.12.2013, Rückbau von Abbiegespuren in der Oettingen- und Sternstraße
+- TOP D 4.3.: Zwischennachricht des KVR zu Bürgeranliegen TOP 2018.07 D 1.2: Verkehrssicherheit Emil-Riedel-Straße/Oettingenstraße/Prinzregentenstraße
+- TOP D 4.4.: Neu erstellte Sondernutzungserlaubnis für den Bauernmarkt am St.-Anna-Platz
+- TOP D 4.5.: Bescheid zum Vollzug der Baumschutzverordnung, Viktualienmarkt 15
+- TOP D 4.6.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP D 4.7.: (U) Einführung einer Einbahnregelung in der Brienner Straße zwischen Odeons- und Amiraplatz
+- TOP D 4.8.: Antwortschreiben des Planungsreferates zu Bürgeranliegen „Temporäre Fußgängerzonen“ (2018.07 D 1.7)
+- TOP D 4.9.: Antwortschreiben des KVR zu Bürgeranliegen "Rikscha-Standplätze am Marienplatz" (2018.05 D 1.2)
+- TOP D 4.10.: Antwortschreiben des KVR zu Bürgeranliegen „Massive Lärmentwicklung und nächtliche Ruhestörung“ in der Altstadt (2018.08 D 1.1)
+- TOP D 4.11.: Antwortschreiben des KVR zu Bürgeranliegen „Parksituation Lehel“ (2018.08 D 1.3)
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.2.: "Haus für Kinder" an der Herrnstraße weiter planen und schnellstmöglich realisieren.
+- TOP E 4.3.: (U) Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2017 bis 2020 Kindertagesstätten sonstiger Träger; Haus für Kinder am Karl-Scharnagl-Ring 5 im 1. Stadtbezirk Altstadt-Lehel Leistung eines Baukostenzuschusses
+- TOP E 4.4.: Interne Veranstaltungsübersicht des Kulturreferates, August 2018
+- TOP E 4.5.: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP E 4.6.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP E 4.7.: Auslagerung des Maximiliansgymnasium in den Pavillon Oettingenstraße 78
+- TOP E 4.8.: Dienststellenverständigung: Staatliches Wilhelmsgymnasium, Thierschstraße 46
+- TOP E 4.9.: Konzeptionelle Planung für das MaximiliansForum, BA-Antrag Nr. 08-14 / B 01983 (Sitzungsvorlage Nr. 14-20 / V 12883)
