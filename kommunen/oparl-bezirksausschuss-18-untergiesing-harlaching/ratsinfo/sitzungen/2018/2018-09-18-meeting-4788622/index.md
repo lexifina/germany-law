@@ -1,0 +1,148 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4788622
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4788622
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: REWE To Go, ARAL-Tankstelle Grünwalder Str. 175 c, 81547 München (Tiroler Platz) Verstoß gegen Ladenschutzgesetz Lärmbelästigung durch neu installierte Kühlaggregate
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V. 30-jähriges Jubiläum am 22.10.2018 2.489,34 € Az. 0262.0-18-0148
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Initiative "Die Bahn im Wandel der Zeit" Vortrag "Die Bahn im Wandel der Zeit" am 09.09.2018 720,00 € Az. 0262.0-18-0147
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Waldkindergarten Wurzelkinder e.V. 20-jähriges Jubiläum am 29.09.2018 1.300,00 € Az. 0262.0-18-0149
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Untergiesing - Diakonie im Münchner Süden e.V. 10-jähriges Jubiläum mit einem Marktplatz der Informationen 370,00 € 0262.0-18-0150
+- TOP 3.1.6.1.: (U) Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse Stadtbezirksbudget für München Stadtratsaufträge aus dem Beschluss Nr. 14-20 / V 08072 der Vollversammlung vom 26.07.2017 Fairtrade Town München – die BA&#039;s aktiv beteiligen! Scientology-Schutzerklärung bei Zuwendungen aus dem Budget der Bezirksausschüssen Einführung einer standardisierten Prüfung auf alternative städtische Zuschussmöglichkeiten bei BA-Budgetanträgen BA-Budget fair – teilen: Anpassung der Zuwendungsrichtlinien aus dem Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis BA-Budget fair – teilen BA-Budget fair-teilen: Anpassung der Zuwendungsrichtlinien aus dem BA-Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis Gender-Budgeting BA-Budget fair – teilen: Aufnahme des Grundsatzes der gleichstellungsorientierten Haushaltssteuerung in die künftigen Zuwendungsrichtlinien für das Stadtbezirksbudget
+- TOP 3.1.6.2.: Verwendungsnachweis für BA-Budget: KJR - München Stadt für das Straßenfest Fromund
+- TOP 3.1.6.3.: Verwendungsnachweis für BA-Budget: Bürgervereinigung Maibaum Untergiesing e.V. für die Aufstellung Maibaum mit Fest
+- TOP 3.1.6.4.: Verwendungsnachweis und Abrechnung für BA-Budget: Johanniter-Unfall_Hilfe e.V., Lacrima-Zentrum für trauernde Kinder für die Ausstellung: Tote essen auch Nutella
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: (E) Sicherstellung ausreichend freibleibender Gehbahnbreiten für Fußgänger
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.2.: Umwidmung des Fuß- und Radweges an der Rückseite des Gebäudes Candidplatz 13 zum reinen Fußweg; Antrag der Freien Wähler
+- TOP 3.2.3.3.: Schrägparken in der Schyrenstraße
+- TOP 3.2.3.4.: Regengeschützte Fahrradabstellräume Hohlraum am Wettersteinplatz; Antrag der Fraktion Bündnis`90/Die Grünen (vertagt vom 17.07.18)
+- TOP 3.2.3.5.: Verbesserung der Verkehrssicherheit an der Einmündung Münchner Kindl-Weg
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Parkraummanagement in München
+- TOP 3.2.4.2.: Sachstenstr. 9 Einrichtung Absolutes Halteverbot
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: "Abhängung" der Plattnerstraße zum Giesinger Berg hin
+- TOP 3.2.5.2.: Abbau der Ampeln an der stillgelegten Bushaltestelle 58 am Kolumbusplatz
+- TOP 3.2.5.3.: Sperrblende an der Plattnerstraße rechts zur Einfahrt stillgelegten Bushaltestelle 58 am Kolumbusplatz
+- TOP 3.2.5.4.: Keine punktuelle Verbesserung am Tegernseer Platz auf Kosten der Untergiesinger und Harlachinger Bürger
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2019 City Bus Antrag Nr. 14-20 / A 03830 von Herrn Stadtrat Fritz Schmude und Herrn Stadtrat Andre Wächter vom 16.02.2018 Öffentlich besser fahren 2 – Taktverbesserungen bei U-Bahn, Straßenbahn und Bus Antrag Nr. 14-20 / A 03435 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Öffentlich besser fahren 6 – Mehr Metro- und Expressbusse für München Antrag Nr. 14-20 / A 03439 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Verbesserung der Buslinie Nr. 194, Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen BA-Antrag Nr. 14-20 / B 03509 des Bezirksausschusses des 15. Stadtbezirks vom 06.04.2017 Einrichtung eines Quartiersbusses zwischen Perlach und Fasangarten – Öffentliche Erreichbarkeit des Neuen Südfriedhofs verbessern BA-Antrag Nr. 14-20 / B 04219 des Bezirksausschusses des 16. Stadtbezirks – Ramersdorf-Perlach vom 12.10.2017 ÖPNV-Erschließung für das Gewerbegebiet „Triebwerk“ in Neuaubing BA-Antrag Nr. 14-20 / B 04419 des Bezirksausschusses des 22. Stadtbezirks - Aubing – Lochhausen – Langwied vom 20.12.2017
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Antrag auf Pflanztröge an der Kühbachstraße
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Verbesserung der Luftqualität am Candidplatz, Entlastung von Abgasen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Neue Sitzgelegenheiten an öffentlichen Plätzen Stadtbezirk 18 Untergiesing-Harlaching
+- TOP 3.4.4.2.: Teilerneuerung Schulsportplatz an der Rotbuchenstraße Vorstellung der Planungen am 06.07.2018 Protokoll
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.6.2.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP 3.4.6.3.: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Mehr temporäre Zwischennutzungen und Freischankflächen
+- TOP 3.5.4.2.: Bayerische Denkmalliste - Teil A: Baudenkmäler; hier: Anwesen in der Reinerstraße, Nachtrag einer Reihenhausanlage in die Denkmalliste; Schreiben des Referats für Stadtplanung und Bauordnung mit der Möglichkeit zur Stellungnahme
+- TOP 3.5.4.1.1.: Tauernstr. 11, Neubau eines Seniorenwohn- und Pflegeheims - VORBESCHEID -
+- TOP 3.5.4.2.1.: Tauernstr. 11, Neubau eines Seniorenwohn- und Pflegeheims - VORBESCHEID - - Baumbestandsplan -
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Liste der Bauvorhaben im 18. Stadtbezirk in der Zeit vom 06.08.2018 bis 26.08.2018
+- TOP 3.5.6.2.: (E) Bessere Gestaltung und Pflege des Wettersteinplatzes Empfehlung Nr. 14-20 / E 01857 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 16.11.2017 - Ausfertigung des Beschlusses -
+- TOP 3.5.6.3.: Atlas Wirtschaftsstandort München Räumliche Analysen für Stadt und Region - Broschüre -
+- TOP 3.5.6.4.: Beschlussentwurf A) Bebauungsplan mit Grünordnung Nr. .... Tölzer Straße (östlich), Steinerstraße (südlich), Plinganserstraße (westlich), Boschetsrieder Straße (nördlich), - Aufstellungsbeschluss - B) Aufhebung des Aufstellungsbeschlusses für den Bebauungsplan mit Grünordnung Nr. 1861 vom 10.11.1999
+- TOP 3.5.6.5.: Schönstraße; Umbau zwischen der Candidstraße und der Lebschéestraße Beginn: Mitte August 2018 Ende: vorr. November 2019
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: "Jahrmarkt" = Flohmarkt, Lagerraum/Verkauf ohne Gewinnorientierung, der Evang.-Luth. Emmauskirche München-Harlaching vom 13.10.2018 bis 16.10.2018, auf dem Laurinplatz
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln" 2019 Frist zur Abgabe im Referat für Stadtplanung und Bauordnung: 31.12.2018
+- TOP 4.3.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026, Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 4.3.1.1.: Naupliastr. 72
+- TOP 4.3.1.2.: Stresemannstr. 15
