@@ -1,0 +1,52 @@
+# Beteiligungsausschuss (34. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-09-18T18:39:00+02:00
+- Ende: 2018-09-18T18:59:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZXOr_HPJWm88DmhUjjGJRu4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5094
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfFYmPojo_5Yr9qTChHx95EINpvW9NdgjDojZGFr5Zfc/Bekanntmachung_Beteiligungsausschuss_18.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeEF69plgzLir3ZNmrSIzFS4KBK-qy8cxG1W72Hbl5xW/Oeffentliche_Niederschrift_Beteiligungsausschuss_18.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Beteiligungsausschuss am 19.06.2018
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Jahresabschluss 2017 der Technischen Betriebe Solingen Feststellung des Jahresabschlusses
+- TOP 6.: Jahresabschluss 2017 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 7.: Zukunftskonzeption Kunstmuseum Solingen
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Beteiligungsausschuss am 19.06.2018
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 6.: Bergische Symphoniker GmbH - Informationen zur finanziellen Entwicklung
+- TOP 7.: Jahresabschluss 2017 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 8.: Wirtschaftsförderung Solingen GmbH & Co. KG - Einzahlung in die Kapitalrücklage
+- TOP 9.: Wirtschaftsförderung Solingen GmbH & Co. KG - Grundstücksverkäufe
+- TOP 10.: Bergische Gesellschaft für Ressourceneffizienz mbH - Verfügung über Geschäftsanteile
+- TOP 11.: Jahresabschluss 2017 der Bergischen Gesellschaft für Ressourceneffizienz mbH
+- TOP 12.: Bergische Gesellschaft für Ressourceneffizienz mbH - Bestellung des Abschlussprüfers für das Jahr 2018
+- TOP 13.: Bergische Gesellschaft für Ressourceneffizienz mbH - Bestellung der Geschäftsführung
+- TOP 14.: Wirtschaftsplan 2018/19 der itec solingen gmbh
+- TOP 15.: Stadtwerke Solingen GmbH (SW SG) - Wirtschaftsplan 2018/2019
+- TOP 16.: Stadtwerke Solingen GmbH (SW SG) - Wiederbestellung eines Geschäftsführers
+- TOP 17.: Stadtwerke Solingen GmbH (SW SG) - Aufstockung der Beteiligung an der Trianel Erneuerbare Energien GmbH & Co. KG
+- TOP 18.: Jahresabschluss 2017 der EfS GmbH & Co. KG & Jahresabschluss 2017 der EfS Verwaltungs-GmbH
+- TOP 19.: Jahresabschluss 2017 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 20.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 21.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 22.: Verschiedenes
+- TOP 22.1: Mitteilungen der Verwaltung
+- TOP 22.2: Anfragen an die Verwaltung
