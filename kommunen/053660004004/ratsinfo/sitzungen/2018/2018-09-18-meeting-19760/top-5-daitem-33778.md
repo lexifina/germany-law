@@ -1,0 +1,7 @@
+# TOP 5.: Beförderung einer leitenden Dienstkraft gemäß § 14 Absatz 3 der Hauptsatzung hier: Herstellung des Einvernehmens gemäß § 13 Absatz 3 der Hauptsatzung
+
+- Sitzung: Haupt- und Finanzausschuss (19. Sitzung) (2018-09-18)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/33778
+- Ergebnis: Einstimmiger Beschluss bei 5 Enthaltungen:
