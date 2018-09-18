@@ -1,0 +1,175 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2018-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4617842
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4617842
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.2.: Frankfurter Ring Außenanlagen, Präsentation
+- TOP 10.3.: Präsentation Erweiterung des Discgolfkurses in Fröttmaning
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Baumfällungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 6.1.: Schaffung eines Referats für Mobilität, gestellt wie in der Sitzung am 19.06.2018
+- TOP 7.1.: Wichtige Informationen zu Ausschreibungen ab 18.10.2018
+- TOP 7.2.: Würdige Wahlurnen statt umfunktionierter Mülltonnen
+- TOP 7.3.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 9.1.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 – 2026, Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 10.1.: Bürgeranliegen, Schließung der Stadtsparkassenfiliale am Nikolausplatz in Freimann
+- TOP 10.4.: Bürgeranliegen aus der Bürgersprechstunde im September
+- TOP B.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Erneuerung des Rasens an der westlichen Leopoldstraße zwischen Franz-Joseph-Straße und Georgenstraße
+- TOP 1.2.: Ergänzung zum CIVITAS ECCENTRIC Modellprojekt für den Domagkpark und die Parkstadt Schwabing
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Verbot privaten Silvesterfeuerwerkes auf Straßen und Plätzen in Wohngebieten im 12. Stadtbezirk
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung einer Teilstrecke der Straße „Am Ausbesserungswerk“ (U-1678)
+- TOP 2.3.: (E) Entschärfung der Gefahrenstelle Mattighofer Straße auf Höhe Lindenfelser Straße Empfehlung Nr. 14-20 / E 02029 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 12.06.2018
+- TOP 2.4.: (E) Kreuzung Floriansmühlstraße / Sondermeierstraße
+- TOP 2.5.: (E) + (U) Verbesserung der Attraktivität des öffentlichen Nahverkehrs Empfehlung Nr. 14-20 / E 02026 der Bürgerversammlung des Stadtbezirkes 12 – Schwabing-Freimann am 12.06.2018
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Zeichen 283 StVO Anni-Albers-Straße Südseite
+- TOP 3.1.2.: Zeichen 283 StVO Walter-Gropius-Straße
+- TOP 3.1.3.: Anfahrtszone Max-Bill-Straße 65
+- TOP 3.1.4.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Leopoldstraße
+- TOP 3.1.5.: Absicherung der (provisorischen) Fußgängerinsel in der Lilienthalallee
+- TOP 3.1.6.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Leopoldstraße 17
+- TOP 3.1.7.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Edmund-Rumpler-Straße
+- TOP 3.2.1.: Toilette im Bereich des U-Bahnhofs Freimann, BV-Empfehlung Nr. 14-20 / E 01011 vom 23.06.2016, Referatsschreiben
+- TOP 3.2.2.: Anhörungsrecht für die Einrichtung von Elektroladestationen, Referatsschreiben
+- TOP 3.2.3.: Anhörung zum Beschlussentwurf „Parkraummanagement in München – Umsetzung Sektor V“
+- TOP 3.2.4.: Programm barrierefreie Bushaltestellen, Ingolstädter Straße / Frankfurter Ring, Haltestelle Ingolstädter Straße
+- TOP 4.1.: Warum keine Fernwärmeversorgung für das Neubaugebiet an der Freisinger Landstraße und in der Situlistraße
+- TOP 4.2.: Feilitzschstraße zur Fahrradstraße
+- TOP 4.3.: Zugeparkte Wertstoffcontainer
+- TOP 4.4.: Schwabing Nord, viele unsichere Stellen für Kinder mit dem Fahrrad
+- TOP 4.5.: Kreuzung Leopoldstraße/Hohenzollernstraße
+- TOP 4.6.: Zugang zur Station Nordfriedhof und gelbe Mieträder
+- TOP 4.7.: Fahrradabstellmöglichkeiten in der Max-Bill-Straße
+- TOP 4.8.: Fahrradabstellplätze auf dem Gehweg Germaniastraße 5
+- TOP 4.9.: Ampel am Siegestor
+- TOP 4.10.: Autobahnlärmschutz
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Fahrräder an der Münchner Freiheit, Ampelphase für Fußgängerunterführung, BV-Anfrage Nr. 14-20 / Q 00551 vom 12.07.2018
+- TOP 5.1.2.: Ausweitung des Anwohnerschutzkonzeptes Allianzarena (Initiative: Patric Wolf)
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Z 283 im Bereich der Feuerwehrzufahrt Carl-Orff-Bogen 243
+- TOP 5.2.2.: Arbeiten im Straßenraum, Siegfriedstraße 22 und Seite Struystraße; Reparatur Fernwärme im Auftrag der SWM
+- TOP 5.2.3.: Arbeiten im Straßenraum, Ungererstraße 189 / Garchinger Straße / Domagkstraße (Fernwärmearbeiten)
+- TOP 5.2.4.: Arbeiten im Straßenraum, Freisinger Landstraße zwischen Lottlisa-Behling-Weg und Stadtgrenze (Abbau Behelfsbrücke A99)
+- TOP 5.2.5.: Arbeiten im Straßenraum, Montsalvatstraße 3 – 19 (zwischen Isoldenstraße und Tristanstraße); Fahrbahnsanierung
+- TOP 5.2.6.: Zufahrtsregelung für Wohngebiete bei der Allianz-Arena an Spieltagen
+- TOP 5.2.7.: Petuelring, Wendeschleife (Verlegen von Leitungen für die geplante Lichtsignalanlage)
+- TOP 5.3.1.: „Schwabinger Tor“ Zufahrt zur Tiefgarage auf Höhe Leopoldstraße 184, Antrag auf Gewährung eines Schutzstreifens bzw. Abbiegespur, Antwortschreiben des Referats auf C.4.11-07/18
+- TOP 5.3.2.: Verkehrssituation Gundelindenstraße, Referatsschreiben zu C.4.3-07/18
+- TOP 5.3.3.: Stromprojekt Morawitzkystraße, Infoflyer der SWM
+- TOP 5.3.4.: Erläuterungen zum Antrag auf Förderung aus dem Förderprogramm „Bürgerinnen und Bürger gestalten ihre Stadt“ Urbanes und BezirksNaturNetz BA 12
+- TOP 5.3.5.: Fußgängerampel Johann-Fichte-Straße Ecke Leopoldstraße, Antwortschreiben der Verwaltung auf das Bürgeranliegen C.4.06-07/18
+- TOP 5.3.6.: Parkraummanagement „Alte Heide“, Antwortschreiben der Verwaltung zu zwei Bürgeranliegen
+- TOP 5.3.7.: Verlegung der Hubschrauberstaffel Bayern an den bestehenden Hubschraubersonderlandeplatz Oberschleißheim, Eilentscheidung des Vorsitzenden, Zustimmung zur Verwaltungsvorlage durch Fristablauf
+- TOP 5.3.8.: Heidemannstraße zwischen Freisinger Landstraße und Autobahn sanieren, Ausbau des Fuß- und Radwegs an der Heidemannstraße, BA-Antrag Nr. 08-14 / B 04156, Sitzungsvorlage Nr. 14-20 / V 12199
+- TOP 5.3.9.: Begrünung Germaniastraße, Referatsschreiben
+- TOP 5.3.10.: SWM Trinkwasserprojekt „Am Blütenring“
+- TOP C.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Ausschreibung Dietl-Denkmal
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Generationenzentrum e.V. Kindergarten Mini-Timmi Neuanschaffung eines Spielturms 2.815,63 € Az. 0262.0-12-0269
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Initiative "Kunst und Arbeit" Ausstellungsprojekt "Kunst und Arbeit" vom 08. - 21.10.2018 1.550,00 Euro Az.: 0262.0-12-0271
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Wannda e.V. Kulturprogramm vom 08. - 12.08.2018 6.000,00 Euro Az.: 0262.0-12-0266
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Lernwerkstatt Halle 36 e.V. Sommerfest am 20.07.2018 2.265,00 Euro Az.: 0262.0-12-0273
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Klasse Metzel Zwischennutzung Münchner Freiheit 7 im September/Oktober 2018 15.400,00 Euro Az.: 0262.0-12-0270
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Mohr-Villa Freimann e.V. Zusammenfassende Darstellung der Geschichte Freimanns in einem Buch Datum der Maßnahme: Ende Juli 2018 5.000,00 € AZ: 0262.0-12-0267
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Mohr-Villa Freimann e.V. Jubiläums-Freilicht-Konzert-Reihe am 09.09., 16.09. und 20.09.2018 975,00 € Az: 0262.0-12-0274
+- TOP 2.8.: (E) Budget der Bezirksausschüsse Initiative Sunday Assembly - bfg München Veranstaltungen zum Austausch vom 16.09.2018 bis 21.07.2019 2.500,00 € Az: 0262.0-12-0276
+- TOP 2.9.: (E) Mehr Polizeipräsenz im Bereich der Flüchtlingsunterkünfte und in der Heidemannstraße
+- TOP 2.10.: (E) Stadtbezirksbudget Initiatve "TTT: Texte, Töne, Temperamente" Veranstaltung in der Reihe:Texte und Töne am 28.09.2018 610,00 Euro Az.: 0262.0-12-0277
+- TOP 2.11.: (E) Stadtbezirksbudget Theater Grenzenlos e.V. Theaterstück "Das Zimmer nebenan" von Oktober 2018 - Juli 2019 7.500,00 Euro Az.: 0262.0-12-0275
+- TOP 2.12.: (E) Stadtbezirksbudget BetweenArt&People e.V. Konzert am 07.09.2018 750,00 Euro Az.: 0262.0-12-0272
+- TOP 3.: Anhörungen
+- TOP 3.1.: München Marathon am 14.10.2018 und Trachtenlauf am 13.10.2018
+- TOP 3.2.: Spielplatz am Adam-Erminger-Platz, BA-Antrag Nr. 14-20 / B 05102 vom 17.07.2018
+- TOP 3.3.: 18.jetzt – Fest junger Erwachsener im Rathaus am 13. Oktober 2018
+- TOP 3.4.: Münchner Freiheit Regsam-Veranstaltung am 17.10.2018
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Einrichtung eines Baumgräberfeldes am Nordfriedhof, bezugnehmend auf den BA-Antrag 14-20 / B 04474 vom 23.01.2018
+- TOP 5.1.2.: Kita am Kiefernwald, BV-Anfrage Nr. 14-20 / Q 00535 vom 12.06.2018
+- TOP 5.1.3.: Schachbretter auf der Münchner Freiheit sanieren
+- TOP 5.2.1.: Feilitzschstraße 12
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Errichtung einer Helmut-Dietl-Statue, Referatsschreiben
+- TOP 5.3.2.: Stadtbezirksbudget für München, Information über die Beschlussfassung im Stadtrat
+- TOP 5.3.3.: Sachbericht zum Projekt „Kinder treffen Künstler 2018“
+- TOP 5.3.4.: Sachbericht zum Sommerfest der Seidlvilla am Samstag den 21. Juli 2018
+- TOP 5.3.5.: Verwendungsnachweise über gewährte Budgetmittel
+- TOP 5.3.6.: Sachbericht „Graffiti an der Münchner“, 29.06. - 30.06.2018
+- TOP 5.3.7.: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP 5.3.8.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP 5.3.9.: Genehmigungsbescheid für das Streetlife Festival / Corso Leopold am 08.09 und 09.09.2018 zwischen Odeonsplatz und Münchner Freiheit
+- TOP 5.3.10.: Erlaubnisbescheid „Play me, I&#039;m yours“ vom 07.09. bis 23.09.2018 Mohr-Villa Freimann
+- TOP 5.3.11.: Dienststellenverständigung, Oskar-von-Miller-Gymnasium (Siegfriedstraße 22, Auslagerung in den Pavillon Ungererstraße 191
+- TOP 5.3.12.: Play me I&#039;m yours, Ablehnung der Zuwendungsbewilligung des BA 12
+- TOP 5.3.13.: (U) Trägerauswahlvergabe für die Trägerschaft des Förderprogramms "Opstapje"
+- TOP 5.3.14.: Fritz-Winter-Straße, Mobilitätsfest im Domagpark am 22.09.2018, Eilentscheidung des Vorsitzenden
+- TOP D.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Harnierplatz in Freimann (Initiative: Werner Lederer-Piloty)
+- TOP 1.2.: Planung öffentlicher Freiräume
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Rheinlandstraße 4a – 4b, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.1.2.: Libellenstraße 1, 1 Ahorn, 1 Esche
+- TOP 3.1.3.: Georg-Muche-Straße, Neubau Bürogebäude mit Tiefgarage und kultureller Nutzung
+- TOP 3.1.4.: Clemensstraße 33, Neubau eines Wohngebäudes (80WE) mit Tiefgarage - VORBESCHEID
+- TOP 3.1.5.: Heidemannstraße 50, Teilabbruch Gebäude 14, ehemalige Bayernkaserne
+- TOP 3.1.6.: Kieferngartenstraße 31, Neubau eines Doppelhauses (3 WE) mit Doppelparker und Carport – hier: Haus 1 (2WE)
+- TOP 3.1.7.: Kieferngartenstraße 31, Neubau eines Doppelhauses (3 WE) mit Doppelparker und Carport – hier: Haus 2 (2WE)
+- TOP 3.1.8.: Luxemburger Straße 2-4, Abbruch zweier Wohngebäude + Garagenhof, Neubau eines Wohngebäudes (87 WE, 2 GE) mit Tiefgarage, vertagt aus der Sitzung am 21.08.2018
+- TOP 3.1.9.: Werner-Egk-Bogen 79
+- TOP 3.1.10.: Rohmederstraße 23, 1 Hainbuche
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Wallnerstraße 6a, Neubau eines Mehrfamilienhauses (19WE) mit Tiefgarage
+- TOP 3.2.2.: Soxhletstraße 6, Ungererstraße 65, Änderung der Denkmalliste, hier: Nachtrag der Wohnanlage Orpheus und Eurydike in die Denkmalliste
+- TOP 3.2.3.: Mehr temporäre Zwischennutzungen und Freischankflächen
+- TOP 3.2.4.: Ungererstraße 19, Änderung der Denkmalliste, hier: Nachtrag eines Wohn- und Geschäftshauses („Fuchsbau“) in die Denkmalliste
+- TOP 3.2.5.: Leopoldstraße 155-159, Sanierung und Erweiterung
+- TOP 3.2.6.: Sitzungsvorlage, Einrichtung und Ausschreibung von zwei Nachbarschaftstreffs in der SEM Bayernkaserne
+- TOP 3.2.7.: Neue Sitzgelegenheiten an öffentlichen Plätzen im 12. Stadtbezirk
+- TOP 3.2.8.: Bauleitplanung der Gemeinde Ismaning - BP Nr. 153 - östlich der Aschheimer Straße
+- TOP 3.2.9.: Franz-Joseph-Straße 14, Umbau eines historischen Rückgebäudes und Errichtung einer Tiefgarage anstelle eines weiteren Rückgebäudes - VORBESCHEID
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Neues Parkhaus westlich der Tram 23, Neuer Discounter, Anfrage Nr. 14-20 / Q 00558 der BV vom 12.07.2018
+- TOP 5.1.2.: Neubau Studentenwohnheim Gertrud-Grunow-Straße, Anfrage Nr. 14-20 / Q 00557 der BV vom 12.07.2018
+- TOP 5.2.1.: Osterwaldstraße 105
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
