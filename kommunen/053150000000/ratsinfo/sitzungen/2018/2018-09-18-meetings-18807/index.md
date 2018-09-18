@@ -1,0 +1,79 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-18T16:00:00+02:00
+- Ende: 2018-09-18T18:46:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18807
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18807
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00681068.pdf
+- Ergebnisprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00681068.pdf
+- Wortprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00681068.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: kommunale Maßnahmen zur Luftreinhaltung - Sache ist erledigt
+- TOP 1.1.1: Kommunale Maßnahmen zur Luftreinhaltung - Kenntnis genommen
+- TOP 1.2: Gräber von Max Reichpietsch und Albin Köbis - Sache ist erledigt
+- TOP 1.2.1: Anfrage der Fraktionen SPD und Die Linke im Ausschuss Umwelt und Grün am 24.04.2018 (AN/0592/2018) zu den Gräbern Max Reichpietsch und Albin Köbis - Kenntnis genommen
+- TOP 1.3: Atomkraftwerke in Tihange und Doel - zurückgestellt
+- TOP 1.3.1: Atomkraftwerke in Tihange und Doel - zurückgestellt
+- TOP 1.4: Umweltauswirkungen des möglichen U-Bahn-Baus - Sache ist erledigt
+- TOP 1.4.1: Umweltauswirkungen des möglichen U-Bahn-Baus - Kenntnis genommen
+- TOP 1.5: Wie kann das Plastikmüll-Problem auf dem Christopher Street Day in Köln gelöst werden? - zurückgestellt
+- TOP 1.6: Mikroplastik in unseren Gewässern – Kann eine Geschwemmselanlage für den Rhein helfen? - zurückgestellt
+- TOP 1.7: Anfrage der SPD-FraktionVerwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.8: Anfrage der Fraktion Die Linke betreffend Ist Braunkohleverbrennung in Köln verzichtbar? - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Zuschuss zum "Tag des guten Lebens" - ohne Votum in nachfolgende Gremien
+- TOP 3.2: Stadtradeln 2018 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Umweltbildungskonzept der Stadt Köln - ungeändert empfohlen
+- TOP 4.2: Gestaltungsplanung für ein Kooperationsfeld auf dem Friedhof Köln-Weiß - ungeändert beschlossen
+- TOP 4.3: Stadtklima-/ Stadtverschönerungsprogramm 2017/2018 - Bezirksvertretung Lindenthal - ungeändert beschlossen
+- TOP 4.4: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 4.5: Entwicklung einer Beteiligungskultur für Köln - ungeändert empfohlen
+- TOP 4.6: Abfallwirtschaftskonzept der Stadt Köln - zurückgestellt
+- TOP 4.7: Sanierung Orangerie im Volksgarten - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Zustimmung zur Konzeption zur Realisierung des Gedenkorts Deportationslager Köln-Müngersdorf - ungeändert empfohlen
+- TOP 4.9: Annahmen einer Schenkung - Blitzwarnanlage - ungeändert empfohlen
+- TOP 4.10: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ohne Votum in nachfolgende Gremien
+- TOP 4.11: Änderung der Statuten des Umweltschutzpreises der Stadt Köln - ungeändert empfohlen
+- TOP 4.12: Innerer Grüngürtel in Köln-Nippes - ungeändert empfohlen
+- TOP 4.13: Gestaltungsplanung für die Erweiterung des Kooperationsgräberfeldes auf dem Friedhof Wahn - ungeändert beschlossen
+- TOP 4.14: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 4.15: Wahl der Vertreter des Rates in der Jurysitzung des Umweltschutzpreises der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.16: Stadtverschönerungsmittel des Stadtbezirkes Lindenthal für die Jahre 2017/2018 - zurückgestellt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 5.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - ohne Votum in nachfolgende Gremien
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.2: Sachstand Kunstrasenplatzprogramm - Kenntnis genommen
+- TOP 7.3: Mitteilung der Verwaltung; hier: Gesamtübersicht der Planungen für die Universität zu Köln - Kenntnis genommen
+- TOP 7.4: Qualifizierungsverfahren "Blaue Funken"/Sachsenturm (Blaue Funken-Weg 2), Köln-Innenstadt - Kenntnis genommen
+- TOP 7.5: Planfeststellungsverfahren für den Bau und den Betrieb des Retentionsraums Worringen - Planänderung - Kenntnis genommen
+- TOP 7.6: Verbraucherberatungsstelle Köln: Jahresbericht 2017 - Kenntnis genommen
+- TOP 7.7: Aktueller Sachstand zur Umsetzung der "Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung" - Kenntnis genommen
+- TOP 7.8: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen - Kenntnis genommen
+- TOP 7.9: Stadtentwässerungsbetriebe Köln, AöR - Kenntnis genommen
+- TOP 7.10: Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage - Kenntnis genommen
+- TOP 7.11: Lärmaktionsplan vom Dezember 2017: Umsetzungsstand der nachrichtlich übernommenen Einzelmaßnahmen - Kenntnis genommen
+- TOP 7.12: Green City Masterplan - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Beantwortung der mündlichen Anfragen im Ausschuss Umwelt und Grün am 29.05.2018 zu TOP 4.1 - Ersatzbeschaffung von 3 LKW 18 t mit Ladekran im Bereich "Stadtgrün" - Kenntnis genommen
+- TOP 8.2: Leitprojekt Köln aufräumen, Dezernat Stadtentwicklung, Planen und Bauen - Kenntnis genommen
+- TOP 8.3: Asphaltierung von Fuß- und Radwegen im Äußeren Grüngürtel - Kenntnis genommen
+- TOP 8.4: Neue Kölner Statistik 2/2018 - Kraftfahrzeuge 1038/2018 hier: Niederschrift der Sitzung des Ausschusses Umwelt und Grün vom 29.05.2018, TOP 7.2 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Kalkberg
+- TOP 9.2: NSG Godorfer Hafen
+- TOP 9.3: NSG Hornpottweg
