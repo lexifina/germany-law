@@ -1,0 +1,28 @@
+# Gesamtstädtische Voruntersuchung zum Einsatz von Sozialen Erhaltungssatzungen
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-DS-05896
+- Art: Beschlussvorlage
+- Datum: 2018-09-19
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1009817
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a2ffd2c66dc3b52ff465f
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c09666f2c66dc3b52a91a2c
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c089fc12c66dc3b525d9c3a https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a21d2
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c089fd72c66dc3b525df027 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0fbb
+- Beratung: Beschlussfassung https://oparl.politik-bei-uns.de/meeting/5c08a00a2c66dc3b525e5b3c https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a0f82c66dc3b5260a38b https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a106d
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a1312c66dc3b526110b0 https://oparl.politik-bei-uns.de/organization/5c089ec92c66dc3b525a0e0d
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2432c66dc3b5262c40c https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a1014
+- Beratung: Anhörung https://oparl.politik-bei-uns.de/meeting/5c08a2472c66dc3b5262d4d2 https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a221d
+- Beratung: Bestätigung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12fc
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089eda2c66dc3b525a1e07
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089eda2c66dc3b525a1e07
