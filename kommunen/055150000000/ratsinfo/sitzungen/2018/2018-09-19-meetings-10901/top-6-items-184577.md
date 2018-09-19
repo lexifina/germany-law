@@ -1,0 +1,8 @@
+# TOP 6: Beantragung und Bewilligung von Zuwendungsmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2019
+
+- Sitzung: 34. Sitzung (2018-09-19)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/184577
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/67003
