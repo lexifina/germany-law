@@ -1,0 +1,85 @@
+# 33. Sitzung (Einbringung Haushalt 2019)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-09-19T17:46:00+02:00
+- Ende: 2018-09-19T23:39:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10902
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10902
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00429143.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Analyse zur Bemessung einer bedarfsgerechten Personalstärke für das Ordnungsamt
+- TOP 1.2: Konzepte gegen die Vermüllung, Beschallung, Belästigung von Anwohnern am Aasee
+- TOP 1.3: Wie können auf kommunale Initiative hin in Seenot gerettete Menschen in Münster aufgenommen werden?
+- TOP 2: Aktuelle Stunde
+- TOP 2.1: Fischsterben am Aasee
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Untersuchung über das Vorkommen von multiresistenten Keimen im Stadtbezirk Hiltrup - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2019 - einstimmig beschlossen
+- TOP 11: Europäische Charta für die Gleichstellung von Männern und Frauen auf lokaler und regionaler Ebene - 3. Aktionsplan 18/20 - mehrheitlich beschlossen
+- TOP 12: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 13: Satzung zur Änderung der Hauptsatzung - Satzung zur Änderung der Betriebssatzung citeq - Änderung der Zuständigkeitsordnung - einstimmig geändert beschlossen
+- TOP 13.1: Satzung zur Änderung der Hauptsatzung - Satzung zur Änderung der Betriebssatzung citeq - Änderung der Zuständigkeitsordnung
+- TOP 14: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2018 - zur Kenntnis genommen
+- TOP 15: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH zum 01.01.2019 - mehrheitlich beschlossen
+- TOP 16: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 17: Verwendung der Fördermittel nach § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein - Westfalen (ÖPNVG NRW) für das Jahr 2017 - zur Kenntnis genommen
+- TOP 18: Perspektiven der Friedenskultur und –arbeit in Münster weiterentwickeln! - zur Kenntnis genommen
+- TOP 19: Bürgerumfrage 2018: Ergebnisse zum Fragenkomplex "Bürgerinnen- und Bürgerbeteiligung" - zur Kenntnis genommen
+- TOP 20: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - Vorlage eingebracht
+- TOP 21: Verlängerung "Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte" - mehrheitlich beschlossen
+- TOP 22: Errichtungsbeschlüsse für Kindertageseinrichtungen
+- TOP 22.1: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Nordkirchenweg in Münster-Hiltrup zur Versorgung von Bedarfen in Hiltrup und Mitte - mehrheitlich beschlossen
+- TOP 22.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung südlich des Nottulner Landwegs in Münster Roxel - mehrheitlich beschlossen
+- TOP 22.3: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Ermlandweg in Kinderhaus zur Versorgung von Bedarfen in Kinderhaus und Mitte - mehrheitlich beschlossen
+- TOP 22.4: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Meckmannweg in Mecklenbeck - mehrheitlich beschlossen
+- TOP 22.5: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung: Errichtungs- und Baubeschluss für einen 2 - Gruppen - Pavillon am Holunderweg in Sprakel - mehrheitlich beschlossen
+- TOP 23: Richtlinien für die Förderung von Aktivitäten und Projekten im Bereich "Inklusion - Teilhabe und politische Partizipation von Menschen mit Behinderung in Münster stärken" - einstimmig beschlossen
+- TOP 24: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2018 - 2021 - mehrheitlich beschlossen
+- TOP 25: Verlagerung des Vereins TSV Handorf 1926/64 e. V. von der städtischen Sportanlage Heriburgstraße zur neu zu errichtenden städtischen Sportanlage Hobbeltstraße - einstimmig beschlossen
+- TOP 26: Dauer der Tätigkeit als Ombudsperson und das Verfahren zur Wiederbesetzung, sowie die Neubesetzung der freien Position in der Ombudsstelle - einstimmig beschlossen
+- TOP 27: Neubau einer 2-zügigen Grundschule mit Mensa für das Schulzentrum Kinderhaus - Ergebnis des Wettbewerbs und des Vergabeverfahrens für die Architekten- und Landschaftsarchitektenleistunge - einstimmig beschlossen
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Münster-Mitte
+- TOP 28.1.1: Bebauungsplan Nr. 598 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28.2: Stadtbezirk Münster-West
+- TOP 28.2.1: Bebauungsplan Nr. 268, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 28.2.2: Bebauungsplan Nr. 312, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 28.2.3: Bebauungsplan Nr. 323, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 28.3: Stadtbezirk Münster-Nord
+- TOP 28.3.1: Bebauungsplan Nr. 134 Teilabschnitt II (Neufassung), vorhabenbezogene 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 29.1: Resolution des Rates der Stadt Münster "Münsterland S-Bahn: Für die Menschen, die Wirtschaft und die Umwelt braucht die Region ein leistungsfähiges Schnellbahn-System." - mehrheitlich beschlossen
+- TOP 29.2: Ein Signal für eine humanitäre Geflüchtetenpolitik – Solidarität mit den europäischen Nachbarn: Münster nimmt 100 aus Seenot gerettete Geflüchtete freiwillig auf - mehrheitlich geändert beschlossen
+- TOP 29.3: Seebrücke nach Münster!
+- TOP 29.4: „Talentschule“ nach Münster holen - mehrheitlich abgelehnt
+- TOP 29.5: Transparenz durch Bürgerbeteiligung – Flächennutzungsplanverfahren für die ZUE durchführen - mehrheitlich beschlossen
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 30.1: Weiterentwicklung eines einheitlichen „Münsterland-Azubi-Tickets“ - verwiesen
+- TOP 30.2: Studentisches Wohnen konkret unterstützen - verwiesen
+- TOP 30.3: Wohnen am Gasometer - verwiesen
+- TOP 30.4: Ein Denkmal für den Frieden in der Friedensstadt - verwiesen
+- TOP 30.5: Fahrradnutzung bei Beschäftigten steigern - mit dem Dienstfahrrad zur Arbeit - verwiesen
+- TOP 30.6: Planungen zum Ausbau der Autobahnrastanlagen Münsterland-Ost/West hinterfragen - verwiesen
+- TOP 30.7: Grundsteuer reformieren - Steueraufkommen sichern - Belastungen minimieren - verwiesen
+- TOP 30.8: Arbeiten und Wohnen an einem Ort koordinieren - verwiesen
+- TOP 30.9: G9 konsequent umsetzen - verwiesen
+- TOP 30.10: Konzept für extreme Umweltereignisse - verwiesen
+- TOP 31: Vorstand der Fachklinik Hornheide e. V. - Vertretung der Stadt Münster - - einstimmig beschlossen
+- TOP 32: Neubenennung für die Ausschüsse der Deutschen Sektion des Rates der Gemeinden und Regionen Europas - einstimmig beschlossen
+- TOP 33: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 34: Fördermaßnahme: Sanierung kommunaler Einrichtungen 2018 im Förderbereich Projektaufruf 2018 SJK II - einstimmig beschlossen
+- TOP 35: Verschiedenes
