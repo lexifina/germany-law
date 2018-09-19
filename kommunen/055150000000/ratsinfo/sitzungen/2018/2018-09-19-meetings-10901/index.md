@@ -1,0 +1,67 @@
+# 34. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-09-19T17:07:00+02:00
+- Ende: 2018-09-19T22:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10901
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10901
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00429167.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Bearbeitungsstand der Ratsanträge - 2. Halbjahr 2018 - zur Kenntnis genommen
+- TOP 2.2: "Das Lichtfest Luminale nach Münster holen" - mehrheitlich beschlossen
+- TOP 3: Externe Raumvergaben Rathausfestsaal/Rüstkammer - einstimmig beschlossen
+- TOP 3.1: Externe Raumvergaben Rathausfestsaal/Rüstkammer
+- TOP 4: Jahresabschlüsse von Gesellschaften
+- TOP 4.1: Jahresabschluss 2017 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 4.2: Jahresabschluss 2017 der Wohn + Stadtbau GmbH (W+S) - mehrheitlich beschlossen
+- TOP 4.3: Jahresabschluss 2017 der Theaterhaus Pumpenhaus gGmbH - mehrheitlich beschlossen
+- TOP 4.4: Jahresabschluss 2017 der GML Gewerbepark Münster-Loddenheide GmbH (GML GmbH) - einstimmig beschlossen
+- TOP 4.5: Wirtschaftsförderung Münster GmbH: Jahresabschluss 2017 incl. der Feststellung nicht verbrauchter Kapitaleinlagen im Geschäftsjahr 2017 und Rückgewährung - einstimmig beschlossen
+- TOP 4.6: Konzernabschluss 2017 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 5: Mosaik-Schule - einstimmig beschlossen
+- TOP 5.1: Mosaik-Schule
+- TOP 6: Beantragung und Bewilligung von Zuwendungsmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2019 - mehrheitlich beschlossen
+- TOP 7: Zwischenbericht zur Haushaltswirtschaft - Finanzbericht 2. Quartal 2018 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Europäische Charta für die Gleichstellung von Männern und Frauen auf lokaler und regionaler Ebene - 3. Aktionsplan 18/20 - einstimmig beschlossen
+- TOP 9: Anhörung zur Bestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 10: Satzung zur Änderung der Hauptsatzung - Satzung zur Änderung der Betriebssatzung citeq - Änderung der Zuständigkeitsordnung - einstimmig geändert beschlossen
+- TOP 10.1: Satzung zur Änderung der Hauptsatzung - Satzung zur Änderung der Betriebssatzung citeq - Änderung der Zuständigkeitsordnung
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2018 - zur Kenntnis genommen
+- TOP 12: Änderung des Tarifes für die Wasserversorgung der Stadtwerke Münster GmbH zum 01.01.2019 - mehrheitlich beschlossen
+- TOP 13: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 14: Verwendung der Fördermittel nach § 11 Abs. 2 und § 11 a des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein - Westfalen (ÖPNVG NRW) für das Jahr 2017 - zur Kenntnis genommen
+- TOP 15: Perspektiven der Friedenskultur und –arbeit in Münster weiterentwickeln! - zur Kenntnis genommen
+- TOP 16: Bürgerumfrage 2018: Ergebnisse zum Fragenkomplex "Bürgerinnen- und Bürgerbeteiligung" - zur Kenntnis genommen
+- TOP 17: Verlängerung "Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte" - ohne Beschlussfassung geschoben
+- TOP 18: Errichtungsbeschlüsse für Kindertageseinrichtungen
+- TOP 18.1: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Nordkirchenweg in Münster-Hiltrup zur Versorgung von Bedarfen in Hiltrup und Mitte - ohne Beschlussfassung geschoben
+- TOP 18.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung südlich des Nottulner Landwegs in Münster Roxel - ohne Beschlussfassung geschoben
+- TOP 18.3: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Ermlandweg in Kinderhaus zur Versorgung von Bedarfen in Kinderhaus und Mitte - ohne Beschlussfassung geschoben
+- TOP 18.4: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Meckmannweg in Mecklenbeck - ohne Beschlussfassung geschoben
+- TOP 18.5: Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung: Errichtungs- und Baubeschluss für einen 2 - Gruppen - Pavillon am Holunderweg in Sprakel - ohne Beschlussfassung geschoben
+- TOP 19: Richtlinien für die Förderung von Aktivitäten und Projekten im Bereich "Inklusion - Teilhabe und politische Partizipation von Menschen mit Behinderung in Münster stärken" - einstimmig beschlossen
+- TOP 20: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2018 - 2021 - mehrheitlich beschlossen
+- TOP 21: Verlagerung des Vereins TSV Handorf 1926/64 e. V. von der städtischen Sportanlage Heriburgstraße zur neu zu errichtenden städtischen Sportanlage Hobbeltstraße - einstimmig beschlossen
+- TOP 22: Dauer der Tätigkeit als Ombudsperson und das Verfahren zur Wiederbesetzung, sowie die Neubesetzung der freien Position in der Ombudsstelle - einstimmig beschlossen
+- TOP 23: Neubau einer 2-zügigen Grundschule mit Mensa für das Schulzentrum Kinderhaus - Ergebnis des Wettbewerbs und des Vergabeverfahrens für die Architekten- und Landschaftsarchitektenleistunge - einstimmig beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Mitte
+- TOP 24.1.1: Bebauungsplan Nr. 598 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.2: Stadtbezirk West
+- TOP 24.2.1: Bebauungsplan Nr. 268, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 24.2.2: Bebauungsplan Nr. 312, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 24.2.3: Bebauungsplan Nr. 323, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Nord
+- TOP 24.3.1: Bebauungsplan Nr. 134 Teilabschnitt II (Neufassung), vorhabenbezogene 2. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 25: Fördermaßnahme: Sanierung kommunaler Einrichtungen 2018 im Förderbereich Projektaufruf 2018 SJK II - einstimmig beschlossen
+- TOP 26: Verschiedenes
