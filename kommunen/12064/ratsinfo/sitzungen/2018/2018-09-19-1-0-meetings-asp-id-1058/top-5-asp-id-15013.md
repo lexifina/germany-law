@@ -1,0 +1,6 @@
+# TOP 5: Tagesordnungspunkte für den öffentlichen Teil der Kreistagssitzung am 17.10.2018
+
+- Sitzung: 29. Sitzung des Kreisausschusses (2018-09-19)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=15013
