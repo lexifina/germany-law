@@ -1,0 +1,143 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2018-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4718789
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4718789
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Bildungsausschusses des Stadtrats vom 04.07.18:
+- TOP 10.2: Beschluss der Vollversammlung des Stadtrates vom 25.07.18:
+- TOP 10.3: Beschluss des Bildungsausschusses und des Kinder- und Jugendausschusses in der gemeinsamen Sitzung am 18.09.18:
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Verunreinigung/Verwahrlosung des Bereichs der Parkanlage an der Wiesentfelserstraße
+- TOP 2.1.2.: Straßenbeleuchtung und nächtliche Geschwindigkeitsmessungen in der Goteboldstraße
+- TOP 2.1.3.: Parksituation Toni-Berger-Straße
+- TOP 2.1.4.: Güterzüge in der Leienfelsstraße, Schallschutz, vermehrter Flugverkehr
+- TOP 2.1.5.: Fragen zur Überquerung der Bodenseestraße und generellen Aufwertung des Aufseßer Platzes
+- TOP 2.1.6.: Bank am Westkreuz
+- TOP 2.1.7.: Umlaufsperren an den Zufahrten zum Langwieder- und Lusssee
+- TOP 2.1.8.: Wertstoffinsel Freiham-Süd
+- TOP 2.1.9.: Friedhof für Freiham
+- TOP 2.1.10.: Bautätigkeit Georg-Böhmer-Str. 1
+- TOP 2.1.11.: Einrichtung eines Bürgersteigs Am Langwieder Bach
+- TOP 2.1.12.: Arbeiterwohnheim in der Bergsonstr. 172 genehmigt?
+- TOP 2.1.13.: Schwerlaster durch die Pirolstraße
+- TOP 2.1.14.: Lärmbelästigung durch die Firma Aichach GmbH in der Kronwinkler Str. 35 - Beschwerde und Antwort auf E-Mail RGU (siehe Antwort RGU unter TOP 6.4.2.13)
+- TOP 2.1.15.: Erhaltung der Artenvielfalt Dreilingsweg 47
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Maintalstr. 13 - Neideckstr. 69 - Plankenfelser Str .18 - Kravogelstr. 45 - Schussenrieder Str. 12 - Bergsonstr. 163 - Pirolstr. 6 - Teckstr. 17 - Erlbachstr. 1 N - Bodenseestr. 298 d-e N - Grafrather Str. 7 N - Schussenrieder Str. 7 N - Am Loferfeld 16
+- TOP 3.1.2.: Entfernung von Gefahrenbäume: Langenburgstraße, Schr. Baureferat vom 10.08.18
+- TOP 3.1.3.: Genehmigung Baumfällung: - Limesstr. 15, Schr. Referat für Stadtplanung und Bauordnung vom 16.08.18 N - Schussenrieder Str. 12f, Schr. Referat für Stadtplanung und Bauordnung vom 11.09.18
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Schutzzonen für Wildbienen (Herbert Forster)
+- TOP 4.3.: Viergleisiger Ausbau der S-Bahnstrecke S4-West (Fr. Mosch, Fr. Binsteiner, Fr. Ney)
+- TOP 4.4.: Geschäftsgebiet für MVG Rad ausweiten (Hr. Kriesel, Hr. Umseher, Hr. Schrader)
+- TOP 4.5.: Neuerrichtung eines multifunktionalen Versammlungsraums in Lochhausen (Hr. Umseher, Hr. Kriesel, Hr. Schrader)
+- TOP 5.1.: (E) Stadtbezirksbudget : "Arbeitskreis Langwied Lochhausen historisch" Ausstellung von Weihnachtskrippen am 24. und 25.11.2018, 825,00 € Az: 0262.0-22-0108
+- TOP 5.2.: (E) Stadtbezirksbudget: Münchner Volkshochschule GmbH, Projekt "Fotodokumentation Freiham" von Oktober 2018 - März 2019, 1.530,00 Euro Az.: 0262.0-22-0106
+- TOP 5.3.: (E) Stadtbezirksbudget: FAuWE Ehrenbürgstr. e.V., Ateliertage "offen für alle" vom 12.10. bis 14.10.2018, 435,00 € Az: 0262.0-22-0105
+- TOP 5.4.: (E) Stadtbezirksbudget: Regsam e.V. - Spielaktionen für Kinder und Jugendliche vom 27.10. - 02.11.2018, 2.600,00 Euro Az.: 0262.0-22-0109
+- TOP 6.1.1.1.: Veranstaltung auf öffentlichen Verkehrsgrund: Tag der Jugend - Freiwillige Feuerwehr Aubing am 06.10.18, Ubostr. 11, Anhörung KVR vom 22.08.18
+- TOP 6.1.1.2.: Ehemaliges Zwangsarbeiterlager Neuaubing: Ausstellungs-, Vermittlungs- und Betriebskonzept für eine Dependance des NS-Dokumentationszentrums München, Anhörung Kulturreferat vom 24.08.18
+- TOP 6.1.2.1.: Freies W-LAN in den städtischen Unterkünften im BA 22, Schr. Sozialreferat vom 03.08.18
+- TOP 6.1.2.2.: Amtshilfe: Ausnahmegenehmigung der Landeshauptstadt München für Tätigwerden eines Landratsamtes z.B. bei Umschreibung eines Führerscheins, Schr. KVR vom 13.08.18
+- TOP 6.1.2.3.: Probleme in der Wiesentfelser Straße, Schr. KVR vom 22.08.18
+- TOP 6.1.2.4.: Ausnahmegenehmigung für Filmaufnahmen am Parkplatz Langwieder Seenplatte (auf Höhe Goteboldstr. 215) am 05.09.18- 06.09.18 und 29.08.18-01.09.18, Schr. KVR vom 03.09.18 und 27.08.18
+- TOP 6.1.2.5.: Veranstaltungsübersicht September 2018, Schr. Kulturreferat vom 05.09.18
+- TOP 6.1.2.6.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" - Bürgerbeteiligung in den Stadtvierteln, Schr. Referat für Stadtplanung und Bauordnung vom 29.08.18
+- TOP 6.1.2.7.: Stadtteilwochen im 22. Stadtbezirk, einen Erfolg wiederholen, Schr. Kulturreferat vom 05.09.18
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Verkehrsrechtliche Anordnung; hier: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen: - Limesstr. (Grundschule Haus Nr. 38), Anhörung KVR vom 09.08.18
+- TOP 6.3.1.2.: Erinnerungsverfahren, hier: Limesstraße / Hohensteinstraße, Gehbahn, Anhörung Baureferat vom 09.08.18
+- TOP 6.3.1.3.: Neubau einer Lichtsignalanlage Aubinger- /Stockacher Stra0ße, Anhörung KVR vom 08.08.18
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Gestaltung der Unterführungen im Bereich Freiham Süd, Schr. Baureferat vom 01.08.18
+- TOP 6.3.2.2.: Verkehrsrechtliche Anordnung: - Wiesentfelser Straße: Einrichtung eines Haltverbots, Schr. KVR vom 12.07.18
+- TOP 6.3.2.3.: 2-jähriger Versuch Dialog-Displays, Schr. KVR vom 02.08.18
+- TOP 6.3.2.4.: Lösungen, wie man Raser in einer 30er-Zone ausbremst, Schr. KVR vom 06.08.18
+- TOP 6.3.2.5.: Keine Geschwindigkeitsbegrenzung in der Bergsonstraße im Ortsteil Aubing, Schr. KVR vom 08.08.18
+- TOP 6.3.2.6.: Parkplätze Bodenseestr. 238, Schr. Referat für Stadtplanung und Bauordnung vom 06.08.18
+- TOP 6.3.2.7.: Parksituation in der Streitbergstraße, Plankenfelser Straße - Verbot gewerblicher Transporter und LKW, nur PKW-Parken, Schr. KVR vom 08.08.18
+- TOP 6.3.2.8.: Einrichtung eines Kreisverkehrs am Heizkraftwerk Freiham, Schr. KVR vom 31.07.18
+- TOP 6.3.2.9.: Sachstandsbericht Ausbau Staatsstraße 2345 zwischen Lochhausen und Gröbenzell, Schr. Baureferat vom 09.08.18
+- TOP 6.3.2.10.: Bahnschranke Hellensteinstraße, Schr. Ref. f. Arbeit u. Wirtschaft vom 08.08.18
+- TOP 6.3.2.11.: Beschilderung Wochenmarkt Aubing-Ost, Schr. Markthallen München vom 03.09.18
+- TOP 6.3.2.12.: Montagemitteilung: Straßennamenerläuterungsschilder für Ellis-Kaut-Straße, Hans-Clarin-Weg und Gustl-Bayrhammer-Straße, Schr. Kommunalreferat vom 03.09.18
+- TOP 6.3.2.13.: Haltverbote in der Asmarstraße, Schr. KVR vom 06.09.18
+- TOP 6.3.2.14.: Parken am Aubinger Feld, Vorschläge zur Verbesserung der Barrierefreiheit im Stadtviertel - Projekt "Auf Herz und Rampe prüfen" in der Grundschule an der Gustl-Bayrhammer-Straße, Schr. KVR vom 05.09.18
+- TOP 6.3.2.15.: Erhöhtes Verkehrsaufkommen auf dem Streiflacher Weg, Schr. RGU vom 12.09.18
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Altostr. 35: Wohnungsbau-Konzept für 3 zusammengefügte Grundstücke - Vorbescheid, Anhörung Referat für Stadtplanung und Bauordnung vom 31.07.18 (Vertagt aus 08/18)
+- TOP 6.4.1.2.: Köferinger Str. 11 - Neubau eines Doppelhauses (Haus 1 und 2) mit Duplexgarage und eines Einfamilienhauses mit Garage (Haus 3), Anhörung Referat für Stadtplanung und Bauordnung vom 23.08.18
+- TOP 6.4.1.3.: Tausch einer städtischen Immobilie: nähe Freihamer Weg; Moosschwaige - Flst. (Tlfl) 891, 892, (Tlfl) 3487, 3488, 3489, 3489/15, 3520, 3490, Anhörung Kommunalreferat vom 22.08.18
+- TOP 6.4.1.4.: Altostr. 56 - Anbau und Erweiterung einer Praxiseinheit, Abbruch Bestandsgebäude mit Garage, Anhörung Referat für Stadtplanung und Bauordnung vom 03.09.18
+- TOP 6.4.1.5.: Kravogelstr. 6 - Neubau zweier Doppelhäuser mit Garage und 3 Carports (DHH 1,2,3,4), Anhörung Referat für Stadtplanung und Bauordnung vom 04.09.18
+- TOP 6.4.1.6.: Containerstandplatz Wiesentfelser Str. 33, Anhörung Abfallwirtschaftsbetrieb vom 31.08.18
+- TOP 6.4.1.7.: Huttererstr. 14 - Neubau eines Doppelhauses und Doppelgarage, Anhörung Referat für Stadtplanung und Bauordnung vom 11.09.18
+- TOP 6.4.1.8.: Zwernitzer Str. 35 - Neubau eines Mehrfamilienhauses (6WE) mit 2 Duplexgaragen - Tektur, Anhörung Referat für Stadtplanung und Bauordnung vom 17.09.18
+- TOP 6.4.1.9.: Dietrichsteinstr. 44 - Aufstockung des Anbaus an einer DHH, Anhörung Referat für Stadtplanung und Bauordnung vom 18.09.18
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bebauung westlich der Grafrather Straße, Schr. Referat für Stadtplanung und Bauordnung vom 31.07.18
+- TOP 6.4.2.2.: Ersatzstandort für Bolzplatz auf Gebiet des Bebauungsplanes 2084 (Kleiberweg, Henschel- und Federseestr.), Schr. Referat für Stadtplanung und Bauordnung vom 24.07.18
+- TOP 6.4.2.3.: Feinstaubmanagement aufgrund Baustaub im 22. Stadtbezirk, Schr. Referat für Stadtplanung und Bauordnung vom 01.08.18
+- TOP 6.4.2.4.: Bauvorhaben im 22. Stadtbezirk: 23.07.-29.07.18, 30.07.-05.08.18, 06.08.-12.08.18, 13.08.-19.08.18, 20.08.-26.08.18, 27.08.-02.09.18
+- TOP 6.4.2.5.: Hans-Clarin-Weg / Freiham, Schr. Baureferat vom 10.08.18
+- TOP 6.4.2.6.: Baumaßnahmen der Stadtwerke München, Stichtag: 30.07.-10.08.18, 13.08.-27.08.18, N 27.08.-10.09.18
+- TOP 6.4.2.7.: Nutzung der kirchlichen Vorhaltefläche in Freiham, Schr. Planungsreferat vom 13.08.18
+- TOP 6.4.2.8.: Durchsetzung Richtlinien; Autohändler Bodenseestraße, Schr. Planungsreferat vom 13.07.18
+- TOP 6.4.2.9.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG): Anton-Böck-Str. 31 - Erweiterung eines bestehenden Druckgasflaschenlagers von 3t auf 6t, Antrag Fa. Merkle Schweißtechnik GmbH, Schr. RGU vom 14.08.18
+- TOP 6.4.2.10.: Bauvorhaben Freiham Nord, Baufeld WA 18 - Bauvorbereitung und Heckenrodung, Schr. GWG vom 03.09.18
+- TOP 6.4.2.11.: Verschmutzung des Böhmerweiher durch Reiter (ehem. BA-Antrag Nr. 14-20 / B 01314), Schr. Kommunalreferat vom 13.08.18
+- TOP 6.4.2.12.: Genossenschaften in Freiham - Was daraus wird?, Schr. Referat für Stadtplanung und Bauordnung vom 21.08.18
+- TOP 6.4.2.13.: Beschwerde zur Lärmbelästigung durch die Fa. Aichach GmbH in der Kronwinklerstr. 35, Schr. RGU vom 17.09.18 (siehe Bürgeranliegen TOP 2.1.14)
+- TOP 6.4.2.14.: Ruhestörung STP Aichach GmbH, Kronwinklerstr. 35, Schr. RGU vom 17.09.18
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mehr temporäre Zwischennutzungen und Freischankflächen, Anhörung KVR vom 13.08.18
+- TOP 7.2.: Anhörungsrecht für die Einrichtung von Elektroladestationen, Anhörung Direktorium vom 17.08.18
+- TOP 7.3.: Bildung der Bezirksausschüsse für die Amtsperiode 2020-2026; Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung, Anhörung Direktorium vom 17.08.18
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckenfremdung von Wohnraum: - Altenburgstraße, Schr. Sozialreferat vom 02.08.18 - Pretzfelder Str., Schr. Sozialreferat vom 08.08.18 - Schönbrunner Str., Schr. Sozialreferat vom 08.08.18 - Hellensteinstr., Schr. Sozialreferat vom 08.08.18 - Federseestr., Schr. Sozialreferat vom 04.09.18 - Wiesenthauer Str., Schr. Sozialreferat vom 13.08.18 N - Zwernitzer Str. 10, Schr. Sozialreferat vom 04.09.18
+- TOP 8.2.: Stadtbezirksbudget für München; Information über die Beschlussfassung im Stadtrat, Schr. Direktorium vom 10.08.18 (siehe auch Beschluss der Vollversammlung vom 25.07.18, Sitzungsvorlage Nr. 14-20 / V 12100)
+- TOP 8.3.: Offene Bücherschränke, Schr. Kreisverwaltungsreferat vom 06.08.18
+- TOP 8.4.: Unveränderte Fortführung des Gaststättenbetriebs: - Grill- und Mandelhütte, Ludwig-Koch-Str. 3, Schr. KVR vom 24.08.18
+- TOP 10.1.1.: (U) "kitabarometer" - Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 10.2.1.: (U) Konzeptausschreibung in Freiham Nord, 1. Realisierungsabschnitt, 1. Bauabschnitt Festlegung der Konditionen für Baugenossenschaften, Erneute Ausschreibung der Grundstücksflächen WA 2 Ost, WA 4 Süd, WA 5 (1) Süd, WA 9, WA 10, WA 12 Süd
+- TOP 10.2.2.: (U) München lebt Vielfalt - Interkultureller Integrationsbericht 2017
+- TOP 10.2.3.: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2019 ÖPNV-Erschließung für das Gewerbegebiet „Triebwerk“ in Neuaubing BA-Antrag Nr. 14-20 / B 04419 des Bezirksausschusses des 22. Stadtbezirks - Aubing – Lochhausen – Langwied vom 20.12.2017
+- TOP 10.3.1.: (U) Colmdorfstraße: Errichtung eines Hauses für Kinder mit 2 Krippen-, 2 Kindergarten- und 2 Hortgruppen an der Colmdorfstraße Mitte WA 3 22. Stadtbezirk - Aubing-Lochhausen-Langwied Genehmigung des Nutzerbedarfsprogramms
+- TOP 11.1.: Sitzungstermine 2019 des Bezirksausschusses 22
+- TOP 11.2.: Wichtige Informationen zu Ausschreibungen ab 18.10.18
+- TOP 11.3.: Atlas Wirtschaftsstandort München, Räumliche Analysen für Stadt und Region, Schr. Referat für Stadtplanung und Bauordnung vom 20.08.18 (Broschüre in der Umlaufmappe!)
+- TOP 11.4.: Bürgersprechstunde des Oberbürgermeisters am 25.10.18 von 18 - 20 Uhr in Aubing, Turnhalle der Mittelschule an der Reichenaustr. 3, 81243 München, Schr. Oberbürgermeister vom 04.09.18
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 17.10.18 im UBO 9, Ubostr. 9 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, den 10.09.18, 19.00 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Dienstag, den 11.09.18, 19.00 Uhr. Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, den 12.09.18, 19.00 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, den 13.09.18, 19.00 Uhr, Friedrichshafener Str. 11
