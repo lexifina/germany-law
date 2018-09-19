@@ -1,0 +1,61 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2018-09-19T17:00:00+02:00
+- Ende: 2018-09-19T19:30:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3810
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3810
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 11.07.2018 (öffentlicher Teil) - zurückgezogen
+- TOP 4: Neues Kurhaus - geändert beschlossen
+- TOP 5: Neufassung der Satzung der Stadt Aachen über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung);hier: notwendige redaktionelle Änderung
+- TOP 5.1: Neufassung der Satzung der Stadt Aachen über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen (Sondernutzungssatzung);hier: notwendige redaktionelle Änderung - ungeändert beschlossen
+- TOP 6: Änderung der Marktstandgebührensatzung für die städtischen Wochenmärkte - ungeändert beschlossen
+- TOP 7: Parkgebühren im öffentlichen Straßenraum - Anpassung infolge Luftreinhalteplanung - geändert beschlossen
+- TOP 8: Nahverkehrsplan: Änderung infolge Luftreinhalteplanung - zurückgezogen
+- TOP 9: OGS Petition der Arbeitsgemeinschaft der freien Jugendhilfeträger in der StädteRegion Aachen für die qualitative Verbesserung im Ganztag (verbindliche Qualitätsstandards, bessere Finanzierung, gesetzliche Regelung) - geändert beschlossen
+- TOP 10: Annahme einer Schenkung des Fördervereins der KGS Verlautenheide - zurückgezogen
+- TOP 11: 6. Nachtrag zur Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen im Gebiet der Stadt Aachen (Abfallwirtschaftssatzung)vom 10.12.2008 - ungeändert beschlossen
+- TOP 12: Digitale Modellregionen - ungeändert beschlossen
+- TOP 13: Entwurf des Gesamtabschlusses 2013 - ungeändert beschlossen
+- TOP 14: Entwurf Jahresabschluss 2017 der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Benennung von Ratsmitgliedern zur Teilnahme an der 13. Konferenz der Ratsmitglieder beim Städtetag NRW am 12.12.2018 in Köln - geändert beschlossen
+- TOP 16: Herstellung des Benehmens zur Festsetzung der allgemeinen Regionsumlage für das Jahr 2019 - ungeändert beschlossen
+- TOP 17: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 17.1: Über- und außerplanmäßige Mittelbereitstellunghier: Modernisierung des Biologieraumes 1 sowie des Biologie-Sammlungsraumes am Einhard-Gymnasium - ungeändert beschlossen
+- TOP 18: Ratsanfragen:
+- TOP 19: Ratsanfragen - ungeändert beschlossen
+- TOP 20: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 21: Ratsanträge - geändert beschlossen
+- TOP 22: Umlegungsausschuss - Wiederwahl und Wahl von Mitgliedern - ungeändert beschlossen
+- TOP 23: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 23.1: Umbesetzung von Ausschüssenhier Entsendung der Mitglieder des Seniorenrates der Stadt Aachen - ungeändert beschlossen
+- TOP 23.2: Bestellung des Mitgliedes des Aufsichtsrates der Grenzüberschreitendes Gewerbegebiet Aachen-Heerlen N.V. – GOB N.V. und der Avantis Services N.V. - ungeändert beschlossen
+- TOP 23.3: Umbesetzungsantrag der CDU-Fraktion vom 11.09.2018 - ungeändert beschlossen
+- TOP 23.4: Umbesetzungsanträge der GRÜNE-Fraktion vom 17.09.2018 - ungeändert beschlossen
+- TOP 24: Mitteilungen der Verwaltung
+- TOP 25: Bundesprogramm 'Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur' - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
