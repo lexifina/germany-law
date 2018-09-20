@@ -1,0 +1,91 @@
+# 32. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-20T17:00:00+02:00
+- Ende: 2018-09-20T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18849
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18849
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vereidigung eines neuen Mitglieds der Bezirksvertretung Nippes
+- TOP -: Vorstellung von Herrn POR Mielke als neuen Leiter der Polizeiinspektion NW
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragestunde auf Antrag von NiehlAktiv
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Parksituation Altbaumburgweg/Scharfeneckweg/Trifelsstraße/ Kropsburgweg (Az.: 02-1600-47/18) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsbehinderungen Merheimer Straße, Köln-Nippes (Az.: 02-1600-65/18) - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Aufteilung der Fußgänger- und Fahrrad-Rennstrecke am Niederländer Ufer (Az.: 02-1600-182/17) - geändert beschlossen
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Ordnungspolitik in Bezug auf das Anwohnerparken (Az.: 02-1600-26/18) - ungeändert beschlossen
+- TOP 2.5: Bürgereingabe gem. § 24 GO, betr.: Trennlinie beidseitiger Radweg Unterführung Geldernstraße/Parkgürtel (Az.: 02-1600-38/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Realisierung neuer Fahrgastunterstände an Bushaltestellen im Stadtgebiet - Kenntnis genommen
+- TOP 7.1.2: Kiosk Ortseinfahrt Mauenheim im Bereich zwischen Neusser Straße und Grüner Hof - Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Anfrage der SPD-Fraktion in der Bezirksvertretung Nippes am 21.06.2018 (AN/0951/2018) - Kenntnis genommen
+- TOP 7.1.5: Unterkunft für Geflüchtete in Niehl - Kenntnis genommen
+- TOP 7.1.6: Ausfälle im regulären Verkehrsbetrieb der Straßenbahnlinien 16 und 13 - Kenntnis genommen
+- TOP 7.1.7: AN/0568/2018; Wiederherrichten des Wasserspielplatzes Nippeser Tälchen, 1535/2018 - Kenntnis genommen
+- TOP 7.1.8: AN/0778/2018 Kleinkindgerechte Ausstattung der Spielplätze im Bereich Nippes: 1824/2018 - Kenntnis genommen
+- TOP 7.1.9: Parkraum an der Etzelstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Spielplatz Etzelstraße - Kenntnis genommen
+- TOP 7.2.2: Tausch Altonaer Straße - Kenntnis genommen
+- TOP 7.2.3: Unfälle Wilhelm-Sollmann-Straße/Herforder Straße - Kenntnis genommen
+- TOP 7.2.4: Anzahl der Ford-Leihfahrräder im Bezirk Nippes - Kenntnis genommen
+- TOP 7.2.5: Spielplätze Brehmstraße und Etzelstraße - Kenntnis genommen
+- TOP 7.2.6: Verfügbarkeit von Grundstücken für den Schulbau im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.7: Schulessen im Bezirk Köln-Nippes - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Absperrungen Gustav-Nachtigal-Straße/Toni-Steingass-Park - ungeändert beschlossen
+- TOP 8.1.2: Errichtung von E Bike-Ladestationen im Bezirk Nippes - ungeändert beschlossen
+- TOP 8.1.3: Kahnstation Blücherpark - ungeändert beschlossen
+- TOP 8.1.4: Jugendeinrichtung für Weidenpesch und Kontrollen des Ordnungsdienstes - geändert beschlossen
+- TOP 8.1.5: Parkplätze Niehler Damm - geändert beschlossen
+- TOP 8.1.6: Halteverbotsschilder Paul-Humburg-Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Haushaltsplan-Entwurf 2019 - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Mehrkosten TBA Merheimer Str. - ungeändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.3: Entwicklung einer Beteiligungskultur für Köln - ungeändert beschlossen
+- TOP 9.1.4: Änderung der Rechtskraft für die Umbenennung des Teilstücks Frankenthaler Straße in Schiefersburger Weg - ungeändert beschlossen
+- TOP 9.1.5: Innerer Grüngürtel in Köln-Nippes - geändert beschlossen
+- TOP 9.1.6: Beratung des Entwurfs des Haushaltes 2019 und Festsetzung der bezirksorientierten Mittel für das Haushaltsjahr 2019 - ungeändert beschlossen
+- TOP 9.1.7: Baubeschluss für die Einrichtung der neuen Haltestelle an der Geestemünder Straße im Zusammenhang mit den vorgesehenen Busnetzerweiterungen im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 9.1.8: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung der Klassifizierung der K1 Niehler Damm und Teil der Bremerhavener Straße in Köln-Niehl/Nippes - endgültig abgelehnt
+- TOP 9.2.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 64494/02 - ungeändert beschlossen
+- TOP 9.2.3: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Sport in Metropolen - ungeändert beschlossen
+- TOP 9.2.5: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Stellungnahme zur WDR-Berichterstattung "Unterbringung in Beherbergungsbetrieben" sowie „Bauvorhaben Im Grund / Pastor-Wolff-Str.“ - Kenntnis genommen
+- TOP 10.2.2: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.3: Beschluss der Bezirksvertretung 5 (Nippes) vom 30.05.2018 betreffend Areal Etzelstraße/Auf dem Ginsterberg - Kenntnis genommen
+- TOP 10.2.4: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 10.2.5: Barrierefreier Überweg zur Haltestelle Slabystraße Richtung Innenstadt - Antrag des Bezirksvertreters Happe (FDP) zur Sitzung der Bezirksvertretung Nippes am 09.11.2017 (AN/1539/2017) - Kenntnis genommen
+- TOP 10.2.6: Lebenswerte Veedel - Bürger- und Sozialraumorientierung in Köln - Kenntnis genommen
+- TOP 10.2.7: Ziel- und Leistungsvereinbarung 2018 - Bürgerzentrum Nippes - Kenntnis genommen
+- TOP 10.2.8: Einrichtung einer Hundefreifläche im Stadtteil Weidenpesch - Kenntnis genommen
+- TOP 10.2.9: Bürgereingabe gem. § 24 GO, betr.: Parksituation in der Gellertstraße 37 (Az.: 02-1600-137/17) - Kenntnis genommen
+- TOP 10.2.10: Fertigstellung der Sportanlage Friedrich-Karl-Straße in Köln-Nippes - Kenntnis genommen
+- TOP 10.2.11: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 10.2.12: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 10.2.13: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 10.2.14: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 10.2.15: Verkehrssituation in der Paul-Humburg-Straße - Kenntnis genommen
