@@ -1,0 +1,103 @@
+# 55. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-09-20T16:00:00+02:00
+- Ende: 2018-09-21T22:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6512
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6512
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2018_09_20 und 21 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00366098.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlich gefasster Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Konsequenzen aus Hitze und Dürre in Dresden. Was muss die Landeshauptstadt tun? - erledigt
+- TOP 4: Fragerunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 4.1: Erwerb eines „Schikaniergrundstückes“ im Bereich des geplanten Verwaltungszentrums Ferdinandplatz - erledigt
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Mieter von Haus 7 auf dem ehemaligen Drewag-Gelände an der Lößnitzstraße - erledigt
+- TOP 4.4: Arbeiten am Hochwasserschutz Lockwitzbach - erledigt
+- TOP 4.5: Katastrophenschutz in Dresden - erledigt
+- TOP 4.6: Eisenbahnverbindung Dresden – Prag - erledigt
+- TOP 4.7: Sicherheit im Asylheim Löbtauer Straße - erledigt
+- TOP 5: Einigungsverfahren Gremienbesetzungen - Ausschüsse (insbesondere Umsetzung § 10 Abs. 3 bis 5 der Hauptsatzung - neue Stellvertreterregelung entsprechend SächsGemO)
+- TOP 5.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Zustimmung
+- TOP 5.2: Ausschuss für Finanzen - Zustimmung
+- TOP 5.3: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Zustimmung
+- TOP 5.4: Ausschuss für Wirtschaftsförderung - Zustimmung
+- TOP 5.5: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Zustimmung
+- TOP 5.6: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Zustimmung
+- TOP 5.7: Ausschuss für Soziales und Wohnen - Zustimmung
+- TOP 5.8: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum Dresden) - Zustimmung
+- TOP 5.9: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Zustimmung
+- TOP 5.10: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Zustimmung
+- TOP 5.11: Ausschuss für Petitionen und Bürgerbeteiligung - Zustimmung
+- TOP 6: Einigungsverfahren Gremienbesetzungen - entsprechend § 4 Jugendamtssatzung
+- TOP 6.1: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 7: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 7.1: Nachbesetzung des Beirates für Menschen mit Behinderungen gemäß § 25 Absatz 8, 2. Anstrich Hauptsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 7.2: Integrations- und Ausländerbeirat - Zustimmung
+- TOP 8: Einigungsverfahren Gremienbesetzung - Ortsbeiräte
+- TOP 8.1: Umbesetzung im Ortsbeirat Leuben - Zustimmung
+- TOP 8.2: Umbesetzung im Ortsbeirat Loschwitz - Zustimmung
+- TOP 8.3: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 8.4: Umbesetzung im Ortsbeirat Plauen - Zustimmung
+- TOP 8.5: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 9: Einigungsverfahren Aufsichtsrat
+- TOP 9.1: Aufsichtsrat der Wohnen in Dresden GmbH & Co. KG - Zustimmung
+- TOP 9.2: Aufsichtsrat Dresdner Bäder GmbH - Zustimmung
+- TOP 10: Nachbesetzung einer/s Vertreterin/s der Landeshauptstadt Dresden und deren/dessen Stellver-tretung in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsi-sche Sparkasse Dresden - Vertagung
+- TOP 11: Nachbesetzung eines Mitgliedes des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung
+- TOP 12: Tagesordnungspunkte ohne Debatte
+- TOP 13: Jahresabschlüsse
+- TOP 13.1: Jahresabschluss 2017 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 13.2: Jahresabschluss 2017 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 13.3: Jahresabschluss 2017 des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (SFBD) - Zustimmung
+- TOP 13.4: Jahresabschluss 2017 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 13.5: Eröffnungsbilanz des Eigenbetriebes Städtisches Klinikum Dresden zum 1. Januar 2017 sowie Jahresabschluss 2017 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 14: Vertagungen der Stadtratssitzungen vom 30. August 2018
+- TOP 14.1: Benennung eines Wegeteilstücks in Briesnitz - Zustimmung
+- TOP 14.2: Ersatzneubau der Brücke über die DB-Anlagen im Zuge der Talstraße (K6240) in Dresden-Cossebaude - Zustimmung mit Ergänzung
+- TOP 14.3: Fachkräftestrategie für Dresden - Ersetzung
+- TOP 14.4: Anlagepolitik nach ethischen, sozialen und ökologischen Grundsätzen - Zustimmung mit Änderung
+- TOP 14.5: Schwerpunktsportarten - Breitensport - Vertagung
+- TOP 14.6: Andenken an Johann "Rukeli" Trollmann wachhalten - Boxerdenkmal herrichten und an einen würdigeren Ort im Sportpark Ostra umsetzen - Vertagung durch Einreicher
+- TOP 14.7: Schule zur Lernförderung "Am Leutewitzer Park", Gottfried-Keller-Straße 40 in 01157 Dresden - Ersatzneubau Schulsporthalle - Zustimmung
+- TOP 14.8: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2018 und 2019 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 14.9: Kapitaleinlagen der Landeshauptstadt Dresden in die Kommunale Immobilien Dresden GmbH & Co. KG zur Umwandlung des Gesellschafterdarlehens, Deckung von Mehrausgaben für den Kulturpalast sowie zum Verlustausgleich - Zustimmung
+- TOP 14.10: Wohnungsnotfallhilfekonzept 2018 - Zustimmung mit Änderung
+- TOP 14.11: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über den Zuschuss zur gemeinschaftlichen Mittagsverpflegung in den Schulferien (Satzung Mittagessenzuschuss während der Schulferien) vom 26. September 2013 - Zustimmung
+- TOP 14.12: Beitritt der Landeshauptstadt Dresden als Träger des Eigenbetriebes Städtisches Klinikum Dresden zum „akg – Arbeitsgemeinschaft Kommunaler Großkrankenhäuser e. V." - Zustimmung
+- TOP 14.13: Abschluss eines Mietvertrages zum Objekt Hauboldstraße 7 in 01239 Dresden - Verweisung
+- TOP 14.14: Wissenschaftsstandort Dresden-Ost, Vorplanung Verkehrsanlagen Liebstädter Straße und Tiergartenstraße - Zustimmung mit Änderung
+- TOP 14.15: Bebauungsplan Nr. 3013 A, Dresden-Mickten Nr. 13, Flößerstraße - Vertagung durch Einreicher
+- TOP 14.16: Periodischer Betriebsplan und zehnjähriger Wirtschaftsplan (Forsteinrichtungswerk) des Körperschaftswaldes der Landeshauptstadt Dresden für den Einrichtungszeitraum vom 1. Januar 2017 bis 31. Dezember 2026 - Zustimmung
+- TOP 14.17: Sanierungsplanung für alle A-priorisierten Schulen und kurzfristige Mängelbeseitigung im Objekt Marienberger Straße 7 - Zustimmung mit Änderung
+- TOP 14.18: Die touristische Infrastruktur weiter entwickeln durch eine Verbesserung des mehrsprachigen Wegeleitsystems in Dresden im Rahmen der Bewerbung zur Europäischen Kulturhauptstadt 2025 - Zustimmung mit Ergänzung
+- TOP 15: 2. Änderungssatzung zur Jahr- und Spezialmarktsatzung - Zustimmung
+- TOP 16: Grundsatzbeschluss für die Einreichung eines Maßnahmeplanes der Landeshauptstadt Dresden zum Budget „Schulhausbau“ nach dem Sächsischen Investitionskraftstärkungsgesetz Teil 2 - Zustimmung
+- TOP 17: Fortschreibung des Investitionsplans der Landeshauptstadt Dresden für das Teilbudget „Sachsen“ im Förderprogramm „Brücken in die Zukunft“ (Teil 1) und Umverteilung sowie überplanmäßige Bereitstellung von Mitteln des Finanzhaushaltes für Investitionen - Zustimmung
+- TOP 18: Wahl einer Protokollführerin für die Schiedsstelle Plauen-Ost der Landeshauptstadt Dresden - Zustimmung
+- TOP 19: Um- und Ausbau des Heinz-Steyer-Stadions und Weiterentwicklung des Sportparks Ostra, Pieschener Allee 1 in 01067 Dresden - Zustimmung mit Änderung
+- TOP 20: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2018/2019 - Zustimmung
+- TOP 21: Aufnahme der Kindertageseinrichtung Bischofsweg 28 HH in 01099 Dresden in den Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2018/2019 und Betreibung durch den freien Träger LebensBild gGmbH - Zustimmung
+- TOP 22: 120. Grundschule "Am Geberbach", Trattendorfer Straße 1 in 01239 Dresden - Ersatzneubau Schulsporthalle - Zustimmung
+- TOP 23: Einrichtung des Gymnasiums Dresden-Gorbitz - Zustimmung
+- TOP 24: Standortentscheidung für das Gymnasium Linkselbisch Ost (LEO) und das Berufliche Schulzentrum für Wirtschaft "Franz Ludwig Gehe" - punktweise Zustimmung mit Änderung
+- TOP 25: Bildung von Wahlkreisen für die Stadtratswahl 2019 - Ersetzung
+- TOP 26: Änderung des Statuts zur Verleihung des Kunstpreises und des Förderpreises der Landeshauptstadt Dresden - Zustimmung
+- TOP 27: Bebauungsplan Nr. 348, Dresden-Großluga Nr. 4, Dohnaer Straße - Wohngebiet Großluga - Zustimmung
+- TOP 28: Luftreinhalteplan 2017 für die Landeshauptstadt Dresden - Verweisung
+- TOP 29: Einfache und leichte Sprache in der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 30: Kooperation zwischen Dresdner Schulen und Schulen anderer Regionen - Ersetzung
+- TOP 31: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung
+- TOP 32: Aufhebung einzelner Beschlusspunkte in V1057/11: Beschaffung der Spielstätten für Staatsoperette Dresden und Theater Junge Generation durch die STESAD GmbH (SR/030/2011) - Vertagung durch Einreicher
+- TOP 33: Einrichtung von Fußgängerüberwegen („Zebrastreifen") im Stadtgebiet von Dresden - Zustimmung mit Änderung
+- TOP 34: Verkehrsraumkonzeption für Löbtau - Zustimmung mit Änderung
+- TOP 37: Wohnungslosigkeit wirksam und nachhaltig vermeiden - Zustimmung mit Änderung
+- TOP 38: ausgereichte Informationsvorlagen
+- TOP 38.1: Haushaltsvollzug 2018 - Finanzzwischenbericht gem. § 75 Abs. 5 SächsGemO und Zwischenberichte der Eigenbetriebe 2018 gem. § 8 Abs. 2 in Verbindung mit § 22 Abs. 2 SächsEigBVO - zur Kenntnis genommen
