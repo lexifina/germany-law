@@ -1,0 +1,91 @@
+# 35. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-20T15:08:00+02:00
+- Ende: 2018-09-20T18:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18793
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18793
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Stand Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00679383.pdf
+- Ergebnisprotokoll: Tagesordnung (Stand Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00679383.pdf
+- Wortprotokoll: Tagesordnung (Stand Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00679383.pdf
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Anfrage der SPD-Fraktion in der Sitzung des Stadtentwicklungsausschuss vom 28.06.2018 hier: Entwicklung von Grundstücken des Bundes - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Genossenschaftlicher Wohnungsbau in Köln/Wohnungsbauleitstelle; Zusatzfrage des RM Frenzel in der Sitzung des Stadtentwicklungsausschusses am 28.06.2018, TOP 1.1 - zurückgestellt
+- TOP 1.3: Entwicklungen im Bereich Ehrenfeld; Anfrage CDU-Fraktion im Rat; Fraktion Bündnis 90/Die Grünen im Kölner Rat; AN/0981/2018 - Sache ist erledigt
+- TOP 1.4: Neue Gebietskategorie, Urbane Gebiete; Anfrage CDU-Ratsfraktion; AN/1028/2018 - Sache ist erledigt
+- TOP 1.5: Bebauungsplanaufstellung für Lövenich; AN/0791/2018; Beantwortung der Anfrage der CDU-Fraktion im Rat der Stadt Köln sowie der Fraktion Bündnis 90/Die Grünen im Kölner Rat vom 17.05.2018 - zurückgestellt
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Anfrage der SPD-Fraktion vom 06.09.2018 betr. "Beteiligung der Stadt Köln an Förderprogrammen" - Sache ist erledigt
+- TOP 2.2.2: Sachstand der Fortschreibung des Einzelhandels- und Zentrenkonzepts - Sache ist erledigt
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1.1: Vorlage Beschluss Integrierter Plan Deutzer Hafen - ungeändert empfohlen
+- TOP 4.2: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Bedarfsfeststellungsbeschluss; aus dem Programm "Integriertes Stadtentwicklungskonzept Porz Mitte" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - geändert beschlossen
+- TOP 6.2: Möblierung des kleinen und des großen Offenbachplatzes - ungeändert empfohlen
+- TOP 6.3: 9. Änderung des Gesamtverkehrskonzepts der Stadt Köln - ungeändert empfohlen
+- TOP 6.4: Stadtbahnanbindung Rondorf/Meschenich-Nord - mit Änderungen empfohlen
+- TOP 6.5: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: Deutzer Hafen; Einleitungsbeschluss; 227. Änderung (FNP) im Stadtbezirk 1, in Köln-Deutz - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept "Am Bahnhof" in Köln-Porz-Wahn,Anhörung der Bezirksvertretung Porz zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9.2: Städtebauliches Planungskonzept Damiansweg in Köln-Volkhoven/Weiler; Anhörung BV 6 zu frühz. Öffentlichkeitsb. - ungeändert beschlossen
+- TOP 9.3: Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes; Städtebauliches Planungskonzept Belgisches Viertel in Köln-Neustadt/Nord - ungeändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Glashüttenstraße in Köln-Porz; 74399/04; Ergänzte Beschlussvorlage zu Session-Nr. 3552-2015 - endgültig abgelehnt
+- TOP 10.2: Deutzer Hafen in Köln-Deutz; Beschluss über die Aufstellung eines Bebauungsplanes - geändert beschlossen
+- TOP 10.3: Griesberger Straße in Köln-Esch/Auweiler; 60539/04; Einleitung eines ergänzenden Verfahrens nach § 214 Abs. 4 BauGB zum Bebauungsplan - ungeändert beschlossen
+- TOP 10.4: Wohnen westlich Ölstraße in Köln-Ehrenfeld, Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 64494/02 - ungeändert empfohlen
+- TOP 12.2: Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63465/02, Arbeitstitel: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld - zurückgestellt
+- TOP 12.3: "Revitalisierung Innenstadt Köln-Porz in Köln-Porz"; 74393/04; Beschluss über Stellungnahmen sowie Satzungsbeschluss - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: Beschluss über die Teilaufhebung und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung des Bebauungsplanes Nummer 73490/06 - ungeändert beschlossen
+- TOP 14.2: Aufhebung des Bebauungsplanes Nummer 73479/08 - Arbeitstitel: Oberer Wichheimer Kirchweg in Köln-Holweide - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Veränderungssperre: " Auenviertel" in Köln-Rodenkirchen - ungeändert empfohlen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - ohne Votum in nachfolgende Gremien
+- TOP 16.2: Beschluss der Bezirksvertretung Porz über die städtebauliche Entwicklung des ehemaligen Dielektra-Geländes in Porz-Mitte - ungeändert beschlossen
+- TOP 16.3: Beschluss der Bezirksvertretung Porz über die städtebauliche Entwicklung des Vegla-Geländes in Porz-Mitte - ungeändert beschlossen
+- TOP 17: Mitteilungen
+- TOP 17.1: Sachstand der Planung zu den Sportflächen des Jean-Löring-Sportparks im Rahmen des Projektes Parkstadt Süd; Anfrage SPD-Fraktion im Rat der Stadt Köln; AN/1010/2018 - Kenntnis genommen
+- TOP 17.2: Sigwinstraße in Köln-Höhenhaus; 225. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 9, Köln-Mülheim; Offenlage - Kenntnis genommen
+- TOP 17.3: Neue Siedlungsbereiche in Esch/Auweiler; SPD-Anfrage nach § 4; AN/0847/2018 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 17.4: - nicht mehr vergeben; ehemaliger TOP 17.4 wurde aktuell unter TOP 1.3 eingeordnet - - Sache ist erledigt
+- TOP 17.5: - nicht mehr vergeben; ehemaliger TOP 17.5 wurde aktuell unter TOP 1.4 eingeordnet - - Sache ist erledigt
+- TOP 17.6: Mitteilung der Verwaltung; hier: Gesamtübersicht der Planungen für die Universität zu Köln - Kenntnis genommen
+- TOP 17.7: „Wie inklusiv ist das Quartier?“ - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 17.8: Pilotstrecke Hohenzollernring, Aufwertung der Aufenthaltsqualität - Kenntnis genommen
+- TOP 17.9: Qualifizierungsverfahren "Blaue Funken"/Sachsenturm (Blaue Funken-Weg 2), Köln-Innenstadt - Kenntnis genommen
+- TOP 17.10: Einsatz Sozialer Erhaltungssatzungen in Köln hier: Weiteres Vorgehen Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) - Kenntnis genommen
+- TOP 17.11: Rather See in Köln-Rath/Heumar; 74440/02; Offenlage - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 17.12: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 17.13: Jugendbefragung erfolgreich beendet – erste ausgewählte Ergebnisse im Blitzlicht - Kenntnis genommen
+- TOP 17.14: 1. Sachstandsbericht Kooperatives Baulandmodell Köln - Kenntnis genommen
+- TOP 17.15: Integrierte Planung Parkstadt Süd; Vorlagen Nr. 1250/2018 - Kenntnis genommen
+- TOP 17.16: Informationen zu Förderaufrufen im Bereich Städtebau aus August 2018 - Kenntnis genommen
+- TOP 17.17: Neue Stabsstelle Stadtbau im Quartier | Domumfeld mit Wirkung vom 01. März 2018 - Kenntnis genommen
+- TOP 17.18: Offenlage gemäß §3 Absatz 2 Baugesetzbuch Vorhabenbezogener Bebauungsplan 71476/02 "Herler Straße" in Köln-Buchheim - Kenntnis genommen
+- TOP 17.19: Neue Mitte Porz - Ergebnis des Qualifizierungsverfahrens Haus 2 und 3 - Kenntnis genommen
+- TOP 17.20: Kölner Statistische Nachrichten 4/2018 Erwerbstätigkeit und wirtschaftliche Lage der Kölner Bevölkerung - Ergebnisse der "Leben in Köln"-Umfrage 2016 - zurückgestellt
+- TOP 17.21: Pegel Köln 3/2018 Einwohnerentwicklung 2017: Köln wächst - auch bei geringer Zuwanderung - zurückgestellt
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
