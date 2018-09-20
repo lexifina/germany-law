@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-20T13:00:00+02:00
+- Ende: 2018-09-20T20:31:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14873
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14873
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00324650.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00324650.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00324650.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion Tierschutz/FREIE WÄHLER: finanzielle Ausstattung des Tierheims - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion Tierschutz/FREIE WÄHLER: Tierschutzbeauftragter - beantwortet
+- TOP 4.3: Anfrage Die Linke: Räumungen von Schlaflagern von Wohnungslosen durch den OSD - beantwortet
+- TOP 4.4: Anfrage der CDU-Ratsfraktion: Soziale Hilfen sichern - zurückgezogen
+- TOP 4.5: Anfrage der Ratsfraktion DIE LINKE: Umbenennung der Arena in Merkur Spielarena - beantwortet
+- TOP 4.6: Anfrage Rh Maniera: Antisemitische Übergriffe in Düsseldorf - beantwortet
+- TOP 4.7: Anfrage CDU: Gestaltungsbruch auf der Schadowstraße? - beantwortet
+- TOP 4.8: Anfrage der Ratsfrau Opelt: Brief der Oberbürgermeister von Düsseldorf, Köln und Bonn - schriftlich beantwortet
+- TOP 4.9: Ánfrage des Ratsherrn Grenda: Großmarktgelände, die nächste Paulsmühle - schriftlich beantwortet
+- TOP 4.10: Anfrage Rh Grenda: Fernwärmeausbau, Umwelt und Heizungsumbau in Düsseldorf - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Dr. Wlecke: Blindenleitsystem - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Dr. Wlecke: Behördensprache ausschließlich in leichter Sprache - schriftlich beantwortet
+- TOP 4.13: Anfrage Rf El Fassi: Deutlichen Mehrgebrauch von Abwasser aufgrund des Hitzesommers 2018 - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau El Fassi: Sparkommission und motiviertem Personal für die Forderungseintreibung - schriftlich beantwortet
+- TOP 4.15: Anfrage der Ratsfrau Böcker: Suchtprävention - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 7: Einbringung des Haushaltsplanentwurfs 2019 - zur Kenntnis genommen
+- TOP 8: Jahresabschluss 2016 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 9: Bericht über die Prüfung des Jahresabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 10: Kämmerer-Liste - zur Kenntnis genommen
+- TOP 11: Kämmerer-Liste - zur Kenntnis genommen
+- TOP 12: Kö-Bogen, Oberflächengestaltung 3. Bauabschnitt - einstimmig beschlossen
+- TOP 13: Bilker Straße 15, Schumann-Haus – Instandsetzung und Umbau zum Museum, Ausführungs- und Finanzierung - einstimmig beschlossen
+- TOP 14: Quadenhofstraße 151, Friedhof Gerresheim – Gesamtsanierung der Unteren Kapelle - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 15: Olympia-Initiative “Rhein Ruhr City 2032” - vertagt
+- TOP 15.1: ÄA Bü90/Grü: Olympia-Bewerbung nur mit Unterstützung der Bürger*innen! - vertagt
+- TOP 16: Amerika-Haus e.V. Nordrhein-Westfalen - einstimmig beschlossen
+- TOP 17: Entwurf des Luftreinhalteplans Düsseldorf 2018 - zur Kenntnis genommen
+- TOP 18: Konzept Provenienzforschung - einstimmig beschlossen
+- TOP 19: Franz Marc: Die Füchse, Anrufung der Beratenden Kommission - einstimmig beschlossen
+- TOP 20: Satzung über die abweichende Erhebung von Gebühren für Amtshandlungen im Personenstandswesen (Stande - vertagt
+- TOP 21: Aufsichtsrat der D.LIVE GmbH & Co. KG - Neuwahl - einstimmig beschlossen
+- TOP 22: Sportbeirat der D.LIVE GmbH & Co. KG - Neuwahl - vertagt
+- TOP 23: Bestellung eines Prüfers und Abberufung von zwei Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 24: Entsendung von Vertretern in den Rat der Gemeinden und Regionen Europas (RGRE) - einstimmig beschlossen
+- TOP 25: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - einstimmig beschlossen
+- TOP 26: Aufsichtsrat der NRW-Forum Düsseldorf gGmbH - Ersatzwahl - einstimmig beschlossen
+- TOP 27: Genehmigung 60er-Beschluss: Namensänderung des Städtischen Gymnasiums Schmiedestraße (Schulnummer 10 - einstimmig beschlossen
+- TOP 28: Genehmigung eines 60er-Beschlusses:Bundesprogramm 2018 zur Sanierung kommunaler Einrichtungen in den - einstimmig beschlossen
+- TOP 29: Anträge
+- TOP 29.1: Antrag der Ratsfraktion Tierschutz/FREIE WÄHLER: RWE-Aktien - einstimmig abgelehnt
+- TOP 29.2: Antrag der CDU-Ratsfraktion: Änderung § 4 (2) der Richtlinien für Kunst am Bau und im öffentl. Raum - mehrheitlich abgelehnt
+- TOP 29.3: Antrag der Ratsfraktion DIE LINKE: Erstellung eines kommunalen Wohungsbauprogramss - mehrheitlich abgelehnt
+- TOP 29.4: Antrag der Ratsfraktion DIE LINKE: Bus und Bahn fahren für 1 Euro/Tag - mehrheitlich abgelehnt
+- TOP 29.5: Antrag CDU: Internationales Symposium zum Thema „Wie sieht die Oper der Zukunft aus? – Entwicklung e - mehrheitlich abgelehnt
+- TOP 29.6: Antrag von BÜ90/GRÜ, SPD und FDP:Integration von Kreativräumen und kulturellen Raumbedarfen in die - mehrheitlich beschlossen
+- TOP 29.7: Antrag CDU, SPD, BÜ90/GRÜ und FDP: Städtepartnerschaft mit Chemnitz stärken - einstimmig beschlossen
+- TOP 29.7.1: ÄÄ DIE LINKE: Städtepartnerschaft mit Chemnitz stärken - zurückgezogen
+- TOP 29.8: Antrag CDU, SPD, BÜ90/GRÜ und FDP : AGENDA 2030 - mehrheitlich beschlossen
+- TOP 30: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH – Neuwahl –" - mehrheitlich beschlossen
+- TOP 31: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
