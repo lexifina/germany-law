@@ -1,0 +1,57 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2018-09-20T17:30:00+02:00
+- Ende: 2018-09-20T19:52:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQB8ZJ5coDXxEWcCwxTYGWw
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1250
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSN1dyQ1EN5x5hV1MKK5bohUeLi7Tb-LI5dmwoD0zLQS/Bekanntmachung_Rat_20.09.2018.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYQxq3jZVeJMXKdkRiMgdBTBmqy4-Lz3zwW76P76uYak/Oeffentliches_Beschlussprotokoll_Rat_20.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 13.06.2018
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Delegationsreise nach Stawiguda
+- TOP 3.2: Zurückdrängen von Jakobskreuzkraut
+- TOP 3.3: Sachstand Baulückenkataster
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Antrag der CDU-Fraktion zum Philipp-Neri-Haus - mehrheitlich mit 27 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 4.2: Antrag der CDU-Fraktion auf Klärung einer alternativen Nachnutzung des Philipp-Neri-Hauses - mehrheitlich mit 27 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 4.3: Antrag der CDU-Fraktion auf Ausweitung des offenen Ganztags an allen Wallenhorster Schulen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.4: Antrag der CDU-Fraktion auf Aussetzung des Ratsbeschlusses Radverkehrsfreundliche Gestaltung des "Butke-Kreisverkehrs" vom 13.06.2018 - mehrheitlich mit 29 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 4.5: Antrag der CDU-Fraktion auf Erarbeitung eines Konzeptes für ein geändertes Schwimmbusangebot - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.6: Änderung des Gesellschaftsvertrages der Gemeindewerke Wallenhorst Netz GmbH & Co. KG - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Jugendangelegenheiten
+- TOP 5.1: Zuschussantrag Jugendbildungsstätte Haus "Maria Frieden" Anbau eines Aufzugs und Schaffung barrierefreier Zimmer - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sportangelegenheiten
+- TOP 6.1: Antrag der Tennisabteilung des TSV Wallenhorst auf Bezuschussung der Renovierungsarbeiten am Tennisclubhaus Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag der Tennisabteilung der SF Lechtingen auf Bezuschussung der Erneuerung des Warmwasserspeichers - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.3: Antrag der Sportfreunde Lechtingen auf Bezuschussung der Errichtung eines Grillstandes auf dem Sportgelände Lechtingen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.4: Schwimmfahrten zum Hasebad Bramsche - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Umwelt- und Energieangelegenheiten
+- TOP 7.1: EU-Umgebungslärmrichtlinie - 3. Stufe hier: Vorstellung der Lärmkarten und Beschluss über den Lärmaktionsplan (Stufe 3) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Förderprogramm der Gemeinde Wallenhorst für Klimaschutzmaßnahmen: Erweiterung der Förderung auf E-Ladeboxen und Lastenfahrräder - mehrheitlich mit 25 Ja-Stimme(n), 6 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 8.1: Abschließende Planung zum Neubau eines Betriebs- und Sozialgebäudes auf dem Gelände der Kläranlage „Barlager Esch“ hier: Anpassung der Entwurfsplanung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.2: Dorferneuerung im Ortszentrum Rulle und Umsetzung des ÖPNV-Konzeptes in Rulle hier: Beschluss über die Umsetzung des ÖPNV-Konzeptes in der Dorferneuerungsmaßnahme; Beschluss über die Fortführung der Planungen der Dorferneuerungsmaßnahme ´Ortsmittelpunkt Rulle´ - mehrheitlich mit 25 Ja-Stimme(n), 6 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.3: Umsetzung des Spielplatzkonzeptes der Gemeinde Wallenhorst hier: Unter anderem Einleitung des Planungsprozesses für einen Mehrgenerationenpark - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kämmereiangelegenheiten
+- TOP 9.1: Durchführung einer überörtlichen Prüfung - Vergleichender Bericht -
+- TOP 9.2: Genehmigung der Annahme von Zuwendungen (Beschluss Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Anfragen und Anregungen
+- TOP 10.1: Bürgschaftserklärung Gewerbegebiet Schwarzer See
+- TOP 10.2: Sitzgelegenheit Waltbertweg
+- TOP 10.3: Beleuchtung am Dulingshof
+- TOP 10.4: Bushaltestelle am Hullerweg
+- TOP 10.5: Aufbesserung der vorhandenen Spielplätze
+- TOP 10.6: Fördermittel des Bundesinnenministeriums für den barrierefreien Umbau von Wohnungen und Häusern
+- TOP 10.7: Resonanz der Bevölkerung auf den neuen ÖPNV
+- TOP 10.8: Bushaltestelle am Bürgerpark
+- TOP 10.9: Beschaffenheit des Sandes bei den Kindergärten nach Sandaustausch
