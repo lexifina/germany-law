@@ -1,8 +1,8 @@
-# Verordnung des Sächsischen Staatsministeriums des Innern über kommunale Eigenbetriebe im Freistaat Sachsen (Sächsische Eigenbetriebsverordnung – SächsEigBVO)
-Vom 16. Dezember 2013
-Rechtsbereinigt mit Stand vom 15. November 2017
-Es wird verordnet aufgrund von
-1. § 127 Abs. 1 Nr. 22 der Gemeindeordnung für den Freistaat Sachsen (SächsGemO) in der Fassung der Bekanntmachung vom 18. März 2003 (SächsGVBl. S. 55, 159), die zuletzt durch Artikel 1 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822) geändert worden ist,
-2. § 68 Abs. 1 Nr. 19 der Landkreisordnung für den Freistaat Sachsen (SächsLKrO) vom 19. Juli 1993 (SächsGVBl. S. 577), die zuletzt durch Artikel 2 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822, 831) geändert worden ist,
-3. § 127 Abs. 1 Nr. 22 SächsGemO in Verbindung mit § 5 Abs. 3 Satz 1 des Sächsischen Gesetzes über kommunale Zusammenarbeit (SächsKomZG) vom 19. August 1993 (SächsGVBl. S. 815, 1103), das zuletzt durch Artikel 3 des Gesetzes vom 28. November 2013 (SächsGVBl. S. 822, 836) geändert worden ist,
-4. § 127 Abs. 1 Nr. 22 SächsGemO in Verbindung mit § 47 Abs. 2 Satz 1 SächsKomZG in Verbindung mit § 5 Abs. 3 Satz 1 SächsKomZG:
+# Bekanntmachung der Neufassung der Sächsischen Eigenbetriebsverordnung
+Vom 10. Dezember 2018
+Auf Grund des Artikels 2 der Ersten Verordnung des Sächsischen Staatsministeriums des Innern zur Änderung der Sächsischen Eigenbetriebsverordnung vom 21. August 2018 (SächsGVBl. S. 593) wird nachstehend der Wortlaut der Sächsischen Eigenbetriebsverordnung in der seit dem 22. September 2018 geltenden Fassung bekannt gemacht. Die Neufassung berücksichtigt:
+1. die am 1. Januar 2014 in Kraft getretene Verordnung vom 16. Dezember 2013 (SächsGVBl. S. 941),
+2. den am 15. November 2017 in Kraft getretenen Artikel 2 der Verordnung vom 28. September 2017 (SächsGVBl. S. 547),
+3. den am 22. September 2018 in Kraft getretenen Artikel 1 der eingangs genannten Verordnung.
+Dresden, den 10. Dezember 2018
+Der Staatsminister des Innern Prof. Dr. Roland Wöller
