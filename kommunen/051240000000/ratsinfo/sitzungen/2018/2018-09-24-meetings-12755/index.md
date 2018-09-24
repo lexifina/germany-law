@@ -1,0 +1,96 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-09-24T16:05:00+02:00
+- Ende: 2018-09-24T20:50:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12755
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12755
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung  m. d. Ergebnissen d. Vorberatungen - Stand: 14.09.18 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00224340.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00225228.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Zusammenarbeit des Jobcenter Wuppertal Anstalt öffentlichen Rechts und der Bit gGmbH - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Zusammenarbeit der Jobcenter Wuppertal Anstalt öffentlichen Rechts und der Bit gGmbH" (VO/0544/18) vom 21.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.2: BaumaßnahmenDöppersberg Mall - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Ratsgruppe AfW "Baumaßnahmen Döppersberg Mall" (VO/0563/18) vom 27.06.2018 - Entgegennahme ohne Beschluss
+- TOP 2.3: Bezug von inländischem Kindergeld für im Ausland lebende Kinder und Jugendliche - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Bezug von inländischem Kindergeld für im Ausland lebende Kinder und Jugendliche (VO/0674/18) vom 22.08.2018 - Entgegennahme ohne Beschluss
+- TOP 2.4: Landeshilfen zur Bewältigung der Unwetterschäden vom 29. Mai - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Landeshilfen zur Bewältigung der Unwetterschäden vom 29. Mai" (VO/0738/18) vom 05.09.2018 - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Abgesetzt. Vorberatung nicht abgeschlossen. Bürgerantrag zur Verbesserung der Tunnelbeleuchtung auf der Nordbahntrasse
+- TOP 3.2: Bürgerantrag zur Ergänzung des § 8 der Satzung über die Abwasserbeseitigung
+- TOP 3.3: Bürgerantrag: Die Stadt möge darauf hinwirken, dass die WSW mobil GmbH die Signaletik in den neuen Schwebebahnwagen verbessert
+- TOP 3.4: Bürgerantrag zur Einführung einer Taschenaschenbechermitführungs- und -benutzungspflicht beim Rauchen in der Öffentlichkeit
+- TOP 3.5: Bürgerantrag zur Einstellung der Planungen für den Bau einer Forensischen Klinik auf der Kleinen Höhe
+- TOP 3.6: Bürgerantrag zu Umlaufsperren und Pfosten auf Radwegen
+- TOP 3.7: Bürgerantrag zum Thema "Für Seenotrettung und einen sicheren Hafen!"
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Verwaltungspräventionskonzept zum Umgang mit Vielehen - abgelehnt
+- TOP 4.2: Wuppertaler Spielplätze alkohol- und drogenfrei machen - abgelehnt
+- TOP 4.3: Ratsbürgerentscheid über die Aufnahme von Asylbewerbern über den gesetzlichen Verteilungsschlüssel hinaus - abgelehnt
+- TOP 4.4: Resolution Seebrücke - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Abgesetzt. Vorberatung nicht abgeschlossen. Integrationspauschale - abgesetzt
+- TOP 5.2: Abgesetzt. Vorberatung nicht abgeschlossen. Wildblumen auf städtischen Grünflächen - abgesetzt
+- TOP 5.3: Metropolregion Rheinland: Wuppertaler Engagement und regelmäßige Berichterstattung - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Richtlinie der Stadt Wuppertal zum Verfügungsfonds nach Ziffer 17 der Förderrichtlinien Stadterneuerung 2008 – Stand Juli 2018 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung überplanmäßiger Mittel für die Projektbegleitung zur Umfeldgestaltung Berliner Platz - ungeändert beschlossen
+- TOP 7.2: Überplanmäßige Ausgabe: Ersatzbeschaffung eines Hubsteigers - ungeändert beschlossen
+- TOP 7.3: Sanierung Brücke Germanenstraße - Genehmigung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 7.4: Abdichtung Westkotter Viadukt - Genehmigung von überplanmäßigen Mitteln - ungeändert beschlossen
+- TOP 7.5: Überplanmäßige Ausgabe: Bereitstellung zusätzlicher Finanzmittel für Kinderspielplätze und Parkanlagen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2017 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.2: Gründung eines neuen Tochterunternehmens der Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 8.3: Mitgliedschaft im Förderverein NRW-Stiftung - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2017 der Kinder- und Jugendwohngruppen - ungeändert beschlossen
+- TOP 8.5: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss des Eigenbetriebes Wasser und Abwasser für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 8.7: Entlastung des Betriebsausschusses für den Eigenbetrieb Wasser und Abwasser - ungeändert beschlossen
+- TOP 8.8: Aufhebung und Vertagung der Beschlüsse zur Entlastung der Organe der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - vertagen
+- TOP 8.8.1: Fortlaufende Berichterstattung und Information über den Zivilprozess Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH (hier: Mitteilung über die Durchführung der Berufung) - Entgegennahme ohne Beschluss
+- TOP 8.8.2: Ergänzungsantrag zu TOP 8.8., VO/0759/18, Aufhebung und Vertagung der Beschlüsse zur Entlastung der Organe der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - vertagen
+- TOP 8.8.3: Ergänzungsantrag zu TOP 8.8.1, VO/0758/18 Fortlaufende Berichterstattung und Information über den Zivilprozess Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH (hier: Mitteilung über die Durchführung der Berufung) - vertagen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 807 - Fuchsstraße - - ungeändert beschlossen
+- TOP 9.2: Klageerhebung gegen den Planfeststellungsbeschluss für den sechsstreifigen Ausbau der A 46 von der Brücke Westring bis zum Sonnborner Kreuz - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Örtliche Planung 01.10.2018 -30.09.2021 für die Stadt Wuppertal gem. § 7 Alten- und Pflegegesetz Nordrhein-Westfalen - ungeändert beschlossen
+- TOP 11.2: Konzept zur Erstellung einer Vorhabenliste für Bürgerbeteiligung in Wuppertal - ungeändert beschlossen
+- TOP 11.3: Frist zur Beantragung von Verkaufsstellenöffnungen an Sonntagen in Wuppertal - ungeändert beschlossen
+- TOP 11.4: Änderung der Geschäftskreise der Beigeordneten gemäß § 73 Absatz 1 Gemeindeordnung Nordhrein-Westfalen - ungeändert beschlossen
+- TOP 11.5: Neubau einer Tageseinrichtung für Kinder in Ronsdorf auf dem Grundstück Rehsiepen - ungeändert beschlossen
+- TOP 11.6: Neubau einer Tageseinrichtung für Kinder in Ronsdorf - Vermarktung Grundstück Holthauser Straße - geändert beschlossen
+- TOP 11.7: Masterplan Grünes Städtedreieck - ungeändert beschlossen
+- TOP 11.8: Kooperationsvereinbarung zwischen der Montag Stiftung, der Projektgesellschaft Urbane Nachbarschaft BOB gGmbH und der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.9: Annahme der Schenkung einer Fahrzeughalle des Fördervereines der Freiwilligen Feuerwehr Ronsdorf - ungeändert beschlossen
+- TOP 11.10: Förderantrag Sanierung Freibad Mählersbeck - Entgegennahme ohne Beschluss
+- TOP 11.11: Weihnachtsmärkte ab 2019 - Konzepte und Ausschreibung für Barmen, Elberfeld und den Laurentiusplatz - geändert beschlossen
+- TOP 11.12: Würdigung des 100. Jahrestages der Einführung des Frauenwahlrechtes - ungeändert beschlossen
+- TOP 11.13: Sachstandsbericht Stabsstelle Bürgerbeteiligung und Bürgerengagement September 2018 - Entgegennahme ohne Beschluss
+- TOP 11.14: Serielles, transnationales Welterbe Müngstener Brücke: "Europäische Großbogenbrücken des 19. Jahrhunderts" - ungeändert beschlossen
+- TOP 11.15: Green-City-Plan Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.16: (nur Hauptausschuss) Berichterstattung des Rechtsamtes über laufende und bedeutsame Gerichtsverfahren aufgrund des Beschlusses des Rates vom 12.03.2018 (VO/0139/18)
+- TOP 11.17: Dachterrasse "Infopavillon" / Gebäude Wupperpark - ungeändert beschlossen
+- TOP 11.18: Berücksichtigung von Lärmschutzmaßnahmen am Sonnborner Kreuz im Lärmaktionsplan - Stellungnahme zu den am 03.05.2018 vom Hauptausschuss beschlossenen Bürgeranträgen - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neukonstituierung des Verbandsrats des Wupperverbandes - geändert beschlossen
+- TOP 12.2: Bestellung einer stellvertretenden sachkundigen Einwohnerin für den Ausschuss für Stadtentwicklung, Wirtschaft und Bauen - ungeändert beschlossen
+- TOP 12.3: Bestellung einer stellvertretenden sachkundigen Einwohnerin für den Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 12.4: Bestellung einer sachkundigen Einwohnerin für den Ausschuss für die Gleichstellung von Frau und Mann - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.6: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - Benennung der Delegierten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.7: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.8: TOP 12 Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung Ausschuss für Umwelt und Sportausschuss - ungeändert beschlossen
