@@ -1,0 +1,7 @@
+# TOP 6.: Zwei-Standorte-Strategie der Stadt Solingen; Sanierung des Verwaltungsgebäudes Bonner Straße 100
+
+- Sitzung: Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (30. Sitzung) (2018-09-24)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/44460
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/28239
