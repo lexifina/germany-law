@@ -1,0 +1,98 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-24T16:00:00+02:00
+- Ende: 2018-09-24T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18977
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18977
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00680982.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00680982.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00680982.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1.1: Bürgereingabe gem. § 24 GO, betr.: Fuß- und Radweg Rautenstrauchkanal, Köln-Lindenthal (Az.: 02-1600-17/18) - geändert beschlossen
+- TOP 5.1.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung in der Moltkestraße, Köln-Weiden/Lövenich (Az.: 02-1600-71/18) - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer zweckgebundenen Spende für den Spielplatz "Im Rapsfeld/Egelspfad" in Köln - Müngersdorf - ungeändert beschlossen
+- TOP 6.2: Annahmen einer Schenkung - Blitzwarnanlage - geändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage der CDU Fraktion in der BV Lindenthal AN/1071/2018 zur Kontrolle des Ordnungsamtes auf der Jahnwiese in Köln Müngersdorf
+- TOP 7.1.2: Anfrage der SPD Fraktion in der Bezirksvertretung Köln-Lindenthal zur Errichtung von privaten Parkplätzen im Bereich Bert-Fenger-Str. in Köln-
+- TOP 7.1.3: Anfrage zu Baum-Ersatzpflanzungen nach Beschädigungen durch Bauarbeiten
+- TOP 7.1.4: AN 1304/2016 Aktivität des Ordnungsamtes am 07.07.2016 Zülpicher Straße
+- TOP 7.1.5: Anfrage der Fraktion Bündnis 90/Die Grünen im Stadtbezirk Lindenthal
+- TOP 7.1.6: Errichtung eines Skateparks in Widdersdorf/Lövenich
+- TOP 7.1.7: Umsetzung des Radverkehrskonzeptes Sülz-Klettenberg-Lindenthal
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Umwandlung von Vorgärten in gepflasterte Parkplätze
+- TOP 7.2.2: Beleuchtung Kreisverkehr Lise-Meitner-Ring/ Adrian- Meller- Straße
+- TOP 7.2.3: Verkehrsberuhigung ,,Am Keuschhof'' in Lövenich
+- TOP 7.2.4: Leerstand der Wohnblöcke Friedrich- Engels- Str. 3-7
+- TOP 7.2.5: Limelight in Junkersdorf
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Grünzug West - ungeändert beschlossen
+- TOP 8.1.2: Gewerbegebiet Köln Lövenich - geändert beschlossen
+- TOP 8.1.3: Unterfahrung für den Radverkehr Lise- Meitner- Ring - geändert beschlossen
+- TOP 8.1.4: Fahrradabstellanlagen im Umfeld der Gymnasien EvT und Schiller - ungeändert beschlossen
+- TOP 8.1.5: Vincenzpark in Köln Lövenich - ungeändert beschlossen
+- TOP -: Änderungsantrag zum Antrag AN/1275/2018 'Vincenzpark in Lövenich' - endgültig zurückgezogen
+- TOP 8.1.6: Autoparkplätze auf der Fahrbahn Belvedere Str. in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.7: Beseitigung der Schlaglöcher auf dem Feldweg Strohblumenweg Richtung Zaunstraße - ungeändert beschlossen
+- TOP 8.1.8: Schutzbestimmungen für Vorgärten - ungeändert beschlossen
+- TOP 8.1.9: Öffnung des gesperrten Teilstücks der Zülpicher Straße (Fahrradstraße) für PKW`s der Anwohner und für Gewerbetreibende - endgültig abgelehnt
+- TOP 8.1.10: Sicherheitsmaßnahmen im Bereich Unterführung Bahnhof Lövenich - geändert beschlossen
+- TOP -: Weitergehender Antrag Lövenich Brauweiler Straße - ungeändert beschlossen
+- TOP 8.1.11: Effektive Sperrung des Aquarienweg in der Sülzer Kleingartenanlage von der Gleueler Straße für den Autoverkehr - zurückgestellt
+- TOP 8.1.12: Parkende Autos auf der Insel vor der Bäckerei an der Kreuzung Gleueler Str. / Mommsenstraße - geändert beschlossen
+- TOP 8.1.13: Errichtung eines Fahrrad-Parkhauses in Köln-Lövenich - endgültig zurückgezogen
+- TOP 8.1.14: Parken Alter Militärring in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.15: Rückschnitt von Sträuchern, Hecken und Bäumen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Bewohnerparkgebiet Lindenthal-Nord III (Piusstraße) - ungeändert beschlossen
+- TOP 9.1.2: Haushaltsplan-Entwurf 2019 - Aufteilung der bezirksbezogenen Haushaltsmittel gem § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 9.1.3: Beratung des Haushaltsplan-Entwurfes 2019 einschließlich der mittelfristigen Finanzplanung bis 2022 und sonstiger Anlagen - ungeändert beschlossen
+- TOP 9.1.4: Widmung eines Teilstücks der Vitalisstraße in Köln-Müngersdorf - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Eifelwall: Einrichtung einer Fahrradstraße - ungeändert beschlossen
+- TOP 9.2.2: Schulrechtliche Errichtung einer Gesamtschule im Stadtbezirk Lindenthal zum Schuljahr 2019/20 bei gleichzeitiger auslaufender Schließung der Elsa-Brändström-Realschule und der Ernst-Simons-Realschule - ungeändert beschlossen
+- TOP 9.2.3: Zustimmung zur Konzeption zur Realisierung des Gedenkorts Deportationslager Köln-Müngersdorf - ungeändert beschlossen
+- TOP 9.2.4: Westlich Zülpicher Wall in Köln-Lindenthal; Einleitungsbeschluss - geändert beschlossen
+- TOP 9.2.5: Nördlich Kronstädter Straße in Köln-Weiden; Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) - Alternative beschlossen
+- TOP 9.2.6: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Planungsbeschluss - ungeändert beschlossen
+- TOP 9.2.7: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 11.1.2: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Vitalisstraße in Ehrenfeld - Kenntnis genommen
+- TOP 11.2.2: Antrag der Bezirksvertretung Lindenthal in der Sitzung vom 02.07.2018 - Kenntnis genommen
+- TOP 11.2.3: Antrag der SPD Fraktion in der Sitzung der Bezirksvertretung Lindenthal am 28.05.2018 - Kenntnis genommen
+- TOP 11.2.4: Gleueler Straße, Tonnagebeschränkung der Brücke Gleueler Straße/Decksteiner Weiher - Kenntnis genommen
+- TOP 11.2.5: Umbenennung eines Teilstücks des Heinz-Mohnen-Platzes in Platz der Kinderrechte in Köln-Sülz - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Mitteilung der Verwaltung; hier: Gesamtübersicht der Planungen für die Universität zu Köln - Kenntnis genommen
+- TOP 11.3.2: Aktueller Sachstand zur Umsetzung der "Sicherungsmaßnahmen an der Straße Alter Militärring in Köln-Müngersdorf zur Hangstabilisierung" - Kenntnis genommen
+- TOP 11.3.3: Entwicklung einer Beteiligungskultur für Köln - Kenntnis genommen
+- TOP 11.3.4: KOMM-AN NRW - Programm zur Förderung der Integration von Flüchtlingen und Neuzugewanderten in den Kommunen - Sachstandsbericht 2018 - Kenntnis genommen
+- TOP 11.3.5: Schulweg Wasseramselweg - Kenntnis genommen
+- TOP 11.3.6: Neues Format der Bürgerbeteiligung "Fahrradbeauftragter on Tour" in den Stadtbezirken - Kenntnis genommen
+- TOP 11.3.7: Stellenzusetzungen beim Amt für Wohnungswesen zur Durchsetzung der Wohnraumschutzsatzung - Kenntnis genommen
+- TOP 11.3.8: Optimierung des Radverkehrs an der Kreuzung Dürener Straße/Lindenthalgürtel - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
