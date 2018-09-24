@@ -1,0 +1,91 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-24T14:33:00+02:00
+- Ende: 2018-09-24T15:44:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18481
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18481
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Sachstandsbericht "Starke Veedel - Starkes Köln " (2024/2018) hier: Anfrage des Finanzausschusses vom 02.07.2018 - Kenntnis genommen
+- TOP 1.2: Werbenutzungsvertrag - zurückgestellt
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2018 - Kenntnis genommen
+- TOP 2.2: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.3: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Kenntnis genommen
+- TOP 2.5: 21. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.6: Ziel- und Leistungsvereinbarungen 2018 der Bürgerhäuser/-zentren - Kenntnis genommen
+- TOP 2.7: Prüfung der Istkostenerhebung der tatsächlich in den Kommunen anfallenden Kosten für die Unterbringung von Flüchtlingen in Köln durch die Gemeindeprüfungsanstalt NRW - Kenntnis genommen
+- TOP 2.8: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.07.2018 - Kenntnis genommen
+- TOP 2.9: Mitteilung zum Planungsstand "Erweiterung der Feuerwache 9 in Köln-Mülheim" - Kenntnis genommen
+- TOP 2.10: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2018 - Kenntnis genommen
+- TOP 2.11: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.08.2018 - Kenntnis genommen
+- TOP 2.12: Stärkung und Weiterentwicklung des Mediengründerzentrums NRW (MGZ) - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Akademie der Künste der Welt, Köln gGmbH – wirtschaftliche Entwicklung - Kenntnis genommen
+- TOP 3.1.1: Antwort auf AN/0843/2018 - Akademie der Künste der Welt, Köln gGmbH - wirtschaftliche Entwicklung - Kenntnis genommen
+- TOP 3.2: Verantwortungsvolle Ausübung von Aufsichtsratsmandaten und der Public Corporate Governance Kodex (PCGK) der Stadt Köln - Kenntnis genommen
+- TOP 3.2.1: Aufsichtsratsmandate und PCGK - Kenntnis genommen
+- TOP 3.2.2: Aufsichtsratsmandate und PCGK - Kenntnis genommen
+- TOP 3.3: Strategische Leitprojekte im Haushaltsplan - Kenntnis genommen
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Projektförderung für Bürgerschaftliches Engagement - ungeändert beschlossen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Umgestaltung des Knotenpunktbereiches Sachsenring/Ulrichgasse/Vorgebirgstraße sowie Änderung der Verkehrsführung im Knotenpunktbereich - ungeändert beschlossen
+- TOP 6.2: Generalinstandsetzung des Gebäudetraktes D mit Klassentrakt, Turnhalle und Aula sowie Erneuerung der Orthopädietechnikfachräume des Berufskollegstandortes Perlengraben 101 in 50667 Köln - Mehrkostenanzeige - ungeändert beschlossen
+- TOP 6.3: Nationale Projekte des Städtebaus: "Lebenswertes Chorweiler – ein Zentrum im Wandel"; Umgestaltung des Liverpooler Platzes und des Pariser Platzes sowie des Lyoner Platzes; - ohne Votum in nachfolgende Gremien
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Neugestaltung des Bolzplatzes Agrippinaufer in Köln-Neustadt/Süd - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Berliner Straße 219a, 51063 Köln-Mülheim - Planungsbeschluss - geändert beschlossen
+- TOP 12.2: Integriertes Stadtentwicklungskonzept für das Programmgebiet "Soziale Stadt" Porz Mitte - geändert beschlossen
+- TOP 12.3: Umstellung des Linienbusnetzes auf alternative Antriebsformen - ungeändert beschlossen
+- TOP 12.4: Zustimmung zur Konzeption zur Realisierung des Gedenkorts Deportationslager Köln-Müngersdorf - ungeändert beschlossen
+- TOP 12.5: Planung eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Deutzer Weg ohne Nummer in 51143 Köln (Porz-Zentrum) - geändert beschlossen
+- TOP 12.6: Weitere Förderung des Vereins zur Förderung abschlussbezogener Jugend- und Erwachsenenbildung e.V. (VfJ e.V.) im Rahmen einer Festbetragsfinanzierung für die Jahre 2019 bis 2022 - ungeändert beschlossen
+- TOP 12.7: Zuschuss zum "Tag des guten Lebens" - zurückgestellt
+- TOP 12.8: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 12.9: Freigabe von städtischen Mitteln an die Träger "SCHLAU Köln e.V." und "anyway e.V." in 2018 - ungeändert beschlossen
+- TOP 12.10: Umweltbildungskonzept der Stadt Köln - ungeändert beschlossen
+- TOP 12.11: Baubeschluss für die Erneuerung von 22 Fahrtreppenanlagen an den Stadtbahnhaltestellen Friesenplatz, Rudolfplatz, Venloer Straße/Gürtel, Äußere Kanalstraße, Dom/Hbf., Heumarkt und Leyendeckerstraße mit gleichzeitiger Freigabe von investiven Auszahlun - ungeändert beschlossen
+- TOP 12.12: Schulrechtliche Errichtung einer Gesamtschule im Stadtbezirk Lindenthal zum Schuljahr 2019/20 bei gleichzeitiger auslaufender Schließung der Elsa-Brändström-Realschule und der Ernst-Simons-Realschule - ohne Votum in nachfolgende Gremien
+- TOP 12.13: Projektverlängerung - Koordinierung der Bildungsangebote für Neuzugewanderte - ungeändert beschlossen
+- TOP 12.14: Bedarfsfeststellung für den Abruf von externen Dienstleistungen für die Umsetzung von Digitalisierungsprojekten /Verwaltungsreformprojekten - ungeändert beschlossen
+- TOP 12.15: Bedarfsfeststellungsbeschluss für den Aufbau eines Verkehrszeichenkatasters als Grundlage für eine stadtverträgliche LKW-Navigation sowie Beschluss zur Bereitstellung einer außerplanmäßigen Verpflichtungsermächtigung, hier: Finanzstelle 6 - ungeändert beschlossen
+- TOP 12.16: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene - ungeändert beschlossen
+- TOP 12.17: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf, Planungsbeschluss - zurückgestellt
+- TOP 12.18: Neubau eines Mehrfamilienhauses im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Houdainer Str. ohne Nr., 51143 Köln-Porz - Planungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 12.19: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Potsdamer Str. 1 b, 50859 Köln-Weiden, Planungsbeschluss - ungeändert beschlossen
+- TOP 12.20: Entwurf des Jahresabschlusses 2017 - ungeändert beschlossen
+- TOP 12.21: Generalsanierung Drehbrücke Deutzer Hafen Teilergebnisplan 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - ungeändert beschlossen
+- TOP 12.22: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf - zurückgestellt
+- TOP 12.23: Vergabe der Mittel für Antirassismus-Training im Jahr 2018 / 2. Teil - ungeändert beschlossen
+- TOP 12.24: Sanierung Orangerie im Volksgarten - Sache ist erledigt
+- TOP 12.25: Zuschuss zu den Betriebskosten des Beratungscafés „Proberaum“ im Sozialpsychiatrischen Zentrum Rodenkirchen - ungeändert beschlossen
+- TOP 12.26: Generalsanierung der Zentralbibliothek der Stadt Köln, Josef-Haubrich-Hof 1, 50676 Köln; Baubeschluss gemäß Weiterplanungsbeschluss vom 24.03.2015 (2781/2014) und Ratsbeschluss vom 18.12.2012 (3142/2012) - ohne Votum in nachfolgende Gremien
+- TOP 12.27: Betrauung der Kölner Verkehrs-Betriebe (KVB) mit der Unterhaltung und Instandhaltung der im städtischen Eigentum stehenden oberirdischen Haltestellen bzw. der darauf befindlichen baulichen Anlagen - ungeändert beschlossen
+- TOP 12.28: Flughafen Köln/Bonn GmbH - ohne Votum in nachfolgende Gremien
+- TOP 12.29: Innerer Grüngürtel in Köln-Nippes - geändert beschlossen
+- TOP 12.30: Beihilfe zur Beschaffung Pflegegeräten für Kunstrasenplätzen - ungeändert beschlossen
+- TOP 12.31: Wirtschaftsplan des Gürzenich-Orchesters Köln, Wirtschaftsjahr 2018/2019 - zurückgestellt
+- TOP 12.32: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 12.33: Stadtbahnanbindung Rondorf/Meschenich-Nord - geändert beschlossen
+- TOP 12.34: "Null Toleranz für Raser" - Ordnungsbehördliche Maßnahmen gegen die Raserszene im Kölner Stadtgebiet - Maßnahmenpaket III - Stärkung und Ausbau der Verkehrssicherheit in den Stadtbezirken - ungeändert beschlossen
+- TOP 12.35: Jahresabschluss Wirtschaftsjahr 2016/2017 des Gürzenich-Orchesters Köln - zurückgestellt
+- TOP 12.36: Bedarfsfeststellung für die Europawahl 2019 - ungeändert beschlossen
+- TOP 12.37: Koelnmesse GmbH - Gewährung eines Bürgschaftsrahmens für das Investitionsprojekt Koelnmesse 3.0 - ungeändert beschlossen
+- TOP 12.38: Stadtverschönerungsmittel des Stadtbezirkes Lindenthal für die Jahre 2017/2018 - zurückgestellt
+- TOP 12.39: Bezirkssportanlage Everhardstraße in Köln-Ehrenfeld, Belagsänderung von Tenne in Kunststoffrasen - ungeändert beschlossen
+- TOP 13: Mündliche Anfragen
