@@ -1,0 +1,76 @@
+# 17. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-09-24T09:30:00+02:00
+- Ende: 2018-09-24T10:15:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-VA-41
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-VA-41
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-VA-41
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-VA-41
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen / Strukturausschuss
+- TOP 1.1: Vorberatungsverfahren
+- TOP 1.1.1: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2018 (mit Beteiligung StA)
+- TOP 1.1.2: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm „Investitionspakt Soziale Integration im Quartier 2018“ (ohne Beteiligung StA)
+- TOP -: Vorlagen des Regionalverbandes Ruhr
+- TOP 1.2: Zielabweichungsverfahren gem.§ 6 Abs. 2 ROG i.V. mit § 16 LPlG NRW auf dem Gebiet der Stadt Duisburg östlich Masurensee
+- TOP 1.3: 9. Änderung des Regionalplans für den Regierungsbezirk Münster Teilabschnitt Emscher-Lippe im Gebiet der Stadt Gladbeck Bekanntmachung im Gesetz- und Verordnungsblatt des Landes NRW
+- TOP 1.4: 89. Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Kamp-Lintfort; Umwandlung eines Bereiches für gewerbliche und industrielle Nutzungen (GIB) mit zweckgebundener Nutzung „Übertägige Betriebsanlagen und -einrichtungen des Bergbaus“ in einen Allgemeinen Siedlungsbereich (ASB) auf dem Gelände des ehemaligen Bergwerks West in Kamp-Lintfort Bekanntmachung im Gesetz- und Verordnungsblatt des Landes NRW
+- TOP 1.5: Windenergie-Erlass NRW vom 08.05.2018 (in Kraft getreten am 23.05.2018)
+- TOP 1.6: Änderungsverfahren 23 HER und 25 BO des Regionalen Flächennutzungsplans der Planungsgemeinschaft Städteregion Ruhr - Herstellung des Einvernehmens nach § 39 Abs. 3 Nr. 2 Landesplanungsgesetz NRW
+- TOP 1.7: Änderungsverfahren 22 MH des Regionalen Flächennutzungsplanes der Planungsgemeinschaft Städteregion Ruhr - Herstellung des Einvernehmens nach § 39 Abs. 3 Nr. 2 Landesplanungsgesetz NRW
+- TOP 1.8: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Haushaltsangelegenheiten
+- TOP 2.1.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für das Haushaltsjahr 2019
+- TOP 2.1.2: Einbringung des Haushaltes 2019
+- TOP 2.1.3: Ermächtigungsübertragungen gemäß § 22 Gemeindehaushaltsverordnung (GemHVO NRW) - Grundsätze über Art, Dauer und Umfang der Ermächtigungsübertragung
+- TOP 2.1.4: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2018 durch das Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen
+- TOP 2.2: Aufhebung des Sperrvermerkes über die Eigenanteile für das Integrierte Handlungskonzept „Zukunft und Heimat - Revierparks 2020“
+- TOP 2.3: RVR-Liegenschaft Gutenbergstraße 47
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.4: Radschnellweg Mittleres Ruhrgebiet Hier: aktueller Sachstandsbericht
+- TOP -: Radschnellweg Mittleres Ruhrgebiet Antrag der Fraktion Die Linke Hier: aktueller Sachstandsbericht – Ergänzung des Beschlusses
+- TOP 2.5: Radschnellweg Mittleres Ruhrgebiet hier: Erläuterungen zur Vorlage der Stadt Bottrop
+- TOP 2.6: Zukünftige, zentrale Erstellung der Treibhausgasbilanz durch den RVR für alle Kommunen, Kreise und die Metropole Ruhr.
+- TOP 2.7: Masterplan Handwerk-RVR: Ausbau-Initiative Solarmetropole Ruhr – Start 2019
+- TOP 2.8: Route der Industriekultur – Aufnahme des Baukunstarchivs NRW (ehem. Museum Am Ostwall) in die Route der Industriekultur; Ausstellungskonzeption „Bauten der Industriekultur“
+- TOP 2.9: Route der Industriekultur – 100 Jahre Bauhaus – Konzeption einer speziellen Themenroute
+- TOP 2.10: Route der Industriekultur – Evaluierungsbericht 2014 – 2016 zur Sicherung regional bedeutsamer Standorte (Ankerpunkte)
+- TOP 2.11: Änderungsverfahren für den LEP NRW – Beteiligung der Träger der öffentlichen Belange Hier: Stellungnahme des Regionalverbandes Ruhr als Träger öffentlicher Belange
+- TOP 2.12: Planfeststellungsverfahren zum 8-streifigen Ausbau der A40 in Duisburg inkl. Ersatzneubau der Rheinbrücke. Hier: Stellungnahme der Verwaltung, Aufhebung des Gremienvorbehalts
+- TOP 2.13: Stellungnahme des RVR zum Entwurf des Nahverkehrsplanes des Kreises Unna
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.14: Angelegenheiten der Business Metropole Ruhr GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.15: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.16: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2017
+- TOP 2.17: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2017
+- TOP 2.18: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Anregungen der Metropole Ruhr zu den Legislativvorschlägen der Europäischen Kommission zu den Ausgabenprogrammen für die EU-Förderperiode 2021-2027 - Positionspapier
+- TOP 2.19: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH (FMR) - Jahresabschluss zum 31.12.2017 der FMR und ihrer Betriebsstätten
+- TOP 2.20: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2017 der nicht in die FMR mbH integrierten Freizeitgesellschaften (Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH, Freizeitzentrum Xanten GmbH)
+- TOP 2.21: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2017
+- TOP 2.22: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2017
+- TOP 2.23: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.24: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.25: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.26: Angelegenheiten der Umweltzentrum Westfalen GmbH - Änderung der Nebenabrede
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.27: IGA Metropole Ruhr 2027; aktueller Sachstand
+- TOP 2.28: Anfragen und Mitteilungen
+- TOP -: Controlling für Anfragen und Anträge hier: Antwort der Verwaltung
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
