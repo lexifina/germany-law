@@ -1,0 +1,65 @@
+# Rat (43. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-09-24T18:00:00+02:00
+- Ende: 2018-09-24T19:40:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTVDLGUA-GV7DomenI8VmX8
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7034
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZfehtKB03K5F0JY_pSPkG6_Q7_UdEQW8FKuVuDg6Kdu/Bekanntmachung_Rat_24.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTIsgjUZs7Kd9KMUlxY2sXo7QBc2wxHcVbmV7-jmmJnV/Oeffentliche_Niederschrift_Rat_24.09.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Mikrofonanlage
+- TOP 1.2: Leerstand Ladenlokal
+- TOP 1.3: Lärmbelästigung
+- TOP 1.4: Besuch des Bundespräsidenten
+- TOP 1.5: Bekanntmachung der Ratssitzungen
+- TOP 2.: Niederschrift vom 09.07.2018
+- TOP 3.: Gute Schule 2020
+- TOP 3.1: Gute Schule 2020 Änderung der Mittelverwendung für das Förderjahr 2017
+- TOP 3.2: "Gute Schule 2020" Mittelverwendung im Haushaltsjahr 2018 - (kein Text vorhanden)
+- TOP 4.: Projekt "Sanierung bzw. Neubau Rathaus Steinweg/Umgestaltung Janshof" hier: Durchführung einer weiteren Einwohnerversammlung - (kein Text vorhanden)
+- TOP 5.: Kultur- und Festivalprogramm 2019 - (kein Text vorhanden)
+- TOP 6.: Benennung von Straßen
+- TOP 6.1: Benennung von Straßen im Baugebiet „südlich Otto-Wels-Straße“ Bebauungsplan 06.15 Teil 1 - (kein Text vorhanden)
+- TOP 6.2: Benennung einer Straße im Baugebiet „Gallbergsiedlung“ Bebauungsplan 06.92 2. Änderung - (kein Text vorhanden)
+- TOP 7.: Bebauungspläne
+- TOP 7.1: Bebauungsplan 04.21 "Soziokulturelles Zentrum und Kita südlich Schildgesstraße" Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 7.2: Bebauungsplan 06.92 "Gallbergsiedlung" 3. Änderung - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 7.3: Bebauungsplan 08.91 "Bundesakademien" 1. Änderung - Aufstellungsbeschluss - - (kein Text vorhanden)
+- TOP 8.: Beitritt zum Rahmenvertrag zur Rückzahlung von Sanierungsgeld der Kirchlichen Zusatzversorgungskasse - (kein Text vorhanden)
+- TOP 9.: Über- und außerplanmäßige Ausgaben
+- TOP 9.1: Überplanmäßige Ausgabe für Dienst-/ Schutzkleidung. - (kein Text vorhanden)
+- TOP 9.2: Außerplanmäßige Ausgabe für ein Dienstfahrzeug - (kein Text vorhanden)
+- TOP 9.3: Aus- und Neubau von Kinderspiel- und Bolzplätzen 2018 hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.4: Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 2. Quartal 2018
+- TOP 9.5: Außerplanmäßige Ausgabe für den Einsatz einer Brandschutzwache in der Flüchtlingsunterkunft Willy-Brandt-Str.5 - (kein Text vorhanden)
+- TOP 10.: Entwurf Gesamtabschluss 2015 - (kein Text vorhanden)
+- TOP 11.: 1. Zwischenbericht zur Haushaltslage 2018 zum 30.06.18 mit Prognose zum 31.12.18
+- TOP 12.: Dienstanweisung für die Finanzbuchhaltung
+- TOP 13.: Anträge
+- TOP 14.: Umbesetzung in Ausschüssen
+- TOP 14.1: Umbesetzungen in verschiedenen Ausschüssen Bezug: Antrag der CDU Fraktion vom 25.09.2018 - (kein Text vorhanden)
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
+- TOP 16.1: Externe Beratungskosten
+- TOP 16.2: Stadtbücherei
+- TOP 16.3: Parkstreifen Stiftstraße
+- TOP 16.4: Städtische Veranstaltungen
+- TOP 16.5: Vergabe des Kapitelsaals
+- TOP 16.6: Beleuchtung "Am Hornsgarten"
+- TOP B): Nichtöffentliche Sitzung
+- TOP 17.: Bericht über die 144. Sitzung des Aufsichtsrates der REVG mbH am 12.07.2018
+- TOP 18.: Bebauungsplan 08.91 "Bundesakademien" 1. Änderung - Aufstellungsbeschluss -
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen
+- TOP 20.1: Kulturveranstaltungen
+- TOP 20.2: Veranstaltung der AfD
+- TOP 20.3: "Memorandums of understanding" zum Aufbau einer kommunalen Projektpartnerschaft mit einer Stadt in Palästina
