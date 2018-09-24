@@ -1,0 +1,58 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (30. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-09-24T17:00:00+02:00
+- Ende: 2018-09-24T18:30:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZuq_y-0KXyL0Sl4rgP9mSo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5090
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZhSos9ct1esxA92ns0D2qc_Agj8JPNfUHTcQVYGPCtV/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_24.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQy1r1rN_Uc-4b6J6xjA7q0woGc_YFgJlaGSrnbiKXCf/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_24.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Vorhaben Tank und Rast A 3 Ohligs West Zusatzfrage zur Vorlage 4453/2018
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 27. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 25.06.2018 (gemeinsame Sitzung mit den Bezirksvertretungen Mitte und Burg/Höhscheid)
+- TOP 4.: Protokoll über die 28. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 25.06.2018 (gemeinsame Sitzung mit der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid)
+- TOP 5.: Protokoll über die 29. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 25.06.2018
+- TOP 6.: Zwei-Standorte-Strategie der Stadt Solingen; Sanierung des Verwaltungsgebäudes Bonner Straße 100
+- TOP 6.1: Zwei-Standorte-Strategie der Stadt Solingen; Sanierung des Verwaltungsgebäudes Bonner Straße 100
+- TOP 7.: Masterplan Grünes Städtedreieck – Region mit Weitsicht
+- TOP 8.: Serielles, transnationales Welterbe Müngstener Brücke: „Europäische Großbogenbrücken des 19. Jahrhunderts"
+- TOP 9.: StadtUmland.NRW: Verbund „Zwischen Rhein und Wupper: Zusammen – wachsen“ – Stand der gemeinsamen Arbeit im neuen Kooperationsraum
+- TOP 10.: Innenstadtentwicklung - Integriertes Entwicklungskonzept City 2030 -Sachstandsbericht
+- TOP 11.: IP Life Projekt „Atlantische Sandlandschaften“ Umsetzung der Maßnahmen in der Ohligser Heide
+- TOP 12.: Kleingartenanlage Bussche-Kessel-Weg
+- TOP 13.: BAB A 3, 8-streifiger Ausbau zwischen AK Hilden bis AS Leverkusen-Opladen
+- TOP 13.1: BAB A 3, 8-streifiger Ausbau zwischen AK Hilden bis AS Leverkusen-Opladen
+- TOP 14.: Freies Parken für Elektrofahrzeuge - Konzept zur Umsetzung hier: Auftrag des ASUKM vom 12.03.2018
+- TOP 15.: Bauleitplanung Landwehr Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 570 für das Gebiet südöstlich der Straße Landwehr, nördlich der Stadtgrenze zu Langenfeld und westlich der Bahnstrecke Köln – Wuppertal (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 16.: Bauleitplanung Friedenstraße/ An den Eichen Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 721 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet östlich der Friedenstraße zwischen der Straße An den Eichen im Norden und der Höhscheider Straße im Süden (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid –
+- TOP 17.: Bauleitplanung Friedrich-Ebert-Straße/ Erbslöhstraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes W 656 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB zum Vorentwurf des Bebauungsplanes W 656, jeweils für das Gebiet zwischen der Friedrich-Ebert-Straße, der Rosenkamper Straße und der Erbslöhstraße.
+- TOP 18.: Discounter Hier: Antrag der SPD-Fraktion vom 29.04.2018
+- TOP 19.: Elektrifizierung der Eisenbahnstrecke Solingen Hbf - Remscheid Hbf - Wuppertal-Oberbarmen hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 10.09.2018
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.1.1: Stellungnahme der Stadt Solingen zum Änderungsverfahren des LEP NRW
+- TOP 20.1.2: CO-Leitung, Planänderungsbeschluss vom 10.08.2018 zum Änderungsverfahren
+- TOP 20.1.3: Straßenbauvorhaben "Nebenanlagen Höhscheider Weg" hier: Investive Mehrauszahlung gemäß § 83 GO NRW
+- TOP 20.1.4: Informationsstelen Baumaßnahme Burg
+- TOP 20.1.5: Veranstaltung zum Öffentlichen Personennahverkehr am 25. September 2018
+- TOP 20.1.6: Solingen zur Modellstadt der Elektromobilität im Umweltverbund weiterentwickeln
+- TOP 20.1.7: Zuwendungsbescheid für die Veloroute Düsseldorf-Hilden-SOLINGEN-Wuppertal
+- TOP 20.1.8: Verkehrsplanung Ortsdurchfahrt Unterburg hier: Prüfauftrag der FDP-Fraktion vom 28.05.2018
+- TOP 20.1.9: ICE-Verbindung Köln – Wuppertal - Berlin
+- TOP 20.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 29. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 25.06.2018
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
