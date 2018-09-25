@@ -1,0 +1,61 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2018-09-25T18:00:00+02:00
+- Ende: 2018-09-25T20:55:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZboyLw90-CBpHwOLEQHizpc
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19784
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbcwPCPxGHi-uroOtb64mye8AibnSzQSE4lekVVXh3NT/Bekanntmachung_Rat_25.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX-8vc3QZ2V3RHEQDfEfuMpamWJreHu0xhZOBMxuiss2/Oeffentliche_Niederschrift_Rat_25.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 21.08.2018 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Eintragung in die Denkmalliste der Stadt Bad Münstereifel hier: Gem. Münstereifel, Flur 5, Flurstück Nr. 1854 - Unnaustraße 14 - Beschluss mit 22 Ja- und 3 Nein-Stimmen, sowie 3 Enthaltungen:
+- TOP 5.: Abbruchantrag für das Grundstück Gem. Münstereifel, Flur 5, Flurstück Nr. 1854 - Unnaustraße 14 - Einstimmiger Beschluss:
+- TOP 6.: Neuerlass der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Bad Münstereifel -    
+- TOP -: Neuerlass der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Bad Münstereifel -     
+- TOP -: Neuerlass der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Bad Münstereifel; - Abwägung der Stellungnahmen der Träger öffentlicher Belange und der Anregungen aus der Auslegung; - Beschlussfassung - Einstimmiger Beschluss:
+- TOP 7.: 3. Verordnung zur Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel vom 31.03.2017 - Beschluss mit 25 Ja-Stimmen und 1 Nein-Stimme sowie 2 Enthaltungen:
+- TOP 8.: 1. Satzung zur Änderung der Satzung über die Erhebung von Kostenersatz und Entgelten bei Einsätzen sowie über die Festsetzung des Verdienstausfalls für ehrenamtliche Angehörige der Freiwilligen Feuerwehr Bad Münstereifel vom 13.12.2017 - Einstimmiger Beschluss:
+- TOP 9.: Fahrzeugunterhaltung Feuerwehr; hier. Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 10.: Vereinbarung zur Finanzierung der Abend- und Wochenendfahrten auf den TaxiBus-Linien 819, 821, 822, 824, 828 und 887 abseits der ÖPNV-Umlageberechnung hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 11.: Bebauungsplan Nr. 92 "Lethert - Am Heiden Weyher" hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen einstimmig.
+- TOP 12.: Bebauungsplan Nr. 54 "Kirspenich-Hardtburgstraße" 1. Änderung im vereinfachten Verfahren gem. § 13 BauGB hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen einstimmig mit einer Ausnahme:Behörden und Träger sonstiger öffentlicher Belange – Nr. 08: Abwägungsbeschluss mit 1 Gegenstimme.
+- TOP 13.: Bebauungsplan Nr. 88 "Auf der Kumm", Ortsteil Iversheim im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Abwägungsbeschlüsse, Satzungsbeschluss -      
+- TOP -: Bebauungsplan Nr. 88 "Auf der Kumm", Ortsteil Iversheim im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Abwägungsbeschlüsse, Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Originalniederschrift) erfolgen einstimmig mit einer Ausnahme:Behörden und sonstige Träger öffentlicher Belange – Nr. 05.3: Abwägungsbeschluss mit 1 Gegenstimme.
+- TOP -: Bebauungsplan Nr. 88 "Auf der Kumm", Ortsteil Iversheim im beschleunigten Verfahren gem. § 13b BauGB (Einbeziehung von Außenbereichsflächen in das beschleunigte Verfahren) hier: Abwägungsbeschlüsse, Satzungsbeschluss - Beschluss  mit 26 Ja-Stimmen und 1 Nein-Stimme:
+- TOP 14.: 5. Satzung zur Änderung der Hundesteuersatzung der Stadt Bad Münstereifel vom 27.06.2000 - Beschluss mit 22 Ja- und 5 Nein-Stimmen:
+- TOP 15.: Entwidmung der Wegeflächen Seidenpfad hier: Gemarkung Münstereifel, Flur 16, Flurstücke-Nr. 95, 96 und 97 - Einstimmiger Beschluss:
+- TOP 16.: Hochwasserschutz; hier: Durchlässe auf dem kernstädtischen Friedhof (Schleidbach) Genehmigung einer überplanmäßigen Ausgabe - Beschluss mit 24 Ja-Stimmen und 1 Nein-Stimme sowie 1 Enthaltung:
+- TOP 17.: Wasserversorgungskonzept der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 18.: Entlastung für das Wirtschaftsjahr 2017 hier: Entlastung des Betriebsausschusses "Stadtwerke" durch den Rat - Einstimmiger Beschluss ohne die Mitglieder des Betriebsausschusses „Stadtwerke Bad Münstereifel“:
+- TOP 19.: Erlass der Wirtschaftspläne 2019 des Eigenbetriebes Stadtwerke Bad Münstereifel mit den Betriebszweigen Wasser und Abwasser hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 20.: Feststellung Jahresabschluss zum 31.12.2017 des Forstbetriebes der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 21.: Entlastung für das Wirtschaftsjahr 2017 hier: Entlastung des Betriebsausschuss "Forstbetrieb" durch den Rat - Einstimmiger Beschluss ohne die Mitglieder des Betriebsausschusses „Forstbetrieb der Stadt Bad Münstereifel“:
+- TOP 22.: Erlass des Wirtschaftsplanes 2019 des Forstbetriebes der Stadt Bad Münstereifel Hier: Einbringung des Entwurfs - Einstimmiger Beschluss:
+- TOP 23.: Erlass der Haushaltssatzung für das Haushaltsjahr 2019 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2025; hier: Einbringung der Entwürfe - Einstimmiger Beschluss:
+- TOP 24.: Stellenplan für das Haushaltsjahr 2019 - Einstimmiger Beschluss:
+- TOP 25.: Anfragen und Mitteilungen
+- TOP 25.1: Jahresabschluss 2017 hier: Verfügung des Kreises Euskirchen vom 16. August 2018
+- TOP 25.2: Überörtliche Prüfung der Haushalts- und Wirtschaftsführung der Stadt Bad Münstereifel; hier: Abschlussverfügung der Kommunalaufsicht
+- TOP 25.3: Haushalt 2018 hier: Bericht zum 30.06.2018 im Rahmen des Finanzcontrollings
+- TOP 25.4: Einrichtung einer Zentralen Vergabestelle
+- TOP 25.5: Stiftsmesse 27.09.2018
+- TOP 25.6: "Tag der offenen Tür" im Bauhof am 29.09.2018
+- TOP 25.7: Wandteppich aus dem historischen Ratssaal hier: Sachstand
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Stromkonzession; hier: Inanspruchnahme einer vertraglichen Option - Einstimmiger Beschluss:
+- TOP 2.: Gaskonzession; hier: Inanspruchnahme einer vertraglichen Option - Einstimmiger Beschluss:
+- TOP 3.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Einstimmiger Beschluss:
+- TOP 4.: Wartung/Generalrevision des Blockheizkraftwerks (BHKW) im eifelbad hier: Vergabe des Auftrags - Beschluss
+- TOP 5.: Hochwasserschutz; hier: Durchlässe auf dem kernstädtischen Friedhof (Schleidbach) Auftragsvergabe - Beschluss mit 21 Ja-Stimmen und 1 Nein-Stimme sowie 1 Enthaltung:
+- TOP 6.: Umsetzung Bebauungsplan Nr. 24 "Houverath-Mühlenberg" hier: Eintritt in Erschließungsvertrag - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 7.: Anfragen und Mitteilungen
