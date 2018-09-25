@@ -1,0 +1,68 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-09-25T15:00:00+02:00
+- Ende: 2018-09-25T23:11:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4190
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4190
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 25. Sitzung des Planungs- und Bauausschusses am 06.03.2018 - öffentlicher Teil -
+- TOP 2: Niederschrift über die 27. Sitzung des Planungs- und Bauausschusses am 19.06.2018 - öffentlicher Teil -
+- TOP 3: Planungs- und Bauausschuss
+- TOP 3.1: 235. Änderung des FNP - Stadtbezirk Nord - Stadtteil Gladbach - Kenntnisnahme
+- TOP 3.2: BP 794/N - Stadtbezirk Nord, Stadtteil Gladbach - Kenntnisnahme
+- TOP 3.3: Mobilitätsplan Leitlinien - Kenntnisnahme
+- TOP 3.4: Mobilitätsplan - Vorrangstraßennetz - Kenntnisnahme
+- TOP 3.5: Abwasserbeseitigungskonzept 2019-2024 - Einstimmiger Beschluss
+- TOP 3.6: Berichtsvorlage zur Umsetzung der Stadtentwicklungsstrategie mg+ Wachsende Stadt - Kenntnisnahme
+- TOP 3.7: Masterplan Elektromobilität - Einstimmiger Beschluss
+- TOP 3.8: Stadtteil- und Quartierskonzept - Kenntnisnahme
+- TOP 3.8.1: Vorlage 3279/IX: Integriertes Stadtteil- und Quartierskonzept - Mit Stimmenmehrheit abgelehnt
+- TOP 3.9: Verplanung von Fördermitteln des Landes NRW - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 3.10: Fahrradverleihsystem - Kenntnisnahme
+- TOP 3.11: Sachstandsbericht Nette Toilette - Kenntnisnahme
+- TOP 3.12: Qualität des Verkehrsablaufes auf Hauptverkehrsstraßen - Kenntnisnahme
+- TOP 3.13: Sachstandsbericht Breitbandförderung - Kenntnisnahme
+- TOP 3.14: BP 776/N, Stadtbezirk Nord, Gladbach und Eicken, nördlich Steinmetzstraße - Mit Stimmenmehrheit beschlossen
+- TOP 3.15: Aufstellung eines Bebauungsplanes - Stadtbezirk Nord, Waldhausen - Einstimmiger Beschluss
+- TOP 3.16: BP 790/N - Stadtbezirk Nord - Stadtteile Gladbach und Eicken - Einstimmiger Beschluss
+- TOP 3.17: Aufstellungsbeschluss Maurus-Ahn-Straße - Einstimmiger Beschluss
+- TOP 3.18: Busverkehr auf der Hindenburgstraße - Prüfauftrag - Getrennte Abstimmung (s. Niederschrift)
+- TOP 3.19: Bewohnerparken An den Gerichten - Kenntnisnahme
+- TOP 3.20: Machbarkeitsstudie - Haltepunkt Hochschule - Vertagt (s. Niederschrift)
+- TOP 3.20.1: Neues Konzept einer S-Bahn-Verbindung 6 von Mönchengladbach Hbf bis Köln Hbf - Einstimmiger Beschluss
+- TOP 3.20.2: Vorlage 3182/IX: Machbarkeitsstudie zum Haltepunkt Hochschule - Einstimmiger Beschluss
+- TOP 3.21: Verbesserung der Schienenverkehrsanbindung für Rheydt - Einstimmiger Beschluss
+- TOP 3.22: KInvFG - Rheindahlener Straße - Kenntnisnahme
+- TOP 3.23: KInvFG - LOA Wickrather Straße - Kenntnisnahme
+- TOP 3.24: Änderungsverfahren für den LEP NRW - Kenntnisnahme
+- TOP 3.25: Modernisierung des Bauordnungsrechts - Kenntnisnahme
+- TOP 3.26: Verkaufsabsicht der Liegenschaften "Haus Erholung" und "ehem. Haus Zoar" - Ohne Abstimmung
+- TOP 3.26.1: TOP: Verkaufsabsicht der Liegenschaften „Haus Erholung“ und „ehem. Haus Zoar“ mit dem Ziel ihrer stä - Ohne Abstimmung
+- TOP 3.26.2: Beratungsvorlage 3119/IX: Verkaufsabsicht der Liegenschaften "Haus Erholung" und "ehem. Haus Zoar" - Ohne Abstimmung
+- TOP 3.27: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2018; 1. Teil - Einstimmiger Beschluss
+- TOP 3.27.1: Top 3.28 Bericht zur aktuellen Situation des städtebaulichen Projekts „Hardterbroicher Markt“ - Vom Antragsteller zurückgezogen
+- TOP 3.28: Bericht zur aktuellen Situation des städtebaulichen Projekts "Hardterbroicher Markt! - Kenntnisnahme
+- TOP 3.29: Überprüfung der Verkehrsführung im Bereich Friedrich-Ebert-Straße, Hohlstraße und Wilhelm-Schiffer-R - Mit Stimmenmehrheit beschlossen
+- TOP 3.30: Verhandlungen zwischen Verkehrsverbund Rhein-Ruhr (VRR) und dem Aachener Verkehtsverbund (AVV) - Einstimmiger Beschluss
+- TOP 3.31: Berichte über die Durchführung von Beschlüssen
+- TOP 3.32: Anfragen und Mitteilungen
+- TOP 4: Betriebsausschuss GMMG
+- TOP 4.1: Sachstandsbericht Förderprogramm „Gute Schule 2020“ - Kenntnisnahme
+- TOP 4.2: Zwischenbericht der GMMG - 2 Quartal 2018 - Kenntnisnahme
+- TOP 4.3: Neuorganisation der Feuerwachen: Bedarfsfeststellung über ein Raum- und Funktionsprogramm - Kenntnisnahme
+- TOP 4.4: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - Von Verwaltung zurückgezogen
+- TOP 4.5: Ausführung Sporthallensanierung - Einstimmiger Beschluss
+- TOP 4.6: Brandschutzsanierung, Espenstraße - Einstimmiger Beschluss
+- TOP 4.7: Bericht der GMMG - Barrierefreiheit in der Kaiser -Friedrich-Halle - Kenntnisnahme
+- TOP 4.7.1: Behindertengerechte Zugänge Kaiser-Friedrich-Halle - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 4.7.2: Vorlage 3222/IX - Ohne Abstimmung
+- TOP 4.8: Aufbau von 5 Modul-Fertigbauanlagen - Einstimmiger Beschluss
+- TOP 4.9: Berichte über die Durchführung von Beschlüssen
+- TOP 4.10: Anfragen und Mitteilungen
