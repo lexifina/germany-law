@@ -1,0 +1,162 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-09-25T20:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638542
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638542
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 13.13.1: Schochenbergstr. Fällung eines Baumes 703 Fr. Hemmerlein
+- TOP 13.13.2: Heiterwanger Str. Fällung eines Baumes 709 Hr. Sinapius
+- TOP 13.13.3: Belastr. Fällung eines Baumes 713 Fr. Schoneweg
+- TOP 13.13.4: Bielitzer Str. Fällung eines Baumes 713 Fr. Schoneweg
+- TOP 13.13.5: Garmischer Str. Fällung eines Baumes 714 Hr. Dr. Huber
+- TOP 13.13.6: Billrothstr. Fällung eines Baumes 720 Hr. Egerer
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Amtsniederlegung Hr. Röver, Amtseinführung Hr. Jörg
+- TOP 8.8.1: Freischankfläche Albert-Rosshaupter-Str. 73
+- TOP 8.8.2: Zeitungsständer Jean-Paul-Richter Str. / Mainburger Str.
+- TOP 8.8.3: Zeitungsständer Johann-Clanze-Str. / Kriegersiedlung
+- TOP 9.9.1: (E) Stadtbezirksbudget SC Armin München 1893 e.V. - Fußballabteilung Erstausstattung einer kommentierten Bibliothek und eines kleinen Büros 2.504,00 € Az: 0262.0-7-0215
+- TOP 9.9.2: (E) Stadtbezirksbudget Initiative "FRAUBATH" Künstlerische Gestaltung der Unterführung an der Markomannstraße 6.000,00 Euro Az.: 0262.0-7-0213
+- TOP 9.9.3: (E) Stadtbezirksbudget FC Ludwigsvorstadt München e.V. Freiwilliges Soziales Jahr von November 2018 - Juli 2019 1.800,00 Euro Az.: 0262.0-7-0216
+- TOP 10.10.1: Bus in der Umweltverbundröhre Laim
+- TOP 10.10.2: Aufnahme der fernpaßschule in das Modellprojekt kooperative Ganztagsbildung
+- TOP 10.10.3: Bau von Wohnungen für Pflegekräfte und Kindergartenpersonal
+- TOP 10.10.4: Haltverbot in der Ohlstadter Str. zw. Partnachstr. und Fernpaßpark
+- TOP 10.10.5: Beschränkung der Zufahrtsmöglichkeiten zum Westpark für Kfz
+- TOP 11.11.1: Einladung UA Bau und Umwelt
+- TOP 11.11.2: Einladung UA Soziales und Kultur
+- TOP 12.12.1: Bericht des Vorsitzenden
+- TOP 15.15.1: Grillen auf dem Luise-Kiesselbach-Platz
+- TOP 16.16.1: Volksfest Schwarzmeer-Kulturverein-Seebühne
+- TOP 17.: Baureferat
+- TOP 17.17.1: Neue Sitzgelegenheiten im öffentlichen Raum
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 19.19.1: Bildung BA Amtsperiode 2020-2026
+- TOP 19.19.2: Satzungsänderung: Anhörungsrecht für die Einrichtung von Elektroladestationen
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 21.21.1: Ausweisung der Werdenfelsstr. zur Fahrradstr.
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 28.28.1: Prüfung einer möglichen Generalsanierung des Hauses St-Josef
+- TOP 31.: Baureferat
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: 18-jetzt-Feierteilnahme
+- TOP 33.33.2: (U) Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse Stadtbezirksbudget für München Stadtratsaufträge aus dem Beschluss Nr. 14-20 / V 08072 der Vollversammlung vom 26.07.2017 Fairtrade Town München – die BA&#039;s aktiv beteiligen! Scientology-Schutzerklärung bei Zuwendungen aus dem Budget der Bezirksausschüssen Einführung einer standardisierten Prüfung auf alternative städtische Zuschussmöglichkeiten bei BA-Budgetanträgen BA-Budget fair – teilen: Anpassung der Zuwendungsrichtlinien aus dem Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis BA-Budget fair – teilen BA-Budget fair-teilen: Anpassung der Zuwendungsrichtlinien aus dem BA-Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis Gender-Budgeting BA-Budget fair – teilen: Aufnahme des Grundsatzes der gleichstellungsorientierten Haushaltssteuerung in die künftigen Zuwendungsrichtlinien für das Stadtbezirksbudget
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: VVB-Bescheid Green Dinner
+- TOP 35.35.2: Ausnahmegenehmigung; Filmaufnahmen am Mollsee
+- TOP 35.35.3: Erinnerungsverfahren Konrad-Celtis-Str.
+- TOP 35.35.4: Fotoaufnahmen Westpark
+- TOP 35.35.5: Werbefilmaufnahmen Westpark
+- TOP 35.35.6: Demontrationszug auf öffentlichen Straßen
+- TOP 35.35.7: Parkregelungen Hansastr
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: (U) Leistungsprogramm der MVG für die Fahrplanperiode 2019 City Bus Antrag Nr. 14-20 / A 03830 von Herrn Stadtrat Fritz Schmude und Herrn Stadtrat Andre Wächter vom 16.02.2018 Öffentlich besser fahren 2 – Taktverbesserungen bei U-Bahn, Straßenbahn und Bus Antrag Nr. 14-20 / A 03435 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Öffentlich besser fahren 6 – Mehr Metro- und Expressbusse für München Antrag Nr. 14-20 / A 03439 von Herrn Stadtrat Alexander Reissl, Herrn Stadtrat Dr. Ingo Mittermaier, Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Frau Stadträtin Simone Burger vom 04.10.2017 Verbesserung der Buslinie Nr. 194, Fahrten der Buslinie abends nach 18 Uhr alle 30, oder zumindest alle 60 Minuten, sowie an Samstagen und Sonntagen BA-Antrag Nr. 14-20 / B 03509 des Bezirksausschusses des 15. Stadtbezirks vom 06.04.2017 Einrichtung eines Quartiersbusses zwischen Perlach und Fasangarten – Öffentliche Erreichbarkeit des Neuen Südfriedhofs verbessern BA-Antrag Nr. 14-20 / B 04219 des Bezirksausschusses des 16. Stadtbezirks – Ramersdorf-Perlach vom 12.10.2017 ÖPNV-Erschließung für das Gewerbegebiet „Triebwerk“ in Neuaubing BA-Antrag Nr. 14-20 / B 04419 des Bezirksausschusses des 22. Stadtbezirks - Aubing – Lochhausen – Langwied vom 20.12.2017
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmanpassungen und -vereinfachungen A) Erweiterung der staatlichen Einkommensorientierten Förderung - EOF mit städtischer Kofinanzierung (Darlehen) um eine zusätzliche Fördermöglichkeit nur über einen städtischen Baukostenzuschuss (für kleinere Vorhaben bis ca. 30 Wohneinheiten) B) Übergangsweise Förderung im Programm Münchner Wohnungsbau für das Jahr 2018 nach den Fördergrundsätzen des Kommunalen Wohnungsbauprogramms C) Wiedereinführung der Förderung von unabweisbaren Mehrkosten für Vorhaben im München Modell-Miete bzw. München Modell-Genossenschaften
+- TOP 41.41.2: (U) Satzung zur Durchführung einer Befragung von Personen im Zusammenhang mit der Erfassung des privaten Stellplatzbedarfs
+- TOP 41.41.3: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmiungsverfahren - LBK zukunftsfähig ausstatten - Evaluierung der Beschlussvorlage Nr. 14-20 / V 03291 vom 16.03.2016
+- TOP 41.41.4: (U) Konkretisierung der Konzeption "Freiraum M 2030" A) Prioritäre Freiraumstrukturen und - potentiale B) Qualifizierungs- und Kommunikationsstrategien C) Erster Aktionsplan mit Schlüsselprojekten D) Behandlung der Anträge bzw. der Empfehlungen
+- TOP 41.41.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.6: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP 41.41.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.8: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 41.41.9: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Zweckentfremdung
+- TOP 43.43.1: Baumaßnahmen der SWM
+- TOP 44.44.1: Tempo-30 in der Sachsenkamstr.
+- TOP 44.44.2: Parksituation Westparkbesucher
+- TOP 44.44.3: Geruchsbelästigung Krüner-Fernpassstr.
+- TOP 44.44.4: Radfahrer im Westpark
+- TOP 44.44.5: Radwegführung im Heckenstaller Park
+- TOP 44.44.6: Wertstoffcontainer Zillertalstr.
+- TOP 44.44.7: Lärmschutz an der BAB 95
+- TOP 44.44.8: Westpark-Ärgernisse
+- TOP 44.44.9: Parken in der Cimbernstr
+- TOP 44.44.10: Gans am Wasser
+- TOP 44.44.11: Parken in der Siegenburger
+- TOP 45.: Baureferat
+- TOP 45.45.1: Sitzgelegenheit am Partnachplatz neben dem Bücherschrank
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budgetbescheid ASZ
+- TOP 47.47.2: Budgetbescheid EB-GS Fernpassstrasse
+- TOP 47.47.3: Budgetbescheid Feierwerk
+- TOP 47.47.4: Budgetbescheid Gans_am_Wasser
+- TOP 47.47.5: Budgetbescheid Seniorenvertretung
+- TOP 47.47.6: Budgetmittelübertrag
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Summer AfterGlow
+- TOP 49.49.2: VVB-Bescheid Circus Galliano
+- TOP 49.49.3: Fahrbahnmarkierung Kreuzung Ettal-/ Partenkirchner Str.
+- TOP 49.49.4: Einfahrt von der Lindauer Autobahn in die Garmischer Straße Richtung Süden: Geschwindigkeitsbeschilderung
+- TOP 49.49.5: VVB-Bescheid Weinfest
+- TOP 49.49.6: Schulwegbeschilderung Waxensteinstr.
+- TOP 49.49.7: VVB-Bescheid Grillen auf dem Luise-Kiesselbach-Platz
+- TOP 49.49.8: Gegenläufiger Radverkehr in Einbahnstraßen am L-K-P-Fristverlängerung
+- TOP 49.49.9: Fahrradabstellplätze in der Ehrwalder Str
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Geländerprovisorium am U-Bahnaufgang Westendstraße endlich beheben
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Immissionswerte Luise-Kiesselbach-Platz
+- TOP 54.54.2: NOX-Werteermittlung im Stadtbezirk 7 Sendling-Westpark
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Machbarkeitsprüfung Einhausung-Zwischennachricht
+- TOP 55.55.2: Vollzug der BaumschutzVO-Graswanger Str.
+- TOP 55.55.3: Vollzug der BaumschutzVO -Klingerstraße
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Rechtliche Prüfung ASZ-Veranstaltung
+- TOP 56.56.2: Treffpunkt für Jugendliche im Distlhofweg
+- TOP 56.56.3: Schulsozialarbeit an bayrischen Gymnasien unterstützen
+- TOP 57.57.1: Aufenthaltsqualität Luise-Kiesselbach-Platz verbessern
+- TOP 57.57.2: BA25 unterstützt Bildungscampus
