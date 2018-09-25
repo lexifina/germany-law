@@ -1,0 +1,51 @@
+# 17. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-09-25T17:00:00+02:00
+- Ende: 2018-09-25T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18855
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18855
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00674626.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00674626.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00674626.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung neuer Mitglieder - Kenntnis genommen
+- TOP 1: Anfragen und Beantwortungen von Anfragen aus früheren Sitzungen
+- TOP 1.1: Handlungsleitfaden zum Umgang mit sexistischer und sexualisierter Werbung in Köln (Mitteilung 0198-2018) - vertagt 05.06.2018- - Kenntnis genommen
+- TOP 1.1.1: Beantwortung: Handlungsleitfaden zum Umgang mit sexistischer und sexualisierter Werbung in Köln -vertagt 05.06.2018- - Kenntnis genommen
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3: Offene Anfrage - Aufwände der Stadt Köln zugunsten des Kölner Karnevals und des Kölner CSD - zurückgestellt
+- TOP 2: Neuorganisation der Dienststelle Diversity / Fachstelle LST
+- TOP 2.1: Neues Amt für Integration und Vielfalt (Sachstand zum 01.06.2018) - Kenntnis genommen
+- TOP 2.2: Neues Amt für Integration und Vielfalt (Sachstand zum 15.08.2018) - Kenntnis genommen
+- TOP 2.2.1: Schriftliche Nachfragen zu TOP 2.2 - zugesetzt- - Kenntnis genommen
+- TOP 3: Trans*
+- TOP 3.1: Transpersonen im Krankenhaus - Kenntnis genommen
+- TOP 4: LSBTI Geflüchtete
+- TOP 4.1: Unterbringung von LSBTI Geflüchteten - Kenntnis genommen
+- TOP 5: Sichtbarkeit von Lesben in Köln
+- TOP 5.1: Städtepartnerschaftlicher Austausch zum CSD 2018 - Kenntnis genommen
+- TOP 5.1.1: Mündlicher Sachstandsbericht einer Menschenrechtsaktivistin aus Kölns Partnerstadt Tunis - zugesetzt - - Kenntnis genommen
+- TOP 5.2: Lesbenfrühlingstreffen 2019 in Köln - Kenntnis genommen
+- TOP 6: Diversity - Kenntnis genommen
+- TOP 7: Sachstandsberichte und Mitteilungen
+- TOP 7.1: Antidiskriminierungsarbeit im Bereich sexueller Orientierung und geschlechtlicher Vielfalt in Köln - Kenntnis genommen
+- TOP 7.2: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - zurückgestellt
+- TOP 7.3: Wirtschaftsstudie - Kenntnis genommen
+- TOP 7.4: Aktionsplan LSBTI - Kenntnis genommen
+- TOP 7.5: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" (2024/2018) - zugesetzt- - zurückgestellt
+- TOP 8: Berichte aus Ausschüssen - Kenntnis genommen
+- TOP 9: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 9.1: Umsetzungsbericht zum Diversity Konzept „2020: Köln l(i)ebt Vielfalt" - zugesetzt - - geändert beschlossen
+- TOP 10: Neue Anfragen
+- TOP 11: Öffentlichkeitsarbeit
+- TOP 12: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 12.1: Nachbesetzung Sachkundiger Einwohner im Gesundheitsausschuss - zugesetzt - - Kenntnis genommen
+- TOP 12.2: Nachbesetzung Stellvertretender Sachkundiger Einwohner Ausschuss Soziales und Senioren - zugesetzt - - Kenntnis genommen
+- TOP 13: Verschiedenes
