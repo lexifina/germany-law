@@ -1,0 +1,138 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-09-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Vorstellung eines Bauprojektes, Bayerstraße 21
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.10.: Baustelle Erhardtstraße
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Kirchenstiftung St. Andreas Andreaskonzert am 30.11.2018 1.100,00 Euro Az.: 0262.0-2-0236
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Anwohner des Oktoberfestes" Anbringung eines Bauzaunes während des Oktoberfestes 550,00 Euro Az.: 0262.0-2-0235
+- TOP 3.1.: 18.jetzt – Fest junger Erwachsener im Rathaus am 13.10.2018
+- TOP 5.1.: Anfrage, Bücherschrank am Karl-Heinz-Ulrich-Platz
+- TOP 5.2.: Ergebnis des Ortstermins am Roecklplatz
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.2.: Tumblingerstraße 32, DG-Ausbau (2 WE), Anbau von Balkonen
+- TOP 3.1.3.: Bayerstraße 77 – 77a, Ausbau des Dachspitzes zu 2 WE im Bereich des Mittelgebäudes, Neubau eines Wohn- und Bürogebäudes mit Tiefgarage, Einbau eines neuen Heizraums/Fernwärme im VGB Nr 77a, Verbindung der Gebäude 77 + 77a im Mittelbau mit einer Schleuse sowie Nutzungsänderung von Wohneinheiten in Hotelzimmer (VGB)
+- TOP 3.1.4.: Adlzreiterstraße 3 / RGB, Nutzungsänderung des Rückgebäudes in Teilbereichen des med. Wellness- und Pflegesalons in eine vom EG, 1. OG bis DG durchgängige Wohneinheit und Errichtung einer Dachgaube
+- TOP 3.1.5.: Bayerstraße 39 – 41, Nutzungsänderung Managerwohnung zu Hotelsuite und Errichtung einer Terrasse
+- TOP 3.1.6.: Ehrengutstraße 1, Neubau Eingangsbereich, Nutzungsänderung Büro- zu Produktionsfläche (EG) sowie Filmproduktion zu Lagerräumen (KG), vertagt aus der Sitzung vom 28.08.2018
+- TOP 3.1.7.: Buttermelcherstraße 14, Sanierung eines Gebäudes mit neuem Dachstuhl, neuer Dachterrasse auf dem 3. OG, Anbau von Balkonen und Einbau eines Aufzugs – VORBESCHEID, vertagt aus der Sitzung vom 28.08.2018
+- TOP 3.1.8.: Adlzreiterstraße 18, Neubau von zusätzlichem Wohnraum mittels Aufstockung um ein Dachgeschoss – VORBESCHEID, vertagt aus der Sitzung vom 28.08.2018
+- TOP 3.1.9.: Arndtstraße 2, Neubau eines Mehrfamilienhauses mit Tiefgarage – Tektur, vertagt aus der Sitzung vom 28.08.2018
+- TOP 3.1.10.: Baaderstraße 65, Einbau von Innenhof-Balkonen (1.-5. OG)
+- TOP 3.1.11.: Schmellerstraße 26, Einbau eines Personenaufzugs und einer Gaube in das Vordergebäude -PLENUMSBESCHLUSS-
+- TOP 3.2.1.: Fällung eines Holunders, Schmellerstr. 30
+- TOP 3.3.1.: Gesamtkonzeption Fahrradparken in München, vertagt aus der Sitzung vom 28.08.2018
+- TOP 3.3.2.: Planfeststellungsverfahren, Bau eines dritten Tram-Gleises am Bahnhofsvorplatz München Hauptbahnhof, TEKTUR, vertagt aus der Sitzung vom 28.08.2018
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Innerstädtischer Isarraum – Mehr Schutz für Natur, AnwohnerInnen und NutzerInnen
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche, Kapuzinerstraße 8
+- TOP 2.1.2.: Genehmigung Freischankfläche Müllerstraße 43
+- TOP 2.1.3.: Erweiterung einer bestehenden Freischankfläche, Hermann-Lingg-Straße 14
+- TOP 2.2.1.: Antrag für einen mobilen Fahrradständer, Schillerstraße 29
+- TOP 2.2.2.: Roecklplatz 3, Erweiterung einer Verkaufseinrichtung auf öffentlichem Grund, vertagt aus der Sitzung vom 28.08.2018
+- TOP 2.2.3.: Roecklplatz 3, Erweiterung einer Verkaufseinrichtung auf öffentlichem Grund, vertagt aus der Sitzung vom 28.08.2018
+- TOP 2.2.4.: Schillerstraße 24, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Realisierung E-Parken in City2Share, vertagt aus der Sitzung vom 28.08.2018
+- TOP 3.2.2.: Erhöhtes Verkehrsaufkommen durch das neue Einkaufszentrum – Forum Schwanthalerhöhe
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Antrag für 1 Bank, Morassistraße 26
+- TOP 3.3.2.: Mehr temporäre Zwischennutzungen und Freischankflächen, Anhörung zum Stadtratsantrag, vertagt aus der Sitzung vom 28.08.2018
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Vorstellung des Kommunalen Außendienstes
+- TOP 5.2.: Bürgeranliegen, Radlstellplätze vor der Häberlstraße 17
+- TOP 5.3.: Bürgeranliegen, Grüner Pfeil für Radfahrer am Gärtnerplatz, Fahrspur für Radler auf der Reichenbachbrücke Richtung Osten, Fahrbahnmarkierung auf der Fraunhoferstraße
+- TOP 5.4.: Bürgeranliegen, Trennung des Fuß- bzw. Fahrradwegs am Stachus
+- TOP 5.5.: Petition und Antrag Initiative Gärtnerplatz Fußgängerzone
+- TOP 5.6.: Bürgeranliegen, Verkehrssituation an der Lindwurmstraße
+- TOP 5.7.: Bürgeranliegen, Kein Fußgängerboulevard zwischen Viktualienmarkt und Isar
+- TOP 5.8.: Bürgeranliegen, Gaststätte Landwehrstraße 72, Freischankfläche
+- TOP 5.9.: Bürgeranliegen, E-Ladestation in der Ehrengutstraße 20
+- TOP 5.11.: Einmalige Entfernung aller Schrotträder
+- TOP 5.12.: Schaffung einer Fahrradstraßen-Route zwischen Sendlinger Tor und Baldeplatz
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Anhörungsrecht für die Einrichtung von Elektroladestationen, Anhörung zu einem Antrag des BA 16 auf Änderung der BA-Satzung
+- TOP 1.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2020-2026; Anhörung zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 1.3.: Anhörungsrecht bei Gleiserneuerungen, Anhörung zu einem Antrag des BA 13 auf Änderung der BA-Satzung -PLENUMSBESCHLUSS-
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP A 4.4.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Thalkirchner Str. 110 „Bahnwärter Thiel“, angefordertes Lärmschutzgutachten
+- TOP B 4.3.: Landwehrstr. 40: Nutzungsänderung Gaststätte zu Sportwettbüro, Abdruck der Baugenehmigung
+- TOP B 4.4.: Planfeststellungsbeschluss S-Bahn-Station Isartor - Brandschutz
+- TOP B 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.6.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP B 4.7.: Sendlinger Torplatz zwischen Sonnenstraße, Oberanger und Herzog-Wilhelm-Straße– Umgestaltung und Herstellung der Barrierefreiheit, Sitzungsvorlage Nr. 14-20 / V 11436
+- TOP B 4.8.: Programm „Bürgerinnen und Bürger gestalten ihre Stadt“, Bürgerbeteiligung in den Stadtvierteln Information über das Programm und die Förderrichtlinien
+- TOP B 4.9.: Straßenbauarbeiten Dreimühlenstraße
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Auf der Thalkirchner Straße wird unverüglich der Zebrastreifen Höhe Hautklinik eingerichtet
+- TOP C 4.7.: Schaffung von Fahrradabstellflächen in der Ickstattstr (10) und Klenzestr (52a)
+- TOP C 4.8.: Bürgerschreiben, Begrünung Kreuzung Ickstattstraße-Jahnstraße
+- TOP C 4.9.: BA-Antrag, Fahrradsicherheit Georg-Hirth-Platz
+- TOP C 4.10.: BA-Antrag, Fahrradsicherheit Kreuzung Kapuziner/Lindwurm/Herzog-Heinrich-Str.
+- TOP C 4.11.: Ampelschaltung am Stachus (2018.05 C 5.7)
+- TOP C 4.12.: Ausnahmezulassung für nächtliche Arbeiten zur Kanalsanierung zwischen Baaderstraße und Mariannenplatz, Änderungsbescheid
+- TOP C 4.13.: Ausnahmezulassung für nächtliche Arbeiten für einen Gas-Hausanschluss, Poccistraße 2
+- TOP C 4.14.: (E) Neuberechnung der Ampelschaltung am Karlsplatz (Stachus)
+- TOP C 4.15.: Baustelleneinrichtung im Nußbaumpark, Abdruck der Ausnahmegenehmigung
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
