@@ -1,0 +1,77 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-25T17:00:00+02:00
+- Ende: 2018-09-25T21:11:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14904
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14904
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00324942.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00324942.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00324942.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - abweichend beschlossen
+- TOP 4: Vorstellung des Dezernenten für Recht, Ordnung und Wohnen - zur Kenntnis genommen
+- TOP 5: Glasmacherviertel Umbau Nachtigallstraße - Baumfällung - - vertagt
+- TOP 6: Haltestelle Nachtigallstraße - abweichend beschlossen
+- TOP 7: Höherhofstraße / Gubener Straße / Nach den Mauresköthen – Umbau des Knotenpunktes zu einem Kreisverk - einstimmig beschlossen
+- TOP 8: Bedarfsbeschluss Kreisverkehrsplatz Höherhofstraße/Gubener Straße/Nach den Mauresköthen - mehrheitlich abgelehnt
+- TOP 9: Klotzbahn 4, 4a, 4b, 6, 8 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Kooperativer Wettbewerb mit Öffentlichkeitsbeteiligung Nr. 07/012 - Hagener Straße - Auslobungstex - einstimmig beschlossen
+- TOP 12: Vorstellung des Klimaanpassungskonzeptes - zur Kenntnis genommen
+- TOP 13: PFT-Boden- und Grundwasserverunreinigung Gerresheim – aktueller Sachstand - zur Kenntnis genommen
+- TOP 14: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - einstimmig beschlossen
+- TOP 15: Sitzungstermine der Bezirksvertretung 7 im Jahre 2019 - zur Kenntnis genommen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2018) - abweichend beschlossen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2018) - einstimmig beschlossen
+- TOP 18: Verwendung von Haushaltsmitteln - mehrheitlich beschlossen
+- TOP 19: Sicherer Fußgängerüberweg „Neunzigstr. 8“ - abweichend beschlossen
+- TOP 20: Sachstandsbericht Sporthallensituation im Stadtbezirk 7 - abweichend beschlossen
+- TOP 21: Luftreinhalteplan Düsseldorf 2018 - einstimmig beschlossen
+- TOP 22: Umwandlung Gerricusplatz in einen verkehrsberuhigten Bereich - abweichend beschlossen
+- TOP 23: Umwandlung der Straße Alter Markt in einen verkehrsberuhigten Bereich - abweichend beschlossen
+- TOP 24: Öffnung der Straße "Am Wallgraben" für den Radverkehr in beide Fahrtrichtungen - zurückgezogen
+- TOP 25: Zeichen setzen zur Erinnerung an die Hexenverbrennung am Gallberg - zurückgezogen
+- TOP 26: Fahrradweg Markierung Haltestelle Hardenbergstraße - einstimmig beschlossen
+- TOP 27: Anwohnerbefragung Abpollerung Josef-Neuberger-Straße - zurückgezogen
+- TOP 28: Fußgängerbrücke über die Düssel in Höhe KGV Hippeland - zur Kenntnis genommen
+- TOP 29: Fußgängerbrücke über die Düssel in Höhe KGV Hippeland - zur Kenntnis genommen
+- TOP 30: Baumfällungen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 31: Prozedere Erhalt der Gaslaternen - zur Kenntnis genommen
+- TOP 32: Brücke über die Dreherstraße - zur Kenntnis genommen
+- TOP 33: Fahrradfahren auf der Brücke Unter den Eichen / Dreherstraße - zur Kenntnis genommen
+- TOP 34: Kfz-Zulassungsprognosen und moderne Mobilität - zur Kenntnis genommen
+- TOP 35: Verkehrsfluss Bergische Landstraße – Ludenberger Straße – Grafenberger Allee - vertagt
+- TOP 36: Themenkomplex Grütersaaper Weg - zur Kenntnis genommen
+- TOP 37: Parkmöglichkeit auf Supermarktparkplätzen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 38: Kein Glasfaserkabel für Neubaugebiete im “Glasmacherviertel”? - zur Kenntnis genommen
+- TOP 39: Rahmenplan Grafenberg - vertagt
+- TOP 40: Beschleunigung U73 - vertagt
+- TOP 41: Änderungsbeschluss zum Planfeststellungsverfahren zur CO-Pipeline Dormagen - KR Uerdingen - zur Kenntnis genommen
+- TOP 42: Beschleunigung von Baugenehmigungen - zur Kenntnis genommen
+- TOP 43: Regenrückhaltebecken Berg. Landstr. / Gräulinger Str. - Wiederherstellung - zur Kenntnis genommen
+- TOP 44: Fehlende Betreuungseinrichtungen für Kinder im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 45: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 46: Öffnung von Einbahnstraßen für den Radverkehr - zur Kenntnis genommen
+- TOP 47: Sitzbank Benderstraße 28 - zur Kenntnis genommen
+- TOP 48: Instandsetzung der Verlängerung Ikenstraße zum Wald - zur Kenntnis genommen
+- TOP 49: Müllcontainer Pfeifferstraße 25 - zur Kenntnis genommen
+- TOP 50: Radfahren entgegen Einbahnstraße Geibelstraße - zur Kenntnis genommen
+- TOP 51: Senioreneinrichtung Gallberg - zur Kenntnis genommen
+- TOP 52: Verkehrssicherheit Josef-Neuberger-Straße / Torfbruchstraße - zur Kenntnis genommen
+- TOP 53: Instandsetzung St. Hippolyt-Weg - zur Kenntnis genommen
+- TOP 54: Natur statt Perfektion - zur Kenntnis genommen
+- TOP 55: Erweiterung Geschäftsgebiet "Eddy" auf Gerresheim - zur Kenntnis genommen
+- TOP 56: Pflasterung Verlängerung Zur Düsselaue - zur Kenntnis genommen
+- TOP 57: Bäume pflanzen auf der Straße Unter den Eichen - zur Kenntnis genommen
+- TOP 58: Aufstellung von Fahrradbügeln vor Aldi - zur Kenntnis genommen
+- TOP 59: Beschriftung Rathaus Gerresheim - zur Kenntnis genommen
+- TOP 60: Verbesserung Stichstraße Tischtenniszentrum am Staufenplatz - zur Kenntnis genommen
