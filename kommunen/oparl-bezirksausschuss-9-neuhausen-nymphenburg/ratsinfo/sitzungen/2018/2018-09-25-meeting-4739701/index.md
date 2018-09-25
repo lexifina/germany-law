@@ -1,0 +1,163 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-09-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739701
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739701
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) + (U) Aktualisierung des Verkehrsgutachtens zum Museumsneubau „Biotopia“ Empfehlung Nr. 14-20 / E 01884 der Bürgerversammlung des Stadtbezirkes 09- Neuhausen-Nymphenburg am 05.12.2017
+- TOP 3.1.2.: Jagdstraße 2 - Erweiterung einer bestehenden Freischankfläche
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Radl-Abstellfläche vor der Kita in der Albrechtstraße 33
+- TOP 3.2.2.: Radschutzstreifen in der Nymphenburger Straße
+- TOP 3.2.3.: Austausch der Betonkübel am Rotkreuzplatz durch versenkbare Sicherheitspoller
+- TOP 3.2.4.: Einführung einer Tempo-30-Zone in der Waisenhausstraße
+- TOP 3.2.5.: Leonrodstraße Ecke Landshuter Allee - Verkehrsgefährdung durch Autofahrer in der Rush Hour
+- TOP 3.2.6.: Schulwegsicherheit in der Hubertusstraße
+- TOP 3.2.7.: Schulwegsicherheit Haltestelle Goethe-Institut
+- TOP 3.2.8.: Verkehrsaufkommen und Buslinienführung Lazarettstraße / Lothstraße
+- TOP 3.2.9.: Freischankflächen in Neuhausen
+- TOP 3.2.10.: Wilhelm-Hale-Straße 55 - Parkplatznutzung durch Gewerbebetreiber
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Beschlussentwurf Parkraummanagement in München - Umsetzung Sektor V
+- TOP 3.3.2.: Überdachte Fahrradstellplätze auf der Südseite des S-Bahnhof Laim BA-Antrag Nr. 14-20 / B 04524 des BA 25 - Laim hier: Frage nach der Situation auf der Nordseite des Bahnhofs
+- TOP 3.3.3.: Anhörung zu verkehrsrechtlichen Anordnungen - Mareestraße - Hirschbergstraße - Eisnergutbogen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Planung für den Landshuter-Allee-Tunnel beschleunigen
+- TOP 3.4.2.: Ausbau Mittlerer Ring (B2R) - Abschnitt Landshuter Allee - Neubau Landshuter Allee-Tunnel 1. Sachstand der Vorplanung 2. Agieren statt reagieren - Infrastruktur vorausschauend planen (Teil I) Landshuter Allee-Tunnel: Wann geht es endlich los? Anfrage Nr. 14-20 / F 01184 vom 24.04.2018 Vorlagen-Nr. 14-20 / V 11750
+- TOP 3.4.3.: Informationsveranstaltung zum Neubau des Landshuter-Allee-Tunnels am 09.10.2018
+- TOP 3.4.4.: Fuß- und Radwegbrücke über die Schwere-Reiter-Straße
+- TOP 3.4.5.: Tempo-30-Zone in der Dantestraße
+- TOP 3.4.6.: Steigende Verkehrsbelastung in der Hubertusstraße
+- TOP 3.4.7.: Ampelschaltung Kreuzung Romanstraße / Hubertusstraße
+- TOP 3.4.8.: Friedenheimer Brücke - privater Aufzug
+- TOP 3.4.9.: Parksituation im Arnulfpark
+- TOP 3.4.10.: Kreuzung Wendl-Dietrich-Straße / Hawartstraße
+- TOP 3.4.11.: Abstellen von vermehrten Wohnwagen und Gewerbeanhängern entlang des Nymphenburger Kanals
+- TOP 3.4.12.: Schwerlastverkehr in der Schloßschmidstraße
+- TOP 3.4.13.: Ergänzung der Hinweistafel an der Haltestelle Maria-Ward-Straße um "Klinikum Dritter Orden"
+- TOP 3.4.14.: Westfriedhof/Baldurstraße - Erweiterung der zeitlich begrenzten Parkzonen
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Vom Verkehrsentwicklungsplan zum Mobilitätsplan für München (MobiMUC) a) Gesamtkonzept wichtiger Verkehrsinvestitionen Antrag Nr. 08-14 / A 03133 der Stadtratsfraktion der FDP vom 27.02.2012, eingegangen am 27.02.2012 b) Paradigmenwechsel im Straßenausbau und bei der Verkehrsberuhigung Antrag Nr. 08-14 / A 04731 der Stadtratsfraktion DIE GRÜNEN/RL vom 24.10.2013, eingegangen am 24.10.2013 c) Szenarien zur Entwicklung von Mobilität und Verkehr in München ausarbeiten und Münchens Zukunft gezielt planen – Design statt Desaster Antrag Nr. 14-20 / A 02779 der Stadtratsfraktion DIE GRÜNEN/RL vom 13.01.2017, eingegangen am 13.01.2017 d) Verkehrswende für mehr Lebensqualität I Der Text des Bürgerbegehrens „Sauba sog i. Reinheitsgebot für saubere Luft“ wird die Basis des neuen Verkehrsentwicklungsplans Antrag Nr. 14-20 / A 02924 der Stadtratsfraktion Die Grünen – rosa Liste vom 02.03.2017, eingegangen am 03.03.2017 e) Verkehrswende für mehr Lebensqualität II Jährliche Befragung zur Verkehrsmittelwahl der Münchnerinnen und Münchner Antrag Nr. 14-20 / A 02925 ...
+- TOP 3.5.2.: (U) Weitere U-Bahn-Planung in der Landeshauptstadt München - Zwischenbericht -
+- TOP 3.5.3.: Parksituation Nymphenburger Str. 110a
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.2.1.: Hotel Holiday Inn Express/Friedenheimer Brücke - Regenauslauf auf den Fußgänger-Gehweg (vertagt seit 05/18)
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung Lokalbaukommission: - Albrechtstraße 4 (Schulbauoffensive Vorbescheid) - Albrechtstraße 7 (Schulbauoffensive Vorbescheid)
+- TOP 4.3.2.: Rondell Neuwittelsbach 6 - Nachtrag eines Wohnhauses in die Denkmalliste
+- TOP 4.3.3.: Nymphenburger Straße 200 - Nachtrag des Tramwartehäuschens in die Denkmalliste
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Ensembleschutz für das Gebiet Hirschgartenallee, Wotanstraße, Frickastraße und Mechthildenstraße
+- TOP 4.4.2.: Bebauung Marsstraße 76
+- TOP 4.4.3.: Gestaltungswettbewerb Leonrodplatz (vertagt aus 07/17)
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Schulstraße 3 - Instandsetzung Dachtragwerk Lichthof Rudolf-Diesel-Realschule (vertagt aus 09/17)
+- TOP 4.5.2.: Planungsdarlegung vom 02.03.2018 mit 04.04.2018: Bebauungsplan mit Grünordnung Nr. 2053a - Schwere-Reiter-Straße (nordwestlich), Emma-Ihrer-Straße (nordöstlich) - (vertagt aus 03/18)
+- TOP 4.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.4.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln"
+- TOP 4.5.5.: LBK-Meldelisten über Bauvorhaben
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Ausweisung von Grünflächen für Urban Gardening Projekte
+- TOP 5.2.2.: Bürgeranfrage zum Concordia-Park
+- TOP 5.2.3.: Baumfällung in der Stuberstraße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Senkung der Feinstaubbelastung im gesamten Stadtgebiet
+- TOP 5.3.2.: Baumfällungsanträge: - Brunhildenstr. 32 - Frundsbergstr. 36 - Palestrinastr. 6 - Renatastr. 24 - Safferlingstr. 5 - Südliche Auffahrtsallee 39
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Schadstoffbelastung an der Landshuter Allee (vertagt aus 05/18)
+- TOP 5.4.2.: Begrünungsprogramm für Erschließungsstraßen
+- TOP 5.4.3.: Gestaltung der Grünflächen im Kreativquartier
+- TOP 5.4.4.: Abfalleimer entlang des Nymphenburger Kanals
+- TOP 5.4.5.: Sauberhaltung des Taxisparks
+- TOP 5.4.6.: Aufstellen von Bienenvölkern in Kleingartenanlagen
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Baumentfernungen auf öffentlichem Grund
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse KUNIRI gemeinnützige UG Crowdfunding-Kampagne von August bis November 2018 9.780,00 € AZ: 0262.0-9-0290
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Spielplätze an der Grünanlage Dall&#039;Armi-Str. (vertagt aus 05/18)
+- TOP 6.2.2.: Zerstörung, Ruhestörung und Mängel im Taxispark
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Neue Sitzgelegenheiten an öffentlichen Plätzen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Aktions-, Spiel- und Sportflächen im Stadtgebiet Neuhausen-Nymphenburg
+- TOP 6.4.2.: Aufstellen einer Bank auf der Grünfläche Hübnerstraße
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Spielangebote für Mädchen UND Buben - Gendergerechte Spielplatzgestaltung Sitzungsvorlae Nr. 14-20/ V 11072 (vertagt aus 05/18)
+- TOP 6.5.2.: Schulstraße - Zweckentfremdung von Wohnraum
+- TOP 6.5.3.: Richelstraße - Ausübung von Vorkaufsrecht
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Matri Mandir Kulturverein e.V. Durgapuja Fest vom 15. - 20.10.2018 2.700,00 Euro Az.: 0262.0-9-0296
+- TOP 7.1.2.: (E) Stadtbezirksbudget Initiative "Schluck" Ausstellung "Schluck" von September - Dezember 2018 6.500,00 Euro Az.: 0262.0-9-0294
+- TOP 7.1.3.: (E) Budget der Bezirksausschüsse Initiative "Circus Creation Weekends" Projekt "Circus Creation Weekends" von Oktober bis Dezember 2018 3.400,00 € Az. 0262.0-9-0291
+- TOP 7.1.4.: (E) Stadtbezirksbudget Projekt Kammeroper in München e.V. Produktion und Aufführungen der musikalischen Kindergeschichte "Wolferl hat keine Zeit" am 01./02.09.2018 1.615,00 Euro Az.: 0262.0-9-0293
+- TOP 7.1.5.: (E) Stadtbezirksbudget Initiative "Empathy" Tanz-Theater Performance "Empathy" am 15./16.10.2018 2.900,00 Euro Az.: 0262.0-9-0298
+- TOP 7.1.6.: (E) Stadtbezirksbudget Freie Bühne München / FBM e.V. Theaterproduktion "WOYZECK" ab 12.10.2018 2.000,00 Euro Az.: 0262.0-9-0297
+- TOP 7.1.7.: (E) Stadtbezirksbudget Mieterinitiative Baugenossenschaft-Erhalten Zwischennutzung des leerstehenden Schuhhauses Raab vom 03.09. - 31.12.2018 7.000,00 Euro Az.: 0262.0-9-0295
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Umbenennung der Hilblestraße - Namensvorschläge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Verputz Unterführung Landshuter Allee
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Lamentofläche - Einrichten von temporären Zu-/Abwasser- und Stromanschlüssen
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämper - Ackermannstraße
+- TOP 7.5.2.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 7.5.3.: Konzept zum Ausstellungsprojekt "Space is the Place" im Kreativquartier
+- TOP 7.5.4.: Dokumentation Quartiersbüro Kreativquartier
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Bezirkssportanlage auf dem Tierklinik-Gelände am Olympiapark
+- TOP 8.4.2.: Pavillonbau an der Dom-Pedro-Schule
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Schulbauoffensive 2013-2030 A) Pavillonbauprogramme A)1 Bericht zu den Pavillonbauprogrammen A)2 Genehmigung des 5. Pavillonbauprogrammes A)2.1 Beschreibung und Festlegung zur Realisierung des 5. Pavillonbauprogrammes A)2.2 Finanzierung - Darstellung im MIP 2018-2022 bzw. Fortschreibung des MIP 2018-2022 - Abbildung im Finanzhaushalt 2019 ff A)2.3 Aussicht auf in den folgenden Jahren noch relevant werdende Pavillonanlagen B) Personalbedarf der mit der Schulbau- offensive 2013-2030 befassten Dienststellen C) Bereitstellung von Einrichtungsmitteln im Zuge von Bauprojekten C)1 Einstellung einer Pauschale für Ersteinrichtung bei Erwerb von Kitas in Teileigentum - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff C)2 Ersteinrichtungsmittel fü das Projekt Pfanzeltplatz - Darstellung im MIP 2018 - 2022 - Abbildung im Finanzhaushalt 2019 ff GESAMTER BETREFF GESPEICHERT UNTER "TAGESORDNUNGEN-4-FACH-AUSSCHUSS-03-07-2018-BETREFF"
+- TOP 8.5.2.: (U) "kitabarometer" Elternbefragung zum Bedarf an Kindertagesbetreuung in München
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: Festlegung der Sitzungstermine 2019
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Schulung & Programm für BA-Mitglieder zur Bearbeitung der elektronischen Dokumente bei Nutzung der Technikpauschale
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anhörung der Bezirksausschüsse zur nötigen Anpassung der Anlage 2 der BA-Satzung
+- TOP 9.3.2.: BA-Anhörungsrecht für die Einrichtung von Elektroladestationen - BA-Antrag des SB 16
+- TOP 9.3.3.: Mehr temporäre Zwischennutzungen und Freischankflächen, Antrag Nr. 14-20 / A 04378 der SPD-Stadtratsfraktion
+- TOP 9.3.4.: 18.jetzt - Teilnahme BA am Fest junger Erwachsener im Rathaus am 13. Oktober 2018
+- TOP 9.3.5.: Abschlusskundgebung in der CSU-Arena am 12.10.18 - Theaterfestivalgelände
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Mehrjahresinvestitionsprogramm - Fortschreibung 2018 - 2022: Mittel für die Erweiterung bzw. für einen neuen Standort im 9. Stadtbezirk - Antwortschreiben
+- TOP 9.4.2.: Planung eines neuen Bürgerbüros an der Landshuter Allee
+- TOP 9.4.3.: MIP - Erweiterung / Neuanmietung Bürgerbüro Neuhausen
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Gaststättenfortführungen: - "Sumi" - Alfonsstr. 3 - "Daimlers" - Arnulfstr. 61 - "Hickory" - Blutenburgstr. 112 - "Ekam" - Hirschgartenallee 41 - "Hechstsprung" - Homerstr. 3 - "Toni" - Thorwaldsenstraße 25
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
