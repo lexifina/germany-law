@@ -1,0 +1,68 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-09-25T16:00:00+02:00
+- Ende: 2018-09-25T18:30:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14747
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14747
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00325141.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00325141.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00325141.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4: Weihnachtsmarkt auf dem Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Str. 2 - Vorlage des Ordnungsamtes - - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt 2018 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Haushalt 2018 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.6: Bezirklicher Bauunterhalt 2018 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2018 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an die Brauchtumsfreunde "de söödstädter us jar - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den "Garather Schützenverein 1967 e.V." - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Sozialdienst katholischer Frauen und Män - mehrheitlich beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Hellerhofer Bürgerverein e.V. - - mehrheitlich beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Hellerhofer Bürgerverein e.V. - - einstimmig beschlossen
+- TOP 4.12: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Heimatverein „Garather Jonges 1969 e.V. - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Einrichtung einer Hol- und Bringzone an der Schulbus-Parkbucht Emil-Barth-Str.45 - schriftlich beantwortet
+- TOP 5.2: Baumfällungen im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 5.3: Kritische Situation für das Autoparken auf der Jakob-Kneip-Straße - schriftlich beantwortet
+- TOP 5.4: Parkplätze auf der Fahrbahn - Peter-Behrens-Straße - schriftlich beantwortet
+- TOP 5.5: Ausgeglichene Sozialstruktur bei der Belegung von Wohnungen - schriftlich beantwortet
+- TOP 5.6: Einrichtung Stromversorgung für Marktstände in Garath Süd-West und Garath Nord-Ost - schriftlich beantwortet
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Aufstellung eines barrierefreien Fotoautomaten für biometrische Passfotos im Bürgerbüro des Stadtbez - schriftlich beantwortet
+- TOP 6.2: Nutzungskonzept der neuen Sporthallen des Koblenzer Gymnasiums und der Gesamtschule Stettiner Straße - schriftlich beantwortet
+- TOP 6.3: Unterbrechung der Warmwasserversorgung in Garath - schriftlich beantwortet
+- TOP 6.4: Sachstand zur Nutzung der Bezirkssportanlage Garath in Kooperation mit dem Footballclub Düsseldorfer - vertagt
+- TOP 6.5: Einschulung Grundschüler im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.6: Unsachgemäße Grünpflege - schriftlich beantwortet
+- TOP 6.7: Ungepflegtes Grundstück zwischen dem Kindergarten Koblenzer Straße und dem Garather SV - vertagt
+- TOP 6.8: Lehrermangel an den Schulen im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.9: Parken von LKW´s im Stadtteil Garath - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Beschilderung Bürgerwiese Garath / Piktogramme - einstimmig beschlossen
+- TOP 7.2: Reparatur Fahrrad- und Fußgängerweg, Frankfurter Straße - ab Hellerhof-Brücke bis Goslarer Straße (B - abweichend beschlossen
+- TOP 7.3: Installation eines Trinkwasserbrunnens - vertagt
+- TOP 7.4: Sachstandsbericht zum Angebot an stationären Pflegeplätzen, Tagespflegeplätzen, Kurzzeitpflegeplätze - einstimmig beschlossen
+- TOP 7.5: Hinweisschild am Bewegungspark Garath - einstimmig beschlossen
+- TOP 7.6: Temporäre Nutzung des Baugrundstücks "Am Buchholzer Busch" durch das Familienzentrum Stettiner Straß - einstimmig beschlossen
+- TOP 7.7: Reinigung der zugewachsenen Fuß- und Radwege in Garath und Hellerhof - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Reinigung der Unterführung Buchholzer Busch/A59 - zur Kenntnis genommen
+- TOP 8.2: Herrichtung des Hauptweges durch die Kleingartenanlage in Hellerhof - zur Kenntnis genommen
+- TOP 8.3: Parkmöglichkeiten Jakob-Kneip-Straße - zur Kenntnis genommen
+- TOP 8.4: W-Lan in der Freizeitstätte Garath - zur Kenntnis genommen
+- TOP 8.5: Installation einer kabellosen Mikrofonanlage und einer induktiven Höranlage anlässlich der Umbaumaßn - zur Kenntnis genommen
+- TOP 8.6: Barrierefreie Querungen "T-Kreuzungen" an der Frankfurter Straße/ Hellerhofweg und Frankfurter Straß - zur Kenntnis genommen
+- TOP 8.7: Insektenfreundliches Straßen- und Wegebegleitgrün - zur Kenntnis genommen
+- TOP 8.8: Verkehrsabhängig gesteuerte Ampel auf dem Hellerhofweg - zur Kenntnis genommen
+- TOP 9: Verschiedenes
