@@ -1,0 +1,146 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-09-26T17:05:00+02:00
+- Ende: 2018-09-26T22:37:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3238
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3238
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Lärmbelästigung von Seiten der Party Location Bürgerstraße 60 - beantwortet
+- TOP 1.2: Genehmigung von Milieuschutzgebieten - beantwortet
+- TOP 1.3: Verkauf unseres Hauses an Immobilienspekulant / Fragen zur Abwendungsvereinbarung - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Neukölln oder Chemnitz - Neonazis und Rassisten entschieden entgegentreten! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Keine Gewalt im Bezirksverordnetensaal ! - in der BVV abgelehnt
+- TOP 5.3: MUF-Standort in der Kiefholzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer stellvertretenden Bürgerdeputierten in den Gesundheitsausschuss - gewählt
+- TOP 7.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - gewählt
+- TOP 7.3: Wahl eines Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines stellvertretenden, beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Bebauungsplan XIV-155b („Johannisthaler Chaussee / Wildmeisterdamm“) - vertagt
+- TOP 8.3: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2018/2019 und im Jahr 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Kontrollmaßnahmen zur Bekämpfung der Organisierten Kriminalität - beantwortet
+- TOP 9.2: Neuköllner Schulen - beantwortet
+- TOP 9.3: Obdach-/wohnungslose Kinder in besonders schwieriger Lage - beantwortet
+- TOP 9.4: Einstellung der Ermittlungen nach rechter Anschlagsserie in Neukölln - beantwortet
+- TOP 9.5: MUF Lise-Meitner-Schule - beantwortet
+- TOP 9.6: Bebauung von Grünflächen in Neukölln zwischen Wohnhäusern - beantwortet
+- TOP 9.7: Kindswohlgefährdung - beantwortet
+- TOP 9.8: Einflussnahme Jobcenter Mischverwaltung - schriftlich beantwortet
+- TOP 9.9: Bezahlung der Beschäftigten im Bezirksamt - schriftlich beantwortet
+- TOP 9.10: Probleme Ederstraße 18 - schriftlich beantwortet
+- TOP 9.11: Entmietung Wipperstr. 5 - schriftlich beantwortet
+- TOP 9.12: Kündigung Syndikat - schriftlich beantwortet
+- TOP 9.13: Wachschutz an Schulen - schriftlich beantwortet
+- TOP 9.14: Licht ist aus! - schriftlich beantwortet
+- TOP 9.15: Kleingartenentwicklungsplan ( KEP ) - schriftlich beantwortet
+- TOP 9.16: Hotel in der Neuköllner Straße 284, 12357 Berlin - schriftlich beantwortet
+- TOP 9.17: Personenpotential Clanfamilien - schriftlich beantwortet
+- TOP 9.18: Massenschlägerei unter Migranten vor dem Rathaus Neukölln - schriftlich beantwortet
+- TOP 9.19: Ursachen der Säuglingssterblichkeit - schriftlich beantwortet
+- TOP 9.20: Zahlen zum Anti-AfD-Fest "Neukölln Open" - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Langzeitarbeitslosigkeit und „soziales Grundeinkommen“ in Neukölln - beantwortet
+- TOP 10.2: Ausschilderung Baustelle Karl-Marx-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sitzbänke am Weigandufer aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Im digitalen Zeitalter ankommen und die BVV im Livestream umsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.5: Vor weiteren modularen Unterkünften für Migranten das Asylrecht durchsetzen - in der BVV abgelehnt
+- TOP 10.6: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Einrichtung weiterer Sonderschulen - in der BVV abgelehnt
+- TOP 10.8: Maroder Bordstein - in der BVV abgelehnt
+- TOP 10.9: Rettet die Baumscheibe - überwiesen
+- TOP 10.10: Buslinie M 41 verlängern - überwiesen
+- TOP 10.11: Schilder da, aber niemand kann sie sehen - überwiesen
+- TOP 10.12: Preisgestaltung bei den Berliner Bäderbetrieben - in der BVV abgelehnt
+- TOP 10.13: Verkehrsschild mit Graffiti - in der BVV abgelehnt
+- TOP 10.14: Zentrale Erfassung und Veröffentlichung aller Tage der offenen Türen an den Neuköllner Schulen - überwiesen
+- TOP 10.15: Keine öffentlichen Stellflächen für Zirkusse mit bestimmten wildlebenden Arten - in der BVV abgelehnt
+- TOP 10.16: Einführung eines elektronischen Klassenbuches - Reduzierung der Schulschwänzer - überwiesen
+- TOP 10.17: Einführung eines Männersportförderpreises in Neukölln - in der BVV abgelehnt
+- TOP 10.18: Anwendung des Berliner Schulgesetzes zur Durchsetzung eines normalen Unterrichtes - überwiesen
+- TOP 10.19: Baumschulware am Campus Rütli retten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.20: Fortschreibung des Neuköllner Integrationspapiers von 2009 - vertagt
+- TOP 10.21: Ausbildungsaufgaben gerecht verteilen und Stundenbelastung senken - vertagt
+- TOP 10.22: Nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen ausschließen - vertagt
+- TOP 10.23: Dauerprojekt Späthbrücke - vertagt
+- TOP 10.24: Unzumutbare Bearbeitungszeiten beim Unterhaltsvorschuss? - schriftlich beantwortet
+- TOP 10.25: Abgetauchte Migranten - in der BVV zurückgezogen
+- TOP 10.26: Bürgersteige - vertagt
+- TOP 10.27: Verbot der Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten - vertagt
+- TOP 10.28: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - vertagt
+- TOP 10.29: Fußgängerüberweg vor Kita Momo - vertagt
+- TOP 10.30: Nachtruhe sichern - vertagt
+- TOP 10.31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.32: Fußgängerampelzeit Werbellinstraße/ Ecke Morusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.33: Behindertengerechter Übergang - vertagt
+- TOP 10.34: Öffentlich-rechtliche Informationssender für Meinungsvielfalt statt privatem Nachrichtensender im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.35: Recyclinghof - vertagt
+- TOP 10.36: Müll-Haie in der Gradestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: Leichte Sprache als gut sichtbares Zusatzangebot - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.38: Landesmittel für Drogenkonsumraum in Neukölln nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.39: Glas-Iglus Böhmische Str. 55-56 aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bezirkliche Grundstücke für soziale Nutzung erhalten - in der BVV abgelehnt
+- TOP 11.2: Ausweisautomaten – Bürgerämter entlasten! - in der BVV abgelehnt
+- TOP 11.3: Schlichtungsstelle Jobcenter Neukölln einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Einkommensschwache Menschen sind nicht „sozial schwach“! - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Ursachen für Säuglingssterblichkeit wissenschaftlich erforschen lassen - vertagt
+- TOP 11.6: Genehmigung der im Haushaltsjahr 2017 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - vertagt
+- TOP 11.9: Fair gehandelte Bewirtung im Bezirksamt - vertagt
+- TOP 11.10: Fairen Einkauf für die Verwaltungen erleichtern - vertagt
+- TOP 11.11: Bürger*innenpreis für Demokratie und Courage in Neukölln - vertagt
+- TOP 11.12: Grundwassermanagement - vertagt
+- TOP 11.13: Verkehrslenkende Maßnahmen in der Köpenicker Straße - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Abdeckung Neuköllns durch Banken und Nahversorger - vertagt
+- TOP 12.2: Vorkaufsrecht Elbestraße/Weigandufer - vertagt
+- TOP 12.3: MieterInnen von Mahlower Block und Emser Str. schützen - vertagt
+- TOP 12.4: Leichte Sprache der BVV-Verwaltung - vertagt
+- TOP 12.5: Psychosoziale Betreuung im Bezirk Neukölln - vertagt
+- TOP 12.6: Klare Kante gegen Privatisierung von Schulliegenschaften? - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Verbot der Einfahrt in der Richardstraße - vertagt
+- TOP 14.2: Rudower Dorfteich reinigen - überwiesen
+- TOP 14.3: Ausweichstandort für das Blueberry Inn - überwiesen
+- TOP 14.4: Brände vermeiden - Hausmeister- u. soziale Dienste sicherstellen - vertagt
+- TOP 14.5: Sanitäre Anlagen Sonnengrundschule - vertagt
+- TOP 14.6: Shisha Bars in Neukölln - Kohlenmonoxid Vergiftungen verhindern - vertagt
+- TOP 14.7: Bushaltestelle Kielingerstraße nicht schön wie wir? - vertagt
+- TOP 14.8: Öffnung der U-Bahnhöfe für Obdachlose in der kalten Jahreszeit - überwiesen
+- TOP 14.9: Schulbau soll beim Bezirksamt bleiben - vertagt
+- TOP 14.10: Keine Clan-Märtyrer im Bezirk - in der BVV zurückgezogen
+- TOP 14.11: Selbstbestimmte dritte Option zum Geschlechtseintrag - überwiesen
+- TOP 14.12: Gehweg Primelweg wieder herstellen - vertagt
+- TOP 14.13: Mieter*innen im Mahlower Block schützen und beraten - vertagt
+- TOP 14.14: Massenschlägerei vor dem Rathaus vermeiden - überwiesen
+- TOP 14.15: Praxisorientiertes Sportfach Selbstverteidigung - vertagt
+- TOP 14.16: Wachschutz an Neuköllner Schulen, Mehr Sicherheit für Schüler und Lehrer - vertagt
+- TOP 14.17: Dringend benötigte Personalverstärkung Sonnengrundschule - vertagt
+- TOP 14.18: Alternative Sportstätte herstellen - vertagt
+- TOP 14.19: Bauausschuss Sonnengrundschule - vertagt
+- TOP 14.20: Kältebahnhöfe offenhalten - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Rahmenbedingungen für inklusive Beschulung schaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Zur Änderung des angeordneten absoluten Halteverbotes vor dem Grundstück Stubenrauchstraße Nr. 100. - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Aufklärungskampagne zu Masernimpfung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Verlängerung der Veränderungssperre XIV-24-1/31 für die Grundstücke mit der Lagebezeichnung Lahnstraße 33A, Naumburger Straße 33 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-24-1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Weitere Verlängerung der Veränderungssperre XIV-60/29 - mit Abschlussbericht zur Kenntnis genommen
