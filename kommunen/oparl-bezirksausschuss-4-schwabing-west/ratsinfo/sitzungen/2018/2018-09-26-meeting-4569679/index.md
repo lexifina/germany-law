@@ -1,0 +1,115 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-09-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569679
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569679
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: 18.jetzt – Fest junger Erwachsener im Rathaus am 13.10.2018: Vertretung des BA 4?
+- TOP 2.2.: (E) Stadtbezirksbudget PA/SPIELkultur e.V. 6. City Stories Geschichtenfestival vom 11. - 14.10.2018 1.200,00 Euro Az.: 0262.0-4-0221
+- TOP 2.3.: (E) Stadtbezirksbudget heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V. 30jähriges Jubiläum am 22.10.2018 2.489,34 Euro Az.: 0262.0-4-0219
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis für die Anschaffung eines Planschbeckens (Stiftzwerge e.V.)
+- TOP 3.2.2.: Bewilligungsbescheid für 20 Naturführungen der Gärtnerei Stängle & Limmer
+- TOP 3.2.3.: Bewilligungsbescheid für die Schule der Phantasie an der Grundschule Farinellistraße
+- TOP 3.2.4.: Marli-Bossert-Stiftung: Rückblick auf das geförderte „Festival der Generationen“
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: München lebt Vielfalt – Interkultureller Integrationsbericht 2017 (Beschluss der Vollversammlung vom 25.07.2018, Sitzungsvorlage Nr. 14-20/V 11466)
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Belgradstr. 10 „Hiegl Manufaktur“: Aufstellung einer neuen Verkaufseinrichtung
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Belastung der Anwohner durch Veranstaltungen im Olympiapark (Antwort des Kreisverwaltungsreferats auf Anwohnerbeschwerde und BA-Schreiben vom Juni 2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Münchenstift: Kurzbericht zum bezuschussten öffentlichen Bücherschrank
+- TOP 3.3.1.: „Der Alte“ am 17.09.2018 auf dem Elisabethplatz
+- TOP 3.3.2.: „Der Alte“ am 17.09.2018 vor Agnesstr. 16
+- TOP 3.3.3.: „Netzrauschen - Phoenix“ am 24.09.2018 im Luitpoldpark
+- TOP 3.3.4.: „Soko München“ am 19.09.2018 nördlich Winzererstr. 131
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Das Weinhaus“, Bauerstr. 2
+- TOP 3.4.2.: Schank- und Speisewirtschaft „Neukölln“, Clemensstr. 82
+- TOP 3.4.3.: Schank- und Speisewirtschaft „Le Voyage“, Fallmerayerstr. 16
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Vorbescheid Gernotstr. 1 – 9: Aufstockung einer Wohnanlage, Anbau von Aufzügen und Neubau einer Tiefgarage (Gernotstr. 1-9/Schleißheimer Str. 238-244)
+- TOP 2.1.2.: Vorbescheid Lothstr. 19: Neubau mit Büroflächen und Tiefgarage
+- TOP 2.1.3.: Hiltenspergerstr. 84: Neubau eines Wohngebäudes (52 WE) mit Tiefgarage (52 Stellpl.)
+- TOP 2.1.4.: Friedrichstr. 29: Nutzungsänderung / Umbau einer Bankzeigstelle zu einer Ladenfläche
+- TOP 2.1.5.: Tektur Kraepelinstr. 2: Max-Planck-Institut für Psychiatrie: Neubau Präklinisches Zentrum (PCC), Abbruch Bestand, Neuerrichtung Laborgebäude
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Grundstückstausch Belgradstr. 107/109 (Antwort des Kommunalreferats auf BA-Schreiben vom 26.07.2018)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.2.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 3.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Vorfahrtsregelung statt Rechts-vor-Links in der Birnauer Straße
+- TOP 1.2.: Bürger: Radschnellwege in der Schleißheimer Straße (vertagt aus dem Ferienausschuss)
+- TOP 1.3.: Bürger: Städtischen Altkleidercontainer Bonner Platz wieder aufstellen
+- TOP 1.4.: Bürgerin: Pflanzkübel entlang des Gehwegs Fallmerayerstr. 29 beibehalten
+- TOP 1.5.: Bürger: Baumschnitt in der Römerstr. 30 genehmigt?
+- TOP 1.6.: Bürgerin: Verparkter Grünstreifen vor Winzererstr. 136-140
+- TOP 1.7.: Bürger: Parkplatzsituation westlich des Schwabinger Krankenhauses
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Ainmillerstr. 38: Fällung zweier Bergahorne
+- TOP 2.1.2.: Infanteriestr. 16: Fällung einer Rotfichte
+- TOP 2.2.1.: Parkraummanagement in München – Umsetzung Sektor V (Anhörung zum Beschlussentwurf für den Stadtrat)
+- TOP 2.2.2.: Querungshilfe Belgrad-/Unertlstaße (Entscheidung über Projektplanung)
+- TOP 2.2.3.: Neubau der Erschließungsstraßen und Fußgängerbereiche im Zuge des Bebauungsplans mit Grünordnung Nr. 1954 („Kreativfeld“)
+- TOP 2.2.4.: Austausch von Lichtsignalanlagen: a) Bayernplatz / Karl-Theodor-Straße b) Ackermann- / Schleißheimer Straße
+- TOP 2.2.5.: Austausch von Lichtsignalanlagen a) Hohenzollernplatz / Tengstraße b) Elisabethstraße / Tengstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Buslinie 59 – Pünktlichkeitsentwicklung und Dynamische Fahrgastinformationeninformationen (Antwort der MVG auf BA-Schreiben vom 26.07.2018 und Ergänzung vom 29.08.2018)
+- TOP 3.1.2.: Begrünung der Georgenstraße mit Bäumen
+- TOP 3.1.3.: Optimierung der Haltverbote in der Therese-Studer-Straße
+- TOP 3.2.1.: Baumschäden durch Abrissarbeiten auf dem Grundstück Belgradstr. 109 (Antwort der unteren Naturschutzbehörde auf Hinweis des BA vom 06.09.2018)
+- TOP 3.3.1.: Feuerwehranfahrtszone Adelheidstr. 27
+- TOP 3.3.2.: Gleisbau in der Schleißheimer Straße zwischen Nordbad und Wendeschleife Petuelring
+- TOP 3.3.3.: Fernwärmearbeiten Elisabeth-Kohn-Str. 4 und Seite Ackermannstraße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Urbanes Wohnen e.V.: Verwendungsnachweis zum geförderten Projekt „Urbanes BezirksNaturNetz Schwabing-West“
+- TOP 3.4.2.: Programm „Bürgerinnen und Bürger gestalten ihre Stadt“ - Bürgerbeteiligung in den Stadtvierteln (Information über Programm und Antragsverfahren für 2019)
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Anhörungsrecht für die Einrichtung von Elektroladestationen (Anhörung zum Antrag des BA 16 Ramersdorf-Perlach auf Änderung der BA-Satzung)
+- TOP F.2.: Bildung der Bezirksausschüsse für die Amtsperiode 2020-2026 (Anhörung zur nötigen Anpassung der Anlage 2 der BA-Satzung)
+- TOP F.3.: Anhörungsrecht bei Gleiserneuerungen (Anhörung zum Antrag des BA 13 Bogenhausen auf Änderung der BA-Satzung)
+- TOP G: Verschiedenes
+- TOP H: Termine
