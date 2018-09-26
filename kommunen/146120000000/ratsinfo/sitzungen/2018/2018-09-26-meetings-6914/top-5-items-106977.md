@@ -1,0 +1,8 @@
+# TOP 5: Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) unter Abänderung des Beschlusses V0448/15 vom 19. November 2015
+
+- Sitzung: 35. Sitzung des Ortsbeirates Leuben (2018-09-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/106977
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/33391
