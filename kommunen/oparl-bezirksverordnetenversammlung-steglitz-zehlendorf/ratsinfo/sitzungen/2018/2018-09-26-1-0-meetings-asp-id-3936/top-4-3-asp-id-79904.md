@@ -1,0 +1,8 @@
+# TOP 4.3: Mit gutem Beispiel voran: Breite Unterstützung bei der Wahl von Standorten für Flüchtlingsbauten ist beste Voraussetzung für Integration
+
+- Sitzung: 15. öffentliche Sitzung des Integrationsausschusses (2018-09-26)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=79904
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=79904
