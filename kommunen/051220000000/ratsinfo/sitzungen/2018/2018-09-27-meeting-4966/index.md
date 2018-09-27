@@ -1,0 +1,66 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-09-27T17:00:00+02:00
+- Ende: 2018-09-27T19:50:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYRmKnGpYUEyNG3MRHwAquw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4966
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfo8z2X3D9UtTs4pG2XKxAbpBCYRy9xSr0kYfxR4zTIa/Bekanntmachung_Rat_27.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUbGJwdMicPW86o7-IQ-0qYJqbY7DoLL7Wu8es4N1dLF/Oeffentliche_Niederschrift_Rat_27.09.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Geförderter Wohnungsbau
+- TOP 1.2: Kommunikation rund um die Umbau- und Sanierungsmaßnahme Verwaltungsgebäude Bonner Straße 100
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des Rates am 28.06.2018
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Überarbeitete Ziele und Maßnahmen als Ergebnis der interfraktionellen Abstimmungen
+- TOP 6.1: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Antrag der CDU-Ratsfraktion vom 24.09.2018
+- TOP 6.2: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Überarbeitete Ziele und Maßnahmen als Ergebnis der interfraktionellen Abstimmungen
+- TOP 6.3: Nachhaltigkeitsstrategie der Stadt Solingen im Modellprojekt "Global Nachhaltige Kommune NRW" hier: Antrag der Ratsfraktion DIE LINKE vom 27.09.2018
+- TOP 7.: Einführung einer Nachhaltigkeitseinschätzung hier: gemeinsamer Antrag der FDP-Ratsfraktion und der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 12.09.2018
+- TOP 8.: Einbringung des Haushaltsentwurfes für das Jahr 2019
+- TOP 9.: Stellenplannachtrag 2018
+- TOP 10.: Verkaufsoffene Sonntage Solingen Mitte - Erlebnissonntag zum Brückenfest am 28.10.2018 - Wochenend-Weihnachtsmarkt am 16.12.2018
+- TOP 11.: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“
+- TOP 12.: Serielles, transnationales Welterbe Müngstener Brücke: „Europäische Großbogenbrücken des 19. Jahrhunderts"
+- TOP 13.: Masterplan Grünes Städtedreieck – Region mit Weitsicht
+- TOP 14.: Änderung des Ortsrechts sowie Aufhebung des Ratsbeschlusses vom 03.07.2014 zur Übertragung der Aufgaben zur Vorberatung von Anregungen und Beschwerden (Punkt 17, Vorlage 82)
+- TOP 15.: Umbau- und Sanierungsmaßnahmen am Verwaltungsgebäude Bonner Straße 100 im Rahmen der 2-Standorte-Konzentration
+- TOP 16.: Umbau- und Sanierungsmaßnahmen am Standort Bonner Straße 100 im Rahmen der 2-Standorte-Konzentration
+- TOP 17.: Teilauslagerung der Gesamtschule Höhscheid unter Bildung eines dritten Teilstandortes
+- TOP 18.: Gute Schule 2020
+- TOP 19.: Freies Parken für Elektrofahrzeuge - Konzept zur Umsetzung hier: Auftrag des ASUKM vom 12.03.2018
+- TOP 20.: Bildung eines Runden Tisches zum Umgang mit Schäden infolge von Überflutung der Hofschaft Haasenmühle hier: Antrag der FDP-Ratsfraktion vom 12.09.2018
+- TOP 21.: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der SPD-Ratsfraktion vom 13.09.2018
+- TOP 21.1: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der Ratsfraktion DIE LINKE vom 26.09.2018
+- TOP 22.: Zustimmung zu einer investiven Mehrauszahlung gemäß § 83 GO NRW Hier: Straßenbauvorhaben „Nebenanlagen Höhscheider Weg“
+- TOP 23.: Jahresabschluss 2017 der Technischen Betriebe Solingen Feststellung des Jahresabschlusses
+- TOP 24.: Jahresabschluss 2017 der Technischen Betriebe Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 25.: Jahresabschluss 2017 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 26.: Jahresabschluss 2017 des Eigenbetriebs Wasserversorgung Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 27.: Bauleitplanung Friedenstraße/ An den Eichen Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 721 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet östlich der Friedenstraße zwischen der Straße An den Eichen im Norden und der Höhscheider Straße im Süden (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid –
+- TOP 28.: Bauleitplanung Landwehr Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 570 für das Gebiet südöstlich der Straße Landwehr, nördlich der Stadtgrenze zu Langenfeld und westlich der Bahnstrecke Köln – Wuppertal (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 29.: Bauleitplanung Friedrich-Ebert-Straße/ Erbslöhstraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes W 656 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB zum Vorentwurf des Bebauungsplanes W 656, jeweils für das Gebiet zwischen der Friedrich-Ebert-Straße, der Rosenkamper Straße und der Erbslöhstraße.
+- TOP 30.: Verschiedenes
+- TOP 30.1: Mitteilungen der Verwaltung
+- TOP 30.1.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. und 2. Quartal 2018
+- TOP 30.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des Rates am 28.06.2018
+- TOP 4.: Stadtwerke Solingen GmbH (SW SG) - Aufstockung der Beteiligung an der Trianel Erneuerbare Energien GmbH & Co. KG
+- TOP 5.: Ermächtigung zur Übernahme des hälftigen SBG-Verlustes 2017
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
