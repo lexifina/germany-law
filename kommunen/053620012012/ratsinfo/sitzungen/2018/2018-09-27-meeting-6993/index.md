@@ -1,0 +1,51 @@
+# Ausschuss für Bauen und Umwelt (24. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-09-27T18:02:00+02:00
+- Ende: 2018-09-27T19:25:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-241
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZTscysOln2oy4mG4YIEWqZI
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6993
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen und Umwelt) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbiFBgJD_8MIvEYTC4iI1BFeH2nKeIZAAGxG788hKYvE/Bekanntmachung_Ausschuss_fuer_Bauen_und_Umwelt_27.09.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen und Umwelt) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWbsiaJvlkYLGtrre7Rulorylu--m514M_NsX493q8Ed/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen_und_Umwelt_27.09.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschriften vom 28.06.2018 und 12.07.2018
+- TOP 2.: Anregung/Beschwerde nach § 24 GO NRW vom 18.08.2018; hier: Beeinträchtigungen der Gartennutzung durch Pollenflug und Schattenwurf durch den Bewuchs des Biotops zwischen den Straßen "Auf der Pehle" und "Alte Bonnstraße" - (kein Text vorhanden)
+- TOP 3.: Anträge auf Baumfällungen Bezug: Baumfällanträge - (kein Text vorhanden)
+- TOP 4.: Mitteilungen
+- TOP 4.1: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 4.1.1: Eckdorfer Mühlenweg: Kanal- und Landschaftsbaumaßnahme
+- TOP 4.1.2: Heinrich-Esser-Straße: Kanal- und Straßenbaumaßnahme
+- TOP 4.1.3: Erschließungsgebiet Bonnstraße Lichius
+- TOP 4.1.4: Janshof / Rathaus B
+- TOP 4.1.5: Am Krausen Baum: Kanal und Straßenbau
+- TOP 4.1.6: Stadtbahnhof Brühl-Mitte: Unterführung
+- TOP 4.1.7: Steingasse / Alte Bonnstraße: Kanalbaumaßnahme
+- TOP 4.1.8: Stiftstraße: Straßenbaumaßnahme
+- TOP 4.1.9: Am Inselweiher: Stützwand
+- TOP 4.1.10: Comesstraße / Kölnstraße: Platzfläche am Ockenfels-Gebäude
+- TOP 4.1.11: Gustav-Wegge-Straße: behindertengerechte Haltestelle
+- TOP 4.1.12: Bebauungsplan 06.15 Alte Bonnstraße / Otto-Wels-Straße
+- TOP 4.1.13: Steingasse / Pützgasse: Stellplätze
+- TOP 4.1.14: Franzstraße: Kanal- und Straßenbauarbeiten
+- TOP 4.1.15: Barrierefreie Bushaltestellen
+- TOP 4.1.16: Schulstraße: Gehweg / Stellplätze vor der ehemaligen Corrida-Bar
+- TOP 5.: Anfragen
+- TOP 5.1: Phantasialand: Feuerwerk Wintertraum
+- TOP 5.2: Abfallpräsentation, Vorlage 368/2017
+- TOP 5.3: Steinweg: Baustelle vor der VR Bank
+- TOP 5.4: Gelbe Tonnen
+- TOP 5.5: Eckdorfer Straße: Einbahnstraßenregelung
+- TOP 5.6: Eckdorfer Mühlenweg: Beschilderung Einbahnstraße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 6.: Ökokonto der Stadt Brühl - Ausgleichsflächenbedarf im Rahmen der FNP-Neuaufstellung und Ankauf von Ökopunkten - Bezug: Vorlage Nr. 445/2017 - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 7.1: Schulstraße: Straßenbauarbeiten
+- TOP 8.: Anfragen
+- TOP 8.1: Steingasse: Einfahrt BTV-Sportpark
