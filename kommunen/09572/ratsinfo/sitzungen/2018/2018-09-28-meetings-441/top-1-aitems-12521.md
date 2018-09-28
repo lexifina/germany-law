@@ -1,0 +1,6 @@
+# TOP 1: Vergabe verschiedener Zuschüsse;
+
+- Sitzung: 32. Sitzung des Kreisausschusses (2018-09-28)
+- Körperschaft: Landkreis Erlangen-Höchstadt
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/agendaitems/12521
