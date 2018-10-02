@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-10-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674466
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674466
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 2.3.: Auskünfte der Stadtverwaltung zum Derzbachhof
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.7.: Parksituation Maisinger Platz
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 8.3.: (U) Gaststättenfortführung: Königswieser Straße 5
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 04.09.2018
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Solln von 1873 Beschaffung zweier Übungspuppen, einer Nebelmaschine und mehrerer Helmlampen 4.248,22 € Az: 0262.0-19-0229
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelischer Verein München-Solln e.V. Hausaufgabenhilfe vom 01.10.2018 - 27.07.2018 7.160,00 Euro Az.: 0262.0-19-0227
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Begrünung Thalkirchner Platz Empfehlung Nr. 14-20 / E 01977 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 4.4.: (E) Ziffer 2: Leerung von Wertstoffcontainern Empfehlung Nr. 14-20 / E 01983 der Bürgerversammlung des Stadtbezirks 19 - Thalkirchen-Obersendling-F.. am 15.05.2018
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.: (Antrag) Fahrbahnmarkierung Boschetsrieder Straße
+- TOP 5.3.: (Antrag) Kurzparkregelung Forstenrieder Allee 70
+- TOP 5.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Widmung einer Teilstrecke der Constanze-Hallgarten-Straße
+- TOP 5.5.: (A) Satzungsänderung: Anhörungsrecht bei Gleiserneuerungen
+- TOP 5.6.: (Antrag) Weiterbetrieb der Buslinie 135
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Bebauungsplan Deckelgelände
+- TOP 6.4.: (Antrag) Erhalt des gesamten Derzbachhof-Areals und Umfeld im Ensemble Forstenried
+- TOP 6.5.: (A) Zweckentfremdung: Obersendling
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Nachbarschaftstreff im Quartier „Am Südpark“
+- TOP 7.3.: (A) Keine Bebauung auf der Grünfläche Kistlerhofstraße / Ecke Münsinger Straße BV-Empfehlung Nr.14-20 / E 01974
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee: 30.10. bis 06.11.18
+- TOP 8.4.: Zweiter öffentlicher Bücherschrank im 19. Stadtbezirk
