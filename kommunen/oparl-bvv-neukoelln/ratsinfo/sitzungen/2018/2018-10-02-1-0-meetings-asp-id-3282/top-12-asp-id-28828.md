@@ -1,0 +1,7 @@
+# TOP 12: Nächste Sitzung am 08. November 2018 mit dem Jugendhilfeausschuss
+
+- Sitzung: 22. öffentliche Sitzung des Ausschusses für Bildung, Schule und Kultur (2018-10-02)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=28828
+- Ergebnis: erledigt
