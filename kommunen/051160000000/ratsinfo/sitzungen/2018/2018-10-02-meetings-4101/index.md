@@ -1,0 +1,64 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-10-02T17:00:00+02:00
+- Ende: 2018-10-02T21:07:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4101
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4101
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 30. Sitzung des Hauptausschusses am 29.08.2018 -öffentlicher Teil- Siehe Anlage - Niederschrift ohne Einwendung
+- TOP 1.1: Dienstreisen von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 2: Gründung der Campus Mönchengladbach GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 3: Einrichtung und Betreiben einer Touristeninformation - Kenntnisnahme
+- TOP 4: Bericht zum Strategischen Controlling - Kenntnisnahme
+- TOP 5: HSP-Umsetzungsbericht 30.06.2018 - Kenntnisnahme
+- TOP 6: Dritter Nachtrag Satzung mags - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: TOP 3: Dritter Nachtrag zur Satzung der Stadt Mönchengladbach über die "mags Möncheng-ladbacher Abfa - Mit Stimmenmehrheit abgelehnt
+- TOP 7: Wirtschaftsplan 2019 der mags - Mit Stimmenmehrheit beschlossen
+- TOP 8: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 9: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 10: Beteiligung der NEW AG - Einstimmiger Beschluss
+- TOP 11: Beteiligung an der Sozial-Holding - Einstimmiger Beschluss
+- TOP 12: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 - Kenntnisnahme
+- TOP 13: Reduzierung Zeitrahmen Plakatwerbung Wahlen und Vierter Nachtrag Sondernutzungssatzung - An den Rat verwiesen
+- TOP 14: Ordnungsbehördliche Verordnungen Sonntagsöffnungen 2018 - Mit Stimmenmehrheit beschlossen
+- TOP 15: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - In den nächsten Ratszug geschoben
+- TOP 16: Leistungsvereinbarung mit dem Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 17: Aufbau von 5 Modul-Fertigbauanlagen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 17.1: Aufbau von 5 Modulfertigbauanlagen und 5 Großtagespflegestellen - Mit Stimmenmehrheit abgelehnt
+- TOP 17.2: Aufbau von 5 Modul-Fertigbauanlagen und 5 Großtagespflegestellen - Vom Antragsteller zurückgezogen
+- TOP 18: Familienpaten SKF LV - Einstimmiger Beschluss
+- TOP 19: Verlängerung der Leistungsvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchengladbach - Einstimmiger Beschluss
+- TOP 20: Offene Kinder- und Jugendarbeit - Einstimmiger Beschluss
+- TOP 21: Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss
+- TOP 22: Verlängerung der Leistungsvereinbarungen - Einstimmiger Beschluss
+- TOP 23: Quartierskonzept Arbeitslosenzentrum - Kenntnisnahme
+- TOP 24: Stadtteil- und Quartierskonzept - Kenntnisnahme
+- TOP 24.1: Vorlage 3279/IX: Integriertes Stadtteil- und Quartierskonzept - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Abwasserbeseitigungskonzept 2019-2024 - Einstimmiger Beschluss
+- TOP 26: Masterplan Elektromobilität - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 27: BP 776/N, Stadtbezirk Nord, Gladbach und Eicken, nördlich Steinmetzstraße - Mit Stimmenmehrheit beschlossen
+- TOP 28: Verkaufsabsicht der Liegenschaften "Haus Erholung" und "ehem. Haus Zoar" - Mit Stimmenmehrheit beschlossen
+- TOP 28.1: Beratungsvorlage 3119/IX: Verkaufsabsicht der Liegenschaften "Haus Erholung" und "ehem. Haus Zoar" m - Mit Stimmenmehrheit abgelehnt
+- TOP 28.2: TOP: Verkaufsabsicht der Liegenschaften „Haus Erholung“ und „ehem. Haus Zoar“ mit dem Ziel ihrer stä - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2018; 1. Teil - Einstimmiger Beschluss
+- TOP 30: Wahl von Mitgliedern des Umlegungsausschusses - An den Rat verwiesen
+- TOP 31: Ausführung Sporthallensanierung - Einstimmiger Beschluss
+- TOP 32: Brandschutzsanierung, Espenstraße - Einstimmiger Beschluss
+- TOP 33: Erweiterung der Angebote des Gesundheitsamtes - Vom Antragsteller zurückgezogen
+- TOP 34: Pflege-Detektive - Vom Antragsteller zurückgezogen
+- TOP 35: Kultursensible Pflege in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Digitalisierung als Generationengemeinschaftsprojekt: Taschengeldbörse für Mönchengladbach - Vom Antragsteller zurückgezogen
+- TOP 37: Digitalisierung als Generationengemeinschaftsprojekt: SmartCafé-Veranstaltungen für Mönchengladbach - Vom Antragsteller zurückgezogen
+- TOP 38: Arbeitsplatzbesetzung mit Schwerbehinderten in der Stadtverwaltung Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Verhandlungen zwischen Verkehrsverbund Rhein-Ruhr (VRR) und dem Aachener Verkehtsverbund (AVV) mit d - Vom Antragsteller zurückgezogen
+- TOP 40: Neues Konzept einer S-Bahn-Verbindung 6 von Mönchengladbach Hbf bis Köln Hbf - Vom Antragsteller zurückgezogen
+- TOP 41: Verkauf RWE Aktien - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Busverkehr auf der Hindenburgstraße - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Anfragen und Mitteilungen
