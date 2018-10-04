@@ -1,0 +1,57 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-10-04T18:10:00+02:00
+- Ende: 2018-10-04T22:22:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2110
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2110
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anlage 2, Vortrag Controlling http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00089841.pdf
+- Ergebnisprotokoll: Anlage 2, Vortrag Controlling http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00089841.pdf
+- Wortprotokoll: Anlage 2, Vortrag Controlling http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00089841.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Bürgeranträge gem § 24 GO NRW
+- TOP 2.1: Wegeheld - Kenntnisnahme
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.4.1: Interessenbekundung zur Teilnahme am Projekt "Sportplatz Kommune" (Antrag Nr. 194/18) - einstimmig
+- TOP 3.5: B 90/Grüne
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke-Freie Bürger
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Die Linke - Freie Bürger
+- TOP 4.7.1: Haus Hartmann (Anfrage Nr. 193/18) - Kenntnisnahme
+- TOP 4.7.2: Umsetzung der UN Behindertenrechtskonvention (Anfrage Nr. 195/18) - Kenntnisnahme
+- TOP 5: Interkommunale Zusammenarbeit - Kenntnisnahme
+- TOP 6: Dringlichkeitsentscheidungen
+- TOP 7: Wald-KiTa - Antrag auf Übernahme Betriebskosten - einstimmig
+- TOP 8: Benennung eines Beiratsmitgliedes - einstimmig
+- TOP 9: 2. Änderung der Hundesteuersatzung - Kenntnisnahme
+- TOP 10: Finanzen
+- TOP 10.1: Vortrag "Interaktiver Haushalt"
+- TOP 11: Feuerschutz
+- TOP 12: Flüchtlings- und Integrationsangelegenheiten
+- TOP 13: Soziales
+- TOP 13.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Beantwortung von Anträgen/Anfragen
+- TOP 14.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 14.2: Zukunftsplan Frimmersdorf/ Neurath (Antrag Nr. 55/18) - Kenntnisnahme
+- TOP 14.3: Verlegung Weihnachtsmarkt auf Schlossstr. und Schlossplatz (Antrag Nr. 128/18) - Kenntnisnahme
+- TOP 15: Mündliche Anträge/Anfragen
+- TOP 16: Mitteilungen BM
+- TOP 16.1: RWE, Interkommunales Gewerbegebiet A 540n - Kenntnisnahme
