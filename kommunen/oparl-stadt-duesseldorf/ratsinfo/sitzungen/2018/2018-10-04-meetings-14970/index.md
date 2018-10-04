@@ -1,0 +1,71 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-10-04T17:00:00+02:00
+- Ende: 2018-10-04T19:36:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14970
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14970
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326092.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326092.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326092.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Höherhofstraße / Gubener Straße / Nach den Mauresköthen – Umbau des Knotenpunktes zu einem Kreisverk - mehrheitlich beschlossen
+- TOP 5: Kamper Weg - Erstellung von Parkständen - einstimmig beschlossen
+- TOP 6: Wormser Weg - barrierefreier Ausbau der Bushaltestelle Wormser Weg - vertagt
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - einstimmig beschlossen
+- TOP 9: Weihnachtsmarkt in Eller auf dem Gertrudisplatz vom 20.12. bis 23.12.2018 - einstimmig beschlossen
+- TOP 10: Weihnachtsmarkt in Unterbach am 08. und 09.12.2018 - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 12: Zuschüsse der Bezirksvertretung 8 im Jahre 2018 - einstimmig beschlossen
+- TOP 13: Doppischer Produkthaushalt - zur Kenntnis genommen
+- TOP 14: Klimaanpassungskonzept im Stadtbezirk 8 - beantwortet
+- TOP 15: Grundstück Freiheitstraße 78 - beantwortet
+- TOP 16: Umbau Autobahndreieck Düsseldorf Süd und Autobahnkreuz Hilden - beantwortet
+- TOP 17: Sozialräumliche Gliederung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 18: Jugendzentrum Eller - vertagt
+- TOP 19: Brückensanierung Schloss Eller - einstimmig beschlossen
+- TOP 20: PFT-Boden- und Grundwasserverunreinigung Gerresheim – aktueller Sachstand - zur Kenntnis genommen
+- TOP 21: Fahrradabstellplätze für Düsseldorf - zur Kenntnis genommen
+- TOP 22: Fahrradbügel auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 23: Grünpflege in Unterbach - zur Kenntnis genommen
+- TOP 24: Mobilfunkmast Höherhofstraße - zur Kenntnis genommen
+- TOP 25: Luftqualitätsmessung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 26: Querungshilfe Königsberger Straße - zur Kenntnis genommen
+- TOP 27: Ortsumgehung Gerresheim - zur Kenntnis genommen
+- TOP 28: Gehweg Reisholzer Straße - ehemalige Tankstellenzufahrt - zur Kenntnis genommen
+- TOP 29: Papierkörbe Monckartzhofweg - zur Kenntnis genommen
+- TOP 30: Poller Gehweg Ludwigstraße - zur Kenntnis genommen
+- TOP 31: Ludwigshafener Straße - Einrichtung einer Fahrradstraße - zur Kenntnis genommen
+- TOP 32: Verkehrsversuch Vennhauser Allee / Rothenbergstraße - zur Kenntnis genommen
+- TOP 33: Litfaßsäule Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 34: Taubenschlag Parkplatz Eller Mitte - zur Kenntnis genommen
+- TOP 35: Bordsteinabsenkung Heidelberger Straße - zur Kenntnis genommen
+- TOP 36: Parksituation Am Seeblick - zur Kenntnis genommen
+- TOP 37: Zufahrt Unterbacher See Nordstrand - zur Kenntnis genommen
+- TOP 38: Neue Jugendfreizeiteinrichtung Gatherweg 109 - zur Kenntnis genommen
+- TOP 39: Brücke am Schloss Eller - zur Kenntnis genommen
+- TOP 40: Bebauung ehemaliger Schützenplatz Sturmstraße / Sodener Weg - zur Kenntnis genommen
+- TOP 41: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - zur Kenntnis genommen
+- TOP 42: Verkehrsregelung Alt-Eller - zur Kenntnis genommen
+- TOP 43: Verkehrssicherung Kindertagesstätte Königsberger Straße 197 - zur Kenntnis genommen
+- TOP 44: Radweg Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 45: Toilettenanlage Nachbarschaftspark Am Stufstock - zur Kenntnis genommen
+- TOP 46: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - zur Kenntnis genommen
+- TOP 47: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 48: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - zur Kenntnis genommen
+- TOP 49: Lehrerparkplatz der Astrid-Lindgren-Schule, Leuthenstraße 50 - zur Kenntnis genommen
+- TOP 50: Radfahrbeziehungen Karl-Geusen-Straße / Am Stufstock / Gatherweg - zur Kenntnis genommen
+- TOP 51: Grundstück Schlosskirche Eller - zur Kenntnis genommen
+- TOP 52: Verkehrssituation Weinheimer Straße / Klein-Eller - zur Kenntnis genommen
+- TOP 53: Spielplatz GGS Bingener Weg - zur Kenntnis genommen
+- TOP 54: Klimaanpassungskonzept im Stadtbezirk 8 - zur Kenntnis genommen
