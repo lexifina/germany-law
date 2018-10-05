@@ -1,0 +1,58 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-10-05T14:00:00+02:00
+- Ende: 2018-10-05T19:15:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14645
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14645
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326069.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326069.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326069.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführung in der BV 1 - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige
+- TOP 5: Verwaltungsvorlagen
+- TOP 5.1: Leihfahrräder- mündlicher Bericht -
+- TOP 5.2: Pflegeintervalle von öffentlichen Grünanlagen sowie des Straßenbegleitgrüns - mündlicher Bericht -
+- TOP 5.3: Bebauungsplan Nr. 01/011 Ulmer Höh´- Nordteil - Empfehlung einstimmig beschlossen
+- TOP 5.4: Weihnachtsmarkt auf der Nordstraße vom 22.11.2018 bis 30.12.2018 - mehrheitlich beschlossen
+- TOP 5.5: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - Empfehlung abweichend beschlossen
+- TOP 5.6: Bilker Straße 15, Schumann-Haus – Instandsetzung und Umbau zum Museum, Ausführungs- und Finanzierung - Empfehlung einstimmig beschlossen
+- TOP 5.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 5.8: Antikmärkte in der Kö-Galerie und in den Schadow Arkaden im Jahre 2019 - einstimmig beschlossen
+- TOP 5.9: Spezialmärkte in den Schadow Arkaden im Jahre 2019 - einstimmig beschlossen
+- TOP 5.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11: Zwischennutzung Mühlenstraße - Vorschlag zur Nutzung bei Entfall der Stellplatzflächen - Empfehlung einstimmig beschlossen
+- TOP 5.12: Umgestaltung der Mühlenstraße - Bedarfsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 5.13: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - zur Kenntnis genommen
+- TOP 5.14: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - Empfehlung einstimmig beschlossen
+- TOP 5.15: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 6: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2019 - einstimmig beschlossen
+- TOP 7: Beratung des Haushaltsplan-Entwurfes 2019 nebst Anlagen - einstimmig beschlossen
+- TOP 8: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Parken und Campen im Rheinpark während der Messe Caravan-Salon - beantwortet
+- TOP 9.2: Hat die Verwaltung Informationen oder eigene Pläne, was aus dem Schmela Haus in der Altstadt wird? - beantwortet
+- TOP 9.3: Veräußerung des VHS-Gebäudes Franklinstraße - beantwortet
+- TOP 9.4: Anfrage zur Umsetzung des Beschlusses Abstellmöglichkeiten von Fahrrädern am Carlsplatz - beantwortet
+- TOP 10: Anträge
+- TOP 10.1: Errichtung einer Gedenktafel oder Stele am S-Bahnhof Wehrhahn zur Erinnerung an den Bombenanschlag - einstimmig beschlossen
+- TOP 10.2: Anwohnerparken im Bereich Uerdinger Straße 55-63 - mehrheitlich beschlossen
+- TOP 10.3: Nachpflanzung von Straßenbäumen auf der Kapell- und Kaiserstraße - einstimmig beschlossen
+- TOP 10.4: Subjektives Sicherheitsgefühl - mehrheitlich beschlossen
+- TOP 10.5: Erneuerung von Fahrbahnmarkierungen - mehrheitlich beschlossen
+- TOP 10.6: Legosteine für Street Art-Künstlerinnen/-künstler freigeben - einstimmig beschlossen
+- TOP 10.7: Öffentliche Nutzbarkeit des Franklinhofes dauerhaft sichern - mehrheitlich beschlossen
+- TOP 10.8: Verdeutlichung der Verkehrsführung auf der Worringer Straße Richtung Norden - einstimmig beschlossen
+- TOP 10.9: Anderer Stellplatz für Wertstoffcontainer vor Kreuzherrenkirche/Ratinger Straße - mehrheitlich beschlossen
+- TOP 10.10: Vorplatz Kunstsammlung K20 - einstimmig beschlossen
+- TOP 10.11: Prüfung Aufstellung eines Verkehrszeichens - zurückgezogen
+- TOP 11: Verschiedenes
