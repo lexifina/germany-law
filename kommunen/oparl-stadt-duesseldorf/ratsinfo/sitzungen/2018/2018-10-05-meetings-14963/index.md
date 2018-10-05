@@ -1,0 +1,61 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-10-05T16:00:00+02:00
+- Ende: 2018-10-05T18:30:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14963
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14963
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326130.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326130.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326130.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 2: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Plan Nr. 09/016 - Ickerswarder Straße - Öffentlichkeitsbeteiligung - Empfehlung abweichend beschlossen
+- TOP 8: B-Plan-Vorentwurf Nr. 09/013-D.Port/Reisholzer Hafen- Weiteres Vorgehen - Empfehlung einstimmig beschlossen
+- TOP 9: Neubau eines Bewegungsparcours - einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 11: Sitzungstermine 2019 - einstimmig beschlossen
+- TOP 12: Anfrage: Geschwindigkeitsbegrenzung Am Schönenkamp - vertagt
+- TOP 13: Anfrage: Baumlose Baumscheiben - beantwortet
+- TOP 14: Anfrage: Sachstand "Öffnung von Einbahnstraßen für gegenläufigen Radverkehr" - vertagt
+- TOP 15: Anfrage: Fernwärme - beantwortet
+- TOP 16: Anfrage: Signalgeber Werstener Kreuz - beantwortet
+- TOP 17: Anfrage: Sachstand „Umsetzung Glücksspielstaatsvertrag“ - beantwortet
+- TOP 18: Anfrage: Verkehrskonzept Stadtbezirk 9 - beantwortet
+- TOP 19: Anfrage: Hallen- und Freibad Benrath - beantwortet
+- TOP 20: Antrag: Grünanlagen Werstener Kreuz - einstimmig beschlossen
+- TOP 21: Antrag: Radweg Urdenbacher Allee - einstimmig beschlossen
+- TOP 22: Antrag: Verkehrskonzept Stadtbezirk 9 - zurückgezogen
+- TOP 23: Antrag: Verfügungsmittel "Die Arche", Box für Kinderwagen usw. - einstimmig beschlossen
+- TOP 24: Antrag: Verfügungsmittel Holthausen-Itter-Himmelgeist e.V., Weihnachtsbaum - einstimmig beschlossen
+- TOP 25: Antrag: Verfügungsmittel Holthausen-Itter-Himmelgeist e.V., Martinszug - einstimmig beschlossen
+- TOP 26: Antrag: Verfügungsmittel "Karnevalsgesellschaft "Reisholzer Quatschköpp" e.V. 1982 - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel Martinsfreunde Hassels, Martinsumzug - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel Schützenbruderschaft St. Cäcilia Düsseldorf-Benrath e.V. - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Allgemeiner Bürgerverein Urdenbach e.V., Weihnachtsbaum - einstimmig beschlossen
+- TOP 30: Informationsvorlage zum Beschluss der BV 9 vom 22.06.2018, Reinhaltung des Urdenbacher und Benrather - zur Kenntnis genommen
+- TOP 31: Informationsvorlage zum Beschluss der BV 9 vom 22.06.2018, Verkehrslenkung Albrecht-Dürer-Berufskoll - zur Kenntnis genommen
+- TOP 32: Informationsvorlage Werstener Feld/Benninghauser Str. - 179/71/2018 - zur Kenntnis genommen
+- TOP 33: Informationsvorlage zum Beschluss der BV 9 vom 26.01.2018, Anschlussstelle Frankfurter Straße - zur Kenntnis genommen
+- TOP 34: Informationsvorlage zum Beschluss der BV 9 vom 07.07.2017, Gehwegparken Schimmelpfennigstr./Johannes - zur Kenntnis genommen
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 04.05.2018; Verlängerung der Buslinie 727 - zur Kenntnis genommen
+- TOP 36: Antrag: Haushaltsbegleitantrag BSA Am Wald 130 - einstimmig beschlossen
+- TOP 37: Antrag: Haushaltsbegleitantrag Planungsauftrag Benrather Rheinufer - einstimmig beschlossen
+- TOP 38: Antrag: Haushaltsbegleitantrag Sport- und Multifunktionshalle Itterstraße - einstimmig beschlossen
+- TOP 39: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - zur Kenntnis genommen
+- TOP 40: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - zur Kenntnis genommen
+- TOP 41: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 42: Antrag: Haushaltsbegleitantrag Baumstandorte Heubesstraße - einstimmig beschlossen
+- TOP 43: Antrag: Haushaltsbegleitantrag Eissporthalle - einstimmig beschlossen
+- TOP 44: Antrag: Haushaltsbegleitantrag Kinderbücherei Hassels - einstimmig beschlossen
