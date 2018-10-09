@@ -1,0 +1,122 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2018-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4589526
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4589526
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.2.: WEB-Listen der LBK: KW
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 30.08.2018, Livemusik Kiosk Amalienstraße 91-95
+- TOP 5.2.2.: Bürgeranliegen vom 05.09.2018, Verbesserung der Verkehrssituation für die Grund- schule an der Helmholtzstraße im Arnulfpark
+- TOP 5.2.3.: Bürgeranliegen vom 15.09.2018, Bessere Kennzeichnung der Tempo-30-Zone und mehr Zebrastreifen in der Georgenstraße
+- TOP 5.2.4.: Bürgeranliegen vom 18.09.2018, Radweg in der Dachauer Straße
+- TOP 5.2.5.: Bürgeranliegen vom 24.09.2018, Nächtliche Ruhestörung durch Gaststätte „Alter Ofen“
+- TOP 6.1.: Begrünung der Heßstraße mit Bäumen
+- TOP 6.2.: Begrünung der Georgenstraße mit Bäumen
+- TOP 6.3.: Bürgeranliegen TOP A 5.2.3/08 2018, Vorplatz Augustenstraße 1 Antwortschreiben der Polizeiinspektion 12 (s. TOP A 5.22.3/08 2018)
+- TOP 6.4.: Kinderarztversorgung für die Famiien der Maxvorstadt sicherstellen
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag der SPD vom 22.09.2018 Zeitnahe Prüfung der Denkmalwürdigkeit des Anwesens Adalbertstraße 31a
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 24.09.2018 Rechtlicher Rahmen zur Anbringung kleiner Solarpanels an den Außenflächen von Balkonen
+- TOP 2.1.1.: Baulisten der LBK: 35., 36., 37. u. 38. KW
+- TOP 2.1.3.: Kaulbachstraße 1-1a – Vorbescheid Abbruch und Neubau eines Büro- und Wohnhauses mit Tiefgarage (12 Stpl.) sowie Errichtung eines zweigeschossigen Zwischenbaus mit Anschluss an das denkmalgeschützte Gebäude
+- TOP 2.1.4.: Amalienstraße 33 – Vorbescheid Generalsanierung und Erweiterung eines Gebäudes
+- TOP 2.1.5.: Neureutherstraße 16 Umbau und Erweiterung eines Wohngebäudes, Neubau eines Rückgebäudes mit Tiefgarage sowie Fassadenertüchtigung Bestandsgebäude
+- TOP 2.1.6.: Schellingstraße 110-116 – Tektur hier: Verkleinerung der TG und Umplanung der Fassade im 1. DG, Erweiterung des WDVS im Sockelbereich
+- TOP 2.1.7.: Augustenstraße 96 – Vorbescheid Dachaufstockung und DG-Ausbau zu Wohnzwecken (3 WE)
+- TOP 2.1.8.: Augustenstraße 90 RGB – Vorbescheid Neubau eines Mehrfamilienhauses (15 WE) mit Tiefgarage (28 Stellpl.) und Pkw-Aufzug
+- TOP 2.1.9.: Theresienstraße 122 – Vorbescheid Anbau eines Studentenwohnheis mit 12 Betten, Umbau einer Gewerbeeinheit, DG-Ausbau, Umbau von Garagen zu Duplexgaragen
+- TOP 2.1.10.: Schnorrstraße 6 – Vorbescheid Neubau Wohngebäude mit Garage / Abbruch Garagengebäude
+- TOP 2.1.11.: Amalienstraße 81 Aufstockung des Mittelgebäudes
+- TOP 3.2.1.: Barer Straße 29, eine Robinie, ein Feldahorn, eine Sommerlinde
+- TOP 3.2.2.: Karlstraße 6, ein Eschenahorn
+- TOP 3.2.3.: Lothstraße 34, eine Robinie
+- TOP 3.2.4.: Augstenstraße 16, eine Fichte
+- TOP 5.1.: Protokoll der Sitzung der Stadtgestaltungskommission vom 05.06.2018 Schellingstraße 110 - 116
+- TOP 5.2.: Baureferat, Beschlussvorlage Kunstareal – modifizierte Alternative 5 im 3. Stadtbezirk Maxvorstadt Sitzungsvorlage Nr. 14-20 / V 04257
+- TOP 5.3.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 5.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 24.09.2018 Zusätzlicher Radschutzstreifen in der Nymphenburger Straße
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 24.09.2018 E-Radeln in München
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 24.09.2018 Abstellmöglichkeiten für Lastenpedelecs schaffen
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen vom 24.09.2018 Einsatz von Laubbläsern auf dem Alten Nördlichen Friedhof untersagen
+- TOP 1.5.: Antrag Bündnis 90/Die Grünen vom 24.09.2018 „Neureutherplatz“ (Grünfläche zwischen Barer Straße, Neureuther- und Nordendstraße) aufwerten und gestalten
+- TOP 1.6.: Antrag Bündnis90/Die Grünen vom 24.09.2018 Installieren einer öffentlichen Toilette im Umfeld des Königsplatzes
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: MVG, Anhörung Neue Bushaltestelle „Siegestor“ an der Ludwigstraße im Bereich der Ludwig-Maximilians- Universität
+- TOP 2.1.2.: Sofortige Verbesserung der Verkehrssituation in der Gabelsbergerstraße, Anhörung Bürgerversammlungsempfehlung Nr. 14-20 / E 01758 Sitzungsvorlage Nr.. 14-20 / V 10773 vom 06.02.2018 Schreiben des KVR zur Ablehnung der Beschlussvorlage durch den BA 3
+- TOP 2.1.3.: Referat für Arbeit und Wirtschaft, Anhörung zur Beschlussvorlage Maßnahmen zur Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs
+- TOP 2.1.4.: (E) Sofortige Verbesserung der Verkehrssituation in der Gabelsbergerstraße
+- TOP 2.2.1.: Augustenstraße 16, Aufstellung einer Sitzgelegenheit
+- TOP 2.2.2.: Pappenheimstraße 4, Aufstellung von neuen Verkaufseinrichtungen
+- TOP 2.3.1.: Schleißheimer Straße 69, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.4.1.: Radlsicherheitscheck XXL am 25./26.10.2018 auf dem Professor-Huber-Platz
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Streetlife Festival/Corso Leopold am 08. und 09.09.2018 zwischen Odeonsplatz und Münch- ner Freiheit; Genehmigungsbescheid
+- TOP 3.2.: „ZAR ZIP FLY ZORO Buch Release“ am 07.09.2018, hinter der Glyptothek Eilentscheidung des Vorsitzenden, Zustimmung durch Fristablauf
+- TOP 3.3.: Kreisverwaltungsreferat Kreuzung Katharina-von-Bora-Straße/Karlstraße, Beibehaltung der Signalanlage
+- TOP 3.4.: Kreisverwaltungsreferat Aufhebung des absoluten Haltverbotes vor der ehem. Feuerwache Nordendstraße 27
+- TOP 3.5.: Kreisverwaltungsreferat, Ausnahmgenehmigung „ZAR ZIP FLY ZORO Buch Release“, Königsplatz hinter Glyptothek, 07.09.2018
+- TOP 3.6.: Kreisverwaltungsreferat, Bescheid-Nachtrag Streetlife Festival/Corso Leopold 08. und 09.09.2018 zwischen sog. Odeonsplatz und Münchner Freiheit
+- TOP 3.7.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a) Seidlstraße, Dachauer Straße, Brienner Straße: Fernwärme Änderung Bauphase 2 B b) Richard-Wagner-Straße mit Gabelsbergerstraße, REHA Fernwärmeleitung c) Deroystraße 15-17 u. Seite Tilystraße, Verlegung Fernwärmeleitung
+- TOP 3.8.: Baureferat, Beschlussvorlage Marsstraße zwischen Pappenheimstraße und Seidlstraße im 3. Stadtbezirk Maxvorstadt Sitzungsvorlage Nr. 14-20 / V 12445
+- TOP 3.9.: Referat für Gesundheit und Umwelt, Erlaubnisbescheid Jahresgenehmigng für Arbeiten an Anlagen des ÖPNV; Ausnahmezulassung für mechani- sche Instandhaltung Fahrweg Tram
+- TOP 3.10.: Kreisverwaltungsreferat, Ausnahmegenehmigung zur Nutzung städtischen Grünanlagen Kunstaktion „Radio-Walk the Talk“ am 19.09.2018
+- TOP 3.11.: Kreisverwaltungsreferat, altersbedingter Austausch von Lichtsignalanlagen a) Mars-/Seidlstraße b) Augusten-/Brienner Straße
+- TOP 3.12.: Kreisverwaltungsreferat, Ausnahmegenehmigung Spielfest zum Weltkindertag am 20.09.2018 im Alten Botanischen Garten
+- TOP 3.13.: Referat für Arbeit und Wirtschaft, Baureferat und KVR, Beschlussvorlage Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Sitzungsvorlage Nr. 14-20 / V 12596
+- TOP 3.14.: Stadtwerke München, Baumaßnahmen a) Marsstraße/Seidlstraße, Fernwärme
+- TOP 3.15.: Kreisverwaltungsreferat, Genehmigungsbescheid Bauernmarktmeile am 30.09.2018
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Kath. Kindertagestätte "St. Bonifaz" Anschaffungen und Gewalt-Präventions-Projekt 971,77€ Az.:0262.0-3-0220
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget super+ e.V. Ausstellung vom 04. - 28.10.2018 1.760,00 Euro Az.: 0262.0-3-0217
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Direktorium, Anhörung zu einer vom BA 13 Bogenhausen beantragten Satzungsänderung Anhörungsrecht der Bezirksausschüsse bei Gleiserneuerungen
+- TOP F.2.: Referat für Stadtplanung und Bauordnung Programm „Bürgerinnen und Bürger gestalten ihre Stadt“, Bürgerbeteiligung in den Stadtvierteln
+- TOP G: Nicht öffentliche Sitzung
