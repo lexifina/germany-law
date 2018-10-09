@@ -1,0 +1,155 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-10-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4640305
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4640305
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Fugänger Übergang in der Kreuzung Wirtstraße / Sipxstraße (FF UA Verkehr)
+- TOP 2.1.2.2.: Balanstraße 369 – Thuja in 100 cm Höhe 130 cm Umfang Sorge um Fällung wegen Bau von zwei zusätzlichen Häusern im Garten (FF UA Umwelt)
+- TOP 3.9.1.1.: Weißenseestraße 8
+- TOP 3.9.1.2.: Marklandstraße 15
+- TOP 3.9.1.3.: Forggenseestraße 5
+- TOP 3.9.1.4.: Pennstraße 71
+- TOP 3.9.1.5.: Tegernseer Landstraße 210
+- TOP 3.9.1.6.: Sachrangerstraße 6
+- TOP 4.1.: Beteiligung von Kindern und Jugendlichen im 17. Stadtbezirk Obergiesing-Fasangarten stärken
+- TOP 4.2.: Umstieg auf effizientere Tempokontrollen im Straßenverkehr mittels Lasermesstechnik oder Abschnittskontrolle und Erhöhung der Anzahl an Messgeräten
+- TOP 5.1.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Impro-Training im Schuljahr 2018/19 770,00 € 0262.0-17-0189
+- TOP 5.1.2.: (E) Stadtbezirksbudget Munich Marvels Softball Club e.V. Anschaffung eines Lagercontainers 1.740,81 € Az. 0262.0-17-0182
+- TOP 5.1.3.: (E) Stadtbezirksbudget Cool Strong Kids e.V. Cool Strong Kids - Kurse im Schuljahr 2018/19 4.200,00 Az. 0262.0-17-0183
+- TOP 5.1.4.: (E) Stadtbezirksbudget AWO KV München-Stadt e.V., ASZ Obergiesing 10-jähriges Jubiläum mit einem Marktplatz der Informationen am 08.11.2018 370,00 € 0262.0-17-0188
+- TOP 5.1.5.: (E) Stadtbezirksbudget AWO KV München-Stadt e.V., ASZ Obergiesing Informationsveranstaltung zur Vorstellung des Gesamtprojektes Münchner Altenhilfe (GMA) am 14.11.2018 642,00 € Az. 0262.0-17-0187
+- TOP 5.1.6.: (E) Stadtbezirksbudget Poesieboten e.V. Poetischer Adventskalender vom 03. - 26.12.2018 1.126,65 € Az. 0262.0-17-0186
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Baulisten
+- TOP 6.1.4.2.: McGraw Gelände innovativ und langfristig denken Anträge der SPD Fraktion
+- TOP 6.1.4.3.: Perspektive München - Handlungsräume der Stadtentwicklung
+- TOP 6.1.4.4.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 6.1.4.5.: Zweckentfremdung: Perlacher Straße 6
+- TOP 6.1.4.6.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Neue Sitzgelegenheiten an öffentlichen Plätzen Stadtbezirk 17 Obergiesing-Fasangarten
+- TOP 6.2.4.1.: Zuwendung aus dem Stadtbezirksbudget Antrag des AKA - Aktiv für Interkulturellen Austausch e.V. Zuschuss für den Fiormularservice Giesing vom Dezember 2017 bis Februar 2018 Nachträgliche Kürzung der Eigenmittel und Leistungen Dritter
+- TOP 6.2.4.2.: BA-Anhörung kitabarometer: Rückmeldung vom Referat
+- TOP 6.2.4.3.: (U) München lebt Vielfalt Interkultureller Integrationsbericht 2017
+- TOP 6.2.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.4.5.: (U) Schwanseestraße Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2017 bis 2020 Kindertagesstätten sonstiger Träger; Kinderkrippe an der Schwanseestraße 71a im 17. Stadtbezirk Obergiesing-Fasangarten Leistung eines Baukostenzuschusses
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) + (U) Bahnübergänge der S7 über Balan- und Fasangartenstraße Empfehlung Nr. 14-20 / E 02104 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 28.06.2018
+- TOP 6.3.2.2.: (E) Bauliche Sicherung von Fußgänger- und Fahrradflächen entlang der St.-Bonifatius-Straße Empfehlung Nr. 14-20 / E 02079 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 28.06.2018
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Anhörung zu verkehrsrechtlicher Anordnung Tegernseer Landstraße 273 (Ortsfahrbahn) / Stettnerstraße
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegunterführung an der Otkerstraße unter der Tegernseer Landstraße im 17. Stadtbezirk Obergiesing - Fasangarten und im 18. Stadtbezirk Untergiesing - Harlaching Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße Projektkosten (Kostenobergrenze): 2.820.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 155.000 € (brutto)) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung der Projektkostenanpassung zum Mehrjahresinvestitionsprogramm 2018 - 2022 4. Anträge und Petition 4.1 Baumschutz in Giesing ernst nehmen! Antrag Nr. 14-20 / A 03714 der Stadtratsfraktion DIE LINKE 4.2 Barrierefreier Ausbau der Fuß- und Radwegunterführung Otkerstraße; Bau von Aufzügen BA-Antrag Nr. 14-20 / B 03334 des BA 18 4.3 Sachstand zur Bürgerversammlungs-Empfehlung Nr. 14-20 / E 01308 (barrierefreier Ausbau der Unterführung Otkerstraße) BA-Antrag Nr. 14-20 / B 03952 des BA 18 4.4 Petition: Baum in der Otkerstraße erhalten - Aufzug statt Rampe bauen
+- TOP 6.3.4.2.: Montagemitteilung: Erläuterungstafel Ella-Lingens-Platz
+- TOP 6.3.4.3.: Sind umgefahrene Radfahrer selbst schuld? Anfrage der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 28.06.2018
+- TOP 6.3.4.4.: Ein Internet-Portal für Stellplätze-Angebote
+- TOP 6.3.4.5.: S-Bahn-Südring umsetzen!
+- TOP 6.3.4.6.: Einrichten von Fahrradstellplätzen anstelle von Autoparkplätzen Anfrage aus der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 28.06.2018
+- TOP 6.3.4.7.: Park- und Liefersituation in der südlichen Tegernseer Landstraße,
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Unterrichtung über Fällungsanträge, die nach § 20 BezirksausschussS entschieden wurden
+- TOP 6.4.4.2.: Fällungsbescheid Wikingerstraße 1-29
+- TOP 6.4.4.3.: Fällungsbescheid Kapellenfeldstraße 9
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.2.1.: Einladung zur Kampagne munich4EUROPE
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis Freischankfläche; Giesinger Bahnhofplatz 4
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis - Freischankfläche; Tegernseer Landstraße 14
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Anhörungsrecht bei Gleiserneuerungen BA-Antrag Nr. 14-20 / B 04829 des Bezirksausschusses des Stadtbezirks 13 – Bogenhausen vom 08.05.2018
+- TOP 7.3.1.: Bezirk-bezogene Informationen digital veröffentlichen
+- TOP 7.3.2.: (U) Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse Stadtbezirksbudget für München Stadtratsaufträge aus dem Beschluss Nr. 14-20 / V 08072 der Vollversammlung vom 26.07.2017 Fairtrade Town München – die BA&#039;s aktiv beteiligen! Scientology-Schutzerklärung bei Zuwendungen aus dem Budget der Bezirksausschüssen Einführung einer standardisierten Prüfung auf alternative städtische Zuschussmöglichkeiten bei BA-Budgetanträgen BA-Budget fair – teilen: Anpassung der Zuwendungsrichtlinien aus dem Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis BA-Budget fair – teilen BA-Budget fair-teilen: Anpassung der Zuwendungsrichtlinien aus dem BA-Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis Gender-Budgeting BA-Budget fair – teilen: Aufnahme des Grundsatzes der gleichstellungsorientierten Haushaltssteuerung in die künftigen Zuwendungsrichtlinien für das Stadtbezirksbudget
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
