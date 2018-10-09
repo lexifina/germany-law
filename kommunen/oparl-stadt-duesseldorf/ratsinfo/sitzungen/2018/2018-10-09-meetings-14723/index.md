@@ -1,0 +1,54 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-10-09T17:00:00+02:00
+- Ende: 2018-10-09T20:18:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14723
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14723
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift BV5-Sitzung vom 11.09.2018 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326674.pdf
+- Ergebnisprotokoll: Niederschrift BV5-Sitzung vom 11.09.2018 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326674.pdf
+- Wortprotokoll: Niederschrift BV5-Sitzung vom 11.09.2018 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326674.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift 11.09.2018 - abweichend beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Qualitätssicherung - Östlich zur Lindung - Weitere Vorgehensweise - Empfehlung abweichend beschlossen
+- TOP 9: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - Empfehlung abweichend beschlossen
+- TOP 9.1: Radwegführung "Kaiserswerther Straße" - abweichend beschlossen
+- TOP 10: Rhein-Ruhr-Express (RRX) – Bauwerksplanung der DB Netz AG in Angermund - Empfehlung abweichend beschlossen
+- TOP 10.1: Änderungsantrag zur Vorlage 01/223/2018 - RRX in Angermund - einstimmig beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - abweichend beschlossen
+- TOP 12: Sitzungstermine der Bezirksvertretung 5 im Jahr 2019 - zur Kenntnis genommen
+- TOP 13: Verkehrssicherheit Stockhausgasse - beantwortet
+- TOP 14: Angermunder Straße / Pfarrer-Holl-Weg - Verbesserung der Verkehrssituation
+- TOP 15: Fremdnutzer des P&R-Platz S-Bahnhof Angermund - beantwortet
+- TOP 16: Entsiegelung einer Teilfläche des Lohauser Deichs - beantwortet
+- TOP 17: Taktverdichtung auf der Buslinie 728
+- TOP 18: Nutzung der Hubertuskapelle, Koenenkampweg 10
+- TOP 19: Querungshilfe Alte Landstraße Ecke Egbertstraße/Im Spich
+- TOP 20: Schlechter Straßenzustand im Düsseldorfer Norden - beantwortet
+- TOP 21: Grundschule Angermund - Erweiterungsbedarf - beantwortet
+- TOP 22: Instandsetzung Rad- und Wanderweg Alte Kalkumer Straße - Finanzierung aus Bauunterhaltungsmitteln - mehrheitlich abgelehnt
+- TOP 23: Kreisverkehr Niederrheinstraße/Alte Landstraße/Am Spielberg - mehrheitlich beschlossen
+- TOP 24: Masterplan Green-City Mobility/Mobilstationen - mehrheitlich beschlossen
+- TOP 25: Stromversorgung für den Weihnachtsmarkt Kaiserswerth - einstimmig beschlossen
+- TOP 26: Stellungnahmen 09.10.2018 - zur Kenntnis genommen
+- TOP 27: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - zur Kenntnis genommen
+- TOP 28: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 29: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - zur Kenntnis genommen
+- TOP 30: Etatberatungen 2019 - zur Kenntnis genommen
+- TOP 30.1: Ergänzungsantrag Haushaltsansätze 2019 - Bekenntnis zur Feuerwehr Kaiserswerth - einstimmig beschlossen
+- TOP 30.2: Ergänzungsantrag Haushaltsansätze 2019 - U 79 u. B8 - mehrheitlich beschlossen
+- TOP 30.3: Ergänzungsantrag Haushaltsansätze 2019 - Mobilstation Klemensplatz - mehrheitlich beschlossen
+- TOP 30.4: Ergänzungsantrag Haushaltsansätze 2019 - Kreisverkehr Niederrhein-/Alte Landstraße - mehrheitlich beschlossen
+- TOP 31: Verschiedenes - zur Kenntnis genommen
