@@ -1,0 +1,79 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5033825
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5033825
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Plenumssitzungstermine des BA 11 für 2019 Hinweis: Vertagt aus der BA-Sitzung am 12.09.2018
+- TOP 4.2.1.: Verbesserung der Zugänglichkeit zur Wertstoffinsel Christoph-von-Gluck-Platz/Milbertshofener Straße
+- TOP 4.2.2.: (U) Lechenauer Straße (westlich) Georg-Brauchle-Ring (nördlich) Brundageplatz (östlich) Helene-Mayer-Ring (südlich) - ehemaliger Busbahnhof Olympiazentrum - A) Eckdatenbeschluss und Erweiterung des Grundsatzbeschlusses vom 06.07.2016 mit vertiefender Untersuchung B) Weiteres Vorgehen C) Aufgreifen der Planungen zur Neugestaltung des Busbahnhofs Olympiazentrum BA-Antrag Nr. 14-20 / B 04579 des Bezirksausschusses des Stadtbezirks 11- Milbertshofen-Am Hart vom 21.02.2018
+- TOP 4.2.3.: Versiegelung des Bodens unter den Wertstoffcontainern Christoph-von-Gluck-Platz wegen Rattenproblemen - Antwortschreiben BV-Anfrage Nr. 14-20/ Q 00565 der Bürgerversammlung am 19.07.2018
+- TOP 4.4.1.: Weyprechtstraße, Einmündung Parlerstraße - Schulwegsicherheitsinformation
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Gesellschaft für Deutsch-Indische Zusammenarbeit e.V. Indisches Lichterfest Diwali am 10.11.2018 2.903,00 Euro Az.: 0262.0-11-0296
+- TOP 6.1.2.: (E) Stadtbezirksbudget Sozialverband VdK München, OV Milbertshofen Veranstaltung zum Volkstrauertag am 18.11.2018 275,00 Euro Az.: 0262.0-11-0297
+- TOP 6.1.3.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Projekt "Plastikmüll? Nein Danke!" vom 05.11.2018 - 30.11.2018 1.400,00€ Az.: 0262.0-11-0298
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Aufwertung des Ehrenamtes „Schulweghelfer/in“
+- TOP 6.2.2.: (E) Radfahrwege besser pflegen und instandhalten im 11. Stadtbezirk Empfehlung Nr. 14-20 / E 02174 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 19.07.2018
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Straßenbeschilderung am Dominikusplatz - Anbringen eines erklärenden Zusatzschildes
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Curt-Mezger-Platz - Illegales Parken unterbinden durch bauliche Maßnahmen
+- TOP 7.4.2.: Sudetendeutsche Straße - Verbesserung der Parksituation
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Vollzug der BaumSchV: a) Rothpletzstr. 37 - Neubau Doppelhaus mit Garagen - Bau + Baumfällungen b) Spitzerstr. 32 - Errichtung Doppelhaushälfte mit Carport - Bau + Baumfällungen c) Bruno-Hofer-Platz 3 - Neubau eines Zweifamilienhauses - Bau + Baumfällungen d) Moosacher Str. 80 - Abgrabung schadstoffbelasteter Auffüllung e) Sperlingweg 17 - Neubau Doppelhaus mit Carport - Bau + Baumfällungen f) Anhalter Str. 6 - Neubau Mehrfamilienhauses mit TG - Bau + Baumfällungen
+- TOP 8.2.2.: Bauvorhaben - Lokalbaukommission: a) Frankfurter Ring - Neubau eines Bürogebäudes mit betriebsinterner Kantine und Großgarage Hinweis: Vertagter TOP aus der BA-Sitzung am 12.09.2018 b) Taunusstr. 34 - Neubau eines Bürogebäudes mit TG – Vorbescheid Hinweis: Vertagter TOP aus den BA-Sitzungen am 08.08.2018 und am 12.09.2018
+- TOP 8.2.3.: Antrag auf Baumfällung: Langensalzastr. 35-41
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Silvesterlauf" im Olympiapark am 31.12.2018
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Haltestelle Ingolstädter Straße - barrierefreie Bushaltestelle
+- TOP 8.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Riesenfeldstraße, Höhe Kindergarten - streckenbezogene Anordnung von 30 km/h b) Schliemannweg - absolutes Haltverbot c) Winzererstraße - Ausweisung Fahrradstraße d) Straßbergerstraße 32 - Ausweisung 2-er Ladepunkte im öffentl. Verkehrsraum
+- TOP 8.4.3.: Anhörungsrecht der betroffenen Bezirksausschüsse bei Gleiserneuerungen im Trambahnnetz - Antrag des BA 13 - Bogenhausen
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Information zu Bürgerbeteiligung in den Stadtvierteln - Bürgerinnen und Bürger gestalten Ihre Stadt
+- TOP 9.1.2.: Stadtbezirksbudget für München Information über die Beschlussfassung im Stadtrat
+- TOP 9.1.3.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Halligalli" - Moosacher Str. 17 b) "Wirtshaus am Hart" - Sudetendeutsche Str. 40
+- TOP 9.1.4.: BA-Budget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: MobilSpiel e.V., Ev. Hilfswerk M, GDIZ e.V., forum 2, Generationenzentrum e.V., Isarlust e.V.
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Verlegung der Polizeihubschrauberstaffel Bayern nach Oberschleißheim, Sitzungsvorlage Nr. 14-20/V 12548 - Berücksichtigung Stellungnahme des BA 11
+- TOP 9.2.2.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheide: a) Am Haag 7a - Ablehnung b) Keferloher Str. 121 - Ablehnung c) Marienbader Str. 32 - Ablehnung
+- TOP 9.2.3.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 9.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5.: Riesenfeldstraße 87 - Neuerrichtung eines Heizwerks (BMW Group) - Genehmigungsbescheid
+- TOP 9.2.6.: Meldelisten Bauvorhaben vom 20.08.2018 – 09.09.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Frankfurter Ring/Schleißheimer Str/Moosacher Str. und Frankfurter Ring zw. Schleißheimer Str. und Knorrstr.: Ausnahmezulassungsverlängerung Mülleinsammlung nach dem BImSchG und 32. BImSchV
+- TOP 9.4.2.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Knorrstr. 171 - Gymnasium M Nord - Einrichtung einer Anfahrtszone b) Prager Straße - Einrichtung eines absoluten Haltverbots c) Gundelkoferstraße - Anordnung eines absoluten Haltverbots
+- TOP 9.4.3.: Einrichtung einer neuen Haltestelle "Bremer Straße" - Information
+- TOP 9.4.4.: Weiterführung der Beschleunigung der Lichtzeichenanlage für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum Enwurf des MIP 2018-2022 Sitzungssvorlage Nr. 14-20 / 12596
