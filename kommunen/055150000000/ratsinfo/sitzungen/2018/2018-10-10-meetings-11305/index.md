@@ -1,0 +1,69 @@
+# 34. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-10-10T18:07:00+02:00
+- Ende: 2018-10-10T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11305
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11305
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00430470.pdf
+
+## Tagesordnung
+
+- TOP -: Beginn 17.45
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Prüfung und Bewertung der Anforderungen und Leistungen des Ordnungsamtes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Versorgung mit Next Generation Access Breitbandbandanschlüssen (NGA) - einstimmig beschlossen
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2017 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Haushaltsplan 2018 - mehrheitlich beschlossen
+- TOP 13: Beschleunigung von Genehmigungsverfahren - Personalmehrbedarf im Bauordnungsamt - einstimmig beschlossen
+- TOP 13.1: Beschleunigung von Genehmigungsverfahren - Personalmehrbedarf im Bauordnungsamt
+- TOP 14: Bundesprogramm "Nationale Projekte des Städtebaus 2018/2019" - Projektaufruf 2018 - einstimmig beschlossen
+- TOP 15: Integriertes Handlungskonzept Stadthäfen Münster - nördlich Albersloher Weg - einstimmig geändert beschlossen
+- TOP 16: KonvOY GmbH
+- TOP 16.1: Konversion York- und Oxford-Quartier, hier: Organisationsstruktur im Zusammenhang mit der KonvOY GmbH - einstimmig beschlossen
+- TOP 16.2: Satzungsänderung KonvOY GmbH: Installation eines Aufsichtsrates - einstimmig geändert beschlossen
+- TOP 17: Konversion York- und Oxford-Quartier, - einstimmig geändert beschlossen
+- TOP 18: Erweiterung des Kommunalen Integrationszentrums Münster - mehrheitlich beschlossen
+- TOP 19: Integrationsmonitoring 2017 - von der Tagesordnung abgesetzt
+- TOP 20: Bedarfsorientiertes Konzept der Zuwendungsförderung der offenen Kinder- und Jugendarbeit und der aufsuchenden Jugendsozialarbeit in Münster - mehrheitlich beschlossen
+- TOP 21: Bericht über die Eingliederung der Bildungsgänge des ehemaligen ESPA-Berufskollegs in das Anne-Frank-Berufskolleg /Machbarkeitsstudie für den Hauptstandort des Anne-Frank-Berufskollegs - einstimmig beschlossen
+- TOP 22: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz)" - einstimmig beschlossen
+- TOP 23: Errichtungsbeschluss: Umnutzung eines Gebäudes zur Kindertageseinrichtung an der Neubrückenstraße im Stadtbezirk Mitte - mehrheitlich beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-West
+- TOP 24.1.1: Gestaltungsleitlinien zum Bebauungsplan Nr. 579: Oxford-Quartier - einstimmig beschlossen
+- TOP 24.1.2: Bebauungsplan Nr. 579 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig geändert beschlossen
+- TOP 24.1.2.1: Bebauungsplan Nr. 579 - Beschluss über die Stellungnahmen - Satzungsbeschluss
+- TOP 24.2: Stadtbezirk Münster-Hiltrup
+- TOP 24.2.1: Bebauungsplan Nr. 599 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Münster-Nord
+- TOP 24.3.1: 87. Änderung des FNP - Beschluss zur Änderung - von der Tagesordnung abgesetzt
+- TOP 24.4: Stadtbezirk Münster-Südost
+- TOP 24.4.1: Gestaltungsleitlinien zum Bebauungsplan Nr. 582: York-Quartier - einstimmig beschlossen
+- TOP 24.4.2: Bebauungsplan Nr. 582 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.5: Stadtbezirk Münster-Ost
+- TOP 24.5.1: 91. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 26.1: Mobilität im Alter stärken – selbstverständlich selbständig - verwiesen
+- TOP 26.2: Übernahme des Eigenanteils an den Betriebskosten von Elterninitiativen - verwiesen
+- TOP 26.3: Studentischen Wohnraum effizienter schaffen - verwiesen
+- TOP 26.4: Die Würde des Menschen ist unantastbar... - verwiesen
+- TOP 26.5: Stärkung des Radverkehrs – Fördermittel im Rahmen der Kommunalrichtlinie 2019 nutzen! - verwiesen
+- TOP 26.6: Neugründung einer dritten städtischen Gesamtschule am Schulstandort Roxel - verwiesen
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Münster und 15 niederländischen Gemeinden zur grenzüberschreitenden Zusammenarbeit bei der Wahrnehmung der hoheitlichen Aufgabe der Abfallentsorgung - mehrheitlich beschlossen
+- TOP 29: Verschiedenes
