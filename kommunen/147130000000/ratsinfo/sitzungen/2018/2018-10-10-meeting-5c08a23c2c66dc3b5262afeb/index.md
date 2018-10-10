@@ -1,0 +1,54 @@
+# Verwaltungsausschuss
+
+- Körperschaft: Leipzig
+- Beginn: 2018-10-10T16:30:00+02:00
+- Ende: 2018-10-10T19:10:00+02:00
+- Ort: Martin-Luther-Ring 4-6, 04109 Leipzig
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5c089ee72c66dc3b525a26ea
+- Ratsinformationssystem: N/Ato010.asp?SILFDNR=1003963
+- OParl: https://oparl.politik-bei-uns.de/meeting/5c08a23c2c66dc3b5262afeb
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit/Bestätigung der Tagesordnung - (offen)
+- TOP 2: Protokollbestätigung - (offen)
+- TOP 2.1: Protokollbestätigung der Sitzung vom 15.08.2018 - (offen)
+- TOP 2.2: Protokollbestätigung der Sitzung vom 05.09.2018 - (offen)
+- TOP 3: Bekanntgabe von Beschlüssen aus nichtöffentlicher Sitzung - (offen)
+- TOP 4: Bericht aus Beteiligungen - (offen)
+- TOP 5: Beratung der Vorlagen I - (offen)
+- TOP 5.1: Änderung zum Bau- und Finanzierungsbeschluss Sport- und Bewegungszentrum Grünau <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Umwelt, Ordnung, Sport, Beigeordneter H. Rosenthal enthält nichtöffentliche Anlagen)</span> - ungeändert beschlossen
+- TOP 5.2: Ausführungsbeschluss - LOGA Ausbaustufe 2 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Beigeordneter für Allgemeine Verwaltung)</span> - ungeändert beschlossen
+- TOP 5.3: (vertraulich)
+- TOP 6: Informationen - (offen)
+- TOP 7: Verschiedenes - (offen)
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 15.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 16: nicht öffentlicher Tagesordnungspunkt
