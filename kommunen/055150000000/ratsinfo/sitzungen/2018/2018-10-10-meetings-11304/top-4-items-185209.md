@@ -1,0 +1,8 @@
+# TOP 4: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Versorgung mit Next Generation Access Breitbandbandanschlüssen (NGA)
+
+- Sitzung: 35. Sitzung (2018-10-10)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/185209
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/67313
