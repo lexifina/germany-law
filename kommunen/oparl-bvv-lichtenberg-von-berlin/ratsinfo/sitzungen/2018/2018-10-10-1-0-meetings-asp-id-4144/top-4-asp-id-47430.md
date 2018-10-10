@@ -1,0 +1,7 @@
+# TOP 4: Projekt zur Reduzierung der stationären Fälle im Bereich HzE
+
+- Sitzung: 23. Sitzung in der VIII. Wahlperiode des Ausschusses Haushalt und Personal (2018-10-10)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=47430
+- Ergebnis: erledigt
