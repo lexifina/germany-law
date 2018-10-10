@@ -1,0 +1,79 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-10-10T17:00:00+02:00
+- Ende: 2018-10-10T19:42:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14637
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14637
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326763.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326763.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326763.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung eines Beiratsmitgliedes für Belange für Menschen mit Behinderung - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Anfrage SPD: Fernwärmeleitung durch den Stadtbezirk 6 - schriftlich beantwortet
+- TOP 7: Anfrage CDU: Kleidercontainerleerung in Mörsenbroich - schriftlich beantwortet
+- TOP 8: Anfrage SPD: Ahrensplatz - vertagt
+- TOP 9: Anfrage Meier, CDU und FDP: Insektenhotels - schriftlich beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage CDU: Fahrradweg Wilhelm-Raabe-Straße Bürgersteig - vertagt
+- TOP 13: Anfrage SPD-Fraktion: Unterrather/Wangeroogestraße - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Antrag FDP und CDU: Busshuttle bei Veranstaltungen im ISS DOME - abweichend beschlossen
+- TOP 16: Antrag SPD-Fraktion: Jugend checkt Düsseldorf - einstimmig beschlossen
+- TOP 17: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - Empfehlung abweichend beschlossen
+- TOP 18: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - Empfehlung abweichend beschlossen
+- TOP 19: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - zur Kenntnis genommen
+- TOP 20: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 21: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 22: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 23: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 24: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 25: Verfügungsmittel 2018 - einstimmig beschlossen
+- TOP 26: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 27: Weihnachtsmarkt Lichtenbroich - einstimmig beschlossen
+- TOP 28: Sitzungstermine 2019 - zur Kenntnis genommen
+- TOP 29: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 31: Bürgersaal Rath - zur Kenntnis genommen
+- TOP 32: MdV - Ersatzpflanzungen Ratherbroicher Grenzgraben - zur Kenntnis genommen
+- TOP 33: Vortrag zur Umverteilung der Flüchtlinge im Stadtbezirk 6 - Vorlage 176/ 88/2018 - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: HH-Antrag Helmke (Bü90/Grüne) und CDU-Fraktion: Ratherbroicher Grenzgraben - einstimmig beschlossen
+- TOP 39: HH-Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 40: HH-Antrag CDU: Anschluss der K3n an die A44 - mehrheitlich beschlossen
+- TOP 41: HH-Antrag CDU: Nördlicher Zubringer 3. Fahrspur stadteinwärts - mehrheitlich beschlossen
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: HH-Antrag SPD: Fertigstellung Radweg Münsterstraße - einstimmig beschlossen
+- TOP 45: HH-Antrag SPD: JFE Lichtenbroicher Weg - zurückgezogen
+- TOP 46: HH-Antrag CDU, FDP und BÜ 90/GRÜ: Haus für Kinder, Jugendliche und Familien in Lichtenbroich - abweichend beschlossen
+- TOP 47: HH-Antrag CDU, FDP und BÜ90/GRÜ: Schaffung Haus für Kinder, Jugendliche und Familien - einstimmig beschlossen
+- TOP 48: HH-Antrag CDU und FDP: Erweiterung der GGS Krahnenburgstraße - einstimmig beschlossen
+- TOP 49: HH-Antrag CDU und FDP: Lichtquelle Grünanlage Sankt-Franziskus-Straße - einstimmig beschlossen
+- TOP 50: HH-Antrag CDU und FDP: Toilettensanierung St. Franziskus Grundschule Herchenbachstraße - einstimmig beschlossen
+- TOP 51: HH-Antrag CDU und FDP: Beleuchtung Fußweg Kittelbach - einstimmig beschlossen
+- TOP 52: HH-Antrag CDU: Bürgersaal Rath - zurückgezogen
+- TOP 53: HH-Antrag CDU, FDP und BÜ90/GRÜ: Überplanung Unterrather Straße/Kalkumer Straße - einstimmig beschlossen
+- TOP 54: HH-Antrag CDU und FDP: Pflegeintervalle Straßenbegleitgrün / Spontanvegetation im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 55: HH-Antrag SPD: Verfügungsfond "Soziale Stadt" - einstimmig beschlossen
+- TOP 56: HH-Antrag SPD: Beleuchtung Fußweg an BSA - zurückgezogen
+- TOP 57: HH-Antrag CDU und FDP: Instandsetzung Unterrather Straße - einstimmig beschlossen
+- TOP 58: HH-Antrag Interfraktionell: Schaffung Grünverbindungsweg Rather Broich zum Aaper Wald - einstimmig beschlossen
+- TOP 59: Beratung Haushalt 2019 - einstimmig beschlossen
+- TOP 60: MdV - Bedarfsampel Bottroper Straße - zur Kenntnis genommen
+- TOP 61: MdV - Tiefenbroicher Weg 12-16 Halteverbot - zur Kenntnis genommen
+- TOP 62: MdV - Informationen zum Schienenersatzverkehr an den Haltestellen An der Piwipp und Elsässer Straße - zur Kenntnis genommen
