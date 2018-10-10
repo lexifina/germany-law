@@ -1,0 +1,38 @@
+# Schülerzahlen und Belegstatistik Hort - Anmeldungen für weiterführende Schulen 2018/19
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-Ifo-05271-Ifo-02
+- Art: Informationsvorlage
+- Datum: 2018-10-10
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1010801
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a2fc12c66dc3b52ff2113
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c09747a2c66dc3b52aa030a
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c089f972c66dc3b525ce25a https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c089f9d2c66dc3b525cf5d7 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a106d
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c089fab2c66dc3b525d2a54 https://oparl.politik-bei-uns.de/organization/5c089ed32c66dc3b525a1855
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a0a32c66dc3b525fcd4a https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a166c
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a0ab2c66dc3b525fdf3c https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a1643
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a0ad2c66dc3b525fe3bf https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a21d2
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a1462c66dc3b52611816 https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a1607
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a1482c66dc3b52611a51 https://oparl.politik-bei-uns.de/organization/5c089ed62c66dc3b525a1aa3
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a14c2c66dc3b52611da8 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a0fbb
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a14f2c66dc3b5261201d https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b48
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a1a62c66dc3b52614491 https://oparl.politik-bei-uns.de/organization/5c089ed42c66dc3b525a199d
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a1b22c66dc3b5261487c https://oparl.politik-bei-uns.de/organization/5c089ee02c66dc3b525a2273
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a1ff2c66dc3b52619cd0 https://oparl.politik-bei-uns.de/organization/5c089ec92c66dc3b525a0e0d
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a2052c66dc3b5261b1d2 https://oparl.politik-bei-uns.de/organization/5c089edf2c66dc3b525a221d
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a2072c66dc3b5261b6b8 https://oparl.politik-bei-uns.de/organization/5c089ee32c66dc3b525a245f
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a2092c66dc3b5261c099 https://oparl.politik-bei-uns.de/organization/5c089eca2c66dc3b525a1014
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a2162c66dc3b5261fc96 https://oparl.politik-bei-uns.de/organization/5c089ed02c66dc3b525a1564
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c08a2192c66dc3b526206c1 https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a1692
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12fc
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ecf2c66dc3b525a14b9
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed02c66dc3b525a1526
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a1623
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ecb2c66dc3b525a10f4
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ede2c66dc3b525a20f8
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed12c66dc3b525a15e4
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed02c66dc3b525a15af
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed22c66dc3b525a16b2
