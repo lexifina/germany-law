@@ -1,0 +1,54 @@
+# 35. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-10-10T17:17:00+02:00
+- Ende: 2018-10-10T19:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11304
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11304
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00431177.pdf
+
+## Tagesordnung
+
+- TOP -: Beginn
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Antrag A-R/0070/2017 der Ratsgruppe AfD vom 10.10.2017 - mehrheitlich beschlossen
+- TOP 3: Förderung von Stadterneuerungsprojekten - Sachstand 2018 und Anträge 2019 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Versorgung mit Next Generation Access Breitbandbandanschlüssen (NGA) - einstimmig beschlossen
+- TOP 5: Entwurf des Jahresabschlusses zum 31.12.2017 der Stadt Münster - einstimmig beschlossen
+- TOP 6: Haushaltsplan 2018 - einstimmig beschlossen
+- TOP 7: Beschleunigung von Genehmigungsverfahren - Personalmehrbedarf im Bauordnungsamt - einstimmig beschlossen
+- TOP 7.1: Beschleunigung von Genehmigungsverfahren - Personalmehrbedarf im Bauordnungsamt
+- TOP 8: Bundesprogramm "Nationale Projekte des Städtebaus 2018/2019" - Projektaufruf 2018 - einstimmig beschlossen
+- TOP 9: Integriertes Handlungskonzept Stadthäfen Münster - nördlich Albersloher Weg - einstimmig beschlossen
+- TOP 10: KonvOY GmbH
+- TOP 10.1: Konversion York- und Oxford-Quartier, hier: Organisationsstruktur im Zusammenhang mit der KonvOY GmbH - ohne Beschlussfassung geschoben
+- TOP 10.2: Satzungsänderung KonvOY GmbH: Installation eines Aufsichtsrates - ohne Beschlussfassung geschoben
+- TOP 10.3: Konversion York- und Oxford-Quartier, - ohne Beschlussfassung geschoben
+- TOP 11: Erweiterung des Kommunalen Integrationszentrums Münster - einstimmig beschlossen
+- TOP 12: Integrationsmonitoring 2017 - von der Tagesordnung abgesetzt
+- TOP 13: Bedarfsorientiertes Konzept der Zuwendungsförderung der offenen Kinder- und Jugendarbeit und der aufsuchenden Jugendsozialarbeit in Münster - mehrheitlich beschlossen
+- TOP 14: Bericht über die Eingliederung der Bildungsgänge des ehemaligen ESPA-Berufskollegs in das Anne-Frank-Berufskolleg /Machbarkeitsstudie für den Hauptstandort des Anne-Frank-Berufskollegs - einstimmig beschlossen
+- TOP 15: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz)" - einstimmig beschlossen
+- TOP 16: Errichtungsbeschluss: Umnutzung eines Gebäudes zur Kindertageseinrichtung an der Neubrückenstraße im Stadtbezirk Mitte - mehrheitlich beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk West
+- TOP 17.1.1: Gestaltungsleitlinien zum Bebauungsplan Nr. 579: Oxford-Quartier - ohne Beschlussfassung geschoben
+- TOP 17.1.2: Bebauungsplan Nr. 579 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 17.1.2.1: Bebauungsplan Nr. 579 - Beschluss über die Stellungnahmen - Satzungsbeschluss
+- TOP 17.2: Stadtbezirk Hiltrup
+- TOP 17.2.1: Bebauungsplan Nr. 599 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 17.3: Stadtbezirk Nord
+- TOP 17.3.1: 87. Änderung des FNP - Beschluss zur Änderung - von der Tagesordnung abgesetzt
+- TOP 17.4: Stadtbezirk Südost
+- TOP 17.4.1: Gestaltungsleitlinien zum Bebauungsplan Nr. 582: York-Quartier - ohne Beschlussfassung geschoben
+- TOP 17.4.2: Bebauungsplan Nr. 582 - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 17.5: Stadtbezirk Ost
+- TOP 17.5.1: 91. Änderung FNP - Beschluss zur Änderung - ohne Beschlussfassung geschoben
+- TOP 18: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Münster und 15 niederländischen Gemeinden zur grenzüberschreitenden Zusammenarbeit bei der Wahrnehmung der hoheitlichen Aufgabe der Abfallentsorgung - ohne Beschlussfassung geschoben
+- TOP 19: Verschiedenes
