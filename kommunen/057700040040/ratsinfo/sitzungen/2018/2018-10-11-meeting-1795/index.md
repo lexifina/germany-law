@@ -1,0 +1,51 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2018-10-11T17:00:00+02:00
+- Ende: 2018-10-11T20:20:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeNxHNLfBEK_1jdOmjpHAvY
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1795
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZartUnX70GmjNtZXAWvxYofuv8cPBD8TsMWG6zqdYSBj/Bekanntmachung_Rat_11.10.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ6HxrLhyvWrpz5c1Sdqko2MD4-a_cVaUYyxep0T_z24/Oeffentliche_Niederschrift_Rat_11.10.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Digitalisierung des Sitzungsmanagements / Ratsarbeit - Einstimmig, 0 Enthaltungen
+- TOP 5.: Weiterer Ausbau der Sekundarschule Rahden - 30 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 6.: Vertretung in den Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 7.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2017; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2017; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 10.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2017 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Feststellung des Gesamtabschlusses der Stadt Rahden zum 31.12.2017 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Wahlrecht zur Aufstellung eines Gesamtabschlusses der Stadt Rahden zum 31.12.2018 - Einstimmig, 0 Enthaltungen
+- TOP 13.: 11. Änderung des Bebauungsplanes Nr. 35 „Gerichtsstraße/Gartenstraße/Lange Straße" Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gem. § 13a Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 11. Änderung des Bebauungsplanes Nr. 35 „Gerichtsstraße/Gartenstraße/Lange Straße“ gem. § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 14.: 81. Änderung des Flächennutzungsplanes der Stadt Rahden zur nördlichen Ortsrandarrondierung in der Ortschaft Pr. Ströhen a) Beratung und Beschlussfassung über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB b) Beratung und Beschlussfassung über die endgültige Feststellung des Änderungsplanes für die 81. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 15.: 4. Änderung des Bebauungsplanes Nr. 31 „Bahnhofstraße/Weher Straße" Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gem. § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 4. Änderung des Bebauungsplanes Nr. 31 „Bahnhofstraße/Weher Straße“ gem. § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - 28 Stimmen dafür, 3 dagegen, 0 Enthaltungen
+- TOP 16.: Umgestaltung des Kirchplatzes in Rahden hier: Herstellung eines Brunnens - 26 Stimmen dafür, 5 dagegen, 0 Enthaltungen
+- TOP 17.: Antrag der Fraktion BÜNDNIS90/DIE GRÜNEN auf Einplanung ausreichender Grünanlagen auf öffentlichen Plätzen und Wegen sowie Bepflanzung mit ökologisch wertvollen Pflanzen und Schatten spendenden Bäumen bei zukünftigen Vorhaben in der Bauleitplanung - Einstimmig, 0 Enthaltungen
+- TOP 18.: Änderung der Satzung für die Benutzung der städtischen Übergangswohnungen für Flüchtlinge und Obdachlose der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 19.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheims Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Errichtung eines Schweinemaststalles mit 704 Mastplätzen sowie Errichtung einer Abluftreinigungsanlage in der Ortschaft Varl auf dem Grundstück Gemarkung Varl Flur 4 Flurstücke 58 und 59, Haßmoor 3 - 9 Stimmen dafür, 16 dagegen, 5 Enthaltungen
+- TOP 21.: Bekanntgaben und Anfragen
+- TOP 21.1: Grundschule Rahden
+- TOP 21.2: Klimaschutzkonzept
+- TOP 21.3: Sitzungskalender 2019
+- TOP 21.4: Fuß-/Radweg entlang der Eisengießerei Meier
+- TOP 21.5: Kirchplatz Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 22.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 23.: Grundstücksangelegenheiten
+- TOP 23.1: Grundstücksangelegenheit - Einstimmig, 0 Enthaltungen
+- TOP 23.2: Veräußerung von Grundstücksflächen - 25 Stimmen dafür, 5 dagegen, 0 Enthaltungen
+- TOP 24.: Bekanntgaben und Anfragen
+- TOP 24.1: Ausschreibung der Architektenleistungen für den Anbau der Sekundarschule
+- TOP 24.2: Fuß-/Radweg entlang der Eisengießerei Meier
