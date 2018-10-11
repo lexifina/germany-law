@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-10-11T15:00:00+02:00
+- Ende: 2018-10-11T23:05:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4102
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4102
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gründung der Campus Mönchengladbach GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 2: Einrichtung und Betreiben einer Touristeninformation - Kenntnisnahme
+- TOP 3: 13. Konferenz der Ratsmitglieder beim Städtetag NRW am 12.12.2018 in Köln - Einstimmiger Beschluss
+- TOP 4: HSP-Umsetzungsbericht 30.06.2018 - Kenntnisnahme
+- TOP 5: Entwurf des Doppelhaushalts 2019/2020; Haushaltssatzung einschl. Anlagen u. Fortschreibung HSP - Zur Kenntnis genommen
+- TOP 6: Dritter Nachtrag Satzung mags - Mit Stimmenmehrheit beschlossen
+- TOP 6.1: TOP 3: Dritter Nachtrag zur Satzung der Stadt Mönchengladbach über die "mags Möncheng-ladbacher Abfa - Mit Stimmenmehrheit abgelehnt
+- TOP 7: Wirtschaftsplan 2019 der mags - Mit Stimmenmehrheit beschlossen
+- TOP 8: Beteiligung der NEW AG - An den Rat verwiesen
+- TOP 9: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 10: Beteiligung der NEW AG - Einstimmiger Beschluss
+- TOP 11: Beteiligung an der Sozial-Holding - Einstimmiger Beschluss
+- TOP 12: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 - Kenntnisnahme
+- TOP 13: Reduzierung Zeitrahmen Plakatwerbung Wahlen und Vierter Nachtrag Sondernutzungssatzung - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 14: Ordnungsbehördliche Verordnungen Sonntagsöffnungen 2018 - Mit Stimmenmehrheit beschlossen
+- TOP 15: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bil-dungsausschuss - Einstimmiger Beschluss
+- TOP 16: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - An den Rat verwiesen
+- TOP 17: Umbesetzung des Jugendhilfeausschusses - Einstimmiger Beschluss
+- TOP 18: Leistungsvereinbarung mit dem Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 19: Aufbau von 5 Modul-Fertigbauanlagen - Einstimmiger Beschluss
+- TOP 19.1: Aufbau von 5 Modulfertigbauanlagen und 5 Großtagespflegestellen - Ohne Abstimmung
+- TOP 20: Familienpaten SKF LV - Einstimmiger Beschluss
+- TOP 21: Verlängerung der Leistungsvereinbarung mit dem Deutschen Roten Kreuz, Kreisverband Mönchengladbach - Einstimmiger Beschluss
+- TOP 22: Offene Kinder- und Jugendarbeit - Einstimmiger Beschluss
+- TOP 23: Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss
+- TOP 24: Verlängerung der Leistungsvereinbarungen - Einstimmiger Beschluss
+- TOP 25: Quartierskonzept Arbeitslosenzentrum - Kenntnisnahme
+- TOP 26: Stadtteil- und Quartierskonzept - Kenntnisnahme
+- TOP 26.1: Vorlage 3279/IX: Integriertes Stadtteil- und Quartierskonzept - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Abwasserbeseitigungskonzept 2019-2024 - Einstimmiger Beschluss
+- TOP 28: Masterplan Elektromobilität - Getrennte Abstimmung (s. Niederschrift)
+- TOP 29: BP 776/N, Stadtbezirk Nord, Gladbach und Eicken, nördlich Steinmetzstraße - Mit Stimmenmehrheit beschlossen
+- TOP 30: Verkaufsabsicht der Liegenschaften "Haus Erholung" und "ehem. Haus Zoar" - Genehmigt
+- TOP 30.1: Beratungsvorlage 3119/IX: Verkaufsabsicht der Liegenschaften "Haus Erholung" und "ehem. Haus Zoar" m - Siehe Niederschrift
+- TOP 30.2: TOP: Verkaufsabsicht der Liegenschaften „Haus Erholung“ und „ehem. Haus Zoar“ mit dem Ziel ihrer stä - Siehe Niederschrift
+- TOP 30.3: Beratungsvorlage 3119/IX: Verkaufsabsicht der Liegendschaften "Haus Erholung" und "ehem. Haus Zoar" - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2018; 1. Teil - Einstimmiger Beschluss
+- TOP 32: Wahl von Mitgliedern des Umlegungsausschusses - Einstimmiger Beschluss
+- TOP 33: Ausführung Sporthallensanierung - Einstimmiger Beschluss
+- TOP 34: Brandschutzsanierung, Espenstraße - Einstimmiger Beschluss
+- TOP 35: Kultursensible Pflege in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 36: Digitalisierung als Generationengemeinschaftsprojekt: Taschengeldbörse für Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Digitalisierung als Generationengemeinschaftsprojekt: SmartCafé-Veranstaltungen für Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 38: Arbeitsplatzbesetzung mit Schwerbehinderten in der Stadtverwaltung Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Verkauf RWE Aktien - Mit Stimmenmehrheit abgelehnt
+- TOP 40: Busverkehr auf der Hindenburgstraße - Mit Stimmenmehrheit abgelehnt
+- TOP 41: Berichtsvorlage 3304/IX "Fördermöglichkkeiten für sozialintegrative Maßnahmen im Rahmen des IHEK-Alt - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Aufnahme von Flüchtlingen in der Stadt Mönchengladbach nach dem Beispiel der - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Auflösung der Gesellschaft für Wertstofferfassung, Wiederverwertung und Entsorgung - Mit Stimmenmehrheit abgelehnt
+- TOP 43.1: Auflösung derGEM; Fraktionsantrag der FDP - Mit Stimmenmehrheit abgelehnt
+- TOP 44: Rodungsmoratorium der RWE AG für den Hambacher Wald - Mit Stimmenmehrheit abgelehnt
+- TOP 44.1: Rodungsmoratorium der RWE AG für den Hambacher Wald/3387/IX - Einstimmiger Beschluss
+- TOP 45: Bericht der Verwaltung zum Baufortschritt und zu Verzögerungen bei den Arbeiten am Stude - Mit Stimmenmehrheit abgelehnt
+- TOP 46: Beteiligungsvorschlag zur Metropolregion Rheinland - Vom Antragsteller zurückgezogen
+- TOP 47: Stadtplanerisch motivierte Baumfällungen in Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 47.1: Änderungsantrag zu 3398/IX– Stadtplanerisch motivierte Baumfällungen in Möncheng-ladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 48: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 48.1: Mitteilung von Beigeordnetem Engel zu Spielhallen - Zur Kenntnis genommen
+- TOP 48.2: Mitteilung von Oberbürgermeister Reiners zum Sitzungsbeginn der Ratssitzung am 19.12.2018 - Zur Kenntnis genommen
+- TOP 48.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zum Rheydter Spielverein - Zur Kenntnis genommen
+- TOP 48.4: Anfrage von RF Finger (FDP) zur Mitteilung von Oberbürgermeister Reiners zum Sitzungsbeginn der Dezemberratssitzung - Zur Kenntnis genommen
+- TOP 48.5: Anfrage von RH Schiffers (SPD) zu Kosten des Veilchendienstagszuges - Zur Kenntnis genommen
