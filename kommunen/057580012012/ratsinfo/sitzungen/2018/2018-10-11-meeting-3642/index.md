@@ -1,0 +1,58 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2018-10-11T17:30:00+02:00
+- Ende: 2018-10-11T21:05:00+02:00
+- Ort: Sparkasse Herford, Auf der Freiheit 20, 32052 Herford, Vortragsraum
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfKlmXUCrFa9c0qLXI-DZd8
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3642
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbMuDnSHfsGZ5PNDLq2UmEpkyxLKCqzXo78TorrXzPcN/Einladung_Rat_11.10.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaLypeJvMYi9fec4eavuFmEM0u3Lpo7pEDI1Sy9uVzTL/Oeffentliche_Niederschrift_Rat_11.10.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 05.07.2018
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.11: Projekt "Markthalle" Sachstandsbericht - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Antrag B90/ DIE GRÜNEN zur Seenotrettung im Mittelmeer - Bei 16 Nein-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.25: Anregungen und Beschwerden nach § 24 GO NRW: hier: Anregungen aus der Bürgerschaft zur "Rücksichtnahme der Zahlungskraft der Bürger bei Straßenbaubeiträgen"
+- TOP A.4: Genehmigung einer Dringlichkeitsentscheidung bzgl. der Herstellung des Gebäudes B auf dem Bildungscampus - Bei 3 Enthaltungen wurde mit 22 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.5: Genehmigung einer überplanmäßigen Auszahlung für das Gebäude B des Bildungscampus - Bei 3 Enthaltungen wurde mit 22 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.6: Steuerung von Drittorganisationen:
+- TOP A.6a: Beteiligungsbericht 2017/ 2018
+- TOP A.6b: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 30.06.2018 b) Jahresprognose 2018 der Beteiligungsunternehmen zum 30.06.2018
+- TOP A.6c: IAB Immobilien- und Abwasser-Betrieb Herford: Feststellung des Jahresabschlusses 2017, Ergebnisverwendung und Entlastung des Betriebsausschusses - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6d: WWS Wohn- und Wirtschafts- Service Herford GmbH: Neubau einer Kindertagesstätte und Herstellung einer zur Kindertagesstätte in der Amselstraße gehörenden Außenanlage mit Spielgeräten - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6e: Westfalen Weser Energie GmbH & Co. KG: Aufnahme der Stadtwerke Steinheim GmbH als neuer Gesellschafter in die Westfalen Weser Energie GmbH & Co. KG; Anteilserhöhung der Gesellschafter Stadtwerke Schloß Holte-Stukenbrock GmbH und Stadtwerke Beverungen GmbH; Anpassung des Gesellschaftsvertrages - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6f: Westfalen Weser Energie GmbH & Co. KG: Änderung des Gesellschaftsvertrages der Westfalen Weser Energie GmbH & Co. KG im Hinblick auf Entsendung und Abberufung der Aufsichtsratsmitglieder und deren Vertretung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6g: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH: Gäste im Aufsichtsrat; Änderung des Gesellschaftsvertrages
+- TOP A.6h: Interkommunale Wirtschaftsförderungsgesellschaft mbH im Kreis Herford, Wirtschaftsplan 2019 und Mittelfristplanung 2020 – 2023 - Bei 19 Enthaltungen ist einstimmig folgender Beschluss gefasst: 
+- TOP A.7: 2. Situationsbericht zur Haushaltswirtschaft 2018
+- TOP A.8: Sachstandsbericht zur Umsetzung des Haushaltsbegleitbeschlusses 2018 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.9: Stadttheater: Prüfung des weiteren Vorgehens im Rahmen Regionale 2022
+- TOP A.10: Regiopolregion Bielefeld: Sachstandsbericht
+- TOP A.12: Stadtentwicklungsprogramm "Herford 2030" hier: Beschluss des Zielkonzepts
+- TOP A.13: Gebührenhaushalte - kalkulatorischer Zinssatz - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst:  
+- TOP A.14: Gebührenhaushalt Straßenreinigung 8. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Bei 2 Nein-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.15: Gebührenhaushalt Abfallentsorgung a) 1. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Hansestadt Herford vom 12.12.2017 b) 5. Satzung zur Änderung der Satzung über die Kostendeckung der Abfallentsorgung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Lärmaktionsplanung Stufe 3 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Öffentliche Sicherheit und Ordnung in Herford – Ordnungspolitische Perspektive für die Stadt Herford
+- TOP A.18: Änderung 4.18 Bebauungsplan Nr. 11.27b "Nonestelle" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.19: Bebauungsplan Nr. 11.36 "Am kleinen Bulskamp" Hier: Satzungsbeschluss - Bei 2 Nein-Stimmen und ohne Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.20: Europäische Städtekoalition gegen Rassismus hier: Berichtspflicht - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Widmung von Clearingwohnungen zur Unterbringung von Flüchtlingen, die als Asylberechtigte anerkannt bzw. nach der AWoV zugewiesen wurden hier: Widmungsbeschluss - Bei 1 Enthaltung wurde einstimmig folgender Beschluss gefasst:  
+- TOP A.22: Förderprogramm "Gute Schule 2020" des Landes NRW; hier: Aufnahme der Darlehen, Breitbandkonzept (leistungsfähige Breitbandanschlüsse an allen Schulen) - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Familienhilfen: Offene Ganztagsschule im Primarbereich - Bereitstellung von Jugendhilfemitteln - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24: Beanstandung des Ratsbeschlusses vom 23.02.2018 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.26: Gremien-Besetzungen:
+- TOP A.26a: Antrag B90/ DIE GRÜNEN: Mitgliederbesetzungen in Gremien
+- TOP zu A.26a: Antrag B90/DIE GRÜNEN: Mitgliederbesetzungen in Gremien
+- TOP A.26b: Antrag DIE LINKE: Umbesetzungen im: Bau- und Umweltausschuss Beirat der Kultur gGmbH, Schulausschuss Sportausschuss
+- TOP A.26c: Antrag FDP: Umbesetzungen im: - Sportausschuss - Sozialausschuss - Kulturbeirat
+- TOP ergänzter TOP (neu A.28): Genehmigung einer Dringlichkeitsentscheidung zur „Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen in einem Teilbereich des Stadtgebiets Herford für den 14.10.2018 vom 08.10.2018.“ - Bei 6 Enthaltungen und 3 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP alt A.28: Mitteilungen
