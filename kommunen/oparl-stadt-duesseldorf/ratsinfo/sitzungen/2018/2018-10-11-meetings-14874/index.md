@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-10-11T13:00:00+02:00
+- Ende: 2018-10-11T17:38:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14874
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14874
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326860.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326860.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00326860.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Aktuelle Anfragen
+- TOP 2.1: Anfrage aktuell Tierschutz-Freie Wähler: Gänsetod in der Straßenbahntrasse am Hofgarten - beantwortet
+- TOP 2.2: Anfrage aktuell Tierschutz Freie Wähler: Mögliches Open Air Gelände auf dem Messeparkplatz P1 - beantwortet
+- TOP 2.3: Anfrage aus aktuellem Anlass des Ratsherrn Dr. Wlecke: Breite von Rheinbahnzügen - beantwortet
+- TOP 2.4: Anfrage aus aktuellem Anlass der Ratsfraktion BÜ90/GRÜ: Rheinbahn - beantwortet
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Düsseldorfer Laternen - beantwortet
+- TOP 3.2: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Besserer Tierschutz an/in Hausfassaden - beantwortet
+- TOP 3.3: Anfrage Die Linke: Verspätungen und Fahrtenausfälle bei der Rheinbahn - beantwortet
+- TOP 3.4: Anfrage der Ratsfraktion DIE LINKE: Entwicklung in der SWD - beantwortet
+- TOP 3.5: Anfrage der CDU-Ratsfraktion: Gastronomiebetrieb im Ratskeller- Teil 1 - schriftlich beantwortet
+- TOP 3.6: Anfrage der CDU-Ratsfraktion: Gastronomiebetrieb im Ratskeller- Teil 2 - schriftlich beantwortet
+- TOP 3.7: Anfrage des Ratsherrn Maniera: Kosten und Umsetzung der Datenschutzgrundverordnung - schriftlich beantwortet
+- TOP 3.8: Anfrage des Ratsherrn Grenda: Duales System in Düsseldorf - schriftlich beantwortet
+- TOP 3.9: Anfrage des Ratsherrn Grenda: Masterplan Leistungssport Düsseldorf - schriftlich beantwortet
+- TOP 3.10: Anfrage der FDP-Ratsfraktion: Düsseldorf App - schriftlich beantwortet
+- TOP 3.11: Anfrage Rh Dr. Wlecke: Lösch- und Rettungsarbeiten an schwer zugänglichen Bahnstrecken - schriftlich beantwortet
+- TOP 3.12: Anfrage Rh Dr. Wlecke: Übergriffe auf Feuerwehrleute, Ärzte und Notärzte in Rettungseinsätzen - schriftlich beantwortet
+- TOP 3.13: Anfrage Rf El Fassi: Rückverpflanzung der Bäume Messeparkplatz P1 - schriftlich beantwortet
+- TOP 3.14: Anfrage Rf El Fassi: Rechtsextreme Strömungen in Düsseldorf - Abruf von Fördermitteln - schriftlich beantwortet
+- TOP 3.15: Anfrage der Ratsfrau Krüger: NotfallsanitäterInnen - schriftlich beantwortet
+- TOP 3.16: Anfrage der Ratsfrau Krüger: Baumfällung im Ostpark - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 7: Realschulneubau Klapheckstraße – Ausstattung und Inventar, Klappheckstraße 31, Stockum - einstimmig beschlossen
+- TOP 8: Erweiterungsbau Max-Weber-Berufskolleg, Suitbertusstraße 163-165, 40223 Düsseldorf - einstimmig beschlossen
+- TOP 9: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - vertagt
+- TOP 9.1: Änderungsantrag der CDU- Ratsfraktion: Radhauptnetz (Maßnahme 2019ff) - vertagt
+- TOP 10: Ehrenhof 5, Museum Kunstpalast - Übertragung des Gebäudeunterhalts und der Instandhaltung für den Al - einstimmig beschlossen
+- TOP 11: Olympia-Initiative “Rhein Ruhr City 2032” - mehrheitlich beschlossen
+- TOP 11.1: ÄA Bü90/Grü, SPD und FDP: Olympia-Bewerbung nur mit Unterstützung der Bürger*innen! - mehrheitlich beschlossen
+- TOP 12: Wasserversorgungskonzept der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 13: Abschluss einer öffentlich rechtlichen Vereinbarung zur Durchführung der Beihilfesachbearbeitung in - einstimmig beschlossen
+- TOP 14: Abschluss eines öffentlich rechtlichen Vertrages zur Durchführung der Beihilfesachbearbeitung für di - einstimmig beschlossen
+- TOP 15: Verzicht der Sonderzuständigkeit der Familienkassen des öffentlichen Dienstes - einstimmig beschlossen
+- TOP 16: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 17: Umbesetzung des Kuratoriums der Stiftung "Institut zur Erlangung der - einstimmig beschlossen
+- TOP 18: Sportbeirat der D.LIVE GmbH & Co. KG - Neuwahl - einstimmig beschlossen
+- TOP 19: Umbesetzung eines Vertreters für den Rat der Gemeinden und Regionen Europas (RGRE) - einstimmig beschlossen
+- TOP 20: Neuwahl eines Schulausschussmitgliedes in das Kuratorium der Volkshochschule - einstimmig beschlossen
+- TOP 21: Wiederwahl eines Schiedsmannes - einstimmig beschlossen
+- TOP 22: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Bebauungsplan-Entwurf Nr. 03/019 -Östlich Kesselstraße- Stellungnahmen Änderung Satzung - mehrheitlich beschlossen
+- TOP 24: Flächennutzungsplanänderung Nr. 187 - Neusser Straße / Lahnweg - Stellungnahmen Planbeschluss - einstimmig beschlossen
+- TOP 25: Bebauungsplanverfahren-Entwurf Nr. 03/014 - Neusser Straße / Lahnweg - Stellungnahmen, Änderung, - mehrheitlich beschlossen
+- TOP 26: Flächennutzungsplanänderung Nr. 147 - Lacombletstraße - Planbeschluss - einstimmig beschlossen
+- TOP 27: Bebauungsplan-Entwurf Nr. 02/011 - Lacombletstraße - - mehrheitlich beschlossen
+- TOP 28: Anträge
+- TOP 28.1: Antrag der Ratsfraktion DIE LINKE: Umbenennung der Esprit-Arena - mehrheitlich abgelehnt
+- TOP 28.2: Antrag CDU: Besonderer Aufgabenbereich im städtischen Diversity-Management: Beschwerde- und Koordini - vertagt
+- TOP 28.3: Antrag SPD, BÜ90/GRÜ und FDP: Errichtung einer interkommunalen Gesamtschule im Linksrheinischen" - mehrheitlich beschlossen
+- TOP 28.3.1: ÄA CDU:Errichtung einer interkommunalen Gesamtschule im Linksrheini-schen" - mehrheitlich abgelehnt
+- TOP 28.4: Antrag der Ratsfraktion DIE LINKE, SPD und BÜ90/GRÜ: Gedenktafel am S-Bahnhof Wehrhahn - einstimmig beschlossen
+- TOP 28.4.1: ÄA Tierschutz FREIE WÄHLER: Prüfung einer Open-Air Veranstaltungsfläche im Stadtgebiet Düsseldorfs - mehrheitlich abgelehnt
+- TOP 28.5: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Bauleitplanung für eine Openair-Fläche - mehrheitlich beschlossen
+- TOP 28.5.1: ÄA CDU: Bauleitplanung für eine Open Air Fläche auf dem Parkplatz P1 der Messe Düsseldorf - mehrheitlich beschlossen
