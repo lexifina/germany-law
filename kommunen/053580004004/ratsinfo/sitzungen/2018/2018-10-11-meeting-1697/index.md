@@ -1,0 +1,58 @@
+# Gemeinderat (42. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2018-10-11T18:00:00+02:00
+- Ende: 2018-10-11T22:02:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWdqd-3N-iORKPNsSP96Y-c
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1697
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ4kqfI98LsF1GOfS9-1UrwF7zmIK0qDnr1oWslmLYDS/Bekanntmachung_Gemeinderat_11.10.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc4P41bLEM7AcuFKdRZ0-zo7ynk9jyxi3PM1ttunslOT/Oeffentliche_Niederschrift_Gemeinderat_11.10.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 18.09.2018 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Gemeindeentwicklungsausschusses
+- TOP 3.1: Sachstand zur Erweiterung des Industriegebietes „Aldenhoven-Ost“ - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Integrierte Entwicklungsplanung für die Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: Aufstellung des Bebauungsplans 77 A - Martinusstraße - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 77 A - Martinusstraße - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB c.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 2 Enthaltung(en)
+- TOP 4.2: Wasserversorgungskonzept Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 4.3: Aufstellung des Bebauungsplans 78 S - Am Steinacker - a.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 78 S - Am Steinacker - b.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i. V. m. § 13a BauGB c.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Finanzen, Haushalt
+- TOP 5.1: Bereitstellung überplanmäßiger Haushaltsmittel für den Bau der Jugendeinrichtung „Youngside“ Schwanenstraße 10 a, Aldenhoven. - 19 Ja-Stimme(n), 2 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 5.2: Bereitstellung überplanmäßiger Haushaltsmittel für die Rechtsberatung bei der Ausübung des besonderen Vorkaufsrechts im Bereich "Entwicklungsprojekt Campus Aldenhoven" - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: Schuleinzugsbereiche für die beiden Grundschulen der Gemeinde - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Form der Niederschriften von Rats- und Ausschusssitzungen gemäß § 24 Geschäftsordnung - Einstimmig, 1 Enthaltung
+- TOP 7.: Anträge von Fraktionen
+- TOP 7.1: Entwicklung des Schulstandortes Aldenhoven hier: Modifizierung des Planungsauftrages
+- TOP 8.: Erweiterung und Änderung der öffentlich-rechtlichen Vereinbarungen der Gemeinde Aldenhoven mit der Stadt Linnich zur Unterbringung und Betreuung von Flüchtlingen - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Vermarktung von gewerblichen Bauflächen - 20 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 10.: Der Revier-Appell - Einstimmig, 2 Enthaltung(en)
+- TOP 11.: Sachstandsberichte der Verwaltung
+- TOP 11.1: Ausführung des Haushalts
+- TOP 12.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Eigenkapitalausstattung der WOGA - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Auftragsvergaben
+- TOP 2.1: Beauftragung einer Machbarkeitsstudie für die Gesamtschule Aldenhoven-Linnich an den Standorten Pestalozziring und Schwanenstraße - Einstimmig,0 Enthaltung(en)
+- TOP 2.2: Einführung des digitalen Rechnungseingangsworkflows und Schaffung der Voraussetzung zur Verarbeitung von elektronischen Rechnungen (X-Rechnung) in der Gemeindeverwaltung Aldenhoven. - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Beschluss über die Empfehlungen des Gemeindeentwicklungsausschusses
+- TOP 3.1: Kreisweites Gewerbeflächenkonzept für den Kreis Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Ergebnisse der Arbeitskreise zum Siedlungsflächenmonitoring - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 18.09.2018 -nichtöffentlicher Teil-.
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1: Errichtung von Freiflächen-Photovoltaikanlagen im Gemeindegebiet
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Personalkonzept des Bürgermeisters
+- TOP 7.: Gremienangelegenheiten
+- TOP 7.1: Berichte aus den Gremien
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
