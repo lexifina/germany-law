@@ -1,0 +1,74 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-10-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731433
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731433
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Zweiwegeöffnung Radweg Nederlinger Straße und Umwidmung der Siegmund-Schacky-Straße in eine Fahrradstraße
+- TOP 3.1.1.: Bericht vom Ortstermin am Hartmannshofer Bächl am 25.09.2018
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Margarete-Steiff-Straße 2. Am Neubruch 7 3. Triebstraße 4. Georg-Brauchle-Ring 23-25
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Waldhornstr. 64 / RGB 2. Triebstraße 3. Hohentwielstr. 5 4. Georg-Brauchle-Ring 23-25
+- TOP 3.3.3.: Präsentation der Machbarkeitsstudie Stadtteilkultursasl Moosach (Bericht aus der offenen UA-Sitzung am 01.10.18)
+- TOP 3.4.1.: Sitzungstermine 2019 (Entwurf)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Neupflanzung eines ortsbildprägenden Baumes auf dem Günzburger Platz
+- TOP 4.2.1.: Taubenabwehr Grundschule / Tagesheim Gerastraße (Anfrage)
+- TOP 4.3.1.: Wiederaufstellung des Containers zur Entsorgung von Kleinelektrogeräten an der Wertstoffinsel Ecke Wintrichring / Hugo-Troendle-Straße
+- TOP 6.1.: Anhörungsrecht bei Gleiserneuerungen
+- TOP 6.2.: Neue Sitzgelegenheiten an öffentlichen Plätzen im 10. Stadtbezirk (-> Wiedervorlage aus Sitzung am 17.09.18)
+- TOP 6.3.: Antrag für die Aufstellung von Sitzgelegenheiten: Dachauer Str. 411
+- TOP 6.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Haltverbote in der Meggendorferstraße gegenüber HsNr. 31
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund: Franz-Marc-Str. 8; Nikolausfeier am 05.12.2018
+- TOP 6.6.: Baumfällungen (Baumschutz): 1. Dillinger Str. 13 2. Hanauer Str. 25 3. Jakob-Hagenbucher-Str. 21 4. Koblenzer Str. 14
+- TOP 7.1.: Verkehrssituation durch den Bau von ca. 400 Wohnungen in der Brieger Straße
+- TOP 7.2.: Tramverkehr nach Moosach - Trambahnlinien 22 und 21 [Schreiben BA10 vom 13.06.18; derzeit eingeschränkte Werkstattkapazitäten und Fahrzeugverfügbarkeiten, Fahrgäste werden u.a. an Haltestellen informiert]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Verkehrsrechltiche Anordnungen nach § 45 StVO: 1. Kurzparkzone in der Feldmochinger Straße (nördlich Treitschkestraße) 2. Meggendorferstr. 31: Absolutes Haltverbot mit Zusatz "Feuerwehranfahrtszone"
+- TOP 8.4.: Katalog FÖBE: Bürgerschaftliches Engagement gewinnt durch Weiterbildung in München (Qualifizierungsangebote Sept. 2018 bis März 2019)
+- TOP 8.5.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB (1. Jährlicher Sachstandsbericht und 2. Vorprojektgenehmigung EÜ Werinherstraße)
+- TOP 8.6.: Weiterführung der Beschleunigung der Lichtzeichenanlage für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum Enwurf des MIP 2018-2022 Sitzungssvorlage Nr. 14-20 / 12596
+- TOP 8.7.: (U) Moosach Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 10 – Moosach
+- TOP 8.8.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 8.9.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 8.10.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 8.11.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 8.12.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 8.13.: (U) Neue Ökokonten für München
+- TOP 8.14.: (U) Agrastrukturelle Untersuchungen
+- TOP 8.15.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 8.16.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 8.17.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 8.18.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 8.19.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 8.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.21.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 8.22.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 8.23.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 8.24.: Feldmochinger Kurve - Sachstandsbericht und Neubau Bahnquerung Wilhelmine-Reichard-Straße
+- TOP 8.25.: Zweckentfremdung von Wohnraum durch Abbruch: Scharnhorststraße - nicht-öffentlich -
+- TOP 8.26.: WEB - alle Anträge vom 16.08. bis 31.08.2018 - nicht-öffentlch -
