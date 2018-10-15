@@ -1,0 +1,54 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-10-15T19:00:00+02:00
+- Ende: 2018-10-15T22:34:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3699
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3699
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Der Bürgermeister hat das Wort - erledigt
+- TOP 2: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 2.1: Bebauungsplan XIV-155b („Johannisthaler Chaussee / Wildmeisterdamm“) - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Fortschreibung des Neuköllner Integrationspapiers von 2009 - vertagt
+- TOP 2.3: Ausbildungsaufgaben gerecht verteilen und Stundenbelastung senken - in der BVV abgelehnt
+- TOP 2.4: Nutzlose Sanktionen gegen Eltern von Schulschwänzer*innen ausschließen - in der BVV abgelehnt
+- TOP 2.5: Dauerprojekt Späthbrücke - beantwortet
+- TOP 2.6: Bürgersteige - beantwortet
+- TOP 2.7: Verbot der Umwandlung von Miet- in Eigentumswohnungen in Milieuschutzgebieten - überwiesen
+- TOP 2.8: 30 km/h in der Kanalstraße ab Arabisweg bis Neudecker Weg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Fußgängerüberweg vor Kita Momo - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Nachtruhe sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Behindertengerechter Übergang - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Recyclinghof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Ursachen für Säuglingssterblichkeit wissenschaftlich erforschen lassen - mit Änderungen in der BVV beschlossen
+- TOP 2.14: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - ohne Änderungen in der BVV beschlossen
+- TOP 2.15: Fair gehandelte Bewirtung im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 2.16: Fairen Einkauf für die Verwaltungen erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 2.17: Bürger*innenpreis für Demokratie und Courage in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 2.18: Grundwassermanagement - vertagt
+- TOP 2.19: Verkehrslenkende Maßnahmen in der Köpenicker Straße - vertagt
+- TOP 2.20: Abdeckung Neuköllns durch Banken und Nahversorger - vertagt
+- TOP 2.21: Vorkaufsrecht Elbestraße/Weigandufer - vertagt
+- TOP 2.22: MieterInnen von Mahlower Block und Emser Str. schützen - vertagt
+- TOP 2.23: Leichte Sprache der BVV-Verwaltung - vertagt
+- TOP 2.24: Psychosoziale Betreuung im Bezirk Neukölln - schriftlich beantwortet
+- TOP 2.25: Klare Kante gegen Privatisierung von Schulliegenschaften? - schriftlich beantwortet
+- TOP 2.26: Verbot der Einfahrt in der Richardstraße - vertagt
+- TOP 2.27: Brände vermeiden - Hausmeister- u. soziale Dienste sicherstellen - vertagt
+- TOP 2.28: Sanitäre Anlagen Sonnengrundschule - vertagt
+- TOP 2.29: Shisha Bars in Neukölln - Kohlenmonoxid Vergiftungen verhindern - vertagt
+- TOP 2.30: Bushaltestelle Kielingerstraße nicht schön wie wir? - vertagt
+- TOP 2.31: Schulbau soll beim Bezirksamt bleiben - vertagt
+- TOP 2.32: Gehweg Primelweg wieder herstellen - vertagt
+- TOP 2.33: Mieter*innen im Mahlower Block schützen und beraten - vertagt
+- TOP 2.34: Praxisorientiertes Sportfach Selbstverteidigung - vertagt
+- TOP 2.35: Wachschutz an Neuköllner Schulen, Mehr Sicherheit für Schüler und Lehrer - vertagt
+- TOP 2.36: Dringend benötigte Personalverstärkung Sonnengrundschule - vertagt
+- TOP 2.37: Alternative Sportstätte herstellen - vertagt
+- TOP 2.38: Bauausschuss Sonnengrundschule - vertagt
