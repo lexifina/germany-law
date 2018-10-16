@@ -1,0 +1,162 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-10-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4788747
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4788747
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.1.1.: Fanprojekt München / "Fantreffpunkt" am Candidplatz; Vorstellung und Meinungsaustausch
+- TOP 2.1.2.1.: Unterstützung der Online-Petition für frühere Öffnungszeiten im Schyrenbad; Bürgerschreiben (E-Mail) vom 20.09.18
+- TOP 2.1.2.2.: Mietverträge zwischen der Stadt München und den Vereinen, die das Stadion an der Grünwalder Straße bespielen; Bürgerschreiben (E-Mail) vom 25.09.18 mit der Bitte um Unterstützung
+- TOP 2.1.2.3.: Bepflanzung von öffentlichen Grünflachen, Balkonen und Dachflächen an öffentlichen Gebäuden sowie Fassadenbegrünung; Bürgerschreiben (E-Mail) vom 30.09.18
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V. 30-jähriges Jubiläum am 22.10.2018 2.489,34 € Az. 0262.0-18-0148
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget BRK-KV Alten- und Service-Zentrum Harlaching Infoveranstaltung zur GMA am 14.11.2018 2.576,00 € 0262.0-18-0151
+- TOP 3.1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.1: Bericht
+- TOP 3.2.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.1.2.: Umwidmung des Fuß- und Radweges an der Rückseite des Gebäudes Candidplatz 13 zum reinen Fußweg; Antrag der Freien Wähler
+- TOP 3.2.1.3.: Schrägparken in der Schyrenstraße
+- TOP 3.2.1.4.: Verbesserung der Verkehrssicherheit an der Einmündung Münchner Kindl-Weg
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: (E) + (U) Verschönerung des U-Bahnhofs Mangfallplatz Empfehlung Nr. 14-20 / E 01855 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 16.11.2017
+- TOP 3.2.2.2.: (E) + (U) Mehr Sitzplätze für Behinderte in den Straßenbahnen Empfehlung Nr. 14-20 / E 01864 der Bürgerversammlung des Stadtbezirkes 18 – Untergiesing-Harlaching am 16.11.2017
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.2.: Einrichtung einer S-Bahnhaltestelle Großhesselohe mit Park+Ride Tiefgarage und Infrastruktur zur Nahversorgung; Antrag der CSU-Fraktion
+- TOP 3.2.3.3.: Radweg zwischen Grünwalder Straße und Reginfriedstraße und Radweg in beiden Richtungen Kreuzung Grünwalder/Tegernseer Landstraße – südlich; Antrag der SPD-Fraktion
+- TOP 3.2.3.4.: Bessere Straßenbeleuchtung in der Fromundstraße und in der Otkerstraße bis zur Schlehdorfer Straße stadteinwärts; Antrag der SPD-Fraktion
+- TOP 3.2.3.5.: Erneuerung des Straßenbelages im Zuge von Vintschgauer Straße, Karneidplatz und Südtiroler Straße; Antrag der SPD-Fraktion
+- TOP 3.2.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.9.: Gehbahnparker in der Hans-Mielich-Straße; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Fahrradstraßen im 18. Stadtbezirk; Anhörung durch das Kreisverwaltungsreferat vom 06.09.18 zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.2.4.2.: Alois-Wohlmuth-Straße, absolutes Haltverbot; Anhörung durch das Kreisverwaltungsreferat vom 06.09.18 zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.2.4.3.: Geiselgasteigstraße, Vorschlag Einbahnregelung, Bitte um Stellungnahme; E-Mail des Kreisverwaltungsreferates vom 13.09.18
+- TOP 3.2.4.4.: Anhörungsrecht für die Einrichtung von Elektroladesäulen; Anhörung durch das Direktorium zum Antrag Nr. 14-20 / B 05020 des BA 16 vom 07.06.18 auf Satzungsänderung
+- TOP 3.2.4.5.: Anhörungsrecht bei Gleiserneuerungen; Anhörung durch das Direktorium zum Antrag Nr. 14-20 / B04829 des BA 13 vom 08.05.18
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: McGraw-Gelände innovativ und langfristig denken 1. P+R-Parkhaus als Zielvorgabe für den städtebaulichen und landschaftsplanerischen Wettbewerb 2. Umsetzung von "auotfreiem" bzw. "autoreduziertem" Wohnen, massive Dach- und Fassadenbegrünung
+- TOP 3.2.5.2.: Autofreie Siedlung im 18. Stadtbezirk Untergiesing - Harlaching
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegunterführung an der Otkerstraße unter der Tegernseer Landstraße im 17. Stadtbezirk Obergiesing - Fasangarten und im 18. Stadtbezirk Untergiesing - Harlaching Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße - Chiemgaustraße Projektkosten (Kostenobergrenze): 2.820.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 155.000 € (brutto)) 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung der Projektkostenanpassung zum Mehrjahresinvestitionsprogramm 2018 - 2022 4. Anträge und Petition 4.1 Baumschutz in Giesing ernst nehmen! Antrag Nr. 14-20 / A 03714 der Stadtratsfraktion DIE LINKE 4.2 Barrierefreier Ausbau der Fuß- und Radwegunterführung Otkerstraße; Bau von Aufzügen BA-Antrag Nr. 14-20 / B 03334 des BA 18 4.3 Sachstand zur Bürgerversammlungs-Empfehlung Nr. 14-20 / E 01308 (barrierefreier Ausbau der Unterführung Otkerstraße) BA-Antrag Nr. 14-20 / B 03952 des BA 18 4.4 Petition: Baum in der Otkerstraße erhalten - Aufzug statt Rampe bauen
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.2.1.: Rückmeldung zum Vollzug der Beschlussvorlage "Messung und Untersuchung der Holzbrandgase im Bereich der Gabriel-Max-Straße; Einrichtung einer Meldemöglichkeit"; Schreiben des Referates für Gesundheit und Umwelt mit der Bitte um Rückmeldung hinsichtlich der Erledigung der zugrundeliegenden Bürgerversammlungsempfehlung
+- TOP 3.3.3: Anträge
+- TOP 3.3.3.1.: Handlungsmöglichkeiten gegen das Insektensterben; Antrag der SPD-Fraktion
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Errichtung eines Basketballfeldes mit zwei Körben am Spielplatz Athener Platz; Schreiben des Baureferats-Gartenbau zur ablehnenden Beschlussfassung vom 21.08.18 und Angebot eines Ortstermins
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Nächtliche Ruhestörung Kuntersweg und temporäre Entfernung von Banklatten; Schreiben des Baureferats-Gartenbau vom 25.09.18
+- TOP 3.4.5.2.: Modernisierung des Kinderspielplatzes am Fitness-Parcours „Isarauen“
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Freischankfläche Freibadstraße 18, Beschlussvorlage des Kreisverwaltungsreferats
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Bayerische Denkmalliste - Teil A: Baudenkmäler; hier: Anwesen in der Reinerstraße, Nachtrag einer Reihenhausanlage in die Denkmalliste; Schreiben des Referats für Stadtplanung und Bauordnung mit der Möglichkeit zur Stellungnahme
+- TOP 3.5.4.2.: Änderung der Denkmalliste nach Art. 2 BayDSchG, hier: Nachtrag des Ensembles "Gartenstadt Harlaching" in die Denkmalliste; Schreiben des Referats für Stadtplanung und Bauordnung mit der Möglichkeit zur Stellungnahme
+- TOP 3.5.4.1.1.: Tegernseer Landstraße 174, Errichtung einer Sichtschutzwand
+- TOP 3.5.4.1.2.: Schönchenstraße 25, Umbau und Erweiterung eines Einfamilienhauses zu einem Mehrfamilienhaus (3 WE) mit Carport und Stellplatz
+- TOP 3.5.4.1.3.: Schönchenstraße 33, Neubau eines Mehrfamilienhauses (4 WE) mit 2 Doppelparkern (4 Stpl.)
+- TOP 3.5.4.1.4.: Grünwalder Straße 16 – 20, Umbau Hotel, Sanierung einzelner Bäder und Nutzungsänderung Hausmeisterwohnung zu Hotel
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Anfrage des BA 18 bezüglich der Widmung eines Weges bei der Sportanlage des FC Bayern München; Antwort-Mail des Kommunalreferates
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: Liste der Bauvorhaben im 18. Stadtbezirk in der Zeit vom 27.08.2018 bis 23.09.2018
+- TOP 3.5.6.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferates 3.5.6.2.1 Anwesen Am Perlacher Forst
+- TOP 3.5.6.3.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 3.5.6.4.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.1.1.: Gedenkveranstaltung zum 80. Jahrestag des 9. November 1938: „Münchnerinnen und Münchner gedenken ihrer verfolgten jüdischen Nachbarn“; Schreiben der Arbeitsgruppe „Gedenken an den 9. November 1938“ vom 15.03.18
+- TOP 3.6.1.2.: Fest der Demokratie am 7. November 2018, Beteiligung ller Bezirksausschüsse; Schreiben des BA 8 - Schwanthalerhöhe vom 16.04.18
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
