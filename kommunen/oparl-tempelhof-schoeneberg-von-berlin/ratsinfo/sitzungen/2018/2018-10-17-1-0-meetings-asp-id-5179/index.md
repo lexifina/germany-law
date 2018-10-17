@@ -1,0 +1,81 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2018-10-17T17:00:00+02:00
+- Ende: 2018-10-17T22:35:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5179
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5179
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=316247
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Was gilt im Pilatusweg? - schriftlich beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Odenwaldstraße 1 und Stubenrauchstraße 69 in Friedenau - beantwortet
+- TOP 8.2: Psychosoziale Versorgung von Geflüchteten in Tempelhof-Schöneberg - beantwortet
+- TOP 8.3: Künftige Bespielung des Theaters am Winterfeldtplatz - beantwortet
+- TOP 8.4: Handlungsfähigkeit des Jugendamts im Hinblick auf die Personalsituation - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Planreife gemäß § 33 Abs. 1 BauGB für eine Teilfläche (MK1 und MK 2) des Bebauungsplanentwurfs 7-75 für das Gebiet zwischen Tempelhofer Weg, Hedwig-Dohm-Straße, Sachsendamm und Gotenstraße mit Ausnahme von Teilflächen der Grundstücke Sachsendamm 64,Gotenstraße 44-49, Gotenstraße 50-51, Tempelhofer Weg 27 und Tempelhofer Weg 28 im Bezirk Tempelhof-Schöneberg, Ortsteil Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Verkehrsberuhigung im Pilatusweg dauerhaft sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Keine Leihfahrrad-Angebote in Tempelhof-Schöneberg mehr nach dem Free-Floating-Prinzip - überwiesen
+- TOP 10.3: Sitzungstermine frühzeitig auf die Bezirks-Homepage stellen - zurückgezogen
+- TOP 10.4: Nutzbarmachung leerstehender Räume am Robert-Blum-Gymnasium - überwiesen
+- TOP 10.5: Signalkraft von Terre des Femmes nutzen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Gedenktafel für Paul Löbe in der Rubensstraße wieder anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Volksentscheid „Tempelhofer Feld“ einhalten - Volksgesetzgebung respektieren - vertagt
+- TOP 10.8: Spielfläche der Teltow Schule wieder für die Kinder nutzbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Tierschutz einhalten – Tiere aus dem Damwildgehege im Franckepark umsiedeln - überwiesen
+- TOP 10.10: Damwildgehege im Franckepark neu gestalten - überwiesen
+- TOP 10.11: Damwildgehege in Tempelhof erhalten – Kooperationspartner finden - überwiesen
+- TOP 10.12: Sachstandsbericht Damwildgehege im Franckepark - überwiesen
+- TOP 10.13: Ausgleichsflächen für bedrohte Kleingärten - überwiesen
+- TOP 10.14: Kurfürstenstraße 123-126 / An der Urania 1 - Planungsmoratorium - überwiesen
+- TOP 10.15: Straßenbahndepot auf den Weg bringen – Wünsche der Bürger*innen berücksichtigen - überwiesen
+- TOP 10.16: Aktionstag-"Kippe" in Tempelhof-Schöneberg durchführen - vertagt
+- TOP 10.17: Unterführung Rubensstraße - überwiesen
+- TOP 10.18: Integration durch Selbstorganisation der Geflüchteten – Bewohner*innenräte in den Gemeinschaftsunterkünften einrichten! - überwiesen
+- TOP 10.19: Zuckerhaltige Lebensmittel in Jugendeinrichtungen und Schulen vermeiden - überwiesen
+- TOP 10.20: Radfahrerfalle am Lichtenrader Damm beseitigen - überwiesen
+- TOP 10.21: Schulwegsicherheit auch auf der Pallasstraße - überwiesen
+- TOP 10.22: Behindertenparkplätze vor dem Evangelischen Friedhof in Marienfelde zeitlich begrenzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.23: Radweg Gleditschstraße verkehrssicher zu Ende führen - überwiesen
+- TOP 10.24: Entfernung von Graffiti auf den U-Bahnhöfen Bayerischer Platz (U7) und Eisenacher Straße - überwiesen
+- TOP 10.25: Verkehrssicherheit durch Tempo 30 auf dem Vorarlberger Damm - überwiesen
+- TOP 10.26: Eichhörnchen nicht verhungern lassen - überwiesen
+- TOP 10.27: Chanukka auch in Tempelhof-Schöneberg feiern - überwiesen
+- TOP 10.28: Dem Ehrenamt eine Chance geben – Thomas-Dehler-Bibliothek muss bleiben - vertagt
+- TOP 10.29: 80 Jahre Rathaus Tempelhof - vor dem Fortschritt der Rückblick - überwiesen
+- TOP 10.30: Vergabe von Sondermitteln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Wirtschaftsbericht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Verkehrskonzept zum Schutz der Neu-Tempelhofer Anwohner vor ausuferndem Durchgangsverkehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Öffentlich geförderte Leihfahrradanbieter unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Beruhigung der Verkehrssituation am Tempelhofer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Verkehrsberuhigung Neu-Tempelhof – Sofortmaßnahmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Erstattung von Fahrtkosten zur Umfahrung der Fußgängerbrücke Säntisstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Suizidprävention im Bezirk stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Schulen unterstützen: Bedarfe abfragen – Unterstützung gewähren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Öffentliche Gedenkfeiern zum Gedenken an die Luftbrücke und das Ende der Berliner Blockade im Jahr 2019 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Keine Übergriffe auf autonome Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Schulen unterstützen: Bedarfe abfragen – Unterstützung gewähren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Regionalbahn-Halt in Schöneberg einplanen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Geographisches Informationssystem für Tempelhof-Schöneberg etablieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.3: Kunst und Kultur für Sehbehinderte und Blinde in Tempelhof-Schöneberg - überwiesen
+- TOP 13.4: Zum 150. Geburtstag von Hans Baluschek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.5: Auflagenbeschlüsse zum Haushaltsplan 2018/2019 hier: Nr. 3.1 Beauftragtenwesen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - überwiesen
