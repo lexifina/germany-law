@@ -1,0 +1,107 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-10-17T17:00:00+02:00
+- Ende: 2018-10-17T23:25:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3239
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3239
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Zustand vom Britzer Akazienwald - beantwortet
+- TOP 1.2: Kündigung der Kiezkneipe Syndikat - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - in der BVV abgelehnt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung eines Mandats als ordentliches, beratendes Mitglied im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Niederlegung eines Mandats als Bezirksverordnete - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - erledigt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Bebauungsplan 8- 14 - („südliche Späthstraße“) - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Bebauungsplan 8-30 - („Blub-Gelände“) - ohne Änderungen in der BVV beschlossen
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Kinder von ehemaligen IS-Kämpfer*innen - beantwortet
+- TOP 9.2: Wartelisten Erbbauheimstätte - beantwortet
+- TOP 9.3: Kinderschutz in Kita „Sonnenschein“ gewährleistet? - beantwortet
+- TOP 9.4: Fachpersonalmangel in der neuen KiTa Kubis beenden - beantwortet
+- TOP 9.5: Besuch des Innensenators Geisel - beantwortet
+- TOP 9.6: ADAS in Neukölln - beantwortet
+- TOP 9.7: Keine Neu-Abonnenten ab Januar 2019 - schriftlich beantwortet
+- TOP 9.8: Grünanlage Wildenbruchplatz - schriftlich beantwortet
+- TOP 9.9: Defekte Wand Kombibad Gropiusstadt - schriftlich beantwortet
+- TOP 9.10: Nächtliche Autorennen in Rudow - schriftlich beantwortet
+- TOP 9.11: Neun fehlende Ärzte im Neuköllner Gesundheitsamt? - schriftlich beantwortet
+- TOP 9.12: MUF für besonders schutzbedürftige Geflüchtete in der Kiefholzstraße? - schriftlich beantwortet
+- TOP 9.13: Weiterbau der U-Bahnlinie U7 - schriftlich beantwortet
+- TOP 9.14: Fehlende Stellen bei der Stadtentwicklung - schriftlich beantwortet
+- TOP 9.15: Erhöhte Säuglingssterblichkeit - schriftlich beantwortet
+- TOP 9.16: Was tun gegen arabische Clans? - schriftlich beantwortet
+- TOP 9.17: Nachfrage zu Drucksache - 0167/XX - schriftlich beantwortet
+- TOP 9.18: Verbindungen zwischen Clans und radikalen Neuköllner Moscheen - schriftlich beantwortet
+- TOP 9.19: Beschimpfung des Ordnungsamtes durch arabische Clans: "Verpisst euch, das ist unsere Straße" - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Fortschreibung des Neuköllner Integrationspapiers von 2009 - vertagt
+- TOP 10.2: Grundwassermanagement - in der BVV abgelehnt
+- TOP 10.3: Verkehrslenkende Maßnahmen in der Köpenicker Straße - in der BVV abgelehnt
+- TOP 10.4: Abdeckung Neuköllns durch Banken und Nahversorger - vertagt
+- TOP 10.5: Vorkaufsrecht Elbestraße/Weigandufer - vertagt
+- TOP 10.6: MieterInnen von Mahlower Block und Emser Str. schützen - vertagt
+- TOP 10.7: Leichte Sprache der BVV-Verwaltung - vertagt
+- TOP 10.8: Verbot der Einfahrt in der Richardstraße - überwiesen
+- TOP 10.9: Brände vermeiden - Hausmeister- u. soziale Dienste sicherstellen - überwiesen
+- TOP 10.10: Sanitäre Anlagen Sonnengrundschule - überwiesen
+- TOP 10.11: Shisha Bars in Neukölln - Kohlenmonoxid Vergiftungen verhindern - in der BVV abgelehnt
+- TOP 10.12: Bushaltestelle Kielingerstraße nicht schön wie wir? - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Schulbau soll beim Bezirksamt bleiben - überwiesen
+- TOP 10.14: Gehweg Primelweg wieder herstellen - überwiesen
+- TOP 10.15: Mieter*innen im Mahlower Block schützen und beraten - überwiesen
+- TOP 10.16: Praxisorientiertes Sportfach Selbstverteidigung - überwiesen
+- TOP 10.17: Wachschutz an Neuköllner Schulen, Mehr Sicherheit für Schüler und Lehrer - in der BVV abgelehnt
+- TOP 10.18: Dringend benötigte Personalverstärkung Sonnengrundschule - in der BVV abgelehnt
+- TOP 10.19: Alternative Sportstätte herstellen - in der BVV abgelehnt
+- TOP 10.20: Bauausschuss Sonnengrundschule - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Skulptur für Stadtteilbibliothek - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Lehr- und Lernmitteletat der Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Gedenkort Zwangsarbeiterlager Fulhamer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Mitbestimmung der Schulleiterkonferenz an der Schülerzuweisung - in der BVV abgelehnt
+- TOP 11.5: Öffnung der U-Bahnhöfe für Obdachlose in der kalten Jahreszeit - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Eine neue Küche für den Jugendclub Manege - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Attraktive Rixdorfer Höhe - in der BVV abgelehnt
+- TOP 11.8: Massenschlägerei vor dem Rathaus vermeiden - in der BVV abgelehnt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Schutz von Minderjährigen in einem kriminellen familiären Umfeld - vertagt
+- TOP 12.2: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes - vertagt
+- TOP 12.3: Gilt in Neuköllner Grundschulkantinen die Scharia? - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Aussteigerprogramm aus kriminellen Clanstrukturen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Platzbenennung - vertagt
+- TOP 14.3: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes – Hat Neukölln daran Anteil? - vertagt
+- TOP 14.4: Öffentliches Erinnern an die Novemberrevolution in Neukölln - vertagt
+- TOP 14.5: Bestandsschutz der Kleingartenanlagen verlängern - vertagt
+- TOP 14.6: Ampel Hermannstraße/ Thomasstraße - vertagt
+- TOP 14.7: Handeln statt populistischem Spiel - vertagt
+- TOP 14.8: Straßenumbenennung - vertagt
+- TOP 14.9: Nutzerfreundliche Papierkörbe in der Karl-Marx-Straße - vertagt
+- TOP 14.10: Änderung des Flächennutzungsplans im Bereich Oderstraße 188 zur Erweiterung des Werner-Seelenbinder-Sportparks und Sicherung von Gartenparzellen - vertagt
+- TOP 14.11: Gedenkstein auf dem Garnisonsfriedhof - vertagt
+- TOP 14.12: Radverkehr in Hermannstraße und Sonnenallee sicherer machen - vertagt
+- TOP 14.13: Kita Riesestraße 1-2 - vertagt
+- TOP 14.14: Hänselstraße zwischen Sonnenallee und Gretelstraße zum verkehrsberuhigten Bereich umwidmen - vertagt
+- TOP 14.15: Beratungsstelle für Opfer von Straftaten schaffen - vertagt
+- TOP 14.16: Umwandlung des Amtes der Gleichstellungsbeauftragten in ein Referat für Gleichberechtigung - vertagt
+- TOP 14.17: Verkehrslenkende Maßnahmen in der Groß-Ziethener Chaussee - vertagt
+- TOP 14.18: „Solidarisches Grundeinkommen“, aber richtig und solidarisch - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Unterhaltsvorschuss: Alleinerziehende nicht warten lassen! - vertagt
+- TOP 15.2: Kältebahnhöfe offenhalten - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Fachkonferenz Jugendberufsagentur - vertagt
