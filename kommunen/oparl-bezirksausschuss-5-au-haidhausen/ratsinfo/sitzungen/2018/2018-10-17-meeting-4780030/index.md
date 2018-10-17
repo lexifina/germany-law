@@ -1,0 +1,141 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-10-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4780030
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4780030
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.1.: Ortstermin zum Denkmalantrag "Weisse Rose" am 10.10.2018 um 18 Uhr gegenüber Orleansstr. 61 (Sicherung zweier Zaunstücke)
+- TOP 2.1.: Orleansstr. 56: Abbruch des Gebäudes mit Erhalt von Kellerräumen
+- TOP 2.2.: Falkenstr. 33: DG-Neubau und Nutzungsänderung: Speicherräume zu Wohnraum; Vorbescheid
+- TOP 2.3.: Einsteinstr. 130: Umbau / Teilung einer Verkaufsfläche und Anbau eines Lastenaufzugs an der Südfassade
+- TOP 2.4.: Gravelottestr. 8: Nutzungsänderung im EG, Zwischenbau: Büros zu Pflege
+- TOP 2.5.: Untere Feldstr. 9: Neubau eines Einfamilienhauses mit Garage; Tektur
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Entfernung des Efeubewuchses an der Gebsattelbrücke/ Steinbildarbeiten sichtbar machen
+- TOP 5.1.: Systematische Begrünung der Straßen im Stadtviertel
+- TOP 5.2.: Briefkasten für die Filiale Mariahilfplatz der Stadtsparkasse
+- TOP 5.3.: Microsite auf www.muenchen.de für die Sammlung von O-Bikes einrichten
+- TOP 5.4.: Kontrollen der KVÜ verstärken: Pariser Platz
+- TOP 6.1.1.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Kinder und Jugendliche in Au / Haidhausen Aktion zum Thema "gesunde und gute Ernährung" am 28.09.2018 999,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Lang-Jaumann, Alfred", Ohlmüllerstr. 6 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Genehmigung einer Freischrankfläche: "Bäckereiverkaufsfiliale", Steinstr. 85 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.3.: Erweiterung einer bestehenden Freischankfläche: „Cafe Hüller“, Eduard-Schmid-Str. 8 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (U) Geplante gastronomische Nutzung des historischen Maxwerks Empfehlung Nr. 14-20 / E 01652 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 29.06.2017 Keine gastronomische Nutzung des Maxwerks in den Maximiliansanlagen Empfehlung Nr. 14-20 / E 01633 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 06.07.2017 Keine Nutzungsänderung der Betriebsräume des Maxwerks Empfehlung Nr. 14-20 / E 01927 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 01.03.2018 Geplante gastronomische Nutzung des historischen Maxwerks Empfehlung Nr. 14-20 / E 01919 der Bürgerversammlung des Stadtbezirkes 05 Au- Haidhausen am 22.02.2018 - Vertagung aus der Sitzung vom 19.09.2018 -
+- TOP 6.3.2.: (E) + (U) Lärmbelastung Humboldt-/Pilgersheimer Straße Empfehlung Nr. 14-20 / E 01922 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 01.03.2018
+- TOP 7.1.: Anhörungsrecht bei Gleiserneuerungen; Anhörung des Direktoriums vom 12.09.2018
+- TOP 8.1.1.: Maxwerk (X) – Aushebeln des Antrags- und Anfragerechts des Bezirksausschusses und der Bürgerversammlung in Sachen „Maxwerk“ - Vertagung aus der Sitzung vom 19.09.2018 -
+- TOP 8.1.2.: Nutzung des Maxwerks in den Maximiliansanlagen BA-Anträge Nr. 14-20/B 2287, 3413, 3414, 3415, 3416, 3420, 3421, 3561 und 3640 - Vertagung aus der Sitzung vom 19.09.2018 -
+- TOP 8.1.3.: Rechtliche Grundlage der Erweiterung des Bebauungsplans Nr. 2076 – Baugebiet 2 (2) ehem. Paulaner Gelände zwischen Hoch- und Regerstraße Anfrage
+- TOP 8.1.4.: Modifizierung der Ampelschaltung Ohlmüller-/Eduard-Schmid-Straße
+- TOP 8.1.5.: Jahrelanger Leerstand von Wohnraum am Johannisplatz 16 (Anfrage)
+- TOP 8.3.1.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 8.3.2.: Planungsstand Anwesen Quellenstr. 44
+- TOP 8.3.3.: Sanierung der Rad- und Fußwege in den Maximiliansanlagen ab Oktober
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Milchstraße 16: Fällung von 1 Eberesche
+- TOP 7.2.: Balanstr. 41: Fällung von 1 Eberesche
+- TOP 7.3.: Sieboldstr. 4: Aufstockung der Halle des TSV München Ost um eine Dreifachsporthalle - Baumfällungen gemäß Plan -
+- TOP 7.4.: Orleansstr 5a: Fällungsgenehmigung von 1 Kastanie
+- TOP II.: UA Kultur und Freizeit
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Nutzung der Halfpipe am Spielplatz Tassilopark Vorschläge von AKIM zur Konfliktlösung
+- TOP 2.2.: Infrastruktur für Seniorinnen und Senioren ausbauen - Neue Alten- und Servicezentren für den Stadtbezirk 5 schaffen Terminvorschlag des Sozialreferates zum Schreiben des BA 5 vom 03.07.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Ohlmüllerstraße Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen Kindertagesstätten sonstiger Träger; Haus für Kinder an der Ohlmüllerstraße 40 im 5. Stadtbezirk Au-Haidhausen Leistung eines Baukostenzuschusses
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Stadtbezirksbudget Arbeitsgemeinschaft Kinder und Jugendliche in Au / Haidhausen Aktion zum Thema "gesunde und gute Ernährung" am 28.09.2018 999,00 €
+- TOP 1.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Lang-Jaumann, Alfred", Ohlmüllerstr. 6
+- TOP 1.3.: Genehmigung einer Freischrankfläche: "Bäckereiverkaufsfiliale", Steinstr. 85
+- TOP 1.4.: Erweiterung einer bestehenden Freischankfläche: „Cafe Hüller“, Eduard-Schmid-Str. 8
+- TOP 2.: Anhörungen
+- TOP 2.1.: Haidhauser Weihnachtsmarkt am Weißenburger Platz vom 26.11.-24.12.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Protokoll der AG Stadtbezirksbudget vom 18.09.2018
+- TOP 3.2.: Stubenvollstr. 2, Hotel Preysing: Nutzungsänderung: Frühstücks-, Konferenz- und Toilettenraum im EG zu Gaststätte Schreiben der Lokalbaukommission
+- TOP 3.3.: Einladung zur Kampagne munich4EUROPE
+- TOP 3.4.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.6.: Lucile-Grahn-Str. 27: Umbau zweier Wohnungen
+- TOP 2.7.: Trogerstr. 38,40, Perfallstr. 1: Nachtrag einer Miethausgruppe, bestehend aus drei Satteldachbauten, in die Denkmalliste
+- TOP 2.8.: Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum - Sachstand und weiteres Vorgehen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Orleansstr. 44-48: 2 Vorbescheidsanträge
+- TOP 3.2.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 3.3.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 3.4.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 3.5.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 3.6.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: 2. Stammstrecke München Empfehlung Nr. 14-20 / E 01492 der Bürgerversammlung vom 18.05.2017 Empfehlung Nr. 14-20 / E 01930 der Bürgerversammlung vom 01.03.2018
+- TOP 2.2.: Verlängerung des Taxistandplatzes Ismaninger Straße
+- TOP 2.3.: Schulwegsicherheit am Gebsattelberg Antwortschreiben KVR zum Schreiben BA 5 vom 26.06.2018 - Bitte um abschließendes Votum des BA -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kirchenstraße zwischen Seerieder- und Flurstraße; Rückbau der Radwege, Verbreiterung Gehweg, barrierefreier Ausbau der Haltestelle Schreiben Baureferat zum BA-Beschluss vom 20.06.2018
+- TOP 3.2.: Mehr Platz für Räder - rund um den Ostbahnhof -1
+- TOP 3.3.: Verkehrsrechtliche Anordnungen: a) Errichtung eines absoluten Haltverbots am Tassiloplatz b) Errichtung eines absoluten Haltverbots gegenüber Sommerstr. 7/9
+- TOP 3.4.: Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt Sitzungsvorlagen Nr. 14-20 / V 9512
+- TOP 3.5.: Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Sitzungsvorlagen Nr. 14-20 / V 10857
+- TOP 3.6.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB Sitzungsvorlagen Nr. 14-20 / V 11265
+- TOP 3.7.: Trinkwasserbrunnen Sitzungsvorlagen Nr. 14-20 / V 12133
+- TOP 3.8.: (U) Neue Ökokonten für München
+- TOP 3.9.: (U) Agrastrukturelle Untersuchungen
+- TOP 3.10.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 3.11.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 3.12.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 3.13.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 3.14.: Baustelleneinrichtung auf dem Orleansplatz vom 08.10.-19.10.2018
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 12.11.2018, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 05.11.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 13.11.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 14.11.2018, 19 Uhr, Theater Hoch X, Entenbachstr. 37 UA Planung, 15.11.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 21.11.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 06.11.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Einladung zum Workshop "Modellstadt München 2030 - Gemeinsam Gestalten" am 26.10.2018 von 9.00 - 12.45 Uhr
+- TOP 4.3.: Einladung "25 Jahre WOGENO" am 29.11.2018 ab 17.30 Uhr
