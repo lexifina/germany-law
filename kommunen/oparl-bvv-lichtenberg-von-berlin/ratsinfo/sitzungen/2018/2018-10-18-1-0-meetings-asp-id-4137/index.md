@@ -1,0 +1,103 @@
+# 23. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-10-18T17:00:00+02:00
+- Ende: 2018-10-18T22:20:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4137
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4137
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=250349
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Prognosen - in der BVV zurückgezogen
+- TOP 5.2: Quereinsteiger an Lichtenberger Schulen - in der BVV zurückgezogen
+- TOP 5.3: Barrierefreies Wohnen - vertagt
+- TOP 5.4: Fachkolloquium zum Besucherzentrum im Mies-van-der-Rohe-Haus - vertagt
+- TOP 5.5: Gründung eines Expert*innenbeirats zur Verbesserung der städtebaulichen Qualität von Bauvorhaben Hierzu: Aufhebungsanträge der Fraktionen DIE LINKE. und CDU - vertagt
+- TOP 5.6: Toleranzzone in Lichtenberg - zurückgezogen
+- TOP 5.7: Lichtenberg stellt sich gegen jede Form von Rassismus und Menschenfeindlichkeit bei öffentlichen Kulturveranstaltungen - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Kitaplatzwunder in Lichtenberg? - beantwortet
+- TOP 8.2: Kitaplatzsituation an der Rummelsburger Bucht - beantwortet
+- TOP 8.3: Sanierung Japanisches Tor - bzgl. KA/0096/VIII - beantwortet
+- TOP 8.4: Teilnahme des Bezirksamtes - beantwortet
+- TOP 8.5: Anpassung an neue Vielfalt politisch motivierter Kriminalität in Lichtenberg - schriftlich beantwortet
+- TOP 8.6: Bußgelder für Raucher - schriftlich beantwortet
+- TOP 8.7: Verwaltung der Garten- und Siedlungsanlage Falkenhöhe 1932 e. V. - schriftlich beantwortet
+- TOP 8.8: Bolzplatz Feldmark - schriftlich beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Sitzungstermine der Bezirksverordnetenversammlung Lichtenberg von Berlin im Kalenderjahr 2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wahlvorschlag zur Berufung eines/r ehrenamtlichen Mitarbeiter*in für die Sondersozialkommission im Begegnungszentrum für Menschen mit Behinderungen "Insel" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: BVV-Sondermittel für den Förderverein Schloß Hohenschönhausen e. V. für den Druck einer Broschüre "20 Jahre Förderverein Schloß Hohenschönhausen e. V." - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Bezirkssportbund durch Verwaltungsstelle entlasten und verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Wartenberger Straße 51 wieder für Nahversorgung fit machen - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Handlungsempfehlung aus der Einschulungsuntersuchung entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Schulbau in Lichtenberg weiter beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Schulneubau schneller vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Ansiedlungskonzept für die Großsiedlung Hohenschönhausen entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Schulgesundheitsfachkräfte an Lichtenberger Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Hinweise zu Städtepartnerschaften - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Standorte für Trinkbrunnen - Bürger*innen beteiligen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.14: Lösungen für die Stellenbesetzung im RSD finden - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Rechtsgutachten zum Bebauungsplanverfahren 11-103 (KGA „Falkenhöhe 1932“) - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: BVV-Sondermittel für die Kleingartenanlage Biesenhorst II e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: B-Plan XVII-9-1 endlich festsetzen - überwiesen
+- TOP 9.18: Chance für den Neustart der Gestaltung des Prerower Platzes zügig und ideenreich nutzen! - überwiesen
+- TOP 9.19: Schulwegsicherheit an der Lew-Tolstoi-Schule Karlshorst - überwiesen
+- TOP 9.20: Öffentliche Luftpumpstationen - überwiesen
+- TOP 9.21: Statikprüfung in Schulen und Kindertagesstätten - überwiesen
+- TOP 9.22: Wirtschaftsentwicklung regelmäßig darstellen - überwiesen
+- TOP 9.23: Potenzielle Flächen für Mobilitätsstationen - überwiesen
+- TOP 9.24: Lösungen und Unterstützung für den Regionalen Sozialpädagogischen Dienst (RSD) - überwiesen
+- TOP 9.25: Reaktivierung der alten Schule in Althohenschönhausen - überwiesen
+- TOP 9.26: Bebauungsplan 11-40-1 - öffentliche Auslegung und erneute, eingeschränkte Behördenbeteiligung u. a.; Arbeitstitel: Wartiner Straße 1 und 6 sowie Falkenberger Chaussee 160 - überwiesen
+- TOP 9.27: Nachweisung der im Haushaltsjahr 2018 bis zum 30.06.2018 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 9.28: Geänderte Zielstellung für Hohenschönhausener Mitte sichern - überwiesen
+- TOP 9.29: Bebauungsplan 11-40-1 - öffentliche Auslegung und erneute, eingeschränkte Behördenbeteiligung u. a.; Arbeitstitel: Wartiner Straße 1 und 6 sowie Falkenberger Chaussee 160 - überwiesen
+- TOP 9.30: Stadtteilkonferenz zu den Nachverdichtungspotenzialen im Fennpfuhl - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Rheinpfalzallee 83 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Sportvereine und Schulgremien bei Neubau, Sanierungs- und Baumaßnahmen von Schulen, Sporthallen und Sportplätzen rechtzeitig informieren und stärker beteiligen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: Grundsätzlicher Verzicht auf befristete Arbeitsverträge ohne sachlichen Grund - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.34: Bebauungsplan 11-137 - Erweiterung des Geltungsbereichs; Arbeitstitel: Kleingartenanlage "Oranke" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - (offen)
+- TOP 11.1: Wahl einer Bürgerdeputierten für den Ausschuss Eingaben/Beschwerden und Geschäftsordnung - gewählt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Warum fehlen in Lichtenberg 3.263 Schulplätze? - schriftlich beantwortet
+- TOP 12.2: Schulentwicklungsplan für den Bezirk Berlin-Lichtenberg für die Jahre 2017/18 bis 2023/24 - überwiesen
+- TOP 13: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 13.1: Erschließung Bauvorhaben Detlevstraße Hierzu: Aufhebungsantrag der Fraktion der AfD - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.2: Abschluss von 3 städtebaulichen Verträgen und 3 Durchführungsverträgen - Berliner Modell der kooperativen Baulandentwicklung - überwiesen
+- TOP 14: Prioritäten der Fraktionen - (offen)
+- TOP 14.1: Einwohnerantrag „Hände weg von den grünen Lichtenberger Innenhöfen“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Lichtenberger Kindertagesstättenentwicklungsplan 2018 - überwiesen
+- TOP 14.3: Eine Grundschule an der Nordspitze der Rummelsburger Bucht bauen - im Ausschuss abgelehnt
+- TOP 14.4: Planungssicherheit für das Gewerbegebiet Herzbergstraße - überwiesen
+- TOP 14.5: Rahmenplan Gewerbegebiet Herzbergstraße Zwischenbericht zu den Drucksachen: 0767/VIII; 0531/VIII; 1856/VII Abschlussbericht zur Drucksache: 1985/VII - überwiesen
+- TOP 15: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 15.1: Bezirkshaushaltsrechnung 2016 - vertagt
+- TOP 15.2: Integriertes Energie- und Klimaschutzkonzept für das Gewerbegebiet Herzbergstraße - vertagt
+- TOP 16: Anträge zur Beschlussfassung - erledigt
+- TOP 16.1: Bei Neubau von Kitas und Grundschulen Möglichkeiten zur Schaffung von Familienzentren einplanen - vertagt
+- TOP 16.2: Bauliche Instandsetzung der Jugendverkehrsschulen in Lichtenberg - vertagt
+- TOP 16.3: Kletterpflanzen vor Graffiti-Wänden - vertagt
+- TOP 16.4: Nachweis über den Besuch geförderter Veranstaltungen - vertagt
+- TOP 16.5: Kostenloses Mittagessen für alle Kinder - vertagt
+- TOP 16.6: Mehr planerischen Freiraum durch Aufgabe der TVN-Trasse am Regional- und S-Bahnhof Hohenschönhausen - vertagt
+- TOP 17: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 18: Vorlagen zur Kenntnisnahme - im Ausschuss abgelehnt
+- TOP 18.1: Studie Soziale Inklusion und kommunale Sozialpolitik "Zur Situation der Obdach- und Wohnungslosen sowie der Wohnungslosenhilfe im großstädtischen Kontext am Beispiel des Bezirkes Lichtenberg von Berlin" - vertagt
+- TOP 18.2: vorhabenbezogener Bebauungsplan 11-117 VE - frühzeitige Beteiligungen; Arbeitstitel: Landsberger Allee 323/339 - vertagt
+- TOP 19: Schließung der Sitzung - erledigt
