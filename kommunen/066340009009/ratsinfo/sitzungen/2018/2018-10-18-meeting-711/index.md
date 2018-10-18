@@ -1,0 +1,54 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (19. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2018-10-18T19:05:00+02:00
+- Ende: 2018-10-18T20:23:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZUiHWEN9nOHtEUlG46DENGg
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/711
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa9tcx9xXTP0z8-do_j3rR0uxfVi9ijdtq4EoNv7v_iN/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_18.10.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd_Vf5IDWwRm2KyFB6I0iYqbHk6id7xyModMhZdDMu51/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_18.10.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Antrag der SPD-Fraktion vom 26. Juni 2018 zur Abschaffung der Straßenbeiträge - (kein Text vorhanden)
+- TOP 1.1: Antrag der SPD-Fraktion, CDU-Fraktion und FWG-Fraktion zur Abschaffung der Straßenbeiträge - (kein Text vorhanden)
+- TOP 2.: Multifunktionshaus Marktplatz 15 hier: Errichtung einer Parkplatzfläche für bis zu 12 Stellplätze - (kein Text vorhanden)
+- TOP 3.: Neukonzeption Rathaus hier: Erste konkrete Schritte - (kein Text vorhanden)
+- TOP 4.: Straßenbau- und -sanierungskonzept - (kein Text vorhanden)
+- TOP 5.: Haushalt 2019 Hier: Vorstellung der Investitionsplanung im Vorgriff auf die Einbringung des Haushaltes 2019
+- TOP 5.1: Haushalt 2019 hier: Vorstellung der Investitionsplanung im Vorgriff auf die Einbringung des Haushaltes 2019
+- TOP 6.: Sachstandsberichte und sonstige Informationen
+- TOP 6.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 6.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 6.1.2: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 6.1.3: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 6.1.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 6.1.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 6.1.6: Antrag der CDU-Fraktion vom 17.02.2017 - betr. Stärkung des Nahverkehrsstandort Homberg
+- TOP 6.1.7: Antrag der SPD-Fraktion vom 24.04.2017 – betr. Beutelspender für Hundekot
+- TOP 6.1.8: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 6.1.9: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht Juli 2018
+- TOP 6.1.10: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 6.1.11: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 6.1.12: Antrag der FWG-Fraktion vom 30. Mai 2018 betr. Errichtung eines neuen Fußgängerüberwegs
+- TOP 6.1.13: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 6.1.14: Antrag der SPD-Fraktion, CDU-Fraktion und FWG-Fraktion zur Abschaffung der Straßenbeiträge
+- TOP 6.1.15: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 6.1.16: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 6.1.17: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Kurve an L3224 oberhalb Basaltwerk
+- TOP 6.1.18: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 6.2: Städtebauförderprogramm Aktive Kernbereiche in Hessen hier: Mitteilung des Hessischen Ministeriums für Umwelt, Klimaschutz, Landwirtschaft und Verbraucherschutz vom 28.08.2018 über die Nichtanerkennung als Förderstand- ort für das Programmjahr 2018
+- TOP 7.: Anträge
+- TOP 7.1: Antrag der FWG-Fraktion vom 3. Oktober 2018 betr. Änderung Nr. 1 zum Bebauungsplan Nr. 31 - Schmückebergsweg - (kein Text vorhanden)
+- TOP 7.2: Antrag der CDU-Fraktion vom 3. Oktober 2018 betr. bauliche Veränderung der Bushaltestelle(n) in Homberg-Roppershain - (kein Text vorhanden)
+- TOP 7.3: Antrag der CDU-Fraktion vom 3. Oktober 2018 betr. Etablierung der Sicherheitsinitiative "KOMPASS" - (kein Text vorhanden)
+- TOP 7.4: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze) - (kein Text vorhanden)
+- TOP 7.5: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze) - (kein Text vorhanden)
+- TOP 8.: Anfragen
+- TOP 8.1: Anfrage der CDU-Fraktion vom 3. Oktober 2018 betr. Städtischer Streetworker
+- TOP 9.: Anregungen
