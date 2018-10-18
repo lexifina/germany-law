@@ -1,0 +1,148 @@
+# 21. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVE-STREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2018-10-18T17:30:00+02:00
+- Ende: 2018-10-18T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4484
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4484
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=418130
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=422324
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Thematische Stunde: Diesterweg-Gymnasium DS: 1448/V, 1449/V, 1452/V, 1474/V, 1491/V - beantwortet
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Wie bei Hampels unterm Sofa? Wer ist zuständig für die Reinigung am Elise-und-Otto-Hampel-Weg? - beantwortet
+- TOP 7.2: Jugendverkehrsschulen - wann geht es endlich los mit den Sanierungsmaßnahmen? - beantwortet
+- TOP 7.3: Unbesetzte Arztstellen im Gesundheitsamt: Was tut das Bezirksamt Mitte? - beantwortet
+- TOP 7.4: Wann kommt die Müll- und Abfallentsorgung 2.0 nach Berlin-Mitte? - beantwortet
+- TOP 7.5: Mieter*innenvertreibung Spenerstraße 4-5: Haus zum Abriss freigegeben? (II) - beantwortet
+- TOP 7.6: Fahrverbote für Diesel-Kraftfahrzeuge - schriftlich beantwortet
+- TOP 7.7: Anpacken oder wegsehen? Wie steht’s um die Schulraumqualität? - schriftlich beantwortet
+- TOP 7.8: Mehr Housing First für Mitte - schriftlich beantwortet
+- TOP 7.9: Wie steht’s um die Digitalisierung der Verwaltung in Mitte? - schriftlich beantwortet
+- TOP 7.10: Einbeziehung der Bürgerschaft in Neubauvorhaben städtischer Wohnungsbaugesellschaften in Mitte (II) - schriftlich beantwortet
+- TOP 7.11: Wird der Verkehr in Berlin-Mitte bald zu großen Teilen lahm gelegt? - schriftlich beantwortet
+- TOP 7.12: Mehr KiezläuferInnen für Mitte - schriftlich beantwortet
+- TOP 7.13: Kurfürstenkiez im Zuständigkeits-Dschungel – Polizeipräsident oder Ordnungsamt? - schriftlich beantwortet
+- TOP 7.14: Personalgewinnung und Personalmanagement - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Wird eine Propangas-Tankanlage in der Koloniestr. aufgestellt? - erledigt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Diesterweg – alles auf Anfang? - beantwortet
+- TOP 9.2: Wie weiter am Standort des ehemaligen Diesterweg-Gymnasiums? - beantwortet
+- TOP 9.3: Wie geht es mit der Friedrichwerderschen Kirche weiter? - beantwortet
+- TOP 9.4: Gut Wohnen und Leben in Berlin-Mitte – auch mit körperlicher Behinderung und im Alter? - beantwortet
+- TOP 9.5: Beschlussrechte der BVV bei Errichtung einer neuen Schule am Standort des ehemaligen Diesterweg-Gymnasiums (Swinemünder Straße 80 & Putbusser Straße 12) - beantwortet
+- TOP 9.6: Grüne Politik in Mitte: Die Anzahl der Straßenbäume sinkt!? - beantwortet
+- TOP 9.7: Wie kann Zweckentfremdung im Bezirk endlich wirkungsvoll bekämpft werden? - beantwortet
+- TOP 9.8: Hygienekontrollen im Bezirk - schriftlich beantwortet
+- TOP 9.9: Rattenplage in Berlin-Mitte II – Was hat das Bezirksamt inzwischen getan? - schriftlich beantwortet
+- TOP 9.10: Nachgehakt – Wurden die Mülleimer in der Rehberge ausgetauscht? - schriftlich beantwortet
+- TOP 9.11: Wie geht’s weiter am Rosenthaler Platz und Weinbergsweg? - schriftlich beantwortet
+- TOP 9.12: Kleingartenanlage Lehrter Straße - schriftlich beantwortet
+- TOP 9.13: Der große Super-DAU. Oder: Außer Spesen nichts gewesen? - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Tiergarten-Süd“ im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Thomasiusstraße“ im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Soldiner Straße“ im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 01 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2017 - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Besetzung von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mohrenstraße - überwiesen
+- TOP 14.2: Berlichingen Str. 12: Leerstand beseitigen, Spekulation verhindern, Wohnraum gewinnen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4: Insektenhotels für Berlin-Mitte - in der BVV abgelehnt
+- TOP 14.5: Chausseestraße sicher queren (Höhe Habersaathstraße)! - überwiesen
+- TOP 14.6: Barrierefreiheit ist ein Menschenrecht! Schluss mit dem Hinhalten des Bezirksamts: Endlich ein behindertengerechtes WC in der Arminiusmarkthalle - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Invaliden Ecke Chaussee: Verkehrsführung offensichtlicher machen - überwiesen
+- TOP 14.8: Planungssicherheit für den Mädchentag - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Arminiushalle: Schluss mit lustig - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Besetzung von Bürgerdeputieten - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Bienen in Berlin-Mitte neudenken! - in der BVV abgelehnt
+- TOP 14.12: Integration durch neue Jugendzentren in Mitte fördern! - überwiesen
+- TOP 14.13: Beim ehemaligen Diesterweg-Gymnasium nicht einfach alles zurück auf Anfang - in der BVV abgelehnt
+- TOP 14.14: 100 Jahre Rehberge – Sanierung mit Bürgerbeteiligung planen - überwiesen
+- TOP 14.15: Bessere Pflege für die Grünanlagen in Berlins Mitte! - überwiesen
+- TOP 14.16: Erläuternde Zusatzschilder zur geschichtlichen Aufklärung unter Straßennamensschilder - überwiesen
+- TOP 14.17: Entwicklungsplan für Senioreneinrichtungen - in der BVV abgelehnt
+- TOP 14.18: Zwischennutzung von Freiräumen ermöglichen - überwiesen
+- TOP 14.19: Präventionsrat Mitte und Runder Tisch Weinbergsweg - überwiesen
+- TOP 14.20: Neubau als Chance: Das Rathaus Mitte als Zentrum für Kommunikation und Bezirkspolitik - überwiesen
+- TOP 14.21: Weiterentwicklung des derzeitigen QM-Gebietes Ackerstr. nach der Verstetigungsphase nicht gefährden. - überwiesen
+- TOP 14.22: Alle Räumungsmitteilungen dem Sozialamt mitteilen - überwiesen
+- TOP 14.23: Für Sicherheit und Lärmschutz: Geschwindigkeitsbegrenzungen durchsetzen - überwiesen
+- TOP 14.24: Grüne Infrastruktur schützen: Erhalt der Kleingartenanlage „Virchow“ sichern! - überwiesen
+- TOP 14.25: Preisgerichtssitzung für BSO-Schulneubauten in Mitte unter Einbeziehung der Standortbetroffenen - ohne Änderungen in der BVV beschlossen
+- TOP 14.26: Transparenz für alle Gremien sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.27: Schnelle Lösung für die Berlichingenstraße 12 - ohne Änderungen in der BVV beschlossen
+- TOP 14.28: Zweckentfremdung wirkungsvoll bekämpfen - überwiesen
+- TOP 14.29: Konflikte am Rosenthaler Platz und Weinbergsweg endlich beilegen! - überwiesen
+- TOP 14.30: Diesterweg – alles auf Anfang? - ohne Änderungen in der BVV beschlossen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Kompetenzen im Umgang mit Mobbing und Diskriminierung an den Schulen Mittes stärken - in der BVV abgelehnt
+- TOP 17.2: Leicht verständlich mit leichter Sprache auch in leichter Sprache zu verfassen - gegenstandslos
+- TOP 17.3: Alte Ideen bewahren und neuen Anforderungen gerecht werden - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Chancen für den Sport in der Jugendarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 17.5: Freiparken für Hebammen im Dienst - mit Änderungen in der BVV beschlossen
+- TOP 17.6: Schulneubau in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 17.7: Volksbühne neu denken - gegenstandslos
+- TOP 17.8: Dem Afrikanischen Viertel ein Licht aufgehen lassen - mit Änderungen in der BVV beschlossen
+- TOP 17.9: Grillen in der Rehberge – Tanzplatz als Grillplatz nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 17.10: Knotenpunkt Lützowufer/Klingelhöferstr./Lützowplatz - ohne Änderungen in der BVV beschlossen
+- TOP 17.11: Nachtigalplatz wird Manga-Bell-Platz - mit Änderungen in der BVV beschlossen
+- TOP 17.12: Partizipation sichern – Bildung von schulischen Bauausschüssen fördern und unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 17.13: Personalbestand bei Evas Haltestelle den größeren Räumlichkeiten anpassen - mit Änderungen in der BVV beschlossen
+- TOP 17.14: Sozialleistungen sind zur Existenzsicherung da! Keine Pfändung zur Schuldentilgung zulassen - mit Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Gedenkstätten behindertengerecht umbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Ergänzende Informationstafel zum Gedenkstein für Mai-Tote 1929 - Wiesenstraße/Walter-Röber-Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Würdigung der Keimzelle Berlins - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.4: Wohnraum erhalten – Zwangsräumungen verhindern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Längerfristige Verträge mit Hostelbetreibern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Internet in Seniorenpflegeeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Hilfe für Obdachlose unterstützen und Angebote koordinieren: - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Baustelle soll Schaustelle sein, beim Bau des Museums des 20. Jahrhunderts - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Gesamtstrategie zur Prävention von Wohnraumverslust und Bekämpfung von Obdachlosigkeit - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.10: Prävention von Wohnungslosigkeit umfassend angehen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Übertragung der Sitzungen der Bezirksverordnetenversammlung Berlin Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Unsere Verantwortung für Obdachlosigkeit endet nicht mit dem Ende der Kälteperiode: Ganzjährige Unterkünfte für Obdachlose bauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Miteinander statt Nebeneinander: Organisation der aufsuchenden Sozialarbeit von Bezirk und Senat für Obdachlose besser abstimmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.14: Sichere Schönwalder Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Obdachlosenhilfe in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Kultur und Geschichte interessant präsentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.17: Masterplan Obdachlosigkeit beim Senat einfordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.18: Mitte darf bei der Betreuung Statusgewandelter wegen der Geburtsdatenregelung nicht allein gelassen werden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.19: Teilnahme des Bezirks Mitte an der Strategiekonferenz zur Wohnungslosigkeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.20: Schimmel in bezirklichen Gebäuden vorbeugen und wirksam bekämpfen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.21: Weiß das Bezirksamt über die Internetfähigkeiten seiner Schulen Bescheid? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: Berliner Sportgeschichte hautnah – Eine Flutlichtanlage im Poststadion - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.23: Umgang mit den BewohnerInnen der Obdachlosenunterkunft Gotenburger Straße nach dem Ende der Kältehilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.24: Hausmeisterwohnungen an der Anna-Lindh-Schule nutzbar machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.25: Schule bedarfsgerecht finanzieren (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.26: Mehr Kältehilfeplätze für Frauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.27: Modellhafte Kooperation mit OSZ vereinbaren und neue Perspektiven schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.28: Aufstellungsbeschlüsse zu den bisherigen Beobachtungsgebieten für soziale Erhaltungssatzungen im Ortsteil Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.29: Versorgungsanalyse Freiraum Bezirk Mtite - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.30: Benennung zu Ehren der 1. Präsidentin des Bundestags verwirklichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.31: Änderung der Einschulungsbereiche für die Grundschulen im Bezirksamt Mitte von Berlin für das Schuljahr 2019/20 – Anpassung des Straßenverzeichnisses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.32: Benennung des Kreiswahlleiters und seiner Stellvertretung für den Verwal-tungsbezirk Mitte von Berlin für die Wahl der Abgeordneten des 9. Europäischen Parlaments aus der Bundesrepublik Deutschland – Europawahl 2019 – am 26. Mai 2019 - mit Abschlussbericht zur Kenntnis genommen
