@@ -1,0 +1,57 @@
+# 1. konstituierende, öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-10-19T17:30:00+02:00
+- Ende: 2018-10-19T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3955
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3955
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Konstituierung des Ausschusses - erledigt
+- TOP 2: Wahl einer/eines Ausschussvorsitzenden - erledigt
+- TOP 3: Einwohnerfragestunde - erledigt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Anträge - erledigt
+- TOP 5.1: Feuerwehrzufahrt und -aufstellfläche in der Treitschkestraße freihalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.2: Uferweg des Teltowkanals im Bereich unterhalb der Emil-Schulz-Brücke und westlich der Eugen-Kleine-Brücke bis zur Knesebeckbrücke grundhaft ausbauen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.3: Fußweg Dahlemer Weg reparieren - vertagt
+- TOP 5.4: Uferweg des Teltowkanals unterhalb des Krahmerstegs grundhaft ausbauen - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.5: Verbesserung der Querungsmöglichkeit über die Bäkebrücke - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.6: Anpassung der Software bei Lichtzeichenanlagen - vertagt
+- TOP 5.7: Durchfahrtsbreitenverbote umstellen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.8: Radstreifen auf der Birkbuschstraße - vertagt
+- TOP 5.9: Eine Buswendeschleife bringt nur etwas, wenn dort auch Busse wenden können - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.10: Engstelle Moltkebrücke in beiden Richtungen befahren - vertagt
+- TOP 5.11: Sicherheit für Radfahrer*innen gewährleisten. Pflegeintervall der Radwege in der Mühlenstraße und Sundgauer Straße dem Wachstum der Pflanzen anpassen - vertagt
+- TOP 5.12: Pflege der Martin-Heydert-Straße - vertagt
+- TOP 5.13: Straßenzug Laubacher-, Maßmann-, Lepsiusstraße - Tempo 30! - vertagt
+- TOP 5.14: Radfahrstreifen auf der Potsdamer Chaussee zwischen Kronprinzessinnenweg und Forst- bzw. Fürstenstraße - vertagt
+- TOP 5.15: Sicherer Schulweg Quentin-Blake- und Biesalski-Schule - vertagt
+- TOP 5.16: In der Kirchstraße muss auch die Rettung und Feuerwehr passieren können - vertagt
+- TOP 5.17: Parkregelung Schloßstraße für die Zeit der Kreiselarbeiten ändern - vertagt
+- TOP 5.18: Zebrastreifen über die Finckensteinallee hinweg an der Kreuzung Baseler Straße - vertagt
+- TOP 5.19: Haltestelle Pinnauweg markieren - vertagt
+- TOP 5.20: Bedarfsampel Filandastraße/Auffahrt Tiburtiusbrücke - vertagt
+- TOP 5.21: Barrierefreiheit an der Bushaltestelle Charité – Campus Benjamin Franklin - vertagt
+- TOP 5.22: Teltower Damm/Kirchstraße - Zusatzschild vor LSA - vertagt
+- TOP 5.23: Mobilitätsgesetz - Bezirklicher Fahrrat: Größe und Zusammensetzung mit Bezirksverordnetenversammlung abstimmen - vertagt
+- TOP 5.24: Leo-Baeck-Straße – Tempo 30 sichtbar machen - vertagt
+- TOP 5.25: Umbaumaßnahmen am Bahnhof Lichterfelde-Ost – es fehlt weiterhin an offiziellen und hochwertigen Fahrradparkplätzen - vertagt
+- TOP 5.26: Ampelschaltung optimieren, Fußgänger*innen am Hindenburgdamm nicht ausbremsen - vertagt
+- TOP 5.27: Sichere Radwegführung auf der Leo-Baeck-Straße - vertagt
+- TOP 5.28: Einsatz von Lastenfahrrädern fördern - vertagt
+- TOP 5.29: Trasse der Goerzbahn sinnvoll nutzen - vertagt
+- TOP 5.30: Mobilitätshub - vertagt
+- TOP 5.31: Zusätzliche Fahrradampel Teltower Damm/Machnower Straße - vertagt
+- TOP 5.32: Ausbesserungsarbeiten Mariannenstraße/Lorenzstraße - vertagt
+- TOP 5.33: Sitzbank für Schloßstraßennutzer in Höhe Zimmermannstraße - vertagt
+- TOP 5.34: Klinikum-Benjamin-Franklin vom Uferweg her zugänglich machen - vertagt
+- TOP 5.35: Zebrastreifen für leichteres Überqueren der Grunewaldstraße in Höhe Paulsenstraße - vertagt
+- TOP 5.36: Clayallee Ecke Winfriedstraße - Unfallschwerpunkt entschärfen - vertagt
+- TOP 5.37: Lichterfelde: Weddigenweg als Fahrradstraße - vertagt
+- TOP 6: Verschiedenes - erledigt
