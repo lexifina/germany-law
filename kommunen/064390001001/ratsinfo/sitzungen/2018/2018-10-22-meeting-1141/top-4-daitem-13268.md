@@ -1,0 +1,6 @@
+# TOP 4.: Mittelanmeldung für den Haushalt 2019
+
+- Sitzung: Ortsbeirat Hausen ü. Aar (3. Sitzung) (2018-10-22)
+- Körperschaft: Gemeinde Aarbergen
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/body/1/agendaitem/13268
