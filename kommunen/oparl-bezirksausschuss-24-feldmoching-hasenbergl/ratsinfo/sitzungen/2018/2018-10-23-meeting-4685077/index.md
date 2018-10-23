@@ -1,0 +1,91 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-10-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4685077
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4685077
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.1.1.: Planung einer öffentlichen Grünanlage mit Spielplatz zwischen der Hummelblumenstraße und dem Tollkirschenweg (Vorstellung Baureferat am 09.10.2018 im UA)
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: Entscheidung über Projektplanung gem. OB-Vollmacht: Linksabbiegemöglichkeit Feldmochinger Straße 423
+- TOP 2.2.: Entscheidung über Sondernutzungserlaubnis gem. OB-Vollmacht: Antrag für eine Warenauslage REWE Walter-Sedlmayr-Platz 6
+- TOP 2.3.: (E) Stadtbezirksbudget TSV 54 - DJK München e.V. Anschaffung Trikotsatz 360,00 € Az. 0262.0-24-0240
+- TOP 2.4.: (E) Stadtbezirksbudget Feldmochinger Rossler e.V. Feldmochinger Weinfest am 12.10.2018 1.972,50 € 0262.0-24-0241
+- TOP 2.5.: N (E) Stadtbezirksbudget Bürgerverein Lerchenau e.V. Anfertigung und Aufstellung einer Skulptur 9.419,00€ Az.: 0262.0-24-0242
+- TOP 3.: Anträge
+- TOP 3.1.: Einbahnregelung in der Harald-Dohrn-Straße
+- TOP 3.2.: Dialogdisplay an der Pappelallee
+- TOP 3.3.: Car-Sharing-Station für Feldmoching
+- TOP 3.4.: Haltverbot in der Himmelschlüsselstraße
+- TOP 3.5.: Mehr Toiletten am Fasaneriesee und Lerchenauer See
+- TOP 5.1.1.: Waldmeisterstraße 38
+- TOP 5.1.2.: Fingerhutstraße 6
+- TOP 5.1.3.: Auf den Schrederwiesen 26 - 28
+- TOP 5.1.4.: Feldmochinger Straße, Gemarkung Feldmoching, Fl.Nr. 2593/4
+- TOP 5.1.5.: Feldmochinger Str. 212a
+- TOP 5.1.6.: Georg-Zech-Allee (Schulbauoffensive)
+- TOP 5.2.1.: Am Blütenanger 69
+- TOP 5.2.2.: Waldmeisterstr. 55
+- TOP 5.2.3.: Georg-Zech-Allee (Schulbauoffensive)
+- TOP 5.2.4.: Waldmeisterstr. 38
+- TOP 5.2.5.: N Glockenblumenstr. 4
+- TOP 5.4.1.: Anhörungsrecht bei Gleiserneuerungen
+- TOP 5.4.2.: Mehr Wohnraum für ältere Menschen zur WG-Gründung -BVE Nr. 14-20 / E 01933 - Anhörung zum Beschlussentwurf
+- TOP 5.4.3.: Nachtrag der Ruderregattaanlage der XX. Olympischen Spiele in die Denkmalliste
+- TOP 5.4.4.: Zebrastreifen an der Karlsfelder Straße, Bushaltestelle Wohnsiedlung Ludwigsfeld (BVE Nr. 14-20 / E 01393 - Anforderung Stellungnahme vor Herbeiführung OB-Entscheidung)
+- TOP 5.4.5.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 24. Stadtbezirk
+- TOP 5.4.6.: N Siedlungsentwicklung Lerchenauer Straße (ehem. "Bergwachtstraße") - Beschlussentwurf zum Aufstellungs- und Eckdatenbeschluss -
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Ausgleichsflächen für Bauvorhaben im 24. Stadtbezirk
+- TOP 6.2.: Bereitstellung eines Kinderbudgets
+- TOP 6.3.: Erneuerung und Erstellung einer Fahrbahnmarkierung für Radfahrer
+- TOP 6.4.: Überdachte Fahrradstellplätze U-Bahn-Station Hasenbergl
+- TOP 6.5.: Ausbesserung der Radwege am Rangierbahnhof
+- TOP 6.6.: Veranstaltungen auf öffentlichem Verkehrsgrund: 1. Walter-Sedlmayr-Platz: Theaterprojekt des Open Border Ensemble am 09.-11.10.2018 2. Feldmochinger Straße: Festzug zum Feldmochinger Rosslerfest am 14.10.2018 (jeweils Vorabstellungnahme durch BA-Vorsitzenden)
+- TOP 6.7.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Lerchenauer Str. 267 2. Caracciolastr. 1
+- TOP 6.8.: Daten Pegel Feldmoching
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: Meldelisten Baumfällungen
+- TOP 6.11.: Genehmigung Nutzerbedarfsprogramm und Vorplanungsauftrag: Neubau eines Sportbetriebgebäudes und Modernisierung der Freisportanlagen an der städt. Sportanlage Karlsfelder Straße / Granatstr. 8
+- TOP 6.12.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlage für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum Enwurf des MIP 2018-2022 Sitzungssvorlage Nr. 14-20 / 12596
+- TOP 6.13.: (U) Trägerauswahlvergabe für die Trägerschaft des Förderprogramms "Opstapje"
+- TOP 6.14.: (U) Plätze und Aufenthaltsqualität Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung
+- TOP 6.15.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 6.16.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 6.17.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 6.18.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 6.19.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 6.20.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 6.21.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 6.22.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 6.23.: (U) Agrastrukturelle Untersuchungen
+- TOP 6.24.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 6.25.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 6.26.: (U) Neue Ökokonten für München
+- TOP 6.27.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 6.28.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 6.29.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 6.30.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.31.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 6.32.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 6.33.: Katalog FÖBE: Bürgerschaftliches Engagement gewinnt durch Weiterbildung in München (Qualifizierungsangebote Sept. 2918 bis März 2019)
+- TOP 8.1.: Protokoll der Sitzung am 24.07.2018 (nach Genehmigung in der Sitzung am 11.09.2018)
