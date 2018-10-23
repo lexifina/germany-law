@@ -1,0 +1,152 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-10-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4739804
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4739804
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Antrag auf Maßnahmen zur Erhöhung der Schulwegsicherheit und Gewährleistung der Sichtbarkeit an der Montessori-Schule im Olympiapark
+- TOP 3.2.2.: Zuwegung Haus für Kinder in der Braganzastraße über das Gelände der FT Gern
+- TOP 3.2.3.: Kontrolle Parkplätze und Parkstreifen im 9. Stadtbezirk
+- TOP 3.2.4.: Baustelleneinrichtung des Arnulfstegs
+- TOP 3.2.5.: Ampelschaltungen in der Arnulfstraße
+- TOP 3.2.6.: Verkehrsregelung Klarastraße im Falle einer Umgestaltung
+- TOP 3.2.7.: Parksituation Sigrunestraße
+- TOP 3.2.8.: Probleme mit Radverkehr am Seniorenwohnheim Menzinger Straße
+- TOP 3.2.9.: Fahrradverkehr Ecke Nymphenburger- Abzweigung Waisenhausstr.
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Anhörungsrecht bei Gleiserneuerungen
+- TOP 3.3.2.: Anhörung zu verkehrsrechtlichen Anordnungen: - Blutenburgstraße - Schäringerplatz
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Fuß- und Radwegbrücke über die Schwere-Reiter-Straße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Zuverlässigkeit der Aufzüge an der S-Bahnhaltestelle Donnersberger Brücke
+- TOP 3.5.2.: Toilettensituation an der S-Bahnstation Donnersbergerbrücke
+- TOP 3.5.3.: Verlängerung der Buslinie 153
+- TOP 3.5.4.: Umbenennung Haltestelle Goethe-Institut in "Heideckstraße"
+- TOP 3.5.5.: Tram-Wendeschleife an der Arnulfstr./Nibelungenstr.
+- TOP 3.5.6.: Baustelle und Verkehrsregelung Jugendherberge
+- TOP 3.5.7.: Schulwegsicherheit Kreuzung Wintrichring / Menzinger Straße
+- TOP 3.5.8.: Radweg Dachauer Str.
+- TOP 3.5.9.: Weiterführung der Beschleunigung der Lichtzeichenanlage für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum Enwurf des MIP 2018-2022 Sitzungssvorlage Nr. 14-20 / 12596
+- TOP 3.5.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.11.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 3.5.12.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 3.5.13.: Unterrichtung über verkehrsrechtliche Anordnungen: - Landshuter-Allee-Tunnel - Dachauer Straße - Taschnerstraße
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung Lokalbaukommission: - Albrechtstraße 4-6 (Schulbauoffensive Vorbescheid) - Albrechtstraße 7 (Schulbauoffensive Vorbescheid) - Dom-Pedro-Str. - Errichtung Pavillon Haus für Kinder - Dachauer Str. 110 - Neubau Gründer- und Innovationszentrum - Nymphenburger Str. 92 - Neubau Wohngebäude mit Gewerbe - Birketweg 37 - Nutzungsänderung Ladenfläche zu Wettbüro - Arnulfstr. 95a - Nutzungsänderung Ladenfläche zu Shishabar
+- TOP 4.3.2.: Bebauungsplan mit Grünordnung Nr. 2096a Dachauer Straße (nordöstlich) Heßstraße (südwestlich) Lothstraße (nordwestlich) - Kreativquartier München Teilquartiere Kreativpark und Kreativplattform -
+- TOP 4.3.3.: Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 9 – Neuhausen-Nymphenburg Satzungsbeschluss Erhaltungssatzung St.-Benno-Viertel
+- TOP 4.3.4.: Neuhauser Trafo - Kunst am Bau
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Ensembleschutz für das Gebiet Hirschgartenallee, Wotanstraße, Frickastraße und Mechthildenstraße
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 4.5.2.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 4.5.3.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 4.5.4.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 4.5.5.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 4.5.6.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 4.5.7.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 4.5.8.: Information zum Bertschbrunnen, Waisenhausstraße
+- TOP 4.5.9.: Informationen Neubau Jugendherberge
+- TOP 4.5.10.: Unterrichtungen über Bauvorhaben
+- TOP 4.5.11.: Schulstraße 3 - Instandsetzung Dachtragwerk Lichthof Rudolf-Diesel-Realschule (vertagt aus 09/17 & 09/18)
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Ferdinand-Maria-Str. 14 - Blutenburgstr. 90 - Nachtigalstr. 21 - Tizianstr. 38 - Trivastr. 25
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Aufstellen von Bienenvölkern in Kleingartenanlagen
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Errichtung eines Zaunes am Bahndamm "An der Schlossmauer"
+- TOP 5.5.2.: Baumentfernung auf öff. Grund
+- TOP 5.5.3.: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 5.5.4.: (U) Agrastrukturelle Untersuchungen
+- TOP 5.5.5.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 5.5.6.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 5.5.7.: (U) Neue Ökokonten für München
+- TOP 5.5.8.: (U) Trinkwasserbrunnen
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Freizeitstätte Hirschgarten/ Evangelische Jugend München Conzert in the Dark am 02.11.2018 und 03.11.2018 400,00€ Az.: 0262.0-9-0300
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Zusätzliche Nutzung der Streugut-Aufbewahrungskästen als Sitzgelegenheit
+- TOP 6.2.2.: Sitzgelegenheiten an der Hohenlohestraße
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Neue Sitzgelegenheiten an öffentlichen Plätzen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Tendenz für das Stadtviertel aufzeigen zum Thema" Zweckentfremdung u.a. durch Portale wie Airbnb oder Mr. Lodge" - Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5.2.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 6.5.3.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 6.5.4.: Resolution für den Erhalt bezahlbaren Genossenschafts-Mietwohnraums in Ballungsräumen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Halle 6 UG Kunstausstellung vom 22.10.2018 - 31.10.2018 4.000,00€ Az.: 0262.0-9-0299
+- TOP 7.1.2.: (E) Stadtbezirksbudget Micro Oper München Projekt "Paradies & Panik" am 30.11.20118 und 01.12.2018 3.900,00€ Az.: 0262.0-9-0302
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Kulturelle-kreativwirtschaftliche Nutzung der leerstehenden Räume und Flächen im Kreativquartier
+- TOP 7.2.2.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 7.2.3.: Umbenennung der Hilblestraße - Namensvorschläge
+- TOP 7.2.4.: Einbeziehung der Anwohner bei der gepl. Umbenennung der Hilblestraße
+- TOP 7.2.5.: Kosten bei Straßenumbenennungen
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Veranstaltungen im Kreativlabor - Lamentofläche im Herbst/Winter 2018
+- TOP 7.3.2.: Neuhauser Trafo - Kunst am Bau
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Lamentofläche - Einrichten von temporären Zu-/Abwasser- und Stromanschlüssen
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Förderverein Dom-Pedro-Grundschule e.V. Projekt "Förderung der Übergangskompetenzen" im Schuljahr 2018/2019 1.960,00 Euro Az.: 0262.0-9-0301
+- TOP 8.1.2.: (E) Stadtbezirksbudget Elternbeirat des Rupprecht Gymnasiums München Rupprecht Digitaltag 2018 am 22.11.2018 1.033,89€ Az.: 0262.0-9-0303
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Zuwegung Haus für Kinder in der Braganzastraße über das Gelände der FT Gern
+- TOP 8.2.2.: Verhindern der drohenden Zerschlagung der PädagogInnen-Struktur am Tagesheim der Helmholtzschule
+- TOP 8.2.3.: Behebung des Kapazitätsproblem der Bezirkssportanlagen im 9. Stadtbezirk
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: "Lasst uns mal ran!" - Einrichtung eines Kinder- und Jugendbudgets
+- TOP 8.4.2.: Bezirkssportanlage auf dem Tierklinik-Gelände am Olympiapark
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 8.5.2.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 8.5.3.: (U) Sportbauprogramm A. Fortschreibung Sportbauprograqmm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Projektliste 2018 2. Verfahren 3. Bericht zu den lfd. Einzelprojekten und zum 1. Maßnahmenpaket 4. Beschreibung und Festlegung des 2. Maßnahmenpaketes 5. Ausblick auf das 3. Maßnahmenpaket B. Fortschreibung Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Projektliste 2018 2. Bericht 3. Verfahren 4. Finanzierung C. Fortschreibung Sportbauprogramm - Teil 3 "Förderung von Vereinsbaumaßnahmen" 1. Projektliste 2018 2. Bericht 3. Verfahren 4. Finanzierung D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen E. Behandlung von Anträgen aus dem Stadtrat und den Bezirksausschüssen
+- TOP 8.5.4.: Schulbauoffensive Anhörung Lokalbaukommission TOP 4.3.1: - Albrechtstraße 4-6 (Schulbauoffensive Vorbescheid) - Albrechtstraße 7 (Schulbauoffensive Vorbescheid) - Dom-Pedro-Str. - Errichtung Pavillon Haus für Kinder
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Neuhauser Weihnachtsmarkt am Rotkreuzplatz von 26.11. . 23.12.2018
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: (U) Stadtbezirksbudget für München; Mieten für Sitzungslokale der Bezirksausschüsse Stadtbezirksbudget für München Stadtratsaufträge aus dem Beschluss Nr. 14-20 / V 08072 der Vollversammlung vom 26.07.2017 Fairtrade Town München – die BA&#039;s aktiv beteiligen! Scientology-Schutzerklärung bei Zuwendungen aus dem Budget der Bezirksausschüssen Einführung einer standardisierten Prüfung auf alternative städtische Zuschussmöglichkeiten bei BA-Budgetanträgen BA-Budget fair – teilen: Anpassung der Zuwendungsrichtlinien aus dem Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis BA-Budget fair – teilen BA-Budget fair-teilen: Anpassung der Zuwendungsrichtlinien aus dem BA-Budget der Bezirksausschüsse sowie des Antragsformulars und des Formulars für den Verwendungsnachweis Gender-Budgeting BA-Budget fair – teilen: Aufnahme des Grundsatzes der gleichstellungsorientierten Haushaltssteuerung in die künftigen Zuwendungsrichtlinien für das Stadtbezirksbudget
+- TOP 9.5.2.: Kiosk am Grünwaldpark
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
