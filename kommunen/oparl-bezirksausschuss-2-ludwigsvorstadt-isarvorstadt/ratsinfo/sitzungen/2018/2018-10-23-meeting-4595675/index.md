@@ -1,0 +1,161 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-10-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595675
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595675
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.6.: Ampelschaltung am Stachus (2018.05 C 5.7; 2018.09 C 4.11)
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Querungshilfen für Kinder, Senioren und Menschen mit Behinderung – Maßnahmenkatalog
+- TOP 2.1.: Umstrukturierung und Ergänzung des Spielplatzes Am Glockenbach
+- TOP 2.2.: (E) Stadtbezirksbudget Weltkongress der Uiguren e.V. Öffentliche Abschlussfeier am 10.11.2018 2.600,00€ Az.: 0262.0-2-0238
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative Freundschaft ohne Grenzen (IFOG) e.V. Bilderausstellung vom 07.11.2018 - 30.11.2018 1.500,00€ Az.: 0262.0-2-0239
+- TOP 2.4.: (E) Stadtbezirksbudget Atelier 104 Buchprojekt "Zimmer mit Aussicht" im November 2018 5.871,00€ Az.: 0262.0-2-0240
+- TOP 2.5.: Roecklplatz 3, Erweiterung einer Verkaufseinrichtung auf öffentlichem Grund, vertagt aus der Sitzungen vom 28.08.2018 und vom 25.09.2018
+- TOP 2.6.: Anbringung von Erinnerungszeichen
+- TOP 2.7.: (E) Stadtbezirksbudget Geschichtswerkstatt Ludwigsvorstadt-Isarvorstadt Projekt "Revolutionsrallye für Kinder" am 07.11.2018 1.200,00€ Az.: 0262.0-2-0241
+- TOP 5.1.: Bürgeranliegen, Wildes Campieren in Fußgängerunterführung
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Nutzungsänderung Schillerstraße 20, Hotel Daheim
+- TOP 3.1.2.: Sanierung Deutsches Museum, Museumsinsel 1
+- TOP 3.1.3.: Neubau Wohnanlage, Buttermelcherstraße 16
+- TOP 3.1.4.: DG-Ausbau, Pettenkoferstraße 48
+- TOP 3.1.5.: Schmellerstraße 26, Einbau eines Personenaufzugs und einer Gaube in das Vordergebäude, vertagt aus 09/2018
+- TOP 3.1.6.: Schwanthalerstraße 2, Neubau eines Hotels mit Tiefgarage und Läden
+- TOP 3.1.7.: Müllerstraße 45, Nutzungsänderung im Anbau des Zwischengebäudes
+- TOP 3.1.8.: Bayerstraße 33, Nutzungsänderung Imbiss zu Sozialraum sowie Spielothek zu Büros
+- TOP 3.1.9.: Karlsplatz 25, Instandsetzung der Tiefgarage (Königshof)
+- TOP 3.1.10.: Bayerstraße 21, Umbau eines Büro- und Geschäftshauses mit Teilaufstockung und Nutzungsänderung von Teilflächen zu Hotel und Zahnarztpraxis
+- TOP 3.2.1.: Fällung mehrerer Bäume, Bob-van-Benthem-Pl. 1
+- TOP 3.3.1.: Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum – Sachstand und weiteres Vorgehen, Sitzungsvorlage Nr.14-20 / XX
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Barrierefreie Querung der Reifenstuelstraße
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Räumung der Weideninsel von Unrat und weiteren Hinterlassenschaften
+- TOP 1.2.: Politische Neutralität auf Werbeflächen der Firma Ströer
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Genehmigung einer Freischankfläche, Kapuzinerstr. 8, vertagt aus 09/2018
+- TOP 2.2.1.: Aufstellung einer Warenauslage, Lindwurmstr. 123
+- TOP 2.2.2.: Aufstellung eines mobilen Fahrradständer, Schwanthalerstr. 14
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Oktoberfest 2018 Erfahrungsbericht aus verkehrlicher Sicht
+- TOP 3.2.2.: Anhörung zur Verkehrsrechtlichen Anordnung: Tempo 30 in Bereiche der Auenstraße
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Oktoberfest 2018 Schluss- und Erfahrungsbericht
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürger Fahrradparkplätze Zenettistraße 20
+- TOP 5.2.: Bürgeranliegen, Fortführung der Neugestaltung des Zenettiplatzes
+- TOP 5.3.: Bürgeranliegen, Feiermeile Viehhof seit MS Utting
+- TOP 5.4.: Bürgeranliegen, Einbahnstr. Regelung Pestalozzistr., Status Querungsverbesserungen Holzplatz und CarSharing-Parkplätze am Glockenbachspielplatz
+- TOP 5.5.: Bürgeranliegen, Toilettenhäusl am Holzplatz
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Jour Fixe mit der Leitung des Kommunalreferats, Termin und Themen
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A 4.4.: Umzug und neue Adresse Condrobs e.V.
+- TOP A 4.5.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP A 4.6.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP A 4.7.: Erhaltungssatzung, Isartalstraße 20: nicht baugenehmigungspflichtige Modernisierungsmaßnahmen
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Straßenarbeiten Goethestraße 72 bis Kreuzung Pettenkoferstraße
+- TOP B 4.3.: Satzungsbeschluss Erhaltungssatzung Dreimühlenstraße/Baldeplatz
+- TOP B 4.4.: Lärmschutz an der Bahntrasse Dreimühlenviertel
+- TOP B 4.5.: (E) Lärmschutz an der Bahntrasse Dreimühlenviertel Empfehlung Nr. 14-20 / E 01258 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 10.11.2016
+- TOP B 4.6.: Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca.30cm durchwurzelbarer Aufbaudicke
+- TOP B 4.7.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP B 4.8.: Antwort des Referats für Stadtplanung und Bauordnung zu Nutzungsänderung Adolf-Kolping-Str. 9, Laden mit 3 Garagen zu Shisha-Bar
+- TOP B 4.9.: Stellungnahme des Referats für Stadtplanung und Bauordnung zum Bau eines 3. Tram-Gleises am Bahnhofsvorplatz, Hauptbahnhof München
+- TOP B 4.10.: (U) Neue Ökokonten für München
+- TOP B 4.11.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP B 4.12.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP B 4.13.: (U) Agrastrukturelle Untersuchungen
+- TOP B 4.14.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP B 4.15.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP B 4.16.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP B 4.17.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP B 4.18.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP B 4.19.: Perspektive München – Handlungsräume der Stadtentwicklung, Sitzungsvorlage Nr. 14-20 / V 12592
+- TOP B 4.20.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP B 4.21.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP B 4.22.: (U) Sendlinger-Tor-Platz zwischen Sonnenstraße, Oberanger und Herzog-Wilhelm-Straße im 1. Stadtbezirk Altstadt - Lehel Umgestaltung und Herstellung der Barrierefreiheit Projektkosten (Kostenobergrenze): 4.100.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Projektgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022 4. Barrierefreiheit des Sendlinger-Tor-Platzes Antrag Nr. 14-20 / A 00423 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Jens Röver, Frau Stadträtin Dr. Constanze Söllner-Schaar und Frau Stadträtin Birgit Volk vom 12.11.2014
+- TOP B 4.23.: Ausnahmezulassung, Baukraan an der Eberhardtstr. 10
+- TOP B 4.24.: Abschluss VgV-Verfahren Geowissenschaften München
+- TOP B 4.25.: Mitteilung zur Landwehrstraße 25, Nutzungsänderung von 4 gewerbliche genutzten Büroeinheiten zu Boarding-House-Apartments
+- TOP B 4.26.: Aufstellung eines mobilen Fahrradständer, Schwanthalerstr. 14
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Gestattungen zur Abgabe von Getränken und Speisen im Rahmen des Trachten- und Schützenzugs 2018
+- TOP C 4.7.: Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019, Sitzungsvorlagenr. 14-20/V12596
+- TOP C 4.8.: Antwortschreiben des KVR zum Bürgeranliegen Verkehrsberuhigung Gärtnerplatz
+- TOP C 4.9.: Aufstellung einer Skulptur in der Grünanlage vor der St. Maximilian Kirche vom 22.10.2018-15.04.2019
+- TOP C 4.10.: Ergänzung eines Gutachtens mit Nachweis über die Einstellung von der Tonträgeranlagen, hier: tieffrequente Geräuschanteile, Veranstaltungsgelände Thalkirchner Str. 110
+- TOP C 4.11.: BA-Antrag, Fahrradsicherheit Georg-Hirth-Platz
+- TOP C 4.12.: BA-Antrag, Fahrradsicherheit Kreuzung Kapuziner/Lindwurm/Herzog-Heinrich-Str.
+- TOP C 4.13.: BA-Antrag, Fahrradsicherheit Herzog-Heinrich-Str. Abschnitt I
+- TOP C 4.14.: BA-Antrag, Fahrradsicherheit Herzog-Heinrich-Str. Abschnitt II
+- TOP C 4.15.: Bürgerbeschwerde über Lärm am Gärtnerplatz an die Bezirksinspektion Mitte
+- TOP C 4.16.: Parkraumanagement; Errichtung von allgemeinen Motorradstellplätzen an der Ehrengutstraße/Röcklplatz
+- TOP C 4.17.: (U) Plätze und Aufenthaltsqualität Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung
+- TOP C 4.18.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP C 4.19.: (U) Trinkwasserbrunnen
+- TOP C 4.20.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied 1. Jährlicher Sachstandsbericht 2. Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaues der Eisenbahnüberführung Werinherstraße durch die DB AG
+- TOP C 4.21.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP C 4.22.: (U) Lindwurmstraße zwischen Goetheplatz und Sendlinger-Tor-Platz im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt Projektkosten (Kostenobergrenze): 4.000.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022 3. Verbesserungen für Radfahrerinnen und Radfahrer in der Lindwurmstraße Antrag Nr. 14-20 / A 03681 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Dr. Constanze Söllner-Schaar, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Jens Röver und Frau Stadträtin Ulrike Boesser vom 08.12.2017
+- TOP C 4.23.: Bürgeranliegen, Umgestaltung am Zenettiplatz soll bleiben
+- TOP C 4.24.: Bürgeranliegen, Beschwerden über die Umgestaltung am Zenettiplatz
+- TOP C 4.25.: BA-Antrag Schaffung einer Fahrradstraßen-Route zwischen Sendlinger Tor und Baldeplatz, vgl. Antwort 2018.02 C 4.19 und 2018.09 C 5.12
+- TOP C 4.26.: Baustelle Erhardtstraße, vgl. 2018.09 C 5.10
+- TOP C 4.27.: Ausnahmezulassung für nächtliche Arbeiten: U-Bahnhof Frauenhoferstraße
+- TOP C 4.28.: Ausnahmezulassung für nächtliche Arbeiten: Sanierung der Schachtrahmen zwischen den Straßenbahnschienen, Frauenhoferstraße (zw. Baaderstraße und Klenzestraße)
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
