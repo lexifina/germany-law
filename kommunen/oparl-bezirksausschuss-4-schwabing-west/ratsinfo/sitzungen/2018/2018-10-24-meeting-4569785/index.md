@@ -1,0 +1,112 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-10-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569785
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569785
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Vergabe eines städtischen Grundstücks an die Aton-Schule (Antwort der Sozialreferentin auf BA-Schreiben vom 28.06.2018)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: MobilSpiel e.V.: Bericht über das geförderte Projekt „Kicklusion – alle spielen mit“
+- TOP 3.2.2.: Bewilligungsbescheid Spielkultur e.V. für das CityStories Geschichtenfestival
+- TOP 3.2.3.: Bewilligungsbescheid hpkj für das Fest zum 30jährigen Jubliäum
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Condrobs e.V.: Umzug der Verwaltung ab 01.10.2018
+- TOP 3.3.2.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Schleißheimer Str. 202 „Bewergungsraum“: Aufstellung von zwei Fahrradständern
+- TOP 2.1.2.: Schleißheimer Str. 209 „Yalda&#039;s Supermarkt“, Aufstellung von Verkaufseinrichtungen
+- TOP 2.1.3.: Belgradstr. 64 „Obstkistl“: Aufstellung von zwei Warenstellagen
+- TOP 2.2.1.: (E) Stadtbezirksbudget Halle 6 UG Kunstausstellung vom 22.10.2018 - 31.10.2018 3.000,00€ Az.: 0262.0-4-0222
+- TOP 2.2.2.: (E) Stadtbezirksbudget Improtheaterfestival München e.V. Improtheaterfestival vom 01.11.2018 - 04.11.2018 1.835,37€ Az.: 0262.0-4-0220
+- TOP 2.2.3.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Kreuzkirche Konzert am 24.11.2018 2.000,00€ Az.: 0262.0-4-0224
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Errichtung von Besuchertoiletten im Bereich der Rotunde des Stadtarchivs
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis für Zuschuss zum öffentlichen Bücherschrank im Haus an der Rümannstraße
+- TOP 3.2.2.: Verwendungsnachweis für Zuschuss zum Filmprojekt „O&#039;pflanzt is!“
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Krumbacher Str. 6 – 6a, Aufstockung und Modernisierung einer Wohnanlage mit Balkon- und Aufzugsanbau sowie Erweiterung eines Garagengebäudes mit Duplexparkern
+- TOP 2.1.2.: Hohenzollernplatz 3, Neubau eines Wohngebäudes mit 6 WE
+- TOP 2.1.3.: Hiltenspergerstr. 69, Umbau Dachgeschoss
+- TOP 2.1.4.: Bebauungsplan mit Grünordnung Nr. 2096a Dachauer Straße (nordöstlich), Heßstraße (südwestlich), Lothstraße (nordwestlich) Kreativquartier München, Teilquartiere Kreativpark und Kreativplattform
+- TOP 2.1.5.: Isabellastr. 17: Abbruch von Balkonen und Neubau zweier Balkonanlagen
+- TOP 2.1.6.: Markt am Elisabethplatz: Projektauftrag Interimsmarkt – Variantenauswahl und Vorplanungsauftrag Anwohnertiefgarage Anhörung zur Beschlussvorlage für den Kommunalrausschuss vom 08.11.2018
+- TOP 2.1.7.: Hiltenspergerstr. 50: Fassadensanierung mit Erneuerung der Balkone
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 3.2.2.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 3.2.3.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 3.2.4.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 3.2.5.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 3.2.6.: (U) Neue Ökokonten für München
+- TOP 3.2.7.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 3.2.8.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 3.2.9.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Parkplatzsituation westlich des Schwabinger Krankenhauses
+- TOP 1.2.: Bürger: Verkehrssituation in der Kaiserstraße
+- TOP 1.3.: Bürgerin: Grünphase der Fußgängerampel Destouches-/Belgradstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Viktor-Scheffel-Str. 11: Fällung zweier Robinien
+- TOP 2.1.2.: Isabellastr. 42 a: Fällung eines Baumes
+- TOP 2.2.1.: Austausch von Lichtsignalanlagen a) Hohenzollernplatz / Tengstraße b) Elisabethstraße / Tengstraße
+- TOP 2.2.2.: Ausweisung der Winzererstraße zwischen Saar-/Clemensstraße und nördlichem Ende als Fahrradstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Feuerwehreinfahrt Elisabeth-Kohn-Str. 31 (Antwort KVR auf BA-Schreiben vom 30.08.2018)
+- TOP 3.2.1.: Zittelstr. 4-12: Fällungsgenehmigung für eine Zitterpappel
+- TOP 3.2.2.: Lerchenauer Str. 41: Fällungsgenehmigung für drei Silberahorne
+- TOP 3.3.1.: Haltverbote in der Therese-Studer-Straße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 – Finanzierung, Beschlussentwurf für den Stadtrat
+- TOP 3.4.2.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 3.4.3.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 3.4.4.: (U) Trinkwasserbrunnen
+- TOP 3.4.5.: (U) Plätze und Aufenthaltsqualität Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung
+- TOP 3.4.6.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 3.4.7.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 3.4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.9.: Tengstraße – Neugestaltung der Verkehrssituation Beschluss des Bauausschusses vom 09.10.2018 (Sitzungsvorlage Nr. 14-20/V 12940)
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
