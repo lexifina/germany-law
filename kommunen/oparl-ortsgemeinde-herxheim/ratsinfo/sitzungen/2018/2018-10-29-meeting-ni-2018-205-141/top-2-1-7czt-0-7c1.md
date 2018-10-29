@@ -1,0 +1,7 @@
+# TOP 2: Antrag auf Aufnahme in das Städtebauförderungsprogramm
+
+- Sitzung: 38. Sitzung des Ausschusses für Bauen und Ortsentwicklung der Ortsgemeinde Herxheim (Bauausschuss) (2018-10-29)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: ja
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2018-205-141%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 2 https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2018-205-141%7Czt_0%7C1
