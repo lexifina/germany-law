@@ -1,0 +1,55 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-10-29T15:00:00+01:00
+- Ende: 2018-10-29T17:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18751
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18751
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687295.pdf
+- Ergebnisprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687295.pdf
+- Wortprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687295.pdf
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: Kultursensible Speiseangebote an Kölner Schulen - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Mitteilung zum 4. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln TOP 5.5 - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Anfrage - Neues Ausländeramt - Kenntnis genommen
+- TOP 4.2: Anfrage zum 4. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage zum 4. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - zurückgestellt
+- TOP 4.3: Anfrage zum Gesundheitswegweiser für Migranten / Kölner Gesundheitswegweiser - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 5.2: Mitteilung über eine Beschlussfassung im Jugendhilfeausschuss - Kenntnis genommen
+- TOP 5.3: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 5.4: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen (1767/2018)/Nachfragen aus der Sitzung des Integrationsrates vom 4.9.18 - Kenntnis genommen
+- TOP 5.5: Kommunales Integrationszentrum Köln übernimmt die Regionalkoordination für die Kölner „Schulen ohne Rassismus – Schulen mit Courage“ - Kenntnis genommen
+- TOP 5.6: Ergänzung der Mitteilung 2768/2018 „Umsetzungsstand Interkulturelles Maßnahmenprogramm – Maßnahmen des Integrationsbudgets“ zu den Maßnahmenempfehlungen Nr. 6 bis 8 und 10 - zurückgestellt
+- TOP 5.7: Übersicht der Bildungsangebote für 16-25 Jährige aus dem Projekt „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - zurückgestellt
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Einrichtung eines Preises „Miteinander - Preis Köln. Engagement von Kölner Migrant*innen für Demokratie und Vielfalt“ - geändert beschlossen
+- TOP -: Änderungsantrag - Einrichtung eines Preises der Stadt Köln unter dem Namen "Miteinander - Preis Köln. Engagement von Kölner Migrant*innen für Demokratie und Vielfalt" - geändert beschlossen
+- TOP 6.2: Beteiligungsrechte des Integrationsrates - ungeändert beschlossen
+- TOP 6.3: Zahlung von Sitzungsgeld bei Teilnahme an der Koordinierungsrunde und den Arbeitskreisen – Bitte um Änderung der Hauptsatzung - zurückgestellt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Anpassung des Planungsauftrags - ungeändert beschlossen
+- TOP 8.2: Umsetzungsbericht zum Diversity Konzept „2020: Köln l(i)ebt Vielfalt" - ungeändert beschlossen
+- TOP 8.3: Geänderte Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Kindertageseinrichtungen in Köln - zurückgestellt
+- TOP -: Änderungsantrag - Geänderte Richtlinie über die Gewährung von Zuwendungen für die Einrichtungen von neuen bilingualen Kindertageseinrichtungen in Köln - zurückgestellt
+- TOP 8.4: Beratung des Haushaltsplan-Entwurfs 2019 einschließlich der Finanzplanung bis 2022 - endgültig zurückgezogen
+- TOP 8.5: Nachwahl von stellvertretenden Vorsitzenden im Integrationsrat - ungeändert beschlossen
+- TOP 8.6: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg, 50997 Köln-Rondorf - Baubeschluss - ungeändert beschlossen
+- TOP 8.7: Vergabe Restmittel Antirassismus-Training - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
