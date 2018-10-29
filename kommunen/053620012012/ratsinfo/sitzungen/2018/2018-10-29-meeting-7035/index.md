@@ -1,0 +1,71 @@
+# Rat (44. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-10-29T17:05:00+01:00
+- Ende: 2018-10-29T20:45:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWmBcHU3Y-N2Txtrkx4CATU
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7035
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbdb8JXWfAsVWcpssX4yM5L7G9R-q_cp6cVpFSRNms3F/Bekanntmachung_Rat_29.10.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUvEkYubSIH0kFWVVhSrOqrT3hVV7Nkp3uPpsaTWCe1O/Oeffentliche_Niederschrift_Rat_29.10.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Schulstraße/Brühl-Kierberg I
+- TOP 1.2: Schulstraße/Brühl-Kierberg II
+- TOP 1.3: Mayors for Peace
+- TOP 1.4: Datenschutzgrundverordnung
+- TOP 1.5: Wochenmärkte
+- TOP 1.6: Flächennutzungsplan
+- TOP 1.7: Radverkehr Rodderweg
+- TOP 2.: Niederschrift vom 24.09.2018
+- TOP 3.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2019 - (kein Text vorhanden)
+- TOP 4.: Anregung nach § 24 GO NRW; hier: Alkoholverbot auf dem Balthasar-Neumann-Platz und dem angrenzenden Bereich Bezug: Unterschriftensammlung der Interessengemeinschaft Balthasar-Neumann-Platz, 1. Vorsitzender Johannes Rudolph u.a. , Schlaunstr. 2, Brühl
+- TOP 4.1: Anregungen und Beschwerden gem. § 24 GO; Allgemeinverfügung „Alkoholkonsumverbot im Umfeld des Balthasar-Neumann-Platzes in Brühl-Mitte“
+- TOP 4.1.1: Anregungen und Beschwerden gem. § 24 GO; Allgemeinverfügung „Alkoholkonsumverbot im Umfeld des Balthasar-Neumann-Platzes in Brühl-Mitte“ - (kein Text vorhanden)
+- TOP 5.: Erich Kästner-Realschule Abriss Altgebäude mit anschließendem Neubau wegen Schadstoffbelastung - (kein Text vorhanden)
+- TOP 6.: Annahme einer Spende für die Gesamtschule hier: Spende des Fördervereins der Gesamtschule für zwei IPad-Koffer - (kein Text vorhanden)
+- TOP 7.: Beauftragung zum Abschluss eines "Memorandums of Understanding" zum Aufbau einer kommunalen Projektpartnerschaft der Entwicklungszusammenarbeit mit einer Stadt in Palästina - (kein Text vorhanden)
+- TOP 7.1: Kommunale Projektpartnerschaft mit einer Stadt in Palästina/Abschluss eines "Memorandums of Understanding" hier: Antrag der FDP-Fraktion vom 21.10.2018 Bezug: RAT 29.10.2018, Vorlage Nr. 277/2018 - (kein Text vorhanden)
+- TOP 8.: Beteiligung der Stadt Brühl an der weltweiten Kampagne "FairtradeTowns“ - (kein Text vorhanden)
+- TOP 9.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 9.1: Außerplanmäßige Mittelbereitstellung für den Bau einer Kreisverkehrsanlage K7 / L183 - (kein Text vorhanden)
+- TOP 9.2: Umlagezahlung AöR hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.3: Überplanmäßige Ausgabe für den Neubau des Intercultra - (kein Text vorhanden)
+- TOP 9.4: Aus- und Neubau von Kinderspiel- und Bolzplätzen 2018 hier: überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 9.5: Überplanmäßige Ausgabe für vorgezogene Beauftragung „Bespielbare und besitzbare Stadt Brühl – Stufe 2: Außenbezirke“ - (kein Text vorhanden)
+- TOP 9.6: Über- und außerplanmäßige Aufwendungen und Auszahlungen aus dem 3. Quartal 2018
+- TOP 10.: Beteiligungsbericht 2014
+- TOP 11.: Job-Ticket-Ausgabe im Jahr 2019 - (kein Text vorhanden)
+- TOP 12.: Anträge
+- TOP 12.1: Wohnungsbau mit Belegungsrecht Bezug: Antrag der FDP-Fraktion vom 01.10.2018 - (kein Text vorhanden)
+- TOP 13.: Umbesetzung in Ausschüssen
+- TOP 13.1: Umbesetzungen in verschiedenen Ausschüssen Bezug: Antrag der Grünen-Fraktion vom 26.10.2018 - (kein Text vorhanden)
+- TOP 13.2: Umbesetzung in Ausschüssen hier: mündlicher Antrag der CDU
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen
+- TOP 15.1: Externe Beratungsleistungen 2015, 2016 und 2017 Bezug: Anfrage der Ratsfraktion Die Linke & Piraten Partei vom 18.04.2018
+- TOP 15.2: Verlässlichkeit des ÖPNV einschließlich der Anbindung der Bahnhöfe in Brühl Bezug: Anfrage der FDP-Fraktion vom 02.10.2018
+- TOP 15.3: Asphaltdecke Heinrich-Esser-Straße
+- TOP 15.4: Zweigleisiger Ausbau Linie 18
+- TOP 15.5: Schulstraße/Brühl-Kierberg III
+- TOP 15.6: Bahnseitenweg Brühl Süd I
+- TOP 15.7: Bahnseitenweg Brühl-Süd II
+- TOP 15.8: Gehweg "Am krausen Baum"
+- TOP 15.9: Buslinie 704
+- TOP 15.10: Vorplatz Bahnhof Brühl-Kierberg
+- TOP 15.11: Parksituation "An der alten Brauerei"
+- TOP B): Nichtöffentliche Sitzung
+- TOP 16.: Ökokonto der Stadt Brühl - Ausgleichsflächenbedarf im Rahmen der FNP-Neuaufstellung und Ankauf von Ökopunkten - Bezug: Vorlage Nr. 445/2017 - (kein Text vorhanden)
+- TOP 17.: Anerkennung von ruhegehaltsfähigen Dienstzeiten - (kein Text vorhanden)
+- TOP 18.: Darlehensgewährung an Stadtservicebetrieb Brühl AöR - (kein Text vorhanden)
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen
+- TOP 20.1: Mikrofonanlage
+- TOP 20.2: Wohnraum in der Wallstraße
+- TOP 21.: Alkoholverbot Balthasar-Neumann-Platz
