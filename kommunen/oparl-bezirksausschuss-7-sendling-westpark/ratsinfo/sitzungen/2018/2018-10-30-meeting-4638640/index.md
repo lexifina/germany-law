@@ -1,0 +1,155 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-10-30T20:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638640
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638640
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 9.9.1: (E) Stadtbezirksbudget Feierwerk e.V. Wiederbeschaffung einer Skateboard Minirampe 2.500,00€ Az.: 0262.0-7-0214
+- TOP 9.9.2: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Gilmstr. Naturwissenschaftliche Show 1.918,85€ AZ: 0262.0-7-0218
+- TOP 10.10.1: Ergebisse KVR -Messungen
+- TOP 10.10.2: Beleuchtung Unterführung MR Garmischer Str-Grasweg
+- TOP 10.10.3: Bau von Wohnungen für Pflegekräfte
+- TOP 10.10.4: Bebauungsplan Ende BAB 96
+- TOP 11.11.1: Sanierungstermin Sardenhaus
+- TOP 11.11.2: Themen Verkehrsausschuss
+- TOP 11.11.3: Einlad-UA-Bau_22-10-18
+- TOP 15.15.1: Afterwork Grillen - Zillertalstr
+- TOP 16.16.1: EXPO-Lauf 2018
+- TOP 16.16.2: Laternenumzug Montessori
+- TOP 16.16.3: Pfadfindernachmittag
+- TOP 17.: Baureferat
+- TOP 17.17.1: Aufwertungsmassnahme Südpark
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 20.20.1: Strassennamenerläuterungsschildertexte
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 21.21.1: Zusatzschild "Achtung Kinder" Ortlerstr.
+- TOP 21.21.2: Kurzparkzone_Meier-Helmbrechtstr.3-5
+- TOP 21.21.3: KKH-Lauf_OB-Anschreiben
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 27.27.1: Gartenstadt-Charakter erhalten
+- TOP 28.: Sozialreferat
+- TOP 30.30.1: Amtsblatt
+- TOP 31.: Baureferat
+- TOP 31.31.1: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 31.31.2: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 31.31.3: (U) Trinkwasserbrunnen
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Vorkaufsrecht
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Vollsperrung Mainburger Str
+- TOP 35.35.2: Drehgenehmigung_Westpark
+- TOP 35.35.3: Baustelleneinrichtung Josef-Rank-Weg
+- TOP 35.35.4: Unfallkommission Garmischer Str.
+- TOP 35.35.5: Gaststättenfortführung
+- TOP 35.35.6: (E) Zweirichtungsverkehr auf dem Radweg der Westendstraße (Ostseite)
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Investitionskosten Kita Markomannenstr
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: (U) Agrastrukturelle Untersuchungen
+- TOP 41.41.2: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 41.41.3: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 41.41.4: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 41.41.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.6: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 41.41.7: (U) Erhaltung der Natur beim Neubau durch Dachbegrünung mit ca. 30cm durchwurzelbarer Aufbaudicke Empfehlung Nr. 14-20 / E 01984 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018
+- TOP 41.41.8: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 41.41.9: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 41.41.10: (U) Neue Ökokonten für München
+- TOP 41.41.11: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 41.41.12: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 41.41.13: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 41.41.14: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 41.41.15: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 41.41.16: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Zweckentfremdung
+- TOP 42.42.2: (U) MÜNCHENSTIFT GmbH - Prüfung einer möglichen Generalsanierung des Hauses St. Josef mit Änderung des MIP 2018 - 2022 Produkt 40.111.000 Beteiligungsmanagement für MÜNCHENSTIFT GmbH 7. Stadtbezirk - Sendling-Westpark
+- TOP 42.42.3: Generalsanierung_StJosef
+- TOP 42.42.4: Generalsanierung_StJosef
+- TOP 43.43.1: Baumaßnahmen_SWM
+- TOP 43.43.2: Schienenschleifarbeiten und SEV
+- TOP 43.43.3: Anwohner-Flyer-SWM-Passauerstr
+- TOP 43.43.4: Fahrbahnsanierung BAB96
+- TOP 44.44.1: Litfassäule Murnauer Str
+- TOP 44.44.2: Budgetbericht Spielen-in-der-Stadt
+- TOP 44.44.3: Sparkassenbus
+- TOP 44.44.4: Fragen zu Verkehr
+- TOP 44.44.5: Baustellenverkehr Konrad-Celtis-Str
+- TOP 44.44.6: Gefahrenstelle-Ampelmast
+- TOP 44.44.7: Spielen in der Stadt-Spielbus
+- TOP 44.44.8: Parken vor Kita Fürstenrieder Str
+- TOP 44.44.9: Schaefflertanz_2019
+- TOP 45.: Baureferat
+- TOP 45.45.1: Stadtbezirksbudget: Bürgerantrag für Lärmschutzwand am Max-Seidl-Weg
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 46.46.1: Einladung_BV2018
+- TOP 46.46.2: Einladung_BV2018
+- TOP 47.: Direktorium
+- TOP 47.47.1: Verlängerung Zuschusszeitraum
+- TOP 47.47.2: Verwendungsnachweis_Maibaumverein
+- TOP 47.47.3: Verwendungsnachweis_Kirchenmusik_StHeinrich
+- TOP 47.47.4: Verwendungsnachweis_Zirkus Pumpernickel
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Schwarzmeer-Kulturverein
+- TOP 49.49.2: VVB-Bescheid Festival der Marionetten
+- TOP 49.49.3: VVB-Bescheid EXPO-Lauf
+- TOP 49.49.4: VVB-Bescheid Info Partnachplatz
+- TOP 49.49.5: VVB_Bescheid-AfterWorkGrillen_Zillertalstr
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Schulranzengewicht reduzieren
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 54.54.1: Immissionswerte_Max_Seidl_Weg
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Vollzug_Baumschutzverordnung_Heiterwanger_Str
+- TOP 55.55.2: städtebauliche Erhaltungssatzung
+- TOP 56.: Sozialreferat
+- TOP 59.59.1: (E) Schadstoffmessungen am Luise-Kiesselbach-Platz Empfehlung Nr. 14-20 / E 01253 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 10.11.2016
