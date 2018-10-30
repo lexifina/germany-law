@@ -1,0 +1,6 @@
+# TOP 7.3: Weihnachtsessen 2018 der Bezirksvertretung Heckinghausen
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Heckinghausen (2018-10-30)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/87278
