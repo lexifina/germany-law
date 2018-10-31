@@ -1,0 +1,60 @@
+# 2. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-10-31T17:30:00+01:00
+- Ende: 2018-10-31T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3967
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3967
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Wahl einer/eines Stellvertretenden Ausschussvorsitzenden - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Fußweg Dahlemer Weg reparieren - vertagt
+- TOP 4.2: Anpassung der Software bei Lichtzeichenanlagen - vertagt
+- TOP 4.3: Radstreifen auf der Birkbuschstraße - vertagt
+- TOP 4.4: Engstelle Moltkebrücke in beiden Richtungen befahren - vertagt
+- TOP 4.5: Sicherheit für Radfahrer*innen gewährleisten. Pflegeintervall der Radwege in der Mühlenstraße und Sundgauer Straße dem Wachstum der Pflanzen anpassen - vertagt
+- TOP 4.6: Pflege der Martin-Heydert-Straße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.7: Straßenzug Laubacher-, Maßmann-, Lepsiusstraße - Tempo 30! - mit Änderungen im Ausschuss beschlossen
+- TOP 4.8: Radfahrstreifen auf der Potsdamer Chaussee zwischen Kronprinzessinnenweg und Forst- bzw. Fürstenstraße - vertagt
+- TOP 4.9: Sicherer Schulweg Quentin-Blake- und Biesalski-Schule - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.10: In der Kirchstraße muss auch die Rettung und Feuerwehr passieren können - vertagt
+- TOP 4.11: Parkregelung Schloßstraße für die Zeit der Kreiselarbeiten ändern - vertagt
+- TOP 4.12: Zebrastreifen über die Finckensteinallee hinweg an der Kreuzung Baseler Straße - vertagt
+- TOP 4.13: Haltestelle Pinnauweg markieren - vertagt
+- TOP 4.14: Bedarfsampel Filandastraße/Auffahrt Tiburtiusbrücke - vertagt
+- TOP 4.15: Barrierefreiheit an der Bushaltestelle Charité – Campus Benjamin Franklin - vertagt
+- TOP 4.16: Teltower Damm/Kirchstraße - Zusatzschild vor LSA - vertagt
+- TOP 4.17: Mobilitätsgesetz - Bezirklicher Fahrrat: Größe und Zusammensetzung mit Bezirksverordnetenversammlung abstimmen - vertagt
+- TOP 4.18: Leo-Baeck-Straße – Tempo 30 sichtbar machen - vertagt
+- TOP 4.19: Umbaumaßnahmen am Bahnhof Lichterfelde-Ost – es fehlt weiterhin an offiziellen und hochwertigen Fahrradparkplätzen - vertagt
+- TOP 4.20: Ampelschaltung optimieren, Fußgänger*innen am Hindenburgdamm nicht ausbremsen - vertagt
+- TOP 4.21: Sichere Radwegführung auf der Leo-Baeck-Straße - vertagt
+- TOP 4.22: Einsatz von Lastenfahrrädern fördern - vertagt
+- TOP 4.23: Trasse der Goerzbahn sinnvoll nutzen - vertagt
+- TOP 4.24: Mobilitätshub - vertagt
+- TOP 4.25: Zusätzliche Fahrradampel Teltower Damm/Machnower Straße - vertagt
+- TOP 4.26: Ausbesserungsarbeiten Mariannenstraße/Lorenzstraße - vertagt
+- TOP 4.27: Sitzbank für Schloßstraßennutzer in Höhe Zimmermannstraße - vertagt
+- TOP 4.28: Klinikum-Benjamin-Franklin vom Uferweg her zugänglich machen - vertagt
+- TOP 4.29: Zebrastreifen für leichteres Überqueren der Grunewaldstraße in Höhe Paulsenstraße - vertagt
+- TOP 4.30: Clayallee Ecke Winfriedstraße - Unfallschwerpunkt entschärfen - vertagt
+- TOP 4.31: Lichterfelde: Weddigenweg als Fahrradstraße - vertagt
+- TOP 4.32: Fahrverbotszone in Steglitz-Zehlendorf verhindern! - vertagt
+- TOP 4.33: Robert-Lück-Straße – Bürgerwillen erkunden; Bürgerveranstaltung durchführen - vertagt
+- TOP 4.34: Teltower Damm: Fahrradwege nutzen - vertagt
+- TOP 4.35: Behindertenparkplätze in der Lloyd-G.-Wells-Straße - vertagt
+- TOP 4.36: Verkehrssicherheit unserer Kinder, unsere höchste Priorität: Ampel Riemeistertraße/Wilskistraße - vertagt
+- TOP 4.37: Durchfahrtsverbot für LKW (über 7,5 t) in der Rendtorffstraße - vertagt
+- TOP 4.38: Bewohnerinnen und Bewohner im Kiez über die Baumaßnahmen rechtzeitig informieren - vertagt
+- TOP 4.39: Ampelanlage Riemeisterstraße/Ecke Wilskistraße einrichten - vertagt
+- TOP 4.40: Parkraumordnung Elvirasteig/Ecke Fischerhüttenweg - vertagt
+- TOP 4.41: Einwohnerantrag 0425/IV beantworten - vertagt
+- TOP 5: Verschiedenes - erledigt
