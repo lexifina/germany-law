@@ -1,0 +1,55 @@
+# 56. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-11-01T16:00:00+01:00
+- Ende: 2018-11-01T22:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6513
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6513
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2018_11_01 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00370185.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Sanierung des Blauen Wunders" - erledigt
+- TOP 4: Aktuelle Stunde zum Thema "Damit Wohnen bezahlbar bleibt: Sozialen Wohnungsbau fortsetzen" - erledigt
+- TOP 5: Damit Wohnen bezahlbar bleibt: Sozialen Wohnungsbau fortsetzen! - Zustimmung
+- TOP 6: Einigungsverfahren Gremienbesetzung - Stadtbezirksbeiräte
+- TOP 6.1: Umbesetzung im Stadtbezirksbeirat Prohlis - Zustimmung
+- TOP 7: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 7.1: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Vertagungen der Stadtratssitzungen vom 30. August 2018
+- TOP 9.1: Grundsatzbeschluss zur Verwendung der Mittel im Präventionsbudget - Ersetzung
+- TOP 10: Vertagungen der Stadtratssitzungen vom 20. September 2018
+- TOP 10.1: Nachbesetzung einer/s Vertreterin/s der Landeshauptstadt Dresden und deren/dessen Stellver-tretung in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsi-sche Sparkasse Dresden - Vertagung durch Einreicher
+- TOP 10.2: Nachbesetzung eines Mitgliedes des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung durch Einreicher
+- TOP 10.3: Schwerpunktsportarten - Breitensport - Vertagung
+- TOP 10.4: Andenken an Johann "Rukeli" Trollmann wachhalten - Boxerdenkmal herrichten und an einen würdigeren Ort im Sportpark Ostra umsetzen - Vertagung durch Einreicher
+- TOP 10.5: Abschluss eines Mietvertrages zum Objekt Hauboldstraße 7 in 01239 Dresden - Zustimmung
+- TOP 10.6: Bebauungsplan Nr. 3013 A, Dresden-Mickten Nr. 13, Flößerstraße - Zustimmung mit Änderung
+- TOP 11: Investitionsförderung von lokal agierenden Klein- und Kleinstunternehmen in den EFRE-Fördergebieten der Stadtteilentwicklungsprojekte „Dresden Nordwest“ und „Johannstadt/Pirnaische Vorstadt“ - Zustimmung
+- TOP 12: Neufassung der Zahlung einer Zulage für Sekretärinnen/Sekretäre und Assistentinnen/Assistenten für Büromanagement - Zustimmung
+- TOP 13: Gymnasium Klotzsche, Karl-Marx-Straße 44 in 01109 Dresden - Ersatzneubau Schulgebäude mit Herstellung der Sport- und Pausenfreiflächen - Zustimmung mit Ergänzung
+- TOP 14: Umsetzung des Beschlusses des Stadtrates A0297/17 - Bereitstellung des kommunalen Anteils für die Sanierung eines Gebäudes auf dem Kinder- und Jugendbauernhof Nickern - Zustimmung
+- TOP 15: Sicherung der Mehrausgaben für die Universitätsgrundschule und die -oberschule durch konsumtive und investive Veränderungen im Haushalt des Schulverwaltungsamtes und im Wirtschaftsplan des Eigenbetriebes Kindertageseinrichtungen - Zustimmung mit Änderung
+- TOP 16: Richtlinie der LHD über die Gewährung von Zuwendungen zur Pflege und Erhaltung von Kulturdenkmalen (Kulturdenkmal-Förderrichtlinie) - Zustimmung
+- TOP 17: Mehrbedarf für die KSV-Sozialumlage im Jahr 2018 in Höhe von insgesamt 5.254 TEUR - Zustimmung
+- TOP 18: Integriertes Stadtentwicklungskonzept "Zukunft Dresden 2025+" - Fortschreibung 2017 - Vertagung
+- TOP 19: Bebauungsplan Nr. 3006, Dresden-Altstadt II/Strehlen, Lennéplatz - Vertagung
+- TOP 20: Bebauungsplan Nr. 172.8, Dresden-Altfranken Nr. 2, Gewerbegebiet Kesselsdorfer Straße - Zustimmung mit Ergänzung
+- TOP 21: Umbau und Modernisierung Kulturzentrum Scheune - Zustimmung mit Ergänzung
+- TOP 22: Fünfte Verordnung zur Änderung der „Verordnung der Landeshauptstadt Dresden über die Beförderungsentgelte und -bedingungen für den Verkehr mit Taxen (Taxitarifverordnung)“ vom 4. März 1999 - Zustimmung
+- TOP 23: Friedhofentwicklungskonzept für die 58 kommunalen und konfessionellen Fried- und Kirchhöfe auf dem Gebiet der Landeshauptstadt Dresden - Zustimmung
+- TOP 24: Erweiterung der Service-Apps - Ablehnung
+- TOP 25: Umbenennung eines Weges in "Im Kleingartenpark" - Zustimmung mit Ergänzung
+- TOP 26: Dresdner Weg 2.0: Saubere Luft - ohne Fahrverbote - Vertagung nach 22 Uhr
+- TOP 27: Bebauungsplan Nr. 3046 - Zustimmung mit Ergänzung
+- TOP 28: Veränderungssperre für Bebauungsplan Nr. 3046 - Zustimmung mit Änderung
+- TOP 29: Vergabenummer: 5069/16 - Nachtrag - Stadtbahn 2020, TA 1.4 Oskarstraße in Dresden, Los 1 - Rest LV ab Weiterbau, Anteil - Straßen- und Tiefbauamt - Zustimmung
+- TOP 30: ausgereichte Informationsvorlagen
+- TOP 30.1: Errichtung und Betreibung von Photovoltaik-Anlagen (PVA) auf kommunalen Dächern - zur Kenntnis genommen
