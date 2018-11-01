@@ -91,6 +91,7 @@ Unterabschnitt 1 Allgemeine Pflichten und Rechte
 § 79 Jugendarbeitsschutz
 § 80 Beihilfe in Krankheits-, Pflege-, Geburts- und sonstigen Fällen
 § 81 Ersatz von Sachschäden
+§ 81a Erfüllungsübernahme bei Schmerzensgeldansprüchen
 § 82 Jubiläumszuwendungen
 § 83 Genetische Untersuchungen
 § 84 Festsetzung der Amtsbezeichnung
@@ -156,6 +157,7 @@ Unterabschnitt 1 Laufbahnen der Fachrichtung Polizei
 § 136 Dienstkleidung
 § 137 Verbot der Führung der Dienstgeschäfte
 § 138 Polizeidienstunfähigkeit
+§ 138a Gesundheitsvorsorge
 § 139 Eintritt in den Ruhestand
 Unterabschnitt 2 Andere Beamtengruppen
 § 140 Wissenschaftliches und künstlerisches Personal an Hochschulen
