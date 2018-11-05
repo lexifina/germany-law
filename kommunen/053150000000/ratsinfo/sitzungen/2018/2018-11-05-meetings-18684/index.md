@@ -1,0 +1,57 @@
+# 32. Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-05T17:00:00+01:00
+- Ende: 2018-11-05T19:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18684
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18684
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A) Präsentation der Stadtentwässerungsbetriebe Köln (StEB) zum Thema "Tätigkeiten der StEB Köln zu den Belangen der Überflutungsvorsorge"
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage: Haltestelle Buchheim, Herler Straße/Elisabeth-Schäfer-Weg
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung Clevischer Ring in Köln-Mülheim (Az.: 02-1600-181/17) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken in Köln-Buchforst (Az.: 02-1600-109/18) - ungeändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Einbahnstraße Friedlandstraße Köln-Holweide (Az.: 02-1600-112/18) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Antwort zur Anfrage der CDU-Fraktion in der Bezirksvertretung 9 (Mülheim) vom 02.07.2018 bezüglich Gewerbegebiet zwischen Düsseldorferstraße und Dünnwalder-Kommunalweg - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der CDU-Fraktion: Geschwindigkeitsmessungen mit fest installierten Anlagen bzw. Geräten - Kenntnis genommen
+- TOP 7.2.2: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Sachstand zur Einrichtung eines Fußweges auf der Kunstfelder Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 7.2.3: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Fußweg Bensberger Marktweg zwischen Mielenforster Straße und Tierheim Dellbrück - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einrichtung eines Park & Ride Parkplatzes am Schützengildeweg in Köln-Buchheim - ungeändert beschlossen
+- TOP 8.1.2: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Einrichtung einer Querungshilfe auf der Berliner Straße in Köln-Dünnwald - ungeändert beschlossen
+- TOP 8.1.3: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Querungsmöglichkeiten für FußgängerInnen auf der Bergisch Galdbacher Straße in Holweide - ungeändert beschlossen
+- TOP 8.1.4: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Einrichtung eines Fußgängerüberweges auf der Mielenforster Straße - ungeändert beschlossen
+- TOP 8.1.5: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Markierung von Radfahrstreifen auf der Carlswerkstraße und Dünnwalder Straße - geändert beschlossen
+- TOP 8.1.6: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Tempo 30 auf der Dellbrücker Hauptstraße (südlicher Teil) und Mielenforster Straße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Infotafel ehemaliger Schießplatz in Dünnwald zur Erinnerung an die Opfer der NS-Militärjustiz - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert beschlossen
+- TOP 9.2.2: "Pfälzischer Ring 100" in Köln-Mülheim, Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 9.2.3: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ungeändert beschlossen
+- TOP 9.2.4: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Fahrverbot für Motorräder im Kalkweg an Wochenenden (AZ.: 02-1600-172/17) - Kenntnis genommen
+- TOP 10.2.4: Versetzung der Sitzbank auf dem Elisabeth-Schäfer-Weg - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
