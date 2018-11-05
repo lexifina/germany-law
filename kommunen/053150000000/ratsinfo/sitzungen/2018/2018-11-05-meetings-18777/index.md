@@ -1,0 +1,55 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-05T15:00:00+01:00
+- Ende: 2018-11-05T19:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18777
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18777
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687880.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687880.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687880.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Beschleunigung von Bau- und Planungsprozessen im Schulbau - Neuaufstellung des Aktionsbündnisses Schulbau - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Sachstand Baumaßnahme Alte Schule Roggendorf - zu AN/0522/2018 - Kenntnis genommen
+- TOP 3.1.2: Ausschuss Kunst und Kultur am 19.06.2018 - TOP 11.1 - Anfrage zur "Kulturellen Bildung" - Kenntnis genommen
+- TOP 3.1.3: Anfrage der SPD-Fraktion in der Sitzung des Stadtentwicklungsausschuss vom 28.06.2018 hier: Entwicklung von Grundstücken des Bundes - Kenntnis genommen
+- TOP 3.1.4: Schulnotstand und Lehrkräftemangel in Köln - Sache ist erledigt
+- TOP -: Anfrage AN/1160/2018 Schulnotstand und Lehrkräftemangel in Köln - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Wie schlecht steht es um die Bezahlung der Mitarbeiter*innen der OGS in Köln? - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.1 – Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln- Ossendorf - Sache ist erledigt
+- TOP -: Änderungsantrag zu TOP 4.1 „Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf“ Gesamtschulstandort in Ossendorf - Sache ist erledigt
+- TOP -: Änderungsantrag zur Vorlage „Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf“, DS-Nr. 2419/2018 - Sache ist erledigt
+- TOP 4.2: Beschluss der Bezirksvertretung Porz vom 15.05.2018 zur Verlagerung des Berufskollegs Porz (BK 10) - zurückgestellt
+- TOP 4.3: Planungsaufnahme zur Erstellung eines Neubaus der Turnhalle für die KGS Fußfallstraße 55, 51109 Köln - ungeändert beschlossen
+- TOP 4.4: Sanierung der Sporthalle an der Realschule Neusser Straße 421, 50733 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 4.5: Planungsbeschluss zur Errichtung von Neubauten für eine Gesamtschule und zwei Grundschulen im Neubaugebiet Rondorf Nord-West - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.5 – Planungsbeschluss zur Errichtung von Neubauten für eine Gesamtschule und zwei Grundschulen im Neubaugebiet Rondorf Nord-West - ungeändert beschlossen
+- TOP 4.6: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - verwiesen in nachfolgende Gremien
+- TOP 4.7: Bestellung der Schriftführerin - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Neues Kommunales Gesamtkonzept Kulturelle Bildung und Bewerbung um Fördergelder - Kenntnis genommen
+- TOP 5.2: Jugendbefragung erfolgreich beendet – erste ausgewählte Ergebnisse im Blitzlicht - Kenntnis genommen
+- TOP 5.3: Stellenverlagerung in der kommunalen Schulsozialarbeit - Kenntnis genommen
+- TOP 5.4: Kommunales Integrationszentrum Köln übernimmt die Regionalkoordination für die Kölner „Schulen ohne Rassismus – Schulen mit Courage“ - Kenntnis genommen
+- TOP 5.5: Inklusionsplanung für Kölner Schulen: Zwischenbilanz und Ausblick auf die Fortschreibung - zurückgestellt
+- TOP 5.6: Talentschulen NRW - Kenntnis genommen
+- TOP 5.7: Erhöhter Reinigungsturnus für die Schultoiletten - Kenntnis genommen
+- TOP 5.8: Schülerbeförderung - Kenntnis genommen
+- TOP 6: Anfragen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Anfragen
