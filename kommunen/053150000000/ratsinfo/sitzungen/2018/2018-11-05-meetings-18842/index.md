@@ -1,0 +1,82 @@
+# 35. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-05T17:00:00+01:00
+- Ende: 2018-11-05T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18842
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18842
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Versetztes Parken Nagelschmiedgasse (Az.: 02-1600-37/18) - zurückgestellt
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Parkplatzsituation in der Kohlen- und Eisenstraße (Az.: 02-1600-98/18) - geändert beschlossen
+- TOP 3.3: Lärm- und Umweltbelästigung durch den Verkehr im Herkulestunnel Köln-Ehrenfeld - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Maßnahmen gegen den Bauüberhang im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.2: Sach- und Planungsstand der Wohnungsbauvorhaben im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.2.1: Sach- und Planungsstand der Wohnungsbauvorhaben im Stadtbezirk Ehrenfeld, Anfrage AN/1127/2018 - Kenntnis genommen
+- TOP 6.3: Anfrage der CDU-Fraktion, betr.: Weitere Planung für die Grundschule Bocklemünd - Kenntnis genommen
+- TOP 6.3.1: Beantwortung der Anfrage der CDU-Fraktion AN/1214/2018: Weitere Planung für die Grundschule Bocklemünd - Kenntnis genommen
+- TOP 6.4: Anfrage der CDU-Fraktion, betr.: Verkehrsregelung an der Kreuzung Mühlenweg Mathias-Brüggen-Straße - Kenntnis genommen
+- TOP 6.4.1: Verkehrsregelung an der Kreuzung Mühlenweg/Mathias-Brüggen-Straße - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der CDU-Fraktion, betr.; Gesamtschule Wasseramselweg - Kenntnis genommen
+- TOP 7.1.1: Anfrage der CDU-Fraktion, betr.: Gesamtschule Wasseramselweg - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: aktuelle Situation in den Spielstraßen Hackländerstraße und Gumprechtstraße - Kenntnis genommen
+- TOP 7.2.1: Aktuelle Situation in den Spielstraßen Hackländerstraße und Gumprechtstraße - Kenntnis genommen
+- TOP 7.3: Anfrage der FDP/Piraten-Fraktion, betr.: Toilettenanlage Grundschule Vogelsang - Kenntnis genommen
+- TOP 7.3.1: Beantwortung der Anfrage der FDP/Piraten-Fraktion der Bezirksvertretung Ehrenfeld bezüglich derToilettenanlage Grundschule Vogelsang - AN/1432/2018 - Kenntnis genommen
+- TOP 7.4: Verfahrensabläufe bei der Bewertung von Zweckentfremdungen von Wohnraum - Kenntnis genommen
+- TOP 7.4.1: Verfahrensabläufe bei der Bewertung von Zweckentfremdungen von Wohnraum - Kenntnis genommen
+- TOP 7.5: Sach- und Planungsstand Hinterhofbebauung Hospeltstraße 66-70 - zurückgestellt
+- TOP 7.6: Leerstände im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrsberuhigung Bocklemünd/Mengenich - ungeändert beschlossen
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Schulbussverkehr zur Gesamtschule Wasseramselweg in Vogelsang - zurückgestellt
+- TOP 8.3: Antrag der FDP/Piraten-Fraktion, betr.: Spielstraße im Starenweg in Köln Vogelsang - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion, betr.: Vorgezogener Bau der Kindertagesstätte am Butzweilerhof bis 2019 - ungeändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5.1: Ersetzungsantrag der SPD-Fraktion und der FDP/Piraten-Fraktion zu TOp 8.5, betr,; Umwidmung jeweils einer Fahrspur pro Richtung am Melatengürtel - zurückgestellt
+- TOP 8.6: Antrag der FDP/Piraten-Fraktion, betr.: WLAN in der U-Bahnhaltestelle Venloer Str / Gürtel - zurückgestellt
+- TOP 8.7: Antrag der SPD-Fraktion, betr.: Sachstand Beschlusslage und Bauvorhaben Melatengürtel/Grüner Weg - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Fußgängerüberwege und Temporeduzierung Helmholtzstraße - ungeändert beschlossen
+- TOP 8.9: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: PV-Anlagen - zurückgestellt
+- TOP 8.9.1: Stellungnahme zum Antrag der Fraktion Bündnis 90/Die Grünen bezüglich Photovoltaik-Anlagen - AN-1401-2018 - zurückgestellt
+- TOP 8.10: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Information der BV Ehrenfeld über städtische Konzeptvergaben - geändert beschlossen
+- TOP 8.10.1: Information der BV Ehrenfeld über städtische Konzeptvergaben - Kenntnis genommen
+- TOP 9: Entscheidungen
+- TOP 9.1: Sozialraum Bickendorf, Westend, Ossendorf: Neugestaltung einer Trendsporteinrichtung sowie Spiel- und Bewegungsmöglichkeiten - ungeändert beschlossen
+- TOP 9.2: Bezirkssportanlage Everhardstraße in Köln-Ehrenfeld, Belagsänderung von Tenne in Kunststoffrasen - geändert beschlossen
+- TOP 9.2.1: Änderungsantrag der Fraktion Bündnis 90/Die Grünen zu TOP 9.2, betr.: „Bezirkssportanlage Everhardstraße in Köln-Ehrenfeld, Belagsänderung von Tenne in Kunststoffrasen“ - geändert beschlossen
+- TOP 9.3: Genehmigung einer Dringlichkeitsentscheidung, Vergabe der bezirklichen Finanzmittel - Antrag Neola Art Projects e.V. - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.2: 9. Änderung des Gesamtverkehrskonzepts der Stadt Köln - ungeändert beschlossen
+- TOP 10.3: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - zurückgestellt
+- TOP 10.4: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf - zurückgestellt
+- TOP 10.5: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss - ungeändert beschlossen
+- TOP 10.6: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - zurückgestellt
+- TOP 10.7: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 10.7.1: Änderungsantrag der SPD-Fraktion zu TOP 10.7 „6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 10.8: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - ungeändert beschlossen
+- TOP 10.8.1: Änderungsantrag der Fraktion Die Linke zu TOP 10.1, betr.: Planunterlagen den stadtgesellschaftlichen Anforderungen anpassen; - Sache ist erledigt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Barrierefreier Ausbau der Linie 13; Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen in der 32. Sitzung der Bezirksvertretung Ehrenfeld am 04.06.2018 (AN/0855/2018) - zurückgestellt
+- TOP 12.2: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 12.3: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 12.4: Nachfrage von BV Besser zum Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 ( 0713/2018) - Kenntnis genommen
+- TOP 12.5: Auswirkungen Bautätigkeit Rochusplatz; mündl. Anfrage aus der 34. Sitzung der BV 4 am 10.09.2018 - Kenntnis genommen
+- TOP 12.6: Busanbindung Schule Wasseramselweg, Sitzung der Bezirksvertretung Ehrenfeld am 10.09.2018, I. Öffentlicher Teil - Kenntnis genommen
+- TOP 12.7: Entwicklungen im Bereich Ehrenfeld; 2309/2018; mündl. Nachfrage - Kenntnis genommen
+- TOP 13: mündliche Anfragen
