@@ -1,0 +1,112 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-05T16:00:00+01:00
+- Ende: 2018-11-05T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18978
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18978
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687037.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687037.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687037.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Kreuzung Landgrafenstraße/Wüllnerstraße Köln-Lindenthal (Az.: 02-1600-120/18) - geändert beschlossen
+- TOP 5.2: Eingabe nach § 24 GO- Petition Kinderspielfläche Auerbachplatz für Kinder und nicht für parkende Autos - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Parksituation am Weidener Wochenmarkt
+- TOP 7.1.2: Beantwortung der Anfrage der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und Lothar Müller/Linke aus der Sitzung der Bezirksvertretung Lindenthal vom 02.07.2018 betreffend Arbeiten im Bereich des geplanten RheinEnergieSportparks; AN/1070/2018
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Umwandlung Vorgärten in Parkplätze - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.2: Bebauung des Grundstücks Aachener Straße 224 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.3: Denkmalgeschützter Petershof in Köln-Müngersdorf - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.4: Müllbeseitigung im Bereich von Fastfood-Läden - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.5: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.6: Kölner Stadion EM 2024 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.7: Bebauung Kirchengrundstück St. Karl Borromäus - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.2.8: Umgang der Stadt mit Verleihräder-Firmen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 7.3: Noch nicht beantwortete Anfragen aus vorangegangenen Sitzungen
+- TOP 7.3.1: Baumfällungen auf dem Grundstück Carl-Schurz-Straße 7 in Köln-Lindenthal - zurückgestellt
+- TOP 7.3.2: Äußere Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk Lindenthal - zurückgestellt
+- TOP 7.3.3: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 7.3.4: Anfrage zum Sachstand bei der Umsetzung des am 15.09.2014 von der Bezirksvertretung Lindenthal beschlossenen Antrags zu verschiedenen Maßnahmen zur Verbesserung des Erscheinungsbildes im Umfeld des "Betonpilzes" im Beethovenpark (AN/1062/2014) - Sache ist erledigt
+- TOP 7.3.5: Sportversorgung - zurückgestellt
+- TOP 7.3.6: Kita "Treehouse Swans" - zurückgestellt
+- TOP 7.3.7: Sachstand zur äußeren Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk - zurückgestellt
+- TOP 7.3.8: Absperrungen gegen wildparkende Fahrzeuge im Grüngürtelgelände - zurückgestellt
+- TOP 7.3.9: Baumfällungen 2016 im Stadtbezirk Lindenthal - zurückgestellt
+- TOP 7.3.10: Art und Umfang von Hubschraubereinsätzen über Lindenthal und damit verbundene Lärmbeeinträchtigungen - zurückgestellt
+- TOP 7.3.11: Schließung von Sparkassenfilialen - zurückgestellt
+- TOP 7.3.12: Bewohnerparken - zurückgestellt
+- TOP 7.3.13: Gülle im Kölner Westen - zurückgestellt
+- TOP 7.3.14: Verkehrsberuhigung in der Frechener Straße in Köln-Lindenthal - zurückgestellt
+- TOP 7.3.15: Liegenschaft Weyertal 92 - zurückgestellt
+- TOP 7.3.16: Status Rhöndorfer Straße - zurückgestellt
+- TOP 7.3.17: Statikgutachten Bauvorhaben der GWG Köln Sülz - zurückgestellt
+- TOP 7.3.18: Beleuchtung Kreisverkehr Lise - Meitner - Ring / Adrian - Meller - Straße - zurückgestellt
+- TOP 7.3.19: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 7.3.20: Anwohnerschutzkonzept Drosselstraße Köln Weiden - zurückgestellt
+- TOP 7.3.21: Beschilderung Tempo 30 Ostseite Alter Militärring - zurückgestellt
+- TOP 7.3.22: Anfrage zum Sachstand der äußeren Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk - zurückgestellt
+- TOP 7.3.23: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 7.3.24: Bauprojekt Wohngebäude auf der Brauweiler Straße in Köln-Lövenich - zurückgestellt
+- TOP 7.3.25: Aktivität des Ordnungsamts am 07.07. 2016 Zülpicher Straße - zurückgestellt
+- TOP 7.3.26: Aufstellung der Werbe- und Informationstafeln im Rheinenergiesportpark - zurückgestellt
+- TOP 7.3.27: Erwerb der Weißhaus-Immobilie einschließlich Parkanlage durch die Öffentliche Hand - zurückgestellt
+- TOP 7.3.28: Gefahrenbewertung zum Neubauprojekt am Clarenbachplatz in Köln-Braunsfeld - zurückgestellt
+- TOP 7.3.29: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 7.3.30: Vorkaufsrecht Weidener Bogen - zurückgestellt
+- TOP 7.3.31: Statikgutachten zu Bauvorhaben der GWG Köln-Sülz - zurückgestellt
+- TOP 7.3.32: Beleuchtung Kreisverkehr Lise-Meitner-Ring/ Adrian- Meller- Straße - zurückgestellt
+- TOP 7.3.33: Verkehrsberuhigung ,,Am Keuschhof'' in Lövenich - zurückgestellt
+- TOP 7.3.34: Leerstand der Wohnblöcke Friedrich- Engels- Str. 3-7 - zurückgestellt
+- TOP 7.3.35: Limelight in Junkersdorf - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Taktverdichtung Linie 1 - geändert beschlossen
+- TOP 8.1.2: Barrierefreie Gehwege Lindenthal - endgültig zurückgezogen
+- TOP -: Ersetzungsantrag zu Top 8.1.2 - ungeändert beschlossen
+- TOP 8.1.3: Einbahnstraßenregelung für ein Teistück der Clarenbachstraße - ungeändert beschlossen
+- TOP 8.1.4: Sperrung des Aquaienweges in der Sülzer Kleingartenanlage von der Gleueler Straße für den Autoverkehr - zurückgestellt
+- TOP 8.1.5: Setzen der Flagge "frei leben" am 25.11 - ungeändert beschlossen
+- TOP 8.1.6: Fahrradabstellanlagen am Eingang des Bezirksrathauses Lindenthal - geändert beschlossen
+- TOP 8.1.7: Ertüchtigung der Radwegequerungen über die Aachener Straße in Köln- Weiden - geändert beschlossen
+- TOP 8.1.8: Beteiligungsverfahren Parkstadt Süd - endgültig zurückgezogen
+- TOP 8.1.9: Unterbinden des Parkens von Fahrzeugen auf dem Fahrradweg des Sülzgürtels - ungeändert beschlossen
+- TOP 8.1.10: Errichtung eines Sonnenschutzes auf dem Spielplatz in den Anlagen Karl-Schwering- Platz/Rautenstrauchkanal - geändert beschlossen
+- TOP 8.1.11: Gleueler Brücke - endgültig zurückgezogen
+- TOP 8.1.12: Aufstellen einer sozialen Erhaltungssatzung gemäß § 172 BauGB für den Kölner Stadtteil Sülz - ungeändert beschlossen
+- TOP 8.1.13: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen im 2. Halbjahr 2018 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: 9. Änderung des Gesamtverkehrskonzepts der Stadt Köln - zurückgestellt
+- TOP 9.2.2: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - zurückgestellt
+- TOP -: Verweisung in den Rahmenplanungsbeirat mit Erläuterungen zu TOP 9.2.2 Ersatzneubau Brücke Widdersdorfer Straße - ungeändert beschlossen
+- TOP 9.2.3: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - geändert beschlossen
+- TOP 9.2.4: 6. Satzung zur Änderung der Sondernutzungssatzung - geändert beschlossen
+- TOP -: Ergänzungsantrag zu Top 9.2.4 - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: 1. Sachstandsbericht zum Pilotprojekt "Stadtteilservice Lindenthal" - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Stellungnahme zu AN/1264/2018, Antrag der Fraktion Bündnis 90/Die Grünen auf Schaffung von Fahrradstellplätzen im Umfeld der Gymnasien EvT und Schiller - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 11.3.2: Trägerwechsel der Kindertageseinrichtung "Mini Club integrative Kita", Geisbergstraße 139, 50939 Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
