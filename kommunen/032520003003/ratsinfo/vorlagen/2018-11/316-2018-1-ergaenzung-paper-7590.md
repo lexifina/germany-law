@@ -1,0 +1,34 @@
+# Gemeinsames Feuerwehrhaus - Beschlussfassung zum Standort für den Neubau des gemeinsamen Feuerwehrhauses - Zustimmung zum weiteren Verfahren
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 316/2018 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-11-06
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZV3UDdzUpzLWGSGoih_fiVI
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/7590
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Gemeinsames Feuerwehrhaus
+- Beschlussfassung zum Standort für den Neubau des gemeinsamen Feuerwehrhauses
+- Zustimmung zum weiteren Verfahren) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbM8zkjUhqrhs9-LYTk7SNEcTBjA_p4D0FfqWEN64qhV/Beschlussvorlage_316-2018_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (18-05-15 FWH Bad Pyrmont - Raumprogramm.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbZsQegvdz8GjyuBM7HFr3mp10Fn4bMfCYUQ0difaEAD/18-05-15_FWH_Bad_Pyrmont_-_Raumprogramm.xlsx.pdf
+- Anlage: Beschlussvorlage (18-05-15 FWH Bad Pyrmont - Raumprogramm.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfRjfzeqhXQAsN4qdiNkAAIfsQ6_t6dChlpIuHzMQJi0/18-05-15_FWH_Bad_Pyrmont_-_Raumprogramm.xlsx.pdf
+- Anlage: Beschlussvorlage (Anlage 3.1 - Stadtwerke Variante 1) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbTHNE1vISEk9P3tgUY5mVp_jMpiu8fTmyyCYhCIrpBP/Anlage_3.1_-_Stadtwerke_Variante_1.pdf
+- Anlage: Beschlussvorlage (Anlage 3.2 - Stadtwerke Variante 2) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfwtMAI6vXROMsEGslwdNKeEyzjjrkMEddhH2r3HeUWE/Anlage_3.2_-_Stadtwerke_Variante_2.pdf
+- Anlage: Beschlussvorlage (Anlage 3.3 - Autohaus Welger) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXKz2O35B5NYuFD8mbeo85E66GcKhnU2V5Oy6BQp1k3a/Anlage_3.3_-_Autohaus_Welger.pdf
+- Anlage: Beschlussvorlage (Anlage 3.5 - Gelände Staatsbad Variante 1) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcke2WYMgEs4S4068sD0CCMBGz6q3hCQ7qP_LKAqJMS9/Anlage_3.5_-_Gelaende_Staatsbad_Variante_1.pdf
+- Anlage: Beschlussvorlage (Anlage 3.6 - Gelände Staatsbad Variante 2) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTX-ZFlYrazVBuJ_paGPeVG0CnaA_mcq0jjG0-SktLLB/Anlage_3.6_-_Gelaende_Staatsbad_Variante_2.pdf
+- Anlage: Beschlussvorlage (Anlage 5.1 - Autohaus Welger) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS7L4_l_BhIQUSby-7Kagy4xT0yyE65U9ad9q0n3zgJS/Anlage_5.1_-_Autohaus_Welger.pdf
+- Anlage: Beschlussvorlage (Anlage 5.3 - Waisenhof) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcatuye9jnrALputWotvO5yS3O2rsWmSyBh8b-6bp708/Anlage_5.3_-_Waisenhof.pdf
+- Anlage: Beschlussvorlage (18-09-28 Bad Pyrmont Standort 2 Autohaus Welger - Konzept Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe-Vgs7k78dis424yK-yDAA42NPv41qbzsVQeonNhY8G/18-09-28_Bad_Pyrmont_Standort_2_Autohaus_Welger_-_Konzept_Kosten.xlsx.pdf
+- Anlage: Beschlussvorlage (18-09-29 Bad Pyrmont Standort 2 Autohaus Welger - Parkhaus Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWm2pjptCLExAgQr4XquXngyS8UEV5XITvUFtsVKmOID/18-09-29_Bad_Pyrmont_Standort_2_Autohaus_Welger_-_Parkhaus_Kosten.xlsx.pdf
+- Anlage: Beschlussvorlage (18-09-29 Bad Pyrmont Standort 3 Südstraße - Parkhaus Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXe5nThS1bzd4-2kJtgL8RIqSKlQIxpXVQVING7YXBNd/18-09-29_Bad_Pyrmont_Standort_3_Suedstrasse_-_Parkhaus_Kosten.xlsx.pdf
+- Anlage: Beschlussvorlage (18-09-29 Bad Pyrmont Standort 3 Südstraße - Parkplatz Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkVeuY_og_cL-SRof3EqZuCS1DtSZ-0JNs_6Isgohwy/18-09-29_Bad_Pyrmont_Standort_3_Suedstrasse_-_Parkplatz_Kosten.xlsx.pdf
+- Anlage: Beschlussvorlage (18-09-29 Bad Pyrmont Standort 4 Gelände Staatsbad - Parkplatz Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRbsWLgBmFlP4eUYzL3ElMdSvq27RQPGzJq4bzlMMmKS/18-09-29_Bad_Pyrmont_Standort_4_Gelaende_Staatsbad_-_Parkplatz_Kosten.xlsx.pdf
+- Anlage: Beschlussvorlage (18-09-29 Bad Pyrmont Standort 5 Waisenhof - Parkplatz Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcHXOx9HFkex1eXpPVUVOJCJi0aQ9-ojyiUkvnuyqLi-/18-09-29_Bad_Pyrmont_Standort_5_Waisenhof_-_Parkplatz_Kosten.xlsx.pdf
+- Anlage: Beschlussvorlage (Anlage 3.4 - Parkplatz Südstraße) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdMVW2NnDvuHntNJw6da44Oy3l_j4mq05S77-Gkesdh9/Anlage_3.4_-_Parkplatz_Suedstrasse.pdf
+- Anlage: Beschlussvorlage (18-10-25 Scoring-Rating-Verfahren FF Bad Pyrmont.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRPn5du0WTebmRfYB1yn053BxlCBYh5-c9lPNjd1ZLvF/18-10-25_Scoring-Rating-Verfahren_FF_Bad_Pyrmont.xlsx.pdf
+- Anlage: Beschlussvorlage (Anlage 5.2 - Parkplatz Südstraße) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcumVQGoddhvdBiy6B2z82TydoJenvpF43SaINco9x_L/Anlage_5.2_-_Parkplatz_Suedstrasse.pdf
+- Anlage: Beschlussvorlage (18-10-26 Bad Pyrmont Standort 3 Südstraße - Konzept Kosten.xlsx) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeFwI7XrdvImzQaQNawkHnqk0G6WqGuP2ViVCYiiYtO7/18-10-26_Bad_Pyrmont_Standort_3_Suedstrasse_-_Konzept_Kosten.xlsx.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18158 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18135 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-8
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-201
