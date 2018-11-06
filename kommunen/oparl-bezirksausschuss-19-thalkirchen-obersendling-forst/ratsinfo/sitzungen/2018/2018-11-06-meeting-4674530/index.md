@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-11-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674530
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674530
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 02.10.2018
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Evang.-Luth. Apostelkirche München-Solln Konzerte am 15.12.2018 und 16.12.2018 3.650,00€ Az.: 0262.0-19-0228
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Begrünung Thalkirchner Platz Empfehlung Nr. 14-20 / E 01977 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 15.05.2018
+- TOP 4.4.: (A) Aufwertungsmaßnahmen Südpark im 7. und 19. Stadtbezirk; Sitzungsvorlage Nr. 14-20 / V 12771
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Fahrbahnmarkierung Boschetsrieder Straße
+- TOP 5.1.2: Verkehrssicherheit auf den Radwegen entlang der Aidenbachstraße herstellen
+- TOP 5.2.: (Antrag) Parksituation Forstenrieder Allee
+- TOP 5.3.: (Antrag) Errichtung von Pollern Bleibtreustraße
+- TOP 5.4.: Schulwegsicherheit Winterthurer Straße
+- TOP 5.5.: Verkehrspolitisches Gesamtkonzept für den 19. Stadtbezirk - Weiteres Verfahren
+- TOP 5.6.: (Antrag) Einbahnregelung auf der Thalkirchner Brücke
+- TOP 5.7.: (Antrag) Verkehrssicherheit Kinderheim Kistlerhofstraße 112
+- TOP 5.8.: (Antrag) Südlicher Fuß-/Radweg zwischen Hofmannstraße und Baierbrunner Straße
+- TOP 5.9.: (Antrag) Zuverlässigkeit der U-Bahnlinie 3
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (Antrag) Weiterentwicklung Jugendzentrum Parkstadt Solln
+- TOP 7.3.: (A) SommerSpielAktion2019
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: Münchner Schaefflertanz 2019
+- TOP 8.3.: (Antrag) Gemeinsame Stadtteilwoche Sendling-Obersendling
+- TOP 8.4.: (A) Veranstaltung: Christkindlmarkt am Thalkirchner Platz vom 07.12. bis 9.12.2018
+- TOP 8.5.: (U) Gaststättenfortführung und Änderung der Betriebsart: Liesl-Karlstadt-Straße 22
+- TOP 8.6.: (U) Gaststättenfortführung: Schäftlarnstraße 166
