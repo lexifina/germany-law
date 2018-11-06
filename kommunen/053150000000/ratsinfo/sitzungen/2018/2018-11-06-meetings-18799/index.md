@@ -1,0 +1,57 @@
+# 32. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-06T17:08:00+01:00
+- Ende: 2018-11-06T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18799
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18799
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687847.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687847.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687847.pdf
+
+## Tagesordnung
+
+- TOP -: A Bestellung einer Schriftführerin und einer stellvertretenden Schriftführerin des Wirtschaftsausschusses - ungeändert beschlossen
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung der Anfrage der SPD-Fraktion "Metropolregion Rheinland", AN/1121/2018 - Kenntnis genommen
+- TOP 3.1.1: Ergänzende Mitteilung zum Metropolregion Rheinland e.V. zu 2386/2018 - Kenntnis genommen
+- TOP 3.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Entwicklungen im Bereich Ehrenfeld; 2309/2018; mündl. Nachfrage - Kenntnis genommen
+- TOP 3.4: Kriterien für die Vergabe von städtischen Gewerbegrundstücken - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Sachstand Frischezentrum - Kenntnis genommen
+- TOP -: Frischezentrum - Sachstand - zurückgestellt
+- TOP 4.2: Zukunftssicherheit für Händler und Beschäftige des Großmarktes über 2023 hinaus- wie steht es mit der Umsetzung der Ratsbeschlüsse zum Neubau eines Frischezentrums in Marsdorf? - Kenntnis genommen
+- TOP -: Großmarkt Köln - Zukunftssicherheit für Unternehmen und Beschäftigte - zurückgestellt
+- TOP 4.3: Einrichtung eines „Kreativhauses“ - ungeändert beschlossen
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Anpassung des Planungsauftrags - mit Änderungen empfohlen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 8: Marktwesen
+- TOP 8.1: Großmarkt Köln - Instandsetzungsmaßnahmen zur Sicherstellung des ordnungsgemäßen Betriebes bis Ende 2023, Teilergebnisplan 0203 - Märkte - geändert beschlossen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 10.1: Status Digital Hub Cologne - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 12.1: Tätigkeitsbericht "Kommunales Bündnis für Arbeit in Köln - Kenntnis genommen
+- TOP 12.2: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01.2019 - 31.12.2021 - ungeändert beschlossen
+- TOP 12.3: Sachstand zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Mitteilungen
+- TOP 14.1: Pegel Köln 3/2018 Einwohnerentwicklung 2017: Köln wächst - auch bei geringer Zuwanderung - Kenntnis genommen
+- TOP 14.2: Kölner Statistische Nachrichten 4/2018 Erwerbstätigkeit und wirtschaftliche Lage der Kölner Bevölkerung - Ergebnisse der "Leben in Köln"-Umfrage 2016 - Kenntnis genommen
+- TOP 14.3: Anfrage der SPD-Fraktion in der Sitzung des Stadtentwicklungsausschuss vom 28.06.2018 hier: Entwicklung von Grundstücken des Bundes - Kenntnis genommen
+- TOP 14.4: Stadt Köln & Partner präsentieren sich auf der Expo Real 2018 - Kenntnis genommen
+- TOP 14.5: Übersicht der Bildungsangebote für 16-25 Jährige aus dem Projekt „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 14.6: Insurance Hub Cologne – Open for Business - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 15.1: Erfahrungsbericht Vergabekonzept 2014 - 2018 und neues Vergabekonzept ab 01.01.2019 - ohne Votum in nachfolgende Gremien
+- TOP 16: Mündliche Anfragen
