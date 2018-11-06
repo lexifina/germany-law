@@ -1,0 +1,70 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-06T14:03:00+01:00
+- Ende: 2018-11-06T16:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18757
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18757
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Spielplatzbedarfsplanung der Stadt Köln 2018
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Kindertagesstätte St. Josefshaus e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 3.1: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Innenstadt zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.2: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Rodenkirchen zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.3: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Lindenthal zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.4: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Ehrenfeld zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.5: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Nippes zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.6: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Chorweiler zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.7: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Porz zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.8: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Kalk zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.9: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Mülheim zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 4.2: Kooperation mit UNICEF Europe und UNICEF Deutschland zur Durchführung des Gipfels "International Child Friendly Cities" vom 15. - 18. Oktober 2019 sowie die Kampagne "30 Jahre UN Kinderrechtekonvention" in 2019 - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftlichen Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Nutzerkreis und Nutzung des Bildungs- und Teilhabepakets - Sache ist erledigt
+- TOP -: Anfrage der Fraktion Die Linke betreffend Nutzerkreis und Nutzung des Bildungs- und Teilhabepakets - Kenntnis genommen
+- TOP 6.1.2: Frisches Kochen in Kitas - zurückgestellt
+- TOP 6.1.3: Werbung der Bundeswehr in Schulen, Jugendzentren und weiteren Einrichtungen - Sache ist erledigt
+- TOP -: Werbung der Bundeswehr in städtischen Schulen und Jugendeinrichtungen - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen aus der Sitzung vom 12.06.2018 zu den Auswirkungen des Ausführungsgesetzes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Aktueller Sachstand zum online gestützten Vormerkverfahren "LittleBird" - Kenntnis genommen
+- TOP 8.2.2: Trägerwechsel der Kindertageseinrichtung "Mini Club integrative Kita", Geisbergstraße 139, 50939 Köln - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Tag der Jugend im Rathaus 2018 - Kenntnis genommen
+- TOP 8.4.2: Sachstandsbericht zur Planung des Wasserspielplatzes im Inneren Grüngürtel zwischen Vogelsanger Straße und Venloer Straße in Köln Neustadt-Nord - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Stellenverlagerung in der kommunalen Schulsozialarbeit - Kenntnis genommen
+- TOP 8.5.2: Anfrage der SPD-Fraktion in der Sitzung des Stadtentwicklungsausschuss vom 28.06.2018 hier: Entwicklung von Grundstücken des Bundes - Kenntnis genommen
+- TOP 8.5.3: Ergänzung der Mitteilung 2768/2018 „Umsetzungsstand Interkulturelles Maßnahmenprogramm – Maßnahmen des Integrationsbudgets“ zu den Maßnahmenempfehlungen Nr. 6 bis 8 und 10 - Kenntnis genommen
+- TOP 8.5.4: Übersicht der Bildungsangebote für 16-25 Jährige aus dem Projekt „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
