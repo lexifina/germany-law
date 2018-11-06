@@ -1,0 +1,82 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-06T15:30:00+01:00
+- Ende: 2018-11-06T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18783
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18783
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers des Ausschusses für Soziales und Senioren - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Einrichtung einer zentralen städtische Rufnummer zur Benennung von Einrichtungen der Kurzzeitpflege mit Angaben zu aktuell freien Plätzen, Antrag des Sachkundigen Einwohners Dr. Dr. Mück - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2.2: Unterstützungsangebote für Wohnungslose aus Rumänien und Bulgarien - endgültig abgelehnt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Leitprojekt "Weiterentwicklung des Seniorenpakets vor dem Hintergrund des demographischen Wandels" - geändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg, 50997 Köln-Rondorf - Baubeschluss - ungeändert beschlossen
+- TOP 4.2: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Anpassung des Planungsauftrags - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Umsetzungsbericht zum Diversity Konzept „2020: Köln l(i)ebt Vielfalt" - geändert beschlossen
+- TOP 4.4: Vergabe Restmittel Antirassismus-Training - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Förderung des Projektes "Port Kölnberg - Veedelslotse" - ohne Votum in nachfolgende Gremien
+- TOP 6: Anregungen, Stellungnahmen und Berichte der Stadtarbeitsgemeinschaften
+- TOP 6.1: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 6.2: Städtepartnerschaftlicher Austausch zum CSD 2018 - Mitteilung der Stadtarbeitsgemeinschaft LST - Kenntnis genommen
+- TOP 6.3: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - Kenntnis genommen
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 7.1.1: BeGenehmigungsfreistellung nach § 67 Bauordnung Nordrhein – Westfalen (BauO NRW) - Kenntnis genommen
+- TOP 7.1.2: Illegale Vermietung von Studentenappartements als Ferienwohnungen in Köln - Kenntnis genommen
+- TOP 7.2: Bericht Wohnen in Köln 2017 - Fakten, Zahlen und Ergebnisse 2017, Ausblick 2018 - zurückgestellt
+- TOP 7.3: Pegel Köln 3/2018 Einwohnerentwicklung 2017: Köln wächst - auch bei geringer Zuwanderung - Kenntnis genommen
+- TOP 7.4: 1. Sachstandsbericht Kooperatives Baulandmodell Köln - Kenntnis genommen
+- TOP 7.5: Wohngeld - Bericht über die aktuelle Entwicklung - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Anfragen und Beantwortungen
+- TOP 8.1.1: Nachfragen zum Datenschutz im JobCenter - Anfrage der Gruppe BUNT aus der Sitzung vom 06.09.2018 - Kenntnis genommen
+- TOP 8.1.1.1: Beantwortung der Anfrage der Ratsgruppe BUNT in der Sitzung des Ausschusses für Soziales und Senioren vom 06.09.2018 „Nachfragen zum Datenschutz im Jobcenter“ - Kenntnis genommen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Unterbringung von Flüchtlingen - Anfrage der SPD-Fraktion aus der Sitzung des Ausschusses vom 17.05.2018 - Sache ist erledigt
+- TOP 9.1.2: Wohnsitzauflage von Geflüchteten - Kenntnis genommen
+- TOP 9.1.3: 22. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.1.4: Psychosoziale Betreuung von Flüchtlingen in Köln - Anfrage der Ratsgruppe BUNT - zurückgestellt
+- TOP 9.2: 4. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.3: Übersicht der Bildungsangebote für 16-25 Jährige aus dem Projekt „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 04/2018 - Kenntnis genommen
+- TOP 10.2: Sachstand: Mitnahme von E-Scootern bei der KVB AG - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Arbeitsmarktintegration und Ausbildungsduldungen - Kenntnis genommen
+- TOP -: Arbeitsmarktintegration und Ausbildungsduldungen (Beantwortung der Anfrage AN/0940/2018 der Ratsgruppe BUNT im Ausschuss für Soziales und Senioren) - Kenntnis genommen
+- TOP 11.1.2: Deckung des Bedarfs an vollstationären Dauerpflegeplätzen in Köln. Gemeinsame Anfrage der Fraktionen von CDU und Bündnis 90/Die Grünen - zurückgestellt
+- TOP 11.1.3: Beantwortung einer Anfrage und Anmerkungen zum geplanten Amt für Integration und Vielfalt - Kenntnis genommen
+- TOP 11.1.4: Schwerbehindertenrecht - Bearbeitungsdauer von Schwerbehindertenanträgen - Kenntnis genommen
+- TOP 11.1.5: Beantwortung einer Nachfrage zum Umsetzungsstand Interkulturelles Maßnahmenprogramm - Maßnahmen des Integrationsbudgets 2768/2018 - Kenntnis genommen
+- TOP 11.1.6: Ergänzung der Mitteilung 2768/2018 „Umsetzungsstand Interkulturelles Maßnahmenprogramm – Maßnahmen des Integrationsbudgets“ zu den Maßnahmenempfehlungen Nr. 6 bis 8 und 10 - Kenntnis genommen
+- TOP 11.1.7: Ehrenamtskarte und Jugendleitercard - Kenntnis genommen
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.3: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 12.3: Veröffentlichung Themenberichte 1 und 2 zu den Ergebnissen der "Leben in Köln" - Umfrage - zurückgestellt
+- TOP 12.4: Projekt „Plan27“ – Aufsuchendes Hilfeangebot für junge Menschen mit psychischen Problemen – Zwischenauswertung nach einem Jahr Projektlaufzeit - Kenntnis genommen
+- TOP 12.5: Kinder– und Jugendgesundheit in Köln – Bericht 2017/2018 - Kenntnis genommen
+- TOP 12.6: Kölner Statistische Nachrichten 4/2018 Erwerbstätigkeit und wirtschaftliche Lage der Kölner Bevölkerung - Ergebnisse der "Leben in Köln"-Umfrage 2016 - zurückgestellt
+- TOP 12.7: Präventive Hausbesuche Evaluation - Kenntnis genommen
+- TOP 12.8: Angebote der Winterhilfe 2018/2019 für wohnungslose Menschen - Kenntnis genommen
+- TOP 12.9: Sachstand zur Umsetzung des Kommunalen Programms für Arbeit und Beschäftigungsfähigkeit (KomProArBeit) - Kenntnis genommen
+- TOP 12.10: Humanitäre Hilfen für Menschen aus den Staaten der EU-Osterweiterung - Kenntnis genommen
+- TOP 12.11: 1. Kölner Fachtag für Zahngesundheit und Mundhygiene - Kenntnis genommen
