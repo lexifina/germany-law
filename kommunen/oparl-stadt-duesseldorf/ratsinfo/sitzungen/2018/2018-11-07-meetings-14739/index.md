@@ -1,0 +1,59 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-07T15:00:00+01:00
+- Ende: 2018-11-07T19:10:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14739
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14739
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00328831.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00328831.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00328831.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift der gemeinsame Sitzung des Ausschusses für Planung und Stadtentwicklung, des Ausschusses für Umweltschutz, des Ordnungs- und Verkehrsausschusses und der Bezirksvertretung 5 am 28. Februar 2018 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Sichere Fahrrad- insbesondere E-Bike-Abstellplätze für Lehrer und andere an Schulen Beschäftigte - zur Kenntnis genommen
+- TOP 4.2: Tarifgestaltung an Ladesäulen für Elektrofahrzeuge - zur Kenntnis genommen
+- TOP 4.3: Weitere Blockaden von Fußgänger*innen und Radfahrer*innen durch neue Werbesäulen?Anfr.RH Czerwinski - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 6: Aktuelles - zur Kenntnis genommen
+- TOP 7: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 8: Zwischennutzung Mühlenstraße - Vorschlag zur Nutzung bei Entfall der Stellplatzflächen - einstimmig beschlossen
+- TOP 9: Neugestaltung der Mühlenstraße - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 10: Altstadt, weiteres Vorgehen - zur Kenntnis genommen
+- TOP 11: Glatte Wegeverbindung Marktplatz / Fortsetzung des Blindenleitsystems - einstimmig beschlossen
+- TOP 12: Umbau Aachener Platz - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 13: Höherhofstraße / Gubener Straße / Nach den Mauresköthen – Umbau des Knotenpunktes zu einem Kreisverk - mehrheitlich beschlossen
+- TOP 14: Ausbau Radhauptnetz, Abschnitt Kölner Straße zwischen Worringer Platz und Gerresheimer Straße - einstimmig beschlossen
+- TOP 15: Instandsetzungen Verkehrsflächen für das Jahr 2019 - zur Kenntnis genommen
+- TOP 16: Rhein-Ruhr-Express (RRX) – Bauwerksplanung der DB Netz AG in Angermund - einstimmig beschlossen
+- TOP 17: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 06.01.2019 - zur Kenntnis genommen
+- TOP 18: Sachstand Projekt "OSD AAAA+" - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 19: Freigabe verkaufsoffener Sonntagnachmittage im 1. Quartal des Jahres 2019 - mehrheitlich beschlossen
+- TOP 20: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahre 2019 - zur Kenntnis genommen
+- TOP 21: Haushaltsanträge
+- TOP 21.1: Keine Haushaltsmittel für die Stadtbahn U81 - mehrheitlich abgelehnt
+- TOP 21.2: Eigenständiger Bau des Düsseldorf Abschnitts des "Radschnellweg Rhein" - mehrheitlich abgelehnt
+- TOP 21.3: Mittel für die Ausstattung von Haltestellen erhöhen - mehrheitlich abgelehnt
+- TOP 21.4: Mindestgebühr für Parkausweise für Hebammen - zurückgezogen
+- TOP 21.5: Städtisches Fußverkehrskonzept - mehrheitlich abgelehnt
+- TOP 21.6: Unfallvermeidung: Rechtsabbiegerregelung zurückbauen - mehrheitlich abgelehnt
+- TOP 21.7: Mehr Geld für die Düsseldorfer Brücken - mehrheitlich abgelehnt
+- TOP 21.8: Planungsmittel für den Neubau der Jugendverkehrsschule - zur Kenntnis genommen
+- TOP 21.9: Düsseldorfer Straßen nicht kaputt sparen - mehrheitlich abgelehnt
+- TOP 21.10: Umrüstung Parkscheinautom.- Benutzerfreundlichk. erh., mod. Zahlungswege akzept.,Internat.herst. - mehrheitlich abgelehnt
+- TOP 21.11: Mittel zur Verbesserung der Verkehrsführung an der Bilker Kirche und in deren Umfeld in Höhe von 100 - mehrheitlich beschlossen
+- TOP 22: Haushaltsplanentwurf des Ordnungsamtes für das Jahr 2019 - passieren lassen
+- TOP 23: Haushaltsplanentwurf des Amtes für Verkehrsmanagement für das Jahr 2019 - passieren lassen
+- TOP 24: Eisenbahnüberführung (EÜ) Bamberger Straße, Tieferlegung der Straße - einstimmig beschlossen
+- TOP 25: Änderungsbeschluss Geländerertüchtigung Kniebrücke - einstimmig beschlossen
+- TOP 26: Bedarfsbeschluss Fahrradparkturm Bahnhof Bilk; Friedrichstraße / Arcadenvorplatz - einstimmig beschlossen
+- TOP 27: Bericht zum aktuellen Stand der Fahrradförderung - zur Kenntnis genommen
+- TOP 28: Bewerbung 2. Projektaufruf KommunalerKlimaschutz.NRW – „Emissionsfreie - zur Kenntnis genommen
