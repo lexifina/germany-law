@@ -1,0 +1,7 @@
+# TOP 3: Verschiedenes
+
+- Sitzung: Integrationsrat (2018-11-07)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/222226
+- Ergebnis: zur Kenntnis genommen
