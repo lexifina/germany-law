@@ -1,0 +1,51 @@
+# Verwaltungsausschuss
+
+- Körperschaft: Leipzig
+- Beginn: 2018-11-07T17:00:00+01:00
+- Ende: 2018-11-07T19:00:00+01:00
+- Ort: Martin-Luther-Ring 4-6, 04109 Leipzig
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5c089ee72c66dc3b525a26ea
+- Ratsinformationssystem: N/Ato010.asp?SILFDNR=1003964
+- OParl: https://oparl.politik-bei-uns.de/meeting/5c08a1962c66dc3b52613e79
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit/Bestätigung der Tagesordnung - (offen)
+- TOP 2: Protokollbestätigung - (offen)
+- TOP 2.1: Protokollbestätigung der Sitzung vom 10.10.2018 - (offen)
+- TOP 3: Bekanntgabe von Beschlüssen aus nichtöffentlicher Sitzung - (offen)
+- TOP 4: Bericht aus Beteiligungen - (offen)
+- TOP 5: Beratung der Vorlagen I - (offen)
+- TOP 5.1: Neubau Kita Holbeinstraße 58, 04229 Leipzig, Beauftragung der Projektsteuerung verbunden mit der Bestätigung außerplanmäßiger Aufwendungen gem. § 79 (1) SächsGemO im Haushaltsjahr 2018 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 5.2: Quellensanierung Altstandort ehem. LACUFA-Lösungsmitteltanklager Mühlweg 2 in Leipzig <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Beigeordneter für Umwelt, Ordnung, Sport)</span> - ungeändert beschlossen
+- TOP 5.3: Wilhelm-Ostwald-Schule, Gymnasium der Stadt Leipzig, Willi-Bredel-Str. 15, 04279 Leipzig - Kapazitätserweiterung (Bestätigung gemäß § 79 (1) und § 81 (5) SächsGemO) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Stadtentwicklung und Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 5.4: Planungsbeschluss Sanierung Kindereinrichtung Theodor-Neubauer-Straße 18, 04318 Leipzig (Bestätigung überplanmäßiger Auszahlungen gem. § 79 (1) SächsGemO im Haushaltsjahr 2018) <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Dezernat Jugend, Soziales, Gesundheit und Schule)</span> - ungeändert beschlossen
+- TOP 6: Informationen - (offen)
+- TOP 6.1: Jahresabschlussreports 2017 - Nachlieferung <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Oberbürgermeister)</span> - zur Kenntnis genommen
+- TOP 7: Verschiedenes - (offen)
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
+- TOP 12.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 13: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 13.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 14: nicht öffentlicher Tagesordnungspunkt
+- TOP 14.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 15: nicht öffentlicher Tagesordnungspunkt
