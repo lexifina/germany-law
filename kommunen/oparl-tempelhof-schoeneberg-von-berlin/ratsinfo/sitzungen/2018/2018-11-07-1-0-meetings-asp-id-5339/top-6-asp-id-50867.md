@@ -1,0 +1,7 @@
+# TOP 6: Auflagenbeschlüsse zum Bezirkshaushalt 2018/2019
+
+- Sitzung: 22. öffentliche Sitzung des Hauptausschusses (2018-11-07)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=50867
+- Ergebnis: erledigt
