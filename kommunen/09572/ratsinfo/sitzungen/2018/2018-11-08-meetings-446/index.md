@@ -1,0 +1,51 @@
+# 10. Sitzung des Ausschusses für soziale Angelegenheiten
+
+- Körperschaft: Landkreis Erlangen-Höchstadt
+- Beginn: 2018-11-08T09:00:00+01:00
+- Ende: 2018-11-08T10:38:00+01:00
+- Ort: Sitzungszimmer der Dienststelle in Höchstadt a. d. Aisch
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/organizations/gr/8
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/446
+- OParl: https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/meetings/446
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Wortprotokoll: Niederschrift_ASA_08.11.2018 (GI,MI,BI) mit Anlagen https://oparl.digitalfabrix.de/bodies/Landkreis-Erlangen-Hoechstadt/downloadfiles/a/00026182.pdf
+
+## Tagesordnung
+
+- TOP 1: Unterbringung von Asylbewerberinnen und Asylbewerbern im Landkreis - zur Kenntnis genommen
+- TOP 2: Anträge auf Kreiszuschüsse;
+- TOP 2.1: Frauenzentrum Erlangen e. V. - einstimmig beschlossen
+- TOP 2.2: Verein zum Schutz misshandelter Frauen e. V. für die Interventionsstelle Erlangen - einstimmig beschlossen
+- TOP 2.3: Soziale Betriebe der Laufer Mühle gGmbH für den "LebensMittelPunkt" Höchstadt - einstimmig beschlossen
+- TOP 2.4: Offene Tür Erlangen e. V. - einstimmig beschlossen
+- TOP 2.5: Bayerisches Rotes Kreuz Kreisverband Erlangen-Höchstadt für die Förderung der Verbandstätigkeit und der Altenhilfe - Mehrfachbeschluss
+- TOP 2.6: Diakonisches Werk Bamberg-Forchheim e. V. für die Integrationsberatung - einstimmig beschlossen
+- TOP 2.7: Diakonisches Werk Erlangen e.V. für
+- TOP 2.7.1: Bahnhofsmission Erlangen - einstimmig beschlossen
+- TOP 2.7.2: Bereich der Familienpflege - Mehrfachbeschluss
+- TOP 2.7.3: Förderung der Verbandstätigkeit - einstimmig beschlossen
+- TOP 2.7.4: Erlanger Tafel - mehrheitlich beschlossen
+- TOP 2.7.5: Förderung der Dorfhelferinnenstation - einstimmig beschlossen
+- TOP 2.7.6: Förderung der Altenhilfe - einstimmig beschlossen
+- TOP 2.7.7: Integrationsberatung - einstimmig beschlossen
+- TOP 2.8: Diakonieverein Eckental e. V. für die Eckentaler Tafel - einstimmig beschlossen
+- TOP 2.9: Frauennotruf Erlangen Beratungsstelle für Mädchen und Frauen mit sexuellen Gewalterfahrungen - einstimmig beschlossen
+- TOP 2.10: Arbeiterwohlfahrt - KV Erlangen-Höchstadt e.V. für
+- TOP 2.10.1: Integrationsberatung - einstimmig beschlossen
+- TOP 2.10.2: Fachstelle für pflegende Angehörige - einstimmig beschlossen
+- TOP 2.10.3: Förderung der Altenhilfe und der allgemeinen Verbandstätigkeit - einstimmig beschlossen
+- TOP 2.11: Arbeiter-Samariter-Bund - RV Erlangen-Höchstadt e.V. für
+- TOP 2.11.1: Fachstelle für pflegende Angehörige - einstimmig beschlossen
+- TOP 2.11.2: Integrationsberatung - Mehrfachbeschluss
+- TOP 2.11.3: Dolmetscherpool für Flüchtlinge - einstimmig beschlossen
+- TOP 2.12: Paritätischer Wohlfahrtsverband - Bezirksverband Mittelfranken - einstimmig beschlossen
+- TOP 2.13: Caritasverband für die Stadt Erlangen und den Landkreis Erlangen-Höchstadt e. V. für
+- TOP 2.13.1: Förderung der Altenhilfe - einstimmig beschlossen
+- TOP 2.13.2: Förderung der Verbandstätigkeit - einstimmig beschlossen
+- TOP 2.13.3: Integrationsberatung - einstimmig beschlossen
+- TOP 2.14: Kontaktstelle für Arbeitslose - einstimmig beschlossen
+- TOP 3: Gesetz zur Delegation der Insolvenzberatung auf die kreisfreien Städte und Landkreise - zur Kenntnis genommen
+- TOP 4: Investitionskostenförderung ambulanter Pflegedienste im Landkreis Erlangen-Höchstadt - zur Kenntnis genommen
+- TOP 5: Einrichtung eines Verhütungsmittelfonds - einstimmig beschlossen
+- TOP 6: Vorberatung des Kreishaushalts 2019 - mehrheitlich beschlossen
