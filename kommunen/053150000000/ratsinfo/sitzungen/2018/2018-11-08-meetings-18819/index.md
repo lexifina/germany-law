@@ -1,0 +1,94 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-08T16:00:00+01:00
+- Ende: 2018-11-08T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18819
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18819
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde und Aktuelle Stunde
+- TOP 1.1: Aktuelle Stunde "Sport im StadtBezirks-SportVerband 1 Innenstadt /Deutz", auf Vorschlag von Bezirksbürgermeister Hupke
+- TOP 1.2: Aktuelle Stunde zur Wohnraumzweckentfremdung in der Innenstadt auf Antrag der SPD-Fraktion und CDU-Fraktion
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Vorstellung zum Gerling Quartier
+- TOP 1.5: Vorstellung des Projektstandes zur Messe City Köln
+- TOP 1.6: Aktuelle Stunde zum Thema : Brauhaus Schäfer - Öffnungszeiten - Anwohnerinteressen, auf Vorschlag der CDU
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Erfahrungsbericht Vergabekonzept 2014 - 2018 und neues Vergabekonzept ab 01.01.2019 - mit Änderungen empfohlen
+- TOP 3.1.1: Änderungsantrag Vergabekonzept für Veranstaltungen auf zentralen Plätzen der Kölner Innenstadt für den Zeitraum 2019 – 2023 - geändert beschlossen
+- TOP 3.2: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ungeändert empfohlen
+- TOP 3.3: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert empfohlen
+- TOP 3.4: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Innenstadt zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 3.5: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen im 2. Halbjahr 2018 - ungeändert beschlossen
+- TOP 3.6: Änderungsverordnung über das Offenhalten von Verkaufsstellen im Jahr 2018 - ungeändert beschlossen
+- TOP 3.7: Generalinstandsetzung der Troisdorfer Straße, hier: Mitteilung über eine Kostenerhöhung gem. §24 Abs. 2 GemHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - ungeändert empfohlen
+- TOP 3.8: Umgestaltung des Chlodwigplatzes, hier: Mitteilung über eine weitere Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - ungeändert empfohlen
+- TOP 3.9: "Nördlich Colonius" in Köln-Neustadt/Nord; neue Konzeptidee + Durchf. frühz. Öffentlichkeitsb.; Städtebauliches Planungskonzept - ungeändert empfohlen
+- TOP 3.10: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 3.11: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 3.12: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO - Aufstellung von Blumenkübeln in der Norbertstraße (Gereonsviertel) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Parken in Deutz II (AZ.: 02-1600-15/18) - ungeändert beschlossen
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verbesserung der Situation für Zufußgehende am Agrippinaufer - ungeändert beschlossen
+- TOP 5.1.2: Behindertenparkplatz und Radabstellanlage Metzer Straße 39 - ungeändert beschlossen
+- TOP 5.1.3: Parken in der Suevenstraße - ungeändert beschlossen
+- TOP 5.1.4: Glascontainer in der Helenenwallstraße - ungeändert beschlossen
+- TOP 5.1.5: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 5.1.6: Haarnadeln an der Haltestelle Ubierring (Nordseite) - zurückgestellt
+- TOP 5.1.7: Verbesserung der Situation am Herz-Jesu-Heim / Oberländer Wall - ungeändert beschlossen
+- TOP 5.1.8: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.1.9: Wiederinbetriebnahme Hänneschen-Bevesta Brunnen - geändert beschlossen
+- TOP 5.1.10: Massnahmen auf dem Von-Sandt-Platz - ungeändert beschlossen
+- TOP 5.1.11: Toilettenanlage am Breslauer Platz/Johannisstraße (Altstadt/Nord) - zurückgestellt
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Erhalt des langen Tisches am Sachsenring - ungeändert beschlossen
+- TOP 5.2.2: Zusätzlicher Rad- und Fußgängerüberweg Rheinuferstraße - ungeändert beschlossen
+- TOP 5.2.3: Fahrradverkehr in beide Richtungen auf der Palmstraße (Altstadt/Nord) - endgültig zurückgezogen
+- TOP 5.2.4: Poller am Schaurte-Gymnasium in Deutz - ungeändert beschlossen
+- TOP 5.2.5: Asphalt-Tennisplatz für Deutz, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.2.6: Entfernung/Versetzung Werbeanlage Breite Str./Tunisstr., Antrag GUT - zurückgestellt
+- TOP 5.2.7: Maastrichter Straße - Baumscheiben und Fahrradparken, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.8: Zusätzliche Fußgängerquerung über den Gotenring in Deutz - ungeändert beschlossen
+- TOP 5.2.9: Telefonanlagenrückbau, Antrag Die Linke - zurückgestellt
+- TOP 5.2.10: Verkehrssicherheit auf den Radfahrbahnen der Ringe, Antrag GUT - ungeändert beschlossen
+- TOP 5.2.11: Vergabe der bezirksorientierten Mittel und Mittel zur Kulturförderung, Gemeinsamer Antrag - ungeändert beschlossen
+- TOP 5.2.12: Verkehrsberuhigung in der Alten Wallgasse - ungeändert beschlossen
+- TOP 6: Aktuelle Viertelstunde /Vortrag zu aktuellem Thema
+- TOP 7: Anfragen aus früheren Sitzungen
+- TOP 7.1: Baumassnahmen Agrippabad - zurückgestellt
+- TOP 7.2: Tag des Büdchens - Sachstand - zurückgestellt
+- TOP 7.3: Praxis des Ordnungsamtes bei Parken auf Rad- und Gehwegen - zurückgestellt
+- TOP 7.4: Antragsbearbeitung Zweckentfremdung
+- TOP 7.4.1: Antragsbearbeitung Zweckentfremdung
+- TOP 7.5: Wohnraumzweckentfremdungen Gebrüder-Coblenz-Str. 15 (Deutz) und im Ferkulum 16 (Altstadt/Süd), Anfrage SPD
+- TOP 7.5.1: Wohnraumzweckentfremdungen Gebrüder-Coblenz-Str. 15 und Im Ferkulum 16
+- TOP 8: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 8.1: Sanktionierung von Wohnraumzweckentfremdungen
+- TOP 8.1.1: Sanktionierung von Wohnraumzweckentfremdungen
+- TOP 8.2: Praxis für die Entsorgung von Schrottfahrrädern im öffentlichen Raum - zurückgestellt
+- TOP 8.3: Nutzung des Rheinboulevards zu den Kölner Lichtern
+- TOP 8.3.1: Nutzung des Rheinboulevards zu den Kölner Lichtern
+- TOP 8.4: Beschlusscontrolling Stadtverschönerungsmittel 2014 - 2017 - zurückgestellt
+- TOP 9: Mündliche Fragen an die Verwaltung
+- TOP 10: Mitteilungen des Bezirksbürgermeisters
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Neue Stabsstelle Stadtbau im Quartier | Domumfeld mit Wirkung vom 01. März 2018
+- TOP 11.2: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018
+- TOP 11.3: „Wie inklusiv ist das Quartier?“
+- TOP 11.4: Tempo 30-Georgsviertel
+- TOP 11.5: Bewohnerparkgebiet Belgisches Viertel
+- TOP 11.6: Busverbindung vom Rheinauhafen zur Haltestelle Severinstraße
+- TOP 11.7: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Innenstadt in der Zuständigkeit des Amtes für Straßen und Verkehrsentwicklung, hier: Stand 31.12.2017
+- TOP 11.8: Radverkehrskonzept Innenstadt - Piktogrammkette
+- TOP 11.9: Westlich Unter Goldschmied (Laurenz-Carré), Köln Innenstadt
+- TOP 11.10: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung
