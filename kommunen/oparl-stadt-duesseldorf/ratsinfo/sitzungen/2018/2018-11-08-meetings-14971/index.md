@@ -1,0 +1,70 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-08T17:00:00+01:00
+- Ende: 2018-11-08T19:54:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14971
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14971
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00328839.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00328839.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00328839.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Sozialräumliche Gliederung Fortschreibung 2017 - zur Kenntnis genommen
+- TOP 5: Bebauungsplanverfahren Nr. 08/006 - Königsberger Straße / Tulpenweg - - mehrheitlich beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 196 – Königsberger Str. /Tulpenweg - einstimmig beschlossen
+- TOP 7: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87 - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Zuschüsse der Bezirksvertretung 8 im Jahre 2018 - einstimmig beschlossen
+- TOP 10: Erhaltungssatzung Siedlung Freiheit - beantwortet
+- TOP 11: Blaualgen im Unterbacher See - beantwortet
+- TOP 12: Baumfällung Vennstraße - beantwortet
+- TOP 13: Kommission Erhaltungssatzungen - beantwortet
+- TOP 14: Ersatzpflanzungen und Ausgleichsflächen im Stadtbezirk 8 - beantwortet
+- TOP 15: Bebauungsplanverfahren Am Kleinforst - beantwortet
+- TOP 16: Fahrradständer Gertrudisplatz - beantwortet
+- TOP 17: LKW-Routenkonzept für den Stadtbezirk 8 - beantwortet
+- TOP 18: Rattenbefall im Bereich Denkmal Gerresheimer Landstraße - beantwortet
+- TOP 19: Bahnunterführung Gumbertstraße - beantwortet
+- TOP 20: Sicherheit an Rheinbahnhaltestellen im Stadtbezirk 8 und am Durchgang S-Bahnhof Eller Süd - beantwortet
+- TOP 21: Integriertes Verkehrskonzept 2030 - beantwortet
+- TOP 22: Dauerparker Königsberger Straße - beantwortet
+- TOP 23: Bebauungsplanverfahren Nördlich Gerresheimer Landstraße - beantwortet
+- TOP 24: Bebauungsplanverfahren Breidenplatz - beantwortet
+- TOP 25: Jugendarbeit Bernburger Straße - einstimmig beschlossen
+- TOP 26: Jugendzentrum Eller - zurückgezogen
+- TOP 27: Grünstreifen Kamper Weg 51/53 - einstimmig beschlossen
+- TOP 28: Straßenschild Geraer Weg - einstimmig beschlossen
+- TOP 29: Renaturierung Südliche Düssel - zurückgezogen
+- TOP 30: Durchgang Naumburger Straße zur südlichen Düssel - einstimmig beschlossen
+- TOP 31: Lärmschutz A 46 - einstimmig beschlossen
+- TOP 32: Friedhof Unterbach - einstimmig beschlossen
+- TOP 33: Verkehrsregelung Gerresheimer Landstraße - mehrheitlich beschlossen
+- TOP 34: Radschutzstreifen Sturmstraße - einstimmig beschlossen
+- TOP 35: Sitzgruppe Gertrudisplatz - einstimmig beschlossen
+- TOP 36: Fußweg zwischen Chemnitzer Straße und Zwickauer Straße - einstimmig beschlossen
+- TOP 37: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 06.01.2019 - zur Kenntnis genommen
+- TOP 38: Bushaltestelle Fuldaer Straße - zur Kenntnis genommen
+- TOP 39: Barrierefreier Ausbau der Haltestelle „Grünberger Weg“ in Fahrtrichtung Vennhauser Allee - zur Kenntnis genommen
+- TOP 40: Friedhof Unterbach-Kapelle - zur Kenntnis genommen
+- TOP 41: Grundstück Freiheitstraße 78 - zur Kenntnis genommen
+- TOP 42: Sitzungstermine 2019 - zur Kenntnis genommen
+- TOP 43: Bauvorhaben Vennhauser Allee 173-175 - zur Kenntnis genommen
+- TOP 44: Grünpflege Am Pfaffenbusch - zur Kenntnis genommen
+- TOP 45: Schlosspark Eller - zur Kenntnis genommen
+- TOP 46: Umbau Autobahn Dreieck Düsseldorf-Süd - zur Kenntnis genommen
+- TOP 47: Anmeldezahlen Grundschulen 2019/2020 - zur Kenntnis genommen
+- TOP 48: Gedenkstätte Höherweg / Posener Straße - zur Kenntnis genommen
+- TOP 49: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 50: Blaualgen im Unterbacher See - zur Kenntnis genommen
+- TOP 51: Sicherheit an Rheinbahnhaltestellen im Stadtbezirk 8 und am Durchgang S-Bahnhof Eller Süd - zur Kenntnis genommen
+- TOP 52: Angsträume S-Bahnhof Düsseldorf Eller Süd - zur Kenntnis genommen
+- TOP 53: Bahnunterführung Gumbertstraße - zur Kenntnis genommen
