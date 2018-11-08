@@ -1,0 +1,6 @@
+# TOP 6: Einwendungen gegen den Entwurf der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019
+
+- Sitzung: 44. Sitzung des Rates (Sondersitzung - Verabschiedung Hpl. 2019) (2018-11-08)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/259340
