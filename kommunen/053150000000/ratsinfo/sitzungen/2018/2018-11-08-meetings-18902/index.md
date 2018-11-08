@@ -1,0 +1,65 @@
+# 32. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-08T17:00:00+01:00
+- Ende: 2018-11-08T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18902
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18902
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687580.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687580.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00687580.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gemäß § 24 GO - Verschönerung des Platzes Kalker Markt/Spielplatz - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, Betr.: Gemeinwohlorientierung der Hallen Kalk, Az: 02-1600-94/18 - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Hameler Weg, Brücker Mauspfad, Kleinfeldchensweg, Köln-Brück (Az.: 02-1600-40/18) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Buslinie 154 stärken! - Sache ist erledigt
+- TOP 7.2: Wohnbebauung auf der Fläche des derzeitigen Bauhofs an der Frankfurter Straße/Ecke Höhenberger Straße in Köln-Höhenberg - ungeändert beschlossen
+- TOP 7.3: Ausverkauf städtischer Grundstücke stoppen - endgültig abgelehnt
+- TOP 7.4: Grundstückstausch „Madaus-Gartenland“ - Sache ist erledigt
+- TOP 7.5: Prüfung der Errichtung eines Lkw-Parkplatzes im Gewerbegebiet Pauline-Christmann-Straße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Kalk zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Ertüchtigung der Elektroinstallation im Bürgerhaus Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert beschlossen
+- TOP -: Fortschreibung des Landschaftsplanes Köln (12. Änderung)||Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete - ungeändert beschlossen
+- TOP 8.2.2: Planungsaufnahme zur Erstellung eines Neubaus der Turnhalle für die KGS Fußfallstraße 55, 51109 Köln - ungeändert beschlossen
+- TOP 8.2.3: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 8.2.4: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - geändert beschlossen
+- TOP -: Fortschreibung der Schulentwicklungsplanung für allgemein bildende Schulen in Köln 2018 - ungeändert beschlossen
+- TOP 8.2.5: 6. Satzung zur Änderung der Sondernutzungssatzung - abgelehnt (in der Vorberatung)
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Sachstand Verkehrskonzepte Köln-Kalk - zurückgestellt
+- TOP 9.1.2: Mehr Sicherheitsgefühl im Stadtteil Neubrück - Kenntnis genommen
+- TOP 9.1.3: Mündl. Anfrage aus der Sitzung vom 21.06.2018 - Kenntnis genommen
+- TOP 9.1.4: Hotspots für Kalk - Kenntnis genommen
+- TOP 9.1.5: Farbanstrich an der Montessori-Grundschule, Schulstraße in Köln-Höhenberg - Anfrage von BV Müller am 13.09.2018 - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Wettbüros im Stadtteil Kalk – Wie steht es um die Umsetzung des Glücksspielstaatsvertrages? - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP -: Bereitstellung eines Aktivierungsfonds für das Sozialraumgebiet Höhenberg/Vingst als Ausgleich für den entfallenen Verfügungsfond aus dem Förderprogramm „Starke Veedel - Starkes Köln“ - ungeändert beschlossen
+- TOP 10.2.2: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 10.2.3: Aufweitung der Fahrbahn und Markierung eines Linksabbiegestreifens an der Kreuzung Olpener Str./Flehbachstraße - Kenntnis genommen
+- TOP 10.2.4: Fortführung des Werkstattverfahrens Hallen Kalk; Beauftragung einer Machbarkeitsstudie - Kenntnis genommen
+- TOP 10.2.5: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.6: Auslagerungen in die Vietorstraße - Kenntnis genommen
