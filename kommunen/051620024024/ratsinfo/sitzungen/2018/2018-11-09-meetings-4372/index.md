@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2018-11-09T16:00:00+01:00
+- Ende: 2018-11-09T18:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4372
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4372
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Lotsenpunkte - einstimmig zugestimmt
+- TOP 6: Unterbringung junger erwachsener Männer - einstimmig zugestimmt
+- TOP 7: Arbeitsgruppe Wohnungs- und Obdachlosigkeit in Neuss - einstimmig zugestimmt
+- TOP 8: Pflegebedarfsplanung des Rhein-Kreises Neuss - einstimmig zugestimmt
+- TOP 9: Zuschüsse zum Betrieb der Mensa an der Sekundarschule Neuss - einstimmig zugestimmt
+- TOP 10: Schulentwicklungsplanung weiterführende Schulen ab dem Schuljahr 2019/2020 - einstimmig zugestimmt
+- TOP 11: FNP 128 - Kreitzer Straße - Feststellungsbeschluss - einstimmig zugestimmt
+- TOP 12: Neubau Platzfläche ehemaliges Münsterschulareal - Damenstift-Patz - einstimmig zugestimmt
+- TOP 13: Bebauungsplan Nr. 131/6/1 – Stresemannallee, Hammfelddamm – Satzungsbeschluss - einstimmig zugestimmt
+- TOP 14: Landschaftsgalerie Strategischer Bahndamm - mehrheitlich zugestimmt
+- TOP 15: Beschluss über die Stellungnahme der Verwaltung zum Nahverkehrsplan - einstimmig zugestimmt
+- TOP 16: Verkehrl. Erschließung des BPL 460 - Norf, Nievenheimer Straße - einstimmig zugestimmt
+- TOP 17: Ruhrstraße: Umgestaltung Einmündung Ruhrstraße/Weserstraße - einstimmig zugestimmt
+- TOP 18: BP Nr. 460 - Norf, Nievenheimer Straße - - einstimmig zugestimmt
+- TOP 19: Wirtschaftsplan der Liegenschaften und Vermessung Neuss für das Wirtschaftsjahr 2019 - einstimmig zugestimmt
+- TOP 20: Änderung der Vergabeordnung der Stadt Neuss - verwiesen
+- TOP 21: Hauptversammlung Deutscher Städtetag 2019 - einstimmig zugestimmt
+- TOP 22: Gesamtabschlussentwurf 2017 - einstimmig zugestimmt
+- TOP 23: Bewerbung um Fördermittel aus dem Bundesprogramm „Sanierung kommunaler Einrichtungen in den Bereiche - einstimmig zugestimmt
+- TOP 24: Bewerbung um Fördermittel aus dem Bundesprogramm „Sanierung kommunaler Einrichtungen in den Bereiche - einstimmig zugestimmt
+- TOP 25: Genehmigung der Dringlichkeitsentscheidung Nr. 223 betr. Teilnahme am EU-Förderprogramm "Town Twinni - einstimmig zugestimmt
+- TOP 26: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Herausgabe einer Kurzfassung des Haushalts - einstimmig zugestimmt
+- TOP 27: Antrag der AfD-Fraktion betr. Online Services, Digitalisierung Verwaltungs-Organisation und Abläufe - mehrheitlich abgelehnt
+- TOP 27.1: Antrag der SPD-Fraktion betr. Schützen-Ampelmännchen für Neuss - mehrheitlich zugestimmt
+- TOP 27.2: Antrag der Fraktion Die Linke betr. Finanzgebaren des Neusser Reiter- und Rennvereins - einstimmig zugestimmt
+- TOP 27.3: Antrag der Fraktion Die Linke betr. Beitritt zum Flüchtlings-Appell der Bürgermeister von Düsseldorf - zur Kenntnis genommen
+- TOP 27.4: Antrag der Fraktion Die Linke betr. Preisgünstiger Wohnraum für Studenten - verwiesen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Friedensglockenprojekt Leuven-Neuss - zur Kenntnis genommen
+- TOP 30: Liquidation der Einkaufsgemeinschaft Kommunaler Verwaltung eG (EKV) im Deutschen Städtetag zum 31.12 - zur Kenntnis genommen
+- TOP 31: Bericht des Antikorruptionsbeauftragten - zur Kenntnis genommen
+- TOP 32: Sitzungskalender des Rates und der Ausschüsse 2019 - zur Kenntnis genommen
+- TOP 33: Korrektur von Ratsniederschriften, hier: Rat am 29.06.2018 - zur Kenntnis genommen
+- TOP 34: Einwohnerfragestunde - zur Kenntnis genommen
