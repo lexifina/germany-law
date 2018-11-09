@@ -1,8 +1,8 @@
 # Vollzitat: RL Seniorengerecht Umbauen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-02-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17557.1
+- Datum: 2018-11-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17557.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-02.02.2018
+09.11.2018
 bis
-08.11.2018
+31.12.2019
 
 RL Seniorengerecht Umbauen
 
@@ -257,6 +257,8 @@ Die zu fördernden Mietwohnungen dürfen folgende Wohnflächen nicht überschrei
 Zur Wohnfläche zählen alle Nebenräume.
 
 
+Ist aufgrund der baulichen Gegebenheiten des umzubauenden Gebäudes die Einhaltung der Wohnflächengrenzen nicht möglich, so ist ausnahmsweise eine Überschreitung der Wohnfläche um höchstens 5 Prozent der anrechenbaren Wohnfläche zulässig. Die Wohnfläche wird nach der Wohnflächenverordnung vom 25. November 2003 (BGBl. I S. 2346) berechnet.  	
+
 4.
 
 Dem Vorhaben dürfen keine öffentlich-rechtlichen Vorschriften entgegenstehen. Das Wohngebäude, in dem die umzubauenden Wohnungen belegen sind, darf kein Gebäude im Sinne des § 2 Absatz 4 Nummer 9 der Sächsischen Bauordnung in der Fassung der Bekanntmachung vom 11. Mai 2016 (SächsGVBl. S. 186), die zuletzt durch das Gesetz vom 27. Oktober 2017 (SächsGVBl. S. 588) geändert worden ist, sein.
@@ -398,9 +400,9 @@ Fsn-Nr.: 554-V18.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  2. Februar 2018
+Fassung gültig ab:  9. November 2018
 
-Fassung gültig bis:  8. November 2018
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -425,7 +427,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17557.1
+https://www.revosax.sachsen.de/vorschrift/17557.2
 Stand vom
 18.11.2026
 
