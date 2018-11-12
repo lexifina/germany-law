@@ -1,0 +1,61 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-12T17:02:00+01:00
+- Ende: 2018-11-12T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18706
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18706
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Vorstellung des Gleichstellungsplans 2019 bis 2023 - zurückgestellt
+- TOP 1.2: Mündliche Mitteilung der Verwaltung zu den gleichstellungsrelevanten Angelegenheiten
+- TOP 2: Internationales
+- TOP 2.1: Städtepartnerschaftlicher Austausch zum CSD 2018 - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage und Anmerkungen zum geplanten Amt für Integration und Vielfalt zum geplanten Amt aus der Sitzung des Ausschusses Soziales und Senioren vom 06.09.2018 bzw. der AVR-Sitzung vom 17.09.2018 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 4.2: Humanitäre Hilfen für Menschen aus den Staaten der EU-Osterweiterung - Kenntnis genommen
+- TOP 4.3: Konzept zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln - Kenntnis genommen
+- TOP 4.4: Auszeichnung für das GrowSmarter Projektgebiet Stegerwaldsiedlung - Kenntnis genommen
+- TOP 4.5: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 4.6: Gestaltung der städtischen Maßnahmen zu Silvester 2018 - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Änderung in den Geschäftskreisen der Dezernate VI - Stadtentwicklung, Planen und Bauen und VIII - Mobilität und Verkehrsinfrastruktur - zurückgestellt
+- TOP 5.2: Neue Stabsstelle Stadtbau im Quartier | Domumfeld mit Wirkung vom 01. März 2018 - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion DieLinke betreffend "Abschiebungen und Duldungen" zur Sitzung am 17.09.2018 - zurückgestellt
+- TOP -: Stellungnahme der Verwaltung vom 02.11.2018 - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion DieLinke betreffend "Fachkräftemangel in der Verwaltung" zur Sitzung am 17.09.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 20.09.2018 - Kenntnis genommen
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Konzessionserteilung für Gaststätten und Außengastronomie" zur Sitzung am 12.11.2018 - zurückgestellt
+- TOP 6.4: Anfrage der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" zur Sitzung am 12.11.2018 - zurückgestellt
+- TOP 6.5: Anfrage der SPD-Fraktion betreffend "Umsetzungsstand zum Gesetz zur Regelung der Rechtsverhältnisse der Prostituierten (ProstG)" zur Sitzung am 12.11.2018 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Personalbericht der Stadt Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: Nachfragen zur Vorlage 0889/2018, Erfahrungsbericht Vergabe 2014-2018 und neues Vergabekonzept 01.01.2019 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Dringlichkeitsantrag der SPD-Fraktion und der Gruppe BUNT betreffend "Bewachungsleistungen am Rheinboulevard durch die KGAB beauftragen" zur Sitzung vom 17.09.2018 - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 9.1: Erfahrungsbericht Vergabekonzept 2014 - 2018 und neues Vergabekonzept ab 01.01.2019 - zurückgestellt
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01.2019 - 31.12.2021 - ungeändert beschlossen
+- TOP 10.2: Änderungsverordnung zum Kölner Taxitarif - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 10.2: Änderungsverordnung zum Kölner Taxitarif (2420/2018) - ungeändert beschlossen
+- TOP 10.3: Überplanmäßige Aufwendungen und überplanmäßige Auszahlungen im Haushaltsjahr 2018 - Teilplan - 0209 Ausländerangelegenheiten - ungeändert beschlossen
+- TOP 10.4: Siebzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - zurückgestellt
+- TOP 10.5: Umsetzungsbericht zum Diversity Konzept „2020: Köln l(i)ebt Vielfalt" - ungeändert beschlossen
+- TOP 10.6: 2. Satzung zur Änderung der Abfallsatzung - ungeändert beschlossen
+- TOP 10.7: Großschadensereignis Einsturz Historisches Archiv hier; Verlängerung des Verzichts der Stadt Köln auf die Einrede der Verjährung gegenüber den Leih-, Vor- und Nachlassgebern des Historischen Archivs - ungeändert beschlossen
+- TOP 10.8: Stadtentwässerungsbetriebe Köln, AöR (SteB); Abwassergebührensatzung 2019 - ungeändert beschlossen
+- TOP 10.9: Überplanmäßige Aufwendungen im Teilplan 0106 - Zentrale Dienstleistungen - für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 10.10: Überplanmäßige Aufwendungen in den Teilergebnisplänen 0201 – Allgemeine Sicherheit und Ordnung, 0202 – Gewerbewesen, 0204 – Verkehrs- und KFZ-Wesen, 0205 – Verkehrsüberwachung - ungeändert beschlossen
+- TOP 10.11: 3. Satzung zur Änderung der Satzung über die Abfallgebühren - zurückgestellt
+- TOP 10.12: 6. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - zurückgestellt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
