@@ -1,0 +1,69 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731479
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731479
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Elternbeirat des Gymnasium München Moosach MFM-Projekt vom 22.02.2016 - 10.03.2016
+- TOP 2.1.: Parken und Verkehr in der Ehrenbreitsteiner Straße
+- TOP 2.2.: Anwohnerparken bzw. Parkverbot für LKWs und Wohnwägen in der Hugo-Troendle-Straße
+- TOP 2.3.: Zusätzliche Fahrradständer vor dem Gebäude der "Meile Moosach"
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Baumfällungen im Rahmen von Bauvorhaben: 1. Pelkovenstr. 152
+- TOP 4.: Anträge
+- TOP 4.1.1.: Wahllokale künftig wieder in die Schule an der Dieselstraße verlegen
+- TOP 4.3.1.: Anzahl der Wahllokale bei den kommenden Wahlen erhöhen
+- TOP 5.1.: (E) Stadtbezirksbudget Moosacher Faschingsclub München e.V. Anschaffung von Kostümen für den Fasching 2019 4.120,00 Euro Az.: 0262.0-10-0168
+- TOP 5.2.: Entscheidung gem. OB-Vollmacht: Projektplanung Allacher Straße zwischen Amboss- und Moosstraße
+- TOP 5.3.: Entscheidung gem. OB-Vollmacht: Sondernutzungserlaubnis Aufstellung eines neuen Zeitungsentnahmegerätes auf öffentlichem Grund Lauinger Str. 19
+- TOP 5.4.: Situierung der geplanten Kita im Neubauprojekt der GWG Gubestr. 27-37 Empfehlung Nr. 14-20 / E 01760 (2 gleichlautende Anträge!) der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 19.10.2017
+- TOP 6.1.: Spielen in der Stadt e.V.: Planung der SommerSpielAktion 2019
+- TOP 6.2.: Baumfällungen (Baumschutz): 1. Hannoverstr. 3 2. Naumburger Str. 13
+- TOP 6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Leipziger Str. 85 - nicht-öffentlich -
+- TOP 6.4.: Verkauf einer städt. Immobilie: Hanauer Straße - nicht-öffentlich -
+- TOP 6.5.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Leipziger Str. 39: Absolutes Haltverbot 2. Anfahrtsmöglichkeit für die Kita Riesstr. 49
+- TOP 6.6.: Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen; hier: in der Waldhornstraße im Abschnitt zwischen Allacher Straße und Manzostraße
+- TOP 6.7.: Christbaumverkauf auf stadteigenem Grundstück: Allacher Straße / Ecke Sickingerstraße
+- TOP 7.1.: Kultur- und Bürgerhaus Moosach, Pelkovenschlössl, zum WLAN-Hotspot ausbauen [BA-Antrag Nr. 14-20/ B 05122; interne Vormerkung für Planungen zum Ausbau von M-WLAN im Stadtgebiet; Verwaltungsauftrag dafür notwendig]
+- TOP 7.2.: Aufstellen von Fahrradständern nähe Trambahnhaltestelle "Hugo-Troendle-Straße", 10. Stb. (Linie 20) [BA-Antrag Nr. 14-20/ B 05124; auf dem Gehweg am Rand zur Grünfläche werden 7 Fahrradständer in Schrägaufstellung errichtet.]
+- TOP 7.3.: Funktionalität des Brunnens "Ultramarin" am Moosacher Stachus [Verschmutzung des Brunnens war Ursache der technischen Probleme; Einzelanfertigung eines defekten Filters war notwendig].
+- TOP 7.4.: Zwischennachricht: Sitzgelegenheiten und Fahrradständer an der Bushaltestelle Westfriedhof [Konsens mit Baureferat notwendig, da Fahrradständer zugunsten neuer Sitzbänke verlegt werden müssen.]
+- TOP 7.5.: Situierung der geplanten Kita im Neubauprojekt der GWG Gubestr.27-37 [erneute Überprüfung zu BV-Empfehlung Nr. 14-20/E 01760; Neuplatzierung hätte Verzögerung der Gesamtbaumaßnahme zur Folge; jedoch können noch weitere Räumlichkeiten für Bewohneraktivitäten im östlichen Teil des Quartiers angedacht werden.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Erinnerungsverfahren (§ 6.1 AufgrO): 1. Gehbahn Baldurstraße vor Friedhof 2. Sanierung Radweg Saarlouiser Str. 37 bis 79
+- TOP 8.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Ohlauer Straße: Einrichtung STOP 2. Pfeilschifterstraße: Errichtung eines absoluten Haltverbots 3. Höhenbeschränkung des Sapporobogens unter der Unterführung Landshuter Allee
+- TOP 8.5.: Neubau einer Lichtsignalanlage: Knotenpunkt Goerg-Brauchle-Ring / Busbetriebshof
+- TOP 8.6.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 8.7.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 8.8.: (U) Trinkwasserbrunnen
+- TOP 8.9.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 8.10.: (U) Straßenbenennung im 10. Stadtbezirk Moosach Alma-Siedhoff-Buscher-Weg
+- TOP 8.11.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 8.12.: Aufhebung eines personenbezogenen Behindertenparkplatzes Riesstraße - nicht-öffentlich -
+- TOP 8.13.: Zweckentfremdung von Wohnraum durch Abbruch: Leipziger Straße - nicht-öffentlich -
+- TOP 8.14.: Mitteilung über ein Grundstücksgeschäft: Kauf eines Flurstückes - nicht-öffentlich -
+- TOP 8.15.: WEB - alle Anträge vom 16.09. bis 15.10.2018 - nicht-öffentlich -
