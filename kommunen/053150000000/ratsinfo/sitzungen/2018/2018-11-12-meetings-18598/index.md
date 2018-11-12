@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-12T17:08:00+01:00
+- Ende: 2018-11-12T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18598
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18598
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00689674.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00689674.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00689674.pdf
+
+## Tagesordnung
+
+- TOP -: TOP A Bericht der Shell - Überprüfung Sicherheitsmanagementsystem und Sachstand Sanierung Kerosinschaden - zurückgestellt
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sanierung und Verbesserung maroder Parkplätze auf der Schwalbacher- und Kierberger Straße - Kenntnis genommen
+- TOP 7.1.2: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates der Fraktion „Bündnis 90/Die GRÜNEN“ zur Sitzung der Bezirksvertretung Rodenkirchen am 17.09.2018 - AN/1128/2018 - Kenntnis genommen
+- TOP 7.1.3: Bericht der gpaNRW zur Kostenübernahme "Wohnraum für Geflüchtete" - Kenntnis genommen
+- TOP 7.1.4: Nachfragen zum Flächenbericht der Gebäudewirtschaft der Stadt Köln 2017 (0713/2018) - Objekt Raderthalgürtel 3 - Beantwortung einer mdl. Nachfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen am 17.09.2018 - Kenntnis genommen
+- TOP 7.1.5: Abstellen von Fahrrädern im öffentlichen Straßenland - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Aktuelle Hitzeperiode Frühjahr / Sommer 2018: Verluste im städtischen Straßenbaumbestand, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.4: Objekt Hitzeler Str. 125 in Köln-Raderthal, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Bauvorhaben "Auf der Ruhr 17" in Weiß, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Aktualisierung: Stadtbezirksübergreifende Schulbesuche / Schülerwanderungsbewegungen, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Aktueller Stand der Planungen für die Interimsbegegnungsstätte in Meschenich, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Herstellung eines Sportplatzes für den SV Godorf auf dem dafür definierten Grundstück, Gemeinsamer Antrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.2: Gutachten zum Großmarkt, Beihilferecht der Europäischen Union, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.3: Jet-Ski: Sonntagsfahrverbot, Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - zurückgestellt
+- TOP 8.1.4: Verhinderung einer weiteren Bebauung im Bereich des Herrenhauses des ehemaligen Körberhofes in Köln-Weiß, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.4.1: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 8.1.5: Shell Rheinland-Raffinerie: Überprüfung Sicherheitsmanagement, Statusbericht, Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.6: Mitteilung bei Überschreitungen der Kosten für Abriss und Neubau der Flüchtlingsunterkunft in K-Godorf - ungeändert beschlossen
+- TOP 8.1.7: Hinweisschilder zum Finkens Garten, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.8: Artenreiche Blumenwiese: Anlage und Pflege, Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.8.1: Änderungsantrag der CDU-Fraktion zu Top 8.1.8 AN/1422/2018 - zurückgestellt
+- TOP 8.1.9: Sirenenalarm bei Gefahrwetterlagen im Stadtbezirk Köln-Rodenkirchen, Antrag der FDP-Fraktion - zurückgestellt
+- TOP 8.1.10: Neue Ordnung des Straßenraumes der Hitzeler Straße zwischen Urfelder Straße und Impekovener Straße in Köln-Raderthal, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.11: Trinkwasserbrunnen: - geändert beschlossen
+- TOP 8.1.12: Begrünung der Dächer öffentlicher Gebäude in Rodenkirchen, Antrag der SPD-Fraktion - zurückgestellt
+- TOP 8.1.13: Bahnhofsareal in Sürth: Bericht über Planungsstand, Antrag Fraktion Die Grünen mit Beitritt der CDU-Fraktion - zurückgestellt
+- TOP 8.1.13.1: Stellungnahme der KVB zu Bahnhofsareal in Sürth: Bericht über Planungsstand - zurückgestellt
+- TOP 8.1.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.15: Schließung der Stadtteilbibliothek Köln-Rodenkirchen wegen Umbaumaßnahmen, Dringlichkeitsantrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.16: Einschränken der Abbiegebeziehungen an der Ecke Adam-Riese-Straße / Unter den Birken, Gemeinsamer Dringlichkeitsantrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.17: KVB-Haltestelle "Kirschbaumweg": Erhöhung der Sicherheit mittels Zebrastreifen, Dringlichkeitsantrag aller Fraktionen - ungeändert beschlossen
+- TOP 8.1.18: Altglas-Container: besserer Standort am Pflasterhofweg in Weiß, Dringlichkeitsantrag der Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Nachträgliche Genehmigung der Dringlichkeitsvorlage: Ordnungsbehördliche Verordnung für 2018 über das Offenhalten von Verkaufsstellen im 2. Halbjahr 2018 - ungeändert beschlossen
+- TOP 9.1.2: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.2.1: Ergänzungsantrag der Fraktion Die Grünen - zurückgestellt
+- TOP 9.1.3: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Rodenkirchen zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - zurückgestellt
+- TOP 9.1.4: Vergabe der bezirksorientierten Mittel 2018 gemäß § 37 Absatz 3 GO NW - 3. Runde - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - zurückgestellt
+- TOP 9.2.1.1: Parkstadt Süd, Integrierte Planung - hier Ergänzungsantrag Rahmenplanungsbeirat - zurückgestellt
+- TOP 9.2.1.2: Änderungsantrag der Fraktion Die Grünen - zurückgestellt
+- TOP 9.2.2: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert empfohlen
+- TOP 9.2.3: Planungsbeschluss zur Errichtung von Neubauten für eine Gesamtschule und zwei Grundschulen im Neubaugebiet Rondorf Nord-West - ungeändert empfohlen
+- TOP 9.2.4: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg, 50997 Köln-Rondorf - Baubeschluss - ungeändert empfohlen
+- TOP 9.2.5: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ungeändert empfohlen
+- TOP 9.2.6: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert empfohlen
+- TOP 9.2.7: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert empfohlen
+- TOP 9.2.8: Generalsanierung Zaunhofstraße Köln-Meschenich - mit Änderungen empfohlen
+- TOP 9.2.9: Beschluss zur Neufestlegung des Gebiets der "Sozialen Stadt" für Meschenich und Rondorf im Rahmen des Programms Starke Veedel Starkes Köln - mit Änderungen empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 10.2.2: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 10.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.4: Entsiegelung von Flächen auf dem Friedhof Steinneuerhof - Kenntnis genommen
+- TOP 10.2.5: Rohrleitungsschaden Naphtha - Kenntnis genommen
+- TOP 10.2.6: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.7: Frischezentrum - Sachstand - Kenntnis genommen
