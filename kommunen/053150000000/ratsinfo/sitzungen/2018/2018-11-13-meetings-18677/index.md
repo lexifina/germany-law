@@ -1,0 +1,78 @@
+# 40. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-13T16:05:00+01:00
+- Ende: 2018-11-13T18:18:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18677
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18677
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00688022.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00688022.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00688022.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung einer Sachkundigen Einwohnerin
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Großräumige „Autofreie Tage“ in Köln einführen - zurückgestellt
+- TOP 1.1.1: Autofreie Tage – Stadtgesellschaft und Verwaltung Hand in Hand (ÄA zu TOP 3.1.2) - zurückgestellt
+- TOP 1.2: Verkehrswende voranbringen – ÖPNV attraktiver machen: durchgehenden Betrieb der Linie 13 am Wochenende einrichten! - geändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Eifelwall: Einrichtung einer Fahrradstraße - zurückgestellt
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Änderung der Verkehrsführung im Knotenpunkt Bergisch Gladbacher Straße/Buschfeldstraße/Johann-Bensberg-Straße - geändert beschlossen
+- TOP 3.2: Verkehrsversuch Bayenthal/Marienburg - geändert beschlossen
+- TOP 3.3: Aufhebung der Klassifizierung der K1 Niehler Damm und Teil der Bremerhavener Straße in Köln-Niehl/Nippes - zurückgestellt
+- TOP 3.4: Baubeschluss für die Umgestaltung des Kreuzungsbereiches Rolshover Straße/Kalker Hauptstraße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-1096, Rolshover - im ersten Durchgang verwiesen
+- TOP 3.5: Sanierung des Knotenpunktes Ostheimer Straße/Vingster Ring - im ersten Durchgang verwiesen
+- TOP 3.6: Baubeschluss für die Instandsetzung der Industriestraße im Bereich zwischen der Brücke über die BAB 1 bis zur Auffahrt von der Edsel-Ford-Straße - im ersten Durchgang verwiesen
+- TOP 3.7: Förderkonzept "Lastenräder für Köln" - ungeändert beschlossen
+- TOP 3.7.1: Förderkonzept „Lastenräder für Köln“ – Antragstellung auch für Familien öffnen! - endgültig abgelehnt
+- TOP 3.8: Bedarfsfeststellungsbeschluss zur Systemertüchtigung des Kernsystems Verkehrsmanagement sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6400-1201-0-0008, Upgrade Verkehrsmanagementsystem - ungeändert beschlossen
+- TOP 3.9: Einrichtung eines stadtweiten Fahrradverleihsystems (KVB-Rad) - ungeändert beschlossen
+- TOP 3.10: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - zurückgestellt
+- TOP 4.2: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 4.3: Satzung über die abweichende Herstellung der Erschließungsanlage Bergstraße von Ober Buschweg bis Haus-Nr. 50 ausschließlich (Grenze zum vorhandenen Teil) in Köln-Sürth - ungeändert empfohlen
+- TOP 4.4: Erneuerung Asphaltdecke Zoobrücke, hier: Mitteilung über die Erhöhung der Investitionsauszahlungen gem. §24 Abs. 2 GemHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - ungeändert empfohlen
+- TOP 4.5: Umgestaltung des Knotenpunktes Neusser Landstraße/Oranjehofstraße in einen Kreisverkehr, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, - ungeändert empfohlen
+- TOP 4.6: Umgestaltung des Chlodwigplatzes, hier: Mitteilung über eine weitere Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, Wege, Plätze - bei der Finanzstelle 6601-1201-0 - ungeändert empfohlen
+- TOP 4.7: Generalinstandsetzung der Troisdorfer Straße, hier: Mitteilung über eine Kostenerhöhung gem. §24 Abs. 2 GemHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - ungeändert empfohlen
+- TOP 4.8: Siebzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - zurückgestellt
+- TOP 4.9: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.10: Ost-West-Achse: Entscheidung über die Vorzugsvariante und Vorbereitung eines Planungs- und Bedarfsfeststellungsbeschlusses - im ersten Durchgang verwiesen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Anfrage zu Ausfällen von Bussen und Bahnen der KVB - Sache ist erledigt
+- TOP 5.1.2: Mobilitätsverhalten der Kölnerinnen und Kölner - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Anfrage des Seniorenvertreters Meurers vom 06.10.2018 betr. Chlodwigplatz - Sache ist erledigt
+- TOP 5.2.1.1: Chlodwigplatz - Kenntnis genommen
+- TOP 5.2.2: Anfrage der Ratsgruppe BUNT vom 30.10.2018 betr. E-Tretroller sausen bald durch Köln – ist die Stadtverwaltung darauf vorbereitet? - Sache ist erledigt
+- TOP 5.2.3: Anfrage der Ratsgruppe GUT vom 31.10.2018 betr. Velosichere Schienen für Köln - zurückgestellt
+- TOP 5.2.4: Sachstand, Terminierung und geplantes Vorgehen bei der Erstellung einer städtischen Stellplatzsatzung - Sache ist erledigt
+- TOP 5.2.5: Radschnellwege für Köln - Sache ist erledigt
+- TOP 5.2.6: Fahrradmitnahme bei der KVB - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Parkhäuser in der Stadt Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: Stadtbahnverlängerung Widdersdorf-Brauweiler - Sache ist erledigt
+- TOP 6.3: Spielen Lufttaxis (vertikaler Personennahverkehr) bei den Planungen rund um eine kommunale Stellplatzsatzung eine Rolle? - Sache ist erledigt
+- TOP 6.4: Entwicklung eines Wasserbussystems auf dem Rhein – Welchen Fortschritt gibt es zur sinnvollen Ergänzung unseres ÖPNV-Angebotes? - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 7.2: Busverbindung vom Rheinauhafen zur Haltestelle Severinstraße - Kenntnis genommen
+- TOP 7.3: Neue Stabsstelle Stadtbau im Quartier | Domumfeld mit Wirkung vom 01. März 2018 - Kenntnis genommen
+- TOP 7.4: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 7.5: Radverkehrskonzept Innenstadt - Piktogrammkette - Kenntnis genommen
+- TOP 7.6: Bericht über den Ausgang des verwaltungsgerichtlichen Verfahrens "Bezirksvertretung Köln-Nippes gegen den Rat der Stadt Köln", VG Köln, Az. 4 L 1346 und 4 K 4391/18 - Kenntnis genommen
+- TOP 7.7: Bürgerbefragung Ost-West-Achse - Kenntnis genommen
+- TOP 7.8: Verwendung der Stellplatzablösemittel im Jahr 2017 - Kenntnis genommen
+- TOP 7.9: Umsetzungsstand des Radverkehrskonzeptes Innenstadt - Kenntnis genommen
+- TOP 7.10: Breslauer Platz/Goldgasse - neue Haltestellenstandorte - Kenntnis genommen
+- TOP 7.11: Bericht über die Informationsreise nach Wien am 06./07.09.2018 - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
