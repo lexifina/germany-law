@@ -1,0 +1,121 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2018-11-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4602383
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4602383
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Unterrichtungen (siehe Anlage)
+- TOP 7.: Bericht des Vorsitzenden
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP 1.8.: Bürgeranliegen, Ampelschaltung an der Kreuzung Liebig-/Oettingen-/Sternstraße
+- TOP A: Allgemeines
+- TOP B: Planen, Bauen, Wohnen
+- TOP 1.1.: „Was wurde aus dem beschlossenen Bebauungsplan für die Corneliusstraße zwischen Müllerstraße und Blumenstraße?“
+- TOP 3.1.1.: Frauenplatz 7: Umgestaltung der Gastraumflächen (keine Erweiterung)
+- TOP 3.1.2.: Ländstraße 6: Nutzungsänderung eines Wohnheims in ein Boardinghaus und Wohnheim
+- TOP 3.1.3.: Tal 32: Nutzungsänderung: Einzelhandels- und Ausstellungsfläche 1. OG in Tanzstudio mit interner Bar
+- TOP 3.1.4.: Josephspitalstraße 3: VORBESCHEID: Umbau und Sanierung eines Hotels mit Nutzungsänderung zu einem Wohngebäude und Anbau eines Rückgebäudes - Baumbestandsplan (Ergänzung zur Anhörung 2018.10 B 3.1.1)
+- TOP 3.1.5.: Blumenstraße 6: Nutzungsänderung 1. + 2. OG Kopfbau Süd zu Büroflächen
+- TOP 3.1.6.: Frauenplatz 7: Baumfällung im Zuge der Bauarbeiten „Andechser am Dom“, Nachfrage der UNB
+- TOP 3.2.1.: Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum, Sachstand und weiteres Vorgehen, vertagt aus 2018.10, TOP B 3.2.1
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Nächtliche Verunreinigungen in der Hofeinfahrt des Kindergartens St. Peter, Müllerstraße 48
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Erweiterung einer Freischankfläche, „Bar Comercial“, Theatinerstraße 16
+- TOP 2.3: Sonstige
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Festzug 125 Jahre Trachtenverein Chiemgauer Mǘnchen am 11.05.2019
+- TOP 3.1.2.: Straßensammlung der BRH-Rettungshundestaffel am 15.12.2018
+- TOP 3.1.3.: St.-Jakobs-Platz: Chanukka-Feier am 09.12.2018 und Aufstellen eines Chanukka- Leuchters ab 28.11.2018
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Antrag auf Genehmigung einer Freischankfläche, Frauenplatz 7 (vertagt aus 10/18)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen: Ablehnung der Umwandlung in eine Fahrradstraße – Mannhardtstraße, Anfang Adelgrundenstraße
+- TOP 1.2.: Bürgeranliegen, Baumfällung an der Eisbachbrücke, Prinzregentenstraße
+- TOP 1.3.: Bürgeranliegen, Radschnellweg Ludwig-/Leopoldstraße
+- TOP 1.4.: Bürgeranliegen, Totenkopf-Badeverbotsschilder am Wehrsteg
+- TOP 1.5.: Öffnung der Westenriederstraße zwischen Viktualienmarkt und Frauenstraße für den gegenläufigen Radverkehr
+- TOP 1.6.: Öffnung der Liebherrstraße zwischen Zweibrückenstraße und Ländstraße für den gegenläufigen Radverkehr
+- TOP 1.7.: Verkehrsberuhigter Geschäftsbereich Herzog-Wilhelm-Straße zwischen Oberanger und Kreuzstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Nutzbarmachung von Parkplätzen im Lehel, die durch Baustellen belegt sind
+- TOP 3: Anhörungen
+- TOP 3.1.: Antrag auf Baumfällung, Herzog-Wilhelm-Straße 21
+- TOP 3.2.: Umsetzung von E-Parken in City2Share, Angertorstraße 7
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ Az.: 0262.0-1-0146
+- TOP 2.2.: (E) Stadtbezirksbudget Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e.V. Konzerte vom 07.10.2018 - 01.01.2019 2.450,00€ Az: 0262.0-1-0141
+- TOP 3: Anhörungen
+- TOP 3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 6: Unterrichtungen - Allgemeines
+- TOP A 6.1.: Einhaltung der Anhörungsfrist – OB-Schreiben an die Referate
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: (U) Platzl – Wege zum Hofbräuhaus mit neuem Verfahren barrierefrei gestalten - Bekanntgabe -
+- TOP B 4.3.: Antwortschreiben der Verwaltung des Englischen Gartens München: „Sanierung des Milchhäusl im Englischen Garten mit Unterkellerung“
+- TOP B 4.4.: Referatsschreiben zu Bauvorhaben Residenzstraße 3 (Vorbescheid)
+- TOP B 4.5.: Beteiligung der Öffentlichkeit zum Bebauungsplan mit Grünordnung Nr. 2126 – Entwicklungscampus Königingstraße – Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität: Erörterungstermin: 06.11.2018
+- TOP B 4.6.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP B 4.7.: (U) Sendlinger Straße zwischen Hackenstraße und Herzog-Wilhelm-Straße im 1. Stadtbezirk Altstadt - Lehel Umgestaltung in eine Fußgängerzone Projektkosten (Kostenobergrenze): 3.500.000 € 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022
+- TOP B 4.8.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP B 4.9.: Baugenehmigung für Altenhofstraße 4: Umbau und Sanierung mit Aufstockung und Teilnutzungsänderung in Einzelhandel mit Verwaltung und 5 Wohneinheiten
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Eilentscheidung zur Anhörung „KI_L_MUC_SA_R“ (temporäre Kunst im öffentlichen Raum) vom 19.10 bis 16.11.2018 auf dem Vorplatz des Museum Fünf Kontinente
+- TOP C 4.4.: Referatsschreiben zu Bürgeranliegen „Lärmbeschwerde Gaststätte „Tattenbach““
+- TOP C 4.5.: Trinkwasserbrunnen, Sitzungsvorlage Nr. 14-20 / V 12133
+- TOP C 4.6.: Antwortschreiben der Augustiner-Bräu München zur Lärmbeschwerde Gaststätte Tattenbach
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Verkehrsrechtliche Anordnung: Tempo 30 vor dem Luitpold-Gymnasium, Seeaustraße
+- TOP D 4.2.: Verkehrsrechtliche Anordnungen im Rahmen der Sanierung des U-Bahnhofs Sendlinger Tor
+- TOP D 4.3.: Arbeiten im Straßenraum, Stromtrassenbaustelle Blumenstraße 19
+- TOP D 4.4.: Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt, Sitzungsvorlage Nr. 14-20 / V 09512
+- TOP D 4.5.: Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen, Sitzungsvorlage Nr. 14-20 / V 10857
+- TOP D 4.6.: Referatsschreiben zu Bürgeranliegen „Ausbau Fahrradabstellplätze im Bereich Prannerstraße 10“
+- TOP D 4.7.: Schreiben des Bezirksausschuss 3 – Maxvorstadt zu Bürgeranliegen „Radweg Dachauer Straße/Residenzstraße“
+- TOP D 4.8.: Verkehrsrechtliche Erlaubnis: Marienhof Phase 3a Errichtung Lärmschutzwand
+- TOP D 4.9.: Arbeiten im Straßenraum, Odeonsplatz: Oberflächenwiederherstellung am Schachtbauwerk für Fernkälte
+- TOP D 4.10.: Verkehrsrechtliche Anordnung: Öffnung der Kobellstraße für gegenläufigen Radverkehr
+- TOP D 4.11.: Querung Thierschstraße / Mariannenplatz, Zwischennachricht zu TOP 2018.10 D 1.4
+- TOP D 4.12.: Arbeiten im Straßenraum: Fernwärme Maximiilansplatz und Prannerstraße, 3. Änderung
+- TOP D 4.13.: Arbeiten im Straßenraum: Fernwärmeleitung Isartorplatz 1-8
+- TOP D 4.14.: Kanalsanierung Thierschstraße/Mariannenplatz: Verlängerung der Ausnahmezulassung für Nachtarbeiten am 13./14.11. und 15./16.11.2018
+- TOP D 4.15.: Sanierung der Fahrbahn Stollbergstraße, zwischen Maximilian- und Hildegardstraße
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.1.: Maximiliansforum – zukunftsfähige Sanierung, Sitzungsvorlage Nr. 14-20 / V 12883, u.a. Erledigung des BA-Antrags Nr. 14-20 / B 01983 vom 16.03.2010
