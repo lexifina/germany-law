@@ -1,0 +1,7 @@
+# TOP F.3.: Tagungsörtlichkeit Bürgerversammlung 2019
+
+- Sitzung: BA 03 - Vollgremium (2018-11-13)
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/656423
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/656423
