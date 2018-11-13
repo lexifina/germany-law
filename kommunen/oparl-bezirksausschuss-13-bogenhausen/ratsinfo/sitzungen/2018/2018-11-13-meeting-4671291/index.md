@@ -1,0 +1,153 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4671291
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4671291
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.2.6.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.8.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 2.2.1.: Nichtöffentlicher Teil - abgesetzt
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.2.: Protokoll der Sitzung vom 09.10.2018
+- TOP 2.2.2.: Münchner Nordosten - Eckdatenbeschluss - Entwurf der Beschlussvorlage; Anhörung des Referats für Stadtplanung und Bauordnung vom 13.09.2018
+- TOP 2.2.3.: Eckdatenbeschluss Münchner Nordosten: Einleitung des Planfeststellungsverfahrens für die Verlängerung der U-Bahnlinie 4 bis zur Messestadt West; Antrag der SPD-Fraktion vom 26.09.2018
+- TOP 2.2.4.: Eckdatenbeschluss Münchner Nordosten: textliche Änderungen; Antrag der SPD-Fraktion vom 19.10.2018
+- TOP 2.2.5.: SEM Münchner Nordosten: Änderung des Umgriffs - Standort für zweite Realschule; Antrag vom 30.10.2018
+- TOP 2.3.1.: Grosjeanstr., Oberföhringer Str.: Austausch von Lichtsignalanlagen; Anhörung des Kreisverwaltungsreferates vom 18.10.2018
+- TOP 2.3.2.: Oberföhringer Str./Schule: Austausch von Lichtsignalanlagen; Anhörung des Kreisverwaltungsreferates vom 18.10.2018
+- TOP 2.3.3.: Geschwindigkeitsreduzierung auf 30 km/h vor sensiblen Einrichtungen in der Vollmannstraße; Anhörung des Kreisverwaltungsreferates vom 30.10.2018
+- TOP 2.3.4.: Versailler Straße (nordöstlichen Einmündung in die Prinzregentenstraße): Anordnung der Gefahrenzeichen "Lichtzeichenanlage" und "Rechtspfeil"; Unterrichtung des Kreisverwaltungsreferates vom 24.09.2018
+- TOP 2.3.5.: Fußgängerüberweg Prinzregenten-/Versaillerstr.: Optimale Schulwegsicherheit zur Ernst-Reuter-Schule; Antwort des Kreisverwaltungsreferates vom 12.10.2018
+- TOP 2.3.6.: Tempo 30 in der Eggenfeldener Straße von der Weltenburger Straße bis zur Rappelhofstraße (versuchsweise für ein Jahr); Antrag von Bündnis 90/Die Grünen, ÖDP und VCD (vertagt am 09.10.2018, TOP 2.3.16)
+- TOP 2.3.7.: Mehr Personal für die Polizei in Bogenhausen; Antrag der SPD-Fraktion vom 29.10.2018
+- TOP 2.3.8.: Möglichkeiten und Beispiele zur Verkehrsverbesserung (insbesondere Buslinien); Bürgeranliegen vom 09.10.2018
+- TOP 2.3.9.: Weltenburger Str.: Einrichtung eines Fußgängerüberwegs vor dem TV Jahn; Bürgeranliegen vom 08.09.2018 (vertagt am 09.10.2018, TOP 2.3.19)
+- TOP 2.3.10.: Parken am Gehweg an der Bushaltestelle Cosimastr./Fritz-Meyer-Weg; Bürgeranliegen vom 20.09.2018 (vertagt am 09.10.2018, TOP 2.3.20)
+- TOP 2.3.11.: Verbesserung der Verkehrslage in der Einmündung Denninger Str. in Bülowstr./ Verbesserung der Verkehrslage an der Kreuzung Denninger Str. mit Vollmann-/Weltenburger Str.; Bürgeranliegen vom 12.10.2018
+- TOP 2.3.12.: Bessere Linienführung der Buslinie 150; Bürgeranliegen vom 17.10.2018
+- TOP 2.3.13.: Straßenschild Memeler Straße Ecke Englschalkinger Straße/ beidseitig zugeparkten kleinen Straßen zwischen Westpreußen- und Ostpreußenstr.; Bürgeranliegen vom 08.10.2018
+- TOP 2.3.14.: Verkehrslage Kreuzung Cosimastraße/Johanneskirchner Straße; Bürgeranliegen vom 27.09.2018
+- TOP 2.3.15.: Bitte um fußgängerfreundliche Schaltung der Ampel an der Denninger Str. 98; Bürgeranliegen vom 25.10.2018
+- TOP 2.3.16.: Einrichtung eines Zebrastreifens in der Buschingstraße/ Schreberweg Ecke AWO Kindergarten; Bürgeranliegen vom 25.10.2018
+- TOP 2.3.17.: Überdachung der Bushaltestelle Hermann-Gmeiner-Weg Richtung Daglfing - Buslinie 183; Bürgeranliegen vom 29.10.2018
+- TOP 2.3.18.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.19.: Verschiedenes, Termine
+- TOP 2.3.20.: Neue Busspur in der Prinzregentstraße - Anfrag; Antrag der SPD-Fraktion vom 01.11.2018 (Nachtrag) - zurückgezogen
+- TOP 2.4.1.: Zuwendung aus dem Budget der Bezirksausschüsse Antrag des Vereins Malteser Hilfsdienst e.V. Anschaffung eines Mehrzweckfahrzeuges Bitte um Verlängerung des Bewilligungszeitraums bis 30.06.2019 aufgrund der Lieferzeit des Fahrzeuges; Anhörung des Direktoriums vom 27.09.2018
+- TOP 2.4.2.: Bereitstellung nicht verbrauchter Mittel aus dem Vorjahren; Unterrichtung des Direktoriums vom 28.09.2018
+- TOP 2.4.3.: Überprüfung, sowie neue sinnvolle, ergonomische Einteilung des Wahlgebietes je Wahllokal; Bürgeranliegen vom 17.10.2018
+- TOP 2.4.4.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.5.: Verschiedenes, Termine
+- TOP 2.5.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019; Anhörung des "Spielen in der Stadt e.V." vom 16.10.2018
+- TOP 2.5.2.: Modernisierung der Freisportanlagen an der Bezirkssportanlage Fritz-Lutz-Str. 23; Unterrichtung des Referates für Bildung und Sport
+- TOP 2.5.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.4.: Verschiedenes, Termine
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Max-Nadler-Str. 4-8: lt. Plan Hugo-von-Hofmannsthal-Str. 9: lt. Plan Flensburger Str.: lt. Plan Gellerstr.: lt. Plan Eylauer Str. 11: lt. Plan Am Hierlbach 40: lt. Plan Isolde-Kurz-Str. 4: lt. Plan Kunihohstr. 7: lt. Plan Neufahrner Str. 21: lt. Plan Delpstr.: lt Plan König-Heinrich-Str. 19: 1 Buche Krenklstr. 24a: 1 Fichte Marienburger Str. 7: 1 Fichte Max-Zenger-Sr. 4a: 2 Birken Dirschauer Str. 7a: 1 Birke Steinhauser Str. 31:1 Gewöhnliche Robinie, 2 Hänge-Birken Steinhauser Str. 34 - 54: 5 Mehlbeere, 1 Schwarzkiefer Pienzenauerstr. 22: 2 Spitzenahorn, 1 Esche Spretistr. 27- 29: 2 Fichten, 1 Kiefer Stargarderstr. 11: 1 Fichte Steinhauser Str. 33: 2 Hänge Birken Stuntzstr. 17 - 43: 1 Spitzahorn Stuntzstr. 45 - 53: 1 Linde Widderstraße 13: 1 Rosskastanie Buschingstr. 6: 1 Birke Elektrastr. 18 - 26a: 1 Baum Franz-Werfel-Str. 19: 1 Weide Ebersberger Str. 25: 1 Baum Neufahrner Str. 20: 1 Esche Possartstr. 14: 1 Ahorn Alsenweg 4: 3 Fichten Flemingstr. 65: 1 Gemeine Esche Musenbergstr. 4: 1 Birke Denninger Str. 6 - 10: 2 Nadelbäume Alsenweg 4: Baumbestandsplan Meistersingerstr. 154:2 Linden Agnes-Miegel-Str. 7: 1 Kiefer Eugen-Jochum-Straße: Baumbestandsplan Stradellastraße: Baumbestandsplan Schönbergstr. 8: 1 Linde Mauerkircher Str. 14: 1 Sandbirke Marienwerder Str. 12b: 1 Eibe
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Kunihohstr. 29 Oberföhringer 14-16 Elektrastr. 17
+- TOP 2.6.3.: Zukünftige Regelung für Baumfällungen (z. B. Anzahl der Bäume, Stammumfang)
+- TOP 2.6.4.: Neugestaltung Herkomerplatz - Ortstermin am 07.11.2018
+- TOP 2.6.5.: Vereinigung des Platzes der Deutschen Einheit; Antrag der CSU-Fraktion vom 24.09.2018
+- TOP 2.6.6.: Baumfällung in der Traberstraße 4; Bürgeranliegen vom 16.10.2018
+- TOP 2.6.7.: Straßenbäume - Flensburger Straße stadtauswärts; Bürgeranliegen vom 22.10.2018
+- TOP 2.6.8.: Konzeptentwurf: Fachtagung Vogelschutz in Bogenhausen; (vertagt am 09.10.2018, TOP 2.6.4)
+- TOP 2.6.9.: Schutz der Singvogelpopulation in Bogenhausen stärken (vertagt am 09.10.2018, TOP 2.6.5)
+- TOP 2.6.10.: Vogelschutz in Bogenhausen: Konkrete Maßnahmen (vertagt am 09.10.2018, TOP 2.6.6)
+- TOP 2.6.11.: Vogelpopulation erhalten (vertagt am 09.10.2018, TOP 2.6.7)
+- TOP 2.6.12.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.13.: Verschiedenes, Termine
+- TOP 3.2.1.: Einstellung des Eckdatenbeschlusses bis zur Klärung der Tieferlegung; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 3.2.2.: Tieferlegung S-Bahn als unabdingbare Voraussetzung; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 3.2.3.: Darstellung verschiedener Nutzungsdichten; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 3.2.4.: Sicherstellung der Infrastruktureinrichtungen; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 3.2.5.: Reduzierung der Arbeitsplätze; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 3.2.6.: Einbeziehung der topografischen Gegebenheiten; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 3.2.7.: Ergänzende Punkte für die Stellungnahme des Bezirksausschuss 13 zum Eckdatenbeschluss SEM Nordost; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 09.11.2018 (Nachtrag)
+- TOP 3.2.8.: Ergänzungsanträge zum Eckdatenbeschluss SEM-Wettbewerb (Landwirtschaft, Seilbahnverbindung, Eigentümerstruktur); Antrag der Fraktion DaCG/ÖDP vom 12.11.2018 (Nachtrag)
+- TOP 3.2.9.: Erhalt des Pferdesports; Antrag der CSU-Fraktion vom 08.11.2018 (Nachtrag)
+- TOP 5.1.: Josef-Thalhammer-Str. 26: Martinsfeier am 08.11.2018; Anhörung des Kreisverwaltungsreferates vom 16.10.2018 - Zustimmung an das Kreisverwaltungsreferat per Mail am 19.10.2018-
+- TOP 5.2.: An der Cosimastraße/ Englschalkinger Str.: Nutzung als Christbaumverkaufsplatz; Anhörung des Kommunalreferats vom 05.10.2018
+- TOP 6.1.: Die Beschilderung der Stegmühlstraße soll um das Verkehrsschild "Anlieger Frei" (Nr. 1020-30) ergänzt werden
+- TOP 6.2.: Brodersenstraße: SWM-Holzmast umgehend versetzen!
+- TOP 6.3.: Es kann nicht zweierlei Recht in München geben!
+- TOP 6.4.: Wie steht der Oberbürgermeister zur SEM-Nord-Ost?
+- TOP 6.5.: Einrichtung von PKW-Parkplätzen für die Gaststätte Zamdorfer
+- TOP 6.6.: Vorschlag zur Nutzung des Grundstücks Ecke Flaschenträgerstraße und Robert-Heger-Straße
+- TOP 6.7.: BA-Sondersitzung: "Schul- und Kinderbetreuungssituation Prinz-Eugen-Park"
+- TOP 6.8.: Sachstandabfrage: Ausbau des Föhringer Rings - Erneuerung der Herzog-Heinrich-Brücke
+- TOP 6.9.: Eggenfeldener Straße: Verschiebung des Hochpunkts
+- TOP 7.1.1.: Informationsschreiben -BA 03/18 Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Unterrichtung des Direktorium vom 19.10.2018
+- TOP 7.2.1.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 7.2.2.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 7.2.3.: (U) Trinkwasserbrunnen
+- TOP 7.2.4.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 7.6.1.: (U) Öffnungszeiten der Münchner Stadtbibliothek; Evaluation der Pilotphase der Samstagsöffnung an sechs Standorten; Ausweitung auf alle Standorte der Münchner Stadtbibliothek ab 2019 in einem 2-Stufenmodell Stadtbibliothek am Rosenkavalierplatz: Öffnung auch samstags Empfehlung Nr. 14-20 / E 01781 der Bürgerversammlung des Stadtbezirkes 13 – Bogenhausen am 26.10.2017 Öffnungszeiten der Stadtbibliothek Neuhausen Empfehlung Nr. 14-20 / E 01886 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 05.12.2017
+- TOP 7.7.1.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 7.7.2.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 7.7.3.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 7.7.4.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 7.7.5.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 7.7.6.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 7.7.7.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 7.7.8.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 7.7.9.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 7.7.10.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 7.7.11.: (U) Neue Ökokonten für München
+- TOP 7.7.12.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 7.7.13.: (U) Agrastrukturelle Untersuchungen
+- TOP 7.7.14.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 7.7.15.: (U) Münchner Nordosten A) Personalbedarf B) Erhöhung Gesamtkosten Ideenwettbewerb Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem
+- TOP 7.7.16.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 7.7.17.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 7.8.1.: (U) Schulbauoffensive (SBO) 2013 -2030 Neubau des staatl. Wilhelm-Hausenstein- Gymnasiums am Standort Salzsenderweg im 13. Stadtbezirk Bogenhausen Entscheidung zur weiteren Planung und Ausführung
+- TOP 7.9.1.: (U) Einrichtung eines Quartiersmanagement in der "Städtebaulichen Entwicklungsmaßnahme" (SEM) Prinz-Eugen-Kaserne Bebauungsplan mit Grünordnung Nr. 2016 Cosimastraße, Salzsenderweg und Stradellastraße (Teiländerung des Bebauungsplanes Nr. 117) - ehemalige Prinz-Eugen-Kaserne - Stadtbezirk 13 Bogenhausen Quartiersmanagement im Neubauquartier Prinz-Eugen-Park Antrag Nr. 14-20 / A 03407 ............................................... Änderung des Mehrjahresinvestitionsprogramms 2018-2022 und ff. Bedarfs- und Konzeptgenehmigung Produkt 40367200 Quartierbezogene Bewohnerarbeit Haushaltsjahr 2019 ff.
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch, Eylauer Str. 11
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch, Wißmannstr. 11
