@@ -1,0 +1,59 @@
+# öffentliche/ nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-11-13T16:04:00+01:00
+- Ende: 2018-11-13T17:39:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12849
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12849
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00227406.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00229488.pdf
+
+## Tagesordnung
+
+- TOP 1: Wuppertal goes Europe - Präsentation
+- TOP 2: Bestellung von stellvertretenden sachkundigen Einwohnern/Einwohnerinnen für den Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 3: Jahresabschlüsse
+- TOP 3.1: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2016/2017 - ungeändert beschlossen
+- TOP 3.1.1: Entlastung des Beirates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2016/2017 - ungeändert beschlossen
+- TOP 3.2: Jahresabschluss 2017 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR) - ungeändert beschlossen
+- TOP 3.3: Jahresabschluss 2017 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3.3.1: Entlastung des Aufsichtsrats der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 4: Wirtschaftspläne
+- TOP 4.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2018/2019 - ungeändert beschlossen
+- TOP 4.2: Wirtschaftsplan 2019 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 5.1: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 30.09.2018 - Entgegennahme ohne Beschluss
+- TOP 5.2: Änderung des Gesellschaftsvertrags der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 5.3: Bestellung eines Prokuristen und Bestellung des Abschlussprüfers für die Lokalfunk Wuppertal GmbH und die Lokalfunk Wuppertal GmbH & Co. KG - ungeändert beschlossen
+- TOP 5.4: Große Anfrage der Fraktion DIE LINKE - Kosten für externe Reinigungsfimen - die Vorlage zur Beantwortung der Anfrage wird im nichtöffentlichen Teil behandelt - Entgegennahme ohne Beschluss
+- TOP 5.5: Bericht über den Vorgang Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH - vertagt auf Rat
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 8: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 8.1: Abschluss einer öffentlich rechtlichen Vereinbarung zwischen der Landeshauptstadt Düsseldorf und der Stadt Wuppertal über die Durchführung der Beihilfebearbeitung bei dauernder Pflegebedürftigkeit - ungeändert beschlossen
+- TOP 8.2: Finanzierung der Toilettenanlage ARALANDIA im Zoologischen Garten - ungeändert beschlossen
+- TOP 8.3: Engelsjahr 2020 - Weiterentwickelte Planung und Stand der Finanzierung - ungeändert beschlossen
+- TOP 8.4: Sachstand Konzept für Personal- und Organisationsentwicklung - geändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 10: Berichtsvorlagen
+- TOP 10.1: Finco-Berichte zu den Terminen 30.09. sowie 31.10.2018 - Entgegennahme ohne Beschluss
+- TOP 10.2: Stand der Schulden und Kassenkredite zum 30.09.2018 - Entgegennahme ohne Beschluss
+- TOP 10.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 10.4: Haushaltsrechliche Neuerungen durch das 2. NKF-Weiterentwicklungsgesetz NRW - Entgegennahme ohne Beschluss
+- TOP 11: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 11.1: 8. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2019 - ungeändert beschlossen
+- TOP 12: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 13: Berichtsvorlagen
+- TOP 14: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 14.1: Abberufung und Bestellung der stellvertretenden Betriebsleitung des Eigenbetriebs Wasser und Abwasser WAW - ungeändert beschlossen
+- TOP 15: Berichte und Mitteilungen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 28: Aufhebung und Vertagung der Beschlüsse zur Entlastung der Organe der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - vertagt auf Rat
