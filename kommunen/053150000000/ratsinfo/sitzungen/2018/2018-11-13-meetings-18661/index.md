@@ -1,0 +1,56 @@
+# 32. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-13T15:30:00+01:00
+- Ende: 2018-11-13T19:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18661
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18661
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00682395.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00682395.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00682395.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten; hier: Filmkultur - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Änderung der Förderfristen für Kunst- und Kulturprojektförderung des Kulturamtes - ungeändert beschlossen
+- TOP 4.2: Vergabe der Fördermittel im Schwerpunkt "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.3: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, Teil 2 - ungeändert empfohlen
+- TOP 4.4: Gewährung von Zuschüssen für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.5: Erstellung und Integrierung eines Crowdsourcing- und Identifizierungstool in die Software ACTApro - ungeändert beschlossen
+- TOP 4.6: Sanierung Orangerie im Volksgarten - ungeändert empfohlen
+- TOP 4.7: Verteilung der disponiblen Mittel aus dem Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" ab Haushalt 2019 - ungeändert empfohlen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung von 20 Gemälden, 263 Zeichnungen, 107 Aquarellen und 48 Druckgrafiken des jüdischen Kölner Malers Otto Schloss - ungeändert empfohlen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Mitteilung der Verwaltung zur Anfrage der FDP-Fraktion betr.: "Autonomes Zentrum - Sachstandsbericht über den Dialog zur Alternativstandortfrage" - Kenntnis genommen
+- TOP 8.2: Neues Kommunales Gesamtkonzept Kulturelle Bildung und Bewerbung um Fördergelder - Kenntnis genommen
+- TOP 8.3: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 8.4: Energieeinsparung durch Sanierung der Beleuchtungsanlagen im Museum für Ostasiatische Kunst - Kenntnis genommen
+- TOP 8.5: Entwicklungen im Bereich Ehrenfeld; 2309/2018; mündl. Nachfrage - Kenntnis genommen
+- TOP 8.6: Pilotphase Systematische Öffentlichkeitsbeteiligung - Auswahl des Pilotprojektes im Bereich Kultur - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR- Jüdisches Museum im Archäologischen Quartier Köln, Stand 26.10.18 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv
+- TOP 9.3: Generalsanierung Zentralbibliothek, Josef-Haubrich-Hof 1; Projektstatusbericht
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Nachfragen der Fraktion Bündnis 90/Die Grünen - zu 1690/2018 - betr.: "Kulturelle Bildung" - (AN/0741/2018) - Kenntnis genommen
+- TOP 10.2: Beantwortung der mündlichen Anfrage der SPD-Fraktion betr.: "Ausbildungssituation bei den Wissenschaftlichen Museen" - Kenntnis genommen
+- TOP 10.3: Beantwortung der mündlichen Anfrage der SPD-Fraktion betr.: "Sachstand zur Sanierung des Ratsschiffs MS Stadt Köln" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der Anfrage von Dr. Krings Betreff: "Hansagymnasium, Hansaring 56 in Köln" - zu AN/1546/2018 - Kenntnis genommen
+- TOP 11.3: Anfrage der Ratsgruppe BUNT betr.: "Koloniale Raubkunst zurückgeben" - zurückgestellt
+- TOP 11.4: Anfrage der SPD-Fraktion betr.: "Historisches Archiv" - zurückgestellt
+- TOP 11.5: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Theater am Sachsenring" - zurückgestellt
+- TOP 12: Mündliche Anfragen
