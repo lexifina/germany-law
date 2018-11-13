@@ -1,0 +1,62 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-11-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737820
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737820
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.2.1.: Bauvorhaben Ganghoferstr. 39
+- TOP 6.2.2.: Bauvorhaben Ridlerstr. 35b - 37
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 7.2.1.: Planung der SommerSpielAktion 2018
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Verkehrssituation südlich des Bavariaparks
+- TOP 4.2.: Spielplatz MKJZ
+- TOP 4.3.: Verkehrsberuhigung Landsberger Straße
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Graffitis auf der Theresienhöhe
+- TOP 6.3.3.: Gaststättenfortführung Theresienhöhe 12
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Begrenzungspoller an der Stirnseite der Parkplätze in der Schnaderböckstraße Empfehlung Nr. 14-20 / E 02051 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.1.2.: (E) Parkverbot für Transporter auf Schrägparkplätzen
+- TOP 8.1.3.: (E) Ziffer 1.: Abschleppen von Falschparkern auf Bewohnerparkplätzen Ziffer 3.: Temporäre Haltverbote wegen Baustellen
+- TOP 8.1.4.: (E) Durchgangsverkehr zwischen St. Rupert und Gollierplatz aussperren
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Änderung des Bodenbelages für Veranstaltungen auf dem "Schneckenplatz"
+- TOP 8.2.2.: Taxi-Standplatz Ganghoferstr. am Georg-Freundorfer-Platz
+- TOP 8.2.3.: Christkindlmarkt am Georg-Freundorfer-Platz
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Verlegung Taxi-Standplatz an der Donnersberger Brücke
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Vamuki e.V. St.-Martins-Feier mit Umzug am 10.11.2018 427,50€ Az.: 0262.0-8-0161
+- TOP 9.1.2.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ Az.: 0262.0-8-0163
+- TOP 9.1.3.: (E) Stadtbezirksvorlage Initiative "Jane Eyre" Bühnenfassung von "Jane Eyre" im Theater Mathilde Westend 2.183,50€ Az.: 0262.0-8-0157
+- TOP 9.1.4.: (E) Stadtbezirksbudget Geschichtswerkstatt Ludwigsvorstadt-Isarvorstadt Revolutionsrallye für Kinder am 07.11.2018 1.200,00€ Az.: 0262.0-8-0162
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Errichtung eines Trinkwasserbrunnens am Georg-Freundorfer-Platz
+- TOP 10.2.: Einrichtung eines ampelgesicherten Fußgängerüberwegs über die Landsberger Str. auf Höhe Bergmann- /Philipp-Löwenfeld-Str. sowie Verlegung der Haltestelle der Tram-Linien 18, 19, N19 von der Schrenkstr. an diesen Übergang
+- TOP 11.1.: Informationsschreiben - Einhaltung der Anhörungsfrist
