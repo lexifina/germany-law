@@ -1,0 +1,117 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2018-11-14T17:15:00+01:00
+- Ende: 2018-11-14T22:28:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3240
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3240
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Campus Rütli - Schulneubau, Ausbildungswerkstätte, Eltern-Kind-Zentrum und Aussenbereiche - Eine Baustelle ohne Ende? - beantwortet
+- TOP 1.2: Bezirkliches Tourismuskonzept – Interessen der Anwohnenden ignoriert? - beantwortet
+- TOP 2: Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - ohne Änderungen in der BVV beschlossen
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Den Volksentscheid "Tempelhofer Feld" einhalten – Die Volksgesetzgebung respektieren - in der BVV abgelehnt
+- TOP 5.2: Physiotherapiezentrum Sonnenallee - in der BVV zurückgezogen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Bezirkliche Rahmenkonzeption Schule, Jugendhilfe und Gesundheit in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Straßen, Grünflächen und Ordnnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.4: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.5: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.6: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Haushalt, Wirtschaft, Verwaltung und Gleichstellung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl einer Bürgerdeputierten in den Ausschuss für Haushalt, Wirtschaft, Verwaltung und Gleichstellung - gewählt
+- TOP 7.2: Wahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Erhalt des QM Gropiusstadt? - beantwortet
+- TOP 9.2: Schwimmhalle der Schilling-Schule - beantwortet
+- TOP 9.3: Belegung der modularen Unterkunft in der Kiefholzstraße - beantwortet
+- TOP 9.4: Kieztreffpunkt Morus 44 am Rollberg retten! - beantwortet
+- TOP 9.5: Anwohner vermissen die Bäume in der Weserstraße - beantwortet
+- TOP 9.6: Bürger zur Stadtteilkonferenz eingeladen? - beantwortet
+- TOP 9.7: Al-Nur-Moschee - beantwortet
+- TOP 9.8: Provisorische Abstützung der Balkone mittels Holzbalken - beantwortet
+- TOP 9.9: Mobile Unterrichtsräume in Neukölln - beantwortet
+- TOP 9.10: Obdachloser auf der Mittelinsel zur U- Bahn-Station Boddinstraße, Hermannstraße - schriftlich beantwortet
+- TOP 9.11: ADAS und Hamas - schriftlich beantwortet
+- TOP 9.12: Nachfrage zu KA/171/XX und KA/262/XX - schriftlich beantwortet
+- TOP 9.13: Gewalt an Neuköllner Kindergärten - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Platzbenennung - überwiesen
+- TOP 10.2: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes – Hat Neukölln daran Anteil? - überwiesen
+- TOP 10.3: Öffentliches Erinnern an die Novemberrevolution in Neukölln - überwiesen
+- TOP 10.4: Bestandsschutz der Kleingartenanlagen verlängern - überwiesen
+- TOP 10.5: Ampel Hermannstraße/ Thomasstraße - überwiesen
+- TOP 10.6: Handeln statt populistischem Spiel - überwiesen
+- TOP 10.7: Straßenumbenennung - überwiesen
+- TOP 10.8: Nutzerfreundliche Papierkörbe in der Karl-Marx-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Änderung des Flächennutzungsplans im Bereich Oderstraße 188 zur Erweiterung des Werner-Seelenbinder-Sportparks und Sicherung von Gartenparzellen - überwiesen
+- TOP 10.10: Gedenkstein auf dem Garnisonsfriedhof - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Radverkehr in Hermannstraße und Sonnenallee sicherer machen - überwiesen
+- TOP 10.12: Kita Riesestraße 1-2 - überwiesen
+- TOP 10.13: Hänselstraße zwischen Sonnenallee und Gretelstraße zum verkehrsberuhigten Bereich umwidmen - überwiesen
+- TOP 10.14: Beratungsstelle für Opfer von Straftaten schaffen - in der BVV abgelehnt
+- TOP 10.15: Umwandlung des Amtes der Gleichstellungsbeauftragten in ein Referat für Gleichberechtigung - in der BVV abgelehnt
+- TOP 10.16: Verkehrslenkende Maßnahmen in der Groß-Ziethener Chaussee - in der BVV abgelehnt
+- TOP 10.17: „Solidarisches Grundeinkommen“, aber richtig und solidarisch - überwiesen
+- TOP 10.18: Unterhaltsvorschuss: Alleinerziehende nicht warten lassen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.19: Kältebahnhöfe offenhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.20: Fachkonferenz Jugendberufsagentur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.21: Fortschreibung des Neuköllner Integrationspapiers von 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.22: Abdeckung Neuköllns durch Banken und Nahversorger - beantwortet
+- TOP 10.23: Vorkaufsrecht Elbestraße/Weigandufer - schriftlich beantwortet
+- TOP 10.24: MieterInnen von Mahlower Block und Emser Str. schützen - vertagt
+- TOP 10.25: Leichte Sprache der BVV-Verwaltung - vertagt
+- TOP 10.26: Schutz von Minderjährigen in einem kriminellen familiären Umfeld - vertagt
+- TOP 10.27: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes - vertagt
+- TOP 10.28: Gilt in Neuköllner Grundschulkantinen die Scharia? - vertagt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bei weiterem Umbau der Karl-Marx-Straße Konsequenzen aus dem Fahrradstreifen-Desaster ziehen - vertagt
+- TOP 11.2: Abwendungsvereinbarungen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Spielplatzkommission konzeptionell neu aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: App „Gesundes Neukölln“ - vertagt
+- TOP 12.2: Aufgeblähtes Bürgermeisterbüro - vertagt
+- TOP 12.3: EU-Fördermittel und Auswirkungen des Brexit auf Neukölln - vertagt
+- TOP 12.4: Umsetzung des Beschlusses gegen die Privatisierung von Schulliegenschaften - vertagt
+- TOP 12.5: Verstöße gegen die Verpackungsordnung in Ordnung? - vertagt
+- TOP 12.6: Schuldistanz oder Schulschwänzer - vertagt
+- TOP 12.7: Sensibilisierungen und Maßnahmen im Bereich LSBTTIQ - vertagt
+- TOP 12.8: Gewerbeflächen zur Ansiedlung von produzierendem Gewerbe - vertagt
+- TOP 12.9: Schulcontainer (MUR) in Neukölln - vertagt
+- TOP 12.10: Gilt in Neuköllner Grundschulkantinen die Scharia? Teil II - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: App „Gesundes Neukölln“ evaluieren - überwiesen
+- TOP 14.2: Einhaltung der StVO im Möwenweg - überwiesen
+- TOP 14.3: Brexit: Auswirkungen auf Neukölln kompensieren - vertagt
+- TOP 14.4: Kommunales Vorkaufsrecht erweitern, Spekulation verhindern, Leerstand beseitigen - vertagt
+- TOP 14.5: Digitalisierung in der BVV - vertagt
+- TOP 14.6: Verkehrslenkende Maßnahmen in der Groß-Ziethener Chaussee - überwiesen
+- TOP 14.7: Sucht- und Schuldnerberatungsangebote in der Jugendberufsagentur Berlin - überwiesen
+- TOP 14.8: Kleidercontainer Bushaltestelle Vivantes Klinikum - vertagt
+- TOP 14.9: Fußgänger*innenfreundlichkeit beim Aufstellen von E-Auto-Ladesäulen gewährleisten - vertagt
+- TOP 14.10: Straßenbeleuchtung an der Straße 645 sicherstellen - vertagt
+- TOP 14.11: Morusstraße 14 - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Mehr Photovoltaikanlagen für Neuköllner Gebäude in öffentlicher Hand - überwiesen
+- TOP 14.13: Verkehrssicherheit des Durchgangs vom Laubsängerweg zum Ibisweg sicherstellen - überwiesen
+- TOP 14.14: Bauen unter fairen Bedingungen – Sozial-nachhaltige Beschaffung von Natursteinen - überwiesen
+- TOP 14.15: OA-App erweitern - überwiesen
+- TOP 14.16: Verkehrsspiegel an der Kreuzung Wendehalsweg / Rudower Straße - überwiesen
+- TOP 14.17: Bauende informieren – Umweltsituation verbessern - vertagt
+- TOP 14.18: Verpackungsmüll - vertagt
+- TOP 14.19: „Schön wie wir“ nur eine Show?! - vertagt
+- TOP 14.20: Über Gefahren von Konsanguinität aufklären, Folgerisiken bekämpfen - vertagt
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Schilderirrsinn in Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - erledigt
