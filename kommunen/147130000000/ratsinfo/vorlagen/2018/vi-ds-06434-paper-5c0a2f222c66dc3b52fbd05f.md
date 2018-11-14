@@ -1,0 +1,24 @@
+# Fachplan Wohnungsnotfallhilfe in Leipzig 2018 bis 2022
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-DS-06434
+- Art: Beschlussvorlage
+- Datum: 2018-11-14
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1010817
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a2f222c66dc3b52fbd05f
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c0974b72c66dc3b52aa0716
+- Beratung: Vorberatung https://oparl.politik-bei-uns.de/meeting/5c08a0a72c66dc3b525fd880 https://oparl.politik-bei-uns.de/organization/5c089ecc2c66dc3b525a117d
+- Beratung: Bestätigung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12fc
+- Beratung: Vorberatung  https://oparl.politik-bei-uns.de/organization/5c089ecf2c66dc3b525a1435
+- Beratung: Vorberatung  https://oparl.politik-bei-uns.de/organization/5c089ed92c66dc3b525a1d48
+- Beratung: Vorberatung  https://oparl.politik-bei-uns.de/organization/5c089ee92c66dc3b525a28cc
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1e6d
+- Beratung: 1. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: Vorberatung  https://oparl.politik-bei-uns.de/organization/5c089ed22c66dc3b525a1732
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
+- Beratung: 2. Lesung  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1e6d
+- Beratung: Beschlussfassung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
