@@ -1,0 +1,128 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2018-11-14T17:00:00+01:00
+- Ende: 2018-11-14T22:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3963
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3963
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Warten auf Gehälter - beantwortet
+- TOP 3.2: Ersatz der MURs - beantwortet
+- TOP 3.3: Einbürgerungen im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.4: Schulsanierung - beantwortet
+- TOP 3.5: Berichterstattung des RBB zum Geisterhaus Gardeschützenweg 3 am 7.11.2018 - beantwortet
+- TOP 3.6: Städtepartnerschaftstafel in der Mitte Zehlendorfs - schriftlich beantwortet
+- TOP 3.7: Chaos an der Grundschule am Königsgraben - schriftlich beantwortet
+- TOP 3.8: Bienenstand an der Onkel-Tom-Straße 165 erhaltenswert? - schriftlich beantwortet
+- TOP 3.9: Nebelkerzen am Geisterhaus Gardeschützenweg 3? - schriftlich beantwortet
+- TOP 3.10: Grundschule in freier Trägerschaft am Buschgraben - schriftlich beantwortet
+- TOP 3.11: War die Suche nach Räumlichkeiten für die Kältehilfe erfolgreich? - schriftlich beantwortet
+- TOP 3.12: Wann ist mit der Aufwertung des Carmerplatzes zu rechnen? - schriftlich beantwortet
+- TOP 3.13: Leerstandsermittlungen bei vorhandenem Abrissantrag - vertagt
+- TOP 3.14: Vergabekriterien Reinigung öffentlicher Gebäude in Steglitz-Zehlendorf - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Nachwahl eines weiteren Mitgliedes in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Bezirkshaushaltsrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Feuerwehrzufahrt und -aufstellfläche in der Treitschkestraße freihalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Abfalltrennung im Bezirksamt verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Verbesserung der Querungsmöglichkeit über die Bäkebrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Schulwegpaten und Erwachsenenlotsen für Schulwege - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Straßenzug Laubacher-, Maßmann-, Lepsiusstraße - Tempo 30! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Wegausbesserung am Abgang zum Rundgang Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Ausstellung zur Euthanasie für die Öffentlichkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Straßenbenennung nach Eleanor Lansing Dulles - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Basketballfläche Königsberger Straße fit machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Die Jugend braucht Basketballkörbe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Anbindung von Moorlake an den ÖPNV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Jugendaustausch mit Charkiw beleben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Sportvereine bei der Beschaffung von Sportartikeln aus fairem Handel unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Faire Produkte in öffentlichen Einrichtungen, bei Sitzungen und Veranstaltungen des Bezirks Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Wohnungsnot der Studentenschaft im Bezirk verringern - in der BVV abgelehnt
+- TOP 4.25: Sicherer Schulweg Quentin-Blake- und Biesalski-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Aufwandsentschädigung für die Arbeit der Seniorenvertretung Steglitz-Zehlendorf - überwiesen
+- TOP 5.2: 200 Radbügel und sicheres Abstellen von Rädern am S-Bahnhof Lichterfelde Ost - überwiesen
+- TOP 5.3: BVG-Wartehäuschen an der Haltestelle Billy-Wilder-Promenade - überwiesen
+- TOP 5.4: Bei der Personalakquise auch Quereinsteiger berücksichtigen - überwiesen
+- TOP 5.5: Ersatz der Behindertenparkplätze in der Schloßstraße - überwiesen
+- TOP 5.6: Ladezone und mehr Kurzzeitparken, bessere Querung am S-Bahnhof Botanischer Garten - überwiesen
+- TOP 5.7: Graffiti in der Düppelstraße - überwiesen
+- TOP 5.8: Radfahrer auf dem Gehweg - überwiesen
+- TOP 5.9: S7 zweigleisig bis Potsdam - überwiesen
+- TOP 5.10: Radfahrverbindung zwischen Wannsee (S-Bahnhof, Kronprinzessinnenweg) und Zehlendorf Mitte - überwiesen
+- TOP 5.11: Erhalt der Baracken in Lichterfelde-Süd - überwiesen
+- TOP 5.12: Sichere Wege in der Marshallstraße - überwiesen
+- TOP 5.13: Grünpfeil am Kleinmachnower Weg Ecke Teltower Damm - überwiesen
+- TOP 5.14: Absolutes Halteverbot vor Quentin-Blake-Schule - überwiesen
+- TOP 5.15: Ansteckungsgefahr reduzieren! - überwiesen
+- TOP 5.16: Die Jugend braucht Unterstützung für ihre ehrenamtliche Tätigkeit - überwiesen
+- TOP 5.17: Bibliothek in Lichterfelde-Süd mitdenken - überwiesen
+- TOP 5.18: Sichere Radführung in der Berliner Straße und bessere Einsehbarkeit an den Einmündungen Gartenstraße, Seehofstraße, Vopeliuspfad - überwiesen
+- TOP 5.19: Videoüberwachung Kulturhaus Schwartzsche Villa - überwiesen
+- TOP 5.20: Räumpfeil entfernen - überwiesen
+- TOP 5.21: Bahnhofsvorplatz Berlin- Lichterfelde Ost - überwiesen
+- TOP 5.22: Absolutes Halteverbot in der Gärtnerstraße - überwiesen
+- TOP 5.23: Parkbänke im Steglitzer Park - überwiesen
+- TOP 5.24: Verkehrssünder auf Rädern beschränken - überwiesen
+- TOP 5.25: Baumscheiben schützen - absolutes Halteverbot vor Siemensvilla - überwiesen
+- TOP 5.26: Verzicht auf E10-Kraftstoff im Bezirk - überwiesen
+- TOP 5.27: Ampelschaltung Ostpreußendamm / Wiesenweg anpassen - überwiesen
+- TOP 5.28: Radfahrer schützen - Drängelgitter für die Weverpromenade / Birkbuschstraße - überwiesen
+- TOP 5.29: Lebensmitteleinzelhandel und Wohnraum Hand in Hand - überwiesen
+- TOP 5.30: "Altenplan" weiterführen - überwiesen
+- TOP 5.31: Veröffentlichung der Namen der stillen Helden - überwiesen
+- TOP 5.32: Längere Busse „Schlenkis“ auf der Busline 184 einsetzen - überwiesen
+- TOP 5.33: Ein zweiter Frauentreffpunkt: Mehr Raum für Mehr - überwiesen
+- TOP 5.34: Ampel (LZA) auf der Osdorfer Straße (Höhe Réaumurstraße) benötigt! - überwiesen
+- TOP 5.35: Förderpreis für Gründerinnen - überwiesen
+- TOP 5.36: Mehrgenerationenübergreifendes Wohnen im Städtebaulichen Vertrag zum Bebauungsplan 6-30 festschreiben - überwiesen
+- TOP 5.37: Mutter-Kind Trägerwohnungen im Städtebaulichen Vertrag zum Bebauungsplan 6-30 festschreiben - überwiesen
+- TOP 5.38: Mutter-Kind-Trägerwohnungen schaffen - überwiesen
+- TOP 5.39: Neue Toiletten-Standorte benennen - überwiesen
+- TOP 5.40: Einstiegsqualifizierung für Geflüchtete - überwiesen
+- TOP 5.41: Ausschilderung des Bezirks und der Ortsteile - überwiesen
+- TOP 5.42: Zebrastreifen vor der Dreilinden-Grundschule - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Einrichtung von „Elternhaltestellen“ - in der BVV abgelehnt
+- TOP 6.1.2: Kiezkassen zur Stärkung des lokalen Engagements - in der BVV abgelehnt
+- TOP 6.1.3: Eine zweite Gemeinschaftsschule für Steglitz-Zehlendorf in Lichterfelde-Süd - in der BVV abgelehnt
+- TOP 6.1.4: Festsetzung der Höchstgrenze bei der Unterbringung von Geflüchteten am Standort Heckeshorn/Mehr soziale Infrastruktur - in der BVV abgelehnt
+- TOP 7: Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 8: Große Anfragen - beantwortet
+- TOP 8.1: Warten auf Geburts- und Sterbeurkunden - beantwortet
+- TOP 8.2: Lange Bearbeitungszeiten im Standesamt Steglitz-Zehlendorf - beantwortet
+- TOP 8.3: Entwicklung der Schüler*innen-Zahlen in Steglitz-Zehlendorf - vertagt
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Spielcasinos und Wettbüros ausbremsen! - überwiesen
+- TOP 9.2: Flüchtlingsunterbringung Am Heckeshorn - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Der Standort „Dahlemer Weg 247“ ist ungeeignet für die Errichtung von Modularen Unterkünften - in der BVV abgelehnt
+- TOP 10.2: Wohnraum und Naturschutz im Einklang am Dahlemer Weg 247 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Betreff Neubauvorhaben am Wiesenschlag - vertagt
+- TOP 10.4: Schaffung verbindlicher Beteiligungsstrukturen für junge Menschen bei Vorhaben der Stadt- und Grünplanung - vertagt
+- TOP 10.5: Bürger am Integrationsprozess beteiligen/ Mehr Transparenz bei der Standortsuche für Flüchtlingsunterkünfte - vertagt
+- TOP 10.6: Quartiersmanagement für die Thermometersiedlung in Lichterfelde–Süd - vertagt
+- TOP 10.7: Bürgerforum Schulbau – Transparenz für alle Bürger/-innen - vertagt
+- TOP 10.8: Trägerwohnungen B-Plan 6-40 VE Wiesenschlag - vertagt
+- TOP 10.9: Flüchtlingsunterbringung Am Beelitzhof - vertagt
+- TOP 10.10: Keine weitere Zusammenarbeit mit YOPIC e.V. - vertagt
+- TOP 10.11: MUF Standorte mit Bebauungsplänen für spätere Nutzung sichern - vertagt
+- TOP 10.12: Bruno-Taut-Siedlung vorschlagen für die Welterbeliste: Siedlung der Berliner Moderne - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.13: Jährliche Sicherheitsprüfungen am Geisterhaus Gardeschützenweg 3 auf Kosten des Eigentümers durchführen - vertagt
