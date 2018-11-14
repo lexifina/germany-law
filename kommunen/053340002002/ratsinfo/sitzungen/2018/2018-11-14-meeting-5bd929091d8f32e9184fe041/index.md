@@ -1,0 +1,62 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2018-11-14T17:00:00+01:00
+- Ende: 2018-11-14T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=3812
+- OParl: https://oparl.politik-bei-uns.de/meeting/5bd929091d8f32e9184fe041
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen. - (offen)
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 19.09.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 10.10.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 6: Luftreinhalteplan für das Stadtgebiet Aachen, 2. Fortschreibung – Entwurf a) Stellungnahme der Stadt Aachen zum Berichtsentwurf der Bezirksregierung Köln b) Ratsantrag Nr. 395/17 Gemeinsamer Ratsantrag der Fraktionen von CDU und SPD vom 11.09.2018 Luftreinhaltung ASEAG-Flotte mit SCRT-Filtern nachrüsten - ungeändert beschlossen
+- TOP 7: Nahverkehrsplan: Änderung infolge Luftreinhalteplanung - ungeändert beschlossen
+- TOP 8: Schließung der KiTa Lochnerstraße 60 - ungeändert beschlossen
+- TOP 9: Baumschutzsatzung der Stadt Aachen 1. Anpassung der Baumschutzsatzung 2. Ratsantrag Nr. 382/17 der Fraktion DIE LINKE vom 10. August 2018 - Höhere Ausgleichszahlungen bei Baumfällungen - (offen)
+- TOP 10: Bebauungsplan - Werkstraße/Pascalstraße - hier: Beschluss über eine Veränderungssperre für die Flurstücke 2253, 2254 und 2119, Flur 3, Gemarkung Walheim, im Stadtbezirk Aachen-Kornelimünster/Walheim - ungeändert beschlossen
+- TOP 11: Bebauungsplan -Kurbrunnenstraße/Bachstraße- hier: Verlängerung der Satzung über eine Veränderungssperre im Bereich des Aufstellungsbeschlusses A 268 zum Bebauungsplan -Kurbrunnenstraße/Bachstraße- <span style="color: #888a85" title="Zusatzinfo">( )</span> - (offen)
+- TOP 13: Abschluss einer öffentlich-rechtlichen Vereinbarung zur grenzüberschreitenden Zusammenarbeit bei der Brandbekämpfung und der technischen Hilfeleistung - ungeändert beschlossen
+- TOP 14: Vorläufiger Wirtschaftsplan 2019/2020 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 15: Jahresabschluss für den Kulturbetrieb für das Jahr 2017 - geändert beschlossen
+- TOP 16: Stellungnahme FB 20 zum Jahresabschluss für den Kulturbetrieb für das Jahr 2017 - geändert beschlossen
+- TOP 17: Jahresabschluss 2017 Eurogress <span style="color: #888a85" title="Zusatzinfo">(Dieser TOP wurde von der Verwaltung zurückgezogen und in der Sitzung des Rates am 12.12.2018 beraten werden.)</span> - zurückgestellt
+- TOP 18: Ausschreibung der Stelle der/des Beigeordneten für Planung und Bau - (offen)
+- TOP 18.1: Ausschreibung der Stelle der/des Beigeordneten für Planung und Bau - geändert beschlossen
+- TOP 19: Stellenplan 2018: - (offen)
+- TOP 19.1: Veränderung durch Einrichtung von zwei Stellen für Sozialarbeiter/-innen im Bereich des Allgemeinen Sozialen Dienstes in der Abteilung Jugend des Fachbereichs Kinder, Jugend und Schule - ungeändert beschlossen
+- TOP 19.2: Verlängerung eines kw-2018 Vermerkes auf kw-2019 zur Fortführung des Quartiersmanagements Flüchtlingsintegration in Aachen-Eilendorf und Aachen-Richterich im Fachbereich Wohnen, Soziales und Integration, Planungsabteilung (FB 56/300) - ungeändert beschlossen
+- TOP 20: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen: - (offen)
+- TOP 20.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen hier: Überplanmäßige Mittelbereitstellung für den Ersatzneubau Brücke Friedhof Hüls - ungeändert beschlossen
+- TOP 21: Anfragen: - (offen)
+- TOP 23: Umbesetzung in Ausschüssen und anderen Gremien: - (offen)
+- TOP 24: Mitteilungen der Verwaltung - (offen)
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 21.1: Ratsanfragen - ungeändert beschlossen
+- TOP 21.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 22: Ratsanträge - ungeändert beschlossen
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 23.1: Umbesetzungsantrag der UWG vom 02.11.2018 - ungeändert beschlossen
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 11.1: Bebauungsplan -Kurbrunnenstraße/Bachstraße- hier: Verlängerung der Satzung über eine Veränderungssperre im Bereich des Aufstellungsbeschlusses A 268 zum Bebauungsplan -Kurbrunnenstraße/Bachstraße- - ungeändert beschlossen
+- TOP 23.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 09.11.2018 - ungeändert beschlossen
+- TOP 12: 6. Nachtrag zur Gebührenordnung für Parkscheinautomaten im Gebiet der Stadt Aachen (Parkgebührenordnung) Anpassung der Parkgebühren und Einführung von Tagestickets in den Bewohnerparkzonen „BU2“ (Viehhofstraße) und „BU3“ (Krugenofen) - ungeändert beschlossen
+- TOP 9.1: Baumschutzsatzung der Stadt Aachen 1. Neufassung der Satzung zum Schutz des Baumbestandes in der Stadt Aachen (Baumschutzsatzung) 2. Ratsantrag Nr. 382/17 der Fraktion DIE LINKE vom 10. August 2018: Höhere Ausgleichszahlungen bei Baumfällungen - ungeändert beschlossen
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
