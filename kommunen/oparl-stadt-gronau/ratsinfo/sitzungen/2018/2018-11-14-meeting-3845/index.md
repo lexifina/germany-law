@@ -1,0 +1,51 @@
+# Rat (53. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2018-11-14T18:00:00+01:00
+- Ende: 2018-11-14T21:34:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWPTOrJ4IUZ_0DR9ounmL10
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3845
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa7hi8oIXwngS4ZUC7rFhL7G-_g-sfXSZYR4ruJAVmEt/Bekanntmachung_Rat_14.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRK8aDFSqkkqrNtNewBmg9Y5Y7KjRd3TES06Lw6r7Hu/Oeffentliche_Niederschrift_Rat_14.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 10.10.2018
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2: Sonderprüfung der Stadtwerke Gronau GmbH; Antrag der SPD-Fraktion vom 28.10.2018 - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 4.: Jahresabschluss 2017 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über die Behandlung des Jahresfehlbetrages - Einstimmig, 0 Enthaltungen
+- TOP 5.: Jahresabschluss 2017 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2017 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 7.: Budgetbericht III. Quartal 2018 - Ohne Abstimmung
+- TOP 8.: Einleitung des Benehmensverfahrens gem. § 55 Abs. 1 Kreisordnung NRW - Einstimmig, 0 Enthaltungen
+- TOP 9.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2014 Bestätigung und Feststellung des Gesamtergebnisses Behandlung des Gesamtjahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 10.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2014 Entlastung der Bürgermeisterin - Einstimmig, 0 Enthaltungen
+- TOP 11.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2015 Bestätigung und Feststellung des Gesamtergebnisses Behandlung des Gesamtjahresfehlbetrages - Einstimmig, 0 Enthaltungen
+- TOP 12.: Prüfung des Gesamtabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2015 Entlastung der Bürgermeisterin - Einstimmig, 0 Enthaltungen
+- TOP 13.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2017 Bestätigung und Feststellung des Ergebnisses Behandlung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 14.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2017 Entlastung der Bürgermeisterin - Einstimmig, 0 Enthaltungen
+- TOP 15.: Erstellung eines Mietspiegels für das Stadtgebiet Gronau - Der Punkt wurde von der Tagesordnung abgesetzt.
+- TOP 16.: 101. Änderung des Flächennutzungsplans der Stadt Gronau für den Bereich "Ochtruper Straße/Freiherr-von-Vincke-Straße", Stadtteil Gronau 1. Aufhebung des Planbeschlusses vom 07.03.2018 2. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. §§ 4a Abs. 3 i.V.m. 3 Abs. 2 BauGB 7. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. §§ 4a Abs. 3 i.V.m. 4 Abs. 2 BauGB 8. Planbeschluss - 35 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 43 "Freiherr-von-Vincke-Straße", 3. Änderung, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Öffentlichkeit gem. §§ 4a Abs. 3 i.V.m. 3 Abs. 2 BauGB 6. Behandlung der Stellungnahmen aus der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. §§ 4a Abs. 3 i.V.m. 4 Abs. 2 BauGB 7. Satzungsbeschluss - 35 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.: Satzung über die Errichtung und Unterhaltung von Einrichtungen für obdachlose Personen, Übergangswohnheimen für Aussiedler und ausländische Flüchtlinge der Stadt Gronau inklusive Gebührenordnung - Einstimmig, 1 Enthaltungen
+- TOP 20.: Neufassung der Vergaberichtlinien - 8 Jastimmen, 24 Neinstimmen, 2 Enthaltungen
+- TOP 21.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 22.: Sitzungstermine 2019 - Ohne Abstimmung
+- TOP 23.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 24.: Mitteilungen der Verwaltung
+- TOP 25.: Abbruch des Gebäudes Oststraße 21 - Ohne Abstimmung
+- TOP 25.1: Anfragen
+- TOP 25.1.1: Keine Beleuchtung am Werner-von-Siemens-Gymnasium im Bereich des Rad-/Fußwegs (RM Buchholz)
+- TOP 25.1.2: Prüfung des Tierheims Ahaus (RM von Borczyskowski)
+- TOP 25.1.3: Gründe für das Baumfällen an der Steinfurter Straße (RM von Borczyskowski)
+- TOP 25.1.4: Besonderes Vorkommnis auf dem Kurt-Schumacher-Platz? (RM Strestik)
+- TOP 25.1.5: Bodenkälte in den Containern am Gesamtschulstandort an der Gasstraße (RM Dust)
+- TOP 25.1.6: Aktivitäten des Klimabündnisses mitteilen (RM Buchholz)
