@@ -1,0 +1,98 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4709993
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4709993
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Stadtbezirksbudget für München Information über die Beschlussfassung im Stadtrat
+- TOP 4.2.1.: Reduzierung des Fluglärms im Münchner Norden
+- TOP 4.2.2.: (U) Lechenauer Straße (westlich) Georg-Brauchle-Ring (nördlich) Brundageplatz (östlich) Helene-Mayer-Ring (südlich) - ehemaliger Busbahnhof Olympiazentrum - A) Eckdatenbeschluss und Erweiterung des Grundsatzbeschlusses vom 06.07.2016 mit vertiefender Untersuchung B) Weiteres Vorgehen C) Aufgreifen der Planungen zur Neugestaltung des Busbahnhofs Olympiazentrum BA-Antrag Nr. 14-20 / B 04579 des Bezirksausschusses des Stadtbezirks 11- Milbertshofen-Am Hart vom 21.02.2018
+- TOP 4.4.1.: Schulparkplatz des Städt. Lion-Feuchtwanger-Gymnasium - Info-Schreiben
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ Az.: 0262.0-11-0301
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative "Gospel Concert" Gospel Concert am 01.12.2018 3.060,00€ Az.: 0262.0-11-0300
+- TOP 6.1.3.: (E) Stadtbezirksbudget Pfarrverband Milbertshofen, Katholische Pfarrei St. Lantpert Konzert am 17.11.2018 3.250,00€ Az.: 0262.0-11-0302
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Aufwertung des Ehrenamtes „Schulweghelfer/in“
+- TOP 6.2.2.: (E) Errichtung einer Blitzerampel in der Moosacher Str./ Schleißheimer Str.
+- TOP 6.2.3.: (E) Regelmäßige Fahrradkontrollen in beiden Richtungen am Frankfurter Ring
+- TOP 6.2.4.: (E) Vollständige Umzäunung des Spielplatzes am Christoph-von-Gluck-Platz Empfehlung Nr. 14-20 / E 02161 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 19.07.2018
+- TOP 6.2.5.: (E) Neuerstellung des südlichen Teils des Grünzugs Thalhofer- / Bernaysstraße Empfehlung Nr. 14-20 / E 02177 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 19.07.2018
+- TOP 6.2.6.: (E) + (U) Ausreichende Parkmöglichkeiten im Bereich des Wohnhauses Lieberweg - Ecke Wiegandweg, mit Einbindung des geplanten EDEKA-Marktes Empfehlung Nr. 14-20 / E 01103 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Errichtung eines Trinkbrunnens im Skatepark am Brundageplatz
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Gastronomiebetrieb im Bernayspark
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Einbau von Bahnsteigerhöhungen im U-Bahnhof Olympiadorf
+- TOP 7.4.2.: Priorisierung der Realisierung des DB-Nordrings vor dem Seilbahnprojekt am Frankfurter Ring
+- TOP 7.4.3.: Gegen den Bau des Auto-Tunnels an der Schleißheimer Straße und für den Ausbau des öffentlichen Nahverkehrs
+- TOP 7.4.4.: Attraktivität steigern für das Ehrenamt "Schulweghelfer/in"
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Anträge auf Baumfällungen: a) Korbinianplatz 15 b) Korbinianstr. 16 c) Moosacher Str. 31-41, Konstanzer Str. 46-48 d) Keferloherstr. 139
+- TOP 8.2.2.: Bauvorhaben Rothpletzstr. 40 - Errichtung einer Schulpavillon-Anlage: a) Vollzug der BaumSchutzVO b) Bauvorhaben – Lokalbaukommission
+- TOP 8.2.3.: Benennung von Standorten für neue Sitzgelegenheiten im 11. Stadtbezirk
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Spielen in der Stadt e.V.: Planung der SommerSpielAktion 2019
+- TOP 8.3.2.: Veranstaltung "Trail Run - ISPO Munich Night RUN 2019" im Olympiapark am 02.02.2019
+- TOP 8.3.3.: Veranstaltung "MünchnerStiftungsFrühling", Vorplatz BMW-Welt am 23.03.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Schliemannweg - absolutes Haltverbot
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 9.1.2.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 9.1.3.: BA-Budget: Verwendungsnachweise, Schriftverkehr, Sachberichte
+- TOP 9.1.4.: Unveränderte Fortführung von Gaststättenbetrieben: "Café Treff Bar und Treffer" - Wenzelstr. 2
+- TOP 9.1.5.: Einhaltung der Anhörungsfrist – Information
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Neue Ökokonten für München
+- TOP 9.2.2.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 9.2.3.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 9.2.4.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung
+- TOP 9.2.5.: (U) Agrastrukturelle Untersuchungen
+- TOP 9.2.6.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf
+- TOP 9.2.7.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 9.2.8.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 9.2.9.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017
+- TOP 9.2.10.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 9.2.11.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 9.2.12.: (U) Trinkwasserbrunnen
+- TOP 9.2.13.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Sperlingweg 17
+- TOP 9.2.14.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 9.2.15.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 9.2.16.: Meldelisten Bauvorhaben/Nutzungsänderungen vom 10.09.2018 – 07.10.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 9.3.2.: Haus- und kinderärztliche Versorgung (Eckdatenbeschluss Haushalt 2019 Nr. 7) ...Zügiger Ausbau der ambulanten med. Vresorgung in München-Nord - Empfehlung Nr. 14-20 / E 01102 der Bürgervers. des 11. SB vom 21.07.2016... ...Mehr Haus- und Kinderärzte im Münchner Norden - BA-Antrags-Nr. 14-20 / B 02798 des BA 11 vom 14.09.2016...
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 9.4.2.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 9.4.3.: Arbeiten im Straßenraum: a) Schleißheimer Str. / Frankfurter Ring - Fahrbahnsanierung b) Schleißheimer Str. / Frankfurter Ring - Demarkierungsarbeiten c) Schleißheimer Str. / Weyprechtstr. und Thomas-Theodor-Heine-Weg - Fahrbahnsanierung + Parkbuchten
+- TOP 9.4.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Bad-Soden-Straße 52 - Verlängerung des Zeitraums für die Anfahrtszone b) Preußenstraße - Aufhebung des Haltverbots
