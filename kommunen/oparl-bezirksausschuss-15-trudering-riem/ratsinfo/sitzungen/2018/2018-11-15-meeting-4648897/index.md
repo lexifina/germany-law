@@ -1,0 +1,154 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2018-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4648897
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4648897
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.2.: Eilentscheidung des BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 10: Unterrichtungen
+- TOP 10.1.1.: Verwendungsnachweise
+- TOP 10.1.2.: unveränderte Fortführungen eines Gaststättenbetriebs
+- TOP 10.1.3.: Sachberichte
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 3.2.2 Elritzenstraße: Poller auf dem Fußweg zur Sicherstellung des absoluten Halteverbotes
+- TOP 1.3.2.: 3.5.3 Kreillerstraße: Fußweg Richtung Bahnhof Trudering - nächtliche Lärmbelästigung Forderungen zur Verbesserung der Situation für die Anwohnerinnen und Anwohner
+- TOP 1.3.3.: 4.5 Demokratiemobil im BA 15
+- TOP 1.3.4.: 4.6 Schnellstmöglicher Anschluss des Tribünen-Kopfbaus in der Messestadt an das örtliche Geothermie-Fernwärmenetz
+- TOP 1.3.5.: 4.7 Subjektives Sicherheitsempfinden und Umweltbewusstsein durch kreative Beleuchtungslösungen in Einklang bringen
+- TOP 1.3.6.: 4.8 Eingangsstelen für den Riemer Park Antrag zu TOP 3.3.1
+- TOP 1.3.7.: 7.4.24 Friedenspromenade 61c, Fl.Nr.: 621/2 - DG-Ausbau und Aufbau einer Dachgaube
+- TOP 1.3.8.: 8.2.29 Veronikastraße 2 8.2.30 Grundelstraße 1 8.2.31 Elisabeth-zu-Guttenberg-Straße 12 8.2.32 Hererostraße 28
+- TOP 2.1.1.: (E) Stadtbezirksbudget Förderverein der Grundschule am Lehrer-Götz-Weg e.V. Digitaler Workshop 2.500,00€ Az.: 0262.0-15-0267
+- TOP 2.1.2.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering e.V. Anschaffung einer Audioanlage 3.872,92€ Az.: 0262.0-15-0270
+- TOP 2.1.3.: (E) Stadtbezirksbudget FC Stern München 1919 e.V. Türkeireise Anfang März 2019 8.000,00€ Az.: 0262.0-15-0272
+- TOP 2.1.4.: (E) Stadtbezirksbudget Gewerbe & Eigentümerverband Trudering e.V. (GEVT e.V.) Adventleuchten ab 26.11.2018 6.584,04€ Az.: 0262.0-15-0275
+- TOP 2.1.5.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V. Anschaffung eines Akku-Hochleistungslüfters 3.500,00€ Az.: 0262.0-15-0273
+- TOP 2.1.6.: (E) Stadtbezirksbudget Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V. Tag der offenen Tür 1.123,26€ Az.: 0262.0-15-0269
+- TOP 3.2.1.: Willy-Brandt-Platz: Einrichtung eines Taxistandplatzes
+- TOP 3.3.1.: Riemer Park: Kontrollen für die Einhaltung der Grünanlagensatzung
+- TOP 3.4.1.: Bergerwaldstraße: Ablehnung eines geplanten Bauvorhabens
+- TOP 3.5.1.: Errichtung eines Outdoor-Floorball-Feldes in der Messestadt-Riem
+- TOP 3.5.2.: Kreillerstraße: Fußweg Richtung Bahnhof Trudering - nächtliche Lärmbelästigung
+- TOP 4.1.: Promenade oder Autostraße: Sicherheit vor allem für die Kinder
+- TOP 4.2.: Statt Etikettenschwindel: Situation für Schwerhörige nachhaltig verbessern – Induktionsanlage für den Kulturzentrumssaal auf den Weg bringen!
+- TOP 4.3.: Lösungsmöglichkeiten zur Anfahrt an die Wertstoffinsel an der Iltisstraße erarbeiten
+- TOP 4.4.: Anschlusszeiten am Bahnhof Trudering anpassen
+- TOP 5.1.: Bolzplatz an der Lehrer-Wirth-Schule
+- TOP 5.2.: Astrid-Lindgren-Straße: Zustand des Fußballplatzes
+- TOP 5.3.: Verbindung zwischen Kerschensteinerstr. und Riemarcaden
+- TOP 5.4.: Sanierungsfall nördliche Feldbergstraße – wie bekommt man den Durchgangsverkehr heraus?
+- TOP 5.5.: Heinrich-Böll-Straße: fehlender Schatten auf Spielplätzen
+- TOP 5.6.: Verbindung zwischen Kerschensteinerstraße und Riemarcaden asphaltieren
+- TOP 5.7.: Thomas-Hauser-Straße: Erreichbarkeit der KITA von Berg am Laim kommend / Geh- und Radwegsituation
+- TOP 5.8.: Kreillerstraße / Marianne-Plehn-Straße: Optimierung der Ampelschaltung Antwortschreiben zur Stellungnahme des BA vom 27.09.2018
+- TOP 5.9.: Kein Containerstandort gegenüber dem Tierheim Riem
+- TOP 5.10.: Auswirkungen der Bahn-Ausbaustrecke München-Trudering / Grafing auf den Münchner Osten darstellen
+- TOP 5.11.: Antrag auf Reduzierung des Verkehrsaufkommens in der Friedrich-Creuzer-Str. und Friedenspromenade durch Bebauungsplan Nr. 2090
+- TOP 5.12.: Riemer See: Zugangsmöglichkeit für körperlich beeinträchtigte Personen
+- TOP 5.13.: Friedenspromenade: Parkplatzsituation rund um den Biergarten
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: VA in Grünanlagen: Lucia Kindergartenfest am 20.11.2018 im Riemer Park Termin: 16.11.2018
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Verkehrssituation und -sicherheit in der Bahnstraße Empfehlung Nr. 14-20 / E 01717 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 05.10.2017 Sitzungsvorlagen Nr. 14-20/ V 11324 Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 19.04.2018 Stellungnahme des Kreisverwaltungsreferates vom 27.09.2018 - Bitte der Herbeiführung einer OB-Entscheidung
+- TOP 7.2.2.: verkehrsrechtliche Anordnung nach § 45 StVO: Truderinger Straße und Bognerhofweg erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen Antwortschreiben des Kreisverwaltungsreferats auf die Stellungnahme des BA vom September 2018 Frist: 23.11.2018
+- TOP 7.2.3.: verkehrsrechtliche Anordnung nach § 45 StVO Bognerhofweg / Truderinger Straße dauerhafte Anordnung des Rechtsabbiegegebotes Frist: 14.12.2018
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Bauleitplanung Gemeinde Feldkirchen B-Plan Nr. 104 Gebiet südlich der Westendstraße, westlich und östlich der Brunnenstraße und nördlich der Münchner Straße Verfahren nach § 4 Abs. 2 BauGB
+- TOP 7.3.2.: Bauleitplanung Gemeinde Feldkirchen B-Plan Nr. 50 Gebiet nördlich und südlich der Sudetenstraße Verfahren nach § 4 Abs. 2 BauGB
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Xaver-Weismor-Straße 71-73, Fl.Nr.: 96/0 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 7.4.2.: Am Moosfeld 64, Fl.Nr.: 85/17 - Neubau eines Doppelhauses mit Garagen
+- TOP 7.4.3.: Edeltrautstraße 12, Fl.Nr.: 406/1 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.4.: Josef-Hagn-Straße 7, Fl.Nr.: 45/6 - Neubau eines Einfamilien- und eines Zweifamilienhauses mit Garagen
+- TOP 7.4.5.: Matterhornstraße 32, Fl.Nr.: 364/104 - Neubau 3er gereihter Stadthäuser und eines Doppelhauses mit einem Doppelparker (4 Stpl.) und einer Garage - hier: Haus 1
+- TOP 7.4.6.: Matterhornstraße 32, Fl.Nr.: 364/104 - Neubau 3er gereihter Stadthäuser und eines Doppelhauses mit einem Doppelparker (4 Stpl.) und einer Garage - hier: Haus 2
+- TOP 7.4.7.: Matterhornstraße 32, Fl.Nr.: 364/104 - Neubau 3er gereihter Stadthäuser und eines Doppelhauses mit einem Doppelparker (4 Stpl.) und einer Garage - hier: Haus 3
+- TOP 7.4.8.: Matterhornstraße 32, Fl.Nr.: 364/104 - Neubau 3er gereihter Stadthäuser und eines Doppelhauses mit einem Doppelparker (4 Stpl.) und einer Garage - hier: Haus 4
+- TOP 7.4.9.: Matterhornstraße 32, Fl.Nr.: 364/104 - Neubau 3er gereihter Stadthäuser und eines Doppelhauses mit einem Doppelparker (4 Stpl.) und einer Garage - hier: Haus 5
+- TOP 7.4.10.: Stieglitzweg 22, Fl.Nr.: 209/20 - Neubau eines Mehrfamilienhauses (8 WE) mit Garagen und 8 Stellplätzen
+- TOP 7.4.11.: Steffelhofstraße, Fl.Nr.: 82/42 - Neubau 2er Doppelhäuser sowie 3er Carports und einer Garage - hier Haus 1
+- TOP 7.4.12.: Steffelhofstraße, Fl.Nr.: 82/42 - Neubau 2er Doppelhäuser sowie 3er Carports und einer Garage - hier Haus 2
+- TOP 7.4.13.: Steffelhofstraße, Fl.Nr.: 82/42 - Neubau 2er Doppelhäuser sowie 3er Carports und einer Garage - hier Haus 3
+- TOP 7.4.14.: Steffelhofstraße, Fl.Nr.: 82/42 - Neubau 2er Doppelhäuser sowie 3er Carports und einer Garage - hier Haus 4
+- TOP 7.4.15.: Sperberstraße 23, Fl.Nr.: 481/12 - Neubau eines Mehrfamilienhäuser und Umbau einer Tiefgarage
+- TOP 7.4.16.: Eisvogelweg 23, Fl.Nr.: 524/5 - Neubau zweier Mehrfamilienhäuser
+- TOP 7.4.17.: Friedenspromenade 34, Fl.Nr.: 562/19 - Neubau eines Einfamilienhauses mit Garage (KG, EG+, OG+, DG) - VORBESCHEID
+- TOP 7.4.18.: Bergerwaldstraße 23, Fl.Nr.: 364/7 - Neubau zweier Wohngebäude (VGB + RGB) - VORBESCHEID
+- TOP 7.4.19.: In der Heuluss 21, Fl.Nr.: 501/57 - Neubau von Reihenhäusern mit Garagen - VORBESCHEID (2 Varianten)
+- TOP 7.4.20.: Iltisstraße 79, Fl.Nr.: 505/5 - Neubau zweier Wohnhäuser mit Tiefgarage - VORBESCHEID
+- TOP 7.4.21.: Truderinger Straße 261a, Fl.Nr.: 606/70 - Neubau eines barrierefreien Bürogebäudes mit 2 Betriebswohnungen - TEKTUR zu 1.2-2013-6430-32
+- TOP 7.4.22.: Birkhahnweg 47, Fl.Nr.: 484/34 - Neubau eines Doppelhauses - hier: DHH 1
+- TOP 7.4.23.: Birkhahnweg 47, Fl.Nr.: 484/34 - Neubau eines Doppelhauses - hier: DHH 2
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019 Frist: 30.11.2018
+- TOP 7.5.2.: Sanierung und Ausbau der Bezirkssportanlage (BSA) an der Feldbergstraße, ggfs. als Pilotprojekt für weitere notwendige Ausbaumaßnahmen anderer Münchner BSA Beantragung einer Fristverlängerung für den BA-Antrag bis zum 31.07.2019
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Iltisstraße 72 Tangastraße 42
+- TOP 8.2.1.: Anechostraße 35 Am Messesee 2 Bergerwaldstraße 23 Birkhahnweg 47 (DHH 1 + 2) Edeltraudstraße 6 Forellenstraße 18 Friedenspromenade 34 Friedenspromenade 61c Großfriedrichsburger Straße 9a Hippelstraße 67 Iltisstraße 10 In der Heuluss 20 In der Heuluss 38-40 Kiebitzweg 3 Kreuzerweg 15 Kreuzerweg 35a Lohnrößlerweg 21 Matterhornstraße 32 (Haus 1-5) Mönchbergstraße (ohne Hausnummer) Schneefinkenweg 5 Sperberstraße 23 Steffelhofstraße (ohne Hausnummer) (Haus 1-4) Stieglitzweg 22 Tangastraße 47 Tsingtauer Straße 61 Waldschulstraße 49 Wiesbachhornstraße 24 Xaver-Weismor-Straße 71-73
+- TOP 9.1.: Grundschulorganisation in der Landeshauptstadt München Änderung der Sprengel für die Grundschulen - Forellenstraße 5 - Lehrer-Götz-Weg 21 Bericht vom Runden Tisch am 7. November im Referat für Bildung und Sport
+- TOP 9.2.1: Lagerung von Christbäumen auf dem städtischen Grundstück Flst. 1476 Tlfl. an der Paul-Wassermann-Straße / Am Hüllgraben
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.1: Elternbeirat der Grundschule Lehrer-Wirth-Straße Anschaffung von Materialien für Medien 880,20 €
+- TOP 10.1.2.1: "Namis Kitchen"; Schank- und Speisewirtschaft; Truderinger Straße 263, 81825 München
+- TOP 10.1.3.1: Kurzbericht über die Aktion "90-Jahr-Feier der Eigenheimvereinigung Trudering"
+- TOP 10.1.4.: Informationsschreiben: Anhörungsrecht der Bezirksausschüsse nach § 13 BA Satzung
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: (U) Messestadt Riem EM 230 Straßen am Bildungscampus Joseph-Wild-Straße zwischen Am Mitterfeld und Paul-Wassermann-Straße und U-1792 (erstmalige Herstellung der öffentlichen Verkehrsflächen bzw. Anpassungen gemäß den Festsetzungen des Bebauungsplans mit Grünordnung Nr. 1728 d Teil 2) Am Mitterfeld zwischen Am Hüllgraben und 150 m südlich der Joseph-Wild-Straße (Aus- und Umbau) Am Hüllgraben zwischen Am Mitterfeld und Paul-Wassermann-Straße (Anpassung an U-1792 und Rückbau Einmündung) Paul-Wassermann-Straße zwischen Am Hüllgraben und Joseph-Wild-Straße (erstmalige Herstellung) im 15. Stadtbezirk Trudering - Riem Projektkosten: 14.000.000 Euro 1. Genehmigung des Nutzerbedarfsprogramms 2. Beauftragung der MRG mit der Vorplanung
+- TOP 10.2.2.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 10.2.3.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 10.2.4.: verkehrsrechtliche Anordnung nach § 45 StVO: Thomas-Hauser-Straße Einrichtung eines absoluten Haltverbotes
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 10.3.2.: (U) Bebauungsplan mit Grünordnung Nr. 1728d Teil 2 -Bildungscampus mit Sportpark, Polizeiinspektion, Rettungswache und Gewerbe- Am Hüllgraben (südlich), Paul-Wassermann-Straße (westlich), Riemer Park (nördlich), Am Mitterfeld (östlich), (Teiländerung des Bebauungsplanes Nr. 779, Teiländerung der Bebauungspläne mit Grünordnung Nr. 1728i und Nr. 1728d Teil 1) - Billigungs- und vorbehaltlicher Satzungsbeschluss - Stadtbezirk 15 Trudering-Riem
+- TOP 10.3.3.: Es kann nicht zweierlei Recht in München geben!
+- TOP 10.3.4.: Wie steht der Oberbürgermeister zur SEM-Nord-Ost?
+- TOP 10.3.5.: Workshop: Rahmenplanung Wasserburger Landstraße
+- TOP 10.3.6.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 10.3.7.: Mitteilung über ein Grundstücksgeschäft Flst. 310/60 (Tlfl.) Michael-Seidl-Straße Verkauf
+- TOP 10.3.8.: (U) Trinkwasserbrunnen
+- TOP 10.3.9.: (U) Wohnen in München VI 1) Erfahrungsbericht für das Jahr 2017 2) Verlängerung der Befristung der Stelle für die Grundstückausschreibungen in Freiham 3) Empfehlungen/Anträge/Petitionen zu diversen Wohnungsbauvorhaben, u.a. WAL-Vorhaben Erwin-Schleich-Weg Stadtbezirk 15 Trudering-Riem Stadtbezirk 16 Ramersdorf-Perlach Stadtbezirk 23 Allach-Untermenzing
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Wimbachtalstraße
+- TOP 10.4.1.2: Kreuzkopfstraße
+- TOP 10.4.1.3: Xaver-Weismor-Str
+- TOP 10.4.1.4: Kirchtruderinger Straße
+- TOP 10.4.2.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 10.4.3.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 10.4.4.: Konzeptioneller Mietwohnungsbau
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) TSV Maccabi München e.V.; Riemer Straße 300 Stadtbezirk 15 - Trudering-Riem 1. Errichtung einer eingeschossigen Freiluftsporthalle mit Multifunktionsbelag (McArena / Jony Halle) 2. Errichtung einer Einfriedung um das gesamte Sportgelände Förderung der Baumaßnahmen nach den Sportförderrichtlinien der Landeshauptstadt München
+- TOP 10.5.2.: (U) Betriebsträgerschaft der Offenen Einrichtung für Jugendliche und Heranwachsende "Jugendcafé Messestadt Riem" 15. Stadtbezirk - Trudering-Riem
+- TOP 10.5.3.: (U) Schulstandort Haar-Gronsdorf - Kooperationsprojekt Landeshauptstadt München mit Landkreis München
+- TOP 10.5.4.: Ergänzung des Stadtratsbeschlusses Nr. 14-20 / V 04539 Breitbandanbindung für die Münchner Bildungseinrichtungen Beschluss der Münchener Förderformel zur Kenntnis - BA-Antrag wurde mit der Sitzungsvorlage behandelt
+- TOP 10.6: UA Umwelt
