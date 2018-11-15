@@ -1,0 +1,89 @@
+# 40. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-15T17:00:00+01:00
+- Ende: 2018-11-15T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18607
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18607
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00689732.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00689732.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00689732.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Zur Parksituation in Köln-Heimersdorf - Kenntnis genommen
+- TOP 7.1.2: Paul-Löbe-Weg "öffentlicher Platz" und Spielplatz - Kenntnis genommen
+- TOP 7.1.3: Verkehrssicherheit im Bereich des Eiscafés Couscous Mocca im EKZ Haselnusshof - geändert beschlossen
+- TOP 7.1.4: Naturspielplatz im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Geplante GAG-Baumaßnahme in Merkenich "In der Kämpen/Derichsweg" - Kenntnis genommen
+- TOP 7.1.6: Sicherheit auf Wegen in Grünanlagen - Kenntnis genommen
+- TOP -: Ergänzende Stellungnahme - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Busverbindung Stadtbezirk Chorweiler/Leverkusen Mitte Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Umbau vom Turkuplatz in Chorweiler Anfrage der SPD-Fraktion - endgültig zurückgezogen
+- TOP 7.2.3: Lärmbelästigung durch Veranstaltungen und Partys in Lindweiler, Unnauer Weg Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Zuwegung Grundstücke Marienstraße in Köln-Pesch Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Grünstreifen an der Neusser Landstrasse in Köln-Seeberg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.6: Förderprogramm : Willkommen und Ankommen in Köln Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Vergabe der bezirksorientierten Mittel und der Kulturmittel Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Verwendung der Mittel des Stadtverschönerungsprogramm 2018 Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Wiederherstellung des Fußweges in Seeberg-Süd Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.3: Unentgeltliches Ticket im Stadtbezirk Chorweiler Gemeinsamer Antrag der SPD-Fraktion und die Linke - endgültig abgelehnt
+- TOP 8.3.4: Einrichtung eines Fußgängerüberweges auf der Schulstraße in Köln Pesch Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.3.5: Beleuchtung Fahrrad- und Fußgängerweg Oranjehofstraße Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufwertung des Spielplatzes "Willi-Suth-Allee (Süd)" in Chorweiler - ungeändert beschlossen
+- TOP 9.1.2: Umsetzung des Integrierten Handlungskonzeptes Lindweiler hier: Änderung der Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds Lindweiler - ungeändert beschlossen
+- TOP 9.1.3: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Chorweiler zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 9.2.2: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - zurückgestellt
+- TOP 9.2.3: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert beschlossen
+- TOP 9.2.4: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Anpassung des Planungsauftrags - geändert beschlossen
+- TOP 9.2.5: Umgestaltung des Knotenpunktes Neusser Landstraße/Oranjehofstraße in einen Kreisverkehr, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, - ungeändert beschlossen
+- TOP 9.2.6: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.7: Baubeschluss für die Instandsetzung der Industriestraße im Bereich zwischen der Brücke über die BAB 1 bis zur Auffahrt von der Edsel-Ford-Straße - ungeändert beschlossen
+- TOP 9.2.8: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 9.2.9: Namensgebung "Gertrud-Bollenrath-Schule" für die Förderschule Soldiner Str. 68, 50767 Köln - ungeändert beschlossen
+- TOP 9.2.10: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - geändert beschlossen
+- TOP 9.2.11: 6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 9.2.12: Integriertes Stadtentwicklungskonzept Äußerer Grüngürtel Nord - zurückgestellt
+- TOP 9.2.13: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: „Wie inklusiv ist das Quartier?“ Exemplarische Erhebung der Generationengerechtigkeit und Barrierefreiheit zweier Wohnquartiere und Erarbeitung eines hieraus abgeleiteten Kriterienkatalogs hier: Zwischenbilanz - Kenntnis genommen
+- TOP 10.2.2: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 10.2.3: Neue Rettungswache für Worringen - Interimsstandort nimmt am 15. Oktober 2018 den Betrieb eines Rettungswagens auf - Kenntnis genommen
+- TOP 10.2.4: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.5: Sachstandsbericht zur Jugendwohngruppe Roggendorf - Kenntnis genommen
+- TOP 10.2.6: Planänderungsbeschluss für die Errichtung und den Betrieb einer Rohrfernleitungsanlage zum Transport von gasförmigem Kohlenmonoxid von Köln-Worringen nach Krefeld-Uerdingen - Kenntnis genommen
+- TOP 10.2.7: Grünerschließung Krebelspfad / Ausgleichsmaßnahme - zurückgestellt
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Zustand der Straßenschilder im Stadtbezirk 6 - Kenntnis genommen
+- TOP 11.1.2: Korkenzieherweide in Köln Blumenberg, Teufelsbergstraße - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
