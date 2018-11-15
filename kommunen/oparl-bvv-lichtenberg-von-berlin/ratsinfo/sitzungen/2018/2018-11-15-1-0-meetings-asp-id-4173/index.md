@@ -1,0 +1,92 @@
+# 24. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-11-15T17:00:00+01:00
+- Ende: 2018-11-15T22:00:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4173
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4173
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=252666
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wirtschaftsstandort Lichtenberg - Weichenstellung für den wirtschaftsfreundlichen Bezirk - vertagt
+- TOP 5.2: Aktion Noteingang auch in Lichtenberg starten - vertagt
+- TOP 5.3: Jugendbildungs- und Begegnungszentrum "Bornitz 101" ermöglichen - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Fachkolloquium zum Besucherzentrum im Mies-van-der-Rohe-Haus - beantwortet
+- TOP 8.2: Taktzeiten auf der Tramlinie M 5 - beantwortet
+- TOP 8.3: Sicherheit in der dunklen Jahreszeit - beantwortet
+- TOP 8.4: Hat das Bezirksamt das Soziale Infrastrukturkonzept aufgegeben? - beantwortet
+- TOP 8.5: Ineffiziente Nutzung öffentlicher Straßenverkehrsflächen - beantwortet
+- TOP 8.6: Verkauf von Kleingartenparzellen durch die DB - beantwortet
+- TOP 8.7: Information über die Vergabe von Restmitteln - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Vorschläge zum Bürgerhaushalt; hier: Beschlussempfehlungen des Begleitgremiums III. Quartal 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bei Neubau von Kitas und Grundschulen Möglichkeiten zur Schaffung von Familienzentren einplanen - überwiesen
+- TOP 9.3: Bauliche Instandsetzung der Jugendverkehrsschulen in Lichtenberg - überwiesen
+- TOP 9.4: Studie Soziale Inklusion und kommunale Sozialpolitik "Zur Situation der Obdach- und Wohnungslosen sowie der Wohnungslosenhilfe im großstädtischen Kontext am Beispiel des Bezirkes Lichtenberg von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.5: vorhabenbezogener Bebauungsplan 11-117 VE - frühzeitige Beteiligungen; Arbeitstitel: Landsberger Allee 323/339 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.6: B-Plan XVII-9-1 endlich festsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Bebauungsplan 11-40-1 - öffentliche Auslegung und erneute, eingeschränkte Behördenbeteiligung u. a.; Arbeitstitel: Wartiner Straße 1 und 6 sowie Falkenberger Chaussee 160 - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Sozialberatung in Arztpraxen in Lichtenberg sichern - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Bezirkliches Ferienschwimmen auch in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Bikesharing für Karlshorst und Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Barrierefreiheit am Johann-Gottfried-Herder-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Zukunftsgewandte Sportförderung im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Haushaltsdaten verständlich präsentieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Gesicherter Fußgängerüberweg an der Landsberger Allee 214 - überwiesen
+- TOP 9.15: Spielstraße Am Berl - überwiesen
+- TOP 9.16: Entwicklung des Vorplatzes am S-Bahnhof Wartenberg - überwiesen
+- TOP 9.17: Bordsteinabsenkung - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Halteverbot An der Bucht - überwiesen
+- TOP 9.19: Ampelschaltung in Malchow optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Sauberes Umfeld an der Storkower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Geschwindigkeitsüberwachung und Geschwindigkeitsreduzierung in der Zechliner Straße - überwiesen
+- TOP 9.22: Grünanlage Karlshorst West - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Alternative Lebensformen ermöglichen - zukunftssicherer Wagenplatz in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Bessere Nahversorgung für Karlshorst-Süd - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.25: Gründung eines Expert*innenbeirats zur Verbesserung der städtebaulichen Qualität von Bauvorhaben - überwiesen
+- TOP 9.26: Verleihung der Bürgermedaille 2018 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.27: Fortsetzung der partnerschaftlichen Zusammenarbeit mit Hoan Kiem von Hanoi und Abschluss des Kooperationsabkommens, Periode 2018 - 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.28: Bebauungsplan 11-93 - Behördenbeteiligung; Arbeitstitel: Frankfurter Allee 135 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Barrierefreies Wohnen - schriftlich beantwortet
+- TOP 12: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 12.1: Bezirkshaushaltsrechnung 2016 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Integriertes Energie- und Klimaschutzkonzept für das Gewerbegebiet Herzbergstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Kletterpflanzen vor Graffiti-Wänden - in der BVV abgelehnt
+- TOP 12.4: Nachweis über den Besuch geförderter Veranstaltungen - in der BVV abgelehnt
+- TOP 12.5: Kostenloses Mittagessen für alle Kinder - ohne Änderungen im Ausschuss beschlossen
+- TOP 12.6: Mehr planerischen Freiraum durch Aufgabe der TVN-Trasse am Regional- und S-Bahnhof Hohenschönhausen - überwiesen
+- TOP 13: Prioritäten der Fraktionen - (offen)
+- TOP 13.1: Schwimmen lernen in Lichtenberger Kitas - überwiesen
+- TOP 13.2: Lichtenberg stellt sich gegen jede Form von Rassismus und Menschenfeindlichkeit bei öffentlichen Kulturveranstaltungen - in der BVV abgelehnt
+- TOP 13.3: Gründercampus nach Lichtenberg - überwiesen
+- TOP 14: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 14.1: Für Fußgehende freundliche und sichere Gestaltung der Weitlingstraße zwischen Einbecker- und Irenenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Erarbeitung eines Radwegenetzes für Karlshorst (1) mit Nutzung/Anbindung an bestehende sowie geplante Radwege und (2) mit organischen Übergängen zu den Nachbargebieten und zum Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Zusätzlicher Halt der Buslinie X54 in der Pablo-Picasso-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.4: Sachstandsinformation zum Bearbeitungsstand von Bebauungsplänen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge zur Beschlussfassung - (offen)
+- TOP 15.1: Schüler*innenhaushalte an Lichtenberger Schulen - überwiesen
+- TOP 15.2: Mehr Bienen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Vermüllung im Ostseeviertel entgegenwirken - mit Änderungen in der BVV beschlossen
+- TOP 15.4: Verzögerungen des MEB an der Victoriagrundschule beenden - in der BVV zurückgezogen
+- TOP 15.5: Freund und Helfer für alle: Unsere Werteordnung vermitteln - überwiesen
+- TOP 15.6: Bauliche Instandsetzung der DDR-Typenbauten der Freiwilligen Feuerwehren im Bezirk - überwiesen
+- TOP 15.7: Kleine Unterkünfte für bessere Inklusion - überwiesen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Abschaffung von sachgrundlosen Befristungen im Kitabereich - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17: Schließung der Sitzung - erledigt
