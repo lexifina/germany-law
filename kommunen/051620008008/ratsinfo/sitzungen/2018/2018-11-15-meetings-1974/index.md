@@ -1,0 +1,70 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-11-15T09:05:00+01:00
+- Ende: 2018-11-15T14:46:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1974
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1974
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bürgeranträge nach § 24 GO NRW
+- TOP 2.1: Haus Hartmann - Kenntnisnahme
+- TOP 2.2: Bürgerantrag gem. § 24 GO NW - einstimmig
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Einrichtung eines Familienbüros für Eltern (Antrag Nr. 230/18) - einstimmig
+- TOP 3.1.2: Förderprogramm "Moderne Sportstätten 2022" (Antrag Nr. 234/18) - einstimmig
+- TOP 3.1.3: Erweiterung / Umbau der KITA "Pusteblume" in Kapellen (Antrag Nr. 235/18) - einstimmig
+- TOP 3.1.4: Erweiterung und Umbau der Grundschule in Kapellen (Antrag Nr. 236/18) - Kenntnisnahme
+- TOP 3.1.5: Verlagerung KITA "Hartmannsweg" u. Erweiterung der GS St.-Martin (Antrag Nr. 239/18) - einstimmig
+- TOP 3.1.6: vier Anträge CDU für Wirtschaftsplan AöR - Kenntnisnahme
+- TOP 3.1.7: Wohnungsbauoffensive für Grevenbroich (Antrag Nr. 207/18) - einstimmig
+- TOP 3.1.8: Ausbau der Grundschule Kapellen-Hemmerden (Antrag Nr. 209/18) - Kenntnisnahme
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.3.1: Einrichtung einer weiteren Funktion für die Presse- und Öffentlichkeitsarbeit (Antrag Nr. 218/18) - Kenntnisnahme
+- TOP 3.4: FDP
+- TOP 3.5: B 90/Grüne
+- TOP 3.5.1: Kunstrasen (Antrag Nr. 216/18) - einstimmig
+- TOP 3.5.2: Prozentualer Anteil des Einkommens für KiTa und OGATA-Elternbeiträge (Antrag Nr. 203/18) - einstimmig
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke-Freie Bürger
+- TOP 4: Schriftliche Anfragen
+- TOP 4.1: CDU
+- TOP 4.2: SPD
+- TOP 4.3: UWG
+- TOP 4.4: FDP
+- TOP 4.5: B 90/Grüne
+- TOP 4.6: Mein Grevenbroich
+- TOP 4.7: Die Linke - Freie Bürger
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: 2. Änderung der Hundesteuersatzung - mehrheitlich bei
+- TOP 7: Gebührenbedarfsberechnung Abfall 2019 - einstimmig
+- TOP 8: Interkommunale Zusammenarbeit - einstimmig
+- TOP 9: Vertrag mit dem TV Jahn Kapellen - mehrheitlich bei
+- TOP 9.1: Etatisierung Betriebskostenzuschuss zum Bad in Neukirchen (Antrag Nr. 220/18) - Kenntnisnahme
+- TOP 9.2: Keine Betriebskostenerstattung Schwimmbad Neukirchen (Antrag Nr. 214/18) - Kenntnisnahme
+- TOP 9.3: Anfrage MGV
+- TOP 10: Finanzen
+- TOP 10.1: Fördermittel - Kenntnisnahme
+- TOP 11: Soziales
+- TOP 11.1: Die Linke/Piraten, Antrag Nr. 281/14 - Kenntnisnahme
+- TOP 12: Haushaltsangelegenheiten
+- TOP 12.1: Haushaltsrelevante Anträge/Anfragen - Kenntnisnahme
+- TOP 12.2: Fragen zum Haushaltsplan 2019 (Anfrage Nr. 206/18) - Kenntnisnahme
+- TOP 12.2.1: Fragen zum Haushaltsplan 2019 (Anfrage Nr. 206/18) - Kenntnisnahme
+- TOP 12.3: Umbau Verwaltungsvorstand (Anfrage Nr. 225/18) - Kenntnisnahme
+- TOP 12.4: Haushalt 2019 - mehrheitlich bei
+- TOP 13: Beantwortung von Anträgen/Anfragen
+- TOP 14: Mündliche Anträge/Anfragen
+- TOP 14.1: Bekanntgabe der Personalentscheidungen (Antrag Nr. 254/2018)
+- TOP 14.2: Neue Rettungswache (Anfrage Nr. 255/2018)
+- TOP 14.3: Hinweisschilder für das neue Schloßbad (Anfrage Nr. 256/2018)
+- TOP 14.4: Bürgerbüro (Anfrage Nr. 257/2018)
+- TOP 15: Mitteilungen BM
