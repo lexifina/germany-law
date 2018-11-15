@@ -1,0 +1,58 @@
+# Gemeinderat (43. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2018-11-15T18:00:00+01:00
+- Ende: 2018-11-15T21:33:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaD0vz2DxsQ7xo9m9ye1oCc
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1698
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTL2bXTiCExcIcz6xzyIS7L37MiErjIiuVLopscMVVOd/Bekanntmachung_Gemeinderat_15.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTcgTFhGGekm7bJDI-UGEKJnaJC6-R6xfvTdQw32fc80/Oeffentliche_Niederschrift_Gemeinderat_15.11.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 11.10.2018 -öffentlicher Teil-
+- TOP 3.: Vortrag des Wasserverbandes Eifel-Rur (WVER) zu den Kosten der Überleitung der Abwässer zur Kläranlage Jülich
+- TOP 4.: Finanzen, Haushalt
+- TOP 4.1: Genehmigung einer außerplanmäßigen Ausgabe - Einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Einbringung des Entwurfs der Haushaltssatzung 2019 und Fortschreibung des Sanierungsplans 2019 - 2021
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der SPD-Fraktion: Erweiterung der Verwaltungstransparenz - Zur Kenntnis genommen.
+- TOP 5.2: Antrag der SPD-Fraktion: Erweiterung des Vorlagenformates - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzungen, Ortsrecht
+- TOP 6.1: Gebührenkalkulation Winterdienst 2019 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Gebührenkalkulation Abfallbeseitigung 2019 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Gebührenkalkulation Gewässerunterhaltungsgebühr 2019 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.4: Gebührenkalkulation Abwasserbeseitigung 2019 / Gebührenanpassung Grubenentleerung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Bauleitplanung
+- TOP 7.1: 29. Änderung des Bebauungsplans 15 A - Matthäusstraße - - Einstimmig, 1 Enthaltung(en)
+- TOP 8.: Entwicklung und anschließende Vermarktung der gemeindeeigenen Parzelle an der Heidgasse in Siersdorf - 22 Ja- Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Ergebnisse des Arbeitskreises "Friedhofsgebühren" - Zur Kenntnis genommen.
+- TOP 9.2: Neuorganisation der Schadstofferfassung der AWA Entsorgung GmbH - Zur Kenntnis genommen.
+- TOP 9.3: Sanierung des Rathauses - Zur Kenntnis genommen.
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 11.10.2018 -nichtöffentlicher Teil-.
+- TOP 2.: Auftragsvergaben
+- TOP 2.1: Ersatzbeschaffung eines Führungsfahrzeuges (KdoW) auf Leasingbasis für die Feuerwehr - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Beschaffung eines Einsatzfahrzeuges auf Leasingbasis für das Ordnungsamt - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Errichtung von Freiflächen-Photovoltaikanlagen im Gemeindegebiet - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: Personalkonzept des Bürgermeisters - Version 1a: 0 Ja- Stimme(n), 23 Nein-Stimme(n), 0 Stimmenthaltung(en)Version 1b: 1 Ja- Stimme(n), 22 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Gremienangelegenheiten
+- TOP 5.1: Berichte aus den Gremien
+- TOP 6.: Auftragsvergaben
+- TOP 6.1: Sanierung des Rathauses; Auftragserteilung Fachplanung - 0 Ja- Stimme(n), 20 Nein-Stimme(n), 3 Stimmenthaltung(en)
+- TOP 7.: Grundstücksangelegenheiten
+- TOP 7.1: Erwerb einer landwirtschaftlichen Parzelle - 14 Ja- Stimme(n), 9 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.2: Folgenutzung des Sportplatzes in Niedermerz - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
