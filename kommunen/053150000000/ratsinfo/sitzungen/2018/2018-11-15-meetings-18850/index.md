@@ -1,0 +1,93 @@
+# 33. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-15T17:00:00+01:00
+- Ende: 2018-11-15T19:25:00+01:00
+- Ort: Aula der Edith-Stein-Realschule, Niehler Kirchweg 120, 50733 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18850
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18850
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Vereidigung eines neuen Mitgliedes der Bezirksvertretung Nippes
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tadsch Mahal - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung Graseggerstraße (Az.: 02-1600-85/18) - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Schulessen im Bezirk Köln-Nippes - Kenntnis genommen
+- TOP 7.1.2: Anfrage der SPD--Fraktion in der Sitzung der Bezirksvertretung Nippes - Kenntnis genommen
+- TOP 7.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.4: Änderung der Fahrtroute der Buslinie 147 - Kenntnis genommen
+- TOP 7.1.5: Zustand der Buchsbaumhecke Park Namibia/Usambara/Tanga Straße - Kenntnis genommen
+- TOP 7.1.6: Spielplätze Brehmstraße und Etzelstraße AN/1281/2018 - Kenntnis genommen
+- TOP 7.1.7: Spielplatz Etzelstraße AN/1242/2018 - Kenntnis genommen
+- TOP 7.1.8: Baumfällung in Köln Nippes - Erzbergerplatz - Kenntnis genommen
+- TOP 7.1.9: Stand Videoüberwachung an den Haltestellen der KVB im Bezirk Nippes - Anfrage von Pro Köln (AN/0249/2018) - Kenntnis genommen
+- TOP 7.1.10: Unfälle Wilhelm-Sollmann-Straße/Herforder Straße (Longerich) - Kenntnis genommen
+- TOP 7.1.11: Verbesserung der Aufenthaltsqualität am Rheinufer - Kenntnis genommen
+- TOP 7.1.12: Straßenbaum auf Feuerwehraufstellfläche - Kenntnis genommen
+- TOP 7.1.13: Reinigung Bolzplatz Am Tetzerkamp - Kenntnis genommen
+- TOP 7.1.14: Taubendreck Umfeld Nippeser Bahnhof - Kenntnis genommen
+- TOP 7.1.15: Gesamtschule Nippes - Kenntnis genommen
+- TOP 7.1.16: Beantwortung einer Anfrage nach § 4 BV 5 zum Stand der Frühverheiratung in Köln - Kenntnis genommen
+- TOP 7.1.17: Anzahl der Ford-Leihfahrräder im Bezirk Nippes - Kenntnis genommen
+- TOP 7.1.18: Verfügbarkeit von Grundstücken für den Schulbau im Stadtbezirk Nippes - Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.1.19: Anfrage des Bezirksvertreters Gabel von PRO KÖLN der Bezirksvertretung Nippes betreffend der Schaugewächshäuser in der Kölner Flora AN/1072/2017 - Kenntnis genommen
+- TOP 7.1.20: Anfrage der Bezirksvertreterin Hölzing von der GRÜNEN-Fraktion der Bezirksvertretung Nippes am 20.09.2018 bezüglich des Flächenberichts 0713/2018 - Kenntnis genommen
+- TOP 7.1.21: ÖPNV-Roadmap: Maßnahmen für den Stadtbahnausbau und -neubau - Kenntnis genommen
+- TOP 7.1.22: Wasserqualität im Stadtbezirk Nippes - Anfrage der SPD - 1324/2018 - Kenntnis genommen
+- TOP 7.1.23: Kölner Verkehrs-Betriebe AG (KVB): "Verbesserung der App für KVB-Fahrräder und Maßnahmen gegen das Abstellen der Fahrräder an für die Öffentlichkeit nicht zugänglichen Orten" - Anfrage der Fraktion Bündnis 90/Die Grünen (AN/0542/2018) - Kenntnis genommen
+- TOP 7.1.24: Blumenerde und Gartenkompost der AVG - kleinere Gebinde - Kenntnis genommen
+- TOP 7.1.25: Entfernung und Versetzung einer Parkbank auf der Höhe Neusser Straße 258 - Kenntnis genommen
+- TOP 7.1.26: Straßenbeleuchtung Mercatorstraße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Straßenbeleuchtung Mercatorstraße - Kenntnis genommen
+- TOP 7.2.2: Sperrung des Flittarder Weges für unberechtigte Fahrzeuge - Kenntnis genommen
+- TOP 7.2.3: Lieferverkehr auf der Neusser Straße - Kenntnis genommen
+- TOP 7.2.4: Mikroplastik - Kenntnis genommen
+- TOP 7.2.5: Umgestaltung der Sebastianstraße in Alt-Niehl - Kenntnis genommen
+- TOP 7.2.6: Baumkontrolle nach Stürmen - Kenntnis genommen
+- TOP 7.2.7: Winterdienst auf Gehwegen ohne Streusalz - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Aufteilung des Fußgänger- und Radweges auf dem Niehler Damm - ungeändert beschlossen
+- TOP 8.1.2: Erweiterung der KVB mobil-App um eine Reservierungsmöglichkeit für KVB-Leihräder - zurückgestellt
+- TOP 8.1.3: Instandsetzung und Inbetriebnahme des Brunnens in der "Alhambra" - ungeändert beschlossen
+- TOP 8.1.4: Instandsetzung des Verbindungsweges Xantener Straße zum Nordpark - ungeändert beschlossen
+- TOP 8.1.5: Unfallhäufigkeit an der Kreuzung Herforder Straße/Sollmann Straße - geändert beschlossen
+- TOP 8.1.6: Veloroute zwischen Weidenpesch und Longerich - ungeändert beschlossen
+- TOP 8.1.7: Sanierung der befestigten Fläche auf dem Marktplatz an der Waldfriedstaße - ungeändert beschlossen
+- TOP 8.1.8: Zusatzschilder in verkehrsberuhigten Straßen - ungeändert beschlossen
+- TOP 8.1.9: Auftragung einer superhydrophoben Beschichtung („Nano-Beschichtung“) zum Schutz sog. „Wildpinkler" am Nippeser Bezirksrathaus - ungeändert beschlossen
+- TOP 8.1.10: Setzen der Flagge "Frei leben" am 25. November 2018 - ungeändert beschlossen
+- TOP 8.1.11: Love your city - Ein Kunstprojekt der MittwochsMaler an der Stadtbahnhaltestelle Geldernstraße/Parkgürtel - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Öffnung der Einbahnstraßen für den gegenläufigen Radverkehr im Stadtbezirk Nippes - geändert beschlossen
+- TOP 9.1.2: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Nippes zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - geändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss - zurückgestellt
+- TOP 9.2.2: Sanierung der Sporthalle an der Realschule Neusser Straße 421, 50733 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 9.2.3: 6. Satzung zur Änderung der Sondernutzungssatzung - geändert beschlossen
+- TOP 9.2.4: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ungeändert beschlossen
+- TOP 9.2.5: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 10.2.2: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 10.2.3: Standortsuche Freiwillige Feuerwehr Löschgruppe Longerich - Kenntnis genommen
+- TOP 10.2.4: Bericht über den Ausgang des verwaltungsgerichtlichen Verfahrens "Bezirksvertretung Köln-Nippes gegen den Rat der Stadt Köln", VG Köln, Az. 4 L 1346 und 4 K 4391/18 - Kenntnis genommen
+- TOP 10.2.5: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.6: Sitzungstermine der BV Nippes im Jahre 2019 - Kenntnis genommen
