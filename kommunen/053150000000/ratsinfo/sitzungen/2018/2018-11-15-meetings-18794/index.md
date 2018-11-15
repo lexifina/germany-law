@@ -1,0 +1,88 @@
+# 36. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-15T15:05:00+01:00
+- Ende: 2018-11-15T19:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18794
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18794
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Veröffentlichung Themenberichte zu den Ergebnissen der "Leben in Köln" - Umfrage
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Genossenschaftlicher Wohnungsbau in Köln/Wohnungsbauleitstelle; Zusatzfrage des RM Frenzel in der Sitzung des Stadtentwicklungsausschusses am 28.06.2018, TOP 1.1 - Kenntnis genommen
+- TOP 1.2: Bebauungsplanaufstellung für Lövenich; AN/0791/2018; Beantwortung der Anfrage der CDU-Fraktion im Rat der Stadt Köln sowie der Fraktion Bündnis 90/Die Grünen im Kölner Rat vom 17.05.2018 - Kenntnis genommen
+- TOP 1.3: Beantwortung der Anfrage des Ratsmitgliedes Ralph Sterck aus der Sitzung des Stadtentwick-lungsausschusses vom 20.09.2018 betreffend Teilaufhebung des Bebauungsplanes Nummer 73479/08 Oberer Wichheimer Kirchweg in Köln-Holweide – Entfall der KVB-Trass - Kenntnis genommen
+- TOP 1.4: Sachstand der Fortschreibung des Einzelhandels- und Zentrenkonzepts - Kenntnis genommen
+- TOP 1.5: Beantwortung der Anfrage der SPD-Fraktion im Rat der Stadt Köln vom 06.09.2018 betreffend Beteiligung der Stadt Köln an Förderprogrammen - zurückgestellt
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Auswirkungen von zurückgestellten Bauprojekten
+- TOP 3: Anträge
+- TOP 3.1: Dringlichkeitsantrag gem. § 12 der Geschäftsordnung des Rates - ungeändert beschlossen
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - zurückgestellt
+- TOP 6.2: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte - Revitalisierung des Porzer Zentrums hier: Änderung der Zusammensetzung des Beirates Porz Mitte - ungeändert beschlossen
+- TOP 6.3: Wohnungsbaugrundstücke im Sürther Feld, 3. Bauabschnitt - ungeändert beschlossen
+- TOP -: Änderungsantrag zur Vorlage 2932/2018, Wohnungsbaugrundstücke im Sürther Feld 3. Bauabschnitt, Baufelder 5 und 7 - gemeinsame Konzeptausschreibung an Genossenschaften/Bestandshalter - endgültig abgelehnt
+- TOP 6.4: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Neugestaltung Gürzenichstraße sowie Neugestaltung Tunnel Johannisstraße; Förderaufruf 2018/2019 - geändert beschlossen
+- TOP 6.5.1: Änderungsantrag zu TOP 6.5 - Neugestaltung Gürzenichstraße sowie Neugestaltung Tunnel Johannisstraße - ungeändert beschlossen
+- TOP 6.6: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - geändert beschlossen
+- TOP 6.7: Konzeptausschreibung der Klimaschutzsiedlung Senkelsgraben - ohne Votum in nachfolgende Gremien
+- TOP 6.8: Ost-West-Achse: Entscheidung über die Vorzugsvariante und Vorbereitung eines Planungs- und Bedarfsfeststellungsbeschlusses - ohne Votum in nachfolgende Gremien
+- TOP 6.9: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Anpassung des Planungsauftrags - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 6.9 "Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29" - endgültig abgelehnt
+- TOP 6.10: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6.11: Beschluss zur Neufestlegung des Gebiets der "Sozialen Stadt" für Meschenich und Rondorf im Rahmen des Programms Starke Veedel Starkes Köln - geändert beschlossen
+- TOP 6.12: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: "Nördlich Colonius" in Köln-Neustadt/Nord; neue Konzeptidee + Durchf. frühz. Öffentlichkeitsb.; Städtebauliches Planungskonzept - zurückgestellt
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Westlich Zülpicher Wall in Köln-Lindenthal; Einleitungsbeschluss - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag zu TOP 10.1.: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und Durchführung der frühzeitigen Öffentlichkeitsbeteiligung nach Modell 1 (Aushang) - ungeändert beschlossen
+- TOP 10.2: Beschluss der Bezirksvertretung Ehrenfeld vom 10.09.2018 auf Einleitung eines Bebauungsplanverfahrens für die Fläche Subbelrather Straße 430 - 436 mit der Zielsetzung, Wohnen unter Berücksichtigung des kooperativen Baulandmodells festzuschreiben.
+- TOP 10.3: "Pfälzischer Ring 100" in Köln-Mülheim, Aufstellungsbeschluss - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Deutzer Hafen in Köln-Deutz - ungeändert beschlossen
+- TOP 10.6: Beschluss über die Aufstellung eines Bebauungsplanes - geändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 63465/02, Arbeitstitel: Neubau Campus Alte Wagenfabrik in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 12.2: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss
+- TOP 12.3: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 70346/03; Arbeitstitel: Langeler Berg in Köln-Porz-Langel - zurückgestellt
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Anträge und Vorschläge aus den Bezirksvertretungen; B-Plan 65460/04; Antrag auf Aufhebung - ungeändert beschlossen
+- TOP 16.2: Beschluss der Bezirksvertretung Ehrenfeld vom 10.09.2018 auf Einleitung eines Bebauungsplanverfahrens für die Fläche Subbelrather Straße 430 - 436 mit der Zielsetzung, Wohnen unter Berücksichtigung des kooperativen Baulandmodells festzuschreiben. - geändert beschlossen
+- TOP -: Änderungsantrag zu StEA TOP 10.2, Beschluss der Bezirksvertretung Ehrenfeld vom 10.09.2018 auf Einleitung eines Bebauungsplanverfahrens für die Fläche Subbelrather Straße 430 - 436 mit der Zielsetzung, Wohnen unter Berücksichtigung des kooperativen B - geändert beschlossen
+- TOP 17: Mitteilungen
+- TOP 17.1: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 17.2: Kölner Statistische Nachrichten 4/2018 Erwerbstätigkeit und wirtschaftliche Lage der Kölner Bevölkerung - Ergebnisse der "Leben in Köln"-Umfrage 2016 - Kenntnis genommen
+- TOP 17.3: Pegel Köln 3/2018 Einwohnerentwicklung 2017: Köln wächst - auch bei geringer Zuwanderung - Kenntnis genommen
+- TOP 17.4: Bericht Wohnen in Köln 2017 - Kenntnis genommen
+- TOP 17.5: Westlich Unter Goldschmied (Laurenz-Carré), Köln Innenstadt - Kenntnis genommen
+- TOP 17.6: Fortführung des Werkstattverfahrens Hallen Kalk; Beauftragung einer Machbarkeitsstudie - Kenntnis genommen
+- TOP 17.7: Entwicklungen im Bereich Ehrenfeld; 2309/2018; mündl. Nachfrage - Kenntnis genommen
+- TOP 17.8: Kölner Perspektiven zu Arbeit und Stadt - Kenntnis genommen
+- TOP 17.9: Frischezentrum - Sachstand - Kenntnis genommen
+- TOP 17.10: Auszeichnung für das GrowSmarter Projektgebiet Stegerwaldsiedlung - Kenntnis genommen
+- TOP 17.11: Verwendung der Stellplatzablösemittel im Jahr 2017 - Kenntnis genommen
+- TOP 17.12: Kölner Statistische Nachrichten 5/2018 - Kenntnis genommen
+- TOP 17.13: Planänderungsbeschluss für die Errichtung und den Betrieb einer Rohrfernleitungsanlage zum Transport von gasförmigem Kohlenmonoxid von Köln-Worringen nach Krefeld-Uerdingen - zurückgestellt
+- TOP 17.14: Eisbahn Ebertplatz - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
