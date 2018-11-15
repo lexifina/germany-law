@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu StEA TOP 10.2, Beschluss der Bezirksvertretung Ehrenfeld vom 10.09.2018 auf Einleitung eines Bebauungsplanverfahrens für die Fläche Subbelrather Straße 430 - 436 mit der Zielsetzung, Wohnen unter Berücksichtigung des kooperativen B
+
+- Sitzung: 36. Sitzung des Stadtentwicklungsausschusses (2018-11-15)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/262578
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/123607
