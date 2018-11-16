@@ -1,0 +1,6 @@
+# TOP 3: Schwerpunktthema "Berufliche Integration geflüchteter Menschen in Köln"
+
+- Sitzung: Runder Tisch für Flüchtlingsfragen (2018-11-16)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/262209
