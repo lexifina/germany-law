@@ -1,0 +1,84 @@
+# Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-11-19T16:00:00+01:00
+- Ende: 2018-11-19T19:46:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12756
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12756
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 09.11.18 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00227518.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00228748.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Green City Plan / Diesel-Gipfel - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der CDU-Fraktion "Green City Plan / Diesel-Gipfel" vom 19.10.2018 (VO/0871/18) - Entgegennahme ohne Beschluss
+- TOP 2.2: Beratungsgremien des Oberbürgermeisters - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der CDU-Fraktion "Beratungsgremien des Oberbürgermeisters" vom 31.10.2018 (VO/0918/18) - ungeändert beschlossen
+- TOP 2.3: Zusammenarbeit Jobcenter Wuppertal mit Bit gGmbH II - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Zusammenarbeit Jobcenter Wuppertal mit Bit gGmbH II" vom 31.10.2018 (VO/0919/18) - Entgegennahme ohne Beschluss
+- TOP 2.4: Nicht richtlinienkonforme Standortwahl der Messstation an der Gathe? - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Ratsgruppe der AfW "Nicht richtlinienkonforme Standortwahl der Messstation an der Gathe?" vom 06.11.2018 (VO/0933/18) - Entgegennahme ohne Beschluss
+- TOP 2.5: Lärmschutzgalerien auf der A 46 - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Anfrage der CDU-Fraktion "Lärmschutzgalerien auf der A 46" vom 08.11.2018 (VO/0946/18) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Einrichtung eines indirekten Linksabbiegers für Radfahrende am Robert-Daum-Platz
+- TOP 3.2: Bürgerantrag zur Verkehrsführung in der Südstadt
+- TOP 3.3: Bürgerantrag zur Großbaustelle in der Hastener Straße in Wuppertal-Cronenberg
+- TOP 3.4: Bürgerantrag zur Verkehrsbelastung im Schulweg in Wuppertal-Cronenberg
+- TOP 3.5: Bürgerantrag zur Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Absatz 2 Sozialgesetzbuch VIII
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Zugang zu Angeboten der gesundheitlichen Versorgung für Menschen mit Behinderung in Wuppertal barrierefrei gestalten - zur Vorberatung verwiesen
+- TOP 4.2: Gemeinsamer Antrag zum Bebauungsplanverfahren "Kleine Höhe" - vertagen
+- TOP 4.3: Radabstellanlage am Döppersberg - zur Vorberatung verwiesen
+- TOP 4.3.1: Änderungsantrag zur VO/0926/18 - Radabstellanlage am Döppersberg - ungeändert beschlossen
+- TOP 4.3.2: Radabstellmöglichkeiten am Döppersberg - Entgegennahme ohne Beschluss
+- TOP 4.3.3: Änderungsantrag zu 4.3 Radabstellmöglichkeiten am Döppersberg - in der Sache erledigt
+- TOP 4.4: Offene Jugendarbeit im Stadtteil Unterbarmen - ungeändert beschlossen
+- TOP 4.5: Verlängerung der Tempo 30 Zone in der Rudolfstraße - in der Sache erledigt
+- TOP 4.6: Resolution - Modellprojekt Cannabis in Wuppertal - zur Vorberatung verwiesen
+- TOP 4.7: Freiwilliger Ratsbürgerentscheid in Sachen Seilbahnprojekt - geändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Wildblumen auf städtischen Grünflächen - geändert beschlossen
+- TOP 5.1.1: Straßenbegleitgrün - Stellungnahme der Verwaltung zur Anfrage der Fraktion DIE LINKE vom 11.08.2017 - Entgegennahme ohne Beschluss
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung über die Festlegung des Gebiets der Immobilien- und Standortgemeinschaft Alte Freiheit / Poststraße / Kerstenplatz sowie über die Erhebung von Abgaben zur Finanzierung von standortbezogenen Maßnahmen innerhalb dieses Gebiets - ungeändert beschlossen
+- TOP 6.2: Satzung über die Abweichung von den Merkmalen der endgültigen Herstellung für die Erschließungsanlage Rathenaustraße / Sonnabendstraße zwischen Huldastraße und dem Grundstück Sonnabendstraße - vertagen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für das Haushaltsjahr 2018 (Teil 2) - Entgegennahme ohne Beschluss
+- TOP 7.2: 8. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2019 - ungeändert beschlossen
+- TOP 7.3: Nachtragshaushaltsplan 2019 - Entgegennahme ohne Beschluss
+- TOP 7.4: Überplanmäßige Ausgabe zur Finanzierung der Toilettenanlage ARALANDIA im Zoologischen Garten - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Bericht über den Vorgang Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH - Entgegennahme ohne Beschluss
+- TOP 8.1.1: Aufhebung und Vertagung der Beschlüsse zur Entlastung der Organe der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - abgelehnt
+- TOP 8.1.2: Fortlaufende Berichterstattung und Information über den Zivilprozess Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH (hier: Mitteilung über die Durchführung der Berufung) - Entgegennahme ohne Beschluss
+- TOP 8.1.3: Ergänzungsantrag zu TOP 8.1.1, VO/0759/18, Aufhebung und Vertagung der Beschlüsse zur Entlastung der Organe der Wuppertal Marketing GmbH für das Geschäftsjahr 2017 - in der Sache erledigt
+- TOP 8.1.4: Ergänzungsantrag zu TOP 8.1.2, VO/0758/18, Fortlaufende Berichterstattung und Information über den Zivilprozess Stadt Wuppertal ./. ASS Athletic Sport Sponsoring GmbH (hier: Mitteilung über die Durchführung der Berufung) - in der Sache erledigt
+- TOP 8.2: Änderung des Gesellschaftsvertrags der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Errichtung einer Tageseinrichtung für Kinder auf dem Grundstück Langobardenstraße - ungeändert beschlossen
+- TOP 11.2: Abschluss einer öffentlich rechtlichen Vereinbarung zwischen der Landeshauptstadt Düsseldorf und der Stadt Wuppertal über die Durchführung der Beihilfebearbeitung bei dauernder Pflegebedürftigkeit - ungeändert beschlossen
+- TOP 11.3: Engelsjahr 2020 - Weiterentwickelte Planung und Stand der Finanzierung - ungeändert beschlossen
+- TOP 11.4: Sachstandsbericht zur Digitalen Leitkommune Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.5: Steigerung und Aufwertung der Attraktivität des Ortskernes und des Ortsbildes von Wuppertal-Cronenberg - ungeändert beschlossen
+- TOP 11.6: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzone "Herzogstraße" - zurückgestellt
+- TOP 11.6.1: Ergänzungsantrag zur Drucksache VO/0779/18 Umgestaltung Von-der-Heydt-Platz - vertagen
+- TOP 11.6.2: Ergänzende Unterlagen zur Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzone "Herzogstraße" - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neukonstituierung der Verbandsversammlung des Wupperverbandes - geändert beschlossen
+- TOP 12.2: Bestellung von stellvertretenden sachkundigen Einwohnern/Einwohnerinnen für den Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW - ungeändert beschlossen
+- TOP 12.3: Abberufung und Bestellung des stellvertretenden Vertreters der Stadt Wuppertal im Verwaltungsrat des Chemischen und Veterinäruntersuchungsamtes Rhein-Ruhr-Wupper Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 12.4: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.5: Abberufung und Bestellung der stellvertretenden Betriebsleitung des Eigenbetriebs Wasser und Abwasser WAW - ungeändert beschlossen
+- TOP 12.6: Umbesetzung im Verwaltungsrat der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzungen - ungeändert beschlossen
+- TOP 12.8: Gremienumbesetzung Planungs- und Baubegleitkommission Döppersberg - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung - ungeändert beschlossen
