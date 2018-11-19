@@ -1,0 +1,85 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-19T14:30:00+01:00
+- Ende: 2018-11-19T15:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18483
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18483
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Werbenutzungsvertrag - Kenntnis genommen
+- TOP 1.2: Beantwortung einer mündlichen Nachfrage der Fraktion Bündnis 90/Die Grünen betr.: "Strategische Leitprojekte im Haushaltsplan" (AN/1082/2018) - Kenntnis genommen
+- TOP 2: Mitteilungen der Verwaltung
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2018 - Kenntnis genommen
+- TOP 2.3: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 2.4: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.09.2018 - Kenntnis genommen
+- TOP 2.5: 22. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.6: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Erhebung von Straßenbaubeiträgen - zurückgestellt
+- TOP 4: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.1: Vorstellung des Gleichstellungsplans 2019 bis 2023 - zurückgestellt
+- TOP 6: Mitteilungen über Kostenerhöhungen gemäß § 24 Absatz 2 Gemeindehaushaltsverordnung in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln
+- TOP 6.1: Erneuerung Asphaltdecke Zoobrücke, hier: Mitteilung über die Erhöhung der Investitionsauszahlungen gem. §24 Abs. 2 GemHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 6.2: Umgestaltung des Knotenpunktes Neusser Landstraße/Oranjehofstraße in einen Kreisverkehr, hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln im Teilplan 1201 - Straßen, - ungeändert beschlossen
+- TOP 6.3: Umgestaltung des Chlodwigplatzes, hier: Mitteilung über eine weitere Kostenerhöhung gem. § 24 Abs. 2 GemHVO in Verbindung mit § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 6.4: Generalinstandsetzung der Troisdorfer Straße, hier: Mitteilung über eine Kostenerhöhung gem. §24 Abs. 2 GemHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 6.5: Grünerschließung Krebelspfad / Ausgleichsmaßnahme - ohne Votum in nachfolgende Gremien
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Ersatzbeschaffung von 27 Aufsitzrasenmähern - ungeändert beschlossen
+- TOP 7.2: Bedarfsfeststellungsbeschluss zur Systemertüchtigung des Kernsystems Verkehrsmanagement sowie Freigabe von investiven Auszahlungsermächtigungen – hier: Finanzstelle 6400-1201-0-0008, Upgrade Verkehrsmanagementsystem - ungeändert beschlossen
+- TOP 8: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9.1: Überplanmäßige Aufwendungen und überplanmäßige Auszahlungen im Haushaltsjahr 2018 - Teilplan - 0209 Ausländerangelegenheiten - ungeändert beschlossen
+- TOP 9.2: Eigenbetriebsähnliche Einrichtung Veranstaltungszentrum Köln - überplanmäßige Auszahlung im Bereich der städtischen Schuldendiensthilfe - ungeändert beschlossen
+- TOP 9.3: Überplanmäßige Aufwendungen in den Teilergebnisplänen 0201 – Allgemeine Sicherheit und Ordnung, 0202 – Gewerbewesen, 0204 – Verkehrs- und KFZ-Wesen, 0205 – Verkehrsüberwachung - ungeändert beschlossen
+- TOP 9.4: Überplanmäßige Aufwendungen im Teilplan 0106 - Zentrale Dienstleistungen - für das Haushaltsjahr 2018 - ungeändert beschlossen
+- TOP 10: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 11: Unterrichtung des Rates gemäß § 82 (1), § 83 (1) und § 85 (1) der Gemeindeordnung NRW über die von der Kämmerin / den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen
+- TOP 11.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2018 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2018. - Kenntnis genommen
+- TOP 12: Allgemeine Beschlussvorlagen
+- TOP 12.1: Bericht über die Prüfung des Jahresabschlusses zum 31.12.2016 - ungeändert beschlossen
+- TOP 12.2: Planungsaufnahme zur Erstellung eines Neubaus der Turnhalle für die KGS Fußfallstraße 55, 51109 Köln - geändert beschlossen
+- TOP 12.3: Abriss und Neubau einer Flüchtlingsunterkunft in konventioneller Bauweise auf dem städtischen Grundstück Kuckucksweg 8, 50997 Köln-Godorf, Planungsbeschluss - ungeändert beschlossen
+- TOP 12.4: Neubau von Wohngebäuden im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Causemannstr. 29 - 31, 50769 Köln-Merkenich und Abbruch der bisherigen Flüchtlingsunterkunft - Anpassung des Planungsauftrags - geändert beschlossen
+- TOP 12.5: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - zurückgestellt
+- TOP 12.6: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf - geändert beschlossen
+- TOP 12.7: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 12.8: Stadtverschönerungsmittel des Stadtbezirkes Lindenthal für die Jahre 2017/2018 - ungeändert beschlossen
+- TOP 12.9: Jahresabschluss Wirtschaftsjahr 2016/2017 des Gürzenich-Orchesters Köln - ungeändert beschlossen
+- TOP 12.10: Wirtschaftsplan des Gürzenich-Orchesters Köln, Wirtschaftsjahr 2018/2019 - ungeändert beschlossen
+- TOP 12.11: Umsetzungsbericht zum Diversity Konzept „2020: Köln l(i)ebt Vielfalt" - geändert beschlossen
+- TOP 12.12: Fortführung der Trägerschaft für die Regionalagentur Region Köln durch die Stadt Köln für den Zeitraum 01.01.2019 - 31.12.2021 - ungeändert beschlossen
+- TOP 12.13: Planungsbeschluss zur Errichtung von Neubauten für eine Gesamtschule und zwei Grundschulen im Neubaugebiet Rondorf Nord-West - ohne Votum in nachfolgende Gremien
+- TOP 12.14: Sanierung der Sporthalle an der Realschule Neusser Straße 421, 50733 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 12.15: Förderprogramm Klima-Schritte - unter Vorbehalt beschlossen
+- TOP 12.16: Neubau von vier Mehrfamilienhäusern im öffentlich geförderten Wohnungsbau auf den städtischen Grundstücken Pater-Prinz-Weg, 50997 Köln-Rondorf - Baubeschluss - ungeändert beschlossen
+- TOP 12.17: Siebzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - zurückgestellt
+- TOP 12.18: Förderkonzept "Lastenräder für Köln" - ungeändert beschlossen
+- TOP 12.19: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - zurückgestellt
+- TOP 12.20: Kooperation mit UNICEF Europe und UNICEF Deutschland zur Durchführung des Gipfels "International Child Friendly Cities" vom 15. - 18. Oktober 2019 sowie die Kampagne "30 Jahre UN Kinderrechtekonvention" in 2019 - ungeändert beschlossen
+- TOP 12.21: Generalsanierung Zaunhofstraße Köln-Meschenich - geändert beschlossen
+- TOP 12.22: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, Teil 2 - ungeändert beschlossen
+- TOP 12.23: Vergabe Restmittel Antirassismus-Training - ungeändert beschlossen
+- TOP 12.24: Stadtentwässerungsbetriebe Köln, AöR (SteB); Wirtschaftsplan 2019 - ungeändert beschlossen
+- TOP 12.25: Stadtentwässerungsbetriebe Köln, AöR (StEB); Abwasserbeseitigungskonzept (ABK), Bericht ABK 2019 - unter Vorbehalt beschlossen
+- TOP 12.26: Stadtentwässerungsbetriebe Köln, AöR (SteB); Abwassergebührensatzung 2019 - unter Vorbehalt beschlossen
+- TOP 12.27: Feststellung des Jahresabschlusses zum 31.08.2016 für die Bühnen der Stadt Köln - ungeändert beschlossen
+- TOP 12.28: Sicherung des Bühneninterims (Oper / Schauspiel / Tanz) 2019 bis 2022 - ungeändert beschlossen
+- TOP 12.29: Großmarkt Köln - Instandsetzungsmaßnahmen zur Sicherstellung des ordnungsgemäßen Betriebes bis Ende 2023, Teilergebnisplan 0203 - Märkte - geändert beschlossen
+- TOP 12.30: Gründung der KölnBusiness Wirtschaftsförderungs-GmbH - zurückgestellt
+- TOP 12.30.1: Fragen zur beabsichtigten Gründung der KölnBusiness Wirtschaftsförderungs-GmbH - zurückgestellt
+- TOP 12.30.2: Weitere Fragen zur beabsichtigten Gründung der KölnBusiness Wirtschaftsförderungs-GmbH - zurückgestellt
+- TOP 12.31: Verteilung der disponiblen Mittel aus dem Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" ab Haushalt 2019 - ungeändert beschlossen
+- TOP 12.32: 3. Satzung zur Änderung der Satzung über die Abfallgebühren - zurückgestellt
+- TOP 12.33: 6. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - zurückgestellt
+- TOP 12.34: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ohne Votum in nachfolgende Gremien
+- TOP 13: Mündliche Anfragen
