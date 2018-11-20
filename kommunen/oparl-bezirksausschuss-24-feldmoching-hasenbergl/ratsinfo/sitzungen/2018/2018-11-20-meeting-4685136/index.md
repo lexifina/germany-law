@@ -1,0 +1,61 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2018-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4685136
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4685136
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat der Toni-Pfülf Schule Nikolausbesuch am 06.12.2018 250,00€ Az.: 0262.0-24-0243
+- TOP 2.2.: Entscheidung über Sondernutzungserlaubnis gem. OB-Vollmacht: Antrag für eine Warenauslage REWE Walter-Sedlmayr-Platz 6
+- TOP 3.: Anträge
+- TOP 3.1.: N Abgeschleppte KFZ in der Joseph-Seifried-Str.
+- TOP 3.2.: N Keine weiteren Rodungen, Aufräum- und Abrissarbeiten auf dem Gelände der Eggartensiedlung in diesem Jahr
+- TOP 3.3.: N Schaffung von Wohnungen für therapeutische Wohn­gemeinschaften und betreutes Einzelwohnen für psychisch kranke Menschen
+- TOP 5.1.1.: Paul-Preuß-Str. 15 + 17
+- TOP 5.1.2.: N Borsigstr. 109
+- TOP 5.2.1.: Paul-Preuß-Str. 15 + 17
+- TOP 5.2.2.: Ponkratzstr. 18
+- TOP 5.2.3.: Silberpappelstr. 15
+- TOP 5.2.4.: N Blausternweg, Fl.Nr. 442/100, Gemarkung Feldmoching
+- TOP 5.3.1.: Flohmärkte Bewohnerstammtisch Diakonie, Goldschmiedplatz, diverse Termine 2019
+- TOP 5.3.2.: N Waldweihnacht mit Krippenspiel am 24.12.2018, Gundermannstr.
+- TOP 5.4.1.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 24. Stadtbezirk
+- TOP 5.4.2.: Zebrastreifen an der Karlsfelder Straße, Bushaltestelle Wohnsiedlung Ludwigsfeld, BVE Nr. 14-20 / E 01393
+- TOP 5.4.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Pkw-Parken neben Einfahrt Detmoldstr. 11
+- TOP 5.4.4.: Planung der SommerSpielAktion 2019
+- TOP 5.4.5.: N Neue Sitzgelegenheiten an öffentlichen Plätzen, Stbez. 2
+- TOP 5.4.6.: N Einrichtung eines personenbezogenen Behindertenparkplatzes, Linus-Funke-Weg
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Einseitiges Parkverbot in der Morriglstraße (gegenüber Tankstelle Dülferstr. 52)
+- TOP 6.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolutes Haltverbot Feldmochinger Straße Einmündung Ponkratzstraße b) Absolutes Haltverbot Am Gottesackerweg Ostseite c) Tempo 30 Feldmochinger Straße 251 (GS Feldmochinger Straße) und Feldmochinger Straße 247 (KiTa)
+- TOP 6.3.: Daten Pegel Feldmoching
+- TOP 6.4.: Meldelisten Bauvorhaben
+- TOP 6.5.: Meldelisten Baumfällungen
+- TOP 6.6.: Vorbescheid Max-Wönner-Str. 4 - 32
+- TOP 6.7.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 6.8.: (U) Trinkwasserbrunnen
+- TOP 6.9.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 6.10.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 6.11.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 6.12.: (U) Haus- und kinderärztliche Versorgung in München (Eckdatenbeschluss Haushalt 2019 Nr. 7).... Bessere ärztliche Versorgung im ambulanten und stationären Bereich: Verstärkter Einsatz der LHM für die gleichmässige Verteilung von Fachärzten über das Stadtgebiet (Ziffer 1 des Antrages), BVE-Nr. 14-20 / E 01948 vom 22.03.2018
+- TOP 8.1.: Protokoll der Sitzung vom 11.09.2018 (nach Genehmigung in der Sitzung am 23.10.2018)
