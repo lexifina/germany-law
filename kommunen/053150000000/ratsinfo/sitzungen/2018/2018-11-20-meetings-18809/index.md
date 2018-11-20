@@ -1,0 +1,75 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-20T16:00:00+01:00
+- Ende: 2018-11-20T18:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18809
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18809
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00691032.pdf
+- Ergebnisprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00691032.pdf
+- Wortprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00691032.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: zu C Fortschreibung der Energie- und Treibhausgasbilanz der Stadt Köln für die Jahre 2008-2015 und eine erste Bilanzierung ausgewählter Beteiligungsunternehmen - Kenntnis genommen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Atomkraftwerke in Tihange und Doel - Sache ist erledigt
+- TOP 1.1.1: Atomkraftwerke in Tihange und Doel - Kenntnis genommen
+- TOP 1.1.2: Beantwortung der mündlichen Anfrage - Kenntnis genommen
+- TOP 1.2: Wie kann das Plastikmüll-Problem auf dem Christopher Street Day in Köln gelöst werden? - zurückgestellt
+- TOP 1.2.1: Plastikmüll auf dem Christopher Street Day in Köln hier: Anfrage der Ratsgruppe BUNT in der Sitzung des Ausschusses Umwelt und Grün am 18.09.2018, TOP 1.5 - zurückgestellt
+- TOP 1.3: Mikroplastik in unseren Gewässern – Kann eine Geschwemmselanlage für den Rhein helfen? - zurückgestellt
+- TOP 1.4: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.5: Ist Braunkohleverbrennung in Köln verzichtbar? - Sache ist erledigt
+- TOP 1.5.1: Ist Braunkohleverbrennung in Köln verzichtbar? - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.6: Trinkwasserversorgung für Köln - Sache ist erledigt
+- TOP 1.6.1: Trinkwasserversorgung in Köln - Kenntnis genommen
+- TOP 1.7: Hundekotbeutel aus kompostierbarem Material - Sache ist erledigt
+- TOP 1.8: Kleine Maßnahmen gegen Plastikmüll: Leihsystem mit wiederverwertbaren Behältnissen für Lieferdienste einführen? - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Förderprogramm Klima-Schritte - ungeändert empfohlen
+- TOP 3.2: Sachstandsmitteilung Klimaschutz - Kenntnis genommen
+- TOP 3.3: mission E - Kenntnis genommen
+- TOP 3.4: Auszeichnung für das GrowSmarter Projektgebiet Stegerwaldsiedlung - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Abfallwirtschaftskonzept der Stadt Köln - ungeändert empfohlen
+- TOP 4.2: Stadtverschönerungsmittel des Stadtbezirkes Lindenthal für die Jahre 2017/2018 - ungeändert beschlossen
+- TOP 4.3: Freiraumplanung Innerer Grüngürtel / Parkstadt Süd - ungeändert empfohlen
+- TOP 4.4: Ersatzbeschaffung von 27 Aufsitzrasenmähern - ungeändert beschlossen
+- TOP 4.5: Ersatzbeschaffung von 2 Forstspezialschleppern - ungeändert beschlossen
+- TOP 4.6: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Stadtentwässerungsbetriebe Köln, AöR (StEB); Abwasserbeseitigungskonzept (ABK), Bericht ABK 2019 - ungeändert empfohlen
+- TOP 4.8: Stadtentwässerungsbetriebe Köln, AöR (SteB); Abwassergebührensatzung 2019 - ungeändert empfohlen
+- TOP 4.9: Sanierung Orangerie im Volksgarten - ungeändert empfohlen
+- TOP 4.10: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ohne Votum in nachfolgende Gremien
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 5.1.1: Qualifizierungsverfahren "Blaue Funken"/Sachsenturm (Blaue Funken-Weg 2), Köln-Innenstadt - Kenntnis genommen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 7.2: Rather See in Köln-Rath/Heumar; 74440/02; Offenlage - Kenntnis genommen
+- TOP 7.3: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen - Kenntnis genommen
+- TOP 7.4: Rohrleitungsschaden Naphtha - Kenntnis genommen
+- TOP 7.5: Weinrebenprojekt an Kölner Schulen - Kenntnis genommen
+- TOP 7.6: Energieeinsparung durch Sanierung der Beleuchtungsanlagen im Museum für Ostasiatische Kunst - Kenntnis genommen
+- TOP 7.7: Stilllegung der Altdeponie "Nonis" in Köln Merheim, hier: Sachstand zur Planung einer Gassperre und zum weiteren Vorgehen zur Sicherung von Deponiegasemissionen - Kenntnis genommen
+- TOP 7.8: Kalkberg - Kenntnis genommen
+- TOP 7.9: Kleingartenwettbewerb "Bunte Vielfalt" - Kenntnis genommen
+- TOP 7.10: Grünerschließung Krebelspfad / Ausgleichsmaßnahme - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Kalkberg, Staubverwehungen und Sachstand - Kenntnis genommen
+- TOP 8.2: Beantwortung der Frage aus der Sitzung des Ausschusses für Umwelt und Grün vom 18.09.2018 betr. Stadtradeln - Kenntnis genommen
+- TOP 8.3: Beantwortung von Rückfragen zum Wasserversorgungskonzept (1274/2018) aus der Sitzung vom 21.06.2018 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3: Tagesordnungspunkt (betrifft Privatpersonen)
