@@ -1,0 +1,173 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4788868
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4788868
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.4.1.1.: Nächtliche Ruhestörung Kuntersweg - Bericht vom "Runden Tisch" zur Thematik
+- TOP 3.4.1.2.: "Fantreffpunkt" am Candidplatz - Aufstellen von Bauwagen (verwiesen aus der Sitzung vom 16.10.18 in die Unterausschüsse Soziales sowie Bau und Planung)
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Bruggspergerstraße 58, Wohnbebauung mit Tiefgarage - VORBESCHEID; Anhörung vom 16.10.18
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der September-Sitzung Protokoll der Oktober-Sitzung
+- TOP 2.1.2.1.: Städt. Stadion an der Grünwalder Straße; Beeinträchtigungen der Anwohner durch Lärmbelästigung; Bürgerschreiben vom 11.10.2018
+- TOP 2.1.2.2.: Querungshilfe über die Naupliastraße / Seybothstraße auf Höhe Laurinplatz; Bürgerschreiben vom 12.10.18
+- TOP 2.1.2.3.: Parkplatzprobleme durch den Flohmarkt auf dem Gelände der Gaststätte "Menterschwaige"; Bürgerschreiben vom 13.10.18
+- TOP 2.1.2.4.: Parken rund ums 60er; Bürgerschreiben vom 01.10.18
+- TOP 2.1.2.5.: Errichtung einer Bedarfsampel für Fußgänger an der Tram-Haltestelle Schilcherweg; Bürgerschreiben
+- TOP 2.1.2.6.: Bauvorhaben Schmorellplatz 8 - Baumschutz; Bürgerschreiben vom 25.10.18
+- TOP 2.1.2.7.: Verkehrslage am Parkplatz Tierpark Hellabrunn mit Blockierung der Straße zum Tiroler Platz und Ampelschaltung Harthauser Straße Richtung Stadt; Bürgerschreiben vom 04.11.18
+- TOP 2.2.1.1.: Gartenstädte - Erhalt des Charakters und bauliche Entwicklung - Rahmenplanungen; Sitzungsvorlagen Nr. 14-20 / V 12716; Entwurf; Vorstellung durch das Referat für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 21.11.18
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget; Bürgervereinigung Maibaum-Untergiesing e.V. für die Maßnahme: Festschrift zum 40-jährigen Jubiläum im Dezember 2018; Antragssumme: 2.580,00€
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Umwelt & Gesundheit - APPELL e.V. für die Maßnahme: Projekt "Bücherzelle für Untergiesing" ab 15.12.2018; Antragssumme: 5.319,00€
+- TOP 3.1.4.1.: Bürgerinnen und Bürger gestalten Ihre Stadt; Antrag vom 08.01.2018 beim BA 18 der Bürgerinitiative "Mehr Platz zum Leben"; Nutzerfreundliche Gestaltung des ehem. Bushalt 58 am Kolumbusplatz; Schreiben des Direktoriums mit der Bitte um Stellungnahme zur geänderten Kostenstruktur.
+- TOP 3.1.6.1.: AKA - Aktiv für interkulturellen Austausch e.V.; Kurzbericht zum Formular-Service Giesing
+- TOP 3.1.6.2.: Green City; Kurzbericht zum Projekt "Insekten machen Schule"
+- TOP 3.1.6.3.: Pfarrverband Harlaching; Kurzbericht zum Zeltlager / zur Pfingstfahrt
+- TOP 3.1.6.4.: Verwendungsnachweise 3.1.6.4.1 Pfarrverband Harlaching - Pfingtsfahrt und Zeltlager 3.1.6.4.2 Green City e.V. - 4 Workshoptage zum Thema "Insekten" 3.1.6.4.3 Maibaumverein Menterschwaige - Harlachinger Maifest
+- TOP 3.1.6.5.: Umwelt & Gesundheit / Appell e.V. - Gesundheitsberatung im Wohnbereich in Untergiesing-Harlaching; Zwischenbericht
+- TOP 3.1.6.6.: Aktionsgruppe Untergiesing e.V., Stadtteilfest "Ois Giasing"; Kurzbericht
+- TOP 3.2.1: Bericht
+- TOP 3.2.1.1.: Verbesserung der Verkehrssicherheit an der Einmündung Münchner Kindl-Weg; Antrag der Fraktion Bündnis 90/Die Grünen (zuletzt vertagt aus der Sitzung vom 16.10.18)
+- TOP 3.2.1.2.: Bericht zum Ortstermin Tegernseer Platz (Umgestaltung / Abbau von Parkplätzen vor der Post)
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Peter-Auzinger-Straße (Projekt-Nr. 100902 - Radwegführung); Beschluss des BA 18 vom 20.11.18
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Erweiterungsausbau der P+R-Tiefgarage Mangfallplatz unter dem Vollmarpark; BA-Antrag Nr. 14-20 / B 04505 vom 23.01.18; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 16.10.18
+- TOP 3.2.5.2.: Gehwegabsenkung Kurz- / Harlachinger Straße; BA-Antrag Nr. 14-20 / B 05234 vom 21.08.18; Antwortschreiben des Baureferats-Tiefbau vom 22.10.18
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.6.2.: 2-jähriger Versuch Dialogdisplays - Aufstellung in der Säbener Straße; Information des KVR vom 25.10.18
+- TOP 3.2.6.3.: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt; Sitzungsvorlage Nr. 14-20 / V 09512; Bekanntgabe in der Sitzung des Bauausschusses vom 09.10.2018
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Untersuchung der Schadstoffbelastung durch das Grillen am Flaucher; BA-Antrag Nr. 14-20 / B 05181 vom 17.07.18; Antwortschreiben des RGU vom 04.10.18
+- TOP 3.3.5.2.: Verbesserung der Luftqualität am Candidplatz, Entlastung von Abgasen; BA-Antrag Nr. 14-20 / B 04795 vom 17.04.18; Antwortschreiben des RGU vom 30.10.18
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Neue Ökokonten für München; Sitzungsvorlage Nr. 14-20 / V 12602; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.18 (VB)
+- TOP 3.3.6.2.: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf; Sitzungsvorlagen Nr. 14-20 / V 12659; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.18 (VB)
+- TOP 3.3.6.3.: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität"; Sachmittelbedarf; Sitzungsvorlagen Nr. 14-20 / V 12660; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 10.10.2018 (VB)
+- TOP 3.3.6.4.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung; 3.3.6.4.1 Seybothstraße 70; Bescheid vom 23.10.18
+- TOP 3.3.6.5.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien; Sitzungsvorlagen Nr. 14-20 / V 11236
+- TOP 3.3.6.6.: (U) Trinkwasserbrunnen; Sitzungsvorlage Nr. 14-20 / V 12133; Beschluss des Bauausschusses vom 09.10.2018 (SB)
+- TOP 3.3.6.7.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen; Radfahren in den Wintermonaten; Antrag Nr. 14-20 / A 02943; Sicheres Radeln auch im Winter ermöglichen; Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017; Sitzungsvorlage Nr. 14-20 / V 10857; Beschluss des Bauausschusses vom 09.10.2018 (SB)
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.4.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019; Schreiben des Vereins Spielen in der Stadt e.V. mit der Bitte um Rückmeldung bis 30.11.2018
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Nächtliche Ruhestörung Kuntersweg und temporäre Entfernung von Banklatten; Schreiben des Baureferats-Gartenbau vom 25.09.18
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: (U) Wohngemeinschaften für Menschen mit psychischer Behinderung Antrag Nr. 14-20 / A 03752 vom 18.01.2018; Sitzungsvorlagen Nr. 14-20 / V 11962; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 26.09.2018 (SB)
+- TOP 3.4.6.2.: Dienststellenverständigung - 3-gruppiger Kindergarten an der Schönstraße 9 in Pavillonbauweise, 18. Stadtbezirk Untergiesing-Harlaching; Info des RBS vom 26.10.18
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.1.1.: "Fantreffpunkt" am Candidplatz - Aufstellen von Bauwagen (verwiesen aus der Sitzung vom 16.10.18 in die Unterausschüsse Soziales sowie Bau und Planung)
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: (E) Ensembleschutz für Altharlaching Empfehlung Nr. 14-20 / E 00725 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 12.11.2015
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.2.1.: Altersheimerstraße 16-16a; genehmigungspflichtige Maßnahmen an Baumbestand
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Reinerstraße 6-20; Bayerische Denkmalliste - Teil A: Baudenkmäler - LHM; Nachtrag der Reihenhausanlage in die Denkmalliste; Schreiben des Referates für Stadtpl. u. Bauordnung vom 22.10.18
+- TOP 3.5.5.2.: Stadtplanung von heute für die Stadtentwicklung von morgen! Kleinteilige Gewerbe und Möglichkeitsräume mitdenken und fördern; BA-Antrag Nr. 14-20 / B 05053 vom 19.06.2018; Antwortschreiben des Planungsreferates vom 31.10.18
+- TOP 3.5.5.3.: Erwerb des Grundstücks Schilcherweg 8 – 10 zur Einrichtung von Kita-Plätzen; BA-Antrag Nr. 14-20 / B 04606; Antwortschreiben des Kommunalreferats vom 30.10.18
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz; Sitzungsvorlagen Nr. 14-20 / V 12592; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2018 (VB) zu 3.5.6.1 Hinweis / Ergänzung vom 09.10.18
+- TOP 3.5.6.2.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf; Sitzungsvorlagen Nr. 14-20 / V 12652; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 10.10.2018 (VB) zu 3.5.6.2 Hinweis / Ergänzung vom 01.10.2018
+- TOP 3.5.6.3.: (U) Personelle Verstärkung der Schulbauoffensive im Referat für Stadtplanung und Bauordnung; Sitzungsvorlagen Nr. 14-20 / V 12655; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.10.2018 (VB)
+- TOP 3.5.6.4.: (U) Agrastrukturelle Untersuchungen; Sitzungsvorlagen Nr. 14-20 / V 12626; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 10.10.2018 (VB)
+- TOP 3.5.6.5.: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung; Sitzungsvorlagen Nr. 14-20 / V 12595; Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP 3.5.6.6.: (U) Konkretisierung der Konzeption "Freiraum M 2030"; A) Personal- und Sachmittelbedarfe für die Schlüsselprojekte des ersten Aktionsplans B) "Neue Baum-Alleen im Außenbereich des Münchner Stadtgebiets anlegen" Antrag Nr. 14-20 / A 03179 von ÖDP vom 19.06.2017; Sitzungsvorlagen Nr. 14-20 / V 12629; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 10.10.2018 (VB)
+- TOP 3.5.6.7.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung; Sitzungsvorlagen Nr. 14-20 / V 12558; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10-10.2018 (VB)
+- TOP 3.5.6.8.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung; Sitzungsvorlagen Nr. 14-20 / V 12559; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 10.10.18 (VB)
+- TOP 3.5.6.9.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts; Sitzungsvorlagen Nr. 14-20 / V 12615; Beschluss des gemeinsamen Ausschusses für Stadtpl. u. Bauordnung un des IT-Ausschusses vom 10.10.18 (VB)
+- TOP 3.5.6.10.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"; Sitzungsvorlagen Nr. 14-20 / V 12560; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 10.10.18 (VB)
+- TOP 3.5.6.11.: 3.5.6.11 Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.11.1 Anwesen Jakob-Gelb-Platz; Unterrichtung vom 09.10.2018 3.5.6.11.2 Anwesen Waldeckstraße; Unterrichtung vom 18.10.2018 3.5.6.11.3 Anwesen Waldeckstraße; Unterrichtung vom 18.10.2018 3.5.6.11.4 Anwesen Waldeckstraße; Unterrichtung vom 22.10.2018 3.5.6.11.5 Anwesen Waldeckstraße; Unterrichtung vom 23.10.2018
+- TOP 3.5.6.12.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Zuleitungen des Sozialreferats 3.5.6.12.1 Anwesen Schönchenstraße; Mitteilung vom 09.10.18 3.5.6.12.2 Anwesen Benediktenwandstraße; Mitteilung vom 15.10.18 3.5.6.12.3 Anwesen Birkenau; Mitteilung vom 29.10.18
+- TOP 3.5.6.13.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.13.1 SSW "Dinnerschmiede", Birkenleiten 41; Mitteilung vom 16.10.18 3.5.6.13.2 SSW "Wineart", Sommerstraße 41; Mitteilung vom 10.10.18 3.5.6.13.3 SSW "Abbey Road", Grünwalder Straße 71; Mitteilung vom 02.11.18
+- TOP 3.5.6.14.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region." Sitzungsvorlagen Nr. 14-20 / V 12743; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.11.2018 (VB)
+- TOP 3.5.6.15.: Liste der Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Positionspapier der Koordinierungsgruppe Giesing (KGG); Perspektive und Basis der weiteren Stadtteilentwicklung: Giesing bleibt im Wandel
+- TOP 3.5.7.2.: Ausbau des Grünwalder Stadions; Anfrage Nr. 14-20 / F 01323 aus dem Stadtrat; Beratung und Beschlussfassung über die Position des BA 18
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Weihnachtsmarkt am Mangfallplatz vom 30.11.18 bis 02.12.18; Zuleitung des KVR mit der Bitte um Stellungnahme bis 21.11.18
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: (U) Olympiapark München; Beantragung Welterbestatus Sachmittelbedarf; Sitzungsvorlagen Nr. 14-20 / V 12656; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 10.10.2018 (VB)
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.1.: Informationsschreiben - BA 03/18 - Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist; Schreiben des Oberbürgermeisters an alle Referate
