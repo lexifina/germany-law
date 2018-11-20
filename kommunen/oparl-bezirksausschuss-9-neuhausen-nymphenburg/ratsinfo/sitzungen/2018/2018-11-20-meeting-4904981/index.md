@@ -1,0 +1,111 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4904981
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4904981
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.1.: Nachfrage Sachstand Planung neues ASZ
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Sicherheit am Fuß-und Radweg entlang des Nymphenburg-Biedersteiner Kanals
+- TOP 3.2.2.: Sicherheit für den Fahrradverkehr an der Kreuzung Albrecht-/Lazarettstraße
+- TOP 3.2.3.: Brücke über die Landshuter Allee zwischen Heideckstraße und Braganzastraße für den Fahrradverkehr freigeben
+- TOP 3.2.4.: Radstreckenführung unter der Donnersbergerbrücke / Antrag Bewirtschaftung der nördlichen Fläche unter der Donnersbergerbrücke zwischen Richel- und Arnulfstraße
+- TOP 3.2.5.: Frundsbergstraße - Verkehrsberuhigung im Bereich Platz der Freiheit
+- TOP 3.2.6.: Haltverbot Nordseite Zamboninistraße
+- TOP 3.3: Anhörungen
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Widmung der Margarethe-Danzi-Straße zur Fahrradstraße
+- TOP 3.4.2.: Verkehrsregelung Nördliche Auffahrtsallee / Tempolimit Waisenhausstraße
+- TOP 3.4.3.: Verkehrsregelung Maria-Ward-Straße Richtung Schlossplatz
+- TOP 3.4.4.: Leonrodstraße Ecke Landshuter Allee - Verkehrsgefährdung durch Autofahrer in der Rush Hour
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Unterrichtung über verkehrsrechtliche Anordnungen: - Gertrud-Bäumer-Straße - Dom-Pedro-Straße - Hirschbergstraße
+- TOP 3.5.2.: Winthirplatz Richtung Wendl-Dietrich-Straße: Freigeben für Radverkehr entgegen der Einbahnregelung
+- TOP 3.5.3.: (U) Jährlicher Bericht zur Umrüstung der Busflotte der MVG Eine „E-Linie“ für München Antrag Nr. 14-20 / A 00861 von Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Klaus Peter Rupp und Frau Stadträtin Ulrike Boesser vom 01.04.2015 Umrüstung Münchner Dieselbusse mit einer neuen Technologie Antrag Nr. 14-20 / A 03650 von Herrn Stadtrat Marian Offman, Herrn Stadtrat Richard Quaas vom 05.12.2017 Elektrobus-Pilotprojekt: Ausgestaltung der Buslinien 54 und 154 als E-Bus-Linien Antrag Nr. 14-20 / A 03651 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer, Herrn Stadtrat Sebastian Schall, Herrn Stadtrat Richard Quaas, Herrn Stadtrat Thomas Schmid vom 05.12.2017 E-Busflotte beschaffen, Luftqualität verbessern Antrag Nr. 14-20 / A 03861 der Stadtratsfraktion der SPD vom 27.02.2018 Nachrüstung der Busflotte von MVG und Vertragsunternehmen auf Abgasnorm Euro 6 Antrag Nr. 14-20 / A 03873 der ÖDP vom 07.03.2018 Elektrobuseinsatz im 9. Stadtbezirk Antrag Nr. 14-20 / B 03985 des Bezirksausschusses des Stadtbezirkes 09 – Neuhausen-Nymphenburg vom 27.06.2017 Sofortige Ertüchtigung des öffentlichen Nahverkehrs Empfehlung Nr. 14-20 / E 01653 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 06.07.2017
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Bauvorhaben - Frickastr. 34 - Herthastr. 32 - Romanstr. 24 - Arnulfstr. 150
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Prüfung von Nachverdichtungsmöglichkeiten
+- TOP 4.4.2.: Zwischennutzung auf der Fläche Kulturpavillion
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Grundstücksgeschäft Hanebergstraße
+- TOP 4.5.2.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.5.3.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 4.5.4.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Begrünung der Tramtrasse Arnulfstraße
+- TOP 5.2.2.: Slacklining im Hirschgarten
+- TOP 5.2.3.: Imkerei-Standort im Kreativquartier
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Anhörung zu Baumfällungsanträgen: - Lierstraße 27 - Volpinistr. 4
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Baumentfernungen auf öff. Grund
+- TOP 5.5.2.: Einsatz von Laubbläsern
+- TOP 5.5.3.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Offene Altenarbeit der Hilfe im Alter gGmbH Weihnachtsfeier für die Ehrenamtlichen am 19.12.2018 456,25€ Az.: 0262.0-9-0305
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Lärmbelästigung am Rotkreuzplatz
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Spielen in der Stadt e.V.: Planung der SommerSpielAktion 2019
+- TOP 6.3.2.: Hanebergstraße - Abbruchanzeige
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) Trägerschaftsvergabe für die Trägerschaft von Jugendsozialarbeit (JaS) im Verbund Stadtbezirk 9 (Grundschule an der Helmholtzstraße, Grundschule an der Hirschbergstraße und Grundschule an der Margarethe-Danzi-Straße) und Stadtbezirk 19 (Grundschule Baierbrunner Straße und Grundschule an der Boschetsrieder Straße)
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget fructa - Initiative für kreativen Austausch Präsentation von internationalen Künstlerbüchern und -magazinen vom 30.11.2018 - 11.01.2019 1.687,50€ Az.: 0262.0-9-0304
+- TOP 7.1.2.: (E) Stadtbezirksbudget Wannda e.V. Stromerschließungskosten für den Märchenbazar vom 29.11.2018 - 29.12.2018 8.000,00€ Az.: 0262.0-9-0306
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Neuhauser Trafo - Kunst am Bau
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: (U) Öffnungszeiten der Münchner Stadtbibliothek; Evaluation der Pilotphase der Samstagsöffnung an sechs Standorten; Ausweitung auf alle Standorte der Münchner Stadtbibliothek ab 2019 in einem 2-Stufenmodell Stadtbibliothek am Rosenkavalierplatz: Öffnung auch samstags Empfehlung Nr. 14-20 / E 01781 der Bürgerversammlung des Stadtbezirkes 13 – Bogenhausen am 26.10.2017 Öffnungszeiten der Stadtbibliothek Neuhausen Empfehlung Nr. 14-20 / E 01886 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 05.12.2017
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Zuwegung Haus für Kinder in der Braganzastraße über das Gelände der FT Gern
+- TOP 8.2.2.: Behebung des Kapazitätsproblem der Bezirkssportanlagen im 9. Stadtbezirk
+- TOP 8.2.3.: Wiedereinrichtung der Boulderwand an der Grünanlage Richelstaße
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Werbeveranstaltung Alpentouristik am 13.08.2019 auf dem Rotkreuzplatz
+- TOP 9.4: Antwortschreiben
+- TOP 9.4.1.: Mittelfristige Finanzplanung 2017 - 2021: MIP - Fortschreibung für die Jahre 2018 - 2022 - Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Fortführung von Gaststättenbetrieben: - "Ryo Fusion Kitchen" - Blutenburgstraße 31 - "Metzgerwirt" - Nördliche Auffahrtsallee 69 - "Il Padre" - Nymphenburger Straße 152a
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
