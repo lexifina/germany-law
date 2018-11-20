@@ -1,0 +1,7 @@
+# TOP 9: Ergebnisse der Jugend-BVV vom 10.11.2018: Schul- und sportpolitische Ideen und Initiativen
+
+- Sitzung: 24. Sitzung in der VIII. Wahlperiode des Ausschusses Schule und Sport (2018-11-20)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=47735
+- Ergebnis: erledigt
