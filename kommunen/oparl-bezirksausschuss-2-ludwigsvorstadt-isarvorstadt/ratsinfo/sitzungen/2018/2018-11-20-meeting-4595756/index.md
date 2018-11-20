@@ -1,0 +1,130 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-11-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595756
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595756
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.1.: Äußerungen des Bezirksausschusses bezüglich der Neugestaltung der Starnberger Flügelbahn
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.8.: Ampelschaltung am Stachus (2018.05 C 5.7; 2018.09 C 4.11; 2018.10 C 5.6)
+- TOP 5.11.: Bürgeranliegen, Parksituation wegen der vielen Baustellen am Goetheplatz
+- TOP 5.12.: Bürgeranliegen, Nutzung der Fläche für Warenauslagen Blumen Ruf während Pink Christmas
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: Original Münchner Schäfflertanz 2019
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ Az.: 0262.0-2-0242
+- TOP 2.3.: (E) Stadtbezirksbudget Initiative "Glockenbach-Wochenschau" Restaurierung und Wiederaufführung der Glockenbach-Wochenschau von Januar - November 2019 2.832,00 Euro Az.: 0262.0-2-0244
+- TOP 2.4.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Hip Hop Open Mic Session vom 08.01.2019 - 03.12.2019 2.923,00€ Az.: 0262.0-2-0245
+- TOP 3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019
+- TOP 5.1.: Künstlerische Gestaltung der Fußgängerunterführung Seidlstraße – Kunstprojekt Munichen
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) + (U) Verdichtung der Wohnbebauung, Innenhöfe sollen erhalten bleiben Empfehlung Nr. 14-20 / E 01826 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 09.11.2017
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Fraunhoferstraße 13, Neubau eines Rückgebäudes mit Tiefgarage und Autoaufzug - VORBESCHEID
+- TOP 3.1.2.: Ickstattstraße 5, Neubau Rückgebaude: Wohngebäude mit Tiefgarage; Bestand Vordergebäude; Anbau Aufzug + Balkone, Nutzungsänderung EG Laden mit Wohnung zu TG-Zufahrt mit Wohnung, Teilung 2. OG 2 WE in 3 WE, Dachgeschossbau (2018.10 B 3.1.11)
+- TOP 3.1.3.: Landwehrstraße 17, Aufstockung VGB und Neubau Seitengebäude mit Tiefgarage (2018.10 B 3.1.12)
+- TOP 3.1.4.: Bayerstraße 25, Neubau eines Geschäftshauses mit Einzelhandel und Beherbergungsbetrieb – VORBESCHEID (2018.10 B 3.1.13)
+- TOP 3.1.5.: Zweibrückenstraße 10, Bestands-/Nachgenehmigung
+- TOP 3.1.6.: Reichenbachstraße 38, Aufstockung und Wiederherstellung Mansardendachstuhl, Anbau zweier hofseitiger Balkone im DG, Einbau eines Aufzugs, Umbau EG – 3. OG, Nutzungsänderung Wohnraum im 1. =G / rechts zu Gewerbe, Neubau Fahrradabstell- und Müllraum, Rekonstruktion der Straßenfassade (Putz/Stuck)
+- TOP 3.1.7.: Schwanthalerstraße 34, Nutzungsänderung der Praxisräume im 2. + 06. OG sowie Büroräume im 3.OG zu Ferienwohnungen
+- TOP 3.1.8.: Landwehrstraße 28a, Nutzungsänderung von Schulungsräumen mit reduzierter Nutzung (2. + 6. OG) zu Büroflächen sowie der Hausmeisterwohnung im 2. DG zu Speicherräumen
+- TOP 3.2.1.: Fraunhoferstraße 13, Vollzug der Baumschutzverordnung: Neubau eines Rückgebäudes mit Tiefgarage und Autoaufzug
+- TOP 3.2.2.: Vollzug der Baumsschutzverordnung: Ickstattstraße 5, Neubau Rückgebaude: Wohngebäude mit Tiefgarage; Bestand Vordergebäude; Anbau Aufzug + Balkone, Nutzungsänderung EG Laden mit Wohnung zu TG-Zufahrt mit Wohnung, Teilung 2. OG 2 WE in 3 WE, Dachgeschossbau (2018.10 B 3.2.2)
+- TOP 3.2.3.: Fällung mehrerer Bäume, Bob-van-Benthem-Pl. 1
+- TOP 3.2.4.: Ein Spitzahorn, Westermühlstraße 37
+- TOP 3.2.5.: Eine Weide, Kohlstraße 4
+- TOP 3.3.1.: Barrierefreier Zugang Isar nördlich der Reichenbachbrücke
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Bürgeranliegen, Barrierefreie Querung der Reifenstuelstraße
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Schutz der Weideninsel
+- TOP 1.2.: Verbesserungen für Radfahrende und zu Fuß Gehende in der Paul-Heyse-Straße im Abschnitt zwischen Schwanthaler- und Bayerstraße
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Gaststätte „Emsa“, Kapuzinerstraße 8, Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund
+- TOP 2.2.1.: Antrag für die aufstellung für Warenauslagen, Häberlstr. 23
+- TOP 2.2.2.: Antrag für einen mobilen Fahrradständer in der Schwanthalerstraße 14
+- TOP 2.3.1.: (E) Tempo 30 Zone in der Auenstraße
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Nutzung der Theresienwiese 2019
+- TOP 3.2.1.: Anhörung zur Verkehrsrechtlichen Anordnung: Tempo 30 in Bereiche der Auenstraße
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Parksituation um den Zenettiplatz
+- TOP 5.2.: Bürgeranliegen, Probleme im Gebiet Gärtnerplatz
+- TOP 5.3.: Bürgeranliegen, Parkplatzsituation aufgrund des Schiffs (Bürgerwortmeldung vom 23.10.2018)
+- TOP 5.4.: Bürger Fahrradparkplätze Zenettistraße 20
+- TOP 5.5.: Bürgeranliegen, Fortführung der Neugestaltung des Zenettiplatzes
+- TOP 5.6.: Bürgeranliegen, Einbahnstr. Regelung Pestalozzistr., Status Querungsverbesserungen Holzplatz und CarSharing-Parkplätze am Glockenbachspielplatz
+- TOP 5.7.: Bürgeranliegen, Toilettenhäusl am Holzplatz
+- TOP 5.9.: Bürgeranliegen, Laubbläser im Alten Südfriedhof
+- TOP 5.10.: Bürgeranliegen, akute und zunehmende Verkehrsprobleme in der Poccistraße
+- TOP 5.13.: Bürgeranliegen, Nächtliche Ruhestörung vor Musikclub Milla
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) Vollzug der Zweckentfremdungssatzung (ZeS) Zweckentfremdung von Wohnraum durch Vermietung als Ferienwohnungen Fortschreibung des Ersten Berichtes aus dem Jahr 2016 zur Sonderermittlungsgruppe Ferienwohnungen Online-Meldeplattform für vermutete Zweckentfremdungen von Wohnraum: Erster Erfahrungsbericht Gesetzliche Neuregelung zur Zweckentfremdung Antrag Nr. 14-20 / A 02237........... Antrag, Meldeplattform "Raum für München" Antrag Nr. 14-20 / B 05037..........
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Adolf-Kolping-Str. 10, Vorbescheid zu Bauvorhaben
+- TOP B 4.3.: Adlzreiterstr. 18, Vorbescheid zu Bauvorhaben ( 3 Var.)
+- TOP B 4.4.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP B 4.5.: Lichtsignalanlage Schwanthalerstraße / St.-Paul-Straße
+- TOP B 4.6.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP B 4.7.: Müllerstraße 45, Unterrichtung zu Bauvorhab
+- TOP B 4.8.: Vollzug der Erhaltungssatzung, Kolosseumstraße 6
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.6.: Umplatzierung der Christbaumverkaufsstände auf der Theresienwiese
+- TOP C 4.7.: Lärmschutz an der Bahnstrasse Dreimühlenviertel
+- TOP C 4.8.: Bürgeranliegen, Lärm und Geruchsbelästigung Frauenhoferstraße 13
+- TOP C 4.9.: Temporäre Paketausgabestation auf der Theresienwiese
+- TOP C 4.10.: (U) Trinkwasserbrunnen
+- TOP C 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Informationsschreiben – Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist
+- TOP E 2: Bereich Besondere Angelegenheiten
