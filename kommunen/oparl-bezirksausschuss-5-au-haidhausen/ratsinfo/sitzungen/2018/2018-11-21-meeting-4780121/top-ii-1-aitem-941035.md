@@ -1,0 +1,7 @@
+# TOP II.1.: Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€
+
+- Sitzung: BA 05 - Vollgremium (2018-11-21)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/941035
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/941035
