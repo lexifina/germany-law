@@ -1,0 +1,153 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-11-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4780121
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4780121
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 2.1.: Humboldtstr. 13: Einbau einer Galerie im Dachgeschoss
+- TOP 2.2.: Hochstr. 2 - 4: Ausbau und Zusammenlegung der Dachspeicher, Neuerrichtung eines Aufzugs an der hofseitigen Fassade (Hochstr. 2)
+- TOP 2.3.: Rosenheimer Str. 111: DG- und Speicherausbau, Anbau eines Außenaufzugs an ein Mehrfamilienhaus
+- TOP 2.4.: Orleansplatz 5 - 5a: DG-Ausbau zu 3 Wohneinheiten, Einbau von Dachgauben,, Anbau von 4 Balkonen (1. - 4. OG), Anbau einer Notleiteranlage
+- TOP 2.5.: Rablstr. 14: Energetische Dachsanierung mit eingeschossiger Aufstockung und energetische Fassadensanierung
+- TOP 2.6.: Max-Planck-Str. 1: Generalsanierung der Kellergeschosse einschl. der haustechnischen Anlagen im Altbau und Neubau eines unterirdischen Sprinklertanks/Archiv sowie Einbau des Südaufzuges von U2 bis O3
+- TOP 2.7.: Steinstr. 63: Umbau und Sanierung des Gesamtanwesens mit Veränderung der Grundrisse der Gewerbe- und Wohneinheiten (Vordergebäude), Einbau eines Aufzugs in den hofseitigen Anbau, Anbau zweier Balkone mit Notleiteranlagen hofseitig und Erneuerung des DG-Ausbaus, Abbruch der Hofbebauung und Neubau eines Rückgebäudes auf der Hoffläche
+- TOP 2.9.: Preysingstr. 50: Umbau einer Wohneinheit im DG 1+2
+- TOP 4.: Büegeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Drohender Weiterverkauf Sedanstr. 27
+- TOP 4.2.2.: Antrag auf einen Weihnachtsmarkt am Mariahilfplatz
+- TOP 4.2.3.: Neuerscheinung des "Münchner Isarbuchs"
+- TOP 4.2.4.: Zusätzliche Sitzbank am Zita-Zehner-Platz
+- TOP 4.2.5.: Antrag auf Markierung des Radwegs an der Einmündung der Schlossstraße in die Einsteinstraße
+- TOP 4.2.6.: Widerrechtliches Parken Preysingstr. 71
+- TOP 4.2.7.: Antrag auf Ausweisung von Parkflächen für CarSharing
+- TOP 5.1.: Zwischenbericht Trogerstraße
+- TOP 5.2.: Derzeitiger Stand des Problems der Miniermotten an Kastanien
+- TOP 5.3.: Freischankflächen im Winter
+- TOP 5.4.: Verbleib der Kinder- und Jugendbibliothek im Stadtteil während des Umbaus des Gasteigs
+- TOP 5.5.: Sitzbänke in der Unteren Au aufstellen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ - siehe auch UA Kultur -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Förderverein der Freunde der Schule an der Kirchenstraße e.V. Tanzprojekt von Januar 2019 - Juni 2019 1.965,00€ - siehe auch UA Soziales -
+- TOP 6.1.3.: (E) Stadtbezirksbudget VdK-OV-Haidhausen Jahresgottesdienst mit Toten- und Kriegergedenken am 17.11.2018 295,00€ - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Initiative "Desperados 1919" Performance-Projekt "Desperados 1919" vom 18.02.2019 - 23.02.2019 1.950,00€ - siehe auch UA Kultur -
+- TOP 6.1.5.: (E) Stadtbezirksbudget Elternbeirat der Grund- und Mittelschule mit Tagesheim an der Hochstraße Projekt "Kinder treffen Künstler" vom 28.01.2019 - 15.02.2019 3.025,00€ - siehe auch UA Soziales -
+- TOP 6.1.6.: (E) Stadtbezirksbudget Kath. Männerfürsorgeverein München e.V. / Haus an der Franziskanerstraße Weihnachtsfeier für die Bewohner am 24.12.2018 820,00€; Az.: 0262.0-5-0221
+- TOP 6.2.1.: Genehmigung einer Freischankfläche für die Gaststätte "Preysinggarten", Preysingstr. 69 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Lang-Jaumann, Alfred", Ohlmüllerstr. 6 Vertagung aus der Sitzung vom 17.10.2018 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) + (U) Bebauung Paulaner-Gelände - Konzept für die Verkehrsberuhigung obere und untere Au Empfehlung Nr. 14-20 / E01651 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 29.06.2017 - siehe auch UA Planung -
+- TOP 7.1.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen, hier: Ohlmüllerstr. 40 (Kindertagesstätte Auenland)
+- TOP 8.1.1.: Neuer Planungsstand beim Bauvorhaben: 2.-S-Bahn-Stammstecke im Abschnitt 3
+- TOP 8.1.2.: Briefkasten für die Filiale Mariahilfplatz der Stadtsparkasse
+- TOP 8.1.3.: Weitere Fahrradstraßen für Au-Haidhausen
+- TOP 8.1.4.: Instandhaltung des Maxwerks durch die SWM
+- TOP 8.1.5.: Aktueller Sachstand: 2. S-Bahnstammstrecke am Ostbahnhof
+- TOP 8.1.6.: Gefährliches Parken in der Spicherenstraße
+- TOP 8.1.7.: Mehr Platz für Räder - rund um den Ostbahnhof -1
+- TOP 8.1.8.: Rückbau des baulich getrennten Restradweges vor der Orleansstr. 46 bis zur Ampelanlage vor dem Busbahnhof
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Wörthstr. 28: Fällung von 1 Japanischen Zierkirsche
+- TOP 7.2.: Balanstr. 41: Ablehnung der Ersatzpflanzung durch die Untere Naturschutzbehörde
+- TOP 7.3.: Milchstr. 16: Ablehnung der Ersatzpflanzung durch die Untere Naturschutzbehörde
+- TOP 7.4.: Lilienstr. 2: Rückschnitt von Bäumen
+- TOP 7.5.: Breisacher Str. 5: Fällung 2er Wildwuchs Linden
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€
+- TOP II.2.: Stadtbezirksbudget Initiative "Desperados 1919" Performance-Projekt "Desperados 1919" vom 18.02.2019 - 23.02.2019 1.950,00€
+- TOP II.3.: Original Münchner Schäfflertanz 2019 Bestellung für Au und Haidhausen
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Stadtbezirksbudget Förderverein der Freunde der Schule an der Kirchenstraße e.V. Tanzprojekt von Januar 2019 - Juni 2019 1.965,00€
+- TOP 1.2.: Stadtbezirksbudget Elternbeirat der Grund- und Mittelschule mit Tagesheim an der Hochstraße Projekt "Kinder treffen Künstler" vom 28.01.2019 - 15.02.2019 3.025,00€
+- TOP 2.: Anhörungen
+- TOP 2.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sanierung der städt. Kindertagesstätte Einsteinstr. 120 Rückmeldung zum aktuellen Stand
+- TOP 3.2.: Besuch der Grundschule Bazeillesstr. 8 bei Herrn Oberbürgermeister Reiter Spielplatz Postwiese Antwortschreiben des Baureferats
+- TOP 3.3.: Jugendtreff Au am Kegelhof 8, Aufgabe der Hortplanung Fristverlängerung für BA-Antrag Nr. 4928
+- TOP 3.4.: Nutzung der Halfpipe am Spielplatz Tassilopark Terminabsprache zum gemeinsamen Ortstermin
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Stadtbezirksbudget VdK-OV-Haidhausen Jahresgottesdienst mit Toten- und Kriegergedenken am 17.11.2018 295,00€
+- TOP 1.2.: Genehmigung einer Freischankfläche für die Gaststätte "Preysinggarten", Preysingstr. 69
+- TOP 1.3.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: "Lang-Jaumann, Alfred", Ohlmüllerstr. 6 Vertagung aus der Sitzung vom 17.10.2018
+- TOP 2.: Anhörungen
+- TOP 2.1.: Antrag für die Aufstellung einer Sitzgelegenheit vor dem Anwesen Drächslstr. 4
+- TOP 3.: Unterrichtungen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Bebauung Paulaner-Gelände - Konzept für die Verkehrsberuhigung obere und untere Au Empfehlung Nr. 14-20 / E01651 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen am 29.06.2017
+- TOP 2.: Anhörungen
+- TOP 2.8.: Maria-Theresia-Str. 4: Neubau eines Wohnhauses mit Tiefgarage => dazu: Baumfällungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baugenehmigungen a) Sedanstr. 14 b) Sieboldstr. 4 c) Sommerstr. 2 d) Regerstr. 28
+- TOP 3.2.: Planfeststellung für das Vorhaben "S-Bahn-Station Rosenheimer Platz - Brandschutztechnische Ertüchtigung; Neubau einer maschinellen Rauchabzugsanlage" Forderungen des BA 5
+- TOP 3.3.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 3.4.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 3.5.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 3.6.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP VI.1.: Vorstellung der Baumaßnahme „Sichere Preysingstraße“ durch die Projektbetreuer
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Regerstraße
+- TOP 2.2.: Verlängerung des Taxistandplatzes Ismaninger Straße – Rückmeldung der Taxi AG vom 23.10.2018
+- TOP 2.3.: Standortbegehung für den Aufbau neuer Elektroladesäulen im BA 5 am 06.11.2018 – Mitteilung über Standortvorschläge
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen hier: Wörthstraße
+- TOP 3.2.: Wiederanbringung des Halteverbotsschildes an der Ecke Siebold-/Barnabasstraße Wiederaufstellung der Abweisblende in der Wörthstraße Rückmeldung des Baureferats
+- TOP 3.3.: Orleansstraße / Orleansplatz (Südwest): Asphaltierung nach Fahrbahnabsenkung
+- TOP 3.4.: Erneuerung Eisenbahnüberführung über die Balanstraße / Ausbau Geh- und Radwege Antwort zum Schreiben des BA 5 vom 20.09.2018
+- TOP 3.5.: Verlegung einer Fernwärmeleitung in der Orleansstaße zwischen der Balanstraße und der Rosenheimer Straße
+- TOP 4.1.: Containerstandort Edlinger Platz – Ortstermin (vertagt am 19.09.2018, TOP B VI 4.6)
+- TOP 4.2.: Fehlender Fahrradweg an der Ohlmüllerstraße am Paulaner Neubau - Ortstermin (vertagt am 19.09.2018, TOP B VI 4.8)
+- TOP 4.3.: Baumpflanzung in der Falkenstr. 17 – Ortstermin (vertagt am 19.09.2018, TOP B VI 4.9)
+- TOP 4.4.: Dunkelheit am Fahrradweg auf der östlichen Isarseite
+- TOP 4.5.: Beschwerde bezüglich der Bushaltestelle des X30 in der Orleansstraße
+- TOP 4.6.: Steinhauser Str. - Ortstermin
+- TOP 4.7.: Fahrbahnbelag Genoveva-Schauer-Platz - Ortstermin (vertagt am 19.09.2018, TOP B VI 4.5)
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 03.12.2018, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 03.12.2018, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 04.12.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 05.12.2018, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 06.12.2018, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 12.12.2018, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 27.11.2018, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Einladung zur Informationsveranstaltung "Unterhaltsmaßnahmen an der Isar im Winter 2018/2019" am 23.11.2018 um 14.30 Uhr
+- TOP 4.2.: Weihnachtsausstellung "Kreativität kennt kein Alter" vom 04.12.-20.12.2018 / Eröffnung am 04.12.2018 um 13 Uhr in der Rathausgalerie
+- TOP 4.3.: Informationsveranstaltung für die Bezirksausschüsse zum Schulbauprogramm am 28.11.2018 um 18 Uhr
