@@ -1,0 +1,115 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2018-11-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4569891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4569891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 1.1.: Anfrage: Umgehung des Mieterschutzes durch Vermietung möblierter Wohnungen
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP F.1.: Bildung eines Arbeitskreises Standtbezirksbudget (Termine im Januar)
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP 6.1.: (E) Vollzug des Bayerischen Straßen und Wegegesetzes im Stadtbezirk 4 Schwabing - West Widmung nachfolgender Gesamt- bzw. Teilstrecken der Therese-Studer-Straße (Gesamtstrecke) des Gustav-Landauer-Bogens (3 x Teilstrecke) des Felix-Fechenbach-Bogens (3 x Teilstrecke) des Rosa-Aschenbrenner-Bogens (Gesamtstrecke)
+- TOP B: Soziales
+- TOP 1.1.: Bürgerin: Nächtliche Ruhestörung durch Jugendliche im Ackermannbogen
+- TOP 2.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis: Mediatorenausbildung an der Hermann-Frieb-Realschule
+- TOP 3.2.2.: Verwendungsnachweise: „Kicklusion“ im Luitpold- und im Petuelpark
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Franz-Joseph-Str. 35 „Pizza Verde“: Genehmigung einer Freischankfläche
+- TOP 2.2.1.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ Az.: 0262.0-4-0225
+- TOP 2.3.1.: Elisabethplatz: Zusätzlicher Benefiz-Flohmarkt am 01.12.2018
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid an Halle 6 UG für eine Kunstausstellung
+- TOP 3.2.2.: Bewilligungsbescheid an das Improtheaterfestival München e.V.
+- TOP 3.2.3.: Bewilligungsbescheid an die Kreuzkirche für Konzert am 24.11.2018
+- TOP 3.3.1.: „Schicksale“ am 23.10.2018 in der Grünanlage Bayernplatz
+- TOP 3.3.2.: „Dem Horizont so nah“ am 05.11.2018 im Luitpoldpark
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Erläuterungsschilder in der Ackermannstraße wurden angebracht (Nachricht des Kommunalreferats vom 08.11.2018)
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Georgenstr. 118: Abbruch von Balkonen, Neuerrichtung zweier Balkonanlagen
+- TOP 2.1.2.: Agnesstr. 34: Dachgeschossausbau mit Aufzugsanlage
+- TOP 2.1.3.: Schleißheimer Str. 204: Erweiterung einer Metzgerei
+- TOP 2.1.4.: Tektur Mittermayrstr. 11: Aufstockung eines Wohngebäudes
+- TOP 2.1.5.: Vorbescheid Gernotstr. 1-9: Aufstockung einer Wohnanlage, Anbau von Aufzügen und Neubau einer Tiefgarage – Baumfällungen in Zusammenhang mit dem Bauvorhaben
+- TOP 2.1.6.: Keuslinstr. 7 – 7 a: Aufstockung und Ausbau 5. OG + DG, Anbau eines Außen- und Einbau eines Personenaufzugs, Errichtung je zweier Balkonanlagen im Hof und auf der Straßenseite, Neubau einer Duplexgarage mit 6 Stellplätzen
+- TOP 2.1.7.: Lothstr. 19: Nutzungsänderung von Teilflächen in einem Büro- und Geschäftsgebäude, Erstellung eines neuen Brandschutzkonzepts in zwei Bauabschnitten
+- TOP 2.1.8.: Tektur Brunnerstr. 2: Errichtung einer Ausgabehütte, einer Treppenüberdachung und einer Gastraumhütte sowie Neustrukturierung des Gartens mit gastronomischer Nutzung
+- TOP 2.1.9.: Schleißheimer Str. 140 (südwestlicher Pavillon Nordbad): Nutzungsänderung Gewerbe- zu Sportfläche
+- TOP 2.1.10.: Hohenzollernstr. 112: Erweiterung einer Balkonanlage um einen Balkon
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Grundstückstausch Belgradstr. 107/109 (Antwortschreiben des Kommunalreferats auf BA-Schreiben vom 27.09.2018)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: „Wachstum gestalten. Gemeinsame Projekte für die Region“, Beschlussvorlage für den Bauausschuss vom 09.10.2018 (Sitzungsunterlage Nr. 14-20 / V 12743)
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Ruhestörung durch Berufsschule Elisabethplatz 2
+- TOP 1.2.: Bürger: Bienenstandortkündigung Neuhausen / Schwabing-West
+- TOP 1.3.: Bürgerin: RadfahrerInnen im Petuelpark
+- TOP 1.4.: SPD-Antrag: Weitere Sitzbank an der Ecke Hohenzollern-/Friedrichstraße
+- TOP 1.5.: Antrag Die Grünen: Weitere Fahrradabstellplätze in Schwabing-West
+- TOP 1.6.: Bürgerin: Entsorgung der Schrottfahrräder und weitere Fahrradabstellplätze am Kurfürstenplatz
+- TOP 1.7.: Bürger: Wetterschutz für Bushaltestelle Herzogstr. 55 (Pündterplatz)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Erich-Kästner-Str. 43: Fällung zweier Ahornbäume
+- TOP 2.1.2.: Rümannstr. 60: Fällung eines Spitzahorn und eines schwarzen Holunders
+- TOP 2.1.3.: Elisabethstr. 4: Fällung eines Laubbaums
+- TOP 2.1.4.: Adams-Lehmann-Str. 14: Fällung einer Eiche
+- TOP 2.2.1.: (E) + (U) Erschütterungs- und Lärmbelästigung durch U3 am Petuelring Empfehlung Nr. 14-20 / E 00606 der Bürgerversammlung des Stadtbezirkes 4 – Schwabing West am 12.10.2015
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Radwege in der Franz-Joseph-Straße: Aufhebung der Benutzungspflicht und umgehende Sanierung des bestehenden Radwegs
+- TOP 3.1.2.: Wildes Parken am Freibad Georgenschwaige, u.a. im Luitpoldpark (Antwort Baureferat Gartenbau auf BA-Schreiben vom 30.08.2018)
+- TOP 3.1.3.: Vorfahrtsregelung in der Birnauer Straße als Teil der Fahrradstraßenpilotroute Nymphenburg-Petuelring (Antwort KVR auf BA-Schreiben vom 27.09.2018)
+- TOP 3.1.4.: Verkehrssituation Barbarastraße (Zwischennachricht KVR zu BA-Schreiben vom 30.08.2018)
+- TOP 3.1.5.: Aufstellung privater Pflanzgefäße auf dem Gehweg Fallmerayerstr. 29 (Schreiben der Bezirksinspektion an die Antragstellerin, vgl. BA-Schreiben vom 27.09.2018)
+- TOP 3.1.6.: Grünphase der Fußgängerampel Destouches-/Belgradstraße (Antwort KVR auf BA-Schreiben vom 25.10.2018)
+- TOP 3.2.1.: Baumschäden durch Abrissarbeiten auf dem Grundstück Belgradstr. 109 (Antwort der Unteren Naturschutzbehörde auf Hinweis aus dem BA vom 06.09.2018)
+- TOP 3.3.1.: Feuerwehranfahrtszone Elisabeth-Kohn-Straße (Höhe Agnes-Neuhaus-Straße)
+- TOP 3.3.2.: Aufhebung zweier allgemeiner Behindertenparkplätze im Bereich Friedrichstr. 19
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 3.4.2.: (U) Plätze und Aufenthaltsqualität Priorisierung von Plätzen und Straßen für eine vertiefte verkehrliche und städtebauliche Betrachtung
+- TOP 3.4.3.: Scheidplatz: Herstellung einer barrierefreien Fußgängerquerung (Anliegerinformation des Baureferats Tiefbau zu den Bauarbeiten im November/Dezember
+- TOP 3.4.4.: Maßnahmen zum Fahrplanwechsel 2018 (Informationsschreiben der Stadtwerke MVG)
+- TOP 3.4.5.: Neuer BA-Ansprechpartner bei der MVG (Informationsschreiben der Stadtwerke MVG)
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
