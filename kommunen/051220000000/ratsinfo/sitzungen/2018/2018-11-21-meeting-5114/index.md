@@ -1,0 +1,69 @@
+# Zentraler Betriebsausschuss (18. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-11-21T16:35:00+01:00
+- Ende: 2018-11-21T18:34:00+01:00
+- Ort: Autohaus Dornseifer, Lüneschloßstraße 9, 42657 Solingen, Autohaus
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZEnRpZJ2XmvpE4aAOO4RZY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5114
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbzjU58SSaK_weinJOyP0hem58VEbXP6zotZzc-intCG/Bekanntmachung_Zentraler_Betriebsausschuss_21.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfCaYi-hAO424d6AAjmvrIWMiowjv6gq9ZhesnP77791/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_21.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Überflutung der Hofschaft Haasenmühle bei Starkregen - Zusatzfragen
+- TOP 1.2: Haltestelle Stöcken
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 17. Sitzung des zentralen Betriebausschusses am 12.09.2018
+- TOP 4.: Quartalsbericht 3. Quartal 2018 der Technischen Betriebe
+- TOP 4.1: Quartalsbericht 3. Quartal 2018 der Technischen Betriebe
+- TOP 5.: Quartalsbericht 3. Quartal 2018 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 6.: Quartalsbericht 3. Quartal 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 7.: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 8.: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2019 / 2020 der Technischen Betriebe Solingen
+- TOP 9.: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2019 / 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 10.: Jahresabschluss 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 11.: Wirtschaftsplan 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 12.: Wirtschaftsplan 2019 der Technischen Betriebe Solingen
+- TOP 12.1: Wirtschaftsplan 2019 der Technischen Betriebe Solingen
+- TOP 13.: Wirtschaftsplan 2019 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 14.: Gebührenbedarfsberechnung 2019
+- TOP 15.: II. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 16.: IV. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 17.: V. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 18.: IV. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 19.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 20.: Neufassung der Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 20.1: Neufassung der Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 21.: Neufassung der Friedhofssatzung der Stadt Solingen
+- TOP 22.: Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 23.: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) 2019 - 2024 der Klingenstadt Solingen
+- TOP 24.: Betriebskonzept Familienbad Solingen
+- TOP 25.: Festlegung der neuen Tarifübersicht für die Einrichtungen der Solinger Bädergesellschaft mbH (SBG)
+- TOP 26.: Verschiedenes
+- TOP 26.1: Mitteilungen des Betriebes
+- TOP 26.1.1: Pfandringe für Flaschensammler
+- TOP 26.2: Anfragen an den Betrieb
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 17. Sitzung des zentralen Betriebausschusses am 12.09.2018
+- TOP 4.: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2019 / 2020 der Entsorgung Solingen GmbH
+- TOP 5.: Solinger Bädergesellschaft mbH (SBG) - Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2019 / 2020
+- TOP 6.: Quartalsbericht 3. Quartal 2018 der Entsorgung Solingen GmbH
+- TOP 7.: Quartalsbericht 3. Quartal 2018 der Solinger Bädergesellschaft mbH
+- TOP 8.: Wirtschaftsplan 2019 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 9.: Wirtschaftsplan 2019 der Entsorgung Solingen GmbH
+- TOP 10.: Finanzierung des Ersatzneubaus Familienbad Vogelsang
+- TOP 11.: Liefervertrag über die Leittechnik für das Müllheizkraftwerk
+- TOP 12.: HSP-Maßnahme Mneu02 Optimierungseffekte TBS / DBSG - mündlicher Bericht -
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen des Betriebes
+- TOP 13.1.1: Vergaben und Vertragsabschlüsse über 50.000 Euro der TBS Berichtszeitraum 01.08.2018 bis 31.10.2018
+- TOP 13.1.2: Vergaben und Vertragsabschlüsse über 50.000 Euro des DBSG
+- TOP 13.2: Anfragen an den Betrieb
