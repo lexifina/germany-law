@@ -1,0 +1,6 @@
+# TOP 11.: Anfragen und Mitteilungen
+
+- Sitzung: Betriebsausschuss (20. Sitzung) (2018-11-22)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/16399
