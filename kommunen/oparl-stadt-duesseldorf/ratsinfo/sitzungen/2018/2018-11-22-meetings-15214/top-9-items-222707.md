@@ -1,0 +1,8 @@
+# TOP 9: Entwicklungskonzept für die Städtische Clara-Schumann-Musikschule
+
+- Sitzung: Kulturausschuss (2018-11-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/222707
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/95106
