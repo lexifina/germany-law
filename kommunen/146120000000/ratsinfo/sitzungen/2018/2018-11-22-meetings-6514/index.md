@@ -1,0 +1,81 @@
+# 57. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-11-22T16:00:00+01:00
+- Ende: 2018-11-22T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6514
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6514
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2018_11_22 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00377218.pdf
+- Ergebnisprotokoll: Niederschrift öffentlich SR 2018_11_22 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00385838.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: 9. Einwohnerfragestunde
+- TOP 2.1: Winterdienst auf Radwegen - erledigt
+- TOP 2.2: Großmannstraße/Westendstraße - erledigt
+- TOP 2.3: Parkfläche Sportplatz Salzburger Straße - erledigt
+- TOP 2.4: großräumige Straßensperrungen durch Sport- und Großveranstaltungen - erledigt
+- TOP 2.5: Stadtteil Kleinluga - erledigt
+- TOP 2.6: Pumpspeicher Werk Dresden Niederwartha - erledigt
+- TOP 2.7: Sanierung BSZ für Agrarwirtschaft und Ernährung - erledigt
+- TOP 3: Einigungsverfahren Gremienbesetzung - Stadtbezirksbeirat
+- TOP 3.1: Umbesetzung im Stadtbezirksbeirat Altstadt - Zustimmung mit Änderung
+- TOP 3.2: Umbesetzung im Stadtbezirksbeirat Altstadt - Zustimmung
+- TOP 4: Umbesetzung der Vertretung des Stadtschülerrates Dresden gemäß § 2 der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Einwendungen gegen den Entwurf der Haushaltssatzung 2019/2020 gemäß § 76 SächsGemO - Vertagung
+- TOP 7: Haushaltssatzung 2019/2020 und Wirtschaftspläne 2019 der Eigenbetriebe - Vertagung
+- TOP 8: Vertagungen der Stadtratssitzung vom 07.06.2018
+- TOP 8.1: Vorplanung Kesselsdorfer Straße zwischen Reisewitzer Straße und Rudolf-Renner-Straße - punktweise Abstimmung mit Änderung
+- TOP 9: Vertagungen der Stadtratssitzung vom 25.01.2018 bzw. 20.09.2018
+- TOP 9.1: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Verweisung
+- TOP 9.2: Aufhebung einzelner Beschlusspunkte in V1057/11: Beschaffung der Spielstätten für Staatsoperette Dresden und Theater Junge Generation durch die STESAD GmbH (SR/030/2011) - Vertagung durch Einreicher
+- TOP 10: Vertagungen der Stadtratssitzung vom 01.11.2018
+- TOP 10.1: Nachbesetzung einer/s Vertreterin/s der Landeshauptstadt Dresden und deren/dessen Stellver-tretung in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse Ostsächsi-sche Sparkasse Dresden - Zustimmung
+- TOP 10.2: Nachbesetzung eines Mitgliedes des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Zustimmung
+- TOP 10.3: Andenken an Johann "Rukeli" Trollmann wachhalten - Boxerdenkmal herrichten und an einen würdigeren Ort im Sportpark Ostra umsetzen - Zustimmung mit Änderung
+- TOP 10.4: Integriertes Stadtentwicklungskonzept "Zukunft Dresden 2025+" - Fortschreibung 2017 - Vertagung nach 22 Uhr
+- TOP 10.5: Dresdner Weg 2.0: Saubere Luft - ohne Fahrverbote - Vertagung nach 22 Uhr
+- TOP 11: Kapitaleinlage an die Messe Dresden GmbH - Vertagung
+- TOP 12: Aufnahme der Kindertageseinrichtung Hort an der 153. Grundschule, Fröbelstraße 1-3, 01159 Dresden in den Bedarfsplan Kindertageseinrichtungen und Kindertagespflege 2018/19 und Betreibung durch den Träger Arbeiter-Samariter-Bund Dresden & Kamenz gGmbH - Zustimmung
+- TOP 13: 8. Grundschule, Konkordienstraße 12 in 01127 Dresden - Gesamtsanierung - Vertagung nach 22 Uhr
+- TOP 14: Bestimmung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2018 bis 2022 des Eigenbetriebes Heinrich-Schütz-Konservatorium. - Zustimmung
+- TOP 15: Verkehrsbaumaßnahme "Ausbau Königsbrücker Straße von Stauffenbergallee inklusive Knotenpunkt bis südlich Fabricestraße" - Vertagung
+- TOP 16: Verknüpfung der Buslinien 75 und 94 - Vertagung
+- TOP 17: Straßenbahnhaltestelle auf der Nossener Brücke - Zustimmung
+- TOP 18: Finanzielle Würdigung des ehrenamtlichen Engagements im Naturschutzdienst der Landeshauptstadt Dresden - Zustimmung
+- TOP 19: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung
+- TOP 20: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung nach 22 Uhr
+- TOP 21: Prüfung von Möglichkeiten der Wohnungsbauförderung zur Wohnraumüberbauung bei Supermärkten und Discountern - Vertagung nach 22 Uhr
+- TOP 22: Fußgängerquerung Langer Weg im Bereich Ernst-Toller-Straße - Vertagung nach 22 Uhr
+- TOP 23: Beschlüsse achten! Keine Beteiligung an Abrisskosten für Garagenbesitzer - Vertagung durch Einreicher
+- TOP 24: Dresden wird zum sicheren Hafen - Seenotrettung unterstützen - punktweise Ablehnung
+- TOP 25: Wohnungsbau an der Zinnwalder/Kipsdorfer Straße ermöglichen - zurückgezogen
+- TOP 26: Bauvorhaben Florian-Geyer-Straße 13 - Zustimmung
+- TOP 27: Umbesetzung Ausschüsse (Fraktionssitze) - Benennungsverfahren
+- TOP 27.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Benennung
+- TOP 27.2: Ausschuss für Finanzen - Benennung
+- TOP 27.3: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Benennung
+- TOP 27.4: Ausschuss für Wirtschaftsförderung - Benennung
+- TOP 27.5: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Benennung
+- TOP 27.6: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Benennung
+- TOP 27.7: Ausschuss für Soziales und Wohnen - Benennung
+- TOP 27.8: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Benennung
+- TOP 27.9: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Benennung
+- TOP 27.10: Ausschuss für Gesundheit (Eigenbetrieb Städtisches Klinikum Dresden) - Benennung
+- TOP 27.11: Ausschuss für Petition und Bürgerbeteiligung - Benennung
+- TOP 28: Umbesetzung Beiräte (Fraktionssitze) - Benennungsverfahren
+- TOP 28.1: Seniorenbeirat - Benennung
+- TOP 28.2: Integrations- und Ausländerbeirat - Benennung
+- TOP 28.3: Beirat Gesunde Städte - Benennung
+- TOP 28.4: Wohnbeirat - Benennung
+- TOP 28.5: Kleingartenbeirat - Benennung
+- TOP 28.6: Beirat für Menschen mit Behinderungen - Benennung
+- TOP -: ausgereichte Informationsvorlagen
+- TOP -: Fachinformation zur Weiterentwicklung der Kommunalen Kulturförderung bis zum Jahr 2025 - zur Kenntnis genommen
+- TOP -: Information über die erste Evaluierung des Verkehrsentwicklungsplans 2025plus - zur Kenntnis genommen
