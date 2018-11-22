@@ -1,0 +1,125 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVE-STREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2018-11-22T17:30:00+01:00
+- Ende: 2018-11-22T23:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4524
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4524
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=421995
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: "100 Jahre Frauenwahlrecht" - mit Empfang - erledigt
+- TOP 4: Feststellen von Dringlichkeiten - mit Änderungen in der BVV beschlossen
+- TOP 5: Mitteilungen - (offen)
+- TOP 5.1: des Vorstandes - erledigt
+- TOP 5.2: der Fraktionen - erledigt
+- TOP 5.3: der Ausschüsse - erledigt
+- TOP 5.4: des Bezirksamtes - erledigt
+- TOP 6: Konsenslisten - mit Änderungen im Ausschuss beschlossen
+- TOP 7: Thematische Stunde: Einbahnstraßenregelung in Schwartzkopf-, Pflug- und Wöhlertstraße DS: 1526/V, 1551/V - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Badstraße 10 – wann geht es endlich los? - beantwortet
+- TOP 8.2: Himmelbeet als Spielball von BA-Befindlichkeiten? - beantwortet
+- TOP 8.3: Das Vorkaufsrecht sieht politisch zwar gut aus, schafft aber keinen neuen Wohnraum - beantwortet
+- TOP 8.4: John-Lennon-Gymnasium als echte“smart school“ - beantwortet
+- TOP 8.5: Unterbringungsverpflichtung nach ASOG für EU-Bürger*innen - beantwortet
+- TOP 8.6: Das Bezirksamt spricht und widerspricht sich "mit einer Stimme" - schriftlich beantwortet
+- TOP 8.7: Anmietung von Räumen für des Café Knorke am Leopoldplatz - schriftlich beantwortet
+- TOP 8.8: Chaos im Standesamt - schriftlich beantwortet
+- TOP 8.9: Bauliche Situation am Schulstandort Chausseestr./Boyenstr. - schriftlich beantwortet
+- TOP 8.10: Mieter*innenvertreibung Spenerstraße 4-5: Haus zum Abriss freigegeben? (III) - schriftlich beantwortet
+- TOP 8.11: Wie wichtig ist dem Bezirksamt die Bürgerbeteiligung? Präventionsrat stärken und nicht schwächen! - schriftlich beantwortet
+- TOP 8.12: Wie ist der aktuelle Stand beim Klosterviertel? - schriftlich beantwortet
+- TOP 8.13: Bußgelder für Raucher*innen - schriftlich beantwortet
+- TOP 8.14: Ein Alexmanager ohne Beteiligung der Betroffenen? - schriftlich beantwortet
+- TOP 8.15: Hundekottütenspender - schriftlich beantwortet
+- TOP 8.16: Engelbecken und Luisenstädtischer Kanal - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 9.1: Anwendung des Vorkaufsrechts bei der Antonstr. 26 / Maxstr.26 - beantwortet
+- TOP 9.2: Schreiben der Senatsverwaltung für Stadtentwicklung zur Arminiusmarkthalle vom 26.01.2015: Wer wusste wann was? - in der BVV zurückgezogen
+- TOP 9.3: Allegro vs. VHS Lernräumen – Was unternimmt das Bezirksamt? - beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Zukunft des alten Diesterweg-Gymnasiums & von ps wedding - BVV - Beschluss ohne öffentliche und nachvollziehbare Faktenlage - beantwortet
+- TOP 10.2: Entwicklungen der Kinder- und Jugendkriminalität im Bezirk Mitte? - schriftlich beantwortet
+- TOP 10.3: Sanierung des „Haus der Jugend“ Nauener Platz/Schulstraße - schriftlich beantwortet
+- TOP 10.4: Was ist nun mit dem Außenbecken im Seydlitzbad? - schriftlich beantwortet
+- TOP 10.5: Wahrnehmung des bezirklichen Vorkaufsrechtes für die Maxstraße 26/Antonstraße 26 im Milieuschutzgebiet Leopoldplatz - schriftlich beantwortet
+- TOP 10.6: Wie weiter mit dem Milieuschutz in Mitte und Berlin? - schriftlich beantwortet
+- TOP 10.7: Kohlenmonoxid in Sisha Bar - schriftlich beantwortet
+- TOP 10.8: Rauchverbot auf Spielplätzen - schriftlich beantwortet
+- TOP 10.9: Mittel zur Straßensanierung aufgebraucht? - schriftlich beantwortet
+- TOP 10.10: Unterstützung für Polizeiabschnitt 31 - schriftlich beantwortet
+- TOP 10.11: Neue Regeln bei Einbahnstraßen - beantwortet
+- TOP 10.12: In welcher Form unterstützt das Jugendamt bei Kinder- und Jugendkriminalität (0 bis 21 Jahre)? - schriftlich beantwortet
+- TOP 10.13: Mitte bereit für Leinenzwang? - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Alexanderplatzviertel“ im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Geschäftsordnung der Bezirksverordnetenversammlung Mitte von Berlin (V. Wahlperiode) - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Anpassung der Ausschusszusammensetzung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: über die Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Humboldthain Nord-West“ im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 15: Himmelbeet retten! - ohne Änderungen in der BVV beschlossen
+- TOP 16: Anträge - (offen)
+- TOP 16.1: Temporäre Ausnahmegenehmigung zur Errichtung eines mobilen Treffpunkts (Huttenkiez) - mit Änderungen in der BVV beschlossen
+- TOP 16.2: Zisterne auf der Fläche des Spielplatzes Wiebestraße 38 - ohne Änderungen in der BVV beschlossen
+- TOP 16.3: Transparenz beim Thema Hygienekontrollen. Höchste Zeit für „Smileys“ - überwiesen
+- TOP 16.4: Erweiterung des VBB Bus & Bahn-Begleitservice auch am Wochenende - überwiesen
+- TOP 16.5: Danksagung an die Helfer bei der Schadensbeseitigung des Orkans “Xavier” - überwiesen
+- TOP 16.6: Unterstützung für den Verein Kinderhilfe! - ohne Änderungen in der BVV beschlossen
+- TOP 16.7: Ausstellung einer Abgeschlossenheitsbescheinigung nach dem Wohnungseigentumsgesetz in Erhaltungssatzungsgebieten nach § 172 Abs. 1 S. 1 Nr. 2 BauGB (Milieuschutz) - überwiesen
+- TOP 16.8: Anschaffung und Betrieb von öffentlichen Luftpumpstationen - überwiesen
+- TOP 16.9: Mobile und flexible Kinderbetreuung in der BVV-Mitte? - überwiesen
+- TOP 16.10: Farbe bekennen, Schüler in Tiergarten-Süd haben Vorrang! - überwiesen
+- TOP 16.11: Interaktive Spielplatzkarte für Berlin-Mitte - zurückgezogen
+- TOP 16.12: Verkehrsberuhigte Zonen beruhigen - überwiesen
+- TOP 16.13: Weniger Müll in Mitte - überwiesen
+- TOP 16.14: Lastenfahrräder für Mitte! - überwiesen
+- TOP 16.15: Gefahrlosen Zugang zum DDR-Grenzwachturm sichern - überwiesen
+- TOP 16.16: Baumzählung in Berlin-Mitte - in der BVV abgelehnt
+- TOP 16.17: Outsourcing Elterngeld evaluieren - in der BVV zurückgezogen
+- TOP 16.18: Mehr Grün in Mitte – auch auf Dächern und an Wänden - überwiesen
+- TOP 16.19: Gender Mainstreaming konsequent umsetzen – Beratung zum zielgrichteten und zeitlich be-fristeten Einsatz von Förderinstrumenten im Sinne der Hilfe zur Selbsthilfe in der Servicestelle der Wirtschaftsförderung Mitte - überwiesen
+- TOP 16.20: 1000 Straßenbäume mehr in Mitte! - überwiesen
+- TOP 16.21: Gender Mainstreaming konsequent umsetzen – Gründer*innenberatung in der Wirtschaftsförderung Mitte - überwiesen
+- TOP 16.22: Sicherheit erhöhen und Ehrenamt unterstützen – Schulsanitäter*innen in Mitte fördern - überwiesen
+- TOP 16.23: Jugendverkehrsschulen dauerhaft arbeitsfähig machen: Festes Personal für die Radfahrausbildung - überwiesen
+- TOP 16.24: Erhalt der Einbahnstraßenregelung in Schwartzkopf-, Pflug- und Wöhlertstraße! - mit Änderungen in der BVV beschlossen
+- TOP 16.25: Barrierefreie Fußgänger*innenquerung der Karl-Marx-Alle - ohne Änderungen in der BVV beschlossen
+- TOP 16.26: Partnerschaften ehren – historischen Wegweiser wieder auf dem Rathausvorplatz im Wedding aufstellen - überwiesen
+- TOP 16.27: Gender Mainstreaming konsequent umsetzen – Gezielte gendergerechte Gestaltung von Nut-zungsverträgen im Rahmen der Nutzungs- und Vergabegrundsätze lt. Sportanlagen-Nutzungsvorschriften (SPAN) des Landes Berlin - überwiesen
+- TOP 16.28: Schulhofteil der Allegro Grundschule als Ersatzstandort für das Fußballfeld Pohlstr. 8-14 herrichten! - vertagt
+- TOP 16.29: Turnhalle Diesterweg- Gymnasium - vertagt
+- TOP 17: Dringliche Entschließungen - (offen)
+- TOP 18: Entschließungen - (offen)
+- TOP 18.1: Wir brauchen eine neue Standortdebatte für das Freiheits- und Einheitsdenkmal - vertagt
+- TOP 19: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 19.1: Sitzbänke im Bezirk Mitte instand halten! - ohne Änderungen in der BVV beschlossen
+- TOP 19.2: DDR-Grenzwachturm ins öffentliche Bewusstsein holen - ohne Änderungen in der BVV beschlossen
+- TOP 19.3: Zusätzliche Stellen für die bezirklichen SeniorInnenfreizeiteinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 19.4: Sanierungsstau beenden - Mittel für Bau und Sanierung der Verkehrsinfrastruktur erhöhen - mit Änderungen in der BVV beschlossen
+- TOP 19.5: Reinigungsdienste für bezirkliche Schulgebäude - mit Änderungen in der BVV beschlossen
+- TOP 19.6: Verwaltungsgebühren erlassen - mit Änderungen in der BVV beschlossen
+- TOP 19.7: Potentiale für Soziales Infrastrukturkonzept erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 19.8: Präventionsrat Mitte und Runder Tisch Weinbergsweg - ohne Änderungen in der BVV beschlossen
+- TOP 19.9: Alle Räumungsmitteilungen dem Sozialamt mitteilen - ohne Änderungen in der BVV beschlossen
+- TOP 19.10: Konflikte am Rosenthaler Platz und Weinbergsweg endlich beilegen! - ohne Änderungen in der BVV beschlossen
+- TOP 20: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 20.1: Alfred Döblin am Alexanderplatz ehren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 20.2: FHAIN/XBERG ZUM VORBILD NEHMEN: SEXISTISCHE UND DISKRIMINIERENDE WERBUNG RAUS AUS MITTE! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 20.3: Erreichbarkeit von Parks und Grünanlagen verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 20.4: Ampel Standort Chaussee- / Boyenstraße langfristig sichern - vertagt
+- TOP 20.5: Bestäuberfreundlicher Bezirk - Flächen für Bienen aufwerten - vertagt
+- TOP 20.6: Spielplätze wirklich realisieren und instand halten II - vertagt
+- TOP 20.7: Der Müll muss weg – Müllbehältnisse dem Aufkommen anpassen - vertagt
+- TOP 20.8: Insekten in der Großstadt - vertagt
+- TOP 20.9: Nachtigalplatz wird Manga-Bell-Platz - vertagt
+- TOP 20.10: Positionspapier der Spielplatzkommission im Bezirk Mitte zur Entwicklung von Spiel- und Bewegungsflächen - vertagt
