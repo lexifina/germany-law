@@ -1,0 +1,57 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-22T15:00:00+01:00
+- Ende: 2018-11-22T17:15:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/15214
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/15214
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330042.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330042.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330042.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 06.06.2018 - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 06.09.2018 - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift über die öffentliche Sitzung des Kulturausschusses vom 27.09.2018 - einstimmig beschlossen
+- TOP 6: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 7: Arbeitsbedingungen im FFT (Jahnstraße) - zur Kenntnis genommen
+- TOP 8: Stärkung der Bildungsarbeit in der Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 9: Entwicklungskonzept für die Städtische Clara-Schumann-Musikschule - zur Kenntnis genommen
+- TOP 10: Komödie Düsseldorf GmbH - passieren lassen
+- TOP 11: Sanierungen und Umbaumaßnahmen der öffentlichen Bereiche des Düsseldorfer Schauspielhauses am Gustaf - zur Kenntnis genommen
+- TOP 12: Projekt Kunst am Bau an der Franz-Vaahsen-Grundschule - einstimmig beschlossen
+- TOP 13: Beirat Tanz und Theater (Sitzung am 06.11.2018) - einstimmig beschlossen
+- TOP 14: Beirat Bildende Kunst (Sitzung 09.11.2018) - einstimmig beschlossen
+- TOP 15: Abschluss eines Haustarifvertrages für die Düsseldorfer Symphoniker - einstimmig beschlossen
+- TOP 16: Etatberatungen 2019 des Kulturausschusses - zur Kenntnis genommen
+- TOP 16.1: Anträge zum Haushalt - zur Kenntnis genommen
+- TOP 16.1.1: Antrag der Ratsfraktion DIE LINKE: Förderpreis für (Off)Kulturvereine der freien Düsseldorf Kunst un - mehrheitlich abgelehnt
+- TOP 16.1.2: Antrag der Ratsfraktion DIE LINKE: "Wöchentlicher eintrittsfreier Tag in städtischen Museen und Kult - zurückgezogen
+- TOP 16.1.3: Begleitantrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP: Eintrittsfreie Sonntage - einstimmig beschlossen
+- TOP 16.1.4: Begleitantrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP: Düsseldorf Fotofestival - einstimmig beschlossen
+- TOP 16.1.5: Begleitantrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP: Miete Stiftung imai - einstimmig beschlossen
+- TOP 16.1.6: Begleitantrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP: Düsseldorf Photo Weekend - einstimmig beschlossen
+- TOP 16.1.7: Erhöhung der Zuschüsse für die Freie Szene - zur Kenntnis genommen
+- TOP 16.1.8: Erhöhung des Ansatzes für Chorverband Düsseldorf e. V. - mehrheitlich abgelehnt
+- TOP 16.1.9: Erhöhung des Ansatzes für die Düsseldorfer Marionettentheater GmbH - zur Kenntnis genommen
+- TOP 16.1.10: Erhöhung des Ansatzes für Filmwerkstatt Düsseldorf e. V. - zur Kenntnis genommen
+- TOP 16.1.11: Erhöhung des Ansatzes für das Internationale Düsseldorfer Orgelfestival (IDO) - mehrheitlich abgelehnt
+- TOP 16.1.12: Erhöhung des Ansatzes für Tanzhaus NRW Düsseldorf - mehrheitlich abgelehnt
+- TOP 16.1.13: Kunst und Kultur in Düsseldorf auch digital zum Leben erwecken - mehrheitlich abgelehnt
+- TOP 16.1.14: Änderungen Zuschussanträge - zur Kenntnis genommen
+- TOP 16.1.15: Entwicklung eines Gesamtkonzeptes für die Probebühnen - einstimmig beschlossen
+- TOP 16.1.16: Neuer Kunstraum Düsseldorf Produkt 2528101 Konto 5317000 - einstimmig beschlossen
+- TOP 16.2: Haushaltsberatung 2019 - Entwurf des Doppischen Produkthaushaltes 2019, bezirksbezogene Ansätze 2019 - zur Kenntnis genommen
+- TOP 16.2.1: Entwurf des Doppischen Produkthaushaltes 2019 sowie der bezirksbezogenen Haushaltsansätze 2019 - einstimmig beschlossen
+- TOP 16.2.2: Beratungsunterlagen für den Ergebnisplan und investivem Finanzplan für den Kulturbereich - einstimmig beschlossen
+- TOP 16.2.3: Von der Stadtkämmerin genehmigten Änderungen zum Veränderungsverzeichnis 2019 ff für den Kulturbereich - einstimmig beschlossen
+- TOP 16.2.4: Vorschlägen und Anregungen der Bezirksvertretungen - Teilergebnisplan - einstimmig abgelehnt
+- TOP 17: Sitzungstermine 2019 - zur Kenntnis genommen
+- TOP 18: Projekt Industrieroute Rheinschiene - einstimmig beschlossen
