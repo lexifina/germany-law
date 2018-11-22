@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
 - Datum: 2018-11-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/betriebssatzung_gebaeudewirtschaft_2019_04_23.pdf
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/betriebssatzung_gebäudewirtschaft_15._Änd.__gültig_ab_23.04.2019___2_.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -183,7 +183,7 @@ Betriebssatzung
 
 Seite 6
 
-Zuständigkeit umfasst alle im täglichen Betrieb ständig wiederkehrenden Maßnahmen, die zur Aufrechterhaltung des Betriebes, der Erhaltung des infrastrukturellen Immobilienbestandes sowie der Erfüllung der übertragenen Aufgaben notwendig sind. Dazu gehören insbesondere der Einsatz des Personals, die Anordnung der notwendigen Instandhaltungsarbeiten, die Beschaffung von Material und Betriebsstoffen sowie Investitionsgütern des laufenden Bedarfs, die Entscheidung über alle Maßnahmen im Rahmen der Betreiberverantwortung.
+Zuständigkeit umfasst alle im täglichen Betrieb ständig wiederkehrenden Maßnahmen, die zur Aufrechterhaltung des Betriebes, der Erhaltung des infrastrukturellen Immobilienbestandes sowie der Erfüllung der übertragenen Aufgaben notwendig sind. Dazu gehören insbesondere der Einsatz des Personals, die Anordnung der notwendigen Instandhaltungsarbeiten, die Beschaffung von Material und Betriebsstoffen sowie Investitionsgütern des laufenden Bedarfs, die Entscheidung über alle Maßnahmen im Rahmen der Betreiberverantwortung und der Abschluss von Werkverträgen.
 
 Zu den Geschäften der laufenden Betriebsführung gehören ferner die Entscheidung über Vergaben nach VOB/VGV nach vorheriger Ausschreibung gemäß den städtischen Vergaberichtlinien sowie der Abschluss der entsprechenden Verträge mit den den Zuschlag erhaltenden Bietern. Die Betriebsleitung entscheidet selbständig über den Abschluss von Grundstücksgeschäften in den durch die Zuständigkeitsordnung der Stadt Köln für die Geschäfte der laufenden Verwaltung festgelegten Wertgrenzen sowie über den Abschluss von Verträgen zur Anmietung von Liegenschaften im Rahmen der vom Fachausschuss oder Rat festgestellten Bedarfe.
 
