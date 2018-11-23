@@ -1,0 +1,66 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-23T16:00:00+01:00
+- Ende: 2018-11-23T18:32:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14964
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14964
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330166.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330166.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330166.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: Schulwegsicherung im Umfeld des Schulzentrums Benrath - zur Kenntnis genommen
+- TOP 6: Eingabe nach § 24 Gemeindeordnung NRW - Vermarktung von Grundstücken der IDR im Reisholzer Hafen - mehrheitlich beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Neubau des Hallenbades Benrath sowie die Teilsanierung des Freibades Benrath - Empfehlung einstimmig beschlossen
+- TOP 9: Bezirkssportanlage Am Wald, Umbau der ehemaligen Wettkampfanlage - Empfehlung abweichend beschlossen
+- TOP 10: KGS St. Apollinaris, Depandance Steinkaul, Erhöhung der Zügigkeit der KGS Itterstrasse von - einstimmig beschlossen
+- TOP 11: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 06.01.2019 - zur Kenntnis genommen
+- TOP 12: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2019 - mehrheitlich beschlossen
+- TOP 13: Weihnachtsmarkt in Düsseldorf - Holthausen im Jahre 2018 - einstimmig beschlossen
+- TOP 14: Änderung der Benutzungsordnungen für die Bezirksrathäuser Benrath und Kaiserswerth - Empfehlung einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2018 (Liste A, Schulen) - einstimmig beschlossen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Haushalt 2018 - Ergänzung - einstimmig beschlossen
+- TOP 17: Übertragung von Verfügungsmitteln des Jahres 2018 ins Haushaltsjahr 2019 - einstimmig beschlossen
+- TOP 18: Anfrage: Geschwindigkeitsbegrenzung Am Schönenkamp - beantwortet
+- TOP 19: Anfrage: Sachstand "Öffnung von Einbahnstraßen für gegenläufigen Radverkehr" - vertagt
+- TOP 20: Anfrage: Jugendfreizeiteinrichtung Altenbrückstraße 14 - beantwortet
+- TOP 21: Anfrage: Fortschreibung des Solarkatasters 2014 für Neubauten - beantwortet
+- TOP 22: Anfrage: Lärmschutz A59 - vertagt
+- TOP 23: Anfrage: Gefahrguttransporte - vertagt
+- TOP 24: Anfrage: Kampstraße - vertagt
+- TOP 25: Anfrage: Zwischennutzung Grundstück nördl. Paulsmühlenstraße - beantwortet
+- TOP 26: Anfrage: Lärmschutz BAB 46 - vertagt
+- TOP 27: Anfrage: Fahrradstraßen im Stadtbezirk 9 - beantwortet
+- TOP 28: Anfrage: Beschleunigungsmaßnahmen für Metrobusse - beantwortet
+- TOP 29: Anfrage: Kurzzug Linie U83 - beantwortet
+- TOP 30: Antrag: Zebrastreifen am Kinderhaus Itter- Himmelgeist - einstimmig beschlossen
+- TOP 31: Antrag: Markierung Fahrradwege Kölner Landstraße - abweichend beschlossen
+- TOP 32: Antrag: Fahrradstellplatzeinhausung Werstener Kreuz - einstimmig beschlossen
+- TOP 33: Antrag: Boule-Anlage Albrecht-Dürer-Berufskolleg - einstimmig beschlossen
+- TOP 34: Antrag: Eisenbahnunterführung S-Bahnhof Reisholz - einstimmig beschlossen
+- TOP 35: Antrag: Erweiterung des Park & Ride Parkplatzes Hildener Str. 41 - abweichend beschlossen
+- TOP 36: Antrag: DB-Bahnhof Benrath - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel "Wir in Wersten e. V." - Adventshütte - mehrheitlich beschlossen
+- TOP 38: Antrag: Verfügungsmittel Theaterprojekt Märchenfieber - einstimmig beschlossen
+- TOP 39: Antrag: Verfügungsmittel Grundschule Schloss Benrath + KG St. Cäcilia, Theaterstücke - einstimmig beschlossen
+- TOP 40: Antrag: Verfügungsmittel St. Sebastianus-Schützenbruderschaft von 1641 Düsseldorf-Himmelgeist e.V. - einstimmig beschlossen
+- TOP 41: Antrag: Verfügungsmittel Kath. Kirchengemeinde St. Hubertus, Itter - einstimmig beschlossen
+- TOP 42: Antrag: Verfügungsmittel St. Apollinaris Schule - einstimmig beschlossen
+- TOP 43: Antrag: Verfügungsmittel VdK OV Benrath-Garath – Adventsfeier 2018 - einstimmig beschlossen
+- TOP 44: Antrag: Verfügungsmittel Theodor-Litt-Realschule; Coolness-Training - einstimmig beschlossen
+- TOP 45: Informationsvorlage Öffentliche Toilettenanlagen - zur Kenntnis genommen
+- TOP 46: Informationsvorlage Burscheider Straße / Leichlinger Straße - zur Kenntnis genommen
+- TOP 47: Informationsvorlage zum Beschluss der BV vom 24.03.2017, Barrierefreie Zugänge Bücherei und Bürgerha - zur Kenntnis genommen
+- TOP 48: Informationsvorlage zum Beschluss der BV 9 vom 07.09.2018, Lärmschutzwand Cäcilienstraße - zur Kenntnis genommen
+- TOP 49: Informationsvorlage Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
