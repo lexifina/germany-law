@@ -1,0 +1,65 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (32. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-11-26T17:30:00+01:00
+- Ende: 2018-11-26T19:20:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVfFnPQcQp2bCkVvIKX_StE
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5091
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVMX9dSIhv8oKNTQuSH4uoYq99d7VP7sLTE99SbxO0NS/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_26.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfKInkIGf14f6WH6ife_bcpt8S3ZiYfZv9SWU_k_5Tq5/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_26.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Sturmschäden Friederike
+- TOP 1.2: Rettungszufahrt zum Bussche-Kessel-Weg
+- TOP 1.3: Baulandbeschluss
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des ASUKM am 24.09.2018
+- TOP 4.: Bauleitplanung Stöcken/ Peter-Rasspe-Straße Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 BauGB zum Vorentwurf des Bebauungsplanes D 521 für das Gebiet Stöcken/ Peter-Rasspe-Straße - Stadtbezirk Mitte -
+- TOP 4.1: Bauleitplanung Stöcken/ Peter-Rasspe-Straße Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 BauGB zum Vorentwurf des Bebauungsplanes D 521 für das Gebiet Stöcken/ Peter-Rasspe-Straße - Stadtbezirk Mitte -
+- TOP 5.: Besonders schutzwürdige Tiere und Pflanzen im Bergischen Städtedreieck - mündlicher Vortrag -
+- TOP 6.: Fifty-fifty - Das ENERGIEsparprogramm an Solinger Schulen Fortsetzung und Weiterentwicklung als „Solinger Schulen für den Klimaschutz“
+- TOP 7.: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) 2019 - 2024 der Klingenstadt Solingen
+- TOP 8.: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 9.: Verfügungsfonds Soziale Stadt - Nordstadt
+- TOP 10.: Aktueller Sachstand zum Vorhaben Tank und Rast A 3 Ohligs West (unter Berücksichtigung des Beschlusses im ASUKM zur Umsetzung der kleinen Variante)
+- TOP 11.: Sachstand zur Optimierung des Verkehrsflusses zwischen den Kreuzungen Werwolf und Schlagbaum
+- TOP 12.: Verkehrsplanung Ortsdurchfahrt Unterburg Zeitplan Umsetzung
+- TOP 13.: Abbau Signalanlagen hier: Weiteres Vorgehen
+- TOP 14.: Bauleitplanung ehemaliges Freibad Höher Heide Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des vorhabenbezogenen Bebauungsplanes H 671, zugleich Vorhaben- und Erschließungsplan, und zum Entwurf der Flächennutzungsplanänderung Nr. 23/04 sowie Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan H 671, zugleich Vorhaben- und Erschließungsplan, und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 23/04, beide für das Gebiet des ehemaligen Freibades Höher Heide (Beschluss 3)- Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 15.: Bauleitplanung Höher Straße/ Locher Kotten Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zu den Entwürfen des Bebauungsplanes W 642 und der Flächennutzungsplanänderung Nr. 27/04 sowie Satzungsbeschluss zum Bebauungsplan W 642 und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 27/04, beide für das Gebiet südlich der Straße Locher Kotten, westlich der Höher Straße und östlich der Straße Locher Büschchen (Beschluss 3) - Stadtbezirke Ohligs/ Aufderhöhe/ Merscheid und Mitte -
+- TOP 16.: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der SPD-Ratsfraktion vom 13.09.2018
+- TOP 17.: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der Ratsfraktion DIE LINKE vom 26.09.2018
+- TOP 18.: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Antrag der Ratsfraktion der BfS vom 15.10.2018
+- TOP 19.: Verkehrssituation Goudastraße hier: Antrag der Ratsfraktion DIE LINKE vom 31.10.2018
+- TOP 19.1: Verkehrssituation Goudastraße hier: Antrag der Ratsfraktion DIE LINKE vom 31.10.2018
+- TOP 20.: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.1.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.2: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.2.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.3: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.3.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 20.4: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 21.: Verschiedenes
+- TOP 21.1: Mitteilungen der Verwaltung
+- TOP 21.1.1: Weiterentwicklung des Solinger Busliniennetzes mit Batterieoberleitungsbussen hier: Aufbau eines Verkehrsmodells
+- TOP 21.1.2: Städtebauförderprogramm „Investitionspakt Soziale Integration im Quartier NRW 2018“ – Teilnahme der Stadt Solingen
+- TOP 21.1.3: Prüfauftrag „Fördermöglichkeiten Ausbau Dickenbusch“
+- TOP 21.1.4: City 2013 Mühlenplatz - Umgestaltung der Platzfläche
+- TOP 21.1.5: City 2030 Dokumentation der Beteiligungsveranstaltung am 05.06.2018
+- TOP 21.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des ASUKM am 24.09.2018
+- TOP 4.: Sachstand Planung Hallenbad Birkerstraße
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
