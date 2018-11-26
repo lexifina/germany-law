@@ -1,0 +1,7 @@
+# TOP 6.: Räumlichkeiten für Partyveranstaltungen Sachstandsbericht
+
+- Sitzung: Jugendstadtrat (12. Sitzung) (2018-11-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/45957
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/28735
