@@ -1,0 +1,6 @@
+# TOP 8: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Grundstücksverkehrsausschuss (2018-11-26)
+- Körperschaft: Leipzig
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c08a0152c66dc3b525e77ab
