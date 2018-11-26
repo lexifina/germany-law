@@ -1,0 +1,53 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-26T15:05:00+01:00
+- Ende: 2018-11-26T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18778
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18778
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00692086.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00692086.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00692086.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Ergänzungsantrag zum geänderten Beschluss aus dem Ausschuss Schule und Weiterbildung am 05.11.2018, hier TOP 5.3 „Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf“ - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Schulanmeldezahlen 5. Klasse ./. 7. Klasse - Sache ist erledigt
+- TOP -: Schüleranmeldezahlen 5. Klasse / 7. Klasse - Kenntnis genommen
+- TOP 3.1.2: Wie schlecht steht es um die Bezahlung der Mitarbeiter*innen der OGS in Köln? - Sache ist erledigt
+- TOP -: Wie schlecht steht es um die Bezahlung der Mitarbeitenden der OGS in Köln - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Projekt „Sicher Schwimmen“ und Schulschwimmen in Köln - Sache ist erledigt
+- TOP 3.2.2: Wie sieht es mit der Breitbandversorgung an Schulen und anderen städtischen Einrichtungen aus? - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Namensgebung "Gertrud-Bollenrath-Schule" für die Förderschule Soldiner Str. 68, 50767 Köln - ungeändert beschlossen
+- TOP 4.2: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - zurückgestellt
+- TOP 4.3: Beschluss der Bezirksvertretung Porz vom 15.05.2018 zur Verlagerung des Berufskollegs Porz (BK 10) - zurückgestellt
+- TOP 4.4: Schulrechtliche Errichtung einer Gesamtschule mit 4 Zügen in der Sekundarstufe I und 2 Zügen in der Sekundarstufe II am Standort Dellbrücker Mauspfad bei gleichzeitiger Auflösung des Teilstandorts Dellbrücker Mauspfad der Willy-Brandt-Gesamtschule - ungeändert beschlossen
+- TOP 4.5: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Erweiterung des Bildungsgangs Fachoberschule, Klasse 13 (FOS13) am Berufskolleg Kartäuserwall (BK 16) - ungeändert beschlossen
+- TOP 4.7: Sanierung der Schulaula an der Realschule Neusser Straße 421, 50733 Köln-Nippes - Baubeschluss - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Weinrebenprojekt an Kölner Schulen - Kenntnis genommen
+- TOP 5.2: wird verschoben
+- TOP 5.3: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 5.4: Übersicht der Bildungsangebote für 16-25 Jährige aus dem Projekt „Kommunale Koordinierung der Bildungsangebote für Neuzugewanderte“ - Kenntnis genommen
+- TOP 5.5: Inklusionsplanung für Kölner Schulen: Zwischenbilanz und Ausblick auf die Fortschreibung - Kenntnis genommen
+- TOP 5.6: Werbung der Bundeswehr in städtischen Schulen und Jugendeinrichtungen - Kenntnis genommen
+- TOP 5.7: Anmelde- und Aufnahmeverfahren in die weiterführende Schule der Sekundarstufe I (Sek I) zum Schuljahr 2019/2020 - Kenntnis genommen
+- TOP 5.8: Gymnasialstandorte in Widdersdorf und Lövenich - Kenntnis genommen
+- TOP 5.9: Jahresbericht 2017 des Amtes für Schulentwicklung ist veröffentlicht - Kenntnis genommen
+- TOP 5.10: Erlass zur Neuausrichtung der Inklusion in den öffentlichen allgemeinbildenden weiterführenden Schulen - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
