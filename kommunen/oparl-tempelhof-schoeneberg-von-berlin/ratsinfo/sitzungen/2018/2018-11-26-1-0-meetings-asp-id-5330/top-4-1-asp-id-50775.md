@@ -1,0 +1,8 @@
+# TOP 4.1: Verkehrsberuhigung in der Manfred-von-Richthofen-Straße (Änderungsantrag Fraktion GRÜNE)
+
+- Sitzung: 22. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt (2018-11-26)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=50775
+- Ergebnis: mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=50775
