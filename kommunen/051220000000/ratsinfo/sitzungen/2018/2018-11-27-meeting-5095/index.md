@@ -1,0 +1,85 @@
+# Beteiligungsausschuss (35. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-11-27T17:04:00+01:00
+- Ende: 2018-11-27T17:50:00+01:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTf-PJfggMst-SiCE2JVQpg
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5095
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ4433lv8VVR9_okX5Qq0tf1U4lkmFv97vgY2PnrOS4W/Bekanntmachung_Beteiligungsausschuss_27.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQTgtp7eQzIjMjUl2eCD4X6w2-3DA4E5uuvGBg5w8YJl/Oeffentliche_Niederschrift_Beteiligungsausschuss_27.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 34. Sitzung des Beteiligungsausschuss am 18.09.2018
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Festlegung der neuen Tarifübersicht für die Einrichtungen der Solinger Bädergesellschaft mbH (SBG)
+- TOP 6.: Jahresabschluss 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 7.: Wirtschaftsplan 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 8.: Wirtschaftsplan 2019 der Technischen Betriebe Solingen
+- TOP 9.: Wirtschaftsplan 2019 der Technischen Betriebe Solingen Antrag der FDP-Fraktion vom 16.11.2018
+- TOP 10.: Wirtschaftsplan 2019 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Beteiligungsbericht 2017 der Stadt Solingen
+- TOP 11.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 33. Sitzung des Beteiligungsausschuss am 18.09.2018
+- TOP 4.: Protokoll über die 34. Sitzung des Beteiligungsausschuss am 18.09.2018
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 7.: Bergische Symphoniker GmbH - Fördervereinbarung zwischen dem Land Nordrhein-Westfalen und den Städten Remscheid und Solingen
+- TOP 8.: Jahresabschluss 2017 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 9.: Wirtschaftsplan 2019 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 10.: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH – Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2018
+- TOP 11.: Jahresabschluss 2017 der Zentrum für verfolgte Künste GmbH
+- TOP 12.: Zentrum für verfolgte Künste GmbH - Variable Vergütung 2017 für die Geschäftsführung
+- TOP 13.: Zentrum für verfolgte Künste GmbH – Auflösung eines Arbeitsverhältnisses
+- TOP 14.: Wirtschaftsplan 2019 der Zentrum für verfolgte Künste GmbH
+- TOP 15.: Kunstmuseum Solingen Betriebsgesellschaft mbH - Einzahlung in die Kapitalrücklage für das Geschäftsjahr 2019
+- TOP 16.: Kunstmuseum Solingen Betriebsgesellschaft mbH - Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2018
+- TOP 17.: Wirtschaftsplan 2019 Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 18.: Wirtschaftsplan 2018 / 2019 EDL Solingen GmbH (EDL)
+- TOP 19.: Solinger Bädergesellschaft mbH (SBG) - Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2019 / 2020
+- TOP 20.: Wirtschaftsplan 2019 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 21.: Finanzierung des Ersatzneubaus Familienbad Vogelsang
+- TOP 22.: Wirtschaftsplan 2019 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 23.: Wirtschaftsförderung Solingen GmbH & Co. KG - Grundstücksverkauf
+- TOP 24.: Wirtschaftsplan 2019 der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 25.: Wirtschaftsplan 2019 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 26.: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2019 / 2020 der Entsorgung Solingen GmbH
+- TOP 27.: Wirtschaftsplan 2019 der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG
+- TOP 28.: Jahresabschluss der RW Holding AG iL
+- TOP 29.: Verband der kommunalen RWE-Aktionäre GmbH - Vorberatung der Gesellschafterversammlung
+- TOP 30.: Wirtschaftsplan 2019 der Entsorgung Solingen GmbH
+- TOP 31.: Wirtschaftsplan 2019 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 32.: Jahresabschluss 2017 und Liquidationsschlussbilanz zum 30. September 2018 der Bergische Institut für Produktentwicklung und Innovationsmanagement gGmbH i. L. (BIP)
+- TOP 33.: Jahresabschluss 2017 der Bergischen Struktur und Wirtschaftsförderungsgesellschaft mbH
+- TOP 34.: Wirtschaftsplan 2019 der Bergischen Struktur und Wirtschaftsförderungsgesellschaft mbH
+- TOP 35.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Bestellung des Jahresabschlussprüfers 2018
+- TOP 36.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Änderung des Gesellschaftsvertrages
+- TOP 37.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Betrauung
+- TOP 38.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) - Wechsel im Beirat
+- TOP 39.: Jahresabschluss 2017/2018 der Stadtwerke Solingen GmbH (SW SG)
+- TOP 40.: Jahresabschluss 2017/2018 SWS Netze Solingen GmbH
+- TOP 41.: SWS Netze Solingen GmbH - Bestellung eines Jahresabschlussprüfers für den Jahresabschluss 2018/19
+- TOP 42.: Wasserwerk Baumberg GmbH - Wirtschaftsplan 2019
+- TOP 43.: Wasserwerk Baumberg GmbH - Wahl des Vorsitzenden der Gesellschafterversammlung und seines Stellvertreters
+- TOP 44.: Konzernabschluss 2017 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 45.: Wirtschaftsplan 2019 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 46.: Beteiligungsgesellschaft Stadt Solingen mbH - Bestellung des Abschlussprüfers 2018
+- TOP 47.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 48.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Kunstmuseum Solingen Betriebsgesellschaft mbH für das Geschäftsjahr 2019
+- TOP 49.: Beteiligungsgesellschaft Stadt Solingen mbH Einzahlung in die Kapitalrücklage der Zentrum für verfolgte Künste GmbH für das Geschäftsjahr 2019
+- TOP 50.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Bergische Symphoniker GmbH
+- TOP 51.: Verschiedenes
+- TOP 51.1: Mitteilungen der Verwaltung
+- TOP 51.2: Anfragen an die Verwaltung
