@@ -1,0 +1,147 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-11-27T20:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638731
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638731
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 13.13.1: Säulingstr. Fällung eines Baumes 701 Hr. Keller
+- TOP 13.13.2: Siegenburger Str. Fällung mehrerer Bäume 702 Hr. Keller
+- TOP 13.13.3: Schongauer Str. Fällung eines Baumes 712 Hr. Kramm
+- TOP 13.13.4: Attenkofer Str. Fällung eines Baumes 719 Hr. Meyer
+- TOP 13.13.5: Südparkallee Fällung mehrerer Bäume 726 Hr. Wolf
+- TOP 13.13.6: Max-Seidl-Weg Fällung eines Baumes 727 Fr. Fiedler
+- TOP 13.13.7: Johann-Houis-Str. Fällung eines Baumes 727 Fr. Fiedler
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 9.9.1: (E) Stadtbezirksbudget Feierwerk e.V. Nachbarschaftstreff vom 01.01.2019 - 31.03.2019 6.983,75€ Az.: 0262.0-7-0223
+- TOP 9.9.2: (E) Stadtbezirksbudget Katholische Kirchenstiftung St. Thomas Morus Konzert am 25.11.2018 2.239,20€ Az.: 0262.0-7-0219
+- TOP 9.9.3: (E) Stadtbezirksbudget Seniorenvertretung Sendling-Westpark Neujahrsempfang am 10.01.2019 500,00€; Az.: 0262.0-7-0225
+- TOP 9.9.4: (E) Stadtbezirksbudget Elternbeirat der Grundschule Fernpaßstraße Projektwoche "Tambo Tambo" vom 11.03.2019 - 5.03.2019 3.450,00€; Az.: 0262.0-7-0224
+- TOP 10.10.1: Fahrradstraße Zillertalstraße
+- TOP 10.10.2: Trennwand für Max-Seidl-Weg / Mainburger
+- TOP 10.10.3: Unfälle im Stadtbezirk
+- TOP 14.14.1: Bauvorhaben Gilmstr.; Interimsmaßnahme zur Generalsanierung Erasmus-Grasser Gymnasium Bauvorhaben Harmatinger Str. ; Neubau eines MFH mit TG Bauvorhaben Luise-Kiesselbach-Platz 2; Umbau und Erweiterung eines Altenheims
+- TOP 16.16.1: Winterzauber Gans-am-Wasser
+- TOP 17.: Baureferat
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 20.20.1: Grundstück für Stattpark OLGA
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 21.21.1: Ehrwalder Str. - Tempo30 vor Schulen und Kitas
+- TOP 21.21.2: Tempo-30 Kita Isarkids / Johann-Clanze-Str
+- TOP 21.21.3: Anfahrtszone Kita Lenaustr.
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 29.29.1: Fortschreibung MIP 2018-2022
+- TOP 30.30.1: Amtsblatt
+- TOP 31.: Baureferat
+- TOP 31.31.1: (U) Straßenzustandsentwicklung und Finanzmittelausstattung im Straßenunterhalt - Bekanntgabe -
+- TOP 31.31.2: (U) Trinkwasserbrunnen
+- TOP 31.31.3: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 31.31.4: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 32.32.1: Einhaltung der Anhörungsfristen
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Grundstücksgeschäft mit Freistaat
+- TOP 34.34.2: (U) Straßenbenennung im 7. Stadtbezirk Sendling-Westpark Heckenstallertunnel
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: VRA Schulwegbeschilderung Loisacher- / Schüsselkar-/ Waxensteinstr.
+- TOP 35.35.2: Baustelleneinrichtung Trautweinstr.
+- TOP 35.35.3: Haltverbot Pressburger Str
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38.38.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38.38.3: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Grundschulsprengeländerung Konrad-Celtis-Str.
+- TOP 39.39.2: (U) Tübinger Straße Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogrmms "Kinderbetreuungsfinanzierung" 2017 bis 2020 Kindertagesstätten sonstiger Träger; Haus für Kinder an der Tübinger Straße 1-3 im 7. Stadtbezirk Sendling-Westpark Leistung eines Baukostenzuschusses
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 41.41.2: (U) Veränderungssperre Nr. 656 Zielstattstraße 2 Flurstück Nrn. 9286/2, 9288/38 (Teilfläche), 9288/39 (Teilfläche) und 9288/42 der Gemarkung München, Sektion V Stadtbezirk 7 Sendling-Westpark Flurstücke Nrn. 250/53 (Teilfläche), 250/61, 250/62 (Teilfläche) der Gemarkung Thalkirchen Stadtbezirk 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Erlass nach § 14 Baugesetzbuch (BauGB) (Aufstellungsbeschluss für den Bebauungsplan mit Grünordnung Nr. 2017)
+- TOP 41.41.3: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 41.41.4: (U) Am Harras / Passauer Straße Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 6 (Sendling) und 7 (Sendling- Westpark) Satzungsbeschluss Erhaltungssatzung „Am Harras / Passauer Straße“
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Baumaßnahmen der SWM
+- TOP 43.43.2: MVG-Maßnahmen zum Fahrplanwechsel
+- TOP 43.43.3: MVG-Mobilitätsmanagement Ansprechpartner/in
+- TOP 44.44.1: Kreuzungsumbau Gilm-Ehrwalder-Werdenfelsstr
+- TOP 44.44.2: Lärmschutzwand Hansastr.
+- TOP 44.44.3: Stattpark-OLGA
+- TOP 44.44.4: Budgetbericht Freunde der Kirchenmusik
+- TOP 44.44.5: Budgetbericht EB GS Fernpassschule
+- TOP 44.44.6: Beschilderung Luise-Kiesselbach-Tunnel
+- TOP 44.44.7: FFW Sendling
+- TOP 44.44.8: Fahrradständer Ehrwalder-Treffauer-Garmischer Str
+- TOP 45.: Baureferat
+- TOP 45.45.1: Beschränkung der Zufahrtsmöglichkeiten zum Westpark für Kfz
+- TOP 45.45.2: Stadtbezirksbudget: Bürgerantrag für Lärmschutzwand am Max-Seidl-Weg
+- TOP 45.45.3: Fristverlängerung - Antrag 5217 Zufahrtsrampe Unterführung A 95
+- TOP 45.45.4: Kanalarbeiten WC-Container Westpark
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budgetbescheid EB Gilmschule.
+- TOP 47.47.2: Budgetbescheid Feierwerk Skaterrampe
+- TOP 47.47.3: Bewillingungsänderung Zuwendung " Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 47.47.4: Budget-Verwendungsnachweise
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Filmaufnahmen Westpark
+- TOP 49.49.2: VVB-Bescheid Filmaufnahmen Westpark-2
+- TOP 49.49.3: VVB-Bescheid Laternenumzug-Montesorri
+- TOP 49.49.4: Eingeschränktes Halteverbot in der Ohlstadter Straße zwischen Partnachstr. und Fernpaßpark
+- TOP 49.49.5: Haltverbot Krüner Str.
+- TOP 49.49.6: Tempo-30 Am Westpark
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Koop-Grundtagsbildung an Grundschulen
+- TOP 53.53.2: Zwischenstand BA Antrag 3762-Zahlen Kinderbetreungseinrichtungen; Fristverlängerung
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Vollzug BaumschutzVO-Siegenburger Str.
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Zwischenstand Antrag 5216 Planstelle Schulsozialarbeit; Fristverlängerung
+- TOP 57.57.1: BAB-Direktion Unfallhäufigkeit
+- TOP 57.57.2: Elektrofahrdienst im Waldfriedhof; Fristverlängerung BV-Empfehlung
+- TOP 57.57.3: BA 19 Stellungnahme Aufwertung Südpark
