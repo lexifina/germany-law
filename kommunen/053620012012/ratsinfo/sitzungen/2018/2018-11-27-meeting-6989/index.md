@@ -1,0 +1,57 @@
+# Ausschuss für Verkehr und Mobilität (23. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-11-27T17:00:00+01:00
+- Ende: 2018-11-27T20:45:00+01:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-261
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYcjojpXUbxyFJzM5h0bcVg
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/6989
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfdJeuuNb86G3sfEzFpu2PP_KhXSBxFIs-N_xWimUsVA/Bekanntmachung_Ausschuss_fuer_Verkehr_und_Mobilitaet_27.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr und Mobilität) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZX-I9DP6DgykCtT9ZzbKpLDVvepVUSeyc4i_xv4xDI5/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr_und_Mobilitaet_27.11.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: 17:00 Uhr Ortstermin Steingasse / Besichtigung Verkehrssituation (Vereinbarung in der AfVM Sitzung am 04.09.2018)
+- TOP 2.: Niederschrift vom 04.09.2018
+- TOP 3.: Anträge
+- TOP 3.1: Anregung nach § 24 GO NRW vom 27.07.2018 hier: Antrag auf Erteilung einer Ausnahmegenehmigung für die Eltern der Kindertagesstätte St. Margareta für das Parken im Bereich Innenstadt Nord, hilfsweise auf Ausstattung der Parkautomaten in diesem Bereich mit der sogenannten "Brötchentaste" (die Erlaubnis zur Veröffentlichung der Personendaten wurde nicht erteilt).
+- TOP 3.2: Anregung nach § 24 GO NRW vom 11.08.2018; hier: Antrag auf Wiederherstellung des ursprünglichen Zustandes des Fußweges auf der Willy-Brandt-Straße - (kein Text vorhanden)
+- TOP 3.3: Anregung nach § 24 GO NRW vom 25.07.2018; hier: Antrag der Bürgerinitiative Kaiserstraße auf sofortige Umsetzung eines LKW-Verbotes auf der Kaiserstraße für die Dauer der Baumaßnahme Heinrich-Esser-Straße; ferner auf Einrichtung eines LKW-Leitsystems für Brühl mit einem langfristigen LKW-Verbot für die Kaiserstraße
+- TOP 3.3.1: Antrag auf sofortige Umsetzung eines LKW-Verbotes auf der Kaiserstraße bzw. Einrichtung eines LKW-Leitsystems für Brühl mit einem langfristigen LKW-Verbot für die Kaiserstraße; hier: Nachtragsantrag gemäß § 24 GO NRW vom 19.08.2018 zum Antrag vom 25.07.2018 (siehe Vorlage Nr. 268/2018, HA 10.9.2018) – Bezug: VkA 29.4.2014, Vorlagen 79/2014 und 111/2014, AfVM 3.2.2015, Vorlage 2/2015
+- TOP 3.3.2: Verkehrssituation Kaiserstraße im Teilstück zwischen der Kölnstraße ( L 194) und der Römerstraße (L 183) Bürgeranträge der IG Brühl-Nord vom 01.03.2014 und 25.07.2018
+- TOP 3.4: Anregung nach § 24 GO NRW hier: Parkregelung in der Stephanstraße, Bezug: Antrag von mehreren Anwohnerinnen und Anwohnern der Stephanstraße vom 06.11.2018 (eine Zustimmung zur Veröffentlichung der Personendaten liegt bisher nicht vor)
+- TOP 3.5: Entfernung der Markierungen Stephanstraße sowie Errichtung von 4 gekennzeichneten Parkflächen Bezug: Antrag der Fraktion Linke & Piraten vom 08.10.2018
+- TOP 3.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.1: Maßnahmen zur Geschwindigkeitsreduzierung "Am Krausen Baum" hier: Antrag vom 02.11.2018 Fam. Rössel, Am Krausen Baum 33, 50321 Brühl
+- TOP 3.7: Verkehrs- und Parksituation an der Sportstätte Brühl-Vochem Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 17.11.2018 - (kein Text vorhanden)
+- TOP 4.: Parken im Quartier
+- TOP 5.: Haushaltssatzung 2019 hier: Entwurf Haushaltsplan 2019 Sachgebiet Verkehr TEP 1207, 5403, 5404 Bezug: Rat vom 29.11.2018
+- TOP 6.: Widmung Bavignanstraße / Im Paradies Bebauungsplan 06.16 Alte Bonnstraße Steingasse - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 7.1: Schulstraße hier: Sachstand und E-Mail eines Petenten vom 14.10.2018
+- TOP 7.2: KVB Fahrplanwechsel 10-Minuten Takt
+- TOP 8.: Anfragen
+- TOP 8.1: Verlässlichkeit des ÖPNV einschließlich der Anbindung der Bahnhöfe in Brühl Bezug: Anfrage der FDP-Fraktion vom 02.10.2018
+- TOP 8.1.1: Anfrage der FDP Fraktion vom 02.10.2018 „Verlässlichkeit des ÖPNV einschließlich der Anbindung der Bahnhöfe in Brühl“
+- TOP 8.2: Allgemeine Verkehrssituation in Brühl und Parken im Wendehammer Elisabethstraße Bezug: Anfrage der Fraktion Linke&Piraten vom 05.11.2018
+- TOP 8.3: Umbau Bahnhofsgelände
+- TOP 8.4: Radweg Liblarer Straße/Pingsdorfer Straße
+- TOP 8.5: Parkplätze der EUFH
+- TOP 8.6: 10-Minuten Takt der Linie 18
+- TOP 8.7: Weihnachtsbäume im öffentlichen Verkehrsraum
+- TOP 8.8: besitzbare/bespielbare Stadt
+- TOP 8.9: Brühl-Mitte
+- TOP 8.10: Franzstraße Brühl-Ost
+- TOP 8.11: Maßnahmen zur Verbesserung der Radwege
+- TOP 8.12: Spielstraße Am Hohlweg
+- TOP 8.13: Beschilderung Parkplätze Schulstraße
+- TOP 8.14: Beleuchtung Kaiserbahnhof
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Bericht über die 145. Sitzung des Aufsichtsrates der REVG mbH am 20.09.2018
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen
+- TOP 11.1: Fahrgasterhebung
