@@ -1,0 +1,62 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-27T14:07:00+01:00
+- Ende: 2018-11-27T15:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18758
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18758
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Präsentation Kinder- und Jugendgesundheitsbericht 2018
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: FAIR.STÄRKEN e.V. - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Teilnahme an der II. Förderphase des ESF-Förderprogramms "Jugend stärken im Quartier" - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Neuwahl eines stellvertretend stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.2: Mitteilung über die Benennung eines neuen stellvertretend beratenden Pflichtmitgliedes für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.3: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ungeändert beschlossen
+- TOP 4.4: Durchführung der Projekte ALVENI links und rechts vom Rhein zur Verbesserung der Lebenssituation von neuzugewanderten Unionsbürgern/-innen, darunter Eltern mit ihren Kindern im Vorschulalter bis zu 7 Jahren im Rahmen des EHAP - ohne Votum in nachfolgende Gremien
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Beauftragung von Schulsozialarbeit an Kölner Grundschulen - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Frisches Kochen in Kitas
+- TOP -: Frisch kochen in Kitas - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 8.2.2: Übergang der Miet- und Objektverwaltung städtischer Kindertagesstätten auf das Jugendamt - Kenntnis genommen
+- TOP 8.2.3: Ausbau von Plätzen U3 durch gesondert geförderte Großtagespflegen unter Anbindung bei anerkannten Trägern der freien Jugendhilfe in Köln mit Erfahrung in der Kindertagesbetreuung - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Netzwerk gegen häusliche Gewalt - Statistik 2017 - Kenntnis genommen
+- TOP 8.3.2: Einbeziehung des zweiten Elternteils bei Hilfen in gemeinsamen Wohnformen für Mütter / Väter und Kinder - Kenntnis genommen
+- TOP 8.3.3: Darstellung von erweiterten und neuen stationären Angeboten mit Vereinbarungen mit dem Jugendamt Köln für den Zeitraum 01.01.2015 bis 31.10.2018 - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Fertigstellung des Monitoring Stadtentwicklung Köln
+- TOP 8.5.2: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 8.5.3: Kommunale Förderung der Glücksspielberatung in Köln - Kenntnis genommen
+- TOP 8.5.4: Jahresbericht 2017 des Amtes für Schulentwicklung ist veröffentlicht - Kenntnis genommen
