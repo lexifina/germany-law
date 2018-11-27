@@ -1,0 +1,68 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-27T16:00:00+01:00
+- Ende: 2018-11-27T18:23:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14749
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14749
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305834.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305834.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00305834.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Garath 2.0 - Vorstellung der Quartiersmanagerin - zur Kenntnis genommen
+- TOP 4.2: Bezirklicher Bauunterhalt 2018- Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk - einstimmig beschlossen
+- TOP 4.3: Bezirklicher Bauunterhalt 2018 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk - einstimmig beschlossen
+- TOP 4.4: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 1. Halbjahr 2019 - einstimmig beschlossen
+- TOP 4.5: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Str.2, im 1. - einstimmig beschlossen
+- TOP 4.6: Trödelmärkte in Garath Zentrum Ost im 1. Halbjahr 2019 - einstimmig beschlossen
+- TOP 4.7: Matthias-Erzberger-Straße - Baumfällungen im öffentlichen Straßenraum im Zuge der Errichtung des SOS - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der BV 10, Zuschuss an den Helferkreis Flüchtlinge Duderstädter Straße Hellerhof - mehrheitlich beschlossen
+- TOP 4.9: Verfügungsmittel der BV 10, Zuschuss an den VDK-Ortsverband Benrath-Garath - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der BV 10, Zuschuss an den Chor Joyful-Voices e.V. - mehrheitlich beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Ungepflegtes Grundstück zwischen dem Kindergarten Koblenzer Straße und dem Garather SV - beantwortet
+- TOP 5.2: Aktueller Anteil von Mietwohnungen und geförderten Wohnungen im Stadtbezirk 10 - beantwortet
+- TOP 5.3: Unsachgemäße Grünpflege, Nachfrage zur Informationsvorlage - beantwortet
+- TOP 5.4: Nutzung der Hallenkapazitäten - beantwortet
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Kinderbücherei Hassels – Organisation durch städtische Bibliothek Garath - beantwortet
+- TOP 6.2: Zusammenfassung der Kinderbücherei Hassels und der Stadtteilbücherei Garath - beantwortet
+- TOP 6.3: Gefährdung durch "Rechtsabbieger" - vertagt
+- TOP 6.4: Nachfrage zur CO Pipeline - beantwortet
+- TOP 6.5: Veränderte Parkmöglichkeiten im Hauptzentrum von Garath, Parkplatz an der Peter-Behrens-Straße - vertagt
+- TOP 6.6: Tarif – Fahrt nach Langenfeld mit einem Aboticket des VRR der Preisstufe A - beantwortet
+- TOP 6.7: Flächendeckende Einführung der „blauen Tonne“ - beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Reinigen von Verkehrszeichen, Straßennamensschildern sowie anderer Hinweisschilder im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 7.2: Einrichtung einer Polizeiwache in Hellerhof - einstimmig beschlossen
+- TOP 7.3: Einladung des Leiters des Amtes für Verbraucherschutz - einstimmig beschlossen
+- TOP 7.4: S-Bahn-Anbindung des Stadtbezirks 10 - einstimmig beschlossen
+- TOP 7.5: Markieren der Stellplätze auf dem Emil-Barth Parkplatz in Garath - mehrheitlich beschlossen
+- TOP 7.6: Förderung von stationsbasiertem Car-Sharing in Garath und Hellerhof - einstimmig beschlossen
+- TOP 7.7: Dachbegrünung SOS-Kinderdorf – Garath 2.0 - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Shared Space Zone am Einkaufszentrum Hellerhof - zur Kenntnis genommen
+- TOP 8.2: Sachstandsbericht zum Angebot an stationären Pflegeplätzen, Tagespflegeplätzen, Kurzzeitpflegeplätze - zur Kenntnis genommen
+- TOP 8.3: Erweiterung der Abbiegespur B8 aus Richtung Langenfeld in die Eichsfelder Straße (D-Hellerhof Ost) - zur Kenntnis genommen
+- TOP 8.4: Temporäre Nutzung des Baugrundstücks "Am Buchholzer Busch" durch das Familienzentrum Stettiner Straß - zur Kenntnis genommen
+- TOP 8.5: Bewerbung für den Schulversuch "Talentschule" - zur Kenntnis genommen
+- TOP 8.6: Ergebnis der Beratung zur Aufstellung des Haushaltsplanes 2019 - zur Kenntnis genommen
+- TOP 8.7: Reparatur Fahrrad- und Fußgängerweg Frankfurter Straße - ab Hellerhof-Brücke bis Goslarer Straße - zur Kenntnis genommen
+- TOP 8.8: Kommunikationszentrum Wittenberger Weg - zur Kenntnis genommen
+- TOP 8.9: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 06.01.2019 - zur Kenntnis genommen
+- TOP 8.10: Sachstandsbericht zur Beschilderung Bürgerwiese Garath / Piktogramme - zur Kenntnis genommen
+- TOP 8.11: Berichterstattung des Jugendamtes über die Kinder- und Jugendarbeit im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 8.12: Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 8.13: Sachstandsbericht zum Hinweisschild am Bewegungspark Garath - zur Kenntnis genommen
+- TOP 8.14: Anregungen aus den Bezirksvertretungen für die Vermietung von Räumlichkeiten in städtischen Jugendfreizeiteinrichtungen - zur Kenntnis genommen
+- TOP 9: Verschiedenes - zur Kenntnis genommen
