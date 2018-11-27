@@ -1,0 +1,51 @@
+# Stadtentwicklungsausschuss (24. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2018-11-27T18:00:00+01:00
+- Ende: 2018-11-27T21:10:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUd2JYJnEMMqhhE-W1j7CZQ
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19757
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUwchrVlIycI0qVujXZStzDvu6gmJotQJXVmUrybR_qF/Bekanntmachung_Stadtentwicklungsausschuss_27.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdH7lknEl5OXDXf3oVD_ig-u6zHLG8fQU4IkXSvbeqM_/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_27.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 19.09.2018 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fortschreibung des Einzelhandels- und Zentrenkonzepts der Stadt Bad Münstereifel - Einstimmiger Empfehlungsbeschluss: 
+- TOP 4.: 31. Änderung des Flächennutzungsplanes "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Empfehlungsbeschluss bei 1 Gegenstimme: 
+- TOP 5.: Bebauungsplan Nr. 90 "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Empfehlungsbeschluss: 
+- TOP 6.: Verkehrssituation und Parkraumbewirtschaftung in der Kernstadt hier: Präsentation der Fa. ISAPLAN
+- TOP 7.: Verkehrsberuhigung Nöthen, Brunnenstraße und Hohner Weg; hier: Antrag der UWV-Fraktion vom 30.08.2018 - Bericht über die Beratung in der Verkehrsschau - Einstimmiger Beschluss: 
+- TOP 8.: Verkehrssituation "Schwarzer Weg" in Hohn hier: CDU-Antrag vom 22.09.2018 - Einstimmiger Beschluss: 
+- TOP 9.: Aufbringen von Fahrbahnmarkierungen im Kreuzungsbereich Fabrikstraße / Gutenbergweg / Im Floting / Brückenstraße in Arloff hier: Antrag der CDU-Fraktion vom 22.09.2018 - Einstimmiger Beschluss: 
+- TOP 10.: Erneuerung des städt. Wegweisersystems hier: SPD-Antrag vom 10.11.2018 - Einstimmiger Beschluss: 
+- TOP 11.: Barrierefreier Ausbau von Haltestellen - Einstimmiger Beschluss: 
+- TOP 12.: Anlegen einer Linksabbiegerspur Gewerbegebiet Wald / L 113 hier: Vorstellung der Planung - Einstimmiger Beschluss: 
+- TOP 13.: Entwicklungsbereich Schleidpark - "Projekt Wald X - Das Walderlebniszentrum" hier: Vorbereitung planerischer Schritte - Einstimmiger Beschluss: 
+- TOP 14.: Bebauungsplan Nr. 2 "Otterbach" - 2. vereinfachte Änderung hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss: 
+- TOP 15.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Eicherscheid - Bereich Kohlstraße (Ergänzungssatzung) hier: Abwägungsbeschlüsse und Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss: 
+- TOP 16.: Entwicklungsfläche Bad Münstereifel-Kirspenich, Gutenbergweg - Einstimmiger Beschluss: 
+- TOP 17.: Satzung über die förmliche Festlegung eines Sanierungsgebietes in der Kernstadt Bad Münstereifel (Sanierungssatzung) hier: Erweiterung des Sanierungsgebietes - Einstimmiger Empfehlungsbeschluss: 
+- TOP 18.: Mitgliedschaft in der Arbeitsgemeinschaft Deutsche Fachwerkstädte e.V. - Einstimmiger Empfehlungsbeschluss: 
+- TOP 19.: Denkmalförderprogramm 2018 des Landes NRW (1) Förderung kleinerer denkmalpflegerischer Maßnahmen Privater mit Pauschalzuweisungen (2) Einzelzuschüsse für größere denkmalpflegerische Maßnahmen Privater, Gemeinden und Gemeindeverbände, Kirchen, Religionsgemeinschaft, Denkmalpflegeorganisationen oder gemeinnützigen Trägern - Einstimmiger Beschluss: 
+- TOP 20.: Anfragen und Mitteilungen
+- TOP 20.1: RVK Verkaufsstelle Bahnhof hier: Antrag der UWV-Fraktion vom 06.11.2018
+- TOP 20.2: Machbarkeitsstudie Elektrifizierung Voreifelbahn
+- TOP 20.3: Golf Hotel Breuer hier: Anfrage der UWV-Fraktion vom 06.11.2018
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Grundstücksangelegenheiten; Veräußerung eines städtischen Grundstücks in der Kölner Straße - Einstimmiger Empfehlungsbeschluss: 
+- TOP 2.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Projektsteuerung/Fördermittelmanagement hier: Beschluss der Leistungsbeschreibung / Vergabekriterien zur Auftragsvergabe - Beschluss bei 1 Gegenstimme und 1 Enthaltung: 
+- TOP 3.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Masterplan Stadteingang/Werther Quartier hier: Beschluss der Leistungsbeschreibung / Vergabekriterien zur Auftragsvergabe - Beschluss bei 1 Gegenstimme und 1 Enthaltung:
+- TOP 4.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Masterplan Stadteingang/Werther Quartier - Fachgutachten Verkehr hier: Beschluss der Leistungsbeschreibung/Vergabekriterien zur Auftragsvergabe - Beschluss bei 1 Gegenstimme und 1 Enthaltung:
+- TOP 5.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK); Konzept zur Reduzierung von Barrieren im öffentlichen Raum; hier: Beschluss der Leistungsbeschreibung/Vergabekriterien zur Auftragsvergabe - Beschluss bei 1 Gegenstimme und 1 Enthaltung:
+- TOP 6.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) Maßnahme Nr. A9 Mobilitätskonzept inklusive Parkraumstrategie hier: Beschluss der Leistungsbeschreibung/Vergabekriterien zur Auftragsvergabe zur Konzeptentwicklung - Beschluss bei 1 Gegenstimme und 1 Enthaltung:
+- TOP 7.: Verwertung eines Grundstücks in Bad Münstereifel, Bergstraße - Einstimmiger Beschluss: 
+- TOP 8.: Anfragen und Mitteilungen
+- TOP 8.1: Verwertung städt. Grundstück "Unter den Linden", Arloff
+- TOP 8.2: Städtebauförderung 2019 - Investitionspakt "Soziale Integration im Quartier"
