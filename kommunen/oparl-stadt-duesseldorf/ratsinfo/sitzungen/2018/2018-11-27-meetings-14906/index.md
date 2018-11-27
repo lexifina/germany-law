@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-27T17:00:00+01:00
+- Ende: 2018-11-27T20:50:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14906
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14906
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330372.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330372.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330372.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschriften - einstimmig beschlossen
+- TOP 4: Glasmacherviertel Umbau Nachtigallstraße - Baumfällung - - vertagt
+- TOP 5: Grünanlage Alter Gerresheimer Friedhof - zur Kenntnis genommen
+- TOP 6: Ausführung und Finanzierung des Projektes Umbau Wasserspielplatz Alter Gerresheimer Friedhof - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Zeichen setzen zur Erinnerung an die Hexenverbrennung am Gallberg - einstimmig beschlossen
+- TOP 14: Grünzug Merseburger Straße - abweichend beschlossen
+- TOP 15: Fahrradmitnahme in der Straßenbahn zwischen Burgmüllerstraße und Auf der Hardt - einstimmig beschlossen
+- TOP 16: Intensivierung der Dach-, Fassaden und Innenhofbegrünung an Öffentlichen Gebäuden - abweichend beschlossen
+- TOP 17: Verkehrssicherheit an der Kreuzung Dreherstraße/Hallesche Straße/Diepenstraße - mehrheitlich beschlossen
+- TOP 18: Trinkwasserbrunnen im Zentrum von Gerresheim - mehrheitlich beschlossen
+- TOP 19: Masterplan Green-City Mobility / Mobilstationen im Stadtbezirk 7 - abweichend beschlossen
+- TOP 20: Staufenplatz - abweichend beschlossen
+- TOP 21: Wirtschaftliche und soziale Situation in Gerresheim Süd - einstimmig beschlossen
+- TOP 22: Beschleunigung U73 - vertagt
+- TOP 23: Rechtssicherheit und Rechtsstaatlichkeit für Bauwillige und Mandatsträger - vertagt
+- TOP 24: Kreuzung Dreherstr. / Torfbruchstr. - zur Kenntnis genommen
+- TOP 25: OGS-Betreuung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 26: Verkehrssituation Ludenberger Straße I - vertagt
+- TOP 27: Verkehrssituation Ludenberger Straße II - vertagt
+- TOP 28: Verkehrssituation Ludenberger Straße III - vertagt
+- TOP 29: Rheinbahn-Betriebshof im Glasmacherviertel - zur Kenntnis genommen
+- TOP 30: Aktuelle Baumaßnahmen Grundstück Rennbahnstraße 15 - zur Kenntnis genommen
+- TOP 31: geförderte Wohnungen für Senior*innen - zur Kenntnis genommen
+- TOP 32: Ausbau Torfbruchstraße - zur Kenntnis genommen
+- TOP 33: Marktplatz in Grafenberg - zur Kenntnis genommen
+- TOP 34: Haltestelle Nachtigallstraße - zur Kenntnis genommen
+- TOP 35: Rheinbahn-Haltestelle am Poststadion, Dreherstraße - zur Kenntnis genommen
+- TOP 36: Planungsmittel Ausbau Torfbruchstraße - zur Kenntnis genommen
+- TOP 37: Straßeninstandsetzung - zur Kenntnis genommen
+- TOP 38: Luftreinhalteplan Düsseldorf 2018 - zur Kenntnis genommen
+- TOP 39: Sachstandsbericht Sporthallensituation im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 40: Filialkonzept der Deutschen Post AG; Veränderung im Filialnetz - zur Kenntnis genommen
+- TOP 41: Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
