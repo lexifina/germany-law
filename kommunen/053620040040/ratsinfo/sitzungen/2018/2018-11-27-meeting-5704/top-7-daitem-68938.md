@@ -1,0 +1,6 @@
+# TOP 7.: Klimaschutzkonzept hier: Sachstandsbericht, Vortrag durch das Beratungsbüro ewko
+
+- Sitzung: Ausschuss für Stadtentwicklung und Umweltschutz (29. Sitzung) (2018-11-27)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/68938
