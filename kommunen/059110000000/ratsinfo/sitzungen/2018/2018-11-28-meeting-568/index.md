@@ -1,0 +1,54 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2018-11-28T15:00:00+01:00
+- Ende: 2018-11-28T17:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdbnMUz3CzgvjIp8kCmUiJg
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/568
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfG4_YG5WXwJ1cfug6rP85cItjj9yyFGWpLk1ZrJOQo3/Einladung_Seniorenbeirat_28.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVm4PiJZZeoDmUb9Z61HanEgfhD_4QWfxbu6AeYAW1dw/Oeffentliche_Niederschrift_Seniorenbeirat_28.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 3.1: Fortschreibung der verbindlichen kommunalen Pflegeplanung für die Jahre 2018 bis 2020 - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Anregungen und Empfehlungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 9: keine Tagesordnungspunkte
+- TOP 9.1: Sparkasse Bochum: Abheben und Einzahlen von Bargeld am Automaten - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.2: Ticket- und Fahrscheinverkauf nur noch digital? - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.3: Keine Fahrradständer vor der neuen Post- und Postbankfiliale - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.4: Installation einer Querungshilfe an der Dinnendahlstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.5: Starke Einschränkungen der Gehwege im Bereich des Umbaus der Linie 310 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.6: Anlegen eines Hundeplatzes - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.7: Wann wird endlich der Elisabeth-Hüfner-Weg von der VBW Seniorenanlage zum Hammer Park instandgesetzt? - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.8: Toilettenanlagen am Ümminger See - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.9: Wegezustand auf dem Friedhof in Werne - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 9.10: Berichte aus den Gremien
+- TOP 10: Anfragen
+- TOP 10.1: Stolpergefahr durch Wurzeln auf der Massenbergstraße - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 10.2: Digitale Angebote für Senioren - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 10.3: REWE-Kaufpark am Castroper Hellweg - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 11.1: keine Tagesordnungspunkte
