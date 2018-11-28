@@ -1,0 +1,8 @@
+# TOP 6.1: Sicherung von Flächen für Kitas, Schulen und andere Gemeinbedarfe (Beschlussempfehlung zum Schlussbericht BA - Stellungnahme Sch ausstehend)
+
+- Sitzung: 24. (öffentliche) Sitzung des Ausschusses für Stadtentwicklung und Bauen (2018-11-28)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=48435
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=48435
