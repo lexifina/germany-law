@@ -1,0 +1,67 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-11-28T17:00:00+01:00
+- Ende: 2018-11-28T19:39:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14638
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14638
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330863.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330863.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00330863.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Stadtbahn U81, 1. Bauabschnitt Freiligrathplatz – Flughafen Terminal - AuF - Empfehlung mehrheitlich abgelehnt
+- TOP 7: Anfrage SPD: Ahrensplatz - schriftlich beantwortet
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfrage CDU: Fahrradweg Wilhelm-Raabe-Straße Bürgersteig - vertagt
+- TOP 10: Anfrage SPD-Fraktion: Unterrather/Wangeroogestraße - vertagt
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage der CDU und FDP: Missstände auf dem Grundstück Kalkumer Straße / Zaberner Straße - vertagt
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Anfrage SPD: Flüchtlingsunterkunft In der Nießdonk - vertagt
+- TOP 16: Anfrage der SPD: Bewohnerparken und entsprechende Beschilderung im SB 6 - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Anfrage CDU und FDP: Jüd. Gymnasium Borbecker Straße - schriftlich beantwortet
+- TOP 20: Anfrage CDU und FDP: Sozialräumliche Gliederung - schriftlich beantwortet
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Antrag der SPD-Fraktion: Fußgängerüberweg Eckener Straße zur Kehler Straße hin - einstimmig beschlossen
+- TOP 24: Antrag der SPD: Beleuchtung Fußweg BSA zwischen Franz-Rennefeld-Weg und Niederbeckstraße - einstimmig beschlossen
+- TOP 25: Antrag Meier (parteilos), CDU und FDP: Hundeauslaufwiese A 44 - einstimmig beschlossen
+- TOP 26: Antrag der SPD: Überprüfung Verkehrsführung An der Golzheimer Heide / Rheinlandstraße / Grundschulen - einstimmig beschlossen
+- TOP 27: Antrag CDU und FDP: Kita und/oder Bildungs-, Beratungs- und Freizeitangebot in Rath - einstimmig beschlossen
+- TOP 28: Antrag CDU und FDP: Betreuungs- und Beratungsangebot Ferdinand-Schüssler-Tagesschule - einstimmig beschlossen
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Antrag CDU: Bolzplatz Sankt-Franziskus-Straße - einstimmig beschlossen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Antrag CDU und FDP: Oberhausener Straße - Abbruch Halle - einstimmig beschlossen
+- TOP 34: Interfr. Antrag: Vandalismus BSA Rath - einstimmig beschlossen
+- TOP 35: Interfr. Antrag: Friedrich-Rückert-Gymnasium "Talentschule" - einstimmig beschlossen
+- TOP 36: Trödelmärkte Schützenplatz Rather Broich 1. Halbjahr 2019 - einstimmig beschlossen
+- TOP 37: Erste Nachpflanzungen Stadtbaumkonzept - einstimmig beschlossen
+- TOP 38: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 39: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 40: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 41: Bauunterhaltungsmittel 2018 - einstimmig beschlossen
+- TOP 42: Mittel Jahresempfang 2019 - einstimmig beschlossen
+- TOP 43: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 44: Zuschussvergabe 2018 - einstimmig beschlossen
+- TOP 45: Verfügungsmittel 2018 - einstimmig beschlossen
+- TOP 46: MdV - Kapazitäten Ordnungsamt Parkraumkontrolle - zur Kenntnis genommen
+- TOP 47: MdV - Sanierung Fahrbahn Kieshecker Weg - zur Kenntnis genommen
+- TOP 48: MdV - Installation von Verkehrsspiegeln - Vorlage 176/83/2018 - zur Kenntnis genommen
+- TOP 49: MdV - Baumfällungen aus Verkehrssicherheitsgründen im Stadtbezirk 6 - zur Kenntnis genommen
+- TOP 50: Anregungen der BVen zur Benutzungsordnung städt. Jugendfreizeiteinrichtungen - zur Kenntnis genommen
