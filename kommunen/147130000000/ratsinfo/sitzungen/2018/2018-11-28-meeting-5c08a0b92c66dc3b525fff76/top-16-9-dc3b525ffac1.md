@@ -1,0 +1,6 @@
+# TOP 16.9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: BA Jugend, Soziales, Gesundheit (2018-11-28)
+- Körperschaft: Leipzig
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c08a0b72c66dc3b525ffac1
