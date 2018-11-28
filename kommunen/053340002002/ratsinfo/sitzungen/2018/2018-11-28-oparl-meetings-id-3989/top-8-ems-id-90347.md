@@ -1,0 +1,8 @@
+# TOP 8: Umsetzung Lichtprojekt Bahnunterführung Aachen-Schanz und Konzeption Beleuchtungskonzept Bahnunterführung Aachen-West
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Mitte (2018-11-28)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=90347
+- Ergebnis: geändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=26548&bi=25656
