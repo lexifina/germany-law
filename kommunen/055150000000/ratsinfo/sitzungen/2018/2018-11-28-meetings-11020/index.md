@@ -1,0 +1,57 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-11-28T17:05:00+01:00
+- Ende: 2018-11-28T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11020
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11020
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00434520.pdf
+
+## Tagesordnung
+
+- TOP 1: Hinweise / Anmerkungen zur Niederschrift
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 2.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Einbringen von Eingaben
+- TOP 5: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 5.1: Errichtung der Mathilde-Anneke-Gesamtschule (2. Städtische Gesamtschule) - mehrheitlich beschlossen
+- TOP 5.2: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig geändert beschlossen
+- TOP 5.3: Entsperrung der Haushaltsmittel für die Sanierung eines Scheunengebäudes des Emshofes, Verth 14, 48291 Telgte - einstimmig beschlossen
+- TOP 5.4: Umsetzung von Klimaschutzmaßnahmen in städtischen Gebäuden – Energie- und Klimabericht 2017 - einstimmig beschlossen
+- TOP 5.5: Stadthalle Hiltrup: Durchführung von Sanierungs- und Instandhaltungsmaßnahmen - mehrheitlich beschlossen
+- TOP 5.6: Sommerlicher Wärmeschutz, Anpassung an den Klimawandel - einstimmig geändert beschlossen
+- TOP 5.7: Änderung der Abwassergebührensatzung (AGS) einschließlich Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 5.8: Änderung der Gewässergebührensatzung (GGS) einschließlich Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 5.9: Satzungen zur Änderung der Landschaftspläne "Werse" (LP1), "Nördliches Aatal und Vorbergs Hügel" (LP2) sowie "Roxeler Riedel" (LP3) - einstimmig beschlossen
+- TOP 5.10: "Global Nachhaltige Kommune in NRW (GNK)" - mehrheitlich beschlossen
+- TOP 5.11: Bonus-System für Baumaßnahmen im Stadtverkehr: Vorteile gegen Mehrkosten abwägen - mehrheitlich beschlossen
+- TOP 5.12: Knotenpunkt Westfalenstraße / Hummelbrink - Verbesserung der Verkehrssicherheit - einstimmig beschlossen
+- TOP 5.13: Planänderung zur Planfeststellung für den Ausbau des Dortmund-Ems-Kanals Kanalstufe Münster zur Erweiterung und Erhöhung der Bodenablagerungsfläche „Coerheide“ bei DEK-km 74,600 - einstimmig beschlossen
+- TOP 5.14: Maßnahmenprogramm 2019/2020 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 5.15: Maßnahmenprogramm 2019/2020 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 5.16: Maßnahmenprogramm 2019/2020 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 5.17: Maßnahmenprogramm 2019/2020 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 5.18: Maßnahmenprogramm 2019/2020 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 5.19: Maßnahmenprogramm 2019/2020 des Tiefbauamtes für die überbezirklichen Baumaßnahmen - einstimmig beschlossen
+- TOP 5.20: Weseler Straße - barrierefreier Umbau der Haltestelle "Mersmannsstiege" - einstimmig beschlossen
+- TOP 5.21: Boeselagerstraße – barrierefreier Ausbau der Haltestelle Vagedesweg und einseitige Erneuerung der Nebenanlage – von Mecklenbecker Straße bis Vagedesweg - einstimmig beschlossen
+- TOP 5.22: Erneuerung von drei Räumerbrücken einschl. Bauwerksinstandsetzungen - einstimmig beschlossen
+- TOP 5.23: Anträge A-R/0013/2018 und A-H/0006/2018 "Eine Konferenz für den Hiltruper See" - vertagt
+- TOP 5.24: Antrag an den Rat Nr. A-R/0013/2016: Photovoltaik in den Gewerbegebieten fördern - Nachhaltigkeit und Klimaschutz sichern - einstimmig beschlossen
+- TOP 5.25: Abwehrmaßnahmen gegen den Eichenprozessionsspinner in Münster - einstimmig geändert beschlossen
+- TOP 5.26: Erläuterungsbericht zum Arbeitsprogramm des Amtes für Immobilienmanagement für das Haushaltsjahr 2019 - zur Kenntnis genommen
+- TOP 5.27: Geplante Veranlagungen in 2019 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.28: Geplante Veranlagungen in 2019 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.29: Geplante Veranlagungen in 2019 zu Erschließungsbeiträgen - zur Kenntnis genommen
+- TOP 5.30: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2019 - zur Kenntnis genommen
+- TOP 5.31: Energiewirtschaftliche Chancen und Rahmenbedingungen für einen Energiepark in Münster - von der Tagesordnung abgesetzt
+- TOP 5.32: Verpachtung einer städtischen landwirtschaftlichen Ackerfläche am Reiner-Klimke-Weg, 48163 Münster, Stadtbezirk Münster-West, für ökologischen Landbau - einstimmig geändert beschlossen
+- TOP 5.33: Förderrichtlinie des BMVI „Digitalisierung kommunaler Verkehrssysteme“ - einstimmig beschlossen
+- TOP 6: Beratung des Entwurfs des Haushaltsplanes 2018 sowie des Finanzplanes und des Investitionsplanes 2018 ff.
+- TOP 7: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 8: Verschiedenes
