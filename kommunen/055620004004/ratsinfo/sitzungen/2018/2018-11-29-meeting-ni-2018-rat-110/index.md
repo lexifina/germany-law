@@ -1,0 +1,66 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2018-11-29T16:00:00+01:00
+- Ende: 2018-11-29T20:30:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2018-RAT-110
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2018-RAT-110
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2018-RAT-110
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Bestellung eines Schriftführers für den Rat der Stadt Castrop-Rauxel
+- TOP 3: Resolution des Rates der Stadt Castrop-Rauxel vom 29.11.2018_Solidarität mit den MitarbeiterInnen der Metro-Tocher real,-
+- TOP 4: Beschlusskontrolle über die Durchführung von Ratsbeschlüssen
+- TOP 5: Gründung einer städtischen Entwicklungsgesellschaft
+- TOP 6: Änderungen zum Stellenplan 2019
+- TOP 7: Haushaltssanierungsplan 2012 - 2021 Fortschreibung für das Haushaltsjahr 2019
+- TOP 8: Haushaltssatzung und Haushaltsplan 2019 nebst Anlagen
+- TOP 9: Haushaltsplanung für die Jahre 2019 ff. hier: Abstimmung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm "Gute Schule 2020" des Landes
+- TOP 10: Nationale Projekte des Städtebaus: Sprung über die Emscher - Wasserkreuz Castrop-Rauxel hier: Weiterleitungsvertrag und Ausführungsvereinbarung mit der Emschergenossenschaft
+- TOP 11: Zustimmung zum Wirtschaftsplan 2019 des EUV für a) Teilbetrieb VII - Dienstleistungen b) Teilbetrieb IX - Straßeninfrastruktur
+- TOP 12: 4. Änderung der Vergnügungssteuersatzung vom 31.03.2011 ab 01.01.2019
+- TOP 13: Finanzcontrolling: Unternehmensbericht Stand 15.09.2018
+- TOP 14: Haushaltsüberschreitungen 2017
+- TOP 15: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 16: Erhöhung der Aufwandsentschädigung für Schiedspersonen
+- TOP 17: Weiterentwicklung und Anpassung der Förderleistungen für Kindertagespflegepersonen
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer weiteren überplanmäßigen Mittelbereitstellung bei den Buchungsstellen 36.04.533430 (Eingliederungshilfe seelisch behinderter Kinder) und 36.04.533505 (Laufende Leistungen für Kinder und Jugendliche in Heimerziehung)
+- TOP 19: Genehmigung eines Dringlichkeitsentscheids gemäß § 60 Abs.1 Satz 2 der Gemeindeordnung NW über die Bereitstellung von überplanplanmäßigen Haushaltsmitteln gemäß § 83 GO NRW für die „Gute Schule 2020" Maßnahme 5 (Sanierung der Naturwissenschaftlichen Räume am Ernst-Barlach-Gymnasium) in Höhe von insgesamt 92.000 € bei folgender Buchungsstelle: 21.17/0628.785160 (Neubau/Sanierung Schulen durch B60 — NW Räume EBG)
+- TOP 20: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen für das Jahr 2018; Genehmigung einer Dringlichkeitsentscheidung
+- TOP 21: Nahverkehrsplan für den Kreis Recklinghausen - Taktverdichtung der KOM-Linie 351 zwischen Castrop Münsterplatz und Herne-Holthausen Mitte
+- TOP 22: Gebührenbedarfsberechnung 2019 "Friedhofswesen"
+- TOP 23: Regionales Radwegenetz für die Metropole Ruhr
+- TOP 24: Änderung der Baumschutzsatzung
+- TOP 25: Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2017
+- TOP 26: Gebührenbedarfsberechnung 2019 Klärschlammentsorgung und Erlass einer Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) in der Stadt Castrop-Rauxel
+- TOP 27: Gebührenbedarfsberechnung 2019 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel
+- TOP 28: Gebührenbedarfsberechnung 2019 -Abfallentsorgung- und Erlass einer Gebührensatzung zur Satzung über die Kreislaufwirtschaft und Abfallentsorgung in der Stadt Castrop-Rauxel
+- TOP 29: Gebührenbedarfsberechnung 2019 - Straßenreinigung und Erlass einer Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Castrop-Rauxel (Straßenreinigungs- und Gebührensatzung)
+- TOP 30: Erlass einer Satzung über die Kreislaufwirtschaft und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)
+- TOP 31: Wahl einer Mediatorin/eines Mediators für den Ältestenrat der Stadt Castrop-Rauxel
+- TOP 32: Umbesetzung des Jugendhilfeausschusses der Stadt Castrop-Rauxel
+- TOP 33: Gemeinsamer Antrag SPD und CDU Ratsfraktionen vom 15.10.2018; Dauerhafte Öffnung der Lönsstraße
+- TOP 34: Gemeinsamer Antrag Bündnis 90 _Die Grünen, SPD, FWI, DIE LINKE vom 07.11.2018_Kommunale CO2-Bilanz
+- TOP 35: Antrag FWI-Fraktion vom 13.11.2018_Aufnahme aller politischer Gremien in das Ratsinformationssystem
+- TOP 36: Antrag FWI-Fraktion vom 13.11.2018_Verbesserung der Kommunikation zwischen den Sitzungsperioden
+- TOP 37: Antrag FWI-Fraktion vom 30.10.2018_Ausschussumbesetzung Forum Aufsichtsrat
+- TOP 38: Antrag DIE LINKE Fraktion vom 12.11.2018_Ausschussumbesetzung Umweltausschuss
+- TOP 39: Antrag CDU Fraktion vom 14.11.2018_Ausschussumbesetzung Wahlprüfungsausschuss
+- TOP 40: Genehmigung einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 der Gemeindeordnung NW (GO NW) zu einer überplanmäßigen Mittelbereitstellung bei Buchungsstelle 36.01.533435 (Kosten der Tagespflege)
+- TOP 41: Weitere überplanmäßige Mittelbereitstellung bei den Buchungsstellen 36.04.533430 (Eingliederungshilfe seelisch behinderter Kinder) und 36.04.533505 (Laufende Leistungen für Kinder und Jugendliche in Heimerziehung)
+- TOP 42: Antrag SPD-Fraktion vom 26.11.2018_Resolution zur Änderung des Kommunalabgabengesetzes (KAG NRW)
+- TOP 43: Teilnahme am Landes-Förderprogramm "Heimat. Zukunft. Nordrhein-Westfalen“, hier: Einrichtung eines Heimat-Preises
+- TOP 44: Anfragen der Ratsmitglieder
+- TOP 45: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
