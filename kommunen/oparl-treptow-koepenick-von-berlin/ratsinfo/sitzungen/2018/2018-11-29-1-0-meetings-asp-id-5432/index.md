@@ -1,0 +1,54 @@
+# 21. (öffentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2018-11-29T18:00:00+01:00
+- Ende: 2018-11-29T20:35:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5432
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5432
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Bericht des Bezirksamtes - erledigt
+- TOP 4: Überweisungen aus der BVV - (offen)
+- TOP 4.1: Fußverkehrsbeauftragter für Treptow-Köpenick (Stellungnahme) - im Ausschuss abgelehnt
+- TOP 4.2: Sinnvoller Ausbau der zukünftigen Ost-West-Trasse (Stellungnahme) - mit Änderungen im Ausschuss beschlossen
+- TOP 4.3: Programm "Barrierefreie öffentliche Räume" (Stellungnahme) - vertagt
+- TOP 4.4: Kontrollen von Radfahrenden auf Gehwegen (Empfehlung) - vertagt
+- TOP 4.5: Kontrolle von Falschparkenden in 2. Reihe, auf Radwegen und Radfahrschutzstreifen (Empfehlung) - vertagt
+- TOP 4.6: Countdown-Ampeln für Fußgänger in Treptow-Köpenick (Empfehlung) - im Ausschuss abgelehnt
+- TOP 4.7: Einsatz von hauptamtlichen Parkrangern (Empfehlung) - vertagt
+- TOP 4.8: Mangel an Spielflächen begegnen – Einrichtung von temporären Spielstraßen fördern (Empfehlung) - im Ausschuss abgelehnt
+- TOP 4.9: Sauberkeit in der Mentelinstraße (Empfehlung) - vertagt
+- TOP 4.10: Vorwegweiser auf der Minna-Todenhagen-Brücke (Empfehlung) - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11: Radverkehr - (offen)
+- TOP 4.11.1: Radweg in der Glienicker Straße zwischen Spindlersfelder Straße und Grünauer Straße verbessern (Empfehlung Rad) - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11.2: Ausbau Radweg im Rahmen des Radwegekonzeptes (Empfehlung Rad) - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11.3: Neue Lösung für Radinfrastruktur auf der Wendenschloßstraße zwischen der Kreuzung Müggelheimer Straße und der Salvador-Allende-Straße (Empfehlung Rad) - mit Änderungen im Ausschuss beschlossen
+- TOP 4.11.4: Radverkehrsinfrastruktur in der Wilhelminenhofstraße (Empfehlung Rad) - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.11.5: Sichere Straßenbahnschienen für Radfahrende (Empfehlung Rad) - vertagt
+- TOP 4.11.6: Mehr Sicherheit beim Radfahren auf dem Sterndamm (Empfehlung Rad) - vertagt
+- TOP 4.12: Lichtzeichenanlage Kreuzung Dahlwitzer Landstraße / Schöneicher Straße prüfen (Empfehlung) - vertagt
+- TOP 4.13: Maßnahmen während der Bauphase am "Bohnsdorfer Kreisel" (Empfehlung) - vertagt
+- TOP 4.14: Verkehrskonzeption für Grünau, Bohnsdorf und Altglienicke (Empfehlung) - vertagt
+- TOP 4.15: Verbreiterung der Fahrbahn unter der Bahnbrücke am S-Bhf. Grünau (Empfehlung) - vertagt
+- TOP 4.16: Zentrales Baustellenverzeichnis für Treptow-Köpenick anlegen (Empfehlung) - vertagt
+- TOP 4.17: Akustikampel Michael-Brückner-Straße (Empfehlung) - vertagt
+- TOP 4.18: Sicherung von Carsharing-Parkplätzen (Empfehlung) - vertagt
+- TOP 4.19: Schulwegsicherung in der Wendenschloßstraße (Empfehlung) - vertagt
+- TOP 4.20: Kurzzeitparken in Altglienicke (Empfehlung) - vertagt
+- TOP 4.21: Querung vor Schwimmhalle verbessern (Empfehlung) - vertagt
+- TOP 4.22: Überquerung der Köpenicker Landstraße in Höhe der Sophie-Brahe-Schule sicherer machen (Empfehlung) - vertagt
+- TOP 4.23: Anordnung von Tempo 30 auf dem Adlergestell / Haltestelle "Zum Seeblick" (Empfehlung) - vertagt
+- TOP 4.24: Verkehrssicherheit am Müggelschlößchenweg (Empfehlung) - vertagt
+- TOP 4.25: Maßnahmen zur verkehrlichen Strukturierung der Kiefholzstraße zwischen Lohmühlen- und Bouchéstraße (Schlussbericht) - vertagt
+- TOP 4.26: Verkehrsführung für Radfahrerinnen und Radfahrer in der Michael-Brückner-Straße verbessern (Schlussbericht) - vertagt
+- TOP 4.27: S-Bahn-Linie 3 stärken (Schlussbericht) - vertagt
+- TOP 4.28: Verkehrsberuhigung in der Neuen Krugallee (Schlussbericht) - vertagt
+- TOP 4.29: 2. Fortschrittsbericht Inklusion und Barrierefreiheit in Anlagen und Einrichtungen des Bezirksamtes (Beratung) - vertagt
+- TOP 5: Sonstiges - erledigt
