@@ -1,0 +1,6 @@
+# TOP 6.: Sportangelegenheiten
+
+- Sitzung: Ausschuss für Kultur, Sport und Freizeit (51. Sitzung) (2018-11-29)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/53793
