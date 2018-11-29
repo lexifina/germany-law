@@ -1,0 +1,6 @@
+# TOP -: Vorstellung des Herrn Beigeordneten Markus Greitemann (Dezernat VI/Stadtentwicklung, Planen und Bauen)
+
+- Sitzung: 33. Sitzung der Bezirksvertretung Kalk (2018-11-29)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/264612
