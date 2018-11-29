@@ -1,0 +1,68 @@
+# 33. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-11-29T17:00:00+01:00
+- Ende: 2018-11-29T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18903
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18903
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00690543.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00690543.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00690543.pdf
+
+## Tagesordnung
+
+- TOP -: Vorstellung des Herrn Beigeordneten Markus Greitemann (Dezernat VI/Stadtentwicklung, Planen und Bauen)
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gemäß § 24 GO - Verschönerung des Platzes Kalker Markt/Spielplatz - geändert beschlossen
+- TOP -: Bürgereingabe gemäß § 24 GO - Verschönerung des Platzes Kalker Markt/Spielplatz (AZ: 02-1600-119/18) - Kenntnis genommen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigte Zone zwischen Trimbornstraße und Rolshover Straße (Az.: 02-1600-102/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Australisches Grill-Feeling im Stadtbezirk Kalk - zurückgestellt
+- TOP 7.2: Schaffung eines optimierten Beratungs-und Begleitgremiums im Rahmen der städtebaulichen Machbarkeitsstudie „Kalk Süd / Hallen Kalk“ - geändert beschlossen
+- TOP 7.3: Geschwindigkeitsbegrenzung in der Lützerathstraße in Köln-Rath/Heumar - geändert beschlossen
+- TOP -: Geschwindigkeitsbegrenzung in der Lützerathstraße in Köln-Rath/Heumar - geändert beschlossen
+- TOP 7.4: Fahrradnadeln an der Olpener Straße in Köln-Höhenberg - geändert beschlossen
+- TOP 7.5: Umgestaltung der Rösrather Straße in Köln-Rath/Heumar - zurückgestellt
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Wildgehege Brück - Bewegungsparcours - ungeändert beschlossen
+- TOP 8.1.2: Beschluss zur Fortführung des Aktivierungsfonds im Rahmen des integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 8.1.3: Baubeschluss für die Errichtung einer Querungshilfe auf der Olpener Straße/Servatiusstraße in Merheim - zurückgestellt
+- TOP 8.1.4: Vergabe der restlichen bezirksorientierten Mittel für das Jahr 2018 - ungeändert beschlossen
+- TOP 8.1.5: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Sanierung des Knotenpunktes Ostheimer Straße/Vingster Ring - ungeändert beschlossen
+- TOP 8.2.2: Baubeschluss für die Umgestaltung des Kreuzungsbereiches Rolshover Straße/Kalker Hauptstraße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-1096, Rolshover - ungeändert beschlossen
+- TOP 8.2.3: Ost-West-Achse: Entscheidung über die Vorzugsvariante und Vorbereitung eines Planungs- und Bedarfsfeststellungsbeschlusses - abgelehnt (in der Vorberatung)
+- TOP -: Ost-West-Achse: Entscheidung über die Vorzugsvariante und Vorbereitung eines Planungs- und Bedarfsfeststellungsbeschlusses (3211/2018) - endgültig abgelehnt
+- TOP 8.2.4: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - ungeändert beschlossen
+- TOP 8.2.5: Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Sachstand Verkehrskonzepte Köln-Kalk - Kenntnis genommen
+- TOP 9.1.2: Ziel- und Leistungsvereinbarung 2018 - Bürgerhaus Kalk - 2239/2018 - Kenntnis genommen
+- TOP 9.1.3: Wettbüros im Stadtteil Kalk - Wie steht es um die Umsetzung des Glücksspielstaatsvertrages? - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Versetzung des Verkehrszeichens "Tempo 30" auf der Olpener Straße in Köln-Brück vor dem Seniorenheim - Kenntnis genommen
+- TOP 9.2.2: Umsetzung der Maßnahme „Öffnung des Kalker Friedhofs“ in Köln-Merheim durch Veränderung der Tore an der Hohensyburgstraße und am Kieskauler Weg - Kenntnis genommen
+- TOP -: Veränderung der Tore des Kalker Friedhofs an der Hohensyburgstr. und am Kieskauler Weg - Kenntnis genommen
+- TOP 9.2.3: Sachstand des Verkaufes eines Grundstücks in Kalk Süd an das Erzbistum Köln - Kenntnis genommen
+- TOP 9.2.4: Zukünftige Situation am Rather See in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Stilllegung der Altdeponie "Nonis" in Köln Merheim, hier: Sachstand zur Planung einer Gassperre und zum weiteren Vorgehen zur Sicherung von Deponiegasemissionen - Kenntnis genommen
+- TOP 10.2.3: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz - zurückgestellt
+- TOP 10.2.4: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
