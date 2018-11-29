@@ -1,0 +1,60 @@
+# Haupt- und Personalausschuss (31. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-11-29T17:04:00+01:00
+- Ende: 2018-11-29T17:54:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZcnau0VznTOQUTbUAIQ67HQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5101
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZC0ywmW45kIGNresLOoBENbu2sSbtettc5-PhJJRoRA/Bekanntmachung_Haupt-_und_Personalausschuss_29.11.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR3eQOz-vrha7ltHw1Pqbb8tLsCqYSHnKS0c2jyqXE7O/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_29.11.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des Haupt- und Personalausschusses am 25.09.2018
+- TOP 4.: Bergisch-Rheinischer Wasserverband Vertretung der Stadt Solingen im Vorstand
+- TOP 5.: Stellenplannachtrag 2018
+- TOP 6.: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 6.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 6.2: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 6.2.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 6.3: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 6.4: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 7.: Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif 2019/2020)
+- TOP 7.1: Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif 2019/2020)
+- TOP 7.2: Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif 2019/2020)
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.1.1: Eingabe nach § 24 GO NRW Einrichtung einer Tempo 30-Zone auf der Altenhofer Straße
+- TOP 8.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung des Haupt- und Personalausschusses am 25.09.2018
+- TOP 4.: Bestellung der Leiterin des Stadtdienstes Recht
+- TOP 5.: Bestellung der Leitung des Stadtdienstes Gebäudemanagement
+- TOP 6.: Beförderungen von Dienstleiterinnen und Dienstleitern
+- TOP 7.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) - Wechsel im Beirat
+- TOP 8.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Änderung des Gesellschaftsvertrages
+- TOP 9.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Betrauung
+- TOP 10.: Jahresabschluss 2017 der Bergischen Struktur und Wirtschaftsförderungsgesellschaft mbH
+- TOP 11.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Bestellung des Jahresabschlussprüfers 2018
+- TOP 12.: Wirtschaftsplan 2019 der Bergischen Struktur und Wirtschaftsförderungsgesellschaft mbH
+- TOP 13.: Wirtschaftsplan 2019 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR)
+- TOP 14.: Wirtschaftsplan 2019 der Institut für Galvano- und Oberflächentechnik GmbH & Co. KG
+- TOP 15.: Wirtschaftsplan 2019 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 16.: Wirtschaftsförderung Solingen GmbH & Co. KG - Grundstücksverkauf
+- TOP 17.: Wirtschaftsplan 2019 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 18.: Wirtschaftsplan 2019 der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 19.: Jahresabschluss 2017 und Liquidationsschlussbilanz zum 30. September 2018 der Bergische Institut für Produktentwicklung und Innovationsmanagement gGmbH i. L. (BIP)
+- TOP 20.: Beirat Solinger Kunst-Stiftung
+- TOP 21.: Verschiedenes
+- TOP 21.1: Mitteilungen der Verwaltung
+- TOP 21.2: Vergabe eines Auftrages zur Lieferung von zwei Kommandowagen (KdoW) für die Feuerwehr der Stadt Solingen
+- TOP 21.3: Anfragen an die Verwaltung
