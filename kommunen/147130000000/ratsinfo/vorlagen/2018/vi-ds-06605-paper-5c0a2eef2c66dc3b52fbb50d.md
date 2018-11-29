@@ -1,0 +1,21 @@
+# Verwaltungsinterne Änderungen zum Haushaltsplanentwurf 2019/2020
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-DS-06605
+- Art: Informationsvorlage
+- Datum: 2018-11-29
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1011122
+- OParl: https://oparl.politik-bei-uns.de/paper/5c0a2eef2c66dc3b52fbb50d
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c0978e82c66dc3b52aa4c0e
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ee72c66dc3b525a26ea
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed72c66dc3b525a1b9c
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089ed52c66dc3b525a1a41
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1e6d
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089edd2c66dc3b525a1fd1
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089edc2c66dc3b525a1f7f
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089edc2c66dc3b525a1f27
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089edb2c66dc3b525a1ed8
+- Beratung: Information zur Kenntnis  https://oparl.politik-bei-uns.de/organization/5c089eda2c66dc3b525a1e07
+- Beratung: Bestätigung  https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12fc
+- Beratung: Information zur Kenntnis https://oparl.politik-bei-uns.de/meeting/5c4d5da62c66dc3b5253ef36 https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
