@@ -1,0 +1,66 @@
+# Finanzausschuss (33. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-12-03T14:00:00+01:00
+- Ende: 2018-12-03T16:40:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZW9uXfxKM2wrlsoN0KQKN3w
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5097
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb7nZrjE-s0GOqRNhs_G_nEySbgmSBswoE2-0kjn_8Wm/Bekanntmachung_Finanzausschuss_03.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZefzALsQqwmeXxjAU4m-LcoVjS6JY7wZbqlL41FjnoRW/Oeffentliche_Niederschrift_Finanzausschuss_03.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Jahresrechnung 2017
+- TOP 1.2: Instandhaltungsstau des Objektes Bonner Str. 100 zum Zeitpunkt des Ankaufes 2013
+- TOP 1.3: Anfrage der Ratsfraktion Bündnis 90 Die Grünen zu 2-Standort Konzept, Instandhaltungsstau etc.
+- TOP 1.4: Etatberatungen für das Jahr 2019 pp. hier: NKF-Teilpläne Produktgruppen 1.25 Kultur 1.25.03 Kulturmanagement
+- TOP 1.5: Etatberatungen: Anfrage der CDU-Fraktion zu nicht verausgabten Investitionen etc.
+- TOP 1.6: Produktivität durch Digitalisierung Mneu01
+- TOP 1.7: Optimierungseffekte durch Übertragung DBSG auf TBS
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Finanzausschusses am 20.09.2018
+- TOP 4.: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Antrag der Ratsfraktion der BfS vom 15.10.2018
+- TOP 4.1: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Antrag der Ratsfraktion der BfS vom 15.10.2018
+- TOP 5.: Änderung der Entgeltordnung für das Walter-Bremer-Institut hier: Förderrichtlinie Gesundheitsfachberufe des Landes NRW
+- TOP 6.: Gebührenbedarfsberechnung 2019
+- TOP 7.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 8.: Neufassung der Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 9.: II. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 10.: IV. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 11.: V. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 12.: Neufassung der Friedhofssatzung der Stadt Solingen
+- TOP 13.: Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 14.: Wirtschaftsplan 2019 der Technischen Betriebe Solingen
+- TOP 15.: IV. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 16.: Wirtschaftsplan 2019 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 17.: 3. Quartalsbericht 2018
+- TOP 18.: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2018
+- TOP 19.: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
+- TOP 20.: Zustimmung zu einer konsumtiven Mehrauszahlung gemäß § 83 GO NRW Auszahlung eines Verzinsungsbetrages bei einer Steuererstattung (Keine Belastung der Ergebnisrechnung 2018)
+- TOP 21.: Quartalsinformationen Kreditportfolio Verwaltung
+- TOP 22.: Offizielle Modellrechnung zum Gemeindefinanzierungsgesetz 2019
+- TOP 23.: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 23.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 24.: Verschiedenes
+- TOP 24.1: Mitteilungen der Verwaltung
+- TOP 24.1.1: Themenplan Finanzausschuss 2019
+- TOP 24.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Finanzausschusses am 20.09.2018
+- TOP 4.: Vergabe von Rohbauarbeiten für die Erweiterung der Gesamtschule Höhscheid am Standort Zweigstraße 15, 17
+- TOP 5.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 6.: Bergische Symphoniker GmbH - Fördervereinbarung zwischen dem Land Nordrhein-Westfalen und den Städten Remscheid und Solingen
+- TOP 7.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Betrauung
+- TOP 8.: Finanzierung des Ersatzneubaus Familienbad Vogelsang
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.1.1: Datenschutzverletzung beim Versand von Vollstreckungsanordnungen
+- TOP 9.2: Anfragen an die Verwaltung
