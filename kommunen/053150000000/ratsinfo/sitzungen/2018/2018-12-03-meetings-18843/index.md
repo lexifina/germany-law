@@ -1,0 +1,81 @@
+# 36. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-03T17:00:00+01:00
+- Ende: 2018-12-03T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18843
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18843
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Versetztes Parken Nagelschmiedgasse (Az.: 02-1600-37/18) - geändert beschlossen
+- TOP 3.2: Bürgereingabe gem. § 24 GO, betr.: Parkplatzsituation im Bereich Widdersdorferstr./Oskar-Jäger-Str. (Az.: 02-1600-74/18) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Maßnahmen gegen den Bauüberhang im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.1.1: Maßnahmen gegen den Bauüberhang im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.2: Sach- und Planungsstand Hinterhofbebauung Hospeltstraße 66-70 - zurückgestellt
+- TOP 6.3: Leerstände im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.3.1: -die Antwort der Verwaltung ist im nichtöffentlichen Teil unter TOP 20.2 umgedruckt - Kenntnis genommen
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der FDP/Piraten-Fraktion, betr.: Spielplatz Erlenweg - Kenntnis genommen
+- TOP 7.2: Anfrage der FDP/Piraten-Fraktion, betr.: Unterführung Widdersdorfer Straße / Girlitzweg - zurückgestellt
+- TOP 7.3: Anfrage der CDU-Fraktion, betr.: Kardinal-Frings-Schule Köln-Vogelsang - zurückgestellt
+- TOP 7.4: Anfrage der CDU-Fraktion, betr.: Parken und Halten auf markierten Radwegen in Köln-Ehrenfeld - zurückgestellt
+- TOP 7.5: Anfrage der CDU-Fraktion, betr.: Barthonia-Forum - zurückgestellt
+- TOP 7.6: Anfrage der SPD-Fraktion, betr.: Erwerb des Grundstücks Gesamtschule am Wasseramselweg - Kenntnis genommen
+- TOP 7.6.1: -die Antwort der Verwaltung ist im nichtöffentlichen Teil unter TOP 20.1 umgedruckt - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Aantrag der SPD-Fraktion und der FDP/Piraten-Fraktion, betr.: Radverkehr Gürtelstrecke - ungeändert beschlossen
+- TOP 8.2: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: PV-Anlagen - ungeändert beschlossen
+- TOP 8.2.1: Stellungnahme zum Antrag der Fraktion Bündnis 90/Die Grünen bezüglich Photovoltaik-Anlagen - AN-1401-2018 - Kenntnis genommen
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Schulbussverkehr zur Gesamtschule Wasseramselweg in Vogelsang - endgültig zurückgezogen
+- TOP 8.4: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Förderung des Stadtklimas in Ehrenfeld/ GRÜN hoch 4 - ungeändert beschlossen
+- TOP 8.5: Antrag der FDP/Piraten-Fraktion, betr.: WLAN in der U-Bahnhaltestelle Venloer Str / Gürtel - geändert beschlossen
+- TOP 8.6: Antrag der FDP/Piraten-Fraktion, betr.: Wasserspender auf Spielplatz in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Beschluss zur Fortführung des Aktivierungsfonds im Rahmen des integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 9.2: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Ehrenfeld zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - zurückgestellt
+- TOP 9.3: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - zurückgestellt
+- TOP 9.4: Radverkehrskonzept Ehrenfeld - Radverkehrshauptnetz - ungeändert beschlossen
+- TOP 9.5: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.6: Baubeschluss für die Einrichtung der neuen Haltestelle an der Vogelsanger Straße im Zusammenhang mit den vorgesehenen Busnetzerweiterungen im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 9.7: 5. Vergabe der bezirklichen Finanzmittel 2018 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert beschlossen
+- TOP 10.2: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.3: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 10.4: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - geändert beschlossen
+- TOP 10.5: Planungsbeschluss zur Errichtung von Neubauten für ein Gymnasium und eine Grundschule in Köln-Ossendorf - geändert beschlossen
+- TOP 10.6: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ungeändert beschlossen
+- TOP 10.7: 6. Satzung zur Änderung der Sondernutzungssatzung - geändert beschlossen
+- TOP 10.7.1: Änderungsantrag der SPD-Fraktion zu TOP 10.7 „6. Satzung zur Änderung der Sondernutzungssatzung - ungeändert beschlossen
+- TOP 10.8: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen - ungeändert beschlossen
+- TOP 10.9: Integriertes Stadtentwicklungskonzept Äußerer Grüngürtel Nord - ungeändert beschlossen
+- TOP 10.10: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Seeadlerweg in Köln-Ehrenfeld; Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 10.11: Standortübergreifende Unterstützung ehrenamtlicher Geflüchtetenarbeit - Ausweitung des Zuschusses für zwei halbe Stellen bei Trägern - ungeändert beschlossen
+- TOP 10.12: Gewerbegebiet Venloer Straße in Köln-Bocklemünd/Mengenich, 1. Änderung; frühz. Öffentlichkb. - zurückgestellt
+- TOP 10.13: Beschluss über die Planung und Durchführung der Maßnahme "Umgestaltug des Rochusplatzes" in Köln-Bickendorf aus dem Programm "Starke Veedel – Starkes Köln" (Sozialraum Bickendorf, Westend und Ossendorf); Bedarfsfeststellungsbeschluss - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 12.2: Barrierefreier Ausbau der Linie 13; Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen in der 32. Sitzung der Bezirksvertretung Ehrenfeld am 04.06.2018 (AN/0855/2018) - Kenntnis genommen
+- TOP 12.3: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.4: Antrag der SPD-Fraktion in der Sitzung der BV 4 am 05.11.2018 - Kenntnis genommen
+- TOP 12.5: Niederschrift der 17. Sitzung des Rahmenplanungsbeirates Braunsfeld/Müngersdorf/Ehrenfeld vom 4. September 2018 - Kenntnis genommen
+- TOP 12.6: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - zurückgestellt
+- TOP 12.7: Städtebauliches Planungskonzept; Arbeitstitel: "Nördlich Colonius" in Köln-Neustadt/Nord; Hier: Mitteilung über eine neue Konzeptidee - Kenntnis genommen
+- TOP 12.8: „Wie inklusiv ist das Quartier?“ - Kenntnis genommen
+- TOP 12.9: Sach- und Planungsstand der Wohnungsbauvorhaben im Stadtbezirk Ehrenfeld, Anfrage AN/1127/2018 - Kenntnis genommen
+- TOP 12.10: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 12.11: Wohnanlage Gutenbergstr.132 / Lukasstraße 30, AZ: 63/V44/0085/2018 - geändert beschlossen
+- TOP 13: mündliche Anfragen
