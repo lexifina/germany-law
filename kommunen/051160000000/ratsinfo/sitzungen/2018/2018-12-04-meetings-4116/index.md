@@ -1,0 +1,66 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-12-04T15:00:00+01:00
+- Ende: 2018-12-04T20:47:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4116
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4116
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 28. Sitzung des Planungs-, Bau- und Betriebsausschusses am 25.09.2018 - öffentlicher Teil -
+- TOP 2: Planungs- und Bauausschuss
+- TOP 2.1: Beratung des Entwurfs des Hauhaltes 2019/2020 einschl. HSP; hier: fachausschussbezogene Ansätze - Mit Stimmenmehrheit beschlossen
+- TOP 2.1.1: Entwurf Haushaltsplan2019-202 - Mit Stimmenmehrheit beschlossen
+- TOP 2.1.7: Entwurf des Haushaltes 2019-2020; Haushaltssatzung einschließlich Anlagen und der Fortschreibung - Mit Stimmenmehrheit abgelehnt
+- TOP 2.1.2: Beratung des Entwurfs des Haushaltes 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 2.1.3: Haushaltsberatungen - Mit Stimmenmehrheit beschlossen
+- TOP 2.1.4: Ergänzungsantrag zu TOP 2 bzw. TOP 9 Maßnahmenpakete Sekundarstufe I - Mit Stimmenmehrheit beschlossen
+- TOP 2.1.6: Haushaltsantrag: Städtische Wohnungsbau-Initiative - Mit Stimmenmehrheit abgelehnt
+- TOP 2.1.5: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschreibung des Haush - Mit Stimmenmehrheit abgelehnt
+- TOP 2.2.4: Strategisches Raumkonzept (HSP 2012-0139) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.2.3: Strategisches Raumkonzept (HSP 2012-0139) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.2.1: Strategisches Raumkonzept (HSP 2012-0139) - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.2: Rathaus der Zukunft mg+
+- TOP 2.2.2: Rathaus und Verwaltung der Zukunft mg+ - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.2.5: Organisationsstruktur Rathausneubau - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.2.6: Digitalisierungsstrategie - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.2.7: Prüfauftrag zum Thema „Desksharing“ - Vom Antragsteller zurückgezogen
+- TOP 2.3: Umsetzung Kommunanlinvsestitionsförderungsgesetz - Einstimmiger Beschluss
+- TOP 2.4: Spielplatzentwicklungskonzept - Ohne Abstimmung
+- TOP 2.5: 24. NT Kanalgebührensatzung und 11. NT Kleinkläranlagen - Einstimmiger Beschluss
+- TOP 2.6: Mobilitätsplan Leitlinien - Mit Stimmenmehrheit beschlossen
+- TOP 2.6.1: Vorlage 3428/IX: Mobilitätsplan Leitlinien - Mit Stimmenmehrheit abgelehnt
+- TOP 2.7: Mobilitätsplan - Vorrangstraßennetz - Ohne Abstimmung
+- TOP 2.7.1: Mobilitätsplan-Vorrangstraßennetz Vorlage 3429/IX - Mit Stimmenmehrheit beschlossen
+- TOP 2.7.2: Vorlage Nr. 3429/IX: Mobilitätsplan - Vorrangstraßennetz - Mit Stimmenmehrheit abgelehnt
+- TOP 2.7.3: Vorlage 3429/IX: Mobilitätsplan Vorrangstraßennetz (Straßennetzkonzept = SNK) - Mit Stimmenmehrheit abgelehnt
+- TOP 2.7.4: Vorlage 3429/IX: Mobilitätsplan Vorrangstraßennetz (Straßennetzkonzept = SNK) - Einzelmaßnahmen - Mit Stimmenmehrheit abgelehnt
+- TOP 2.8: Lärmsanierung an Schienenwegen - Knoten I - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 2.9: KInvFG - LOA Theodor-Heuss-Str. - Kenntnisnahme
+- TOP 2.10: Äußere Erschließung Gewerbegebiet Rheindahlen - Kenntnisnahme
+- TOP 2.11: Städtebauliche Fördermaßnahme Soziale Stadt Alt-Mönchengladbach - 5. Sachstandsbericht - Kenntnisnahme
+- TOP 2.12: VBP Nr. 779/N - Stadtbezirk Nord - Am Wasserturm - Einstimmiger Beschluss
+- TOP 2.13: BP 781/N - Stadtbezirk Nord - Hardt-Mitte - - Einstimmiger Beschluss
+- TOP 2.14: BP 784/N - Stadtbezirk Nord - Venn, zwischen Venner Straße und Zum Venner Busch - Mit Stimmenmehrheit beschlossen
+- TOP 2.15: Aufstellung eines BP -Stadtbezirk Nord - Westend, zwischen Vitusstraße und Vituspark - Einstimmiger Beschluss
+- TOP 2.16: Resolutionsantrag - Keine Zweiklassengesellschaft durch Straßenausbaubeiträgen - Ohne Abstimmung
+- TOP 2.17.1: Sportstättenentwicklungsplan 2018-2022 - Ohne Abstimmung
+- TOP 2.17.2: Sportstättenentwicklungsplan 2018-2022 - Einstimmiger Beschluss
+- TOP 2.17: Sportstättenentwicklungsplan 2018-2022
+- TOP 2.18: Berichte über die Durchführung von Beschlüssen
+- TOP 2.19: Anfragen und Mitteilungen
+- TOP 2.19.1: Anfrage von sB Jansen zu den Kosten für das Projekt "Grüne Welle"
+- TOP 3: Betriebsausschuss GMMG
+- TOP 3.1: Wirtschaftsplan GMMG 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 3.2: Zwischenbericht des GMMG über das III. Quartal 2018 - Kenntnisnahme
+- TOP 3.3: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - In den nächsten Ratszug geschoben
+- TOP 3.4: Sanierung, Modernisierung und Erweiterung der Zentralbibliothek Mönchengladbach - Einstimmiger Beschluss
+- TOP 3.5: Berufskolleg Maria-Lenßen. Brandschutz-, Bausubstanz- und energetische Sanierung - Einstimmiger Beschluss
+- TOP 3.6: Errichtung von vier eingeschossigen Gebäuden (OGATA) an den Grundschulstandorten Höfgenweg, Nordst - Einstimmiger Beschluss
+- TOP 3.7: Berichte über die Durchführung von Beschlüssen
+- TOP 3.8: Anfragen und Mitteilungen
