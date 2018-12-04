@@ -1,0 +1,52 @@
+# 18. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-04T17:00:00+01:00
+- Ende: 2018-12-04T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18857
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18857
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00684038.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00684038.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00684038.pdf
+
+## Tagesordnung
+
+- TOP 1: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 1.1: Anfrage und Anmerkungen zum geplanten Amt für Integration und Vielfalt - Kenntnis genommen
+- TOP 1.2: Beantwortung zur Anfrage aus der Sitzung vom 25.09.2018 - Personenstandsbeurkundungen bei Transpersonen - Kenntnis genommen
+- TOP 1.3: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) – Berücksichtigung der Bedarfe von Lesben, Schwulen und Transgender - Kenntnis genommen
+- TOP 1.3.1: Beantwortung einer Anfrage von Carolina Brauckmann (AN/1557/2018) zum Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) (1656/2018) - Kenntnis genommen
+- TOP 1.4: Wirtschaftsstudie: Beantwortung der Anfrage zu den Kosten der Stadt Köln zum Karneval & CSD - Kenntnis genommen
+- TOP 2: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 2.1: Kampagne zur Erhöhung der Anzeigenbereitschaft bei homo- und transphober Gewalt - ungeändert beschlossen
+- TOP 2.2: Nachbesetzung Sachkundige Einwohnerinnen und Sachkundiger Einwohner und deren Stellvertreter - ungeändert beschlossen
+- TOP 3: Trans*
+- TOP 3.1: Fotoausstellung zum Thema TRANS*GENDER im Stadthaus Deutz - Kenntnis genommen
+- TOP 4: LSBTI Geflüchtete
+- TOP 4.1: Projektbericht "Erfahrungen mit der Anhörung von LSBTIQ* Geflüchteten" - Kenntnis genommen
+- TOP 5: Sichtbarkeit von Lesben in Köln
+- TOP 5.1: Lesbenfrühlingstreffen 2019 in Köln - Kenntnis genommen
+- TOP 6: Diversity
+- TOP 6.1: Kölner Vielfaltskampagne Unsere Vielfalt. Kölns Stärke. - Kenntnis genommen
+- TOP 7: Sachstandsberichte und Mitteilungen
+- TOP 7.1: Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - Kenntnis genommen
+- TOP 7.2: Aktueller Sachstand des Programms "Starkes Veedel - Starkes Köln" (2024/2018) - Kenntnis genommen
+- TOP 7.3: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 7.4: Bericht vom Treffen des "Rainbow Cities Network" 2018 - Kenntnis genommen
+- TOP 7.5: LSBTI Austausch mit Partnerstädten: Planung 2019 - Kenntnis genommen
+- TOP 7.6: Wirtschaftsstudie - Kenntnis genommen
+- TOP 7.7: Aktionsplan LSBTI - Kenntnis genommen
+- TOP 7.8: Entschädigung von ehrenamtlichen Gremienmitgliedern - Kenntnis genommen
+- TOP 8: Berichte aus Ausschüssen
+- TOP 8.1: Auszug aus dem Beschlussprotokoll SoSe vom 06.11.2018 - Kenntnis genommen
+- TOP 8.2: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - 28.05.2018 - - Kenntnis genommen
+- TOP 8.2.1: Aufwandsentschädigung, Sitzungsgeld und Unterstützung von Gremienmitgliedern - 22.10.2018 - - Kenntnis genommen
+- TOP 9: Neue Anfragen
+- TOP 10: Öffentlichkeitsarbeit
+- TOP 11: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 12: Verschiedenes
+- TOP 12.1: Sitzungstermine 2019 - Kenntnis genommen
