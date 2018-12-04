@@ -1,0 +1,8 @@
+# TOP 5: Erhaltungszertifikat „Audit familiengerechte Kommune“
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Kinder- und Jugendausschusses (2018-12-04)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5beb9dd62c66dc3b5239e4ac
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5beb9dd62c66dc3b5239e41b
