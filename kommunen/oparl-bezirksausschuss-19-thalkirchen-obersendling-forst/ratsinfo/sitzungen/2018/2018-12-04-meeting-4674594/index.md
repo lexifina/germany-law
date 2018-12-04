@@ -1,0 +1,67 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2018-12-04T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4674594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4674594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 06.11.2018
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Deutsche Pfadfinderschaft St. Georg-Stamm Heilig Kreuz Anschaffung eines Zelts für das Zeltlager vom 08.05.2019 - 15.05.2019 2.149,90€ Az.: 0262.0-19-0231
+- TOP 3.3.: (Antrag) Vorschlag für das Stadtbezirksbudget: Pflanzung eines Walnussbaumes
+- TOP 3.4.: (Antrag) Vorschlag für das Stadtbezirksbudget: Neue Spielgeräte am Spielplatz Allescher Straße
+- TOP 3.5.: (Antrag) Vorschlag für das Stadtbezirksbudget: Schachspiel und Fahrradständer am Schweizer Platz
+- TOP 3.6.: (U) Entwurf Mehrjahresinvestitionsprogramm 2018-2022
+- TOP 3.7.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Suchtpräventionsprogramm von Januar - Dezember 2019 4.350,00€; Az.: 0262.0-19-0232
+- TOP 3.8.: (E) Stadtbezirksbudget TSV Forstenried e.V. Anschaffung von Tischtennisplatten 900,00€; Az.: 0262.0-19-0230
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Grünfläche Kistlerhofstraße Ecke Münsinger Straße
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Neue Sitzgelegenheiten an öffentlichen Plätzen im 19. Stadtbezirk
+- TOP 4.4.: (E) Erhalt und Schutz der Grünfläche neben Neurieder Str. 4 Empfehlung Nr. 14-20 / E 01975 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried Solln am 15.05.2018
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Zerstörung des Grünstreifens an der Ludwigshöher Straße verhindern
+- TOP 5.1.2: Zusätzliche Parkplätze in der Koppstraße
+- TOP 5.1.3: Schulwegsicherheit Winterthurer Straße
+- TOP 5.2.: (Antrag) Errichtung von Pollern Bleibtreustraße
+- TOP 5.3.: (Antrag) Verkehrssicherheit Kinderheim Kistlerhofstraße 112
+- TOP 5.4.: (Antrag) Zuverlässigkeit der U-Bahnlinie 3
+- TOP 5.5.: (A) Kurzparkregelung in der Koppstraße
+- TOP 5.6.: (Antrag) Mehrere Radwegenetzverbindungen im 19. Stadtbezirk
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Tölzer Straße
+- TOP 5.8.: (A) Verkehrsrechtliche Anordnung: Gefahrzeichen Rietschelstraße
+- TOP 5.9.: (A) Verkehrsrechtliche Anordnung: Vorrangsregelung Heilmannstraße 43
+- TOP 5.10.: (A) Projektplanung: Wendemöglichkeit auf der Drygalski-Allee
+- TOP 5.11.: (A) Verkehrsrechtliche Anordnung: Tempo 30 Kistlerhofstraße
+- TOP 5.12.: (E) Projektplanung: Barrierefreier Ausbau Bushaltestelle Marienstern, Aidenbachstraße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Derzbachhof, Forstenrieder Allee 179: Erhalt des ältesten Bauernhofs in München
+- TOP 6.1.2: Zwischennutzung der Kantine Siemensgelände, Hofmannstraße 51, als Diskothek plus Bandräume
+- TOP 6.2.: (A) Bauvorhaben laut Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Schulschwimmbad der Grundschule an der Sambergerstraße
+- TOP 7.2.: (A) Sprengeländerung - Grundschulen Boschetsrieder Straße und Konrad-Celtis-Straße
+- TOP 7.3.: Inklusion auch in der Stadtbibliothek Fürstenried
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Zentralländstraße 16
