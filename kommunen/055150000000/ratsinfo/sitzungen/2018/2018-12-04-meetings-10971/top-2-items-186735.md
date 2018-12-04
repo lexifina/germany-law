@@ -1,0 +1,6 @@
+# TOP 2: Eingänge und Mitteilungen
+
+- Sitzung: 48. Sitzung (2018-12-04)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/186735
