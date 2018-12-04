@@ -1,0 +1,55 @@
+# Hauptausschuss (20. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2018-12-04T18:00:00+01:00
+- Ende: 2018-12-04T21:50:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-3
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXM6LO6jPJ7qndtkd5o4RFY
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5691
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc5GPVrTFjxQMDv-u8iGuausGHlgNGqy1CYo-_7q54h8/Einladung_Hauptausschuss_04.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Hauptausschuss) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRhn59opyaskPUizKYBibC1uzBPZIpSPQ_1VEPXQUwoZ/Oeffentliche_Niederschrift_Hauptausschuss_04.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Beratung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2019/2020
+- TOP 6.1.: Beratung des Entwurfs des Wirtschaftsplans der Wald- und Parkanlagen für das Wirtschaftsjahr 2019/2020
+- TOP 6.2.: Antrag der CDU Fraktion: Haushaltsberatungen 2019/2020 Hauptausschuss
+- TOP 6.3.: Antrag B90/Grüne: Haushaltsberatungen 2019/2020 Umwelt- und Klimaschutzbeauftragter
+- TOP 6.4.: Antrag der Fraktion WIR/FWW: Förderprogramm klimafreundliche Stadt
+- TOP 6.5.: Antrag Fraktion WIR/FWW: Programm zur kommunalen Förderung der Altbausanierung und Energieeffizienz / Klimafreundliches Wohnen in Wesseling
+- TOP 6.6.: Antrag der Fraktion WIR/FWW: Programm zur kommunalen Förderung des sozialen Wohnungsbaus
+- TOP 6.7.: Antrag der Fraktion WIR/FWW: Programm zur Förderung von Hauptschulabgängern
+- TOP 6.8.: Antrag der SPD-Fraktion: Schaffung von 2 Planstellen für den Fachbereich Sicherheit und Ordnung
+- TOP 6.9.: Antrag der SPD-Fraktion: Einrichtung eines Budgets Projektförderung
+- TOP 7.: 9. Änderungssatzung zur Hundesteuersatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Änderung der Satzung über die Benutzung der Stadtbücherei/Schulzentralbibliothek - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: 1) Benennungen von Straßen 2) Umbenennung einer Teillänge einer Straße mit gleichzeitigem Wegfall einer weiteren Teillänge 3) Wegfall von Straßennamen - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Haushaltswirtschaft 2018; Übersicht über Investitionsmaßnahmen mit einem Haushaltsvolumen von mehr als 150.000 Euro
+- TOP 11.: Antrag der SPD-Fraktion: Abschaffung der Straßenausbaubeiträge - 13 Nein-Stimmen, 10 Ja-Stimmen, 0 Enthaltung(en)
+- TOP 12.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Benennung eines Wirtschaftsprüfers für die Jahresabschlussprüfung 2018 der Wald- und Parkanlagen Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Grundstückstausch mit der Stadt Brühl - 21 Ja-Stimmen, 1 Nein-Stimme, 1 Enthaltung
+- TOP 4.: Grunderwerb an der Vorgebirgsstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Veräußerung städtischer Teilflächen an der Berggeiststraße - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Veräußerung städtischer Fläche Industriestraße, Berzdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Vergabe städtischer Baugrundstücke an der „Jahnstraße“ in Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Veräußerung einer städtischen Fläche an der Brühler Straße in Wesseling - 22 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltung(en)
+- TOP 9.: Veräußerung städtisches Grundstück an der Curiestraße in Wesseling-Berzdorf - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Erhöhung des Nutzungsentgeltes für städtische Acker- und Gartenlandflächen - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Erwerb von Straßenland - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Antrag CDU-Fraktion: Ankauf Grundstück in Berzdorf - Berggeiststraße (Flurstück 436, 14.359 m²) - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Offene Maßnahmen Immobilienmanagement Durchführungsvorschlag - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Haushalt 2019/2020: Stellenplan - 13 Ja-Stimmen, 10 Enthaltungen
+- TOP 15.: Mitteilungen und Anfragen
+- TOP 16.: Presseveröffentlichungen
