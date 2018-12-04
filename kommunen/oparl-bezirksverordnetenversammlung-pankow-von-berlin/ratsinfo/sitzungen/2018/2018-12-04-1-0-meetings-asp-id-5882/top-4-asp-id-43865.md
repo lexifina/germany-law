@@ -1,0 +1,7 @@
+# TOP 4: Beschlussvorlage Freizeistättenentwicklungsplan 2018
+
+- Sitzung: Öffentliche/nichtöffentliche Sitzung des Kinder- und Jugendhilfeausschusses (2018-12-04)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=43865
+- Ergebnis: erledigt
