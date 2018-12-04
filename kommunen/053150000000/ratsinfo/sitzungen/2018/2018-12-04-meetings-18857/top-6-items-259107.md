@@ -1,0 +1,6 @@
+# TOP 6: Diversity
+
+- Sitzung: 18. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender (2018-12-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/259107
