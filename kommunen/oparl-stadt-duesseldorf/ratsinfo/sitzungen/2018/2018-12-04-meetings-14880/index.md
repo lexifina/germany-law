@@ -1,0 +1,72 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-12-04T15:00:00+01:00
+- Ende: 2018-12-04T15:50:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14880
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14880
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331197.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331197.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331197.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Jahresabschluss 2017 der Landeshauptstadt Düsseldorf - Beschluss über das Jahresergebnis - Empfehlung einstimmig beschlossen
+- TOP 4: Jahresabschluss und Lagebericht 2017 des Stadtbetriebs Zentrale Dienste - Empfehlung einstimmig beschlossen
+- TOP 5: Jahresabschluss zum 31.12.2017 und Lagebericht für das Wirtschaftsjahr 2017 des Stadtentwässerungsbe - Empfehlung einstimmig beschlossen
+- TOP 6: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2019 - - Empfehlung einstimmig beschlossen
+- TOP 7: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - Empfehlung einstimmig beschlossen
+- TOP 8: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für - Empfehlung einstimmig beschlossen
+- TOP 9: Gebührenkalkulation Straßenreinigung für 2019 - Empfehlung einstimmig beschlossen
+- TOP 10: 33. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - Empfehlung einstimmig beschlossen
+- TOP 11: Neufestsetzung der Entgeltordnung des Gartenamtes zum 01.01.2019 - Empfehlung einstimmig beschlossen
+- TOP 12: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe zum 01.01.2019 - Empfehlung einstimmig beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2019 - Empfehlung einstimmig beschlossen
+- TOP 14: 29. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - Empfehlung einstimmig beschlossen
+- TOP 15: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - passieren lassen
+- TOP 16: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 17: Gemeinsamer Controllingbericht der Stadtkämmerin und des Personaldezernenten - zur Kenntnis genommen
+- TOP 18: Etatberatung 2019 - passieren lassen
+- TOP 18.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2019 mit Anlagen - passieren lassen
+- TOP 18.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung - passieren lassen
+- TOP 18.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2019 - passieren lassen
+- TOP 18.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2019 - passieren lassen
+- TOP 19: Eisenbahnüberführung (EÜ) Bamberger Straße, Tieferlegung der Straße - Empfehlung einstimmig beschlossen
+- TOP 20: Umbau des Aachener Platzes - Ausführungs- und Finanzierungsbeschluss - - passieren lassen
+- TOP 21: Erweiterungsneubau für die neu gegründete 3-zügige Gemeinschaftsgrundschule am Schulstandort Steinka - Empfehlung einstimmig beschlossen
+- TOP 22: Erweiterungsneubau Franz-Jürgens-Berufskolleg, Redinghovenstr. 20 - Empfehlung einstimmig beschlossen
+- TOP 23: Änderungsbeschluss Geländerertüchtigung Kniebrücke - Empfehlung einstimmig beschlossen
+- TOP 24: Höherhofstraße / Gubener Straße / Nach den Mauresköthen – Umbau des Knotenpunktes zu einem Kreisverk - passieren lassen
+- TOP 25: Bedarfsbeschluss Fahrradparkturm Bahnhof Bilk; Friedrichstraße / Arcadenvorplatz - passieren lassen
+- TOP 26: Bezirkssportanlage Am Wald, Umbau der ehemaligen Wettkampfanlage - passieren lassen
+- TOP 27: Neugestaltung der Mühlenstraße - Bedarfsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 28: Neubau des Hallenbades Benrath sowie die Teilsanierung des Freibades Benrath - Empfehlung einstimmig beschlossen
+- TOP 29: Neubau Hallenbad Oberkassel/Heerdt - Änderungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 30: Sanierungen und Umbaumaßnahmen der öffentlichen Bereiche des Düsseldorfer Schauspielhauses am Gustaf - zur Kenntnis genommen
+- TOP 31: Komödie Düsseldorf GmbH - passieren lassen
+- TOP 32: Abschluss eines Haustarifvertrages für die Düsseldorfer Symphoniker - Empfehlung einstimmig beschlossen
+- TOP 33: Stärkung der Bildungsarbeit in der Mahn- und Gedenkstätte - Empfehlung einstimmig beschlossen
+- TOP 34: Änderungssatzung: Aufhebung des § 1 der Großmarktsatzung - passieren lassen
+- TOP 35: Stiftung Haus der Talente Düsseldorf - Nachtrag zum Zuwendungsvertrag - Empfehlung einstimmig beschlossen
+- TOP 36: Freigabe verkaufsoffener Sonntagnachmittage im 1. Quartal des Jahres 2019 - Empfehlung mehrheitlich beschlossen
+- TOP 37: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19-2023/24 (SOM VI) - passieren lassen
+- TOP 38: Handlungskonzept Landschaftsplan - Konzept zur Fortschreibung des Landschaftsplanes der Landeshaupts - Empfehlung einstimmig beschlossen
+- TOP 39: Beitrittsverhandlungen der Landeshauptstadt Düsseldorf und des Kreises Mettmann - Empfehlung einstimmig beschlossen
+- TOP 40: Städtische Richtlinien für die Förderung von baulichen Maßnahmen zur Reduzierung von Barrieren im Wo - passieren lassen
+- TOP 41: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - Empfehlung einstimmig beschlossen
+- TOP 42: Änderung der Benutzungsordnungen für die Bezirksrathäuser Benrath und Kaiserswerth - passieren lassen
+- TOP 43: Kommunale Beschäftigungsförderung - Empfehlung einstimmig beschlossen
+- TOP 44: Kostenloser Internetzugang in städtischen Einrichtungen - Empfehlung einstimmig beschlossen
+- TOP 45: Altersteilzeit bei der Landeshauptstadt Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 46: Genehmigung einer Dienstreise von Ausschussmitgliedern zur MIPIM 2019 - mehrheitlich beschlossen
+- TOP 47: Genehmigung einer Dienstreise der Mitglieder des Ausschusses für Umweltschutz - mehrheitlich beschlossen
+- TOP 48: Bebauungsplan Nr. 01/013- Harkortstraße - Empfehlung einstimmig beschlossen
+- TOP 49: "Gewerbe- und Industriekernzonen in Düsseldorf" - passieren lassen
+- TOP 50: Bebauungsplan-Entwurf Nr. 02/002 - Max-Planck-Straße - - Empfehlung einstimmig beschlossen
+- TOP 51: Bebauungsplan 01/005 Worringer Straße/ Gerresheimer Straße (Baufeld A) - passieren lassen
