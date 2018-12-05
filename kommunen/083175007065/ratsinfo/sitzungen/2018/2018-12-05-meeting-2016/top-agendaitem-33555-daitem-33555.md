@@ -1,0 +1,6 @@
+# TOP -: Niederschrift über die öffentliche Sitzung des Technischen Ausschusses am 28. November 2018
+
+- Sitzung: Technischer Ausschuss (12. Sitzung) (2018-12-05)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/33555
