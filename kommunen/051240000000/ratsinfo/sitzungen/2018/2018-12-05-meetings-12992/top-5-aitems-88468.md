@@ -1,0 +1,7 @@
+# TOP 5: Beschulung von neueingewanderten Kindern, Jugendlichen und jungen Erwachsenen
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Schule und Bildung (2018-12-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/88468
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/41930
