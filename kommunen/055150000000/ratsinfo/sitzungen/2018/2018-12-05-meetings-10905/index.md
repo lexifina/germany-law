@@ -1,0 +1,93 @@
+# 36. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2018-12-05T17:15:00+01:00
+- Ende: 2018-12-05T20:49:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/10905
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/10905
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00433891.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der AfD-Ratsgruppe Nr. A-R/0058/2018 "Grundsteuer reformieren - Steueraufkommen sichern - Belastungen minimieren" - mehrheitlich beschlossen
+- TOP 2.2: Bonus-System für Baumaßnahmen im Stadtverkehr: Vorteile gegen Mehrkosten abwägen - mehrheitlich beschlossen
+- TOP 2.3: Antrag A-R/0059/2017 der FDP-Fraktion vom 11.09.2017 „KiTa-Platzvergabe - bestmögliche Unterstützung der Eltern sicherstellen“ + Antrag A-R/0062/2017 der SPD-Fraktion vom 12.09.2017 „Kita-Navigator verbessern und für Eltern verständlicher gestalten“ - einstimmig beschlossen
+- TOP 2.3.1: Antrag A-R/0059/2017 der FDP-Fraktion vom 11.09.2017 „KiTa-Platzvergabe - bestmögliche Unterstützung der Eltern sicherstellen“ + Antrag A-R/0062/2017 der SPD-Fraktion vom 12.09.2017 „Kita-Navigator verbessern und für Eltern verständlicher gestalten“
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2018) - einstimmig beschlossen
+- TOP 4: Jahresabschluss 2017 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 5: Bestellung des Abschlussprüfers für den Jahresabschluss 2018 der KonvOY GmbH - einstimmig beschlossen
+- TOP 6: Finanzierung des Nachtflohmarktes aus dem städtischen Haushalt - mehrheitlich beschlossen
+- TOP 7: Wirtschaftsplan 2019 der Theaterhaus Pumpenhaus gGmbH - mehrheitlich beschlossen
+- TOP 8: Konzern-Scorecard 2017 - zur Kenntnis genommen
+- TOP 9: Knotenpunkt Westfalenstraße / Hummelbrink - Verbesserung der Verkehrssicherheit - einstimmig beschlossen
+- TOP 10: Ergebnisbericht zum Einplanungsgespräch über die Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus ab 2019 - zur Kenntnis genommen
+- TOP 11: Teilnahme der Waldschule Kinderhaus und der Friedensreich-Hundertwasser-Schule an dem Bewerbungsverfahren zum Schulversuch „Talentschulen" - mehrheitlich beschlossen
+- TOP 12: Arbeitsmarkt- und Integrationsprogramm 2019 des Jobcenters der Stadt Münster - mehrheitlich beschlossen
+- TOP 13: Planänderung zur Planfeststellung für den Ausbau des Dortmund-Ems-Kanals Kanalstufe Münster zur Erweiterung und Erhöhung der Bodenablagerungsfläche „Coerheide“ bei DEK-km 74,600 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen im Rahmen der Etatberatungen
+- TOP 14: Wirtschaftsplan der citeq 2019 - einstimmig beschlossen
+- TOP 15: Vorabgewinnausschüttung auf den Bilanzgewinn 2018 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 16: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 16.1: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster mit der Anlage zur Verwaltungsgebührensatzung (Verwaltungsgebührentarif) - mehrheitlich beschlossen
+- TOP 16.2: NaSa: 1. Änderungssatzung der Gebührensatzung vorbeugender Brandschutz - mehrheitlich beschlossen
+- TOP 16.3: NaSa: 1. Änderung der Feuerwehrsatzung - mehrheitlich beschlossen
+- TOP 16.4: Änderung der Abwassergebührensatzung (AGS) einschließlich Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 16.5: Änderung der Gewässergebührensatzung (GGS) einschließlich Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 16.6: Satzung zur Änderung der Gebührensatzung für die Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 16.7: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2019 - einstimmig beschlossen
+- TOP 16.8: Straßenreinigungsgebühren 2019 - einstimmig beschlossen
+- TOP 16.9: Abfallgebühren 2019 - mehrheitlich beschlossen
+- TOP 16.10: Entgelte für die Nutzung städtischer Sportstätten nach den "Allgemeinen Nutzungsbedingungen": Erhöhung der Entgelte für städtische Sportstätten einschließlich der Tennis- und Speckbrettplätze mit wassergebundener Decke - mehrheitlich beschlossen
+- TOP 17: Räumliche Erweiterung und erweitertes Leistungsangebot des Drogenhilfezentrums INDRO e.V. - Errichtungsbeschluss - - mehrheitlich beschlossen
+- TOP 18: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1 - einstimmig beschlossen
+- TOP 18.1: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1
+- TOP 18.2: Handlungsbedarfe zur Erweiterung von Schulgebäuden auf der Basis der Vorlagen V/0420/2016/1 und V/0328/2017/1
+- TOP 19: Beitritt der Stadt Münster zur Europäischen Städtekoalition gegen Rassismus (ECCAR) - mehrheitlich beschlossen
+- TOP 20: Änderung der Richtlinien des Amtes für Kinder, Jugendliche und Familien der Stadt Münster zur Förderung der außerschulischen Kinder- und Jugendarbeit - einstimmig beschlossen
+- TOP 21: Errichtungsbeschluss für eine Einrichtung der offenen Kinder- und Jugendarbeit am Wiegandweg/ ehem. York Kaserne - in der Kombieinrichtung - "Kindertageseinrichtung und Einrichtung der offenen Kinder- und Jugendarbeit unter einem Dach" - mehrheitlich beschlossen
+- TOP 22: Genehmigung der Dringlichkeitsentscheidung - Finanzbeschluss für Interimsmaßnahme zur Sicherstellung des Rechtsanspruchs auf Kindertagesbetreuung: Pavillon am Holunderweg in Sprakel - mehrheitlich geändert beschlossen
+- TOP 23: Anpassung der Unterstützungssysteme für neu zugewanderte Schülerinnen und Schüler - mehrheitlich beschlossen
+- TOP 24: Projekt "Einwanderung gestalten NRW" - Zwischenbericht - mehrheitlich beschlossen
+- TOP 25: Bürgerhaus Bennohaus – Aktualisierung der Vereinbarung zwischen der Stadt Münster und dem Trägerverein Arbeitskreis Ostviertel e.V. (AKO e.V.) Regelung der Nachfolge der Geschäftsführung des Bennohauses - einstimmig beschlossen
+- TOP 26: Förderung von freien Trägern im Bereich Jugend, Schule, Gesundheit und Soziales - zur Kenntnis genommen
+- TOP 27: Umsetzung von Klimaschutzmaßnahmen in städtischen Gebäuden – Energie- und Klimabericht 2017 - mehrheitlich beschlossen
+- TOP 28: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 29: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 30: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 31: Errichtung der Mathilde-Anneke-Gesamtschule (2. Städtische Gesamtschule) - einstimmig beschlossen
+- TOP 32: Entsperrung der Haushaltsmittel für die Sanierung eines Scheunengebäudes des Emshofes, Verth 14, 48291 Telgte - einstimmig beschlossen
+- TOP 33: Stadthalle Hiltrup: Durchführung von Sanierungs- und Instandhaltungsmaßnahmen - mehrheitlich geändert beschlossen
+- TOP 34: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2019 - mehrheitlich geändert beschlossen
+- TOP -: Vorberatung von sonstigen Ratsentscheidungen
+- TOP 35: Interkommunale Zusammenarbeit – Neufassung der „Öffentlich-rechtlichen Vereinbarung (ÖrV) über die gemeinsame Inanspruchnahme der eigenbetriebsähnlichen Einrichtung citeq der Stadt Münster“ - ohne Beschlussfassung geschoben
+- TOP 36: Interkommunale Zusammenarbeit – Abschluss von Öffentlich-rechtlichen Vereinbarungen (ÖrV) - einstimmig beschlossen
+- TOP 37: Digitale Stadt Münster - Dokumentenmanagementsystem (DMS): Elektronische Akten und Workflows - zur Kenntnis genommen
+- TOP 38: Bericht über die Beteiligungen der Stadt Münster im Jahr 2017 (Beteiligungsbericht 2017) - zur Kenntnis genommen
+- TOP 39: Stellplatzablösungssatzung - einstimmig beschlossen
+- TOP 40: Förderrichtlinie des BMVI „Digitalisierung kommunaler Verkehrssysteme“ - einstimmig beschlossen
+- TOP 41: Integrationsmonitoring 2017 - zur Kenntnis genommen
+- TOP 42: Die vhs Münster und neue Konzepte für eine zeitgemäße Weiterbildung - ohne Beschlussfassung geschoben
+- TOP 42.1: Die vhs Münster und neue Konzepte für eine zeitgemäße Weiterbildung
+- TOP 43: Neukonzeptionierung einer Arbeitsmarktkonferenz - einstimmig beschlossen
+- TOP 44: Stärkung des Fachbereichs Bildende Kunst - einstimmig beschlossen
+- TOP 44.1: Stärkung des Fachbereichs Bildende Kunst
+- TOP 45: Trägervergabe für Kindertageseinrichtungen
+- TOP 45.1: Trägervergabe für die Interimsmaßnahme an der Beckstraße und die dauerhafte Kindertageseinrichtung in Mitte-Süd - mehrheitlich beschlossen
+- TOP 45.2: Trägervergabe für die Kindertageseinrichtung am Dahlweg 118 im Stadtteil Schützenhof - mehrheitlich beschlossen
+- TOP 45.3: Trägervergabe für die Kindertageseinrichtung im Zentrum Nord im Stadtteil Rumphorst - mehrheitlich beschlossen
+- TOP 46: Sommerlicher Wärmeschutz, Anpassung an den Klimawandel - ohne Beschlussfassung geschoben
+- TOP 46.1: Sommerlicher Wärmeschutz, Anpassung an den Klimawandel
+- TOP 47: Satzungen zur Änderung der Landschaftspläne "Werse" (LP1), "Nördliches Aatal und Vorbergs Hügel" (LP2) sowie "Roxeler Riedel" (LP3) - einstimmig beschlossen
+- TOP 48: Bauleitplanung
+- TOP 48.1: Stadtbezirk Hiltrup
+- TOP 48.1.1: Bebauungsplan Nr. 573 Teilabschnitt I und Teilabschnitt II - Beschlüsse zur Aufstellung - einstimmig beschlossen
+- TOP 48.2: Stadtbezirk Nord
+- TOP 48.2.1: 87. Änderung des FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 49: Verschiedenes
