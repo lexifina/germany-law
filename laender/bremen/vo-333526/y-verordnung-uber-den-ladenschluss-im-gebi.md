@@ -1,3 +1,3 @@
-# Verordnung über den Ladenschluss im Gebiet zwischen Alter Hafen, Museumshafen und Weser in der Stadt Bremerhaven vom 6. Dezember 2017
+# Verordnung über den Ladenschluss im Gebiet zwischen Alter Hafen, Museumshafen und Weser in der Stadt Bremerhaven vom 14. November 2018
 durch Zeitablauf erledigt
 Einzelansicht Seitenanfang
