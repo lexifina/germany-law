@@ -1,0 +1,8 @@
+# TOP 6: Finanzierung des Nachtflohmarktes aus dem städtischen Haushalt
+
+- Sitzung: 36. Sitzung (Etat) (2018-12-05)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/186998
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/67601
