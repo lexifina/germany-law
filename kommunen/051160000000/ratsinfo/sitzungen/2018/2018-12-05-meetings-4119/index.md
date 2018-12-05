@@ -1,0 +1,78 @@
+# Ausschuss für Finanzen und Beteiligungen
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2018-12-05T15:36:00+01:00
+- Ende: 2018-12-05T19:20:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4119
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4119
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 26. Sitzung des Ausschusses für Finanzen und Beteiligungen am 27.09.2018 - öffentlicher Teil - Niederschrift ohne Einwendung
+- TOP 2: Strategisches Raumkonzept (HSP-Nr.: 2012-0139) Rathaus der Zunkunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 2.1: Wirtschaftlichkeitsbetrachtung ‚Neues Rathaus‘ - Mit Stimmenmehrheit beschlossen
+- TOP 2.2: Rathaus und Verwaltung der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 2.3: Raumbedarfsplanung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 2.4: Wettbewerbsverfahren Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 2.5: Organisationsstruktur Rathausneubau - Mit Stimmenmehrheit beschlossen
+- TOP 2.6: Digitalisierungsstrategie der Stadtverwaltung Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 2.7: Prüfauftrag zum Thema „Desksharing“ - Vom Antragsteller zurückgezogen
+- TOP 3: Bericht zur Umsetzung des Haushaltssanierungsplans zum 30.09.2018 - Kenntnisnahme
+- TOP 4: Neufassung Gesellschaftsvertrag Flughafen MG GmbH - An den Hauptausschuss verwiesen
+- TOP 5: Flughafengesellschaft Mönchengladbach GmbH - Kenntnisnahme
+- TOP 6: Beteiligung der WFMG an der Digital Innovation Hub Düsseldorf/Rheinland GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 7: Entwurf des Haushaltes 2019/2020; Haushaltssatzung einschl. Anlagen und HSP - Mit Stimmenmehrheit beschlossen
+- TOP 7.1: Wirtschaftsplan GMMG 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 7.2: Fraktionsantrag der CDU- und SPD-Ratsfraktion zum Entwurf Haushaltsplan 2019-2020 - Mit Stimmenmehrheit beschlossen
+- TOP 7.3: Haushaltsberatungen Maßnahmenpakete Schulsporthallen - hier: gem. Fraktionsantrag CDU/SPD vom 27.11.2018 - Mit Stimmenmehrheit beschlossen
+- TOP 7.4: Ergänzungsantrag zu TOP 2 bzw. TOP 9 Maßnahmenpakete Sekundarstufe I hier: Antrag der Ratsfraktionen von CDU und SPD vom 27.11.2018 - Mit Stimmenmehrheit beschlossen
+- TOP 7.5: Haushaltsberatungen Digitale Pilotschule - hier: Antrag der Ratsfraktionen von CDU/SPD vom 12.11.2018 - Mit Stimmenmehrheit beschlossen
+- TOP 7.6: Beratung des Entwurfs des Haushaltes 2019/2020-Blühendes MG-hier: Fraktionsantrag der CDU- und SPD-Ratsfraktion vom 20.11.2018 - Mit Stimmenmehrheit beschlossen
+- TOP 7.7: Entwurf des Haushaltes 2019-2020; Haushaltssatzung einschließlich Anlagen und der Fortschreibung - Antrag der Fraktion Bündnis 90/Die Grünen - Mit Stimmenmehrheit abgelehnt
+- TOP 7.8: Haushaltsantrag: Mehreinnahmen im Haushalt einstellen - hier: Antrag der Ratsfraktion Die Linke vom 25.11.2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 7.9: Haushaltsantrag: Fachpersonal für alle Abenteuerspielplätze - Antrag der Fraktion DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.10: Haushaltsantrag: Erweiterung der Angebote des Gesundheitsamtes - Antrag der Fraktion DIE LINKE vom 25.11.2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 7.11: Haushaltsantrag: Planung und Vorbereitung der Errichtung einer Modellgesamtschule - Antrag der Fraktion DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.12: Haushaltsantrag: Beschluss eines Nachtraghaushaltes für 2020 im Bereich der Schuldnerberatung - Antrag der Fraktion DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.13: Haushaltsantrag: Beschluss eines Nachtraghaushaltes für 2020 im Bereich der Obdachlosenhilfe - Antrag der Fraktion DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.14: Planung und Umsetzung eines „Grünen Klassenzimmers“ in Mönchengladbach - hier: Fraktionsantrag DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.15: Haushaltsantrag: Städtische Wohnungsbau-Initiative - Antrag der Ratsfraktion Die Linke vom 25.11.2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 7.16: Planung einer 7. Gesamtschule in Wickrath - hier: Fraktionsantrag DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.17: Gute Schule durch Schul-Etaterhöhung - hier: Fraktionsantrag DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.18: Abschaffung Eigenanteile bei Sportplatzsanierungen - hier: Fraktionsantrag DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.19: Abschaffung Hallennutzungs- und Außensportanlagengebühr - hier: Fraktionsantrag DIE LINKE - Mit Stimmenmehrheit abgelehnt
+- TOP 7.20: Beratung des Entwurfes des Haushaltes 2018 einschließlich des Entwurfs der Fortschrei-bung des HSP - hier: Antrag der FDP-Ratsfraktion vom 27.11.2018 - Mit Stimmenmehrheit abgelehnt
+- TOP 7.21: Entwurf des Haushaltes 2019-2020; Haushaltssatzung einschließlich Anlagen und der Fortschreibung - Mit Stimmenmehrheit beschlossen
+- TOP 8: Stellenplan 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 9: Über-und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 - Kenntnisnahme
+- TOP 10: Umsetzung Kommunanlinvsestitionsförderungsgesetz - Einstimmiger Beschluss
+- TOP 11: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - In den nächsten Ratszug geschoben
+- TOP 12: Inangriffnahme der Qualifizierung der Sportanlage Holt/ Rönneter - Mit Stimmenmehrheit beschlossen
+- TOP 13: Umgestaltung Schulen und Offene Ganztagsschulen - Einstimmiger Beschluss
+- TOP 14: Ordnung für die Benutzung des Stadtarchivs Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 15: Ordnung für die Benutzung der Stadtbibliothek Mönchengladbach - Einstimmiger Beschluss
+- TOP 16: Satzung für die VHS und Erster Nachtrag zum Tarif der VHS - Einstimmiger Beschluss
+- TOP 17: Schulordnung für die Musikschule und Benutzungsordnung Carl-Orff-Saal - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 18: Leistungsvereinbarung über das Angebot eines "Tagestreffs" für Personen mit besonderen sozialen Schwierigkeiten - Einstimmiger Beschluss
+- TOP 19: Leistungssvereinbarung mit der Frauenberatungsstelle - Einstimmiger Beschluss
+- TOP 20: Richtlinien für die Förderung der Jugendarbeit der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 21: Leistungsvereinbarung Familienhebammen pro familia - Einstimmiger Beschluss
+- TOP 22: Spielplatzentwicklungskonzept - Mit Stimmenmehrheit beschlossen
+- TOP 23: AWO- Vertrag mobile Jugendarbeit - Einstimmiger Beschluss
+- TOP 24: Verstetigung von "KitaPus": Weil gute Betreuung keine Frage der Uhrzeit ist" - Mit Stimmenmehrheit beschlossen
+- TOP 25: 24. NT Kanalgebührensatzung und 11. NT Kleinkläranlagen - Einstimmiger Beschluss
+- TOP 26: Errichtung von vier eingeschossigen Gebäuden (OGATA) an den Grundschulstandorten Höfgenweg, Nordst - Einstimmiger Beschluss
+- TOP 27: Sanierung, Modernisierung und Erweiterung der Zentralbibliothek Mönchengladbach - Einstimmiger Beschluss
+- TOP 28: Berufskolleg Maria-Lenßen. Brandschutz-, Bausubstanz- und energetische Sanierung - Einstimmiger Beschluss
+- TOP 29: Resolutionsantrag - Keine Zweiklassengesellschaft durch Straßenausbaubeiträgen - An den Rat verwiesen
+- TOP 30: Sportstättenentwicklungsplan 2018-2022 - Vom Antragsteller zurückgezogen
+- TOP 30.1: Sportstättenentwicklungsplan 2018-2022 - Mit Stimmenmehrheit beschlossen
+- TOP 31: MGMG spendet Haus Erholung Erträge - Vom Antragsteller zurückgezogen
+- TOP 32: Autofreier Sonntag mit fahrscheinlosem ÖPNV in Mönchengladbach - An den Hauptausschuss verwiesen
+- TOP 33: Umsetzung einer Touristeninformation: Variante D der Vorlage 3363/IX mit Ergänzungen - hier: Fraktionsantrag von DIE LINKE vom 22.11.2018 - An den Hauptausschuss verwiesen
+- TOP 34: Anfragen und Mitteilungen - Siehe Niederschrift
+- TOP 34.1: Anfragen von RH Sasserath, Bündnis 90/DIE GRÜNEN - Siehe Niederschrift
