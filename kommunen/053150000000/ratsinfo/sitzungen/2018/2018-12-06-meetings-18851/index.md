@@ -1,0 +1,67 @@
+# 34. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-06T17:00:00+01:00
+- Ende: 2018-12-06T18:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18851
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18851
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Situation Fußgänger-Radfahrer auf der Longericher Straße (Az.: 02-1600-117/18) - Sache ist erledigt
+- TOP -: TOP 2.1: Situation Fußgänger-Radfahrer auf der Longericher Straße - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tätigkeitsbericht des Amtes für Straßen und Verkehrsentwicklung 2017 - Kenntnis genommen
+- TOP 7.1.2: VfL-Trbüne Rennbahn - Kenntnis genommen
+- TOP 7.1.3: VO:AN/0904/2018, "Kulturrucksack NRW" - Angebote im Bezirk Nippes - Kenntnis genommen
+- TOP 7.1.4: Fußgängerüberweg auf der Sebastianstraße in Höhe der Endhaltestelle der Linie 16 - Kenntnis genommen
+- TOP 7.1.5: Bessere Taktung der KVB-Linie 121 im Bereich Robert-Perthel-Straße, Köln-Bilderstöckchen - Kenntnis genommen
+- TOP 7.1.6: Fahrplan für die Bus-Linie 121 der KVB - Kenntnis genommen
+- TOP 7.1.7: Zukunft der Container-Häfen in Godorf und Niehl - Kenntnis genommen
+- TOP 7.1.8: Stellungnahme zur Anfrage der SPD-Faktion AN/0904/2017 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Pflegeplätze im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.2: Schulgärten im Bezirk Nippes - Kenntnis genommen
+- TOP 7.2.3: Vorkaufsrecht - auch für Nippes ein bewährtes Instrument gegen Wohnungsnot? - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Erweiterung der KVB mobil-App um eine Reservierungsmöglichkeit für KVB-Leihräder - endgültig zurückgezogen
+- TOP 8.1.2: Grundstücke für Wohnungsbau in Alt-Niehl - ungeändert beschlossen
+- TOP 8.1.3: Ortstermin Pastor-Wolff-Straße/Im Grund - geändert beschlossen
+- TOP 8.1.4: Parkplatzkonzept Großveranstaltungen Rennbahn - ungeändert beschlossen
+- TOP 8.1.5: Sanierung der gesamten Toilettenanlage im Blücherpark - ungeändert beschlossen
+- TOP 8.1.6: Pflegeeltern - ungeändert beschlossen
+- TOP 8.1.7: Schulweg zur GGS Steinberger Straße im Bereich Merheimer Straße/Wilhelmstraße sicherer gestalten - zurückgestellt
+- TOP 8.1.8: Abschaltung der Lichtsignalanlagen in den Nachtstunden zwischen 23:00 Uhr und 04:00 Uhr im Stadtbezirk Nippes - Sache ist erledigt
+- TOP 8.1.9: Änderung der Vergabe von Kindergarten- oder Kita-Plätzen für Pflegekinder - ungeändert beschlossen
+- TOP 8.1.10: Vergabe neuer Marktzugänge auf Wochenmarkt Wilhelmsplatz Nippes - zurückgestellt
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Fußverkehrsbeauftragter für Stadt Köln - ungeändert beschlossen
+- TOP 8.2.2: Areal Auf dem Ginsterberg 6-34 - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Vergabe bezirksorientierter Mittel - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss - zurückgestellt
+- TOP 9.2.2: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert beschlossen
+- TOP 9.2.3: Integriertes Stadtentwicklungskonzept Äußerer Grüngürtel Nord - geändert beschlossen
+- TOP 9.2.4: 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, in Köln-Weidenpesch; Arbeitstitel: Südliche Schmiedegasse - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Barrierefreier Zugang zum Edeka-Markt in Longerich - Kenntnis genommen
+- TOP 10.2.3: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.4: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 10.2.5: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
