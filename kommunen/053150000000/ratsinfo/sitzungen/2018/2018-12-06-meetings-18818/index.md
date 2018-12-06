@@ -1,0 +1,94 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-06T16:00:00+01:00
+- Ende: 2018-12-06T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18818
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18818
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde /Vortrag zu aktuellem Thema
+- TOP 1.1: Vorstellung der Ideen der Schüler des Friedrich-Wilhelm-Gymnasiums zum Planspiel Kommunalpolitik
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Ost-West-Achse: Entscheidung über die Vorzugsvariante und Vorbereitung eines Planungs- und Bedarfsfeststellungsbeschlusses - mit Änderungen empfohlen
+- TOP 3.1.1: Änderungsantrag Grüne zur Vorlage 3211/2018 Ost-West-Achse - endgültig abgelehnt
+- TOP 3.2: 6. Satzung zur Änderung der Sondernutzungssatzung - mit Änderungen empfohlen
+- TOP 3.2.1: Änderungsantrag zur Vorlage Änderungssatzung zur Sondernutzungssatzung - geändert beschlossen
+- TOP 3.3: Baubeschluss für die Generalinstandsetzung der Gilbachstraße und Umgestaltung des Knotenpunktes Gilbachstraße/Spichernstraße sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generali - ungeändert beschlossen
+- TOP 3.4: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.5: 1. Änderung Altes Polizeipräsidium in Köln-Altstadt/Süd -Neufassung-; 67440/07; Einleitungsbeschluss - abgelehnt (in der Vorberatung)
+- TOP 3.6: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Deutzer Hafen in Köln-Deutz - ungeändert empfohlen
+- TOP 3.7: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert empfohlen
+- TOP 3.8: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - ungeändert empfohlen
+- TOP 3.9: Erweiterung des Bildungsgangs Fachoberschule, Klasse 13 (FOS13) am Berufskolleg Kartäuserwall (BK 16) - ungeändert empfohlen
+- TOP 3.10: Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert empfohlen
+- TOP 3.11: Vergabe der Stadtverschönerungsmittel 2018 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 3.12: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2019 - ungeändert beschlossen
+- TOP 3.13: Benennung einer Straße im Baugebiet MesseCity Köln in Köln-Deutz nach Hans Imhoff - ungeändert beschlossen
+- TOP 3.14: Standortübergreifende Unterstützung ehrenamtlicher Geflüchtetenarbeit - Ausweitung des Zuschusses für zwei halbe Stellen bei Trägern - ungeändert empfohlen
+- TOP 3.15: Qualifizierungsmaßnahme für den Freiraum im Baublock zwischen Trierer, Mosel-, Pfälzer und Luxemburger Straße in Köln-Neustadt/Süd als Grundlage für die Bauleitplanung; - ungeändert empfohlen
+- TOP 3.16: Qualifizierungmaßnahme Quartiersplatz Am Salzmagazin (Eigelstein); hier: Bedarfsfeststellungsbeschluss und Durchführung eines Qualifizierungsverfahrens - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Entfallen
+- TOP 4.2: Wiederinbetriebnahme Liegeplätze Deutzer Werft, Nothafen Deutzer Hafen, Kaianlagen Rheinauhafen - zurückgestellt
+- TOP 4.3: Überprüfung der Kaianlagen in Köln - zurückgestellt
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Ausbesserung und Erneuerung des Fahrrad- und Fußweges Vorgebirgswall (Az.: 02-1600-163/18) - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Verkehrsführung Chlodwigplatz (Az.: 02-1600-162/18) - geändert beschlossen
+- TOP 5: Anträge gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.1.2: Telefonanlagenrückbau, Antrag Die Linke - ungeändert beschlossen
+- TOP 5.1.2.1: TOP 5.1.2. Telefonanlagenrückbau, Antrag DIE LINKE
+- TOP 5.1.3: Entfernung/Versetzung Werbeanlage Breite Str./Tunisstr., Antrag GUT - zurückgestellt
+- TOP 5.1.4: Toilettenanlage am Breslauer Platz/Johannisstraße (Altstadt/Nord) - ungeändert beschlossen
+- TOP 5.1.5: Haarnadeln an der Haltestelle Ubierring (Nordseite) - zurückgestellt
+- TOP 5.2: Anträge der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 5.2.1: Asphaltbelag in der Deutzer Werft - ungeändert beschlossen
+- TOP 5.2.2: Verkehrsentlastung der Justinianstraße in Deutz - zurückgestellt
+- TOP 5.2.3: Pflanzbewuchs auf der Mauer Annostr. 37d entfernen - ungeändert beschlossen
+- TOP 5.2.4: Begleitende Maßnahmen bei Veranstaltungen in der Deutzer Werft - geändert beschlossen
+- TOP 5.2.5: Vergabekonzept für Veranstaltungen in innenstädtischen Quartieren - zurückgestellt
+- TOP 5.2.6: Optimierung der Radverkehrsführung Pipinstraße/Heumarkt/ Markmanngasse - ungeändert beschlossen
+- TOP 5.2.7: Verlängerung der Mietpreisbindungen - ungeändert beschlossen
+- TOP 5.2.8: Verkehrsgefährdendes Falschparken vor dem Haus Deutzer Freiheit 93 - zurückgestellt
+- TOP 5.2.9: Silvester 2018 - Positive Bilder für Köln - endgültig abgelehnt
+- TOP 5.2.10: Haarnadeln auf der Darmstädter Straße, 50678 Köln - ungeändert beschlossen
+- TOP 6: Anfragen aus früheren Sitzungen
+- TOP 6.1: Praxis des Ordnungsamtes bei Parken auf Rad- und Gehwegen
+- TOP 6.1.1: Praxis des Ordnungsamtes bei Parken auf Rad- und Gehwegen
+- TOP 6.2: Praxis für die Entsorgung von Schrottfahrrädern im öffentlichen Raum - zurückgestellt
+- TOP 6.3: Baumassnahmen Agrippabad
+- TOP 6.3.1: Baumaßnahme Aggrippabad
+- TOP 6.4: Tag des Büdchens - Sachstand
+- TOP 6.4.1: Auftrag zur Durchführung eines „Tag der Büdchen“
+- TOP 6.5: Beschlusscontrolling Stadtverschönerungsmittel 2014 - 2017 - zurückgestellt
+- TOP 7: Anfragen der Fraktionen und Einzelvertreter zu dieser Sitzung
+- TOP 7.1: Straßenreinigung und Kontrollen Ordnungsamt Umfeld LANXESSarena - zurückgestellt
+- TOP 7.2: Verkehrszählung Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 7.3: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 7.4: Anfrage zum Verbleib der Bänke an der Ecke Moltkestraße und Neue Maastrichter Straße - zurückgestellt
+- TOP 7.5: Ampelanlage Kreuzung im Bereich Im Sionstal/kleine Witschgasse/Follerstraße - Aktueller Stand, Gem. Anfrage - zurückgestellt
+- TOP 8: Mündliche Fragen an die Verwaltung
+- TOP 9: Mitteilungen des Bezirksbürgermeisters
+- TOP 9.1: Toilette auf dem Yitzhak-Rabin-Platz
+- TOP 10: Mitteilungen der Verwaltung
+- TOP 10.1: Breslauer Platz/Goldgasse - neue Haltestellenstandorte
+- TOP 10.2: Umsetzungsstand des Radverkehrskonzeptes Innenstadt
+- TOP 10.3: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 10.4: Gestaltung der städtischen Maßnahmen zu Silvester 2018
+- TOP 10.5: Tempo 30 auf der Dr.-Simons-Straße - zurückgestellt
+- TOP 10.6: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe
+- TOP 10.7: Linksrheinische Anlegestellen mit Dalben
+- TOP 10.8: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen
+- TOP 10.9: Notschlafstellen für Obdachlose, Änderungsantrag Linke AN/1308/2018
+- TOP 10.10: Der städtebauliche Masterplan für die Innenstadt Köln; hier: Lupenraum Via Culturalis - Veröffentlichung Audiotour
+- TOP 10.11: Maßnahmen auf dem Von-Sandt-Platz - zurückgestellt
+- TOP 10.12: Änderungen zum Fahrplanwechsel 2018
+- TOP 10.13: Mündliche Mitteilung über die Erweiterung der Eisbahn auf dem Ebertplatz um eine Eisstockbahn
