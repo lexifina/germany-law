@@ -1,0 +1,89 @@
+# Rat (32. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2018-12-06T17:02:00+01:00
+- Ende: 2018-12-06T20:13:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSwibLc8vX3EpP413o6c7hY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5046
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcWqhHVMUV26SsewP2aNmntf9i9xw8Vo9mOrJ6y0CQ_R/Bekanntmachung_Rat_06.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVeTlGkybOUuSwHyv4X5ahK-rIqeKRiEeUDrudYxRApq/Oeffentliche_Niederschrift_Rat_06.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Anfrage der Ratsfraktion Bündnis 90 Die Grünen zu 2-Standort Konzept, Instandhaltungsstau etc.
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung des Rates am 27.09.2018
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Bergisch-Rheinischer Wasserverband Vertretung der Stadt Solingen im Vorstand
+- TOP 7.: Stellenplannachtrag 2018
+- TOP 8.: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 8.1: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 8.2: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 8.3: Etatberatungen für das Haushaltsjahr 2019 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2022 und des Haushaltssanierungsplanes 2019 ff.
+- TOP 9.: Integriertes Stadtteilentwicklungskonzept Ohligs - Beschluss für die Fortschreibung des Konzeptes für die zukünftige Entwicklung des Ohligser Zentrums - Festlegung als Stadtumbaugebiet gem. § 171 b, Absatz 1 BauGB
+- TOP 10.: RWE: Beschleunigter Braunkohleausstieg und neue Leitentscheidung, verbesserte Grenzwerte für Stickoxide sowie Verkauf der RWE-Aktien hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 22.11.2018
+- TOP 10.1: RWE: Beschleunigter Braunkohleausstieg und neue Leitentscheidung, verbesserte Grenzwerte für Stickoxide sowie Verkauf der RWE-Aktien hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen vom 22.11.2018
+- TOP 11.: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Antrag der Ratsfraktion der BfS vom 15.10.2018
+- TOP 11.1: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Antrag der Ratsfraktion der BfS vom 15.10.2018
+- TOP 11.2: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Änderungsantrag der Ratsfraktion der BfS vom 04.12.2018
+- TOP 11.3: Vorläufiger Verzicht auf KAG-Bescheide im Rahmen Anlieger-/ Erschließungsgebühren bis zur Neuordnung durch das Land hier: Änderungsantrag der Ratsfraktion der BfS vom 05.12.2018
+- TOP 12.: Verkehrssituation Goudastraße hier: Antrag der Ratsfraktion DIE LINKE vom 31.10.2018
+- TOP 12.1: Verkehrssituation Goudastraße hier: Antrag der Ratsfraktion DIE LINKE vom 31.10.2018
+- TOP 13.: Änderung der Entgeltordnung für das Walter-Bremer-Institut hier: Förderrichtlinie Gesundheitsfachberufe des Landes NRW
+- TOP 14.: Verfügungsfonds Soziale Stadt - Nordstadt
+- TOP 15.: Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif 2019/2020)
+- TOP 15.1: Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif 2019/2020)
+- TOP 15.2: Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif 2019/2020)
+- TOP 16.: Vergabe des Lokalen Agenda 21-Preises der Stadt Solingen 2018
+- TOP 17.: Zustimmung zu Mehraufwendungen gemäß § 83 GO NW für gesetzliche Leistungen nach dem Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
+- TOP 18.: Zustimmung zu einer konsumtiven Mehrauszahlung gemäß § 83 GO NRW Auszahlung eines Verzinsungsbetrages bei einer Steuererstattung (Keine Belastung der Ergebnisrechnung 2018)
+- TOP 19.: Entwurf des Gesamtabschlusses 2017 der Klingenstadt Solingen
+- TOP 20.: Bericht über die Prüfung des Jahresabschlusses der Klingenstadt Solingen zum 31.12.2017
+- TOP 21.: Jahresabschluss 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 22.: Jahresabschluss 2017 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 23.: Wirtschaftsplan 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 24.: Gebührenbedarfsberechnung 2019
+- TOP 25.: Wirtschaftsplan 2019 der Technischen Betriebe Solingen
+- TOP 26.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 27.: II. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 28.: Neufassung der Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 29.: V. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 30.: IV. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 31.: IV. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 32.: Wirtschaftsplan 2019 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 33.: 7. Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) 2019 - 2024 der Klingenstadt Solingen
+- TOP 34.: Neufassung der Friedhofssatzung der Stadt Solingen
+- TOP 35.: Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 36.: Masterplan gemischte Stadtquartiere hier: Antrag der CDU-Ratsfraktion vom 15.11.2018
+- TOP 37.: Bauleitplanung Talstraße/Forststraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 653 für das Gebiet zwischen der Talstraße, der Forststraße, der Rheinstraße und der Wilhelmstraße (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid –
+- TOP 38.: Bauleitplanung Düsseldorfer Straße/ Baustraße Allgemeiner Beschluss zur Aufstellung der 1. Änderung des Bebauungsplanes O 203 – Teil C sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf der 1. Änderung des Bebauungsplans O 203 – Teil C, jeweils für das Gebiet zwischen der Baustraße, der Düsseldorfer Straße, der Aachener Straße und der Parkstraße. (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 39.: Bauleitplanung ehemaliges Freibad Höher Heide Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des vorhabenbezogenen Bebauungsplanes H 671, zugleich Vorhaben- und Erschließungsplan, und zum Entwurf der Flächennutzungsplanänderung Nr. 23/04 sowie Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan H 671, zugleich Vorhaben- und Erschließungsplan, und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 23/04, beide für das Gebiet des ehemaligen Freibades Höher Heide (Beschluss 3)- Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 40.: Bauleitplanung Höher Straße/ Locher Kotten Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zu den Entwürfen des Bebauungsplanes W 642 und der Flächennutzungsplanänderung Nr. 27/04 sowie Satzungsbeschluss zum Bebauungsplan W 642 und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 27/04, beide für das Gebiet südlich der Straße Locher Kotten, westlich der Höher Straße und östlich der Straße Locher Büschchen (Beschluss 3) - Stadtbezirke Ohligs/ Aufderhöhe/ Merscheid und Mitte -
+- TOP 41.: Verschiedenes
+- TOP 41.1: Mitteilungen der Verwaltung
+- TOP 41.1.1: Einführung einer Nachhaltigkeitseinschätzung
+- TOP 41.1.2: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2018
+- TOP 41.1.3: Ausfälle S-Bahn S1
+- TOP 41.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung des Rates am 27.09.2018
+- TOP 4.: Bergische Symphoniker GmbH - Fördervereinbarung zwischen dem Land Nordrhein-Westfalen und den Städten Remscheid und Solingen
+- TOP 5.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) - Wechsel im Beirat
+- TOP 6.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Änderung des Gesellschaftsvertrages
+- TOP 7.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH - Betrauung
+- TOP 8.: Überlassungsvertrag für das Freizeitgelände Aufderhöhe
+- TOP 9.: Ergebnis Abführungsvertrag zwischen der Stadtsparkasse Solingen und der SIM GmbH (Immobiliengesellschaft der SSS)
+- TOP 10.: Verschiedenes
+- TOP 10.1: Mitteilungen der Verwaltung
+- TOP 10.2: Anfragen an die Verwaltung
