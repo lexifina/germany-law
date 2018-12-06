@@ -1,0 +1,71 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-06T15:30:00+01:00
+- Ende: 2018-12-06T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18784
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18784
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung einer sachkundigen Einwohnerin - zurückgestellt
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Schwer-in-Ordnung-Ausweis - ungeändert beschlossen
+- TOP 2.2: Spielplätze generationsübergreifend und inklusiv bauen - endgültig abgelehnt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Erstellung eines Berichts über die örtliche Planung nach dem Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ungeändert beschlossen
+- TOP 4.2: Kooperationsprojekt "Forum für Willkommenskultur" der Träger Kölner Flüchtlingsrat e. V. und Kölner Freiwilligen Agentur e. V. - ungeändert beschlossen
+- TOP 4.3: Standortübergreifende Unterstützung ehrenamtlicher Geflüchtetenarbeit - Ausweitung des Zuschusses für zwei halbe Stellen bei Trägern - ungeändert beschlossen
+- TOP 4.4: Durchführung der Projekte ALVENI links und rechts vom Rhein zur Verbesserung der Lebenssituation von neuzugewanderten Unionsbürgern/-innen, darunter Eltern mit ihren Kindern im Vorschulalter bis zu 7 Jahren im Rahmen des EHAP - ungeändert beschlossen
+- TOP 4.5: TOP 4.4, Beschlussvorlage Durchführung der Projekte ALVENI links und rechts vom Rhein zur Verbesserung der Lebenssituation von neuzugewanderten Unionsbürgern/-innen, darunter Eltern mit ihren Kindern im Vorschulalter bis zu 7 Jahren im Rahmen d. EHAP - Sache ist erledigt
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 6.1: Kölner Vielfaltskampagne Unsere Vielfalt. Kölns Stärke. - Kenntnis genommen
+- TOP 6.2: Fotoausstellung zum Thema TRANS*GENDER im Stadthaus Deutz - Kenntnis genommen
+- TOP 6.3: Bericht vom Treffen des "Rainbow Cities Network" 2018 - Kenntnis genommen
+- TOP 7: Wohnen
+- TOP 7.1: Bericht Wohnen in Köln 2017 - Kenntnis genommen
+- TOP 7.1.1: Entwicklung des Bestandes an preisgünstigen geförderten Mietwohnungen in Köln - Kenntnis genommen
+- TOP 7.2: Stadtentwicklungskonzept Wohnen (StEK Wohnen) - Kenntnis genommen
+- TOP 7.3: Anfragen und Beantwortungen
+- TOP 7.3.1: Drohender Wohnungsverlust in Köln - zurückgestellt
+- TOP 7.3.2: Verwendung der Kosten der Unterkunft - stadtunmittelbarer Wohnungsbestand - zurückgestellt
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln zur Sitzung des Ausschusses für Soziales und Senioren am 06.12.2018 - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 8.2.1: Kosten für Bildungsbedarf von Transferleistungsempfängern - zurückgestellt
+- TOP 8.2.2: „Hartz IV“-Sanktionen des Jobcenters in Köln - zurückgestellt
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 5. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge in Köln - Kenntnis genommen
+- TOP 9.2: Anfragen und Beantwortungen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Ermäßigungen für Menschen mit Behinderung und ihre Begleitpersonen in städtischen Sportstätten, Kultur- und Bildungseinrichtungen - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1.1: Neufassung der Satzung des LVR über die Heranziehung der Fachstellen für behinderte Menschen im Arbeitsleben – Auswirkungen für die Stadt Köln - zurückgestellt
+- TOP 11.2: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.2.1: Psychosoziale Betreuung von Flüchtlingen in Köln - zurückgestellt
+- TOP 11.2.2: Wohngeld statt Sozialwohnungen - Kenntnis genommen
+- TOP 11.2.2.1: Wohngeld statt Sozialwohnungen Beantwortung einer Anfrage der FDP Fraktion AN/1358/2018 - Kenntnis genommen
+- TOP 11.2.3: Deckung des Bedarfs an vollstationären Dauerpflegeplätzen in Köln - Kenntnis genommen
+- TOP 11.2.3.1: Deckung des Bedarfs an vollstationären Dauerpflegeplätzen in KölnBeantwortung einer Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen vom 06.09.2018 - Kenntnis genommen
+- TOP 11.2.4: Berücksichtigung der Bedarfe von Lesben, Schwulen und Transgender im Bereich der Alten-, stationären und ambulanten Pflege - Kenntnis genommen
+- TOP 11.2.4.1: Beantwortung einer Anfrage von Carolina Brauckmann (AN/1557/2018) zum Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW) (1656/2018) - Kenntnis genommen
+- TOP 11.2.5: Überblick über die in Köln vorhandenen Programme der Fachplanung für Seniorinnen und Senioren - Kenntnis genommen
+- TOP 11.3: Aktuelle Anfragen und Beantwortungen
+- TOP 11.4: Mündliche Anfragen
+- TOP 12: Mitteilungen
+- TOP 12.1: Veröffentlichung Themenberichte 1 und 2 zu den Ergebnissen der "Leben in Köln" - Umfrage - Kenntnis genommen
+- TOP 12.2: Kölner Statistische Nachrichten 4/2018 Erwerbstätigkeit und wirtschaftliche Lage der Kölner Bevölkerung - Ergebnisse der "Leben in Köln"-Umfrage 2016 - Kenntnis genommen
+- TOP 12.3: Kölner Statistische Nachrichten 5/2018 - Kenntnis genommen
+- TOP 12.4: Netzwerk gegen häusliche Gewalt - Statistik 2017 - Kenntnis genommen
+- TOP 12.5: Tätigkeitsbericht "Kommunales Bündnis für Arbeit in Köln - Kenntnis genommen
+- TOP 12.6: Kommunale Förderung der Glücksspielberatung in Köln - Kenntnis genommen
+- TOP 12.7: Mitteilung zum Bericht zur Situation wohnungloser und von Wohnunglosigkeit bedrohter Frauen in der Stadt Köln- Jahresbericht 2017 - Kenntnis genommen
+- TOP 12.8: Streetworkangebot für volljährige Wohnungslose - Kenntnis genommen
