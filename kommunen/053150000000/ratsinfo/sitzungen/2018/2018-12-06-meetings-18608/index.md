@@ -1,0 +1,71 @@
+# 41. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-06T17:00:00+01:00
+- Ende: 2018-12-06T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18608
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18608
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00694672.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00694672.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00694672.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Radweg am Volkhovener Weg - Kenntnis genommen
+- TOP 7.1.2: Schutzabstände zu Hochspannungsleitungen - geändert beschlossen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Mohlenweg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.2: Parkende LKWs auf dem Gehsteig in Esch, Auf dem Driesch Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Fassadenbegrünung an städtischen Gebäuden Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Müllablagerungen nach Hausbau Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: Wiederverwertbares Geschirr Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Ausschilderung Mercatorstraße "Einkaufszentrum Heimersdorf" Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Verfügungsfonds Chorweiler-Mitte Antrag - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 9.2.2: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - geändert beschlossen
+- TOP 9.2.3: Integriertes Stadtentwicklungskonzept Äußerer Grüngürtel Nord - ungeändert beschlossen
+- TOP 9.2.4: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Wassererlebnispfad - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Grünerschließung Krebelspfad / Ausgleichsmaßnahme - Kenntnis genommen
+- TOP 10.2.2: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Beratung des Haushaltsplan-Entwurf 2019 - Kenntnis genommen
+- TOP 10.2.4: Wanderausstellung "Überflutungsschutz und -vorsorge" - Kenntnis genommen
+- TOP 10.2.5: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.6: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses am 05.11.2018 TOP 3.1 (AN 1397/2018) betreffend "Kreuzfeld endlich entwickeln" - Kenntnis genommen
+- TOP 10.2.7: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 10.2.8: Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.9: Baubeschluss für die Generalinstandsetzung der Industriestraße im Bereich zwischen dem Parkplatz 7 (Fühlinger See) und Oranjehofstraße mit gleichzeitiger Umgestaltung der Zufahrtsrampe Oranjehofstraße/Industriestraße sowie Freigabe von investiven - Kenntnis genommen
+- TOP 10.2.10: Entwicklung des neuen Stadtteils Kreuzfeld - zurückgestellt
+- TOP 10.2.11: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - zurückgestellt
+- TOP 10.2.12: Änderungen zum Fahrplanwechsel 2018 - zurückgestellt
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
