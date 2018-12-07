@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zertifizierung von Fremdsprachenkenntnissen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-09-16 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17819.1
+- Datum: 2018-12-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17819.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-16.09.2018
+07.12.2018
 bis
-06.12.2018
+04.07.2019
 
 VwV Zertifizierung von Fremdsprachenkenntnissen
 
@@ -138,7 +138,7 @@ Die zentrale schriftliche Prüfung beginnt am Prüfungstag um 9.00 Uhr. Die Daue
 c)
 
 
-Die Korrektur der schriftlichen Arbeit erfolgt durch eine Lehrkraft, die in der jeweiligen Fremdsprache unterrichtet. Ist die schriftliche Prüfung nicht bestanden, beauftragt der Vorsitzende des Prüfungsausschusses eine zweite Lehrkraft der jeweiligen Fremdsprache mit der Zweitkorrektur.
+Die Korrektur der schriftlichen Arbeit erfolgt durch eine Lehrkraft, die in der jeweiligen Fremdsprache unterrichtet. Ist die schriftliche Prüfung nicht bestanden, beauftragt der Vorsitzende des Prüfungsausschusses eine zweite Lehrkraft der jeweiligen Fremdsprache mit der Zweitkorrektur. Bei abweichenden Korrekturergebnissen zwischen Erst- und Zweitkorrektor wird die Prüfungsnote als arithmetisches Mittel aus den beiden Korrekturergebnissen gebildet. Ergibt dies keine volle Punktzahl, ist bei n,5 aufzurunden.
 
 
 6.
@@ -294,9 +294,9 @@ Fsn-Nr.: 710-V18.9
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 16. September 2018
+Fassung gültig ab:  7. Dezember 2018
 
-Fassung gültig bis:  6. Dezember 2018
+Fassung gültig bis:  4. Juli 2019
 
 Drucken/Speichern
 
@@ -323,7 +323,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17819.1
+https://www.revosax.sachsen.de/vorschrift/17819.2
 Stand vom
 18.11.2026
 
