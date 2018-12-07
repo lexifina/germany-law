@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-12-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.1
+- Datum: 2018-12-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-31.12.2017
+07.12.2018
 bis
-06.12.2018
+06.06.2019
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -79,7 +79,7 @@ die Bescheinigung über die erreichten Leistungen/Prüfungsleistungen.
 
 2.
 
-Zeugnisse über den Abschluss einer berufsbildenden Schule, einen berufs- oder studienqualifizierenden Abschluss, einen allgemein bildenden Schulabschluss oder eine Kombination dieser Abschlüsse. Hierzu gehören
+Zeugnisse über den Abschluss einer berufsbildenden Schule, einen berufs- oder studienqualifizierenden Abschluss, einen allgemeinbildenden Schulabschluss oder eine Kombination dieser Abschlüsse. Hierzu gehören
 
 
 a)
@@ -114,7 +114,7 @@ das Zeugnis über den mittleren Schulabschluss.
 
 3.
 
-Bescheinigungen über zusätzlich erbrachte Leistungen. Hierzu gehört das Fremdsprachenzertifikat des Freistaates Sachsen.
+Bescheinigungen über zusätzlich erbrachte Leistungen.
 
 
 III.
@@ -123,12 +123,20 @@ Format, Papier und Druck
 
 1.
 
-Zeugnisse werden im A4-Format erstellt. Das Zeugnis der allgemeinen Hochschulreife enthält vier Seiten, die auf einem A3-Bogen ausgedruckt werden. Das Abgangszeugnis und das Abschlusszeugnis der Fachschule sowie das Fremdsprachenzertifikat enthalten drei beziehungsweise vier Seiten. Diese können auf einem A3-Bogen oder auch auf zwei A4-Bögen ausgedruckt werden. Alle übrigen Zeugnisse enthalten höchstens zwei Seiten, die auf einem A4-Bogen ausgedruckt werden.
+Zeugnisse werden im A4-Format erstellt.
+
+Das Zeugnis der allgemeinen Hochschulreife enthält vier Seiten, die auf einem A3-Bogen ausgedruckt werden.
+
+Das Abgangszeugnis und das Abschlusszeugnis der Fachschule enthalten drei Seiten.
+
+Diese können auf einem A3-Bogen oder auch auf zwei A4-Bögen ausgedruckt werden.
+
+Alle übrigen Zeugnisse enthalten höchstens zwei Seiten, die auf einem A4-Bogen ausgedruckt werden.
 
 
 2.
 
-Für die Zeugnisse gemäß Ziffer II Nummer 2 und das Fremdsprachenzertifikat ist verstärktes Papier (mindestens 120 g/m²) mit eingedrucktem Wappen zu verwenden. Zum Druck dieser Zeugnisse soll ein dokumentenechter Drucker (Laserdrucker) verwendet werden.
+Für die Zeugnisse gemäß Ziffer II Nummer 2 ist verstärktes Papier (mindestens 120 g/m²) mit eingedrucktem Wappen zu verwenden. Zum Druck dieser Zeugnisse soll ein dokumentenechter Drucker (Laserdrucker) verwendet werden.
 
 
 IV.
@@ -241,16 +249,12 @@ Zeugnis (Berufsschulpflichterfüllerklasse)
 
 A.02.07
 
-Zeugnis über den mittleren Schulabschluss gemäß § 27 Absatz 1 Nummer 1 Halbsatz 1 der
-
-Schulordnung Berufsschule vom 21. August 2006 (SächsGVBl. S. 446), die zuletzt durch Artikel 2 der Verordnung vom 10. Dezember 2012 (SächsGVBl. S. 789) geändert worden ist, in der jeweils geltenden Fassung
+Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 1 der Schulordnung Berufsschule vom 24. Juli 2018 (SächsGVBl. S. 531), in der jeweils geltenden Fassung
 
 
 A.02.08
 
-Zeugnis über den mittleren Schulabschluss gemäß § 27 Absatz 1 Nummer 1 Halbsatz 2 der
-
-Schulordnung Berufsschule, in der jeweils geltenden Fassung
+Zeugnis über den mittleren Schulabschluss gemäß § 31 Absatz 1 Nummer 1 Halbsatz 2 der Schulordnung Berufsschule, in der jeweils geltenden Fassung
 
 
 A.02.09
@@ -513,26 +517,6 @@ F.01.04
 Bescheinigung über die erreichten Prüfungsleistungen (Prüfung zum Erwerb der Fachhochschulreife)
 
 
-F.01.05
-
-KMK-Fremdsprachenzertifikat (deutsch/englisch)
-
-
-F.01.06
-
-KMK-Fremdsprachenzertifikat (deutsch/französisch)
-
-
-F.01.07
-
-KMK-Fremdsprachenzertifikat (deutsch/russisch)
-
-
-F.01.08
-
-KMK-Fremdsprachenzertifikat (deutsch/spanisch)
-
-
 G)
 
 Muster – Auslaufende Bildungsgänge an der Schulart Fachoberschule
@@ -589,7 +573,7 @@ für die Halbjahresinformation der Klassenlehrer,
 
 b)
 
-für das Zeugnis über den mittleren Schulabschluss und das Fremdsprachenzertifikat der Schulleiter,
+für das Zeugnis über den mittleren Schulabschluss der Schulleiter,
 
 
 c)
@@ -619,7 +603,9 @@ Zeugnisse und Bescheinigungen werden gesiegelt. Halbjahresinformationen werden n
 
 5.
 
-Halbjahresinformationen, Jahreszeugnisse und Halbjahreszeugnisse für minderjährige Schüler sind durch einen Personensorgeberechtigten zu unterschreiben. Jahreszeugnisse der Berufsschule und der Berufsfachschule für Altenpflege, für Hebammen und Entbindungspfleger sowie für Krankenpflege sind zusätzlich durch den Ausbildenden oder Arbeitgeber oder Träger der Ausbildung zu unterschreiben. Der Klassenlehrer hat bei Ausgabe der Zeugnisse auf diese Verpflichtung hinzuweisen und deren Erfüllung zu überprüfen.
+Halbjahresinformationen, Jahreszeugnisse und Halbjahreszeugnisse für minderjährige Schüler sind von den Eltern zu unterschreiben.
+
+Jahreszeugnisse der Berufsschule und der Berufsfachschule für Altenpflege, für Hebammen und Entbindungspfleger sowie für Krankenpflege sind zusätzlich durch den Ausbildenden oder Arbeitgeber oder Träger der Ausbildung zu unterschreiben. Der Klassenlehrer hat bei Ausgabe der Zeugnisse auf diese Verpflichtung hinzuweisen und deren Erfüllung zu überprüfen.
 
 
 VI.
@@ -633,7 +619,7 @@ Zeugnisse werden in der Regel am jeweils letzten Unterrichtstag im Schul- oder S
 
 2.
 
-Abschluss- und Abgangszeugnisse der Berufsschule werden nicht vor dem Ende des Berufsausbildungsverhältnisses ausgegeben. Abschluss- und Abgangszeugnisse der Berufsschule und der Berufsfachschule für anerkannte Ausbildungsberufe können gemeinsam mit dem Prüfungszeugnis gemäß § 37 des Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), das zuletzt durch Artikel 14 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2581) geändert worden ist, oder § 31 der Handwerksordnung in der Fassung der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die zuletzt durch Artikel 6 des Gesetzes vom 30. Juni 2017 (BGBl. I S. 2143) geändert worden ist, ausgegeben werden.  
+Abschluss- und Abgangszeugnisse der Berufsschule werden nicht vor dem Ende des Berufsausbildungsverhältnisses ausgegeben. Abschluss- und Abgangszeugnisse der Berufsschule und der Berufsfachschule für anerkannte Ausbildungsberufe können gemeinsam mit dem Prüfungszeugnis gemäß § 37 des Berufsbildungsgesetzes vom  23. März 2005 (BGBl. I S. 931), das zuletzt durch Artikel 14 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2581) geändert worden ist, oder § 31 der Handwerksordnung in der Fassung  der Bekanntmachung vom 24. September 1998 (BGBl. I S. 3074; 2006 I S. 2095), die zuletzt durch Artikel 6 des Gesetzes vom 30. Juni 2017 (BGBl. I S. 2143) geändert worden ist, in der jeweils geltenden Fassung, ausgegeben werden.
 
 3.
 
@@ -689,9 +675,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 31. Dezember 2017
+Fassung gültig ab:  7. Dezember 2018
 
-Fassung gültig bis:  6. Dezember 2018
+Fassung gültig bis:  6. Juni 2019
 
 Drucken/Speichern
 
@@ -718,7 +704,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.1
+https://www.revosax.sachsen.de/vorschrift/17513.2
 Stand vom
 18.11.2026
 
