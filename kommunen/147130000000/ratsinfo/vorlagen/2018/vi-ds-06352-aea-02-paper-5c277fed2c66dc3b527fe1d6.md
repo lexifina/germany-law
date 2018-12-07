@@ -1,0 +1,11 @@
+# Naturkundemuseum Leipzig - Aufhebung Standortentscheidung Halle 7
+
+- Körperschaft: Leipzig
+- Drucksache/Vorlage: VI-DS-06352-ÄA-02
+- Art: Änderungsantrag
+- Datum: 2018-12-07
+- Ratsinformationssystem: N/Avo020.asp?VOLFDNR=1011437
+- OParl: https://oparl.politik-bei-uns.de/paper/5c277fed2c66dc3b527fe1d6
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage-Sammeldokument https://cdn.mirror.oparl.org/5c07e83c2c66dc3b523e7c07/5c0c8ab82c66dc3b5257910b
+- Beratung: Beschlussfassung https://oparl.politik-bei-uns.de/meeting/5c089f972c66dc3b525ce25a https://oparl.politik-bei-uns.de/organization/5c089ecd2c66dc3b525a12f7
