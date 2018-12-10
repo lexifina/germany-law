@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-10T17:00:00+01:00
+- Ende: 2018-12-10T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18685
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18685
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage: Kanalarbeiten und Auslegung Fahrbahndecke Rüdesheimer Straße
+- TOP 1.2: Einwohnerfrage: Unfallstatistik Rüdesheimer Straße
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.:Verkehrssituation in Köln-Mülheim (Az.: 02-1600-79/18) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsicherheit und Infrastruktur in Köln Mülheim-Nord, (Az.: 02-1600-159-18) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Tempo-30 Diepeschrather Straße (Az.: 02-1600-203/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sonnenscheinstraße, Stegerwaldsiedlung - Kenntnis genommen
+- TOP 7.1.2: Herstellung eines Fußweges auf dem Bensberger Marktweg zwischen Mielenforster Straße und dem Tierheim Dellbrück in Köln-Dellbrück - Kenntnis genommen
+- TOP 7.1.3: Herstellung eines Gehwegs im Bereich der Kunstfelder Straße in Köln-Dünnwald - Kenntnis genommen
+- TOP 7.1.4: Geschwindigkeitsmessungen mit fest installierten Anlagen/Geräten - Kenntnis genommen
+- TOP 7.1.5: Antwort der StEB zu den Infotafeln im Rahmen der Expo 2000 in der Flittarder Rheinaue - Kenntnis genommen
+- TOP 7.1.6: Wiederaufforstung entlang der A3 - Kenntnis genommen
+- TOP 7.1.7: Beantwortung des Amtes für Denkmalschutz und Denkmalpflege zur Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Mülheim am 04.06.2018 betreffend Historische Grabstätte der Familie von Andreae - Kenntnis genommen
+- TOP 7.1.8: Antwort der KVB v. 13.11.2018 zur Anfrage des EMT Tücks (FDP) in der BV 9 am 05.12.2016 (Daten zur Nutzung KVB-Fahrrad) sowie zur Anfrage der Fraktion Bündnis 90/Die Grünen in der BV 9 am 05.03.2018 (Ausweitung Bediengebiet KVB-Leihräderangebot). - Kenntnis genommen
+- TOP 7.1.9: Umsetzung von Beschlüssen bezüglich des Radverkehrs im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.1.10: Beantwortung der Anfrage der Fraktion Die Linke vom 02.04.2016 betreffend Kalkberg - Kenntnis genommen
+- TOP 7.1.11: Verkehrliche Einzelmaßnahmen und Verkehrskonzept Holweide - Kenntnis genommen
+- TOP 7.1.12: Beantwortung der Anfrage der CDU-Fraktion in der Bezirksvertretung Mülheim aus der Sitzung der Bezirksvertretung Mülheim vom 17.09.2018 betr. Eishockey-Leistungszentrum in Stammheim - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Gemeinsame Anfrage der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Spielhallen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.2: Anfrage der CDU-Fraktion: Neophyten und Neozoen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Aufstellung von Fahrgastunterständen an den Haltestellen der Buslinie 150 auf der Ackerstraße in Köln-Buchheim - ungeändert beschlossen
+- TOP 8.1.2: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Erhalt der Hecke am Anfang des Eifgenwegs (vor Grundstück von Haus Lippeweg 25) - endgültig zurückgezogen
+- TOP 8.1.3: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Neufelder Straße: Tempo 30 auf der gesamten Länge - ungeändert beschlossen
+- TOP 8.1.4: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Piccoloministraße: Erhöhung der Sicherheit von Fußgänger/innen - ungeändert beschlossen
+- TOP 8.1.5: Antrag der CDU-Fraktion: Einrichtung eines Bouleplatzes und Aufstellung von Trimm-Dich-Geräten in Köln-Dellbrück - ungeändert beschlossen
+- TOP 8.1.6: Antrag der CDU-Fraktion: Umwidmung des Parkplatzes Damaschkestraße (Holweide) in der Straßenreinigungssatzung - ungeändert beschlossen
+- TOP 8.1.7: Antrag der CDU-Fraktion: 50 Jahre U-Bahn-Stolz in Köln - 21 Jahre U-Bahn-Schande in Mülheim (Aufforderung für einen Masterplan zur Reinigung und Qualitätsverbesserung der U-Bahnstationen "Wiener Platz" und "Bahnhof Mülheim". - geändert beschlossen
+- TOP 8.1.8: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verbesserung der Sicherheit für Grundschüler/innen der Schule Urnenstraße im Bereich der Querung Dellbrücker Hauptstraße in Richtung Hünenstraße - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim: zum Thema "Sitzgelegenheiten alle 500 m" - ungeändert beschlossen
+- TOP 8.2.2: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim: "Entkoppelung von Drogenkonsumraum und öffentlichen Toiletten" - ungeändert beschlossen
+- TOP 8.2.3: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim zum Bouleplatz "Am Donewald" in Dünnwald - ungeändert beschlossen
+- TOP 8.2.4: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim: "Einrichtung der Möglichkeit anonymer Bestattungen auf dem Friedhof Flittard" - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Mülheim zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - geändert beschlossen
+- TOP 9.1.2: Sanierung Umkleidehauses Rixdorfer Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Spielplatzbedarfsplanung der Stadt Köln 2018 - Richtwert, Pädagogische Leitlinien und Qualitätsstandards zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 9.2.2: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - ungeändert beschlossen
+- TOP 9.2.3: Schulrechtliche Errichtung einer Gesamtschule mit 4 Zügen in der Sekundarstufe I und 2 Zügen in der Sekundarstufe II am Standort Dellbrücker Mauspfad bei gleichzeitiger Auflösung des Teilstandorts Dellbrücker Mauspfad der Willy-Brandt-Gesamtschule - ungeändert beschlossen
+- TOP 9.2.4: Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9.2.5: Integriertes Stadtentwicklungskonzept Äußerer Grüngürtel Nord - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Stadtarbeitsgemeinschaft Behindertenpolitik - Arbeits- und Erfahrungsbericht für die Zeit von 09/2017 - 05/2018 - Kenntnis genommen
+- TOP 10.2.4: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.5: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.6: Antrag der Fraktionen Bündnis 90/Die Grünen und der SPD in der Bezirksvertretung Mülheim - Kenntnis genommen
+- TOP 10.2.7: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.8: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 10.2.9: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
