@@ -1,0 +1,68 @@
+# Rat der Stadt Rheda-Wiedenbrück (27. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2018-12-10T17:00:00+01:00
+- Ende: 2018-12-10T20:45:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYltztR3izcfwaxS6-1ucDY
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1843
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbkTpEMH2nTZHRy8uSvBU7Dw_uGeoIcUl71j3d4Z9DNs/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_10.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSqWXxxkFr-aGUSheUWNLyaxwR6J1S1QovgD2VjaV3GK/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_10.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Ausbau des kommunalen Ordnungsdienstes Antrag Mobiler Ordnungsdienst der CDU-Fraktion vom 20.09.2018 - Einstimmig
+- TOP 5: Antrag der CDU-Fraktion Anbringung von Fahrbahnmarkierungen auf der Neuenkirchener Landstraße - Einstimmig
+- TOP 6: Antrag der Fraktion Bündnis 90/Die Grünen vom 05.09.2017; - Finanzangelegenheit - 6 Ja-Stimme(n), 30 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Anpassung der Fachausschussbesetzungen - Einstimmig
+- TOP 8: Bestätigung der bereits gefassten Beschlüsse in den Fachausschüssen in der Zeit vom 17.09. bis 29.10.2018
+- TOP 9: Empfehlende Beschlussfassungen in den Fachausschüssen in der Zeit vom 30.10. bis 10.12.2018
+- TOP 9.1: Zuschuss für die Beschaffung eines Rettungswagens durch den DRK Ortsverein Rheda-Wiedenbrück - Absetzung
+- TOP 9.2: Architektenwettbewerb Gesamtschule Standort Wiedenbrück - Zubauprogramm - Einstimmig
+- TOP 9.3: Wettbewerbsverfahren Gesamtschule - Standort Wiedenbrück - 34 Ja-Stimme(n), 1 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 9.4: Straßenbenennung im Bereich des Bebauungsplangebietes Nr. 405 "Wohn- gebiet Fläche Pflug" - Einstimmig
+- TOP 9.5: Lärmaktionsplanung der Stadt Rheda-Wiedenbrück (Stufe 3) - Öffentlichkeitsbeteiligung vom 18.05. bis zum 15.06.2018 mit einleitende Informationsveranstaltung am 17.05.2018 - Beschluss des Lärmaktionsplanes der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 9.6: Antrag auf Beförderung von Schülerinnen und Schülern aus dem Bereich Nordrheda-Ems - 33 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 10: Neufassung der Geldanlagerichtlinie - Absetzung
+- TOP 10.1: Neufassung der Geldanlagerichtlinie - Absetzung
+- TOP 11: Jahresabschluss zum 31.12.2017; Feststellung und Entlastung des Bürgermeisters - Einstimmig
+- TOP 12: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2017, Entlastung der Betriebsleitung sowie des Betriebsausschusses hier: Bericht der Dr. Heilmaier & Partner GmbH - Absetzung
+- TOP 13: Änderung der Satzung über die Erhebung von Gebühren für die Benutzung des Rettungsdienstes zum 01.01.2019 - Einstimmig
+- TOP 14: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - Einstimmig
+- TOP 15: Wirtschaftsplan des Eigenbetriebes Abwasser für das Wirtschaftsjahr 2019; Vorlage des Entwurfs - 33 Ja-Stimme(n), 4 Nein-Stimme(n)
+- TOP 16: Wirtschaftsplan des Betriebes Bauhof für das Wirtschaftsjahr 2019 - Einstimmig
+- TOP 17: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2019
+- TOP 17.1: Endgültige Beratung und Beschlussfassung der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2019 - 20 Ja-Stimme(n), 16 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 18: Interessenbekundungsverfahren für eine Kita-Trägerschaft - Einstimmig
+- TOP 19: Bebauungsplan Nr. 402 A "Gewerbegebiet Hauptstraße/Feldhüserweg" Beschluss der Offenlage - Einstimmig
+- TOP 20: B-Plan Nr. 412 "Jägerweg" - Aufstellungsbeschluss - Anwendung des beschleunigten Verfahrens gem. § 13b BauGB - Durchführung der frühzeitigen Beteiligung - Einstimmig
+- TOP 21: 91. Änderung des Flächennutzungsplanes und Bebauungsplans Nr. 418 „Am großen Moor“ (Parallelverfahren) a) Aufstellungsbeschluss b) Frühzeitige Beteiligung der Träger öffentlicher Belange und Öffentlichkeit - Einstimmig
+- TOP 22: 2. Änderung des Bebauungsplans Nr. 259 "Schmiedebusch" a) Ergebnisse der Offenlage nach § 3 Abs. 2 Baugesetzbuch (BauGB) und Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB b) Satzungsbeschluss - Einstimmig
+- TOP 23: Bebauungsplan Nr. 414 "Gewerbegebiet Wieksbach/Hauptstraße" - Einstimmig
+- TOP 24: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 25: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 26: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 27: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 28: Erklärung von Ausschließungsgründen
+- TOP 29: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 30: Bestätigung der bereits gefassten Beschlüsse in den Fachausschüssen in der Zeit vom 17.09. bis 29.10.2018
+- TOP 31: Empfehlende Beschlussfassungen in den Fachausschüssen in der Zeit vom 30.10. bis 10.12.2018
+- TOP 31.1: Pachtflächen - Einstimmig
+- TOP 31.2: Grundstücksangelegenheit - Einstimmig
+- TOP 31.3: Grundstückstausch - Einstimmig
+- TOP 31.4: Grundstücksangelegenheit - 29 Ja-Stimme(n), 8 Nein-Stimme(n)
+- TOP 31.5: Grunderwerb Infrastrukturflächen - 29 Ja-Stimme(n), 8 Nein-Stimme(n)
+- TOP 31.6: Vertragsangelegenheit - Einstimmig
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Jahresabschluss der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für das Wirtschaftsjahr 2017 - 34 Ja-Stimme(n), 3 Enthaltung(en)
+- TOP 34: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 35: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 36: Dringende Anfragen und Anregungen
