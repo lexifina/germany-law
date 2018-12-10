@@ -1,0 +1,78 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-10T17:00:00+01:00
+- Ende: 2018-12-10T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18709
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18709
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Kriminalitätslage – mündlicher Bericht der Polizei
+- TOP -: Bestellung einer Schriftführerin für den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Vorstellung des Gleichstellungsplans 2019 bis 2023 - ungeändert beschlossen
+- TOP 1.2: EDELGARD Kampagne der Kölner Initiative gegen sexualisierte Gewalt - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Fördermittelakquise und -abwicklung von EU Drittmitteln - zurückgestellt
+- TOP 2.2: Jahresversammlung des europäischen Städtenetzwerkes Eurocities - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Gestaltung der städtischen Maßnahmen zu Silvester 2018 - Kenntnis genommen
+- TOP 4.2: Ergebnis WLAN-Pilotbahnhöfe KVB - Kenntnis genommen
+- TOP 4.3: Kommunale Förderung der Glücksspielberatung in Köln - Kenntnis genommen
+- TOP 4.4: Fragen zur beabsichtigten Gründung der KölnBusiness Wirtschaftsförderungs-GmbH - Kenntnis genommen
+- TOP 4.5: Digitalisierungsprogramm 2019 - 2022 - Schwerpunkt "Dienstleistungen für Bürgerinnen und Bürger sowie Unternehmen" - Kenntnis genommen
+- TOP 4.6: Geschäftsbericht aus der kommunalen Ausländerrechtlichen Beratungskommission (ABK) - Kenntnis genommen
+- TOP 4.7: Bericht vom Treffen des "Rainbow Cities Network" 2018 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 5.1: Änderung in den Geschäftskreisen der Dezernate VI - Stadtentwicklung, Planen und Bauen und VIII - Mobilität und Verkehrsinfrastruktur - ohne Votum in nachfolgende Gremien
+- TOP 5.2: Personalbericht 2018 - Kenntnis genommen
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der Fraktion DieLinke betreffend "Abschiebungen und Duldungen" zur Sitzung am 17.09.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 02.11.2018 - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Umsetzungsstand zum Gesetz zur Regelung der Rechtsverhältnisse der Prostituierten (ProstG)" zur Sitzung am 12.11.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 19.11.2018 - Kenntnis genommen
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Konzessionserteilung für Gaststätten und Außengastronomie" zur Sitzung am 12.11.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 20.11.2018 - Kenntnis genommen
+- TOP 6.4: Anfrage der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" zur Sitzung am 12.11.2018 - zurückgestellt
+- TOP 6.5: Anfrage der Fraktion DieLinke betreffend "Beabsichtigte Gründung der 'KölnBusiness Wirtschaftsförderungs-GmbH'" zur (abgesagte) AVR-Sondersitzung am 19.11.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 19.11.2018 - Kenntnis genommen
+- TOP 6.6: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Umsetzung des Ratsbeschlusses 'Jobrad für städtische Beamte und Beschäftigte'" zur - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 06.12.2018 - Kenntnis genommen
+- TOP 6.7: Anfrage der SPD-Fraktion betreffend "Personalbericht 2018" zur Sitzung am 10.12.2018 - zurückgestellt
+- TOP 6.8: Anfrage der Gruppe BUNT betreffend "Homeoffice und alternative Arbeitszeitmodelle" zur Sitzung am 10.12.2018 - zurückgestellt
+- TOP 6.9: Anfrage der Gruppe BUNT betreffend "Quereinstieg in die Kölner Stadtverwaltung" zur Sitzung am 10.12.2018 - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Zulassungsstelle Porz - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2: Digitalisierung des Baugenehmigungsverfahrens - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.3: Belüftungssituation im Jobcenter Mülheim - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.4: Produktivsetzung des Verfahrens Online-Gewerbeanmeldung - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion und der Gruppe BUNT betreffend "Neutrales Informationsangebot über Schwangerschaftsabbrüche auf der städtischen Website" zur Sitzung am 10.12.2018 - geändert beschlossen
+- TOP -: Änderungsantrag betreffend „Neutrales Informationsangebot über Schwangerschaftsabbrüche auf der städtischen Website“ - ungeändert beschlossen
+- TOP 8.2: Dringlichkeitsantrag der SPD-Fraktion, der Fraktion DieLinke und der Gruppe BUNT betreffend "Silvester 2018 – Weiterhin positive Bilder für Köln" - endgültig abgelehnt
+- TOP 8.3: Dringlichkeitsantrag der SPD-Fraktion und der Gruppe BUNT betreffend "Düxer Büdchen für den Rheinboulevard" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 9.1: Erfahrungsbericht Vergabekonzept 2014 - 2018 und neues Vergabekonzept ab 01.01.2019 - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 9.1: Erfahrungsbericht Vergabekonzept 2014 - 2018 und neues Vergabekonzept ab 01.01.2019 (0889/2018) - ungeändert beschlossen
+- TOP 9.2: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2019 - ungeändert beschlossen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Gründung der KölnBusiness Wirtschaftsförderungs-GmbH - geändert beschlossen
+- TOP 10.2: Schulrechtliche Errichtung einer Gesamtschule mit 4 Zügen in der Sekundarstufe I und 2 Zügen in der Sekundarstufe II am Standort Dellbrücker Mauspfad bei gleichzeitiger Auflösung des Teilstandorts Dellbrücker Mauspfad der Willy-Brandt-Gesamtschule - ungeändert beschlossen
+- TOP 10.3: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 10.4: Siebzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - ohne Votum in nachfolgende Gremien
+- TOP 10.5: 3. Satzung zur Änderung der Satzung über die Abfallgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.6: 6. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Durchführung der Projekte ALVENI links und rechts vom Rhein zur Verbesserung der Lebenssituation von neuzugewanderten Unionsbürgern/-innen, darunter Eltern mit ihren Kindern im Vorschulalter bis zu 7 Jahren im Rahmen des EHAP - ungeändert beschlossen
+- TOP 10.9: Feststellung des Jahresabschlusses und des Lageberichtes der Beihilfekasse der Stadt Köln 2017 - ungeändert beschlossen
+- TOP 10.10: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2019 - ungeändert beschlossen
+- TOP 10.11: Vertrag über die Entsorgung von Friedhofsabfällen auf dem Kölner Stadtgebiet - ohne Votum in nachfolgende Gremien
+- TOP 10.12: Entschädigung von ehrenamtlichen Gremienmitgliedern - zurückgestellt
+- TOP 10.13: Vertrag über die Erbringung technischer Dienste für die Stadt Köln - zurückgestellt
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
