@@ -1,0 +1,76 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2018-12-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4731525
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4731525
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Schadstoffbelastung in München und Verbesserung der Fahrradinfrastruktur im 10. Stadtbezirk
+- TOP 3.1.1.: Bericht aus der UA-Sitzung am 29.11.2018: Vorstellung der Umbaupläne der Grundschule Amphionpark durch das RBS und Baureferat
+- TOP 3.2.1.: Bericht aus der UA-Sitzung am 29.11.2018: "Vorstellung Parkraummanagement OEZ II" durch das Referat für Stadtplanung und Bauordnung
+- TOP 3.2.2.: Bericht vom Ortstermin am 29.11.2018: Bürgeranliegen "Parken und Verkehr in der Ehrenbreitsteiner Straße" (-> vertagt aus Sitzung am 12.11.2018)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Bunzlauer Str. 22 2. Haylerstr. 32 3. Hanauer Str. 91 4. Ehrenbreitsteiner Str. 32 5. Leipziger Straße - Schulbauoffensive
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Hanauer Str. 91 2. Leipziger Straße - Schulbauoffensive
+- TOP 4.: Anträge
+- TOP 4.1.1.: Errichtung einer Schwimmhalle für Moosach
+- TOP 4.1.2.: Instandsetzung Gehwegpflasterung vor Anwesen Feldmochinger Str. 10
+- TOP 4.2.1.: Netzerneuerungen am "Soccer Five"-Platz an der Saarlouiser Str. 86
+- TOP 4.3.1.: Material von Abfallbeuteln in Moosach und Einsatz von ressourcenschonenden Materialien (Anfrage)
+- TOP 5.1.: (E) Stadtbezirksbudget Arbeitsgruppe Buhlstrasse e.V. / Freizeitstätte boomerang Anschaffung eines Raumteilers für den Mädchenraum 800,00€ Az.: 0262.0-10-0169
+- TOP 5.2.: (E) Stadtbezirksbudget Freiwillige Feuerwehr München e.V. Anschaffung eines Containers 50.000,00 Euro, Az. 0262.0-10-0170
+- TOP 5.3.: (E) Stadtbezirksbudget AWO Kreisverband München-Stadt e.V. / ASZ Moosach Informationsveranstaltung am 14.02.2019 700,00€; Az.: 0262.0-10-0171
+- TOP 6.1.: Notwendige Baumfällungen aufgrund der Verlängerung bestehender Haltestellen für zukünftige Buszug-Einsätze auf der Stadtbuslinie 143
+- TOP 6.2.: Maßnahmen zur Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs; hier: Busspur Allacher Straße (Sitzungsvorlage Nr. 14-20 / V 12597, siehe TOP 8.9!)
+- TOP 6.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. VHS Baubergerstr. 6a: Einrichtung eines allgemeinen Behindertenparkplatzes 2. Rigaer Straße, Leidingerplatz, Ernst-Platz-Straße: Errichtung von absoluten Haltverboten (-> Ortstermin am 14.11.18)
+- TOP 6.4.: Veranstaltung "Wings for Life Worldrun 2019" im Olympiapark am 05.05.2019
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Donauwörther Str. 29 2. Hardenbergstr. 31 3. Seydlitzstr. 63
+- TOP 7.1.: Technische Aufrüstung des Aufzuges auf dem Moosacher Bahnhof [BA-Antrag Nr. 14-20/ B 05288; Elektronikteile wurden erneuert; künftig mehr Inspektionen.]
+- TOP 7.2.: Radweg Dachauer Straße auf Höhe der Einmündung der Franz-Fihl-Straße verbessern [Schreiben BA10 vom 09.05.18; Umsetzung in 2019 zusammen mit Maßnahme 2-Richtungsradweg].
+- TOP 7.3.: Einmündung Caubstraße in Triebstraße: Rückschnitt von sichtbehindernden Rankpflanzen [Schreiben BA 10 vom 19.09.18; Baureferat hat keine Sichtbehinderungen festgestellt.]
+- TOP 7.4.: Alarmsirene im Haus Alzeyer Str. 2 [Schreiben BA10 vom 19.09.18; ist interne Brandmeldeanlage zum Zweck Personenschutz; viele Fehlalarme, keine Eingriffsmöglichkeiten für Branddirektion.]
+- TOP 7.5.: Abbiegeverkehr Breslauer Straße in die Bunzlauer Straße [Schreiben BA10 vom 19.09.18; Sackgassen-Schilder wurden in beiden Straßen errichtet].
+- TOP 7.6.: Überprüfung der Sicherheit für Fußgänger und Radfahrer an der Verkehrsinsel Dachauer Straße / Hanauer Straße [Schreiben BA10 vom 19.07.18; Vorbereitung einer Stadtrats-Vorlage mit Ziel, die im Ortstermin am 20.06.18 dargestellten Verbesserungen umsetzen zu können]
+- TOP 7.7.: Bushaltestellen in der Pelkovenstraße: 1. Haltestelle "Pelkovenstraße" erhält beidseitig im Laufe des Jahres 2019 eine Sitzbank [Schreiben BA10 vom 18.07.18]; 2. An der Haltestelle "Moosacher St.-Martinsplatz" (Fahrtrichtung Bf. Moosach) wurden kaputte Kunststoffrasenplatten ersetzt [Schreiben BA10 vom 19.07.18].
+- TOP 7.8.: Heckenbepflanzungen entlang der Straßenbahnschienen Linie 20 Moosach [Schreiben BA10 vom 29.05.18; Neupflanzungen entlang der Tramtrasse erfolgen im Frühjahr 2019].
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Baumentfernungen und Gehölzepflegemaßnahmen in Aussenanlagen städt. Grundstücke: 1. in Grünflächen verschiedener Schulen und Kitas 2. in der Grünfläche der Containerwohnanlage Triebstr. 24
+- TOP 8.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Haldenbergerstraße, westlich HausNr. 26: absolutes Haltverbot 2. Meggendorferstraße, ggü HausNr. 31: absolutes Haltverbot 3. Baubergerstr. 8-10, Kurzparkzone Z 314
+- TOP 8.5.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018 - 2022
+- TOP 8.6.: Maßnahmen zum Fahrplanwechsel 2018
+- TOP 8.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022
+- TOP 8.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10.: (U) Mehrjahresinvestitionsprogramm (MIP) 2018 - 2022 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.11.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 8.12.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 8.13.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.14.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.15.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 8.16.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 8.17.: Bauprogramm 2016 zur Realisierung von Kinderbetreuungsplätzen - Verwaltungsinterne Ausführungsgenehmigung; hier: Kita Riesstr. 49 - nicht-öffentlich -
+- TOP 8.18.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Meggendorferstraße 2. Siegmund-Schacky-Straße
+- TOP 8.19.: WEB - alle Anträge vom 01.11. bis 15.11.2018 - nicht-öffentlich -
