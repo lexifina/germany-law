@@ -1,0 +1,155 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2018-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4640554
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4640554
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: Benennung einer/eines Beauftragten für Genderangelegenheiten
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Schaffung einer Wasserstelle (Hundetränke) im Weißensee-Park an der Untersbergstraße; Bürgerschreiben vom 24.10.18
+- TOP 2.1.2.2.: Nächtliches "Brummen"; Bürgeranliegen (E-Mail) vom 15.11.18
+- TOP 2.1.2.3.: Verbesserung der Radinfrastruktur entlang der Deisenhofener Straße; Bürgerschreiben vom 27.11.18
+- TOP 4.1.: Beteiligung von Kindern und Jugendlichen im 17. Stadtbezirk Obergiesing-Fasangarten stärken (Kinder- und Jugendfonds); Antrag der CSU-Fraktion
+- TOP 4.2.: Eltern-Kind-Initiativen entlasten ! Antrag der Fraktion Bündnis`90 / Die Grünen
+- TOP 4.3.: Anmahnung von Ersatzpflanzungen in der Cincinnatistraße; Antrag der Freien Wähler
+- TOP 4.4.: Durchführung eines Christkindlmarktes auf dem Giesinger Bahnhofplatz ab dem Jahr 2019; Antrag der Freien Wähler
+- TOP 4.5.: Unverzügliche Information des BA 17 über die geplante Nachverdichtung mit Büros und Wohnungen auf dem Siemensgrundstück St.- Martin – Str. 76 und die Neubebauung des gegenüberliegenden Parkhausgeländes sowie Einbeziehung in das weitere Verfahren; Antrag der CSU-Fraktion
+- TOP 5.2.1.: Aufstellung eines Bücherschranks am Giesinger Bahnhofplatz; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets; Antrag vom 20.11.18
+- TOP 5.2.2.: Wiederinbetriebnahme bereits bestehender (Trinkwasser-)Brunnen im 17. Stadtbezirk; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets; Antrag vom 20.11.18
+- TOP 5.2.3.: Errichtung neuer (Trinkwasser-)Brunnen im 17. Stadtbezirk; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets; Antrag vom 20.11.18
+- TOP 5.2.4.: Aufstellung von Tischtennis-Platten auf Plätzen im 17. Stadtbezirk; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets; Antrag vom 20.11.18
+- TOP 5.2.5.: Errichtung eines Wasseranschlusses in der Grünanlage am Katzenbuckel (3. BA Weißenseepark) an der dortigen Dirt-Bike-Bahn; Kostenbeteiligung des BA 17 aus Mitteln des Stadtbezirksbudgets; Antrag vom 20.11.18
+- TOP 5.3.1.: Förderverein des Asam-Gymnasiums e.V. für Projekt "MfM" (My Fertility Matters); Antragssumme: 350,- €; Antrag vom 25.11.18
+- TOP 5.3.2.: Förderverein des Asam-Gymnasiums für Sommerfest; Antragssumme: 170,- €; Antrag vom 25.11.18
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Zuwendung aus dem Stadtbezirksbudget: Antrag des AKA - Aktiv für InterKulturellen Austausch e.V. Zuschuss für den Formularservice Giesing vom Dezember 2017 bis Februar 2018; Nachträgliche Kürzung der Eigenmittel und Leistungen Dritter; Schreiben des Direktoriums vom 14.11.18 mit der Bitte um Rückmeldung
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Personenbeförderungsgesetz (PBefG); Straßenbahn München - Straßenbahnhauptwerkstätte Ständlerstraße; Antrag auf Beseitigung von Teilanlagen und Bodensanierung_TEKTUR; Anhörung durch das Referat für Stadtplanung und Bauordnung
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 05.11. bis 25.11.2018
+- TOP 6.1.4.2.: Leerstand der Bauten an der St.-Bonifatius-Straße 1 - 3; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 29.10.18 zur Anfrage aus der Sitzung vom 11.09.18
+- TOP 6.1.4.3.: Schwanseestraße 91; Nutzungsänderung Büro, Lager und Werkstatt zu Büros mit Lager, Verkeufsstelle und zeitweise genutzten Förderungs- und Weiterbildungsräumen für Mitglieder und Besucher des gemeinnützigen Vereins, befristet auf fünf Jahre; Schreiben und Baugenehmigung des Referates für Stadtplanung und Bauordnung vom 30.10.18
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Situation der Kinderbetreuung im Bezirk 17 Obergiesing-Fasangarten
+- TOP 6.2.4.2.: Mögliche Standorte "Kooperative Ganztagsbildung" im Schuljahr 2019/2020; Schreiben des Referates für Bildung und Sport vom 07.11.18
+- TOP 6.2.4.3.: (U) Schwanseestraße Investitionskostenförderung beim Bau nichtstädtischer Kindertageseinrichtungen sowie Zuwendung nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2017 bis 2020 Kindertagesstätten sonstiger Träger; Kinderkrippe an der Schwanseestraße 71a im 17. Stadtbezirk Obergiesing-Fasangarten Leistung eines Baukostenzuschusses
+- TOP 6.2.4.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.2.4.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 6.2.4.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.2.4.7.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Rote Karte für Rennstrecken - Tempo 30 als Standard für den Verkehr in Obergiesing
+- TOP 6.3.4.2.: Verkehrsberuhigung Feldmüllersiedlung
+- TOP 6.3.4.3.: Barrierefreie Renovierung des S-Bahn-Bahnhofs Giesinger Bahnhof / St.-Martin-Straße; Antwortschreiben des Referates für Arbeit und Wirtschaft zur Anfrage aus der Sitzung vom 11.09.18
+- TOP 6.3.4.4.: Maßnahmen zum Fahrplanwechsel 2018; Schreiben der Münchner Verkehrsgesellschaft mbH (MVG) vom 08.11.18
+- TOP 6.3.4.5.: Tegernseer Landstraße 25 / 27; Einrichtung eines absoluten Haltverbots; Verkehrsrechtliche Anordnung des KVR vom 29.05.18
+- TOP 6.3.4.6.: Warngauer Straße 27; Einrichtung einer Kurzparkzone; Verkehrsrechtliche Anordnung des KVR vom 17.07.18
+- TOP 6.3.4.7.: Maurerstraße Ostseite; Beschilderung desr Senkrechtparkplätze; Verkehrsrechtliche Anordnung des KVR vom 24.07.18
+- TOP 6.3.4.8.: (U) Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG Antrag Nr. 14-20 / B 02243 des Bezirksausschusses des Stadtbezirkes 17 - Obergiesing vom 12.04.2016 Wartehäuschen – Verwendung alternativer Modelle Antrag Nr. 14-20 / B 02783 des Bezirksausschusses des Stadtbezirkes 21 – Pasing-Obermenzing vom 13.09.2016
+- TOP 6.3.4.9.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.3.6.1.: Änderung des zuständigen MVG-Ansprechpartners; Schreiben der MVG vom 09.11.18
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Grünwalder Stadion: Nächtliche Ruhestörung durch Böller etc. nach Fußballspielen - Sicherstellung des Lärmschutzes
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Unterrichtungen über bevorstehende Entfernungen von Gefahrenbäumen bzw. nachträgliche Unterrichtung über entfernte Gefahrenbäume; Schreiben des Baureferats-Gartenbau vom 07.11., 08.11. und 15.11.18 mit entsprechenden Listen
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Weißenseepark, Marionettentheater vom 15.10. - 29.10.19; Zuleitung des KVR mit der Bitte um Stellungnahme bis 05.03.19
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Stadtbezirksbudget; Informationen zur weiteren Umsetzung und Stellenbesetzung; Schreiben des Direktoriums vom 16.11.18
+- TOP 7.3.2.: Technikpauschale; Update der Kooperationsplattform "Alfresco"; Informationsschreiben Nr. 04/18 des Direktoriums vom 15.11.18
+- TOP 7.3.3.: Entwurf des Mehrjahresinvestitionsprogrammes für die Jahre 2018 - 2022; Unterrichtung durch die Stadtkämmerei
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
