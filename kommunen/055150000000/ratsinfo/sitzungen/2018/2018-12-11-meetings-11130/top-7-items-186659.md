@@ -1,0 +1,8 @@
+# TOP 7: Wirtschaftsplan 2019 von Münster Marketing
+
+- Sitzung: 22. Sitzung (2018-12-11)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/186659
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/67841
