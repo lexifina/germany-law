@@ -1,0 +1,80 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-11T17:00:00+01:00
+- Ende: 2018-12-11T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18896
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18896
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Antrag der SPD-Fraktion: Antrag auf eine Aktuelle Stunde zum Thema „Umsetzung von Veranstaltungs- und Terminbeschlüssen der BV Porz, insbesondere Jugend-BV und Sicherheitskonferenz“ - Sache ist erledigt
+- TOP 1.1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Einrichtung einer Buslinie zwischen Westhoven - Kölner Straße der Linie 7 und linksrheinisch Heinrich-Lübke-Ufer über die A4 (Az.: 02-1600-117/17) - mit Änderungen empfohlen
+- TOP 2.1.1: Änderungsantrag der SPD-Fraktion zu TOP 2.1 - Buslinie - ungeändert beschlossen
+- TOP 2.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Optimierung der Beleuchtung am Friedrich-Ebert-Ufer/Rheinboulevard in Porz (Az.: 02-1600-137/18) - geändert beschlossen
+- TOP 2.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Beschluss zur Fortführung des Aktivierungsfonds im Rahmen des integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: 267. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.2: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - mit Änderungen empfohlen
+- TOP 7.3: "Freiraumplanerischen Ideenwettbewerb für die Innenstadt von Köln – Porz mit Realisierungsteil (Friedrich-Ebert-Platz)" in Köln-Porz aus dem Programm "Integriertes Stadtentwicklungskonzept Porz Mitte" - mit Änderungen empfohlen
+- TOP 7.3.1: Änderungsantrag der SPD-Fraktion zu TOP 7.3: Porz Mitte - endgültig abgelehnt
+- TOP 7.4: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Deutzer Hafen in Köln-Deutz - ungeändert empfohlen
+- TOP 7.5: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 70346/03; Arbeitstitel: Langeler Berg in Köln-Porz-Langel - ungeändert empfohlen
+- TOP 7.5.1: NEUFASSUNG Änderungsantrag der SPD-Fraktion zu TOP 7.5 - Langeler Berg - Sache ist erledigt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der CDU-Fraktion:Ausbau des Gehweges Am Stumpfen Kreuz westseitig zwischen Wolf-Metternich-Str. - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion: Sicherheit Parkplatz P.-Reiss-Str - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion: Sozialarbeiter-Team für Siedlung Glashüttenstraße - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion: Versetztes Parken Glashüttenstraße - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion: Interim und Neubau GGS Hauptstraße - geändert beschlossen
+- TOP 8.6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Antrag der SPD-Fraktion: Sanierung Gilgaustraße - aus der letzten Sitzung mit einer Frage geschoben - ungeändert beschlossen
+- TOP 8.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Veranstaltungen auf den Poller Wiesen - Kenntnis genommen
+- TOP 9.1.1.1: mündliche Anfrage der CDU-Fraktion: Poller Wiesen - Kenntnis genommen
+- TOP 9.1.2: Fragen zur Fertigstellung und zum Betrieb des Parkhauses am Bahnhof Wahn - Kenntnis genommen
+- TOP 9.1.2.1: Anfrage der Fraktion Die Grünen: Parkhaus Wahn - Kenntnis genommen
+- TOP 9.1.3: Verkehr im Porzer Süden - Kenntnis genommen
+- TOP 9.1.3.1: Anfrage der SPD-Fraktion: Verkehr im Porzer Süden - Kenntnis genommen
+- TOP 9.1.4: Sachstandsbericht zum Treppenabgang Ohmstraße in Porz-Mitte - Kenntnis genommen
+- TOP 9.1.4.1: Mündliche Anfrage der CDU-Fraktion: Treppenabgang Ohmstraße Höhe Kaiserstraße - Kenntnis genommen
+- TOP 9.1.5: Bücherschrank in Eil, Antwort der Verwaltung - Kenntnis genommen
+- TOP 9.1.5.1: Mündliche Anfrage der CDU-Fraktion: Bücherschrank in Eil - Kenntnis genommen
+- TOP 9.1.6: Beantwortung der mündlichen Anfrage der CDU-Fraktion: Sportplätze Humboldstraße - Kenntnis genommen
+- TOP 9.1.6.1: Mündliche Anfrage der CDU-Fraktion: Sportplätze Humboldtstraße - Kenntnis genommen
+- TOP 9.1.7: Bushaltestelle Gut Leidenhausen - Kenntnis genommen
+- TOP 9.1.7.1: Anfrage der Fraktion Die Grünen: Bushaltestelle Gut Leidenhausen - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: Verlängerung der Fahrradmarkierung in der Hohenstaufenstraße - zurückgestellt
+- TOP 9.2.2: Anfrage der Fraktion die Grünen: Fragen zu den Ausfällen bzw. Verspätungen der Straßenbahn Linie 7 im Monat November 2018 - zurückgestellt
+- TOP 9.2.3: Anfrage der SPD-Fraktion: Verkehrssicherheit an der Zündorfer Groov - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Stellungnahme zu AN/1507/2018 betreffend der Planung und Realisierung von Trockenurinalen in den Schulen im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.2: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.3: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Porz in der Zuständigkeit des Amtes für Straßen und Verkehrsentwicklung, hier: Stand 31.12.2017 - Kenntnis genommen
+- TOP 10.2.4: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.5: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 10.2.6: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 10.2.7: Umgehungsstraße Zündorf L 82n - Kenntnis genommen
+- TOP 10.2.8: Mitteilung der Verwaltung zum Antrag AN/1494/2018 - Toiletten Groov - Kenntnis genommen
+- TOP 10.2.8.1: Antrag der CDU-Fraktion: „Sachstand zur behindertengerechten Toilette an der Groov in Zündorf“ - Sache ist erledigt
+- TOP 11: Annahme von Schenkungen
