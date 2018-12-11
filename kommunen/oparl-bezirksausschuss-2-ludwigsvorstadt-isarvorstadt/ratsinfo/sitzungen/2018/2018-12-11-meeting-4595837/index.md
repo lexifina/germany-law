@@ -1,0 +1,124 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2018-12-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4595837
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4595837
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Zentraltheater GbR Theater "Wir kommen" vom 20.11.2018 - 28.11.2018 950,00€ Az.: 0262.0-2-0243
+- TOP 5.1.: Bürgerganliegen, Wildes Campieren in Fußgängerunterführung (2018.10 A 5.1)
+- TOP 5.2.: Bürgeranliegen, Bettdecken im Gebiet Hackebrücke
+- TOP 5.3.: Bürgeranliegen, Pissoir am Holzplatz
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Herzog-Heinrich-Straße 1, Aufstockung und Nutzungsänderung eines Wohn- und Geschäftshauses
+- TOP 3.1.2.: Ehrengutstraße 1, Tektur zu Anbau von Betriebsflächen mit Wohn- und Technikraum, Nutzungsänderung: Büro- zu Produktionsfläche (EG) sowie Filmproduktion zu Lagerräume (KG) (2018.11 C 3.1.9)
+- TOP 3.2.1.: Eine Esche, Sankt-Paulus-Platz 1
+- TOP 3.2.2.: Vollzug der Baumschutzverordnung zum Vorhaben Bob-van-Benthem-Platz 1
+- TOP 3.2.3.: Eine Fichte, Kobellstraße 15
+- TOP 3.2.4.: Vollzug der Baumsschutzverordnung: Ickstattstraße 5, Neubau Rückgebaude: Wohngebäude mit Tiefgarage; Bestand Vordergebäude; Anbau Aufzug + Balkone, Nutzungsänderung EG Laden mit Wohnung zu TG-Zufahrt mit Wohnung, Teilung 2. OG 2 WE in 3 WE, Dachgeschossbau (2018.10 B 3.2.2)
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Gaststätte „Emsa“, Kapuzinerstraße 8, Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Schillerstraße 36
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Erbbaurechtsvergabe einer städtischen Immobilie, Bavariaring 5
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Fahrradparkplätze an der Pettenkoferstraße
+- TOP 5.2.: Bürgeranliegen, Aufstellen von Abfalleimer im Dreimühlenviertel
+- TOP 5.3.: Bürgeranliegen, Standplätze für Rikshas und Pedicabs auf dem Oktoberfest
+- TOP 5.4.: Bürgeranliegen, Fahrradampel an der Lindwurmstraße
+- TOP 5.5.: Bürgeranliegen, Winterdienst auf der Hackebrücke
+- TOP 5.6.: Bürgeranliegen, Ampel an der Mozartstraße
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP A 4.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP A 4.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP A 4.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP A 4.7.: (U) Änderung / Erweiterung der Satzung „Dreimühlenstraße / Baldeplatz“ der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs. 1 Satz 1 Nr. 2 BauGB (Erhaltungssatzung „Dreimühlenstraße / Baldeplatz" vom 16.10.2018)
+- TOP A 4.8.: Stadtbezirksbudget, Koreanisch Deutsches Sportinstitut e.V.
+- TOP A 4.9.: Vollzug der Erhaltungssatzung, Auenstraße 22
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018 bis 2022
+- TOP B 4.3.: Müllerstraße 45, Nutzungsänderung im Anbau des Zwischengebäudes: Lager im DG zu Gaststätte (Tagesbar mit CoWorkingSpace) und Komplettsanierung des Dachstuhls sowie der Holzbalkendecke; Nutzungsänderung einer Massagespraxis zu Ferienwohnung
+- TOP B 4.4.: Information zum Umbau Theresien-Gymnasium
+- TOP B 4.5.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP B 4.6.: Buttermelcherstraße 16, Vorbescheid zum Bauvorhaben zur Kenntnisnahme
+- TOP B 4.7.: Paul-Heyse-Straße 12, Baugenehmigung zur Kenntnisnahme
+- TOP B 4.8.: Landwehrstraße 28a, Antwort der Lokalbaukomission auf die BA-Anfrage vom 21.11.2018
+- TOP B 4.9.: Schwanthalerstraße 2 / Sonnenstraße 8, Antwort der Lokalbaukomission zur Stellungnahme vom 24.10.2018
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Stadt und Fluss – Rahmenplanung innenstädtischer Isarraum, Stellungnahme des BA 01 Altstadt-Lehel
+- TOP C 4.7.: Maßnahmen zum Fahrplanwechsel 2018
+- TOP C 4.8.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022
+- TOP C 4.9.: BA-Antrag, Öffnung der Müllerstr. für Fahrradverkehr
+- TOP C 4.10.: Räumung der Weideninsel von Unrat und weiteren Hinterlassenschaften
+- TOP C 4.11.: (U) Lindwurmstraße zwischen Goetheplatz und Sendlinger-Tor-Platz im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt Projektkosten (Kostenobergrenze): 4.000.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022 3. Verbesserungen für Radfahrerinnen und Radfahrer in der Lindwurmstraße Antrag Nr. 14-20 / A 03681 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Gerhard Mayer, Frau Stadträtin Dr. Constanze Söllner-Schaar, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Kathrin Abele, Herrn Stadtrat Jens Röver und Frau Stadträtin Ulrike Boesser vom 08.12.2017
+- TOP C 4.12.: Beschlussvorlage erhöhtes Verkehrsaufkommen durch das neue Einkaufszentrum – Forum Schwanthalerhöhe, Sitzungsvorlage Nr. 14-20 / V 12754
+- TOP C 4.13.: Beschlussvorlage München rettet seine Spatzen, Sitzungsvorlage Nr. 14-20 / V 13227
+- TOP C 4.14.: Mehr Sicherheit und Komfort an der Ampel Sonnen-/Schwanthalerstraße
+- TOP C 4.15.: Wiedererrichtung des Denkmals König Ludwig II. auf der Corneliusbrücke
+- TOP C 4.16.: Dauer der Bauarbeiten am Sendlinger-Tor-Platz / Einbahnregelung in der Pestalozzistraße nur für die Dauer der Bauarbeiten?
+- TOP C 4.17.: Entschärfung des Kreuzungsbereichs Lindwurmstraße / Poccistraße
+- TOP C 4.18.: Temporäre Paketausgabestation auf der Theresienwiese
+- TOP C 4.19.: Bürgeranliegen zur Kenntnisnahme, Verkehrssituation in der Corneliusstraße
+- TOP C 4.20.: Maßnahmen zur Freihaltung des öffentlichen Wegs zwischen Kohl- und Corneliusstraße am Europäischen Patentamt
+- TOP C 4.21.: Maßnahmen der Stadt gegen überfüllte und unsaubere Glascontainer an der Auenstraße 100
+- TOP C 4.22.: Sachstand Verkehrsplanung Thalkirchner Straße
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Stadtbezirksbudget; Informationen zur weiteren Umsetzung und Stellenbesetzung
+- TOP D 4.2.: Technikpauschale, Update der Kooperationsplattform „Alfresco“
+- TOP E 2: Bereich Besondere Angelegenheiten
