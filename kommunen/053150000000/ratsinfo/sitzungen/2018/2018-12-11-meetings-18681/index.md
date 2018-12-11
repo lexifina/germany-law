@@ -1,0 +1,80 @@
+# 41. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-11T16:05:00+01:00
+- Ende: 2018-12-11T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18681
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18681
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar/Umdruck) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00694382.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar/Umdruck) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00694382.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar/Umdruck) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00694382.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von Sachkundigen Einwohnerinnen und Einwohnern
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Großräumige „Autofreie Tage“ in Köln einführen - endgültig zurückgezogen
+- TOP 1.1.1: Autofreie Tage – Stadtgesellschaft und Verwaltung Hand in Hand (ÄA zu TOP 3.1.2) - Sache ist erledigt
+- TOP 1.2: Bus-Anbindung Schule Wasseramselweg - ungeändert beschlossen
+- TOP 1.3: Neuordnung der Busangebote und Weiterentwicklung der Busteilnetze - ungeändert beschlossen
+- TOP 1.4: Optimierung Verkehrsinfrastruktur Holweide - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Eifelwall: Einrichtung einer Fahrradstraße - geändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - zurückgestellt
+- TOP 3.2: Baubeschluss für die Umgestaltung des Kreuzungsbereiches Rolshover Straße/Kalker Hauptstraße mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen im Teilfinanzplan 1201, Straßen, Wege, Plätze, Finanzstelle 6601-1201-8-1096, Rolshover - geändert beschlossen
+- TOP 3.3: Sanierung des Knotenpunktes Ostheimer Straße/Vingster Ring - geändert beschlossen
+- TOP 3.4: Baubeschluss für die Instandsetzung der Industriestraße im Bereich zwischen der Brücke über die BAB 1 bis zur Auffahrt von der Edsel-Ford-Straße - ungeändert beschlossen
+- TOP 3.5: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - geändert beschlossen
+- TOP 3.6: Beibehaltung und Ausweitung der dualen Führung in Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - im ersten Durchgang verwiesen
+- TOP 3.7: Planungs- und Bedarfsfeststellungsbeschluss für die Neugestaltung der Stadtbahnhaltestelle Bahnhof Deutz/Messe - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 9. Änderung des Gesamtverkehrskonzepts der Stadt Köln - Sache ist erledigt
+- TOP 4.2: Bedarfsfeststellungs- und Planungsbeschluss für den Ersatzneubau Brücke Widdersdorfer Straße über die HGK-Trasse. - mit Änderungen empfohlen
+- TOP 4.3: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 4.4: Siebzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - zurückgestellt
+- TOP 4.5: Ost-West-Achse: Entscheidung über die Vorzugsvariante und Vorbereitung eines Planungs- und Bedarfsfeststellungsbeschlusses - ohne Votum in nachfolgende Gremien
+- TOP 4.6: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 4.7: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ungeändert beschlossen
+- TOP 4.8: Ergänzung des Stadtbahnvertrages vom 03.09./09.09.1991 hinsichtlich der Federführung für die Maßnahme Kapazitätserweiterung durch Verlängerung der Bahnsteige an Haltestellen der Linien 4 und 13 sowie Beschluss über die Umsetzung der Planung bis Leis - zurückgestellt
+- TOP 4.9: Zoobrücke Los Z1, Los D - ungeändert empfohlen
+- TOP 4.10: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - im ersten Durchgang verwiesen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Velosichere Schienen für Köln - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Qualität von Fahrradverleihsystemen - Sache ist erledigt
+- TOP 5.2.1.1: Qualität von Fahrradverleihsystemen - Kenntnis genommen
+- TOP 5.2.2: Fahrverbote in Köln – auch ältere Benziner mit geregeltem Katalysator sind betroffen - Sache ist erledigt
+- TOP 5.2.3: Tunnel realisierbar? Fragen zur Ost-West-Achse - Sache ist erledigt
+- TOP 5.2.4: 14,7 Millionen mehr für saubere Luft – warum baut die KVB von dem Geld die Videoüberwachung aus? - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: E-Tretroller sausen bald durch Köln - ist die Stadtverwaltung darauf vorbereitet? - Sache ist erledigt
+- TOP 6.2: Sachstand, Terminierung und geplantes Vorgehen bei der Erstellung einer städtischen Stellplatzsatzung - Sache ist erledigt
+- TOP 6.3: Parkhäuser in der Stadt Köln - Sache ist erledigt
+- TOP 6.4: Mobilitätsverhalten der Kölnerinnen und Kölner - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.5: Radschnellwege in Köln - Sache ist erledigt
+- TOP 6.6: Anfrage zu Ausfällen von Bussen und Bahnen der KVB - Sache ist erledigt
+- TOP 6.7: Fahrradmitnahme bei der KVB - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhung nach § 24 Abs. 2 GemHVO
+- TOP 7.1.1: Generalinstandsetzung des Rad- und Gehweges Militärringsstraße, hier: Mitteilung über eine Kostenerhöhung gem. §24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Mitteilung zum Prüfbericht LSA Erneuerungsprogramm des Amtes für Verkehrsmanagement - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Prüfbericht LSA Erneuerungsprogramm des Amtes für Verkehrsmanagement - Kenntnis genommen
+- TOP 7.2.2: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses am 05.11.2018 TOP 3.1 (AN 1397/2018) betreffend "Kreuzfeld endlich entwickeln" - Kenntnis genommen
+- TOP 7.2.3: Ergebnis WLAN-Pilotbahnhöfe KVB - Kenntnis genommen
+- TOP 7.2.4: Erhebung von Straßenbaubeiträgen - Kenntnis genommen
+- TOP 7.2.5: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 7.2.6: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 7.2.7: Gefahrloses Fahrradfahren in Schulnähe - Kenntnis genommen
+- TOP 7.2.8: Umgehungsstraße Zündorf L82n - Kenntnis genommen
+- TOP 7.2.9: Betreff: Pilotphase Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Mobilität in Deutschland - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Ausbau der Gürzenichstraße - Sache ist erledigt
