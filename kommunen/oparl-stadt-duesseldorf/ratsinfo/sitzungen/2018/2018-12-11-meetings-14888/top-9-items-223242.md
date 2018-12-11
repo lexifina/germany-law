@@ -1,0 +1,7 @@
+# TOP 9: Planungen im Bereich des Universitätsklinikums
+
+- Sitzung: Bezirksvertretung 3 (2018-12-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/223242
+- Ergebnis: zur Kenntnis genommen
