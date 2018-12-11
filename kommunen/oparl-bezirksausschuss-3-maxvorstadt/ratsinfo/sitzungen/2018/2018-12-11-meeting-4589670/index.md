@@ -1,0 +1,122 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2018-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4589670
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4589670
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP F.4.: Wahl des Kinder- und Jugendbeauftragten
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Schreiben vom 05.11.2018, Hinweis auf/Infotafel zur Bauhistorie der Hochschule für Musik und des Schwesterbaus an der Katharina-von-Bora-Straße
+- TOP 5.2.2.: Schreiben vom 15.11.2018, Gefahrenstelle Schranke Lothstraß
+- TOP 5.2.3.: Schreiben vom 17.11.2018, Situation am Josephsplatz
+- TOP 6.1.: Trinkwasserbrunnen in der Maxvorstadt aufstellen
+- TOP 6.2.: Ersatzpflanzungen in der Karlstraße durchführen
+- TOP 6.3.: Nächtliche Abschaltung der Ampelanlagen in der Adalbertstraße
+- TOP 6.4.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Antwortschreiben zu TOP A 5.2.1/11 2018, Bürgeranliegen
+- TOP 6.5.: Mähen der öffentilchen Grünflächen in der Maxvorstadt auf ein Mindestmaß begrenzen
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag der SPD vom 11.11.2018 Ensemble-Denkmalschutz für die Türkenstraße
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 25.11.2018 Mehr Grün im Straßenraum
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 25.11.2018 Aufstellung von NO2-Messstellen in der Maxvorstadt Antwort des Amtes für Wohnen und Migration
+- TOP 2.1.1.: Baulisten der LBK: 44., 45., 46., 47. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 42., 43., 44.,45., 46. KW
+- TOP 2.1.3.: Tengstraße 2 DAG-Ausbau, anbau von Balkonen und eines Personenaufzuges, eingeschossiger Anbau – Tektur vertagt aus der Sitzung vom 13.11.2018, TOP B 2.1.8
+- TOP 2.1.4.: Schellingstraße 110-116, Tektur Abbruch und Neuerrichtung des Dachgeschosses über zwei Ebenen (insg. 21 neue Woh- nungen), Errichtung dreier Außen- und eines innen liegenden Aufzuges im Bestandstreppen- haus sowie einer neuen Hofbebauung für sechs Wohnungen, Neubau einer Tiefgarage usw.
+- TOP 2.1.5.: Schellingstraße 102 Einbau einer Dachterrasse in ein Mehrfamilienhaus – Vorbescheid (drei Varianten)
+- TOP 2.1.6.: Fürstenstraße 9 Umbau und Nutzungsänderung der Remise im zweiten Hinterhof zu zwei Wohneinheiten
+- TOP 3.2.1.: Veterinärstraße 8, eine gemeine Hasel
+- TOP 5.1.: Baureferat, Beschlussvorlage Kunstareal – modifizierte Alternative 5 im 3. Stadtbezirk Maxvorstadt Ergänzung vom 28.09.2018
+- TOP 5.2.: Baureferat Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen
+- TOP 5.3.: Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum – Sachstand und weiteres Vorgehen, Stellungnahme des Bezirksausschusses 1 Altstadt-Lehel vom 14.11.2018
+- TOP 5.4.: Baureferat Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach und Fassa- denbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien Sitzungsvorlage Nr. 14-20 / V 11236
+- TOP 5.5.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Erhaltungssatzung „St.Benno-Viertel“, Sitzungsvorlage Nr. 14-20 / V 13515
+- TOP 5.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm für die Jahre 2018 – 2022, Sitzungsvorlage Nr. 14-20 / V 12359
+- TOP 5.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Mehrjahresinvestitionsprogramm 2018 – 2022, Festsetzung der Reihenfolge großer Sied- lungsmaßnahmen für die Jahre 2018 – 2022, Infrastrukturversorgungskonzept 2018 – 2022 Sitzungsvorlage Nr. 14-20 / V 12358
+- TOP 5.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage München rettet seine Spatzen (2), Sitzungsvorlage Nr. 14-20 / V 13227
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag CSU vom 21.11.2018 Verbesserung der Aufenthaltsqualität in der Ludwigstraße
+- TOP 1.2.: Antrag SPD vom 25.11.2018 Radmarkierung und Ladestation in der Lothstraße
+- TOP 1.3.: Antrag Bündnis 90/Die Grünen vom 26.11.2018 Vorfahrtregelung Rechts-vor-Links in verkehrsberuhigten Bereichen/Temp-30-Zonen kon- sequent umsetzen
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen vom 26.11.2018 Parkraummanagement-Gebühren auch in der Maxvorstadt anpassen – der Luftverschmutzung entgegenwirken
+- TOP 1.5.: Antrag SPD vom 24.11.2018 Intelligentere Ampelsteuerung an stark belasteten Straßenkreuzungen
+- TOP 1.6.: Antrag SPD vom 24.11.2018 Aufwertung des Erscheinungsbildes der U-Bahnhöfe in der Maxvorstadt
+- TOP 1.7.: Antrag SPD vom 25.11.2018 Außenflächen der Neuen Pinakothek während der anstehenden Sanierung schonen und für die Allgemeinheit zugänglich erhalten
+- TOP 1.8.: Antrag CSU vom 27.11.2018 Sicherheit für Radfahrer an der Kreuzung Maßmann-, Schleißheimer-, Theresienstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Austausch von Lichtsignalanlagen: a) Geschwister-Scholl-Platz b) Augusten-/Dachauer-/Karlstraße
+- TOP 2.1.2.: Radschnellweg Ludwigstraße/Leopoldstraße Bürgeranliegen aus der Sitzung am 13.11.2018 (TOP A 5.2.5), Formulierung eines Ant- wortschreibens
+- TOP 2.1.3.: Erinnerungsverfahren a) Arcisstraße zwischen Theresien- und Heßstraße, Fahrbahn b) Akademiestraße zwischen Leopold- und Türkenstraße, Fahrbahn
+- TOP 2.1.4.: Nymphenburger Straße, Justizgebäude, Einrichten einer Haltverbotszone
+- TOP 2.2.1.: Dachauer Straße 4: Aufstellung eines mobilen Fahrradständers
+- TOP 2.4.1.: „Kinder- und Familienprogramm ICF“ am 26.03. und 30.04.2019
+- TOP 2.4.2.: Jubiläumsfeier – 200 Jahre kommunales Friedhofs- und Bestattungswesen 05.und 06.07.2019, Wittelsbacherplatz
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, verkehrliche Anordnung Tempo 30 am Marsplatz im Einzugsbereich des Wittelsbacher Gymnasiums
+- TOP 3.2.: Arbeiten im Straßenraum a) Karlstraße 77-79, Denisstraße 5, Verlegung einer Fernwärme- und -kälteleitung b) Heßstraße 24 – 50 und Luisenstraße 67c – 71, Tiefbauarbeiten an Fernwärmeleitung c) Dachauer Straße zwischen Loristraße und Sandstraße, Radwegsanierung sowie Geh- und Fahrbahnsanierung
+- TOP 3.3.: Referat für Gesundheit und Umwelt Jahresgenehmigung 2019 für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadt- gebiet.
+- TOP 3.4.: MVG, Maßnahmen zum Fahrplanwechsel 2018
+- TOP 3.5.: Baumaßnahmen der Stadtwerke a) Türkenstraße 9, Fernwärme b) Schellingstraße, Wasser
+- TOP 3.6.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Tempo 30 vor der Schule Luisenstraße 7
+- TOP 3.7.: Fan-Meeting-Point im „Alten Botanischen Garten“ Schreiben des Münchner Forums an das Bayerische Staatsministerium für Wissenschaft und Kunst
+- TOP 3.8.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Lizenzparkregelungen an der Außenseite des Altstadtringes
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Direktorium, Zuwendungen aus dem Stadtbezirksbudget Antrag der Initiativgruppe – Interkulturelle Begegnung und Bildung e.V. Verzicht auf ein Konzert ohne Reduzierung des Zuschusses (s. TOP D 2.1/01 2018)
+- TOP 2.2.: (E) Stadtbezirksbudget InitiativGruppe - Interkulturelle Begegnung und Bildung e.V. Gestaltung des Außenbereichs der interkulturellen Kinderkrippe im Frühjahr 2019 6.872,00 Euro, Az.: 0262.0-3-0226
+- TOP 2.3.: (E) Stadtbezirksbudget InitiativGruppe - Interkulturelle Begegnung und Bildung e.V. Anschaffung von Spielelementen und Gartenspielzeug im Frühjahr 2019 8.315,00€; Az.: 0262.0-3-0225
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Sozialreferat, Übersicht Unterkünfte Wohnungslose und Flüchtlinge Oktober 2018
+- TOP 4.2.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 4.3.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 4.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 4.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Projektraum SOX" Ausstellung "Watching an Object is Watching a Movie" vom 29.11.2018 vom 15.01.2019 2.600,00€; Az.: 026.0-3-0228
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Mehrjahresinvestitionsprogramm (MIP 2018 – 2022) für den Bereich des BA 3, Anhörung
+- TOP F.2.: Direktorium Technikpauschale, Update der Kooperationsplattform „Alfresco“
+- TOP F.3.: Direktorium Stadtbezirksbudget, Informationen zur weiteren Umsetzung und Stellenbesetzung
+- TOP F.5.: Antrag SPD vom 25.11.2018 E-Mail Accounts für Bezirksausschussmitglieder
+- TOP G: Nicht öffentliche Sitzung
