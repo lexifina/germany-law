@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-12-11T17:00:00+01:00
+- Ende: 2018-12-11T20:03:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14972
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14972
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331463.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331463.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331463.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19-2023/24 (SOM VI) - zur Kenntnis genommen
+- TOP 5: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Maßnahme Naturnaher Ausbau der Südlic - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2018 - einstimmig beschlossen
+- TOP 12: Bus on Demand im Stadtbezirk 8 - beantwortet
+- TOP 13: P + R - Parkplatz am Kleinforst - beantwortet
+- TOP 14: Kulturbahnhof Eller - beantwortet
+- TOP 15: Rahmenplan Einzelhandel im Stadtbezirk 8 - beantwortet
+- TOP 16: Rheinbahn-Linien U76 und 723 im Stadtbezirk 8 - beantwortet
+- TOP 17: Lärmschutz Güterbahnstrecke Rath-Eller und Umbauten Bahnübergänge - beantwortet
+- TOP 18: Umgestaltung Lierenfelder Platz - beantwortet
+- TOP 19: Fahrradabstellplätze am WSP Tannenhofweg - einstimmig beschlossen
+- TOP 20: Bordsteinabsenkung Ecke Ohlauer Weg / Waldenburger Weg - einstimmig beschlossen
+- TOP 21: Fahrbahnmarkierung Reichenbacher Weg / Neusalzer Weg - einstimmig beschlossen
+- TOP 22: Jugendfreizeiteinrichtung Gerresheimer Landstraße 89 - einstimmig beschlossen
+- TOP 23: Verkehrsregelung Eller Kamp - mehrheitlich beschlossen
+- TOP 24: Verkehrsregelung Vennhauser Allee - verwiesen
+- TOP 25: Fahrradstraßen Ludwigshafener Straße und Gatherweg - mehrheitlich beschlossen
+- TOP 26: Schulstandort Bernburger Straße - zurückgezogen
+- TOP 27: Gehweg Klein-Eller - einstimmig beschlossen
+- TOP 28: Verkehrsregelung Alt-Eller - einstimmig beschlossen
+- TOP 29: Citylight Heidelberger Straße / Karlsruher Straße - einstimmig beschlossen
+- TOP 30: Gestaltung Schlossallee - einstimmig beschlossen
+- TOP 31: Neubau Lore-Lorentz-Schule - einstimmig beschlossen
+- TOP 32: Fläche vor dem Gutshof Eller, Heidelberger Straße 30 - einstimmig beschlossen
+- TOP 33: Überplanung Posener Straße zwischen Oderstraße und Reisholzer Straße - einstimmig beschlossen
+- TOP 34: Straßenbeleuchtung Posener Straße zwischen Oderstraße und Reisholzer - einstimmig beschlossen
+- TOP 35: Verkehrsregelung An der Schützenwiese - verwiesen
+- TOP 36: Verkehrsschild "Achtung spielende Kinder" auf der Chemnitzer Straße - einstimmig beschlossen
+- TOP 37: Rechtsextremismus in Eller - einstimmig beschlossen
+- TOP 38: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 39: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: LKW - Routenkonzept im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Erhaltungssatzung Siedlung Freiheit - zur Kenntnis genommen
+- TOP 42: Kommission Erhaltungssatzungen - zur Kenntnis genommen
+- TOP 43: Friedhof Unterbach - zur Kenntnis genommen
+- TOP 44: Ersatzpflanzungen und Ausgleichsflächen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Grundstück An der Schützenwiese 40 - zur Kenntnis genommen
+- TOP 46: Bebauungsplanverfahren Am Kleinforst - zur Kenntnis genommen
+- TOP 47: Verkehrsregelung Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 48: Sitzgruppe Gertrudisplatz - zur Kenntnis genommen
+- TOP 49: Grünstreifen Kamper Weg 51/53 - zur Kenntnis genommen
