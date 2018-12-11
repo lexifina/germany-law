@@ -1,0 +1,62 @@
+# 33. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-11T15:35:00+01:00
+- Ende: 2018-12-11T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18665
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18665
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten im Kulturausschuss - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Gemeinsamer Dringlichkeitsantrag der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen, der Fraktion DIE LINKE. und der FDP-Fraktion betr.: "Fuhrwerkswaage Kunstraum" - ungeändert beschlossen
+- TOP 3.2: Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Änderung der Satzung des Heinrich – Böll – Preises" - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Bestellung eines Jury-Mitgliedes für die Vergabe der Förderstipendien der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, Teil 3 - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Finanzneutrale Umschichtung aus Institutioneller Förderung in Transferaufwendung - ungeändert empfohlen
+- TOP 4.4: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen 2018 - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung eines Kunstwerkes des Künstlers Wolfgang Tillmanns an das Museum Ludwig - ungeändert empfohlen
+- TOP 6.2: Annahme einer Schenkung eines Kunstwerkes des Künstlers Mike Kelley an das Museum Ludwig - ungeändert empfohlen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Ermäßigungen für Menschen mit Behinderung und ihre Begleitpersonen in städtischen Sportstätten, Kultur- und Bildungseinrichtungen - Kenntnis genommen
+- TOP 8.2: Präsentation "100 Jahre lenkbares Licht - Ursprung und Aktualität beweglicher Beleuchtung" - Kenntnis genommen
+- TOP 8.3: Fortführung des Werkstattverfahrens Hallen Kalk; Beauftragung einer Machbarkeitsstudie - Kenntnis genommen
+- TOP 8.4: Relief von Karl Hartung - Kenntnis genommen
+- TOP 8.5: Fotoausstellung zum Thema TRANS*GENDER im Stadthaus Deutz - Kenntnis genommen
+- TOP 8.6: Sachstände der Leitprojekte Dez. VII - Kenntnis genommen
+- TOP 8.7: Restaurierung Skulptur St. Severin - Kenntnis genommen
+- TOP 8.8: Bekentnis zum Kulturstandort Kalk - Weiterentwicklung der Halle 76 in Kalk als rechtsrheinischer Standort für das Museum Ludwig - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR-Jüdisches Museum im Archäologischen Quartier Köln
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 30.10.2018 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Sanierung der Zentralbibliothek - Stand 31.10.2018 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung der mündlichen Anfrage der SPD-Fraktion betr.: "Bahnhof Belvedere" - endgültig zurückgezogen
+- TOP 10.2: Beantwortung der Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" (AN/0960/2018) - Kenntnis genommen
+- TOP 10.3: Beantwortung einer mündlichen Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Heinrich Böll im Stadtraum sichtbar machen" - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfrage der SPD-Fraktion betr.: "Historisches Archiv" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betr. "Historisches Archiv" (AN/1581/2018) - Kenntnis genommen
+- TOP 11.4: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Theater am Sachsenring" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: "Theater am Sachsenring" - Kenntnis genommen
+- TOP 11.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.6: Anfrage der Ratsgruppe BUNT betr.: "Koloniale Raubkunst zurückgeben" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1575/2017 der Ratsgruppe BUNT betr.: „Koloniale Raubkunst zurückgeben“ - Kenntnis genommen
+- TOP 11.7: Anfrage der Ratsgruppe GUT betr.: "Kulturbaustein Heliosgelände – weiteres Vorgehen?" - zurückgestellt
+- TOP 12: Mündliche Anfragen
