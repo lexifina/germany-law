@@ -1,0 +1,87 @@
+# öffentliche/ nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-12-11T16:05:00+01:00
+- Ende: 2018-12-11T18:01:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12850
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12850
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 03.12.2018 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00229557.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00231252.pdf
+
+## Tagesordnung
+
+- TOP 1: Planung und Errichtung des Pina Bausch Zentrums - ungeändert beschlossen
+- TOP 1.1: Ergänzungsantrag der FDP-Fraktion im Rat der Stadt Wuppertal zum Durchführungsbeschluss „Planung und Errichtung des Pina Bausch Zentrums“ (VO/0776/18) - vertagt auf Rat
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2017 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss 2017 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2.2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2019 - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 3.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2019 - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 3.3: Wirtschaftsplan 2019 KIJU - Entgegennahme ohne Beschluss
+- TOP 3.4: Wirtschaftsplan 2019 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 3.5: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 3.6: Wirtschaftsplan der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 3.7: Wirtschaftsplan 2019 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.8: Wirtschaftsplan 2019 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 3.9: Wirtschaftsplan 2019 der Bergischen Gesellschaft für Ressourceneffizienz mbH (BGR) - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 4.1: Beteiligungsbericht 2017 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4.2: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2017 für die Einrichtungen "Olipla" und Vogelsangstraße - ungeändert beschlossen
+- TOP 4.3: Zustimmung der vom Landschaftsverband beschiedenen Ausbildungsumlage gem. Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2019 bis 31.12.2019 - ungeändert beschlossen
+- TOP 4.4: Änderung der Betriebssatzung ESW - ungeändert beschlossen
+- TOP 4.5: Abberufung und Bestellung der Betriebsleitung und stellvertretenden Betriebsleitung KIJU - Entgegennahme ohne Beschluss
+- TOP 4.6: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2017/2018 der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 4.7: Veränderungen im Beirat der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 4.8: Betrauung der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - Entgegennahme ohne Beschluss
+- TOP 4.9: Bestellung eines Abschlussprüfers für die Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 4.10: Umsetzung des Teilhabechancengesetzes - ungeändert beschlossen
+- TOP 4.11: Anhängiges Berufungsverfahren Stadt Wuppertal / Athletic Sport Sponsoring GmbH (ASS) - hier: Aspekt der Streitverkündung - vertagt auf Rat
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: Zukünftige Nutzung und Gestaltung des Carnaper Platzes - Entgegennahme ohne Beschluss
+- TOP 6.2: Entwicklung des Grundstückes Holthauser Straße - Entgegennahme ohne Beschluss
+- TOP 7: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 7.1: Grundlagenkonzept/städtebauliche Rahmenplanung "Machbarkeitsstudie Bundesgartenschau" - geändert beschlossen
+- TOP 7.2: Vorkaufssatzung Bundesgartenschau - Satzungsbeschluss - ungeändert beschlossen
+- TOP 7.3: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzone "Herzogstraße" - in der Sache erledigt
+- TOP 7.3.1: Ergänzende Unterlagen zur Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzone "Herzogstraße" - in der Sache erledigt
+- TOP 7.3.2: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzonen der "Herzogstraße" - ungeändert beschlossen
+- TOP 7.3.3: Prüfergebnis zur Erhaltung der Bestandsbäume auf dem Von-der-Heydt-Platz und der Herzogstraße - Entgegennahme ohne Beschluss
+- TOP 7.3.4: Mehr Grün in der Stadt: Bäume, Dachbegrünung und Grünflächen - vertagen
+- TOP 7.4: Rahmenkonzept des Bürgerbudgets 2019 - vertagen
+- TOP 7.5: Änderungen bei der Umsetzung der Gewinnerideen des Bürgerbudgets 2017 - ungeändert beschlossen
+- TOP 7.6: Satzung über die Festsetzung der Hebesätze - ungeändert beschlossen
+- TOP 7.7: Gebührensatzung zur Abfallwirtschaft 2019 - ungeändert beschlossen
+- TOP 7.8: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2019 - ungeändert beschlossen
+- TOP 7.9: Satzung über die Abweichung von den Merkmalen der endgültigen Herstellung für die Erschließungsanlage Rathenaustraße / Sonnabendstraße zwischen Huldastraße und dem Grundstück Sonnabendstraße 1 - vertagen
+- TOP 7.10: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie Obdachlose der Stadt Wuppertal (5. Änderungssatzung) - ungeändert beschlossen
+- TOP 7.11: Kein Kind ohne Schulmittagessen - Antrag der Fraktionen vom 27.11.2018 - vertagen
+- TOP 7.11.1: Änderungsantrag zu VO/1071/18 Kein Kind ohne Schulmittagessen - vertagen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 9: Berichtsvorlagen
+- TOP 9.1: Finco-Bericht zum 30.11.2018 - Entgegennahme ohne Beschluss
+- TOP 10: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10.1: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2017 - ungeändert beschlossen
+- TOP 10.2: Nachtragshaushaltsplan 2019 - ungeändert beschlossen
+- TOP 10.2.1: Nachtragsstellenplan 2019 - ungeändert beschlossen
+- TOP 11: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das III. Quartal 2018 - Entgegennahme ohne Beschluss
+- TOP 12.2: Veröffentlichung des Prüfvermerkes der Gemeindeprüfungsanstalt zum Jahresabschluss des Eigenbetriebes WAW für das Jahr 2017 - Entgegennahme ohne Beschluss
+- TOP 13: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13.1: Wirtschaftsplan 2019 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 13.2: 2. Satzung zur Änderung der Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.3: 6. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13.4: 12. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14: Berichte und Mitteilungen
