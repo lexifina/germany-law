@@ -1,0 +1,56 @@
+# Rat (34. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2018-12-11T18:00:00+01:00
+- Ende: 2018-12-11T21:25:00+01:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZX2kZ6KpGUwDlaum0kzbQrs
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/5686
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWImzrxk3A4bUyDi2ca9g-IZc7RWWf8ypYQ6-mL4Cw6U/Einladung_Rat_11.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRutgPSwDb0AD_a-VJTOtvXGZfHCdS_160O7FurkeRVm/Oeffentliche_Niederschrift_Rat_11.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: Neueinteilung der Schiedsamtsbezirke der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 7.: Neuwahlen der Schiedspersonen der Schiedsamtsbezirke Wesseling I und Wesseling II - Einstimmig, 0 EnthaltungenFrau von der Laage sowie Herr Schöneberger erklären, dass sie die Wahl annehmen.Herr Bürgermeister Esser gratuliert zur Wahl, dankt für die Bereitschaft zur Übernahme des Amtes und wünscht für die Tätigkeit viel Erfolg.
+- TOP 8.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2019/2020 und seiner Anlagen
+- TOP 8.1.: Haushaltsreden
+- TOP 8.2.: 2. Veränderungsnachweis und Feststellung der Budgets
+- TOP 8.3.: Zuwendungen zu den sächlichen und personellen Aufwendungen für die Geschäftsführung der Fraktionen 2019 - 34 Ja-Stimmen, 2 Nein-Stimmen, 2 Enthaltungen
+- TOP 8.4.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für die Wirtschaftsjahre 2019 und 2020 - Abstimmung erledigt durch Beschluss zu Top 8.2.
+- TOP 8.5.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für die Wirtschaftsjahre 2019 und 2020 - Abstimmung erledigt durch Beschluss zu Top 8.2.
+- TOP 8.6.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für die Wirtschaftsjahre 2019 und 2020 - Abstimmung erledigt durch Beschluss zu Top 8.2.
+- TOP 8.7.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für die Wirtschaftsjahre 2019 und 2020 - Abstimmung erledigt durch Beschluss zu Top 8.2.
+- TOP 8.8.: Entsorgungsbetriebe Wesseling hier: Wirtschaftsplan der Entsorgungsbetriebe Wesseling für das Wirtschaftsjahr 2019 - Einstimmung, 0 Enthaltungen 
+- TOP 8.9.: Einrichtung einer Jugendberufsagentur in Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 8.10.: Haushalt 2019/2020 Stellenplan
+- TOP 8.10.1.: Haushalt 2019/2020 Stellenplan - Einstimmig, 0 Enthaltungen
+- TOP 8.11.: Leitentscheidungen
+- TOP 8.12.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2019/2020
+- TOP 9.: Bestellung einer Kämmerin - Einstimmig, 0 EnthaltungenHerr Bürgermeister Esser gratuliert Frau Beloch zur Bestellung und wünscht für die Tätigkeit viel Erfolg. Frau Beloch bedankt sich für das entgegengebrachte Vertrauen.
+- TOP 10.: Festlegung der Geschäftskreise der Beigeordneten - Einstimmig, 0 Enthaltungen
+- TOP 11.: 9. Änderungssatzung zur Hundesteuersatzung - Einstimmig, 0 Enthaltungen
+- TOP 12.: Änderung der Satzung über die Benutzung der Stadtbücherei/Schulzentralbibliothek - Einstimmig, 0 Enthaltungen
+- TOP 13.: 7. Änderungssatzung über die Straßenreinigung und die Erhebung von Straßenreinigungsentgelten in der Stadt Wesseling (Straßenreinigungs- und Entgeltsatzung) - Einstimmig, 0 Enthaltungen 
+- TOP 14.: Prüfung des Jahresabschlusses der Stadt Wesseling zum 31.12.2017
+- TOP 15.: Entsorgungsbetriebe Wesseling hier: Feststellung des Jahresabschlusses 2017 und Entscheidung über die Gewinnverwendung - Einstimmig, 0 Enthaltungen
+- TOP 16.: 66. Änderung des Flächennutzungsplanes "Einzelhandel Berggeiststraße" hier: Feststellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: 1) Benennungen von Straßen 2) Umbenennung einer Teillänge einer Straße mit gleichzeitigem Wegfall einer weiteren Teillänge 3) Wegfall von Straßennamen - Einstimmig, 0 Enthaltungen
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.: Benennung von Mitgliedern und stellvertretenden Mitgliedern (Vertretungspool) für den Aufsichtsrat der Stadtwerke Wesseling GmbH - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bestellung von Vertretern der Stadt Wesseling - Einstimmig, 0 Enthaltungen
+- TOP 21.: Antrag der Fraktion Bündnis90/Die Grünen: Nachbesetzung im Schulausschuss - Einstimmig, 0 Enthaltungen
+- TOP 22.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 23.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Mitteilungen und Anfragen
+- TOP 2.: Presseveröffentlichungen
