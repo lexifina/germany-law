@@ -1,0 +1,167 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2018-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4671380
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4671380
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.4.: Umbesetzung in den Unterausschüssen
+- TOP 1.3.5.: Wahl eines neuen Kinderbeauftragten
+- TOP 1.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.1.1.: Jahresplanung 2019
+- TOP 2.1.2.: Abrechnung der Verwaltungskostenpauschale 2018
+- TOP 2.1.3.: Weitere Themen
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Nichtöffentlicher Teil
+- TOP 2.2.9.: Bauvorhaben Zamilastr. 12 (Bericht aus dem Treffen mit dem Planungsreferat)
+- TOP 2.2.10.: Osserstr. 46: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2.11.: Kopernikusstr. 6: Nutzungsänderung EG/ Kopernikusstr. 8: 2 Wohneinheiten zu 2 Büroeinheiten sowie Zusammenlegung zweier DG-Einheiten zu einer Wohnung über 2 Etagen
+- TOP 2.2.12.: Mühlbaurstraße 1: Erweiterung einer DG-Wohnung durch Ausbau der 2. Dachebene, Anbau zweier Balkonanlagen und einer Notleiteranlage; Nutzungsänderungen: Hausmeisterwohnung (UG) und 3 Wohnungen (2. OG) zu Büroräume (3. OG) zu Wohnen
+- TOP 2.2.13.: Holbeinstraße 34: Vergrößerung zweier Dachgauben, Kelleranbau eines Mülltonnenunterfluraufzugs sowie Anbau von 6 hofseitigen Balkonen
+- TOP 2.2.14.: Possartstraße 33: Nutzungsänderung eines Gewerbegebäudes zu einem tagesklinischen Funktionsgebäude einer HNO-Klinik
+- TOP 2.2.15.: Max-Proebstl-Str. 12: Antrag des Staatlichen Bauamts München 1 vom 17.09.2018 auf Erteilung der Zustimmung nach Art. 73 BayBO zur unbefristeten Nutzung der Gemeinschaftsunterkünfte für Asylbewerber auf dem Grundstück
+- TOP 2.2.16.: Gustav-Freytag-Str. 2: Neubau eines Wohnhauses mit Tiefgarage - Vorbescheid
+- TOP 2.2.17.: Stargarder Str. 7a: Neubau eines Einfamilienhauses - Tektur
+- TOP 2.2.18.: Königsberger Str.: Neubau von 4 Doppelhäusern mit Tiefgarage
+- TOP 2.2.19.: Kunihofstr. 7: Neubau zweier Wohngebäude (20 WE) mit gemeinsamer Tiefgarage im UG - Vorbescheid
+- TOP 2.2.20.: Spervogelstr. 10: Neubau eines Wohnhauses - Vorbescheid
+- TOP 2.2.21.: Weltenburgerstr. 53: Neubau einer Dreifachsporthalle mit Parkdeck sowie Sanierung und Erweiterung der Bestandssportstätten und Freisportanlagen
+- TOP 2.2.22.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.23.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.24.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 1.3.1.: Protokoll der Sitzung vom 13.11.2018
+- TOP 1.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.: Schaffung einer Einrichtung für Kindergarten- und Grundschulkinder - Präsentation durch die Elterninitiative „Naturkinder Prinz-Eugen-Park“
+- TOP 2.2.3.: Prinz-Eugen-Park: Bewohnerwünsche zur Freiflächenplanung - Präsentation durch den "Arbeitskreis Natur & Ökologie"
+- TOP 2.2.4.: Kapelle im Prinz-Eugen-Park; Bürgeranliegen vom 13.11.2018 Bericht des Ortstermins vom 22.11.2018
+- TOP 2.2.5.: Erstellung eines Verkehrsgutachtens aus Mitteln der Bezirksausschüsse; BA-Antrags-Nummer: 14-20 / B 05198 vom 31.07.2018
+- TOP 2.2.6.: "Griechische Schule" an der Hachinger-Bach-Straße unverzüglich beenden und ein Ersatzgrundstück (evtl. vom BA 13) zur Verfügung zu stellen; Antrag der CSU-Fraktion des BA 14
+- TOP 2.2.7.: Baumfällung in der Traberstraße 4; Bürgeranliegen vom 16.10.2018
+- TOP 2.2.8.: Glücksburger Str. 1: Erhalt des Gartencenters Reim; Bürgeranliegen vom 19.11.2018
+- TOP 2.3.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 13 Bogenhausen Widmung einer Teilstrecke der Tarnowitzer Straße
+- TOP 2.3.2.: Eggenfeldener Str. / Schwarzwaldstr. - Bushaltestelle "Schwarzwaldstr.": Antrag für eine Zeitungsentnahmegerät; Beschluss des Bezirksausschusses des Stadtbezirkes 13 vom 13.11.2018
+- TOP 2.3.3.: Törringstraße (zwischen Montgelassstraße und Ismaninger Straße): Fahrbahnsanierung (Erinnerungsverfahren); Anhörung des Baureferats vom 14.11.2018
+- TOP 2.3.4.: Neuberghauser Straße / Weberstraße: Klinkersanierung (Erinnerungsverfahren, Gehwegsanierung); Anhörung des Baureferats vom 14.11.2018
+- TOP 2.3.5.: Tarnowitzer Straße – südlich Ratiborstraße und Wendehammer: Anordnung "Absolutes Haltverbot" mit Zusatz "Feuerwehranfahrtszone"; Unterrichtung des Kreisverwaltungsreferats vom 21.11.2018
+- TOP 2.3.6.: Einrichtung einer Kurzparkzone in der Brucknerstraße; Anhörung des Kreisverwaltungsreferats vom 13.11.2018
+- TOP 2.3.7.: Robert-Heger-Straße 11: Stellplätze vor der Kita (TOP 2.3.9 vom 13.03.2018); Rückmeldung des Kreisverwaltungsreferats vom 07.11.2018
+- TOP 2.3.8.: "Wann kommt die Fahrradstraße Bogenhausen-Haidhausen?" BA-Antrags-Nr. 14-20 / B 02494 des BA 13 vom 07.06.2018 Antwortschreiben des Kreisverwaltungsreferats vom 22.11.2018
+- TOP 2.3.9.: Radfahren endlich sicherer machen; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 25.11.2018
+- TOP 2.3.10.: Neu ausgewiesene Feuerwehrzufahrt an der Richard-Strauß-Straße 1-5; Antrag der FDP-Fraktion vom 13.11.2018
+- TOP 2.3.11.: Verbesserung der Verkehrslage an der Kreuzung Denninger Str. mit Vollmann-/Weltenburger Str.; Bürgeranliegen vom 12.10.2018 (vertagt am 13.11.2018, TOP 2.3.11)
+- TOP 2.3.12.: Überdachung der Bushaltestelle Hermann-Gmeiner-Weg Richtung Daglfing - Buslinie 183; Bürgeranliegen vom 29.10.2018 (vertagt am 13.11.2018, TOP 2.3.17)
+- TOP 2.3.13.: Lärmbelästigung am Mittleren Ring (Flüsterasphalt oder transparente Lärmschutzwand); Bürgeranliegen vom 06.11.2018
+- TOP 2.3.14.: Kirchenweg / Muspillistr. 18: Tägliches Parken auf dem Kirchenweg; Bürgeranliegen vom 13.11.2018
+- TOP 2.3.15.: Verbesserung der Radwege an der Eggenfeldener Straße; Bürgeranliegen vom 15.11.2018
+- TOP 2.3.16.: Verbot von geparkten Wohnmobilen am Posener Platz/gefährliche Situation an der Kreuzung Marienburger-/Fritz-Lutz-Straße mit der Daglfinger Straße; Bürgeranliegen vom 30.10.2018
+- TOP 2.3.17.: Denninger Str./Donaustr. und Richard-Strauss-Str./Newtonstr.: Einführung eines Anwohner-Parkbereich; Bürgeranliegen vom 31.10.2018
+- TOP 2.3.18.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.19.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget Freiwillige Feuerwehr Oberföhring gegr. 1870 e.V. Anschaffung von Übungsmaterial 5.948,25€; Az.: 0262.0-13-0188
+- TOP 2.4.2.: (E) Stadtbezirksbudget brennt! GmbH Hörgang 2019 im September 2019 10.000,00€; 0262.0-13-0189
+- TOP 2.4.3.: Zuwendung aus dem Budget der Bezirksausschüsse Antrag des Vereins Malteser Hilfsdienst e.V. Anschaffung eines Mehrzweckfahrzeuges Bitte um Verlängerung des Bewilligungszeitraums bis 30.06.2019 aufgrund der Lieferzeit des Fahrzeuges (vertagt am 13.11.2018, TOP 2.4.1)
+- TOP 2.4.4.: Bereitstellung nicht verbrauchter Mittel aus dem Vorjahren; Unterrichtung des Direktoriums vom 28.09.2018 (vertagt am 13.11.2018, TOP 2.4.2)
+- TOP 2.4.5.: Überprüfung, sowie neue sinnvolle, ergonomische Einteilung des Wahlgebietes je Wahllokal; Bürgeranliegen vom 17.10.2018 (vertagt am 13.11.2018, TOP 2.4.3)
+- TOP 2.4.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.7.: Verschiedenes, Termine
+- TOP 2.5.1.: Planung der Einsätze der Münchner SommerSpielAktion 2019; Anhörung des "Spielen in der Stadt e.V." vom 16.10.2018; (vertagt am 13.11.2018, TOP 2.5.1)
+- TOP 2.5.2.: Erneuerungen an der Bezirkssportanlage Englschalking; Antrag der FDP-Fraktion vom 14.11.2018
+- TOP 2.5.3.: Modernisierung der Freisportanlagen an der Bezirkssportanlage Fritz-Lutz-Str. 23; Unterrichtung des Referates für Bildung und Sport (vertagt am 13.11.2018, TOP 2.5.2)
+- TOP 2.5.4.: Bezirkssportanlage Fritz-Lutz-Straße: Problematischer Zustand (u. a. Personal); Bürgeranliegen vom 13.11.2018
+- TOP 2.5.5.: Max-Proebstl-Str. 4: Abbau der Leichtbauhalle; Rückmeldung des Sozialreferats vom 19.11.2018
+- TOP 2.5.6.: Stadtteilbibliothek Bogenhausen, Rückgabe der Encyclopaedia Britannica; Bürgeranliegen vom 16.08.2018 (vertagt am 11.09.2018, TOP 2.5.4); Antwortschreiben des Kulturreferats vom 14.09.2018
+- TOP 2.5.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.8.: Konkrete umsetzbare Hilfe für den FC RW Oberföhring; Antrag der CSU-Fraktion vom 04.12.2018
+- TOP 2.5.9.: Verschiedenes, Termine
+- TOP 2.6.1.: Prinz-Eugen-Park: Bewohnerwünsche zur Freiflächenplanung - Präsentation durch den "Arbeitskreis Natur & Ökologie"
+- TOP 2.6.2.: Baumfällungen (Anhörungen): Stradellastraße: Baumbestandsplan (Behandlung unter 2.6.1) Eugen-Jochum-Straße: Baumbestandsplan (Behandlung unter 2.6.1) Traberstr. 4: lt. Plan Seidleinweg 12: lt. Plan Daglfinger Str. 67: lt Plan Lohengrinstr. 30: lt. Plan Englschalkinger Str. 203: lt. Plan Spervogelstr. 10: lt. Plan Dominikstr. 17: lt. Plan Marienburger Str. 40: lt. Plan Denninger Str. 96: lt. Plan Graudenzer Str. 11: lt. Plan Agnes-Miegel-Str. 7: 1 Kiefer Fritz-Meyer-Weg 27 - 49: 1 Baum Gertrud-von-Le-Fort-Weg 15: mehrere Bäume Redwitzstr. 10: 1 Spitzahorn, 1 Gemeine Esche, 1 Silber-Weide Stuntzstr. 11 - 15: 3 Pappeln Buschingstr. 1- 47: 1 Spitzahorn, 1 Haselnuss, 1 Robinie, 2 Birken, 1 Kastanie Beblostr. 24 - 32: 4 Steinzypressen Brahmsstr. 17: 2 Weiden Buschingstr. 49 - 63: 3 Birken Flemingstr. 148a: 2 Bäume Putziger Str. 45: 1 Gebirgslärche Mauerkircherstr. 88a: 1 Esche, 1 Ahorn Johannes-Neuhäusler-Straße: 1 Robine Veit-Pogner-Str. 36: 1 zweistämmiger Ahorn, 1 Birke Mauerkircherstr. 175-197: 2 Eschen Bürgerstr. 8: 1 Fichte LSG Isarauen: 34 Bäume Pienzenauerstr. 132: 1 Trauerweide Englschalkinger Str. 263: 3 Robinien Cuvilliésstr. 23: 1 Kiefer Königsberger Str. 8: 1 Kirschpflaume Grellstr. 34: 1 Küstenmammutbaum Oberschlesische Str. 2: 5 Fichten Effnerstr. 17: 1 Lebensbaum
+- TOP 2.6.3.: Baumfällungen (Unterrichtungen): Agnes-Miegel-Str. 7 (lt. Bescheid), Meistersingerstr. 154 (lt. Bescheid), Engelschalkinger Str. 229 (lt. Bescheid), Elbestr. 2 (lt. Bescheid), Steinhauser Str. 31 (lt. Bescheid), Steinhauser Str. 33 (lt. Bescheid), Freischützstr. 23 (Gefahrenbaum)
+- TOP 2.6.4.: Zukünftige Regelung für Baumfällungen (z. B. Anzahl der Bäume, Stammumfang)
+- TOP 2.6.5.: Schutz der Singvogelpopulation in Bogenhausen stärken; Antwortschreiben des Baureferats vom 16.11.2018
+- TOP 2.6.6.: Vogelschutz in Bogenhausen: Konkrete Maßnahmen; Antwortschreiben des Baureferats vom 16.11.2018
+- TOP 2.6.7.: Fachtagung Vogelschutz in Bogenhausen
+- TOP 2.6.8.: Muspillistraße/Kirchenweg: Baumbestand (4 Buchen) auf der Grünfläche; Bürgeranliegen vom 13.11.2018
+- TOP 2.6.9.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.10.: Verschiedenes, Termine
+- TOP 3.2.1.: Neuplanung der Gemeinschaftsunterkunft Max Pröbstl-Str. 12; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 06.12.2018
+- TOP 5.1.: Veranstaltung auf öffentlichem Verkehrsgrund Hier: Faschingszug Gaudiwurm am 03.03.2019; Start: Kirchplatz Johanneskirchen; Anhörung des Kreisverwaltungsreferats vom 05.12.2018
+- TOP 6.1.: Normannenplatz: Blockade parkende Fahrzeuge
+- TOP 6.2.: Antrag auf Veröffentlichung der Fahrgastzahlen der MVG
+- TOP 6.3.: Veröffentlichung der Fahrgastzahlen der Trambahn-Linien 16 und 18
+- TOP 6.4.: Errichtung eines Fußgängerübergangs in der Ismaninger Straße (Höhe Trambahnhaltestelle Holbeinstraße)
+- TOP 6.5.: Installation von Sitzbänken an verschiedenen Standorten; Antrag der CSU-Fraktion vom 19.09.2018
+- TOP 6.6.: Möhlstr. 37: Nutzungsänderung DG: Büro zu Wohnen (ohne bauliche Veränderung in der Wohnung) - Anbringung einer ausklappbaren Notleiter; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 31.10.2018
+- TOP 6.7.: Sachstandabfrage: Ausbau des Föhringer Rings - Erneuerung der Herzog-Heinrich-Brücke
+- TOP 6.8.: Errichtung von E-Ladesäulen am Ende des vorhandenen Taxistandes in der Mauerkircher Straße
+- TOP 6.9.: Weitere Nutzung des Bauplatzes neben ALDI in der Cosimastraße
+- TOP 6.10.: Weitere Nutzung der ehemaligen Schreiber-Klinik
+- TOP 6.11.: Anfrage bezüglich einer Neubebauung des Grundstücks Denninger Straße 96; Antwortscheiben vom Referat für Stadtplanung und Bauordnung vom 16.11.2018
+- TOP 6.12.: Bepflanzung der Stützwände an der südlichen Auffahrtsrampe vom Isarring zum Effnerplatz
+- TOP 6.13.: Verunreinigungen durch Hunde und Tauben in der Elektrastr. 9c
+- TOP 7.1.1.: BA-Informationsschreiben 04/2018 - Technikpauschale, Update der Kooperationsplattform "Alfresco"
+- TOP 7.1.2.: Stadtbezirksbudget - Information zur weiteren Umsetzung und Stellenbesetzung
+- TOP 7.2.1.: Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättengewerbes: Rennbahngaststätte im Tribünenhaus I, Rennbahnstr. 35
+- TOP 7.7.1.: (U) A) Beabsichtigte Überplanung des Bereichs Richard Strauss-Straße (östlich) (Grundstück Fl.Nr. 214/17) - Teiländerung des Bebauungsplans Nr. 1325 - B) Durchführung eines städtebaulichen und landschaftsplanerischen Realisierungswettbewerbes C) Weiteres Vorgehen - Eckdatenbeschluss - Stadtbezirk 13 - Bogenhausen
+- TOP 7.7.2.: (U) Ensembles ehemaliger Dorfkerne im Sinne des Denkmalschutzgesetzes; Ergebnis der abschließenden Beurteilung durch den Landesdenkmalrat
+- TOP 7.7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: Stargarder Str. 12
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch: Johanneskirchner Str. 12 + 14
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch: Dirschauer Str. 11b
+- TOP 7.9.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 7.9.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.9.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 7.9.7.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 7.11.1.: Entwurf des Mehrjahresinvestitionsprogramms 2018 - 2022; Unterrichtung der Stadtkämmerei vom 16.11.2018
+- TOP 7.12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12.2.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022
+- TOP 7.12.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12.4.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022 Sitzungsvorlage Nr. 14-20/V 12596
+- TOP 7.13.1.: Maßnahmen zum Fahrplanwechsel 2018; Unterrichtung der MVG vom 14.11.2018
+- TOP 9: Nichtöffentlicher Teil
