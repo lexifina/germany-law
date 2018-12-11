@@ -1,0 +1,8 @@
+# TOP 7: Erweiterungsneubau Franz-Jürgens-Berufskolleg, Redinghovenstr. 20
+
+- Sitzung: Bezirksvertretung 3 (2018-12-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/223246
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/94791
