@@ -1,0 +1,65 @@
+# Rat (32. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2018-12-11T18:00:00+01:00
+- Ende: 2018-12-11T20:25:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZaTOh643E8OAi0cPZMvhuHE
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19786
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMTxGEjrrPk05EVfBGiRUBWss3e7iW8sKg7Ti5whXax/Bekanntmachung_Rat_11.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbzqSRLokdjgUCUvlZzp27gpMTbFbbqS9AX4kalwucB/Oeffentliche_Niederschrift_Rat_11.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 1.1: Regelung der Nachfolge für eine ausgeschiedene Stadtverordnete
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 20.11.2018 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Neubesetzung von Ausschüssen hier: Antrag der CDU-Fraktion vom 27.11.2018 - Einstimmiger Beschluss:Hier wirkt die Bürgermeisterin gemäß § 40 Abs. 2 Satz 6 i. V. m. § 50 Abs. 3 GO NRW nicht mit.
+- TOP 5.: Einrichtung eines Energiebeirates mit der Kreis-Energie-Versorgung Schleiden GmbH; hier: Nachbesetzung - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 6.: Bestimmung von stimmberechtigten Vertretern der Stadt Bad Münstereifel für den Nordrhein-Westfälischen Städte- und Gemeindebund (StGB NRW) hier: Nachbesetzung - Einstimmiger Beschluss:
+- TOP 7.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG; hier: Anpassung der Beteiligungsstrukturen der Energie Nordeifel - Beschluss mit 22 Ja- und 7 Nein-Stimmen sowie 1 Enthaltung:
+- TOP 8.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG - Fusionsvorhaben der Energie Nordeifel und der e-regio; hier: Grundsatzbeschluss - Beschluss mit 21 Ja- und 7 Nein-Stimmen sowie 2 Enthaltungen:
+- TOP 9.: Satzung der Stadt Bad Münstereifel über die Festsetzung der Hebesätze für die Realsteuern des Haushaltsjahres 2019 (Hebesatzsatzung) - Beschluss mit 22 Ja- und 8 Nein-Stimmen:
+- TOP 10.: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW -   
+- TOP -: Festlegung der Anzahl der Eingangsklassen an Grundschulen und deren Verteilung auf (Teil-)Standorte gemäß § 46 Abs. 3 SchulG NRW - Einstimmiger Beschluss:
+- TOP 11.: Bebauungsplan Nr. 2 "Otterbach" - 2. vereinfachte Änderung hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse  (= Anlage 1 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 12.: 31. Änderung des Flächennutzungsplanes "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss -   
+- TOP -: 31. Änderung des Flächennutzungsplanes "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss -   
+- TOP -: 31. Änderung des Flächennutzungsplanes "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss -   
+- TOP -: 31. Änderung des Flächennutzungsplanes "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Die Abwägungsbeschlüsse (= Anlage 2 der Originalniederschrift) erfolgen alle einstimig.
+- TOP 13.: Bebauungsplan Nr. 90 "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss -    
+- TOP -: Bebauungsplan Nr. 90 "Neubau Zimmerei Outlet Store" hier: Aufstellungs-, Entwurfs- und Offenlagebeschluss - Einstimmiger Beschluss:
+- TOP 14.: Fortschreibung des Einzelhandels- und Zentrenkonzepts der Stadt Bad Münstereifel -   
+- TOP -: Fortschreibung des Einzelhandels- und Zentrenkonzepts der Stadt Bad Münstereifel - Einstimmiger  Beschluss mit 1 Enthaltung:
+- TOP 15.: Mitgliedschaft in der Arbeitsgemeinschaft Deutsche Fachwerkstädte e.V. - Einstimmiger Beschluss:
+- TOP 16.: Städtebauförderung und soziale Integration im Quartier 2019; hier: Beteiligung der Stadt Bad Münstereifel - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 17.: Satzung der Stadt Bad Münstereifel über die Einbeziehung von Außenbereichsflächen in den im Zusammenhang bebauten Ortsteil Eicherscheid - Bereich Kohlstraße (Ergänzungssatzung) hier: Abwägungsbeschlüsse und Satzungsbeschluss - Die Abwägungsbeschlüsse (= Anlage 3 der Originalniederschrift) erfolgen alle einstimmig.
+- TOP 18.: Satzung über die förmliche Festlegung eines Sanierungsgebietes in der Kernstadt Bad Münstereifel (Sanierungssatzung) hier: Erweiterung des Sanierungsgebietes - Einstimmiger Beschluss:
+- TOP 19.: Satzung der Stadt Bad Münstereifel für die Ablösung der Stellplatzverpflichtung gemäß § 47 der Bauordnung für das Land Nordrhein-Westfalen - Stellplatzsatzung - vom 29.03.1985 hier: Anpassung an gesetzliche Vorgaben ab dem 01.01.2019 - Einstimmiger Beschluss:
+- TOP 20.: 1. Änderung zur Nutzungsordnung für den FriedWald Bad Münstereifel vom 07.03.2006 - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 21.: Anfragen und Mitteilungen
+- TOP 21.1: Terminplan für die Sitzungen des Rates und seiner Ausschüsse für das Jahr 2019
+- TOP 21.2: Wirtschaftliche Beteiligung der Stadt Bad Münstereifel an der Errichtung und dem Betrieb eines Wohnmobilparks
+- TOP 21.3: Praxisaufgabe und drohender Leerstand der Arztpraxis in Bad Münstereifel-Houverath
+- TOP 21.4: Typisierungsaktion Max Rieke
+- TOP 21.5: Klimaschutz und Klimaschutzmanager hier: Sachstand
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Wandteppich (Tapisserie) aus dem historischen Ratssaal - Einstimmiger Beschluss mit 1 Enthaltung:
+- TOP 2.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG - Fusionsvorhaben der Energie Nordeifel und der e-regio; hier: Zustimmung zum Projekt - Beschluss mit 21 Ja- und 7 Nein-Stimmen sowie 2 Enthaltungen:
+- TOP 3.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Abschluss eines Erbbaurechtsvertrages - Einstimmiger Beschluss:
+- TOP 4.: Errichtung eines kombinierten Wohnmobil-/Campingplatzes; hier: Herrichtung des Grundstücks - Beschluss mit 28 Ja- Stimmen und 1 Nein-Stimme sowie 1 Enthaltung:
+- TOP 5.: Grundstücksangelegenheiten; Veräußerung eines städtischen Grundstücks in der Kölner Straße -     
+- TOP -: Grundstücksangelegenheiten; Veräußerung eines städtischen Grundstücks in der Kölner Straße - Einstimmiger Beschluss:
+- TOP 6.: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Vertragliche Aktualisierung -    
+- TOP -: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Abgeltung von Personalkosten zu Gunsten des Betreibervereins Mutscheid - Beschluss mit 14 Ja- und 7 Nein-Stimmen sowie 3 Enthaltungen:
+- TOP 7.: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Schreiben des Betreibervereins Sport- und Mehrzweckhalle Houverath vom 26.11.2018 - Beschluss mit 18 Ja- und 3 Nein-Stimmen sowie 2 Enthaltungen:
+- TOP 8.: Erweiterung der Grundschule Arloff hier : Auftragsvergabe der Rohbauarbeiten - Einstimmiger Beschluss:
+- TOP 9.: Entwicklungsbereich Schleidpark hier: Kostenübernahme/Pacht - Einstimmiger Beschluss:
+- TOP 10.: Anfragen und Mitteilungen
+- TOP 10.1: Neuer Internetauftritt der Stadt Bad Münstereifel
+- TOP 10.2: Schadstoffgutachten für Abbruchgenehmigung Umkleidegebäude Arloff hier: Anfrage des Stadtverordneten Martin Mehrens zum Sachstand
