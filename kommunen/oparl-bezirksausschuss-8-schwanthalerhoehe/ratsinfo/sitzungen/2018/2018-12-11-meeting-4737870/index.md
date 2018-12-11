@@ -1,0 +1,72 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2018-12-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4737870
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4737870
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Verkehrssituation südlich des Bavariaparks
+- TOP 4.2.: Parksituation Gollierstraße
+- TOP 4.3.: Hundeverbot für Kazmairwiese
+- TOP 5.1.: BA-Sitzungstermine 2019
+- TOP 6.1.1.: Sondernutzung - Verkaufseinrichtung Kazmairstraße 33
+- TOP 6.1.2.: Sondernutzung - Verkaufseinrichtung Gollierstraße 30
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Baustelleneinrichtung Schießstättstraße 10 - Grünfläche
+- TOP 6.3.3.: Gaststättenfortführung Schwanthalerstraße 148
+- TOP 6.3.4.: Gaststättenfortführung Kazmairstraße 31
+- TOP 6.3.5.: Gaststättenfortführung Heimeranstraße 61
+- TOP 6.3.6.: "Haus mit der roten Fahne" - Tulbeckstraße 4f Rgb. - Antwortschreiben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Zusätzliche Fördermittel zur Schaffung von Hortplätzen BV-Empfehlung Nr. 2048 vom 19.06.2018
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Münchner Schäfflertanz 2019
+- TOP 7.3.2.: Umzug der Kita Kazmairstraße 89 in die Hans-Thonauer-Straße 3e
+- TOP 7.3.3.: Kooperative Ganztagesbildung
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Baumfällung Tulbeckstraße 28a
+- TOP 8.2.2.: Baumfällung Tulbeckstraße 34 - 36
+- TOP 8.2.3.: Baumfällung Westendstraße 1
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: MVG - Maßnahmen zum Fahrplanwechssel
+- TOP 8.3.2.: MVG - Änderung des stv. BA-Ansprechpartners
+- TOP 8.3.3.: Ausnahmegenehmigung Wochenmarkt am Georg-Freundofer-Platz
+- TOP 8.3.4.: BA 01 - Rahmenplanung innerstädtischer Isarraum
+- TOP 8.3.5.: Fällung von Gefahrenbäumen im öffentlichen Raum
+- TOP 8.3.6.: Erhöhtes Verkehrsaufkommen durch neues Einkaufszentrum "Forum Schwanthalerhöhe" - BV-Empfehlung Nr. 1453 vom 27.04.2017
+- TOP 8.3.7.: Anliegerinformation Stromprojekt Gollierstraße
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksvorlage Initiative "Jane Eyre" Bühnenfassung von "Jane Eyre" im Theater Mathilde Westend 2.183,50€ Az.: 0262.0-8-0157
+- TOP 9.1.2.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 12.12.2018 - 12.01.2019 1.025,00€ Az.: 0262.0-8-0163
+- TOP 9.1.3.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Die blaue Giraffe e.V. Anschaffung Holzspielhaus 3.016,55€ Az.: 0262.0-8-0165
+- TOP 9.1.4.: (E) Stadtbezirksbudget Strandkorb. Laden für neue Perspektiven Konzert und Lesung "Vollmondspecial" am 16.07.2018 480,00€; Az.: 0262.0-8-0169
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022
+- TOP 9.3.2.: Stadtbezirksbudget; Information zur weiteren Umsetzung und Stellenbesetzung
+- TOP 10.1.: Haltverbot aufheben - Ligsalz-/Schwanthalerstraße
+- TOP 11.1.: Technikpauschale; Update der Kooperationsplattform
