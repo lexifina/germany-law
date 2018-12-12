@@ -1,0 +1,73 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2018-12-12T17:00:00+01:00
+- Ende: 2018-12-12T17:50:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=3814
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=3814
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 14.11.2018 (öffentlicher Teil)
+- TOP 4: Präzisierung des Straßenbeleuchtungsvertrags zwischen Stadt Aachen und STAWAG vom 23.12.1997 - ungeändert beschlossen
+- TOP 5: Anpassung des Betriebsführungsvertrages Abwasserbeseitigung - ungeändert beschlossen
+- TOP 6: 18. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 7: 21. Nachtrag zur Gebührensatzung zur Entwässerungssatzung der Stadt Aachen Hier: notwendige Anpassung der Gebührenhöhe - ungeändert beschlossen
+- TOP 8: Neue Stellplatzsatzung zum 01.01.2019
+- TOP 8.1: Neue Stellplatzsatzung zum 01.01.2019 - geändert beschlossen
+- TOP 9: Bericht der PKF Fasselt Schlage Partnerschaft mbB Wirtschaftsprüfungsgesellschaft über den Jahresabschluss zum 31.12.2017 und Lagebericht für das Wirtschaftsjahr 2017 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen sowie Entlastung der Betriebsleitung und des Betriebsausschusses für die Jahre 2016 und 2017 - ungeändert beschlossen
+- TOP 10: Wirtschaftsplan 2019 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 11: Neufassung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs - Gebührensatzung) - ungeändert beschlossen
+- TOP 12: 4. Nachtragssatzung zur Abfallgebührensatzung der Stadt Aachen einschließlich der Gebührenkalkulation - ungeändert beschlossen
+- TOP 13: Friedhofsgebühren der Stadt Aachen; Gebührenbedarfsberechnung 2019 - ungeändert beschlossen
+- TOP 14: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2017 - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan 2019 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 16: Suermondt-Ludwig-MuseumErneuerung der Klimatechnik und hiermit verbundene UmbaumaßnahmenAntrag der Fraktion GRÜNE vom 30.10.2018 - ungeändert beschlossen
+- TOP 17: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2019 - vertagt
+- TOP 18: Ausstellungsvorhaben Dürer/Karl V/ Künstlerreisen im Jahre 2020 - ungeändert beschlossen
+- TOP 19: Jahresabschluss 2017 Eurogress - ungeändert beschlossen
+- TOP 20: Wirtschaftsplan Eurogress Aachen 2019 - ungeändert beschlossen
+- TOP 21: Änderung der Rechnungsprüfungsordnung - ungeändert beschlossen
+- TOP 22: Quartalsberichterstattung: Programm "Gute Schule 2020" - ungeändert beschlossen
+- TOP 23: Erhaltungszertifikat „Audit familiengerechte Kommune“ - ungeändert beschlossen
+- TOP 24: Annahme einer Schenkung des Fördervereins der KGS Verlautenheide - ungeändert beschlossen
+- TOP 25: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 25.1: Über- und außerplanmäßige Aufwendungen / Auszahlungen und Verpflichtungsermächtigungen Haushaltsjahr 2018Verkehrserschließung "Alter Tivoli" und Umfeld - ungeändert beschlossen
+- TOP 25.2: Aufwertung der Park- und Grünanlage Nirmer Platzhier: Bereitstellung überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 25.3: Aufwertung Eingangsbereich Schloss-Schönau-Park - ungeändert beschlossen
+- TOP 25.4: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen, Haushaltsjahr 2018, Produkt 021501 Brandbekämpfung, Ersatzbeschaffung eines Kommandowagens - ungeändert beschlossen
+- TOP 25.5: Modernisierung Freibad Hangeweiher - Hochbauten -- Bereitstellung überplanmäßiger Haushaltsmittel - ungeändert beschlossen
+- TOP 25.6: Anti-Terror-Sperren Pfalzbezirk, hier: Genehmigung überplanmäßiger Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - ungeändert beschlossen
+- TOP 26: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Brand im Bereich Starenweg - ungeändert beschlossen
+- TOP 27: Änderung Nr. 144 des Flächennutzungsplanes 1980 und Bebauungsplan Nr. 978 - Niederforstbacher Straße/ Beckerstraße - für den Planbereich im Stadtbezirk Aachen-Brand zwischen Niederforstbacher Straße, Zehntweg, Im Kollenbruch und Vennbahntrassehier: Änderungsbeschluss/ Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 28: Bebauungsplan Nr. 974 - Kornelimünster West/August-Macke-Straße - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/ Walheim zwischen Schleckheimer Straße und August-Macke-Straßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - vertagt
+- TOP 29: Jahresabschluss zum 31. 12. 2017 und Lagebericht 2017 der Volkshochschule Aachen - ungeändert beschlossen
+- TOP 30: Entwurf Wirtschaftsplan 2019 der Volkshochschule Aacheneinschließlich mittelfristige Ergebnis- und Finanzplanung 2019 bis 2023 - ungeändert beschlossen
+- TOP 31: Verlegung von Stolpersteinen Volkshochschule AachenProjekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 32: Anfragen:
+- TOP 32.1: Ratsanfragen - ungeändert beschlossen
+- TOP 32.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 33: Ratsanträge - ungeändert beschlossen
+- TOP 34: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 34.1: Umbesetzungen in Aufsichtsräten - ungeändert beschlossen
+- TOP 34.2: Umbesetzungen in Aufsichtsräten - hier: AWA Entsorgung GmbH und MVA Weisweiler GmbH & Co. KG - ungeändert beschlossen
+- TOP 34.3: Umbesetzungsantrag der SPD-Fraktion vom 27.11.2018 - ungeändert beschlossen
+- TOP 34.4: Umbesetzungsantrag der GRÜNE-Fraktion vom 10.12.2018 - ungeändert beschlossen
+- TOP 35: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
