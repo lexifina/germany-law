@@ -1,0 +1,85 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2018-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5033910
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5033910
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018 - 2022 - Informationsschreiben
+- TOP 4.2.1.: Rose-Pichler-Weg 48 - Parkplatzbeleuchtung
+- TOP 4.2.2.: Planung der Begrünung von städtischen Gebäuden und Bauwerken im 11. Stadtbezirk
+- TOP 4.3.1.: Straßenbeschilderung am Dominikusplatz - Anbringen eines erklärenden Zusatzschildes
+- TOP 4.3.2.: Mögliche Grundschulstandorte für die Kooperative Ganztagsbildung 2019/2020 - Info-Schreiben
+- TOP 4.4.1.: Verbesserung der Verkehrssicherheit an der Kreuzung Schleißheimer Str. / Moosacher Str. - BA-Antrag Nr. 14-20 / B 04989 – Sachstandsmeldung
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Pfarrei Frieden Christi Ökumenischer Frauentag am 10.11.2018 200,00€ Az.: 0262.0-11-0299
+- TOP 6.1.2.: (E) Stadtbezirksbudget Singidunum-Chor e.V. München Konzert mit Lesungen am 14.12.2018 967,50€; Az.: 0262.0-11-0304
+- TOP 6.1.3.: (E) Stadtbezirksbudget Elternbeirat der Grundschule am Hildegard-von-Bingen-Anger Nikolaus- und Krampusbesuch am 06.12.2018 520,00 Euro, Az.: 0262.0-11-0305
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (U) Haus- und kinderärztliche Versorgung in München (Eckdatenbeschluss Haushalt 2019 Nr. 7) Ärztliche Versorgungssituation in München Produkt 33412100 Förderung freier Träger im Gesundheitsbereich Beschluss über die Finanzierung ab 2019
+- TOP 6.2.2.: (E) Anbringen von einem Banner „Vorsicht Schulkinder“ am Bunker Ecke Schleißheimer Str. / Keferloherstr. Empfehlung Nr. 14-20 / E 02167 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 19.07.201
+- TOP 6.2.3.: (E) Bau einer Grundschule nördlich der Moosacher Straße
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Anbieten von Veranstaltungen zum Thema „Plastikproblematik" und "Vermeiden von Plastikmüll“ an Grundschulen im 11. Stadtbezirk
+- TOP 7.2.2.: Olympiadorf - Verbleib (Helene-Mayer-Ring 6) bzw. Neuinstallation eines Postbank-Geldautomaten
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Ausweisen eines Parklizenzierungsgebietes im 11. Stadtbezirk
+- TOP 7.4.2.: Einführen eines Winterdienstes auf dem Fußweg vom El-Thouni-Weg zur Straßbergerstraße
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Benennung von Standorten für neue Sitzgelegenheiten im 11. Stadtbezirk
+- TOP 8.2.2.: Vollzug der BaumschutzV - Bauvorhaben Lerchenauer Str. 136 a - Neubau eines Gewerbegebäudes (Vorbescheid)
+- TOP 8.2.3.: Anträge auf Baumfällungen: a) Kantstraße 24 b) Moosacher Straße 80
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Wings for Life Worldrun 2019" im Olympiapark am 05.05.2019
+- TOP 8.3.2.: Veranstaltung „Winterlaufserie München“ im Olympiapark am 06.01. und 10.02.2019
+- TOP 8.3.3.: Veranstaltung „Kinder- und Familienprogramm ICF Kids“ auf der Grünfläche im Petuelpark am 02.03. und 06.04.2019
+- TOP 8.4: Verkehr
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Velvet" - Riesenfeldstr. 68 b) „Platzwirt“ - Hans-Denzinger-Str. 2 c) „Weinbar Centro Moda“ - Taunusstr. 45
+- TOP 9.1.2.: Infoschreiben: Technikpauschale und Update der BA-Kooperationsplattform „Alfresco“
+- TOP 9.1.3.: BA-Budget: Verwendungsnachweise, Schriftverkehr, Sachberichte
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Spitzerstraße 32
+- TOP 9.2.2.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen - Norderneyer Str. 4 und Kollwitzstraße
+- TOP 9.2.3.: Vollzug des Bayer. Naturschutzgesetzes und der BaumschutzV - Baumfällungsbescheide: a) Keferloherstr. 139 - Zustimmung (mit Auflage der Ersatzpflanzung) b) Korbinianstr. 16 - Zustimmung (mit Auflage der Ersatzpflanzung)
+- TOP 9.2.4.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 9.2.5.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 9.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7.: Meldelisten Bauvorhaben vom 08.10.2018 - 18.11.2018
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: Veranstaltung „MIRA X-Mas Markt 2018“ vom 03.12. bis 22.12.2018 auf dem Nordhaideplatz
+- TOP 9.3.2.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 9.3.3.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 9.3.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 9.3.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Maßnahmen zum Fahrplanwechsel am 09.12.2018
+- TOP 9.4.2.: MVG-Ansprechpartner für den BA 11 - Infoschreiben
+- TOP 9.4.3.: Arbeiten im Straßenraum: Moosacher Str. / Kreuzung Schleißheimer Str. - Zaunbau im Mittelteiler
