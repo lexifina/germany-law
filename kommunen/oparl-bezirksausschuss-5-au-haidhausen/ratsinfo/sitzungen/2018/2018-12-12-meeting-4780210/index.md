@@ -1,0 +1,142 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2018-12-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4780210
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4780210
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.3.: Galerie Milchstr. 4: Vorstellung eines Ausstellungsprojektes in 2019
+- TOP 0.: Vorstellungen
+- TOP 2.1.: Humboldtstr. 27: Neubau eines Wohn- und Geschäftshauses (Vorder- und Rückgebäude) mit Tiefgarage; Vorbescheid
+- TOP 2.4.: Humboldtstr. 13: Vergrößerung des Ladens und Verkleinerung der Wohnung E 15, Ausgleichsfläche E 16
+- TOP 2.8.: Orleansstr. 31: Tektur: Dachaufstockung und DG-Ausbau zur Errichtung von 4 Wohneinheiten im 4. OG und DG, Nutzungsänderung von Ladenflächen zu einer Wohneinheit im EG, Einbau eines Aufzugs und Anbau von Balkonen, Umbau der Treppe EG zu KG; hier: Änderung der Dachform in den Geschossen OG 4 und DG
+- TOP 2.11.: Weißenburger Platz 5: Erneuerung des Dachstuhls am Zwischengebäude
+- TOP 0.: Vorstellung
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Ehrenamtliche BA-Arbeit 2.0 mit Alfresco
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Weihnachtsaktion" Aldi Gutscheine 5.000,00€; Az.: 0262.0-5-0220
+- TOP 2.3.: (E) Stadtbezirksbudget Freunde Haidhausens - Verein für Haidhausen e.V. Ausstellung "Kampf der Demokraten am Vorabend der Revolution" vom 08.01. - 10.03.2019 2.140,00 € // Az. 0262.0-5-0223
+- TOP 2.4.: Freischankflächen: Mobiliarlagerung im Winter
+- TOP 2.5.: Antrag: Bäume für die Lucile-Grahn-Straße
+- TOP 2.6.: Original Münchner Schäfflertanz am 30.01.2019 um 16 Uhr am Orleansplatz und am 15.02.2019 um 15 Uhr am Mariahilfplatz
+- TOP 5.1.: Öffentliche Brunnen/ Trinkwasserbrunnen in Au-Haidhausen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Prothetik und seelische Kraft" Tanztheater "Die Füße und Ohren der Engel" am 25.05.2019 und 26.05.2019 3.000,00€ - siehe auch UA Kultur -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Elternbeirat der Grund- und Mittelschule mit Tagesheim an der Hochstraße Projekt "Kinder treffen Künstler" vom 28.01.2019 - 15.02.2019 3.025,00€ - Vertagung aus der Sitzung vom 21.11.2018 - - siehe auch UA Soziales -
+- TOP 6.3.1.: (E) Besseres Miteinander von Fußgängern und Radfahrern am Wiener Platz Empfehlung Nr. 14-20 / E 01928 ...................
+- TOP 8.1.1.: Parkscheinautomaten zukunftsfähig machen
+- TOP 8.1.2.: Dringlich: Bäume für die Schneckenburger Straße
+- TOP 8.1.3.: Aktueller Stand: Inbetriebnahme der Containeranlage an der GS Flurstraße Anfrage
+- TOP 8.1.4.: Ausbau des Umweltverbundes in Au-Haidhausen; hier: - Fahrradstraße in der Maria-Theresia-Straße und in der Kirchenstraße (Ziffer 3 des Antrags) - Verlegung des Radwegendes am Haidenauplatz, verlängerte Radeinfädelungsspur in der Orleansstraße (Ziffer 4 des Antrags) -Installation einer 2. Signalanlage an der Haltestelle Haidenauplatz (Ziffer 5 des Antrags)
+- TOP 8.1.5.: Dringend nötige Sanierung der Versailler Straße BA-Antrag Nr. 14-20 / B 05272
+- TOP 8.1.6.: Dringend nötige Sanierung der Versailler Straße
+- TOP 8.3.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018-2022
+- TOP 8.3.2.: BA-Informationsschreiben Nr. 04/2018; Technikpauschale, Update der Kooperationsplattform „Alfresco“
+- TOP 8.3.3.: Stadtbezirksbudget; Informationen zur weiteren Umsetzung und Stellenbesetzung
+- TOP 8.3.4.: Erarbeitung eines zeitgemäßen Demokratieformats „Bürgerversammlung“ BV-Empfehlung Nr. 14-20 / E 02010 der Bürgerversammlung des 1. Stadtbezirks Sitzungsvorlage Nr. 14-20 / V 12385
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP 7.1.: Max-Planck-Str. 1: Formloser Antrag auf Rodung absterbender Hecken
+- TOP 7.2.: Ismaninger Str. 22: Fällung und Baumveränderung an diversen Bäumen
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Stadtbezirksbudget Initiative "Prothetik und seelische Kraft" Tanztheater "Die Füße und Ohren der Engel" am 25.05.2019 und 26.05.2019 3.000,00€
+- TOP II.2.: Anhörung: Tanzaufführung Schäffler in der Grünanlage Postwiese am 05.02.2019
+- TOP II.4.: Freunde Haidhausens: Vorstellung der Ausstellung im Üblacker-Häusl „Kampf der Demokratie am Vorabend der Revolution“
+- TOP III.: UA Soziales
+- TOP 0.1.: Vorstellung der Umgestaltung der öffentlichen Grünfläche mit Kleinkinder- und Kinderspielbereich am Johannisplatz
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Stadtbezirksbudget Elternbeirat der Grund- und Mittelschule mit Tagesheim an der Hochstraße Projekt "Kinder treffen Künstler" vom 28.01.2019 - 15.02.2019 3.025,00€ - Vertagung aus der Sitzung vom 21.11.2018 -
+- TOP 2.: Anhörungen
+- TOP 2.1.: Angebote der Offenen Kinder- und Jugendarbeit rund um das Neubaugebiet des ehemaligen Paulaner Brauereigeländes - Anmeldung eines Jugendtreffs bei der Nachbebauung des Paulaner Geländes - Erweiterung des Jugendtreffs in der Au, Kegelhof 8, im Rahmen der Generalsanierung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Haushaltsplan 2019 – Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019; Vollzug des Haushaltsplanes 2019 für den Bereich „Förderung freier Träger“ a) des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 14-20 / V 13187 b) des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 14-20 / V 13186 c) des Sozialreferates / Gesellschaftliches Engagement / Bürgerschaftliches Engagement, Geschäftsleitung / Sozialplanung und Büro der Referatsleitung, Sitzungsvorlage Nr. 14-20 / V 13189 d) des Stadtjugendamts, Sitzungsvorlage Nr. 14-20 / V 13216
+- TOP 3.2.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2018 - 2022 Einzelplan 4 / Jugendamtsbereich
+- TOP 3.3.: Errichtung des Pfarrverbands St. Gabriel – Hl. Blut
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kindergarten im Lehel vor dem Aus Suche nach Räumlichkeiten in Au-Haidhausen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.2.: Schneckenburgerstr. 8: Aufstellung von Büro- und Labormodulen (Klinikum rechts der Isar), hier: Standzeitverlängerung um weitere 5 Jahre
+- TOP 2.3.: Edlingerstr. 28: Aufteilung der Wohnung im 1. und 2. OG in jeweils 2 Wohnungen (Vordergebäude), Schaffung von 2 Stellplätzen
+- TOP 2.5.: Sedanstr. 27-27a: Abbruch und Neuerrichtung Dachstuhl Vordergebäude mit Einbau einer DG-Wohnung, Einbau von Dachterrassen und Gauben (1.DG-Ebene), DG-Ausbau Rückgebäude mit Einbau einer Wohnung mit Dachterrasse sowie Anbau von Außenaufzügen und Rettungsleitern Vorder- und Rückgebäude
+- TOP 2.6.: Franz-Prüller-Str. 9: Erweiterung und Sanierung eines Wohnhauses mit Schaffung einer zweiten Wohneinheit
+- TOP 2.7.: Barrierefreier Zugang zur Isar nördlich der Reichenbachbrücke, Antrag auf wasserrechtliche Anlagengenehmigung
+- TOP 2.9.: Einsteinstr. 34: Nutzungsänderung – Umbau einer Arbeiterunterkunft zu einem Hotel und Errichtung einer Dachgaube; Tektur, hier: Änderung im EG und 1. OG / jeweils Ausbau Familienzimmer; DG: Hotelzimmer anstelle von Betreiberwohnung
+- TOP 2.10.: Innere Wiener Str. 22: Umbau einer aus Laden und Wohnung bestehenden Nutzungseinheit zu Laden und Wohnung für eine Teilungserklärung
+- TOP 2.12.: Preysingstr. 105: Neubau einer Interims-Containeranlage (Grundschule) befristet bis 30.08.2021
+- TOP 2.13.: Preysingstraße: Schulbauoffensive – Neubau einer 2-zügigen Grundschule und Erweiterung der Tiefgarage im kirchlichen Zentrum => dazu: Baumfällungen
+- TOP 2.14.: Kirchenstr. 26: Tektur: Erweiterung der Büroflächen durch Nutzungsänderung und Einbau einer Eingangstür (EG), Einbau einer internen Treppe zwischen EG und KG, eines innenliegenden Aufzugs sowie von Bädern in den Wohneinheiten vom 1. OG-1. DG, Ausbau 2. DG zur Errichtung zweier neuer Wohneinheiten, Anbau von Balkonen, Umbau und Nutzungsänderung des Rückgebäudes (Atelier zu Büro) => dazu: Baumfällungen
+- TOP 2.15.: Barrierefreiheit Mariahilfplatz – Kostenbeteiligung des BA
+- TOP 2.16.: Erhalt / Abbau der Bänke am Kolumbusplatz
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Zusendung von Bauvorhaben, hier: Falkenstr. 7
+- TOP 3.2.: Stellungnahme des BA 1 Altstadt-Lehel zur Beschlussvorlage „Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum“
+- TOP 3.3.: (U) TSV München-Ost e.V. Standtbezirk 5 - Au-Haidhausen 1. Errichtung eines Erweiterungsbaus (Dreifachsporthalle) auf dem Bestandsgebäude an der Sieboldstr. 4 2. Anpassung desErbbaurechtsvertrages und Erweiterung der Erbbaurechtsfläche Förderung der Baumaßnahme nach dem Sonderförderprogramm für den Sporthallenbau der Landeshauptstadt München
+- TOP 3.4.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 3.5.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 3.6.: Wiedererrichtung des Denkmals König Ludwig II. auf der Corneliusbrücke - Antwort Baureferat auf das BA-Schreiben vom 25.07.2018 -
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Vorstellung der Planungen zur Baumaßnahme Maximilianstraße in 2019 durch die MVG - Auswirkungen auf Tram 19 und 21 -
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Austausch von Lichtsignalanlagen, hier: Elsässer-/Kirchenstraße
+- TOP 2.2.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Kirchenstr. 84
+- TOP 2.3.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen, hier: Ohlmüllerstr. 40 (Kindertagesstätte Auenland) => hierzu: Mitteilung KVR zur Einbindung der MVG - Vertagung aus der Sitzung vom 21.11.2018 -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verkehrsberuhigung Trogerstraße – Abschnitt Perfall- und Prinzregentenstraße - Antwort Kreisverwaltungsreferat zum BA-Schreiben vom 20.07.2018 -
+- TOP 3.2.: Sanierung der Sieboldstraße - Antwort Baureferat zum BA-Schreiben vom 22.10.2018 -
+- TOP 3.3.: Erinnerungsverfahren Lucile-Grahn-Straße zwischen Einstein- und Haidhauserstraße (Fahrbahnsanierung)
+- TOP 3.4.: Maßnahmen zum Fahrplanwechsel 2018 der MVG
+- TOP 3.5.: (U) Weiterführung der Beschleunigung der Lichtzeichenanlagen für Buslinien ab 2019 Finanzierung 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022
+- TOP 3.6.: (U) Jährlicher Bericht zur Umrüstung der Busflotte der MVG Eine „E-Linie“ für München Antrag Nr. 14-20 / A 00861 von Frau Stadträtin Heide Rieke, Herrn Stadtrat Jens Röver, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Klaus Peter Rupp und Frau Stadträtin Ulrike Boesser vom 01.04.2015 Umrüstung Münchner Dieselbusse mit einer neuen Technologie Antrag Nr. 14-20 / A 03650 von Herrn Stadtrat Marian Offman, Herrn Stadtrat Richard Quaas vom 05.12.2017 Elektrobus-Pilotprojekt: Ausgestaltung der Buslinien 54 und 154 als E-Bus-Linien Antrag Nr. 14-20 / A 03651 von Frau Stadträtin Dorothea Wiepcke, Herrn Stadtrat Johann Sauerer, Herrn Stadtrat Sebastian Schall, Herrn Stadtrat Richard Quaas, Herrn Stadtrat Thomas Schmid vom 05.12.2017 E-Busflotte beschaffen, Luftqualität verbessern Antrag Nr. 14-20 / A 03861 der Stadtratsfraktion der SPD vom 27.02.2018 Nachrüstung der Busflotte von MVG und Vertragsunternehmen auf Abgasnorm Euro 6 Antrag Nr. 14-20 / A 03873 der ÖDP vom 07.03.2018 Elektrobuseinsatz im 9. Stadtbezirk Antrag Nr. 14-20 / B 03985 des Bezirksausschusses des Stadtbezirkes 09 – Neuhausen-Nymphenburg vom 27.06.2017 Sofortige Ertüchtigung des öffentlichen Nahverkehrs Empfehlung Nr. 14-20 / E 01653 der Bürgerversammlung des Stadtbezirkes 05 – Au-Haidhausen am 06.07.2017
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Ergebnisse Ortstermin zum BA-Antrag Nr. 14-20 / B 05028 "Radabstellplätze schaffen" (hier: Genoveva-Schauer-Platz) am 24.09.2018
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fahrradständer beim Haus für Kinder in der Kolumbusstr. 40
+- TOP 4.2.: Tempo 30 in der Welfenstraße - wirkungslos
+- TOP 4.3.: Fahrbahnbelag Genoveva-Schauer-Platz => dazu: Protokoll Ortstermin vom 24.09.2018 - Vertagung aus der Sitzung vom 21.11.2018 -
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 14.01.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 14.01.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 15.01.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 16.01.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 17.01.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 23.01.2019, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 08.01.2019, 19 Uhr, Friedenstraße 40
