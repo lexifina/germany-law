@@ -1,0 +1,21 @@
+# 2. Ergänzung – Bedarfsplanung Schulsozialarbeit an allen Schulstandorten der Stadt Gronau 2018 - 2021
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 339/2017 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-12-12
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZZCqfkyRijxomOeRcf0kEVs
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/12082
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (2. Ergänzung – Bedarfsplanung Schulsozialarbeit an allen Schulstandorten der Stadt Gronau 2018 - 2021) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX4nsBCeWvSGhibtVZU65SoLKQ9JxzExMnK1k9i9DvLl/Beschlussvorlage_339-2017_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Vorlage 339-2017) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZvEmrE0hrACZaKCRgSQ-Nk_McUQflj61Lj8QFsJZs7r/Vorlage_339-2017.pdf
+- Anlage: Beschlussvorlage (Vorlage 339-2017 1. Ergänzung) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ5fM-0SABwMxSrgLzMUeYuSOBDZcZh6NIe4KtNLfDYL/Vorlage_339-2017_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Protokollauszug Rat 27.05.2015) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd5W4amTQL-lk40wvuZKJdmlIiBXhEYGpbKZRMAtrgKV/Protokollauszug_Rat_27.05.2015.pdf
+- Anlage: Beschlussvorlage (Protokollauszug Rat 07.03.2018) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVk37oqXs-7Z2wN5qZSJQLTDJg7tTBYW-bp1LIyXn7Kr/Protokollauszug_Rat_07.03.2018.pdf
+- Anlage: Beschlussvorlage (Stellungnahme AG § 78 vom 19.11.2018) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZRNhoRKOWdyDG-bRIcLZ2ojJzOHbsTp-yhlop8qyFJc/Stellungnahme_AG_--_78_vom_19.11.2018.pdf
+- Anlage: Beschlussvorlage (Anlage 6 - Auszug aus dem Entwurf der Niederschrift der Sitzung des Fachausschusses am 29.11.18) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZevLPIQD16UqjA0qp5vW_rdsKEIboBwHx0rApgdcbGb/Anlage_6_-_Auszug_aus_dem_Entwurf_der_Niederschrift_der_Sitzung_des_Fachausschusses_am_29.11.18.pdf
+- Anlage: Beschlussvorlage (Anlage 7 - Auszug aus dem Entwurf der Niederschrift der Sitzung des Fachausschusses am 29.11.18) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVbug5rJiF-HWqMYkKa0EINMIWc8Tq1C_fGwgMIkMe5H/Anlage_7_-_Auszug_aus_dem_Entwurf_der_Niederschrift_der_Sitzung_des_Fachausschusses_am_29.11.18.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3852 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3853 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-131
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3846 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-82
