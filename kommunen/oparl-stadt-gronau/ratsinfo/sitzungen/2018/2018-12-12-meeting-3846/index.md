@@ -1,0 +1,52 @@
+# Rat (55. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2018-12-12T17:00:00+01:00
+- Ende: 2018-12-12T21:47:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZa9AUp6x1-J7-_vn9i_Febw
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3846
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYfVuU-UWRSj0w6QlUl8BS0YRErHNL8s4H4k4m18-t8k/Bekanntmachung_Rat_12.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYAnjfVMGwPUl29S0DcV4LqujaXg62Hbkc49_X2ShmUe/Oeffentliche_Niederschrift_Rat_12.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 14.11.2018
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Flüchtlingsbetreuung; Anträge der CDU-Fraktion vom 30.11.2018 und der SPD-Fraktion vom 01.12.2018 - 16 Jastimmen, 17 Neinstimmen, 2 Enthaltungen
+- TOP 3.2: Wahlwerbung in der Stadt Gronau; Antrag der Fraktion Pro!Bürgerschaft/Piraten vom 03.12.2018 - 6 Jastimmen, 23 Neinstimmen, 6 Enthaltungen
+- TOP 4.: Ablauf der Amtszeit der Ersten Beigeordneten – Wiederwahl - - 29 Jastimmen, 1 Neinstimmen, 3 Enthaltungen
+- TOP 5.: Budgetentwurf 2019 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Antrag des Stadtsportverbandes zur Evaluation und Änderung der Sportförderrichtlinie - Einstimmig, 0 Enthaltungen
+- TOP 7.: Baumwollexpress: Schnellbus von Bocholt nach Bad Bentheim - Einstimmig, 0 Enthaltungen
+- TOP 8.: Antrag auf Änderung des Bebauungsplans Nr. 47 "Geschwister-Scholl-Straße", Stadtteil Gronau - 22 Jastimmen, 4 Neinstimmen, 6 Enthaltungen
+- TOP 9.: Jahresabschluss 2017 der Forstdienstleistungen Gronau GbR - Einstimmig, 0 Enthaltungen
+- TOP 10.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahre 2017 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wirtschaftsplan 2019 der Zentralen Bau- und Umweltdienste - Einstimmig, 1 Enthaltungen
+- TOP 12.: Erhöhung des Betriebskostenzuschusses 2018 für die rock'n'popmuseum GmbH - 33 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Abfallgebührenbedarfsberechnung 2019 - Einstimmig, 0 Enthaltungen
+- TOP 14.: Anregungen und Beschwerden gem. § 24 GO NRW Bürgerantrag: Umbenennung der Mackensenstraße - Einstimmig, 2 Enthaltungen
+- TOP 15.: 2. Ergänzung – Bedarfsplanung Schulsozialarbeit an allen Schulstandorten der Stadt Gronau 2018 - 2021 - 19 Jastimmen, 14 Neinstimmen, 0 Enthaltungen
+- TOP 16.: Pilotprojekt „Inklusive Übergangsgestaltung Kindertagesstätten – Grundschulen“ - Einstimmig, 0 Enthaltungen
+- TOP 17.: Erhöhung der Betreuungsplätze in der neuen Kindertageseinrichtung Gronau-West - Einstimmig, 0 Enthaltungen
+- TOP 18.: 98. Änderung des Flächennutzungsplanes der Stadt Gronau für den Bereich "Eßseite/Erikastraße", Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB 3. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 5. Planbeschluss - 32 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 19.: Verlängerung Ortsdurchfahrt Heerweg - Einstimmig, 1 Enthaltungen
+- TOP 20.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 21.1: Schließung des Rathauses und der Nebenstellen zwischen Weihnachten und Neujahr
+- TOP 22.: Anfragen
+- TOP 22.1: Hauskamp stellt für Lkw Sackgasse dar (1. Stellv. d. BM Doetkotte)
+- TOP 22.2: Entwurf des Stellenplan 2018 (RM Krause)
+- TOP 22.3: Ersatzvornahme für mangelnde Mitwirkung der Bürgerinnen und Bürger (2. Stellv. d. BM Bajorath)
+- TOP 22.4: Kennzeichnung der Laubstiege als Fahrradstraße verbessern (RM Drees)
+- TOP 22.5: Kontaktaufnahme zur LEG zwecks Beseitigung des Müllproblems möglich? (RM Krause)
+- TOP 22.6: Sachstand zur Prüfung der Zweckmäßigkeit des Kaufs von Containern mitteilen (RM Laschke)
+- TOP 22.7: Angebot von alternativem Streugut vom Einzelhandel fordern (RM Buchholz)
+- TOP 22.8: Stärkere Sanktionierung von Verstößen gegen das Salzstreuverbot (RM Buchholz)
+- TOP 22.9: Kapitale Tannen fehlen im Bereich des Stadtparks Gronau (RM Buchholz)
+- TOP 22.10: Reichlich alternatives Streugut vorhanden (RM Greitenevert)
