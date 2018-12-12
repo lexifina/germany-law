@@ -1,0 +1,125 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2018-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4718994
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4718994
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.2: Beschluss der Vollversammlung am 24.10.18:
+- TOP 10.3: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 04.12.18:
+- TOP 10.5: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.12.18:
+- TOP 10.6: Beschluss des Bauausschusses vom 04.12.18
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Verbesserung der Doppelunterführung Bodenseestraße
+- TOP 2.1.2.: Antrag auf Ensembleschutz für die Eisenbahngenossenschaft "ebm" an der Limesstraße sowie Einzeldenkmalschutz für das Gebäude Limesstr. 63
+- TOP 2.1.3.: Aufstellen von Hundekot-Mülleimern in Lochhausen
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällung auf Anforderung: - Altostr. 70 - Karl-Harz-Weg 23 - Sponeckstr. 10 - Eschenrieder Str. 13 - Gilchinger Str. 4 (N) - Schussenrieder Str.
+- TOP 3.1.2.: Baumfällung aufgrund der Verlängerung bestehender Haltestellen für zukünftige Buszug-Einsätze auf der Stadtbuslinie 143, Anhörung MVG vom 09.11.18
+- TOP 3.1.3.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städt. Immobilien, Friedhöfen oder auf anderen städt. Grundstücken, an Straßen und öffentlichen Grünflächen, Listen des Baureferates
+- TOP 3.1.4.: Genehmigungsbescheid Baumfällung, hier: - Eschenrieder Str. 13b , Schr. Planungsreferat vom 29.11.18
+- TOP 3.1.5.: Ablehnungsbescheid Baumfällung, hier: - Sponeckstr. 10 - Brachvogelstr. 3
+- TOP 4.1.: Reparatur Abdeckungen für Fernwärmeleitungen (Sebastian Kriesel, Jürgen Schrader)
+- TOP 4.2.: Einrichtung von Blühwiesen (Christian Stockmann, Herbert Forster)
+- TOP 4.3.: Radwege in Lochhausen (Hr. Liedl, Fr. Binsteiner, Fr. Mosch)
+- TOP 5.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied : Widmung von Teilstrecken der Ilse-Fehling-Straße
+- TOP 5.2.: (E) Planung eines öffentlichen Badesees bzw. Schwimmbades im 22. Stadtbezirk
+- TOP 5.3.: (E) Stadtbezirksbudget: Förderverein 1000 Jahre Urkunde Aubing e.V. Aufstellung eines öffentlichen Bücherschranks 5.100,00€; Az.: 0262.0-22-0110
+- TOP 5.4.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung: Dietmar-Keese-Bogen, Umbau Kreisverkehr
+- TOP 6.1.2.1.: Kinder- und Jugendforum vom 23.11.18, Anträge und Protokoll
+- TOP 6.1.2.2.: Feuerwerksanzeige Am Gleisdreieck 15, Schr. KVR vom 28.11.18
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Weitere U-Bahn Planung in der LH München, Beschlussvorlage Ausschuss für Stadtplanung und Bauordnung, Anhörung Planungsreferat vom 15.11.18 (vertagt aus 11/18)
+- TOP 6.3.1.2.: Verkehrsrechtliche Anordnungen: - Mälzereistraße, Einrichtung eines Haltverbotes, Anhörung KVR vom 27.11.18
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Lkw-Anlieferung der Firma Sirius GmbH in der Brunhamstraße, Schr. KVR vom 22.10.18
+- TOP 6.3.2.2.: Falschparker in der Erwin-Hielscher-Straße, Schr. KVR vom 16.11.18
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnungen: - Lochhausener Straße zwischen Hufschmiedstraße und Keltenafferstraße, Einrichtung einer Pkw-Parkzone, Schr. KVR vom 15.11.18 - Altenburgstraße, Eingeschränktes Haltverbot auf der Südseite im Bereich vor den Wertstoffcontainern, Schr. KVR vom 16.11.18 - Altenburgstraße, Einrichtung einer Mittelinsel, Schr. KVR vom 26.11.18 (N) - Colmdorfstraße, Verkehrsfreigabe nach Straßenumbau, Schr. KVR vom 15.10.18
+- TOP 6.3.2.4.: Fußwegverbindung Wiesentfelser Staße / Wiesenthauer Straße, Schr. MGS vom 20.11.18 (BA-Antrag Nr. 14-20 B 05285)
+- TOP 6.3.2.5.: Radwegverbindungen im Stadtbezirk, Schr. MGS vom 20.11.18
+- TOP 6.3.2.6.: Sauberkeit am Westkreuz, Schr. MGS vom 21.11.18
+- TOP 6.3.2.7.: Straßenzustand der Noderstraße, Schr. Baureferat vom 19.11.18
+- TOP 6.3.2.8.: Wiederaufstellung der Absperrpfosten bei der städtischen Kindertagesstätte an der Teckstraße, Schr. Baureferat vom 14.11.18
+- TOP 6.3.2.9.: Lärm durch Güterzüge im Bereich der Lichtenfelser Straße, Messergebnisse der Lärminitiative in der Hellensteinstraße, Schr. RGU vom 14.11.18
+- TOP 6.3.2.10.: Buswartehäuschen in der Limesstraße, Schr. MVG vom 23.11.18
+- TOP 6.3.2.11.: Aubinger Allee in Freiham - sinnvoll für den Verkehr planen, Schr. Planungsreferat vom 26.11.18
+- TOP 6.3.2.12.: Randsteinabsenkung an der Bergsonstraße gegenüber der Langenburgstraße, Schr. Baureferat vom 28.11.18
+- TOP 6.3.2.13.: Sanierung des Harthauser Weges, Schr. Baureferat vom 28.11.18
+- TOP 6.3.2.14.: Herstellung des Verbindungsweges Lidelstraße zur Altostraße, Schr. Baureferat vom 03.12.18
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Verkauf einer städtischen Immobilie: Flst. 3526/22 Gut Freiham, Nähe BAB Ring (A 99), Anhörung Kommunalreferat vom 09.11.18
+- TOP 6.4.1.2.: Roman-Herzog-Str., Gemarkung: Aubing, Fl.Nr. 3531/27, Neubau einer Wohnanlage (77 WE) mit Tiefgarage, Anhörung Planungsreferat vom 06.12.18
+- TOP 6.4.1.3.: Rupert-Bodner-Str., Gemarkung: Aubing, Fl.Nr. 2452/2, Neubau eines gewerblichen Boardinghouses - Vorbescheid, Anhörung Planungsreferat vom 28.11.18
+- TOP 6.4.1.4.: Streitbergstr. 31, Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 29.11.18
+- TOP 6.4.1.5.: Grafrather Str. 4, Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung Planungsreferat vom 29.11.18
+- TOP 6.4.1.6.: Imkerweg 32, DG-Ausbau eines Wohnhauses - Vorbescheid, Anhörung Planungsreferat vom 29.11.18
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Bauvorhaben im 22. Stadtbezirk: 12.11.-18.11.18, 19.11.-25.11.18, (N) 26.11.-02.12.18
+- TOP 6.4.2.2.: Wertstoffinsel Freiham-Süd, Schr. Abfallwirtschaftsbetrieb vom 25.10.18 (vertagt aus 11/18)
+- TOP 6.4.2.3.: Mitteilung über ein Grundstücksgeschäft: - Verkauf der Flst. 1211/11, 1211/15, 1211/2 Bodenseestraße, Schr. Kommunalreferat vom 16.11.18 N - Verkauf der Flst. 3508/37 (Teilfläche) Aubing - Clarita-Bernhard-Str., Schr. Kommunalreferat vom 26.11.18
+- TOP 6.4.2.4.: Baumaßnahmen der Stadtwerke München: Stichtage 05.11.-19.11.18, (N) 20.11.-03.12.18
+- TOP 6.4.2.5.: Müll auf der Wiese neben Haltestelle Neuaubing, Schr. Baureferat vom 22.11.18
+- TOP 6.4.2.6.: Aufwertung des Aufseßer Platzes und des Gößweinsteinplatzes, Schr. Referat für Stadtplanung und Bauordnung vom 20.11.18
+- TOP 6.4.2.7.: Schutzzonen für Wildbienen, Schr. Baureferat vom29.11.18
+- TOP 6.4.2.8.: Erwerb Papinstraße und Straße Am Bahnhofsportplatz, Schr. Kommunalreferat vom 03.12.18
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 7.1.: Antrag für einen "offenen Bücherschrank" im Bereich des 22. Stadtbezirks "Giglweg am Giglbrunnen", Anhörung KVR vom 05.12.18
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Limesstraße, Schr. Sozialreferat vom 21.11.18 N - Aufseßer Straße, Schr. Sozialreferat vom 29.11.18
+- TOP 9.1.: Stadtbezirksbudget - Information zur weiteren Umsetzung und Stellenbesetzung, Schr. Direktorium vom 16.11.18
+- TOP 9.2.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018-2022, Schr. Stadtkämmerei vom November 2018
+- TOP 10.1: Beschluss des Bauausschusses vom 06.11.18:
+- TOP 10.1.1.: (U) Bebauungsplan mit Grünordnung Nr. 2068, Siedlungsschwerpunkt Freiham, Freiham Nord – 1. Realisierungsabschnitt, Endausbaupakete 1 und 2 der inneren Erschließungsstraßen des Neubaugebietes im 22. Stadtbezirk Aubing - Lochhausen - Langwied Projektkosten (Kostenobergrenze): 8.150.000 € 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung
+- TOP 10.2.1.: (U) Förderung von Bürgerschaftlichen Engagement: Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 10.2.2.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 10.2.3.: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten, Finanzierung
+- TOP 10.2.4.: (U) Sportbauprogramm A. Sportbauprogramm - Teil 1 "Neubau, Erweiterung und Generalinstandsetzung bestehender städtischer Freisportanlagen" 1. Genehmigung des Standardraumprogramms für die bestehenden städtischen Freisportanlagen" 2. Genehmigung der Projektliste und der Kriterien zur Priorisierung der Standorte 3. Genehmigung der Umsetzungsvorschläge für ein vereinfachtes Verwaltungsverfahren zur Abwicklung der Projekte des Sportbauprogramms - Teil 1 4. Genehmigung des 1. Maßnahmenpaketes und Zustimmung zur Finanzierung 5. Ausblick auf das 2. Maßnahmenpaket B. Sportbauprogramm - Teil 2 "Sportgroß- und Sonderprojekte" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte C. Sportbauprogramm - Teil 3 "Förderung von Vereinsbauaßnahmen" 1. Genehmigung der Projektliste 2. Kenntnisnahme vom Verwaltungsverfahren zur Projektabwicklung 3. Kenntnisnahme von der Finanzierung der Projekte D. Personal- und Sachmittelbedarfe der mit der Umsetzung des Sportbauprogramms befassten Dienststellen
+- TOP 10.2.5.: (U) PERSPEKTIVE MÜNCHEN : Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 10.2.6.: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 10.2.7.: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 10.2.8.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 10.3.1.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2019, Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 10.3.2.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2019, Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 10.3.3.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2019, Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 10.3.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze, Zuschussnehmerdatei 2019, Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 10.4: Beschluss des Bauausschusses vom 06.11.18:
+- TOP 10.4.1.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 10.5.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2017 - 2021 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 2, 4, 6, 7, 9, 20, 21, 24
+- TOP 10.5.2.: (U) Mehrjahresinvestitionsprogramm 2017 – 2021 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2017 - 2021 Infrastrukturversorgungskonzept 2017 - 2021
+- TOP 10.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.5.4.: (U) Ensembles ehemaliger Dorfkerne im Sinne des Denkmalschutzgesetzes; Ergebnis der abschließenden Beurteilung durch den Landesdenkmalrat
+- TOP 10.6.1.: (U) Siedlungsschwerpunkt Freiham Freiham Nord - Öffentliche Grünflächen Bildungscampus und Sportpark im 22. Stadtbezirk Aubing - Lochhausen - Langwied Projektkosten (Ausführungskosten): 5.600.000 € Ausführungsgenehmigung
+- TOP 11.1.: Protokoll der öffentlichen Sitzung des Mieterbeirates vom 22.10.18, Schr. Mieterbeirat vom 13.11.18
+- TOP 11.2.: Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum - Sachstand und weiteres Vorgehen, Schr. BA 1 vom 14.11.18
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 16.01.19 im Bay. Schnitzel- und Hendlhaus, Limesstr. 63 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, den 03.12.18, 18.30 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Montag, den 03.12.18, 19.00 Uhr, Limesstr. 111 - UA Bildung/Schule/Sport: Mittwoch, den 05.12.18, 18.30 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familie/Senioren/Kultur: Mittwoch, den 05.12.18, 18.30 Uhr, Friedrichshafener Str. 11
