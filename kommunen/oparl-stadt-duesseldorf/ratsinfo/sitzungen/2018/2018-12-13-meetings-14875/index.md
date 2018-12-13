@@ -1,0 +1,101 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2018-12-13T09:00:00+01:00
+- Ende: 2018-12-13T22:27:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14875
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/14875
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331562.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331562.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00331562.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 4: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 5: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 6: Jahresabschluss 2017 der Landeshauptstadt Düsseldorf - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 7: Jahresabschluss und Lagebericht 2017 des Stadtbetriebs Zentrale Dienste - einstimmig beschlossen
+- TOP 8: Jahresabschluss zum 31.12.2017 und Lagebericht für das Wirtschaftsjahr 2017 des Stadtentwässerungsbe - einstimmig beschlossen
+- TOP 9: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2019 - - einstimmig beschlossen
+- TOP 10: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - einstimmig beschlossen
+- TOP 11: Kalkulation der Abwassergebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für - einstimmig beschlossen
+- TOP 12: Gebührenkalkulation Straßenreinigung für 2019 - einstimmig beschlossen
+- TOP 13: 33. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - einstimmig beschlossen
+- TOP 14: Neufestsetzung der Entgeltordnung des Gartenamtes zum 01.01.2019 - einstimmig beschlossen
+- TOP 15: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe zum 01.01.2019 - einstimmig beschlossen
+- TOP 16: Gebührenkalkulation Abfall für 2019 - einstimmig beschlossen
+- TOP 17: 29. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - einstimmig beschlossen
+- TOP 18: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - mehrheitlich beschlossen
+- TOP 19: 14. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 20: Etatberatung 2019 - Teil 1 -
+- TOP 21: Eisenbahnüberführung (EÜ) Bamberger Straße, Tieferlegung der Straße - einstimmig beschlossen
+- TOP 22: Umbau des Aachener Platzes - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 23: Erweiterungsneubau für die neu gegründete 3-zügige Gemeinschaftsgrundschule am Schulstandort Steinka - einstimmig beschlossen
+- TOP 24: Erweiterungsneubau Franz-Jürgens-Berufskolleg, Redinghovenstr. 20 - einstimmig beschlossen
+- TOP 25: Änderungsbeschluss Geländerertüchtigung Kniebrücke - einstimmig beschlossen
+- TOP 26: Höherhofstraße / Gubener Straße / Nach den Mauresköthen – Umbau des Knotenpunktes zu einem Kreisverk - mehrheitlich beschlossen
+- TOP 26.1: Änderungantrag CDU: Umbau des Knotenpunktes zu einem Kreisverkehrsplatz - mehrheitlich abgelehnt
+- TOP 27: Bedarfsbeschluss Fahrradparkturm Bahnhof Bilk; Friedrichstraße / Arcadenvorplatz - mehrheitlich beschlossen
+- TOP 28: Bezirkssportanlage Am Wald, Umbau der ehemaligen Wettkampfanlage - mehrheitlich beschlossen
+- TOP 28.1: ÄA SPD, BÜ90/GRÜ und FDP: Bezirkssportanlage Am Wald, Umbau der ehemaligen Wettkampfanlage - mehrheitlich beschlossen
+- TOP 29: Neugestaltung der Mühlenstraße - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 30: Neubau des Hallenbades Benrath sowie die Teilsanierung des Freibades Benrath - einstimmig beschlossen
+- TOP 31: Neubau Hallenbad Oberkassel/Heerdt - Änderungsbeschluss - einstimmig beschlossen
+- TOP 32: Bedarfsbeschluss Radhauptnetz (Maßnahmen 2019 ff) - einstimmig beschlossen
+- TOP 32.1: Änderungsantrag der CDU- Ratsfraktion: Radhauptnetz (Maßnahme 2019ff) - einstimmig beschlossen
+- TOP 33: Rhein-Ruhr-Express (RRX) – Bauwerksplanung der DB Netz AG in Angermund - mehrheitlich beschlossen
+- TOP 33.1: ÄA Tierschutz Freie Wähler: RRX in Agermund - mehrheitlich abgelehnt
+- TOP 34: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19-2023/24 (SOM VI) - mehrheitlich beschlossen
+- TOP 34.1: EA CDU, SPD, BÜ90/GRÜ und FDP: Schulentwicklungplanung (SOM) - mehrheitlich beschlossen
+- TOP 35: Sanierungen und Umbaumaßnahmen der öffentlichen Bereiche des Düsseldorfer Schauspielhauses am Gustaf - zur Kenntnis genommen
+- TOP 36: Komödie Düsseldorf GmbH - mehrheitlich beschlossen
+- TOP 36.1: ÄA von SPD, BÜ90/GRÜ und FDP: Komödie Düsseldorf GmbH - mehrheitlich beschlossen
+- TOP 37: Abschluss eines Haustarifvertrages für die Düsseldorfer Symphoniker - einstimmig beschlossen
+- TOP 38: Stärkung der Bildungsarbeit in der Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 39: Stiftung Haus der Talente Düsseldorf - Nachtrag zum Zuwendungsvertrag - einstimmig beschlossen
+- TOP 40: Satzung über die abweichende Erhebung von Gebühren für Amtshandlungen im Personenstandswesen (Stande - mehrheitlich beschlossen
+- TOP 41: Kostenloser Internetzugang in städtischen Einrichtungen - einstimmig beschlossen
+- TOP 42: Etatberatung 2019 - Teil 2
+- TOP 42.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2019 mit Anlagen - mehrheitlich beschlossen
+- TOP 42.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung - zur Kenntnis genommen
+- TOP 42.3: 1. Veränderungsverzeichnis zum Haushaltsplanentwurf 2019 - mehrheitlich beschlossen
+- TOP 42.4: Stellenplan und Stellenübersicht der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2019 - mehrheitlich beschlossen
+- TOP 43: Neufassung der Satzung für die Volkshochschule Düsseldorf - einstimmig beschlossen
+- TOP 44: Änderungssatzung: Aufhebung des § 1 der Großmarktsatzung - zurückgezogen
+- TOP 45: Städtische Richtlinien für die Förderung von baulichen Maßnahmen zur Reduzierung von Barrieren im Wo - mehrheitlich beschlossen
+- TOP 46: Handlungskonzept Landschaftsplan - Konzept zur Fortschreibung des Landschaftsplanes der Landeshaupts - einstimmig beschlossen
+- TOP 47: Kommunale Beschäftigungsförderung - einstimmig beschlossen
+- TOP 48: Änderung der Benutzungsordnungen für die Bezirksrathäuser Benrath und Kaiserswerth - einstimmig beschlossen
+- TOP 49: Benutzungsordnung für die Vermietung von Räumen in städtischen Kinder- und Jugendfreizeiteinrichtung - einstimmig beschlossen
+- TOP 50: Freigabe verkaufsoffener Sonntagnachmittage im 1. Quartal des Jahres 2019 - mehrheitlich beschlossen
+- TOP 51: Beitrittsverhandlungen der Landeshauptstadt Düsseldorf und des Kreises Mettmann - einstimmig beschlossen
+- TOP 52: Altersteilzeit bei der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 53: Verwaltungsrat der Stadtsparkasse Düsseldorf - Ersatzwahl - - einstimmig beschlossen
+- TOP 54: Aufsichtsrat der SWD Städt. Wohnungsgesellschaft Düsseldorf GmbH & Co. KG - Neuwahl - - einstimmig beschlossen
+- TOP 55: Aufsichtsrat der Hafen Düsseldorf-Reisholz Entwicklungsgesellschaft mbH - Neuwahl - einstimmig beschlossen
+- TOP 56: Aufsichtsrat der RheinCargo GmbH & Co. KG - Ersatzwahl - einstimmig beschlossen
+- TOP 57: Verbandsversammlung des Zweckverbandes euregio rhein-maas-nord -Ersatzbestellung - einstimmig beschlossen
+- TOP 58: Euregiorat des Zweckverbandes Euregio Rhein-Waal -Ersatzbestellung- - einstimmig beschlossen
+- TOP 59: Wiederbestellung des Vorsitzenden des Umlegungsausschusses - einstimmig beschlossen
+- TOP 60: Mitgliederversammlung des Vereins "Metropolregion Rheinland" - Ersatzbestellung - - einstimmig beschlossen
+- TOP 61: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - einstimmig beschlossen
+- TOP 62: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 63: Blaugrüner Ring Auslobung - einstimmig beschlossen
+- TOP 63.1: ÄA SPD, BÜ90/GRÜ und FDP: Blaugrüner Ring - mehrheitlich beschlossen
+- TOP 63.2: Ergänzungsantrag CDU: Blaugrüner Ring, Auslobung, Wettbewerb nach RPW 2013 - mehrheitlich abgelehnt
+- TOP 64: "Gewerbe- und Industriekernzonen in Düsseldorf" - mehrheitlich beschlossen
+- TOP 64.1: ÄA BÜ90-GRÜ: Gewerbe- und Industriekernzonen in Düsseldorf - mehrheitlich beschlossen
+- TOP 65: Bebauungsplan Nr. 01/013- Harkortstraße - einstimmig beschlossen
+- TOP 66: Bebauungsplan-Entwurf Nr. 02/002 - Max-Planck-Straße - - zurückgezogen
+- TOP 67: Bebauungsplan 01/005 Worringer Straße/ Gerresheimer Straße (Baufeld A) - mehrheitlich beschlossen
+- TOP 67.1: EA SPD, BÜ90/GRÜ und FDP: Worringer Str./Gerresheimer Str. - mehrheitlich beschlossen
+- TOP 67.2: Änderungsantrag CDU: B-Plan Worringer Str./Gerresheimer Str. - mehrheitlich abgelehnt
+- TOP 68: Antrag des Seniorenrates:Anschaffung eines Friedhofmobils für den Friehof Stoffeln - verwiesen
+- TOP 69: Umbesetzung in der Kunstkommission Düsseldorf - einstimmig beschlossen
