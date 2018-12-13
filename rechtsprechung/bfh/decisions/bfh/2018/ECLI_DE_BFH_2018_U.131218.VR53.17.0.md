@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2018:U.131218.VR53.17.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "V"
+aktenzeichen: "V R 53/17"
+decided: "2018-12-13"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201950029/"
+corpus_doc_id: "BFH_NV_2018-12-13_V_R_53_17_STRE201950029"
+cites_law: ["germany/bund/acts/fgo/0143.md", "germany/bund/acts/ustg_1980/0015.md", "germany/bund/acts/ustg_1980/0025.md"]
+---
+
+# Bundesfinanzhof, V R 53/17 vom 2018-12-13: Umsatzsteuer bei Kaffeefahrten
+
+## Leitsatz
+
+NV: Parallelentscheidung zum BFH-Urteil vom 13. Dezember 2018 V R 52/17  .
+
+## Entscheidung
+
+NV: Parallelentscheidung zum BFH-Urteil vom 13. Dezember 2018 V R 52/17  . Auf die Revision der Klägerin wird das Urteil des Niedersächsischen Finanzgerichts vom 19. Januar 2017  5 K 307/14 aufgehoben.Die Sache wird an das Niedersächsische Finanzgericht zurückverwiesen.Diesem wird die Entscheidung über die Kosten des Revisionsverfahrens übertragen. I.Die Klägerin und Revisionsklägerin (Klägerin) veranstaltete im Streitjahr 2000 Busfahrten mit dem Ziel des Warenabsatzes ("Kaffeefahrten"). Bei einer der dabei angebotenen Waren handelte es sich um eine als Kurpaket bezeichnete Warenzusammenstellung bestehend aus sog. Q-Ampullen und L-Ölkapseln.Mit Bescheid vom 13. Oktober 2006 setzte der Beklagte und Revisionsbeklagte (das Finanzamt ‑‑FA‑‑) die Umsatzsteuer für das Streitjahr entsprechend der am 26. September 2005 abgegebenen Erklärung unter Vorbehalt der Nachprüfung gemäß § 164 der Abgabenordnung fest. Am 27. Dezember 2007 gab die Klägerin eine berichtigte Umsatzsteuerjahreserklärung ab, mit der sie geltend machte, dass die von ihr bei den Kaffeefahrten gelieferten Nahrungsergänzungsmittel nicht dem Regelsteuersatz, sondern dem ermäßigten Steuersatz unterliegen würden und dass Vorsteuerbeträge aus Buskosten und Bewirtungsaufwendungen zu berücksichtigen seien. Dies lehnte das FA ab, wogegen die Klägerin Einspruch einlegte. Während des Einspruchsverfahrens gab die Klägerin eine berichtigte Umsatzsteuerjahreserklärung ab.Einspruch und Klage zum Finanzgericht (FG) hatten keinen Erfolg. Nach dem Urteil des FG ist auf die Q-Ampullen der Regelsteuersatz anzuwenden. Das einheitliche Entgelt für die Q-Ampullen und die L-Ölkapseln, für die eine Steuersatzermäßigung gelte, sei aufzuteilen. Bei den Kaffeefahrten habe es sich um Reiseleistungen gehandelt, bei denen die Busreise eine Reisevorleistung gewesen sei, die nicht zum Vorsteuerabzug berechtige, wie sich aus § 25 des Umsatzsteuergesetzes (UStG) ergebe. Selbst wenn diese Vorschrift nicht anwendbar sei, ergebe sich ein Abzugsverbot zumindest aus § 15 Abs. 1a Nr. 1 UStG i.V.m. § 4 Abs. 5 Satz 1 Nr. 1 und Abs. 7 des Einkommensteuergesetzes.Hiergegen wendet sich die Klägerin mit ihrer Revision, für die sie die Verletzung materiellen Rechts geltend macht.Die Klägerin beantragt,das Urteil des FG aufzuheben und den geänderten Umsatzsteuerjahresbescheid 2000 vom 13. Oktober 2006 in Gestalt der Einspruchsentscheidung vom 28. Oktober 2014 dahingehend zu ändern, dass die Vorsteuerbeträge aus den Busleistungen als voll abzugsfähig anerkannt werden sowie dass die Umsätze aus der Lieferung der Q-Ampullen ermäßigt besteuert werden.Das FA beantragt,die Revision zurückzuweisen.Das FG habe zutreffend entschieden. II.Die Revision der Klägerin ist begründet. Das Urteil des FG ist aufzuheben und die Sache an das FG zurückzuverweisen (§ 126 Abs. 3 Satz 1 Nr. 2 der Finanzgerichtsordnung ‑‑FGO‑‑).1. Dem Vorsteuerabzug steht entgegen dem Urteil des FG weder § 25 Abs. 4 Satz 1 UStG noch § 15 Abs. 1a UStG entgegen. Zudem hat das FG zu Unrecht die Anwendung des ermäßigten Steuersatzes verneint. Der erkennende Senat verweist insoweit zur Vermeidung von Wiederholungen auf sein zwischen den gleichen Beteiligten ergangenes Urteil vom 13. Dezember 2018 V R 52/17 (BFHE 263, 381).2. Die Sache ist nicht spruchreif. Der erkennende Senat verweist auch insoweit zur Vermeidung von Wiederholungen auf sein zwischen den gleichen Beteiligten ergangenes Urteil vom 13. Dezember 2018 V R 52/17 (BFHE 263, 381).3. Die Übertragung der Kostenentscheidung beruht auf § 143 Abs. 2 FGO.
