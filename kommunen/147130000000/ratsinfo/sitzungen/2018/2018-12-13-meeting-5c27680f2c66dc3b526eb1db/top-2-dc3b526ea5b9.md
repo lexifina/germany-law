@@ -1,0 +1,7 @@
+# TOP 2: Festlegen der Stadträte, die das Protokoll der heutigen Sitzung mitunterzeichnen
+
+- Sitzung: BA Kulturstätten (2018-12-13)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c27680b2c66dc3b526ea5b9
+- Ergebnis: (offen)
