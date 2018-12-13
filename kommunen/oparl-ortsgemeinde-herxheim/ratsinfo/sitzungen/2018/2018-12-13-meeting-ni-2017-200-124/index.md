@@ -1,0 +1,54 @@
+# 38. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2018-12-13T18:00:00+01:00
+- Ende: 2018-12-13T20:45:00+01:00
+- Ort: Kommunikationsraum Altenzentrum, Richard-Flick-Str. 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2017-200-124
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2017-200-124
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2017-200-124
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-200-124
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2017-200-124
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Vorstellung Kita St. Josef ? Konzeption, aktuelle Situation/Projekte
+- TOP 3: Pilotprojekt Elternbegleitung ? Konzeption, Weiterführung
+- TOP 4: Feststellung des Jahresergebnisses 2014
+- TOP 5: Feststellung des Jahresergebnisses 2015
+- TOP 6: Haushaltsplanung; Finanzwirtschaftliche Eckdaten für den Haushaltsplan 2019
+- TOP 7: Aufstellung des Bebauungsplanes 'Luitpoldstraße 25'
+- TOP 8: Umnutzung vorhandener Räume im Tribünengebäude des Waldstadions für gemeindliche Nutzungen und Vereinszwecke
+- TOP 9: Antrag auf Tempo 30 in der Oberen und Unteren Hauptstraße (L 493) zum Schutz der Wohnbevölkerung vor Lärm und Abgasen
+- TOP 10: Zustimmung zur Anordnung einer Tempo 30-Zone in der Verlängerung des Speyerer Weges bis zur Augustastraße
+- TOP 11: Zustimmung zur Verlängerung der Tempo 30-Zone in der Speiertsgasse; neu: ab Speiertsgasse 24 bis Kreuzung Litzelhorststraße/Zwischen den Bächen
+- TOP 12: Fußgängerüberweg Bussereaustraße
+- TOP 13: Fußgängerüberweg Speiertsgasse / Badstubenweg
+- TOP 14: Zustimmung zur Festlegung von Marktsonntagen in der Ortsgemeinde Herxheim im Jahr 2019
+- TOP 15: Förderung des Familienzentrums querbeet Herxheim e. V. für das Jahr 2019
+- TOP 16: Sanierung Mehrzweckhalle Hayna
+- TOP 17: Auftragsvergaben
+- TOP 17.1: Auftragsvergaben Lüftungsanlage Mehrzweckhalle Hayna
+- TOP 17.2: Auftragsvergabe; Museumskonzept und Designleistung Museum Herxheim
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Grundstücksangelegenheiten
+- TOP 20: Mitteilungen und Anfragen
+- TOP 20.1: Mitteilungen und Anfragen
+- TOP 20.2: Mitteilungen und Anfragen; Stellplätze beim Bauvorhaben Kolpingstr. 17 a in Herxheim
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
