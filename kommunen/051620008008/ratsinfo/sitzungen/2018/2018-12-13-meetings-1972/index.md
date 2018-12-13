@@ -1,0 +1,119 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2018-12-13T18:05:00+01:00
+- Ende: 2018-12-13T21:54:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1972
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/1972
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Jahresabschluss 2017  (Anlage zur Top 19.1) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00090555.pdf
+- Ergebnisprotokoll: Jahresabschluss 2017  (Anlage zur Top 19.1) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00090555.pdf
+- Wortprotokoll: Jahresabschluss 2017  (Anlage zur Top 19.1) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00090555.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - mehrheitlich bei
+- TOP 2: Schriftliche Anträge
+- TOP 2.1: CDU
+- TOP 2.2: SPD
+- TOP 2.2.1: Wohnungsbauförderung für Hemmerden (Antrag Nr. 259/2018) - einstimmig
+- TOP 2.2.2: Änderung der Haltestelle der Buslinie 891 in Frimmersdorf (Antrag Nr. 267/18) - einstimmig
+- TOP 2.2.3: Tempo 30 in Barrenstein (Antrag Nr. 268/18) - einstimmig
+- TOP 2.2.4: Emissionsschutz am Jägerhof (Antrag Nr. 269/18) - einstimmig
+- TOP 2.3: UWG
+- TOP 2.3.1: Aussetzen des Vollzuges der Satzung für Straßenbaubeiträge nach §8 KAG (Antrag Nr. 247/18) - Kenntnisnahme
+- TOP 2.3.2: KiTa Traumzauberhaus Elsen (Antrag Nr. 248/18) - einstimmig
+- TOP 2.3.3: Rabatt beim Kauf von städt. Immobilien für Familien (Antrag Nr. 252/18) - einstimmig
+- TOP 2.3.4: Beleuchtung Zuwegung/ Parkplatz Pascal-Gymnasium (Antrag Nr. 251/18) - einstimmig
+- TOP 2.3.5: Zufahrt KiTa Traumzauberhaus Elsen Goethe Str. (Antrag Nr. 250/18) - einstimmig
+- TOP 2.3.6: Zufahrt KiTa Traumzauberhaus Elsen Rheydter Str. (Antrag Nr. 249/18) - einstimmig
+- TOP 2.3.7: Einführung einer Mautpflicht auf der L116 (Antrag Nr. 224/18) - Kenntnisnahme
+- TOP 2.3.8: Öffnungszeiten des Bürgerbüros anpassen (Antrag Nr. 213/18) - Kenntnisnahme
+- TOP 2.3.9: Ausschussumbesetzung (Antrag Nr. 222/18) - einstimmig
+- TOP 2.4: FDP
+- TOP 2.4.1: Warnhinweise/ Beschilderung Schellestraße in Gustorf (Antrag Nr. 263/18) - einstimmig
+- TOP 2.4.2: Spielstraße Turmstraße im Stadtteil Gindorf (Antrag Nr. 264/18) - einstimmig
+- TOP 2.4.3: Verkehrsführung Marktplatz Wevelinghoven (Antrag Nr. 260/2018) - einstimmig
+- TOP 2.4.4: Ausschussumbesetzung (Antrag Nr. 258/2018) - einstimmig
+- TOP 2.4.5: LKW-Durchfahrverbot in Kapellen und Wevelinghoven (Antrag Nr. 262/18) - Kenntnisnahme
+- TOP 2.5: B 90/DIE GRÜNEN
+- TOP 2.6: Mein Grevenbroich
+- TOP 2.6.1: Jährliche Zuwendung für den Verein Stadtmarketing e.V. (Antrag Nr. 204/18) - mehrheitlich bei
+- TOP 2.6.2: Park- und Vermüllungssituation IG Ost (Antrag Nr. 265/18) - einstimmig
+- TOP 2.6.3: Umbau Bahnstraße (Antrag Nr. 223/18) - mehrheitlich bei
+- TOP 2.6.4: Kommunale Wohnungsbaugesellschaft (Antrag Nr. 200/18) - Kenntnisnahme
+- TOP 2.6.5: Bericht der Wohnungslosenhilfe (Antrag Nr. 199/18) - einstimmig
+- TOP 2.7: Die Linke- Freie Bürger
+- TOP 2.8: Gemeinschaftsanträge
+- TOP 2.8.1: Wohnraumschutzsatzung (Antrag Nr. 270/18) - einstimmig
+- TOP 2.8.2: Mitgliedschaft im "Stadtmarketing Grevenbroich e.V." (Antrag Nr. 261/18) - Kenntnisnahme
+- TOP 3: Schriftliche Anfragen
+- TOP 3.1: CDU
+- TOP 3.2: SPD
+- TOP 3.2.1: Parken in Hülchrath (Anfrage Nr. 266/18) - Kenntnisnahme
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke - Freie Bürger
+- TOP 3.7.1: Kraftwerksfläche Frimmersdorf (Anfrage Nr. 198/18) - Kenntnisnahme
+- TOP 3.7.2: Wohnraumförderung (Anfrage Nr. 201/18) - Kenntnisnahme
+- TOP 4: Dringlichkeitsentscheidungen
+- TOP 5: Mittelbereitstellungen
+- TOP 6: Neufassung der Stellplatzablösesatzung vom 27.06.2000 - einstimmig
+- TOP 7: Übertragung von Aufgaben zwischen SBG AöR und Stadt - einstimmig
+- TOP 8: Wasserversorgungskonzept - Kenntnisnahme
+- TOP 9: Unterbringung von Asylbewerbern - Kenntnisnahme
+- TOP 10: Dezernatsverteilung - Umhängung der Feuerwehr - Kenntnisnahme
+- TOP 11: Seniorenbeirat - mehrheitlich bei
+- TOP 12: Neubesetzung Gremien Dritter - einstimmig
+- TOP 13: Landesverband der Volkshochschulen - einstimmig
+- TOP 14: Entscheidung PlanungsA
+- TOP 14.1: Überarbeitung Richtlinie Bürgerverfügungsfonds - einstimmig
+- TOP 14.2: 26. FNP Änd.-Aufst.beschl. u. frühz. Öffentl.bet. - einstimmig
+- TOP 14.3: K 36 - § 13a Ausleg.beschl. - einstimmig
+- TOP 14.4: 1. Änd.K 32 - Satzungsbeschluss - einstimmig
+- TOP 14.5: Wiederwahl Mitglieder Umlegungsausschuss - einstimmig
+- TOP 15: BetriebsA 07.11.2018
+- TOP 15.1: Gebührenkalkulation 2019 - einstimmig
+- TOP 15.2: Wirtschaftsplan 2019 - einstimmig
+- TOP 16: BauA 08.11.2018
+- TOP 16.1: 1. Änderung der Satzung - einstimmig
+- TOP 17: SchulA 14.11.2018
+- TOP 17.1: Aufnahme in die Schule - einstimmig
+- TOP 17.2: Errichtung 3. GE - einstimmig
+- TOP 17.3: Einrichtung OGS-Neuenhausen - einstimmig
+- TOP 18: HFD-A 15.11.2018
+- TOP 18.1: 2. Änderung der Hundesteuersatzung - mehrheitlich bei
+- TOP 18.2: Gebührenbedarfsberechnung Abfall 2019 - einstimmig
+- TOP 19: RP-Ausschuss 20.11.2018
+- TOP 19.1: Feststellung des Jahresabschlusses 2017 und Beschlussfassung über das Ergebnis - einstimmig
+- TOP 20: Haushalt 2019
+- TOP 20.1: Reden FV
+- TOP 20.2: Stellenplan 2019 - mehrheitlich bei
+- TOP 20.3: Haushalt 2019 - mehrheitlich bei
+- TOP 21: Wiederwahl EB - mehrheitlich bei
+- TOP 22: Beantwortung Anträge und Anfragen
+- TOP 22.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 22.2: Auslastung Radstation (Anfrage Nr. 174/18) - Kenntnisnahme
+- TOP 22.3: Müllentleerung in Kapellen (Anfrage Nr. 175/18) - Kenntnisnahme
+- TOP 22.4: Status der Verkehrserhebungen in Wevelinghoven (Anfrage Nr. 179/18) - Kenntnisnahme
+- TOP 22.5: W 54 -Aufst.beschluss - Kenntnisnahme
+- TOP 22.6: Bahnübergang Kapellen, Talstraße (Antrag Nr. 277/17) - Kenntnisnahme
+- TOP 22.7: Runder Tisch "Heimatgestalter in Grevenbroich" (Antrag Nr. 50/18) - Kenntnisnahme
+- TOP 23: mündliche Anträge/Anfragen
+- TOP 23.1: Buslinie 891 (Anfrage Nr. 271/2018)
+- TOP 23.2: Sachstand Immobilie Steinweg (Anfrage Nr. 181/2017)
+- TOP 23.3: Gaststätte Alte Backstube (Anfrage Nr. 184/2018)
+- TOP 23.4: Verkehrsinseln auf der Straße "Am Hammerwerk" (Anfrage Nr. 272/2018)
+- TOP 23.5: Bauvorhaben Talstraße, Kapellen (Anfrage Nr. 273/2018)
+- TOP 23.6: Baumrodungen entlang der L 116 (Anfrage Nr. 274/2018)
+- TOP 23.7: Schulbus (Anfrage Nr. 275/2018) - einstimmig
+- TOP 23.8: Brückengeländer "Am Wehr" in Wevelinghoven (Anfrage Nr. 147/2018)
+- TOP 23.9: Schülertransportverkehr (Anfrage Nr. 276/2018)
+- TOP 23.10: Abgemeldeter PKW auf der Morkener Straße (Anfrage Nr. 183/2018)
+- TOP 24: Mitteilungen BM
+- TOP 24.1: Strategischer Bahndamm Neukirchen
