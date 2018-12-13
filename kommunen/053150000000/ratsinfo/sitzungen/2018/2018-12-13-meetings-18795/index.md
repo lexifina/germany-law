@@ -1,0 +1,82 @@
+# 37. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-13T15:05:00+01:00
+- Ende: 2018-12-13T18:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18795
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18795
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00696802.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00696802.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00696802.pdf
+
+## Tagesordnung
+
+- TOP -: Präsentation Bevölkerungsprognose und Einwohnerentwicklung 2017
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung der Anfrage der SPD-Fraktion im Rat der Stadt Köln vom 06.09.2018 betreffend Beteiligung der Stadt Köln an Förderprogrammen - Kenntnis genommen
+- TOP 1.2: Entwicklung des Bestandes an preisgünstigen geförderten Mietwohnungen in Köln - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Nah- und Fernwärme in Köln
+- TOP 2.1.2: Auswirkungen von zurückgestellten Bauprojekten
+- TOP 2.1.2.1: Antwort der Verwaltung
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Milieuschutzsatzungen endlich beschließen!
+- TOP 2.2.1.1: Antwort der Verwaltung
+- TOP 2.2.2: Erbbaurechtsbestellung als Instrument der Wohnungs- und Liegenschaftspolitik– ein Weg für Köln?
+- TOP 2.2.3: Anfrage der FDP-Fraktion vom 10.12.2018 betr. "Städtische Mitarbeiter für den Wohnungsbau"
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: "Freiraumplanerischen Ideenwettbewerb für die Innenstadt von Köln – Porz mit Realisierungsteil (Friedrich-Ebert-Platz)" in Köln-Porz aus dem Programm "Integriertes Stadtentwicklungskonzept Porz Mitte" - ungeändert beschlossen
+- TOP 5.2: Qualifizierungsmaßnahme für den Freiraum im Baublock zwischen Trierer, Mosel-, Pfälzer und Luxemburger Straße in Köln-Neustadt/Süd als Grundlage für die Bauleitplanung; - ungeändert beschlossen
+- TOP 5.3: Qualifizierungmaßnahme Quartiersplatz Am Salzmagazin (Eigelstein); hier: Bedarfsfeststellungsbeschluss und Durchführung eines Qualifizierungsverfahrens - zurückgestellt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert empfohlen
+- TOP 6.2: Machbarkeitsstudie auf Grundlage des Verkehrsgutachtens Mülheimer Süden – Planungsbeschluss - mit Änderungen empfohlen
+- TOP 6.3: Beschluss des fortgeschriebenen Integrierten Stadtentwicklungskonzeptes für den Sozialraum Blumenberg, Chorweiler und Seeberg-Nord - ungeändert empfohlen
+- TOP 6.4: Freiraumplanung Innerer Grüngürtel / Parkstadt Süd - ungeändert empfohlen
+- TOP 6.5: Beschluss über die Planung und Durchführung der Maßnahme "Umgestaltug des Rochusplatzes" in Köln-Bickendorf aus dem Programm "Starke Veedel – Starkes Köln" (Sozialraum Bickendorf, Westend und Ossendorf); Bedarfsfeststellungsbeschluss - zurückgestellt
+- TOP 6.6: Trinkbrunnen für Köln - im ersten Durchgang verwiesen
+- TOP 6.7: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 6.8: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - im ersten Durchgang verwiesen
+- TOP 6.9: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - im ersten Durchgang verwiesen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 7.1: 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, in Köln-Weidenpesch; Arbeitstitel: Südliche Schmiedegasse - ungeändert beschlossen
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Gewerbegebiet Venloer Straße in Köln-Bocklemünd/Mengenich, 1. Änderung; frühz. Öffentlichkb. - zurückgestellt
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Deutzer Hafen in Köln-Deutz - Sache ist erledigt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen, Änderung sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 70346/03; Arbeitstitel: Langeler Berg in Köln-Porz-Langel - ungeändert empfohlen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: 1. Änderung Altes Polizeipräsidium in Köln-Altstadt/Süd -Neufassung-; 67440/07; Einleitungsbeschluss - abgelehnt (in der Vorberatung)
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 15.2: Gewerbegebiet Eil in Köln-Porz-Eil, Verlängerung der Veränderungssperre; Teilbereich der Ortslage Köln-Porz-Eil - endgültig zurückgezogen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Planänderungsbeschluss für die Errichtung und den Betrieb einer Rohrfernleitungsanlage zum Transport von gasförmigem Kohlenmonoxid von Köln-Worringen nach Krefeld-Uerdingen - Kenntnis genommen
+- TOP 17.2: Stadtentwicklungskonzept Wohnen (StEK Wohnen) - Kenntnis genommen
+- TOP 17.3: Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung des Hauptausschusses am 05.11.2018 TOP 3.1 (AN 1397/2018) betreffend "Kreuzfeld endlich entwickeln" - Kenntnis genommen
+- TOP 17.4: Kommunale Förderung der Glücksspielberatung in Köln - Kenntnis genommen
+- TOP 17.5: Entwicklung des neuen Stadtteils Kreuzfeld - Kenntnis genommen
+- TOP 17.6: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 17.7: Linksrheinische Anlegestellen mit Dalben - Kenntnis genommen
+- TOP 17.8: Der städtebauliche Masterplan für die Innenstadt Köln; hier: Lupenraum Via Culturalis - Veröffentlichung Audiotour - Kenntnis genommen
+- TOP 17.9: Beantwortung der Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" (AN/0960/2018) - Kenntnis genommen
+- TOP 17.10: Sachstand, Terminierung und geplantes Vorgehen bei der Erstellung einer städtischen Stellplatzsatzung - Kenntnis genommen
+- TOP 17.11: Stadtentwicklungskonzept Wohnen (STEK Wohnen) - Kenntnis genommen
+- TOP 17.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.13: Bevölkerungsprognose für Köln 2018 bis 2040 - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
