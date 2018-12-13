@@ -1,0 +1,8 @@
+# TOP 9.5: Nachweisung der im Haushaltsjahr 2018 bis zum 30.06.2018 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen
+
+- Sitzung: 25. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin (2018-12-13)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=47848
+- Ergebnis: ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=47848
