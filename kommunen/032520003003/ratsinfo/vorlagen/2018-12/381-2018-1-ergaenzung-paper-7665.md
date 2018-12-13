@@ -1,0 +1,22 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2019 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2019
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 381/2018 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2018-12-13
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTI5LrV3niGomQMR8vFpcxM
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/7665
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2019 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen (NKR) und Beschluss der Haushaltssatzung 2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVrXtJjcz5NzrCv4JIit36BWkXGkEsLYGH4nyZJWdGbv/Beschlussvorlage_381-2018_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (…- Stand: 01) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbat7lhcEVHIS7-PUd1A-YvzChMDffq8BZIvxpEfQtAr/----_Stand-_01.pdf
+- Anlage: Beschlussvorlage (Investitionen 2019 - Entwurf 19.11.2018) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR5YojaffnGyJFQ-ADAkcfzHtxYGFcPX_cDQ0PDJWG_3/Investitionen_2019_-_Entwurf_19.11.2018.pdf
+- Anlage: Beschlussvorlage (VE 2019 - Entwurf 19.11.2018) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRYRR0DgoEOmPhEB-svP_Tj1s6i2FiOTdpFaz0G75bgj/VE_2019_-_Entwurf_19.11.2018.pdf
+- Anlage: Beschlussvorlage (Veränderungsdienst HHP 2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWqVctF09nckL8Ft00xLJi2xSnyt8zGap2dB2lxP-sJ7/Veraenderungsdienst_HHP_2019.pdf
+- Anlage: Beschlussvorlage (GesWP Bauhof 2019 Stand 17.10.2018) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeMfhKXNnNIn0HhvdfqRf3LK76FYi_4pqtCVclogeZ9g/GesWP_Bauhof_2019_Stand_17.10.2018.pdf
+- Anlage: Beschlussvorlage (Gesamtergebnishaushalt 2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXi8IZjq056tQm9MEAqO22LXTshsPBgzJ7LSmiUSAgHq/Gesamtergebnishaushalt_2019.pdf
+- Anlage: Beschlussvorlage (Gesamtfinanzhaushalt 2019) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQPjI06M1FPW0KuhZ9-HqgN73Y9cm6uetDGb_tZXfDqu/Gesamtfinanzhaushalt_2019.pdf
+- Anlage: Beschlussvorlage (Antrag CDU-Fraktion) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcn1wO7jELPbPW-YrEmXfBnX-I01i2v0Fa13SNMAHbl9/Antrag_CDU-Fraktion.pdf
+- Anlage: Beschlussvorlage (Anträge der Gruppe 17) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ-5PuWczdeUWPxiYknw9lktzE529qIdGtizIBLhilBY/Antraege_der_Gruppe_17.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18155 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/18104 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
