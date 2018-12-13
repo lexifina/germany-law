@@ -1,0 +1,9 @@
+# TOP 11.: Kalkulation der Abfallentsorgungsgebühren 2019/Änderung der Satzung über die Abfallentsorgung und die Abfallentsorgungsgebühren in der Gemeinde Langenberg
+
+- Sitzung: Rat der Gemeinde Langenberg (30. Sitzung) (2018-12-13)
+- Körperschaft: Gemeinde Langenberg
+- Öffentlich: ja
+- OParl: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/agendaitem/3613
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/consultation/899
+- Beschluss (Datei): Beschlusstext (Kalkulation der Abfallentsorgungsgebühren 2019/Änderung der Satzung über die Abfallentsorgung und die Abfallentsorgungsgebühren in der Gemeinde Langenberg) https://ratsinfo.langenberg.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZT7wVAT_C55xt5FlYVbkZBljUBs12BKndGOEARq9ly0A/Beschlusstext_VL-176-2018_-oeffentlich-_Rat_der_Gemeinde_Langenberg_13.12.2018.pdf
