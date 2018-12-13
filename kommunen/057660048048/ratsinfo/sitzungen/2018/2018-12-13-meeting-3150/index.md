@@ -1,0 +1,58 @@
+# Rat (23. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2018-12-13T18:00:00+01:00
+- Ende: 2018-12-13T19:26:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRUj_A0JNyQEqrt6Ax727Yw
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3150
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTY-Qw1ia2n-XOC4YK9i-X3hwfYfKQYxJPixWt5wAmyq/Bekanntmachung_Rat_13.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZatBkJvrFk1OOLgjSeOdyiMk4KvTeWGkZOar2ffo7eih/Oeffentliche_Niederschrift_Rat_13.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter/Vertreterinnen aus den Verbänden und sonstigen Gremien
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der SPD-Fraktion vom 28.11.2018 hier: Resolution des Rates der Gemeinde Leopoldshöhe an die Landesregierung NRW zur Änderung des § 8 Kommunalabgabengesetz (KAG NRW)
+- TOP 5.2: Antrag der SPD-Fraktion vom 29.11.2018 hier: Beschäftigungsprogramm "MitArbeit" der Bundesregierung
+- TOP 6.: Besetzung der Ausschüsse und Gremien
+- TOP 6.1: Besetzung der Ausschüsse hier: Beratende Mitglieder im Ausschuss für Bildung und Kultur - Zur Kenntnis genommen
+- TOP 6.2: Ausschussumbesetzung hier: Antrag der Fraktion Bündnis 90/Die Grünen vom 28.11.2018
+- TOP 6.3: Ausschussumbesetzung hier: Antrag der CDU-Fraktion vom 29.11.2018
+- TOP 6.4: Besetzung von Gremien hier: - Verbandsversammlung Zweckverband Volkshochschule Lippe-West (VHS) - Nahverkehrsbeirat Kommunale Verkehrsgesellschaft Lippe (KVG) - - einstimmig -
+- TOP 7.: Einbringung des Entwurfs der Haushaltssatzung nebst Haushaltsplan und Anlagen für das Haushaltsjahr 2019
+- TOP 8.: Einbringung der Wirtschaftspläne für das Wirtschaftsjahr 2019
+- TOP 8.1: des Kommunalen Gebäudemanagements Leopoldshöhe
+- TOP 8.2: der Leopoldshöher Immobilien- und Liegenschaftsverwaltung
+- TOP 8.3: des Abwasserwerkes Leopoldshöhe
+- TOP 8.4: des Wasserwerkes Leopoldshöhe
+- TOP 9.: Stellenplan 2019 - Zur Kenntnis genommen
+- TOP 10.: Ausschreibungs- und Vergabeordnung der Gemeinde Leopoldshöhe hier: Neufassung - - 29 Ja-Stimme(n), 4 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 11.: Aufhebung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Gemeinde Leopoldshöhe vom 25.09.2014 - - 32 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 12.: 1. Änderungssatzung zur Satzung über die Erhebung von Kostenersatz und Entgelten bei Einsätzen der Freiwilligen Feuerwehr der Gemeinde Leopoldshöhe vom 23.06.2016 - - einstimmig -
+- TOP 13.: 2. Fortschreibung des Brandschutzbedarfsplanes der Gemeinde Leopoldshöhe - Zurückverwiesen
+- TOP 14.: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2019 - - einstimmig -
+- TOP 15.: Friedhofsgebühren
+- TOP 15.1: Kalkulation der Friedhofsgebühren - - einstimmig -
+- TOP 15.2: Änderung der Gebührensatzung zur Satzung über das Friedhofs- und Bestattungswesen für Anlagen der Gemeinde Leopoldshöhe - - einstimmig -
+- TOP 16.: Gebührenkalkulation Wasser 2019 - - einstimmig -
+- TOP 17.: Gebührenkalkulation Abwasser
+- TOP 17.1: Gebührenkalkulation für das Jahr 2019 für das Abwasserwerk Leopoldshöhe - - einstimmig -
+- TOP 17.2: Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren der Gemeinde Leopoldshöhe vom 15. Dezember 2016 - - einstimmig -
+- TOP 18.: 12. Änderung des Bebauungsplanes Nr. 08/04 „Königskamp“ im Bereich „Am Mühlenbach / Schuckenhofstraße“ im Ortsteil Schuckenbaum 24. Änderung des Flächennutzungsplanes der Gemeinde Leopoldshöhe - Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öffentlichkeit / der Offenlage gemäß § 3 Abs. 2 BauGB und der Beteiligung der Behörden und der sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB - Satzungsempfehlung an den Rat über die 12. Änderung des Bebauungsplanes Nr. 08/04 „Königskamp“ im Bereich „Am Mühlenbach / Schuckenhofstraße“ im Ortsteil Schuckenbaum - Empfehlung zur Fassung des Feststellungsbeschlusses an den Rat über die 24. Änderung des Flächennutzungsplanes im Parallelverfahren - - 28 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP -: 12. Änderung des Bebauungsplanes Nr. 08/04 "Königskamp" im Bereich "Am Mühlenbach / Schuckenhofstraße" im Ortsteil Schuckenbaum 24. Änderung des Flächennutzungsplanes der Gemeinde Leopoldshöhe hier: Beratung und Stellungnahme des Ausschusses für Umwelt und Klimaschutz über die externe Kompensationsmaßnahme gem. § 9 (1a) BauGB auf einer Teilfläche des Flurstückes Nr. 30 in der Flur 6, Gemarkung Krentrup
+- TOP 19.: Jahresabschlüsse
+- TOP 19.1: KGL Jahresabschluss 2016, hier: Korrektur des Verwendungsbeschlusses - - einstimmig -
+- TOP 19.2: WWL und AWL Jahresabschluss 2016, hier: Korrektur des Verwendungsbeschlusses - - einstimmig -
+- TOP 19.3: Jahresabschluss KGL für das Wirtschaftsjahr 2017 - - einstimmig -
+- TOP 19.4: Jahresabschluss LIL für das Wirtschaftsjahr 2017 - - einstimmig -
+- TOP 19.5: Jahresabschluss WWL für das Wirtschaftsjahr 2017 - - einstimmig -
+- TOP 19.6: Jahresabschluss AWL für das Wirtschaftsjahr 2017 - - einstimmig -
+- TOP 20.: Finanzierung der Investitionen der Stadtwerke Lippe-Weser GmbH & Co KG - - einstimmig -
