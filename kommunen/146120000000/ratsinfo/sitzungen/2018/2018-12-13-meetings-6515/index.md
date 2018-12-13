@@ -1,0 +1,84 @@
+# 58. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-12-13T16:00:00+01:00
+- Ende: 2018-12-14T21:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/6515
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/6515
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2018_12_13 und 14 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00382019.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 2.1: Sanierung des Römischen Bades im Schloss Albrechtsberg - erledigt
+- TOP 2.2: Umsetzung P+R Bühlau - erledigt
+- TOP 2.3: Reaktivierung des Dresdner Fernsehturms - erledigt
+- TOP 2.4: Klinikum – Krankenhaus Friedrichstadt Haus A - Brandschutz - erledigt
+- TOP 2.5: Anfrage zu geplanten verkehrsorganisatorischen Veränderungen am Knotenpunkt Schlesischer Platz - erledigt
+- TOP 2.6: Aufstellungsbeschluss/Veränderungssperre Bebauungsplan Nr. 3046, Dresden-Hellerau Nr. 15 Rähnitz-Nord, Stand der Dinge - erledigt
+- TOP 2.7: Unterstützung des Vereins „Musaik - Grenzenlos Musizieren e.V“ - erledigt
+- TOP 2.8: Sozialwohnungen - erledigt
+- TOP 3: Einigungsverfahren bzw. Benennung Aufsichtsräte
+- TOP 3.1: Aufsichtsrat der Dresden-IT GmbH - Benennung
+- TOP 3.2: Aufsichtsrat der DREWAG - Stadtwerke Dresden GmbH - Benennung
+- TOP 3.3: Aufsichtsrat der ENSO Energie Sachsen Ost AG - Benennung
+- TOP 3.4: Aufsichtsrat der EnergieVerbund Dresden GmbH - Benennung
+- TOP 3.5: Aufsichtsrat der Technische Werke Dresden GmbH - Benennung
+- TOP 3.6: Aufsichtsrat der Verkehrsmuseum Dresden gGmbH - Benennung
+- TOP 3.7: Aufsichtsrat der Wohnen in Dresden GmbH & Co. KG - Benennung
+- TOP 3.8: Aufsichtsrat Cultus gGmbH - zurückgezogen
+- TOP 3.9: Aufsichtsrat NanoelektrionikZentrumDresdenGmbH - zurückgezogen
+- TOP 3.10: Aufsichtsrat der Dresden Marketing GmbH - zurückgezogen
+- TOP 3.11: Aufsichtsrat Messe Dresden GmbH - zurückgezogen
+- TOP 3.12: Aufsichtsrat der Kommunalen Immobilien Dresden GmbH & Co. KG - zurückgezogen
+- TOP 4: Einigungsverfahren bzw. Wahl
+- TOP 4.1: Aufsichtsrat der Flughafen Dresden GmbH - zurückgezogen
+- TOP 5: Tagesordnungspunkte ohne Debatte
+- TOP 6: Einwendungen gegen den Entwurf der Haushaltssatzung 2019/2020 gemäß § 76 SächsGemO - punktweise Abstimmung
+- TOP 7: Kapitaleinlage an die Messe Dresden GmbH - Zustimmung
+- TOP 8: Ausreichung eines Gesellschafterdarlehens an die DREWAG - Stadtwerke Dresden GmbH - Zustimmung
+- TOP 9: Wirtschaftsplanung 2019 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 10: Erhöhung des genehmigungsfreien Kassenkreditrahmens für das Wirtschaftsjahr 2018 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 11: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung durch Einreicher
+- TOP 12: Haushaltssatzung 2019/2020 und Wirtschaftspläne 2019 der Eigenbetriebe - Zustimmung mit Änderung
+- TOP 13: Vertagungen der Stadtratssitzung vom 22.11.2018
+- TOP 13.1: Integriertes Stadtentwicklungskonzept "Zukunft Dresden 2025+" - Fortschreibung 2017 - Zustimmung mit Änderung
+- TOP 13.2: Dresdner Weg 2.0: Saubere Luft - ohne Fahrverbote - Zustimmung mit Ergänzung
+- TOP 13.3: 8. Grundschule, Konkordienstraße 12 in 01127 Dresden - Gesamtsanierung - Zustimmung
+- TOP 13.4: Verknüpfung der Buslinien 75 und 94 - Zustimmung mit Ergänzung
+- TOP 13.5: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung auf Geschäftsordnungsantrag
+- TOP 13.6: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung durch Einreicher
+- TOP 13.7: Prüfung von Möglichkeiten der Wohnungsbauförderung zur Wohnraumüberbauung bei Supermärkten und Discountern - Ablehnung
+- TOP 13.8: Fußgängerquerung Langer Weg im Bereich Ernst-Toller-Straße - Zustimmung
+- TOP 13.9: Beschlüsse achten! Keine Beteiligung an Abrisskosten für Garagenbesitzer - Ersetzung
+- TOP 14: Veranstaltungsnetz Altmarkt – Umgestaltung für eine barrierefreie Leitungsführung und Herstellung einer funktionstüchtigen Platzentwässerung - Vertagung
+- TOP 15: Satzung zur Änderung der Satzung für den Eigenbetrieb Sportstätten Dresden der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Satzung zur Änderung Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 17: Sportförderrichtlinie der Landeshauptstadt Dresden (LHD) - Übergangsregelung zur Anmietung der Margon Arena (Teil B, Punkt 8.2 (1)) - Zustimmung
+- TOP 18: Weiterentwicklung der frühkindlichen und schulischen Bildungsstrategie der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 19: Ergebnisse der Einwohnerversammlung "Schulentwicklung in der nördlichen Johannstadt" vom 25. Juni 2018 - Vertagung
+- TOP 20: Allgemeine Richtlinie zur Abgrenzung von an Stadtbezirke übertragene Aufgaben gemäß § 71 Abs. 2 Satz 4 SächsGemO sowie von Aufgaben der Ortschaftsräte gemäß § 67 Abs. 1 Satz 2 SächsGemO (Aufgabenabgrenzungsrichtlinie) - Zustimmung mit Änderung
+- TOP 21: Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für stadtteilbezogene Vorhaben (Stadtbezirksförderrichtlinie) unter Abänderung des Beschlusses V0448/15 vom 19. November 2015 - Zustimmung
+- TOP 22: Geschäftsordnung der Stadtbezirksbeiräte unter Änderung des Stadtratsbeschlusses V0577/10 vom 27. Januar 2011 - Zustimmung mit Änderung
+- TOP 23: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2019 - Zustimmung
+- TOP 24: Satzung der Landeshauptstadt Dresden über die Feuerwehr (Feuerwehrsatzung) - Zustimmung
+- TOP 25: Ergebnisse der Einwohnerversammlung vom 9. Mai 2018 zur geplanten 88. Grundschule auf dem Plantagenweg in Niederpoyritz - Zustimmung mit Änderung
+- TOP 26: Instandsetzung der Carolabrücke Brückenzüge A und B - Zustimmung mit Ergänzung
+- TOP 27: Bestimmung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse 2018 bis 2022 einschließlich Prüfung der Ordnungsmäßigkeit der Geschäftsführung nach § 53 HGrG für den Eigenbetrieb Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 28: Verwendung der Einzahlung aufgrund eines Bauvorhabens im Stadtbezirk Klotzsche zur Ausgleichspflanzung als Straßenbäume in den Haushalt des Amtes für Stadtgrün und Abfallwirtschaft - Zustimmung
+- TOP 29: Masterplan Fairtrade - Vertagung durch Einreicher
+- TOP 30: Jugendkultur in Striesen/Blasewitz - Zustimmung
+- TOP 31: Bildung für Alle, Gesamtkonzeption für ein lebenslanges Lernen - Vertagung auf Geschäftsordnungsantrag
+- TOP 32: Kommunaler Tierschutzbericht - Vertagung auf Geschäftsordnungsantrag
+- TOP 33: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung durch Einreicher
+- TOP 34: Einwohnerinformationsveranstaltung über den aktuellen Stand einer möglichen Sanierung des Dresdner Fernsehturms - zurückgezogen
+- TOP 35: Sanierungs- und Finanzierungskonzeption für die Wiedereröffnung des Fernsehturms in Dresden - Ersetzung
+- TOP 38: Umbesetzung im Stadtbezirksbeirat Plauen - Zustimmung
+- TOP 39: Ausübung eines gesetzlichen Vorkaufsrechts für ein Grundstück der Gemarkung Mickten - Zustimmung
+- TOP 40: ausgereichte Informationsvorlage
+- TOP 40.1: Information zum Projekt „Neubau Verwaltungszentrum am Ferdinandplatz“ - zur Kenntnis genommen
