@@ -1,0 +1,99 @@
+# 25. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2018-12-13T17:00:00+01:00
+- Ende: 2018-12-13T21:05:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4201
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4201
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=254758
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Unterlagen des Bezirksamtes an die Ausschussteilnehmer rechtzeitig übergeben - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Wirtschaftsstandort Lichtenberg - Weichenstellung für den wirtschaftsfreundlichen Bezirk - vertagt
+- TOP 5.2: Leerstehende Unterkunft kurzfristig nutzbar machen - vertagt
+- TOP 5.3: Teilhabe-Chancen-Gesetz für Langzeitarbeitslose - zurückgezogen
+- TOP 5.4: Einschulungsuntersuchungen an neue Gegebenheiten anpassen - in der BVV zurückgezogen
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Bürgermeister fällt am Ostkreuz um - beantwortet
+- TOP 8.2: Gutachten zu Bäderstandorten in Berlin-Lichtenberg - beantwortet
+- TOP 8.3: Einsicht in die Verträge B-Plan XVII-4 - Ostkreuz - beantwortet
+- TOP 8.4: Leerstand Hauptstraße 1 - beantwortet
+- TOP 8.5: Wartenberger Weihnacht - beantwortet
+- TOP 8.6: Belegungs- und mietpreisgebundener Wohnraum am Ostkreuz - beantwortet
+- TOP 8.7: Obdachlose an der Rummelsburger Bucht - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Familienhebamme für starke Eltern und starke Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Ansiedlungs- und Personalgewinnungskonzept für Erzieherinnen und Erzieher – Lichtenberger Fachkräftesteigerung im Kitabereich (LiFaKi) - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Mehr Tatkraft beim Sanieren öffentlicher Spielplätze in Lichtenberg! - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Aufwertung des Prerower Platzes noch in dieser Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Nachweisung der im Haushaltsjahr 2018 bis zum 30.06.2018 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Planungssicherheit für das Gewerbegebiet Herzbergstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Integrationsbeirat in Lichtenberg stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Verkehrsberuhigung in Alt-Hohenschönhausen - überwiesen
+- TOP 9.9: Öffentliche Toilette auf Spielplatz am Obersee - überwiesen
+- TOP 9.10: Lichteffiziente Beleuchtung entlang der Fahrradstraße am S-Bahnhof Betriebsbahnhof Rummelsburg - überwiesen
+- TOP 9.11: Schutz vor Vandalismusschäden in Lichtenberg - überwiesen
+- TOP 9.12: Öffentliche Aufträge prämieren - überwiesen
+- TOP 9.13: Bebauungsplan 11-109 vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Keine Reduzierung des öffentlichen Grüns an der Franz-Jacob-Straße - überwiesen
+- TOP 9.15: Fahrradstraße für die Rummelsburger Bucht - überwiesen
+- TOP 9.16: Stadtplatz beleben - überwiesen
+- TOP 9.17: Stellenneubesetzung in der Gartenarbeitsschule - überwiesen
+- TOP 9.18: Halt der Buslinie X54 in der Pablo-Picasso-Straße prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Bebauungsplan 11-93 – Planreifeerklärung; Arbeitstitel: Frankfurter Allee 135 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.20: Willensbekundung für beabsichtigte Gründungen von Gemeinschaftsschulen im Rahmen der SEP - überwiesen
+- TOP 9.21: Aufschichtung des Zentrums für tuberkulosekranke und -gefährdete Menschen (ZTB) - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Bebauungsplan 11-93 – erneute Behördenbeteiligung, Beteiligung der Öffentlichkeit, erneute eingeschränkte Beteiligung der betroffenen TÖB; Arbeitstitel: Frankfurter Allee 135 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.23: Politische Bildungsarbeit stärken - überwiesen
+- TOP 9.24: Gedenken an den 17. Juni 1953 wachhalten - überwiesen
+- TOP 9.25: Schallschluckender und schadstoffreduzierender Asphalt bei der Erneuerung der Deckschicht der südlichen Fahrbahn der Straße Alt-Friedrichsfelde von Rosenfelder Straße bis Rhinstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: Fließenden Verkehr in der Waldowallee ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.27: Zugänge zum Bahnhof Ostkreuz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.28: Historie am Roedeliusplatz sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.29: Messung der Luftverschmutzung auf der Treskowallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.30: Verbindliche Freistellungsregelung beim Ehrenamt in der Jugendarbeit schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Wartenberger Straße 51 wieder für Nahversorgung fit machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Der Kunst im Gewerbegebiet Herzbergstraße eine Chance geben - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.33: Machbarkeitsstudie für ein neues Bad in Lichtenberg - überwiesen
+- TOP 9.34: Lösungen für die Stellenbesetzung im RSD finden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.35: Rechtsgutachten zum Bebauungsplanverfahren 11-103 (KGA „Falkenhöhe 1932“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.36: Geschäftsordnung des Frauenbeirates des Bezirksamtes Lichtenberg - überwiesen
+- TOP 9.37: Umsetzung "Teilhabechancengesetzes" ab 2019 im Bezirk Lichtenberg für das neue Förderinstrument nach § 16i SGB II - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.38: Bebauungsplan XVII-5a-1 - Aufstellungsbeschluss; Arbeitstitel: Hauptstraße 3A - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.39: vorhabenbezogener Bebauungsplan 11-126 VE - frühzeitige Beteiligungen/frühzeitige Öffentlichkeitsbeteiligung/frühzeitige Behördenbeteiligung; Arbeitstitel: Sewanstraße 259 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.40: Bebauungsplan 11-93 - Behördenbeteiligung; Arbeitstitel: Frankfurter Allee 135 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.41: Vergabe der Auszeichnung "Lichtenberger Unternehmen des Jahres 2018"; Bezug: DS/0079/VII - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.42: 1. Vergabe eines Schulnamens für die 32. Schule (Grundschule) - Bernhard-Bästlein-str. 56 in 10367 Berlin in "Hans-Rosenthal-Grundschule"; 2. Änderung des Schulnamens der Hans-und-Hilde-Coppi-Schule - Römerweg 30/32 in 10318 Berlin in "Hans-und-Hilde-Coppi-Gymnasium" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.43: Umsetzung des gemeinsam erarbeiteten Handlungsprogramms im Rahmen des Projektes "Kommunale Klimapartnerschaften" zwischen den Partnerbezirken Hoan Kiem von Hanoi und Berlin-Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.44: Fortsetzung partnerschaftlicher Kontakte mit Hajnowka und Abschluss der Vereinbarung, Zeitraum 2018 - 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.45: Fortsetzung der partnerschaftlichen Zusammenarbeit mit Kamubukwana-Maputo (Mosambik) und Abschluss der Städtepartnerschaftsvereinbarung 2018 - 2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Einwohnerfragestunde - erledigt
+- TOP 11: Große Anfragen - im Ausschuss abgelehnt
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: Übertragung der Immobilie Wustrower Straße 18 in das Bezirksvermögen - überwiesen
+- TOP 12.2: Investitionen zur Chefsache machen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Potenziale an der Rhinstraße nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Reaktivierung der alten Schule in Althohenschönhausen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Begleitbeschluss zum Lichtenberger Kindertagesstättenentwicklungsplan 2018 - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Erweiterung von Parkmöglichkeiten am Totensonntag - überwiesen
+- TOP 14.2: Taktverdichtung der Buslinien 197 und 256 durch Schulverstärker - in der BVV abgelehnt
+- TOP 14.3: Anlehnbügel für Radfahrer*innen - in der BVV abgelehnt
+- TOP 14.4: "game over" für unangemessene Bundeswehrwerbung - in der BVV abgelehnt
+- TOP 15: Vorlagen zur Beschlussfassung - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Vergabe des Kabarettpreises "DER EDDI" durch den Bezirk Lichtenberg in Würdigung des Kabarettisten Edgar Külow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Schließung der Sitzung - (offen)
