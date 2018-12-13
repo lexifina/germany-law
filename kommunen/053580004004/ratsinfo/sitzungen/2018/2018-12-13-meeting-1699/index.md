@@ -1,0 +1,52 @@
+# Gemeinderat (44. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2018-12-13T18:04:00+01:00
+- Ende: 2018-12-13T22:07:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe4vqOBCK7tPZS4b_Q1a0j8
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1699
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfk7zuBQVlt0gCDUAl95u5wm_5U3sCSv6ypXhD3k7b9v/Bekanntmachung_Gemeinderat_13.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYCKXzEgw8t_i6aSa8abFcSLpj7U4Abavpe6FgBgTcdi/Oeffentliche_Niederschrift_Gemeinderat_13.12.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 15.11.2018 -öffentlicher Teil-
+- TOP 3.: Kindergartenplanung; hier: Vorstellung des Konzeptes der "Kreismäuse AöR" durch Landrat W.Spelthahn
+- TOP 4.: Bundesprogramm „Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur“ - Fristverlängerung zur Einreichung von Projektskizzen. Förderantragsstellung der Gemeinde Aldenhoven zur Sanierung und Modernisierung der Sportanlage in Siersdorf. - 3 Ja-Stimme(n), 16 Nein-Stimme(n), 4 Enthaltung(en)
+- TOP 5.: Finanzen, Haushalt
+- TOP 5.1: Feststellung des Gesamtabschlusses für das Haushaltsjahr 2017 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Überplanmäßige Ausgabe "Verbandsumlage Schulzweckverband Aldenhoven-Linnich" - Einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Bereitstellung überplanmäßiger Haushaltsmittel für die Beseitigung des Wasserschadens im Anbau der Kindertagesstätte Regenbogen, Pestalozziring 45a, Aldenhoven. - Einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Beschluss des Haushaltes 2019 und der Fortschreibung des Sanierungsplanes - Einstimmig, 1 Enthaltung(en)
+- TOP 5.5: Stellenplan für das Jahr 2019 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Anträge von Fraktionen
+- TOP 6.1: Antrag der SPD-Fraktion: Erweiterung des Vorlagenformates
+- TOP 6.2: Antrag der SPD-Fraktion; hier: Antrag auf eine Resolution zur Abschaffung von Straßenausbaubeiträgen - Einstimmig, 0 Enthaltung(en)
+- TOP 6.3: Antrag von SPD- und CDU-Fraktion; hier: Änderung der Hauptsatzung - Einstimmig, 4 Enthaltung(en)
+- TOP 6.4: Antrag der FWG-Fraktion; hier: Möglichkeiten der Verlegung des Bauhofs - 21 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: Gebührenkalkulation Friedhofswesen 2019 - 0 Ja-Stimme(n), 20 Nein-Stimme(n), 3 Enthaltung(en)
+- TOP 8.: Wahl eines weiteren Allgemeinen Vertreters - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Sachstandsberichte der Verwaltung
+- TOP 9.1: Fußgängerampel L136/“Am alten Bahnhof“
+- TOP 9.2: Verkehrsschild B56/A44
+- TOP 9.3: Kurzzeitparkplätze an der Theodor-Hürth-Straße
+- TOP 9.4: Entwicklung des Schulstandortes Aldenhoven; hier: Aktueller Sachstand im Schulzweckverband Aldenhoven-Linnich und weiteres Vorgehen
+- TOP 10.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 15.11.2018 -nichtöffentlicher Teil-.
+- TOP 2.: Auftragsvergaben
+- TOP 2.1: Abschluss einer Beihilfeversicherung
+- TOP 2.2: Beschaffung eines Löschgruppenfahrzeuges LF 10 Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Gremienangelegenheiten
+- TOP 3.1: Benennung von Aufsichtsratsmitgliedern bei der EWV
+- TOP 3.2: Berichte aus den Gremien
+- TOP 4.: Sachstandsberichte der Verwaltung
+- TOP 4.1: Interkommunale Zusammenarbeit
+- TOP 5.: Verschiedenes
