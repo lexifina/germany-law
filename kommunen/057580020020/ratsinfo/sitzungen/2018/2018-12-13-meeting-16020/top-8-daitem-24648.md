@@ -1,0 +1,6 @@
+# TOP 8.: Haushalt 2019
+
+- Sitzung: Rat (38. Sitzung) (2018-12-13)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/24648
