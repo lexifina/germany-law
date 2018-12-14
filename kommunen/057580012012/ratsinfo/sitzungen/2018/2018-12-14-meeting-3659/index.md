@@ -1,0 +1,59 @@
+# Rat (35. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2018-12-14T16:00:00+01:00
+- Ende: 2018-12-14T20:30:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVdpufmTWOwxPhfqPg2B_Uw
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3659
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWRzBUHDJmH4PDVnwaXERSn_QdBEuPhBtUfze-HCfPXn/Einladung_Rat_14.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZmqKeQVDrBvJdq_2m_Oz9KZpEheWVClFaIDOR52mkzV/Oeffentliche_Niederschrift_Rat_14.12.2018.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 16.11.2018
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.12: Umgestaltung der Werre am Bergertor Wehr mit Herstellung der ökologischen Durchgängigkeit hier: Festlegung auf eine Planungsvariante - Bei einer Enthaltung und 7 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.25: Antrag Fraktion DIE LINKE: Trennung von Festsetzungs- und Leistungsbescheid bei der Erhebung von Straßenbaubeiträgen hier: Änderung der Satzung über die Erhebung von Beiträgen nach § 8 KAG - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.25: Stellungnahme der Verwaltung zum Antrag DIE LINKE (A/25/2018)
+- TOP A.26: Antrag von CDU und FDP zur Änderung der Satzung für die Erhebung von Straßenausbaubeiträgen nach § 8 KAG - Unter Berücksichtigung der Pairing-Vereinbarung wurde mit 19 Ja-Stimmen und einer Enthaltung der Antrag mit 21 Nein-Stimmen mehrheitlich abgelehnt. 
+- TOP A.26a: Stellungnahme der Verwaltung zum Antrag CDU u. FDP (A/27/2018)
+- TOP zu A.26: Antrag der SPD zum TOP A.26
+- TOP zu A.26: Anregung zum TOP A.26 vom Ratsherrn Scheffer - Liste 2004
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 30.09.2018 b) Jahresprognose 2018 der Beteiligungsunternehmen zum 30.09.2018
+- TOP A.5b: HVV- Konzern: Geänderte Wirtschaftspläne 2018, Wirtschaftspläne 2019 und Mittelfristpläne des HVV- Verbundes: Anweisungen an die städtischen Vertretungen in den Gesellschafterversammlungen der HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH und der WWS Wohn- und Wirtschafts-Service Herford GmbH - Unter Berücksichtigung der Pairing-Vereinbarung wurde bei 2 Enthaltungen  einstimmig folgender Beschluss gefasst:
+- TOP A.5c: IAB Immobilien- und Abwasser-Betrieb Herford: geänderter Wirtschaftsplan 2018 sowie Wirtschaftsplan 2019 incl. Mittelfristplanung - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5d: Interkomm Interkommunales Gewerbegebiet Ostwestfalen-Lippe GmbH: Wirtschaftsplan 2019 und Finanzplan bis 2023 - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.6: Prüfung und Feststellung des Jahresabschlusses 2017, Ergebnisausgleich und Entlastung des Bürgermeisters
+- TOP A.7: 3. Situationsbericht zur Haushaltswirtschaft 2018
+- TOP A.8: Entwurf der Haushaltssatzung 2019 sowie mittelfristige Ergebnis- und Finanzplanung 2020 - 2022 hier: Einbringung des Entwurfs der Haushaltssatzung 2019 mit ihren Anlagen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.9: Stellenplan für das Haushaltsjahr 2019 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.10: Personalentwicklungskonzeption - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.11: Projekt "Markthalle" Sachstandsbericht - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.13: Zuständigkeiten und Tätigkeiten der City-Wache
+- TOP A.14: Gebührenhaushalt Friedhöfe hier: Neufassung des Gebührentarifs zur Gebührensatzung für die Friedhöfe der Hansestadt Herford
+- TOP A.15: Änderung der Entwässerungsgebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.16: Bebauungsplan Nr. 10.25a "Im Ulenbade", Änderung Nr. 2.18 Hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Bebauungsplan Nr. 4.65 "Waisenhausstraße" hier: Satzungsbeschluss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18: Satzung über die Ablösung von Stellplätzen in der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.19: Weiterentwicklung der Förderschullandschaft; Schulträgerwechsel für die Albert-Schweitzer-Schule - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.20: Satzung zur Unterbringung von Obdachlosen hier: Widmung einer weiteren Wohnung und Änderung der Satzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Gebührensatzung zur Unterbringung von Flüchtlingen, die als Asylberechtigte anerkannt bzw. nach der AWoV zugewiesen wurden hier: Anpassung/Änderung der Gebührensatzung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.22: Fördermaßnahmen nach dem Kommunalinvestitionsförderungsgesetz (KInvFG), Kapitel 2 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23: Einführung des „Chill-Tickets“ für Schüler*innen an Herforder Schulen - Bei 3 Enthaltungen und 16 Nein-Stimmen wurde mit 21 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.24: Gremienbesetzungen:
+- TOP A.24a: Geschäftsführung Jugendhilfeausschuss: Wahl einer Vertretung und einer Stellvertretung des neuen Jugendamtselternbeirates als beratendes Mitglied im Jugendhilfeausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24b: Entsendung von Mitgliedern des Beirates für Menschen mit Behinderungen in die städtischen Fachausschüsse hier: Nachbesetzung von Mitgliedern - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24c: Antrag B90/ DIE GRÜNEN: Mitgliederbesetzungen in Gremien - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.24d: Antrag FDP: Umbesetzungen im: - Sportausschuss - Sozialausschuss - Kulturbeirat - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP zu A.24: Antrag DIE LINKE: Umbesetzungen im: Bau- und Umweltausschuss Beirat der Kultur gGmbH Schulausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27: Antrag Fraktion DIE LINKE: Neues Haus für das Frauenhaus Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.27a: Stellungnahme der Verwaltung zum Antrag der Partei DIE LINKE bezüglich eines neuen Hauses für das Frauenhaus Herford
+- TOP A.28: Mitteilungen
