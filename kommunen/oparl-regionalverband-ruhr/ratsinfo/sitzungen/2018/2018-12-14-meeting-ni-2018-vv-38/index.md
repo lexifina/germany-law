@@ -1,0 +1,82 @@
+# 21. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2018-12-14T10:00:00+01:00
+- Ende: 2018-12-14T12:55:00+01:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2018-VV-38
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2018-VV-38
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2018-VV-38
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-VV-38
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2018-VV-38
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 05.10.2018
+- TOP -: Angelegenheiten nach RVR-Gesetz
+- TOP 0.1: Ersatzwahl eines beratenden Mitgliedes der Verbandsversammlung (Vorschlag der Landesarbeitsgemeinschaft kommunaler Frauenbüros/Gleichstellungsstellen NRW)
+- TOP 0.2: Resolution zur Unterstützung der NRW – Erklärung DER VIELEN
+- TOP 2.1: Haushalt 2019
+- TOP 2.1.1: Benehmensherstellung mit den Mitgliedskörperschaften gemäß § 55 KrO NRW zur Verabschiedung der Haushaltssatzung 2019
+- TOP 2.1.2: Verabschiedung des Haushaltes 2019
+- TOP 2.1.2.1: Anträge zum Haushaltsplanentwurf 2019 Antrag der Fraktionen CDU, SPD, B 90 / Die Grünen
+- TOP 2.1.2.3: Anträge der FDP-Fraktion zum Haushaltsplanentwurf 2019
+- TOP 2.1.2.4: Absenkung des Hebesatzes der Verbandsumlage des RVR Antrag der Fraktion Freie Wähler
+- TOP 2.1.2.5: Anträge zum Haushaltsplanentwurf 2019 Antrag der Fraktion Piraten
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Regionaler Vorschlag zum Jahresbauprogramm 2019 „Investitionen in Radschnellwege in der Baulast des Landes“ (Titel 777 61)
+- TOP 1.2: Programm Radwegebau an bestehenden Landesstraßen (Titel 777 14): Priorisierung der Maßnahmen für das Jahr 2019
+- TOP 1.3: Programm Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten (Titel 777 12): Priorisierung der Maßnahmen für das Jahr 2019
+- TOP 1.4: Kunst- und Kulturförderung - Projektförderung im Rahmen der Regionalen Kultur-politik – Kulturregionen Hellweg, Niederrhein und Ruhrgebiet hier: Beratung und Beschlussfassung 2019
+- TOP 1.5: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2019 - Beratung und Beschlussfassung
+- TOP -: Vorlagen des Regionalverbandes Ruhr/Planungsausschuss
+- TOP 1.6: 6. Änderung des Regionalplans für den Regierungsbezirk Arnsberg, Teilabschnitt Oberbereich Dortmund – westlicher Teil – im Gebiet der Stadt Dortmund zur Aufhebung der Nutzungsbindung „Kraftwerke und einschlägige Nebenbetriebe“ – Erarbeitungsbeschluss –
+- TOP 1.7: 14. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Castrop-Rauxel zur Aufhebung der Zweckbindung und des Piktogramms für „Kraftwerke und einschlägige Nebenbetriebe“ eines Bereichs für gewerbliche und industrielle Nutzungen – Erarbeitungsbeschluss –
+- TOP 1.8: 11. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, im Gebiet der Stadt Waltrop Erarbeitungsbeschluss - Umwandlung eines Allgemeinen Freiraum- und Agrarbereichs mit den Freiraumfunktionen Schutz der Landschaft und landschaftsorientierte Erholung (BSLE) und Regionaler Grünzug in einen Bereich für gewerbliche und industrielle Nutzung (GIB) für zweckgebundene Nutzungen sowie Ergänzung einer textlichen Festlegung zum GIB für zweckgebundene Nutzungen
+- TOP 1.9: Gesetzentwurf zur Änderung des LPlG NRW Hier: Stellungnahme
+- TOP 1.10: 13. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe, Änderung der textlichen Festlegung Ziel 16.2 zum Bereich für flächenintensive Großvorhaben (newPark) - Erarbeitungbeschluss -
+- TOP 1.11: Änderungsverfahren des RFNP - Herstellung des Einvernehmens nach § 39 Abs. 3 Nr. 2 LPlG NRW
+- TOP 1.12: Begleitantrag zum Erarbeitungsbeschluss des Regionalplans Ruhr Drucksache Nr.: 13/1157 Hier: Stellungnahme der Verwaltung
+- TOP 1.13: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP -: Jahresabschlüsse 2016 und 2017 (TOP 2.2 und 2.3)
+- TOP 2.2.1: Bericht über die Prüfung des Jahresabschlusses 2016, Feststellung des Jahresabschlusses 2016 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2016 bis 31.12.2016
+- TOP 2.2.2: Beschluss über die Behandlung des Jahresüberschusses 2016
+- TOP 2.3: Entwurf des Jahresabschlusses 2017 des Regionalverbandes Ruhr
+- TOP 2.4.1: Änderung der Geschäftsordnung der Verbandsversammlung und der Ausschüsse des Regionalverbandes Ruhr
+- TOP 2.4: Änderung der Geschäftsordnung der Verbandsversammlung und der Ausschüsse des Regionalverbandes Ruhr vom 14.12.2018
+- TOP 2.5: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.5.1: Freizeitzentrum Xanten GmbH - Bürgschaftsübernahme zur Aufnahme eines Darlehens für die Errichtung einer Betriebshalle und eines Bürogebäudes
+- TOP 2.5.2: Angelegenheiten der Freizeitgesellschaften Hier: Kündigung der Beteiligung am Revierpark Wischlingen GmbH und Entwicklung eines Ausstiegsszenarios
+- TOP 2.6: Belegungsplanung der Essener Dienstgebäude
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.7: Luftbildkooperation im Geonetzwerk.metropoleRuhr Hier: Sachstandsbericht
+- TOP 2.8: Radschnellweg Mittleres Ruhrgebiet Hier: weiteres Vorgehen
+- TOP 2.9: Wohnungsmarkt Ruhr - Vierter Regionaler Wohnungsmarktbericht
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.10: Auf dem Weg zu einem 'Freizeit-/Tourismuskonzept Metropole Ruhr' - Entwurf Hier: Ergebnisse Beratungsprozess und geänderter Beschlussvorschlag
+- TOP 2.11: Angelegenheiten der TouristikEisenbahnRuhrgebiet GmbH - Jahresabschluss zum 31.12.2017
+- TOP 2.12: Kampagnenjahr 2020 - das Jahr der Stadt der Städte
+- TOP 2.12.1: Kampagnenjahr 2020 – das Jahr der Stadt der Städte Hier: Änderung des Beschlussvorschlages
+- TOP 2.12.2: Änderungsantrag der FDP-Fraktion
+- TOP 2.13: Angelegenheiten der ecce GmbH - Mittelbereitstellung für das Jahr 2019
+- TOP 2.14: Angelegenheiten der Business Metropole Ruhr GmbH - WiN Emscher-Lippe Gesellschaft zur Strukturverbesserung mbH - Fortführung der Gesellschaft und Änderung des Gesellschaftsvertrags
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.15.1: Internationale Gartenausstellung (IGA) Metropole Ruhr 2027 Hier: Ergänzung des Beschlussvorschlages
+- TOP 2.15: Internationale Gartenausstellung (IGA) Metropole Ruhr 2027; Beschlussfassung
+- TOP 2.16: Aktuelle Projekte und Projektvorhaben der klimametropole RUHR 2022 der Haushaltsjahre 2018/2019/2020
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.17: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2019
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.18.2: Umbesetzung im Fachausschuss
+- TOP 2.19: Anfragen und Mitteilungen
+- TOP 2.19.1: Anfrage der SPD-Fraktion zum Masterplan Handwerk - RVR
+- TOP 2.19.2: Offenlage des RPR; Anfrage zur Quotierung der Auskiesungsflächen
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
