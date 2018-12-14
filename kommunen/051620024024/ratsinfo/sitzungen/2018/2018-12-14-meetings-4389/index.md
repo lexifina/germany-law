@@ -1,0 +1,73 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2018-12-14T16:00:00+01:00
+- Ende: 2018-12-14T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4389
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4389
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Wirtschaftsplan der Städtischen Friedhöfe Neuss (SFN) für das Jahr 2019 - mehrheitlich zugestimmt
+- TOP 6: Friedhofsgebührenordnung der Stadt Neuss ab 01.01.2019 - mehrheitlich zugestimmt
+- TOP 7: Hundeauslaufflächen - einstimmig zugestimmt
+- TOP 8: Beschluss des Steuerungskonzeptes Vergnügungsstätten für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 9: Gleichstellungsplan der Stadtverwaltung Neuss - mehrheitlich zugestimmt
+- TOP 10: Umsetzung Brandschutzbedarfsplan - Konkretisierung Fahrzeugbeschaffung Löschzug Furth - einstimmig zugestimmt
+- TOP 11: Standentgeltentwicklung im Bereich Kirmesse und Märkte - Kostendeckungsgrad - einstimmig zugestimmt
+- TOP 12: Definition Pflegeklassen - einstimmig zugestimmt
+- TOP 13: Kostenerstattung der Notfallsanitäteraus- und -fortbildung sowie Neufestsetzung der Gebühren im Rett - einstimmig zugestimmt
+- TOP 14: 42. Internationaler Hansetag 2022 in Neuss - mehrheitlich zugestimmt
+- TOP 15: Personalsituation Allgemeiner Sozialer Dienst des Jugendamtes - einstimmig zugestimmt
+- TOP 16: Änderung der Vergabeordnung der Stadt Neuss - mehrheitlich zugestimmt
+- TOP 17: Barrierefreier Umbau Einm. Bergheimer Str./Minzstr. sowie Nachrüstung Bushaltestelle "Barriere - einstimmig zugestimmt
+- TOP 18: Berghäuschensweg: Straßenumbau zwischen Alexianerplatz und der Straße "Meertal" - einstimmig zugestimmt
+- TOP 19: Feststellung des Jahresabschlusses des TMN zum 31.12.2017 - einstimmig zugestimmt
+- TOP 20: Wirtschaftsplan 2019 für das Tiefbaumanagement der Stadt Neuss - einstimmig zugestimmt
+- TOP 21: Beschluss Gewerbeflächengutachten/Verf. z. Änderung Regionalplan - abgesetzt
+- TOP 22: BP 476 Augustinusviertel - Satzungsbeschluss (Leuchtenberg) - einstimmig zugestimmt
+- TOP 23: Vorhabenbezogener Bebauungsplan Nr. V 491 - Norf, Vellbrüggener Straße - einstimmig zugestimmt
+- TOP 24: Geulenstraße - Fahrbahnverbreiterung im Abschnitt von Mecklenburgstraße bis Am Hasenberg - einstimmig zugestimmt
+- TOP 25: Reinigung Hauptstrassenzug Innenstadt - einstimmig zugestimmt
+- TOP 26: Vorhabenbezogener Bebauungsplan Nr. V 41/1 - Furth-Süd, Weißenberger Weg - - einstimmig zugestimmt
+- TOP 27: Ausbau Nordpark, 3. und 4. BA – Entwurfs- und Ausbaubeschluss - einstimmig zugestimmt
+- TOP 28: Revitalisierung Kruchensbusch - einstimmig zugestimmt
+- TOP 29: Querung des Grefrather Wegs in Höhe Eselspfad - einstimmig zugestimmt
+- TOP 30: Umbau der Straße An der Obererft – Aktualisierung und Änderung des Planungsbeschlusses - einstimmig zugestimmt
+- TOP 31: Stadteingänge Lichtkonzept – Beleuchtung Blutturm - einstimmig zugestimmt
+- TOP 32: Radstation - mehrheitlich zugestimmt
+- TOP 33: Bundesprogramm "ProKindertagespflege" - einstimmig zugestimmt
+- TOP 34: Hombroich Sanierung - einstimmig zugestimmt
+- TOP 35: Betreuungen durch Betreuungsvereine - einstimmig zugestimmt
+- TOP 36: Stärkung der Kindertagespflege für Tagespflegepersonen und Eltern - einstimmig zugestimmt
+- TOP 37: Absenkung der Elternbeiträge Kindertagesbetreuung - mehrheitlich abgelehnt
+- TOP 38: Förderung des Brauchtums - einstimmig zugestimmt
+- TOP 39: Einführung eines "Neuss-Passes" - mehrheitlich zugestimmt
+- TOP 40: W-Plan 2019 GMN - einstimmig zugestimmt
+- TOP 41: Beratung des Haushaltsplan-Entwurfes 2019 - mehrheitlich zugestimmt
+- TOP 42: Beratung der mittelfristigen Ergebnisplanung 2018 - 2022 - mehrheitlich zugestimmt
+- TOP 43: Beratung des Investitionsprogramms (investive Finanzplanung) 2018 - 2022 - mehrheitlich zugestimmt
+- TOP 44: Erlass einer Hebesatzsatzung - mehrheitlich zugestimmt
+- TOP 45: Erlass einer Haushaltssatzung für die Stadt Neuss - mehrheitlich zugestimmt
+- TOP 46: Bebauungsplan Nr. 465 - Uedesheim, Kreuzfeld - - einstimmig zugestimmt
+- TOP 47: Bebauungsplan Nr. 496 – Uedesheim, Sudermannstraße (Eventlocation) - einstimmig zugestimmt
+- TOP 48: Prüfung d. Jahresabschl. 2017 sowie d. JA 2017 d. 2 Sonderhaushalte (Hesemann- und Reindl-Stiftung) - einstimmig zugestimmt
+- TOP 49: Prüfung des Gesamtabschlusses 2017 - einstimmig zugestimmt
+- TOP 50: Überörtl Prüfung Personal u. Demogr., Grünflächen, Finanzen, Sicherh. u. Ordn., Schulen, Tagesbetr. - einstimmig zugestimmt
+- TOP 51: Umbau Kapellener Straße - einstimmig zugestimmt
+- TOP 52: Bebauungsplan Nr. 449/0/1 – Holzheim, Blausteinsweg Nord (Mehrfamilienhäuser) - Satzungsbeschluss - einstimmig zugestimmt
+- TOP 53: Fortschreibung des Abwasserbeseitigungskonzeptes für den Zeitraum 2019 bis 2024 - einstimmig zugestimmt
+- TOP 54: Satzungsänderung über die Erhebung von Entwässerungsgebühren - Senkung der Schmutzwassergebühren ab - einstimmig zugestimmt
+- TOP 55: Genehmigung der Dringlichkeitsentscheidung Nr. 226 betr. Benennung von Delegierten für die Delegiert - einstimmig zugestimmt
+- TOP 56: Zusammenlegung der Schiedsamtsbezirke 3 und 4 sowie 5 und 6. - einstimmig zugestimmt
+- TOP 57: Veränderung im Bereich der Bestattungskultur; Umsetzung bei "Ordnungsbehördlichen Bestattungen" - zur Kenntnis genommen
+- TOP 58: Überarbeitung der Abfallentsorgungssatzung und -gebührenordnung - zur Kenntnis genommen
+- TOP 59: Einwohnerfragestunde - zur Kenntnis genommen
