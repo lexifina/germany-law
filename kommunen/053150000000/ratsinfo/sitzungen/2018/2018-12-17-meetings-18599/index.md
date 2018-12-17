@@ -1,0 +1,89 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-17T17:00:00+01:00
+- Ende: 2018-12-17T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18599
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18599
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00698492.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00698492.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00698492.pdf
+
+## Tagesordnung
+
+- TOP -: TOP A Bericht der Shell - Überprüfung Sicherheitsmanagementsystem und Sachstand Sanierung Kerosinschaden - Sache ist erledigt
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Einrichtung einer Buslinie zwischen Westhoven - Kölner Straße der Linie 7 und linksrheinisch Heinrich-Lübke-Ufer über die A4 (Az.: 02-1600-117/17) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Ausweisung der Herrengartenstraße als Spielstraße/verkehrsberuhigter Bereich (Az.: 02-1600-165/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Forstbotanischer Garten - Bewegungsparcours - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Stadtbezirksübergreifende Schulbesuche / Schülerwanderbewegungen - Kenntnis genommen
+- TOP 7.1.2: AN/1385/2018 Anfrage Freie Wähler Köln, Beseitigung von "Fahrradleichen" im Bezirk - Kenntnis genommen
+- TOP 7.1.3: Sanierung und Verbesserung maroder Parkplätze auf der Schwalbacher und Kierberger Straße - Kenntnis genommen
+- TOP 7.1.4: Belegung der Immobilien Eckdorfer Str.9 und Pingsdorfer Str. 10 - Kenntnis genommen
+- TOP 7.1.5: Grundstück Markusstr. 45-49 in Köln-Raderberg, Nutzung der alten Sparkassenfiliale - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1.1: Zukunft der Weinwoche am Südstadion - Kenntnis genommen
+- TOP 7.2.2: Geschlossene Kindertagesstätte in Bayenthal, Klerschweg 2, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Schadstoffmessungen im Bezirk, Anfrage Der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.5: Verkehrsregelung am Nibelungenweg in Rodenkirchen, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: WLAN-Hotspots bei der KVB, Anfrage der CDU- Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Leerstand von Wohnungen; hier: Alte Schule in Immendorf, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.8.1: Beantwortung der Verwaltung - Wohnungsleerstand im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Schulerweiterung der Grundschulen in Bayenthal, Gemeinsamer Antrag der CDU-Fraktion und der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.2: Jet-Ski: Sonntagsfahrverbot; Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Fahrplananpassungen bei der Buslinie 131, Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.5: Begrünung der Dächer öffentlicher Gebäude in Rodenkirchen, Antrag der SPD-Fraktion und der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.5.1: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 8.1.6: Sirenenalarm bei Gefahrwetterlagen im Stadtbezirk Köln-Rodenkirchen; Antrag der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8: Lärmschutzmaßnahmen im Stadtbezirk Rodenkirchen, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.9: Bahnhofsareal in Sürth: Bericht über Planungsstand; Antrag der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.9.1: Stellungnahme der KVB zu Bahnhofsareal in Sürth: Bericht über Planungsstand - Kenntnis genommen
+- TOP 8.1.10: Umwandlung der Flüchtlingsunterkunft "Bonotel" in Köln-Marienburg in ein Studentenwohnheim, Antrag der FDP-Fraktion - zurückgestellt
+- TOP 8.1.10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.11: Sanierung der Treppenanlage zum Rosengarten am Zwischenwerk VIII b in Marienburg, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.12: Artenreiche Blumenwiese: Anlage und Pflege, Antrag der Fraktion Die Grünen - zurückgestellt
+- TOP 8.1.12.1: Änderungsantrag der CDU-Fraktion zu AN/1422/2018 - zurückgestellt
+- TOP 8.1.13: Aufklärungskampagne der Gesundheitsvorsorge für Kinder und Jugendlichein Meschenich/Kölnber, Antrag der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.14: Shell Rheinland-Raffinerie: Überprüfung Sicherheitsmanagement, Statusbericht; Antrag der Fraktion Die Grünen - endgültig zurückgezogen
+- TOP 8.1.15: Bayenthalgürtel: Entsiegelung des Mittelstreifens von Goltstein- bis Alteburger Straße, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.1.1: TOP 9.1.1 (Sürther Straße, Planungsbeschluss zur Umgestaltung) - zurückgestellt
+- TOP 9.1.2: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Rodenkirchen zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - ungeändert beschlossen
+- TOP 9.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4: Vergabe der bezirksorientierten Mittel 2018 gemäß § 37 Absatz 3 GO NW - 4. Runde - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.2: abgesetzt - Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 9.2.3: Trinkbrunnen für Köln - mit Änderungen empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 10.2.3: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 10.2.4: Generalinstandsetzung des Rad- und Gehweges Militärringsstraße, hier: Mitteilung über eine Kostenerhöhung gem. §24 Abs. 2 GemHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2018 - Kenntnis genommen
+- TOP 10.2.5: Gottesweg: Neugestaltung des Bereiches zwischen Höninger und Weyerstraßerweg - Kenntnis genommen
+- TOP 10.2.6: Nitratbelastung des Grundwassers und Düngung - Kenntnis genommen
+- TOP 10.2.7: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 10.2.8: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Rodenkirchen - Kenntnis genommen
