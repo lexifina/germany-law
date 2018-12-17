@@ -1,0 +1,125 @@
+# öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2018-12-17T16:00:00+01:00
+- Ende: 2018-12-17T21:50:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12757
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12757
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 07.12.18 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00229576.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00230752.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Veranstaltungsflächen in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion "Veranstaltungsflächen in Wuppertal" vom 04.12.2018 (VO/1098/18) - Entgegennahme ohne Beschluss
+- TOP 2.2: Bündnis gegen Armut - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der CDU-Fraktion "Bündnis gegen Armut" vom 05.12.2018 (VO/1102/18) - Entgegennahme ohne Beschluss
+- TOP 2.3: Entwicklungen im Bayer-Konzern und Auswirkungen auf Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Entwicklungen im Bayer-Konzern und Auswirkungen auf Wuppertal" vom 07.12.2018 (VO/1110/18) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Einrichtung eines indirekten Linksabbiegers für Radfahrende am Robert-Daum-Platz
+- TOP 3.2: Bürgerantrag zur Einrichtung einer Tempo-30-Strecke auf der Gathe
+- TOP 4: Anträge
+- TOP 4.1: Bürgerantrag zur Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Absatz 2 Sozialgesetzbuch VIII - in der Sache erledigt
+- TOP 4.1.1: Richtlinien über die Genehmigung von Tagespflege und die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Abs.2 SGB VIII - geändert beschlossen
+- TOP 4.1.2: Änderungsantrag zu Drucks.-Nr. VO/0799/18 - in der Sache erledigt
+- TOP 4.1.3: Ergänzungsantrag zur VO/0799/18 - ungeändert beschlossen
+- TOP 4.2: Seilbahn für den Zoo - ungeändert beschlossen
+- TOP 4.3: Hängebrücke als Touristenmagnet für Wuppertal - abgelehnt
+- TOP 4.4: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Gemeinsamer Antrag zum Bebauungsplanverfahren "Kleine Höhe" - abgesetzt
+- TOP 4.4.1: Abgesetzt. Vorberatung nicht abgeschlossen. Kleine Höhe: Landwirtschaft sichern – forensische Klinik ermöglichen - abgesetzt
+- TOP 4.5: Abgesetzt. Von der Antrag stellenden Ratsgruppe zurückgestellt. Prüfauftrag über eine mögliche Ansiedlung des Café Cosa am Standort des Fahrradparkhauses - abgesetzt
+- TOP 4.6: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Kein Kind ohne Schulmittagessen - Antrag der Fraktionen vom 27.11.2018 - abgesetzt
+- TOP 4.6.1: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Änderungsantrag zu VO/1071/18/1-Neuf. Kein Kind ohne Schulmittagessen - abgesetzt
+- TOP 4.7: Fertigstellung des Bürgersteiges vor der neuen Wagenhalle der Freiwilligen Feuerwehr Ronsdorf - zur Beratung und Entscheidung verwiesen
+- TOP 4.8: Öffentliche Gebäude mit Radabstellmöglichkeiten ausstatten - ungeändert beschlossen
+- TOP 4.9: Erhalt gesunder Bäume bei Planungen festschreiben - zur Vorberatung verwiesen
+- TOP 4.10: Rekommunalisierung von Reinigungsdiensten - ungeändert beschlossen
+- TOP 4.11: Lokale Demokratie stärken, Rechte der Bezirksvertretungen ausweiten! - ungeändert beschlossen
+- TOP 4.12: Resolution zur Entwicklung im Bereich der Bayer AG am Standort Wuppertal - ungeändert beschlossen
+- TOP 4.12.1: Ersetzungsantrag der FDP-Fraktion im Rat der Stadt Wuppertal zur Resolution zur Entwicklung im Bereich der Bayer AG am Standort Wuppertal (VO/1108/18) zur Sitzung des Hauptausschusses am 12.12.2018 und der Ratssitzung am 17.12.2018 - in der Sache erledigt
+- TOP 4.13: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. "Rechte des Schulausschusses nicht beschneiden"
+- TOP 4.14: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Resolution Digitalpakt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Integrationspauschale - abgesetzt
+- TOP 5.2: Radabstellanlage am Döppersberg - ungeändert beschlossen
+- TOP 5.2.1: Radabstellmöglichkeiten am Döppersberg - Entgegennahme ohne Beschluss
+- TOP 5.2.2: Radhaus am Standort Bundesalle/Döppersberg ermöglichen - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Vorlage wurde von der Verwaltung zurückgezogen. Satzung über die Abweichung von den Merkmalen der endgültigen Herstellung für die Erschließungsanlage Rathenaustraße / Sonnabendstraße zwischen Huldastraße und dem Grundstück Sonnabendstraße - abgesetzt
+- TOP 6.2: Änderung der Betriebssatzung des Eigenbetriebes Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 6.3: Änderung der Straßenreinigungssatzung sowie Beschluss über die Straßenreinigungsgebühren 2019 - ungeändert beschlossen
+- TOP 6.4: 12. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.5: 2. Satzung zur Änderung der Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: 6. Änderung der Gebührensatzung zur Wasserversorgungssatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.7: Änderung der Abfallwirtschaft 2019 - ungeändert beschlossen
+- TOP 6.8: Gebührensatzung zur Abfallwirtschaft 2019 - ungeändert beschlossen
+- TOP 6.9: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie Obdachlose der Stadt Wuppertal (5. Änderungssatzung) - ungeändert beschlossen
+- TOP 6.10: Zweite Änderungssatzung – Sanierungssatzung Stadtumbau West/Soziale Stadt - ungeändert beschlossen
+- TOP 6.11: Satzung über die Ablösung von Stellplätzen der Stadt Wuppertal (Stellplatzablösesatzung) - Satzungsbeschluss - ungeändert beschlossen
+- TOP 6.12: Satzung über die Festsetzung der Hebesätze - ungeändert beschlossen
+- TOP 6.13: 2. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen (GeschO) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Nachtragshaushaltsplan 2019 - ungeändert beschlossen
+- TOP 7.1.1: Nachtragsstellenplan 2019 - ungeändert beschlossen
+- TOP 7.2: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2017 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2017 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2019 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal für das Jahr 2019 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2019 des Eigenbetriebes Wasser und Abwasser - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan 2019 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.7: Abberufung und Bestellung der Betriebsleitung und stellvertretenden Betriebsleitung der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.8: Jahresabschluss 2017 des Eigenbetriebes Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.9: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 8.10: Wirtschaftsplan 2019 des Eigenbetriebes Straßenreinigung Wuppertal - ungeändert beschlossen
+- TOP 8.11: Beteiligungsbericht 2017 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.12: Wirtschaftsplan 2019 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.13: Wirtschaftsplan 2019 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.14: Feststellung Jahresabschluss Stadt Wuppertal zum 31.12.2017 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 820 - Wettiner Straße / Adolf-Vorwerk-Straße / Sachsenstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 444 - Röckebecke - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Machbarkeitsstudie Bundesgartenschau - geändert beschlossen
+- TOP 11.1.1: Bundesgartenschau - Beschluss des Beirats Bürgerbeteiligung und Stellungnahme der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 11.2: Vorkaufssatzung Bundesgartenschau - Satzungsbeschluss - ungeändert beschlossen
+- TOP 11.3: Planung und Errichtung des Pina Bausch Zentrums - ungeändert beschlossen
+- TOP 11.3.1: Ergänzungsantrag der FDP-Fraktion im Rat der Stadt Wuppertal zum Durchführungsbeschluss „Planung und Errichtung des Pina Bausch Zentrums“ (VO/0776/18) - zur Vorberatung verwiesen
+- TOP 11.4: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzone "Herzogstraße" - in der Sache erledigt
+- TOP 11.4.1: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Ergänzungsantrag zur Drucksache VO/0779/18 Umgestaltung Von-der-Heydt-Platz - abgesetzt
+- TOP 11.4.2: Ergänzende Unterlagen zur Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzone "Herzogstraße" - Entgegennahme ohne Beschluss
+- TOP 11.4.3: Neugestaltung des Stadtplatzes "Von-der-Heydt-Platz" sowie der dazugehörigen Fußgängerzonen der "Herzogstraße" - ungeändert beschlossen
+- TOP 11.4.4: Prüfergebnis zur Erhaltung der Bestandsbäume auf dem Von-der-Heydt-Platz und der Herzogstraße - Entgegennahme ohne Beschluss
+- TOP 11.4.5: Abgesetzt. Vertagt auf die nächste Sitzungsfolge. Mehr Grün in der Stadt: Bäume, Dachbegrünung und Grünflächen - vertagen
+- TOP 11.5: Fortgeschriebener qualifizierter Mietspiegel 2018 - Entgegennahme ohne Beschluss
+- TOP 11.6: Antrag auf Genehmigung der Erhöhung der Zügigkeit des Bildungsgangs "Kaufmann/-frau im E-Commerce" - ungeändert beschlossen
+- TOP 11.7: Smartphonebasierte Alarmierung von Ersthelfern bei der Reanimation - Entgegennahme ohne Beschluss
+- TOP 11.8: Änderungen bei der Umsetzung der Gewinnerideen des Bürgerbudgets 2017 - ungeändert beschlossen
+- TOP 11.9: Abgesetzt. Vorberatung nicht abgeschlossen. Rahmenkonzept des Bürgerbudgets 2019 - abgesetzt
+- TOP 11.10: Umsetzung des integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Heckinghausen - Entgegennahme ohne Beschluss
+- TOP 11.11: Festsetzung der Ausbildungsumlage gemäß Altenpflegeausbildungsausgleichsverordnung für die Zeit vom 01.01.2019 bis 31.12.2019 - ungeändert beschlossen
+- TOP 11.12: Investitionsaufwendungen für die Zeit vom 01.01.2018 bis 31.12.2018 für die Alten- und Altenpflegeeinrichtungen Obere Lichtenplatzer Straße und Vogelsangstraße - ungeändert beschlossen
+- TOP 11.13: 2. Aktionsplan zur Gleichstellung von Frauen und Männern 2016 - 2018, Sachstandsbericht und Antrag auf Verlängerung - geändert beschlossen
+- TOP 11.14: Umsetzung des Teilhabechancengesetzes - ungeändert beschlossen
+- TOP 11.15: Bericht über die Möglichkeiten zur Bürgerbeteiligung beim Seilbahnprojekt - vertagen
+- TOP 11.16: Anhängiges Berufungsverfahren Stadt Wuppertal / Athletic Sport Sponsoring GmbH (ASS) - hier: Aspekt der Streitverkündung - abgesetzt
+- TOP 11.17: Bericht über den Dieselgipfel bei der Bundeskanzlerin - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: 40. ordentliche Hauptversammlung des Deutschen Städtetages vom 04. - 06. Juni 2019 in Dortmund - geändert beschlossen
+- TOP 12.2: Veränderungen im Beirat der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 12.3: Gremienumbesetzung Zweckverbandsversammlung Bergische Volkshochschule Solingen Wuppertal - ungeändert beschlossen
+- TOP 12.4: Grundsätzliche Stellvertretungsregelung im Beirat Bürgerbeteiligung und Nachbenennung offener Stellvertretungen - ungeändert beschlossen
+- TOP 12.5: Abberufung und Bestellung von Vertretern der Stadt Wuppertal im Betriebsausschuss des aKDn-sozial - ungeändert beschlossen
+- TOP 12.6: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.7: Abberufung und Bestellung der Vertretung des Vetreters der Stadt in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12.8: Gremien/Benennung - ungeändert beschlossen
