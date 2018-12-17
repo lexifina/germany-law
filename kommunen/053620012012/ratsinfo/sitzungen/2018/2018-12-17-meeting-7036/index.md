@@ -1,0 +1,93 @@
+# Rat (45. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2018-12-17T17:00:00+01:00
+- Ende: 2018-12-17T22:17:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUNrA4u8tzKk3SRl9BNcWJQ
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7036
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbt6k1fRybz0_0jTmGoLrSDsNO43JKPDft3ZMAS6-Qlg/Bekanntmachung_Rat_17.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-Q33N-YymCzvYUZgRylCMzvQTGl9SYBrFndhS-zB0K/Oeffentliche_Niederschrift_Rat_17.12.2018.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Vermietung eines Grundstücks durch die Stadt Brühl
+- TOP 1.2: Baumfällungen am Schloss
+- TOP 1.3: Straßenbaubeiträge "Am krausen Baum" (I)
+- TOP 1.4: Straßenbaubeiträge "Am krausen Baum" (II)
+- TOP 1.5: Baumfällungen Bonnstraße
+- TOP 2.: Niederschrift vom 29.10.2018
+- TOP 3.: Einführung und Verpflichtung von neuen Ratsmitgliedern hier: Richard Wiese (Grüne) und Frank Pohl (CDU)
+- TOP 4.: Haushalt 2018
+- TOP 4.1: Beratung Haushaltsentwurf 2019 hier: vierte verwaltungsseitige Fortschreibung
+- TOP 4.2: Haushaltssatzung 2019 hier: Stellenplan und Stellenübersicht nach der Haushaltsgliederung
+- TOP 4.2.1: Haushaltssatzung 2019 hier: Fortschreibung des Stellenplans 2019 - (kein Text vorhanden)
+- TOP 4.3: Baumpflanzung Bezug: Antrag der FDP-Fraktion vom 20.11.2018
+- TOP 4.4: Gute Schule 2020 - Mittel 2019 hier: Haushaltsberatungen 2019 Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 06.12.2018 - (kein Text vorhanden)
+- TOP 4.5: Einwendungen gegen den Entwurf der Haushaltssatzung 2019 - hier: Stellungnahme IHK-
+- TOP 4.6: Mündlich gestellte Anträge
+- TOP 4.6.1: Tag des Sports Gemeinsamer Antrag der Fraktionen CDU und Grüne
+- TOP 4.6.2: Inventarbeschaffung Gemeinsamer Antrag der Fraktionen CDU und Grüne
+- TOP 4.6.3: Erhöhung des Budgets für die Spielraumplanung Gemeinsamer Antrag der Fraktionen CDU und Grüne
+- TOP 4.6.4: Erhöhung der Fortbildungskosten für Erzieherinnen und Erzieher Gemeinsamer Antrag der Fraktionen CDU und Grüne
+- TOP 4.6.5: Ausdehnung der Beförderungsscheine für gehbeeinträchtigte Menschen Antrag der Fraktion Linke&Piraten
+- TOP 4.6.6: Brühlpasserweiterung für sportliche Angebote Antrag der Fraktion Linke&Piraten
+- TOP 4.6.7: Gebühren Kunst- und Musikschule Antrag der Fraktion Linke&Piraten
+- TOP 4.6.8: Sanierung der Radwege Antrag der Fraktion Linke&Piraten
+- TOP 4.6.9: Ankauf von Ökopunkten Antrag der Fraktion Linke&Piraten
+- TOP 4.6.10: Freies Wlan in der Innenstadt Antrag der Fraktion Linke&Piraten
+- TOP 4.6.11: Gewerbesteuer Antrag der Fraktion Linke&Piraten
+- TOP 4.7: Erlass der Haushaltssatzung 2019 Rat 29.10. u. HA 26.11., 03.12.18 - (kein Text vorhanden)
+- TOP 5.: Gesellschafterversammlung Stadtwerke Brühl GmbH - Bestellung einer Geschäftsführerin oder eines Geschäftsführers
+- TOP 6.: Gesellschafterversammlung Gebausie hier: Wirtschaftsplan 2019 - (kein Text vorhanden)
+- TOP 7.: Abwassergebührenkalkulation 2019
+- TOP 8.: Satzungen
+- TOP 8.1: 9. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl Bezug: Vorlage 364/2018 - (kein Text vorhanden)
+- TOP 8.2: Satzung über die Erhebung von Gebühren für die Abfallbeseitigung in der Stadt Brühl - (kein Text vorhanden)
+- TOP 8.2.1: Satzung über die Erhebung von Gebühren für die Abfallbeseitigung in der STadt Brühl hier: Beschluss des AöR-Verwaltungsrates
+- TOP 8.3: Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Brühl -Straßenreinigungssatzung- - (kein Text vorhanden)
+- TOP 8.3.1: Satzung über die Erhebung von Straßenreinigungsgebühren in der Stadt Brühl –Straßenreinigungssatzung- hier: Beschluss des AöR-Verwaltungsrates
+- TOP 8.4: Änderung der Satzung der Stadt Brühl über die Anstalt des öffentlichen Rechts „Stadtservicebetrieb Brühl -AöR-“ - (kein Text vorhanden)
+- TOP 8.5: 14. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Krankentransport und die Notfallrettung in der Stadt Brühl - Satzung Rettungsdienst – - (kein Text vorhanden)
+- TOP 8.6: Satzung über die Ablösung von Stellplätzen der Stadt Brühl - (kein Text vorhanden)
+- TOP 8.7: Satzung über die Abfallentsorgung in der Stadt Brühl Hier: Anpassung an die Mustersatzung - (kein Text vorhanden)
+- TOP 8.8: Sondersatzung gemäß § 4 Abs. 5 der Satzung über die Erhebung von Beiträgen nach § 8 KAG NRW für straßenbauliche Maßnahmen hier: Franzstraße von Rheinstraße bis Einmündung Lida-Gustava-Heymannstraße Bezug: AfBU 12.07.2018, Vorlagen 179/2018 und 200/2018 - (kein Text vorhanden)
+- TOP 8.9: 7. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS - - (kein Text vorhanden)
+- TOP 9.: Prüfung Jahresabschluss 2017 - (kein Text vorhanden)
+- TOP 10.: Prüfung Gesamtabschluss 2015 - (kein Text vorhanden)
+- TOP 11.: Kulturstiftung für die Stadt Brühl hier: Besetzung des Stiftungsrates - (kein Text vorhanden)
+- TOP 12.: Änderung der Geschäftskreise der Beigeordneten der Dezernate II und III
+- TOP 13.: Überplanmäßige Ausgaben
+- TOP 13.1: Überplanmäßige Mittelbereitstellung Hier: Vollzug des Unterhaltsvorschussgesetz - (kein Text vorhanden)
+- TOP 13.2: Erich-Kästner-Realschule -Übergangsunterbringung- Hier: 1. Herrichtung RWE-Gebäude Auguste-Viktoria-Straße als Interimslösung EKR 2. Üpl. Ausgabe für Erweiterung der Container als Interimslösung EKR - (kein Text vorhanden)
+- TOP 13.3: Überplanmäßige Ausgabe bei SK 543122 Gerichtskosten u.a. - (kein Text vorhanden)
+- TOP 14.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 14.1: Baumfällungen Bonnstraße - Erschließung B-Plangebiet 01.16 II Bezug: AfBU vom 15.11.2018 - Tischvorlage-Nr. 428/2018 - TISCHVORLAGE - - (kein Text vorhanden)
+- TOP 14.2: Dringlichkeitsentscheidung Bebauungsplan 04.08 „Sonder- und Gewerbegebiet Bergerstraße / Lise-Meitner-Straße“ - 2. Verlängerung der Veränderungssperre gemäß § 14-18 BauGB - - (kein Text vorhanden)
+- TOP 15.: Beteiligungsbericht 2015
+- TOP 16.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2017 - (kein Text vorhanden)
+- TOP 17.: Anträge
+- TOP 17.1: Resolution des Rates der Stadt Brühl zu Fahrverboten in Köln und Bonn Bezug: Antrag der FDP-Fraktion vom 15.11.2018 - (kein Text vorhanden)
+- TOP 17.2: Leben im Quartier im Alter und mit Einschränkungen Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 04.12.2018 - (kein Text vorhanden)
+- TOP 18.: Umbesetzung in Ausschüssen
+- TOP 18.1: Umbesetzungen in verschiedenen Ausschüssen und Gremien Bezug: Antrag der CDU Fraktion vom 30.11.2018 - (kein Text vorhanden)
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen
+- TOP 20.1: Beteiligung der Stadt Brühl an überörtlichen Bündnissen, Aktionsgemeinschaften, geförderten Initiativen, Arbeitsgemeinschaften u.a. Bezug: Anfrage der FDP-Fraktion vom 04.11.2018
+- TOP B): Nichtöffentliche Sitzung
+- TOP 21.: Gesellschafterversammlung Stadtwerke Brühl GmbH
+- TOP 21.1: Gesellschafterversammlung Stadtwerke Brühl GmbH - (kein Text vorhanden)
+- TOP 22.: Bestellung der Schulleitung gemäß § 61 SchulG NRW hier: Max-Ernst-Gymnasium - (kein Text vorhanden)
+- TOP 23.: Ankauf einer Immobilie - (kein Text vorhanden)
+- TOP 24.: Haushaltssatzung 2019 hier: Erläuterungen zur Fortschreibung des Stellenplans 2019
+- TOP 25.: Rathaus Neu- und Umbau Spezialtiefbauarbeiten - (kein Text vorhanden)
+- TOP 26.: Bericht über die 145. Sitzung des Aufsichtsrates der REVG mbH am 20.09.2018
+- TOP 27.: Mitteilungen
+- TOP 28.: Anfragen
+- TOP 28.1: Personalfindung Bezug: Anfragen der FDP-Fraktion vom 15.11.2018
+- TOP 28.1.1: Anfrage der FDP-Fraktion: Personalfindung
