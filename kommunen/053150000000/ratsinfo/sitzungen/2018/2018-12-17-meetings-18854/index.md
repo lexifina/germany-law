@@ -1,0 +1,53 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2018-12-17T16:00:00+01:00
+- Ende: 2018-12-17T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18854
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/18854
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 13.12.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00696610.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 13.12.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00696610.pdf
+- Wortprotokoll: Tagesordnung, Stand 13.12.2018 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00696610.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Mikroplastik in unseren Gewässern – Kann eine Geschwemmselanlage für den Rhein helfen? - Sache ist erledigt
+- TOP 1.1.1: Mikroplastik in unsren Gewässern - Kann eine Geschwemmselanlage für den Rhein helfen? - Kenntnis genommen
+- TOP 1.2: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.3: Kleine Maßnahmen gegen Plastikmüll: Leihsystem mit wiederverwertbaren Behältnissen für Lieferdienste einführen? - Kenntnis genommen
+- TOP 1.4: Wie kann das Plastikmüll-Problem auf dem Christopher Street Day in Köln gelöst werden? - zurückgestellt
+- TOP 1.4.1: Plastikmüll auf dem Christopher Street Day in Köln - zurückgestellt
+- TOP 1.5: Nachhaltigkeit bei Veranstaltungen der Stadt Köln - zurückgestellt
+- TOP 1.6: Vermeidung von Dieselfahrverboten - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientiert; Nahrung und Erfahrugnsraum für unsere Stadt - zurückgestellt
+- TOP 2.2: Plastikmüll auf Großveranstaltungen – Selbstverpflichtungen erzielen! - geändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Fortschreibung des Landschaftsplans Köln (12. Änderung) Überarbeitung der allgemeinen textlichen Festsetzungen für Schutzgebiete hier: öffentliche Auslegung - ungeändert empfohlen
+- TOP 4.2: Integriertes Stadtentwicklungskonzept Äußerer Grüngürtel Nord - ungeändert empfohlen
+- TOP 4.3: Änderung der Gestaltungsplanung für das Kooperationsgrabfeld auf Flur 94 des Friedhofs Melaten - ungeändert beschlossen
+- TOP 4.4: Vergabe der Stadtverschönerungsmittel 2018 im Stadtbezirk Innenstadt - geändert beschlossen
+- TOP 4.5: Stadtklima-/Stadtverschönerungsprogramm 2018 im Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 4.6: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - ungeändert beschlossen
+- TOP 4.7: Stadtklima-/ Stadtverschönerungsprogramm 2018 im Stadtbezirk Porz - ungeändert beschlossen
+- TOP 4.8: Stadtklima-/Stadtverschönerungsprogramm 2018 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ungeändert beschlossen
+- TOP 4.9: Ersatzbeschaffung von einem Radlader - ungeändert beschlossen
+- TOP 4.10: Ersatzbeschaffung von einem LKW mit Hakenlift - ungeändert beschlossen
+- TOP 4.11: Ersatzbeschaffung von 6 Kolonnenfahrzeugen - ungeändert beschlossen
+- TOP 4.12: Vertrag über die Entsorgung von Friedhofsabfällen auf dem Kölner Stadtgebiet - ungeändert empfohlen
+- TOP 4.13: Trinkbrunnen für Köln - im ersten Durchgang verwiesen
+- TOP 4.14: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - zurückgestellt
+- TOP 4.15: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - zurückgestellt
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
