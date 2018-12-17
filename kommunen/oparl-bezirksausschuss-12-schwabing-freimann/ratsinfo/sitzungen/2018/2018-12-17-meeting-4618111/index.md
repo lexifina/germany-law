@@ -1,0 +1,163 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2018-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4618111
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4618111
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.1.: Bericht über den aktuellen Stand der Überlegungen zur urbanen Mitte in der Parkstadt Schwabing
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.11.: Stellungnahme der Verwaltung zu den Ergebnissen des Mobilitätsworkshops des BA 12 im Rahmen des Bebauungsplanverfahrens Nr. 1989, Unterlagen hierzu unter D.5.3.7
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Baumfällungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 7.1.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018-2022
+- TOP 7.2.: Stadtbezirksbudget; Information zur weiteren Stellenbesetzung
+- TOP 7.3.: BA-Informationsschreiben Nr. 04/2018, Technikpauschale, Update der Kooperationsplattform „Alfresco“
+- TOP 10.2.: Bürgeranliegen – Alkoholverbot für den 24 Stunden-Kiosk Münchener Freiheit
+- TOP B.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Zwei Fahrkartenautomaten an der Linie 23, Haltestellen „Domagkstraße“ und „Anni-Albers-Straße“
+- TOP 1.2.: Radwegsicherheit an der Heidemannstraße verbessern
+- TOP 1.3.: Eine Wertstoffinsel für die Parkstadt Schwabing
+- TOP 1.4.: Radweg an der Leopoldstraße optimieren
+- TOP 1.5.: Fußgängerampel an der Kreuzung Leopold- / Herzogstraße installieren
+- TOP 1.6.: Parksituation in der Osterwaldstraße (Initiative: Prof. Dr. Dieter Brochmeyer, Dr. Horst Engler-Hamm)
+- TOP 1.7.: Attraktive Tramverbindung schaffen – Regulärer Betrieb auf den Tramgleisen zwischen Scheidplatz und Prazivalplatz möglich machen
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Feuerwehrzufahrt zur Fröttmaninger Heide
+- TOP 3.: Anhörungen
+- TOP 3.2.1.: Weitere U-Bahn-Planung in der Landeshauptstadt München
+- TOP 3.2.2.: Erinnerungsverfahren Ursulastraße
+- TOP 3.2.3.: Erinnerungsverfahren Kunigundenstraße
+- TOP 3.2.4.: Erinnerungsverfahren Giselastraße
+- TOP 3.2.5.: Erinnerungsverfahren Gundelindenstraße
+- TOP 3.2.6.: Austausch von Lichtsignalanlagen, Heidemann- / Maria-Probst-Straße
+- TOP 3.2.7.: Austausch von Lichtsignalanlagen, Rhein- / Mainzer Straße
+- TOP 4.1.: Bitte um Strauchrückschnitt
+- TOP 4.2.: Domagkpark – Zugänge zum Park
+- TOP 4.3.: Parkplatzsituation Altschwabing – Temporäre Parkverbote
+- TOP 4.4.: Verkehrssicherheit in der Unterführung am Harkortweg
+- TOP 4.5.: Radverkehr auf dem Karl-Arnold-Weg
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Kein Einweg im Veranstaltungsbereich Corso
+- TOP 5.1.2.: Fahrradstellplätze an der Münchner Freiheit, Empfehlung Nr. 14-20 / E 02127 vom 12.07.2018, Schreiben des Referats auf den Beschluss des Bezirksausschusses
+- TOP 5.1.3.: Gefährdung und Abhilfemaßnahme für Clemens- Ecke Leopoldstraße
+- TOP 5.1.4.: Münchens letzter Gruß an unsere Gäste: Flughafen Bushaltestelle sicherer gestalten
+- TOP 5.1.5.: Fahrradchaos vor Lift und Übergang Herzog- / Leopoldstraße beseitigen, BV-Empfehlung Nr. 14-20 / E 02121 vom 12.07.2018, Referatsschreiben
+- TOP 5.1.6.: Entfernung der Container auf dem Platz Destouches- Muffastraße
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Bismarckstraße 2
+- TOP 5.2.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Hollandstraße 9
+- TOP 5.2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Herzog-Wilhelm-Straße 19
+- TOP 5.2.4.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Edmund-Rumpler-Straße
+- TOP 5.2.5.: Zufahrtsregelung für Wohngebiete bei der Allianz-Arena an Spieltagen
+- TOP 5.2.6.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen, hier: Edmund-Rumpler-Straße
+- TOP 5.2.7.: Parkraummanagement, Lizenzgebiet Potsdamer Straße, Parkregelung in der Leopoldstraße
+- TOP 5.2.8.: Absicherung der (provisorischen) Fußgängerinsel in der Lilienthalallee
+- TOP 5.2.9.: Hinweis auf Fahrbahnverengung Brandenburger Straße
+- TOP 5.2.10.: Anfahrtszone vor Max-Bill-Straße 65
+- TOP 5.3.1.: Zugang zur Station Nordfriedhof – hier Handlauf, Antwortschreiben des Referates auf ein Bürgeranliegen
+- TOP 5.3.2.: Maßnahmen zum Fahrplanwechsel 2018
+- TOP 5.3.3.: Maßnahmen zur Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs, Sitzungsvorlage Nr. 14-20 / V 12597
+- TOP 5.3.4.: Lärmschutz an der A9 – Grünecker Straße, Antwortschreiben des Referats auf ein Bürgeranliegen
+- TOP 5.3.5.: Optimierung der Stellflächennutzung in der Siegfriedstraße, Antwortschreiben des Referats auf ein Bürgeranliegen
+- TOP 5.3.6.: Stellungnahme des BA 01 Altstadt-Lehel, Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum – Sachstand und weiteres Vorgehen
+- TOP 5.3.7.: Trinkwasserprojekt „Am Blütenring“, Infoflyer der Stadtwerke München
+- TOP 5.3.8.: Bestellung einer städtischen Leistung, Begrünung der Germaniastraße, Zwischennachricht
+- TOP 5.3.9.: Lieferzone Feilitzschstraße 4-6
+- TOP 5.3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.12.: Änderung bzw. Ergänzung der verkehrsrechtlichen Erlaubnis, Leopoldstraße 21, Franz-Joseph-Straße 2
+- TOP 5.3.13.: Schulweghelfer Hohenzollern-/Wilhelmstraße und Bismarck-/Herzogstraße, Referatsschreiben auf Bürgeranliegen
+- TOP 5.3.14.: Ampelanlage an der Kreuzung Lilienthalallee – Edmund-Rumpler-Straße, Antwortschreiben des Referats auf das Bürgeranliegen C.4.1-10/18
+- TOP C.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Zaun überwinden – Grundstücksgrenze beim Städtischen Atelierhaus am Domagkpark endlich verkehrssicher gestalten
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Sozialservice - Gesellschaft des Bayrischen Roten Kreuzes GmbH Festliches Weihnachtskonzert am 14.12.2018 650,00€ Az.: 0262.0-12-0286
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Leerstand braucht Farbe" Projekt "Leerstand braucht Farbe" vom 01.12.2018 - 28.02.2019 8.000,00€ Az.: 0262.0-12-0288
+- TOP 2.3.: (E) Stadtbezirksbudget Theater Heppel & Ettlich Neugestaltung der Garderobe von Januar - Dezember 2019 11.200,00 Euro, Az.: 0262.0-12-0287
+- TOP 2.4.: (E) Stadtbezirksbudget Rationaltheater München e.V. Wiederaufnahme der Theaterproduktion "Lili Marleen" von September - Oktober 2019 6.400,00€; Az.: 0262.0-12-0290
+- TOP 2.5.: (E) Stadtbezirksbudget Rationaltheater München e.V. Erneuerung der Dimmereinheiten im Zeitraum von Januar - Februar 2019 3.886,00€; Az.: 0262.0-12-0292
+- TOP 2.6.: (E) Stadtbezirksbudget Wohnbaugenossenschaft wagnis eG Schallisolierung eines Musikraumes 32.645,57 Euro, Az.: 0262.0-12-0289
+- TOP 2.7.: (E) Stadtbezirksbuget Ensemble Ultima Rara Musical Cosmopolitans vom Juli bis November 2019 747,50 Euro, AZ: 0262.0-12-0295
+- TOP 3.: Anhörungen
+- TOP 3.1.: Anfrage Streetlife Festival / Corso Leopold: Frühere Aufbauzeiten und Ausweitung des Corso Leopold
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Schluss mit der Mangelverwaltung! Mehr Ateliers für das städtische Atelierhaus am Domagkpark durch mutige Nachverdichtung
+- TOP 5.2.1.: Liebigstraße 14
+- TOP 5.2.2.: Occamstreaße 11
+- TOP 5.2.3.: Münchner Freiheit 12
+- TOP 5.2.4.: Karl-Köglsperger-Straße 17
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Standortverlagerung des Alten- und Service- Zentrums (ASZ) Freimann in das Neubaugebiet Bayernkaserne 12 Stadtbezirk - Schwabing-Freimann
+- TOP 5.3.2.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Oktober 2018
+- TOP 5.3.3.: Verwendungsnachweise über gewährte Zuschüsse aus dem Stadtbezirksbudget
+- TOP 5.3.4.: Dienststellenverständigung Grundschule Fröttmaninger Straße 21
+- TOP 5.3.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 5.3.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 5.3.7.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 5.3.8.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 5.3.9.: Stadtbezirksbudget der Bezirksausschüsse der Landeshauptstadt München; Ablehnung einer beantragten Zuwendung
+- TOP 5.3.10.: Die Flüchtlingserstaufnahme in München Langfristig endlich angemessen gestalten, Antrag der Stadtratsfraktion DIE GRÜNEN, Schnellere medizinische Erstuntersuchung von Asylbewerbern in der Bayernkaserne, BV-Empfehlung im 12. Stadtbezirk, Sitzungsvorlage Nr. 14-20 / V 00554
+- TOP D.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Außenfläche des Blumenhändlers im Forum Münchner Freiheit auf 3m² begrenzen
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 57
+- TOP 2.2.: Antrag für eine Flächenanpassung ambulanter Handel, Hohenzollernstraße 2 Seite Leopoldstraße
+- TOP 2.3.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 23, gegenüber Drogeriemarkt
+- TOP 2.4.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 51
+- TOP 2.5.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 59
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Klementinenstraße 9, 1 Ahorn
+- TOP 3.1.2.: Harrisfeldweg 10, 1 Tanne
+- TOP 3.1.3.: Leopoldstraße 103-105, 3 Laubbäume
+- TOP 3.1.4.: Siegfriedstraße 8, Aus- und Umbau des Dachgeschosses zu einer Wohnung, Einbau einer Wohnung im Untergeschoss, Einbau einer Aufzugsanlage
+- TOP 3.1.5.: Thujaweg 2, Neubau eines Doppel- und eines Einfamilienhauses
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Karl-Theodor-Straße 56, Nutzungsänderung: Bank zu Getränkemarkt
+- TOP 4.: Bürgeranliegen
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Unterrichtungen über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 5.2.2.: Hermann-Vogel-Straße 30
+- TOP 5.2.3.: Leopoldstraße 161, Eilentscheidung des Vorsitzenden
+- TOP 5.2.4.: Grusonstraße 14
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.2.: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 5.3.3.: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 5.3.4.: Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien, Sitzungsvorlage Nr. 14-20 / V 11236
+- TOP 5.3.5.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 5.3.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 5.3.7.: (U) Bebauungsplan mit Grünordnung Nr. 1989+ - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne
+- TOP 5.3.8.: Abgelehnte Baumfällung, Rappolsteiner Straße 7-13
+- TOP 5.3.9.: (U) Bebauungsplan mit Grünordnung Nr. 1943 b Frankfurter Ring (südlich), A 9 Berlin-München (westlich) und Domagkstraße (nördlich) Bauhausplatz im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Kostenobergrenze): 4.900.000 € 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 – 2022
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
