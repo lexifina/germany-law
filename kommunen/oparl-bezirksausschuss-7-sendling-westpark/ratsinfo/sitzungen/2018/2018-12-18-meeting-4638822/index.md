@@ -1,0 +1,119 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2018-12-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4638822
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4638822
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 8.8.1: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 7 Sendling-Westpark Widmung einer Teilstrecke des Grainauer Weges
+- TOP 8.8.2: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 7 Sendling-Westpark Widmung einer Teilstrecke des Alfred-Ludwig-Weges
+- TOP 8.8.3: Umgestaltung Spielplatz Zirler Straße
+- TOP 9.9.1: (E) Stadtbezirksbudget Alten- und Service-Zentrum (ASZ) Westpark Stadtteilführer im Februar 2019 3.400,00€; Az.: 0262.0-7-0221
+- TOP 9.9.2: Budgeterweiterung EB GS Gilmschule
+- TOP 10.10.1: Schulsprengel für Mittelschulen
+- TOP 10.10.2: Induktionsschleife für Höranlage
+- TOP 10.10.3: Ablauf von BA-Sitzungen
+- TOP 13.13.1: Fuggerstr. Fällung eines Baumes 704 Hr. Sturm Ohlstadter Str. Fällung eines Baumes 706 Hr. Bertold Hirsch-Gereuth-Str. Fällung eines Baumes 719 Hr. Meyer Arnimstr. Fällung eines Baumes 724 Hr. Meyer Schondorfer Str. Fällung eines Baumes 726 Hr. Wolf
+- TOP 14.14.1: Bauvorhaben Bauernbräuweg; Abgrabungen und Errichtung eines temporären Baugrubenverbaus Bauvorhaben Ohlenschlagerstr. 19; Neubau eines EFH mit Einliegerwohung und Garage
+- TOP 17.: Baureferat
+- TOP 17.17.1: Baumfällungen auf öffentlichem Grund
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Sanierungsarbeiten China-Garten 2019
+- TOP 31.31.2: Sanierung Fuß-und Radwege Westpark 2019
+- TOP 31.31.3: Gefahrbaumentfernungen auf öffentlichem Grund
+- TOP 31.31.4: (U) Aufwertungsmaßnahmen Südpark / Sendlinger Wald im 7. Stadtbezirk Sendling - Westpark und im 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Projektkosten (Kostenobergrenze): 2.190.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 31.31.5: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Update Kooperationsplattform - Alfresco
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Baustelleneinrichtung-Josef-Rank-Weg
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: (U) Mehrjahresinvestitionsprogramm (MIP) 2018 - 2022 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 41.41.2: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 41.41.3: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 41.41.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.5: (U) PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung Zweiter Statusbericht A) Zweiter Statusbericht 2018 B) Weiteres Vorgehen C) Stellenbedarf, Kosten und Finanzierung
+- TOP 41.41.6: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten, Antragsbüro - Untere Naturschutzbehörde, Artenschutz - Abteilung Denkmalschutz und Stadtgestalt, Verwaltung Personal- und Sachmittelbedarf
+- TOP 41.41.7: (U) Perspektive München - Integration der digitalen Transformation und Fortschreibung des strategischen Konzepts
+- TOP 41.41.8: (U) Perspektive München - Handlungsräume der Stadtentwicklung - Integriertes Handlungsraumkonzept für den Handlungsraum 3 "Rund um den Ostbahnhof - Ramersdorf - Giesing" - "Münchner Modell der Handlungsräume" als neuer Planungsansatz
+- TOP 41.41.9: (U) Turnusmäßige Erhebung von Einzelhandelsdaten sowie Erstellung von Einzelhandelsgutachten Finanzierung
+- TOP 41.41.10: (U) Förderung von Bürgerschaftlichen Engagement Koordinationsstelle für Bürgerschaftliches Engagement beim Referat für Stadtplanung und Bauordnung, in der Zentralen Informationsstelle für Öffentlichkeitsangelegenheiten (PlanTreff) Erster Erfahrungsbericht und weitere Entwicklung
+- TOP 41.41.11: (U) Verdrängungsprozesse in der Landeshauptstadt München: "Unfreiwillige Um- und Fortzüge in Münchener Wohngebieten - Fallkonstellationen eines zunehmend angespannten Wohnungsmarktes"
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 42.42.2: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 42.42.3: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 42.42.4: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 42.42.5: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018 - 2022 Einzelplan 4 / Sozialbereich
+- TOP 42.42.6: (U) Entwurf des Mehrjahresinvestitionsprogramms 2018 - 2022 Einzelplan 4 / Jugendamtsbereich
+- TOP 43.43.1: Baumaßnahmen_SWM
+- TOP 44.44.1: Westpark-Veranstaltungen
+- TOP 44.44.2: Schulwegsitutation Hansa-/ Margartenstr.
+- TOP 44.44.3: Froschteich Westpark
+- TOP 44.44.4: Kulturhaus Laim / Sendling-Westpark
+- TOP 44.44.5: Modellprojekt Ganztagsschule Caritas
+- TOP 44.44.6: Sachbericht Dschungel-Festival 2018
+- TOP 45.: Baureferat
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Koop-Ganztagesschule Konrad-Celtis-Str.
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Generalsanierung St-Josef
+- TOP 57.57.1: Stadt und Fluss-Rahmenplanung; BA1
