@@ -1,0 +1,60 @@
+# Rat (118. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2018-12-18T18:03:00+01:00
+- Ende: 2018-12-18T20:14:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbtsUuB1afXeS5FNwINciYo
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/14801
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQNVRAKRA1JsDUDv6txRd_HKA2GPGTdJVv8POAEgIqHQ/Bekanntmachung_Rat_18.12.2018.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS8-ZA1z3E7fHLVU9h5N_beb14eLwt-inRZc2vto8jFw/Oeffentliche_Niederschrift_Rat_18.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 20.11.2018
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Wahl einer Ersten Beigeordneten / eines Ersten Beigeordneten - Einstimmig
+- TOP 5.: Umbesetzung von Gremien - Einstimmig
+- TOP 6.: Wiederwahl von Schiedspersonen - Einstimmig
+- TOP 7.: Antrag den Titel "Fairtrade-Town" anzustreben - 43 Ja-Stimme(n), 1 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 8.: Smart City - Strategie der Stadt Emsdetten - Einstimmig
+- TOP 9.: Finanzangelegenheiten
+- TOP 9.1: Feststellung des Jahresabschlusses 2017, Entlastung des Bürgermeisters - Einstimmig
+- TOP 9.2: Beteiligungsbericht 2017 - Zur Kenntnis genommen
+- TOP 10.: Vorzeitige Ausschüttung vom Jahresüberschuss 2018 des Abwasserwerkes - 34 Ja-Stimme(n), 11 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 11.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2019
+- TOP 11.1: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2019 - Einstimmig
+- TOP 12.: Zukünftige Ausrichtung der Abwasserreinigung der Kläranlage Emsdetten-Austum - Einstimmig
+- TOP 13.: Antrag der FDP-Fraktion auf Einführung einer Kastrationspflicht für Freigänger-Katzen vom 19.09.2018 - 30 Ja-Stimme(n), 9 Gegenstimme(n), 7 Enthaltung(en)
+- TOP 14.: Entwurfsplanungen zur Sanierung, Umbau und Erweiterung von Stroetmanns Fabrik - Einstimmig
+- TOP 15.: Entwurfsplanung Umbau/Erweiterung EMS-HALLE und Außenanlagen Stroetmanns Gelände - Einstimmig
+- TOP 16.: Entsorgung von Leichtverpackungen durch das Duale System Deutschland - 39 Ja-Stimme(n), 7 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 17.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Emsdetten - 45 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 18.: Satzung über die Benutzung von Obdachlosen-, Flüchtlingsunterkünften und Übergangsheimen der Stadt Emsdetten sowie über die Gebühren der Benutzung dieser Unterkünfte - Einstimmig
+- TOP 19.: Wettbürosteuersatzung - 45 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 20.: Änderung der Beitrags- und Gebührensatzung vom 20.12.2017 zur Entwässerungssatzung der Stadt Emsdetten vom 21.12.2016. und zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen vom 21.12.2016 auf Grundlage der Gebührenkalkulation für das Jahr 2019 - Einstimmig
+- TOP 21.: I. Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 20.12.2017 - Einstimmig
+- TOP 22.: VII. Nachtrag zur Gebührensatzung vom 04.07.2012 zur Satzung über die Abfallentsorgung - Einstimmig
+- TOP 23.: XII. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungs- und Gebührensatzung) - 43 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 24.: Satzung der Stadt Emsdetten über die Erhebung von Gebühren für den Unterhaltungsaufwand für Gewässer zweiter Ordnung - Gewässergebührensatzung (GGS) - Einstimmig
+- TOP 25.: Bebauungspläne
+- TOP 25.1: Bebauungsplan Nr. 44 "Kläranlage Meinerts Esch", 1. Änderung und 1. Erweiterung - Satzungsbeschluss - Einstimmig
+- TOP 25.2: Bebauungsplan Nr. 30 B "Freizeitpark", 3. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 25.3: Bebauungsplan Nr. 18 A "Neuenkirchener Straße - Nord", 2. Änderung und Teilaufhebung - Satzungsbeschluss - Einstimmig
+- TOP 26.: Schulangelegenheiten
+- TOP 26.1: Verwendungsplanung 2019 zum Investitionsprogramm "Gute Schule 2020" - Einstimmig
+- TOP 26.2: Bildung der Grundschul-Eingangsklassen im Schuljahr 2019/2020 - Einstimmig
+- TOP 27.: Allgemeine Umweltangelegenheiten
+- TOP 27.1: Beitritt zum Bündnis "Kommunen für biologische Vielfalt e.V." - Antrag der Fraktion DIE GRÜNEN - 3 Ja-Stimme(n), 42 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 28.: Stellenplan
+- TOP 28.1: Stellenplan 2019 - 28 Ja-Stimme(n), 0 Gegenstimme(n), 18 Enthaltung(en)
+- TOP 29.: Etat / Budget
+- TOP 29.1: Haushaltssatzung und Haushaltsplan 2019 - Einstimmig
+- TOP 30.: Bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" Förderung für Modernisierung und Erweiterung Stroetmanns Fabrik und EMS-HALLE - Einstimmig
+- TOP 31.: Bundesprogramm "Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend und Kultur" Förderung für den Ersatzneubau des Hallenbades - Einstimmig
+- TOP 32.: Verschiedenes
