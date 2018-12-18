@@ -1,0 +1,165 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2018-12-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4788994
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4788994
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Ruhestörungen und Müllproblematik am Kuntersweg - Gespräch mit Vertretungen des Albert-Einstein-Gymnasiums sowie des Theodolinden-Gymnasiums (vertagt aus der November-Sitzung)
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.1.: Bericht zum Ortstermin Tegernseer Platz (Umgestaltung / Abbau von Parkplätzen vor der Post - vertagt aus der Sitzung vom 20.11.18)
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Bruggspergerstraße 58, Wohnbebauung mit Tiefgarage - VORBESCHEID; Anhörung vom 16.10.18 (vertagt aus der Sitzung vom 20.11.18)
+- TOP 3.5.4.1.2.: Brennerpaßstraße 13; Neubau eines Einfamilienhauses mit Garage (Haus 2) - TEKTUR; hier: Vergrößerung der Garage zu einer Doppelgarage; Anhörung vom 15.11.18
+- TOP 3.5.4.1.3.: Naupliastraße 72; Energetische Sanierung eines Reihenmittelhauses, Neubau zweier Schleppdachgauben, Wohnraumerweiterung an der Südseite und DG-Ausbau; Anhörung vom 22.11.18
+- TOP 3.5.4.1.4.: Tierparkstraße 30; Umstrukturierung Kinderland Hellabrunn; Anhörung vom 22.11.18
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.3.1.: 1.3.1 Protokoll der September-Sitzung 1.3.2 Protokoll der November-Sitzung
+- TOP 2.1.2.1.: Begegnungen im Perlacher Forst, Rechtslage; Bürgerschreiben
+- TOP 2.1.2.2.: Wegfall von Radwegen in der Säbener Straße; Bürgerschreiben
+- TOP 2.1.2.3.: Radweg Seybothstraße: Stolperstellen abmildern; Bürgerantrag
+- TOP 2.1.2.4.: Der BA 18 möge sich der Forderung des Aktionsbündnisses "Artgerechtes München" anschließen; Bürgerantrag
+- TOP 2.1.2.5.: MVG-Anschluss-Anzeige-Optimierung Mangfallplatz (Süd) - Haltestelle Bus 139 Richtung Klinikum Harlaching; Bürgerantrag
+- TOP 2.1.2.6.: Fahrbahnverengung, Tempo 30 und Umgestaltung der Kreuzung (Claude-Lorrain-Straße / Ecke Sachsenstraße) zur Verkehrsberuhigung, mit dem Ziel der Reduktion von Gefahrenstellen für Fußgänger (insbesondere Kinder); Bürgerantrag zu 2.1.2.6 Stellungnahme des KVR
+- TOP 2.1.2.7.: Beleuchtung des Weges vom Tiroler Platz über die Karolinger Allee abwärts bis zur Harlachinger Einkehr; Bürgeranliegen
+- TOP 2.1.2.8.: Markierung Fahrradweg / Fußgängerweg am Oxnerweg; Bürgeranliegen
+- TOP 2.1.2.9.: 1. Ampelschaltung Geiselgasteigstraße nahe der Haltestelle Klinikum Harlaching / Menterschwaige 2. Bushalt Kolumbus- / Falkenstraße auflassen; Bürgerantrag vom 03.12.18
+- TOP 2.1.2.10.: Poller auf dem Gehweg Säbener Straße; Bürgeranliegen vom 04.12.18
+- TOP 2.1.2.11.: Spielbetrieb Grünwalder Stadion, Erneute Ausschreitungen am Busbahnhof in der Tegernseer Landstraße am 10. November 2018; Bürgerschreiben
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Bürgerinitiative Mehr Platz zum Leben Buntes Treiben am Hans-Mielich-Platz! am 02.03.2019 4.004,50€; Az.: 0262.0-18-0154
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Karl & Liesl e.V. Neuanschaffung von Krippenwägen 3.564,24 € // Az. 0262.0-18-0155
+- TOP 3.1.4.1.: Zuwendung aus dem Stadtbezirksbudget; Antrag des AKA - Aktiv für interKulturellen Austausch e.V.; Zuschuss für den Formularservice Giesing vom März 2018 bis Mai 2018; Nachträgliche Kürzung der Eigenmittel und Leistungen Dritter; Schreiben des Direktoriums mit der Bitte um Rückmeldung zur Kürzung.
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: (E) Barrierefreien Ausbau in Untergiesing und Harlaching fördern; im Rahmen der Sanierung und Modernisierung der Unterführung Tegernseer Landstraße Höhe Otkerstraße auf beiden Seiten der Unterführung Aufzüge bauen Empfehlung Nr. 14-20 / E 01308 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 24.11.2016
+- TOP 3.2.2.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung; Programm barrierefreie Bushaltestellen - Pilgersheimer Straße Haltestelle Jakob-Gelb-Platz; Beschluss des BA 18 vom 18.12.18
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Naupliastraße 51; Zuleitung des KVR mit der Bitte um Stellungnahme bis 02.01.2019
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Zufahrt St. Anna Kircherl; Schreiben der Katholischen Kirchenstiftung Hl. Familie vom 11.07.18; BA-Antrag Nr. 14-20 / B 05229 vom 21.08.18; Antwortschreiben des Baureferats-Gartenbau vom 12.11.18
+- TOP 3.2.5.2.: Erweiterungsausbau der P+R-Tiefgarage Mangfallplatz unter dem Vollmarpark; BA-Antrag Nr. 14-20 / B 04505 vom 23.01.18; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 16.10.18 (vertagt aus der Sitzung vom 20.11.18 - Einladung Referatsvertreter)
+- TOP 3.2.5.3.: MVG-Anschluss Optimierung; Mangfallplatz (Süd) - Haltestelle Bus 139 Richtung Klinikum Harlaching
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: Sachsenstraße 9; Absolutes Haltverbot; Verkehrsrechtliche Anordnung nach § 45 StVO; Unterrichtung des KVR
+- TOP 3.2.6.2.: (U) Maßnahmen zur Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs 1. Projektgenehmigung 2. Genehmigung zu verwaltungsinternen Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022 Öffentlich besser fahren 7 Mit Busspuren schnell ans Ziel Antrag Nr. 14-20 / A 03440 Öffentlich besser fahren 8 „Taskforce Busoffensive 2018“ Antrag Nr. 14-20 / A 03441 vom 04.10.2017 Bus-Beschleunigung an Haltestellen realisieren – Bus-Beschleunigung light Antrag Nr. 14-20 / A 03822 vom 09.02.2018 Busspuren auch für Taxi und Carsharing Antrag Nr. 14-20 / A 03823 vom 09.02.2018 Ablehnende Haltung zur Einrichtung einer Busspur auf der Prinzregentenstraße BA-Antrag Nr. 14-20 / B 03961 vom 11.07.2017; Beschluss des gemeinsamen Ausschusses für Arbeit u. Wirtschaft, Stadtpl. u. Bauordnung, Kreisverwaltungs- u. Bauausschusses am 16.10.18
+- TOP 3.2.6.3.: Maßnahmen zum Fahrplanwechsel 2018; Informationsschreiben der MVG
+- TOP 3.2.6.4.: (U) Naupliastraße / St.-Magnus-Straße Austausch der Lichtsignalanlage, Kreuzungsumbau zur Verbesserung der Nahmobilität und barrierefreier Ausbau der Bushaltestelle im 18. Stadtbezirk Untergiesing - Harlaching Projektkosten (Kostenobergrenze): 1.060.000 € 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 - 2022
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Nutzung der Überdachten Abstellplätze für Solarstromgewinnung; BA-Antrag Nr. 14-20 / B 05236 vom 21.08.18; Antwortschreiben des Baureferats-Tiefbau vom 23.11.18
+- TOP 3.3.5.2.: Feinstaub- und Lärmmesspunkt in der Tegernseer Landstraße; Anfrage des BA 18 vom 23.10.18; Antwortschreiben des RGU
+- TOP 3.3.5.3.: Kuntersweg - Aufstellung von Warnschildern am Schlittenberg; BA-Antrag Nr. 14-20 / B 05509 vom 20.11.18; Antwortschreiben des Baureferats-Gartenbau vom 27.11.18
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen gem. § 13 und § 14 BA-Satzung 3.3.6.1.1 Unterrichtung über die bevorstehende Entfernung von Gefahrenbäumen vom 06.11.18 3.3.6.1.2 Unterrichtung über die bevorstehende Entfernung von Gefahrenbäumen vom 12.11.18
+- TOP 3.3.6.2.: (U) München rettet seine Spatzen (2) Die Landeshauptstadt gibt dem Haussperling wieder Heimat und Nahrung Antrag Nr. 14-20 / A 04125 vom 25.05.2018; Sitzungsvorlagen Nr. 14-20 / V 13227; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 05.12.18 (SB)
+- TOP 3.3.6.3.: Jollystraße 1, Bruggspergerstraße 26; Mitteilung der UNB über die Fällung eines Gefahrenbaumes
+- TOP 3.3.7: Sonstiges
+- TOP 3.3.7.1.: "Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum - Sachstand und weiteres Vorgehen" - Stellungnahme des BA 1 zur Kenntnis
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.6.1.: Mögliche Standorte "Kooperative Ganztagsbildung" im Schuljahr 2019/2020; Mitteilung des RBS vom 07.11.18
+- TOP 3.4.6.2.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration zu 3.4.6.2 Neufassung vom 27.11.18
+- TOP 3.4.6.3.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 14-20 / V 13216; Beschluss des Kinder- u. Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sizung vom 04.12.18 (SB) zu 3.4.6.3 Neufassung vom 27.11.18
+- TOP 3.4.6.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung ; Sitzungsvorlage Nr. 14-20 / V 13186; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses vom 04.12.18 (SB) zu 3.4.6.4 Neufassung vom 27.11.18
+- TOP 3.4.6.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung; Sitzungsvorlage Nr. 14-20 / V 13189; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 04.12.18 (SB) zu 3.4.6.5 Neufassung vom 27.11.18
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 22.02.17; Gerhardstraße 4, SSW "Giesinger Garten"; Beschluss des BA 18 in der Sitzung am 18.12.18
+- TOP 3.5.3: Anträge
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.2.1.: Sanatoriumsplatz 2, Fällungsantrag vom 22.11.2018 auf dem Grundstück Baumbestandsplan
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Denkmalliste - Teil A: Baudenkmäler - LHM; hier: Nachtrag des Ensembles "Gartenstadt Harlaching"; E - 62 - 000 - 90 in die Denkmalliste; Schreiben des Referates für Stadtpl. u. Bauordnung zur Stellungnahme des BA 18 aus der Oktober-Sitzung
+- TOP 3.5.5.2.: Mietverträge zwischen der Stadt München und den Vereinen, die das Stadion an der Grünwalder Straße bespielen; BA-Antrag Nr. 14-20 / B 05391 vom 16.10.2018; Antwortschreiben des RBS vom 06.11.2018
+- TOP 3.5.5.3.: Stadtplanung von heute für die Stadtentwicklung von morgen! Kleinteilige Gewerbe und Möglichkeitsräume mitdenken und fördern; BA-Antrag Nr. 14-20 / B 05053; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 31.10.18
+- TOP 3.5.5.4.: Erneuerung des Farbanstrichs am U-Bahnhof Candidplatz; BA-Antrag Nr. 14-20 / B 05369 vom 17.10.18; Antwortschreiben des RAW vom 16.11.18
+- TOP 3.5.5.5.: Städtisches Klinikum Harlaching - Stand der Planungen für den Neubau und weitere Schritte zur Realisierung; Stellungnahme des BA 18 aus der Sitzung vom 16.10.2018; Antwortschreiben des Kommunalreferats
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Gewerbeflächenentwicklungsprogramm - GEWI Fortschreibung Fianzierung Strukturkonzept Gewerbegebiet Neumarkter Straße Antrag Nr. 08-14 / B 04489 des Bezirksausschusses des Stadtbezirks 14 Berg am Laim vom 18.12.2012 Berg-am-Laim-Straße / Gewerbegebiet Neumarkter Straße Antrag Nr. 08-14 / A 04759vom 07.11.2013 Unbebaute Flächen im Gewerbegebiet Neuperlach Süd in ein Wohngebiet umwandeln Empfehlung Nr. 14-20 / E 00541 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 09.07.2015 Gewerbeflächen für KMUs und Handwerksbetriebe vorhalten Antrag Nr. 14-20 / A 01260 vom 30.07.2015 Neuordnung des Wohn-Gewerbegebiets in Perlach, südlich des S-Bahnhofes, Umgriff: südlich der Gleistrasse, westlich der Naila-/Hofer Straße, nördlich der Stadtgrenze, östlich der Unterhachinger Straße Antrag Nr. 14-20 / A 01825 vom 23.02.2016 Flächeneffizienz in Gewerbegebieten Antrag Nr. 14-20 / A 02101 vom 09.05.2016 Gewerbeflächen für mittelständische und handwerkliche Betriebe sichern Antrag Nr. 14-20/ A 02189 vom 07.06.2016; Sitzungsvorlage Nr. 14-20 / V 02731; Beschluss der Vollversammlung des Stadtrates vom 24.10.18
+- TOP 3.5.6.2.: Vollzug der Erhaltungssatzung "Untere Au/Untergiesing"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Anwesen Pilgersheimer Straße; Mitteilung des Sozialreferats vom 22.11.18
+- TOP 3.5.6.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 Kleingaststätte Humboldter Stüberl; Humboldstraße 28; Mitteilung vom 21.11.18 3.5.6.3.2 Kleingaststätte Cafe Bar 23; Grünwalder Straße 9; Mitteilung vom 22.11.18 3.5.6.3.3 SSW Locanda Busento II; Schönstraße 21; Mitteilung vom 29.11.18
+- TOP 3.5.6.4.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.5.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 3.5.6.6.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum / Vollzug der Erhaltungssatzung; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.6.1 Anwesen Krumpterstraße; Mitteilung vom 03.12.18 3.5.6.6.2 Anwesen Candidstraße / Hans-Mielich-Straße; Mitteilung vom 03.12.18
+- TOP 3.5.6.7.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 3.5.7: Sonstiges
+- TOP 3.5.7.1.: Positionspapier der Koordinierungsgruppe Giesing (KGG); Perspektive und Basis der weiteren Stadtteilentwicklung: Giesing bleibt im Wandel (vertagt aus der Sitzung vom 20.11.18)
+- TOP 3.5.7.2.: Benediktenwandstraße 33, Neubau eines Wohngebäudes mit TG; Stellungnahme des BA 18; Abdruck des Bescheides des Referates für Stadtpl. u. Bauordnung vom 26.11.18
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.1.: Stadtbezirksbudget; Information zur weiteren Umsetzung und Stellenbesetzung - Information durch das Direktorium -
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022; Unterrichtung durch die Stadtkämmerei
