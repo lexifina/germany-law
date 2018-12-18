@@ -1,0 +1,131 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2018-12-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/4740010
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/4740010
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 4.6.1.: Reparatur der Uhr an der Schwere-Reiter-Str. (Kreativquartier)
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.6.1.: Bericht Sachstand FT Gern - Zuwegung zu Schulpavillions
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Harmonisierung der Planung für Umweltverbundröhre und Tram-Westtangente
+- TOP 3.2.2.: Verkehrssituation in der Wotanstraße
+- TOP 3.2.3.: Erweiterung des Parklizenzgebietes nördlich der St.-Galler-Straße
+- TOP 3.2.4.: Verkehrsberuhigter Bereich Bäumlstraße / Ampelschaltung Kreuzung Maria-Ward-Straße - Menzinger Str.
+- TOP 3.2.5.: Einbahnstraße am Schloss - Freigabe für Radfahrer in Gegenrichtung
+- TOP 3.2.6.: Verkehrsregelung Maria-Ward-Straße Richtung Schlossplatz
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Verkehr
+- TOP 3.3.2.: Fahr Rad in Obermenzing! Mehr Verkehrssicherheit für FußgängerInnen und RadfahrerInnen nach der Unterführung an der Bärmannstraße in Richtung Innenstadt
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Schulwegsicherheit Haltestelle Goethe-Institut (Heideckstraße)
+- TOP 3.4.2.: Antrag auf Maßnahmen zur Erhöhung der Schulwegsicherheit und Gewährleistung der Sichtbarkeit an der Montessori-Schule im Olympiapark
+- TOP 3.4.3.: Schulwegsicherheit Kreuzung Wendl-Dietrich-Straße / Hawartstraße
+- TOP 3.4.4.: Radschutzstreifen in der Nymphenburger Straße
+- TOP 3.4.5.: Reduzierung der Fließgeschwindigkeit auf der Achse Nymphenburger Straße und Waisenhausstraße
+- TOP 3.4.6.: Verkehrsaufkommen Menzinger Straße auf Höhe Von-Goebel-Platz
+- TOP 3.4.7.: Beleuchtung der Wendl-Dietrich-Straße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Unterrichtung über verkehrsrechtliche Anordnungen: - Romanstraße 12 - Romanstraße 107 - Funkerstraße - Sophie-Stehle-Straße
+- TOP 3.5.2.: Probleme mit Radverkehr am Seniorenwohnheim Menzinger Straße
+- TOP 3.5.3.: Antrag auf Neuerrichtung von Behindertenparkplätzen an den S-Bahn-Stationen Donnersbergerbrücke und Hirschgarten
+- TOP 3.5.4.: Maßnahmen zum Fahrplanwechsel 2018
+- TOP 3.5.5.: (U) Maßnahmen zur Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs 1. Projektgenehmigung 2. Genehmigung zu verwaltungsint. Ausführungsgenehmigungen 3. Anmeldung zum MIP 2018-2022 Einrichtung von Busspuren in Neuhausen BA-Antrag Nr. 14-20 / B 04920 des 09. Stadtbezirkes Neuhausen vom 15.05.2018 Sitzungsvorlage Nr. 14-20 / V 12597
+- TOP 3.5.6.: 2. Stammstrecke - Abschnitt Oberirdisch West - Informationen
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Bau & Planung
+- TOP 4.3.2.: Anhörung Anträge auf Baugenehmigung: - Dom-Pedro-Straße (Haus für Kinder) - Savoyenstraße 7 - Arnulfstraße 150 - 152
+- TOP 4.3.3.: Sustrisstraße 13 - Nachtrag in die Denkmalliste
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Bebauung Marsstraße 76
+- TOP 4.4.2.: Organisierte Weihnachtsbeleuchtung im Stadtbezirk
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Unterrichtung der Lokalbaukommission über Bauvorhaben
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Umwelt
+- TOP 5.3.2.: Anhörung zu Baumfällungsanträgen: - Dantestr. 22 - Ferdinand-Maria-Str. 41 - Richildenstr. 51 - Volkartstr. 32
+- TOP 5.4: Antwortschreiben
+- TOP 5.4.1.: Trinkwasserbrunnen im 9. Stadtbezirk
+- TOP 5.4.2.: Begrünung der Klarastraße
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Unterrichtung über Baumentfernungen auf öffentlichem Grund
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Gesellschaft für Integration und Kultur in Europa (GIK) e.V. Umzug und Ausbau des Kulturzentrums vom 15.12.2018 - 30.01.2019 13.000,00€; Az.: 0262.0-9-0307
+- TOP 6.1.2.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München e.V. / ASZ Neuhausen Informationsveranstaltung zum Gesamtkonzept der Münchner Altenhilfe am 14.02.2019 750,00 €; 0262.0-09-0309
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.2.1.: Barrierefreies München - Toiletten für alle
+- TOP 6.3: Anhörungen
+- TOP 6.3.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Soziales
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Neue Bädereintrittspreise - Antwort SWM
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.5.2.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.5.3.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 6.5.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 6.5.5.: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018 - 2022 Einzelplan 4 / Sozialbereich
+- TOP 6.5.6.: (U) Entwurf des Mehrjahresinvestitionsprogramms 2018 - 2022 Einzelplan 4 / Jugendamtsbereich
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget trugschluss e.V. Projekt "trugschluss 15, Reality Distortion Field" vom 15.12.2018 - 20.12.2018 3.070,00€ Az.: 0262.0-9-0308
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Verfahren für die Benennung von Straßen und Plätzen nach Persönlichkeiten; Einbindung der Bezirksausschüsse
+- TOP 7.2.2.: Zeichen gegen Rechts setzen, Hilblestraße umbenennen! - Empfehlung Nr. 14-20/ E 01877 der BV des 9. SB Neuhausen-Nymphenburg am 05.12.2017
+- TOP 7.2.3.: Umbenennung der Hilblestraße - Namensvorschläge
+- TOP 7.2.4.: Einbeziehung der Anwohner bei der gepl. Umbenennung der Hilblestraße
+- TOP 7.3: Anhörungen
+- TOP 7.3.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Kultur
+- TOP 7.3.2.: BA-Budget: Kontrapunkt-Projekt "Vergangenheit / Gegenwart / Zukunft" - Verlängerung des Bewilligungszeitraums
+- TOP 7.3.3.: Veranstaltungen auf öffentlichem Verkehrsgrund: Erinnerungszeichen für Theodolinde Diem am 18.01.19, Romanstr. 74 Erinnerungszeichen für Sylvia und Max Klar am 07.01.19, Jutastr. 24
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Proberäume im Stadtteil Neuhausen-Nymphenburg
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Übergabe von Erinnerungszeichen an Opfer des NS-Regimes am 18.1.2019 und am 27.1.2019
+- TOP 7.5.2.: Street Art am Kreativlabor
+- TOP 7.5.3.: Gestaltung der Unterführung Landshuter Allee / Hübnerstraße
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Förderverein der Winthir Mittelschule, Theaterwerkstatt Theaterproduktionen "Schwein gehabt" und "Zickenkrieg im Olymp" vom 15.01.2019-Juli 2019 2.200,00€; Az.: 0262.0-09-0310
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Nutzungszeiten des Sportplatzes an der Albrechtstraße
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Bildung & Sport
+- TOP 8.4: Antwortschreiben
+- TOP 8.4.1.: Sportanlagen des Campus Albrechtstraße
+- TOP 8.4.2.: Verhindern der drohenden Zerschlagung der PädagogInnen-Struktur am Tagesheim der Helmholtzschule
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.1.1.: Beschluss Budget über 4.500 € für den Jahresempfang 2019
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Feuerwerksanzeige am 22.12.2018 - Paschstr. 46, Le Terrazze
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.6: Verschiedenes
