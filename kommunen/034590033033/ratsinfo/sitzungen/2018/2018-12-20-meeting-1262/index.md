@@ -1,0 +1,57 @@
+# Rat (16. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2018-12-20T17:30:00+01:00
+- Ende: 2018-12-20T20:05:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcGqmp6eADHiXKq2BrgWCF8
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1262
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaxMukf1dfxiPXN66sfK3mc5MTylgMCD0qb_N6Wvnm22/Bekanntmachung_Rat_20.12.2018.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVRp0LG4VkQRcfyg88ckUP2-hXe8e21g5E2xLoF585A2/Oeffentliches_Beschlussprotokoll_Rat_20.12.2018.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 18.10.2018
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Geplante Dorferneuerungsmaßnahme im Ortsmittelpunkt von Rulle - Informationen zum Sachstand
+- TOP 3.2: Resonanz der Bevölkerung auf den neuen ÖPNV
+- TOP 4.: Kommunalrechtsangelegenheiten
+- TOP 4.1: Neubesetzung des Ausschusses für Kindergärten, Schulen und Bildung hier: Lehrervertretung Primarbereich und Schülervertretung Realschule Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Beschluss des Gleichstellungsplanes für die Jahre 2018 bis 2020 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Jugendangelegenheiten
+- TOP 6.1: Philipp-Neri-Haus - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 7.: Kindertagesstätten
+- TOP 7.1: Neufassung des Finanzierungsvertrages für die katholischen Kindertagesstätten in Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Durchführung einer überörtlichen Prüfung; hier: Vereinbarungen zwischen den kreisangehörigen Gemeinden und den freien Trägern von Tageseinrichtungen für Kinder
+- TOP 8.: Schulangelegenheiten
+- TOP 8.1: Antrag der CDU Fraktion zur Vorlage 68/2018 Nachnutzung des Philipp-Neri-Hauses durch den Verein Lebendig Lernen e.V. - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 8.2: Antrag der Katharinaschule auf Errichtung eines Fußballplatzes auf dem hinteren Schulhof der Katharinaschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.3: Brandschutz-, Inklusions- und Umbaumaßnahme an der Katharinaschule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.4: Niederschlagswasserführung und Verkehrssicherung auf dem oberen Schulhof der Erich-Kästner-Schule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kulturangelegenheiten
+- TOP 9.1: Antrag des Vereins Ruller Haus e.V. auf Bezuschussung der Kosten für die Neugestaltung des Gartens einschließlich der Sanierung der Bruchsteinmauer am Ruller Haus - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sportangelegenheiten
+- TOP 10.1: Antrag des Reit- und Fahrvereins Rulle e. V. auf Bezuschussung der Erneuerung des Reithallenbodens - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Verkehrsangelegenheiten
+- TOP 11.1: Antrag auf Aktualisierung der Werbetafeln - Der Tagesordnungspunkt wurde von der Tagesordnung abgesetzt.
+- TOP 12.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 12.1: Fortschreibung des Einzelhandelskonzeptes der Gemeinde Wallenhorst hier: Beschluss zur Fortschreibung des Einzelhandelskonzeptes - mehrheitlich mit 18 Ja-Stimme(n), 11 Gegenstimme(n), 2 Stimmenthaltung(en) gefasst:
+- TOP 12.2: Antrag der CDU-Fraktion auf Aussetzung des Ratsbeschlusses „Radverkehrsfreundliche Gestaltung des Butke-Kreisverkehrs“ vom 7. August 2018 - mehrheitlich mit 24 Ja-Stimme(n), 6 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.3: Sanierungsmaßnahme „Wallenhorst-Zentrum“ hier: Umgestaltung für den Bereich ´Franksmannstraße´ / ´Drosselweg´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.4: Antrag der SPD/FDP-Gruppe vom 20.09.2018 auf Beleuchtung der „Engter Straße“ - mehrheitlich mit 26 Ja-Stimme(n), 5 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 12.5: Bebauungsplan Nr. 275 „Heidriede III“ hier: Satzungsbeschluss gem. § 10 (1) Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.6: 1. Änderung und Erweiterung des Bebauungsplanes Nr. 199 „Zwischen Jahnstraße/Stadtweg und südlich Wittekindstraße und Vehrter Landstraße“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Kämmereiangelegenheiten
+- TOP 13.1: Außerplanmäßige Verpflichtungsermächtigung „Grunderwerb Flächen Stadtweg“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Jahresabschluss für das Haushaltsjahr 2017 - Prüfung des Jahresabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des Jahresabschlusses 2017 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.3: Beratung und Entscheidung über die Entlastung des Bürgermeisters für das Haushaltsjahr 2017 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.4: Konsolidierter Gesamtabschluss für das Haushaltsjahr 2017 - Prüfung des Gesamtabschlusses durch das Rechnungsprüfungsamt des Landkreises Osnabrück - Beschluss des konsolidierten Gesamtabschlusses 2017 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.5: Haushaltswirtschaft für das Jahr 2019 - Beschluss der Haushaltssatzung einschl. Haushaltsplan und Stellenplan - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Anfragen und Anregungen
+- TOP 14.1: Sitzungsplan 2019
