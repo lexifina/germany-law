@@ -1,0 +1,2 @@
+# § 21a Abschiebungshaft und Ausreisegewahrsam
+Für gerichtliche Verfahren bei Freiheitsentziehungen nach den §§ 62 und 62b in Verbindung mit § 106 Absatz 2 des Aufenthaltsgesetzes in der Fassung der Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162), das zuletzt durch Artikel 1 des Gesetzes vom 12. Juli 2018 (BGBl. I S. 1147) geändert worden ist, in der jeweils geltenden Fassung, ist das Amtsgericht Dresden für den Bezirk des Oberlandesgerichts Dresden zuständig.
