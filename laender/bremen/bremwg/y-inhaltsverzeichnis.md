@@ -71,7 +71,7 @@ Abschnitt 4 Hochwasserschutz
 § 58 | Festsetzung und Sicherstellung von Überschwemmungsgebieten (Zu § 76 Absatz 2 des Wasserhaushaltsgesetzes)
 Abschnitt 5 Hochwasserschutzanlagen
 § 59 | Begriffsbestimmungen zum Hochwasserschutz
-§ 60 | Grundsatz des Hochwasserschutzes
+§ 60 | Grundsatz des Hochwasserschutzes und Ausbaupflichten
 § 61 | Sicherstellungsauftrag
 § 62 | Bemessungswasserstand und Hochwasserschutzlinie
 § 63 | Prüfung der Hochwasserschutzanlagen
