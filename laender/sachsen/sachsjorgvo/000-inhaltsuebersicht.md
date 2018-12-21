@@ -25,12 +25,14 @@ Unterabschnitt 4 Gewerblicher Rechtsschutz und Urheberrecht
 § 15 Urheberrechtsstreitsachen
 Unterabschnitt 5 Zwangsvollstreckungs- und Insolvenzrecht
 § 16 Insolvenzverfahren
+§ 16a Gruppen-Gerichtsstand
 § 17 Zwangsvollstreckung
 Unterabschnitt 6 Besondere Sachgebiete
 § 18 Binnenschifffahrtssachen
 § 19 Landwirtschaftssachen
 § 20 Baulandsachen
 § 21 Berggrundbuch
+§ 21a Abschiebungshaft und Ausreisegewahrsam
 Abschnitt 2 Straf- und Bußgeldsachen
 § 22 Zuständigkeit in Haftsachen
 § 23 Wirtschaftsstrafsachen
