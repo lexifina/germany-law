@@ -104,7 +104,7 @@ Abschnitt 5 Bauüberwachung
 Abschnitt 6 Baulasten
 § 83 Baulasten, Baulastenverzeichnis
 Teil 6 Ausführungsbestimmungen zum Baugesetzbuch
-§ 84 (weggefallen)
+§ 84 Nachnutzung land- und forstwirtschaftlicher Gebäude
 § 85 Zuständigkeitsregelungen für Aufgaben nach dem Baugesetzbuch
 § 86 Bildung eines Oberen Gutachterausschusses, Aufsicht über die Gutachterausschüsse und den Oberen Gutachterausschuss
 Teil 7 Ordnungswidrigkeiten, Rechtsvorschriften, Übergangsvorschriften
