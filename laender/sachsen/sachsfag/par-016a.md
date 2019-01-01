@@ -1,4 +1,0 @@
-# § 16a Mehrbelastungsausgleich für die Verwaltungs -und Funktionalreform 2008
-(1) Die Landkreise und Kreisfreien Städte erhalten jährlich zum Ausgleich der in Anlage 3 benannten und durch das Sächsische Verwaltungsneuordnungsgesetz vom 29. Januar 2008 (SächsGVBl. S. 138), das durch Artikel 4 des Gesetzes vom 20. Juni 2008 (SächsGVBl. S. 371) geändert worden ist, übertragenen Aufgaben steuerkraftunabhängige Zuweisungen gemäß Anlage 3 Spalte 5 bis 17.
-(2) Im Abstand von zwei Jahren ist zu überprüfen, ob auf Grund von Veränderungen im Bestand oder im Umfang der von Anlage 3 Spalte 1 umfassten Aufgaben die in Anlage 3 Spalte 4 genannten aufgabenbezogenen Volumina anzupassen sind. Für diese Überprüfung gilt § 16 Absatz 2 entsprechend.
-(3) Im Abstand von sechs Jahren werden die zur Verteilung herangezogenen aufgabenbezogenen Indikatoren gemäß Anlage 3 Spalte 3 fortgeschrieben. Die Fortschreibung erfolgt erstmals im Jahr 2018 für die Zeit ab dem Jahr 2019.
