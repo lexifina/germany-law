@@ -1,8 +1,8 @@
 # Vollzitat: VwV Bezirksrevisoren
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-12-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11605.3
+- Datum: 2019-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11605.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.12.2017
+01.01.2019
 bis
-31.12.2018
+31.07.2026
 
 VwV Bezirksrevisoren
 
@@ -53,16 +53,21 @@ beim Oberlandesgericht, den Landgerichten und den Präsidialamtsgerichten durch 
 2.
 
 
-beim Sächsischen Landesarbeitsgericht durch den Präsidenten des Sächsischen Landesarbeitsgerichts sowie
+beim Sächsischen Landesarbeitsgericht durch den Präsidenten des Sächsischen Landesarbeitsgerichts,
 
 
 3.
 
 
-beim Sächsischen Landessozialgericht durch den Präsidenten des Sächsischen Landessozialgerichts.
+beim Sächsischen Landessozialgericht durch den Präsidenten des Sächsischen Landessozialgerichts sowie
 
 
-Die Bestellung und Abberufung des Bezirksrevisors beim Oberlandesgericht erfolgt im Einvernehmen mit dem Präsidenten des Sächsischen Oberverwaltungsgerichts, dem Präsidenten des Sächsischen Finanzgerichts, dem Generalstaatsanwalt des Freistaates Sachsen und dem Präsidenten des Sächsischen Anwaltsgerichtshofs.
+4.
+
+beim Sächsischen Oberverwaltungsgericht durch den Präsidenten des Sächsischen Oberverwaltungsgerichts.
+
+
+Die Bestellung und Abberufung des Bezirksrevisors beim Oberlandesgericht erfolgt im Einvernehmen mit dem Präsidenten des Sächsischen Finanzgerichts, dem Generalstaatsanwalt des Freistaates Sachsen und dem Präsidenten des Sächsischen Anwaltsgerichtshofs.
 
 
 II.
@@ -98,40 +103,28 @@ für das Oberlandesgericht,
 b)
 
 
-für das Sächsische Oberverwaltungsgericht und die Verwaltungsgerichte,
+für die Generalstaatsanwaltschaft,
 
 
 c)
 
 
-für das Sächsische Finanzgericht,
+für den Dienstgerichtshof für Richter,
 
 
 d)
 
 
-für die Generalstaatsanwaltschaft,
+für den Sächsischen Anwaltsgerichtshof,
 
 
 e)
 
 
-für den Dienstgerichtshof für Richter,
-
-
-f)
-
-
-für den Sächsischen Anwaltsgerichtshof,
-
-
-g)
-
-
 für das Landesberufsgericht für die Heilberufe sowie
 
 
-h)
+f)
 
 
 für das Landesberufsgericht für Architekten,
@@ -146,7 +139,7 @@ die Bezirksrevisoren bei den Landgerichten für das Landgericht und die Amtsgeri
 3.
 
 
-die Bezirksrevisoren bei einem Präsidialamtsgericht für das jeweilige Amtsgericht und der Bezirksrevisor beim Amtsgericht Dresden für die beim Staatsministerium der Justiz angegliederte gemeinsame Leitstelle für Informationstechnologie der Justiz,
+die Bezirksrevisoren bei einem Präsidialamtsgericht für das jeweilige Amtsgericht und der Bezirksrevisor beim Amtsgericht Dresden für die dem Staatsministerium der Justiz unmittelbar nachgeordnete Leitstelle für Informationstechnologie der sächsischen Justiz,
 
 
 4.
@@ -158,7 +151,14 @@ der Bezirksrevisor beim Sächsischen Landesarbeitsgericht für das Sächsische L
 5.
 
 
-der Bezirksrevisor beim Sächsischen Landessozialgericht für das Sächsische Landessozialgericht und die Sozialgerichte.
+der Bezirksrevisor beim Sächsischen Landessozialgericht für das Sächsische Landessozialgericht und die Sozialgerichte,
+
+
+6.
+
+der Bezirksrevisor beim Sächsischen Oberverwaltungsgericht für das Sächsische Oberverwaltungsgericht und
+
+die Verwaltungsgerichte sowie das Sächsische Finanzgericht.
 
 
 B. 
@@ -438,7 +438,7 @@ Der Zeitpunkt, die Abfolge und der Umfang der Kostenprüfungen werden unter Ber�
 II.
 
 
-Prüfungen bei den Staatsanwaltschaften, dem Sächsischen Oberverwaltungsgericht und den Verwaltungsgerichten, dem Sächsischen Finanzgericht sowie dem Sächsischen Anwaltsgerichtshof werden im Einvernehmen mit dem jeweiligen Behördenleiter und bei der beim Staatsministerium der Justiz angegliederten gemeinsamen Leitstelle für Informationstechnologie der Justiz im Einvernehmen mit deren Leitung durchgeführt.
+Prüfungen bei den Staatsanwaltschaften, dem Sächsischen Finanzgericht sowie dem Sächsischen Anwaltsgerichtshof werden im Einvernehmen mit dem jeweiligen Behördenleiter und bei der dem Staatsministerium der Justiz unmittelbar nachgeordneten Leitstelle für Informationstechnologie der sächsischen Justiz im Einvernehmen mit deren Leitung durchgeführt.
 
 
 III.
@@ -508,7 +508,7 @@ Die Niederschrift gemäß § 44 der Kostenverfügung fertigen die Bezirksrevisor
 II.
 
 
-Die Niederschrift ist bei Prüfung einer Staatsanwaltschaft dem Leiter dieser Behörde, bei der Prüfung des Sächsischen Oberverwaltungsgerichts und der Verwaltungsgerichte, des Sächsischen Finanzgerichts sowie des Sächsischen Anwaltsgerichtshofs dem jeweiligen Präsidenten, im Übrigen dem dienstvorgesetzten Präsidenten vorzulegen und auf dem Dienstweg dem Leiter der geprüften Behörde oder des geprüften Gerichts zuzuleiten.
+Die Niederschrift ist bei Prüfung einer Staatsanwaltschaft dem Leiter dieser Behörde, bei der Prüfung des Sächsischen Finanzgerichts sowie des Sächsischen Anwaltsgerichtshofs dem jeweiligen Präsidenten, im Übrigen dem dienstvorgesetzten Präsidenten vorzulegen und auf dem Dienstweg dem Leiter der geprüften Behörde oder des geprüften Gerichts zuzuleiten.
 
 
 H. 
@@ -578,9 +578,9 @@ Fsn-Nr.: 300-V10.4
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Dezember 2017
+Fassung gültig ab:  1. Januar 2019
 
-Fassung gültig bis: 31. Dezember 2018
+Fassung gültig bis: 31. Juli 2026
 
 Drucken/Speichern
 
@@ -605,7 +605,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/11605.3
+https://www.revosax.sachsen.de/vorschrift/11605.4
 Stand vom
 18.11.2026
 
