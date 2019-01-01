@@ -7,7 +7,7 @@ Abschnitt 2 Beamtenverhältnis
 § 4 Persönliche Voraussetzungen
 § 5 Beamte auf Zeit
 § 6 Ehrenbeamte
-§ 7 Altersgrenze für die Berufung
+§ 7 Altersgrenzen für die Berufung
 § 8 Übertragung eines Amtes mit leitender Funktion im Beamtenverhältnis auf Probe
 § 9 Beendigung des Amtes mit leitender Funktion im Beamtenverhältnis auf Probe
 § 10 Ernennung
@@ -166,6 +166,7 @@ Unterabschnitt 2 Andere Beamtengruppen
 § 143 Beamte des Justizvollzugsdienstes und des Justizwachtmeisterdienstes in der Fachrichtung Justiz
 § 143a Beamte der Fachrichtung Allgemeine Verwaltung im Vollzugsdienst einer Abschiebungshaft- und Ausreisegewahrsamseinrichtung
 § 144 Beamte der Laufbahnen der Fachrichtung Feuerwehr
+§ 144a Beamte der Laufbahn der Fachrichtung Bildung und Kultur mit dem fachlichen Schwerpunkt Bildungsdienst
 Abschnitt 11 Kommunale Wahlbeamte
 § 145 Anwendungsbereich
 § 146 Dienstherr, Oberste Dienstbehörde, Dienstvorgesetzter, Zuständigkeiten
