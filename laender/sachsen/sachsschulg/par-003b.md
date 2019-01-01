@@ -1,6 +1,6 @@
 # § 3b Eigenverantwortung
 (1) Der Schulträger soll dem Schulleiter die zur Deckung des laufenden Lehr- und Lernmittelbedarfs erforderlichen Mittel zur selbstständigen Bewirtschaftung überlassen. Im Einvernehmen mit dem Schulleiter kann er diesem nach Maßgabe der für den Schulträger jeweils geltenden haushalts- und kassenrechtlichen Bestimmungen weitergehende Befugnisse zur Mittelbewirtschaftung einräumen. Der Schulträger kann den Schulleiter ermächtigen, im Rahmen der von diesem zu bewirtschaftenden Haushaltsmittel Rechtsgeschäfte mit Wirkung für den Schulträger abzuschließen und für ihn Verpflichtungen einzugehen.
-(2) Der Freistaat Sachsen kann den Schulträgern gemäß § 3 Absatz 2 Satz 1 Nummer 1 Haushaltsmittel aus dem Staatshaushalt als pauschalisierte zweckgebundene Zuweisungen gewähren. Absatz 1 gilt entsprechend. Die oberste Schulaufsichtsbehörde wird ermächtigt, im Einvernehmen mit dem Staatsministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen zu erlassen, insbesondere über
+(2) Der Freistaat Sachsen kann den öffentlichen und freien Schulträgern Haushaltsmittel aus dem Staatshaushalt als pauschalisierte zweckgebundene Zuweisungen gewähren. Absatz 1 gilt entsprechend. Die oberste Schulaufsichtsbehörde wird ermächtigt, im Einvernehmen mit dem Staatsministerium der Finanzen durch Rechtsverordnung nähere Bestimmungen zu erlassen, insbesondere über
 1. die Zweckbestimmung,
 2. die Berechnung der Zuweisungen,
 3. das Verfahren,
