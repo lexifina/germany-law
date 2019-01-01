@@ -1,8 +1,8 @@
 # Förderrichtlinie LEADER Vollzitat: Förderrichtlinie LEADER
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-01-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14206.4
+- Datum: 2019-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14206.5
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-08.01.2018
+01.01.2019
 bis
-31.12.2018
+04.11.2021
 
 Förderrichtlinie LEADER
 
@@ -41,7 +41,7 @@ Der Freistaat Sachsen gewährt auf der Grundlage des Entwicklungsprogramms für 
 
 Für Vorhaben, die aus dem ELER finanziert werden, finden im Verwaltungsverfahren die
 
-Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 18. Dezember 2013 (SächsABl. 2014 S. 223) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 12. Dezember 2013 (SächsABl. SDr. S. S 848), keine Anwendung. An deren Stelle treten die nachfolgenden Bestimmungen.
+Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zu § 44 der Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch Verwaltungsvorschrift vom 21. September 2018 (SächsABl. S. 1249) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), keine Anwendung. An deren Stelle treten die nachfolgenden Bestimmungen.
 
 
 Ein Anspruch des Begünstigten auf Gewährung der Zuwendung besteht nicht.
@@ -62,7 +62,7 @@ Vorhabensbeginn und Förderfähigkeit der Ausgaben
 a)
 
 
-Zuwendungen dürfen nur für solche Vorhaben bewilligt werden, die nicht vor Antragseingang bei der Behörde begonnen worden sind.
+Zuwendungen dürfen nur für solche Vorhaben bewilligt werden, die nicht vor Antragseingang bei der Bewilligungsbehörde begonnen worden sind.
 
 
 Als Beginn des Vorhabens gilt die erste rechtliche Verpflichtung zur Bestellung von Ausrüstung oder Inanspruchnahme von Dienstleistungen oder eine andere Verpflichtung, die das Vorhaben unumkehrbar macht. Nicht als Beginn gelten Vorarbeiten, wie die Einholung von Genehmigungen, die Erstellung von Durchführbarkeitsstudien, Architekten- und Ingenieurleistungen sowie der Erwerb von Grundstücken, es sei denn, sie sind alleiniger Zweck der Zuwendung.
@@ -121,7 +121,7 @@ Die Ausgaben für gebrauchte Technik und Ausstattung sind nicht förderfähig.
 j)
 
 
-Sachleistungen in Form von Erbringung von Arbeitsleistungen und Bereitstellung von Waren, Dienstleistungen, Grundstücken und Immobilien, für die keine durch Rechnungen oder gleichwertige Belege nachgewiesene Zahlung erfolgt ist (Artikel 61 Absatz 3 der Verordnung [EU] Nr. 1305/2013), sind nicht förderfähig. Dies gilt nicht für die im Zusammenhang mit der Erbringung von Arbeitsleistungen erworbenen Materialen.
+Sachleistungen in Form von Erbringung von Arbeitsleistungen und Bereitstellung von Waren, Dienstleistungen, Grundstücken und Immobilien, für die keine durch Rechnungen oder gleichwertige Belege nachgewiesene Zahlung erfolgt ist (Artikel 61 Absatz 3 der Verordnung [EU] Nr. 1305/2013), sind nicht förderfähig. Dies gilt nicht für die im Zusammenhang mit der Erbringung von Arbeitsleistungen erworbenen Materialen sowie bei der Gewährung von standardisierten Einheitskosten,  Pauschalfinanzierungen oder Pauschalsätzen.
 
 
 k)
@@ -160,7 +160,7 @@ a)
 Geltung der Energieeinsparverordnung            
 
 
-Geförderte Investitionen müssen entsprechend Artikel 13 Buchstabe c der Verordnung (EU) Nr. 807/2014 die Anforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 1 der Verordnung vom 18. November 2013 (BGBl. I S. 3951) geändert worden ist, in der jeweils geltenden Fassung, einhalten.            
+Geförderte Investitionen müssen entsprechend Artikel 13 Buchstabe c der Verordnung (EU) Nr. 807/2014 die Anforderungen der Energieeinsparverordnung vom 24. Juli 2007 (BGBl. I S. 1519), die zuletzt durch Artikel 3 der Verordnung vom 24. Oktober 2015 (BGBl. I S. 1789) geändert worden ist, in der jeweils geltenden Fassung, einhalten.            
 
 b)
 
@@ -443,7 +443,7 @@ Errichtung, Erwerb, einschließlich Leasing oder Modernisierung von unbewegliche
 b)
 
 
-Kauf oder Leasingkauf neuer Maschinen und Anlagen,
+Kauf oder Leasingkauf neuer Maschinen und Ausstattung,
 
 
 c)
@@ -702,7 +702,7 @@ Errichtung, Erwerb, einschließlich Leasing oder Modernisierung von unbewegliche
 b)
 
 
-Kauf oder Leasingkauf neuer Maschinen und Anlagen,
+Kauf oder Leasingkauf neuer Maschinen und Ausstattung,
 
 
 c)
@@ -1086,7 +1086,7 @@ Die Zuwendung wird in Form der Anteilsfinanzierung als nicht rückzahlbarer Zusc
 c)
 
 
-Auf Grundlage von Artikel 68 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1303/2013 werden indirekte Kosten als Pauschalsatz von 15 Prozent der förderfähigen direkten Personalkosten gewährt.
+Auf Grundlage von Artikel 68 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1303/2013 werden bei nicht investiven Vorhaben indirekte Kosten als Pauschalsatz von 15 Prozent der förderfähigen direkten Personalkosten gewährt, wenn keine weiteren Ausgaben für das Vorhaben entstehen oder die Anwendung des Pauschalsatzes nach Buchstabe d ausgeschlossen ist.
 
 Indirekte Kosten sind Ausgaben für Raummiete einschließlich Nebenkosten, Telefongebühren, Internetgebühren, Büromaterialien, Vervielfältigungen, Papier- und
 
@@ -1094,19 +1094,31 @@ Druckerkosten, Porto, Bewirtungskosten, Versicherungen, Reisekosten.
 
 Entsprechende Leistungen sind dann nicht den indirekten Kosten zuzurechnen, wenn diese über den normalen Geschäftsbetrieb hinausgehen und in Form von Ausgaben für Leistungen durch Dritte (zum Beispiel Raummiete für Veranstaltungen, Druckereikosten für Veröffentlichungen und so weiter) anfallen.
 
-Ausgaben für die Öffentlichkeitsarbeit, Erwerb und Leasing von Fahrzeugen, Büroeinrichtung und EDV-Technik sind keine indirekten Kosten.
-
 
 d)
+
+Auf Grundlage von Artikel 68b der Verordnung (EU) Nr. 1303/2013 werden bei nicht investiven Vorhaben mit direkten förderfähigen Personalkosten alle übrigen förderfähigen Ausgaben und Kosten (Restkosten) als Pauschalsatz in Höhe von 40 Prozent der direkten förderfähigen Personalkosten gewährt. Die direkten Personalkosten
+
+umfassen alle Ausgaben im Zusammenhang mit Löhnen und Gehältern für beim Begünstigten beschäftigtes Personal. Preisgelder im Rahmen von Wettbewerben zur Umsetzung der LES, die an Teilnehmer ausgezahlt werden, sind nicht im Pauschalsatz enthalten und können als zusätzliche förderfähige Kosten anerkannt werden. Die Anwendung des Pauschalsatzes ist nicht möglich für Personalausgaben, die Gegenstand einer Auftragsvergabe an Dritte sind oder das Vorhaben überwiegend Ausgaben für Auftragsvergaben an Dritte enthält. Vor dem 1. Januar 2019 bei der Bewilligungsbehörde eingegangene Anträge können bis zum 1. Juli 2019 nach der zum Zeitpunkt der Antragstellung gültigen Richtlinie gewährt werden.
+
+
+e)
+
+Für Vorhaben, bei welchen es sich um eine Umnutzung oder vollständige Sanierung von Gebäuden mit umfassendem Eingriff in die Bausubstanz handelt und im Ergebnis ein beheizbarer Massivbau entsteht, erfolgt die Bestimmung der förderfähigen Ausgaben auf Grundlage standardisierter Einheitskosten (SEK) gemäß Artikel 67 Absatz
+
+1 Buchstabe b der Verordnung (EU) Nr. 1303/2013. Vor dem 1. Januar 2019 bei der Bewilligungsbehörde eingegangene Anträge können bis zum 1. Juli 2019 nach der zum Zeitpunkt der Antragstellung gültigen Richtlinie gewährt werden. Aktuelle Informationen zur Höhe der SEK sind im Antragsportal unter http://www.smul.sachsen.de/foerderung/3428.htm verfügbar.
+
+
+f)
 
 
 Soweit Untergrenzen in dieser Richtlinie festgelegt sind, dürfen diese zum Zeitpunkt der Bewilligung nicht unterschritten werden.
 
 
-e)
+g)
 
 
-Die Bemessung der Zuwendung erfolgt auf der Grundlage der von der Bewilligungsbehörde als förderfähig anerkannten Ausgaben. Bei Mischnutzungen von Gebäuden erfolgt die Bestimmung der förderfähigen Ausgaben für alle Vorhabenbestandteile grundsätzlich anhand der prozentualen Nutzflächenanteile.
+Die Bemessung der Zuwendung erfolgt auf der Grundlage der von der Bewilligungsbehörde als förderfähig anerkannten Ausgaben. Bei Mischnutzungen von Gebäuden erfolgt die Bestimmung der förderfähigen Ausgaben bei Anteilsfinanzierung für alle Vorhabenbestandteile grundsätzlich anhand der prozentualen Nutzflächenanteile.
 
 
 6.
@@ -1127,7 +1139,9 @@ Der räumliche Geltungsbereich ist das ländliche Gebiet des Freistaates Sachsen
 a)
 
 
-Innerhalb des ländlichen Gebietes sind investive Vorhaben in städtebaulich eigenständigen Orten bis 5 000 Einwohner als Teile einer Gemeinde und deren Gemarkungen in LEADER-Gebieten förderfähig. Vorhaben der linienhaften Infrastruktur sind auch förderfähig, sofern der überwiegende Anteil des Vorhabens innerhalb des räumlichen Geltungsbereiches für investive Vorhaben liegt, jedoch nicht außerhalb des ländlichen Gebietes.
+Innerhalb des ländlichen Gebietes sind investive Vorhaben in städtebaulich eigenständigen Orten bis 5 000 Einwohner als Teile einer Gemeinde und deren Gemarkungen in LEADER-Gebieten förderfähig.
+
+Vorhaben der linienhaften Infrastruktur sind auch förderfähig, sofern der überwiegende Anteil des Vorhabens innerhalb des räumlichen Geltungsbereiches für investive Vorhaben liegt und der untergeordnete Teil nicht außerhalb des ländlichen Gebietes.
 
 
 b)
@@ -1148,7 +1162,7 @@ Förderkriterium für bauliche Investitionen
 Zuwendungen für bauliche Investitionen dürfen nur dem Eigentümer oder Erbbauberechtigten gewährt werden. Ist der Erwerb von Grundstücken Bestandteil des Vorhabens, hat der Nachweis der Eigentumsübertragung bis zur ersten Auszahlung zu erfolgen.
 
 
-Ist eine Gebietskörperschaft oder Religionsgesellschaft, die eine Körperschaft des öffentlichen Rechts gemäß Artikel 140 des Grundgesetzes in Verbindung mit Artikel 137 der Weimarer Verfassung ist, Eigentümerin eines Grundstückes, kann eine Förderung des Pächters auf der Grundlage eines Pachtvertrages erfolgen. Die Pachtzeit muss mindestens die für das Vorhaben erforderliche Dauer der Zweckbindungsfrist umfassen. Zudem muss das Recht zur ordentlichen Kündigung des Pachtvertrages für den Zeitraum der Zweckbindungsfrist ausgeschlossen sein und eine Zustimmung des Grundstückseigentümers zum Fördervorhaben vorliegen. Die Zweckbindungsfrist für das Vorhaben beginnt mit dem Datum des Endfestsetzungsbescheides.           Ebenso wird anstelle des Eigentumsnachweises eine unwiderrufliche Planvereinbarung in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz anerkannt. Aus dieser muss hervorgehen, dass der Begünstigte mit dem Flurbereinigungs-/Tauschplan das Eigentum der betreffenden Fläche erhalten wird.      Bei Straßen- und Wegebauvorhaben ist der Nachweis der dauerhaften rechtlichen Sicherung durch öffentliche Widmung sowie bei Leitungsnetzen und Beschilderungen der Nachweis der allgemeinen Verfügungsberechtigung ausreichend.                      
+Ist eine Gebietskörperschaft oder Religionsgesellschaft, die eine Körperschaft des öffentlichen Rechts gemäß Artikel 140 des Grundgesetzes in Verbindung mit Artikel 137 der Weimarer Verfassung ist, Eigentümerin eines Grundstückes, kann eine Förderung des Pächters auf der Grundlage eines Pachtvertrages erfolgen.  Die Pachtzeit muss mindestens die für das Vorhaben erforderliche Dauer der Zweckbindungsfrist umfassen.  Zudem muss das Recht zur ordentlichen Kündigung des Pachtvertrages für den Zeitraum der Zweckbindungsfrist ausgeschlossen sein und eine Zustimmung des Grundstückseigentümers zum Fördervorhaben vorliegen.  Die Zweckbindungsfrist für das Vorhaben beginnt mit dem Datum des Endfestsetzungsbescheides.  Ebenso wird anstelle des Eigentumsnachweises eine unwiderrufliche Planvereinbarung in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz anerkannt.  Aus dieser muss hervorgehen, dass der Begünstigte mit dem Flurbereinigungs-/Tauschplan das Eigentum der betreffenden Fläche erhalten wird.  Bei Straßen- und Wegebauvorhaben ist der Nachweis der dauerhaften rechtlichen Sicherung durch öffentliche Widmung zu erbringen.  Bei Rad- und Wanderwegen im Wald sowie bei Leitungsnetzen und Beschilderungen ist der Nachweis der allgemeinen Verfügungsberechtigung (z. B. Gestattungsverträge) ausreichend.
 
 7.
 
@@ -1326,7 +1340,7 @@ eine rechtskräftige Verurteilung, Strafbefehl oder eine Einstellung gegen Aufla
 c)
 
 
-ein Antrag auf Durchführung eines Verfahrens nach der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 6 des Gesetzes vom 31. August 2013 (BGBl. I S. 3533) geändert worden ist, gegen ihn oder eine juristische Person, an der er beteiligt ist, gestellt wurde oder ein solches Verfahren stattfindet, oder            
+ein Antrag auf Durchführung eines Verfahrens nach der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), die zuletzt durch Artikel 24 Absatz 3 des Gesetzes vom 23. Juni 2017 (BGBl. I S. 1693) geändert worden ist, gegen ihn oder eine juristische Person, an der er beteiligt ist, gestellt wurde oder ein solches Verfahren stattfindet, oder
 
 
 d)
@@ -1394,13 +1408,13 @@ Ist dies nicht möglich, so sind die Zahlungen durch gleichwertige Unterlagen zu
 
 Soweit Belege nur noch in elektronischer Form vorliegen (zum Beispiel Online-Rechnungen) können die Ausdrucke dieser Belege als Originalbelege anerkannt werden.
 
-Die Belegpflicht gilt nicht bei Gewährung von standardisierten Einheitskosten, Pauschalfinanzierungen oder Pauschalsätzen.
-
 Als Zahlungsnachweise werden Kontoauszüge oder gleichwertige Buchungsbelege durch die Bewilligungsbehörde anerkannt.
 
 Der Zahlungsempfänger und dessen Bankverbindung müssen auf den Zahlungsnachweisen eindeutig identifizierbar sein.
 
 Bei Körperschaften des öffentlichen Rechts werden zudem Auszahlungsanordnungen oder ähnliche innerhalb der Körperschaft erzeugte Dokumente als Zahlungsnachweise anerkannt, wenn sie zweifelsfrei auf die Zahlung schließen lassen.
+
+Die Belegpflicht gilt nicht bei Gewährung von standardisierten Einheitskosten, Pauschalfinanzierungen oder Pauschalsätzen.
 
 
 4.
@@ -1432,7 +1446,8 @@ Die Rückforderung von zu Unrecht gezahlten Beträgen sowie die Erhebung von San
 3.
 
 
-Das Verfahren wird auf der Grundlage des Verwaltungsverfahrensrechts durchgeführt (§ 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 [SächsGVBl. S. 142], das durch Artikel 3 des Gesetzes vom 12. Juli 2013 [SächsGVBl. S. 503] geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 [BGBl. I S. 102], das zuletzt durch Artikel 3 des Gesetzes vom 25. Juli 2013 [BGBl. I S. 2749] geändert worden ist), soweit dieses nicht bereits abschließend durch Unionsrecht geregelt ist.
+Das Verfahren wird auf der Grundlage des Verwaltungsverfahrensrechts durchgeführt (§ 1 des Gesetzes zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 [SächsGVBl. S. 142], das durch Artikel 3 des Gesetzes vom 12. Juli 2013 [SächsGVBl. S. 503] geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 [BGBl. I S. 102], das zuletzt durch Artikel 11 Absatz 2 des Gesetzes vom 18. Juli 2017 [BGBl. I S. 2745] geändert worden ist), soweit dieses nicht bereits abschließend durch Unionsrecht geregelt ist.  
+
 
 VI.
 Inkrafttreten und Außerkrafttreten
@@ -1468,94 +1483,90 @@ Für das ELER-Förderverfahren gelten insbesondere die nachfolgenden unionsrecht
 1.
 
 
-die Verordnung (EU, Euratom) Nr. 966/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über die Haushaltsordnung für den Gesamthaushaltsplan der Union und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1605/2002 des Rates (ABl. L 298 vom 26.10.2012, S. 1), die zuletzt durch die Verordnung (EU, Euratom) Nr. 1142/2014 (ABl. L 317 vom 4.11.2014, S. 28) geändert worden ist,
+die Verordnung (EU, Euratom) Nr. 2018/1046 des Europäischen Parlaments und des Rates vom 18. Juli 2018 über die Haushaltsordnung für den  Gesamthaushaltsplan der Union, zur Änderung der Verordnungen (EU) Nr. 1296/2013, (EU) Nr. 1301/2013, (EU) Nr. 1303/2013, (EU) Nr. 1304/2013, (EU) Nr. 1309/2013, (EU) Nr. 1316/2013, (EU) Nr. 223/2014, (EU) Nr. 283/2014 und des Beschlusses Nr. 541/2014/EU sowie zur Aufhebung der Verordnung (EU, Euratom) Nr. 966/2012 (ABl. L 193 vom 30.7.2018, S. 1),
 
 
 2.
 
 
-die Delegierte Verordnung (EU) Nr. 1268/2012 der Kommission vom 29. Oktober 2012 über die Anwendungsbestimmungen für die Verordnung (EU, Euratom) Nr. 966/2012 des Europäischen Parlaments und des Rates über die Haushaltsordnung für den Gesamthaushaltsplan der Union (ABl. L 362 vom 31.12.2012, S. 1),
+die Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds und zur Aufhebung der Verordnung (EG) Nr. 1083/2006 des Rates (ABl. L 347 vom 20.12.2013, S. 320), die zuletzt durch die Verordnung (EU, Euratom) 2018/1046 (ABl. L 193 vom 30.7.2018, S. 1) geändert worden ist,
 
 
 3.
 
 
-die Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds und zur Aufhebung der Verordnung (EG) Nr. 1083/2006 des Rates (ABl. L 347 vom 20.12.2013, S. 320),
+die Delegierte Verordnung (EU) Nr. 480/2014 der Kommission vom 3. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds (ABl. L 138 vom 13.5.2014, S. 5), die zuletzt durch die delegierte Verordnung (EU) 2015/616 (ABl. L 102 vom 21.4.2015, S. 33) geändert worden ist,
 
 
 4.
 
 
-die Delegierte Verordnung (EU) Nr. 480/2014 der Kommission vom 3. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1303/2013 des Europäischen Parlaments und des Rates mit gemeinsamen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds, den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums und den Europäischen Meeres- und Fischereifonds sowie mit allgemeinen Bestimmungen über den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds, den Kohäsionsfonds und den Europäischen Meeres- und Fischereifonds (ABl. L 138 vom 13.5.2014, S. 5),
+die Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487), die zuletzt durch die Delegierte Verordnung (EU) Nr. 2018/162 (ABl. L 30 vom 2.2.2018, S. 6) geändert worden ist,
 
 
 5.
 
 
-die Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487), die zuletzt durch die Delegierte Verordnung (EU) Nr. 994/2014 (ABl. L 280 vom 24.9.2014, S. 1) geändert worden ist,
+die Delegierte Verordnung (EU) Nr. 807/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Einführung von Übergangsvorschriften (ABl. L 227 vom 31.7.2014, S. 1), die zuletzt durch die delegierte Verordnung (EU) 2015/1367 (ABl. L 211 vom 8.8.2015, S. 7) geändert
+
+worden ist,
 
 
 6.
 
 
-die Delegierte Verordnung (EU) Nr. 807/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Einführung von Übergangsvorschriften (ABl. L 227 vom 31.7.2014, S. 1),
+die Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18), die zuletzt durch die Durchführungsverordnung (EU) 2018/1077 (ABl. L 194 vom 31.7.2018, S. 44) geändert worden ist,
 
 
 7.
 
 
-die Durchführungsverordnung (EU) Nr. 808/2014 der Kommission vom 17. Juli 2014 mit Durchführungsvorschriften zur Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) (ABl. L 227 vom 31.7.2014, S. 18),
+die Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227 vom 31.7.2014, S. 69), die zuletzt durch die Durchführungsverordnung (EU) 2018/746 (ABl. L 125 vom 22.5.2018, S. 1) geändert worden ist,
 
 
 8.
 
 
-die Durchführungsverordnung (EU) Nr. 809/2014 der Kommission vom 17. Juli 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich des integrierten Verwaltungs- und Kontrollsystems, der Maßnahmen zur Entwicklung des ländlichen Raums und der Cross-Compliance (ABl. L 227 vom 31.7.2014, S. 69),
+die Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist,
 
 
 9.
 
 
-die Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG) Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr. 485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549), die durch die Verordnung (EU) Nr. 1310/2013 (ABl. L 347 vom 20.12.2013, S. 865) geändert worden ist,
+die Delegierte Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf das integrierte Verwaltungs- und Kontrollsystem und die Bedingungen für die Ablehnung oder Rücknahme von Zahlungen sowie für Verwaltungssanktionen im Rahmen von Direktzahlungen, Entwicklungsmaßnahmen für den ländlichen Raum und der Cross-Compliance (ABl. L 181 vom 20.6.2014, S. 48), die zuletzt durch die delegierte Verordnung (EU) 2017/723 (ABl. L 107 vom 25.4.2015, S. 1) geändert worden ist,
 
 
 10.
 
 
-die Delegierte Verordnung (EU) Nr. 640/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates in Bezug auf das integrierte Verwaltungs- und Kontrollsystem und die Bedingungen für die Ablehnung oder Rücknahme von Zahlungen sowie für Verwaltungssanktionen im Rahmen von Direktzahlungen, Entwicklungsmaßnahmen für den ländlichen Raum und der Cross-Compliance (ABl. L 181 vom 20.6.2014, S. 48),
+die Delegierte Verordnung (EU) Nr. 907/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates im Hinblick auf die Zahlstellen und anderen Einrichtungen, die finanzielle Verwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 255 vom 28.8.2014, S. 18), die zuletzt durch die delegierte Verordnung (EU) 2018/967 (ABl. L 174 vom 10.7.2018, S. 2) geändert worden ist,
 
 
 11.
 
 
-die Delegierte Verordnung (EU) Nr. 907/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates im Hinblick auf die Zahlstellen und anderen Einrichtungen, die finanzielle Verwaltung, den Rechnungsabschluss, Sicherheiten und die Verwendung des Euro (ABl. L 255 vom 28.8.2014, S. 18),
+die Durchführungsverordnung (EU) Nr. 908/2014 der Kommission vom 6. August 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Mittelverwaltung, des Rechnungsabschlusses und der Bestimmungen für Kontrollen, Sicherheiten und Transparenz (ABl. L 255 vom 28.8.2014, S. 59), die zuletzt durch die Durchführungsverordnung (EU) 2018/56 (ABl. L 10 vom 13.1.2018, S. 9) geändert worden ist,
 
 
 12.
 
 
-die Durchführungsverordnung (EU) Nr. 908/2014 der Kommission vom 6. August 2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der Mittelverwaltung, des Rechnungsabschlusses und der Bestimmungen für Kontrollen, Sicherheiten und Transparenz (ABl. L 255 vom 28.8.2014, S. 59),
+die Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union konsolidierte Fassung (ABl. C 202 vom 7.6.2016, S. 1),
 
 
 13.
 
 
-die Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47),
+die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65), die zuletzt durch die Verordnung (EU) 2017/1084 (ABl. L 156 vom 20.06.2017, S. 1) geändert worden ist,
 
 
 14.
 
 
-die Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1, L 283 vom 27.9.2014, S. 65),
-
-
-15.
-
-
 die Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1),
 
 
-16.
+15.
 
 
 die Verordnung (EU) Nr. 1408/2013 der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen im Agrarsektor (ABl. L 352 vom 24.12.2013, S. 9).
@@ -1691,30 +1702,34 @@ Vergabe von Aufträgen
 4.1
 
 
-Ist der Begünstigte aufgrund von §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 5 des Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258) geändert worden ist, sowie von § 1 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), in der jeweils geltenden Fassung, verpflichtet, die Vergabeverordnung (VgV), die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so hat er die Einhaltung dieser Verpflichtung der Bewilligungsbehörde durch die Vorlage der Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen nachzuweisen. Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen (zum Beispiel alle weiteren Angebote) nachzufordern und Vergabeprüfungen durchzuführen.           
+Ist der Begünstigte aufgrund von §§ 98 ff. des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2018 (BGBI. I S. 1151) geändert worden ist, sowie von § 2 Absatz 1 des Sächsischen Vergabegesetzes vom 14. Februar 2013 (SächsGVBl. S. 109), in der jeweils geltenden Fassung, verpflichtet, die Vergabeverordnung (VgV), die Vergabe- und Vertragsordnung für Bauleistungen Teil A (VOB/A), die Vergabe- und Vertragsordnung für Lieferungen und Leistungen (VOL/A) oder andere Vergabebestimmungen einzuhalten, so hat er die Einhaltung dieser Verpflichtung der Bewilligungsbehörde durch die Vorlage der Vergabedokumentation (zum Beispiel § 20 VOL/A, § 20 VOB/A, § 20 EU VOB/A, § 8 VgV) einschließlich eines Preisspiegels, der Bekanntmachung (zum Beispiel § 12 VOL/A, § 12 VOB/A, § 12 EU VOB/A, § 37 VgV), der Niederschrift über die Angebotsöffnung (zum Beispiel § 14 VOL/A, § 14 VOB/A, § 14 EU VOB/A) und des Zuschlags (zum Beispiel § 18 VOL/A, § 18 VOB/A, § 18 EU VOB/A) mit dem ausgewählten Angebot einschließlich Vertragsunterlagen nachzuweisen. Die Bewilligungsbehörde ist berechtigt, weitere Unterlagen (zum Beispiel alle weiteren Angebote) nachzufordern und Vergabeprüfungen durchzuführen.  
 
 
 4.2
 
 
-Begünstigte als öffentliche Auftraggeber im Sinne des § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen und als Sektorenauftraggeber im Sinne des § 100 des Gesetzes gegen Wettbewerbsbeschränkungen sind verpflichtet, auch bei Aufträgen, die nicht oder nur teilweise den Vorschriften der öffentlichen Auftragsvergabe unterliegen, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten, wenn der beabsichtigte Auftrag für den Binnenmarkt relevant ist. Binnenmarktrelevanz ist zu bejahen, wenn der Auftrag möglicherweise für Wirtschaftsteilnehmer in anderen Mitgliedstaaten von Interesse sein könnte. Bei Aufträgen ab 5 000 Euro netto ist grundsätzlich von einer Binnenmarktrelevanz auszugehen. Dieser Wert erhöht sich bei Aufträgen nach der VOB auf 10 000 Euro netto sowie bei der Vergabe von Aufträgen, die im Rahmen einer freiberuflichen Tätigkeit erbracht oder im Wettbewerb mit freiberuflichen Tätigen angeboten werden und deren Gegenstand eine Aufgabe ist, deren Lösung nicht vorab eindeutig und erschöpfend beschrieben werden kann, auf 20 000 Euro netto.
+Begünstigte als öffentliche Auftraggeber im Sinne des § 99 Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen und als Sektorenauftraggeber im Sinne des § 100 des Gesetzes gegen Wettbewerbsbeschränkungen sind verpflichtet, auch bei Aufträgen, die nicht oder nur teilweise den Vorschriften der öffentlichen Auftragsvergabe unterliegen, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten, wenn der beabsichtigte Auftrag für den Binnenmarkt relevant ist. Binnenmarktrelevanz ist zu bejahen, wenn der Auftrag für Wirtschaftsteilnehmer in anderen Mitgliedstaaten von eindeutigem Interesse ist.
 
 
-Nach der „Mitteilung der Kommission zu Auslegungsfragen in Bezug auf das Gemeinschaftsrecht, das für die Vergabe öffentlicher Aufträge gilt, die nicht oder nur teilweise unter die Vergaberichtlinien fallen“ vom 24. Juli 2006 (ABl. C 179 vom 1.8.2006, S. 2) sind binnenmarktrelevante Aufträge öffentlich bekannt zu machen und unter Beachtung des Diskriminierungsverbots zu vergeben. Weitere Einzelheiten können der Mitteilung entnommen werden. Es ist der Nachweis der öffentlichen Bekanntgabe vorzulegen.
+Binnenmarktrelevante Aufträge sind öffentlich bekannt zu machen und unter Beachtung des Diskriminierungsverbots zu vergeben. Einzelheiten können der „Mitteilung der Kommission zu Auslegungsfragen in Bezug auf das Gemeinschaftsrecht, das für die Vergabe öffentlicher Aufträge gilt, die nicht oder nur teilweise unter die Vergaberichtlinien fallen“ vom 24. Juli 2006 (ABI. C 179, S. 2) entnommen werden.
 
 
-Liegen bei Aufträgen nach Nummer 4.2 Absatz 1 Satz 1 besondere Umstände vor, die ein grenzüberschreitendes Interesse ausschließen (keine Binnenmarktrelevanz) und wird auf eine Veröffentlichung verzichtet, ist dies zu begründen. Als Nachweis ist der Bewilligungsbehörde die Begründung vorzulegen.
+Bei Liefer- und Dienstleistungen ist ab einem Auftragswert von 5 000 Euro netto der Nachweis der öffentlichen Bekanntgabe oder die Begründung, weshalb ein grenzüberschreitendes Interesse ausgeschlossen werden kann, vorzulegen. Gleiches gilt bei Aufträgen für Bauleistungen ab einem Auftragswert von 10 000 Euro
+
+netto. Bei der Vergabe von Aufträgen, die im Rahmen einer freiberuflichen Tätigkeit erbracht oder im Wettbewerb mit freiberuflichen Tätigen angeboten werden und deren Gegenstand eine Aufgabe ist, deren Lösung nicht vorab eindeutig und erschöpfend beschrieben werden kann, ist der Nachweis der öffentlichen Bekanntgabe nur dann vorzulegen, wenn besondere Umstände vorliegen, die ein grenzüberschreitendes Interesse belegen.
 
 4.3
 
 
-Ist der Begünstigte nach Nummer 4.1 zur Beachtung der vergaberechtlichen Vorschriften verpflichtet und kommt es im Vergabeverfahren zu erheblichen Verstößen gegen diese Vorschriften oder kann der Nachweis des ordnungsgemäßen Vergabeverfahrens durch den Begünstigten nicht erbracht werden, so wird die Auszahlung ganz oder teilweise abgelehnt oder die Zuwendung ganz oder teilweise zurückgenommen.
+Ist der Begünstigte nach Nummer 4.1 zur Beachtung der vergaberechtlichen Vorschriften verpflichtet und kann den Nachweis des ordnungsgemäßen
+
+Vergabeverfahrens nicht erbringen oder es kommt im Vergabeverfahren zu erheblichen Verstößen, wird die Auszahlung ganz oder teilweise abgelehnt oder die Zuwendung ganz oder teilweise zurückgenommen.
 
 
-Hinsichtlich der Art der möglichen Vergabeverstöße und der Höhe der auszusprechenden Verwaltungssanktionen wird auf den Beschluss der Europäischen Kommission C(2013) 9527 vom 19. Dezember 2013 mit den „Leitlinien zur Festsetzung von Finanzkorrekturen, die bei Verstößen gegen die Vorschriften für die Vergabe öffentlicher Aufträge auf von der EU im Rahmen der geteilten Mittelverwaltung finanzierte Ausgaben anzuwenden sind“, verwiesen. Diese Leitlinien werden auf entsprechende Vergabeverstöße bei Vergabeverfahren unterhalb der Schwellenwerte nach § 106 des Gesetzes gegen Wettbewerbsbeschränkungen analog angewendet.  
+Hinsichtlich der Art der möglichen Vergabeverstöße und der Höhe der auszusprechenden Verwaltungssanktionen wird auf den Beschluss der Europäischen Kommission C(2013) 9527 vom 19. Dezember 2013 mit den „Leitlinien zur Festsetzung von Finanzkorrekturen, die bei Verstößen gegen die Vorschriften für die Vergabe öffentlicher Aufträge auf von der EU im Rahmen der geteilten Mittelverwaltung finanzierte Ausgaben anzuwenden sind“, verwiesen. Diese Leitlinien werden auf entsprechende Vergabeverstöße bei Vergabeverfahren unterhalb der Schwellenwerte nach § 106 des Gesetzes gegen Wettbewerbsbeschränkungen analog angewendet.
 
 
-Ist der Begünstigte nach Nummer 4.2 verpflichtet, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten und können die erforderlichen Nachweise nicht erbracht werden oder liegen Verstöße gegen die Anforderungen an eine transparente und diskriminierungsfreie Bekanntgabe vor, wird in Anwendung der oben benannten Leitlinien der Kommission zur Festsetzung von Finanzkorrekturen die Auszahlung teilweise abgelehnt und die Zuwendung teilweise zurückgenommen.
+Ist der Begünstigte nach Nummer 4.2 verpflichtet, die Grundsätze der Transparenz, der Gleichbehandlung und das Diskriminierungsverbot zu beachten und es liegen Verstöße gegen die Anforderungen an eine transparente und diskriminierungsfreie Bekanntgabe vor, wird in Anwendung der oben benannten Leitlinien der Kommission zur Festsetzung von Finanzkorrekturen die Auszahlung teilweise abgelehnt und die Zuwendung teilweise zurückgenommen.
 
 5.
 
@@ -1989,9 +2004,7 @@ Prüfungen
 Die rechtmäßige Verwendung der Fördermittel kann jederzeit innerhalb der Zweckbindungsfrist durch die zuständigen Behörden auch vor Ort überprüft werden. Der Begünstigte hat den Zutritt zu Grundstücken, baulichen Anlagen und Gebäuden, einschließlich seiner Wohn- und Geschäftsräume zu gestatten, sofern diese Gegenstand der Förderung waren oder sich geförderte Gegenstände in diesen entsprechend des jeweiligen Bewilligungsbescheides befinden.
 
 
-Die Prüfungen können insbesondere durch die zuständigen Bediensteten der Bewilligungsbehörde, des Staatsministeriums für Umwelt und Landwirtschaft, der Bescheinigenden Stelle im Sächsischen Staatsministerium der Finanzen, der Europäischen Kommission, des Europäischen Amtes für Betrugsbekämpfung, des Sächsischen Rechnungshofes (§ 91 der
-
-Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 [SächsGVBl. S. 153], die zuletzt durch Gesetz vom 6. Mai 2014 [SächsGVBl. S. 286] geändert worden ist) und des Europäischen Rechnungshofes durchgeführt werden.
+Die Prüfungen können insbesondere durch die zuständigen Bediensteten der Bewilligungsbehörde, des Staatsministeriums für Umwelt und Landwirtschaft, der Bescheinigenden Stelle im Sächsischen Staatsministerium der Finanzen, der Europäischen Kommission, des Europäischen Amtes für Betrugsbekämpfung, des Sächsischen Rechnungshofes (§ 91 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 [SächsGVBl. S. 153], die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 [SächsGVBl. 630] geändert worden ist) und des Europäischen Rechnungshofes durchgeführt werden.
 
 
 15.
@@ -2074,7 +2087,8 @@ Die im Förderantrag genannten Tatsachen sind subventionserhebliche Tatsachen im
 
 Stellt die Bewilligungsbehörde fest, dass tatsächliche Anhaltspunkte vorliegen, die den Verdacht eines Subventionsbetruges rechtfertigen oder ein Begünstigter vorsätzlich falsche Angaben gemacht hat, hat sie diesen Vorgang gemäß Artikel 325 Vertrag über die Arbeitsweise der Europäischen Union, § 1 des
 
-Gesetzes gegen mißbräuchliche Inanspruchnahme von Subventionen nach Landesrecht vom 14. Januar 1997 (SächsGVBl. S. 2) in Verbindung mit § 6 des Subventionsgesetzes vom 29. Juli 1976 (BGBl. I S. 2034, 2037) der zuständigen Strafverfolgungsbehörde zu übergeben.
+Gesetzes gegen mißbräuchliche Inanspruchnahme von Subventionen nach Landesrecht vom 14. Januar 1997 (SächsGVBl. S. 2) in Verbindung mit § 6 des Subventionsgesetzes vom 29. Juli 1976 (BGBl. I S. 2034, 2037) der zuständigen Strafverfolgungsbehörde zu übergeben.            
+
 
 Verweis auf Bundesgesetze
 
@@ -2086,9 +2100,9 @@ Fsn-Nr.: 5563-V15.3
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  8. Januar 2018
+Fassung gültig ab:  1. Januar 2019
 
-Fassung gültig bis: 31. Dezember 2018
+Fassung gültig bis:  4. November 2021
 
 Drucken/Speichern
 
@@ -2113,7 +2127,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14206.4
+https://www.revosax.sachsen.de/vorschrift/14206.5
 Stand vom
 18.11.2026
 
