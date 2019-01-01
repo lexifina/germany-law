@@ -1,0 +1,1 @@
+# Verordnung zur Anerkennung und Förderung von Angeboten zur Unterstützung im Alltag nach § 45a, der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamtes nach § 45c sowie der Selbsthilfe nach § 45d des Elften Buches Sozialgesetzbuch für das Land B
