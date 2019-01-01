@@ -1,4 +1,4 @@
-# Anlage (zu § 1 Abs. 3)
+# Anlage (zu § 1 Absatz 3)
 Die ländlichen Kulturräume im Freistaat Sachsen und die dazugehörigen Landkreise
 1. Kulturraum Vogtland-Zwickau
 a)
