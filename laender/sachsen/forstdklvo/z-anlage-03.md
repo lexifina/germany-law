@@ -7,7 +7,7 @@ Funktionsabzeichen
 Gehobener Forstdienst
 Position | Beschreibung Funktionsabzeichen | Beschreibung Funktionsabzeichen
 3.1.1 | 
-Sachbearbeiter des Staatsbetriebes Sachsenforst und des Staatsministeriums | fübogiges Geflecht zweier dicht nebeneinanderliegender 0,5 cm breiter dunkelgrüner Plattschnüre auf dunkelgrüner Samtunterlage, Umrandung zwei silberfarbene Eicheln | grün umrandet, zwei grüne Eichenblätter
+Sachbearbeiter des Staatsbetriebes Sachsenforst und des Staatsministeriums | fünfbogiges Geflecht zweier dicht nebeneinanderliegender 0,5 cm breiter dunkelgrüner Plattschnüre auf dunkelgrüner Samtunterlage, Umrandung zwei silberfarbene Eicheln | grün umrandet, zwei grüne Eichenblätter
 3.1.2 | 
 alle anderen Funktionen | wie Nummer 3.1.1, jedoch mit einer silberfarbenen Eichel | grün umrandet, ein grünes Eichenblatt
 3.2 Höherer Forstdienst
