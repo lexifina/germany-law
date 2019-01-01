@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 Teil 1 Örtliche Zuständigkeit und Sitz der Gerichte und Staatsanwaltschaften
 § 1 Oberlandesgericht, Land- und Amtsgerichte
 § 2 Oberverwaltungsgericht und Verwaltungsgerichte
@@ -55,10 +55,14 @@ Abschnitt 7 Ausführung des Gesetzes über das gerichtliche Verfahren in Landwir
 § 39 Vorschlag der ehrenamtlichen Richter
 § 40 Persönliche Angaben
 § 41 Ergänzungsliste
-Teil 3 Befugnisse des Justizwachtmeisterdienstes und der Gerichtsvollzieher
+Teil 3 Informations- und Kommunikationstechnik
+§ 41a Leitstelle für Informationstechnologie der sächsischen Justiz
+§ 41b Aufgaben
+§ 41c IT-Kontrollkommission
+Teil 4 Befugnisse des Justizwachtmeisterdienstes und der Gerichtsvollzieher
 § 42 Befugnisse der Justizwachtmeister
 § 42a Befugnisse der Gerichtsvollzieher
-Teil 4 Ausführung der Grundbuchordnung Abschnitt 1 Allgemeine Vorschriften im Grundbuchverkehr
+Teil 5 Ausführung der Grundbuchordnung Abschnitt 1 Allgemeine Vorschriften im Grundbuchverkehr
 § 43 Bedienstete des Grundbuchamtes und ihre Zuständigkeit
 § 44 Berggrundbuch
 § 45 (aufgehoben)
@@ -72,15 +76,15 @@ Abschnitt 2 Erteilung von Unschädlichkeitszeugnissen
 § 52 Rechtsbehelfe
 § 53 Wirksamkeit, Grundbuchvollzug
 Abschnitt 3 (aufgehoben)
-Teil 5 Ausführung des Vereinsrechts des Bürgerlichen Gesetzbuchs
+Teil 6 Ausführung des Vereinsrechts des Bürgerlichen Gesetzbuchs
 § 55 Landesrechtliche Zuständigkeiten
 § 56 Bekanntmachung
 § 57 Anfall an den Fiskus
-Teil 6 Vertretung des Freistaates Sachsen in gerichtlichen Verfahren
+Teil 7 Vertretung des Freistaates Sachsen in gerichtlichen Verfahren
 § 58 Verordnungsermächtigung
 § 59 Empfangszuständigkeit für Klagezustellungen
 § 60 Vertretungsregelung zum Transsexuellengesetz
-Teil 7 Justizkosten Abschnitt 1 Justizverwaltungskosten
+Teil 8 Justizkosten Abschnitt 1 Justizverwaltungskosten
 § 61 Allgemeine Regelungen
 § 62 Kostenbeitreibung
 § 63 Verwaltungsvollstreckungsverfahren
@@ -94,7 +98,7 @@ Abschnitt 3 Stundung und Erlass von Kosten, Befreiungsvorschriften
 § 69 Befreiungsvorschriften
 Abschnitt 4 Gebührenverzeichnis
 § 70 Gebührenverzeichnis
-Teil 8 Schlussvorschriften
+Teil 9 Schlussvorschriften
 § 71 Übergangsvorschriften
 § 72 Einschränkung von Grundrechten
 § 73 Änderung und Aufhebung anderer Rechtsvorschriften
