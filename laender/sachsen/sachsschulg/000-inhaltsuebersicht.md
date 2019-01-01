@@ -1,4 +1,3 @@
-## Schulgesetz für den Freistaat Sachsen (Sächsisches Schulgesetz – SächsSchulG)
 # Inhaltsübersicht
 1. Teil Allgemeine Vorschriften
 1. Abschnitt Erziehungs- und Bildungsauftrag, Geltungsbereich
