@@ -1,4 +1,3 @@
-## Verordnung der Sächsischen Staatsregierung über die Laufbahnen der Beamten und Richter im Freistaat Sachsen (Sächsische Laufbahnverordnung – SächsLVO)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeines
 § 1 Geltungsbereich
