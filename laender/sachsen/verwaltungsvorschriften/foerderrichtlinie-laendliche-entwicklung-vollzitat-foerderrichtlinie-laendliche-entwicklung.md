@@ -1,8 +1,8 @@
 # Förderrichtlinie Ländliche Entwicklung Vollzitat: Förderrichtlinie Ländliche Entwicklung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-03-24 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14205.2
+- Datum: 2019-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14205.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-24.03.2017
+01.01.2019
 bis
-31.12.2018
+07.03.2019
 
 Förderrichtlinie Ländliche Entwicklung
 
@@ -157,12 +157,13 @@ Bezüge zum GAK-Rahmenplan beziehen sich auf den Förderbereich 1 – Integriert
 
 1.
 
-Ländliche Neuordnung nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz
+Ländliche Neuordnung nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz  
+
 
 a)
 
 Fördergegenstände
-Maßnahmen im Rahmen der Ländlichen Neuordnung nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung, und dem Landwirtschaftsanpassungsgesetz in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Artikel 40 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, in der jeweils geltenden Fassung. Förderfähig sind Aufwendungen für die Bodenordnung und die Gestaltung des ländlichen Raumes in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz (Nummer 6.2.1 Buchstabe a des GAK-Rahmenplans) sowie Maßnahmen der Dorfentwicklung nach Nummer 4.2.1 Buchstabe b, g und j des GAK-Rahmenplans, die in direktem Zusammenhang mit einer gemeinschaftlichen Anlage nach § 39 des Flurbereinigungsgesetzes stehen beziehungsweise für die Bodenordnung zwingend erforderlich sind.
+Maßnahmen im Rahmen der Ländlichen Neuordnung nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung, und dem Landwirtschaftsanpassungsgesetz in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Artikel 40 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, in der jeweils geltenden Fassung. Förderfähig sind Aufwendungen für die Bodenordnung und die Gestaltung des ländlichen Raumes in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz (Nummer 6.2.1 Buchstabe a des GAK-Rahmenplans) sowie Maßnahmen der Dorfentwicklung nach Nummer 4.2.1 Buchstabe b, g und j des GAK-Rahmenplans, die in direktem Zusammenhang mit einer gemeinschaftlichen Anlage nach § 39 des Flurbereinigungsgesetzes stehen beziehungsweise für die Bodenordnung zwingend erforderlich sind. Innerörtliche Straßen und Wege sowie innerörtliche Pflanzmaßnahmen sind als Dorfentwicklungsmaßnahmen auch ohne einen direkten Zusammenhang mit einer gemeinschaftlichen Anlage der Teilnehmergemeinschaft förderfähig.
 
 b)
 
@@ -407,10 +408,6 @@ Bei Maßnahmen nach Ziffer II Nummer 2 sind die Vorgaben der Nummern 7.5 und 7.6
 Vorhaben nach dieser Richtlinie, die gleichzeitig den Zielen integrierter regionaler Entwicklungsstrategien wie LEADER-Entwicklungsstrategien (LES) sowie Städtebaulichen Entwicklungskonzepten (SEKO) in den jeweils geltenden Fassungen dienen, werden vorrangig gefördert.
 
 
-Zu Ziffer II Nummer 3:
-
-Maßnahmen nach Ziffer II Nummer 3 müssen im Einklang mit den Zielen der LEADER-Entwicklungsstrategie der jeweiligen LEADER-Region stehen.
-
 V.
 Art und Umfang, Höhe der Zuwendungen
 
@@ -429,7 +426,6 @@ a)
 
 
 Die Höhe des Fördersatzes für Maßnahmen nach dem Flurbereinigungsgesetz – mit Ausnahme der Sonderregelungen unter Nummer 2 Buchstabe b bis f – ist abhängig von der durchschnittlichen landwirtschaftlichen Vergleichszahl (LVZ) des Verfahrensgebietes. Sie wird der Bewilligungsbehörde durch die obere Flurbereinigungsbehörde schriftlich mit der Anordnung des Verfahrens mitgeteilt. Der Fördersatz beträgt:
-
 
 Fördersatz
 
@@ -638,6 +634,8 @@ Maßnahmen nach Ziffer II Nummer 2 und 3 sind in Orten und deren Gemarkungen bis
 
 Maßgeblich für die Aufnahme in die Liste der förderfähigen Orte ist die Einwohnerzahl zum 30. Juni 2013. Die Liste der Förderfähigkeit behält ihre Gültigkeit für den Geltungszeitraum dieser Richtlinie.
 
+Den räumlichen Geltungsbereich für Maßnahmen nach Ziffer II Nummer 3 Buchstaben aa) und cc) regelt das Staatsministerium für Umwelt und Landwirtschaft gesondert.
+
 
 c)
 
@@ -678,9 +676,9 @@ Fsn-Nr.: 5563-V15.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 24. März 2017
+Fassung gültig ab:  1. Januar 2019
 
-Fassung gültig bis: 31. Dezember 2018
+Fassung gültig bis:  7. März 2019
 
 Drucken/Speichern
 
@@ -705,7 +703,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14205.2
+https://www.revosax.sachsen.de/vorschrift/14205.3
 Stand vom
 18.11.2026
 
