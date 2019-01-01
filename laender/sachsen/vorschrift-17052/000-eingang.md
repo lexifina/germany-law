@@ -1,3 +1,4 @@
 # Verordnung des Sächsischen Staatsministeriums des Innern, des Sächsischen Staatsministeriums der Finanzen und des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Ausbildung und Prüfung im Vorbereitungsdienst für die zweite Einstiegsebene der Laufbahngruppe 2 in der Fachrichtung Naturwissenschaft und Technik mit dem fachlichen Schwerpunkt technischer Verwaltungsdienst in den Aufgabenbereichen Architektur, Städtebau, Straßenwesen sowie Maschinen- und Elektrotechnik in der Verwaltung (Sächsische Ausbildungs- und Prüfungsordnung Bau, Straßenwesen sowie Maschinen- und Elektrotechnik – SächsAPO-BauStM-LG2.2)
 Vom 25. Oktober 2016
+Rechtsbereinigt mit Stand vom 1. Januar 2019
 Auf Grund des § 30 Satz 1 und 2 des Sächsischen Beamtengesetzes vom 18. Dezember 2013 (SächsGVBl. S. 970, 971) verordnen das Staatsministerium des Innern, das Staatsministerium der Finanzen und das Staatsministerium für Wirtschaft, Arbeit und Verkehr:
