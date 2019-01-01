@@ -1,4 +1,4 @@
-Anlage zu § 1 Abs. 2 Satz 2, § 2 Abs. 3, § 11 Abs. 1 Satz 1 und 3, § 11 Abs. 2 Satz 4, § 11 Abs. 3 Satz 2
+# Anlage zu § 1 Abs. 2 Satz 2, § 2 Abs. 3, § 11 Abs. 1 Satz 1 und 3, § 11 Abs. 2 Satz 4, § 11 Abs. 3 Satz 2
 1. Einrichtungen der Medizinischen Fakultät der Universität Leipzig
 a)
 Institut für Anatomie
