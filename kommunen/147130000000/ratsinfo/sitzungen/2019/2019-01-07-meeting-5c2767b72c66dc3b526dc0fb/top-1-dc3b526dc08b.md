@@ -1,0 +1,7 @@
+# TOP 1: Eröffnung und Begrüßung, Feststellung der Beschlussfähigkeit
+
+- Sitzung: OR Engelsdorf (2019-01-07)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c2767b62c66dc3b526dc08b
+- Ergebnis: (offen)
