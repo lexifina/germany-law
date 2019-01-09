@@ -1,0 +1,8 @@
+# TOP 9.1: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Einleitung des Verfahrens zur Aufstellung des Bebauungsplans 7-96 für die Grundstücke Diedersdorfer Weg 5/11 im Bezirk Tempelhof-Schöneberg, Ortsteil Marienfelde
+
+- Sitzung: 22. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2019-01-09)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=51402
+- Ergebnis: mit Abschlussbericht zur Kenntnis genommen
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=51402
