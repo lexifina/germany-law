@@ -1,0 +1,6 @@
+# TOP 5: Vorlagen und Anträge
+
+- Sitzung: SBB Süd (2019-01-09)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c2767af2c66dc3b526dbef0
