@@ -1,0 +1,7 @@
+# TOP 3: Bericht des Jugendparlaments
+
+- Sitzung: Jugendbeirat (2019-01-09)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c2767942c66dc3b526db87b
+- Ergebnis: (offen)
