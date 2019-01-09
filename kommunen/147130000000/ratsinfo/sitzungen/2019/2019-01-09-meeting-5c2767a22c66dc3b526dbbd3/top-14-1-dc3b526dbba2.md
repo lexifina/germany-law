@@ -1,0 +1,6 @@
+# TOP 14.1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Verwaltungsausschuss (2019-01-09)
+- Körperschaft: Leipzig
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c2767a22c66dc3b526dbba2
