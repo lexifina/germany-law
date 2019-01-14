@@ -1,0 +1,73 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-01-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150335
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150335
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 3.1.2.: Bericht vom Infotermin zu Laufzeiten und Baugenehmigungen von Flüchtlingsunterkünften am 13.12.2018
+- TOP 3.4.1.: Aufruf TOP 8.4.2
+- TOP 3.4.2.: Aufruf TOP 8.7
+- TOP 3.4.3.: Aufruf TOP 8.11
+- TOP 3.4.4.: Aufruf TOP 7.1
+- TOP 2.1.: BA11: Antrag "Plastikproblematik - Veranstaltungen an Grundschulen im 11. Stadtbezirk" mit der Bitte um Unterstützung
+- TOP 3.1.1.: Start und Status des RGU-Projektes "München - gesund vor Ort" in Moosach
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Karl-Lipp-Str. 22-24 2. Dieselstr. 18 3. Glogauer Str. 20
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Karl-Lipp-Str. 22-24 (-> BV siehe TOP 3.3.1.1) 2. Glogauer Str. 20 (-> BV siehe TOP 3.3.1.3)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Spielplatz in der staatlichen Gemeinschaftsunterkunft Franz-Mader-Straße herstellen
+- TOP 4.1.2.: Vorlage von Freiflächengestaltungsplänen
+- TOP 4.1.3.: Anbringen einer Beschilderung zum neuen Stadtteilzentrum der Münchner Volkshochschule in der U-Bahnstation „Moosach Bahnhof“
+- TOP 5.1.: (E) Kostenlose Benutzung öffentlicher Toiletten Empfehlung Nr. 14-20 / E 02202 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 18.10.2018
+- TOP 5.2.: (E) Aufstellen eines 2. Containers für Kunststoff an der Wertstoffinsel Bingener Straße / Ecke Triebstraße Empfehlung Nr. 14-20 / E 02209 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 18.10.2018
+- TOP 5.3.: (E) Abbau Tischtennisplatte und Bänke zwischen Eislebener Weg und Thorner Straße, 80993 München Empfehlung Nr. 14-20 / E 02201 der Bürgerversammlung des Stadtbezirkes 10 Moosach am 18.10.2018
+- TOP 6.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Pfeilschifterstraße: Errichtung einer Kurzparkzone
+- TOP 6.2.: Baumfällungen (Baumschutz): 1. Georg-Brauchle-Ring 23 2. Ohlauer Str. 65
+- TOP 6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Andernacher Straße - nicht-öffentlich -
+- TOP 7.1.: Haltemöglichkeit für PKW am Memminger Platz [BA-Antrag Nr. 14-20/B 04532; Öffnung Busknotenpunkt verkehrsrechtlich nicht möglich; Verweis auf P+R- Anlage.]
+- TOP 7.2.: Wiederaufstellung von Wertstoff-Containern zur Entsorgung von Kleinelektrogeräten (EAG) [BA-Antrag Nr. 14-20/ B 05380; EAG mit Lithiumbatterien sind Gefahrengut; Fehlwurfanteil zu hoch; Einstellung Pilotprojekt war notwendig.]
+- TOP 7.3.: Anordnung eines allgemeinen Behindertenparkplatzes vor dem Anwesen Bunzlauer Str. 5-9 [BA-Antrag Nr. 08-14/ B 05667; wegen geringer Straßen- und Durchfahrtsbreite nicht möglich]
+- TOP 7.4.: Einfache Sprache für Informationen gegen Rechtsextremismus [BA-Antrag 08-14/ B 05454; bei künftigen Publikationen werden Hinweise auf einfache Sprache aufgegriffen].
+- TOP 7.5.: Funktionalität des Brunnens "Ultramarin" an der Dachauer Straße / Ecke Bauberger Straße, 80992 München
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Baumentfernungen und Gehölzepflegemaßnahmen 1. an Straßen und in öffentlichen Grünflächen: bevorstehendeEntfernungen von Gefahrenbäumen; 2. in den Aussenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken: bevorstehendeEntfernungen von Gefahrenbäumen;
+- TOP 8.4.: Verkehrsrechtliche Anordnungen nach § 45 45 StVO: 1. Schragenhofstraße: Einrichtung von 30 km/h 2. Feldmochinger Straße: Geschwindigkeitsbegrenzung (T30)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebes: Haldenbergerstr. 28
+- TOP 8.6.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlihen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS -)
+- TOP 8.7.: (U) Eggarten-Siedlung 1. Erhalt der Eggarten-Siedlung Empfehlung Nr. 14-20 / E 01419 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017 2. Artenschutz im Gebiet der Kolonie Eggarten Empfehlung Nr. 14-20 / E 01420 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017 10. Stadtbezirk Moosach 24. Stadtbezirk Feldmoching-Hasenbergl
+- TOP 8.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 8.10.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 8.11.: (U) Ensembles ehemaliger Dorfkerne im Sinne des Denkmalschutzgesetzes; Ergebnis der abschließenden Beurteilung durch den Landesdenkmalrat
+- TOP 8.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 8.14.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 8.15.: (U) Urbane Seilbahn Frankfurter Ring Beauftragung einer Machbarkeitsstudie
+- TOP 8.16.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.17.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.18.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 8.19.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Simrockstraße 2. Glogauer Straße
