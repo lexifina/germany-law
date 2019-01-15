@@ -1,0 +1,6 @@
+# TOP 3: Protokollkontrolle der Sitzung vom 04.12.2018
+
+- Sitzung: OR Mölkau (2019-01-15)
+- Körperschaft: Leipzig
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d5e1a2c66dc3b52543fdf
