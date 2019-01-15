@@ -1,0 +1,150 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2019-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5077235
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5077235
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.4.: Umbesetzung in den Unterausschüssen
+- TOP 1.3.5.: Bestellung eines stellvertretenden Vorsitzenden im UA Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.3.: Weltenburgerstr. 53: Neubau einer Dreifachsporthalle mit Parkdeck sowie Sanierung und Erweiterung der Bestandssportstätten und Freisportanlagen - Vorstellung durch die Bauherren
+- TOP 2.2.6.: Spervogelstr. 10: Neubau eines Wohnhauses - Vorbescheid
+- TOP 2.2.9.: Denninger Str. 96: Neubau eines Mehrfamilienhauses mit Kita und Tiefgarage - Vorbescheid
+- TOP 2.2.10.: Muspillistr. 8: Umbau eines Wohnhauses in 3 Wohneinheiten - Tektur
+- TOP 2.2.11.: Griesfeldstr.: Neubau einer gewerblichen Beherbergungsstätte (Boardinghaus) mit unterirdischer Großgarage (Haus Ost) - Erstantragsverfahren
+- TOP 2.2.12.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.14.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 11.12.2018
+- TOP 1.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1.: Kulturbürgerhaus - Vorstellung durch die zuständigen Referate
+- TOP 2.2.2.: Prinz-Eugen-Park: Bewohnerwünsche zur Freiflächenplanung (vertagt am 11.12.2018)
+- TOP 2.2.4.: Hornsteinstr. 3.: Änderung der Denkmalliste nach Art. 2 Bayer. Denkmalschutzgesetz (BayDSchG), hier: Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München; Nachtrag eines Wohnhauses von 1950/51 in die Denkmalliste; Anhörung des Referat für Stadtplanung und Bauordnung vom 30.11.2018
+- TOP 2.2.5.: 37. Änderung des Flächennutzungsplans der Gemeinde Aschheim, Erneute Beteiligung im Verfahren nach 4a Abs. 3 Satz 1 und 3 BauGB; Unterrichtung des Referats für Stadtplanung vom 29.11.2018
+- TOP 2.2.7.: Gustav-Freytag-Str. 2: Neubau eines Wohnhauses mit Tiefgarage – Vorbescheid
+- TOP 2.2.8.: Stargarder Str. 7a: Neubau eines Einfamilienhauses – Tektur
+- TOP 2.3.1.: (E) + (U) Barrierefreier Zugang zur S-Bahn-Station Johanneskirchen Empfehlung Nr. 14-20 / E 02244 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 25.10.2018
+- TOP 2.3.2.: Denninger Straße: Halteverbot mit Zeitbeschränkung; Anhörung des Kreisverwaltungsreferats vom 30.11.2018
+- TOP 2.3.3.: Röntgenstr. 15 und Vollmannstr. 53: Kurzparkzonen für Kita-Eltern; Anhörung des Kreisverwaltungsreferats vom 30.11.2018
+- TOP 2.3.4.: Fritz-Lutz-Straße: Versetzen des Zeichens "Schulbushaltestelle"; Anhörung des Kreisverwaltungsreferats vom 03.12.2018
+- TOP 2.3.5.: Salzsenderweg: Beschilderung mit Gefahrzeichen ,,Kinder" und Zusatzzeichen ,,Schulweg"; Anhörung des Kreisverwaltungsreferats vom 3.12.2018
+- TOP 2.3.6.: Max-Zenger-Str. 11a: Einrichtung eines personenbezogenen Behindertenparkplatzes; Anhörung des Kreisverwaltungsreferats vom 17.12.2018
+- TOP 2.3.7.: Zamdorfer Str. (zwischen BAB A 94 und Hultschiner Str.): Geschwindigkeitsbeschränkung auf 30 km/h; Anhörung des Kreisverwaltungsreferats vom 27.12.2018
+- TOP 2.3.8.: Freischützstraße 91: 1. Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnlichen Einrichtungen 2. Eingeschränktes Halteverbot für Hol- und Bringzone; Anhörung des Kreisverwaltungsreferats vom 05.12.2018
+- TOP 2.3.9.: Brucknerstr./Prinzregentenstraße: Einrichtung eines absoluten Halteverbots; Unterrichtung eines Kreisverwaltungsreferats vom 03.12.2018
+- TOP 2.3.10.: Oberföhringer Str.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen; Unterrichtung eines Kreisverwaltungsreferats vom 14.12.2018
+- TOP 2.3.11.: Englschalkinger Str.: Errichtung von zwei Kurzzeit-Parkplätzen auf Höhe des Hausnummer 245; Unterrichtung des Kreisverwaltungsreferats vom 13.12.2018
+- TOP 2.3.12.: Zamdorfer Str. 26 (Griech. Grund- und Mittelschule): Erleichterte streckenbezogene Anordnung vom Tempo 30 vor Schulen und ähnlichen Einrichtungen; Unterrichtung des Kreisverwaltungsreferats vom 11.12.2018
+- TOP 2.3.13.: Englschalkinger Str. 234: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen (Kindertagesstätte); Unterrichtung des Kreisverwaltungsreferats vom 13.12.2018
+- TOP 2.3.14.: Oberföhringer Straße, Nähe Grundschule, Haus Nr. 224: Aufstellung eines Dialog-Displays; Unterrichtung des Kreisverwaltungsreferats vom 11.12.2018
+- TOP 2.3.15.: Asgardstraße (nördlicher Teil): Einrichtung eines einseitigen absoluten Haltverbots; Unterrichtung eines Kreisverwaltungsreferats vom 11.12.2018
+- TOP 2.3.16.: Ostpreußenstr.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen; Kindertagesstätte in der Ostpreußenstr. 84 Kinderhort und Grundschule in der Ostpreußenstr. 88; Widerruf der bisherigen Klapp- und Gefahrzeichenbeschilderung; Unterrichtung eines Kreisverwaltungsreferats vom 13.12.2018
+- TOP 2.3.17.: Normannenplatz: Blockade parkende Fahrzeuge; Antwortschreiben (vertagt am 11.12.2018, TOP 6.1)
+- TOP 2.3.18.: Radfahren endlich sicherer machen; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 25.11.2018 (vertagt am 11.12.2018)
+- TOP 2.3.19.: Klinikum Bogenhausen: Einrichtung von zwei Behindertenparkplätzen; Antrag der CSU-Fraktion vom 13.12.2018
+- TOP 2.3.20.: Rosenkavalierplatz und Bus-/U-Bahnhof Arabellapark: Aufstellung von genügend Fahrradständern; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 02.01.2019
+- TOP 2.3.21.: Neuanlage eines Taxistandplatzes an der Tram 19 Wendeschleife Steinhausen; Bürgeranliegen vom 04.12.2018
+- TOP 2.3.22.: Tempo-30-Zone in der Eggenfeldener Straße zwischen Süßkind- und Hultschiner Straße; Bürgeranliegen vom 05.12.2018
+- TOP 2.3.23.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.24.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget brennt! GmbH Hörgang 2019 im September 2019 10.000,00€; 0262.0-13-0189 Vorstellung durch Antragsteller (vertagt am 11.12.2018)
+- TOP 2.4.2.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.3.: Verschiedenes, Termine
+- TOP 2.5.1.: Bezirkssportanlage Fritz-Lutz-Straße: Problematischer Zustand (u. a. Personal); Bürgeranliegen vom 13.11.2018 (vertagt am 11.12.2018)
+- TOP 2.5.2.: Konkrete umsetzbare Hilfe für den FC RW Oberföhring; Antrag der CSU-Fraktion vom 04.12.2018
+- TOP 2.5.3.: Schulveranstaltungen in der Fritz-Lutz-Schule - fehlende Versammlungsstätte; Bürgeranliegen vom 29.11.2018
+- TOP 2.5.4.: (E) + (U) Erweiterung des Cosimabades um ein Freibad Empfehlung Nr. 14-20 / E 02243 der Bürgerversammlung des Stadtbezirkes 13 - Bogenhausen am 25.10.2018
+- TOP 2.5.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.6.: Verschiedenes, Termine
+- TOP 2.5.7.: Bessere Sicherheit für die Schulfamilie der Städtischen Helen-Keller-Realschule; Antrag der CSU-Fraktion vom 07.01.2019
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Lamontstr. 21: lt Plan Prinzregentenstr. 97: lt Plan Osserstr. 46: lt Plan Weltenburger Str. 53: lt Plan Denninger Str. 179: lt Plan Ruth-Drexel-Str.: lt. Plan Griesfeldstr. (Haus Ost): lt. Plan Griesfeldstr. (Haus West): lt. Plan Rudliebstr.: lt. Plan Scheinerstr 1: mehrere Bäume Stuntzstr. 11 - 15: 3 Pappeln Stradellastr.: 4 Bäume Oberföhringer Str. 135: 2 Eschen Schneidemühler Str. 5: 1 Fichte Johanneskirchner Str. 23: 1 Tanne, 1 Fichte, 1 Birke Buschingstr. 65 - 69: 1 Säulenpappel, 1 Pappel Cuvilliéstr. 8: 6 Säulenpappeln Eggenfeldener Str. 125: 1 Hemlocktanne, 1 Kiefer, 3 Ahorn Ostpreußenstr. 48: 1 Blutpflaume Schichtlstr. 4: lt. Plan Graudenzer Str. 11: lt. Plan Denninger Str. 96: lt. Plan Marienburger Str. 40: lt. Plan Haushoferstr. 8: 1 Buche
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Buschingstr. 1 - 47 (lt. Bescheid), Buschingstr. 65 - 69 (lt. Bescheid), Cuvilliesstr. 23 (lt. Bescheid), Pachmayrpl. 1 (1 Fichte), Effnerstr. 80 (1 Winterlinde), Posener Pl. 17 (1 Hemlocktanne)
+- TOP 2.6.3.: (E) Unzureichende Beschilderung im Englischen Garten Empfehlung Nr. 14-20 / E 02236 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 25.10.2018
+- TOP 2.6.4.: (E) Pflege der Grünanlage im Wendehammer der Hagelstangestraße Empfehlung Nr. 14-20 / E 02237 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 25.10.2018
+- TOP 2.6.5.: Blumenwiesen im 13. Stadtgebiet: Grünanlagen Wahnfriedallee und Brunnenbachleite; Unterrichtung des Baureferats vom 30.11.2018
+- TOP 2.6.6.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Unterrichtung des Baureferats
+- TOP 2.6.7.: Jahresmeldung 2019 - Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen; Unterrichtung des Baureferats vom 05.12.2018
+- TOP 2.6.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.9.: Verschiedenes, Termine
+- TOP 5.1.: Veranstaltung auf öffentlichem Verkehrsgrund Hier: Faschingszug Gaudiwurm am 03.03.2019; Start: Kirchplatz Johanneskirchen; Anhörung des Kreisverwaltungsreferats vom 05.12.2018
+- TOP 6.1.: Fragen zur SEM Nordost
+- TOP 6.2.: Blühende Fahrbahnmittelstreifen
+- TOP 6.3.: Bienenwiese in der Richard-Strauß-Straße
+- TOP 6.4.: Lebensräume für Singvögel und Bienen in Bogenhausen verbessern
+- TOP 6.5.: Errichtung von E-Ladesäulen am Ende des vorhandenen Taxistandes in der Mauerkircher Straße
+- TOP 6.6.: Entlastung der Oberföhringer Straße - Öffnung Feringastraße (Unterföhring) zur Effnerstraße
+- TOP 6.7.: Weitere Nutzung des Bauplatzes neben ALDI in der Cosimastraße
+- TOP 6.8.: Weitere Nutzung der ehemaligen Schreiber-Klinik
+- TOP 6.9.: Sanierung des südlichen Radweges der Engelschalkinger Straße; Antrag der Bündnis 90/Die Grünen vom15.09.2018
+- TOP 6.10.: Baulicher Zustand des Höchl-Schlössls
+- TOP 6.11.: Brucknerstr.: Sicherheit für Fußgänger - insbesondere Kinder - gewährleisten
+- TOP 6.12.: Erweiterung der Einzugsgebiete der Car-Sharing-Unternehmen "Drive Now" und "car2go"
+- TOP 6.13.: Besserer Verkehrsfluss in der Oberföhringer Straße: Buswendeschleife an der Haltestelle St. Emmeram; Antrag der CSU-Fraktion vom 03.09.2018
+- TOP 6.14.: Machbarkeitsstudie SEM Städte-Entwicklungsmaßnahme
+- TOP 6.15.: Freischützstr. 46 + 48: Bodenmarkierung als nicht zu beparkende Fläche; Antrag der CSU-Fraktion vom 03.09.2018
+- TOP 6.16.: Kunihofstraße: Holzabsprerrungen haben im Dorfensemble nichts verloren!
+- TOP 6.17.: Defektes Mobilnetz Vodafone im Bereich S-Bahnhaltestelle Johanneskirchen und umliegende Wohngebiete
+- TOP 6.18.: Aufnahme einer Kaukasischen Flügelnuss in der Buschingstraße in die Liste der Naturdenkmäler
+- TOP 6.19.: Zweckentfremdung von Wohnraum: Wie viele Fälle wurden im Stadtbezirk 13 gemeldet?
+- TOP 7.1.1.: Stellungnahme des Bezirksausschusses Altstadt-Lehel zur Wahl des Kulturreferenten der Landeshauptstadt München
+- TOP 7.7.1.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 7.7.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 7.7.3.: (U) Münchner Nordosten A) Personalbedarf B) Erhöhung Gesamtkosten Ideenwettbewerb Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem
+- TOP 7.7.4.: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 7.7.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 7.7.6.: (U) Münchner Nordosten A) Eckdaten und Planungsziele - Eckdatenbeschluss - B) Durchführung des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs C) Weiteres Vorgehen D) Personalbedarf Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem
+- TOP 7.9.1.: (U) Einrichtung eines Quartiersmanagement in der "Städtebaulichen Entwicklungsmaßnahme" (SEM) Prinz-Eugen-Kaserne Bebauungsplan mit Grünordnung Nr. 2016 Cosimastraße, Salzsenderweg und Stradellastraße (Teiländerung des Bebauungsplanes Nr. 117) - ehemalige Prinz-Eugen-Kaserne - Stadtbezirk 13 Bogenhausen Quartiersmanagement im Neubauquartier Prinz-Eugen-Park Antrag Nr. 14-20 / A 03407 ............................................... Änderung des Mehrjahresinvestitionsprogramms 2018-2022 und ff. Bedarfs- und Konzeptgenehmigung Produkt 40367200 Quartierbezogene Bewohnerarbeit Haushaltsjahr 2019 ff.
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch: Widderstr. 2/2a
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch: Kopernikusstr. 8, EG, Wohnung Nr. 12
+- TOP 7.9.4.: Zweckentfremdung von Wohnraum durch Abbruch: Osserstr. 46
+- TOP 7.9.5.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 7.9.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 7.12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
