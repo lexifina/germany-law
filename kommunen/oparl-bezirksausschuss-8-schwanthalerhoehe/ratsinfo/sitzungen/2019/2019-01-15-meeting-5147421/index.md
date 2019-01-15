@@ -1,0 +1,73 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147421
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147421
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: ASZ und der Gesundheitsladen stellen ihre Arbeit vor
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Parkplatzsituation im Westend
+- TOP 4.2.: Tram Cafe München; Bewerbung für die Circus-Wiese
+- TOP 4.3.: Illegale Altkleidercontainer am Gollierplatz
+- TOP 6.1.1.: Barrierefreier Ausbau der Bushaltestelle Ridlerstraße
+- TOP 6.2.1.: Bauvorhaben Theresienhöhe 13
+- TOP 6.2.2.: Bauvorhaben Gollierstr. 34
+- TOP 6.2.3.: Bauvorhaben Ligsalzstr. 30
+- TOP 6.2.4.: Bauvorhaben Guldeinstr. 32a
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Realisierung Schulneubau MK2
+- TOP 7.2.2.: (U) Realisierung eines Schul-Neubaus auf dem Gelände MK2 Theresienhöhe Süd Empfehlung Nr. 14-20 / E 02060 der Bürger- versammlung des Stadtbezirkes 08 – Schwanthalerhöhe am 19.06.2018
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Kita Kazmairstraße 89
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Baumveränderungen Bergmannstraße/Kazmaierstraße
+- TOP 8.2.2.: Baumveränderungen Garmischer Straße/Ridlerstraße
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Entfernung von Gefahrenbäumen im öffentlichen Raum - Grundschule Guldeinstraße
+- TOP 8.3.2.: Fällung Gefahrenbaum Westendstraße
+- TOP 8.3.3.: Fällung von Gefahrenbäumen im öffentlichen Raum; Feuerwache 3, Heimeranstr. 10
+- TOP 8.3.4.: Gefährdung für Fußgänger- und Radverkehr an verschiedenen Baustellen
+- TOP 8.3.5.: Einrichtung eines ampelgesicherten Fußgängerüberwegs über die Landsberger Str. auf Höhe Bermannstr. / Philipp-Loewenfeld-Straße
+- TOP 8.3.6.: P+R Park & Ride GmbH; Sanierung der P+R-Tiefgarage Heimeranplatz nach Bauwerkprüfung 2016; Sitzungsvorlage Nr. 14-20 / V 13042
+- TOP 8.3.7.: (E) Begrenzungspoller an der Stirnseite der Parkplätze in der Schnaderböckstraße Empfehlung Nr. 14-20 / E 02051 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Strandkorb. Laden für neue Perspektiven Konzert und Lesung "Vollmondspecial" am 16.07.2019 480,00€; Az.: 0262.0-8-0169
+- TOP 9.1.2.: (E) Stadtbezirksbudget Schülerladen Westend e.V. Anschaffung einer Steuerung der Heizkörper mit elektr. Thermostatköpfen und Zeitschaltung 1.864,73 € AZ: 0262.0-8-0171
+- TOP 9.1.3.: (E) Stadtbezirksbudget Eltern-Kind-Initiative Kindergarten Pusteblume e.V. Einrichtung einer Leseecke und Erneuerung der Beleuchtung 4.538,00 Euro, AZ: 0262.0-8-0170
+- TOP 9.1.4.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Bergmannstraße 36 Klimaküche vom 29.04.2019 - 28.06.2019 945,00 € AZ: 0262.0-8-0167
+- TOP 9.1.5.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Bergmannstraße 36 Projekt "Startklar - Fit für Bus und Bahn" vom 01.07. - 19.07.2019 2.175,00 € / Az. 0262.0-8-0168
+- TOP 9.1.6.: (E) Stadtbezirksbudget Förderverein der Grunschule an der Bergmannstraße 36 Einführung von Tablet-Klassen 10.016,91 € AZ: 0262.0-8-0166
+- TOP 9.1.7.: (E) Stadtbezirksbudget Westendzeltlager Westendzeltlager vom 29.07.2019 - 04.08.2019 3.572,69 € AZ: 0262.0-8-0172
+- TOP 9.1.8.: (E) Stadtbezirksbudget Helferkreis Flüchtlingsunterkünfte Hans-Thonauer-Str. und Elsenheimerstr. Jahresprogramm 2019 vom 01.02.2019 – 31.12.2019 1.500,00 € AZ: 0262.0-8-0173
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Stadtbezirksbudget auf muenchen.de
+- TOP 10.1.: Schäfflertanz am 28.02.19 um 12:00 Uhr am Georg-Freundorfer-Platz; Bereitstellung von Eigenmitteln, 654,50 Euro
+- TOP 10.2.: Resolution: Solidarität für Adnan Sütcü und dem Verein zur Förderung ethnischer Minderheiten e.V.
+- TOP 11.1.: Wahl des Kulturreferenten - Stellungnahme BA 01
