@@ -1,0 +1,8 @@
+# TOP 7: Herstellung Ehrenmedaille für Jahresempfang
+
+- Sitzung: 56. Sitzung des Ortschaftsrates Langebrück (2019-01-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/111377
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/35552
