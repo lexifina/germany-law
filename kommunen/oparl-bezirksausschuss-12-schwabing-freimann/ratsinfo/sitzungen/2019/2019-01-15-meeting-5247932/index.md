@@ -1,0 +1,136 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2019-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5247932
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5247932
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 10.1.: Plan B für die Gartentram, Vorstellung durch die Architekten Hermann Grub und Petra Grub-Lejeune
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.2.: -entfällt-
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 4.2.: Mitberatung des TOP C.4.5
+- TOP A: Allgemeines
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Neugestaltung des Kaiserplatzes
+- TOP 1.2.: Außenfläche des Blumenhändlers im Forum Münchner Freiheit auf 3m² begrenzen
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Neubau Germaniastraße 23+25 / Potsdamer Straße 14-18 Empfehlung Nr. 14-20 / E 02130 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 12.07.2018
+- TOP 2.2.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 57
+- TOP 2.3.: Antrag für eine Flächenanpassung ambulanter Handel, Hohenzollernstraße 2 Seite Leopoldstraße
+- TOP 2.4.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 23, gegenüber Drogeriemarkt
+- TOP 2.5.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 51
+- TOP 2.6.: Antrag für eine Flächenanpassung bzw. Flächenerweiterung ambulanter Handel, Leopoldstraße 59
+- TOP 2.7.: Antrag auf Genehmigung einer Freischankfläche, Franz-Joseph-Straße 21
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Brettener Straße 23, Neubau einer Doppelhaushälfte
+- TOP 3.1.2.: Bauernfeindstraße 5-17, Sanierung und Erweiterung einer Altenwohnanlage, Neuabu eines Gebäudes zur Altenpflege mit Gemeinschaftseinrichtungen für Senioren, Verwaltung und Tiefgarage, sowie eines Gebäudes mit Personalwohnungen und Altenpflegeeinrichtung, VORBESCHEID
+- TOP 3.1.3.: Heinrich-Geißler-Straße, 1 Esche
+- TOP 3.1.4.: Schlößlanger 18, Neubau eines Wohnhauses (3WE) mit Carport und Doppelparkergarage
+- TOP 3.1.5.: Heidemannstraße, Schulbauoffensive – Bayernkaserne Süd: Neubau einer 6-zügigen Grundschule, eines 6-zügigen Gymnasiums mit Sporthallen, Schwimmbad und Freisportflächen sowie eines Hauses für Kinder 3 Krippen- und 3 Kindergartengruppen) mit Tiefgarage
+- TOP 3.2.1.: Johann-Fichte-Straße 11, Änderung der Denkmalliste, hier: Nachtrag eines Wohnhochhauses in die Denkmalliste
+- TOP 3.2.3.: Brettener Straße 23, Neubau einer Doppelhaushälfte
+- TOP 3.2.4.: Marktstraße 18, Nutzungsänderung: Lagerraum zu Wohnung
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Neueinstufung im Mietspiegel entlang der Leopoldstraße, BV-Empfehlung Nr. 02128 vom 12.07.2017, Sitzungsvorlage Nr. 14-20 / V 12683
+- TOP 5.1.2.: (E) Neueinstufung im Mietspiegel entlang der Leopoldstraße Empfehlung Nr 14-20 / E 02128 ....
+- TOP 5.2.1.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 5.2.2.: Harrsifeldweg 10
+- TOP 5.2.3.: Grasmeierstraße 7-25
+- TOP 5.3.1.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 5.3.2.: (U) Bebauungsplan mit Grünordnung Nr. 1943 b Frankfurter Ring (südlich), A 9 Berlin-München (westlich) und Domagkstraße (nördlich) Bauhausplatz im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Kostenobergrenze): 4.900.000 € 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Anmeldung zum Mehrjahresinvestitionsprogramm 2018 – 2022
+- TOP 5.3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.: (U) Bebauungsplan mit Grünordnung Nr. 1989+ - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Parksituation in der Osterwaldstraße (Initiative: Prof. Dr. Dieter Brochmeyer, Dr. Horst Engler-Hamm)
+- TOP 1.2.: Wertstoffinseln
+- TOP 1.3.: Parkraummanagement Altschwabing Nr. 2
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Eindeutige Markierung aller – die Hauptstraße kreuzenden - Fahrradwege
+- TOP 2.2.: (E) Verhinderung von gesundheitsschädlichem Lärm durch die Glasentsorgung
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Verlegung der Kurzparkzone in der Otl-Aicher-Straße
+- TOP 3.1.2.: Tempo 30 vor Kindergärten; 1. Ungererstraße 17, 2. Potsdamer Straße Dietlindenstraße, 3. Freisinger Landstraße 28
+- TOP 3.1.3.: Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen in der Freisinger Landstraße
+- TOP 3.1.4.: Leopoldstraße, Zeichen 209 (vorgeschriebene Fahrtrichtung rechts)
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: Maßnahmen zur Verbesserung der Verkehrssituation in der Parkstadt Schwabing, Antrag Nr. 14-20 / A 02857 und Empfehlung Nr. 14-20 / E 01076
+- TOP 3.2.2.: Haltverbot Heidemannstraße 7/9
+- TOP 3.2.3.: Haltverbot Frankfurter Ring – Zufahrt zur Park&Ride-Anlage Studentenstadt
+- TOP 3.2.4.: Haltverbot Berliner Straße 85
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Wohnwagen Dauerabstellplätze am Josef-Wirth-Weg
+- TOP 4.2.: Überhöhte Geschwindigkeit in der Isoldenstraße
+- TOP 4.3.: Gefahrwasser Peter-Paul-Althaus-Straße / Gehweg zur U-Bahn
+- TOP 4.4.: Verkehrssituation Domagkpark
+- TOP 4.5.: Schulweghelfer in der Heidemannstraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Barrierefreie Wertstoffcontainer in jedem Stadtbezirk
+- TOP 5.1.2.: Erneuerung des Rasens an der westlichen Leopoldstraße zwischen Franz-Joseph-Straße und Georgenstraße
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Arbeiten im Sraßenraum, Freisinger Landstraße zwischen Lottlisa-Behling-Weg und Stadtgrenze, Asphaltierungs-/ Schutzplankenarbeiten / Brückenbau
+- TOP 5.2.2.: Parkraummanagement, Domagkpark – Gertrud-Grunow-Straße
+- TOP 5.2.3.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Leopoldstraße 17
+- TOP 5.2.4.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen in der Domagkstraße, Gefahrenzeichenbeschilderung in der Ungererstraße
+- TOP 5.2.5.: Aufhebung der Anfahrtszone Fröttmaniger Straße
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 5.3.2.: Dialog-Displays im 12. Stadtbezirk
+- TOP 5.3.3.: (U) Urbane Seilbahn Frankfurter Ring Beauftragung einer Machbarkeitsstudie
+- TOP 5.3.4.: Vollzug der Grünanlagensatzung, Baustelleineinrichtung im Leopoldpark
+- TOP 5.3.5.: Vorhaben des Corso Leopold 2019, hier: Entfernung der Schutzplanken in der Ungererstraße, Antwortschreiben des Referats auf ein Schreiben des BA
+- TOP 5.3.6.: Vollzug der Grünanlagensatzung, Baustelleneinrichtung am Kaiserplatz 1
+- TOP 5.3.7.: Parkraummanagement in München, Umsetzung Sektor V, Sitzungsvorlage Nr. 14-20 / V 12345
+- TOP 5.3.8.: Ausnahmegenehmigung zur Aufstellung von schwer verrückbaren Gegenständen auf öffentlichem Verkehrsgrund und verkehrsrechtliche Anordnung zur Einrichtung einer Arbeitsstelle sowie zur Verkehrsführung, Siegfriedstraße 22, Karl-Theodor-Straße9 und Seite Strurystraße vom 07.01.2019 bis 06.01.2020
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Neue (barrierefreie) Wahllokale für Schwabing finden
+- TOP 1.2.: Wahllokal in der Antonienstraße ersetzen
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Wohnbaugenossenschaft wagnis eG Schallisolierung eines Musikraumes 32.645,57 Euro, Az.: 0262.0-12-0289
+- TOP 2.2.: (E) Stadtbezirksbudget Domagkateliers gemeinnützige GmbH Künstlersonntage im Jahr 2019 und Atelieröffnungen vom 20.01.2019 bis 15.12.2019 3.639,00 € AZ: 0262.0-12-0291
+- TOP 2.3.: (E) Stadtbezirksbudget Verein der Griechen aus Pontos in München e.V. Volkstrachten Ausstellung vom 09.02.19 - 22.02.19 2.409,75 € AZ: 0262.0-12-0294
+- TOP 2.4.: (E) Stadtbezirksbudget Elternbeirat Maximiliansgymnasium Musik- und Tanzprojekt vom 30.03.2019 - 31.03.2019 2.270,00 € AZ: 0262.0-12-0297
+- TOP 2.5.: (E) Stadtbezirksbudget Mohr-Villa Freimann e.V. Konzert-Reihe vom 10.02. - 12.05.2019 1.350,00 € AZ: 0262.0-12-0296
+- TOP 3.: Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Lärm - Schmutz - Vermüllung - Belastung für die Freimanner-Bürger durch den Wannda-Zirkus
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Leopoldstraße 76
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Standortverlagerung des Alten- und Service- Zentrums (ASZ) Freimann in das Neubaugebiet Bayernkaserne 12 Stadtbezirk - Schwabing-Freimann
+- TOP 5.3.2.: Verwendungsnachweise über gewährte Zuschüsse aus dem Stadtbezirksbudget
+- TOP 5.3.3.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 5.3.4.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 5.3.5.: Dienststellenverständigung, Sportanlage Osterwaldstraße 144
+- TOP 5.3.6.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
