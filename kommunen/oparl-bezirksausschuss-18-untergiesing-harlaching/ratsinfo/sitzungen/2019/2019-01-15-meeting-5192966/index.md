@@ -1,0 +1,149 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2019-01-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5192966
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5192966
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.1.: Bericht zum Ortstermin Tegernseer Platz (Umgestaltung / Abbau von Parkplätzen vor der Post - vertagt aus der Sitzung vom 20.11.18 und 18.12.18)
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Ludmillastraße 9, Neubau eines Dreifamilienhauses mit Appartement; Anhörung vom 13.12.18
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 1.1.1.: (E) Messung und Untersuchung der Hausbrandabgase im Bereich der Gabriel-Max-Straße; Einrichtung einer Meldemöglichkeit Empfehlung Nr. 14-20 / E 01868 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 16.11.2017
+- TOP 2.1.2.1.: Umbau Schönstraße, hier: Rückbau Bushalt Lebschéestraße; Bürgeranliegen
+- TOP 2.1.2.2.: Beschwerde Sperrung Parkplätze für Fußballfans 60er-Stadion; Bürgerschreiben vom 22.12.18
+- TOP 3.1.6.1.: Sachberichte zu bezuschussten Maßnahmen 3.1.6.1.1 10-Jahresfeier der Hauswirtschafts- u. Betreuungsbörse Giesing-Harlaching / Marktplatz für Seniorinnen u. Senioren; Kurzbericht des ASZ Untergiesing-Harlaching
+- TOP 3.1.6.2.: Verwendungsnachweise 3.1.6.2.1 Spiellandschaft Stadt 3.1.6.2.2 Bayerisches Rotes Kreuz
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.3: Anträge
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Funktion "Dauerkneeling" bei allen MVG-Bussen; BA-Antrag Nr. 14-20 / B 05179 vom 17.07.18; Antwortschreiben des RAW vom 05.12.18
+- TOP 3.2.5.2.: Erneuerung des Straßenbelages im Zuge von Vintschgauer Straße, Karneidplatz und Südtiroler Straße; BA-Antrag Nr. 14-20 / B 05397 vom 16.10.18; Antwortschreiben des Baureferats-Tiefbau vom 05.12.18
+- TOP 3.2.5.3.: Barrierefreiheit herstellen und weniger Scharfkantige Randsteine in der Säbener Straße; Anfrage Nr. 14-20 / Q 00606 aus der Bürgerversammlung vom 15.11.18; Antwortschreiben des Baureferats-TZ vom 11.12.18
+- TOP 3.2.5.4.: Regengeschützte Fahrradabstellräume am Tiroler Platz; BA-Antrag Nr. 14-20 / B 05180 vom 17.07.18; Antwortschreiben des Baureferats-Tiefbau vom 13.12.18
+- TOP 3.2.5.5.: Verbesserung der Verkehrssicherheit an der Einmündung Münchner Kindl-Weg; BA-Antrag Nr. 14-20 / B 05521 vom 20.11.18; Antwortschreiben des KVR vom 17.12.18
+- TOP 3.2.5.6.: Fußgängerüberweg Gerhardstraße / Hans-Mielich-Platz; Bürgeranliegen, E-Mail vom 05.06.18; Antwortschreiben des KVR vom 10.12.2018 zu den gewünschten Geschwindigkeitskontrollen
+- TOP 3.2.5.7.: Querungshilfe über die Naupliastraße / Seybothstraße auf Höhe Laurinplatz; BA-Antrag Nr. 14-20 / B 05519 vom 20.11.18; Antwortschreiben des KVR vom 19.12.18
+- TOP 3.2.5.8.: Gehbahnparker in der Hans-Mielich-Straße; BA-Antrag Nr. 14-20 / b 05371 vom 17.10.18; Antwortschreiben des KVR vom 14.12.18
+- TOP 3.2.5.9.: Erweiterungsausbau der P+R-Tiefgarage Mangfallplatz unter dem Vollmarpark; BA-Antrag Nr. 14-20 / B 04505 vom 23.01.18; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 16.10.18 (vertagt aus der Sitzung vom 20.11. und 18.12.)
+- TOP 3.2.5.10.: Park-and-Ride-Anlage unter dem Wettersteinplatz; BV-Empfehlung Nr. 14-20 / E 02334; Zwischennachricht des Planungsreferates vom 20.12.18
+- TOP 3.2.5.11.: Verkehrslage am Parkplatz Tierpark Hellabrunn mit Blockierung der Straße zum Tiroler Platz; BA-Antrag Nr. 14-20 / B 05527; Antwortschreiben des KVR vom 21.12.18
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.6.1.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes a) Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes b) Behandlung von Anträgen Sitzungsvorlagen Nr. 14-20 / V 08684; Beschluss der Vollversammlung des Stadtrates vom 19.12.18
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Bepflanzung der Kühbachstraße; BA-Antrag Nr. 14-20 / B 05318 vom 18.09.18; Antwortschreiben des Baureferats-Gartenbau vom 04.12.18
+- TOP 3.3.5.2.: Maßnahmen gegen Verschmutzungen durch Zigarettenkippen; BA-Antrag Nr. 14-20 / B 04931 vom 15.05.18; Antwortschreiben des Baureferats-Tiefbau vom 05.12.18
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: Unterrichtung des Baureferats-Gartenbau vom 04.12.18 über bevorstehende Entfernungen von Gefahrenbäumen in den Isarauen / Isarhang
+- TOP 3.3.6.2.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken; Unterrichtung des Baureferats-Gartenbau über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 3.3.6.3.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.3.1 Anwesen Quagliostraße; Unterrichtung vom 11.12.18
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.3: Anträge
+- TOP 3.4.3.1.: Plastikproblematik - Veranstaltungen an Grundschulen im 11. Stadtbezirk; Antrag des BA 11 Milbertshofen - Am Hart mit der Bitte um Unterstützung
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Parkbank an der ehem. Bushaltestelle Linie 58 am Kolumbusplatz; BA-Antrag Nr. 14-20 / B 05320 vom 18.09.18; Antwortschreiben des Baureferats-Gartenbau vom 05.12.18
+- TOP 3.4.5.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.5.3.: „Feierabend-Ticket“ im Schyrenbad; BA-Antrag Nr. 14-20 / B 05372 vom 17.10.18; Antwortschreiben des RAW vom 11.12.18
+- TOP 3.4.5.4.: Unterstützung der Online-Petition für frühere Öffnungszeiten im Schyrenbad; BA-Antrag Nr. 14-20 / B 05392 vom 16.10.18; Antwortschreiben des RAW vom 20.12.18
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Brauerei in der Tegernseer Landstraße 337; Änderung des bisherigen Flächennutzungsplanes; Anhörung zum Entwurf der Beschlussvorlage des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme bis 31.01.2019
+- TOP 3.5.4.1.2.: Bruckenfischerstraße 16, Neubau eines Doppelhauses mit Garagen; Anhörung vom 17.12.18
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.5.1.: Dank für den Erhalt der Ensemblegeschützten Siedlung Neuharlaching; BA-Antrag Nr. 14-20 / B 05400 vom 16.10.18; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 11.12.18
+- TOP 3.5.5.2.: (E) Gewährleistung der Wohngesundheit und Qualität in GEWOFAG- und HEIMAG-Wohnungen Schimmel und Schäden (Ziffern 1,2,3,4,7,14,17 und 20 des Antrags) Empfehlung Nr. 14-20/ E 01845 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching am 16.11.2017; Sitzungsvorlage Nr. 14-20 / V 11536; abweichender Beschluss des BA 18 vom 19.06.18; Entscheidung des Oberbürgermeisters vom 20.12.18
+- TOP 3.5.5.3.: Ausbau und Erweiterung des Grünwalder Stadion; BV-Anfrage Nr. 14-20 / Q 00604; Antwortschreiben des RBS vom 17.12.18
+- TOP 3.5.5.4.: Rahmenplanung Gartenstädte - Erhalt des Charakters und bauliche Entwicklung; Sitzungsvorlage Nr. 14-20 / V 12716; Stellungnahme des BA 18 zur Vorlage; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 19.12.18 mit der Bitte um Freigabe
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 3.5.6.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Abbey Road", Grünwalder Str. 71; Mitteilung vom 10.12.18
+- TOP 3.5.6.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Söltlstraße; Unterrichtung vom 11.12.18
+- TOP 3.5.6.4.: Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.5.: Stellungnahme zum Positionspapier der Koordinierungsgruppe Giesing (KGG); Schreiben REGSAM vom 19.12.18
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.5.1.: Wiederaufbau der Fahnenmasten in der Westkurve des Stadions an der Grünwalder Straße; BA-Antrag Nr. 14-20 / B 05184 vom 17.07.18; Antwortschreiben des RBS vom 13.12.18
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.6.1.: Hans-Mielich-Platz, stadtteilkulturelle Plattform (temp. Kunst im öffentlichen Raum), "Giesing wie&#039;s die Münchner nicht für möglich halten" vom 17.01.19 - 20.04.19; Unterrichtung des KVR
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.1.: Stellungnahme des Bezirksausschusses Altstadt-Lehel zur Wahl des Kulturreferenten der Landeshauptstadt München
