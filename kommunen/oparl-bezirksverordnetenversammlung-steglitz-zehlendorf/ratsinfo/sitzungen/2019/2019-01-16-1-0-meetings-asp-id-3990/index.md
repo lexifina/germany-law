@@ -1,0 +1,100 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-01-16T17:00:00+01:00
+- Ende: 2019-01-16T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3990
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=3990
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: „Clean Berlin - Steglitz-Zehlendorf“ – ernstzunehmende Maßnahme? - beantwortet
+- TOP 3.2: Spielplätze mit Wasserspiel-Angebot und pädagogisch betreute Spielplätze im Bezirk - beantwortet
+- TOP 3.3: Warum gibt es in Steglitz-Zehlendorf noch keine MieterInnenberatung? - beantwortet
+- TOP 3.4: Erhalt des Schulstandorts Osteweg - beantwortet
+- TOP 3.5: Neubesetzung der Leitungsstelle in der Musikschule / Herausforderungen der Musikschule - schriftlich beantwortet
+- TOP 3.6: FC Viktoria 1889 Berlin: Profimannschaft ist ausgegliedert und pleite - wie geht es mit dem Verein weiter? - schriftlich beantwortet
+- TOP 3.7: Rodung von Hecken - schriftlich beantwortet
+- TOP 3.8: Die Leitung der Musikschule wird neu ausgeschrieben und keiner soll es mitbekommen? - schriftlich beantwortet
+- TOP 3.9: Planung zum Objekt Schmarjestraße - schriftlich beantwortet
+- TOP 3.10: Höhe der Aufwendungen für Rundfunkbeitrag - schriftlich beantwortet
+- TOP 3.11: Ermessensentscheidungen bei Einbürgerungen - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung einer Bürgerdeputierten im Gesundheitsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines Bürgerdeputierten im Gesundheitsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Pflege, Soziales und Senioren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl eines Bürgerdeputierten im Ausschuss für Schule, Bildung und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Kurzzeitparken vor der Postfiliale im Hindenburgdamm 99 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: „Berlkönig“ auch im Außenbezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Akzeptanz von Kreditkarten im Bürgeramt - in der BVV abgelehnt
+- TOP 4.8: Radstreifen auf der Birkbuschstraße - in der BVV abgelehnt
+- TOP 4.9: Zebrastreifen über die Finckensteinallee hinweg an der Kreuzung Baseler Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Bedarfsampel Filandastraße/Auffahrt Tiburtiusbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Teltower Damm/Kirchstraße - Zusatzschild vor LSA - in der BVV abgelehnt
+- TOP 4.12: Stadtpark Steglitz II: Außenmauern am Restaurantteich, Fontänenteich und Rosengarten reparieren, Rosengarten entschlammen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Ampelschaltung optimieren, Fußgänger*innen am Hindenburgdamm nicht ausbremsen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Gehbehinderte Menschen und Menschen im Rollstuhl würden auch gerne den Uferweg am Teltowkanal nutzen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Rückübertragung von Liegenschaften ermöglichen - in der BVV abgelehnt
+- TOP 4.16: Zusätzliche Fahrradampel Teltower Damm/Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Uferwanderweg von der Glienicker Brücke nach Wannsee mit Sichtachsen versehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Bau einer Turnhalle am Osteweg 63 und Sicherung des Schulstandortes Osteweg 53 für die Planung im Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Schulplanung am Osteweg jetzt beginnen! - in der BVV abgelehnt
+- TOP 4.20: Grundstücke Osteweg 53 und 63 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Temperaturvorgaben in öffentlichen Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: Klarheit über Bewirtschaftung des Haushalts - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Grünpflege-Patenschaften bekannter machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Radfahrverbindung zwischen Wannsee (S-Bahnhof, Kronprinzessinnenweg) und Zehlendorf Mitte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Touristische Nutzung des Fernmeldeturms Schäferberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Mobilitätshub – nicht vor dem Rathaus Zehlendorf - in der BVV abgelehnt
+- TOP 4.27: Neubau ohne Schwerlastverkehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Neue Sitzbank in Wannsee am Königsweg/Ecke Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Ausschilderung des Bezirks und der Ortsteile - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Eine öffentliche Toilette für Lichterfelde-West - überwiesen
+- TOP 5.2: Entsiegeln am Dahlemer Weg - überwiesen
+- TOP 5.3: Verkehrssicherung - Bushaltestelle Jägerstraße - überwiesen
+- TOP 5.4: Neue Buslinie für Zehlendorf: Sachtlebenstraße-Grundschule am Buschgraben-Museumsdorf Düppel-Mexikoplatz-Schlachtensee/Krumme Lanke - überwiesen
+- TOP 5.5: Neue Sportart für Jedermann - Discgolf im Bäkepark - überwiesen
+- TOP 5.6: Endlich Platzbenennung nach Richard Draemert möglich! - überwiesen
+- TOP 5.7: Kriterien für die Weiterentwicklung des Dahlemer Wegs - überwiesen
+- TOP 5.8: Mobilitätshub am Rathaus: Standort Kirchstraße südliche Zehlendorfer Aue - überwiesen
+- TOP 5.9: Wolfensteindamm: LSA sicher schalten und Rotlichthalt überwachen - überwiesen
+- TOP 5.10: Otto Eduard Weddigen (1882-1915): Kriegsheld, -verbrecher oder -opfer? - überwiesen
+- TOP 5.11: „Schwarzer Weg" in Lankwitz in Ordnung bringen! - überwiesen
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Umfrage Spielplatzwünsche Steglitz-Zehlendorf - überwiesen
+- TOP 5.14: Instandsetzung der sechs Holzbänke ohne Lehne auf dem Ludwig-Beck-Platz - überwiesen
+- TOP 5.15: Leitlinien der bezirklichen Bürgerbeteiligung - überwiesen
+- TOP 5.16: Fahrradparkhäuser statt Steuergeldverschwendung – intelligente Radverkehrsförderung im Bezirk - überwiesen
+- TOP 5.17: Kennzeichnung des Übergangs in der Breisgauer Straße - überwiesen
+- TOP 5.18: „Mäusebunker“ erhalten – Tourismus, Neunutzung und Denkmalschutz im Blick behalten - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - (offen)
+- TOP 6.1: Große Anfragen - (offen)
+- TOP 6.1.1: Diesel-Fahrverbote in Steglitz-Zehlendorf - Leonorenstraße - beantwortet
+- TOP 6.2: Anträge - (offen)
+- TOP 6.2.1: Leerstehende MUF für Menschen ohne Obdach öffnen – jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.3.1: Cannabiskonsum unter Jugendlichen - in der BVV abgelehnt
+- TOP 6.3.2: Mobilitätshub - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: MUFs im Bezirk: falsche Bedarfseinschätzung, Fehlplanung, Leerstand - beantwortet
+- TOP 7.2: "Pilotprojekt" Radfahrstreifen Dahlemer Weg - vertagt
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Flüchtlingsunterkunft: Platz des 4. Juli als Ersatzstandort für Schulstand Osteweg - vertagt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Radfahrstreifen auf der Potsdamer Chaussee zwischen Kronprinzessinnenweg und Forst- bzw. Fürstenstraße - vertagt
+- TOP 9.2: Urwald rund um das Geisterhaus Gardeschützenweg 3 auf Kosten des Eigentümers eindämmen - vertagt
+- TOP 9.3: Leo-Baeck-Straße – Tempo 30 sichtbar machen - vertagt
+- TOP 9.4: Sichere Radwegführung auf der Leo-Baeck-Straße - vertagt
+- TOP 9.5: Aktive Suche nach Mitarbeitern im Bezirksamt vorantreiben! - vertagt
+- TOP 9.6: Bei der Personalakquise auch Quereinsteiger berücksichtigen - vertagt
+- TOP 9.7: Aufwandsentschädigung für die Arbeit der Seniorenvertretung Steglitz-Zehlendorf - vertagt
+- TOP 9.8: Sicheres Abstellen von Rädern am S-Bahnhof Lichterfelde Ost - vertagt
+- TOP 9.9: Videoüberwachung Kulturhaus Schwartzsche Villa - vertagt
