@@ -1,0 +1,71 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-01-16T17:00:00+01:00
+- Ende: 2019-01-16T22:30:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5421
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5421
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=321696
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gem. § 24 ABs. 1 Buchstabe c BezVG i.V.m. § 69 Abs. 1 (3) GO BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - vertagt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Eckenparken verhindern: Fahrradbügel auf der Fahrbahn an Einmündungen - vertagt
+- TOP 6.2: Großen Saal im Gemeinschaftshaus Lichtenrade nach Wolfgang Krueger benennen - überwiesen
+- TOP 6.3: Verwahrlosung am S-Bahnhof Tempelhof - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: BVV Tempelhof–Schöneberg will endlich familienfreundliche Arbeitsstrukturen - überwiesen
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Geplatzte Übergabe der Jugendeinrichtung „Potse“ - beantwortet
+- TOP 8.2: Ändert die Verwaltungsreform das Machtgefüge innerhalb des Bezirksamts? - beantwortet
+- TOP 8.3: Potse und kein Ende 2019 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Aufstellung des Entwurfs der Investitionsplanung 2019 bis 2023 - überwiesen
+- TOP 9.2: über die Schaffung eines integrierten Bildungs- und Kulturstandortes (Volkshochschule, Musikschule, Kinder- und Jugendmuseum „Experimentarium“, Stadtbibliothek) unter einem Dach im Ortsteil Lichtenrade – Anmietung von Teilflächen des Gebäudes „Alte Mälzerei“ - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Anhebung der Schachtabdeckungen in der Marienfelder Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Denkmalschutz ernst nehmen: Die Yorckbrücken bleiben alle! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Sicherheit verbessern, Böllerverbotszone testen - überwiesen
+- TOP 10.4: Influenzaimpfungen für Mitarbeiter des Bezirksamtes - überwiesen
+- TOP 10.5: Erleichterung für die Bürger_innen durch sinnvolle Verwaltungsreform - überwiesen
+- TOP 10.6: Eltern-Kind-Zimmer im Rathaus - überwiesen
+- TOP 10.7: fLotte kommunal: Freie Lastenfahrräder im Bezirk ermöglichen - überwiesen
+- TOP 10.8: BVV Tempelhof-Schöneberg will endlich familienfreundliche Arbeitsstrukturen II - überwiesen
+- TOP 10.9: Was macht der Regionalbahnhalt am Bahnhof Buckower Chaussee? - überwiesen
+- TOP 10.10: Verwendung und Verbreitung der Broschüre „Ene, mene, muh – und raus bist du!“ der Amadeu-Antonio-Stiftung in staatlichen Kitas untersagen - überwiesen
+- TOP 10.11: Schutz vor Böllerei im Bezirk - überwiesen
+- TOP 10.12: Schilder am Annedore-Leber-Park erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Kampagne zur Entsorgung von Medikamenten - überwiesen
+- TOP 10.14: Milieuschutzbeirat in Tempelhof-Schöneberg bilden - überwiesen
+- TOP 10.15: Benennung des „westlichen Flaschenhalsparks“ nach der Partnergemeinde Mezitli - überwiesen
+- TOP 10.16: BerlKönig auch in den Stadtrand von Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.17: Benennung von Privatstraßen und -plätzen - überwiesen
+- TOP 10.18: Dog Stations erhalten - überwiesen
+- TOP 10.19: Lebensmittel-Nahversorgung am Bayerischen Platz sichern - überwiesen
+- TOP 10.20: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Falls Dringlichkeit festgestellt - Verkehrssicherheit auf der Wiesbadener Straße herstellen – Tempo 30 auf dem Schulweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Qualifizierte Überleitung der Regelstrukturen des Quartiersmanagementgebietes „Schöneberger Norden“ (Wohnen am Kleistpark) gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Pfadfinder bleiben im Gutshof – für ehrenamtliche Jugendarbeit in Tempelhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Nollendorfplatz / Umbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Mariendorfer Damm 224-290 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Schwimmbad in der Klosteranlage „Vom Guten Hirten“ unterstützen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Den demografischen Wandel in Tempelhof-Schöneberg gestalten – Handlungskonzept erarbeiten Bezirksprofil 2018 Teil I (Beschreibung und Analyse) - überwiesen
+- TOP 13.3: Bezirklichen Wohnungsmarktbericht fortschreiben, Wohnungsbaupotenziale aktualisieren - überwiesen
+- TOP 13.4: Stelle für Stolpersteinkoordinierung endlich besetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Behindertengerechtes WC im 1. OG des Rathauses Schöneberg schnellstmöglich herstellen - überwiesen
+- TOP 13.6: Marode Brunnen sanieren Trockenzeit beenden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Tag der älteren Generation öffentlich begehen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - überwiesen
