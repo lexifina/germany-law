@@ -1,0 +1,221 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2019-01-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5234684
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5234684
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokolle
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.6: Sonstige
+- TOP 3: Anträge
+- TOP 3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.5.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.4.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.4.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.2.1.: Dienstag, 22.01.2019, 19:30 Uhr, Nebenraum im Bräustüberl der Perlacher Forschungsbrauerei, Unterhachinger Str. 78, 81737 München
+- TOP 8.1.3.1.: Dienstag, 29.01.2019, 18:00 Uhr, Ort wird noch bekannt gegeben
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: zu 2.2.1.3 (E) Stadtbezirksbudget Vineyard München e.V. Anschaffung von drei PCs und einem Laptop 3.060,00€; Az.: 0262.0-16-0260 (TOP 2.2.1.5 vom 13.12.2018) Sitzungsvorlage Nr. 14-20 / V 13482 Aktualisiertes Angebot entsprechend des Wunsches aus dem UA Budget, Kultur und Sport am 18.12.2018 – Summe des neuen Angebots: 4.478,28 € zu 3.1.5 Gefährdungen und mangelhafte Räumung durch Gehwegparken in der Rupertigaustr. und Moschenfelder Str. Bürgeranliegen vom 08.01.2019 Weiterleitung an das Baureferat zur Bearbeitung aufgrund der Eilbedürftigkeit zu 3.1.11 Mangelhafter Winterdienst auf dem Gehweg an der Quiddestraße (Nordseite) zwischen Staudingerstraße und Fußgängerbrücke Antrag der CSU-Fraktion im BA 16 vom 08.01.2019 Weiterleitung an das Baureferat zur Bearbeitung aufgrund der Eilbedürftigkeit 3.1.14 Optimierung des Aufgangs beim Schlittenberg im Gefilde und Sicherung des Schlittenbergs im Gefilde Weiterleitung an das Baureferat zur Bearbeitung aufgrund der Eilbedürftigkeit der Sicherung des Schlittenbergs. Bürgeranliegen vom 10.01.2019 4.1.3 verkehrsrechtliche Anordnung nach § 45 StVO: Beschränkung des Parkens auf PKW Albert-Schweitzer-Straße 59 Bitte um Stellungnahme bis 28.02.2019 Zuleitung vom 11.01.2019 7.1.8 Sicherung des Räumungsdienstes an den MVG eigenen Betriebsgebäuden Schreiben des BA-Vorsitzenden vom 09.01.2019 gemäß Absprache im BA-Vorstand
+- TOP 2.1: Mobilität und Umwelt
+- TOP 2.1.1.: (E) Erweiterung des bestehenden Haltverbots für Lkw in der Heinrich-Wieland-Straße in Höhe Bezirkssportanlage um weitere 50 Meter abends und an Wochenenden BV-Empfehlung Nr. 14-20 / E 01997 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf vom 17.05.2018; Sitzungsvorlage Nr. 14-20 / V 12545 Heinrich-Wieland-Str. 100, Fl.Nr. 1425/24, Gemarkung Perlach Bitte um Information der Lokalbaukommission an das Baureferat, wann mit der Errichtung der Stellplätze gerechnet werden kann. BA-Antrag Nr. 14-20 / B 04379; Zuleitung vom 03.12.2018 Schreiben des Baureferats an die LBK zu den geforderten KFZ-Stellplätzen vom 26.10.2018 (TOP 2.1.1 vom 13.12.2018, TOP 2.1.2 vom 18.10.2018, TOP 2.1.4 vom 13.09.2018)
+- TOP 2.1.2.: (E) Reduzierung der zulässigen Höchstgeschwindigkeit in der Chiemgaustraße zwischen Balan- und Rosenheimer Straße auf 50 km/h und Aufhebung der durchgezogenen Fahrbahnmittelmarkierung in Höhe Hohenaschauer Straße Stellungnahme und Vorschläge des Antragsstellers zur Beschlussvorlage vom 07.12.2018
+- TOP 2.1.3.: (E) Fahrradwegmarkierung auf der Fahrbahn unter der S-Bahnbrücke Werinherstraße
+- TOP 2.2: Budget, Kultur und Sport
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget Kulturkreis Ramersdorf-Perlach e.V. Anschaffung eines Lichtmischpultes 9.760,90€; Az.: 0262.0-16-0262 (TOP 2.2.1.2 vom 13.12.2018)
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget Trägerverein Pepper e.V. / Kulturbunt Neuperlach Winterfest HoodWood 19./20.01.2018 11.526,26€; Az.: 0262.0-16-0263 (TOP 2.2.1.3 vom 13.12.2018)
+- TOP 2.2.1.3.: (E) Stadtbezirksbudget Vineyard München e.V. Anschaffung von drei PCs und einem Laptop 3.060,00€; Az.: 0262.0-16-0260 (TOP 2.2.1.5 vom 13.12.2018)
+- TOP 2.2.1.4.: (E) Stadtbezirksbudget Münchner Bogensportverein e.V. Ausbau Bogensportgelände Februar - März 2019 6.709,90 € AZ: 0262.0-16-0261
+- TOP 2.2.1.5.: (E) Stadtbezirksbudget Kath. Pfarramt Christus Erlöser Oratorium am 17. und 24.11.2019 2.583,25 Euro / Az. 0262.0-16-0266
+- TOP 2.2.1.6.: (E) Stadbezirksbudget Condrobs e.V. Anschaffung von Lernspielen, Wörterbüchern, Sportkleidung und Sportschuhen 1.550,00 € AZ: 0262.0-16-0259
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.1: Mobilität und Umwelt
+- TOP 3.1.1.: Der BA 16 beantragt, die Verkehrssicherheit für Fußgänger*innen und Radfahrer*innen am Pfanzeltplatz zu erhöhen! Antrag der Bündnis 90/Die Grünen-Fraktion im BA 16 vom 29.11.2019 (TOP 3.1.2 vom 13.12.2018)
+- TOP 3.1.2.: Bitte um Verbesserung der Ampelschaltung an der Kreuzung Rosenheimer Str. / Anzinger Str. Bürgeranliegen vom 18.10.2018 (TOP 3.1.4 vom 13.12.2018)
+- TOP 3.1.3.: Verbesserung der Sicherheit im Kreuzungsbereich an der Ecke Wolframstraße/Wilhelm-Högner-Straße Bürgeranliegen vom 09.12.2018
+- TOP 3.1.4.: Kein Parken von Wohnmobilen oder Campingwagen vor Straßeneinmündungen und ähnlichen kritischen Stellen zur Verbesserung der Sicht und Sicherheit für Fußgänger Bürgeranliegen vom 09.12.2018
+- TOP 3.1.5.: Gefährdungen und mangelhafte Räumung durch Gehwegparken in der Rupertigaustr. und Moschenfelder Str. Bürgeranliegen vom 08.01.2019
+- TOP 3.1.6.: Renaturierung der ehemaligen Trambahntrasse Perlach Nord Antrag der CSU-Fraktion im BA 16 vom 06.01.2019
+- TOP 3.1.7.: Verkehrssituation Unterhachinger Straße / Hochäckerstraße / Ottobrunner Straße Antrag der CSU-Fraktion im BA 16 vom 06.01.2019
+- TOP 3.1.8.: Separate Abbiegersignalisierung vom Karl-Marx-Ring auf die Ständlerstraße (stadteinwärts) Antrag der CSU-Fraktion im BA 16 vom 06.01.2019
+- TOP 3.1.9.: 1. Geschwindigkeitsbegrenzung für die Strecke Ottobrunner Str. bis Kreuzung Kirchseeoner Str. bzw. Hechtseestr. auf 50 km/h 2. Reduzierung der Geschwindigkeit für die Chiemgaustr. zwischen Rosenheimer Str. und Balanstr. auf 50 km/h und Öffnung der durchgezogenen Doppellinie, sodass ein Abbiegen nach links in die Hohenaschauerstr. ermöglicht wird. 3. Umschalten der Fußgängerampel in der Langbürgener Str. auf grün spätestens zwei Minuten nach Betätigung. Bürgeranliegen vom 07.12.2018
+- TOP 3.1.10.: Anfrage um welche Bohrungen es sich in der Frauenchiemseestr. in Höhe des Grüngürtels handelt Bürgeranliegen vom 07.12.2018
+- TOP 3.1.11.: Mangelhafter Winterdienst auf dem Gehweg an der Quiddestraße (Nordseite) zwischen Staudingerstraße und Fußgängerbrücke Antrag der CSU-Fraktion im BA 16 vom 08.01.2019
+- TOP 3.1.12.: Verbesserung der Abbiegesituation an der Kreuzung Staudingerstraße/Adolf-Baeyer-Damm Antrag der CSU-Fraktion im BA 16 vom 08.01.2019
+- TOP 3.1.13.: Verkehrsprobleme Putzbrunner Straße Bürgeranliegen vom 13.12.2018
+- TOP 3.1.14.: Optimierung des Aufgangs beim Schlittenberg im Gefilde und Sicherung des Schlittenbergs im Gefilde Weiterleitung an das Baureferat zur Bearbeitung aufgrund der Eilbedürftigkeit der Sicherung des Schlittenbergs. Bürgeranliegen vom 10.01.2019
+- TOP 3.2: Budget, Kultur und Sport
+- TOP 3.2.1.: Reinigung der Figuren „Nur der Mensch ist der Ort der Bilder" an der Kreuzung Ständlerstraße/Heinrich-Wieland-Straße und Entfernung der wildgewachsenen Sträucher Antrag der SPD-Fraktion im BA 16 vom 07.01.2019
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 3.3.1.: Bürgerantrag: „Waldperlach gestalten“: Neue Wohnformen in Waldperlach auf städtischem Grundstück Bürgeranliegen vom 07.12.2018 (TOP 3.3.4 vom 13.12.2018)
+- TOP 3.3.2.: Konzept „zukunftsorientierter Bürgertreff in Waldperlach“ Bürgeranliegen vom 05.12.2018 (TOP 3.3.5 vom 13.12.2018)
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 3.5.1.: Versetzung der Wertstoffcontainer an der Ecke Wolframstraße/Wilhelm-Högner-Straße nach vorne und Errichtung eines durchgehenden Fußweges hinter den Containern Bürgeranliegen vom 09.12.2018
+- TOP 4.1: Mobilität und Umwelt
+- TOP 4.1.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Plettstraße Bitte um Stellungnahme bis zum 31.01.2019 Stellungnahme vorab durch den BA-Vorsitzenden gem. § 20 Abs. 1 Satz 2 der BA-Satzung Zuleitung vom 19.12.2018
+- TOP 4.1.2.: verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen: Quiddestr. 15 Zuleitung vom 17.12.2018
+- TOP 4.2: Budget, Kultur und Sport
+- TOP 4.2.1.: Zuwendung aus dem Stadtbezirksbudget Siedler- und Eigenheimervereinigung Waldperlach-Neubiberg e.V. Bürgerinnen und Bürger gestalten ihre Stadt „Waldperlach gestalten“ - Bürgerdialog zur Stadtteilentwicklung Waldperlachs Bitte um Verlängerung des Bewilligungszeitraums bis 31.03.2019 Zuleitung vom 11.12.2018
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 4.4.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1.: Alexisweg - Fl.Nr.: 1948/0 - Neubau einer Wohnanlage mit 103 Wohnungen, Gewerbeflächen und Tiefgarage (125 Stpl.) <<Alexisweg / Friedrich-Creuzer-Str.>> Zuleitung vom 20.11.2018; Fristverlängerung bis 24.01.2019 (TOP 4.4.1.10 vom 13.12.2018)
+- TOP 4.4.1.2.: St.-Martin-Str. 76 - Fl.Nr.: 15667/0 - Umbau und Erweiterung eines Büro- und Verwaltungsgebäudes - BT 3 Zuleitung vom 20.11.2018; Fristverlängerung bis 24.01.2019 (TOP 4.4.1.12 vom 13.12.2018)
+- TOP 4.4.1.3.: St.-Martin-Str. 76 - Fl.Nr.: 15667/0 - Umbau und Erweiterung eines Büro- und Verwaltungsgebäudes - BT 4 Zuleitung vom 20.11.2018; Fristverlängerung bis 24.01.2019 (TOP 4.4.1.13 vom 13.12.2018)
+- TOP 4.4.1.4.: Lavaterstr. 6 – Fl.Nr.: 2309/0 – Neubau eines Doppelhauses mit Garagen Stellungnahme vorab durch den BA-Vorsitzenden gem. § 20 Abs. 1 Satz 2 der BA-Satzung; Zuleitung vom 05.12.2018 (TOP 4.4.1.14 vom 13.12.2018)
+- TOP 4.4.1.5.: Unterbiberger Str. 68 – Fl.Nr.: 632/0 – Neubau einer Reihenhaus-Wohnanlage mit Tiefgarage - VORBESCHEID Zuleitung vom 19.12.2018
+- TOP 4.4.1.6.: Ramersdorfer Str. 7 – Fl.Nr.: 18410/0 – Nachverdichtung mit Umnutzung EG - VORBESCHEID Zuleitung vom 21.12.2018
+- TOP 4.4.1.7.: Ulrich-von-Hutten-Str. 23 – Fl.Nr.: 2028/12 – Neubau eines Mehrfamilienhauses mit Tiefgarage – TEKTUR zu 1.2-2017-27034-31 – hier: Verlegung des Einfahrtshäuschens der Tiefgarage und Anpassung des Gefälles der Rampe Zuleitung vom 19.12.2018
+- TOP 4.4.1.8.: Staudingerstr. 67 – Fl.Nr. 1529/50 – SCHULBAUOFFENSIVE – Errichtung eines Zusatzbaus (Aufenthaltsraum) für eine Kindertageseinrichtung Zuleitung vom 27.12.2018
+- TOP 4.4.1.9.: Puechbergerstr. 4 – Fl.Nr.: 16222/58 – Neubau eines Mehrfamilienhauses und eines Dreispänners mit gemeinsamer Tiefgarage Zuleitung vom 19.12.2018
+- TOP 4.4.1.10.: St.-Ingbert-Str. 12 – Fl.Nr.: 15671/38 – Umbau eines Wohn- und Bürogebäudes zu einem Appartementhaus Zuleitung vom 19.12.2018
+- TOP 4.4.1.11.: Sebastian-Bauer-Str. 40 – Fl.Nr.: 191/0 – Neubau dreier Mehrfamilienhäuser (20 WE) mit Tiefgarage Zuleitung vom 27.12.2018
+- TOP 4.4.1.12.: Werinherstr. 83 - 89 – Fl.Nr.: 15671/30 – Nutzungsänderung des Bestandsgebäudes (Haus 5522) in reine Büronutzung Zuleitung vom 07.01.2019
+- TOP 4.4.1.13.: Thomas-Dehler-Str. – Fl.Nr.: 1800/62 – Neubau eines Gebäudes mit Mischnutzung („Neue Mitte Perlach“) Zuleitung vom 07.01.2019
+- TOP 4.4.1.14.: Ramersdorfer Str. 9 – Fl.Nr.: 18428/0 – Umbau eines mischgenutzten Wohn- und Gewerbegebäudes (Reifenhandel) im Ensemblebereich „Ehemaliger Ortskern Ramersdorf“ zu Wohnzwecken mit 6 Wohneinheiten - VORBESCHEID Zuleitung vom 07.01.2019
+- TOP 4.4.1.15.: Sundergaustr. 162 + 164 – Fl.Nr.: 2084/5 – Neubau eines Mehrfamilienhauses mit Tiefgarage – TEKTUR zu 1.2-2015-11094-31 - hier: Verlängerung des rückwärtigen Gebäudes um 50 cm, Vergrößerung des Wintergartens und der Balkone im DG sowie im 1. OG (Balkone) Zuleitung vom 07.01.2019
+- TOP 4.4.2: Weitere Anhörungen
+- TOP 4.4.2.1.: Quiddestr. 4, Fl.Nr. 1529/10, Gemarkung Perlach Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadtplanung und Bauordnung Katalog-Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (BayDSchG), Bayerische Denkmalliste - Teil A: Baudenkmäler - Landeshauptstadt München, hier: Nachtrag eines Mehrzweckgebäudes des Schulzentrums Perlach-Nord in die Denkmalliste Frist zur Stellungnahme bis zum 31.12.2018; Fristverlängerung bis 24.01.2019 beantragt Zuleitung vom 03.12.2018 (TOP 4.4.2.3 vom 13.12.2018)
+- TOP 4.4.2.2.: Gemeinde Putzbrunn; Bebauungsplan Nr. 63 „Wohnen und Soziales - Parkstraße“ im Ortsteil Waldkolonie Beteiligung der Behörden und sonstiger Träger öffentlicher Belange nach § 4 Abs. 1 BauGB Frist zur Stellungnahme bis zum 25.01.2019 Zuleitung vom 11.12.2018 (TOP 4.4.2.4 vom 13.12.2018)
+- TOP 4.4.2.3.: Bebauungsplan mit Grünordnung Nr. 2100 Haldenseestraße (beiderseits), Bad-Schachener-Straße (südlich) Hechtseestraße (nördlich), Krumbadstraße (östlich) Frist zur Stellungnahme bis zum 04.02.2019 Zuleitung vom 18.12.2019
+- TOP 4.4.2.4.: Flächenprognose Bürgerbüro-Außenstellen, Standortsicherung Hanns-Seidel-Platz Anhörung nach § 13 BA-Satzung Zuleitung vom 13.12.2018
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.5.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.1.1.: Theatron im Ostpark; „Pure Beats“ Konzertveranstaltung am 15.06.2019 Frist zur Stellungnahme bis zum 25.01.2019 Zuleitung vom 07.12.2018 (TOP 4.5.1.2 vom 13.12.2018)
+- TOP 4.5.1.2.: mehrere Standorte in Grünanlagen, Spielaktionen des AKA e.V. Frist zur Stellungnahme bis zum 24.01.2019 Zuleitung vom 03.01.2019
+- TOP 4.5.1.3.: Im Gefilde (Grünanlage, beim Rodelhügel), Winterspielmobil am 09./10.02.2019 Frist zur Stellungnahme bis zum 29.01.2019 Zuleitung vom 03.01.2019
+- TOP 4.5.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2.1.: Pfanzeltplatz, Faschingstreiben auf dem Pfanzeltplatz am 03.03.2019 Frist zur Stellungnahme bis zum 11.02.2019 Zuleitung vom 07.01.2019
+- TOP 4.5.4: Weitere Anhörungen
+- TOP 4.6: Sonstige
+- TOP 5.2.1: Mobilität und Umwelt
+- TOP 5.2.2: Budget, Kultur und Sport
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität und Umwelt
+- TOP 6.1.1.: Blockieren von Gehwegen durch abgestellte Krafträder in der Ständlerstraße Zuleitung vom 13.12.2018
+- TOP 6.1.2.: Ottobrunner Straße: Markierung zur Abgrenzung zwischen Rad- und Fußweg in Höhe der Hausnummern 31-39a (Ziffer 1) Zuleitung vom 11.12.2018
+- TOP 6.1.3.: Zusätzliche Parkflächen in der Theodor-Alt-Str. Zuleitung vom 10.12.2018
+- TOP 6.1.4.: Errichtung eines Zauns zwischen den Gleisen und einem Fussweg, der von der Kurve des Wichernweges zur Neubiberger Str. ausgehend entlang der Gleise verläuft Zuleitung vom 04.01.2018
+- TOP 6.1.5.: Neue Sitzgelegenheiten an öffentlichen Plätzen; Stadtbezirk 16 Ramersdorf-Perlach; Bitte um Bilder oder einen Ortsterminen für die vorgeschlagenen Standorte 9 bis 11 Zuleitung vom 27.12.2018
+- TOP 6.1.6.: Antrag auf Rückverlegung der Haltestelle der Buslinie 155 am Ostbahnhof Antwort des Referats für Arbeit und Wirtschaft zum Schreiben des BA Zuleitung vom 06.12.2018
+- TOP 6.1.7.: Gewerbetreibende an der Rosenheimer Straße unterstützen Antrag der CSU-Fraktion im BA 16 vom 17.07.2018
+- TOP 6.2: Budget, Kultur und Sport
+- TOP 6.2.1.: Information des Spielen in der Stadt e.V. zur Planung der Einsätze der Münchner SommerSpielAktion 2019 Zuleitung vom 06.02.2019
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 6.3.1.: Nawiaskystraße: Eröffnung der Kinderkrippe Zuleitung vom 17.12.2018
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 6.4.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.1.1.: Bärenwaldstr. 16, Fl.Nr.: 1168/3 - Neubau eines Mehrfamilienhauses (6 WE) mit Garagen; Zuleitung vom 27.12.2018
+- TOP 6.4.1.2.: Bad-Schachener-Str. 2b, Fl.Nr.: 18393/35 – Umbau und Nutzungsänderung: SSKM-Filiale zu Büro mit SB-Foyer (SSKM); Zuleitung vom 17.12.2018
+- TOP 6.4.2.1.: Das Puzzle Neuperlach Süd - Bitte um Informationen, wie es sich künftig zusammensetzt Zuleitung vom 02.01.2019
+- TOP 6.4.2.2.: Intransparente Genehmigungspraxis der Münchener Lokalbaukommission Zuleitung vom 27.12.2018
+- TOP 6.4.2.3.: Erhalt bzw. Versetzung der öffentlichen Toilettenanlage am Hanns-Seidel-Platz Schreiben des Referats für Arbeit und Wirtschaft an das Referat für Stadtplanung und Bauordnung, Kreisverwaltungsreferat und Baureferat mit der Bitte um Prüfung des neuen Standortvorschlags im Gefilde Zuleitung vom 13.12.2018 BA-Antrag Nr. 14-20 / B 04536
+- TOP 6.4.2.4.: P+R-Provisorium S- und U-Bahnhof Neuperlach-Süd Zuleitung vom 04.12.2018
+- TOP 6.4.2.5.: Immissionsschutz-Maßnahmen am Innsbrucker Ring entlang der Wohnbebauung (Bad-Schachener-Str. Richtung Ayinger Str., parallel zur Moschenfelderstr.) Zuleitung vom 27.12.2018 BA-Antrag Nr. 14-20 / B 04573
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 6.5.1.: Aufstellen von Mülleimern und Hundekottütenspendern an der Ecke Friedrich-Panzer-Weg/Leoprechtingstr. Bürgeranliegen vom 05.07.2018 Zuleitung vom 07.01.2019
+- TOP 6.5.2.: Antrag auf Entfernung bzw. dauerhafte Verlegung der Werstoffcontainer Waldheimplatz 23-25 Bürgeranliegen vom 27.09.2018 Zuleitung vom 02.01.2019
+- TOP 6.5.3.: Instandsetzung und Reinigung des Spielplatzes Kagerstr./Jakob-Böhme-Str. Zuleitung vom 06.12.2018
+- TOP 6.5.4.: Ostpark und Park am Hugo-Lang-Bogen; Hundeschule Mittwochs, Freitags, Samstags und Sonntags ab 09.01.2019 bis 22.12.2019 – Genehmigungsbescheide vom 17.12.2018 und 18.12.2018 Zuleitung vom 20.12.2018
+- TOP 6.6: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität und Umwelt
+- TOP 7.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016 Zuleitung vom 11.12.2018
+- TOP 7.1.3.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition Zuleitung vom 07.01.2019
+- TOP 7.1.4.: Erinnerungsverfahren § 6.1 AufgrO Ständlerstr. Rad- und Gehwegsanierung; Südseite zwischen Balan- und Görzerstr. Zuleitung vom 13.12.2018
+- TOP 7.1.5.: Beschwerde gegen die Anordnung von Tempo 30 auf ca. 100m beiderseits der Ottobrunner Str. 52 an das Kreisverwaltungsreferat. Bürgeranliegen vom 13.12.2018
+- TOP 7.1.6.: Erinnerungsverfahren § 6.1 AufgrO Görzer Str. 79a+93a; Puechbergerstr. 96A + TG Zufahrt und Balanstr. 165 Zuleitung vom 06.12.2018
+- TOP 7.1.7.: (E) Beleuchtung für den Fuß- und Radweg zwischen Adolf-Baeyer-Damm und Hofangerstraße Empfehlung Nr. 14-20 / E 01961 der Bürgerversammlung des Stadtbezirks 16 Ramersdorf-Perlach am 26.04.2018 Zuleitung vom 02.01.2019
+- TOP 7.2: Budget, Kultur und Sport
+- TOP 7.2.2.1.: KulturRaum e.V.; Mitteilung zur Überzahlung für die Aktion Tanzprojekt vom 09.07. - 26.07.2018 Wilhelm Busch Realschule; Zuleitung vom 20.12.2018
+- TOP 7.2.2.2.: Condrobs e.V.; Verwendungsnachweis für die Aktion Erkundung einer neuen Heimat; Zuleitung vom 20.12.2018
+- TOP 7.2.2.3.: HPT Kinderarche; Verwendungsnachweis für die Aktion Kinder stark machen mit Pferden; Zuleitung vom 20.12.2018
+- TOP 7.2.2.4.: Kath. Kindergarten St. Bruder Klaus; Verwendungsnachweis für die Aktion Generalsanierung des Kindergartens; Zuleitung vom 20.12.2018
+- TOP 7.2.2.5.: Das blaue Schiff/ le bateau bleu e.V.; Verwendungsnachweis für die Aktion Anschaffung eines Gartenhäuschens; Zuleitung vom 20.12.2018
+- TOP 7.2.2.6.: Das blaue Schiff/ le bateau bleu e.V.; Verwendungsnachweis für die Aktion Einbau einer Gartentüre, Aufstellung eines Unterstandes; Zuleitung vom 20.12.2018
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 7.3.1.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Zuleitung vom 21.12.2018
+- TOP 7.3.2.: (U) Betriebsträgerschaft der Offenen Einrichtung für Kinder und Jugendliche im Alter von 6 bis 14 Jahren "Piederstorfer Gelände" 16. Stadtbezirk - Ramersdorf-Perlach Zuleitung vom 12.12.2018
+- TOP 7.3.3.: Anbieten von Veranstaltungen zum Thema Plastik an Grundschulen im gesamten Stadtgebiet der LHM BA-Antrag Nr. 14-20/B 05626 des BA 11 Milbertshofen-Am Hart vom 12.12.2018
+- TOP 7.3.4.: Information zu Laufzeiten und Baugnehemigungen von Unterkünften Zuleitung vom 14.12.2018
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 7.4.2.1.: Michelweg 5; Fällungsantrag vom 22.10.2018; Bescheid vom 12.12.2018
+- TOP 7.4.2.2.: Rübezahlstr. 11; Fällungsantrag vom 31.10.2018; Bescheid vom 12.12.2018
+- TOP 7.4.2.3.: Hohenaschauer Str. 90; Fällungsantrag vom 18.10.2018; Bescheid vom 11.12.2018
+- TOP 7.4.2.4.: Hofangerstr. 97b; Fällungsantrag vom 12.11.2018; Bescheid vom 18.12.2018
+- TOP 7.4.2.5.: Klagenfurter Str. 31-37a, Schlesierstr. 44-50; Fällungsantrag vom 19.10.2018; Bescheid vom 12.12.2018
+- TOP 7.4.2.6.: Adam-Berg-Str. 100; Fällungsantrag vom 23.11.2018; Bescheid vom 05.12.2018
+- TOP 7.4.2.7.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Jahresmeldung 2019 Zuleitung vom 18.12.2018
+- TOP 7.4.2.8.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen; Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen; Zuleitung vom 05.12.2018
+- TOP 7.4.3.1.: Agrippastr. , Mitteilung vom 07.01.2019
+- TOP 7.4.3.2.: Ulrich-von-Hutten-Str. , Mitteilung vom 07.01.2019
+- TOP 7.4.3.3.: Dr.-Walther-von-Miller-Str. , Mitteilung vom 20.12.2018
+- TOP 7.4.3.4.: Sundergaustr. , Mitteilung vom 05.12.2018
+- TOP 7.4.4: Weitere Unterrichtungen
+- TOP 7.4.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.4.2.: (U) Wohnen in München VI 1) Erfahrungsbericht für das Jahr 2017 2) Verlängerung der Befristung der Stelle für die Grundstückausschreibungen in Freiham 3) Empfehlungen/Anträge/Petitionen zu diversen Wohnungsbauvorhaben, u.a. WAL-Vorhaben Erwin-Schleich-Weg Stadtbezirk 15 Trudering-Riem Stadtbezirk 16 Ramersdorf-Perlach Stadtbezirk 23 Allach-Untermenzing Zuleitung vom 19.12.2018
+- TOP 7.4.4.3.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018 Zuleitung vom 11.12.2018
+- TOP 7.4.4.4.: (U) Einhaltung des Eckdaten- und Aufstellungsbeschlusses zur Siedlung an der Haldenseestraße mit Verlehrskonzept für den Billigungsbeschluss Empfehlung Nr. 14-20 / E 01985 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018 Transparente Kommunikation zum weiteren Vorgehen, wie und wann die Behandlung der schriftlich eingereichten Bedenken zum Bebauungsplan mit Grünordnung Nr. 2100 - Haldenseestraße (beidseitig), Bad-Schachener-Straße (südlich), Hechtseestraße (nördlich), Krumbadstraße (östlich) erfolgt Empfehlung Nr. 14-20 / E 01986 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 17.05.2018 Zuleitung vom 05.12.2018
+- TOP 7.4.4.5.: Schreiben an den Oberbürgermeister zur Durchführung einer Einwohnerversammlung zur Bebauung des Siemensparkplatzes nördlich Otto-Hahn-Ring vom 14.12.2018
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 7.5.1.1.: Am Hachinger Bach, Vereinsgaststätte, Krehlebogen 13, 81737 München Zuleitung vom 10.12.2018
+- TOP 7.5.2: Weitere Unterrichtungen
+- TOP 7.5.2.1.: Stellungnahme des Bezirksausschusses Altstadt-Lehel zur Wahl des Kulturreferenten der Landeshauptstadt München
+- TOP 7.5.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Sonstige
+- TOP 8.1.1: Mobilität und Umwelt
+- TOP 8.1.1.1.: Montag, 04.02.2019, 19:00 Uhr, „Zum Aloisius“, Neuperlach, Max-Reinhardt-Weg 28, 81739 München
+- TOP 8.1.2: Budget, Kultur und Sport
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 8.1.4.1.: Donnerstag, 31.01.2019, 19.00 Uhr, Technisches Rathaus, Raum 0.409, Friedenstraße 40, 81671 München
+- TOP 8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.1.5.1.: Mittwoch, 30.01.2019, 19:00 Uhr, Stephanszentrum, Lüdersstraße 12, 81737 München
