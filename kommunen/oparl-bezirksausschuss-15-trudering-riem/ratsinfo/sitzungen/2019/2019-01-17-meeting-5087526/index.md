@@ -1,0 +1,131 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2019-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5087526
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5087526
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.2.1.: verkehrsrechtliche Anordnungen
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 4.4 Statt jahrelangem Warten: BayernWLAN für Trudering Bf. und Ortszentrum jetzt realisieren! Antrag der CSU-Fraktion zu TOP 5.4
+- TOP 1.3.2.: 8.2.23 Von-Gravenreuth-Straße 38
+- TOP 2.1.1.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Trudering e.V. Anschaffung einer Audioanlage 3.872,92€ Az.: 0262.0-15-0270 Wiedervorlage aus der Novembersitzung
+- TOP 2.1.2.: (E) Stadtbezriksbudget Hopsasa gUG Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder Februar 2019 - Februar 2020 8.825,00 € AZ: 0262.0-15-0282
+- TOP 2.1.3.: (E) Stadtbezirksbudget Kath. Kirchenstiftung St. Augustinus Münchner Schäfflertanz 2019 am 20.01.2019 454,50 € AZ: 0262.0-15-0281
+- TOP 2.2.1.: (E) Mobilfunk-Brummgeräusch – Sendeanlage in der Hugo-Weiss-Str. 2
+- TOP 2.2.2.: (E) Deutliche Erhöhung der Parkraumkontrolle in der Heinrich-Böll-Str. sowie in den Nebenstraßen
+- TOP 2.2.3.: (E) Aufstellen von Trinkwasserbrunnen im Riemer Park Empfehlung Nr. 14-20 / E 01703 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 05.10.2017
+- TOP 3.2.1.: Antrag auf Reduzierung des Vekehrsaufkommens in der Friedrich-Creuzer-Str. und Friedenspromenade durch Bebauungsplan Nr. 2090 Empfehlung Nr. 14-20 / E 01711 der Bürgerversammlung des Stadtbezirkes 15 – Trudering-Riem am 05.10.2017 Stellungnahme des Bezirksausschusses zum Entwurf Wiedervorlage gemäß Beschluss aus der Septembersitzung 2018
+- TOP 3.2.2.: Bajuwaren- / Kreillerstrasse - Kreuzungsumbau und Situation für Radfahrer
+- TOP 3.2.3.: Anton-Geisenhofer-Straße / Marianne-Plehn-Straße - Parkraumverknappung durch abgestellte Anhänger
+- TOP 3.2.4.: Am Hochacker: Anbringen von Tempo 30 - Schildern zwischen Friedenspromenade und Markgrafenstraße
+- TOP 3.5.1.: Messestadt: Antrag auf Errichtung einer Outdoor – Boxstation Verweis des Antwortschreibens in den UA Schule, Soziales und Kultur gemäß Beschluss aus der Dezembersitzung 2018
+- TOP 3.6.1.: Jagdhornstraße / Wachtelweg: Schutz der Flora und Fauna vor dem geplanten Bauvorhaben
+- TOP 3.6.2.: Messestadt: Lärm durch zu laute Lüftungsanlage
+- TOP 4.1.: Neugestaltung des Willy-Brandt-Platzes
+- TOP 4.2.: Sozialbürgerhaus Trudering: Den Neubau für die Verkehrsinfrastruktur nützen
+- TOP 4.3.: "Verkehrsgipfel BA 13,14,15" auch von Seiten des BA15 interfraktionell besetzen
+- TOP 5.1.: Mobilitätsstationen im 15. Stadtbezirk Antrag zur Sitzungsvorlage-Nr. 14-20 / V 08574: Parkraummanagement in München - Fortschreibung Sektor V Wiedervorlage gemäß Beschluss aus der Oktobersitzung 2018
+- TOP 5.2.: Anton-Geisenhofer-Straße / Marianne-Plehn-Straße - Behinderung durch Autos
+- TOP 5.3.: Friedhof Riem: Zugang zu den Behindertentoiletten
+- TOP 5.4.: Trudering braucht mehr kostenlose WLANs!
+- TOP 5.5.: Matterhornstraße: zugeparkter Bürgersteig und beschädigter Straßenbelag
+- TOP 5.6.: ÖV im Münchner Osten attraktiver machen (4): Ausstiegshaltestelle der Tram schafft kurze Wege zu den Bussen in Berg-am-Laim-Nord
+- TOP 5.7.: Bahnstraße - bessere Kenntlichmachung Tempo 30
+- TOP 5.8.: Auswirkungen der Bahn-Ausbaustrecke München-Trudering / Grafing auf den Münchner Osten darstellen
+- TOP 5.9.: Bezirkssportanlage Trudering: Parkplatzsituation
+- TOP 5.10.: Neues städtisches Wohnheim in Riem besser nutzen
+- TOP 5.11.: Schatzbogen - Einschränkung des Radweges durch abgestellte Fahrzeuge einer Autovermietung
+- TOP 5.12.: Reitanlage Riem: Lärmbelästigung durch und Unrat nach Veranstaltungen
+- TOP 6.1.: Verkehrsdichte, Lärmbelastung und Sicherheit an der Friedenspromenade
+- TOP 6.2.: Machbarkeitsstudie SEM Städte-Entwicklungsmaßnahme
+- TOP 7.1: UA Allgemeines
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Gemeinde Putzbrunn Bebauungsplan Nr. 63 "Wohnen und Soziales - Parkstraße" im Ortsteil Waldkolonie Beteiligung der Behörden nach § 4 Abs. 1 BauGB Frist: 25.01.2019
+- TOP 7.3.2.: Bauleitplanung Gemeinde Feldkirchen Bebauungsplan Nr. 83a Gewerbegebiet Ost für den Bereich östlich der Emeranstraße und nördlich der Hohenlindner Straße 4. Änderung Gemarkung Feldkirchen Fl.Nr.: 601/11 (Baywa - Gelände) Verfahren nach § 4 Abs. 2 BauGB Frist: 11.02.2019
+- TOP 7.3.3.: Bauleitplanung der Gemeinde Aschheim Aufstellung des Bebauungsplans Nr. 075/02/01 Gewerbegebiet östlich der Erdinger Landstraße Verfahren nach § 4 Abs. 1 BauGB
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Sperberstraße 26, Fl.Nr.: 1046/0 - Teilabbruch Dachgeschoss, Stockaufbau Neubau
+- TOP 7.4.2.: Neusatzer Straße 5, Fl.Nr.: 319/17 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.3.: Truchthari-Anger 12, Fl.Nr.: 163/72 - Neubau eines Wohngebäudes (2 WE) mit 2 Garagen
+- TOP 7.4.4.: Westermeierstraße 33, Flurstück 83/60 - Neubau eines Doppelhauses mit 2 Einzelgaragen - VORBESCHEID
+- TOP 7.4.5.: Wachtelweg 38, Fl.Nr.: 438/0 - Neubau eines Mehrfamilienhauses und eines Doppelhauses mit Tiefgarage - VORBESCHEID
+- TOP 7.4.6.: Sperberstraße 21h, Fl.Nr.: 419/4 - Abbruch eines Wohnhauses mit Garage und Errichtung 2er Doppelhäuser mit Garage - VORBESCHEID
+- TOP 7.4.7.: Königsseestraße 45, Fl.Nr.: 313/153 - Neubau einer Doppelhaushälfte mit Einliegerwohnung und Garage
+- TOP 7.4.8.: Mittbacher Straße (ohne Hausnummer), Gemarkung: Trudering, Fl.Nr.: 1588/1 - Neubau eines Gebäudes mit wohnheimähnlicher Nutzung, Wohnen und gewerblichem Wohnen (kurzfristige Miete) inkl. Tiefgarage (für städt. Angestelllte) - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Haffstraße - Abstimmung eines Ortstermins zur Versetzung einer Sitzbank hier: Ergebnis des Ortstermins und weiteres Vorgehen
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Truderinger Straße 216
+- TOP 8.2.1.: Am Eulenhorst 74 Bajuwarenstraße 134 Eigerstraße 35 Groß-Nabas-Straße 4 Heilwigstraße 28 Ickelsamerstr. 5b Leonhardiweg 7 Meisenstraße 5 Möwestraße 13a Niobestraße 16 Sansibarstraße 24 Scharerweg 7 Schwedensteinstraße 26 Solalindenstraße 39 Solalindenstraße 40 Sperberstraße 26 Tsingtauer Straße 21 Tsingtauer Straße 57 Von-Gravenreuth-Straße 13 Wachtelweg 38 Wasserburger Landstraße 243 Windhuker Straße 1
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: (U) Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS-)
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.1: verkehrsrechtliche Anordnung nach § 45 StVO: Zeitzusatz beim allgemeinen Behindertenparkplatzes Markgrafenstraße 33
+- TOP 10.2.1.2: verkehrsrechtliche Anordnung nach § 45 StVO: Bognerhofweg/Truderinger Straße dauerhafte Anordnung des Rechtsabbiegegebotes
+- TOP 10.2.1.3: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Edinburghplatz
+- TOP 10.2.1.4: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Edinburghplatz
+- TOP 10.2.1.5: verkehrsrechtliche Anordnung nach § 45 StVO: erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnlichen Einrichtungen Kreillerstraße
+- TOP 10.2.1.6: verkehrsrechtliche Anordnung nach § 45 StVO: erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen Schmuckerweg 8
+- TOP 10.2.2.: Aufstellung von Dialogdisplays im 15. Stadtbezirk
+- TOP 10.2.3.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 10.2.4.: Verkehrssituation und -sicherheit in der Bahnstraße Empfehlung Nr. 14-20 / E 01717 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 05.10.2017 Sitzungsvorlagen Nr. 14-20/ V 11324 Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 19.04.2018 OB-Entscheidung zum abweichenden Beschluss des BA zur Sitzungsvorlage des KVR gemeinsame Behandlung mit TOP 10.2.5
+- TOP 10.2.5.: (E) Verkehrssituation und -sicherheit in der Bahnstraße gemeinsame Behandlung mit TOP 10.2.4
+- TOP 10.2.6.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: 37. Änderung des Flächennutzungsplans der Gemeinde Aschheim Erneute Beteiligung im Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB Schreiben des Referats für Stadtplanung und Bauordnung an die Gemeinde Aschheim s. TOP 10.3.1 vom 22.03.2018, TOP 7.3.1 vom 06.04.2017 sowie BA-Antrag 14-20 / B 03506 Prüfantrag zur Bauleitplanung der Gemeinde Aschheim, 37. Änderung des Flächennutzungsplans, Verfahren nach § 4a Abs. 3 Satz 1 und 3 BauGB
+- TOP 10.3.2.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 10.3.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat
+- TOP 10.3.4.: Mitteilung über ein Grundstücksgeschäft Flst. 1415 Trudering Johann-Karg-Straße 1 (Haar) Kauf
+- TOP 10.3.5.: (U) Planungen für Bebauungsplan 2119 (Fauststraße) umgehend einstellen Antrag Nr. 14-20 / A 04369 von DIE LINKE vom 03.08.2018 Stadtbezirk 15 Trudering-Riem
+- TOP 10.3.6.: (U) Münchner Nordosten A) Eckdaten und Planungsziele - Eckdatenbeschluss - B) Durchführung des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs C) Weiteres Vorgehen D) Personalbedarf Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Matterhornstraße 32
+- TOP 10.4.1.2: Eigerstraße 38
+- TOP 10.4.1.3: Großfriedrichsburger Straße 13
+- TOP 10.4.1.4: Großfriedrichsburger Straße 13a
+- TOP 10.4.1.5: Edeltraudstraße 15
+- TOP 10.4.1.6: Tangastaße 45
+- TOP 10.4.1.7: Lachenmeyrstraße 3
+- TOP 10.4.1.8: Vogesenstraße 14
+- TOP 10.4.1.9: Erdingerstraße 8
+- TOP 10.4.1.10: Josef-Hagn-Straße 7
+- TOP 10.4.1.11: Edeltraudstraße 12
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Stellungnahme des Bezirksausschusses Altstadt-Lehel zur Wahl des Kulturreferenten der Landeshauptstadt München
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Blumenwiesen im Stadtgebiet - hier: Grünanlage Edinburghplatz
+- TOP 10.6.2.: Baumentfernungen und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Turnerstraße Am Hochstand
+- TOP 10.6.3.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Jahresmeldung 2019 diverse Straßen im Stadtbezirk
