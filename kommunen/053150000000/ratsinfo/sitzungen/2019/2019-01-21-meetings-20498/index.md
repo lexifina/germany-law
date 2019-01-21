@@ -1,0 +1,60 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-21T17:00:00+01:00
+- Ende: 2019-01-21T18:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20498
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20498
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Bewohnerparken im Bereich Köln-Stammheim (Az.: 02-1600-174/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tempoüberschreitungen in Köln-Holweide - Kenntnis genommen
+- TOP 7.1.2: Illegales Parken von Funkmietwagen in Mülheim - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der CDU-Fraktion: Domagkstraße/Am Faulbach - Kenntnis genommen
+- TOP 7.2.2: Anfrage der CDU-Fraktion: Tempo-30 auf der Bergisch Gladbacher Straße - Kenntnis genommen
+- TOP 7.2.3: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verkehrs- und Parksituation Gemarkenstraße an der Einmündung Otto-Kayser-Straße in der Nähe der Schrankenanlage der KVB - Kenntnis genommen
+- TOP 7.2.4: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Verkehrs- und Parksituation Klein Herl in Köln-Buchheim - Kenntnis genommen
+- TOP 7.2.5: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Querungshilfe Buchheimer Ring - Kenntnis genommen
+- TOP 7.2.6: Gemeinsame Anfrage der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Nutzung des Hochbunkers in der Honschaftsstraße 322a in Höhenhaus - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Vorfahrtsregelung schaffen für Radverkehr Nebenanlage der Berliner Straße in Höhenhaus im Bereich Emberg - geändert beschlossen
+- TOP 8.1.2: Gemeinsamer Dringlichkeitsantrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Vorhalten einer Notfallpraxis im rechtsrheinischen Norden - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim zum Thema "Ausweitung der Sonntagsfahrzeiten der KVB-Buslinie 154 auf den Vormittag" - geändert beschlossen
+- TOP 8.2.2: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim zum "Anbringen einer unterbrochenen Wartelinie an der Ecke Elisabeth-Breuer-Straße/Clostermann-Straße in der von der Frankfurter Straße k - endgültig abgelehnt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beschluss der Richtlinie zur Umsetzung der Maßnahme „Haus-, Hof- und Fassadenprogramm“ im Projekt „Starke Veedel – Starkes Köln“ im Sozialraum „Buchheim/ Buchforst, Mülheim-Nord/Keupstraße“ - ungeändert beschlossen
+- TOP 9.1.2: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2019: Antrag der Grundschulen St. Maurituis für ein Kunstprojekt anlässlich des 150jährigen Bestehens - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 9.2.2: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ungeändert beschlossen
+- TOP 9.2.3: Erweiterung der Feuer- und Rettungswache 9 in Köln Mülheim - ungeändert beschlossen
+- TOP 9.2.4: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 9.2.5: Beschluss der Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum „Mülheim-Nord und Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Pilotphase Systematische Öffentlichkeitsbeteiligung im Bereich Sport - Kenntnis genommen
+- TOP 10.2.4: Sachstand Grüne Infrastruktur Köln "Vielfalt vernetzen" - Kenntnis genommen
+- TOP 10.2.5: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.2.6: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim: "Einrichung der Möglichkeit anonymer Bestattungen auf dem Friedhof Flittard" - Kenntnis genommen
+- TOP 10.2.7: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
