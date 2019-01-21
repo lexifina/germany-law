@@ -1,0 +1,7 @@
+# TOP 6.: Kommunikationskampagne "Mensch-rede-mit" -mündlicher Vortrag-
+
+- Sitzung: Beirat für Bürgerbeteiligung (3. Sitzung) (2019-01-21)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/46848
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/28988
