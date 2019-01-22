@@ -1,0 +1,161 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2019-01-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5216936
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5216936
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP E 4.1.: Stadtbezirksbudget: Nachweise und Berichte
+- TOP A: Allgemeines
+- TOP B: Planen, Bauen, Wohnen
+- TOP 3.1.1.: Weinstraße 7 – 7a: Neubau eines Geschäfts- und Hotelgebäudes sowie einer Gaststätte mit Freischankfläche
+- TOP 3.1.2.: Schäfflerstraße 3: Dachumbau / -ausbau und Aufstockung eines denkmalgeschützten Wohn- und Geschäftsgebäudes mit Nutzungsänderung (Büro- und Wohnräume zu 2 Wohneinheiten)
+- TOP 3.1.3.: Neuhauser Straße 8 -10: Nutzungsänderung: Eingangshallen, Kantine, Kegelbahn, Büro- und Technikräume der Alten Akademie München zu Verkaufs-, Veranstaltungs-, Gastronomie-, Multifunktions- und Lagerräumen – befristet auf 1 Jahr
+- TOP 3.1.4.: Marienplatz 8: Umbau von Wohnungen zu Büroräumen
+- TOP 3.1.5.: Reichenbachstraße 1: Nutzungsänderung 2.-6. OG: Wohnungen zu Büros und Praxen
+- TOP 3.1.6.: Prannerstraße 4: TEKTUR: Neubau eines Büro- und Geschäftshauses mit Tief- und Ladehofgarage für PR 4 und das Nachbarbauvorhaben KF 1 Hotel
+- TOP 3.1.7.: Marienplatz 18+19, TEKTUR, Umbau Innenräume EG/ZG Rischart-Zentrale
+- TOP 3.1.8.: Tal 8, RGB, Nutzungsänderung: Dachterrasse zu Gastgarten
+- TOP 3.1.9.: Praterinsel 2, Errichtung einer Treppenanlage an der Maximiliansbrücke
+- TOP 3.1.10.: Antrag auf Baumfällung im Rahmen des Bauvorhabens Praterinsel 2 (s. B 3.1.9)
+- TOP 3.1.11.: Frauenstraße 26, TEKTUR, Generalsanierung eines Wohn- und Geschäftshauses (VGB + RGB)
+- TOP 3.2.1.: Fußgängerzone Theatinerstraße – Teilflächensanierung
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Behinderung durch Metallkasten am Sebastiansplatz
+- TOP 1.2.: Bürgeranliegen, Beleuchtung der Residenz, Max-Joseph-Platz
+- TOP 1.3.: Antrag des Vorsitzenden Wolfgang Neumer (CSU): Messung bezüglich der Belastung mit hochfrequenter Strahlung in der Innenstadt
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Neubewertung des Antrages auf Erweiterung einer Freischankfläche: „Weisses Bräuhaus“, Tal 7
+- TOP 2.1.2.: Neubewertung des Antrages auf Erweiterung einer Freischankfläche: „Hans im Glück“, Tal 10
+- TOP 2.1.3.: Antrag auf Genehmigung einer Freischankfläche: „Ratskeller“, Dienerstraße
+- TOP 2.1.4.: Antrag auf Erweiterung einer bestehenden Freischankfläche: „Tchibo“, Sendlinger Straße 41
+- TOP 2.1.5.: Genehmigung einer Freischankfläche: „Shoya Imbiss“, Orlandostraße 3
+- TOP 2.1.6.: Antrag auf Erweiterung einer Freischankfläche: „Altes Hackerhaus“, Sendlinger Straße 14
+- TOP 2.1.7.: Antrag auf Genehmigung einer Kleinstfreischankfläche: „Schuhbeck&#039;s Pizza To Go“, Platzl 5
+- TOP 2.2.1.: Antrag auf Aufstellung einer neuen Verkaufseinrichtung auf öffentlichem Grund, Sendlinger Straße 15a
+- TOP 2.3: Sonstige
+- TOP 2.3.1.: (E) Beschränkung der Veranstaltungen auf dem ehemaligen Riemerschmidt-Gelände
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Jubiläumsveranstaltung 200 Jahre kommunales Friedhofs- und Bestattungswesen am 17. und 18.05.2019, Odeonsplatz
+- TOP 3.1.2.: Faschingszug der Damischen Ritter am 24.02.2019
+- TOP 3.1.3.: „Tanz der Marktfrauen“ am 05.03.2019, Viktualienmarkt
+- TOP 3.1.4.: Geldbeutelwaschen am 06.03.2019 (Aschermittwoch), Marienplatz
+- TOP 3.1.5.: „Stijlmarkt“ vom 09.03 bis 10.03.2019, Praterinsel
+- TOP 3.1.6.: „WeinMünchen2019“ vom 29.03 bis 31.03.2019, Praterinsel
+- TOP 3.1.7.: „Stijlmarkt“ vom 30.11 bis 01.12.2019, Praterinsel
+- TOP 3.1.8.: „IN FASHION MUNICH“ vom 09. bis 11.02.2019, Praterinsel
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Parksituation Lehel Süd
+- TOP 1.2.: Bürgeranliegen, Gehsteigparken Alexandrastraße
+- TOP 1.3.: Antrag der Fraktion Bündnis 90-Die Grünen: Evaluierung des Verkehrs auf der Prinzregentenstraße
+- TOP 1.4.: Antrag der Fraktion Bündnis 90-Die Grünen: Altstadt – den Menschen mehr Platz und Raum geben!
+- TOP 1.5.: Antrag der SPD-Fraktion: Tram-Nordtangente – Englischen Garten erhalten und gut gestalten
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Markierung zugewiesener Behindertenparkplätze
+- TOP 3: Anhörungen
+- TOP 3.1.: Antrag auf Baumfällung, Seitzstraße 9
+- TOP 3.2.: Antrag auf Baumfällung, Widenmayerstraße 32
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Bellevue di Monaco eG Hebebühne im Kulturhaus als Maßnahme zur Gewährleistung der Barrierefreiheit 18.000,00€ Az.: 0262.0-1-0145
+- TOP 2.2.: (E) Stadtbezirksbudget Initiative "Botschaft von Uzupis" Einrichtung der Münchner Botschaft von Uzupis vom 10.01. - 31.05.2019 1.850,00 Euro, Az.: 0262.0-1-0148
+- TOP 2.3.: (E) Stadtbezirksbudget Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e.V. 15. Konzertreihe vom 24.02.2019 - 01.01.2020 3.150,00 Euro, Az.: 0262.0-1-0149
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Antwortschreiben des Direktoriums auf BA-Anfrage zur Einbringung von Dringlichkeitsanträgen
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP B 4.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP B 4.4.: Baugenehmigung Weinstraße 7–7a, Fällung eines Spitzahorns
+- TOP B 4.5.: Behandlung Beschlussentwurf „Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum – Sachstand und weiteres Vorgehen“
+- TOP B 4.6.: Verlängerung der Baustelleneinrichtung am Isartorplatz bis 14.12.2018
+- TOP B 4.7.: Baugenehmigungsbescheid Maximiliansplatz 19
+- TOP B 4.8.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP B 4.9.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat
+- TOP B 4.10.: Antwortschreiben des BA 8 auf Stellungnahme des BA 1 zur Rahmenplanung innerstädtischer Isarraum
+- TOP B 4.11.: Bauunterlagen Hildegardstraße 2: Teilung und Nutzungsänderung einer Büroeinheit in eine Tageseinrichtung für Demenzkranke und eine Büroeinheit (1.OG)
+- TOP B 4.12.: Antwortschreiben der Lokalbaukommission zum Bauvorhaben „Milchhäusl“
+- TOP B 4.13.: Terminverschiebung Stromtrassenbaustelle Blumenstraße 19
+- TOP B 4.14.: Archäologische Kartierung der Münchner Altstadt; Zwischenbericht 2017; Sitzungsvorlage Nr. 14-20 / V 13556
+- TOP B 4.15.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP B 4.16.: Antwortschreiben des Bauprojektleiters zur SWM-Baumaßnahme in der Maximilianstraße und deren Auswirkungen auf das Projekt „Tom & Hilde“
+- TOP B 4.17.: SWM-Fernwärmeprojekt Maximiliansplatz
+- TOP B 4.18.: SWM-Fernwärmeprojekt Salvatorstraße
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Antwortschreiben der Bezirksinspektion auf Bürgeranliegen "Geruchsbelästigung durch Kebab-Imbiss in der Sternstraße 20"
+- TOP C 4.4.: Mülleinsammlung in der Innenstadt durch AWM in der Vor- und Nachweihnachtszeit
+- TOP C 4.5.: Positive Eilentscheidung zur Anhörung über das Silvesterfeuerwerk der Diskothek „P1“
+- TOP C 4.6.: Positive Eilentscheidung zur Anhörung über die Inthronisation des Faschingsprinzenpaares am 12.01.2019, Marienplatz
+- TOP C 4.7.: Positive Eilentscheidung zur Anhörung „Frühere Aufbauzeiten und Ausweitung des Corso Leopold“
+- TOP C 4.8.: Antwortschreiben des Referates für Gesundheit und Umwelt auf Bürgeranliegen „Beleuchtung Hackenstraße“
+- TOP C 4.9.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München; Sitzungsvorlage Nr. 14-20 / V 12912
+- TOP C 4.10.: Beschlussentwurf „Kunst im öffentlichen Raum; Realisation der Intervention „Aerocene“ von Tomás Saraceno“; Sitzungsvorlage Nr. 14-20 / V 13693
+- TOP C 4.11.: Temporäre Kunst im öffentlichen Raum „Head with branches“ im Zeitraum 18.02. bis 13.05.2019, Maximilianstraße 53
+- TOP C 4.12.: Schreiben der Bezirksinspektion an die Gaststätte „Hoiz“ wegen Lärmbeschwerde
+- TOP C 4.13.: Schreiben der Bezirksinspektion an die Gaststätte „yum2take“ wegen Lärmbeschwerde
+- TOP C 4.14.: Ausnahmezulassung für den Betrieb von Müllsammelfahrzeugen
+- TOP C 4.15.: Beleuchtung Hackenstraße, Antwortschreiben
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Altstadtring Nordwest, Sicherheitsnachrüstung Altstadtringtunnel, Straßenumbau Oskar-von-Miller-Ring und Von-der-Tann-Straße im 3. Stadtbezirk Maxvorstadt; Sitzungsvorlage Nr. 14-20 / V 13517
+- TOP D 4.2.: Parkraummanagement, Lizenzparkregelungen an der Außenseite des Altstadtringes
+- TOP D 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4.4.: Genehmigungsbescheid für eine Baumfällung, Paradiesstraße 7
+- TOP D 4.5.: Antwortschreiben des Kreisverwaltungsreferates auf das Bürgeranliegen „Ampelschaltung an der Kreuzung Liebig- / Oettingen- / Sternstraße“
+- TOP D 4.6.: Fristverlängerung für Antrag Nr. 14-20 / A 02899 der Stadtratsfraktion Die Grünen – rosa liste „Neues Verkehrskonzept für die Altstadt – jetzt die Chancen durch die innerstädtische Kaskaden von Großbaustellen nutzen“
+- TOP D 4.7.: Bevorstehende Entfernung von Gefahrenbäumen
+- TOP D 4.8.: Fahrradstellplätze im Umgriff der Fußgängerzone Marienplatz, Information des Baureferates
+- TOP D 4.9.: Zwischennachricht zu BA-Antrag Nr. 14-20 / B 05293 „Prüfung der Aufstellung von radargestützten Geschwindigkeitsanzeigen auf der Steinsdorf- und Widenmayerstraße“
+- TOP D 4.10.: Antwortschreiben des Kreisverwaltungsreferates auf das Bürgeranliegen „Entfernen des Fahrradständers Ecke Brunn- / Damenstiftstraße“
+- TOP D 4.11.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP D 4.12.: Antwortschreiben des Baureferates auf Bürgeranliegen „Baumfällung an der Eisbach-Brücke, Prinzregentenstraße“
+- TOP D 4.13.: Anlagengenehmigung für eine Radlservicestation an der Mariannenbrücke
+- TOP D 4.14.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnliche Einrichtungen, hier: Frauenstraße
+- TOP D 4.15.: Antwortschreiben des Referates für Stadtplanung und Bauordnung auf BA-Anfrage „Baumfällung gegenüber der Frauenstraße 10“
+- TOP D 4.16.: Bitte um Unterstützung des Antrages des BA 11 – Milbertshofen - Am Hart: „Plastikproblematik – Veranstaltungen an Grundschulen im 11. Stadtbezirk“
+- TOP D 4.17.: Arbeiten im Straßenraum, Gleisbau Müllerstraße – Änderung der verkehrsrechtlichen Anordnung
+- TOP D 4.18.: Verkehrsrechtliche Anordnung: Tempo 30 vor Schulen. Hier: Blumenstraße 26
+- TOP D 4.19.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.2.: Antwort des Sozialreferates auf BA-Nachfrage zu Stadtbezirksbudgetantrag (Hebebühne als Maßnahme zur Gewährleistung der Barrierefreiheit) s. TOP 2019.01 E 2.1
+- TOP E 4.3.: Sportentwicklungsplanung für die Landeshauptstadt München; Sitzungsvorlagen Nr. 13363
+- TOP E 4.4.: Grundschule Herrnstraße – Maßnahmen gegen Überhitzung der Klassenräume, Antwortschreiben
