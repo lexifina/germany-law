@@ -1,0 +1,147 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-01-22T20:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146245
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146245
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Weitere Punkte
+- TOP 7.: Bürgerversammlungsempfehlungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Budget
+- TOP 10.: Anträge
+- TOP 11.: Anträge und Berichte aus den Unterausschüssen
+- TOP 12.: Berichte der Beauftragten
+- TOP 13.: Baumfällungen
+- TOP 14.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 14.14.1: Kürnbergstr.22; Neubau eines MFH mit TG
+- TOP 15.: Veranstaltungen auf öffentlichem Grund
+- TOP 16.: Westparkveranstaltungen
+- TOP 29.: Weitere Anhörungen
+- TOP 30.: Amtsblatt
+- TOP 43.: Weitere Unterrichtungen
+- TOP 44.: Bürgerschreiben
+- TOP 57.: Weiterer Schriftverkehr
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Amtsniederlegung Hr. Goß; Amtseinführung Fr. Werenskiold
+- TOP 6.6.2: Amtsniederlegung Fr. Morawek; Amtseinführung Hr. Maier
+- TOP 7.7.1: (E) Trimm-Dich-Pfad im Westpark errichten Empfehlung Nr. 14-20 / E 02231 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 25.10.2018
+- TOP 9.9.1: (E) Stadtbezirksbudget Die Schmuddelkinder e.V. Anschaffung Sandkasten Februar 2019 bis April 2019 2.500,00 € AZ: 0262.0-7-0226
+- TOP 9.9.2: (E) Stadtbezirksbudget Alten- und Service-Zentrum (ASZ) Westpark Stadtteilführer im Februar 2019 3.400,00€; Az.: 0262.0-7-0221
+- TOP 9.9.3: (E) Stadtbezirksbudget Elternbeirat der Grundschule Fernpaßstraße Schulhausverschönerung: Mosaike 1.450,00 € AZ: 0262.0-7-0227
+- TOP 9.9.4: (E) Stadtbezirksbudget Helferkreis Flüchtlingsunterkünfte Hans-Thonauer-Str. und Elsenheimerstr. Jahresprogramm 2019 vom 01.02.2019 – 31.12.2019 1.500,00 € AZ: 0262.0-7-0228
+- TOP 10.10.1: E-Busse für die Buslinien 130-51
+- TOP 10.10.2: Anfrage Ganztagesbetreuung
+- TOP 10.10.3: Anfrage: Terminplan Tramwesttangente
+- TOP 10.10.4: Wahllokal im Altenwohnheim St.-Josef
+- TOP 13.13.1: Heiterwanger Str. Fällung mehrerer Bäume 705 Hr. Nagel Alpspitzstr. Fällung eines Baumes 705 Hr. Nagel Heiterwanger Str. Fällung mehrerer Bäume 705 Hr. Nagel Heiterwanger Str. Fällung eines Baumes Hr. Sinapius Heiterwanger Str. Fällung eines Baumes 709 Hr. Sinapius Andreas-Vöst-Str. Fällung eines Baumes 713 Fr. Schoneweg Friedrich-List-Str. Fällung mehrerer Bäume 713 Fr. Schoneweg Murnauer Str. Fällung mehrerer Bäume 720 Hr. Egerer
+- TOP 16.16.1: Aktionstag Modellschiffer 18.05.19
+- TOP 16.16.2: Theateraufführung Theatron Juli 2019
+- TOP 17.: Baureferat
+- TOP 18.: Büro des Oberbürgermeisters
+- TOP 19.: Direktorium
+- TOP 20.: Kommunalreferat
+- TOP 21.: Kreisverwaltungsreferat
+- TOP 22.: Kulturreferat
+- TOP 23.: Lokalbaukommission
+- TOP 24.: Referat für Arbeit und Wirtschaft
+- TOP 25.: Referat für Bildung und Sport
+- TOP 26.: Referat für Gesundheit und Umwelt
+- TOP 27.: Referat für Stadtplanung und Bauordnung
+- TOP 28.: Sozialreferat
+- TOP 28.28.1: Nachnutzung ehemaliges ASZ-Westpark
+- TOP 31.: Baureferat
+- TOP 31.31.1: Gefahrenbaumentfernung auf öffentlichem Grund
+- TOP 31.31.2: (U) Aufwertungsmaßnahmen Südpark / Sendlinger Wald im 7. Stadtbezirk Sendling - Westpark und im 19. Stadtbezirk Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln Projektkosten (Kostenobergrenze): 2.190.000 € 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 31.31.3: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Vorkaufsrecht
+- TOP 34.34.2: (U) Mehrjahresinvestitionsprogramm 2018-2022; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Aufhebung Behindertenparkplatz Dauthendeystr.
+- TOP 35.35.2: (U) Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS-)
+- TOP 35.35.3: Drehgenehmigung Japan-Garten
+- TOP 35.35.4: Gaststättenfortführung
+- TOP 35.35.5: Filmaufnahmen stadtweit
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Wartehäuschen für die Bushaltestelle Aichacher Straße
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Erneuerung Kunstrasen HLC Rot-Weiß SV 14-20/ V 13261
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.40.1: Betrieb von Müllfahrzeugen
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: (E) Fußgänger am Partnachplatz-Nord Empfehlung Nr. 14-20 / E 01727 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 10.10.2017
+- TOP 41.41.2: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 41.41.3: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 41.41.4: (U) BayernNetz Natur-Projekt "NaturErholung Isartal im Süden von München" - Lenkungskonzept und Öffentlichkeitsmaßnahmen zum Mountainbike-Fahren Sachmittelbedarf
+- TOP 41.41.5: (U) Aktualisierung naturschutzrelevanter Daten - Gutachten "Flächenkulisse Biodiversität" Sachmittelbedarf
+- TOP 41.41.6: (U) Folgeprojekt der Regionalen Wohnungsbaukonferenz 2017: "Wachstum gestalten. Gemeinsame Projekte für die Region."
+- TOP 41.41.7: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 41.41.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41.41.9: (U) Veränderungssperre Nr. 656 Zielstattstraße 2 Flurstück Nrn. 9286/2, 9288/38 (Teilfläche), 9288/39 (Teilfläche) und 9288/42 der Gemarkung München, Sektion V Stadtbezirk 7 Sendling-Westpark Flurstücke Nrn. 250/53 (Teilfläche), 250/61, 250/62 (Teilfläche) der Gemarkung Thalkirchen Stadtbezirk 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln Erlass nach § 14 Baugesetzbuch (BauGB) (Aufstellungsbeschluss für den Bebauungsplan mit Grünordnung Nr. 2017)
+- TOP 41.41.10: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Vollzug Erhaltungssatzung-Kriegersiedlung
+- TOP 42.42.2: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Sozialreferates/Gesellschaftliches Engagement/Bürgerschaftliches Engagement (BE), Geschäftsleitung/Sozialplanung und Büro der Referatsleitung
+- TOP 42.42.3: (U) MÜNCHENSTIFT GmbH - Prüfung einer möglichen Generalsanierung des Hauses St. Josef mit Änderung des MIP 2018 - 2022 Produkt 40.111.000 Beteiligungsmanagement für MÜNCHENSTIFT GmbH 7. Stadtbezirk - Sendling-Westpark
+- TOP 42.42.4: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 42.42.5: (U) Entwurf des Mehrjahresinvestitionsprogramms 2018 - 2022 Einzelplan 4 / Jugendamtsbereich
+- TOP 42.42.6: (U) Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2018 - 2022 Einzelplan 4 / Sozialbereich
+- TOP 42.42.7: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 43.43.1: Baumaßnahmen_SWM
+- TOP 43.43.2: P+R-Heimeranplatz bei Basketballspielen
+- TOP 43.43.3: Elektrofahrdienst im Waldfriedhof
+- TOP 43.43.4: Antwort AWM auf BV-Anliegen
+- TOP 44.44.1: Abbiegesituation Siegenburger-Landaubogen
+- TOP 44.44.2: Budgetbericht Tanztheaterprojekt "Zeitgeister"
+- TOP 44.44.3: Einladung Partnach-Quartier
+- TOP 45.: Baureferat
+- TOP 45.45.1: Toilette im Adunipark
+- TOP 45.45.2: Verbesserung der Beleuchtung des Fuß- und Radweges in der Tunnelunterführung MR Garmischer Straße am Grasweg
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Verwendungsnachweis EB GS Fernpaßstraße
+- TOP 47.47.2: Verwendungsnachweis "Spielen in der Stadt"
+- TOP 47.47.3: Änderungsbescheid EB-GS Gilmstraße
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Einfahrt von der Lindauer Autobahn in die Garmischer Straße Richtung Süden: Geschwindigkeitsbeschilderung
+- TOP 49.49.2: Gegenläufiger Radverkehr in den Einbahnstraßen am Luise-Kiesselbach-Platz / Max-Seidl-Weg einrichten
+- TOP 49.49.3: Tempo-30 Garmischer Str.
+- TOP 49.49.4: Planungen Kreuzung Landaubogen-Siegenburger
+- TOP 50.: Kulturreferat
+- TOP 50.50.1: Kulturzentrum Ludwigshafener Straße
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Erweiterung des Geschäftsgebietes für carsharing
+- TOP 52.52.2: Aschenbecher an U-Bahn-Stationen
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Bildungscampus am Westpark
+- TOP 53.53.2: Modellprojekt Kooperative Ganztagsschule
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Parkraummanagement; Gewerbetreibende
+- TOP 55.55.2: Vollzug der Baumschutzverordnung-Fuggerstr
+- TOP 55.55.3: Neubau Harmatinger Str. Vorbescheid
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Erhalt der Gaststätte "Krüner Stüber&#039;l"
+- TOP 57.57.1: Plastikproblematik an Grundschulen-BA 11
+- TOP 57.57.2: Geländer U-Bahn Westendstr.
