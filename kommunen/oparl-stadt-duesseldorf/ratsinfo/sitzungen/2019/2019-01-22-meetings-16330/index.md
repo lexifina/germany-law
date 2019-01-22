@@ -1,0 +1,67 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-01-22T17:00:00+01:00
+- Ende: 2019-01-22T21:14:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16330
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16330
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333596.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333596.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333596.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Glasmacherviertel - zur Kenntnis genommen
+- TOP 5: Glasmacherviertel Umbau Nachtigallstraße - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Am Pesch 5 - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Sowjetischer Ehrenfriedhof Blanckertzstraße - zur Kenntnis genommen
+- TOP 10: Vorstellung Grüngestaltung Quellenbusch - vertagt
+- TOP 11: Grundwassersanierungsanlage "Alter Gerresheimer Friedhof " Regenbergastraße 16 c - zur Kenntnis genommen
+- TOP 12: Sportanlage Sulzbachstr. 31 (TV Grafenberg) - einstimmig beschlossen
+- TOP 13: Sportanlage An der Leimkuhle 10 (Sportfreunde Gerresheim) - einstimmig beschlossen
+- TOP 14: Sportanlage Diepenstraße - Erneuerung Hockeyspielfeld - einstimmig beschlossen
+- TOP 15: Konzept für die Ertüchtigung der Geländer an Ingenieurbauwerken und provisorische Sicherung für den - zur Kenntnis genommen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2019) - einstimmig beschlossen
+- TOP 17: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 18: Taktverdichtung 733 Richtung Knittkuhl/Am Püttkamp - zurückgezogen
+- TOP 19: Spazierweg Grafenberger Wald zwischen Torfbruchstraße und Ikenstraße ausbessern - abweichend beschlossen
+- TOP 20: Zweite Haltelinie Keldenichstraße/Neunzigstraße - zurückgezogen
+- TOP 21: Keldenichstraße/Neunzigstraße - abweichend beschlossen
+- TOP 22: Geschwindigkeitsmessung und Parkraumüberwachung Josef-Neuberger-Straße - zurückgezogen
+- TOP 23: Einrichtung einer Living Wall für die Ludenberger Straße/Staufenplatz - mehrheitlich beschlossen
+- TOP 24: Shared Space auf der Nachtigallstraße - zurückgezogen
+- TOP 25: Shared Space auf der Nachtigallstraße - abweichend beschlossen
+- TOP 26: Gemeinschaftsstraße („Shared Space“) Nachtigallstraße - abweichend beschlossen
+- TOP 27: Bauarbeiten Düsselbrücke der Bahn - einstimmig beschlossen
+- TOP 28: Renovierung der Stadtbücherei Gerresheim - abweichend beschlossen
+- TOP 29: Öffnung der Fußgängerzone Neusser Tor für den Radverkehr - mehrheitlich beschlossen
+- TOP 30: Bänke für das Rund - einstimmig beschlossen
+- TOP 31: Fahrradhäuschen am Staufenplatz - einstimmig beschlossen
+- TOP 32: Geburtsstation der SANA – Klinik Gerresheim - abweichend beschlossen
+- TOP 33: Geburtsstation der SANA-Klinik Gerresheim - abweichend beschlossen
+- TOP 34: Beschleunigung U73 - zur Kenntnis genommen
+- TOP 35: Rechtssicherheit und Rechtsstaatlichkeit für Bauwillige und Mandatsträger - zur Kenntnis genommen
+- TOP 36: Verkehrssituation Ludenberger Straße I - zur Kenntnis genommen
+- TOP 37: Verkehrssituation Ludenberger Straße II - zur Kenntnis genommen
+- TOP 38: Verkehrssituation Ludenberger Straße III - zur Kenntnis genommen
+- TOP 39: Fertigstellung der Halleschen Straße - zur Kenntnis genommen
+- TOP 40: Konzept „Essbare Stadt“- Umsetzung im Stadtbezirk 7 - vertagt
+- TOP 41: Beleuchtung Joggingstrecke Limburgstraße/Ostpark - zur Kenntnis genommen
+- TOP 42: Fernwärmeversorgung im Areal "Am Quellenbusch" - zur Kenntnis genommen
+- TOP 43: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 44: Fahrradmitnahme in der Straßenbahn zwischen Burgmüllerstraße und Auf der Hardt - zur Kenntnis genommen
+- TOP 45: Dorfplatz Hubbelrath - zur Kenntnis genommen
+- TOP 46: Umwandlung Gerricusplatz in einen verkehrsberuhigten Bereich - zur Kenntnis genommen
+- TOP 47: Umwandlung der Straße Alter Markt in einen verkehrsberuhigten Bereich - zur Kenntnis genommen
+- TOP 48: Grünzug Merseburger Straße - zur Kenntnis genommen
+- TOP 49: Trinkwasserbrunnen im Zentrum von Gerreheim - zur Kenntnis genommen
+- TOP 50: Staufenplatz - zur Kenntnis genommen
