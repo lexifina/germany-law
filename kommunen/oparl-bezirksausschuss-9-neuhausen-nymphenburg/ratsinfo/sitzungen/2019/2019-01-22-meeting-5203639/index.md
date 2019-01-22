@@ -1,0 +1,118 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2019-01-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5203639
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5203639
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 7.: Unterausschuss für Kultur
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.1.1.: Festlegung von Ort und Datum des BA Kinderfestes 2019
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.1.1.: (E) Fertigstellung des Rad- und Fußwegs von Hauptbahnhof bis Pasing Empfehlung Nr. 08-14 / E 02103 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 21.11.2013
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Verkehrsberuhigter Bereich Bäumlstraße / Ampelschaltung Kreuzung Maria-Ward-Straße - Menzinger Str.
+- TOP 3.2.2.: Brücke über die Landshuter Allee zwischen Heideckstraße und Braganzastraße für den Fahrradverkehr freigeben
+- TOP 3.2.3.: Zamboninistraße: Haltverbot Nordseite / Schrägparker Südseite
+- TOP 3.2.4.: Parkplatzsituation im Bereich Hedwig-Dransfeld-Allee
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Parkscheinautomaten-Standorte für die Parklizenzgebiete Rotkreuzplatz Nord & Süd
+- TOP 3.3.2.: Untersuchung zur Einführung einer Parklizensierung westlich des Winthirplatzes
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Standorte der Parkscheinautomaten in der Wendl-Dietrich-Straße
+- TOP 3.4.2.: Kontrolle Parkplätze und Parkstreifen im 9. Stadtbezirk
+- TOP 3.4.3.: Frundsbergstraße - Verkehrsberuhigung im Bereich Platz der Freiheit
+- TOP 3.4.4.: Begrünung der Klarastraße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: Radroute Olympiapark-Maxvorstadt
+- TOP 3.5.2.: Probleme mit Radverkehr am Seniorenwohnheim Menzinger Straße
+- TOP 3.5.3.: Unterrichtung über verkehrsrechtliche Anordnungen: - Pfänderstraße 36 - Blutenburgstraße 73 - Schäringerplatz 6
+- TOP 3.5.4.: Baumaßnahmen rund um den Romanplatz - bereits erfolgte Maßnahmen an der provisorischen Wendeschleife - anstehende Maßnahmen mit Einschränkungen des Straßenverkehrs - vorübergehende Änderungen im Tram- und Busfahrplan
+- TOP 3.5.5.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Anhörung zu Bauvorhaben: - Klarastraße 11 / Marsstraße 76 - Errichtung von drei Wohngebäuden - Böcklinstraße 10a - Abbruch und Neuerrichtung eines Reihenhauses - Leonrodstraße 75 - Dachgeschossausbau
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Denkmalwürdigkeit des Anwesens Savoyenstr. 7
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Unterrichtung über Bauvorhaben
+- TOP 4.5.2.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 4.5.3.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 4.5.4.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 4.5.5.: (U) Überprüfung und Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 3 – Maxvorstadt und 9 – Neuhausen-Nymphenburg Satzungsbeschluss Erhaltungssatzung „St.- Benno-Viertel“
+- TOP 4.5.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.7.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Baumpflanzung an der Gabelung Gaßnerstr. / Hippmannstraße
+- TOP 5.2.2.: Frequentierung des Platzes Ruffinistraße / Waisenhausstraße / Nymphenburger Straße
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: BA11: Antrag "Plastikproblematik - Veranstaltungen an Grundschulen im 11. Stadtbezirk" mit der Bitte um Unterstützung
+- TOP 5.3.2.: Antrag auf Baumfällungen: - Prinzenstraße 73
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: Ansaat von Blumenwiesen: - Margarethe-Danzi-Straße - Schloßschmidstraße - Tizianplatz
+- TOP 5.5.2.: Baumentfernungen auf öffentlichem Grund
+- TOP 5.5.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Kunsthaus Raab Die Verlängerung im Kunsthaus Raab vom 18.01.-28.02.2019 10.770,00 € Az: 0262.0-9-0312
+- TOP 7.1.2.: (E) Stadtbezirksbudget fructa – Initiative für kreativen Austausch Ausstellung "Mara Novak" vom 31.01.-10.03.2019 750,00€; Az.: 0262.0-9-0313
+- TOP 7.1.3.: (E) Stadtbezirksbudget Deutsches Forum für Musik- und Theaterkultur e.V. Sehnsucht.Musik.Ankunft. Ein Konzert der Kulturen. Am 07.02 und 08.02.2019 5.000,00€; Az.: 0262.0-9-0318
+- TOP 7.1.4.: (E) Stadtbezirksbudget Kollektiv yvjo Das Wissen der Vielen. Ein digitales Archiv für das Kreativquartier München. 6.900,00€; Az.: 0262.0-9-0316
+- TOP 7.1.5.: (E) Stadtbezirksbudget Kollektiv yvjo Werkstatt Kreativquartier vom 23.02-24.02.2019 2.500,00€; Az.: 0262.0-9-0315
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.4.1.: Proberäume im Stadtteil Neuhausen-Nymphenburg
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Kultur
+- TOP 7.5.2.: Umbenennung Hilblestraße
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.3: Anhörungen
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Weihnachtsmarkt Rotkreuzplatz - Ausweichstandort Wochenmarkt
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Faschingstreiben auf dem Rotkreuzplatz vom 03.-05.03.2019
+- TOP 9.3.2.: Tollwood-Sommerfestival vom 26.06.-21.07.2019
+- TOP 9.3.3.: Lilalu-Familienferienprogramm vom 02.08.-07.09.2019
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Fortführung / Neuerrichtung von Gaststätten - "L&#039;Osteria Piccola", Schulstraße 1 - "Auszeit", Renatastraße 35 - "Lilli P.", Lilli-Palmer-Straße 2
+- TOP 9.5.2.: (U) Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS-)
+- TOP 9.5.3.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat
+- TOP 9.5.4.: (U) Mehrjahresinvestitionsprogramm 2018-2022; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 9.6: Verschiedenes
+- TOP 10.: Verschiedenes
