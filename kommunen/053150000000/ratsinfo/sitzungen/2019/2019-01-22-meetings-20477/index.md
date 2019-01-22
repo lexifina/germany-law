@@ -1,0 +1,61 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-22T17:00:00+01:00
+- Ende: 2019-01-22T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20477
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20477
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP -: C - Vortrag GAG zur Bebauung des Eckgrundstücks Hauptstraße/Poststraße
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Rad- und Fußweg am Rhein von Westhoven bis Porz (Az.: 02-1600-143/18) - geändert beschlossen
+- TOP 2.1.1: Änderungsantrag der SPD-Fraktion zu TOP 2.1 - Leinpfad - Sache ist erledigt
+- TOP 2.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - Sammelumdruck - - mit Änderungen empfohlen
+- TOP 7.1.1: Änderungsantrag der SPD-Fraktion zu TOP 7.1 - Standorte E-Parkplätze - ungeändert beschlossen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Beibehaltung und Ausweitung der dualen Radverkehrsführung in Köln-Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - zurückgestellt
+- TOP 7.2.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2 - Radverkehrsführung Siegburger Straße - zurückgestellt
+- TOP 7.3: Trinkbrunnen für Köln - mit Änderungen empfohlen
+- TOP 7.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - mit Änderungen empfohlen
+- TOP 7.4.1: Änderungsantrag der SPD-Fraktion zu TOP 7.4: Integriertes Stadtentwicklungskonzept - geändert beschlossen
+- TOP 7.4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Aufhebung des Aufstellungsbeschlusses zum B-Planverfahren 71410/06, Arbeitstitel: Gewerbegebiet Westhoven in Köln-Porz-Westhoven - ungeändert empfohlen
+- TOP 7.6: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte - Revitalisierung des Porzer Zentrums - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Vorstellung des neuen Amtes für Integration und Vielfalt - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Sachstandsbericht Ausbau Frankfurter Straße - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion: Sachvortrag zum Thema Sauberkeit durch die AWB - ungeändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion: Sachvortrag über den Glückspielstaatsvertrag NRW - ungeändert beschlossen
+- TOP 8.5: Antrag der CDU-Fraktion: „Vorlage AN/1246/2014: Antrag der CDU-Fraktion: Verbesserung der Verkehrssituation im - ungeändert beschlossen
+- TOP 8.6: Dringlichkeitsantrag der SPD-Fraktion: Langeler Berg - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Fahrradführung Frankfurter Straße - Kenntnis genommen
+- TOP 9.1.2: Haltverbot Sankt-Sebastianus-Straße in Porz-Wahn - Kenntnis genommen
+- TOP 9.1.2.1: Anfrage der SPD-Fraktion: Halteverbot St. Sebastianus-Straße in Wahn - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.3: Verkehrssituation im Bereich Poller Hauptstraße/Maifischgasse in Köln-Poll - Kenntnis genommen
+- TOP 10.2.4: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
