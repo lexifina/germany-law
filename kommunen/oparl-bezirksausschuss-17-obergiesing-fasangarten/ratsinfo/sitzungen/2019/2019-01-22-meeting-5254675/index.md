@@ -1,0 +1,152 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-01-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5254675
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5254675
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 1.3.1.: Benennung einer/eines Beauftragten für Genderangelegenheiten
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Referat für Stadtplanung und Bauordnung zum Sachstand im Bebauungsplanverfahren Münchberger Straße
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.1: Integration
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: cuatro-c Tanzstudion, Untere Grasstraße 9; Bürgeranliegen (E-Mail) vom 05.12.18 (vertagt vom 11.12.18)
+- TOP 2.1.2.2.: Bauvorhaben Balanstraße 369; Nachbareinwendungen; 2 Bürgerschreiben vom 21.12.18 und 06.01.19
+- TOP 2.5.1.: Positionspapier der Koordinierungsgruppe Giesing (KGG); Stellungnahmen von Regsam, der Schulleitungsrunde sowie der Pfarreien; Entwurf für einen Antrag des BA 17
+- TOP 3.9.1.1.: Balanstraße 361, 1 Robinie, 1 Birke
+- TOP 3.9.1.2.: Tegernseer Landstraße 281 (Nachbargrundstück), 2 Birken
+- TOP 4.1.: Geplanter Großmengen-Wertstoffhof in der Fasangartenstraße; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.2.: Vertrauen schaffen durch Transparenz bei der Vergabe von Kinderbetreuungsplätzen ! Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.3.: Untragbare Zustände bei der "TeLa-Post"; Antrag der CSU-Fraktion
+- TOP 5.1.1.: (E) Stadtbezirksbudget Chinesisches Kulturzentrum München e.V. Chinesisches Neujahrsfest; 2019 20-jährige Jubiläumsfeier am 02.02.2019 1.600,00 € AZ: 0262.0-17-0194
+- TOP 5.1.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Sankt-Martin-Straße Theaterprojekt vom 03.04.2019 - 10.04.2018 1.800,00€; Az.: 0262.0-17-0191
+- TOP 5.1.3.: (E) Stadtbezirksbudget Förderverein des Asam-Gymnasiums e.V. MfM-Projekt März 2019 350,00€; Az.: 0262.0-17-0192
+- TOP 5.1.4.: (E) Stadtbezirksbudget Förderverein des Asam-Gymnasiums e.V. Sommerfest Ende Juli 2019 170,00€; Az.: 0262.0-17-0193
+- TOP 5.1.5.: (E) Stadtbezirksbudget Verein Freunde Giesings e.V. Schäfflertanz am 15.02.2019 704,50 € AZ: 0262.0-17-0195
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: 21. St.-Quirin-Fest am 05.07.18; Kurzberichte der Veranstalter
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Brauerei in der Tegernseer Landstraße 337, Änderung des bisherigen Flächennutzungsplanes; Anhörung durch das Referat für Stadtplanung und Bauordnung vom 20.12.18 zum Beschlussentwurf
+- TOP 6.1.3.2.: 6.1.3.2 Anhörungen zu Bauvorhaben im Einzelfall 6.1.3.2.1 Alpenstraße 15, Neubau zweier Wohngebäude (VGB + RGB) mit jeweils erdgeschossiger Büronutzung und Tiefgarage - Vorbescheid
+- TOP 6.1.3.3.: 6.1.3.2.2 Alpenstraße 17, Neubau eines Wohngebäudes (RGB) mit Tiefgarge sowie Sanierung, Umbau und Erweiterung des Vordergebäudes - Vorbescheid
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 26.11. bis 30.12.2018
+- TOP 6.1.4.2.: Auguste-Kent-Platz: Protokoll der Informations- und Beteiligungsveranstaltung vom 12.12.18 und Gestaltungsvorschlag des Baureferates für den Trinkbrunnen
+- TOP 6.1.4.3.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 6.1.4.4.: Stärkere Beteiligung der Bürger am Bebauungsplan des Planungsgebietes zwischen Autobahn A8 München-Salzburg und der Münchberger Straße
+- TOP 6.1.4.5.: Erstellung von Zwischenbescheide über das Baugebiet an der Münchberger Straße zu Information der Bürgerinnen und Bürger
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP 6.3.1.1.: Parkraummanagement in Obergiesing (Vorschläge für Kurzparkregelungen, Lade- und Lieferzonen sowie Namensgebung), vertagt vom 11.12.18
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Benutzungspflicht der Fahrradwege entlang der Fasangartenstraße
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Grenzstraße, Fahrbahnsanierung; Erinnerungsverfahren des Baureferates-Tiefbau vom 10.12.18
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Umstieg auf effizientere Tempokontrollen im Straßenverkehr mittels Lasermesstechnik oder Abschnittskontrolle und Erhöhung der Anzahl an Messgeräten
+- TOP 6.3.4.2.: Anpassung der Richtlinien für die Errichtung von Wartehallen der MVG
+- TOP 6.3.4.3.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Schlierseestraße; Verkehrsrechtliche Anordnung des KVR vom 17.08.18
+- TOP 6.3.4.4.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Deisenhofener Straße (Heckscher Förderzentrum und Krankenhaus); Verkehrsrechtliche Anordnung des KVR vom 22.10.18
+- TOP 6.3.4.5.: Severinstraße; Erweiterung der Tempo-30-Zone Nr. 104; Verkehrsrechtliche Anordnung des KVR vom 25.07.18
+- TOP 6.3.4.6.: Untersbergstraße 68 / 70; Beschilderung mit Gefahrzeichen "Kinder"; Verkehrsrechtliche Anordnung des KVR vom 19.10.18
+- TOP 6.3.4.7.: Tegernseer Landstraße / St.-Quirin-Platz, Brückenbauwerk; Verbot für Fahrzeuge über 30 t; Verkehrsrechtliche Anordnung des KVR vom 11.12.18
+- TOP 6.3.4.8.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 6.3.4.9.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Bepflanzung zweier freier Flächen zwischen Parkbuchten
+- TOP 6.4.4.2.: Unterrichtungen über bevorstehende Entfernungen von Gefahrenbäumen; Schreiben des Baureferats-Gartenbau vom 13.11.18 mit entsprechender Liste (Ostfriedhof)
+- TOP 6.4.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.4.6.1.: Plastikproblematik - Veranstaltungen an Grundschulen; Antrag des BA 11 - Milbertshofen - Am Hart - vom 12.12.18 mit der Bitte um Unterstützung
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.5.6.1.: Stellungnahme des Bezirksausschusses Altstadt-Lehel zur Wahl des Kulturreferenten der Landeshauptstadt München
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: (U) Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS-)
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
