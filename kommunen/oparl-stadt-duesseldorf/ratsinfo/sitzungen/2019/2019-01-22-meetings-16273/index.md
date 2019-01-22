@@ -1,0 +1,56 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-01-22T16:00:00+01:00
+- Ende: 2019-01-22T18:00:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16273
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16273
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333785.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333785.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333785.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Hellerhofer Bürgerverein - Vorstellung der Arbeit und Zielsetzungen des Vereins - - zur Kenntnis genommen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Repräsentationsfonds des Bezirksbürgermeisters - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der BV 10, Zuschuss an die Alfred-Herrhausen-Schule - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Ungepflegtes Grundstück zwischen dem Kindergarten Koblenzer Straße und dem Garather SV - schriftlich beantwortet
+- TOP 5.2: Tarif - Fahrt nach Langenfeld mit einem Aboticket des VRR der Preisstufe A - schriftlich beantwortet
+- TOP 5.3: Veränderte Parkmöglichkeiten im Hauptzentrum von Garath, Parkplatz an der Peter-Behrens-Straße - schriftlich beantwortet
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Veränderte Wegebeleuchtung an der Johannes-Radke-Straße - vertagt
+- TOP 6.2: Bauarbeiten auf der Peter-Behrens-Straße - schriftlich beantwortet
+- TOP 6.3: Fahrbahndecke Frankfurter Straße in Höhe Heizkraftwerk/TÜV - schriftlich beantwortet
+- TOP 6.4: Nachfrage zum Zustand der Straßendecke Frankfurter Str. nach Verlegung der Fernwärmerohre - schriftlich beantwortet
+- TOP 6.5: Ausbau der Linksabbiegespur Rostocker Straße - vertagt
+- TOP 6.6: Handlungsbedarf beim Angebot an Pflegeplätzen - schriftlich beantwortet
+- TOP 6.7: Arbeiten der Stadtwerke im Einkaufszentrum Garath Süd /West - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Kommunaler Sicherheitstag 2019 - einstimmig beschlossen
+- TOP 7.2: Übertragung der zum Jahresende 2018 nicht verausgabten Verfügungsmittel in das Jahr 2019 - einstimmig beschlossen
+- TOP 7.3: Einladung der Leiterin der Freizeitstätte Garath - einstimmig beschlossen
+- TOP 7.4: Maßnahmen zur Steigerung der Nutzung des öffentlichen Nahverkehrs - mehrheitlich beschlossen
+- TOP 7.5: Tempobegrenzung A 59 - einstimmig beschlossen
+- TOP 7.6: Anschaffung einer kabellosen Mikrofonanlage - einstimmig beschlossen
+- TOP 7.7: Schaffung von zusätzlichen Parkmöglichkeiten auf der Koblenzer Straße in Düsseldorf - einstimmig beschlossen
+- TOP 7.8: Sachstandbericht zum Angebot und Vergabe der Hallennutzungszeiten im Stadtbezirk 10 und angrenzenden - einstimmig beschlossen
+- TOP 7.9: Einrichtung einer wald,-bzw.umweltpädagogischen Einrichtung (Waldschule) als ein besonderer Lernort - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Reinigen von Verkehrszeichen, Straßennamensschilder sowie anderer Hinweisschilder im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 8.2: Verbesserung des Anschlussgrades an die blaue Tonne und Abschaffung der Bündelsammlung - zur Kenntnis genommen
+- TOP 8.3: Errichtung von Werbeanlagen im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 8.4: Konzept für die Ertüchtigung der Geländer an Ingenieurbauwerken und provisorische Sicherung für den - zur Kenntnis genommen
+- TOP 8.5: Maßnahmen gegen das Insektensterben - zur Kenntnis genommen
+- TOP 8.6: Dachbegrünung SOS-Kinderdorf - Garath 2.0 - zur Kenntnis genommen
+- TOP 8.7: Anmeldezahlen Grundschulen 2019/2020 - zur Kenntnis genommen
+- TOP 9: Verschiedenes
