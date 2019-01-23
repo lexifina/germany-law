@@ -1,0 +1,57 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-01-23T17:00:00+01:00
+- Ende: 2019-01-23T21:35:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4019
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4019
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 14.11.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 12.12.2018 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 6: Fortsetzung Bundesprogramm Kindertagespflege und anschließende kommunale Förderung - ungeändert beschlossen
+- TOP 7: Haushaltsberatungen einschließlich Stellenplan:
+- TOP 7.1: Haushaltsreden
+- TOP 7.2: Stellenplan 2019 und Entwicklung der Personal- und Versorgungsaufwendungen 2019 - ungeändert beschlossen
+- TOP 7.3: Haushaltsplanberatungen 2019 - ungeändert beschlossen
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 9: Neufassung des Quotenbeschlusses -Gemeinsamer Tagesordnungsantrag der Fraktionen CDU und SPD vom 29.05.2018 - vertagt
+- TOP 10: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2019 - geändert beschlossen
+- TOP 11: Anlage zum Gleichstellungsplan der Stadtverwaltung Aachen, Evaluation mobile Arbeit, Neuregelungen zur Teilzeit - ungeändert beschlossen
+- TOP 12: Bericht über die Prüfung des Jahresabschlusses 2017 - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 974 - Kornelimünster West/August-Macke-Straße - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/ Walheim zwischen Schleckheimer Straße und August-Macke-Straßehier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: Bebauungsplan Nr. 987 - Wilmersdorfer Straße/ Friedhof Hüls - für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Wilmerdorfer Straße und Friedhof Hülshier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 15: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen Michaelsbergstraße, Friedrich-Ebert-Allee und Zeise - ungeändert beschlossen
+- TOP 16: Benennung von 2 stimmberechtigten Delegierten für die 40. ordentliche Hauptversammlung des Deutschen Städtetages vom 4. bis 6. Juni 2019 in Dortmund - geändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - ungeändert beschlossen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 18: Ratsanträge - ungeändert beschlossen
+- TOP 19: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 19.1: Umbesetzungsantrag der Ratsgruppe "Allianz für Aachen" - ungeändert beschlossen
+- TOP 19.2: Umbesetzungsantrag der SPD-Fraktion vom 22.01.2019 - geändert beschlossen
+- TOP 20: Mitteilungen der Verwaltung
+- TOP 21: Umsetzung des Prostituiertenschutzgesetzes in Aachenhier: Gemeinsamer Tagesordnungsantrag der Fraktionen von CDU, SPD, GRÜNE, DIE LINKE, FDP und PIRATEN vom 08.01.2019
+- TOP 22: Dienstanweisung Finanzbuchhaltung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
