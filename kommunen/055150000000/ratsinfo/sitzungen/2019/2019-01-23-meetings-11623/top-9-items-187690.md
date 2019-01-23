@@ -1,0 +1,7 @@
+# TOP 9: Jahresprogramm 2019 des Ausschusses für Soziales, Stiftungen, Gesundheit, Verbraucherschutz und Arbeitsförderung
+
+- Sitzung: Sitzung (2019-01-23)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/187690
+- Ergebnis: einstimmig geändert beschlossen
