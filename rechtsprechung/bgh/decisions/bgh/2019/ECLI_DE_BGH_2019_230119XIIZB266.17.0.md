@@ -1,0 +1,368 @@
+---
+ecli: "ECLI:DE:BGH:2019:230119XIIZB266.17.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 266/17"
+decided: "2019-01-23"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2019&Sort=1&Seite=6&nr=92934&anz=2959&pos=187&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2019-01-23_XII_ZB_266_17_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/pstg/0001.md", "germany/bund/acts/pstg/0009.md", "germany/bund/acts/pstg/0010.md", "germany/bund/acts/pstg/0021.md", "germany/bund/acts/pstg/0025.md", "germany/bund/acts/pstg/0026.md", "germany/bund/acts/pstg/0036.md", "germany/bund/acts/pstg/0049.md", "germany/bund/acts/pstg/0054.md", "germany/bund/acts/pstv/0005.md", "germany/bund/acts/pstv/0007.md", "germany/bund/acts/pstv/0021.md", "germany/bund/acts/pstv/0025.md", "germany/bund/acts/pstv/0033.md", "germany/bund/acts/pstv/0035.md", "germany/bund/acts/pstv/0036.md"]
+---
+
+# Bundesgerichtshof, XII ZB 266/17 vom 2019-01-23
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                               BESCHLUSS
+XII ZB 266/17
+
+                                       vom
+
+                                 23. Januar 2019
+
+                            in der Personenstandssache
+
+Nachschlagewerk:       ja
+
+BGHZ:               nein
+
+BGHR:                  ja
+
+
+
+PStG §§ 21, 25, 36; PStV § 35
+
+
+Zur Nachbeurkundung einer Auslandsgeburt trotz nicht feststellbaren genauen
+Geburtsdatums (im Anschluss an Senatsbeschluss vom 23. Januar 2019
+- XII ZB 265/17 - zur Veröffentlichung in BGHZ bestimmt).
+
+BGH, Beschluss vom 23. Januar 2019 - XII ZB 266/17 - OLG Hamm
+                                                      AG Bielefeld
+
+
+
+
+ECLI:DE:BGH:2019:230119BXIIZB266.17.0
+
+                                         -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 23. Januar 2019 durch
+    den   Vorsitzenden     Richter   Dose,        die   Richter   Prof. Dr. Klinkhammer,
+    Dr. Nedden-Boeger und Guhling und die Richterin Dr. Krüger
+
+    beschlossen:
+
+
+          Dem Betroffenen wird als Beschwerdeführer für das Rechtsbeschwerdeverfahren ratenfreie Verfahrenskostenhilfe bewilligt und
+          Rechtsanwältin                   beigeordnet.
+
+          Auf die Rechtsbeschwerden des Betroffenen und der weiteren Beteiligten zu 1 und 2 wird der Beschluss des 15. Zivilsenats des
+          Oberlandesgerichts Hamm vom 20. April 2017 aufgehoben.
+
+          Die Sache wird zur erneuten Behandlung und Entscheidung, auch
+          über die Kosten des Rechtsbeschwerdeverfahrens, an das Oberlandesgericht zurückverwiesen.
+
+          Wert: 5.000 €
+
+
+
+
+                                       Gründe:
+
+                                             I.
+
+1         Die Beteiligten streiten um die Nachbeurkundung der Geburt des Betroffenen.
+
+2         Der Beteiligte zu 1 ist irakischer Staatsbürger und hält sich seit 1999 in
+    Deutschland auf. Die nach ihren Angaben mit ihm verheiratete Beteiligte zu 2 ist
+    ebenfalls irakische Staatsangehörige. Sie reiste 2001 mit fünf im Irak gebore-
+
+                                          -3-
+
+
+
+    nen Kindern, unter anderem dem Betroffenen, nach Deutschland ein. Ein weiteres Kind gebar sie im September 2001 in Deutschland. Der Betroffene ist - wie
+    die Beteiligten zu 1 und 2 - anerkannter Flüchtling im Sinne der Genfer Flüchtlingskonvention (GFK).
+
+3         Die Beteiligten zu 1 und 2 haben gegenüber dem Standesamt (Beteiligter
+    zu 3) die Nachbeurkundung der Geburt des Betroffenen beantragt. Das Standesamt hat die Nachbeurkundung wegen ungeklärter Identität des Betroffenen
+    und der Beteiligten zu 1 und 2 verweigert.
+
+4         Das Amtsgericht hat den Antrag der Beteiligten zu 1 und 2, das Standesamt zur Beurkundung anzuweisen, abgelehnt. Die Beschwerde der Beteiligten
+    zu 1 und 2 ist vom Oberlandesgericht zurückgewiesen worden. Dagegen richten sich die zugelassenen Rechtsbeschwerden der Beteiligten zu 1 und 2 und
+    des Betroffenen, die die Anweisung des Standesamts zur Nachbeurkundung
+    weiterverfolgen. Für zwei weitere Kinder sind vor dem Senat unter den Aktenzeichen XII ZB 265/17 und XII ZB 267/17 gleichgerichtete Rechtsbeschwerdeverfahren anhängig.
+
+
+
+
+                                           II.
+
+5         Die Rechtsbeschwerden haben Erfolg.
+
+6         1. Nach Auffassung des Oberlandesgerichts scheitert die Nachbeurkundung daran, dass eine Feststellung des tatsächlichen Geburtsdatums des Kindes ausgeschlossen sei. Eine solche sei für eine Nachbeurkundung rechtlich
+    unverzichtbar.
+
+                                         -4-
+
+
+
+7         Den Beteiligten zu 1 und 2 seien die Geburtsdaten ihrer Kinder nicht erinnerlich. Die Geburtsdaten hätten nach ihren Angaben in ihrem Kulturkreis keinerlei Bedeutung, eine Feier von Geburtstagen gebe es nicht. Auch die vorgelegten Personenstandsurkunden ermöglichten keine hinreichend sichere Feststellung des Geburtsdatums. Diese unterlägen mangels Legalisation nicht nur
+    hinsichtlich ihrer Echtheit, sondern auch ihres Inhalts der freien Beweiswürdigung. Das irakische Registrierungsverfahren werde teilweise aufgrund bewusst
+    unrichtiger Gefälligkeitsbescheinigungen und der offenkundig nicht überprüften
+    Angaben Dritter durchgeführt, die im konkreten Fall mehr als 500 Kilometer vom
+    Ort des Geschehens entfernt gewesen seien. Es dokumentiere offenbar bewusst einen falschen Geburtsort und sei nicht bereit, einen aus den eigenen
+    Urkunden ersichtlichen Fehler zu korrigieren. Das Verfahren könne daher zu
+    keinen Registerinhalten führen, die ihrerseits Grundlage einer Beurkundung in
+    Deutschland sein könnten.
+
+8         Das Defizit lasse sich nicht durch die Anwendung der sogenannten Annäherungstheorie beheben. Diese Möglichkeit scheide für das Geburtsdatum
+    jedenfalls im Fall der Nachbeurkundung aus. Die Annäherungstheorie diene
+    typischerweise dazu, die Beurkundung eines feststehenden Personenstandsfalls zu ermöglichen, auch wenn einzelne Personenstandsmerkmale im Sinne
+    von § 1 Abs. 1 PStG entweder überhaupt nicht bekannt oder nicht beweissicher
+    festgestellt werden könnten. Hier bestehe die Besonderheit darin, dass ein Fall
+    der Nachbeurkundung vorliege, eine Beurkundung also rechtlich nicht zwingend
+    geboten sei. Anstelle eines bestimmten Datums einen Zeitraum zu beurkunden,
+    lasse das Personenstandsrecht ausschließlich für den Eintrag im Sterberegister
+    zu. Fälle eines unbekannten bzw. nur annäherungsweise feststellbaren Geburtszeitpunkts regele das Gesetz dagegen nur in § 25 PStG und verweise diese in die Entscheidungszuständigkeit der Verwaltungsbehörde.
+
+                                          -5-
+
+
+
+9          Das deutsche Personenstandswesen sei auf die Beurkundung von Personenstandsfällen, also die amtliche Fixierung als feststehend erachteter Tatsachen ausgerichtet. Zwar könne nicht geleugnet werden, dass der Betroffene
+     geboren sei. Um das nachzuweisen, bedürfe es keiner Urkunde. Hinzutreten
+     müsse aber das statusbegründende Kerndatum des Personenstandsfalls, was
+     bei einer Heirat das Heiratsdatum und bei einer Geburt das Geburtsdatum sei.
+     Es bedürfe vorliegend keiner Entscheidung, ob eine Unsicherheit von bis zu
+     einem Tag der Beurkundung entgegenstünde. Denn im vorliegenden Fall lägen
+     keine verwertbaren Angaben vor, die in tatsächlicher Hinsicht die Überzeugung
+     begründen könnten, "dass der Betroffene tatsächlich in einem datumsmäßig
+     exakt eingrenzbaren Zeitraum geboren worden sei." Die Beteiligten zu 1 und 2
+     könnten sich nicht erinnern, und die Angaben in der Geburtsbescheinigung des
+     Krankenhauses seien ebenso wie das im Personenstandsregister eingetragene
+     Datum nach den eigenen Angaben der Beteiligten zu 1 und 2 nur fiktiv. Eine
+     zuverlässige zeitliche Eingrenzung des Geburtszeitraums könne deshalb lediglich aufgrund eines medizinischen Sachverständigengutachtens vorgenommen
+     werden. Es müsse jedoch damit gerechnet werden, dass ein auf diese Weise
+     gewonnenes Ergebnis zu einem Geburtszeitraum von deutlich mehr als einem
+     Jahr führe. Da entsprechende Untersuchungen bei allen fünf Kindern durchgeführt werden müssten, könne sich ergeben, dass die bei Anwendung der Annäherungsmethode in einen Geburtseintrag aufzunehmenden möglichen Geburtszeiträume von Geschwistern sich teilweise überschnitten und anhand der Geburtseinträge nicht mehr zweifelsfrei festgestellt werden könne, welches der
+     Geschwister das ältere sei. Das sei ein für das deutsche Personenstandsrecht
+     unvorstellbares Ergebnis.
+
+10         Das Fehlen einer exakten Feststellung des Geburtstags lasse sich nicht
+     durch Feststellungen zu weiteren Personenstandsmerkmalen kompensieren,
+     auch wenn diese im vorliegenden Fall, gegebenenfalls nach weiteren Ermittlun-
+
+                                          -6-
+
+
+
+     gen, sämtlich feststellbar seien. Das Datum bleibe das Merkmal, an das sich
+     verschiedene rechtliche Konsequenzen (Volljährigkeit, sozialrechtliche Folgen)
+     anknüpften. Auch für die Nachbeurkundung der Ehe sei weitgehend anerkannt,
+     dass hierzu zwingend das Heiratsdatum feststehen müsse. Das müsse entsprechend für die Nachbeurkundung der Geburt gelten.
+
+11         Es sei zwar nicht zu verkennen, dass die Unaufklärbarkeit des Geburtsdatums zu einer merklichen Einschränkung der Beurkundungsmöglichkeiten
+     nach § 36 PStG führen könne, wenn das Personenstandswesen des Geburtslands Defizite aufweise. Zur Auflösung der Problematik sei aber die Festsetzung des Geburtsdatums durch die Verwaltungsbehörde gemäß § 25 PStG
+     möglich und geboten. Soweit eine Anwendung auf im Ausland geborene Nichtdeutsche abgelehnt oder mit äußerster Zurückhaltung gesehen werde, sei dies
+     für den Anwendungsbereich des § 36 PStG falsch, da die Annäherungstheorie
+     bei einem nicht feststellbaren Geburtsdatum nicht greifen könne und die Standesämter zu fiktiven Festsetzungen nicht befugt seien. Ein völliges Absehen
+     von der Nachbeurkundung ließe den Anwendungsbereich des § 36 Abs. 1
+     Satz 3 PStG verkümmern.
+
+12         2. Das hält rechtlicher Nachprüfung nicht in allen Punkten stand.
+
+13         a) Nach § 36 Abs. 1 Satz 1 PStG kann, wenn ein Deutscher im Ausland
+     geboren oder gestorben ist, der Personenstandsfall auf Antrag im Geburtenregister oder im Sterberegister beurkundet werden; für den Besitz der deutschen
+     Staatsangehörigkeit ist der Zeitpunkt der Antragstellung maßgebend. Gleiches
+     gilt nach § 36 Abs. 1 Satz 3 PStG für Staatenlose, heimatlose Ausländer und
+     ausländische Flüchtlinge im Sinne des Abkommens über die Rechtsstellung der
+     Flüchtlinge mit gewöhnlichem Aufenthalt im Inland.
+
+                                          -7-
+
+
+
+14         Die Beurkundung der Auslandsgeburt steht mithin dem Betroffenen offen, der als Flüchtling im Sinne der Genfer Flüchtlingskonvention anerkannt ist
+     und seinen gewöhnlichen Aufenthalt in Deutschland hat. Auch wenn der Betroffene inzwischen volljährig sein dürfte, steht dies einer Nachbeurkundung der
+     Auslandsgeburt nach § 36 PStG nicht entgegen und lässt zudem die Antragsbefugnis der Beteiligten zu 1 und 2 als - hier zu unterstellende - Eltern gemäß
+     § 36 Abs. 1 Satz 4 Nr. 1 PStG unberührt.
+
+15         b) Das Oberlandesgericht sieht die Beurkundung zu Unrecht dadurch
+     gehindert, dass das Geburtsdatum des Betroffenen nicht feststellbar sei.
+
+16         aa) Im Ausgangspunkt zutreffend hat das Oberlandesgericht das Geburtsdatum als ein wesentliches Merkmal des Personenstands nach § 1 Abs. 1
+     PStG angesehen.
+
+17         Für die Nachbeurkundung der Auslandsgeburt ist nach § 36 Abs. 1
+     Satz 2 PStG die Vorschrift des § 21 PStG entsprechend anzuwenden. Gemäß
+     § 21 Abs. 1 PStG sind bei der Beurkundung der Geburt vor allem die Vornamen
+     und der Geburtsname des Kindes (Nr. 1), Ort sowie Tag, Stunde und Minute
+     der Geburt (Nr. 2), das Geschlecht des Kindes (Nr. 3) sowie die Vornamen und
+     die Familiennamen der Eltern (Nr. 4) zu beurkunden.
+
+18         Damit der eingetragene Geburtstag an der Beweiswirkung des Registers
+     nach § 54 Abs. 1 Satz 1 PStG teilnehmen kann, muss er vom Standesamt im
+     Rahmen der diesem nach § 9 PStG, § 5 PStV obliegenden Sachverhaltsermittlung aufgeklärt und zweifelsfrei festgestellt werden. Nach § 54 Abs. 1 Satz 1
+     PStG beweist die Beurkundung im Geburtenregister die Geburt und die darüber
+     gemachten näheren Angaben sowie die sonstigen Angaben über den Personenstand der Personen, auf die sich der Eintrag bezieht, wobei der Nachweis
+
+                                          -8-
+
+
+
+     der Unrichtigkeit der beurkundeten Tatsachen gemäß § 54 Abs. 3 Satz 1 PStG
+     zulässig ist.
+
+19          bb) Fehlt es für die Geburt oder ein anderes Personenstandsmerkmal an geeigneten Nachweisen nach § 33 PStV, stehen dem Standesamt
+     mehrere Möglichkeiten des Verfahrens offen (vgl. Berkl Personenstandsrecht
+     Rn. 225 ff.). Es kann - abgesehen von der Frage einer Zurückstellung der Beurkundung nach § 7 Abs. 1 PStV (vgl. Wall StAZ 2018, 165, 166) - weitere Ermittlungen einleiten, insbesondere gemäß § 10 PStG bezüglich der Beurkundung
+     der Geburt Auskünfte und Nachweise anfordern. Außerdem hat es die Möglichkeit einer Anrufung des Gerichts nach § 49 Abs. 2 PStG, die sich auch auf tatsächliche Zweifel beziehen kann (Berkl Personenstandsrecht Rn. 228 mwN).
+
+20          Lässt sich der Sachverhalt trotz Ausschöpfung aller zu Gebote stehenden Ermittlungsmöglichkeiten nicht aufklären, sieht § 35 PStV für bestimmte
+     Fälle die Möglichkeit vor, einen Zusatz aufzunehmen, der das Fehlen des
+     Merkmals erläutert. Außer dem in § 35 Abs. 1 Satz 1 PStV aufgeführten Fehlen
+     geeigneter Nachweise zu Angaben über die Eltern des Kindes wird davon etwa
+     auch der das Kind betreffende Zusatz "Namensführung nicht nachgewiesen"
+     erfasst, wenn Identität oder Namensführung der den Namen erteilenden Eltern
+     nicht geklärt ist (vgl. KG StAZ 2018, 217). Die Regelung in § 35 Abs. 1 PStV ist
+     Ausdruck des sogenannten Annäherungsgrundsatzes (Annäherungsmethode),
+     der von der Rechtsprechung bereits vor der Neuregelung des Personenstandsrechts zum 1. Januar 2009 angewendet worden ist. Danach wurden die erwiesenen Tatsachen eingetragen, während hinsichtlich der nicht belegten eintragungspflichtigen Tatsachen die Eigenangaben übernommen und mit einem Zusatz versehen wurden, der die Beweiskraft des Eintrags entsprechend einschränkte (vgl. BR-Drucks. 713/08 S. 97 f.; OLG Schleswig StAZ 2014, 242,
+     243 mwN).
+
+                                            -9-
+
+
+
+21          Durch die trotz verbleibender Unklarheiten erfolgte Beurkundung wird
+     neben dem staatlichen Ordnungsinteresse an der lückenlosen Registrierung
+     feststehender Personenstandsfälle insbesondere auch dem Anspruch des Betroffenen auf Beurkundung Rechnung getragen, ohne dass zugleich dem Registereintrag eine über die vom Standesamt gewonnenen Erkenntnisse hinausgehende Beweiswirkung verliehen wird.
+
+22          cc) Das beschriebene Verfahren wird entgegen der Auffassung des
+     Oberlandesgerichts nicht dadurch ausgeschlossen, dass hinsichtlich einzelner
+     ungeklärter Merkmale die Möglichkeit einer Bestimmung des Personenstands
+     nach § 25 PStG besteht. Das gilt auch bezüglich des Geburtsdatums jedenfalls
+     dann, wenn der Personenstandsfall als solcher, im vorliegenden Fall also die
+     Geburt, feststeht und die Identität des Betroffenen geklärt ist.
+
+23          (1) Nach § 25 Satz 1 PStG bestimmt für eine im Inland angetroffene Person, deren Personenstand nicht festgestellt werden kann, die zuständige Verwaltungsbehörde, welcher Geburtsort und Geburtstag für sie einzutragen ist; sie
+     bestimmt ferner die Vornamen und den Familiennamen.
+
+24          Die in erster Linie für den Fall eines vollständig unklaren Personenstands
+     und eine fehlende Anzeige geschaffene Vorschrift ist darüber hinaus auch eröffnet, wenn eine Anzeige oder ein Antrag nach § 36 PStG gestellt wird und nur
+     einzelne Personenstandsmerkmale unbekannt sind (Gaaz/Bornhofen/Gaaz
+     Personenstandsgesetz 4. Aufl. § 25 Rn. 3 mwN; Berkl Personenstandsrecht
+     Rn. 468). Dass im vorliegenden Fall nach den Feststellungen des Oberlandesgerichts nur das Geburtsdatum unbekannt ist, steht dessen Bestimmung durch
+     die Verwaltungsbehörde mithin nicht im Wege (OVG Lüneburg Urteil vom
+     27. Oktober 1981 - 8 OVG A 41/81 - Umdruck S. 9 f.; VG Braunschweig StAZ
+     1980, 74; Gaaz/Bornhofen/Gaaz Personenstandsgesetz 4. Aufl. § 25 Rn. 3).
+
+                                         - 10 -
+
+
+
+     § 25 PStG ermöglicht eine ersatzweise Festsetzung des Personenstands durch
+     Verwaltungsakt. Sachlich zuständige Behörde ist in Nordrhein-Westfalen nach
+     § 3 Abs. 1 iVm § 2 Nr. 1 Personenstandsverordnung NRW vom 16. Dezember
+     2008 (PStVO NRW - GVBl. NRW 2008, 859) die untere Aufsichtsbehörde, im
+     vorliegenden Fall mithin der Beteiligte zu 4 als Standesamtsaufsicht. Das Verfahren kann von Amts wegen oder auf Antrag des Betroffenen eingeleitet werden (vgl. BVerwGE 25, 109 = NJW 1967, 458; Gaaz/Bornhofen/Gaaz Personenstandsgesetz 4. Aufl. § 25 Rn. 9). Wird nach einer Bestimmung später der
+     wirkliche Personenstand ermittelt, ist der Eintrag nach § 26 PStG auf Anordnung der Verwaltungsbehörde zu berichtigen.
+
+25         Dass der Geburtsort des Betroffenen außerhalb des Geltungsbereichs
+     des Personenstandsgesetzes liegt, dürfte eine Personenstandsbestimmung
+     nicht hindern (vgl. § 25 Satz 3 PStG sowie VG Braunschweig StAZ 1980, 74;
+     anders noch BVerwGE 25, 113 = NJW 1967, 458; BVerwGE 25, 109 = NJW
+     1967, 458 zu § 26 PStG aF).
+
+26         (2) Indessen kommt dem Verfahren nach § 25 PStG jedenfalls unter den
+     Umständen des vorliegenden Falls entgegen der Auffassung des Oberlandesgerichts kein Vorrang gegenüber der Nachbeurkundung gemäß § 36 PStG zu.
+
+27         Dafür kann dahinstehen, ob ein Verfahren nach § 25 PStG im vorliegenden Fall überhaupt erfolgversprechend wäre oder ob der Personenstand des
+     Betroffenen aufgrund der irakischen Registereinträge, deren Echtheit das Oberlandesgericht nicht in Zweifel zieht und auf deren Richtigkeit es nicht ankommt
+     (vgl. OVG Lüneburg Urteil vom 27. Oktober 1981 - 8 OVG A 41/81 - Umdruck
+     S. 9, 11), sogar feststeht. Abgesehen davon, dass § 25 PStG von der in § 36
+     Abs. 1 Satz 2 PStG enthaltenen Verweisung nicht umfasst wird, kann § 25
+     PStG ein tatbestandlicher Vorrang nur zukommen, wenn der unklare Personen-
+
+                                          - 11 -
+
+
+
+     stand eine Beurkundung des Personenstands ausschließt, weil es an festgestellten Daten fehlt und eine mit Beweiswirkung versehene Personenstandsbeurkundung in jeder Hinsicht ausgeschlossen ist. Dass nicht alle Personenstandsmerkmale für eine Beurkundung der Geburt vollständig festgestellt sein
+     müssen, belegt die Regelung in § 35 PStV, nach der eine Eintragung sogar
+     ohne Nachweise zu den Angaben über die Eltern erfolgen kann. Dass die Beurkundung der Geburt und die Personenstandsbestimmung in keinem Alternativverhältnis stehen, ergibt sich ferner daraus, dass nach § 25 PStG auch einzelne
+     Umstände im Wege der Personenstandsbestimmung festgestellt werden können. Dementsprechend hat auch das Oberlandesgericht im Fehlen anderer
+     Einzeldaten als des Geburtsdatums keinen Hinderungsgrund für die Beurkundung erblickt, obwohl deren Fehlen ebenfalls ein Verfahren nach § 25 PStG
+     ermöglichen würde.
+
+28         Folglich setzt eine Beurkundung nur voraus, dass der Personenstandsfall
+     als solcher und mithin die Identität des Betroffenen feststehen. Verbleibt bei
+     feststehendem Personenstandsfall auch nach erschöpfender Aufklärung durch
+     das Standesamt und gegebenenfalls durch das Gericht hinsichtlich einzelner
+     einzutragender Umstände eine Ungewissheit, schließt dies hingegen eine Eintragung für sich genommen noch nicht aus.
+
+29         Der vom Oberlandesgericht angeführte Vergleich von Geburts- und Eheschließungsdatum trägt die gegenteilige Auffassung nicht. Denn bei Geburt einer Person, deren Identität geklärt ist, steht der Personenstandsfall als solcher
+     selbst bei ungewissem Geburtsdatum fest. Dagegen stellt die Ungewissheit
+     über das Datum der Eheschließung zugleich diese selbst in Frage, weil die
+     Wirksamkeit der Eheschließung ohne Kenntnis vom Eheschließungsdatum bereits nicht abschließend geklärt werden kann. Anders als bei der Geburt steht
+
+                                         - 12 -
+
+
+
+     bei ungeklärtem Eheschließungsdatum daher schon der Personenstandsfall als
+     solcher nicht zweifelsfrei fest.
+
+30          Aus dem Umstand, dass § 36 PStG nur eine Nachbeurkundung vorsieht
+     und mithin eine Registrierung der Geburt im Ausland oft schon erfolgt ist, können schließlich entgegen der Auffassung des Oberlandesgerichts keine höheren Anforderungen an die Beurkundung abgeleitet werden. Denn § 36 PStG
+     begründet einen Anspruch auf Nachbeurkundung, der von weiteren als den gesetzlich genannten Voraussetzungen nicht abhängig ist.
+
+31          Stehen mithin die Geburt als Personenstandsfall und die Identität des
+     Kindes fest, ist die Beurkundung trotz des ungeklärten genauen Geburtsdatums
+     vorzunehmen. Dann ist das unter Berücksichtigung der Angaben der Beteiligten
+     wahrscheinlichste Geburtsdatum einzutragen und mit einem einschränkenden
+     Zusatz zu versehen. Das genaue Geburtsdatum ist zwar von wesentlicher Bedeutung für den Eintritt der Volljährigkeit und andere vom Lebensalter abhängige Rechte und Pflichten. Darin erschöpft sich aber die Bedeutung der Geburtsbeurkundung nicht. Bleibt nur die Richtigkeit des angegebenen Geburtsdatums
+     ungeklärt, so ergibt sich aus dem Geburtseintrag dennoch die für den Rechtsverkehr nützliche und wichtige Verlautbarung von Abstammung und Namen des
+     Kindes. Dadurch wird bei noch offensichtlicher Minderjährigkeit nicht zuletzt
+     auch die Feststellung ermöglicht, wer Inhaber der elterlichen Sorge für das
+     minderjährige Kind ist.
+
+32          Dass das genaue Geburtsdatum unklar ist, ist dann entsprechend § 35
+     Abs. 1 Satz 1 PStV durch einen entsprechenden Zusatz im Register zu vermerken. Entgegen der Auffassung des Oberlandesgerichts beruht die Beurkundung
+     dann nicht auf einer Befugnis des Standesbeamten zur fiktiven Festlegung,
+     denn die Beurkundung nimmt insoweit nicht an der Beweiskraft des Geburten-
+
+                                          - 13 -
+
+
+
+     registers teil. Im Übrigen würde das Geburtsdatum auch im Verfahren nach
+     § 25 PStG nicht konstitutiv festgelegt werden, sondern unterläge nach § 26
+     PStG einer später möglichen Berichtigung.
+
+33          (3) Bei trotz ungeklärten Geburtsdatums erfolgter Eintragung ist schließlich entsprechend § 35 Abs. 1 Satz 2 PStV folgerichtig keine Geburtsurkunde
+     auszustellen, sondern nur ein Auszug aus dem Register.
+
+34          3. Die angefochtene Entscheidung ist danach aufzuheben. Die Sache ist
+     an das Oberlandesgericht zurückzuverweisen, weil noch Feststellungen zu treffen sind, die es - aufgrund seines Rechtsstandpunkts konsequent - bislang
+     noch offengelassen hat.
+
+
+
+
+     Dose                        Klinkhammer                         Nedden-Boeger
+
+                 Guhling                             Krüger
+
+
+
+
+     Vorinstanzen:
+     AG Bielefeld, Entscheidung vom 04.03.2014 - 3 III 53/12 -
+     OLG Hamm, Entscheidung vom 20.04.2017 - I-15 W 153/14 -
