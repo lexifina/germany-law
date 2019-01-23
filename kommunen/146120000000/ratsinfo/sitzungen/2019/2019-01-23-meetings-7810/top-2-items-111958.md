@@ -1,0 +1,6 @@
+# TOP 2: Aktivitäten zur Schaffung von barrierefreien Wohnraum
+
+- Sitzung: 28. Sitzung des Beirates für Menschen mit Behinderungen (2019-01-23)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/111958
