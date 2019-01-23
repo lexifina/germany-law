@@ -1,0 +1,134 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-01-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5173808
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5173808
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP II.2.: Galerie Milchstr. 4: Vorstellung eines Ausstellungsprojektes 2019
+- TOP 2.1.: Auerfeldstr. 16: Abbruch und Neubau von vier Balkonen
+- TOP 2.2.: Einsteinstr. 101: Nutzungsänderung Erdgeschoss / Rückgebäude (Gewerbeeinheit zu Wohnung), Aufstockung des Mittelgebäudes zur Wohnungserweiterung sowie Anbau von Balkonen am Vordergebäude
+- TOP 2.3.: Einsteinstr. 127: Dachgeschoss-Teilausbau mit Dachsanierung und Weiterführung des Aufzugs ins Dachgeschoss
+- TOP 2.4.: Albanistr. 7: Errichtung von Balkonen
+- TOP 2.5.: Gaisbergstr. 7: Umbau einer Durchfahrt zu einer Zweizimmerwohnung
+- TOP 2.6.: Rosenheimer Str. 115: Umbau und Aufstockung eines Mehrfamilienhauses (ohne Änderung des Nutzungsschwerpunktes)
+- TOP 2.7.: Max-Weber-Platz 11: Sanierung Untergeschoss, Erdgeschoss und 1. Obergeschoss sowie Nutzungsänderung im Erdgeschoss eines denkmalgeschützten Wohn- und Geschäftshauses
+- TOP 2.8.: Innere Wiener Str. 19: Vergrößerung zweier Dachgauben zur Nutzung als 2. Rettungsweg
+- TOP 2.9.: Innere Wiener Str. 19: Nutzungsänderung im 2. Untergeschoss: Jazzkeller zu Kochschule ohne Baumaßnahme
+- TOP 2.13.: Lucile-Grahn-Str. 27: Neubau eines Balkons im 2. Obergeschoss
+- TOP 2.14.: Entenbachstr. 28: Einhausung des Anlieferhofs eines EDEKA-Markts
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Nachtrag: - Eilantrag zu A 8.3.1 - Eilantrag zu A 8.3.2 - Antrag zu B VI 3.1
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Prothetik und seelische Kraft" Tanztheater "Die Füße und Ohren der Engel" am 25.05.2019 und 26.05.2019 3.000,00€ - siehe auch UA Kultur -
+- TOP 8.1.1.: Nutzung der Räume der Akademie U5 (Anfrage)
+- TOP 8.1.2.: Kontrollen der KVÜ verstärken: Pariser Platz
+- TOP 8.1.3.: Jahrelanger Leerstand von Wohnraum am Johannisplatz 16 (Anfrage)
+- TOP 8.1.4.: Ausbau des Umweltverbundes in Au-Haidhausen; hier: Schutz des Schulhofes der Ernst-Reuter-Grundschule vor dem Lärm der Einsteinstraße (Ziffer 2 des Antrags)
+- TOP 8.2.1.: Antrag auf Markierung des Radweges an der Einmündung der Schlossstraße in die Einsteinstraße - Antwortschreiben Kreisverwaltungsreferat -
+- TOP 8.3.1.: Mehrjahresinvestitionsprogramm 2018-2022; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf Sitzungsvorlage Nr. 14-20 / V 13331 dazu: Eilantrag
+- TOP 8.3.2.: Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat Sitzungsvorlage Nr. 14-20 / V 13374 dazu: Eilantrag
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Stadtbezirksbudget Initiative "Prothetik und seelische Kraft" Tanztheater "Die Füße und Ohren der Engel" am 25.05.2019 und 26.05.2019 3.000,00€ Vertagung aus der Sitzung am 12.12.2018
+- TOP II.3.: Besichtigung der Sammlung der Geschichte der Freiwilligen Feuerwehr München
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Generalsanierung und ggfs. Erweiterung des Jugendtreffs in der Au BA-Antrag Nr. 14-20 / B 04394 Jugendtreff Au am Kegelhof, Aufgabe der Hortplanung BA-Antrag Nr. 14-20 / B 04928 Jugendtreff Au am Kegelhof 8, Aufgabe der Hortplanung BA-Antrag Nr. 14-20 / B 05550
+- TOP 3.2.: Anbieten von Veranstaltungen zum Thema Plastik an Grundschulen Antrag BA 11 Milbertshofen-Am Hart mit der Bitte um Unterstützung
+- TOP 3.3.: Umgestaltung der öffentlichen Grünfläche mit Kleinkinder- und Kinderspielbereich am Johannisplatz Vertagung aus der Sitzung am 12.12.2018
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Aufstellung eines Bauwagens im Hypopark für die Freilandgruppe der Kita Little Daisies
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kinderaktionen des AKA e.V.: a) Winterspielkistl im Hypopark täglich von 21.01.-25.01.2019 (Vorabzustimmung durch die Vorsitzende) b) Spielplatz am Kegelhof donnerstags von April - Oktober 2019 c) Johannisplatz montags ganzjährig d) Tassiloplatz vom 13.05.-17.05.2019 e) Hypopark dienstags April-Oktober 2019 und Quadrospielkistl vom 24.06.-28.06.2018 f) Postwiese montags und mittwochs von April-Oktober 2019 g) Postwiese am 05.05.2019 und vom 08.07.-12.07.2019 h) Postwiese Mittwoch ganzjährig sowie Spielwoche vom 22.07.-26.07.2019 sowie Schulabschlussfest am 24.07.2019 Hinweis zu b)-h): Fristverlängerung bis 24.01.2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Freischankflächen: Rücknahme von Genehmigungen
+- TOP 3.2.: (U) Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS-)
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.10.: Pariser Platz 2: Instandsetzung und Erhalt der Bausubstanz, Ertüchtigung des Brand- und Schallschutzes, Erneuerung und Modernisierung der Gebäudetechnik und Nutzungsänderung im Erdgeschoss
+- TOP 2.11.: Gebsattelstr. 15: Nutzungsänderung Dachgeschoss: Wohnheim zu Wohnung
+- TOP 2.12.: Kellerstr. 1: Einbau dreier Wohnungen im Dachgeschoss und Neubau Aufzug, Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Humboldtstr. 13, Vergrößerung des Ladens und Verkleinerung der Wohnung E 15, Ausgleichsfläche E 16 - Antwortschreiben Planungsreferat -
+- TOP 3.2.: Rechtliche Grundlage der Erweiterung des Bebauungsplans Nr. 2076 – Baugebiet 2 (2) ehem. Paulaner Gelände zwischen Hoch- und Regerstraße - Antwortschreiben Planungsreferat -
+- TOP 3.3.: (U) Auflösung des Treuhandvermögens der Münchner Gesellschaft für Stadterneuerung mbH: Ausschreibungsbeschluss für das Grundstück Metzgerstr. 5a, Flst. 17832/2, Gemarkung München Sektion IX für die Zielgruppe Baugenossenschaften Stadtbezirk 5 Au - Haidhausen
+- TOP 3.4.: Anforderung von Bauvorhaben - Rückantwort Planungsreferat -
+- TOP 3.5.: Jahrestreffen mit dem Planungsreferat (HA II) am 21.01.2019 oder 24.01.2019 jeweils 17 Uhr
+- TOP 3.6.: Bayerischer Landtag - Praterinsel 2 - Zustimmungsverfahren Treppe Maximiliansbrücke
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Wörthstr. 24: Fällung von 1 Fichte
+- TOP 2.2.: Langerstr. 3: Fällung von 1 Ahorn
+- TOP 2.3.: Ismaninger Str. 22: Fällung von 8 Robinien
+- TOP 2.4.: Am Lilienberg: Fällung von 1 Ahorn
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Mehr Platz für Fußverkehr – Wörthstraße / Breisacher Straße dazu: Antrag: Baustelleneinrichtung blockiert Fahrradschutzstreifen
+- TOP 3.2.: Radabstellplätze schaffen
+- TOP 3.3.: Kirchenstraße zwischen Seerieder- und Flurstraße, hier: Mobilitätsstation - Antwortschreiben Baureferat -
+- TOP 3.4.: Widerrechtliches Parken Preysingstr. 71 - Antwortschreiben KVR -
+- TOP 3.5.: Kreuzung Grillparzer/Einsteinstraße: Radquerung rot markieren
+- TOP 3.6.: Systematische Begrünung der Straßen im Stadtviertel
+- TOP 3.7.: Baumfällungsbescheid Orleansstr. 12
+- TOP 3.8.: Erinnerungsverfahren: Dollmannstraße, Parkbucht
+- TOP 3.9.: (U) Evaluation des intensivierten Winterdienstes auf Radverkehrsanlagen und Gehbahnen Radfahren in den Wintermonaten Antrag Nr. 14-20 / A 02943 von Frau Stadträtin Bettina Messinger, Frau Stadträtin Kathrin Abele, Frau Stadträtin Simone Burger, Frau Stadträtin Verena Dietl, Frau Stadträtin Renate Kürzdörfer, Frau Stadträtin Heide Rieke, Frau Stadträtin Dr. Constanze Söllner-Schaar, Herrn Stadtrat Haimo Liebich, Herrn Stadtrat Hans Dieter Kaplan, Herrn Stadtrat Gerhard Mayer, Herrn Stadtrat Dr. Ingo Mittermaier, Herrn Stadtrat Jens Röver, Herrn Stadtrat Klaus Peter Rupp und Herrn Stadtrat Christian Vorländer vom 09.03.2017 Sicheres Radeln auch im Winter ermöglichen Antrag Nr. 14-20 / A 03707 der BAYERNPARTEI Stadtratsfraktion vom 21.12.2017
+- TOP 3.10.: (U) 2. Stammstrecke München Empfehlungen 1. Gewährleistung der Sicherheit während des Betriebes der 2. S-Bahn Stammstrecke Empfehlung Nr. 14-20 / E 01492 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 18.05.2017 2. Bürgerinformation zur Baustelle der 2. S-Bahn Stammstrecke Empfehlung Nr. 14-20 / E 01930 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 01.03.2018
+- TOP 3.11.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 3.12.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 3.13.: Baumaßnahmen Kirchliches Zentrum Haidhausen Vertagung aus der Sitzung am 21.11.2018
+- TOP 3.14.: Umgestaltung der öffentlichen Grünfläche mit Kleinkinder- und Kinderspielbereich am Johannisplatz (siehe auch UA Soziales) hier: geplante Baumaßnahmen Kirchenstraße
+- TOP 3.15.: Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Parkmöglichkeiten Balan-/Auerfeldstraße
+- TOP 4.2.: Missbrauch von Feuerwehrzufahrtschildern
+- TOP 4.3.: Widerrechtliches Parken von gewerblichen Fahrzeugen am Bordeauxplatz
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 11.02.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 11.02.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 12.02.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 13.02.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 14.02.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 20.02.2019, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 05.02.2019, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Einladung zur Ausstellung "Aufstand für Frieden, Freiheit und Demokratie 1918/19" der Mittelschule an der Wörthstraße vom 13.01.-27.02.2019
+- TOP 4.3.: Bürgerversammlung - Bezirksteil Au am 21.02.2019 - Bezirksteil Haidhausen am 26.02.2019
