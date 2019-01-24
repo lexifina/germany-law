@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-24T16:00:00+01:00
+- Ende: 2019-01-24T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20380
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20380
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gedenkminute für Bahri Gülsen, ehemaliges Mitglied der Bezirksvertretung Innenstadt
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Qualifizierungmaßnahme Quartiersplatz Am Salzmagazin (Eigelstein); hier: Bedarfsfeststellungsbeschluss und Durchführung eines Qualifizierungsverfahrens - zurückgestellt
+- TOP 3.2: Planungs- und Bedarfsfeststellungsbeschluss für die Neugestaltung der Stadtbahnhaltestelle Bahnhof Deutz/Messe - mit Änderungen empfohlen
+- TOP 3.3: Trinkbrunnen für Köln - ungeändert empfohlen
+- TOP 3.4: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - mit Änderungen empfohlen
+- TOP 3.5: Verschoben zu Top 9.9 (nur Mitteilung)
+- TOP 3.6: Benennung eines Platzes nach Kurt Rossa in Köln-Innenstadt - ungeändert beschlossen
+- TOP 3.7: Bildungslandschaft Altstadt Nord (BAN) – Baubeschluss für Baufeld C - Abendgymnasium - ungeändert empfohlen
+- TOP 3.8: Belgisches Viertel in Köln-Neustadt/Nord; Verlängerung der Veränderungssperre; Teilbereich Köln-Neustadt/Nord - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Überprüfung der Kaianlagen in Köln - ungeändert empfohlen
+- TOP 4.2: Wiederinbetriebnahme Liegeplätze Deutzer Werft, Nothafen Deutzer Hafen, Kaianlagen Rheinauhafen - ungeändert empfohlen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Versetzung der Bänke in der Mühlengasse (Az.: 02-1600-146/18) - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Behindertenparkplatz Metzer Str. (Az.: 02-1600-168/18) - zurückgestellt
+- TOP 4.5: Baumpflanzungen Kyffhäuserstraße, Köln-Innenstadt - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verkehrsgefährdendes Falschparken vor dem Haus Deutzer Freiheit 93 - zurückgestellt
+- TOP 5.1.2: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.1.3: Vergabekonzept für Veranstaltungen in innenstädtischen Quartieren - endgültig abgelehnt
+- TOP 5.1.4: Autofreie Altstadt jetzt! - zurückgestellt
+- TOP 5.1.5: Haarnadeln an der Haltestelle Ubierring (Nordseite) - Sache ist erledigt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Tempo 50 auf der Inneren Kanalstraße, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.2: Dringende Änderung der Ampelschaltung Vorgebirgsstraße/Volksgartenstraße - zurückgestellt
+- TOP 5.2.2.1: Dringende Änderung der Ampelschaltung Vorgebirgsstraße/Volksgartenstraße
+- TOP 5.2.3: Umgestaltung des Fußgängerüberwegs Haltestelle Ubierring (Nordseite) - zurückgestellt
+- TOP 5.2.4: Erhalt des Hartung-Reliefs am WDR-Filmhaus an der Röhrergasse (Altstadt/Nord) - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Praxis für die Entsorgung von Schrottfahrrädern im öffentlichen Raum - zurückgestellt
+- TOP 6.1.2: Beschlusscontrolling Stadtverschönerungsmittel 2014 - 2017 - zurückgestellt
+- TOP 6.1.3: Straßenreinigung und Kontrollen Ordnungsamt Umfeld LANXESSarena
+- TOP 6.1.3.1: Straßenreinigung und Kontrollen des Ordnungsamtes im Umfeld LANXESSarena
+- TOP 6.1.4: Anfrage zum Verbleib der Bänke an der Ecke Moltkestraße und Neue Maastrichter Straße - zurückgestellt
+- TOP 6.1.5: Verkehrszählung Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 6.1.6: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.7: Ampelanlage Kreuzung im Bereich Im Sionstal/kleine Witschgasse/Follerstraße - Aktueller Stand, Gem. Anfrage - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Beleuchtung Klingelpützpark - zurückgestellt
+- TOP 6.2.2: Versetzung Glascontainer Eierplätzchen
+- TOP 6.2.2.1: Altglassammelcontainer im Bereich "Eierplätzchen"
+- TOP 6.2.3: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.2.4: Platzgestaltung Charles-de-Gaulles-Platz - zurückgestellt
+- TOP 6.2.5: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Quadrigen auf der Deutzer Freiheit
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Betreff: Pilotphase Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 9.2: Tempo 30 auf der Dr.-Simons-Straße - Kenntnis genommen
+- TOP 9.3: Maßnahmen auf dem Von-Sandt-Platz - Kenntnis genommen
+- TOP 9.4: Verbesserung der Situation am Herz-Jesu-Heim/Oberländer Wall - Kenntnis genommen
+- TOP 9.5: Behindertenparkplatz und Radabstellanlage Metzer Straße 39 - Kenntnis genommen
+- TOP 9.6: Verlängerung der Mietpreisbindungen - Kenntnis genommen
+- TOP 9.7: Integrierte Planung Parkstadt Süd; Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation; hier: Ergänzung zu der Mitteilung 1386/2018 - Kenntnis genommen
+- TOP 9.8: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 9.9: Sanierung des städtischen Gebäudes Blaubach 9, 50676 Köln Altstadt/Süd, zur Unterbringung von Geflüchteten - Haushaltsrechtliche Unterrichtung gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2018 der Stadt Köln - Kenntnis genommen
