@@ -1,0 +1,6 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Betriebsausschusses Kultur (2019-01-24)
+- Körperschaft: Aachen
+- Öffentlich: nein
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d61142c66dc3b5255b3fc
