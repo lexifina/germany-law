@@ -1,0 +1,81 @@
+# 59. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-01-24T16:00:00+01:00
+- Ende: 2019-01-24T22:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7540
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7540
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00388061.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Luftreinhalteplan" - erledigt
+- TOP 4: Luftreinhalteplan 2017 für die Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 5: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung durch Einreicher
+- TOP 6: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 6.1: Hilfe für Obdachlose bei den aktuellen Temperaturen - erledigt
+- TOP 6.2: Baumfällungen - erledigt
+- TOP 6.3: Sachstand - Hotel Stadt Rom - erledigt
+- TOP 6.4: Stand Umsetzung Omnibusbahnhof - erledigt
+- TOP 6.5: Beeinträchtigungen des Schulbetriebes und Sicherheit durch Bauarbeiten im Berufsschulzentrum Franz-Ludwig-Gehe - erledigt
+- TOP 6.6: Sicherstellung der „Geburtshilfeprämie“ - erledigt
+- TOP 6.7: Geplante Radstreifen auf der Albertstraße - erledigt
+- TOP 6.8: Grundstücke für Wohnbebauung - erledigt
+- TOP 7: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 7.1: Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit (Eigenbetrieb IT-Dienstleistungen) - Zustimmung
+- TOP 7.2: Ausschuss für Finanzen - Zustimmung
+- TOP 7.3: Ausschuss für Stadtentwicklung, Bau, Verkehr und Liegenschaften - Zustimmung
+- TOP 7.4: Ausschuss für Wirtschaftsförderung - Zustimmung
+- TOP 7.5: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Zustimmung
+- TOP 7.6: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Zustimmung
+- TOP 7.7: Ausschuss für Soziales und Wohnen - Zustimmung
+- TOP 7.8: Ausschuss für Gesundheit (Eigenbetrieb Sächsisches Klinikum Dresden) - Zustimmung
+- TOP 7.9: Ausschuss für Sport (Eigenbetrieb Sportstätten) - Zustimmung
+- TOP 7.10: Ausschuss für Bildung (Eigenbetrieb Kindertageseinrichtungen) - Zustimmung
+- TOP 7.11: Ausschuss für Petitionen und Bürgeranliegen - Zustimmung
+- TOP 8: Wahl des Gemeindewahlausschusses für die Kommunalwahlen am 26. Mai 2019 - erneute Beratung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Verweisung der Stadtratssitzung vom 22.11.2018
+- TOP 10.1: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Vertagung nach 22 Uhr
+- TOP 11: Vertagungen der Stadtratssitzung vom 13./14.12.2018
+- TOP 11.1: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung nach 22 Uhr
+- TOP 11.2: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung durch Einreicher
+- TOP 11.3: Veranstaltungsnetz Altmarkt – Umgestaltung für eine barrierefreie Leitungsführung und Herstellung einer funktionstüchtigen Platzentwässerung - Vertagung nach 22 Uhr
+- TOP 11.4: Weiterentwicklung der frühkindlichen und schulischen Bildungsstrategie der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 11.5: Ergebnisse der Einwohnerversammlung "Schulentwicklung in der nördlichen Johannstadt" vom 25. Juni 2018 - Vertagung nach 22 Uhr
+- TOP 11.6: Masterplan Fairtrade - Vertagung durch Einreicher
+- TOP 11.7: Bildung für Alle, Gesamtkonzeption für ein lebenslanges Lernen - Vertagung nach 22 Uhr
+- TOP 11.8: Kommunaler Tierschutzbericht - Vertagung nach 22 Uhr
+- TOP 11.9: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung nach 22 Uhr
+- TOP 12: Beschluss der Förderrichtlinie SchüleRaustausch - Vertagung nach 22 Uhr
+- TOP 13: Ausschreibung von Dienstleistungskonzessionen zur Bewirtschaftung der Dresdner Wochenmärkte für den Konzessionszeitraum 1. Februar 2020 bis 31. Januar 2023 mit einer einseitigen Verlängerungsoption bis 31. Januar 2025 durch die Konzessionsgeberin/Ä - Vertagung nach 22 Uhr
+- TOP 14: Veränderung des Sondervermögens des Eigenbetriebes Sportstätten Dresden - Grundstückslisten - Zustimmung
+- TOP 15: Berufsschulzentrum für Gastgewerbe "Ernst Lößnitzer", Ehrlichstraße 1 in 01067 Dresden - Neubau Schulsporthalle - Verweisung
+- TOP 16: 151. Oberschule, Königsbrücker Str. 115 in 01099 Dresden - Neubau Schulgebäude mit Zweifeldschulsporthalle, einschließlich Sport- und Pausenfreiflächen - Zustimmung
+- TOP 17: Neufassung der Satzung über die Wahlordnung zur Wahl der ausländischen Kandidatinnen und Kandidaten des Integrations- und Ausländerbeirates - Zustimmung mit Änderung
+- TOP 18: Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für Kunst im öffentlichen Raum und die Aufgaben der Kunstkommission (RL KiöR) - Vertagung nach 22 Uhr
+- TOP 19: Anteilige Förderung aus Bund-Länder-Programm "Investitionspakt Soziale Integration im Quartier" zur Sanierung und Umnutzung der ehem. Schokofabrik zum "Integrativen Familienzentrum des Dt. Kinderschutzbundes" im Fördergebiet "Nördliche Johannstadt" - Zustimmung
+- TOP 20: Instandsetzung der unterstromseitigen Gehbahn am Blauen Wunder - Vertagung nach 22 Uhr
+- TOP 21: Neufassung der Satzung zur Regelung der Kosten und Entschädigung des Gutachterausschusses (Gutachterausschusskostensatzung) - Zustimmung
+- TOP 22: Öffentlicher Dienstleistungsauftrag zwischen der Landeshauptstadt Dresden und der Satra Eberhardt GmbH zur Erbringung von öffentlichen Personenverkehrsdiensten - Vertagung nach 22 Uhr
+- TOP 23: Erhöhung der Budgets für Gleichstellung und Beauftragte, Soziale Projekte, Jugendhilfe, kommunale Kulturförderung - Vertagung nach 22 Uhr
+- TOP 24: Belange älterer Menschen ernst nehmen! Ein Seniorenbeauftragter für Dresden. - Vertagung nach 22 Uhr
+- TOP 25: Technische Sammlungen Dresden – Sanierung Innenhof - Vertagung nach 22 Uhr
+- TOP 26: Sparsamer Umgang mit Ressourcen in Bildungseinrichtungen - Vertagung
+- TOP 27: Kultur- und Nachbarschaftszentren vor Ort - Vertagung nach 22 Uhr
+- TOP 28: Klinikum Dresden – wirtschaftliche Lage - Vertagung nach 22 Uhr
+- TOP 29: Straßenbahn und Bus in Dresden ausbauen - Anteil des ÖPNV deutlich erhöhen! - Vertagung nach 22 Uhr
+- TOP 30: Ortsamt Loschwitz als Standort erhalten - Vertagung nach 22 Uhr
+- TOP 31: Straßenrückbau stoppen - Albertstraße bleibt vierspurig - Zustimmung
+- TOP 32: Sicherstellung einer artgerechten Tierhaltung im Dresdner Zoo – Neubau des Orang-Utan-Hauses - Vertagung nach 22 Uhr
+- TOP 33: Einigungsverfahren Gremienbesetzung - Beirat
+- TOP 33.1: Beirat Gesunde Städte - Zustimmung
+- TOP 34: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 35: Erwerb eines privaten Grundstückes zum Zwecke der Umsetzung des Vorhabens "Neues Verwaltungszentrum am Standort Ferdinandplatz" - Vertagung nach 22 Uhr
+- TOP 36: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung durch Einreicher
