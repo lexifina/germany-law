@@ -1,0 +1,129 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVE-STREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-01-24T17:30:00+01:00
+- Ende: 2019-01-24T22:30:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4579
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4579
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=427490
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 6: Thematische Stunde - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Außendienstmitarbeiter im Allgemeinen Ordnungsdienst (AOD) wirklich gut gerüstet? - beantwortet
+- TOP 7.2: Weiterführung des Projektes mit der Stiftung „Barka“ - beantwortet
+- TOP 7.3: Zwangsräumungen in 2018 - beantwortet
+- TOP 7.4: Tempo 30 in Moabit - beantwortet
+- TOP 7.5: Freifläche in der Auguststraße erhalten - beantwortet
+- TOP 7.6: Wann wird der BVV Beschluss (Drucksache 1040/V) umgesetzt? - beantwortet
+- TOP 7.7: Baustellenampel Gipsstraße Ecke Rosenthaler Straße - ein Provisorium mit Bestand - beantwortet
+- TOP 7.8: Obdachlosenzählung in Berlin – endlich - beantwortet
+- TOP 7.9: Straßenumbenennung im Afrikanischen Viertel - schriftlich beantwortet
+- TOP 7.10: Geburtsurkunden - schriftlich beantwortet
+- TOP 7.11: Allegro-Grundschule: Aktueller Stand - schriftlich beantwortet
+- TOP 7.12: Wie geht es weiter mit der Kita Alegria? - schriftlich beantwortet
+- TOP 7.13: Barriererearmer Zugang zum Rathaus Mitte - schriftlich beantwortet
+- TOP 7.14: Badstraße 10 – kommt die Zwischennutzung noch oder hat es sich das Bezirksamt anders überlegt? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Fragen zur PM des Bezirksbürgermeisters? - beantwortet
+- TOP 8.2: Zur Räumung im Ulap Park - schriftlich beantwortet
+- TOP 8.3: Grün- oder Grauflächenamt? - vertagt
+- TOP 8.4: Grauflächenamt Mitte - schriftlich beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Beraterleistungen für das Projekt „Themenbahnhöfe“ - beantwortet
+- TOP 9.2: Fertigstellung der Uferpromenade - schriftlich beantwortet
+- TOP 9.3: Mieter*innenvertreibung Spenerstraße 4-5 (VI): Genehmigung Neubau vs. Vernichtung Giebelwohnungen Spenerstraße 5? - schriftlich beantwortet
+- TOP 9.4: Beleuchtung in Grünanlagen - schriftlich beantwortet
+- TOP 9.5: Was ist mit den Bewohner*innen der geräumten „Obdachlosencamps“ geschehen? - schriftlich beantwortet
+- TOP 9.6: Beauftragung ohne Alternative - der „Fall Flierl“ - schriftlich beantwortet
+- TOP 9.7: Huttenkiez - Auswirkung von Siemensstadt 2.0 und die Weltwirtschaft - schriftlich beantwortet
+- TOP 9.8: Unterbringung Wohnungsloser nach dem ASOG ein zunehmendes Problem, doch die Ursachenanalyse bleibt immer noch im Ungefähren - schriftlich beantwortet
+- TOP 9.9: Bearbeitung von Parkvignetten - schriftlich beantwortet
+- TOP 9.10: Mieter*innenvertreibung Spenerstraße 4-5 (V): Wohnungsleerstand - schriftlich beantwortet
+- TOP 9.11: Aufrüttelnder Bezirksbericht zur sozialen Lage – Handlungsbedarf und neue Prioritäten - schriftlich beantwortet
+- TOP 9.12: Gefahr für Bewohner des Afrikanischen Viertels - schriftlich beantwortet
+- TOP 9.13: Räumung des Obdachlosencamps im Ulap Park - schriftlich beantwortet
+- TOP 9.14: Fischerinsel – Masterplankonzept –Bürger*innenbeteiligung - schriftlich beantwortet
+- TOP 9.15: „Rolle rückwärts“ – billig verkaufen, teuer einkaufen. Wieviel GSW in Mitte? - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: über die Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Alexanderplatzviertel“ im Bezirk Mitte von Berlin - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Gemeinsam Handeln - für einen menschenwürdigen Umgang mit obdachlosen Menschen - überwiesen
+- TOP 13.2: Proaktiv handeln – Wenn der Senat nicht handelt, muss das Bezirksamt Verantwortung übernehmen! - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Vergabe rechtssicher gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: „Aktion Sauberes Berlin“ auch in Mitte - überwiesen
+- TOP 14.3: Projekt „Kulturbahnhöfe“ - gegenstandslos
+- TOP 14.4: Antrag: Europawahl 2019 – barrierefreie Wahllokale - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Wissen und Informationen der ganzen Bezirksverwaltung zugänglich machen - Intranet für Bezirksverordnete ermöglichen - überwiesen
+- TOP 14.6: Schulneubauten Reinickendorfer und Adalbertstraße – schnell realisieren und durch kluge Anpassungsplanung bisherige Nutzungen sichern und einbeziehen und bei den Abbruchplanungen bestehende Nutzungen berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Rot-Roten-Filz beenden: Gleiche Chancen für alle! - in der BVV abgelehnt
+- TOP 14.8: Missbilligung der Stadträtin für Weiterbildung, Kultur, Umwelt, Natur, Straßen und Grünflächen - in der BVV abgelehnt
+- TOP 14.9: Gleimtunnel unverzüglich freigeben - überwiesen
+- TOP 14.10: Finanzielle Aufwandsentschädigung für die institutionelle Bürgerbeteiligung im Bereich der Sozialen Stadtentwicklung in Mitte gleichstellen - überwiesen
+- TOP 14.11: Tag des guten Lebens unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Präventionsbeauftragter - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Trümmersäule beleuchten - überwiesen
+- TOP 14.14: Taxistand am Alexa - überwiesen
+- TOP 14.15: Gerichtshöfe Gerichtsstraße 12: Vom Mediationsverfahren zur nachhaltigen Zusammenarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Platz vor dem Elefantentor nach Prof. Dr. Heinz-Georg Klös benennen - überwiesen
+- TOP 14.17: Spielplatzablöse - ohne Änderungen in der BVV beschlossen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Pfandringe in Mitte - in der BVV abgelehnt
+- TOP 17.2: Fahrgäste schützen – Sichtbarkeit von Haltestellen verbessern - gegenstandslos
+- TOP 17.3: Invaliden-/ Ecke Chausseestr.: Verkehrsführung sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 17.4: Für Sicherheit und Lärmschutz: Geschwindigkeitsbegrenzungen durchsetzen - mit Änderungen in der BVV beschlossen
+- TOP 17.5: Erweiterung des VBB Bus & Bahn-Begleitservice auch am Wochenende - mit Änderungen in der BVV beschlossen
+- TOP 17.6: Anschaffung und Betrieb von öffentlichen Luftpumpstationen - mit Änderungen in der BVV beschlossen
+- TOP 17.7: Verkehrsberuhigte Zonen beruhigen - mit Änderungen in der BVV beschlossen
+- TOP 17.8: Jugendverkehrsschulen dauerhaft arbeitsfähig machen: Festes Personal für die Radfahrausbildung - mit Änderungen in der BVV beschlossen
+- TOP 17.9: Schulhofteil der Allegro Grundschule als Ersatzstandort für das Fußballfeld Pohlstr. 8-14 herrichten! - mit Änderungen in der BVV beschlossen
+- TOP 17.10: Wasser im Diesterweg- Gymnasium - mit Änderungen in der BVV beschlossen
+- TOP 17.11: Fußgängerüberweg über den Schiffbauerdamm (Höhe Albrechtstr.) - ohne Änderungen in der BVV beschlossen
+- TOP 17.12: Präsenzstunden der Schuldnerberatungen in der Jugendberufsagentur Mitte auf ihre Effektivität hin überprüfen - ohne Änderungen in der BVV beschlossen
+- TOP 17.13: Ladezonen nicht in die Wohngebiete! - mit Änderungen in der BVV beschlossen
+- TOP 17.14: Räume für die Allegro-Grundschule, (teuren) Leerstand an anderer Stelle vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 17.15: Abschaffung der Sonderkorridore von Jobcenter-Terminen und Clearingstelle-Terminen bei den Schuldnerberatungen - gegenstandslos
+- TOP 17.16: Die Kontakt- und Anlaufstelle für Drogenkranke („Birkenstube“) besser finanzieren und entlasten, indem weitere Drogenkonsumräume eingerichtet werden. - ohne Änderungen in der BVV beschlossen
+- TOP 17.17: SIWANA nicht im Alleingang – BVV einbeziehen und Transparenz sichern - mit Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Steuerung der Fallkosten bei der ambulanten Hilfe zur Pflege (I) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Gedenken an die „Zerstörte Vielfalt“ in der Feldzeugmeisterstraße zeigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.3: Gefährdungsbeurteilung - GBU "Physische und psychische Belastung am Arbeitsplatz in der Bezirksverwaltung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Erinnerung aufrechterhalten – Deutscher Gedenkort zu Kolonialverbrechen insbes. zum Völkermord an Herero und Nama - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.5: Erfassen von Gebäudedämmung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Risikomanagement (gemäß Auflage Nr. 6 zum Bezirkshaushaltsplan 2018/2019) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.7: Eine Perspektive für das Brüder-Grimm-Haus in der Turmstr. 75 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Endlich Lösungen für den Kiez um die Kurfürstenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.9: Ausschilderung Stadion Rehberge - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.10: City Trees - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Ein Zaun macht den Magdeburger Platz noch nicht lebenswert! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.12: Einführung von Tempo 30 in der Levetzowstraße/Altonaer Str. bis Bachstr. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Leihräder bereichern Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.14: Zusatzschild für den Elise-und-Otto-Hampel-Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Beleuchtung der Trümmersäule auf dem Max-Josef-Metzger-Platz sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Regellösungen für den Übergang von Hauptstraßen auf Anlieger-/Erschließungsstraßen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.17: Wenn Investorenträume in den Himmel wachsen - Checkpoint Charlie muss geerdet werden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.18: Schulentwicklungsplanung für Mitte vorlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.19: U-Bahnhöfe für Obdachlose offenhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.20: Barrierefreie Fußgänger*innenquerung der Karl-Marx-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.21: Beschluss über die Durchführung der frühzeitigen Öffentlichkeits- und Behördenbeteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB für den noch aufzustellenden Bebauungsplan 1-105 für das Areal des ehemaligen Hauses der Statistik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: 3. Änderung und Ergänzung der BA-Vorlage Nr. 2 vom 28. Oktober 2016 - mit Abschlussbericht zur Kenntnis genommen
