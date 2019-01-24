@@ -1,0 +1,92 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-01-24T18:05:00+01:00
+- Ende: 2019-01-24T20:42:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2164
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2164
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: FrITZ (Frimmersdorfer Innovations- und Technologie Zentrum) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00095016.pdf
+- Ergebnisprotokoll: FrITZ (Frimmersdorfer Innovations- und Technologie Zentrum) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00095016.pdf
+- Wortprotokoll: FrITZ (Frimmersdorfer Innovations- und Technologie Zentrum) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00095016.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - Kenntnisnahme
+- TOP 2: Regelmäßige Informationen aus Beratungen Strukturwandel (Antrag Nr. 172/18) - einstimmig
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Mittelbereitstellungen
+- TOP 5: Flüchtlings- und Integrationsangelegenheiten
+- TOP 6: Rückübertragung von Aufgaben der Stadtbetriebe Grevenbroich AöR an die Stadt - einstimmig
+- TOP 7: Änderung der Hauptsatzung und der Zuständigkeitsordnung - einstimmig
+- TOP 8: Entscheidung PlanungsA
+- TOP 8.1: G 218 Aufst.beschl.+ frühz. Bürgerbeteil. - einstimmig
+- TOP 8.2: 16. Änd. FNP - Aufstellungsbeschluss + frühz. Bet. - einstimmig
+- TOP 8.3: 27. Änd. FNP - Aufstellungsbeschluss - einstimmig
+- TOP 8.4: 1. Änd. G 183 §13a -Rheydter Str./ Merkatorstr. - einstimmig
+- TOP 9: Beantwortung Anträge und Anfragen
+- TOP 9.1: Wohnraumförderung (Anfrage Nr. 201/18) - einstimmig
+- TOP 10: Schriftliche Anträge
+- TOP 10.1: CDU
+- TOP 10.1.1: Querungshilfe in Kapellen Antrag Nr. 1/19 - einstimmig
+- TOP 10.1.2: Vorschlagmanagement für die Bürgerschaft und Verwaltungsmitarbeiter (Antrag Nr. 16/19) - einstimmig
+- TOP 10.1.3: Erneuerung/ Sanierung der alten Fenster in der Grundschule Neukirchen (Antrag Nr. 17/19) - einstimmig
+- TOP 10.1.4: Fördermittel für die neue Ortsmitte in Kapellen, Platz an der Schubertstraße (Antrag Nr. 18/19) - einstimmig
+- TOP 10.1.5: Zustand der Hydranten im Stadtgebiet (Antrag Nr. 19/19) - einstimmig
+- TOP 10.1.6: Verkehrsspiegel am Kindergarten Barrenstein (Antrag Nr. 20/19) - einstimmig
+- TOP 10.1.7: Schulbushaltestelle in Allrath auf der Neurather Straße (Antrag Nr. 21/19) - einstimmig
+- TOP 10.1.8: Parkzone am Kindergarten in Barrenstein (Antrag Nr. 22/19) - einstimmig
+- TOP 10.1.9: Nachhaltige Bepflanzung der Baumscheiben der Straßenbäume in Barrenstein (Antrag Nr. 23/19) - einstimmig
+- TOP 10.1.10: Gasse in Allrath zwischen "Maarstraße" und "Am Kruchenhof" (Antrag Nr. 24/19) - einstimmig
+- TOP 10.1.11: Entwicklungsgesellschaft für den Strukturwandel (Antrag Nr. 12/19) - einstimmig
+- TOP 10.1.12: Parkraumkonzept "Auf dem Wiler" (Antrag Nr. 13/19) - einstimmig
+- TOP 10.1.13: Transparentes Verfahren bei der Auswahl von Kita-Trägern (Antrag Nr. 14/19) - einstimmig
+- TOP 10.1.14: Smart City Strategie (Antrag Nr. 15/19) - einstimmig
+- TOP 10.2: SPD
+- TOP 10.3: UWG
+- TOP 10.3.1: Verkehrsberuhigung auf der Jülicher Straße in Elsen Fürth Antrag Nr. 3/19 - einstimmig
+- TOP 10.3.2: Nachfrage Antrag 35/18 Sachstand zur Umsetzung des Ratsbeschlusses vom 22. März 2018: - einstimmig
+- TOP 10.3.3: Ausbau der digitalen Bürgerkommunikation: Chatbots für Grevenbroich - einstimmig
+- TOP 10.3.4: Ausschussumbesetzung (Antrag Nr. 7/19) - einstimmig
+- TOP 10.4: FDP
+- TOP 10.5: B 90/DIE GRÜNEN
+- TOP 10.5.1: Priorisierung von Anträgen zur Verkehrssituation Jülicher Str. (Antrag Nr. 6/19) - einstimmig
+- TOP 10.5.2: Strukturelle Maßnahmen und Lösung zur Verbesserung Jülicher Str. (Antrag Nr. 8/19) - einstimmig
+- TOP 10.6: Mein Grevenbroich
+- TOP 10.7: Die Linke- Freie Bürger
+- TOP 10.7.1: Fahrradabstellplätze (Antrag Nr. 5/19) - einstimmig
+- TOP 10.7.2: Pädagogisches Raumkonzept für Grevenbroicher Schulen - einstimmig
+- TOP 10.8: Gemeinschaftsanträge
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: CDU
+- TOP 11.2: SPD
+- TOP 11.2.1: Schülerbeförderung (Anfrage Nr. 11/19) - einstimmig
+- TOP 11.3: UWG
+- TOP 11.4: FDP
+- TOP 11.5: B 90/DIE GRÜNEN
+- TOP 11.5.1: Anfrage zu möglichen Folgenutzungen des ehemaligen Kraftwerksstandort Frimmersdorf Anfrage Nr. 279/1 - einstimmig
+- TOP 11.5.2: Einkaufsgenossenschaft KoPart (Anfrage Nr. 9/19) - einstimmig
+- TOP 11.5.3: Privater Betreiber soll Wochenmarkt attraktiver machen (Anfrage Nr. 10/19) - einstimmig
+- TOP 11.6: Mein Grevenbroich
+- TOP 11.7: Die Linke - Freie Bürger
+- TOP 12: mündliche Anträge/Anfragen
+- TOP 12.1: Rh Schillings Beleuchtung Vollrather Höhe Neuenhausen Anfrage Nr.25/19
+- TOP 12.2: Rf Wasen Fröbelstraße Noithausen Anfrage Nr.26/19
+- TOP 12.3: Rh Göckmann Zustand Tannenstraße Neuenhause Anfrage Nr. 27/19
+- TOP 12.4: Rh Büttgenbach Wirtschaftlichkeit Parkgebühren Marktplatz Wev. Nachfrage zu Anfrage 256/ 2017
+- TOP 12.5: Rf Kram Geschwindigkeitstafel Talstraße Anfrage Nr. 28/19
+- TOP 12.6: Rh von Borzetowski Förderprogramm WiFi4EU Nachfrage zu Anfrage 102/18
+- TOP 12.7: Rh Oehmen Sachstand Willibrodusstraße Anfrage Nr. 29/19
+- TOP 12.8: Rh Oehmen Cyrakusstraße Anfrage Nr. 30/19
+- TOP 12.9: Rh Gand Alte Backstube Nachfrage zu Anfrage 184/18
+- TOP 12.10: Rh Gawlinski Straßenbaumaßnahme Merkatorstraße Anfrage Nr. 31/19
+- TOP 12.11: Rh Dorok Liste Anträge und Anfragen Anfrage Nr. 32/19
+- TOP 12.12: Rh Schumacher Nachfrage zur Anfrage 183/18 PKW Morkenerstraße
+- TOP 12.13: Rh Schumacher Nachfrage zur Anfrage 194/18
+- TOP 12.14: Rh Schumacher Nachfrage Antrag Nr. 165/19 Abschaffung Tempo 30
+- TOP 12.15: Rh Schumacher Nachfrage zu Antrag Nr. 164/18 Smart Cafe
+- TOP 12.16: Rh Schillings Fußgängerbrücke Südstadt Anfrage Nr. 33/19
+- TOP 13: Mitteilungen BM
