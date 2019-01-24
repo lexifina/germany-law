@@ -1,0 +1,7 @@
+# TOP 11.: Ausbau Skaterplatz an der Neuenkamper Straße - mündlicher Bericht -
+
+- Sitzung: Bezirksvertretung Burg/Höhscheid (31. Sitzung) (2019-01-24)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/47022
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29049
