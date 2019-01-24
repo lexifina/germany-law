@@ -1,0 +1,108 @@
+# 26. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2019-01-24T17:00:00+01:00
+- Ende: 2019-01-24T22:15:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4217
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4217
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=257440
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Verbesserung der "Gesamtstädtischen Steuerung" - vertagt
+- TOP 4.2: Zum Diskussionspapier "Verwaltungsmodernisierung" - Eine Reform der Berliner Verwaltung ohne Reform der Budgetierung der Bezirke wäre eine verpasste Chance - - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Kinderarmut in Lichtenberg - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Teilhabe-Chancen-Gesetz für Langzeitarbeitslose - beantwortet
+- TOP 8.2: Grillen im Fennpfuhl - beantwortet
+- TOP 8.3: Wohnungslose an der Rummelsburger Bucht - beantwortet
+- TOP 8.4: Transparenz bei der Digitalisierung der Verwaltung - beantwortet
+- TOP 8.5: Angebotsentwicklung Kita in Echtzahlen - beantwortet
+- TOP 8.6: Wohnunterkünfte für Polizeidienstkräfte in Lichtenberg - schriftlich beantwortet
+- TOP 8.7: Neue Kleingärten in Lichtenberg - schriftlich beantwortet
+- TOP 8.8: Baustopp am Gehrensee - schriftlich beantwortet
+- TOP 8.9: Imagefilm über Lichtenberg - schriftlich beantwortet
+- TOP 9: Einwohnerfragestunde - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Berlin-Lichtenberg 3 - gewählt
+- TOP 10.2: Wahlvorschlag zur Berufung/Abberufung der Mitglieder des ehrenamtlichen Dienstes - gewählt
+- TOP 10.3: Willensbekundung für beabsichtigte Gründungen von Gemeinschaftsschulen im Rahmen der SEP - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Drogenkonsum- und Trinker*innenraum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Potenzielle Flächen für Mobilitätsstationen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Gesicherter Fußgängerüberweg an der Landsberger Allee 214 - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Schwimmen lernen in Lichtenberger Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Halteverbot An der Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Geschwindigkeitsüberwachung und Geschwindigkeitsreduzierung in der Zechliner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Bauliche Instandsetzung der DDR-Typenbauten der Freiwilligen Feuerwehren im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Tennis in Lichtenberg auch im Winter ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Bebauungsplanverfahren für das Gelände zwischen Margaretenstraße, Weitlingstraße, Irenenstraße, Wönnichstraße - überwiesen
+- TOP 10.13: Entscheidung über Bebauungsplan Rienzistraße herbeiführen - überwiesen
+- TOP 10.14: Schulbau am Weißenseer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Vorlage zur Kenntnisnahme DS/0936/VIII - Fußweg zum Rathaus Lichtenberg, zum Bürgeramt 2 und zum Zentrum für tuberkulosekranke und -gefährdete Menschen (TBC-Stelle) ausschildern - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Digitalisierung der Lichtenberger Schulen weiter finanziell fördern - überwiesen
+- TOP 10.17: Schulweg zur Matibi-Grundschule sichern - überwiesen
+- TOP 10.18: Bezirkliche Gremienarbeit stärken - überwiesen
+- TOP 10.19: Einwohnerversammlungen - überwiesen
+- TOP 10.20: Rahmenplanungen für alle Lichtenberger Stadtteile erstellen - überwiesen
+- TOP 10.21: Bebauungsplan 11-40-1 - Rechtskontrolle; Arbeitstitel: Wartiner Straße 1 und 6 sowie Falkenberger Chaussee 160 - überwiesen
+- TOP 10.22: Vorhabenbezogener Bebauungsplan 11-94 VE – Planreife; Arbeitstitel: westlich Ferdinand-Schultze-Straße/südlich Schleizer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.23: Berücksichtigung baulicher Voraussetzungen der Inklusion bei Neubau, Umbau und Sanierung von Turnhallen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.24: Projekt "Nachbarschaftsmittler" - aufrecht erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.25: Trinkbrunnen am Anton-Saefkow-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.26: Defektes Dach vom TagesTreff für Wohnungslose in der Weitlingstraße instand setzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.27: Verbindungstrakt zwischen zwei Gebäuden des Grünen Campus Malchow schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.28: Museum Lichtenberg zukunftsfähig machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.29: Freie WLAN Hotspots - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Schulneubau transparent gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.31: Platz am Tierpark-Center sicher und sauber gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.32: Gedenken an Heinrich Zille am Haus Lückstraße 31 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.33: Freie Fahrt fürs Ehrenamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.34: Bezirkliches Tourismuswegeleitsystem für Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.35: Mehr Mitspracherecht für Kitaträger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.36: Gehwegsanierung Verlängerte Waldowallee abschließen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.37: Planstellen für Fahrrad-Infrastruktur zügig besetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.38: Bessere Bezahlung von Kita Erzieher*innen durch Arbeitsmarktzulage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.39: Abschaffung von sachgrundlosen Befristungen im Kitabereich - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.40: Fußweg zum Rathaus Lichtenberg, zum Bürgeramt 2 und zum Zentrum für tuberkulosekranke und -gefährdete Menschen (TBC-Stelle) ausschildern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.41: Auswertung der Daten des Zahnärztlichen Dienstes im Bezirk Lichtenberg - überwiesen
+- TOP 10.42: Psychiatrische Versorgung in Lichtenberg - überwiesen
+- TOP 10.43: Verleihung Inklusionspreis 2018 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.44: Bebauungsplan XVII-9-1 - Aufstellungsbeschluss; Arbeitstitel: „Berlin Campus I“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.45: Bebauungsplan 11-108 – Behördenbeteiligung; Arbeitstitel: Malchower Weg 134 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.46: Bebauungsplan 11-131 - frühzeitige Beteiligungen; Arbeitstitel: Ruschestraße / Josef-Orlopp-Straße (Konsum) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Wahlen - erledigt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Wirtschaftsstandort Lichtenberg - Weichenstellung für den wirtschaftsfreundlichen Bezirk - schriftlich beantwortet
+- TOP 13: Prioritäten der Fraktionen - erledigt
+- TOP 13.1: Kindergartenbroschüre „Ene, mene, muh – und raus bist du!“ - Keine politische Indoktrination in Lichtenberger Kindertagesstätten - in der BVV abgelehnt
+- TOP 13.2: Gründung eines Expert*innenbeirats zur Verbesserung der städtebaulichen Qualität von Bauvorhaben - überwiesen
+- TOP 14: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 14.1: Kita Helfer*innen an Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Zentrale Datenbank für belegbare Kitaplätze - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Schüler*innenhaushalte an Lichtenberger Schulen - mit Änderungen in der BVV beschlossen
+- TOP 15: Anträge zur Beschlussfassung - (offen)
+- TOP 15.1: Erhalt des Integrationsfonds - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Leerstehende Unterkunft kurzfristig nutzbar machen - in der BVV zurückgezogen
+- TOP 15.3: Unterlagen des Bezirksamtes an die Ausschussteilnehmer rechtzeitig übergeben - in der BVV abgelehnt
+- TOP 15.4: Neubau Sporthalle Sandinostraße – Möglichkeiten zum Gerätturnen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: „Tag des guten Lebens“ in Lichtenberg unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Familiensprachen von Kindern in der Schule fördern - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Marktstraße 13 als Gemeinbedarfsfläche sichern - überwiesen
+- TOP 15.8: Beitrag zum Jubiläum „100 Jahre Gross-Berlin“ - in der BVV abgelehnt
+- TOP 16: Vorlagen zur Beschlussfassung - erledigt
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Vorhabenbezogener Bebauungsplan 11-73 VE – Änderung der Planungsabsicht; Arbeitstitel: Wartenberger Straße 175 - überwiesen
+- TOP 17.2: Änderungen im Planverfahren am Prerower Platz - Wartenberger Straße 175 (vorhabenbezogener B-Plan 11-73 VE); Bezug: DS/0536/VIII - überwiesen
+- TOP 17.3: Vorhabenbezogener Bebauungsplan 11-94 VE – öffentliche Auslegung, Anzeigeverfahren; Arbeitstitel: westlich Ferdinand-Schultze-Straße/südlich Schleizer Straße - in der BVV abgelehnt
+- TOP 18: Schließung der Sitzung - erledigt
