@@ -1,0 +1,84 @@
+# 42. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-24T17:00:00+01:00
+- Ende: 2019-01-24T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20138
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20138
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701397.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701397.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701397.pdf
+
+## Tagesordnung
+
+- TOP -: A Aktuelle Stunde Notfallpraxis in Chorweiler Antrag der CDU-Fraktion und der Fraktion Bündnis´90 / Die Grünen - geändert beschlossen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Eingabe nach § 24 GO - Schließung der hausärztlichen Notfallpraxis in Köln-Chorweiler - Az 01/19 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Grünstreifen an der Neusser Landstrasse in Köln-Seeberg - geändert beschlossen
+- TOP 7.1.2: Freizeitangebote für Kinder und Jugendliche in den Rheindörfern - Kenntnis genommen
+- TOP 7.1.3: Bearbeitung von z.B. Lärmbeschwerden durch den Ordnungsdienst - Kenntnis genommen
+- TOP 7.1.4: Stadtmöbilierung (Papierkörbe) - Kenntnis genommen
+- TOP 7.1.5: Parkende LKWs auf dem Gehsteig in Esch, Auf dem Driesch - Kenntnis genommen
+- TOP 7.1.6: Lärmbelästigung durch Veranstaltungen und Partys in Lindweiler, Unnauer Weg - Kenntnis genommen
+- TOP 7.1.7: Förderprogramm: Willkommen und Ankommen in Köln - Kenntnis genommen
+- TOP 7.1.8: Wiederverwertbares Geschirr - Kenntnis genommen
+- TOP 7.1.9: Zuwegung Grundstücke Marienstraße in Köln-Pesch - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Schließung der Notfallpraxis in Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Situation Turkuplatz Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.3: Sachstandsanfrage zu AN 00085/2017 und AN1062/2016 Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.4: Öffnungszeiten des Parkhauses in Chorweiler am City-Center Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.5: Zur Verkehrsführung bei Bebauung in Köln-Esch Volkhovenerstr. Flur 2. Flurstück 528 Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Beleuchtung Fahrrad- und Fußgängerweg Oranjehofstraße - Kenntnis genommen
+- TOP 8.1.2: Verkehrszählung an der B9 - Ortslage Worringen - geändert beschlossen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Widmung eines Teilstücks der Martinusstraße in Köln-Esch - ungeändert beschlossen
+- TOP 9.1.2: Beschluss der Richtlinie zur Umsetzung der Maßnahme "Haus-, Hof- und Fassadenprogramm" im Projekt Starke Veedel - Starkes Köln" im Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - ungeändert beschlossen
+- TOP 9.1.3: Einbeziehung in die Swinestraße in Köln-Chorweiler - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 9.2.2: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 9.2.3: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ungeändert beschlossen
+- TOP 9.2.4: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen hier: Zuschuss für den SG Worringen e.V. zur Errichtung eines Kunstrasenplatzes auf der Sportanlage St.-Tönnis-Str. in Köln-Worringen - ungeändert beschlossen
+- TOP 9.2.5: Freigabe einer investiven Auszahlungsermächtigung zur Gewährung von städtischen Zuschüssen zu Baumaßnahmen hier: Zuschuss für den SpVg Rheindörfer Köln-Nord e.V. zur Errichtung eines Kunstrasenplatzes auf der Sportanlage Ivenshofweg in Köln-Merkenich - ungeändert beschlossen
+- TOP 9.2.6: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 67549/04; Arbeitstitel: Causemannstraße in Köln-Merkenich, 3. Änderung - ungeändert beschlossen
+- TOP 9.2.7: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Erbacher Weg in Köln Chorweiler - ungeändert beschlossen
+- TOP 9.2.8: Generalsanierung des Umkleidehauses auf der Sportanlage Merianstr., Köln-Chorweiler Maßnahme im Rahmen des Kommunalinvestionsfördergesetzes NRW - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Verschiedenes - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Entwicklung des neuen Stadtteils Kreuzfeld - Kenntnis genommen
+- TOP 10.2.2: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 10.2.3: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 10.2.4: Flächenbericht zu den Objekten im Sondervermögen der Gebäudewirtschaft der Stadt Köln 2017 - Kenntnis genommen
+- TOP 10.2.5: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.6: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - geändert beschlossen
+- TOP 10.2.7: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 10.2.8: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - zurückgestellt
+- TOP 10.2.9: Erweiterung der Feuer- und Rettungswache Köln-Chorweiler hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO i.V.m. § 8 Ziff. 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019. - zurückgestellt
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Korkenzieherweide in Köln Blumenberg, Teufelsbergstraße - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
