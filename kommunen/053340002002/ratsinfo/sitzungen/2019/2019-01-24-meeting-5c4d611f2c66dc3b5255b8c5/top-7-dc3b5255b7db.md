@@ -1,0 +1,7 @@
+# TOP 7: Sachstand Radschnellweg Euregio
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Mobilitätsausschusses unter Beiladung der Bezirksvertretungen Aachen-Brand und Aachen-Eilendorf zu dem öffentlichen Tagesordnungspunkt 2 (2019-01-24)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d611d2c66dc3b5255b7db
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5c4d611d2c66dc3b5255b7c5
