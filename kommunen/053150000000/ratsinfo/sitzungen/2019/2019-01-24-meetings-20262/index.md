@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-24T15:30:00+01:00
+- Ende: 2019-01-24T17:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20262
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20262
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Verpflichtung sachkundiger Einwohnerinnen und Einwohner nach § 58 Abs. IV GO NRW
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - unter Vorbehalt beschlossen
+- TOP 4.2: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - unter Vorbehalt beschlossen
+- TOP 4.3: Entschädigung von ehrenamtlichen Gremienmitgliedern - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Vergabe der Mittel für Antirassismus-Training im Jahr 2019 / 1. Teil - ungeändert beschlossen
+- TOP 4.5: Verteilung der Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2019 - ungeändert beschlossen
+- TOP 4.6: 'Integrationsbudget' - Verteilung der Finanzmittel in 2019 - unter Vorbehalt beschlossen
+- TOP 4.7: Beschluss der Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum „Mülheim-Nord und Keupstraße, Buchheim und Buchforst“ - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Befristete Fortsetzung des Projektes „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: "Wohnungen bleiben Wohnungen - Wohnraumschutzsatzung verlängern, verschärfen und durchsetzen" - Sachstand zum Beschluss des Rates aus der 42. Sitzung (TOP 3.1.5) - Kenntnis genommen
+- TOP 7.1.1: Fragen zur Vorlage Nr. 4179/2018, Sitzung am 24.1.2019, TOP 7.1. - Kenntnis genommen
+- TOP 7.2: Anfragen und Beantwortungen
+- TOP 7.2.1: Drohender Wohnungsverlust in Köln - Kenntnis genommen
+- TOP 7.2.1.1: Drohender Wohnungsverlust in Köln (AN 1762/2018) - Kenntnis genommen
+- TOP 7.2.2: Verwendung der Kosten der Unterkunft - stadtunmittelbarer Wohnungsbestand - Kenntnis genommen
+- TOP 7.2.2.1: Beantwortung der schriftlichen Anfrage Verwendung der Kosten der Unterkunft - stadtunmittelbarer Wohnungsbestand (AN/1774/2018) - Kenntnis genommen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 8.2.1: Kosten für Bildungsbedarf von Transferleistungsempfängern - Kenntnis genommen
+- TOP 8.2.1.1: Beantwortung der Anfrage der Fraktion Die Linke vom 03.12.2018 zum Thema: "Kosten für Bildungsbedarf von Transferleistungsempfängern" (AN1764/2018) - Kenntnis genommen
+- TOP 8.2.2: Beantwortung einer mündlichen Anfrage aus der Sitzung des Ausschusses für Soziales und Senioren vom 06.12.2018 zu TOP 8.1 Anlage 1 - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.1.1: Psychosoziale Betreuung von Flüchtlingen in Köln - zurückgestellt
+- TOP 9.2: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - Ratsbeschluss vom 20.03.2018 (Vorlagen-Nummer 0342/2018) - Zwischenbericht - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zum Projekt „Einwanderung gestalten NRW“ - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.1.1: Anfrage AN/1579/2018 gem. § 4 der Geschäftsordnung des Rates hinsichtlich des Umsetzungsstandes zum Gesetz zur Regelung der Rechtsverhältnisse der Prostituierten (ProstSchG) - Kenntnis genommen
+- TOP 11.1.2: Neufassung der Satzung des LVR über die Heranziehung der Fachstellen für behinderte Menschen im Arbeitsleben – Auswirkungen für die Stadt Köln - Kenntnis genommen
+- TOP 11.1.2.1: Beantwortung der schriftlichen Anfrage Neufassung der Satzung des LVR über die Heranziehung der Fachstellen für behinderte Menschen im Arbeitsleben -Auswirkungen für die Stadt Köln (Anfrage AN/1763/2018) - Kenntnis genommen
+- TOP 11.1.3: „Hartz IV“-Sanktionen des Jobcenters in Köln - zurückgestellt
+- TOP 11.2: Aktuelle Anfragen und Beantwortungen
+- TOP 11.3: Mündliche Anfragen
+- TOP 11.3.1: Arbeitsmarktintegration und Ausbildungsduldungen - Kenntnis genommen
+- TOP 12: Mitteilungen
+- TOP 12.1: Sanierung des städtischen Gebäudes Blaubach 9, 50676 Köln Altstadt/Süd, zur Unterbringung von Geflüchteten - Haushaltsrechtliche Unterrichtung gem. § 24 Abs. 2 GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung 2018 der Stadt Köln - Kenntnis genommen
+- TOP 12.2: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 12.3: Broschüre „Wegweiser Wohnen in Köln“ - Kenntnis genommen
+- TOP 12.4: Unterkunft für Geflüchtete am Standort Wilhelm-Schreiber-Str. - Kenntnis genommen
+- TOP 12.5: Hauswirtschaftliche Hilfen für alte, kranke und behinderte Menschen zur Vermeidung einer frühzeitigen stationären Hilfe - Evaluationsbericht - zurückgestellt
