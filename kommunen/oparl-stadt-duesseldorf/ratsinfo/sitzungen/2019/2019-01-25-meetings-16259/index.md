@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-01-25T16:00:00+01:00
+- Ende: 2019-01-25T19:02:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16259
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16259
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333989.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333989.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00333989.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift 179/7/2019 vom 23.11.2018 - einstimmig beschlossen
+- TOP 4: Wiederwahl einer Schiedsperson - Empfehlung einstimmig beschlossen
+- TOP 5: Kriminalstatistik 2017 - mündl. Vortrag - vertagt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Projektgebiet "Briedestraße / Ecke Kappeler Straße" - Weiteres Vorgehen - Empfehlung einstimmig beschlossen
+- TOP 11: Sportanlage Kammerrathsfeldstr. 82/Woermannstr. (TSV Urdenbach); Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 12: Sportanlage Dechenweg 24 (SV Wersten 04) - Erneuerung des Kunstrasenbelags - einstimmig beschlossen
+- TOP 13: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2019 - mehrheitlich beschlossen
+- TOP 14: Informationsvorlage: Konzept für die Ertüchtigung der Geländer an Ingenieurbauwerken und provisorische Sicherung für den - zur Kenntnis genommen
+- TOP 15: Anfrage: Sachstand "Öffnung von Einbahnstraßen für gegenläufigen Radverkehr" - beantwortet
+- TOP 16: Anfrage: Lärmschutz A59 - vertagt
+- TOP 17: Anfrage: Gefahrguttransporte - vertagt
+- TOP 18: Anfrage: Kampstraße - beantwortet
+- TOP 19: Anfrage: Lärmschutz BAB 46 - vertagt
+- TOP 20: Anfrage: ÖPNV-Vorrangschaltung U71/U83 - vertagt
+- TOP 21: Anfrage: Vermüllung S-Bahnhof Reisholz - vertagt
+- TOP 22: Antrag: Halt- und Parkverbot Ziegeleiweg - einstimmig beschlossen
+- TOP 23: Antrag: Mobilitätsstationen in Wersten - einstimmig beschlossen
+- TOP 24: Antrag: Verbesserung der Aufenthaltsqualität in der Kölner Landstraße - einstimmig beschlossen
+- TOP 25: Antrag: Renaturierung der Itter - einstimmig beschlossen
+- TOP 26: Antrag: Pilotprojekt Kunstrasen BSA Am Wald 130 - einstimmig beschlossen
+- TOP 27: Antrag: Fahrradstraße Pigageallee - Benrather Schlossufer - Am Alten Rhein - mehrheitlich abgelehnt
+- TOP 28: Antrag: Stadtbahnverlängerung Wersten-West - zurückgezogen
+- TOP 29: Antrag: Zukunft des Eislaufsports im Düsseldorfer Süden - einstimmig beschlossen
+- TOP 30: Antrag: Beleuchtung Kurve Heubesstr. - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel GGS Am Köhnen; Theateraufführung "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Förderkreis GGS Henri-Dunant Theateraufführung "Die große Nein-Tonne" - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Veedelszoch in der Paulsmühle 2019 am 02.03.2019 - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Verein Himmelgeist 1100 e.V., Jüchtlauf 2019 - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel Repräsentation 2019 - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel Geranien Rathaus Benrath - einstimmig beschlossen
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 07.09.2018, Förderung von stationsbasiertem CarSharin - zur Kenntnis genommen
+- TOP 38: Informationsvorlage zum Beschluss der BV 9 vom 05.10.2018, Grünanlagen Werstener Kreuz 179/174/2018 - zur Kenntnis genommen
+- TOP 39: Informationsvorlage zum Beschluss der BV 9 vom 05.10.2018, Radweg Urdenbacher Allee - zur Kenntnis genommen
+- TOP 40: Informationsvorlage zum Beschluss der BV 9 vom 26.01.2018, Bedarfsampel Harffstraße - zur Kenntnis genommen
