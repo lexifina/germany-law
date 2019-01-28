@@ -1,0 +1,11 @@
+# Standortsuche für das Feuerwehrgerätehaus der Freiwilligen Feuerwehr WalheimSachstandsbericht der Verwaltung
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: BA 4/0155/WP17
+- Art: Entscheidungsvorlage
+- Datum: 2019-01-28
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=19596
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=19596
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=329569&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4068 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
