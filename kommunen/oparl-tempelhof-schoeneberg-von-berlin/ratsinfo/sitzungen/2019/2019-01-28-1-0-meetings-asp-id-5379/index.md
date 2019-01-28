@@ -1,0 +1,51 @@
+# 23. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-01-28T17:00:00+01:00
+- Ende: 2019-01-28T19:15:00+01:00
+- Ort: John-F.-Kennedy-Platz 1, 10825 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5379
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5379
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=322398
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Beschlussempfehlungen - (offen)
+- TOP 2.1: Bäume an der Urania erhalten, dazu Gäste - vertagt
+- TOP 3: Rattenbefall in den Grünanlagen Bayerischer Platz/Innsbrucker Str., auf Wunsch der CDU, dazu Gäste - vertagt
+- TOP 4: Thema: Ginkgo-Bäume im Muttlerweg, dazu BzStRin Heiß - vertagt
+- TOP 5: Genehmigung vorliegender Protokolle - im Ausschuss abgelehnt
+- TOP 6: Bericht aus der Verwaltung - vertagt
+- TOP 7: Vorlagen des Vorstehers - (offen)
+- TOP 7.1: Poller auf Gehwegen auf ein sinnvolles Maß reduzieren - vertagt
+- TOP 8: Anträge - (offen)
+- TOP 8.1: offene Beschlussempfehlung, eingebracht durch Fraktion GRÜNE, zur Handjerystraße - im Ausschuss abgelehnt
+- TOP 8.2: Poller auf dem Gehweg Handjerystraße beseitigen - vertagt
+- TOP 8.3: Verkehrssicherheit durch Tempo 30 auf den Spangen der Bundesallee (1) - vertagt
+- TOP 8.4: Umwidmung des Verbindungswegs zwischen Säntisstraße und Buchsteinweg - vertagt
+- TOP 8.5: Kampf dem Insektensterben - vertagt
+- TOP 8.6: Verkehrsführung Nahmitzer Damm/Buckower Chaussee zum Einkaufszentrum Südmeile verbessern - vertagt
+- TOP 8.7: Beseitigung der Insel an der Einmündung Vorbergstraße/Hauptstraße - vertagt
+- TOP 8.8: Fahrbahnsanierung und Radwegmarkierung in der Rubensstraße vom Vorarlberger Damm bis zur Thorwaldsenstraße - vertagt
+- TOP 8.9: Sportanlage Vorarlberger Damm 33 (Sport = mitberatend) - vertagt
+- TOP 8.10: Lichtzeichenanlage für Fahrräder am Innsbrucker Platz nicht zuzuordnen - vertagt
+- TOP 8.11: Schulwegfreundliche Ampelschaltung an der Hohenstaufenstraße Ecke Kyffhäuser Straße - vertagt
+- TOP 8.12: Fuß- und radverkehrsfreundliche Ampelschaltung auf dem Weg in den Volkspark und zur RR1 nach Wannsee - vertagt
+- TOP 8.13: Fahrrad- und fußgängerfreundlichere Überquerung der Kirchstraße im Verlauf des Fuß- und Radwegs An der Heilandsweide - vertagt
+- TOP 8.14: Keine Diesel-Fahrverbote in Berlin – Interessen von Bürgern und Mittelstand wahren - vertagt
+- TOP 8.15: Mittelinseln kenntlicher machen - vertagt
+- TOP 8.16: Sicher über die Kreuzung Goltzstraße/Rehagener Straße - vertagt
+- TOP 8.17: Sichere Wege für alle Verkehrsteilnehmer*innen: Tempo 30 in der Laubacher Straße umsetzen - vertagt
+- TOP 8.18: Winterdienst in Grün- und Erholungsanlagen ermöglichen (Hauptausschuss = federführend) - vertagt
+- TOP 8.19: Dialogdisplay für das Kinder- und Jugendparlament - vertagt
+- TOP 8.20: Bessere Sicherung der Verkehrsinseln im Bezirk erreichen - vertagt
+- TOP 8.21: Verkehrsinseln besser sichtbar machen - vertagt
+- TOP 8.22: Was macht der Regionalbahnhalt am Bahnhof Buckower Chaussee? - vertagt
+- TOP 9: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 9.1: Deklaration biologische Vielfalt in Tempelhof-Schöneberg - vertagt
+- TOP 9.2: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Einleitung des Verfahrens zur Aufstellung des Bebauungsplans 7-96 für die Grundstücke Diedersdorfer Weg 5/11 im Bezirk Tempelhof-Schöneberg, Ortsteil Marienfelde - vertagt
+- TOP 10: Verschiedenes - im Ausschuss abgelehnt
