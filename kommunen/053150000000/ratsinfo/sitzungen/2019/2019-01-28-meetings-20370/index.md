@@ -1,0 +1,83 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-28T17:07:00+01:00
+- Ende: 2019-01-28T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20370
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20370
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Schaffung von Liegeplätzen für die Rheinschifffahrt - endgültig zurückgezogen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage gem. § 4 der Geschäftsordnung des Rates; AN/0202/2018, hier: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 7.1.2: Geschlossene Kindertagesstätte in Bayenthal, Klerschweg 2, - Kenntnis genommen
+- TOP 7.1.3: WLAN-Hotspots bei der KVB; Beantwortung einer Anfrage AN/1772/2018 - Kenntnis genommen
+- TOP 7.1.4: Abstellen von Fahrrädern im öffentlichen Raum - Kenntnis genommen
+- TOP 7.1.5: Stadtbezirksübergreifende Schulbesuche / Schülerwanderbewegungen im Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 7.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.7: Beantwortung mündlicher Nachfragen zur Mitteilungsvorlage 3721/2018 in der Sitzung vom 17.12.2018 - Kenntnis genommen
+- TOP 7.1.8: CDU-Anfrage aus der Sitzung der BV-Rodenkirchen am 12.11.2018 zum aktuellen Stand der Planungen für die Interimsbegegnungsstätte in Meschenich - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1.1: Belastungen der Bürger im Stadtbezirk durch Straßenausbaubeiträge - Kenntnis genommen
+- TOP 7.2.2: Sicherung der Bahnübergänge der Rheinuferbahn durch Schrankenanlagen, Gemeinsame Anfrage der CDU-Fraktion und der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Sachstand zur Nutzung des brachliegenden Grundstück am Verteiler Köln-Süd als Gehölzfläche, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Umsetzung nach Verkehrsversuch Bayenthal / Marienburg; Gemeinsame Anfrage der CDU-Fraktion und der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Verkehrssituation um die Grundschulen vor Schulbeginn und nach Schulende, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sanierung der Europaschule in Köln--Raderthal/Köln Zollstock, Gemeinsamer Antrag aller Fraktion - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Grundschule “Kettelerstraße” in Meschenich: Küche der Ganztagsbetreuung, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.4: Sanierung der Treppenanlage zum Rosengarten am Zwischenwerk VIII b in Marienburg, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.4.1: Stellungnahme der Verwaltung zu AN/1767/2018 Sanierung der Treppenanlage zum Rosengarten am Zwischenwerk VIII b in Marienburg - Kenntnis genommen
+- TOP 8.1.5: Umwandlung der Flüchtlingsunterkunft "Bonotel" in Köln-Marienburg in ein Studentenwohnheim, Antrag der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.6: Lärmschutzmaßnahmen im Stadtbezirk Rodenkirchen, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Querungshilfe an der KVB-Haltestelle Steinneuerhof, Kapellenstraße in Köln-Rondorf, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.8: Artenreiche Blumenwiese: Anlage und Pflege, Antrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.8.1: Änderungsantrag der CDU-Fraktion zu AN/1422/2018 - endgültig zurückgezogen
+- TOP 8.1.8.2: Gemeinsamer Ersetzungsantrag der Fraktion Die Grünen und der CDU - Fraktion - ungeändert beschlossen
+- TOP 8.1.9: Absolutes Halteverbot auf der Alten Brühler Straße in Meschenich, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.10: Rathaus Rodenkirchen: Sammelbox für Altbatterien, Antrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.11: Sanierung der Straße „Auf dem Hügel“ in Köln Sürth in Fortsetzung des asphaltierten Weges Richtung Rheinufer, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Beendigung des Planungsverfahrens für den Hafenausbau in Godorf, Gemeinsamer Antrag der CDU-Fraktion, der Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.2.2: Umsiedlung der Fa. Theo Steil in den Godorfer Hafen: Rahmenbedingungen, Gemeinsamer Antrag der CDU-Fraktion, der Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.1.1: Änderungsantrag der Fraktion Die Grünen - zurückgestellt
+- TOP 9.1.2: Widmung von Teilstücken der Mozartstraße in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.1.3: Widmung von Teilstücken der Lucas-Cranach-Straße in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.1.4: Widmung eines Teilstücks der Johanniterstraße in Köln-Godorf - ungeändert beschlossen
+- TOP 9.1.5: Benennung von zwei Planstraßen im Baugebiet östlich Claudiusstraße in Köln-Immendorf - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ungeändert empfohlen
+- TOP 9.2.2: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - mit Änderungen empfohlen
+- TOP 9.2.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.2: Ergänzungsantrag der Fraktion Die Grünen - TOP 9.2.1 (Parkstadt Süd, Integrierte Planung) - endgültig zurückgezogen
+- TOP 9.2.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.4: TOP 9.2.2.2 (Parkstadt Süd, Integrierte Planung) - Ersetzungsantrag - Sache ist erledigt
+- TOP 9.2.3: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "MyDagis – Skandinavische Kitas gemeinnützige UG" - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.2: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 10.2.3: Stellungnahme der Sportverwaltung zum Antrag AN/1478/2018 - Sportplatz für den SV Godorf - Kenntnis genommen
+- TOP 10.2.4: Aufklärungskampagne der Gesundheitsvorsorge für Kinder und Jugendliche in Meschenich/Kölnberg - Kenntnis genommen
+- TOP 10.2.5: Einrichtung einer Tempo 30-Zone im Ober Buschweg - Kenntnis genommen
