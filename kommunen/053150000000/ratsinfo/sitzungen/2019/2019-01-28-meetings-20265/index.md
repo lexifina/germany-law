@@ -1,0 +1,58 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-28T15:10:00+01:00
+- Ende: 2019-01-28T17:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20265
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20265
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701670.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701670.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701670.pdf
+
+## Tagesordnung
+
+- TOP -: Vorführung des Imagefilms der Ursula-Kuhr-Schule, Hauptschule Volkhovener Weg
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz in Köln-Neubrück - Antrag der CDU-Fraktion vom 06.06.2018 - AN/0907/201 - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP -: Stellungnahme zu dem Gemeinsamen Änderungs- bzw. Ersetzungsantrag der SPD-Fraktion und der CDU-Fraktion in der BV Kalk vom 21.06.2018 AN/1021/2018 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Mündliche Anfrage des Ratsmitgliedes Kockerbeck, DIE LINKE, zum Schulstandort Alteburger Straße in der Parkstadt Süd - Sache ist erledigt
+- TOP -: Anfrage des Ratsmitgliedes Kockerbeck, DIE LINKE, zum Schulstandort Alteburger Straße in der Parkstadt Süd - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Schulische Notfallpläne - zurückgestellt
+- TOP 3.2.2: Bau- und Sanierungsverzug wegen verzögerten Fachraumplanungen am Apostelgymnasium - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - ungeändert beschlossen
+- TOP 4.2: Erweiterungsbau Humboldt-Gymnasium, Kartäuserwall 40, 50676 Köln, Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 0301, Schulträgeraufgaben bei Finanzstelle 4013-0301-1-2540 - ungeändert beschlossen
+- TOP 4.3: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert beschlossen
+- TOP 4.4: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - ungeändert beschlossen
+- TOP 4.5: Berufung eines Vertreters sowie einer Stellvertreterin der Stadtschulpflegschaft als ständige Mitglieder mit beratender Stimme in den Ausschuss für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 4.6: Bildungslandschaft Altstadt Nord (BAN) – Baubeschluss für Baufeld C - Abendgymnasium - ungeändert beschlossen
+- TOP 4.7: Beschluss der Bezirksvertretung Porz vom 15.05.2018 zur Verlagerung des Berufskollegs Porz (BK 10) - ungeändert beschlossen
+- TOP 4.8: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 4.9: Einrichtung eines Last-Minute-Angebots bei der Volkshochschule Köln - ungeändert beschlossen
+- TOP 4.10: Ausbauplanung der Schulsozialarbeit - geändert beschlossen
+- TOP 4.11: Beschluss über die kommunale Klassenrichtzahl - geändert beschlossen
+- TOP 4.12: Zügigkeitserhöhung des Bildungsgangs Fachoberschule FOS 12 Typ B / Technik - ungeändert beschlossen
+- TOP 4.13: Rheinische Musikschule Köln, Mittelfreigabe und Konzept - ungeändert beschlossen
+- TOP 4.14: Planungsaufnahme zur Generalinstandsetzung und Errichtung eines Erweiterungsbaus für die Carl-von-Ossietzky-Gesamtschule am Standort Paul-Humburg-Str. 13, 50737 Köln-Longerich - ungeändert beschlossen
+- TOP 4.15: Zuschuss für experimentelle Musikprojekte an Schulen (SPEM) - ungeändert beschlossen
+- TOP 4.16: Erstellung eines Neubaus für die Heliosschulen - Grund- und Gesamtschule mit einer Ein- und einer Dreifeldsporthalle als inklusive Universitätsschule der Stadt Köln an der Vogelsanger Str. (ehemaliges Helios-Gelände) in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Ermäßigungen für Menschen mit Behinderung und ihre Begleitpersonen in städtischen Sportstätten, Kultur- und Bildungseinrichtungen - Kenntnis genommen
+- TOP 5.2: Monitoringbericht (allgemeinbildende Schulen und Berufskollegs) 2018 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.3: Beauftragung von Schulsozialarbeit an Kölner Grundschulen - Kenntnis genommen
+- TOP 5.4: Neues VHS-Programm für das 1. Semester im Jubiläumsjahr 2019 - Kenntnis genommen
+- TOP 5.5: Interkommunale Zusammenarbeit zwischen der Stadt Köln und der Stadt Pulheim am Schulzentrum Brauweiler - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
