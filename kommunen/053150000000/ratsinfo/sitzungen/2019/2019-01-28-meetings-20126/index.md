@@ -1,0 +1,67 @@
+# 37. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-28T17:00:00+01:00
+- Ende: 2019-01-28T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20126
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20126
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Fachvortrag der Stadtentwässerungsbetriebe - Wanderausstellung "Starkregen"
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Parkplatzsituation im Bereich Widdersdorferstr./Oskar-Jäger-Str. (Az.: 02-1600-74/18) - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Sach- und Planungsstand Hinterhofbebauung Hospeltstraße 66-70 - zurückgestellt
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Anfrage der FDP/Piraten-Fraktion, betr.: Unterführung Widdersdorfer Straße / Girlitzweg - zurückgestellt
+- TOP 6.4: Anfrage der CDU-Fraktion, betr.: Kardinal-Frings-Schule Köln-Vogelsang - Kenntnis genommen
+- TOP 6.4.1: Kardinal-Frings-Grundschule in Köln-Vogelsang - zu AN/1733/2018 - Kenntnis genommen
+- TOP 6.5: Anfrage der CDU-Fraktion, betr.: Parken und Halten auf markierten Radwegen in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 6.5.1: Parken und Halten auf markierten Radwegen in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 6.6: Anfrage der CDU-Fraktion, betr.: Barthonia-Forum - Sache ist erledigt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Wohnungsbauoffensive im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Klärung zur Verlängerung Linie 4 bis Köln-Widdersdorf - ungeändert beschlossen
+- TOP 8.2: Antrag der CDU-Fraktion, betr.: Rasengleise auf der Subbelrather Straße - geändert beschlossen
+- TOP 8.3: Dringlichkeitsantrag der CDU-Fraktion, betr.: Barthonia Forum - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - zurückgestellt
+- TOP 9.2: Spielplatzbedarfsplanung der Stadt Köln 2018 - Maßnahmenplanung für den Stadtbezirk Ehrenfeld zu Spiel-, Bewegungs- und Aktionsflächen für Kinder und Jugendliche im öffentlichen Raum - geändert beschlossen
+- TOP 9.3: Baubeschluss für die Einrichtung der neuen Haltestelle an der Helmholtzstraße im Zusammenhang mit den vorgesehenen Busnetzerweiterungen im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Seeadlerweg in Köln-Ehrenfeld; Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 10.2: Gewerbegebiet Venloer Straße in Köln-Bocklemünd/Mengenich, 1. Änderung; frühz. Öffentlichkb. - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Planung und Durchführung der Maßnahme "Umgestaltug des Rochusplatzes" in Köln-Bickendorf aus dem Programm "Starke Veedel – Starkes Köln" (Sozialraum Bickendorf, Westend und Ossendorf); Bedarfsfeststellungsbeschluss - geändert beschlossen
+- TOP 10.3.1: Bürgereingabe gem § 24 GO, betr.: Rochusplatz - Az.: 02-1600-06/2019
+- TOP 10.3.2: Vorlage 2423/2018 Bedarfsfeststellungsbeschluss für externe Planungsleistungen; Verlegung der Venloer Straße nach Süden; Aufnahme in die aktuelle Planung für die Umgestaltung des Rochusplatzes - Kenntnis genommen
+- TOP 10.4: Ossendorfer Weg/Mühlenweg in Köln-Bickendorf; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.5: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 10.6: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - geändert beschlossen
+- TOP 10.7: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "MyDagis – Skandinavische Kitas gemeinnützige UG" - ungeändert beschlossen
+- TOP 10.8: Beschluss der Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum "Bickendorf, Westend und Ossendorf" - ungeändert beschlossen
+- TOP 10.9: Erstellung eines Neubaus für die Heliosschulen - Grund- und Gesamtschule mit einer Ein- und einer Dreifeldsporthalle als inklusive Universitätsschule der Stadt Köln an der Vogelsanger Str. (ehemaliges Helios-Gelände) in Köln-Ehrenfeld - zurückgestellt
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Sachstand zum Projekt Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 12.2: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 12.3: Sachstandsmitteilung zur Prioritätenliste - Kenntnis genommen
+- TOP 12.4: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.5: WLAN in der U-Bahnhaltestelle Venloer Str / Gürtel; Antrag der FDP/Piraten-Fraktion AN/1434/2018 - Kenntnis genommen
+- TOP 12.6: Beantwortung einer Anfrage der SPD-Fraktion und einer Anfrage der CDU-Fraktion betreffend "Städtebauliches Planungskonzept; Arbeitstitel: "Nördlich Colonius" in Köln-Neustadt/Nord; Hier: Mitteilung über eine neue Konzeptidee - 3799/2018" - Kenntnis genommen
+- TOP 12.7: Privater und öffentlich geförderter Wohnungsbau im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.8: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 12.9: Unterkunft für Geflüchtete am Standort Wilhelm-Schreiber-Str. - Kenntnis genommen
+- TOP 12.10: Rückfragen zur Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - Kenntnis genommen
+- TOP 12.11: Antrag der Bezirksvertretung Ehrenfeld vom 05.11.2018 betreffend Sachstand Beschlusslage und Bauvorhaben Melatengürtel/Grüner Weg - Kenntnis genommen
+- TOP 12.12: Förderung des Stadtklimas in Ehrenfeld/ GRÜNhoch4 (AN/1647/2018) - Kenntnis genommen
+- TOP 13: mündliche Anfragen
