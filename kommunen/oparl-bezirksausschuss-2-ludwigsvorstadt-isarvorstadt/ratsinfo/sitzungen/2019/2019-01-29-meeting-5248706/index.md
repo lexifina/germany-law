@@ -1,0 +1,154 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-01-29T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5248706
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5248706
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Personelles
+- TOP 4.1.: Nachrückerbeschlüsse für CSU und Rosa Liste
+- TOP 1: Anträge
+- TOP 1.1.: Finanzierung der Nachmittagsbetreuung der GS Schwanthalerstraße durch das RBS
+- TOP 2: Entscheidungen
+- TOP 2.2.: Stadtbezirksbudget, Verlängerung des Bewilligungszeitraums für den Budgetantrag "Pissoir Holzplatz" bis 30.09.2019
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Nachfrage an das Direktorium zu Laufzeiten von zeitkritischen Unterrichtungen
+- TOP 5.3.: Stellungnahme des UA KJS zu TOP C 4.6 "Ampel Klenze-/Wittelsbacherstraße"
+- TOP 5.4.: Informationen aus dem Kulturreferat zum Stadtteilkulturzentrum LUISE sowie zu Kulturprojekten im Südlichen Bahnhofsviertel
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.2.: Bürgeranliegen, Ampelschaltung am Stachus (2018.05 C 5.7; 2018.09 C 4.11; 2018.10 C 5.6, 2018.11 C 5.8, 2018.12 C 5.7)
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: BA-Budget: Bescheide
+- TOP A 4.2.: BA-Budget; Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Verein für heilpädagogische Aufgaben e.V. Zusätzliche BetreuerIn für sozial benachteiligte Kinder vom 01.02. - 31.07.2019 3.000,00 Euro, Az.: 0262.0-2-0246
+- TOP 5.1.: Bürgeranliegen, Anfrage bezüglich Kindeswohl in Zusammenhang mit Sozialwohnung
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Pflanzung von zwei Bäumen an der Kreuzung Isartal- / Dreimühlenstraße Empfehlung Nr. 14-20 / E 02296 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Bayerstraße 33, Nutzungsänderung Imbiss zu Sozialraum sowie Spielothek zu Büros, Abbruch Treppenanlage, Deckenschließung + Einbau Kühlgeräte
+- TOP 3.1.2.: Fraunhoferstraße 23i, Nutzungsänderung EG + 1. OG: Produktion zu Wohnung im Zuge einer Sanierung und Aufstockung um ein Geschoss mit Dachterrasse
+- TOP 3.1.3.: Museumsinsel 1, Deutsches Museum München – Sanierung; Sammlungsbau, Neubau provisorisches Eingangsbauwerk (befristet auf max. 15 Jahre ab Erteilung der Baugenehmigung)
+- TOP 3.1.4.: Goethestraße 40, Nutzungsänderung von Laden zu Café-Restaurant im EG und von Café und Lager zu Personalräumen im Zwischengeschoss sowie Neubau von Toiletten
+- TOP 3.1.5.: Goethestraße 40, Errichtung einer Freischankfläche
+- TOP 3.1.6.: Sonnenstraße 8, Nutzungsänderung: Wettbüro zu Shisha-Bar mit 35 Gastplätze
+- TOP 3.1.7.: Sonnenstraße 8, Nutzungsänderung Bar + Gaststätte + 2 Läden + Büro zu Wettbüro
+- TOP 3.1.8.: Pestalozzistraße 15-17, Neubau Wohnbebauung mit nicht-störendem Gewerbe und Tiefgarage (2018.12 C 3.1.9)
+- TOP 3.1.9.: Schillerstraße 3 – 3a, Neubau eines Hotels mit Gastronomie im EG und Tiefgarage
+- TOP 3.1.10.: Karlsplatz 25, Tektur, Neubau Hotel Königshof und Zwischenbauwerk
+- TOP 3.1.11.: Bayerstraße 2, Tektur, Nutzungsänderung DG: Lager zu Büro
+- TOP 3.1.12.: Schwanthalerstraße 61, Tektur, Neubau eines Hotelgebäudes mit Tiefgarage
+- TOP 3.1.13.: Fraunhoferstraße 13, Nutzungsänderung EG (Gewerbeeinheiten) + UG, DG-Ausbau zu Wohnzwecken sowie Anbau eines Außenaufzugs und von Balkonen, Abbruch der angrenzenden Rückgebäude
+- TOP 3.1.14.: Zenettistraße 48, Nutzungsänderung 1. OG: Sportschule zu sieben Appartments zur Erweiterung des Boardinghouses
+- TOP 3.1.15.: Adolf-Kolping-Straße 11, Errichtung eines 2. baulichen Fluchtwegs und brandschutztechnische Ertüchtigung der notwendigen Fluchtwege, Dachgeschoss-Umbau/-Ausbau für ein zusätzliches Hotelzimmer, Umbau von 10 Hotelzimmern in 5 Hotelsuiten
+- TOP 3.1.16.: Pettenkoferstraße 48, TEKTUR, DG-Ausbau, Aufzugsneubau und Kellererweiterung, Erneuerung Decke über Treppenraum, Errichtung Dachterrasse und Zwiebelturmhelm auf Erker, Umbau und Nutzungsänderung Garage zu Müllraum
+- TOP 3.1.17.: Hans-Sachs-Straße 5, Zusammenlegung von 4 Nutzungseinheiten
+- TOP 3.1.18.: Augsburgerstraße 13, Vorbescheid, Erneuerung des Dachstuhls, DG-Ausbau zu einer Wohnung, Umbau und Sanierung der Wohnungen im 3. OG, Erweiterung des Treppenhauses in DG durch Herstellung eines Zwerchgiebels, Balkonaufbau (1. - 3. OG) hofseitig, Brandschutzertüchtigung und energetische Sanierung
+- TOP 3.1.19.: Reichenbachstraße 38, Aufstockung und Wiederherstellung Mansardendachstuhl, Anbau zweier hofseitiger Balkone im DG, Einbau eines Aufzugs, Umbau EG – 3. OG, Neuaufbau Fahrradabstell- und Müllraum, Rekonstruktion der Straßenfassade
+- TOP 3.1.20.: Lindwurmstraße 139a, Aufteilung einer Wohnung in 2 Wohneinheiten (2. - 5. OG) und Anbau von 8 straßenseitigen Balkonen
+- TOP 3.1.21.: Schwanthalerstraße 18, Vorbescheid, Neubau eines Hotels mit TG
+- TOP 3.1.22.: Schmellerstraße 30, Aus- und Umbau des Dachstuhls mit Gauben, Dacheinschnitt und Anbau einer Fluchtleiter
+- TOP 3.1.23.: Sonnenstraße 20, Vorbescheid, Umbau und Sanierung eines Gewerbe- und Wohngebäudes mit Nutzungsänderung von Wohnen in Gewerbe sowie Errichtung von Wohneinheiten im Innenhof
+- TOP 3.2.1.: Bavariaring 6, Mehrere Bäume
+- TOP 3.2.2.: Sonnenstraße und Schillerstraße, Mehrere Bäume
+- TOP 3.2.3.: Vollzug der Baumschutzverordnung, Schillerstraße 3 – 3a, Neubau eines Hotels mit Gastronomie im EG und Tiefgarage
+- TOP 3.2.4.: Vollzug der Baumschutzverordnung, Karlsplatz 25, Neubau Hotel Königshof
+- TOP 3.3.1.: Fahrbahnsanierung zwischen Theresienhöhe und Bavariaring
+- TOP 3.3.2.: Fahrbahnsanierung Arnulfstraße 19-27
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Gaststätte „Emsa“, Kapuzinerstraße 8, Erteilung einer Ausnahmegenehmigung zum Aufstellen von Tischen und Stühlen auf öffentlichen Verkehrsgrund (2018.11 C 2.1.1, 2018.12 C 2.1.1)
+- TOP 2.1.2.: Gaststätte „meat in bun“, Kapuzinerstraße 31, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.1.: Radverkehrsanlagen in der Fraunhoferstraße (2018.12 C 2.3.1)
+- TOP 2.3.2.: (E) Diffamierende Graffitis an historischen Gebäuden farblich passend überstreichen Empfehlung Nr. 14-20 / E 02299 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 2.3.3.: (E) Umsetzung des gerichtlich verordneten Dieselfahrverbotes im Stadtbezirk Empfehlung Nr. 14-20 / E 02292 der Bürgerversammlung des Stadtbezirkes 02 – Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Sanierung Olympiastadion – Ausweichefläche Theresienwiese (2018.12 C 3.1.1)
+- TOP 3.1.2.: Eiche-Fasching am 05.03.2019 in der Reichenbachstraße
+- TOP 3.1.3.: BRK-Flohmarkt auf der Theresienwiese am 27.04.2019
+- TOP 3.2.1.: Fahrradstellplätze in der Frauenlobstraße 1 (2018.12 C 3.2.2)
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Tumblingerstraße 1
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Verkehrssituation in der Landwehrstraße
+- TOP 5.3.: Bürgeranliegen, 30er Zone in der Wittelsbacherstraße Höhe Klenzeschule
+- TOP 5.4.: Bürgeranliegen, Wahlplakatständer entfernen
+- TOP 5.5.: Bürgeranliegen, Antrag auf 30er-Zone in der Thalkirchner Straße
+- TOP 5.6.: Bürgeranliegen, Zustand Zenettiplatz
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Schiller 25 (Wohnungsvermittlung für Obdachlose)
+- TOP A 4.4.: Künstlerische Gestaltung der Fußgängerunterführung Seidlstraße – Kunstprojekt Muninchen
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Baumaßnahmen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP B 4.3.: Unterrichtung zum Baumschutzfall, Westermühlstraße 37
+- TOP B 4.4.: Kosten der Umgestaltung des Bereichs Dreimühlen-/Isartalstraße, BV-Anfrage Nr. 14-20 / Q 00595
+- TOP B 4.5.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat
+- TOP B 4.6.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP B 4.7.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP B 4.8.: Baugenehmigungsbescheid mit Stellungnahme für das Objekt Ickstattstraße 5
+- TOP B 4.9.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP B 4.10.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Einrichtung einer Ampel Klenze-/Wittelsbacherstraße, BA-Antrag Nr. 14-20 / B 05167
+- TOP C 4.7.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP C 4.8.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP C 4.9.: Erhardtstraße, temporäre Kunst im öffentlichen Raum
+- TOP C 4.10.: Antwort auf Bürgeranliegen, Grenzmarkierung gegenüber der Fliegenstraße 16
+- TOP C 4.11.: Anfrage des BA 2 hinsichtlich Wildtiere im Programm des Circus Krone auf der Theresienwiese
+- TOP C 4.12.: (U) Erhöhtes Verkehrsaufkommen durch das neue Einkaufszentrum - Forum Schwanthalerhöhe Empfehlung Nr. 14-20 / E 01453 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 27.04.2018
+- TOP C 4.13.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München; Sitzungsvorlage Nr. 14-20 / V 12912
+- TOP C 4.14.: Antwortschreiben des Kreisverwaltungsreferates zum Bürgeranliegen „Parkplatzsituation aufgrund der Alten Utting“
+- TOP C 4.15.: Ausnahmezulassung für den Betrieb von Müllsammelfahrzeugen
+- TOP C 4.16.: Sondernutzungserlaubnis zum Aufstellen eines mobilen Fahrradständers vor dem Anwesen Schwanthalerstraße 14 – Einholen der OB-Entscheidung
+- TOP C 4.17.: Öffnungszeiten Schyrenbad, Antwortschreiben zu BA-Antrag Nr. 14-20 / B 05225
+- TOP C 4.18.: Presseberichte über die Entstehung eines Busparkplatzes für Touristenbusse am Kaufhof, Antwortschreiben
+- TOP C 4.19.: Umgestaltung Goetheplatz
+- TOP C 4.20.: Bürgeranliegen, Ampel an der Mozartstraße, Antwortschreiben
+- TOP C 4.21.: Bürgeranliegen, Aufstellen von Abfalleimern im Dreimühlenviertel, Mitteilung eines konkreten Aufstellungsortes
+- TOP C 4.22.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
