@@ -1,0 +1,73 @@
+# 42. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-29T17:05:00+01:00
+- Ende: 2019-01-29T19:16:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20225
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20225
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701170.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701170.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00701170.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Verkehrskonzept Rondorf Nord-West - ungeändert beschlossen
+- TOP 1.2: Fahrscheinloser Tag auch 2019 - geändert beschlossen
+- TOP 1.2.1: Osterferien 2019 – fahrscheinlos! - Änderungsantrag zu Top 3.1.8 "Fahrscheinloser Tag auch 2019" - endgültig abgelehnt
+- TOP 1.2.2: Antrag der Ratsgruppe Bunt AN1808/2018 – „Fahrscheinloser Tag auch 2019“ - endgültig zurückgezogen
+- TOP 1.2.3: Hier: Antrag der Ratsgruppe Bunt AN1808/2018 – „Fahrscheinloser Tag auch 2019“ - ungeändert beschlossen
+- TOP 1.3: Pänz op Jöck – Ausflugsticket für Schulklassen - geändert beschlossen
+- TOP 1.4: Autofreie Altstadt jetzt! - endgültig zurückgezogen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - zurückgestellt
+- TOP 3.2: Beibehaltung und Ausweitung der dualen Radverkehrsführung in Köln-Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - zurückgestellt
+- TOP 3.3: 1. Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 3.4: Bedarfsfeststellung und Vergabe über die Beschaffung von Stahlklickelementen als Zubehör für Verkehrszeichen und Poller für die Jahre 2019/2020 - ungeändert beschlossen
+- TOP 3.5: Verkehrsführungskonzept Altstadt - im ersten Durchgang verwiesen
+- TOP 3.5.1: Verkehrskonzept City/Altstadt (Vorlagen-Nr.: 2835/2016/2) - endgültig abgelehnt
+- TOP 3.6: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - im ersten Durchgang verwiesen
+- TOP 3.7: Ersatzbeschaffung von Fahrzeugen und Geräten für das Amt für Straßen und Verkehrsentwicklung - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: 268. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.2: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - zurückgestellt
+- TOP 4.3: Siebzehnte Satzung zur Änderung der Satzung der Stadt Köln vom 29.06.2001 über die Erhebung eines Erschließungsbeitrages - ungeändert empfohlen
+- TOP 4.4: 6. Satzung zur Änderung der Sondernutzungssatzung - ohne Votum in nachfolgende Gremien
+- TOP 4.5: Ergänzung des Stadtbahnvertrages vom 03.09./09.09.1991 hinsichtlich der Federführung für die Maßnahme Kapazitätserweiterung durch Verlängerung der Bahnsteige an Haltestellen der Linien 4 und 13 sowie Beschluss über die Umsetzung der Planung bis Leis - ungeändert empfohlen
+- TOP 4.6: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - ungeändert empfohlen
+- TOP 4.7: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert empfohlen
+- TOP 4.8: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - ohne Votum in nachfolgende Gremien
+- TOP 4.10: KölnKlimaAktiv 2022 - zurückgestellt
+- TOP 4.11: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - im ersten Durchgang verwiesen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Anfrage der SPD-Fraktion vom 23.01.2019 betr. "Sachstand wichtiger Projekte zum Ausbau des Stadtbahnnetzes" - Sache ist erledigt
+- TOP 5.2.2: Grüner Pfeil nur für Radfahrer*innen - Sache ist erledigt
+- TOP 5.2.3: Originelle Ampeln in Köln - Sache ist erledigt
+- TOP 5.2.4: Ausweitung Ladezonen - zurückgestellt
+- TOP 5.2.5: Platzierung von Radpiktogrammen - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Tunnel realisierbar? Fragen zur Ost-West-Achse - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: 14,7 Millionen mehr für saubere Luft - warum baut die KVB von dem Geld die Videoüberwachung aus? hier: Anfrage der Ratsgruppe BUNT in der Sitzung des Verkehrsausschusses am 11.12.2018, TOP 5.2.4 (AN/1811/2018) - Sache ist erledigt
+- TOP 6.3: Fahrverbote in Köln – auch ältere Benziner mit geregeltem Katalysator sind betroffen - Sache ist erledigt
+- TOP 6.4: Velosichere Schienen für Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhung nach § 24 Abs. 2 GemHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Linksrheinische Anlegestellen mit Dalben - Kenntnis genommen
+- TOP 7.2.2: Bericht der Stadt Köln gemäß Art. 7 der EU-Verordnung 1370/2007 - Kenntnis genommen
+- TOP 7.2.3: Anregung der Stadtarbeitsgemeinschaft Seniorenpolitik - Kenntnis genommen
+- TOP 7.2.4: Taktverdichtung S12/S13/S19 - Kenntnis genommen
+- TOP 7.2.5: Umweltbelastung durch Schiffe - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Ost-West-Achse - Sache ist erledigt
+- TOP 8.2: Gefahrenstellen in Baustellenbereichen
