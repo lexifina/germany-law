@@ -1,0 +1,55 @@
+# 34. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-29T15:40:00+01:00
+- Ende: 2019-01-29T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20221
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20221
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00698536.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00698536.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00698536.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Änderung der Satzung des Heinrich – Böll – Preises - zurückgestellt
+- TOP -: Stellungnahme zum Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Änderung der Satzung des Heinrich–Böll–Preises" (AN/1827/2018) - zurückgestellt
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 4.2: Vergabe von Zuschüssen zur Technikförderung und Bauunterhaltung der freien Szene - ungeändert empfohlen
+- TOP 4.3: Vergabe von Mietzuschüssen für Ateliers Clouth 104 - ungeändert beschlossen
+- TOP 4.4: Ankauf eines Kunstwerkes der Künstlerin Sarah Lucas für das Museum Ludwig - ungeändert beschlossen
+- TOP 4.5: Puppenspiele der Stadt Köln - Erhöhung der Eintrittspreise und Änderung der Entgeltordnung ab der Spielzeit 2019/2020 - zurückgestellt
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen 2019 - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für das Museum Ludwig - ungeändert empfohlen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Der städtebauliche Masterplan für die Innenstadt Köln; hier: Lupenraum Via Culturalis - Veröffentlichung Audiotour - Kenntnis genommen
+- TOP 8.2: Terminplanung der Berichte der Freien Szene 2019 - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Umnutzung und Denkmalschutz der Ellmühle im Deutzer Hafen - Kenntnis genommen
+- TOP 8.5: Stadtbibliothek Köln Bericht 2018/2019 - Kenntnis genommen
+- TOP 8.6: Unterrichtung des Ausschusses für Kunst und Kultur über die abgeschlossene Bearbeitung des Denkmälerverzeichnisses, Stand 31.12.2018 - Kenntnis genommen
+- TOP 8.7: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR- Jüdisches Museum im Archäologischen Quartier Köln, Stand 03.01.2019 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 16.01.2019 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Sanierung Zentralbibliothek - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der Ratsgruppe GUT betr.: "Kulturbaustein Heliosgelände – weiteres Vorgehen?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Ratsgruppe GUT betr.: "Kulturbaustein Heliosgelände – weiteres Vorgehen" - Kenntnis genommen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.5: Gemeinsame Anfrage der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen, der Fraktion DieLinke und der FDP-Fraktion betr.: "Sicherstellung der dauerhaften Pflege des Grabes von Paul Schallück auf dem Friedhof Müngersdorf" - zurückgestellt
+- TOP 12: Mündliche Anfragen
