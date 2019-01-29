@@ -1,0 +1,7 @@
+# TOP 9.: Neue Strategien der Quartiersarbeit hier: Antrag der SPD-Fraktion vom 15.01.2019
+
+- Sitzung: Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (31. Sitzung) (2019-01-29)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/47243
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29139
