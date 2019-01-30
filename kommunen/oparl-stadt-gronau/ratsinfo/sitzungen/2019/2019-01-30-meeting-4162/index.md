@@ -1,0 +1,51 @@
+# Rat (56. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2019-01-30T18:00:00+01:00
+- Ende: 2019-01-30T21:06:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVP2T0SeaF3j9OxCq3XC508
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4162
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTgv3c9B4RkVBjG-7T1A4QA2Ql-KStKxyx_F1NjJFeEk/Bekanntmachung_Rat_30.01.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYZ4OKzEXFI1oLNUzrZyaVjtgY1D8DrSqvj0BYexyGCt/Oeffentliche_Niederschrift_Rat_30.01.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 21.11.2018
+- TOP 4.: Niederschrift vom 12.12.2018
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Zukunft mit Visionen – „EUREGIO-Quartier schaffen. Antrag auf grenzüberschreitende Quartiersentwicklung; Antrag der CDU-Fraktion vom 16.01.2019 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Innenstadtentwicklung Projektstand DRIO - 30 Jastimmen, 5 Neinstimmen, 1 Enthaltungen
+- TOP 7.: Ehemalige Synagoge im Stadtteil Epe Vorstellung eines Nutztungskonzeptes durch den Förderkreis Alte Synagoge Epe e.V. - Einstimmig, 0 Enthaltungen
+- TOP 8.: Resolution Sicherstellung der Behandlung von Schlaganfall-Patienten im Klinikum Westmünsterland - Einstimmig, 0 Enthaltungen
+- TOP 9.: Budgetentwurf 2019 - Anlage "Entwicklung des Eigenkapitals" - Ohne Abstimmung
+- TOP 10.: Zukunft Waagestrasse - Einstimmig, 0 Enthaltungen
+- TOP 11.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 12.: Mitteilungen der Verwaltung
+- TOP 12.1: Sachstandmitteilung zum Kontakt zur Bundespolizei und der Deutschen Bahn
+- TOP 12.2: Sachstand in der Denkmalangelegenheit Oststraße 21
+- TOP 13.: Anfragen
+- TOP 13.1: Einsatz von Streusalz im Stadtgebiet (RM Buchholz)
+- TOP 13.2: Finanzielle Auswirkungen der Außerbetriebnahme des Kernkraftwerks Lingen für die Urenco Deutschland GmbH in Gronau (RM Buchholz)
+- TOP 13.3: Enthält Schulsoftware der Euregio-Gesamtschule Werbung? (RM Wittland)
+- TOP 13.4: Holzfenster des Bahnhofgebäudes streichen (RM von Borczyskowski)
+- TOP 13.5: Online-Sprechstunde der Bürgermeisterin möglich? (RM von Borczyskowski)
+- TOP 13.6: Anfrage zu den Sanierungsarbeiten an der Sophie-Scholl-Schule (RM Gabbe)
+- TOP 13.7: Planungsstand Weiße Dame im nächsten Ausschuss für Planen, Bauen und Denkmalschutz mitteilen? (RM Gabbe)
+- TOP 13.8: Überprüfung des Erfolgs der Sperrzeitveränderung in der Bahnhofstraße (RM Laschke)
+- TOP 13.9: Radikaler Rückschnitt an den Bäumen im Bereich Alfertring/Dinkelwiesen (3. Stellv. d. BM Tegetmeyer)
+- TOP 13.10: Neuer Wahlraum für den Wahlbezirk 15 (RM Krefter)
+- TOP 13.11: Forstpflege an der Steinstraße im Bahnhofsbereich (RM Dust)
+- TOP 13.12: Bushaltestellen im Innenstadtbereich (1. Stellv. d. BM Doetkotte)
+- TOP 13.13: Anwendung "Leichte Sprache" auf der Homepage (RM U. Doetkotte)
+- TOP 13.14: Abnahme des Neubaus der Gesamtschule Gronau erfolgt? (RM Krause)
+- TOP 13.15: Aufklärung von Mietern der LEG-Liegenschaften möglich? (RM Krause)
+- TOP 13.16: Sachstand des Projekts "Gronau goes digital" (RM Strestik)
