@@ -1,0 +1,7 @@
+# TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: BA 11 - Vollgremium (2019-01-30)
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/700189
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
