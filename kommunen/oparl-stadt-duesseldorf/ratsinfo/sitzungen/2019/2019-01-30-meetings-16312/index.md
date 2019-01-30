@@ -1,0 +1,61 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-01-30T17:00:00+01:00
+- Ende: 2019-01-30T19:05:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16312
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16312
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00334399.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00334399.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00334399.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 10.10.2018 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 28.11.2018 - einstimmig beschlossen
+- TOP 4: Bebauungsplan Nr. 06/014 - Vogelsanger Weg/Münsterstraße - einstimmig beschlossen
+- TOP 5: Veränderungssperre Nr. 06/015 - Vogelsanger Weg/Münsterstraße - einstimmig beschlossen
+- TOP 6: FNP-Änderungsverfahren 180 "Vogelsanger Weg". - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Neubau eines „Hauses für Kinder, Jugendliche und Familien Lichtenbroicher Weg“ - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 10: Friedrich Rückert-Gymnasium und Weiterbildungskolleg der Stadt Düsseldorf -Abendgymnasium- Erweiteru - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage CDU: Fahrradweg Wilhelm-Raabe-Straße Bürgersteig - schriftlich beantwortet
+- TOP 13: Anfrage SPD: Unterrather/Wangeroogestraße - schriftlich beantwortet
+- TOP 14: Anfrage der CDU und FDP: Missstände auf dem Grundstück Kalkumer Straße / Zaberner Straße - schriftlich beantwortet
+- TOP 15: Anfrage SPD: Flüchtlingsunterkunft In der Nießdonk - vertagt
+- TOP 16: Anfrage der SPD: Bewohnerparken und entsprechende Beschilderung im SB 6 - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage der SPD: Friedhofsmobil/Begleitservice am Unterrather Friedhof - schriftlich beantwortet
+- TOP 19: Anfrage der SPD: Filialschließungen Stadtsparkasse - vertagt
+- TOP 20: Anfrage SPD: KiTa Flic-Flac - vertagt
+- TOP 21: Anfrage FDP und CDU: Unfallsituation Kreuzung Lenaustraße/Fritz-von-Wille-Straße - vertagt
+- TOP 22: Interfraktioneller Antrag: Junges Schauspiel in Mörsenbroich - einstimmig beschlossen
+- TOP 23: Antrag der SPD: Wochenmarkt Dickhausweg - einstimmig beschlossen
+- TOP 24: Antrag SPD: Einberufung KPR für SB 6 - einstimmig beschlossen
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Antrag CDU und FDP: Verkehrsspiegel Ortsbegehung Vogelsanger Weg Höhe ALDI - mehrheitlich beschlossen
+- TOP 29: Antrag CDU und FDP: Beschaffung von Tablets für die Gemeinschaftsgrundschule Max-Halbe-Straße - zurückgezogen
+- TOP 30: Antrag Jugendrat Düsseldorf: Aufstellung Fahrradständer Rath Mitte S - einstimmig beschlossen
+- TOP 31: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2019 Teil A - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2019 Teil B - einstimmig beschlossen
+- TOP 35: Informationsvorlage Beratungsergebnis HH-Plan 2019 - zur Kenntnis genommen
+- TOP 36: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 37: Bauunterhaltungsmittel 2019 Teil B - einstimmig beschlossen
+- TOP 38: Konzept für die Ertüchtigung der Geländer an Ingenieurbauwerken und provisorische Sicherung für den - zur Kenntnis genommen
+- TOP 39: MdV - Illumination der Kirche Zum Heiligen Kreuz - zur Kenntnis genommen
+- TOP 40: MdV - Sauna Unterrather Schwimmbad - Vorlage 176/ 204/2018 - einstimmig beschlossen
+- TOP 41: MdV - Tempo 30 auf der Straße Am Röttchen - Vorlage 176/ 137/2018 - zur Kenntnis genommen
+- TOP 42: MdV - Neubau Schwimmbad mit Gesundheitszentrum und Mehrwerten - Vorlage 176/ 135/2018 - zur Kenntnis genommen
+- TOP 43: MdV - Vorgehen gegen Parken Mercedesmitarbeiter in Unterrather Wohngebieten - Vorlage 176/ 122/2018 - zur Kenntnis genommen
+- TOP 44: MdV - "Emmissionsfreie Innenstadt" mit dem Stadtbezirk 6 - Vorlage 176/ 218/2018 - zur Kenntnis genommen
