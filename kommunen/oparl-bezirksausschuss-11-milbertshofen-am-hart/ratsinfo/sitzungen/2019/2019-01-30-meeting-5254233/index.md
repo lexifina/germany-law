@@ -1,0 +1,87 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-01-30T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5254233
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5254233
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: (U) Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Förderung Wohnungsbau & Wohnsiedlung Stellungnahmen zu den Anträgen der Bezirksausschüsse 1, 2, 4, 6, 7, 9, 11, 16, 20, 21
+- TOP 4.2.2.: Vollständige Umzäunung des Spielplatzes am Christoph-von-Gluck-Platz - Antwortschreiben
+- TOP 4.4.1.: (U) Urbane Seilbahn Frankfurter Ring Beauftragung einer Machbarkeitsstudie
+- TOP 4.4.2.: Verbesserung der Verkehrssicherheit an der Kreuzung Schleißheimer Str. / Moosacher Str. - Sachstandsmeldung
+- TOP 4.4.3.: Haltestelle Ingolstädter Straße - barrierefreie Bushaltestelle: Zustimmung des Vorschlags des BA 11
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative "Gospel Concert" für die Maßnahme: Gospel Concert am 01.12.2018 Sitzungsvorlage Nr. 14-20 / V 13214 - Antrag auf Erhöhung des Zuwendungsbetrages
+- TOP 6.1.2.: (E) Stadtbezirkbudget Evang. Dankeskirche München-Milbertshofen Vocalensemble Vocativ am 18.01.2019 500 Euro AZ: 0262.0-11-0306
+- TOP 6.1.3.: (E) Stadtbezirksbudget Elternbeirat der Bad-Soden-Grundschule Projekt "Kinder treffen Künstler" im Mai/Juni 2019 3.500,00 Euro, Az.: 0262.0-11-0308
+- TOP 6.1.4.: (E) Stadtbezirksbudget Elternbeirat städtischer Integrationshort Hildegard-von-Bingen-Anger Anschaffungen für das Projekt "3D-Druck und Robotik" ab März 2019 510,00 Euro, Az.: 0262.0-11-0307
+- TOP 6.1.5.: (E) Stadtbezirksbudget MobilSpiel e.V. Projekt "Kicklusion - Alle spielen mit!" am 28.04.2019 1.645,00 Euro, Az.: 0262.0-11-0309
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis: Genehmigung einer Freischankfläche in der Ingolstädter Str. 101
+- TOP 6.2.2.: (E) Verstärkte Verkehrsüberwachung bei der GWG-Siedlung (Nordhaide-Ost)
+- TOP 6.2.3.: (E) Erweiterung des bestehenden Silvesterfeuerwerkverbotes auf den 11. Stadtbezirk
+- TOP 6.2.4.: (E) + (U) Schaffung einer neuen Einkaufsmöglichkeit in der Siedlung im Osten der Nordhaide Empfehlung Nr. 08 - 14 / E 01443 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen - Am Hart am 24.07.2012
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Grünkonzept im Olympiapark modifizieren
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Oberhofer Weg - Vorfahrt für den Radweg an drei Kreuzungen
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Benennung von Standorten für neue Sitzgelegenheiten im 11. Stadtbezirk
+- TOP 8.2.2.: Hufelandstraße 7 - 7a Bauvorhaben: Errichtung von Stellplätzen mit Überdachung
+- TOP 8.2.3.: Ingolstädter Straße 115 - 121 a) Bauvorhaben: Aufstockung eines Gebäudes mit Stellplätzen b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Schafhäutlstr. 13 a) Bauvorhaben: Abbruch Bestand und Neubebauung mit einem Doppelhaus b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.5.: Moosacher Str. 42 - 50 a) Bauvorhaben: Neubau einer Trafostation u. Errichtung eines Wendehammers für Sattelschlepper b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.6.: Änderung des Flächennutzungsplans für den Bereich V/57 und Bebauungsplan mit Grünordnung Nr. 1939d – BMW FIZ Nord mit Busbahnhof
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "kirchliches Osterfeuer" auf dem Basketballplatz Panzerwiese/Hartelholz am 21.04.2019
+- TOP 8.4: Verkehr
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Cabri`s Cuisine" - Bertholdstr. 29 b) "Steherl" - Ingolstädter Str. 111a
+- TOP 9.1.2.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte, Antragsrückzug: Sakaizani Madagasikara-Freunde, Johanniter-Unfall-Hilfe e.V., RIVA NORD, VdK-OV, Stadtteilarbeit e.V., Kulturverein Olympiadorf
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Bebauungsplan mit Grünordnung Nr. 1989+ - ehemalige Bayernkaserne und Bereich östlich der Bayernkaserne
+- TOP 9.2.2.: (U) Mehrjahresinvestitionsprogramm 2018 – 2022 > Festsetzung der Reihenfolge großer Siedlungsmaßnahmen > für die Jahre 2018 - 2022 > Infrastrukturversorgungskonzept 2018 - 2022
+- TOP 9.2.3.: Satzung über das Verbot der Zweckentfremdung von Wohnraum: Rothpletzstraße – Abbruch
+- TOP 9.2.4.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2018 – 30.06.2018
+- TOP 9.2.5.: (U) Tunnel von der Arnulfstraße bis zum Georg-Brauchle-Ring Empfehlung Nr. 14-20 / E 00795 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 26.11.2015 Landshuter Allee - Oberflächengestaltung nach dem Bau des Tunnels Empfehlung Nr. 14-20 / E 00838 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 27.11.2015
+- TOP 9.2.6.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 9.2.7.: Grünfläche an der Rothpletzstraße: Ersatzstandort für die Tischtennisplatte - Ausfluss aus dem Workshop „Aufwertung der Grünanlage an der Thalhoferstraße" am 21.07.2018
+- TOP 9.2.8.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheid: Gregor-Mendel-Str. 7, Blutbuche - Ablehnung
+- TOP 9.2.9.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.10.: Meldelisten Bauvorhaben vom 19.11.2018 - 06.01.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Haushaltsplan 2019 - Produkt- und zielorientierte Ansätze Zuschussnehmerdatei 2019 Vollzug des Haushaltsplanes 2019 für den Bereich "Förderung freier Träger" des Stadtjugendamtes Mehr Zeit und Raum für die Jugendfreizeitstätte PRISMA! Antrag Nr. 14-20 / A 03941 .................................. Stundenaufstockung für den "Freizeittreff Freimann" ab 2019 Antrag Nr. 14-20 / B 04588 .................................
+- TOP 9.3.2.: Vollzug der Grünanlagensatzung: Ausnahmegenehmigung für die Veranstaltung "ISPO Munich Night RUN 2019" im Olympiapark am 02.02.2019
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Aufstellen von Dialog-Displays für den Zeitraum 07.01.19 - 03.03.19 in der Rockefellerstraße (Höhe Grundschule) und im Goldammerweg
+- TOP 9.4.2.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 9.4.3.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 9.4.4.: (U) Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung - SoNuGebS-)
+- TOP 9.4.5.: Verkehrsrechtliche Anordnungen des KVR nach § 45 StVO: a) Riesenfeldstraße, Höhe Kindergarten - streckenbezogene Anordnung von 30 km/h b) Moosacher Straße 77 - Öffnung Mittelteiler c) Moosacher Straße / Kreuzung Schleißheimer Straße - Arbeiten im Straßenraum
