@@ -1,0 +1,59 @@
+# Haupt- und Finanzausschuss (27. Sitzung)
+
+- Körperschaft: Gemeinde Lohfelden
+- Beginn: 2019-01-30T19:00:00+01:00
+- Ende: 2019-01-30T23:10:00+01:00
+- Ort: Bürgerhaus, Dr.-Walter-Lübcke-Platz 2, 34253 Lohfelden, Saal Ochshausen
+- Status: 
+- Gremium: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
+- Ratsinformationssystem: https://lohfelden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZayuwFMgQwd4NikEVUmmRpg
+- OParl: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3672
+- Quelle: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Finanzausschuss) https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcvhoA0qwKDAqLRHsFVmEhk8ffn_BjnrQfL5f6XqqhcZ/Bekanntmachung_Haupt-_und_Finanzausschuss_30.01.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeXBjBreWw-otroTbnjr47HNMJzOPtj6kuV7lyMLMk3p/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_30.01.2019.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung des Protokolls vom 18.12.2018
+- TOP 2: Haushaltssatzung 2019 der Gemeinde Lohfelden mit allen Anlagen
+- TOP 2.1: Haushaltssatzung 2019 der Gemeinde Lohfelden mit allen Anlagen Ergänzungsliste des Gemeindevorstandes
+- TOP 2.2: Beschlussfassung über die Anträge
+- TOP 2.2.1: Antrag 1 - SPD Fraktion - Betriebliches Vorschlagswesen
+- TOP 2.2.2: Antrag 2 - SPD Fraktion und Fraktion U2L - Folgekostenberechnung
+- TOP 2.2.3: Antrag 3 - SPD Fraktion - Naturnahes Lohfelden: Einsparungen im Bereich öffentliches Grün
+- TOP 2.2.4: Antrag 4 - SPD Fraktion - Reduzierung der Anzahl der Sitze in der Gemeindevertretersitzung zur nächsten Wahlperiode
+- TOP 2.2.5: Antrag 5 - SPD Fraktion - Anpassung der Öffnungszeiten in der Bücherei
+- TOP 2.2.6: Antrag 6 - SPD Fraktion - Dorffestkonzeption
+- TOP 2.2.7: Antrag 7 - SPD Fraktion - Kulturfrühling
+- TOP 2.2.8: Antrag 8 - SPD Fraktion - Vereinsförderung
+- TOP 2.2.9: Antrag 9 - SPD Fraktion - Städtepartnerschaften
+- TOP 2.2.10: Antrag 10 - SPD Fraktion - Beendigung der musikalischen Früherziehung
+- TOP 2.2.11: Antrag 11 - SPD Fraktion - Stellenbemessung in den Kindertagesstätten
+- TOP 2.2.12: Antrag 12 - SPD Fraktion Stelleneinsparungen in der allgemeinen Verwaltung (ohne Kindertagesstätten)
+- TOP 2.2.13: Antrag 13 - SPD Fraktion - Energiemanagement
+- TOP 2.2.14: Antrag 14 - SPD Fraktion - Spielplätze
+- TOP 2.2.15: Antrag 15 - SPD Fraktion - Übernachtungssteuer
+- TOP 2.2.16: Antrag 17 - CDU-Fraktion - Öffentlichkeitsarbeit
+- TOP 2.2.17: Antrag 18 - CDU Fraktion - Sozialstation
+- TOP 2.2.18: Antrag 19 - CDU Fraktion - Interkommunale Zusammenarbeit
+- TOP 2.2.19: Antrag 20 - CDU Fraktion - Mitgliedschaft in Verbänden
+- TOP 2.2.20: Antrag 21 - CDU Fraktion - 1000 Jahrfeier
+- TOP 2.2.21: Antrag 23 - CDU Fraktion - Verträge
+- TOP 2.2.22: Antrag 24 - CDU Fraktion - Bibliothek
+- TOP 2.2.23: Antrag 25 - CDU Fraktion - Familienräume, Grillhütte
+- TOP 2.2.24: Antrag 26 - CDU Fraktion - Lehrschwimmbecken
+- TOP 2.2.25: Antrag 27 - CDU Fraktion - Papierloses Büro
+- TOP 2.2.26: Antrag 29 - CDU Fraktion - Werbebanner
+- TOP 2.2.27: Antrag 30 - Fraktion U2L - Sozialstation / Angepasster Verlustausgleich
+- TOP 2.2.28: Antrag 31 - Fraktion Bündnis 90/Die Grünen - Arbeitskreis Wohnraumkonzept
+- TOP 2.2.29: Antrag 32 - Fraktion Bündnis 90/Die Grünen - Fahrradwettbewerb
+- TOP 2.2.30: Antrag 33 - Fraktion Bündnis 90/Die Grünen - Radweg Hauptstraße
+- TOP 2.2.31: Antrag 34 - Fraktion-Bündnis 90/Die Grünen - Straßenbahn
+- TOP 2.2.32: Antrag 35 - Fraktion Bündnis 90/Die Grünen - Einhaltung der Sanierungspflicht nach EnEV
+- TOP 2.2.33: Antrag 36 - Fraktion Bündnis 90/Die Grünen - Klimaschutzmanager
+- TOP 2.3: Beschlussfassung über die Haushaltssatzung 2019 der Gemeinde Lohfelden mit allen Anlagen
+- TOP 3: Wirtschaftsplan 2019 der Gemeindewerke Lohfelden
+- TOP 3.1: Wirtschaftsplan 2019 Korrektur der Erläuterungen und der Erfolgspläne
+- TOP 3.2: Beschlussfassung über den Wirtschaftsplan 2019 der Gemeindewerke Lohfelden
+- TOP 4: Beratung und Beschlussfassung über den Jahresabschluss 2017 der Gemeindewerke Lohfelden
+- TOP 5: Mitteilungen des Gemeindevorstandes
