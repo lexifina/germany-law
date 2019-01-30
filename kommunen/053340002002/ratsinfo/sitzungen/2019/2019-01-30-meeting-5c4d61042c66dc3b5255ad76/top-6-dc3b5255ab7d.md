@@ -1,0 +1,6 @@
+# TOP 6: Lärmbelästigung Kohlscheider Straße -hier: Bürgeranfrage in 2016 Antrag der SPD-BF vom 20.11.2018, lfd. Nr. 75 <span style="color: #888a85" title="Zusatzinfo">(Die Vorlage des Fachbereichs wird nachgereicht)</span>
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Richterich (2019-01-30)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5c4d61002c66dc3b5255ab7d
