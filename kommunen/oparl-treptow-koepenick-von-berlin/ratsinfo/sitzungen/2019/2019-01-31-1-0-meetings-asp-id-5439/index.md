@@ -1,0 +1,112 @@
+# 23. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-01-31T16:30:00+01:00
+- Ende: 2019-01-31T21:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5439
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5439
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=298655
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - gegenstandslos
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-22 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Mit "Wifi4EU" freies WLAN im Bezirk ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Benennung eines/einer Klimaschutzbeauftragten des Bezirks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Süd-Ost-Verbindung (SOV) weiterplanen und bauen – Baumschulenweg vom Durchgangsverkehr entlasten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Milieuschutz in Treptow-Köpenick gezielt voranbringen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Rechtzeitig zum Unterricht: Taktung der Fähre F12 verkürzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Rechtsabbiegerampel Glienicker Weg / Adlergestell - überwiesen
+- TOP 7.2.2: Sondermittel für die "Kleingartenanlage 'Am Adlergestell' e. V." (SM 18-14) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Beitritt des Bezirkes Treptow-Köpenick zur Initiative "Mayors for Peace" (Bürgermeister für den Frieden) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl eines Bürgerdeputierten und eines stellvertretenden Bürgerdeputierten für den Ausschuss für Tiefbau und Ordnungsangelegenheiten - gewählt
+- TOP 8.2: Wahl eines Bürgerdeputierten für den Ausschuss für Weiterbildung und Kultur - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Maßnahmen zur verkehrlichen Strukturierung der Kiefholzstraße zwischen Lohmühlen- und Bouchéstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Gemeinschaftsschule im Entwicklungsgebiet Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Verkehrsberuhigung in der Neuen Krugallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Verkehrsführung für Radfahrerinnen und Radfahrer in der Michael-Brückner-Straße verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Öffentliche Toilette Kreuzung Puschkinallee Ecke Elsenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: S-Bahn-Linie 3 stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Super-Ferien-Pass bekannter machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Schulsportanlagen sichern und Einvernehmen über die Nutzung mit dem Schulträger herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Sicherung von Flächen für Kitas, Schulen und andere Gemeinbedarfe - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Schließzeiten auf dem Bolzplatz Hänselstraße gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Gegen Mobbing an Schulen aktiv werden - überwiesen
+- TOP 12.12: Potenziale des bürgerschaftlichen Engagements für die Grün- und Landschaftspflege nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Sanierung des Dorfteiches und dessen Umgebung in Bohnsdorf - überwiesen
+- TOP 12.14: Lichtzeichenanlage Kreuzung Dahlwitzer Landstraße / Schöneicher Straße prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Mehr Sicherheit für Radfahrende in der Wendenschloßstraße zwischen der Kreuzung Müggelheimer Straße und der Salvador-Allende-Straße - mit Änderungen in der BVV beschlossen
+- TOP 12.16: Sichere Straßenbahnschienen für Radfahrende - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Mehr Sicherheit beim Radfahren auf dem Sterndamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Sinnvoller Ausbau der zukünftigen Ost-West-Trasse - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Verbreiterung der Fahrbahn unter der Bahnbrücke am S-Bhf. Grünau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Zentrales Baustellenverzeichnis für Treptow-Köpenick anlegen - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Akustikampel Michael-Brückner-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Sicherung von Carsharing-Parkplätzen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Schulwegsicherung in der Wendenschloßstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Querung vor Schwimmhalle verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Überquerung der Köpenicker Landstraße in Höhe der Sophie-Brahe-Schule sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Anordnung von Tempo 30 auf dem Adlergestell / Haltestelle "Zum Seeblick" - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Verkehrssicherheit am Müggelschlößchenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.28: Tempo 30 auf dem östlichen Müggelseedamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.29: Neue Umgestaltung im Sinne aller Verkehrsteilnehmer in der Mahlsdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Kampagne "Inklusion durch Sport" bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Schwerer Unfall mit Personenschaden am Fußgängerüberweg Oberspreestraße / Einmündung Bärenlauchstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.32: Programm "Barrierefreie öffentliche Räume" - ohne Änderungen in der BVV beschlossen
+- TOP 12.33: Campus Sophie-Brahe-Gemeinschaftsschule "Am Plänterwald" - ohne Änderungen in der BVV beschlossen
+- TOP 12.34: Betroffene von Partnerschaftsgewalt besser unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Im I. Halbjahr 2018 zugelassene über- und außerplanmäßige Ausgaben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Integrationskonzept Treptow-Köpenick - überwiesen
+- TOP 13.3: Bebauungsplan 9-64, Ortsteil Schmöckwitz hier: -Änderungsbeschluss - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Verkehrskonzept Südost – Treptow-Köpenick verkehrlich zukunftsfähig machen - überwiesen
+- TOP 14.2: Artothek bekannter machen - überwiesen
+- TOP 14.3: Beschilderung auf der Puschkinallee verbessern - überwiesen
+- TOP 14.4: Lärmschutz im Umfeld der Autobahn und der Bahnanlagen in Alt-Treptow - überwiesen
+- TOP 14.5: Aussetzen der Reduzierung der Musikschulräume - überwiesen
+- TOP 14.6: Eltern-Kind-Zimmer anbieten - überwiesen
+- TOP 14.7: Neubau der Elsenbrücke unter Berücksichtigung des Weiterbaus der A100 schnell vorantreiben – Verkehrskonzepte für die Zeit nach der Eröffnung der Autobahn bis Alt-Treptow - überwiesen
+- TOP 14.8: Schwimmhalle Baumschulenweg für die Allgemeinheit öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Flächenerwerb / Flächensicherung für die TVO - überwiesen
+- TOP 14.10: Neubau der Elsenbrücke – ein Verkehrskonzept - im Ältestenrat zurückgezogen
+- TOP 14.11: Uferweg zwischen der Hochschule für Technik und Wirtschaft Berlin (HTW) und dem Kaisersteg endlich festsetzen - überwiesen
+- TOP 14.12: Partizipationsprojekt: Jugendspielplatz "Harry Potter" - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Emissionen von Boots- und Schifffahrtsmotoren auf unseren Gewässern verringern - überwiesen
+- TOP 14.14: Landes- und Bundesstützpunkt BMX im Mellowpark - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Personalnotstand in den Bezirken endlich stoppen - überwiesen
+- TOP 14.16: Verkehrssicherheit am Waldfriedhof Müggelheim - überwiesen
+- TOP 14.17: Grenzwachturm im Schlesischen Busch - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Erschließung Kiezklub Bohnsdorf - überwiesen
+- TOP 14.19: Lärmschutz entlang der Görlitzer Bahn - überwiesen
+- TOP 14.20: Wachsende Stadt, mehr Personal, mehr Räume - zukunftsweisendes Raumkonzept für das Bezirksamt erstellen - überwiesen
+- TOP 14.21: Räumliches Konzept für die Gedenkstätte Köpenicker Blutwoche zeitnah entwickeln - mit Änderungen in der BVV beschlossen
+- TOP 14.22: Erreichbarkeit Musikerviertel - überwiesen
+- TOP 14.23: Das Sowjetische Ehrenmal im Treptower Park endlich barrierefrei - überwiesen
+- TOP 14.24: Gesamtnutzungskonzept für Schul- und Sportplätze, Spielplätze sowie Freiräume in Treptow-Köpenick gemeinsam erarbeiten - überwiesen
+- TOP 14.25: Schrittgeschwindigkeit für Zufahrt zum Ordnungs- und Gesundheitsamt - überwiesen
+- TOP 14.26: Skateranlage an Minna-Todenhagen-Brücke - überwiesen
+- TOP 14.27: Taubenpopulation am S-Bahnhof Baumschulenweg regulieren - überwiesen
+- TOP 14.28: Zusammenarbeit mit Nachbarbezirken für touristische Potenziale - überwiesen
+- TOP 14.29: Veränderung der Verkehrsführung in Adlershof - überwiesen
+- TOP 14.30: Verkehrsinfarkt durch Sperrung der Salvador-Allende-Brücke – ÖPNV so gut wie möglich anpassen - mit Änderungen in der BVV beschlossen
+- TOP 14.31: Ampelphasen an der Salvador-Allende-Straße Ecke Friedrichshagener Straße - in der BVV zurückgezogen
+- TOP 14.32: Verkehrsfluss durch Parkverbot und Abbau von Gehwegvorstreckungen verbessern - überwiesen
+- TOP 14.33: Brückensanierungen in Treptow-Köpenick zügig voranbringen - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
