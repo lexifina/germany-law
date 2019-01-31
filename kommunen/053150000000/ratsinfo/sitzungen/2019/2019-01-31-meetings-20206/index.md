@@ -1,0 +1,69 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-31T16:00:00+01:00
+- Ende: 2019-01-31T18:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20206
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20206
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00702775.pdf
+- Ergebnisprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00702775.pdf
+- Wortprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00702775.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Anfrage der Fraktionen SPD und Die Linke im Ausschuss Umwelt und Grün am 24.04.2018 (AN/0592/2018) zu den Gräbern Max Reichpietsch und Albin Köbis - Kenntnis genommen
+- TOP 1.2: Wie kann das Plastikmüll-Problem auf dem Christopher Street Day in Köln gelöst werden? - Sache ist erledigt
+- TOP 1.2.1: Plastikmüll auf dem Christopher Street Day in Köln - Kenntnis genommen
+- TOP 1.2.2: Wie kann das Plastikmüll-Problem auf dem Christopher Street Day in Köln gelöst werden? - Kenntnis genommen
+- TOP 1.3: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.3.1: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.4: Nachhaltigkeit bei Veranstaltungen der Stadt Köln - zurückgestellt
+- TOP 1.5: Vermeidung von Dieselfahrverboten - zurückgestellt
+- TOP 1.6: Kommunale Maßnahmen zur Luftreinhaltung (AN/0523/2018) Nachfragen zur Beantwortung der Anfrage (VN 2592/2018) - zurückgestellt
+- TOP 1.7: Umsetzung Gewerbeabfallverordnung - Sache ist erledigt
+- TOP 1.7.1: Umsetzung Gewerbeabfallverordnung - Kenntnis genommen
+- TOP 1.8: Müllautomat belohnt Plastiksammler! - Kenntnis genommen
+- TOP 1.9: Flugscham* – Verzicht auf das Flugzeug bei städtischen Dienstreisen - Sache ist erledigt
+- TOP 1.9.1: Flugscham - Verzicht auf das Flugzeug bei städtischen Dienstreisen - Kenntnis genommen
+- TOP 1.10: Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - zurückgestellt
+- TOP 1.11: Welche Möglichkeiten gibt es bereits heute, auf Kohle als Brennstoff im Kraftwerk Merkenich zu verzichten? - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientiert; Nahrung und Erfahrugnsraum für unsere Stadt - zurückgestellt
+- TOP 2.2: Längeres Gedenken ermöglichen - endgültig abgelehnt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Köln gewinnt bei Bundeswettbewerb "Klimaaktive Kommune 2018" - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Trinkbrunnen für Köln - mit Änderungen empfohlen
+- TOP 4.1.2: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - mit Änderungen empfohlen
+- TOP 4.1.3: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - ungeändert empfohlen
+- TOP 4.1.4: Vertrag über die Erbringung technischer Dienste für die Stadt Köln - ungeändert empfohlen
+- TOP 4.1.5: Stadtentwässerungsbetriebe Köln, AöR (SteB); Änderung Abwassersatzung - ungeändert empfohlen
+- TOP 4.1.6: Sportentwicklungsplanung der Stadt Köln - zurückgestellt
+- TOP 4.1.7: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 4.1.8: KölnKlimaAktiv 2022 - ungeändert empfohlen
+- TOP 4.1.9: Projekt OptiWohn: Quartiersspezifische Sondierung und Entwicklung innovativer Strategien zur optimierten Nutzung von Wohnflächen - klimafreundliches Wohnen in Köln - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: European Energy Award: Energiepolitisches Arbeitsprogramm der Stadt Köln - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - ungeändert empfohlen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Sachstand Grüne Infrastruktur Köln "Vielfalt vernetzen" - Kenntnis genommen
+- TOP 7.2: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes - Kenntnis genommen
+- TOP 7.3: Internationale Fachtagung des "European Forum on Urban Forestry 2019" - Kenntnis genommen
+- TOP 7.4: Autonomes Zentrum an der Luxemburger Straße 93 - Beantwortung der Anfrage AN/0009/2019 - Kenntnis genommen
+- TOP 7.5: Umweltschutzpreis der Stadt Köln 2018 - Kenntnis genommen
+- TOP 7.6: Verbundprojekt i Resilience- soziale Innovation und intelligente Stadtinfrastruktur für die resiliente Stadt der Zukunft - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Nutzungsunabhängige Haldenstabilisierung Kalkberg, Sachstand - Kenntnis genommen
+- TOP 8.2: Umweltbelastung durch Schiffe - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
