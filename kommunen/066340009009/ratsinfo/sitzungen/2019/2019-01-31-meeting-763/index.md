@@ -1,0 +1,56 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (22. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2019-01-31T19:03:00+01:00
+- Ende: 2019-01-31T20:00:00+01:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZeer42O3NV50DSjHL90jHqU
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/763
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf4kAqoiQ981-0tP3ZgUuEz2NF-j-sO5uOI2fPZa1Rt7/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_31.01.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVU-HAGEl4Gbyv3W6f3w3B7ALVECwAksahgiGCMpANJ8/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_31.01.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: EFRE-Programm „Lokale Ökonomie“ hier: Beschlussfassung über den Entwurf eines Integrierten Städtebaulichen Entwicklungskonzepts
+- TOP 1.1: EFRE-Programm „Lokale Ökonomie“ hier: Beschlussfassung über den Entwurf eines Integrierten Städtebaulichen Entwicklungskonzepts - (kein Text vorhanden)
+- TOP 2.: Städtebauförderprogramm „Zukunft Stadtgrün“ für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark a) Beratung und Beschlussfassung über den Entwurf des integrierten städtebaulichen Entwicklungskonzeptes (ISEK) b) Beratung und Beschlussfassung über die Abgrenzung des Fördergebietes c) Beratung und Beschlussfassung über die Zusammensetzung der lokalen Partnerschaft d) Beratung und Beschlussfassung über die Beauftragung eines Fördergebiets- managements e) Beratung und Beschlussfassung über die Umsetzung der Maßnahmen mit der Priorität eins
+- TOP 2.1: Städtebauförderprogramm „Zukunft Stadtgrün“ für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark a) Beratung und Beschlussfassung über den Entwurf des integrierten städtebaulichen Entwicklungskonzeptes (ISEK) b) Beratung und Beschlussfassung über die Abgrenzung des Fördergebietes c) Beratung und Beschlussfassung über die Zusammensetzung der lokalen Partnerschaft d) Beratung und Beschlussfassung über die Beauftragung eines Fördergebiets- managements e) Beratung und Beschlussfassung über die Umsetzung der Maßnahmen mit der Priorität eins - (kein Text vorhanden)
+- TOP 3.: Beratung und Beschlussfassung über die Ausübung des gesetzlichen Vorkaufsrechtes gem. §§ 24 ff Baugesetzbuch für die Liegenschaft „Westheimer Straße 33“ - (kein Text vorhanden)
+- TOP 4.: Städtebauliche Entwicklung Freiheiter Straße 14 + 18 Hier: Genehmigung von Grundstückskaufverträgen - (kein Text vorhanden)
+- TOP 5.: Geplante Baumaßnahme der Kreissparkasse Schwalm-Eder in der Kasseler Straße 1 Hier: Beratung und Beschlussfassung zum weiteren Vorgehen - (kein Text vorhanden)
+- TOP 6.: Aufstellung einer Erweiterung Nr. 2 zum Bebauungsplan Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Wernswig zur Ausweisung eines Sondergebietes -Lagerhallen (SO-LH)-; hier: Abwägung über die während der erneuten öffentliche Auslegung gem. § 3 Abs. 2 Satz 2 BauGB i. V. m. § 4 a Abs. 3 BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Anregungen und Bedenken von Bürgern und Satzungsbeschluss
+- TOP 6.1: Aufstellung einer Erweiterung Nr. 2 zum Bebauungsplan Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Wernswig zur Ausweisung eines Sondergebietes -Lagerhallen (SO-LH)-; hier: Abwägung über die während der erneuten öffentliche Auslegung gem. § 3 Abs. 2 Satz 2 BauGB i. V. m. § 4 a Abs. 3 BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Anregungen und Bedenken von Bürgern und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 7.: Entwurf einer Änderung (Nachtragssatzung) zur Entwässerungssatzung hier: Auftragsvergabe zur Erarbeitung einer Satzungsänderung mit Gebührenkalkulation - (kein Text vorhanden)
+- TOP 8.: Unterrichtung über den Verzicht auf die Aufstellung des Gesamtabschlusses für 2017 nach § 112 Absatz 5 HGO und über die Aufnahme eines Investitionsdarlehens für das Haushaltsjahr 2017. - (kein Text vorhanden)
+- TOP 9.: Sachstandsberichte und sonstige Informationen
+- TOP 9.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 9.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 9.1.2: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 9.1.3: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 9.1.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 9.1.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 9.1.6: Antrag der CDU-Fraktion vom 17.02.2017 - betr. Stärkung des Nahverkehrsstandort Homberg
+- TOP 9.1.7: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 9.1.8: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht Juli 2018
+- TOP 9.1.9: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 9.1.10: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 9.1.11: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 9.1.12: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 9.1.13: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 9.1.14: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Kurve an L3224 oberhalb Basaltwerk
+- TOP 9.1.15: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 9.1.16: Antrag der CDU-Fraktion vom 3. Oktober 2018 betr. bauliche Veränderung der Bushaltestelle(n) in Homberg-Roppershain
+- TOP 9.1.17: Antrag der CDU-Fraktion vom 3. Oktober 2018 betr. Etablierung der Sicherheitsinitiative "KOMPASS"
+- TOP 9.1.18: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 9.1.19: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 10.: Anträge
+- TOP 10.1: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung - (kein Text vorhanden)
+- TOP 10.2: Antrag der BL Homberg vom 17. Januar 2019 betr. Sachstandsberichte zu beschlossenen Entwicklungsmaßnahmen - (kein Text vorhanden)
+- TOP 11.: Anfragen
+- TOP 11.1: Anfrage der BL Homberg vom 17. Januar 2019 betr. Interessenkonflikte bei Vereinstätigkeiten
+- TOP 11.2: Anfrage der BL Homberg vom 17. Januar 2019 betr. Kosten und Sachstand bezüglich Strafanzeige Ärztehaus
+- TOP 12.: Anregungen
