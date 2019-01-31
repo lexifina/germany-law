@@ -1,0 +1,70 @@
+# 35. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-01-31T17:00:00+01:00
+- Ende: 2019-01-31T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20523
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20523
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Schulneubau Schmiedegasse - Kenntnis genommen
+- TOP 7.1.2: Umgestaltung der Sebastianstraße in Alt-Niehl - Kenntnis genommen
+- TOP 7.1.3: Parkverbot auf der Neusser Straße - Kenntnis genommen
+- TOP 7.1.4: Pflegeplätze im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.1.5: Winterdienst auf Gehwegen ohne Streusalz - Kenntnis genommen
+- TOP 7.1.6: Taubendreck Umfeld Nippeser Bahnhof - Kenntnis genommen
+- TOP 7.1.7: Kooperationsgrabfeld Nordfriedhof - Kenntnis genommen
+- TOP 7.1.8: Baumkontrolle nach Stürmen - Kenntnis genommen
+- TOP 7.1.9: Bestattungsgärten Nordfriedhof - Kenntnis genommen
+- TOP 7.1.10: Realisierung des Spielplatzes im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Nächtliche Arbeiten der DB außerhalb der ICX hallen im Bilderstöckchen - Kenntnis genommen
+- TOP 7.2.2: Bogensportanlage im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.3: Geschwindigkeitskontrollen auf der Geldernstraße - Kenntnis genommen
+- TOP 7.2.4: Grillen in Parks - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe neuer Marktzugänge auf Wochenmarkt Wilhelmsplatz Nippes - zurückgestellt
+- TOP 8.1.2: Schulweg zur GGS Steinberger Straße im Bereich Merheimer Straße/Wilhelmstraße sicherer gestalten - geändert beschlossen
+- TOP 8.1.3: Beleuchtung Kuenstraße und Gehwegbeleuchtung im Stadtbezirk Nippes allgemein - ungeändert beschlossen
+- TOP 8.1.4: Klarere Verkehrsführung für Fuß- und Radverkehr an der südlichen Kempener Straße (KVB-Haltestelle Geldernstraße/Parkgürtel) - endgültig abgelehnt
+- TOP 8.1.5: Illegale Müllentsorgung - ungeändert beschlossen
+- TOP 8.1.6: Beleuchtung der Wege zur Haltestelle Slabystraße - ungeändert beschlossen
+- TOP 8.1.7: Aufwertung der Außenanlage des Bezirksrathauses Nippes - ungeändert beschlossen
+- TOP 8.1.8: Gewährleistung der Verkehrssicherheit für Fußgänger an der Einmündung zur Wolfhartstraße von der Bergstraße in Köln-Nippes - ungeändert beschlossen
+- TOP 8.1.9: Förderung der Elektromobilität im Stadtteil Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.10: Sperrung der Platzfläche des Schillplatzes für Fahrräder und Pedelecs - geändert beschlossen
+- TOP 8.1.11: Pastor-Wolff-Straße/Im Grund - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss - geändert beschlossen
+- TOP 9.2.2: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ungeändert beschlossen
+- TOP 9.2.3: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 9.2.4: Zuschuss KKHT Schwarz-Weiß 1920 e.V. - ungeändert beschlossen
+- TOP 9.2.5: Planungsaufnahme zur Generalinstandsetzung und Errichtung eines Erweiterungsbaus für die Carl-von-Ossietzky-Gesamtschule am Standort Paul-Humburg-Str. 13, 50737 Köln-Longerich - ungeändert beschlossen
+- TOP 9.2.6: Generalsanierung und Erweiterung der Feuerwehrhauptzentrale Köln Weidenpesch - ungeändert beschlossen
+- TOP 9.2.7: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Verkehrsberuhigung Graseggerstraße - Kenntnis genommen
+- TOP 10.2.2: Sachstandsmitteilung zur Prioritätenliste - Kenntnis genommen
+- TOP 10.2.3: Grundstücke für Wohnungsbau in Alt-Niehl - Kenntnis genommen
+- TOP 10.2.4: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 10.2.5: Elektromobilität im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.6: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
