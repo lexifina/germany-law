@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-01-31T14:00:00+01:00
+- Ende: 2019-01-31T21:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16566
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16566
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00334455.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00334455.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00334455.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell Rf Opelt: Geplante Veräußerung des Gebäudes des Luisen-Gymnasiums - beantwortet
+- TOP 4.2: Anfrage aktuell SPD: Umweltrelevante Auswirkungen der Schiffskollision auf dem Rhein bei Dormagen - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der CDU-Ratsfraktion: Mehr Klarheit in Stellenplanangelegenheiten - beantwortet
+- TOP 5.2: Anfrage Tierschutz Freie Wähler: Auswirkungen des langanhaltenden Rheinniedrigwassers auf Tiere und - beantwortet
+- TOP 5.3: Anfrage Tierschutz FREIE WÄHLER:Niedrigrente und Armutsgefährdete in Düsseldorf - beantwortet
+- TOP 5.4: Anfrage DIE LINKE - Annahme von Freikarten - beantwortet
+- TOP 5.5: Anfrage Rh Maniera: Abschiebung straffälliger Ausländer - beantwortet
+- TOP 5.6: Anfrage des Ratsherrn Maniera: Auswirkungen von Kurzzeitvermietungen auf den Wohnungsmarkt - beantwortet
+- TOP 5.7: Anfrage der Ratsfrau Opelt: Luftreinhalteplan - Umweltspur - beantwortet
+- TOP 5.8: Anfrage der Ratsfrau Opelt: Schadenersatzklage gegen die Stadt Düsseldor - beantwortet
+- TOP 5.9: Anfrage des Ratsherrn Grenda: Zukunft des Breitbandausbaus in Düsseldorf - beantwortet
+- TOP 5.10: Anfrage der Ratsfrau Krüger: Diebstahl von Kupferregenrohren am Schwanenhaus - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfrau Krüger: Hundesteuer - schriftlich beantwortet
+- TOP 5.12: Anfrage der Ratsfrau El Fassi: Fachkräftemangel im Rettungsdienst - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau El Fassi: Rauchverbot in Wartehäuschen - schriftlich beantwortet
+- TOP 5.14: Anfrage des Ratsherrn Dr. Wlecke: Straßenausbaubeiträge - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Dr. Wlecke: Kriminalpräventive Beratung, Information und Vorsorge - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Klerinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 9: Stadtbahn U81, 1. Bauabschnitt Freiligrathplatz – Flughafen Terminal - AuF - mehrheitlich beschlossen
+- TOP 10: Änderungsbeschluss für die Verlängerung der Linie 701 - einstimmig beschlossen
+- TOP 11: Zweckverband Verkehrsverbund Rhein Ruhr - einstimmig beschlossen
+- TOP 12: Maßnahmen zur Wahrung der Belange von Menschen mit Behinderung - zur Kenntnis genommen
+- TOP 13: Stellplatzsatzung Landeshauptstadt Düsseldorf - zurückgezogen
+- TOP 14: Satzung über die Ablösung von Stellplätzen der Stadt Düsseldorf - zurückgezogen
+- TOP 15: Umschulungsprüfungsordnung für Verwaltungsfachangestellte - einstimmig beschlossen
+- TOP 16: Fortsetzung Arbeit der „Kleine Kommission Wehrhahn-Linie“ als „Kleine Kommission Stadtbahnbau U 81“ - mehrheitlich beschlossen
+- TOP 17: Bestellung stimmberechtigter Delegierter - mehrheitlich beschlossen
+- TOP 18: Bestellung einer Prüferin und Abberufung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 19: Nachwahl zum Beirat bei der Unteren Naturschutzbehörde - einstimmig beschlossen
+- TOP 20: Düsseldorfer Gesundheitskonferenz- Ersatzbestellung eines ordentlichen Mitglieds - einstimmig beschlossen
+- TOP 21: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Vorhabenbez.B-Plan Entwurf Nr. 04/014-Wickrather Str - Verfahren gem § 13a, Öffentlichkeitsbeteiligu - mehrheitlich beschlossen
+- TOP 23: Bebauungsplan-Entwurf Nr. 02/002 - Max-Planck-Straße - - mehrheitlich beschlossen
+- TOP 24: Anträge
+- TOP 24.1: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Live Stream auch in öffentlichen Ausschusssitzungen
+- TOP 24.2: Antrag CDU: Jetzt Grundlagen für ein Opernhaus der Zukunft ermitteln
+- TOP 24.3: Antrag Tierschutz Freie Wähler:Verzicht auf Glyphosat und anderen Giften auf landwirtschaftlichen Pa
+- TOP 24.4: Antrag Die Linke: "Düsseldorf wird "Solidarity-City"
+- TOP 24.5: Antrag der CDU-Ratsfraktion: OB Geisel muss handeln – endlich mehr Sauberkeit in der Stadt!
+- TOP 25: Beschaffung von Elektrofahrzeugen - Bereitstellung von üpl- Mitteln - einstimmig beschlossen
+- TOP 26: Beirat der Sana Kliniken Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
