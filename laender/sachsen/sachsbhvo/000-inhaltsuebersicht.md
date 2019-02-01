@@ -7,6 +7,7 @@ Abschnitt 1 Allgemeine Regelungen
 § 5 Ausschluss und Beschränkung der Beihilfefähigkeit
 § 6 Anrechnung von Erstattungen und Sachleistungen
 § 7 Aufwendungen im Ausland
+§ 7a Aufwendungen bei dauernder Pflegebedürftigkeit im Ausland
 Abschnitt 2 Aufwendungen in Krankheits- und Todesfällen
 Unterabschnitt 1 Ambulante ärztliche Leistungen und Heilpraktikerleistungen
 § 8 Ärztliche Leistungen
@@ -20,9 +21,11 @@ Unterabschnitt 2 Ambulante zahnärztliche Leistungen
 § 15 Zahnärztliche Leistungen für Beamte auf Widerruf
 Unterabschnitt 3 Ambulante psychotherapeutische Leistungen
 § 16 Psychotherapeutische Leistungen
-§ 17 Psychosomatische Grundversorgung
-§ 18 Tiefenpsychologisch fundierte und analytische Psychotherapie
-§ 19 Verhaltenstherapie
+§ 16a Psychotherapeutische Akutbehandlung
+§ 16b Gemeinsame Vorschriften für psychoanalytisch begründete Verfahren und Verhaltenstherapie
+§ 17 Psychoanalytisch begründete Verfahren
+§ 18 Verhaltenstherapie
+§ 19 Psychosomatische Grundversorgung
 Unterabschnitt 4 Stationäre Leistungen
 § 20 Krankenhausleistungen
 Unterabschnitt 5 Mittel zur Behandlung oder Linderung von Erkrankungen und Behinderungen
@@ -52,7 +55,7 @@ Abschnitt 3 Aufwendungen bei medizinischer Rehabilitation und Kuren
 § 39 Kuren
 Abschnitt 4 Aufwendungen zur Gesundheitsvorsorge und Früherkennung von Krankheiten
 § 40 Schutzimpfungen
-§ 41 Früherkennungs- und Vorsorgeuntersuchungen
+§ 41 Früherkennungsuntersuchungen
 § 42 Kinderuntersuchungen
 § 43 Verhütung von Zahnerkrankungen
 Abschnitt 5 Aufwendungen in Geburtsfällen und anderen Fällen
@@ -90,12 +93,14 @@ Anlage 1 (zu § 4 Absatz 4 Satz 2)
 Ausgeschlossene und teilweise ausgeschlossene Untersuchungs- und Behandlungsmethoden
 Anlage 2 (zu § 9)
 Voraussetzungen und Höchstbeträge für Leistungen von Heilpraktikern
-Anlage 3 (zu § 26 Absatz 2 und 5)
+Anlage 3 (zu § 26 Absatz 2)
 Voraussetzungen und Höchstbeträge für Heilmittel
 Anlage 4 (zu § 39 Absatz 2 und 5)
 Kurorteverzeichnis
 Anlage 5 (zu § 41 Absatz 4)
 Beihilfefähigkeit der Aufwendungen durch die Teilnahme am Früherkennungsprogramm für Risikofeststellung und interdisziplinäre Beratung, Gendiagnostik und Früherkennung
+Anlage 5a (zu § 41 Absatz 5)
+Beihilfefähigkeit der Aufwendungen durch die Teilnahme am Früherkennungsprogramm für erblich belastete Personen mit einem erhöhten familiären Darmkrebsrisiko
 Anlage 6 (zu § 44 Absatz 2)
 Voraussetzungen und Höchstbeträge für Leistungen von Hebammen
 Anlage 7 (zu § 45 Absatz 1)
