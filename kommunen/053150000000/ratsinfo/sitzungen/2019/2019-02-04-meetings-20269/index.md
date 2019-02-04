@@ -1,0 +1,70 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-02-04T17:00:00+01:00
+- Ende: 2019-02-04T19:09:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20269
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20269
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Fair Shared City - Austausch mit Tel Aviv - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: RGRE Delegiertenversammlung München 19.11.-20.11.2018 - Kenntnis genommen
+- TOP 2.2: Fördermittelakquise und -abwicklung von EU Drittmitteln - zurückgestellt
+- TOP 2.3: Korvette "Köln" - Patenschaft der Stadt Köln für die neue Korvette "KÖLN" - Kenntnis genommen
+- TOP 2.4: Fördertopf "Kommunale Entwicklungszusammenarbeit 2018" - Kenntnis genommen
+- TOP 2.5: Fördertopf "Städtepartnerschaften gestalten 2018" - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung einer Anfrage zu TOP 7.3 zum Thema Belüftungssituation im Jobcenter Köln Geschäftsbereich Mülheim in der Sitzung vom 10.12.2018 - Kenntnis genommen
+- TOP 3.2: EDELGARD schützt- Beantwortung von Fragen zur Vorlage 3792/2018 - Kenntnis genommen
+- TOP 3.3: Beantwortung einer Anfrage zu TOP 7.1 zum Thema Kfz-Zulassungsstelle Köln-Poll in der Sitzung vom 10.12.2018 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln - Ratsbeschluss vom 20.03.2018 (Vorlagen-Nummer 0342/2018) - Zwischenbericht - Kenntnis genommen
+- TOP 4.2: Autonomes Zentrum an der Luxemburger Straße 93 - Beantwortung einer Anfrage aus dem Hauptausschuss (AN/0009/2019) der SPD-Fraktion - Kenntnis genommen
+- TOP 4.3: Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch - Beantwortung einer Anfrage aus dem Stadtentwicklungsausschuss (AN/1803/2018) der SPD-Fraktion - Kenntnis genommen
+- TOP 4.4: Sachstandsbericht Besteuerung des Spielvergnügens an Geldspielgeräten - Kenntnis genommen
+- TOP 4.5: Sachstandsbericht zum Projekt „Einwanderung gestalten NRW“ - Kenntnis genommen
+- TOP 4.6: Bearbeitungsrückstände im Steueramt - Kenntnis genommen
+- TOP 4.7: Langfristige und innovative Planung der Raumkapazitäten für die Verwaltungsmitarbeiterinnen und –mitarbeiter der Stadt Köln - Beantwortung einer Anfrage aus dem Betriebsausschuss Gebäudewirtschaft (AN/1789/2018) - Kenntnis genommen
+- TOP 4.8: Europawahl 2019 - Information über die Ernennung des Stadtwahlleiters und der Stellvertretenden Stadtwahlleiterin - Kenntnis genommen
+- TOP 4.9: Umsetzung des Projekts zur Optimierung der städtischen Fördermittelvergabe - Kenntnis genommen
+- TOP 4.10: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen (II/2018) - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" zur Sitzung am 12.11.2018 - zurückgestellt
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Personalbericht 2018" zur Sitzung am 10.12.2018 - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/1790/2018 der SPD-Fraktion zum Thema Personalbericht 2018 - zurückgestellt
+- TOP 6.3: Anfrage der Gruppe BUNT betreffend "Homeoffice und alternative Arbeitszeitmodelle" zur Sitzung am 10.12.2018 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1791/2018 der Ratsgruppe BUNT zum Thema Homeoffice und alternative Arbeitszeitmodelle - Kenntnis genommen
+- TOP 6.4: Anfrage der Gruppe BUNT betreffend "Quereinstieg in die Kölner Stadtverwaltung" zur Sitzung am 10.12.2018 - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung vom 17.01.2019 - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Anfrage zum Thema Datenschutz bei der Vorlage von Impfausweisen
+- TOP 7.2: Anfrage zum Thema Inklusionstaxen in Köln
+- TOP 8: Anträge
+- TOP 8.1: Dringlichkeitsantrag der SPD-Fraktion und der Gruppe BUNT betreffend "Düxer Büdchen für den Rheinboulevard" zur Sitzung am 10.12.2018 - endgültig abgelehnt
+- TOP 8.2: Antrag der CDU-Fraktion betreffend "Projekt: Informationsaustausch von Vertretern der Kölner Hochschulen und der Wirtschaft mit Vertretern der Hochschulen der europäischen Partnerstädte" - geändert beschlossen
+- TOP -: Änderungsantrag zu Top 8.2: "Projekt: Informationsaustausch von Vertretern der Kölner Hochschulen und der Wirtschaft mit Vertretern der Hochschulen der europäischen Partnerstädte" (AN/0114/2019) - ungeändert beschlossen
+- TOP 8.3: Dringlichkeitsantrag der SPD-Fraktion und der Gruppe BUNT betreffend "Tag der Datensicherheit und des Datenschutzes im Rathaus der Stadt Köln" - zurückgestellt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Vertrag über die Erbringung technischer Dienste für die Stadt Köln - ungeändert beschlossen
+- TOP 10.2: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 10.3: Entschädigung von ehrenamtlichen Gremienmitgliedern - ungeändert beschlossen
+- TOP 10.4: Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 10.5: Einrichtung eines Last-Minute-Angebots bei der Volkshochschule Köln - ungeändert beschlossen
+- TOP 10.6: Freigabe von Mitteln für den Sicherheitsaufwand bei Großveranstaltungen - ungeändert beschlossen
+- TOP 10.7: Stadtentwässerungsbetriebe Köln, AöR (SteB); Änderung Abwassersatzung - ungeändert beschlossen
+- TOP 10.8: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - ohne Votum in nachfolgende Gremien
+- TOP 10.9: Projekt OptiWohn: Quartiersspezifische Sondierung und Entwicklung innovativer Strategien zur optimierten Nutzung von Wohnflächen - klimafreundliches Wohnen in Köln - ungeändert beschlossen
+- TOP 10.10: KölnKlimaAktiv 2022 - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Befristete Fortsetzung des Projektes „Willkommen und Ankommen in Köln“ für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 10.12: Rheinische Musikschule Köln, Mittelfreigabe und Konzept - ungeändert beschlossen
+- TOP 10.13: Aufbau eines Kriminalpräventiven Rates Köln - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
