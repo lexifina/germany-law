@@ -1,0 +1,61 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-02-04T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150386
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150386
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Siegmund-Schacky-Str. 15
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Welzenbachstr. 10-12 - Schulbauoffensive
+- TOP 4.: Anträge
+- TOP 4.1.1.: Sachstand Generalsanierung Westfriedhof
+- TOP 4.1.2.: Öffnung des Schulspielplatzes im westlichen Bereich des Schulzentrums Moosach
+- TOP 4.3.1.: Antrag: Entsiegelung des U-Turn Wintrichring - Dachauer Straße; Nachfrage: Sachstand Entsiegelung Wintrichring - Hugo-Troendle-Straße
+- TOP 5.1.: (E) Verbot privater Silvesterfeuerwerke
+- TOP 6.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen in der Baubergerstraße
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund: Moosacher St.-Martins-Platz Straßenfasching der SPD "24.Moosach Narrisch" am 23.02.2019
+- TOP 6.3.: Veranstaltungen in der städtischen Grünanlage Simmerleinplatz: "Wintergrillen" am 22.02.209 und "Pflanzentauschbörse und Flohmarkt für Haus- und Garten" am 11.05.2019
+- TOP 6.4.: Baumfällungen (Baumschutz): 1. Dieselstr. 5 2. Dachauer Str. 479
+- TOP 6.5.: Überprüfung des Nachverdichtungspotentials um das Olympia Einkaufszentrum
+- TOP 6.6.: Verlängerung der Laufzeiten von Flüchtlingsunterkünften
+- TOP 7.1.: Neupflanzung eines ortsbildprägenden Baumes auf dem Günzburger Platz, 80993 München [BA-Antrag Nr. 14-20/B 05378; Frühjahr 2019 wird im Nordteil der Grünanlage eine Winterlinde gepflanzt.]
+- TOP 7.2.: Baumpflanzaktion: Schnelle Nachpflanzung von Alleebäumen in Moosach [Stadtrat-Antrag Nr. 14-20/ A 03965 und Bürgeranliegen an BA10 vom 05.02.18; Aussage, daß für Baumaßnahmen Alleebäume gefällt aber nicht nachgepflanzt wurden konnte nicht nachvollzogen werden. Einzelfallprüfungen sind erfolgt und dokumentiert.]
+- TOP 7.3.: Beibehaltung des Christbaumverkaufs vor der Aussegnungshalle am Westfriedhof [Antrag BA10 vom 17.09.18; Sondernutzungserlaubnis ab 2019 für jeweilige Saison ist vorgesehen.]
+- TOP 7.4.: Entfernung eines Baumbeetes zugunsten eines Parkplatzes in der Hirschstraße [Antrag BA10 vom 15.05.17; Durchführung im Frühjahr 2019.]
+- TOP 7.5.: Ausweisung der Siegmund-Schacky-Straße bzw. der Naumburger Straße zur Fahrradstraße [Antrag BA10 vom15.10.18; lediglich Naumburger Straße kommt in Betracht, Voraussetzung wäre Rückbau des Radweges auf der Südseite.]
+- TOP 7.6.: Taubenabwehrmaßnahmen im Schulzentrum an der Gerastr. 6 [BA-Antrag Nr. 14-20/ B 05379; Bauliche Maßnahmen flächendeckend nicht möglich; angesiedelter natürlicher Fressfeind Hühnerbussard wird Rückgang Taubenpopulation nach sich ziehen; Spezialreinigung wird erfolgen.]
+- TOP 7.7.: Netzerneuerung an dem Soccer-Five Platz an der Sportanlage Saarlouiser Str. 86, 80997 München [BA-Antrag Nr. 14-20/ B 05619; Sportamt wird Erneuerung der defekten Netze in Auftrag geben.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Dachauer Str. 270; Absolute Haltverbote 2. Einrichtung eines personenbezogenen Behindertenparkplatzes Leipziger Straße
+- TOP 8.4.: Überprüfung der Sicherheit für Fußgänger und Radfahrer an der nördlichen stadteinwärts gelegenen Verkehrsinsel Dachauer Straße / Hanauer Straße [Beschluss des Bezirksausschusses des 10. Stadtbezirks vom 16.07.2018]
+- TOP 8.5.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 8.6.: (U) Tunnel von der Arnulfstraße bis zum Georg-Brauchle-Ring Empfehlung Nr. 14-20 / E 00795 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 26.11.2015 Landshuter Allee - Oberflächengestaltung nach dem Bau des Tunnels Empfehlung Nr. 14-20 / E 00838 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 27.11.2015
+- TOP 8.7.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 8.8.: (U) Städtebauliche und landschaftsplanerische sowie Realisierungswettbewerbe und Qualität der Architektur Antrag Nr. 14-20 / A 03415 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.09.2017
+- TOP 8.9.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 8.10.: Mobilfunk: Suchkreiseinstellung für Neubaustandort - nicht-öffentlich -
+- TOP 8.11.: WEB - alle Anträge vom 01.01. bis 15.01.2019 - nicht-öffentlich -
