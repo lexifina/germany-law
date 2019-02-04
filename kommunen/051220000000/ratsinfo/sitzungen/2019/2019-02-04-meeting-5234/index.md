@@ -1,0 +1,51 @@
+# Bezirksvertretung Wald (32. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-02-04T17:00:00+01:00
+- Ende: 2019-02-04T21:02:00+01:00
+- Ort: Walder Stadtsaal, Friedrich-Ebert-Straße 87, 42719 Solingen, Foyer
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-96
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZbb39s9c8sAkGwXW2PBuWg
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5234
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Wald) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXlCuOw_hz1LB4MCqYQb240QIYwf4Julqt65-_jgE42i/Bekanntmachung_Bezirksvertretung_Wald_04.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Wald) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfmgHc4tgx9wbqdeoK0e2c6Hd_lsi9TcqEiWjwBKT5am/Oeffentliche_Niederschrift_Bezirksvertretung_Wald_04.02.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Zustand der bezirklichen Fließgewässer (Wasserqualität, Einleitungen, Verrohrungen und Auswirkungen extremer Wetterphänomene)
+- TOP 1.2: Anfrage zur Bertholdstraße
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 30. Sitzung der Bezirksvertretung Wald am 07.11.2018
+- TOP 4.: Protokoll über die 31. Sitzung der Bezirksvertretung Wald am 12.11.2018
+- TOP 5.: Freie Budgetmittel 2019
+- TOP 5.1: Freie Budgetmittel 2019
+- TOP 5.2: Freie Budgetmittel 2019
+- TOP 5.3: Freie Budgetmittel 2019
+- TOP 6.: Grundschule Weyer Räumliche Situation - mündlicher Bericht -
+- TOP 7.: Vorstellung des Konzeptes für den Neubau an der Walder Grundschule Westersburg hier: Antrag der SPD-Bezirksfraktion vom 31.08.2018
+- TOP 8.: Genehmigungen Baumfällungen in Wald hier: Antrag der CDU-Bezirksfraktion vom 20.01.2019
+- TOP 9.: Niederschriften BV Wald hier: Antrag der CDU-Bezirksfraktion vom 20.01.2019
+- TOP 10.: Eingaben nach § 24 GO NRW hier: Antrag der CDU-Bezirksfraktion vom 20.01.2019
+- TOP 11.: Förderprogramm des Landes zum Thema Heimat - mündlicher Bericht -
+- TOP 12.: Umsetzung Veloroute Düsseldorf-Hilden-Solingen-Wuppertal Hier: Querung Korkenziehertrasse/Fuhrstraße
+- TOP 13.: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 13.1: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 14.: Verkaufsoffene Sonntage 2019
+- TOP 15.: Sportanlage Baverter Straße Verkehrsregelung hier: Termin Grün- und Wegekommission
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen der Verwaltung
+- TOP 16.1.1: Gefahrenbaumfällung Röntgenstraße 20
+- TOP 16.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung der Bezirksvertretung Wald am 12.11.2018
+- TOP 4.: Stadtteil Wald im gesamtstädtischen Quartierskonzept hier: Antrag der SPD-Bezirksfraktion vom 16.01.2019
+- TOP 5.: Vorstellung der neuen stellvertretenden Leitung der Zentralen Bezirksverwaltungsstelle
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
