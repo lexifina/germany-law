@@ -1,0 +1,81 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-02-04T16:00:00+01:00
+- Ende: 2019-02-04T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20382
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20382
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00702813.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00702813.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00702813.pdf
+
+## Tagesordnung
+
+- TOP -: Aktuelle Stunde "Ampelanlage Luxemburger Straße"
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1.1: Bürgereingabe gem. § 24 GO, betr.: Bürgersteig Sülzburgstraße (Az.: 02-1600-35/18) - ungeändert beschlossen
+- TOP 5.1.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrsberuhigung am Aspelkreuz (Az.: 02-1600-164/18) - zurückgestellt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Express Bus Aachener Str. - zurückgestellt
+- TOP 7.2.2: Neubauprojekt Clarenbachstift - zurückgestellt
+- TOP 7.2.3: Mobilitätsstation Klettenberggürtel - zurückgestellt
+- TOP 7.2.4: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 7.2.5: Zentraler Verkehrsrechner und Ampelprogramm - zurückgestellt
+- TOP 7.2.6: Weißhaus-Immobilie - zurückgestellt
+- TOP 7.2.7: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 7.2.8: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 7.2.9: Umbau der Kreuzung Militärringstraße/Luxemburger Straße - zurückgestellt
+- TOP 7.2.10: Bearbeitungsstand Sicherung Bushaltestellen - zurückgestellt
+- TOP 7.2.11: Anfrage Sicherheit KVB Gleise Sülz - zurückgestellt
+- TOP 7.2.12: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 7.2.13: Anfrage Freifläche Grundschule Wendelinstr. - zurückgestellt
+- TOP 7.2.14: Platz der Kinderrechte - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Knotenpunkt Wittekindstr/Berrenrather Str - ungeändert beschlossen
+- TOP 8.1.2: Verbesserung S-Bahn Takt am Sonntag - ungeändert beschlossen
+- TOP 8.1.3: S-Bahn Haltestelle Egelspfad - ungeändert beschlossen
+- TOP 8.1.4: Errichtung einer öffentlichen Toilette an der Aachener Str. - ungeändert beschlossen
+- TOP 8.1.5: Schließen einer besonders für Kinder gefährlichen Wegabkürzung - ungeändert beschlossen
+- TOP 8.1.6: VZ 136-10 Kinder kreuzen - ungeändert beschlossen
+- TOP 8.1.7: Runder Tisch Radverkehr in Lindenthal - ungeändert beschlossen
+- TOP 8.1.8: Mehr Naturschutz auf städtischen Äckern - ungeändert beschlossen
+- TOP 8.1.9: Umbenennung KVB-Haltestelle „Weiden Schulstraße" - ungeändert beschlossen
+- TOP 8.1.10: Bewohnerparken im Bereich zwischen Sülzgürtel und Militärringstr. sowie Luxemburger Str. und Berrenrather Str. in Köln Sülz - ungeändert beschlossen
+- TOP 8.1.11: Kostenfreies WLAN bei den KölnerVerkehrsBetrieben - ungeändert beschlossen
+- TOP 8.1.12: Sperrmaßnahmen gegen illegales Parken im Umfeld Franz-Kremer-Stadion - ungeändert beschlossen
+- TOP 8.1.13: Einrichtung Stellen Stadtteilkümmerer - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Sportanlage Ostkampfbahn Austausch des Kunststoffrasenbelags, Köln-Lindenthal - geändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ungeändert beschlossen
+- TOP 9.2.2: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 9.2.3: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - zurückgestellt
+- TOP 9.2.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: Nördlich Scheidtweilerstraße in Köln-Braunsfeld - zurückgestellt
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Taktverdichtung S12/S13/S19 - Kenntnis genommen
+- TOP 11.2.2: Ausbau der Infrastruktur für Elektrofahrzeuge im Stadtbezirk Lindenthal - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Interkommunale Zusammenarbeit zwischen der Stadt Köln und der Stadt Pulheim am Schulzentrum Brauweiler - Kenntnis genommen
+- TOP 11.3.2: Integrierte Planung Parkstadt Süd; Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation; hier: Ergänzung zu der Mitteilung 1386/2018 - Kenntnis genommen
+- TOP 11.3.3: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 11.3.4: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
