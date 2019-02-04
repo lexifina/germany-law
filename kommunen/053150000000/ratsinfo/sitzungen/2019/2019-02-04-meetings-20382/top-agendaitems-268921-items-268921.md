@@ -1,0 +1,6 @@
+# TOP -: Aktuelle Stunde "Ampelanlage Luxemburger Straße"
+
+- Sitzung: Sitzung der Bezirksvertretung Lindenthal (2019-02-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/268921
