@@ -1,0 +1,69 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-02-05T14:08:00+01:00
+- Ende: 2019-02-05T15:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20271
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20271
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "MyDagis – Skandinavische Kitas gemeinnützige UG" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Verwendung von Mitteln aus dem Veränderungsnachweis 4 (pol. VN) zum Hpl 2019 - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Jugendhilfeplanung in der Kindertagesbetreuung 2019/20 als Grundlage der Beantragung von Landeszuschüssen nach § 21 KiBiz - ungeändert beschlossen
+- TOP 2.3.2: Ausbauplanung der Schulsozialarbeit - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 2.3.2 – Ausbauplanung der Schulsozialarbeit - geändert beschlossen
+- TOP 2.3.3: Verlängerung der Anerkennung von plusKITAs und von Kitas mit zusätzlicher Sprachförderung nach §§ 16 a und b sowie 21a und b KiBiz - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - geändert beschlossen
+- TOP 4.2: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - ungeändert beschlossen
+- TOP 4.3: Neuwahl eines stellvertretenden stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.4: Sportentwicklungsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Frisches Kochen in Kitas - Sache ist erledigt
+- TOP -: Essen in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Sanierung historische Festungsanlage „Fort X“ - zurückgestellt
+- TOP 6.2.2: Kitabeiträge - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Führung von Vormundschaften in Köln - Kenntnis genommen
+- TOP 8.3.2: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2018 in der Stadt Köln - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Umsetzung des Bundesprogramms "Demokratie leben! Für ein vielfältiges, gewaltfreies und demokratisches Miteinander" - Kenntnis genommen
+- TOP 8.4.2: Qualitativer Ausbau der Übermittagsbetreuung, Evaluationsergebnisse und Konzeptüberarbeitung - Kenntnis genommen
+- TOP 8.4.3: Kinder- und jugendfreundliches Köln - Eröffnung des Kinder- und Jugendbüros - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Pilotphase Systematische Öffentlichkeitsbeteiligung im Bereich Sport - Kenntnis genommen
+- TOP 8.5.2: Neuorganisation des Amts für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.5.3: Novellierung des Kinderbildungsgesetzes (KiBiz) 2019 - Kenntnis genommen
+- TOP 8.5.4: Verwendung der Landesmittel aus dem Trägerrettungspaket für Kindertageseinrichtungen - Kenntnis genommen
+- TOP 8.5.5: Broschüre „Wegweiser Wohnen in Köln“ - Kenntnis genommen
+- TOP 8.5.6: Sachstandsbericht zum Projekt „Einwanderung gestalten NRW“ - Kenntnis genommen
