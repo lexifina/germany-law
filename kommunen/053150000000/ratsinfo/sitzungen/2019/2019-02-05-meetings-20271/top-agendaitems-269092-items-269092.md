@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu TOP 2.3.2 – Ausbauplanung der Schulsozialarbeit
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2019-02-05)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/269092
+- Ergebnis: geändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/127817
