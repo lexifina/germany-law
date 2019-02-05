@@ -1,0 +1,23 @@
+# Fahrplanmaßnahmen Juni 2019
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/1113/WP17
+- Art: Entscheidungsvorlage
+- Datum: 2019-02-05
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=19436
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=19436
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=325222&DOCTYP=130&OTYP=41&ANNOTS=1
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4082 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4053 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4083 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4054 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4055 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4084 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4085 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4057 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=4086 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4067 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4081 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=4068 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=4062 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
