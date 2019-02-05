@@ -1,0 +1,55 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-02-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145489
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145489
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 08.01.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (Antrag) Vorschlag für das Stadtbezirksbudget: Schachspiel
+- TOP 3.3.: (E) Stadtbezirksbudget Verein der Ionischen Inseln Mie e.V. Bunter Kulturabend am 29.12.2018 1.500,00€; Az.: 0262.0-19-0235
+- TOP 3.4.: (E) Stadtbezirksbudget TUM Fakultät für Architektur; Professur Neuere Denkmalpflege The adventure of the empty house 28.02. - 02.03.2019 2.000,00 € AZ: 0262.0-19-0240
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (A) Neue Sitzgelegenheiten an öffentlichen Plätzen im 19. Stadtbezirk
+- TOP 4.4.: (U) Mobilfunkanlagen
+- TOP 4.5.: (Antrag) Eisflächen im Stadtgebiet des BA 19
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Bus 132- Kein frühzeitiges Wenden vor der Endhaltestation Forstenrieder Park
+- TOP 5.1.2: Verlegung Taxistand Baierbrunner Straße
+- TOP 5.1.3: Errichtung eines Taxistandes in der Drygalski-Allee 117
+- TOP 5.2.: (Antrag) Umbau Kreuzung Meglingerstraße/Kistlerhofstraße/Constanze-Hallgarten-Straße
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Verlängerung Beschilderung Stäblistraße 45
+- TOP 5.4.: (Antrag) Radverbindungen zum Otfried-Preußler-Gymnasium
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Auskünfte zum Derzbachhof an der Forstenrieder Allee 179
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Keine Nachverdichtung der GEWOFAG-Bauten an der Züricher Straße BV-Empfehlung Nr. 14-20 / E 01468; Sitzungsvorlage Nr. 14-20 / V 13675
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Beschlussentwurf: Verlängerung der Laufzeiten von Flüchtlingsunterkünften
+- TOP 7.3.: (A) Beschlussentwurf: Schulbauoffensive 2013-2030 -NACHTRAG-
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Forstenrieder Allee 29
+- TOP 8.3.: (U) Gaststättenfortführung: Drygalski-Allee 117
