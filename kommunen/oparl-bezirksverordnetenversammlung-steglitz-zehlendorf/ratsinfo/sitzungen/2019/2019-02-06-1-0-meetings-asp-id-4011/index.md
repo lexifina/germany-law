@@ -1,0 +1,72 @@
+# 5. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-02-06T17:00:00+01:00
+- Ende: 2019-02-06T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4011
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4011
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 02.01.2019 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Engstelle Moltkebrücke in beiden Richtungen befahren - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.2: Sicherheit für Radfahrer*innen gewährleisten. Pflegeintervall der Radwege in der Mühlenstraße und Sundgauer Straße dem Wachstum der Pflanzen anpassen - im Ausschuss abgelehnt
+- TOP 4.3: In der Kirchstraße muss auch die Rettung und Feuerwehr passieren können - mit Änderungen im Ausschuss beschlossen
+- TOP 4.4: Mobilitätsgesetz - Bezirklicher Fahrrat: Größe und Zusammensetzung mit Bezirksverordnetenversammlung abstimmen - vertagt
+- TOP 4.5: Umbaumaßnahmen am Bahnhof Lichterfelde-Ost – es fehlt weiterhin an offiziellen und hochwertigen Fahrradparkplätzen - im Ausschuss abgelehnt
+- TOP 4.6: Sitzbank für Schloßstraßennutzer in Höhe Zimmermannstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Klinikum-Benjamin-Franklin vom Uferweg her zugänglich machen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.8: Zebrastreifen für leichteres Überqueren der Grunewaldstraße in Höhe Paulsenstraße - mit Änderungen im Ausschuss beschlossen
+- TOP 4.9: Clayallee Ecke Winfriedstraße - Unfallschwerpunkt entschärfen - vertagt
+- TOP 4.10: Lichterfelde: Weddigenweg als Fahrradstraße - vertagt
+- TOP 4.11: Fahrverbotszone in Steglitz-Zehlendorf verhindern! - mit Änderungen im Ausschuss beschlossen
+- TOP 4.12: Robert-Lück-Straße – Bürgerwillen erkunden; Bürgerveranstaltung durchführen - vertagt
+- TOP 4.13: Teltower Damm: Fahrradwege nutzen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.14: Behindertenparkplätze in der Lloyd-G.-Wells-Straße - vertagt
+- TOP 4.15: Verkehrssicherheit unserer Kinder, unsere höchste Priorität: Ampel Riemeistertraße/Wilskistraße - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.16: Durchfahrtsverbot für LKW (über 7,5 t) in der Rendtorffstraße - vertagt
+- TOP 4.17: Bewohnerinnen und Bewohner im Kiez über die Baumaßnahmen rechtzeitig informieren - im Ausschuss abgelehnt
+- TOP 4.18: Ampelanlage Riemeisterstraße/Ecke Wilskistraße einrichten - mit Änderungen im Ausschuss beschlossen
+- TOP 4.19: Parkraumordnung Elvirasteig/Ecke Fischerhüttenweg - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.20: Zebrastreifen vor der Dreilinden-Grundschule - vertagt
+- TOP 4.21: Bahnhofsvorplatz Berlin- Lichterfelde Ost - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.22: Ersatz der Behindertenparkplätze in der Schloßstraße - vertagt
+- TOP 4.23: Absolutes Halteverbot in der Gärtnerstraße - vertagt
+- TOP 4.24: Baumscheiben schützen - absolutes Halteverbot vor Siemensvilla - vertagt
+- TOP 4.25: Ampelschaltung Ostpreußendamm / Wiesenweg anpassen - vertagt
+- TOP 4.26: Radfahrer schützen - Drängelgitter für die Weverpromenade / Birkbuschstraße - vertagt
+- TOP 4.27: Ampel (LZA) auf der Osdorfer Straße (Höhe Réaumurstraße) benötigt! - vertagt
+- TOP 4.28: Radfahrer auf dem Gehweg - vertagt
+- TOP 4.29: Absolutes Halteverbot vor Quentin-Blake-Schule - vertagt
+- TOP 4.30: Räumpfeil entfernen - vertagt
+- TOP 4.31: Ladezone und mehr Kurzzeitparken, bessere Querung am S-Bahnhof Botanischer Garten - vertagt
+- TOP 4.32: Sichere Wege in der Marshallstraße - vertagt
+- TOP 4.33: Sichere Radführung in der Berliner Straße und bessere Einsehbarkeit an den Einmündungen Gartenstraße, Seehofstraße, Vopeliuspfad - vertagt
+- TOP 4.34: BVG-Wartehäuschen an der Haltestelle Billy-Wilder-Promenade - zurückgezogen
+- TOP 4.35: Grünpfeil am Kleinmachnower Weg Ecke Teltower Damm - vertagt
+- TOP 4.36: Fahrradabstellmöglichkeiten in der Mittelstraße und weiteren benachbarten Straßen des U- und S-Bahnhofes Rathaus Steglitz - vertagt
+- TOP 4.37: Fußgänger- und Radfahrerüberquerung Teltower Damm - vertagt
+- TOP 4.38: Alle geplanten Standorte der öffentlichen Toiletten realisieren - vertagt
+- TOP 4.39: Sperrflächen vor Feuerwehrzufahrten und in Kreuzungen markieren, Parkflächen markieren - vertagt
+- TOP 4.40: Straßeninstandsetzungsprogramm für den Ostpreußendamm – Umsetzung des Beschlusses Nr. 253/V zur Drs. 0343/ V (neu) - vertagt
+- TOP 4.41: Zebrastreifen für die Westseite des Breitenbachplatzes - vertagt
+- TOP 4.42: Fahrradwege in der Königsberger Straße - vertagt
+- TOP 4.43: Schlaglöcher in der Podbielskiallee - vertagt
+- TOP 4.44: Fahrradwracks Gustav-Hartmann-Platz - vertagt
+- TOP 4.45: Ampelanlage Potsdamer Straße/Kreuzung Fürstenstraße einrichten - vertagt
+- TOP 4.46: Eine öffentliche Toilette für Lichterfelde-West - vertagt
+- TOP 4.47: Endlich Platzbenennung nach Richard Draemert möglich! - vertagt
+- TOP 4.48: Instandsetzung der sechs Holzbänke ohne Lehne auf dem Ludwig-Beck-Platz - vertagt
+- TOP 4.49: Kennzeichnung des Übergangs in der Breisgauer Straße - vertagt
+- TOP 4.50: Kriterien für die Weiterentwicklung des Dahlemer Wegs - vertagt
+- TOP 4.51: Verkehrssicherung - Bushaltestelle Jägerstraße - vertagt
+- TOP 4.52: Wolfensteindamm: LSA sicher schalten und Rotlichthalt überwachen - vertagt
+- TOP 4.53: Fahrradparkhäuser statt Steuergeldverschwendung – intelligente Radverkehrsförderung im Bezirk - vertagt
+- TOP 5: Verschiedenes - erledigt
