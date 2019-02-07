@@ -1,0 +1,93 @@
+# 38. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-02-07T15:04:00+01:00
+- Ende: 2019-02-07T19:34:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20272
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20272
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Nah- und Fernwärme in Köln - Kenntnis genommen
+- TOP 2.1.2: Städtische Mitarbeiter für den Wohnungsbau - Kenntnis genommen
+- TOP 2.1.3: Erbbaurechtsbestellung als Instrument der Wohnungs- und Liegenschaftspolitik– ein Weg für Köln? - Kenntnis genommen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Wohnen.Bezahlbar.Machen: Parkplätze und Supermärkte mit Wohnungen überdachen – wie ist der Umsetzungsstand? - Kenntnis genommen
+- TOP 3: Anträge
+- TOP 3.1: Städte stärken – Wohnen.Bezahlbar.Machen - Sache ist erledigt
+- TOP -: Kommunale Handlungsspielräume nutzen - Änderungsantrag zu TOP 3.1.7, "Städte stärken – Wohnen.Bezahlbar.Machen" - Sache ist erledigt
+- TOP 3.2: Wohnungsnot bekämpfen – Kleinwohnungen mit reiner Nordlage erlauben! - endgültig abgelehnt
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: Integrierte Planung Parkstadt Süd; hier: Ergebnis des Gesamtverfahrens Parkstadt Süd und Dokumentation - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen, der Fraktion Die Linke und der FDP-Fraktion vom 07.02.19 zu TOP 4.2.1 Parkstadt Süd - ungeändert beschlossen
+- TOP 4.2.2: Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die Linke vom 07.02.19 zu "Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz" 3880/2018 - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP -: Änderungsantrag der FDP-Fraktion vom 07.02.19 zu "Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz" 3880/2018 - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Qualifizierungmaßnahme Quartiersplatz Am Salzmagazin (Eigelstein); hier: Bedarfsfeststellungsbeschluss und Durchführung eines Qualifizierungsverfahrens - zurückgestellt
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Beschluss über die Planung und Durchführung der Maßnahme "Umgestaltug des Rochusplatzes" in Köln-Bickendorf aus dem Programm "Starke Veedel – Starkes Köln" (Sozialraum Bickendorf, Westend und Ossendorf); Bedarfsfeststellungsbeschluss - ohne Votum in nachfolgende Gremien
+- TOP 6.2: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 6.3: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert beschlossen
+- TOP 6.4: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - ohne Votum in nachfolgende Gremien
+- TOP 6.5: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - zurückgestellt
+- TOP 6.6: Verkehrsführungskonzept Altstadt - ohne Votum in nachfolgende Gremien
+- TOP 6.7: Planungs- und Bedarfsfeststellungsbeschluss für die Neugestaltung der Stadtbahnhaltestelle Bahnhof Deutz/Messe - geändert beschlossen
+- TOP 6.8: Einzelhandels- und Zentrenkonzept (EHZK) - Fortschreibung - zurückgestellt
+- TOP 6.9: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte - Revitalisierung des Porzer Zentrums - ungeändert beschlossen
+- TOP 6.10: Sportentwicklungsplanung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 6.11: Beschluss der Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum „Mülheim-Nord und Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 6.12: Beschluss der Fortschreibung des Integrierten Stadtentwicklungskonzeptes für den Sozialraum "Bickendorf, Westend und Ossendorf" - ohne Votum in nachfolgende Gremien
+- TOP 6.13: Belgisches Viertel in Köln-Neustadt/Nord; Verlängerung der Veränderungssperre; Teilbereich Köln-Neustadt/Nord - ungeändert beschlossen
+- TOP 6.14: KölnKlimaAktiv 2022 - ungeändert beschlossen
+- TOP 6.15: Projekt OptiWohn: Quartiersspezifische Sondierung und Entwicklung innovativer Strategien zur optimierten Nutzung von Wohnflächen - klimafreundliches Wohnen in Köln - ungeändert beschlossen
+- TOP 6.16: Förderung des Bildungsberatungszentrums Köln-Mülheim - ungeändert beschlossen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 8.1: Gewerbegebiet Venloer Straße in Köln-Bocklemünd/Mengenich, 1. Änderung; frühz. Öffentlichkb. - ungeändert beschlossen
+- TOP 8.2: "Nördlich Colonius" in Köln-Neustadt/Nord; neue Konzeptidee + Durchf. frühz. Öffentlichkeitsb.; Städtebauliches Planungskonzept - geändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion, der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen, der FDP-Fraktion zu TOP 8.2 "Nördlich Colonius" 3222/2018 - ungeändert beschlossen
+- TOP 8.3: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) Seeadlerweg in Köln-Ehrenfeld; Anhörung der Bezirksvertretung Ehrenfeld zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert beschlossen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Ossendorfer Weg/Mühlenweg in Köln-Bickendorf; Einleitungsbeschluss - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: Integrative Quartiersentwicklung am Kalscheurer Weg in Köln-Zollstock - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Erbacher Weg in Köln Chorweiler - ungeändert beschlossen
+- TOP 10.4: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Lindweilerweg in Köln-Nippes - zurückgestellt
+- TOP 10.5: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: Nördlich Scheidtweilerstraße in Köln-Braunsfeld - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion vom 07.02.19 zu TOP 10.5, Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan), Arbeitstitel: Nördlich Scheidtweilerstraße in Köln-Braunsfeld - endgültig abgelehnt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Aufstellungsbeschlusses zum B-Planverfahren 71410/06, Arbeitstitel: Gewerbegebiet Westhoven in Köln-Porz-Westhoven - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Beschluss über die Einleitung betreffend die Änderung des Bebauungsplanes Nummer 67549/04; Arbeitstitel: Causemannstraße in Köln-Merkenich, 3. Änderung - ungeändert beschlossen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: 6. Satzung zur Änderung der Sondernutzungssatzung - zurückgestellt
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung Ehrenfeld vom 03.12.2018 auf Einleitung eines Bebauungsplanverfahrens für das Gebiet Gutenbergstraße 132/Lukasstraße 30 in Köln-Neuehrenfeld mit der Zielsetzung, Wohnen unter Berücksichtigung des kooperativen Baulandmo - ungeändert beschlossen
+- TOP 17: Mitteilungen
+- TOP 17.1: Verwendung der Kosten der Unterkunft - stadtunmittelbarer Wohnungsbestand (AN/1774/2018) - Kenntnis genommen
+- TOP 17.2: "Wohnungen bleiben Wohnungen - Wohnraumschutzsatzung verlängern, verschärfen und durchsetzen" - Sachstand zum Beschluss des Rates aus der 42. Sitzung (TOP 3.1.5) - Kenntnis genommen
+- TOP 17.3: Autonomes Zentrum an der Luxemburger Straße 93 - Beantwortung der Anfrage AN/0009/2019 - Kenntnis genommen
+- TOP 17.4: Planspiel des Bundes zum möglichen Instrument einer Innenentwicklungsmaßnahme - Kenntnis genommen
+- TOP 17.5: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 17.6: Antrag der Bezirksvertretung Ehrenfeld vom 05.11.2018 betreffend Sachstand Beschlusslage und Bauvorhaben Melatengürtel/Grüner Weg - Kenntnis genommen
+- TOP 17.7: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 17.8: Gewerbeflächenbereitstellungskonzept - Kenntnis genommen
+- TOP 17.9: Mitteilung der Verwaltung über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung im Bebauungsplanverfahren Modell 1 (Aushang der Pläne) Arbeitstitel: Bebauungsplanänderung Nummer 67420/07 Mannsfelder Straße nach § 13 Baugesetzbuch - Kenntnis genommen
+- TOP 17.10: TH Köln – Gebäude A (Ersatzneubau Campus Deutz Gebäude A)- Gebäude B- (Hörsaalzentrum), hier: Ergebnisse der Wettbewerbe nach RPW 2013 - Kenntnis genommen
+- TOP 17.11: Sachstandsbericht Neubau Bezirksrathaus Innenstadt AN/1047/2018 - Stand 03.12.2018 - Kenntnis genommen
+- TOP 17.12: Wohnungen in Nordlage - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
