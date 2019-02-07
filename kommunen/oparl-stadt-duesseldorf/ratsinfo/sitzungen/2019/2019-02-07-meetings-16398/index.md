@@ -1,0 +1,92 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-02-07T17:00:00+01:00
+- Ende: 2019-02-07T20:08:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16398
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16398
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00335031.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00335031.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00335031.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Straßenzustandsbewertung - zur Kenntnis genommen
+- TOP 7: Bezirkssportanlage Deutzer Straße 12 (Kikweg) - einstimmig beschlossen
+- TOP 8: Toilettenanlage Nachbarschaftspark Am Stufstock - einstimmig beschlossen
+- TOP 9: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2019 - mehrheitlich beschlossen
+- TOP 10: Veranstaltungen auf dem Gertrudisplatz im Jahre 2019 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2019 - einstimmig beschlossen
+- TOP 12: Verlängerung der U75 bzw. 705 nach Gerresheim - beantwortet
+- TOP 13: Barrierefreier Umbau der S-Bahnhöfe im Stadtbezirk 8 - beantwortet
+- TOP 14: ÖPNV - Anschlussgarantie im Stadtbezirk 8 - beantwortet
+- TOP 15: Dynamische Fahrgastinformationen im Stadtbezirk 8 - beantwortet
+- TOP 16: OU Oberbilk - Bebauungsplanverfahren / Realisierungszeitraum - beantwortet
+- TOP 17: Unfallsituation Gerresheimer Landstraße - beantwortet
+- TOP 18: Gerresheimer Landstraße - Geschwindigkeitsmessungen - beantwortet
+- TOP 19: Verlängerung der Straßenbahn 705 nach D-Reisholz S - beantwortet
+- TOP 20: Verlängerung der Straßenbahn / Stadtbahn zur Erschließung Lierenfeld-Ost nach Vennhausen - beantwortet
+- TOP 21: OU Oberbilk - Verkehrsentlastung für den Stadtbezirk 8 - Abschnitt Ronsdorfer Straße / Werdener Straße - beantwortet
+- TOP 22: Baumaßnahme Klettergarten Unterbacher See - beantwortet
+- TOP 23: Jugendzentrum Bernburger Straße 50 - beantwortet
+- TOP 24: Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 25: Gasbeleuchtung im Stadtbezirk 8 - beantwortet
+- TOP 26: Jugendfreizeiteinrichtung Jägerstraße 31 - beantwortet
+- TOP 27: AWO Unterbach - zentrum plus - beantwortet
+- TOP 28: Verkehrsregelung An der Schützenwiese - einstimmig beschlossen
+- TOP 29: Kinderspielplatz Coburger Weg - einstimmig beschlossen
+- TOP 30: Grundstück Vennhauser Allee 222 - einstimmig beschlossen
+- TOP 31: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 32: Luftreinhalteplan 2019 im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 33: Geschäftsstelle Lierenfeld der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 34: Öffnung von Einbahnstraßen für den Radverkehr in Lierenfeld - einstimmig beschlossen
+- TOP 35: Stellplatzsituation Tulpenweg - einstimmig beschlossen
+- TOP 36: Zweckverband Unterbacher See - einstimmig beschlossen
+- TOP 37: HaltestellenGeschichte(n) im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 38: Spielgerät Schulhof Volker-Rosin-Schule - einstimmig beschlossen
+- TOP 39: Parkregelung Freiheitstraße - einstimmig beschlossen
+- TOP 40: Fahnenmastschuhe Gumbertstraße - einstimmig beschlossen
+- TOP 41: Luftreinhalteplan 2019 im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 42: Fahrbahninstandsetzung Ellerkirchstraße - einstimmig beschlossen
+- TOP 43: Baumpflanzungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 44: Lärmmessung Abstellbahnhof Speyerweg - einstimmig beschlossen
+- TOP 45: Fahrradbügel Alt-Eller / Gumbertstraße - einstimmig beschlossen
+- TOP 46: Gestaltungssatzung Gumbertstraße - zurückgezogen
+- TOP 47: Parkbucht Karlsruher Straße 38 - 40 - einstimmig beschlossen
+- TOP 48: Fußweg zwischen Vennhauser Allee und Zwickauer Straße / Chemnitzer Straße - einstimmig beschlossen
+- TOP 49: Fahrbahnsanierung Gothaer Weg - mehrheitlich abgelehnt
+- TOP 50: Rahmenkonzept ZUKUNFT QUARTIER.DÜSSELDORF - zur Kenntnis genommen
+- TOP 51: Konzept für die Ertüchtigung der Geländer an Ingenieurbauwerken und provisorische Sicherung für den - zur Kenntnis genommen
+- TOP 52: Brückensanierung Schloss Eller - zur Kenntnis genommen
+- TOP 53: Rahmenplan Einzelhandel im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Durchgang Reichenbacher Weg / Naumburger Straße zur Südlichen Düssel - zur Kenntnis genommen
+- TOP 55: Umgestaltung Lierenfelder Platz - zur Kenntnis genommen
+- TOP 56: Mobilitätsplan D - zur Kenntnis genommen
+- TOP 57: Verkehrsschild "Achtung Kinder" auf der Chemnitzer Straße - zur Kenntnis genommen
+- TOP 58: Klein-Eller - kombinierter Geh-/Radweg - zur Kenntnis genommen
+- TOP 59: Fläche vor dem Gutshof Eller - Heidelberger Straße 30 - zur Kenntnis genommen
+- TOP 60: Eller Kamp - Einführung Tempo 30 und Errichtung Zebrastreifen - zur Kenntnis genommen
+- TOP 61: Radverkehr Ludwigshafener Straße und Gatherweg - zur Kenntnis genommen
+- TOP 62: Neugestaltung Breidenplatz - zur Kenntnis genommen
+- TOP 63: Rheinbahn-Linien U76 und 723 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 64: Grundstück An der Schützenwiese 40 - zur Kenntnis genommen
+- TOP 65: Platzfläche Posener Straße / Breslauer Straße / Richardstraße - zur Kenntnis genommen
+- TOP 66: Regenrückhaltebecken Krippstraße / Vennhauser Allee - zur Kenntnis genommen
+- TOP 67: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 68: Fußweg zwischen Chemnitzer Straße und Zwickauer Straße - zur Kenntnis genommen
+- TOP 69: Jugendfreizeiteinrichtung Gerresheimer Landstraße 89 - zur Kenntnis genommen
+- TOP 70: Naturnaher Ausbau der südlichen Düssel Vennhausen (1. BA) - zur Kenntnis genommen
+- TOP 71: Fahrradabstellplätze am Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 72: Regenrückhaltebecken Heidelberger Straße / Karlsruher Straße / Am Straußenkreuz - zur Kenntnis genommen
+- TOP 73: Abstellbahnhof Speyerweg - zur Kenntnis genommen
+- TOP 74: Straßenschild Geraer Weg - zur Kenntnis genommen
+- TOP 75: Barrierefreier Umbau der S-Bahnhöfe im Stadtbezirk 8 - zur Kenntnis genommen
