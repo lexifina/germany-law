@@ -1,0 +1,80 @@
+# 34. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-02-07T17:00:00+01:00
+- Ende: 2019-02-07T19:15:00+01:00
+- Ort: Klarissenkloster, Kapellenstraße 51, 51103 Köln-Kalk
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20170
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20170
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00700780.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00700780.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00700780.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung Kalk gemäß § 5 Absatz 1 der Hauptsatzung der Stadt Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Einwohnerfrage: Liegen Ist- und Plan-Zahlen für eine evidenzbasierte Fortschreibung Schulentwicklungsplanung (3179/2018) für den Bezirk Kalk und seine Stadtteile und damit belastbare Entscheidungsalternativen vor? - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anträge und Anregungen der Bezirksarbeitsgemeinschaft Seniorenpolitik gemäß § 23 der Hauptsatzung der Stadt Köln
+- TOP 5.1: Barrieren auf dem Fußweg zwischen Anisweg und Neubrück: Barriere so verändern, dass sie mit E-Scooter überwindbar ist - geändert beschlossen
+- TOP 5.2: Zwei kleine Stufen auf dem Verbindungsweg Waldstraße zur Sibeliusstraße in Vingst zum Teil zu beseitigen - Sache ist erledigt
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Australisches Grill-Feeling im Stadtbezirk Kalk - endgültig abgelehnt
+- TOP -: Australisches Grill-Feeling im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 7.2: Umgestaltung der Rösrather Straße in Köln-Rath/Heumar - geändert beschlossen
+- TOP -: Umgestaltung der Rösrather Straße in Köln-Rath/Heumar (Antrag der SPD-Fraktion vom 15.11.2018, AN/1633/2018) - ungeändert beschlossen
+- TOP 7.3: KVB-Buslinie 179: Entlastung nicht nur morgens! - zurückgestellt
+- TOP -: KVB-Buslinie 179: Entlastung nicht nur morgens! - zurückgestellt
+- TOP 7.4: Instandsetzung und Beleuchtung des Fußwegs zwischen Hans-Schulten-Straße und Astrid-Lindgren-Allee in Köln-Brück - ungeändert beschlossen
+- TOP 7.5: Erhöhung des Parkplatzangebotes auf dem Parkplatz Frankfurter Straße/Höhenberger Ring in Köln-Höhenberg - geändert beschlossen
+- TOP 7.6: Rückabwicklung der geänderten Beschilderung auf der Porzer Straße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.7: Grünschnitt am angedachten Mehrgenerationenspielplatz Matthias-Müller Straße, Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.8: Die Sicherheit muss besser organisiert sein als das Verbrechen - zurückgestellt
+- TOP 7.9: Aufstellung von Pollern am Geh-/Fahrradweg an der Frankfurter Straße/Ecke Gothaer Platz in Köln-Höhenberg - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Baubeschluss für die Errichtung einer Querungshilfe auf der Olpener Straße/Servatiusstraße in Merheim - zurückgestellt
+- TOP 8.1.2: Umbenennung der Heinrich-Lersch-Straße in Köln-Neubrück - geändert beschlossen
+- TOP -: Umbenennung der Heinrich-Lersch-Straße in Köln-Neubrück - ungeändert beschlossen
+- TOP 8.1.3: Bauvorhaben Ostmerheimer Straße in Köln Merheim; Fällantrag, Ausgleichszahlung - ungeändert beschlossen
+- TOP 8.1.4: Gestattung der Aufstellung eines Kunstwerkes der Bürgergemeinschaft Köln-Brück e.V. zur Erinnerung an Heinz Ganss - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Trinkbrunnen für Köln - geändert beschlossen
+- TOP 8.2.2: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - ungeändert beschlossen
+- TOP 8.2.3: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" für den Sozialraum "Ostheim und Neubrück" - geändert beschlossen
+- TOP 8.2.4: Zuschuss SV Gremberg-Humboldt 60/62 e.V. - ungeändert beschlossen
+- TOP 8.2.5: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Verkehrsüberwachung Hohensybugstraße in Köln-Merheim - Kenntnis genommen
+- TOP 9.1.2: Parken auf Radwegen verhindern und sanktionieren - Kenntnis genommen
+- TOP 9.1.3: "Zukünftige Situation am Rather See in Köln-Rath/Heumar"; Anfrage Fraktion Bündnis 90/Die Grünen 22.11.2018; AN1690-2018 - Kenntnis genommen
+- TOP 9.1.4: Sanierung der Autobahn A 3 im Kölner Osten; hier: Verkehrskonzept - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Zustand der Haltestelle Fuldaer Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz - Kenntnis genommen
+- TOP 10.2.2: Änderungen zum Fahrplanwechsel 2018 - Kenntnis genommen
+- TOP 10.2.3: Stadtfarbton für städtisches und privates Mobiliar in international und stadtweit bedeutenden Stadträumen - Kenntnis genommen
+- TOP 10.2.4: Geschwindigkeitsreduzierung auf der Lützerathstraße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.5: Trägerschaft für die neue Jugendeinrichtung in Köln Kalk - Kenntnis genommen
+- TOP 10.2.6: Sachstand Grüne Infrastruktur Köln "Vielfalt vernetzen" - Kenntnis genommen
+- TOP 10.2.7: Barrierefreier Umbau der Stadtbahnhaltestelle Kalk Post - Inbetriebnahme der Aufzüge - Kenntnis genommen
+- TOP 10.2.8: Studentisches Wohnen in Unterkünften für Geflüchtete - Kenntnis genommen
+- TOP 10.2.9: Fortführung Aktivierungsfonds 2019 im Rahmen des Integrierten Stadtentwicklungskonzeptes "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP -: Fortführung Aktivierungsfonds 2019 im Rahmen des Integrierten Stadtentwick-lungskonzeptes "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 10.2.10: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes, hier: Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.11: Neubau des Feuerwehrzentrums Kalk hier: Kostenerhöhungsbeschluss - Kenntnis genommen
+- TOP 10.2.12: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 10.2.13: Earth Hour 2019 - Kenntnis genommen
