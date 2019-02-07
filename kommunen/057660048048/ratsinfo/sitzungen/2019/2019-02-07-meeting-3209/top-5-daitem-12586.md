@@ -1,0 +1,6 @@
+# TOP 5.: Haushaltsberatungen 2019
+
+- Sitzung: Rechnungsprüfungs- und Bilanzausschuss (18. Sitzung) (2019-02-07)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/12586
