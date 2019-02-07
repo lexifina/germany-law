@@ -1,0 +1,66 @@
+# Gemeinderat (45. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2019-02-07T18:03:00+01:00
+- Ende: 2019-02-07T20:40:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQH27Xtp8ql7ChSbF2F_3Hw
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1709
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZftipxinM5Kc-jR_GY4zkCG1nwDZF3clBM47Vu-RkzGV/Bekanntmachung_Gemeinderat_07.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQnI9ctz_Ay9R6btmVS6f3decxP4_DVOtI-Fqd21Guti/Oeffentliche_Niederschrift_Gemeinderat_07.02.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 3.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 13.12.2018 -öffentlicher Teil-
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: 1. 44. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven 2. Bebauungsplan 65 A - WK V – a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen zu 1. während der öffentlichen Auslegungen gem. §§ 3 Abs. 1 und 2, 4 Abs. 1 und 2 BauGB sowie § 4a Abs. 3 BauGB. b.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen zu 2. während der frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4 Abs. 1 BauGB und der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB c.) Feststellungsbeschluss zu 1. d.) Beschluss über die erneute Offenlage zu 2. - 9 Ja-Stimmen, 9 Nein-Stimmen, 4 Enthaltungen
+- TOP 4.2: Bebauungsplan 75 S - Pützgracht - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - einstimmig, 0 Enthaltungen
+- TOP 4.3: Durchführungsplan Fluchtlinien 2 S a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss zur Aufhebung - einstimmig, 0 Enthaltungen
+- TOP 5.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 5.1: Prüfung des Gesamtabschlusses für das Jahr 2017 - einstimmig, 0 Enthaltungen
+- TOP 5.2: Entlastung des Bürgermeisters für den Gesamtabschluss 2017 - einstimmig, 0 Enthaltungen
+- TOP 6.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 6.1: Beschluss Haushaltssatzung 2019 mit ihren Anlagen sowie die damit verbundene Fortschreibung des Sanierungsplans 2019.
+- TOP 6.2: 1.Änderung des Stellenplanes 2019 - einstimmig, 0 Enthaltungen
+- TOP 6.3: Stellenausschreibung "Neue/r Fachbereichsleiter/in FB II" - einstimmig, 0 Enthaltungen
+- TOP 6.4: Umrüstung der Telefonanlage im Rathaus - einstimmig, 0 Enthaltungen
+- TOP 6.5: Sanierung Lehrschwimmbecken Siersdorf
+- TOP 6.5.1: Sanierung Lehrschwimmbecken Siersdorf - einstimmig, 0 Enthaltungen
+- TOP 7.: Bildung einer Instandhaltungsrückstellung / Änderungen zum Haushaltsentwurf 2019 - einstimmig, 0 Enthaltungen
+- TOP 7.1: Beschluss des Haushaltes 2019 und der Fortschreibung des Sanierungsplanes einschließlich der Empfehlungen des Hauptausschusses - einstimmig, 0 Enthaltungen
+- TOP 8.: Neubesetzung von Ausschüssen
+- TOP 8.1: Neubesetzung von Ausschüssen und Gremien - einstimmig, 0 Enthaltungen
+- TOP 9.: Anträge von Fraktionen
+- TOP 9.1: Antrag der FWG-Fraktion zur Ausschreibung einer Fachbereichsleitung
+- TOP 10.: Satzungen, Ortsrecht
+- TOP 10.1: 1.) Beanstandung gemäß § 54 Gemeindeordnung NRW (GO NRW) hier: Beschluss des Rates zu TOP A.6.3. "Antrag von SPD- und CDU-Fraktion; hier: Änderung der Hauptsatzung" am 13. Dezember 2018 2.) 10. Änderung der Hauptsatzung der Gemeinde Aldenhoven vom 09. Dezember 1999 - einstimmig, 0 Enthaltungen
+- TOP 11.: Gebühren, Beiträge
+- TOP 11.1: Erhebung von Anliegerbeiträgen für die Erneuerung der Beleuchtungseinrichtungen in Aldenhoven, Gemarkung Aldenhoven, Flur 6, „Industriestraße" (Teilstück zwischen Jülicher Straße und Wendehammer Höhe Hausnummer 14) a) Festlegung der Grenze des Abrechnungsgebietes b) Beitragserhebung im Wege der Kostenspaltung - einstimmig, 3 Enthaltungen
+- TOP 12.: Trägerschaft der drei gemeindlichen Kindergärten hier: Übergabe der Trägerschaft an die "Kreismäuse AöR" des Kreises Düren - einstimmig, 0 Enthaltungen
+- TOP 13.: "Tourismusverein indeland" - Satzung und Beitragsordnung - einstimmig, 1 Enthaltungen
+- TOP 14.: Beschluss über die Vergabe eines Straßennamen im Gebiet des Bebauungsplans 75 S - Pützgracht - - 10 Ja-Stimmen, 11 Nein-Stimmen, 1 Enthaltung
+- TOP 15.: Sachstandsberichte der Verwaltung
+- TOP 15.1: Ausführung des Haushalts
+- TOP 16.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 13.12.2018 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Benennung von Aufsichtsratsmitgliedern bei der EWV - einstimmig, 0 Enthaltungen
+- TOP 2.2: Verschmelzung der enwor - wärme vor ort GmbH auf die enwor - energie & wasser vor ort GmbH - einstimmig, 0 Enthaltungen
+- TOP 2.3: Erhöhung der Anteile der enwor an der TEE - Trianel Erneuerbare Energien GmbH & Co. KG durch anteiligen Erwerb der Anteile der BeSte Stadtwerke - einstimmig, 0 Enthaltungen
+- TOP 2.4: Teilveräußerung der mittelbaren Beteiligung der enwor über die WAG an der IWW Rheinisch-Westfälisches Institut für Wasserforschung gGmbH - einstimmig, 0 Enthaltungen
+- TOP 2.5: Mittelbare Beteiligung der enwor an der Windpark Linnich GmbH & Co. KG über die Stawag Solar GmbH - einstimmig, 0 Enthaltungen
+- TOP 2.6: Berichte aus den Gremien
+- TOP 3.: Grundstücksangelegenheiten
+- TOP 3.1: Verkauf von ehem. Wirtschaftswegen - einstimmig, 0 Enthaltungen
+- TOP 4.: Vertragsangelegenheiten
+- TOP 4.1: Erschließungsvertrag zum Bebauungsplan 75 S - Pützgracht - einstimmig, 0 Enthaltungen
+- TOP 5.: Sachstandsberichte der Verwaltung
+- TOP 5.1: Interkommunale Zusammenarbeit
+- TOP 6.: Verschiedenes
