@@ -1,0 +1,68 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (34. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-02-11T17:35:00+01:00
+- Ende: 2019-02-11T20:50:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZc-xWW-pSUz61qvVtWBV0mI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5327
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa8JmRZS76YVw_i1twLGL0gI6a0TnmtRcnXWqrRImV7I/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_11.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW1uD32DrIFD7kMCcmmw4fF14LnHIN2Rvgdc0sU665gr/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_11.02.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Zustand der bezirklichen Fließgewässer (Wasserqualität, Einleitungen, Verrohrungen und Auswirkungen extremer Wetterphänomene)
+- TOP 1.2: Zuwendungsbescheid für die Veloroute Düsseldorf-Hilden-SOLINGEN-Wuppertal – Vorlage Nr. 4730/2018
+- TOP 1.3: Anfrage der FDP-Fraktion bzgl. Werbeschriftzügen aus der Zeit des Wiederaufbaus
+- TOP 1.4: Standorte von Druckern in der Verwaltung
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 26.11.2018
+- TOP 4.: Protokoll über die 32. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 26.11.2018
+- TOP 5.: Besonders schutzwürdige Tiere und Pflanzen im Bergischen Städtedreieck - mündlicher Vortrag -
+- TOP 6.: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 6.1: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 7.: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der SPD-Ratsfraktion vom 13.09.2018
+- TOP 7.1: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der Ratsfraktion DIE LINKE vom 26.09.2018
+- TOP 8.: Insektenschutz - Umweltpädagogische Vermittlung in Solingen Bericht der Verwaltung über eingeleitete Maßnahmen und Umsetzung
+- TOP 9.: Luftqualitätsmessung an der Konrad-Adenauer-Straße im Jahr 2018 Jahresmittelwert für NO2 unter den Grenzwert gesunken
+- TOP 10.: Neufassung der Satzung über die Ablöse von Stellplätzen der Stadt Solingen
+- TOP 11.: City 2013: Mühlenplatz - Umgestaltung der Platzfläche
+- TOP 11.1: City 2013: Mühlenplatz - Umgestaltung der Platzfläche
+- TOP 12.: Innenstadtentwicklung - Integriertes Entwicklungskonzept City 2030 - Sachstandsbericht
+- TOP 13.: Verkehrsmodell im Rahmen des BMVI-Förderprojektes „BOB Solingen“, hier: Einrichtung eines Beirats
+- TOP 14.: Neufassung der Parkgebührenordnung
+- TOP 15.: Parkraumuntersuchung Solingen-Burg
+- TOP 15.1: Parkraumuntersuchung Solingen-Burg
+- TOP 16.: ÖPNV-Konzept Solingen-Burg Zwischenergebnisse zu den Prüfaufträgen
+- TOP 17.: Umsetzung Veloroute Düsseldorf-Hilden-Solingen-Wuppertal hier: Querung Korkenziehertrasse/Nümmener Feld und Dahler Straße
+- TOP 17.1: Umsetzung Veloroute Düsseldorf-Hilden-Solingen-Wuppertal hier: Querung Korkenziehertrasse/Nümmener Feld und Dahler Straße
+- TOP 18.: Umsetzung Veloroute Düsseldorf-Hilden-Solingen-Wuppertal Hier: Querung Korkenziehertrasse/Fuhrstraße
+- TOP 18.1: Umsetzung Veloroute Düsseldorf-Hilden-Solingen-Wuppertal Hier: Querung Korkenziehertrasse/Fuhrstraße
+- TOP 19.: VRR-Kurzstreckenregelung, hier: Antrag des Fahrgastbeirates
+- TOP 20.: Bauleitplanung Kuller Straße/ Elisabethweg Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes S 657 sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf des Bebauungsplans S 657, jeweils für das Gebiet zwischen der Kuller Straße, des Elisabethweges und der Helenenstraße (Beschluss 1) – Stadtbezirk Mitte –
+- TOP 21.: Bauleitplanung nördliche Konrad-Adenauer-Straße Allgemeiner Beschluss zur Aufstellung der 5. Änderung des Bebauungsplanes S 388 sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB), jeweils für das Gebiet östlich der Konrad-Adenauer-Straße, südlich der Kreuzung am Schlagbaum und südwestlich der Korkenziehertrasse (Beschluss 1)– Stadtbezirk Mitte –
+- TOP 22.: Bauleitplanung Scheidter Feld Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Bebauungsplanvorentwurf S 607 für das Gebiet südlich und östlich der Scheidter Straße, westlich der Schlagbaumer Straße und nördlich der Oberen Dammstraße sowie Beschluss einer Veränderungssperre (Nr. 169/ 607) für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Oberen Dammstraße und östlich der Straße Scheidter Feld. – Stadtbezirk Gräfrath –
+- TOP 23.: Masterplan gemischte Stadtquartiere hier: Antrag der CDU-Ratsfraktion vom 15.11.2018
+- TOP 24.: Verschiedenes
+- TOP 24.1: Mitteilungen der Verwaltung
+- TOP 24.1.1: Information über den Ausgang eines verwaltungsgerichtlichen Verfahrens Hier: Inzidente Überprüfung des Bebauungsplans G 590 für das Gebiet östlich der Wuppertaler Straße gegenüber der Einmündung Schulte vom Brühl im Bereich der Korkenziehertrasse in Solingen-Gräfrath
+- TOP 24.1.2: Information über den Ausgang eines verwaltungsgerichtlichen Verfahrens für ein Vorhaben an der Beethovenstraße in Solingen-Mitte Hier: Klage gegen einen Versagungsbescheid auf Grundlage der Veränderungssperre Nr. 164/ 636 vor dem Verwaltungsgericht Düsseldorf
+- TOP 24.1.3: Elektrifizierung der Eisenbahnstrecke Solingen Hbf – Remscheid Hbf – Wuppertal-Oberbarmen
+- TOP 24.1.4: Veranstaltung des Jugendstadtrates „Eure Busse – Eure Bahnen“ vom 25.09.2018
+- TOP 24.1.5: Stellungnahme der kommunalen Spitzenverbände zur Abschaffung der Straßenausbaubeiträge
+- TOP 24.1.6: BAB A 3, 8-streifiger Ausbau zwischen AK Hilden und AS Leverkusen-Opladen Beschlussfassung des ASUKM zur alternativen Nutzung der Standstreifen hier: Gemeinsame regionale Initiative
+- TOP 24.1.7: Regionalplan Düsseldorf (RPD), Vorbereitung der 1. Änderung „Mehr Wohnbauland am Rhein“ durch die Regionalplanungsbehörde
+- TOP 24.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 28.11.2018
+- TOP 4.: Vergabe von Ingenieurleistungen (Tragwerksplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
