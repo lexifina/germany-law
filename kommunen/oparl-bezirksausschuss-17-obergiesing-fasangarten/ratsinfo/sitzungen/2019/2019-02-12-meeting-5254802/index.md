@@ -1,0 +1,152 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5254802
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5254802
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Temporäre "Sommer-Fußgängerzone" am Alpen-Edelweißplatz; Bürgerschreiben vom 25.01.19 als Reaktion auf die Info-Veranstaltung vom 24.01.19
+- TOP 3.9.1.1.: Bantingstr. 1
+- TOP 3.9.1.2.: Fischbachauer Str. 6
+- TOP 4.1.: Vertrauen schaffen durch Transparenz bei der Vergabe von Kinderbetreuungsplätzen ! Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.2.: Installation bereits genehmigter Radlständer; Antrag der SPD-Fraktion
+- TOP 4.3.: Rote Karte für Rennstrecken – Tempo 30 in der Deisenhofener Straße; Antrag der SPD-Fraktion
+- TOP 4.4.: Rote Karte für Rennstrecken – Tempo 30 in der Perlacher Straße; Antrag der SPD-Fraktion
+- TOP 4.5.: Mehr Raum für Menschen – Aufwertung des öffentlichen Raumes am Alpen- und Edelweißplatz; Antrag der SPD-Fraktion
+- TOP 4.6.: Wiedervereinigung von Alpenplatz und Edelweißplatz im Rahmen einer temporären "Sommerstraße" bzw. eines verkehrsberuhigten Bereiches; Antrag der SPD-Fraktion
+- TOP 4.7.: Zebrastreifen von AGFA-Siedlung zum Weißensee-Park; Antrag der SPD-Fraktion
+- TOP 4.8.: Transparenz und klare Kriterien für das Stadtbezirksbudget; Antrag der SPD-Fraktion
+- TOP 4.9.: Werden bestehende Verbote durchgesetzt ? (Lkw-Durchfahrtverbot Mittlerer Ring); Anfrage der Fraktion Bündnis`90/Die Grünen
+- TOP 4.10.: Beteiligung des Bezirksausschusses 17 an der Machbarkeitsstudie für den Ausbau des städtischen Stadions an der Grünwalder Straße; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: 10-Jahresfeier der Hauswirtschafts- und Betreuungsbörse Giesing-Harlaching mit einem Marktplatz der Informationen für Seniorinnen und Senioren - Kurzbericht der AWO -
+- TOP 5.4.2.: Informationsveranstaltung für Seniorinnen und Senioren in Giesing-Harlaching zu Unterstützungsangeboten - Kurzbericht der AWO -
+- TOP 5.4.3.: Zuwendung aus dem Stadtbezirksbudget für: KulturVerstrickungen Antrag vom 22.03.2018 beim BA 17 Kultivierung des Areals am Giesinger Grünspitz - Abrechnung -
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: cuatro-c Tanzstudion, Untere Grasstraße 9; Bürgeranliegen (E-Mail) vom 05.12.18 (vertagt vom 11.12.18)
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Traunsteiner Str. 19, Neubau 2er Anbauten mit Wohnungen für Menschen mit Behinderung und für Mitarbeiter sowie einer Tiefgarage an ein Bestandsgebäude
+- TOP 6.1.3.2.: Alpenstraße 15, Neubau zweier Wohngebäude (VGB + RGB) mit jeweils erdgeschossiger Büronutzung und Tiefgarage - Vorbescheid
+- TOP 6.1.3.3.: Alpenstraße 17, Neubau eines Wohngebäudes (RGB) mit Tiefgarge sowie Sanierung, Umbau und Erweiterung des Vordergebäudes - Vorbescheid
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 14. Stadtbezirk in der Zeit vom 07.01.2019 bis 27.01.2019
+- TOP 6.1.4.2.: Stellungnahme zum Verfahren "Straßenbahn München - Straßenbahnhauptwerkstätte Ständlerstraße; Antrag auf Beseitigung von Teilanlagen und Bodensanierung Tektur" Stellungnahme des Referates für Stadtplanung und Bauorndung
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Beschlussvorlage "Schulbauoffensive 2013-2030"(geplante Behandlung im Stadtrat am 26.03.2019) Stellungnahme der Bezirksausschüsse; Anhörung des Referates für Bildung und Sport vom 25.01.2019
+- TOP 6.2.3.2.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Walchenseeplatz (Westseite), Sommertreff des Mütter für Mütter e.V. mit Spielmobil vom 15.04.-30.09.19; Zuleitung des KVR mit der Bitte um Stellungnahme bis 15.02.19
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Veränderung der Fahrbahnmarkierung in der Tegernseer Str.
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Einrichtung eines Zebrastreifens vom Spielband des ehem. Agfa-Geländes zum Weißenseepark im Bereich des Fahrbahnteilers; Empfehlung Nr. 14-20/E 01599 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 20.07.2018 Beschluss des Bezirksausschusses des 17. Stadtbezirkes Obergiesing-Fasangarten vom 16.01.2018 - Schreiben des Oberbürgermeisters -
+- TOP 6.3.4.2.: Durchsetzung von Tempo 30 in der Herzogstandstraße; Empfehlung Nr. 14-20/E 01608 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 20.07.2017 Beschluss des Bezirksausschusses des 17. Stadtbezirkes Obergiesing-Fasangarten vom 11.09.2018 - Schreiben des Oberbürgermeisters -
+- TOP 6.3.4.3.: Rote Karte für Rennstrecken - Deisenhofener Straße einspurig gestalten
+- TOP 6.3.4.4.: Tieferlegung des Gleisbetts am Giesinger Bahnhof
+- TOP 6.3.4.5.: (U) Geschwindkeitsbeschränkung vor der Balanschule verdeutlichen - Ausfertigung des Beschlusses -
+- TOP 6.3.4.6.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB AG Hier: Eisenbahnüberführungen über die Balanstraße im 5. Stadtbezirk Au - Haidhausen, im 16. Stadtbezirk Ramersdorf - Perlach und im 17. Stadtbezirk Obergiesing - Fasangarten Vorprojektgenehmigung für die Verkehrsanlagen im Zuge des Neubaus der Eisenbahnüberführungen Balanstraße durch die DB AG
+- TOP 6.3.4.7.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 6.3.4.8.: Deisenhofener Straße/Rotwandstraße, Einrichtung eines absoluten Haltverbots; Verkehrsrechtliche Anordnung des KVR
+- TOP 6.3.4.9.: St.-Quirin-Straße 13, Entfernung des Zeitzusatzes an vorhandenem Haltverbot und Einrichtung eines neuen Haltverbotes; Verkehrsrechtliche Anordnung des KVR
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Plastikproblematik - Veranstaltungen an Grundschulen; Antrag des BA 11 - Milbertshofen - Am Hart - vom 12.12.18 mit der Bitte um Unterstützung
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) + (U) Grünflächenanteil und Baumbestand erhalten Empfehlung Nr. 14-20 / E 02098 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 28.06.2018 Grünflächenanteil und Baumbestand erhöhen Empfehlung Nr. 14-20 / E 02179 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 28.06.2018
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Privatpersonen beim Erweb von Pedelecs fördern!
+- TOP 6.4.4.2.: Grünfläche an der Weißenseestraße und am Katzenbuckel 3. Bauabschnitt Ankündigung Baumfällungen durch das Baureferat
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Übersichtslisten zum Stadtbezirksbudget
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: SSW mit regelmäßigen Musikdarbietungen "Solo Italia", Bergstr. 5 Antrag auf unveränderte Fortführung
+- TOP 6.6.4.2.: Schank- und Speisewirtschaft "Kastaniengarten", Martin-Luther-Str. 11 Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Stadtbezirksbudget; Informationsflyer und Änderung der Formulierung zum Stand des Stadtbezirksbudgets auf Sitzungsvorlagen; Schreiben des Direktoriums vom 29.01.19
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
