@@ -1,0 +1,69 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147468
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147468
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 6.2.1.: Verkauf einer städtischen Immobilie
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Protokoll Mieterbeirat
+- TOP 6.3.3.: Unveränderte Fortführung einer Gaststätte in der Gollierstr. 38
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Schulbauoffensive 2013 - 2030
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Termin zum jährlichen Informationsaustausch der BAs mit der Sozialreferentin
+- TOP 7.3.2.: Zusätzliche Fördermittel zur Schaffung von Hortplätzen; BV-Empfehlung Nr. 14-20 / E 02048 vom 19.06.2018
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: Auflösung von KFZ-Stellplätzen in der Schnaderböckstraße; BV-Empfehlung Nr. 14-20 / E 02051
+- TOP 8.1.2.: (E) Begrünte Lärmschutzwand am nördlichen Ende des Trappentreutunnels Empfehlung Nr. 14-20 / E 02040 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.1.3.: (E) Änderung des Bodenbelages für Veranstaltungen auf dem „Schneckenplatz“ Empfehlung Nr. 14-20 / E 02041 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2018
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Antrag für die Aufstellung von Sitzgelegenheiten
+- TOP 8.2.2.: Veranstaltung auf öffentl. Verkehrsgrund - Blade-Night 2019
+- TOP 8.2.3.: Baumfällung Astallerstraße
+- TOP 8.2.4.: Baumfällungen Garmischer Straße / Ridlerstraße
+- TOP 8.2.5.: Nachbarschaftsflohmarkt auf dem Georg-Freundorfer-Platz
+- TOP 8.2.6.: Nachbarschaftsflohmarkt auf dem Gollierplatz
+- TOP 8.2.7.: Blaulichtfestival der Freiwilligen Feuerwehr München am 11.05.2019 auf der Theresienwiese
+- TOP 8.2.8.: Einrichtung eines Verkehrshelferüberganges an der Kreuzung Astallerstr. / Guldeinstr.
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Aufstellung von Dialog-Displays
+- TOP 8.3.2.: Hundeverbotsbeschilderung für die Kazmairwiese
+- TOP 8.3.3.: (E) Fußgängergefährdung Zebrastreifen Trappentreustraße
+- TOP 8.3.4.: Fahrbahnsanierung am Gollierplatz
+- TOP 8.3.5.: MVG-Fahrkartenautomat an der Haltestelle Trappentreustraße
+- TOP 8.3.6.: Aufstellung von Wertstoffcontainern Max-Friedlaender-Bogen
+- TOP 8.3.7.: Baumfällung Bergmannstraße
+- TOP 8.3.8.: Informationsveranstaltung Nahverkehrsplan
+- TOP 8.3.9.: Termine mit städtischen Referatsvertrennerinnen / -vertretern
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Schülerladen Westend e.V. Anschaffung einer Steuerung der Heizkörper mit elektr. Thermostatköpfen und Zeitschaltung 1.864,73 € AZ: 0262.0-8-0171
+- TOP 9.1.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Bergmannstraße 36 Projekt "Startklar - Fit für Bus und Bahn" vom 01.07. - 19.07.2019 2.175,00 € / Az. 0262.0-8-0168
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Informationsveranstaltung zum Stadtbezirksbudget für die BAs 6, 7, 8 und 19 am 20.02.2019
+- TOP 11.1.: Bürgerversammlung Stadtbezirk 8 Schwanthalerhöhe
