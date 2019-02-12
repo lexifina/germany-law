@@ -1,0 +1,7 @@
+# TOP 1.1: Standorte von Druckern in der Verwaltung
+
+- Sitzung: Haupt- und Personalausschuss (32. Sitzung) (2019-02-12)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/47728
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29263
