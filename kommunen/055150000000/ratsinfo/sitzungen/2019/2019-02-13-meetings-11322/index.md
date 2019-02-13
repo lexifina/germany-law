@@ -1,0 +1,52 @@
+# 38. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-02-13T17:04:00+01:00
+- Ende: 2019-02-13T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11322
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11322
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00437481.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Gewährung von Zuschüssen im Rahmen der kommunalen Entwicklungszusammenarbeit (Institutionelle Förderung 2019) - mehrheitlich beschlossen
+- TOP 3: Ergänzung der Leitlinien für die Vergabe der Künstlerateliers im Speicher II - mehrheitlich beschlossen
+- TOP 3.1: Ergänzung der Leitlinien für die Vergabe der Künstlerateliers im Speicher II
+- TOP 4: Weiterentwicklung des sozialen Arbeitsmarktes in der Stadt Münster - mehrheitlich beschlossen
+- TOP 5: Dominikanerkirche - Sanierung, Umbau, Aufstockung und Erweiterung - einstimmig beschlossen
+- TOP 5.1: Dominikanerkirche - Sanierung, Umbau, Aufstockung und Erweiterung
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Grundsatzbeschluss: Erweiterung des Stadthauses 3 - ohne Beschlussfassung geschoben
+- TOP 7: Digitale Stadt Münster - Strategie für weiteren Breitbandausbau im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 8: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Versorgung der Gewerbegebiete, Schulen und Krankenhäuser mit Next Generation Access Breitbandanschlüssen (NGA) - einstimmig beschlossen
+- TOP 9: Städtische Regelungen zur Altersteilzeit der Beamtinnen und Beamten: Bericht zu den Jahren 2016 bis 2018 und Regelung für 2019 und 2020 - einstimmig beschlossen
+- TOP 10: Anmietung von Räumlichkeiten an der Bahnhofstraße, Münster (Stadtbezirk Mitte), für die Unterbringung von städtischen Ämtern - Bedarfsvorlage - zur Kenntnis genommen
+- TOP 11: Änderung der Richtlinien zur finanziellen Förderung kommunaler Entwicklungszusammenarbeit - einstimmig beschlossen
+- TOP 12: KonvOY GmbH: Geschäftsordnungen für den Aufsichtsrat und die Geschäftsführung - einstimmig beschlossen
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2018 - zur Kenntnis genommen
+- TOP 14: Anpassung der Fahrpreise zum 1. August 2019 für das Stadtgebiet Münster innerhalb des Westfalentarifs - ohne Beschlussfassung geschoben
+- TOP 15: Förderung von Lastenfahrrädern - Kaufprämie - ohne Beschlussfassung geschoben
+- TOP 16: Geschwister-Scholl-Gymnasium - Teilnahme am Schulversuch "Abitur an Gymnasien nach 12 oder 13 Jahren" - einstimmig beschlossen
+- TOP 17: Qualitätsstandards der Offenen Ganztagsschulen in Münster - 2019 - ohne Beschlussfassung geschoben
+- TOP 17.1: Qualitätsstandards der Offenen Ganztagsschulen in Münster - 2018
+- TOP 18: Benutzungs- und Gebührensatzung der Städtischen Berufsfachschule für pharmazeutisch-technische Assistenten/innen (PTA-Berufsfachschule) - einstimmig beschlossen
+- TOP 19: Unternehmensgruppe Altenzentrum Klarastift / Ergänzung des Gesellschaftsvertrages der Altenzentrum Klarastift gGmbH – Möglichkeit der Befreiung von § 181 BGB (Insichgeschäft) - einstimmig beschlossen
+- TOP 20: Förderung freier Träger in den Bereichen Gleichstellung, Schule, Soziales und Gesundheit: Dynamisierte Fortschreibung der Personalkostenanteile ab 2019 - ohne Beschlussfassung geschoben
+- TOP 21: Neues Konzept für die Betreuung von Menschen in städtischen Obdachloseneinrichtungen - Festlegung weiterer Standorte (Teil 2) - einstimmig beschlossen
+- TOP 22: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - ohne Beschlussfassung geschoben
+- TOP 22.1: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Mitte
+- TOP 23.1.1: Veränderungssperre Nr. 108 für den Bereich Von-Steuben-Straße / Bahnhofstraße / Hafenstraße - einstimmig beschlossen
+- TOP 23.2: Stadtbezirk West
+- TOP 23.2.1: Bebauungsplan Nr. 323, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 23.3: Stadtbezirk Hiltrup
+- TOP 23.3.1: 86. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 23.3.2: 1. Änderung des Bebauungsplan Nr. 434: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24: Verschiedenes
