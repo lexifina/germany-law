@@ -1,0 +1,66 @@
+# 37. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-02-13T17:47:00+01:00
+- Ende: 2019-02-13T19:32:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11323
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11323
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00437268.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10.1: Anregung zur Änderung der Satzung und Wahlordnung - verwiesen
+- TOP 11: Grundsatzbeschluss: Erweiterung des Stadthauses 3 - von der Tagesordnung abgesetzt
+- TOP 12: Digitale Stadt Münster - Strategie für weiteren Breitbandausbau im Stadtgebiet Münster - einstimmig beschlossen
+- TOP 13: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Versorgung der Gewerbegebiete, Schulen und Krankenhäuser mit Next Generation Access Breitbandanschlüssen (NGA) - einstimmig beschlossen
+- TOP 14: Städtische Regelungen zur Altersteilzeit der Beamtinnen und Beamten: Bericht zu den Jahren 2016 bis 2018 und Regelung für 2019 und 2020 - einstimmig beschlossen
+- TOP 15: Anmietung von Räumlichkeiten an der Bahnhofstraße, Münster (Stadtbezirk Mitte), für die Unterbringung von städtischen Ämtern - Bedarfsvorlage - zur Kenntnis genommen
+- TOP 16: Änderung der Richtlinien zur finanziellen Förderung kommunaler Entwicklungszusammenarbeit - mehrheitlich beschlossen
+- TOP 17: KonvOY GmbH: Geschäftsordnungen für den Aufsichtsrat und die Geschäftsführung - einstimmig beschlossen
+- TOP 18: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2018 - zur Kenntnis genommen
+- TOP 19: Anpassung der Fahrpreise zum 1. August 2019 für das Stadtgebiet Münster innerhalb des Westfalentarifs - mehrheitlich beschlossen
+- TOP 20: Förderung von Lastenfahrrädern - Kaufprämie - mehrheitlich beschlossen
+- TOP 21: Geschwister-Scholl-Gymnasium - Teilnahme am Schulversuch "Abitur an Gymnasien nach 12 oder 13 Jahren" - einstimmig beschlossen
+- TOP 22: Qualitätsstandards der Offenen Ganztagsschulen in Münster - 2019 - einstimmig beschlossen
+- TOP 22.1: Qualitätsstandards der Offenen Ganztagsschulen in Münster - 2018
+- TOP 23: Benutzungs- und Gebührensatzung der Städtischen Berufsfachschule für pharmazeutisch-technische Assistenten/innen (PTA-Berufsfachschule) - einstimmig beschlossen
+- TOP 24: Unternehmensgruppe Altenzentrum Klarastift / Ergänzung des Gesellschaftsvertrages der Altenzentrum Klarastift gGmbH – Möglichkeit der Befreiung von § 181 BGB (Insichgeschäft) - einstimmig beschlossen
+- TOP 25: Förderung freier Träger in den Bereichen Gleichstellung, Schule, Soziales und Gesundheit: Dynamisierte Fortschreibung der Personalkostenanteile ab 2019 - mehrheitlich beschlossen
+- TOP 26: Neues Konzept für die Betreuung von Menschen in städtischen Obdachloseneinrichtungen - Festlegung weiterer Standorte (Teil 2) - mehrheitlich beschlossen
+- TOP 27: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - von der Tagesordnung abgesetzt
+- TOP 27.1: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Münster-Mitte
+- TOP 28.1.1: Veränderungssperre Nr. 108 für den Bereich Von-Steuben-Straße / Bahnhofstraße / Hafenstraße - einstimmig beschlossen
+- TOP 28.2: Stadtbezirk Münster-West
+- TOP 28.2.1: Bebauungsplan Nr. 323, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28.3: Stadtbezirk Münster-Hiltrup
+- TOP 28.3.1: 86. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 28.3.2: 1. Änderung des Bebauungsplan Nr. 434: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 29: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 30.1: Resolution: Keine Abschaffung der Stichwahl für Oberbürgermeisterinnen und Oberbürgermeister - mehrheitlich geändert beschlossen
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 31.1: Nichtöffentlichkeit explizit begründen - verwiesen
+- TOP 31.2: Ausbildung für Jugendliche attraktiv machen – Münster stärkt sein Profil - verwiesen
+- TOP 31.3: Antisemitismus keinen Raum geben - verwiesen
+- TOP 31.4: Kiepenkerl-Ampelmännchen für Münster - verwiesen
+- TOP 31.5: Straßenbau revolutionieren – Einsatz von recyceltem Material prüfen - verwiesen
+- TOP 31.6: Zweckentfremdung von Wohnraum stoppen – Wohnraumschutzsatzung besser machen - verwiesen
+- TOP 31.7: Ein Kinder- und Jugendgesundheitszentrum Kiesekampweg in Coerde entwickeln - verwiesen
+- TOP 31.8: Stickstoffkonzentration korrekt erfassen – Münster misst selber - verwiesen
+- TOP 32: Verschiedenes
