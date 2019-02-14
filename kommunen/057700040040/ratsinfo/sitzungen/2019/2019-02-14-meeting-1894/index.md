@@ -1,0 +1,56 @@
+# Rat (34. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2019-02-14T17:00:00+01:00
+- Ende: 2019-02-14T21:10:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaYlQkoEAisvirZhr0VBeT4
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1894
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaiaDrJBn-Imo64-JEd4_lebD1HgMXAeN2nDiPXVr85e/Bekanntmachung_Rat_14.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVv2QHwOvuuunaFYSpm8uq7iTK1IdwSLXUdAWuedi1kc/Oeffentliche_Niederschrift_Rat_14.02.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 4.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 5.: Kindergartensituation im Jahr 2019/2020 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Befristete Verlängerung der Stelle eines Mitarbeiters/einer Mitarbeiterin für Flüchtlingsbetreuung und -integration - Einstimmig, 0 Enthaltungen
+- TOP 7.: Quartalsbericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im IV. Quartal 2018 - Ohne Abstimmung
+- TOP 8.: Beratung und Beschlusserfassung über den Stellenplan 2019 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Entwurf der Haushaltssatzung 2019 mit Haushaltsplan - 29 Stimmen dafür, 0 dagegen, 4 Enthaltungen
+- TOP 10.: Änderung der Geschäftsordnung des Rates der Stadt Rahden - 31 Stimmen dafür, 1 dagegen, 0 Enthaltungen
+- TOP 11.: Neufassung der Vergabeordnung für die Stadt Rahden - 29 Stimmen dafür, 4 dagegen, 0 Enthaltungen
+- TOP 12.: Ersatzwahlen zu Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 13.: Ersatzwahl zum Ausschuss für Jugend, Schule und Sport - Einstimmig, 0 Enthaltungen
+- TOP 14.: Umbesetzung von Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 15.: Bestimmung eines stellvertretenden Ausschussvorsitzenden für den Rechnungsprüfungsausschuss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Erlass einer Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen gemäß § 6 Abs. 1 des Gesetzes zur Regelung der Ladenöffnungszeiten (Ladenöffnungsgesetz – LÖG NRW) anlässlich der Rahdener Automesse - Einstimmig, 0 Enthaltungen
+- TOP 17.: Erlass einer Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen gemäß § 6 Abs. 1 des Gesetzes zur Regelung der Ladenöffnungszeiten (Ladenöffnungsgesetz – LÖG NRW) anlässlich der Rahdener Sommertage - Einstimmig, 0 Enthaltungen
+- TOP 18.: Umgang mit der Erhebung von Straßenausbaubeiträgen nach § 8 KAG in der Stadt Rahden - 8 Stimmen dafür, 23 dagegen, 2 Enthaltungen
+- TOP 19.: 11. Änderung des Bebauungsplanes Nr. 35 "Gerichtsstraße/Gartenstraße/Lange Straße" Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 20.: 4. Änderung und Erweiterung des Bebauungsplanes Nr. 40 „Ortskern Tonnenheide –Neuaufstellung-“ und 83. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) zur Ausweisung einer Fläche für die Errichtung eines Feuerwehrgerätehauses - Einstimmig, 0 Enthaltungen
+- TOP 21.: Erlass einer Innenbereichssatzung (Einbeziehungssatzung) gem. § 34 Abs. 4 Satz 1 Nr. 3 BauGB für den Bereich "Ortskern Pr. Ströhen -nördliche Ortsrandarrondierung-" - Einstimmig, 0 Enthaltungen
+- TOP 22.: Umsetzung von Maßnahmen aus dem Förderprogramm „Dorferneuerung“ für das Jahr 2019 - 28 Stimmen dafür, 0 dagegen, 3 Enthaltungen
+- TOP 23.: Bekanntgaben und Anfragen
+- TOP 23.1: Europawahl am 26.05.2019
+- TOP 23.2: Jugendfeuerwehr Pr. Ströhen
+- TOP 23.3: Digitalisierung Sitzungsmanagement
+- TOP 23.4: Mitteilungsdienst des Städte- und Gemeindebundes
+- TOP 23.5: Video-Überwachung des Rathauses
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 24.: Bekanntgabe der im IV. Quartal 2018 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 25.: Erwerb einer Fläche im Bereich des Gewerbegebietes Rahden-Süd - Einstimmig, 0 Enthaltungen
+- TOP 26.: Klärschlammentsorgung - 28 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 27.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 28.: Nutzung des städtischen Gebäudes Wellerstraße 13 - Einstimmig, 0 Enthaltungen
+- TOP 29.: Grundstücksangelegenheiten
+- TOP 30.: Bekanntgaben und Anfragen
+- TOP 30.1: Offener Ganztag der Grundschule Rahden
+- TOP 30.2: Bestuhlung der Aula des Gymnasiums Rahden
+- TOP 30.3: Tagesordnungspunkt (betrifft Privatpersonen)
