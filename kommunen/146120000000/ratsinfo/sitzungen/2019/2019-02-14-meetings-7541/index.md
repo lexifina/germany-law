@@ -1,0 +1,85 @@
+# 61. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-02-14T16:00:00+01:00
+- Ende: 2019-02-14T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7541
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7541
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00391764.pdf
+- Ergebnisprotokoll: Anlage Nr. 1 zur Niederschrift_TOP 5 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00402117.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema "Vonovia kontrollieren - Verstöße ahnden - Mieterinnen und Mieter schützen" - erledigt
+- TOP 3: Vonovia kontrollieren - Verstöße ahnden - Mieterinnen und Mieter schützen - Zustimmung mit Änderung
+- TOP 4: Aktuelle Stunde: Bezahlbaren und sicheren Wohnraum schaffen – Wohnungslosigkeit abwenden! - erledigt
+- TOP 5: Bezahlbares Wohnen in der Landeshauptstadt stärken - Zustimmung
+- TOP 6: Wahl des Gemeindewahlausschusses für die Kommunalwahlen am 26. Mai 2019 - gewählt
+- TOP 7: Umbesetzung Aufsichtsräte
+- TOP 7.1: Aufsichtsrat Cultus gGmbH - Benennung
+- TOP 7.2: Umbesetzung Aufsichtsrat Dresdner Bäder GmbH - Benennung
+- TOP 7.3: Umbesetzung Aufsichtsrat Dresdner Verkehrsbetriebe AG - Benennung
+- TOP 7.4: Aufsichtsrat der Kommunalen Immobilien Dresden GmbH & Co. KG - Benennung
+- TOP 7.5: Aufsichtsrat Messe Dresden GmbH - Benennung
+- TOP 7.6: Umbesetzung Aufsichtsrat Zoo Dresden GmbH - Ablehnung
+- TOP 7.7: Umbesetzung für den Aufsichtsrat der STESAD GmbH - Ablehnung
+- TOP 7.8: Umbesetzung Aufsichtsrat STESAD GmbH - Zustimmung
+- TOP 7.9: Umbesetzung des Aufsichtsrats der Dresden Marketing GmbH - Ablehnung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Vertagungen der Stadtratssitzung vom 1. November 2018
+- TOP 9.1: Bebauungsplan Nr. 3006, Dresden-Altstadt II/Strehlen, Lennéplatz - Ersetzung
+- TOP 9.2: Schwerpunktsportarten - Breitensport - Vertagung
+- TOP 10: Breitensport fördern! – Maßnahmepaket zur Unterstützung und Förderung des Vereins- und Breitensports in der Landeshauptstadt Dresden - Vertagung
+- TOP 11: Vertagungen der letzten Stadtratssitzung vom 24. Januar 2019
+- TOP 11.1: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung
+- TOP 11.2: Vorbereitung einer Konzeptausschreibung für das Grundstück der Staatsoperette in Leuben - Ersetzung
+- TOP 11.3: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung
+- TOP 11.4: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung durch Einreicher
+- TOP 11.5: Veranstaltungsnetz Altmarkt – Umgestaltung für eine barrierefreie Leitungsführung und Herstellung einer funktionstüchtigen Platzentwässerung - Zustimmung mit Änderung
+- TOP 11.6: Weiterentwicklung der frühkindlichen und schulischen Bildungsstrategie der Landeshauptstadt Dresden - Zustimmung
+- TOP 11.7: Ergebnisse der Einwohnerversammlung "Schulentwicklung in der nördlichen Johannstadt" vom 25. Juni 2018 - Zustimmung mit Änderung
+- TOP 11.8: Masterplan Fairtrade - Vertagung durch Einreicher
+- TOP 11.9: Bildung für Alle, Gesamtkonzeption für ein lebenslanges Lernen - Zustimmung mit Änderung
+- TOP 11.10: Kommunaler Tierschutzbericht - Vertagung nach 22 Uhr
+- TOP 11.11: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung durch Einreicher
+- TOP 11.12: Beschluss der Förderrichtlinie SchüleRaustausch - Zustimmung mit Änderung
+- TOP 11.13: Ausschreibung von Dienstleistungskonzessionen zur Bewirtschaftung der Dresdner Wochenmärkte für den Konzessionszeitraum 1. Februar 2020 bis 31. Januar 2023 mit einer einseitigen Verlängerungsoption bis 31. Januar 2025 durch die Konzessionsgeberin/Ä - Zustimmung mit Änderung
+- TOP 11.14: Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für Kunst im öffentlichen Raum und die Aufgaben der Kunstkommission (RL KiöR) - Zustimmung mit Ergänzung
+- TOP 11.15: Instandsetzung der unterstromseitigen Gehbahn am Blauen Wunder - Vertagung nach 22 Uhr
+- TOP 11.16: Öffentlicher Dienstleistungsauftrag zwischen der Landeshauptstadt Dresden und der Satra Eberhardt GmbH zur Erbringung von öffentlichen Personenverkehrsdiensten - Zustimmung mit Ergänzung
+- TOP 11.17: Belange älterer Menschen ernst nehmen! Ein Seniorenbeauftragter für Dresden. - Vertagung nach 22 Uhr
+- TOP 11.18: Technische Sammlungen Dresden – Sanierung Innenhof - Zustimmung
+- TOP 11.19: Sparsamer Umgang mit Ressourcen in Bildungseinrichtungen - Vertagung
+- TOP 11.20: Kultur- und Nachbarschaftszentren vor Ort - Vertagung nach 22 Uhr
+- TOP 11.21: Klinikum Dresden – wirtschaftliche Lage - Vertagung nach 22 Uhr
+- TOP 11.22: Straßenbahn und Bus in Dresden ausbauen - Anteil des ÖPNV deutlich erhöhen! - Verweisung
+- TOP 11.23: Ortsamt Loschwitz als Standort erhalten - Vertagung nach 22 Uhr
+- TOP 11.24: Sicherstellung einer artgerechten Tierhaltung im Dresdner Zoo – Neubau des Orang-Utan-Hauses - Vertagung
+- TOP 11.25: Erwerb eines privaten Grundstückes zum Zwecke der Umsetzung des Vorhabens "Neues Verwaltungszentrum am Standort Ferdinandplatz" - Zustimmung
+- TOP 11.26: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung durch Einreicher
+- TOP 12: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2019 - Zustimmung
+- TOP 13: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem Anlass im Jahr 2019 - Zustimmung
+- TOP 14: Neufassung der Satzung der Landeshauptstadt Dresden über die Entschädigung für die ehrenamtliche Tätigkeit bei Wahlen, Volks- und Bürgerentscheiden (Entschädigungssatzung Wahlen, Volks- und Bürgerentscheide) - Zustimmung
+- TOP 15: Dritte Fortschreibung des Nahverkehrsplans für den Verbundraum Oberelbe - Zustimmung
+- TOP 16: Satzung der Landeshauptstadt Dresden über die Sammlung, Ableitung und Behandlung der anfallenden Abwässer (Entwässerungssatzung) - Zustimmung
+- TOP 17: Bürgerbeteiligungssatzung - Vertagung durch Einreicher
+- TOP 18: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung
+- TOP 19: Nachhaltigkeit und Klimaschutz in der Landeshauptstadt stärken - Vertagung
+- TOP 20: Bildung und Kultur in der Landeshauptstadt stärken - Vertagung
+- TOP 21: Kitasanierungsprogramm fortsetzen! Auslagerungsstandorte bauen. - Zustimmung mit Änderung
+- TOP 22: Straßenverkehr für alle Verkehrsteilnehmer/innen in der Landeshauptstadt stärken - Vertagung
+- TOP 23: Geplante Schulbauprojekte realisieren! - Zustimmung
+- TOP 24: Geburtenhilfe – Fortsetzung des kommunalen Programmes - zurückgezogen
+- TOP 25: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung
+- TOP 26: Widerspruch zu Beschluss A0517/18 vom 24.01.2019 nach § 52 Abs. 2 Satz 1SächsGemO
+- TOP 26.1: Straßenrückbau stoppen - Albertstraße bleibt vierspurig - Zustimmung mit Änderung
+- TOP 27: Informationsvorlage
+- TOP 27.1: Beteiligungsbericht 2017 der Landeshauptstadt Dresden - zur Kenntnis genommen
+- TOP 28: Vergabenummer: 2018-6615-00060, Radverkehrsanlagen Albertstraße in 01097 Dresden - Ablehnung
+- TOP 29: Bildung von Wahlkreisen für die Stadtratswahl 2019 – Korrektur zum Beschluss des Stadtrates vom 20.09.2018-21.09.2018 (V2354/18) - Zustimmung
+- TOP 30: Bebauungsplan Nr. 3027, Dresden-Altstadt I Nr. 47, Ferdinandplatz - Zustimmung mit Änderung
