@@ -1,0 +1,6 @@
+# TOP 18: Projektentwicklungsgesellschaft Ulm mbH
+
+- Sitzung: Sitzung des Hauptausschusses (2019-02-14)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/19431
