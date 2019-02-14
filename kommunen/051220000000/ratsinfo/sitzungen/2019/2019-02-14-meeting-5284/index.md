@@ -1,0 +1,71 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-02-14T17:10:00+01:00
+- Ende: 2019-02-14T20:28:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZBs2YIArrsWZQBwQKNSJRQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5284
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQs8D2tChgXYS8D5Oiim5pdxm2gZwNh8ktZ1PkrsAqaL/Bekanntmachung_Rat_14.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcmsuqKPTdVeKncUt16cPff7sU1enXTy-cLxOo4ywdMm/Oeffentliche_Niederschrift_Rat_14.02.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Rates am 06.12.2018
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Umbesetzung im Jugendhilfeausschuss hier: Nachfolgeregelung für ein stimmberechtigtes Mitglied
+- TOP 7.: 40. ordentliche Hauptversammlung des Deutschen Städtetages hier: Benennung stimmberechtigter Abgeordneter
+- TOP 8.: Rheinischer Sparkassen- und Giroverband hier: Wahl der Ersatzvertreterin/ des Ersatzvertreters in der Verbandsversammlung
+- TOP 9.: Stadt-Sparkasse Solingen hier: Wahl eines stellvertretenden Mitglieds der Arbeitnehmervertretung im Verwaltungsrat der Stadt-Sparkasse Solingen
+- TOP 10.: Bürgerstiftung für verfolgte Künste -Else-Lasker-Schüler-Zentrum- Kunstsammlung Gerhard Schneider hier: Entsendung in den Stiftungsvorstand
+- TOP 11.: Stadt-Sparkasse Solingen hier: Wahl der/ des 2. Stellvertretenden Vorsitzenden des Verwaltungsrates
+- TOP 12.: Verkaufsoffene Sonntage 2019
+- TOP 13.: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“
+- TOP 13.1: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“
+- TOP 13.2: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“ hier: Änderungsantrag der CDU-Fraktion vom 12.02.2019
+- TOP 13.3: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“ hier: Änderungsantrag der CDU-Fraktion vom 13.02.2019
+- TOP 13.4: Sicherheit in Solingen – Kommunale Kriminalprävention Sachstandsbericht Beschluss Straßenordnung Beschluss Konzept „Prävention im Kinder- und Jugendalter – Handlungsfeld Kriminalprävention“
+- TOP 14.: Umzug eines Standortes der Erika-Rothstein-Schule
+- TOP 15.: Zukunftskonzept zur Neuausrichtung des Deutschen Klingenmuseums
+- TOP 16.: Beteiligung der Stadt Solingen an einer bergischen Bundesgartenschau hier: Antrag der CDU-Fraktion vom 31.01.2019
+- TOP 16.1: Beteiligung der Stadt Solingen an einer bergischen Bundesgartenschau hier: Neufassung des Antrages der CDU-Fraktion vom 08.02.2019
+- TOP 16.2: Beteiligung der Stadt Solingen an einer bergischen Bundesgartenschau hier: Antrag der FDP-Fraktion vom 08.02.2019
+- TOP 16.3: Beteiligung der Stadt Solingen an einer bergischen Bundesgartenschau hier: Neufassung des Antrages der CDU-Fraktion vom 12.02.2019
+- TOP 16.4: Beteiligung der Stadt Solingen an einer bergischen Bundesgartenschau hier: gemeinsamer Ergänzungsantrag der Ratsfraktionen FDP und Bündnis 90/ Die Grünen – offene Liste vom 14.02.2019
+- TOP 17.: Vertrag zwischen der Verbraucherberatung NRW und der Stadt Solingen über den Betrieb der Verbraucherberatungsstelle Solingen hier: Ergänzungsvertrag/Vertragsverlängerung 2020 bis 2024
+- TOP 18.: Genehmigung einer Dringlichkeitsentscheidung hier: Änderung der Rechtsverordnung über Beförderungsentgelte für die von der Stadt Solingen als Genehmigungsbehörde zugelassenen Taxen (Taxentarif)
+- TOP 19.: Neufassung der Satzung über die Ablöse von Stellplätzen der Stadt Solingen
+- TOP 20.: Neufassung der Parkgebührenordnung
+- TOP 21.: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 21.1: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen
+- TOP 21.2: Vorstellung und Beschluss des Handlungskonzeptes Wohnen für die Stadt Solingen hier: Änderungsantrag der Ratsfraktion DIE LINKE vom 07.02.2019
+- TOP 22.: Wohnungspolitische Entscheidungen auf Landes- und Bundesebene - Stellungnahme des Rates der Stadt Solingen hier: Antrag der Ratsfraktion DIE LINKE vom 31.01.2019
+- TOP 23.: Bauleitplanung Düsseldorfer Straße/ Bahnstraße Allgemeiner Beschluss zur Aufstellung der 1. Änderung des Bebauungsplanes O 203 – Teil E sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf der 1. Änderung des Bebauungsplanes O 203 – Teil E, jeweils für das Gebiet zwischen der Nippesstraße, der Bahnstraße, der Düsseldorfer Straße und der Wittenberger Straße (Beschluss 1) – Stadtbezirk Ohligs/Aufderhöhe/Merscheid –
+- TOP 24.: Bauleitplanung nördliche Konrad-Adenauer-Straße Allgemeiner Beschluss zur Aufstellung der 5. Änderung des Bebauungsplanes S 388 sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB), jeweils für das Gebiet östlich der Konrad-Adenauer-Straße, südlich der Kreuzung am Schlagbaum und südwestlich der Korkenziehertrasse (Beschluss 1)– Stadtbezirk Mitte –
+- TOP 25.: Bauleitplanung Kuller Straße/ Elisabethweg Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes S 657 sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf des Bebauungsplans S 657, jeweils für das Gebiet zwischen der Kuller Straße, des Elisabethweges und der Helenenstraße (Beschluss 1) – Stadtbezirk Mitte –
+- TOP 26.: Bauleitplanung Scheidter Feld Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Bebauungsplanvorentwurf S 607 für das Gebiet südlich und östlich der Scheidter Straße, westlich der Schlagbaumer Straße und nördlich der Oberen Dammstraße sowie Beschluss einer Veränderungssperre (Nr. 169/ 607) für das Gebiet südlich der Scheidter Straße, westlich der Schlagbaumer Straße, nördlich der Oberen Dammstraße und östlich der Straße Scheidter Feld. – Stadtbezirk Gräfrath –
+- TOP 27.: Verschiedenes
+- TOP 27.1: Mitteilungen der Verwaltung
+- TOP 27.1.1: Bergische Symphoniker hier: Info-Brief 2018 - Daten und Fakten zum Geschäftsjahr 2017/2018
+- TOP 27.1.2: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 4. Quartal 2018
+- TOP 27.1.3: Einführung einer Nachhaltigkeitseinschätzung zur Solinger Nachhaltigkeitsstrategie
+- TOP 27.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 32. Sitzung des Rates am 06.12.2018
+- TOP 4.: Vergabe von Ingenieurleistungen (Tragwerksplanung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens
+- TOP 5.: Stadtwerke Solingen GmbH (SW SG) – Änderung des Gesellschaftsvertrages
+- TOP 6.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Änderung Gesellschaftsvertrag
+- TOP 7.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Neue Strukturen und inhaltliche Konzeption
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.2: Anfragen an die Verwaltung
