@@ -1,0 +1,8 @@
+# TOP 8.4: Fahrradparkplätze für E-Bikes einrichten
+
+- Sitzung: 20. teilöffentliche Sitzung des Verkehrsausschusses (2019-02-14)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=40851
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=40851
