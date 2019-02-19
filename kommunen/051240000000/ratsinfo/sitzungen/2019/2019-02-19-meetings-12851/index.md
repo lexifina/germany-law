@@ -1,0 +1,80 @@
+# öffentliche/ nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-02-19T16:05:00+01:00
+- Ende: 2019-02-19T18:33:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12851
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12851
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (11.02.2019) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00232884.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00234585.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2017 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2017 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan GMW 2019 - Entgegennahme ohne Beschluss
+- TOP 2.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 31.12.2018 - Entgegennahme ohne Beschluss
+- TOP 3.2: Geplante Gründung des neuen Tochterunternehmens der WSW Wuppertaler Stadtwerke GmbH - Entgegennahme ohne Beschluss
+- TOP 3.3: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2018/2019 der Wuppertaler Bühnen und Sinfonieorchester GmbH - ungeändert beschlossen
+- TOP 3.4: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Personal- und Organisationsentwicklung Jahresbericht 2018 - Entgegennahme ohne Beschluss
+- TOP 5.2: Umsetzung des Konzeptes für Personal- und Organisationsentwicklung - Entgegennahme ohne Beschluss
+- TOP 5.3: Sachstandsbericht zum Seilbahnprojekt - Entgegennahme ohne Beschluss
+- TOP 5.4: Von der Verwaltung zurückgezogen: Ersatzneubau Altenpflegeheim Obere Lichtenplatzer Straße - zurückgezogen
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Radabstellanlage Döppersberg - ungeändert beschlossen
+- TOP 6.2: Errichtung der Gebäude "Pavillon" und "Café Cosa" im Wupperpark - ungeändert beschlossen
+- TOP 6.3: Standortprüfung für den Betrieb des Café Cosa - ungeändert beschlossen
+- TOP 6.4: Aktualisierung des Einzelhandels- und Zentrenkonzeptes/ Bereitstellung von überplanmäßigen Haushaltsmitteln - ungeändert beschlossen
+- TOP 6.5: Neugestaltung des Werth - Maßnahmenanpassung und Kostensteigerung im ISEK Barmen Innenstadt - ungeändert beschlossen
+- TOP 6.6: Mobilitätsuntersuchung in der Elberfelder Innenstadt auf Grundlage der Ergebnisse der Qualitätsoffensive Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 6.7: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - vertagen
+- TOP 6.8: Betreibermodell öffentliche Toiletten – Vorbereitung der Ausschreibung - vertagen
+- TOP 6.9: Migration in die Quartiere und die Herausforderungen für Wuppertal - vertagt auf Rat
+- TOP 6.10: Station Natur und Umwelt - ungeändert beschlossen
+- TOP 6.11: Wohnerschließung Heinrich-Böll Straße - ungeändert beschlossen
+- TOP 6.12: Modernisierung des Sportplatzes Grundstr. in Wuppertal-Langerfeld - ungeändert beschlossen
+- TOP 6.13: Bayer-Platz - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 6.14: Gustav-Müller-Anlage - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 6.15: Finanzierung der Mehrkosten für das Projekt Von-der-Heydt-Platz - ungeändert beschlossen
+- TOP 6.16: Rahmenkonzept des Bürgerbudgets 2019 - ungeändert beschlossen
+- TOP 6.16.1: Ergänzende Informationen zum Rahmenkonzept des Bürgerbudgets 2019 - ungeändert beschlossen
+- TOP 6.16.2: Rahmenkonzept des Bürgerbudgets 2019 – Ergänzungsantrag - ungeändert beschlossen
+- TOP 6.17: Richtlinien über die Genehmigung von Tagespflege und die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 SGB VIII - ungeändert beschlossen
+- TOP 6.18: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2019 bis 31.12.2019 - ungeändert beschlossen
+- TOP 6.19: Gewährung eines Zuschusses für die Wuppertaler Initiative für Demokratie und Toleranz e. V. zur Umsetzung des Handlungsprogramms gegen Rechts - ungeändert beschlossen
+- TOP 6.20: Gleichstellungsplan der Stadtverwaltung Wuppertal 2018-2021 - ungeändert beschlossen
+- TOP 6.21: Potentiale von Frauen bei der Stadtverwaltung Wuppertal nutzen als Chance im demografischen Wandel: Maßnahmen und Ziele für die Förderung von Frauen in Führungspositionen - ungeändert beschlossen
+- TOP 6.22: Wuppertal soll bald digitale Vorbild-Kommune sein - Entgegennahme ohne Beschluss
+- TOP 6.22.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Wuppertal soll bald digitale Vorbild-Kommune sein" vom 23.01.2019 (VO/ - Entgegennahme ohne Beschluss
+- TOP 6.23: Kein Kind ohne Schulmittagessen - Antrag der Fraktionen vom 27.11.2018 - abgesetzt
+- TOP 6.23.1: Änderungsantrag zu VO/1071/18 Kein Kind ohne Schulmittagessen - abgesetzt
+- TOP 6.24: Demographiecheck abschaffen - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Stand der Schulden und Kassenkredite zum 31.12.2018 - Entgegennahme ohne Beschluss
+- TOP 8.2: Vorläufiger Jahresabschluss der Stadt Wuppertal zum 31.12.2018 (mdl. Bericht)
+- TOP 8.3: Umsetzung des Bundesinvestitionsprogramms (1. Kapitel) - 4. Bericht - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Verwendung der Unterhaltungspauschale nach dem GFG 2019 - ungeändert beschlossen
+- TOP 9.2: Bereitstellung überplanmäßiger Haushaltsmittel / Beauftragung Fachplaner - ungeändert beschlossen
+- TOP 9.3: Finanzierung von Mehrkosten für die Umgestaltung des Carnaper Platzes - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 13: Berichte und Mitteilungen
