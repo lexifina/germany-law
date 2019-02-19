@@ -1,0 +1,147 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2019-02-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5203944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5203944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Fragen an die Polizeiinspektion
+- TOP 2.3: Berichte der Beauftragten
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Benennung einer/eines Integrationsbeauftragten, Nachbesetzung in den Unterausschüssen Umwelt und Bildung/Sport
+- TOP 3.: Unterausschuss für Verkehr
+- TOP 4.: Unterausschuss für Bau und Planung
+- TOP 5.: Unterausschuss für Umweltfragen
+- TOP 6.: Unterausschuss für Soziales und Integration
+- TOP 6.6.1.: Neuauflage des Seniorenstadtteilplans
+- TOP 7.: Unterausschuss für Kultur
+- TOP 7.2.2.: Unterstützung des BA zum Gestaltungskonzept Container auf der Lamentofläche im Kreativquartier
+- TOP 8.: Unterausschuss für Bildung und Sport
+- TOP 8.6.1.: Festlegung von Ort und Datum des BA Kinderfestes 2019
+- TOP 8.6.2.: Planung der Sportvereinskonferenz
+- TOP 9.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 9.6.1.: Ziel der BA-Reise vom 20.-23.06.2019
+- TOP 3.1: Entscheidungsfälle
+- TOP 3.2: Bürgeranliegen, Anträge
+- TOP 3.2.1.: Verkehrssituation Kindertagesstätte St. Theresia
+- TOP 3.2.2.: Änderung der Wegweisung an der Kreuzung Wintrichring / Menzinger Straße
+- TOP 3.2.3.: Einschränkungen auf Gehwegen
+- TOP 3.2.4.: Parkmöglichkeiten in der Winthirstraße
+- TOP 3.2.5.: Neugestaltung südlicher und östlicher Teil der Straßenkreuzung Triva-Straße/Heideckstraße
+- TOP 3.2.6.: Neugestaltung Übergang von Hedwig-Dransfeld-Allee / Helene-Lange-Weg in den Olympiapark
+- TOP 3.2.7.: Fuß-/Radweg über die Wotanstraße zu den Schulen
+- TOP 3.3: Anhörungen
+- TOP 3.3.1.: Parkscheinautomaten-Standorte für die Parklizenzgebiete Rotkreuzplatz Nord & Süd
+- TOP 3.3.2.: Entwurfsplanung zum Umbau der Blutenburgstraße
+- TOP 3.3.3.: Teil- und Grabungssanierung Albrechtstraße: Erinnerungsverfahren
+- TOP 3.3.4.: Antrag auf Genehmigung der Veranstaltungsreihe "Blade Night 2019"
+- TOP 3.3.5.: Ortstermin am 4.2.2019 zur Verbesserung der Schulwegsicherheit zur Montessorischule am Willi-Gebhardt-Ufer
+- TOP 3.4: Antwortschreiben
+- TOP 3.4.1.: Namensvorschläge für das Parklizenzgebiet westlich des Winthirplatzes
+- TOP 3.4.2.: Sicherheit am Fuß-und Radweg entlang des Nymphenburg-Biedersteiner Kanals
+- TOP 3.4.3.: Beleuchtung der Wendl-Dietrich-Straße
+- TOP 3.5: Unterrichtungen, Kenntnisnahmen
+- TOP 3.5.1.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 3.5.2.: Aufstellen von Dialog-Displays im Bereich der Dom-Pedro-Schule
+- TOP 3.5.3.: Sanierung Fuß- und Radweg in der Grünanlage an der Hohenlohestraße 2019
+- TOP 3.5.4.: Unterrichtung über verkehrsrechtliche Anordnungen: - Maréesstraße - Eisnergutbogen - Romanstraße - Reitknechtstraße
+- TOP 3.5.5.: Glasfasererschließung Nymphenburg Nord / Moosach Süd
+- TOP 3.5.6.: Landshuter Allee: Ergänzender Lärmschutz für alle Wohnbereiche an den künftigen Tunnelenden
+- TOP 3.5.7.: (U) Tunnel von der Arnulfstraße bis zum Georg-Brauchle-Ring Empfehlung Nr. 14-20 / E 00795 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 26.11.2015 Landshuter Allee - Oberflächengestaltung nach dem Bau des Tunnels Empfehlung Nr. 14-20 / E 00838 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 27.11.2015
+- TOP 3.5.8.: (U) Weitere U-Bahn-Planung der Landeshauptstadt München a) Sachstand und Prioritäten b) Anträge, Empfehlungen und Petition
+- TOP 3.5.9.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 3.6: Verschiedenes
+- TOP 4.1: Entscheidungsfälle
+- TOP 4.2: Bürgeranliegen, Anträge
+- TOP 4.3: Anhörungen
+- TOP 4.3.1.: Bebauungsplan mit Grünordnung Nr. 2053a - Schwere-Reiter-Straße (nordwestlich) - Emma-Ihrer-Straße (nordöstlich) - Olympiapark (südwestlich)
+- TOP 4.3.2.: Anhörung zu Bauvorhaben: - Walhallastr. 4 - 27051-22 - Gabrielenstr. 6 - 26093-22 - Amigonistr. 1 - Vorbescheid - Stupfstr. 15a - Vorbescheid - Frickastr. 35 - 28093-22 - Arnulfstr. 294 - Vorbescheid - Kratzerstr. 30 - 28878-22 - Ignaz-Perner-Str. 8 - 28881-22 - Menzinger Str. 45 - 22746-22 - Klarastraße 10 - 28405-22 - Romanstraße 24 - 24a - 28867-22
+- TOP 4.3.3.: Marsstraße 76 / Klarastr. 11 - Grundübertragung an städtische Wohnungsbaugesellschaft
+- TOP 4.3.4.: Wendl-Dietrich-Straße 5 - Grundübertragung als Arrondierung
+- TOP 4.3.5.: Anhörung Wettbewerb Arena Olympiapark
+- TOP 4.4: Antwortschreiben
+- TOP 4.4.1.: Maßnahmen gegen Verschmutzung der Baustelle des Strafjustizzentrums
+- TOP 4.5: Unterrichtungen, Kenntnisnahmen
+- TOP 4.5.1.: Paketposthalle - Alternative für den Gasteigumbau Antwort zu Antrag Nr. 14-20 / A 04430
+- TOP 4.5.2.: Unterrichtung über Bauvorhaben
+- TOP 4.5.3.: (U) Zusätzlichen Wohnungsbau verwirklichen Antrag Nr. 14-20 / A 03929 der FDP - HUT Stadtratsfraktion vom 22.03.2018
+- TOP 4.5.4.: (U) In-House-Vergabe (Bauträgerauswahl) eines städtischen Grundstücks füe die Bebauung mit Wohneinheiten nach dem München Modell-Miete Klarastraße 11 Flurstück 327/4, Gemarkung Neuhausen "Marsstraße 76 an Genossenschaften verkaufen" Antrag Nr. 14-20 / A 03979 der Stadtratsfraktion FDP-HUT vom 17.04.2018, eingegangen am 17.04.2018 9. Stadtbezirk Neuhausen-Nymphenburg
+- TOP 4.6: Verschiedenes
+- TOP 5.1: Entscheidungsfälle
+- TOP 5.1.1.: (E) Verbot von privaten Silvesterfeuerwerken
+- TOP 5.1.2.: (E) Maßnahmen gegen das Wegwerfen von Zigarettenkippen - Antrag 5 - Empfehlung Nr. 14-20 / E 02442 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 29.11.2018
+- TOP 5.2: Bürgeranliegen, Anträge
+- TOP 5.2.1.: Maßnahmen gegen das Wegwerfen von Zigarettenkippen und andere Verunreinigungen des öffentlichen Raumes
+- TOP 5.3: Anhörungen
+- TOP 5.3.1.: Verbotsregelungen für den Betrieb von Laubbläsern Verbot des Einsatzes von Laubbläsern im Umfeld von Seniorenheimen, Pflegeheimen und Krankenhäusern im 9. Stadtbezirk - Empfehlung Nr. 14-20 / E 02443 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 29.11.2018 Aufforderung durch die Landeshauptstadt München zur Änderung der Bundesimmissionsschutzverordnung - Empfehlung Nr. 14-20 / E 02444 der Bürgerversammlung des Stadtbezirkes 09 – Neuhausen-Nymphenburg am 29.11.2018 Sitzungsvorlage Nr. 14-20 / V 09707
+- TOP 5.3.2.: Anhörung über Bauvorhaben - Nederlinger Str. 15 - Prinzenstr. 62 - Schluderstr. 4 - Südliche Auffahrtsallee 45 - Frundsbergstr. 14 - Bothmerstr. 16
+- TOP 5.4: Antwortschreiben
+- TOP 5.5: Unterrichtungen, Kenntnisnahmen
+- TOP 5.5.1.: (U) Städtische Sonderprogramme zur Förderung von Innenhof-, Vorgarten-, Dach- und Fassadenbegrünung, Entsiegelung sowie von naturnaher Begrünung von Firmengeländen - Änderung der Förderrichtlinien
+- TOP 5.5.2.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 5.6: Verschiedenes
+- TOP 6.1: Entscheidungsfälle
+- TOP 6.1.1.: (E) Stadtbezirksbudget Seniorentreff Neuhausen e.V. Fasching für Seniorinnen und Senioren am 02.03.2019 1.500,00 €; Az.: 0262.0-9-0321
+- TOP 6.2: Bürgeranliegen, Anträge
+- TOP 6.3: Anhörungen
+- TOP 6.4: Antwortschreiben
+- TOP 6.4.1.: Zerstörung, Ruhestörung und Mängel im Taxispark
+- TOP 6.4.2.: Toilettensituation am Hirschgarten
+- TOP 6.4.3.: Zusätzliche Nutzung der Streugut-Aufbewahrungskästen als Sitzgelegenheit
+- TOP 6.4.4.: Spielen in der Stadt e.V.: Planung der SommerSpielAktion 2019
+- TOP 6.4.5.: Lärmbelästigung am Rotkreuzplatz
+- TOP 6.4.6.: Hilfe bei Obdachlosigkeit - Einrichtungen für Frauen schaffen, die in Neuhausen-Nymphenburg von Obdachlosigkeit bedroht sind
+- TOP 6.5: Unterrichtungen, Kenntnisnahmen
+- TOP 6.5.1.: Mehrjahresinvestitionsprogramm MIP - Entwurf für die Jahre 2018 - 2022 - Unterausschuss Soziales
+- TOP 6.5.2.: Wohnungssuche in München
+- TOP 6.5.3.: (U) Trägerschaftsvergabe für die Trägerschaft von Jugendsozialarbeit (JaS) im Verbund Stadtbezirk 9 (Grundschule an der Helmholtzstraße, Grundschule an der Hirschbergstraße und Grundschule an der Margarethe-Danzi-Straße) und Stadtbezirk 19 (Grundschule Baierbrunner Straße und Grundschule an der Boschetsrieder Straße)
+- TOP 6.6: Verschiedenes
+- TOP 7.1: Entscheidungsfälle
+- TOP 7.1.1.: (E) Stadtbezirksbudget Stadt und Kunst e.V. Theaterstück "Doppelhelix" vom 19.02.-01.04.2019 7.918,00 € Az: 0262.0-9-0319
+- TOP 7.1.2.: (E) Stadtbezirksbudget Tanztendenz München e.V. Standpunkt.e "Welcome to my world" vom 08.02.-17.02.2019 3.000,00 € Az: 0262.0-9-0317
+- TOP 7.1.3.: (E) Stadtbezirksbudget Kollektiv yvjo Das Wissen der Vielen. Ein digitales Archiv für das Kreativquartier München. 6.900,00€; Az.: 0262.0-9-0316
+- TOP 7.1.4.: (E) Stadtbezirksbudget Initiative "Kultüren 10! Kultüren 2019 vom 12.10.-13.10.2019 2.560,00 € Az: 0262.0-9-0320
+- TOP 7.1.5.: (E) Stadtbezirksbudget Faschingsclub München-Neuhausen e.V. Faschingstreiben auf dem Rotkreuzplatz vom 03.03.-05.03.2019 2.020 € Az: 0262.0-9-0323
+- TOP 7.1.6.: (E) Stadtbezirksbudget fructa – Initiative für kreativen Austausch Gruppenausstellung: Body Care - Körperlichkeit in der Kunst vom 15.03.2019-25.04.2019 975,00 € Az: 0262.0-9-0324
+- TOP 7.2: Bürgeranliegen, Anträge
+- TOP 7.2.1.: Straßenerläuterungsschilder - Vorschläge 2019
+- TOP 7.3: Anhörungen
+- TOP 7.4: Antwortschreiben
+- TOP 7.5: Unterrichtungen, Kenntnisnahmen
+- TOP 7.5.1.: Umbenennung Hilblestraße
+- TOP 7.5.2.: Sachstand zur Umbenennung der Hilblestraße
+- TOP 7.6: Verschiedenes
+- TOP 8.1: Entscheidungsfälle
+- TOP 8.1.1.: (E) Stadtbezirksbudget Regsam – Trägerverein für regionale soziale Arbeit e.V. Familienbildungstage am 15.05. und 18.05.2019 4.300,00€; Az.: 0262.0-9-0314
+- TOP 8.1.2.: (E) Stadtbezirksbudget Freunde des Rupprecht-Gymnasiums e.V. Anschaffung von 52 Calliope-Geräten für das Rupprecht-Gymnasium 1.177,98 € Az: 0262.0-9-0311
+- TOP 8.1.3.: (E) Stadtbezirksbudget Freie Turnerschaft München-Gern e.V. Anschaffung eines Defibrillators 2.136,05 €; Az.: 0262.0-9-0322
+- TOP 8.2: Bürgeranliegen, Anträge
+- TOP 8.2.1.: Vergünstigungen und Anreize für Schulweghelfer - Erhöhung der Attraktivität des Schulweghelferdienstes - Erhöhung der Vergütung für den Schulweghelferdienst
+- TOP 8.2.2.: Schulprojekt Adolf-Weber-Gymnasium
+- TOP 8.2.3.: Aktivbänke-Antrag der Seniorenvertretung Neuhausen-Nymphenburg
+- TOP 8.3: Anhörungen
+- TOP 8.3.1.: Schulbauoffensive 2013-2030 - Beschlussentwurf -
+- TOP 8.4: Antwortschreiben
+- TOP 8.5: Unterrichtungen, Kenntnisnahmen
+- TOP 8.5.1.: (U) Mehrjahresinvestitionsprogramm (MIP) 2018 - 2022 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
+- TOP 8.6: Verschiedenes
+- TOP 9.1: Entscheidungsfälle
+- TOP 9.2: Bürgeranliegen, Anträge
+- TOP 9.2.1.: Weihnachtsmarkt Rotkreuzplatz - Ausweichstandort Wochenmarkt
+- TOP 9.3: Anhörungen
+- TOP 9.3.1.: Unicef Theater der 10.000 am 11.05.2019 auf dem Rotkreuzplatz
+- TOP 9.3.2.: Präventionstag der Polizei am 01.06.2019 im Hirschgarten
+- TOP 9.4: Antwortschreiben
+- TOP 9.5: Unterrichtungen, Kenntnisnahmen
+- TOP 9.5.1.: Einwohnerzahlen im 9. Stadtbezirk
+- TOP 9.5.2.: Gaststättenfortführungen: - Hofbräu am Gerner (Hanebergstr. 1) - Maui Hawaiian Kitchen & Bar (Nymphenburger Str. 151) - Trattoria Il Forno (Pfänderstr. 21) - Juli (Schloßschmidstraße 5)
+- TOP 9.6: Verschiedenes
