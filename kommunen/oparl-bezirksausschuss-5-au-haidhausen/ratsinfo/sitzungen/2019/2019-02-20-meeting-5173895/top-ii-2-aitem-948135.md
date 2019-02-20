@@ -1,0 +1,7 @@
+# TOP II.2.: Stadtbezirksbudget Akademisches Sinfonieorchester München e.V. Werkstattkonzert am 24.01.2019 1.500,00 €
+
+- Sitzung: BA 05 - Vollgremium (2019-02-20)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/948135
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/948135
