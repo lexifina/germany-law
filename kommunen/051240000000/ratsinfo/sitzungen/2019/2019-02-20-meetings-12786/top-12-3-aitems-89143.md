@@ -1,0 +1,7 @@
+# TOP 12.3: (nur Rat) Einrichtung einer Ratskommission zur Begleitung und Steuerung des Projektes Pina Bausch Zentrum
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Hauptausschusses (2019-02-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/89143
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/42313
