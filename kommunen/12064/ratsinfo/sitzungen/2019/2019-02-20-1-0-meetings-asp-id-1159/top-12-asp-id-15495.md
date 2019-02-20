@@ -1,0 +1,6 @@
+# TOP 12: Informationen
+
+- Sitzung: 34. Sitzung des Kreistages Märkisch-Oderland (2019-02-20)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=15495
