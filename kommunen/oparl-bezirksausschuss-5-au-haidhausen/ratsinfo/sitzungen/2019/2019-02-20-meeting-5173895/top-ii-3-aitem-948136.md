@@ -1,0 +1,7 @@
+# TOP II.3.: (E) Stadtbezirksbudget Kuratorenteam Milchstraße Haidhausen Block vom 15.06.2019 bis 15.09.2019 3.000,00 €
+
+- Sitzung: BA 05 - Vollgremium (2019-02-20)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/948136
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/948136
