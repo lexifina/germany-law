@@ -1,0 +1,53 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2019-02-20T15:00:00+01:00
+- Ende: 2019-02-20T16:56:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZR6opQa52GaY9sWfSQpI5q0
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/566
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRrvSDCYTqa-zncpgrzAeVypjRC7TV3ULEplXKZZIoqr/Einladung_Seniorenbeirat_20.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYymg9JlrLO9940PvJG0msNgl3sFGbtiMHZcH1lOeX2y/Oeffentliche_Niederschrift_Seniorenbeirat_20.02.2019.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Bestellung einer stellvertretenden Schriftführung für die heutige Sitzung des Seniorenbeirates
+- TOP 2: Vorberatung für Gremien
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Anregungen und Empfehlungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Sozialbericht 2018 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.2: Bochumer Ortsteile kompakt 2018 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.3: Bochum Strategie - Sachstand Kernaktivität Bochumer Ehrenamtsagentur - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.4: Castroper Hellweg -Bauordnung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.5: Ehemaliger Betriebshof Wanner Straße 20 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.6: Vorstellung des Projektes "Vom Urban Green zum Hausacker" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.7: Stolpergefahr durch Wurzeln auf der Massenbergstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.8: Berichte aus den Gremien
+- TOP 9: Anfragen
+- TOP 9.1: BOGESTRA - kleine Schrift der Liniennummern - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.2: Handlauf Musikforum Ruhr - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.3: Erschwerte Bedingungen für Senioren im Stadtteil Hordel - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.4: Zustelldienst Aldi - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.4: Anlage
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 12: keine Tagesordnungspunkte
