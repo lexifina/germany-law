@@ -1,0 +1,54 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-02-21T20:36:00+01:00
+- Ende: 2019-02-21T22:13:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2241
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2241
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: ISEK
+- TOP 2.1: Antrag auf Einberufung des Rates - Kenntnisnahme
+- TOP 2.1.1: Status der ISEK-Maßnahmen (Antrag Nr. 37/19) - Kenntnisnahme
+- TOP 2.2: Status der ISEK-Maßnahmen - Kenntnisnahme
+- TOP 2.3: Veränderungen zum ISEK, Bahnstraße (Antrag Nr. 45/19) - vertagt
+- TOP 2.4: ISEK - Bahnstraße (Antrag Nr. 48/19) - Kenntnisnahme
+- TOP 2.5: Anschreiben der Fraktion zum Thema ISEK und Antwort des Bürgermeisters - Kenntnisnahme
+- TOP 2.6: Fahrradstraße (Antrag Nr. 39/19) - Kenntnisnahme
+- TOP 2.7: Integriertes Stadtentwicklungskonzept (ISEK) - einstimmig
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: CDU
+- TOP 3.1.1: Städtebauliches Konzept (Rahmenplan) An Mevissen (Antrag Nr. 40/19) - einstimmig
+- TOP 3.1.2: Sanierung der Waldwege im Kapellenbruch und Hofbusch (Antrag Nr. 41/19) - einstimmig
+- TOP 3.1.3: Folgenutzung Areal "altes Finanzamt" (Antrag Nr. 42/19) - einstimmig
+- TOP 3.1.4: Aufhebung der Tempo 30-Zonen auf Hauptverkehrsstraßen (Antrag Nr. 43/19) - mehrheitlich bei
+- TOP 3.1.5: Fusion der Kreiskrankenhäuser (Antrag Nr. 44/19) - einstimmig
+- TOP 3.1.6: Verkehrsanbindung Baugebiet An Mevissen (Antrag Nr. 46/19) - einstimmig
+- TOP 3.1.7: Vom Braunkohlerevier zum Revier der Zukunft (Antrag Nr. 47/19) - vertagt
+- TOP 3.2: SPD
+- TOP 3.3: UWG
+- TOP 3.4: FDP
+- TOP 3.5: B 90/DIE GRÜNEN
+- TOP 3.6: Mein Grevenbroich
+- TOP 3.7: Die Linke- Freie Bürger
+- TOP 4: Gemeinschaftsanträge
+- TOP 5: Schriftliche Anfragen
+- TOP 5.1: CDU
+- TOP 5.2: SPD
+- TOP 5.3: UWG
+- TOP 5.4: FDP
+- TOP 5.5: B 90/DIE GRÜNEN
+- TOP 5.6: Mein Grevenbroich
+- TOP 5.7: Die Linke - Freie Bürger
+- TOP 6: mündliche Anträge/Anfragen
+- TOP 6.1: Ortsdurchfahrt Neukirchen, Hülchrather Straße (Anfrage Nr. 49/2019)
+- TOP 6.2: Fördermittel für die neue Ortsmitte in Kapellen, Platz an der Schubertstraße (Antrag Nr. 18/2019)
+- TOP 6.3: Konzept zum Erhalt des historischen Kreuzes an der Morkener Straße im Stadtteil Gindorf (Antrag Nr. 170/2018)
+- TOP 6.4: Parkplätze für Elektrofahrzeuge auf dem Marktplatz in Wevelinghoven (Antrag Nr. 50/2019)
+- TOP 7: Mitteilungen BM
