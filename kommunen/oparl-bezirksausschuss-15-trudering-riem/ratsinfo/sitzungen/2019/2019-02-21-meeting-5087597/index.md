@@ -1,0 +1,155 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2019-02-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5087597
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5087597
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: unveränderte Fortführungen eines Gaststättenbetriebs
+- TOP 10.1.3.: Sachberichte
+- TOP 10.1.5.: Verwendungsnachweise
+- TOP 10.2.1.: verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 4.7 Mobilitätsstationen für MVG eRad/eTrike auch in Trudering-Riem?
+- TOP 1.3.2.: 7.4.14 Tsingtauer Straße 37-39, Fl.Nr.: 523/12 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage (Mittelgarage) - TEKTUR zu 1.2-2018-2389-32
+- TOP 1.3.3.: 8.2.22 Stahlgruberring 10
+- TOP 1.3.4.: 9.2 Bericht des Vorsitzenden des UA Schule, Soziales und Kultur über den Ortstermin zum Durchweg Truderinger BHF – Kreillerstraße am 08.02.2019
+- TOP 1.3.5.: 9.3 Bericht des Vorsitzenden des UA Schule, Soziales und Kultur über die Vorstellung zum Projektstatus "München - gesund vor Ort" im UA am 15.01.2019
+- TOP 1.3.6.: 9.4 Bericht des BA-Vorsitzenden über die Vorstellung des Projekts „Daglfinger und Truderinger Kurve“ für die Bezirksausschüsse durch die DB Netz AG am 31.01.2019
+- TOP 2.1.1.: (E) Stadtbezirksbudget TSV Trudering e.V. Anschaffung eines Anhängers am 19.03.2019 1.125,00 € AZ: 0262.0-15-0285
+- TOP 2.1.2.: (E) Stadtbezirksbudget Truderinger Musikverein e.V. Anschaffung von 2 Tuben 3.547,50 € AZ: 0262.0-15-0284
+- TOP 2.1.3.: (E) Stadtbezirksbudget Bürgerinitative Unnützwiese.de Spielnachmittag am 11.05.2019 966,00 € AZ: 0262.0-15-0286
+- TOP 2.1.4.: (E) Stadtbezirksbudget Initiative Lasten E-Bike Anschaffung Lasten E-Bike 2.474,16 € AZ: 0262.0-15-0287
+- TOP 2.2.1.: (E) Abschaffung der privaten Silvesterfeuerwerke
+- TOP 2.2.2.: (E) Wiederaktivierung des Radweges auf beiden Seiten in der Gartenstadtstraße (Ziffer 1)
+- TOP 2.2.3.: (E) Gehwegverlängerung auf der Ottilienstraße Richtung Ecke Turnerstraße Empfehlung Nr. 14-20 / E 02273 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 08.11.2018
+- TOP 2.2.4.: (E) Anbringung von Geländern auf dem Gehweg der Bahnstraße Empfehlung Nr. 14-20 / E 02263 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 08.11.2018
+- TOP 3.2.1.: Vorschlag zum Stadtbezirksbudget / BSL - Ertüchtigung des Schotterweges zwischen Lehrer-Wirth-Straße und Georg-Kerschensteiner-Straße
+- TOP 3.5.1.: Vorschlag zum Stadtbezirksbudget / BSL - Errichtung eines Calisthenics Parks auf der Unnützwiese
+- TOP 3.6.1.: Sitzgelegenheiten entlang der Wasserburger Landstraße schaffen Wiedervorlage gemäß Beschluss aus der Oktobersitzung 2018
+- TOP 4.1.: Bebauung in der Heltauer Straße - aktueller Stand
+- TOP 4.2.: Verbesserung der Verkehrssicherheit in der Feldbergstraße: Beschilderung an den Ein- u. Ausfahrten der Parkplätze sowie Verhinderung des Parkens auf dem Gehweg
+- TOP 4.3.: WLAN Hotspots am Riemer See in Höhe des Beachvolleyballplatzes im 15. Stadtbezirk
+- TOP 4.4.: Drohnenflüge am Riemer See
+- TOP 4.5.: Schneeräumung an Containerstandorten
+- TOP 4.6.: Nutzungsdaten für E-Ladesäulen im 15. Stadtbezirk offenlegen und Konsequenzen ziehen
+- TOP 5.1.: Grundstück Werner-Eckert-Str. 1- inklusive des Kopfbaus der Tribüne - zur Nutzung für soziale Zwecke überlassen Wiedervorlage gemäß Beschluss aus der Dezembersitzung 2018 Hinweis: aktuelle Fristverlängerung bis zum 30.04.2019
+- TOP 5.2.: Wann geht es mit der Alten Flughafentribüne weiter? Wiedervorlage gemäß Beschluss aus der Dezembersitzung 2018 Hinweis: aktuelle Fristverlängerung bis zum 30.04.2019
+- TOP 5.3.: Kopfbau der Flughafentribüne - aktueller Sachstand zum Nutzungskonzept Wiedervorlage gemäß Beschluss aus der Dezembersitzung 2018 Hinweis: aktuelle Fristverlängerung bis zum 30.04.2019
+- TOP 5.4.: Beantragung einer Dogstation in Waldtrudering
+- TOP 5.5.: Landshamer Straße / Frobenstraße: 1. Störungen durch abgestellte Fahrzeuge 2. Müllproblem nach Veranstaltungen
+- TOP 5.6.: ÖV im Münchner Osten attraktiver machen (1): S4 auch außerhalb der Hauptverkehrszeiten bis mindestens Haar verlängern Schreiben des OB auf die Bitte um Unterstützung des BA gemeinsames Schreiben mit TOP 5.7
+- TOP 5.7.: S4-S6-Fahrplanverwerfungen beseitigen - fußgängerfreundliche MVV-Fahrplanauskünfte zur Regel machen Schreiben des OB auf die Bitte um Unterstützung des BA gemeinsames Schreiben mit TOP 5.6
+- TOP 5.8.: Mehr Radfurten im Mittelstreifen der Wasserburger Landstraße
+- TOP 5.9.: Anschlusszeiten am Bahnhof Trudering anpassen
+- TOP 5.10.: Aufstockung der Sporthalle an der Josef-Hagn-Str. für zusätzliche Räume zur (Nach)Mittagsbetreuung prüfen
+- TOP 5.11.: Ein Trinkwasserbrunnen für den Willy-Brandt-Platz
+- TOP 5.12.: Lösungsmöglichkeiten zur Anfahrt an die Wertstoffinsel an der Iltisstraße erarbeiten
+- TOP 5.13.: Thomas-Hauser-Straße: zu hohe Geschwindigkeit Forderungen im Nachgang zum Ortstermin am 11.07.2018
+- TOP 5.14.: Eine Werkstraße des Quetschwerks Mühlhauser – Option darstellen
+- TOP 5.15.: Stellplatzsatzung richtig anwenden
+- TOP 5.16.: Keine Fakten in Haar-Gronsdorf zu Lasten der Bürger Waldtruderings!
+- TOP 5.17.: Riemer Park: Kontrollen für die Einhaltung der Grünanlagensatzung
+- TOP 5.18.: Elritzenstraße: Poller auf dem Fußweg zur Sicherstellung des absoluten Halteverbotes
+- TOP 5.19.: Eingangsstelen für den Riemer Park
+- TOP 5.20.: Bahnstraße - Einhaltung der Tempo 30 Zone: aktueller Stand Dezember 2018
+- TOP 5.21.: Friedrich-Creuzer-Straße - absolutes Halteverbot an Werktagen zu Berufsverkehrszeiten
+- TOP 5.22.: Statt Etikettenschwindel: Situation für Schwerhörige nachhaltig verbessern – Induktionsanlage für den Kulturzentrumssaal auf den Weg bringen!
+- TOP 5.23.: Eine Bibliothek so bunt wie die Messestadt selbst - Zugang zu mehrsprachiger Literatur als Basis für chancengerechtes Lernen
+- TOP 5.24.: Emplstrasse in Richtung Riemer Park: Regelung der Zufahrtsberechtigung
+- TOP 5.25.: Heinrich-Böll-Straße: fehlender Schatten auf Spielplätzen
+- TOP 6.1.: Ständige Missachtung der Landschaftsschutzverordnung, Hochacker Nr. 14
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Graf-Spee-Platz, Vatertags-Fußballturnier am 30.05.2019 Frist: 28.02.2019
+- TOP 7.1.2.: Truderinger Festwiese, Feldbergstr 95, 12. Truderinger Sonnwendfeuer am 22.06.2019 Frist: 28.02.2019
+- TOP 7.1.3.: Riemer Park, Laufveranstaltung TSV Feldkirchen am 19.05.2019 Frist: 26.02.2019
+- TOP 7.1.4.: Flohmarkt am 30.03.2019 (Ersatztermin: 06.04.2019), Platz der Menschenrechte Frist: 01.03.2019
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: Fahrbahnsanierung An der Point / Riemer Straße
+- TOP 7.2.2.: Radwegsanierung Feldbergstraße zwischen Wasserburger Landstraße und St.-Augustinus-Straße
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Bauleitplanung Gemeinden Aschheim, Feldkirchen und Kirchheim Bebauungsplan Nr. 22, 1. Änderung Gemeinsamer Bebauungsplan für das Erholungsgebiet Heimstettner See Verfahren nach § 4 Abs. 1 BauGB Frist: 26.02.2019
+- TOP 7.3.2.: Bauleitplanung der Gemeinde Aschheim Aufstellung des Bebauungsplans Nr. 159 Verfahren nach § 4 Abs. 1 BauGB Frist: 18.03.2019 s. auch TOP 7.3.3 / 0119
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: In der Heuluss 21, Fl.Nr.: 501/57 - Neubau von Reihenhäusern mit Garagen - VORBESCHEID
+- TOP 7.4.2.: Graf-Lehndorff-Straße 5, Fl.Nr.: 1563/0 - Errichtung eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.3.: Schwedensteinstraße 25b, Fl.Nr.: 597/39 - Neubau eines Mehrfamilienhauses mit Stellplätzen und Parklift
+- TOP 7.4.4.: Windhuker Straße 1, Fl.Nr.: 499/54 - Neubau eines Doppelhauses mit Garagen - VORBESCHEID
+- TOP 7.4.5.: Truderinger Straße 278, Fl.Nr.: 276/0 - Nutzungsänderung: Geschäftsräume einer Wohnboutique zu Wettannahmestelle Bet 3000 mit einer Theke, Serverbereich, ein Kopiergerät und Wettautomaten (EG re.), baulich voneinander getrennt (EG links) ein Sky-Sport-Café mit Bildmonitore, Getränkeautomaten und Espressomaschine und kleine Snacks - VORBESCHEID
+- TOP 7.4.6.: Martin-Kollar-Straße 1, Fl.Nr.: 104/11 - Teil-Nutzungsänderung eines Verwaltungsgebäudes zu Beherbergungsbetrieb mit Café
+- TOP 7.4.7.: Schneebergstraße 28, Fl.Nr.: 794/5 - Neubau eines Mehrfamilienhauses (9 WE) mit Tiefgarage
+- TOP 7.4.8.: Forellenstraße 18, Fl.Nr.: 354/55 - TEKTUR zu 1.2-2018-23132-32 - Abbruch und Neubau eines Doppelhauses
+- TOP 7.4.9.: Wachtelweg 36, Fl.Nr.: 438/2 - TEKTUR zu 1.2-2018-25156-32 - Neubau dreier Mehrfamilienhäuser und eines Einfamilienhauses (19 WE) mit Tiefgarage (Wachtelweg 36 / Jagdhornstraße)
+- TOP 7.4.10.: Kameruner Straße 10-12, Fl.Nr.: 456/27 - Neubau 2er Mehrfamilienhäuser mit Tiefgarage
+- TOP 7.4.11.: Kilihofstraße 4, Fl.Nr.: 188/2 - Neubau eines Einfamilienhauses als Anbau an ein Doppelhaus (EG + ausgebautes DG) - VORBESCHEID
+- TOP 7.4.12.: Habichtstraße 15, Fl.Nr.: 482/28 - Neubau eines Wohnhauses (6 WE) mit Tiefgarage - VORBESCHEID
+- TOP 7.4.13.: Solalindenstraße 110, Fl.Nr.: 403/16 - Abbruch und Neuerrichtung eines Einfamilienhauses mit Garage
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Haffstraße - Abstimmung eines Ortstermins zur Versetzung einer Sitzbank Vertagung aus der Januarsitzung
+- TOP 7.5.2.: Verlängerung der Laufzeiten von Flüchtlingsunterkünften Anhörung des Bezirksausschusses zum Beschlussentwurf Frist: 05.03.2019
+- TOP 7.5.3.: Beschlussvorlage "Schulbauoffensive 2013-2030" (geplante Behandlung im Stadtrat am 26.03.2019) Stellungnahme der Bezirksausschüsse
+- TOP 7.6: UA Umwelt
+- TOP 8.1.1.: Groß-Nabas-Straße 4 Kirchtruderinger Straße (ohne Hausnummer) Sansibarstraße 24 Scharerweg 7 Von-Gravenreuth-Straße 13
+- TOP 8.2.1.: Anechostraße 35a - durch UNB abgelehnt Elfriedenstraße 110 Feldbergstraße 58 Forellenstraße 18 Gerstäckerstraße 57 Haager Straße (ohne Hausnummer) In der Heuluss 21 Kameruner Straße 10 - 12 Kreuzerweg 28 Lohnrößlerweg 21 - durch UNB abgelehnt Mittbacher Straße (ohne Hausnummer) Reiherweg 15a Schwedensteinstraße 25b Solalindenstraße 110 Stieglitzweg 3 Truderinger Straße (ohne Hausnummer) Von-Heydebreck-Straße 12 Wachtelweg 36 Wasserburger Landstraße 133 Willy-Brandt-Allee (ohne Hausnummer) Zehntfeldstraße 272
+- TOP 9.1.: Bericht der Kassiererin
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: (U) Mehrjahresinvestitionsprogramm 2018-2022; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf
+- TOP 10.1.2.1: Surya, Schank- und Speisewirtschaft, Max-Rothschild-Straße 10, 81825 München
+- TOP 10.1.2.2: Imbiss Piya, Trink- und Imbisskiosk mit Bewirtungsfläche im Freien, Truderinger Straße 295, 81825 München
+- TOP 10.1.3.1: Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V., Chor- und Orchesterkonzert, 2.000,00 €
+- TOP 10.1.3.2: Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V., Tag der offenen Tür, 1.123,26€
+- TOP 10.1.3.3: Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V., Anschaffung eines Akku-Hochleistungslüfters, 3.500,00€
+- TOP 10.1.4.: Stadtbezirksbudget; Informationsflyer und Änderung der Formulierung zum Stand des Stadtbezirksbudgets auf Sitzungsvorlagen
+- TOP 10.1.5.1: Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V., Chor- und Orchesterkonzert, 2.000,00 €
+- TOP 10.1.5.2: Kreisjugendring München-Stadt Projekt, "Demokratie im Einsatz - Demokratiemobil" vom 28.09. - 13.10.2018, 2.000,00 €
+- TOP 10.1.5.3: Bürgerzentrum Trudering e.V., Ausstattung des Kulturzentrums Trudering mit neuer Innenbeleuchtung, 31.850,81 €
+- TOP 10.1.5.4: Freunde der Freiwilligen Feuerwehr Michaeliburg von 1920 e.V., Anschaffung eines Akku-Hochleistungslüfters, 3.500,00€
+- TOP 10.1.5.5: Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V., Tag der offenen Tür, 1.123,26€
+- TOP 10.1.5.6: ScienceLab e.V., ScienceLab-Forscherprojekt vom 01.10. - 12.11.2018, 775,00 €
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.1: verkehrsrechtliche Anordnung nach § 45 StVO: Maßnahme der Unfallkommission Joseph-Wild-Straße
+- TOP 10.2.1.2: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines absoluten Haltverbotes Batschkastraße
+- TOP 10.2.2.: Kapazitätserhöhung für Linksabbieger von der Albert-Schweitzer-Straße auf die Heinrich-Wieland-Straße Antrag der CSU-Fraktion im BA 16 vom 04.02.2019
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 10.3.2.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Waldtruderinger Straße 49
+- TOP 10.4.1.2: Stieglitzweg 22
+- TOP 10.4.1.3: Zehntfeldstraße 241
+- TOP 10.4.1.4: In der Rosenau 7
+- TOP 10.4.1.5: Von-Erckert-Straße 39
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: Mehrjahresinvestitionsprogramm des Kulturreferats für die Jahre 2018 – 2022 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 10.6: UA Umwelt
