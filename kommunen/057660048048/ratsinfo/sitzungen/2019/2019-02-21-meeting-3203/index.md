@@ -1,0 +1,54 @@
+# Rat (24. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2019-02-21T18:30:00+01:00
+- Ende: 2019-02-21T20:33:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWs1ZMB3iP1adt0Ww7zEbAQ
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3203
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT7nlW4JD7ZFfs7BSagxwqGP3XIQYpgXjH-zxUdus2dx/Bekanntmachung_Rat_21.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY7AJFXVp0ok1qBri53DDnaoE6p6-aS8MUMVtSn2H-rY/Oeffentliche_Niederschrift_Rat_21.02.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 2.: Anfragen der Ratsmitglieder
+- TOP 3.: Informationen des Bürgermeisters
+- TOP 4.: Berichte der gemeindlichen Vertreter/Vertreterinnen aus den Verbänden und sonstigen Gremien
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion Bündnis 90/Die Grünen hier: Änderung der Geschäftsordnung
+- TOP 5.2: Antrag der SPD-Fraktion auf Ausschussumbesetzung
+- TOP 6.: Erklärung des Bürgermeisters nach § 18 Korruptionsbekämpfungsgesetz
+- TOP 7.: Ortsrecht
+- TOP 7.1: Änderung der Satzung über die Erhebung von Kanalanschlussbeiträgen und Abwassergebühren der Gemeinde Leopoldshöhe vom 15. Dezember 2016 - - einstimmig -
+- TOP 7.2: Ortsrecht hier: 3. Satzung zur Änderung der Satzung der eigenbetriebsähnlichen Einrichtung "Kommunales Gebäudemanagement Leopoldshöhe" der Gemeinde Leopoldshöhe vom 13. September 2007 - - einstimmig -
+- TOP 7.3: Ortsrecht hier: 2. Satzung zur Änderung der Betriebssatzung der Gemeinde Leopoldshöhe für die Verwaltung gemeindlicher Immobilien und Grundstücke vom 16. Dezember 2009 - - einstimmig -
+- TOP 7.4: Ortsrecht hier: 2. Satzung zur Änderung der Betriebssatzung der Gemeinde Leopoldshöhe für den Eigenbetrieb Wasserwerk Leopoldshöhe vom 16. Dezember 2009 - - einstimmig -
+- TOP 7.5: Ortsrecht hier: 3. Satzung zur Änderung der Betriebssatzung der Gemeinde Leopoldshöhe für das Abwasserwerk Leopoldshöhe vom 16. Dezember 2009 - - einstimmig -
+- TOP 8.: Gute Schule 2020 – Verwendungskonzept; hier: Fortschreibung 2019 - - einstimmig -
+- TOP 9.: Sportangelegenheiten hier: Vereinsförderung - - 31 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 10.: 2. Fortschreibung des Brandschutzbedarfsplanes der Gemeinde Leopoldshöhe Ergänzende Stellungnahme mit Empfehlungen der forplan GmbH - - 16 Ja-Stimme(n), 14 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 11.: Haushaltsplanentwurf 2019
+- TOP 11.1: Beratung über etwaige Einwendungen nach § 80 Abs. 3 GO NRW
+- TOP 11.2: Haushaltssatzung 2019 - - einstimmig -
+- TOP -: Haushaltssatzung 2019 - - einstimmig -
+- TOP 12.: Stellenplan 2019
+- TOP -: Stellenplan 2019 hier: Erläuterungen zur Stellenübersicht Gebäudemanagement 2019 - - einstimmig -
+- TOP 13.: Beschlussfassung über die Wirtschaftspläne für das Wirtschaftsjahr 2019
+- TOP 13.1: Feststellung des Wirtschaftsplanes des AWL für das Wirtschaftsjahr 2019
+- TOP -: Feststellung des Wirtschaftsplanes des AWL für das Wirtschaftsjahr 2019 - - einstimmig -
+- TOP 13.2: Feststellung des Wirtschaftsplanes des WWL für das Wirtschaftsjahr 2018 - - einstimmig -
+- TOP -: Feststellung des Wirtschaftsplanes des WWL für das Wirtschaftsjahr 2019
+- TOP 13.3: Feststellung des Wirtschaftsplanes des KGL für das Wirtschaftsjahr 2019 - - einstimmig -
+- TOP -: Feststellung des Wirtschaftsplanes des KGL für das Wirtschaftsjahr 2019
+- TOP -: Feststellung des Wirtschaftsplanes des KGL für das Wirtschaftsjahr 2019
+- TOP 13.4: Feststellung des Wirtschaftsplanes der LIL für das Wirtschaftsjahr 2019 - - 28 Ja-Stimme(n), 4 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP -: Feststellung des Wirtschaftsplanes der LIL für das Wirtschaftsjahr 2019
+- TOP 14.: 7. Änderung des Bebauungsplanes Nr. 08/02 „Im Bruche“ im beschleunigten Verfahren (gem. § 13a BauGB) im Ortsteil Schuckenbaum im Bereich Kolmarer Straße / Eckendorfer Straße - Beratung und Beschluss über die im Verfahren eingegangenen Stellungnahmen aus der Öffentlich-keit sowie von den Behörden und sonstigen Trägern öffentlicher Belange - Satzungsempfehlung an den Rat über den Bebauungsplan - - 26 Ja-Stimme(n), 4 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 15.: 23. Änderung des Bebauungsplanes Nr. 02/02 „Milser Heide“ im Bereich Heeper Straße / Am Pansbach in den Ortsteilen Asemissen / Bechterdissen 1. Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öffentlichkeit / der Offenlage gem. § 3 Abs. 2 BauGB und der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 2. Satzungsempfehlung an den Rat über die 23. Änderung des Bebauungsplans Nr. 02/02 „Milser Heide im Bereich Heeper Straße / Am Pansbach in den Ortsteilen Asemissen / Bechterdissen - - einstimmig -
+- TOP -: 23. Änderung des Bebauungsplanes Nr. 02/02 „Milser Heide“ im Bereich Heeper Straße / Am Pansbach in den Ortsteilen Asemissen / Bechterdissen 1. Beratung und Beschluss über die Stellungnahmen aus der Beteiligung der Öffentlichkeit / der Offenlage gem. § 3 Abs. 2 BauGB und der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 2. Satzungsbeschluss über die 23. Änderung des Bebauungsplans Nr. 02/02 „Milser Heide im Bereich Heeper Straße / Am Pansbach in den Ortsteilen Asemissen / Bechterdissen - - einstimmig -
+- TOP 16.: Kanal-Dichtheitsprüfung hier: Erlass einer Fremdwasser-Satzung im Bereich Nienhagen - - einstimmig -
