@@ -1,0 +1,53 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-02-21T18:10:00+01:00
+- Ende: 2019-02-21T20:22:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2165
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2165
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Präsentation zu Top 5, Digitalisierung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00092807.pdf
+- Ergebnisprotokoll: Präsentation zu Top 5, Digitalisierung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00092807.pdf
+- Wortprotokoll: Präsentation zu Top 5, Digitalisierung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00092807.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Bürgeranträge nach § 24 GO NRW
+- TOP 2.1: Antrag Abschaffung von Straßenbaubeiträgen
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Berichterstattung
+- TOP 4.1: Finanzen
+- TOP 4.2: Feuerschutz
+- TOP 4.3: Soziales
+- TOP 4.3.1: Bericht der Wohnungslosenhilfe (Antrag Nr. 199/18)
+- TOP 4.3.2: Mündlicher Vortrag - vertagt
+- TOP 5: Schwerpunktthema Digitalisierung
+- TOP 5.1: Stand der Digitalisierung in Grevenbroich
+- TOP 6: Vergabekriterien für den Verkauf städtischer Wohnbaugrundstücke - vertagt
+- TOP 7: Beantwortung von Anträgen/Anfragen
+- TOP 7.1: Wald-KiTa - Antrag auf Übernahme Betriebskosten
+- TOP 7.2: Umsetzung der UN Behindertenrechtskonvention (Anfrage Nr. 195/18)
+- TOP 8: Schriftliche Anträge
+- TOP 8.1: CDU
+- TOP 8.2: SPD
+- TOP 8.3: UWG
+- TOP 8.4: FDP
+- TOP 8.5: B 90/Grüne
+- TOP 8.6: Mein Grevenbroich
+- TOP 8.7: Die Linke-Freie Bürger
+- TOP 9: Schriftliche Anfragen
+- TOP 9.1: CDU
+- TOP 9.2: SPD
+- TOP 9.3: UWG
+- TOP 9.4: FDP
+- TOP 9.5: B 90/Grüne
+- TOP 9.6: Mein Grevenbroich
+- TOP 9.7: Die Linke - Freie Bürger
+- TOP 10: Mündliche Anträge/Anfragen
+- TOP 10.1: Schwerpunktthema Digitalisierung
+- TOP 10.2: Bewertung von Entscheidungen
+- TOP 11: Mitteilungen BM
