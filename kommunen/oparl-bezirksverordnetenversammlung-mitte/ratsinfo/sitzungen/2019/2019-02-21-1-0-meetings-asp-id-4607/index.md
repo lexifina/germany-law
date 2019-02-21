@@ -1,0 +1,135 @@
+# 25. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVE-STREAMING)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-02-21T17:30:00+01:00
+- Ende: 2019-02-21T21:05:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4607
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4607
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=430516
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - erledigt
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Welterbegebiete in Mitte - beantwortet
+- TOP 7.2: Schulneubauten gut planen - beantwortet
+- TOP 7.3: Was tut der Bezirk Mitte, damit Gelder für die Sanierung von Kitas und Spielplätzen nicht verschenkt werden? - beantwortet
+- TOP 7.4: Allegro-Grundschule: Aktueller Stand der Raumsituation im Februar 2019 - schriftlich beantwortet
+- TOP 7.5: Monbijou-Theater - schriftlich beantwortet
+- TOP 7.6: Klagst Du schon oder wartest Du noch? Endstation Verwaltungsgericht Berlin! - schriftlich beantwortet
+- TOP 7.7: Fahrradparkhaus Gesundbrunnen - wann kommt es endlich? - schriftlich beantwortet
+- TOP 7.8: Hinterhof am Gebäude der Berlin Cosmopolitan School - schriftlich beantwortet
+- TOP 7.9: Was nicht klappte, klappt jetzt: Unterbringungsanspruch von obdachlosen EU-BürgerInnen über ASOG nun doch möglich in Mitte - schriftlich beantwortet
+- TOP 7.10: Schimmelbefall – Kita „Rosa Marzipan“ vor dem Aus? - schriftlich beantwortet
+- TOP 7.11: Informationen für Mieter*innen in Milieuschutzgebieten - schriftlich beantwortet
+- TOP 7.12: Jugendamt Mitte bald offline? - schriftlich beantwortet
+- TOP 7.13: Bezirksamt Mitte erfolgreich im Hunde- und Katzenfang? - schriftlich beantwortet
+- TOP 7.14: Schimmelakten - wann sind sie wieder alle uneingeschränkt nutzbar? - schriftlich beantwortet
+- TOP 7.15: Sanierungsarbeiten auf der Georgenstraße und Ackerstraße - schriftlich beantwortet
+- TOP 7.16: Wohnberechtigungsscheine für räumungspflichtige WohnungsinhaberInnen - schriftlich beantwortet
+- TOP 7.17: Die Parkzone und der BND – kein Parken in der Habersaathstraße - schriftlich beantwortet
+- TOP 7.18: Parkraumbewirtschaftung BND - schriftlich beantwortet
+- TOP 7.19: Wer zahlt wie viel und wann? - schriftlich beantwortet
+- TOP 7.20: Bezirksamt Mitte erfolgreich im Kampf gegen Schädlinge? - schriftlich beantwortet
+- TOP 7.21: Geldsegen Park am Nordbahnhof - ein Goldesel gefunden? - schriftlich beantwortet
+- TOP 7.22: Wochenmarkt Genter Straße - schriftlich beantwortet
+- TOP 7.23: Badstraße 10 – keine Antwort ist auch eine Antwort! - schriftlich beantwortet
+- TOP 7.24: Kahlschlag am Sportplatz Lüderitzstraße - schriftlich beantwortet
+- TOP 7.25: Galerie Nord nachhaltig unterstützen - mit starken Partnern im Kiez - schriftlich beantwortet
+- TOP 7.26: Baumfällungen in der Klingelhöferstraße - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Wann können Menschen mit Mobilitätseinschränkungen Kammermusiksaal / Philharmonie endlich wieder (leichter) erreichen? - vertagt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Neuordnung des Areals Rathenower Str. 16 - beantwortet
+- TOP 9.2: Mieter*innenvertreibung Lützowstraße 96-98 durch beabsichtigten Wohnhausabriss - beantwortet
+- TOP 9.3: Schulentwicklung in Berlin-Mitte – auf welcher Grundlage erfolgt die Planung? - beantwortet
+- TOP 9.4: Sexarbeit in Mitte - beantwortet
+- TOP 9.5: Parkraumbewirtschaftung nur ein teurer Scherz? Halteverbote beim BND. - beantwortet
+- TOP 9.6: Verdrängung geschützter Tiere in Berlin-Mitte - Wann hört das auf? - beantwortet
+- TOP 9.7: Der Senat sponsort "Parkmanager" - Was plant und tut der Bezirk diesbezüglich? - schriftlich beantwortet
+- TOP 9.8: Sind Unterhaltsvorschussleistungen und dessen Rückforderungen eine Belastung für kommunale Abläufe?? - schriftlich beantwortet
+- TOP 9.9: Mieter*innenvertreibung Habersaathstraße 40-48: Wohnungsleerstand & offene Fenster - schriftlich beantwortet
+- TOP 9.10: Schimmel und kein Ende - schriftlich beantwortet
+- TOP 9.11: Einrichtung von Parkraumbewirtschaftungszonen in der Lehrter Straße, Invalidenstraße und Umgebung - schriftlich beantwortet
+- TOP 9.12: Warum kostet die Verwaltung in Mitte mehr als anderswo? - schriftlich beantwortet
+- TOP 9.13: Gehwegesanierung in Mitte auf gutem Wege? - schriftlich beantwortet
+- TOP 9.14: Genehmigung von Bordellen - aktueller Stand - schriftlich beantwortet
+- TOP 9.15: Umbau der Straße Alt- Moabit - Wird eine sichere Querung zwischen Kleinem Tiergarten und Spree-Bogen für Fußgänger*innen möglich? - schriftlich beantwortet
+- TOP 9.16: Können kulturelle Angebote für Obdachlose einen Anreiz schaffen? - schriftlich beantwortet
+- TOP 9.17: Feldzug in Berlin-Mitte gegen illegalen Müll - ausgerüstet mit „Einweg-Coffee-to-go-Bechern“ - schriftlich beantwortet
+- TOP 9.18: Bürgerbeteiligung bei Plansche - schriftlich beantwortet
+- TOP 9.19: Parkmanager – wohin mit ihnen? - schriftlich beantwortet
+- TOP 9.20: Kleinteilige Entwicklungen in Mitte! - schriftlich beantwortet
+- TOP 9.21: Grün- oder Grauflächenamt? - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Entwurf der Anmeldungen für die Investitionsplanung 2019 bis 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: über die Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch (BauGB) für das Gebiet „Alexanderplatzviertel“ im Bezirk Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Wahl eines Mitgliedes in den BVV-Vorstand - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mobile und flexible Kinderbetreuung in der BVV-Mitte? - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Ordnungsamt entlasten - Doppelstrategie mit privaten Diensten prüfen - in der BVV abgelehnt
+- TOP 14.3: Dezentrale Standorte für das Ordnungsamt - überwiesen
+- TOP 14.4: Mieter*innen bei An- und Ummeldung im Bezirk über Mietpreisbremse informieren - überwiesen
+- TOP 14.5: Fischerinsel mit vielen Beteiligten weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Aktionstag gegen Kippen! - in der BVV abgelehnt
+- TOP 14.7: Bodycams für den Außendienst des Ordnungsamtes – reloaded - in der BVV abgelehnt
+- TOP 14.8: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - überwiesen
+- TOP 14.9: Rathenower Straße zum Fritz Schloss Park öffnen - das Areal ganzheitlich beplanen - überwiesen
+- TOP 14.10: Dezentrale Regenwasserbewirtschaftung - überwiesen
+- TOP 14.11: Mitte braucht eine/n Klimaschutzbeauftragte/n! - überwiesen
+- TOP 14.12: Infrastrukturkonzept für die Mobilitätsbildung und Verkehrserziehung in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Das Stadion Rehberge finden! - überwiesen
+- TOP 14.14: Georgenstraße - eine glatte fahrradtaugliche Straßendecke statt Kopfsteinpflaster führt zu höherer Sicherheit - überwiesen
+- TOP 14.15: Auf die Problemlagen von Obdachlosen bei der Einrichtung von Kältehilfestandorten eingehen und hierdurch ihre Annahme fördern - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Wahl von Bürgerdeputierten und Stellvertreter*innen - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Schulisches Mobilitätsmanagement in Mitte fördern und unterstützen – Landesprogramm initiieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Schließzeiten im Jugendamt Mitte verkürzen, kundenorientiert handeln - überwiesen
+- TOP 14.19: Park am Nordbahnhof mit vielen Beteiligten weiterentwickeln - überwiesen
+- TOP 14.20: Spielplatzsanierung fortführen – Landesmittel nutzen - mit Änderungen in der BVV beschlossen
+- TOP 14.21: Beschlüsse der BVV umgesetzt - überwiesen
+- TOP 14.22: Wahl eines Bürgerdeputierten für den Hauptausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 15.1: Engagement im und für den Bezirk muss unterstützt und geschützt werden! - vertagt
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: Wir brauchen eine neue Standortdebatte für das Freiheits- und Einheitsdenkmal - in der BVV abgelehnt
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Mobilitätsgesetz in Mitte - mit Änderungen in der BVV beschlossen
+- TOP 17.2: Keine Diesel-Fahrverbote in Berlin – Interessen von Bürgern und Mittelstand wahren - in der BVV abgelehnt
+- TOP 17.3: Umsetzung des „Positionspapier der Spielplatzkommission im Bezirk Mitte zur Entwicklung von Spiel- und Bewegungsflächen“ - mit Änderungen in der BVV beschlossen
+- TOP 17.4: Gleimtunnel unverzüglich freigeben - in der BVV abgelehnt
+- TOP 17.5: Trümmersäule beleuchten - ohne Änderungen in der BVV beschlossen
+- TOP 17.6: Taxistand am Alexa - ohne Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Prüfung von bezirklichen Handlungsmöglichkeiten für den „Milan Urban Food Policy Pact - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.2: Barrierefreien Poststandort in Moabit West erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Bestandsaufnahme der Akteur*innen und Projekte der entwicklungspolitischen Zusammenarbeit im Bezirk Mitte (Drs. 0074/V) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Angebote für wohnungslose junge Menschen sichern - Klik e.V. im Bezirk halten und auf eine tragfähige wirtschaftliche Grundlage stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Unterstützungsangebote für geflüchtete Familien in Mitte verstetigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: POLITISCHE SCHWERPUNKTE DER HAUSHALTSPLANAUFSTELLUNG 2018/2019 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Geschützte Räume für homo- und transsexuelle Obdachlose in der Kältehilfe schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: EU-Netzwerk in Mittes Schulen. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.9: Verdrängung durch Umwandlung und /oder Verkauf – Ständiger Bericht über Abgeschlossenheitsbescheinigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Personalbestand bei Evas Haltestelle den größeren Räumlichkeiten anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Preisgerichtssitzung für BSO-Schulneubauten in Mitte unter Einbeziehung der Standortbetroffenen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Diesterweg – alles auf Anfang? - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.13: Ausstellung einer Abgeschlossenheitsbescheinigung nach dem Wohnungseigentumsgesetz in Erhaltungssatzungsgebieten nach § 172 Abs. 1 S. 1 Nr. 2 BauGB (Milieuschutz) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.14: Aufhebung von Einbahnstraßen im Wöhlertkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 18.15: Vergabe rechtssicher gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Verwendung des Bonus für die erfolgreiche Transfersteuerung aus der „Zielvereinba rung über Transfersteuerung, Qualitätsmanagement und Fach- und Finanzmonitoring im Bereich der Eingliederungshilfe für Menschen mit Behinderung und der ambulanten Hilfe zur Pflege“ im Jahr 2017 in Höhe von 100.000 € zur bedarfsgerechten Finanzierung von Personal im Jahr 2019 für die 5 durch Träger geführten Seniorenbegegnungsstätten im Fachvermögen des Bezirksamtes Mitte. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.17: Rahmenvertrag mit der HOWOGE Wohnungsbaugesellschaft mbH über deren Ein-bindung in die Berliner Schulbauoffensive - mit Abschlussbericht zur Kenntnis genommen
