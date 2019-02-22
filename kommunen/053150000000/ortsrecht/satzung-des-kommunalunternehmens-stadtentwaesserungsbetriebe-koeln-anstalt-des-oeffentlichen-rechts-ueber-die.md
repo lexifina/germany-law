@@ -1,565 +1,569 @@
-# Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Erhebung von Gebühren für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Sch
+# Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Entwässerung der Grundstücke, die Abwasserbeseitigung und den Anschluss an die öffentliche Abwasseranlage - Abwassersatzung
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2018-11-29 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abwassergebuehrensatzung_2018_11_29.pdf
+- Datum: 2019-02-22 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abwassersatzung__22.02.2019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Erhebung von Gebühren für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Schmutz-
-wassergruben
-- Abwassergebührensatzung (AbwGebS) -
-vom 29. November 2018
-- ABl StK 2018, S. 585
-Der Verwaltungsrat des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts (AöR) hat in seiner Sitzung am 10.10.2018 aufgrund der §§ 2, 4, 5, 6, 7, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG NRW) vom 21. Oktober 1969 (GV NRW S. 712), der §§ 7, 77 und 114a der Gemeindeordnung für das Land Nordrhein-Westfalen vom 14. Juli 1994 (GV NRW S. 666) und des § 54 des Wassergesetzes für das Land Nordrhein-Westfalen (LWG) in der Fassung der Bekanntmachung vom 8. Juli 2016 (GV NRW S. 539) in Verbindung mit der Satzung für das Kommunalunternehmen Stadtentwässerungsbetriebe Köln, AöR der Stadt Köln vom 5. November 2009 (Abl. Stadt Köln 2009, S.1174 ff.) und der Abwassersatzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, AöR vom 3. Dezember 2010 (Abl. Stadt Köln 2010, S. 1226 ff.) und der Schmutzwassergrubensatzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, AöR vom 25. September 2001 (Abl. Stadt Köln 2001, S. 465) – jeweils in der geltenden Fassung – diese Satzung beschlossen.
-Erster Abschnitt
-Anwendungsbereich
-§ 1 Gegenstand
-(1) Das Kommunalunternehmen Stadtentwässerungsbetriebe Köln, AöR - im folgenden - StEB - erhebt Gebühren und Auslagen im Sinne der §§ 5, 6 und 7 KAG NRW:
-a) für die Inanspruchnahme der öffentlichen Abwasseranlage,
-b) für die Entsorgung der Schmutzwassergruben nach der Schmutzwassergrubensatzung,
-c) für Abwasseruntersuchungen,
-d) für sonstige Leistungen,
-e) für die Ausstellung von Kanalanschlussscheinen.
-(2) Die grundstücksbezogenen Benutzungsgebühren ruhen gemäß § 6 Absatz 5 KAG NRW als öffentliche Last auf dem Grundstück.
-/2
+Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Entwässerung der Grundstücke, die Abwasserbeseitigung und den Anschluss an die öffentliche Abwasseranlage
+- Abwassersatzung - vom 03. Dezember 2010 in der Fassung der 2. Satzung zur Änderung der Satzung des Kommunalunternehmens
+Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Entwässerung der Grundstücke, die Abwasserbeseitigung und den Anschluss an die
+öffentliche Abwasseranlage vom 22. Februar 2019
+Der Verwaltungsrat des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts hat in seinen Sitzungen am 06.10.2010 und 01.12.2010 aufgrund der §§ 7, 8, 9, 77 und 114a der Gemeindeordnung für das Land NordrheinWestfalen (GO) in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV NRW S. 666 / SGV NRW 2023) und der §§ 2, 4, 5, 6, 7, 10, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (GV NRW S. 712/SGV NRW 610) und der §§ 51 ff., 65, 117 und 161a des Wassergesetzes für das Land Nordrhein-Westfalen (LWG) in der Neufassung der Bekanntmachung vom 25. Juni 1995 (GV NRW S. 926 / SGV NRW 77) in Verbindung mit der Satzung für das Kommunalunternehmen „Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts“ der Stadt Köln vom 05. November 2009 (Abl. Stadt Köln 2009, S. 1174 ff.) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
+Inhaltsverzeichnis
+§ 1 Allgemeines
+§ 2 Begriffsbestimmungen
+§ 3 Anschluss- und Benutzungsrecht
+§ 4 Begrenzung des Anschlussrechtes
+§ 5 Begrenzung des Benutzungsrechtes
+§ 6 Anschlusszwang
+§ 7 Benutzungszwang
+§ 8 Befreiung vom Anschluss- und Benutzungszwang
+1
 
-(3) Die Gebühren ergeben sich aus den nachfolgenden Bestimmungen und dem dieser Satzung als Bestandteil beigefügten Gebührentarif.
-Zweiter Abschnitt Gebühren für die Inanspruchnahme der öffentlichen Abwasseranlage
-§ 2 Bemessungsgrundlage (1) Die Gebühren bemessen sich unter Berücksichtigung der nachfolgenden Bestim-
-mungen: a) bei Schmutzwasser nach der von dem Grundstück in die öffentliche Abwas-
-seranlage unmittelbar oder mittelbar eingeleiteten Schmutzwassermenge, b) bei Niederschlagswasser nach der bebauten bzw. überbauten und / oder be-
-festigten Grundstücksfläche, von der Niederschlagswasser leitungsgebunden oder nicht leitungsgebunden in die öffentliche Abwasseranlage gelangen kann, nachfolgend angeschlossene Grundstücksfläche genannt. Eine nicht leitungsgebundene Zuleitung liegt vor, wenn von den bebauten und / oder befestigten Grundstücksflächen oberirdisch aufgrund des Gefälles Niederschlagswasser in die öffentliche Abwasseranlage gelangen kann, c) bei von Transportfahrzeugen angeliefertem Schmutzwasser und Schlamm aus Sickerschächten, Schlammfängen, gewerblichen Sammelbehältern und Chemietoiletten, nach der in die öffentliche Abwasseranlage eingeleiteten Menge, d) bei sonstigen Einleitungen nach der in die öffentliche Abwasseranlage unmittelbar oder mittelbar eingeleiteten Menge.
-(2) Als Schmutzwassermenge im Sinne von Absatz 1 Buchstabe a) gilt unbeschadet der in Absatz 4 getroffenen Ausnahmeregelung:
-a) die von den Wasserversorgungsunternehmen gelieferte und in Rechnung gestellte Wassermenge,
-b) in den Fällen des § 4 Absatz 7 Buchstabe c) die eingeleitete Menge sowie bei Einleitung durch Transportfahrzeuge in ein Klärwerk die angelieferte Menge,
-c) die durch eine Gewässerbenutzung im Sinne von § 9 WHG dem Grundstück zugeführte Wassermenge,
-d) die dem Grundstück sonst zugeführte Wassermenge,
-e) die Brauchwassermenge aus Regenwassernutzungsanlagen.
-(3) Als eingeleitete Menge im Sinne von Absatz 1 Buchstabe c) gilt die an den Abwassereinleitungsstellen der Klärwerke gemessene Menge.
-(4) Von der Wassermenge nach Absatz 2 Buchstaben a), c) und d) wird auf Antrag des Gebührenschuldners die Wassermenge abgesetzt, die nachweislich nicht in
-/3
+§ 9 Grundstücksentwässerungsanlagen § 10 Druckentwässerungssysteme § 11 Außerbetriebnahme von Abwasserbeseitigungsanlagen § 12 entfällt § 13 Art, Größe und Zahl der Anschlussleitungen § 14 Lage, Ausführung, Unterhaltung und Beseitigung der Anschlussleitungen § 15 Aufwand und Kosten für die Anschlussleitungen und Grundleitungen § 16 Betriebsstörungen und Haftung § 17 Auskunftspflicht, Abwasseruntersuchungen und Zutritt zu den
+Grundstücksentwässerungsanlagen § 18 Anzeigepflichten § 19 Ausnahmen, zusätzliche Anordnungen, Nebenbestimmungen und Erklärungen § 20 Ordnungswidrigkeiten § 21 Gebühren § 22 Gesamtschuldnerschaft § 23 entfällt § 24 Übergangsregelung § 25 Inkrafttreten
+§1
+Allgemeines
+(1) Die Abwasserbeseitigungspflicht des Kommunalunternehmens umfasst unter anderem das Sammeln, Fort- leiten, Behandeln, Einleiten und Versickern des auf dem Gebiet der Stadt Köln anfallenden Abwassers sowie das Entwässern und Entsorgen des Klärschlamms, soweit es abwasserbeseitigungspflichtig ist (§ 46 LWG NRW).
+(2) Zum Zwecke der Abwasserbeseitigung und zum Zwecke der Verwertung und Beseitigung der bei der Abwasserbeseitigung anfallenden Rückstände stellt das Kommunalunternehmen die erforderlichen dezentralen und zentralen 2
 
-die öffentliche Abwasseranlage eingeleitet wurde. Der Nachweis ist durch festinstallierte geeichte Wasserzähler, ausnahmsweise durch andere nachprüfbare Unterlagen, zu führen. Die StEB können hinsichtlich der Art und Umfang des Nachweises zusätzliche Anforderungen stellen. Zeigen Wasserzähler nicht oder offenbar nicht richtig an, wird die abzugsfähige Wassermenge geschätzt. Solange und soweit noch keine Wasserzähler eingebaut sind, entscheiden die StEB nach pflichtgemäßem Ermessen, ob und in welcher Höhe ein Abzug aufgrund eines anderen prüffähigen Nachweises vor Einbau eines Wasserzählers gewährt wird. Der Antrag ist innerhalb eines Monats nach Zugang des Veranlagungsbescheides bei den StEB schriftlich zu stellen. (5) Der Gebührenschuldner hat bei den StEB die in Absatz 2 Buchstaben c) und d) genannte Wassermenge jeweils bis zum 31. März für das abgelaufene Kalenderjahr anzugeben. Für Wassermengen gemäß Absatz 2 Buchstabe e) gilt diese Regelung nur, soweit ausnahmsweise keine pauschale Veranlagung erfolgt. Diese Menge ist durch festinstallierte geeichte Wasserzähler, ausnahmsweise durch andere nachprüfbare Unterlagen nachzuweisen. Die StEB können hinsichtlich der Art des Umfanges des Nachweises zusätzliche Anforderungen stellen. Ferner hat der Gebührenschuldner bei den StEB jeden Neuzugang bzw. jede Änderung der Größe der angeschlossenen Grundstücksfläche unverzüglich mitzuteilen. Im Falle des Absatzes 2 Buchstabe d) gilt als Einleitungsmenge die bei der Einleitung tatsächlich gemessene Menge. Kann diese nicht gemessen werden, hat der Gebührenschuldner sie durch nachprüfbare Unterlagen nachzuweisen. (6) Soweit die Angaben nach Absatz 1 Buchstabe d) und Absatz 5 nicht, nicht rechtzeitig oder nicht zutreffend gemacht werden, erfolgt eine Schätzung.
-/4
+Anlagen als öffentliche Einrichtung zur Verfügung. Die öffentlichen dezentralen und zentralen Abwasseranlagen bilden eine rechtliche und wirtschaftliche Einheit. (3) Für das Einsammeln und Abfahren des in Schmutzwassergruben anfallenden Schmutzwassers und Schlamms sowie dessen Aufbereitung für eine ordnungsgemäße Verwertung oder Beseitigung, gilt die gesonderte Satzung des Kommunalunternehmens über die Entsorgung von Schmutzwassergruben. (4) Lage, Art und Umfang der öffentlichen Abwasseranlage sowie den Zeitpunkt ihrer Herstellung, Erweiterung, Veränderung, Sanierung oder Beseitigung bestimmt das Kommunalunternehmen im Rahmen der ihr obliegenden Abwasserbeseitigungspflicht.
+§2
+Begriffsbestimmungen
+Im Sinne dieser Satzung bedeuten:
+1. Abwasser: Abwasser ist Schmutzwasser und Niederschlagswasser.
+2. Schmutzwasser: Schmutzwasser ist das durch häuslichen, gewerblichen, landwirtschaftlichen oder sonstigen Gebrauch in seinen Eigenschaften veränderte Wasser, sowie das bei Trockenwetter damit zusammen abfließende Wasser, ausgenommen Niederschlagswasser. Als Schmutzwasser gelten auch die aus Anlagen zum Behandeln, Lagern und Ablagern von Abfällen austretenden und gesammelten Flüssigkeiten.
+3. Niederschlagswasser: Niederschlagswasser ist das von Niederschlägen aus dem Bereich von bebauten oder befestigten Flächen abfließende und gesammelte Wasser.
+4. Abwasserbeseitigung: Die Abwasserbeseitigung umfasst das Sammeln, Fortleiten, Abfahren, Behandeln, Einleiten, Nutzen, Versickern oder Verrieseln von Abwasser sowie die Verwertung oder Beseitigung der bei der Abwasserbehandlung anfallenden Stoffe.
+3
 
-§ 3 Berechnung
-(1) Die Berechnungseinheiten für die Gebühren sind:
-a) für Schmutzwasser nach § 2 Absatz 1 Buchstabe a) ein Kubikmeter (m³) der gebührenpflichtigen Schmutzwassermenge,
-b) für Niederschlagswasser nach § 2 Absatz 1 Buchstabe b) ein Quadratmeter (m²) der angeschlossenen Grundstücksfläche,
-c) für Stoffe nach § 2 Absatz 1 Buchstabe c) ein Kubikmeter (m³) der eingeleiteten Menge.
-(2) Veranlagungszeitraum ist:
-a) im Falle von § 2 Absatz 1 Buchstaben a) und b) mit Ausnahme von § 2 Absatz 2 Buchstabe b) das Kalenderjahr. Tritt im Laufe des Kalenderjahres eine Gebührenänderung ein, gilt für die Änderung als Veranlagungszeitraum die Zeit vom Inkrafttreten der neuen Gebührensätze bis zum Ende des Kalenderjahres,
-b) im Falle von § 2 Absatz 1 Buchstabe c) der Kalendermonat,
-c) im Falle von § 2 Absatz 2 Buchstabe b) das Kalendervierteljahr.
-(3) Für die Berechnung der Gebühren gilt Folgendes:
-a) Als Schmutzwassermenge gilt bei unbefristeten Einleitungen die Wassermenge, die unter Berücksichtigung der in § 2 Absatz 4 vorgesehenen Absetzung für das Kalenderjahr ermittelt wurde, das ein Jahr vor Beginn des jeweiligen Veranlagungszeitraumes geendet hat (Schmutzwassereinleitungsjahr).
-Im Falle des § 2 Absatz 2 Buchstabe a) gilt die Wassermenge als im Schmutzwassereinleitungsjahr für das Grundstück geliefert, die von dem Wasserversorgungsunternehmen für alle Abrechnungszeiträume festgestellt und berechnet wurde, deren Ende in den Zeitraum von September des Schmutzwassereinleitungsjahr (2017) bis August des dem Veranlagungszeitraum vorhergehenden Jahres (2018) fällt. Bei der Berechnung von Wohnungswasserzählern gilt die am Hauptwasserzähler ermittelte Wasserverbrauchsmenge. Liegt den Abrechnungen nicht insgesamt ein Zeitraum von zwölf Monaten zugrunde, wird zur Ermittlung der jährlichen Schmutzwassermenge die Wassermenge auf einen Wert für zwölf Monate anteilig umgerechnet.
-Liegt ausnahmsweise keine Abrechnung vor, wird die jährliche Schmutzwassermenge unter Berücksichtigung des Absatzes 4 geschätzt.
-Tritt im Laufe des Kalenderjahres eine Gebührenänderung ein, gilt als Schmutzwassermenge für jeden Monat des Veranlagungszeitraumes nach Inkrafttreten der neuen Gebührensätze 1/12 der vorermittelten Schmutzwassermenge.
-/5
+5. Öffentliche Abwasseranlage: Zur öffentlichen Abwasseranlage gehören: a) das gesamte Entwässerungsnetz des Kommunalunternehmens einschließlich aller technischen Einrichtungen z. B. die vom Kommunalunternehmen erstellten oder übernommenen öffentlichen Sammelkanäle, Abwasserpumpwerke, Rückhaltebecken, Druckentwässerungssysteme usw., b.) Gräben, zentrale Versickerungsanlagen und Verrieselungsanlagen, soweit sie von dem Kommunalunternehmen entsprechend ihrer jeweiligen Zweckbestimmung und im Einklang mit den Vorschriften des Wasserrechtes zur öffentlichen Abwasserbeseitigung benutzt werden, c.) die Klärwerke, Betriebshöfe und sonstige Betriebsstätten einschließlich aller technischen Einrichtungen, d.) die Anlagen und Einrichtungen, die nicht von dem Kommunalunternehmen selbst, sondern von Dritten hergestellt oder unterhalten werden, wenn sich das Kommunalunternehmen dieser Anlagen für die Abwasserbeseitigung bedient und übernommen hat, e.) Druckentwässerungsanlagen, auch auf privaten Wege- und Grundstücksflächen, sofern sie von dem Kommunalunternehmen errichtet oder übernommen und betrieben werden. f.) Mischverfahren: Beim Mischverfahren werden Schmutz- und Niederschlagswasser zusammen in einem Kanal gesammelt und fortgeleitet. g.) Trennverfahren: Beim Trennverfahren werden Schmutz- und Niederschlagswasser in je einem besonderen Kanal gesammelt und fortgeleitet. h.) Abwasserleitungen: Abwasserleitungen bestehen aus der Anschlussleitung und der Grundleitung. i.) Anschlussleitung: Anschlussleitung ist die Abwasserleitung, die an der Außenkante der öffentlichen Abwasseranlage des Kommunalunternehmens in der Straße oder sonstigen Grundstücken beginnt und an der Grundstücksgrenze endet. Beim Anschluss über private Straßen und private Wege endet die Anschlussleitung an der Grenze des privaten Straßengrundstücks oder des privaten Wegegrundstücks. Die Anschlussleitung ist nicht Bestandteil der öffentlichen
+4
 
-b) Als Grundstücksfläche wird die Fläche angesetzt, die zu Beginn des Kalenderjahres an die öffentliche Abwasseranlage angeschlossen ist.
-c) Bei Stoffen nach § 2 Absatz 1 Buchstabe c) und bei Schmutzwasser nach § 2 Absatz 2 Buchstabe b) wird die im Veranlagungszeitraum eingeleitete Menge zugrunde gelegt.
-d) Bei Dachbegrünungen kann auf Antrag die Niederschlagswassergebühr je nach Abflussbeiwert für die jeweilige Fläche in dem aus der nachstehenden Tabelle ersichtlichen Umfang gemindert werden. Der Abflussbeiwert ist insbesondere durch die Bestätigung des Gründachherstellers nachzuweisen.
+Abwasseranlage. j.) Grundleitung:
+Grundleitung ist die gesamte Anlage zum Fortleiten von Abwasser, die sich auf dem Privatgrundstück befindet und an der Grundstücksgrenze endet. k.) Grundstücksentwässerungsanlagen: Grundstücksentwässerungsanlagen sind Einrichtungen, die der Sammlung, Vorbehandlung, Prüfung, Ableitung, Versickerung, Verrieselung und Klärung des Abwassers auf dem Grundstück dienen. Dazu gehören insbesondere Abwassereinläufe, Abwasserleitungen einschließlich deren Reinigungsschächte und –öffnungen, Hebeanlagen, Rückstausicherungen, Abwasservorbehandlungsanlagen, Abscheideranlagen, Messschächte und Kontrollvorrichtungen, Kleinkläranlagen, Brauchwasseranlagen, abflusslose Gruben, dezentrale Versickerungs- und Verrieselungsanlagen. Diese gehören nicht zur öffentlichen Abwasseranlage. l.) Grundstück: Grundstück im Sinne dieser Satzung ist unabhängig von der Eintragung im Liegenschaftskataster und Grundbuch und ohne Rücksicht auf die Grundstücksbezeichnung jeder zusammenhängende Grundbesitz, der eine selbständige wirtschaftliche Einheit bildet, insbesondere dann, wenn ihm eine Hausnummer zugeteilt ist, sowie die Straßen, Wege und Plätze innerhalb im Zusammenhang bebauter Ortsteile. m.) Einleiter: Einleiter im Sinne dieser Satzung sind diejenigen, die Abwasser in die öffentliche Abwasseranlage einleiten oder sonst hineingelangen lassen. n.) Abwasserteilstrom: Abwasserteilstrom im Sinne dieser Satzung ist die in Grundstücksentwässerungsanlagen gesondert gefasste Teilmenge des Abwassers, das in einem bestimmten Betriebsbereich, in einem Teil eines Betriebsbereiches oder bei einzelnen Produktionsanlagen anfällt. o.) Anschlussberechtigte: Anschlussberechtigte sind natürliche und juristische Personen, die Eigentümer eines Grundstückes sind, für das eine objektive Anschlussmöglichkeit an die öffentliche Abwasseranlage besteht.
+5
 
-Abflussbeiwert Reduzierung der Niederschlagswassergebühr um
+Dem Eigentümer sind gleichgestellt zur Nutzung eines Grundstückes dinglich Berechtigte (z. B. Wohnungseigentümer, Erbbauberechtigte, Nießbraucher) sowie die Baulastträger von Straßen, Wegen und Plätzen innerhalb im Zusammenhang bebauter Ortsteile. Stehen Grundstücke im Miteigentum oder ist eine sonstige gemeinsame Berechtigung gegeben oder werden mehrere Grundstücke über gemeinsame Anlagen entwässert, so liegen mehrere Anschlussberechtigte vor. p.) Anschlussverpflichtete: Anschlussverpflichtete sind natürliche und juristische Personen, die Eigentümer eines Grundstückes sind, für das eine objektive Anschlussmöglichkeit an die öffentliche Abwasseranlage besteht. Nr. 15 Satz 2 gilt entsprechend. q.) Örtliche Abwasserbeseitigungsanlagen: Örtliche Abwasserbeseitigungsanlagen sind alle auf dem Privatgrundstück des Anschlussberechtigten befindlichen Anlagen zur Abwasserbeseitigung, die keine Verbindung zur öffentlichen Abwasseranlage haben. r.) Sanierung: Maßnahmen zur Wiederherstellung oder Verbesserung von vorhandenen Entwässerungssystemen. Sanierungsmaßnahmen sind: Reparatur, Renovierung und Erneuerung.
+§3
+Anschluss- und Benutzungsrecht (1) A: Niederschlagswasser soll ortsnah versickert, verrieselt oder direkt oder
+über eine Kanalisation ohne Vermischung mit Schmutzwasser in ein Gewässer ein- geleitet werden, soweit dem weder wasserrechtliche noch sonstige öffentlich-rechtliche Vorschriften noch wasserwirtschaftliche Belange entgegenstehen. B: Jeder Anschlussberechtigte (§ 2 Ziffer 15) ist nach Maßgabe dieser Satzung berechtigt, sein Grundstück an die öffentliche Abwasseranlage (§ 2 Ziffer 5) anzuschließen (Anschlussrecht). (2) Nach der betriebsfertigen Herstellung des öffentlichen Sammelkanals durch das Kommunalunternehmen und der Anschlussleitung hat der Anschlussberechtigte das Recht, das auf seinem Grundstück anfallende Abwasser nach Maßgabe dieser Satzung und unter Beachtung der technischen Vorschriften für den Bau und Betrieb von Grundstücksentwässerungsanlagen in die öffentliche Abwasseranlage
+7
 
-0,1
+einzuleiten. Dasselbe Recht hat jeder zur Nutzung des Grundstückes Berechtigte, bei dem Abwasser anfällt (Benutzungsrecht).
+§4
+Begrenzung des Anschlussrechtes
+(1) Das Anschlussrecht erstreckt sich nur auf solche Grundstücke, die an eine Straße oder an ein Grundstück grenzen, in der bzw. dem eine betriebsfertige und aufnahmefähige öffentliche Abwasseranlage vorhanden ist. Das gleiche gilt, wenn der Anschlussberechtigte einen eigenen durch Grunddienstbarkeit oder Notwegerecht gesicherten Zugang zu seinem Grundstück hat. Bei anderen Grundstücken kann das Kommunalunternehmen auf Antrag den Anschluss gegebenenfalls mit Nebenbestimmungen zulassen.
+(2) Wenn der Anschluss eines Grundstückes wegen seiner besonderen Lage oder aus technischen oder betrieblichen Gründen erhebliche Schwierigkeiten bereitet oder besondere Maßnahmen, Aufwendungen oder Kosten erfordert, kann das Kommunalunternehmen den Anschluss versagen oder durch Nebenbestimmungen beschränken. Hiervon kann abgesehen werden, wenn der Anschlussberechtigte sich bereit erklärt, die entstehenden Mehraufwendungen und –kosten der Herstellung, Veränderung, Sanierung und Beseitigung sowie der Unterhaltung der öffentlichen Abwasseranlage zu tragen. Auf Verlangen hat er hierfür angemessene Vorschüsse und Sicherheiten zu leisten.
+(3) Das Anschlussrecht erstreckt sich nicht auf das Niederschlagswasser von Grundstücken, bei denen die Abwasserbeseitigungspflicht auf den Nutzungsberechtigten oder einen anderen übertragen wurde.
+(4) Es dürfen keine Notüberläufe von Niederschlagswasserbeseitigungsanlagen zur öffentlichen Abwasseranlage hergestellt werden.
+(5) Niederschlagswasser von Grundstücken, auf denen die örtliche Niederschlagswasserbeseitigung beendet werden soll, darf nachträglich nur mit schriftlicher Zustimmung des Kommunalunternehmens in die öffentliche Abwasseranlage eingeleitet werden.
+(6) In den nach dem Trennverfahren entwässerten Gebieten dürfen Schmutz- und Niederschlagswasser nur in den hierfür bestimmten Kanal eingeleitet werden. In Ausnahmefällen kann das Kommunalunternehmen verlangen, dass das Niederschlagswasser einzelner Grundstücke zur besseren Spülung in den 8
 
-90 %
+Schmutzwasserkanal eingeleitet wird. 9
 
-0,2
+(7) Gegen den Rückstau des Abwassers aus der öffentlichen Abwasseranlage in die angeschlossenen Grundstücke hat sich jeder Anschlussberechtigte bis zur Straßenhöhe vor dem Grundstück selbst zu schützen. Straßenhöhe im Sinne dieser Vorschrift ist der höchste Punkt der öffentlichen Verkehrsfläche.
+§5
+Begrenzung des Benutzungsrechtes
+(1) In die öffentliche Abwasseranlage dürfen solche Stoffe und Abwässer nicht eingeleitet werden, die aufgrund ihrer Inhaltsstoffe
+1. die öffentliche Sicherheit oder Ordnung gefährden oder 2. das in der öffentlichen Abwasseranlage beschäftige Personal gefährden
+oder gesundheitlich beeinträchtigen oder 3. die Abwasseranlage in ihrem Bestand angreifen oder ihre Funktionsfähigkeit
+oder Unterhaltung gefährden, erschweren oder behindern oder 4. den Betrieb der Abwasserbehandlung erheblich erschweren oder verteuern
+oder 5. die Abwasserreinigungsprozesse in der Abwasserbehandlungsanlage so
+erheblich stören, dass dadurch die Anforderungen der wasserrechtlichen Einleitungserlaubnis nicht eingehalten werden können, 6. die Vorfluter über das zulässige Maß hinaus belasten oder sonst nachteilig verändern, 7. die Klärschlammbehandlung,- beseitigung oder -verwertung beeinträchtigen oder verteuern. Sind derartige Gefährdungen oder Beeinträchtigungen eingetreten oder zu befürchten, kann das Kommunalunternehmen die Einleitung des Abwassers in die öffentliche Abwasseranlage untersagen oder von einer Vorbehandlung an der Anfallstelle oder von anderen geeigneten Maßnahmen abhängig machen.
+(2) Von der Einleitung und dem Einbringen in die öffentliche Abwasseranlage sind ausgeschlossen:
+1. feste Stoffe, auch in zerkleinertem Zustand, die zu Ablagerungen oder Verstopfungen in der öffentlichen Abwasseranlage führen können, z. B. Schutt, Asche, Glas, Schlacke, Müll, Sand, Kies, Textilien, grobes Papier und Pappe, Kunststoffe, Kunstharze, Latices, Kieselgur, Kalkhydrat,
+10
 
-80 %
+Zement, Mörtel, Abfälle aus Tierhaltungen, Schlachtabfälle, Abfälle aus nahrungsmittelverarbeitenden Betrieben;
+2. Schlämme aus Neutralisations-, Entgiftungs- und sonstigen Abwasserbehandlungsanlagen;
+3. flüssige Stoffe, die in der öffentlichen Abwasseranlage erhärten oder Stoffe, die nach Übersättigung im Abwasser der öffentlichen Abwasseranlage abgeschieden werden und zu Abflussbehinderungen führen;
+4. gasförmige Stoffe und Abwasser, das Gase in schädlichen Konzentrationen (z. B. Kohlendioxid, Schwefelwasserstoff) freisetzt;
+5. feuergefährliche und explosive Stoffe sowie Abwasser, aus dem explosive Gas-/Luftgemische entstehen können, z. B. Mineralölprodukte, Lösungsmittel, soweit die Grenzwerte nach Absatz 4 überschritten werden;
+6. Emulsionen von Mineralölprodukten, z. B. von Schneid- und Bohrölen, Bitumen und Teer;
+7. Abwasser, das hinsichtlich der Beschaffenheit oder der Inhaltsstoffe die Grenzwerte nach Absatz 4 überschreitet;
+8. Problemstoffe und –chemikalien enthaltendes Abwasser, z. B. solches mit Pflanzenschutz- und Holzschutzmitteln, Lösungsmitteln (z. B. Benzin, Farbverdünner), Medikamenten und pharmazeutischen Produkten, Beizmitteln, soweit die Grenzwerte nach Absatz 4 überschritten werden;
+9. Abwasser aus Infektionsabteilungen von Krankenhäusern und ähnlichen Einrichtungen, soweit nicht thermisch desinfiziert;
+10. Abwasser, das in der öffentlichen Abwasseranlage nachhaltig belästigende Gerüche auftreten lässt;
+11. Abwasser und Schlämme aus Anlagen zur örtlichen Abwasserbeseitigung, insbesondere aus Kleinkläranlagen, abflusslosen Gruben, Sickerschächten, Schlammfängen und gewerblichen Sammelbehältern, soweit sie nicht in eine hierfür vorgesehene Einleitungsstelle des Kommunalunternehmens in einem Klärwerk eingeleitet werden;
+12. flüssige Stoffe aus landwirtschaftlicher Tierhaltung wie Jauche und Gülle; 13. Silagewasser;
+11
 
-0,3
+14. Grund-, Drain-, Kühl-, Enteisungswasser und aus dem Boden offen zu Tage tretendes Grundwasser sowie stehende und fließende Gewässer;
+15. nicht neutralisierte Kondensate aus erd- und flüssiggasbetriebenen Brennwertanlagen mit einer Nennwärmebelastung von mehr als 200 kW sowie nicht neutralisierte Kondensate aus sonstigen Brennwertanlagen;
+16. radioaktives Abwasser; beim genehmigungspflichtigen Umgang mit radioaktiven Stoffen ersetzt die Genehmigung nach der Strahlenschutzverordnung die satzungsrechtliche Erlaubnis, wenn sie im Einvernehmen mit dem Kommunalunternehmen erteilt wird;
+17. Abwasser aus Tierversuchsanstalten;
+18. Abwasser aus gentechnischen Betrieben, soweit es nicht in der Gentechnik Sicherheitsverordnung festgelegten Anforderungen an die Abwasserbehandlung entspricht;
+19. Abwasser, das im Rahmen von Fassadenreinigungsarbeiten durch organohalogenhaltige bzw. aromatenhaltige Reinigungs- und Abbeizmittel belastet wurde;
+20. Stoffe aus Abfallzerkleinerern und Nassmüllpressen; der Anschluss solcher Anlagen an die öffentliche Abwasseranlage ist nicht erlaubt;
+21. Farbstoffe in einer Konzentration, durch die der Ablauf des mechanischen Teils der Abwasserbehandlungsanlage der Klärwerke sichtbar gefärbt wird;
+22. Abwasser, das eine Hemmung der Aktivität des Belebtschlammes des jeweiligen Klärwerkes bewirkt.
+(3) Reicht die öffentliche Abwasseranlage für die Aufnahme der Abwassermenge nicht aus, kann das Kommunalunternehmen die Einleitung von Schmutzwasser und / oder Niederschlagswasser entsprechend den jeweiligen Verhältnissen befristen, beschränken und/oder ganz oder teilweise versagen. Abweichend hiervon kann die Einleitung ausnahmsweise zugelassen werden, wenn der Anschlussberechtigte auf seine Kosten eine Rückhalteeinrichtung mit Drosselorgan zur Einhaltung der Mengenbegrenzung in Abstimmung mit dem Kommunalunternehmen herstellt und betreibt oder die Aufwendungen für eine Erweiterung oder Veränderung der öffentlichen Abwasseranlage trägt.
+12
 
-70 %
-
-0,4
-
-60 %
-
-0,5
-
-50 %
-
-0,6
-
-40 %
-
-0,7
-
-30 %
-
-(4) Bei der erstmaligen Einleitung von Schmutzwasser von einem Grundstück in die öffentliche Abwasseranlage sowie im Falle einer veränderten Nutzung des Grundstückes gegenüber dem Schmutzwassereinleitungsjahr wird die Jahresschmutzwassermenge geschätzt. § 2 Absätze 4 bis 6 gelten entsprechend.
-(5) Bei der erstmaligen Einleitung von Niederschlagswasser oder bei Änderung der angeschlossenen Grundstücksfläche innerhalb des Kalenderjahres wird die angeschlossene oder geänderte Grundstücksfläche vom Ersten des folgenden Monats der Berechnung zugrunde gelegt. Flächenreduzierungen werden vom Ersten des folgenden Monats nach der schriftlichen Mitteilung berücksichtigt. Für jeden Monat wird 1/12 der Jahresgebühr erhoben. Das gilt auch, wenn im Laufe des Kalenderjahres eine Gebührenänderung eintritt.
-(6) Wird Niederschlagswasser über eine Regenwassernutzungsanlage nach Gebrauch in die öffentliche Kanalisation eingeleitet, so ist die Brauchwassermenge
-/6
-
-entweder
-a) bei Privathaushalten mittels einer personen- und nutzungsabhängigen Pauschale zu berechnen, für Toilettenspülung 10 m³ pro Person/Jahr; für Waschmaschine 5 m³ pro Person/Jahr oder
-b) auf Antrag des Gebührenpflichtigen über einen fest installierten, geeichten Wasserzwischenzähler zu erfassen.
-Die Brauchwasserzuführung ist den StEB, vor Inbetriebnahme einer Anlage anzuzeigen. Der Gebührenschuldner hat den StEB Änderungen der Personenzahl und der Nutzung unverzüglich mitzuteilen. Kann Niederschlagswasser aus einer Regenwassernutzungsanlage der öffentlichen Kanalisation (z.B. über einen Notüberlauf) zugeführt werden, ist bei der Berechnung der Niederschlagswassergebühr ein pauschaler Abzug von 50 % der an die Regenwassernutzungsanlage angeschlossenen Flächen in Ansatz zu bringen.
-(7) Bei Anträgen auf Ausnahmegenehmigung nach der Abwassersatzung für vorübergehende Einleitungen von Schmutzwasser in die öffentliche Abwasseranlage werden die Schmutzwassermengen anhand der vom Antragsteller angegebenen Einleitungsdauer und einer auf Erfahrungswerten beruhenden durchschnittlichen Einleitungsmenge geschätzt:
-a) Soweit nach diesen Schätzungen oder tatsächlich nicht mehr als 5 m³ anfallen, wird die Gebühr für die Abgeltung der Schmutzwassergebühren und den Aufwand für die Ausnahmegenehmigung pauschal festgesetzt.
-b) Soweit nach diesen Schätzungen oder tatsächlich nicht mehr als 30 m³ anfallen, wird die Gebühr für die Abgeltung der Schmutzwassergebühren und den Aufwand für die Ausnahmegenehmigung pauschal festgesetzt.
-c) Bei Einleitungsmengen über 30 m³ wird für die Berechnung die nach der vom Antragsteller nachzuweisenden tatsächlichen Einleitungsmenge unter Absetzung der nach § 2 Absatz 4 möglichen Absetzungen zugrunde gelegt.
-(8) Bei Anträgen auf Erteilung einer Ausnahmegenehmigung nach der Abwassersatzung für die vorübergehende Einleitung von Grundwasser und sonstigem Wasser in die öffentliche Abwasseranlage wird die Art der Ermittlung der eingeleiteten Menge und der Zeitpunkt der Mitteilung über die Menge mit der Ausnahmegenehmigung festgesetzt.
-(9) Die Gebühr für Ausnahmegenehmigungen nach der Abwassersatzung wird pauschal festgesetzt. Unberührt bleiben die Festsetzungen nach § 3 Absatz 7 a) und b).
-§ 4 Gebührenschuld
-(1) Gebührenschuldner sind:
-a) im Falle von § 2 Absatz 1 Buchstaben a) und b) die Eigentümer der Grundstücke, von denen Abwasser in die öffentliche Abwasseranlage gelangt. Besteht ein Erbbaurecht, ist der Erbbauberechtigte Gebührenschuldner. Liegt wirtschaftliches
-/7
-
-Eigentum i. S. von § 39 AO1977 vor, ist der wirtschaftliche Eigentümer der Gebührenschuldner,
-b) im Falle von § 2 Absatz 1 Buchstabe c) diejenigen, die die Stoffe in die öffentliche Abwasseranlage einleiten,
-c) im Falle von § 3 Absatz 7 und Absatz 8 diejenigen, denen die vorübergehende Einleitung von Abwässern nach der Abwassersatzung genehmigt wurde und
-d) in allen anderen Fällen diejenigen, die die öffentliche Abwasseranlage tatsächlich nutzen oder genutzt haben.
-Mehrere Gebührenschuldner sind Gesamtschuldner.
-(2) Im Falle eines Eigentumswechsels ist der neue Eigentümer von Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt Köln – Kassen- und Steueramt – anzuzeigen und entsprechend nachzuweisen.
-(3) Die Gebührenschuldner erhalten über die zu entrichtenden Beträge einen Gebührenbescheid. Dieser wird im Falle von § 2 Absatz 1 Buchstaben a) und b) von der Stadt Köln als Verwaltungshelferin im Namen der StEB gefertigt. Dieser Bescheid kann mit dem städtischen Grundbesitzabgabenbescheid verbunden werden. Die StEB sind berechtigt, mit der Einziehung die Stadt Köln zu beauftragen.
-(4) Bei Wohnungseigentum können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden. Der Gebührenbescheid wird den Wohnungseigentümern oder dem Verwalter, den die Wohnungseigentümer nach dem Wohnungseigentumsgesetz bestellt haben, bekannt gegeben.
-(5) Das Gebührenschuldverhältnis entsteht:
-a) im Falle von § 2 Absatz 1 Buchstaben a) und b) mit Ausnahme von § 2 Absatz 2 Buchstabe b) erstmalig mit dem Ersten des Monats, der auf den Monat folgt, in dem auf dem Grundstück anfallendes Schmutz- und Niederschlagswasser in die öffentliche Abwasseranlage eingeleitet worden ist,
-b) bei Stoffen nach § 2 Absatz 1 Buchstabe c) und bei Schmutzwasser nach § 2 Absatz 2 Buchstabe b) mit der Einleitung in die öffentliche Abwasseranlage,
-c) im Falle von vorübergehenden Einleitungen gemäß § 3 Absatz 7 mit der Antragstellung.
-(6) Im Falle von § 2 Absatz 1 Buchstaben a) und b) erlischt das Gebührenschuldnerverhältnis mit dem Ende des Monats, in dem die Einleitung in die öffentliche Abwasseranlage geendet hat. Entstandene Gebührenansprüche bleiben hiervon unberührt.
-(7) Als Grundstück sind unabhängig von der Eintragung im Liegenschaftskataster, Grundbuch und Schiffsregister und ohne Rücksicht auf die Grundstücksbezeichnung anzusehen:
-a) jeder zusammenhängende Grundbesitz, der eine selbständige wirtschaftliche /8
-
-Einheit bildet, insbesondere dann, wenn ihm eine Hausnummer zugeteilt ist,
-b) alle Straßen, Wege und Plätze, die dem öffentlichen Verkehr gewidmet sind oder ihm ohne Widmung dienen,
-c) Gaststättenschiffe, Hotelschiffe, Wohnschiffe und andere schwimmende Einheiten, die entsprechend der Abwassersatzung Schmutzwasser in die öffentliche Abwasseranlage einleiten.
-§ 5 Fälligkeit und Vorauszahlung
-(1) Die Gebühren werden fällig:
-a) im Falle von § 2 Absatz 1 Buchstaben a) und b) mit Ausnahme von § 2 Absatz 2 Buchstabe b) für ein Kalenderjahr am 15. Februar, 15. Mai, 15. August und 15. November zu je gleichen Teilbeträgen. Ist der Gebührenbescheid noch nicht bekannt gegeben, hat der Gebührenschuldner zu den vorgenannten Fälligkeitstagen in Höhe der zuletzt festgesetzten Teilbeträge unaufgefordert Vorauszahlung zu leisten. Tritt im Laufe des Kalenderjahres eine Gebührenänderung ein, gelten für Fälligkeit und Vorauszahlung die auf dem Gebührenbescheid angegebenen Termine,
-b) im Falle von § 2 Absatz 1 Buchstabe c) und § 2 Absatz 2 Buchstabe b) mit dem im Gebührenbescheid angegebenen Zeitpunkt,
-c) im Falle von § 3 Absatz 7 mit dem im Bescheid angegebenen Zeitpunkt.
-(2) Hat der Gebührenschuldner gemäß § 28 Absatz 3 Grundsteuergesetz die Grundsteuer am 1. Juli in einem Jahresbetrag zu entrichten, sind abweichend von Absatz 1 auch die Gebühren zu diesem Zeitpunkt in einer Summe zu zahlen.
-(3) Wird von einem Grundstück im Laufe des Kalenderjahres erstmals Abwasser in die öffentliche Abwasseranlage eingeleitet, gilt Absatz 1 mit der Maßgabe, dass die für die Zeit zwischen erstmaliger Einleitung und Bekanntgabe des Gebührenbescheides geschuldete Gebühr in einer Summe einen Monat nach Bekanntgabe des Bescheides zu zahlen ist.
-Im Falle des Absatzes 2 wird die für den Rest des Jahres zu zahlende Gebühr einen Monat nach Bekanntgabe des Gebührenbescheides fällig, soweit der Gebührenbescheid nach dem 1. Juni bekannt gegeben wird.
-(4) Ist die nach Absatz 1 Buchstabe a) Satz 2 geleistete Vorauszahlung geringer als der nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Gebührenbescheides zu entrichten. Die Verpflichtung, rückständige Vorauszahlungen schon früher zu entrichten, bleibt unberührt.
-(5) Ist die nach Absatz 1 Buchstabe a) Satz 2 geleistete Vorauszahlung größer als der
-/9
-
-nach dem Gebührenbescheid für den Vorauszahlungszeitraum geschuldete Betrag, wird der Unterschiedsbetrag nach Bekanntgabe des Gebührenbescheides durch Aufrechnung oder Zurückzahlung ausgeglichen.
-(6) Die Absätze 4 und 5 gelten entsprechend, wenn und soweit der Gebührenbescheid nach Zahlung aufgehoben oder geändert wird.
-Dritter Abschnitt Gebühren für die Entsorgung von Schmutzwassergruben nach der Schmutz-
-wassergrubensatzung
-§ 6 Bemessungsgrundlage (1) Die Gebühren bemessen sich nach den an der Messvorrichtung des Fäkalienfahr-
-zeuges festgestellten Schmutzwassermengen und Fäkalschlammmengen. Zur Abfuhrmenge gehört auch das für das Absaugen erforderliche Spülwasser.
-(2) Die Gebühr erhöht sich um den Mehraufwand, der dadurch entsteht, dass die Grundstücksentwässerungsanlage entgegen § 7 Absatz 3 Schmutzwassergrubensatzung nicht so angelegt ist, dass das Entsorgungsfahrzeug ungehindert anund abfahren und die Grundstücksentwässerungsanlage unverzüglich ohne zusätzliche Vorkehrungen entleeren kann (z. B. Schlauchlänge, schwierige Anfahrten, Schiffsentsorgungen, zusätzlicher Fahrer).
-(3) Für Leerfahrten ohne Entsorgung von Abwasser oder Fäkalschlamm entsteht in den Fällen, in denen trotz Terminvereinbarung, ohne ein Verschulden der Entsorgungsfirma, die Grundstücksentwässerungsanlage nicht geleert werden konnte, eine Gebühr für die Leerfahrt.
-§ 7 Berechnung (1) Die Berechnungseinheit für die Gebühr ist ein Kubikmeter (m³) der ge-
-bührenpflichtigen Schmutzwassermenge und Fäkalschlammmenge.
-(2) Der Mehraufwand nach § 6 Absatz 2 wird als Euro-Betrag pro Stunde berechnet. Maßgebend bei der Berechnung der Gebühr ist der tatsächliche Zeitaufwand. Der zeitliche Mehraufwand ist vom Anschluss- und Benutzungspflichtigen oder dessen Vertreter auf dem mitgeführten Begleitschein schriftlich zu bestätigen.
-(3) Der Zuschlag für Leerfahrten wird als Euro-Betrag pro Leerfahrt berechnet.
-§ 8 Gebührenschuld und Fälligkeit (1) Das Gebührenschuldverhältnis entsteht mit der Inanspruchnahme der
-Entsorgung. Kommt die Entsorgung nicht zu Stande (z. B. Abweisung
-/ 10
-
-des Fahrzeuges, Terminversäumnis), entsteht die Gebühr für eine Leerfahrt mit Erreichen des Grundstücks, auf dem sich die zu entsorgende Anlage befindet. (2) Gebührenschuldner sind die Anschlussberechtigten zum Zeitpunkt der Entleerung. (3) Mehrere Gebührenschuldner sind Gesamtschuldner. (4) Die Gebühren werden fällig mit dem im Gebührenbescheid angegebenen Zeitpunkt.
-Vierter Abschnitt Abwasseruntersuchungsgebühren
-§ 9 Leistungen Die StEB führen physikalische, chemische und biologische Untersuchungen von Abwässern und Schlämmen durch.
-§ 10 Gebührenschuld (1) Gebührenpflichtig sind alle von den StEB durchgeführten Untersuchungen, so-
-weit sie nicht in andere Gebühren einkalkuliert sind. Gebührenschuldner sind: a) der Anschlussberechtigte, b) im Falle des § 2 Absatz 1 Buchstabe c) diejenigen, die die Stoffe in die
-öffentliche Abwasseranlage einleiten bzw. eingeleitet haben, c) im Falle des § 3 Absatz 7 diejenigen, denen die vorübergehende Einleitung
-von Abwässern nach der Abwassersatzung genehmigt wurde, d) in allen anderen Fällen diejenigen, die die öffentliche Abwasseranlage
-tatsächlich nutzen oder genutzt haben. (2) Im Übrigen ist Gebührenschuldner, wer die Abwasseruntersuchung selbst oder
-durch Dritte, deren Handeln ihm zuzurechnen ist, beantragt hat. (3) Für mehrere Abwasseruntersuchungen gemäß Ziffer 3 des Gebührentarifs wer-
-den die darin vorgesehenen Gebühren nebeneinander erhoben, auch wenn diese Untersuchungen in zeitlichem oder sachlichem Zusammenhang stehen. (4) Haben mehrere Beteiligte eine Abwasseruntersuchung beantragt oder werden mehrere durch sie unmittelbar begünstigt, ist jeder gebührenpflichtig, soweit die Leistung ihn betrifft.
-/ 11
-
-§ 11 Fälligkeit Die Gebühren werden mit der Bekanntgabe des Gebührenbescheides fällig.
-
-Fünfter Abschnitt
-Gebühren für sonstige Leistungen
-§ 12 Sonstige Leistungen
-(1) Die StEB erbringen im Bedarfsfall sonstige Leistungen in geringem Umfang.
-(2) Soweit bei der Berechnung von Gebühren Mitarbeiterstunden angesetzt werden, sind für die Arbeiten zu ungünstigen / außergewöhnlichen Zeiten zum jeweiligen Gebührensatz die folgenden Zeitzuschläge als von –Hundert-Sätze vom Stundensatz hinzuzurechnen. Sie betragen je angefangene Stunde:
-
-Buchst. a) b) c)
-d)
-e) f) g)
-
-Zuschlag
-
-v. H.
-
-Überstunden
-
-30
-
-Nachtarbeit ab 21 Uhr
-
-25
-
-Sonntagsarbeit
-
-25
-
-Arbeiten sonntag
-
-an
-
-Oster-
-
-und
-
-Pfingst-
-
-35
-
-Feiertagsarbeit
-
-135
-
-Arbeiten am 24.12 und am 31.12 40
-
-Arbeiten an Samstagen ab 13 Uhr 20
-
-Beim Zusammentreffen von Zeitzuschlägen nach den Buchstaben c bis g wird nur der höchste Zeitzuschlag gezahlt.
-Für die Rufbereitschaft wird eine tägliche Pauschale je Entgeltgruppe festgesetzt. Die Gebühr für eine Rufbereitschaft beträgt für die Tage Montag bis Freitag das Zweifache, für Samstag, Sonntag sowie für Feiertage das Vierfache des für die Entgeltgruppe maßgeblichen Stundensatzes. Maßgebend für die Bemessung der Pauschale ist der Tag, an dem die Rufbereitschaft beginnt.
-§ 13 Gebührenschuld und Fälligkeit
-(1) Die Gebührenschuld entsteht mit der Inanspruchnahme der Leistung.
-(2) Gebührenschuldner ist der Anschlussberechtigte; im Übrigen ist Gebührenschuldner, wer die sonstige Leistung selbst oder durch Dritte, deren Handeln ihm zuzurechnen ist, beantragt hat.
-(3) Mehrere Gebührenschuldner sind Gesamtschuldner.
-(4) Die Gebühren werden mit Bekanntgabe des Gebührenbescheides fällig.
-/ 12
-
-Sechster Abschnitt Gebühren für die Ausstellung von Kanalanschlussscheinen
-§ 14 Leistungen Die StEB prüfen auf Antrag oder im Rahmen von Baugenehmigungsverfahren bei Neuanschlüssen die Anschlussmöglichkeiten an das öffentliche Kanalnetz, legt die spezifischen Anschlussbedingungen gemäß der Abwassersatzung fest, erteilt die Zustimmung zu den Kanalanschlussarbeiten gemäß der Abwassersatzung und nimmt den hergestellten Anschlusskanal bezüglich Übereinstimmung mit dem Kanalanschlussschein ab.
-§ 15 Gebührenschuld und Fälligkeit (1) Gebührenpflichtig sind alle von den StEB ausgestellten Kanalanschlussscheine
-und Zustimmungen für Neuanschlüsse und Wiederverwendungen. (2) Gebührenschuldner ist der Anschlussberechtigte; im Übrigen ist Gebührenschuld-
-ner, wer den Kanalanschlussschein selbst oder durch Dritte, deren Handeln ihm zuzurechnen ist, beantragt hat. (3) Mehrere Gebührenschuldner sind Gesamtschuldner. (4) Die Gebühren werden mit Bekanntgabe des Gebührenbescheides fällig.
-Siebter Abschnitt Schlussvorschriften § 16 Auskunftspflicht Die in den §§ 4, 8, 10, 13 und 15 genannten Gebührenschuldner und deren gesetzliche Vertreter oder Bevollmächtigte sind unbeschadet der in dieser Satzung und in der Abwassersatzung getroffenen Sonderregelungen verpflichtet, über alle für die richtige Veranlagung maßgebenden Tatsachen innerhalb einer angemessenen Frist die erforderlichen Angaben zu machen und den Beauftragten der StEB ungehinderten Zutritt zu den Grundstücken und zu allen Anlagenteilen auf den Grundstücken zu gewähren. Die Beauftragten haben sich durch einen von den StEB ausgestellten Dienstausweis auszuweisen. § 17 Inkrafttreten
-Die Satzung tritt am 01.Januar 2019 in Kraft.
-/ 13
-
-Gebührentarif zur Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, AöR über die Erhebung der Gebühren für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Schmutzwassergruben
-
-vom 29. November 2018
+(4) Hinsichtlich der Beschaffenheit und der Inhaltsstoffe des Abwassers sind folgende Grenzwerte jederzeit einzuhalten:
 
 1.
 
-Gebührensätze für die Inanspruchnahme der öffentlichen
+An der Übergabestelle zur öffentlichen Abwasseranlage bzw. - wenn diese nicht
 
-Abwasseranlage, für angefangene m³ und m² gilt der jeweilige Gebüh-
-
-rensatz anteilig
+zugänglich ist - an einer vergleichbar geeigneten Probenahmestelle
 
 1.1
-1.1.1 1.1.2 1.1.3 1.1.4 1.1.5
-1.1.6
-1.2
-1.3
 
-Euro
-Einleitung von Schmutzwasser einschl. nicht genutztem Grundwasser und sonstigem Wasser
+Temperatur
 
-Schmutzwasser je m³
+35°C
 
-1,54
+1.2 1.3
+1.3.1
 
-In Kleinkläranlagen vorgereinigtes Schmutzwasser und in
+pH-Wert absetzbare Stoffe
+biologisch abbaubare:
 
-0,97
+1.3.2
 
-Regenwasserkanäle genehmigte eingeleitete Wasser je m³
+biologisch nicht abbaubare:
 
-Nicht genutztes Grundwasser und sonstiges Wasser je m³
+6,5 – 10,0
+Ausschlüsse gemäß Absatz 2 Nr. 1. Der Einbau von Stärkeabscheidern kann gefordert werden.
+5 ml/l in 0,5 h Absetzzeit
 
-0,43
+1.3.3
 
-Erteilung einer Ausnahmegenehmigung für die vorübergehende Einleitungen bis 5 m³
-Erteilung einer Ausnahmegenehmigung für die vorübergehende Einleitungen über 5 m³ und unter 30 m³
+Aluminium, Eisen begrenzt durch absetzbare Stoffe, biologisch nicht abbaubar
 
-33,55 72,05
+-
 
-Erteilung einer Ausnahmegenehmigung für vorübergehende Einleitungen nach der Abwassersatzung zuzüglich jeweiligem Tarif nach Ziffer 1.1.1, 1.1.2 oder 1.1.3
-Einleitung von Niederschlagswasser je m² angeschlossener Fläche und Jahr
+1.4
 
-51,70 1,27
+Stickstoff
 
-Einleitung von durch Transportfahrzeuge angeliefertem Schmutzwasser und Schlamm aus Sickerschächten, Schlammfängen, gewerblichen Schlammbehältern und Chemietoiletten je m³
+1.4.1 1.4.2
 
-20,15
+Ammonium und Ammoniak (NH4-N, NH3-N) Nitrit (NO2-N)
 
-/ 14
+200 mg/l 10 mg/l
 
+1.5 1.5.1
+
+Cyanid leicht freisetzbar (CN)
+
+1 mg/l
+
+1.5.2 1.6
+
+gesamt (CN) Fluorid (F)
+
+20 mg/l 50 mg/l
+
+1.7
+
+Sulfat (SO4)
+
+600 mg/l
+
+13
+
+1.8
+
+Sulfid (S)
+
+2 mg/l
+
+1.9
+
+Phosphor gesamt (PO4-P)
+
+1.10
+
+Organische halogenfreie Lösungsmittel
+
+50 mg/l
+
+1.10.1
+1.10.2 1.11 1.12 1.13 1.14
 2.
-2.1 2.2 2.3
-2.4 2.5 3. 3.1 3.1.1
-3.1.2 3.2 3.2.1 3.2.2 3.2.3 3.2.4 3.3
 
-Gebührensätze für die Entsorgung von Schmutzwassergruben nach der Schmutzwassergrubensatzung
-
-Entsorgung von Kleinkläranlagen je m³
-
-36,57
-
-Entsorgung von Abwasser aus abflusslosen Gruben je m³
-
-31,69
-
-Zulage zu 2.1 und 2.2 für die Notentsorgung an Samstagen,
-
-153,05
-
-Sonntagen, Feiertagen und montags bis freitags von 20 Uhr bis 6 Uhr
-
-Mehraufwand nach § 6 Abs. 2 je angefangene Stunde Leerfahrten Abwasseruntersuchungsgebühren Probenahmen mit automatischem Probenahmegerät zuzüglich Gebühren nach Ziffer 5.3, je angefangene Std. zuzüglich Gebühren je Nutzungstag zuzüglich Fahrtkosten nach Ziffer 4.8 von Hand nach Ziffer 5.3, je angefangene Std. Probenvorbereitung (besonderer Aufwand) Zerkleinern, Trocknen von Böden und Schlämmen siehe Ziffer 5 Siebanalyse siehe Ziffer 5 Eluierbarkeit siehe Ziffer 5 Aufschluss für Spurenanalyse siehe Ziffer 5 Physikalische Untersuchungen
-
-116,62 116,62
-171,95 15,00
-
-/ 15
-
-3.3.1 3.3.2 3.3.3 3.3.4 3.3.4.1 3.3.4.2 3.3.5 3.3.5.1 3.3.5.2 3.3.6
-
-Farbe, Trübung, Geruch, Temperatur
-
-14,62
-
-pH-Wert
-
-8,15
-
-Elektrische Leitfähigkeit (konduktometrisch)
-
-11,39
-
-Gesamtrückstand
-
-Gesamttrockenrückstand, Trockenrückstand, je
-
-20,40
-
-Glühverlust
-
-25,55
-
-Gehalt an ungelösten Stoffen
-
-Absetzbare Stoffe
-
-23,53
-
-Abfiltrierbare Stoffe /Trockensubstanz
-
-36,03
-
-Bestimmung von pH-Wert, Temperatur und elektrischer Leitfähigkeit durch Aufzeichnung mit einem automatischem Messgerät
-
-151,37
-
-3.3.7
-
-zuzüglich Gebühren nach Ziffer 5.3, je angefangene Std.
-zuzüglich Gebühren je Nutzungstag
-zuzüglich Fahrtkosten nach Ziffer 4.8
-Bestimmung von Geruch durch Aufzeichnung mit einem GasMessgerät
-
-4,41 37,60
-
-zuzüglich Gebühren nach Ziffer 5.3, je angefangene Std.
-
-zuzüglich Gebühren je Nutzungstag
-
-2,38
-
-zuzüglich Fahrtkosten nach Ziffer 4.8
-
-3.4
-
-Chemische Untersuchungen
-
-3.4.1
-
-Summen- und Gruppenparameter
-
-/ 16
-
-3.4.1.1 AOX, EOX je
-
-3.4.1.2
-
-BSB5
-
-3.4.1.3 CSB
-
-3.4.1.5 Gesamt-Stickstoff
-
-3.4.1.6 Kohlenwasserstoffe
-
-3.4.1.7 Schwerflüchtige lipophile Stoffe
-
-3.4.1.8 Kjeldahl-Stickstoff
-
-3.4.1.9 Phenol-Index
-
-3.4.1.10 Säure- und Basekapazität je
-
-3.4.1.11 DOC/TOC, TNb je
-
-3.4.2
-
-Einzelbestimmungen
-
-3.4.2.1 Anorganisch
-
-3.4.2.1.1 Aggressive Kohlensäure siehe Ziffer 5
-
-3.4.2.1.2 Ammonium, photometrisch
-
-3.4.2.1.3 Freies Chlor
-
-3.4.2.1.4 Chlor gesamt
-
-3.4.2.1.5 Chlordioxid
-
-3.4.2.1.6 Chlorid
-
-3.4.2.1.7 Chromat
-
-3.4.2.1.8 Cyanid gesamt
-
-83,02 60,08 36,83 96,12 77,68 60,35 48,80 51,84 31,41 35,62
-34,81 39,07 38,03 39,07 38,03 47,58 81,41
-/ 17
-
-3.4.2.1.9 Cyanid leicht freisetzbar 3.4.2.1.10 Fluor gesamt 3.4.2.1.11 Fluorid 3.4.2.1.12 Hydrazin 3.4.2.1.13 Nitrat-Stickstoff 3.4.2.1.14 Nitrit-Stickstoff 3.4.2.1.15 Ortho-Phosphat 3.4.2.1.16 Phosphat gelöst 3.4.2.1.17 Phosphat gesamt 3.4.2.1.18 Sulfat 3.4.2.1.19 Sulfid 3.4.2.1.20 Sulfid gelöst 3.4.2.1.21 Thiocyanat 3.4.2.2 Elemente 3.4.2.2.1 Cadmium, Silber, Chrom, Blei, Nickel, Vanadium, Thallium, Zinn,
-Titan, Molybdän, Barium je
-
-81,41 34,81 34,81 34,81 38,03 39,07 43,32 43,32 43,32 38,03 38,03 35,47 35,47
-42,46
-
-3.4.2.2.2 3.4.2.2.3
-
-Zink, Kupfer, Magnesium, Kalium, Kobalt, Eisen, Mangan, Calcium, Natrium, Aluminium, Eisen wasserlöslich, Mangan wasserlöslich, Schwefel, gesamt Schwefel wasserlöslich je Quecksilber, Arsen, Antimon, je
-
-3.4.2.2.4 Weitere Elemente siehe Ziffer 5
-
-3.4.2.3 Organisch
-
-41,40 46,69
-
-/ 18
-
-3.4.2.3.1 Polycyclische aromatische Kohlenwasserstoffe (PAK) 3.4.2.3.2 Benzol, Toluol, Xylol (BTX) 3.4.2.3.3 Leichtflüchtige Halogenkohlenwasserstoffe (LHKW) 3.4.2.3.4 PCB 3.4.2.3.5 Aldehyde 3.4.2.3.6 PFT 3.4.2.3.7 Phthalate 3.4.2.3.8 Organozinnverbindungen 3.4.2.3.9 LAS 3.4.2.3.10 Moschusduftstoffe 3.4.2.3.11 Nonylphenole 3.4.2.3.12 GC/MS-Analyse quantitativ bis drei Komponenten 3.4.2.3.13 GC/MS-Analyse quantitativ ab vier bis zehn Komponenten 3.4.2.3.14 GC/MS-Analyse qualitativ 3.4.2.4 Sonderuntersuchungen 3.4.2.4.1 Gaschromatographische Untersuchungen je Einzelstoffkomponente
-siehe Ziffer 5
-
-158,60 92,34 88,08 158,60 147,69 165,04 102,25 398,01 467,72 702,36 107,16 122,14 147,69 147,69
-
-3.4.2.4.2 Identifizierung mit Massenspektrometer je Einzelstoffkomponente siehe Ziffer 5
-
-3.5
-
-Biologische Untersuchungen
-
-3.5.1
-
-Mikroskopische Analyse (Mikroskopisches Bild)
-
-45,94
-
-/ 19
-
-3.5.2 3.6
-
-TTC-Test
-Soweit Untersuchungen nicht in den vorstehenden Gebührentatbeständen erfasst sind, findet Ziffer 5 entsprechende Anwendung. Zusätzlich werden die den StEB dabei entstehenden Materialkosten in Rechnung gestellt.
-
-77,34
-
-4. 4.1 4.2 4.2.1 4.2.2 4.3 4.4 4.5 4.6 4.7 4.8 5. 5.1 5.2 5.3 5.4
-
-Gebührensätze für den Einsatz von Spezialfahrzeugen je angefangene Stunde
-Kolonnenfahrzeug zuzüglich Gebühren nach Ziffer 5.
-
-11,81
-
-HDS-Fahrzeuge
-
-HDS-Fahrzeug mit Wasserrückgewinnung zuzüglich Gebühren nach Ziffer 5. HDS-Fahrzeug ohne Wasserrückgewinnung zuzüglich Gebühren nach Ziffer 5. Saugfahrzeug zuzüglich Gebühren nach Ziffer 5.
-
-65,51 44,37 48,33
-
-Betriebs-LKW zuzüglich Gebühren nach Ziffer 5.
-
-21,03
-
-Kanalfernauge zuzüglich Gebühren nach Ziffer 5.
-
-32,71
-
-Betriebs-PKW zuzüglich Gebühren nach Ziffer 5.
-
-3,96
-
-Notstromaggregat zuzüglich Gebühren nach Ziffer 5.
-
-3,42
-
-Fahrzeug für Probenehmer je angefangenem Kilometer zuzüglich zu 3,63 Ziffer 3.1 bis 3.6 und 5.
-Personalkosten als Zeitaufwandsgebühr je angefangene Stunde
-
-Gewerbliche Beschäftigte Technik
-
-39,83
-
-Gewerbliche Beschäftigte Vermessung
-
-39,37
-
-Gewerbliche Beschäftigte Probenehmer
-
-36,74
-
-Beschäftigte EG6 bis EG7
-
-41,02
-
-/ 20
-
-5.5
-
-Beschäftigte EG8 bis EG9
-
-50,31
-
-5.6
-
-Beschäftigte EG10 bis EG11
-
-60,47
-
-5.7
-
-Beschäftigte EG12 bis EG13
-
-72,19
-
-5.8
-
-Beschäftigte EG14 bis EG15
-
-147,59
-
-6.
-
-Wasserverbrauch (über Hydrant) je m³
-
-1,00
-
-7.
-
-Kanalanschlussschein mit Zustimmung und Abnahme
-
-380,53
-
-Dieser Gebührentarif ist Bestandteil der Abwassergebührensatzung vom 29.11.2018.
+mit Wasser ganz oder teilweise mischbar und biologisch abbaubar entspr. spez. Festlegung, jedoch auf keinen Fall höher als der Löslichkeitswert oder als mit Wasser nicht mischbar physikalische Abscheidung
+Wasserdampfflüchtige halogenfreie Phenole (als C6H5OH)
+Kohlenwasserstoff-Index
+
+10 g/l TOC
+100 mg/l 100 mg/l
+
+Aerobe biologische Abbaubarkeit 75 % DOC in 24 Stunden
+
+Nitrifikationshemmung ≤ 20 % im Verdünnungsverhältnis maximal Indirekteinleiterabfluss zu Kläranlagentrockenwetterzufluss
+Am Ablauf von Abwasservorbehandlungs- und Abscheideranlagen und an der Übergabestelle zur öffentlichen Abwasseranlage bzw. – wenn diese nicht zugänglich ist – an einer vergleichbar geeigneten Probenahmestelle
+
+2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 2.10
+
+Schwerflüchtige Lipophile Stoffe Kohlenwasserstoff-Index Arsen gesamt (As) Blei gesamt (Pb) Cadmium gesamt (Cd) Chrom gesamt (Cr) Chrom VI-wertig (Chromat) (als Cr) Kupfer gesamt (Cu) Nickel gesamt (Ni) Quecksilber gesamt (Hg)
+
+300 mg/l 20 mg/l 0,5 mg/l 1 mg/l 0,2 mg/l 1 mg/l 0,2 mg/l 1 mg/l 1 mg/l 0,1 mg/l
+
+14
+
+2.11 2.12 2.13 2.13.1 2.13.2
+2.14
+2.15 2.16
+
+Silber gesamt (Ag)
+Zink gesamt (Zn)
+Halogenierte leichtflüchtige Kohlenwasserstoffe
+je Einzelstoff
+Summe aus 1,1,1 Trichlorethan, Trichlorethen, Tetrachlorethen, Dichlormethan, Trichlormethan etc. (als Chlor) (Cl) Adsorbierbare organische Halogenverbindungen (AOX) freies Chlor (Cl)
+Schwefelwasserstoff (Gasraum) (v/v)
+
+1 mg/l 3 mg/l
+0,5 mg/l 0,5 mg/l
+1 mg/l 0,5 mg/l
+4 ppm
+
+(5) Für die Einhaltung der Grenzwerte und sonstiger Begrenzungen ist - ausgenommen für Absatz 4 Ziffer 2 Nr. 2.16 - die nicht abgesetzte homogenisierte Probe maßgebend. In der Regel wird mindestens eine qualifizierte Stichprobe entnommen. Ist dies technisch nicht möglich oder analytisch nicht zulässig, so gelten die Grenzwerte auch für die Stichprobe. Die Untersuchungen erfolgen nach den Probenahme- und Analyseverfahren der Anlage 1 dieser Abwassersatzung.
+(6) Zum Schutz der öffentlichen Abwasseranlage, aus Gründen des Gewässerschutzes oder einer störungsfreien Klärschlammbehandlung und – entsorgung können für die einzuleitenden Abwasserinhaltsstoffe neben den Grenzwerten nach Absatz 4 auch Frachtbegrenzungen festgesetzt werden.
+(7) Eine Verdünnung des Abwassers zur Einhaltung der Grenzwerte ist unzulässig.
+(8) Abwasser, das bei haushaltsüblichem Gebrauch anfällt, darf ohne Vorbehandlung in die öffentliche Abwasseranlage eingeleitet werden.
+Über die zulässige Einleitung von in Absatz 4 nicht aufgeführten Stoffen entscheidet das Kommunalunternehmen im Einzelfall. Ausnahmen von den Einleitungsverboten in Absatz 2 Nr. 7, 8 und 14 sowie von den Einleitungswerten nach Absatz 4 können auf Antrag genehmigt werden, wenn dies für den Betrieb der öffentlichen Abwasseranlage unbedenklich ist sowie eine Gefährdung des Vorfluters und eine Beeinträchtigung der Klärschlammbehandlung und – entsorgung nicht zu befürchten ist. Die Unbedenklichkeit muss vom Einleiter nachgewiesen werden. Die Genehmigungen werden nur auf jederzeitigen Widerruf erteilt und können mit Nebenbestimmungen versehen werden.
+
+13
+
+(9) Das Kommunalunternehmen kann die notwendigen Maßnahmen ergreifen, um - die Einleitung und das Einbringen gem. Absatz 2 Ziffer 1 bis 22 zu verhindern - die Einleitung von Abwasser zu verhindern, das die Grenzwerte nach Absatz 4 nicht einhält.
+(10) Einleitungen von Abwässern in die öffentliche Abwasseranlage an den der Einleitungsstellen des Kommunalunternehmens auf dem Gelände des Großklärwerkes Köln-Stammheim sind nur zulässig für:
+1. Abwässer aus haushaltsüblichem Gebrauch, 2. Abwässer aus Hebeanlagen, Sickerschächten und Rohrverstopfungen, 3. Endreinigungen aus abflusslosen Gruben und Kleinkläranlagen anlässlich
+des Anschlusses an die öffentliche Abwasseranlage, 4. Mietchemietoiletten aus dem Stadtgebiet Kölns; der Nachweis der
+verwendeten Zusätze ist mit der schriftlichen Anmeldung zu erbringen, 5. Abwässer aus abflusslosen Gruben und Kleinkläranlagen von
+Kleingartenanlagen, die nicht den Vorschriften der Schmutzwassergrubensatzung unterliegen.
+Die örtlich zuständige Einleitungsstelle wird durch das Kommunalunternehmen bestimmt. Einleitungen bedürfen mindestens zwei Werktage vorab einer schriftlichen Anmeldung und Deklaration der Anlieferung. Ausnahmen hiervon sind nur in besonderen Fällen möglich. Sie dürfen nur innerhalb der vorgesehenen Öffnungszeiten erfolgen. Den Anweisungen des Betriebspersonals ist Folge zu leisten. Zwischen den eingesetzten Transportfahrzeugen und der Einleitungsstelle ist eine geschlossene Verbindung nach Weisungen des Betriebspersonals der Einleitungsstelle herzustellen. Sofern Gefährdungen oder Beeinträchtigungen für den Betrieb der öffentlichen Abwasseranlage sowie eine Gefährdung des Vorfluters oder eine Beeinträchtigung der Klärschlammbehandlung und –entsorgung zu befürchten sind, kann die Einleitung untersagt werden.
+(11) Abwässer, welche nicht unter Absatz 10 genannt wurden, sowie nicht haushaltsübliche Abwässer aus Gewerbe- und Industriebetrieben oder vergleichbaren Einrichtungen, sind von der Einleitung in die öffentliche Abwasseranlage an der Einleitungsstelle des
+14
+
+Kommunalunternehmens auf dem Gelände des Großklärwerkes KölnStammheim ausgeschlossen. Über Ausnahmen entscheidet das
+15
+
+Kommunalunternehmen im Einzelfall.
+(12) Ist im Hinblick auf mögliche Störfälle der Anfall problematischer Abwässer, wie z.B. kontaminiertes Löschwasser, nicht auszuschließen, so kann das Kommunalunternehmen vorsorglich verlangen, dass solche Abwässer gespeichert und / oder Absperrgeräte bereitgehalten werden.
+(13) Abwasser aus der Fassaden- oder Mauerreinigung/-behandlung und Abwasser, das beim Entfernen von Graffitis entsteht, bedarf vor Beginn der Einleitung der Zustimmung durch das Kommunalunternehmen. Ein schriftlicher Antrag ist vom Einleiter mindestens 6 Werktage vor Beginn der Einleitung zu stellen.
+Für die Beseitigung von Graffitis kann das Kommunalunternehmen abweichend zu § 5 Absatz 13 Satz 2 Unternehmen eine generelle Zustimmung für bestimmte Reinigungsarten, bei denen Abwasser anfällt, erteilen.
+§6
+Anschlusszwang
+(1) Jeder Anschlussberechtigte ist verpflichtet, das gesamte auf seinemGrundstück anfallende Abwasser nach Maßgabe dieser Satzung im Rahmen seines Anschlussrechtes durch eine unterirdische Anschlussleitung in die bestehende öffentliche Abwasseranlage einzuleiten, 1. wenn das Grundstück mit Gebäuden für den dauernden oder vorübergehenden Aufenthalt von Menschen oder für gewerbliche Zwecke bebaut ist oder wenn mit einer solchen Bebauung begonnen worden ist; 2. wenn das Grundstück so hergerichtet oder genutzt wird, dass sich Abwasser sammelt, das a) den Untergrund verunreinigt oder b) Belästigungen oder Feuchtigkeitserscheinungenauf Nachbargrundstücken hervorruft oder c) über öffentliche Verkehrsflächen abläuft; 3. wenn ein sonstiges dringendes öffentliches Interesse dies erfordert. Die Verpflichtung besteht für solche Grundstücke, die unmittelbar an eine Straße oder ein Grundstück grenzen oder einen vertraglich, durch Grunddienstbarkeit, Notwegerecht oder durch Baulast gemäß § 83 BauO NW gesicherten Zugang zu einer Straße oder einem Grundstück haben,in
+16
+
+der bereits eine betriebsfertige und aufnahmefähige öffentliche Abwasseranlage vorhanden ist. Es besteht kein Anschlusszwang für Niederschlagswasser nach § 48 LWG, wenn das Kommunalunternehmen den Nutzungsberechtigten des Grundstückes von der Überlassungspflicht nach § 49 Absatz 4 LWG befreit hat. Ebenfalls besteht kein Anschluss- und Benutzungszwang für Niederschlagswasser, sofern in Gebieten von Bebauungsplänen oder Vorhabenund Erschließungsplänen eine Niederschlagswasserversickerung auf privaten Grundstücken festgesetzt ist. Gaststättenschiffe, Hotelschiffe, Wohnschiffe sowie andere schwimmende Einheiten, die mit Aufenthaltsräumen ausgestattet und für einen längeren Zeitraum an einem bestimmten Liegeplatz festgemacht sind, sind auf Verlangen des Kommunalunternehmens an einen in der Nähe befindlichen öffentlichen Abwasserkanal anzuschließen, wenn der Anschluss zur ordnungsgemäßen Beseitigung des Abwassers erforderlich ist. (2) Eine Einleitung von Abwasser in die öffentliche Abwasseranlage, die nicht über die Anschlussleitung eines Grundstückes erfolgt, ist nicht zulässig. (3) entfällt (4) Alle für den Anschluss in Frage kommenden Grundstücke müssen vom Anschlussberechtigten mit den zur ordnungsgemäßen Entwässerung erforderlichen Anlagen versehen werden. Bei Neu- und Umbauten oder sonstigen Nutzungsänderungen muss der Anschluss an die öffentliche Abwasseranlage vor Ingebrauchnahme der Anlage nach Satz 1 ausgeführt sein.
+17
+
+(5) Ist die unmittelbare Ableitung des Abwassers in die öffentliche Abwasseranlage mit natürlichem Gefälle nicht möglich, hat der Grundstückseigentümer zur ordnungsgemäßen Entwässerung eines Grundstückes auf seine Kosten die erforderlichen Einrichtungen zum Sammeln, Fördern und Fortleiten des Abwassers auf seinem Grundstück nach den Vorgaben des Kommunalunternehmens herzustellen, zu betreiben, instand zu setzen und gegebenenfalls zu ändern oder zu erneuern. Ihm obliegt auch die Herstellung der Abwasserleitungen zwischen diesen Einrichtungen.
+(6) Werden an Straßen, in denen noch keine öffentliche Abwasseranlage vorhanden ist, Neubauten errichtet oder sonstige Nutzungen nach Absatz 1 vorgenommen, sollen Anlagen für einen späteren Anschluss vorbereitet werden. Das gleiche gilt, wenn auf Grundstücken vorhandene Entwässerungsanlagen geändert oder neu angelegt werden.
+(7) Wird die öffentliche Abwasseranlage nachträglich hergestellt, ist das Grundstück unter den Voraussetzungen des Absatzes 1 nach Aufforderung durch das Kommunalunternehmen anzuschließen.
+(8) Wird die öffentliche Abwasseranlage in einer Straße nachträglich für die zusätzliche Ableitung von Schmutz- oder Niederschlagswasser eingerichtet, gilt Absatz 7 entsprechend.
+(9) Das Kommunalunternehmen kann nach Maßgabe dieser Satzung den Anschluss zur Ableitung von Abwasser von Grundstücken in die öffentliche Abwasseranlage fordern und durchsetzen.
+§7
+Benutzungszwang
+(1) Der Anschlussberechtigte ist verpflichtet, im Rahmen seines Benutzungsrechtes das gesamte auf seinem angeschlossenen Grundstück anfallende Abwasser nach Maßgabe dieser Satzung durch eine Anschlussleitung in die öffentliche Abwasseranlage einzuleiten. Der Benutzungszwang gilt auch für alle Personen, die ein angeschlossenes Grundstück nutzen. Das Kommunalunternehmen kann nach Maßgabe dieser Satzung die Benutzung des nach § 6 vorgeschriebenen Anschlusses zur Ableitung von Abwasser von Grundstücken in die öffentliche Abwasseranlage fordern und durchsetzen. 18
+
+(2) Werden Gaststättenschiffe, Hotelschiffe, Wohnschiffe sowie andere schwimmende Einheiten, die mit Aufenthaltsräumen ausgestattet sind, gemäß § 6 Absatz 1 an die öffentliche Abwasseranlage angeschlossen, ist der Anschlussnehmer verpflichtet, das gesamte anfallende Schmutzwasser in die öffentliche Abwasseranlage einzuleiten.
+§8 Befreiung von Anschluss- und Benutzungszwang
+(1) Der Anschlussberechtigte kann vom Kommunalunternehmen auf Antrag vom Anschluss- und Benutzungszwang zur Einleitung in die öffentliche Abwasseranlage ganz oder teilweise befreit werden, wenn ein besonderes begründetes Interesse an einer anderweitigen Beseitigung oder Verwertung des Abwassers besteht und insbesondere durch eine wasserrechtliche Erlaubnis nachgewiesen werden kann, dass das Wohl der Allgemeinheit nicht entgegensteht. Ein besonders begründetes Interesse im Sinne dieser Satzung liegt nicht vor, wenn die Beseitigung oder Verwertung des Abwassers lediglich der Gebührenersparnis dienen soll.
+(2) Eine Befreiung vom Anschluss- und Benutzungszwang wird nur auf jederzeitigen Widerruf erteilt. Sie kann bei Erteilung mit Nebenbestimmungen versehen werden.
+§9
+Grundstücksentwässerungsanlagen
+(1) Grundstücksentwässerungsanlagen sind vom Anschlussberechtigten nach den allgemein anerkannten Regeln der Technik sowie den bau- und wasserrechtlichen Vorschriften und Bestimmungen dieser Satzung herzustellen, zu erneuern und zu ändern. Druckentwässerungsanlagen von Grundstücken dürfen nur über eine ausreichend lange Beruhigungsstrecke (Freispiegelleitung) angeschlossen werden. Der Anschluss hat in Fließrichtung und in einem Anschlusswinkel von 30 - 45 Grad zu erfolgen. Grundstücksentwässerungsanlagen sind vom Anschlussberechtigten ordnungsgemäß zu betreiben und zu unterhalten.
+(2) Eigentümer von Grundstücken sind verpflichtet, die Bescheinigungen über das Ergebnis der Prüfung des Zustands und der Funktionsfähigkeit der Grundleitungen 19
+
+nach §§ 8,9 der Verordnung zur Selbstüberwachung von Abwasseranlagen – Selbstüberwachungsverordnung Abwasser – SüwVO Abw NRW dem Kommunalunternehmen vorzulegen.
+(3) Werden Schäden an der Grundleitung festgestellt, die eine Ausbesserung oder Erneuerung erforderlich machen, hat der Anschlussberechtigte diese Arbeiten in angemessener Frist auf eigene Kosten auszuführen.
+(4) Der Anschlussberechtigte ist verpflichtet, Grundstücksentwässerungsanlagen im Einvernehmen mit dem Kommunalunternehmen auf seine Kosten anzupassen, wenn Änderungen oder Erweiterungen an der öffentlichen Abwasseranlage das erforderlich machen. Bestehende Grundstücksentwässerungsanlagen sind, sofern sie nicht den veränderten Vorschriften entsprechen, an diese in einer angemessenen Frist anzupassen. Das Kommunalunternehmen legt im Einzelfall fest, in welcher Frist und auf welche Weise die Anpassung erfolgen muss.
+Nicht mehr benutzte Grundstücksentwässerungsanlagen sind nach den wasserund bauordnungsrechtlichen Bestimmungen unverzüglich zu entfernen oder zu verfüllen.
+(5) Hat eine Nichteinhaltung der Begrenzung des Anschluss- und Benutzungsrechtes durch den Anschlussberechtigten oder durch Dritte, deren Handeln ihm zuzurechnen ist, eine Erhöhung der Abwasserabgabe gemäß § 4 Absatz 4 Abwasserabgabengesetz (AbwAG) und/oder einen Wegfall der Ermäßigung gemäß § 9 Absatz 5 AbwAG zur Folge, so ist er ersatzpflichtig.
+(6) Der Anschlussberechtigte hat das Kommunalunternehmen von Ersatzansprüchen freizustellen, die Dritte gegen das Kommunalunternehmen aufgrund von Schäden und Nachteilen geltend machen, die der Anschlussberechtigte selbst verursacht und zu vertreten hat.
+(7) Aus Sandfängen, Abscheideranlagen usw. sind die abgeschiedenen Stoffe rechtzeitig und ordnungsgemäß zu beseitigen. Sie dürfen dem öffentlichen Sammelkanal nicht zugeführt werden.
+20
+
+§ 10
+Druckentwässerungssysteme
+(1) Sofern das Kommunalunternehmen für die Entwässerung mehrerer Grundstücke ein Druckentwässerungssystem betreibt, sind die Grundstückseigentümer nach den Vorgaben des Kommunalunternehmens auf ihre Kosten zur Herstellung, Unterhaltung, Veränderung und Sanierung der erforderlichen Anlagen einschließlich der Abwasserleitungen bis zur öffentlichen Abwasseranlage verpflichtet. Leitungen und Schächte dürfen nicht überbaut werden.
+(2) Der Grundstückseigentümer ist verpflichtet, mit einem geeigneten Fachunternehmer einen Wartungsvertrag abzuschließen, der eine Wartung der Druckentwässerungsanlage entsprechend den Vorgaben des Herstellers und des Kommunalunternehmens sicherstellt, wenn dies zum sicheren Betrieb des Druckentwässerungssystems erforderlich ist. Der Wartungsvertrag ist dem Kommunalunternehmen bis zur Gebrauchsabnahme des Anschlusses an die öffentliche Abwasseranlage vorzulegen. Für bereits bestehende Druckentwässerungsanlagen ist der Wartungsvertrag innerhalb von 6 Monaten nach Inkrafttreten dieser Satzung vorzulegen. Die Kündigung oder Änderung des Wartungsvertrages ist dem Kommunalunternehmen vorzulegen. Das Kommunalunternehmen kann den Nachweis der durchgeführten Wartungsarbeiten verlangen.
+(3) Das Kommunalunternehmen kann die in Absatz 1 genannten Arbeiten auf Kosten des Anschlussberechtigten selbst ausführen oder durch einen von ihr beauftragten Unternehmer ausführen lassen. In diesem Fall hat der Grundstückseigentümer die Festlegung der Lage der Druckstation und der Druckrohrleitung sowie die Herstellung der zur Sammlung und Förderung dienenden Einrichtungen durch das Kommunalunternehmen auf seinem Grundstück zu dulden.
+(4) Mängel an den Einrichtungen zum Sammeln und zur Förderung der Abwässer sind dem Kommunalunternehmen unverzüglich mitzuteilen.
+(5) Dem Druckentwässerungssystem darf ausschließlich Schmutzwasser zugeleitet werden. 21
+
+§ 11
+Außerbetriebnahme von örtlichen Abwasserbeseitigungsanlagen
+Nach Anschluss des Grundstückes an die öffentliche Abwasseranlage hat der Anschlussberechtigte alle bestehenden Einrichtungen der örtlichen Abwasserbeseitigungsanlage, soweit sie nicht Bestandteil der neuen Anlage geworden sind oder der örtlichen Niederschlagswasserbeseitigung dienen, nach den wasser- und bauordnungsrechtlichen Bestimmungen außer Betrieb zu setzen und zu beseitigen bzw. nach Reinigung ordnungsgemäß zu verfüllen. Behelfsmäßige Grundstücksentwässerungsanlagen (Kleinkläranlagen, Abortgruben, usw.) dürfen danach nicht mehr auf dem Grundstück hergestellt oder betrieben werden.
+§ 12 entfällt
+§ 13
+Art, Größe und Zahl der Anschlussleitungen
+(1) Jedes Grundstück, für das Anschlusszwang besteht, ist unterirdisch mit einer eigenen Anschlussleitung gesondert und ohne Zusammenhang mit den Nachbargrundstücken an die öffentliche Abwasseranlage anzuschließen. Die Anschlussleitung muss die für die Ableitung der anfallenden Abwassermenge erforderliche Größe, mindestens jedoch 150 mm lichte Weitehaben.
+In Gebieten mit Mischverfahren (§ 2 Ziffer 6) ist für jedes Grundstück eine Anschlussleitung, in Gebieten mit Trennverfahren (§ 2 Ziffer 7) je eine Anschlussleitung für Schmutz- und Niederschlagswasser herzustellen. Die Verpflichtung zur Herstellung der Anschlussleitung für Niederschlagswasser entfällt, wenn die Pflicht zur Versickerung auf dem Grundstück oder die Einleitung in ein ortsnahes Gewässer besteht.
+(2) Wird ein Grundstück nach seinem Anschluss in mehrere selbständige Grundstücke geteilt, ist jedes neue Grundstück nach Maßgabe dieser Satzung anzuschließen. Soweit der technische oder wirtschaftliche Aufwand hierfür unangemessen sein sollte und öffentliche Belange nicht entgegenstehen, kann das Kommunalunternehmen von der Bestimmung des 22
+
+Satzes 1 Befreiung gewähren.Das Kommunalunternehmen kann in Ausnahmefällen gestatten, dass mehrere Grundstücke eine gemeinsame Anschlussleitung erhalten, wenn öffentliche Belange nicht entgegenstehen.
+(3) In den Fällen der Absätze 2 und 3 sind die Erhaltungs- und Benutzungsrechte und – pflichten für die gemeinsame Entwässerungsanlage durch Grunddienstbarkeit zugunsten der Grundstücke aller Anschlussberechtigten zu sichern. Die Sicherung ist dem Kommunalunternehmen nachzuweisen. Unabhängig von der gesamtschuldnerischen Verantwortung der übrigen Anschlussberechtigten ist ein Verantwortlicher zu benennen.
+§ 14
+Lage, Ausführung, Unterhaltung und Beseitigung der Anschlussleitungen
+(1) Die Lage und lichte Weite der Anschlussleitung bestimmt das Kommunalunternehmen.
+(2) Die Herstellung, Unterhaltung, Veränderung, Sanierung, Beseitigung, der Verschluss der Anschlussleitung und die Prüfung auf den Zustand und die Funktionsfähigkeit obliegen dem Anschlussberechtigten. Die Lage des Verschlusses bestimmt das Kommunalunternehmen. Ein Neuanschluss und die Wiederverwendung alter Anschlussleitungen sind nur nach vorheriger schriftlicher Zustimmung (Kanalanschlussschein) des Kommunalunternehmens zulässig. Der Anschlussberechtigte hat sicherzustellen, dass Sanierungen an der Anschlussleitung dem Kommunalunternehmen vor Beginn der Arbeiten schriftlich angezeigt werden (Sanierungsanzeige).
+(3) Eigentümer von Grundstücken sind verpflichtet, die Bescheinigungen über das Ergebnis der Prüfung des Zustands und der Funktionsfähigkeit der Anschlussleitungen nach §§ 8, 9 der Verordnung zur Selbstüberwachung von Abwasseranlagen – Selbstüberwachungsverordnung Abwasser – SüwVO Abw NRW dem Kommunalunternehmen vorzulegen.
+(4) Stellt das Kommunalunternehmen Schäden an der Anschlussleitung fest, die eine Ausbesserung oder Erneuerung erforderlich machen, hat der Anschlussberechtigte diese Arbeiten nach Aufforderung durch das Kommunalunternehmen in angemessener Zeit auf eigene Kosten auszuführen. Hat das Kommunalunternehmen Zweifel an der Dichtheit der Anschlussleitung,
+23
+
+so kann es vom Anschlussberechtigten einen Dichtheitsnachweis entsprechend Absatz 3 verlangen. (5) Der Anschlussberechtigte hat dem Kommunalunternehmen gegenüber für die ordnungsgemäße Durchführung der gesamten Anschlussarbeiten einzustehen. Er haftet für alle Schäden, die dem Kommunalunternehmen durch unsachgemäße Ausführung entstehen. Er hat das Kommunalunternehmen von allen Ansprüchen Dritter, die auf nicht ordnungsgemäße Durchführung der Anschlussarbeiten zurückzuführen sind, freizustellen. Die Haftung des Anschlussberechtigten besteht unbeschadet der Haftung des Unternehmers.
+Eine Haftung des Anschlussberechtigten ist nicht gegeben, wenn der Schaden allein auf vorsätzliches oder grob fahrlässiges Verhalten des Kommunalunternehmens bzw. dessen Vertreter oder Beauftragten zurückzuführen ist. Der Nachweis des Verschuldens ist von dem Anschlussberechtigten zu führen.
+(6) Anschlussarbeiten und Sanierungen an der Anschlussstelle des öffentlichen Sammelkanals dürfen nur durch von dem Kommunalunternehmen hierfür besonders zugelassene Unternehmer ausgeführt werden. Zugelassen werden solche Unternehmer, die die Gewähr für eine fachgerechte Ausführung der Arbeiten bieten. Die Zulassung kann mit Nebenbestimmungen und mit einem Widerrufsvorbehalt erteilt werden. Mit der Zulassung übernimmt das Kommunalunternehmen keine Haftung für eine ordnungsgemäße Arbeit der Unternehmer. Für die Zulassung der Unternehmer und die Ausführung von Anschlussleitungen gelten die anliegenden "Bestimmungen für die Ausführung von Anschlussarbeiten an der öffentlichen Abwasseranlage gemäß §§ 14 und 15 der Abwassersatzung des Kommunalunternehmens“ (Anlage 2). Die Bestimmungen sind Bestandteil dieser Satzung.
+§ 15
+Aufwand und Kosten für die Anschlussleitungen und Grundleitungen
+(1) Der Anschlussberechtigte trägt den Aufwand für die Herstellung, Unterhaltung, Sanierung, Beseitigung, den Verschluss und den Dichtheitsnachweis sowie für
+24
+
+eine durch ihn veranlasste Veränderung der Anschlussleitung und der Grundleitung.
+(2) Werden die in Absatz 1 genannten Arbeiten ganz oder teilweise durch das Kommunalunternehmen oder durch einen von ihm beauftragten Unternehmer ausgeführt, hat der Anschlussberechtigte dem Kommunalunternehmen gemäß § 10 des Kommunalabgabengesetz für das Land Nordrhein Westfalen (KAG) den Aufwand in der tatsächlich entstandenen Höhe zu ersetzen. Die Entscheidung, ob und welche Arbeiten von dem Anschlussberechtigten oder von dem Kommunalunternehmen durchzuführen sind, trifft das Kommunalunternehmen. Die Kosten für die Beseitigung von Abflussstörungen in der Anschlussleitung und in der Grundleitung trägt der Anschlussberechtigte.
+(3) Ersatzpflichtig ist, wer im Zeitpunkt der Bekanntgabe des Kostenersatzbescheides Anschlussberechtigter ist. Der Ersatzanspruch entsteht mit der endgültigen Herstellung der Anschlussleitung, im Übrigen mit der Beendigung der Maßnahme. Bei Herstellung der Anschlussleitung entsteht der Ersatzanspruch ohne Rücksicht darauf, ob eine Verbindung mit einer Grundleitung hergestellt ist, sobald Anschlusspflicht besteht. Er wird einen Monat nach Zugang des Bescheides fällig.
+(4) Auf den Ersatzanspruch kann das Kommunalunternehmen vor Ausführung der Arbeiten vom Anschlussberechtigten Vorschüsse in Höhe der voraussichtlichen Aufwendungen und Kosten verlangen.
+(5) Schächte, die bei der Herstellung der Anschlussleitung im öffentlichen Sammelkanal des Kommunalunternehmens eingebaut werden, werden mit der Fertigstellung Bestandteil der öffentlichen Abwasseranlage. Die Kosten der Herstellung gehen zu Lasten des Anschlussberechtigten.
+§ 16
+Betriebsstörungen und Haftung
+(1) Bei Mängeln oder Schäden, die unmittelbar oder mittelbar durch Rückstau infolge von höherer Gewalt wie z. B. Hochwasser, Starkregen, Schneeschmelze, durch Hemmungen im Wasserablauf oder sonstige unvorhersehbare Ereignisse
+25
+
+hervorgerufen werden, hat der Anschlussberechtigte gegen das Kommunalunternehmen keinen Anspruch auf Schadenersatz, Entschädigung oder Minderung der Abwassergebühren.
+(2) Das gleiche gilt bei Mängeln oder Schäden, die durch Betriebsstörungen oder Außerbetriebsetzung der öffentlichen Abwasseranlage entstehen, es sei denn, dass das Kommunalunternehmen bzw. dessen Vertreter oder Beauftragte diese Störungen ohne betriebliche Notwendigkeit vorsätzlich oder grob fahrlässig verursacht haben.
+(3) Der Anschlussberechtigte bzw. Einleiter haftet für schuldhaft verursachte Schäden an der öffentlichen Abwasseranlage, die infolge einer unsachgemäßen oder den Bestimmungen dieser Satzung widersprechenden Benutzung oder eines mangelhaften Zustandes der Grundstücksentwässerungsanlage entstehen; dazu zählen insbesondere auch Kosten, die das Kommunalunternehmen mit Rücksicht auf die Besorgnis aufwendet, dass eine Störung, Gefährdung oder Beeinträchtigung der Abwasserbeseitigung eintreten könnte oder eintritt, sowie für erhöhte betriebliche Aufwendungen bei der Abwasserbeseitigung. Dazu zählen auch alle mit der Ermittlung und Bewertung von Schadstofffrachten (am Entstehungsort und auf dem Transportweg) verbundenen Kosten einschließlich des Versuchs des Kommunalunternehmens zur Entschärfung oder Beseitigung dieser Frachten und der Unterbindung weiterer Schadstoffeinträge.
+(4) Die Anschlussberechtigten bzw. Einleiter haben das Kommunalunternehmen von allen Schadenersatzansprüchen Dritter freizustellen.
+§ 17
+Auskunftspflicht, Abwasseruntersuchungen und Zutritt zu den Grundstücksentwässerungsanlagen
+(1) Der Anschlussberechtigte bzw. Einleiter ist verpflichtet, alle für den Vollzug der Satzung, insbesondere die für die Prüfung der Anschlussleitungen und Grundstücksentwässerungsanlagen auf ihren Zustand und ihre Benutzung sowie für die Berechnung der Abwassergebühren und eventueller Ersatzansprüche erforderlichen Auskünfte zu erteilen.
+26
+
+Insbesondere ist der Anschlussberechtigte bzw. Einleiter verpflichtet, über die Menge, Beschaffenheit und Inhaltsstoffe des in die öffentliche Abwasseranlage eingeleiteten oder einzuleitenden oder sonst in die Abwasseranlage gelangten Abwassers Aufschluss zu geben.
+Vor erstmaligem Einleiten sowie vor einer Änderung der Menge, Beschaffenheit und Inhaltsstoffe des Abwassers, z. B. infolge einer Produktionsumstellung, ist nachzuweisen, dass die Einleitung nicht gegen die Bestimmungen des § 5 verstößt.
+(2) Den Beauftragten des Kommunalunternehmens ist zur Überwachung der Entwässerungsanlagen und zur Prüfung, ob die Vorschriften dieser Satzung befolgt werden, gemäß § 98 Absatz 1 i. V. m. § 124 LWG jederzeit ungehinderter Zugang zu allen Anlageteilen auf den angeschlossenen Grundstücken zu gewähren. Reinigungsöffnungen, Schächte, Rückstauverschlüsse, Hebeanlagen, Messvorrichtungen, Leichtflüssigkeitsabscheider, Abwasserbehandlungsanlagen usw. müssen jederzeit zugänglich sein.
+(3) Die Anordnungen der Beauftragten des Kommunalunternehmens sind zu befolgen. Wird einer Aufforderung nicht innerhalb einer angemessenen Frist entsprochen, ist das Kommunalunternehmen berechtigt, die erforderlichen Maßnahmen auf Kosten des Anschlussberechtigten bzw. Einleiters durchzuführen. Das Kommunalunternehmen kann die Zahlung der voraussichtlichen Kosten im Voraus verlangen.
+(4) Die Beauftragten des Kommunalunternehmens haben sich durch einen vom Kommunalunternehmen ausgestellten Dienstausweis oder eine Vollmacht des Kommunalunternehmens auszuweisen.
+(5) Auf Verlangen des Kommunalunternehmens hat der Anschlussberechtigte bzw. Einleiter einen für die Abwasserleitung Verantwortlichen sowie einen Stellvertreter dem Kommunalunternehmen schriftlich zu benennen. Ein Wechsel dieser Person ist gleichfalls schriftlich anzuzeigen.
+(6) Fällt auf einem Grundstück, das an die öffentliche Abwasseranlage angeschlossen ist, Abwasser an, das anderweitig entsorgt wird, kann das Kommunalunternehmen den Nachweis verlangen, dass dieses Abwasser nach 27
+
+Menge und Beschaffenheit nicht der öffentlichen Abwasseranlage zugeführt wird oder zugeführt werden kann. In Zweifelsfällen hat der Anschlussberechtigte bzw. Einleiter die ordnungsgemäße Entsorgung nachzuweisen. Das gleiche gilt für die bei der Abwasserbehandlung anfallenden Reststoffe.
+(7) Gewerbliches und industrielles Abwasser bedarf der Untersuchung durch das Kommunalunternehmen unabhängig davon, ob eine Genehmigung nach § 5 Absatz 8 erforderlich ist. Daneben können zusätzliche Auflagen über Art und Umfang einer Eigenkontrolle erteilt werden.
+(8) Der Anschlussberechtigte bzw. Einleiter hat auf Verlangen und nach Angaben des Kommunalunternehmens auf eigene Kosten Probenahmestellen (z. B. Schächte) zu erstellen und zu betreiben.
+Das Kommunalunternehmen kann auch den Einbau einer Abwassermengenmesseinrichtung, von automatischen Probenahmegeräten und von automatischen Messgeräten zur Ermittlung der Abwasserbeschaffenheit, z. B. des pH-Wertes, mit Aufzeichnung der Messwerte fordern. Wird von einem Grundstück nicht häusliches und häusliches Abwasser eingeleitet, sind auf Verlangen so viele Abwassermengenmesseinrichtungen einzubauen, wie zur Bestimmung der Mengen nicht häuslichen Abwassers erforderlich sind. Die Mess, Registrier- und Probenahmeeinrichtungen sind jederzeit in funktionsfähigem Zustand zu halten. Die erforderlichen Wartungs- und Betriebstagebücher, Diagrammstreifen und sonstigen Messaufzeichnungen sind mindestens drei Jahre aufzubewahren und nach Aufforderung dem Kommunalunternehmen vorzulegen.
+(9) Das Kommunalunternehmen bestimmt Häufigkeit und Umfang der Untersuchungen sowie die Stellen zur Entnahme von Proben und die Art der Probenahme. Wenn es zur Beurteilung der Abwasserbeschaffenheit erforderlich ist, kann das Kommunalunternehmen auch über die in § 5 Absatz 4 aufgeführten Stoffe hinaus Abwasserinhaltsstoffe untersuchen. Das Kommunalunternehmen stellt die Untersuchungsergebnisse zur Verfügung. Die Untersuchung der Abwasserinhaltsstoffe, auch bei Eigenkontrolle, erfolgt nach den allgemein anerkannten Regeln der Technik.
+28
+
+(10) Das Kommunalunternehmen ist darüber hinaus jederzeit berechtigt, auf den angeschlossenen Grundstücken Gasmessungen durchzuführen sowie Abwasserproben zu nehmen und das Abwasser zu untersuchen. Der Anschlussberechtigte bzw. Einleiter ist verpflichtet, auf Verlangen des Kommunalunternehmens die Probenahme durch eigene Mitarbeiter zu unterstützen.
+(11) Die Kosten aller Untersuchungen sind vom Anschlussberechtigten bzw. Einleiter nach Maßgabe der Abwassergebührensatzung zu tragen.
+§ 18
+Anzeigepflichten
+(1) Der Anschlussberechtigte oder sonstige zur Nutzung des Grundstückes Berechtigte haben dem Kommunalunternehmen unverzüglich schriftlich mitzuteilen, wenn: 1. Anschlussleitungen hergestellt, verschlossen oder beseitigt, saniert oder verändert werden müssen; 2. der vollständige Anschluss bzw. Teilanschluss des Grundstückes hergestellt, verändert, verschlossen oder beseitigt wurde; 3. erstmalig von einem Grundstück Abwasser in die öffentliche Abwasseranlage eingeleitet wird oder, wenn Änderungen in der Beschaffenheit, den Inhaltsstoffen, der Menge und dem zeitlichen Anfall des Abwassers eintreten; 4. Stoffe im Sinne von § 5 Absatz 1 und 2 in die öffentliche Abwasseranlage gelangen oder damit zu rechnen ist; 5. Störungen beim Betrieb von Abwasserbehandlungsanlagen sowie Vorkommnisse, die die Beschaffenheit des Abwassers verändern oder verändern können, auftreten; 6. die Voraussetzungen für den Anschlusszwang (§ 6 Absatz 1) entfallen; 7. Mängel an der Anschlussleitung auftreten; 8. Grundstücksentwässerungsanlagen beschädigt werden, nicht mehr funktionsfähig oder nicht mehr wasserdicht sind; 9. Grundstücksentwässerungseinrichtungen nicht mehr genutzt werden;
+10. Grundstücksentwässerungseinrichtungen den veränderten Vorschriften anzupassen sind (§ 9 Absatz 4); 29
+
+11. der Abbruch von Aufbauten eines mit einem Kanalanschluss versehenen Grundstückes vorgesehen ist und wegen dieser Arbeiten der Verschluss oder die Beseitigung der Anschlussleitung erforderlich wird;
+12. bei Eigenkontrollen höhere als bei der Zulassung zur Benutzung zugrunde gelegte Werte betreffend Beschaffenheit, Inhaltsstoffe oder Menge des Abwassers festgestellt wurden;
+13. gefährliche Stoffe eingeleitet worden sind oder werden sollen bzw. auf sonstige Art in die öffentliche Abwasseranlage gelangt sind oder zu gelangen drohen;
+14. Verträge zur Wartung von Druckentwässerungsanlagen geändert oder gekündigt werden;
+15. Mängel an den Einrichtungen zum Sammeln und zur Förderung der Abwässer (§ 10) vorliegen.
+(2) In Fällen besonderer Dringlichkeit, z. B. bei Schadens-, Stör- und Katastrophenfällen, hat die Anzeige sofort fernmündlich gegenüber dem Kommunalunternehmen zu erfolgen und ist schriftlich zu bestätigen.
+§ 19
+Ausnahmen, zusätzliche Anordnungen, Nebenbestimmungen und Erklärungen
+(1) Das Kommunalunternehmen kann von den Vorschriften dieser Satzung Ausnahmen zulassen. Ausnahmen werden nur zugelassen, wenn die Abweichung von den Vorschriften der Satzung mit dem öffentlichen Interesse und den gesetzlichen Bestimmungen vereinbar ist, die Betriebssicherheit, die ordnungsgemäße Ableitung, Behandlung und Beseitigung des Abwassers nicht beeinträchtigt wird und die Anwendung der Vorschriften der Satzung im Einzelfall zu einer nicht beabsichtigten Härte führen würde. Ausnahmen können widerruflich und mit Nebenbestimmungen erteilt werden.
+(2) Das Kommunalunternehmen kann im Einzelfall über die Vorschriften dieser Satzung hinausgehende Anordnungen treffen, wenn dies zur betriebssicheren und ordnungsgemäßen Ableitung, Behandlung und Beseitigung des Abwassers einschließlich fester, bei der Abwasserbeseitigung anfallender Rückstände sowie Schlämme und zum Schutz, zum Betrieb und/oder zur Unterhaltung der öffentlichen Abwasseranlage erforderlich ist. 30
+
+(3) Ausnahmen, Zustimmungen, Befreiungen sowie zusätzliche Anordnungen, Erklärungen und Vereinbarungen bedürfen zu ihrer Wirksamkeit der Schriftform. Ausnahmen, Zustimmungen und Befreiungen können versagt und/oder bei Erteilung mit Nebenbestimmungen versehen werden.
+(4) Bei Gefahr im Verzuge können sofort notwendige Anordnungen im Einzelfall auch mündlich getroffen werden. Sie sind auf Verlangen schriftlich zu bestätigen.
+§ 20
+Ordnungswidrigkeiten
+(1) Ordnungswidrig im Sinne des § 161a LWG und des Gesetzes über Ordnungswidrigkeiten Ordnungswidrigkeitengesetzes (OWiG) handelt, wer vorsätzlich oder fahrlässig entgegen: 1. § 4 Absatz 3 und 6 In nach dem Trennverfahren entwässerten Gebieten Schmutzwasser und Niederschlagswasser nicht in den jeweils hierfür bestimmten Kanal einleitet. 2. § 5 Absatz 1 und 2 Abwasser oder Stoffe in die öffentliche Abwasseranlage einleitet, deren Einleitung ausgeschlossen ist. 3. § 5 Absatz 3, 4 und 7 Abwasser über die zugelassene Menge hinaus einleitet oder bei der Beschaffenheit und den Inhaltsstoffen des Abwassers die Grenzwerte oder Frachtbegrenzungen nicht einhält oder das Abwasser zur Einhaltung der Grenzwerte verdünnt. 4. § 5 Absatz 10 Abwässer aus Hebeanlagen, Sickerschächten oder Rohrverstopfungen, Endreinigungen aus abflusslosen Gruben oder Kleinkläranlagen, Mietchemietoiletten aus dem Stadtgebiet von Köln oder Abwässer aus abflusslosen Gruben oder Kleinkläranlagen von Kleingartenanlagen, die nicht den Vorschriften der Schmutzwassergrubensatzung unterliegen, außerhalb der Einleitungsstelle des Kommunalunternehmens im Klärwerk in die öffentliche Abwasseranlage einleitet.
+31
+
+4a. § 5 Absatz 13 Abwässer aus der Fassaden- und Mauerreinigung/- behandlung und Abwässer, das beim Entfernen von Graffitis entstehen, ohne die Zustimmung des Kommunalunternehmens einleitet.
+5. § 6 Absatz 1 und 7 Das gesamte auf seinem Grundstück anfallende Abwasser nicht innerhalb der von dem Kommunalunternehmen festgelegten Frist durch eine Anschlussleitung in die öffentliche Abwasseranlage einleitet.
+6. § 7 Absatz 1 und 2 Das Abwasser nicht in die öffentliche Abwasseranlage einleitet.
+7. § 8 Absatz 2 Die Nebenbestimmungen, die im Zusammenhang mit einer Befreiung auferlegt wurden, nicht befolgt bzw. einhält.
+8. § 9 Absatz 1, 3, 4, 7 Grundstückentwässerungsanlagen nicht ordnungsgemäß betreibt, anpasst oder unterhält.
+9. § 10 Absatz 1 Die erforderlichen Einrichtungen zum Sammeln und zur Förderung des Abwassers auf seinem Grundstück nicht nach den Vorgaben des Kommunalunternehmens herstellt, betreibt, instandsetzt, ändert, erneuert bzw. duldet.
+10. § 10 Absatz 1, 3 und 4 Leitungen und Schächte überbaut und Mängel an den Einrichtungen nicht unverzüglich anzeigt oder der Druckentwässerungsanlage nicht ausschließlich Schmutzwasser zuleitet.
+11. § 11 Behelfsmäßige Grundstücksentwässerungsanlagen herstellt oder betreibt.
+12. § 13 Absatz 1 Jedes Grundstück nicht unterirdisch mit einer eigenen Anschlussleitung gesondert anschließt bzw. bei Gebieten mit Trennverfahren nicht mit je einer Anschlussleitung für Schmutz- und Niederschlagswasser anschließt.
+13. § 13 Absatz 2 Nach Teilung eines Grundstückes in mehrere selbständige Grundstücke nicht jedes Grundstück einzeln an die öffentliche Kanalisation anschließt.
+32
+
+14. § 14 Absatz 2 und 6 Neuanschlüsse und die Wiederverwendung alter Anschlussleitungen ohne vorherige schriftliche Zustimmung des Kommunalunternehmens oder sonstige Sanierungen an der Anschlussstelle des öffentlichen Sammelkanals ohne Sanierungsanzeige oder nicht durch von dem Kommunalunternehmen hierfür besonders zugelassene Unternehmer durchführen lässt oder Beseitigungen oder Verschluss der Anschlussleitung nicht ordnungsgemäß durchführt.
+15. § 17 Absatz 1, 6 und 7 Die für die Prüfung der Anschlussleitungen und der Grundstücksentwässerungsanlagen erforderlichen Auskünfte, Aufschlüsse, Nachweise sowie Untersuchungen durch das Kommunalunternehmen verweigert.
+16. § 17 Absatz 2, 3 und 5 Den Beauftragten des Kommunalunternehmens den ungehinderten Zutritt verweigert, die Zugänglichkeit zu den Anlageteilen nicht jederzeit sicherstellt, die Anordnungen des Beauftragten des Kommunalunternehmens nicht befolgt und einen für die Abwassereinleitung Verantwortlichen, dessen Stellvertreter sowie den Wechsel dieser Personen nicht schriftlich benennt.
+17. § 17 Absatz 8 Von dem Kommunalunternehmen geforderte Probenahmestellen und Messund Probenahmevorrichtungen nicht erstellt und betreibt und die Messergebnisse nicht mindestens drei Jahre aufbewahrt und nach Aufforderung des Kommunalunternehmens vorlegt.
+18. § 18 Als Anschlussberechtigter oder sonstiger zur Nutzung des Grundstücks Berechtigter seine Anzeigepflichten nicht unverzüglich wahrnimmt oder unrichtige Angaben macht.
+19. § 24 Die Anpassung an die Einleitungs- und Grenzwerte des § 5 nicht fristgerecht vornimmt.
+20. § 9 Absatz 2, oder § 14 Absatz 3, 6 Nach Aufforderung das Ergebnis der Prüfung des Zustands und der Funktionsfähigkeit nicht vorlegt.
+33
+
+(2) Ordnungswidrig handelt auch, wer unbefugt Arbeiten an der öffentlichen Abwasseranlage vornimmt, Schachtabdeckungen oder Einlaufroste öffnet, Schieber bedient oder in einen öffentlichen Kanal einsteigt.
+(3) Ordnungswidrigkeiten nach diesen Bestimmungen können aufgrund § 161a LWG in Verbindung mit § 17 OWiG mit Geldbußen bis zu 1.000,00 EURO geahndet werden.
+§ 21
+Gebühren
+Für die Inanspruchnahme der öffentlichen Abwasseranlage und für besondere sowie sonstige Leistungen des Kommunalunternehmens werden Gebühren nach der Satzung über die Erhebung von Gebühren für die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage sowie für die Entsorgung von Schmutzwassergruben – Abwassergebührensatzung – in der jeweils gültigen Fassung erhoben.
+§ 22 Gesamtschuldnerschaft (1) Die Pflichten, die sich aus dieser Satzung für die Benutzung der öffentlichen Abwasseranlage ergeben, gelten für jeden, der 1. berechtigt oder verpflichtet ist, das auf den angeschlossenen Grundstücken anfallende Abwasser abzuleiten (also insbesondere auch Eigentümer, Pächter, Mieter, Untermieter etc.) oder 2. der öffentlichen Abwasseranlage tatsächlich Abwasser zuführt.
+(2) Mehrere Verpflichtete haften als Gesamtschuldner.
+§ 23
+entfällt
+34
+
+§ 24 Übergangsregelung (1) Bisher zulässige Einleitungen in die öffentliche Abwasseranlage, die bei Inkrafttreten dieser Satzung nicht den nach § 5 zulässigen Einleitungs- und Grenzwerten entsprechen, hat der Anschlussberechtigte bzw. Einleiter innerhalb von sechs Monaten nach Inkrafttreten dieser Satzung den Regelungen des § 5 anzupassen. Die für die Genehmigung nach § 5 geltenden Bestimmungen gelten für die Anpassung entsprechend. (2) Kann die Frist aus technischen oder wirtschaftlichen Gründen nicht eingehalten werden, kann diese Frist auf Antrag des Anschlussberechtigten bzw. Einleiters angemessen verlängert werden. Der Antrag ist innerhalb von zwei Monaten nach Inkrafttreten dieser Satzung zu stellen.
+§ 25 Inkrafttreten Die Änderungen der Satzung treten am Tag nach der Bekanntmachung im Amtsblatt der Stadt Köln in Kraft.
+35
+
+Anlage 1 zu § 5 Absatz 5 - Verfahren zur Überwachung der Grenzwerte - zur Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die Entwässerung der Grundstücke, die Abwasserbeseitigung und den Anschluss an die öffentliche Abwasseranlage
+- Abwassersatzung - vom 03. Dezember 2010 und vom 22. Februar 2019
+
+Allgemeine Verfahren
+
+Verfahren
+
+Anleitung zur Erstellung von DIN EN ISO 5667-1 Probenahmeprogrammen und Probenahmetechniken
+
+Ausgabe April 2007
+
+Parameter TTC-Test
+Temperatur pH-Wert Absetzbare Stoffe
+Stickstoff aus Ammonium und Ammoniak Stickstoff aus Nitrit Cyanid, gesamt Cyanid, leicht freisetzbar Fluorid, gelöst Sulfat Sulfid, leicht freisetzbar
+Phosphor, gesamt
+
+Verfahren DIN 38412-3 DIN 38404-4 DIN EN ISO 10523 DIN 38409-9 DIN 38406-5
+DIN EN 26777 DIN 38405-13 A. 2.1 DIN 38405-13 A. 2.2 DIN 38405- 4 DIN 10304-1 DIN 38405-27 DIN EN ISO 6878
+
+Ausgabe Oktober 2010 Dezember 1976 April 2012 Juli 1980 Oktober 1983 Mai 2005
+April 1993 Februar 1981 Februar 1981 Juli 1985 Juli 2009 Juli 1992 September 2004
+
+Organische halogenfreie Lösemittel
+Phenolindex, wasserdampfflüchtig Kohlenwasserstoffindex Aerobe biologische Abbaubarkeit Nitrifikationshemmung Schwerflüchtige lipophile Stoffe
+
+gaschromatografisch,
+z. B. analog DIN 38407-43 Oktober 2014 Teil 1 Sofern die Stoffe bekannt sind: Bestimmung als TOC nach DIN August 1997 EN ISO 1484
+
+DIN 38409 16-2
+
+Juni 1984
+
+DIN EN ISO 9377-2 DIN EN ISO 9888
+
+Juli 2001 November 1999
+
+DIN EN ISO 9509 DIN 38409
+
+Oktober 2006 Juni 2009
+
+35
+
+Parameter Arsen
+Blei
+Cadmium
+Chrom Chrom VI Kupfer
+Nickel
+Quecksilber
+
+Verfahren
+DIN EN ISO 11969 DIN EN ISO 11885
+DIN 38406-6 DIN EN ISO 11885
+DIN EN ISO 5961 DIN EN ISO 11885
+DIN EN 1233 DIN EN ISO 11885
+DIN 38405-24
+DIN 38406-7 DIN EN ISO 11885
+DIN 38406-11 DIN EN ISO 11885
+DIN EN 1483 DIN EN ISO 12846
+
+Silber
+
+DIN EN ISO 15586 DIN EN ISO 11885
+
+Zink
+
+DIN 38406-8
+
+DIN EN ISO 11885
+
+Adsorbierbare organisch DIN EN ISO 9562 gebundene Halogene (AOX)
+
+Leichtflüchtige halogenierte DIN EN ISO 10301 Kohlenwasserstoffe (LHKW) DIN EN ISO 38407 43
+
+Ausgabe November 1996 September 2009
+Juli 1998 September 2009
+Mai 1995 September 2009
+August 1996 September 2009
+Mai 1987
+September 1991 September 2009
+September 1991 September 2009
+Juli 2007 August 2012
+Februar 2004 September 2009
+Oktober 2004 September 2009
+Februar 2005
+August 1997 Oktober 2014
+
+Freies Chlor Schwefelwasserstoff (Gas)
+
+DIN EN ISO 7393-1
+Messung in der Gasphase mittels Gasmessgerät (Odalog)
+
+April 2000 -
+
+36
+
+Anlage 2 zu § 14 Absatz 6 - Bestimmungen für die Ausführung von Anschlussarbeiten an der öffentlichen Abwasseranlage – zur Satzung des Kommunalunternehmens Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts über die
+Entwässerung der Grundstücke, die Abwasserbeseitigung und den Anschluss an die öffentliche Abwasseranlage - Abwassersatzung - vom 03.12.2010
+1. Zulassung
+1.1 Berechtigt zur Ausführung der Anschlussarbeiten und Sanierung an der Anschlussstelle zum öffentlichen Sammelkanal sind nur Unternehmer, die von dem Kommunalunternehmen besonders hierfür zugelassen sind.
+1.2 Voraussetzungen für die Zulassung sind:
+a) die schriftliche Anerkennung dieser Bestimmungen durch den Unternehmer,
+b) eine Sicherheitsleistung in Höhe von 10.000,00 EURO, die durch eine selbstschuldnerische Bürgschaft einer deutschen Bank, oder Sparkasse oder Versicherung erbracht werden kann,
+c) und der Nachweis einer Haftpflichtversicherung von 500.000,00 EURO für Personen- und 50.000,00 EURO für Sachschäden; das Kommunalunternehmen kann im Einzelfall aus begründetem Anlass die Beibringung zusätzlicher Sicherheiten fordern,
+d) der Nachweis des Unternehmers über ordnungsgemäß ausgeführte gleichwertige Kanalbauarbeiten; der Nachweis gilt als erbracht, wenn Gütesicherung RAL GZ 961 oder vergleichbares Zertifikat vorliegt,
+f) Benennung der Verantwortlichen für die Leistung und Aufsicht der Arbeit.
+1.3 Die Zulassung wird auf die Dauer von zwei Jahren befristet und kann verlängert werden.
+Die Zulassung kann widerrufen werden, wenn
+a) eine der in 1.2 genannten Zahlungsvoraussetzungen bei der Zulassung nicht vorgelegen hat oder nachträglich entfallen ist,
+b) schwerwiegend oder wiederholt unfachgemäß gearbeitet worden ist,
+c) gegen diese Bestimmungen verstoßen worden ist,
+d) der Unternehmer seine Zahlungen eingestellt hat oder ein Antrag auf Eröffnung des Insolvenzverfahrens über sein Vermögen gestellt worden ist.
+Der Widerruf der Zulassung wird, falls kein schwerwiegender Verstoß vorliegt, 37
+
+vorher angedroht. Bei Widerruf hat der Unternehmer bereits begonnene Arbeiten unverzüglich fertig zu stellen; neue Arbeiten dürfen nicht mehr begonnen werden.
+1.4 Verzichtet der Unternehmer gegenüber dem Kommunalunternehmen auf die Zulassung, hat er begonnene Arbeiten unverzüglich fertig zu stellen.
+1.5 Der Unternehmer hat die Verlegung des Sitzes seiner gewerblichen Niederlassung, jeden Wechsel in der Unternehmensleitung oder der Verantwortlichen, eine Veränderung in der Unternehmensform sowie die Bildung von Arbeitsgemeinschaften dem Kommunalunternehmen innerhalb einer Woche schriftlich mitzuteilen.
+2. Besondere Vorschriften
+2.1 Die Ausführung von Anschlussarbeiten muss fachgerecht, nach den anerkannten Regeln der Technik erfolgen und allen einschlägigen Vorschriften entsprechen. Anweisungen des Kommunalunternehmens sind zu beachten.
+Der Unternehmer hat folgende Vorschriften zu beachten:
+a) Technische Anforderung der StEB (siehe www.steb-koeln.de)
+b) Zusätzliche Technischen Vertragsbedingungen und Richtlinien für Aufgrabungen in Verkehrsflächen (siehe www.steb-koeln.de)
+c) Anweisungen zum Schutz unterirdischer Leitungen (siehe www.stebkoeln.de)
+d) Technische Vorgaben des Amtes für Straßen und Verkehrstechnik bei Aufgrabungen im öffentlichen Straßenland
+e) Alle einschlägigen technischen Regelwerke und Vorschriften z. B. DIN, DWA, UVV etc.
+2.2 Der Unternehmer muss vor Beginn der Arbeiten für den Anschluss der Grundstücksentwässerungsanlage an die öffentliche Abwasseranlage die vom Bauaufsichtsamt der Stadt Köln sowie die vom Kommunalunternehmen erteilten Genehmigungen einsehen.
+Er kann sich nicht auf eine mündliche Auskunft des Anschlussberechtigten oder seiner Beauftragten berufen. Beim Kanalbetriebsbereich des Kommunalunternehmens sind ergänzende Angaben über Lage und Vorflut des Straßenkanals und über Anschlussmöglichkeiten, vorverlegte Abzweige,
+38
+
+vorhandene Anschlussleitungen usw. einzuholen. Unterliegt die Straßendecke im Anschlussbereich der dreijährigen Aufgrabungssperre, ist die besondere Aufgrabungsgenehmigung bei der Stadt Köln, Amt für Straßen und Verkehrstechnik zu beantragen. Die schriftliche Genehmigung ist mit der Anzeige der Anschlussarbeiten (s. 2.6) vorzulegen. 2.3 Arbeiten am öffentlichen Sammelkanal bedürfen vor Beginn der schriftlichen Genehmigung der Stadt Köln - Amt für Straßen und Verkehrstechnik – Abteilung für Verkehrstechnik -. Die bei der Genehmigung erteilten Auflagen sind einzuhalten. Eine Ausfertigung des genehmigten Beschilderungsplanes ist bei der Anzeige der Anschlussarbeiten (s. 2.6) dem Kanalbetrieb einzureichen. 2.4 Der Unternehmer ist für die Beachtung der verkehrsrechtlichen Bestimmungen verantwortlich. Er hat die Verkehrssicherung im Bereich der Baustelle einschließlich Absperrung und Kennzeichnung in eigener Verantwortung durchzuführen, auf § 45 Absatz 5 Straßenverkehrsordnung (StVO) wird besonders hingewiesen. 2.5 Vor Beginn der Anschlussarbeiten hat sich der Unternehmer über die Lage aller vorhandenen Leitungen (Gas- und Wasserleitungen, Kabel, Kanäle, usw.) im Baustellenbereich zu unterrichten und die Leitungen während der Anschlussarbeiten nach den jeweils geltenden Vorschriften zu sichern. 2.6 Anschlussarbeiten und Sanierungen am öffentlichen Sammelkanal sind dem Kanalbetrieb des Kommunalunternehmens auf Vordruck anzuzeigen; die Anzeige muss mindestens 10 Arbeitstage vor Arbeitsbeginn vorliegen. Mit den Arbeiten kann begonnen werden, wenn das Kommunalunternehmen dem Unternehmer nicht bis zum Ablauf des 6. Arbeitstages nach Eingang der Aufbruchmeldung mitteilt, dass der Aufbruch nicht wie vorgesehen erfolgen darf. Die Mitteilung kann fernmündlich erfolgen. Ändert sich der vorgesehene Beginn der Arbeiten, hat der Unternehmer dies dem zuständigen Kanalbetrieb anzuzeigen. In besonderen Fällen können vom Kanalbetrieb Ausführungsfristen gesetzt werden.
+39
+
+2.7 Der Unternehmer hat für ordnungsgemäße Überwachung und zügige Durchführung der Arbeiten zu sorgen. Nicht ordnungsgemäß ausgeführte Arbeiten sind nachzubessern. Kommt er einer solchen Aufforderung des Kommunalunternehmens innerhalb einer gesetzten Frist nicht nach, kann das Kommunalunternehmen nach entsprechender Androhung die Arbeiten auf Kosten des Unternehmers durchführen lassen.
+Der Unternehmer hat dem Kommunalunternehmen gegenüber für die ordnungsgemäße Durchführung der gesamten Anschlussarbeiten einzustehen. Er haftet für alle Schäden, die dem Kommunalunternehmen durch unsachgemäße Ausführung entstehen. Er hat das Kommunalunternehmen von allen Ansprüchen Dritter, die auf nicht ordnungsgemäße Durchführung der Anschlussarbeiten zurückzuführen sind, freizustellen. Die Haftung des Unternehmers besteht unbeschadet der Haftung des Anschlussberechtigten. Eine Haftung des Unternehmers ist nicht gegeben, wenn der Schaden allein auf vorsätzliches oder grob fahrlässiges Verhalten des Kommunalunternehmens bzw. seiner Vertreter oder Beauftragten zurückzuführen ist. Der Nachweis des Verschuldens ist von dem Unternehmer zu führen. 2.8 Auf einen einwandfreien Verbau entsprechend der technischen Anforderungen der Baugrube ist besonders zu achten.
+2.9 Öffentliche Sammelkanäle dürfen für Anschlusszwecke nur nach vorheriger Zustimmung des Kanalbetriebs angebohrt werden.
+2.10 Alle Anschlussarbeiten an der Anschlussstelle des öffentlichen Sammelkanals bedürfen nach Fertigstellung vor Verfüllung der Baugrube einer Abnahme durch den Kanalbetrieb. Der Antrag auf Abnahme muss dem Kanalbetrieb bis spätestens einen Arbeitstag vor dem gewünschten Abnahmetermin vorliegen. Er kann fernmündlich gestellt werden.
+2.11 Der Unternehmer, der im Namen und für Rechnung des Anschlussberechtigten tätig wird, hat, sofern er nicht selbst von der Stadt Köln, Amt für Straßen und Verkehrstechnik als Straßenbauunternehmer zugelassen ist, die endgültige Wiederherstellung der öffentlichen Verkehrsflächen durch Straßenbauunternehmen durchführen zu lassen, die bei der Stadt Köln, Amt für Straßen und Verkehrstechnik zugelassen sind.
+40
+
+2.12 Im Zuge der Abnahme der Neuanschlüsse und Sanierungen an der Anschlussstelle des öffentlichen Sammelkanals ist eine Prüfung der Dichtheit durchzuführen und die Anschlussstelle durch das Kommunalunternehmen abnehmen zu lassen. Die Dichtheitsprüfung muss nach den technischen Anforderungen des Kommunalunternehmens gemäß Ziffer 2.1 a durchgeführt werden.
+2.13 Der Einsatz von Nachunternehmern bedarf der Einwilligung des Kommunalunternehmens. Bei der Übertragung von Bauleistungen an Subunternehmer haben Unternehmer und Anschlussberechtigte die Geltung dieser Bestimmung zu vereinbaren. Ihre Haftung gegenüber dem Kommunalunternehmen für die ordnungsgemäße Durchführung der gesamten Anschlussarbeiten bleibt unberührt.
+3. Grabenlose Sanierung von Anschlussleitungen Bei grabenlosen Sanierungen ist so zu verfahren, dass der öffentliche Kanal nicht beschädigt wird. Nach erfolgter Sanierung dürfen keine Liner oder Hindernisse in den Kanal hereinragen.
+4. Ausnahmen Im Einzelfall kann das Kommunalunternehmen aus wichtigem Grund und soweit öffentliche Interessen nicht entgegenstehen, Ausnahmen von diesen Bestimmungen zulassen. Der Antrag ist schriftlich zu stellen.
+41
+
+Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 Gemein- deordnung für das Land Nordrhein-Westfalen hingewiesen. § 7 Abs. 6 Satz 1 Gemeindeordnung lautet: „Die Verletzung von Verfahrens- oder Formvorschriften die- ses Gesetzes kann gegen Satzungen, sonstige ortsrechtliche Bestimmungen und Flächennutzungspläne nach Ablauf eines Jahres seit ihrer Verkündung nicht mehr geltend gemacht wer- den, es sei denn,
+a) eine vorgeschriebene Genehmigung fehlt oder ein vorgeschriebenes Anzeigeverfahren wurde nicht durchgeführt,
+b) die Satzung, die sonstige ortsrechtliche Bestimmung oder der Flächennutzungsplan ist nicht ordnungsge- mäß öffentlich bekanntgemacht worden,
+c) der Bürgermeister hat den Ratsbeschluss vorher be- anstandet oder
+d) der Form- oder Verfahrensmangel ist gegenüber der Gemeinde vorher gerügt und dabei die verletzte Rechtsvorschrift und die Tatsache bezeichnet wor- den, die den Mangel ergibt.“
+Köln, den 22.02.2019 Andrea Blome Vorsitzende des Verwaltungsrates der Stadtentwässerungsbetriebe Köln, Anstalt des öffentlichen Rechts Beigeordnete ABl StK 2010, S. 1226, 2014, S. 839, 2019, S. 112
+47
