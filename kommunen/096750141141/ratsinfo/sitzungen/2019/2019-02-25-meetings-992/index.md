@@ -1,0 +1,60 @@
+# Sitzung des Stadtrates - Haushaltsberatungen (Vermögenshaushalt)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2019-02-25T17:00:00+01:00
+- Ende: 2019-02-25T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/992
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/992
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00039386.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00039516.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Beratung des Vermögenshaushaltes 2019 mit Investitionsprogramm 2018 - 2022
+- TOP 2.1: 0600 9349 - Beschaffung Tag und Nachtbriefkasten für das Rathaus Hinweis von Stadtkämmerin Erdel
+- TOP 2.2: 0600 9454 - Sanierung Kaiserstraße 17 zum Verwaltungsgebäude Hinweis von Stadtkämmerin Erdel
+- TOP 2.3: 1101 9359 - Öffentliche Sicherheit und Ordnung, Beschaffung von Köderboxen Hinweis von Stadtkämmerin Erdel
+- TOP 2.4: UA 1146 - Antrag der SPD-Stadtratsfraktion Mittel für Neubau Tierheim
+- TOP 2.5: 1101 9350 - Beschaffungen Prostitutionsschutzgesetz Anfrage von Stadtrat Hartmann
+- TOP 2.6: 1300 9357 - Brandschutz, Beschaffung von Fahrzeugen Hinweis von Stadtkämmerin Erdel
+- TOP 2.7: Einzelplan 2 - Beschaffungen Digitales Klassenzimmer Anfrage von Stadträtin Kahnt
+- TOP 2.8: 2140 9451 - Schulsportanlage Deusterpark Anfrage von Stadträtin Glos
+- TOP 2.9: 2431 9452 - Generalssanierung Friedrich-Bernbeck-Schule Hinweis von Stadtkämmerin Erdel
+- TOP 2.10: 3210 9358 - Beschaffung von Museumsgut 3211 9358 Beschaffung von Archivgut 3331 9350 Musikschule Neuausstattung neue Räumlichkeiten Anfrage von Stadträtin Kahnt
+- TOP 2.11: 3331 9353 - Musikschule, Musikinstrumente, Anschaffung von 2 Leihcelli Anfrage von Stadtrat Hartmann
+- TOP 2.12: 3420 9631 - Alte Synagoge, Einbau Klimaanlage und Erneuerung der Technik Anfrage von Stadträtin Glos - abgelehnt
+- TOP 2.13: 3700 9883 - Kreuzkapelle Etwashausen, Zuschuss zur Außenrenovierung Hinweis von Stadtkämmerin Erdel
+- TOP 2.14: 4351 9453 - Obdachlosenunterkünfte, Sanierung von Wohnblöcken im Zuge Konzept Obdachlosenfürsorge Hinweis von Stadtkämmerin Erdel
+- TOP 2.15: 4605 9490 - Haus für Jugend und Familie Hinweis von Stadtkämmerin Erdel
+- TOP 2.16: 3601 9580 - Planung/Umsetzung Öko-Konto Anfrage von Stadträtin Kahnt
+- TOP 2.17: 4641 9880 - Kita St. Johannes, Zuschuss zum Abriss und Neubau Hinweis von Stadtkämmerin Erdel
+- TOP 2.18: Antrag der ödp-Stadtratsgruppe, finanzielle Mittel Umsetzung Artenvielfalt - beschlossen
+- TOP 2.19: 4645 9450 - Kita Sonnenschein, Erweiterung um eine Kindergartengruppe Hinweis von Stadtkämmerin Erdel
+- TOP 2.20: 5652 9450 - Generalsanierung Dreifachturnhalle Sportzentrum Sickergrund Hinweis von Stadtkämmerin Erdel
+- TOP 2.21: 5821 9357 - Stadtgärtnerei, Erwerb von Fahrzeugen Hinweis von Stadtkämmerin Erdel
+- TOP 2.22: 5931 9350 - Ersatz von Spielgeräten auf verschiedenen Spielplätzen Anfrage von Stadträtin Glos
+- TOP 2.23: 6309 9503 - Nordtangente BA III b, Anbindung an die ST 2272 Hinweis von Stadtkämmerin Erdel
+- TOP 2.24: 6310 9501 - Kreisverkehr ConneKT, Bau- und Baunebenkosten für Neubau des Kreisverkehrs Hinweis von Stadtkämmerin Erdel
+- TOP 2.25: 6340 9501 - Erweiterung Baugebiet Hammerstiel Hinweis von Stadtkämmerin Erdel
+- TOP 2.26: 6347 9502 - Erweiterung Baugebiet Buddental West, Altlastenentsorgung Hinweis von Stadtkämmerin Erdel
+- TOP 2.27: 6402 9506 - Straßenausbau Amalienweg Hinweis von Stadtkämmerin Erdel
+- TOP 2.28: 6402 9597 - Straßenausbau Friedenstraße Hinweis von Stadtkämmerin Erdel
+- TOP 2.29: 6401 9510 - Herstellung von barrierefreien Wegen in der Innenstadt Anfrage von Stadtrat Pauluhn - beschlossen
+- TOP 2.30: 6605 9504 - Sanierung B 8 von Würzburger Tor bis Marshall Heights Hinweis von Stadtkämmerin Erdel
+- TOP 2.31: 6709 9582 - Straßenbeleuchtung, Umstellung auf LED - Beleuchtung Hinweis von Stadtkämmerin Erdel
+- TOP 2.32: 6901 9580 - Neubau Kaimauer Oberer Mainkai Hinweis von Stadtkämmerin Erdel
+- TOP 2.33: 7711 9357 - Bauhof, Ersatzbeschaffung von Fahrzeugen Hinweis von Stadtkämmerin Erdel
+- TOP 2.34: 7902 9600 - Fremdenverkehr - Beschaffung von Schaukästen für den Wohnmobilstellplatz Hinweis von Stadtkämmerin Erdel
+- TOP 2.35: UA 7511 - Alter Friedhof, Schaden am Eingangsportal Anfrage von Stadtrat Moser
+- TOP 2.36: 7000 9535 - Kanalsanierung gem. Prioritätenliste Kanalbau Anfrage von Stadtrat Pauluhn
+- TOP 2.37: UA 8809 - Antrag der SPD-Stadtratsfraktion Sanierung Brunnen Kanzler-Stürtzel-Straße/Mühlberg - beschlossen
+- TOP 2.38: 8801 9452 - Sanierung Galgenwasen 13 - 20 Anfrage von Stadträtin Schmidt
+- TOP 2.39: 9161 3000 Zuführung vom Verwaltungshaushalt Hinweis von Stadtkämmerin Erdel
+- TOP 2.40: Anfrage von Stadtrat Freitag Mittel für die Kanal- bzw. Straßenbauarbeiten Breslauer Straße
+- TOP 3: Sonstiges
+- TOP 3.1: Bitte von Stadtrat Dr. Küntzer Tagesordnung der Haushaltsberatungen
