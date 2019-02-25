@@ -1,0 +1,58 @@
+# Rat (46. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-02-25T18:00:00+01:00
+- Ende: 2019-02-25T19:18:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRqcbWGDBXn1EmkX9DCIbBc
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7115
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcag8JnBzGkrgmy9gygGST6vL3nskdLd-IdBRKjBn7En/Bekanntmachung_Rat_25.02.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfzX65CApx0rIzQViM51CEoirRwYYWSQ19Ps4OXcn0Yr/Oeffentliche_Niederschrift_Rat_25.02.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Unterführung Balthasar-Neumann Platz
+- TOP 1.2: Moderation durch den Bürgermeister
+- TOP 1.3: Umweltschutz I
+- TOP 1.4: Verträge mit Investoren
+- TOP 1.5: Umweltschutz II
+- TOP 2.: Niederschrift vom 17.12.2018
+- TOP 3.: Wahl eines Beigeordneten - (kein Text vorhanden)
+- TOP 4.: Gleichstellungsplan 2019 - 2023
+- TOP 4.1: Gleichstellungsplan 2019 – 2023 - (kein Text vorhanden)
+- TOP 5.: Anzeige der Nebentätigkeiten des Bürgermeisters
+- TOP 6.: Gesellschafterversammlung Stadtwerke Brühl GmbH hier: Bestellung / Abberufung Geschäftsführer - (kein Text vorhanden)
+- TOP 7.: Annahme einer Spende für die GGS Martin-Luther - (kein Text vorhanden)
+- TOP 8.: Verkaufsoffene Sonntage 2019 - (kein Text vorhanden)
+- TOP 9.: Bestellung von Vertretern der Stadt in besonderen Einrichtungen hier: Kreissparkasse Köln - Verwaltungsrat - (kein Text vorhanden)
+- TOP 10.: Schreiben Mayors for Peace an den Außenminister Heiko Maas bezüglich INF-Vertrag
+- TOP 11.: Anträge
+- TOP 11.1: Janshof – Anlegung öffentlicher Parkplätze Bezug: Antrag der FDP-Fraktion vom 15.11.2018 (Eingang per Mail am 19.11.2018) - (kein Text vorhanden)
+- TOP 11.2: Teilnahme der Stadt Brühl an der Umweltschutzaktion Earth Hour, "Stunde der Erde" Bezug: Antrag der SPD-Fraktion vom 04.02.2019 - (kein Text vorhanden)
+- TOP 12.: Umbesetzung in Ausschüssen
+- TOP 12.1: Umbesetzung im Sozialausschuss und Jugendhilfeausschuss Bezug: Antrag der FDP-Fraktion vom 04.02.2019 - (kein Text vorhanden)
+- TOP 12.2: Umbesetzung im Ausschuss für Planung und Stadtentwicklung Bezug: Antrag der Fraktion Linke&Piraten vom 10.02.2019 - (kein Text vorhanden)
+- TOP 12.3: Umbesetzung in verschiedenen Ausschüssen Bezug: mündlicher Antrag der CDU-Fraktion
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen
+- TOP 14.1: Gehweg Kölnstraße / Comesstraße am Ockenfels Hochhaus Bezug: Anfrage der FDP Fraktion vom 14.01.2019
+- TOP 14.1.1: Gehweg Comesstraße/Kölnstraße hier: Anfrage der FDP-Fraktion vom 14.01.2019
+- TOP 14.2: Gehweg Kölnstraße/Comesstraße
+- TOP 14.3: Notausgang Douglas/Janshof
+- TOP 14.4: Neue Feuerwache
+- TOP 14.5: Kaiserstraße 38
+- TOP 14.6: Rathaus Neubau
+- TOP 14.7: Fahrplanänderung Linie 18
+- TOP B): Nichtöffentliche Sitzung
+- TOP 15.: Erhöhung Aufwandsentschädigung bei der Freiwilligen Feuerwehr - (kein Text vorhanden)
+- TOP 16.: Bericht über die 146. Sitzung des Aufsichtsrates der REVG mbH am 08.11.2018
+- TOP 17.: Bericht über die 147. Sitzung des Aufsichtsrates der REVG mbH am 17.12.2018
+- TOP 18.: Mitteilungen
+- TOP 19.: Anfragen
+- TOP 19.1: Notausgang Douglas/Janshof
+- TOP 19.2: Tennisanlage Wasserturm
