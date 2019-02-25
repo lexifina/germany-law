@@ -1,0 +1,8 @@
+# TOP 4.3.1: Abgesetzt (s. TOP 4.3.2) Änderungsantrag zum Antrag: Mehr Grün in der Stadt: Bäume, Dachbegrünung und Grünflächen
+
+- Sitzung: öffentliche Sitzung des Rates der Stadt Wuppertal (2019-02-25)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/89873
+- Ergebnis: abgesetzt
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/42648
