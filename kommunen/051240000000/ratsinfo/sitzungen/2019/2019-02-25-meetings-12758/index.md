@@ -1,0 +1,135 @@
+# öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-02-25T16:05:00+01:00
+- Ende: 2019-02-25T23:23:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12758
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12758
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 15.02.19 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00232993.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00234288.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde
+- TOP 2.1: Verteilereinrichtungen von WSW und Telekom und Elektro-Ladesäulen - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN "Verteilereinrichtungen von WSW und Telekom und Elektro-Ladesäulen" vom 29.01.2019 (VO/0106/19) - Entgegennahme ohne Beschluss
+- TOP 2.2: Verpflichtung zur Einebnung und Abräumung von Gräbern auf städtischen Friedhöfen - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Verpflichtung zur Einebnung und Abräumung von Gräbern auf städtischen Friedhöfen" vom 30.01.2019 (VO/0115/19) - Entgegennahme ohne Beschluss
+- TOP 2.3: Übermäßige Gebührenbelastung der Haushalte im Stadtgebiet - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Übermäßige Gebührenbelastung der Haushalte im Stadtgebiet" vom 30.01.2019 (VO/0116/19) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zum Abbau des Grünpfeils am Košice-Ufer
+- TOP 3.2: Bürgerantrag zur Ein- und Ausfahrsituation am Busabstellplatz Döppersberg
+- TOP 3.3: Bürgerantrag zur Verbesserung der Tunnelbeleuchtung auf der Nordbahntrasse
+- TOP 3.4: Bürgerantrag "Hinweise auf den Überholabstand zu Fahrradfahrern"
+- TOP 4: Anträge
+- TOP 4.1: Gemeinsamer Antrag zum Bebauungsplanverfahren "Kleine Höhe" - abgelehnt
+- TOP 4.1.1: Kleine Höhe: Landwirtschaft sichern – forensische Klinik ermöglichen - abgelehnt
+- TOP 4.2: Abgesetzt. Vorberatung nicht abgeschlossen. Kein Kind ohne Schulmittagessen - Antrag der SPD-Fraktion vom 27.11.2018 - abgesetzt
+- TOP 4.2.1: Abgesetzt. Vorberatung nicht abgeschlossen. Änderungsantrag zu VO/1071/18/1-Neuf. Kein Kind ohne Schulmittagessen - abgesetzt
+- TOP 4.3: Abgesetzt (s. TOP 4.3.2) Mehr Grün in der Stadt: Bäume, Dachbegrünung und Grünflächen - abgesetzt
+- TOP 4.3.1: Abgesetzt (s. TOP 4.3.2) Änderungsantrag zum Antrag: Mehr Grün in der Stadt: Bäume, Dachbegrünung und Grünflächen - abgesetzt
+- TOP 4.3.2: Mehr Grün in der Stadt: Bäume, Dachbegrünung und Grünflächen - ungeändert beschlossen
+- TOP 4.4: Abgesetzt. Vorberatung nicht abgeschlossen. Neueinführung einer Baumschutzsatzung - abgesetzt
+- TOP 4.5: Talachsenradweg - abgelehnt
+- TOP 4.6: Abgesetzt. Vorberatung nicht abgeschlossen. Aufhebung des vorhabenbezogenen Bebauungsplans 1220V - FOC/Kleeblatt - abgesetzt
+- TOP 4.7: Abgesetzt. Ersetzt durch den Antrag unter TOP 4.8.1. Für den Erhalt der Stichwahl– kein Sonderweg für NRW - abgesetzt
+- TOP 4.8: Abgesetzt. Ersetzt durch den Antrag unter TOP 4.8.1. Resolution Abschaffung der Stichwahl bei den Bürgermeisterwahlen wäre undemokratisch - abgesetzt
+- TOP 4.8.1: Abschaffung der Stichwahl bei den Bürgermeisterwahlen wäre undemokratisch - kein Sonderweg für NRW - ungeändert beschlossen
+- TOP 4.9: Wahlrecht für Alle jetzt! - zur Vorberatung verwiesen
+- TOP 4.10: Umfassende Erneuerung des Innenbereiches und Erweiterung der Kapazitäten der Uni-Halle - abgelehnt
+- TOP 4.11: Wohnraumbedarf Alleinerziehender - zur Vorberatung verwiesen
+- TOP 4.12: Arbeitsprozess Binder: Rücknahme der Revision durch die Stadt - abgelehnt
+- TOP 4.13: Ausschreibung einer Stelle einer/eines Beigeordneten für Wirtschaft, Stadtentwicklung und Klimaschutz, Recht und Digitales - geändert beschlossen
+- TOP 4.13.1: Änderungsantrag zu VO/0126/19 - abgelehnt
+- TOP 4.14: Resolution: Städtepartnerschaft mit Matagalpa (Nicaragua) stärken - ungeändert beschlossen
+- TOP 4.15: Abgesetzt. Von den Antrag stellenden Fraktionen zurückgezogen. Bürgerhaushalt für Wuppertal - abgesetzt
+- TOP 4.16: Katzenschutzverordnung für Wuppertal - zur Vorberatung verwiesen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Zugang zu Angeboten der gesundheitlichen Versorgung für Menschen mit Behinderung in Wuppertal barrierefrei gestalten - ungeändert beschlossen
+- TOP 5.1.1: Abgesetzt. Beschlussfassung erfolgte im Ausschuss für Soziales, Familie und Gesundheit am 06.02.2019. Zugang zu Angeboten der gesundheitlichen Versorgung für Menschen mit Behinderung in Wuppertal barrierefrei gestalten - abgesetzt
+- TOP 5.2: Abgesetzt (s. TOP 4.3.2) Erhalt gesunder Bäume bei Planungen festschreiben - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 6.1: Richtlinien über die Genehmigung von Tagespflege und die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Sozialgesetzbuch VIII - ungeändert beschlossen
+- TOP 6.2: Abgesetzt. Vorberatung nicht abgeschlossen. Städtebaulicher Rahmenplan für die gewerbliche Entwicklung der Fläche "westliche Bahnstraße / Buntenbeck" - abgesetzt
+- TOP 6.3: Abgesetzt. Vorberatung nicht abgeschlossen.Vorkaufssatzung für den Bereich "westliche Bahnstraße / Buntenbeck" - Satzungsbeschluss - abgesetzt
+- TOP 6.4: Verordnung über das Offenhalten von Verkaufsstellen am 08.12.2019 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.5: Verordnung über das Offenhalten von Verkaufsstellen am 02.06.2019 in Wuppertal-Barmen - ungeändert beschlossen
+- TOP 6.6: Verordnung über das Offenhalten von Verkaufsstellen am 08.12.2019 in Wuppertal-Ronsdorf - ungeändert beschlossen
+- TOP 6.7: Verordnung über das Offenhalten von Verkaufsstellen am 08.12.2019 in Wuppertal-Elberfeld - ungeändert beschlossen
+- TOP 6.8: Verordnung über das Offenhalten von Verkaufsstellen am 07.04.2019 in Wuppertal-Vohwinkel - ungeändert beschlossen
+- TOP 6.9: Ablehnung von Anträgen auf Sonntagsöffnung der Verkaufsstellen in Elberfeld am 15.09.2019 und 27.10.2019, in Barmen am 30.06.2019 und 15.09.2019 sowie in Vohwinkel am 07.07.2019 und 08.12.2019 - ungeändert beschlossen
+- TOP 6.10: 3. Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Aktualisierung des Einzelhandels- und Zentrenkonzeptes - Bereitstellung von überplanmäßigen Haushaltsmitteln - ungeändert beschlossen
+- TOP 7.2: Wohnerschließung Heinrich-Böll Straße - überplanmäßige Ausgabe - ungeändert beschlossen
+- TOP 7.3: Verwendung der Unterhaltungspauschale nach dem Gemeindefinanzierungsgesetz 2019 - ungeändert beschlossen
+- TOP 7.4: Beauftragung von Fachplanern für die Erneuerung der Wachalarmanlagen auf den drei Wuppertaler Feuerwachen - Bereitstellung überplanmäßiger Haushaltsmittel - ungeändert beschlossen
+- TOP 7.5: Umgestaltung des Carnaper Platzes - Finanzierung von Mehrkosten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan des Gebäudemanagements 2019 - ungeändert beschlossen
+- TOP 8.2: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.01.2019 bis 31.12.2019 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Fluchtlinienplan 959 - Oberkamper Straße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1065 - Steinbecker Meile - - geändert beschlossen
+- TOP 9.3: Bebauungsplan 1228 - Widukindstraße / Feuerstraße - 1. Verlängerung einer Veränderungssperre - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Radabstellanlage Döppersberg - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Sachstandsbericht zum Seilbahnprojekt - Entgegennahme ohne Beschluss
+- TOP 11.1.1: Befragung als mögliche Form der Bürgerbeteiligung beim Projekt Seilbahn - Entgegennahme ohne Beschluss
+- TOP 11.1.2: Durchführung einer Bürgerbefragung - Gemeinsamer Ergänzungsantrag zu TOP 11.1 - ungeändert beschlossen
+- TOP 11.1.3: Antrag zur Tagesordnung, Tagesordnungspunkt Durchführung einer Bürgerbefragung - - in der Sache erledigt
+- TOP 11.1.3.1: Bericht zum Antrag der SPD-Fraktion zum Aufwand für die Bürgerbefragung zum Seilbahnprojekt - Entgegennahme ohne Beschluss
+- TOP 11.2: Rahmenkonzept des Bürgerbudgets 2019 - ungeändert beschlossen
+- TOP 11.2.1: Ergänzende Informationen zum Rahmenkonzept des Bürgerbudgets 2019 - ungeändert beschlossen
+- TOP 11.2.2: Rahmenkonzept des Bürgerbudgets 2019 - ungeändert beschlossen
+- TOP 11.3: Erstaufstellung der Vorhabenliste für Bürgerbeteiligung - geändert beschlossen
+- TOP 11.3.1: Anregungen zur Vorhabenliste anlässlich der Sitzung des Beirates für Bürgerbeteiligung am 30.01.2019 - Entgegennahme ohne Beschluss
+- TOP 11.4: Modernisierung des Sportplatzes Grundstraße in Wuppertal-Langerfeld - ungeändert beschlossen
+- TOP 11.5: Modernisierung des Sportplatzes Schönebeck in Wuppertal-Barmen, Horst-Drecker-Platz - ungeändert beschlossen
+- TOP 11.6: Neugestaltung des Werth - Maßnahmenanpassung und Kostensteigerung im Integrierten Städtebaulichen Entwicklungskonzept Barmen Innenstadt - ungeändert beschlossen
+- TOP 11.7: Abgesetzt. Vorberatung nicht abgeschlossen. Fortschreibung des Integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - abgesetzt
+- TOP 11.8: Bayer-Platz - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.9: Gustav-Müller-Anlage - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.10: Einrichtung eines Teilstandortes für die städtische Schule am Nordpark, Förderschule mit dem Förderschwerpunkt Geistige Entwicklung, Melanchthonstraße, Wuppertal im Schulgebäude Röttgen - ungeändert beschlossen
+- TOP 11.11: Finanzierung der Mehrkosten für das Projekt Von-der-Heydt-Platz - ungeändert beschlossen
+- TOP 11.12: Station Natur und Umwelt - Anmeldung als Fördermaßnahme im Rahmen des Programms „Investitionspakt soziale Integration im Quartier“ - ungeändert beschlossen
+- TOP 11.13: Mobilitätsuntersuchung in der Elberfelder Innenstadt auf Grundlage der Ergebnisse der Qualitätsoffensive Innenstadt Elberfeld - geändert beschlossen
+- TOP 11.14: Gremientätigkeiten von Herrn Oberbürgermeister Andreas Mucke - Entgegennahme ohne Beschluss
+- TOP 11.15: Optimierung der Arbeit des Straßenverkehrsamtes - ungeändert beschlossen
+- TOP 11.16: Migration in den Quartieren und die Herausforderungen für Wuppertal - ungeändert beschlossen
+- TOP 11.16.1: Änderungsantrag zu VO/0026/19, Migration in den Quartieren und die Herausforderungen für Wuppertal - abgelehnt
+- TOP 11.16.2: Änderungsantrag zu VO/0026/19, Migration in den Quartieren und die Herausforderung für Wuppertal - abgelehnt
+- TOP 11.17: Handlungsprogramm für Demokratie und Toleranz - Fortschreibung - ungeändert beschlossen
+- TOP 11.18: Gewährung eines Zuschusses für die Wuppertaler Initiative für Demokratie und Toleranz e. V. zur Umsetzung des Handlungsprogramms gegen Rechts - ungeändert beschlossen
+- TOP 11.19: Radabstellmöglichkeiten an öffentlichen Gebäuden - Entgegennahme ohne Beschluss
+- TOP 11.20: Grundsatzbeschluss gewerbliche Nutzung Parkstraße/Erbschlö - ungeändert beschlossen
+- TOP 11.21: Errichtung der Gebäude "Pavillon" und "Café Cosa" im Wupperpark - ungeändert beschlossen
+- TOP 11.22: Standortprüfung für den Betrieb des Café Cosa - ungeändert beschlossen
+- TOP 11.22.1: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Prüfauftrag über eine mögliche Ansiedlung des Café Cosa am Standort des Fahrradparkhauses - abgesetzt
+- TOP 11.23: Abgesetzt. Vorberatung nicht abgeschlossen. Betreibermodell öffentliche Toiletten – Vorbereitung der Ausschreibung - abgesetzt
+- TOP 11.24: Bericht zur Digitalen Modellregion - Entgegennahme ohne Beschluss
+- TOP 11.25: Gleichstellungsplan der Stadtverwaltung Wuppertal 2018 - 2021 - ungeändert beschlossen
+- TOP 11.26: Potentiale von Frauen bei der Stadtverwaltung Wuppertal nutzen als Chance im demografischen Wandel: Maßnahmen und Ziele für die Förderung von Frauen in Führungspositionen - ungeändert beschlossen
+- TOP 11.27: (nur Hauptausschuss) Berichterstattung über laufende Gerichtsverfahren
+- TOP 11.28: Stärkung der Rechte der Bezirksvertretungen - Entgegennahme ohne Beschluss
+- TOP 11.29: Aufstellen von Bänken im Bereich der Innenstadt Elberfelds - ungeändert beschlossen
+- TOP 11.30: Zwischenbericht zur Metropolregion Rheinland - Entgegennahme ohne Beschluss
+- TOP 11.30.1: Ergänzungsantrag zu OP 11.30 Geschäftsführung der Metropolregion Rheinland - abgelehnt
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienbesetzung - Beteiligung des Beirates der Menschen mit Behinderung an Ausschussberatungen - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung - Sachkundiger Einwohner im Ausschuss für Stadtentwicklung, Wirtschaft und Bauen - ungeändert beschlossen
+- TOP 12.3: (nur Rat) Einrichtung einer Ratskommission zur Begleitung und Steuerung des Projektes Pina Bausch Zentrum - geändert beschlossen
+- TOP 12.4: Gremienumbesetzung - Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 12.5: Benennung der Stellvertreterinnen und Stellvertreter für die offenen Plätze im Beirat Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.6: Abberufung und Bestellung von Vertretern der Stadt Wuppertal in der KDN-Verbandsversammlung des KDN-Dachverbandes kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzung Verkehrsausschuss - ungeändert beschlossen
+- TOP 12.8: Ausschussumbesetzungen - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.10: Abberufung eines Beigeordneten - Bericht über den Ausgang des verwaltungsgerichtlichen Verfahrens - Entgegennahme ohne Beschluss
