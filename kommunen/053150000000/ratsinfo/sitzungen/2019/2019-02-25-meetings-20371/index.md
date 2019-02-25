@@ -1,0 +1,66 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-02-25T17:00:00+01:00
+- Ende: 2019-02-25T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20371
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20371
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Unterbringung Geflüchteter in Eckdorfer und Pingsdorfer Straße (Eingabe Nr. 196/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2: Sachstand zur Nutzung des brachliegenden Grundstück am Verteiler Köln-Süd als Gehölzfläche - Kenntnis genommen
+- TOP 7.1.3: Objekt Hitzeler Str. 125 in Köln-Raderthal; Beantwortung einer Anfrage der SPD-Fraktion zur Sitzung der Bezirksvertretung Rodenkirchen am 12.11.2018 (AN/1405/2018) - Kenntnis genommen
+- TOP 7.1.4: Sicherung der Bahnübergänge der Rheinuferbahn - Kenntnis genommen
+- TOP 7.1.5: CDU-Anfrage aus der Sitzung der BV Rodenkirchen am 28.01.2019 zum aktuellen Stand der Planungen für die Interimsbegegnungsstätte in Meschenich - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Pünktlichkeit E-Busse Höninger Platz - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Sachstand der Beschlussfassung zur Eröffnung einer Kitagruppe mit 24 h Betreuungsangebot im Stadtbezirk - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Parkplatzsituation aufgrund von Baustellen in Bayenthal - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Buslinie 134: Taktverdichtung in den Abendstunden, - ungeändert beschlossen
+- TOP 8.1.2: Ausweichatelier für Künstler der Wachsfabrik, Antrag der SPD-Fraktion - Sache ist erledigt
+- TOP 8.1.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.2.2: Ergänzungsantrag der CDU-Fraktion zu AN/0203/2019: Ausweichatelier für Künstler der Wachsfabrik - zurückgestellt
+- TOP 8.1.3: Änderung der Haltepositionen der Busse der KVB am Busbahnhof Köln-Sürth, - Sache ist erledigt
+- TOP 8.1.4: Absolutes Halteverbot auf der Alten Brühler Straße in Meschenich, Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Verbesserung der Wohnqualität durch Müllbeseitigung an der Alten Brühler Straße in Köln-Meschenich, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.6: Radfahrende: Sichere Verkehrsführung zwischen Meschenich und Rondorf, Antrag der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.6.1: Änderungsantrag zu TOP 8.1.6 - Radfahrende: Sichere Verkehrsführung zwischen Meschenich und Rondorf - geändert beschlossen
+- TOP 8.1.7: Pilotbetrieb von öffentlichem WLAN, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.7.1: Stellungnahme der Verwaltung zum Antrag AN/0211/2019 - Kenntnis genommen
+- TOP 8.1.8: Ausbau der Lade-Infrastruktur für Fahrräder und Lastenräder im Stadtbezirk Köln-Rodenkirchen, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.9: Versenkbare Poller auf der Sürther Feldallee, - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - endgültig abgelehnt
+- TOP 9.2.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: Integrative Quartiersentwicklung am Kalscheurer Weg in Köln-Zollstock - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Hinweisschilder zum Finkens Garten - Kenntnis genommen
+- TOP 10.2.2: Planfeststellungsverfahren gemäß § 68 des Gesetzes zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz – WHG) für Hochwasserschutzmaßnahmen am Rhein auf dem Gebiet der Stadt Köln (Sanierung der Lindemauer in Köln-Sürth) - Kenntnis genommen
+- TOP 10.2.3: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 10.2.4: Earth Hour 2019 - Kenntnis genommen
+- TOP 10.2.5: Mitteilung der Verwaltung über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung im Bebauungsplanverfahren Modell 1 (Aushang der Pläne) Arbeitstitel: Bebauungsplanänderung Nummer 67420/07 Mannsfelder Straße nach § 13 Baugesetzbuch - Kenntnis genommen
+- TOP 10.2.6: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 10.2.7: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.8: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
