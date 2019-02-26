@@ -1,0 +1,52 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-02-26T16:00:00+01:00
+- Ende: 2019-02-26T18:03:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16274
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16274
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336824.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336824.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336824.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Vorstellung der Kandidaten zur Seniorenratswahl im März 2019 - passieren lassen
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Rahmenkonzept ZUKUNFT QUARTIER.DÜSSELDORF - zur Kenntnis genommen
+- TOP 4.4: Verfügungsmittel der BV 10, Zuschuss an das TSV Amazonen-Corps Düsseldorf-Garath - einstimmig beschlossen
+- TOP 4.5: Verfügungsmittel der BV 10, Zuschuss an den Spielmannszug Blau-Weiß Düsseldorf-Garath 1973 e.V. - vertagt
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Veränderte Parkmöglichkeiten im Hauptzentrum von Garath, Parkplatz an der Peter-Behrens-Straße - schriftlich beantwortet
+- TOP 5.2: Veränderte Wegebeleuchtung an der Johannes-Radke-Straße - schriftlich beantwortet
+- TOP 5.3: Nachfrage zum Zustand der Straßendecke Frankfurter Str. nach Verlegung der Fernwärmerohre - schriftlich beantwortet
+- TOP 5.4: Ungepflegtes Grundstück zwischen dem Kindergarten Koblenzer Straße und dem Garather SV - schriftlich beantwortet
+- TOP 5.5: Gefährdung durch "Rechtsabbieger" - schriftlich beantwortet
+- TOP 5.6: Ausbau der Linksabbiegespur Rostocker Straße - schriftlich beantwortet
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Kreisverkehre im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.2: Auskunft über planungsrechtliche Vorgaben für den Standort eines Seniorenwohnprojektes in Hellerhof - schriftlich beantwortet
+- TOP 6.3: Grundsicherung im Alter- Information und Hilfestellung bei der Antragstellung - schriftlich beantwortet
+- TOP 6.4: Neue Fahrradboxen für den S-Bahnhof Düsseldorf-Hellerhof - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Einladung Vortrag Stadtplanungsamt Gegenstand: EDEKA-Mark Garath Süd-West Ricarda-Huch-Str. 33 - zurückgezogen
+- TOP 7.2: Räume für die Montessori-Grundschule - einstimmig beschlossen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Einwohnerfragestunde in der Sitzung der BV am 28.5.2019 - einstimmig beschlossen
+- TOP 7.5: Anlage eines Friedwaldes im Bezirk 10 - einstimmig beschlossen
+- TOP 7.6: Aufhebung/Änderung rechtsunwirksamer Beschilderung Emil-Barth-Str. 17-19 Ausweisung als Feuerwehrbew - zurückgezogen
+- TOP 7.7: Erreichbarkeit des Sportparks Niederheid im ÖPNV nach der Schließung des Hallenbades Benrath - einstimmig beschlossen
+- TOP 7.8: Wiederanbringen des Transparents „Humanität, Respekt, Vielfalt“ am Eingang der Freizeitstätte Garath - zurückgezogen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Reinigen von Verkehrszeichen, Straßennamensschilder sowie anderer Hinweisschilder im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 8.2: Einrichtung einer wald,-bzw.umweltpädagogischen Einrichtung (Waldschule) als ein besonderer Lernort - zur Kenntnis genommen
+- TOP 8.3: Schaffung von zusätzlichen Parkmöglichkeiten auf der Koblenzer Straße in Düsseldorf-Garath - zur Kenntnis genommen
+- TOP 9: Verschiedenes
