@@ -1,0 +1,153 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-02-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5248791
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5248791
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Personelles
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Wahl der/des Vorsitzenden
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.3.: Vorstellung Verkehruntersuchung Isar durch das Referat für Stadtplanung und Bauordnung
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 3.3.3.: Standortbegehung SWM, Ickstattstraße 10
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Kassenbericht für das Jahr 2018
+- TOP 1.2.: Herausgabe von UA-Protokollen an Pressevertreter/innen -PLENUMSBESCHLUSS-
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Beschleunigte Benachrichtigungen vor allem bei zeitkritischen Unterrichtungen
+- TOP 2.1.: (E) Stadtbezirksbudget Glockenbachwerkstatt e.V. Straßenfest am 12.05. bzw. 19.05.2019 1.425,00 Euro, Az.: 0262.0-2-0247
+- TOP 2.2.: (E) Stadtbezirksbudget Gruppe "Upstroke Music" Festivals am 16./17.05.2019 1.000,00 Euro Az.: 0262.0-2-0248
+- TOP 3.1.: Schulbauoffensive 2013 – 2030, Beschlussvorlage
+- TOP 5.1.: Podiumsdiskussion „München und Wohnen“, Anfrage von Radio LORA
+- TOP 5.2.: Bürgeranliegen, organisiertes und aggressives Betteln
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Pestalozzistraße 28, Neubau dreier DG-Wohnungen sowie Erneuerung der Balkone
+- TOP 3.1.2.: Karlsplatz 25, Tektur, Neubau Hotel Königshof und Zwischenbauwerk (vertagt aus 01/19)
+- TOP 3.1.3.: Mozartstraße 11d, Nutzungsänderung und Umbau EG: Lager / Büro zu Wohnungen
+- TOP 3.1.4.: Isartalstraße 40, Vorbescheid, Ausbau des Dachgeschosses (VGB), Abbruch des Dachgeschosses (RGB), Aufstockung des Rückgebäudes
+- TOP 3.1.5.: Thalkirchner Straße 21 / VGB, DG-Ausbau mit 2 Wohnungssanierungen und Errichtung zweier Dachterrassen (VGB)
+- TOP 3.1.6.: Fraunhoferstraße 12, Tektur, DG-Ausbau mit Einbau von 8 Gauben und eines Aufzugs ins Treppenhaus
+- TOP 3.1.7.: Kolosseumstraße 6, Nutzungsänderung eines Ladens zu einer Ladenfläche mit Büro- und Kleingastronomie
+- TOP 3.1.8.: Landwehrstraße 26, Tektur, Nutzungsänderung eines Bürohauses mit 2 WE in ein Boardinghaus / Beherbergungsstätte, Aufteilung und Nutzungsänderung: Laden zu Shisha-Bar und 2 Läden
+- TOP 3.1.9.: Schillerstraße 49, Neubau eines Kellers mit Innenhofgestaltung für ein Hotel -PLENUMSBESCHLUSS-
+- TOP 3.1.10.: Aventinstraße 1, Tektur, Umbau und ergänzende Aufstockung des Rückgebäudes -PLENUMSBESCHLUSS-
+- TOP 3.1.11.: Ruppertstraße 19, Fassadensanierung, Aufstockung und Nutzungsänderung eines Büro- und Verwaltungsgebäudes -PLENUMSBESCHLUSS-
+- TOP 3.1.12.: Bavariaring 34, Abbruch und Neubau zweier Garagen -PLENUMSBESCHLUSS-
+- TOP 3.1.13.: Thalkirchner Straße 55 / VGB, Tektur -PLENUMSBESCHLUSS-
+- TOP 3.1.14.: Fraunhoferstraße 14, Tektur, Dachgeschossausbau, Errichtung einer Notleiteranlage und Fassadensanierung -PLENUMSBESCHLUSS-
+- TOP 3.1.15.: Bavariaring 10, Nutzungsänderung: Wohnung zu Büro -PLENUMSBESCHLUSS-
+- TOP 3.2.1.: Bayerstraße 34, Zwei Pappeln
+- TOP 3.2.2.: Morassistraße 24, Winterlinde
+- TOP 3.2.3.: Vollzug der Baumschutzverordnung, Schillerstraße 3-3a, Neubau eines Hotels mit Gastronomie im EG und Tiefgarage (vertagt aus 01/19)
+- TOP 3.2.4.: Zenettistraße 34, Eberesche
+- TOP 3.2.5.: Vollzug der Baumschutzverordnung, Fraunhoferstraße 14, Dachgeschossausbau, Errichtung einer Notleiteranlage und Fassadensanierung
+- TOP 3.2.6.: St.-Pauls-Platz, Zwei Feldahorn und ein Berg-Ahorn -PLENUMSBESCHLUSS-
+- TOP 3.2.7.: Vollzug der Baumschutzverordnung, Schillerstraße 49 -PLENUMSBESCHLUSS-
+- TOP 3.3.1.: Fahrbahnsanierung am Beethovenplatz bzw. Goethestraße
+- TOP 3.3.2.: Neubau des Departments für die Geowissenschaften in der Schillerstraße, Stellplatzentfall / Straßenraumgestaltung
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Fällung von 2-3 Bäumen vor dem Penny Markt bzw. vor dem Fahrradladen Thalkirchner Straße Ecke Kapuzinerstraße ohne Kenntnis des BA
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen
+- TOP 2.3.1.: (E) Verbot privater Silvesterfeuerwerke in ganz München
+- TOP 2.3.2.: (E) Zebrastreifen-Offensive
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Blaulichtfestival am 11.05.2019 auf der Theresienwiese
+- TOP 3.1.2.: BRK-Flohmarkt auf der Theresienwiese am 27.04.2019 (vertagt aus 01/19)
+- TOP 3.1.3.: Geänderter Aufbauplan für die Veranstaltung „Eiche-Fasching“ am 05.03.2019 in der Reichenbachstraße
+- TOP 3.2.1.: Fahrradstellplätze in der Frauenlobstraße 1 (vertagt aus 01/19)
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum, Ergebnisse der Verkehrsuntersuchung; Sitzungsvorlage Nr. 14-20 / V 13255
+- TOP 3.3.2.: Einrichtung einer Ladezone in der Zweibrückenstraße 8
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Zustände und Beschwerden Bahnwärter Thiel
+- TOP 5.2.: Fällung von 2-3 Bäumen vor dem Penny Markt bzw. vor dem Fahrradladen Thalkirchner Straße Ecke Kapuzinerstraße ohne Kenntnis des BA
+- TOP 5.3.: Bürgeranliegen, Fahrradampel zur Sicherung der Kreuzung Bayer-/ Paul-Heyse-Straße -PLENUMSBESCHLUSS-
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Sondernutzungserlaubnis für temporäre Kunst im öffentlichen Raum „BAVARIA“, 01.02.2019 bis 31.12.2020
+- TOP A 4.4.: Erneuerung des Spielplatzes auf der Theresienwiese, BA-Antrag Nr. 14-20 / B 05606; Antwortschreiben
+- TOP A 4.5.: Errichtung eines Welcome-Centers in München
+- TOP A 4.6.: Rückmeldung Planung der Einsätze der Münchner Sommerspielaktion
+- TOP A 4.7.: Hinweis auf Spendenbetrüger, BISS e.V
+- TOP A 4.8.: Erhöhung des Anteilsatzes für eigene Veranstaltungen, Antrag des BA 25 - Laim
+- TOP A 4.9.: Kunstprojekt Munichen, Antwortschreiben des Künstlers
+- TOP A 4.10.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP A 4.11.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Baumfällung im Rahmen des Neubaus Hotel Königshof, Antwortschreiben zur Eilentscheidung
+- TOP B 4.3.: Fünf Plätze attraktiv neu gestalten, St.-Pauls-Platz; Sitzungsvorlage Nr. 14-20 / V 13737
+- TOP B 4.4.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP B 4.5.: Begrünung Straßenkreuzung Ickstatt- / Jahnstraße, Antwortschreiben auf Bürgeranliegen
+- TOP B 4.6.: Fällgenehmigung für zwei Robinien in der Schillerstraße (s. TOP B 3.2.2 01/19)
+- TOP B 4.7.: Abdruck Vorbescheid, Sonnenstraße 20
+- TOP B 4.8.: Antrag auf Vorbescheid zurückgezogen: Bayerstraße 25 / Schillerstraße 4 (TOP 2018.11 B 3.1.4)
+- TOP B 4.9.: PERSPEKTIVE MÜNCHEN, Fortschreibung des Zentrenkonzeptes, Grundsatzbeschluss; Sitzungsvorlage Nr. 14-20 / V 12932
+- TOP B 4.10.: Genehmigungsbescheid samt Eingabeplan, Landwehrstraße 50 / RGB
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Aufstellen eines mobilen Fahrradständers vor dem Anwesen Schwanthalerstraße 14, Schreiben des Oberbürgermeisters
+- TOP C 4.7.: Antrag auf Genehmigung einer Freischankfläche, Gaststätte „M43“, Müllerstraße 43; OB-Entscheidung
+- TOP C 4.8.: (U) Zukunftsfähigkeit des Münchner U-Bahn-Netzes – Vorhaltemaßnahmen für die Entlastungsspange U9 a) Sachstandsbericht und weiteres Vorgehen b) Finanzierung Änderung des Mehrjahresinvestitionsprogrammes 2018-2022 Anmeldung zum Haushalt 2020
+- TOP C 4.9.: Fahrradampel an der Lindwurmstraße, Antwortschreiben auf Bürgeranliegen
+- TOP C 4.10.: Schutz der Weideninsel, BA-Antrag Nr. 14-20 / B 05534, Antwortschreiben
+- TOP C 4.11.: Laubbläser im Alten Südfriedhof, Antwortschreiben auf Bürgeranliegen
+- TOP C 4.12.: Planung Verkehrsführung Sendlinger-Tor-Platz
+- TOP C 4.13.: Lärmschutz an der Bahntrasse Dreimühlenviertel, Empfehlung Nr. 14-20 / E 01258 der Bürgerversammlung, Schreiben der DB AG an den Oberbürgermeister
+- TOP C 4.14.: Verbesserungen für Radfahrende und zu Fuß Gehende in der Paul-Heyse-Straße im Abschnitt zwischen Schwanthaler- und Bayerstraße
+- TOP C 4.15.: Ausnahmegenehmigung zur Errichtung eines barrierefreien Zugangs nördlich der Reichenbachbrücke
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
