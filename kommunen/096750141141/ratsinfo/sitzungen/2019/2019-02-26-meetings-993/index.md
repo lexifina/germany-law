@@ -1,0 +1,54 @@
+# Sitzung des Stadtrates - Haushaltsberatungen (Verwaltungshaushalt)
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2019-02-26T17:00:00+01:00
+- Ende: 2019-02-26T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/993
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/993
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00039382.pdf
+
+## Tagesordnung
+
+- TOP 1: Beratung des Vermögenshaushaltes 2019 mit Investitionsprogramm 2018 - 2022 Hinweis von Stadtkämmerin Erdel zu den Änderungen des ersten Beratungstages
+- TOP 2: Budgetfestlegung
+- TOP 2.1: Budgetfestlegung für das Haushaltsjahr 2019 - beschlossen
+- TOP 2.2: Budgetfestlegung 2019 für SG 12 / IT - beschlossen
+- TOP 2.3: Budgetfestlegung für das Haushaltsjahr 2019: Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - beschlossen
+- TOP 2.4: Budgetfestlegungen für das Haushaltsjahr 2019: Budget Feuerwehr - UA 1300 - beschlossen
+- TOP 2.5: Budgetfestlegung für das Haushaltsjahr 2019; Gesamtbudget "Betriebskosten Schulen" - UA 2111, 2112, 2131, 2132, 2431 - beschlossen
+- TOP 2.6: Budgetfestlegung für das Haushaltsjahr 2019; Budgets "Sachkosten Schulen" - UA 2111, 2112, 2131, 2132 und 2431 - beschlossen
+- TOP 2.7: Budgetfestlegung für das Haushaltsjahr 2019; Gesamtbudget "Sportanlagen" - UA 5601, 5602, 5603, 5651, 5652 u. 5653 - beschlossen
+- TOP 2.8: Budgetfestlegung für das Haushaltsjahr 2019; Budget der Alten Synagoge - UA 3420 - beschlossen
+- TOP 2.9: Budgetfestlegung für das Haushaltsjahr 2019 Budget Stadtarchiv - UA 3211 - beschlossen
+- TOP 2.10: Budgetfestlegung für das Haushaltsjahr 2019;Budget Musikschule - UA 3331 - beschlossen
+- TOP 2.11: Budgetfestlegung für das Haushaltsjahr 2019; Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 2.12: Budgetfestlegung für das Haushaltsjahr 2019; Budget der Volkshochschule - UA 3501 - beschlossen
+- TOP 2.13: Budgetfestlegung für das Haushaltsjahr 2019: Budget Stadtbücherei UA 3521 - beschlossen
+- TOP 2.14: Budgetantrag 2019; jungStil - beschlossen
+- TOP 2.15: Budgetfestlegung für das Haushaltsjahr 2019; Budget Gärtnerei - UA 5821 - - beschlossen
+- TOP 2.16: Budgetfestlegung für das Haushaltsjahr 2019: Gesamtbudget "Straßen, Wege, Plätze" - beschlossen
+- TOP 2.17: Budgetfestlegung für das Haushaltsjahr 2019; Gesamtbudget "Abwasserbeseitigung" - beschlossen
+- TOP 2.18: Budgetfestlegung für das Haushaltsjahr 2019 - beschlossen
+- TOP 2.19: Budgetfestlegung für das Haushaltsjahr 2019; Budget Bauhof - UA 7711 - - beschlossen
+- TOP 2.20: Budgetfestlegung für das Haushaltsjahr 2019; Budget Touristinfo - UA 7901 - beschlossen
+- TOP 2.21: Budgetfestlegung für das Haushaltsjahr 2019; "Städtischer Waldbesitz" - UA 8551 - beschlossen
+- TOP 2.22: Budgetfestlegung für das Haushaltsjahr 2019; Wohngrundstücke, sonstige bebaute Grundstücke - UA 8801, UA 8802 - beschlossen
+- TOP 2.23: Budgetfestlegung für das Haushaltsjahr 2019; „Sonstiges Allgemeines Grundvermögen“ - UA 8891 - - beschlossen
+- TOP 3: Beratung des Verwaltungshaushaltes 2019 mit Finanzplanung 2018 - 2022
+- TOP 3.1: Vorbericht zum Verwaltungshaushalt von Stadtkämmerin Erdel
+- TOP 3.2: UA 0241 - Haushaltsstellen Stabsstelle/Marke Kitzingen Anfrage von Stadträtin Glos
+- TOP 3.3: 2140 1555/6412 - Vor- bzw. Mehrwertsteuer Schulanlage Deusterpark Anfrage von Stadträtin Schwab
+- TOP 3.4: Einzelplan 2- verschiedene Schulen, Gastschulbeiträge für Asylbewerberkinder (Gruppierung 1612) Anfrage von Stadträtin Schwab
+- TOP 3.5: UA 2431 - Friedrich-Bernbeck-Schule, Kosten für den Umzug Anfrage von Stadträtin Schwab
+- TOP 3.6: 3430 6318 World-Press-Photo Anfrage von Stadträtin Glos
+- TOP 3.7: UA 9000 - Allgemeine Finanzwirtschaft Anfrage von Stadtrat Moser
+- TOP 3.8: 9000 0812 - Verwarngelder und Geldbußen aus der kommunalen Verkehrsüberwachung Anfrage von Stadrätin Schwab
+- TOP 3.9: Neuberechnung der Grundsteuer Anfrage von Stadtrat Moser
+- TOP 3.10: 7920 6320 - Förderung des Nahverkehrs, Anrufsammeltaxi (AST) Antrag der SPD-Stadtratsfraktion
+- TOP 4: Beratung des Verwaltungs- und Vermögenshaushaltes 2019 der Stiftung für Alten- und Pflegehilfe Kitzingen mit Finanzplanung 2018 - 2022
+- TOP 5: Sonstiges
+- TOP 5.1: Information von Verwaltungsrat Hartner Exkursion zum Historischen Museum Frankfurt
