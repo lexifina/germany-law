@@ -1,0 +1,58 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-02-26T17:00:00+01:00
+- Ende: 2019-02-26T19:59:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16331
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16331
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336681.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336681.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336681.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Präsentation der Kandidatinnen und Kandidaten für die Wahl des Seniorenrates 2019 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Rahmenkonzept ZUKUNFT QUARTIER.DÜSSELDORF - zur Kenntnis genommen
+- TOP 7: Planung Grünzug Am Quellenbusch, 3. Bauabschnitt - zur Kenntnis genommen
+- TOP 8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - einstimmig beschlossen
+- TOP 9: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 10: Städtische Beteiligung am Gerresheimer Krankenhaus SANA - mehrheitlich abgelehnt
+- TOP 11: Gerresheimer Krankenhaus SANA - mehrheitlich beschlossen
+- TOP 12: Ampelanlage an der Zufahrt Sulzbachstraße/ Torfbruchstraße - abweichend beschlossen
+- TOP 13: Fußgängerbrücke über die Düssel in Höhe Kgv. Hippeland - abweichend beschlossen
+- TOP 14: Quadenhofstraße - abweichend beschlossen
+- TOP 15: S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 16: Verkehrskonzept zur Bebauung Bergische Landstraße (u.a. Seilbahn) - einstimmig beschlossen
+- TOP 17: Grütersaaper Weg - vertagt
+- TOP 18: Trinkwasser-Brunnen am Neusser Tor - abweichend beschlossen
+- TOP 19: Trinkwasserbrunnen - abweichend beschlossen
+- TOP 20: Verkehrsschild „Schule“ auf der Märkischen Straße - einstimmig beschlossen
+- TOP 21: Verbesserung der Sicherheit für Kinder auf dem Weg zur Schule - zurückgezogen
+- TOP 22: Öffnung der „Geibelstraße“ fürr den Radverkehr in beide Fahrtrichtungen - zurückgezogen
+- TOP 23: Bedarfsampel auf der Glashüttenstraße - abweichend beschlossen
+- TOP 24: Querungshilfe auf der Glashüttenstraße - zurückgezogen
+- TOP 25: Düsseldorfer Radschläger als Ampelmännchen - zurückgezogen
+- TOP 26: Planung Ecke Torfbruch-/Dreherstraße - zur Kenntnis genommen
+- TOP 27: Sachstandsbericht Kreuzung Dreherstraße / Torfbruchstraße - zurückgezogen
+- TOP 28: Konzept „Essbare Stadt“- Umsetzung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 29: Verkehrssituation auf der Torfbruchstraße - zur Kenntnis genommen
+- TOP 30: Barrierefreier Ausbau des Verbindungsweges zwischen Gerricusplatz und Alter Markt - vertagt
+- TOP 31: Digitale Bildungsangebote für ältere Mitbürger*innen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 32: P+R-Platz am Gerresheimer Bahnhof - zur Kenntnis genommen
+- TOP 33: Umsetzung Handlungskonzept Wohnen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 34: Grüner Pfeil Sichelstr./ Torfbruchstraße - zur Kenntnis genommen
+- TOP 35: Entwicklung Bergische Kaserne - zur Kenntnis genommen
+- TOP 36: Verbesserungen für die BenutzerInnen des S-Bahnhofs Gerresheim - zur Kenntnis genommen
+- TOP 37: Busverbindung zum Flughafen - zur Kenntnis genommen
+- TOP 38: Einrichtung einer Living Wall für die Ludenberger Straße / Staufenplatz - zur Kenntnis genommen
+- TOP 39: Intensivierung der Dach-, Fassaden- und Innenhofbegrünung an öffentlichen Gebäuden - zur Kenntnis genommen
+- TOP 40: Sicherheit auf der Bertastraße - zur Kenntnis genommen
+- TOP 41: Zeichen setzen zur Erinnerung an die Hexenverbrennung am Gallberg - zur Kenntnis genommen
