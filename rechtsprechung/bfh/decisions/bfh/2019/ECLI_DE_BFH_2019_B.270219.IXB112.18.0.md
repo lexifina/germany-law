@@ -1,0 +1,20 @@
+---
+ecli: "ECLI:DE:BFH:2019:B.270219.IXB112.18.0"
+court: "Bundesfinanzhof"
+spruchkoerper: "IX"
+aktenzeichen: "IX B 112/18"
+decided: "2019-02-27"
+source_url: "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201950065/"
+corpus_doc_id: "BFH_NV_2019-02-27_IX_B_112_18_STRE201950065"
+cites_law: ["germany/bund/acts/bgb/0133.md", "germany/bund/acts/bgb/0157.md", "germany/bund/acts/fgo/0135.md"]
+---
+
+# Bundesfinanzhof, IX B 112/18 vom 2019-02-27: Auslegung von Prozesshandlungen, Nichtzulassungsbeschwerde gegen FG-Urteil
+
+## Leitsatz
+
+1. NV: Wer sich mit einem Rechtsschutzbegehren an ein Gericht wendet, nimmt eine Prozesshandlung vor, für deren Auslegung die §§ 133, 157 BGB entsprechend gelten .2. NV: Vor dem BFH muss sich jeder Beteiligte, sofern es sich nicht um eine juristische Person des öffentlichen Rechts oder um eine Behörde handelt, durch einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder vereidigten Buchprüfer als Bevollmächtigten vertreten lassen .
+
+## Entscheidung
+
+1. NV: Wer sich mit einem Rechtsschutzbegehren an ein Gericht wendet, nimmt eine Prozesshandlung vor, für deren Auslegung die §§ 133, 157 BGB entsprechend gelten .2. NV: Vor dem BFH muss sich jeder Beteiligte, sofern es sich nicht um eine juristische Person des öffentlichen Rechts oder um eine Behörde handelt, durch einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder vereidigten Buchprüfer als Bevollmächtigten vertreten lassen . Die Beschwerde des Klägers wegen Nichtzulassung der Revision gegen das Urteil des Finanzgerichts Köln vom 6. Juni 2018  8 K 2229/16 wird als unzulässig verworfen.Die Kosten des Beschwerdeverfahrens hat der Kläger zu tragen. Das Rechtsmittel, das als Nichtzulassungsbeschwerde auszulegen ist, ist unzulässig.Der Kläger und Beschwerdeführer (Kläger) wendet sich mit seinen Schreiben gegen das Urteil des Finanzgerichts Köln (FG) vom 6. Juni 2018  8 K 2229/16. Er bringt vor, das Urteil sei nicht ordnungsgemäß zugestellt worden und damit unwirksam. Das Verfahren sei daher über eine Wiedereinsetzung in den vorigen Stand fortzusetzen.Dieses Vorbringen ist als Nichtzulassungsbeschwerde gegen das erstinstanzliche Urteil auszulegen. Wer sich mit einem Rechtsschutzbegehren an ein Gericht wendet, nimmt eine Prozesshandlung vor, für deren Auslegung die §§ 133, 157 des Bürgerlichen Gesetzbuchs (BGB) entsprechend gelten. Dabei ist der wirkliche Wille so zu erforschen, wie er aus der Sicht des Empfängers der Erklärung verstanden werden muss. Dies gilt auch, wenn der Kläger nachträglich erklärt, keine Nichtzulassungsbeschwerde eingelegt zu haben (vgl. Beschluss des Bundesfinanzhofs ‑‑BFH‑‑ vom 28. November 1997 I B 84/97, BFH/NV 1998, 712). Das Vorbringen des Klägers hat erkennbar die Aufhebung des Urteils des FG und damit die Fortsetzung des Rechtsstreits zum Ziel. Eine Nichtzulassungsbeschwerde gegen das Urteil des FG stellt dafür das einzige statthafte Rechtsmittel dar, mit dem der Kläger sein Ziel erreichen kann. Ein Antrag auf Wiedereinsetzung genügt den prozessrechtlichen Voraussetzungen nicht.Vor dem BFH muss sich ‑‑wie auch aus der Rechtsmittelbelehrung in dem vorbezeichneten Urteil hervorgeht‑‑ jeder Beteiligte, sofern es sich nicht um eine juristische Person des öffentlichen Rechts oder um eine Behörde handelt, durch einen Rechtsanwalt, Steuerberater, Steuerbevollmächtigten, Wirtschaftsprüfer oder vereidigten Buchprüfer als Bevollmächtigten vertreten lassen; zur Vertretung berechtigt sind auch Gesellschaften i.S. des § 3 Nr. 2 und 3 des Steuerberatungsgesetzes (StBerG), die durch solche Personen handeln (§ 62 Abs. 4 i.V.m. Abs. 2 Satz 1 der Finanzgerichtsordnung ‑‑FGO‑‑). Dies gilt auch für ein Rechtsmittel, mit dem die unwirksame Zustellung des Urteils der Vorinstanz gerügt wird.Im Streitfall ist die Nichtzulassungsbeschwerde nicht von einer solchen Person oder Gesellschaft eingelegt worden. Die Beschwerde ist daher als unzulässig zu verwerfen.Die Kostenentscheidung beruht auf § 135 Abs. 2 FGO.
