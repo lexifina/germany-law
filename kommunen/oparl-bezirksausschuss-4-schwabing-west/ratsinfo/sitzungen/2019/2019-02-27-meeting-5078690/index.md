@@ -1,0 +1,110 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2019-02-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5078690
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5078690
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: Schulbauoffensive 2013-2030 – Anhörung zur Beschlussvorlage für den Stadrat
+- TOP 2.2.: (E) Stadtbezirksbudget Stiftung Pfennigparade Pilotprojekt "Freiwilligenkoordination im Forum am Luitpold" vom 01.04.2019 - 31.03.2020 3.100,00 Euro Az.: 0262.0-4-0234
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Spielen in der Stadt e.V.: Spielbuseinsätze 2019 im Stadtbezirk
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Kurzbericht zur Jubiläumsfeier 40 Jahre Sozialpsychiatrischer Dienst Schwabing
+- TOP 3.2.2.: Bewilligungsbescheid an MobilSpiel e.V: (Kicklusion)
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 3.3.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: (E) Stadtbezirksbudget MGS Filmproduktion Endfertigung Langzeitdokumentaion "Hohenzollernstraße 2003-2018" 2.154,64 € AZ: 0262.0-4-0232
+- TOP 2.2.2.: (E) Stadtbezirksbudget Offene Bücherschränke Schwabing-West e.V. Einladung der ehrenamtlichen PatInnen am 04.04.2019 180,00 Euro Az.: 0262.0-4-0235
+- TOP 2.3.1.: (E) Kein mehrtägiges Straßenfest in der Georgenstraße mehr
+- TOP 2.3.2.: Open (F)Air Iftar Fastenbrechen am 25.05.2019 im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid an die „Gruppe 4 +“ (Kunstausstellung)
+- TOP 3.2.2.: Bewilligungsbescheid an das Kulturforum der Stiftung Pfennigparade
+- TOP 3.3.1.: „Soko München“ am 21.02.2019 in der Belgradstr. 16 sowie 21-23
+- TOP 3.3.2.: „5 Freunde“ am 22.02.2019 in der Schleißheimer Str. 180-186
+- TOP 3.3.3.: Autoreninterview Ellen Sandberg am 20.02.2019 u.a. in der Elisabeth-, Winzerer- und Arcisstraße
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Simmernstr. 11: Abbruch des Dachgeschosses und Neuerrichtung in geänderter Form als Wohngeschoss
+- TOP 2.1.2.: Simmernstr. 13-15: Abbruch des Dachgeschosses und Neuerrichtung in geänderter Form als Wohngeschoss
+- TOP 2.1.3.: Hohenzollernstr. 140: Schulbauoffensive: Sanierung der Kellerdecke Windfang in der Hermann-Frieb-Realschule
+- TOP 2.1.4.: Tektur Kölner Platz 1: Baumfällungen in Zusammenhang mit den Bauarbeiten im Klinikum Schwabing
+- TOP 2.1.5.: Lothstr. 21: Nachtrag von zwei Gebäuden in die Denkmalliste
+- TOP 2.1.6.: Rankestr. 2: Nutzungsänderung eines Abstellraums im UG zu einem Bewegungsraum innerhalb der Nutzungseinheit Kindertagesstätte / Krippe, Ertüchtigung des Rettungswegssystems UG und EG
+- TOP 2.1.7.: Ansprengerstr. 8: Nutzungsänderung: Laden zu Großtagespflege
+- TOP 2.1.8.: Vorbescheid Herzogstr. 84 / RGB: a) Neubau eines Rückgebäudes mit Studentenappartements oder eines Studentenwohnheims; b) Baumfällungen in Zusammenhang mit dem Vorhaben
+- TOP 2.1.9.: Schleißheimer Str. 85-87: Änderung von Erschließung und Fluchtweg Bereich EG/1.OG durch Errichtung eines befestigten Wegs auf dem Flachdach über EG vom Treppenhaus (Nr. 87) zum Ein-/Ausgang (Nr. 85)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Einrichtung eines neuen Erhaltungssatzungsgebietes „Schleißheimer Straße“ (Zwischennachricht des Referats für Stadtplanung und Bauordnung zum BA-Antrag Nr. 14-20 / B 05058 vom 27.06.2018)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 3.2.2.: Mieterbeirat: Protokoll der Sitzung vom 14.01.2019
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Geschlossenes Rasengitter im Grünstreifen Schleißheimer Str. 158-166
+- TOP 1.2.: Bürger: Fällung zweier Straßenbäume in der Burgunderstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) Verbot privater Silvesterfeuerwerke
+- TOP 2.1.2.: (E) Organisierte Feuerwerke statt privater Silvesterböllerei
+- TOP 2.1.3.: Luitpoldpark: Sanierung des Spielplatzes nördlich des Rodelhügels (Entscheidung über Projektplanung)
+- TOP 2.1.4.: Clemensstr. 85-95 a: Fällung zweier Robinien und einer Birke
+- TOP 2.1.5.: (E) Häufigere Kontrollen in den Parks bezüglich Hundefreilauf
+- TOP 2.1.6.: Düsseldorfer Str. 10: Fällung einer Zierkirsche
+- TOP 2.2.1.: (E) Verkehrsberuhigung des Bereichs nordwestlich der Schleißheimer Straße durch geänderte Abbiegeregelungen
+- TOP 2.2.2.: (E) Bürgersteigabsenkungen im Bereich Bummstraße, James-Loeb-Straße und Rümannstraße durch Bodenmarkierungen hervorheben
+- TOP 2.2.3.: Dialog-Displays: Auswahl von eines Standortes für das zweite Versuchsjahr
+- TOP 2.2.4.: (E) Gesamte Winzererstraße zur Fahrradstraße umwidmen
+- TOP 2.2.5.: (E) + (U) Maßnahmen zur Verbesserung der Parksituation im Ackermannbogen bei Großveranstaltungen im Olympiapark Empfehlung Nr. 08-14 / E 02362 der Bürgerversammlung des Stadtbezirkes 04 – Schwabing West am 15.11.2018
+- TOP 2.2.6.: (E) Fußgängerampel Clemens-/Schleißheimer Straße anpassen
+- TOP 2.2.7.: Absolutes Haltverbot auf der Ostseite der Winzererstraße südlich der Mitterwieserstraße
+- TOP 2.2.8.: Regelung in Zusammenhang mit dem Umbau der Kreuzung Rhein- / Mainzer Straße
+- TOP 2.2.9.: (E) Neugestaltung des „Adams-Lehmann-Platzes“ Empfehlung Nr. 14-20 / E 02360 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 15.11.2018
+- TOP 2.2.10.: Umbau der Kreuzung Rhein- / Mainzer Straße
+- TOP 2.2.11.: Schleißheimer Str. 137 „Schwabinger Carre“: Wiederherstellung von Bauschäden an Geh- und Fahrbahn
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.3.1.: Tempo 30 vor der Hermann-Frieb-Realschule (Hohenzollernstr. 140)
+- TOP 3.3.2.: Gleisbauarbeiten an den Kreuzungen Schleißheimer Straße / Ackermannstraße / Karl-Theodor-Straße, Schleißheimer Straße / Lerchenauer Straße und Schleißheimer Straße / Clemensstraße
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
