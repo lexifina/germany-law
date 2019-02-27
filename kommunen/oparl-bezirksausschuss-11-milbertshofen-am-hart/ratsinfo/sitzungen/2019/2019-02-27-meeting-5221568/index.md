@@ -1,0 +1,84 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-02-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5221568
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5221568
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Vorstellung des Migrationsbeirates
+- TOP 3: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Errichtung eines Trinkbrunnens im Skatepark am Brundageplatz
+- TOP 4.3.1.: Planung der SommerSpielAktion 2019 - Zustimmung der Standortvorschläge des BA 11
+- TOP 4.3.2.: Gastronomiebetrieb im Bernayspark
+- TOP 4.4.1.: Verbesserung der Verkehrssicherheit an der Kreuzung Schleißheimer Str. / Moosacher Str.
+- TOP 4.4.2.: Einbau von Bahnsteigerhöhungen im U-Bahnhof Olympiazentrum am Olympiadorf
+- TOP 4.4.3.: Curt-Mezger-Platz - Illegales Parken unterbinden durch bauliche Maßnahmen
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Rondan Sanchez & Schmitz-Linnartz GbR Lesebühne "Abgebrüht" vom 27.02.2019 - 18.12.2019 1.557,00 € AZ: 0262.0-11-0310
+- TOP 6.1.2.: Straßenbeschilderung am Dominikusplatz - Kostenübernahme für das Anbringen eines erklärenden Zusatzschildes durch den BA 11
+- TOP 6.1.3.: (BSL) Aufstellen eines Papierkorbs und Montieren von Holzdielen auf den Betonklötzen als Sitzgelegenheit vor der Stadtbibliothek Milbertshofen
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Fahrgassenversatz errichten am Schulweg Keferloherstraße zum Schutz der Kinder
+- TOP 6.2.2.: (E) Errichten eines Fußgänger- u. Radwegübergangs mit Ampel über die Ingolstädter Str., Höhe Hufeland- / Maria-Probst-Str.
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Schaffung von zusätzlichem Baurecht bei bestehenden Bebauungsplänen
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Oberhofer Weg - Vorfahrt für den Radweg an drei Kreuzungen
+- TOP 7.4.2.: Überprüfung der Kreuzung Ingolstädter Str. / Ecke Sudetendeutschestr. und Erwägung eines Wendeverbots
+- TOP 7.4.3.: Durchsetzen der StVO in der Humperdinckstraße und verstärkte Kontrollen im ganzen Stadtbezirk 11
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Schulbauoffensive 2013-2030 - Beschlussentwurf
+- TOP 8.2.2.: Am Oberwiesenfeld / Ecke Moosacher Str.- Sammelhinweisanlage (Werbeanlage) im öffentlichen Straßenraum
+- TOP 8.2.3.: Bachstelzenweg 24 a) Bauvorhaben: Neubau 3-er Reihenhäuser mit 2 Garagen und 1 Carport b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Preußenstr. 35 a) Bauvorhaben: Neubau eines Mehrfamilienhauses mit Tiefgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.5.: Anträge auf Baumfällungen: a) Keferloherstraße 143 b) Anton-Ditt-Bogen 19
+- TOP 8.2.6.: Änderung des Flächennutzungsplans für den Bereich V/57 und Bebauungsplan mit Grünordnung Nr. 1939d - BMW FIZ Nord Nord mit Busbahnhof
+- TOP 8.2.7.: Neue Sportarena im Olympiapark - Sitzungsvorlage
+- TOP 8.2.8.: Bauleitplanverfahren: Bebauungsplan Nr. 28 „Sondergebiet Forschung in Neuherberg (1. Änderung) - Gemeinde Oberschleißheim
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Verlängerung der Laufzeiten von Flüchtlingsunterkünften - Sitzungsvorlage Nr. 14-20 / V 13802
+- TOP 8.3.2.: Veranstaltung "Familien-Mutmach-Tag" - Milbertshofener Str. 72a am 30.05.2019
+- TOP 8.3.3.: Erhöhung des Anteilsatzes für eigene BA-Veranstaltungen - Unterstützung des BA-Antrag Nr. 14-20 / B05769
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Erinnerungsverfahren: Neuherbergstraße - Radwegsanierung
+- TOP 8.4.2.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Max-Liebermann-Straße - absolutes Haltverbot b) Freiligrathstraße - absolutes Haltverbot c) Weyprechtstraße (Nordseite) - absolutes Haltverbot d) Piccoloministraße - Einrichtung einer Kurzparkzone
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: "Café Treff Bar und Treffer" - Wenzelstr. 2
+- TOP 9.1.2.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: GDIZ e.V., Stadtteilarbeit e.V., Initiative „Hochbeet“
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 9.2.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Wiegandweg 2
+- TOP 9.2.3.: Vollzug der Grünanlagensatzung: a) Kämpferstraße 2 - Baustelleneinrichtung b) Kienzlweg auf Höhe Wiegandweg 2 - Baustelleneinreichtung
+- TOP 9.2.4.: Rückmeldungen zum Antrag des BA 11: Anbieten von Veranstaltungen zum Thema „Plastikproblematik“ und „Vermeiden von Plastikmüll“ an Grundschulen von den anderen Bezirksausschüssen der LHM BA-Antrags-Nr. 14-20 / B05626
+- TOP 9.2.5.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheide: a) Straßbergerstraße 24 - 30 - Genehmigung (mit Auflage der Ersatzpflanzung) b) Straßbergerstraße 32 - 42 - Genehmigung c) Neustifterstraße 29 - 31 - Genehmigung (mit Auflage der Ersatzpflanzung) d) Illungshofstraße 19 - 21 - Genehmigung (mit Auflage der Ersatzpflanzung) e) Neustifterstraße 29-31 - Genehmigung (mit Auflage der Ersatzpflanzung) f) Brentanostraße 21 - Genehmigung (mit Auflage der Ersatzpflanzung) g) Rockefellerstraße 65 - 69 - Ablehnung h) Max-Liebermann-Str. 6 - Genehmigung (mit Auflage der Ersatzpflanzung) i) Kantstraße 24 - Genehmigung (mit Auflage der Ersatzpflanzung)
+- TOP 9.2.6.: Meldelisten Bauvorhaben vom 19.11.2018 - 03.02.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 9.4.2.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: Schliemannweg - absolutes Haltverbot
+- TOP 9.4.3.: Arbeiten im Straßenraum: Schleißheimer Str. 501 bis 523 - Fahrbahnsanierung
