@@ -1,15 +1,15 @@
 # Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - Erschließungsbeitragssatzung
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2017-10-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/16._Änderung_der_stadt_köln_über_die_erhebung_e._erschließungsbeitrages__erschließungsbeitragssatzung__30-10-2017.pdf
+- Datum: 2019-03-05 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/17._Änderung_der_stadt_köln_über_die_erhebung_e._erschließungsbeitrages__erschließungsbeitragssatzung__05-03-2019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - Erschließungsbeitragssatzung vom 29. Juni 2001
-in der Fassung der 16. Satzung zur Änderung der Erschließungsbeitragssatzung vom 30. Oktober 2017
+in der Fassung der 17. Satzung zur Änderung der Erschließungsbeitragssatzung vom 5. März 2019
 Der Rat der Stadt Köln hat in seiner Sitzung am 15.05.2001 aufgrund des § 132 Baugesetzbuch (BauGB) in der Fassung der Bekanntmachung vom 27.08.1997 (BGBl. I S. 2141) in Verbindung mit §§ 7 und 76 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV. NRW S. 666/SGV. NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 
 § 1 Gegenstand der Satzung
@@ -144,73 +144,25 @@ Seite 3 von 9
 
 Einheitssatz für Erschließungsanlagen bzw. ihre Teileinrichtungen nach § 2 Abs. 1 Ziffer
 
-Herstellungszeitraum ab 01.01.2016 bis 31.12.2016
+Herstellungszeitraum ab 01.01.2017 bis 31.12.2017
 
 Euro/m²
 
-15
+16
 
-1 a) Fahrbahn
+4 b) Straßenbäume
 
-Oberbau ohne Decke Decke gesamt
-
-71,94 25,00 96,94
-
-b) Fahrbahn
-
-Oberbau ohne Decke Decke gesamt
-
-61,68 22,49 84,17
-
-c) Fahrbahn
-
-Oberbau ohne Decke Decke gesamt
-
-59,30 16,67 75,97
-
-d) Fahrbahn
-
-Oberbau ohne Decke Decke gesamt
-
-57,18 14,81 71,99
-
-Gehwege Radwege Parkflächen kombinierter Geh-/ Radweg Mischverkehrsflächen Oberbau ohne Decke
-Decke gesamt
-
-90,33 62,04 65,48 57,00 56,81 60,13 116,94
-
-Fußgängergeschäftsstraßen
-
-112,03
-
-2 selbstständige Wohnwege
-
-Oberbau ohne Decke Decke gesamt
-
-72,49 46,71 119,20
-
-3 Fahrbahn
-
-Oberbau ohne Decke Decke gesamt
-
-57,18 14,81 71,99
-
-4 a) Straßenbegleitgrün b) Straßenbäume
-
-14,31 je Baum
-1.157,62
+je Baum 1.157,62
 
 1 bis 4 Straßenbeleuchtung
 
-Seite 4 von 9
-
 a) technische Leuchtstellen
 
-7,21
+8,77
 
 b) dekorative Leuchtstellen
 
-13,93
+13,41
 
 Die Verzeichnisse der Einheitssätze sind Bestandteil dieser Satzung.
 
@@ -223,9 +175,9 @@ Die Stadt trägt 10 % des beitragsfähigen Erschließungsaufwandes. § 5 Verteil
 (1) Der nach den §§ 1 bis 4 ermittelte Erschließungsaufwand wird auf die erschlossenen Grundstücke verteilt nach dem Verhältnis der Grundstücksflächen zueinander. Dabei wird die unterschiedliche Nutzung der erschlossenen Grundstücke nach Art und Maß berücksichtigt.
 Soweit als Maßstab der baulichen Nutzung das Vollgeschoss nach Maßgabe der folgenden Bestimmungen zugrunde zu legen ist, gilt als solches jedes Geschoss, dessen Deckenoberkante im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragt und das eine Höhe von mindestens 2,30 m hat. Ein gegenüber den Außenwänden des Gebäudes zurückgesetztes oberstes Geschoss (Staffelgeschoss) ist nur dann ein Vollgeschoss, wenn es diese Höhe über mehr als zwei Drittel der Grundfläche des darunter liegenden Geschosses hat. Ein Geschoss mit geneigten Dachflächen ist ein Vollgeschoss, wenn es diese Höhe über mehr als drei Viertel seiner Grundfläche hat. Die Höhe der Geschosse wird von Oberkante Fußboden bis Oberkante Fußboden der darüberliegenden Decke, bei Geschossen mit Dachflächen bis Oberkante Dachhaut gemessen.
 (2) Als Grundstücksfläche im Sinne des Absatzes 1 gilt bei Grundstücken innerhalb des Geltungsbereichs eines Bebauungsplans, der Festsetzungen über Art und Maß der baulichen Nutzung trifft, die Fläche, die hinter der im Bebauungsplan festgesetzten Straßenbegrenzungslinie liegt und von der Erschließungsanlage erschlossen wird. Ist keine Straßenbegrenzungslinie festgesetzt, ist die tatsächliche Straßengrenze maßgebend.
-(3) Bei Grundstücken, für die planungsrechtliche Festsetzungen über Art und Maß der baulichen Nutzung nicht bestehen, gilt als Grundstücksfläche im Sinne des Absatzes 1
-a) die Fläche zwischen der gemeinsamen Grenze der Grundstücke und der Erschließungsanlage und einer im Abstand von 40 m dazu verlaufenden Linie. Grundstücksteile, die lediglich die wegemäßige Verbindung zur Straße herstellen, bleiben bei der Bestimmung der Grundstückstiefe unberücksichtigt.
+Seite 4 von 9
 
+(3) Bei Grundstücken, für die planungsrechtliche Festsetzungen über Art und Maß der baulichen Nutzung nicht bestehen, gilt als Grundstücksfläche im Sinne des Absatzes 1 a) die Fläche zwischen der gemeinsamen Grenze der Grundstücke und der Erschließungsanlage und einer im Abstand von 40 m dazu verlaufenden Linie. Grundstücksteile, die lediglich die wegemäßige Verbindung zur Straße herstellen, bleiben bei der Bestimmung der Grundstückstiefe unberücksichtigt.
 Seite 5 von 9
 
 b) die Fläche zwischen der Grundstücksgrenze, die der Erschließungsanlage zugewandt ist, und einer im Abstand von 40 m zu dieser Grundstücksgrenze verlaufenden Linie, wenn die Grundstücke nicht an die Erschließungsanlage angrenzen.
@@ -318,5 +270,5 @@ b) diese gärtnerisch gestaltet sind.
 Seite 9 von 9
 
 § 10 Immissionsschutzanlagen Bei Anlagen zum Schutz von Baugebieten gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes werden die Art, der Umfang, die Merkmale der endgültigen Herstellung sowie die Verteilung des beitragsfähigen Erschließungsaufwandes durch Satzung im Einzelfall abweichend oder ergänzend geregelt.
-§ 11 Inkrafttreten Die Satzung tritt rückwirkend zum 01.01.2016 in Kraft. - ABl StK 2001, S. 289, 2004, S. 106, S. 876, 2005, S. 640, 2006, S. 889, 2007, S. 576, 2009, S. 175, S. 1087, S. 1088, 2010, S. 1013, 2011, S. 1134, 2013, S. 141, 2014, S. 44, S. 961, 2015, S. 514, 2017, S. 5, S. 461 -
+§ 11 Inkrafttreten § 1 der Satzung tritt am Tag nach der Bekanntmachung im Amtsblatt der Stadt Köln in Kraft. § 2 der Satzung tritt rückwirkend zum 01.01.2017 in Kraft. - ABl StK 2001, S. 289, 2004, S. 106, S. 876, 2005, S. 640, 2006, S. 889, 2007, S. 576, 2009, S. 175, S. 1087, S. 1088, 2010, S. 1013, 2011, S. 1134, 2013, S. 141, 2014, S. 44, S. 961, 2015, S. 514, 2017, S. 5, S. 461, 2019, S. 111 -
 Seite 10 von 9
