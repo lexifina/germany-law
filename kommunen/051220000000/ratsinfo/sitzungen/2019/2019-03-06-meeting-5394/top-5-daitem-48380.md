@@ -1,0 +1,7 @@
+# TOP 5.: Verbesserung des digitalen ÖPNV-Beschwerdemanagements
+
+- Sitzung: ÖPNV-Fahrgastbeirat (18. Sitzung) (2019-03-06)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/48380
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29438
