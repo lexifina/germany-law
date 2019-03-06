@@ -1,0 +1,8 @@
+# TOP 4.6: Durchfahrtsverbot für LKW (über 7,5 t) in der Rendtorffstraße
+
+- Sitzung: 6. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau (2019-03-06)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=83431
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=83431
