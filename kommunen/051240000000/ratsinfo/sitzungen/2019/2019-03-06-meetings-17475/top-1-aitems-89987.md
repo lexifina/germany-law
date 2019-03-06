@@ -1,0 +1,6 @@
+# TOP 1: Begrüßung und Protokoll der letzten Sitzung vom 30.01.2019
+
+- Sitzung: öffentliche Sitzung (2019-03-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/89987
