@@ -1,0 +1,8 @@
+# TOP 6: Stadthaussaal: Ein Ort der Partizipation und dialogorientierten Bürgerbeteiligung, ein Ort für ausgewählte interdisziplinäre Kunst- und Kulturprogramme in Verbindung mit einem dauerhaften Ort für das Stadtmodell ("Münster Modell")
+
+- Sitzung: Sitzung (2019-03-06)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/189470
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/67913
