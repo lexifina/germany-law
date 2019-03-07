@@ -1,0 +1,90 @@
+# 24. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-03-07T16:30:00+01:00
+- Ende: 2019-03-07T20:25:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5440
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5440
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=301714
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - gegenstandslos
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-23 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Schulwegsicherheit in der Köpenicker Landstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Schulwegpläne - Radschulwegpläne - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Wettbewerbe für Neubauten in der Altstadt Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Wochenmärkte in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Interaktive Gedenkkultur - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Verkehrsfluss an der Kreuzung Wendenschloßstraße / Müggelheimer Straße verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.2: Sauberkeit im Schlesischen Busch - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.3: Gedenken an die Opfer der Köpenicker Blutwoche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.4: Verordnung über die Verlängerung der Veränderungssperre 9-65/18 im Bezirk Treptow-Köpenick, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2.5: Beendigung der Befristung für Steganlagengenehmigungen in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2.6: Erinnerung an den 80. Jahrestag der Zerstörung der Synagoge Köpenick am 9.11.1938 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Wahl einer Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 8.2: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten im Ausschuss für Weiterbildung und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Anmeldung zum Investitionsprogramm 2019 bis 2023 - überwiesen
+- TOP 11.2: Sondermittel für den Verein "Behinderten-Sportverein Köpenick e. V." (SM 19-02) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für den "Verein KuKuK Berlin e.V. (Kunst Kultur und Kreativität e. V.)" (SM 19-03) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den Verein "Pflanzer-Verein Gemütliches Heim e. V." (SM 19-04) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für den Verein "Alte Möbelfabrik e. V." (SM 19-07) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Sauberkeit in der Mentelinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Keine "Schnüffel-Fibel" in Kitas - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Artothek bekannter machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Das Sowjetische Ehrenmal im Treptower Park endlich barrierefrei - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Zusammenarbeit mit Nachbarbezirken für touristische Potenziale - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Kindgerechte Umkleidekabinen in den Schwimmhallen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Eltern-Kind-Zimmer anbieten - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-68 ("Alte Gärtnerei") hier: Einleitungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Informationsveranstaltung für das Kosmosviertel - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Fahrradinfrastruktur mit Umlandgemeinden entwickeln - überwiesen
+- TOP 14.3: Weiterführung der U7 - überwiesen
+- TOP 14.4: "BerlKönig" für Treptow-Köpenick ausweiten - überwiesen
+- TOP 14.5: Haushalt des Fachbereichs Grün stärken - überwiesen
+- TOP 14.6: Barrierefreiheit bei Dokumenten und Bescheiden schaffen - überwiesen
+- TOP 14.7: Bauvorhaben für die Freiwilligen Feuerwehren forcieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Fußgängerüberwege in der Helmholtzstraße instand setzen - überwiesen
+- TOP 14.9: Sauberkeit im Schilderwald - überwiesen
+- TOP 14.10: Bevorrechtigungen für alternative Mobilität erproben - überwiesen
+- TOP 14.11: Keine Chance für Vampire – hier kommt die Knoblauchkröte - überwiesen
+- TOP 14.12: Diesel-Fahrverbote vermeiden – Gesundheit von Bürgerinnen und Bürgern schützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Kindertagespflege stärken: Großtagespflegestellen sind keine Zweckentfremdung - überwiesen
+- TOP 14.14: Schloßplatz Köpenick instand setzen - überwiesen
+- TOP 14.15: Förderung von Abgasfilteranlagen für die gewerbliche Schifffahrt - überwiesen
+- TOP 14.16: Sicherung der Straßenbeleuchtung in der Siedlung Spreewiesen - überwiesen
+- TOP 14.17: Gehweg in der Chris-Gueffroy-Allee verbessern - überwiesen
+- TOP 14.18: "BerlKönig" für Treptow-Köpenick ausweiten - im Ältestenrat zurückgezogen
+- TOP 14.19: S-Bahnhof Wilhelmshagen – barrierefreien Zugang ermöglichen - überwiesen
+- TOP 14.20: Wiederaufstellung der BVG-Wartehäuschen - überwiesen
+- TOP 14.21: Protokollführung in den Ausschusssitzungen - überwiesen
+- TOP 14.22: Bauvorhaben im Geltungsbereich des Bebauungsplans 9-63 - überwiesen
+- TOP 14.23: Müggelturm barrierearm erschließen - überwiesen
+- TOP 14.24: Fußweg am S-Bahnhof Rahnsdorf wiederherstellen - überwiesen
+- TOP 14.25: Baumpflanzungen vor der Heidelberger Straße 81 Ecke Elsenstraße 41 - überwiesen
+- TOP 14.26: Trinkwasserspender in Schulen - überwiesen
+- TOP 14.27: Neue Rathauskantine mit nachhaltigem Angebot - überwiesen
+- TOP 14.28: Wohnungsbaugenossenschaften auf dem Güterbahnhofgelände Köpenick berücksichtigen - überwiesen
+- TOP 14.29: Baumschule Späth sichern - überwiesen
+- TOP 15: Große Anfragen - (offen)
