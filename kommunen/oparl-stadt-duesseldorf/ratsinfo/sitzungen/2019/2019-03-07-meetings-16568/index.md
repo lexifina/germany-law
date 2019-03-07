@@ -1,0 +1,80 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-07T14:30:00+01:00
+- Ende: 2019-03-07T21:40:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16568
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16568
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00336879.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz FREIE WÄHLER: Folgen an Altweiber - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz FREIE WÄHLER: Diebstahl am Schwanenhaus - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass des Ratsherrn Dr. Wlecke: D.Live, KFC Uerdingen und Merkur Spiel Arena - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der CDU-Ratsfraktion: Digitale Kulturvermittlung in Düsseldorf - beantwortet
+- TOP 4.2: Anfrage der CDU-Ratsfraktion: KAP1 - Barrierefreiheit, Sicherheit und Stellplatzsituation - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Rheinbahnunfälle mit Tieren - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Barrierefreie T-Kreuzungen - beantwortet
+- TOP 4.5: Anfrage der Ratsfraktion DIE LINKE: Streichung oder Änderung des § 6 der Düsseldorfer Straßenordnung - beantwortet
+- TOP 4.6: Anfrage der Ratsfraktion DIE LINKE: Neubau und Preisbindung von SWD-Wohnungen - schriftlich beantwortet
+- TOP 4.7: Anfrage Bü90-Grü: Wie wird der Glücksspielstaatsvertrag gegenüber der Gauselmann Gruppe durchgesetzt - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion BÜ90/GRÜ: RWE-Aktien endlich verkaufen! - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfrau Opelt: Dieselfahrverbote und Luftmessungen in Düsseldorf - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfrau Opelt: Obdachlosigkeit in Düsseldorf - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Maniera: Personalentwicklung bei der Düsseldorfer Feuerwehr - schriftlich beantwortet
+- TOP 4.12: Anfrage des Ratsherrn Dr. Wlecke: WHO Leitlinien für Umgebungslärm vom 10. Oktober 2018 - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Dr. Wlecke: kostenfreies Parken für Elektrofahrzeuge in Düsseldorf - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Krüger: Lichtzeichenanlagen bzw. Ampeln - schriftlich beantwortet
+- TOP 4.15: Anfrage der Ratsfrau Krüger: Rasenflächen am Kö-Graben und auf der Kö - schriftlich beantwortet
+- TOP 4.16: Anfrage der Ratsfrau El Fassi: Entgasungsstation am Rhein - schriftlich beantwortet
+- TOP 4.17: Anfrage der Ratsfrau El Fassi: Karl Schmidtchen, Oberbürgermeister von Düsseldorf - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau Kraft-Dlangamandla: Abschiebungen der Düsseldorfer Ausländerbehörde 2018 - schriftlich beantwortet
+- TOP 5: Einkünfte aus Nebentätigkeit im Jahr 2018 für Herrn Oberbürgermeister Thomas Geisel - zur Kenntnis genommen
+- TOP 6: Kämmererliste - zur Kenntnis genommen
+- TOP 7: Franklinstraße 5, Jan-Wellem-Schule – Brandschutztechnische Sanierung des gesamten Standortes - einstimmig beschlossen
+- TOP 8: Friedrich Rückert-Gymnasium und Weiterbildungskolleg der Stadt Düsseldorf -Abendgymnasium- Erweiteru - einstimmig beschlossen
+- TOP 9: "Groß Venn" - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 10: Erstausstattung des Rheinufertunnels mit einer BOS-Digitalfunkanlage - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 11: Neubau eines „Hauses für Kinder, Jugendliche und Familien Lichtenbroicher Weg“ - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 12: Benrather Schloßallee 100-108, Schloss und Park Benrath - einstimmig beschlossen
+- TOP 13: Brandschutzbedarfsplan der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 14: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2019 - mehrheitlich beschlossen
+- TOP 15: Ablösung des bestehenden Ratsinformationssystems (RIS) sowie Ausweitung der digitalen Gremienarbeit - einstimmig beschlossen
+- TOP 16: Satzung zur Aufhebung der Betriebssatzung für den Stadtbetrieb Zentrale Dienste der Landeshauptstadt - einstimmig beschlossen
+- TOP 17: Satzung zur Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshaup - einstimmig beschlossen
+- TOP 18: Aufsichtsrat der Düsseldorfer Innovations- und Technologiezentrum GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 19: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 20: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 21: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 22: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 23: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 25: Antrag des Seniorenrates: Erhöhung der Aufwandsentschädigung für die Mitglieder - einstimmig beschlossen
+- TOP 26: Veränderungssperre Nr. 06/015 - Vogelsanger Weg/Münsterstraße - einstimmig beschlossen
+- TOP 27: Plan Nr.02/015 - Westlich Ronsdorfer Straße - Veränderungssperre - einstimmig beschlossen
+- TOP 28: Anträge
+- TOP 28.1: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Live Stream auch in öffentlichen Ausschusssitzungen - mehrheitlich abgelehnt
+- TOP 28.2: Antrag CDU: Jetzt Grundlagen für ein Opernhaus der Zukunft ermitteln - zurückgezogen
+- TOP 28.3: Antrag Tierschutz Freie Wähler:Verzicht auf Glyphosat und anderen Giften auf landwirtschaftlichen Pa - mehrheitlich abgelehnt
+- TOP 28.3.1: ÄA Bü90-Grü: Düsseldorf wird "Solidarity-City" - mehrheitlich abgelehnt
+- TOP 28.4: Antrag Die Linke: "Düsseldorf wird "Solidarity-City" - mehrheitlich abgelehnt
+- TOP 28.5: Antrag der CDU-Ratsfraktion: OB Geisel muss handeln – endlich mehr Sauberkeit in der Stadt! - mehrheitlich abgelehnt
+- TOP 28.6: Antrag Tierschutz Freie Wähler: Hundesteuersatzung aufheben - mehrheitlich abgelehnt
+- TOP 28.7: Antrag Tierschutz Freie Wähler: Rauchverbot in Wartehäuschen - mehrheitlich abgelehnt
+- TOP 28.8: Antrag CDU: YouTuber- und Influencer-Festival in Düsseldorf an den Start bringen - verwiesen
+- TOP 28.9: Antrag der Ratsfraktion DIE LINKE: Verkauf der RWE-Aktien - mehrheitlich abgelehnt
+- TOP 28.10: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Notfallrettung und Krankentransporte - mehrheitlich abgelehnt
+- TOP 28.11: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Lichtsmog am Kö-Bogen eindämmen! - zurückgezogen
+- TOP 28.12: Antrag SPD, BÜ90/GRÜ und FDP: International Website – Welcome to Düsseldorf! - mehrheitlich beschlossen
+- TOP 28.13: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Zukunft der Oper - einstimmig beschlossen
+- TOP 28.14: Antrag SPD, BÜ90/GRÜ und FDP: Städtische Räume sind kein Ort für Hetze - mehrheitlich beschlossen
+- TOP 28.14.1: EA Die Linke: Vergabekriterien für städtische Räume zur Abstimmung stellen - mehrheitlich abgelehnt
