@@ -1,8 +1,8 @@
 # Förderrichtlinie Ländliche Entwicklung Vollzitat: Förderrichtlinie Ländliche Entwicklung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2019-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/14205.3
+- Datum: 2019-03-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/14205.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.01.2019
+08.03.2019
 bis
-07.03.2019
+31.12.2019
 
 Förderrichtlinie Ländliche Entwicklung
 
@@ -163,7 +163,8 @@ Ländliche Neuordnung nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanp
 a)
 
 Fördergegenstände
-Maßnahmen im Rahmen der Ländlichen Neuordnung nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung, und dem Landwirtschaftsanpassungsgesetz in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Artikel 40 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, in der jeweils geltenden Fassung. Förderfähig sind Aufwendungen für die Bodenordnung und die Gestaltung des ländlichen Raumes in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz (Nummer 6.2.1 Buchstabe a des GAK-Rahmenplans) sowie Maßnahmen der Dorfentwicklung nach Nummer 4.2.1 Buchstabe b, g und j des GAK-Rahmenplans, die in direktem Zusammenhang mit einer gemeinschaftlichen Anlage nach § 39 des Flurbereinigungsgesetzes stehen beziehungsweise für die Bodenordnung zwingend erforderlich sind. Innerörtliche Straßen und Wege sowie innerörtliche Pflanzmaßnahmen sind als Dorfentwicklungsmaßnahmen auch ohne einen direkten Zusammenhang mit einer gemeinschaftlichen Anlage der Teilnehmergemeinschaft förderfähig.
+Maßnahmen im Rahmen der Ländlichen Neuordnung nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, in der jeweils geltenden Fassung, und dem Landwirtschaftsanpassungsgesetz in der Fassung der Bekanntmachung vom 3. Juli 1991 (BGBl. I S. 1418), das zuletzt durch Artikel 40 des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) geändert worden ist, in der jeweils geltenden Fassung. Förderfähig sind Aufwendungen für die Bodenordnung und die Gestaltung des ländlichen Raumes in Verfahren nach dem Flurbereinigungsgesetz und dem Landwirtschaftsanpassungsgesetz (Nummer 6.2.1 Buchstabe a des GAK-Rahmenplans) sowie Maßnahmen der Dorfentwicklung nach Nummer 4.2.1 Buchstabe b, g und j des GAK-Rahmenplans, die in direktem Zusammenhang mit einer gemeinschaftlichen Anlage nach § 39 des Flurbereinigungsgesetzes stehen beziehungsweise für die Bodenordnung zwingend erforderlich sind. Innerörtliche Straßen und Wege sowie innerörtliche Pflanzmaßnahmen sind als Dorfentwicklungsmaßnahmen auch ohne einen direkten Zusammenhang mit einer gemeinschaftlichen Anlage der Teilnehmergemeinschaft förderfähig.  
+
 
 b)
 
@@ -324,7 +325,7 @@ Neuordnung ländlichen Grundbesitzes und Gestaltung des ländlichen Raumes,
 
 gg)
 
-Breitbandversorgung ländlicher Räume,
+Regionalbudget,
 
 
 hh)
@@ -334,7 +335,7 @@ Kleinstunternehmen der Grundversorgung,
 
 ii)
 
-Einrichtungen für lokale Basisdienstleistungen.
+Einrichtungen für lokale Basisdienstleistungen/Grundversorgung.
 
 
 Gefördert werden sollen Vorhaben für spezifische Bedarfe der ländlichen Entwicklung nach einem gesonderten Aufruf des Staatsministeriums für Umwelt und Landwirtschaft sowie Einzelvorhaben im besonderen Interesse des Landes. Die Einzelheiten regelt das Staatsministerium für Umwelt und Landwirtschaft.
@@ -533,7 +534,8 @@ f)
 
 
 Soweit sich eine Baumaßnahme in Verfahren nach dem Flurbereinigungsgesetz auch auf den Innenbereich nach §§ 30, 34 des Baugesetzbuches in der Fassung der Bekanntmachung vom 23. September 2004 (BGBl. I S. 2414), das zuletzt durch Artikel 6 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722) geändert worden ist, in der jeweils geltenden Fassung, erstreckt, beträgt der Fördersatz für den innerörtlichen Teil 65 Prozent der dort anfallenden zuwendungsfähigen Ausgaben.
-Für innerörtliche Wasserbau- sowie Pflanzmaßnahmen als gemeinschaftliche Anlage nach § 39 des Flurbereinigungsgesetzes gilt der entsprechende Fördersatz nach Nummer 2 Buchstabe a bis e.
+Für innerörtliche Wasserbau- sowie Pflanzmaßnahmen als gemeinschaftliche Anlage nach § 39 des Flurbereinigungsgesetzes gilt der entsprechende Fördersatz nach Nummer 2 Buchstabe a bis e.  
+
 
 g)
 
@@ -570,8 +572,6 @@ Landankäufe im Rahmen des Landzwischenerwerbs sind bis zu 10 Prozent der zuschu
 Zu Ziffer II Nummer 2:
 
 Für die Finanzierung der Maßnahmen beträgt der Fördersatz 90 Prozent.
-
-Der staatliche Zuschuss im Rahmen der Maßnahme ist auf 500 000 Euro pro Ort beschränkt.
 
 Zu Ziffer II Nummer 3:
 
@@ -661,6 +661,11 @@ Diese Richtlinie tritt am 20. Dezember 2014 in Kraft.
 
 Gleichzeitig tritt die Förderrichtlinie Integrierte Ländliche Entwicklung vom 29. Dezember 2011 (SächsABl. 2012 S. 761), die zuletzt durch Richtlinie vom 20. Oktober 2014 (SächsABl. S. 1336) geändert worden ist, enthalten in der Verwaltungsvorschrift vom 11. Dezember 2013 (SächsABl. SDr. S. S 923), außer Kraft.
 
+
+Die Regelungen in Ziffer II Nummer 2, in Ziffer III Nummer 2, in Ziffer IV „Zu Ziffer II Nr. 2“ und in Ziffer V „Zu Ziffer II Nummer 2“ treten mit Wirkung zum 31. Dezember
+
+2019 außer Kraft.
+
 Dresden, den 15. Dezember 2014
 
 Der Staatsminister für Umwelt und Landwirtschaft
@@ -676,9 +681,9 @@ Fsn-Nr.: 5563-V15.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Januar 2019
+Fassung gültig ab:  8. März 2019
 
-Fassung gültig bis:  7. März 2019
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -703,7 +708,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/14205.3
+https://www.revosax.sachsen.de/vorschrift/14205.4
 Stand vom
 18.11.2026
 
