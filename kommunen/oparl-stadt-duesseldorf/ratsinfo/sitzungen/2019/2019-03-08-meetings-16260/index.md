@@ -1,0 +1,67 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-08T16:00:00+01:00
+- Ende: 2019-03-08T19:39:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16260
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16260
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00337468.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00337468.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00337468.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift 179/1/2019 vom 25.01.2019 - einstimmig beschlossen
+- TOP 5: Kriminalstatistik 2018 - mündl. Vortrag - zur Kenntnis genommen
+- TOP 6: Rhein-Ruhr-Express (RRX) - Streckenausbau Düsseldorf-Süd - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Rahmenkonzept ZUKUNFT QUARTIER.DÜSSELDORF - einstimmig beschlossen
+- TOP 10: Bezirklicher Bauunterhalt 2019, (Liste B) - Blumenoasen - einstimmig beschlossen
+- TOP 11: Anfrage: Lärmschutz BAB 59 - beantwortet
+- TOP 12: Anfrage: Lärmschutz BAB 46 - beantwortet
+- TOP 13: Anfrage: Gefahrguttransporte - vertagt
+- TOP 14: Anfrage: ÖPNV-Vorrangschaltung U71/U83 - vertagt
+- TOP 15: Anfrage: Parkraumbewirtschaftung - vertagt
+- TOP 16: Anfrage: Öffnung von Einbahnstraßen für gegenläufigen Radverkehr - beantwortet
+- TOP 17: Anfrage: Fahrradstraßen im Stadtbezirk 9 - beantwortet
+- TOP 18: Anfrage: Fahrradstraße Angerstraße - beantwortet
+- TOP 19: Anfrage: Zuständigkeiten Bahnhof Benrath - beantwortet
+- TOP 20: Anfrage: Verbesserung der Schutzmaßnahmen nach Starkregenereignissen am Ziegeleiweg - vertagt
+- TOP 21: Anfrage: Installation von Solarenergie-Anlagen auf städtischen Gebäuden und Solarkataster 2019 - vertagt
+- TOP 22: Anfrage: Geschwindigkeitsbegrenzung auf der Kölner Landstraße - zurückgezogen
+- TOP 23: Anfrage: Sicherheitslage Leverkuser Straße / Küppersteger Straße - beantwortet
+- TOP 24: Antrag: Verbesserung des ÖPNV im Düsseldorfer Süden - einstimmig beschlossen
+- TOP 25: Antrag: Shuttlebus Eissporthalle Kappeler Str. - einstimmig beschlossen
+- TOP 26: Antrag: Poller Ziegeleiweg - einstimmig beschlossen
+- TOP 27: Antrag: Sanierung und Modernisierung von Kinderspielplätzen - einstimmig beschlossen
+- TOP 28: Antrag: Mobilitätsstationen im Stadtbezirk 9 - einstimmig beschlossen
+- TOP 29: Antrag: Informationstafel am Bunker Burscheider Straße - einstimmig beschlossen
+- TOP 30: Antrag: Mergelgasse und benachbarte Straßen - einstimmig beschlossen
+- TOP 31: Antrag: Verbindungsweg Hospitalstraße/Wimpfener Straße - einstimmig beschlossen
+- TOP 32: Antrag: Broschüre "Gesucht: Stilles Örtchen" - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel KGS Rheindorfer Weg, Präventionsprojekt "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel Don Bosco Stiftung Herz und Hand für Wersten, Rheinschifffahrt 2019 - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel "Wir in Wersten e.V.", Osterfeuer 2019 - einstimmig beschlossen
+- TOP 36: Antrag: Verfügungsmittel "Wir in Wersten e.V.", Werstenrallye 2019 - einstimmig beschlossen
+- TOP 37: Antrag: Verfügungsmittel St.-Elisabeth-Schule, Projekt Impulz Gewaltprävention "Fair bleiben" - einstimmig beschlossen
+- TOP 38: Antrag: Verfügungsmittel Spektrum 76 Düsseldorfer Künstlerkreis e.V., Ausstellung in der Orangerie - einstimmig beschlossen
+- TOP 39: Antrag: Verfügungsmittel In der Gemeinde leben gGmbH, Radeln ohne Alter -interfraktionell- - einstimmig beschlossen
+- TOP 40: Antrag: Verfügungsmittel Lauftreff Düsseldorf-Süd e.V., 11. Benrather Schloss Lauf - einstimmig beschlossen
+- TOP 41: Antrag: Verfügungsmittel Jugendfreizeiteinrichtung Z4, Fahrt zum internationalen Fußballturnier - einstimmig beschlossen
+- TOP 42: Antrag: Verfügungsmittel Seelsorgeeinheit Düsseldorfer Rheinbogen, CREDO-Themenwoche - einstimmig beschlossen
+- TOP 43: Antrag: Verfügungsmittel Don Bosco Stiftung, Seniorennachmittag -interfraktionell- - einstimmig beschlossen
+- TOP 44: Antrag: Verfügungsmittel GGS Urdenbach, Theaterprojekte - einstimmig beschlossen
+- TOP 45: Informationsvorlage zum Beschluss der BV 9 vom 13.10.2017, Schimmelpfennig-/Einsiedelstraße - zur Kenntnis genommen
+- TOP 46: Informationsvorlage zum Beschluss der BV 9 vom 23.11.2018, Erweiterung des P&R-Platzes Hildener Str. - zur Kenntnis genommen
+- TOP 47: Informationsvorlage zum Beschluss der BV 9 vom 23.11.2018, Eisenbahnunterführung S-Bahnhof Reisholz - zur Kenntnis genommen
+- TOP 48: Informationsvorlage zum Beschluss der BV 9 vom 23.11.2018, DB-Bahnhof Benrath - zur Kenntnis genommen
+- TOP 49: Informationsvorlage zum Beschluss der BV 9 vom 23.11.2018, Markierung Fahrradwege Kölner Landstraße - zur Kenntnis genommen
+- TOP 50: Informationsvorlage zum Beschluss der BV 9 vom 10.11.2017, Einwendung Gefahrstofflager Karweg - zur Kenntnis genommen
