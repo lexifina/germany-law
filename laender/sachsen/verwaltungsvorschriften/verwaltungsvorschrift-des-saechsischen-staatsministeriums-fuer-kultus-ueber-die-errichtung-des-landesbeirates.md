@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus über die Errichtung des Landesbeirates für Erwachsenenbildung Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus über die Errichtung des Landesbeirates
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2016-12-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17051.1
+- Datum: 2019-03-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17051.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.12.2016
+08.03.2019
 bis
-07.03.2019
+06.08.2020
 
 Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus über die Errichtung des Landesbeirates
 
@@ -118,7 +118,7 @@ m)
 ein Vertreter des Landtagsausschusses für Schule und Sport.
 
 
-Als nicht stimmberechtigte Mitglieder mit beratender Stimme nehmen je ein Vertreter des Staatsministeriums für Kultus, des Staatsministeriums für Wirtschaft, Arbeit und Verkehr, des Staatsministeriums für Wissenschaft und Kunst, des Staatsministeriums für Umwelt und Landwirtschaft, des Staatsministeriums für Soziales und Verbraucherschutz, des Staatsministeriums des Innern, des Geschäftsbereiches Gleichstellung und Integration des Staatsministeriums für Soziales und Verbraucherschutz sowie der Regionaldirektion Sachsen der Bundesagentur für Arbeit an den Sitzungen des Landesbeirates teil.
+Als nicht stimmberechtigte Mitglieder mit beratender Stimme nehmen je ein Vertreter des Staatsministeriums für Kultus, des Staatsministeriums für Wirtschaft, Arbeit und Verkehr, des Staatsministeriums für Wissenschaft und Kunst, des Staatsministeriums für Umwelt und Landwirtschaft, des Staatsministeriums für Soziales und Verbraucherschutz, des Staatsministeriums des Innern, des Staatsministeriums der Justiz, des Geschäftsbereiches Gleichstellung und Integration des Staatsministeriums für Soziales und Verbraucherschutz sowie der Regionaldirektion Sachsen der Bundesagentur für Arbeit an den Sitzungen des Landesbeirates teil.
 
 
 2.
@@ -138,7 +138,7 @@ Die Tätigkeit der Mitglieder des Landesbeirates für Erwachsenenbildung und ihr
 
 5.
 
-Die Mitglieder und stellvertretenden Mitglieder erhalten auf Antrag Reisekostenvergütung, Sitzungsentschädigung und Entschädigung für Verdienstausfall nach der VwV Beiratsentschädigung vom 25. Januar 2010 (SächsABl. S. 252), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2015 (SächsABl. SDr. S. S 374), in der jeweils geltenden Fassung.
+Die Mitglieder und stellvertretenden Mitglieder erhalten auf Antrag Reisekostenvergütung, Sitzungsentschädigung und Entschädigung für Verdienstausfall nach der VwV Beiratsentschädigung vom 25. Januar 2010 (SächsABl. S. 252), zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), in der jeweils geltenden Fassung.
 
 
 III.
@@ -258,9 +258,9 @@ Fsn-Nr.: 713-V16.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Dezember 2016
+Fassung gültig ab:  8. März 2019
 
-Fassung gültig bis:  7. März 2019
+Fassung gültig bis:  6. August 2020
 
 Drucken/Speichern
 
@@ -285,7 +285,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17051.1
+https://www.revosax.sachsen.de/vorschrift/17051.2
 Stand vom
 18.11.2026
 
