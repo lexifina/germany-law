@@ -1,0 +1,90 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-11T16:00:00+01:00
+- Ende: 2019-03-11T18:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20383
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20383
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00708382.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00708382.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00708382.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken Aegidienbergerstr., Unkelerstr., Erpelerstr. in Lindenthal (Az.: 02-1600-224/18) - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Taktverdichtung der Straßenbahnlinie 9 und der Buslinie 152 (Az.: 02-1600-93/18) - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Freie Baumscheiben in Sülz - zurückgestellt
+- TOP 7.2.2: Oskar-Jäger-Straße - zurückgestellt
+- TOP 7.2.3: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Neubaugebiet „Clarenbachplatz“ an der Aachener Straße 460 - ungeändert beschlossen
+- TOP 8.1.2: Mangelndes digitales Angebot an der LVR Förderschule, dem benachbarten Bahnhof Belvedere und der Freiluga in der Belvederestraße in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.3: Städtischer Pressespiegel für BV-Mitglieder - ungeändert beschlossen
+- TOP 8.1.4: Ersetzen von zwei Bäumen an vorgesehenen Pflanzflächen - geändert beschlossen
+- TOP 8.1.5: Ertüchtigung des Radweges Kölner Straße - geändert beschlossen
+- TOP 8.1.6: Änderung der Radwege auf der Widdersdorfer Landstraße nach den beendeten Baumaßnahmen - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2: Einrichtung verkehrsberuhigender Elemente auf der Kölner Straße in Köln-Lövenich inkl. Deckensanierungsarbeiten - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - Alternative beschlossen
+- TOP 9.2.2: Sportentwicklungsplanung der Stadt Köln - geändert beschlossen
+- TOP 9.2.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: Nördlich Scheidtweilerstraße in Köln-Braunsfeld - geändert beschlossen
+- TOP 9.2.4: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 9.2.5: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 9.2.6: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - geändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 11.1.2: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 11.1.3: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: VZ 136-10 Kinder kreuzen - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Earth Hour 2019 - Kenntnis genommen
+- TOP 11.3.2: 9. Änderung des Gesamtverkehrskonzeptes der Stadt Köln - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen
+- TOP 12.1: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - zurückgestellt
+- TOP 12.2: Müllbeseitigung im Bereich von Fastfood-Läden - zurückgestellt
+- TOP 12.3: Kölner Stadion EM 2024 - zurückgestellt
+- TOP 12.4: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.5: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.6: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.7: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 12.8: Verkehrsberuhigung ,,Am Keuschhof'' in Lövenich - zurückgestellt
+- TOP 12.9: Zukünftige Planung für das Haus Kyllburger Straße 3 in Sülz - zurückgestellt
+- TOP 12.10: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.11: Anfrage zum Sachstand der äußeren Gestaltung der Schalt- und Verteilerkästen im Stadtbezirk - zurückgestellt
+- TOP 12.12: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.13: Bauprojekt Wohngebäude auf der Brauweiler Straße in Köln-Lövenich - zurückgestellt
+- TOP 12.14: Status Rhöndorfer Straße - zurückgestellt
+- TOP 12.15: Leerstand der Wohnblöcke Friedrich- Engels- Str. 3-7 - zurückgestellt
+- TOP 12.16: Mobilitätsstation Klettenberggürtel - zurückgestellt
+- TOP 12.17: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.18: Zentraler Verkehrsrechner und Ampelprogramm - zurückgestellt
+- TOP 12.19: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.20: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 12.21: Bearbeitungsstand Sicherung Bushaltestellen - zurückgestellt
+- TOP 12.22: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.23: Anfrage Freifläche Grundschule Wendelinstr. - zurückgestellt
+- TOP 12.24: Express Bus Aachener Str. - zurückgestellt
+- TOP 12.25: Neubauprojekt Clarenbachstift - zurückgestellt
