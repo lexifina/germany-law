@@ -1,0 +1,133 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2019-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5006073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5006073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.3: Vorstellungen und Berichte
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 01.02.2019, Luftverschmutzung auf dem Wittelsbacherplatz
+- TOP 5.2.2.: Bürgeranliegen vom 03.02.2019, Ampelanlage Hessstraße Ecke Lothstraße
+- TOP 5.2.3.: Bürgeranliegen vom 13.02.2019, Flutlichter bzw. Leuchten für den Maßmannpark
+- TOP 5.2.4.: Bürgeranliegen vom 18.02.2019, Schädlingsbekämpfung im Alten Botanischen Garten
+- TOP 5.3.1.: Das Musische Zentrum der Landeshauptstadt München, Trägerschaft Kreisjungendring Mün- chen Stadt im Bayerischen Jugendring stellt sich vor.
+- TOP 6.1.: Bürgeranfrage Verstöße gegen das Taubenfütterungsverbot, Antwortschreiben des Kreisver- waltungsreferates und des Referates für Gesundheit und Umwelt(s. TOP A 5.2.5/01 2019)
+- TOP 6.2.: Sicherheit für Radfahrer: Warnschild "Radfahrer - Rechts vor Links" versetzen, Georgen-/Adelheidstraße
+- TOP 6.3.: Sicherheit für Radfahrer an der Kreuzung Maßmann-, Schleißheimer-, Theresienstraße
+- TOP 6.4.: Radmarkierung und Ladestation in der Lothstraße
+- TOP 6.5.: Antrag auf Aufstellung von NO2-Messstellen in der Maxvorstadt
+- TOP 6.6.: Sicherheit für Radfahrer: MVG-Schrankensystem in der Lothstraße
+- TOP 6.7.: E-Radeln wird in München mit hohen Summer gefördert Wo bleibt die dafür notwendige Fahrrad-Infrastruktur und die Verbesserung der Sicherheit für Radler auf Münchens Straßen
+- TOP 6.8.: Buslinie 153, Antwortschreiben der MVG zu einer Bürgeranfrage (s. TOP A 5.2.1/01 2019)
+- TOP 6.9.: Aufwertung des Erscheinungsbildes der U-Bahnhöfe in der Maxvorstadt
+- TOP 6.10.: Umgehende Kontrolle der Baustelle an der Nymphenburger Straße 64 durch die Lokalbaukommission - Bauvorschriften einhalten um Anwohner vor Dreck und Lärm zu schützen
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag von Bündnis 90/Die Grünen vom 06.02.2019 Begrünung der Akademiestraße vertagt aus der Sitzung vom 12.02.2019
+- TOP 1.2.: Antrag der CSU vom 11.02.2019 Akademiestraße – Freiraum für Anwohnertiefgarage nutzen vertagt aus der Sitzung vom 12.02.2019
+- TOP 1.3.: Antrag SPD vom 11.02.2019 Möglichkeit der Wohnungsbebauung durch städtische Wohnungsbaugenossenschaften auf dem Grundstück Dachauer Straße 90 prüfen
+- TOP 1.4.: Antrag SPD vom 18.02.2019 Zwischennutzung auf dem Grundstück Dachauer Straße 90 unterstützen
+- TOP 1.5.: Antrag Bündnis 90/Die Grünen vom 21.02.2019 Münchens Stadtbild gestalten – Neubauten und Sanierungen zur Rekonstruktion und Revitalisierung nutzen
+- TOP 1.6.: Antrag Bündnis 90/Die Grünen vom 20.02.2019 Baumbilanz in der Maxvorstadt für die letzten fünf Jahre überprüfen
+- TOP 1.7.: Antrag CSU vom 25.02.2019 Verschönerung des Bauzaunes um die Glyptothek
+- TOP 2.1.1.: Listen der Bauvorhaben der LBK: 5., 6., 7., 8. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 3., 4., 5., 6., 7. KW
+- TOP 2.1.3.: Türkenstraße 50, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - VORBESCHEID
+- TOP 2.1.4.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2089, Pappenheimstraße (westlich) zwischen Marsplatz und Blutenburgstraße (Teiländerung des Bebauungsplanes Nr. 1466)
+- TOP 3.1.1.: Türkenstraße 50 Neubau eines Wohn- und Geschäftshauses mit Tiefgarage – Vorbescheid -
+- TOP 3.2.1.: entfällt
+- TOP 3.2.2.: Ludwigstraße 20, div. Bäume vertagt aus der Sitzung vom 12.02.2019
+- TOP 3.2.3.: Veterinärstraße 13, vier Pyramidenpappeln
+- TOP 3.2.4.: Georgenstraße 23/25: ein Walnussbaum, ein Holunder
+- TOP 5.1.: Linprunstraße 11, Baumfällungen Eilentscheidung des Vorsitzenden vom 18.02.2019, Zustimmung, mit der Maßgabe von Er- satzpflanzungen
+- TOP 5.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Perspektive München, Fortschreibung des Zentrenkonzeptes, Grundsatzbeschluss Sitzungsvorlage Nr. 14-20 7 V 12932
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 22.02.2019 Straßenkünstler im Alten Botanischen Garten
+- TOP 1.2.: Antrag Bündnis 90/Die Grünen vom 20.02.2019 Beleuchtungsanlage für den Bolzplatz im Maßmannpark
+- TOP 1.3.: Antrag der SPD vom 12.02.2019 Bushaltestelle am ASZ Maxvorstadt
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen vom 20.02.2019 Fahrradfreundlicher Straßenbelag sowie Geschwindigkeitsbegrenzung auf 30 km/h in der Luisenstraße, die Teil der Radl-Hauptroute Marienplatz-Harthof ist.
+- TOP 1.5.: Antrag CSU vom 25.02.2019 Verlegung der Bushaltestelle am Lenbachhaus in Richtung Hauptbahnhof unmittelbar an den U-Bahnhof Königsplatz
+- TOP 1.6.: Antrag FDP vom 26.02.2019 Anfrage: Zunehmende Vermüllung der Maxvorstadt
+- TOP 1.7.: Antrag FDP vom 26.02.2019 MVG Leihräder in den Eingangsbereich der U-Bahnhaltestelle Universität/Prof.-Huber-Platz verlegen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Kreisverwaltungsreferat, geplante verkehrsrechtliche Anordnung Brienner Straße: beidseitige Markierung von Radfahrstreifen auf der Brienner Straße zwi- schen Türkenstraße und Karolinenplatz, Verkehrsversuch gemäß Grundsatzbeschluss Radverkehr
+- TOP 2.1.2.: Kreisverwaltungsreferat, geplante verkehrsrechtliche Anordnung Erzgießereistraße, Freigabe für den gegenläufigen Radverkehr
+- TOP 2.1.3.: Kreisverwaltungsreferat, geplante verkehrsrechtliche Anordnung Marsplatz (Nebenfahrbahn) zwischen Deroystraße und Wredestraße, Freigabe für den gegenläufigen Radverkehr
+- TOP 2.1.4.: Erinnerungsverfahren Spakoo-ProjektNr. 18 11673 MT2 00 Fahrbahnsanierug Akademiestraße vertagt aus der Sitzung vom 12.02.2019
+- TOP 2.1.5.: (E) Verkehrsberuhigung (Tempo-30-Zone) in der Maßmannstraße
+- TOP 2.1.6.: (E) Wiederherstellung der Verkehrssicherheit
+- TOP 2.2.1.: Baureferat, Erinnerungsverfahren, Adalbertstraße 56, Grabungssanierung
+- TOP 2.2.2.: Baureferat, Erinnerungsverfahren, Katharina-von-Bora-Straße 7-13, Fahrbahn
+- TOP 2.2.3.: Baureferat, Erinnerungsverfahren, Nordendstraße 1a – 13, Fahrbahn
+- TOP 2.2.4.: Kreisverwaltungsreferat, Kurzzeitparkplatz Schleißheimer Straße 53 a
+- TOP 2.2.5.: (E) Radlständer für mindestens 12 Fahrräder in der Isabellastraße im Abschnitt zwischen Georgen- und Neureutherstraße Empfehlung Nr. 14-20 / E 02189 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 18.10.2018
+- TOP 2.3.1.: Dachauer Straße 14, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Seidlstraße 2 a, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.4.1.: Werbeveranstaltung „Selle Royal Bike Van“ am 28.03.2019, Geschwister-Scholl-Platz
+- TOP 2.4.2.: TUNIX 2019 vom 17. bis 21.06.2019, Königsplatz 3
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Vollzug der „Grünanlagensatzung“ „Perser Pentagon Performance“ auf dem Gebiet des Alten Botanischen Gartens am 28.02. und 01.03.2019
+- TOP 3.2.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung Tempo 30 vor Kindertagesstätte Sandstraße 22
+- TOP 3.3.: Referat für Gesundheit und Umwelt, Ausnahmezulassung, Holzfällarbeiten Von-der-Tann-Straße 9-11, Oskar-von-Miller-Ring 25
+- TOP 3.4.: Kreisverwaltungsreferat, Arbeiten im Straßenraum a( Oskar-von-Miller-Ring, Prinzregenstraße, Franz-Josef-Straße-Ring, Altstadtringtunnel (Herstellung von Löschwasserkammern und einer Stützmauerverstärkung) b) Marsstraße zwischen Anwesen 40 und Dachauer Straße, Fernkälte/Fernwärme
+- TOP 3.5.: Baumaßnahmen der Stadtwerke a) Oskar-von-Miller-Ring, Fernkälte b) Katharina-von-Bora-Straße, Gas c) Karlstraße 112, Fernwärme d) Brienner Straße, Gleissanierung e) Görresstraße, Wasser
+- TOP 3.6.: Referat für Gesundheit und Umwelt, Jahres genehmigung für Arbeiten an Anlagen des ÖPNV
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag der CSU vom 24.02.2019 Temporäre Kunsteisfläche auf Bolzplatz Maßmannpark
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Elternbeirat des Wittelsbacher-Gymnasiums e.V. Musical "Joseph" vom 08.-10.04.2019 2.000,00 € / Az. 0262.0-3-0239
+- TOP 2.2.: (E) Stadtbezirksbudget Biku e.V. Projekt "A.PPLAUS" vom 11.-14.06.2019 2.768,41 € / Az. 0262.0-3-0241
+- TOP 2.3.: (E) Stadtbezirksbudget Refugee Law Clinic Munich e.V. Ausbildungswochenende für neue Berater 750,00 Euro, Az.: 0262.0-3-0231
+- TOP 2.4.: (E) Stadtbezirksbudget Kirchengemeinde St. Markus München Aufführung "Reise ins Ich - Eine Göttliche Komödie" vom 23.01.2019 bis 13.04.2019 2.500,00 € AZ: 0262.0-3-0234
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Spielen in der Stadt, Planung der Einsätze der MünchnerSommerSpielAktion 2019
+- TOP 4.2.: Referat für Bildung und Sport, Beschlussvorlage Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungswe- ges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förder- schulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019, Sitzungsvorlage Nr. 14-20 7 V 13744
+- TOP 4.3.: Referat für Bildung und Sport, Beschlussvorlage Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019, Sitzungsvorlage Nr. 14-20 / V 13796
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initative Apher Jewelry & Solids Ausstellung vom 09.03.2019 bis 17.04.2019 1.425,00 € AZ: 0262.0-3-0236
+- TOP 2.2.: (E) Stadtbezirksbudget Kath. Pfarrkirchenstiftung St. Benno München Kirchenkonzert am 07.04.2019 2.240,00 Euro, Az.: 0262.0-3-0238
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Vollzug der Plakatierverordnung, Schreiben des BA 25 Laim an den Oberbürgermeister Bitte um Unterstützung, Unterrichtung
+- TOP F.2.: Direktorium, Unterrichtung Erhöhung des Anteilssatzes für eigene Veranstaltungen von sechs Prozent (bzw. acht Prozent in Jubiläumsjahren) auf zehn Prozent oder zumindest bei Bedarf variabler zu gestalten, BA-Antrag Nr. 14-20 / B 05769 des BA Laim vom 05.02.2019
+- TOP G: Nicht öffentliche Sitzung
