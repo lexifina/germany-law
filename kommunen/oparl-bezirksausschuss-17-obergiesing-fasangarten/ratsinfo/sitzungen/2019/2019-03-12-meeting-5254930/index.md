@@ -1,0 +1,163 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5254930
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5254930
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 1.3.1.: Umbesetzung in den Unterausschüssen (Fraktion Bündnis`90/Die Grünen)
+- TOP 2.1.2.1.: Verkehr mit Maß & Anbindung der Europäischen Schule sowie Siedlungsausbau im BA
+- TOP 2.1.2.2.: Fußweg durch parkende Autos gesperrt, Schwanseestrasse
+- TOP 2.1.2.3.: Planung des Wertstoffhofs in der Fasanengartenstraße; Info über Bienenstöcke direkt neben der bestehenden Kompostieranlage
+- TOP 2.1.2.4.: Parksituation am Perlacher Forst/Ami Siedlung
+- TOP 2.1.2.5.: Alu-Konfetti an der S-Bahn Fasanengarten; hier Unterführung (Treppe) südliches Bahnsteigende und Umweltverschmutzung durch Wertstoffcontainer
+- TOP 2.1.2.6.: Fragen zur neuen Heizungsanlage im Kindergarten in der Tirschenreuther Straße
+- TOP 2.1.2.7.: Bienen und Artensterben, hier: folgen der Weidenrodung auf dem städtischen Spielplatz in der Tirschenreuther Straße und Zusammenhang Artenschwund und Schnecken
+- TOP 2.1.2.8.: Ideen für Spielmöglichkeit und Blumenschmuck ohne Straßensperrung am Alpenplatz
+- TOP 2.1.2.9.: Diskussionsvorlagen zu: Uhrmacherhäusel, Transparenz am Wohnungsmarkt, Investorenarchitektur bzw. Chancengleichheit beim Immobilienerwerb
+- TOP 3.9.1.1.: Simsseestraße 14, 4 Fichten
+- TOP 3.9.1.2.: Fasangartenstraße 138, 1 Kiefer
+- TOP 4.1.: Mehr Raum für Menschen – Aufwertung des öffentlichen Raumes am Alpen- und Edelweißplatz; Antrag der SPD-Fraktion
+- TOP 4.2.: Wiedervereinigung von Alpenplatz und Edelweißplatz im Rahmen einer temporären "Sommerstraße" bzw. eines verkehrsberuhigten Bereiches; Antrag der SPD-Fraktion
+- TOP 4.3.: Parklizenzgebiete "Walchenseeplatz" und "Giesinger Bahnhof" schnellstmöglich umsetzen ? Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.4.: Kinderbetreuung bei Bürgerversammlung im BA 17; Antrag der SPD-Fraktion
+- TOP 4.5.: Einmündung Lincolnstraße in die Tegernseer Landstraße für Rad- und Fußverkehr sicherer regeln; Antrag der SPD-Fraktion
+- TOP 4.6.: Einmündung Stettnerstraße in die Tegernseer Landstraße für Radverkehr sicherer regeln; Antrag der SPD-Fraktion
+- TOP 4.7.: Beseitigung Taubenplage in der Anwohnergarage an der Deisenhofener Straße; Antrag der SPD-Fraktion
+- TOP 5.1.1.: (E) Stadtbezirksbudget Förderverein Asam-Gymnasium Druck Schülerzeitung 500,00 € AZ: 0262.017-0197
+- TOP 5.4: Sonstiges
+- TOP 6.1.1.1.: cuatro-c Tanzstudio, Untere Grasstraße 9; Bürgeranliegen (E-Mail) vom 05.12.18 (vertagt vom 11.12.18)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Schlierseestr. 29, DG-Erweiterung, Erweiterung Loggien 1.-5. OG
+- TOP 6.1.3.2.: Rotwandstr. 3-7, Hofbebauung über Gründeckel mit Anbau an ein Bestandsgebäude, Neubau einer Tiefgarage und Errichtung von überbautem Stellplätzen im Hof - Vorbescheid
+- TOP 6.1.3.3.: Fasangartenstr. 138a, Errichtung einer Wohnbebauung in drei Varianten VARIANTE 1: Einfamilienhaus (Bestand bleibt erhalten), VARIANTE 2: Zwei Mehrfamilienhäuser, VARIANTE 3: Doppelhaus- Vorbescheid
+- TOP 6.1.3.4.: Balanstr. 369, Neubau eines Reiheneckhauses und eines Einfamilienhauses mit Garage und Duplexgarage
+- TOP 6.1.3.5.: Tegernseer Landstr. 189-189a, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid (2. Var.)
+- TOP 6.1.3.6.: Alpenstraße 15, Neubau zweier Wohngebäude (VGB + RGB) mit jeweils erdgeschossiger Büronutzung und Tiefgarage - Vorbescheid
+- TOP 6.1.3.7.: Alpenstraße 17, Neubau eines Wohngebäudes (RGB) mit Tiefgarge sowie Sanierung, Umbau und Erweiterung des Vordergebäudes - Vorbescheid
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk in der Zeit vom 28.01.2019 bis 24.02.2019
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Planung der Einsätze der MünchnerSommerSpielAktion 2019
+- TOP 6.2.4.2.: Eltern-Kind-Initiativen entlasten !
+- TOP 6.2.4.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 6.2.4.4.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 6.2.4.5.: Fortführung des Projektes Soziale Stadt Giesing
+- TOP 6.2.4.6.: Information des Stadtteilladens Giesing
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen, hier: Perlacher Str. 114/116
+- TOP 6.3.3.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 6.3.3.3.: Einrichtung einer Kurzparkzone in der Holtzendorffstraße
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Erhalt des Fußgänger- und Radweges vom Schwanseeplatz zur Lincolnstraße - Zwischennachricht mit Fristverlängerung
+- TOP 6.3.4.2.: Einrichtung einer temporären Fußgängerzone von Mai bis September in der Eddelweißstraße - Zwischennachricht mit Fristverlängerung
+- TOP 6.3.4.3.: Erweiterung der bestehenden Feuerwehrzufahrt am St. Martins-Platz 4-6
+- TOP 6.3.4.4.: Rote Karte für Rennstrecken - Tempo 30 in der Deisenhofener Straße
+- TOP 6.3.4.5.: Tempo 30 km/h in der Deisenhofener Straße von der Tegernseer Landstraße bis zur Raintaler Straße
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Anmahnung von Ersatzpflanzungen in der Cincinnatistraße
+- TOP 6.4.4.2.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP 6.5.1.1.: Ergebnisprotokoll des Ortstermins zur Sanierung des Rasenplatzes am Sportplatz General-Kalb-Weg
+- TOP 6.5.1.2.: zu 6.5.1.1 General-Kalb-Weg 33, Vorstellung der Vorentwurfsplanung für die Rasenplazusanierung; Vormerkung des Referats für Bildung und Sport zum Ortstermin vom 19.02.19, Konzept und Plan
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Aufstellung von Tischtennis-Platten auf Plätzen im 17. Stadtbezirk; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets
+- TOP 6.5.4.2.: Errichtung eines Wasseranschlusses in der Grünanlage am Katzenbuckel (3. BA Weißenseepark) an der dortigen Dirt-Bike-Bahn; Kostenbeteiligung des BA 17 aus Mitteln des Stadtbezirksbudgets
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Antrag auf Freischankfläche Tegernseer Landstraße 14, erneute Beschlussvorlage des Kreisverwaltungsreferats (vgl. TOP 6.6.2.2 vom 09.10.2018) und Begleitschreiben des KVR vom 04.02.2019
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Unveränderte Fortführung eines Gaststättenbetriebes; hier Café Bras
+- TOP 6.6.4.2.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 6.6.4.3.: Münchener Wochen- und Bauernmärkte - Eröffnung des Interimsmarktes hinter dem Platz am Cincinattikino
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
