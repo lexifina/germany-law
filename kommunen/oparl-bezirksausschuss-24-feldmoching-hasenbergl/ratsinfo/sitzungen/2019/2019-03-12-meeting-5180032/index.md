@@ -1,0 +1,86 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2019-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5180032
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5180032
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget Project 45 Urban Dance Classes für Kinder und Jugendliche 3.907,35 Euro / Az. 0262.0-24-0251
+- TOP 2.2.: (E) Stadtbezirksbudget Ev. Luth. Pfarramt Evangeliumskirche Kirchenmusik „Faschingskonzert“ am 05.03.2019 385,00 Euro / Az. 0262.0-24-0254
+- TOP 2.3.: (E) + (U) Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl Federgrasweg
+- TOP 2.4.: (E) Höhengleicher Bahnübergang Feldmochinger Straße: Abschluss der Vorplanungen bis spätestens 30.06.2018 Empfehlung Nr. 14-20 / E 01945 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 22.03.2018
+- TOP 3.: Anträge
+- TOP 3.1.: Generalsanierung des Straßenabschnittes der Staatsstraße 2342 (Feldmochinger Straße) nördlich der Pflaumstraße bis zur Ortsgrenze
+- TOP 3.2.: Zwischennutzung für noch nutzbare Häuser im Eggarten
+- TOP 3.3.: Stadtbezirksbudge (BSL); Installation eines festen Blitzers oder verkehrsbremsender Baumaßnahmen (sog. Speedbumps) in Feldmoching an der Kreuzung Schaarschmidtstraße/Dülferstraße
+- TOP 3.4.: N Erweiterung der 30er-Zone in der Josef-Frankl-Str.
+- TOP 5.1.1.: Harpprechtstr. 1 - 7
+- TOP 5.1.2.: N Paulckestr. 1 - 9
+- TOP 5.1.3.: N Berberitzenstr. 59
+- TOP 5.2.1.: Harpprechtstr. 1 - 7
+- TOP 5.2.2.: Grieserstr. 15
+- TOP 5.2.3.: N Olschewskibogen 29
+- TOP 5.2.4.: N Paulckestr. 1 - 9
+- TOP 5.2.5.: N Berberitzenstr. 59
+- TOP 5.3.1.: Fest vom 12. - 14.07.2019 auf dem Dülfer Anger
+- TOP 5.3.2.: VIP e.V. Familienfest vom 03. - 09.10.2019, Dülfer Anger
+- TOP 5.3.3.: Anwohnerflohmarkt am 13.07.2019, Am Schnepfenweg/Kohlröschenstraße
+- TOP 5.4.1.: Vollzug des BImschG; Karlsfelder Str. 260, Teststrecke 2 Erweiterung des Anfahrhügel-Komplexes/Erhöung der Nutzungsintensität
+- TOP 5.4.2.: Neue Sitzgelegenheiten an öffentlichen Plätzen, Stbez. 24
+- TOP 5.4.3.: Änderung des Flächennutzungsplans für den Bereich V/57 und Bebauungsplan mit Grünordnung Nr. 1939d - BMW FIZ Nord Nord mit Busbahnhof - Entwurf -
+- TOP 5.4.4.: Gemeinde Oberschleißheim; BPlan Nr. 28 "Sondergebiet Forschung in Neuherberg (1. Änderung),...
+- TOP 5.4.5.: N Mehr Grün im Straßenraum BA-Antrag Nr. 14-20 / B 05589 des Bezirksausschusses des Stadtbezirkes 3 - Maxvorstadt vom 11.12.2018
+- TOP 6.: Feldmochinger Straße, Höhe Bahnübergang Beschilderung mit Gefahrzeichen "Fußgänger"
+- TOP 7.: Zeitlich beschränktes Haltverbot in der Pflaumstraße Nordseite
+- TOP 8.: Vorfahrtsregelung Schwarzhölzlstraße / Am Dratfeld
+- TOP 9.: Haltverbot Reginoltstraße; Nachfrage KVR
+- TOP 10.: N Spielaktionen der AG Spiellandschaft Stadt 2019 - Antrag auf Sammelgenehmigung
+- TOP 11.: N Erinnerungsverfahren (§ 6.1 AufgrO); Fahrbahnsanierung, Schleißheimer Str. 501 - 523
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Anwendung der Baumschutzverordnung der Landeshauptstadt München auf das Gebiet der Kolonie Eggarten, Beschluss des BA 24 vom 19.06.2018 zur BVE-Nr. 14-20 / E 01937 (SV-Nr. 14-20 / V 11758) Keine weiteren Rodungen, Aufräum- und Abrissarbeiten auf dem Gelände der Eggartensiedlung
+- TOP 6.2.: Entfernung von Fahrradparkplätzen aus dem Bereich eines Behindertenparkplatzes
+- TOP 6.3.: Schaffung von Wohnungen für therapeutische Wohn­gemeinschaften und betreutes Einzelwohnen für psychisch kranke Menschen
+- TOP 6.4.: Anträge aus der 16. Kinder- und Jugendsprechstunde vom 26.01.2018; a) Nr. 16/4: GS Toni-Pfülf-Str: Schwimmunterricht für alle (nicht nur für Nichtschwimmer) b) Nr. 16/8, 16/9: GS Lerchenauer Str.: Tischtennisplatte u. Trampolin auf dem Schulhof
+- TOP 6.5.: Lärmschutzwand für die Siedlung Ludwigsfeld in Höhe der Karlsfelder Str. 260; Ergebnis Schallpegelmessungen
+- TOP 6.6.: Frühlingsfest am Dülfer Anger vom 05. - 14.04.2019, Ausnahmegenehmigung
+- TOP 6.7.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Einrichtung eines personenbezogenen Behindertenparkplatzes im Linus-Funke-Weg b) Tempo 30: Josef-Frankl-Straße (Bereich Kindergarten) c) Tempo 30: Auf den Schrederwiesen 71 c (Bereich Kindergarten)
+- TOP 6.8.: Planung der SommerSpielAktion 2019
+- TOP 6.9.: Daten Pegel Feldmoching
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: Meldelisten Baumfällungen
+- TOP 6.12.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 6.13.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 6.14.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 6.15.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 6.16.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 7.1.1.: Anträge zur Informationsveranstaltung Bebauung in der Ittlinger Straße vom 07.02.2019
+- TOP 7.2.1.: Anträge aus der 17. Kinder- und Jugendsprechstunde vom 22.02.2019
+- TOP 7.2.2.: Schulsozialarbeit an den Grundschulen im 24. Stadtbezirk; Anfrage zur Einstellung der Schulsozialarbeit an der GS an der Paulckestraße
+- TOP 7.2.3.: Schulsozialarbeit an den Grundschulen im 24. Stadtbezirk; Antrag: Aufstockung bzw. Einführung an diversen Grundschulen
+- TOP 7.2.4.: Antrag: Ausreichende Kalkulation für die Extrastunden der Deutsch-Vorkurse in den Kindergärten
+- TOP 7.2.5.: Antrag: Verkleinerung der Anzahl der Schüler pro Schulvorkurs sowie ein ausreichendes Angebot an Vorkursen
+- TOP 7.2.6.: N Schulsozialarbeit an den Grundschulen im 24. Stadtbezirk; Anfrage an das RBS bzgl. der bisherigen Anträge der GS-Toni-Pfülf
+- TOP 8.1.: Protokoll der Sitzung vom 22.01.2019 (nach Genehmigung in der Sitzung am 12.02.2019)
+- TOP 8.2.: Umsetzung von Maßnahmen zum Ausbau der Fahrradinfrastruktur - überarbeitete Vorschlagsliste -
+- TOP 8.3.: Plakatieren von kulturellen Veranstaltungen durch die Bezirksausschüsse
