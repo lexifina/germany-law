@@ -1,0 +1,62 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147516
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147516
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Bürgerschreiben zum Wertstoffcontainer-Standort Gollierplatz
+- TOP 6.2.1.: Bauvorhaben Landsberger Straße 119
+- TOP 6.3.1.: Baugenehmigung Parkstraße 25; Nutzungsänderung Laden zu Gaststätte
+- TOP 6.3.2.: Meldelisten Bauvorhaben SWM
+- TOP 6.3.3.: Unveränderte Fortführung der Gaststätte Florenz
+- TOP 6.3.4.: Barrierefreier Umbau der Bushaltestelle Kazmairstr. / Trappentreustr.
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Termin zum jährlichen Informationsaustausch der BAs mit dem Referat für Bildung und Sport am 08.05.2019
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Festumzug zum Frühlingsfest 2019 am 26.04.2019
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Baustelleneinrichtung Schießstättstraße
+- TOP 8.3.2.: Fällung von Gefahrenbäumen im Bavariapark
+- TOP 8.3.3.: Entfernung eines illegalen Altkleidercontainers am Gollierplatz
+- TOP 8.3.4.: Verlagerung des Containerstandortes Westendstraße 154
+- TOP 8.3.5.: Baumrückschnitt in der Geroltstraße
+- TOP 8.3.6.: Astallerstraße 18; Ablehnung der Fällung einer Birke
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Munich Groove Art Base Jugendprojekt Groove Art am 22.09.2018 und 23.09.2018 5.720,00 € AZ: 0262.0-8-0159
+- TOP 9.1.2.: (E) Stadtbezirksbudget Initiative Open Westend Open Westend vom 05. - 07.04.2019 800,00 € / Az. 0262.0-8-0174
+- TOP 9.1.3.: (E) Stadtbezirksbudget Hobbits e.V. Anschaffung von Federtier "Kleeblatt" und Doppelbuggy 1.079,00 € / Az. 0262.0-8-0175
+- TOP 9.1.4.: (E) Stadtbezirksbudget FC Ludwigsvorstadt München e.V. Anschaffungen für die Jugendabteilung 3.149,88 € / Az. 0262.0-8-0177
+- TOP 9.1.5.: (E) Stadtbezirksbudget United Cultures Initiative e.V. Sidewalk Cultures Festival 26. - 28.07.2019 8.780,00 € / Az. 0262.0-8-0176
+- TOP 9.1.6.: (E) Stadtbezirksbudget Multikulturelles Jugendzentrum - MKJZ Frühlingsfest am 26.04.2019 710,00 € / Az. 0262.0-8-0178
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Präsentation zur Informationsveranstaltung zum Stadtbezirksbudget vom 20.02.2019
+- TOP 11.1.: Bürgerversammlung des 8. Stadtbezirks Schwanthalerhöhe am 04.04.2019
+- TOP 11.2.: Stadtbezirksbudget; Erhöhung des Anteils für Eigenveranstaltungen - Antrag BA 25 Laim
+- TOP 11.3.: Plakatierungsverordnung; Ablehnung der Plakatierung durch den Bezirksausschuss für eine kulturelle Veranstaltung - Antrag BA 25 Laim
