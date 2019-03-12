@@ -1,0 +1,29 @@
+# Bauleitplanung - Aufstellung eines Teilflächennutzungsplans im Sinne des § 5 Abs. 2b Baugesetzbuch (BauGB) zur Steuerung der Standorte von Windenergieanlagen im Stadtgebiet der Stadt Bad Pyrmont zur Erzielung der Rechtswirkung des § 35 Abs. 3 Satz 3 BauGB (Ausschlusswirkung) im gesamten Außenbereich der Stadt Bad Pyrmont - Zustimmung zum räumlichen Gesamtkonzept (Variante A.3) und zur frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB und der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 2/2019 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2019-03-12
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZW91vVf0UpGWkKLKSXQ_1D4
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/7762
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bauleitplanung
+-	Aufstellung eines Teilflächennutzungsplans im Sinne des § 5 Abs. 2b Baugesetzbuch (BauGB) zur Steuerung der Standorte von Windenergieanlagen im Stadtgebiet der Stadt Bad Pyrmont zur Erzielung der Rechtswirkung des § 35 Abs. 3 Satz 3 BauGB (Ausschlusswirkung) im gesamten Außenbereich der Stadt Bad Pyrmont
+
+-	Zustimmung zum räumlichen Gesamtkonzept (Variante A.3) und zur frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB und der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcCCq8FSA8BQzGz85sg3QhsYf66yEe037wd8Fl3ggDHL/Beschlussvorlage_2-2019_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (181115_Anlage_3_AußenbereichsP) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSuVH07mQpo9kclaQjTJ0Ot30SORycRs7aMuYju9imPA/181115_Anlage_3_AussenbereichsP.pdf
+- Anlage: Beschlussvorlage (Z:\Projekte\Bad Pyrmont\FNP Wind 2018\Planzeichnung\181115_BadPyrmont_FNPWind RGK (1)) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQHVU2qTbrQX2L6FUROLiA-jV2iTBz1D8wNmqySPfl7e/Z--Projekte-Bad_Pyrmont-FNP_Wind_2018-Planzeichnung-181115_BadPyrmont_FNPWind_RGK_-1-.pdf
+- Anlage: Beschlussvorlage (181121_Anlage_4_Tab_FNP_Prüfung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ1k4wL5dykUjsWKQ2uaBeIxr0nldT0K-mgvdzjw2q5m/181121_Anlage_4_Tab_FNP_Pruefung.pdf
+- Anlage: Beschlussvorlage (181218_Anlage_1_Kriterienliste) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfJVrlb042-i3Rwqroxxb0QwCgXJcvPFp9by3jmHN1nS/181218_Anlage_1_Kriterienliste.pdf
+- Anlage: Beschlussvorlage (181218_Anlage_5_Restriktionsprüf_S1_u_S2) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRrxwAp_jRukDOu-OT9FHzKn_0Qktok9kRKQo0xGKTLR/181218_Anlage_5_Restriktionspruef_S1_u_S2.pdf
+- Anlage: Beschlussvorlage (181219_Anlage_2_BPlan_34er) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSPqixAsMO-Lt7YuXox5_z7BSUoBSkns8e-7jjKoROET/181219_Anlage_2_BPlan_34er.pdf
+- Anlage: Beschlussvorlage (Z:\Projekte\Bad Pyrmont\FNP Wind 2018\Planzeichnung\181219_BadPyrmont_FNPWind RGK (Varianten) (1)) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVhn2_TINzGwlbmwOOzV81qIkFEXQ8Jy33ua3ASv0m_q/Z--Projekte-Bad_Pyrmont-FNP_Wind_2018-Planzeichnung-181219_BadPyrmont_FNPWind_RGK_-Varianten-_-1-.pdf
+- Anlage: Beschlussvorlage (Z:\Projekte\Bad Pyrmont\FNP Wind 2018\Planzeichnung\181219_BadPyrmont_FNPWind RGK (1)) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfXavEPCyujAokjK2Qs-qrFhBazWt4ZuM1wqHkLfwTZZ/Z--Projekte-Bad_Pyrmont-FNP_Wind_2018-Planzeichnung-181219_BadPyrmont_FNPWind_RGK_-1-.pdf
+- Anlage: Beschlussvorlage (181219_Anschreiben_u_Anlage_B) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWWazaMVVocpkpxMWfDF5Q1vRgrAuDBeQqf6me1I6Niv/181219_Anschreiben_u_Anlage_B.pdf
+- Anlage: Beschlussvorlage (Z:\Projekte\Bad Pyrmont\FNP Wind 2018\Planzeichnung\180927_BadPyrmont_FNPWind Layout1 (1)) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSghXvgPcoikmS_upOyrDv_-SV_K5vS445OzI1yJaGgB/Z--Projekte-Bad_Pyrmont-FNP_Wind_2018-Planzeichnung-180927_BadPyrmont_FNPWind_Layout1_-1-.pdf
+- Anlage: Beschlussvorlage (190110_TFNP_Wind_Infoblatt_frühzeitige_BUA) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYtmzqyNmEM96An6WaKQhsPD_X-FfeTL_-dD8ezqYhJw/190110_TFNP_Wind_Infoblatt_fruehzeitige_BUA.pdf
+- Anlage: Beschlussvorlage (Inhaltsverzeichnis) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYoGn61jhBqaLIQT5grsLmdMFMPXVcN4KemqixGZ19ok/Inhaltsverzeichnis.pdf
+- Anlage: Beschlussvorlage (Anlage Vorlage Windenergie) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZebRIp8VZVzAwD_IAPWSMZgrhUFOozgBgyzN8fPMLXSg/Anlage_Vorlage_Windenergie.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/19533 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-44
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/19534 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-8
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-201
