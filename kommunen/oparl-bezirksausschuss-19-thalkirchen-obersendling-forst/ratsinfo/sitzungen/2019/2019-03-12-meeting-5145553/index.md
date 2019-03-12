@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-03-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145553
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145553
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 1.3.: Genehmigung der Protokolle vom 05.02.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget What you see is what you get. Beermann, Kuris, Müller GbR Theatrales Repertoire vom 11.03.2019 bis 10.07.2019 1.690,00 € AZ: 0262.0-19-0241
+- TOP 3.3.: (E) Stadtbezirksbudget Apostelkirche Solln Oratorienkonzert am 17.03.2019 3.800,00 € / Az. 0262.0-19-0243
+- TOP 3.4.: (E) Stadtbezirksbudget Elternbeirat Gymnasium Fürstenried Seminar POL&IS vom 03. - 05.04.2019 4.950,00 € / Az. 0262.0-19-0242
+- TOP 3.5.: (E) Stadtbezirksbudget TUM, Fakultät für Architektur, Professur Neuere Baudenkmalpflege Projekt "Adventure of the empty house" vom 21. - 23.03.2019 2.000,00 € / Az. 0262.0-19-0245
+- TOP 3.6.: (E) Stadtbezirksbudget Verein zur Förderung der Grundschule an der Samberger Straße e.V. MfM-Projekt vom 28.05. - 04.07.2019 585,00 € / Az. 0262.0-19-0246
+- TOP 3.7.: (E) Stadtbezirksbudget Carlotas gGmbH Selbstverteidigungskurs für Frauen mit Migrationsgeschichte am 23.03.2019 775,00 € / Az. 0262.0-8-0247
+- TOP 3.8.: (E) Stadtbezirksbudget PA/SPIELkultur e.V. Projekt "Bienenwelten" vom 28.04. - 11.05.2019 1.760,00 € / Az. 0262.0-19-0249
+- TOP 3.9.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Forstenried von 1872 e.V. Anschaffung / Nachrüstung notfallmedizinischer Ausrüstung 6.033,89 € / Az. 0262.0-19-0250
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.1.1: Auf Vollständigkeit bei Baumfällungsanträgen achten
+- TOP 4.1.2: Eisflächen im Stadtgebiet des BA 19
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Zuverlässigkeit der U-Bahnlinie 3
+- TOP 5.1.2: Parkbucht für den Schulbus an der Grundschule Baierbrunner Straße
+- TOP 5.1.3: Sanierung und Überdachung der Treppenaufgänge am S-Bahnhof Solln
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Halteverbot Appenzeller Straße 117
+- TOP 5.3.: (A) Verkehrsrechtliche Anordnung: Parkbucht Schulbus Baierbrunner Straße
+- TOP 5.4.: Gestaltung des Platzes vor dem Forsthaus in der Forstenrieder Allee
+- TOP 5.5.: (Antrag) Einmündung Karl-Wieninger-Weg in die Mindelheimer Straße
+- TOP 5.6.: (Antrag) Verlängerung Fahrradroute östlich Bahnstrecke Harras - Mittersendling nach Obersendling und Solln
+- TOP 5.7.: (Antrag) Fahrradroute westlich der Bahnstrecke von der Baierbrunner Straße bis Mittersendling
+- TOP 5.8.: (Antrag) Radwegeverbindung Forstenried nach Fürstenried-Ost
+- TOP 5.9.: (Antrag) Beidseitige Radwege Drygalski-Allee und Höglwörther Str.
+- TOP 5.10.: (Antrag) Radwegeverbindung von der Wolfratshauser Straße zur Isar
+- TOP 5.11.: (Antrag) Sanierung Radwege Hofmannstraße
+- TOP 5.12.: (A) Verkehrsrechtliche Anordnung: Verlängerung Tempo-30 Herterichstraße
+- TOP 5.13.: (Antrag) Verhinderung von wildem Parken in der Baierbrunner Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Beschlussentwurf: Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 6.4.: (A) Beschlussentwurf: Änderung Flächennutzungsplan und Aufstellungsbeschluss Machtlfinger Straße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Anita-Augspurg-Preis 2019
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee: 15.03. bis 03.08.19
+- TOP 8.3.: (U) Gaststättenfortführung: Boschetsrieder Straße 5
+- TOP 8.4.: (Antrag) Veranstaltung Malwettbewerb für Jugendliche und Kinder zum Thema„Europa und Frieden“
