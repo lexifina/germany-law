@@ -1,0 +1,6 @@
+# TOP 2: Vorstellung der Vereinstätigkeit 2019 und der beantragten Förderungen
+
+- Sitzung: 61. Sitzung des Ortschaftsrates Schönborn (2019-03-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/114510
