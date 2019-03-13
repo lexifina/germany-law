@@ -1,0 +1,51 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-13T17:00:00+01:00
+- Ende: 2019-03-13T20:30:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16313
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16313
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00337745.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00337745.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00337745.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Vorstellung Privatkundenstrategie der Stadtsparkasse Düsseldorf - zur Kenntnis genommen
+- TOP 4: Anfrage der SPD: Filialschließungen Stadtsparkasse - beantwortet
+- TOP 5: Rahmenkonzept ZUKUNFT QUARTIER.DÜSSELDORF - zur Kenntnis genommen
+- TOP 6: Entwicklung Theodorstraße "Weiteres Vorgehen" - vertagt
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Anfrage SPD: Flüchtlingsunterkunft In der Nießdonk - vertagt
+- TOP 9: Anfrage der SPD: Bewohnerparken und entsprechende Beschilderung im SB 6 - schriftlich beantwortet
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Anfrage SPD: KiTa Flic-Flac - vertagt
+- TOP 12: Anfrage FDP und CDU: Unfallsituation Kreuzung Lenaustraße/Fritz-von-Wille-Straße - schriftlich beantwortet
+- TOP 13: Anfrage SPD: Busshuttle E 729 ISS DOME - vertagt
+- TOP 14: Anfrage SPD: fehlende dauerhafte Anbindung Lichtenbroich / Rath (Linie 776) - vertagt
+- TOP 15: Interfraktioneller Antrag: stationsbasiertes CarSharing im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 16: Interfraktioneller Antrag: Bodenmarkierung vor der Jfe Ammerweg - einstimmig beschlossen
+- TOP 17: Antrag SPD: Taktung Linie 701 zwischen Rath und Nordstraße - einstimmig beschlossen
+- TOP 18: Antrag CDU und FDP: Standort Realschule im Stadtbezirk 6 - mehrheitlich beschlossen
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 21: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 22: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 23: Zuschussvergabe 2019 - vertagt
+- TOP 24: Bauunterhaltungsmittel 2019 - Teil B "Sonstige Gebäude" - einstimmig beschlossen
+- TOP 25: Beschlusskontrolle Bezirksvertretung 6 - zur Kenntnis genommen
+- TOP 26: MdV - Basketballkorb und verankerte Sitzflächen KSP Einbrunger Weg - zur Kenntnis genommen
+- TOP 27: MdV - Friedrich-Rückert-Gymnasium - Anmeldung zur "Talentschule" - zur Kenntnis genommen
+- TOP 28: MdV - Widmung von Straßen - zur Kenntnis genommen
+- TOP 29: MdV - verbindliche Dachbegrünung Theodorstraße - zur Kenntnis genommen
+- TOP 30: MdV - Radwegverbesserung Straßenbahnhaltestelle Rotdornstraße - zur Kenntnis genommen
+- TOP 31: MdV - Tempo 30 auf dem Thewissenweg - zur Kenntnis genommen
+- TOP 32: MdV - Busshuttle Veranstaltungsverkehr S-Unterrath - ISS Dome - zur Kenntnis genommen
+- TOP 33: MdV - Fernwärme Anbindung des Schwimmbades - zur Kenntnis genommen
+- TOP 34: MdV - Familienhebammen - zur Kenntnis genommen
