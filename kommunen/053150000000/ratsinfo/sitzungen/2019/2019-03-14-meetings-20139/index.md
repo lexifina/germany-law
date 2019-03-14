@@ -1,0 +1,84 @@
+# 43. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-14T17:00:00+01:00
+- Ende: 2019-03-14T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20139
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20139
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709157.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709157.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709157.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Carsharing - Mobiles Köln - Kenntnis genommen
+- TOP 7.1.2: Sachstandsanfrage zu AN0085/2017 und AN1062/2016 - Kenntnis genommen
+- TOP 7.1.3: Situation Turkuplatz - Kenntnis genommen
+- TOP 7.1.4: Rhein-Schiffsverkehr im Kölner Norden - Kenntnis genommen
+- TOP 7.1.5: Sicherheit unter Brücken im Bezirk - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sicherheit der Fußgängerbrücke über die Willi-Suth-Allee Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.2: Wochenmarkt Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Aktueller Sachstand zu Haus Fühlingen Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Wilde Müllablageplätze Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: Grundstück Langenbergstr./Flüchtlingsheim Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Nutzung der Schulhöfe im Stadtbezirk Chorweiler Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Ausschilderung Mercatorstraße "Einkaufszentrum Heimersdorf" - Kenntnis genommen
+- TOP 8.1.2: W-LAN Ausbau auf der Ruderinsel des Fühlinger See - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderprogramm der BV Chorweiler für die Vergabe bezirksorientierter Haushaltsmittel Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90/Die Grünen und Die Linke - ungeändert beschlossen
+- TOP 8.2.2: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis`90/Die Grünen und Die Linke - geändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Beseitigung von Hindernissen für mobilitätseingeschränkte Personen in Heimersdorf Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.2: Facharztzentrum im Stadtbezirk Chorweiler Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.3: Aufstellung Papierkörbe vor dem Eingang City Center und Fahrradständer vor dem Bürgerzentrum Chorweiler Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.3.4: Elektronisch versenkbare Pfosten in Blumenberg Geiersbergstraße Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sportanlage Halle Erdweg, Köln-Worringen (ehemals SG Worringen) Generalsanierung der technischen sowie der brandschutztechnischen Anlagen und Sanierung des Daches - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - geändert beschlossen
+- TOP 9.2.2: Sportentwicklungsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.3: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - ungeändert beschlossen
+- TOP 9.2.4: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 9.2.5: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Fortschreibung der Schulentwicklungsplanung für allgemeinbildende Schulen in Köln 2018 - geändert beschlossen
+- TOP 10.2.2: Erweiterung der Feuer- und Rettungswache 6 Köln-Chorweiler hier: Mitteilung über eine Kostenerhöhung gem. § 24 Abs. 2 GemHVO i.V.m. § 8 Ziff. 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019. - Kenntnis genommen
+- TOP 10.2.3: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler hier: Aktueller Sachstand zur Projektumsetzung - Kenntnis genommen
+- TOP 10.2.4: Earth Hour 2019 - Kenntnis genommen
+- TOP 10.2.5: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 10.2.6: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln (GW), Stand 31.12.2018 - Kenntnis genommen
+- TOP 10.2.7: Grünerschließung Krebelspfad / Ausgleichsmaßnahme - Kenntnis genommen
+- TOP 10.2.8: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.9: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 10.2.10: Planfeststellungsbeschluss für den Umbau des Autobahnkreuzes Köln-Nord - Kenntnis genommen
+- TOP 10.2.11: Teilnahme Kölner Schulen am Schulversuch Talentschulen - Kenntnis genommen
+- TOP 10.2.12: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Morgendliche Verkehrssituation an einigen Grundschulen - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
