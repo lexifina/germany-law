@@ -1,0 +1,51 @@
+# 40. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2019-03-14T19:05:00+01:00
+- Ende: 2019-03-14T22:40:00+01:00
+- Ort: Kommunikationsraum Altenzentrum, Richard-Flick-Str. 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2019-200-126
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2019-200-126
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-200-126
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-200-126
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-200-126
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Beratung der Wirtschaftspläne der Gemeindewerke Herxheim für das Wirtschaftsjahr 2019 mit Investitionsprogramm, Finanzplan und Stellenübersicht a) Betriebszweig Stromversorgung b) Betriebszweig Waldfreibad
+- TOP 3: Beratung und Erlass der Haushaltssatzung mit Haushaltsplan der Ortsgemeinde Herxheim für das Haushaltsjahr 2019
+- TOP 4: Bebauungsplan 'An der Augustastraße, 1. Änderung'
+- TOP 5: Baugebiet ?Im Bruch?
+- TOP 6: Bebauungsplan 'Hauptstraße, 1. Änderung', Hayna
+- TOP 7: Bebauungsplan 'Südlich des Hinterweges, 2. Änderung u. Erweiterung'
+- TOP 8: Umgestaltung des Knotenpunktes Obere Hauptstraße / Südring
+- TOP 9: Jugendparlament Herxheim; hier:Änderung der Satzung zur Errichtung einer Jugendvertretung in der Ortsgemeinde Herxheim vom 16.12.2008
+- TOP 10: Kita-Bedarfsplanung 2019/2020; Aktuelle Festlegung
+- TOP 11: Beauftragte der Ortsgemeinde für Menschen mit Behinderungen Verlängerung der Tätigkeit; Festlegung der Ziele für das Jahr 2019
+- TOP 12: Neuausrichtung ?Herxheimer Frühlingsmarkt?
+- TOP 13: Förderung Chawwerusch-Theater 2019
+- TOP 14: Zusammenarbeit für den Betrieb der katholischen öffentlichen Bücherei Pfarrei Heiliger Laurentius Herxheim
+- TOP 15: Kooperation mit der Verbandsgemeinde Edenkoben Zusammenarbeit beim Bäderbetrieb
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Auftragsvergaben
+- TOP 17.1: Auftragsvergaben Bebauungsplan 'Südlich des Hinterweges, 2. Änderung u. Erweiterung'
+- TOP 17.2: Auftragsvergaben Bebauungsplan 'Eisenbahnstraße / Im Kalkofen / Am Bahnhof'
+- TOP 17.3: Auftragsvergaben; Vergabe der Entwurfsplanung für das denkmalgeschützte Vordergebäude mit Zwischenbau zum Mitteltrakt beim Altenzentrum St. Josef
+- TOP 18: Grundstücksangelegenheiten
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Mitteilungen und Anfragen
+- TOP 20.1: Mitteilungen und Anfragen 1. Herxheimer Sportgespräch
+- TOP 20.2: Mitteilungen und Anfragen ÖPNV-Infogespräch
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
