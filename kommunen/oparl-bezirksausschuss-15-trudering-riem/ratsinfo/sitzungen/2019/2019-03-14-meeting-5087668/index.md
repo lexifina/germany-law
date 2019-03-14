@@ -1,0 +1,121 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2019-03-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5087668
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5087668
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.3.: unveränderte Fortführungen eines Gaststättenbetriebs
+- TOP 10.2.1.: verkehrsrechtliche Anordnungen nach § 45 StVO
+- TOP 10.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.2.: 3.2.2 Riemer Park: Regelung der Zufahrtsberechtigung und Rücksichtnahme der Radfahrer Antrag im Nachgang zu BA-Antrag 14-20 / B 05115 Emplstrasse in Richtung Riemer Park: Regelung der Zufahrtsberechtigung
+- TOP 1.3.3.: 4.4 Antrag an den BA 15 (zu TOP 5.10) 14 Jahre nach der BUGA: wilde Wege endlich barrierefrei herstellen
+- TOP 1.3.4.: 4.5 Antrag an den BA 15 (zu 3:3.1) Einen städtischen Projektbetreuer für das Bahnprojekt „Daglfinger und Truderinger Kurve“ installieren
+- TOP 1.3.5.: 4.6 Sanierung und Nutzung des Kopfbaus
+- TOP 1.3.6.: zu 5.1 Ökologische Aufwertung der Unnützwiese Wiedervorlage gemäß Beschluss aus der Septembersitzung 2018 BA-Antrag Nr. 14-20 / B 04692 Stellungnahme des Baureferats Gartenbau zum aktuellen Projektstand
+- TOP 1.3.7.: 7.1.6 Riemer Park, Spielaktionen der AG Spiellandschaft Stadt 2019 Frist: 31.03.2019
+- TOP 1.3.8.: 7.2.2 Projektname: Messestadt Riem Elisabeth-Castonier-Platz und Michael-Ende-Straße (erstmalige Herstellung der öffentlichen Verkehrsflächen bzw. Anpassungen gemäß den Festsetzungen der Bebauungspläne mit Grünordnung Nr. 2065 und Nr. 1728h) Willy-Brandt-Allee Ergänzung von Parkplätzen, Geh- und Radwegflächen Anhörung gemäß §9 der Satzung für die Bezirksausschüsse
+- TOP 1.3.9.: 7.4.13 Salzmesserstraße 16, Fl.Nr.: 157/47 - Neubau eines Dreifamilienhauses mit Doppelgarage und Stellplatz
+- TOP 1.3.10.: 8.2.18 Kurzhuberstraße 3 8.2.19 Großfriedrichsburger Straße 28
+- TOP 1.3.11.: 9.2 Bericht des Vorsitzenden des UA Schule, Soziales und Kultur zu Vorstellung des Projekts "KopfbauT 20:19" im Unterausschuss
+- TOP 2.1.1.: (E) Stadtbezriksbudget Hopsasa gUG Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder Februar 2019 - Februar 2020 8.825,00 € AZ: 0262.0-15-0282
+- TOP 2.1.2.: (E) Stadtbezirksbudget Verein der Freunde und Förderer des Gymnasiums Trudering e.V. Bau einer Augmented Reality Sandbox 3.300,00 € / Az. 0262.0-15-0283
+- TOP 2.2.1.: (E) + (U) Bebauung des Grundstücks Bergerwaldstraße 23 Empfehlung Nr. 14-20 / E 02368 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 2.2.2.: (E) Überprüfung der Öffnungszeiten zweier Gaststätten an der Truderinger Straße
+- TOP 2.2.3.: (E) Für die Verkehrssicherheit die Durchfahrt zwischen 7.30-8.15 in der Lehrer-Wirth-Str. ab der Kreuzung Caroline-Herschelstr. verbieten
+- TOP 2.2.4.: (E) Schutz des Riemer Parks (Ziffer 1, 2, 5 und Hinweis) Empfehlung Nr. 14-20 / E 02268 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 08.11.2018
+- TOP 2.2.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: Brukenthalstraße - Vorfeld Tierheim Projekt-Nr.: 100900 Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 11.03.2019 VORSTELLUNG ERFOLGT IM UA BAU UND VERKEHR
+- TOP 3.2.1.: Heltauer Straße: Schulwegsicherheit
+- TOP 3.3.1.: Daglfinger und Truderinger Kurve sowie Truderinger Spange - alternative Trassenführung, Lärm-, Erschütterungs- und Emissionsschutz sowie Beteiligung und Information der Bürgerschaft im 15. Stadtbezirk
+- TOP 3.4.1.: Messestadt-Ost: Gestaltung des neuen Ortszentrums
+- TOP 4.1.: Fußweg Turnerstraße–Sperberstraße aufwerten
+- TOP 4.2.: Toiletten im öffentlichen Raum schaffen
+- TOP 4.3.: Sanierung und Nutzung des denkmalgeschützten Tribünen-Kopfbaus in der Messestadt zügig und konsequent angehen
+- TOP 5.1.: Ökologische Aufwertung der Unnützwiese Wiedervorlage gemäß Beschluss aus der Septembersitzung 2018
+- TOP 5.2.: Schulhoföffnung im Gymnasium Trudering Wiedervorlage gemäß Beschluss aus der Septembersitzung 2018
+- TOP 5.3.: Weichen stellen für eine abgasfreie Mobilität mit Dienstleistungsfahrzeugen (Gartenbau-/Reinigungsservice, Security, Polizei, Wasserwacht, etc.) im Riemer Park
+- TOP 5.4.: Bienenschutz ernst nehmen - auch in Trudering-Riem!
+- TOP 5.5.: 20 Jahre Messestadt – ein Grund zum Feiern, und endlich den denkmalgeschützten Tribünen-Kopfbau mit tragfähigem Konzept einer öffentlichen Nutzung übergeben
+- TOP 5.6.: Neues städtisches Wohnheim in Riem besser nutzen
+- TOP 5.7.: Bei der Nachverdichtung Barrierefreiheit nicht vergessen! Zwischennachricht des Referats für Stadtplanung und Bauordnung
+- TOP 5.8.: Herstellung eines Schlittenbergs im Bereich Bruchwegerl und Bahngleis
+- TOP 5.9.: Einfluss der Navi-Nutzung auf die Straßennutzung im Münchner Osten darstellen
+- TOP 5.10.: Elf Jahre nach der BUGA: Weitere "Wilde" Wege barrierefrei machen
+- TOP 5.11.: Anton-Geisenhofer-Straße / Marianne-Plehn-Straße - Parkraumverknappung durch abgestellte Anhänger
+- TOP 5.12.: Matterhornstraße: zugeparkter Bürgersteig und beschädigter Straßenbelag
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Wasserburger Landstraße / Feldbergstraße, Veranstaltung in einer städtischen Grünanlage, Circus Fararo vom 05.-14.04.2019 Frist: 18.03.2019
+- TOP 7.1.2.: Friedenspromenade 40 - Erinnerungszeichen am 21.03.2019 Frist: 15.03.2019
+- TOP 7.1.3.: Georg-Kerschensteiner-Straße / Riemer Park / Nähe Friendship Garden, Veranstaltung in städtischer Grünanlage, ICF München e. V., Kinder- und Familienprogramm ICF Kids von Mai - Oktober 2019 Frist: 19.03.2019
+- TOP 7.1.4.: Ruth-Beutler-Straße UND Widmannstraße 36-40, Spielbus im April, Juni, August und September 2019 Frist: 21.03.2019
+- TOP 7.1.5.: Änderung der BA-Satzung Mehr Grün im Straßenraum
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines absoluten Haltverbots Anton-Geisenhofer-Straße ggü. Hausnummern 9 - 13 Frist: 29.03.2019
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Taku-Fort-Straße 6a, Fl.Nr.: 501/53 - Umbau und Nutzungsänderung eines Gebäudes zu 2 Kindertagesstätteneinheiten
+- TOP 7.4.2.: Dachsteinstraße 19, Fl.Nr.: 753/2 - Neubau eines Zweifamilienhauses
+- TOP 7.4.3.: Veronikastraße 6, Fl.Nr.: 406/28 - zweigeschossige Erweiterung eines Einfamilienhauses
+- TOP 7.4.4.: Hella-von-Westarp-Straße 36, Fl.Nr.: 19/189 - Neubau eines Doppelhauses mit Garagen
+- TOP 7.4.5.: Wasserburger Landstraße 283a, Fl..Nr.: 452/3 - Neubau eines Mehrfamilienhauses (7 WE, Maisonette) als Ersatzbau mit Nebengebäude für Hausanschlussraum (HAR) und Einhausung des Mülltonnenstandplatzes sowie Errichtung von 7 PKW-Stellplätzen
+- TOP 7.4.6.: Sansibarstraße 9, Fl.Nr.: 496/35 - Neubau zweier Mehrfamilienhäuser mit Tiefgarage
+- TOP 7.4.7.: Vogesenstraße 46-46a, Fl.Nr.: 655/0 - Errichtung eines Doppelhauses mit Carport und offenem Stellplatz
+- TOP 7.4.8.: Neusatzer Straße 5, Fl.Nr.: 319/17 - TEKTUR zu 1.2-2018-26189-32 - Neubau eines Mehrfamilienhauses mit Parkliftanlagen
+- TOP 7.4.9.: Dualastraße 14, Fl.Nr.: 508/28 - Neubau eines Vierspänners mit 2 Doppelparkern - hier: Haus 1
+- TOP 7.4.10.: Dualastraße 14, Fl.Nr.: 508/28 - Neubau eines Vierspänners mit 2 Doppelparkern - hier: Haus 2
+- TOP 7.4.11.: Dualastraße 14, Fl.Nr.: 508/28 - Neubau eines Vierspänners mit 2 Doppelparkern - hier: Haus 3
+- TOP 7.4.12.: Dualastraße 14, Fl.Nr.: 508/28 - Neubau eines Vierspänners mit 2 Doppelparkern - hier: Haus 4
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 8.2.1.: Dachsteinstraße 19 Dualastraße 14 - Haus 1 Dualastraße 14 - Haus 2 Dualastraße 14 - Haus 3 Dualastraße 14 - Haus 4 Erdinger Straße 32 Hippelstraße 22 Hochnißlstraße 6 Ingeborgstraße 7 Karl-Schmid-Straße 22 Karpatenstraße 3 Kirchtruderinger Straße 28 Reiherweg 15a - Ablehnung UNB Schwedensteinstraße 32 Taku-Fort-Straße 6a Vogesenstraße 46-46a Wasserburger Landstraße 283a
+- TOP 9.1.: ÖV im Münchner Osten attraktiver machen (4): Ausstiegshaltestelle der Tram schafft kurze Wege zu den Bussen in Berg-am-Laim-Nord BA-Antrag 14-20 / B 04848 Protokoll zum Ortstermin vom 20.02.2019
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Bitte um Unterstützung: BA-Antrag Nr. 14-20 / B 05769 "Erhöhung des Anteilssatz für eigene Veranstaltungen von 6 Prozent (bzw. 8 Prozent in Jubiläumsjahren) auf 10 Prozent oder zumindest bei Bedarf variabler zu gestalten" des Bezirksausschusses 25 Laim s. Antwortschreiben im folgenden TOP
+- TOP 10.1.2.: Erhöhung des Anteilssatz für eigene Veranstaltungen von 6 Prozent (bzw. 8 Prozent in Jubiläumsjahren) auf 10 Prozent oder zumindest bei Bedarf variabler zu gestalten
+- TOP 10.1.3.1: Astare, Schank- und Speisewirtschaft, Maria-Montessori-Straße 20, 81829 München
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.1: verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen Wasserburger Landstraße 148
+- TOP 10.2.1.2: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines absoluten Haltverbotes Groschenweg
+- TOP 10.2.1.3: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines absoluten Haltverbotes Friedrich-Creuzer-Straße
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: Töginger Straße, Fl.Nr.: 1711/2 - Brückenbauvorhaben BAUMA 2019
+- TOP 10.4.2.1: Damaschkestraße 33
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 10.5.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen Unterrichtung über bevorstehende Entfernungen von Gefahrenbäumen Friedenspromenade
