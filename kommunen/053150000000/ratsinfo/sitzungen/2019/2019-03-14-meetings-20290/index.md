@@ -1,0 +1,69 @@
+# 37. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-14T15:30:00+01:00
+- Ende: 2019-03-14T18:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20290
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20290
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: AKTIV60 Ticket zum halben Preis bei Führerscheinverzicht von Senioren - zurückgestellt
+- TOP 2.2: Leistungserweiterung des KVB AKTIV60 TICKET (ganztägige Kindermitnahme an Werktagen) - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Verteilung der Globalmittel 2019 an die Wohlfahrtsverbände - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Sportentwicklungsplanung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Fortführung des Förderprojekts "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 4.3: Vergabe der Mittel für Antirassismus-Training im Jahr 2019 / 2. Teil - ungeändert beschlossen
+- TOP 4.4: Verteilung der verbleibenden Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2019 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 8.2.1: Rückforderungen bei Jobcentern immer unverhältnismäßiger - zurückgestellt
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: 23. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 9.2: Anfragen und Beantwortungen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 01/2019 - Kenntnis genommen
+- TOP 10.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Reichweite des Köln-Pass - zurückgestellt
+- TOP 11.2: Wohnungen für Obdachlose: Das "Housing First"-Konzept - zurückgestellt
+- TOP 11.3: Minihäuser für Obdachlose - zurückgestellt
+- TOP 11.4: Zukunft der Sozialhäuser Geisbergstr. 47-53, 50969 Köln - Kenntnis genommen
+- TOP 11.4.1: Zukunft der Sozialhäuser Geisbergstraße 47-53, 50696 Köln - Kenntnis genommen
+- TOP 11.5: Fortführung des Angebotes der Wohnungslosenhilfe des Erik-Wickberg-Hauses in Ehrenfeld - zurückgestellt
+- TOP 11.6: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - zurückgestellt
+- TOP 11.7: Sachstand zum Sanierungs- und Umbauprogramm der Kölner Sozialhäuser - zurückgestellt
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: „Hartz IV“-Sanktionen des Jobcenters in Köln - Kenntnis genommen
+- TOP 12.1.1: Beantwortung der schriftlichen Anfrage der Ratsgruppe BUNT vom 03.12.2018 auf der Sitzung des Ausschusses für Soziales und Senioren am 06.12.2018 zum Thema "Hartz IV - Sanktionen des Jobcenters in Köln" (AN 1761/2018) - Kenntnis genommen
+- TOP 12.2: Forum für Willkommenskultur - Ergänzung zum Tätigleitsbericht für den Zeitraum vom 01.11.2016 bis 28.09.2018 - Kenntnis genommen
+- TOP 12.3: Psychosoziale Betreuung von Flüchtlingen in Köln - Kenntnis genommen
+- TOP 12.3.1: Psychosoziale Betreuung von Flüchtlingen in Köln (AN/1514/2018) - Kenntnis genommen
+- TOP 12.4: Fragen zur Vorlage Nr. 4179/2018, Sitzung am 24.01.2019, TOP 7.1 (AN/0088/2019) - Kenntnis genommen
+- TOP 12.5: Netzwerk gegen häusliche Gewalt-Statistik 2017 Mündliche Nachfragen in der Sitzung 06.12.2018 - zurückgestellt
+- TOP 13: Mündliche Anfragen
+- TOP 14: Mitteilungen
+- TOP 14.1: Aktionstag „gesund & mobil im Alter“ in Kooperation mit dem 12. Kölner Vorsorge-Tag am 13. März 2019 in der Zeit von 09 bis 17 Uhr im Gürzenich der Stadt Köln - Kenntnis genommen
+- TOP 14.2: Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler - Kenntnis genommen
+- TOP 14.3: Fertigstellung des Monitoring Stadtentwicklung Köln
+- TOP 14.4: Jahreszahlen zur Versorgung und Betreuung von unbegleiteten minderjährigen Ausländern (UMA) in 2018 in der Stadt Köln - Kenntnis genommen
+- TOP 14.5: Hauswirtschaftliche Hilfen für alte, kranke und behinderte Menschen zur Vermeidung einer frühzeitigen stationären Hilfe - Evaluationsbericht - Kenntnis genommen
+- TOP 14.6: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen (II/2018) - Kenntnis genommen
+- TOP 14.7: Evaluationsbericht "Kölner Bildungsmodell" - Kenntnis genommen
+- TOP 14.8: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 14.9: Umsetzung Wohnungsbauprogramm 2018 - Kenntnis genommen
+- TOP 14.10: Radeln ohne Alter - Kenntnis genommen
+- TOP 14.11: Konzepte und Maßnahmen zum Schutz vulnerabler Personengruppen in Einrichtungen für Geflüchtete der Stadt Köln - Kenntnis genommen
