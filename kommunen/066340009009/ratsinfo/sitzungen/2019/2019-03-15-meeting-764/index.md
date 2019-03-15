@@ -1,0 +1,60 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (23. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2019-03-15T19:00:00+01:00
+- Ende: 2019-03-15T21:35:00+01:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZaaD0JAv2Ly-sj83dwYU2O4
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/764
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfDM3vlxct7lNa_JLDT-YZRboj1noAJY4Fts0gs2Fh-g/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_15.03.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWhN-qsVZBdnfRd2sMJpPUtHRudRohYrFzzpV2G0hEJS/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_15.03.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: EFRE-Programm "Lokale Ökonomie a) Beschlussfassung über einen Planungsverzicht gemäß EFRE-ReSie und Lok Ök Ziffer 5.2 b) Beschlussfassung zur Durchführung eines Lokale Ökonomie Programms gemäß EFRE- ReSie und Lok Ök Ziffer 5.5.1 Nr. 3 c) Beschlussfassung über den geänderten Entwurf eines Integrierten Städtebaulichen Entwicklungskonzepts - (kein Text vorhanden)
+- TOP 2.: Klimaschutzmanagement zur Umsetzung des integrierten Klimaschutzkonzepts hier: Beratung und Beschlussfassung zur Antragsstellung für das Anschlussvorhaben - (kein Text vorhanden)
+- TOP 3.: LandMobil - unterwegs in ländlichen Räumen hier: Beratung und Beschlussfassung zur Einreichung einer Projektskizze und eines formellen Antrags - (kein Text vorhanden)
+- TOP 4.: Charta der Energiewende Nordhessen hier: Beratung und Beschlussfassung zur Unterzeichnung der Charta - (kein Text vorhanden)
+- TOP 5.: Machbarkeitsstudie zur Verbesserung öffentlicher Mobilitätsangebote (ÖPNV-Konzept) hier: Beratung und Beschlussfassung über den Entwurf der Machbarkeitsstudie - (kein Text vorhanden)
+- TOP 6.: Verkauf des Gebäudes einschl. Grundstück „U 2“ in der Ostpreußenkaserne - (kein Text vorhanden)
+- TOP 7.: Neubau einer Kindertagesstätte im Stadtteil Mardorf; hier: Information über Baukostenerhöhung und Beschluss über erforderliche Mittelumwidmung - (kein Text vorhanden)
+- TOP 8.: Kommunales Investitionsprogramm (KIP – Bund/Land) hier: Beratung und Beschlussfassung über die teilweise Umstellung der Fördermittel im Landesprogrammteil - (kein Text vorhanden)
+- TOP 9.: Aufstellung einer Änderung Nr. 16 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) für den Stadtteil Hülsa zur Ausweisung eines Sondergebietes -Beherbergungsbetrieb- im beschleunigten Verfahren gem. § 13 a BauGB; hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 10.: Aufstellung einer Änderung Nr. 1 zur Erweiterung Nr. 1 zum Bebauungsplan Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Hülsa zur Ausweisung eines Sondergebietes -Beherbergungsbetrieb- im beschleunigten Verfahren gem. § 13 a BauGB; hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 11.: Information über ein städtebauliches Konzept für einen Sportpark am Stellberg in Homberg (Efze).
+- TOP 12.: 1. Änderung (Nachtragssatzung) zur Entwässerungssatzung hier: Beratung und Beschlussfassung - (kein Text vorhanden)
+- TOP 13.: Gewerbesteuerrückzahlungsverpflichtung
+- TOP 14.: Wahl von zwei Schiedsmänner und eines stellvertretenden Schiedsmanns für die Schiedsmannbezirke Homberg I und Homberg II - (kein Text vorhanden)
+- TOP 15.: Bestimmung des Tages der Direktwahl der Bürgermeisterin / des Bürgermeisters und des Termins für eine eventuell notwendig werdende Stichwahl im Jahr 2020 - (kein Text vorhanden)
+- TOP 16.: Erweiterung der Gemeinschaftskasse Homberg (Efze) – Frielendorf um die Stadt Schwarzenborn - (kein Text vorhanden)
+- TOP 17.: Sachstandsberichte und sonstige Informationen
+- TOP 17.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 17.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 17.1.2: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 17.1.3: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 17.1.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 17.1.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 17.1.6: Antrag der CDU-Fraktion vom 17.02.2017 - betr. Stärkung des Nahverkehrsstandort Homberg
+- TOP 17.1.7: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 17.1.8: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht Juli 2018
+- TOP 17.1.9: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 17.1.10: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 17.1.11: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 17.1.12: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 17.1.13: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 17.1.14: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Kurve an L3224 oberhalb Basaltwerk
+- TOP 17.1.15: Antrag der CDU-Fraktion vom 3. Oktober 2018 betr. bauliche Veränderung der Bushaltestelle(n) in Homberg-Roppershain
+- TOP 17.1.16: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 17.1.17: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 17.1.18: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung
+- TOP 17.1.19: Antrag der BL Homberg vom 17. Januar 2019 betr. Sachstandsberichte zu beschlossenen Entwicklungsmaßnahmen
+- TOP 18.: Anträge
+- TOP 18.1: Antrag der CDU-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" - (kein Text vorhanden)
+- TOP 18.2: Antrag der FWG-Fraktion vom 1. März 2019 betr. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7 - (kein Text vorhanden)
+- TOP 18.3: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland - (kein Text vorhanden)
+- TOP 18.4: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße - (kein Text vorhanden)
+- TOP 19.: Anregungen
