@@ -1,231 +1,215 @@
-# Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung „Behrensbrück“
+# Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung „Luckauer Salzstellen“
 
 - Herausgeber: Land Brandenburg
-- Datum: 2018-08-20 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/behrensbrueck_2018
+- Datum: 2019-03-16 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/be_luckauer_salzstellen_2019
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung „Behrensbrück“
+Erlass des Ministeriums für Ländliche Entwicklung, Umwelt und Landwirtschaft zur Bewirtschaftung des Gebietes von gemeinschaftlicher Bedeutung „Luckauer Salzstellen“
 
-vom 20. August 2018
+vom 16. März 2019
 
-(ABl./18, [Nr. 36], S.815)
+(ABl./19, [Nr. 13], S.363)
 
-Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368) - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaß-nahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
+Dieser Erlass regelt auf der Grundlage des § 32 Absatz 4 des Bundesnaturschutzgesetzes (BNatSchG) vom 29. Juli 2009 (BGBl. I S. 2542) die erforderlichen Maßnahmen zur Umsetzung von Artikel 6 der Richtlinie 92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen (ABl. L 206 vom 22.7.1992, S. 7), zuletzt geändert durch die Richtlinie 2006/105/EG vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 368) - Fauna-Flora-Habitat-Richtlinie (FFH-Richtlinie). Er benennt die Erhaltungsziele und erforderliche Erhaltungsmaßnahmen sowie deren Umsetzungsinstrumente in Anlage 2. Die Umsetzung erfolgt direkt durch die zuständigen Behörden oder wird von ihnen unterstützt. Der Bewirtschaftungserlass ist im Rahmen des behördlichen Handelns zu beachten.
 
 1 Bewirtschaftungsgegenstand
 
-Der in Anlage 1 (Kartenskizze) näher bezeichnete Geltungsbereich des Erlasses im Landkreis Oberhavel umfasst das Gebiet von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Behrensbrück“ und der Gebietsnummer DE 3244-303.
+Der in Anlage 1 (Kartenskizze) näher bezeichnete Geltungsbereich des Erlasses im Landkreis Dahme-Spreewald umfasst das Gebiet von gemeinschaftlicher Bedeutung (FFH-Gebiet) mit der Bezeichnung „Luckauer Salzstellen“ und der Gebietsnummer DE4047-304.
 
-Der Geltungsbereich des Erlasses hat eine Größe von rund 382 Hektar und umfasst Flächen in folgenden Fluren:
+Der Geltungsbereich des Erlasses hat eine Größe von rund 68 Hektar (ha) und umfasst neun Teilflächen in folgenden Fluren:
 
-| Gemeinde | Gemarkung | Flur
+| Stadt | Gemarkung | Flur
 
-| Kremmen
+| Luckau
 
-| Hohenbruch
+| Cahnsdorf
 
-| 5, 6;
-
-
-| Oranienburg
-
-| Oranienburg
-
-| 8;
+| 3, 13;
 
 
-| Oranienburg
+| Luckau
 
-| Germendorf
+| Egsdorf
 
-| 5.
+| 13;
 
 
-Die Grenze des Geltungsbereichs dieses Erlasses ist in der Kartenskizze (Anlage 1), der Biotoptypenkarte im Maßstab 1 : 10 000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 10 000 und der Zielkarte im Maßstab 1 : 10 000 sowie in den Liegenschaftskarten eingezeichnet. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstücksliste beim Landesamt für Umwelt in Potsdam, beim Landkreis Oberhavel als untere Naturschutzbehörde in Oranienburg, bei der Gemeinde Kremmen, bei der Stadt Oranienburg und bei der unteren Forstbehörde, Oberförsterei Neuendorf, von jedermann während der Dienstzeiten einsehbar.
+| Luckau
+
+| Frankendorf
+
+| 11, 12;
+
+
+| Luckau
+
+| Stöbritz
+
+| 1;
+
+
+| Luckau
+
+| Willmersdorf
+
+| 11.
+
+
+Die Grenze des Geltungsbereichs dieses Erlasses ist in der Kartenskizze (Anlage 1), der Biotoptypenkarte im Maßstab 1 : 5 000, der Karte der FFH-Lebensraumtypen (LRT) im Maßstab 1 : 5 000, der Zielkarte im Maßstab 1 : 5 000 sowie in Liegenschaftskarten eingezeichnet. Maßgeblich ist die Einzeichnung in den Liegenschaftskarten. Die Karten sind mit einer Flurstücksliste beim Landesamt für Umwelt in Potsdam, beim Landkreis Dahme-Spreewald als untere Naturschutzbehörde in Lübben, beim Landesbetrieb Forst Brandenburg, Oberförsterei Luckau als untere Forstbehörde und bei der Stadt Luckau von jedermann während der Dienstzeiten einsehbar.
 
 2 Beschreibung des Gebietes
 
-Das FFH-Gebiet liegt im Landkreis Oberhavel und umfasst einen Teil des Waldkomplexes zwischen Oranienburg und Kremmen. Es ist Bestandteil der naturräumlichen Einheit Mecklenburgisches Platten- und Hügelland sowie Luchland. Das Gebiet ist Teil des Eberswalder Urstromtales. Das Waldgebiet um Behrensbrück ist gekennzeichnet durch grundwassernahe Tal- und Flusssandflächen, kleinere Dünenzüge und wird im östlichen Teil vom Ruppiner Kanal durchzogen. Tiefer gelegene Flächen stehen im Winter und Frühjahr regelmäßig unter Wasser. Einige kleinere Wiesen und Seggenriede sowie naturnahe Kleingewässer sind ebenfalls Bestandteil des Gebietes. Durch den Bau des Ruppiner Kanals im 18. Jahrhundert und umfangreiche Meliorationsmaßnahmen der umliegenden Flächen im 20. Jahrhundert wurde auch das heutige FFH-Gebiet „Behrensbrück“ entwässert.
+Das FFH-Gebiet liegt im Süden von Brandenburg in der naturräumlichen Haupteinheit „Luckau-Calauer-Becken“ zwischen den Ortschaften Cahnsdorf, Frankendorf und Willmersdorf-Stöbritz. Sechs Teilflächen (1, 2, 4, 7, 8, 9) liegen im Naturpark Niederlausitzer Landrücken.
 
-Das Gebiet um Behrensbrück hat Bedeutung als einer der wichtigsten flächigen Feuchtwaldkomplexe im Naturraum Luchland.
+Landschaftsprägend für das Luckau-Calauer-Becken sind der Lausitzer Grenzwall im Süden sowie die weitflächigen spätweichselkaltzeitlichen Ablagerungen. Eine Besonderheit sind die sogenannten Binnensalzstellen in den vermoorten Bereichen des Luckauer Beckens. Die Salzstellen und Salzpflanzenvorkommen sind kleinflächig und meist von intensiv genutzten Ackerflächen auf höher gelegenen Standorten umgeben.
+
+An allen Salzstellen bilden sich an den tiefsten Punkten Kleingewässer mit Röhrichtbeständen aus.
+
+Die Salzstellen Frankendorf (Teilflächen 7, 9) und Cahnsdorf (3, 6) liegen südöstlich von Luckau an der Calauer Chaussee. Nordwestlich des ehemaligen Bahnhofs Frankendorf befindet sich das größte zusammenhängende Vorkommen an Salzpflanzen im Luckau-Calauer-Becken. Die Salzstelle Frankendorf umfasst Grünland- und Ackerflächen sowie zwei temporäre Kleingewässer. 1970 wurde die Binnensalzstelle am ehemaligen Frankendorfer Bahnhof mit einer Fläche von ca. 3 ha zum Flächennaturdenkmal erklärt. Das Gebiet am „Krötenweiher Cahnsdorf“ liegt in einer flachen Geländesenke 1 km südlich von Cahnsdorf. Die Binnensalzstelle befindet sich auf genutzten Grünlandflächen (Mähweide). Auch in dieser Fläche befindet sich ein Kleingewässer. Die Fläche wurde 1990 als Flächennaturdenkmal (ca. 2 ha) gesichert. Das sich in einer Senke befindende Gebiet des Wehrbusches in der Teilfläche „Wehrbusch“ steht seit mehreren Jahren außer Nutzung. In der westlichsten Fläche „Riepuhl Stöbritz“ wird eine mehrjährige Ackergrasfruchtfolge durchgeführt. Bei der „Frischwiese Stöbritz“ handelt es sich um eine artenreiche Glatthaferwiese als Bestandteil des Naturschutzgebietes „Willmersdorf-Stöbritz“. (Quelle: „NATURSCHUTZ UND LANDSCHAFTSPFLEGE IN BRANDENBURG“ 19 [1, 2] 2010)
+
+Hydrologisch ist das Gebiet durch den südöstlich gelegenen ehemaligen Braunkohletagebau Schlabendorf beeinflusst. Nach dessen Flutung im Jahr 2012 ist ein Grundwasseranstieg zu verzeichnen.
 
 3 Erhaltungsziele
 
-Die Erhaltungsziele für das FFH-Gebiet sind in der 22. Erhaltungszielverordnung (22. ErhZV) vom 9. Juli 2018 (GVBl. II Nr. 44) festgelegt. Danach ist das Erhaltungsziel die Erhaltung oder Wiederherstellung eines günstigen Erhaltungszustandes von
+Die Erhaltungsziele für das FFH-Gebiet sind in der 24. Erhaltungszielverordnung (24. ErhZV) vom 9. Juli 2018 (GVBl. II Nr. 44) festgelegt. Danach ist das Erhaltungsziel die Erhaltung oder Wiederherstellung eines günstigen Erhaltungszustandes von
 
-Natürlichen Lebensraumtypen von gemeinschaftlichem Interesse gemäß Anhang I der FFH-Richtlinie (§ 7 Absatz 1 Nummer 4 des Bundesnaturschutzgesetzes)
+natürlichen Lebensraumtypen von gemeinschaftlichem Interesse gemäß Anhang I der FFH-Richtlinie (§ 7 Absatz 1 Nummer 4 des Bundesnaturschutzgesetzes)
 
-Subatlantischer oder mitteleuropäischer Stieleichenwald oder Hainbuchenwald (Carpinion betuli - Stellario-Carpinetum) (9160),
+Magere Flachland-Mähwiesen (6510)
 
-Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur (9190);
+Natürlich eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions (3150),
 
-Prioritären natürliche Lebensraumtypen gemäß Anhang I der FFH-Richtlinie (§ 7 Absatz 1 Nummer 5 des Bundesnaturschutzgesetzes)
+prioritären natürlichen Lebensraumtypen gemäß Anhang I der FFH-Richtlinie (§ 7 Absatz 1 Nummer 5 des Bundesnaturschutzgesetzes)
 
-Auen-Wälder mit Alnus glutinosa und Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) (91E0);
+Salzwiesen im Binnenland (1340*),
 
 Arten von gemeinschaftlichem Interesse gemäß Anhang II der FFH-Richtlinie (§ 7 Absatz 2 Nummer 10 des Bundesnaturschutzgesetzes)
 
-Biber (Castor fiber),
-
-Fischotter (Lutra lutra).
+Kriechender Sellerie (Apium repens).
 
 4 Beschreibung und Bewertung und ökologische Erfordernisse der Lebensraumtypen (LRT) nach Anhang I und der Arten nach Anhang II der FFH-Richtlinie
 
-Die ökologischen Erfordernisse für die LRT nach Anhang I und Arten nach Anhang II ergeben sich aus den Anlagen 4 und 5 der 22. ErhZV. Davon ausgehend werden Erhaltungs- und Entwicklungsmaßnahmen festgelegt.
+Die ökologischen Erfordernisse für die LRT nach Anhang I und Arten nach Anhang II ergeben sich aus den Anlagen 4 und 5 der 24. ErhZV. Davon ausgehend werden Erhaltungs-, Entwicklungs- und Wiederherstellungsmaßnahmen festgelegt.
 
-Auenwälder mit Alnus glutinosa und Fraxinus excelsior* (Alno-Padion) (LRT-Nummer 91E0/Größe rund 89 Hektar), Erhaltungsgrad B (Größe rund 25 Hektar), Erhaltungsgrad C (Größe rund 64 Hektar), Entwicklungsfläche E (Größe rund 3 Hektar)
+Salzwiesen im Binnenland (LRT-Nummer 1340*, Größe: rund 9,57 ha), Erhaltungsgrad B (Größe rund 4,4 ha), Erhaltungsgrad C (Größe rund 5,17 ha), Entwicklungsfläche (Größe rund 20,18 ha)
 
-Als LRT des Anhangs I der FFH-Richtlinie ist ausschließlich der Subtyp Schwarzerlenwald im Gebiet vorhanden. Mit einem Flächenanteil von ca. 83 Hektar kommt der größte Teil der LRT-Flächen auf organischen Nassstandorten vor. Die Ausprägung der lebensraumtypischen Habitatstrukturen ist auf ca. einem Viertel der Flächen gut, auf den restlichen Flächen ist die Ausprägung nur mittel bis schlecht. Insbesondere das Vorhandensein mehrerer Wuchsklassen (WK) der LRT-typischen Baumarten mit jeweils mindestens 10 Prozent Deckung sowie das Auftreten der Reifephase (≥ WK 6) auf mindestens über 25 Prozent, besser auf über 40 Prozent der Fläche ist in einem Großteil der Biotope nicht gegeben. Auf ca. 35 Prozent der Fläche ist das lebensraumtypische Arteninventar weitgehend vorhanden, auf den restlichen ca. 65 Prozent ist es nur in Teilen vorhanden. Neben der Schwarz-Erle kommen die für den LRT charakteristischen Baum- und Straucharten Gewöhnliche Esche und Flatter-Ulme sowie die Begleitbaumart Stiel-Eiche jeweils nur in ca. der Hälfte der Biotope vor. Weitere charakteristische Baum- und Straucharten (Faulbaum, Haselnuss, Gewöhnliche Traubenkirsche und Gewöhnlicher Schneeball) kommen nur in wenigen Biotopen vor. Die Krautschicht ist größtenteils artenreich. Häufige Arten sind Waldzwenke, Sumpf-Segge, Rasen-Schmiele, Riesen-Schwingel, Sumpf-Schwertlilie, Flatter-Binse, Ufer-Wolfstrapp, Gewöhnlicher Gilbweiderich, Sumpf-Lappenfarn und Große Brennnessel. Von den für den LRT 91E0 wertbestimmenden Pflanzenarten der Krautschicht kommen jedoch regelmäßig nur Winkel-Segge und in einzelnen Biotopen Wechselblättriges Milzkraut, Großes Hexenkraut und Großes Springkraut vor. Als nach der Roten Liste Brandenburgs (Gefährdungsgrad 3) gefährdete Arten kommen Sumpf-Dotterblume und Wasserfeder vor. Die Flächen sind Lebensraum des Baummarders, einer Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). Die in den LRT vorkommenden Arten Sumpf-Schwertlilie und Wasserfeder sind nach der Bundesartenschutzverordnung (BArtSchV) besonders geschützte Arten. Auf den Flächen kommt ein nach § 30 BNatSchG geschütztes Gebüsch nasser Standorte als Begleitbiotop vor.
+Salzwiesen mit einem guten Erhaltungsgrad befinden sich in Form von wechselfeuchtem Auengrünland im Süden der Teilfläche 7 „Salzstelle am Bahnhof Frankendorf“ (Zielkarte Nummern 7.2 und 7.4). Aufgrund des hoch anstehenden Grundwasserspiegels ist die Grünlandnutzung erschwert. Je nach hydrologischer Situation ist die zielführende Pflege wieder aufzunehmen.
 
-Beeinträchtigungen erfolgen durch den gestörten Wasserhaushalt und durch in Teilflächen vorkommende nicht lebensraumtypische und zum Teil nicht heimische Gehölzarten.
+Das rund 2,6 ha große wechselfeuchte Grünland in Teilfläche 6 „Krötenweiher Cahnsdorf“ (Zielkarte Nummer 6.1) hat aufgrund der dauerhaften intensiven Nutzung einen schlechten Erhaltungsgrad. Vor allem mehrfach jährliche Nährstoffeinträge (Gülle) setzen dem LRT zu. Es sind kleinflächige Fragmente von Pfeifengraswiesen sowie Übergänge zu Frischwiesen zu verzeichnen. Um den ökologischen Zustand der Salzstelle zu verbessern, ist eine Grünlandextensivierung erforderlich.
 
-Es wurde eine Fläche mit ca. 3 Hektar als Entwicklungsfläche kartiert.
+Der LRT in Teilfläche 1 „Riepuhl Stöbritz“ (rund 2,57 ha) weist ebenfalls einen schlechten Erhaltungsgrad auf. Auf der Fläche wird eine mehrjährige Ackergrasfruchtfolge durchgeführt. Eine gezielte Pflege hinsichtlich der halophilen Flora erfolgt derzeit nicht. Halophyten sind nur noch rudimentär vorzufinden. Hier ist eine extensive Ackernutzung durchzuführen. Im Randbereich zu der Zielkartenfläche Nummer 1.2 ist auf Pflanzenschutzmittel und Düngung zu verzichten. Im Uferbereich des Kleingewässers sind Halophyten angesiedelt. Daher sind Teilbereiche des Ufers in die Beweidung weiterhin miteinzubeziehen.
 
-Ziel ist die Entwicklung zu naturnahen Wäldern. Die Wälder auf dauerhaft nassen, organischen Standorten sollen nicht forstwirtschaftlich genutzt werden. Maßnahmen zur Einschränkung der Gewässerunterhaltung und zur Gewährleistung eines naturnahen Wasserhaushaltes entsprechend den Erfordernissen des LRT sind erforderlich. Die Wälder auf anderen Standorten sollen kleinräumig und dauerwaldartig genutzt werden.
+Entwicklungsflächen dieses Lebensraumtyps gibt es im FFH-Gebiet auf den Teilflächen 9 „Frankendorfer Moor“ (Größe rund 3,12 ha), 7 „Salzstelle am Bahnhof Frankendorf“ (Größe rund 3,25 ha), 3 „Upstall Cahnsdorf“ (Größe rund 0,21 ha) und 2 „Wehrbusch“ (Größe rund 13,6 ha).
 
-Durch das östlich des FFH-Gebietes liegende Grabensystem erfolgt eine Entwässerung in Richtung Muhrgraben, von der auch die LRT-Flächen betroffen sind. Dieser Entwässerung sollte ebenfalls entgegengewirkt werden, ohne dabei eine Vernässung landwirtschaftlicher Nutzflächen zu verursachen.
+In der Teilfläche 9 (Zielkarte Nummer 9) befindet sich eine Entwicklungsfläche des LRT 1340*. Im Norden des Gebietes erstreckt sich ein 1,7 ha großer, intensiv genutzter Ackerstreifen. Der grundfeuchte Standort weist nur in nassen Jahren Halophyten auf. Diese können sich durch den Aufstieg salzhaltigen Wassers aus tieferen Grundwasserleitern und die Salzanreicherung im Boden durch oberflächige Verdunstung entwickeln. Nährstoffeintrag stellt eine Gefährdung dar. Im Bereich des Frankendorfer Moores ist in den letzten Jahren ein Grundwasseranstieg zu verzeichnen. Aufgrund dessen befinden sich der LRT und seine Begleitbiotope in einer steten Dynamik. Das hoch anstehende Grundwasser erlaubt in weiten Bereichen des Frankendorfer Moores keine Nutzung. Durch einen um das Moor anzulegenden Randstreifen ist das Moor vor Nährstoff­einträgen zu schützen. Die ökologische Situation ist durch eine Ackerextensivierung oder Grünlandnutzung zu verbessern.
 
-Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+Ein weiterer intensiv genutzter, staunasser Acker befindet sich im Westen der Teilfläche 7 (Zielkarte Nummer 7.1) angrenzend an die LRT-Fläche in gutem Erhaltungsgrad. Die Entwicklungsfläche befindet sich in einem schlechten Zustand.
 
-Mitteleuropäischer Stieleichenwald oder Eichen-Hainbuchenwald (Carpinion betuli) (LRT-Nummer 9160/Größe rund 84 Hektar), Erhaltungsgrad B (Größe rund 58 Hektar), Erhaltungsgrad C (Größe rund 26 Hektar), Entwicklungsfläche E (Größe rund 24 Hektar)
+Eine Grünlandbrache mit halophilen Arten befindet sich kleinflächig im Zentrum von Teilfläche 3 (Zielkarte Nummer 3.3). Durch den Gewässerunterhaltungsverband Obere Dahme/Berste wurde im Jahr 2009 ein Kleingewässer mit flachen Ufer­bereichen angelegt. Die Fläche wird zum Teil intensiv mit Pferden beweidet. Eine Extensivierung ist anzustreben.
 
-Die Eichen-Hainbuchenwälder kommen im FFH-Gebiet hauptsächlich auf mineralischen Feuchtstandorten vor. Die Ausprägung der lebensraumtypischen Habitatstrukturen ist auf ca. der Hälfte der Flächen hervorragend, auf den restlichen Flächen ist die Ausprägung gut beziehungsweise nur mittel bis schlecht. Insbesondere das Vorhandensein mehrerer Wuchsklassen der LRT-typischen Baumarten mit jeweils mindestens 10 Prozent Deckung sowie das Auftreten der Reifephase (≥ WK 7 bei Eiche, sonst ≥ WK 6) auf mindestens 25 Prozent, besser auf über 40 Prozent ist in einem Teil der Biotope nicht gegeben. Auf ca. 55 Prozent der Fläche ist das lebensraumtypische Arteninventar weitgehend vorhanden, auf den restlichen Flächen ist es nur in Teilen vorhanden. Neben der Stiel-Eiche und der Hainbuche kommen die für den LRT charakteristischen Baum- und Straucharten Gewöhnliche Esche und Flatter-Ulme nur in ca. auf 62 Prozent der Fläche vor. Die Begleitbaumarten Rot-Buche, Hänge-Birke und Eberesche kommen jeweils nur auf ca. 67 Prozent der Fläche vor. Von den charakteristischen Strauch-arten kommen nur Haselnuss, Weißdorn und Faulbaum auf ca. 58 Prozent der Fläche sowie Gewöhnlicher Schneeball und Gewöhnliches Pfaffenhütchen lediglich in einzelnen Biotopen vor. Die für den LRT charakteristischen Arten der Krautschicht sind auf ca. 26 Prozent der Fläche des LRT vorhanden, auf weiteren ca. 55 Prozent der Fläche weitgehend vorhanden und auf den restlichen Flächen nur in Teilen vorhanden. Häufige Arten sind Waldzwenke, Pillen-Segge, Rasen-Schmiele, Dorniger Wurmfarn, Adlerfarn, Große Sternmiere und Große Brennnessel. Die in den LRT vorkommenden Arten Breitblättrige Stendelwurz und Sumpf-Schwertlilie sind nach BArtSchV besonders geschützte Arten. Die Flächen sind Lebensraum des Baummarders, einer Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). Auf den Flächen kommen nach § 30 BNatSchG geschützte Eichenmischwälder bodensaurer Standorte (LRT 9190), Pfeifengras-Birken-Stieleichenwald (LRT 9190), Erlen-Bruchwälder und Traubenkirschen-Eschenwald (LRT91E0) als Begleitbiotope vor.
+Das sich in einer Senke befindende Gebiet des Wehrbusches in Teilfläche 2 (Zielkarte Nummern 2.1, 2.3 und 2.5) steht seit mehreren Jahren außer Nutzung. Dauerhafte Mahd oder Beweidung sind laut Auskunft der im Umkreis wirtschaftenden Betriebe technisch nicht möglich. Grund dafür ist das hoch anstehende Grundwasser. Die in Anlage 2 aufgeführten Handlungsempfehlungen beschränken sich auf den Rand beziehungsweise auf die angrenzenden Flächen der Teilfläche. Diese zielen im Wesentlichen auf eine Ackerextensivierung im Pufferstreifen ab. Der Randbereich ist von Schilf frei zu halten.
 
-Die zum Teil starken Beeinträchtigungen der LRT-Flächen sind die Folge des gestörten Wasserhaushaltes, des Vorkommens nicht lebensraumtypischer und zum Teil nicht heimischer und invasiver Arten in der Baum-, Strauch- und Krautschicht sowie der unzureichenden Habitatstrukturen.
+Magere Flachland-Mähwiesen (LRT-Nummer 6510, Größe: rund 2,42 ha), Erhaltungsgrad B (Größe rund 2,42 ha), Entwicklungsfläche (Größe rund 3,87 ha)
 
-Es wurden 15 Biotope mit einer Gesamtfläche von ca. 24 ha als Entwicklungsfläche kartiert.
+Die artenreiche „Frischwiese Stöbritz“ in Teilfläche 4 weist einen guten Erhaltungsgrad auf. Dazu trägt die extensive Nutzung durch Weide- und Mahdbewirtschaftung bei. Durch eine reine Mahdnutzung mit Beräumung des Mahdgutes und Verzicht auf N-Düngung ist die Situation im LRT 6510 nochmals zu verbessern.
 
-Die Nutzung soll kleinräumig und dauerwaldartig erfolgen. Ziel ist der Erhalt und die Entwicklung strukturreicher Bestände mit lebensraumtypischer Baumartenzusammensetzung sowie einer naturnahen Alters- und Bestandsstruktur. Die Naturverjüngung soll gefördert werden. Maßnahmen zur Wiederherstellung eines lebensraumtypischen Grundwasserstandes sind erforderlich.
+Rund 50 Prozent der Teilfläche 3 wird von Intensivgrasland eingenommen und stellt eine Entwicklungsfläche des LRT dar (Zielkarte Nummern 3.5 und 3.7). Die als Pferdekoppel genutzte Fläche weist typische Arten der Frischwiesen auf. Zur Verbesserung des Zustandes wird eine extensive Bewirtschaftung mit Verzicht auf Düngung angestrebt.
 
-Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
+Natürlich eutrophe Seen mit einer Vegetation des Magnopotamions oder Hydrocharitions (LRT-Nummer 3150, Größe: rund 0,55 ha), Erhaltungsgrad B (Größe rund 0,31 ha), Erhaltungsgrad C (Größe rund 0,24 ha)
 
-Alte bodensaure Eichenwälder auf Sandebenen mit Quercus robur (Stiel-Eiche) (LRT-Nummer 9190/Größe rund 18 Hektar), Erhaltungsgrad B (Größe rund 4 Hektar), Erhaltungsgrad C (Größe rund 14 Hektar), Entwicklungsfläche E (Größe rund 20 Hektar)
+Das Kleingewässer mit guter Ausprägung liegt im zentralen Bereich der Salzstelle der Teilfläche 6 (Zielkarte Nummer 6.2). Am naturnahen, beschatteten Teich sind Schwimmblatt- und Wasserpflanzenvegetation sowie Röhrichte vorzufinden. Nährstoff­eintrag wirkt sich negativ aus. Um diesen zu verhindern, ist ein Schutzstreifen einzuhalten und das Grünland extensiv zu nutzen.
 
-Die bodensauren Eichenwälder kommen im FFH-Gebiet auf mineralischen grundwasserbeeinflussten Feucht- und Frischstandorten vor. Die Ausprägung der lebensraumtypischen Habitatstrukturen ist auf ca. der Hälfte der Flächen gut, auf den restlichen Flächen ist die Ausprägung nur mittel bis schlecht. Insbesondere das Vorhandensein mehrerer Wuchsklassen der LRT-typischen Baumarten mit jeweils mindestens 10 Prozent Deckung sowie das Auftreten der Reifephase (≥ WK 7) auf mindestens 25 Prozent, besser auf über 40 Prozent ist in einem Teil der Biotope nicht gegeben. Das lebensraumtypische Arteninventar ist auf dem größten Teil der Flächen nur in Teilen vorhanden. Neben der Stiel-Eiche als charakteristischer Hauptbaumart kommen die für den LRT charakteristischen Begleitbaum- und Straucharten Birke, Rotbuche, Eberesche und Faulbaum nur in ca. der Hälfte der Biotope vor. In einzelnen Biotopen sind Schwarz-Erle und Kiefer vertreten. Die für den LRT charakteristischen Arten der Krautschicht sind auf ca. 17 Prozent der Fläche des LRT vorhanden, auf weiteren ca. 17 Prozent der Fläche weitgehend vorhanden und auf den restlichen Flächen nur in Teilen vorhanden. Auf den Flächen regelmäßig vorhandene Arten sind Rasen-Schmiele, Draht-Schmiele, Adlerfarn und Heidelbeere. Die in den LRT vorkommende Breitblättrige Stendelwurz ist eine nach BArtSchV besonders geschützte Art. Die Flächen sind Lebensraum des Baummarders, einer Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). Auf den Flächen kommt ein nach § 30 BNatSchG geschützter Rotbuchenwald bodensaurer Standorte als Begleitbiotop vor.
+Ein unbeschattetes, perennierendes Kleingewässer des Erhaltungsgrades C ist im Süden der Teilfläche 2 gelegen (Zielkarte Nummer 2.7). Der naturnahe Teich mit Uferröhricht besitzt weder Zu- noch Abfluss. Nährstoffeintrag ist zu vermeiden.
 
-Die zum Teil starken Beeinträchtigungen der LRT-Flächen bestehen im Vorkommen nicht lebensraumtypischer und zum Teil nicht heimischer und invasiver Arten in der Baum-, Strauch- und Krautschicht sowie in den unzureichenden Habitatstrukturen.
+Kriechender Sellerie (Apium repens), Erhaltungsgrad C
 
-Es wurden acht Biotope mit einer Gesamtfläche von ca. 20 Hektar als Entwicklungsfläche kartiert.
+Die konkurrenzschwache Pionierpflanze liebt feuchte Standorte, an denen offener Boden oder ein niedriger Pflanzenbewuchs vorhanden ist. Es ist eine extensive Bewirtschaftung sowie eine gelegentliche anteilige Öffnung der Vegetations­decke für ihren Erhalt notwendig.
 
-Die Nutzung soll kleinräumig und dauerwaldartig erfolgen. Ziel ist der Erhalt und die Entwicklung strukturreicher Bestände mit lebensraumtypischer Baumartenzusammensetzung sowie einer naturnahen Alters- und Bestandsstruktur. Die Naturverjüngung soll gefördert werden.
+Bereits kurz nach dem Aushub des Kleingewässers in der Teilfläche 7 „Salzstelle am Bahnhof Frankendorf“ konnte der Kriechende Sellerie dort nachgewiesen werden.
 
-Der Lebensraumtyp ist nach § 30 BNatSchG geschützt.
-
-Fischotter (Lutra lutra), Erhaltungsgrad C
-
-Der Fischotter benötigt großflächig vernetzte semiaquatische Lebensräume. Die im Gebiet lebende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Der Ruppiner Kanal ist als regionale Migrationsverbindung zwischen Rhin und Havel von Bedeutung. Zur Erhaltung des Habitates ist die derzeitige Gewässerdynamik im Gebiet beizubehalten und weiter zu fördern. Die Zerschneidung von Migrationskorridoren durch Verkehrstrassen oder Ufer- und Sohlbefestigungen ist zu vermeiden. Die Uferbereiche sind in naturnahem und störungsarmem Zustand zu erhalten.
-
-Biber (Castor fiber), Erhaltungsgrad C
-
-Der Biber benötigt natürliche oder naturnahe Ufer von Gewässern mit dichter Vegetation und an Weichholzarten reichen Gehölzsäumen oder Auenwald. Die im Gebiet lebende Population ist innerhalb des erweiterten Verbreitungsgebietes nicht isoliert. Der Ruppiner Kanal ist als regionale Migrationsverbindung zwischen Rhin und Havel von Bedeutung. Weiterhin ist der Ruppiner Kanal Teil der für den Biber überregional bedeutenden West-Ost-Querverbindung zwischen Elbe und Oder. Zur Erhaltung des Habitates sind die Uferbereiche in naturnahem und störungsarmem Zustand zu erhalten.
+Zur Entwicklung der Art dienen die Maßnahmen zur Pflege der Teilfläche 7 „Salzstelle am Bahnhof Frankendorf“, insbesondere die Freihaltung des Kleingewässerrandes.
 
 Erläuterung zum Erhaltungsgrad
 
-A - hervorragender Erhaltungsgrad
+A -  hervorragender Erhaltungsgrad
 
-B - guter Erhaltungsgrad
+B -  guter Erhaltungsgrad
 
-C - durchschnittlicher oder beschränkter Erhaltungsgrad
+C -  durchschnittlicher oder beschränkter Erhaltungsgrad
 
-E - Entwicklungsfläche
+E -  Entwicklungsfläche
 
 5 Bestand und Bewertung weiterer Arten und Biotope
 
 5.1 Nach § 30 BNatSchG in Verbindung mit § 18 des Brandenburgischen Naturschutzausführungsgesetzes (BbgNatSchAG) geschützte Biotope,
 
-5.2 Biotope, die Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen nach Anhang I der FFH-Richtlinie und Arten nach Anhang II der FFH-Richtlinie haben,
-
-5.3 Entwicklungsflächen für Lebensräume nach Anhang I der FFH-Richtlinie, die nicht bereits in Nummer 4 aufgeführt sind,
-
-5.4 Lebensräume der Arten nach Anhang I der Vogelschutz-Richtlinie und Anhang IV der FFH-Richtlinie.
-
-Erlen-Bruchwälder, Reste natürlicher Wälder (Nummern 5.1 und 5.2)
-
-Erlenbruchwälder kommen im Gebiet mit einer Gesamtfläche von ca. 28 Hektar vor. Weiterhin kommen jeweils eine Fläche mit ca. 1 Hektar Großseggen-Schwarzerlenwald und Erlenvorwald sowie eine kleine Fläche Rotbuchenwald bodensaurer Standorte vor. Die Erlen-Bruchwälder sind zumeist typisch bis besonders typisch ausgebildet mit charakteristischem bis vollständigem Arteninventar.
-
-Als nach der Roten Liste Brandenburgs (Gefährdungsgrad 3) gefährdete Art kommt in den Erlen-Bruchwäldern Wasserfeder vor. Die Flächen sind Lebensraum des Baummarders, einer Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). Die in den Erlen-Bruchwäldern vorkommenden Arten Sumpf-Schwertlilie und Wasserfeder sind nach BArtSchV besonders geschützte Arten. Auf den Flächen kommt ein nach § 30 BNatSchG geschützter Rasenschmielen-Schwarzerlenwald als Begleitbiotop vor.
-
-Die forstliche Bewirtschaftung soll kleinräumig und dauerwaldartig erfolgen, wobei die biotoptypischen Baumarten gefördert und bodenschonende Verfahren angewendet werden sollen. Die für die LRT 91E0 und 9160 erforderlichen Maßnahmen zur Wiederherstellung eines lebensraumtypischen Grundwasserstandes sind auch für die hier aufgeführten Waldflächen förderlich.
-
-Wald- und Forstflächen (Nummern 5.2 und 5.3)
-
-Die sonstigen im Gebiet vorkommenden Waldbestände setzen sich aus einer Fläche naturnahem Laubwald frischer Standorte, aus Erlen-, Eichen-, Kiefern- und Fichtenforsten sowie aus weiteren verschiedenen Nadelholz- und Laubholzforsten zusammen.
-
-Auf Teilen der Flächen kommen die nach BArtSchV besonders geschützten Arten Sumpf-Schwertlilie und Breitblättrige Stendelwurz sowie in einem Kiefernforst Königsfarn vor. Die Flächen sind Lebensraum des Baummarders, einer Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). Auf den Flächen kommen nach § 30 BNatSchG geschützte kennartenarme Rotstraußgrasfluren auf Trockenstandorten, Besenginsterheide, Eichenmischwälder bodensaurer Standorte (LRT 9190) und Pfeifengras-Birken-Stieleichenwald (LRT 9190) als Begleitbiotope vor.
-
-Die Flächen haben Einfluss auf die in Nummer 3 aufgeführten Lebensraumtypen. Zum einen können aus diesen Flächen in die LRT, die geschützten Erlen-Bruchwälder und Reste natürlicher Wälder nicht lebensraum- und biotoptypische Gehölze einwandern. Zudem ist die Grundwasserneubildung im Bereich von Nadelholzforsten gegenüber Laubholzforsten reduziert. Deshalb ist ein Waldumbau, insbesondere der Nadelholzforsten, wichtig, um den Grundwasserspiegel durch eine höhere Grundwasserneubildungsrate positiv zu beeinflussen.
-
-Alle Flächen sollen in standortgerechte und stabile Laubholzmischbestände mit heimischen Laubbaumarten der potenziell natürlichen Vegetation (PNV) umgebaut werden. Ziel ist hierbei die Entwicklung von LRT 91E0, 9160 und 9190, soweit dies mit der PNV übereinstimmt.
-
-Gewässerbegleitende Hochstaudenfluren (Nummer 5.1)
-
-Die gewässerbegleitenden Hochstaudenfluren kommen im Gebiet grabenbegleitend auf einer Länge von rund 1 900 Metern vor. Angestrebt ist der Erhalt beziehungsweise die Schaffung günstiger Standortbedingungen entlang der Grabenufer durch die Gewährleistung hoher Grundwasserstände.
+5.2 Entwicklungspotenzial für Lebensräume nach Anhang I der FFH-Richtlinie, die nicht bereits in Nummer 4 aufgeführt sind (nicht prägend).
 
 Kleingewässer (Nummer 5.1)
 
-Im Gebiet befinden sich neun Kleingewässer mit einer Größe von jeweils unter 1 Hektar. Es handelt sich dabei um sechs perennierende Kleingewässer und um drei temporäre Kleingewässer. Es kommen die nach BArtSchV besonders geschützten Arten Wasserfeder und Sumpf-Schwertlilie vor. Die Wasserfeder ist eine Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). In den Kleingewässern kommen die nach § 30 BNatSchG geschützten Wasserlinsendecken als Begleitbiotope vor.
+Das naturnahe, unbeschattete Kleingewässer liegt zentral in der Teilfläche 1.
 
-Grünlandbrache (Nummer 5.1)
+Sümpfe (Nummer 5.1)
 
-Im westlichen Teil des Geltungsbereiches befindet sich eine Grünlandbrache feuchter Standorte, von rasigen Großseggen dominiert. Die Fläche ist weitgehend ohne spontanen Gehölzaufwuchs, vereinzelt ist Erlenaufwuchs vorhanden.
+Im Gebiet der Teilfläche 9 erstreckt sich eine 6 ha große, von Schilf dominierte Grünlandbrache.
 
-Eine Mahd in mehrjährigem Abstand als Pflegemaßnahme ist für die Erhaltung erforderlich.
+Schilfröhricht nährstoffreicher Moore und Sümpfe (Nummer 5.1)
 
-Seggenriede (Nummer 5.1)
+Der Lebensraum erstreckt sich großflächig auf 6,2 ha in der Wehrbusch-Senke (Teilfläche 2).
 
-Im östlichen Teil des Geltungsbereiches auf der Energieleitungstrasse befindet sich ein Seggenried mit überwiegenden rasig wachsenden Großseggen nährstoffreicher (eutropher bis polytropher) Moore und Sümpfe. Auf der Fläche kommt Weidengebüsch und ein Schilfbestand vor. Auf der Fläche kommen nach § 30 BNatSchG geschützte Schilfröhrichte eutropher bis polytropher Moore und Sümpfe sowie Strauchweidengebüsche als Begleitbiotope vor.
+Pfeifengraswiesen auf kalkreichem Boden (6410) (Num­mer 5.2)
 
-Beeinträchtigt wird das Biotop durch Entwässerung. Durch die für die Flächen gemäß Nummern 4 und 5.1 bis 5.3 erforderlichen Maßnahmen wird das Seggenried ebenfalls begünstigt. Pflegemaßnahmen sind nicht erforderlich.
+Am Rand des LRT 1340* existiert in Teilfläche 7 kleinflächig eine Pfeifengrasgesellschaft als Begleitbiotop mit Entwicklungspotenzial.
 
-Feuchtwiese (Nummer 5.2)
+Magere Flachland-Mähwiesen (6510) (Nummer 5.2)
 
-Im westlichen Teil des Geltungsbereiches befindet sich eine Feuchtwiese nährstoffreicher Standorte in einer verarmten Ausprägung. Es dominiert Honiggras. Es findet keine regelmäßige Bodennutzung statt. Naturschutzfachlich ist die Wiederaufnahme der Nutzung als Grünland beziehungsweise Wildwiese unproblematisch und sinnvoll, sofern sie ohne den Einsatz von Pflanzenschutzmitteln (PSM) und Düngemitteln erfolgt.
+Als Begleitbiotop der Laubgebüsche sind kleinflächige Frischwiesen mit Entwicklungspotenzial in Teilfläche 7 vorzufinden und in Teilfläche 2 befinden sich als Begleitbiotop Frischwiesenausprägungen mit verarmter Artenvielfalt kleinflächig um die Salzwiesen herum.
 
-Gräben und Kanal (Nummer 5.2)
+Gebüsche feuchter bis nasser Standorte (Nummer 5.1)
 
-Es handelt sich um ein Teilstück des Ruppiner Kanals und um mehrere zum Ruppiner Kanal und zum Moorgraben hin entwässernde Gräben. Auf Teilen der Flächen kommen die nach BArtSchV besonders geschützten Arten Wasserfeder und SumpfSchwertlilie vor, im Kanal die Gelbe Teichrose. Die Gräben und der Kanal sind Lebensraum der Wasserspitzmaus. Die Wasserspitzmaus ist eine Art nach der Roten Liste Brandenburgs (Gefährdungsgrad 3). In beziehungsweise an den Fließgewässern kommen die nach § 30 BNatSchG geschützten Wasserlinsendecken, sonstigen Schwimmblatt- und UnterwasserpflanzenGesellschaften, Schilfröhrichte, Wasserschwaden-Röhrichte und Pfeilkraut-Igelkolben-Röhrichte als Begleitbiotope vor.
+Für den Biotopverbund zwischen dem Sumpfgebiet und den Erlenwäldern sind die Weidengebüsche in der Teilfläche 9 zu erhalten.
 
-Die im Gebiet vorhandenen Gräben haben Einfluss auf den Wasserhaushalt des Gebietes und somit auf die in Nummer 3 aufgeführten Lebensraumtypen und die nach § 30 BNatSchG geschützten Biotope. Die südöstlich des Gebietes gelegenen Gräben zur Entwässerung der Radewiesen und der Germendorfer Wiesen sind nicht Bestandteil des Geltungsbereiches des Erlasses, haben jedoch ebenfalls Einfluss auf den Wasserhaushalt des FFH-Gebietes.
+Laubgebüsche trockener und trockenwarmer Standorte (Nummer 5.1)
 
-Es sind Maßnahmen zur Wiederherstellung eines naturnahen Wasserhaushaltes erforderlich.
+Auf dem ehemaligen Bahndamm in Teilfläche 7 sind wertvolle Gebüsche trockener Standorte vorhanden (0,4 ha).
 
-Fledermäuse (Nummer 5.4)
+Feldgehölze (Nummer 5.1)
 
-Im Rahmen von Erfassungen und durch Zufallsbeobachtungen wurden im Geltungsbereich des Erlasses und in den umgebenden Lebensräumen elf Fledermausarten nachgewiesen. Dies sind Braunes Langohr, Breitflügelfledermaus, Fransenfledermaus, Großer Abendsegler, Große Bartfledermaus, Kleiner Abendsegler, Mückenfledermaus, Rauhautfledermaus, Wasserfledermaus, Zweifarbfledermaus und Zwergfledermaus. Alle aufgeführten Arten sind Arten nach Anhang IV der FFH-Richtlinie und nach BArtSchV streng geschützt.
+Der Weiden-Feldgehölzstreifen, welcher sich auf einem wechselfeuchten Standort befindet, schließt die Teilfläche 3 im Norden ab.
 
-Das FFH-Gebiet Behrensbrück ist zumindest Teil des Lebensraums der aufgeführten Fledermausarten.
+Erlenwälder (Nummer 5.1)
 
-Wichtigste Maßnahmen für die aufgeführten Fledermausarten sind der Erhalt von Biotopbäumen mit Sonderstrukturen zur Sicherstellung des Angebots an Quartieren sowie der Verzicht auf den Einsatz von PSM. Von dem Erhalt und der Entwicklung strukturreicher Bestände mit lebensraumtypischer Baumartenzusammensetzung sowie einer naturnahen Alters- und Bestandsstruktur und der Erhaltung der Feuchtgebiete (Kleingewässer) im Wald profitieren insbesondere auch die Fledermäuse.
+Es befinden sich zwei voneinander isolierte Erlenwälder im Gebiet der Teilfläche 9 mit Größen von 1 ha und 1,5 ha.
 
-Vogelarten des Anhangs I der Vogelschutz-Richtlinie (Nummer 5.4)
+Entwicklung der extensiven Nutzung von Acker (Nummer 5.2)
 
-Im FFH-Gebiet kommt der Kranich mit mehreren Brutpaaren vor. Die Brutplätze liegen in den Erlen-Bruchwäldern und in den Schwarzerlenwäldern (LRT 91E0). Der Kranich ist ein Bodenbrüter und bevorzugt als Bruthabitat feuchte bis nasse Niederungsgebiete.
+Teilfläche 5 ist überwiegend durch Laubgehölze und einen kleinflächigen Acker geprägt. Mit dem Landwirt wurde eine extensive Nutzung der Ackerflächen vereinbart. Langfristig wird nach einer Möglichkeit zur Umwandlung in Grünland gesucht, um den Standort für Orchideen- und Seggenarten zu entwickeln.
 
-Weiterhin ist das Vorkommen des Rotmilans als Brutvogel anzunehmen. Der Rotmilan nutzt als Bruthabitat hauptsächlich Randlagen von Laubwäldern hin zur offenen Landschaft. Zur Horstanlage werden Altholzbestände benötigt.
+Entwicklungspotenzial für einen neuen Standort des LRT 1340* (Nummer 5.2)
 
-Beide sind Arten nach Anhang I der Vogelschutz-Richtlinie und zudem nach BArtSchV streng geschützt. Die Horststandorte des Kranichs unterliegen dem Schutz gemäß § 19 BbgNatSchAG.
+Die Teilfläche 8 (rund 5 ha) umfasst intensiv genutztes Grünland, das in einer Geländesenke liegt und von Acker umgeben ist.
 
-Beide Arten werden durch die für die Flächen gemäß Nummern 4 und 5.1 bis 5.3 erforderlichen Maßnahmen ebenfalls begünstigt.
+Eine Entwicklung zum LRT 1340* und eine Verbesserung des ökologischen Zustandes der Salzwiesen im Binnenland erfordert eine Grünlandextensivierung, zu der sich der Landnutzer bisher nicht bereit erklärt hat.
 
 6 Erhaltungsmaßnahmen
 
 Die geeigneten Maßnahmen zur Umsetzung der unter Nummer 3 benannten Erhaltungsziele sind in Anlage 2 aufgeführt. Unberührt bleiben Erhaltungs- und Entwicklungsmaßnahmen, die durch die zuständige Naturschutzbehörde angeordnet, zugelassen oder durchgeführt werden.
 
-Besonderer Handlungsbedarf zur Sicherung oder Wiederherstellung günstiger Erhaltungszustände der grundwasserbeeinflussten LRT und Biotope besteht in der Verbesserung des durch den Bau des Ruppiner Kanals und die Melioration der umliegenden Flächen beeinträchtigten Wasserhaushaltes hin zu naturnahen Verhältnissen. Die Flächen des LRT 91E0 auf organischen Nassstandorten sollen aus der forstlichen Bewirtschaftung genommen werden. In allen Wald-LRT, Erlen-Bruchwäldern und Resten natürlicher Wälder sind dringend Maßnahmen zur Verbesserung der lebensraumtypischen Habitatstrukturen, insbesondere der Raumstruktur, einzuleiten sowie die Herausnahme von nicht LRT-typischen Gehölzen, insbesondere der nicht heimischen und zum Teil invasiven Gehölzarten, vorzunehmen.
+Besonderer Handlungsbedarf zur Sicherung oder Wiederherstellung günstiger Erhaltungsgrade der Salzstellen besteht in der Extensivierung der Grünland- und Ackerwirtschaft.
 
-Änderungen der Erhaltungs- und Entwicklungsmaßnahmen bedürfen der Zustimmung des Landesamtes für Umwelt und des Landesforstbetriebes.
+Änderungen der Erhaltungs- und Entwicklungsmaßnahmen bedürfen der Zustimmung des Landesamtes für Umwelt.
 
 7 Projekte
 
-Es wird darauf hingewiesen, dass Projekte vor ihrer Zulassung oder Durchführung auf ihre Verträglichkeit mit den Erhaltungszielen eines Natura-2000-Gebietes zu überprüfen sind, wenn sie einzeln oder im Zusammenwirken mit anderen Projekten oder Plänen geeignet sind, das Gebiet erheblich zu beeinträchtigen, und nicht unmittelbar der Verwaltung des Gebietes dienen. Die Maßstäbe für die Verträglichkeit ergeben sich aus den Erhaltungszielen.
+Es wird darauf hingewiesen, dass Projekte vor ihrer Zulassung oder Durchführung auf ihre Verträglichkeit mit den Erhaltungszielen eines Natura-2000-Gebietes zu überprüfen sind, wenn sie einzeln oder im Zusammenwirken mit anderen Projekten oder Plänen geeignet sind, das Gebiet erheblich zu beeinträchtigen, und nicht unmittelbar der Verwaltung des Gebietes dienen. Die Maßstäbe für die Verträglichkeit ergeben sich aus den Erhaltungszielen im Standarddatenbogen. Die Förderfähigkeit der Projekte wird auf Antrag im Einzelfall geprüft.
 
 8 Umsetzung
 
-Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert. Durch den Bewirtschaftungserlass werden keine über die gesetzlichen Zu-ständigkeiten hinausgehenden oder davon abweichenden Zuständigkeiten begründet.
+Die Durchsetzung der einzelnen Erhaltungsmaßnahmen beziehungsweise deren Berücksichtigung im Vollzug obliegt der jeweilig zuständigen Fachbehörde, die darüber die zuständige Naturschutzbehörde auf Anforderung informiert. Durch den Bewirtschaftungserlass werden keine über die gesetzlichen Zuständigkeiten hinausgehenden oder davon abweichenden Zuständigkeiten begründet.
 
 9 Inkrafttreten
 
@@ -237,8 +221,12 @@ Anlagen
 
 1
 
-Anlage 1 - Kartenskizze zum Bewirtschaftungserlass "Behrensbrück" 1.0 MB
+Anlage 1 Kartenskizze zum Bewirtschaftungserlass „Luckauer Salzstellen“ 496.6 KB
 
 2
 
-Anlage 2 - Erhaltungs- und Entwicklungsmaßnahmen und Umsetzungsinstrumente für die in Nr. 4 aufgeführten LRT und Arten sowie für die in Nr. 5 aufgeführten Biotope/Habitate im Geltungsbereich des Bewirtschaftungserlass "Behrenbrück" 200.1 KB
+Anlage 2 zum Bewirtschaftungserlass für das Gebiet von gemeinschaftlicher Bedeutung „Luckauer Salzstellen“ 203.7 KB
+
+3
+
+Hinweis des MLUL: Anlage 3 wird in der Landesrechtsdatenbank BRAVORS, die das Amtsblatt für Brandenburg in nicht amtlicher elektronischer Fassung wiedergibt, nicht veröffentlicht.
