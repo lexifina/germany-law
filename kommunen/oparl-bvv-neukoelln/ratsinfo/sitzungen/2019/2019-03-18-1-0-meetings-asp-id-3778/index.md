@@ -1,0 +1,82 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-03-18T19:10:00+01:00
+- Ende: 2019-03-18T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3778
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3778
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 2.1: Sanitäre Anlagen Sonnengrundschule - in der BVV abgelehnt
+- TOP 2.2: Keine Räumung ohne Schlafplatz - in der BVV abgelehnt
+- TOP 2.3: Gehweg Primelweg wieder herstellen - in der BVV abgelehnt
+- TOP 2.4: Buslinie M 41 verlängern - in der BVV abgelehnt
+- TOP 2.5: Verkehrslenkende Maßnahmen in der Groß-Ziethener Chaussee - in der BVV abgelehnt
+- TOP 2.6: Schulbau soll beim Bezirksamt bleiben - in der BVV abgelehnt
+- TOP 2.7: Zivilgesellschaftliches Engagement für bezahlbaren Wohnraum darf nicht kriminalisiert werden - in der BVV abgelehnt
+- TOP 2.8: Soko BTM - ohne Änderungen in der BVV beschlossen
+- TOP 2.9: „Solidarisches Grundeinkommen“, aber richtig und solidarisch - in der BVV abgelehnt
+- TOP 2.10: Öffentliches Erinnern an die Novemberrevolution in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 2.11: Bestandsschutz der Kleingartenanlagen verlängern - in der BVV zurückgezogen
+- TOP 2.12: Ampel Hermannstraße/ Thomasstraße - in der BVV abgelehnt
+- TOP 2.13: Bebauung Hochspannungsweg / Birkhuhnweg - beantwortet
+- TOP 2.14: Gilt in Neuköllner Schulkantinen die Scharia? - Teil IV - beantwortet
+- TOP 2.15: Handeln statt populistischem Spiel - ohne Änderungen in der BVV beschlossen
+- TOP 2.16: App „Gesundes Neukölln“ evaluieren - ohne Änderungen in der BVV beschlossen
+- TOP 2.17: Über Gefahren von Konsanguinität aufklären, Folgerisiken bekämpfen - in der BVV abgelehnt
+- TOP 2.18: Bauen unter fairen Bedingungen – Sozial-nachhaltige Beschaffung von Natursteinen - ohne Änderungen in der BVV beschlossen
+- TOP 2.19: Mehr Photovoltaikanlagen für Neuköllner Gebäude in öffentlicher Hand - ohne Änderungen in der BVV beschlossen
+- TOP 2.20: fLotte Kommunal Neukölln - nachhaltig mobil mit Lastenrädern - ohne Änderungen in der BVV beschlossen
+- TOP 2.21: Einrichtung eines Tourismus-Beirates - ohne Änderungen in der BVV beschlossen
+- TOP 2.22: Städtepartnerschaft Neukölln – Bat Yam wiederbeleben - ohne Änderungen in der BVV beschlossen
+- TOP 2.23: Dienststellen unter einem Dach - ohne Änderungen in der BVV beschlossen
+- TOP 2.24: Wirksame Tempobegrenzung in der Hufeisensiedlung - ohne Änderungen in der BVV beschlossen
+- TOP 2.25: Tempo 30 in der Fulhamer Allee ausweiten - ohne Änderungen in der BVV beschlossen
+- TOP 2.26: Tag des guten Lebens in Neukölln unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 2.27: Radverkehr in Hermannstraße und Sonnenallee sicherer machen - ohne Änderungen in der BVV beschlossen
+- TOP 2.28: Kiehlufer - Verkehrssicherungsmaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 2.29: Kommunales Vorkaufsrecht erweitern, Spekulation verhindern, Leerstand beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 2.30: Wohnungsbaupotentiale nutzen - vertagt
+- TOP 2.31: Bauende informieren – Umweltsituation verbessern - vertagt
+- TOP 2.32: Gute Arbeit für Neukölln – Arbeitsmarktpolitische Instrumente für Langzeitarbeitslose - vertagt
+- TOP 2.33: Umgang mit freitäglichem Schulschwänzen - vertagt
+- TOP 2.34: Neuköllner Queerbeauftragte* - vertagt
+- TOP 2.35: Rekommunalisierung von Wohnungsbeständen in Milieuschutzgebieten - vertagt
+- TOP 2.36: Flohmarkt Obi, Ort der illegalen verkäufe von Neu, –und Hehlerware - vertagt
+- TOP 2.37: Vergabe von Bau- und Sanierungsaufträgen - schriftlich beantwortet
+- TOP 2.38: Flächendeckende Video-Überwachung der Außenanlage im Rollbergviertel - schriftlich beantwortet
+- TOP 2.39: Gilt in Neuköllner Schulkantinen die Scharia? - Teil V - vertagt
+- TOP 2.40: Schuldistanz oder Schulschwänzer - vertagt
+- TOP 2.41: Flächendeckende Video-Überwachung der Außenanlage im Rollbergviertel - vertagt
+- TOP 2.42: Rund um das Fahrrad - vertagt
+- TOP 2.43: Anwendung des Berliner Schulgesetzes zur Durchsetzung eines normalen Unterrichtes - vertagt
+- TOP 2.44: Einführung eines elektronischen Klassenbuches - Reduzierung der Schulschwänzer - vertagt
+- TOP 2.45: Bezirksamt Neukölln muss in Hinsicht auf die EU-Freizügigkeitsregelung geschult werden - vertagt
+- TOP 2.46: Videoüberwachung an Drogenschwerpunkten, insbesondere um Schulen und Jugendfreizeiteinrichtungen - vertagt
+- TOP 2.47: Ausweichstandort für das Blueberry Inn - vertagt
+- TOP 2.48: Parklets als wirksame und kostengünstige Alternative pro Verkehrsberuhigung? - vertagt
+- TOP 2.49: Kleidercontainer Bushaltestelle Vivantes Klinikum - vertagt
+- TOP 2.50: Fußgänger*innenfreundlichkeit beim Aufstellen von E-Auto-Ladesäulen gewährleisten - vertagt
+- TOP 2.51: Straßenbeleuchtung an der Straße 645 sicherstellen - vertagt
+- TOP 2.52: Untersuchungsgebiet Milieuschutz Hufeisensiedlung ergänzen - vertagt
+- TOP 2.53: Versagung von weiteren Umnutzungen von Gewerberäumen im Reuterkiez - vertagt
+- TOP 2.54: Eingliederungsmittel vollständig für Neukölln verwenden - vertagt
+- TOP 2.55: Sicherstellung des Standortes der Tee- und Wärmestube - vertagt
+- TOP 2.56: Asbestregister und -sanierung durchführen - vertagt
+- TOP 2.57: Konzept zur Übernahme von Mietschulden - vertagt
+- TOP 2.58: Neue Brunnengalerie – Pilotprojekt für ganz Berlin - vertagt
+- TOP 2.59: Hauptamtliche Leitung der Seniorenfreizeitstätten - vertagt
+- TOP 2.60: Antragsstau bei Wohnungsberechtigungsschein-Anträgen abbauen - vertagt
+- TOP 2.61: Wassermenge und Wasserqualität im Rudower Fließ - vertagt
+- TOP 2.62: Recht auf Beistand auch im Jobcenter Neukölln - vertagt
+- TOP 2.63: Bebauungsplan XIV-155b („Johannisthaler Chaussee / Wildmeisterdamm“) - vertagt
+- TOP 2.64: Öffnung der U-Bahnhöfe für Obdachlose in der kalten Jahreszeit - vertagt
+- TOP 2.65: Bebauungsplan 8- 14 - („südliche Späthstraße“) - vertagt
+- TOP 2.66: Bebauungsplan 8-30 - („Blub-Gelände“) - vertagt
