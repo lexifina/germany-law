@@ -1,0 +1,63 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-18T15:05:00+01:00
+- Ende: 2019-03-18T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20293
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20293
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709958.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709958.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709958.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Vorführung des Image-Films der Ursula-Kuhr-Hauptschule
+- TOP -: Präsentation zum Monitoringbericht allgemeinbildende Schulen und Berufskollegs 2018 zur Vorbereitung auf TOP 5.1
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Verfahren zur erweiterten Budgetierung / selbstständige Entscheidungskompetenz an Schulen - ungeändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Wie sieht es mit der Breitbandversorgung an Schulen und anderen städtischen Einrichtungen aus? - Sache ist erledigt
+- TOP -: Wie sieht es mit der Breitbandversorgung an Schulen und anderen städtischen Einrichtungen aus?; Beantwortung der Anfrage AN/1666/2018 der Ratsgruppe BUNT - Kenntnis genommen
+- TOP 3.1.2: Schulische Notfallpläne - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0110/2019 nach § 4 der Geschäftsordnung des Rates: Schulische Notfallpläne - Kenntnis genommen
+- TOP 3.1.3: Bau- und Sanierungsverzug wegen verzögerten Fachraumplanungen am Apostelgymnasium - Sache ist erledigt
+- TOP -: Beantwortung der Anfrage AN/0112/2019 nach § 4 Geschäftsordnung des Rates: Bau- und Sanierungsverzug wegen verzögerten Fachraumplanungen am Apostelgymnasium - Kenntnis genommen
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Breitbandausbau an Schulen in Köln - Sache ist erledigt
+- TOP -: Breitbandausbau an Schulen in Köln; Beantwortung der Anfrage AN/1135/2018 - Kenntnis genommen
+- TOP 3.2.2: Schulwegsicherung - zurückgestellt
+- TOP 3.2.3: Stadtbilbiothek - Ausstattung mit Büchern in Leichter Sprache - zurückgestellt
+- TOP 3.2.4: Die App „KIKS“ für die Kölner Schulen - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Sportentwicklungsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 4.2: Planungsaufnahme zum Abriss und Ersatzbau des OGS-Hauses der Kath. Grundschule Forststr. 20, 51107 Köln (Rath-Heumar) - ungeändert beschlossen
+- TOP 4.3: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 4.4: Infrastrukturfinanzierung Lernende Region – Netzwerk Köln e.V. (LRNK) - ungeändert beschlossen
+- TOP 4.5: Aktualisierte Honorarordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 4.5, Aktualisierte Honorarordnung der Volkshochschule Köln, DS 0612/2019 - abgelehnt (in der Vorberatung)
+- TOP 4.6: Nutzungs- und Entgeltordnung für das FORUM Volkshochschule - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Monitoringbericht (allgemeinbildende Schulen und Berufskollegs) 2018 - Kenntnis genommen
+- TOP 5.2: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 5.3: Stärkung der präventiven Arbeit mit Kindern und Jugendlichen gegen Antisemitismus, Rassismus und Diskriminierung - Kenntnis genommen
+- TOP 5.4: Prüfung der Errichtung einer Kindertagesstätte (Kita) in Fertig- oder Modulbauweise auf der ungenutzten Brachfläche an der Kurt-Tucholsky-Hauptschule auf dem Helene-Weber-Platz - Kenntnis genommen
+- TOP 5.5: 23. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 5.6: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 5.7: Teilnahme Kölner Schulen am Schulversuch Talentschulen - Kenntnis genommen
+- TOP 5.8: Mittelverwendung zur Ausstattung Schulsport des politischen Veränderungsnachweises zum Haushalt 2018 - Kenntnis genommen
+- TOP 5.9: Sachstandsmitteilung zum Landesförderprogramm "Gute Schule 2020" - Kenntnis genommen
+- TOP 5.10: Anbindung des Fachbereichs "Schulsozialarbeit" innerhalb des Dezernates IV - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
