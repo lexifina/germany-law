@@ -1,0 +1,54 @@
+# 19. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2019-03-18T10:00:00+01:00
+- Ende: 2019-03-18T10:50:00+01:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2019-VA-44
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2019-VA-44
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-VA-44
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-VA-44
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 03.12.2018
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Förderprogramm Kommunaler Straßenbau 2019 hier: Unterrichtung und Beschlussfassung
+- TOP -: Vorlagen des Regionalverband Ruhr/Planungsausschuss
+- TOP 1.2: Änderungsverfahren zum Regionalen Flächennutzungsplan (RFNP) 32 E Icktener Straße (ehm. Tennisanlage)
+- TOP 1.3: Änderungsverfahren 34 GE des Regionalen Flächennutzungsplanes (RFNP) Erteilung des Einvernehmens gemäß § 39 Abs. 3 LPlG NRW
+- TOP 1.4: 12. Änderung des Regionalplans für den Regierungsbezirk Münster, Teilabschnitt Emscher-Lippe: Nachnutzung ehemaliger Bergbaustandorte auf dem Gebiet der Städte Bottrop, Datteln, Haltern am See, Herten und Marl (Erarbeitungsbeschluss)
+- TOP 1.4.1: Änderung LEP NRW Kabinettsbeschluss vom 19.02.2019
+- TOP 1.5: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Zweites Gesetz zur Weiterentwicklung des Neuen Kommunalen Finanzmanagements für Gemeinden und Gemeindeverbände im Land Nordrhein-Westfalen und weiterer kommunalrechtlicher Vorschriften (2. NKF-Weiterentwicklungsgesetz – 2. NKFWG NRW) Artikel 7: Änderung des Gesetzes zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse
+- TOP 2.2: Entwurf des Gesamtabschlusses zum 31.12.2015 des Regionalverbandes Ruhr
+- TOP 2.3: Überplanmäßige Mittelbereitstellung im Referat 02 - Verbandsgremien
+- TOP 2.4: Sozialkonferenz Ruhr 2019
+- TOP 2.5: Angelegenheiten der Business Metropole Ruhr GmbH (BMR) - Weiterführung der ruhr:HUB GmbH unter Beteiligung der BMR
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.6: Radschnellweg Mittleres Ruhrgebiet hier: Sachstand und weiteres Vorgehen
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.7: Angelegenheiten der Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 2.7.1: Freizeitgesellschaft Metropole Ruhr mbH - Investitionszuschuss
+- TOP 2.7.2: Freizeitgesellschaft Metropole Ruhr mbH - Betriebsstätte Revierpark Vonderort - Teilnahme der Stadt Oberhausen am Förderprogramm des Bundes „Sanierung kommunaler Einrichtungen des Sports, der Jugend und der Kultur“ im Revierpark Vonderort
+- TOP 2.8: Angelegenheiten der Abfallwirtschaft metropoleruhr GmbH Jahresabschluss zum 31.12.2016 sowie zum 31.12.2017
+- TOP 2.9: Bericht über die Beteiligungen nach GO NRW 2017
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.10: GrüneInfrastruktur.RUHR; Sachstandsbericht mit Bezug zur Ruhrkonferenz
+- TOP 2.11: Lern- und Erlebnislabor Industrienatur
+- TOP -: Vorlagen aus dem Betriebsausschuss Ruhr Grün
+- TOP 2.12: Feststellung des geänderten Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün 2019
+- TOP 2.13: Feststellung des Jahresabschlusses und Lageberichts der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2017 Beschluss über die Zuführung zur Ausgleichsrücklage Entlastung des Betriebsausschusses RVR Ruhr Grün
+- TOP 2.14: Anfragen und Mitteilungen
+- TOP 2.14.1: Ruhrkonferenz – Einbindung der Mitglieder der Verbandsversammlung hier: Antwort der Verwaltung auf die Anfrage der Fraktion Die Linke vom 06.02.2019
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
