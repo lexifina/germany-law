@@ -1,0 +1,69 @@
+# 38. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-18T17:00:00+01:00
+- Ende: 2019-03-18T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20127
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20127
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Benennung eines Platzes in Köln-Bickendorf (Az.: 02-1600-147/18) - geändert beschlossen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Sach- und Planungsstand Hinterhofbebauung Hospeltstraße 66-70 - Kenntnis genommen
+- TOP 6.1.1: Bauvorhaben auf dem Grundstück Hospeltstr. 66-70 - Kenntnis genommen
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Anfrage der FDP/Piraten-Fraktion, betr.: Unterführung Widdersdorfer Straße / Girlitzweg - zurückgestellt
+- TOP 6.4: Wohnungsbauoffensive im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 6.4.1: Wohnungsbauoffensive im Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Fördergelder Venloer Straße - Kenntnis genommen
+- TOP 7.1.1: Umbau der Venloer Straße zwischen Innere Kanalstraße und Ehrenfeldgürtel - Kenntnis genommen
+- TOP 7.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Planungsstand Bezirkssportanlage Prälat-Ludwig-Wolker - Kenntnis genommen
+- TOP 7.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen zum Thema: Planungsstand Bezirkssportanlage Prälat-Ludwig-Wolker - Kenntnis genommen
+- TOP 7.2.2: Anfrage der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Ehrenfeld für die Sitzung am 18.03.2019 - Kenntnis genommen
+- TOP 7.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Grunderwerbskosten für den Bau der Heliosschule - zurückgestellt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Stand der Baumaßnahmen Kita Hadersleber Straße - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion, betr.: Kreisverkehr Wilhelm-Mauser-Straße und Venloer Straße und Neugestaltung Rochusplatz zeitgleich - geändert beschlossen
+- TOP 8.1.1: Änderungsantrag der CDU-Fraktion zu TOP 8.1, betr.. Kreisverkehr Wilhelm-Mauser-Straße und Venloer Straße und Neugestaltung Rochus Platz zeitgleich - ungeändert beschlossen
+- TOP 8.2: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Keplerstraße - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion, betr.: Stärkung des kooperativen Baulandmodels – mehr bezahlbarer Wohnraum - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - zurückgestellt
+- TOP 9.2: Förderprogramm der Bezirksvertretung Ehrenfeld für die Vergabe bezirksorientierter Haushaltsmittel gemäß § 37 (3) GO NW - ungeändert beschlossen
+- TOP 9.3: Erste Vergabe der bezirksorientierten Finanzmittel 2019 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Sportentwicklungsplanung der Stadt Köln - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag der SPD-Fraktion zu TOP 10.1, Sportentwicklungsplanung der Stadt Köln: Bezirkssportanlage Prälat-Ludwig-Wolker, Everhardstraße - geändert beschlossen
+- TOP 10.2: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - geändert beschlossen
+- TOP 10.3: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 10.4: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - geändert beschlossen
+- TOP 10.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 12.2: Förderung von Elektromobilität - Kenntnis genommen
+- TOP 12.3: Earth Hour 2019 - Kenntnis genommen
+- TOP 12.4: Spielstraße im Starenweg in Köln-Vogelsang - Kenntnis genommen
+- TOP 12.5: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 12.6: Anfrage zum Ortstermin in der Bunkeranlage der Bertha-von-Suttner-Realschule, Kolkrabenweg 65, Köln-Vogelsang am 14.01.2019 - Kenntnis genommen
+- TOP 12.7: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 12.8: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 12.9: Planfeststellungsbeschluss für den Umbau des Autobahnkreuzes Köln-Nord - Kenntnis genommen
+- TOP 12.10: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 12.11: Photovoltaik-Anlagen auf städtischen Gebäuden - zu AN/1648/2018 - Kenntnis genommen
+- TOP 12.12: Neuer Fußgänger-Überweg Vogelsangerstr./Höhe Goldammerweg, Vogelsang - Kenntnis genommen
+- TOP 12.13: Änderung der Vorfahrtsregelung Vogelsangerstr./Goldammerweg, Vogelsang - Kenntnis genommen
+- TOP 13: mündliche Anfragen
