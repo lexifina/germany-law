@@ -1,0 +1,95 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-03-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150436
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150436
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Vorstellung des Projektes "München - gesund vor Ort" (Gäste aus dem Referat für Gesundheit und Umwelt)
+- TOP 2.1.: Lärmschutzmaßnahmen an der Allacher Straße
+- TOP 2.2.: Gefährliche Situation für Radfahrer und Fußgänger am Georg-Brauchle-Ring (Anfrage)
+- TOP 2.3.: LKW-Parken (über 7,5 t) auf Höhe Eininger Str. 20 und Günzburger Platz
+- TOP 2.4.: BA 25: Antrag "Plakatieren von kulturellen Veranstaltungen durch die Bezirksausschüsse" mit der Bitte um Unterstützung
+- TOP 2.5.: Bauvorhaben Franz-Mader-Str. 4.12 - Schulbauoffensive hier: Ablehnung Erschließungsplan
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Emmy-Noether-Str. 2 2. Franz-Mader-Str. 4-12 - Schulbauoffensive
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Rothschwaigestr. 46 2. Wichertstr. 22
+- TOP 3.4.1.: Bericht aus der gemeinsamen Unterausschuss-Sitzung am 07.02.209, Thema: Soziale Stadt - Stadtsanierung und Wohnungsbau - Untersuchungsgebiet Moosach
+- TOP 4.: Anträge
+- TOP 4.1.1.: Engpass am Busbahnhof "Moosach Bahnhof"
+- TOP 4.1.2.: Vorschlag zu einer sinnvolleren Situierung von Abfallkörben in der Bunzlauer Straße, am Bunzlauer Platz und am Moosacher Stachus
+- TOP 4.1.3.: Mögliche Asphaltierung und Beleuchtung des Fußweges in der Grünanlage zwischen Borstei und SWM-Gelände - Bitte um Einbeziehung des BA 10 in den Entscheidungsfindungsprozess
+- TOP 4.2.1.: Absolutes Haltverbot am Glogauer Platz
+- TOP 4.2.2.: Höhenkontrolle Unterführung Dachauer Straße (Anfrage)
+- TOP 4.3.1.: Sicherheit für Fahrradfahrer in der Pelkovenstraße (zwischen Feldmochinger Straße und Dachauer Straße) durch eine Tempo 30 Zone erhöhen
+- TOP 4.5.1.: Sicherheit in der staatlichen Unterkunft Franz-Mader-Straße (Anfrage)
+- TOP 4.5.2.: Verbesserung des Carsharing-Angebots in Moosach (fraktionsübergreifende Anfrage)
+- TOP 5.1.: Stadtbezirksbudget Pflegezentrum Moosach Senioren besuchen Museen vom 31.01. - 28.11.2019 2.227,50 Euro, Az.: 0262.0-10-0172
+- TOP 5.2.: (E) Stadtbezirksbudget Elternbeirat des Gymnasiums München-Moosach MFM-Projekt am 14.03. und vom 18.03. - 21.03.2019 1.215,00 Euro Az.: 0262.0-10-0174
+- TOP 5.3.: (E) Stadtbezirksbudget AG Buhlstraße e.V., Freizeitstätte boomerang Erneuerung der Küche 8.000,00 Euro Az.: 0262.0-10-0175
+- TOP 5.4.: (E) Stadtbezirksbudget Schützenkranz München - Moosach e.V. Anschaffung einer Fahne 1.500,00 € / Az. 0262.0-10-0173
+- TOP 5.5.: (E) Stadtbezirksbudget Siedlervereinigung Hartmannshofen 100 Jahrfeier am 06.07.2019 und Stadtteilspaziergang 2.859,75 Euro, Az.: 0262.0-10-0176
+- TOP 5.6.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Neuantrag Errichtung eines Obstverkaufsstandes an der Hanauer Str. 68 (links des Haupteinganges OEZ)
+- TOP 5.7.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Neuantrag Errichtung eines Obstverkaufsstandes am Bunzlauer Platz
+- TOP 5.8.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Aufstellen eines mobilen Fahrradständers an der Dachauer Str. 411
+- TOP 5.9.: (E) Beidseitiges Haltverbot in der Moosburger Straße
+- TOP 5.10.: (E) Einrichtung einer Fußgängerbedarfsampel und/oder eines Zebrastreifens am Werner-Friedmann-Bogen, 80993 München
+- TOP 5.11.: (E) Verlängerung der Grünphase an der Ampel Kreuzung Donauwörther- / Dachauer Straße, 80997 München
+- TOP 5.12.: (E) Neu Verkehrsführung (Markierungsänderung) in der Gröbenzeller - / Ecke Dachauer Straße, 80997 München
+- TOP 6.1.: Schulbauoffensive 2013-2030 - Beschlussentwurf -
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund und auf städtischem Privatgrund (Festzelt): Moosacher St.-Martins-Platz "Moosacher Maifest" vom 26.04. bis 01.05.2019
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund (Begleitgrün): Moosacher St.-Martins-Platz: "Moosacher Dorffest" am 20.07.2019
+- TOP 6.4.: Anmietung Splittergrundstück Allacher Straße / Ecke Waldhornstraße für Angebot Bettfedernreinigung vom 26.04.- 01.05.19, 19.07.-24.07.19 und 04.10.-09.10.19
+- TOP 6.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: 1. Zettlerstraße; absolutes Haltverbot 2. Kita Skagerrakstr. 7; Geschwindigkeitsbeschränkung 30km/h
+- TOP 6.6.: Mehr Grün im Straßenraum (Antrag BA 3)
+- TOP 6.7.: Baumfällungen (Baumschutz): 1. Gaggenaystr. 15 2. Rigaer Str. 21 3. Siegmund-Schacky-Str. 26 4. Weidmannstr. 27 5. Zettlerstr. 31
+- TOP 6.8.: Diverse Veranstaltungen in Grünanlagen und auf Grünflächen im 10. Stadtbezirk: Spielaktionen der AG Spiellandschaft Stadt 2019, Antrag auf Sammelgenehmigung
+- TOP 7.1.: Fahrradmobilität: Aufstellung einer öffentlich zugänglichen Fahrradpumpstation im Bereich Westfriedhof [BA-Antrag Nr. 14-20/B05123; im 10. Stb. bereits Station am Memminger Platz. Da nur Testphase im Pilotprojekt derzeit keine weitere Stations-Einrichtungen]
+- TOP 7.2.: 1.) Wahllokale künftig wieder in die Schule an der Dieselstraße verlegen;2.) Anzahl der Wahllokale bei den kommenden Wahlen erhöhen [BA-Antrag Nr. 14-20/B05490; individuelle Prüfung Wahllokalstandorte für künftige Wahllokale wird erfolgen; Anregungen des BA10 weden mitgeprüft werden.]
+- TOP 7.3.: Anlage und Aufwertung von öffentlichen Grünflächen durch Blühstreifen mit nachhaltiger und insektenfreundlicher Bepflanzung [BA-Antrag Nr. 14-20/B05290; derzeitige und zukünftige Umsetzung erfolgt kontinuierlich gemäß einer seit 2017 laufenden Kampagne]
+- TOP 7.4.: Zusätzliche Fahrradständer vor dem Gebäude der "Meile Moosach" auf dem Bunzlauer Platz [Antrag BA10 vom 14.11.18; weitere Anlehnbügel ggü der bereits vorhandenen Fahrradständer werden in 2019 aufgestellt]
+- TOP 7.5.: Aufstellung von Fahrradständern an der U-Bahnhaltestelle "Olympia-Einkaufszentrum" vor dem MONA-Einkaufszentrum [Schreiben BA10 vom 19.09.18; Vorschlag wird aufgegriffen und in 2019 umgesetzt (5 weitere)]
+- TOP 7.6.: Material von Abfallbeuteln in Moosach und Einsatz von ressourcenschonenden Materialien [Anfrage BA10 vom 10.12.18; dem Anliegen wird bereits Rechnung getragen; recyclebare Tüten, jedoch benutzte Hundekottüten müssen einer thermischen Verwertung zugeführt werden]
+- TOP 7.7.: Zustand des Hartmannshofer Bächls [Anfrage BA10 vom 17.09.18; Keine Erhöhung der Wassermenge wegen Auslastung der Versickerungsanlage; Anpflanzung von naturnahen Hochstaudenfluren mit ökologischer Funktion, deshalb wenig Mahden]
+- TOP 7.8.: Künftige Nutzung des Anwesens "Gaststätte Spiegl" [Stellungnahme BA10 vom 05.02.18; UNB wird auf Eigentümer hinwirken, Gaststättennutzung beizubehalten. Unmittelbare Gefahr für Erhalt des Baudenkmals wird nicht gesehen]
+- TOP 7.9.: Ertönen der Alarmsirene im Beherbergungsbetrieb Alzeyer Str. 2 [Anfrage BA10 vom 17.09.18; Fehlalarme werden durch unachtsame Erwärmung von Lebensmitteln durch Bewohner verursacht; Sensibilsierungsmaßnahmen werden regelmässig durchgeführt]
+- TOP 7.10.: BA 25: Erhöhung des Anteilsatzes für eigene Veranstaltungen...oder zumindest bei Bedarf variabler zu gestalten [BA-Antrag Nr. 14-20/B05769 des BA 25; Antwortschreiben zur Kenntnis für alle BAs; derzeit keine Mittel-Ausschöpfung in den BAs; Anpassung kann zu späterem Zeitpunkt erfolgen.]
+- TOP 7.11.: Stellungnahme des Referates für Stadtplanung und Bauvorhaben - LBK zu Bauvorhaben Dieselstr. 18
+- TOP 7.12.: Stellungnahme des Referates für Stadtplanung und Bauvorhaben - LBK zu Bauvorhaben Glogauer Str. 20
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume: Grünfläche Vilniusstraße/ Netzerstraße
+- TOP 8.4.: Erinnerungsverfahren (§ 6.1 AufgrO): 1. Kanalneubau Leipziger Straße
+- TOP 8.5.: Spielen in der Stadt e.V: Einsätze der MünchnerSommerSpielAktion 2019
+- TOP 8.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Anfahrtsmöglichkeit für die Kita Riesstr. 49 2. Leipziger Str. 39; absolutes Haltverbot 3. Pelkovenstr. 139a; Errichtung Kurzzeitparkplätze 4. Rigaer Straße u.a.: absolute Haltverbote 5. Baubergerstr. 49 und 65; Geschwindigkeitsbegrenzung auf 30 km/h 6. Hengelerstraße; absolutes Haltverbot
+- TOP 8.7.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 8.8.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 8.9.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 8.10.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 8.11.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 8.12.: (U) Überprüfung der Sicherheit für Fußgänger und Radfahrer an der nördlichen stadteinwärts gelegenen Verkehrsinsel Dachauer Straße / Hanauer Straße Beschluss des Bezirksausschusses des 10. Stadtbezirks vom 16.07.2018
+- TOP 8.13.: (U) Toni-Merkens-Weg 4, Landshuter Allee (östlich), Nymphenburg-Biedersteiner-Kanal (nördlich), Ernst-Curtius-Weg (westlich) und Sapporobogen (südlich) - Neue multifunktionale Sportarena im Olympiapark - A) Bekanntgabe des Wettbewerbsergebnisses B) Weiteres Vorgehen Stadtbezirk 11 – Milbertshofen-Am Hart
+- TOP 8.14.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - Dachauer Straße
+- TOP 8.15.: WEB - alle Anträge vom 16.01. bis 28.02.2019 - nicht-öffentlich -
