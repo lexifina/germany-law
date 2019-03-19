@@ -1,0 +1,55 @@
+# Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (33. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-03-19T17:00:00+01:00
+- Ende: 2019-03-19T19:56:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-41
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRwFLhcmFBvBwO_8IBbhyVY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5302
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX5uz3jLI0-m1ODls-rvnnBLw1EHtWdWbp_-a6Skch2O/Bekanntmachung_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_19.03.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRCVOVkZ0MRuycZC7iY6YoB7QLGpHq_19EvTGltcXqS8/Oeffentliche_Niederschrift_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_19.03.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Förderprogramme für Migranten zur freiwilligen Rückkehr in ihr Heimatland
+- TOP 1.2: Unterbringung von Flüchtlingen
+- TOP 1.3: Handlungskonzept Wohnen hier: Wohnungsaufsicht, Zweckentfremdung und Reintegration Wohnungsnotfälle
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 29.01.2019
+- TOP 4.: Handlungskonzept Wohnen für die Stadt Solingen
+- TOP 5.: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der Ratsfraktion DIE LINKE vom 26.09.2018
+- TOP 6.: Sicherung und Schaffung bezahlbarer Wohnungen hier: Antrag der SPD-Ratsfraktion vom 13.09.2018
+- TOP 7.: Gründung einer städtischen Wohnungsbaugesellschaft
+- TOP 8.: Sachstandsbericht zu generellen Wartezeiten für die Bearbeitung von Anträgen
+- TOP 9.: Weiterentwicklung der quartiersbezogenen (Flüchtlings-)Sozialarbeit
+- TOP 10.: Herleitung von Mietobergrenzen für angemessene Kosten der Unterkunft
+- TOP 11.: Auswirkungen des Bundesteilhabegesetzes
+- TOP 12.: Armutsbericht
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen der Verwaltung
+- TOP 13.1.1: Aktuelle Situation in der vollstationären Pflege und in der Kurzzeitpflege und mittelfristige Entwicklung
+- TOP 13.1.2: Umsetzung der Leitlinien Bürgerbeteiligung hier: Vorhabenliste 2019
+- TOP 13.1.3: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 13.1.4: Wohnungssegment rollstuhlgerechter Wohnungen in Solingen
+- TOP 13.1.5: Leitfaden Demenz
+- TOP 13.1.6: Wohnraumförderung 2018 hier: Förderergebnis
+- TOP 13.1.7: Wohnraumförderung 2018 hier: Bestand
+- TOP 13.1.8: Wohnraumförderung 2019 hier: Bestimmungen
+- TOP 13.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 31. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 29.01.2019
+- TOP 4.: Städtisches Klinikum Solingen gemeinnützige GmbH - Reduktion Geschäftsanteile GDEKK
+- TOP 5.: Wirtschaftsplan 2019 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 6.: Städtisches Klinikum Solingen gemeinnützige GmbH - Abschluss eines Versorgungsvertrages Flexible Endoskopie für die Klinik für Gastroenterologie und allg. Innere Medizin
+- TOP 7.: Städtisches Klinikum Solingen gemeinnützige GmbH - Kauf von Microsoftlizenzen für alle genutzten Produktbereiche (Office/Windows/Server) einschließlich Wartung
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.2: Wohnungssegment rollstuhlgerechter Wohnungen in Solingen
+- TOP 8.3: Anfragen an die Verwaltung
