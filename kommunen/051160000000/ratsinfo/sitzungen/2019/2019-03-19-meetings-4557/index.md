@@ -1,0 +1,57 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-03-19T17:00:00+01:00
+- Ende: 2019-03-19T20:52:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4557
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4557
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift vom 06.02.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00152331.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 34. Sitzung des Hauptausschusses am 06.02.2019 - öffentlicher Teil- Siehe Anlage - Zur Kenntnis genommen
+- TOP 2: Bericht über die Anwendung von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01 - Kenntnisnahme
+- TOP 3: Hundesteuersatzung; Zweitwohnungssteuersatzung; - Getrennte Abstimmung (s. Niederschrift)
+- TOP 4: Beteiligung der NEW AG Smart City GmbH an der Gesellschaft für dezentrales Energiemanagement GmbH (DEM) - Einstimmiger Beschluss
+- TOP 5: Beteiligung der NEW AG Smart City GmbH an der FreshEnergy GmbH - Einstimmiger Beschluss
+- TOP 6: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 (6. Nachweisung) - Kenntnisnahme
+- TOP 7: Änderungsverordnungen ordnungsbehördliche Verordnungen verkaufsoffene Sonntage 2019 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Sechster Nachtrag Gebührensatzung Rettungsdienst - Einstimmiger Beschluss
+- TOP 9: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - Siehe Niederschrift
+- TOP 10: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Einstimmiger Beschluss
+- TOP 11: Leistungsvereinbarungen zur psychosozialen Begleitung - Einstimmiger Beschluss
+- TOP 12: Errichtung eines Kraftraums für das Schulzentrum Hardt - Einstimmiger Beschluss
+- TOP 13: Soziale Stadt Alt-Mönchengladbach – Beschluss der Richtlinie zum Hof- und Fassadenprogramm - Einstimmiger Beschluss
+- TOP 14: Gemeinsame Befahrung des Umwelt- und Feuerwehrausschusses - Einstimmiger Beschluss
+- TOP 15: Naturdenkmalverordnung - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 15.1: Vorlage 3431/IX - Mit Stimmenmehrheit abgelehnt
+- TOP 16: Kommission Wachstum, Strukturwandel und Beschäftigung (WSB, „Kohlekommission“) – Positionspapier für Mönchengladbach - Kenntnisnahme
+- TOP 16.1: Vorlage 3671/IX Kommission Wachstum, Strukturwandel und Beschäftigung - Mit Stimmenmehrheit abgelehnt
+- TOP 17: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2018; 2. Teil - Einstimmiger Beschluss
+- TOP 18: Digitale Pilotschule Mönchengladbach / hier: Ausführungsbestimmungen; Antrag der Ratsfraktionen von CDU und SPD vom 19.02.2019 - Mit Stimmenmehrheit beschlossen
+- TOP 19: Kampagne Grundsicherung im Alter; hier: Fraktionsantrag DIE LNKE vom 19.02.2019 - Mit Stimmenmehrheit abgelehnt
+- TOP 20: Anpassung der Richtlinien der Stadt Mönchengladbach über die Förderung von Familien und - Siehe Niederschrift
+- TOP 21: Unterstützung der 1. Community – ehemalige Heimkinder e. V.; Hier: Fraktionsantrag CDU/SPD vom 21.02.2019 - Einstimmiger Beschluss
+- TOP 22: Grundsatzbeschluss über Baulandvergabe usw. - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Übernahme der jährlichen Mitgliedsbeiträge Mieterverein; hier: Antrag der Ratsfraktion Bündnis 90/DIE GRÜNEN vom 17.02.2019 - An den Rat verwiesen
+- TOP 24: Errichtung eines Ausschusses für Wohnungspolitik und Wohnungsförderung; hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 20.02.2019 - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Bericht Neubesetzung des NEW Vorstand; hier: Fraktionsantrag DIE LINKE vom 21.02.2019 - Vom Antragsteller zurückgezogen
+- TOP 26: Prüfantrag Versiegelungskataster; Fraktionsantrag DIE LINKE vom 19.02.2019 - Vom Antragsteller zurückgezogen
+- TOP 27: Schottergärten; hier: Fraktionsantrag DIE LINKE vom 19.02.2019 - Mit Stimmenmehrheit abgelehnt
+- TOP 27.1: Vorlage 3724/IX: Schottergärten - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Sachstandsbericht über Gesundheitsmanagement im Hinblick der Digitalisierung; hier: Antrag der Ratsfraktion DIE LINKE vom 19.02.2019 - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Gründung einer Historiker*innenkommision; hier: Gemeinsamer Fraktionsantrag Die Linke und Bündnis 90/Die Grünen vom 19.02.2019 Der Antrag wurde am 12.03.2019 zurück gezogen. - Vom Antragsteller zurückgezogen
+- TOP 30: Public Corporate Governance Kodex in der Metropolregion - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Außerplanmäßige Finanzmittel dür die Erweiterung der Angebote des Gesundheitsamtes - Siehe Niederschrift
+- TOP 32: Sachstandsbericht Besetzung Geschäftsführer-/ Vorstandspositionen städt. Beteiligung - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Sachstandsbericht zur Fusion von Kreisbau und GWSG - Vom Antragsteller zurückgezogen
+- TOP 34: Anfragen und Mitteilungen
+- TOP 34.1: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur Stellenbesetzung in der Meldestelle
+- TOP 34.2: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Hockey-Weltmeisterschaft in Mönchengladbach
+- TOP 34.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Nutzung des Schulhofs der alten Schule Wanlo
+- TOP 34.4: Anfrage von RH Schultz (DIE LINKE) zur Nutzung des Schulhofs und der Toiletten der alten Schule Wanlo
+- TOP 34.5: Anfrage von RH Schultz (DIE LINKE) zur Versendung von Sitzungsunterlagen
