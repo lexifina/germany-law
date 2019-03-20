@@ -1,0 +1,138 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2019-03-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5142596
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5142596
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgeranliegen an den Bezirksausschuss
+- TOP 2.1.4.: Ausfahrt Fa. Ganser Beton, Bergsonstr. 106 (Vorgang unter TOP 6.3.2.8) Vorangs-Nr. 27649)
+- TOP 2.2: Anliegen und Fragen an die Polizei
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 4.: Anträge
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Familie, Senioren, Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben
+- TOP 6.2: UA Bildung, Schule, Sport
+- TOP 6.3: UA Verkehrsinfrastrukur
+- TOP 6.4: UA Planung, Bauen, Umwelt
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.02.19
+- TOP 10.2: Bekanntgabe im Bildungsausschuss vom 27.02.19
+- TOP 10.3: Beschluss der Vollversammlung vom 23.01.19
+- TOP 10.4: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.02.19
+- TOP 10.5: Beschluss der Vollversammlung des Stadtrates vom 13.02.19:
+- TOP 10.6: Beschluss des Sozialausschusses vom 14.03.19:
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 2.1.1.: Schaffung eines Verbindungsweges zwischen der Pfarrei St. Markus und Albert-Camus-Straße
+- TOP 2.1.2.: Burenwirt - Erwerb der Immobilie Altostr. 7
+- TOP 2.1.3.: Fahrradweganbindung Freiham insbesondere Bildungscampus Freiham an Aubing und Umgebung
+- TOP 2.1.5.: Aufwertung Viertel
+- TOP 2.1.6.: Räumliche Handlungsschwerpunkte des Satzungsbeschlusses Sanierungsgebiet Aubing des Stadtrates vom 07.11.18
+- TOP 2.1.7.: Grundstück Schussenrieder Straße, Ecke Schubinweg
+- TOP 2.1.8.: (N) Eisenbahnkreuzungsmaßnahmen beim Ausbau der S4 West
+- TOP 2.1.9.: (N) Sachstand zu BA-Anträgen: Überquerung der Bodenseestraße für Fußgänger, generelle Aufwertung des Aufseßer Platzes
+- TOP 2.1.10.: (N) Verkehrssituation in der Pretzfelder Straße
+- TOP 2.1.11.: (N) Problematisches Abbiegen von der Wertheimer Straße in die Aubinger Straße - Anfrage wegen Verkehrsspiegel
+- TOP 2.1.12.: (N) Verengung der Ubostraße
+- TOP 2.1.13.: (N) Vermüllung Wiesentfelser Straße durch angrenzende Baustelle Freiham; Mülleimer im Park beim Durchgang Wiesentfelser Straße zur Ehrenbürgstraße
+- TOP 2.1.14.: (N) Unübersichtliche Verkehrssituation im Kreuzungsbereich Ubostraße / Fabrikstraße / Altostraße
+- TOP 2.1.15.: (N) Verlängerung der MetroBuslinie 57
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Mariabrunner Str. 57
+- TOP 3.1.2.: Baumfällungsbescheid: - Am Langwieder Bach 18b, Schr. Planungsreferat vom 20.02.19 - Mariabrunner Str. 57, Schr. Planungsreferat vom 28.02.19 - Dietrichsteinstr. 38, Schr. Planungsreferat vom 28.02.19
+- TOP 4.1.: Finanzmittel für die Einrichtung von Schutzzonen für Wildbienen (Christian Stockmann, Herbert Forster)
+- TOP 4.2.: Abbiegespur Altenburgstraße (westliche Richtung) Limesstraße (Sebastian Kriesel, Johann Sauerer, Jürgen Schrader)
+- TOP 4.3.: Verspätungen auf der Linie S4 vermeiden. Den Bahnübergang Waldschranke besser sichern (Sebastian Kriesel, Jürgen Schrader, Johann Sauerer)
+- TOP 4.4.: Artgerechte Stadtbäume für Bienen (Christian Stockmann, Herbert Forster)
+- TOP 4.5.: Unterbindung der extremen Verschmutzung der Bergsonstraße (Thomas Hampel)
+- TOP 4.6.: Umplanung der Bahn-Unterführungen der Bodenseestraße (Reinhard Bernsdorf)
+- TOP 4.7.: Künftige Busrouten in Freiham-Süd (Reinhard Bernsdorf)
+- TOP 4.8.: Ausbau der A 96 in Richtung München (Reinhard Bernsdorf)
+- TOP 4.9.: Lkw in der Centa-Hafenbrädl-Straße (Reinhard Bernsdorf)
+- TOP 4.10.: Errichtung eines Jugendtreffs im Stadtteil Lochhausen/Langwied (Brigitta Bacak, Barbara Ney)
+- TOP 4.11.: Errichtung eines öffentlichen Hallenbades im Stadtteil Freiham im 22. Stadtbezirk (Brigitta Bacak, Barbara Ney)
+- TOP 4.12.: Beschaffung eines Seitenradargerätes (Thomas Hampel)
+- TOP 4.13.: Anfrage zum Provisorium Stromanschluss, Georg-Böhmer-Str. 1 / Altostraße (Grünen-Fraktion)
+- TOP 4.14.: Verlassene Fahrräder (Karin Binsteiner, Dagmar Mosch, Siegfried Liedl)
+- TOP 4.15.: Bau von mehr Radlständern (Dagmar Mosch, Siegfried Liedl, Karin Binsteiner)
+- TOP 5.1.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Gitarrenunterricht vom 01.04. - 23.12.2019 3.315,00 Euro, Az.: 0262.0-22-0112
+- TOP 5.2.: (E) Stadtbezirksbudget Interessengemeinschaft Langwied-Dorf e.V. Anschaffung eines neuen Schaukastens zwischen dem 15.04. und 15.06.2019 600,00 Euro, Az.: 0262.0-22-0111
+- TOP 6.1.1.1.: Veranstaltung im Freien auf einer städt. Grünanlage, hier: 7. Intern. Sommerfest vom 15.06.-16.06.19, Grünanlage Radolfzeller Straße zur Altenburgstraße (Anhörung KVR vom 04.03.19)
+- TOP 6.1.1.2.: Veranstaltung Stadtteilfest im Freien auf öffentlichem Verkehrsgrund, hier: Gilchinger Str. auf Höhe Hsnr. 1-9 und 2-14 am 04.04.19, Anhörung KVR vom 26.02.19
+- TOP 6.1.1.3.: (N) Spielaktionen der AG Spiellandschaft Stadt 2019 - Antrag auf Sammelgenehmigung, Anhörung KVR vom 11.03.19
+- TOP 6.1.1.4.: (N) Veranstaltung im Freien auf einer städtischen Grünanlage: Maifest mit Maibaumaufstellen am 01.05.19 in der Grünanlage Waidachanger, Kapelle, Anhörung KVR vom 12.03.19
+- TOP 6.1.1.5.: (N) Veranstaltungen in städtischen Grünanlagen: diverse Skateparks - hier: Skatepark am Pasinger Gleisdreieck vom 04.05.-28.09.18, bezirksübergreifend, Anhörung KVR vom 14.03.19
+- TOP 6.1.2.1.: Zuständigkeiten bei Zuschüssen von Maibäumen, Schr. Baureferat vom 25.02.19
+- TOP 6.1.2.2.: (N) Münchner Wochen- und Bauernmärkte - Bitte um Information zu Baumaßnahmen, Schr. Markthallen München vom 07.03.19
+- TOP 6.2.1: Anhörungen / Stellungnahmen
+- TOP 6.2.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.1: Anhörungen / Stellungnahmen
+- TOP 6.3.1.1.: Eisenbahnkreuzungsmaßnahmen beim Ausbau der S4 West Pasing-Buchenau, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.04.19, Anhörung Planungsreferat vom 28.02.19
+- TOP 6.3.1.2.: (N) Verkehrsrechtliche Anordnung: Roggensteiner Weg 1a - Kita-Anfahrtzone, Anhörung KVR vom 11.03.19
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben
+- TOP 6.3.2.1.: Ausbau der A 96 und A 99, Schr. Planungsreferat vom 28.01.19
+- TOP 6.3.2.2.: Parksituation in der Streitbergstraße, Vermehrte Beschwerden über Gehwegparken und sichtbehindertes Ausfahren, Schr. KVR vom 12.02.19
+- TOP 6.3.2.3.: Verkehrsrechtliche Anordnung, hier: - Bergsonstr., südliche Fahrbahn; Einrichtung eines Haltverbotes, Schr. KVR vom 21.02.19
+- TOP 6.3.2.4.: Fahrbahnübergang Bergsonstraße Höhe Noderstraße (Sicherheit und Lärmschutz), Schr. KVR vom 21.02.19
+- TOP 6.3.2.5.: Zustand des Harthauser Wegs, Schr. Kommunalreferat vom 26.02.19 und (N) 07.03.19 sowie Schr. Bürger vom 01.03.19
+- TOP 6.3.2.6.: Bürgersprechstunde Oberbürgermeister: Anlage einer Rampe an der Westseite des Aubinger Bahnsteigs mit Schrankenanlage; Wasser und Abwasser in JEFTA (Handelsabkommen EU-Japan), Schr. des Oberbürgermeisters Reiter vom 14.02.19
+- TOP 6.3.2.7.: Ausfahrt Firma Ganser Beton in der Bergsonstr. 106, Schr. Baureferat vom 12.02.19
+- TOP 6.3.2.8.: Auflassung und Verfüllung der Fuß- und Radwegunterführung Radolfzeller Straße, Schr. Baureferat vom 12.02.19
+- TOP 6.3.2.9.: Einbahnregelung in der Ranertstraße, Schr. KVR vom 04.03.19
+- TOP 6.3.2.10.: Pfützenbildung am Feldmeierbogen Höhe Nr. 23 / Einmündung Lohmeierweg, Schr. Baureferat vom 28.02.19
+- TOP 6.3.2.11.: Schulwegsicherheit Aubing-Ost-Straße / Mariabrunner Straße, Schr. KVR vom 28.02.19
+- TOP 6.3.2.12.: (N) Nahverkehrsplan der LHM - Präsentation, Schr. Referat für Stadtplanung und Bauordnung vom 11.03.19
+- TOP 6.3.2.13.: (N) Maßnahmenpaket Verkehr 2: Kein zusätzlicher Durchgangsverkehr durch die Anbindung Freiham Aubing im Ortsgebiet des 22. Stadtbezirkes, Schr. Referat für Stadtplanung und Bauordnung vom 26.02.19
+- TOP 6.3.2.14.: (N) Maßnahmenpaket Verkehr 3: Kein Durchgangsverkehr bei Tunnelsperrungen im Ortsgebiet des 22. Stadtbezirkes, Schr. Referat für Stadtplanung und Bauordnung vom 26.02.19
+- TOP 6.3.2.15.: (N) Nord-Süd Fahrradverbindung im 22. Stadtbezirk, Schr. Referat für Stadtplanung und Bauordnung vom 04.03.19
+- TOP 6.4.1: Anhörungen / Stellungnahmen
+- TOP 6.4.1.1.: Stadtbezirksprofile zur Infrastrukturversorgung, Anhörung zur Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung (vertagt aus 02/19)
+- TOP 6.4.1.2.: Brunhamstr. 19 a, Nachgenehmigung einer bestehenden Autowerkstatt, Anhörung Planungsreferat vom 18.02.19
+- TOP 6.4.1.3.: Imkerweg 42, Neubau eines Einfamilienhauses mit Garage, Anhörung Planungsreferat vom 26.02.19
+- TOP 6.4.1.4.: (N) Müllerstadelstraße - Neubau einer Reitplatzüberdachung einschließlich Vergrößerung der Reitanlage - jeweils für landwirtschaftliche Nutzung - sowie Nachgenehmigung einer landwirtschaftliche Strohbergehalle, Anhörung Referat für Stadtplanung und Bauordnung vom 11.03.19
+- TOP 6.4.1.5.: (N) Mälzereistraße - Neubau eines Logistikzentrums, Betreibserweiterungsfläche BEF-BA II (Hanfgartenstr./Lochhausener Str./Mälzereistr.), Anhörung Referat für Stadtplanung und Bauordnung vom 13.03.19
+- TOP 6.4.1.6.: (N) Zwingenberger Straße - Neubau eines Doppel- und eines Fünffamilienhauses mit Garagen, Anhörung Referat für Stadtplanung und Bauordnung vom 15.03.19
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben
+- TOP 6.4.2.1.: Antrag auf Ensembleschutz für die Eisenbahngenossenschaft "ebm" an der Limesstraße sowie Einzeldenkmalschutz für das Gebäude Limesstr. 63 (vertagt aus 01/19)
+- TOP 6.4.2.2.: Bauvorhaben im 22. Stadtbezirk: 11.02.-17.02.19, (N) 18.02.-24.02.19, (N) 04.03.-10.03.19
+- TOP 6.4.2.3.: Vormerkung über ein Gespräch mit Vertretern des Fördervereins "1000 Jahre Urkunde Aubing" zu Teilmaßnahme "Orstkern Aubing", Schr. Referat für Stadtplanung und Bauordnung vom 26.02.19
+- TOP 6.4.2.4.: Einrichtung von Blühwiesen, Schr. Baureferat vom 11.02.19
+- TOP 6.4.2.5.: Trinkwasser-Projekt Riesenburgstraße, Schr. SWM vom 22.02.19
+- TOP 6.4.2.6.: Stadtteilzentrum Freiham; Vergabe einer Kerngebietsfläche, Schr. Referat für Arbeit und Wirtschaft vom 21.02.19
+- TOP 6.4.2.7.: Erhaltung der Artenvielfalt Dreilingsweg 47, Schr. Planungsreferat vom 25.02.19
+- TOP 6.4.2.8.: Baumaßnahmen der Stadtwerke, Stichtag: 19.02.-03.03.19
+- TOP 6.4.2.9.: Nördlichen Zugang Friedhof Aubing wieder passierbar machen, Schr. Baureferat vom 12.02.19
+- TOP 7.: Anhörungen / Stellungnahmen
+- TOP 8.: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Köferinger Str. 11, Schr. Sozialreferat vom 14.02.19 - Estinger Str. 2c, Schr. Sozialreferat vom 14.02.19 - Erlbachstr. 15, Schr. Sozialreferat vom 14.02.19 - Wiesenthauer Str. 6, Schr. Sozialreferat vom 13.02.19 - Noderstr. 2, Schr. Sozialreferat vom 12.02.19 - Wiesentfelser Str. 4-10, Schr. Sozialreferat vom 21.02.19
+- TOP 10.1.1.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 10.2.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 10.2.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 10.3.1.: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 10.4.1.: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 10.5.1.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 10.6.1.: (U) Verlängerung der Laufzeiten von Flüchtlingsunterkünften 1. Stadtbezirk - Altstadt-Lehel 10. Stadtbezirk - Moosach 11. Stadtbezirk - Milbertshofen-Am Hart 13. Stadtbezirk - Bogenhausen 14. Stadtbezirk - Berg am Laim 15. Stadtbezirk - Trudering-Riem 16. Stadtbezirk - Ramersdorf-Perlach 19. Stadtbezirk - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln 21. Stadtbezirk - Pasing-Obermenzing 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 11.1.: BA 25 - Vollzug der Plakatierverordnung: Ablehnung Plakatierung durch den Bezirksausschuss für eine kulturelle Veranstaltung, Schr. BA 25 vom 19.02.19
+- TOP 11.2.: Mehr Grün im Straßenraum, Antrag BA 3, Schr. Direktorium vom 28.02.19
+- TOP 11.3.: Erhöhung des Anteilsatzes für eigene Veranstaltungen von 6 Prozent (bzw. 8 Prozent in Jubiläumsjahren) auf 10 Prozent oder zumindest bei Bedarf variabler zu gestalten, Antrag BA 25, Schr. Direktorium vom 21.02.19
+- TOP 11.4.: (N) Dank für Unterstützung des FC Mainaustraße durch BA-Budget, Schr. FC Mainaustraße vom 12.03.19
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 10.04.19 um 19.30 Uhr im UBO9, Ubostr. 9 Unterausschuss-Sitzungen: - UA Planen/Bauen/Umwelt: Montag, den 11.03.19, 18.30 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Verkehrsinfrastruktur: Montag, den 11.03.19, 19 Uhr, Bay. Schnitzel- und Hendlhaus, Limesstr. 63 - UA Bildung/Schule/Sport: Mittwoch, den 13.03.19, 19 Uhr, Friedrichshafener Str. 11 - UA Soziales/Familie/Senioren/Kultur: Donnerstag, den 14.03.19, 19 Uhr, Friedrichshafener Str. 11
