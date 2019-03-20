@@ -1,0 +1,144 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-03-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5173982
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5173982
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 1.2.: Nachbesetzung in den Unterausschüssen Planung und Gesundheit, Umwelt, Verkehr sowie im Ferienausschuss
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 0.: Vorstellung durch das Baureferat
+- TOP 2.3.: Wolfgangstr. 9: Vergrößerung der Terrasse im DG, Gaubenänderung, Nutzungsänderung Laden zu Wohnung sowie Werkstatt zu Heizung mit Teilabbruch, Errichtung Kellerabgang, Müllhaus und Abstellraum für Kinderwagen und Gehhilfen, Einbau Außenlift
+- TOP 2.4.: Orleansstr. 56: Neubau eines Bürogebäudes
+- TOP 2.7.: Albanistr. 1: Anbau einer Notleiteranlage
+- TOP 2.8.: Rosenheimer Str. 111: Dachgeschoss- und Speicherausbau, Anbau eines Außenaufzugs an ein Mehrfamilienhaus, Tektur
+- TOP 2.9.: Oefelestr. 6: Nutzungsänderung Erdgeschoss: Laden zu Galerie mit Gaststätte
+- TOP 2.10.: Rosenheimer Str. 112 und 114 (Holzkontor): Neubau eines Bürohauses mit Schulungsräumen, eines Hotels und eines Wohngebäudes mit Tiefgarage, Tektur
+- TOP 2.11.: Falkenstr. 7a: Umbau für eine erweiterte Büronutzung und Aufstockung für Wohnnutzung
+- TOP 2.12.: Metzstr. 9: Anbau zweier Balkonanlagen
+- TOP 2.13.: Ernst-Reuter-Str. 4: Schulbauoffensive - Errichtung einer Außentreppe als Fluchttreppe (Herstellung eines 2. Rettungswegs im Erdgeschoss der Schule)
+- TOP 2.14.: Einsteinstr. 46a: Ausbau und energetische Sanierung des Dachs, Neuerrichtung eines Personenaufzugs, Änderung der Laden-/Büroeinheit im Erdgeschoss, Erneuerung der Hofkellerdecke
+- TOP 2.3.: Franziskanerstr. 38: Baumfällungen wegen Neubau eines Wohngebäudes (46 WE und Gewerbeeinheit)
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.1.: Rumänische Bettelmafia in Haidhausen und anderswo
+- TOP 4.2.2.: Alternativer Sammelplatz für Christbäume im Franzosenviertel dazu: Zwischennachricht Abfallwirtschaftsbetrieb
+- TOP 4.2.3.: Schmierereien an Wänden in Haidhausen
+- TOP 5.1.: Ostbahnhof: Rolltreppen in beide Richtungen Vertagung aus der Sitzung vom 20.02.2019
+- TOP 5.2.: Einsteinstr. 95 / Kuglerstr. 7: Baumpflanzungen
+- TOP 6.1.1.: (E) Stadtbezirksbudget Joint Adventures Tanzprojekt "Access to dance" vom 01.-07.04.2019 9.496,00 € - siehe auch UA Kultur -
+- TOP 6.1.2.: (E) Stadtbezirksbudget OBACHT! kultur-im-quartier.de Kulturbiennale vom 16.-19.05.2019 5.500,00 € - siehe auch UA Kultur -
+- TOP 6.2.1.: Genehmigung einer Freischankfläche, hier: Eisdiele in der Oefelestr. 2 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 7.1.: Änderung der BA-Satzung Mehr Grün im Straßenraum
+- TOP 8.1.1.: Ehrenamtliche BA-Arbeit 2.0 mit Alfresco Vertagung aus der Sitzung vom 20.02.2019
+- TOP 8.1.2.: Errichtung einer Infotafel für Franz Xaver Schmederer im Kronepark
+- TOP 8.1.3.: Gedenktafel zur Erinnerung an ehemalige Zwangsarbeiterinnen und Zwangsarbeiter
+- TOP 8.1.4.: Baustelleneinrichtung blockiert Fahrradschutzstreifen am Bordeauxplatz
+- TOP 8.1.5.: Rückfragen zur BA-Antrags-Nr. 14-20 / B 01108 vom 24.06.2016 "Schulentwicklungsplanung für die Münchner öffentlichen Grund- und Mittelschulen sowie Förderzentren"
+- TOP 8.2.1.: Öffentliche Fläche Grütznerstraße / Wiener Platz (ehem. Huterer): Barrierefreier Zugang, zusätzliche Sitzplätze Schreiben BA 5 vom 17.12.2018 und 04.02.2019
+- TOP 8.2.2.: Verparken des Pariser Platzes Schreiben BA 5 vom 04.02.2019
+- TOP 8.3.1.: Erhöhung des Anteilssatz für eigene Veranstaltungen von 6 Prozent (bzw. 8 Prozent in Jubiläumsjahren) auf 10 Prozent oder zumindest bei Bedarf variabler zu gestalten Antwortschreiben Direktorium zum Antrag Nr. 14-20 / B 5769 des BA 25 Laim
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Stadtbezirksbudget Joint Adventures Tanzprojekt "Access to dance" vom 01.-07.04.2019 9.496,00 €
+- TOP II.2.: Stadtbezirksbudget OBACHT! kultur-im-quartier.de Kulturbiennale vom 16.-19.05.2019 5.500,00 €
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Maßnahmen auf der Grünfläche an der Eduard-Schmid-Straße - Vorschläge von AKIM wegen Nachbarschaftsbeschwerden / Bitte um Ortstermin
+- TOP 2.2.: Nutzung der Halfpipe am Spielplatz Tassilopark
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: MünchnerSommerSpielAktion: Rückmeldung zur Planung der Spielbuseinsätze 2019
+- TOP 3.2.: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 3.3.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 3.4.: Bericht über den Ortstermin am 20.02.2019 in der Ernst-Reuter-Straße zum Sichtschutzzaun am Spielplatz
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche, hier: Eisdiele in der Oefelestr. 2
+- TOP 2.: Anhörungen
+- TOP 2.1.: Europa-Picknick der Grünen am Bordeauxplatz am 11.05.2019
+- TOP 2.2.: Spezialmarkt Freundschaftstreffen der Biergartenfreunde auf dem Orleansplatz vom 01.06.-16.06.2019
+- TOP 2.3.: Antrag für die Aufstellung einer Sitzgelegenheit in der Einsteinstr. 109
+- TOP 2.4.: Spielaktionen der AG Spiellandschaft Stadt 2019, Antrag auf Sammelgenehmigung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP V.: UA Planung
+- TOP 0.1.: Neuplanung einer Grünanlage mit zwei größeren Spielplätzen im Quartier Regerstraße (Regerpark) auf dem ehemaligen Paulaner Gelände
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Lilienstr. 56: Umbau und Sanierung eines Rückgebäudes mit geneigtem Dach in ein Gebäude mit Flachdach und Dachterrasse sowie Nutzungsänderung Lager zu Büro
+- TOP 2.2.: Franziskanerstr. 38: Neubau eines Wohngebäudes (46 WE und Gewerbeeinheit)
+- TOP 2.5.: Weißenburger Str. 21: Errichtung zweier Townhouses (als rückwärtige Hofbebauung) mit Tiefgarage sowie Abbruch der Bestandsgaragen, Tektur
+- TOP 2.6.: Hochstr. 9-11: Erweiterung und Umbau eines Hotels um 71 Zimmer einschl. Tiefgarage (21 Stellplätze) - Hochstr. 9: Erweiterung / Neubau von 65 Gästezimmern und Tiefgarage - Hochstr. 11: Umbau des Bürobereichs in 6 Gästezimmer, Anbindung an die Erschließung Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baugenehmigung Orleansstr. 56, Teilabbruch des Gebäudes mit Erhalt von Kellerräumen Antwort auf Stellungnahme BA 5 vom 19.10.2018
+- TOP 3.2.: Schneckenburgerstr. 8, Standzeitverlängerung um weitere 5 Jahre für die Aufstellung von Büro- und Labormodulen (Klinikum rechts der Isar) Antwort auf Stellungnahme BA 5 vom 13.12.2018
+- TOP 3.3.: Baugenehmigung Steinstr. 63 Antwort auf Stellungnahme BA 5 vom 22.11.2018
+- TOP 3.4.: Ausnahmegenehmigung zur Errichtung eines barrierefreien Zugangs nördlich der Reichenbachbrücke
+- TOP 3.5.: Fällungsgenehmigung Maria-Theresia-Str. 1 a (Teilabbruch und Neuerrichtung des Dachgeschosses) Antwort auf Stellungnahme BA 5 vom 22.02.2019
+- TOP 3.6.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Antrag auf Bau des Klenzestegs
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Ergebnis Ortstermin Kirchenstraße vom 13.02.2019 zur Radwegsplanung in Zusammenhang mit der Maßnahme Umgestaltung des Spielplatzes am Johannisplatz
+- TOP 2.: Anhörungen
+- TOP 2.1.: Gaisbergstr. 10: Fällung von 1 Sitka Fichte
+- TOP 2.2.: Innere-Wiener-Str. 19: Fällung von 3 Kastanien
+- TOP 2.4.: Verkehrsberuhigung Trogerstraße - Abschnitt Perfall- und Prinzregentenstraße - Bitte um Stellungnahme zu einem Lösungsvorschlag -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Stellungnahmen der Unteren Naturschutzbehörde zu Baumfällungen a) Fällgenehmigung Bazeillesstr. 1 b) Fällgenehmigung Franziskanerstr. 24-36 c) Fällgenehmigungen Isarauen / Maximilianeum d) Gefahrenbaumfällung in der Lilienstr. 54 e) Ersatzpflanzung Orleansstr. 10-12 (Antwort auf Schreiben BA 5 vom 18.02.2019)
+- TOP 3.2.: Fahrradweg Ohlmüllerstraße (Bürgeranliegen) Antwortschreiben KVR
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Straßenbegrünung Eggernstraße
+- TOP 4.2.: Nistkästen für Spatzen in Haidhausen Verweisung aus der Sitzung vom 23.01.2019
+- TOP 4.3.: 1. Gefahrenfreier Übergang Preysingstraße Ecke Wörth-/Metzgerstraße 2. Aufstellen von Boxen auf Spielplätzen für gefundenes Spielzeug in Haidhausen 3. Aufstellen von "Giveboxen" in Haidhausen
+- TOP 4.4.: Luftreinhaltung speziell in München - Zusätzliche Messstation in der Humboldtstraße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 01.04.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 01.04.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 02.04.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 03.04.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 04.04.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 10.04.2019, 19 Uhr, MVHS, Einsteinstr. 28 BA- Vorstand, Dienstag, 26.03.2019, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Flussrunde "Verkehrsuntersuchung" am 08.04.2019 von 16-19 Uhr
+- TOP 4.2.: Maßnahmen des Baureferates / Kampagne "Wahre Liebe ist ..." 2018 an der Isar Einladung zum 3. Runden Tisch "Erholungsraum Isar" am 03.04.2019
+- TOP 4.3.: BA-Dialog mit dem Referat für Bildung und Sport am 08.05.2019 ab 17 Uhr
+- TOP 4.4.: Sitzungstermine des BA 5 in 2020 Vertagung aus der Sitzung vom 20.02.2019
+- TOP 4.5.: Einladung zur Besichtigung des neuen Fahrzeugs beim THW München-Ost am 06.04.2019 um 17 Uhr
+- TOP 4.6.: Vorbereitungstreffen zum Haidhauser Kultursonntag am 10.04.2019 um 17 Uhr
+- TOP 4.7.: Einwohnerversammlung des 5. Stadtbezirksteils Au und des 17. Stadtbezirks Giesing am 25.03.2019 um 18 Uhr zum Thema mögliche Neuplanung am Kronepark als Folge der Bebauung auf dem ehemaligen Paulaner-Gelände
