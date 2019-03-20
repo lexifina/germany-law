@@ -1,0 +1,136 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-03-20T17:00:00+01:00
+- Ende: 2019-03-20T21:50:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5423
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5423
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=326659
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Jahresberichte der Patientenfürsprecher_innen für das Jahr 2018 gemäß §30 (3) des Landeskrankenhausgesetzes (LKG) und §12 des Gesetzes über Hilfen und Schutzmaßnahmen bei psychischen Krankheiten (PsychKG) - überwiesen
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 4.1: Prüfauftrag des Kinder- und Jugendparlamentes an das Bezirksamt Tempelhof-Schöneberg - überwiesen
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Wahl der Sozialkommissions-/Sondersozialkommissions-Mitglieder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Gefahr in Verzug – Ordnungsamt App erweitern - in der BVV abgelehnt
+- TOP 6.3: Sitzung des Krankenhausbeirats durchführen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Wann handelt das Bezirksamt endlich in Sachen Schulwegsicherheit? - beantwortet
+- TOP 6.5: Sicher zur Schule - mit und ohne Schülerlotsen und zwar jeden Tag! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.6: Berücksichtigung von öffentlichen Toiletten bei der Neugestaltung der Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 6.7: Gesundheitsmesse in Tempelhof-Schöneberg durchführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.8: Fläche für soziale Infrastruktur in Alt-Mariendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.9: Aufstellung des Entwurfs der Investitionsplanung 2019 bis 2023 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Eine erste Bilanz der bezirklichen Milieuschutzgebiete - beantwortet
+- TOP 8.2: Haben Kleingartenkolonien in Tempelhof-Schöneberg noch eine Chance dauerhaft erhalten zu bleiben? - vertagt
+- TOP 8.3: Stadtentwicklung und FM - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Geschäftsordnung für eine Gedenktafelkommission für den Bezirk Tempelhof-Schöneberg (Fassung vom 25.02.2019) - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Radwege am Bahnhof Südkreuz baulich gegen Falschparker sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Freies W-LAN in Seniorenfreizeiteinrichtungen - überwiesen
+- TOP 10.3: Wider das Vergessen: Gedenkveranstaltung für Adolf Lewissohn - überwiesen
+- TOP 10.4: Förderpreis für Frauen- und Mädchensport wieder vergeben - überwiesen
+- TOP 10.5: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Tempelhof-Schöneberg sagt Nein zur Bebauung von Kleingartenkolonien - vertagt
+- TOP 10.7: Gedenken an Adolf & Helene Lewissohn wachhalten - Sportgeschichte in Mariendorf erinnern - überwiesen
+- TOP 10.8: Vorhaben Halker Zeile in der Arbeitsplanung Hochbau für 2019 absichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Vegetationsperiode nutzen – Konzept zur besseren Präsentation des Arc 124,5° entwickeln - überwiesen
+- TOP 10.10: Kontrollen im Kurfürstenkiez - vertagt
+- TOP 10.11: Bessere Unterstützung von Leistungsempfänger_innen mit psychosozialer Problematik durch das Jobcenter - überwiesen
+- TOP 10.12: Erreichbarkeit von Schulen per Telefon und E-Mail gewährleisten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Mieterinnen und Mieter bei An- oder Ummeldung über die Regelungen der Mietpreisbremse informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Dienstzeitverlängerung des Schulleiters der Friedrich-Bergius-Schule - gegenstandslos
+- TOP 10.15: Schaffung von geeigneten Abstellmöglichkeiten für Fahrräder vor dem T-Damm-Center - überwiesen
+- TOP 10.16: Kommunales Zentrum Marienfelde („KomMa“) - überwiesen
+- TOP 10.17: Naturlehrpfade einrichten - überwiesen
+- TOP 10.18: Präventionsmaßnahmen gegen Zwangsverheiratung umsetzen - überwiesen
+- TOP 10.19: Schwimmkurse für Erwachsene Nichtschwimmer_innen unterstützen - überwiesen
+- TOP 10.20: Tiergehege im Franckepark - überwiesen
+- TOP 10.21: Betonplatten zu Gärten - überwiesen
+- TOP 10.22: Europatag am 9. Mai an den Schulen begehen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.23: KV-Notdienstpraxis auch in Tempelhof-Schöneberg errichten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.24: Mobile Internetseiten für Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.25: Gewerbestandort Motzener Straße sichern - Schichauweg an B101 anbinden - überwiesen
+- TOP 10.26: Ampelschaltung Riedingerstraße /Bahnhofstraße bis zum Abschluss des mehrjährigen Umbaus optimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.27: Platzfläche Ecke Yorck- / Bülowstraße - überwiesen
+- TOP 10.28: Straßenschäden in der Lützowstraße beseitigen - überwiesen
+- TOP 10.29: Mülleimer im Grünzug zwischen Kirch- und Greulichstraße - überwiesen
+- TOP 10.30: Dienstzeitverlängerung von Schulleitungen nach Erreichen der Altersgrenze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Verkehrssicherheit durch Tempo 30 auf den Spangen der Bundesallee (1) - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Beleuchtung des Verbindungswegs zwischen Säntisstraße und Buchsteinweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Änderung der Geschäftsordnung § 23 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Adipositasprävention durch mehr Bewegung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Integration durch Selbstorganisation der Geflüchteten – Bewohner*innenräte in den Gemeinschaftsunterkünften einrichten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Änderung des § 22 der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Beseitigung der Insel an der Einmündung Vorbergstraße/Hauptstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Hol- und Bringzone in der Rubensstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Sicherung des Eingangsbelegs beim Sozialamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Sportanlage Vorarlberger Damm 33 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Lichtzeichenanlage für Fahrräder am Innsbrucker Platz nicht zuzuordnen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Bäume an der Urania erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Schulwegfreundliche Ampelschaltung an der Hohenstaufenstraße Ecke Kyffhäuser Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Fuß- und radverkehrsfreundliche Ampelschaltung auf dem Weg in den Volkspark und zur RR1 nach Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Fahrrad- und fußgängerfreundlichere Überquerung der Kirchstraße im Verlauf des Fuß- und Radwegs An der Heilandsweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Poller auf dem Gehweg Handjerystraße beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Mittelinseln kenntlicher machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Sicher über die Kreuzung Goltzstraße/Rehagener Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Sichere Wege für alle Verkehrsteilnehmer*innen: Tempo 30 in der Laubacher Straße umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Winterdienst in Grün- und Erholungsanlagen ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Dialogdisplay für das Kinder- und Jugendparlament - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.22: Bessere Sicherung der Verkehrsinseln im Bezirk erreichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Verkehrsinseln besser sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.24: Sicherheit verbessern, Böllerverbotszone testen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.25: Regionalbahnhalt am Bahnhof Buckower Chaussee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Schutz vor Böllerei im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.27: Kampagne zur Entsorgung von Medikamenten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.28: Milieuschutzbeirat in Tempelhof-Schöneberg bilden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.29: Benennung von Privatstraßen und -plätzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.30: Dog Stations erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.31: Tempelhof-Schöneberg feiert den 70. Geburtstag der Freiheitsglocke des Rathauses Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.32: Benennung eines Weges und eines Steges am Bahnhof Südkreuz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.33: Sicherheit verbessern: Böllerverbotszonen einrichten - schutzbedürftige Bereiche ausweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.34: Vergabe von Sondermitteln der Bezirksverordnetenversammlung - Puma e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.35: Mehr Kitaplätze für Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.36: Verwendung und Verbreitung der Broschüre „Ene, mene, muh – und raus bist du!“ der Amadeu-Antonio-Stiftung in staatlichen Kitas untersagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Jahresbericht Rechtsamt vorlegen - überwiesen
+- TOP 13.2: Standortsicherung für Schöneberger Jugendeinrichtungen - überwiesen
+- TOP 13.3: Fahrradabstellmöglichkeiten im Akazienkiez schaffen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Orientierung in Marienfelde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Quartiersmanagement soll im Schöneberger Norden fortgesetzt werden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Einmündung Werner-Voß-Damm / Manfred-von-Richthofen-Straße - überwiesen
+- TOP 13.7: Rad- und Fußverkehr im Bereich des Knotens Priesterweg / Prellerweg - überwiesen
+- TOP 13.8: Einebnung von Grabdenkmalen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Bebauung von ehemaligen Bestattungsflächen unterbinden - überwiesen
+- TOP 13.10: Fahrradpolizei in Tempelhof-Schöneberg installieren - überwiesen
+- TOP 13.11: Radabstellmöglichkeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.12: Öffnungszeiten und Angebote der Kinder- und Jugendfreizeiteinrichtungen online einfacher zugänglich machen - überwiesen
+- TOP 13.13: Fahrradparkhäuser auch in Tempelhof-Schöneberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.14: Lücke im Verlauf des Mauerwegs schließen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.15: Haus der Jugend - überwiesen
+- TOP 13.16: Kurzzeitparkzone vor dem Rathaus Schöneberg endlich realisieren (Beschluss Drs. Nr. 0132/XX) - überwiesen
+- TOP 13.17: Keine Übergriffe auf autonome Jugendeinrichtungen - überwiesen
+- TOP 13.18: Entfernung von Graffiti auf den U-Bahnhöfen Bayerischer Platz (U7) und Eisenacher Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.19: 80 Jahre Rathaus Tempelhof - vor dem Fortschritt der Rückblick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.20: Schulen mit innenliegendem Ganztagsbereich nicht benachteiligen – zweite Reinigung durchführen - überwiesen
+- TOP 13.21: Meinungsfreiheit in Lehrer*innenzimmern und Schulen in TS - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.22: Die Arbeit der Obdachlosenorganisation „Barka“ finanziell sicherstellen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.23: Theater Morgenstern dauerhaft fördern - überwiesen
+- TOP 13.24: BerlKönig auch in den Stadtrand von Tempelhof-Schöneberg - überwiesen
+- TOP 13.25: Erweiterung der Parkraumbewirtschaftungszone 17 um den kleinen Bereich zwischen Motzstraße und Hohenstaufenstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.26: „Prüfung des Brandschutzes in öffentlichen Gebäuden: Brandsicherheitsschauen in Bildungseinrichtungen (Schulen, Hochschulen, Kitas)“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Termin der nächsten Sitzung - zur Kenntnis genommen (Beratungsfolge beendet)
