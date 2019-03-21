@@ -1,0 +1,105 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-21T16:00:00+01:00
+- Ende: 2019-03-21T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20381
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20381
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Fahrradabstellanlagen für die Grundschulen KGS und GGS Gotenring
+- TOP 1.2: Kurzvortrag zur Ausstellung zu Starkregen und Überflutungsvorsorge
+- TOP 1.3: Kurzvortrag zu Sportentwicklungsplanung der Stadt Köln
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Sportentwicklungsplanung der Stadt Köln - mit Änderungen empfohlen
+- TOP 3.2: Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz - mit Änderungen empfohlen
+- TOP 3.2.1: Änderungsantrag SPD zu Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz (3880/2018) - mit Änderungen empfohlen
+- TOP 3.2.2: Änderungsantrag GUT zu Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz (3880/2018) - ungeändert beschlossen
+- TOP 3.2.3: Änderungsantrag CDU zu Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz (3880/2018): Beleuchtung Theodor-Heuss-Park - ungeändert beschlossen
+- TOP 3.3: Qualifizierungsmaßnahme Quartiersplatz Am Salzmagazin (Eigelstein); hier: Bedarfsfeststellungsbeschluss und Durchführung eines Qualifizierungsverfahrens - mit Änderungen empfohlen
+- TOP 3.3.1: Änderungsantrag SPD, CDU zu Qualifizierungsmaßnahme Quartiersplatz Am Salzmagazin - ungeändert beschlossen
+- TOP 3.4: Verkehrsführungskonzept Altstadt - mit Änderungen empfohlen
+- TOP 3.4.1: Verkehrsführungskonzept Altstadt
+- TOP 3.5: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - mit Änderungen empfohlen
+- TOP 3.6: Bau- und Finanzierungsbeschluss für die Umgestaltung des Maternuskirchplatzes - ungeändert beschlossen
+- TOP 3.7: Weihnachtsmarkt Chlodwigplatz 2019 - ungeändert beschlossen
+- TOP 3.8: Neumarkt: - ungeändert empfohlen
+- TOP 3.9: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - zurückgestellt
+- TOP 3.10: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert empfohlen
+- TOP 3.11: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 3.12: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Bonner Straße 75 - zurückgestellt
+- TOP 3.13: Aufhebung der Straßenbezeichnung An dr Hahnepooz Köln-Altstadt/Süd - ungeändert beschlossen
+- TOP 3.14: Entfallen
+- TOP 3.15: Mobiles Drogenhilfeangebot in Neumarktnähe - mit Änderungen empfohlen
+- TOP 3.16: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - zurückgestellt
+- TOP 3.17: Chinafest 2019 - ungeändert empfohlen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. §24 GO - zurückgestellt
+- TOP 4.1.1: Gem. Änderungsantrag zu Bürgereingabe gem. §24 GO, Norbert-Burger-Park (0280/2019) - zurückgestellt
+- TOP 4.2: Bürgereingabe gem. § 24 GO - Aufstellung von Blumenkübeln in der Norbertstraße (Gereonsviertel) - zurückgestellt
+- TOP 4.3: Aufstellung eines Bücherschrankes auf dem Platz Gereonskloster - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Verkehrsplanung für die Gladbacher Straße (Az.: 02-1600-156/18) - ungeändert beschlossen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Ampelpärchen zum Jubiläum des CSD (Az.: 02-1600-222/18) - geändert beschlossen
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: Bauarbeiten Kreuzung Krefelder Straße/Krefelder Wall (Az.: 02-1600-233/18) - zurückgestellt
+- TOP 4.7: Bürgereingabe gem. § 24 GO, betr.: Taktverdichtung der Straßenbahnlinie 9 und der Buslinie 152 (Az.: 02-1600-93/18) - mit Änderungen empfohlen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Verkehrsgefährdendes Falschparken vor dem Haus Deutzer Freiheit 93 - geändert beschlossen
+- TOP 5.1.2: Verkehrsentlastung der Justinianstraße in Deutz - endgültig abgelehnt
+- TOP 5.1.3: Entfernung/Versetzung Werbeanlage Breite Str./Tunisstr., Antrag GUT - endgültig zurückgezogen
+- TOP 5.1.4: Autofreie Altstadt jetzt! - Sache ist erledigt
+- TOP 5.1.5: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.1.6: Dringende Änderung der Ampelschaltung Vorgebirgsstraße/Volksgartenstraße - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Weiterführung "Sitzen anstatt Parken" - ungeändert beschlossen
+- TOP 5.2.2: Pressespiegel der Stadt Köln - zurückgestellt
+- TOP 5.2.3: Sperrung am Sudermanplatz - ungeändert beschlossen
+- TOP 5.2.4: Bessere Absicherung der Schulwege entlang der Johannisstraße - zurückgestellt
+- TOP 5.2.4.1: Bessere Absicherung der Schulwege entlang der Johannisstraße
+- TOP 5.2.5: Fahrradabstellmöglichkeiten in Rathausnähe - ungeändert beschlossen
+- TOP 5.2.6: Fußgänger- und Radfahrerbrücke am Lentpark - ungeändert beschlossen
+- TOP 5.2.7: Gemeinnutz geht über Eigennutz: Baulücke schließen - ungeändert beschlossen
+- TOP 5.2.8: Eingeschränktes Halteverbot mit Ausnahmeregelung - geändert beschlossen
+- TOP 5.2.8.1: Änderungsantrag Bündnis90/ Die Grünen - Sache ist erledigt
+- TOP 5.2.9: Verlegung Bushaltestelle Justinianstraße - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Beschlusscontrolling Stadtverschönerungsmittel 2014 - 2017 - Sache ist erledigt
+- TOP 6.1.2: Anfrage zum Verbleib der Bänke an der Ecke Moltkestraße und Neue Maastrichter Straße
+- TOP 6.1.2.1: Verbleib der Bänke an der Ecke Moltkestraße und Neue Maastrichter Straße
+- TOP 6.1.3: Verkehrszählung Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 6.1.4: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.5: Ampelanlage Kreuzung im Bereich Im Sionstal/kleine Witschgasse/Follerstraße - Aktueller Stand, Gem. Anfrage - Sache ist erledigt
+- TOP 6.1.6: Beleuchtung Klingelpützpark
+- TOP 6.1.6.1: Beleuchtung Klingelpützpark
+- TOP 6.1.7: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.8: Platzgestaltung Charles-de-Gaulles-Platz
+- TOP 6.1.8.1: Platzgestaltung Charles-de-Gaulle-Platz in Köln-Deutz
+- TOP 6.1.9: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sanierung von vier Innenstadtschulen (Neustadt/Nord) - zurückgestellt
+- TOP 6.2.2: Parkraumfreie Zone - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung - Kenntnis genommen
+- TOP 9.1: Earth Hour 2019 - Kenntnis genommen
+- TOP 9.2: TH Köln – Gebäude A (Ersatzneubau Campus Deutz Gebäude A)- Gebäude B- (Hörsaalzentrum), hier: Ergebnisse der Wettbewerbe nach RPW 2013 - Kenntnis genommen
+- TOP 9.3: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 9.4: Sanierung der Norbertstraße - Kenntnis genommen
+- TOP 9.5: Sachstandsbericht Neubau Bezirksrathaus Innenstadt AN/1047/2018 - Stand 03.12.2018 - Kenntnis genommen
+- TOP 9.6: Wohnungen in Nordlage - Kenntnis genommen
+- TOP 9.7: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 9.8: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 9.9: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 9.10: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 9.11: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
+- TOP 9.12: Instandsetzung des Reichenspergerplatzes sowie der Weißenburgstraße und Merlostraße - Kenntnis genommen
+- TOP 9.13: Mitteilung zum Sachstand des Zwischennutzungskonzepts am Ebertplatz - Kenntnis genommen
+- TOP 9.14: Mehrfachbeauftragung Campus Kartause (Kartäuserwall 24b), Köln Altstadt-Süd - Kenntnis genommen
