@@ -1,0 +1,60 @@
+# 35. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-21T17:37:00+01:00
+- Ende: 2019-03-21T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20318
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20318
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: TOP 0 Verpflichtung von Sachkundigen Einwohnern / Sachkundigen Bürgern
+- TOP -: TOP A: Drohende dramatische Arbeitsplatzverluste bei Ford in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Aktivitäten im Kontext des anstehenden Brexit (AN/0030/2019) - Kenntnis genommen
+- TOP 3.2: Sachstand Umsetzung der Mittelstandsinitiative (AN/1207/2018) - Kenntnis genommen
+- TOP 3.3: Sachstand zum elektronischen Gewerbemeldeverfahren - Kenntnis genommen
+- TOP 4: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 4.1: Einrichtung eines Kreativhauses, AN/1456/2018
+- TOP 4.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln, 3608/2017
+- TOP 4.3: Reformprojekt "Neugestaltung der Vergabeprozesse", 0005/2018
+- TOP 4.4: Gesamtübersicht der Planungen für die Universität zu Köln, 2421/2018
+- TOP 4.5: Weitere Perspektiven der Kölner Wochenmärkte - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 4.6: Aktuelle Situation bei Ford - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5.1: Auswirkungen des Zusammenschlusses Kaufhof/Karstadt für den Standort Köln - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.1.1: Schwerer Verlust für den Wirtschafts- und Handelsstandort Köln durch Verlagerung der Kaufhof-Zentrale nach Essen: Ist die Standortpolitik der Oberbürgermeisterin gescheitert? - Kenntnis genommen
+- TOP 5.2: Was tut der Stadtvorstand für sichere Arbeitsplätze und den sozialen Frieden am Flughafen Köln/Bonn? - Kenntnis genommen
+- TOP 5.2.1: Was tut der Stadtvorstand für sichere Arbeitsplätze und den sozialen Frieden am Flughafen Köln/Bonn? - Kenntnis genommen
+- TOP 5.3: Planungsrechtlicher Sachstand des Hafenausbaus Godorf - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.4: Verlagerung von Nutzern des Deutzer Hafens - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.5: Veranstaltung zur Stärkung von interdisziplinären Gründeraktivitäten - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 5.6: Planungsstand trimodales KV-Terminal Niederkassel-Lülsdorf - Kenntnis genommen
+- TOP 5.6.1: Planungsstand trimodales KV-Terminal Niederkassel-Lülsdorf - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 7: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7.1: 6. Satzung zur Änderung der Sondernutzungssatzung - endgültig zurückgezogen
+- TOP 7.2: Einzelhandels- und Zentrenkonzept (EHZK) - Fortschreibung - zurückgestellt
+- TOP 7.3: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ohne Votum in nachfolgende Gremien
+- TOP 8: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 9: Marktwesen
+- TOP 9.1: Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - zurückgestellt
+- TOP 10: "koeln.de"
+- TOP 11: Medien- und Internetwirtschaft in Köln
+- TOP 11.1: Jahresbericht 2018 der Stabsstelle Medien- und Internetwirtschaft inkl. Startup Unit Cologne - Kenntnis genommen
+- TOP 12: Wirtschafts- und Arbeitsmarktsituation
+- TOP 13: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13.1: Evaluationsbericht "Kölner Bildungsmodell" - Kenntnis genommen
+- TOP 14: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 15: Mitteilungen
+- TOP 15.1: Gewerbeflächenbereitstellungskonzept - Kenntnis genommen
+- TOP 15.2: KölnBusiness Wirtschaftsförderungs-GmbH - Kenntnis genommen
+- TOP 15.3: Förderung Lastenfahrrad - Kenntnis genommen
+- TOP 16: Allgemeine Beschlussvorlagen
+- TOP 17: Mündliche Anfragen
