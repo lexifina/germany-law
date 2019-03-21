@@ -1,0 +1,64 @@
+# 35. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-21T17:00:00+01:00
+- Ende: 2019-03-21T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20407
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20407
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709608.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709608.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709608.pdf
+
+## Tagesordnung
+
+- TOP -: Bericht aus dem Sozialraum Humboldt/Gremberg und Kalk durch die Sozialraumkoordinatoren
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Einwohnerfrage: Nachfrage zu offenen Punkten zum ersten Werkstattgespräch Hallen Kalk am 18.02.2019
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Taktverdichtung der Straßenbahnlinie 9 und der Buslinie 152 (Az.: 02-1600-93/18) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Gehweg und Überquerung Ostheimer Straße (Az.: 02-1600-175/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: KVB-Buslinie 179: Entlastung nicht nur morgens! - endgültig abgelehnt
+- TOP -: KVB-Buslinie 179: Entlastung nicht nur morgens! - Kenntnis genommen
+- TOP 7.2: Die Sicherheit muss besser organisiert sein als das Verbrechen - ungeändert beschlossen
+- TOP 7.3: Verbesserung der Beleuchtung auf dem Heinrich-Schäfer-Weg in Köln-Merheim - ungeändert beschlossen
+- TOP 7.4: Reinigung an der KVB Haltestelle Brück-Mauspfad in Köln-Brück - ungeändert beschlossen
+- TOP 7.5: Sanierung des Geländers am Sandfang des Flehbachs in Köln-Brück - ungeändert beschlossen
+- TOP 7.6: Standort-Moratorium für die Freiwillige Feuerwehr Löschgruppe Kalk - geändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe der bezirksorientierten Mittel für das Jahr 2019 (Neufassung) - ungeändert beschlossen
+- TOP 8.1.2: Verwendung der Kulturmittel 2019 für den Stadtbezirk Kalk (Neufassung) - ungeändert beschlossen
+- TOP 8.1.3: Zuwendungen aus dem städtischen Aktivierungsfonds für ein Projekt im Sozialraum „Hum-boldt/Gremberg und Kalk“ im Rahmen des Leitkonzeptes „Starke Veedel - Starkes Köln“ - ungeändert beschlossen
+- TOP 8.1.4: Zuwendungen aus dem städtischen Aktivierungsfonds für drei Projekte im Sozialraum „Ostheim und Neubrück“ im Rahmen des Leitkonzeptes „Starke Veedel - Starkes Köln“ - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Sportentwicklungsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 8.2.2: Planungsaufnahme zum Abriss und Ersatzbau des OGS-Hauses der Kath. Grundschule Forststr. 20, 51107 Köln (Rath-Heumar) - ungeändert beschlossen
+- TOP 8.2.3: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 8.2.4: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert beschlossen
+- TOP 8.2.5: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Zustand der Haltestelle Fuldaer Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Grünfläche Olpener Straße an der Einmündung Hohensyburgstraße in Köln-Merheim - Kenntnis genommen
+- TOP 9.2.2: Instandsetzung der Abfahrten von der Fußgängerbrücke Schwelmer Weg/Merheimer Heide in Köln-Höhenberg/Merheim - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Empfehlungen des Begleitgremiums aus der Sitzung vom 12.02.2019 zum Werkstattverfahren Hallen Kalk am 18.02.2019 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 10.2.2: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.3: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 10.2.4: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
+- TOP 10.2.5: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
