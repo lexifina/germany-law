@@ -1,0 +1,3 @@
+# § 12a Wahrnehmung amtsanwaltlicher Aufgaben
+(1) Beamten, welche die Ausbildung für den Amtsanwaltsdienst ableisten oder die Amtsanwaltsprüfung bestanden haben, kann die Wahrnehmung von Aufgaben eines Amtsanwalts übertragen werden.
+(2) Beamte, welche die Prüfung bestanden haben, sind möglichst im Amtsanwaltsdienst zu verwenden. Sie führen während der Zeit, in der sie als Amtsanwalt tätig, aber noch nicht zum Amtsanwalt ernannt worden sind, neben ihren bisherigen Amtsbezeichnungen die Bezeichnung „beauftragter Amtsanwalt“. Die Ernennung zum Amtsanwalt soll regelmäßig erst erfolgen, wenn der Beamte nach der Prüfung mindestens ein Jahr als beauftragter Amtsanwalt selbständig tätig gewesen ist.
