@@ -1,0 +1,6 @@
+# TOP 8: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Rechnungsprüfungsausschusses (2019-03-21)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: nein
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2019-RPA-33%7Czt_2%7C2
