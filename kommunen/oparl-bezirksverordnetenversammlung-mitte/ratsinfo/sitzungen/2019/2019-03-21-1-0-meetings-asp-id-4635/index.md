@@ -1,0 +1,127 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVE-STREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-03-21T17:30:00+01:00
+- Ende: 2019-03-21T22:30:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4635
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4635
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=433552
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - (offen)
+- TOP 2.1: Kriterien und Auswahlverfahren für Namensgeber im Afrikanischen Viertel - beantwortet
+- TOP 2.2: Widerspruchsbearbeitung für Anträge Afrikanisches Viertel - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - erledigt
+- TOP 6: Thematische Stunde - beantwortet
+- TOP 6.1: Theater im Monbijoupark (DS: 1776/V, 1787/V) - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Wohnungslos trotz Arbeit - beantwortet
+- TOP 7.2: Kann das Vorkaufsrecht auch im Brunnenviertel ausgeübt werden? - beantwortet
+- TOP 7.3: Musikschullehrer*innen an der Musikschule Fanny Hensel - beantwortet
+- TOP 7.4: Kurfürstenkiez – „Konkrete Veränderungen“ jetzt! - beantwortet
+- TOP 7.5: Katastrophenschutz für Berlin Mitte - beantwortet
+- TOP 7.6: Serviceamt Standesamt - schriftlich beantwortet
+- TOP 7.7: Weiter weiterhin unbekannter Platz am Maxim-Gorki Theater - schriftlich beantwortet
+- TOP 7.8: Perspektiven für himmelbeet - schriftlich beantwortet
+- TOP 7.9: Sportstättensanierungsprogramm Bericht 2018 - schriftlich beantwortet
+- TOP 7.10: Digitalpakt-Mittel auch für Mittes Schulen sichern - schriftlich beantwortet
+- TOP 7.11: Wie geht es weiter mit dem Freibad Plötzensee? - schriftlich beantwortet
+- TOP 7.12: „Erhalt der Parkplätze in der Parkraumbewirtschaftungszone in der Holzmarktstraße“? - schriftlich beantwortet
+- TOP 7.13: Warum dauert der Umbau der Turmstraße 75 so lange II? - schriftlich beantwortet
+- TOP 7.14: Veranstaltungen auf dem Alexanderplatz - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Schmidstraße 6 für soziale Infrastruktur - beantwortet
+- TOP 9.2: Keine Bestrafung sozialer Projekte in Mitte – Sicherheit für Träger nicht nur in der Tieckstraße - beantwortet
+- TOP 9.3: Tariferhöhung an freie Träger weitergeben! - beantwortet
+- TOP 9.4: Theater im Monbijoupark – aktueller Status und wie weiter? - beantwortet
+- TOP 9.5: Entgeltfrei oder unter Wert überlassene Grundstücke – Und Sie haben (k)eine Systematik? - beantwortet
+- TOP 9.6: Lichtkonzept für das Hansaviertel - schriftlich beantwortet
+- TOP 9.7: Molkenmarkt 1-2: Welchen Anteil hat der Bezirk an der Neukonzeption der Alten Münze? - schriftlich beantwortet
+- TOP 9.8: Kinder- und Jugendgesundheit in Mitte verbessern! - schriftlich beantwortet
+- TOP 9.9: Stadtentwicklungsplan Wohnen 2030 – Soll in Mitte gebaut werden? - schriftlich beantwortet
+- TOP 9.10: Stadtentwicklungsplan - schriftlich beantwortet
+- TOP 9.11: Wann können Menschen mit Mobilitätseinschränkungen Kammermusiksaal / Philharmonie endlich wieder (leichter) erreichen? - schriftlich beantwortet
+- TOP 9.12: „Immer Ärger mit der IT - Computer bremsen Service aus?“ - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Wahl von Mitgliedern im ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Keine Obdachlosencamps in der Stadt und dem Bezirk - vertagt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Stärkere Ausrichtung der bezirklichen Angebote der Wohnungslosenhilfe auf die Bedürfnisse von Obdachlosen - überwiesen
+- TOP 14.2: Zweckentfremdung wirkungsvoll bekämpfen - Gesetz auf Wirkungen überprüfen - überwiesen
+- TOP 14.3: Chancengeber Bezirksamt: Mitte als Modellbezirk für eine gelungene Integration und eine zukunftsfähige Verwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Theater im Monbijoupark auf neue Füße stellen - unterbrechungsfreien Kulturbetrieb auch im Sommer 2019 sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Erweiterung der Anzeigepflicht bei Rattenbefall - in der BVV abgelehnt
+- TOP 14.6: Mitte liest - Dank der BücherboXX auch in Mitte und Tiergarten - überwiesen
+- TOP 14.7: Baumscheiben - Wie gehts richtig - überwiesen
+- TOP 14.8: Beteiligungsbeirat für die Leitlinien der Bürgerbeteiligung in Mitte - überwiesen
+- TOP 14.9: Tarifabschluss vollständig an Beschäftigte bei freien Trägern weitergeben! - überwiesen
+- TOP 14.10: Konzept zur Bekämpfung der Amerikanischen Faulbrut (Bienenpest) - überwiesen
+- TOP 14.11: Optimierung der digitalen Kommunikation mit den Mitte-Bürger*innen - überwiesen
+- TOP 14.12: Grillen mit Grillmeister – Schillerpark als Grill-Oase 2019 - überwiesen
+- TOP 14.13: Kein Ausspielen der Krankenheilwohnung für Obdachlose gegen Räume für das Gesundheitsamt durch die BIM! - überwiesen
+- TOP 14.14: Kommunikation verbessern – Beteiligung und Transparenz sichern II - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Bürgerämter auch für Bürger mit Seheinschränkungen nutzerfreundlich gestalten - überwiesen
+- TOP 14.16: Wartezeiten digitalisieren - überwiesen
+- TOP 14.17: Zufahrtsbeschränkung am Alexanderplatz durchsetzen - überwiesen
+- TOP 14.18: Anti-Mobbing-Team für Mitte - Mobbing wirksam bekämpfen! - überwiesen
+- TOP 14.19: Bäume vor Trockenheit schützen – Sommerdienst einführen - überwiesen
+- TOP 14.20: Straße oder Platz für Ronald Reagan in Mitte - in der BVV abgelehnt
+- TOP 14.21: Planungssicherheit für Veranstaltungen auf dem Gendarmenmarkt - überwiesen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 15.1: Bürgerschaftliches Engagement bei der Wahl zur Stadtteilvertretung Turmstraße würdigen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: Engagement im und für den Bezirk muss unterstützt und geschützt werden! - ohne Änderungen in der BVV beschlossen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.3: 1000 Straßenbäume mehr in Mitte! - mit Änderungen in der BVV beschlossen
+- TOP 17.4: Gemeinsam Handeln - für einen menschenwürdigen Umgang mit obdachlosen Menschen - mit Änderungen in der BVV beschlossen
+- TOP 17.5: Proaktiv handeln – Wenn der Senat nicht handelt, muss das Bezirksamt Verantwortung übernehmen! - in der BVV abgelehnt
+- TOP 17.6: Dezentrale Standorte für das Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 17.7: Mieter*innen bei An- und Ummeldung im Bezirk über Mietpreisbremse informieren - ohne Änderungen in der BVV beschlossen
+- TOP 17.8: Mitte braucht eine/n Klimaschutzbeauftragte/n! - mit Änderungen in der BVV beschlossen
+- TOP 17.9: Schließzeiten im Jugendamt Mitte verkürzen, kundenorientiert handeln - in der BVV abgelehnt
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Information und Veröffentlichung von Gutachten (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.2: Messeauftritt des Bezirksamtes Mitte beim Tag des Dualen Studiums an der HWR ab 2017 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Alkoholverbot am Leopoldplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Kein Alkohol ist auch keine Lösung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Ein Leopoldplatz für alle – Umgestaltung des U-Bahnausgangs am Leopold Center - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Alternativen zum eigenen PKW fördern – Parkplätze für Carsharing-Fahrzeuge auszuweisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: Ein lebenswerter Leopoldplatz für alle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Personalentwicklung ernst beziehungsweise wahrnehmen - steigendem Krankenstand entgegenwirken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Gender Budgeting im Rahmen der Aufstellung des Haushaltsplans 2018/2019 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Jetzt aber: „Spielplatz-Paten“ starten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Zentrales Forderungsmanagement im Bezirk einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Stellenausschreibungen konkretisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Mieterberatung für Bewohner*innen von verkauften Häusern in den Milieuschutzgebieten in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.14: Tierschutz über Bezirksgrenzen hinaus (immer noch) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Chancen für den Sport in der Jugendarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Seniorinnen und Senioren in Mitte stärken - Entwicklungsplan für Senior*innenarbeit auflegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.17: Unterstützung für Senior*innenarbeit in Tiergarten Süd ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.18: Werkstatt-Verfahren „Neue Pavillons für die Karl-Marx-Allee“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.19: Dem Afrikanischen Viertel ein Licht aufgehen lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.20: Potentiale für Soziales Infrastrukturkonzept erweitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.21: Sozialleistungen sind zur Existenzsicherung da! Keine Pfändung zur Schuldentilgung zulassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: Transparenz für alle Gremien sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.23: Präventionsbeauftragter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.24: Beschluss über die Aufstellung des vorhabenbezogenen Bebauungsplans II-83-1VE „Schill-/Kurfürstenstraße“ und die Durchführung der frühzeitigen Öffentlich-keits- und Behördenbeteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.25: Verwendung des Bonus für die erfolgreiche Transfersteuerung aus der „Zielvereinba- rung über Transfersteuerung, Qualitätsmanagement und Fach- und Finanzmonitoring im Bereich der Eingliederungshilfe für Menschen mit Behinderung und der ambulanten Hilfe zur Pflege“ im Jahr 2017 in Höhe von 100.000 € zur bedarfsgerechten Finanzierung von Personal im Jahr 2019 für die 5 durch Träger geführten Seniorenbegegnungsstätten im Fachvermögen des Bezirksamtes Mitte. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.26: Rahmenvertrag mit der HOWOGE Wohnungsbaugesellschaft mbH über deren Ein-bindung in die Berliner Schulbauoffensive - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.27: Bezirksregionenprofile Teil 2 / konzeptioneller Teil für die zehn Bezirksregionen des Bezirks - mit Abschlussbericht zur Kenntnis genommen
