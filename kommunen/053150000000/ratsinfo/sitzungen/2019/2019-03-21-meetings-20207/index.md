@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-21T16:00:00+01:00
+- Ende: 2019-03-21T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20207
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20207
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00710859.pdf
+- Ergebnisprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00710859.pdf
+- Wortprotokoll: Tagesordnung, Sitzungsexemplar https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00710859.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Präsentation - Kenntnis genommen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Nachhaltigkeit bei Veranstaltungen der Stadt Köln - zurückgestellt
+- TOP 1.2: Vermeidung von Dieselfahrverboten - Sache ist erledigt
+- TOP 1.2.1: Vermeidung von Dieselfahrverboten (1818/2018) - Kenntnis genommen
+- TOP 1.3: Kommunale Maßnahmen zur Luftreinhaltung (AN/0523/2018) Nachfragen zur Beantwortung der Anfrage (VN 2592/2018) - zurückgestellt
+- TOP 1.4: Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - zurückgestellt
+- TOP 1.5: Welche Möglichkeiten gibt es bereits heute, auf Kohle als Brennstoff im Kraftwerk Merkenich zu verzichten? - Sache ist erledigt
+- TOP 1.5.1: Ist Braunkohleverbrennung in Köln verzichtbar? - Kenntnis genommen
+- TOP 1.6: Köln Touristik Altpapierentsorgung - zurückgestellt
+- TOP 1.7: Baumfällungen in Köln - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientiert; Nahrung und Erfahrugnsraum für unsere Stadt - zurückgestellt
+- TOP 2.2: Kampagne gegen weggeworfene Zigarettenstummel - zurückgestellt
+- TOP 2.3: „Fridays For Future“ – Solidarität mit den Kölner Schüler*innen - Sache ist erledigt
+- TOP 2.3.1: „Fridays For Future“ - Solidarität mit den Kölner Schüler*innen - endgültig abgelehnt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Vertikale KlimaKlärAnlage (VertiKKA) - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Sportentwicklungsplanung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 4.1.2: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 4.1.3: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 4.1.4: Beschaffung von 11 Kolonnenfahrzeugen für den Bereich Stadtgrün - ungeändert empfohlen
+- TOP 4.1.5: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - ohne Votum in nachfolgende Gremien
+- TOP 4.1.6: Neuwahl eines ordentlichen Mitgliedes für den Beirat der Unteren Landschaftsbehörde - ungeändert empfohlen
+- TOP 4.1.7: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ohne Votum in nachfolgende Gremien
+- TOP 4.1.8: Förderprogramm "SmartCity Cologne GO" - ungeändert empfohlen
+- TOP 4.1.9: Planungsbeschluss für die Sanierung der Medienleitungen im Betriebshof im Botanischen Garten, Amsterdamer Straße 34, 50735 Köln - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Zuschuss an "Bündnis für kommunale Nachhaltigkeit" - ungeändert beschlossen
+- TOP 4.2.2: Öffentlichkeitsbeteiligung für das Konzept "Kulturraum Kölner Friedhöfe 2025" - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Planfeststellungsverfahren gemäß § 68 des Gesetzes zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz – WHG) für Hochwasserschutzmaßnahmen am Rhein auf dem Gebiet der Stadt Köln (Sanierung der Lindemauer in Köln-Sürth) - Kenntnis genommen
+- TOP 7.2: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 7.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 7.4: Innerer Grüngürtel in Köln-Nippes - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Neue Kölner Statistik 2/2018 - Kraftfahrzeuge 1038/2018 - Kenntnis genommen
+- TOP 8.2: Beantwortung der Frage aus der Sitzung des Ausschusses für Umwelt und Grün vom 31.01.2019 betr. KölnKlimaAktiv - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
