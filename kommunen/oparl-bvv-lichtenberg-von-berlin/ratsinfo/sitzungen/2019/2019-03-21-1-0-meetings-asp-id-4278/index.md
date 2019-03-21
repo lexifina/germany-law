@@ -1,0 +1,130 @@
+# 29. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2019-03-21T17:00:00+01:00
+- Ende: 2019-03-21T22:10:00+01:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4278
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4278
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=261835
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - im Ausschuss abgelehnt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Gegen das Insektensterben im Frühjahr - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Kinderarmut in Lichtenberg - vertagt
+- TOP 5.2: Fahrradstraße für die Rummelsburger Bucht - vertagt
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Tagestreff in der Weitlingstraße - beantwortet
+- TOP 8.2: Stellungnahme zum Entwurf des Berliner Nahverkehrsplans 2019 - 2023 durch das Bezirksamt Lichtenberg - beantwortet
+- TOP 8.3: Ehemaliges Freizeitschiff "Freibeuter" - beantwortet
+- TOP 8.4: Kita-Plätze an der Rummelsburger Bucht - beantwortet
+- TOP 8.5: Wasserplansche Neubrandenburger Straße - beantwortet
+- TOP 8.6: Sprinterprämien - beantwortet
+- TOP 8.7: Nachbesetzung Leitung Gartenarbeitsschule - schriftlich beantwortet
+- TOP 8.8: Vorgehen gegen Fakenews - schriftlich beantwortet
+- TOP 8.9: Statistische Entwicklung meldepflichtiger Infektionskrankheiten - schriftlich beantwortet
+- TOP 8.10: Kommunales Notfallkonzept bei Stromausfall über die Dauer eines Tages hinaus - schriftlich beantwortet
+- TOP 8.11: Anmeldezahlen an weiterführenden Schulen in Lichtenberg zum Schuljahr 2019/20 - schriftlich beantwortet
+- TOP 8.12: Verbesserung des ÖPNV-Angebotes in Lichtenberg - schriftlich beantwortet
+- TOP 8.13: Protected Bike Lane in der Siegfriedstraße - schriftlich beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.1: Wahlvorschlag zur Berufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wahlvorschlag zur Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: BVV-Sondermittel für den Förderverein der Gutenberg-Schule e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: BVV-Sondermittel für Lagerarbeitsgemeinschaft Buchenwald-Dora e. V. (LAG) - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: BVV-Sondermittel für Erhalt des Nicaragua-Giebelwandgemäldes beim Kulturring in Berlin e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Antrag auf Sondermittel zur Förderung des Projekts Stadtlichter (x) change - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: BVV-Sondermittel für den Förderverein der Max-Taut-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: BVV-Sondermittel für den Freundeskreis Tastonettis e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: BVV-Sondermittel für Christiane Wiegand/K.I.Z. ToGo - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: BVV-Sondermittel für pad GmbH - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: BVV- Sondermittel für den Kleingartenverein "Falkenhöhe-Nord" e. V. / Hohenschönhausener Gartenlauf - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: BVV-Sondermittel für den Förderverein des SLZB zur Teilnahme am internationalen Volleyballturnier Orlando/Florida - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Möglichst barrierearmer Ausbau der Bushaltestellen in Lichtenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Mehr planerischen Freiraum durch Aufgabe der TVN-Trasse am Regional- und S-Bahnhof Hohenschönhausen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.15: Entwicklung des Vorplatzes am S-Bahnhof Wartenberg - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Verkehrsberuhigung in Alt-Hohenschönhausen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.17: Öffentliche Toilette auf Spielplatz am Obersee - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Keine Reduzierung des öffentlichen Grüns an der Franz-Jacob-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Entscheidung über Bebauungsplan Rienzistraße herbeiführen - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Rechtsklarheit zur Hohenschönhausener Mitte (Bezug zu Bebauungsplan 11-73 VE) - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Erhalt der Biotope auf den Grundstücken Waldowallee 115/117 und Köpenicker Allee 108-118 - überwiesen
+- TOP 9.22: Kinder-Kiez-Karten weiter finanzieren! - überwiesen
+- TOP 9.23: Sicher abbiegen in die Nebenfahrbahn der Skandinavischen Straße und sicher weiterfahren Richtung Rosenfelder Ring - überwiesen
+- TOP 9.24: Querungshilfe Zingster Straße - überwiesen
+- TOP 9.25: Mittel für Familienerholungsmaßnahmen erhöhen - überwiesen
+- TOP 9.26: Mindestfinanzierung von Jugendfreizeiteinrichtungen erhöhen - überwiesen
+- TOP 9.27: Bordsteinabsenkungen vor Neubau von sozialen Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.28: Ausreichend Platz für die Essensversorgung schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 9.29: Mehr Kreativität für Erholungsflächen bei Neubauvorhaben einfordern - überwiesen
+- TOP 9.30: Schulhöfe öffnen - überwiesen
+- TOP 9.31: Informationen zum Verfahren über die Entwicklung in Karlshorst Ost - ohne Änderungen in der BVV beschlossen
+- TOP 9.32: Zielvorstellung für die Bebauung in Karlshorst Ost beschreiben und veröffentlichen - überwiesen
+- TOP 9.33: Wasserrettungsstation Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 9.34: Eigene Verträge mit der Wall AG zu Hundetoilettensäulen abschließen - überwiesen
+- TOP 9.35: Musikschulstandort in Hohenschönhausen sichtbarer ausschildern - ohne Änderungen in der BVV beschlossen
+- TOP 9.36: Eingangssituation am Musikschulstandort in Hohenschönhausen attraktiver gestalten - überwiesen
+- TOP 9.37: Bebauungsplan-Entwurf XVII-4 - Ergebnis der erneuten Rechtsprüfung; Arbeitstitel: "Ostkreuz" - überwiesen
+- TOP 9.38: Digitalisierung der Verwaltung bürgernah gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.39: Elektrofahrzeuge für den Fuhrpark des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Deutsch-Russisches Museum in Karlshorst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.41: Wohnraumbedarfe von Großfamilien decken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.42: BVV-Sondermittel für die Kleingartenanlage Biesenhorst II e. V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.43: Historische Orte sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.44: Kein Zögern bei der TVO mehr! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.45: Nationalfeiertag würdigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.46: Jährliche Übersicht über den Wohnungsbau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.47: Bauherrenpreis 2018 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.48: Familienhebamme für starke Eltern und starke Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.49: BVV-Sondermittel für den Förderverein der Freiwilligen Feuerwehr Berlin-Karlshorst e.V. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.50: Ansiedlungs- und Personalgewinnungskonzept für Erzieherinnen und Erzieher – Lichtenberger Fachkräftesteigerung im Kitabereich (LiFaKi) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.51: Kita Helfer*innen an Kitas - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.52: Zentrale Kitaliste als transparente Datenbank für freie Plätze qualifizieren und Tauschbörse als Dienstleistung anbieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.53: BVV-Sondermittel für einen Weihnachtsmarkt in Neu-Hohenschönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.54: Antrag auf Sondermittel zur Pflanzung von Obstbäumen durch den Verein Naturschutz Berlin-Malchow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.55: BVV-Sondermittel für die Kita Hedwig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.56: Sachstandsinformation zum Bearbeitungsstand von Bebauungsplänen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.57: BVV-Sondermittel für den Förderverein Schloß Hohenschönhausen e. V. für den Druck einer Broschüre "20 Jahre Förderverein Schloß Hohenschönhausen e. V." - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.58: Planungssicherheit für das Gewerbegebiet Herzbergstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.59: Schwimmen lernen in Lichtenberger Kitas - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.60: Erhaltungsverordnung für die Dörfer Malchow, Wartenberg und Falkenberg - Änderung der Leitlinien zur Anwendung der Verordnung - überwiesen
+- TOP 9.61: Bebauungsplan 11-113 - Einstellung; Arbeitstitel: Wartenberger Straße 51 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.62: Leitziele für kiezorientierte Prävention in Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.63: Vorhabenbezogener Bebauungsplan 11-161-VE - Antrag auf Einleitung; Arbeitstitel: "Tannhäuser / Rienzistraße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.64: Wirtschaftsbericht 2018; Bezug: DS/0346/IV - überwiesen
+- TOP 10: Einwohnerfragestunde - beantwortet
+- TOP 11: Wahlen - erledigt
+- TOP 12: Prioritäten der Fraktionen - (offen)
+- TOP 12.1: BVV-Resolution zum Internationalen Tag gegen Rassismus (21. März) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Aktion Noteingang - erneut starten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Wirtschaftsentwicklung regelmäßig darstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Einwohnerfragestunde bürgernah - Geschäftsordnungsänderung - überwiesen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Gründung eines Expert*innenbeirats zur Verbesserung der städtebaulichen Qualität von Bauvorhaben - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Rahmenplanungen für alle Lichtenberger Stadtteile erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge zur Beschlussfassung - (offen)
+- TOP 14.1: Lotse für Arztansiedlungen - überwiesen
+- TOP 14.2: Bauliche Voraussetzung für die Ansiedlungen von neuen Ärzt*innen in Lichtenberg schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Weg zur besseren Ärzteversorgung: Letter of Intent - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Mit dem Fahrradbügel-Programm der Senatsverwaltung für Umwelt, Verkehr und Klimaschutz den Radverkehr an öffentlichen Schulen stärken - überwiesen
+- TOP 14.5: Mehr Sicherheit für Fußgehende im Zentrum Neu-Hohenschönhausens - überwiesen
+- TOP 14.6: Rahmenbedingungen für den gebundenen Ganztag an der Robinson-Schule erhalten - mit Änderungen in der BVV beschlossen
+- TOP 14.7: Korruptionsprävention für die BVV Lichtenberg - Ehrenordnung - überwiesen
+- TOP 14.8: Queer-Beauftragte für Lichtenberg - überwiesen
+- TOP 14.9: Calisthenics Parks in Lichtenberg errichten - überwiesen
+- TOP 15: Vorlagen zur Beschlussfassung - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Beschluss über das Soziale Infrastrukturkonzept 2016 (SIKo) des Bezirks Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.2: Kooperationsvertrag Deutsche Wohnen - überwiesen
+- TOP 16.3: Bebauungsplan 11-14a-1 - Abwägung der eingeschränkten erneuten Beteiligung; Arbeitstitel: "Am Carlsgarten" - vertagt
+- TOP 17: Schließung der Sitzung - erledigt
