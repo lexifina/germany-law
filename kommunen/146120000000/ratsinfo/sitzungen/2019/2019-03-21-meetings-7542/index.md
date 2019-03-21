@@ -1,0 +1,63 @@
+# 62. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-03-21T16:00:00+01:00
+- Ende: 2019-03-21T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7542
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7542
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00397653.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 2: Aktuelle Stunde zum Thema "Realität im Dresdner Straßenverkehr - 4 Jahre verfehlte Verkehrspolitik" - erledigt
+- TOP 3: "Mitsprache ist ein Bürgerrecht!" - Aktuelle Stunde zum Thema Bürgerbeteiligungssatzung der Landeshauptstadt Dresden - erledigt
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Anträge - Liquiditätsreserve
+- TOP 5.1: Breitensport fördern! – Maßnahmepaket zur Unterstützung und Förderung des Vereins- und Breitensports in der Landeshauptstadt Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.2: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung durch Einreicher
+- TOP 5.3: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung durch Einreicher
+- TOP 5.4: Sicherstellung einer artgerechten Tierhaltung im Dresdner Zoo – Neubau des Orang-Utan-Hauses - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.5: Nachhaltigkeit und Klimaschutz in der Landeshauptstadt stärken - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.6: Bildung und Kultur in der Landeshauptstadt stärken - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.7: Straßenverkehr für alle Verkehrsteilnehmer/innen in der Landeshauptstadt stärken - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.8: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.9: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung auf Geschäftsordnungsantrag
+- TOP 5.10: Pilotprojekt Elektrifizierung von Gaskandelabern mit LED-Technik in Striesen - Vertagung durch Einreicher
+- TOP 6: Verweisungen der Stadtratssitzung vom 24. Januar 2019
+- TOP 6.1: Berufsschulzentrum für Gastgewerbe "Ernst Lößnitzer", Ehrlichstraße 1 in 01067 Dresden - Neubau Schulsporthalle - Zustimmung mit Ergänzung
+- TOP 7: Verweisungen der Stadtratssitzung vom 14./15. Februar 2019
+- TOP 7.1: Straßenbahn und Bus in Dresden ausbauen - Anteil des ÖPNV deutlich erhöhen! - Zustimmung mit Ergänzung
+- TOP 8: Vertagungen der letzten Stadtratssitzung vom 14./15. Februar 2019
+- TOP 8.1: Instandsetzung der unterstromseitigen Gehbahn am Blauen Wunder - Zustimmung mit Ergänzung
+- TOP 8.2: Schwerpunktsportarten - Breitensport - Ablehnung
+- TOP 8.3: Kommunaler Tierschutzbericht - Ablehnung
+- TOP 8.4: Bürgerbeteiligungssatzung - Ersetzung
+- TOP 8.5: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung durch Einreicher
+- TOP 8.6: Kultur- und Nachbarschaftszentren vor Ort - Vertagung nach 22 Uhr
+- TOP 8.7: Masterplan Fairtrade - Vertagung nach 22 Uhr
+- TOP 8.8: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung nach 22 Uhr
+- TOP 8.9: Belange älterer Menschen ernst nehmen! Ein Seniorenbeauftragter für Dresden. - Zustimmung mit Änderung
+- TOP 8.10: Ortsamt Loschwitz als Standort erhalten - Vertagung nach 22 Uhr
+- TOP 8.11: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung durch Einreicher
+- TOP 8.12: Klinikum Dresden – wirtschaftliche Lage - Vertagung nach 22 Uhr
+- TOP 8.13: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung nach 22 Uhr
+- TOP 9: Aufhebung der Außenstelle des Förderzentrums "A. S. Makarenko" Dresden mit dem Förderschwerpunkt Lernen, Konkordienstraße 12 a, 01127 Dresden - Zustimmung
+- TOP 10: Förderung von Angeboten nach Fachförderrichtlinie Sozialamt vom 19. Oktober 2009 in den Haushaltsjahren 2019 und 2020 - punktweise Abstimmung mit Änderung
+- TOP 11: Unterstützung der durch den Förderverein "Weltkulturerbe Hellerau e. V." getragenen Bewerbung um den UNESCO-Welterbestatus Helleraus - Vertagung nach 22 Uhr
+- TOP 12: Ausübung des Optionsrechts zur Mietvertragsverlängerung um weitere 5 Jahre bis 30. September 2026 im World Trade Center Dresden - Zustimmung
+- TOP 13: Umgang mit Kleingärten im Abflussbereich der Elbe - Fortschreibung des Förderprogramms einschließlich Aktualisierung der Zielstellungen - Vertagung nach 22 Uhr
+- TOP 14: Grundsätze für die Stadtgestaltung - Vertagung nach 22 Uhr
+- TOP 15: Wildwuchs von Hochhäusern im Stadtbild verhindern - Leitbild Hochhausentwicklung für Dresden entwickeln - Vertagung nach 22 Uhr
+- TOP 16: Blaues Wunder: Verkehrsentlastung schaffen - punktweise Abstimmung
+- TOP 17: Wachstumsregion Dresden: Verkehrliche Rolle der Stadt Dresden untersuchen - Mobilitätsanforderungen von Berufspendlern und deren Auswirkungen auf die Verkehrsbelegungszahlen ermitteln - Vertagung nach 22 Uhr
+- TOP 18: Sanierung und Weiterentwicklung des Standortes Altroßthal des Beruflichen Schulzentrums für Agrarwirtschaft und Ernährung Dresden - Vertagung nach 22 Uhr
+- TOP 19: Gute Arbeit in und bei der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 20: Stadtteilverträglicher ÖPNV in Striesen, Gruna und Blasewitz - Vertagung durch Einreicher
+- TOP 23: Informationsvorlage
+- TOP 23.1: Prüfungsbericht des Sächsischen Rechnungshofes zur "Querschnittsprüfung SGB VIII - Inobhutnahme unbegleiteter minderjähriger Ausländer (umA)" - zur Kenntnis genommen
+- TOP 23.2: Information über die eingegangenen Spenden, Schenkungen und Zuwendungen für die Organisationseinheiten in der Landeshauptstadt Dresden im Jahr 2018 - zur Kenntnis genommen
