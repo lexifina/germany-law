@@ -46,7 +46,7 @@ Teil 5 Freizeit, Sport
 § 38 Freizeit
 § 39 Sport
 § 40 Zeitungen und Zeitschriften
-§ 41 Rundfunk
+§ 41 Rundfunk, Informations- und Unterhaltungselektronik
 § 42 Besitz von Gegenständen für die Freizeitbeschäftigung
 Teil 6 Religionsausübung
 § 43 Seelsorge
@@ -90,6 +90,7 @@ Teil 9 Sicherheit und Ordnung
 § 72 (aufgehoben)
 § 73 (aufgehoben)
 § 74 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
+§ 74a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 75 Ärztliche Überwachung
 § 76 (aufgehoben)
 Teil 10 Unmittelbarer Zwang
