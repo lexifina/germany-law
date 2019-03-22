@@ -1,5 +1,6 @@
 # Gesetz über den Vollzug der Unterbringung in der Sicherungsverwahrung im Freistaat Sachsen (Sächsisches Sicherungsverwahrungsvollzugsgesetz – SächsSVVollzG)
 Vom 16. Mai 2013
+Rechtsbereinigt mit Stand vom 22. März 2019
 Der Sächsische Landtag hat am 16. Mai 2013 das folgende Gesetz beschlossen:
 Inhaltsübersicht
 Teil 1 Allgemeine Bestimmungen
@@ -104,6 +105,7 @@ Teil 13 Sicherheit und Ordnung
 § 87 Festnahmerecht
 § 88 Besondere Sicherungsmaßnahmen
 § 89 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
+§ 89a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 90 Ärztliche Überwachung
 Teil 14 Unmittelbarer Zwang
 § 91 Begriffsbestimmungen
