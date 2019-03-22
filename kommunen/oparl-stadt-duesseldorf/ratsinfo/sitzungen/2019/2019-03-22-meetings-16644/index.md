@@ -1,0 +1,52 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-22T14:00:00+01:00
+- Ende: 2019-03-22T18:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16644
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16644
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00338423.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00338423.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00338423.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - vertagt
+- TOP 3: Genehmigung Niederschrift Sondersitzung - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 5: Verwaltungsvorlagen und mündliche Berichte
+- TOP 5.1: Lagedarstellung der Polizeiinspektion Nord -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 5.2: Lagedarstellung der Polizeiinspektion Mitte -mündlicher Bericht- - zur Kenntnis genommen
+- TOP 5.3: Platz an der Gneisenau-, Park- und Goebenstraße; Vorschlag für Sofortmaßnahmen - zur Kenntnis genommen
+- TOP 5.4: Bücherbummel auf der KÖ im Jahre 2019 - einstimmig beschlossen
+- TOP 5.5: Antikmarkt in den Schadow Arkaden am Sonntag, dem 25.08.2019 - einstimmig beschlossen
+- TOP 5.6: Jahrmärkte auf dem Frankenplatz im Jahre 2019 - einstimmig beschlossen
+- TOP 5.7: Veranstaltungen Burgplatz - Nachmeldung zum Jahresprogramm 2019 - mehrheitlich beschlossen
+- TOP 5.8: Tourismusmarkt in den Schadow Arkaden am Sonntag, dem 19.05.2019. - einstimmig beschlossen
+- TOP 5.9: Benennung des Kö-Bogen-Tunnel - einstimmig beschlossen
+- TOP 5.10: Benennung des Rheinufertunnel - einstimmig beschlossen
+- TOP 5.11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 5.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2019 - - einstimmig beschlossen
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 7: Anfragen
+- TOP 7.1: Schäden am Schalenbrunnen auf dem Corneliusplatz - zur Kenntnis genommen
+- TOP 7.2: Sachstandsbericht Grundstücke Mannesmannufer 3 und 2 (Behrensbau) - zur Kenntnis genommen
+- TOP 7.3: Rad- und Rollatorenweg am Burgplatz - zur Kenntnis genommen
+- TOP 7.4: Austausch des Sandes auf Spielplätzen - zur Kenntnis genommen
+- TOP 7.5: Barrierefreie Gestaltung von Spielplätzen im Stadtbezirk 1 - vertagt
+- TOP 8: Anträge
+- TOP 8.1: Straßenbahn Fußgängerquerung am „Jröne Jong“ direkt nach der - mehrheitlich beschlossen
+- TOP 8.2: Gehweg Römerstraße barrierefrei gestalten - einstimmig beschlossen
+- TOP 8.3: Auftragen von Tempo 30 Piktogrammen auf der Nordstraße - mehrheitlich beschlossen
+- TOP 8.4: Errichtung einer Gedenkstele/Informationspult auf der Königsallee zur Geschichte der Straße im Natio - einstimmig beschlossen
+- TOP 8.5: Aufstellen von Hinweis-Schildern „Hunde bitte anleinen“ und „Radfahren verboten“ auf dem - vertagt
+- TOP 9: Verschiedenes - zur Kenntnis genommen
