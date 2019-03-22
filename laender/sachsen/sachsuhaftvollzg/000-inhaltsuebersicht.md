@@ -59,6 +59,7 @@ Teil 7 Sicherheit und Ordnung
 § 50 (aufgehoben)
 § 51 (aufgehoben)
 § 52 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
+§ 52a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 53 Ärztliche Überwachung
 Teil 8 Unmittelbarer Zwang
 § 54 Begriffsbestimmungen
