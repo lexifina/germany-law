@@ -1,0 +1,93 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-25T17:00:00+01:00
+- Ende: 2019-03-25T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20499
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20499
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage: Erhaltungssatzung Stegerwaldsiedlung versus Projekt Grow Smarter
+- TOP 1.2: Einwohnerfrage: Stichstraße zwischen den Eisenbahngleisen am Bahnhof Mülheim
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Die Bürgereingabe zu TOP 2.1 wurde versehentlich in die BV-Sitzung am 25.03.2019 aufgenommen, die Beschlussvorlage ist jedoch veraltet. Daher wurde dieser TOP wieder gelöscht.
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Taktverdichtung der Straßenbahnlinie 9 und der Buslinie 152 (Az.: 02-1600-93/18) - geändert beschlossen
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Änderung der Verkehrsführung Clevischer Ring in Köln-Mülheim (Az.: 02-1600-181/17) - zurückgestellt
+- TOP 2.4: Bürgereingabe gem. § 24 GO, betr.: Rendsburger Platz (Az.: 02-1600-225/18) - ungeändert beschlossen
+- TOP 2.5: Bürgereingabe gem. § 24 GO, betr.: Tempo 30 Schnellweider Straße in Köln-Holweide (Az.: 02-1600-25/19) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die Kath. Grundschule Horststraße in Köln-Mülheim - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung für die Kath. Grundschule Diependahlstraße in Köln-Stammheim - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrs- und Parksituation Gemarkenstraße an der Einmündung Otto-Kayser-Straße in der Nähe der Schrankenanlage der KVB - Kenntnis genommen
+- TOP 7.1.2: Verkehrs- und Parksituation im Neubaugebiet Klein Herl in Köln-Buchheim - Kenntnis genommen
+- TOP 7.1.3: Anfrage AN/1719/2018 der Fraktionen "Bündnis90/Die Grünen und Sozialdemokratische Partei Deutschlands" zur Sitzng der Bezirksvertretung Köln-Mülheim vom 10.12.2018 - Kenntnis genommen
+- TOP 7.1.4: Maßnahmen zur Einhaltung des Parkverbots auf dem beidseitigen Fuß- und Radweg entlang des Auenweges in Mülheim - Kenntnis genommen
+- TOP 7.1.5: Umsetzung des BV-Beschlusses "Schutz der Anwohner*innen am Clevischen Ring" - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Anfrage der Fraktion Bündnis 90/Die Grünen: Ladezone Dellbrücker Hauptstraße - Kenntnis genommen
+- TOP 7.2.2: FC Germania in Köln Buchheim - Umrüstung des Ascheplatzes in einen Kunstrasenplatz - Kenntnis genommen
+- TOP 7.2.3: Nachfrage zum Sachstand des Antrages "Mehr Sicherheit vor der Jugendeinrichtung Treffer in Köln Buchheim /Parkregelung in der Guilleumestr. in Buchheim" vom 11.09.2017 - Kenntnis genommen
+- TOP 7.2.4: Anfrage des EMT Nijat BAkis (DIE LINKE): Soziale Nutzung des städtischen Gebäudes Bergisch Gladbacher Straße 1006 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Antrag des EMT Thorsten Tücks (FDP): Digitale Kundenwand für das Bürgeramt Mülheim - ungeändert beschlossen
+- TOP 8.1.2: Antrag des EMT Thorsten Tücks (FDP): Instandsetzung der Kirchgasse in Köln-Buchheim - ungeändert beschlossen
+- TOP 8.1.3: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Sicherstellung der Verkehrssicherheit auf der Edelhofstraße in Köln-Flittard - geändert beschlossen
+- TOP 8.1.4: Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Die Grünen: Sicherung des Landschaftsschutzgebietes im Bereich Diepeschrather Straße durch Findlinge bzw. Baumstämme wegen ständig parkender Autos - ungeändert beschlossen
+- TOP 8.1.5: Antrag der CDU-Fraktion: Prüfung der zukünftigen Leistungsfähigkeit der Bahnüberführung Paffrather Straße/Kreuzung Waltherstraße sowie der Unterführung Diepeschrather/Urnenstraße in Dellbrück - ungeändert beschlossen
+- TOP 8.1.6: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Berliner Straße/Haltestelle "Im Weidenbruch": Sicherer Übergang für Fußgänger*innen - geändert beschlossen
+- TOP 8.1.7: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Runder Tisch Radverkehr im Bezirk Köln-Mülheim - ungeändert beschlossen
+- TOP 8.1.8: Gemeinsamer Dringlichkeitsantrag der Fraktion Bündnis 90/Die Grünen und der SPD-Fraktion: Unterbindung des Lkw-Durchgangsverkehrs durch Mülheim während der Sanierung der Mülheimer Brücke - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Erneuerung der Eisenbahnüberführung "Eschenbruchstraße" DB Netz AG - Alternative beschlossen
+- TOP 9.1.2: Ersatzbeschaffung eines Spielgerätes für Spielplatz Von-Diergardt-Straße in Dünnwald - ungeändert beschlossen
+- TOP 9.1.3: Straßenbaumkonzept für den Stadtteil Mülheim - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sportentwicklungsplanung der Stadt Köln - geändert beschlossen
+- TOP 9.2.2: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 9.2.3: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 9.2.4: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - ungeändert beschlossen
+- TOP 9.2.5: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert beschlossen
+- TOP 9.2.6: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - geändert beschlossen
+- TOP 9.2.7: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert beschlossen
+- TOP 9.2.8: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand zur Sanierung der Mülheimer Brücke (ständiger Tagesordnungspunkt)
+- TOP 10.2.3.1: Gesamtinstandsetzung Mülheimer Brücke – Änderung der Verkehrsführung / Sachstand - Kenntnis genommen
+- TOP 10.2.3.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.4: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 10.2.5: Earth Hour 2019 - Kenntnis genommen
+- TOP 10.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.8: Verbesserung der Sicherheit für Grundschüler/innen der Schule Urnenstraße im Bereich der Querung Dellbrücker Hauptstraße in Richtung Hünenstraße - Kenntnis genommen
+- TOP 10.2.9: Neufelder Straße - Tempo 30 auf der gesamten Länge - Kenntnis genommen
+- TOP 10.2.10: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 10.2.11: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 10.2.12: Bauvorhaben Wilhelm-Marx-Str. 1 - 26 und Ringstr. 32 - 40 - Kenntnis genommen
+- TOP 10.2.13: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.14: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 10.2.15: Investorenwettbewerb für das Ulrich-Haberland-Haus - Kenntnis genommen
+- TOP 10.2.16: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
+- TOP 10.2.17: Teilnahme Kölner Schulen am Schulversuch Talentschulen - Kenntnis genommen
+- TOP 10.2.18: Neudefinition des Straßenverlaufs der Diepeschrather Straße in Köln-Dellbrück - Kenntnis genommen
+- TOP 10.2.19: Erneute Offenlage gemäß § 4 a Abs. 3 BauGB Bebauungsplan Nr. 73480/06; Arbeitstitel: Kochwiesenstraße in Köln-Holweide - Kenntnis genommen
+- TOP 10.2.20: Entkopplung von Drogenkonsumraum und öffentliche Toiletten - Kenntnis genommen
+- TOP 10.2.21: Sachstand der Realisierung des NSU-Mahnmals in Köln - Beantwortung einer Anfrage im Integrationsrat am 12.03.2019 - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
