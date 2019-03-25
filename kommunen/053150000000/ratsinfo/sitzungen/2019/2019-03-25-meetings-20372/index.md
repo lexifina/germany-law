@@ -1,0 +1,55 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-25T17:05:00+01:00
+- Ende: 2019-03-25T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20372
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20372
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tätigkeitsbericht des Amtes für Straßen und Verkehrstechnik 2017 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Objekt Köln, Hitzeler Str. 125 in Köln-Raderthal, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Sachstand Spielplatz Weißdornweg in Rondorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Schließungszeiten Park & Ride Parkplatz an der KVB Haltestelle Sürth-Bahnhof, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3.1: Beantwortung der KVB der Anfrage der FDP-Fraktion zu TOP 7.2.3 zur Sitzung der Bezirksvertretung Rodenkirchen am 25.03.2019 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Fuhrwerkswaage Kunstraum; Antrag der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.1.1: Gemeinsamer Ersetzungsantrag der SPD-Fraktion und der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.2: Hallenbad Rodenkirchen: Publikumsöffnung auch an Wochenenden, Antrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.2.1: TOP 8.1.2 Hallenbad Rodenkirchen: Änderungsantrag - ungeändert beschlossen
+- TOP 8.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.4: Kindertagesstätte an der Zitronenfalterstraße im Sürther Feld: Erweiterung, Antrag der Fraktion Die Grünen mit Beitritt der SPD-Fraktion und der CDU-Fraktion - geändert beschlossen
+- TOP 8.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Pohligstraße 2 nach Höninger Weg - ungeändert beschlossen
+- TOP 9.1.2: Bank Ecke Engeldorfer Str. / Am Engeldorfer Berg in Köln-Meschenich - zurückgestellt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sportentwicklungsplanung der Stadt Köln - ungeändert empfohlen
+- TOP 9.2.2: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert empfohlen
+- TOP 9.2.3: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - mit Änderungen empfohlen
+- TOP 9.2.4: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert empfohlen
+- TOP 9.2.5: Umwandlung der städtischen Notunterkunft Bonner Straße 478, 50968 Köln-Marienburg in eine Regelunterkunft zur Unterbringung von Geflüchteten - Baubeschluss - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 10.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.3: Industriestraße 131 in Köln-Rodenkirchen, 70380/02; Offenlage - Kenntnis genommen
+- TOP 10.2.4: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
