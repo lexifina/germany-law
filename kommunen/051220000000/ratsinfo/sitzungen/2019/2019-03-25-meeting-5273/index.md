@@ -1,0 +1,51 @@
+# Zuwanderer- und Integrationsrat (29. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-03-25T17:07:00+01:00
+- Ende: 2019-03-25T18:52:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-285
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTVYukHr02r9guSUz9vf_YI
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5273
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU0jnGfE2Zv6v4SGrG0YQODNbvm6nwcDv4xGtT80qgfK/Bekanntmachung_Zuwanderer-_und_Integrationsrat_25.03.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zuwanderer- und Integrationsrat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRx5g1jFgqOMPwEyzsoKQjUlLJuPOP_MoZxOgqLHDc2w/Oeffentliche_Niederschrift_Zuwanderer-_und_Integrationsrat_25.03.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Öffnungszeiten im WillkommenCenter
+- TOP 1.2: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 1.3: Anzahl EU-Bürger in Solingen
+- TOP 1.4: Integration an Solinger Schulen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 28. Sitzung des Zuwanderer- und Integrationsrates am 28.01.2019
+- TOP 4.: NRWeltoffen – Konzept zur Prävention gegen Rassismus und Rechtsextremismus in Solingen
+- TOP 5.: Sprachförderangebote des Kommunalen Integrationszentrums im Elementar- und Primarbereich
+- TOP 6.: Aktuelle Situation und Unterbringung von Geflüchteten -mündlicher Bericht-
+- TOP 7.: Tag der Begegnung
+- TOP 8.: Workshop Kultur und Integration -mündlicher Bericht-
+- TOP 9.: Sachstand Förderverein - mündlicher Bericht -
+- TOP 10.: Berichte aus den Gremien
+- TOP 11.: Berichte aus den Arbeitsgruppen
+- TOP 12.: Bericht aus dem Landesintegrationsrat
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen der Verwaltung
+- TOP 13.1.1: KOMM-AN – Projekte in Solingen
+- TOP 13.1.2: Teilnahme der Stadt Solingen an der Landesinitiative „Gemeinsam klappt’s“
+- TOP 13.1.3: Salam Solingen am 08.12.2018
+- TOP 13.1.4: Der Ball ist bunt - Toleranz, Respekt und Fairplay rund um den Fußballplatz
+- TOP 13.1.5: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 13.1.6: Interkulturelle Öffnung der Verwaltung
+- TOP 13.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 28. Sitzung des Zuwanderer- und Integrationsrates am 28.01.2019
+- TOP 4.: Aussprache
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
