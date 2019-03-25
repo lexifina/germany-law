@@ -1,0 +1,62 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-25T17:00:00+01:00
+- Ende: 2019-03-25T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20298
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20298
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Tätigkeitsbericht 2018 des Amtes für Gleichstellung von Frauen und Männern - zurückgestellt
+- TOP 2: Internationales
+- TOP 2.1: Mittel für Städtepartnerschaftsvereine - Kenntnis genommen
+- TOP -: Beantwortung einer Anfrage der FDP-Fraktion zum Thema Mittel für Städtepartnerschaftsvereine - Kenntnis genommen
+- TOP 2.2: Fördermittelakquise und -abwicklung von EU Drittmitteln - ohne Votum in nachfolgende Gremien
+- TOP 2.3: EU-Projekt Kommunale Entwicklungszusammenarbeit - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Datenschutzmanagementkonzept zur Erfüllung der Rechenschafts- und Dokumentationspflichten sowie "Dienstanweisung Datenschutz und Informationsfreiheit für die Stadt Köln" - Kenntnis genommen
+- TOP 4.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 4.3: Zielbild 2020 - Maßnahmen zur Stärkung des städtischen Ordnungsdienstes
+- TOP 4.4: Sachstand zum elektronischen Gewerbemeldeverfahren - Kenntnis genommen
+- TOP 4.5: Mitteilung zum Sachstand des Zwischennutzungskonzepts am Ebertplatz - Kenntnis genommen
+- TOP 4.6: Wahlen zum Europäischen Parlament am 26. Mai 2019 - Kenntnis genommen
+- TOP 4.7: Transparenzbericht 2018 zur Verwaltungsreform #wirfürdiestadt - Kenntnis genommen
+- TOP 4.8: Mitteilung Sachstand Breitbandkoordination - Kenntnis genommen
+- TOP 4.9: Umsetzung des Ratsbeschlusses "Jobrad für städtische Beamte und Beschäftigte" vom 05.07.2018 - AN 1027/2018 - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion zum Thema Personalbericht 2018 zur Sitzung am 10.12.2018 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1790/2018 der SPD-Fraktion zum Thema "Personalberichts 2018" - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion zum Thema "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" zur Sitzung vom 12.11.2018 - zurückgestellt
+- TOP 6.3: Anfrage der Gruppe BUNT zum Thema "Widerspruchsmöglichkeiten zur Weitergabe von Meldedaten durch das Einwohnermeldeamt" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Plakatierung in Gewerbegebieten
+- TOP 7.2: Ausschreibung von Rettungsdienstleistungen
+- TOP 7.3: Markteintritt des Unternehmens Uber
+- TOP 7.4: Übernahme von Personal der Unternehmen Kaufhof und Ford
+- TOP 8: Anträge
+- TOP 8.1: Dringlichkeitsantrag der SPD-Fraktion und der Gruppe BUNT zum Thema "Tag der Datensicherheit und des Datenschutzes im Rathaus der Stadt Köln" zur Sitzung am 04.02.2019 - endgültig abgelehnt
+- TOP 8.2: Antrag der FDP-Fraktion zum Thema "Rosen und Konfetti für Kölner Hochzeitspaare" - endgültig abgelehnt
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: 6. Satzung zur Änderung der Sondernutzungssatzung - endgültig zurückgezogen
+- TOP 10.2: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Aktualisierte Honorarordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 10.4: Nutzungs- und Entgeltordnung für das FORUM Volkshochschule - ohne Votum in nachfolgende Gremien
+- TOP 10.5: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Antrag der Cleveland GmbH auf Durchführung eines Spezialmarktes (BBQ Convention Cologne) auf dem Neumarkt - ungeändert beschlossen
+- TOP 10.7: Bestellung eines stellvertretenden Vertreters der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 10.8: Fortführung des Förderprojekts "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 10.9: Bedarfsfeststellung zur Optimierung Front-Office-Fläche des Bürgertelefons - ungeändert beschlossen
+- TOP 10.10: Bedarfsfeststellung zur weiteren Sicherstellung des Luftrettungsdienstes mit dem Intensivtransporthubschrauber (ITH) Christoph Rheinland - geändert beschlossen
+- TOP 10.11: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Betriebskonzept - ungeändert beschlossen
+- TOP 10.12: Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - zurückgestellt
+- TOP 10.13: Chinafest 2019 - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
