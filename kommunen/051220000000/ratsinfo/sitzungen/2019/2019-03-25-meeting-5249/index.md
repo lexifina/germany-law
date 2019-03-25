@@ -1,0 +1,54 @@
+# Beteiligungsausschuss (38. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-03-25T17:00:00+01:00
+- Ende: 2019-03-25T18:20:00+01:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbZ82m9CtATEc34jw6wwXDA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5249
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZuSBu_53nTXUA1sX2W-UnY1a-_umnl8MK3Mgtq4ao3I/Bekanntmachung_Beteiligungsausschuss_25.03.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa_MGBfDxjDBlG5WxPhMAnTfzlBXo-u59aAN0XPqWK3b/Oeffentliche_Niederschrift_Beteiligungsausschuss_25.03.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 36. Sitzung des Beteiligungsausschuss am 04.02.2019
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Jahresabschluss 2017 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 6.: Wirtschaftsplan 2019 des Zweckverbandes Bergische Volkshochschule (BVHS)
+- TOP 7.: Kooperationsprojekte mit dem Gesellschafter hier: Antrag der Ratsfraktion Bündnis 90/Die Grünen - offene Liste vom 15.01.2019
+- TOP 8.: Stadtwerke Solingen GmbH - Besetzung Verbandsversammlung Wupperverband
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 36. Sitzung des Beteiligungsausschuss am 04.02.2019
+- TOP 4.: Protokoll über die 37. Sitzung des Beteiligungsausschuss am 08.03.2019
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 7.: Zentrum für verfolgte Künste GmbH – Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2018
+- TOP 8.: Zentrum für verfolgte Künste GmbH – Erweiterung der Vollmacht der Geschäftsführung zur Einstellung und Entlassung von Personal
+- TOP 9.: Jahresabschluss 2017/2018 der Städtischen Musikschule Solingen GmbH
+- TOP 10.: Wirtschaftsplan 2019 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 11.: Städtisches Klinikum Solingen gemeinnützige GmbH - Reduktion Geschäftsanteile GDEKK
+- TOP 12.: Städtisches Klinikum Solingen gemeinnützige GmbH - Abschluss eines Versorgungsvertrages Flexible Endoskopie für die Klinik für Gastroenterologie und allg. Innere Medizin
+- TOP 13.: Städtisches Klinikum Solingen gemeinnützige GmbH - Kauf von Microsoftlizenzen für alle genutzten Produktbereiche (Office/Windows/Server) einschließlich Wartung
+- TOP 14.: Wirtschaftsförderung Solingen GmbH & Co. KG - Grundstücksverkauf
+- TOP 15.: Wirtschaftsförderung Solingen Verwaltungs GmbH - Abberufung eines Geschäftsführers
+- TOP 16.: Jahresabschluss 2018 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 16.1: Jahresabschluss 2018 der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS)
+- TOP 17.: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Verkauf der Geschäftsanteile im Rahmen eines Management Buyout
+- TOP 18.: SWS Netze Solingen GmbH - Entlastung Geschäftsführung Geschäftsjahr2017/18
+- TOP 19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.1.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Neue Strukturen
+- TOP 20.1.2: Stadtwerke Solingen GmbH (SW SG) – Änderung des Gesellschaftsvertrages hier: Kosten des Änderungsverfahrens
+- TOP 20.2: Anfragen an die Verwaltung
