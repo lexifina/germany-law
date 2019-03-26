@@ -1,0 +1,64 @@
+# Rat (33. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2019-03-26T18:00:00+01:00
+- Ende: 2019-03-26T19:05:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZY-dDikPhln--RMdrExOafc
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19956
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUDRyMCxATPbOWM8At61ygM2An6VACnyTZTtQ_F4IzjG/Bekanntmachung_Rat_26.03.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQeBvt9VG4GAak4jbyqxIYKxKUQiKkHwL_DgYZqJrTX2/Oeffentliche_Niederschrift_Rat_26.03.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 1.1: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 11.12.2018 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Umbesetzung von Ausschüssen des Rates der Stadt Bad Münstereifel hier: Antrag der CDU-Fraktion vom 10.03.2019 - Einstimmiger Beschluss:
+- TOP 6.: Änderung Ausschussbesetzung hier: Antrag der UWV-Fraktion vom 20.02.2019 - Einstimmiger Beschluss:
+- TOP 7.: Umbesetzung von Ausschüssen hier: Antrag der Fraktion "Bündnis 90/Die Grünen" vom 28.02.2019 - Einstimmiger Beschluss:
+- TOP 8.: Neubesetzung des Betriebsausschusses "Stadtwerke" hier: SPD-Antrag vom 06.03.2019 - Einstimmiger Beschluss:
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.: Anbau Kreishaus hier: UWV-Antrag vom 04.02.2019 - Einstimmiger Beschluss:
+- TOP 11.: Umsetzung der Aktualisierung des integrierten Klimaschutzkonzeptes hier: Einrichtung eines zusätzlichen Ausschusses zum Thema Umwelt- und Klimaschutz hier: Antrag der Fraktion Bündnis90/Die Grünen vom 03.02.2019 - Beschluss mit 4 Nein- und 25 Ja-Stimmen:
+- TOP 12.: Erweiterung der Katholischen Grundschule Arloff hier: zweigeschossiger Anbau - Einstimmiger Beschluss:
+- TOP 13.: Erweiterung der Katholischen Grundschule Arloff hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 14.: Barrierefreier Ausbau von Haltestellen hier: Anmeldung von Haushaltsmitteln - Einstimmiger Beschluss:
+- TOP 15.: Förderprogramme zur Sanierung der Schulen hier: Abstimmung der einzelnen Maßnahmen - Beschluss mit 1 Gegenstimme:
+- TOP 16.: Änderung der Beteiligungsstruktur in der BWP Bürgerwindpark Schleiden GmbH & Co. KG - Beschluss mit 2 Nein- und 28 Ja-Stimmen:
+- TOP 17.: Satzung über die Aufhebung der Zweckbestimmung des Wirtschaftsweges Gemarkung Arloff, Flur 2, Nr. 892 - Einstimmiger Beschluss
+- TOP 18.: Satzung über die Aufhebung der Zweckbestimmung des Wirtschaftsweges Gemarkung Hohn, Flur 3, Nr. 9 - Einstimmiger Beschluss:
+- TOP 19.: Entwidmung und Widmung von Wegeflächen in der Gemarkung Eschweiler - Beschluss mit 4 Nein und 26 Ja-Stimmen:
+- TOP -: Entwidmung und Widmung von Wegeflächen in der Gemarkung Eschweiler -   
+- TOP 20.: Abfallentsorgung hier: Abschluss einer öffentlich-rechtlichen Vereinbarung gemäß § 23 Absatz 1 des Gesetzes über die kommunale Gemeinschaftsarbeit (GkG) zwischen den Städten und Gemeinden Bad Münstereifel, Blankenheim, Dahlem, Hellenthal, Kall, Mechernich, Schleiden, Weilerswist und Zülpich über gemeinsame Regelungen bei der Abfallsammlung und -beförderung - Einstimmiger Beschluss:
+- TOP 21.: Flächenentwicklung im Stadtgebiet -   
+- TOP -: Flächenentwicklung im Stadtgebiet hier: Schreiben der UWV-Fraktion vom 07.03.2019 -   
+- TOP -: Flächenentwicklung im Stadtgebiet - Beschluss mit 19 Ja-Stimmen zu 10 Nein-Stimmen und 1 Enthaltung:
+- TOP 22.: 31. Änderung des Flächennutzungsplans "Neubau Zimmerei-Outlet-Store" hier: Abwägungsbeschlüsse und abschließender Beschluss - Die Abwägungsbeschlüsse (= Anlage 1 der Originalniederschrift) erfolgen alle einstimmig. 
+- TOP 23.: 2. Satzung zur Änderung der Sanierungssatzung; hier: Änderung des Geltungsbereichs - Einstimmiger Beschluss:
+- TOP 24.: Umgestaltung der Parkplatzanlage Trierer Straße (Große Bleiche) hier: Genehmigung einer überplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 25.: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel - Die Beschlüsse zu den Sonntagen 1-7 erfolgen mit 1 Gegenstimme:
+- TOP -: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen im Gebiet der Stadt Bad Münstereifel -    
+- TOP 26.: Gesamtabschluss 2017 hier: Zuleitung des Entwurfs gem. § 116 Abs. 5 GO NRW i.V.m. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 27.: Jahresabschluss 2018 hier: Zuleitung des Entwurfs gem. § 95 Abs. 3 GO NRW - Einstimmiger Beschluss:
+- TOP 28.: Anfragen und Mitteilungen
+- TOP 28.1: Erlass der Haushaltssatzung für das Haushaltsjahr 2019 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept bis 2025; hier: Haushaltsverfügung des Landrates des Kreises Euskirchen als untere staatliche Verwaltungsbehörde vom 04.01.2019
+- TOP 28.2: Bekanntgabe der über- und außerplanmäßigen Aufwendungen und Auszahlungen gem. § 83 GO NRW i.V.m. § 17 Abs. 2 der Hauptsatzung für das 2. Halbjahr 2018
+- TOP 28.3: Klimaschutzmaßnahmen Stadt Bad Münstereifel
+- TOP 28.4: Mündliche Mitteilung gemäß Korruptionsbekämpfungsgesetz; Gremientätigkeit der Rats- und Ausschussmitglieder und der Bürgermeisterin
+- TOP 28.5: Informationsveranstaltung zu den Förderprogrammen des Landes NRW "Dorferneuerung" und "Heimatinitiativen"
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Antrag des Betreibervereins Mutscheid vom 12.12.2018 -     
+- TOP -: Betreibung der Sport- Mehrzweckhallen in Mutscheid und Houverath; hier: Antrag des Betreibervereins Mutscheid vom 12.12.2018 - Einstimmiger Beschluss:
+- TOP 2.: Städtisches Grundstück in Arloff, Unter den Linden; hier: Verkauf - Einstimmiger Beschluss:
+- TOP 3.: Abfallentsorgung hier: Prüfung der Wirtschaftlichkeit der bestehenden Verträge mit Blick auf die Verlängerungsoption - Einstimmiger Beschluss:
+- TOP 4.: Erweiterung der Grundschule Arloff hier : Auftragsvergabe der Bauleistungen nach Gewerken - Einstimmiger Beschluss:
+- TOP 5.: Anfragen und Mitteilungen
+- TOP 5.1: Forstbetrieb der Stadt Bad Münstereifel hier: organisatorische Änderung
+- TOP 5.2: 4. Änderung des Bebauungsplans Nr. 6 "Industriegebiet Iversheim"
