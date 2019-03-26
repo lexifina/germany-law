@@ -1,0 +1,53 @@
+# Rat der Stadt Rheda-Wiedenbrück (28. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2019-03-26T17:00:00+01:00
+- Ende: 2019-03-26T20:02:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUJSzlbKYDsZxIcJgObx_9I
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/1947
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS2MN8Bb3UAyWq-8Ng9XTik7R-mosPogaGzlrL4hQ1iE/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_26.03.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbdIMnyv2PR5Qi8BRxQrppOHb34pErl-r26j7q7SUKbP/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_26.03.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Antrag auf kostenlose Sondernutzungsgenehmigung für öffentliche Flächen bei geringfügigen Gebühren für den Einzelhandel in Wiedenbrück - Einstimmig
+- TOP 5: Personelle Veränderungen in den Fachausschüssen - Einstimmig
+- TOP 6: Förderung der Ansiedlung von Hausärzten - Einstimmig
+- TOP 7: Verkaufsoffene Sonntage - Dringlichkeitsentscheid
+- TOP 7.1: Verkaufsoffene Sonntage - Dringlichkeitsentscheid - 31 Ja-Stimme(n), 3 Nein-Stimme(n)
+- TOP 8: Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass in der Stadt Rheda-Wiedenbrück (OBV) - 23 Ja-Stimme(n), 10 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 9: Neufassung der Geldanlagerichtlinie - 32 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 10: Bekanntgabe der gemäß § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen für September 2018 bis Januar 2019 - Kenntnisnahme
+- TOP 11: Überplanmäßige Mittelbereitstellung gem. § 83 GO NRW für das Produkt 120103 - Einstimmig
+- TOP 12: Überplanmäßige Mittelbereitstellung gemäß § 83 GO NRW für das Produkt 120102 - 27 Ja-Stimme(n), 7 Nein-Stimme(n)
+- TOP 13: Grundstücksentwicklung - Einstimmig
+- TOP 14: Rechtslage Integrationsrat - Einstimmig
+- TOP 15: Bewerbung für die Teilnahme der Gesamtschule am Schulversuch Talentschulen - Einstimmig
+- TOP 16: Trägerschaft für die neue Kindertageseinrichtung an der Fontainestraße - Einstimmig
+- TOP 17: Vorstellung des Wasserversorgungskonzeptes gemäß § 38 Abs. 3 Landeswassergesetz NRW (LWG) - Einstimmig
+- TOP 18: 89. Änderung des Flächennutzungsplanes Ergebnisse der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 (1) BauGB sowie Ergebnisse der Beteiligung der Öffentlic
+- TOP 19: Aufstellung des Bebauungsplanes Nr. 410 "Bielefelder Straße / Nordring" Ergebnisse und Behandlung der Stellungnahmen aus der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 (1) BauGB und der Beteiligung der Behörden und sonstige Träger öffentlicher Bela
+- TOP 20: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 21: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 22: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 23: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 24: Erklärung von Ausschließungsgründen
+- TOP 25: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Neuorganisation der Schiedsamtsstellen - 24 Ja-Stimme(n), 9 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 28: Wirtschaftsplan der AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH für die Wirtschaftsjahre 2019-2023 - 31 Ja-Stimme(n), 2 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 29: Vertragsangelegenheiten - 29 Ja-Stimme(n), 4 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 30: Grundstücksverkauf - 24 Ja-Stimme(n), 8 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 31: Städtebaulicher Vertrag flankierend zu einem Bebauungsplan im Stadtteil Wiedenbrück
+- TOP 32: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 33: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 34: Dringende Anfragen und Anregungen
