@@ -1,0 +1,56 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-26T16:00:00+01:00
+- Ende: 2019-03-26T18:20:00+01:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16275
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16275
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339025.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339025.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339025.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Bericht aus dem Quartiersmanagement - zur Kenntnis genommen
+- TOP 4.3: Weihnachtsmarkt auf dem Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Str. 2, vom 19.12. bis - einstimmig beschlossen
+- TOP 4.4: Verfügungsmittel der BV 10, Zuschuss an die GGS Neustrelitzer Straße - einstimmig beschlossen
+- TOP 4.5: Bezirklicher Bauunterhalt 2019 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 4.6: "Sonnenradfest" - 2019 - einstimmig beschlossen
+- TOP 4.7: Zuschuss für das Kinderparlament Garath - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der BV 10, Zuschuss an das Montessori-Kinderhaus St. Matthäus - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der BV 10, Zuschuss an den Garather Sportverein 1966 e.V. - einstimmig beschlossen
+- TOP 4.10: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - passieren lassen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Handlungsbedarf beim Angebot an Pflegeplätzen - schriftlich beantwortet
+- TOP 6: aktuelle Anfragen
+- TOP 6.1: Wegfall eines Kassensitzes für einen Kinderarzt - schriftlich beantwortet
+- TOP 6.2: Bebauung Einkaufszentrum Garath SW - schriftlich beantwortet
+- TOP 6.3: Zukünftige Personalausstattung der Freizeitstätte Garath - schriftlich beantwortet
+- TOP 6.4: Seniorenwohnheime im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.5: Urdenbacher Kämpe – Haus Bürgel – Urdenbacher Altrhein / Baumberger Aue – Pestizideinsatz in der Näh - schriftlich beantwortet
+- TOP 7: Anträge
+- TOP 7.1: Aufhebung/Änderung der Verkehrszeichen an/in der Sackgasse Emil-Barth-Str. 17-19 und eventuelle Ausw - einstimmig beschlossen
+- TOP 7.2: Ersatzbeschaffung des Transparentes „Humanität, Respekt, Vielfalt“ - abweichend beschlossen
+- TOP 7.3: Fortführung der Metro-Buslinien M1/M3 bis Garath - zurückgezogen
+- TOP 7.4: Verlängerung der Metrobuslinien M1 und M3 an die Stadtteile Hellerhof und Garath - einstimmig beschlossen
+- TOP 7.5: Verknüpfung der Buslinien M3 und SB 57 - einstimmig beschlossen
+- TOP 7.6: Installation eines Trinkwasserbrunnens - einstimmig beschlossen
+- TOP 7.7: Wetterschutz für die neuen Fahrradständer am S-Bahnhof Hellerhof - mehrheitlich beschlossen
+- TOP 7.8: Mögliche Standorte für die Realisierung eines Seniorenwohnprojektes in Hellerhof und Garath - einstimmig beschlossen
+- TOP 7.9: Besetzung der vakanten Stelle am Abenteuerspielplatz Reinhold-Schneider-Straße - einstimmig beschlossen
+- TOP 7.10: Barrierefreie Haltestellen im Bezirk - abweichend beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Reinigung der zugewachsenen Fuß- und Radwege in Garath und Hellerhof - zur Kenntnis genommen
+- TOP 8.2: Sachstandsbericht zum Angebot und Vergabe der Hallennutzungszeiten im Stadtbezirk 10 und angrenzende - zur Kenntnis genommen
+- TOP 8.3: Anlage eines Friedwaldes im Bezirk 10 - zur Kenntnis genommen
+- TOP 8.4: Markieren der Stellplätze auf dem Emil-Barth-Parkplatz in Garath - zur Kenntnis genommen
+- TOP 9: Verschiedenes
