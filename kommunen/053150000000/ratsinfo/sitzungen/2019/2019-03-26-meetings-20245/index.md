@@ -1,0 +1,75 @@
+# 44. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-26T17:05:00+01:00
+- Ende: 2019-03-26T19:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20245
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20245
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00711140.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00711140.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00711140.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag des Seniorenvertreters Meurers vom 14.02.2019 betr. Buslinie 134 - zurückgestellt
+- TOP 1.2: Karnevalseinhausungen - geändert beschlossen
+- TOP 1.3: Rheinpendel – Prüfung eines Seilbahnsystems - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 2.1: Bürgereingabe gem. § 24 GO NRW, betr.: Einführung von fahrscheinlosen Tagen an allen Samstagen im Jahr 2019 auf allen ÖPNV- und SPNV-Linien im Kölner Stadtgebiet - ungeändert beschlossen
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Planungs- und Bedarfsfeststellungsbeschluss für die Neugestaltung der Stadtbahnhaltestelle Bahnhof Deutz/Messe - geändert beschlossen
+- TOP 3.2: Verkehrsführungskonzept Altstadt - geändert beschlossen
+- TOP 3.2.1: Verkehrsführungskonzept Altstadt - endgültig zurückgezogen
+- TOP 3.2.2: Verkehrskonzept City/Altstadt (Vorlagen-Nr.: 2835/2016/2) - Sache ist erledigt
+- TOP 3.3: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - zurückgestellt
+- TOP 3.4: Bedarfsfeststellung und Vergabe über die Beschaffung von Absperrpfosten für die Jahre 2019/2020 - ungeändert beschlossen
+- TOP 3.5: Bedarfsfeststellung und Vergabe über die Beschaffung von Verkehrszeichen für die Jahre 2019/2020 - ungeändert beschlossen
+- TOP 3.6: Bedarfsfeststellungsbeschluss und Vorbereitung des Vergabeverfahrens - ungeändert beschlossen
+- TOP 3.7: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - unter Vorbehalt beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - mit Änderungen empfohlen
+- TOP 4.1.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): - geändert beschlossen
+- TOP 4.2: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert empfohlen
+- TOP 4.4: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 4.6: Bedarfsfeststellungsbeschluss und Vergabe zur Ertüchtigung und Digitalisierung der LSA-Infrastruktur sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6400-1201-0-0004, Schaltgeräte für Lichtsignalanlagen - ungeändert empfohlen
+- TOP 4.7: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Betriebskonzept - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Kölner Verkehrs-Betriebe AG (KVB): Vergabe eines öffentlichen Dienstleistungsauftrags über die Erbringung öffentlicher Personenverkehrsdienste sowie Betrauung - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Ausweitung Ladezonen - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Überholabstände bei Radschutzstreifen - Sache ist erledigt
+- TOP 5.2.1.1: Überholabstände bei Radschutzstreifen - Kenntnis genommen
+- TOP 5.2.2: Kampagne für mehr Rücksicht im Straßenverkehr - Sache ist erledigt
+- TOP 5.2.3: Barrierefreiheit an Haltestellen - Sache ist erledigt
+- TOP 5.2.4: Stadtbahnanbindung Köln Widdersdorf – Sachstand Untersuchung der Trassenführung - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Grüner Pfeil für Radfahrer/innen - Sache ist erledigt
+- TOP 6.2: Originelle Ampeln in Köln - Sache ist erledigt
+- TOP 6.3: Platzierung von Radpiktogrammen - Sache ist erledigt
+- TOP 6.4: Sachstand wichtiger Projekte zum Ausbau des Stadtbahnnetzes - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhung nach § 24 Abs. 2 GemHVO
+- TOP 7.1.1: Generalsanierung der Waldsiedlung, hier: Mitteilung über eine weitere Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Earth Hour 2019 - Kenntnis genommen
+- TOP 7.2.2: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 7.2.3: 9. Änderung des Gesamtverkehrskonzeptes der Stadt Köln - Kenntnis genommen
+- TOP 7.2.4: Planfeststellungsbeschluss für den Umbau des Autobahnkreuzes Köln-Nord - Kenntnis genommen
+- TOP 7.2.5: Gesamtinstandsetzung Mülheimer Brücke – Änderung der Verkehrsführung / Sachstand - Kenntnis genommen
+- TOP 7.2.6: Kölner Verkehrs-Betriebe AG (KVB): Ergänzende Informationen zur Vergabe eines öffentlichen Dienstleistungsauftrags an die KVB über die Erbringung öffentlicher Personenverkehrsdienste (Vorlagen-Nr. 4240/2018) - Kenntnis genommen
+- TOP 7.2.7: Förderung Lastenfahrrad - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Ausfall von Aufzügen an Stadtbahnhaltestellen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Fehlender Fußgängerüberweg Cäcilienstraße in Höhe Kronengasse - Sache ist erledigt
+- TOP 8.3: Erweiterung des Container-Terminals Lülsdorf - Sache ist erledigt
+- TOP 8.4: Beschluss des Rhein-Sieg-Kreises: Verknüpfung der Linie 164 mit der SB 55 - Sache ist erledigt
