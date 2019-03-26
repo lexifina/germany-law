@@ -1,0 +1,72 @@
+# 35. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-26T15:40:00+01:00
+- Ende: 2019-03-26T20:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20241
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20241
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00707718.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00707718.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00707718.pdf
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Änderung der Satzung des Heinrich – Böll – Preises - endgültig zurückgezogen
+- TOP -: Stellungnahme zum Dringlichkeitsantrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Änderung der Satzung des Heinrich–Böll–Preises" (AN/1827/2018) - endgültig zurückgezogen
+- TOP 3.2: Antrag der SPD-Fraktion und der Ratsgruppe BUNT betr.: "Rückgabe kolonialer Raubkunst" - geändert beschlossen
+- TOP -: Änderungsantrag der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betr.: Top 3.2.: "Antrag Rückgabe kolonialer Raubkunst" - geändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Vergabe der Fördermittel in den Schwerpunkten "Produktionen und Sonderprojekte" und "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.2: Neuwahl des Theaterbeirats 2019 bis 2022 - ungeändert beschlossen
+- TOP 4.3: Nutzungs- und Entgeltordnung für das FORUM Volkshochschule - mit Änderungen empfohlen
+- TOP -: Änderungsantrag der CDU-Fraktion, Fraktion Bündnis 90/Die Grünen zu TOP 4.3 betr.: "Nutzungs- und Entgeltordnung für das FORUM Volkshochschule" - mit Änderungen empfohlen
+- TOP 4.4: Geschäftsordnung Jury Böll-Preis - zurückgestellt
+- TOP 4.5: Neuwahl des Beirats Bildende Kunst 2019-2023 - ungeändert beschlossen
+- TOP 4.6: Puppenspiele der Stadt Köln - Erhöhung der Eintrittspreise und Änderung der Entgeltordnung ab dem 01. Januar 2020 - mit Änderungen empfohlen
+- TOP 4.7: Sanierung und Umbau Europäisches Zentrum für Jazz und aktuelle Musik - Stadtgarten - ungeändert empfohlen
+- TOP 4.8: Kulturentwicklungsplanung (KEP) - ungeändert empfohlen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung von Kunstwerken des Künstlers Johannes Wohnseifer an das Museum Ludwig - ungeändert empfohlen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilung der Verwaltung zum gemeinsamen Antrag betr.: "Stärkung der präventiven Arbeit mit Kindern und Jugendlichen gegen Antisemitismus, Rassismus und Diskriminierung" (AN/1182/2018) - Kenntnis genommen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 8.5: 50 Jahre "Ruhender Verkehr" von Wolf Vostell - Kenntnis genommen
+- TOP 8.6: Vorstellung des Spielplans der Puppenspiele der Stadt Köln für die Spielzeit 2019/2020 - Kenntnis genommen
+- TOP 8.7: Der Jahresbericht 2018 des NS-Dokumentationszentrums der Stadt Köln - Kenntnis genommen
+- TOP 8.8: Mitteilung zum Sachstand des Zwischennutzungskonzepts am Ebertplatz - Kenntnis genommen
+- TOP 8.9: Sachstand zu den Vertragsverhandlungen zwischen der Stadt Köln und dem LVR zum Nutzungsvertrag MiQua - Kenntnis genommen
+- TOP 8.10: 100 Jahre Bauhaus - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR- Jüdisches Museum im Archäologischen Quartier Köln, Stand 11.03.2019 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 01.03.2019 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Sanierung der Zentralbibliothek - Stand 16.01.2019 - Kenntnis genommen
+- TOP -: Sachstandsbericht Sanierung der Zentralbibliothek - Stand 26.02.2019 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Friedhof Melaten - Kenntnis genommen
+- TOP -: Friedhof Melaten: Schäden an der Einfriedungsmauer entlang der Aachener Str. und Bauschäden westlich der historischen Kapelle - Kenntnis genommen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Gemeinsame Anfrage der SPD-Fraktion, CDU-Fraktion, Fraktion Bündnis 90/Die Grünen, Fraktion Die Linke. und FDP-Fraktion betr.: "Sicherstellung der dauerhaften Pflege des Grabes von Paul Schallück auf dem Friedhof Müngersdorf" - Kenntnis genommen
+- TOP -: Beantwortung der gemeinsamen Anfrage der SPD-Fraktion, CDU-Fraktion, Fraktion Bündnis 90/Die Grünen, Fraktion Die Linke. und der FDP-Fraktion betr..: "Sicherstellung der dauerhaften Pflege des Grabes von Paul Schallück auf dem Friedhof Müngersdorf" - Kenntnis genommen
+- TOP 11.4: Anfrage der Ratsgruppe BUNT betr.: "Diskriminierung von Rollstuhlfahrer*innen bei Kulturveranstaltungen in Köln" - zurückgestellt
+- TOP 11.5: Antrag der SPD-Fraktion und der Ratsgruppe BUNT betr.: "Rückgabe kolonialer Raubkunst" - Sache ist erledigt
+- TOP 11.6: Anfrage der AfD-Fraktion betr.: "Schenkungen gegen Spendenbescheinigung" - Kenntnis genommen
+- TOP 11.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.8: Gemeinsame Anfrage der CDU-Fraktion, Fraktion Bündnis 90/Die Grünen betr.: "Kunst-und Museumsbibliothek ( KMB )" - zurückgestellt
+- TOP 12: Mündliche Anfragen
