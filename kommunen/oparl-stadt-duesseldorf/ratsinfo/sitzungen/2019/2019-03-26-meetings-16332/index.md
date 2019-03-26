@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-26T17:00:00+01:00
+- Ende: 2019-03-26T19:13:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16332
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16332
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00338732.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00338732.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00338732.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - abweichend beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - vertagt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: PFT-Boden- und Grundwasserverunreinigung Gerresheim - aktueller Sachstand - zur Kenntnis genommen
+- TOP 10: "Home & Garden" auf der Galopprennbahn im Jahr 2019 - einstimmig beschlossen
+- TOP 11: Jahrmärkte auf dem Gerricusplatz im Jahre 2019 - einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2019) - einstimmig beschlossen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14: Busverbindung Wildpark - abweichend beschlossen
+- TOP 15: Metrobus Hubbelrath - abweichend beschlossen
+- TOP 16: Parken Heckteichstraße - abweichend beschlossen
+- TOP 17: Maßnahmen gegen Insektensterben - mehrheitlich abgelehnt
+- TOP 18: Kreuzung Schönaustraße/Märkische Straße - abweichend beschlossen
+- TOP 19: Salinen Brunnen des Gerresheimer Bildhauers Max Kratz - einstimmig beschlossen
+- TOP 20: Wasserversorgung auf dem Gerricusplatz - einstimmig beschlossen
+- TOP 21: Barrierefreier Ausbau des Verbindungsweges zwischen Gerricusplatz und Alter Markt - zur Kenntnis genommen
+- TOP 22: Wann öffnet das Heyebad wieder freitags? - zur Kenntnis genommen
+- TOP 23: Recyclinghof - zur Kenntnis genommen
+- TOP 24: Ped-Bus und Walking-Bus - zur Kenntnis genommen
+- TOP 25: Baustellenzäune am Gallberg und Auf der Hardt - zur Kenntnis genommen
+- TOP 26: Zustand Metzkauser Straße - zur Kenntnis genommen
+- TOP 27: Baugrunderkundung Pelmanstraße - zur Kenntnis genommen
+- TOP 28: Flächenverbrauch/ Bodenversiegelung - zur Kenntnis genommen
+- TOP 29: Umbau Kreuzung Torfbruchstraße/ Dreherstraße - zur Kenntnis genommen
+- TOP 30: Öffnung der Fußgängerzone Neusser Tor für den Radverkehr - zur Kenntnis genommen
+- TOP 31: Keldenichstraße / Neunzigstraße - zur Kenntnis genommen
+- TOP 32: Spazierweg Grafenberger Wald zwischen Torfbruchstraße und Ikenstraße ausbessern - zur Kenntnis genommen
+- TOP 33: S-Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 34: Bänke für das Rund - zur Kenntnis genommen
