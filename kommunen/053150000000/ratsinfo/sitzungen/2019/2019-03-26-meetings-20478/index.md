@@ -1,0 +1,94 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-26T17:00:00+01:00
+- Ende: 2019-03-26T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20478
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20478
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP -: C - Vorstellung Amt für Integration und Vielfalt
+- TOP -: D - Sachvortrag der AWB zum Thema Sauberkeit im Stadtbezirk Porz
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Barrierefreier Zugang zum Bildungszentrum, Ratssaal und Stadtbibliothek des Bezirksrathauses Porz, Friedrich-Ebert-Ufer 64-70, 51143 Köln - geändert beschlossen
+- TOP 2.1.1: Änderungsantrag der SPD-Fraktion zu TOP 2.1 - Bürgereingabe Eingang Rathaus - geändert beschlossen
+- TOP 2.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Frankfurter Str. vor Neuenhofstraße - ungeändert beschlossen
+- TOP 6.2: Kunst-Ausstellungen des Bürgeramtes Porz im Jahr 2019 - ungeändert beschlossen
+- TOP 6.3: Mittel PVP Porz - ungeändert beschlossen
+- TOP 6.4: Vergabe der bezirksorientierten Mittel 2019 - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beibehaltung und Ausweitung der dualen Radverkehrsführung in Köln-Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - aus der letzten Sitzung wegen Beratungsbedarfs geschoben - zurückgestellt
+- TOP 7.1.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2 - Radverkehrsführung Siegburger Straße - aus der letzten Sitzung mit der Vorlage geschoben - zurückgestellt
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Sportentwicklungsplanung der Stadt Köln - Versand per Sammelumdruck - mit Änderungen empfohlen
+- TOP 7.2.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2 - Sportentwicklungsplanung - ungeändert beschlossen
+- TOP 7.3: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - mit Änderungen empfohlen
+- TOP 7.3.1: Änderungsantrag der SPD-Fraktion zu TOP 7.3 - Carsharing - ungeändert beschlossen
+- TOP 7.4: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert empfohlen
+- TOP 7.5: Anhörung zur Bürgereingabe gem. § 24 GO, betr.: Taktverdichtung der Straßenbahnlinie 9 und der Buslinie 152 (Az.: 02-1600-93/18) - mit Änderungen empfohlen
+- TOP 7.6: „Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20“ - ungeändert empfohlen
+- TOP 7.7: Eisenbahnersiedlung; Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Proz-Gremberghoven - ungeändert empfohlen
+- TOP 7.8: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - mit Änderungen empfohlen
+- TOP 7.8.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.8 - Zuständigkeitsordnung - geändert beschlossen
+- TOP 7.9: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - zurückgestellt
+- TOP 7.9.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.9 - Radpendlerroute - zurückgestellt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Vorstellung und Sachstand zur Einführung der elektronischen Bauakte - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Anhörung zur Zentralisierung des städtischen Ordnungsdienstes - ungeändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion: Fahrradfreundliche Übergänge am Bahnhof Wahn in Wahn - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion: Sachstand zum Ausbau, Erweiterungen, Erneuerungen der BAB 59 im Bereich - ungeändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion: Fahrradschutzstreifen Rather Str. - geändert beschlossen
+- TOP 8.6.1: Änderungsantrag der Fraktion die Grünen zu TOP 8.6 - Rather Straße - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion: Sachstandsbericht zur Optimierung der Beleuchtung am Bezirksrathaus Porz - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion: Sachstand zur Überplanung des Busnetzes - ungeändert beschlossen
+- TOP 8.9: In den nicht-öffentlichen Teil geschoben
+- TOP 8.10: Antrag der CDU-Fraktion: Sachvortrag zur Sanierung der Bergerbrücke in Porz-Mitte - ungeändert beschlossen
+- TOP 8.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Bewohnerparken am Grengel - Kenntnis genommen
+- TOP 9.1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: Schülerzahlen GGS Hohe Straße in Ensen - zurückgestellt
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4: Mündliche Anfrage der SPD-Fraktion: Gremberghovener Straße - zurückgestellt
+- TOP 9.2.5: Mündliche Anfrage der SPD-Fraktion: Westhovener Aue - Sache ist erledigt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Konzept zur Jugend-BV-Sitzung in Porz - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Hinweisbeschilderungen an der Poststraße nach „Porz-Zentrum“ und umgekehrt endlich umsetzen - Kenntnis genommen
+- TOP 10.2.2: Interim und Neubau Gemeinschaftsgrundschule Hauptstraße - zu AN/1731/2018 - Kenntnis genommen
+- TOP 10.2.3: Kunst an Kölner Litfaßsäulen - Kenntnis genommen
+- TOP 10.2.4: Earth Hour 2019 - Kenntnis genommen
+- TOP 10.2.5: Von der Verwaltung zurückgezogen - Sache ist erledigt
+- TOP 10.2.6: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 10.2.7: Aufwertung von zentralen Plätzen im Stadtbezirk Porz; Sachstandsmitteilung zu den Baumaßnahmen Eulenplatz Langel, Marktplatz Ensen, Vorplatz Frankfurter Straße - Kenntnis genommen
+- TOP 10.2.8: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugute gekommen sind - Kenntnis genommen
+- TOP 10.2.9: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 10.2.10: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
+- TOP 10.2.11: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 10.2.12: Sachstandsbericht zum Gestaltungskonzept Hauptstraße von Steinstraße bis Poststraße - Kenntnis genommen
+- TOP 10.2.13: Kosten für Bürger durch Generalinstandsetzung von Straßen und Plätzen - Kenntnis genommen
+- TOP 10.2.14: Gesamtkonzept der Sportanlagen Humboldtstraße/Brucknerstraße - Kenntnis genommen
+- TOP 10.2.15: Mitteilung zum Ortstermin Mendener Straße in Poll - Kenntnis genommen
+- TOP 10.2.16: Spielhallen im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.17: 15 Minuten kostenfreies Parken im Bezirk Porz; - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
