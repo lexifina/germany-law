@@ -1,0 +1,160 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-03-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146426
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146426
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 14.14.1: Westendstr. Fällung eines Baumes 701 Hr. Keller
+- TOP 14.14.2: Siebenbürgerener Str. Fällung eines Baumes 702 Hr. Keller
+- TOP 14.14.3: Albert-Roßhaußpter-Str. Fällung eines Baumes 708 Hr. Barth
+- TOP 14.14.4: Hinterbärenbadstr. Fällung eines Baumes 709 Hr. Sinapius
+- TOP 14.14.5: Liesel-Beckmann-Str. Fällung eines Baumes 721 Fr. Singer-Mayr
+- TOP 14.14.6: Pilsenseestr. Fällung mehrerer Bäume 726 Hr. Wolf
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 28.28.3: Bebauungsplan Zschokke- / Westendstr
+- TOP 30.: Weitere Anhörungen
+- TOP 37.37.1: Baulisten
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: AKIM Vorstellung der neuen Ansprechpartnerin für den Stadtbezirk 07
+- TOP 6.6.2: Vollzug der Plakatierverordnung - Schreiben des BA25
+- TOP 6.6.3: Radlroute entlang der Bahnline Baierbrunner-Mittersendling - BA 19
+- TOP 6.6.4: Radlroute entlang der Bahnlinie Harras-Mittersendling - BA 19
+- TOP 7.7.1: Ergebisse verdeckter Geschwindigkeits-Messgeräte- Vertagung aus der Februar-Sitzung
+- TOP 7.7.2: LZA-Siegenburger-Landaubogen-Vertagung aus der Februar-Sitzung
+- TOP 7.7.3: BA-Antrag Tempo-50 im Tunnel-Fristverlängerung-Vertagung aus der Februar-Sitzung
+- TOP 8.8.1: (E) Zusätzliche Bäume und Sträucher auf dem Luise-Kiesselbach-Platz Empfehlung Nr. 14-20 / E 02379 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 22.11.2018
+- TOP 8.8.2: (E) Begrünte Trennwand entlang des Mittleren Rings im Bereich Max-Seidl-Weg, Mainburger Straße und Johann-Houis-Straße Empfehlung Nr. 14-20 / E 02378 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 22.11.2018
+- TOP 8.8.3: (E) Halteverbotsschilder im Distlhofweg
+- TOP 8.8.4: (E) "Anlieger frei" in der Pilsenseestraße
+- TOP 8.8.5: (E) Verkehrsberuhigung durch Tempo 30 in der Siegenburger Straße und der Breitachstraße; Parkerlaubnis auf beiden Seiten der Siegenburger Straße auf PKW begrenzen
+- TOP 8.8.6: (E) Nachbesserung der Verkehrssituation in der Heckenstallerstraße zwischen Millauerweg und Höglwörther Straße
+- TOP 9.9.1: Umgestaltung Spielplatz PfrontenerPlatz
+- TOP 10.10.1: (E) Stadtbezirksbudget SV München von 1880 e.V. Anschaffung von 6 Bodenturnläufern für die Jugend 4.057,30 € / Az. 0262.0-7-0233
+- TOP 10.10.2: (E) Stadtbezirksbudget stattpark OLGA e.V. Kindertheater "1 vor dem anderen" am 18.05.2019 700,00 € / Az. 0262.0-7-0230
+- TOP 10.10.3: (E) Stadtbezirksbudget stattpark OLGA e.V. Kindertheater "König und König" am 05.10.2019 700,00 € / Az. 0262.0-7-0231
+- TOP 10.10.4: (E) Stadtbezirksbudget Elterninitiative Mittagsinsel e.V. Renovierung der Räumlichkeiten 17.361,32 € / Az. 0262.0-7-0232
+- TOP 10.10.5: (E) Stadtbezirksbudget Elternbeirat Grundschule Werdenfelsstraße Projektwoche „100 Jahre Freistaat Bayern“ vom 15. - 19.07.2019 3.850,00 Euro / Az. 0262.0-7-0234
+- TOP 11.11.1: Antrag Fussweg - datei kommt noch
+- TOP 11.11.2: Antrag Sanierung - datei kommt noch
+- TOP 12.12.1: Sitzungstermin UA Bau und Umwelt
+- TOP 12.12.2: Sitzungstermin UA Soziales und Kultur
+- TOP 12.12.3: UA Parks und Grünanlagen - Vorschlagsliste neuer Sitzbänke und neuer Hundekot-Beutelspender im Stadtbezirk 07
+- TOP 16.16.1: Flohmarkt Murneltiere e.V.
+- TOP 16.16.2: Spiellandschaft Stadt 2019
+- TOP 16.16.3: Nachbarschaftsfest Halmstraße
+- TOP 17.17.1: Vesakh-Fest 11.05.19
+- TOP 17.17.2: musikalisches Weinfest 06.06.-12.06.19
+- TOP 17.17.3: Kino-Mond-Sterne 29.05.-08.09.19
+- TOP 17.17.4: Kath.Glaubensverkündung nach Ostern
+- TOP 17.17.5: Spielen in der Stadt-Zirkuslust
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.20.1: Mehr Grün im Straßenraum - Satzungsänderung
+- TOP 20.20.2: Verlängerungszeitraum Budgetantrag ASZ-Plus
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.22.1: Haltverbot Ortlerstr10b vor der Kita
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.28.1: Änderung Denkmalliste - Schulanlage Neufriedenheim
+- TOP 28.28.2: Beschlussentwurf BebauPlan Bauernbräuweg
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Aufnahme einer stationären behindertengerechten Toilette sowie eines Wasserspenders in die Aufwertungsmaßnahme Südpark die Errichtung
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Begleitschreiben Korrektur Aufwandsentschädigungen 2018
+- TOP 33.33.2: Handhabung Geschwindigkeitsmessgeräte
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Fristverlängerung BV-Empfehlung Heckenstallerstr E02390
+- TOP 35.35.2: Gaststättenfortführung Nestroystr.
+- TOP 35.35.3: VVB-PraxisTag im Westpark
+- TOP 35.35.4: VVB-Bescheid Laufveranstaltung ESV Neuaubing
+- TOP 35.35.5: VVB-Bescheid Zirkus Galliano
+- TOP 35.35.6: Wahllokal im Altenheim Haus St. Josef
+- TOP 35.35.7: VVB-Bescheid Buddhistische Meditation
+- TOP 35.35.8: Gaststättenfortführung-Eduard-Stadler-Winke
+- TOP 35.35.9: VVB-Bescheid Filmaufnahmen
+- TOP 35.35.10: Ausweisung Zillertalstr als Fahrradstr.
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Versorgungsgrad mit Ganztagesplätzen bei Grundschülern
+- TOP 39.39.2: Fristverlängerung BA-Anträge Dreifachturnhalle und Schwimmbecken im Bildungscampus
+- TOP 39.39.3: Zahlen für Kinderbetreuungseinrichtungen
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Fristverlaengerung BV-Empfehlung Fahrradkonzept-Bildungscampus
+- TOP 41.41.2: Novellierung NaturdenkmalVO- BA-Vorschläge
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 45.: Baureferat
+- TOP 45.45.1: Gefahrbaumentfernungen MartinBehaimStr-Rubihornweg
+- TOP 45.45.2: Erinnerungsverfahren Weilheimer Str.
+- TOP 45.45.3: Fristverlängerung BV-Empfehlung Barrierefreier Zuhang U-Bahnhof Heimeranplatz
+- TOP 45.45.4: Erinnerungsverfahren Attenkoferstr
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budgetmittel für Eigenveranstaltungen
+- TOP 47.47.2: Verwendungsnachweis SC Armin
+- TOP 47.47.3: Verwendungsnachweis ASZ-Westpark - Geburtstagsfeiern
+- TOP 47.47.4: Verwendungsnachweis ASZ-Westpark - Über-60-Disco
+- TOP 47.47.5: Verwendungsnachweis Kath. Kirchenstiftung St.Thomas-Morus
+- TOP 47.47.6: Verwendungsnachweis Kirchenchor St.Philippus
+- TOP 47.47.7: Verwendungsnachweis Kontrapunkt-Seitensprünge Tunnelprojekt Audi-Dome
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Streckenführung U6-BV-Empfehlung-Fristverlängerung
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Vollzug BaumschutzVO
+- TOP 55.55.2: Firstverlängerung BV-Empfehlung Schaffung einer Diskussionsreihe
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Vorkaufsrecht
+- TOP 56.56.2: (U) Siedlungsgebiet Sendling/Westpark Umzug der Einrichtung der Quartierbezogenen Bewohnerarbeit von der Hinterbärenbadstraße in die Badgasteiner Straße 5 (ehemaliges ASZ) Produkt 40367200, Quartierbezogene Bewohnerarbeit Bedarfsgenehmigung Errichtung eines Nachbarschaftstreffs in der Badgasteiner Straße Antrag Nr. 14-20 / A 03653 .............................................. Zukünftige Nutzung für die ehemaligen Räumlichkeiten des ASZ Badgasteiner Straße 5 Empfehlung Nr. 14-20 / E 01725 ......................................
+- TOP 57.57.1: (U) Zahl der Schülerinnen, Schüler und Klassen an den Beruflichen Schulen in der Trägerschaft der Landeshauptstadt München im Schuljahr 2018/2019 Stand: 20.10.2018
+- TOP 57.57.2: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 57.57.3: (U) Rückkehr zur Grünflächenquote von 32m² pro Einwohner Empfehlung Nr. 14-20 / E 02399 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 57.57.4: (U) Gesamtkonzeption Fahrradparken in München - Fortschreibung und Erweiterung des Fahrradstellplatzkonzeptes Fahrradabstellen 4 - Pilotprojekt für saisonale Umwandlung von Kfz-Stellplätzen Antrag Nr. 08-14 / A 00241 vom 21.08.2008 Radlhauptstadt 2.0 - II. Ausbau und Verbesserung der Radverkehrsinfrastruktur für mehr, schnelleres und sichereres Radfahren! Antrag Nr. 08 - 14 / A 04233 vom 07.05.2013 Fahrradstellplatzprogramm für die Radlhauptstadt Antrag Nr. 14-20 / A 00418 vom 11.11.2014 Offensive für Radl-Parkplätze Antrag Nr. 14-20 / A 01680 vom 18.12.2015 Umwandlung von den Parkplätzen vor den Eiscafés Sarcletti und Nymphenburger Eisalm in Fahrradabstellplätze BA-Antrags-Nr. 14-20 / B 02536 vom 17.05.2016 Radtourismus in München II: Stellplätze für Fahrräder von Mehrtagestouristen Antrag Nr. 14-20 / A 02301 vom 08.07.2016 Vollautomatische Fahrradtiefgarage I Antrag Nr. 14-20 / A 02465 vom 15.09.2016 Vollautomatische Fahrradtiefgarage II Machbarkeitsstudie für eine vollautomatische Fahrradtiefgarage zur Nutzung des Hohlraums am Wettersteinplatz Antrag Nr. 14-20 / A 02466 vom 15.09.2016 Regelungen zur Aufstellung von Fahrradstellplätzen auf öffentlichem Grund BA-Antrags-Nr. 14-20 / B 02767 vom 13.09.2016 Radabstellsituation am Ostbahnhof verbessern Antrag Nr. 14-20 / A 02388 vom 08.08.2016
+- TOP 57.57.5: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 57.57.6: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 57.57.7: (U) Mehrjahresinvestitionsprogramm (MIP) 2018 - 2022 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Stellungnahmen der Bezirksausschüsse
