@@ -1,0 +1,8 @@
+# TOP 4.8: Straßeninstandsetzungsprogramm für den Ostpreußendamm – Umsetzung des Beschlusses Nr. 253/V zur Drs. 0343/ V (neu)
+
+- Sitzung: 7. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau (2019-03-27)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=84003
+- Ergebnis: im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=84003
