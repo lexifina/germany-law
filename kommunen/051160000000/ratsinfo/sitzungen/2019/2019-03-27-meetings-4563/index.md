@@ -1,0 +1,55 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-03-27T15:00:00+01:00
+- Ende: 2019-03-27T20:05:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4563
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4563
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 33. Sitzung des Rates am 29.08.2018 - öffentlicher Teil - Siehe Anlage - Niederschrift ohne Einwendung
+- TOP 2: Bürgerbegehren Kein Verkauf von Haus Erholung - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 2.1: Weiterentwicklung Abteiberg - Ohne Abstimmung
+- TOP 2.1.1: Weiterentwicklung Abteiberg - Mit Stimmenmehrheit beschlossen
+- TOP 2.1.2: Weiterentwicklung Abteiberg - Mit Stimmenmehrheit abgelehnt
+- TOP 3: Bericht über die Anwendung von Zuwendungen gem. § 2 der Zuständigkeitsordnung für die Zeit vom 01.01 - Kenntnisnahme
+- TOP 4: Nebentätigkeiten OB - Kenntnisnahme
+- TOP 5: Hundesteuersatzung; Zweitwohnungssteuersatzung; - Mit Stimmenmehrheit beschlossen
+- TOP 6: Beteiligung der NEW AG - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 7: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2018 (6. Nachweisung) - Kenntnisnahme
+- TOP 9: Änderungsverordnungen ordnungsbehördliche Verordnungen verkaufsoffene Sonntage 2019 - Mit Stimmenmehrheit beschlossen
+- TOP 10: Sechster Nachtrag Gebührensatzung Rettungsdienst - Einstimmiger Beschluss
+- TOP 11: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) - Mit Stimmenmehrheit abgelehnt
+- TOP 11.1: Vorlage 3339/IX-Sanierung der Liegenschaften Bismarckstr. 97 und 99 ("BIS-Zentrum") - Mit Stimmenmehrheit abgelehnt
+- TOP 11.2: Sanierung der Liegenschaften Bismarckstr. 97 und 99 („BIS-Zentrum“) 3339/IX - Mit Stimmenmehrheit beschlossen
+- TOP 12: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Einstimmiger Beschluss
+- TOP 13: Leistungsvereinbarungen zur psychosozialen Begleitung - Mit Stimmenmehrheit beschlossen
+- TOP 14: Errichtung eines Kraftraums für das Schulzentrum Hardt. - Einstimmiger Beschluss
+- TOP 15: Soziale Stadt Alt-Mönchengladbach – Beschluss der Richtlinie zum Hof- und Fassadenprogramm - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Naturdenkmalverordnung - Einstimmiger Beschluss
+- TOP 16.1: Vorlage 3431/IX - Mit Stimmenmehrheit abgelehnt
+- TOP 17: Kohlekommission - Kenntnisnahme
+- TOP 17.1: Vorlage 3671/IX Kommission Wachstum, Strukturwandel und Beschäftigung - Mit Stimmenmehrheit abgelehnt
+- TOP 18: Wohnumfeldverbesserung bei bürgerschaftlichem Engagement 2018; 2. Teil - Einstimmiger Beschluss
+- TOP 19: Digitale Pilotschule Mönchengladbach / hier: Ausführungsbestimmungen - Mit Stimmenmehrheit beschlossen
+- TOP 20: Kampagne Grundsicherung im Alter - Mit Stimmenmehrheit abgelehnt
+- TOP 21: Unterstützung der 1. Community – ehemalige Heimkinder e. V. - Einstimmiger Beschluss
+- TOP 22: Grundsatzbeschluss über Baulandvergabe usw. - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Übernahme der jährlichen Mitgliedsbeiträge Mieterverein - Vom Antragsteller zurückgezogen
+- TOP 24: Errichtung eines Ausschusses für Wohnungspolitik und Wohnungsförderung - Mit Stimmenmehrheit abgelehnt
+- TOP 25: Schottergärten - Mit Stimmenmehrheit abgelehnt
+- TOP 25.1: Vorlage 3724/IX: Schottergärten - Mit Stimmenmehrheit abgelehnt
+- TOP 26: Public Corporate Governance Kodex in der Metropolregion - Mit Stimmenmehrheit abgelehnt
+- TOP 27: Außerplanmäßige Finanzmittel dür die Erweiterung der Angebote des Gesundheitsamtes - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 28: Sachstandsbericht Besetzung Geschäftsführer-/ Vorstandspositionen städt. Beteiligung - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 30: Weiterentwicklung Abteiberg
+- TOP 31: Anfragen und Mitteilungen
+- TOP 31.1: Anfrage von Ratsherrn Baus, FDP
+- TOP 31.2: Mitteilung durch Oberbürgermeister Reiners
