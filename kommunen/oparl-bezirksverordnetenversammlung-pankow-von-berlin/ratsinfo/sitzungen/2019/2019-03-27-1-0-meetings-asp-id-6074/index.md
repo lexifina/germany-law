@@ -1,0 +1,136 @@
+# 23. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2019-03-27T17:30:00+01:00
+- Ende: 2019-03-27T22:20:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=6074
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6074
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=183184
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - (offen)
+- TOP 1.5.1: Unterstützung des Bezirksamtes für Bürgerengagement im Thälmannpark - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl einer Bürgerdeputierten - gewählt
+- TOP 1.9: Wahl eines stellv. Bürgerdeputierten - gewählt
+- TOP 1.10: Nachwahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.11: Aufhebung der Schule an der Heide mit dem Förderschwerpunkt „Lernen“ (Schulnummer 03S07) in 13156 Berlin, Hermann-Hesse-Straße 48 bis 52 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Gründung von Schulbauausschüssen fördern - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Auszeichnung des Bezirks Pankow als »Kinderfreundliche Kommune« - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Pissoirs auf der Schönhauser Allee und am Bahnhof Pankow aufstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Raum für Kinderträume - in der BVV abgelehnt
+- TOP 1.16: Flächensparendes und sozialverträgliches Bauen in Pankow - in der BVV abgelehnt
+- TOP 1.17: Verbesserung der Aufenthaltsqualität auf dem Ostseeplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Erhalt der Kleingartenanlage „Am Feldweg e. V.“ - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fontane-Eck im Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Einrichtung weiterer Eltern-Kind-Zimmer prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Bezirkssportfest für Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Bienen schützen – Prävention, Information und Behandlung vor Tötung - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Reinigungsschächte in der Blankenburger Straße - in der BVV abgelehnt
+- TOP 1.24: Musikalische Früherziehung fördern – Kooperationen zwischen Musikschule und Kitas ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Mit sicherem Schwung über die Kreuzung – Anlehnbügel/Festhaltebügel für Radfahrende in Pankow einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Güllweg sanieren, Befahrbarkeit mit dem Fahrrad verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Alles neu in der Neumannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Erhöhung der Verkehrssicherheit für spielende Kinder im "Göhrener Ei“ - überwiesen
+- TOP 1.29: Karaoke im Mauerpark auch im Jahr 2019 sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Friedrich-Engels-Straße: Tonnagebegrenzung auf 7,5 t & Geschwindigkeitsbegrenzung auf 10 km/h - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Weg im Park am Kreuzpfuhl - im Ausschuss abgelehnt
+- TOP 1.32: Für ein klimaneutrales Pankow! - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: #Friday‘sForFuture ist gelebte politische Bildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Mauerpark als Kulturstandort sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Sichere Querung des Lindenberger Weges in Berlin-Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Straßenbenennung nach Adolf Wermuth - in der BVV abgelehnt
+- TOP 1.37: Paritätsgesetz für das Land Berlin unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.38: Sicherer Schulweg in der Grunowstraße - überwiesen
+- TOP 1.39: Grundlagen und Regeln für Straßenmusik im Mauerpark - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Missbilligung des stellvertretenden Bürgermeisters und Bezirksstadtrates Vollrad Kuhn - in der BVV abgelehnt
+- TOP 1.41: Reinigung Hinweisschilder im Schlosspark - in der BVV abgelehnt
+- TOP 1.42: Gerechte Personalausstattung der Unterhaltsvorschussstelle - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Einziehung von Margarete-Sommer-Straße und Virchowstraße als öffentliche Straßen - überwiesen
+- TOP 1.44: Arbeiten und Planungen für den B-Plan 3-69 umgehend einstellen - vertagt
+- TOP 1.45: Patenschaften für Bänke in Pankow - überwiesen
+- TOP 1.46: Kein Aufzug im Milieuschutz - überwiesen
+- TOP 1.47: Temporäre Spielstraße Gudvanger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Sanierungskonzept für bezirkliche Kulturbauten erstellen - überwiesen
+- TOP 1.49: Lärmschutz auf der westlichen Seite der Autobahn A 114 - vertagt
+- TOP 1.50: Geschlechtergerechte Sprache auf den Seiten des Bezirksamtes und der BVV konsequent und einheitlich anwenden! - überwiesen
+- TOP 1.51: Workshop zum Thema Smart City/LoRaWAN - ohne Änderungen in der BVV beschlossen
+- TOP 1.52: Lärmschutz für vom Fluglärm TXL betroffene Haushalte einfordern - überwiesen
+- TOP 1.53: Anmeldung für Schwimmkurse bei den Berliner Bäder-Betrieben verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.54: »Hinterlandmauer« im Mauerpark endgültig legalisieren - vertagt
+- TOP 1.55: Rosenthal als Haltepunkt für die Heidekrautbahn - überwiesen
+- TOP 1.56: Nutzung des öffentlichen Raumes durch Parteien - vertagt
+- TOP 1.57: Querungssicherheit Ecke Bucher Chaussee/ Hofzeichendamm erhöhen - überwiesen
+- TOP 1.58: Radinfrastruktur im Bezirk Pankow - vertagt
+- TOP 1.59: Photovoltaikanlagen auf Schuldächern - überwiesen
+- TOP 1.60: Barrierefreier und gefahrloser Zugang zum Anton-Saefkow-Park - vertagt
+- TOP 1.61: Querungssicherheit Blankenburger Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.62: Borkumstraße - überwiesen
+- TOP 1.63: Fahrradfahren in der geschützten Grünanlage „Am Weißen See“ - überwiesen
+- TOP 1.64: Erhöhung der Schulwegsicherheit im Komponistenviertel - überwiesen
+- TOP 1.65: Verwendung der Ausschlussklausel für alle öffentlichen Veranstaltungen - vertagt
+- TOP 1.66: Das Bezirksamt informiert zum Berliner Informationsfreiheitsgesetz - überwiesen
+- TOP 1.67: „Sportflächen in Blankenburg erweitern“ - überwiesen
+- TOP 1.68: Sicher durch die Mühlenstraße! - überwiesen
+- TOP 1.69: Mehr Verkehrssicherheit an der Tram-Haltestelle Heinersdorf Kirche - überwiesen
+- TOP 1.70: Vorfahrt für Schüler*innen - Gehwegvorstreckungen einrichten und sichern - überwiesen
+- TOP 1.71: Sichere Fußgängerüberquerung der Schönhauser Allee - überwiesen
+- TOP 1.72: Mittelpromenade der Bötzowstraße qualifizieren - überwiesen
+- TOP 1.73: Solitäre Gehölzpflanzung auf dem Südrondell der Margaretenaue - überwiesen
+- TOP 1.74: Freitagsdemos - dem anhaltendem Fernbleiben vom Unterricht gegenwirken! - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Umbaupläne des Senates für den Jahn-Sportpark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Übertragung des Standortes Fröbelstraße 17 in das SILB - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Projekt "Pankower Tor" voranbringen - vertagt
+- TOP 2.4: Projekt Pankower Tor: Vorbereitende und verbindliche Bauleitplanung im Parallelverfahren durchführen - vertagt
+- TOP 2.5: Sowjetisches Ehrenmal in die Liste historischer Orte aufnehmen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Theater o.N. im Kollwitzkiez halten - vertagt
+- TOP 2.7: Interkulturelle Vielfalt der Verwaltung ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Blindenleitsystem in den bezirklichen Gebäuden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Open-Data Initiative Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Arbeitsfähigkeit der BVV Pankow sichern, Sanierungsmaßnahmen sinnvoll durchführen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Papierloses Arbeiten ermöglichen, WLAN in den Räumen der BVV einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Städtebauförderung für die Quartiere Langhansstraße und Pankow Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Klimaschutzprojekte durch Fördermöglichkeiten realisieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Bezirkliche Seniorenvertretung stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Errichtung einer Gedenkstätte Fluchttunnel im Mauerpark - vertagt
+- TOP 2.16: Parkraumbewirtschaftung und Anwohnerparken für die Carl-Legien-Siedlung und ihre Umgebung - vertagt
+- TOP 2.17: MUF-Standorte im Innenstadtbereich Pankows einrichten – Integration erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Verkehrssicherheit vor der Kita Streustraße 41 verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Konzept und Umsetzungsweg für ein Informationsblatt über Bezirkspolitik in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Transparentes Verfahren auch bei Mietverträgen bezirklicher Objekte - vertagt
+- TOP 2.21: Erzieher*innen und Sozialarbeiter*innen besser bezahlen – Möglichkeiten des TV-L ausnutzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Keine Werbung der Bundeswehr an Pankower Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Verkehrssicherheit in der Triftstraße im Ortsteil Französisch Buchholz verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Praxis der Beantwortung kleiner Anfragen verbessern - vertagt
+- TOP 2.25: Abwasseranschlüsse für schnell wachsende Siedlungsgebiete - vertagt
+- TOP 2.26: Einwohnerversammlung zum Bebauungsplan 3-59 (ehemals XIX-48c) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: „Klothilde“ muss bleiben! - vertagt
+- TOP 2.27.1: Temporärer Containerstandort für das Jugendprojekt Klothilde - vertagt
+- TOP 2.28: Tempo-30 in der Piesporter Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Fahrradweg auf die Parkspur der Schönhauser Allee verlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Abwasseranschlüsse für das Siedlungsgebiet in Französisch Buchholz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Transparenz für die Sanierung von Gehwegen im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: Mehr Sicherheit für Fußgänger*innen in der Grabbeallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Mehrsprachiger Infoflyer für obdachlose Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Beleuchtung der Brücke Sonnenburger Straße/Dänenstraße wiederherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: 7,5-Minuten-Takt der M1 beibehalten und perspektivisch verkürzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2.36: Artenschutz bei Sanierung des Bezirksamtsgeländes Fröbelstraße 17 beachten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.37: Verkehrskollaps verhindern – Keine parallelen Baumaßnahmen in Blankenburg und Malchow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Mehr Ehrenamtliche und Partner*innen für die Ehrenamtskarte Berlin Brandenburg gewinnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Gewährleistung der Schulwegsicherheit Straße am Friedrichshain - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Mülltrennung & Recycling im Bezirksamt Pankow - vertagt
+- TOP 2.41: Informationsveranstaltung zum Bebauungsplan 3-59 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.43: Ausübung des Vorkaufsrechts für das Grundstück Berliner Straße 84, 13189 Berlin - mit Abschlussbericht zur Kenntnis genommen
