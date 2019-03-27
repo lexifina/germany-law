@@ -1,0 +1,51 @@
+# 7. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-03-27T17:00:00+01:00
+- Ende: 2019-03-27T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4040
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4040
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 06.03.2019 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Zebrastreifen vor der Dreilinden-Grundschule - vertagt
+- TOP 4.2: Ampel (LZA) auf der Osdorfer Straße (Höhe Réaumurstraße) benötigt! - im Ausschuss abgelehnt
+- TOP 4.3: Radfahrer auf dem Gehweg - erledigt
+- TOP 4.4: Ladezone und mehr Kurzzeitparken, bessere Querung am S-Bahnhof Botanischer Garten - vertagt
+- TOP 4.5: Sichere Radführung in der Berliner Straße und bessere Einsehbarkeit an den Einmündungen Gartenstraße, Seehofstraße, Vopeliuspfad - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.6: Fahrradabstellmöglichkeiten in der Mittelstraße und weiteren benachbarten Straßen des U- und S-Bahnhofes Rathaus Steglitz - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Alle geplanten Standorte der öffentlichen Toiletten realisieren - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.8: Straßeninstandsetzungsprogramm für den Ostpreußendamm – Umsetzung des Beschlusses Nr. 253/V zur Drs. 0343/ V (neu) - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.9: Zebrastreifen für die Westseite des Breitenbachplatzes - vertagt
+- TOP 4.10: Fahrradwege in der Königsberger Straße - vertagt
+- TOP 4.11: Schlaglöcher in der Podbielskiallee - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.12: Fahrradwracks Gustav-Hartmann-Platz - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.13: Ampelanlage Potsdamer Straße/Kreuzung Fürstenstraße einrichten - vertagt
+- TOP 4.14: Eine öffentliche Toilette für Lichterfelde-West - mit Änderungen im Ausschuss beschlossen
+- TOP 4.15: Endlich Platzbenennung nach Richard Draemert möglich! - im Ausschuss abgelehnt
+- TOP 4.16: Instandsetzung der sechs Holzbänke ohne Lehne auf dem Ludwig-Beck-Platz - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.17: Kennzeichnung des Übergangs in der Breisgauer Straße - vertagt
+- TOP 4.18: Kriterien für die Weiterentwicklung des Dahlemer Wegs - vertagt
+- TOP 4.19: Verkehrssicherung - Bushaltestelle Jägerstraße - vertagt
+- TOP 4.20: Wolfensteindamm: LSA sicher schalten und Rotlichthalt überwachen - mit Änderungen im Ausschuss beschlossen
+- TOP 4.21: Fahrradparkhäuser statt Steuergeldverschwendung – intelligente Radverkehrsförderung im Bezirk - mit Änderungen im Ausschuss beschlossen
+- TOP 4.22: Verkehr in der Schloßstraße Richtung A103 flüssiger gestalten - vertagt
+- TOP 4.23: Parkplätze um den Kranoldplatz sichern - vertagt
+- TOP 4.24: Poller-Radweg auf dem Dahlemer Weg zurückbauen - vertagt
+- TOP 4.25: Barrierefreiheit sichern - vertagt
+- TOP 4.26: Zusätzliche Packstation im Bezirk - vertagt
+- TOP 4.27: Fahrradweg in der Finckensteinallee - vertagt
+- TOP 4.28: Fahrradweg in der Königsberger Straße - vertagt
+- TOP 4.29: Verbesserung der Verkehrssituation am Fußgängerüberweg Teltower Damm (Höhe Betten-Schmidt) - vertagt
+- TOP 4.30: Schulwegsicherung für die Kastaniengrundschule in der Morgensternstraße Ecke Schillerstraße - vertagt
+- TOP 4.31: Abbiegeverbot Crailsheimer Straße - vertagt
+- TOP 4.32: Eine Lichtzeichenanlage für die Potsdamer Chaussee - vertagt
+- TOP 5: Verschiedenes - erledigt
