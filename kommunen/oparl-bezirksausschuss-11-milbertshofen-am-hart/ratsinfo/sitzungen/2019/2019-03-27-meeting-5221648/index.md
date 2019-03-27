@@ -1,0 +1,94 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-03-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5221648
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5221648
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Stadtbezirksbudget
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Olympiadorf - Verbleib (Helene-Mayer-Ring 6) bzw. Neuinstallation eines Postbank-Geldautomaten
+- TOP 4.3.1.: Erhöhung des Anteilsatzes für eigene BA-Veranstaltungen - Unterstützung des BA-Antrag Nr. 14-20 / B05769 - Antwortschreiben
+- TOP 4.3.2.: Schulsozialarbeit an allen Gymnasien im 11. Stadtbezirk
+- TOP 4.4.1.: Einführen eines Winterdienstes auf dem Fußweg vom El-Thouni-Weg zur Straßbergerstraße
+- TOP 4.4.2.: Durchsetzen der StVO in der Humperdinckstraße und verstärkte Kontrollen im ganzen Stadtbezirk 11 a) Polizei - Antwortschreiben b) KVR - Antwortschreiben
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Verein Stadtteilarbeit; Stadtteiltreff FaMoos Kindertheater am 18.04., 19.05. und 24.11.2019 1.280,00 / Az. 0262.0-11-0311
+- TOP 6.1.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Hugo-Wolf-Str. Selbstbehauptungskurs im Oktober 2019 1.065,00 € / Az. 0262.0-11-0312
+- TOP 6.1.3.: (E) Stadtbezirksbudget Domagkateliers GmbH Projekt "Goldraum" vom 15.04. - 31.12.2019 8.000,00 Euro, Az.: 0262.0-11-0313
+- TOP 6.1.4.: (E) Stadtbezirksbudget kick it international e.V. kick it Familientag am 01.05.2019 4.030,00 Euro, Az.: 0262.0-11-0315
+- TOP 6.1.5.: Anbringen von Haltverbotsschildern vor dem Behindertenzugang, Aufstellen von drei Blumentrögen, Fassadengestaltung an der Stadtbibliothek Milbertshofen
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Einbeziehung des PKW-Verkehrs Permanederstr. in die Fußgängerampel vor dem Gymnasium München Nord
+- TOP 6.2.2.: (E) + (U) Ausreichende Parkmöglichkeiten im Bereich des Wohnhauses Lieberweg - Ecke Wiegandweg, mit Einbindung des geplanten EDEKA-Marktes Empfehlung Nr. 14-20 / E 01103 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 21.07.2016 - Sitzungsvorlage Nr. 14-20 / V12733 - Rückmeldung Vollzug des Beschluss des BA 11 aus der BA-Sitzung 11/18
+- TOP 6.2.3.: (E) Aufwertung des Ehrenamtes „Schulweghelfer/in“ BV-Empfehlung Nr. 14-20 / E 02162 der Bürgervers. des 11. SB vom 19.07.2018 Sitzungsvorlage Nr. 14-20 / V 12795 - Stellungnahme zu den Forderungen des BA 11 sowie seines Antrags Nr. 14-20 / B 05506
+- TOP 6.2.4.: (E) Fahrgassenversatz errichten am Schulweg Keferloherstraße zum Schutz der Kinder
+- TOP 6.2.5.: Stellungnahme der FW/ÖDP-Fraktion zur oben benannten Beschlussvorlage (TOP 6.2.4)
+- TOP 7.1: Plenum
+- TOP 7.1.1.: Pausenregelung für die Plenumssitzungen des BA 11
+- TOP 7.1.2.: Mehr Polizeistellen und bessere Rahmenbedingungen für die Polizeibeschäftigten
+- TOP 7.2.1.: Informationsanfrage zum Stand der Erweiterung des staatlichen Gymnasiums München-Nord
+- TOP 7.2.2.: Biodiversität: Zwei Wildblumenwiesen im Stadtbezirk 11
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Ausweisen eines Zweirichtungsradwegs im Bereich der Ingolstädter Straße Ost stadteinwärts
+- TOP 7.4.2.: Weniger Schadstoffe aus dem Straßenverkehr durch intelligente Verkehrssteuerung
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Spiridon-Louis-Ring 21 a) Bauvorhaben: Umbau und Erweiterung der Olympiahalle München b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.2.: Karlsbader Str. 13 a) Bauvorhaben: Neubau eines Doppelhauses mit Doppelgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.3.: Preußenstr. 35 - Antrag auf Beseitigung von geschütztem Baumbestand Grund: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.2.4.: Schulbauoffensive 2013-2030 - Beschlussentwurf -
+- TOP 8.2.5.: Mehr Grün im Straßenraum BA-Antrag Nr. 14-20 / B 05589 des Bezirksausschusses des Stadtbezirkes 3 - Maxvorstadt vom 11.12.2018
+- TOP 8.2.6.: Gemeinde Oberschleißheim: Gewerbegebiet östlich der Mittenheimer Straße (Bebauungsplan Nr. 79) - Bauleitplanverfahren
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltungen "Mobilspiel" jeweils freitags ab 03.05.2019 entlang der Diagonalen zwischen Neuherbergstraße und Mira-Einkaufszentrum und „Drachenfest“ am 27.09.2019 an der Nordhaide
+- TOP 8.3.2.: Veranstaltung "Kinder- und Familienprogramm ICF Kids" im Petuelpark am 04.05., 01.06., 06.07., 03.08., 07.09. und 12.10.2019
+- TOP 8.3.3.: Plakatieren von kulturellen Veranstaltungen durch die Bezirksausschüsse - Unterstützung des BA 25
+- TOP 8.3.4.: Veranstaltung "E-Bike Days München" im Olympiapark am 24. bis 26.05.2019
+- TOP 8.3.5.: Spielaktionen der AG Spiellandschaft Stadt 2019 - Antrag auf Sammelgenehmigung
+- TOP 8.3.6.: Veranstaltung "Skate-Programm High-Five" im Olympiapark am 29.04. bis 31.10.2019
+- TOP 8.3.7.: Veranstaltung "Radlsicherheitscheck" auf dem Curt-Mezger-Platz am 30.04.2019
+- TOP 8.3.8.: Veranstaltung "Aktion zum Weltspieltag" auf der Grünanlage Nordhaide am 28.05.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Wallensteinstraße - Absolutes Haltverbot
+- TOP 8.4.2.: Flächenüberlassung Flst. 223/55 Gemarkung Milbertshofen, Ecke Ingolstädter-/Kollwitzstraße zur Bettfedernreinigung vom 10.05. - 15.05.2019
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) „La Fantasia“ - Riesenfeldstr. 79 b) "Café Mo66" - Moosacher Str. 66
+- TOP 9.1.2.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: Kath. Pfarramt St. Lantpert, Singidunum-Chor München
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheide: a) Moosacher Str. 42-50 - Zustimmung i.R.d. Baugnehmigung b) Keferloherstr. 143 - Genehmigung
+- TOP 9.2.2.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 9.2.3.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Strelitzer Straße 4
+- TOP 9.2.4.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.5.: Meldelisten Bauvorhaben vom 04.02.2019 bis 24.02.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Zahl der Schülerinnen, Schüler und Klassen an den städtischen und staatlichen Gymnasien, an den städtischen und staatlichen Realschulen, an den Schulen des Zweiten Bildungsweges sowie an den Schulen besonderer Art, an den öffentlichen Grund-, Mittel- und Förderschulen, den städtischen Tagesheimen und heilpädagogischen Tagesstätten im Schuljahr 2018/2019
+- TOP 9.3.2.: Versammlungsanzeige "Motorradcorso" mit Beginn im Olympiapark am 04.05.2019
+- TOP 9.3.3.: (U) Verlängerung der Laufzeiten von Flüchtlingsunterkünften 1. Stadtbezirk - Altstadt-Lehel 10. Stadtbezirk - Moosach 11. Stadtbezirk - Milbertshofen-Am Hart 13. Stadtbezirk - Bogenhausen 14. Stadtbezirk - Berg am Laim 15. Stadtbezirk - Trudering-Riem 16. Stadtbezirk - Ramersdorf-Perlach 19. Stadtbezirk - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln 21. Stadtbezirk - Pasing-Obermenzing 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Pommernstraße - absolutes Haltverbot (Wunsch des BA 11 berücksichtigt) b) Kantstraße -Feuerwehreinfahrten c) Ingolstädter Straße -Wegweisung zu den Kasernen d) Schleißheimer Straße 275, 279, 299 - erleichterte str.bez. AO von Tempo 30
+- TOP 9.4.2.: Arbeiten im Straßenraum (Netzausbau und Netzerneuerung): a) Knorrstraße - Stromprojekt b) Moosacher Straße - Trinkwasserprojekt
