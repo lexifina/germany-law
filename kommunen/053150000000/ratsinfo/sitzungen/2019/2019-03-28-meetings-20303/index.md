@@ -1,0 +1,76 @@
+# 39. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-28T17:06:00+01:00
+- Ende: 2019-03-28T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20303
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20303
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Beantwortung einer Anfrage der Fraktion Die Linke betreffend "Nah- und Fernwärme in Köln" - Kenntnis genommen
+- TOP 1.2: Beantwortung einer Anfrage der FDP-Fraktion betr. "städtische Mitarbeiter für den Wohnungsbau" - Kenntnis genommen
+- TOP 1.3: Erbbaurechtsbestellung als Instrument der Wohnungs- und Liegenschaftspolitik– ein Weg für Köln? - Kenntnis genommen
+- TOP 1.4: Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Neues Casino in Deutz – wie ist der Sachstand? - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage "Neues Casino in Deutz – wie ist der Sachstand?" (AN/0374/2019) - Kenntnis genommen
+- TOP 2.2.2: Bauflächen für Seniorenheime
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz - geändert beschlossen
+- TOP -: Änderungsantrag zu "Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz" 3880/2018 - geändert beschlossen
+- TOP -: Einwohner beteiligen, Chancen für eine schnelle Belebung nutzen! - Änderungsantrag zu Top 4.2.2 "Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz" - geändert beschlossen
+- TOP 4.2.2: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Lupenraum Via Culturalis – Ein Handbuch für den öffentlichen Raum - Kenntnis genommen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Qualifizierungmaßnahme Quartiersplatz Am Salzmagazin (Eigelstein); hier: Bedarfsfeststellungsbeschluss und Durchführung eines Qualifizierungsverfahrens - geändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - geändert beschlossen
+- TOP -: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): - geändert beschlossen
+- TOP 6.2: Einzelhandels- und Zentrenkonzept (EHZK) - Fortschreibung - zurückgestellt
+- TOP 6.3: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Lindweilerweg in Köln-Nippes
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: Nördlich Scheidtweilerstraße in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: 6. Satzung zur Änderung der Sondernutzungssatzung - endgültig zurückgezogen
+- TOP 15.2: Eisenbahnersiedlung; Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Proz-Gremberghoven - ungeändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Beschluss der Bezirksvertretung 3 (Lindenthal) auf Änderung des Bebauungsplanes Nummer 64450/05 - ungeändert beschlossen
+- TOP 17: Mitteilungen
+- TOP 17.1: Fertigstellung des Monitoring Stadtentwicklung Köln - Kenntnis genommen
+- TOP 17.2: Mitteilung zum Sachstand des Zwischennutzungskonzepts am Ebertplatz - Kenntnis genommen
+- TOP 17.3: Beantwortung der Anfrage des Integrationsrates - Kenntnis genommen
+- TOP 17.4: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 17.5: Industriestraße 131 in Köln-Rodenkirchen, 70380/02; Offenlage - Kenntnis genommen
+- TOP 17.6: Umsetzung Wohnungsbauprogramm 2018 - Kenntnis genommen
+- TOP 17.7: Erneute Offenlage gemäß § 4 a Abs. 3 BauGB Bebauungsplan Nr. 73480/06; Arbeitstitel: Kochwiesenstraße in Köln-Holweide - Kenntnis genommen
+- TOP 17.8: Planfeststellungsbeschluss für den Umbau des Autobahnkreuzes Köln-Nord - Kenntnis genommen
+- TOP 17.9: Fortsetzung des Verfahrens zur Aufstellung des Bebauungsplanes Nummer 68454/04; Arbeitstitel: Südlich Ottoplatz in Köln-Deutz - Kenntnis genommen
+- TOP 17.10: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 17.11: Mehrfachbeauftragung Campus Kartause (Kartäuserwall 24b), Köln Altstadt-Süd - Kenntnis genommen
+- TOP 17.12: Bebauungsplan-Entwurf 65520/02; Arbeitstitel: Geestemünder Straße in Köln-Niehl; hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.13: Stadtstrategie "Kölner Perspektiven" Zielgerüst - Kenntnis genommen
+- TOP 17.14: Information zu Teilnahme an Förderaufrufen im Bereich Städtebau - Kenntnis genommen
+- TOP 17.15: Neue Kölner Statistik 1/2019 - Kenntnis genommen
+- TOP 17.16: Familienfreundliches Köln - Kita-Ausbau in Köln stärken - Kenntnis genommen
+- TOP 17.17: Neue Kölner Statistik 2/2019 - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
