@@ -1,0 +1,80 @@
+# 36. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-03-28T17:00:00+01:00
+- Ende: 2019-03-28T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20524
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20524
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfragestunde zum Dienstagszug in Nippes
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Grillen in Parks - Kenntnis genommen
+- TOP 7.1.2: Erläuterung zu Maßnahme M58 (Mathilde-von-Mevissen Grundschule) der Fortschreibung der Schulentwicklungsplanung 2018 - Kenntnis genommen
+- TOP 7.1.3: Zuständigkeit zur Verkehrsüberwachung in der "KVB-Straße" an der Stadtbahnhaltestelle der Linie 12 in Niehl - Kenntnis genommen
+- TOP 7.1.4: AN 4270/2019 Pflegeplätze im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Platzfläche vor der verwaisten ehem. VfL 99 Tribüne an der Rennbahnstraße - Kenntnis genommen
+- TOP 7.2.2: Bauvorhaben auf dem Gelände Getränkehandel Falko, Merkenicher Str. 210 in Niehl - Kenntnis genommen
+- TOP 7.2.3: Von der Stadt Köln verhängter Baustopp für das Grundstück Nordstraße 17 in Nippes - Kenntnis genommen
+- TOP 7.2.4: Alte Hausmülldeponie im Bereich geplanter Bebauung Simonskaul - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe neuer Marktzugänge auf Wochenmarkt Wilhelmsplatz Nippes - zurückgestellt
+- TOP 8.1.2: LKW- und Busstandplatz für die Gesamtschule Longerich - geändert beschlossen
+- TOP 8.1.3: Fahrradnadeln Niehler Straße/Schenkendorfstraße - ungeändert beschlossen
+- TOP 8.1.4: Hundekotproblematik in Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.5: Verhinderung des LKW-Lärms am Tunnel Boltensternstraße/An der Schanz - ungeändert beschlossen
+- TOP 8.1.6: Amtliche Benennung des Kreisverkehrs "Niehler Ei" - ungeändert beschlossen
+- TOP 8.1.7: Wartungsarbeiten und gewerbliche Tätigkeiten auf dem ehemaligen Verschiebebahnhof Köln-Nippes - geändert beschlossen
+- TOP 8.1.8: Schnellere Reaktion und längere Grünphasen an den Fußgängerbedarfsampeln Boltensternstraße, Stammheimer Straße und Boltensternstraße, Pionierstraße - geändert beschlossen
+- TOP 8.1.9: Fahrradparkhaus für die Gesamtschule „Südliche Schmiedegasse“ - ungeändert beschlossen
+- TOP 8.1.10: Instandsetzung und Ausbau von Verbindungswegen in Nippeser Parks - geändert beschlossen
+- TOP 8.1.11: LKW Parkverbot in den Parkbuchten am Militärring entlang des Nordparks in der Nähe der Herforder Straße - ungeändert beschlossen
+- TOP 8.1.12: Ankauf des Flurstücks 2179 zwecks Erweiterung der Jugendfarm Wilhelmshof - ungeändert beschlossen
+- TOP 8.1.13: Tiersichere Umzäunung von Kinderspielplätzen im Stadtbezirk Nippes - geändert beschlossen
+- TOP 8.1.14: Einrichtung eines Aktivierungsfonds im Rahmen des Programms "Starke Veedel - Starkes Köln" - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Neusser Straße im Abschnitt der Inneren Kanalstraße und dem Niehler Kirchweg gemäß dem eingereichten Vorentwurf - endgültig zurückgezogen
+- TOP 9.1.2: Sanierung Umkleidehaus Boltensternstraße - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Sportentwicklungsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 9.2.2: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Lindweilerweg in Köln-Nippes - geändert beschlossen
+- TOP 9.2.3: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert beschlossen
+- TOP 9.2.5: Planungsbeschluss für die Sanierung der Medienleitungen im Betriebshof im Botanischen Garten, Amsterdamer Straße 34, 50735 Köln - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Earth Hour 2019 - Kenntnis genommen
+- TOP 10.2.2: Bauvorhaben Escher Str. 270-298 - Kenntnis genommen
+- TOP 10.2.3: Zebrastreifen am Grundschulweg Riehler Tal/Ecke Garthestraße - Kenntnis genommen
+- TOP 10.2.4: Flächenbericht 2018 für die Objekte im Sondervermögen der Gebäudewirtschaft der Stadt Köln, Stand 31.12.2018 - Kenntnis genommen
+- TOP 10.2.5: Vergabe der bezirksorientierten Mittel 2018, die dem Sport zugutegekommen sind - Kenntnis genommen
+- TOP 10.2.6: Ehrenamtspreis "KölnEngagiert 2019" - Kenntnis genommen
+- TOP 10.2.7: Schulweg zur GGS Steinberger Straße im Bereich Merheimer Straße/Wilhelmstraße sicherer gestalten - Kenntnis genommen
+- TOP 10.2.8: Parkverbot und Kontrolle auf der Escher Straße - Kenntnis genommen
+- TOP 10.2.9: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
+- TOP 10.2.10: Planfeststellungsbeschluss für den Umbau des Autobahnkreuzes Köln-Nord - Kenntnis genommen
+- TOP 10.2.11: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 10.2.12: Innerer Grüngürtel in Köln-Nippes - Kenntnis genommen
+- TOP 10.2.13: Gesamtinstandsetzung Mülheimer Brücke – Änderung der Verkehrsführung / Sachstand - Kenntnis genommen
+- TOP 10.2.14: Aufteilung der Fußgänger- und Fahrrad-Rennstrecke am Niederländer Ufer (Az.: 02-1600-182/17) - Kenntnis genommen
+- TOP 10.2.15: Sicherung des Schulweges zur GGS Halfengasse in Alt-Niehl - Kenntnis genommen
+- TOP 10.2.16: Bebauungsplan-Entwurf 65520/02; Arbeitstitel: Geestemünder Straße in Köln-Niehl; hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 10.2.17: Zusatzschilder in verkehrsberuhigten Straßen - Kenntnis genommen
