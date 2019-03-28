@@ -1,0 +1,8 @@
+# TOP 4: Kein Nettoverlust von Grün- und Freiflächen
+
+- Sitzung: 19. öffentliche Sitzung des Ausschusses für Umwelt- und Naturschutz (2019-03-28)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=30771
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=30771
