@@ -1,0 +1,90 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-03-28T17:00:00+01:00
+- Ende: 2019-03-28T20:13:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16399
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16399
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339109.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339109.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339109.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Unfallstatistik und Kriminalitätsentwicklung 2018 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Multifunktionale Sportfläche im Nachbarschaftspark Am Hackenbruch - zur Kenntnis genommen
+- TOP 6: Sandstraße 30 - Erweiterung eines Dreifamilienhauses - einstimmig beschlossen
+- TOP 7: Wormser Weg - barrierefreier Ausbau der Bushaltestelle Wormser Weg - einstimmig beschlossen
+- TOP 8: Bauern- und Handwerkermarkt auf dem Breidenplatz im Jahre 2019 - einstimmig beschlossen
+- TOP 9: Zuschuss an den Boston Club e.V. Düsseldorf - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2019 - einstimmig beschlossen
+- TOP 12: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - vertagt
+- TOP 13: Straßenbahnunfälle im Stadtbezirk 8 - beantwortet
+- TOP 14: Hydranten im Stadtbezirk 8 - beantwortet
+- TOP 15: Güterzugstrecke Rath-Eller im Bereich Bahnübergang Am Hackenbruch - beantwortet
+- TOP 16: Renaturierung Südliche Düssel - Bauabschnitte 2 und 3 - beantwortet
+- TOP 17: Regionalplan - Siedlungsbereiche im Stadtbezirk 8 - beantwortet
+- TOP 18: S-Bahnhöfe im Stadtbezirk 8 - beantwortet
+- TOP 19: Bürgerhaus Eller - beantwortet
+- TOP 20: Regenrückhaltebecken in Eller und Renaturierung im Stadtbezirk 8 - beantwortet
+- TOP 21: Parkplätze im Stadtbezirk 8 - beantwortet
+- TOP 22: Mieterhöhungen durch Modernisierungsmaßnahmen der LEG in Vennhausen - beantwortet
+- TOP 23: Brückensanierung Schlosspark Eller - einstimmig beschlossen
+- TOP 24: Leuchten Schloss Eller und Parkpflegewerk Schlosspark Eller - einstimmig beschlossen
+- TOP 25: Bolzplatz Eller Kamp - einstimmig beschlossen
+- TOP 26: Wasserspielplatz Tannenhofweg - einstimmig beschlossen
+- TOP 27: Baumpflanzungen am Erlenkamp - einstimmig beschlossen
+- TOP 28: Bürgersaal für Lierenfeld - einstimmig beschlossen
+- TOP 29: Bündnis "Eller - tolerant und weltoffen" - vertagt
+- TOP 30: Straßenbenennungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 31: PFT-Boden- und Grundwasserverunreinigung Gerresheim - aktueller Sachstand - zur Kenntnis genommen
+- TOP 32: Verkehrsregelung Alt-Eller - zur Kenntnis genommen
+- TOP 33: Rechtsextremismus in Eller - zur Kenntnis genommen
+- TOP 34: Stellplatzsituation Tulpenweg - zur Kenntnis genommen
+- TOP 35: Kreuzungsumbau Eller Kamp / Kamper Weg - zur Kenntnis genommen
+- TOP 36: Spielgerät Schulhof Volker-Rosin-Schule, GGS Arnstadter Weg 6-16 - zur Kenntnis genommen
+- TOP 37: Jugendzentrum Bernburger Straße 50 - zur Kenntnis genommen
+- TOP 38: Dynamische Fahrgastinformation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Straßenbeleuchtung Posener Straße - zur Kenntnis genommen
+- TOP 40: Fahnenmastschuhe Gumbertstraße / Gertrudisplatz - zur Kenntnis genommen
+- TOP 41: Unfallsituation Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 42: Wormser Weg - barrierefreier Ausbau der Bushaltestelle Wormser Weg - zur Kenntnis genommen
+- TOP 43: Naturnaher Ausbau der Südlichen Düssel - zur Kenntnis genommen
+- TOP 44: Verbindungsweg Vennhauser Allee - Zwickauer Straße - zur Kenntnis genommen
+- TOP 45: Bus on Demand im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Luftreinhalteplan im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Radschutzstreifen Sturmstraße - zur Kenntnis genommen
+- TOP 48: Gestaltungssatzung Zntrum Eller / Gumbertstraße - zur Kenntnis genommen
+- TOP 49: Zweckverband Unterbacher See - zur Kenntnis genommen
+- TOP 50: Bordsteinbsenkung Ecke Ohlauer Weg / Waldenburger Weg - zur Kenntnis genommen
+- TOP 51: Parkbucht Karlsruher Straße 38 - 40 - zur Kenntnis genommen
+- TOP 52: Überplanung Posener Straße zwischen Oderstraße und Reisholzer Straße - zur Kenntnis genommen
+- TOP 53: Barrierefreies Eller - zur Kenntnis genommen
+- TOP 54: Ortsumgehung Oberbilk - Bebauungsplanverfahren / Realisierungszeitraum - zur Kenntnis genommen
+- TOP 55: Ortsumgehung Oberbilk - Verkehrsentlastung für den Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Parkregelung Freiheitstraße - zur Kenntnis genommen
+- TOP 57: Logistik-Zentrum Dillenburger Weg - zur Kenntnis genommen
+- TOP 58: Straßenzustandsbewertung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 59: Ellerkirchstraße - zur Kenntnis genommen
+- TOP 60: Flüchtlingsunterkunft Gatherweg 60 - zur Kenntnis genommen
+- TOP 61: Neubau Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 62: Kulturbahnhof Eller - zur Kenntnis genommen
+- TOP 63: Regionalplan - Siedlungsbereiche im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 64: Baumpflanzungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 65: Lärmschutz A 46 - zur Kenntnis genommen
+- TOP 66: Öffnung von Einbahnstraßen für den Radverkehr in Lierenfeld - zur Kenntnis genommen
+- TOP 67: Verlängerung der U75 bzw. 705 nach Gerresheim - zur Kenntnis genommen
+- TOP 68: Verlängerung der Straßenbahn 705 nach D-Reisholz S - zur Kenntnis genommen
+- TOP 69: Lärmschutz Güterbahnstrecke Rath-Eller und Umbauten Bahnübergänge - zur Kenntnis genommen
+- TOP 70: Fahrbahnmarkierung Reichenbacher Weg / Neusalzer Weg - zur Kenntnis genommen
+- TOP 71: Fahrradbügel Alt-Eller / Gumbertstraße - zur Kenntnis genommen
+- TOP 72: City-Light-Säule Heidelberger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 73: Gestaltung Schlossallee - zur Kenntnis genommen
