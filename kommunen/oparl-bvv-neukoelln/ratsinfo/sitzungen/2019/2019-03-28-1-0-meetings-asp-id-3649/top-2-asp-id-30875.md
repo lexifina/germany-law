@@ -1,0 +1,7 @@
+# TOP 2: Besichtigung des Klärwerks mit Erläuterungen, anschließend weitere Informationen und Diskussion
+
+- Sitzung: 19. öffentliche Sitzung des Ausschusses für Umwelt- und Naturschutz (2019-03-28)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=30875
+- Ergebnis: erledigt
