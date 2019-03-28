@@ -1,0 +1,88 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-03-28T18:10:00+01:00
+- Ende: 2019-03-28T21:12:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2166
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2166
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Mündliche Anfrage zu Top 16.4 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00093131.pdf
+- Ergebnisprotokoll: Mündliche Anfrage zu Top 16.4 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00093131.pdf
+- Wortprotokoll: Mündliche Anfrage zu Top 16.4 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00093131.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Bekanntgabe der über- und außerplanmäßigen Mittelbereitstellungen - Kenntnisnahme
+- TOP 4: Spenden/Sponsoring 2018 - Kenntnisnahme
+- TOP 5: Vom Braunkohlerevier zum Revier der Zukunft (Antrag Nr. 47/19) - mehrheitlich bei
+- TOP 5.1: Gemeinschaftsantrag zum Strukturwandel in Grevenbroich und in der Region (Antrag Nr. 64/19) - mehrheitlich bei
+- TOP 6: Beteiligung der Stadt Grevenbroich an dem Landesprogramm „Heimat-Förderung“ - einstimmig
+- TOP 7: Wohnraumschutzsatzung (Antrag Nr. 270/18) - mehrheitlich bei
+- TOP 8: Flüchtlings- und Integrationsangelegenheiten
+- TOP 9: Bestellung einer/eines ehrenamtlichen Seniorenbeauftragten - einstimmig
+- TOP 10: Entwicklung einer Marke "Heiraten in Grevenbroich" - einstimmig
+- TOP 11: Entscheidung PlanungsA 19.03.2019 + 15.01.2019
+- TOP 11.1: G 215 städtebaulicher Vertrag - einstimmig
+- TOP 11.2: G 219 Aufst.beschl. §13a - einstimmig
+- TOP 11.3: 1. Änderung Satzung Spielflächen Kleinkinder - einstimmig
+- TOP 11.4: G 215 - Satzungsbeschluss - einstimmig
+- TOP 11.5: Rahmenplan Wevelinghoven-Süd Beschluss - einstimmig
+- TOP 11.6: G 114, 1. Änd. - Einstellung Verfahren - einstimmig
+- TOP 11.7: 5. Änd. G 51 - Aufstellungsbeschluss - einstimmig
+- TOP 11.8: 1. Änd. G 127 - Satzungsbeschluss - einstimmig
+- TOP 11.9: 18. Änd. FNP - Beschluss §6 - einstimmig
+- TOP 11.10: G 216 - Satzungsbeschluss - mehrheitlich bei
+- TOP 12: Beantwortung Anträge und Anfragen
+- TOP 12.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 12.2: Status der ISEK-Maßnahmen (Antrag Nr. 37/19) - Kenntnisnahme
+- TOP 12.3: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 13: Schriftliche Anträge
+- TOP 13.1: CDU
+- TOP 13.1.1: Umwidmung der L 142 in Langwaden (Antrag Nr. 65/19) - einstimmig
+- TOP 13.1.2: Grundschule und Kita in der Stadtmitte stärken (Antrag Nr. 61/19) - einstimmig
+- TOP 13.1.3: Für den Erhalt der Stichwahl - kein Sonderweg für NRW! (Antrag Nr. 62/19) - einstimmig
+- TOP 13.1.4: Studentischer Architektenwettbewerb Stadtmitte (Antrag Nr. 63/19) - einstimmig
+- TOP 13.1.5: Bonussystem für Veräußerung von städtischen Baugrundstücken (Antrag Nr. 67/19) - einstimmig
+- TOP 13.2: SPD
+- TOP 13.3: UWG
+- TOP 13.3.1: Sanierung Bahnhaltepunkt Gustorf (Antrag Nr. 36/19) - einstimmig
+- TOP 13.3.2: Änderungen bei gültigen Bebauungsplänen (Antrag Nr. 51/19) - einstimmig
+- TOP 13.3.3: Prüfung einer Parkzone (Antrag Nr. 52/19) - einstimmig
+- TOP 13.4: FDP
+- TOP 13.5: B 90/DIE GRÜNEN
+- TOP 13.5.1: Versiegelung von Vorgärten verhindern (Antrag Nr. 54/19) - einstimmig
+- TOP 13.5.2: Freies Parken für Autos mit Elektrokennzeichen (Antrag Nr. 55/19) - einstimmig
+- TOP 13.5.3: Grevenbroich wird eine pestizidfreie Kommune (Antrag Nr. 56/19) - einstimmig
+- TOP 13.5.4: Ausschussumbesetzung (Antrag Nr. 57/19) - einstimmig
+- TOP 13.5.5: Kies- und Schottergärten (Antrag Nr. 58/19) - einstimmig
+- TOP 13.5.6: Prüfauftrag Fussweg in den Bend an der Straße "Zur Waldwiese" (Antrag Nr. 59/19) - einstimmig
+- TOP 13.5.7: Förderprogramm zur Begrüßung von Dach-, Fassaden- und Entsiegelungsflächen (Antrag Nr. 60/19) - einstimmig
+- TOP 13.6: Mein Grevenbroich
+- TOP 13.7: Die Linke- Freie Bürger
+- TOP 13.7.1: Ausschuss für Strukturwandel (Antrag Nr. 53/19) - einstimmig
+- TOP 14: Gemeinschaftsanträge
+- TOP 14.1: Gemeinschaftsantrag zu einer Vergabeordnung für städtische Baugrundstücke (Antrag Nr. 66/19) - einstimmig
+- TOP 15: Schriftliche Anfragen
+- TOP 15.1: CDU
+- TOP 15.2: SPD
+- TOP 15.3: UWG
+- TOP 15.4: FDP
+- TOP 15.5: B 90/DIE GRÜNEN
+- TOP 15.6: Mein Grevenbroich
+- TOP 15.7: Die Linke - Freie Bürger
+- TOP 16: mündliche Anträge/Anfragen
+- TOP 16.1: Evaluation der "unechten Einbahnstraße" in Wevelinghoven (Anfrage Nr. 178/2018)
+- TOP 16.2: Grundstück Lindenstraße (Name und Anschrift liegen der Verwaltung vor) (Anfrage Nr. 68/2019)
+- TOP 16.3: Fachkräftemangel in Kitas, Förderprogramm (Antrag Nr. 69/2019)
+- TOP 16.4: Verkehrssituation im Bereich der Straße „Am Ständehaus“/“Auf der Schanze“ (Antrag Nr. 70/2019 zur Beantwortung im Planungsausschuss)
+- TOP 16.5: Park- und Vermüllungssituation im Industriegebiet Ost (Antrag Nr. 265/2018)
+- TOP 16.6: 25 Jahre Landesgartenschau (Anfrage Nr. 71/2019)
+- TOP 16.7: Parkplätze auf der Karl-Oberbach-Straße (Anfrage Nr. 72/2019)
+- TOP 16.8: Nachfolge Rh Kay Helten
+- TOP 17: Mitteilungen BM
+- TOP 17.1: Bekanntgabe Genehmigung - Kenntnisnahme
