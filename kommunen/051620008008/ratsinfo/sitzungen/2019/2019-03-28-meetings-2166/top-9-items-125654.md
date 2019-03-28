@@ -1,0 +1,8 @@
+# TOP 9: Bestellung einer/eines ehrenamtlichen Seniorenbeauftragten
+
+- Sitzung: Rat der Stadt Grevenbroich (2019-03-28)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/125654
+- Ergebnis: einstimmig
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/17830
