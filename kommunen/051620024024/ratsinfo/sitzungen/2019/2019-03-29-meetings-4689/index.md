@@ -1,0 +1,65 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-03-29T16:00:00+01:00
+- Ende: 2019-03-29T19:29:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4689
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4689
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Umbesetzung Kita 88 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/downloadfiles/a/00110589.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Schmolzstraße: Barrierefreier Umbau Bushaltestelle "Schmolzstraße"
+- TOP 6: Daimlerstraße: Barrierefreier Umbau Ausstiegshaltestelle "Böhmerstraße"
+- TOP 7: Wohnungsbauprojekt Dunantstraße: Verkehrliche Erschließung
+- TOP 8: Nachrüstung Bushaltestellen mit taktilen Elementen (1. Maßnahmenpaket für Förderprogramm 2020)
+- TOP 9: Herstellung Damenstift-Platz sowie Umbau Quirinusstraße und Münsterplatz
+- TOP 10: Bergheimer Straße: Barrierefreier Umbau der Bushaltestelle "Barriere"
+- TOP 11: Neuss, Norf: Befestigung einer Wegeverbindung zwischen der Ruhrstraße und der Straße "Am Goldberg"
+- TOP 12: Jugendhilfeplanung "Spielraumplanung": Grundsatzbeschluss Kinderspielplatzprogramm 2019/2020
+- TOP 13: Bündelung der Aufgabe „Adoptionsvermittlung“ für das gesamte Kreisgebiet bei der Adoptionsvermittlu
+- TOP 14: Neuwahl einer stellvertretenden Schiedsperson für den Bezirk 3 - einstimmig zugestimmt
+- TOP 15: Übertragung der Mittel für Planungskosten / Machbarkeitsstudie zum TG-Sportzentrum
+- TOP 16: Neuauflage Grünanlagenordnung
+- TOP 17: Satzung über Erlaubnisse und Gebühren für Sondernutzungen in öffentlichen Anlagen der Stadt Neuss
+- TOP 18: Ausweisung neuer Hochzeitshain
+- TOP 19: European Energy Award (EEA): Beendigung des Zertifizierungsverfahrens
+- TOP 20: European Climate Award (ECA): Beendigung des Zertifizierungsverfahrens
+- TOP 21: Zweckgebundener Zuschuss für die NEWI
+- TOP 22: Zweckgebundener Zuschuss für die neuss-agenda-21-e.V. für das Jahr 2019
+- TOP 23: Neuordnung des sog. Hüsenplatzes in Grimlinghausen
+- TOP 24: Änderung der Gebührenordnung der Stadtbibliothek
+- TOP 25: Änderung der Benutzungsordnung der Stadtbibliothek
+- TOP 26: Änderungen Bundesteilhabegesetz
+- TOP 27: Umstellung der Rechtsform der Musikschule der Stadt Neuss
+- TOP 28: Einführung Gebührenordnung der Musikschule der Stadt Neuss
+- TOP 29: Auszahlung der Höherförderung ab Februar 2019 sowie Finanzierung der OGS - Plätze im Schuljahr 19/20
+- TOP 30: Personelle Besetzung in Wasser- und Bodenverbänden
+- TOP 30.1: Genehmigung der Dringlichkeitsentscheidung Nr. 251 betr. Grenzüberschreitende Zusammenarbeit: Hanse-
+- TOP 30.2: Informationsveranstaltung für die Region Neuss-Süd
+- TOP 31: Antrag der FDP-Fraktion betr. Grundsteuerbremse einführen - Aufkommensneutralität der Grundsteuer si
+- TOP 32: Antrag der AfD-Fraktion betr. Wildtierverbot für Zirkusse und Wanderschaustellbetriebe
+- TOP 33: Antrag der AfD-Fraktion betr. Bestandsschutz für Haltestellenbuchten
+- TOP 33.1: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Kita-Bau in Derikum – Verlust des Bolzplat
+- TOP 33.2: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Aufwertung des Stadtgartens
+- TOP 33.3: Antrag der Fraktion Die Linke betr. Zukunft der Lukita
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Verkehrliche Erschließung BPL 476 - Augustinusviertel, Hammfelddamm/Alexianerplatz
+- TOP 39: Umbau Parallelfahrbahn Düsseldorfer Straße zur verkehrl. Erschließung Hotel Düsseldorfer Str. 246
+- TOP 40: Sachstandsbericht Ausbau Kindertagesbetreuung in der Stadt Neuss
+- TOP 41: Einwohnerfragestunde
