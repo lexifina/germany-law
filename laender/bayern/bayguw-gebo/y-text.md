@@ -1,0 +1,1 @@
+Auf Grund des Art. 25 Abs. 1 Satz 1 Nr. 1 des Kostengesetzes (KG) erläßt das Bayerische Staatsministerium für Umwelt, Gesundheit und Verbraucherschutz im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
