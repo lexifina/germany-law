@@ -1,0 +1,8 @@
+# TOP 6: Touristische Infrastruktur des Lockwitztals als Ausflugsziel und Naherholungsgebiet verbessern - verkehrliche Potentiale untersuchen
+
+- Sitzung: 45. Sitzung des Stadtbezirksbeirates Prohlis (2019-04-01)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/115099
+- Ergebnis: Zustimmung mit Änderung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/36356
