@@ -1,0 +1,7 @@
+# TOP 1.4: Handlungskonzept Wohnen für die Stadt Solingen
+
+- Sitzung: Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (36. Sitzung) (2019-04-01)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/49255
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29750
