@@ -1,0 +1,6 @@
+# TOP 4.: Protokoll über die 34. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 11.02.2019
+
+- Sitzung: Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (36. Sitzung) (2019-04-01)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/48641
