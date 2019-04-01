@@ -1,0 +1,81 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-04-01T14:32:00+02:00
+- Ende: 2019-04-01T16:01:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20308
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20308
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.01.2019 - Kenntnis genommen
+- TOP 2.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 2.4: Mittel für Städtepartnerschaftsvereine - Kenntnis genommen
+- TOP 2.5: 23. Bericht zur Situation Geflüchteter - Kenntnis genommen
+- TOP 2.6: Mittelverwendung zur Ausstattung Schulsport des politischen Veränderungsnachweises zum Haushalt 2018 - Kenntnis genommen
+- TOP 2.7: Mitteilung zum Sachstand des Zwischennutzungskonzepts am Ebertplatz - Kenntnis genommen
+- TOP 2.8: Erbbaurechtsbestellung als Instrument der Wohnungs- und Liegenschaftspolitik– ein Weg für Köln? - Kenntnis genommen
+- TOP 2.9: Anbindung des Fachbereichs "Schulsozialarbeit" innerhalb des Dezernates IV - Kenntnis genommen
+- TOP 2.10: Kölner Verkehrs-Betriebe AG (KVB): Ergänzende Informationen zur Vergabe eines öffentlichen Dienstleistungsauftrags an die KVB über die Erbringung öffentlicher Personenverkehrsdienste (Vorlagen-Nr. 4240/2018) - Kenntnis genommen
+- TOP 2.11: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 28.02.2019 - Kenntnis genommen
+- TOP 2.12: Förderung Lastenfahrrad - Kenntnis genommen
+- TOP 2.13: Sachstand Überarbeitung PCGK der Stadt Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Abschaffung der Straßenausbaubeiträge in NRW und Aussetzung bestehender Gebührenbescheide - endgültig abgelehnt
+- TOP 3.1.1: Abschaffung der Straßenausbaubeiträge in NRW - endgültig abgelehnt
+- TOP 3.2: Grundsteuerreform aufkommensneutral umsetzen – Wohnen darf in Köln nicht teurer werden - endgültig abgelehnt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 24 Abs. 2 GemHVO
+- TOP 6.2.1: Generalsanierung der Waldsiedlung, hier: Mitteilung über eine weitere Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Beschaffung von 11 Kolonnenfahrzeugen für den Bereich Stadtgrün - ungeändert beschlossen
+- TOP 7.2: Bau- und Finanzierungsbeschluss für die Umgestaltung des Maternuskirchplatzes - ungeändert beschlossen
+- TOP 7.3: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - zurückgestellt
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - endgültig zurückgezogen
+- TOP 10.2: 6. Satzung zur Änderung der Sondernutzungssatzung - endgültig zurückgezogen
+- TOP 10.3: Planungsaufnahme zum Abriss und Ersatzbau des OGS-Hauses der Kath. Grundschule Forststr. 20, 51107 Köln (Rath-Heumar) - ungeändert beschlossen
+- TOP 10.4: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert beschlossen
+- TOP 10.5: Fördermittelakquise und -abwicklung von EU Drittmitteln - ohne Votum in nachfolgende Gremien
+- TOP -: gemeinsamer Änderungsantrag der CDU-Fraktion, der Fraktion Bündnis 90/ Die Grünen und der FDP-Fraktion vom 01.04.2019 - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 10.7: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 10.8: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - zurückgestellt
+- TOP 10.9: Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20 - ungeändert beschlossen
+- TOP 10.10: Infrastrukturfinanzierung Lernende Region – Netzwerk Köln e.V. (LRNK) - ungeändert beschlossen
+- TOP 10.11: Zuschuss an "Bündnis für kommunale Nachhaltigkeit" - ungeändert beschlossen
+- TOP 10.12: Aktualisierte Honorarordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 10.13: Einrichtung eines Preises unter dem Namen "Miteinander-Preis Köln für Demokratie und Vielfalt" - ungeändert beschlossen
+- TOP 10.14: Vergabe der Mittel für Antirassismus-Training im Jahr 2019 / 2. Teil - ungeändert beschlossen
+- TOP 10.15: Förderprogramm "SmartCity Cologne GO" - ungeändert beschlossen
+- TOP 10.16: Bedarfsfeststellung zur weiteren Sicherstellung des Luftrettungsdienstes mit dem Intensivtransporthubschrauber (ITH) Christoph Rheinland - geändert beschlossen
+- TOP 10.17: Planungsbeschluss für die Sanierung der Medienleitungen im Betriebshof im Botanischen Garten, Amsterdamer Straße 34, 50735 Köln - ungeändert beschlossen
+- TOP 10.18: Bedarfsfeststellung zur Optimierung Front-Office-Fläche des Bürgertelefons - ungeändert beschlossen
+- TOP 10.19: Zuschuss an die Gemeinnützige Gesellschaft des Kölner Karnevals mbH - ungeändert beschlossen
+- TOP 10.20: Verteilung der verbleibenden Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2019 - ungeändert beschlossen
+- TOP 10.21: Umwandlung der städtischen Notunterkunft Bonner Straße 478, 50968 Köln-Marienburg in eine Regelunterkunft zur Unterbringung von Geflüchteten - Baubeschluss - ohne Votum in nachfolgende Gremien
+- TOP 10.22: Bürgereingabe gem. § 24 GO NRW, betr.: Einführung von fahrscheinlosen Tagen an allen Samstagen im Jahr 2019 auf allen ÖPNV- und SPNV-Linien im Kölner Stadtgebiet - geändert beschlossen
+- TOP 10.23: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ohne Votum in nachfolgende Gremien
+- TOP 10.24: Puppenspiele der Stadt Köln - Erhöhung der Eintrittspreise und Änderung der Entgeltordnung ab dem 01. Januar 2020 - ohne Votum in nachfolgende Gremien
+- TOP 10.25: Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - zurückgestellt
+- TOP 10.26: Kölner Verkehrs-Betriebe AG (KVB): Vergabe eines öffentlichen Dienstleistungsauftrags über die Erbringung öffentlicher Personenverkehrsdienste sowie Betrauung - ungeändert beschlossen
+- TOP 10.27: Bedarfsfeststellungsbeschluss und Vergabe zur Ertüchtigung und Digitalisierung der LSA-Infrastruktur sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6400-1201-0-0004, Schaltgeräte für Lichtsignalanlagen - ungeändert beschlossen
+- TOP 10.28: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Betriebskonzept - ohne Votum in nachfolgende Gremien
+- TOP 10.29: Sanierung und Umbau Europäisches Zentrum für Jazz und aktuelle Musik - Stadtgarten - ungeändert beschlossen
+- TOP 10.30: Mobiles Drogenhilfeangebot in Neumarktnähe - geändert beschlossen
+- TOP 10.31: Kulturentwicklungsplanung (KEP) - ungeändert beschlossen
+- TOP 10.32: Vertretung der Stadt Köln in der Gesellschafterversammlung der Mediengründerzentrum NRW MGZ GmbH - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
