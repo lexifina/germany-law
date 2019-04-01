@@ -25,6 +25,10 @@ Abschnitt 6: Angebotsplanung und Finanzierung der Tageseinrichtungen
 § 17 | Angebotsplanung
 § 18 | Förderung freier Träger und Eigenleistungen der Träger
 § 19 | Beiträge der Eltern
-§ 20 | Auskünfte durch Eltern
+§ 19a | Beitragsfreiheit
+§ 19b | Beitragsfestsetzung und -erhebung
+§ 20 | Mitwirkungspflichten der Eltern
+§ 20a | Datenübermittlung
 Abschnitt 7: Schlussbestimmungen
 § 21 | Haushaltsvorbehalt
+§ 22 | Inkrafttreten
