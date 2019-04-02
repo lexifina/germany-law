@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-04-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145619
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145619
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 12.03.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget wirWerk gGmbH interaktive Ausstellung "Land der Kulturen" vom 06.-10.05.2019 709,00 € / Az. 0262.0-19-0251
+- TOP 3.3.: (E) Stadtbezirksbudget Elternbeirat Thomas-Mann-Gymnasium MfM-Projekt im Juni 2019 1.700,00 € / Az. 0262.0-19-0252
+- TOP 3.4.: (E) Stadtbezirksbudget Deutscher Touring Kajak Club 1912 e.V. 28. Münchner Kanu Triathlon 2019 am 12.05.2019 895,00 € / Az. 0262.0-19-0248
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 4.4.: (A) Satzungsänderung: Unterrichtungsrecht Wertstoffinseln (Antrag BA 12)
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Zuverlässigkeit der U-Bahnlinie 3
+- TOP 5.1.2: Verlauf der geplanten Busspur in der Allgäuer Straße; Sperrung der Parkplätze in der Allgäuer Straße 104 - 102 in den Wintermonaten
+- TOP 5.1.3: Fahrradstellplätze am S-Bahnhof Siemenswerke
+- TOP 5.2.: (Antrag) Rückfragen zum Antwortschreiben der MVG bezüglich Verspätungen der U-Bahnlinie 3
+- TOP 5.3.: (Antrag) Wilhelm-Leibl-Straße
+- TOP 5.4.: (Antrag) Zebrastreifen Stäblistraße Höhe Bushaltestelle Bad Forstenried
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Informationsveranstaltung zum Thema Herausforderungen und Chancen der Nachverdichtung
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Veranstaltung Malwettbewerb für Jugendliche und Kinder zum Thema „Europa und Frieden“
+- TOP 8.3.: (A) Veranstaltung: Zirkusvorstellung vom 11.07. bis 14.07.2019
+- TOP 8.4.: (A) Tag des offenen Denkmals am 08.09.2019
