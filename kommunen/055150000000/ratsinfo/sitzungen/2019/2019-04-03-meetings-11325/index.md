@@ -1,0 +1,92 @@
+# 38. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-04-03T17:52:00+02:00
+- Ende: 2019-04-03T21:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11325
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11325
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00440299.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: "Fridays for Future" - Bewertung der wöchentlich vor dem Rathaus stattfindenden Demonstrationen
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 5.1: Gewerbesteuerzahlungen
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Feststellung des Jahresabschlusses 2017 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Ausschreibung "Leiter/-in des Amtes für Kinder, Jugendliche und Familien" - mehrheitlich beschlossen
+- TOP 12: Digitale Stadtverwaltung Münster - Bericht zum Umsetzungsstand der Digitalisierungsstrategie - zur Kenntnis genommen
+- TOP 13: Interkommunale Zusammenarbeit – Abschluss von öffentlich-rechtlichen Vereinbarungen (ÖrV) über die mandatierte Aufgabenübertragung von Rechenzentrumsleistungen sowie die Bereitstellung und den Betrieb von Fachverfahren gem. § 23 Abs. 1 des Gesetzes ü - einstimmig beschlossen
+- TOP 14: NKF-Gesamtabschluss der Stadt Münster zum 31.12.2017 (Entwurf) - einstimmig beschlossen
+- TOP 15: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Stadt Münster und den Kreisen Borken, Coesfeld, Steinfurt und Warendorf über die Übertragung der Zuständigkeit für die Vergabe von Linienverkehren - einstimmig beschlossen
+- TOP 16: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 17: Stadthaussaal: Ein Ort der Partizipation und dialogorientierten Bürgerbeteiligung, ein Ort für ausgewählte interdisziplinäre Kunst- und Kulturprogramme in Verbindung mit einem dauerhaften Ort für das Stadtmodell ("Münster Modell") - von der Tagesordnung abgesetzt
+- TOP 18: Zukünftige Klärschlammverwertung - mehrheitlich beschlossen
+- TOP 18.1: Zukünftige Klärschlammverwertung
+- TOP 18.1.1: Zukünftige Klärschlammverwertung
+- TOP 19: Entwurf der Stellungnahme der Stadt Münster zur Planfeststellung für den Ausbau der Tank- und Rastanlage Münsterland- Ost im Zuge der A 1 - mehrheitlich beschlossen
+- TOP 20: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS - mehrheitlich beschlossen
+- TOP 21: Vorzeitige Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richtfofen-Str. 46, 48145 Münster, zum 31.07.2019 - einstimmig beschlossen
+- TOP 22: Trägervergabe für die Offene Ganztagsschule in der städtischen Grundschule Wolbeck-Nord, Grenkuhlenweg 21 und Erhöhung der Personalkostenzuschüsse für die OGS Träger der freien Jugendhilfe - einstimmig beschlossen
+- TOP 23: Uppenbergschule - Auflösung der Förderschule und Beschreibung der weiteren Vorgehensweise - mehrheitlich beschlossen
+- TOP 23.1: Änderung der Entgeltordnungen für das Kap.8 im Bürgerhaus Kinderhaus und das Begegnungszentrum Meerwiese - mehrheitlich geändert beschlossen
+- TOP 24: Aktualisiertes Migrationsleitbild 2019 - mehrheitlich beschlossen
+- TOP 25: Förderrichtlinien des Kommunalen Integrationszentrums - einstimmig beschlossen
+- TOP 26: Trägervergabe für Kiindertageseinrichtungen
+- TOP 26.1: Trägervergabe für die Kindertageseinrichtung an der Sonnenstraße im Stadtteil Altstadt - mehrheitlich beschlossen
+- TOP 26.2: Trägervergabe für die Kindertageseinrichtung an der Neubrückenstraße im Stadtteil Altstadt - mehrheitlich beschlossen
+- TOP 26.3: Trägervergabe für die Kindertageseinrichtung südlich Nottulner Landweg im Stadtteil Roxel - mehrheitlich beschlossen
+- TOP 26.4: Trägervergabe für die Kindertageseinrichtung am Meckmannweg im Stadtteil Mecklenbeck - mehrheitlich beschlossen
+- TOP 26.5: Trägervergabe für die Interims-Kindertageseinrichtung am Holunderweg sowie eine dauerhafte Einrichtung in Sprakel-Ost - mehrheitlich beschlossen
+- TOP 26.6: Trägervergabe für die Kindertageseinrichtung am Nordkirchenweg im Stadtteil Amelsbüren - mehrheitlich beschlossen
+- TOP 27: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2017 - zur Kenntnis genommen
+- TOP 28: Wirtschaftsplan 2019/2020 des Theater Münster - einstimmig beschlossen
+- TOP 29: Ausschreibung der Betriebsträgerschaft für die dauerhafte Flüchtlingseinrichtung in Hiltrup, Marie-Curie-Straße 3 - 3e - mehrheitlich beschlossen
+- TOP 30: Außerplanmäßige Mittelbereitstellung in der Produktgruppe 0801 "Sportentwicklung, Sportanlagen und -stätten". - mehrheitlich beschlossen
+- TOP 31: Erich-Klausener-Schule, bauliche Erweiterung zur 4-Zügigkeit und Errichtung einer ebenerdigen Zweifachsporthalle, Ergebnis des Wettbewerbs - einstimmig beschlossen
+- TOP 31.1: Erich-Klausener-Schule, bauliche Erweiterung zur 4-Zügigkeit und Errichtung einer ebenerdigen Zweifachsporthalle, Ergebnis des Wettbewerbs
+- TOP 32: Einführung einer Wertstofftonne in Münster - mehrheitlich beschlossen
+- TOP 33: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - von der Tagesordnung abgesetzt
+- TOP 34: Bauleitplanung
+- TOP 34.1: Stadtbezirk Münster-Mitte
+- TOP 34.1.1: Bebauungsplan Nr. 541 - Teilaufhebung - einstimmig beschlossen
+- TOP 34.1.2: Vorhabenbezogene 1. Änderung des Bebauungsplans Nr. 327 - Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 34.2: Stadtbezirk Münster-West
+- TOP 34.2.1: Bebauungsplan Nr. 601 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 34.3: Stadtbezirk Münster-Hiltrup
+- TOP 34.3.1: 67. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 577 - Erweiterter Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 34.4: Stadtbezirk Münster-Nord
+- TOP 34.4.1: 87. Änderung des Flächennutzungsplans - Abschließender Beschluss - einstimmig beschlossen
+- TOP 34.5: Stadtbezirk Münster-Südost
+- TOP 34.5.1: Veränderungssperre Nr. 109 für den Bereich Dortmund-Ems-Kanal / Lütkenbecker Weg / Bundesstraße B 51 / Theodor-Scheiwe-Straße - einstimmig beschlossen
+- TOP 34.5.2: Veränderungssperre Nr. 110 für den Bereich des Bebauungsplans Nr. 595 - mehrheitlich beschlossen
+- TOP 35: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 36: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 36.1: Integration durch Gremien stärken - verwiesen
+- TOP 36.2: Die Stadt Münster unterstützt Studierende in der Wohnungsnot - verwiesen
+- TOP 36.3: Endlich konstruktive Antworten zur Weiterentwicklung der Bäderlandschaft geben - mehrheitlich beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 37.1: Verlagerung der Berufsfachschule für pharmazeutisch-technische Assistenten (PTA) der Stadt Münster nach Mecklenbeck - verwiesen
+- TOP 37.2: Transparenzsatzung für Münster - verwiesen
+- TOP 37.3: Der Nahverkehr muss schneller und günstiger werden – Klimaschutz ist auch eine soziale Frage - verwiesen
+- TOP 37.4: Gute Perspektiven für Münster-Coerde schaffen - verwiesen
+- TOP 37.5: Starke Quartiere – starke Menschen: Soziales Miteinander fördern – Quartiere im Stadtteil Coerde stärken – Ordnungspartnerschaft schaffen - verwiesen
+- TOP 37.6: Dauer von Baumaßnahmen reduzieren – Baukosten einsparen - verwiesen
+- TOP 37.7: Ein „Stern“ als Zeichen für die Gleichberechtigung - verwiesen
+- TOP 37.8: Öffentliches Andenken an Frauenpersönlichkeiten im Münsteraner Stadtbild im Frauenjahr 2019 fördern - verwiesen
+- TOP 37.9: ÖPNV-Tarife digitalisieren - verwiesen
+- TOP 37.10: Münster schützt das Klima – mit Hilfe von katasterbezogener Thermografiebefliegung Energieverluste lokalisieren und beseitigen - verwiesen
+- TOP 37.11: Beantragte Ausweisdokumente per Radkurier zustellen lassen - verwiesen
+- TOP 38: Verschiedenes
