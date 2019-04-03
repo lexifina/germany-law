@@ -1,0 +1,8 @@
+# TOP 9: Freiwilligenarbeit zur Förderung der sozialen Integration von Migranten in den Städten Europas
+
+- Sitzung: Integrationsrat (2019-04-03)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/225817
+- Ergebnis: Empfehlung mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/96606
