@@ -1,0 +1,8 @@
+# TOP 9: Interkommunale Zusammenarbeit – Abschluss von öffentlich-rechtlichen Vereinbarungen (ÖrV) über die mandatierte Aufgabenübertragung von Rechenzentrumsleistungen sowie die Bereitstellung und den Betrieb von Fachverfahren gem. § 23 Abs. 1 des Gesetzes ü
+
+- Sitzung: 39. Sitzung (2019-04-03)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/190654
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/68677
