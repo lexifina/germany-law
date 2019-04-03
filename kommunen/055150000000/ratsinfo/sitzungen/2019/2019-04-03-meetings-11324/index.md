@@ -1,0 +1,77 @@
+# 39. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-04-03T17:11:00+02:00
+- Ende: 2019-04-03T21:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11324
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11324
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00440301.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Bearbeitungsstand der Ratsanträge - 1. Halbjahr 2019 - zur Kenntnis genommen
+- TOP 2.2: Umbenennung des Frauenbüros in Amt für Gleichstellung (Antrag der FDP-Fraktion vom 23.04.2018 Nr. A-R/0027/2018, siehe Anlage) - mehrheitlich beschlossen
+- TOP 2.3: Ratsantrag Nr. 0034/2018 "Münster ist Industriestandort! Gute Arbeitsplätze sichern und neue schaffen - ein Industriekonzept für Münster!" - Fakten, Einschätzungen und Verfahrensvorschläge - einstimmig beschlossen
+- TOP 2.4: Wettbürosteuer - mehrheitlich beschlossen
+- TOP 2.5: Antrag Nr. A-R/0067/2018 der Ratsgruppe Piraten/ÖDP vom 02.10.2018 "Übernahme des Eigenanteils an den Betriebskosten von Elterninitiativen" - einstimmig beschlossen
+- TOP 2.6: Antrag der Ratsgruppe AfD A-R/0078/2017 - Altersfeststellung unbegleitete mj. Flüchtlinge - mehrheitlich beschlossen
+- TOP 3: Leistungen der Grundsicherung für Arbeitsuchende (SGB II) für geflüchtete Menschen im Jobcen-ter der Stadt Münster - Eine erste Bilanz - - zur Kenntnis genommen
+- TOP 4: Bodelschwinghschule - einstimmig beschlossen
+- TOP 4.1: Bodelschwinghschule
+- TOP 5: Thomas-Morus-Schule - einstimmig beschlossen
+- TOP 5.1: Thomas-Morus-Schule
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Feststellung des Jahresabschlusses 2017 der Stadt Münster - einstimmig beschlossen
+- TOP 7: Ausschreibung "Leiter/-in des Amtes für Kinder, Jugendliche und Familien" - ohne Beschlussfassung geschoben
+- TOP 8: Digitale Stadtverwaltung Münster - Bericht zum Umsetzungsstand der Digitalisierungsstrategie - zur Kenntnis genommen
+- TOP 9: Interkommunale Zusammenarbeit – Abschluss von öffentlich-rechtlichen Vereinbarungen (ÖrV) über die mandatierte Aufgabenübertragung von Rechenzentrumsleistungen sowie die Bereitstellung und den Betrieb von Fachverfahren gem. § 23 Abs. 1 des Gesetzes ü - einstimmig beschlossen
+- TOP 10: NKF-Gesamtabschluss der Stadt Münster zum 31.12.2017 (Entwurf) - einstimmig beschlossen
+- TOP 11: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Stadt Münster und den Kreisen Borken, Coesfeld, Steinfurt und Warendorf über die Übertragung der Zuständigkeit für die Vergabe von Linienverkehren - einstimmig beschlossen
+- TOP 12: Bericht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - zur Kenntnis genommen
+- TOP 13: Stadthaussaal: Ein Ort der Partizipation und dialogorientierten Bürgerbeteiligung, ein Ort für ausgewählte interdisziplinäre Kunst- und Kulturprogramme in Verbindung mit einem dauerhaften Ort für das Stadtmodell ("Münster Modell") - von der Tagesordnung abgesetzt
+- TOP 14: Zukünftige Klärschlammverwertung - ohne Beschlussfassung geschoben
+- TOP 14.1: Zukünftige Klärschlammverwertung
+- TOP 14.1.1: Zukünftige Klärschlammverwertung
+- TOP 15: Entwurf der Stellungnahme der Stadt Münster zur Planfeststellung für den Ausbau der Tank- und Rastanlage Münsterland- Ost im Zuge der A 1 - ohne Beschlussfassung geschoben
+- TOP 16: Satzung zur Änderung der "Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und OGS - einstimmig beschlossen
+- TOP 17: Vorzeitige Auflösung der Fürstin-von-Gallitzin-Realschule, Manfred-von-Richthofen-Str. 46, 48145 Münster, zum 31.07.2019 - einstimmig beschlossen
+- TOP 18: Trägervergabe für die Offene Ganztagsschule in der städtischen Grundschule Wolbeck-Nord, Grenkuhlenweg 21 und Erhöhung der Personalkostenzuschüsse für die OGS Träger der freien Jugendhilfe - einstimmig beschlossen
+- TOP 19: Uppenbergschule - Auflösung der Förderschule und Beschreibung der weiteren Vorgehensweise - ohne Beschlussfassung geschoben
+- TOP 20: Änderung der Entgeltordnungen für das Kap.8 im Bürgerhaus Kinderhaus und das Begegnungszentrum Meerwiese - ohne Beschlussfassung geschoben
+- TOP 21: Aktualisiertes Migrationsleitbild 2019 - ohne Beschlussfassung geschoben
+- TOP 22: Förderrichtlinien des Kommunalen Integrationszentrums - einstimmig beschlossen
+- TOP 23: Trägervergabe für Kindertageseinrichtungen
+- TOP 23.1: Trägervergabe für die Kindertageseinrichtung an der Sonnenstraße im Stadtteil Altstadt - ohne Beschlussfassung geschoben
+- TOP 23.2: Trägervergabe für die Kindertageseinrichtung an der Neubrückenstraße im Stadtteil Altstadt - ohne Beschlussfassung geschoben
+- TOP 23.3: Trägervergabe für die Kindertageseinrichtung südlich Nottulner Landweg im Stadtteil Roxel - ohne Beschlussfassung geschoben
+- TOP 23.4: Trägervergabe für die Kindertageseinrichtung am Meckmannweg im Stadtteil Mecklenbeck - ohne Beschlussfassung geschoben
+- TOP 23.5: Trägervergabe für die Interims-Kindertageseinrichtung am Holunderweg sowie eine dauerhafte Einrichtung in Sprakel-Ost - ohne Beschlussfassung geschoben
+- TOP 23.6: Trägervergabe für die Kindertageseinrichtung am Nordkirchenweg im Stadtteil Amelsbüren - ohne Beschlussfassung geschoben
+- TOP 24: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2017 - zur Kenntnis genommen
+- TOP 25: Wirtschaftsplan 2019/2020 des Theater Münster - einstimmig beschlossen
+- TOP 26: Ausschreibung der Betriebsträgerschaft für die dauerhafte Flüchtlingseinrichtung in Hiltrup, Marie-Curie-Straße 3 - 3e - ohne Beschlussfassung geschoben
+- TOP 27: Außerplanmäßige Mittelbereitstellung in der Produktgruppe 0801 "Sportentwicklung, Sportanlagen und -stätten". - ohne Beschlussfassung geschoben
+- TOP 28: Erich-Klausener-Schule, bauliche Erweiterung zur 4-Zügigkeit und Errichtung einer ebenerdigen Zweifachsporthalle, Ergebnis des Wettbewerbs - einstimmig beschlossen
+- TOP 28.1: Erich-Klausener-Schule, bauliche Erweiterung zur 4-Zügigkeit und Errichtung einer ebenerdigen Zweifachsporthalle, Ergebnis des Wettbewerbs
+- TOP 29: Einführung einer Wertstofftonne in Münster - ohne Beschlussfassung geschoben
+- TOP 30: Bauleitplanung
+- TOP 30.1: Stadtbezirk Mitte
+- TOP 30.1.1: Bebauungsplan Nr. 541 - Teilaufhebung - ohne Beschlussfassung geschoben
+- TOP 30.1.2: Vorhabenbezogene 1. Änderung des Bebauungsplans Nr. 327 - Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 30.2: Stadtbezirk West
+- TOP 30.2.1: Bebauungsplan Nr. 601 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 30.3: Stadtbezirk Hiltrup
+- TOP 30.3.1: 67. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 577 - Erweiterter Beschluss zur Aufstellung - von der Tagesordnung abgesetzt
+- TOP 30.4: Stadtbezirk Nord
+- TOP 30.4.1: 87. Änderung des Flächennutzungsplans - Abschließender Beschluss - einstimmig beschlossen
+- TOP 30.5: Stadtbezirk Südost
+- TOP 30.5.1: Veränderungssperre Nr. 109 für den Bereich Dortmund-Ems-Kanal / Lütkenbecker Weg / Bundesstraße B 51 / Theodor-Scheiwe-Straße - ohne Beschlussfassung geschoben
+- TOP 30.5.2: Veränderungssperre Nr. 110 für den Bereich des Bebauungsplans Nr. 595 - einstimmig beschlossen
+- TOP 31: Verschiedenes
