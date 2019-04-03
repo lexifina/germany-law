@@ -1,0 +1,8 @@
+# TOP 5: Umbauplanung Kapellener / Reuschenberger Str.
+
+- Sitzung: Unterausschuss Mobilität (2019-04-03)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/131764
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/25138
