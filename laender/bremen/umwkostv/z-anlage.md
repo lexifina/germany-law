@@ -118,6 +118,7 @@ Tarifziffer | Rechtsgebiet
 11.16 | Freistellung nach § 26 Absatz 1 NachwV | 30 bis 290 |  |  | 
 11.17 | Anordnung von Registerpflichten nach § 26 Absatz 2 NachwV | 30 bis 290 |  |  | 
 11.18 | Bestimmung von Nachweispflichten in besonderen Fällen nach § 27 Absatz 2 NachwV | 50 bis 250 |  |  | 
+11.19 | Überwachung der Entsorgung nachweispflichtiger Abfälle nach §§ 10 bis 13 NachwV oder nach § 4 Absatz 1 der POP-AbfallÜberwachungsverordnung, je Begleitschein | 5,95 |  |  | 
 12 | Maßnahmen aufgrund der Entsorgungsfachbetriebeverordnung - EfbV |  |  |  | 
 12.1 | Zustimmung zum Überwachungsvertrag nach § 15 EfbV | nach Zeitaufwand, mindestens 140 höchstens 2 875 |  |  | 
 12.2 | Widerruf der Zustimmung des Überwachungsvertrages nach § 15 Absatz 4 EfbV | 140 |  |  | 
