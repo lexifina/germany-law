@@ -1,0 +1,61 @@
+# Rat (34. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-04-04T17:01:00+02:00
+- Ende: 2019-04-04T19:09:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfFoKX3F5TM9Ib7vuOYIk0Y
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5285
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUBt9V5Cl_f4NmBMCB-QAOgAr2VfYzlPNiprwTBtZ6KQ/Bekanntmachung_Rat_04.04.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUNPDzSIMiOlPvC8NggfqHOpuMYUvhiXx3BB97iNY5dy/Oeffentliche_Niederschrift_Rat_04.04.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Notfallstruktur in der Klinik für Kinder und Jugendliche
+- TOP 1.2: Shisha Bars
+- TOP 1.3: WLAN Netzwerk in der Realschule Vogelsang
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 33. Sitzung des Rates am 14.02.2019
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 7.: Jagdbeirat bei der Unteren Jagdbehörde
+- TOP 8.: Abberufung eines Prüfers beim Revisionsdienst
+- TOP 9.: Erneute Bestellung eines Prüfers beim Revisionsdienst
+- TOP 10.: Stadtwerke Solingen GmbH - Besetzung Verbandsversammlung Wupperverband
+- TOP 11.: Gleichstellungsplan 2019 - 2023
+- TOP 12.: Handlungskonzept Wohnen für die Stadt Solingen
+- TOP 12.1: Handlungskonzept Wohnen für die Stadt Solingen hier: Ergänzungsantrag der FDP-Ratsfraktion vom 01.04.2019
+- TOP 12.2: Handlungskonzept Wohnen für die Stadt Solingen hier: gemeinsamer Antrag der Ratsfraktion CDU, SPD, Bündnis 90/ Die Grünen – offene Liste, BfS, FDP und DIE LINKE vom 02.04.2019
+- TOP 13.: Teilauslagerung des Gymnasiums Schwertstraße unter Bildung eines Teilstandortes
+- TOP 14.: Errichtung eines Teilstandortes der Grundschule Katternberger Straße
+- TOP 14.1: Errichtung eines Teilstandortes der Grundschule Katternberger Straße
+- TOP 15.: Katzenkastrations- und Kennzeichnungsverordnung (Katzenschutzverordnung)
+- TOP 15.1: Katzenkastrations- und Kennzeichnungsverordnung (Katzenschutzverordnung)
+- TOP 16.: Katzenschutzverordnung
+- TOP 17.: Stadtentwicklungsgesellschaft
+- TOP 17.1: Stadtentwicklungsgesellschaft hier: aktualisierter Antrag der Ratsfraktionen CDU, SPD, Bündnis 90/ Die Grünen – offene Liste, BfS und FDP vom 03.04.2019
+- TOP 18.: Zustimmung zu einem zu 100 % aus Fördermitteln gedeckten konsumtiven Mehraufwand gemäß § 83 GO NRW hier: Durchführung und Fertigstellung diverser Stadtentwicklungsmaßnahmen
+- TOP 19.: Bauleitplanung Argonner Weg Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes D 654 sowie Satzungsbeschluss zum Bebauungsplan D 654 für das Gebiet nördlich des Argonner Weg, westlich der Wittekindstraße, südlich der Bozener Straße und östlich der Finkenstraße (Beschluss 3) - Stadtbezirk Burg/ Höhscheid -
+- TOP 20.: Bauleitplanung Düsseldorfer Straße/ Lippestraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 658 sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf des Bebauungsplans O 658, jeweils für das Gebiet zwischen der Düsseldorfer Straße, der Weststraße, der Lippestraße und der Straße Im Ohligs sowie Beschluss einer Veränderungssperre (Nr. 170/ 658) für den Bereich südlich entlang der Düsseldorfer Straße zwischen der Straße Im Ohligs im Westen und der Weststraße im Osten (Beschluss 1) – Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid –
+- TOP 21.: Verschiedenes
+- TOP 21.1: Mitteilungen der Verwaltung
+- TOP 21.1.1: Sachstand statische und brandschutztechnische Mängel am Gymnasium Schwertstraße und weiteres Vorgehen
+- TOP 21.1.2: Parlamentariertreffen der Kommunalen Arbeitsgemeinschaft Bergisch Land e.V. (KAG) am 01.04.2019 in Altenberg hier: Altenberger Erklärung und Datenatlas
+- TOP 21.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 33. Sitzung des Rates am 14.02.2019
+- TOP 4.: Städtisches Klinikum Solingen gemeinnützige GmbH - Reduktion Geschäftsanteile GDEKK
+- TOP 5.: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Verkauf der Geschäftsanteile im Rahmen eines Management Buyout
+- TOP 6.: Vergabe von Planungsleistungen (Bauforschung und restauratorische Beratung) im Rahmen der Gesamtsanierung Schloss Burg in den Förderprojekten Bundesförderung (BKM) und Städtebaulicher Denkmalschutz (MHKBG NRW) im Rahmen eines VGV-Verfahrens
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.2: Anfragen an die Verwaltung
