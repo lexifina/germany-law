@@ -1,0 +1,7 @@
+# TOP 1.1: Notfallstruktur in der Klinik für Kinder und Jugendliche
+
+- Sitzung: Rat (34. Sitzung) (2019-04-04)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/48978
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29616
