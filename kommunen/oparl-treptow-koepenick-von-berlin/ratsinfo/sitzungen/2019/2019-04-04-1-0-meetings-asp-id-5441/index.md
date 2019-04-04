@@ -1,0 +1,86 @@
+# 25. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-04-04T16:30:00+02:00
+- Ende: 2019-04-04T21:17:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5441
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5441
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=303828
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-24 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Ruine in der Siriusstraße (Altglienicke) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Beratungsangebot für von illegalen Suchtstoffen abhängige Menschen im Bezirk umgehend verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Querung vor Schwimmhalle verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Anordnung von Tempo 30 auf dem Adlergestell / Haltestelle "Zum Seeblick" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Tempo 30 auf dem östlichen Müggelseedamm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Straßenbenennung nach Minna Todenhagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Vorgezogene Haltelinie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Sondermittel für den "Ortsverein Grünau e. V." (SM 18-16) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Breitbandausbau für das Rathaus Treptow - überwiesen
+- TOP 7.2.5: LKW-Parkverbot im Kurvenbereich Rudower Straße - überwiesen
+- TOP 7.2.6: Das Sowjetische Ehrenmal im Treptower Park endlich barrierefrei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für den Verein der Feuerwehr und Siedlerfreunde Bohnsdorf e. V. (SM 19-06) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Sondermittel für die Köpenicker HauptmannGarde (SM 19-10) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für den Verein "Tauchsportclub Adlershof im PSB 24 e. V." (SM 19-12) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Kita-Eigenbetriebe stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Transparentes Verfahren zur Kulturnutzung der ehemaligen Ernst-Busch-Schauspielschule - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Beschilderung auf der Puschkinallee verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Uferweg zwischen der Hochschule für Technik und Wirtschaft Berlin (HTW) und dem Kaisersteg endlich festsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Emissionen von Boots- und Schifffahrtsmotoren auf unseren Gewässern verringern - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Verkehrssicherheit am Waldfriedhof Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schrittgeschwindigkeit für Zufahrt zum Ordnungs- und Gesundheitsamt - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Taubenpopulation am S-Bahnhof Baumschulenweg regulieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Fußgängerüberwege instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bevorrechtigungen für alternative Mobilität erproben - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Fahrradinfrastruktur mit Umlandgemeinden entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Fußweg am S-Bahnhof Rahnsdorf wiederherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Jugendpreis statt Mädchenpreis – Gleichberechtigung durchsetzen, Diskriminierung beenden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Keine Diesel-Fahrverbote in Berlin – Interessen von Bürgern und Mittelstand wahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Rettungsschwimmer am Strandbad Müggelsee einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Schloßplatz Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Neue Rathauskantine mit nachhaltigem Angebot - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Verleihung des Ehrenzeichens "Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung des im Entwicklungsgebiet Berlin-Adlershof / Johannisthal zwischen Landfliegerstraße und Igo-Etrich-Straße gelegenen, geplanten und bereits im Bau befindlichen Straßenabschnittes in Wagner-Régeny-Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ausübung des Vorkaufsrechts durch Wohnungsbaugenossenschaften - überwiesen
+- TOP 14.2: Neue Gemeinschaftsschule am ehemaligen Güterbahnhof Köpenick - überwiesen
+- TOP 14.3: Altstadtring Köpenick - überwiesen
+- TOP 14.4: Überquerungshilfen für Eichhörnchen im Bezirk ausweiten - überwiesen
+- TOP 14.5: Musikschule in Adlershof nicht komplett dezentralisieren - überwiesen
+- TOP 14.6: Fährverbindung nach Müggelheim - überwiesen
+- TOP 14.7: Sichere Radwegauffahrt auf der Elsenstraße schaffen - überwiesen
+- TOP 14.8: Parkraum sichern - Kiez-Parkhäuser jetzt - überwiesen
+- TOP 14.9: Bauen unter fairen Bedingungen – sozial-nachhaltige Beschaffung von Natursteinen - überwiesen
+- TOP 14.10: Barrierefreie Querung durch den Spreetunnel in Friedrichshagen unverzüglich umsetzen - überwiesen
+- TOP 14.11: Personalkostenbudgetierung auch für Stellen von Erzieherinnen und Erziehern ermöglichen - überwiesen
+- TOP 14.12: Mehr Bügel für Treptow-Köpenick - überwiesen
+- TOP 14.13: Maßnahmen gegen die Verkehrsbelastung in Köpenick (I) - überwiesen
+- TOP 14.14: Digitalpakt für alle Schulen – Rahmenbedingungen schaffen und Konzeptarbeit beginnen - überwiesen
+- TOP 14.15: Pendlerverkehr verbessern - überwiesen
+- TOP 14.16: Maßnahmen gegen die Verkehrsbelastung in Köpenick (II) - überwiesen
+- TOP 14.17: Schulweg und Kinderspielplatz zwischen Bohnsdorfer Weg und Rosestraße sicherer gestalten - überwiesen
+- TOP 14.18: Öffnung der Straße Alt-Köpenick - überwiesen
+- TOP 14.19: Vergabekriterien für Sondermittel festlegen und einhalten - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Jugendbanden in Treptow-Köpenick - beantwortet
