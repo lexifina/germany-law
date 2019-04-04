@@ -1,0 +1,125 @@
+# 48. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-04-04T15:36:00+02:00
+- Ende: 2019-04-04T21:18:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/19924
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/19924
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Version Umdruck) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709956.pdf
+- Ergebnisprotokoll: Tagesordnung (Version Umdruck) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709956.pdf
+- Wortprotokoll: Tagesordnung (Version Umdruck) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00709956.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Antrag der Fraktionen SPD, Die Linke., der Gruppe BUNT und RM Wortmann (Freie Wähler Köln) betreffend "Ausverkauf des Wahlrechts durch die schwarz/gelbe Landesregierung stoppen. Ratsmitglieder sind für alle da! Stichwahl beibehalten!" - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 1.2: Antrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP und der Gruppe GUT betreffend „Aktuelle Entwicklungen auf dem Kölner Arbeitsmarkt – Wettbewerbsfähigkeit des Standortes erhalten“ - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme einer Schenkung von Kunstwerken des Künstlers Johannes Wohnseifer an das Museum Ludwig - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen SPD, CDU, Bündnis 90/Die Grünen, Die Linke. und FDP betreffend "Nachhaltige Urbane Mobilitätsplanung" - ungeändert beschlossen
+- TOP 3.1.2: Antrag der AfD-Fraktion betreffend "Ford gehört zu Köln" - endgültig abgelehnt
+- TOP 3.1.3: Antrag der Fraktionen SPD, Die Linke. und der Gruppe BUNT betreffend "Köln sagt Nein zum Upload-Filter – Appell gegen Artikel 13 der Urheberrechtsrichtlinie" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP und der Gruppe GUT - ungeändert beschlossen
+- TOP 3.1.4: Antrag der AfD-Fraktion betreffend "Prüfung Verlegung der Messstationen für Feinstaubmessung" - endgültig abgelehnt
+- TOP 3.1.5: Antrag der SPD-Fraktion und der Gruppe BUNT betreffend "Sportentwicklungsplanung – jetzt umsetzen!" - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktion Die Linke. - Sache ist erledigt
+- TOP -: Änderungsantrag der Fraktionen CDU, Bündnis 90/Die Grünen und FDP - ungeändert beschlossen
+- TOP 3.1.6: Antrag der AfD-Fraktion betreffend "Installation einer Schuldenuhr an prominenter Stelle am Rathaus" - endgültig abgelehnt
+- TOP 3.1.7: Antrag der SPD-Fraktion und der Gruppe BUNT betreffend "Innovative Mobilitätskonzepte in neuen Quartieren umsetzen und Finanzierung langfristig sicherstellen - Mobilitätsfonds für Köln aufbauen!" - zurückgestellt
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfragen der Fraktionen CDU, Bündnis 90/Die Grünen, Die Linke. und der Gruppe GUT betreffend "Kommunales Wohnungsbauförderprogramm" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 25.03.2019 - Kenntnis genommen
+- TOP 4.2: Anfrage der AfD-Fraktion betreffend "IFH-Studie: Kölner Innenstadt bleibt Mittelmaß. Was tut die Stadtverwaltung?" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 04.04.2019 - Kenntnis genommen
+- TOP 4.3: Anfrage der Fraktion Die Linke. betreffend "Kostensteigerungen bei Großprojekten" - zurückgestellt
+- TOP 4.4: Anfrage der Fraktion Die Linke. betreffend "Einbeziehung Kölns in die Planungen zum Strukturwandel im „Rheinischen Revier“" - zurückgestellt
+- TOP -: Antwort der Verwaltung vom 04.04.2019 - zurückgestellt
+- TOP 4.5: Anfrage der AfD-Fraktion betreffend "Drogenkonsumraum/ Drogenkonsummobil - Sachstand" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 04.04.2019 - Kenntnis genommen
+- TOP 4.6: Anfrage der AfD-Fraktion betreffend "Treffen der Oberbürgermeisterin mit Kölner Abgeordneten im Landtag und im Deutschen Bundestag" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 04.04.2019 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Puppenspiele der Stadt Köln - Erhöhung der Eintrittspreise und Änderung der Entgeltordnung ab dem 01. Januar 2020 - geändert beschlossen
+- TOP 6.2.2: Aktualisierte Honorarordnung der Volkshochschule Köln - ungeändert beschlossen
+- TOP 6.2.3: Nutzungs- und Entgeltordnung für das FORUM Volkshochschule - geändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.3.1: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten. - ungeändert beschlossen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 6.4.1: Anpassung der Zuständigkeitsordnung hier: Beschleunigung von Vergabeprozessen und Erfahrungsbericht - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion und der Gruppe BUNT - endgültig abgelehnt
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen,-auszahlungen u.-verpflichtungen gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhung nach § 25 Abs. 2 KomHVO
+- TOP 7.2.1: Generalsanierung der Waldsiedlung - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Einrichtung eines Preises unter dem Namen "Miteinander-Preis Köln für Demokratie und Vielfalt" - ungeändert beschlossen
+- TOP 10.2: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Betriebskonzept - ungeändert beschlossen
+- TOP -: Änderungsantrag der SPD-Fraktion und der Gruppe BUNT - endgültig abgelehnt
+- TOP 10.3: Bedarfsfeststellungsbeschluss und Vergabe zur Ertüchtigung und Digitalisierung der LSA-Infrastruktur sowie Freigabe von investiven Auszahlungsermächtigungen - ungeändert beschlossen
+- TOP 10.4: Kölner Verkehrs-Betriebe AG (KVB): Vergabe eines öffentlichen Dienstleistungsauftrags über die Erbringung öffentlicher Personenverkehrsdienste sowie Betrauung - ungeändert beschlossen
+- TOP 10.5: Ladeinfrastruktur im öffentlichen Straßenraum der Stadt Köln (LIS-Köln): Standortkonzept - geändert beschlossen
+- TOP 10.6: Beschluss des Integrierten Stadtentwicklungskonzeptes "Starke Veedel" - Starkes Köln" für den Sozialraum "Porz-Ost, Finkenberg, Gremberghoven und Eil" - ungeändert beschlossen
+- TOP 10.7: Fördermittelakquise und -abwicklung von EU Drittmitteln - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen CDU, Bündnis 90/Die Grünen, FDP und der Gruppe GUT - ungeändert beschlossen
+- TOP 10.8: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 10.9: Vergabe der Mittel für Antirassismus-Training im Jahr 2019 / 2. Teil - ungeändert beschlossen
+- TOP 10.10: Verteilung der verbleibenden Mittel zur Förderung von Interkulturellen Zentren für das Jahr 2019 - ungeändert beschlossen
+- TOP 10.11: Kulturentwicklungsplanung (KEP) - ungeändert beschlossen
+- TOP 10.12: Fortführung des Förderprojekts "Einwanderung gestalten NRW" - ungeändert beschlossen
+- TOP 10.13: Infrastrukturfinanzierung Lernende Region – Netzwerk Köln e.V. (LRNK) - ungeändert beschlossen
+- TOP 10.14: Mobiles Drogenhilfeangebot in Neumarktnähe - ungeändert beschlossen
+- TOP 10.15: Sportentwicklungsplanung der Stadt Köln - ungeändert beschlossen
+- TOP 10.16: Carsharing-Stellplätze im öffentlichen Raum – stationsbasiertes Carsharing – und Förderung der Elektromobilität durch Reduzierung der Parkgebühren für Elektrofahrzeuge - zurückgestellt
+- TOP 10.17: Bedarfsfeststellung, Beschaffung und Aufstellung von Schulpavillons für das Schuljahr 2019/20 - ungeändert beschlossen
+- TOP 10.18: Planungsaufnahme zum Abriss und Ersatzbau des OGS-Hauses der Kath. Grundschule Forststr. 20, 51107 Köln (Rath-Heumar) - ungeändert beschlossen
+- TOP 10.19: Planungsbeschluss für die Sanierung der Medienleitungen im Betriebshof im Botanischen Garten, Amsterdamer Straße 34, 50735 Köln - ungeändert beschlossen
+- TOP 10.20: Förderprogramm "SmartCity Cologne GO" - ungeändert beschlossen
+- TOP 10.21: Bedarfsfeststellung zur weiteren Sicherstellung des Luftrettungsdienstes mit dem Intensivtransporthubschrauber (ITH) Christoph Rheinland, Ziffer 1 des Beschlussvorschlags - ungeändert beschlossen
+- TOP 10.22: Wahl einer Beigeordneten / eines Beigeordneten für Dezernat IV - Bildung, Jugend und Sport - ungeändert beschlossen
+- TOP 10.23: Rahmenvertrag für Baumpflegearbeiten auf Kölner Sportanlagen (36 Monate) - ungeändert beschlossen
+- TOP 10.24: 2. Fortschreibung des Luftreinhalteplanes Köln - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD, Die Linke. und der Gruppe BUNT - geändert beschlossen
+- TOP 10.25: 2. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen an den aufgeführten Tagen und Zeiten.
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Osterather Straße/Liebigstraße in Bilderstöckchen; 66470/06; Beschl. über Stellungnahmen und Satzungsbeschluss - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 14.1: Eisenbahnersiedlung; Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Porz-Gremberghoven - ungeändert beschlossen
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 17: Wahlen
+- TOP 17.1: Benennung einer sachkundigen Einwohnerin für den Ausschuss Schule und Weiterbildung auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik - ungeändert beschlossen
+- TOP 17.2: Benennung eines stellvertretenden sachkundigen Einwohners für den Stadtentwicklungsausschuss auf Vorschlag der Stadtarbeitsgemeinschaft Behindertenpolitik - ungeändert beschlossen
+- TOP 17.3: Bestellung eines stellvertretenden Vertreters der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 17.4: Antrag der AfD-Fraktion betreffend "Ausschussumbesetzung" - ungeändert beschlossen
+- TOP 17.5: Antrag der AfD-Fraktion betreffend "Ausschussumbesetzung" - ungeändert beschlossen
+- TOP 17.6: Änderung der personellen Zusammensetzung der Kommunalen Gesundheitskonferenz Köln - ungeändert beschlossen
+- TOP 17.7: Änderung der Benennung sachkundiger Einwohnerinnen und Einwohner für diverse Ausschüsse auf Empfehlung der Stadtarbeitsgemeinschaft Lesben, Schwule Transgender - ungeändert beschlossen
+- TOP 17.8: Vertretung der Stadt Köln in der Gesellschafterversammlung der Mediengründerzentrum NRW MGZ GmbH - ungeändert beschlossen
+- TOP 17.9: Antrag der CDU-Fraktion betreffend "Wahl eines Abgeordneten zur Hauptversammlung des Deutschen Städtetages" - ungeändert beschlossen
+- TOP 17.10: Neuwahl eines ordentlichen Mitgliedes für den Beirat der Unteren Landschaftsbehörde (Anlage 1 und 2 im nicht öffentlichen Teil) - ungeändert beschlossen
+- TOP 17.11: Antrag der Gruppe GUT betr. "Wahl eines Abgeordneten zur Hauptversammlung des Deutschen Städtetages" - ungeändert beschlossen
+- TOP 17.12: Antrag der FDP-Fraktion betreffend "Benennung eines Sachkundigen Einwohners im Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales" - ungeändert beschlossen
+- TOP 17.13: Berufung einer sachkundigen Einwohnerin als ständiges Mitglied mit beratender Stimme in den Ausschuss für Schule und Weiterbildung - ungeändert beschlossen
+- TOP 17.14: Antrag der Fraktion Die Grünen betreffend "TOP 17 "Wahlen", hier: Neubesetzung Ratsausschüsse, Aufsichtsräte, weitere Gremien" - ungeändert beschlossen
+- TOP 17.15: Antrag der SPD-Fraktion betreffend "Besetzung von Gremien" - geändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 18.1: Sonderprogramm Maßnahmenpaket Schulbau GU/TU - Baubeschluss zum Neubau einer Erweiterung am Hildegard-von-Bingen-Gymnasium, Leybergstraße 1 in 50939 Köln durch einen Generalunternehmer - ungeändert beschlossen
+- TOP 19: -
