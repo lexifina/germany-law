@@ -1,0 +1,51 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-04-05T16:00:00+02:00
+- Ende: 2019-04-05T19:27:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16261
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16261
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339621.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339621.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339621.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - beantwortet
+- TOP 2: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift 179/2/2019 vom 08.03.2019 - einstimmig beschlossen
+- TOP 5: Informationsvorlage Straßenzustandsbewertung für den Stadtbezirk 9 - zur Kenntnis genommen
+- TOP 6: Informationsvorlage "Aktionsplan Wohnen" - zur Kenntnis genommen
+- TOP 7: Erweiterung und Umbau der Grundschulen - Empfehlung einstimmig beschlossen
+- TOP 8: Benrodestraße 46, Rathaus Benrath - Denkmalgerechte Innensanierung und Zusammenlegung des Bezirkssoz - vertagt
+- TOP 9: Bebauungsplan-Entwurf Nr. 09/003 - Nördlich Paulsmühlenstraße - - Empfehlung mehrheitlich beschlossen
+- TOP 10: Rhein-Ruhr-Express (RRX) – Bauwerksplanung der DB Netz AG im Planfeststellungsabschnitt 2.0 - Empfehlung einstimmig beschlossen
+- TOP 11: Bezirklicher Bauunterhalt 2019 (Liste B) - einstimmig beschlossen
+- TOP 12: Trödelmärkte auf dem Schützenplatz Spangerstraße im 2. Halbjahr 2019 - mehrheitlich beschlossen
+- TOP 13: Weihnachtsmarkt auf dem Vorplatz des Schlosses Benrath im Jahre 2019 - einstimmig beschlossen
+- TOP 14: Maimarkt, Bierbörse und Trödelmarkt in Benrath im Jahre 2019 - abweichend beschlossen
+- TOP 15: Anfrage: Gefahrguttransporte - beantwortet
+- TOP 16: Anfrage: ÖPNV-Vorrangschaltung U71/U83 - vertagt
+- TOP 17: Anfrage: Parkraumbewirtschaftung - beantwortet
+- TOP 18: Anfrage: Installation von Solarenergie-Anlagen auf städtischen Gebäuden und Solarkataster 2019 - beantwortet
+- TOP 19: Anfrage: Kontrollfahrten der Berufsfeuerwehr Düsseldorf in Wersten - beantwortet
+- TOP 20: Anfrage: Hildener Str. zwischen Urdenbacher Allee und Heubesstr. - vertagt
+- TOP 21: Antrag: Einrichtung eines Messortes zur Luftqualitätsüberwachung am Werstener Kreuz - mehrheitlich beschlossen
+- TOP 22: Antrag: Lärmmessung A 46 und A 59 - einstimmig beschlossen
+- TOP 23: Antrag: Baumstandorte Heubesstraße - interfraktionell - - einstimmig beschlossen
+- TOP 24: Antrag: Benennung „Werstener Deckel“ - mehrheitlich beschlossen
+- TOP 25: Antrag: Verfügungsmittel Künstlergruppe K1.10, Ausstellung in der Werft77 - einstimmig beschlossen
+- TOP 26: Antrag: Verfügungsmittel St.-Sebastianus-Schützenverein e. V. Düsseldorf-Holthausen - Seniorenvomit - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel St. Hubertus Schützenbruderschaft Itter, Wiederherstellung mob. Sanitäranl - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel KG Düsseldorfer Räbbelche 1962 e. V., Teile einer Uniform - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Arbeitskreis "Kumm eruss", Stadtteilfest Hassels-Reisholz - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel Stadtteilladen/zentrum plus Wersten, Werstener Vitaltag - einstimmig beschlossen
+- TOP 31: Informationsvorlage zum Beschluss der BV 9 vom 25.01.2019, Beleuchtung Kurve Heubesstr. - zur Kenntnis genommen
+- TOP 32: Informationsvorlage zum Beschluss der BV 9 vom 25.01.2019, Renaturierung Itter - zur Kenntnis genommen
+- TOP 33: Informationsvorlage zum Beschluss der BV 9 vom 23.11.2018, Zebrastreifen am Kinderhaus Itter-Himmelg - zur Kenntnis genommen
+- TOP 34: Antrag: Verfügungsmittel Benrather Pokalkegeln e.V., 62.Benrather Pokalkegeln 2019 - einstimmig beschlossen
