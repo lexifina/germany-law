@@ -1,0 +1,75 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-04-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150485
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150485
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Stadtbezirksbudget (BSL): Grünanlage an der Nanga-Parbat-Straße: Aufstellen einer 2. Parkbank und eines zusätzlichen Mülleimers
+- TOP 2.2.: Renovierung/ Modernisierung und Erweiterung des Spielplatzes Ecke Görlitzer Straße / Naumburger Straße
+- TOP 2.3.: Straßenbeschilderung vor Kinderhaus Baubergerstraße
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Andernacher Str. 9 - 23 2. Haylerstraße - Schulbauoffensive 3. Triebstr. 44 4. Dachauer Str. 457
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Meggendorferstr. 87 +89 2. Cerebotanistr. 27 3. Triebstr. 44 4. Dachauer Str. 457
+- TOP 3.3.3.: Bauvorhaben Werbeanlagen: Litfaßsäule in der Gärtnerstraße
+- TOP 3.4.1.: Bericht aus der gemeinsamen Unterausschuss-Sitzung am 04.04.2019: Thema: Vorstellung des Projektes "München - gesund vor Ort"
+- TOP 4.: Anträge
+- TOP 4.1.1.: Hinweis auf MVG-Radstation im U-Bahnhof Moosach
+- TOP 4.1.2.: Vorstellung des Planungssachstandes und des Nutzungskonzeptes zur geplanten Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse
+- TOP 4.1.3.: Bestehender Kiosk in der Bunzlauer Straße / Neuer Kiosk am Moosacher Stachus
+- TOP 4.2.1.: Herstellung der Manzostraße (im Bereich der Waldhornstraße und Brieger Straße)
+- TOP 4.2.2.: Erneuerung eines Mülleimers im Hartmannshofer Park
+- TOP 4.2.3.: Nachfolgenutzung ehemaliges Polizeigebäude Skagerrakstraße (Anfrage)
+- TOP 4.3.1.: Mehr Sicherheit für Fahrradfahrer und Fußgänger durch Verbesserung der Radwegführung in der Dachauer Straße stadtauswärts im Bereich zwischen Pelkovenstraße und Bahnunterführung
+- TOP 5.1.: (E) Stadtbezirksbudget Initative Tanzworkshops Dieselschule Tanzworkshops Dieselschule vom 06.05. - 19.07.2019 1.320,00 Az: 0262.0-10-0178
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Genehmigung einer Freischankfläche an der Feldmochinger Str. 28a
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Aufstellung einer neuen Verkaufseinrichtung auf öffentlichem Grund an der Franz-Marc-Str. 8
+- TOP 5.4.: (E) Stadtbezirksbudget Elternbeirat Gymnasium München Moosach Digitaltag 2019 am 16./17.05.2019 717,85 € Az: 0262.0-10-0180
+- TOP 5.5.: (E) Stadtbezirksbudget Blattgold Literatur Moosacher Literatur Nacht am 17.05.2019 3.859,00 € Az: 0262.0-10-0179
+- TOP 6.1.: Wertstoffinseln (BA-Antrag Nr. 14-20/ B 05728 des BA 12 vom 15.01.2019)
+- TOP 6.2.: Mittelfristige Finanzplanung 2017-2021; Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2018 bis 2022
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund und auf Privatgrund (Parkanlage in der Borstei): Franz-Marc-Straße "Borstei-Sommerfest" am 13.07.2019
+- TOP 6.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: 1. Riesstr. 49: 30 km/h-Geschwindigkeitsbeschränkung im Bereich des Kindergartens 2. Agnes-Pockels-Bogen 6: Errichtung absolutes Haltverbot
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Dillinger Str. 11 2. Lauinger Str. 19 3. Lauinger Str. 25 4. Lauinger Str. 51 5. Lauinger Str. 63 6. Pfeilschifter Str. 9 7. Untermenzinger Str. 64 8. Untermenzinger Str. 74 9. Waldhornstr. 54
+- TOP 7.1.: Anbringen einer Beschilderung zum neuen Stadtteilzentrum der Münchner Volkshochschule in der U-Bahnstation "Moosach Bahnhof" [BA-Antrag Nr. 14-20/B05714; neues Leit- und Informationssystem der MVG beschränkt sich auf wenige festgelegte Informationen, nicht Hinweis auf Stadtteilzentrum]
+- TOP 7.2.: Anbieten von Veranstaltungen zum Thema „Plastikproblematik" und "Vermeiden von Plastikmüll“ an Grundschulen im 11. Stadtbezirk [BA-Antrag Nr. 14-20/B05626 des BA11; in den Lehrplänen verankert, Kampagnen an Schulen finden laufend statt)
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Straße "Am Oberwiesenfeld" zwischen Moosacher Straße und Wendehammer: Straßenbauarbeiten seit 18.03.2019 bis voraussichtlich Juli 2019
+- TOP 8.4.: Erinnerungsverfahren (§6.1 AufgrO): Künftige Straßenmarkierung / Verkehrsführung 1. Dachauer Str. 270 2. Andernacher Str. 2-24 3. Dachauer Str. 403
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Bingener Str. 13 2. Pelkovenstr. 42
+- TOP 8.6.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Alzeyer Straße: Absolutes Haltverbot an den Feuerwehrzufahrten 2. Pfeilschifterstraße: Errichtung einer Kurzparkzone 3. Andernacher Straße: Einrichtung eines personenbezogenen Behindertenparkplatzes 4. Irma-Wenke-Straße: Errichtung absolutes Haltverbot
+- TOP 8.7.: (U) Verlängerung der Laufzeiten von Flüchtlingsunterkünften 1. Stadtbezirk - Altstadt-Lehel 10. Stadtbezirk - Moosach 11. Stadtbezirk - Milbertshofen-Am Hart 13. Stadtbezirk - Bogenhausen 14. Stadtbezirk - Berg am Laim 15. Stadtbezirk - Trudering-Riem 16. Stadtbezirk - Ramersdorf-Perlach 19. Stadtbezirk - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln 21. Stadtbezirk - Pasing-Obermenzing 22. Stadtbezirk - Aubing-Lochhausen-Langwied
+- TOP 8.8.: Mobilitätsplan für München - Modellstadt München 2030 (Sitzungsvorlage Nr. 14-20/ V 13893 - siehe TOP 8.5, Sitzung am 04.02.2019) hier: geänderter Beschluss
+- TOP 8.9.: (U) Überprüfung des Nachverdichtungspotentials um das Olympia Einkaufszentrum Antrag Nr. 14-20 / A 04046 der FDP - HUT Stadtratsfraktion vom 02.05.2018 Stadtbezirk 10 - Moosach
+- TOP 8.10.: (U) Toni-Merkens-Weg 4, Landshuter Allee (östlich), Nymphenburg-Biedersteiner-Kanal (nördlich), Ernst-Curtius-Weg (westlich) und Sapporobogen (südlich) - Neue multifunktionale Sportarena im Olympiapark - A) Bekanntgabe des Wettbewerbsergebnisses B) Weiteres Vorgehen Stadtbezirk 11 – Milbertshofen-Am Hart
+- TOP 8.11.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017
+- TOP 8.12.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 8.13.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
+- TOP 8.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15.: (U) Wirtshäuser in den Außenbezirken Münchens mittels Bauleitplanung erhalten Antrag Nr. 14-20 / A 04176 von der ÖDP vom 14.06.2018 Stadtbezirk 10 - Moosach Stadtbezirk 22- Aubing-Lochhausen-Langwied
+- TOP 8.16.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018
+- TOP 8.17.: Broschüre "Bürgerschaftliches Engagement gewinnt - durch Weiterbildung in München" (Qualifizierungsangebote März bis August 2019)
+- TOP 8.18.: Information über Schienenwechsel auf der U3
