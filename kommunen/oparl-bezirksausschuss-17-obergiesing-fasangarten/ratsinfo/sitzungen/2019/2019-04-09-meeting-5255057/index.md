@@ -1,0 +1,173 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255057
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255057
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Einwohnerversammlung vom 25.03.2019: Parkpflegewerk füŕ den Kronepark
+- TOP 2.1.2.2.: Einwohnerversammlung vom 25.03.2019: Neuplanung am Kronepark (Instandsetzung unter Aufsicht eines Parkpflegewerks)
+- TOP 2.1.2.3.: Einwohnerversammlung vom 25.03.2019: Mögliche Neuplanung Kronepark nicht als Event Area
+- TOP 2.1.2.4.: Einwohnerversammlung vom 25.03.2019: Ökologisch sinnvolle Aufwertung des Kroneparks
+- TOP 2.1.2.5.: Einwohnerversammlung vom 25.03.2019: Aufwertung Kronepark durch Errichtung einer Toilette
+- TOP 2.1.2.6.: Einwohnerversammlung vom 25.03.2019: Kronepark belassen - auf dem Bauland selbst Grünflächen schaffen
+- TOP 2.1.2.7.: Einwohnerversammlung vom 25.03.2019: Kronepark belassen - Verpflichtung von Paulaner zu Ausgleichsfächen auf dem Neubaugelände
+- TOP 2.1.2.8.: Einwohnerversammlung vom 25.03.2019: Zugang im Winter zum Kronepark
+- TOP 2.1.2.9.: Unterstützung wegen zugeparkter Gehwege in Obergiesing in der Straße Am Bergsteig
+- TOP 2.1.2.10.: Kiosk am Grünspitz; Baumschutz; Bodenverdichtung und Versiegelung durch Kioskbetrieb
+- TOP 2.1.2.11.: Verbot der Hofladenautomaten in München/ kein Verkauf von leicht verderblichen Lebensmitteln in solchen Automaten
+- TOP 2.1.2.12.: Fehlendes Bauschild in der Oberviechtacher Straße und dazu manipulierte Bilder bei Google maps
+- TOP 2.1.2.13.: McGraw-Kaserne wird Wohnquartier - Artikel in der SZ; Bürgerschreiben (E-Mail) vom 26.03.19
+- TOP 2.1.2.14.: Parkplätze für die Anwohner in der McGraw-Kaserne; Bürgerschreiben (E-Mail) vom 15.03.19
+- TOP 3.9.1.1.: Foggensee 9, 2 Birken
+- TOP 3.9.1.2.: Perlacher Str. 105, 3 Robinen
+- TOP 3.9.1.3.: Trauchbergstr. 4, 1 Robine
+- TOP 3.9.1.4.: Wagingerstr. 6, 1 Birke
+- TOP 3.9.1.5.: Weißenseestr. 30, 1 Esche
+- TOP 4.1.: Welche M-WLAN-Standorte plant M-net in München; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.2.: Schallschutz und Luftqualität am St.-Quirin-Platz verbessern; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.3.: Müllcontainer der Heckscher-Klinik; Antrag der SPD-Fraktion
+- TOP 4.4.: Höhere Aufenthaltsqualität am Giesinger Bahnhofsplatz durch Pflanzen und Sauberkeit; Antrag der SPD-Fraktion
+- TOP 4.5.: Mehr Raum für Mensch und Rad - Zusätzliche Fördermöglichkeiten für Latenpedelecs durch das Stadtbezirksbudget; Antrag der SPD-Fraktion
+- TOP 4.6.: Ergänzung der existenten Steinsitze im Bereich des Giesinger Bahnhofsplatzes mit Holzsitzflächen und Holzlehnen mit Zustimmung der beauftragten Landschaftsarchitekten für die Gestaltung des Platzes; Antrag der Freien Wähler
+- TOP 4.7.: Installation einer „Intelligenten Ampelsteuerung“ in Verbindung mit „variabler Geschwindigkeitssteuerung“ als Modellversuch im 17. Stadtbezirk.
+- TOP 4.8.: Beteiligung des Bezirksausschusses an den geplanten kurzfristig wirkenden Maßnahmen zur Luftreinhaltung an der Chiemgau- und Tegernseer Landstraße; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.9.: Parklizenzgebiete "Walchenseeplatz" und "Giesinger Bahnhof" schnellstmöglich umsetzen ? Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Eltern-Kind-Initiative in der Jesaja-Gemeinde e.V. Neubau eines Sandkastens 3.000,00 € / Az. 0262.0-17-0196
+- TOP 5.1.2.: Stadtbezirksbudget Green City e.V. Anschaffung und regelmäßige Leerung einer Komposttoilette für den Grünspitz von April 2019 - April 2020 7.354,00 € / Az. 0262.0-17-0199
+- TOP 5.1.3.: (E) Stadtbezirksbudget Lebenshilfe München e.V. Inklusives Familienfest am 18.05.2019 1.500,00 € Az: 0262.0-17-0200
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Verwendungsnachweis über den Bewilligungsbescheid der LHM für die Aktion Informationsveranstaltung Senioren
+- TOP 5.4.2.: Unterstützung für das SPIX; Bürgeranliegen vom 18.03.2019
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Städtebauliche Erhaltungssatzung für die Wohnanlage Giesing des Bauvereins München-Harlaching
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 6.1.4.2.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018
+- TOP 6.1.4.3.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 6.1.4.4.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017
+- TOP 6.1.4.5.: (U) Brauerei in der Tegernseer Landstraße 337 Änderung des bisherigen Flächennutzungsplanes
+- TOP 6.1.4.6.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
+- TOP 6.1.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.8.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 04.03.-24.03.19
+- TOP 6.1.4.9.: Unterrichtung über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen der Erhaltungssatzung 1. Werinherstr. 10 2. Deisenhofener Str. 11 3. Deisenhofener Str. 39
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Fortführung des Projekts „Soziale Stadt Giesing“
+- TOP 6.2.4.2.: Wechsel in der Geschäftsführung bei der Südbayerischen Wohn- und Werkstätten für Blinde und Sehbehinderte gGmbH
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: Stärkere Kontrolle von Radfahrern
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Weinbauernstraße; Geschwindigkeitsbeschränkung auf 30 km/h
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Vorgezogener, zeitnaher und barrierefreier Ausbau der Haltestelle „Landrichterstraße“ der Buslinie 145 in beiden Richtungen, Wartehalle an der südlichen Haltestelle (Fahrtrichtung Ostbahnhof)
+- TOP 6.3.4.2.: Werden bestehende Verbote durchgesetzt ? (Lkw-Durchfahrtverbot Mittlerer Ring)
+- TOP 6.3.4.3.: Lärm- und Abgasschutz entlang der Tegernseer Landstraße Einführung eines einheitlichen und durchgängigen Temoplimits von 50 km/h und dessen permanente Überwachung (Ziffer 1 des Antrages der BV vom 20.07.2017)
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Mehr Grün im Straßenraum
+- TOP 6.4.3.2.: Wertstoffinseln
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Wiederinbetriebnahme bereits bestehender (Trinkwasser-)Brunnen im 17. Stadtbezirk; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets
+- TOP 6.4.4.2.: Errichtung neuer (Trinkwasser-)Brunnen im 17. Stadtbezirk; Bestellung einer städtischen Leistung aus Mitteln des Stadtbezirksbudgets
+- TOP 6.4.4.3.: Baumentfernung und Gehölzpflegemaßnahmen in den Außenanlagen städtischer Immobilien, in Friedhöfen oder auf anderen städtischen Grundstücken
+- TOP 6.4.4.4.: Information über den Beginn der Wegsanierungsarbeiten am Walchenseeplatz
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung: Sommerfest für Giesing am 16.06.2019
+- TOP 6.5.3.2.: Veranstaltung am Giesinger Bahnhofsplatz: Theaterveranstaltung 100 Jahre 100 Pfade 100 Leute am 04.05.2019
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Fristverlängerung für den BA-Antrag 14-20 / B05774; Beteiligung des BA 17 an der Machbarkeitsstudie für den Ausbau des städtischen Stadions an der Grünwalder Straße
+- TOP 6.5.4.2.: Erhöhung des Anteilssatz für eigene Veranstaltungen von 6 Prozent (bzw. 8 Prozent in Jubiläumsjahren) auf 10 Prozent oder zumindest bei Bedarf variabler zu gestalten
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Van-Hoa"
+- TOP 6.6.4.2.: Antrag auf unveränderte Fortführung des Gaststättenbetriebes "Geiger&#039;s Café und Bistro"
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.2.1.: Mittelfristige Finanzplanung 2018 - 2022 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2019 - 2022
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
