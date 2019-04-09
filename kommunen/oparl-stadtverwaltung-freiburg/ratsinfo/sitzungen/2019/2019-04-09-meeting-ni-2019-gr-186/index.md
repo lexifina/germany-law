@@ -1,0 +1,58 @@
+# 4. Sitzung des Gemeinderates (Beschluss DHH)
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2019-04-09T14:08:00+02:00
+- Ende: 2019-04-09T20:33:00+02:00
+- Ort: Neuer Ratssaal des Rathauses, Rathausplatz 2 - 4, 79098 Freiburg im Breisgau
+- Status: durchgeführt
+- Gremium: https://ris.freiburg.de/oparl/organization/GR
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2019-GR-186
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2019-GR-186
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Grundsatzreden der Fraktionen, Fraktionsgemeinschaften und Gruppierung zum Doppelhaushalt 2019/2020
+- TOP 2: Doppelhaushalt 2019/2020 – Haushaltssatzung mit Haushaltsplan für die Haushaltsjahre 2019 und 2020
+- TOP 2.0.1: Doppelhaushalt 2019/2020 – Haushaltssatzung mit Haushaltsplan für die Haushaltsjahre 2019 und 2020
+- TOP 2.0.2: Doppelhaushalt 2019/2020 – Haushaltssatzung mit Haushaltsplan für die Haushaltsjahre 2019 und 2020
+- TOP 2.1: Änderungslisten der Verwaltung: Entscheidung zu Beschlussziffern 1 und 2 der Drucksache G-18/258.2 - Anlagen 1 - 4 der Drucksache G-18/258.1 und Anlagen 5 und 6 der Drucksache G-18/258.2 -
+- TOP 2.2: Unstrittige Anträge - befürwortete Anträge (Liste A) - durch Rücknahme, Ablehnung oder anderweitig erledigte Anträge (Liste B)
+- TOP 2.3: 3. Freiburger Nachhaltigkeitsbericht beispielhafter Ausschnitt zur Darstellung des Nachhaltigkeitsprozesses
+- TOP 2.4: Beschlussfassung / Endberatung der haushaltsrelevanten Drucksachen von Ziff. 2.5 bis 2.25, ggf. modifiziert durch befürwortete Anträge (Liste A) und ggf. Beschlussfassung über die zugehörigen strittigen Fraktionsanträge (Liste C) - Anlage 4 (Liste C) der Drucksache G-18/258.2 / Bereich haushaltsrelevante Drucksachen -
+- TOP 2.5: Bauvorhaben in Kindertageseinrichtungen in Freiburg h i e r : Grundsatzbeschluss für den Neubau einer Kindertageseinrichtung und die Weiterentwicklung des Sozial- und Jugendzentrums Breisacher Hof sowie Informationen zu den Bauvorhaben in Kitas
+- TOP 2.6: Schulsozialarbeit und Jugendsozialarbeit an allgemeinbildenden und beruflichen Schulen h i e r : Aufstockung der Regiemittel und Ausbau im Doppelhaushalt 2019/2020
+- TOP 2.7: Förderung von Kindertageseinrichtungen und Kindertagespflege in Freiburg h i e r : Fortschreibung der Richtlinien
+- TOP 2.8: Gesamtkonzept Durchgängige Sprachbildung in Freiburg 2030 h i e r : Erste Umsetzungsphase 2019/2020
+- TOP 2.9: Digitalisierung h i e r : Digitalisierung der Freiburger Schulen
+- TOP 2.10: ICLEI-Europasekretariat in Freiburg h i e r : Verlängerung des Gastgemeindevertrags
+- TOP 2.11: Klimaschutzkonzept Freiburg h i e r : Fortschreibung 2019 - Ziele, Strategien und Maßnahmen
+- TOP 2.12: Klimaschutzkonzept Freiburg h i e r : Mittelverwendung aus der Konzessionsabgabe für zusätzliche Klimaschutzmaßnahmen im Doppelhaushalt 2019/2020 sowie Projektrückblick 2017/2018
+- TOP 2.13: Erhalt der Biodiversität in Freiburg mit Schwerpunkt auf Insekten und Vögel h i e r : Finanzierung und Umsetzung von Maßnahmen zum Insektenschutz und zur Förderung der biologischen Vielfalt
+- TOP 2.14: Förderung der Bildenden Kunst h i e r : Maßnahmen zur Kompensation des Wegzugs der Außenstelle Freiburg der Akademie der Bildenden Künste Karlsruhe
+- TOP 2.15: Sanierung und Neukonzeption des Augustinermuseums h i e r : Genehmigung der Einrichtungsmittel 3. Bauabschnitt
+- TOP 2.16: Angebote für die Belange von Senior_innen h i e r : 1. Erweiterung Pflegestützpunkt mit Aufbau von dezentraler Beratung 2. Koordination und fachliche Begleitung der Initiativen „Älterwerden im Stadtteil“ und Weiterentwicklung altengerechte Stadtteile 3. Ausbau „Wohnen für Hilfe“ beim Studierendenwerk Freiburg
+- TOP 2.17: Neuausrichtung der Quartiersarbeit in Freiburg h i e r : Modifizierung des Umsetzungskonzepts und Ausbau der Quartiersarbeit
+- TOP 2.17.1: Neuausrichtung der Quartiersarbeit in Freiburg h i e r : Modifizierung des Umsetzungskonzepts und Ausbau der Quartiersarbeit
+- TOP 2.17.2: Neuausrichtung der Quartiersarbeit in Freiburg h i e r : Modifizierung des Umsetzungskonzepts und Ausbau der Quartiersarbeit
+- TOP 2.18: Projekte und Programme zur Beschäftigungsförderung und Jugendberufsagentur 2019/2020
+- TOP 2.19: Erwerb mobiler und stationärer Verkehrsüberwachungsanlagen
+- TOP 2.20: Bezuschussung von Investitionsvorhaben der Sportvereine h i e r : Sonderprogramm Kunstrasenplätze 2019/2020
+- TOP 2.21: Neuaufstellung des Flächennutzungsplans 2040 mit integriertem Landschaftsplan h i e r : Personal und Sachmittel
+- TOP 2.22: Umsetzung von Maßnahmen aus dem „Masterplan Green City“/Sofortprogramm „Saubere Luft“ der Bundesregierung
+- TOP 2.23: Feyelschule Ebnet h i e r : Grundsatzbeschluss Erweiterung
+- TOP 2.24: Verwendung der Bauunterhaltungsmittel im Garten- und Tiefbauamt im Doppelhaushalt 2019/2020
+- TOP 2.25: Bauunterhaltungsmaßnahmen 2017/2018 sowie geplante Maßnahmen 2019/2020 für die Gebäude des Gebäudemanagement Freiburg
+- TOP 2.26: Aufstellung des Doppelhaushaltes 2019/2020 h i e r : Zuschüsse an die Träger der freien Jugendhilfe
+- TOP 2.27: Aufstellung des Doppelhaushaltes 2019/2020 h i e r : Zuschüsse an die Träger der freien Jugendhilfe im Bereich Migration
+- TOP 2.28: Aufstellung des Doppelhaushaltes 2019/2020 h i e r : Zuschüsse an die Träger der freien Jugendhilfe im Bereich Jugendberufshilfe
+- TOP 2.29: Strittige Anträge: Bereiche Investitionen, Zuschüsse, Teilergebnishaushalt - Anlage 4 (Liste C) der Drucksache G-18/258.2 / Bereiche Investitionen, Zuschüsse, Teilergebnishaushalt -
+- TOP 2.30: Strittige Anträge: Gegenfinanzierung / Einsparung - Anlage 4 (Liste C) der Drucksache G-18/258.2 / Bereich Gegenfinanzierung / Einsparung -
+- TOP 2.31: Wettbürosteuer: Entscheidung zu Beschlussziffer 5 der Drucksache G-18/258.2
+- TOP 2.32: Gesamtbetrag der Verpflichtungsermächtigungen: Entscheidung zu Beschlussziffer 3 der Drucksache G-18/258.2
+- TOP 2.33: Entwicklung der Planstellen, der Personalaufwendungen und Stellenplan zum Doppelhaushalt 2019/2020
+- TOP 2.33.1: Entwicklung der Planstellen, der Personalaufwendungen und Stellenplan zum Doppelhaushalt 2019/2020
+- TOP 2.34: Doppelhaushalt 2019/2020 h i e r : Finanzplanung 2018 bis 2022
+- TOP 2.34.1: Doppelhaushalt 2019/2020 h i e r : Finanzplanung 2018 bis 2022
+- TOP 2.35: Haushaltssatzung mit Haushaltsplan für die Haushaltsjahre 2019 und 2020 - fortgeschriebene Anlage 1 der Drucksache G-18/258.2 -
+- TOP 3: Bekanntgaben und Aktuelles
