@@ -1,0 +1,130 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2019-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5269748
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5269748
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.1.: -entfällt-
+- TOP 4.1.: Mitberatung des TOP B.4.1
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP A: Allgemeines
+- TOP 9.1.: Mittelfristige Finanzplanung 2018-2022, Mehrjahresinvestitionsprogramm – Anhörungsverfahren, Fortschreibung für die Jahre 2019 bis 2023
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: Erweiterung einer bestehenden Freischankfläche, Occamstraße 6
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Finauerstraße 18, TEKTUR, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.1.2.: Situlistraße 37, 1 Blautanne, vertagt aus der Sitzung vom 19.03.2019
+- TOP 3.1.3.: Christoph-Probst-Straße 12, Generalsanierung Haus 11
+- TOP 3.2.1.: Bebauungsplan Nr. 79 der Gemeinde Oberschleißheim, „Gewerbegebiet östlich der Mittenheimer Straße“
+- TOP 3.2.2.: Bauleitplanung der Gemeinde Ismaning, 19. Änderung des Flächennutzungsplans der Gemeinde Ismaning für den Bereich der Biogasanlage auf Gut Karlshof
+- TOP 3.2.3.: Kulturheimstraße 17, Neubau eines Doppelhauses mit 2 Carports
+- TOP 3.2.4.: Zedernweg 7, Neubau und Umbau eines Wohnhauses - Vorbescheid
+- TOP 3.2.5.: Aumeisterweg, Errichtung einer 2-Feld-Tennistraglufthalle auf Sand-Tennisplätzen für den Winterbetrieb
+- TOP 3.2.6.: Gondershauser Straße 12, Neubau eines Einfamilienhauses mit Garage
+- TOP 3.2.7.: Christoph-Probst-Straße 12, Generalsanierung Haus 11
+- TOP 3.2.8.: Antrag des BA 18 auf Satzungsänderung bei Vorbescheidsanträgen
+- TOP 4.1.: Unterstützung der Freien Turnerschaft München-Schwabing von 1897 e.V.
+- TOP 5.: Unterrichtungen
+- TOP 5.2.1.: Begonienstraße 1
+- TOP 5.2.2.: Maiglöckchenstraße 7
+- TOP 5.2.3.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume
+- TOP 5.2.4.: Wallnerstraße 47
+- TOP 5.3.1.: Novellierung der Naturdenkmalverordnung, Referatsschreiben zu den Vorschlägen des BA 12
+- TOP 5.3.2.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018
+- TOP 5.3.3.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
+- TOP 5.3.4.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 5.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.6.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017
+- TOP 5.3.7.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 5.3.8.: Ambulanter Händler, Leopoldstraße 57
+- TOP 5.3.9.: (U) Fünf Plätze attraktiv neu gestalten Siegestor im 3. Stadtbezirk Maxvorstadt und im 12. Stadtbezirk Schwabing - Freimann Projektkosten (Ausführungskosten): 5.780.000 Euro 1. Ausführungsgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2019 - 2023
+- TOP 5.3.10.: Abgelehnte Baumfällung, Carl-Orff-Bogen 73 - 105
+- TOP 5.3.11.: Abgelehnte Baumfällung, Leopoldstraße 20
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Container im Biedersteiner Park entfernen
+- TOP 1.2.: Säulen der Bus- und Tramstation Münchner Freiheit öfter reinigen
+- TOP 1.3.: Schutzhäuschen erneuern am Bolzplatz zwischen A9 und Sportanlage des FC Schwabing / FC Alte Heide
+- TOP 1.4.: Haltestelle „Schwabinger Tor“ auf Baumängel und Tauglichkeit prüfen und verbessern
+- TOP 1.5.: Burmester- / Bauernfeindstraße wildes Parken, zu hohe Geschwindigkeit
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.2.: Wertstoffinseln
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Recyclingcontainer Leopoldstraße / Münchner Freiheit
+- TOP 4.2.: Verkehrssituation Sondermeierstraße/Leinthaler Straße, Antrag auf Einrichtung eines einseitigen Haltverbotes oder Durchfahrverbots
+- TOP 4.3.: Aufstellung von Recycling-Inseln in der Parkstadt Schwabing
+- TOP 4.4.: Johann-Fichte-Straße12, Aufnahme ins Vollanschlussgebiet für Gehwegreinigung und Winterdienst
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Eine Wertstoffinsel für die Parkstadt Schwabing
+- TOP 5.1.2.: Ergänzung zum CIVITAS ECCENTRIC Modellprojekt für den Domagkpark und die Parkstadt Schwabing
+- TOP 5.1.3.: Attraktive Tramverbindung schaffen – Regulärer Betrieb auf den Tramgleisen zwischen Scheidplatz und Prazivalplatz möglich machen
+- TOP 5.1.4.: Parkraummanagement Altschwabing
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Arbeiten im Straßenraum, Gundelindenstraße zwischen Ungererstraße und Klementinenstraße und Kunigundenstraße zwischen Gundelindenstraße und Dietlindenstraße
+- TOP 5.2.2.: Zufahrtsregelung für Wohngebiete bei der Allianz-Arena an Spieltagen
+- TOP 5.2.3.: Erleichterte streckenbezogene Anordnung von 30 km/h vor Kindergärten und ähnlichen Einrichtungen in der Potsdamer Straße und Dietlindenstraße
+- TOP 5.2.4.: Straßenbau Siegestor, Verkehrsphasen 0-1, 1 und 02-2
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 5.3.2.: Steinwüste im Wohngebiet Domagkpark begrünen, Antrag Nr. 14-20 / A 04615 der FDP – HUT Stadtratsfrakion vom 30.10.2018, Antwortschreiben des Referats
+- TOP 5.3.3.: Einsichtsspiegel Simmern / Ecke Rheinstraße zum Schulbeginn
+- TOP 5.3.4.: Dialog-Displays
+- TOP 5.3.5.: Genehmigung zum Weiterbetrieb der bestehenden Flüssiggasanlage am Standort Lilienthalallee 26
+- TOP 5.3.6.: Informationen über Betriebskonzept während Schienenwechsel auf der U-Bahnlinie U3
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 1.1.: Ausbau des westlichen Rückgebäudes der Mohr-Villa
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Domagkateliers gGmbH Akustische Aufwertung der Halle 50 vom 15.04. - 31.08.2019 9.000,00 Euro, Az.: 0262.0-12-0310
+- TOP 2.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt, Freizeittreff Freimann Spielefest im Carl-Orff-Bogen-Park am 31.07.2019 1.208,25 Euro, Az.: 0262.0-12-0306
+- TOP 2.3.: (E) Stadtbezirksbudget Generationenzentrum e.V., Kindergarten Mini-Timmi Anschaffung von Spielgeräten 2.890,00 Euro, Az.: 0262.0-12-0309
+- TOP 2.4.: (E) Stadtbezirksbudget Blütenring e.V. Theatertage am 22./23.06. und 29./30.06.2019 4.289,50 € AZ: 0262.0-12-0308
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative Wunderbuch 2.0 Theater Tournee „Wunderbuch 2.0“ vom 14.10. - 14.12.2019 4.850,00 € Az: 0262.0-12-0311
+- TOP 2.6.: (E) Stadtbezirksbudget Corso Leopold e.V. Corso Leopold - Heimat Europa am 25./26.05.2019 7.788,00 € Az: 0262.0-12-0315
+- TOP 3.: Anhörungen
+- TOP 3.1.: Münchner Freiheit, Studienwerbung mit Infomobil am 26.04.-27.04.2019
+- TOP 3.2.: „Demokratie im Einsatz“, Infoveranstaltungen zur Europawahl, ab 08.05.2019
+- TOP 3.3.: Spiel- und Sportgelände Weißenhofweg, Flohmarkt Parkstadt Schwabing am 19.05.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.2.: Lärmbelästigung Münchner Freiheit – Umbau des Lüftungskastens
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Unterstützung des Kunstprojekts für Kinder, Jugendliche und Erwachsene „DER FAHRENDE RAUM“ in Freimann
+- TOP 5.2.1.: Leopoldstraße 48
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Kurzbericht zur Aufführung des Theaterstücks „Das Bildnis des Dorian Gray“ der Theatergruppe Heidekraut e.V.
+- TOP 5.3.2.: Verwendungsnachweise über gewährte Zuschüsse aus dem Stadtbezirksbudget
+- TOP 5.3.3.: (U) Veranstaltung auf öffentlichem Verkehrsgrund Streetlife / Festival / Corso Leopold Erweiterung der Aufbauzeiten und der räumlichen Ausdehnung
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
