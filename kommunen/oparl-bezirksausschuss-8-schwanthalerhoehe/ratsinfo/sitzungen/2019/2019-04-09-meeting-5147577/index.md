@@ -1,0 +1,66 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-04-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147577
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147577
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Umweltprogramm der Carl-von-Linde-Realschule
+- TOP 4.2.: Parkregelung im Bereich der Theresienhöhe 11
+- TOP 6.1.1.: Gaststätte Schießstättstr. 25; Erweiterung einer bestehenden Freischankfläche
+- TOP 6.1.2.: Gollierplatz 12; Errichtung von Querungshilfen
+- TOP 6.2.1.: Bauvorhaben Alter Messeplatz 10
+- TOP 6.2.2.: Bauvorhaben Tulbeckstraße 32
+- TOP 6.2.3.: Bauvorhaben Bergmannstr. 10 - VB
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Meldeliste Bauvorhaben SWM
+- TOP 6.3.3.: Unveränderte Fortführung von Gaststättenbetrieben - Schwanthalerstr. 148 - Landsbergerstr. 19 - Theresienhöhe 8 - Westendstr. 33 - Gollierstr. 30
+- TOP 6.3.4.: Bekämpfung der Zweckentfremdung von Wohnraum
+- TOP 6.3.5.: Bauvorhaben Landsberger Str. 119; Nutzungsänderung Gaststätte zu Wohnheim - Antwortschreiben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Lebensplätze für ehemals wohnungslose Frauen in der Westendstr. 35 / Tulbeckstr. 4F
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Kulturtage für die Schwanthalerhöhe; Durchführung einer Stadtteilwoche in 2024
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Veranstaltung "TUfast Präsentationsfahrt" Am Bavariapark 5 am 10.04.2019
+- TOP 8.2.2.: Einschränken des Schleichverkehrs in Richtung Innenstadt
+- TOP 8.2.3.: Baumfällung Bergmannstr. 43
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Öffnung der Einbahnstraße „Astallerstraße“ zwischen der Gollierstraße und der Westendstraße für den gegenläufigen Radverkehr – dauerhafte Anordnung
+- TOP 8.3.2.: Wegweisungsbeschilderung für die Parkgarage „Schwanthalerhöhe“
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget United Cultures Initiative e.V. Sidewalk Cultures Festival 26. - 28.07.2019 8.780,00 € / Az. 0262.0-8-0176
+- TOP 9.1.2.: (E) Stadtbezirksbudget Comicstadt München e.V. Comicfestival vom 20.6. - 23.06.2019 2.000,00 € Az: 0262.0-8-0180
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Anträge aus der Bürgerversammlung zur Kenntnisnahme a) Strategie zur Förderung von inhabergeführten Betrieben b) Der BA soll sich für ein urbanes und lebendiges Stadtviertel einsetzen c) Gemeinsame Lastenräder für&#039;s Westend d) Einrichtung eines Beratungs- und Informationsbüros für von Verdrängung bedrohten Bürgerinnen und Bürgern
+- TOP 11.1.: Mehrjahresinvestitionsprogramm 2019 bis 2023
+- TOP 11.2.: Änderung der BA-Satzung; Unterrichtungsrecht Wertstoffcontainer
+- TOP 11.3.: Auf- und Abbauzeiten Oktoberfest 2019
+- TOP 11.4.: Versetzung des Zeitungsständers an der Ecke Ligsalzstr./ Heimeranstr.
+- TOP 11.5.: Anhörungsrecht bei Vorbescheidsanträgen BA-Antrag Nr. 14-20 / B 05942 des Bezirksausschusses des Stadtbezirks 18 - Untergiesing - Harlaching vom 19.03.2019
+- TOP 12.1.: Protokoll der BA-Sitzung vom 12.03.2019
