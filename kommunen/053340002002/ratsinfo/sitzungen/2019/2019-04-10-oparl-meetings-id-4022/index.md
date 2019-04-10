@@ -1,0 +1,58 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-04-10T17:00:00+02:00
+- Ende: 2019-04-10T18:20:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4022
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4022
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 27.02.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 06.03.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 5: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 6: Quartalsberichterstattung: Programm „Gute Schule 2020“
+- TOP 6.1: Quartalsberichterstattung: Programm „Gute Schule 2020“ - Ergänzung - ungeändert beschlossen
+- TOP 7: 1. Nachtragssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018 - ungeändert beschlossen
+- TOP 8: Geprüfter Jahresabschluss 2016/2017 von Stadttheater und Musikdirektion Aachen per 31.07.2017 - ungeändert beschlossen
+- TOP 9: Wirtschaftsplan 2019/2020 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 10: Vorläufiger Wirtschaftsplan 2020/2021 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 11: Verzicht auf die Sonderzuständigkeit und Übertragung der Aufgaben der Stadt Aachen als Familienkasse des öffentlichen Dienstes an die Bundesagentur für Arbeit zum nächst möglichen Zeitpunkt - ungeändert beschlossen
+- TOP 12: Änderung der Rechnungsprüfungsordnung aufgrund der Änderungen durch das 2. NKF-Weiterentwicklungsgesetz und der hierdurch zum 01.01.2019 in Kraft getretenen Änderungen der Gemeindeordnung NW - ungeändert beschlossen
+- TOP 13: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der StädteRegion Aachen und der Stadt Aachen zur Überwachung chemikalienrechtlicher Vorschriften auf dem Gebiet der Stadt Aachen - ungeändert beschlossen
+- TOP 14: Annahme von Schenkungen:
+- TOP 14.1: Annahme einer Schenkung des Fördervereins der GGS Laurensberg - ungeändert beschlossen
+- TOP 14.2: Annahme einer Schenkung des Fördervereins des Einhard-Gymnasiums - ungeändert beschlossen
+- TOP 14.3: Annahme einer Schenkung für die Städt. Katholische Grundschule Höfchensweg - vertagt
+- TOP 14.4: Schenkung der Installation mit dem Titel "Un olor que entra por mi ventanta" von Havana Cultura Art Collection/Havana Club - Pernod Ricard an das Ludwig Forum für Internationale Kunst im Nachgang zur Ausstellung Kuba x Kuba - ungeändert beschlossen
+- TOP 14.5: Schenkung von Realien zur Aachener Brauereigeschichte vornehmlich der Fa. Degraa ("Sammlung Degen I + II") an die Städtische Sammlung - ungeändert beschlossen
+- TOP 15: Anfragen:
+- TOP 15.1: Ratsanfragen - ungeändert beschlossen
+- TOP 15.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 16: Ratsanträge - ungeändert beschlossen
+- TOP 17: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 17.1: Umbesetzungsantrag der Arbeitsgemeinschaft der Verbände der Freien Wohlfahrtspflege StädteRegion Aachen für den Kinder- und Jugendausschuss - ungeändert beschlossen
+- TOP 17.2: Umbesetzungsantrag der GRÜNE-Fraktion vom 21.03.2019 - ungeändert beschlossen
+- TOP 17.3: Umbesetzung in der Verbandsversammlung des WVER - ungeändert beschlossen
+- TOP 17.4: Umbesetzungsantrag der FDP-Fraktion vom 06.04.2019 - ungeändert beschlossen
+- TOP 17.5: Umbesetzungsantrag der CDU-Fraktion vom 09.04.2019 - ungeändert beschlossen
+- TOP 18: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
