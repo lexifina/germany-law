@@ -1,0 +1,101 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-04-10T17:00:00+02:00
+- Ende: 2019-04-10T22:50:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5424
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5424
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=328958
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 4.1: Stimmberechtigte Beteiligung am "Berliner Projektfonds Kulturelle Bildung“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 6.1: Haben Kleingartenkolonien in Tempelhof-Schöneberg noch eine Chance dauerhaft erhalten zu bleiben? - schriftlich beantwortet
+- TOP 6.2: Tempelhof-Schöneberg sagt Nein zur Bebauung von Kleingartenkolonien - überwiesen
+- TOP 6.3: Kontrollen im Kurfürstenkiez - in der BVV abgelehnt
+- TOP 7: Mündliche Anfragen - schriftlich beantwortet
+- TOP 8: Große Anfragen - schriftlich beantwortet
+- TOP 8.1: Bezahlbarer Wohnraum am Rande des Tempelhofer Feldes - schriftlich beantwortet
+- TOP 8.2: Vorbereitende Umsetzung des Jugendfördergesetzes in Tempelhof-Schöneberg - schriftlich beantwortet
+- TOP 8.3: Autonomer Kleinbus in unserem Bezirk in der Sackgasse? - schriftlich beantwortet
+- TOP 8.4: Jugendfreizeiteinrichtungen - schriftlich beantwortet
+- TOP 8.5: Was ist der Plan des Bezirksamtes für die selbstverwalteten Jugendeinrichtungen - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - erledigt
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Gertrud-Kolmar-Bibliothek an neuem Standort neu entwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Deutsch-Amerikanisches Volksfest auf dem Vorplatz zum Flughafengebäude - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Laien-Defibrillatoren in Schulen - überwiesen
+- TOP 10.4: Abwendung von Stromsperren bei Sozialleistungs-Empfänger_innen - überwiesen
+- TOP 10.5: Baulücke Hauptstr. 16 - in der BVV zurückgezogen
+- TOP 10.6: Inklusionssport in den Blick nehmen - mitmachen bei der Inklusionswoche Berlin - überwiesen
+- TOP 10.7: Woolworth-Kaufhäuser als bauliches Erbe der Nachkriegszeit bewahren - in der BVV abgelehnt
+- TOP 10.8: Familienfreundliche Arbeitszeitmodelle auch für Reinigungsdienstleistungen schaffen - überwiesen
+- TOP 10.9: Masern-Impfpflicht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Mehr Photovoltaikanlagen für unsere öffentlichen Gebäude im Bezirk - überwiesen
+- TOP 10.11: Unterkunft für obdachlose LGBTTIQ schaffen - überwiesen
+- TOP 10.12: Radverkehrsanlage auf der Friedrich-Gerlach-Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Plastikmüll an Schulen und in Kitas vermeiden - überwiesen
+- TOP 10.14: Landung der Rosinenbomber auf dem Flugfeld Tempelhof ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.15: Selbstverteidigung & Selbstbehauptung für Mädchen* - überwiesen
+- TOP 10.16: Modellvorhaben Anwohner*innenparkausweis - überwiesen
+- TOP 10.17: Architekturstudent*innen ein Forum geben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.18: Recyclinghöfe der BSR am südlichen Stadtrand (wieder) einrichten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.19: Veranstaltung zum Tag gegen Gewalt gegen Frauen - überwiesen
+- TOP 10.20: Angebote für einen Erwachsenen mit Kind bei den Berliner Bäderbetrieben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: In Memoriam Bruno Ganz - überwiesen
+- TOP 10.22: Frauenbeirat in Tempelhof-Schöneberg gründen - überwiesen
+- TOP 10.23: Von Gewalt betroffene LGBTTIQ besser über Hilfsangebote informieren - überwiesen
+- TOP 10.24: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.25: Toiletten auf stark frequentierten S- und U-Bahnhöfen im Bezirk einrichten - überwiesen
+- TOP 10.26: Radwege auf der Langenscheidtstraße baulich gegen Falschparker sichern - überwiesen
+- TOP 10.27: Präsenz des Bezirksamts als attraktiven Arbeitgeber stärken - überwiesen
+- TOP 10.28: Trauerfeier für einsam Verstorbene - überwiesen
+- TOP 11: übrige Große Anfragen - vertagt
+- TOP 11.1: Mobilität der Zukunft in Tempelhof-Schöneberg - vertagt
+- TOP 12: Beschlussempfehlungen - erledigt
+- TOP 12.1: Soziales Wohnen und bürgernahe Nutzung für das ehemalige Straßenbahndepot in der Belziger Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Kampf dem Insektensterben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Flächenpotentiale heben – Übernutzung und übermäßiger Verdichtung entgegenwirken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Odenwaldstraße 1 und Stubenrauchstraße 69 in Friedenau – Einsetzung eines Treuhänders zur Beendigung des zweckfremden Leerstands - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Soziale-Infrastrukturkonzept Tempelhof-Schöneberg (SIKo) - überwiesen
+- TOP 12.6: Das Eckener Gymnasium in Mariendorf platzt aus allen Nähten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Verkehrsführung Nahmitzer Damm/Buckower Chaussee zum Einkaufszentrum Südmeile verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Ausgleichsflächen für bedrohte Kleingärten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Poller auf Gehwegen auf ein sinnvolles Maß reduzieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Mehr Wohnungen durch Dachgeschossausbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Keine Diesel-Fahrverbote in Tempelhof-Schöneberg – Interessen von Bürgern und Mittelstand wahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Influenzaimpfungen für Mitarbeiter des Bezirksamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: fLotte kommunal: Freie Lastenfahrräder im Bezirk ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Lebensmittel-Nahversorgung am Bayerischen Platz sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Verbesserung der Wirksamkeit des Fußgängerüberganges Wiesbadener Str./Rheingaustr. in Friedenau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Rampe statt Aufzug im Foyer des Rathauses Schöneberg als Zwischenlösung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Getrennte Grünphasen für die Röblingstraße an der Kreuzung zur Arnulfstraße und zum Prellerweg für sichereres Abbiegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Tägliche Staubildung vermeiden – Ampelschaltung optimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Unerledigte Drucksachen aus der XIX. Wahlperiode im Bereich der Stadtentwicklung erledigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Einrichtung eines zweiten Mädchentreffs im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.21: Wider das Vergessen: Gedenkveranstaltung für Adolf Lewissohn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.22: Gedenken an Adolf & Helene Lewissohn wachhalten - Sportgeschichte in Mariendorf erinnern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 13.1: Hotelnetzwerk - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Online-Beantragung für Bewohnerparkausweise in Tempelhof-Schöneberg ermöglichen - überwiesen
+- TOP 13.3: Lichtenrade soll heller werden – Umrüstung der Gaslaternen jetzt! - überwiesen
+- TOP 13.4: Erhalt der Arbeitsplätze bei General Electric – Standort in Marienfelde sichern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Feuerwerk ja, aber nicht in dieser Form - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Innovations-, Technologie- und Gründerzentrum in Marienfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 13.7: Die Ausstellung „Plätze im Bayerischen Viertel“ nochmal zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Mehr Sicherheit für den Fuß- und Radverkehr – Kooperation mit Abschleppunternehmen prüfen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Für den Erhalt des Theaters „La vie en rose“ im Tempelhofer Flughafengebäude - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Dem Ehrenamt eine Chance geben – Thomas-Dehler-Bibliothek muss bleiben - überwiesen
+- TOP 13.11: Pilotprojekt On-Demand-Service für autonomen Kleinbus zum Südkreuz ermöglichen - überwiesen
+- TOP 13.12: Auflagenbeschlüsse der BVV zum Haushalt 2018/2019, Teilplan 2019 hier: Nr. 1.1 Pauschale Minderausgaben belegen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
