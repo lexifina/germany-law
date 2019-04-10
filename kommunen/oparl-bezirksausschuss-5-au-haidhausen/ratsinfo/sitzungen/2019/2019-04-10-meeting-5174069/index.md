@@ -1,0 +1,142 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-04-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174069
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174069
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 0.: Vorstellungen
+- TOP 2.3.: Elsässer Str. 28: Tektur zu Ausbau zweier Dachgeschosse und Einbau eines Aufzugs
+- TOP 2.4.: Elsässer Str. 28: Tektur zu Ausbau eines Untergeschosses
+- TOP 2.5.: Preysingstr. 4: Anbau eines Außenaufzugs
+- TOP 2.6.: Wörthstr. 7: Vordergebäude: Zusammenlegung zweier Gewerbeeinheiten zu einer Gaststätte (mit Alkoholausschank), Vorbescheid
+- TOP 2.7.: Wörthstr. 7: Rückgebäude: Dachgeschoss-Abbruch und Aufstockung um 2 Geschosse für Wohnzwecke mit Balkonen und Außenaufzug, Vorbescheid
+- TOP 2.8.: Breisacher Str. 3: Erneuerung der Balkone (Vordergebäude und Mittelgebäude Nordseite)
+- TOP 2.9.: Langerstr. 2: Penthouse-Aufstockung eines Wohngebäudes, Tektur zur Erweiterung einer Penthousewohnung um eine Einliegerwohnung im Bereich eines Lagers und geänderte Lage der Anleiterstelle
+- TOP 2.10.: Lilienstr. 56: Rückgebäude: Tektur zu Umbau und Sanierung eines Rückgebäudes mit geneigtem Dach in ein Gebäude mit Flachadach und Dachterrasse sowie Nutzungsänderung Lager zu Büro
+- TOP 2.11.: Sedanstr. 34: Nutzungsänderung: Laden zu Gaststätte mit Verbindung zum Keller
+- TOP 2.12.: Weißenburger Str. 29: Aufstockung eines Rückgebäudes
+- TOP 2.13.: Metzstr. 7: Dachaufstockung eines Mehrfamilienhauses / Beseitigung des bestehenden Dachstuhls
+- TOP 4.: Bürgeranliegen
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 1.1.: Nachbesetzung der Fraktion Die Grünen in den Unterausschüssen Planung und Gesundheit, Umwelt und Verkehr sowie im Ferienausschuss Vertagung aus der Sitzung vom 20.03.2019
+- TOP 5.1.: Barrierefreier Zugang im Einstein-Kulturzentrum
+- TOP 5.2.: Verkehrsprobleme in der Lilienstraße
+- TOP 5.3.: Schleibingerstraße: Mehr Platz für den Fußverkehr
+- TOP 5.4.: WLAN / WiFi in allen MVG- und MVV-Bereichen
+- TOP 5.5.: Zebrastreifen in der Zeppelinstraße neu markieren
+- TOP 6.1.1.: (E) Stadtbezirksbudget Lix GbR LIX-Lesereihe vom 15.04.-31.12.2019 3.470,00 € - siehe auch UA Kultur -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Bang Bang! Concerts Veranstaltung "50 Jahre Woodstock - One Day of Peace & Music" vom 16.08.2019 3.055,00 € - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Grundschule Kirchenstraße Tanzprojekt ab November 2018 1.310,00 € - siehe auch UA Soziales -
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche, hier: "Kaliora", Braystr. 22 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Flohmarkt am 18.05.2019 auf dem Platz vor dem Alten- und Service-Zentrum Haidhausen in der Wolfgangstr. 18 -siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: Projektplanung Sedan-/Metzstraße, Bau von Aufstellflächen für den Fußgängerverkehr - siehe auch Unterausschuss GUV -
+- TOP 6.3.2.: Einwohnerversammlung vom 25.03.2019: Parkpflegewerk füŕ den Kronepark
+- TOP 6.3.3.: Einwohnerversammlung vom 25.03.2019: Neuplanung am Kronepark (Instandsetzung unter Aufsicht eines Parkpflegewerks)
+- TOP 6.3.4.: Einwohnerversammlung vom 25.03.2019: Mögliche Neuplanung Kronepark nicht als Event Area
+- TOP 6.3.5.: Einwohnerversammlung vom 25.03.2019: Ökologisch sinnvolle Aufwertung des Kroneparks
+- TOP 6.3.6.: Einwohnerversammlung vom 25.03.2019: Aufwertung Kronepark durch Errichtung einer Toilette
+- TOP 6.3.7.: Einwohnerversammlung vom 25.03.2019: Kronepark belassen - auf dem Bauland selbst Grünflächen schaffen
+- TOP 6.3.8.: Einwohnerversammlung vom 25.03.2019: Kronepark belassen - Verpflichtung von Paulaner zu Ausgleichsfächen auf dem Neubaugelände
+- TOP 6.3.9.: Einwohnerversammlung vom 25.03.2019: Zugang im Winter zum Kronepark
+- TOP 7.1.: Mittelfristige Finanzplanung 2018-2022, Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2019-2023
+- TOP 7.2.: Wertstoffinseln BA-Antrag Nr. 14-20/ B 05728 des Bezirksausschusses 12 - Schwabing Freimann vom 15.01.2019; Anhörung des Direktoriums vom 26.03.2019
+- TOP 7.3.: "Europafest" am 18.05.2019 auf dem Weißenburger Platz
+- TOP 7.4.: Anhörungsrecht bei Vorbescheidsanträgen BA-Antrag Nr. 14-20 / B 05942 des Bezirksausschusses des Stadtbezirks 18 - Untergiesing - Harlaching vom 19.03.2019
+- TOP 8.1.1.: Bahnbrücke Balanstraße: Bahnparallelen Radweg einplanen - Fristverlängerung bis 31.07.2019 -
+- TOP 8.1.2.: Aktueller Sachstand: 2. S-Bahnstammstrecke am Ostbahnhof
+- TOP 8.1.3.: Ständer für Kinder-Roller bzw. Tretroller Scooter
+- TOP 8.2.1.: 2. Stammstrecke: Umfangreiche Informationen am Ostbahnhof - Reaktion auf Stellungnahme BA 5 vom 28.02.2019 -
+- TOP 8.3.1.: Geschwindigkeitskontrollen in der Welfenstraße
+- TOP 8.4.1.: Informationsblatt 04/19
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Lix GbR LIX-Lesereihe vom 15.04.-31.12.2019 3.470,00 €
+- TOP II.2.: (E) Stadtbezirksbudget Bang Bang! Concerts Veranstaltung "50 Jahre Woodstock - One Day of Peace & Music" vom 16.08.2019 3.055,00 €
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Grundschule Kirchenstraße Tanzprojekt ab November 2018 1.310,00 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Errichtung je eines Hauses für Kinder mit 3 Krippen- und 3 Kindergartengruppen an der Ohlmüllerstraße und an der Hiendlmayrstraße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Partizipationsmittel für Kinder und Jugendliche in München
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung einer bestehenden Freischankfläche, hier: "Kaliora", Braystr. 22
+- TOP 1.2.: Flohmarkt am 18.05.2019 auf dem Platz vor dem Alten- und Service-Zentrum Haidhausen in der Wolfgangstr. 18
+- TOP 2.: Anhörungen
+- TOP 2.1.: Aufstellung einer Sitzgelegenheit vor dem Anwesen Metzstr. 1
+- TOP 2.2.: Skateparkmobil des Vereins HIGH FIVE in der Postwiese an verschiedenen Terminen 2019
+- TOP 2.3.: Infostand "Moralische Grundwerte" am 14.06.2019 am Weißenburger Platz 9
+- TOP 2.4.: Münchner Radlnacht am 10.08.2019 (u.a. im 5. Stadtbezirk in der Falkenstraße, Mariahilfplatz, Schweigerstraße)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Marktveranstaltungen auf dem Orleansplatz im Jahr 2019
+- TOP 3.2.: Genehmigung der Werbeveranstaltung "Selle Royal Bike Van" am 27.03.2019 am Wiener Platz - Antwort auf Stellungnahme BA 5 vom 22.02.2019 -
+- TOP V.: UA Planung
+- TOP 0.1.: Kanalbaumaßnahme Regerstraße - Vorstellung durch die Münchner Stadtentwässerung
+- TOP 0.2.: Sichtschutzzaun am Spielplatz Einsteinstraße - Vorstellung durch das Baureferat
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Franziskanerstr. 15: Sanierung Vorderhaus, DG-Ausbau, Errichtung Balkonanlage (hofseitig), Neubau eines Mehrfamilienhauses mit Tiefgarage im Hof, Vorbescheid
+- TOP 2.2.: Elsässer Str. 24: Vordergebäude: DG-Umbau, Dachspitzausbau mit Einbau zweier Dachterrassen, Anbau von Balkonen und Personenaufzug; Nutzungsänderung im Erdgeschoss: Gaststätte zu Wohnen, Nutzungsänderung im Kellergeschoss: Keller zu Hobbyraum; Teilung einer Ladenwohnung zu Laden und Wohnung Rückgebäude: Wohnungsteilung im 1. und 2. Obergeschoss; Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017
+- TOP 3.2.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018
+- TOP 3.3.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
+- TOP 3.6.: (U) Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum Sachstand und weiteres Vorgehen
+- TOP 3.7.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Auerfeldstr. 16 b) Einsteinstr. 127 c) St.-Wolfgangs-Platz 6
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Projektplanung Sedan-/Metzstraße, Bau von Aufstellflächen für den Fußgängerverkehr
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schneckenburgerstr. 10 a: Fällung von 1 Weißtanne
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 3.2.: (U) Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum Ergebnisse der Verkehrsuntersuchung Ergebnisse der Verkehrsuntersuchung Stadt und Fluss, Rahmenplanung innerstädtischer Isarraum BA-Antrags-Nr. 14-20 / B 05843 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019 Rahmenplanung innerstädtischer Isarraum: Ab Rosenheimer Platz stadteinwärts: Radfahrstreifen während der Sanierungsarbeiten BA-Antrags-Nr. 14-20 / B 05844 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019
+- TOP 3.3.: Aufstellung der Dialog-Displays vom 29.04.-23.06.2019 in der Elsässer Straße Höhe Hausnr. 15 in nördlicher und südlicher Fahrtrichtung
+- TOP 3.4.: Ersatzpflanzung Orleansstr. 10-12 - Antwort auf Stellungnahme BA 5 vom 18.02.2019 -
+- TOP 4.1.: Lieferzone am Michael-Huber-Weg
+- TOP 4.2.: Radweg am Gebsattelberg
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 06.05.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 06.05.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 07.05.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 08.05.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 09.05.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 15.05.2019, 19 Uhr, Ort steht noch nicht fest BA- Vorstand, Dienstag, 30.04.2019, 19 Uhr, Friedenstraße 40
