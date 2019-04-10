@@ -1,0 +1,56 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-04-10T17:00:00+02:00
+- Ende: 2019-04-10T19:26:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16314
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16314
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339929.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339929.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00339929.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Verkehrs- und Kriminalitätsstatistik - zur Kenntnis genommen
+- TOP 3: Entwicklung Theodorstraße "Weiteres Vorgehen" - mehrheitlich abgelehnt
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Antrag CDU und FDP: Straße In den Diken - Verkehrssituation vor der Postfiliale - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - vertagt
+- TOP 15: Unterrather Straße - Klinke 2. BA - - einstimmig beschlossen
+- TOP 16: Anfrage SPD: Flüchtlingsunterkunft In der Nießdonk - vertagt
+- TOP 17: Anfrage SPD: KiTa Flic-Flac - vertagt
+- TOP 18: Anfrage SPD: fehlende dauerhafte Anbindung Lichtenbroich / Rath (Linie 776) - vertagt
+- TOP 19: Anfrage SPD: Busshuttle E 729 ISS DOME - vertagt
+- TOP 20: Anfrage SPD: Altglas- und Papiercontainer - vertagt
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 22: Anfrage SPD: Tempo 30 Thewissenweg - vertagt
+- TOP 23: Anfrage Fr.+Hr. Sültenfuß (CDU) Hr. Körner (FDP): Sachstand Planung/Umsetzung (Mini-)Kreisverkehre - vertagt
+- TOP 24: Anfrage CDU und FDP: Parken im Gewerbebereich - vertagt
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Antrag CDU und FDP: Reinigung verschmutzter Straßen-/Verkehrsschilder und Piktogramme im SB 6 - vertagt
+- TOP 27: Antrag SPD: Sport im Park - zurückgezogen
+- TOP 28: Antrag FDP und CDU: Buslinie von Mörsenbroich zu Rennbahn und Wildpark - einstimmig beschlossen
+- TOP 29: Antrag FDP und CDU: Anwohnerparkregelung im Bereich S-Bahnhof Rath - einstimmig beschlossen
+- TOP 30: Antrag CDU: Wartung und Pflege "Kreitenplatz" Münsterstraße - einstimmig beschlossen
+- TOP 31: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 32: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 33: Bauunterhaltungsmittel 2019 Teil B - sonstige Gebäude - einstimmig beschlossen
+- TOP 34: Bauunterhaltungsmittel 2019 Teil B - sonstige Gebäude - einstimmig beschlossen
+- TOP 35: Verfügungsmittel 2019 - einstimmig beschlossen
+- TOP 36: Zuschuss 2019 - einstimmig beschlossen
+- TOP 37: Bauern- und Handwerkermarkt Matthiaskirchweg 29./30.06.2019 - einstimmig beschlossen
+- TOP 38: MdV - Vandalismus auf der Bezirkssportanlage Rath - zur Kenntnis genommen
+- TOP 39: MdV - Bolzplatz Grünanlage Sankt-Franziskus-Straße - zur Kenntnis genommen
