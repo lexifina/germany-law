@@ -1,0 +1,72 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2019-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5180092
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5180092
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Vorstellung Bildung im Quartier im Stadtteil Hasenbergl "BildungsLokal Hasenbergl"
+- TOP 1.2.: Informationen zum Projekt "München - gesund vor Ort"
+- TOP 2.1.: (E) Stadtbezirksbudget Condrobs Beschäftigungs GmbH Einrichtung eines neuen Beschäftigungsplatzes 900,00 Euro / Az. 0262.0-24-0253
+- TOP 2.2.: (E) Stadtbezirksbudget Unternehmer für Feldmoching e.V Feldmochinger Frühlingsmarkt vom 30.03.-31.03.2019 3.200,00 Euro / Az. 0262.0-24-0256
+- TOP 2.3.: (E) Stadtbezirksbudget Verein Münchner Stadtteilgeschichte e.V. Bayerisches Jahr 2019 - Geschichte und Demokratie vom 13.03.-24.07.2019 2.880,00 €; Az.: 0262.0-24-0255
+- TOP 2.4.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Feldmoching e.V. Bereitstellung von Übungsmitteln 4.514,80 Euro / Az. 0262.0-24-0257
+- TOP 3.: Anträge
+- TOP 3.1.: Anträge zur Informationsveranstaltung Bebauung in der Ittlingerstraße vom 07.02.2019: 1. Gesellschaftliche Ausgeglichenheit im Münchner Norden; Aufwertung des Hasenbergls statt Verdichtung! 2. Anbauten an die Bestandsbauten nachbarschaftsverträglich und städtebaulich ästhetisch gestalten; Silhouette der Bestandsbauten maßvoll fortführen und in die umliegende Bebauung integrieren 3. Bebauung an die Kapazität der Tiefgarage anpassen, sowie Ersatzbepflanzung vor- nehmen; Stellplatzkonzept für die Bauphase vorlegen; Ein- und Ausfahrt der Tiefgarage verträglich und zielführend situieren 4. Antrag für einen Fahrradweg entlang der Ittlingerstraße; Antrag für die Begrünung der Ittlingerstraße durch Alleebäume 5. Stoppen der Nachverdichtung an der Ittlingerstraße bis die GWG Lösungen für Pro- bleme (Verkehr, Soziale Struktur) vorlegt. 6. Nachverdichtung an der Dülfer-/Ittlingerstraße: Aufstockung statt Kopfbauten
+- TOP 3.2.: Verkehrssituation am Bahnhof Feldmoching (Kreuzung Josef-Frankl-Straße / Paul-Preuß-Straße)
+- TOP 3.3.: Schulwegsicherheit für ein sicheres Überqueren der Dülferstraße zu Kindergärten, Schulen und Horten
+- TOP 3.4.: N Neues Mähkonzept der Stadt München
+- TOP 5.1.1.: Harpprechtstr. 1 - 7
+- TOP 5.2.1.: Harpprechtstr. 1 - 7
+- TOP 5.2.2.: Dülferstr. 98
+- TOP 5.2.3.: Fuchsienstr. 7
+- TOP 5.2.4.: N Am Blütenanger 68 a
+- TOP 5.2.5.: N Georg-Winkler-Str. 5
+- TOP 5.3.1.: N Osterfeuer am 21.04.2019, Gustav-Schiefer-Straße
+- TOP 5.4.1.: Verbesserung der Infrastruktur in der Siedlung am Lerchenauer See - Beschlussentwurf
+- TOP 5.4.2.: Bauleitplanverfahren in der Nachbargemeinde Oberschleißheim: Bebaungsplan Nr. 79; Gewerbegebiet östlich der Mittenheimer Straße
+- TOP 5.4.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Erweiterung Tempo-30-Zone im Bereich Robinienstraße
+- TOP 5.4.4.: Mittelfristige Finanzplanung 2018-2022 - Mehrjahresinvestitionsprogramm – Fortschreibung für die Jahre 2019 bis 2023
+- TOP 5.4.5.: N Wertstoffinseln, BA-Antrag Nr. 14-20 / B05728 des BA 12 - Unterrichtungsrecht
+- TOP 5.4.6.: N Anhörungsrecht bei Vorbescheidsanträgen (BA-Antrag Nr. 14-20 / B 05942, BA 18)
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Erhöhung des Anteilssatz für eigene Veranstaltungen von 6 Prozent (bzw. 8 Prozent in Jubiläumsjahren) auf 10 Prozent oder zumindest bei Bedarf variabler zu gestalten
+- TOP 6.2.: (E) Maßnahmen gegen den Schleichverkehr in Wohngegenden: Caracciolastraße - Zufahrt zur Schleißheimer Straße
+- TOP 6.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Tempo 30: Aschenbrennerstraße westlich Schleißheimer Straße (Bereich Kindergarten) b) Tempo 30: Feldmochinger Straße (Bereich Kindergarten Luna) c) Tempo 30: Lerchenauer Straße (Bereich Kindergarten Joki Lerchenau) d) Absolutes Haltverbot: Berberitzenstraße westlich Lerchenauer Straße e) Am Blütenanger: Vorübergehende Geschwindigkeitsbegrenzung auf 10 km/h jährlich während der Krötenwanderung
+- TOP 6.4.: Daten Pegel Feldmoching
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: Meldelisten Baumfällungen
+- TOP 6.7.: Beschluss "Perspektive München", SV Nr. 14-20/ V 12595; hier: Agrargutachten für den 24. Stadtbezirk (zu Schreiben BA 24 vom 25.10.2018)
+- TOP 6.8.: (U) Kooperatives Stadtentwicklungsmodell für Feldmoching - Ludwigsfeld
+- TOP 6.9.: (U) Kooperatives Stadtentwicklungsmodell für Feldmoching - Ludwigsfeld - Finanzbedarf - Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 6.10.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018 + Hinweis / Ergänzung vom 12.03.2019
+- TOP 6.11.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
+- TOP 6.12.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017
+- TOP 6.13.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 6.14.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 6.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.16.: (U) Mobilitätsplan für München – Modellstadt München 2030
+- TOP 8.1.: Protokoll der Sitzung vom 12.02.2019 (nach Genehmigung in der Sitzung am 12.03.2019)
+- TOP 8.2.: Umsetzung von Maßnahmen zum Ausbau der Fahrradinfrastruktur
+- TOP 8.3.: N Oktoberfest 2019, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 8.4.: N Mädchen*konferenz am 19.07.2019 im großen Rathaussaal
