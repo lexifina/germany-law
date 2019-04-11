@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-04-11T14:00:00+02:00
+- Ende: 2019-04-11T18:11:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16570
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16570
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00340047.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00340047.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00340047.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz FREIE WÄHLER: Urteil zum Wildtierverbot - beantwortet
+- TOP 3.2: Anfrage aus akt. Anlass der Ratsfrau Krüger: umweltbelasteter Schutt - beantwortet
+- TOP 3.3: Anfrage aktuell Rh Dr. Wlecke: Umzugsplanungen des Jüdischen Gymnasiums - beantwortet
+- TOP 3.4: Anfrage aktuell Rh Dr. Wlecke: Vertrauenserschütterungen zwischen Fortuna Düsseldorf und der Stadt b - beantwortet
+- TOP 3.5: Anfrage aktuell -Rf Krüger - Gutachten des TÜV-Rheinland zu den vom Abstellbahnhof Düsseldorf-Werste - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Lebendfuttereinkäufe in Düsseldorf - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Gutachten bzw. Rechtsberatungen - beantwortet
+- TOP 4.3: Anfrage der CDU-Ratsfraktion: Home-Office-Offensive - beantwortet
+- TOP 4.4: Anfrage CDU: Vorbeugender Brandschutz für städtische Gebäude und Einrichtungen - beantwortet
+- TOP 4.5: Anfrage BÜ90/GRÜ: U-Bahnhof Flughafen ohne Kunst am Bau? - beantwortet
+- TOP 4.6: Anfrage Rf Opelt-Mehr (Frauen-)Sicherheit, Sauberkeit und Service in den Altstadt-Parkhäusern - schriftlich beantwortet
+- TOP 4.7: Anfrage Rf Opelt -Brand Messehalle - schriftlich beantwortet
+- TOP 4.8: Anfrage des Ratsherrn Maniera: Vermietungspraxis auf der Kiefernstraße - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Maniera: Belegung von Sozialwohnungen - schriftlich beantwortet
+- TOP 4.10: Anfrage des Ratsherrn Dr. Wlecke: Senioren, Pflegeheime und mangelnde Plätze - schriftlich beantwortet
+- TOP 4.11: Anfrage der Ratsfrau Krüger: Vermehrtes Taubensterben am S-Bhf Friedrichstadt - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Krüger: Gehölzarbeiten in Stockum Nähe Eichenbruch und Goldregenweg - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfrau El Fassi: Vorfälle an Altweiber (1) - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau El Fassi: Vorfälle an Altweiber (2) - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Dr. Wlecke: FRIDAYS FOR FUTURE - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 9: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 10: NKF-Gesamtabschluss - einstimmig beschlossen
+- TOP 11: Erweiterung und Umbau der Grundschulen - einstimmig beschlossen
+- TOP 12: KGS Florensstr., Erweiterung der Zügigkeit von 2 auf 3 Züge mit Neubau einer Mensa und - einstimmig beschlossen
+- TOP 13: Carl-Benz-Realschule, Lewitstraße 2, als Erweiterungsbau für Unterrichts- und Differenzierungsräum - einstimmig beschlossen
+- TOP 14: Bedarfsbeschluss - Sanierung Fassade und Dachfenster des Lessing-Gymnasiums, Ellerstr. 84 - 94 - einstimmig beschlossen
+- TOP 15: Haus für Kinder, Jugendliche und Familien Froschkönigweg - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 16: Benennung des Kö-Bogen-Tunnel - einstimmig beschlossen
+- TOP 17: Benennung des Rheinufertunnel - einstimmig beschlossen
+- TOP 18: Änderung Verwaltungsgebühren Handwerkerparkausweise - mehrheitlich beschlossen
+- TOP 19: Freiwillige Leistungen für Geflüchtete in Ausbildung - mehrheitlich beschlossen
+- TOP 20: Ausweitung der Öffnungszeiten der Zentralbibliothek - einstimmig beschlossen
+- TOP 21: Änderung der Satzung der unselbstständigen Carl und Ruth Lauterbach Stiftung - einstimmig beschlossen
+- TOP 22: Verlängerung der Gültigkeit des Chancengleichheitsplans - Plan zur beruflichen Chancengleichheit von - einstimmig beschlossen
+- TOP 23: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 24: Kommission nach § 32 b Luftverkehrsgesetz - Neubesetzung - einstimmig beschlossen
+- TOP 25: Berufung eines stellvertretenden Mitgliedes in die Jury für den Förderpreis darstellende Kunst der L - einstimmig beschlossen
+- TOP 26: Abberufung eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 27: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Rahmenkonzept ZUKUNFT QUARTIER.DÜSSELDORF - mehrheitlich beschlossen
+- TOP 29: Anträge
+- TOP 29.1: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: RWE Aktien verkaufen - mehrheitlich abgelehnt
+- TOP 29.2: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Zwei Vollzeitstellen für barriefr. Querungshilfen - verwiesen
+- TOP 29.3: Antrag der Ratsfraktion DIE LINKE: Autofreier Tag für Düsseldorf - mehrheitlich abgelehnt
+- TOP 29.4: Antrag der Ratsfraktion DIE LINKE: Unterstützung des ICAN-Städteappells gegen Atomwaffen - mehrheitlich beschlossen
+- TOP 29.5: Antrag der Ratsfraktionen BÜ90/GRÜ, SPD und FDP: Aktions-Sonntag "Kostenfrei mit Bus und Bahn" - einstimmig beschlossen
+- TOP 29.5.1: Änderungsantrag der CDU-Ratsfraktion: Aktions-Sonntag "Kostenfrei mit Bus und Bahn" - mehrheitlich abgelehnt
+- TOP 30: Namensänderung der Realschule Golzheim - einstimmig beschlossen
