@@ -1,0 +1,52 @@
+# 41. Sitzung des Ortsgemeinderates Herxheim
+
+- Körperschaft: Ortsgemeinde Herxheim
+- Beginn: 2019-04-11T19:00:00+02:00
+- Ende: 2019-04-11T22:25:00+02:00
+- Ort: Kommunikationsraum Altenzentrum, Richard-Flick-Str. 2, 76863 Herxheim
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/200
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2019-200-127
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2019-200-127
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-200-127
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-200-127
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-200-127
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Potenzialanalyse und Konzipierung von Eh-da Flächen in Herxheim
+- TOP 3: Weiterentwicklung und Arbeitsprogramm 2019 der Biodiversitätsstrategie 'In Herxheim blüht uns was'
+- TOP 4: Fortschreibung des Nahverkehrsplanes des Landkreises Südliche Weinstraße
+- TOP 5: Bebauungsplan 'Quartier Obere Hauptstraße 32-36 u. 45'
+- TOP 6: 
+- TOP 7: 
+- TOP 8: Bebauungsplan 'Eisenbahnstraße / Im Kalkofen / Am Bahnhof'
+- TOP 9: Antrag auf Namensänderung eines Straßenabschnitts im Gewerbegebiet West II
+- TOP 10: Sanierung Mehrzweckhalle Hayna
+- TOP 11: Gewährung von Zuschüssen; Antrag des Renn? und Reitverein Südliche Weinstraße Herxheim e. V. auf Gewährung eines Zuschusses für die Anschaffung eines Traktors und Bahnplaners
+- TOP 12.1: Auftragsvergaben Sanierung der Kunststoff - Sportflächen in der Zentralen Sportanlage
+- TOP 12.2: Auftragsvergaben Umbau der Einmündung L493/Ortsrandstraße 'Süd-Ost' und Erweiterung bis zum Ende Gewerbegebiet 'Ost'
+- TOP 13: 
+- TOP 14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Grundstücksangelegenheiten
+- TOP 16: Unterrichtung über die Einwohnerversammlung vom 15.03.2019
+- TOP 17.1: Mitteilungen und Anfragen Ausbau der Bushaltestelle 'Kirchberg'
+- TOP 17.2: Mitteilung und Anfragen Spiel und Spaß uff de Gass
+- TOP 17.3: Mitteilungen und Anfragen Sitzungstermine
+- TOP 17.4: Mitteilungen und Anfragen Heckenrückschnitt Landauer Weg
+- TOP 17.5: Mitteilungen und Anfragen Parkraumkonzept
+- TOP 17.6: Mitteilungen und Anfragen Beleuchtung des Klingbachradweges im Bruch, Höhe Fischereigelände
+- TOP 17.7: Mitteilungen und Anfragen Verkehrssituation in der Kolpingstraße
+- TOP 17.8: Mitteilungen und Anfragen Gehwegsicherung Am Kleinwald, ggü. Reha-Zentrum
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
