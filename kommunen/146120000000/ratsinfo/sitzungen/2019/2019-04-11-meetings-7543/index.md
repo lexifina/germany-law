@@ -1,0 +1,71 @@
+# 63. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-04-11T16:00:00+02:00
+- Ende: 2019-04-11T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7543
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7543
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00402608.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde zum Thema "Bezahlbare Miete statt fetter Profite! Mietpreisbremse für Dresden in Kraft setzen!" - erledigt
+- TOP 4: Bezahlbare Miete statt fetter Profite! Mietpreisbremse für Dresden in Kraft setzen! - punktweise Zustimmung mit Ergänzung
+- TOP 5: Aktuelle Stunde: Digitaler Fortschritt in Dresden – Menschen mitnehmen und informieren, Infrastruktur schaffen! - Vertagung
+- TOP 6: Schaffung eines einheitlichen, sicheren und freizugänglichen öffentlichen WLANs für die Landeshauptstadt Dresden - Vertagung
+- TOP 7: Einigungsverfahren Gremienbesetzung - Stadtbezirksbeiräte
+- TOP 7.1: Umbesetzung im Stadtbezirksbeirat Altstadt - Einigung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Jahresabschluss 2017 des Eigenbetriebes Sportstätten Dresden - Zustimmung
+- TOP 10: Anträge - Liquiditätsreserve
+- TOP 10.1: Breitensport fördern! – Maßnahmepaket zur Unterstützung und Förderung des Vereins- und Breitensports in der Landeshauptstadt Dresden - Vertagung
+- TOP 10.2: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung
+- TOP 10.3: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung
+- TOP 10.4: Sicherstellung einer artgerechten Tierhaltung im Dresdner Zoo – Neubau des Orang-Utan-Hauses - Vertagung
+- TOP 10.5: Nachhaltigkeit und Klimaschutz in der Landeshauptstadt stärken - Vertagung
+- TOP 10.6: Bildung und Kultur in der Landeshauptstadt stärken - Vertagung
+- TOP 10.7: Straßenverkehr für alle Verkehrsteilnehmer/innen in der Landeshauptstadt stärken - Vertagung
+- TOP 10.8: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung
+- TOP 10.9: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung
+- TOP 11: Vertagung der Stadtratssitzung vom 22. November 2018
+- TOP 11.1: Verkehrsbaumaßnahme "Ausbau Königsbrücker Straße von Stauffenbergallee inklusive Knotenpunkt bis südlich Fabricestraße" - Vertagung
+- TOP 12: Vertagungen der letzten Stadtratssitzung vom 21. März 2019
+- TOP 12.1: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung durch Einreicher
+- TOP 12.2: Kultur- und Nachbarschaftszentren vor Ort - Vertagung nach 22 Uhr
+- TOP 12.3: Masterplan Fairtrade - Vertagung nach 22 Uhr
+- TOP 12.4: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung nach 22 Uhr
+- TOP 12.5: Ortsamt Loschwitz als Standort erhalten - Vertagung nach 22 Uhr
+- TOP 12.6: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung nach 22 Uhr
+- TOP 12.7: Klinikum Dresden – wirtschaftliche Lage - Vertagung nach 22 Uhr
+- TOP 12.8: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung nach 22 Uhr
+- TOP 12.9: Gute Arbeit in und bei der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 12.10: Unterstützung der durch den Förderverein "Weltkulturerbe Hellerau e. V." getragenen Bewerbung um den UNESCO-Welterbestatus Helleraus - Zustimmung
+- TOP 12.11: Umgang mit Kleingärten im Abflussbereich der Elbe - Fortschreibung des Förderprogramms einschließlich Aktualisierung der Zielstellungen - punktweise Zustimmung mit Änderung
+- TOP 12.12: Grundsätze für die Stadtgestaltung - Vertagung nach 22 Uhr
+- TOP 12.13: Wildwuchs von Hochhäusern im Stadtbild verhindern - Leitbild Hochhausentwicklung für Dresden entwickeln - Vertagung nach 22 Uhr
+- TOP 12.14: Wachstumsregion Dresden: Verkehrliche Rolle der Stadt Dresden untersuchen - Mobilitätsanforderungen von Berufspendlern und deren Auswirkungen auf die Verkehrsbelegungszahlen ermitteln - Vertagung nach 22 Uhr
+- TOP 12.15: Sanierung und Weiterentwicklung des Standortes Altroßthal des Beruflichen Schulzentrums für Agrarwirtschaft und Ernährung Dresden - Zustimmung mit Änderung
+- TOP 12.16: Stadtteilverträglicher ÖPNV in Striesen, Gruna und Blasewitz - Vertagung
+- TOP 13: Sportstrategie der Landeshauptstadt Dresden bis 2030 - Zustimmung mit Änderung
+- TOP 14: Gewährung von Bildungsurlaub unter Fortzahlung des Entgelts bzw. der Besoldung für die Beschäftigten und Auszubildenden der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 15: Anmietung einer Horteinrichtung auf dem Grundstück Amalie-Dietrich-Platz 3 in 01169 Dresden - Zustimmung
+- TOP 16: Veränderung der Planansätze von Aus- und Einzahlungen für die investive Maßnahme des Finanzhaushaltes des Schulverwaltungsamtes HI.4030241 "Neubau Schulstandort Pieschen (Gymnasium Pieschen, 145. Oberschule) - Ersetzung - punktweise Abstimmung
+- TOP 17: Änderungsverordnung zur Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an Sonntagen aus besonderem regionalen Anlass im Jahr 2019 - Zustimmung
+- TOP 18: Projekttag "Moderne. Sehen. Verstehen - Auf den Spuren des Architekten Wolfgang Hänsch" - Vertagung nach 22 Uhr
+- TOP 19: Teilgebiets-Lärmaktionsplan Innere Neustadt (Entwurf für Offenlage) - Vertagung nach 22 Uhr
+- TOP 20: Richtlinie der Landeshauptstadt Dresden über die Gewährung von Zuwendungen für Maßnahmen auf nichtgemeindlichen Friedhöfen (Fachförderrichtlinie Friedhöfe) - Zustimmung
+- TOP 21: Unverzüglich sichere Radwege auf der St. Petersburger Straße herstellen! - Verweisung
+- TOP 22: Europäisches Zentrum der Künste Hellerau – Investitionen zur Sicherstellung der Spielfähigkeit des Hauses 2019/2020 - Vertagung
+- TOP 23: Verkehrsmuseum Dresden – Einmalige Zuwendung zur Dauerausstellung zur Geschichte der Eisenbahn - Vertagung nach 22 Uhr
+- TOP 24: Budgetanpassungen - Vertagung nach 22 Uhr
+- TOP 25: Sanierung des Römischen Bades im Schloss Albrechtsberg - Vertagung nach 22 Uhr
+- TOP 26: Dienstleistungskonzessionen für die Organisation und Durchführung Thematischer Weihnachtsmärkte auf der Hauptstraße, dem Neumarkt, dem Taschenberg und der Prager Straße sowie für eine Thematische Weihnachtsveranstaltung auf dem Postplatz - Vertagung
+- TOP 27: Für eine vielfältige Veranstaltungs- und Clubszene in Dresden - Aufhebung der Sperrstunde nach Sächsischem Gaststättengesetz - Vertagung nach 22 Uhr
+- TOP 28: Finanzielle Absicherung der Ostrale 2019 - Zustimmung mit Änderung
+- TOP 29: Erhaltung des „Heidetunnels Klotzsche“ für Rad- und Fußverkehr in Höhe Gleisdreieck Dresden-Klotzsche (Eisenbahnüberführung km 94,331 G-D Dresden-Klotzsche) - Verweisung
