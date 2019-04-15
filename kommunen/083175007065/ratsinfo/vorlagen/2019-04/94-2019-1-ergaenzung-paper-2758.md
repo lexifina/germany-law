@@ -1,0 +1,24 @@
+# 1. Teilbebauungsplan WILLY-BRANDT-STRASSE - Abwägung zu den Stellungnahmen aus der Offenlage - 2. Offenlage
+
+- Körperschaft: Stadt Lahr
+- Drucksache/Vorlage: 94/2019 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2019-04-15
+- Ratsinformationssystem: https://lahr.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZUNEcIVSsBN_rls_BcneFIk
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2758
+- Quelle: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (1. Teilbebauungsplan WILLY-BRANDT-STRASSE 
+- Abwägung zu den Stellungnahmen aus der Offenlage
+- 2. Offenlage) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW0sleu6gWEjYtz0cpoE4j7cy7XSPwJOIEFj0TXcdN1B/Beschlussvorlage_94-2019_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (- Abwägung der Anregungen von Behörden, Trägern öffentlicher Belange sowie Bürgern) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfDDE8lHVvtfXBMh8v_wM2JZkOfoTG26cjLf2OvkZImd/-_Abwaegung_der_Anregungen_von_Behoerden-_Traegern_oeffentlicher_Belange_sowie_Buergern.pdf
+- Anlage: Beschlussvorlage (- Bestandsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS1YbfoIc-8BWdaPieGEQ3vze3YtLeG8cQk4132B4kZ1/-_Bestandsplan.pdf
+- Anlage: Beschlussvorlage (- Gestaltungsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQHsF3UohoEBYLZDq6dyBp2KU7AaQq-yzU0noDcORZy-/-_Gestaltungsplan.pdf
+- Anlage: Beschlussvorlage (- Nutzungsplan) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTb2jSHr3QG6XmG4elaNK1CmkxenF1LaBRO38YPDTFS6/-_Nutzungsplan.pdf
+- Anlage: Beschlussvorlage (- Planungsrechtliche Festsetzungen) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWldqlu2SlFGZ2GyIJ6gy9FtWMRWUCaHjQSX--fAR_D0/-_Planungsrechtliche_Festsetzungen.pdf
+- Anlage: Beschlussvorlage (- Örtliche Bauvorschriften) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeOqgsZD6ykVKRJ_HCDlKZ6Gk-SeHnsugQfE1kiY8IIo/-_Oertliche_Bauvorschriften.pdf
+- Anlage: Beschlussvorlage (- Begründung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdDwsqQmA_dyemvUCwXb5HAUU5Ed7Xq5ymbbSx4tCgam/-_Begruendung.pdf
+- Anlage: Beschlussvorlage (- Schalltechnische Untersuchung) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXOAQoaBBc27JbOfg8IjipMRvmpzx--wkKi7DzrnCD6n/-_Schalltechnische_Untersuchung.pdf
+- Anlage: Beschlussvorlage (- Gutachten zu den Geruchsimmissionnen vom 21.12.2018 und 26.02.2019) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ3Ub3JuvRCJ7-7Xr2VmgP3VL91BtPIhEBN4SbnV1NrJ/-_Gutachten_zu_den_Geruchsimmissionnen_vom_21.12.2018_und_26.02.2019.pdf
+- Anlage: Beschlussvorlage (- Erschütterungsgutachten) https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc6z3SYigc5UlX-RroQPotWpEmsMoD6dATStqre8MV4r/-_Erschuetterungsgutachten.pdf
+- Beratung:  https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2264 https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-19
+- underDirectionOf: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-31
