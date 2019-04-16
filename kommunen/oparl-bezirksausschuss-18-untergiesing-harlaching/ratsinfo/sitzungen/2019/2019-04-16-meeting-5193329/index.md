@@ -1,0 +1,162 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2019-04-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5193329
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5193329
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.1: Bericht
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.1.3: Anträge
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.1.7: Sonstiges
+- TOP 3.2: UA Verkehr
+- TOP 3.3: UA Umwelt und Gesundheit
+- TOP 3.4: UA Soziales
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Integration
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Baumschutz-Ersatzpflanzung
+- TOP 5.7: Gender
+- TOP 5.8: Denkmalschutz
+- TOP 5.9: Rechtsextremismus
+- TOP 5.10: Mieterbeirat
+- TOP 5.11: Internet
+- TOP 5.12: Inklusion
+- TOP 5.13: Graffiti
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Verkehrssituation Aretinstraße; Bürgerschreiben vom 25.03.19
+- TOP 2.1.2.2.: Untergiesing - Hans-Mielich-Platz; Bürgerschreiben vom 09.03.19
+- TOP 2.1.2.3.: Säbener Straße zwischen Naupliastraße und Oberbiberger Straße; Bürgerschreiben vom 22.03.2019
+- TOP 2.1.2.4.: Müll im Bezirk Untergiesing-Harlaching; Bürgerschreiben vom 06.03.2019 (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 2.1.2.5.: Parklizenzen für das Wohngebiet 81547; Bürgerschreiben vom 12.03.2019
+- TOP 2.1.2.6.: Anfrage zur Abholzung im Park an der Ecke Arminiusstraße / Teutoburger Straße; Bürgerschreiben vom 11.03.19 (vertagt aus der Sitzung vom 19.03.19)
+- TOP 2.1.2.7.: Harthauser Straße - Anbringung eines Zone-30-Schildes - regelmäßige Kontrollen an den Haltestellen der Schulbusse - Geschwindigkeitskontrollen im Bereich zwischen Isenschmidstraße und Lindenstraße - Geschwindigkeitsanzeigen Bürgerantrag vom 01.04.2019
+- TOP 3.1.2.1.: (E) Stadtbezirksbudget Sozialstation Berg am Laim und Trudering gGmbH - Projekt "Wohnen im Viertel" Anschaffung von zwei Sonnenschirmen 1.340,00 € / Az. 0262.0-18-0160
+- TOP 3.1.2.2.: (E) Stadtbezirksbudget Sozialstation Berg am Laim und Trudering gGmbH - Projekt "Wohnen im Viertel" Sommerfest 2019 am 10.07.2019 770,00 € / Az. 0262.0-18-0159
+- TOP 3.1.2.3.: (E) Stadtbezirksbudget Pfarrverband Harlaching Pfingstfahrt vom 09.-15.06.2019 und Zeltlager vom 08.-15.08.2019 6.000,00 € / Az. 0262.0-18-0156
+- TOP 3.1.2.4.: (E) Stadtbezirksbudget Kreisjugendring München Stadt Demokratiemobil München am 18. + 22.05.2019 1.500,00 € Az: 0262.0-18-0162
+- TOP 3.2.1: Bericht
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.2.2.1.: (E) Fahrradfreundliche, ebene Pflaster in der Schyrenstraße Empfehlung Nr. 14-20 / E 02319 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 15.11.2018
+- TOP 3.2.3: Anträge
+- TOP 3.2.3.1.: Regengeschützte Solar-Fahrradabstellplätze durch Strom finanzieren; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18 (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 3.2.3.2.: Mehr Radlständer am Schyrenbad; Antrag der Fraktion Bündnis 90/Die Grünen im BA 18
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.2.4.1.: Fertigstellung der Autobahn am Südring; BV-Empfehlung Nr. 14-20 / E 02329; Zuleitung des Referates für Stadtpl. u. Bauordnung mit der Bitte um Stellungnahme zum Entwurf bis 07.05.2019
+- TOP 3.2.4.2.: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen, Kindergärten und ähnlichen Einrichtungen; hier: Pilgersheimer Straße 25; Zuleitung des KVR mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 3.2.4.3.: Erinnerungsverfahren Vierheiligstraße - Vierheiligstraße zwischen Wunderhornstraße und Reinekestraße (erstmalige Herstellung); Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.2.4.4.: Erinnerungsverfahren Reinerstraße - Reinerstraße zwischen Seybothstraße und Geiselgasteigstraße (erstmalige Herstellung); Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 3.2.4.5.: Antrag auf eine dauerhafte Einrichtung eines Halteverbots in der Ludmillastraße/Birkenleiten wegen Anfahrtsproblemen zur Sammelstelle; Zuleitung des KVR mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 19.03.19)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.2.5.1.: Funktion "Dauerkneeling" bei allen MVG-Bussen; BA-Antrag Nr. 14-20 / B 05179; Stellungnahme des BA 18 aus der Januar-Sitzung; Antwortschreiben des RAW vom 05.03.2019
+- TOP 3.2.5.2.: Gehbahnparker in der Hans-Mielich-Straße - Pflanzung von Bäumen auf den Gehwegnasen / Aufstellung von Pflanztrögen; BA-Antrag Nr. 14-20 / B 05696 vom 15.01.19; Antwortschreiben des Baureferats vom 20.03.19
+- TOP 3.2.5.3.: MVG-Anschluss-Anzeige-Optimierung Mangfallplatz (Süd) - Haltestelle Bus 139 Richtung Klinikum Harlaching; BA-Antrag Nr. 14-20 / B 05656 vom 18.12.18; Antwortschreiben des RAW vom 06.03.19
+- TOP 3.2.5.4.: Beleuchtung des Weges vom Tiroler Platz über die Karolinger Allee abwärts bis zur Harlachinger Einkehr; BA-Antrag Nr. 14-20 / B 05644 vom 18.12.18; Antwortschreiben des Baureferats vom 18.03.19
+- TOP 3.2.5.5.: Markierung Fahrradweg / Fußgängerweg am Oxnerweg; BA-Antrag Nr. 14-20 / B 05646 vom 18.12.18; Antwortschreiben des KVR vom 14.03.19
+- TOP 3.2.5.6.: Erinnerungsverfahren Gabriel-Max-Straße; Nachfrage des BA 18 aus der Februar-Sitzung; Antwortschreiben des Baureferats-Tiefbau
+- TOP 3.2.5.7.: Bei der Straßenreinigung bzw. beim Winterdienst ist darauf zu achten, dass die angrenzenden öffentlichen Gehwege benutzbar bleiben; BA-Antrag Nr. 14-20 / B 05686 vom 15.01.19; Antwortschreiben des Baureferats-Tiefbau vom 26.03.19
+- TOP 3.2.5.8.: Bessere Straßenbeleuchtung in der Fromundstraße und in der Otkerstraße bis zur Schlehdorfer Straße stadteinwärts; BA-Antrag Nr. 14-20 / B 05396 vom 16.10.18; Stellungnahme des BA 18 aus der Sitzung vom 19.02.19 zum Antwortschreiben; Antwortschreiben des Baureferats-Tiefbau vom 29.03.19 (Ortstermin?)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.2.7: Sonstiges
+- TOP 3.3.1: Bericht
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.3: Anträge
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.4.1.: Wertstoffinseln; BA-Antrag Nr. 14-20 / B 05728 des BA 12 vom 15.01.19; Schreiben des Direktoriums vom 26.03.19 mit der Bitte um Stellungnahme zur beantragten Änderung der BA-Satzung
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.5.1.: Die LHM schließt sich der Forderung des Aktionsbündnisses "Artgerechtes München" an; BA-Antrag Nr. 14-20 / B 05657 vom 18.12.18; Antwortschreiben des RGU vom 13.03.19
+- TOP 3.3.5.2.: Herumliegende Zigarettenkippen auf Spielplätzen bekämpfen; BA-Antrag Nr. 14-20 / B 05840 vom 19.02.19; Antwortschreiben des Baureferats vom 08.03.19
+- TOP 3.3.5.3.: Weniger Mähen - mehr Lebensraum für Insekten; BA-Antrag Nr. 14-20 / B 05807 des BA 18 vom 19.02.19; Antwortschreiben des Baureferats vom 04.03.19
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.1.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017; Sitzungsvorlagen Nr. 14-20 / V 14082; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.03.19 (SB)
+- TOP 3.3.6.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen Willroiderstraße 2a; Bescheid vom 28.03.19 3.3.6.2.2 Anwesen Hertlingstraße 9; Bescheid vom 28.03.19 3.3.6.2.3 Anwesen Schönstraße; Bescheid vom 21.03.19
+- TOP 3.3.7: Sonstiges
+- TOP 3.4.1: Bericht
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.4.2.1.: (E) Lärmbelästigung an der Fromundstraße
+- TOP 3.4.3: Anträge
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.4.5.1.: Nächtliche Lärmbelästigungen am Kuntersweg - Einsatz von Jugendstreetworkern; BA-Antrag Nr. 14-20 / B 05716 vom 15.01.19; Antwortschreiben des Sozialreferats vom 13.03.19
+- TOP 3.4.5.2.: Antrag auf finanzielle Unterstützung einer Boulderwand am Hans-Mielich-Platz; BA-Antrag Nr. 14-20 / B 05389 vom 16.10.18; Antwortschreiben des Baureferats-Gartenbau vom 14.03.19
+- TOP 3.4.5.3.: Anbieten von Veranstaltungen zum Thema „Plastikproblematik" und "Vermeiden von Plastikmüll“ an Grundschulen im 11. Stadtbezirk; BA-Antrag Nr. 14-20 / B 05626 des BA 11 vom 12.12.18; Abdruck des Antwortschreibens des RBS vom 18.03.19
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.4.7: Sonstiges
+- TOP 3.5.1: Bericht
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.5.3: Anträge
+- TOP 3.5.3.1.: Wiedererrichtung der Bänke vor der Marienklause und am Kreuzweg; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.5.4.1.: Widmung des Weges bei der Sportanlage des FC Bayern München; Beschluss des BA 18 vom Oktober 2018; Anfrage des Kommunalreferats zum Sachstand
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.5.6.1.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018; Sitzungsvorlagen Nr. 14-20 / V 14078; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.03.19 (SB)
+- TOP 3.5.6.2.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017; Sitzungsvorlagen Nr. 14-20 / V 14283; Bekanntgabe des Ausschusses für Stadtpl. u. Bauordnung vom 27.03.19
+- TOP 3.5.6.3.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018; Sitzungsvorlagen Nr. 14-20 / V 13969; Bekanntgabe in der Sitzung des Ausschusses für Stadtpl. u. Bauordnung vom 27.03.19
+- TOP 3.5.6.4.: (U) Rahmenbedingungen zur Freiflächengestaltung fortschreiben Antrag Nr. 14-20 / A 03977 vom 16.04.2018; Sitzungsvorlagen Nr. 14-20 / V 12941; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.03.19 (SB)
+- TOP 3.5.6.5.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018; Sitzungsvorlagen Nr. 14-20 / V 14028; Beschluss des Ausschusses für Stadtpl. u. Bauordnung vom 27.03.19 (SB)
+- TOP 3.5.6.6.: (U) Brauerei in der Tegernseer Landstraße 337 Änderung des bisherigen Flächennutzungsplanes; Sitzungsvorlagen Nr. 14-20 / V 13373; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 27.03.19 (SB)
+- TOP 3.5.6.7.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.7.1 Anwesen Stresemannstraße; Mitteilung vom 07.03.19 3.5.6.7.2 Anwesen Naupliastraße; Mitteilung vom 15.03.19 3.5.6.7.3 Anwesen Reinerstraße; Mitteilung vom 25.03.19 3.5.6.7.4 Anwesen Kastenseestraße; Mitteilung vom 21.03.19
+- TOP 3.5.6.8.: Schmorellplatz 8 - Neubau eines Mehrfamilienhauses mit Tiefgarage und Rückbau des Bestandsgebäudes; Abdruck des Vorbescheides zur Kenntnis zu 3.5.6.8 Bürgeranliegen und Schreiben der Lbk vom 01.03.19
+- TOP 3.5.6.9.: Liste der Bauvorhaben im 18. Stadtbezirk
+- TOP 3.5.6.10.: Mitteilung über ein Grundstücksgeschäft; Lohstraße 17 - Tausch; Schreiben des Kommunalreferats vom 27.03.19
+- TOP 3.5.7: Sonstiges
+- TOP 3.6.1: Bericht
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.6.3: Anträge
+- TOP 3.6.3.1.: Erneuerung des Marterls bei der Marienklause Brücke; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 3.6.3.2.: Erhalt aller historischen Straßenlaternen in Harlaching; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 3.6.3.3.: Erneuerung der Inschrift der Gedenktafel am Jakobsbrunn bei der Marienklause; Antrag der CSU-Fraktion (vertagt aus der Sitzung vom 19.03.2019)
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.6.4.1.: Münchner Radlnacht am 10.08.19 (Green City Experience GmbH und LHM KVR - HA-I/1); Zuleitung des KVR mit der Bitte um Stellungnahme bis 20.05.19
+- TOP 3.6.4.2.: Veranstaltungen in städtischen Grünanlagen; hier: Spielnachmittage des RBS, Mai 2019 bis April 2020, sonntags, Rosengarten, an der Sachsenstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 12.04.19 (Fristverlängerung beantragt)
+- TOP 3.6.4.3.: Veranstaltung auf öffentlichem Verkehrsgrund und Privatgrund; hier: Informationsveranstaltung des Kreisjugendrings zur Europa Wahl - "Demokratie im Einsatz", mehrere Termine und Orte; Stadtbezirk 18: Wettersteinplatz am 18.05.19 und Mangfallplatz am 22.05.19; Zuleitung des KVR mit der Bitte um Stellungnahme bis 26.04.19
+- TOP 3.6.4.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Megamarsch, Startgelände Grünanlage Oberbiberger Straße über den Jakobsweg nach Mittenwald; 11.05.19 bis 12.05.19; Zuleitung des KVR mit der Bitte um Stellungnahme bis 24.04.19
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.6.7: Sonstiges
+- TOP 4.3.1.: Mittelfristige Finanzplanung 2018 - 2022; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2019 bis 2023; Zuleitung der Stadtkämmerei mit der Bitte um Stellungnahme bis 08.05.2019
+- TOP 4.3.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
