@@ -1,8 +1,8 @@
 # Förderrichtlinie Marktstrukturverbesserung 2015 Vollzitat: Förderrichtlinie Marktstrukturverbesserung 2015
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-04-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.3
+- Datum: 2019-04-17 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/16242.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.04.2018
+17.04.2019
 bis
-16.04.2019
+31.12.2019
 
 Förderrichtlinie Marktstrukturverbesserung 2015
 
@@ -56,7 +56,7 @@ a)
 
 Sächsische Haushaltsordnung
 
-in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 (SächsGVBl. S. 630) geändert worden ist, insbesondere §§ 23 und 44,
+in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, insbesondere §§ 23 und 44,
 
 
 b)
@@ -64,14 +64,13 @@ b)
 
 Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung
 
-vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 3. Januar 2018 (SächsABl. S. 132) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
+vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 27. Februar 2019 (SächsABl. S. 451) geändert worden sind, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378),
 
 
 c)
 
 
-Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen              vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 11 Absatz 2 des Gesetzes vom 18. Juli 2017  (BGBl. I S. 2745) geändert worden ist,            
-
+Gesetz zur Regelung des Verwaltungsverfahrens- und des Verwaltungszustellungsrechts für den Freistaat Sachsen vom 19. Mai 2010 (SächsGVBl. S. 142), das durch Artikel 3 des Gesetzes vom 12. Juli 2013 (SächsGVBl. S. 503) geändert worden ist, in Verbindung mit dem Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 7 des Gesetzes vom 18. Dezember 2018 (BGBl. S. 2639) geändert worden ist,
 
 d)
 
@@ -119,7 +118,7 @@ Unter der Verarbeitung eines landwirtschaftlichen Erzeugnisses zu einem Nicht-An
 
 4.
 
-Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Verordnung (EU) 2017/2393 (ABl. L 350 vom 29.12.2017, S. 15) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
+Qualitätsprodukte sind gemäß Artikel 16 der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Aufhebung der Verordnung (EG) Nr. 1698/2005 (ABl. L 347 vom 20.12.2013, S. 487, L 130 vom 19.5.2016, S. 1), die zuletzt durch die Delegierte Verordnung (EU) 2019/71 (ABl. L 16 vom 18.1.2019, S. 1) geändert worden ist, nach Qualitätsregelungen erzeugte landwirtschaftliche Erzeugnisse und Produkte, die bei der Verarbeitung entsprechender Erzeugnisse hergestellt werden.
 
 
 III.
@@ -247,7 +246,7 @@ c)
 
 Die Erzeugerzusammenschlüsse müssen auf Dauer, mindestens aber für fünf Jahre, angelegt sein. Die dem Erzeugerzusammenschluss zugrunde liegenden Verträge bedürfen der Schriftform und müssen der Zielsetzung der Förderung entsprechen.
 
-Sie müssen von der zuständigen Behörde auf Basis ihres vorgelegten Geschäftsplans förmlich anerkannt werden. Der Geschäftsplan enthält zumindest die in Artikel 5 Absatz 1 der Delegierten Verordnung (EU) Nr. 807/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Einführung von Übergangsvorschriften (ABl. L 227 vom 31.7.2014, S. 1), die durch die Verordnung (EU) 2015/1367 (ABl. L 211 vom 8.8.2015, S. 7) geändert worden ist, in der jeweils geltenden Fassung, bestimmten Angaben. Dabei darf die Mitgliedschaft vor dem Schluss des dritten vollen Geschäftsjahres unter Einhaltung einer Kündigungsfrist von mindestens zwölf Monaten nicht gekündigt werden können und nur dann, wenn die Fördervoraussetzungen weiterhin gegeben sind.
+Sie müssen von der zuständigen Behörde auf Basis ihres vorgelegten Geschäftsplans förmlich anerkannt werden. Der Geschäftsplan enthält zumindest die in Artikel 5 Absatz 1 der Delegierten Verordnung (EU) Nr. 807/2014 der Kommission vom 11. März 2014 zur Ergänzung der Verordnung (EU) Nr. 1305/2013 des Europäischen Parlaments und des Rates über die Förderung der ländlichen Entwicklung durch den Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) und zur Einführung von Übergangsvorschriften (ABl. L 227 vom 31.7.2014, S. 1), die zuletzt durch die Verordnung (EU) 2019/94 (ABl. L 19 vom 22.1.2019, S. 5) geändert worden ist, in der jeweils geltenden Fassung, bestimmten Angaben. Dabei darf die Mitgliedschaft vor dem Schluss des dritten vollen Geschäftsjahres unter Einhaltung einer Kündigungsfrist von mindestens zwölf Monaten nicht gekündigt werden können und nur dann, wenn die Fördervoraussetzungen weiterhin gegeben sind.
 
 
 d)
@@ -476,7 +475,7 @@ Anschaffungskosten für Personenkraftfahrzeuge und Vertriebsfahrzeuge, Kosten f�
 
 e)
 
-Kreditbeschaffungs- und sonstige Finanzierungsausgaben, Pachten, Zinsen, Erbbauzinsen, Leasingkosten, Grunderwerbsteuer, Umsatzsteuer, Kauf von Patenten und Lizenzen sowie Marken,
+Kreditbeschaffungs- und sonstige Finanzierungsausgaben, Pachten, Zinsen, Erbbauzinsen, Leasingkosten, Grunderwerbsteuer, Umsatzsteuer, Kauf von Patenten und nicht an die zu fördernde Investition gebundene Lizenzen sowie Marken,
 
 
 f)
@@ -516,7 +515,7 @@ Investitionen im Zusammenhang mit der Erzeugung von Biokraftstoffen aus Nahrungs
 
 m)
 
-anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2532) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
+anteilige Investitionen zur Erzeugung erneuerbarer Energien, die durch das Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes vom 17. Dezember 2018 (BGBl. I S. 2549) geändert worden ist, in der jeweils geltenden Fassung, gefördert werden,
 
 
 n)
@@ -541,7 +540,7 @@ Aufwendungen für Trockenmilcherzeugnisse, Butter und H-Milch,
 
 r)
 
-Aufwendungen für die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Nummer 1 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 2017/1981 (ABl. L 285 vom 1.11.2017, S. 10) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
+Aufwendungen für die Schlachtung von Tieren jeweils von der Betäubung oder Tötung bis einschließlich der Abkühlung der Schlachtkörper gemäß Anhang III Abschnitt I Kapitel VII Ziffer 1 oder Anhang III Abschnitt II Kapitel IV Ziffer 8 der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L 226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom 21.2.2008, S. 50, L 119 vom 13.5.2010, S. 26, L 160 vom 12.6.2013, S. 15), die zuletzt durch die Verordnung (EU) Nr. 2017/1981 (ABl. L 285 vom 1.11.2017, S. 10) geändert worden ist, in der jeweils geltenden Fassung, soweit die Unternehmen größer als kleine Unternehmen im Sinne des Anhang I der Verordnung (EU) Nr. 702/2014 sind,
 
 
 s)
@@ -686,9 +685,7 @@ Zuwendungsempfängern nach Ziffer IV Nummer 4 Buchstabe b, die kleine oder mittl
 
 d)
 
-Bei Investitionen von mittelgroßen Unternehmen nach Ziffer IV Nummer 4 Buchstabe b, die nicht von Artikel 2 des Anhang I der Verordnung (EU) Nr. 702/2014 erfasst werden, werden Zuwendungen unter Berücksichtigung des Nettomehrkosten- Ansatzes (siehe Nummern 95 bis 97 der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014-2020 (ABl. C 204 vom 1.7.2014, S. 1), die durch die Mitteilung der Kommission (ABl. C 390 vom
-
-24.11.2015, S. 4) geändert worden ist), in Höhe bis zu 20 Prozent der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
+Bei Investitionen von mittelgroßen Unternehmen nach Ziffer IV Nummer 4 Buchstabe b, die nicht von Artikel 2 des Anhang I der Verordnung (EU) Nr. 702/2014 erfasst werden, werden Zuwendungen unter Berücksichtigung des Nettomehrkosten- Ansatzes (siehe Nummern 95 bis 97 der Rahmenregelung der Europäischen Union für staatliche Beihilfen im Agrar- und Forstsektor und in ländlichen Gebieten 2014-2020 [ABl. C 204 vom 1.7.2014, S. 1], die zuletzt durch Bekanntmachung der Kommission [ABl. C 403 vom 9.11.2018, S. 10] geändert worden ist), in Höhe bis zu 20 Prozent – im Falle der ausschließlichen Verarbeitung und Vermarktung von Qualitätsprodukten in Höhe bis zu 35 Prozent – der zuwendungsfähigen Aufwendungen für die Verarbeitung und Vermarktung von landwirtschaftlichen Erzeugnissen gewährt.
 
 
 e)
@@ -708,7 +705,7 @@ Sonstige Zuwendungsbestimmungen
 Hinsichtlich der Anwendung des Vergaberechts gelten die jeweiligen allgemeinen Nebenbestimmungen gemäß den Verwaltungsvorschriften zu § 44 der Sächsischen Haushaltsordnung.
 
 
-Abweichend gilt: Ist der Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts und liegt kein Fall des § 99 Nummer 2 bis 4 sowie des § 100 Absatz 1 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 10 Absatz 9 des Gesetzes vom 30. Oktober 2017 (BGBl. I S. 3618) geändert worden ist, in der jeweils geltenden Fassung, vor, sind bei Zuwendungen von mehr als 5 000 Euro mit dem Antrag mindestens drei vergleichbare Angebote fachkundiger und leistungsfähiger Anbieter vorzulegen.              Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden oder dem Antrag nicht das billigste Angebot zugrunde gelegt wird, ist dies vom Antragsteller schriftlich zu begründen. Gleiches gilt, wenn von dem Antrag zugrunde liegenden Angebot später abgewichen wird.
+Abweichend gilt: Ist der Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts und liegt kein Fall des § 99 Nummer 2 bis 4 sowie des § 100 Absatz 1 Nummer 2 des Gesetzes gegen Wettbewerbsbeschränkungen in der Fassung der Bekanntmachung vom 26. Juni 2013 (BGBl. I S. 1750, 3245), das zuletzt durch Artikel 10 des Gesetzes vom 12. Juli 2018 (BGBl. I S. 1151) geändert worden ist, in der jeweils geltenden Fassung, vor, sind bei Zuwendungen von mehr als 5 000 Euro mit dem Antrag mindestens drei vergleichbare Angebote fachkundiger und leistungsfähiger Anbieter vorzulegen. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden oder dem Antrag nicht das billigste Angebot zugrunde gelegt wird, ist dies vom Antragsteller schriftlich zu begründen. Gleiches gilt, wenn von dem Antrag zugrunde liegenden Angebot später abgewichen wird.
 
 
 V.
@@ -849,9 +846,9 @@ Fsn-Nr.: 5563-V15.14
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. April 2018
+Fassung gültig ab: 17. April 2019
 
-Fassung gültig bis: 16. April 2019
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -876,7 +873,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/16242.3
+https://www.revosax.sachsen.de/vorschrift/16242.4
 Stand vom
 18.11.2026
 
