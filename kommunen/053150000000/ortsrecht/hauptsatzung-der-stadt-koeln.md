@@ -1,17 +1,17 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2018-08-16 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_16082018.pdf
+- Datum: 2019-04-23 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_23042019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 17. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 16. August 2018
+in der Fassung der 18. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 23.04.2019
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
 
@@ -284,16 +284,19 @@ VI. Finanzielle Entschädigungen für Mandatsträgerinnen/Mandatsträger
 (3) Der Verdienstausfall wird für die versäumte regelmäßige Arbeitszeit (einschließlich der notwendigen durchschnittlichen Fahrzeiten) bis zum Höchstbetrag von 80 €/Stunde gewährt. Für Zeiten nach 20 Uhr wird grundsätzlich kein Verdienstausfall erstattet.
 (4) Für die Teilnahme als Zuhörerin/Zuhörer an öffentlichen und nichtöffentlichen Sitzungen wird kein Ersatz des Verdienstausfalls gezahlt.
 § 25 Allgemeine Aufwandsentschädigungen (§ 45 Absätze 3 bis 6, § 27 Abs. 7 GO)
-(1) Unabhängig von einem Anspruch auf Ersatz des Verdienstausfalles nach § 24 Hauptsatzung erhalten Ratsmitglieder eine Aufwandsentschädigung. Sie besteht aus einem monatlichen Pauschalbetrag und einem Sitzungsgeld. Ratsmitglieder erhalten ein Sitzungsgeld für die Teilnahme an jeder Rats- und Ausschusssitzung sowie jährlich höchstens 2101 von einer Fraktion anberaumten Sitzungen.
+(1) Unabhängig von einem Anspruch auf Ersatz des Verdienstausfalles nach § 24 Hauptsatzung erhalten Ratsmitglieder eine Aufwandsentschädigung. Sie besteht aus einem monatlichen Pauschalbetrag und einem Sitzungsgeld. Ratsmitglieder erhalten ein Sitzungsgeld für die Teilnahme an jeder Rats- und Ausschusssitzung sowie jährlich höchstens 150 von einer Fraktion anberaumten Sitzungen.
 (2) Mitglieder der Bezirksvertretungen erhalten unabhängig vom Anspruch auf Ersatz des Verdienstausfalles als Aufwandsentschädigung einen monatlichen Pauschalbetrag.
-(3) Ausschussmitglieder, die nicht dem Rat angehören, erhalten für die Teilnahme an Ausschusssitzungen und jährlich höchstens 1052 von einer Fraktion anberaumten Sitzungen ein Sitzungsgeld.
+(3) Ausschussmitglieder, die nicht dem Rat angehören, erhalten für die Teilnahme an Ausschusssitzungen und jährlich höchstens 60 von einer Fraktion anberaumten Sitzungen ein Sitzungsgeld.
 (4) Mitglieder des Integrationsrates erhalten neben dem Ersatz des Verdienstausfalles ein Sitzungsgeld für die Teilnahme an dessen Sitzungen. Die/der Vorsitzende des Integrationsrates oder ein anderes von dort benanntes Mitglied erhalten außerdem für die Teilnahme an Sitzungen gem. § 27 Abs. 8 Satz 3 GO ein Sitzungsgeld.
-1 ab 01.01.2013: höchstens 150 (9. Änderungssatzung, § 2 Abs. 2) 2 ab 01.01.2013: höchstens 60 (9. Änderungssatzung, § 2 Abs. 2)
+(5) Die Mitglieder der Seniorenvertretung in den Bezirksarbeitsgemeinschaften Seniorenpolitik erhalten eine Aufwandsentschädigung in Höhe von monatlich
 Seite 18 von 23
 
-(5) Die für Sitzungsgelder festgesetzten Sätze gelten für eine Sitzung. Wird eine Sitzungsdauer von insgesamt 6 Stunden überschritten, so wird höchstens ein weiteres Sitzungsgeld gewährt. Bei mehreren Sitzungen an einem Tage dürfen insgesamt nicht mehr als zwei Sitzungsgelder gewährt werden. Für die Teilnahme als Zuhörerin/Zuhörer an öffentlichen und nichtöffentlichen Sitzungen wird kein Sitzungsgeld gezahlt. Fraktionssitzungen sind auch Sitzungen von Fraktionsteilen (Fraktionsvorstand, Fraktionsarbeitskreise).
-(6) Die Höhe der monatlichen Aufwandsentschädigungen und des Sitzungsgeldes werden durch Rechtsverordnung des Innenministers NW festgesetzt.
-(7) Darüber hinaus werden den Ratsmitgliedern, den Mitgliedern der Bezirksvertretungen, der Ausschüsse und des Integrationsrates während der mandatsbedingten Abwesenheit vom Haushalt die nachgewiesenen Kosten für eine entgeltliche Kinderbetreuung auf Antrag erstattet, sofern diese notwendig war. Eine entgeltliche Kinderbetreuung ist bei Kindern unter 12 Jahren notwendig, wenn ihre Betreuung während der mandatsbedingten Abwesenheit durch den anderen Elternteil aus zwingenden Gründen nicht gewährleistet werden kann. Für Zeiträume, für die Verdienstausfallentschädigung gem. § 24 Hauptsatzung geleistet wird, werden keine Kinderbetreuungskosten erstattet.
+70,00 €. Ist das Mitglied der Seniorenvertretung zur Schriftführung gewählt worden, steht ihm auf Antrag zusätzlich je wahrgenommener Sitzung der Bezirksarbeitsgemeinschaft ein pauschaler Auslagenersatz von 12,78 € zu. Die Sachverständigen für seniorenpolitische Fragen in den Bezirksvertretungen erhalten ein Sitzungsgeld.
+(6) Die Mitglieder der Stadtarbeitsgemeinschaft Behindertenpolitik, der Stadtarbeitsgemeinschaft Schwule, Lesben und Transgender und der Stadtarbeitsgemeinschaft Seniorenpolitik erhalten ein Sitzungsgeld, sofern sie an den Sitzungen nicht im Rahmen einer hauptamtlichen Tätigkeit teilnehmen.
+(7) Die für Sitzungsgelder festgesetzten Sätze gelten für eine Sitzung. Wird eine Sitzungsdauer von insgesamt 6 Stunden überschritten, so wird höchstens ein weiteres Sitzungsgeld gewährt. Bei mehreren Sitzungen an einem Tage dürfen insgesamt nicht mehr als zwei Sitzungsgelder gewährt werden. Für die Teilnahme als Zuhörerin/Zuhörer an öffentlichen und nichtöffentlichen Sitzungen wird kein Sitzungsgeld gezahlt. Fraktionssitzungen sind auch Sitzungen von Fraktionsteilen (Fraktionsvorstand, Fraktionsarbeitskreise).
+(8) Die Höhe der monatlichen Aufwandsentschädigungen und des Sitzungsgeldes werden durch Rechtsverordnung des Innenministers NW festgesetzt.
+(9) Darüber hinaus werden den Ratsmitgliedern, den Mitgliedern der Bezirksvertretungen, der Ausschüsse und des Integrationsrates während der mandatsbedingten Abwesenheit vom Haushalt die nachgewiesenen Kosten für eine entgeltliche Kinderbetreuung auf Antrag erstattet, sofern diese notwendig war. Eine entgeltliche Kinderbetreuung ist bei Kindern unter 12 Jahren notwendig, wenn ihre Betreuung während der mandatsbedingten Abwesenheit durch den anderen Elternteil aus zwingenden Gründen nicht gewährleistet werden kann. Für Zeiträume, für die Verdienstausfallentschädigung gem. § 24 Hauptsatzung geleistet wird, werden keine Kinderbetreuungskosten erstattet.
+(10) Bildet der Rat auf freiwilliger Basis in Wahrnehmung des Selbstverwaltungsrechts Gremien, die nicht Ausschüsse im Sinne der Gemeindeordnung NRW sind, kann er festlegen, dass die Mitglieder dieser Gremien ein Sitzungsgeld gemäß der Entschädigungsverordnung NRW erhalten.
 § 26 Sonderaufwandsentschädigungen
 (§ 36 Abs. 4 GO, § 46 GO)
 (1) Neben den Entschädigungen nach §§ 24 und 25 erhalten eine Aufwandsentschädigung
@@ -302,34 +305,39 @@ Seite 18 von 23
 - Fraktionsvorsitzende und - bei Fraktionen mit mindestens acht Mitgliedern auch ein stellvertretender
 Vorsitzender, mit mindestens 16 Mitgliedern auch zwei und mit mindestens 24 Mitgliedern auch drei stellvertretende Vorsitzende.
 Eine Aufwandsentschädigung ist nicht zu gewähren, wenn das Ratsmitglied hauptberuflich tätiger Mitarbeiter einer Fraktion ist.
+Seite 19 von 23
+
 (2) Auf Ebene der Bezirksvertretungen erhalten eine gesonderte Aufwandsentschädigung die Bezirksbürgermeisterinnen/Bezirksbürgermeister, deren/dessen Stellvertreterinnen/Stellvertreter sowie Fraktionsvorsitzende.
 (3) Die Höhe der Aufwandsentschädigung richtet sich nach der Entschädigungsverordnung.
 VII. Verwaltung
 § 27 Gleichstellung von Frau und Mann
 (§ 5 GO)
-(1) Die Gleichstellungsbeauftragte arbeitet auf kommunaler Ebene darauf hin, vorhandene Benachteiligungen von Frauen abzubauen, um das
-Seite 19 von 23
-
-verfassungsrechtliche Gebot der Gleichberechtigung von Frauen und Männern sowie die übrigen der Herstellung der Gleichberechtigung dienenden Gesetze zu verwirklichen. Die Gleichstellungsbeauftragte und ihre Stellvertreterin werden von der Oberbürgermeisterin/dem Oberbürgermeister bestellt. Sie sind frei von fachlichen Weisungen. Um die Erfüllung ihres Aufgabenbereiches gewährleisten zu können, können sie Aufgaben an ihnen nachgeordnete Mitarbeiterinnen/Mitarbeiter delegieren; gleichzeitig sind diese auch Ansprechpartnerinnen/Ansprechpartner für Gleichstellungsfragen.
+(1) Die Gleichstellungsbeauftragte arbeitet auf kommunaler Ebene darauf hin, vorhandene Benachteiligungen von Frauen abzubauen, um das verfassungsrechtliche Gebot der Gleichberechtigung von Frauen und Männern sowie die übrigen der Herstellung der Gleichberechtigung dienenden Gesetze zu verwirklichen. Die Gleichstellungsbeauftragte und ihre Stellvertreterin werden von der Oberbürgermeisterin/dem Oberbürgermeister bestellt. Sie sind frei von fachlichen Weisungen. Um die Erfüllung ihres Aufgabenbereiches gewährleisten zu können, können sie Aufgaben an ihnen nachgeordnete Mitarbeiterinnen/Mitarbeiter delegieren; gleichzeitig sind diese auch Ansprechpartnerinnen/Ansprechpartner für Gleichstellungsfragen.
 (2) In der Zuständigkeit der Gleichstellungsbeauftragten liegen gem. §§ 17 ff. LGG und § 5 GO alle frauenrelevanten Fragen und Angelegenheiten. Als frauenrelevant sind solche Fragen und Angelegenheiten zu verstehen, die die Lebens- und Arbeitsbedingungen von Frauen in anderer Weise oder in stärkerem Maße berühren, als die Lebens- und Arbeitsbedingungen von Männern. Es handelt sich um die Wahrnehmung von Querschnittsaufgaben, die fachübergreifend alle Bereiche der Kommunalpolitik und -verwaltung berühren können. Was frauenrelevant ist, entscheidet in Zweifelsfällen die Gleichstellungsbeauftragte.
 (3) Die Gleichstellungsbeauftragte kann in Angelegenheiten ihres Aufgabenbereiches als Gleichstellungsbeauftragte an den Sitzungen des Rates, seiner Ausschüsse, der Bezirksvertretungen und des Verwaltungsvorstandes teilnehmen. Ihr ist auf Wunsch das Wort zu erteilen. Bei ihrer Verhinderung nimmt ihre Stellvertreterin diese Aufgaben wahr. Die Teilnahme an den Sitzungen der Ausschüsse und der Bezirksvertretungen gem. Satz 1 sowie hierbei die Ausübung des Rederechtes gem. Satz 2 kann die Gleichstellungsbeauftragte auch auf ihre nachgeordneten Mitarbeiter/Mitarbeiterinnen übertragen. Der Gleichstellungsbeauftragten sind Zeit, Ort und Tagesordnung der Sitzungen des Rates, seiner Ausschüsse, der Bezirksvertretungen und des Verwaltungsvorstandes rechtzeitig bekannt zu geben, damit eine Stellungnahme der Gleichstellungsbeauftragten noch berücksichtigt werden kann. Gem. § 5 Abs. 5 GO
 kann einer Beschlussvorlage durch die Gleichstellungsbeauftragte widersprochen werden. In diesem Fall hat die Oberbürgermeisterin/der Oberbürgermeister das Entscheidungsgremium zu Beginn der Beratung auf den Widerspruch und seine Begründung hinzuweisen.
-(4) Die Oberbürgermeisterin/der Oberbürgermeister stellt die verwaltungsinterne Beteiligung der Gleichstellungsbeauftragten im Rahmen ihres Aufgabenbereichs an allen Vorhaben der Verwaltung sicher. Die Mitwirkung ist schon im Planungsstadium zu gewährleisten. Ebenso stellt die Oberbürgermeisterin/der Oberbürgermeister der Gleichstellungsbeauftragten die notwendigen organisatorischen, personellen und finanziellen Bedingungen zur Erfüllung ihrer Aufgaben zur Verfügung.
+(4) Die Oberbürgermeisterin/der Oberbürgermeister stellt die verwaltungsinterne Beteiligung der Gleichstellungsbeauftragten im Rahmen ihres Aufgabenbereichs an allen Vorhaben der Verwaltung sicher. Die Mitwirkung ist schon im Planungsstadium
+Seite 20 von 23
+
+zu gewährleisten. Ebenso stellt die Oberbürgermeisterin/der Oberbürgermeister der Gleichstellungsbeauftragten die notwendigen organisatorischen, personellen und finanziellen Bedingungen zur Erfüllung ihrer Aufgaben zur Verfügung.
 (5) Die Gleichstellungsbeauftragte kann die Öffentlichkeit über Angelegenheiten ihres Aufgabenbereichs unterrichten.
 § 28 Personalangelegenheiten
 (§ 73 Abs. 3 GO)
 (1) Die Oberbürgermeisterin/der Oberbürgermeister trifft die dienstrechtlichen und arbeitsrechtlichen Entscheidungen, soweit gesetzlich oder in dieser Satzung nichts anderes bestimmt ist.
-Seite 20 von 23
-
-(2) Für Bedienstete in Führungsfunktionen sind Entscheidungen, die das beamtenrechtliche Grundverhältnis oder das Arbeitsverhältnis des Bediensteten zur Stadt Köln verändern, durch den Hauptausschuss im Einvernehmen mit der Oberbürgermeisterin/ dem Oberbürgermeister zu treffen. Dies gilt nicht bei Entlassungen auf eigenen Antrag sowie für Entscheidungen, für die gesetzlich etwas anderes bestimmt ist. (3) Kommt ein Einvernehmen nicht zu Stande, kann der Rat die Entscheidung mit einer Mehrheit von zwei Dritteln der gesetzlichen Zahl der Ratsmitglieder treffen. Bei diesen Entscheidungen stimmt die Oberbürgermeisterin/der Oberbürgermeister nicht mit. Wird diese Mehrheit nicht erreicht, gilt Absatz 1. (4) Bedienstete in Führungsfunktionen sind Leiterinnen/ Leiter von Organisationseinheiten, die der Hauptverwaltungsbeamtin/ dem Hauptverwaltungsbeamten oder einer anderen Wahlbeamtin/ Wahlbeamten oder dieser/diesem in der Führungsfunktion vergleichbaren Bediensteten unmittelbar unterstehen, mit Ausnahme von Bediensteten mit Aufgaben einer persönlichen Referentin/ eines persönlichen Referenten oder einer Pressereferentin/ eines Pressereferenten.
+(2) Für Bedienstete in Führungsfunktionen sind Entscheidungen, die das beamtenrechtliche Grundverhältnis oder das Arbeitsverhältnis des Bediensteten zur Stadt Köln verändern, durch den Hauptausschuss im Einvernehmen mit der Oberbürgermeisterin/ dem Oberbürgermeister zu treffen. Dies gilt nicht bei Entlassungen auf eigenen Antrag sowie für Entscheidungen, für die gesetzlich etwas anderes bestimmt ist.
+(3) Kommt ein Einvernehmen nicht zu Stande, kann der Rat die Entscheidung mit einer Mehrheit von zwei Dritteln der gesetzlichen Zahl der Ratsmitglieder treffen. Bei diesen Entscheidungen stimmt die Oberbürgermeisterin/der Oberbürgermeister nicht mit. Wird diese Mehrheit nicht erreicht, gilt Absatz 1.
+(4) Bedienstete in Führungsfunktionen sind Leiterinnen/ Leiter von Organisationseinheiten, die der Hauptverwaltungsbeamtin/ dem Hauptverwaltungsbeamten oder einer anderen Wahlbeamtin/ Wahlbeamten oder dieser/diesem in der Führungsfunktion vergleichbaren Bediensteten unmittelbar unterstehen, mit Ausnahme von Bediensteten mit Aufgaben einer persönlichen Referentin/ eines persönlichen Referenten oder einer Pressereferentin/ eines Pressereferenten.
 § 29 Teilnahme der Verwaltung an Sitzungen des Rates, der Ausschüsse und der
 Bezirksvertretungen (§ 69, § 36 Abs. 7 GO)
-(1) Die Teilnahme der Oberbürgermeisterin/des Oberbürgermeisters und der Beigeordneten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 69 und § 36 Abs. 7 GO. Leitende Dienstkräfte i.S.d. § 36 Abs. 7 Satz 2 GO sind die Amtsleiterinnen und Amtsleiter. (2) An den Sitzungen des Rechnungsprüfungsausschusses nimmt die Leiterin/der Leiter des Rechnungsprüfungsamtes teil. (3) Die Leiterin/der Leiter des Bürgeramtes ist verpflichtet, an den Sitzungen der Bezirksvertretung teilzunehmen. (4) Die Teilnahme der Gleichstellungsbeauftragten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 5 Absatz 4 Sätze 1 und 2 GO und § 27 Abs. 3 dieser Hauptsatzung.
+(1) Die Teilnahme der Oberbürgermeisterin/des Oberbürgermeisters und der Beigeordneten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 69 und § 36 Abs. 7 GO. Leitende Dienstkräfte i.S.d. § 36 Abs. 7 Satz 2 GO sind die Amtsleiterinnen und Amtsleiter.
+(2) An den Sitzungen des Rechnungsprüfungsausschusses nimmt die Leiterin/der Leiter des Rechnungsprüfungsamtes teil.
+(3) Die Leiterin/der Leiter des Bürgeramtes ist verpflichtet, an den Sitzungen der Bezirksvertretung teilzunehmen.
+(4) Die Teilnahme der Gleichstellungsbeauftragten an den Sitzungen des Rates, der Ausschüsse und der Bezirksvertretungen richtet sich nach § 5 Absatz 4 Sätze 1 und 2 GO und § 27 Abs. 3 dieser Hauptsatzung.
+Seite 21 von 23
+
 § 30 Zahl der Beigeordneten
 (§ 71 Abs. 1 GO)
 Die Zahl der zu wählenden Beigeordneten wird auf höchstens 8 festgesetzt. In dieser Zahl sind die allgemeine Vertreterin/der allgemeine Vertreter der Oberbürgermeisterin/des Oberbürgermeisters, die/der die Amtsbezeichnung "Stadtdirektorin/Stadtdirektor" führt, und die Stadtkämmerin/der Stadtkämmerer inbegriffen.
-Seite 21 von 23
-
 § 31 Inkrafttreten der Hauptsatzung
 (§ 7 Abs. 4 GO)
 Diese Hauptsatzung tritt am Tage nach der öffentlichen Bekanntmachung in Kraft. Gleichzeitig tritt die bisher geltende Hauptsatzung vom 13. August 2007 in der Fassung der 2. Änderungssatzung vom 18. März 2008 außer Kraft.
