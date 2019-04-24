@@ -2,7 +2,7 @@
 
 - Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
 - Datum: 2019-04-24 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://cottbus.de/satzungen/5._2019-04-24_Elternbeitragssatzung_der_Stadt_CB1-1.pdf
+- Quelle: https://cottbus.de/satzungen/5._2019-04-24_Elternbeitragssatzung_der_Stadt_CB.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
