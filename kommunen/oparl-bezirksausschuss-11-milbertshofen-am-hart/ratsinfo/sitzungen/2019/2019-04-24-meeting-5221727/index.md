@@ -1,0 +1,84 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-04-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5221727
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5221727
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Kunst an Unterführungen - Vorstellung Outer Circle e.V.
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Anbieten von Veranstaltungen zum Thema „Plastikproblematik" und "Vermeiden von Plastikmüll“ an Grundschulen im 11. Stadtbezirk
+- TOP 4.2.2.: Lieberweg 42 - TG-Nutzung für die Kundinnen und Kunden des EDEKA-Marktes - Beantwortung der Rückfragen des BA 11
+- TOP 4.3.1.: Einrichtung eines Bildungslokals für den 11. Stadtbezirk
+- TOP 4.4.1.: Sudetendeutschestraße - Verbesserung der Parksituation
+- TOP 4.4.2.: Olympisches Dorf – Parkplatz-Notstand - Bürgeranliegen - Antwortschreiben
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget EB stadt. Integrationshort Hildegard-von-Bingen-Anger Ferienfahrt vom 11. - 15.06.2019 2.008,00 € AZ: 0262.0-11-0314
+- TOP 6.1.2.: (E) Stadtbezirksbudget Generationenzentrum e.V. Familien-Mutmachtag am 30.05.19 2.220,00 € Az: 0262.0-11-0316
+- TOP 6.1.3.: (E) Stadtbezirksbudget Spielen in der Stadt e.V. Zirkus Pumpernudl vom 22.-24.07.2019, Artmobil vom 21.-23.09.2019 2.631,00 € Az: 0262.0-11-0317
+- TOP 6.1.4.: (E) Stadtbezirksbudget Freizeitstätte Neuland, Arbeitsgruppe Buhlstraße e.V. Angerfest am 13.07.2019 3.823,00 € Az: 0262-11-0318
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Fahrgassenversatz errichten am Schulweg Keferloherstraße zum Schutz der Kinder
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Unterrichtsrecht der Bezirksausschüsse über Standorte der Wertstoffinseln
+- TOP 8.2.2.: Mittelfristige Finanzplanung 2018 - 2022: Mehrjahresinvestitionsprogramm - Anhörungsverfahren - Fortschreibung für die Jahre 2019 bis 2023
+- TOP 8.2.3.: Karlsbader Str. 13 a) Bauvorhaben: Neubau eines Doppelhauses mit Doppelgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Anhörungsrecht bei Vorbescheidsanträgen - BA-Antrag Nr. 14-20 / B05942 des BA 18 – Antwortschreiben
+- TOP 8.2.5.: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die Münchner Realschulen und Gymnasien - Fortschreibung - Beschlussentwurf -
+- TOP 8.2.6.: Max-Liebermann-Str. 6 a) Bauvorhaben: Neubau Studentenwohnheim, Beherbergungsbetrieb, Gastronomie und Tiefgarage – VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.7.: Heidemannstr. 2 – 12 Bauvorhaben: Neubau einer Wohnanlage mit 54 WE, einem Gartencenter,... - VORBESCHEID
+- TOP 8.2.8.: Oberhofer Pl. 4 Bauvorhaben: Nutzungsänderung: Ladenfläche zu Gaststätte - TEKTUR
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung „Tag des offenen Denkmals“ am 08.09.2019 – Rückmeldung Teilnahme und Denkmäler des 11. Stadtbezirkes
+- TOP 8.3.2.: Veranstaltung "Olympia-Alm-Crosslauf" im Olympiapark am 17.11.2019
+- TOP 8.3.3.: Veranstaltung "Halbmarathon" im Olympiapark am 28.04.2019
+- TOP 8.3.4.: Veranstaltung "Flohmarkt" auf der Nordhaide West am 08.06.2019
+- TOP 8.3.5.: Veranstaltung "Wanderlust 108" im Olympiapark am 02.06.2019
+- TOP 8.3.6.: Pfarrfest nach Fronleichnamsprozession am 23.06.2019, Milbertshofener Platz 2
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Rathenaustraße - Absolutes Haltverbot b) Guddenstraße - Absolutes Haltverbot c) Schmalkaldener Straße - Absolutes Haltverbot
+- TOP 8.4.2.: MVG - Leistungsprogramm 2020
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) „Hennessy“ - Konstanzer Straße 36 b) „Museumscafé M1" - Am Olympiapark 2 c) „Vereinsgaststätte des TC Grün Weiß Nord e.V. - Neuherbergstraße 81 d) „Restaurant Leoli“ - Riesenfeldstraße 18
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Toni-Merkens-Weg 4, Landshuter Allee (östlich), Nymphenburg-Biedersteiner-Kanal (nördlich), Ernst-Curtius-Weg (westlich) und Sapporobogen (südlich) - Neue multifunktionale Sportarena im Olympiapark - A) Bekanntgabe des Wettbewerbsergebnisses B) Weiteres Vorgehen Stadtbezirk 11 – Milbertshofen-Am Hart
+- TOP 9.2.2.: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018
+- TOP 9.2.3.: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
+- TOP 9.2.4.: (U) Wohnungsmarktbeobachtung München - Bericht zur Wohnungssituation 2016-2017
+- TOP 9.2.5.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 9.2.6.: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 9.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.8.: Feuerwerksanzeige (gewerblich) am 31.08.2019 in der Taunusstraße
+- TOP 9.2.9.: Meldelisten Bauvorhaben vom 18.02.2019 - 31.03.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: U 3 - Information über Sonderfahrplan im Mai 2019
+- TOP 9.4.2.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Korbinianstraße - absolutes Haltverbot b) Weyprechtstraße - absolutes Haltverbot c) Rose-Pichler-Weg - absolute Haltverbote mit Zusatz „Feuerwehranfahrtzone“
+- TOP 9.4.3.: Arbeiten im Straßenraum: Schleißheimer Straße - Fernwärmeprojekt
