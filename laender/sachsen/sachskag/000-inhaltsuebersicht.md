@@ -1,4 +1,3 @@
-## Sächsisches Kommunalabgabengesetz (SächsKAG)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
@@ -11,6 +10,8 @@ Abschnitt 1 Allgemeine Vorschriften
 Abschnitt 2 Steuern
 § 7 Gemeindesteuern
 § 8 Kreissteuern
+Abschnitt 2a Verwaltungsgebühren und Auslagen
+§ 8a Erhebung von Verwaltungsgebühren und Auslagen für Leistungen zur Erfüllung weisungsfreier Aufgaben
 Abschnitt 3 Benutzungsgebühren
 § 9 Erhebungsermächtigung, Einrichtungsbegriff
 § 10 Kostendeckungsgrundsatz, Kalkulationszeitraum
