@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 § 1 Geltungsbereich
 § 2 Gliederung und Aufgaben der Fachhochschule
 § 3 Rechtsnatur, Aufsicht und Satzungsbefugnis
