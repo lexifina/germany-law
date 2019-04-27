@@ -1,2 +1,2 @@
 # Sächsisches Architektengesetz (SächsArchG)
-Rechtsbereinigt mit Stand vom 25. Mai 2018
+Rechtsbereinigt mit Stand vom 27. April 2019
