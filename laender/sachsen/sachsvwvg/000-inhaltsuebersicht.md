@@ -1,7 +1,7 @@
 # Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Geltungsbereich
-§ 2 Allgemeine Voraussetzungen der Verwaltungsvollstre- ckung
+§ 2 Allgemeine Voraussetzungen der Verwaltungsvollstreckung
 § 2a Einstellung und Beschränkung der Vollstreckung
 § 3 Vollstreckungsschuldner
 § 4 Vollstreckungsbehörden, Vollstreckungshilfe
