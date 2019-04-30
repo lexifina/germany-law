@@ -1,0 +1,140 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-04-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146516
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146516
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 7.7.1: Der Nachbarschaftstreff "tatz" stellt sich und seine Arbeit vor
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Ampelschaltungen
+- TOP 6.6.2: Wepa-Zugang über Heiterwangerstr.
+- TOP 6.6.3: Dialog-display Hinterbärenbadstr.
+- TOP 6.6.4: Sauberkeit Westpark
+- TOP 6.6.5: Christmas-garden
+- TOP 6.6.6: Vermüllung Strassenbegleitgrün
+- TOP 6.6.7: Christmas-garden
+- TOP 6.6.8: Unterführung Mittersendling
+- TOP 8.8.1: (E) Anbringen einer Beleuchtung am Parkplatz gegenüber der Siegenburger Straße (37 - 41) und Zurückschneiden der Bepflanzung; verstärkte Polizeikontrolle Empfehlung Nr. 14-20 / E 02400 der Bürgerversammlung des Stadtbezirkes 7 Sendling-Westpark am 22.11.2018
+- TOP 8.8.2: (E) Luftreinhaltung – Verbot von Diesellokomotiven im Stadtgebiet Empfehlung Nr. 14-20 / E 02380 der Bürgerversammlung des Stadtbezirkes 07 – Sendling - Westpark am 22.11.2018
+- TOP 8.8.3: (E) + (U) Künftige Bürgerversammlungen wieder im 7. Stadtbezirk abhalten und bessere Anfahrtsbeschreibung und Lageskizze bei den Einladungen
+- TOP 10.10.1: (E) Stadtbezirksbudget Spielen in der Stadt e.V. Projekt „Zirkuslust im Westpark“ vom 17.06.2019 bis 23.06.2019 3.000,00 € AZ: 0262.0-7-0235
+- TOP 10.10.2: (E) Stadtbezirksbudget Initiative 14x2m Fotokunstausstellung vom 01.-30.06.2019 2.625,00 € / Az. 0262.0-7-0236
+- TOP 10.10.3: (E) Stadtbezirksbudget SüdpART Projekt „SüdpART“ vom 22.06. - 20.10.2019 478,86 € Az: 0262.0-7-0238
+- TOP 11.11.1: Alternativen zu Kunstrasen suchen
+- TOP 11.11.2: Busspuren auf Autobahnen
+- TOP 11.11.3: Deckenarbeiten der MVG in U-Bahnhöfen
+- TOP 11.11.4: Autobahnring um München schließen
+- TOP 16.16.1: Bürgerfest auf dem Lusie-Kiesselbach-Platz
+- TOP 16.16.2: Maibaumfest auf dem Lusie-Kiesselbach-Platz
+- TOP 16.16.3: Strassenfest Schondorfer-Holzhausener Str
+- TOP 16.16.4: Strassenfest Johann-Houis-Str.
+- TOP 16.16.5: Strassenfest Riesserseestr.
+- TOP 16.16.6: Europa-Picknick auf dem Lusie-Kiesselbach-Paltz
+- TOP 16.16.7: Zirkus auf dem Luise-Kiesselbach-Platz
+- TOP 17.17.1: Fest der Kulturen
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.20.1: Satzungsänderung-Wertstoffcontainerplätze
+- TOP 20.20.2: Satzungsänderung-Vorbescheidsanträge
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.22.1: Einrichtung eines Behindertenparkplatz Siegenburgerstr.
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 26.26.1: Bedarfsentwicklung und -planung für Realschulen und Gymnasien - Fortschreibung
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.28.1: Einschränken des Schleichverkehrs in Richtung Innenstadt
+- TOP 29.: Sozialreferat
+- TOP 30.30.1: MVG-Leistungsprogramm 2020
+- TOP 30.30.2: MIP-Fortschreibung 2019-2023
+- TOP 31.: Baureferat
+- TOP 31.31.1: Sanierung des Weges entlang des S-Bahnhofs IGA-Park
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Budgetbescheid-SV 1880
+- TOP 33.33.2: Budgetbescheid-Mittagsinsel
+- TOP 33.33.3: Budgetbescheid-Stattpark-Kindertheater
+- TOP 33.33.4: Budgetbescheid-Stattpark-König und König
+- TOP 33.33.5: Budgetbescheid-EB-GS Werdenfelsschule
+- TOP 33.33.6: BV-Empfehlung; Antwort BA-Beschlussänderung
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: VVB-Bescheid St-Magaret
+- TOP 35.35.2: Anfahrtszone Meier-Helmbrecht-Str_Kita
+- TOP 35.35.3: Behindertenparkplatz Weilheimer Str.
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 45.: Baureferat
+- TOP 45.45.1: Wegesanierung-Westpark
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 48.: Kommunalreferat
+- TOP 48.48.1: Grünfläche Garmischer Str 7
+- TOP 48.48.2: Grundstücksverkauf
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Filmaufnahmen-Westpark
+- TOP 49.49.2: Neubauplan LZA Landaubogen-Siegenburger Str
+- TOP 49.49.3: VVB-Bescheid Marionettentheater
+- TOP 49.49.4: VVB-BescheidFlohmarkt Murmeltiere
+- TOP 49.49.5: Einhornallee_2-Richtungsradweg
+- TOP 49.49.6: VVB-Bescheid EXPO-Lauf 2019
+- TOP 49.49.7: Anfahrtszone kita Lenaustr8a
+- TOP 49.49.8: Kurzparkzone Waldfriedhofstr66
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 52.52.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Vollzug BaumSchVO Einseleweg
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Zweckentfremdung
+- TOP 56.56.2: (U) Palliativversorgung im Münchenstift Empfehlung Nr. 14-20 / E 02404 ......................
+- TOP 57.57.1: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP 57.57.2: (U) Belegungsbindung von Sozialwohnungen auf 40 Jahre erhöhen Antrag Nr. 14-20 / A 04464 von der Fraktion DIE GRÜNEN/RL vom 24.09.2018
+- TOP 57.57.3: (U) Mieterhöhungspraxis der GBW bei EOF-Wohnungen a) EOF-Haushalte in GBW-Wohnungen unterstützen Antrag Nr. 14-20 / A 04057 DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 b) Ministerpräsident Söder muss Verantwortung für Vertreibungspolitik der GBW übernehmen Antrag Nr. 14-20 / A 04058 von DIE LINKE vom 07.05.2018, eingegangen am 07.05.2018 c) Bewohner der Adams-Lehmann-Str. 83-95 vor Verdrängung schützen Empfehlung Nr. 14-20 / E 02356 der Bürgerversammlung des Stadtbezirkes 04 - Schwabing West am 15.11.2018 d) GBW – Klare Regelung treffen für Rückkauf und Entschädigung Empfehlung Nr. 14-20 / E 02424 der Bürgerversammlung des Stadtbezirkes 09 - Neuhausen-Nymphenburg am 29.11.2018
+- TOP 57.57.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.5: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 57.57.6: (U) Ein Bodenschutzkonzept für München zur Sicherung dieser wertvollen Ressource Antrag Nr. 14-20 / A 03703 der Stadtratsfraktion DIE GRÜNEN/RL vom 15.12.2017
