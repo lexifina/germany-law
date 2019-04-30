@@ -1,0 +1,57 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-04-30T15:00:00+02:00
+- Ende: 2019-04-30T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20312
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20312
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715718.pdf
+- Ergebnisprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715718.pdf
+- Wortprotokoll: Beschlussprotokoll https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715718.pdf
+
+## Tagesordnung
+
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 3.1: AN 0299/2019 Beantwortung der Anfrage des Integrationsrates vom 05.03.2019 - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Nachfrage zur Beantwortung einer Anfrage zum Haushaltsplan 2019, Haushaltsstelle 08 Sportförderung / ‚Interkulturelles Maßnahmenprogramm; div. Empfänger‘ - Kenntnis genommen
+- TOP -: Nachfrage zur Beantwortung einer Anfrage zum Haushaltsplan 2019, Haushaltsstelle 08 Sportförderung / "Interkulturelles Maßnahmenprogramm; div. Empfänger" - Kenntnis genommen
+- TOP 4.2: ‚Haus der Einwanderungsgesellschaft‘ (vormals ‚Zentrales Migrationsmuseum‘) - Nachfrage zum Sachstand eines Ratsbeschlusses - Kenntnis genommen
+- TOP 4.3: Mitgliedschaft der Stadt Köln in der „Internationalen Städte-Koalition gegen Rassismus - Anfrage zum Sachstand - Kenntnis genommen
+- TOP 4.4: Auszubildende mit Migrationshintergrund bei der Stadt Köln - Kenntnis genommen
+- TOP -: Auszubildende mit Migrationshintergrund bei der Stadt Köln - zurückgestellt
+- TOP 4.5: Beteiligungsrechte des Integrationsrates - Kenntnis genommen
+- TOP -: Beteiligungsrechtes des Integrationsrates - AN/0491/2019 - Kenntnis genommen
+- TOP 4.6: Anfrage zu Präventiven Hausbesuchen bei über 75jährigen – Evaluation vom August 2018 - Kenntnis genommen
+- TOP 4.7: Anfrage zur Förderrichtlinie für die interkulturellen Zentren - Kenntnis genommen
+- TOP 5: Mitteilungen
+- TOP 5.1: Mitteilung zum 6. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge - Kenntnis genommen
+- TOP 5.2: Darstellung der Sparten - Kenntnis genommen
+- TOP 5.3: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; - Kenntnis genommen
+- TOP 5.4: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 5.5: Bericht der drei Träger Auszugsmanagement für den Zeitraum 01.01.-31.12.2018 - Kenntnis genommen
+- TOP 5.6: ZMI - Zentrum für Mehrsprachigkeit und Integration: Veröffentlichung des ZMI Magazins 2018 und Kölner Sprachfest 2019 - Kenntnis genommen
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Zahlung von Sitzungsgeld bei Teilnahme an der Koordinierungsrunde und den Arbeitskreisen – Bitte um Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP -: Entschädigung von ehrenamtlichen Gremienmitgliedern - Mitteilung über eine Beschlussvorlage im Rat
+- TOP 6.2: Antrag zu den Haushaltsplanberatungen und -entwurf 2020/21 - ungeändert beschlossen
+- TOP -: Zusatzantrag zu TOP 6.2 in der Sitzung des Integrationsrates am 30.4.2019 - ungeändert beschlossen
+- TOP 6.3: Realisierung des NSU-Mahnmals in Köln - geändert beschlossen
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Geänderte Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Kindertageseinrichtungen in Köln - zurückgestellt
+- TOP -: Änderungsantrag zu TOP 8.1 - zurückgestellt
+- TOP 8.2: Umwandlung der städtischen Notunterkunft Bonner Straße 478, 50968 Köln-Marienburg in eine Regelunterkunft zur Unterbringung von Geflüchteten - Baubeschluss - ungeändert beschlossen
+- TOP 8.3: Neubenennung von Mitgliedern des Integrationsrates als sachkundige Einwohner in Fachausschüssen - ungeändert beschlossen
+- TOP 8.4: Schließung und Rückbau der städtischen Notunterkunft für Geflüchtete an der Butzweilerhofallee 51, 50829 Köln-Ossendorf - Baubeschluss - ungeändert beschlossen
+- TOP 8.5: Antirassismus-Arbeit 2019 / 3.Schritt - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
