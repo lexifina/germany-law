@@ -1,0 +1,159 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-04-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5248969
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5248969
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.2.: Bürgeranliegen, Zebrastreifen Thalkirchner Straße (Höhe dermatologische Klinik)
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.2.: Gemeinsames Foto für die Internetseite des BA
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführung
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Antrag BA-eigenes Budget: 500,00 € für die Kinder und Jugend Einwohnerversammlung am 21.11.2019 im Tröpferlbad
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative 1000 Sonnen blühen Projekt „1000 Sonnen blühen“ von Mai – September 2019 1.400,00 € Az: 0262.0-2-0259
+- TOP 2.2.: (E) Stadtbezirksbudget wirWERK gGmbH Interaktive Ausstellung „Land der Kulturen“ vom 13.-17.05.2019 709,00 € Az: 0262.0-2-0260
+- TOP 2.3.: (E) Stadtbezirksbudget Green City e.V. Temporäre Platzgestaltung und Anwohneraktionen am Zenettiplatz vom 11.05. - 18.10.2019 20.780,00 € Az: 0262.0-2-0261
+- TOP 2.4.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Bepflanzung der ehemaligen Viehhoframpe vom 15.05.2019 – 30.06.2020 4.159,66 € Az: 0262.0-2-0262
+- TOP 2.5.: (E) Stadtbezirksbudget Spielfruppe Mini KUBUS e.V. Anschaffung eines Gruppenkinderwagens ab 01.06.2019 1.148,00 € Az: 0262.0-2-0264
+- TOP 2.6.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Artmobil vom 14.-16.09.2019 1.185,00 € / Az. 0262.0-2-0265
+- TOP 2.7.: (E) Stadtbezirksbudget Isarlust e.V. Isarboulevard vom 25.05. - 31.12.2019 5.971,00 € Az: 0262.0-2-0266
+- TOP 3.1.: Lösungen fürs Bahnhofsviertel 2: Soziale Entwicklung rund um den Münchner Hauptbahnhof, Beschlussentwurf
+- TOP 3.2.: Schulbauoffensive (SBO) 2013/30, Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung; Sitzungsvorlage Nr. 14-20 / V 14562 -PLENUMSBESCHLUSS-
+- TOP 5.1.: Vorschlag zum Stadtbezirksbudget, Aufstellung von drei Bänken im Durchgang zwischen altem und neuem Teil des Alten Südfriedhofs
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Auenstraße 7, Zusammenlegung und Verbreiterung zweier Gauben
+- TOP 3.1.2.: entfällt, s. TOP B 4.5
+- TOP 3.1.3.: entfällt, s. TOP B 4.6
+- TOP 3.1.4.: entfällt, s. TOP B 4.7
+- TOP 3.1.5.: Adolf-Kolping-Straße 10, VORBESCHEID, Neubau eines Parkhauses mit Büronutzung, Gastronomie und Mobility Hub
+- TOP 3.1.6.: Bayerstraße 3-5, Mathäser München: Neugestaltung des Außenbereichs Bayerstraße - Restauration „35mm“
+- TOP 3.1.7.: Wittelsbacherstraße 13, VORBESCHEID, DG-Ausbau, Errichtung eines Außen- oder Innenaufzugs, Balkonabbau und Modernisierungsmaßnahmen
+- TOP 3.1.8.: Häberlstraße 6, Bestandspläne, Umbau und Aufteilung von Wohnungen
+- TOP 3.1.9.: Maistraße 31, Aufstockung und Balkonanbau sowie DG-Neubau mit je zwei WE und Anbau eines Außenaufzugs
+- TOP 3.1.10.: Holzstraße 29, Errichtung einer Freischankfläche
+- TOP 3.1.11.: Reichenbachstraße 24, TEKTUR, Neubau eines Penthousegeschosses in Holzbauweise auf ein Wohngebäude im Innenhof (RGB) und Verlängerung der Notleiteranlage
+- TOP 3.1.12.: Ruppertstraße 19, TEKTUR, Fassadensanierung, Aufstockung und Nutzungsänderung eines Büro- und Verwaltungsgebäudes
+- TOP 3.2.1.: Schubertstraße 6, Fällung einer Birke
+- TOP 3.2.2.: Ickstattstraße 19, Fällung von vier Bäumen (zwei Ahorn, Blutpflaume, Buche)
+- TOP 3.2.3.: entfällt, s. TOP B 4.6
+- TOP 3.2.4.: entfällt, s. TOP B 4.7
+- TOP 3.2.5.: Reichenbachstraße 25, Fällung eines Flieders
+- TOP 3.3.1.: Informationen zu den Bauarbeiten am/um/im Hauptbahnhof in Bezug zur 2. Stammstrecke
+- TOP 3.3.2.: Mittelfristige Finanzplanung 2018 – 2022, Mehrjahresinvestitionsprogramm, Fortschreibung für die Jahre 2019 bis 2023
+- TOP 3.3.3.: Anhörungsrecht bei Vorbescheidsanträgen BA-Antrag Nr. 14-20 / B 05942 des Bezirksausschusses des Stadtbezirks 18 - Untergiesing - Harlaching vom 19.03.2019
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Einrichtung eines Kinderspielplatzes im Innenhof Baaderstraße 34
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Einfärbung dreier „Zebrastreifen“ in Regenbogenfarben anlässlich des 50. Jubiläumsjahr des Christopher Street Days
+- TOP 1.2.: Verlegung der Tram-Haltestelle Müllerstraße zwischen Thekla- und Corneliusstraße, um so eine weitere Haltestelle zwischen Sendlinger Tor und Reichenbachplatz im Glockenbachviertel zu ermöglichen
+- TOP 1.3.: Grünfläche am Goetheplatz
+- TOP 1.4.: Mülleimer und Hundekottütenspender am Goetheplatz
+- TOP 1.5.: Situation für Radfahrende an der Einmündung Corneliusstraße/Erhardtstraße im Zusammenhang mit der Verlegung der Bushaltestelle verbessern
+- TOP 1.6.: Umgestaltung der Einmündung Tumblinger Straße/Ruppertstraße angehen
+- TOP 1.7.: Verbesserung der Querung Thalkirchner Straße Höhe der Einmündungen Ehrengut-/Reifenstuelstraße
+- TOP 1.8.: Neue (Zwischen-) Haltestelle Buslinie 132 -PLENUMSBESCHLUSS-
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Genehmigung einer Freischankfläche, Fraunhoferstraße 43
+- TOP 2.1.2.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Pestalozzistraße 22 -PLENUMSBESCHLUSS-
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Münchner Radlnacht am 10.08.2019
+- TOP 3.1.2.: entfällt, s. TOP C 4.20
+- TOP 3.1.3.: entfällt, s. TOP C 4.21
+- TOP 3.1.4.: Straßenfest am 08.06.2019 in der Zenettistraße -PLENUMSBESCHLUSS-
+- TOP 3.2.1.: Lindwurmstraße stadtauswärts: Ampelertüchtigung für links abbiegende Radfahrer in die Reisingerstraße, Empfehlung Nr. 14-20 / E 01823 der Bürgerversammlung am 09.11.2017 (Sitzungsvorlage Nr. 14-20 / V 10790) - Stellungnahme des Referates
+- TOP 3.2.2.: Fußgängerübergang in der Auenstraße / Maximilianskirche, Empfehlung der Bürgerversammlung Nr. 14-20 / E 01812 vom 09.11.2017; Sitzungsvorlage Nr. 14-20 / V 11289 – Bildung einer Arbeitsgruppe
+- TOP 3.2.3.: MVG-Leistungsprogramm 2020
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: entfällt, s. TOP C 4.22
+- TOP 3.3.2.: Unterrichtungsrecht bei Standorten für Wertstoffinseln
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, E-Parken am Glockenbach
+- TOP 5.3.: Gemeinsame Überarbeitung/Anpassung der Standplatzsituation am Esperantoplatz während des Oktoberfestes (erneut aus 03/19)
+- TOP 5.4.: Innerstädtischer Isarraum – Mehr Schutz für Natur, AnwohnerInnen und NutzerInnen
+- TOP 5.5.: Bürgeranliegen, Zebrastreifen an den Kreuzungen Maistraße/Waltherstraße sowie Thalkirchner Straße/Stephanstraße einrichten
+- TOP 5.6.: Umgestaltung des St.-Pauls-Platzes
+- TOP 5.7.: Bürgeranliegen, Lage in der Schillerstraße
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Oktoberfest 2019, Reservierung der Ratsboxe
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: „Gewerbehof“ für Künstler, BA-Antrag Nr. 14-20 / B 03233, Zwischennachricht
+- TOP A 4.4.: Sicherstellen der ausreichenden Finanzierung der Nachmittagsbetreuung der Kinder der GS Schwanthalerschule
+- TOP A 4.5.: Kapuzinerstraße 15, Unterrichtung der Mieter über die Abwendungserklärung
+- TOP A 4.6.: Einen würdigen Zustand der Gedenkstätte für das israelitische Krankenhaus in der Hermann-Schmid-Str. 5 - 7 sicherstellen
+- TOP A 4.7.: Stand des Strategieprozesses Nächtliches Feiern
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP B 4.3.: (E) + (U) Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum Ergebnisse der Verkehrsuntersuchung Ergebnisse der Verkehrsuntersuchung Stadt und Fluss, Rahmenplanung innerstädtischer Isarraum BA-Antrags-Nr. 14-20 / B 05843 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019 Rahmenplanung innerstädtischer Isarraum: Ab Rosenheimer Platz stadteinwärts: Radfahrstreifen während der Sanierungsarbeiten BA-Antrags-Nr. 14-20 / B 05844 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019
+- TOP B 4.4.: Baugenehmigung Landwehrstraße 17, Stellungnahme zu Anmerkungen des BA
+- TOP B 4.5.: Eilentscheidung zum Bauvorhaben Kapuzinerstraße 15, Aufstockung eines Wohn- und Geschäftshauses mit Vollgeschoss, DG + Dachterrasse (VGB), Anbau von Balkonen, einem Wintergarten und eines Aufzugs, energetische Sanierung und Fensteraustausch, Grundrissänderungen und Wiederherstellung einer Dachterrasse sowie Nutzungsänderung im RGB: Werkstatt und Garage zu Wohnen
+- TOP B 4.6.: Eilentscheidung zum Bauvorhaben Corneliusstraße 25, RGB, Neubau eines Einfamilienhauses als dreiseitige Grenzbebauung in zweiter Reihe inklusive Baumfällung (vertagt aus 03/19)
+- TOP B 4.7.: Eilentscheidung zum Bauvorhaben Corneliusstraße 25, VGB, Sanierung und DG-Ausbau eines denkmalgeschützten Mehrfamilienhauses mit acht Wohneinheiten sowie Einbau eines nicht barrierefreien Personenaufzugs im Treppenhaus und Anbau von Balkonen im Innenhof inklusive Baumfällung (vertagt aus 03/19)
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Öffnung Glockenbach, BA-Antrags Nr. 14-20 / B 01991, Zwischennachricht
+- TOP C 4.7.: Anhörungsunterlagen für den Weihnachtsmarkt Pink Christmas 2019 vorab zur Kenntnisnahme
+- TOP C 4.8.: Nutzung der Grünanlage im Rahmen des BRK Flohmarktes auf der Theresienwiese am 27.04.2019, Antwortschreiben
+- TOP C 4.9.: (E) Verbot privater Silvesterfeuerwerke in ganz München
+- TOP C 4.10.: Fahrradstraße in der Jahnstraße
+- TOP C 4.11.: Verschönerung der Fläche am Bahnhofsplatz, Bereich Schützenstraße
+- TOP C 4.12.: Eilentscheidung zur Einrichtung einer Hotelanfahrtszone Bayerstraße (s. TOP C 3.2.2 03/19 A)
+- TOP C 4.13.: Anzahl der Wildtiere des Zirkus Krone für das Programm auf der Theresienwiese
+- TOP C 4.14.: Autoverkehr in der Müllerstraße dauerhaft bis Pestalozzistraße sperren, Antwortschreiben
+- TOP C 4.15.: Nächtliche Arbeiten im Bereich Arnulf-/Elisen-/Dachauer Straße
+- TOP C 4.16.: Haltverbot in der Corneliusstraße zwischen Gärtnerplatz und Baaderstraße zur Verbesserung der Zuverlässigkeit des Linienbusverkehrs
+- TOP C 4.17.: Positionspapier des BA 1 zur Verkehrsentwicklung Altstadt
+- TOP C 4.18.: Änderung der verkehrsrechtlichen Erlaubnis für die Baustelle am Karlsplatz 25
+- TOP C 4.19.: Fahrbahnsanierung Schwanthalerstraße zwischen Martin-Greif- und Paul-Heyse-Straße, Rückmeldung des Referates
+- TOP C 4.20.: Eilentscheidung zur Wahl zur Münchner Maikönigin am 30.04.2019 in der Hans-Sachs-Straße 1-5
+- TOP C 4.21.: Eilentscheidung zur Maibaumfeier Rosa Stangerl am 01.05.2019 am Karl-Heinrich-Ulrichs-Platz
+- TOP C 4.22.: Eilentscheidung zur Feuerwerksanzeige am 03.05.2019 auf der Theresienwiese im Rahmen des Frühlingsfest
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
