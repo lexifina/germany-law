@@ -1,0 +1,69 @@
+# Anlage 1 Stundentafel für den Förderschwerpunkt
+Sehen
+Grundschulstufe
+Jahrgangsstufen
+Lernbereich/Unterrichtsfach
+1
+1A
+2
+3
+4
+Religionslehre/Ethik
+2
+2
+2
+3
+3
+Grundlegender Unterricht
+16
+16
+16
+Deutsch
+6
+6
+Mathematik
+5
+5
+Heimat- und Sachunterricht
+3
+4
+Musikerziehung
+2
+2
+Englisch
+-
+-
+-
+2
+2
+Maschinenschreiben
+-
+-
+-
+-
+1
+Ästhetische Erziehung
+2
+2
+2
+2
+2
+Sporterziehung
+2
+2
+3
+3
+3
+Unterricht zur individuellen
+und gemeinsamen Förderung
+2
+2
+2
+2
+1
+Gesamtstundenzahl
+24
+24
+25
+28
+29
