@@ -1,0 +1,1 @@
+Auf Grund von Art. 2 Abs. 1 Satz 1 und Art. 20 Abs. 1 Nr. 1 des Gesetzes über die öffentlichen Sparkassen – Sparkassengesetz – SpkG – (BayRS 2025-1-I), zuletzt geändert durch § 9 des Gesetzes vom 24. Dezember 2002 (GVBl S. 962), erlässt das Bayerische Staatsministerium des Innern folgende Verordnung:
