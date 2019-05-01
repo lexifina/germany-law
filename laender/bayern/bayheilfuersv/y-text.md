@@ -1,0 +1,1 @@
+Auf Grund des Art. 10 Abs. 3 des Bayerischen Besoldungsgesetzes – BayBesG – (BayRS 2032–1–1–F), zuletzt geändert durch Gesetz vom 3. August 1986 (GVBl S. 205), erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
