@@ -7,8 +7,6 @@ Direktorin der Verwaltungsschule, Direktor der Verwaltungsschule
 Leitende Akademische Direktorin, Leitender Akademischer Direktor
 - als wissenschaftliche oder künstlerische Mitarbeiterin an einer Hochschule oder als wissenschaftlicher oder künstlerischer Mitarbeiter an einer Hochschule -
 Leitende Direktorin2), Leitender Direktor2)
-Leitende Polizeidirektorin, Leitender Polizeidirektor
-- als Polizeivizepräsidentin3) oder als Polizeivizepräsident3) -
 Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Oberschulrätin4), Oberschulrat4)
 Oberstudiendirektorin, Oberstudiendirektor
@@ -24,8 +22,6 @@ Fußnoten
 2) Soweit nicht in den Besoldungsgruppen B 2, B 3.
 2) Soweit nicht in den Besoldungsgruppen B 2, B 3.
 2) Soweit nicht in den Besoldungsgruppen B 2, B 3.
-3) Erhält eine Amtszulage nach Anlage 6.
-3) Erhält eine Amtszulage nach Anlage 6.
 4) Soweit nicht in der Besoldungsgruppe A 15.
 4) Soweit nicht in der Besoldungsgruppe A 15.
 5) Bei Schulen mit Teilzeitunterricht rechnen 2,5 Unterrichtsteilnehmer mit Teilzeitunterricht als einer.

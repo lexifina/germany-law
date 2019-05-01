@@ -6,6 +6,10 @@ Landesbehindertenbeauftragte, Landesbehindertenbeauftragter
 Leitende Branddirektorin, Leitender Branddirektor
 - als Leiterin oder als Leiter der Feuerwehr Bremen -
 Leitende Direktorin1), Leitender Direktor1)
+Leitende Kriminaldirektorin, Leitender Kriminaldirektor
+- bei der Polizei Bremen -
+Leitende Polizeidirektorin, Leitender Polizeidirektor
+- bei der Polizei Bremen -
 Rektorin der Hochschule Bremerhaven2), Rektor der Hochschule Bremerhaven2)
 Rektorin der Hochschule für Künste2), Rektor der Hochschule für Künste2)
 Rektorin der Hochschule für Öffentliche Verwaltung2), Rektor der Hochschule für Öffentliche Verwaltung2)

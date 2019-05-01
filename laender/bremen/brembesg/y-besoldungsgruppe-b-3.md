@@ -2,9 +2,10 @@
 Besoldungsgruppe B 3
 Direktorin beim Rechnungshof, Direktor beim Rechnungshof
 Kanzlerin der Universität1), Kanzler der Universität1)
-Landesbeauftragte für den Datenschutz, Landesbeauftragter für den Datenschutz
 Landesbeauftragte für die Verwirklichung der Gleichberechtigung der Frau, Landesbeauftragter für die Verwirklichung der Gleichberechtigung der Frau
 Leitende Direktorin2), Leitender Direktor2)
+Leitende Polizeidirektorin, Leitender Polizeidirektor
+- als Polizeivizepräsidentin der Polizei Bremen, als Polizeivizepräsident der Polizei Bremen -
 Leitende Regierungsdirektorin2), Leitender Regierungsdirektor2)
 Rektorin der Hochschule Bremen1), Rektor der Hochschule Bremen1)
 Senatsrätin2) 3), Senatsrat2) 3)

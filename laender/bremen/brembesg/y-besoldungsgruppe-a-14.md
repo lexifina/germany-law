@@ -15,8 +15,7 @@ Konrektorin, Konrektor
 - als Leitung eines an einer Grundschule mit mehr als 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik -
 - als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
 - zur Wahrnehmung von Schulleitungsaufgaben an einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
-Leiterin der Stadtbildstelle, Leiter der Stadtbildstelle
-- bei der Stadtgemeinde Bremerhaven -
+Leiterin des Medienzentrums Bremerhaven, Leiter des Medienzentrums Bremerhaven
 Oberärztin6), Oberarzt6)
 Oberkustodin, Oberkustos
 Oberrätin, Oberrat

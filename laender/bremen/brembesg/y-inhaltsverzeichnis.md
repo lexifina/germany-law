@@ -92,5 +92,5 @@ Abschnitt 9 Übergangsvorschriften
 § 76 | Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes 2002
 § 77 | Übergangsvorschrift aus Anlass der Neuregelung der Auslandsbesoldung
 § 78 | Übergangsvorschrift aus Anlass der Neuregelung von Ausgleichszulagen
-§ 79 | Übergangsvorschrift aus Anlass des Wegfalls der Zulage für die Wahrnehmung eines höherwertigen Amtes
+§ 79 | (weggefallen)
 § 80 | Übergangsvorschrift aus Anlass der Neuregelung der Besoldung bei begrenzter Dienstfähigkeit

@@ -102,14 +102,14 @@ Unterabschnitt 4 Fürsorge
 § 83a | Erfüllungsübernahme bei Schmerzensgeldansprüchen
 § 84 | Reise- und Umzugskosten
 Unterabschnitt 5 Personalakten (§ 50 des Beamtenstatusgesetzes)
-§ 85 | Inhalt der Personalakten sowie Zugang zu Personalakten
+§ 85 | Verarbeitung personenbezogener Daten, Führung und Inhalt der Personalakten sowie Zugang zu Personalakten
 § 86 | Beihilfeunterlagen
 § 87 | Anhörung
-§ 88 | Einsichtnahme in Personalakten
-§ 89 | Vorlage von Personalakten und Auskunft aus Personalakten
+§ 88 | Auskunft an die betroffenen Beamtinnen und Beamten
+§ 89 | Übermittlung von Personalakten und Auskunft aus Personalakten an nicht betroffene Personen
 § 90 | Entfernung von Unterlagen aus Personalakten
 § 91 | Aufbewahrungsfristen
-§ 92 | Automatisierte Verarbeitung von Personalakten
+§ 92 | Automatisierte Verarbeitung personenbezogener Daten im Beschäftigungskontext
 § 92a | Übertragung von Aufgaben der Personalverwaltung
 Abschnitt 7 Beteiligung der Spitzenorganisationen
 § 93 | Beteiligung der Spitzenorganisationen der Gewerkschaften und Berufsverbände (§ 53 des Beamtenstatusgesetzes)
@@ -163,5 +163,6 @@ Abschnitt 11 Übergangs- und Schlussvorschriften
 § 129 | Übergangsregelung für angezeigte oder genehmigte Nebentätigkeiten
 § 130 | Übergangsregelung für bisherige ordentliche Mitglieder der Unabhängigen Stelle
 § 130a | Übergangsregelung für Ortsamtleiterinnen und Ortsamtsleiter
+§ 130b | Übergangsregelung für Anträge auf Ruhestandsaufschub im Schuldienst
 § 131 | Entpflichtung
 § 132 | Übergangsvorschriften für Beamtinnen und Beamte an Hochschulen
