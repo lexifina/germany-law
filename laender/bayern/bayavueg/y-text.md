@@ -1,0 +1,1 @@
+Auf Grund des Art. 3 Abs. 1 des Gesetzes zur Übertragung staatlicher Kassengeschäfte auf die Landkreise erlassen die Bayerischen Staatsministerien des Innern und der Finanzen, soweit erforderlich mit Zustimmung des Bayerischen Obersten Rechnungshofs, folgende Verordnung:
