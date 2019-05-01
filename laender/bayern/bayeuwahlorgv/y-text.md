@@ -1,0 +1,1 @@
+Auf Grund von §§ 4 und 5 Abs. 2 Satz 1 des Europawahlgesetzes vom 16. Juni 1978 (BGBl I S. 709) in Verbindung mit § 8 Abs. 3 und § 9 Abs. 1 und Abs. 2 Satz 2 des Bundeswahlgesetzes erläßt die Bayerische Staatsregierung folgende Verordnung:
