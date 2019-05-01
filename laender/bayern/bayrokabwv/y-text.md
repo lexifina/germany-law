@@ -1,0 +1,1 @@
+Auf Grund von § 18a Abs. 3 und § 27 Abs. 1 des Wasserhaushaltsgesetzes, § 1 Abs. 1 und 3 der Verordnung über Zuständigkeiten nach dem Wasserhaushaltsgesetz (BayRS 753-2-I), Art. 41d Abs. 4 und Art. 75 Abs. 3 Satz 1 des Bayerischen Wassergesetzes (BayWG) erläßt das Bayerische Staatsministerium des Innern folgende Verordnung:
