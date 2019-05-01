@@ -1,0 +1,3 @@
+1. § 36 Abs. 1 der Verwaltungsgerichtsordnung (VwGO) in der Fassung der Bekanntmachung vom 19. März 1991 (BGBl I S. 686), zuletzt geändert durch § 62 Abs. 11 des Gesetzes vom 17. Juni 2008 (BGBl I S. 1010),
+2. Art. 16 Satz 2 des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung (AGVwGO) in der Fassung der Bekanntmachung vom 20. Juni 1992 (GVBl S. 162, BayRS 34-1-I), zuletzt geändert durch § 2 des Gesetzes vom 20. Dezember 2007 (GVBl S. 958), und
+3. Art. 43 Abs. 1 und Art. 55 Nr. 2 der Verfassung des Freistaates Bayern in der Fassung der Bekanntmachung vom 15. Dezember 1998 (GVBl S. 991, BayRS 100-1-I), geändert durch Gesetze vom 10. November 2003 (GVBl S. 816, 817),
