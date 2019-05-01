@@ -1,0 +1,1 @@
+Auf Grund des Art. 44 des Bayerischen Stiftungsgesetzes (BayStG) in der Fassung der Bekanntmachung vom 7. März 1996 (GVBl S. 126, BayRS 282-1-1-UK/WFK) erlassen die Bayerischen Staatsministerien des Innern, für Wissenschaft, Forschung und Kunst und für Unterricht und Kultus folgende Verordnung:

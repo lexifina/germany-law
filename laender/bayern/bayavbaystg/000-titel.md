@@ -1,0 +1,9 @@
+# Verordnung zur Ausführung des Bayerischen Stiftungsgesetzes
+(AVBayStG)
+in der Fassung der Bekanntmachung vom 19. Dezember 2001
+(GVBl. 2002 S. 23)
+BayRS 282-1-1-1-WK
+Verordnung zur Ausführung des Bayerischen Stiftungsgesetzes (AVBayStG) in der Fassung der Bekanntmachung vom 19. Dezember 2001 (GVBl. S. 23, BayRS 282-1-1-1-WK), die zuletzt durch § 1 Abs. 280 der Verordnung vom 26. März 2019 (GVBl. S. 98) geändert worden ist
+Änderungen
+1. § 1 V zur Änderung der Verordnung zur Ausführung des Bayerischen Stiftungsgesetzes vom 18.3.2016 (GVBl. S. 67)
+2. § 1 Abs. 280 V zur Anpassung des Landesrechts an die geltende Geschäftsverteilung vom 26.3.2019 (GVBl. S. 98)
