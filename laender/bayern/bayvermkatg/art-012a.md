@@ -1,0 +1,2 @@
+# Art. 12a Grundlagenfunktion der Daten der Vermessungsverwaltung
+Für die Einrichtung und Führung raumbezogener Informationssysteme in der öffentlichen Verwaltung sind grundsätzlich die Daten der Bayerischen Vermessungsverwaltung als Basisdaten zu verwenden. In Abstimmung mit den zuständigen Stellen der öffentlichen Verwaltung soll die Bayerische Vermessungsverwaltung sonstige Geodaten dieser Stellen zur Nutzung bereitstellen.
