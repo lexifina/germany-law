@@ -1,0 +1,1 @@
+Auf Grund des § 23a Abs. 2 Satz 1 des Gesetzes über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (Aufenthaltsgesetz – AufenthG) vom 30. Juli 2004 (BGBl I S. 1950), zuletzt geändert durch Art. 23 des Gesetzes vom 21. Juni 2005 (BGBl I S. 1818), erlässt die Bayerische Staatsregierung folgende Verordnung:
