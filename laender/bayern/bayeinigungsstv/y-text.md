@@ -1,0 +1,1 @@
+Auf Grund von § 15 Abs. 1 und 11 Satz 1 des Gesetzes gegen den unlauteren Wettbewerb (UWG) in der Fassung der Bekanntmachung vom 3. Juli 2004 (BGBl I S. 1414) erlässt die Bayerische Staatsregierung folgende Verordnung:
