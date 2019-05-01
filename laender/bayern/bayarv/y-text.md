@@ -1,0 +1,1 @@
+Auf Grund des Art. 25 Nr. 2 des Bayerischen Gesetzes über die Reisekostenvergütung der Beamten und Richter (Bayerisches Reisekostengesetz – BayRKG) vom 24. April 2001 (GVBl. S. 133, BayRS 2032-4-1-F) erlässt das Bayerische Staatsministerium der Finanzen folgende Verordnung:
