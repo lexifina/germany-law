@@ -1,0 +1,70 @@
+# 38. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-02T15:30:00+02:00
+- Ende: 2019-05-02T18:24:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20314
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20314
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A. Verpflichtung von Sachkundigen Einwohnern / Sachkundigen Bürgern
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: AKTIV60 Ticket zum halben Preis bei Führerscheinverzicht von Senioren - endgültig zurückgezogen
+- TOP 2.1.1: AKTIV60 Ticket zum halben Preis bei Führerscheinverzicht von Senioren - endgültig zurückgezogen
+- TOP 2.2: Leistungserweiterung des KVB AKTIV60 TICKET (ganztägige Kindermitnahme an Werktagen) - endgültig zurückgezogen
+- TOP 2.3: Leistungserweiterung des Aktiv60 Tickets - generelle kostenfrei Mitnahme von 3 Kindern bis 14 Jahre - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.4: Modellversuch: Ein Jahr AKTIV60 Ticket zum ermäßigten Preis bei Führerscheinverzicht von Senioren - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 2.5: Aktiv60-Ticket und Kindermitnahme - zurückgestellt
+- TOP 2.6: Modellversuch - ein Jahr AKTIV60-Ticket zum ermäßigten Preis beim Führerscheinverzicht von Senioren - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Umwandlung der städtischen Notunterkunft Bonner Straße 478, 50968 Köln-Marienburg in eine Regelunterkunft zur Unterbringung von Geflüchteten - Baubeschluss - ungeändert beschlossen
+- TOP 3.2: Verteilung der Fördermittel 2019 "SeniorenNetzwerke/Offene Altenarbeit" - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Schließung und Rückbau der städtischen Notunterkunft für Geflüchtete an der Butzweilerhofallee 51, 50829 Köln-Ossendorf - Baubeschluss - ungeändert beschlossen
+- TOP 4.2: Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung) - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Antirassismus-Arbeit 2019 / 3.Schritt - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Neue Kölner Statistik 2/2019 - Kenntnis genommen
+- TOP 7.1.1: "Wohnungen bleiben Wohnungen - Wohnraumschutzsatzung verlängern, verschärfen und durchsetzen"- - Kenntnis genommen
+- TOP 7.2: Anfragen und Beantwortungen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 8.2.1: Rückforderungen bei Jobcentern immer unverhältnismäßiger - Sache ist erledigt
+- TOP 8.2.1.1: Beantwortung der schriftlichen Anfrage der Ratsgruppe BUNT vom 11.03.2019 auf der Sitzung des Ausschusses für Soziales und Senioren am 02.05.2019 zum Thema: "Rückforderungen bei Jobcentern immer unverhältnismäßiger (AN/0317/2019) - Kenntnis genommen
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Mitteilung zum 6. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge - Kenntnis genommen
+- TOP 9.2: 24. Bericht über die Situation Geflüchteter - Kenntnis genommen
+- TOP 9.3: Anfragen und Beantwortungen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 11.2.1: Reichweite des Köln-Pass - Sache ist erledigt
+- TOP 11.2.1.1: Reichweite des Köln-Pass (AN/0151/2019) - Kenntnis genommen
+- TOP 11.2.2: Wohnungen für Obdachlose: Das "Housing First"-Konzept - Sache ist erledigt
+- TOP 11.2.2.1: Beantwortung einer Anfrage der Ratsgruppe GUT Köln AN/0236/2019 - Kenntnis genommen
+- TOP 11.2.3: Minihäuser für Obdachlose - Sache ist erledigt
+- TOP 11.2.3.1: Beantwortung der Anfrage der Ratsgruppe GUT Köln- AN/0237/2019- Minihäuser für Obdachlose - Kenntnis genommen
+- TOP 11.2.4: Fortführung des Angebotes der Wohnungslosenhilfe des Erik-Wickberg-Hauses in Ehrenfeld - Sache ist erledigt
+- TOP 11.2.4.1: Beantwortung einer Anfrage der CDU Fraktion und der Fraktion Bündnis 90/ Die Grünen AN/0303/2019 Fortführung des Angebotes der Wohnungslosenhilfe des Erik-Wickberg-Hauses in Ehrenfeld - Kenntnis genommen
+- TOP 11.2.5: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - zurückgestellt
+- TOP 11.2.6: Sachstand zum Sanierungs- und Umbauprogramm der Kölner Sozialhäuser - zurückgestellt
+- TOP 11.2.7: Netzwerk gegen häusliche Gewalt-Statistik 2017 Mündliche Nachfragen in der Sitzung 06.12.2018 - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 13: Mitteilungen
+- TOP 13.1: Fertigstellung des Monitoring Stadtentwicklung Köln - zurückgestellt
+- TOP 13.2: Neuer Kölner Mietspiegel (Stand: Januar 2019) - Kenntnis genommen
+- TOP 13.3: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 13.4: Bericht der drei Träger Auszugsmanagement für den Zeitraum 01.01.-31.12.2018 - Kenntnis genommen
+- TOP 13.5: Dokumentation der Winterhilfeaktivitäten 2018/2019 für wohnungslose Bürgerinnen und Bürger durch das Amt für Soziales, Arbeit und Senioren - Kenntnis genommen
+- TOP 13.6: Kompetenzzentrum Frau und Beruf Region Köln - Abschlussbericht - Kenntnis genommen
+- TOP 13.7: Teilnahme der Mitarbeitenden der Stadtverwaltung Köln am Kölner CSD 2019 - Kenntnis genommen
