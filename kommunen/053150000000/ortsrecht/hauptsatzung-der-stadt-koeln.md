@@ -1,17 +1,17 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2019-04-23 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_23042019.pdf
+- Datum: 2019-05-02 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_02052019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
-in der Fassung der 18. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 23.04.2019
+in der Fassung der 19. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 02.05.2019
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354, 2012, S. 627, S. 865, 2013, S. 443, 2014, S. 286, S. 857, S. 959, 2016, S. 1, S. 221, 2017, S. 475, 2018, S. 369, 2019, S. 226, S. 255 -
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften § 12b Jugend- und Kinderfreundlichkeit
 
@@ -258,8 +258,8 @@ Die Beschlüsse des Integrationsrates über die Verwendung von Haushaltsmitteln 
 (1) Bei der Stadt Köln wird eine Seniorenvertretung gebildet. Die Seniorenvertretung der Stadt Köln wird entsprechend den Regelungen der jeweils gültigen Wahlordnung gewählt.
 (2) Auf Stadtebene und auf Stadtbezirksebene werden Arbeitsgemeinschaften gebildet, in die die Seniorenvertretung, die Wohlfahrtsverbände und die Fraktionen des Rates bzw. Bezirksvertretungen Mitglieder entsenden. Die Stadtarbeitsgemeinschaft Seniorenpolitik besitzt das Recht, Anregungen oder Stellungnahmen dem Rat oder einem Ausschuss vorzulegen. Die Bezirksarbeitsgemeinschaften Seniorenpolitik haben das Recht, Anregungen und Stellungnahmen der Bezirksvertretung vorzulegen.
 (3) Die in die Stadtarbeitsgemeinschaft gewählten Seniorenvertreterinnen und Seniorenvertreter und ihre Stellvertretungen bilden die SVK-Stadtkonferenz.
-(4) Die SVK-Stadtkonferenz kann Mitglieder in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Jugend, Bauen, Wohnen, sowie Anregungen und Beschwerden zuständigen Fachausschüsse entsenden. Hierfür schlägt die SVK-Stadtkonferenz aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall vor. Auf Vorschlag der SVK-Stadtkonferenz wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
-(5) Die Einzelheiten regelt die vom Ausschuss für Soziales und Senioren beschlossene Geschäftsordnung für die Bezirksarbeitsgemeinschaften Seniorenpolitik und die Stadtarbeitsgemeinschaft Seniorenpolitik der Stadt Köln.
+(4) Die SVK-Stadtkonferenz kann Mitglieder in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung, Jugend, Schule und Weiterbildung, Bauen, Wohnen, sowie Anregungen und Beschwerden zuständigen Fachausschüsse entsenden. Hierfür schlägt die SVK-Stadtkonferenz aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall vor. Auf Vorschlag der SVK-Stadtkonferenz wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
+(5) Die Einzelheiten regelt die vom Ausschuss für Soziales und Senioren beschlossene Geschäftsordnung für die Gremien der Seniorenpolitik der Stadt Köln (GOGrSP).
 Seite 16 von 23
 
 § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
