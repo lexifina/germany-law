@@ -1,0 +1,6 @@
+# TOP 13.6: Wahlwerbestände politischer Parteien und Gruppen zur Europawahl 2019
+
+- Sitzung: Rat (35. Sitzung) (2019-05-02)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/23519
