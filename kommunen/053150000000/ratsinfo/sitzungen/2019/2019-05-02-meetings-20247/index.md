@@ -1,0 +1,62 @@
+# 36. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-02T17:05:00+02:00
+- Ende: 2019-05-02T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20247
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20247
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715000.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715000.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715000.pdf
+
+## Tagesordnung
+
+- TOP -: TOP A Verpflichtung von Sachkundigen Einwohnern / Sachkundigen Bürgern
+- TOP -: TOP B Bestellung einer Schriftführerin des Wirtschaftsausschusses und ihrer Stellvertretungen - ungeändert beschlossen
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Anfragen aus vorangegangenen Sitzungen
+- TOP 3.1: Einrichtung eines Kreativhauses, AN/1456/2018 - Kenntnis genommen
+- TOP 3.2: Evaluierungsbericht zum Strategiepapier für ein ganzheitliches Toilettenkonzept in Köln, 36/2017 - Kenntnis genommen
+- TOP 3.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3: Reformprojekt "Neugestaltung der Vergabeprozesse", 000572018 - zurückgestellt
+- TOP 3.4: Gesamtübersicht der Planungen für die Universität zu Köln, 2421/2018 - zurückgestellt
+- TOP 3.5: Weitere Perspektiven der Kölner Wochenmärkte - zurückgestellt
+- TOP 3.5.1: Beantwortung der Anfrage der CDU-Fraktion, Fraktion Bündnis 90/Die Grünen betr.: "Weitere Perspektiven der Kölner Wochenmärkte" (AN/0085/2019 - Sitzung vom 24.01.2019) - zurückgestellt
+- TOP 3.6: Aktuelle Situation bei Ford - Kenntnis genommen
+- TOP 3.6.1: Anfrage der SPD-Fraktion vom 23.01.2019 zur Sitzung des Wirtschaftsausschusses am 24.01.2019, TOP 4.3, am 21.03.2019, TOP 4.6 und 02.05., TOP 3.6 (AN/0116/2019) - Kenntnis genommen
+- TOP 3.7: Auswirkungen des Zusammenschlusses Kaufhof/Karstadt für den Standort Köln - Kenntnis genommen
+- TOP 3.7.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Auswirkungen des Zusammenschlusses Kaufhof/Karstadt für den Standort Köln" (AN/0097/2019 - Sitzung vom 24.01.2019) - Kenntnis genommen
+- TOP 3.8: Planungsrechtlicher Sachstand des Hafenausbaus Godorf - zurückgestellt
+- TOP 3.9: Verlagerung von Nutzern des Deutzer Hafens - zurückgestellt
+- TOP 3.10: Veranstaltung zur Stärkung von interdisziplinären Gründeraktivitäten - Kenntnis genommen
+- TOP 3.10.1: Beantwortung der Anfrage der CDU-Fraktion betr.: "Veranstaltung zur Stärkung von interdisziplinären Gründeraktivitäten" (AN/0367/2019) - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Einzelhandels- und Zentrenkonzept (EHZK) - Fortschreibung - zurückgestellt
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Berichtspflicht gemäß § 42 Geschäftsordnung des Rates - Bericht an den Wirtschaftsausschuss, Stand 31.12.2018 - zurückgestellt
+- TOP 8: Marktwesen
+- TOP 8.1: Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - ohne Votum in nachfolgende Gremien
+- TOP 8.2: Umsetzung der Marktsatzung und der Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - Kenntnis genommen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Arbeitsmarkt Köln - Rückblick 2018 und bisherige Entwicklung 2019 - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 12.1: Kompetenzzentrum Frau und Beruf Region Köln - Abschlussbericht - Kenntnis genommen
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Mitteilungen
+- TOP 14.1: Mitteilung Sachstand Breitbandkoordination - Kenntnis genommen
+- TOP 14.2: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 14.3: Stadtentwicklungskonzept Wirtschaft – Ergebnisse der Büroflächenerhebung - zurückgestellt
+- TOP 14.4: Mündliche Mitteilung betr.: "Einladung China-Abend" - Kenntnis genommen
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 16: Mündliche Anfragen
+- TOP 16.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.2: Tagesordnungspunkt (betrifft Privatpersonen)
