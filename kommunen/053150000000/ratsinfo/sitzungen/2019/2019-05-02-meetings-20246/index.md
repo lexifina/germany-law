@@ -1,0 +1,67 @@
+# 45. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-02T16:02:00+02:00
+- Ende: 2019-05-02T18:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20246
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20246
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715158.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715158.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715158.pdf
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag des Seniorenvertreters Meurers vom 14.02.2019 betr. Buslinie 134 - zurückgestellt
+- TOP 1.1.1: Buslinie 134 bis 23:00 Uhr verkehren lassen und auf einen 10-Minuten-Takt kürzen - zurückgestellt
+- TOP 1.2: Digitales Parkleitsystem per App zur Entlastung des Innenstadtverkehrs - endgültig abgelehnt
+- TOP 1.3: Förderung von ÖPNV und Radfahren durch mehr Sicherheit von Fußgängern und Radfahrern entlang der Bundesstraße 8 im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - zurückgestellt
+- TOP 3.2: Bedarfsfeststellungs- und Planungsbeschluss für die Planung des Abbruchs und Ersatzneubaus der Brücke Escher Str. in Köln Nippes/Bilderstöckchen - ungeändert beschlossen
+- TOP 3.3: Baubeschluss für die Umgestaltung des Knotenpunktes Alteburger Straße/Bayenthalgürtel/An der Alteburger Mühle im Bereich der Bismarckäule sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-2-1004, Bayenthalgürtel/ - ungeändert beschlossen
+- TOP 3.4: Köln aufräumen - Fortführung der Maßnahme Beschichtung von Stadtmobiliar - ungeändert beschlossen
+- TOP 3.5: Radverkehrsführung auf den Kölner Ringen - Umsetzungsstufe 2020 im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - im ersten Durchgang verwiesen
+- TOP 3.5.1: Radverkehrsführung auf den Kölner Ringen - im ersten Durchgang verwiesen
+- TOP 3.5.2: Radverkehrsführung auf den Kölner Ringen – Umsetzungsstufe 2020 im Rahmen der Umsetzung des Radverkehrskonzeptes Innenstadt - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - geändert beschlossen
+- TOP 4.2: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Bedarfsfeststellung und Vorbereitung des Vergabeverfahrens; Wartungs- und Entleerungsarbeiten an Parkscheinautomaten im Stadtgebiet Köln - ungeändert empfohlen
+- TOP 4.4: 270. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Planungs- und Bedarfsfeststellungsbeschluss Ost-West-Achse - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung"; hier: Baubeschluss für die Umgestaltung der Gürzenichstraße sowie Freigabe avon invest - mit Änderungen empfohlen
+- TOP 4.6.1: Baubeschluss für die Umgestaltung der Gürzenichstraße - mit Änderungen empfohlen
+- TOP 4.7: Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade von Deutzer Brücke bis Malakoffturm sowie Freigabe von investiven Auszahlungsermächtigungen, hier: Finanzstelle 6601-1201-1-1049, Rheinboulevard - Sanierung (Deutzer Brücke bis Mala - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Kostenentwicklung bei der Ertüchtigung der Ost-West-Achse - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Ausweitung Ladezonen - Sache ist erledigt
+- TOP 6.2: Gefahrenstellen in Baustellenbereichen - Sache ist erledigt
+- TOP 6.3: Barrierefreiheit an Haltestellen - Sache ist erledigt
+- TOP 6.4: Stadtbahnanbindung Köln Widdersdorf – Sachstand Untersuchung der Trassenführung - zurückgestellt
+- TOP 6.5: Kampagne für mehr Rücksicht im Straßenverkehr - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 GemHVO
+- TOP 7.1.1: Integriertes Handlungskonzept Lindweiler; Umgestaltung des Pingenweges zwischen Volkhovener Weg und Unnauer Weg - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Umsetzung des Ratsbeschlusses "Jobrad für städtische Beamte und Beschäftigte" vom 05.07.2018 - AN 1027/2018 - Kenntnis genommen
+- TOP 7.2.2: 5-Jahresprogramm der Erschließungsmaßnahmen (Inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen) - Kenntnis genommen
+- TOP 7.2.3: Ergebnisbericht Jugendbefragung - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Piktogramme auf der Hohenzollernbrücke - Kenntnis genommen
+- TOP 7.2.5: Grundlagenuntersuchung Mobilität des Region Köln/Bonn e. V. - Kenntnis genommen
+- TOP 7.2.6: STADTRADELN 2019 - Kenntnis genommen
+- TOP 7.2.7: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 7.2.8: Stadtbahn Bonn - Niederkassel - Köln - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Mobilität in Deutschland - Sache ist erledigt
+- TOP 8.2: E-Scooter-Verleih in Köln - zur weiteren Bearbeitung in die Verwaltung überwiesen
