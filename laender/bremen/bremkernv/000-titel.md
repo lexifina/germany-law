@@ -1,1 +1,1 @@
-# Bremische Verordnung über die Berücksichtigung der Kernarbeitsnormen der Internationalen Arbeitsorganisation bei der öffentlichen Auftragsvergabe (Bremische Kernarbeitsnormenverordnung - BremKernV) vom 17. Mai 2011
+# Bremische Verordnung über die Berücksichtigung der Kernarbeitsnormen der Internationalen Arbeitsorganisation bei der öffentlichen Auftragsvergabe (Bremische Kernarbeitsnormenverordnung - BremKernV) vom 2. April 2019
