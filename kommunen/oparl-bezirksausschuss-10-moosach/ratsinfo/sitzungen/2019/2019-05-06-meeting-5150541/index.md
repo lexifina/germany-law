@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-05-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150541
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150541
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.3.: Park Vilniusstraße
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Vorstellung AKIM - Allparteiliches Konfliktmanagement in München (Wechsel Kontaktperson für den 10. Stadtbezirk)
+- TOP 2.1.: Anbringen von Hundeverbots-Schildern an der Spielwiese gegenüber Dietrichstr. 8
+- TOP 2.2.: Expressbus X 50; erhebliche Staus und Behinderungen in der Pelkovenstraße
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Dachauer Str. 435 - 435a 2. Hanauer Str. 68
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Dachauer Str. 435 - 435a (-> Bauvorhaben siehe TOP 3.3.1.1) 2. Pirschstr. 8
+- TOP 3.4.1.: Informationsveranstaltung am 02.05.2019: Realschule Franz-Mader-Straße - Vorstellung der Planung
+- TOP 3.4.2.: Oktoberfest 2019; Reservierung Ratsboxe
+- TOP 4.: Anträge
+- TOP 4.1.1.: Taktverdichtung Buslinie 175
+- TOP 4.1.2.: Umsetzung des G9 am Moosacher Gymnasium (Anfrage)
+- TOP 4.1.3.: Gestaltung der Dachauer Straße im Abschnitt zwischen Pelkovenstraße und Hugo-Troendle-Straße als baumbestandene Allee
+- TOP 4.2.1.: Instandsetzung Parkbügel Dachauer Straße (nördlicher Teil)
+- TOP 4.2.2.: Einbeziehung der Borstei in den Schulsprengel der neen GS an der Emmy-Noether-Straße
+- TOP 4.3.1.: Radfahren in Moosach: Verbesserung der Zuwegung Dietrichstraße zum neuen Haupteingang FC Amicitia
+- TOP 5.1.: (E) Stadtbezirksbudget Spielen in der Stadt e.V. Artmobil vom 06.-08.05.2019 und Baumobil vom 01.-03.10.2019 2.631,00 € Az: 0262.0-10-177
+- TOP 5.2.: (E) Stadtbezirksbudget Carlotas gGmbH Empathie-Schule vom 07.06. - 05.12.2019 7.178,80 € Az: 0262.0-10-0183
+- TOP 5.3.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt, Kinder- und Jugendtreff Mooskito Jubiläumsfeier am 06.07.2019 318,75 € Az: 0262.0-10-0182
+- TOP 5.4.: (E) Stadtbezirksbudget Caritas München-Freising e.V. Fahrkarten für Moosacher BürgerInnen in einer Notlage vom 01.07.2019 – 30.06.2020 1.000,00 € Az:0262.0-10-0181
+- TOP 6.1.: Anhörungsrecht bei Vorbescheidsanträgen (BA-Antrag Nr. 14-20/ B 05942 des BA 18)
+- TOP 6.2.: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die Münchner Realschulen und Gymnasien - Fortschreibung - Beschlussentwurf -
+- TOP 6.3.: MVG - Leistungsprogramm 2020
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Chemnitzer Platz / Plauener Straße "Pfarrfest" am 14.07.2019
+- TOP 6.5.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Baubergerstr. 65: Einrichten eines allgemeinen Behindertenparkplatzes 2. Dachauer Str. 272: Einrichten eines allgemeinen Behindertenparkplatzes 3. Leidinger Platz: Einrichten eines absoluten Haltverbots an der Grünanlage/Spielplatzeingang
+- TOP 6.6.: Baumfällungen (Baumschutz): 1. Allacher Str. 145 2. Donauwörther Str. 58 3. Hohentwielstr. 7 4. Wildermuthstr. 88
+- TOP 6.7.: Strukturkonzept für den Bereich der Eggarten-Siedlung (Beschluss-Entwurf)
+- TOP 7.1.: Sachstand Generalsanierung Westfriedhof [BA-Antrag Nr. 14-20/B05761; Untersuchungsauftrag soll dem Stadtrat im 4. Quartal 2019 vorgelegt werden]
+- TOP 7.2.: Entsiegelung Wintrichring - Rückbau der Abbiegespur vom Wintrichring in die Hugo-Troendle-Straße [Umsetzung 2020 geplant]
+- TOP 7.3.: Bildungslokale in den Münchner Stadtbezirken - hier: 10. Stadtbezirk [noch keinen Standort gefunden; jedoch seit 2019 mobiles Bildungsmanagement in den Räumen des Stadtteilladens]
+- TOP 7.4.: Vorstellung des Planungssachstandes und des Nutzungskonzeptes zur geplanten Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk Moosach [BA-Antrag Nr. 14-20/B06053; Vergabeverfahren Objektplanung war IV/2018. Ergebnis wird im Stadtrat 07/2019 behandelt und kann dann auf Nachfrage dem BA vorgestellt werden]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Baubergerstr. 8: Einrichtung eines allgemeinen Behindertenparkplatzes
+- TOP 8.4.: Spielen in der Stadt e.V.: Termine und Stationen der Spielbusse 2019 im Stadtbezirk 10
+- TOP 8.5.: Fotoprojekt des Kreisjugendrings München Stadt: "Platz da für Mädchen & Junge Frauen" (hier: 10. Stadtbezirk)
+- TOP 8.6.: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 8.7.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Siegmund-Schacky-Str. 2. Hohentwielstr.
+- TOP 8.8.: Vorkaufsrecht nach dem BauGB in Erhaltungssatzungsgebieten: - nicht-öffentlich - 1. Abbachstr. 2. Abbachstr.
