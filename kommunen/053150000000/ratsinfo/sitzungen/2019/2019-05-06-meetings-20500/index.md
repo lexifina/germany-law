@@ -1,0 +1,78 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-06T17:00:00+02:00
+- Ende: 2019-05-06T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20500
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20500
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Erhaltungssatzung Stegerwaldsiedlung versus Projekt Grow Smarter - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Radschnellweg von Bergisch Gladbach nach Köln Zentrum - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Dellbrücker Hauptstraße – Ladezone - Kenntnis genommen
+- TOP 7.1.2: Öffnungszeiten Genovevabad - Kenntnis genommen
+- TOP 7.1.3: Anfrage der CDU-Fraktion vom 29.03.2019 zur nächsten Sitzung der Bezirksvertretung - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Einspurige Verkehrsführung B8 am Autobahnzubringer Mülheim - Kenntnis genommen
+- TOP 7.2.2: Drogenkonsum in der Parkanlage Leopold-Gmelin-Straße in Flittard - Kenntnis genommen
+- TOP 7.2.2.1: Parkanlage Flittard, hier: Antwort der Verwaltung zur Anfrage der CDU-Fraktion AN/0500/2019 - Kenntnis genommen
+- TOP 7.2.3: Sportanlage TUS Stammheim, Kunstrasenplatz - Kenntnis genommen
+- TOP 7.2.3.1: Sportanlage TUS Stammheim, Kunstrasenplatz - Kenntnis genommen
+- TOP 7.2.4: Verlängerung Stadtbahn Mülheim-Süd - Stammheim - Flittard - Kenntnis genommen
+- TOP 7.2.5: Elisabeth-Schäfer-Weg in Köln-Buchheim - Aufstellen von Mülleimern - Kenntnis genommen
+- TOP 7.2.6: Taubenkot in Eisenbahnunterführungen - Kenntnis genommen
+- TOP 7.2.7: Zukunft des niedergebrannten Pferdehofes in Thielenbruch - Kenntnis genommen
+- TOP 7.2.8: Brennende PKW auf der Rhodiusstraße in Mülheim - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einrichtung von Trimm-Dich-Pfaden/Aufwertung der Spielplätze in Flittard/Stammheim/Bruder-Klaus-Siedlung - geändert beschlossen
+- TOP 8.1.2: BAB-3-Anschlußstelle Dellbrück/Holweide - geändert beschlossen
+- TOP 8.1.3: Radschnellweg Kön - Bergisch-Gladbach, Einrichtung einer offenen Bürgeranhörung im Stadtteil Köln-Buchheim - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Ersatzbeschaffung Spielgeräte für Spielplatz Katzenbuschweg in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.1.2: Umsetzung des Integrierten Stadtentwicklungskonzepts Köln im Sozialraum „Buchheim, Buchforst und Mülheim-Nord, Keupstraße“ - Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds - ungeändert beschlossen
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2019 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Aufhebung des Aufstellungsbeschlusses vom 16.03.2000 zum Bebauungsplanverfahren Nummer 71480703; Arbeitstitel: Schanzenstraße Süd - ungeändert beschlossen
+- TOP 9.2.2: Satzung über die abweichende Herstellung der Erschließungsanlage Markgrafenstraße von Clevischer Ring bis Kreisverkehr Berliner Straße in Köln-Mülheim - zurückgestellt
+- TOP 9.2.3: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.4: Barrierefreies Sportzentrum - ungeändert beschlossen
+- TOP 9.2.5: 270. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); ,Arbeitstitel: "Quartier Schlebuscher Weg" in Köln-Höhenhaus - geändert beschlossen
+- TOP 9.2.7: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - geändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand zur Sanierung der Mülheimer Brücke (ständiger Tagesordnungspunkt)
+- TOP 10.2.4: Nutzungsunabhängige Haldenstabilisierung Kalkberg, Anfrage der Fraktion DIE LINKE - Kenntnis genommen
+- TOP 10.2.5: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 10.2.6: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Mülheim - Kenntnis genommen
+- TOP 10.2.7: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Mülheim - Kenntnis genommen
+- TOP 10.2.8: Neudefinition des Straßenverlaufs der Colonia-Allee in Köln-Holweide - Kenntnis genommen
+- TOP 10.2.9: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 10.2.10: Deutz-Mülheimer Straße in Köln-Mülheim - Kenntnis genommen
+- TOP 10.2.11: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 10.2.12: STADTRADELN 2019 - Kenntnis genommen
+- TOP 10.2.13: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 10.2.14: Errichtung eines Fußgängerüberweges auf der Mielenforster Straße - Kenntnis genommen
+- TOP 10.2.15: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 10.2.16: Gewässerunterhaltungsplan 2019/2020 - Kenntnis genommen
+- TOP 10.2.17: Unfallhäufungsstellen des Jahres 2018 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
