@@ -1,0 +1,96 @@
+# Rat (47. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-05-06T18:00:00+02:00
+- Ende: 2019-05-06T21:08:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWYm3uKKBpUYmfbY80Z6guw
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7116
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf01OaIWSprlSm42geyv6PiUctqWKF17WYCxsgRoGiXO/Bekanntmachung_Rat_06.05.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXB19JhVbE6TdN8MYKGvPg7idOkmBbpAyG1zIelbYnH5/Oeffentliche_Niederschrift_Rat_06.05.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Gelbe Säcke
+- TOP 1.2: Beschilderung Sceaux-Platz
+- TOP 1.3: Bauvorhaben THC I
+- TOP 1.4: Vorlage aus dem Ratsinformationssystem
+- TOP 1.5: Allgemeine Anfrage
+- TOP 1.6: Bauvorhaben THC II
+- TOP 2.: Niederschrift vom 25.02.2019
+- TOP 3.: Einführung und Verpflichtung eines neuen Ratsmitgliedes hier: Tobias Görtzen (SPD)
+- TOP 4.: Räumliche Erweiterung der Übermittagsbetreuung an der Barbaraschule
+- TOP 4.1: Räumliche Erweiterung der Übermittagsbetreuung an der Barbaraschule Bezug: Antrag der Fraktion Linke & Piraten vom 28.03.2019
+- TOP 4.2: Raumerweiterung für die Übermittagsbetreuung an der Barbaraschule in Form eines Massivbaus Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 06.05.2019 zu TOP 18.1, RAT 6.5.2019, Vorlage-Nr. 113/2019
+- TOP 4.3: Räumliche Erweiterung der Übermittagsbetreuung an der Barbaraschule Hier: Änderungsantrag zum Antrag der Fraktion Linke&Piraten, Rat 6.5.2019,Vorlagen-Nr. 113/2019 Bezug: Antrag der SPD-Fraktion vom 02.05.2019 - (kein Text vorhanden)
+- TOP 5.: Brühler Stadtordnung
+- TOP 5.1: Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Brühl (Brühler Stadtordnung)
+- TOP 5.1.1: Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Brühl (Brühler Stadtordnung)hier: Antrag der FDP-Fraktion vom 25.01.2019 Bezug: Vorlage-Nr. 440/2018, HA 28.1.2019, RAT 25.2.2019
+- TOP 5.1.2: Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Brühl (Brühler Stadtordnung)
+- TOP 5.2: Ordnungsbehördliche Verordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Brühl (Brühler Stadtordnung) - (kein Text vorhanden)
+- TOP 6.: Förderantrag Rathaus - (kein Text vorhanden)
+- TOP 7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.: Verleihung des Ehrenringes der Stadt Brühl - (kein Text vorhanden)
+- TOP 9.: Leben im Quartier und mit Einschränkung
+- TOP 10.: Austausch des Dienstwagens des Bürgermeisters
+- TOP 11.: Satzungen
+- TOP 11.1: Änderung der Satzung über die Erhebung von Elternbeiträgen in der Kindertagesbetreuung der Stadt Brühl - Beitragssatzung Kindertagesbetreuung
+- TOP 11.1.1: 3. Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen in der Kindertagesbetreuung der Stadt Brühl Bezug: JHA vom 14.03.2019, Vorlage 42/2019 - (kein Text vorhanden)
+- TOP 11.2: 3. Satzung zur Änderung der Entwässerungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 11.3: Satzungsänderung hier: Max Ernst-Stipendium
+- TOP 11.3.1: Satzungsänderung Max Ernst-Stipendium Bezug. KPTA vom 21.03.2019, Vorlagen-Nr. 65/2019 - (kein Text vorhanden)
+- TOP 11.4: Friedhofs- und Bestattungssatzung in der Stadt Brühl hier: Anpassung an die Mustersatzung StGB - (kein Text vorhanden)
+- TOP 12.: Inanspruchnahme der Prüfungserleichterung der Gesamtabschlüsse 2016-2017 - (kein Text vorhanden)
+- TOP 13.: Über- und außerplanmäßige Ausgaben
+- TOP 13.1: Überplanmäßige Ausgabe zur Einführung eines Tax Compliance Management System (TCMS) bei der Stadt Brühl. - (kein Text vorhanden)
+- TOP 13.2: Überplanmäßige Ausgabe für den barrierefreien Umbau von 114 Bushaltestellen - (kein Text vorhanden)
+- TOP 13.3: Überplanmäßige Mehraufwendungen bei den Erstattungszinsen Gewerbesteuer - (kein Text vorhanden)
+- TOP 14.: Genehmigung von Dringlichkeitsentscheidung
+- TOP 14.1: Dringlichkeitsentscheidung Überplanmäßige Mittelbereitstellung Neubau Clemens-August-Forum - (kein Text vorhanden)
+- TOP 15.: Entwurf des Jahresabschlusses 2018 - (kein Text vorhanden)
+- TOP 16.: Ermächtigungsübertragung aus dem Haushaltsplan 2018 nach 2019
+- TOP 17.: Gesellschafterversammlung Gesellschaft für Bauen und Wohnen GmbH der Stadt Brühl (Gebausie) - Bestellung eines Geschäftsführers
+- TOP 17.1: Gesellschafterversammlung Gesellschaft für Bauen und Wohnen GmbH der Stadt Brühl (Gebausie) - Bestellung eines Geschäftsführers - (kein Text vorhanden)
+- TOP 18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.: Anträge
+- TOP 19.1: Freies Parken für E-Autos - (kein Text vorhanden)
+- TOP 19.2: Vermeidung von Müll durch die Verwendung von Mehrwegbechern
+- TOP 19.3: Verzicht gem. § 116 a GO NRW auf die Erstellung eines Gesamtabschlusses für das Haushaltsjahr 2019 und entsprechende Prüfung für das Haushaltsjahr 2018 Bezug: Antrag der FDP-Fraktion vom 12.04.2019
+- TOP 19.3.1: Verzicht auf die Erstellung des Gesamtabschlusses gem. § 116a GO für das Haushaltsjahr 2019 Bezug: Antrag der FDP Fraktion vom 12.04.2019
+- TOP 19.4: Leitlinien zur Entwicklung der Stadt Brühl bis zum Jahr 2035 Bezug: Antrag der FDP-Fraktion vom 14.04.2019 - (kein Text vorhanden)
+- TOP 19.5: Zuordnung des Fachbereichs Schule und Sport zum Dezernat II Bezug: Antrag gemäß § 73 GO NRW – Geschäftsverteilung und Dienstaufsicht Hier: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 19.04.2019 - (kein Text vorhanden)
+- TOP 20.: Umbesetzung in Ausschüssen
+- TOP 20.1: Umbesetzung im Schulausschuss hier: Vertreter des Max-Ernst-Gymnasiums - (kein Text vorhanden)
+- TOP 20.2: Umbesetzung im Jugendhilfeausschuss hier: beratendes Mitglied gem. § 58 Abs. 1, S. 7 – 9 GO NRW Bezug: Antrag der Fraktion Linke&Piraten vom 19.04.2019 - (kein Text vorhanden)
+- TOP 20.3: Umbesetzung in verschiedenen Ausschüssen Bezug: Antrag der SPD-Fraktion vom 06.05.2019
+- TOP 21.: Mitteilungen
+- TOP 21.1: Tag der Demokratie am 23.05.2019
+- TOP 22.: Anfragen
+- TOP 22.1: Beteiligung der Stadt Brühl an überörtlichen Bündnissen, Aktionsgemeinschaften, geförderten Initiativen, Arbeitsgemeinschaften u.a. Bezug: Anfrage der FDP-Fraktion vom 04.11.2018
+- TOP 22.1.1: Beteiligung der Stadt Brühl an überörtlichen Bündnissen, Aktionsgemeinschaften, geförderten Initiativen, Arbeitsgemeinschaften u.a. Bezug: Anfrage der FDP-Fraktion vom 04.11.2018
+- TOP 22.2: Digitalisierung der Schulen Bezug: Anfrage der FDP-Fraktion vom 12.04.2019
+- TOP 22.3: Vierte deutsch-palästinensische kommunale Partnerschaftskonferenz vom 24.-27.09.2019 in Brühl Bezug: Anfrage der FDP-Fraktion vom 12.04.2019
+- TOP 22.3.1: Vierte deutsch-palästinensische kommunale Partnerschaftskonferenz Bezug: Anfrage der FDP-Fraktion vom 12.04.2019; Vorl.-Nr. 130/2019
+- TOP 22.4: Schreiben der OG Brühl-Ost
+- TOP 22.5: Neue Feuerwache
+- TOP 22.6: Otto-Wels-Straße
+- TOP 22.7: Immobilienbestand
+- TOP 22.8: Digitalisierung an Schulen
+- TOP 22.9: Bericht über den Besuch der Arbeitsgruppe in Palästina
+- TOP 22.10: Bebauung Brühl-Kierberg
+- TOP 22.11: Ausbau Linie 18
+- TOP 22.12: Baugebiete in Brühl
+- TOP B): Nichtöffentliche Sitzung
+- TOP 23.: Bericht über die 148. Sitzung des Aufsichtsrates der REVG mbH am 20.02.2019
+- TOP 24.: Mitteilungen
+- TOP 24.1: Rückzahlung einer Spende
+- TOP 25.: Anfragen
+- TOP 25.1: Bauvorhaben THC III
+- TOP 25.2: Bauvorhaben THC IV
+- TOP 25.3: Abteilungsleitung Bauordnung
