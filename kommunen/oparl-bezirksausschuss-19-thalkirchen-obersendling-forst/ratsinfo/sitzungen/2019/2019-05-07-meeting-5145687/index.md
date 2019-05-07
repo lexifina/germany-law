@@ -1,0 +1,75 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-05-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145687
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145687
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.3.: Genehmigung der Protokolle vom 02.04.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil München am 8. + 15.05.2019 1.500,00 € Az: 0262.0-19-0253
+- TOP 3.3.: (E) Stadtbezirksbudget Evangelisches Pflegezentrum Sendling Besuch des Therapiehundes vom 01.03.2019 – 29.02.2020 450,00 € Az: 0262.0-19-0244
+- TOP 3.4.: (E) Stadtbezirksbudget Kath. Stadtpfarrei St. Johann Baptist München-Solln Kirchenkonzert am 30.05.2019 1.994,00 € / Az. 0262.0-19-0254
+- TOP 3.5.: (E) Stadtbezirksbudget Kath. Männerfürsorgeverein Sommerfest am 03.07.2019 500,00 € / Az. 0262-0-19-0255
+- TOP 3.6.: (A) Mehrjahresinvestitionsprogramm (MIP) 2018 bis 2022
+- TOP 3.7.: Bestellung städtischer Leistungen: Schachspiel am Schweizer Platz
+- TOP 3.8.: Bestellung städtischer Leistungen: Schulen schaffen Biodiversität
+- TOP 3.9.: Stadtteilwoche Sendling-Obersendling 2019
+- TOP 3.10.: (E) Stadtbezirksbudget Evang. Pflegezentrum Sendling Musik am Nachmittag vom 02.05.19 - 31.03.2020 300,00 € / Az. 0262.0-19-0256
+- TOP 3.11.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Artmobil vom 04.-06.10.2019 1.185,00 € / Az. 0262.0-19-0257
+- TOP 3.12.: (E) Stadtbezirksbudget Spiellandschaft Stadt e.V. Weltkindertag am 20.09.2019 3.900,00 € / Az. 0262.0-19-0258
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (Antrag) Rückfragen zum Antwortschreiben der MVG bezüglich Verspätungen der U-Bahnlinie 3
+- TOP 5.3.: (E) Erneuerung der Stufen an der Fußgängerüberführung am S-Bahnhof Solln BV-Empfehlung Nr. 14-20 / E 00959; Sitzungsvorlage Nr. 14-20 / V 14340
+- TOP 5.4.: (A) MVG-Leistungsprogramm 2020
+- TOP 5.5.: (Antrag) Radarkontrollen an der Kreuzung Forstenrieder Allee/Ammerlandstraße
+- TOP 5.6.: (A) Einrichtung zweier Behindertenparkplätze: Emil-Geis-Straße 35
+- TOP 5.7.: Verkehrsführung Wilhelm-Leibl-Straße/ Bleibtreustraße
+- TOP 5.8.: (U) Verkehrsrechtliche Anordnung: Rettungsweg Frans-Hals-Straße
+- TOP 5.9.: (U) Verkehrsrechtliche Anordnung: Sicherheitszone Meglingerstraße
+- TOP 5.10.: (Antrag) Einmündung Karl-Wieninger-Weg in die Mindelheimer Straße
+- TOP 5.11.: (U) Verkehrsrechtliche Anordnung: Feuerwehrzufahrt Schäftlarnstraße
+- TOP 5.12.: (Antrag) Rote Radstreifen für Kreuzungseinmündungen Sambergerstr. und Schuchstr.
+- TOP 5.13.: (Antrag) Überquerungsmöglichkeit Herterichstraße Richtung Begasweg
+- TOP 5.14.: (Antrag) Beschilderung einer West-Ost Radroute im südlichen Teil des Stadtbezirks
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (Antrag) Vorhabenbezogener Bebauungsplan Bauvorhaben Derzbachhof
+- TOP 6.4.: (A) Bauleitplanverfahren: Bebauungsplan mit Grünordnung Nr. 2109 Appenzeller Straße
+- TOP 6.5.: (A) Satzungsänderung: Anhörungsrecht bei Vorbescheidsanträgen (Antrag BA 18)
+- TOP 6.6.: (E) Auskunft über die Rechtsgrundlagen für die Genehmigung der Shisha-Bar in der Liesl-Karlstadt-Str. 22 (Ziffer 3); BV-Empfehlung Nr. 14-20 / E 02516; Sitzungsvorlage Nr. 14-20 / V 14820
+- TOP 6.7.: (E) Erhalt des Derzbachhofes; BV-Empfehlung Nr. 14-20 / E 01968; Sitzungsvorlage Nr. 14-20 / V 14494
+- TOP 6.8.: (Antrag) Grünfläche zwischen Drygalski-Allee und Dorfkern Forstenried erhalten
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Schulbauoffensive 2013 - 2030: Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Tag des offenen Denkmals am 08.09.2019
+- TOP 8.3.: (A) Veranstaltung: Münchner Radlnacht am 10.08.2019
+- TOP 8.4.: (U) Gaststättenfortführung: Meglingerstraße 31
+- TOP 8.5.: (U) Zwei Gaststättenfortführungen: Stäblistraße 10 b
+- TOP 8.6.: (U) Gaststättenfortführung: Zentralländstraße 40
+- TOP 8.7.: (A) Veranstaltung: Weltspieltag am 28.05.2019 und Weltkindertag am 20.09.2019
+- TOP 8.8.: (A) Veranstaltung: Erinnerungszeichen für James M. Greene am 19.07.2019
