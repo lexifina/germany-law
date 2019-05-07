@@ -1,0 +1,54 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-07T16:55:00+02:00
+- Ende: 2019-05-07T18:40:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16531
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16531
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00341525.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00341525.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00341525.pdf
+
+## Tagesordnung
+
+- TOP 1: TO - einstimmig beschlossen
+- TOP 2: Zulassung als Sachverständige - einstimmig beschlossen
+- TOP 3: Niederschrift - einstimmig beschlossen
+- TOP 4: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 4.1: Anfrage CDU: Zukunft des Kinderbauernhofs Niederheid - beantwortet
+- TOP 4.2: Anfrage CDU: Vorsichtsmaßnahmen gegen EPS-Befall - beantwortet
+- TOP 4.3: Anfrage SPD - Mittagsverpflegung in offenen Ganztagsschulen (OGS) - beantwortet
+- TOP 4.4: Anfrage SPD - Starke-Familien-Gesetz - beantwortet
+- TOP 4.5: Anfrage FDP - Schimmelbildung in der Kita Christus König - beantwortet
+- TOP 4.6: Anfrage Jugendverbände - Einschränkung der Nutzung des Skateparks durch Scooter-Fahrer - beantwortet
+- TOP 5: Bericht - zur Kenntnis genommen
+- TOP 5.1: Familienhebammen in Düsseldorf - zur Kenntnis genommen
+- TOP 6: Präventionsketten Düsseldorf - zur Kenntnis genommen
+- TOP 6.1: Düsseldorfer Präventionsketten: Landesprogramm Wertevermittlung, Demokratiebildung und Prävention - zur Kenntnis genommen
+- TOP 7: Gebäudeangelegenheiten - zur Kenntnis genommen
+- TOP 7.1: Benrodestraße 46, Rathaus Benrath - Denkmalgerechte Innensanierung und Zusammenlegung des Bezirkssoz - Empfehlung einstimmig beschlossen
+- TOP 7.2: Erweiterung Kita Sulzbachstraße, Sulzbachstraße 6, Düsseldorf - AuF-Beschluss - Empfehlung einstimmig beschlossen
+- TOP 8: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 8.1: Investitionszuschüsse an fr. Träger: GTP 1,2,3 - Zietenstr. 52 - Neubau - einstimmig beschlossen
+- TOP 8.2: Investitionszuschüsse an fr. Träger: Kita Fruchtstraße 3 - einstimmig beschlossen
+- TOP 8.3: Investitionszuschüsse an fr. Träger von Kitas - Mindener Straße 54 - einstimmig beschlossen
+- TOP 8.4: Investitionszuschüsse an fr. Träger von Kitas - Schwannstraße 11 - einstimmig beschlossen
+- TOP 8.5: Investitionszuschüsse an fr. Träger von Kitas - Wanheimer Straße 76 - einstimmig beschlossen
+- TOP 9: Jugendförderung - zur Kenntnis genommen
+- TOP 9.1: Mobile Angebote für Kinder und Jugendliche mit Fluchterfahrung - zur Kenntnis genommen
+- TOP 9.2: JFE Wochenendaktionen 2018 zusätzlich zur Öffnung des Offenen Bereichs - zur Kenntnis genommen
+- TOP 9.3: Investitionskostenzuschüsse an freie Träger der Jugendhilfe - einstimmig beschlossen
+- TOP 9.4: Sachstand zum Ausrichten einer Jugendkonferenz „Zukunftsgipfel“ in Düsseldorf - zur Kenntnis genommen
+- TOP 9.5: Neue Kinder- und Jugendfreizeiteinrichtungen gemäß Kinder- und Jugendförderplan 2015-2020 - zur Kenntnis genommen
+- TOP 10: Soziale Dienste - zur Kenntnis genommen
+- TOP 10.1: Personalsituation im Bezirkssozialdienst des Jugendamtes - zur Kenntnis genommen
+- TOP 11: Anerkennungen als Träger der freien Jugendhilfe - zur Kenntnis genommen
+- TOP 11.1: Anerkennung gem. § 75 SGB VIII - hier: BFA e.V. - einstimmig beschlossen
+- TOP 11.2: Anerkennung gem. § 75 SGB VIII - hier: Kila-Bilk e.V. - einstimmig beschlossen
+- TOP 11.3: Anerkennung gem. § 75 SGB VIII - hier: Waldkindergarten Gerresheimer Üllehütt e.V. - einstimmig beschlossen
+- TOP 11.4: Anerkennung gem. § 75 SGB VIII - hier: Kinder, Kinder … Beruf und Familie gGmbH - einstimmig beschlossen
+- TOP 12: Terminplan für den JHA in 2019 - Terminverschiebung einer Sitzung - einstimmig beschlossen
