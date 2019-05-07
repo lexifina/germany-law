@@ -1,0 +1,54 @@
+# 36. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-07T15:30:00+02:00
+- Ende: 2019-05-07T19:46:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20248
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20248
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715043.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715043.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715043.pdf
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin und ihrer Stellvertreterin für den Ausschuss Kunst und Kultur - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten, hier: Popkultur - Kenntnis genommen
+- TOP 2.2: Sachstandsbericht KunstBibliothek Köln - Kenntnis genommen
+- TOP 2.3: 10 Jahre Einsturz Stadtarchiv - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Geschäftsordnung Jury Böll-Preis - zurückgestellt
+- TOP 4.2: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 4.3: Erhöhung der Institutionellen Förderung des Kulturwerk des Bundesverbandes Bildender Künstlerinnen und Künstler, Köln e.V - zurückgestellt
+- TOP 4.4: Bezuschussung einer Maßnahme zur Bauunterhaltung und Technikförderung der freien Szene, hier: Musikhaus Süd – Sanierungsarbeiten bezogen auf den Einbau einer Stahltreppe, Elekroinstallationen sowie Einbau neuer / Reparatur alter Holzfenster - ungeändert empfohlen
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für die Sonderausstellung HIER UND JETZT im Museum Ludwig. Transcorporealities - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung von Grafiken an die artothek – Raum für junge Kunst - ungeändert empfohlen
+- TOP 6.2: Schenkung didaktische Sammlung indischer Miniaturmalerei - ungeändert empfohlen
+- TOP 6.3: Zweckbezogene Spende in Höhe von 50.000 € für das Museum für Ostasiatische Kunst - ungeändert empfohlen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Beantragung der Mittel für die Regionale Kulturförderung des Landschaftsverbandes Rheinland für 2020 - Kenntnis genommen
+- TOP 8.2: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Grundlagenermittlung und Parameter für die Umgestaltung Ebertplatz - Kenntnis genommen
+- TOP 8.2.1: Gemeinsamer Dringlichkeits-Antrag aller Fraktionen "Beteiligung des Ausschusses Kunst und Kultur bei zukünftigen Vorlagen, die den Ebertplatz betreffen" - ungeändert beschlossen
+- TOP 8.3: Abrechnung Sonderausstellungen 2017 - Kenntnis genommen
+- TOP 8.4: Sachstand der Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung - Kenntnis genommen
+- TOP 8.5: Regelmäßige Unterrichtung des Ausschusses für Kunst und Kultur über die Führung der Denkmalliste der Stadt Köln, Zeitraum vom 01.01.2017 – 31.12.2018 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR-Jüdisches Museum im Archäologischem Quartier Köln
+- TOP 9.2: Sachstandsbericht Neubau des Historisches Archiv mit Rheinischem Bildarchiv
+- TOP 9.3: Sachstandsbericht Sanierung der Zentralbibliothek
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Anfrage der Ratsgruppe BUNT betr.: "Diskriminierung von Rollstuhlfahrer*innen bei Kulturveranstaltungen in Köln" - zurückgestellt
+- TOP 11.3: Anfrage der CDU-Fraktion und der Fraktion Bündnis90/Die Grünen betr.: "Kunst-und Museumsbibliothek ( KMB )" - zurückgestellt
+- TOP 12: Mündliche Anfragen
