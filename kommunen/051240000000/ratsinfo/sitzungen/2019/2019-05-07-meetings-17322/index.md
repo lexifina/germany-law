@@ -1,0 +1,57 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-05-07T19:05:00+02:00
+- Ende: 2019-05-07T23:14:00+02:00
+- Ort: Freiwillige Feuerwehr, Am Timpen 44, 42389 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/17322
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/17322
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00236158.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00237391.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Anfragen und Anregungen an die Verwaltung sowie Antworten
+- TOP 3.1: Ausbau Schwelmer Straße - Drucksache VO/0418/18 + Sitzung SI /0654/19 v. 26.03.2019
+- TOP 3.2: Haltepunkt Bahnlinie S7 an Badische Straße - s. VO/0790/18 und VO/1234/18
+- TOP 3.3: Verunreinigte und beschädigte Verkehrsschilder im Bezirk Beyenburg - s. VO/0513/18
+- TOP 3.4: Einspeisungsstelle Abwasser im Bezirk - s. Sitzung SI/0654/19 v. 26.03.2019
+- TOP 3.5: Spielplätze Siegelberg und Leibuschstraße - Demontierte Spielgeräte
+- TOP 3.6: Abriss Hauptschule Dieckerhoffstraße - s. Sitzung SI/0654/19 v. 26.03.2019
+- TOP 4: Abriss des Altbaus der ehemaligen Hauptschule Langerfeld (Dieckerhoffstr. 6) und Neubau - ungeändert beschlossen
+- TOP 5: Aktueller Sachstand zum Schadensereignis Beyeröhde - Bericht der Verwaltung
+- TOP 6: Langerfeld-Trasse - Entgegennahme ohne Beschluss
+- TOP 7: Verlegung Haltestelle Windhukstraße zur Verbesserung der Schulwegsicherheit - ungeändert beschlossen
+- TOP 8: Aufhebung der Eigenschaft einer Anliegerstraße für den Dahler Berg
+- TOP 9: Verlagerung von Kompensations- und Aufforstungsflächen - Entgegennahme ohne Beschluss
+- TOP 10: Fortschreibung des Radverkehrskonzept - ungeändert beschlossen
+- TOP 11: Fortschreibung des Nahverkehrsplans - Sachstand und zusätzliche Beteiligung der Bezirksvertretungen - Entgegennahme ohne Beschluss
+- TOP 12: Bushaltestelle Grünental-Wartehalle - ungeändert beschlossen
+- TOP 13: Anbringung eines Geschwindigkeits-Messdisplays in der Steinhauser Straße - ungeändert beschlossen
+- TOP 14: Anlegen eines Gehweges im Bereich des Wendehammers Steinhauser Straße - geändert beschlossen
+- TOP 15: Ortstermin zur Verkehrssicherheit an der Grundschule Siegelberg - Entgegennahme ohne Beschluss
+- TOP 16: Einrichtung einer Internetpräsenz für die BV Langerfeld-Beyenburg - ungeändert beschlossen
+- TOP 17: Noch nicht umgesetzte Beschlüsse der Bezirksvertretung
+- TOP 17.1: Geh- und Radweg Langerfeldtrasse - s. VO/0689/17 v. 12.09.2017
+- TOP 17.2: Ausbau Ehrenberger Straße - s. VO/0314/18 + VO/0417/18
+- TOP 17.3: Ehrenberger Straße - Verkehrliche Anordnungen nach Ortstermin 03.09.2018
+- TOP 17.4: Verkürzung des Zonen-Parkens in der Odoaker Straße - s. VO/0317/18
+- TOP 17.5: Installation von zwei Hinweisschildern zum Sportplatz Sondern - s. VO/0411/18
+- TOP 17.6: Stellungnahme zu den erhöhten Kosten Remlingrader Brücke
+- TOP 17.7: PKW +LKW-Parken im Bereich Schwelmer Straße und In der Fleute unter A1 - s. VO/0791/18
+- TOP 17.8: Allgemeine Verkehrssituation Bornscheuer Straße - s. VO/1014/18
+- TOP 17.9: Erläuterung zu den Ansätzen Neugestaltung und Sanierung von Spiel- und Bolzplätzen - s. VO/1018/18
+- TOP 18: Verwendung der Unterhaltungspauschale nach dem GFG 2019 - Erste Vorschläge der BV
+- TOP 19: Stadtentwicklungskonzept "Zukunft Wuppertal" - ungeändert beschlossen
+- TOP 20: Anregungen zum Etat 2020/21
+- TOP 21: Freie Mittel aus dem Budget 2019
+- TOP 21.1: Antrag des Bürgervereins Langerfeld e.V. zur Durchführung des Literaturfestivals "LangLese" 2018
+- TOP 21.2: Antrag des Vereins Soziales Hilfswerk Wuppertal-Langerfeld e.V. auf einen allgemeinen Zuschuss
+- TOP 21.3: Antrag des DLRG Bezirk Wuppertal e.V. auf Bezuschussung von Übungskleidung
+- TOP 21.4: Antrag des Fördervereins an der Gesamtschule Langerfeld auf Bezuschussung einer Lichtanlage
+- TOP 21.5: Antrag des TC Weiss-Blau Bemberg auf allgemeine Bezuschussung
