@@ -1,0 +1,56 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2019-05-08T15:00:00+02:00
+- Ende: 2019-05-08T16:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdcYA9AQF9Fxt0gnYvdk8FE
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/565
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfLtLo9yvUsX3TsIyPqNoWLpVJ-bNi83tCaGJoA-aqj-/Einladung_Seniorenbeirat_08.05.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd0uCt4-XyTwj6cGJAKpB7VanMBAwBnJh4yQNV7iF3wD/Oeffentliche_Niederschrift_Seniorenbeirat_08.05.2019.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Abberufung und Bestellung der Schriftführung und der stellvertretenden Schriftführung für den Seniorenbeirat - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Vorberatung für Gremien
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Anregungen und Empfehlungen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Stellungnahmen
+- TOP 7: keine Tagesordnungspunkte
+- TOP 8: Mitteilungen
+- TOP 8.1: Soziale Stadt Bochum-Wattenscheid - Sicherheitsaudit zur städtebaulichen Kriminalprävention - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.2: Bochum Strategie -Sachstand- Kernaktivität "In Bochum zu Hause - Wohnungsbauoffensive" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.3: Erschwerte Bedingungen für Senioren im Stadtteil Hordel - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.4: BOGESTRA – Kleine Schrift der Liniennummern - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.5: Zustelldienst Aldi - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.6: Gesamtübersicht zur Stadterneuerung in Bochum hier: Sachstand 2018 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.7: Digitale Angebote für Senioren in Bochum - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.8: Handlauf Musikforum Ruhr - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 8.9: Mündliche Berichte aus den Gremien
+- TOP 9: Anfragen
+- TOP 9.1: Einrichtung eines Schalters zur Hilfestellung älterer Menschen - Die Anfrage ist zurückgezogen worden.                                                               
+- TOP 9.2: Gehweg vor der Sparkasse am Rosenberg - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.3: Querungshilfe an der Tippelsberger Straße / Ecke Elfenstraße - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.4: Personelle Unterbesetzung im Seniorenbüro Ost - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.5: Reduzierung der Wahllokale - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.6: "Türen öffnen lohnt sich" - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 9.7: Infrastrukturelle Unterversorgung einiger Stadtteile / Stadtteilzentren - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 11.1: keine Tagesordnungspunkte
