@@ -1,3 +1,4 @@
 # Verordnung des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz über die Zuständigkeiten zur Durchführung gemeinschaftsrechtlicher und nationaler Vorschriften für die Verarbeitung und Beseitigung von nicht für den menschlichen Verzehr bestimmten tierischen Nebenprodukten (Zuständigkeitsverordnung Tierische Nebenprodukte – SächsTierNebZuVO)
 Vom 3. Dezember 2013
+Rechtsbereinigt mit Stand vom 8. Mai 2019
 Aufgrund von § 1 Abs. 6 des Sächsischen Ausführungsgesetzes zum Tierische Nebenprodukte-Beseitigungsgesetz und zu weiteren Vorschriften über die Verarbeitung und Beseitigung von nicht für den menschlichen Verzehr bestimmten tierischen Nebenprodukten (SächsAGTierNebG) vom 9. Dezember 2004 (SächsGVBl. S. 579), das zuletzt durch Artikel 42 des Gesetzes vom 27. Januar 2012 (SächsGVBl. S. 130, 146) geändert worden ist, wird verordnet:
