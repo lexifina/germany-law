@@ -1,0 +1,207 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2019-05-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5240264
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5240264
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.1.2.: Benennung eines Beauftragten für Unterkunftsanlagen und Wohnen/Mieterbeirat (offene Abstimmung)
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokolle
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.6: Sonstige
+- TOP 3: Anträge
+- TOP 3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.5.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.4.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.4.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 8.1.1.1.: Montag, 27.05.2019, 19:00 Uhr, Technisches Rathaus, Raum 0.409, Friedenstraße 40, 81671 München
+- TOP 8.1.2.1.: Dienstag, 14.05.2019, 19:30 Uhr, Nebenraum im Bräustüberl der Perlacher Forschungsbrauerei, Unterhachinger Str. 78, 81737 München
+- TOP 8.1.3.1.: Dienstag, 21.05.2019, 18:00 Uhr, Grundschule Strehleranger, Strehleranger 4, 81735 München
+- TOP 8.1.4.1.: Mittwoch, 29.05.2019, 19.00 Uhr, Technisches Rathaus, Raum 0.409, Friedenstraße 40, 81671 München
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.1.5.1.: Mittwoch, 22.05.2019, 19:00 Uhr, Stephanszentrum, Lüdersstraße 12, 81737 München
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.1.: zu 2.2.2.2 Stadtbezirksbudget Beschluss vom 13.03.2019 über den Antrag des Trägervereins des evang. Kindergartens Waldperlach für das St. Martinsfest am 12.11.2018 Bitte um Änderung des Beschlusses und Ablehnung des Budgetantrags Zuleitung vom 11.04.2019 Information zu den Gründen für das Schreiben mit der Bitte um Änderung des Beschlusses zu 3.1.13 Parkverbot Balanstraße auf Höhe der Kleingartenvereine Süd-Ost 6 und 7 (Balanstraße 248) Bürgeranliegen vom 20.03.2019, 24.03.2019 und 27.04.2019 Rücknahme des Antrags durch die Antragsstellerin am 03.05.2019 und Mitteilung des Kreisverwaltungsreferats, dass die Maßnahme nicht umgesetzt wird vom 07.05.2019 zu 3.2.2 1. Bitte um Prüfung, ob es möglich ist auf der Böglwiese für den Sportplatz zwei feste Tore anzubringen 2. Erneuerung des Belages eines der beiden Fußballfelder am Sportplatz Adenauer Ring und Reinigung des anderen Sportplatzes Antrag der Jugendbeauftragten des BA 16 vom 22.04.2019 Bitte der Antragsstellerin den Antrag von der Tagesordnung zur Überarbeitung abzusetzen Zuleitung vom 08.05.2019 4.1.3 Verkehrsrechtliche Anordnung nach § 45 StVO: Gerhart-Hauptmann-Ring Einrichtung von absoluten Haltverboten Zuleitung vom 09.05.2019
+- TOP 1.2.2.: 4.4.1.14 Balanstr. 208 - Fl.Nr.: 16225/0 - Nutzungsänderung des Bestandsgebäudes in eine städtische Berufsschule zur Berufsintegration sowie Neubau zweier zugehöriger Einfachsporthallen mit Amtsmeisterwohnung Zuleitung vom 03.05.2019 4.4.1.15 Görzer Str. 101 - 103 - Fl.Nr.: 1049/2 - Tiefgarageninstandsetzung Zuleitung vom 06.05.2019 4.4.1.16 Thierseestr. 8 - Fl.Nr.: 18454/48 - Anbau eines Wohnraums im Obergeschoss eines Zweifamilienhauses Zuleitung vom 06.05.2019 4.4.1.17 Pfälzer-Wald-Str. 21 - Fl.Nr.: 15845/8 - Erweiterung eines Einfamilienhauses Zuleitung vom 06.05.2019 4.4.1.18 Carl-Wery-Str. 35 - Fl.Nr.: 404/6 - Neubau eines Parkhauses als Park + Ride Anlage – TEKTUR zu 1.1-2018-19306-31 / HIER: offenes Parkdeck mit zeitlicher Nutzungsbeschränkung (nur tagsüber) Zuleitung vom 06.05.2019 4.4.1.19 Sebastian-Bauer-Str. 24 - Fl.Nr.: 168/0 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID Zuleitung vom 07.05.2019 4.5.4.2 Anhörung zum Wertstoffcontainerstandort Rollhagenstr. / Waldheimplatz als Ersatz für den Wertstoffcontainerstandort Waldheimplatz 27 Frist zur Stellungnahme bis zum 14.06.2019 Zuleitung vom 09.05.2019
+- TOP 2.1: Mobilität und Umwelt
+- TOP 2.1.1.: Erweiterung des bestehenden Haltverbots für Lkw in der Heinrich-Wieland-Straße in Höhe Bezirkssportanlage um weitere 50 Meter abends und an Wochenenden BV-Empfehlung Nr. 14-20 / E 01997 der Bürgerversammlung des 16. Stadtbezirkes Ramersdorf vom 17.05.2018 Sitzungsvorlage Nr. 14-20 / V 12545 Heinrich-Wieland-Str. 100, Fl.Nr. 1425/24, Gemarkung Perlach Bitte um Information der Lokalbaukommission an das Baureferat, wann mit der Errichtung der Stellplätze gerechnet werden kann. BA-Antrag Nr. 14-20 / B 04379 Schreiben des Baureferats an die LBK zu den geforderten KFZ-Stellplätzen vom 26.10.2018 Schreiben der LBK an das Baureferat zu den geforderten KFZ-Stellplätzen vom 27.11.2018 (TOP 2.1.1 vom 10.04.2019, TOP 2.1.1 vom 13.03.2019, TOP 2.1.1 vom 14.02.2019, TOP 2.1.1 vom 17.01.2019, TOP 2.1.1 vom 13.12.2018, TOP 2.1.2 vom 18.10.2018, TOP 2.1.4 vom 13.09.2018)
+- TOP 2.1.2.: (E) Reduzierung der zulässigen Höchstgeschwindigkeit in der Chiemgaustraße zwischen Balan- und Rosenheimer Straße auf 50 km/h und Aufhebung der durchgezogenen Fahrbahnmittelmarkierung in Höhe Hohenaschauer Straße (TOP 2.1.2 vom 14.02.2019, TOP 2.1.2 vom 17.01.2019) Information des Kreisverwaltungsreferats: Verzögerung der Vorstellung des Ergebnisses der Prüfung einer grundsätzlichen Reduzierung der Höchstgeschwindigkeit von 60 km/h auf 50 km/h im Stadtgebiet bis frühestens Ende 2019
+- TOP 2.1.3.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Projektname: PBB: Karl-Marx-Ring, Haltestelle Peschelanger Projekt-Nr.: 30264 Beschluss des Bezirksausschusses des 16. Stadtbezirkes Ramersdorf-Perlach Zuleitung vom 08.04.2019
+- TOP 2.2: Budget, Kultur und Sport
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget wirWerk gGmbH Interaktive Ausstellung "Land der Kulturen" vom 24. - 26.06.2019 709,00 € / Az. 0262.0-16-0277
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Demokratiemobil München am 17. + 25. + 31.05.2019 2.250,00 € Az: 0262.0-16-0278
+- TOP 2.2.1.3.: (E) Stadtbezirksbudget Elternbeirat "Haus für Kinder Ramersdorf" Flohmarkt HfK Ramersdorf am 04.05.2019 187,50 € / Az. 0262.0-16-0281
+- TOP 2.2.1.4.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Zirkus Pumpernudl vom 28.08.-02.09.2019 und Artmobil vom 10.-12.09.2019 3.852,00 € / Az. 0262.0-16-0276
+- TOP 2.2.1.5.: (E) Stadtbezirksbudget Evang. Gustav-Adolf-Kirche Sanierung des Kirchturms und der Elektrik 12.300,00 € / Az. 0262.0-16-0280
+- TOP 2.2.1.6.: (E) Stadtbezirksbudget GEWOFAG Service GmbH Frühlingsfest am 25.05.2019 1.010,00 € Az: 0262.0-16-0279
+- TOP 2.2.1.7.: (E) Stadtbezirksbudget GEWOFAG Service GmbH, Nachbarschaftstreff Führichstraße Frühlingsfest am 24.05.2019 770,00 € Az: 0262.0-16-0282
+- TOP 2.2.1.8.: (E) Stadtbezirksbudget Festring Perlach e.V. Sanierung von Tafeln und Schaukästen am Naturlehrpfad vom 10.05. - 06.06.2019 2.780,00 € Az: 0262.0-16-0283
+- TOP 2.2.1.9.: (E) Stadtbezirksbudget Jamboreeunit des Pfadfinderstammes St. Michael Perlach World Scout Jamboree 2019 vom 19.07.-13.08.19 7.604,00 € Az: 0262.0-16-0-0284
+- TOP 2.2.1.10.: (E) Stadtbezirksbudget Haus an der Chiemgaustraße vom KMFV Weihnachtsgeschenke für wohnungslose Männer 1.875,00 € Az: 0262.0-16-0285
+- TOP 2.2.2.1.: Vorschlag einer Bürgerin zur Bestellung einer städtischen Leistung durch den BA 16: Trimm Dich-Pfad/Parcour im Perlacher Park oder Park am Heinrich-Heine-Gymnasium Zuleitung vom 13.03.2019 (TOP 2.2.2.1 vom 10.04.2019)
+- TOP 2.2.2.2.: Stadtbezirksbudget Beschluss vom 13.03.2019 über den Antrag des Trägervereins des evang. Kindergartens Waldperlach für das St. Martinsfest am 12.11.2018 Bitte um Änderung des Beschlusses und Ablehnung des Budgetantrags Zuleitung vom 11.04.2019
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.1: Mobilität und Umwelt
+- TOP 3.1.1.: 1. Geschwindigkeitsbegrenzung für die Strecke Ottobrunner Str. bis Kreuzung Kirchseeoner Str. bzw. Hechtseestr. auf 50 km/h 2. Reduzierung der Geschwindigkeit für die Chiemgaustr. zwischen Rosenheimer Str. und Balanstr. auf 50 km/h und Öffnung der durchgezogenen Doppellinie, sodass ein Abbiegen nach links in die Hohenaschauerstr. ermöglicht wird. Bürgeranliegen vom 07.12.2018 (TOP 3.1.4 vom 14.02.2019, TOP 3.1.9 vom 17.01.2019) Zur Behandlung zusammen mit TOP 2.1.2 Information des Kreisverwaltungsreferats: Verzögerung der Vorstellung des Ergebnisses der Prüfung einer grundsätzlichen Reduzierung der Höchstgeschwindigkeit von 60 km/h auf 50 km/h im Stadtgebiet bis frühestens Ende 2019
+- TOP 3.1.2.: Ausweisung der Fußwege am Hachinger Bach und zwischen Quiddestraße und Adolf-Bayer-Damm mit einer Bodenmarkierung oder Asphaltfolie als Fußweg Bürgeranliegen vom 18.03.2019 (TOP 3.1.4 vom 10.04.2019)
+- TOP 3.1.3.: 1. Umdeklarieren der Ayingerstraße an der Einfahrt vom Mittleren Ring in eine Anliegerstraße 2. Unterbinden, dass in der Möschenfelderstraße und Rupertigaustraße auf dem Gehweg geparkt wird und Verbesserung des Winterdienstes und der Reinigung der Straßen 3. Parkdruck auf die Möschenfelder-, Ayinger-, Führich- und Rupertigaustraße 4. Stark erhöhte Geschwindigkeiten nachts auf der Möschenfelder- und Rupertigaustraße 5. Verbesserung der Reinigung und Pflege der Grünanlage an der Rogatekirche sowie Erhöhung der Frequenz von polizeilichen Kontrollen in der Grünanlage Bürgeranliegen vom 06.03.2019 (TOP 3.1.5 vom 10.04.2019)
+- TOP 3.1.4.: Antrag zum Bau einer Boule-Bahn am Waldheimplatz Bürgeranliegen vom 30.10.2018 Wurde in einen Ortstermin zur Begehung vertagt (TOP 3.1.11 vom 10.04.2019, TOP 3.2.1 vom 15.11.2018)
+- TOP 3.1.5.: SWM/MVG Trambahnbetriebshof, überarbeitete Planungen Dringlichkeitsantrag der Bündnis 90/Die Grünen-Fraktion im BA 16 vom 10.04.2019 (TOP 3.1.13 vom 10.04.2019)
+- TOP 3.1.6.: M-Wlan auch am Busbahnhof Neuperlach Zentrum einrichten Antrag der CSU-Fraktion im BA 16 vom 25.04.2019
+- TOP 3.1.7.: Radweglücke Chiemgaustraße/ Pfälzer-Wald-Straße in westlicher Richtung schließen Antrag der Grünen-Fraktion im BA 16 vom 26.04.2019
+- TOP 3.1.8.: Stolperfalle für RadfahrerInnen an der Kreuzung Chiemgaustraße/Balanstraße (südl.Richtung) Antrag der Grünen-Fraktion im BA 16 vom 26.04.2019
+- TOP 3.1.9.: Installierung eines Tempo 30 Schildes vor dem Dominik-Brunner-Haus für Kinder der Johanniter Antrag der SPD-Fraktion im BA 16 vom 17.04.2019
+- TOP 3.1.10.: Umwandlung der Albert-Schweitzer-Straße von der Quiddestraße in Richtung Süden aus zur Thomas Dehler-Straße in eine 30 km/h-Zone Bürgeranliegen vom 08.04.2019 und 04.04.2019
+- TOP 3.1.11.: Errichten eines Pollers bei dem Gehweg zwischen der Kita in der Gleißnerstraße und dem Wendehammer Adam-Berg-Straße neben der Kita, um die Verwendung als Abkürzung für PKWs und Lieferfahrzeuge von der Gleißnerstraße zur Adam-Berg-Straße, zum Feulnerweg und zum Zänglweg zu verhindern. Bürgeranliegen vom 09.04.2019
+- TOP 3.1.12.: Umrüstung der Brücke Fußgängerbrücke vom Hanns-Seidl-Platz über die Fritz-Erler-Str. mit Metallgittern Bürgeranliegen vom 16.04.2019
+- TOP 3.1.13.: Parkverbot Balanstraße auf Höhe der Kleingartenvereine Süd-Ost 6 und 7 (Balanstraße 248) Bürgeranliegen vom 20.03.2019, 24.03.2019 und 27.04.2019
+- TOP 3.2: Budget, Kultur und Sport
+- TOP 3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.2.: 1. Bitte um Prüfung, ob es möglich ist auf der Böglwiese für den Sportplatz zwei feste Tore anzubringen 2. Erneuerung des Belages eines der beiden Fußballfelder am Sportplatz Adenauer Ring und Reinigung des anderen Sportplatzes Antrag der Jugendbeauftragten des BA 16 vom 22.04.2019
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.4.1.: Grünzug zwischen Putzbrunner Str. und Piederstorfer Gelände in seiner jetzigen Nutzung sichern Antrag der CSU-Fraktion im BA 16 vom 25.04.2019
+- TOP 3.4.2.: Wo sollen die Toiletten vom Hanns-Seidel-Platz hin? Anfrage der SPD-Fraktion im BA 16 vom 17.04.2019
+- TOP 3.4.3.: Aufwertung und Entsiegelung einer Fläche am Thomasiusplatz Bürgeranliegen vom 16.04.2019
+- TOP 3.4.4.: Entwicklung des reinen Wohngebiets mit der gleichen Rücksicht wie bisher bei der Entwicklung von Neuperlach Süd Antrag aus der Einwohnerversammlung zur Bebauung des Siemens-Parkplatzes nördlich Otto-Hahn-Ring am 18.02.2019 (TOP 2.4.8 vom 15.04.2019)
+- TOP 3.4.5.: Ausweisung keines weiteren nicht störenden Gewerbes als das, welches im EG als Lärmschutz zum Otto-Hahn-Ring bzw. zur Carl-Wery-Str. vorgesehen ist, sofern sich im Rahmen eines Architekturwettbewerbs nicht andere innovative Lösungen ergeben, die eine attraktive Situation für den Fußgängerverkehr im EG anbieten. Antrag aus der Einwohnerversammlung zur Bebauung des Siemens-Parkplatzes nördlich Otto-Hahn-Ring am 18.02.2019 (TOP 2.4.11 vom 15.04.2019)
+- TOP 3.4.6.: Antrag auf Prüfung eines erforderlichen bauaufsichtlichen Einschreitens in der Ottobrunner Straße Initiative aus dem Unterausschuss für Bauvorhaben, Stadtplanung und Bürgerbeteiligung vom 30.04.2019
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 3.5.1.: Kostenlose Nutzung der vorhandenen Stromkästen auf öffentlichen Grünflächen Antrag der SPD-Fraktion im BA 16 vom 17.04.2019
+- TOP 3.5.2.: Festsetzung der letzten Nachtragstagesordnung für die BA-Sitzung am Freitag vor der BA-Sitzung Antrag der SPD-Fraktion im BA 16 vom 17.04.2019
+- TOP 4.1: Mobilität und Umwelt
+- TOP 4.1.1.: Hachinger Tal a) Strukturkonzept b) BA-Antrag Nr. 14-20 / B 00335: Schließen der Radweglücke in der Unterhachinger Straße bis zur Höhe Zwergerstraße, Aufnahme von Verhandlungen mit der Gemeinde Neubiberg Sitzungsvorlage Nr. 14-20 / V 12664 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom Bitte um Stellungnahme bis zum 13.05.2019 Zuleitung vom 02.04.2019 (TOP 4.1.3 vom 10.04.2019)
+- TOP 4.1.2.: MVG Leistungsprogramm 2020 Anhörung der Bezirksausschüsse Frist zur Stellungnahme bis 17.05.2019 Zuleitung vom 05.04.2019 (TOP 4.1.4 vom 10.04.2019)
+- TOP 4.1.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: Gerhart-Hauptmann-Ring Einrichtung von absoluten Haltverboten Zuleitung vom 09.05.2019
+- TOP 4.2: Budget, Kultur und Sport
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 4.3.1.: Errichtung einer 4-gruppigen Kinderkrippe an der Carl-Wery-Straße 54a im 16. Stadtbezirk Ramersdorf-Perlach - Produkt Nr. 1.1 - Genehmigung des Nutzerbedarfsprogrammes Sitzungsvorlage Nr. 14-20 / V 14602 Beschluss des Bildungsausschusses des Stadtrates vom 22.05.2019 (SB); Öffentliche Sitzung Zuleitung vom 16.04.2019; Frist zur Stellungnahme bis einschließlich 14.05.2019
+- TOP 4.3.2.: Teileigentumserwerb bzw. Anmietung von Räumen durch einen freien Träger für eine offene Einrichtung für Kinder und Jugendliche im Alter von 6 bis 14 Jahren Bebauungsplan mit Grünordnung Nr. 2100 Siedlungsgebiet rund um die Haldenseestraße 16. Stadtbezirk Ramersdorf-Perlach 1. Zustimmung zur Planung; 2. Genehmigung des Nutzerbedarfsprogramms 3. Ermächtigung zum Betrieb der Einrichtung; 4. Standortsicherung 5. Ermächtigung des Kommunalreferats zu Verhandlungen für den Teileigentumserwerb bzw. zur Anmietung Sitzungsvorlage Nr. 14-20 / V 14330 Beschluss des Kinder- und Jugendhilfeausschusses vom 21.05.2019 (SB); Öffentliche Sitzung Zuleitung vom 18.04.2019; Frist zur Stellungnahme bis einschließlich 14.05.2019
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 4.4.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1.: Lorenz-Hagen-Weg 10 – Fl.Nr.: 1500/40 – Neubau eines Senioren-Wohnhaus mit Betreuungs- und Übergangsangebot – VORBESCHEID Zuleitung vom 12.02.2019; Fristverlängerung bis einschließlich 17.05.2019 (TOP 4.4.1.2 vom 10.04.2019, TOP 4.4.1.11 vom 13.03.2019, TOP 4.4.1.17 vom 14.02.2019)
+- TOP 4.4.1.2.: Friedrich-Creuzer-Str. 30 - Fl.Nr.: 1944/34 - Neubau eines Mehrfamilienhauses - VORBESCHEID Zuleitung vom 27.03.2019; Fristverlängerung bis einschließlich 17.05.2019 (TOP 4.4.1.8 vom 10.04.2019)
+- TOP 4.4.1.3.: Bettinastr. 30 - Fl.Nr.: 2342/2 - Neubau eines Mehrfamilienhauses mit Mehrfachparkern Zuleitung vom 27.03.2019; Information der LBK: Der Genehmigungsentwurf wurde erstellt (TOP 4.4.1.10 vom 10.04.2019)
+- TOP 4.4.1.4.: Ständlerstr. 43 - Fl.Nr.: 16239/0 - Neubau eines Wohnhauses mit Gewerbefläche und Tiefgarage - VORBESCHEID Zuleitung vom 27.03.2019; Fristverlängerung bis einschließlich 17.05.2019 (TOP 4.4.1.11 vom 10.04.2019)
+- TOP 4.4.1.5.: Madelsederstr. 10 - Fl.Nr.: 1317/77 - Neubau eines Einfamilien- und eines Mehrfamilienhauses (6 WE) - VORBESCHEID Zuleitung vom 15.04.2019
+- TOP 4.4.1.6.: Ramersdorfer Str. 7 - Fl.Nr.: 18410/0 - Nachverdichtung mit Umnutzung EG Zuleitung vom 15.04.2019
+- TOP 4.4.1.7.: Balanstr. 138 - Fl.Nr.: 15856/7 - Nutzungsänderung der Gewerbeeinheit im EG (Pizza-Lieferdienst) zu einer Großtagespflege mit baulichen Änderungen Zuleitung vom 15.04.2019
+- TOP 4.4.1.8.: Sterntalerstr. 7 - Fl.Nr.: 2152/4 - Abbruch Altbestand und Garage, Neubau Eigentumswohnungen (5 WE) mit TG im westlichen Bereich ausserhalb der Baulinie mit Herstellung einer Gartenanlage - VORBESCHEID Zuleitung vom 15.04.2019
+- TOP 4.4.1.9.: St.-Ingbert-Str. 12 - Fl.Nr.: 15671/38 - Umbau eines Wohn- und Bürogebäudes zu einem Appartementhaus Zuleitung vom 15.04.2019
+- TOP 4.4.1.10.: Stümplfingstr. 5 - Fl.Nr.: 1086/0 - Neubau eines Mehrfamilienhauses (22 WE) mit Tiefgarage Zuleitung vom 29.04.2019
+- TOP 4.4.1.11.: Gustav-Heinemann-Ring 133 - 135 - Fl.Nr.: 384/0 - Neubau von 80 Wohnungen mit Gewerbeeinheiten und Tiefgarage Zuleitung vom 29.04.2019
+- TOP 4.4.1.12.: Kachletstr. 17 - 19 - Fl.Nr.: 18464/19 - Neubau eines Mehrfamilien-Doppelhauses - VORBESCHEID Zuleitung vom 29.04.2019
+- TOP 4.4.1.13.: Fritz-Schäffer-Str. 9 - Fl.Nr.: 1800/14 - Neubau eines Bürogebäudes mit Tiefgarage - VORBESCHEID Zuleitung vom 29.04.2019
+- TOP 4.4.1.14.: Balanstr. 208 - Fl.Nr.: 16225/0 - Nutzungsänderung des Bestandsgebäudes in eine städtische Berufsschule zur Berufsintegration sowie Neubau zweier zugehöriger Einfachsporthallen mit Amtsmeisterwohnung Zuleitung vom 03.05.2019
+- TOP 4.4.1.15.: Görzer Str. 101 - 103 - Fl.Nr.: 1049/2 - Tiefgarageninstandsetzung Zuleitung vom 06.05.2019
+- TOP 4.4.1.16.: Thierseestr. 8 - Fl.Nr.: 18454/48 - Anbau eines Wohnraums im Obergeschoss eines Zweifamilienhauses Zuleitung vom 06.05.2019
+- TOP 4.4.1.17.: Pfälzer-Wald-Str. 21 - Fl.Nr.: 15845/8 - Erweiterung eines Einfamilienhauses Zuleitung vom 06.05.2019
+- TOP 4.4.1.18.: Carl-Wery-Str. 35 - Fl.Nr.: 404/6 - Neubau eines Parkhauses als Park + Ride Anlage – TEKTUR zu 1.1-2018-19306-31 / HIER: offenes Parkdeck mit zeitlicher Nutzungsbeschränkung (nur tagsüber) Zuleitung vom 06.05.2019
+- TOP 4.4.1.19.: Sebastian-Bauer-Str. 24 - Fl.Nr.: 168/0 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID Zuleitung vom 07.05.2019
+- TOP 4.4.2: Weitere Anhörungen
+- TOP 4.4.2.1.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Remondis Süd GmbH Neugenehmigungsantrag vom 27.06.2018 gemäß § 4 BImSchG (zuletzt modifiziert mit Schreiben vom 09.04.2019) Herbert-Quandt-Straße 1 und 7, 81549 München Zuleitung vom 29.04.2019
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.5.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2.1.: Dietzfelbingerplatz, Kirchweihfest am 05.05.2019 Frist: 30.04.2019 Zuleitung vom 24.04.2019 Stellungnahme vorab durch den BA-Vorsitzenden gemäß § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 4.5.4: Weitere Anhörungen
+- TOP 4.5.4.1.: Mittelfristige Finanzplanung 2018 - 2022 Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2019 bis 2023 Frist zur Stellungnahme bis zum 08.05.2019; Fristverlängerung bis 14.05.2019 Zuleitung vom 25.03.2019 (TOP 4.5.4.1 vom 10.04.2019)
+- TOP 4.5.4.2.: Anhörung zum Wertstoffcontainerstandort Rollhagenstr. / Waldheimplatz als Ersatz für den Wertstoffcontainerstandort Waldheimplatz 27 Frist zur Stellungnahme bis zum 14.06.2019 Zuleitung vom 09.05.2019
+- TOP 4.6: Sonstige
+- TOP 5.2.1: Mobilität und Umwelt
+- TOP 5.2.2: Budget, Kultur und Sport
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität und Umwelt
+- TOP 6.1.1.: Verkehrsprobleme Putzbrunner Straße Zuleitung vom 24.04.2019
+- TOP 6.1.2.: Verhinderung des Missbrauchs des Fußweges zwischen Quiddestraße und Adolf-Baeyer-Damm, sowie des Fußweges entlang des Hachinger Baches als Ladezone, Fahrweg und Abstellfläche für Kraftfahrzeuge Zuleitung vom 23.04.2019
+- TOP 6.1.3.: Anfrage um welche Bohrungen es sich in der Frauenchiemseestr. in Höhe des Grüngürtels handelt Zuleitung vom 09.04.2019
+- TOP 6.1.4.: Wiederherstellung des öffentlichen Gehwegs in der Irma-Uhrbach-Straße Zuleitung vom 12.04.2019
+- TOP 6.1.5.: Aufwertung der Grünfläche im Rondell an der Einmündung des Alfred-Pongratz-Wegs in den Friedrich-Domin-Weg durch Nutzung als Blumenwiese Zuleitung vom 25.04.2019
+- TOP 6.1.6.: Grundschule Strehleranger: Auf Schulweg mit gleicher Priorität Schnee räumen wie auf Hauptstraßen Zuleitung vom 26.04.2019
+- TOP 6.1.7.: Antrag auf Zebrastreifen am Gustav-Heinemann-Ring beim Übergang zum Perlachpark in der Nähe der Ludiweg-Linsert-Straße/Otto-Wels-Straße bzw. Südpolstation Zuleitung vom 10.04.2019
+- TOP 6.1.8.: Kapazitätserhöhung für Linksabbieger von der Albert-Schweitzer-Straße auf die Heinrich-Wieland-Straße Zuleitung vom 10.04.2019
+- TOP 6.2: Budget, Kultur und Sport
+- TOP 6.2.1.: Verbesserung des Verfahrens zur Beantragung von Veranstaltungen Zuleitung vom 09.04.2019
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 6.3.1.: Bürgerantrag: „Waldperlach gestalten“: Neue Wohnformen in Waldperlach auf städtischem Grundstück Zuleitung vom 25.03.2019
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 6.4.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.2.1.: Dringlichkeitsantrag Aufstockung Maximilian-Kolbe-Allee Sicherung der Ladenzeile Zuleitung vom 29.04.2019
+- TOP 6.4.2.2.: Keine Einbringung des Eckdatenbeschlusses zur geplanten Bebauung des Siemens-Parkplatzes nördlich Otto-Hahn-Ring in den Planungsausschuss bzw. Stadtrat bis zur abschließenden Behandlung der Anträge aus der Einwohnerversammlung am 18.02.2019 durch den Bezirksausschuss Zuleitung vom 30.04.2019
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 6.6: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität und Umwelt
+- TOP 7.1.1.: Positionspapier des BA 1 zur Verkehrsentwicklung Altstadt Zuleitung vom 12.04.2019
+- TOP 7.1.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Hamannstraße verkehrsrechtliche Anordnung nach § 45 StVO Zuleitung vom 04.04.2019
+- TOP 7.1.3.: Auskunft des Kreisverwaltungsreferats vom zu einer Bürgeranfrage bezüglich der zeitlichen Begrenzung der Tempo 30 Regelung im Hugo-Lang-Bogen. Zuleitung vom 10.04.2019
+- TOP 7.1.4.: Stellungnahme des AAN im Münchner Forum zum Leistungsprogramm 2020 der MVG Zuleitung vom 18.04.2019
+- TOP 7.2: Budget, Kultur und Sport
+- TOP 7.2.2.1.: Monte Balan Bildungsträger gGmbH, Verwendungsnachweis für die Aktion: 10. Schulgeburtstag mit Projektwoche vom 10.-14.12.2018 Zuleitung vom 30.04.2019
+- TOP 7.2.2.2.: Verein für nachbarschaftliches Leben in Waldperlach e.V., Verwendungsnachweis für die Aktion: Bücherschrank Zuleitung vom 30.04.2019
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 7.3.1.: 2. Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention Produkt 40111270 Umsetzung der UN-Behindertenrechtskonvention Sitzungsvorlage Nr. 14-20 / V 13275 Beschluss der Vollversammlung des Stadtrates vom 10.04.2019 Zuleitung vom 29.04.2019
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 7.4.2.1.: Kafkastr. 58-68/Karl-Marx-Ring 148-152; Fällungsantrag vom 21.02.2019; Bescheid vom 09.04.2019
+- TOP 7.4.3.1.: Iblherstraße, Mitteilung vom 03.04.2019
+- TOP 7.4.3.2.: Werinherstraße, Mitteilung vom 10.04.2019
+- TOP 7.4.3.3.: Hötzlring, Mitteilung vom 30.04.2019
+- TOP 7.4.4: Weitere Unterrichtungen
+- TOP 7.4.4.1.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 7.4.4.2.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP 7.4.4.3.: (U) Konzeptausschreibung für die Grundstücke Rübezahlstraße 74, Flst. 2195/22 Gemarkung Perlach Bodenschneidstraße 14, Flst. 1073/0 Gemarkung Perlach Festlegung der Ausschreibungskriterien für Baugemeinschaften 16. Stadtbezirk Ramersdorf-Perlach Zuleitung vom 29.04.2019
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 7.5.1.1.: OMV-Tankstelle, Abgabe von Speisen und Getränken in einer Tankstelle, Ottobrunner Str. 116, 81737 München Zuleitung vom 15.04.2019
+- TOP 7.5.2: Weitere Unterrichtungen
+- TOP 7.6: Sonstige
+- TOP 8.1.1: Mobilität und Umwelt
+- TOP 8.1.2: Budget, Kultur und Sport
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
