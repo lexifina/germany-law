@@ -1,0 +1,8 @@
+# TOP -: Europawahlkampfauftakt der AfD am 07.04.2019 in Köln-Kalk
+
+- Sitzung: 36. Sitzung der Bezirksvertretung Kalk (2019-05-09)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/275116
+- Ergebnis: Kenntnis genommen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/131118
