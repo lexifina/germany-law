@@ -1,0 +1,58 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (24. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2019-05-09T19:02:00+02:00
+- Ende: 2019-05-09T20:05:00+02:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZVcZV4L_AF5XlQpxrhahuHA
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/765
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRuIiPlDElT2dMpOLl8d2IygVIrJ_9_znBKvkneEBO1D/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_09.05.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUQKzhgrngbSZE2g9Tn_Euo6iR-WuWz9IGOhKS9ioz27/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_09.05.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Unterrichtung über die wesentlichen Ergebnisse des Jahresabschlusses 2018 gemäß § 112 Absatz 9 HGO - (kein Text vorhanden)
+- TOP 2.: Aufstellung einer Änderung Nr. 12 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) für den Stadtteil Mardorf zur Ausweisung von Wohnbauflächen (W) im Bereich „Im Baumgarten/Mosenbergstraße“; hier: Abwägung über die während der öffentlichen Auslegung gem. § 3 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Anregungen und Bedenken von Bürgern und endgültige Beschlussfassung - (kein Text vorhanden)
+- TOP 3.: Aufstellung eines Bebauungsplanes Nr. 4 der Kreisstadt Homberg (Efze) für den Stadtteil Mardorf zur Ausweisung eines Allgemeinen Wohngebietes (WA) im Bereich „Im Baumgarten/Mosenbergstraße“; hier: Abwägung über die während der öffentlichen Auslegung gem. § 3 (2) BauGB eingegangenen Stellungnahmen der Träger öffentlicher Belange und Anregungen und Bedenken von Bürgern und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 4.: Gebührensatzung über Befreiungen, Ausnahmen und Abweichungen von städtischen Satzungen nach § 73 Abs. 4 Hessischer Bauordnung vom 07.07.2018 - (kein Text vorhanden)
+- TOP 5.: Teilaufhebung für den Bebauungsplan Nr. 1 der Kreisstadt Homberg (Efze) für den Stadtteil Mardorf; hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 6.: Aufstellung einer Änderung Nr. 17 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) zur Ausweisung einer Wohnbaufläche im Stellbergsweg hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 7.: Aufstellung einer Änderung Nr. 9 zum Bebauungsplan Nr. 17 der Kreisstadt Homberg (Efze) zur Ausweisung eines Allgemeinen Wohngebietes im Stellbergsweg hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 8.: Aufstellung einer Änderung Nr. 18 zum Flächennutzungsplan der Kreisstadt Homberg (Efze) im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 9.: Aufstellung der Änderung Nr. 4 zum Bebauungsplan Nr. 43 der Kreisstadt Homberg (Efze) zur Änderung der Festsetzung im Baufeld 1 (Tankstelle, Tankstellenshop und Vergnügungs-stätte) im beschleunigten Verfahren gem. § 13 a BauGB hier: Aufstellungsbeschluss - (kein Text vorhanden)
+- TOP 10.: Neubau eines Einkaufszentrums „Drehscheibe Homberg (Efze)“ hier: Information über die Baugenehmigung
+- TOP 11.: EFRE-Programm „Lokale Ökonomie“ hier: Genehmigung des Integrierten Stadtentwicklungskonzepts (ISEK)
+- TOP 12.: Entscheidung über die Ausübung des gesetzlichen Vorkaufsrechtes nach §§ 24 BauGB ff; hier: Beratung und Beschlussfassung über eine gütliche Einigung hinsichtlich der Liegenschaften Holzhäuser Straße 1, Marktplatz 14 u. 15 - (kein Text vorhanden)
+- TOP 13.: Verkauf des Gebäudes einschließl. Grundstück „U2“ in der Ostpreußenkaserne hier: Genehmigung eines Nachtrages zum Kaufvertrag - (kein Text vorhanden)
+- TOP 14.: Städtebauförderprogramm „Zukunft Stadtgrün“ für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark a) Beratung und Beschlussfassung über den Entwurf des integrierten städtebaulichen Entwicklungskonzeptes (ISEK) b) Beratung und Beschlussfassung über die Abgrenzung des Fördergebietes - (kein Text vorhanden)
+- TOP 15.: Aufhebung der Haushaltssperre für die Anschaffung eines Aufrufsystems im Bürgerbüro - (kein Text vorhanden)
+- TOP 16.: Änderungen der Gebührenordnung zur Erhebung von Parkgebühren in der Kreisstadt Homberg (Efze) - Berichtigungen - (kein Text vorhanden)
+- TOP 17.: Sachstandsberichte und sonstige Informationen
+- TOP 17.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 17.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 17.1.2: Antrag der SPD-Fraktion vom 15.11.2016 - betr. Infrastruktur Ärztehaus
+- TOP 17.1.3: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 17.1.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 17.1.5: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 17.1.6: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 17.1.7: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht
+- TOP 17.1.8: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 17.1.9: Antrag der SPD-Fraktion vom 29.11.2017 - betr. Stärkung der Ortsbeiräte
+- TOP 17.1.10: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 17.1.11: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 17.1.12: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 17.1.13: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Kurve an L3224 oberhalb Basaltwerk
+- TOP 17.1.14: Antrag der CDU-Fraktion vom 3. Oktober 2018 betr. bauliche Veränderung der Bushaltestelle(n) in Homberg-Roppershain
+- TOP 17.1.15: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 17.1.16: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 17.1.17: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung
+- TOP 17.1.18: Anträge der CDU- und FWG-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" bzw. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7
+- TOP 17.1.19: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland
+- TOP 17.1.20: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 18.: Anfragen
+- TOP 18.1: Anfrage der BL Homberg vom 25. April 2019 betr. Haus der Geschichte
+- TOP 19.: Anregungen
