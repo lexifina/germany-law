@@ -1,0 +1,73 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-09T16:00:00+02:00
+- Ende: 2019-05-09T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20208
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20208
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 08.05.2019 (3) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00717915.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 08.05.2019 (3) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00717915.pdf
+- Wortprotokoll: Tagesordnung, Stand 08.05.2019 (3) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00717915.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.1.1: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - zurückgestellt
+- TOP 1.2: Kommunale Maßnahmen zur Luftreinhaltung (AN/0523/2018) Nachfragen zur Beantwortung der Anfrage (VN 2592/2018) - Sache ist erledigt
+- TOP 1.2.1: Kommunale Maßnahmen zur Luftreinhaltung (AN/0001/2019) - Kenntnis genommen
+- TOP 1.3: Nachhaltigkeit bei Veranstaltungen der Stadt Köln - zurückgestellt
+- TOP 1.4: Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - zurückgestellt
+- TOP 1.4.1: Anfrage der Ratsgruppe BUNT gemäß § 4 der Geschäftsordnung des Rates im Ausschuss für Umwelt und Grün zu einem Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 1.5: Köln Touristik Altpapierentsorgung - Sache ist erledigt
+- TOP 1.5.1: KölnTourismus GmbH - Kenntnis genommen
+- TOP 1.6: Baumfällungen in Köln - Sache ist erledigt
+- TOP 1.6.1: Anfrage der Ratsgruppe BUNT in der Sitzung des Ausschusses für Umwelt und Grün am 21.03.2019 - Kenntnis genommen
+- TOP 1.7: Nutzungsunabhängige Haldenstabilisierung Kalkberg, Beantwortung der Anfrage der Fraktion DIE LINKE - Kenntnis genommen
+- TOP 1.8: Naturnahe Bepflanzung auf städtischen Grün- und Ackerflächen - zurückgestellt
+- TOP 1.9: Gebühren für ordnungswidriges Wegwerfen – plant auch Köln eine Erhöhung? - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientiert; Nahrung und Erfahrugnsraum für unsere Stadt - zurückgestellt
+- TOP 2.1.1: Änderungsantrag zu TOP 2.1 "Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientierte Nahrung für unsere Stadt"
+- TOP 2.2: Kampagne gegen weggeworfene Zigarettenstummel - zurückgestellt
+- TOP 2.2.1: Kampagne gegen weggeworfene Zigarettenstummel - zurückgestellt
+- TOP 2.3: Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen! - zurückgestellt
+- TOP 2.3.1: Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen! - zu AN/0486/2019 - zurückgestellt
+- TOP 2.3.2: Änderungsantrag zu Top 2.3 "Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen!" - zurückgestellt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: STADTRADELN 2019 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - ungeändert empfohlen
+- TOP 4.1.2: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - ungeändert empfohlen
+- TOP 4.1.2.1: Strunde: Herstellung der Durchgängigkeit im Bereich Wichheimer Mühle - zurückgestellt
+- TOP 4.1.3: Stadtentwässerungsbetriebe Köln, AöR (SteB); Abwasserbeseitigungskonzept 2020 - ungeändert empfohlen
+- TOP 4.1.4: Waldsiedlung in Köln-Junkersdorf, hier: Ausbau der Grünverbindung - ungeändert empfohlen
+- TOP 4.1.5: Beschaffung von 9 Elektro-Schmalspur-Kippern für den Friedhofsbereich - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Beschaffung von 4 Gräberbaggern, 6 Zweischalengreifern und 1 Erdbohrer für den Friedhofsbereich - ungeändert beschlossen
+- TOP 4.2.2: Flora Bewässerung - ungeändert beschlossen
+- TOP 4.2.3: Bestellung einer stellvertretenden Schriftführerin - ungeändert beschlossen
+- TOP 4.2.4: Beschaffung einer selbstfahrenden Kehrmaschine für den Friedhofsbereich - ungeändert beschlossen
+- TOP 4.2.5: Projekt Obstwiesen Köln - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Familienfreundliches Köln - Kita-Ausbau in Köln stärken - Kenntnis genommen
+- TOP 7.2: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 7.3: Folgen der Sturm- und Trockenheitsereignisse 2018/2019 für den städtischen Baum- und Waldbestand - Kenntnis genommen
+- TOP 7.4: Beweidung im Naturschutzgebiet N4 (Rheineaue Worringen bis Langel) - Kenntnis genommen
+- TOP 7.5: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 7.6: Gewässerunterhaltungsplan 2019/2020 - Kenntnis genommen
+- TOP 7.7: Lärmaktionsplanung nach § 47 d BImSchG / Öffentliche Auslegung zur Fortschreibung des Lärmaktionsplanes im Rahmen der dritten Stufe nach EU-Umgebungslärmrichtlinie - Kenntnis genommen
+- TOP 7.8: Sachstandsbericht Schaugewächshaus und Orangerie im Botanischen Garten - Stand: 26.04.2019 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Durchforstungsplanung 2019 zur Pflege des städtischen Waldes (4143/2019) - Kenntnis genommen
+- TOP 8.2: Waschplatz für den Betriebshof im Botanischen Garten - zu 1494/2018 (TOP 4.1.9 der Sitzung vom 21.03.2019) - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
