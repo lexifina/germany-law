@@ -1,0 +1,96 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-09T16:00:00+02:00
+- Ende: 2019-05-09T21:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20435
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20435
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Aktuelle Stunde zum Thema „Antragsverfahren Heimkostenübernahme“
+- TOP 1.2: Aktuelle Stunde: Zukunft für die Mieter*innen des Kartäuserwall 18 Selbsthilfeprojekt e.V., auf Vorschlag der Fraktion Die Linke
+- TOP 1.3: Aktueller Sachstand zum Parkcafe
+- TOP 1.4: Kurzer Impuls-Vortrag zur Anregung eines Tempolimits am Chlodwigplatz-Stern
+- TOP 1.5: Umsetzung von Beschlüssen der BV 1 durch die Verwaltung - zurückgestellt
+- TOP 1.6: Aktuelle Stunde: Regelungen zur Außengastronomie
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Bonner Straße 75 - zurückgestellt
+- TOP 3.2: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - ungeändert empfohlen
+- TOP 3.3: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.4: Bildungslandschaft Altstadt/Nord - zurückgestellt
+- TOP 3.4.1: Änderungsantrag SPD zu Baubeschluss für die Umgestaltung des Knotenpunktes Gereonswall/Vogteistraße - zurückgestellt
+- TOP 3.5: Köln aufräumen - Fortführung der Maßnahme Beschichtung von Stadtmobiliar - mit Änderungen empfohlen
+- TOP 3.5.1: Änderungsantrag zu 1084/2019 "Köln aufräumen", Fraktion Bündnis 90/Die Grünen, CDU-Fraktion , SPD-Fraktion - ungeändert beschlossen
+- TOP 3.6: Genehmigung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2019 - ungeändert empfohlen
+- TOP 3.7: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung"; hier: Baubeschluss für die Umgestaltung der Gürzenichstraße sowie Freigabe avon invest - mit Änderungen empfohlen
+- TOP 3.8: Bedarfsfeststellungs- und Planungsbeschluss für die Ost-West-Achse - ungeändert empfohlen
+- TOP 3.9: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Innenstadt - ungeändert beschlossen
+- TOP 3.10: Radverkehrsführung auf den Kölner Ringen - Umsetzungsstufe 2020 im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - mit Änderungen empfohlen
+- TOP 3.10.1: Änderungsantrag zu 3.10. Radverkehrsführung auf den Kölner Ringen - Umsetzungsstufe 2020 im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - ungeändert beschlossen
+- TOP 3.11: Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade von Deutzer Brücke bis Malakoffturm sowie Freigabe von investiven Auszahlungsermächtigungen - zurückgestellt
+- TOP 3.11.1: Änderungsantrag Grüne zu Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade - zurückgestellt
+- TOP 3.12: Bewerbung der Stadt Köln für die Austragung des NRW-Tages 2020 - abgelehnt (in der Vorberatung)
+- TOP 3.12.1: Änderungsantrag GUT zu TOP 3.12 – Bewerbung der Stadt Köln für die Austragung des NRW-Tages 2020 - endgültig abgelehnt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO - Aufstellung von Blumenkübeln in der Norbertstraße (Gereonsviertel) - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag zur Vorlage 2608/2018, Norbertstraße, Grüne-Fraktion - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Rheinuferpromenade zwischen Bastei und Zoobrücke (Az.: 02-1600-24/19) - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Pressespiegel der Stadt Köln - Sache ist erledigt
+- TOP 5.1.2: Umgestaltung des Fußgängerüberwegs Haltestelle Ubierring (Nordseite) - zurückgestellt
+- TOP 5.1.3: Bessere Absicherung der Schulwege entlang der Johannisstraße - zurückgestellt
+- TOP 5.1.4: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Sanierung Spielplätze am Rathenauplatz - ungeändert beschlossen
+- TOP 5.2.2: Soziale Erhaltungssatzung für das Rathenauviertel - ungeändert beschlossen
+- TOP 5.2.3: Überweg Fußgänger*innen und Radfahrer*innen Cäcilienstraße - zurückgestellt
+- TOP 5.2.3.1: Übergang Neumarkt - zurückgestellt
+- TOP 5.2.4: Zülpicher Straße - Wegfall Parkplätze und Verlagerung Lieferzone - zurückgestellt
+- TOP 5.2.4.1: Zülpicher Platz - Veränderungen - zurückgestellt
+- TOP 5.2.5: Folgen der entfernten Poller auf der Deutzer Freiheit, Antrag Grüne - ungeändert beschlossen
+- TOP 5.2.6: Kinderspielplatz Theodor-Heuss-Ring Süd, Antrag CDU - geändert beschlossen
+- TOP 5.2.7: Überwachungskonzept bei Großveranstaltungen in der Deutzer Werft, Antrag Grüne - geändert beschlossen
+- TOP 5.2.8: Dienstaufsichtsbeschwerde gegen Frau Beigeordnete Blome, Antrag Grüne - zurückgestellt
+- TOP 5.2.8.1: Antrag der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Innenstadt - zurückgestellt
+- TOP 5.2.9: Milieuschutz für den Kartäuserwall - zurückgestellt
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Praxis für die Entsorgung von Schrottfahrrädern im öffentlichen Raum - zurückgestellt
+- TOP 6.1.3: Verkehrszählung Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 6.1.4: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.5: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.6: Parkraumfreie Zone - zurückgestellt
+- TOP 6.1.7: Sanierung von vier Innenstadtschulen (Neustadt/Nord) - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung - zurückgestellt
+- TOP 6.2.1: Sachstand Soziale Erhaltungssatzungen, Anfrage SPD - zurückgestellt
+- TOP 6.2.2: Wohnhaus Ritterstraße 7 (Altstadt/Nord), Anfrage SPD - zurückgestellt
+- TOP 6.2.3: Gehwegparken Innenstadt - zurückgestellt
+- TOP 6.2.4: Klimaverbesserung durch Fassaden- und Dachbegrünungen in unseren Veedeln - zurückgestellt
+- TOP 6.2.5: Illegale Wohnraumzweckentfremdung ermitteln - zurückgestellt
+- TOP 6.2.6: Baulücke Kartäuserwall 14 - zurückgestellt
+- TOP 6.2.7: Verhältnis Ausgegebene Anwohnerparkausweise zu Vorhanden Anwohnerstellplätzen - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Fortsetzung des Verfahrens zur Aufstellung des Bebauungsplanes Nummer 68454/04; Arbeitstitel: Südlich Ottoplatz in Köln-Deutz - Kenntnis genommen
+- TOP 9.2: Beantwortung der Anfrage "Neues Casino in Deutz – wie ist der Sachstand?" (AN/0374/2019) - Kenntnis genommen
+- TOP 9.2.1: Neues Casino in Deutz – wie ist der Sachstand ? (Ergänzung der AN/0374/2019 und Mitteilung 1090/2019) - Kenntnis genommen
+- TOP 9.3: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Innenstadt - Kenntnis genommen
+- TOP 9.4: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 9.5: Piktogramme auf der Hohenzollernbrücke - Kenntnis genommen
+- TOP 9.6: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 9.7: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 9.8: STADTRADELN 2019 - Kenntnis genommen
+- TOP 9.9: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 9.10: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 9.11: Verbundprojekt i Resilience- soziale Innovation und intelligente Stadtinfrastruktur für die resiliente Stadt der Zukunft - Kenntnis genommen
+- TOP 9.12: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Innenstadt - Kenntnis genommen
