@@ -1,0 +1,73 @@
+# 36. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-09T17:00:00+02:00
+- Ende: 2019-05-09T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20408
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20408
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715348.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715348.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00715348.pdf
+
+## Tagesordnung
+
+- TOP -: A Bericht aus dem Sozialraum Höhenberg/Vingst durch die Sozialraumkoordinatoren
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gemäß § 24 GO - Gestaltung Spielplatz Hopfenstraße in Köln-Merheim - geändert beschlossen
+- TOP 2.2: Eingabe nach § 24 GO: Parkplatz Höhenbergbad - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Sportplatzsicherung und weitere Rahmenplanung zur Entwicklung des Stadt-teils Rath/Heumar - geändert beschlossen
+- TOP -: Sportplatzsicherung und weitere Rahmenplanung zur Entwicklung des Stadtteils Rath/Heumar (Gemeinsamer Antrag der SPD-Fraktion und der CDU-Fraktion vom 25.04.2019 -AN/0534/2019) - endgültig abgelehnt
+- TOP 7.2: Sicherung des Marienstandbilds an der Wikingerstraße, Höhe Einfahrt Bahnhof Heumar, in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Städtische Linde vor Rösrather Str. 749 - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 8.2.2: Zuschuss TSV 07 Köln-Merheim e.V. - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Beantwortung einer mündlichen Anfrage aus einer früheren Sitzung - Kenntnis genommen
+- TOP 9.1.2: Zustand der Haltestelle Fuldaer Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.3: Defekte Fahrtreppe in der Stadtbahnhaltestelle Kalk Kapelle
+- TOP 9.1.4: Aufstellung von Schulpavillons im Zusammenhang mit dem Umzug der Katholischen Grundschule Kapitelstraße in die Vietorstraße - zu 4152/2018 (TOP 8.2.3 der Sitzung vom 21.03.2019)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Europawahlkampfauftakt der AfD am 07.04.2019 in Köln-Kalk - Kenntnis genommen
+- TOP -: Europawahlkampfauftakt der AfD am 07.04.2019 in Köln-Kalk - Kenntnis genommen
+- TOP 9.2.2: Wiederherstellung des Spielplatzes an der Geraer Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.2.3: Spielplatz Gremberger Straße/Roddergasse in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.2.4: Illegales Gehwegparken - Kenntnis genommen
+- TOP 9.2.5: Schrottplätze in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.2.6: Hallen Kalk im Stadtteil Kalk - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Nutzungsunabhängige Haldenstabilisierung Kalkberg, Anfrage der Fraktion DIE LINKE - Kenntnis genommen
+- TOP 10.2.2: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 10.2.3: Realisierbarkeit einer Zweifachsporthalle am Grundschulstandort Thessaloniki-Allee, Köln-Kalk - zu 0276/2017 - Kenntnis genommen
+- TOP 10.2.4: Stadtverschönungsprogramm 2016/2017 für den Bezirk Kalk - zurückgestellt
+- TOP 10.2.5: MHD-Gelände, Teilaufhebung in Köln-Kalk;Offenlage des Bebauungsplanes (VEP) Nummer 70451/03, Teilaufhebung - Kenntnis genommen
+- TOP 10.2.6: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf (VEP) Nummer 74455/02, Arbeitstitel: Ostmerheimer Straße in Köln-Merheim - Kenntnis genommen
+- TOP 10.2.7: Verbesserung der Beleuchtung auf dem Heinrich-Schäfer-Weg in Köln-Merheim - Kenntnis genommen
+- TOP 10.2.8: Zurückgewiesene Bürgereingabe - Rather See - Kenntnis genommen
+- TOP 10.2.9: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 10.2.10: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 10.2.11: STADTRADELN 2019 - Kenntnis genommen
+- TOP 10.2.12: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 10.2.13: Beleuchtung auf dem Heinrich-Schäfer-Weg in Köln-Merheim - Kenntnis genommen
+- TOP 10.2.14: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Kalk - Kenntnis genommen
+- TOP 10.2.15: Gewässerunterhaltungsplan 2019/2020 - Kenntnis genommen
+- TOP 10.2.16: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 10.2.17: Umbenennung der Heinrich-Lersch-Straße in Käthe-Schlechter-Straße in Köln-Neubrück - Kenntnis genommen
