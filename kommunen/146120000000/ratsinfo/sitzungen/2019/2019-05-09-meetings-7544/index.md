@@ -1,0 +1,84 @@
+# 64. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-05-09T16:00:00+02:00
+- Ende: 2019-05-09T22:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7544
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7544
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00407257.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde: Digitaler Fortschritt in Dresden – Menschen mitnehmen und informieren, Infrastruktur schaffen! - erledigt
+- TOP 4: Schaffung eines einheitlichen, sicheren und freizugänglichen öffentlichen WLANs für die Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Aktuelle Stunde zum Thema "Sicherheit in Dresden – Wirksamkeit präventiver Sozialarbeit und des Handelns von Polizei und Gemeindlichem Vollzugsdienst" - erledigt
+- TOP 6: Einigungsverfahren Gremienbesetzung - Ausschüsse
+- TOP 6.1: Ausschuss für Kultur und Tourismus (Eigenbetrieb Heinrich-Schütz-Konservatorium) - Einigung
+- TOP 6.2: Umbesetzung im Jugendhilfeausschuss
+- TOP 6.3: Ausschuss für Umwelt und Kommunalwirtschaft (Eigenbetrieb Friedhofs- und Bestattungswesen sowie Eigenbetrieb Stadtentwässerung) - Einigung
+- TOP 6.4: Ausschuss für Petitionen und Bürgerbeteiligung - Einigung
+- TOP 7: Einigungsverfahren Gremienbesetzung - Beiräte
+- TOP 7.1: Beirat Gesunde Städte - Einigung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Anträge - Liquiditätsreserve
+- TOP 9.1: Breitensport fördern! – Maßnahmepaket zur Unterstützung und Förderung des Vereins- und Breitensports in der Landeshauptstadt Dresden - Ersetzung - punktweise Abstimmung
+- TOP 9.2: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung nach 22 Uhr
+- TOP 9.3: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung nach 22 Uhr
+- TOP 9.4: Sicherstellung einer artgerechten Tierhaltung im Dresdner Zoo – Neubau des Orang-Utan-Hauses - Vertagung nach 22 Uhr
+- TOP 9.5: Nachhaltigkeit und Klimaschutz in der Landeshauptstadt stärken - Vertagung nach 22 Uhr
+- TOP 9.6: Bildung und Kultur in der Landeshauptstadt stärken - Vertagung nach 22 Uhr
+- TOP 9.7: Straßenverkehr für alle Verkehrsteilnehmer/innen in der Landeshauptstadt stärken - Vertagung nach 22 Uhr
+- TOP 9.8: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung nach 22 Uhr
+- TOP 9.9: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung nach 22 Uhr
+- TOP 10: Vertagungen der Stadtratssitzung vom 21. März 2019
+- TOP 10.1: Pilotprojekt Elektrifizierung von Gaskandelabern mit LED-Technik in Striesen - Vertagung nach 22 Uhr
+- TOP 11: Vertagungen der Stadtratssitzungvom 11. April 2019
+- TOP 11.1: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung durch Einreicher
+- TOP 11.2: Kultur- und Nachbarschaftszentren vor Ort - Vertagung nach 22 Uhr
+- TOP 11.3: Masterplan Fairtrade - Vertagung nach 22 Uhr
+- TOP 11.4: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung nach 22 Uhr
+- TOP 11.5: Ortsamt Loschwitz als Standort erhalten - Vertagung nach 22 Uhr
+- TOP 11.6: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung nach 22 Uhr
+- TOP 11.7: Klinikum Dresden – wirtschaftliche Lage - Vertagung nach 22 Uhr
+- TOP 11.8: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung nach 22 Uhr
+- TOP 11.9: Gute Arbeit in und bei der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 11.10: Grundsätze für die Stadtgestaltung - Vertagung nach 22 Uhr
+- TOP 11.11: Wildwuchs von Hochhäusern im Stadtbild verhindern - Leitbild Hochhausentwicklung für Dresden entwickeln - Vertagung nach 22 Uhr
+- TOP 11.12: Wachstumsregion Dresden: Verkehrliche Rolle der Stadt Dresden untersuchen - Mobilitätsanforderungen von Berufspendlern und deren Auswirkungen auf die Verkehrsbelegungszahlen ermitteln - Vertagung nach 22 Uhr
+- TOP 11.13: Stadtteilverträglicher ÖPNV in Striesen, Gruna und Blasewitz - Vertagung durch Einreicher
+- TOP 11.14: Gewährung von Bildungsurlaub unter Fortzahlung des Entgelts bzw. der Besoldung für die Beschäftigten und Auszubildenden der Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 11.15: Projekttag "Moderne. Sehen. Verstehen - Auf den Spuren des Architekten Wolfgang Hänsch" - Vertagung nach 22 Uhr
+- TOP 11.16: Teilgebiets-Lärmaktionsplan Innere Neustadt (Entwurf für Offenlage) - Vertagung nach 22 Uhr
+- TOP 11.17: Europäisches Zentrum der Künste Hellerau – Investitionen zur Sicherstellung der Spielfähigkeit des Hauses 2019/2020 - Vertagung nach 22 Uhr
+- TOP 11.18: Verkehrsmuseum Dresden – Einmalige Zuwendung zur Dauerausstellung zur Geschichte der Eisenbahn - Vertagung nach 22 Uhr
+- TOP 11.19: Budgetanpassungen - Vertagung nach 22 Uhr
+- TOP 11.20: Sanierung des Römischen Bades im Schloss Albrechtsberg - Vertagung nach 22 Uhr
+- TOP 11.21: Dienstleistungskonzessionen für die Organisation und Durchführung Thematischer Weihnachtsmärkte auf der Hauptstraße, dem Neumarkt, dem Taschenberg und der Prager Straße sowie für eine Thematische Weihnachtsveranstaltung auf dem Postplatz - zurückgezogen
+- TOP 11.22: Für eine vielfältige Veranstaltungs- und Clubszene in Dresden - Aufhebung der Sperrstunde nach Sächsischem Gaststättengesetz - Vertagung nach 22 Uhr
+- TOP 12: Gründung der Komm24 GmbH - Zustimmung
+- TOP 13: Betriebsbeihilfe für die Stadion Dresden Projektgesellschaft mbH & Co. KG - Zustimmung
+- TOP 14: Reaktivierung Schulstandort Ginsterstraße 3 in 01169 Dresden als dauerhafter Auslagerungsstandort für kommunale Schulen - Vertagung nach 22 Uhr
+- TOP 15: Übertragung einer Teilfläche des Flurstücks Nr. 444/79 der Gemarkung Strehlen an die Cultus gGmbH und Aufnahme der Kindertageseinrichtung Geystraße, 01217 Dresden, in den Bedarfsplan der Landeshauptstadt Dresden - Vertagung
+- TOP 16: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Änderung Satzung Straßenkunst) - Vertagung nach 22 Uhr
+- TOP 17: Gründung des Vereins "Arbeitsgemeinschaft Sächsischen Städte, Gemeinden und Landkreise zur Förderung des Rad- und Fußverkehrs e. V. (Rad.SN)" - Zustimmung mit Änderung
+- TOP 18: Vorkaufsrechtssatzung Nr. 13, Dresden-Seidnitz/Tolkewitz, Wohnstandort Kipsdorfer Straße/Weesensteiner Straße - Vertagung nach 22 Uhr
+- TOP 19: Abschluss eines Erbbaurechtsvertrages für ein Grundstück in Dresden-Neustadt, Bautzner Straße - Vertagung nach 22 Uhr
+- TOP 20: Grundhafter Ausbau der Bühlauer Straße im Ortsteil Schullwitz von Haus Nr. 28 bis Aspichring - Vertagung
+- TOP 21: Bebauungsplan Nr. 385, Dresden-Wilschdorf Nr. 8, Saßnitzer Straße/Leeraue - Zustimmung
+- TOP 22: Sowjetischer Garnisonsfriedhof - Eigentumsübertragung vom Freistaat Sachsen an die Landeshauptstadt Dresden - Vertagung nach 22 Uhr
+- TOP 23: Entgeltordnung der Landeshauptstadt Dresden für die Benutzung des Krematoriums Dresden-Tolkewitz - Zustimmung
+- TOP 24: Verwendung von Einnahmen aus Geschwindigkeitsüberwachungsanlagen (Blitzern) - Vertagung durch Einreicher
+- TOP 25: Schutz von FahrradfahrerInnen während der Sanierung der Loschwitzer Brücke - Vertagung nach 22 Uhr
+- TOP 26: Grundlagenbetrachtung einer Elbquerung zwischen Pieschen und dem Ostragehege - Vertagung nach 22 Uhr
+- TOP 27: Eine neue Skateanlage für die Johannstadt - Vertagung nach 22 Uhr
+- TOP 28: Straßenrückbau stoppen - Verkehrsplanung für alle Verkehrsteilnehmer, hier: Korrektur Vorplanungen Stadtbahn 2020 Teilstrecke 1.3 "Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße" - Vertagung
+- TOP 29: Stadtratsbeschlüsse achten und umsetzen - Stadtbezirksbeiräte mit angemessenen Budgets ausstatten - Vertagung nach 22 Uhr
+- TOP 30: Dresdner Fernsehturm - Konzept für die verkehrliche Erschließung erstellen - Vertagung nach 22 Uhr
+- TOP 31: 365-Euro-Ticket schnellstmöglich einführen! - Ersetzung
+- TOP 32: Besetzung und Umbesetzung von Amtsleitungen, Betriebsleitungen und Chefarztpositionen in der Landeshauptstadt Dresden - Verweisung
