@@ -1,0 +1,6 @@
+# TOP -: Genehmigung des Protokolls der öffentlichen Sitzung vom 21.02.2019
+
+- Sitzung: Interkultureller Beirat (2. Sitzung) (2019-05-09)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/36750
