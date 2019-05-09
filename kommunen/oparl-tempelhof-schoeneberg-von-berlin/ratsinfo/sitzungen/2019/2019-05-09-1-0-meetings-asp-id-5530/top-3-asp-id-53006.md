@@ -1,0 +1,7 @@
+# TOP 3: Bericht aus dem Beirat von und für Menschen mit Behinderungen
+
+- Sitzung: 14. öffentliche Sitzung des Ausschusses für Frauen-, Queer- und Inklusionspolitik (2019-05-09)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=53006
+- Ergebnis: im Ausschuss abgelehnt
