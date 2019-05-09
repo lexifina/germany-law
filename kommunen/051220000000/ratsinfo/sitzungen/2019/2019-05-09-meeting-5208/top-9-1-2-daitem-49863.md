@@ -1,0 +1,7 @@
+# TOP 9.1.2: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Mitte
+
+- Sitzung: Bezirksvertretung Mitte (35. Sitzung) (2019-05-09)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/49863
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/29752
