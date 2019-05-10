@@ -1,0 +1,9 @@
+# Amtsblatt der Stadt Gütersloh 2019 Nr. 11 vom 10.05.2019
+
+- Herausgeber: Stadt Gütersloh
+- Ausgabe: 2019-05-10 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 11
+- Quelle: https://www.guetersloh.de/de-wAssets/docs/amtsblatt/amtsblatt-2019/Amtsblatt_11_2019.pdf
+- Text: PDF der herausgebenden Behörde, Textschicht (pdftotext)
+
+- Text: nicht übernommen - die Ausgabe nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
