@@ -1,0 +1,85 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-13T17:04:00+02:00
+- Ende: 2019-05-13T21:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20373
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20373
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO "Geschwindigkeitsbeschränkung auf dem Zollstockgürtel" (AZ: 02-1600-50/17) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Verkehrssituation an Grundschulen bei Schulbeginn und Schulende; Beantwortung einer Anfrage der CDU-Fraktion aus der Sitzung am 28.01.2019 (AN/0089/2019), TOP 7.2.5 - Kenntnis genommen
+- TOP 7.1.2: Parkplatzsituation aufgrund von Baustellen in Bayenthal - Kenntnis genommen
+- TOP 7.1.3: Pünktlichkeit der E-Busse am Höninger Platz - Kenntnis genommen
+- TOP 7.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1.1: Beantwortung der KölnBäder GmbH vom 29.04.2019 (AN/0385/2019) - Kenntnis genommen
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2.1: Antwort auf eine Anfrage gem. § 4 der Geschäftsordnung des Rates hier: "Bürger im Bezirk vor Gentrifizierung schützen" - Kenntnis genommen
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.4: Sachstand der Sportplatzplanung für Rondorf, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Erhebliche Staubbelastung in Godorf durch die Fa. Alpha, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Ordnungswidriges Gehwegparken; Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.7: Sporthalle der Bezirkssportanlage Süd in Zollstock, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Kommunikationsverhalten der Fa. Shell, Antrag der CDU-Fraktion - endgültig zurückgezogen
+- TOP 8.1.2: Anwohnerparkplätzen für die Godorfer-Hauptstraße in Köln-Godorf, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.3: Alte Trauerhalle in Weiß: Umwandlung in ein Kolumbarium, Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - ungeändert beschlossen
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Sanierung der Grüngürtel-Schule, Antrag der CDU-Fraktion mit Beitritt der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.6: Einrichtung einer zusätzlichen Haltestelle der Linie 130 am Kreuzungspunkt der Straßen Am Feldrain / Sürther Feldallee / Grüner Weg in Köln-Sürth, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.7: Spielplätze in Sürth: eindeutige Kennzeichnung der Flächen, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.8: Anzeigetafel in dem Kundenzentrum des Bürgeramtes Rodenkirchen an das Internet anbinden, Antrag der FDP-Fraktion - endgültig zurückgezogen
+- TOP 8.1.8.1: Modifizierter Antrag der FDP-Fraktion: Verbesserung des Kundenservice in der Meldehalle des Bürgeramtes Rodenkirchen - ungeändert beschlossen
+- TOP 8.1.9: Schulhof der Grundschulen in der Caesarstraße, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.10: Mehr Schwimmkurse für Kinder in den Bädern in Zollstock und Rodenkirchen, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.12: Schaffung von mehr Parkraum auf der Kierberger Straße in Zollstock, Antrag der CDU-Fraktion - endgültig abgelehnt
+- TOP 8.1.13: Beseitigung der Straßenschäden an der Einmündung der L150 auf die L300, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.14: Erhaltenswerte Bäume an Rändern von B-Plan-Gebieten: Schutz, Gemeinsamer Dringlichkeitantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.1.1: Ergänzungsantrag der Fraktion Die Grünen neu - AN 1336-2018 ist hinfällig - zurückgestellt
+- TOP 9.1.1.2: Ergänzungsantrag der SPD-Fraktion zur Vorlage 0814/2017 - Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.2: Bank Ecke Engeldorfer Str. / Am Engeldorfer Berg in Köln-Meschenich - zurückgestellt
+- TOP 9.1.3: Parkstadt Süd, Begleitgremium - geändert beschlossen
+- TOP 9.1.4: Inanspruchnahme öffentlichen Straßenlandes durch die Aufstellung eines Informations-Schaukastens vor dem Grundstück Rodenkirchener Str. 129 in Köln-Rondorf - ungeändert beschlossen
+- TOP 9.1.5: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Rodenkirchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.2: Baubeschluss für die Umgestaltung des Knotenpunktes Alteburger Straße/Bayenthalgürtel/An der Alteburger Mühle im Bereich der Bismarckäule sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-2-1004, Bayenthalgürtel/ - ungeändert empfohlen
+- TOP 9.2.3: Neubau eines Feuerwehrgerätehauses und einer Rettungswache in Rodenkirchen - ungeändert empfohlen
+- TOP 9.2.4: PLATZHALTER – Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: `Sechtemer Straße/ Bonner Straße` in Köln-Raderberg - zurückgestellt
+- TOP 9.2.5: 2. Teilaufhebung des BBP 6440 Nd/03 (65410/03), Arbeitstitel: Kalscheurer Weg in Köln-Zollstock, Anhörung der BV Innenstadt z. d. Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Fortführung des Teilhebungsverfahrens - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 10.2.2: Mitteilung zu Lärmschutzmaßnahmen im Stadtbezirk Rodenkirchen, Antrag der CDU-Fraktion, AN/1768/2018 - Kenntnis genommen
+- TOP 10.2.3: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Rodenkirchen - Kenntnis genommen
+- TOP 10.2.4: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 10.2.5: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 10.2.6: STADTRADELN 2019 - Kenntnis genommen
+- TOP 10.2.7: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 10.2.8: Geplante Neubebauung im Bereich Raderthalgürtel, Änderung des Bebauungsplanes 67419/08, Arbeitstitel: Raderthalgürtel (neu) in Köln-Zollstock, 1.Änderung, Hier: Umgang mit den Bäumen im Bereich der Böschung - Kenntnis genommen
+- TOP 10.2.9: Stadtbahn Bonn - Niederkassel - Köln - Kenntnis genommen
+- TOP 10.2.10: Stellungnahme der KölnBäder GmbH zu TOP 8.1.2.1 aus der Sirtzung der Bezirksvertretung Rodenkirchen - Kenntnis genommen
+- TOP 10.2.11: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Rodenkirchen - Kenntnis genommen
