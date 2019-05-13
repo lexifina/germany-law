@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-13T17:00:00+02:00
+- Ende: 2019-05-13T18:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20352
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20352
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Tätigkeitsbericht 2018 des Amtes für Gleichstellung von Frauen und Männern - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung der mündlichen Anfrage der CDU-Fraktion betreffend "Datenschutz bei der Vorlage von Impfausweisen" aus der Sitzung vom 04.02.2019 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 4.2: Prüfung der Verbesserung des Informationsangebots über Schwangerschaftsabbrüche auf der städtischen Website - Kenntnis genommen
+- TOP 4.3: Erfahrungsbericht zur Inklusionsvereinbarung 2017 - Kenntnis genommen
+- TOP 4.4: Bürgereingabe zur Kölner Stadtordnung zum Modellsport; Mitteilung über den aktuellen Sachstand - Kenntnis genommen
+- TOP 4.5: Teilnahme der Mitarbeitenden der Stadtverwaltung Köln am Kölner CSD 2019 - Kenntnis genommen
+- TOP 4.6: Mitteilung zum Änderungsbeschluss vom 23.04.2018 (AN/0629/2018) und Zwischenbericht zum "Zielbild 2020 - Maßnahmen zur Stärkung des städtischen Ordnungsdienstes" - zurückgestellt
+- TOP 4.7: Prämierung des zentralen BEM-Verfahrensder Stadt Köln durch den Landschaftsverband Rheinland - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" zur Sitzung vom 12.11.2018 - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/1578/2018 der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" - zurückgestellt
+- TOP 6.2: Anfrage der Gruppe BUNT betreffend "Widerspruchsmöglichkeiten zur Weitergabe von Meldedaten durch das Einwohnermeldeamt" zur Sitzung vom 25.03.2019 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0397/2019 der Gruppe BUNT betreffend "Widerspruchsmöglichkeiten zur Weitergabe von Meldedaten durch das Einwohnermeldeamt" - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Erweiterung der "Sag´s-uns-App" der Stadt Köln um zwei Kategorien" - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion DIE LINKE betreffend "Das Kölner Taxigewerbe und Uber" - zurückgestellt
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage betreffend "PFC-haltiger Löschschaum"
+- TOP 7.2: Mündliche Anfrage betreffend "Freiwillige Feuerwehr Kalk"
+- TOP 7.3: Mündliche Anfrage betreffend "Kameras mit Mikrofoneinrichtungen in U-Bahnen"
+- TOP 7.4: Mündliche Anfrage betreffend "Nutzungskonflikt Außengastronomie und Barrierefreiheit"
+- TOP 7.5: Mündliche Anfrage betreffend "Autofahrten bei Hochzeitsfeiern"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion und der Gruppe BUNT betreffend "Führerscheinumtausch online ermöglichen" - zurückgestellt
+- TOP 8.2: Dringlichkeitsantrag der CDU-Fraktion und Fraktion Bündnis 90/ Die Grünen betreffend "Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen – Stadtbezirk Lindenthal: 31. Stadtteilfest „Lindenthaler Flair“" - ungeändert beschlossen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - ungeändert beschlossen
+- TOP 10.2: Bewerbung der Stadt Köln für die Austragung des NRW-Tages 2020 - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Genehmigung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 2. Halbjahr 2019 - ungeändert beschlossen
+- TOP 10.4: Bedarfsfeststellung zur weiteren Sicherstellung des Luftrettungsdienstes mit dem Intensivtransporthubschrauber (ITH) Christoph Rheinland - zurückgestellt
+- TOP 10.5: Bedarfsfeststellung über die Beschaffung eines Einsatzleitwagens und zwei Multifunktionsfahrzeuge - ungeändert beschlossen
+- TOP 10.6: Beteiligungsrechte des Integrationsrates, hier: Anregung zur Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 10.7: Änderung der Rettungsdienstsatzung der Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
