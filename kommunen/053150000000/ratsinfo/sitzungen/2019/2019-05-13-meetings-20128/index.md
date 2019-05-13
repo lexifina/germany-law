@@ -1,0 +1,91 @@
+# 39. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-13T17:00:00+02:00
+- Ende: 2019-05-13T21:13:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20128
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20128
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der FDP/Piraten-Fraktion, betr.: Unterführung Widdersdorfer Straße / Girlitzweg - Kenntnis genommen
+- TOP 6.2.1: Beantwortung einer Anfrage, Unterführung Widdersdorfer Straße/Girlitzweg - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Grunderwerbskosten für den Bau der Heliosschule - Kenntnis genommen
+- TOP 6.3.1: Die Beantwortung erfolgt im nichtöffentlichen Teil unter TOP 20.2
+- TOP 6.4: Anfrage der SPD-Fraktion, betr.: Stand der Baumaßnahmen Kita Hadersleber Straße - Kenntnis genommen
+- TOP 6.4.1: Beantwortung der Anfrage der SPD-Fraktion in der BV Ehrenfeld am 18.03.2019 - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Radvderkehr Butzweilerhof Allee - Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.1: Beantwortung einer Anfrage, Sondernutzung des Lenauplatzes - Kenntnis genommen
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.1: Beantwortung einer Anfrage, Halteverbot-Zeitraum am Karnevalsdienstag - Kenntnis genommen
+- TOP 7.4: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Illegales Gehwegparken - zurückgestellt
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Anfrage der Fraktion Die Linke, betr.: Deckel drauf! - eine Einhausung für die A 57 - zurückgestellt
+- TOP 7.7: Anfrage der Fraktion Die Linke, betr.: Wie lassen sich stille Flächenreserven für den Wohnungsbau heben? - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Fahrbahndecken - geändert beschlossen
+- TOP 8.3: Antrag der CDU-Fraktion, Verkehrszählung im Bereich Girlitzweg - zurückgestellt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion, betr.: Modellprojekt ,,Sport im Sozialraum“, Wilhelm-Schreiber-Straße, Ossendorf - zurückgestellt
+- TOP 8.5.1: Ersetzungsantrag der SPD-Fraktion zum Antrag 0549/2019 (TOP 8.5), betr.: Modellprojekt „Sport im Sozialraum“ - zurückgestellt
+- TOP 8.6: Antrag der Fraktion Die Linke, betr,; Ehrenfeld erblühen lassen - verwiesen in nachfolgende Gremien
+- TOP 8.7: Antrag der CDU-Fraktion, betr.: neue Straße nördlich Girlitzweg - zurückgestellt
+- TOP 8.8: Antrag der SPD-Fraktion, betr.: Siemensgelände an der Franz-Geuer-Straße als Schulstandort entwickeln. - ungeändert beschlossen
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Antrag der CDU-Fraktion, betr.: Benennung Rochusplatz - ungeändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion, betr.: Werbung von Vereinen - endgültig abgelehnt
+- TOP 8.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Neugestaltung Bolzplatz Stammstraße/Gutenbergstraße in Köln-Ehrenfeld - ungeändert beschlossen
+- TOP 9.2: Baubeschluss für die Generalinstandsetzung der Philippstr. sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - zurückgestellt
+- TOP 9.2.1: Straßen und Radwegeerhaltungsprogramm im Kölner Stadtgebiet (Ehrenfeld) - Kenntnis genommen
+- TOP 9.3: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - ungeändert beschlossen
+- TOP 9.4: Straßenbaumkonzept Ehrenfeld - ungeändert beschlossen
+- TOP 9.5: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 9.6: Ersatzbeschaffung eines Spielgerätes für Spielplatz Glasstraße/Wißmannstraße in Ehrenfeld - ungeändert beschlossen
+- TOP 9.7: Zuwendung aus dem städtischen Aktivierungsfonds für ein Projekt im Sozialraum „Bickendorf, Westend und Ossendorf“ - ehemals TOP 12.17 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Bilderstöckchen - DIE VORLAGE WURDE VON DER VERWALTUNG ZURÜCKGEZOGEN - endgültig zurückgezogen
+- TOP 10.2: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.3: 270. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10.4: Schließung und Rückbau der städtischen Notunterkunft für Geflüchtete an der Butzweilerhofallee 51, 50829 Köln-Ossendorf - Baubeschluss - ungeändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanes - Arbeitstitel: Herbrandstraße in Köln-Ehrenfeld - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes - Kenntnis genommen
+- TOP 12.3: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Ehrenfeld - Kenntnis genommen
+- TOP 12.4: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 12.5: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 12.6: Grevenbroicher Straße in Höhe Lerchenweg - Kenntnis genommen
+- TOP 12.7: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Ehrenfeld - Kenntnis genommen
+- TOP 12.8: Beschluss der BV 4 vom 07.05.2018 - Auflistung von Bunkeranlagen im Stadtbezirk Ehrenfeld - AN/0642/2018 - Kenntnis genommen
+- TOP 12.9: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 12.10: Überweg Obere Dorfstraße 85 - Kita - Kenntnis genommen
+- TOP 12.11: Versetztes Parken in der Nagelschmiedgasse - Kenntnis genommen
+- TOP 12.12: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 12.13: STADTRADELN 2019 - Kenntnis genommen
+- TOP 12.14: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 12.15: Photovoltaik-Anlagen auf städtischen Gebäuden - mündliche Nachfrage von BV Klemm zur Beantwortung 0750/2019 - Kenntnis genommen
+- TOP 12.16: Aktueller Sachstand Bebauung Takustraße (Schausteller-Platz) in Köln-Neuehrenfeld - Kenntnis genommen
+- TOP 12.17: Vorlage wird unter TOP 9.7 behandelt
+- TOP 12.18: Fünfzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln (3313/2018) - Kenntnis genommen
+- TOP 12.19: Fortführung des Abendmarktes auf dem Neptunplatz - Kenntnis genommen
+- TOP 12.20: Änderungs- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates AN/0283/2019 BV 4 am 18.03.2019; hier: Stellungnahme der Verwaltung; TOP 8.3 Antrag der SPD-Fraktion betr.: Stärkung des Kooperativen Baulandmodells – mehr bezahlbarer Wohnraum. - Kenntnis genommen
+- TOP 13: mündliche Anfragen
