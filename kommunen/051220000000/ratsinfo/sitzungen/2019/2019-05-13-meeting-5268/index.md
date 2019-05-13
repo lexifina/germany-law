@@ -1,0 +1,52 @@
+# Jugendhilfeausschuss (30. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-05-13T17:00:00+02:00
+- Ende: 2019-05-13T20:25:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-157
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUiu6_GSBFd6nmdBKMPSEKA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5268
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Jugendhilfeausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcTYGyutORnSfMHP5UZewbGHrfwq58HAnetGpU-yXT5h/Bekanntmachung_Jugendhilfeausschuss_13.05.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Jugendhilfeausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZtJQ_3XqW-2BDV9UpqKqyGBi0esGfIduTCLX3A56v_w/Oeffentliche_Niederschrift_Jugendhilfeausschuss_13.05.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Insektenschutz - Umweltpädagogische Vermittlung in Solingen Bericht der Verwaltung über eingeleitete Maßnahmen und Umsetzung
+- TOP 1.2: Jugendamtselternbeirat (JAEBS)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 29. Sitzung des Jugendhilfeausschusses am 11.03.2019
+- TOP 4.: Bericht aus dem Jugendstadtrat
+- TOP 5.: Informationen und Empfehlungen zum weiteren Umgang mit dem Thema eSports in Solingen
+- TOP 6.: NRWeltoffen – Konzept zur Prävention gegen Rassismus und Rechtsextremismus in Solingen
+- TOP 7.: Situation im offenen Ganztag hier: Schaffung weiterer Kapazitäten
+- TOP 8.: Nutzung des ehemaligen Gemeindezentrums Sternstraße
+- TOP 9.: Umbesetzung im Jugendhilfeausschuss hier: Nachfolgeregelung für ein stimmberechtigtes Mitglied
+- TOP 10.: Kita-Ausbauplanung 2023
+- TOP 11.: Förderung von Familienzentren im Kindergartenjahr 2019/2020
+- TOP 12.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Teilnahme am Mittagessen in Kindertageseinrichtungen der Stadt Solingen
+- TOP 13.: Sachstand Schulsozialarbeit
+- TOP 14.: Übersicht Anbieter Hilfen zur Erziehung (HzE)
+- TOP 15.: Prävention im Kinder- und Jugendalter - Frühe Hilfen
+- TOP 16.: Prävention im Kinder- und Jugendalter – HzE Projekt
+- TOP 17.: Verschiedenes
+- TOP 17.1: Mitteilungen der Verwaltung
+- TOP 17.1.1: Strukturplan 2019
+- TOP 17.1.2: Umzug Jugendförderung und Wiedereröffnung Haus der Jugend Dorper Straße
+- TOP 17.1.3: KiBiz-Eckpunktepapier Schreiben Stadt Solingen an Minister Dr. Stamp
+- TOP 17.1.4: Novellierung des Kinderbildungsgesetzes – Einleitung der Verbändeanhörung und Kostenfolgeabschätzung
+- TOP 17.1.5: Referentenentwurf vom 06.05.2019 zur KiBiz Revision hier: Erstinformation
+- TOP 17.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Hilfen zur Erziehung (HzE) Matrix
+- TOP 1.2: Ergänzung zum Sachstand Prüfung Nutzung des ehem. Ev. Gemeindezentrums Sternstraße (DS 5554/2019)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 29. Sitzung des Jugendhilfeausschusses am 11.03.2019
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
