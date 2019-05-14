@@ -1,0 +1,95 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2019-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5180147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5180147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP -: Antwortschreiben
+- TOP -: Sonstige Unterichtungen
+- TOP -: Meldelisten
+- TOP -: Sitzungsvorlagen
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 2.1.: (E) Stadtbezirksbudget ScienceLab e.V. Mint-Förderung in Grundschulen am Hasenbergl 1.860,00 € / Az. 0262.0-24-0258
+- TOP 2.2.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Einsatz des „Artmobils“ vom 28.06.-30.06.2019 und des Zirkus „Pumpernudl“ vom 09.09.-11.09.2019 2.631,00 Euro / Az. 0262.0-24-0259
+- TOP 2.3.: (E) Stadtbezirksbudget Blaskapelle Feldmoching e.V. Feldmochinger Dorffest am 13.07.2019 1.227,00 Euro / Az. 0262.0-24-0261
+- TOP 2.4.: (E) Stadtbezirksbudget Orchester München-Nord e.V. 40-Jähriges Jubiläum des Orchesters München Nord e.V. : Konzerte und Festschrift 2.423,38 € Az: 0262.0-24-0264
+- TOP 2.5.: (E) Stadtbezirksbudget TSV54-DJK München e.V. Spiel- und Trainingsausstattung zur Erweiterung der Juniorenabteilung 577,00 € Az: 0262.0-24-0264
+- TOP 2.6.: (E) Stadtbezirksbudget Initiative "Search(ing) Bodies" Tanz- und Theaterprojekt "Nähe" mit Seniorinnen und Senioren 3.720,00 € Az: 0262.0-24-0260
+- TOP 2.7.: (E) Stadtbezirksbudget Unternehmer für Feldmoching e.V Feldmochinger Frühlingsmarkt vom 30.03.-31.03.2019 3.200,00 Euro / Az. 0262.0-24-0256
+- TOP 2.8.: Entscheidung über Projektplanung gem. OB-Vollmacht: U-Bahnhof Feldmoching; Josef-Frankl-Straße - Fahrrad-Stellplatzanlage
+- TOP 2.9.: N Öffnung des Virginia-Depots für die Bürger - Workshop Empfehlung Nr. 14-20 / E 01418 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 30.03.2017
+- TOP 3.: Anträge
+- TOP 3.1.: Neubauplanungen im Stadtbezirk 24 (Anfrage)
+- TOP 3.2.: Nachverdichtung an der Ittlingerstraße; Bau der neuen Wohnungen als Studentenwohnheime
+- TOP 3.3.: Spielplatz Morriglstr. 3 - Störung der Anwohner
+- TOP 3.4.: Errichtung einer Ampel an der Kreuzung Karlsfelder Straße / Grashofstraße
+- TOP 3.5.: Stadtbezirksbudget (BSL); Grünstreifen auf der Straßenmitte der Schleißheimer Straße (ehemalige Straßenbahnlinie) in Bienenweide umwandeln
+- TOP 3.6.: Durchführung der Messung der PCB-Belastung an der Eduard-Spranger-Schule noch in diesem Jahr
+- TOP 3.7.: Fahrradabstellplätze für Interimsgymnasium
+- TOP 3.8.: Josef-Frankl-Straße: Parken, Haltverbot und Bushalte-Bucht
+- TOP 3.9.: Fotoprojekt "Platz da für Mädchen* und junge Frauen*" des KJR
+- TOP 3.10.: N Stadtbezirksbudget (BSL); Neugestaltung Unterführungen Lerchenauer See und Fasaneriesee
+- TOP 3.11.: N Einladung Vertretung Sozialreferat zum Thema Haus Wilhelmine
+- TOP 3.12.: N Verlängerung der Buslinie 172 von Am Hart bis Dachau auch an Samstagen und Sonntagen
+- TOP 5.2.1.: N Schlottwiesenweg 3
+- TOP 5.2.2.: N Richardstr. 11
+- TOP 5.3.1.: Kreisjugendring Zirkus Nordini vom 29.07. - 03.08.2019, Zirkuswiese Weitlstraße
+- TOP 5.3.2.: Straßenfest der Interessengemeinschaft Fasanerie aktiv e.V. am 20.07.2019 in der Schneeglöckchenstraße
+- TOP 5.3.3.: N Kulturfestival Tokat e.V. am 29.06.2019 auf dem Walder-Sedlmayr-Platz
+- TOP 5.3.4.: N Fahrradrallye für Behinderte und Nichtbehinderte am 25.05.2019 am Feldmochinger See
+- TOP 5.3.5.: N Spielefest am Wochenmarkt am 06.07.2019, Lassallestraße
+- TOP 5.3.6.: N 8. Mira Radtour am 28.07.2019, Schleißheimer Str. 506 – Fortnerstraße – über Am Frauenholz ins Hartelholz,...
+- TOP 5.4.1.: MVG - Leistungsprogramm 2020
+- TOP 5.4.2.: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die Münchner Realschulen und Gymnasien - Fortschreibung - Beschlussentwurf -
+- TOP 5.4.3.: Austausch von Lichtsignalanlagen: Eduard-Spranger-Str. / Weitlstr.
+- TOP 5.4.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Grohmannstraße
+- TOP 5.4.5.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Pappelallee / Am Schnepfenweg: Einrichtung eines Verkehrshelferüberganges b) Ponkratzstr.: Einrichtung eines absoluten Haltverbots c) Auf den Schrederwiesen 27: Hotelanfahrtszone
+- TOP 5.4.6.: N Neubau von zwei Lichtsignalanlagen an der Georg-Zech-Allee
+- TOP 5.4.7.: N Strukturkonzept für den Bereich der Eggartensiedlung,... - Beschlussentwurf (BVE-Nrn. 14-20 / E 01936, E 02551, E 02548, E 02552)
+- TOP 5.4.8.: N Siedlung Ludwigsfeld – Grundsatzbeschluss... - Beschlussentwurf
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Spielefest des KJR auf dem Walter-Sedlmayer-Platz am 24.05.2019 (Zustimmung des BA-Vorsitzenden gem. § 20 Abs. 1 BA-Satzung)
+- TOP 6.2.: Verlegung des Verkehrshelferüberganges in der Waldmeisterstraße (Zustimmung des BA-Vorsitzenden gem. § 20 Abs. 1 BA-Satzung)
+- TOP 6.3.: Verkehrssituation Feldmoching: a) Parksituation am Gottesackerweg und Herbergstraße b) Parken im Bereich der Hammerschmiedstraße c) Parken von Firmenfahrzeugen im Bereich Herbergstraße/Pflaumstraße
+- TOP 6.4.: VIB e.V. Familienfest vom 03. - 09.10.2019, Dülfer Anger
+- TOP 6.5.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München
+- TOP 6.6.: Installation einer Wasserpumpe nahe der Hochbeete auf dem Goldschmiedplatz
+- TOP 6.7.: Erneuerung und Erstellung einer Fahrbahnmarkierung für Radfahrer BA-Antrag Nr. 14-20 / B 05144 - Mitteilung über die Ausführung
+- TOP 6.8.: Ansaat einer insektenfreundlichen Blumenwiese bei den Hochbeeten am Goldschmiedplatz
+- TOP 6.9.: "Radfahrer frei" Schild für Gehweg vom Stanigplatz bis zur Linkstraße
+- TOP 6.10.: Anträge aus der 17. Kinder- und Jugendsprechstunde vom 22.02.2019; Antrag Nr. 17/14: Mehr Mülleimer für den Stadtteil
+- TOP 6.11.: Verkleinerung der Anzahl der Schüler pro Schulvorkurs sowie ein ausreichendes Angebot an Vorkursen
+- TOP 6.12.: Anbieten von Veranstaltungen zum Thema „Plastikproblematik" und "Vermeiden von Plastikmüll“ an Grundschulen im 11. Stadtbezirk
+- TOP 6.13.: Stellenbewirtschaftung für Münchner JaS-Fachkräfte Ausweitung des Stellenschlüssels an der Grundschule Thelottstr. 20
+- TOP 6.14.: Erläuterungsschilder zur Erinnerung an NS-Verfolgte und Widerstandskämpfer im 24. Stadtbezirk
+- TOP 6.15.: Daten Pegel Feldmoching
+- TOP 6.16.: Meldelisten Bauvorhaben
+- TOP 6.17.: Meldelisten Baumfällungen
+- TOP 6.18.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 6.19.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP 6.20.: (U) Verbesserung der Infrastruktur in der Siedlung am Lerchenauer See Antrag Nr. 14-20 / A 02402 ................................ Einrichtung eines Nachbarschaftstreffs im Bereich der Siedlung am Lerchenauer See (Ziff. 2) Empfehlung Nr. 14-20 / E 00905 ......................... Kostenlose Begegnungsstätten für Jung und Alt sowie Inklusion aller Nationen Empfehlung Nr. 14-20 / E 01934 ..................... Einrichtung eines Nachbarschaftstreffs in der Siedlung am Lerchenauer See Empfehlung Nr. 14-20 / E 02562....................... 24. Stadtbezirk - Feldmoching-Hasenbergl
+- TOP 6.21.: Parksituation Wohnsiedlung Ludwigsfeld
+- TOP 6.22.: Errichtung einer Bedarfsanlage sowie 30-Zone in der Feldmochinger Straße auf Höhe der Ponkratzstraße
+- TOP 6.23.: Dienststellenverständigung: GS Waldmeisterstraße 38, Erweiterung Pavillonanlage und Abbruch Bestandsgebäude
+- TOP 8.1.: Protokoll der Sitzung vom 12.03.2019 (nach Genehmigung in der Sitzung am 10.04.2019)
+- TOP 8.2.: Fraktionsübergreifendes Positionspapier des Bezirksausschuss 1 Altstadt - Lehel zur Verkehrsentwicklung Altstadt
