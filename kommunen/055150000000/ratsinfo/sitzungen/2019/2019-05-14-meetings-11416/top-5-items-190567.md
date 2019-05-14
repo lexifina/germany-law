@@ -1,0 +1,8 @@
+# TOP 5: Entwicklung eines Qualitätsmanagements für Sprachkurse für Flüchtlinge - Antrag Nr. A-R/0007/2018 der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/GAL vom 19.01.2018
+
+- Sitzung: Sitzung (2019-05-14)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/190567
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/68536
