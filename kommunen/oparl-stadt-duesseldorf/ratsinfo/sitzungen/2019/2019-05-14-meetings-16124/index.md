@@ -1,0 +1,51 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-14T17:00:00+02:00
+- Ende: 2019-05-14T22:15:00+02:00
+- Ort: Bachstraße 145, 40217 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16124
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16124
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00341943.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00341943.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00341943.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift 3/2019 vom 12.03.2019 - mehrheitlich beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Beschlossene Zuschussanträge 1/2019 - zur Kenntnis genommen
+- TOP 5: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 6: Wim-Wenders-Gymnasium, Neubau eines 4-zügigen Gymnasium und einer Dreifachsporthalle - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - mehrheitlich beschlossen
+- TOP 17: Anregungen und Beschwerden aus der Bürgerschaft - zur Kenntnis genommen
+- TOP 18: Ergänzungsantrag zur Beschlussvorlage 66/ 52/2019: Einrichtung eines Parkraumbewirtschaftungskonzept - zur Kenntnis genommen
+- TOP 19: Friedrich- / Bachstraße; Baumfällung - mehrheitlich beschlossen
+- TOP 19.1: Einrichtung einer ÖPNV-Spur Himmelgeister Straße in Fahrtrichtung Bilk vor der Kreuzung Auf´m Hennek - einstimmig beschlossen
+- TOP 20: Baumpflanzungen Suitbertusstraße - vertagt
+- TOP 21: Sozialer Wohnungsbau - schriftlich beantwortet
+- TOP 22: Schadhaftes Pflaster rund um die Gehry-Bauten - vertagt
+- TOP 23: Blühwiese auf dem „Waaser-Hill“ - schriftlich beantwortet
+- TOP 23.1: Bilker Allee 233; Tankstelle - einstimmig beschlossen
+- TOP 24: Dringlichkeitsbeschluss; Grundschule Heinsenstraße - einstimmig beschlossen
+- TOP 25: Fassadengestaltung Franz-Jürgens-Berufskolleg - einstimmig abgelehnt
+- TOP 26: Bahnunterführung Bachstraße - einstimmig beschlossen
+- TOP 26.1: Hellriegelstraße; Gleisschleife Bücherschrank - einstimmig beschlossen
+- TOP 27: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 28: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsganges an Gymnasien - zur Kenntnis genommen
+- TOP 29: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 30: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
