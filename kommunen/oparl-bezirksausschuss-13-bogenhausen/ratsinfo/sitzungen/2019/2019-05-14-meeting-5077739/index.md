@@ -1,0 +1,129 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2019-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5077739
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5077739
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.4.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.7.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 2.5.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.1.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung in der Eggenfelderstraße, Hultschiner Straße, Töginger Straße; Anhörung Referat für Stadtplanung und Bauordnung
+- TOP 2.2.2.: Hultschiner Str.: Verkauf einer städtischen Immobilie; Anhörung des Kommunalreferates vom 10.04.2019
+- TOP 2.2.3.: Schaffung von bezahlbarem Wohnraum für Studierende und Auszubildende durch Überbauung des Parkplatzes am Cosimawellenbad; Antrag SPD-Fraktion
+- TOP 2.2.5.: Aufstellen einer BA-Infotafel im Prinz-Eugen-Quartier
+- TOP 2.3.1.: (E) Verbesserung der Fußgänger- und Radsituation am Prinzregentenplatz
+- TOP 2.3.2.: Möhl- und Hompeschstraße: Anordnung von Tempo 30 (Kitas); Anhörung des Kreisverwaltungsreferats vom 01.04.2019
+- TOP 2.3.3.: Gebelestraße: Anordnung eines absoluten Haltverbots
+- TOP 2.3.4.: MVG Leistungsprogramm 2020 Anhörung der Bezirksausschüsse Frist: 17.05.2019
+- TOP 2.3.5.: Stradellastraße - einschließlich Kurvenbereich Ecke Rienziplatz: Haltverbot (Rettungsweg); Unterrichtung Kreisverwaltungsreferat
+- TOP 2.3.6.: Effnerstraße zwischen Effnerplatz und Lohengrinstraße: Beschränkung der zulässigen Höchstgeschwindigkeit auf 50 km/h; Unterrichtung Kreisverwaltungsreferat
+- TOP 2.3.7.: Kennzeichnung der Feuerwehrzufahrten am Fritz-Meyer-Weg 38-44; Bürgeranliegen vom 12.04.2019
+- TOP 2.3.8.: Radroute von Denning zum Feringasee Vertagung aus der Sitzung vom 09.04.2019 => dazu: nochmaliges Schreiben des Antragstellers vom 21.04.2019
+- TOP 2.3.9.: Positionspapier des BA 1 zur Verkehrsentwicklung Altstadt
+- TOP 2.3.10.: Denninger Straße: Mehr Sicherheit und Attraktivität für Radverkehr (vertagt aus der Sitzung vom 09.04.2019, TOP 2.3.10); Antrag DacG/ÖDP-Fraktion
+- TOP 2.3.11.: Entlastung der S8-Linie zu Spitzenzeiten; Antrag CSU-Fraktion
+- TOP 2.3.12.: Schaffung von zusätzlichen PKW-Stellplätzen vor dem Bürgerpark Oberföhring; Antrag SPD-Fraktion
+- TOP 2.3.13.: Hochstiftsweg jetzt umwidmen ! Barrierefreiheit für Anwohner mit Handicaps !; Antrag CSU-Fraktion
+- TOP 2.3.14.: - Schaffung einer neuen Fahrradunterführung an der Max-Joseph-Brücke, Antrag BAc 13 - Bericht vom Ortstermin Kanalbaumaßnahme Montgelasstraße, Radwegführung am 02.05.2019
+- TOP 2.3.15.: Einheitliche Montage bei der Aufstellung oder Renovierung von Buswartehäuschen
+- TOP 2.3.16.: Änderung des Fahrplans der Buslinie 154 (Nachfrage zu BA-Antrag 14-20 / B 04837)
+- TOP 2.3.17.: Verschiedenes, Termine
+- TOP 2.3.18.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.1.: (E) Stadtbezirksbudget SV Helios Daglfing e.V. Anschaffung notwendigen Gebrauchsbedarfs zum Sportbetrieb 12.580,25 € / Az. 0262.0-13-0197
+- TOP 2.4.2.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. Barrierefreies Maifest am 01.05.2019 1.638,75 € / Az. 0262.0-13-0198
+- TOP 2.4.3.: (E) Stadtbezirksbudget Atelierhaus FOE e.V. Ausstellung inkl. Audioperformance vom 08. - 19.05.2019 1.000,00 € / Az. 0262.0-13-0200
+- TOP 2.4.4.: (E) Stadtbezirksbudget Kreisjugendring München Stadt 50-Jahrfeier Jugendtreff Cosimapark am 24.05.2019 2.980,00 € Az: 0262.0-13-0199
+- TOP 2.4.5.: (E) Stadtbezirksbudget Initiative Papiertheaterfestival im Bürgerpark 3. Papiertheaterfestival vom 17.-20.10.2019 3.000,00 € Az: 0262.0-13-0201
+- TOP 2.4.6.: (E) Stadtbezirksbudget Isarlust e.V. Isarboulevard vom 25.05. - 31.12.2019 5.971,00 € Az: 0262.0-13-0202
+- TOP 2.4.7.: (E) Stadtbezirksbudget Wohnen im Alter im Cosimapark e.V. Infoveranstaltung am 05.07.2019 550,00 € / Az. 0262.0-13-0203
+- TOP 2.4.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.9.: Verschiedenes, Termine
+- TOP 2.5.2.: (E) Errichtung eines Fitnessplatzes (Calisthenics) auf dem Böhmerwaldpark Empfehlung Nr. 14-20 / E 02238 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 25.10.2018
+- TOP 2.5.3.: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung; Anhörung Referat für Bildung und Sport
+- TOP 2.5.4.: Standortsuche für Naturkinder Prinz-Eugen-Park – Bericht des Ortstermins vom 08.04.2019
+- TOP 2.5.5.: Einrichtung eines zweiten Damen-Saunatages im Cosimawellenbad; Bürgeranliegen
+- TOP 2.5.6.: Umweltfreundliche Alternativen für Kunstrasenplätze im Stadtbezirk verwenden; Antrag SPD-Fraktion
+- TOP 2.5.7.: Kurzfristig Zusatzflächen für Rot-Weiß-Oberföhring schaffen; Antrag SPD-Fraktion
+- TOP 2.5.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.9.: Verschiedenes, Termine
+- TOP 2.5.10.: Naturkindergarten Prinz-Eugen-Park; Antrag Bündnis 90/Die Grünen-Fraktion dazu: Bürgeranliegen
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Böhmerwaldplatz 6 (lt. Plan) Daglfinger Str. 101 (lt. Plan) Graudenzer Str. 11 (lt. Plan) Memeler Str. 110 (lt. Plan) Prinzregentenstr. 159 (lt. Plan) Beuthener Str. 33 (lt. Plan) Spervogelstr. 4 (lt. Plan) Am Eicherhof 13: 1 Spitzahorn Elsastr. 22: 1 Birke, 1 Lärche Friedrich-Eckart-Str. 21: 1 Douglasie Hans-Heiling-Str. 7: 2 Robinien Möhlstr. 18: 4 Fichten Alsenweg 20: 3 Birken Stradellastr. 6: 3 Bäume Soldauer Str. 24: 1 Kiefer Marienwerderstr. 8: 2 Bäume Oberföhringer Str. 109-111 lt. Plan Oberföhringer Str. 113 lt. Plan
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Buschingstr. 6 (2 Birken); Cosimastr. 101 (1Mehlbeere); Grüntal 28 (1 Kiefer); Keplerstr. 12 (1 Birke); Maria-Theresia-Str. 29 (1 Ahorn); Regensburger Platz 1 (1Blaufichte); Savitsstr. 20 (1 Fichte)
+- TOP 2.6.3.: Baumfällung Haus für Kinder Schwarzwaldstr. 2; Anhörung Baureferat
+- TOP 2.6.4.: Zaunaufstellung vor dem SBZ; Bürgeranliegen
+- TOP 2.6.5.: Straßengestaltung und Straßengrün im Prinz-Eugen-Park; Bürgeranliegen vom 10.03.2019 (Verweis aus dem UA Verkehr aus der Sitzung vom 09.04.2019, TOP 2.3.15)
+- TOP 2.6.6.: Pilotprojekt im 13. Stadtbezirk: Ergänzen der Mülleimer mit Aschenbechern auf einem Streckenabschnitt der Tram im BA 13 - Gebiet; Antrag SPD-Fraktion
+- TOP 2.6.7.: Power aus der Schallschutz-Mauer an der A94/Eggenfeldener Str. 64-92; Antrag DacG/ÖDP-Fraktion
+- TOP 2.6.8.: Grenzbegrünung des Wilhelm-Hausenstein-Gymnasiums am Ariadneweg; Bürgeranliegen
+- TOP 5.1.: Veranstaltung in städtischen Grünanlagen und Privatgrund Hier: In der Scheinerstraße, Soldnerweg: Patrozinium Heilig Blut am 07.07.2019; Anhörung des Kreisverwaltungsreferates vom 03.04.2019
+- TOP 5.2.: Veranstaltung auf öffentlichem Verkehrsgrundstück Hier: An der Cosimastraße, Englschalkinger Straße: Gastspielanfrage/Festival der Marionetten-Simon Maatz ; Anhörung des Kommunalreferates vom 02.04.2019
+- TOP 5.3.: Feuerwerk am 27.04.2019 in der Rennbahnstr. 35; Unterrichtung Kreisverwaltungsreferat
+- TOP 5.4.: Stellplatz für einen Lkw zur Bettfedernreinigung An der Marienburger Straße / Daglfinger Straße vom 12.-17.07.2019
+- TOP 6.1.: Verkehrslage Kreuzung Cosimastraße/Johanneskirchner Straße
+- TOP 6.2.: Neuplanung der Gemeinschaftsunterkunft Max-Pröbstl-Str. 12
+- TOP 6.3.: Findling für die Kapelle im Prinz-Eugen-Park
+- TOP 6.4.: Lützenkirchenstr. 27: Umbau und Aufstockung eines Wohnhauses - Beschwerde über Baumschutz
+- TOP 6.5.: Situation an der Kreuzung Krenklstraße/Rennbahnstraße sicherer gestalten
+- TOP 6.6.: Anlegen von Benjeshecken oder Wallhecken und Ackerrandstreifen zum Schutz der Bodenbrüter
+- TOP 6.7.: WLAN in Patientenzimmern
+- TOP 6.8.: Erhöhung des Umweltschutzes im Pühnpark
+- TOP 6.9.: Neugestaltung Herkomerplatz
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättengewerbes: - "Colombo", Prinzregentenplatz 23 - "Osteria Casa Mia", Cosimastr. 284 - "Umi" Name Vorgänger: "Artdeco", Ismaninger Str. 45
+- TOP 7.7.1.: (U) Münchner Nordosten Erhöhung Gesamtkosten Ideenwettbewerb Stadtbezirk 13 Bogenhausen Stadtbezirk 15 Trudering-Riem
+- TOP 7.7.2.: Weltenburg Str. : Fällungsantrag vom 14.03.2019
+- TOP 7.7.3.: Schönbergstr. 6: Fällungsantrag vom 18.03.2019
+- TOP 7.7.4.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 7.7.5.: Wohne in München Vl Erfahrungsbericht für das Jahr 2018 Sitzungsvorlagen Nr. 14-20 / V 14530
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: Adalbert-Stifter-Str. 31 + 33
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch: König-Heinrich-Str. 16
+- TOP 7.9.3.: Zweckentfremdung von Wohnraum durch Abbruch: Turfstr. 27
+- TOP 7.14.1.: (U) Kanalnetzsanierung in der Montgelasstraße; Neubau des Regenüberlaufes R159 und Neubau eines Dükers nördlich der Max-Joseph-Brücke im 12. Stadtbezirk Schwabing - Freimann und im 13. Stadtbezirk Bogenhausen Gesamtkosten (Kostenberechnung): 17 Mio. Euro brutto Projektgenehmigung
