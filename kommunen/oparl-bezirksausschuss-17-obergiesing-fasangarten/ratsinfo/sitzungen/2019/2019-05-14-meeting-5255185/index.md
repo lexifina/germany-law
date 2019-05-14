@@ -1,0 +1,156 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255185
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255185
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: "Angst vor Autolawine", Reaktion auf Artikel in der SZ Ausgabe 29.03.2019; Bürgeranliegen (Brief) vom 30.03.2019
+- TOP 2.1.2.2.: Baumaßnahmen in der Lincolnstaße; Bürgerschreiben (E-mail) vom 28.03.2019
+- TOP 2.1.2.3.: Erhalten der Sandspielfläche im Kronepark; Bürgerschreiben (E-mail) vom 27.03.2019
+- TOP 2.1.2.4.: Lärm- und Verkehrsbelastung Soyerhofstraße; Bürgeranliegen (E-mail) vom 28.03.2019
+- TOP 2.1.2.5.: Sichere Querungseinrichtung über Warngauer- und Untersbergstraße; Bürgerschreiben (E-mail) vom 14.04.2019
+- TOP 2.1.2.6.: Aufstellung von zwei Gartenbänken am Haupteingang des Altenheims St. Alfons, Bürgerschreiben (Email) vom 29.04.2019
+- TOP 2.1.2.7.: Umgestaltung des Louisoder-Spielplatzes und des Walchenseeplatzes; 2 Bürgerschreiben vom 03.04. und 12.04.19
+- TOP 3.9.1.1.: Prennstr. 55, 1 Eiche
+- TOP 3.9.1.2.: Pennstr. 57, 1 Eiche
+- TOP 3.9.1.3.: Bantingstr. 7, 3 Eichen
+- TOP 3.9.1.4.: Kiesmüllerstr. 20, 1 Fichte
+- TOP 4.1.: Kein Autobahn-Südring durch die Erholungsgebiete im Münchner Süden; Dringlichkeitsantrag der Fraktion Bündnis `90 / Die Grünen (vertagt vom 09.04.2019)
+- TOP 4.2.: Erweiterung von Tempo-30 km-Zonen in Obergiesing; Antrag der Freien Wähler
+- TOP 4.3.: Errichtung einer Erinnerungstafel im Bereich der Herbert-Quandt-Straße; Antrag der Freien Wähler
+- TOP 4.4.: Mögliche Absprache von LKW-Fahrer*innen bei allgemeinen Verkehrskontrollen; Anfrage der Fraktion Bündnis 90 / Die Grünen
+- TOP 4.5.: Frühere Räumung des Schnees in der Holtzendorffstraße; Antrag der Fraktion Bündnis 90 / Die Grünen
+- TOP 4.6.: Ergänzung rote Fahrbahnmarkierung am Radfahrweg entlang der Tegernseer Landstraße an der fehlenden Stelle zur Kiefernstraße; Antrag der CSU-Fraktion
+- TOP 5.1.1.: (E) Stadtbezirksbudget PA / Spielen in der Stadt e.V. Zirkus Pumpernudl vom 19. - 21.09.2019 1.446,00 € / Az. 0262.0-17-0201
+- TOP 5.1.2.: Beschlussfassung über die Finanzierung des BA-Jahresempfangs aus dem Budget-Anteil für BA-eigene Veranstaltungen; Summe: 3.000,- €
+- TOP 5.1.3.: (E) Stadtbezirksbudget Verein für Sozialarbeit e.V. Bürger- und Familienfest am 28.06.2019 8.700,00 € Az: 0262.0-17-0203
+- TOP 5.1.4.: (E) Stadtbezirksbudget Sozialstation Berg am Laim und Truderin gGmbH - Wohnen im Viertel Bepflanzung von Grabparzellen ab 01.06.2019 438,75 € Az: 0262.0-17-0204
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Vorschlag zur Kostenübernahme des BA 17 zur Unterstützung Unterhaltungsmaßnahmen der Dirtbike Anlage im Weißenseepark; Schreiben vom 09.04.2019
+- TOP 5.4.2.: Partizipatives Theater zum Thema "Einsamkeit in der Großstadt", Anfrage an den BA bezüglich Beteiligung an den Kosten; Schreiben (E-mail) vom 24.04.2019
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Vorlage für das Gebiet des Hachinger Tals a) Strukturkonzept b) BA-Antrag Nr. 14-20 / B 00335: Schließen der Radweglücke in der Unterhachinger Straße bis zur Höhe Zwergerstraße, Aufnahme von Verhandlungen mit der Gemeinde Neubiberg Referatsschreiben vom 01.04.2019 mit Bitte um Stellungnahme des BA zum Entwurf bis 13.05.2019
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 25.03.2019 bis 28.04.2019
+- TOP 6.1.4.2.: (U) Wohnen in München IV - Erfahrungsbericht für das Jahr 2018 > Kenndaten Erfahrungsbericht "Wohnen in München IV" 2018 > Diagrammatische Darstellung der Kenndaten
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.3.1.: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 6.2.4.1.: Fortführung des Projekts „Soziale Stadt Giesing“
+- TOP 6.2.4.2.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 6.2.4.3.: Soziale Stadt Giesing: Protokoll der Schulleitungsrunde vom 21.03.2019
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: MVG Leistungsprogramm 2020 Anhörung der Bezirksausschüsse Frist: 17.05.2019 zu 6.3.3.1 Stellungnahme des Arbeitskreises Attraktiver Nahverkehr im Münchner Forum zum Leistungsprogramm 2020 der MVG
+- TOP 6.3.3.2.: Deisenhofener-/ Schlierseestraße, Geplanter Austausch von Lichtsignalanlagen (Schreiben vom 09.04.2019); Bitte um Mitteilung bis 22.05.2019
+- TOP 6.3.3.3.: Candid-/ Grünwalder Straße, Geplanter Austausch von Lichtsignalanlagen (Schreiben vom 10.04.2019); Bitte um Mitteilung bis 21.05.2019
+- TOP 6.3.3.4.: Deisenhofener Straße 57-77, Radwegsanierung; Erinnerungsverfahren des Baureferates-Tiefbau vom 28.03.2019
+- TOP 6.3.3.5.: Saisonale Umnutzung von Straßenräumen (Sitzungsvorlage Nr. 14-20 / V 13626); Anhörung durch das Referat für Stadtplanung und Bauordnung zum Beschlussentwurf
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Berücksichtigung von Erfahrungswerten in Ergänzung zu reinen Berechnungsmodellen zur Verkehrsentwicklung im Rahmen der Ausweisung neuer privater und gewerblicher Baugebiete
+- TOP 6.3.4.2.: Rote Karte für Rennstrecken – Tempo 30 in der Perlacher Straße
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.3.6.1.: Positionspapier des BA 1 (Altstadt - Lehel) zur Verkehrsentwicklung Altstadt mit Bitte um Unterstützung; Schreiben vom 12.04.2019
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Kiosk am Grünspitz; Baumschutz; Bodenverdichtung und Versiegelung durch Kioskbetrieb
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Vollzug der abfall- und der imissionsschutzrechtlichen Bestimmungen, hier: Remondis Süd GmbH Neugenehmigungsantrag vom 27.06.2018 (zuletzt modifiziert mit Schreiben vom 09.04.2019) für Herbert-Quandt-Straße 1 und 7; Anhörung durch das Referat für Gesundheit und Umwelt
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Höherer Lärm-/Schallschutz für die Ab- und Anfahrt zum Mc-Graw-Graben und Candidtunnel; Schallschutzwand / Trennwand zwischen den Fahrbahnen auf der Tegernseer Landstraße (Empfehlung Nr. 08-14 / E 00984); Zwischennachricht an Bürger vom 26.03.2019
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung: "Sommer im Park" im Weißenseepark am 28.06.2019, Schreiben vom 17.04.2019
+- TOP 6.5.3.2.: Veranstaltung: "Giesinger Kirchplatzfest" vom 12. - 14.07.2019, Schreiben vom 17.04.2019
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 22.02.2017; hier: Antrag auf die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; Zeitungsentnahmegerät Schlierseestraße 33 (Bushaltestelle); Vorlage des Kreisverwaltungsreferates
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: BA-Informationsschreiben: Abrechnung der Aufwandsentschädigung; Schreiben des Direktoriums vom 02.04.2019
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
