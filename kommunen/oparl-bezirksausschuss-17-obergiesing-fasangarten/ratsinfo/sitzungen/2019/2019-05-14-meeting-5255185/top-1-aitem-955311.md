@@ -1,0 +1,7 @@
+# TOP 1.: Kiosk am Grünspitz; Baumschutz; Bodenverdichtung und Versiegelung durch Kioskbetrieb
+
+- Sitzung: BA 17 - Vollgremium (2019-05-14)
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/955311
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/955311
