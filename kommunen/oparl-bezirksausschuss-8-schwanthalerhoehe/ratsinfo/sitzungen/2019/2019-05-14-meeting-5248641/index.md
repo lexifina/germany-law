@@ -1,0 +1,81 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5248641
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5248641
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 10.1.: Errichtung eines Trinkwasserbrunnens am Georg-Freundorfer-Platz
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 7.3.2.: REGSAM; Fachtag Armut am 27.06.2019 - Finanzierung
+- TOP 3.1.: Saisonale Umnutzung von Straßenräumen; Projekt Schwanthalerstraße – Gestaltung der Bürgerbeteiligung; Sitzungvorlage Nr. 14-20 / V 13626
+- TOP 3.2.: AKIM; Vorstellung zum Saisonauftakt
+- TOP 4.1.: Lastenräder im Westend
+- TOP 4.2.: Ausschilderung U-Bahnhöfe
+- TOP 6.1.1.: Freischankfläche Schwanthalerstraße 123
+- TOP 6.2.1.: Bauvorhaben Fäustlestraße 14
+- TOP 6.2.2.: Bauvorhaben Fäustlestraße 12
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Bauvorhaben Gollierplatz 16
+- TOP 6.3.3.: Baumaßnahmen der SWM KW 14/15
+- TOP 6.3.4.: Begrünung Schwanthalerstraße zw. Ganghoferstraße und Martin-Greif-Straße
+- TOP 6.3.5.: Gaststättenfortführung Alter Messeplatz
+- TOP 6.3.6.: Bekämpfung der Zweckentfremdung von Wohnraum
+- TOP 6.3.7.: Wohnungsleerstand an der Grasserstraße
+- TOP 6.3.8.: Erhalt des Hauses mit der roten Fahne
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Schulbauoffensive 2013 / 30; Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Platz da für Mädchen* und junge Frauen* - Fotoprojekt des KJR
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Sommerfest Die Linke 05.07. bis 07.07.2019 auf dem Georg-Freundorfer-Platz
+- TOP 8.2.2.: Kiks-Festival von 06.06. bis 12.06.2019 auf dem Schneckenplatz
+- TOP 8.2.3.: Patrozinium Hl. Georg am 26.05.2019 auf dem Gollierplatz
+- TOP 8.2.4.: MVG-Leistungsprogramm 2020
+- TOP 8.2.5.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Landsberger Str. 115
+- TOP 8.2.6.: Baumfällung Theresienhöhe 13
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Baumfällungen auf der Zirkuswiese
+- TOP 8.3.2.: Instandhaltungsmaßnahmen im Bavariapark Protokoll Ortstermin vom 26.03.2019
+- TOP 8.3.3.: Anordnung eines allgemeinen Behindertenparkplatzes in der Fäustlestraße 5a
+- TOP 8.3.4.: Versammlung Matthias-Pschorr-Str., Bavaria am 15.05.2019
+- TOP 8.3.5.: Maßnahmen zur Luftverbesserung im 8. Stadtbezirk
+- TOP 8.3.6.: Gefahrenbaumentfernung im Bavariapark
+- TOP 8.3.7.: Erfahrungsbericht Oktoberfest 2018
+- TOP 8.3.8.: Wanderbaumallee vom 03.05.19 bis 07.06.19 auf den Gehwegen der Landsbergerstraße 69 - 108
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Mischwald e.V. Ausstellung und Filmvorführung am 25.05.2019 320,00 € / Az. 0262.0-8-0185
+- TOP 9.1.2.: (E) Stadtbezirksbudget Mischwald e.V. iRRland-Kunstfestspiele vom 05.-09.06.2019 980,00 € / Az. 0262.0-8-0186
+- TOP 9.1.3.: (E) Stadtbezirksbudget Kinderhaus SchwanthalerFlöhe e.V. Anbringung einer Außenverschattung 10.268,89 € / Az. 0262.0-8-0183
+- TOP 9.1.4.: (E) Stadtbezirksbudget Kultur- und Vereinskeller D&#039;Schwanthaler Höh&#039; e.V. Konzertveranstaltungen währen der Kulturtage „Westend hat ein Gesicht“ vom 29.06. - 06.08.2019 825,00 € Az: 0262.0-8-0181
+- TOP 9.1.5.: (E) Stadtbezirksbudget Lora Förderverein e.V. Radio-Fenster der Schwanthalerhöhe vom 01.06.2019 - 31.05.2020 3.909,80 € Az: 0262.0-8-0184
+- TOP 9.1.6.: Budgetantrag des August-Kühn Vereins; Wiederauflage des Buches "Westendgeschichten" von August Kühn
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: Oktoberfest 2019; Reservierung der Ratsboxe
+- TOP 11.2.: Erstellung einer Stadtbezirksbroschüre
+- TOP 11.3.: Errichtung einer mobilen Eislauffläche auf der Theresienwiese in den Wintermonaten
+- TOP 11.4.: Rückbau der provisorischen Beleuchtungskörper in der Trappentreustr. 34 und Anglerstraße 11
