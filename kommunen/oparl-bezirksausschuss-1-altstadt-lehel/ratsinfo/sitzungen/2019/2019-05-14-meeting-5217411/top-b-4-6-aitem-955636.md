@@ -1,0 +1,7 @@
+# TOP B 4.6.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+
+- Sitzung: BA 01 - Vollgremium (2019-05-14)
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/955636
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/955636
