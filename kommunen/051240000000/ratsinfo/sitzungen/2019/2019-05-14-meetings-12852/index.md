@@ -1,0 +1,78 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-05-14T16:06:00+02:00
+- Ende: 2019-05-14T18:12:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12852
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12852
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen (06.05.19) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00236528.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00238551.pdf
+
+## Tagesordnung
+
+- TOP 1: Kommunalfinanzen – Mit dem Überschuss zur Entschuldung!? - Am Beispiel der Stadt Wuppertal
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 2.1.1: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal (GMW) für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss 2018 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 2.2.1: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2018 - vertagt auf Rat
+- TOP 2.3: Jahresabschluss der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2017/2018 - ungeändert beschlossen
+- TOP 2.3.1: Entlastung des Aufsichtsrates der Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2017/2018 - ungeändert beschlossen
+- TOP 2.4: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2017/2018 - ungeändert beschlossen
+- TOP 2.4.1: Entlastung des Beirates der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2017/2018 - ungeändert beschlossen
+- TOP 2.5: Jahresabschluss 2017 der Eymann-Schaefer Windkraft GmbH & Co. KG (künftig Windkraft Kahlenberg III GmbH & Co. KG) - ungeändert beschlossen
+- TOP 2.6: Jahresabschluss der Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 2.7: Jahresabschluss der Lokalfunk Beteiligungsgesellschaft mbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan für die Wuppertaler Bühnen und Sinfonieorchester GmbH für das Geschäftsjahr 2019/2020 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2019/2020 - ungeändert beschlossen
+- TOP 4: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 4.1: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 31.03.2019 - Entgegennahme ohne Beschluss
+- TOP 4.2: Bestellung eines Abschlussprüfers für die Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 4.3: Fortführung und Weiterentwicklung der EKOCity Entsorgungskooperation - ungeändert beschlossen
+- TOP 4.4: Wechsel in der Geschäftsführung der Helios Klinikum Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 4.5: Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 4.5.1: Antwort auf die Große Anfrage Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 4.6: Engies Verkauf der Anteile am Kohlekraftwerk Wilhelmshaven, Auswirkungen auf Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 6: Berichtsvorlagen
+- TOP 6.1: Umsetzung des Konzeptes für Personal- und Organisationsentwicklung / Ergänzung - Entgegennahme ohne Beschluss
+- TOP 6.2: Engelsjahr 2020 - Aktueller Planungsstand und Gesamtfinanzierung - Entgegennahme ohne Beschluss
+- TOP 7: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 7.1: Umsetzungskonzept zur Bürgerbeteiligung an der Haushaltsplanung 2020/2021 - ungeändert beschlossen
+- TOP 7.2: Aktendigitalisierung über einen Rahmenvertrag bei dem Dachverband kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 7.3: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 7.4: Ausschreibung des Innenstadtmanagements Barmen - ungeändert beschlossen
+- TOP 7.5: Bauliche Maßnahmen Rettungsdienst zur Umsetzung der Rettungsdienstbedarfspläne 2016 und 2017 an verschiedenen Standorten - ungeändert beschlossen
+- TOP 7.6: Digitalisierung kommunaler Verkehrssysteme - Verkehrstechnische Projekte im Rahmen des "Green-City-Plan" der Stadt Wuppertal - vertagt auf Rat
+- TOP 7.7: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2019 für das Altenzentrum Wuppertaler Hof - ungeändert beschlossen
+- TOP 7.8: Entgelte für Kindertagespflege auf 4,20 € für die Förderleistung festzulegen - vertagt auf Rat
+- TOP 7.9: Prüfauftrag Schul(neu)bau - ungeändert beschlossen
+- TOP 7.10: Gelder der Integrationspauschale zielgruppengenau verwenden - abgelehnt
+- TOP 7.11: Vorbereitung der Gründung einer Gesellschaft für Stadtentwicklung - vertagt auf Rat
+- TOP 7.12: Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten. - vertagen
+- TOP 7.13: Dritte Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich - vertagt auf Rat
+- TOP 7.14: Änderung der Entgeltordnung für den Zoologischen Garten - vertagen
+- TOP 8: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 9: Berichtsvorlagen
+- TOP 9.1: Finco-Bericht zum 31.03.2019 - Entgegennahme ohne Beschluss
+- TOP 9.2: Stand der Schulden und Kassenkredite zum 31.03.2019 - Entgegennahme ohne Beschluss
+- TOP 9.3: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 10: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10.1: Bereitstellung außerplanmäßiger Haushaltsmittel/Anschaffung von Fallen zum Fangen von besenderten Tieren in großen Anlagen - ungeändert beschlossen
+- TOP 10.2: Rechtsberatung zum Themenkomplex ASS / WMG - Bereitstellung überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 10.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2018 - ungeändert beschlossen
+- TOP 11: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das IV. Quartal 2018 - Entgegennahme ohne Beschluss
+- TOP 12.2: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das I. Quartal 2019 - Entgegennahme ohne Beschluss
+- TOP 13: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 14: Berichte und Mitteilungen
