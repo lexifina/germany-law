@@ -1,0 +1,122 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2019-05-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5217411
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5217411
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP A: Allgemeines
+- TOP 4.1.: Oktoberfest 2019 – Reservierung in der Ratsboxe Wunschtermine mit Zeitraum und Teilnehmerzahl
+- TOP 6.1.: Anfrage der Fraktion Bündnis 90-Die Grünen: Der Georg-Kronawitter-Platz und die Beteiligung des BA 1 – Wer hat wann was gemacht?
+- TOP B: Planen, Bauen, Wohnen
+- TOP 3.1.1.: Weinstr. 7 - 7a: Neubau eines Geschäfts- und Hotelgebäudes sowie einer Gaststätte mit Freischankfläche (Filserbräugasse / Sporerstr. 3 / Weinstr. 6 - 7a) - TEKTUR
+- TOP 3.1.2.: Müllerstr. 26: Nutzungsänderung einer Bank (EG, KG) in eine Beratungsstelle (sozialer Einrichtung - Lesbenzentrum)
+- TOP 3.2.1.: Anhörungsrecht bei Vorbescheidsanträgen – Änderung der BA-Satzung (vertagt aus 04/19)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 0.1.: Vorstellung "Temporärer und dauerhafter Isarboulevard" durch Isarlust e. V.
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Verkürzung der Betriebszeiten der Freischankflächen am St.-Anna-Platz (vertagt aus 04/19)
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: caffè brienner – Café, Vinothek, Tapasbar Brienner Str. 1 (Neuerrichtung) – Antrag auf Genehmigung einer Freischankfläche Bericht des Ortstermins am 02.05.2019
+- TOP 2.2.1.: Robert-Koch-Str. 16: Aufstellen von mobilen Fahrradständern
+- TOP 2.2.2.: Marienplatz 28 vor Fa. Wormland: Antrag für eine Warenauslage
+- TOP 2.3: Sonstige
+- TOP 2.3.1.: Entscheidung über Flohmarkt (Bücherflohmarkt) auf öffentlichem Verkehrsgrund, Isarpromenade am 29.06.2019 (Ersatztermin am 06.07.2019)
+- TOP 3: Anhörungen
+- TOP 3.1.1.: StadtLesen auf dem Odeonsplatz vom 03.10. - 06.10.2019
+- TOP 3.1.2.: Bücherflohmarkt am 29.06.2019 in der Widenmayerstraße
+- TOP 3.1.3.: Bennofest am 15./16.06.19 am Frauenplatz
+- TOP 3.1.4.: Stadtgründungsfest am 15./16.06.2019 in der Innenstadt rund um den Marienplatz
+- TOP 3.1.5.: Oper für alle am 06.07.2019 auf dem Max-Joseph-Platz und am 20.07.2019 auf dem Marstallplatz
+- TOP 3.1.6.: Streetlife Festival / Corso Leopold am 25.05. und 26.05.2019 zwischen Odeonsplatz und Leopoldstraße
+- TOP 3.1.7.: SPD Wahlkampfkundgebung am 20.05.2019 auf dem Odeonsplatz
+- TOP 3.1.8.: Pfarrfest am 23.06.2019 in der St.-Anna-Straße
+- TOP 3.1.9.: Große Stadtfronleichnam mit Gottesdiensten und Prozession ab Marienplatz zum Königsplatz am 20.06.2019
+- TOP 3.1.10.: UniCredit Festspielnacht am 29.06.2019 (u.a. Odeonsplatz, FÜNF HÖFE, Kardinal-Faulhaber-Str., Literaturhaus, Salvatorstr./Platz, Salvatorkirche, Theatinerhof)
+- TOP 3.2: Sonstige
+- TOP 3.2.1.: Planung Christkindlmarkt 2019 im Bereich des Alten Peters
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Bürgeranliegen, Sonnenstr. 29: Schaffung von Parkplätzen zur Patientenabholung
+- TOP 1.2.: Bürgeranliegen, Verbesserung der Verkehrssicherheit im Bereich der Oettingenstraße
+- TOP 1.3.: Bürgeranliegen, Abzweigung Prinzregentenstraße in die Lerchenfeldstraße: Anordnung eines LKW Ein-/Durchfahrtsverbotes ab 3,5t
+- TOP 1.4.: Antrag der SPD-Fraktion Verkehrsberuhigung durch Veränderungen an den Bushaltestellen Prälat-Zistl-Straße/Rosental
+- TOP 1.5.: Bürgeranliegen, Aktuelle problematische Situation im Englischen Garten (Vermüllung, Drogen)
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Zulässigkeit von "Bierbikes"
+- TOP 2.2.: (E) Markierung zugewiesener Behindertenparkplätze
+- TOP 3: Anhörungen
+- TOP 3.1.: Leistungsprogramm 2020 für den Fahrplanwechsel am 15.12.2019
+- TOP 3.2.: Antrag auf Baumfällungen, Isartorplatz 8
+- TOP 3.3.: Herzog-Wilhelm-Straße 24, Haus Evangelisches Forum: Schaffung von Radstellplätzen durch Umwandlung von Kfz-Stellplätzen? (vertagt aus 04/19)
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Verein für Fraueninteressen e.V. Projekt „25 Jahre Spurwechsel ab 55“ am 27.10.2019 979,75 € Az: 0262.0-1-0154
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Herrnstraße Projektwoche Bayern meine Heimat vom 03.-07.06.2019 930,00 € Az: 0262.0-1-0155
+- TOP 2.3.: (E) Stadtbezirksbudget BürgerStiftung München Arabische Samstagsschule für Kinder vom 16.05. - 22.12.2019 4.500,00 € Az: 0262.0-1-0156
+- TOP 2.4.: (E) Stadtbezirksbudget Initiative "Stadtteilfußball am Hirschanger" Anschaffung von sportlicher Ausrüstung 484,99 € Az: 0262.0-1-0158
+- TOP 2.5.: (E) Stadtbezirksbudget Isarlust e.V. Isarboulevard vom 25.05. - 31.12.2019 5.974,00 € Az: 0262.0-1-0159
+- TOP 3: Anhörungen
+- TOP 3.1.: Zuwendung aus dem Stadtbezirksbudget: Antrag der Initiative "Taubenhaus" am 20.05.2018 - Erhöhung des Zuwendungsbetrages
+- TOP 3.2.: Schulbauoffensive (SBO) 2013/2030 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung - Beschlussvorlage für den Bildungsausschuss -
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: Tal 32: Nutzungsänderung Wohnen zu Büro Vollzug der Satzung der Landeshauptstadt München über das Verbot von Zweckentfremdung von Wohnraum (ZeS)
+- TOP B 4.3.: (U) Perspektive München Fortschreibung des Zentrenkonzeptes Grundsatzbeschluss
+- TOP B 4.4.: Tal 8 / RGB: Nutzungsänderung: Dachterrasse zu Gastgarten mit Neuerrichtung Zugangstreppenpodest Rückmeldung der LBK zur Stellungnahme vom 23.01.2019
+- TOP B 4.5.: Wettbüro Westenriederstr. 18 - Rückmeldung der LBK zur Nachfrage aus der Sitzung vom 09.04.2019
+- TOP B 4.6.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP B 4.7.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP B 4.8.: (U) Bebauungsplan Nr. 1975a Neuhauser Straße (nördlich), Kapellenstraße (östlich) - „Alte Akademie“ - - Billigungsbeschluss - Stadtbezirk 1 - Altstadt-Lehel
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.3.: Wertstoffcontainer an der Seitzstraße - Rückmeldung der AWM
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Sendlinger Straße, zwischen Hackenstraße und Herzog-Wilhelm-Straße: Umgestaltung in eine Fußgängerzone - Anliegerinformation
+- TOP D 4.2.: Nutzungsanalyse für Parkplätze im Lehel
+- TOP D 4.3.: Herstellung einer Abbiegemöglichkeit von Franz-Josef-Strauß-Ring in Hofgartenstraße: Notwendige Baumfällung
+- TOP D 4.4.: (U) Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum Ergebnisse der Verkehrsuntersuchung Ergebnisse der Verkehrsuntersuchung Stadt und Fluss, Rahmenplanung innerstädtischer Isarraum BA-Antrags-Nr. 14-20 / B 05843 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019 Rahmenplanung innerstädtischer Isarraum: Ab Rosenheimer Platz stadteinwärts: Radfahrstreifen während der Sanierungsarbeiten BA-Antrags-Nr. 14-20 / B 05844 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019
+- TOP D 4.5.: Liebigstraße als Fahrradstraße: Umsetzung der Anordnung?
+- TOP D 4.6.: Vorschlag für Radlständer am Rindermarkt - Rückmeldung des Baureferats zu einem Bürgeranliegen
+- TOP D 4.7.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Pacellistr. 5
+- TOP D 4.8.: Blumenstr., Corneliusstr., Müllerstr.: Verlegung einer Stromtrasse sowie Leerrohreinbau für Straßenquerungen
+- TOP D 4.9.: Herzog-Wilhelm-Str. zwischen Sendlinger Str. und Kreuzstr.: Fernkälteleitung, Totalsperre der Herzog-Wilhelm-Str. in diesem Abschnitt
+- TOP D 4.10.: (E) Fahrradständer in der Prannerstraße (Löwentor) Empfehlung Nr. 14-20 / E 02191 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 18.10.2018
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.1.: Stadtbezirksbudget, Nachweise und Berichte
