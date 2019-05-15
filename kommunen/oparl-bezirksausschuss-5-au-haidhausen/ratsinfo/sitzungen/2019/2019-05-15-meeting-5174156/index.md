@@ -1,0 +1,176 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-05-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174156
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174156
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP 4.1.: Vorstellung der Welfengärten, Lärmschutzwand und Tassiloplatz
+- TOP A: Allgemeines
+- TOP 4.2.1.: Beschwerden wegen nächtlicher Ruhestörung Am Kegelhof
+- TOP 4.2.2.: Hunde auf dem Bordeauxplatz
+- TOP 4.2.3.: Kellerstr. 1, neues Lokal - siehe auch UA Arbeit und Wirtschaft -
+- TOP 4.2.4.: Sitzgelegenheit vor dem Laden in der Metzstr. 15 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 4.2.5.: Probleme mit kostenlosen Wochenzeitschriften - siehe auch UA Arbeit und Wirtschaft -
+- TOP 4.2.6.: "Fussgängerzone" Genoveva-Schauer-Platz - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 4.2.7.: Neue Fahrradständer unter der Wittelsbacher Brücke - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 4.2.8.: Aufstellung von Elektroladestationen in der Schornstraße - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 4.2.9.: Baumarbeiten in der Lilienstraße dazu: Schreiben Baureferat, Gefahrenbaumfällung Lilienstraße
+- TOP 5.1.: Ehrenamtliche BA-Arbeit mit Alfresco vereinfachen
+- TOP 5.2.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 5.3.: Weißenburger Straße: Einkaufsstraße fußgängerfreundlich umgestalten
+- TOP 5.4.: Balanstraße in Gegenrichtung für den Radverkehr öffnen
+- TOP 5.5.: Pariser Straße: Baumallee vervollständigen
+- TOP 5.6.: Radampel an der Rosenheimer Straße unterhalb Gasteig
+- TOP 5.7.: Rosenheimer Straße: Messergebnisse
+- TOP 6.1.1.: (E) Stadtbezirksbudget Isarlust e.V. Isarboulevard vom 25.05. - 31.12.2019 5.971,00 € Az: 0262.0-5-0239 - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Init. „Mitten in der Nacht“ c/o Caitlin Gerda Ruchama van der Maas & Angelika Krautzberger Theater „Mitten in der Nacht in einem dunklen Haus irgendwo in der Welt“ vom 20.05. - 30.06.2019 4.220,00 € Az: 0262.0-5-0236 - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Projekt-Laden International Haidhausen Ausflüge "Bewegung" für Mädchen und Jungen vom 10.05. - 25.10.2019 503,40 € / Az. 0262.0-5-0237 - siehe auch UA Soziales -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Elternbeirat Grundschule Mariahilfplatz Tanzprojekt vom 01.10.19 – 31.05.2020 1.740,00 € Az: 0262.0-5-0238 - siehe auch UA Soziales -
+- TOP 6.1.5.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Wasserspielbus vom 03.-05.08.2019 1.522,00 € / Az. 0262.0-5-0225 - siehe auch UA Soziales -
+- TOP 6.1.6.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Alle spielen mit! am 15.09.2019 2.970,00 € Az: 0262.0-5-0240 - siehe auch UA Soziales -
+- TOP 6.1.7.: (E) Stadtbezirksbudget MGS Spielkiste e.V. Anschaffung eines Druckers/Scanners und eines Laptops 618,90 € Az: 0262.0-5-0241 - siehe auch UA Soziales -
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche für Restaurant Solo Pizza, Bereiteranger 18 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Umwandlung der Kirchenstraße in eine Fahrradstraße - siehe auch UA GUV -
+- TOP 6.3.2.: (E) Verbot von privaten Silvesterfeuerwerken - siehe auch UA GUV -
+- TOP 6.3.3.: (E) Erweiterung des privaten Feuerwerksverbotes auf ganz München - siehe auch UA GUV -
+- TOP 8.1.1.: Mehrjahresinvestitionsprogramm für die Jahre 2018 - 2022 mit verbindlicher Planung für 2023; Entwurf für das Baureferat
+- TOP 8.1.2.: Ausgelagerte Hortgruppen von der Außenstelle Orleansplatz wieder am Schulstandort Flurschule integrieren
+- TOP 8.1.3.: Mehrjahresinvestitionsprogramm 2018-2022; Maßnahmen im Bereich des Kommunalreferates
+- TOP 8.1.4.: 2. S-Bahn-Stammstrecke in Haidhausen: Alles auf Anfang ?
+- TOP 8.1.5.: Vermutete Zweckentfremdung beim Anwesen Ohlmüllerstr. 10
+- TOP 8.1.6.: Einrichten von Fahrradabstellplätzen an der Ecke Rablstraße / Balanstraße
+- TOP 8.2.1.: Grütznerstr. 8, Sachstand zum Balkon Schreiben BA 5 vom 06.03.2019
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Besprechung zu Budgetfragen mit Mitarbeitern des Kulturreferates
+- TOP II.2.: (E) Stadtbezirksbudget Init. „Mitten in der Nacht“ c/o Caitlin Gerda Ruchama van der Maas & Angelika Krautzberger Theater „Mitten in der Nacht in einem dunklen Haus irgendwo in der Welt“ vom 20.05. - 30.06.2019 4.220,00 € Az: 0262.0-5-0236
+- TOP II.3.: In Planung: Partizipatives Theater zum Thema "Einsamkeit in der Großstadt", Herbst 2019 bis Frühjahr 2020
+- TOP II.4.: Vor 80 Jahren: Johann Georg Elser und das Attentat auf Hitler im Haidhauser Bürgerbräukeller am 8. November 1939 vertagt aus der Sitzung vom 10.04.2019
+- TOP II.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Projekt-Laden International Haidhausen Ausflüge "Bewegung" für Mädchen und Jungen vom 10.05. - 25.10.2019 503,40 € / Az. 0262.0-5-0237
+- TOP 1.2.: (E) Stadtbezirksbudget Elternbeirat Grundschule Mariahilfplatz Tanzprojekt vom 01.10.19 – 31.05.2020 1.740,00 € Az: 0262.0-5-0238
+- TOP 1.3.: (E) Stadtbezirksbudget PA/Spielen in der Stadt e.V. Wasserspielbus vom 03.-05.08.2019 1.522,00 € / Az. 0262.0-5-0225
+- TOP 1.4.: (E) Stadtbezirksbudget MobilSpiel e.V. Kicklusion - Alle spielen mit! am 15.09.2019 2.970,00 € Az: 0262.0-5-0240
+- TOP 1.5.: (E) Stadtbezirksbudget MGS Spielkiste e.V. Anschaffung eines Druckers/Scanners und eines Laptops 618,90 € Az: 0262.0-5-0241
+- TOP 2.: Anhörungen
+- TOP 2.1.: Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: 2. Aktionsplan zur Umsetzung der UN- Behindertenrechtskonvention Produkt 40111270 Umsetzung der UN-Behindertenrechtskonvention Schutz und Gewaltprävention für Frauen und Mädchen in Einrichtungen der Behindertenhilfe Unterstützung der Forderungen "Frauen mit Behinderungen und Gewalterfahrungen" des Facharbeitskreises Frauen des Behindertenbeirats Empfehlung der 274. Stadtratskommission zur Gleichstellung von Frauen vom 07.05.2015 Kurzzeitwohnplätze für Kinder mit Behinderungen schaffen! Antrag Nr. 14-20 / A 03370 ................................... Konsequente Umsetzung des 2. Aktionsplans zur Umsetzung der UN-BRK - Keine Maßnahme aus finanziellen Erwägungen fallen lassen Antrag der Vollversammlung des Behindertenbeirats vom 07.12.2018
+- TOP 3.2.: Errichtung je eines Hauses für Kinder mit je 3 Krippen- und 3 Kindergartengruppen in der Ohlmüller- und Hiendlmayrstraße, Genehmigung der Nutzerbedarfsprogramme Beschluss des Bildungsausschusses vom 02.05.2019, Sitzungsvorlagen Nr. 14-20 / V 14650
+- TOP 3.3.: Errichtung je eines Hauses für Kinder mit je 3 Krippen- und 3 Kindergartengruppen in der Ohlmüller- und Hiendlmayrstraße, Ermächtigung zur Planung - nichtöffentlich - Beschluss des Bildungsausschusses vom 02.05.2019
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung einer bestehenden Freischankfläche für Restaurant Solo Pizza, Bereiteranger 18
+- TOP 2.: Anhörungen
+- TOP 2.1.: DANCE 2019 am 18.05.2019 auf dem Wiener Platz Fristverlängerung bis 16.05.2019
+- TOP 2.2.: DANCE 2019 am 20.05.2019 in der Grünanlage Muffatwerk Fristverlängerung bis 16.05.2019
+- TOP 2.3.: Sommerfest in der Au am 06.07.2019 in der Schlotthauer-/Kolumbusstraße
+- TOP 2.4.: Lozzilauf des Pestalozzi-Gymnasiums am 16.07.2019 in den Isarauen
+- TOP 2.5.: Haidhausener Kultursonntag am 07.07.2019
+- TOP 2.6.: "Europafest" am 18.05.2019 auf dem Weißenburger Platz vertagt in der Sitzung am 10.04.2019
+- TOP 3.: Unterrichtungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kellerstr. 1, neues Lokal
+- TOP 4.2.: Sitzgelegenheit vor dem Laden in der Metzstr. 15
+- TOP 4.3.: Probleme mit kostenlosen Wochenzeitschriften
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Edlingerstr. 1: Nutzungsänderung im Erdgeschoss: Umbau Gastronomie zu Büroflächen und Küche zu Müllraum
+- TOP 2.2.: Falkenstr. 33: Dachgeschoss-Neubau und Ausbau einer Wohnanlage
+- TOP 2.3.: Pariser Str. 1: Nutzungsänderung von 2 Büroeinheiten in 2 Wohnungen im Erd- und Kellergeschoss
+- TOP 2.4.: Regerstraße: Neubau eines Wohnblocks (215 WE), Baugebiet 2(4), Häuser 4.1, 4.3, 4.5, 4.7, 4.9, 4.12 (97 WE) mit Einzelhandelsflächen
+- TOP 2.5.: Regerstraße: Neubau eines Wohnblocks (215 WE), Baugebiet 2(4), Häuser 4.2, 4.4, 4.6, 4.8, 4.11, 4.13 (83 WE)
+- TOP 2.6.: Regerstraße: Neubau eines Wohnblocks (215 WE), Baugebiet 2(4), Häuser 4.10, 4.14 (35 WE) und Gemeinschafts-Tiefgarage (191 Stellplätze)
+- TOP 2.7.: Kegelhof 8: Ersatzneubau einer Jugendfreizeiteinrichtung mit Erweiterung um einen 2-gruppigen Hort, Vorbescheid
+- TOP 2.8.: Kegelhof 8: Errichtung eines Containerprovisoriums, Vorbescheid
+- TOP 2.9.: Breisacher Str. 3: Nutzungsänderung Wohnung 33 / EG zu Laden/Atelier sowie Lager 37 / KG zu Atelier; Trennung Einheit Ladenwohnung im EG zu Laden (34) und Wohnung (29)
+- TOP 2.10.: St.-Wolfgangs-Platz 9: Teilabbruch Pfarrheimtrakt und bauliche Ergänzung des Gebäudebestandes der kath. Kirchenstiftung St. Wolfgang Variante 1: EG-DG Wohnnutzung Variante 2: EG-1.OG Berufsfachschule, 2. OG-DG Wohnnutzung Vorbescheid
+- TOP 2.11.: Bazeillesstr. 9: Neubau eines Apartementhauses (7 WE), Tektur zu Einbau einer Nottreppe)
+- TOP 2.12.: Haidhauser Str. 11: Nutzungsänderung Gewerbeeinheit (Laden mit Büro, Lager und Nebenräumen) zu drei 1-Zimmer-Wohnungen
+- TOP 2.13.: Ismaninger Str. 22: Zentrum für In-Vitro-Fertilisation (IVF), Anbau in Modulbauweise KG, Umverlagerung Umkleiden und Studienzentrum im KG
+- TOP 2.14.: Rosenheimer Str. 15: Nutzungsänderung und geringfügige Modernisierungsmaßnahmen im EG, Tektur
+- TOP 2.15.: Hochstr. 75: Neubau einer Wohnanlage (Häuser 1-13) mit 182 Eigentums- und 4 EOF-Wohnungen sowie zweigeschossiger Tiefgarage / "Hoch der Isar", Baugebiet 2(1)
+- TOP 2.16.: Entenbachstr. 44: Sanierung und Aufstockung eines Wohnhauses und Errichtung eines Wohngebäudes mit Tiefgarage, Tektur
+- TOP 2.17.: Eduard-Schmid-Str. 36: Errichtung zweier Lagerboxen
+- TOP 2.18.: Rosenheimer Str. 105: Entfernung einer tragenden Zimmertrennwand
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bauvorhaben Kirchliches Zentrum Preysingstraße Stellungnahme LBK zur verschwundenen Stellungnahme des BA 5
+- TOP 3.2.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: - Innere Wiener Str. 19 - Weißenburger Str. 19 - Einsteinstr. 46 a
+- TOP 3.3.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk Antwort vom 08.04.2019
+- TOP 3.4.: Rechtliche Grundlage der Erweiterung des Bebauungsplans Nr. 2076 – Baugebiet 2 (2) ehem. Paulaner Gelände zwischen Hoch- und Regerstraße Anfrage
+- TOP 3.5.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP 3.6.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Isarlust e.V. Isarboulevard vom 25.05. - 31.12.2019 5.971,00 € Az: 0262.0-5-0239
+- TOP 1.2.: Umwandlung der Kirchenstraße in eine Fahrradstraße Empfehlung Nr. 14-20 / E 02475 der Bürgerversammlung vom 26.02.2019
+- TOP 1.3.: Verbot von privaten Silvesterfeuerwerken Empfehlung Nr. 14-20 / E 02456 der Bürgerversammlung vom 21.02.2019
+- TOP 1.4.: Erweiterung des privaten Feuerwerksverbotes auf ganz München Empfehlung Nr. 14-20 / E 02482 der Bürgerversammlung vom 26.02.2019
+- TOP 2.: Anhörungen
+- TOP 2.1.: MVG Leistungsprogramm 2020 Anhörung der Bezirksausschüsse => dazu: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr im Münchner Forum
+- TOP 2.2.: Einsteinstraße; Schutzgitter vor der Grundschule
+- TOP 2.3.: Verkehrsrechtliche Anordnung "Gefahrzeichen Kinder" in der Kirchenstraße
+- TOP 2.4.: Versetzen des "Gefahrzeichen Schule" in der Eduard-Schmid-Str. 1
+- TOP 2.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Rosenheimer Str. 119
+- TOP 2.6.: Orleansstr. 10-12; Einrichtung einer Ladezone (eingeschränktes Haltverbot)
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Maßnahmen gegen illegalen Durchgangsverkehr in der Fußgängerzone beim Genoveva-Schauer-Platz Antwort KVR zum Schreiben des BA 5 vom 07.03.2019
+- TOP 3.3.: Positionspapier des BA 1 zur Verkehrsentwicklung Altstadt
+- TOP 3.4.: Stellungnahmen der Unteren Naturschutzbehörde zu Baumfällungen - Gaisbergstr. 10-16
+- TOP 3.5.: Novellierung der Naturdenkmalverordnung der Landeshauptstadt München Antwort zur Stellungnahme des BA 5 vom 20.03.2017
+- TOP 3.6.: (U) Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum Ergebnisse der Verkehrsuntersuchung Ergebnisse der Verkehrsuntersuchung Stadt und Fluss, Rahmenplanung innerstädtischer Isarraum BA-Antrags-Nr. 14-20 / B 05843 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019 Rahmenplanung innerstädtischer Isarraum: Ab Rosenheimer Platz stadteinwärts: Radfahrstreifen während der Sanierungsarbeiten BA-Antrags-Nr. 14-20 / B 05844 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019
+- TOP 3.7.: Vorschläge zur Überprüfung von drei Ampelanlagen / Vorschläge um Haidhausen fußgängerfreundlicher zu machen, hier: Ampel Preysing-/Steinstraße Antwort KVR zum Schreiben des BA 5 vom 07.03.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: "Fussgängerzone" Genoveva-Schauer-Platz
+- TOP 4.2.: Neue Fahrradständer unter der Wittelsbacher Brücke
+- TOP 4.3.: Aufstellung von Elektroladestationen in der Schornstraße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 27.05.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 27.05.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 28.05.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 29.05.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 29.05.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 05.06.2019, 19 Uhr, VHS Einsteinstr. 28 BA- Vorstand, Dienstag, 21.05.2019, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Präsentation des Vorentwurfs zur Sanierung der Spielplätze am Johannisplatz am 14.05.2019 von 18.30-20.30 Uhr in der Einsteinstr. 28
+- TOP 4.2.: Radschnellverbindungen in München Information und Beteiligung zum Auftakt sechs neuer Projekte Auftaktveranstaltung am 15.05.2019 ab 18.30 Uhr im Landratsamt, Mariahilfplatz 17
+- TOP 4.3.: Einladung des Sozialreferates zur Informationsveranstaltung für die Bezirksausschüsse am 27.05.2019 von 18.30-20.30 Uhr am Orleansplatz 11
