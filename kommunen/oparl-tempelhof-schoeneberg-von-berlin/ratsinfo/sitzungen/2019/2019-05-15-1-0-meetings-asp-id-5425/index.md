@@ -1,0 +1,94 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-05-15T17:00:00+02:00
+- Ende: 2019-05-15T22:10:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5425
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5425
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=331432
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - (offen)
+- TOP 3.1: Neuwahl der Krankenhausbeiräte - gewählt
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - gewählt
+- TOP 6: Unerledigte Drucksachen - (offen)
+- TOP 6.1: Mobilität der Zukunft in Tempelhof-Schöneberg - beantwortet
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Soziale-Infrastrukturkonzept Tempelhof-Schöneberg (SIKo) 1. Fortschreibung - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Deckel drauf: Kleeblatt Schöneberg als urbanes Quartier entwickeln - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.2: Europa im Bezirk sichtbarer machen - überwiesen
+- TOP 10.3: Mehr Fahrradkontrollen in Tempelhof-Schöneberg - überwiesen
+- TOP 10.4: Wissen über Stadtbäume mehren – Infoschilder anbringen und Baumkataster öffentlich zugänglich machen - überwiesen
+- TOP 10.5: Sicherer Schulweg zur Käthe-Kollwitz-Grundschule während der Bauzeit Bahnhofstraße Lichtenrade - überwiesen
+- TOP 10.6: Erschütterungen in der Goltzstraße in Lichtenrade - überwiesen
+- TOP 10.7: Amtsträger*innen nicht zu strafbaren Handlungen auffordern - rechtswidrigen Beschluss nicht umsetzen - im Ausschuss abgelehnt
+- TOP 10.8: Skulptur „Arc de 124,5°“ angemessen präsentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.9: Spielplatzanlage Belziger Straße nahe der Vorbergstraße besser vor Verschmutzung schützen - überwiesen
+- TOP 10.10: Injektionsnadeln auf dem Perelsplatz - überwiesen
+- TOP 10.11: Black Box öffnen: Öffentliche Informationen über Bezirksamtsbeschlüsse aktualisieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.12: Schulprojekte über erneuerbare Energien unterstützen - überwiesen
+- TOP 10.13: Radverkehrsinfrastruktur in der Attilastraße - überwiesen
+- TOP 10.14: Einstellung des Vorhabenbezogenen Bebauungsplanverfahrens 7-72VE Hauptstraße 162 / Willmanndamm 22 - überwiesen
+- TOP 10.15: Goltzstraße für den Umleitungsverkehr für die Zeit der jahrelangen Sperrung des Bahnübergangs an der Bahnhofstraße ertüchtigen - überwiesen
+- TOP 10.16: Solidarität mit dem London Borough of Barnet - vertagt
+- TOP 10.17: Mietschuldeneinträge aus dem Schufa-Verzeichnis löschen - zurückgezogen
+- TOP 10.18: Ausstellungshalle nach Ella Barowsky benennen - überwiesen
+- TOP 10.19: Fußgängerüberweg und Tempo 30 in der Rixdorfer Straße - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.20: Umweltschutz konsequent umsetzen - überwiesen
+- TOP 10.21: Finanzielle Mittel für den Unterhalt und die Verkehrssicherungspflicht beim Baumbestand für das lfd. Haushaltsjahr 2019 verstärken - überwiesen
+- TOP 10.22: Keine Mietschulden-Schufa-Einträge durch die Städtischen Wohnungsbaugesellschaften - überwiesen
+- TOP 10.23: Raserei und illegale Autorennen: „Akustik-Blitzer“ gegen Lärmbelästigung - überwiesen
+- TOP 10.24: Für die Sicherheit unserer Kinder: Elterntaxis unerwünscht! - überwiesen
+- TOP 10.25: Bürgerinformation für die geplante Baumaßnahme zur Umgestaltung des Barbarossaplatzes - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.26: Zusätzliche Angebote an der Gemeinschaftsunterkunft in der Colditzstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.27: Gesetzlich legitimiertes Schulgremium arbeitsfähig machen – Bezirkselternausschuss Schule finanziell angemessen ausstatten - überwiesen
+- TOP 10.28: Modellversuch zur Rettung abgeholzter Straßenbäume - überwiesen
+- TOP 10.29: Würdige Bestattungen für Menschen ohne Familie ermöglichen - überwiesen
+- TOP 10.30: Abberufung eines stellvertretenden stimmberechtigten Mitglieds im Verwaltungsrat des Eigenbetriebs Kindertagesstätten Süd-West - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.31: Benennung eines stellvertretenden stimmberechtigten Mitglieds im Verwaltungsrat des Eigenbetriebs Kindertagesstätten Süd-West - ohne Änderungen im Ausschuss beschlossen
+- TOP 10.32: Schüler*innen-Haushalt auch in Tempelhof-Schöneberg etablieren - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 10.33: Berliner Schwimmbäder für alle minderjährige Berliner*innen frei - mit Änderungen im Ausschuss beschlossen
+- TOP 10.34: Schulhöfe für den Kiez öffnen - neue (Spiel-)Räume für den Sport in Tempelhof–Schöneberg schaffen - überwiesen
+- TOP 10.35: Mehr Frauen für den Sport begeistern: Mädchensportfest in Tempelhof-Schöneberg veranstalten - überwiesen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: WLAN für Seniorenvertretung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Prämie für innovative Vorschläge - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Eltern-Kind-Zimmer im Rathaus - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Berlin Tourist Info Center auch auf der Schöneberger Linse - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Digitale Infostelen am Südkreuz installieren - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Hauptstadtregion Berlin-Brandenburg – Tempelhof-Schöneberg gehört dazu - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Freies W-LAN in Seniorenfreizeiteinrichtungen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Geschäftsordnung für eine Gedenktafelkommission für den Bezirk Tempelhof-Schöneberg (Fassung vom 25.02.2019) - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Mehr Photovoltaikanlagen für unsere öffentlichen Gebäude im Bezirk - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.10: In Memoriam Bruno Ganz - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Die Angebote des Gesundheitsamtes in Tempelhof-Schöneberg erweitern - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Niedrigschwelliges Testangebot auf HIV und andere sexuell übertragbare Krankheiten ausbauen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Haushaltsplanaufstellung 2020/2021 - Kriterien für die bedarfsgerechte Förderung der Angebote der Jugendarbeit, der Jugendsozialarbeit und der Familienförderung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Aufhebung des Bezirksamtsbeschlusses vom 11. September 2007 (Drs.-Nr. 0392/XVIII) zur Aufstellung des Bebauungsplans 7-26 für den Nord-Süd-Grünzug im Ortsteil Schöneberg - überwiesen
+- TOP 13.2: Derzeit keine Abgabe des Grundstücks Tempelhofer Damm 163 an den Liegenschaftsfonds - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Brunnen auf dem Breslauer Platz einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.4: Entsorgungskonzept für Alttextilien - überwiesen
+- TOP 13.5: Luise und Karl Kautsky ohne Parkscheinautomat - überwiesen
+- TOP 13.6: Zusätzliche Elterntaxi-Haltestelle in der Fehlerstraße für die Ruppin-Grundschule - überwiesen
+- TOP 13.7: Grünpfeile entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.8: Wahrzeichen des S-Bahnhofs Lichtenrade erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.9: Architekturstudent*innen ein Forum geben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.10: Schulnetz- und Schulstandortplanung Tempelhof-Schöneberg im Rahmen der Fortschreibung der bezirklichen Schulentwicklungsplanung - überwiesen
+- TOP 13.11: Breslauer Platz endlich aufwerten und Teileinziehungsverfahren umsetzen! II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 13.12: Parkraumbewirtschaftung umfassend prüfen - überwiesen
+- TOP 13.13: Deutsch-Amerikanisches Volksfest auf dem Vorplatz zum Flughafengebäude - überwiesen
+- TOP 13.14: Landung der Rosinenbomber auf dem Flugfeld Tempelhof ermöglichen - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
