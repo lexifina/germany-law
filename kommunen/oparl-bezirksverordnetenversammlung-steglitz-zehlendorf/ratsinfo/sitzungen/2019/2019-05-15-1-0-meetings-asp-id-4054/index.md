@@ -1,0 +1,115 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-05-15T17:00:00+02:00
+- Ende: 2019-05-15T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4054
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4054
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Die Errichtung Modularer Kita-Bauten aus Holz (MOKIB) floppt auch in Steglitz-Zehlendorf - erledigt
+- TOP 3.2: Transparente Stadtplanung im Bereich Zehlendorf-Mitte - beantwortet
+- TOP 3.3: Erhalt des Schulstandorts Osteweg - beantwortet
+- TOP 3.4: Unruhe rund um den Kranoldplatz bei gewerblichen Mietern - beantwortet
+- TOP 3.5: Tariferhöhung öffentlicher Dienst – auch für freie Träger? - beantwortet
+- TOP 3.6: Casino in der Boothstraße - in der BVV zurückgezogen
+- TOP 3.7: Begrenzte Lagerfähigkeit von Kraftstoffen für Netzersatzanlagen (NEA), Ausfall einer NEA in Köpenick (Nachfragen zur beantworteten Schriftlichen Anfrage 324/V - Stromausfall in Köpenick) - beantwortet
+- TOP 3.8: Kongruenz von Belegung mit Abrechnung - beantwortet
+- TOP 3.9: Photovoltaik auf öffentlichen Gebäuden - beantwortet
+- TOP 3.10: Veranstaltung zum 75. Jahrestag zu Ehren Stauffenbergs - beantwortet
+- TOP 3.11: Einschränkung des Wohnungsmarkts durch Flüchtlingsbelegung? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Neuer Baugrund für Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.2: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Sondermittel der BVV für den Steglitzer Sport Club Südwest 1947 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Vorhabenbezogener Bebauungsplan 6-26 VE (Fürstenstraße/Bülowstraße) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungsplan X-143 (Kieferngrund) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Ausbesserungsarbeiten Hildburghauser Straße, Lorenz- und Mariannenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Umkleide für Menschen mit Behinderungen im Schwimmbad Hüttenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Schulstandort Osteweg 63 sichern und Ersatzstandort voranbringen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Schwerpunktaktionen Ordnungsamt mit Abschleppwagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Kennzeichnung des Übergangs in der Breisgauer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Neue Sportart für Jedermann - Discgolf in Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Kriterien für die Weiterentwicklung des Dahlemer Wegs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Seniorenschulungen Tablet und Smartphone - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Mietkaufen in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.15: Neuer Schulentwicklungsplan für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Gutshaus Steglitz barrierefrei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Vermüllung des Regenrückhalteteiches Fahrenheitstraße/Osdorfer Straße und Umgebung – ein altbekanntes Problem - in der BVV abgelehnt
+- TOP 4.18: Fahrgastinformation S- und U-Bahnhof Rathaus Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Busanschluss Appenzeller Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Wiedereinführung der Vorschule - in der BVV abgelehnt
+- TOP 4.21: Zusätzliche Packstation im Bezirk - in der BVV abgelehnt
+- TOP 4.22: Verbesserung der Verkehrssituation am Fußgängerüberweg Teltower Damm (Höhe Betten-Schmidt) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.23: Elektronischen Fahrtrichtungsanzeigen/-informationstafeln am S-Bahnhof Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.24: Generationenübergreifende Spiel- und Sportangebote für Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Die Tiersammelstelle sichtbar machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Eine Stele zum Gedenken an drei Opfer der Luftbrücke (1948/1949): Charles H. King, Edwin C. Diltz und Lloyd G. Wells - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - ohne Änderungen im Ausschuss beschlossen
+- TOP 5.1: Alternative Route des Fernradwegs Berlin-Leipzig am Gemeindepark Lankwitz - überwiesen
+- TOP 5.2: 300 Fahrradbügel am Strandbad Wannsee - überwiesen
+- TOP 5.3: Die Turbo-Baugenehmigung für Berlin! - überwiesen
+- TOP 5.4: FahrRat öffentlich - überwiesen
+- TOP 5.5: Kontrolle Crailsheimer Straße - überwiesen
+- TOP 5.6: Sanierung des kleinen Fußweges über die Rehwiese in Nikolassee - überwiesen
+- TOP 5.7: Baseler Straße - fahrradgerecht - überwiesen
+- TOP 5.8: Masterplan Schuldigitalisierung und Einrichtung eines zentralen Service- und Koordinationsbüros „Schuldigitalisierung“ - überwiesen
+- TOP 5.9: Taxihaltepunkt Klingsorstraße/Kreutzerweg - überwiesen
+- TOP 5.10: Leo-Borchert-Musikschule in Raumnot - überwiesen
+- TOP 5.11: Bedienlücke zwischen den Bussen X10 und N10 schließen - überwiesen
+- TOP 5.12: Taxihaltepunkt Gélieustraße - überwiesen
+- TOP 5.13: Spenden generieren für Brunnen - überwiesen
+- TOP 5.14: Kreuzungen im Wohngebiet Klingsorstraße – Schützenstraße vor Falschparkern schützen - überwiesen
+- TOP 5.15: Kreuzung Steglitzer Damm/Sembritzkistraße - überwiesen
+- TOP 5.16: Achtung auf die Einhaltung der gemachten Zusagen der Charité - überwiesen
+- TOP 5.17: Parteiveranstaltungen in bezirklichen Liegenschaften - überwiesen
+- TOP 5.18: Einmündungen Liebenowzeile und Presselstraße - überwiesen
+- TOP 5.19: Ausweitung von Öffnungszeiten von Kinderarztpraxen in den Randzeiten - überwiesen
+- TOP 5.20: Radfahren gegen die Einbahnstraße zulassen in der Gritznerstraße - überwiesen
+- TOP 5.21: Straßenschäden Arno-Holz-Straße - überwiesen
+- TOP 5.22: Verkehrssicherheit Königstraße (Wannsee) - überwiesen
+- TOP 5.23: Radführung in der Mühlenstraße jetzt verbessern - überwiesen
+- TOP 5.24: Bessere Zusammenarbeit des Ordnungsamtes mit der Polizei - überwiesen
+- TOP 5.25: Ökologische Toiletten an Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.26: Rassistische Skulptur aus dem Straßenland entfernen - überwiesen
+- TOP 5.27: Verkehrskontrolle Königstraße - überwiesen
+- TOP 5.28: Die Arbeit der Frauenbeauftragten stärken - überwiesen
+- TOP 5.29: Statt Beton-Pflanzkübel Büsche oder Bäume an der Drakestraße - überwiesen
+- TOP 5.30: Spielplatz am Löwentor/Wannsee - überwiesen
+- TOP 5.31: Schutz von Senioren vor Betrugsdelikten - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Große Anfragen - beantwortet
+- TOP 6.1.1: Personalsituation im Jugendamt - beantwortet
+- TOP 6.2: Beschlussempfehlungen von Ausschüssen (vorgezogen von TOP 9) - erledigt
+- TOP 6.2.1: Fahrradparkhaus – intelligente Radverkehrsförderung im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.2: Fahrradweg in der Finckensteinallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2.3: Sozialraum Wannsee weiterentwickeln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.3.1: Nachnutzung Alliierten-Museum "Out Post" als Kulturstandort sichern!“ - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3.2: Beratende Mitgliedschaft und Rederecht für Vertreter/innen der Seniorenvertretung und des Behindertenbeirats in den BVV-Ausschüssen - in der BVV abgelehnt
+- TOP 6.3.3: Stopp der Verkaufsaktivitäten Schmarjestraße - in der BVV abgelehnt
+- TOP 6.3.4: Gemeinschaftsschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3.5: Schaffung verbindlicher Beteiligungsstrukturen für junge Menschen bei Vorhaben der Stadt- und Grünplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3.6: Steglitz-Zehlendorf unterstützt die Gründung einer evangelischen Schule an der Ludwigsfelder Straße 30! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3.7: Endlich Platzbenennung nach Richard Draemert möglich! - in der BVV zurückgezogen
+- TOP 6.3.8: Flüchtlingsunterkunft: Platz des 4. Juli als Ersatzstandort für Schulstand Osteweg - in der BVV abgelehnt
+- TOP 6.3.9: Leitlinien der bezirklichen Bürgerbeteiligung - in der BVV abgelehnt
+- TOP 6.3.10: Seniorenforum 2019 zum Erfolg führen - in der BVV abgelehnt
+- TOP 6.3.11: Rathaus-Zehlendorf - Honig aufs Brot! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3.12: Bezirkspolitik transparenter gestalten: Audioprotokolle der BVV-Sitzungen veröffentlichen - in der BVV abgelehnt
+- TOP 7: Dringlichkeiten - erledigt
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Welche Pläne hat das Bezirksamt für den Schulstandort Osteweg? - beantwortet
+- TOP 8.2: Wer hat die Rodungen auf dem Gelände der Parks Range genehmigt? - vertagt
+- TOP 8.3: Wie sieht die Zukunft der Pestalozzi-Schule aus? - vertagt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - ohne Änderungen im Ausschuss beschlossen
+- TOP 9.1: Ein zweiter Frauentreffpunkt: Mehr Raum für Mehr - vertagt
+- TOP 9.2: Videoüberwachung am S-Bahnhof Zehlendorf/Rondell einrichten - vertagt
