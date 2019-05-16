@@ -1,0 +1,76 @@
+# 40. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-16T15:07:00+02:00
+- Ende: 2019-05-16T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20328
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20328
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Anfrage gem. § 4 der Geschäftsordnung des Rates; AN/0418/2019, hier: Bauflächen für Seniorenheime - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Zielgruppenberatung bei der Stadt Köln - Sache ist erledigt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates Zielgruppenberatung bei der Stadt Köln - Kenntnis genommen
+- TOP 2.2.2: Konzeptausschreibungen Sürther Feld
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: Parkstadt Süd, Begleitgremium - ungeändert beschlossen
+- TOP -: Integrative Bürgerbeteiligung Parkstadt-Süd - endgültig abgelehnt
+- TOP 4.2.2: Deutzer Hafen – Die Mühlen; Hier: Ergebnisbericht der Machbarkeitsuntersuchung - Kenntnis genommen
+- TOP 4.2.3: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung"; hier: Baubeschluss für die Umgestaltung der Gürzenichstraße sowie Freigabe von invest - geändert beschlossen
+- TOP 4.2.4: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Der Lupenraum Via Culturalis – Ein Handbuch für den öffentlichen Raum - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Stadtstrategie "Kölner Perspektiven 2030" - ungeändert beschlossen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade von Deutzer Brücke bis Malakoffturm sowie Freigabe von investiven Auszahlungsermächtigungen - zurückgestellt
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); ,Arbeitstitel: "Quartier Schlebuscher Weg" in Köln-Höhenhaus - ungeändert beschlossen
+- TOP -: Änderungsantrag zu Top 10.1 Bebauungsplanverfahren VEP „Quartier Schlebuscher Weg“ - endgültig zurückgezogen
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes - Arbeitstitel: Herbrandstraße in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.3: Beschluss über die Aufstellung eines Bebauungsplanes, Arbeitstitel: Lindweilerweg in Köln-Nippes - geändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: `Sechtemer Straße/ Bonner Straße` in Köln-Raderberg - geändert beschlossen
+- TOP 10.5: Beschluss über die Aufstellung eines Bebauungsplanverfahrens - zurückgestellt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Aufstellungsbeschlusses vom 16.03.2000 zum Bebauungsplanverfahren Nummer 71480703; Arbeitstitel: Schanzenstraße Süd - zurückgestellt
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Swinestraße in Köln-Chorweiler Nord; 62554/02; Beschluss über Stellungnahmen sowie Satzungsbeschluss - ungeändert beschlossen
+- TOP 12.2: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die 7. Änderung des Bebauungsplanes Nummer 6456/06, 7. Änderung; Arbeitstitel: Gewerbegebiet Langel in Köln-Fühlingen/Merkenich, 7. Änderung - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 14.1: 2. Teilaufhebung des BBP 6440 Nd/03 (65410/03), Arbeitstitel: Kalscheurer Weg in Köln-Zollstock, Anhörung der BV Innenstadt z. d. Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Fortführung des Teilhebungsverfahrens - ungeändert beschlossen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung) - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktionen CDU und Bündnis 90/Die Grünen zu 1203/2019 „Satzung zum Schutz und Erhalt von Wohnraum in Köln ( Wohnraumschutzsatzung)“ - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion Die Linke. zu Top 15.1 "Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung)" -Neufassung- - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zur Vorlage 1203/2019, Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung) - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag zu Top 15.1 "Satzung zum Schutz und Erhalt von Wohnraum in Köln (Wohnraumschutzsatzung)" - endgültig zurückgezogen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: MHD-Gelände, Teilaufhebung in Köln-Kalk;Offenlage des Bebauungsplanes (VEP) Nummer 70451/03, Teilaufhebung - Kenntnis genommen
+- TOP 17.2: Aktueller Sachstand Bebauung Takustraße (Schausteller-Platz) in Köln-Neuehrenfeld - Kenntnis genommen
+- TOP 17.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) vorhabenbezogener Bebauungsplan-Entwurf (VEP) Nummer 74455/02, Arbeitstitel: Ostmerheimer Straße in Köln-Merheim - Kenntnis genommen
+- TOP 17.4: Neuer Kölner Mietspiegel (Stand: Januar 2019) - Kenntnis genommen
+- TOP 17.5: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 17.6: Neues Casino in Deutz – wie ist der Sachstand ? (Ergänzung der AN/0374/2019 und Mitteilung 1090/2019) - Kenntnis genommen
+- TOP 17.7: Stadtentwicklungskonzept Wirtschaft – Ergebnisse der Büroflächenerhebung - Kenntnis genommen
+- TOP 17.8: Dieser Tagesordnungspunkt wurde seitens der Verwaltung zurückgezogen.
+- TOP 17.9: Ergebnis des freiraumplanerischen Realisierungswettbewerbs Friedrich-Ebert-Platz mit Ideenteil für die Innenstadt von Porz - Kenntnis genommen
+- TOP 17.10: Betreff: 209. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 3, Köln-Sülz, Arbeitstitel: Erweiterung RheinEnergieSportpark in Köln-Sülz und Aufstellung eines Bebauungsplanes mit dem Arbeitstitel: Erweiterung RheinEnergieSportpark K.-Sülz - Kenntnis genommen
+- TOP 17.11: Neue Kölner Statistik 4/2019 - Geburten - Kenntnis genommen
+- TOP 17.12: Sachstand und Ausblick zum Agglomerationskonzept des Region Köln/Bonn e.V. - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 17.13: Beratungsangebot für gemeinschaftliche Wohnformen / Baugruppen - zurückgestellt
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
