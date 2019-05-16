@@ -1,0 +1,94 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-05-16T18:11:00+02:00
+- Ende: 2019-05-16T19:48:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2167
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2167
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anlage 1: Schreiben vom Rhein-Kreis Neuss vom 23.04.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00093805.pdf
+- Ergebnisprotokoll: Anlage 1: Schreiben vom Rhein-Kreis Neuss vom 23.04.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00093805.pdf
+- Wortprotokoll: Anlage 1: Schreiben vom Rhein-Kreis Neuss vom 23.04.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00093805.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Verpflichtung von 2 Ratsmitgliedern
+- TOP 3: Eintragung in das Goldene Buch der Stadt Grevenbroich (Rüdiger Schlott)
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Dringlichkeitsentscheidungen
+- TOP 6: Mittelbereitstellungen
+- TOP 7: Sportplatz Neurath - Kenntnisnahme
+- TOP 8: Nachbesetzung SEG und GWD - einstimmig
+- TOP 9: Beteiligung der Stadt Grevenbroich an dem Landesprogramm „Heimat-Förderung" - einstimmig
+- TOP 10: Flüchtlings- und Integrationsangelegenheiten - Kenntnisnahme
+- TOP 10.1: Flüchtlingsunterkünfte und Obdach - Kenntnisnahme
+- TOP 11: Translozierung Wegestock Hülchrather Straße 28 Neukirchen - einstimmig
+- TOP 12: Entscheidung PlanungsA
+- TOP 12.1: 1. Änd. G 127 - Satzungsbeschluss - einstimmig
+- TOP 12.2: 5. Änd. G 51 - Auslegung §13a - einstimmig
+- TOP 12.3: K 36 - Aufstellung Normalverfahren - einstimmig
+- TOP 12.4: 29. Änd. FNP - Garagenhof Friedrichstraße - einstimmig
+- TOP 12.5: Vertrag Interkomm. Gewerbegebiet GV Jüchen - Kenntnisnahme
+- TOP 12.6: 1. Änd.K 32 - erneuter Satzungsbeschluss - einstimmig
+- TOP 12.7: G 211 - Satzungsbeschluss - einstimmig
+- TOP 12.8: Straßenbenennung G 216 - einstimmig
+- TOP 13: Beantwortung Anträge und Anfragen
+- TOP 13.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 13.2: Bekanntgabe der über- und außerplanmäßigen Mittelbereitstellungen - Kenntnisnahme
+- TOP 14: Schriftliche Anträge
+- TOP 14.1: CDU
+- TOP 14.1.1: Zusätzliche Baumpflanzungen im Straßenraum (Antrag Nr. 87/19) - einstimmig
+- TOP 14.1.2: Baumschutz bei Bauprojekten (Antrag Nr. 88/19) - einstimmig
+- TOP 14.1.3: Verpflichtende Dachbegrünung bei Flachdächern (Antrag Nr. 89/19) - einstimmig
+- TOP 14.1.4: Fassadenbegrünung im Straßenraum unterstützen (Antrag Nr. 90/19) - einstimmig
+- TOP 14.1.5: Prävention von Folgen von Starkregenereignissen (Antrag Nr. 91/19) - einstimmig
+- TOP 14.1.6: Vorgarten des Jahres (Antrag Nr. 92/19) - einstimmig
+- TOP 14.1.7: Umbenennung des Erftstadions Kapellen (Antrag Nr. 93/19) - einstimmig
+- TOP 14.1.8: Feste Wegsperre Tribünenweg Wevelinghoven (Antrag Nr. 94/19) - einstimmig
+- TOP 14.1.9: Veränderungen zum ISEK - Modifizierter Antrag (Antrag Nr. 82/19) - einstimmig
+- TOP 14.1.10: Verkehrsberuhigung an der Poststraße in Wevelinghoven (Antrag Nr. 83/19) - einstimmig
+- TOP 14.1.11: Verkehrsberuhigung an der Theodor-Körner-Straße in Allrath (Antrag Nr. 84/19) - einstimmig
+- TOP 14.1.12: Fußgängerzone in der Innenstadt vom Lieferverkehr befreien (Antrag Nr. 85/19) - einstimmig
+- TOP 14.1.13: Nahverdichtung an der Hansendstraße in Frimmersdorf (Antrag Nr. 86/19) - einstimmig
+- TOP 14.2: SPD
+- TOP 14.3: UWG
+- TOP 14.3.1: Vorratsflächen der RWE (Antrag Nr. 75/19) - einstimmig
+- TOP 14.3.2: Ausschussumbesetzungen (Antrag Nr. 76/19) - einstimmig
+- TOP 14.3.3: 70 Jahre Grundgesetz (Antrag Nr. 74/19) - einstimmig
+- TOP 14.4: FDP
+- TOP 14.5: B 90/DIE GRÜNEN
+- TOP 14.6: Mein Grevenbroich
+- TOP 14.6.1: "Tempo 30-Zone" Karl-Oberbach-Straße (Antrag Nr. 77/19) - einstimmig
+- TOP 14.6.2: Konzept Ausrichtung 25. Jubiläum Landesgartenschau (Antrag Nr. 78/19) - einstimmig
+- TOP 14.7: Die Linke- Freie Bürger
+- TOP 15: Gemeinschaftsanträge
+- TOP 15.1: Gemeinschaftsantrag alternatives Baugebiet in Gindorf (Antrag Nr. 81/19) - Kenntnisnahme
+- TOP 16: Schriftliche Anfragen
+- TOP 16.1: CDU
+- TOP 16.2: SPD
+- TOP 16.3: UWG
+- TOP 16.4: FDP
+- TOP 16.4.1: Auswirkungen des Urteils für die Europawahlen (Anfrage Nr. 73/19) - Kenntnisnahme
+- TOP 16.5: B 90/DIE GRÜNEN
+- TOP 16.6: Mein Grevenbroich
+- TOP 16.6.1: Immobilien "Auf der Schanze 86 und 88" (Anfrage Nr. 79/19) - Kenntnisnahme
+- TOP 16.6.2: Zukunft der GWG (Anfrage Nr. 80/19) - Kenntnisnahme
+- TOP 16.7: Die Linke - Freie Bürger
+- TOP 17: mündliche Anträge/Anfragen
+- TOP 17.1: Reihenfolge der Tagesordnungspunkte (Anfrage Nr. 97/2019)
+- TOP 17.2: Schlaglöcher Neusser Straße, Kapellen (Anfrage Nr. 98/2019)
+- TOP 17.3: Anhänger auf der Deutsch-Ritter-Allee, Neu-Elfgen (Anfrage Nr. 99/2019)
+- TOP 17.4: Sitzbank auf der Kölner Straße, Stadtmitte (Anfrage Nr. 100/2019)
+- TOP 17.5: Personelle Situation im Planungsamt - Bauordnung - (Anfrage Nr. 101/2019)
+- TOP 17.6: Anschaffung von Defibrillatoren (Anfrage Nr. 102/2019)
+- TOP 17.7: Aktuelle, neue Steuerschätzung (Anfrage Nr. 103/2019)
+- TOP 17.8: Gartenland an der Erft (Antrag Nr. 104/2019)
+- TOP 17.9: Ehemalige Gaststätte "Zille" (Anfrage Nr. 105/2019)
+- TOP 17.10: Parkgebühren für die Parkfläche am Ostwall, gegenüber dem Rathaus (Anfrage Nr. 106/2019)
+- TOP 17.11: Einmündung Dorfstraße in die Landstraße, Langwaden (Anfrage Nr. 107/2019)
+- TOP 17.12: Mindesthaltbarkeitsdatum Getränke
+- TOP 18: Mitteilungen BM
