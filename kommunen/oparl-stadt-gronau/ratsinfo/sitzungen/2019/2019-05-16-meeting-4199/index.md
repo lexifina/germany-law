@@ -1,0 +1,51 @@
+# Ausschuss für Verkehr, Umwelt, Energie und Tierschutz (22. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2019-05-16T18:00:00+02:00
+- Ende: 2019-05-16T19:43:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-108
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZT5_KKBZT5LlHlZHw4lmy5I
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4199
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr, Umwelt, Energie und Tierschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe8MZKJVoSYwZUzT3n-urGV-WO1JsQZrBNHzSyY0qhrv/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr-_Umwelt-_Energie_und_Tierschutz_16.05.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 14.02.2019
+- TOP 3.: Bestellung einer weiteren Schriftführerin des Ausschusses für Verkehr, Umwelt, Energie und Tierschutz - Einstimmig, 0 Enthaltungen
+- TOP 4.: Anregungen und Beschwerden gem. §24 GO NW
+- TOP 4.1: Anregungen und Beschwerden gem. § 24 GO NRW Bürgerantrag: Umbenennung der Mackensenstraße Hier: Anbringung von Zusatzinfo am Straßennamensschild Mackensenstraße - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 8/2018; Initiative zur Stärkung der Verkehrssicherheit insbesondere an beampelten Kreuzungen durch konvexe Verkehrssicherheitsspiegel - Anregung des SV Vorwärts Gronau 09 e. V. und des Schwimmvereins Gronau 1910
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Antrag der Fraktion Pro! Bürgerschaft / Piraten: Querungshilfe Enscheder Straße (L510) / Beckerhookstraße - Einstimmig, 0 Enthaltungen
+- TOP 5.2: Antrag der Fraktion Pro! Bürgerschaft / Piraten: Stadtbuskonzept überdenken - Einstimmig, 0 Enthaltungen
+- TOP 5.3: Antrag der Fraktion Pro! Bürgerschaft / PIRATEN im Rat der Stadt Gronau (Westf.) Optimierung /Modernisierung der betriebenen Fahrzeuge und Maschinen des „Konzerns“ Stadt (Stadt Gronau samt Mehrheitsbeteiligungen) Antrag vom 23.11.2018 - Ohne Abstimmung
+- TOP 5.4: Antrag der Fraktion Pro! Bürgerschaft: Fahrrad Beauftragte/r für Gronau und Epe - 11 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 5.5: Antrag der Fraktion Pro! Bürgerschaft / PIRATEN im Rat der Stadt Gronau (Westf.) Geschwindigkeitsmaßnahmen zwischen der Steinfurter Str. und dem Gildehauser Damm - Einstimmig, 0 Enthaltungen
+- TOP 6.: Benennung von neuen Straßen 1) Gewerbegebiet nördl. Ochtruper Str. ggü. Maybachstraße 2) Neubaugebiet nördl. Eßseite (B-Plan 180) - Einstimmig, 0 Enthaltungen
+- TOP 7.: Ergebnisse der Sitzung der Unfallkommission vom 19.03.2018
+- TOP 8.: Straßenendausbau Eulenborgweg und Neuerschließung Stichweg Eulenborgweg - 12 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 9.: Straßenendausbau Brefelds Goren/ Am Bösingbach - Einstimmig, 0 Enthaltungen
+- TOP 10.: Verbesserung der Situation des Rad- und Fußgängerverkehrs auf dem Alfertring - Einstimmig, 0 Enthaltungen
+- TOP 11.: Erneuerung der wegweisenden Beschilderung an Landesstraßen - Einstimmig, 0 Enthaltungen
+- TOP 12.: Feststellung des rechtmäßigen Ausbaus der Straße Eulenborgweg gem. § 125 Abs. 2 BauGB für das Teilstück zwischen dem Schoppenkamp und der Klosterstraße - Einstimmig, 0 Enthaltungen
+- TOP 13.: Rückbau von Fußgängerüberwegen hier: Herzogstraße und Agathastraße (Amtshaus) - Einstimmig, 0 Enthaltungen
+- TOP 14.: Geplante Parkflächen im Bereich des Bahnhofs Gronau
+- TOP 15.: Anregungen zum Vergabeverfahren der Freianlagenplanung / Innenstadtentwicklung
+- TOP 16.: Mitteilungen der Verwaltung
+- TOP 16.1: Gestaltung der Abfuhr von Leichtverpackungen (Gelber Sack / Gelbe Tonne) ab 2020
+- TOP 16.2: Konzept gegen die Vermüllung von Containerstandorten
+- TOP 16.3: Zwischenstand Breitbandausbau
+- TOP 16.4: Skateanlage Epe
+- TOP 16.5: Wirtschaftswegesanierung 2019
+- TOP 16.6: Arbeitskreis Biodiversität
+- TOP 17.: Anfragen
+- TOP 17.1: Wirtschaftswege
+- TOP 17.2: Grünstreifen Gildehauser Straße / Eper Straße
+- TOP 17.3: Ampelanlage Gildehauser Straße / Zum Lukas-Krankenhaus
+- TOP 17.4: Maßnahmen Radverkehr
+- TOP 17.5: Geplanter Parkplatz Losserstraße
