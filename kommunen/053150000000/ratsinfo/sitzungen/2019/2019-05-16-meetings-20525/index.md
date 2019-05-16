@@ -1,0 +1,83 @@
+# 37. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-16T17:00:00+02:00
+- Ende: 2019-05-16T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20525
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20525
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Zukunft der Notdienstpraxis am St. Vinzenz-Hospital
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Maternusgrundschule - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Tätigkeitsbericht des Amtes für Straßen und Verkehrsentwicklung 2017 - Kenntnis genommen
+- TOP 7.1.2: Nächtliche Arbeiten der DB außerhalb der ICX-Hallen in Bilderstöckchen - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage zur Schadstoffbelastung an Kölner Kinderkrippen, Kitas und Schulen - Kenntnis genommen
+- TOP 7.1.4: Schulessen im Bezirk Köln-Nippes - Anfrage der Fraktion Bündnis 90/Die Grünen - Kenntnis genommen
+- TOP 7.1.5: Alte Hausmülldeponie im Bereich geplanter Bebauung Simonskaul - Kenntnis genommen
+- TOP 7.1.6: Leerstand im städtischen Wohnungsbestand (AN/0565/2019) - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Wohnraumanpassung und entsprechende Beratung im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 7.2.2: Gehweg in der Gocher Straße - Kenntnis genommen
+- TOP 7.2.3: Illegales Gehwegparken - Kenntnis genommen
+- TOP 7.2.4: Neusser Landstraße 2 - Kenntnis genommen
+- TOP -: Leerzug der Unterbringungseinrichtung Neusser Landstraße 2 - Kenntnis genommen
+- TOP 7.2.5: Bau einer Grundschule auf dem Gelände des ehem. Nippeser Hallenbades - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Vergabe neuer Marktzugänge auf Wochenmarkt Wilhelmsplatz Nippes - endgültig zurückgezogen
+- TOP 8.1.2: Einrichtung eines Fahrbahnstreifens für Radfahrer auf der Escher Straße von der Äußeren Kanalstraße bis zum Kreisverkehr Einmündung Schiefersburger Weg - ungeändert beschlossen
+- TOP 8.1.3: Einrichtung eines Fußweges auf der Rüdellstraße - ungeändert beschlossen
+- TOP 8.1.4: LKW-Stellplätze im Industriegebiet einrichten - ungeändert beschlossen
+- TOP 8.1.5: Zebrastreifen Schmiedegasse - geändert beschlossen
+- TOP 8.1.6: Grünschnitt Leipziger Platz - geändert beschlossen
+- TOP 8.1.7: Künstlerische Gestaltung der Unterführung Sebastianstraße/Industriestraße - ungeändert beschlossen
+- TOP 8.1.8: Umsetzung der von der Verwaltung vorgeschlagenen Maßnahmen am ehemaligen Verschiebebahnhof Köln-Nippes - ungeändert beschlossen
+- TOP 8.1.9: Radwege sind keine Parkplätze - Aktion gegen das "In-der-zweiten-Reihe-parken" auf der Neusser Straße - ungeändert beschlossen
+- TOP 8.1.10: Müllabfuhr durch kleineres Einsatzfahrzeug - Eschenbach Straße in Bilderstöckchen - ungeändert beschlossen
+- TOP 8.1.11: Behinderndes Parken An der Schanz - Sache ist erledigt
+- TOP 8.1.12: Benennung des Platzes zwischen der Mauenheimer Straße, der Schillstraße und der Simon-Meister-Straße in "Schillplatz" - ungeändert beschlossen
+- TOP 8.1.13: Klarheit schaffen bei KAG-Beiträgen - ungeändert beschlossen
+- TOP 8.1.14: Blumen- und Langgraswiesen schaffen - geändert beschlossen
+- TOP -: Antrag der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung am 16.05.2019
+- TOP 8.1.15: Zusätzlicher Parkraum an der Gesamtschule Nippes - ungeändert beschlossen
+- TOP 8.1.16: Öffentlichkeitsbeteiligung zur Weiterplanung des Niehler Gürtels - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Baubeschluss für die Generalinstandsetzung der Verkehrsfläche "Brunhildplatz" in Köln-Mauenheim - zurückgestellt
+- TOP 9.1.2: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Nippes - zurückgestellt
+- TOP 9.1.3: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzung über eine Verlängerung der Veränderungssperre für einen Teilbereich der Ortslage in Köln-Bilderstöckchen - endgültig zurückgezogen
+- TOP 9.2.2: Bedarfsfeststellungs- und Planungsbeschluss für die Planung des Abbruchs und Ersatzneubaus der Brücke Escher Str. in Köln Nippes/Bilderstöckchen - ungeändert beschlossen
+- TOP 9.2.3: 270. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 10.2.2: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Nippes - Kenntnis genommen
+- TOP 10.2.3: Verkehrswegeplanung in der ehemaligen Belgiersiedlung in Bilderstöckchen - Kenntnis genommen
+- TOP 10.2.4: Verkehrs-und Parkraumkonzept Clouth-Umgebung - Kenntnis genommen
+- TOP 10.2.5: 5-Jahresprogramm der Erschließungsmaßnahmen (Inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen) - Kenntnis genommen
+- TOP 10.2.6: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Nippes - Kenntnis genommen
+- TOP 10.2.7: Zurückgewiesene Eingabe - Aussetzung des Straßenbaubeitrags Brunhildplatz und Balmungweg in Köln-Mauenheim - Kenntnis genommen
+- TOP 10.2.8: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 10.2.9: STADTRADELN 2019 - Kenntnis genommen
+- TOP 10.2.10: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 10.2.11: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 10.2.12: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.13: 2. Fortschreibung des Luftreinhalteplanes Köln - Kenntnis genommen
+- TOP 10.2.14: Ergänzende Nachfrage - Stellungnahme zu einem Antrag, Grundstücke für den Wohnungsbau in Alt-Niehl - 0096/2019 - Kenntnis genommen
