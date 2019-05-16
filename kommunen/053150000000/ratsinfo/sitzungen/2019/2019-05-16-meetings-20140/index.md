@@ -1,0 +1,85 @@
+# 44. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-16T17:00:00+02:00
+- Ende: 2019-05-16T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20140
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20140
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00718871.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00718871.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00718871.pdf
+
+## Tagesordnung
+
+- TOP -: Antrag auf Durchführung einer aktuellen Stunde zur Worringer Rheinaue in der Sitzung der Bezirksvertretung Chorweiler am 16.05.2017 - geändert beschlossen
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Öffentliche Stellplätze an der Forststr. Heimersdorf (Az.: 02-1600-30/19) - endgültig abgelehnt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verbesserung der Barrierefreiheit in den GAG-Beständen in Chorweiler Mitte, Az: 02-1600-253/18 - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Nutzung von Schulhöfen als Spiel- und Aufenthaltsfläche - Kenntnis genommen
+- TOP 7.1.2: Grundstück Langenbergstraße / Flüchtlingsheim - Kenntnis genommen
+- TOP 7.1.3: Öffnungszeiten des Parkhauses in Chorweiler am City Center - Kenntnis genommen
+- TOP 7.1.4: Wochenmarkt Chorweiler - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bahnumfahrung und Ausfälle auf der Chorweilerschleife 2018 Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Schall- und Lichtemissionen im Stadtbezirk Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Entwicklung von Gewerbeflächen im Stadtbezirk Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Brandschutz und Prävention an Bahngleisanlagen im Bezirk Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: Versorgungsleitungen im Bezirk Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.6: Anna Langohr-Schule Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Tempo 30 Am Baggerfeld - Kenntnis genommen
+- TOP 8.1.2: Aufstellung Papierkörbe vor dem Eingang City Center und Fahrradständer vor dem Bürgerzentrum Chorweiler - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Einrichtung einer Halteverbotszone auf dem Senfweg in Worringen Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Chorweiler - ungeändert beschlossen
+- TOP 9.1.2: Standort Trinkbrunnen/ TrinkStation Bezirk Chorweiler - ungeändert beschlossen
+- TOP 9.1.3: Umsetzung es integrierten Stadtentwicklungskonzepts Köln-im Sozialraum "Blumenberg, Chorweiler und Seeberg-Nord" - Richtlinie zur Gewährung von Zuwendungen aus dem Verfügungsfonds - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die 7. Änderung des Bebauungsplanes Nummer 6456/06, 7. Änderung; Arbeitstitel: Gewerbegebiet Langel in Köln-Fühlingen/Merkenich, 7. Änderung - ungeändert beschlossen
+- TOP 9.2.2: Satzung über die abweichende Herstellung der Erschließungsanlage Am Kutzpfädchen vom Ende des vorhandenen Teils (Höhe Kasseler Weg) bis Wendekreis in Köln-Fühlingen - ungeändert beschlossen
+- TOP 9.2.3: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 62554/02 Arbeitstitel: Swinestraße in Köln-Chorweiler Nord - geändert beschlossen
+- TOP 9.2.4: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Handlungskonzept zur Kölner Behindertenpolitik, 2. Folgebericht; Controlling der Umsetzung der Einzelmaßnahmen - Kenntnis genommen
+- TOP 10.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.3: Erfahrungsbericht zur Wiedereinführung des kommunalen Vorkaufsrechtes Berichtszeitraum 01.02.2018 bis 31.01.2019 - Kenntnis genommen
+- TOP 10.2.4: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 10.2.5: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 10.2.6: Zurückgewiesene Bürgereingabe - Geplantes Neubaugebiet "Südlich Baptiststraße" in Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.7: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Chorweiler - Kenntnis genommen
+- TOP 10.2.8: Beweidung im Naturschutzgebiet N4 (Rheineaue Worringen bis Langel) - Kenntnis genommen
+- TOP 10.2.9: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 10.2.10: STADTRADELN 2019 - Kenntnis genommen
+- TOP 10.2.11: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.12: Bericht gemäß § 42 der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln für das Jahr 2018 hier: Bezirksvertretung Chorweiler - Kenntnis genommen
+- TOP 10.2.13: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 10.2.14: Gewässerunterhaltungsplan 2019/2020 - Kenntnis genommen
+- TOP 10.2.15: Integriertes Handlungskonzept Lindweiler; Umgestaltung des Pingenweges zwischen Volkhovener Weg und Unnauer Weg hier: Mitteilung über eine Kostenerhöhung gem. § 25 Abs. 1 Nr. 2 (vorher § 24 Abs. 2) GemHVO i. V. m. § 8 Ziffer 7 der Haushaltssatzung de - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Beleuchtung der Wegstrecke zwischen Pingenweg, Volkhovener Weg/Eudenbacher Weg - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
