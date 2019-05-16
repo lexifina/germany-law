@@ -1,0 +1,7 @@
+# TOP 3.3: Erschließungsvertrag zum Bebauungsplan 76 D - Im Dorf
+
+- Sitzung: Gemeinderat (47. Sitzung) (2019-05-16)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/18844
+- Ergebnis: einstimmig, 0 Enthaltung(en)
