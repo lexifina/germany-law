@@ -1,0 +1,55 @@
+# Gemeinderat (47. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2019-05-16T18:05:00+02:00
+- Ende: 2019-05-16T22:00:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZShIpxRbPF5-19YikdeF7zI
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1712
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQwPsfWtbeKAj0MTFmYfuP1astRcD56FGm9OQkLQxpHx/Bekanntmachung_Gemeinderat_16.05.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZEOYqrynuvjFrpbjk2utI4-ZQNxyTDzemRezPPevnIb/Oeffentliche_Niederschrift_Gemeinderat_16.05.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.03.2019 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 3.1: Aufbau von Ladeinfrastruktur in Kommunen - Teilnahme am Ladesäulenprogramm der innogy SE - einstimmig, 11 Enthaltung(en)
+- TOP 3.2: Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen der Gemeinde Aldenhoven - Vertagt
+- TOP 4.: Machbarkeitsstudie für die Schulstandorte Pestalozziring und Schwanenstraße hier: Vorstellung der Variante 4 und Beauftragung der Phase 3 - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Anträge von Fraktionen
+- TOP 5.1: Antrag der FWG-Fraktion; hier: Windkraftanlagen - 17 Ja-Stimmen, 5 Nein-Stimmen, 1 Enthaltungen
+- TOP 6.: Neubesetzung von Ausschüssen
+- TOP 6.1: Erweiterung des Schul- und Sozialausschusses hier: Vertreter des „Arbeitskreises der Altersklasse -9 Monate bis 6 Jahre“ - einstimmig, 0 Enthaltung(en)
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Jahresabschluss für das Haushaltsjahr 2018 - einstimmig, 0 Enthaltung(en)
+- TOP 7.2: Bereitstellung überplanmäßiger Haushaltsmittel; hier: Umlage 2019 zu den Rheinischen Versorgungskassen - einstimmig, 0 Enthaltung(en)
+- TOP 7.3: Einrichtung einer 6. Gruppe für die „offene Ganztagsschule“ an der GGS Aldenhoven - einstimmig, 0 Enthaltung(en)
+- TOP 8.: Bauleitplanung
+- TOP 8.1: 1. Nachtrag zum städtebaulichen Vertrag im Rahmen des Vorhabens Aufstellung des Bebauungsplans 61 S - Im Schleidener Thal - - einstimmig, 0 Enthaltung(en)
+- TOP 9.: Beschluss über die Vergabe eines Straßennamen im Gebiet des Bebauungsplans 74 S - Am Wittstock - - einstimmig, 0 Enthaltung(en)
+- TOP 10.: Beschluss über die Vergabe eines Straßennamen im Gebiet des Bebauungsplans 76 D - Im Dorf - - einstimmig, 0 Enthaltung(en)
+- TOP 11.: Beschluss über die Vergabe eines Straßennamen für das Baugebiet der Vivawest Wohnen GmbH an der Südstraße - einstimmig, 0 Enthaltung(en)
+- TOP 12.: Sachstandsberichte der Verwaltung
+- TOP 12.1: Ausführung des Haushalts
+- TOP 12.2: Sachstandsbericht zur Übertragung der gemeindlichen Kindergärten an die Kreismäuse AöR des Kreises Düren - zur Kenntnis genommen
+- TOP 13.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 21.03.2019 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Verkauf von Anteilen an der WEB GmbH an die GREEN mbH - einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Berichte aus den Gremien
+- TOP 3.: Vertragsangelegenheiten
+- TOP 3.1: Übertragung der gemeindlichen Kindergärten an die Kreismäuse AöR des Kreises Düren hier: Unterzeichnung der Betriebsübertragungsverträge und Nutzungsverträge - -
+- TOP 3.1.1: Übertragung der gemeindlichen Kindergärten an die Kreismäuse AöR des Kreises Düren hier: Unterzeichnung der Betriebsübertragungsverträge und Nutzungsverträge - einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Erschließungsvertrag zum Bebauungsplan 74 S - Am Wittstock - einstimmig, 0 Enthaltung(en)
+- TOP 3.3: Erschließungsvertrag zum Bebauungsplan 76 D - Im Dorf - einstimmig, 0 Enthaltung(en)
+- TOP 4.: Auftragsvergaben
+- TOP 4.1: Vergabe der Gaskonzession zum 10. April 2020 - einstimmig, 0 Enthaltung(en)
+- TOP 5.: Sachstandsberichte der Verwaltung
+- TOP 5.1: Interkommunale Zusammenarbeit
+- TOP 6.: Verschiedenes
