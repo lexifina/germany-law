@@ -1,0 +1,88 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-16T17:00:00+02:00
+- Ende: 2019-05-16T20:11:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16400
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16400
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342019.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342019.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342019.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen - einstimmig beschlossen
+- TOP 5: Regenrückhaltebecken Heidelberger Straße / Karlsruher Straße / Am Straußenkreuz - zur Kenntnis genommen
+- TOP 6: Amselstraße 25 und 27 - einstimmig beschlossen
+- TOP 7: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - zur Kenntnis genommen
+- TOP 8: B-Plan Nr. 08/002 (Entwurf) - Nördlich Gerresheimer Landstraße - ÖffBet,BehBet, öA - mehrheitlich beschlossen
+- TOP 9: 138. FNP-Änderung - Glasmacherviertel - ÖffBet,BehBet,öffAusl - zur Kenntnis genommen
+- TOP 10: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2019 - einstimmig beschlossen
+- TOP 12: Zuschuss Rudergemeinschaft Gymnasium Gerresheim - einstimmig beschlossen
+- TOP 13: Abstellbahnhof Speyerweg - beantwortet
+- TOP 14: Hundefreilauffläche Tannenhofweg - beantwortet
+- TOP 15: Jugendarbeit im Gurkenland / ehemalige Jakobuskirche - beantwortet
+- TOP 16: Grundstück Reisholzer Straße / Am Hackenbruch - beantwortet
+- TOP 17: Unfallsituation Gerresheimer Landstraße - beantwortet
+- TOP 18: Bauvorhaben „Schwalbenhöfe“ Am Schwalbenberg 64 / 66 - beantwortet
+- TOP 19: Regionalplan im Stadtbezirk 8 - beantwortet
+- TOP 20: Bebauungsplanverfahren Breidenplatz - beantwortet
+- TOP 21: Verkehrsregelung Braunfelsweg - beantwortet
+- TOP 22: Defibrillator und Trinkbrunnen auf dem Gertrudisplatz - beantwortet
+- TOP 23: Parkstände und Gehweg Kamper Weg - beantwortet
+- TOP 24: Umzug des Amtes für Migration und Integration - beantwortet
+- TOP 25: Jugendarbeit im Bereich Am Schabernack - beantwortet
+- TOP 26: Logistik-Zentrum Dillenburger Weg - beantwortet
+- TOP 27: Düsselbrücke Vennhausen - einstimmig beschlossen
+- TOP 28: Wir in Eller - einstimmig beschlossen
+- TOP 29: Bündnis "Eller - tolerant und weltoffen" - zurückgezogen
+- TOP 30: Brückengeländer Am Kleinforst - vertagt
+- TOP 31: Verkehrsversuch Vennhauser Allee/Rothenbergstraße/Glashüttenstraße - vertagt
+- TOP 32: Grundstück An der Schützenwiese 40 - vertagt
+- TOP 33: Reichenbacher Weg / Eller Kamp - vertagt
+- TOP 34: Reichenbacher Weg - zwischen Eller Kamp und Neusalzer Weg - vertagt
+- TOP 35: Sandträgerweg - Übergang an der Südlichen Düssel - vertagt
+- TOP 36: Geschwindigkeitsüberwachung in Vennhausen - vertagt
+- TOP 37: Spielgeräte auf dem Breidenplatz - vertagt
+- TOP 38: Bänke auf dem Breidenplatz - vertagt
+- TOP 39: Bank vor dem Gertrudis Café - vertagt
+- TOP 40: Schutz erhaltenswerter Gebäude im Stadtbezirk 8 - vertagt
+- TOP 41: Beschilderung Wilhelm-Heinrich-Weg und An der Schützenwiese - vertagt
+- TOP 42: Verkehrsunfallkommission - vertagt
+- TOP 43: „Grüner Pfeil“ Erkrather Straße / Am Bermeshau - vertagt
+- TOP 44: Stellplätze für Leih-Fahrräder im Stadtbezirk 8 - vertagt
+- TOP 45: Vorampel Karlsruher Straße / Marburger Straße - vertagt
+- TOP 46: Fahrradständer Vennhauser Allee 208 - vertagt
+- TOP 47: Hundefreilauffläche Vennhauser Allee - vertagt
+- TOP 48: Radweg Eller Kamp - vertagt
+- TOP 49: Radweg Vennhauser Allee - vertagt
+- TOP 50: Baugrenzen Lore-Lorentz-Schule, Schlossallee - vertagt
+- TOP 51: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 52: Verkehrsregelung An der Schützenwiese - zur Kenntnis genommen
+- TOP 53: Gebäude Vennhauser Allee 222 - zur Kenntnis genommen
+- TOP 54: Kinderspielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 55: Klettergarten Unterbacher See - zur Kenntnis genommen
+- TOP 56: Bürgerhaus und Bürgersaal Eller - Jägerstraße 31 - zur Kenntnis genommen
+- TOP 57: Masterplan Kinderspielplätze 2019 und 2020 - zur Kenntnis genommen
+- TOP 58: Gasbeleuchtung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 59: Sachstand blaue Tonne - zur Kenntnis genommen
+- TOP 60: Lärmmessung Abstellbahnhof Speyerweg - zur Kenntnis genommen
+- TOP 61: Abstellbahnhof Speyerweg - zur Kenntnis genommen
+- TOP 62: Haltestellengeschichte(n) im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 63: Parkplatz Eller Mitte - zur Kenntnis genommen
+- TOP 64: Regenrückhaltebecken in Eller und Renaturierung Südliche Düssel - zur Kenntnis genommen
+- TOP 65: Parkplätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 66: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 67: Kulturbahnhof Eller - Nutzungskonzept und Sanierung - zur Kenntnis genommen
+- TOP 68: Radschutzstreifen Sturmstraße - zur Kenntnis genommen
+- TOP 69: Bahnunterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 70: Baumpflanzungen Erlenkamp - zur Kenntnis genommen
+- TOP 71: Verlagerung der Kinder- und Jugendfreizeiteinrichtung Kuthsweg 43 - zur Kenntnis genommen
