@@ -1,0 +1,97 @@
+# 46. Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-16T17:00:00+02:00
+- Ende: 2019-05-16T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20479
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20479
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP -: C - Präsentation Stadtbahn Bonn - Niederkassel - Köln
+- TOP -: D - Sachvortrag Glücksspielstaatsvertrag
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken in Porz (Az.: 02-1600-36-19) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Planungsbeschluss zur Generalsanierung der Sportanlage Stresemannstraße - geändert beschlossen
+- TOP 6.1.1: Änderungantrag der SPD-Fraktion zu TOP 6.1: Platzanlage Stresemannstraße - ungeändert beschlossen
+- TOP 6.2: Sommerfest des Garde-Korps KG Blau-Weiss Zündorf von 1928 e.V. - ungeändert beschlossen
+- TOP 6.3: Planungsbeschluss zur Generalsanierung der Sportanlage Brucknerstraße, Umbau Rasenspielfeld in Kunststoffrasen - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beibehaltung und Ausweitung der dualen Radverkehrsführung in Köln-Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - zurückgestellt
+- TOP 7.1.1: Änderungsantrag der SPD-Fraktion zu TOP 7.1 - Radverkehrsführung Siegburger Straße - zurückgestellt
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - mit Änderungen empfohlen
+- TOP 7.2.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.2 - Radpendlerroute - geändert beschlossen
+- TOP 7.2.2: Änderungsantrag der CDU-Fraktion zu TOP 7.2 - Radpendlerrouten - geändert beschlossen
+- TOP 7.3: Satzung über die abweichende Herstellung der Erschließungsanlage Zur Eiche von Lülsdorfer Straße bis Sandbergstraße in Köln-Porz-Langel - ungeändert empfohlen
+- TOP 7.4: Satzung über die abweichende Herstellung der Erschließungsanlage Niederkasseler Straße (Stichstraße) von Niederkasseler Straße bis Wendeanlage in Köln-Porz-Lind - ungeändert empfohlen
+- TOP 7.5: Satzung über die abweichende Herstellung der Erschließungsanlage Am Bahnhof von St.-Sebastianus-Straße (Kreisverkehr) bis Zum Bergfried - ungeändert empfohlen
+- TOP 7.6: 269. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.7: 270. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.8: Baubeschluss zur Generalsanierung der Sportanlage Humboldtstraße, nördlicher Platz - Sammelumdruck - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion:Sachstandsbericht zur Nutzung des Verwaltungsgebäudes an der Friedrich-Naumann-Straße 2 in Porz-Eil - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Sozialen Arbeitsmarkt für Porz nutzen - ungeändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der CDU-Fraktion: Sachstandsbericht zu den Treppenabgängen am Rheinufer in Porz-Mitte - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion: Erneuerung und Sanierung der Abgänge zum Leinpfad - endgültig abgelehnt
+- TOP 8.6: Antrag der CDU-Fraktion: Treppenabgang an der Forsbachstraße in Porz-Urbach - ungeändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion: Gewerbegebiet an der Rolshover Straße in Poll - ungeändert beschlossen
+- TOP 8.8: Antrag der CDU-Fraktion: Sachstand zu dem Neubau Nachtigallenhof zwischen Luwig-Schneider-Straße und - ungeändert beschlossen
+- TOP 8.9: in den nicht - öffentlichen Teil zu TOP 13.1 geschoben
+- TOP 8.10: Antrag der CDU-Fraktion: Sachstandsbericht zur Verbesserung des Verkehrsflusses und der Parksituation entlang der Hauptstraße in Porz-Zündorf - ungeändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion: Sachstandsbericht zur Verkehrsberuhigung in der Neuen Eiler Straße in Porz-Eil - ungeändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion: Verkehrsgipfel für den Stadtbezirk Porz - geändert beschlossen
+- TOP 8.12.1: Änderungsantrag der SPD-Fraktion zu TOP 8.12: Verkehrsgipfel - endgültig abgelehnt
+- TOP 8.13: Antrag der CDU-Fraktion: Erneuerung des Spielsandes, Aufenthalt von Kleinkindern in Wohnungsnähe - endgültig zurückgezogen
+- TOP 8.14: Antrag der CDU-Fraktion: Versetzung von zwei E-Kästen auf dem Bürgersteig Cäcilienstraße/Heidestraße in - geändert beschlossen
+- TOP 8.15: Antrag der CDU-Fraktion: Sachstand zum Klärwerk Wahn - ungeändert beschlossen
+- TOP 8.16: Dringlichkeitsantrag der SPD-Fraktion: Linie 7 - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Verlängerung der Fahrradmarkierung in der Hohenstaufenstraße - Kenntnis genommen
+- TOP 9.1.1.1: Anfrage der SPD-Fraktion: Verlängerung der Fahrradmarkierung in der Hohenstaufenstraße - Kenntnis genommen
+- TOP 9.1.2: Verkehrssicherheit an der Zündorfer Groov - Kenntnis genommen
+- TOP 9.1.2.1: Anfrage der SPD-Fraktion: Verkehrssicherheit an der Zündorfer Groov - Kenntnis genommen
+- TOP 9.1.3: Schriftliche Mitteilung auf die Anfrage der Bezirksvertretung 7 aus der Sitzung vom 26.03.2019 bzgl. TOP 10.2.7 Aufwertung von zentralen Plätzen im Stadtbezirk Porz - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der CDU-Fraktion: WC - Anlage Endhaltestelle Zündorf - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion: Ausbau Frankfurter Straße - zurückgestellt
+- TOP 9.2.3: Anfrage der CDU-Fraktion: Unterstand im Bieselwald - Sache ist erledigt
+- TOP 9.2.4: Anfrage der SPD-Fraktion: Loorweg in Langel zwischen Hsnr. 27 und unterm Berg - zurückgestellt
+- TOP 9.2.5: Anfrage der SPD-Fraktion: Verlegung Haltelinie Lichtsignalanlage Siegburger Str./Allerseelenstr in Poll - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht Ausbau Frankfurter Straße in Köln-Porz zwischen Autobahnanschluss Gremberghoven und Theodor-Heuss-Straße - Kenntnis genommen
+- TOP 10.2.2: Aufbau eines Kriminalpräventiven Rates Köln - Kenntnis genommen
+- TOP 10.2.3: Stadtverschönerungsprogramm 2016/2017 für den Bezirk Porz - Kenntnis genommen
+- TOP 10.2.4: Ergebnisbericht Jugendbefragung - Kenntnis genommen
+- TOP 10.2.5: 7. Runder Tisch Radverkehr Porz - Kenntnis genommen
+- TOP 10.2.6: Mitteilung zum Beschluss der BV Porz vom 26.03.2019 zum Antrag AN/0337/2019 - Kenntnis genommen
+- TOP 10.2.7: Sachstandsbericht für das Jahr 2018 bezüglich der Umsetzung des Landesförderprogramms "Gute Schule 2020" - Kenntnis genommen
+- TOP 10.2.8: STADTRADELN 2019 - Kenntnis genommen
+- TOP 10.2.9: Priorisierende Schulbaumaßnahmenliste 2018, Kenntnisnahme Ratsbeschluss DS 3648/2018 - Kenntnis genommen
+- TOP 10.2.10: Fahrradfreundliche Übergänge am Bahnhof Wahn - Kenntnis genommen
+- TOP 10.2.11: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.12: Müllentsorgung im Gebiet Theodor-Heuss-Straße, Friedrich-Naumann-Starße und Heumarer Straße - Kenntnis genommen
+- TOP 10.2.13: Gewässerunterhaltungsplan 2019/2020 - Kenntnis genommen
+- TOP 10.2.14: Stadtbahn Bonn - Niederkassel - Köln - Kenntnis genommen
+- TOP 10.2.15: Stellungnahme der Verwaltung AN/1728/2018 - Antrag der SPD-Fraktion zur Sitzung der Bezirksvertretung Porz vom 11.12.2018 - Kenntnis genommen
+- TOP 10.2.16: Mitteilung über das Fachgespräch zur Neugestaltung der Sportanlagen Humboldtstraße/Brucknerstraße - Kenntnis genommen
+- TOP 10.2.17: Ergebnis des freiraumplanerischen Realisierungswettbewerbs Friedrich-Ebert-Platz mit Ideenteil für die Innenstadt von Porz - Kenntnis genommen
+- TOP 10.2.18: Radverkehr Rather Straße/Fahrradschutzstreifen Rather Straße - Kenntnis genommen
+- TOP 10.2.19: Niederschrift zum Runden Tisch Radverkehr vom 19.03.2019 - Kenntnis genommen
+- TOP 10.2.20: Sachstand zum Ausbau, Erweiterungen, Erneuerungen der BAB 59 im Bereich Anschluss Lind bis Dreieck/ Kreuz Porz BAB 559 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
