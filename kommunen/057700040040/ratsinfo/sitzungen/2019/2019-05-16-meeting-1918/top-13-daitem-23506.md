@@ -1,0 +1,6 @@
+# TOP 13.: Bekanntgaben und Anfragen
+
+- Sitzung: Betriebsausschuss Straßen (16. Sitzung) (2019-05-16)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/23506
