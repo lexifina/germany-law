@@ -1,0 +1,200 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-05-16T17:30:00+02:00
+- Ende: 2019-05-16T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4656
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4656
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=437736
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Wahlen zum BVV-Vorstand - erledigt
+- TOP 2.1: Wahl eines Mitglieds des Vorstandes der Bezirksverordnetenversammlung Berlin Mitte - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.2: Wahl der stellvertretenden BVV-Vorsteherin - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.3: Wahl des Beisitzers für den BVV-Vorstand - ohne Änderungen im Ausschuss beschlossen
+- TOP 2.4: Wahl eines Mitglieds in den BVV-Vorstand - im Ausschuss abgelehnt
+- TOP 3: Einwohneranfragen - (offen)
+- TOP 3.1: Sicherheit und Emmissionsschutz - beantwortet
+- TOP 3.2: Angefallene AZ-Fördermittel und öffentlicher Bürgerdialog im AZ Gebiet Turmstraße - beantwortet
+- TOP 3.3: Straßenumbenennungen im Afrikanisches Viertel - erledigt
+- TOP 3.4: Straßenumbenennungen im Afrikanischen Viertel - erledigt
+- TOP 3.5: Anfechtug der Gewobag von durch das BA angeordneten Arbeiten - erledigt
+- TOP 4: Feststellen von Dringlichkeiten - erledigt
+- TOP 5: Mitteilungen - (offen)
+- TOP 5.1: des Vorstandes - erledigt
+- TOP 5.2: der Fraktionen - erledigt
+- TOP 5.3: der Ausschüsse - erledigt
+- TOP 5.4: des Bezirksamtes - erledigt
+- TOP 6: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 7: Thematische Stunde - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Umsetzung von Maßnahmen auf Mittes Straßen und Plätzen - beantwortet
+- TOP 8.2: Beusselstraße 32/33: Vorkaufsrecht - Chance vertan? - beantwortet
+- TOP 8.3: Strandbar und Theater am Monbijoupark mit Lärm aber ohne Denkmalschutz? - beantwortet
+- TOP 8.4: Solidarität mit Israel angesichts des Raketenbeschusses aus dem Gazastreifen durch die Hamas und den Islamischen Dschihad - schriftlich beantwortet
+- TOP 8.5: Streit um Dienstzimmer 240 - schriftlich beantwortet
+- TOP 8.6: Coaching der Mitarbeiter*innen des Ordnungsamtes bei der Ansprache von Obdachlosen - schriftlich beantwortet
+- TOP 8.7: Plakatsuchspiel - wer bezahlt das eigentlich? - schriftlich beantwortet
+- TOP 8.8: Himmelbeet – die z-te - schriftlich beantwortet
+- TOP 8.9: Widerspruchsverfahren zur Straßenumbenennung im Afrikanischen Viertel: Was weiß das Bezirksamt? - schriftlich beantwortet
+- TOP 8.10: Denkmal oder öffentliche Toilette? – Denkmal an der Rosenstraße leidet unter Vermüllung - schriftlich beantwortet
+- TOP 8.11: Aufbau einer bezirklichen Wohnraumvermittlung für Wohnungslose - schriftlich beantwortet
+- TOP 8.12: Schatten für den Sportplatz Lüderitzstraße - schriftlich beantwortet
+- TOP 8.13: Parkmanager – was denn nun? - schriftlich beantwortet
+- TOP 8.14: Koppenplatz: Ungepflegt und vermüllt? - schriftlich beantwortet
+- TOP 8.15: Dokumentenprüfgeräte Bürgerämter Berlin Mitte Stand der Einführung - schriftlich beantwortet
+- TOP 8.16: Fahrradabstellanlagen - schriftlich beantwortet
+- TOP 8.17: Neue Sanierungsgebiete in Mitte - schriftlich beantwortet
+- TOP 8.18: Bebauungsplan 1-67 „Lehrter Straße Mittelbereich“: Groth, Family Office, Medici Living & Co-Living-Apartments - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Wie sind die Vergütungen für die Mitarbeiter*innen in den Dienstleistungs-verträgen geregelt? - beantwortet
+- TOP 10.2: Mittenmang Quartier: gewerbliche Nutzung von Wohnhäusern? - beantwortet
+- TOP 10.3: Was soll das Ordnungsamt tun? - beantwortet
+- TOP 10.4: Sicherheitskonzept am Alexanderplatz ohne Einfluss auf Influencer? - beantwortet
+- TOP 10.5: Wasserstand im Engelbecken - Teil II - beantwortet
+- TOP 10.6: Das Verschwinden des Pressespiegels auf der Seite des Bezirksamtes - beantwortet
+- TOP 10.7: Hat das Bezirksamt endlich Pläne zur Nutzung des ehemaligen Park Cafés in den Rehbergen? - schriftlich beantwortet
+- TOP 10.8: Wiederaufbau der Waisenbrücke? - schriftlich beantwortet
+- TOP 10.9: Mittel für Unterstützung des Fahrradverkehrs - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Gründung einer Grundschule am Standort Chausseestraße 82 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Berufung eines stellvertretenden beratenden Mitglieds des Jugendhilfeausschusses gemäß § 35 (7) 3 AG KJHG für die Position „erfahrene Frau in der Mädchenarbeit“ - ohne Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 14: Dringlichkeitsanträge - (offen)
+- TOP 14.1: Menschenwürdig bis in den Tod – Zentrale Trauerfeier für Verstorbene ohne Angehörige - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Drogenprobleme in der Heinrich-Heine-Straße lösen - überwiesen
+- TOP 14.3: Rasenpflege im Volkspark Rehberge - überwiesen
+- TOP 14.4: Antrag zum Eckwertebeschluss für den Doppelhaushalt 2020/2021 - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Senior*innenvertretung in der Arbeit unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Feierliche Zusammenkunft und Informationsveranstaltung an der Marienkirche zum Judenpogrom von 1510 - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Im Haushalt 2020/2021 für Jugend und Familie Schwerpunkte setzen - überwiesen
+- TOP 15.4: Was kostet die Beleuchtung in Grünanlagen? - überwiesen
+- TOP 15.5: Schriftliche Informationen zum Inhalt der Abwendungsvereinbarung an Mieter*innen - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Bus-Haltemöglichkeiten schaffen – Fahrradfahrende schützen. - überwiesen
+- TOP 15.7: Vier Augen sehen mehr als zwei: Begehung von Wohnungslosenunterkünften gemeinsam mit Wohnungslosen - überwiesen
+- TOP 15.8: Tiere füttern verboten! - überwiesen
+- TOP 15.9: Mehr Licht am Alexanderplatz - überwiesen
+- TOP 15.10: Erlöst uns vom Wettbewerb des schlechten Geschmacks auf dem Alexanderplatz! - überwiesen
+- TOP 15.11: Sportangebot vergrößern – „Catcherwiese“ in den Rehbergen nutzbar machen! - überwiesen
+- TOP 15.12: Eine U-Bahn zum Nikolaiviertel - in der BVV zurückgezogen
+- TOP 15.13: Ein neuer Beratungsbus für das Berliner Arbeitslosenzentrum BALZ - ohne Änderungen in der BVV beschlossen
+- TOP 15.14: Gefahrstelle am Hotel Meininger beseitigen - überwiesen
+- TOP 15.15: Mehr Tempo für ein gutes Schulessen - überwiesen
+- TOP 15.16: Gelände zwischen Schicklerstr., Alexanderstr., Stralauer Str. und Dircksenstr. als Urbanes Gebiet festsetzen - überwiesen
+- TOP 15.17: Eine U-Bahn ins Nikolaiviertel - vertagt
+- TOP 15.18: Tegel bleibt offen – Bürger*innen brauchen Lärmschutz. - überwiesen
+- TOP 15.19: Entwurf einer Strategie für die anstehende Digitalisierung der Schulen - überwiesen
+- TOP 15.20: Runder Tisch Engelbecken - überwiesen
+- TOP 15.21: Errichtung eines weiteren Drogenkonsumraums - überwiesen
+- TOP 15.22: Bezirkliche Gesundheitsziele umsetzen - Kindergesundheit mit hoher Priorität fördern! - überwiesen
+- TOP 15.23: Einwohneranfragen sichtbarer machen - überwiesen
+- TOP 15.24: Fahrradstreifen in der Turmstraße sicher machen - überwiesen
+- TOP 15.25: Sportanlage Lüderitzstraße umbenennen - vertagt
+- TOP 15.26: Gutachten zur Qualität privater Spielplätze erstellen - überwiesen
+- TOP 15.27: Sichere Turmstraße auch für Radfahrer*innen - überwiesen
+- TOP 15.28: Ordnungsamt-Online Meldungen für Mitte sichtbar machen - überwiesen
+- TOP 15.29: Kino in Moabit - überwiesen
+- TOP 15.30: Voraussetzungen für die ausreichende Bewässerung von Straßenbäumen schaffen! - überwiesen
+- TOP 15.31: Namenserweiterung der U-Haltestelle „Rotes Rathaus“ in „Rotes Rathaus – Nikolaiviertel“ - vertagt
+- TOP 15.32: Antisemitismusprävention vorantreiben - ohne Änderungen in der BVV beschlossen
+- TOP 15.33: Das Mitte Museum soll wachsen - überwiesen
+- TOP 15.34: Alltagserleben an der Mauer – auch im Gebiet zwischen Bernauer Straße und Schifffahrtskanal erinnern - überwiesen
+- TOP 15.35: Keine Unterstützung des BDS (Boykott, Desinvestitionen und Sanktionen) in Mitte - vertagt
+- TOP 15.36: Namenszusatz der U-Bahnhaltestelle „Rotes Rathaus“ - vertagt
+- TOP 15.37: Finanzielle Zukunft des Beratungsladen „MachBar“ und „Kiezläufer“ absichern! - überwiesen
+- TOP 15.38: Schulentwicklungsplan fortschreiben und mit weiteren Informationen ergänzen - überwiesen
+- TOP 15.39: Gehwegsicherheit - vertagt
+- TOP 15.40: Sicherheit im bezirklichen Straßennetz – Herstellen der Sichtbeziehungen an Kreuzungen - vertagt
+- TOP 15.41: Keine Obdachlosencamps in der Stadt und dem Bezirk - überwiesen
+- TOP 15.42: 1000 monatliche Sanktionen durch das Jobcenter weniger: Neue Verfahren zur Terminvergabe einführen - überwiesen
+- TOP 15.43: „Bürgerdienstleistungen des Bezirks Mitte über das Service-Portal Berlin stärker vereinheitlichen und ausbauen." - überwiesen
+- TOP 15.44: Bürgerdeputierte und stellvertretende Bürgerdeputierte für den Schulausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 16: Dringliche Entschließungen - (offen)
+- TOP 16.1: Solidarität mit den Beschäftigten des Wombat´s City Hostels - vertagt
+- TOP 17: Entschließungen - (offen)
+- TOP 18: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 18.1: Bezirksamt Mitte baut sein Engagement aus zur Beschäftigung von Langzeitarbeitslosen - vertagt
+- TOP 18.2: Schneller schnelles Internet für Mittes Schulen! - in der BVV abgelehnt
+- TOP 18.3: Weiterentwicklung des derzeitigen QM-Gebietes Ackerstr. nach der Verstetigungsphase nicht gefährden. - vertagt
+- TOP 18.4: Integration durch neue Jugendzentren in Mitte fördern! - vertagt
+- TOP 18.5: Zweckentfremdung wirkungsvoll bekämpfen - gegenstandslos
+- TOP 18.6: Lastenfahrräder für Mitte! - ohne Änderungen in der BVV beschlossen
+- TOP 18.7: Sichere Mitte – verstärkte Zusammenarbeit von Polizei und Ordnungsamt auf ausgesuchten Plätzen - ohne Änderungen in der BVV beschlossen
+- TOP 18.8: Fortschreibung der finanziellen Mittel für 2019 für den Bärenzwinger - gegenstandslos
+- TOP 18.9: „Aktion Sauberes Berlin“ auch in Mitte - gegenstandslos
+- TOP 18.10: Dezentrale Regenwasserbewirtschaftung - mit Änderungen in der BVV beschlossen
+- TOP 18.11: Das Stadion Rehberge finden! - vertagt
+- TOP 18.12: Park am Nordbahnhof mit vielen Beteiligten weiterentwickeln - vertagt
+- TOP 18.13: Stärkere Ausrichtung der bezirklichen Angebote der Wohnungslosenhilfe auf die Bedürfnisse von Obdachlosen - ohne Änderungen in der BVV beschlossen
+- TOP 18.14: Zweckentfremdung wirkungsvoll bekämpfen - Gesetz auf Wirkungen überprüfen - ohne Änderungen in der BVV beschlossen
+- TOP 18.15: Tarifabschluss vollständig an Beschäftigte bei freien Trägern weitergeben! - vertagt
+- TOP 18.16: Konzept zur Bekämpfung der Amerikanischen Faulbrut (Bienenpest) - vertagt
+- TOP 18.17: Kein Ausspielen der Krankenheilwohnung für Obdachlose gegen Räume für das Gesundheitsamt durch die BIM! - ohne Änderungen in der BVV beschlossen
+- TOP 18.18: Bürgerämter auch für Bürger mit Seheinschränkungen nutzerfreundlich gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 18.19: Wartezeiten digitalisieren - gegenstandslos
+- TOP 18.20: Zufahrtsbeschränkung am Alexanderplatz durchsetzen - vertagt
+- TOP 18.21: Anti-Mobbing-Team für Mitte - Mobbing wirksam bekämpfen! - vertagt
+- TOP 18.22: Planungssicherheit für Veranstaltungen auf dem Gendarmenmarkt - vertagt
+- TOP 19: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 19.1: Entwicklung und Verwendung von Stiftungsmitteln der Stiftung Bezirksbürgermeisterin Erika Heß im Haushaltsjahr 2018 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.2: Bericht zu Verlusten im Produkthaushalt sowie den Strategien und Maßnahmen des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.3: Mehr Ordnung im öffentlichen Raum: Fahrräder reparieren, nicht verschrotten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.4: Künstlerinnenförderung nicht wegkündigen lassen – Inselgalerie erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.5: Perspektiven geben - Sachgrundlose Befristungen von Arbeitsverträgen in Mitte jetzt beenden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.6: Ausrichtung des Girls' Day im Bezirksamt Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.7: Genehmigungspraxis auf dem Alexanderplatz grundsätzlich neu ausrichten - Vielfalt auf dem Alex erlebbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.8: Querungssicherheit an der Kreuzung Veteranenstraße - Fehrbelliner Straße verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.9: Nisthilfen bei Neubau und Sanierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.10: Trägerwohnungen in Mitte erhalten und ausbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.11: Genehmigungspraxis auf dem Alexanderplatz grundsätzlich neu ausrichten – Anregungen von Externen berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.12: Busse vor AO-Hostel Köpenicker Str./Adalbertstr. - vertagt
+- TOP 19.13: Girl’s Day 2018 – berufliche Zukunft von Mädchen sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.14: „Sicherer Gehweg am Hauptbahnhof“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.15: Monitoring für Zwangsräumungen in Mitte einführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.16: Die Fahrradstr. Linienstr.sicherer machen und dem Fahrradverkehr Vorfahrt einräumen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.17: Konsequent gegen Falschparker*innen vorgehen und alle Verkehrsteilnehmenden schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.18: Jugendliche in Ausbildung bringen – „Berlin braucht Dich“ unterstützen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.19: Bezirkliche Zentrenentwicklung unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.20: Konzept über die Ertüchtigung des Mauerweges - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.21: Alte Ideen bewahren und neuen Anforderungen gerecht werden - vertagt
+- TOP 19.22: Sitzbänke im Bezirk Mitte instand halten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.23: Transparenten Beratungsprozess zur Investitionsplanung 2019-2023 rechtzeitig vorbereiten: - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.24: Gestaltung künftiger Haushaltsberatungen II: - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.26: Schule bedarfsgerecht finanzieren (II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.27: DDR-Grenzwachturm ins öffentliche Bewusstsein holen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.28: Zusätzliche Stellen für die bezirklichen SeniorInnenfreizeiteinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.29: Die BVV regelmäßig über die Baumaßnahmen des SGA unterrichten! - vertagt
+- TOP 19.30: Knotenpunkt Lützowufer/Klingelhöferstr./Lützowplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.31: Beteiligung der BVV an der Verwendung von 400.000 Euro - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.32: Personelle Lösungen in den Seniorenbegegnungsstätten für 2019 - vertagt
+- TOP 19.33: Berlin trägt Kippa! - und rückt Zeugnisse historischer Judenpogrome ins Licht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.35: Erläuternde Zusatzschilder zur geschichtlichen Aufklärung unter Straßennamensschilder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.36: Präventionsrat Mitte und Runder Tisch Weinbergsweg - vertagt
+- TOP 19.37: Konflikte am Rosenthaler Platz und Weinbergsweg endlich beilegen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.38: Transparenz beim Thema Hygienekontrollen. Höchste Zeit für „Smileys“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.39: Erweiterung des VBB Bus & Bahn-Begleitservice auch am Wochenende - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.40: Anschaffung und Betrieb von öffentlichen Luftpumpstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.41: Verkehrsberuhigte Zonen beruhigen - vertagt
+- TOP 19.42: Wasser im Diesterweg- Gymnasium - vertagt
+- TOP 19.43: Licht nicht nur am Advent - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.44: Fußgängerüberweg über den Schiffbauerdamm (Höhe Albrechtstr.) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 19.45: Präsenzstunden der Schuldnerberatungen in der Jugendberufsagentur Mitte auf ihre Effektivität hin überprüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.46: Ladezonen nicht in die Wohngebiete! - vertagt
+- TOP 19.47: Das Hansaviertel in die städtebauliche Förderkulisse aufnehmen - vertagt
+- TOP 19.48: Spielplatzablöse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.49: Erklärung des Einvernehmens zur Wahrnehmung der bezirklichen Aufgaben der Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 8 Absatz 1 Nummer 1 Buchstabe d und e, § 8 Absatz 1 Nummer 2 in Verbindung mit Nummer 1 Buchstabe d und e sowie § 8 Absatz 2 Nummer 1 bis 3 im Zusammenhang mit Prüfungen nach § 2 Absatz 1a des Schwarzarbeitsbekämpfungsgesetzes und der Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 117 Absatz 1 Nummer 1 der Handwerksordnung sowie § 145 Absatz 1 Nummer 1 und § 14 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.50: Entwicklung und Verwendung von Stiftungsmitteln der „Conrad-Stiftung Bürger* für Mitte“ im Haushaltsjahr 2018 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.51: Ideenaufruf bezirklicher Integrationsfonds 2020/2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.52: Gewährung von Fördermitteln für freiwilliges Engagement in Nachbarschaften (Einzelmaßnahmen) im Bezirk Mitte für das Jahr 2019 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19.53: Entwicklung und Verwendung von Stiftungsmitteln der „Wolfgang-Lammers-Stiftung“ im Haushaltsjahr 2018 - mit Abschlussbericht zur Kenntnis genommen
