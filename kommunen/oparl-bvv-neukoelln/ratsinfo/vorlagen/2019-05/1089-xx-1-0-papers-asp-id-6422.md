@@ -1,0 +1,23 @@
+# Anmeldung des Bezirks Neukölln zum Investitionsprogramm für die Jahre 2019 - 2023
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 1089/XX
+- Art: Beschlussempfehlung - 2. Lesung
+- Datum: 2019-05-17
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6422
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=6422
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=213906
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3663 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3647 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=42
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3554 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=43
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3630 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3641 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3564 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=45
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3586 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3543 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3608 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3657 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3709 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung:  https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3664 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=45
