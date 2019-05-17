@@ -1,0 +1,63 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-05-17T16:00:00+02:00
+- Ende: 2019-05-17T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4690
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4690
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung Ausschüsse und Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 5: Aufstellung v. Gedenksteinen auf städtischen Friedhöfen
+- TOP 6: Erhöhung der Aufwandsentschädigung für Schiedspersonen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Einführung einer Testphase zur Anpassung der Parkgebühren im öffentlichen Straßenraum und in den Par
+- TOP 9: Neufassung der Parkgebührenordnung
+- TOP 10: Konrad-Adenauer-Ring: Barrierefreier Umbau der beiden Bushaltstellen "Moselstraße"
+- TOP 11: Kölner Straße: Barrierefreier Umbau Bushaltestelle "Dunantstraße" (Fahrtrichtung stadteinwärts)
+- TOP 12: Gladbacher Straße: Barrierefreier Umbau der Bushaltestellen Römerstraße
+- TOP 13: Nachrüstung Bushaltestellen mit taktilen Elementen (2. Maßnahmenpaket für Förderprogramm 2020)
+- TOP 14: Bebauungsplan Nr. 371, Erschließung Gewerbepark Gladbacher Straße: erstm. Herstellung Lindberghstr.
+- TOP 15: Grüner Weg: Straßenwiederherstellung nach Kanalbauarbeiten
+- TOP 16: Umstellung der Rechtsform der Musikschule der Stadt Neuss
+- TOP 17: Einführung Gebührenordnung der Musikschule der Stadt Neuss
+- TOP 18: Schulorganisatorische Maßnahmen hier: Fortführung des befristeten Teilstandortes der Gesamtschule Nordstadt
+- TOP 19: Vorhabenbezogener Bebauungsplan Nr. V 41/1 - Furth-Süd, Weißenberger Weg -
+- TOP 20: BP V491 - Vellbrüggener Straße
+- TOP 21: Weiterentwicklung der Taxi-Buslinie 857T
+- TOP 22: Verlängerung Imagekampagne Innenstadt bis 2021
+- TOP 23: Stadteingänge Lichtkonzept: Beleuchtung Brücken über den Erftmühlenrgraben
+- TOP -: Beschlussfassung des Rates
+- TOP 24: Genehmigung der Dringlichkeitsentscheidung Nr. 257 betr. Bebauungsplan Nr. 465 Uedesheim, Kreuzfeld
+- TOP 25: Genehmigung der Dringlichkeitsentscheidung Nr. 258 betr. Bebauungsplan Nr. 460 Norf, Nievenheimer Straße
+- TOP 26: Teilnahme von Mandatsträgern beim 39. Internationalen Hansetag in Pskow
+- TOP 26.1: Teilnahme von Mandatsträgern bei der Buchvorstellung zum Friedensglockenspiel in Leuven
+- TOP -: Anträge
+- TOP 27: Antrag der SPD-Fraktion betr. Stärkung des „Jröne Meerke“ als Naherholungsgebiet
+- TOP 28: Antrag der AfD-Fraktion betr. Stauauflösung an Kreuzungen
+- TOP 29: Antrag der AfD-Fraktion betr. Personalanbau in der Verwaltung
+- TOP 30: Antrag der SPD-Fraktion betr. Leistungsstarker und günstiger ÖPNV
+- TOP 31: Antrag der Fraktion Die LINKE betr. "Global Nachhaltige Kommune" - Bewerbung der Stadt Neuss
+- TOP 32: Antrag der FDP-Fraktion betr. ÖPNV-Stärkungspaket 2025
+- TOP 33: Antrag der SPD-Fraktion betr. Öffentliche Gebäude begrünen
+- TOP 34: Antrag der Fraktion Die LINKE betr. Klimanotstand vermeiden
+- TOP 35: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Planungsstand Feuerwache Süd
+- TOP -: Anfragen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 38: Bevölkerungsprognose der Stadt Neuss 2018-2050
+- TOP 39: Sachstandsbericht Ausbau Kindertagesbetreuung in der Stadt Neuss
+- TOP -: Einwohnerfragestunde
