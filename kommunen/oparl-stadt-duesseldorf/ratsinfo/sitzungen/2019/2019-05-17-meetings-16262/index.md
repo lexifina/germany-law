@@ -1,0 +1,54 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-17T16:00:00+02:00
+- Ende: 2019-05-17T19:10:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16262
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16262
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342027.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342027.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342027.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift 179/3/2019 vom 05.04.2019 - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Benrodestraße 46, Rathaus Benrath - Denkmalgerechte Innensanierung und Zusammenlegung des Bezirkssoz - Empfehlung abweichend beschlossen
+- TOP 6: Jugend checkt Düsseldorf - mündl. Vortrag - zur Kenntnis genommen
+- TOP 7: Bewältigung von Starkregenereignissen im Stadtbezirk 9 - mündl. Vortrag - zur Kenntnis genommen
+- TOP 8: CKW-/PFT-Grundwasserverunreinigung Hilden/Benrath, Sachstand und Allgemeinverfügung - zur Kenntnis genommen
+- TOP 9: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - zur Kenntnis genommen
+- TOP 10: FNP-Änderungsverfahren 179 "Nördlich Paulsmühlenstraße". Planbeschluss - Empfehlung einstimmig beschlossen
+- TOP 11: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsganges an Gymnasien - zur Kenntnis genommen
+- TOP 12: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 13: Informationsvorlage Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 14: Straßenbenennung in Benrath - Plangebiet 09/001 "Südlich Paulsmühlenstraße" - einstimmig beschlossen
+- TOP 15: Straßenbenennung in Himmelgeist - Plangebiet 09/006 "Am Scheitenweg Süd" - abweichend beschlossen
+- TOP 16: Anfrage: ÖPNV-Vorrangschaltung U71/U83 - vertagt
+- TOP 17: Anfrage: Hildener Str. zwischen Urdenbacher Allee und Heubesstr. - beantwortet
+- TOP 18: Anfrage: Bauunterhaltung Grund- und Förderschulen im Stadtbezirk 9 - beantwortet
+- TOP 19: Anfrage: Baugesetzbuch (BauGB) - beantwortet
+- TOP 20: Anfrage: Fortbestand Eissporthalle Paulsmühle - beantwortet
+- TOP 21: Anfrage: Bezirkssozialdienst im Stadtbezirk 9 - beantwortet
+- TOP 22: Anfrage: Benrather Marktplatz - beantwortet
+- TOP 23: Anfrage: Bunker Paulsmühle - beantwortet
+- TOP 24: Antrag: Nutzungskonzept Kapelle Mehrgenerationen-Projekt - einstimmig beschlossen
+- TOP 25: Antrag: Bedarfsbeschluss Rathaus Benrath – Vorlage 23/32/2019 - einstimmig beschlossen
+- TOP 26: Antrag: Fahrradtiefgaragen „Nördlich Paulsmühlenstraße“ - einstimmig beschlossen
+- TOP 27: Antrag: Benrode-/Görresstraße - mehrheitlich beschlossen
+- TOP 28: Antrag: Fahrradständer an Haltestelle Kappeler Str. - einstimmig beschlossen
+- TOP 29: Antrag: Neubau Feuerwache Düsseldorf-Wersten - einstimmig beschlossen
+- TOP 30: Antrag: Verkehrskonzept Düsseldorfer Süden - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel Kleingartenverein Benrath, Garten- und Sommerfest - interfraktionell - - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Die Arche, Sommerfest - interfraktionell - - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Benrather Schlossnarren e.V. - Sommerfest 2019 - interfraktionell - - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel - ABV Urdenbach e.V. - Fundament für Steele - interfraktionell - - einstimmig beschlossen
+- TOP 35: Informationsvorlage zum Beschluss der BV 9 vom 25.01.2019, Poller Ziegelweg - zur Kenntnis genommen
+- TOP 36: Informationsvorlage zum Beschluss der BV 9 vom 25.01.2019, Halt- und Parkverbot Ziegeleiweg - zur Kenntnis genommen
+- TOP 37: Informationsvorlage zum Beschluss der BV 9 vom 08.03.2019, Verbindungsweg Hospitalstr. / Wimpfener S - zur Kenntnis genommen
