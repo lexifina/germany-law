@@ -1,0 +1,106 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-05-20T16:05:00+02:00
+- Ende: 2019-05-20T21:05:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12759
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12759
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung m. d. Ergebnissen d. Vorberatungen - Stand: 10.05.19 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00236674.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00237838.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung eines Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Inhaltliche Ausrichtung von kommunal geförderter Anti-Extremismus-Arbeit - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Inhaltliche Ausrichtung von kommunal geförderter Anti-Extremismus-Arbeit" vom 13.03.2019 (VO/0228/19 - Entgegennahme ohne Beschluss
+- TOP 2.2: Stand des strafrechtlichen Vorgehens gegen die Stadtverordnete Claudia Bötte wegen angeblicher Beleidigung der "Wuppertaler Initiative für Demokratie und Toleranz" - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion PRO Deutschland / DIE REPUBLIKANER "Stand des strafrechtlichen Vorgehens gegen die Stadtverordnete Claudia Bötte wegen angeblicher Beleidigung der Wuppertaler Initiative für Demokratie und Toleranz" vom 27.03.2019 - Entgegennahme ohne Beschluss
+- TOP 2.3: Änderung Kommunalwahlgesetz - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf Anfrage der SPD-Fraktion "Änderung Kommunalwahlgesetz" vom 03.04.2019 (VO/0286/19) - Entgegennahme ohne Beschluss
+- TOP 2.4: Kohlekraftwerk Wilhelmshaven - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der Fraktion Freie Wähler "Kohlekraftwerk Wilhelmshaven" vom 11.04.2019 (VO/0317/19) - Entgegennahme ohne Beschluss
+- TOP 2.5: Bürgerbudget 2017 - Entgegennahme ohne Beschluss
+- TOP 2.5.1: Antwort auf die Große Anfrage der Fraktion „Die Linke“ zum Bürgerbudget 2017 (VO/0413/19) vom 02.05.2019 - Entgegennahme ohne Beschluss
+- TOP 2.6: Umsetzung einer Tempo-30-Zone im Bereich der Kindertagesstätte Rudolfstraße - Entgegennahme ohne Beschluss
+- TOP 2.6.1: Antwort der Verwaltung zur Großen Anfrage der Fraktionen PRO Deutschland / DIE REPUBLIKANER vom 05.05.2019 - Entgegennahme ohne Beschluss
+- TOP 2.7: Anzeige der Wuppertal Marketing GmbH in der Wuppertaler Rundschau und der Westdeutschen Zeitung - Entgegennahme ohne Beschluss
+- TOP 2.7.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Anzeige der Wuppertal Marketing GmbH in der Wuppertaler Rundschau und der Westdeutschen Zeitung" vom06.05.2019 (VO/0419/19) - Entgegennahme ohne Beschluss
+- TOP 2.8: Engies Verkauf der Anteile am Kohlekraftwerk Wilhelmshaven, Auswirkungen auf Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.8.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN " Engies Verkauf der Anteile am Kohlekraftwerk Wilhelmshaven, Auswirkungen auf Wuppertal" vom 08.05.2019 (VO/0429/19) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Verkehrsführung in der Südstadt
+- TOP 3.2: Bürgerantrag zur Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Absatz 2 Sozialgesetzbuch VIII
+- TOP 3.3: Bürgeranträge gegen die Aufstellung der 1. Änderung des Bebauungsplanes 815A - Oberheidter Straße/Häuschen -
+- TOP 4: Anträge
+- TOP 4.1: Neueinführung einer Baumschutzsatzung - in der Sache erledigt
+- TOP 4.2: Einführung einer bürgerfreundlichen Baumschutzsatzung - ungeändert beschlossen
+- TOP 4.3: Aufhebung des vorhabenbezogenen Bebauungsplans 1220V - FOC/Kleeblatt - vertagen
+- TOP 4.4: Entgelte für Kindertagespflege auf 4,20 € für die Förderleistung festzulegen - zur Vorberatung verwiesen
+- TOP 4.5: Prüfauftrag Schul(neu)bau - ungeändert beschlossen
+- TOP 4.6: Gelder der Integrationspauschale zielgruppengenau verwenden - abgelehnt
+- TOP 4.7: Resolution: Erhalt der Zwischen Arbeit und Ruhestand (ZWAR)-Zentralstelle NRW - ungeändert beschlossen
+- TOP 4.8: „Zahl-was –du willst„-Tag im Zoo - zur Vorberatung verwiesen
+- TOP 4.9: Abgesetzt. Vorberatung nicht abgeschlossen. Digitalpakt-Gelder sinnvoll nutzen - abgesetzt
+- TOP 4.10: Abgesetzt. Behandlung vertagt. Internationale Kampagne zur Abschaffung von Atomwaffen (International Campaign to Abolish Nuclear Weapons) - abgesetzt
+- TOP 4.11: Resolution Erhalt der Gemeinnützigkeit der Vereinigung der Verfolgten des Naziregimes/Bund der Antifaschist*innen - abgelehnt
+- TOP 4.12: Abgesetzt. Von den antragstellenden Fraktionen zurückgezogen. Vorbereitung der Gründung einer Gesellschaft für Stadtentwicklung - abgesetzt
+- TOP 4.13: Abgesetzt. Vorberatung nicht abgeschlossen. Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten. - abgesetzt
+- TOP 4.14: Fremdsprachige Broschüren zum Verhalten bei Hochzeiten - abgelehnt
+- TOP 4.15: Einspruch von Mitgliedern des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen gegen dessen Offenlegungsbeschlüsse vom 09. Mai 2019 in Sachen Maßregelvollzugsklinik Kleine Höhe) - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Wohnraumbedarf Alleinerziehender
+- TOP 6: Ortsrecht
+- TOP 6.1: Ordnungsbehördliche Verordnung zum Schutz freilebender Katzen in Wuppertal - ungeändert beschlossen
+- TOP 6.1.1: Katzenschutzverordnung für Wuppertal - in der Sache erledigt
+- TOP 6.2: Dritte Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der offenen Ganztagsschule im Primarbereich - geändert beschlossen
+- TOP 6.2.1: Änderungsantrag zu TOP 6.2 – Dritte Satzung zur Änderung der Satzung über die Erhebung von Elternbeiträgen (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.3: Änderung der Straßenordnung - ungeändert beschlossen
+- TOP 6.4: Abgesetzt. Vorberatung nicht abgeschlossen. Änderung der Entgeltordnung für den Zoologischen Garten - abgesetzt
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln: Aufwendungen und Auszahlungen der Haushaltsjahre 2018 und 2019 - Entgegennahme ohne Beschluss
+- TOP 7.2: Bereitstellung außerplanmäßiger Haushaltsmittel: Anschaffung von Fallen zum Fangen von besenderten Tieren in großen Anlagen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Fortführung und Weiterentwicklung der EKOCity Entsorgungskooperation - ungeändert beschlossen
+- TOP 8.2: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2018 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss des Gebäudemanagements der Stadt Wuppertal für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal für das Geschäftsjahr 2017 - ungeändert beschlossen
+- TOP 8.5: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsbedingten Investitionsaufwendungen ab 01.01.2019 für das Altenzentrum Wuppertaler Hof - ungeändert beschlossen
+- TOP 8.6: Entlastung des Aufsichtsrats der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 677 - Am Deckershäuschen - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Ausbau der offenen Ganztagsschule um 150 Plätze zum Schuljahr 2019/2020 - geändert beschlossen
+- TOP 11.1.1: Ausbau der offenen Ganztagsschule um 150 Plätze zum Schuljahr 2019/2020, Neufassung - geändert beschlossen
+- TOP 11.1.2: Ausbau der Offenen Ganztagsschule um 150 Plätze zum Schuljahr 2019/2020 - abgelehnt
+- TOP 11.2: Abgesetzt. Vorberatung nicht abgeschlossen. Stadtentwicklungskonzept "Zukunft Wuppertal" - abgesetzt
+- TOP 11.3: Fortschreibung des integrierten städtebaulichen Entwicklungskonzeptes - Soziale Stadt Oberbarmen/Wichlinghausen - ungeändert beschlossen
+- TOP 11.4: Ausschreibung des Innenstadtmanagements Barmen - ungeändert beschlossen
+- TOP 11.5: Abriss des Altbaus der ehemaligen Hauptschule Langerfeld (Dieckerhoffstraße) und Neubau - ungeändert beschlossen
+- TOP 11.6: Bauliche Maßnahmen Rettungsdienst zur Umsetzung der Rettungsdienstbedarfspläne 2016 und 2017 an verschiedenen Standorten - ungeändert beschlossen
+- TOP 11.7: Digitalisierung kommunaler Verkehrssysteme - Verkehrstechnische Projekte im Rahmen des "Green-City-Plan" der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.8: Aktendigitalisierung über einen Rahmenvertrag bei dem Dachverband kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 11.9: 70 Jahre Grundgesetz: Mütter des Grundgesetzes aus Nordrhein-Westfalen - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - Benennung der Delegierten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.2: Einrichtung einer Ratskommission für die Vorbereitung der Wahl einer / eines neuen Beigeordneten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.2.1: Benennungen der Fraktionen zu den Gremienbesetzungen unter den Tagesordnungspunkten 12.2 (Ratskommission Neue/r Beigeordnete/r) und 12.3 bis 12.7 (Aufsichtsgremien) - Entgegennahme ohne Beschluss
+- TOP 12.3: Besetzung des Aufsichtsrates der Wuppertaler Stadtwerke GmbH - geändert beschlossen
+- TOP 12.4: Besetzung des Aufsichtsrates der Wuppertaler Stadtwerke mobil GmbH - geändert beschlossen
+- TOP 12.5: Bestellung der Mitglieder des Verwaltungsrates der Jobcenter Wuppertal Anstalt öffentlichen Rechts - geändert beschlossen
+- TOP 12.6: Bestellung der Mitglieder des Verwaltungsrates der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - geändert beschlossen
+- TOP 12.7: Besetzung des Aufsichtsrates der Abfallwirtschaftsgesellschaft mbH - geändert beschlossen
+- TOP 12.8: Bestellung einer Stellvertreterin in der Verbandsversammlung EKOCity - ungeändert beschlossen
+- TOP 12.9: Nachbenennung einer Stellvertretung im Beirat Bürgerbeteiligung - ungeändert beschlossen
+- TOP 12.10: Besetzung / Vertretung für die DRK Schwesternschaft Wuppertal im Seniorenbeirat - ungeändert beschlossen
+- TOP 12.11: Gremienbesetzung - Stellvertretender Sachkundiger Einwohner im Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
+- TOP 12.12: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.13: Gremienbesetzung / Benennung - Ausschuss Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.14: Gremienumbesetzungen - geändert beschlossen
+- TOP 12.15: Benennung beratender Mitglieder der Ratskommission zur Begleitung und Steuerung des Projektes Pina Bausch Zentrum - ungeändert beschlossen
