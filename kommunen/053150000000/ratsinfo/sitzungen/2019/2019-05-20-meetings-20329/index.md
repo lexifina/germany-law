@@ -1,0 +1,70 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-05-20T14:33:00+02:00
+- Ende: 2019-05-20T15:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20329
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20329
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: 24. Bericht über die Situation Geflüchteter - Kenntnis genommen
+- TOP 2.3: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.03.2019 - Kenntnis genommen
+- TOP 2.4: KölnTourismus GmbH: Beantwortung der Anfrage RM Breite zur Vertragsauflösung des Geschäftsführers - Kenntnis genommen
+- TOP 2.5: Haushaltsplanaufstellung 2020/2021 inklusive Mittelfristplanung bis 2024 - Kenntnis genommen
+- TOP 2.6: Reform der Grundsteuer Regelmäßige Berichterstattung für den Finanzausschuss und Rechnungsprüfungsausschuss - Kenntnis genommen
+- TOP 2.7: Rückstandssituation Gemeindesteuern - Kenntnis genommen
+- TOP 2.8: Beauftragung Projekt: Wirkungsmessung von Digitalisierungsvorhaben in den Städten Aachen und Köln - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Sind bei der KSV GmbH Sicherheit und Qualität der Kindertransporte sowie des Fachpersonals gesichert? - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Integriertes Handlungskonzept Lindweiler; Umgestaltung des Pingenweges zwischen Volkhovener Weg und Unnauer Weg - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - zurückgestellt
+- TOP 7.2: Flora Bewässerung - ungeändert beschlossen
+- TOP 7.3: Bedarfsfeststellungs- und Planungsbeschluss für die Planung des Abbruchs und Ersatzneubaus der Brücke Escher Str. in Köln Nippes/Bilderstöckchen - ungeändert beschlossen
+- TOP 7.4: Beschaffung von 4 Gräberbaggern, 6 Zweischalengreifern und 1 Erdbohrer für den Friedhofsbereich - ungeändert beschlossen
+- TOP 7.5: Baubeschluss für die Generalinstandsetzung der Philippstr. sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - zurückgestellt
+- TOP 7.6: Zuschuss TSV 07 Köln-Merheim e.V. - ungeändert beschlossen
+- TOP 7.7: Baubeschluss für die Umgestaltung des Knotenpunktes Alteburger Straße/Bayenthalgürtel/An der Alteburger Mühle im Bereich der Bismarckäule sowie Freigabe einer investiven Auszahlungsermächtigung - hier: Finanzstelle 6601-1201-2-1004, Bayenthalgürtel/ - ungeändert beschlossen
+- TOP 7.8: Beschaffung von 9 Elektro-Schmalspur-Kippern für den Friedhofsbereich - ungeändert beschlossen
+- TOP 7.9: Errichtung eines Neubaus mit Dreifeldsporthalle für die Carl-von-Ossietzky-Gesamtschule am Standort Ossietzkystr., Köln-Longerich - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: KölnTourismus - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 10.2: Aufhebung der Umsetzung des Haushaltsbegleitbeschlusses "Beleuchtung der Wegeverbindung entlang der Straße Am Baggerfeld zwischen Esch und Pesch" - geändert beschlossen
+- TOP 10.3: Bedarfsfeststellung zur weiteren Sicherstellung des Luftrettungsdienstes mit dem Intensivtransporthubschrauber (ITH) Christoph Rheinland - zurückgestellt
+- TOP 10.4: Stadtentwässerungsbetriebe Köln, AöR (SteB); Abwasserbeseitigungskonzept 2020 - ungeändert beschlossen
+- TOP 10.5: Gebührenfestsetzung für die Inanspruchnahme der Standplätze auf den Kölner Wochenmärkten - ohne Votum in nachfolgende Gremien
+- TOP 10.6: Bundesprogramm "Förderung von Investitionen in nationale Projekte des Städtebaus", Projekte des Mantelprojektes "Via Culturalis und die Quartiere der Domumgebung"; hier: Baubeschluss für die Umgestaltung der Gürzenichstraße sowie Freigabe avon invest - geändert beschlossen
+- TOP 10.7: Bedarfsfeststellungs- und Planungsbeschluss für die Ost-West-Achse - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade von Deutzer Brücke bis Malakoffturm sowie Freigabe von investiven Auszahlungsermächtigungen - zurückgestellt
+- TOP 10.9: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.10: Bewerbung der Stadt Köln für die Austragung des NRW-Tages 2020 - ohne Votum in nachfolgende Gremien
+- TOP 10.10.1: NRW Tag 2020 - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Schließung und Rückbau der städtischen Notunterkunft für Geflüchtete an der Butzweilerhofallee 51, 50829 Köln-Ossendorf - Baubeschluss - ungeändert beschlossen
+- TOP 10.12: Erhöhung der Institutionellen Förderung des Kulturwerk des Bundesverbandes Bildender Künstlerinnen und Künstler, Köln e.V - zurückgestellt
+- TOP 10.13: Wirtschaftsplan des Gürzenich-Orchesters Köln, Wirtschaftsjahr 2019/20 - ungeändert beschlossen
+- TOP 10.14: Bezuschussung einer Maßnahme zur Bauunterhaltung und Technikförderung der freien Szene, hier: Musikhaus Süd – Sanierungsarbeiten bezogen auf den Einbau einer Stahltreppe, Elekroinstallationen sowie Einbau neuer / Reparatur alter Holzfenster - zurückgestellt
+- TOP 10.15: Antirassismus-Arbeit 2019 / 3.Schritt - ungeändert beschlossen
+- TOP 10.16: Baubeschluss zur Generalsanierung der Sportanlage Humboldtstraße, nördlicher Platz - zurückgestellt
+- TOP 10.17: Neubau eines Feuerwehrgerätehauses und einer Rettungswache in Rodenkirchen - ungeändert beschlossen
+- TOP 10.18: Wirtschaftsplan der Bühnen der Stadt Köln für die Spielzeit 2019/20 - ohne Votum in nachfolgende Gremien
+- TOP 10.19: Stadtentwässerungsbetriebe Köln, AöR (StEB): Jahresabschluss 2018; Ergebnisverwendung Wirtschaftsjahr 2018 - ungeändert beschlossen
+- TOP 10.20: Änderung der Rettungsdienstsatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.21: Stadtwerke Köln GmbH (SWK): Verwendung des Jahresüberschusses 2018 - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
