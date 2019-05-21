@@ -1,0 +1,7 @@
+# TOP 1: Begrüßung und Eröffnung der gemeinsamen Sitzung der Ausschüsse Schule/Sport, Gleichstellung/Inklusion und Gesundheit
+
+- Sitzung: 30. Sitzung in der VIII. Wahlperiode des Ausschusses Schule und Sport (gemeinsam mit den Ausschüssen Gesundheit sowie Gleichstellung und Inklusion) (2019-05-21)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=49571
+- Ergebnis: erledigt
