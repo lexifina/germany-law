@@ -1,0 +1,150 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-05-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5249054
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5249054
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Information zum Stadtbezirksbudget
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.1.: Begrünung Isartalstraße
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.2.: Freischankfläche in der Kapuzinerstraße 8
+- TOP 5.3.: Müllcontainer vor Anwesen Thalkirchner Straße 80
+- TOP 5.4.: Fehlender Mülleimer, Baumstraße
+- TOP 5.5.: Bürgeranliegen, Radweg an der Unterführung Baldeplatz/Wittelsbacherstraße
+- TOP 5.6.: Ergebnis Ortstermin Radwege Hans-Fischer-Straße
+- TOP 5.7.: Grünfläche Schützenstraße
+- TOP 5.8.: Falsche Kfz-Einfahrten in Einbahnstraße Holzstraße ab Ecke Westermühlstraße
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.1.: Wahl eines/r Vorsitzenden für den Unterausschuss Besondere Angelegenheiten
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.19.: Bürgeranliegen, Beschwerde über Veranstaltungen am Gärtnerplatz
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Zeitlich begrenzte Untervermietung erlauben
+- TOP 2.1.: (E) Stadtbezirksbudget Die Isarkiesel e.V. 25-jähriges Jubiläum am 29.06.2019 880,00 € / Az. 0262.0-2-0267
+- TOP 2.2.: (E) Stadtbezirksbudget Schüler-Frei-Raum e.V. Ferienfahrt vom 07.-18.06.2019 3.044,40 € Az: 0262.0-2-0268
+- TOP 2.3.: (E) Stadtbezirksbudget Verein zur Förderung von bildnerisch-künstlerischen Ausdrucksformen e.V. Projekt "Ein Bild wohnt in meinen Ohren" vom 19. - 21.06.2019 und 28. - 30.08.2019 7.479,14 Euro, Az.: 0262.0-2-0269
+- TOP 2.4.: (E) Stadtbezirksbudget Condrobs e.V. Freizeitfahrt für suchtkranke Jugendliche in den Sommerferien 2019 2.480,00 Euro, Az.: 0262.0-2-0270
+- TOP 2.5.: (E) Stadtbezirksbudget Isarlust e.V. Isarboulevard vom 25.05. - 31.12.2019 5.971,00 € Az: 0262.0-2-0266
+- TOP 2.6.: (E) Stadtbezirksbudget Ökumenisches Büro für Frieden und Gerechtigkeit e.V. Solitarity City Festival München vom 28. - 30.06.2019 5.000,00 Euro, Az.: 0262.0-2-0263
+- TOP 2.7.: (E) Stadtbezirksbudget Tanztendenz München e.V. Umbaumaßnahmen ab 07.06.2019 7.350,00 Euro, Az.: 0262.0-2-0271
+- TOP 2.8.: (E) Stadtbezirksbudget impro company GbR Stadtteil Theater Workshop LUISE vom 12.09. - 30.12.2019 1.250,00 Euro, Az.: 0262.0-2-0273
+- TOP 2.9.: (E) Stadtbezirksbudget Initiative "Magdalena München" Magdalena Festival "Knot" vom 12. - 29.09.2019 1.500,00 Euro, Az.: 0262.0-2-0272
+- TOP 2.10.: (E) Stadtbezirksbudget Initiative "Literatur im politischen Kampf" Veranstaltung "Literatur im politischen Kampf" vom 19. - 21.09.2019 1.000,00 Euro, Az.: 0262.0-2-0274
+- TOP 5.1.: Stadtteilkulturzentrum LUISE: Stellenausschreibung
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 1.1.: Nach der Stadtratsentscheidung – Zweibrückenstraße jetzt umbauen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Pflanzung von zwei Bäumen an der Kreuzung Isartal- / Dreimühlenstraße Empfehlung Nr. 14-20 / E 02296 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Landwehrstraße 46, Abbruch und Neubau eines Hotels mit Einzelhandel im EG und Tiefgarage - VORBESCHEID
+- TOP 3.1.2.: Sonnenstraße 16, Erweiterung und Umbau der Gaststätte im EG um die Gesamtfläche im 1. OG mit Einbau einer internen Verbindungstreppe sowie Verkleinerung der Ladeneinheit im EG + 1. OG
+- TOP 3.1.3.: Schubertstraße 8, Sanierung eines denkmalgeschützten Gebäudes mit DG-Neubau (1. + 2. DG), Anbau eines Erkers, zweier Aufzüge und von Balkonen, Neubau eines an den Bestand anschließenden Tiefkellers mit Parksystem und PKW-Lift sowie Erstellung eines Nebengebäudes im Hof
+- TOP 3.1.4.: Schillerstraße 3-3a, Neubau eines Hotels mit Gastronomie (EG), 10 Wohneinheiten (1. OG) und Tiefgarage
+- TOP 3.1.5.: Lindwurmstraße 139a, TEKTUR, Einbau zweier Dachterrassen und Umsetzung eines Vollwärmeschutzes
+- TOP 3.1.6.: Landwehrstraße 28a, TEKTUR, Beibehaltung der Hausmeisterwohnung im 2. DG sowie Errichtung einer Fluchttreppe mit Rettungsbalkon auf dem Dach
+- TOP 3.1.7.: Ruppertstraße 1-7a, TEKTUR, Kunst am Bau - Errichtung einer Skulptur (Freifläche vor Ruppertstraße 5)
+- TOP 3.1.8.: Schillerstraße 32, Errichtung eines Außenaufzugs und einer Dachgaube
+- TOP 3.1.9.: Arndtstraße 2, TEKTUR, Verringerung der Wohnungs- und Stellplatzanzahl, umlaufend einheitliche Traufhöhe, Anpassung an Grenzermittlung, Fassadengestaltung
+- TOP 3.1.10.: Auenstraße 32, TEKTUR, Änderung der Abmessungen des Parksystems mit Reduzierung von 9 auf 6 Stellplätze
+- TOP 3.1.11.: Reichenbachstraße 24, TEKTUR, Neubau eines Penthousegeschosses in Holzbauweise auf ein Wohngebäude im Innenhof (RGB) und Verlängerung der Notleiteranlage
+- TOP 3.1.12.: Bayerstraße 3-5, TEKTUR, Mathäser München: Neugestaltung des Außenbereichs Bayerstraße - Restauration „35 mm“
+- TOP 3.2.1.: Hermann-Schmid-Str. 8, Fällung eines Spitzahorns
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: zurückgezogen
+- TOP 1.2.: Neue (Zwischen-) Haltestelle Buslinie 132 (vertagt aus 04/19)
+- TOP 1.3.: Wiedererrichtung des Briefkastens in der Isartalstraße Nähe Kapuzinerstraße
+- TOP 1.4.: Sichere Querung für Fußgänger in der Waltherstrasse Höhe Taxistand
+- TOP 1.5.: Platz und Sicherheit für Fußgänger auf Münchens Gehwegen
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Genehmigung einer Freischankfläche, Sonnenstraße 8
+- TOP 2.1.2.: Antrag auf Genehmigung einer Freischankfläche, Westermühlstraße 3
+- TOP 2.3.1.: (E) Radweg in der Goethestraße zwischen Schwanthaler- und Bayerstraße auf die Fahrbahn verlegen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Straßenfest „Cult Collective Holzplatz“ am 29.06.2019 am Holzplatz
+- TOP 3.1.2.: Kulturbiergarten im Nußbaumpark, Ziemssenstraße vom 03.06. bis 03.09.2019
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Entfernung von herrenlosen Fahrrädern und Schrotträdern
+- TOP 3.3.2.: Fahrradabstellfläche vor Ladengeschäft, Thalkirchner Straße 88
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Fahrradabstellplätze Pettenkoferstraße 1
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Bauarbeiten am Spiel- und Bolzplatz Am Glockenbach
+- TOP A 4.4.: Zusammenfassung des Projektes „Platz da für Mädchen* und junge Frauen*“
+- TOP A 4.5.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP A 4.6.: Künstlerische Gestaltung der Fußgängerunterführung Seidlstraße - Kunstprojekt Munichen, Antwortschreiben
+- TOP A 4.7.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Wohnen in München VI, Erfahrungsbericht für das Jahr 2018; Sitzungsvorlage Nr. 14-20 / V 14530
+- TOP B 4.3.: Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum, Ergebnisse der Verkehrsuntersuchung; Sitzungsvorlage Nr. 14-20 / V 13255; 3. ERGÄNZUNG
+- TOP B 4.4.: Bavariaring 10, Nutzungsänderung Wohnung zu Büro - Reaktion auf BA-Stellungnahme
+- TOP B 4.5.: Baugenehmigung für die Freischankfläche in der Holzstraße 29
+- TOP B 4.6.: Anwesen Geyerstraße 17, Antwortschreiben zu BA-Anfrage vom 03.05.2019
+- TOP B 4.7.: Anforderung von Bauunterlagen, Zwischenstandsmeldung
+- TOP B 4.8.: Bericht über die Höhe der ausgereichten Zuwendungen des Referates für Stadtplanung und Bauordnung im Zeitraum zwischen Juni 2018 und März 2019; Sitzungsvorlage Nr. 14-20 / V 14785
+- TOP B 4.9.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP B 4.10.: Isartalstraße 40, Abdruck des Vorbescheides
+- TOP B 4.11.: Veränderbare Wohnungsgrundrisse, Typus & Adaption - Ein Fachprojekt der Hochschule München; Sitzungsvorlage Nr. 14-20 / V 14568
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Ausnahmegenehmigung für den BRK-Flohmarkt am 27.04.2019 auf der Theresienwiese
+- TOP C 4.7.: Stellungnahme des Referates für Arbeit und Wirtschaft zu den Erfahrungsberichten der BAs 2, 6 und 8 zum Oktoberfest 2018
+- TOP C 4.8.: Ausnahmezulassung für nächtliche Filmdreharbeiten
+- TOP C 4.9.: Ausnahmezulassung für den nächtlichen Einsatz eines Mobilkrans bei der Montage eines Baukrans in der Lindwurmstraße 35 bis 37
+- TOP C 4.10.: Keine neuen gastronomischen Betriebe in der Müllerstraße, Empfehlung Nr. 14-20 / E 00822 der Bürgerversammlung des Stadtbezirks 01 - Altstadt-Lehel am 03.12.2015; Sitzungsvorlage Nr. 14-20 / V 14072
+- TOP C 4.11.: Durchführung von zwei vergleichenden Haushaltsbefragungen zum Mobilitätsverhalten in den Modellquartieren Smarter Together und City2Share; Sitzungsvorlagen Nr. 14-20 / V 14214
+- TOP C 4.12.: Ersetzen der Fahrradabstellanlage in der Winckelstraße, Ecke Frauenlobstraße
+- TOP C 4.13.: Innerstädtischer Isarraum - Mehr Schutz für Natur, AnwohnerInnen und NutzerInnen, BA-Antrag Nr. 14-20 / B 05299; Antwortschreiben auf BA-Nachfrage vom 02.04.2019
+- TOP C 4.14.: Nutzung des Servicezentrums auf der Theresienwiese durch die Polizei während der Fußball Europameisterschaft 2020
+- TOP C 4.15.: Verbesserung der Abstellsituation für Fahrräder, Sitzungsvorlage Nr. 14-20 / V 14476
+- TOP C 4.16.: Saisonale Umnutzung von Straßenräumen, Sitzungsvorlage Nr. 14-20 / V 13626
+- TOP C 4.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
