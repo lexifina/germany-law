@@ -1,0 +1,106 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-05-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146627
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146627
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 7.7.1: MTV München von 1879 e. V. Vorstellung des Vereins und seiner Außenanlagen in der Werdenfelsstraße
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 15.15.1: Graswanger Str.6; Neubau eines Mehrgenerationenhauses
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Nachbarschafttreff TATZ
+- TOP 8.8.1: (E) Trimm-Dich-Pfad im Westpark errichten Empfehlung Nr. 14-20 / E 02231 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 25.10.2018
+- TOP 10.10.1: (E) Stadtbezirksbudget Baugenossenschaft Kriegersiedlung eG Kinderfest am 26.07.2019 440,00 € Az: 0262.0-7-0242
+- TOP 10.10.2: (E) Stadtbezirksbudget Kirchenchor St. Philippus Konzert am 24.11.2019 950,00 Euro, Az.: 0262.0-7-0240
+- TOP 10.10.3: (E) Stadtbezirksbudget Jugend von St. Thomas Morus München Umsetzung eines Blühstreifens vom 23. - 26.05.2019 2.000,00 € Az: 0262.0-7-0241
+- TOP 11.11.1: Vorläufiger Antragstext
+- TOP 12.12.1: Einladung SuK 19-05-08
+- TOP 13.13.1: Ergebnis der Anwohnerumfrage "Einbahnstraße Max-Seidl-Weg"
+- TOP 16.16.1: Veranstaltung "Literarisches Picknick" am Partnachplatz
+- TOP 17.17.1: Sommerfest Montessori- Kinderhaus
+- TOP 17.17.2: Teamstaffel-Westpark
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Barrierefreier Zugang Josef-Rank-Weg
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Verwendungsnachweis-SC Armin
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Auf dem Gelände der Bezirkssportanlage Siegenburger Straße wird im Zuge der Sanierung auch eine Gymnastikhalle errichtet
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 41.41.1: Denkmalschutzliste Schulanlage Neufriedenheim
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Baumaßnahmen_SWM
+- TOP 45.: Baureferat
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 48.: Kommunalreferat
+- TOP 48.48.1: Vorkaufsrecht Passauerstr.
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Filmaufnahmen Südpark
+- TOP 49.49.2: Filmaufnahmen Adi-Maislinger-Str.
+- TOP 49.49.3: VVB-Bescheid Maibaumfest
+- TOP 49.49.4: VVB-Bescheid Vesakh-Fest
+- TOP 49.49.5: Feuerwerk-Rosengarten
+- TOP 49.49.6: Filmaufnahmen Westpark
+- TOP 49.49.7: VVB-Bescheid Europa-Picknic
+- TOP 49.49.8: Geschwindigkeitsmessungen-Toleranz
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: (U) Vorgabenbezogener Bebauungsplan mit Grünordnung Nr. 2017b Bauernbräuweg (südlich), Bahnlinie München-Lenggries (westlich), Distlhofweg (östlich) (Teiländerung des Bebauungsplans mit Grünordnung Nr. 2017a) - Satzungsbeschluss - Raum für Gemeinschaftsnutzung im Zuge der Neubebauung am Bauernbräuweg Empfehlung Nr. 14-20 / E 01275 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 10.11.2016 Erweiterung des Bebauungsplanumgriffes des Bebauungsplans 2017b Empfehlung Nr. 14-20 / E 02396 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018 Einstellung der Verladetätigkeit und des Abstellens von S-Bahnzügen am Wochenende am Bahnhof Mittersendling Empfehlung Nr. 14-20 / E 02398 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018 Stadtbezirk 7 Sendling-Westpark
+- TOP 56.: Sozialreferat
+- TOP 57.57.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.2: (U) Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2018 – 31.12.2018
+- TOP 57.57.3: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP 57.57.4: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
