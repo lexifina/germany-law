@@ -1,0 +1,59 @@
+# 40. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-05-22T17:22:00+02:00
+- Ende: 2019-05-22T00:27:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11326
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11326
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00443264.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2019) - mehrheitlich beschlossen
+- TOP 3: Schulden- und Liquiditätsbericht 2018 - zur Kenntnis genommen
+- TOP 4: Antrag der FDP-Fraktion an den Rat Nr. A-R/0051/2018 - einstimmig beschlossen
+- TOP 5: Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0066/2018: Mobilität im Alter stärken - selbstverständlich selbstständig - einstimmig beschlossen
+- TOP 6: Schaffung von Konfliktfreiheit in der Führung rechtsabbiegender Kfz und paralleler Fußgänger/ Radfahrer an Lichtsignalanlagen - einstimmig beschlossen
+- TOP 6.1: Schaffung von Konfliktfreiheit in der Führung rechtsabbiegender Kfz und paralleler Fußgänger/ Radfahrer an Lichtsignalanlagen
+- TOP 6.1.1: Schaffung von Konfliktfreiheit in der Führung rechtsabbiegender Kfz und paralleler Fußgänger/ Radfahrer an Lichtsignalanlagen
+- TOP 7: Neubau der Feuer- und Rettungswache 3 in Münster-Hiltrup - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Grundsatzbeschluss: Erweiterung des Stadthauses 3 - ohne Beschlussfassung geschoben
+- TOP 9: Weiterentwicklung des sozialen Arbeitsmarktes in Münster - ohne Beschlussfassung geschoben
+- TOP 9.1: Weiterentwicklung des sozialen Arbeitsmarktes in Münster
+- TOP 10: Münsters Städtepartnerschaft stärken und weiterentwickeln - von der Tagesordnung abgesetzt
+- TOP 11: Breitbandausbau im Stadtgebiet Münster – Glasfaseranbindung der unterversorgten städtischen Schulen - einstimmig beschlossen
+- TOP 12: Interkommunale Zusammenarbeit – Abschluss von öffentlich-rechtlichen Vereinbarungen (ÖrV) über die mandatierte Aufgabenübertragung von Rechenzentrumsleistungen sowie die Bereitstellung und den Betrieb von Fachverfahren gem. § 23 Abs. 1 des Gesetzes ü - einstimmig beschlossen
+- TOP 13: Jahresabschluss 2018 der Westfälische Bauindustrie GmbH - mehrheitlich beschlossen
+- TOP 14: Fortschreibung 3. Nahverkehrsplan Stadt Münster unter Berücksichtigung der Reaktivierung der Westfälischen Landes-Eisenbahn für den Personenverkehr - ohne Beschlussfassung geschoben
+- TOP 15: Fortschreibung Masterplan Stadthäfen Münster - ohne Beschlussfassung geschoben
+- TOP 15.1: Fortschreibung Masterplan Stadthäfen Münster
+- TOP 16: Städtebauförderung: Gebietsabgrenzung Stadtumbau gem. § 171 b BauGB für den Bereich Hafen/Süd-Ost - einstimmig beschlossen
+- TOP 17: York und Oxford - Grundstücksvergaben, Grundsätze und Vorgehensweise - ohne Beschlussfassung geschoben
+- TOP 18: Sicherungsmaßnahmen an städt. Schulgebäuden - von der Tagesordnung abgesetzt
+- TOP 19: Vergabe Winterdienst an und auf städtischen Schulgeländen - von der Tagesordnung abgesetzt
+- TOP 20: Modellbausteine für schulische Inklusion - Entwicklung eines schulischen Lernortes - einstimmig beschlossen
+- TOP 20.1: Modellbausteine für schulische Inklusion - Standortverlagerung der schulischen Lernorte an den Bröderichweg
+- TOP 21: Einrichtung Haus des Jugendrechts - von der Tagesordnung abgesetzt
+- TOP 22: Trägervergabe für die Einrichtung der offenen Kinder- und Jugendarbeit am Wiegandweg/ ehem. York Kaserne - in der Kombieinrichtung - "Kindertageseinrichtung und Einrichtung der offenen Kinder- und Jugendarbeit unter einem Dach" - einstimmig beschlossen
+- TOP 23: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2017/2018 - ohne Beschlussfassung geschoben
+- TOP 24: Errichtungsbeschluss: Neubau einer Gärtnerunterkunft an der Gievenbecker Reihe auf dem Gelände der ehemaligen Oxford-Kaserne - ohne Beschlussfassung geschoben
+- TOP 25: Stadthaus 1, Innensanierung - Absenkung des Stadthausturmes Bauteil F - ohne Beschlussfassung geschoben
+- TOP 26: Neubau einer Dreifach-Leistungssporthalle am Pascal-Gymnasium (NRW-Sportschule) - ohne Beschlussfassung geschoben
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 391 - 5. und 6. Änderung - Beschlüsse zur Änderung - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk Hiltrup
+- TOP 27.2.1: Vorhabenbezogener Bebauungsplan Nr. 573 Teilabschnitt I - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2.2: Vorhabenbezogener Bebauungsplan Nr. 573 Teilabschnitt II - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2.3: 67. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 577 - Erweiterter Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 27.3: Stadtbezirk Ost
+- TOP 27.3.1: 89. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 27.3.2: 4. Änderung des Bebauungsplans Nr. 287: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28: Verschiedenes
