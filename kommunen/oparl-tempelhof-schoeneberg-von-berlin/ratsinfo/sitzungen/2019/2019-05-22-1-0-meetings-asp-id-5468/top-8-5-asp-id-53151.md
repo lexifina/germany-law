@@ -1,0 +1,8 @@
+# TOP 8.5: Plastikmüll an Schulen und in Kitas vermeiden
+
+- Sitzung: 25. öffentliche Sitzung des Jugendhilfeausschusses (2019-05-22)
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/agendaItems.asp?id=53151
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=53151
