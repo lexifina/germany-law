@@ -1,0 +1,85 @@
+# 39. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-05-22T18:15:00+02:00
+- Ende: 2019-05-22T00:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11327
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11327
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00443267.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Umsetzung des Ratsbeschlusses zur Vorlage "Entwurf der Stellungnahme der Stadt Münster zum geplanten 6-streifigen Ausbau der A1 - Münster-Nord bis Greven"
+- TOP 1.2: Umsetzung der Klimaschutzziele (Pariser Übereinkommen von 2015)
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrates gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Mehr Entsorgungsmöglichkeiten am Kanal schaffen! - verwiesen
+- TOP 9.2: Lehrschwimmbecken endlich zum MuFu-Raum umnutzen! - verwiesen
+- TOP 10: Ausrufung des Klimanotstandes in Münster - mehrheitlich beschlossen
+- TOP 11: Grundsatzbeschluss: Erweiterung des Stadthauses 3 - mehrheitlich geändert beschlossen
+- TOP 12: Weiterentwicklung des sozialen Arbeitsmarktes in Münster - mehrheitlich beschlossen
+- TOP 12.1: Weiterentwicklung des sozialen Arbeitsmarktes in Münster
+- TOP 13: Münsters Städtepartnerschaft stärken und weiterentwickeln - von der Tagesordnung abgesetzt
+- TOP 14: Breitbandausbau im Stadtgebiet Münster – Glasfaseranbindung der unterversorgten städtischen Schulen - einstimmig beschlossen
+- TOP 15: Interkommunale Zusammenarbeit – Abschluss von öffentlich-rechtlichen Vereinbarungen (ÖrV) über die mandatierte Aufgabenübertragung von Rechenzentrumsleistungen sowie die Bereitstellung und den Betrieb von Fachverfahren gem. § 23 Abs. 1 des Gesetzes ü - einstimmig beschlossen
+- TOP 16: Jahresabschluss 2018 der Westfälische Bauindustrie GmbH - mehrheitlich beschlossen
+- TOP 17: Fortschreibung 3. Nahverkehrsplan Stadt Münster unter Berücksichtigung der Reaktivierung der Wesfälischen Landes-Eisenbahn für den Personenverkehr - mehrheitlich beschlossen
+- TOP 18: Fortschreibung Masterplan Stadthäfen Münster - mehrheitlich beschlossen
+- TOP 18.1: Fortschreibung Masterplan Stadthäfen Münster
+- TOP 19: Städtebauförderung: Gebietsabgrenzung Stadtumbau gem. § 171 b BauGB für den Bereich Hafen/Süd-Ost - einstimmig beschlossen
+- TOP 20: York und Oxford - Grundstücksvergaben, Grundsätze und Vorgehensweise - mehrheitlich geändert beschlossen
+- TOP 21: Sicherungsmaßnahmen an städt. Schulgebäuden - von der Tagesordnung abgesetzt
+- TOP 22: Vergabe Winterdienst an und auf städtischen Schulgeländen - von der Tagesordnung abgesetzt
+- TOP 23: Modellbausteine für schulische Inklusion - Entwicklung eines schulischen Lernortes - mehrheitlich beschlossen
+- TOP 23.1: Modellbausteine für schulische Inklusion - Standortverlagerung der schulischen Lernorte an den Bröderichweg
+- TOP 24: Einrichtung Haus des Jugendrechts - von der Tagesordnung abgesetzt
+- TOP 25: Trägervergabe für die Einrichtung der offenen Kinder- und Jugendarbeit am Wiegandweg/ ehem. York Kaserne - in der Kombieinrichtung - "Kindertageseinrichtung und Einrichtung der offenen Kinder- und Jugendarbeit unter einem Dach" - einstimmig beschlossen
+- TOP 26: Feststellung des Jahresabschlusses und des Lageberichts des Theater Münster für das Wirtschaftsjahr 2017/2018 - einstimmig beschlossen
+- TOP 27: Errichtungsbeschluss: Neubau einer Gärtnerunterkunft an der Gievenbecker Reihe auf dem Gelände der ehemaligen Oxford-Kaserne - mehrheitlich beschlossen
+- TOP 28: Stadthaus 1, Innensanierung - Absenkung des Stadthausturmes Bauteil F - mehrheitlich beschlossen
+- TOP 29: Neubau einer Dreifach-Leistungssporthalle am Pascal-Gymnasium (NRW-Sportschule) - einstimmig beschlossen
+- TOP 30: Richtlinien für die Vergabe städt. Einfamilienhausgrundstücke zur Förderung der Eigentumsbildung - mehrheitlich geändert beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Mitte
+- TOP 31.1.1: Bebauungsplan Nr. 391 - 5. und 6. Änderung - Beschlüsse zur Änderung - einstimmig beschlossen
+- TOP 31.2: Stadtbezirk Münster-Hiltrup
+- TOP 31.2.1: Vorhabenbezogener Bebauungsplan Nr. 573 Teilabschnitt I - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 31.2.2: Vorhabenbezogener Bebauungsplan Nr. 573 Teilabschnitt II - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 31.2.3: 67. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 577 - Erweiterter Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 31.3: Stadtbezirk Münster-Ost
+- TOP 31.3.1: 89. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 31.3.2: 4. Änderung des Bebauungsplans Nr. 287: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 33.1: Gemeinschaftsorientierte, genossenschaftliche und inklusive Wohnprojekte fördern- Konzeptvergabe - mehrheitlich beschlossen
+- TOP 33.2: Resolution zur Ausrufung des Klimanotstands unterstützen - zurückgezogen
+- TOP 33.3: Resolution: Wahlrecht ab 16 Jahren! - verwiesen
+- TOP 33.4: Unterzeichnung des ICAN-Städteappells zum Verbot von Atomwaffen - verwiesen
+- TOP 33.5: Eine Seebrücke nach Münster! - zurückgezogen
+- TOP 33.6: Münster als sicherer Zufluchtsort für besonders schutzbedürftige Flüchtlinge – Teilnahme am staatlich-gesellschaftlichen Aufnahmeprogramm für besonders schutzbedürftige Flüchtlinge („NesT“) - mehrheitlich beschlossen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 34.1: Schutzstatus bewahren, Artenvielfalt sichern, Naturerlebnis fördern – Befristete Sperrung von Straßen für den Kfz-Durchgangsverkehr im Europareservat Rieselfelder - verwiesen
+- TOP 34.2: Barfusspark für Münster - verwiesen
+- TOP 34.3: Deutsche Sprache schützen – Gendergerechte Sprache ablehnen - verwiesen
+- TOP 34.4: Information der Bundeswehr an städtischen Schulen ausbauen - verwiesen
+- TOP 34.5: Insektenhotels auf öffentlichen Flächen - verwiesen
+- TOP 34.6: Staatsferne der Medien bei gemeindlichen Publikationen erhalten - verwiesen
+- TOP 34.7: Subvention gezuckerter Milchprodukte stoppen - verwiesen
+- TOP 34.8: Vermüllung öffentlicher Räume stoppen – Stadt muss ein Konzept entwickeln - verwiesen
+- TOP 34.9: Die Stadt Münster initiiert die Gründung einer kommunalen Pflegeausbildungskonferenz und richtet diese aus - verwiesen
+- TOP 34.10: Wolbecker Straße zukunftsfähig machen – Neuordnung des Straßenraumes, Förderung des Einzelhandels und Steigerung der Aufenthaltsqualität - verwiesen
+- TOP 34.11: Zugunsten von Artenvielfalt: Mehr Grün statt Schotter in den Gärten - verwiesen
+- TOP 34.12: Zentrale Anlaufstelle für E-Mobilität einrichten - verwiesen
+- TOP 35: Verschiedenes
