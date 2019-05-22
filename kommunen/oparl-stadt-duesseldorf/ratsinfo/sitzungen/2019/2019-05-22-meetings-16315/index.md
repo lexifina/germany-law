@@ -1,0 +1,63 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-22T17:00:00+02:00
+- Ende: 2019-05-22T20:05:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16315
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16315
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342476.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342476.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342476.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung Seniorenrat - einstimmig beschlossen
+- TOP 3: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - einstimmig abgelehnt
+- TOP 4: Anfrage SPD: Tempo 30 Thewissenweg - beantwortet
+- TOP 5: Straßenzustandsbewertung des Stadtbezirkes 6 - zur Kenntnis genommen
+- TOP 6: Anfrage CDU/FDP: Straßen Instandsetzungsbedarf - beantwortet
+- TOP 7: Bebauungsplan Nr. 06/020 - Beiderseits Vogelsanger Weg - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Anfrage SPD: Flüchtlingsunterkunft In der Nießdonk - vertagt
+- TOP 11: Anfrage SPD: KiTa Flic-Flac - beantwortet
+- TOP 12: Anfrage SPD: fehlende dauerhafte Anbindung Lichtenbroich / Rath (Linie 776) - vertagt
+- TOP 13: Anfrage SPD: Busshuttle E 729 ISS DOME - vertagt
+- TOP 14: Anfrage SPD: Altglas- und Papiercontainer - vertagt
+- TOP 15: Anfrage Fr.+Hr. Sültenfuß (CDU) Hr. Körner (FDP): Sachstand Planung/Umsetzung (Mini-)Kreisverkehre - vertagt
+- TOP 16: Anfrage CDU und FDP: Parken im Gewerbebereich - vertagt
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Anfrage Daxenberger: Schließungen Zweigstellen Stadtsparkasse - schriftlich beantwortet
+- TOP 19: Anfrage Schentek: Personalsituation JFE Ekkehardstraße - schriftlich beantwortet
+- TOP 20: Anfrage CDU/FDP: Schadensregulierung Straßenbauarbeiten - vertagt
+- TOP 21: Anfrage Peters und Kals ( CDU): Geschwindigkeitsanzeigetafeln - vertagt
+- TOP 22: Anfrage Growe: Erweiterung GGS Krahnenburgstraße - schriftlich beantwortet
+- TOP 23: Anfrage Growe: GGS Krahnenburgstraße WLAN - schriftlich beantwortet
+- TOP 24: Anfrage SPD: Kreuzung Kieshecker Weg - vertagt
+- TOP 25: Anfrage SPD: Trasse Ortsumgehung Rath - vertagt
+- TOP 26: Interfr. Antrag: Kreuzung Theodorstraße - einstimmig beschlossen
+- TOP 27: Interfr. Antrag: Busschleuse "Am Roten Haus" - einstimmig beschlossen
+- TOP 28: Antrag CDU und FDP: Kleidercontainer SB 6 - einstimmig beschlossen
+- TOP 29: Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 30: Antrag SPD: Tempo 30 Volkardeyer Weg - einstimmig beschlossen
+- TOP 31: Antrag Helmke: Blumenwiese Damaschkestraße - einstimmig beschlossen
+- TOP 32: Antrag Helmke: OnDemand Verkehr - zurückgezogen
+- TOP 33: Antrag CDU/FDP: Fußgängerfurten An der Piwipp - einstimmig beschlossen
+- TOP 34: Trödelmärkte auf dem Schützenplatz Rather Broich im 2. Halbjahr 2019 - vertagt
+- TOP 35: Bauunterhalt - Hundeauslauf Kartäuserpark - mehrheitlich beschlossen
+- TOP 36: Bauunterhaltungsmittel 2019 - einstimmig beschlossen
+- TOP 37: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 38: Zuschussvergabe 2019 - einstimmig beschlossen
+- TOP 39: Zuschussvergabe 2019 - zurückgezogen
+- TOP 40: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 41: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 42: Sachstand blaue Tonne - zur Kenntnis genommen
+- TOP 43: MdV - Schaffung weiterer KiTa oder Bildungs-, Beratungs- und Freizeitangebote für Kinder/Jugendliche - zur Kenntnis genommen
+- TOP 44: MdV - Beleuchtung Bezirkssportanlage Franz-Rennefeld-Weg - zur Kenntnis genommen
+- TOP 45: MdV - Oberhausener Straße Abbruch Halle - zur Kenntnis genommen
+- TOP 46: MdV - Junges Schauspiel in Mörsenbroich - zur Kenntnis genommen
