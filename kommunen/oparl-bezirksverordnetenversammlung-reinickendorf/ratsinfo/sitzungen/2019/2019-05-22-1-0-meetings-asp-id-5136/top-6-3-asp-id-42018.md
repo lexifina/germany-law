@@ -1,0 +1,8 @@
+# TOP 6.3: Wettbewerb zum Fairen Handel
+
+- Sitzung: 27. öffentliche Sitzung des Jugendhilfeausschusses (2019-05-22)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=42018
+- Ergebnis: im Ausschuss abgelehnt
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=42018
