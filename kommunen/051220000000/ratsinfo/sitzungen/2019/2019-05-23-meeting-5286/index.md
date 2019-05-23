@@ -1,0 +1,53 @@
+# Rat (35. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-05-23T17:05:00+02:00
+- Ende: 2019-05-23T18:18:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRpR4nYrt2rrCXFKGhgqZCc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5286
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWx8MU0y53dyL1a-HzweLDIH6M_weOjLTWTQqKsrRDVM/Bekanntmachung_Rat_23.05.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdpknZ-ALjhJNzu6Ot-T5_WTYlxKgPSLM-jbHCnGOmgE/Oeffentliche_Niederschrift_Rat_23.05.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Notfallstruktur im Solinger Klinikum für Kinder
+- TOP 1.2: Städtisches Klinikum Solingen gGmbH
+- TOP 1.2.1: Strafen für ungültige Ausweispapiere
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 34. Sitzung des Rates am 04.04.2019
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Umbesetzung im Jugendhilfeausschuss hier: Nachfolgeregelung für ein stimmberechtigtes Mitglied
+- TOP 7.: Entsendung einer Vertreterin/eines Vertreters in die Mitgliederversammlung des GVV-Kommunalversicherung VVaG
+- TOP 8.: Entsendung einer Vertreterin/eines Vertreters in die Mitgliederversammlung des Kommunalen Schadensausgleichs westdeutscher Städte (KSA)
+- TOP 9.: Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG)
+- TOP 10.: Gründung einer Stadtentwicklungsgesellschaft Solingen
+- TOP 10.1: Gründung einer Stadtentwicklungsgesellschaft Solingen hier: Antrag der FDP-Ratsfraktion vom 23.05.2019
+- TOP 11.: Kita-Ausbauplanung 2023
+- TOP 12.: Erwerb einer Beteiligung der Stadt Solingen an der Partnerschaft Deutschland (PD) - Berater der öffentlichen Hand GmbH
+- TOP 13.: Entwurf des Jahresabschlusses 2018 der Stadt Solingen
+- TOP 13.1: Entwurf des Jahresabschlusses 2018 der Stadt Solingen
+- TOP 14.: Zustimmung zu einer konsumtiven Mehrauszahlung gemäß § 83 GO NRW Verteilung der Wohngeldersparnis des Landes NRW: Schlussrechnung Nachtragsausgleich 2007-2009
+- TOP 15.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Teilnahme am Mittagessen in Kindertageseinrichtungen der Stadt Solingen
+- TOP 16.: X. Änderungssatzung über die Erhebung der Vergnügungssteuer der Klingenstadt Solingen (Vergnügungssteuersatzung)
+- TOP 17.: Bauleitplanung Talstraße/ Weserstraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 659 sowie Vorstellung der Planung und Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch (BauGB) zum Vorentwurf des Bebauungsplans O 659, jeweils für das Gebiet zwischen der Talstraße, der Forststraße, der Rheinstraße und der Weserstraße (Beschluss 1) – Stadtbezirk Ohligs/Aufderhöhe/Merscheid –
+- TOP 18.: Verschiedenes
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 18.1.1: Haushaltsverfügung für das Jahr 2019
+- TOP 18.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Investitionskostenförderung Städtisches Klinikum Solingen gGmbH
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 34. Sitzung des Rates am 04.04.2019
+- TOP 4.: Verleihung des Ehrenpreises der Stadt Solingen „Die Schärfste Klinge“ 2019
+- TOP 5.: Verschiedenes
+- TOP 5.1: Mitteilungen der Verwaltung
+- TOP 5.2: Anfragen an die Verwaltung
