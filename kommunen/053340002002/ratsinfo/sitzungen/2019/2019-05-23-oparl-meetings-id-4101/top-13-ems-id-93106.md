@@ -1,0 +1,7 @@
+# TOP 13: Mitteilungen der Verwaltung
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Mobilitätsausschusses (2019-05-23)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=93106
+- Beschluss (Datei): Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=343440&DOCTYP=138&OTYP=41&ANNOTS=1
