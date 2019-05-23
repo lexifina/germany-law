@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-23T14:00:00+02:00
+- Ende: 2019-05-23T20:24:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16686
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16686
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342599.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342599.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342599.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aus akt. Anlass der Ratsfraktion Tierschutz FREIE WÄHLER: Vorfall in der Nacht zum 13. Mai - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass des Ratsherrn Dr. Wlecke: RRX in Düsseldorf - beantwortet
+- TOP 3.3: Anfrage aktuell: Schwimmende Hundewiese ja, schwimmendes Schwimmbad nein? - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage BÜ90/GRÜ: Düsseldorf – Mitgliedschaften in Städtenetzwerken? - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Entwicklung in der ambulanten Pflege - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Wildbienenpopulation und Flusslandschaft - beantwortet
+- TOP 4.4: Anfrage der SPD-Ratsfraktion: Düsseldorf in und für Europa - beantwortet
+- TOP 4.5: Anfrage der CDU-Ratsfraktion: Blackout in Düsseldorf? – Pläne bei großflächigen und lang anhaltenden - beantwortet
+- TOP 4.6: Anfrage des Ratsherrn Maniera: Lizensierte Abgabe von Cannabis - schriftlich beantwortet
+- TOP 4.7: Anfrage der CDU-Ratsfraktion: Welche Auswirkungen hat der „Blaugrüne Ring“ auf den Düsseldorfer Einz - schriftlich beantwortet
+- TOP 4.8: Anfrage des Ratsherrn Grenda: Aktuelle Situation in Bewohnerparkgebieten in Düsseldorf - schriftlich beantwortet
+- TOP 4.9: Anfrage des Ratsherrn Grenda: Neue Stadtapp - Gut versorgt in ... - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfrau Opelt: Zustand der Verkehrsüberwachung - schriftlich beantwortet
+- TOP 4.11: Anfrage der Ratsfrau Opelt: Zustand des Ordnungsdienstes - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfrau Krüger: Einsatz von "Wildrettern" - schriftlich beantwortet
+- TOP 4.13: Anfrage des Ratsherrn Dr. Wlecke: Baustellenlärm in Düsseldorf - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau El Fassi: Marathon am 28. April 2019 - schriftlich beantwortet
+- TOP 4.15: Anfrage der Ratsfrau El Fassi: Stellplätze und Stellplatzablösungen - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zurückgezogen
+- TOP 6: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 7: Wim-Wenders-Gymnasium, Neubau eines 4-zügigen Gymnasium und einer Dreifachsporthalle - einstimmig beschlossen
+- TOP 8: Erweiterung Kita Sulzbachstraße, Sulzbachstraße 6, Düsseldorf - AuF-Beschluss - einstimmig beschlossen
+- TOP 9: Rhein-Ruhr-Express (RRX) – Bauwerksplanung der DB Netz AG im Planfeststellungsabschnitt 2.0 - mehrheitlich beschlossen
+- TOP 10: Benrodestraße 46, Rathaus Benrath - Denkmalgerechte Innensanierung - einstimmig beschlossen
+- TOP 11: Unterrather Straße - Klinke 2. BA - - einstimmig beschlossen
+- TOP 12: Bergische Landstraße, Doppelstockkanäle - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 13: Akademiestraße 2, Verlegung von Informations- und Kommunikationstechnik - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 14: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsganges an Gymnasien - einstimmig beschlossen
+- TOP 15: Hochhausrahmenplan Beschluss der Geschäftsordnung des Hochhausbeirates - mehrheitlich beschlossen
+- TOP 16: Weiterentwicklung zu einer Smart City - einstimmig beschlossen
+- TOP 16.1: ÄA Bü90-Grü, SPD und FDP: Weiterentwicklung zu einer Smart City - einstimmig beschlossen
+- TOP 17: Neufassung der Richtlinien über die Erhebung von Entgelten für Leistungen der chemisch-biologischen - einstimmig beschlossen
+- TOP 18: Aufsichtsrat der Digital Innovation Hub Düsseldorf/Rheinland GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 19: Entsendung eines Mitgliedes in den Ausschuss des Deichverbandes Neue Deichschau Heerdt - Beschluss - - einstimmig beschlossen
+- TOP 20: Besetzung von Gremien - einstimmig beschlossen
+- TOP 21: Wiederbestellung von stellvertretenden Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 22: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Anträge
+- TOP 23.1: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER: Rheinbahn erfasst Unfälle mit Tieren - zurückgezogen
+- TOP 23.2: Antrag Tierschutz Freie Wähler: rüfung geeigneter Standorte in der Nähe des Rheins für die Errichtun - mehrheitlich abgelehnt
+- TOP 23.3: Antrag DIE LINKE: Satzung zum Schutz und Erhalt von Wohnraum - vertagt
+- TOP 23.4: Antrag SPD, BÜ90/GRÜ und FDP: Umwelt- und klimafreundliche Energiekonzepte für Groß-Veranstaltungen - abweichend beschlossen
+- TOP 23.4.1: ÄA CDU: Umwelt- und klimafreundliche Energiekonzepte für Groß-Veranstaltungen in Düsseldorf - zurückgezogen
+- TOP 23.5: Antrag SPD, BÜ90/GRÜ und FDP: Fördermitgliedschaft der Landeshauptstadt Düsseldorf in der Deutschen - einstimmig beschlossen
+- TOP 23.6: Antrag der CDU-Ratsfraktion: Städt. Musikschule personell und räumlich auf die Nachfrage ausrichten - mehrheitlich abgelehnt
+- TOP 23.7: Antrag der CDU-Ratsfraktion: Änderung § 4 (2) der Richtlinien für Kunst am Bau und im öffentl. Raum - zurückgezogen
+- TOP 23.8: Antrag der CDU-Ratsfraktion: Land soll Mietpreis- und Belegungsrechte im Bestand ankaufen - mehrheitlich abgelehnt
+- TOP 23.8.1: ÄA SPD, BÜ90/GRÜ und FDP: Land soll Mietpreis - und Belegungsrechte im Bestand ankaufen - mehrheitlich beschlossen
+- TOP 23.9: Antrag SPD, BÜ90/GRÜ und FDP: Maßnahmenkatalog - einstimmig beschlossen
+- TOP 23.10: Antrag der Ratsfraktionen von BÜ90/GRÜ, SPD und FDP: Konsequente Abfallvermeidung - einstimmig beschlossen
+- TOP 23.11: Machbarkeitsstudie für ein regionales Wasserbussystem auf dem Rhein - mehrheitlich beschlossen
+- TOP 23.11.1: ÄA Bü90-Grü: Gemeinnützigkeit und politische Arbeit sind keine Widersprüche - mehrheitlich beschlossen
+- TOP 23.12: Antrag der Ratsfraktion DIE LINKE: Gemeinnützigkeit von zivilgesellschaftl. Organisationen erhalten - abweichend beschlossen
+- TOP 23.13: Antrag der Ratsfraktion DIE LINKE: Stadtklima schützen, Schottergärten verbieten - zurückgezogen
+- TOP 23.13.1: ÄA BÜ90/GRÜ, SPD und FDP: Blumenwiesen statt Steinwüsten - einstimmig beschlossen
