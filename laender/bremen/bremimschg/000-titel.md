@@ -1,1 +1,1 @@
-# Bremisches Gesetz zum Schutz vor schädlichen Umwelteinwirkungen (Bremisches Immissionsschutzgesetz - BremImSchG) vom 26. Juni 2001
+# Bremisches Gesetz zum Schutz vor schädlichen Umwelteinwirkungen und Störfällen (Bremisches Immissionsschutzgesetz - BremImSchG) vom 14. Mai 2019
