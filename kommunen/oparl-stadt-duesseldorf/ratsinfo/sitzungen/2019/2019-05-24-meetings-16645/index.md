@@ -1,0 +1,69 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-24T14:00:00+02:00
+- Ende: 2019-05-24T18:30:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16645
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16645
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342697.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342697.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00342697.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift März - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 5: Zulassung von Vertreter*innen des Seniorenrates gemäß § 58 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 6: Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 7: Verwaltungsvorlagen und mündliche Berichte
+- TOP 7.1: Bericht zur Sicherheitslage - zur Kenntnis genommen
+- TOP 7.2: Bericht zur Kunst im öffentlichen Raum - Wettbewerb "Ort für die Erinnerung und Akzeptanz von gleichgeschlechtlicher und sexueller Vielfalt" - zur Kenntnis genommen
+- TOP 7.3: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - Empfehlung mehrheitlich abgelehnt
+- TOP 7.4: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 7.5: Herstellung einer provisorischen Radfahrstreifen-Markierung Straßenzug Klever Str./Jülichicher Str. - Empfehlung einstimmig beschlossen
+- TOP 7.6: Änderung Ausführungs- u. Finanzierungsbeschlusses f. d. Baumaßnahme Radweg Karlstraße/Worringer Str. - zur Kenntnis genommen
+- TOP 7.7: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2019 - einstimmig beschlossen
+- TOP 7.8: Veranstaltungen im Ehrenhof 2019 - zur Kenntnis genommen
+- TOP 7.9: Weihnachtsmärkte in der Düsseldorfer Innenstadt in den Jahren 2019 bis 2022 - Empfehlung mehrheitlich beschlossen
+- TOP 7.10: Trödelmärkte auf dem Gelände des Großmarktes im 2. Halbjahr 2019 - einstimmig beschlossen
+- TOP 7.11: Ergebnisse: Stadtteilkonferenz Pempelfort vom 08.05.2019 - zur Kenntnis genommen
+- TOP 7.12: EKISO - Entwicklungskonzept Innenstadt Süd-Ost - zur Kenntnis genommen
+- TOP 7.13: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsganges an Gymnasien - zur Kenntnis genommen
+- TOP 7.14: Namensänderung der Realschule Golzheim - zur Kenntnis genommen
+- TOP 7.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.20: Ergebnis des Pilotversuchs zur Reduzierung der zulässigen Höchstgeschwindigkeit an Hauptverkehrsstr. - Empfehlung einstimmig beschlossen
+- TOP 7.21: Sachstand blaue Tonne - zur Kenntnis genommen
+- TOP 8: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 9: Anfragen
+- TOP 9.1: Anfrage zur Sicherheit für den Radverkehr auf der Kölner Straße und Am Wehrhahn - schriftlich beantwortet
+- TOP 9.2: Anfrage zum Sammeln von Altpapier in städtischen Einrichtungen
+- TOP 9.3: Hochhaus „eclipse“ am Kennedydamm
+- TOP 9.4: Baumpflanzungen auf der Schloßstraße - schriftlich beantwortet
+- TOP 9.5: Grüne Vorgärten für das Stadtklima
+- TOP 9.6: Bunker unter dem Carlsplatz
+- TOP 9.7: Dachsanierung der Maxschule - schriftlich beantwortet
+- TOP 9.8: Baustellenbedingte Ersatzhaltestelle „Großmarkt“ – Situation der Fußgänger*innen
+- TOP 9.9: Umgestaltung des Platzes vor dem Carsch-Haus
+- TOP 10: Anträge
+- TOP 10.1: Verkehrskontrollen auf der Ulmenstraße - einstimmig beschlossen
+- TOP 10.2: Antrag zur Verbesserung der Sichtbarkeit der Lichtanlage für den Radverkehr auf der Straße am Wehrha - einstimmig beschlossen
+- TOP 10.3: Freie Sicht auf die Düsselmündung an der Unteren Werft - einstimmig beschlossen
+- TOP 10.4: Sachstandsbericht Sanierung Aalschokker im Alten Hafenbecken - einstimmig beschlossen
+- TOP 10.5: Zustandsbericht über Denkmäler im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 10.6: Wiederherstellung von Fahrbahnflächen, Markierungen und Beschilderungen - einstimmig beschlossen
+- TOP 10.7: Erneuerung und Ergänzung der Piktogramme „Tempo 30“ auf der Schirmerstraße - einstimmig beschlossen
+- TOP 10.8: Busanbindung des Bezirks 1 an den Grafenberger Wald - einstimmig beschlossen
+- TOP 10.9: Radweg Inselstrasse, Bodenmarkierung - einstimmig beschlossen
+- TOP 10.10: Aufnahme der Duisburger Straße ins Radhauptnetz - mehrheitlich abgelehnt
+- TOP 10.11: Kenntlichmachung der Fußgängerzone am Dreieck auf der Nordstraße - mehrheitlich beschlossen
+- TOP 10.12: Verkehrsberuhigung Moltkestraße/Franklinstraße - einstimmig beschlossen
