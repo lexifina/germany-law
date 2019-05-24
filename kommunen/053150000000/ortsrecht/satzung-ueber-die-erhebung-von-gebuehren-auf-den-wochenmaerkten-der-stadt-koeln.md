@@ -1,19 +1,19 @@
 # Satzung über die Erhebung von Gebühren auf den Wochenmärkten der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2016-12-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/gebührensatzung_wochenmärkte_2016_12_21.pdf
+- Datum: 2019-05-24 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung_über_die_erhebung_von_gebühren_auf_den_wochenmärkten___24._mai_2019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung über die Erhebung von Gebühren auf den Wochenmärkten der Stadt Köln vom 19. Dezember 1994
-in der Fassung der 2. Satzung zur Änderung der Satzung über die Erhebung von Gebühren auf den Wochenmärkten der Stadt Köln vom 21. Dezember 2016
-- ABl StK 1994, S. 495, 2010, S. 735, 2016, S. 569 -
+in der Fassung der 3. Satzung zur Änderung der Satzung über die Erhebung von Gebühren auf den Wochenmärkten der Stadt Köln vom 24. Mai 2019
+- ABl StK 1994, S. 495, 2010, S. 735, 2016, S. 569, 2019, S. 281 -
 Der Rat der Stadt Köln hat in seiner Sitzung vom 13.12.1994 aufgrund der §§ 7 und 76 Abs. 1 in der Gemeindeordnung für das Land Nordrhein-Westfalen (GO) in der Fassung der Bekanntmachung vom 14.7.1994 (SGV NW 2023), der §§ 2, 4, 5, 6 und 20 Abs. 2 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21.10.1969 (SGV NW 610) und § 71 der Gewerbeordnung (GewO) in der Fassung der Bekanntmachung vom 1. Januar 1987 (BGBI. I S. 425) – jeweils in der bei Erlaß dieser Satzung geltenden Fassung – diese Satzung beschlossen:
 § 1 Gebührenpflicht
-(1) Für die Inanspruchnahme fest zugewiesener Standplätze (sog. Dauerstandplätze) auf den Wochenmärkten der Stadt Köln werden je Markttag und Meter Länge der Verkaufsfront des Standplatzes Standgebühren in Höhe von 1,78 € und für die Inanspruchnahme tageweise zugewiesener Standplätze (sog. Tagesstandplätze) auf den Wochenmärkten der Stadt Köln je Markttag und Meter Länge der Verkaufsfront des Standplatzes Standgebühren in Höhe von 2,65 € jeweils zuzüglich des Betrages, der nach dem Unsatzsteuergesetz als Umsatzsteuer (Mehrwertsteuer) zu entrichten ist, erhoben. Ein angefangener Meter wird voll berechnet. Verkaufsfront ist die an den Gang des Wochenmarktes angrenzende Seite des Standplatzes, von der aus marktüblicherweise verkauft wird.
+(1) Für die Inanspruchnahme fest zugewiesener Standplätze (sog. Dauerstandplätze) auf den Wochenmärkten der Stadt Köln werden je Markttag und Meter Länge der Verkaufsfront des Standplatzes Standgebühren in Höhe von 1,83 € und für die Inanspruchnahme tageweise zugewiesener Standplätze (sog. Tagesstandplätze) auf den Wochenmärkten der Stadt Köln je Markttag und Meter Länge der Verkaufsfront des Standplatzes Standgebühren in Höhe von 3,21 € jeweils zuzüglich des Betrages, der nach dem Unsatzsteuergesetz als Umsatzsteuer (Mehrwertsteuer) zu entrichten ist, erhoben. Ein angefangener Meter wird voll berechnet. Verkaufsfront ist die an den Gang des Wochenmarktes angrenzende Seite des Standplatzes, von der aus marktüblicherweise verkauft wird.
 (2) Für jede Zuweisung eines Dauerstandplatzes auf Wochenmärkten der Stadt Köln nach § 4 Abs. 2 der Satzung für die Wochenmärkte und den Großmarkt Raderberg der Stadt Köln – Kölner Marktsatzung – wird eine Verwaltungsgebühr in Höhe von 20,59 € zuzüglich des Betrages, der nach dem Umsatzsteuergesetz als Umsatzsteuer (Mehrwertsteuer) zu entrichten ist, erhoben. Für das Standkennzeichen gem. § 5 Abs. 6 der Satzung für die Wochenmärkte und den Großmarkt Raderberg der Stadt Köln – Kölner Marktsatzung – wird eine Verwaltungsgebühr in Höhe von 20,76 € zuzüglich des Betrages, der nach dem Umsatzsteuergesetz als Umsatzsteuer (Mehrwertsteuer) zu entrichten ist, erhoben.
 Für die Registrierung als Tagesplatzhändler wird eine Verwaltungsgebühr in Höhe von 10,00 € zuzüglich des Betrages, der nach dem Umsatzsteuergesetz als Umsatzsteuer (Mehrwertsteuer) zu entrichten ist, erhoben.
 Seite 1 von 3
