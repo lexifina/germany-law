@@ -1,0 +1,69 @@
+# 27. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-05-27T17:00:00+02:00
+- Ende: 2019-05-27T19:45:00+02:00
+- Ort: John-F.-Kennedy-Platz 1, 10825 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5535
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5535
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=332007
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung vorliegender Protokolle - im Ausschuss abgelehnt
+- TOP 3: Bericht aus der Verwaltung - im Ausschuss abgelehnt
+- TOP 3.1: Alte Stadtbäume – neues Leben - im Ausschuss abgelehnt
+- TOP 3.2: Charta Stadtgrün - im Ausschuss abgelehnt
+- TOP 4: Anträge aus dem Kinder- und Jugendparlament - im Ausschuss abgelehnt
+- TOP 4.1: Zweites Fußballtor für den Spielplatz Illigstraße/Grenzweg - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Zebrastreifen für die Prechtlstraße - vertagt
+- TOP 4.3: Gefährliches Über-Rot-Fahren an der Kreuzung Groß-Ziethener Straße/Nahariyastraße - vertagt
+- TOP 4.4: Veränderung der Meßmerstraße zu einer Spielstraße - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Ein Zebrastreifen an der Kreuzung Tautenburger Straße/Frankenhauser Straße - vertagt
+- TOP 4.6: Ein Zebrastreifen auf der Motzener Straße - vertagt
+- TOP 4.7: Wiedereinführung des Straßenbahnbetriebs auf dem Lichtenrader- und Mariendorfer Damm - vertagt
+- TOP 4.8: Pflege der Spielplätze in Tempelhof-Schöneberg - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Anhebung der Halker Zeile am nördlichen Ende der Straße - vertagt
+- TOP 4.10: Umstellung der Ampelschaltung an der Kreuzung Marienfelder Allee/Nahmitzer Damm - vertagt
+- TOP 4.11: Verlängerung der Grün-Phase der Fußgängerampel Kolonnenstraße Ecke Wilhelm-Kabus-Straße - vertagt
+- TOP 4.12: Sauberkeit der Grundschule am Barbarossaplatz - vertagt
+- TOP 4.13: Durchsetzung von Parkverbot an Straßenecken in Friedenau - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Ampelschaltung vor dem Robert Blum Gymnasium - vertagt
+- TOP 4.15: Fahrradwege für die Günzel Straße - vertagt
+- TOP 4.16: Skatepark an der Schlossstraße - vertagt
+- TOP 4.17: Schlangenspielplatz (im Kurt-Hiller-Park an der Grunewaldstraße) - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 4.18: 2-spuriger Radweg Hohenstaufenstraße (Höhe Martin-Luther-Straße) - vertagt
+- TOP 4.19: Ein Radweg für die Grunewaldstraße - vertagt
+- TOP 4.20: Längere grüne Ampelzeit für die Fußgänger an der Kreuzung Potsdamer Straße Ecke Goebenstraße - vertagt
+- TOP 4.21: Beleuchtung im Volkspark Schöneberg/Wilmersdorf - vertagt
+- TOP 4.22: Zebrastreifen vor der Tempelherren Grundschule - vertagt
+- TOP 4.23: Mülleimer vor der Carl-Zeiss-Oberschule - vertagt
+- TOP 5: Anträge - (offen)
+- TOP 5.1: Fußgängerüberweg in der Bautzener Straße verstetigen - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 5.2: Toiletten auf stark frequentierten S- und U-Bahnhöfen im Bezirk einrichten - vertagt
+- TOP 5.3: Radwege auf der Langenscheidtstraße baulich gegen Falschparker sichern - vertagt
+- TOP 5.4: Schaffung von geeigneten Abstellmöglichkeiten für Fahrräder vor dem T-Damm-Center - vertagt
+- TOP 5.5: Naturlehrpfade einrichten (Änderungsantrag Fraktion DIE LINKE) - vertagt
+- TOP 5.6: Tiergehege im Franckepark (Änderungsantrag der Fraktion CDU) - vertagt
+- TOP 5.7: Betonplatten zu Gärten - vertagt
+- TOP 5.8: Gewerbestandort Motzener Straße sichern - Schichauweg an B101 anbinden (Ausschuss für Stadtentwicklung - federführend) (Änderungsantrag der Fraktion FDP) - vertagt
+- TOP 5.9: Platzfläche Ecke Yorck- / Bülowstraße (Änderungsantrag Fraktion DIE LINKE) - vertagt
+- TOP 5.10: Straßenschäden in der Lützowstraße beseitigen (Änderungsantrag der Fraktion FDP) - vertagt
+- TOP 5.11: Mülleimer im Grünzug zwischen Kirch- und Greulichstraße - vertagt
+- TOP 5.12: Wissen über Stadtbäume mehren – Infoschilder anbringen und Baumkataster öffentlich zugänglich machen - vertagt
+- TOP 5.13: Sicherer Schulweg zur Käthe-Kollwitz-Grundschule während der Bauzeit Bahnhofstraße Lichtenrade - vertagt
+- TOP 5.14: Erschütterungen in der Goltzstraße in Lichtenrade - vertagt
+- TOP 5.15: Spielplatzanlage Belziger Straße nahe der Vorbergstraße besser vor Verschmutzung schützen - vertagt
+- TOP 5.16: Radverkehrsinfrastruktur in der Attilastraße - vertagt
+- TOP 5.17: Goltzstraße für den Umleitungsverkehr für die Zeit der jahrelangen Sperrung des Bahnübergangs an der Bahnhofstraße ertüchtigen - vertagt
+- TOP 6: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 6.1: Einmündung Werner-Voß-Damm / Manfred-von-Richthofen-Straße - vertagt
+- TOP 6.2: Rad- und Fußverkehr im Bereich des Knotens Priesterweg / Prellerweg - vertagt
+- TOP 6.3: Kurzzeitparkzone vor dem Rathaus Schöneberg endlich realisieren (Beschluss Drs. Nr. 0132/XX) - vertagt
+- TOP 6.4: Pilotprojekt On-Demand-Service für autonomen Kleinbus zum Südkreuz ermöglichen - vertagt
+- TOP 6.5: BerlKönig auch in den Stadtrand von Tempelhof-Schöneberg - vertagt
+- TOP 7: Verschiedenes - vertagt
