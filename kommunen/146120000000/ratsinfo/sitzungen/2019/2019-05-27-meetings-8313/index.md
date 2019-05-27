@@ -1,0 +1,63 @@
+# 65. Sitzung des Stadtrates (Sondersitzung)
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-05-27T16:00:00+02:00
+- Ende: 2019-05-27T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/8313
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/8313
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00412874.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkte ohne Debatte
+- TOP 2: Vertagungen der Stadtratssitzung vom 9. Mai 2019 – Antrag Sondersitzung
+- TOP 2.1: Kultur- und Nachbarschaftszentren vor Ort - Vertagung nach 19 Uhr
+- TOP 2.2: Masterplan Fairtrade - Vertagung nach 19 Uhr
+- TOP 2.3: Ortsamt Loschwitz als Standort erhalten - Vertagung nach 19 Uhr
+- TOP 2.4: Gute Arbeit in und bei der Landeshauptstadt Dresden - Vertagung nach 19 Uhr
+- TOP 2.5: Grundsätze für die Stadtgestaltung - Vertagung nach 19 Uhr
+- TOP 2.6: Wildwuchs von Hochhäusern im Stadtbild verhindern - Leitbild Hochhausentwicklung für Dresden entwickeln - Vertagung nach 19 Uhr
+- TOP 2.7: Reaktivierung Schulstandort Ginsterstraße 3 in 01169 Dresden als dauerhafter Auslagerungsstandort für kommunale Schulen - Zustimmung mit Ergänzung
+- TOP 2.8: Vorkaufsrechtssatzung Nr. 13, Dresden-Seidnitz/Tolkewitz, Wohnstandort Kipsdorfer Straße/Weesensteiner Straße - Vertagung nach 19 Uhr
+- TOP 2.9: Sowjetischer Garnisonsfriedhof - Eigentumsübertragung vom Freistaat Sachsen an die Landeshauptstadt Dresden - Zustimmung
+- TOP 2.10: Eine neue Skateanlage für die Johannstadt - Zustimmung mit Änderung
+- TOP 2.11: Stadtratsbeschlüsse achten und umsetzen - Stadtbezirksbeiräte mit angemessenen Budgets ausstatten - Vertagung nach 19 Uhr
+- TOP 2.12: Zweckentfremdung von Wohnraum - Vertagung nach 19 Uhr
+- TOP 2.13: Gewährung von Bildungsurlaub unter Fortzahlung des Entgelts bzw. der Besoldung für die Beschäftigten und Auszubildenden der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 2.14: Projekttag "Moderne. Sehen. Verstehen - Auf den Spuren des Architekten Wolfgang Hänsch" - Zustimmung
+- TOP 2.15: Abschluss eines Erbbaurechtsvertrages für ein Grundstück in Dresden-Neustadt, Bautzner Straße - Zustimmung
+- TOP 2.16: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Änderung Satzung Straßenkunst) - Ablehnung
+- TOP 3: Mietpreise kappen! Neue Kappungsgrenzenverordnung für die Landeshauptstadt Dresden in Kraft setzen! - Vertagung nach 19 Uhr
+- TOP 4: Wohn- und Geschäftsviertels „Ferdinandstraße“ – Ghetto verhindern - Vertagung durch Einreicher
+- TOP 5: Jugendbeteiligung jetzt wirklich ernst nehmen! - punktweise Zustimmung mit Änderung
+- TOP 6: Anträge - Liquiditätsreserve
+- TOP 6.1: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung durch Einreicher
+- TOP 6.2: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung durch Einreicher
+- TOP 6.3: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung auf Geschäftsordnungsantrag
+- TOP 6.4: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung durch Einreicher
+- TOP 7: Vertagungen der Stadtratssitzungen vom 09. Mai 2019
+- TOP 7.1: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - Vertagung nach 19 Uhr
+- TOP 7.2: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung auf Geschäftsordnungsantrag
+- TOP 7.3: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung nach 19 Uhr
+- TOP 7.4: Klinikum Dresden – wirtschaftliche Lage - Ablehnung
+- TOP 7.5: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung nach 19 Uhr
+- TOP 7.6: Wachstumsregion Dresden: Verkehrliche Rolle der Stadt Dresden untersuchen - Mobilitätsanforderungen von Berufspendlern und deren Auswirkungen auf die Verkehrsbelegungszahlen ermitteln - Vertagung nach 19 Uhr
+- TOP 7.7: Stadtteilverträglicher ÖPNV in Striesen, Gruna und Blasewitz - Vertagung durch Einreicher
+- TOP 7.8: Teilgebiets-Lärmaktionsplan Innere Neustadt (Entwurf für Offenlage) - Vertagung nach 19 Uhr
+- TOP 7.9: Europäisches Zentrum der Künste Hellerau – Investitionen zur Sicherstellung der Spielfähigkeit des Hauses 2019/2020 - Vertagung auf Geschäftsordnungsantrag
+- TOP 7.10: Verkehrsmuseum Dresden – Einmalige Zuwendung zur Dauerausstellung zur Geschichte der Eisenbahn - zurückgezogen
+- TOP 7.11: Budgetanpassungen - Vertagung
+- TOP 7.12: Sanierung des Römischen Bades im Schloss Albrechtsberg - Vertagung nach 19 Uhr
+- TOP 7.13: Für eine vielfältige Veranstaltungs- und Clubszene in Dresden - Aufhebung der Sperrstunde nach Sächsischem Gaststättengesetz - Vertagung nach 19 Uhr
+- TOP 7.14: Übertragung einer Teilfläche des Flurstücks Nr. 444/79 der Gemarkung Strehlen an die Cultus gGmbH und Aufnahme der Kindertageseinrichtung Geystraße, 01217 Dresden, in den Bedarfsplan der Landeshauptstadt Dresden - Vertagung durch Einreicher
+- TOP 7.15: Grundhafter Ausbau der Bühlauer Straße im Ortsteil Schullwitz von Haus Nr. 28 bis Aspichring - Vertagung durch Einreicher
+- TOP 7.16: Verwendung von Einnahmen aus Geschwindigkeitsüberwachungsanlagen (Blitzern) - Vertagung durch Einreicher
+- TOP 7.17: Schutz von FahrradfahrerInnen während der Sanierung der Loschwitzer Brücke - Vertagung nach 19 Uhr
+- TOP 7.18: Grundlagenbetrachtung einer Elbquerung zwischen Pieschen und dem Ostragehege - Vertagung nach 19 Uhr
+- TOP 7.19: Straßenrückbau stoppen - Verkehrsplanung für alle Verkehrsteilnehmer, hier: Korrektur Vorplanungen Stadtbahn 2020 Teilstrecke 1.3 "Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße" - Vertagung auf Geschäftsordnungsantrag
+- TOP 7.20: Dresdner Fernsehturm - Konzept für die verkehrliche Erschließung erstellen - Vertagung nach 19 Uhr
+- TOP 8: Skaterplätze in Dresden einrichten und fördern! - erledigt
