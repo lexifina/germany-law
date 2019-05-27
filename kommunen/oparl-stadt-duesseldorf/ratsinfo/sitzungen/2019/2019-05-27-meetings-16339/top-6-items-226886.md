@@ -1,0 +1,7 @@
+# TOP 6: Gut versorgt in Düsseldorf
+
+- Sitzung: Beirat zur Förderung der Belange von Menschen mit Behinderung (2019-05-27)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/226886
+- Ergebnis: zur Kenntnis genommen
