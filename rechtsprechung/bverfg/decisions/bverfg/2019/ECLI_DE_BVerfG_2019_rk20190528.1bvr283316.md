@@ -1,0 +1,384 @@
+---
+ecli: "ECLI:DE:BVerfG:2019:rk20190528.1bvr283316"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 2833/16"
+decided: "2019-05-28"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 28. Mai 2019\n- 1 BvR 2833/16 -, Rn. 1-35,\n                    https://www.bverfg.de/e/rk20190528_1bvr283316"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/05/rk20190528_1bvr283316.html"
+corpus_doc_id: "BVerfG_2019-05-28_K_1_BvR_2833_16_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/aktg/0136.md", "germany/bund/acts/bgb/0034.md", "germany/bund/acts/bgb/0745.md", "germany/bund/acts/bgb/1770.md", "germany/bund/acts/bgb/2038.md", "germany/bund/acts/bverfgg/0003.md", "germany/bund/acts/bverfgg/0023.md", "germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093c.md", "germany/bund/acts/bverfgg/0094.md", "germany/bund/acts/bverfgg/0095.md", "germany/bund/acts/geng/0043.md", "germany/bund/acts/gmbhg/0047.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/006.md", "germany/bund/acts/grundgesetz/artikel/014.md", "germany/bund/acts/grundgesetz/artikel/020.md", "germany/bund/acts/grundgesetz/artikel/101.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 2833/16 vom 2019-05-28
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 1 BvR 2833/16 -
+
+
+
+
+IM NAMEN DES VOLKES
+
+In dem Verfahren
+über
+die Verfassungsbeschwerde
+
+der Frau S...,
+
+- Bevollmächtigter:
+
+          Rechtsanwalt Rolf Behrentin,
+          Im MediaPark 8, 50670 Köln -
+
+
+         a) den Beschluss des Bundesgerichtshofs vom 9. November 2016 - IV ZR 147/16
+gegen
+         -,
+
+
+         b) das Urteil des Oberlandesgerichts Stuttgart vom 2. Mai 2016 - 19 U 85/15 -
+
+
+hat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+
+die Richter Masing,
+
+Paulus,
+
+Christ
+
+am 28. Mai 2019 einstimmig beschlossen:
+
+    1. Das Urteil des Oberlandesgerichts Stuttgart vom 2. Mai 2016 - 19 U 85/15 - verletzt, soweit die Berufung der Beschwerdeführerin hinsichtlich der Umlaufbeschlüsse Nummern 1, 2, 3, 8, 9, 10 und 12 zurückgewiesen wurde, die Beschwerdeführerin in ihrem Grundrecht aus Artikel 3 Absatz 1 des Grundgesetzes.
+       Insoweit wird es aufgehoben und das Verfahren an das Oberlandesgericht Stuttgart zurückverwiesen. Damit wird der Beschluss des Bundesgerichtshofs vom
+       9. November 2016 - IV ZR 147/16 - gegenstandslos.
+
+    2. Im Übrigen wird die Verfassungsbeschwerde nicht zur Entscheidung angenommen.
+
+
+                                               1/10
+
+     3. Das Land Baden-Württemberg hat der Beschwerdeführerin die Hälfte der notwendigen Auslagen zu erstatten.
+
+Gründe:
+
+1
+
+Die Verfassungsbeschwerde betrifft die Wirksamkeit von Beschlüssen einer Erbengemeinschaft.
+
+I.
+
+2
+
+1. Die Beschwerdeführerin - die Klägerin des Ausgangsverfahrens - ist die Tochter des
+Erblassers. Vor dem Erbfall hatte dieser seinen erwachsenen Enkel - den Beklagten des
+Ausgangsverfahrens - adoptiert. Einige Jahre vor der Adoption hatte der Erblasser seine
+Frau zu 40 % sowie seine beiden Töchter und den Beklagten zu jeweils 20 % zu Erben
+eingesetzt. Ersatzerben sollten deren Abkömmlinge nach den Regeln der gesetzlichen
+Erbfolgeordnung sein und gegebenenfalls Anwachsung eintreten. Die Schwester der Beschwerdeführerin - die leibliche Mutter des Beklagten - schlug die Erbschaft aus.
+
+3
+
+Die Erbengemeinschaft - bestehend aus der Beschwerdeführerin, der Witwe und dem
+Beklagten - fasste gegen den Willen der Beschwerdeführerin zwölf streitgegenständliche
+Umlaufbeschlüsse, wobei teilweise der Beklagte sowohl im eigenen Namen als auch aufgrund einer Vorsorgevollmacht im Namen der Witwe allein handelte. Hinsichtlich fünf dieser Beschlüsse (Nr. 4 bis 7, 13) war die Witwe unstreitig wegen eines Interessenkonflikts
+mit ihrem Stimmrecht ausgeschlossen.
+
+4
+
+2. Die Beschwerdeführerin klagte vor dem Landgericht gegen den Beklagten und die Witwe des Erblassers, die jedoch im Verlauf des Verfahrens verstarb, unter anderem auf
+Feststellung der Unwirksamkeit der Umlaufbeschlüsse, wobei sie Geschäftsunfähigkeit
+der Witwe, Unwirksamkeit der Vollmacht, aufgrund einer geringeren Erbquote fehlende
+Stimmenmehrheit des allein handelnden Beklagten sowie zum Teil einen Ausschluss des
+Beklagten wegen Interessenkonflikten geltend machte. Der Beklagte berief sich demgegenüber darauf, dass er über eine Erbquote von 40 % (20 % durch Testament und 20 %
+als Ersatzerbe durch die Ausschlagung) verfüge.
+
+5
+
+Das Landgericht wies die Klage ab. Es könne dahinstehen, ob die Witwe geschäftsunfähig gewesen sei, ob die Vollmacht wirksam erteilt worden sei oder ob sich die Beschwerdeführerin auf die Geschäftsunfähigkeit berufen könne. In allen Fällen habe der Beklagte,
+der über eine Erbquote in Höhe von 40 % verfüge, auch ohne die Stimmen der Beschwerdeführerin und der Witwe eine Mehrheitsentscheidung treffen können. Die Geschäftsunfähigkeit der Witwe unterstellt, sei für eine wirksame Beschlussfassung die
+
+
+                                             2/10
+
+Mehrheit der zugelassenen Teilhaber ausreichend. Maßgebend sei, dass ohne den ausgeschlossenen Miterben eine beschlussfähige Mehrheit vorhanden sei; dies sei hier der
+Fall, da ausgehend von den zugelassenen Miterben - der Beschwerdeführerin mit 20 %
+und dem Beklagten mit 40 % - eine beschlussfähige Mehrheit gegeben gewesen sei. Aufgrund des überwiegenden Anteils des Beklagten habe nur durch seine Stimmabgabe eine Mehrheitsentscheidung der Erbengemeinschaft getroffen werden können.
+
+6
+
+3. Die Beschwerdeführerin stützte ihre Berufung nur noch auf die fehlerhafte Bestimmung
+der Erbteile und auf die vom Landgericht angenommene Unerheblichkeit der Geschäftsfähigkeit der Witwe. Das Oberlandesgericht wies die Berufung mit angegriffenem Urteil
+zurück.
+
+7
+
+Gemäß § 2038 Abs. 1 Satz 1 BGB gelte der Grundsatz der gemeinschaftlichen Verwaltung des Nachlasses. Jedoch sehe § 2038 Abs. 2 Satz 1 in Verbindung mit § 745 BGB
+vor, dass die Miterben durch Stimmenmehrheit eine der Beschaffenheit des gemeinschaftlichen Gegenstandes entsprechende ordnungsgemäße Verwaltung und Benutzung
+beschließen könnten. Damit biete sich ein Weg, eine ordnungsgemäße Verwaltung auch
+gegen den Willen widersprechender, widerspenstiger oder gar renitenter Miterben durchzuführen und somit den wirtschaftlichen Wert des Nachlasses zu erhalten und zu mehren. Die Schwerfälligkeit, die sich aus dem Gesamthandsprinzip ergebe, werde überwunden. Die Miterbengemeinschaft bleibe funktionsfähig. Für minderjährige, abwesende,
+betreute Miterben brauche kein Vormund, Pfleger oder Betreuer zu handeln und das Familien- beziehungsweise Betreuungsgericht nicht belangt zu werden, wenn ohne diese
+Miterben eine beschlussfähige Mehrheit vorhanden sei (Verweis auf Löhnig, in: Staudinger, BGB, Neubearbeitung 2016, § 2038 Rn. 27; Damrau, ZEV 2006, S. 190; Mahlmann,
+ZEV 2009, S. 320).
+
+8
+
+Die Größe der Erbteile habe das Landgericht zutreffend bestimmt. Der Beklagte sei aufgrund der Ausschlagung durch seine leibliche Mutter in die Ersatzerbenstellung eingerückt. Die Adoption des Beklagten habe nach § 1770 Abs. 2 BGB das Verwandtschaftsverhältnis des Beklagten zu seiner leiblichen Mutter unberührt gelassen. Die
+Ersatzerbfolge solle nach dem Testament Vorrang vor der Anwachsung haben.
+
+9
+
+Bei den Beschlüssen, bei denen die Witwe unstreitig aufgrund Interessenkollision nach
+dem Rechtsgedanken von § 34 BGB, § 136 AktG, § 47 Abs. 4 GmbHG, § 43 Abs. 6
+GenG ausgeschlossen gewesen sei (Beschlüsse 4 bis 7, 13), sei für eine wirksame
+Mehrheitsentscheidung lediglich die Mehrheit der restlichen Erbteile maßgebend gewesen. Zur Abstimmung zuzulassen gewesen seien somit nur 60 %, so dass für eine wirksame Mehrheitsentscheidung die Anteile des Beklagten in Höhe von 40 % ausreichend
+gewesen seien.
+
+10
+
+
+                                            3/10
+
+Hinsichtlich der übrigen Beschlüsse (1 bis 3, 8 bis 10, 12) habe ein Interessenkonflikt der
+Witwe nicht bestanden. Zu Recht sei das Landgericht davon ausgegangen, dass es auf
+die Frage der Geschäftsfähigkeit der Witwe nicht ankomme. Im Falle der Geschäftsfähigkeit wären bei den Beschlüssen 100 % zugelassen gewesen; da der Beklagte und die
+Witwe jeweils zugestimmt hätten, hätten die Beschlüsse eine Mehrheit von 80 % gehabt.
+Im Falle der Geschäftsunfähigkeit seien zur Abstimmung nur 60 % zugelassen gewesen
+mit der Folge, dass für eine Mehrheit erneut die Anteile des Beklagten in Höhe von 40 %
+ausreichend gewesen seien. Die Bestellung eines Betreuers für die Witwe sei nicht erforderlich gewesen.
+
+11
+
+4. Gegen die Nichtzulassung der Revision legte die Beschwerdeführerin Nichtzulassungsbeschwerde zum Bundesgerichtshof ein. In einem der Verfassungsbeschwerde beigefügten, als Nichtzulassungsbeschwerdebegründung bezeichneten Schriftsatz wurde
+die Zulassung der Revision nur betreffend die Beschlüsse ohne Interessenkollision (Nr. 1
+bis 3, 8 bis 10, 12) beantragt. Der Bundesgerichtshof wies mit angegriffenem Beschluss
+die Nichtzulassungsbeschwerde mit Formbegründung zurück.
+
+II.
+
+12
+
+Die Beschwerdeführerin rügt eine Verletzung von Art. 3 Abs. 3, Art. 14 Abs. 1, Art. 6 Abs.
+1 und Art. 2 Abs. 1 in Verbindung mit Art. 20 Abs. 3 GG.
+
+13
+
+1. Zum einen wendet sich die Beschwerdeführerin gegen die Annahme des Oberlandesgerichts, dass der Beklagte wegen § 1770 Abs. 2 BGB nach der Ausschlagung der Erbschaft durch seine Mutter deren Ersatzerbe geworden sei. Die sich aus der Auslegung
+des Oberlandesgerichts ergebende doppelte Erbberechtigung diskriminiere die leiblichen
+Kinder, die dadurch in ihren Rechten aus Art. 3 Abs. 3, Art. 14 Abs. 1 und Art. 6 Abs. 1
+GG verletzt seien. Das Adoptivkind werde unter Verstoß gegen Art. 3 Abs. 3 GG wegen
+seiner Abstammung privilegiert. Zudem beschädige die doppelte Verwandtschaft die Familie.
+
+14
+
+2. Zum anderen rügt sie eine Verletzung von Art. 14 Abs. 1 GG durch die Auslegung von
+§ 2038 BGB durch das Oberlandesgericht. Die Rechtsauffassung, dass die Stimmanteile
+der Witwe im Falle ihrer Geschäftsunfähigkeit von der Abstimmung ausgeschlossen seien, verhindere, dass die Beschwerdeführerin gemeinsam mit der Witwe gegen den Beklagten stimme. Das Oberlandesgericht sei davon ausgegangen, dass für minderjährige,
+abwesende oder betreute Miterben kein Vormund, Pfleger oder Betreuer zu handeln
+brauche, wenn ohne diese Miterben eine beschlussfähige Mehrheit vorhanden gewesen
+sei; diese Bedingung sei hier jedoch nicht erfüllt gewesen, da weder die Beschwerdeführerin noch der Beklagte aus eigener Kraft Mehrheitsbeschlüsse hätten herbeiführen können und es somit auf die Stimmanteile der Witwe entscheidend angekommen sei. Das
+Oberlandesgericht unterliege einem Zirkelschluss, wenn die Bedingung „beschlussfähige
+
+
+                                              4/10
+
+Mehrheit ohne den Erben“ erst nach Ausschluss der Stimmanteile des Geschäftsunfähigen geprüft werde; dies führe dazu, dass selbst nur ganz gering bedachte Erben gegen
+einen geschäftsunfähigen Haupterben Beschlüsse fassen könnten. Dies verletze auch
+die Eigentumsrechte der Witwe. Die Fachgerichte hätten deshalb zunächst die Geschäftsfähigkeit der Witwe und die Wirksamkeit der Vollmacht aufklären müssen. Die
+Rechtsauffassung des Oberlandesgerichts sei objektiv willkürlich und verletzte Art. 3 Abs.
+1 GG, das Rechtsstaatsprinzip (Art. 2 Abs. 1 i.V.m. Art. 20 Abs. 3 GG) und Art. 14 Abs. 1
+GG, da der Beschwerdeführerin die Möglichkeit verwehrt werde, gemeinsam mit der Witwe (vertreten durch einen Betreuer) Mehrheitsbeschlüsse herbeizuführen.
+
+15
+
+3. Die Nichtzulassung der Revision durch das Oberlandesgericht und die Zurückweisung
+der Nichtzulassungsbeschwerde durch den Bundesgerichtshof verstießen gegen das
+Rechtsstaatsprinzip (Art. 2 Abs. 1 i.V.m. Art. 20 Abs. 3 GG) und das Recht auf den gesetzlichen Richter (Art. 101 Abs. 1 Satz 2 GG).
+
+III.
+
+16
+
+Die Verfassungsbeschwerde ist gemäß § 23 Abs. 2 BVerfGG durch den Berichterstatter
+dem Bundeskanzleramt, dem Bundesministerium des Innern, für Bau und Heimat, dem
+Bundesministerium der Justiz und für Verbraucherschutz, dem Ministerium der Justiz und
+für Europa Baden-Württemberg sowie dem Beklagten des Ausgangsverfahrens zugestellt
+worden (§ 93c Abs. 2, § 94 Abs. 2 und 3 BVerfGG).
+
+17
+
+Der Beklagte hat Stellung genommen und unter anderem vorgetragen, hinsichtlich der
+Möglichkeit eines Mehrheitsbeschlusses bei Geschäftsunfähigkeit der Witwe sei nicht ersichtlich, dass sich die Beschwerdeführerin für ihre Argumentation auf eine von der angegriffenen Entscheidung des Oberlandesgerichts abweichende Rechtsprechung oder Meinung im Schrifttum berufen könne. Weitere Stellungnahmen sind nicht eingegangen.
+
+IV.
+
+18
+
+Die Kammer nimmt die Verfassungsbeschwerde, soweit sie zulässig ist, zur Entscheidung an und gibt ihr statt. Im Übrigen wird sie nicht zur Entscheidung angenommen. Die
+Voraussetzungen für eine stattgebende Kammerentscheidung gemäß § 93c Abs. 1 Satz
+1 in Verbindung mit § 93a Abs. 2 Buchstabe b BVerfGG liegen vor, weil die maßgeblichen verfassungsrechtlichen Fragen bereits entschieden und die Verfassungsbeschwerde, soweit sie zulässig ist, offensichtlich begründet ist (§ 93c Abs. 1 Satz 1 BVerfGG). Die
+Grundrechtsverletzung hat zudem besonderes Gewicht.
+
+19
+
+1. Die Verfassungsbeschwerde ist allerdings teilweise unzulässig.
+
+
+                                               5/10
+
+20
+
+a) Soweit sich die Verfassungsbeschwerde gegen die Entscheidung des Oberlandesgerichts betreffend die Umlaufbeschlüsse Nr. 4 bis 7 und 13 wendet, ist sie unzulässig, da
+die Beschwerdeführerin nicht hinreichend dargelegt hat, dass sie den Rechtsweg erschöpft hat (§ 90 Abs. 2 Satz 1 BVerfGG).
+
+21
+
+Denn der als Anlage beigefügten Begründung der Nichtzulassungsbeschwerde war zu
+entnehmen, dass die Nichtzulassungsbeschwerde auf die Umlaufbeschlüsse Nr. 1 bis 3,
+8 bis 10 und 12 beschränkt sein sollte. Es kann dabei dahinstehen, ob dieser Schriftsatz
+der bei Gericht eingereichten Nichtzulassungsbeschwerdebegründung entspricht. Denn
+aus dem Vorbringen der Verfassungsbeschwerde war nicht zu erkennen, ob der Rechtsweg auch im Hinblick auf die weiteren Umlaufbeschlüsse erschöpft ist, so dass es insoweit an einer hinreichenden Darlegung der Rechtswegerschöpfung fehlt.
+
+22
+
+b) Auch bezüglich der Umlaufbeschlüsse Nr. 1 bis 3, 8 bis 10, 12 ist die Verfassungsbeschwerde insoweit unzulässig, als sie eine fehlerhafte Auslegung von § 1770 Abs. 2 BGB
+durch das Oberlandesgericht rügt. Die Beschwerdeführerin hat nicht dargelegt, dass sie
+insoweit dem Grundsatz der Subsidiarität genügt hat (vgl. § 90 Abs. 2 Satz 1 BVerfGG).
+Danach muss der Beschwerdeführer im Ausgangsverfahren in sachlicher Hinsicht grundsätzlich im Rahmen jedes Rechtsbehelfs zu dem mit der Verfassungsbeschwerde geltend
+gemachten Aspekt vorgetragen haben. Sonst hat er nicht alles Zumutbare getan, um die
+geltend gemachte Grundrechtsverletzung zu verhindern oder zu beseitigen beziehungsweise um eine fachgerichtliche Entscheidung zu seinen Gunsten herbeizuführen (vgl.
+Hellmann, in: Barczak, BVerfGG, 2018, § 90 Rn. 394 f.).
+
+23
+
+In der der Verfassungsbeschwerde beigefügten Begründung der Nichtzulassungsbeschwerde werden lediglich Ausführungen zur Nichtberücksichtigung der Stimmanteile der
+Witwe gemacht. Auch hier kann dahinstehen, was die Beschwerdeführerin vor dem Bundesgerichtshof tatsächlich vorgetragen hat. Dem Vorbringen der Verfassungsbeschwerde
+war jedenfalls ein vollständiger Vortrag nicht zu entnehmen.
+
+24
+
+2. Die Verfassungsbeschwerde ist - soweit sie zulässig ist - offensichtlich begründet
+(§ 93c Abs. 1 Satz 1 BVerfGG). Das angegriffene Urteil des Oberlandesgerichts verletzt
+das Willkürverbot (Art. 3 Abs. 1 GG).
+
+25
+
+a) Ein Richterspruch verstößt nach ständiger Rechtsprechung des Bundesverfassungsgerichts dann gegen den allgemeinen Gleichheitssatz in seiner Ausprägung als Verbot
+objektiver Willkür (Art. 3 Abs. 1 GG), wenn er unter keinem denkbaren Aspekt rechtlich
+vertretbar ist und sich daher der Schluss aufdrängt, dass er auf sachfremden Erwägungen beruht. Das ist anhand objektiver Kriterien festzustellen. Schuldhaftes Handeln des
+
+
+                                             6/10
+
+Richters ist nicht erforderlich. Fehlerhafte Rechtsanwendung allein macht eine Gerichtsentscheidung nicht objektiv willkürlich. Schlechterdings unhaltbar ist eine fachgerichtliche
+Entscheidung vielmehr erst dann, wenn eine offensichtlich einschlägige Norm nicht berücksichtigt, der Inhalt einer Norm in krasser Weise missverstanden oder sonst in nicht
+mehr nachvollziehbarer Weise angewendet wird (vgl. BVerfGE 89, 1 <13 f.>; 96, 189
+<203>, stRspr.).
+
+26
+
+b) Nach diesen Maßstäben verletzt das die Berufung zurückweisende Urteil des Oberlandgerichts die Beschwerdeführerin in ihrem Grundrecht aus Art. 3 Abs. 1 GG. Das
+Oberlandesgericht verkennt, dass der Grundsatz, wonach es der Bestellung eines Betreuers für einen geschäftsunfähigen Miterben dann nicht bedarf, wenn auch ohne diesen
+Miterben eine beschlussfähige Mehrheit vorhanden ist, nur dann greift, wenn diese Mehrheit auch die Abstimmung trägt. Die gegenteilige Auffassung des Oberlandesgerichts ist
+unter keinem rechtlichen Gesichtspunkt vertretbar.
+
+27
+
+Das Oberlandesgericht stützt sich zur Begründung in erster Linie auf einen Satz aus der
+Kommentarliteratur, wonach für minderjährige, abwesende, betreute Miterben kein Vormund, Pfleger oder Betreuer zu handeln und das Familien- beziehungsweise Betreuungsgericht nicht belangt zu werden braucht, wenn ohne diese Miterben eine beschlussfähige
+Mehrheit vorhanden ist (Löhnig, in: Staudinger, BGB, Neubearbeitung 2016, § 2038
+Rn. 27; ebenso Rißmann/Szalai, in: Gsell/Krüger/Lorenz/Reymann, beck-online Großkommentar, Stand: 1. November 2018, § 2038 BGB Rn. 75; Gergen, in: Münchener Kommentar zum BGB, 7. Aufl. 2017, § 2038 Rn. 38; Flechtner, in: Burandt/Rojahn, Erbrecht,
+3. Aufl. 2019, § 2038 BGB Rn. 20; Mahlmann, ZEV 2009, S. 320 <323>). Dies kann jedoch nur so verstanden werden, dass die beschlussfähige Mehrheit dem Beschluss auch
+zustimmen muss, also eine relative Mehrheit der übrigen Miterben, die jedoch für sich genommen keinen wirksamen Beschluss fassen könnten, nicht genügt. Denn nur wenn die
+Mehrheit aller Anteile den Beschluss fasst, kommt es auf den Geschäftsunfähigen im Ergebnis nicht an, so dass die Bestellung eines Betreuers für diesen Zweck als überflüssige
+Förmelei erscheint. Einen anderen Zweck kann das Erfordernis, dass auch ohne den Geschäftsunfähigen eine beschlussfähige Mehrheit vorhanden ist, nicht haben.
+
+28
+
+So lag der Fall auch in der als Beleg herangezogenen Entscheidung des Landgerichts
+Köln (Urteil vom 13. November 1958 - 8 O 99/57 -, WuM 1959, S. 54). Dort schloss die
+Erbengemeinschaft einen Mietvertrag, ohne dass einer der fünf Miterben, der im Krieg
+verschollen war, vertreten war. Das Landgericht hielt dies für unschädlich, da gemäß §§
+2038, 745 BGB bei Verwaltungsmaßnahmen Stimmenmehrheit entscheide und vier der
+fünf Miterben mit dieser Mehrheit den Vertrag nach außen wirksam abgeschlossen hätten.
+
+29
+
+Die Annahme des Oberlandesgerichts und insbesondere des Landgerichts, dass rein formal ohne die Witwe eine an sich beschlussfähige Mehrheit von 60 % vorhanden gewesen
+
+
+                                               7/10
+
+sei und es deswegen auf die übrigen Anteile nicht mehr ankomme, verkennt dies in nicht
+mehr nachvollziehbarer Weise. Eine solche Auffassung wird - soweit ersichtlich - in
+Rechtsprechung und Literatur nirgends vertreten.
+
+30
+
+Es besteht auch keine Veranlassung, einen minderjährigen, betreuten oder abwesenden
+Miterben von der Abstimmung auszuschließen und so dessen Interessen von vornherein
+zu übergehen, da der Betreffende durch seinen gesetzlichen Vertreter - gegebenenfalls
+verbunden mit einer gerichtlichen Genehmigung - an der Abstimmung mitwirken kann. Insofern ist dieser Fall streng von dem Ausschluss eines Miterben von der Abstimmung wegen Interessenkollision zu unterscheiden. Denn dann ist der Betreffende in der Tat von
+der Abstimmung ausgeschlossen mit der Folge, dass allein die Mehrheit der verbleibenden Stimmen - gegebenenfalls also eine Minderheit - entscheiden kann. Dies folgt aber
+zwingend aus dem Ausschluss vom Stimmrecht, da sonst die Stimmanteile des Ausgeschlossenen faktisch mit „nein“ gewertet würden. Deshalb ist die Entscheidung des Oberlandesgerichts, dass betreffend diejenigen Beschlüsse, hinsichtlich derer sich die Witwe
+unstreitig in einer Interessenkollision befand, der Beklagte mit seinen Anteilen in Höhe
+von 40 % allein einen Mehrheitsbeschluss herbeiführen konnte, auch zutreffend. Falsch
+ist jedoch, dass das Oberlandesgericht die Fälle ohne Interessenkollision identisch behandelt.
+
+31
+
+3. Die weiteren Rügen der Beschwerdeführerin betreffend diese Beschlüsse (ohne Interessenkollision) können dahingestellt bleiben.
+
+32
+
+4. Dem aufgezeigten Grundrechtsverstoß kommt besonderes Gewicht zu. Sie beruhen
+auf einer groben Verkennung des durch die Verfassung gewährten Schutzes, auf einem
+leichtfertigen Umgang mit den grundrechtlich geschützten Positionen und verletzen damit
+in krasser Form rechtsstaatliche Grundsätze (BVerfGE 90, 22 <25>).
+
+V.
+
+33
+
+Das Urteil des Oberlandesgerichts ist nach alledem im tenorierten Umfang aufzuheben
+und das Verfahren an das Oberlandesgericht zurückzuverweisen (§ 95 Abs. 2 BVerfGG).
+Der Beschluss des Bundesgerichtshofs wird damit gegenstandslos.
+
+34
+
+Die Entscheidung über die Auslagenerstattung beruht auf § 34a Abs. 2 BVerfGG.
+
+
+
+
+                                             8/10
+
+35
+
+Diese Entscheidung ist unanfechtbar.
+
+Masing                      Paulus            Christ
+
+
+
+
+                                       9/10
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom
+28. Mai 2019 - 1 BvR 2833/16
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 28. Mai 2019 -
+                1 BvR 2833/16 - Rn. (1 - 35), http://www.bverfg.de/e/
+                rk20190528_1bvr283316.html
+ECLI            ECLI:DE:BVerfG:2019:rk20190528.1bvr283316
+
+
+
+
+                                         10/10
