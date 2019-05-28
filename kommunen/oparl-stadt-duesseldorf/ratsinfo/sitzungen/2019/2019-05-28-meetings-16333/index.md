@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-28T17:00:00+02:00
+- Ende: 2019-05-28T20:55:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16333
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16333
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343347.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343347.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343347.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung der Vertreterinnen des Seniorenrates gemäß § 58 Abs. 3 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 5: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 6: 138. FNP-Änderung - Glasmacherviertel - ÖffBet,BehBet,öffAusl - mehrheitlich beschlossen
+- TOP 7: Umfahrung Glashüttenstraße - zurückgezogen
+- TOP 8: Verlauf Ortsumgehung Gerresheim - mehrheitlich abgelehnt
+- TOP 9: Zahl der im Glasmacherviertel zu erstellenden Wohneinheiten - mehrheitlich abgelehnt
+- TOP 10: Informationsvorlage Ergebnis Kooperativer Wettbewerb mit Öffentlichkeitsbeteiligung Nr. 07/012 - Hag - zur Kenntnis genommen
+- TOP 11: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - mehrheitlich abgelehnt
+- TOP 12: Glashüttenstraße - Barrierefreier Ausbau der Bushaltestelle Knuppertsbrück Fahrtrichtung Norden - zur Kenntnis genommen
+- TOP 13: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 14: Umsetzung von Maßnahmen im Rahmen der Wiedereinführung des neunjährigen Bildungsganges an Gymnasien - einstimmig beschlossen
+- TOP 15: Erweiterung Kita Sulzbachstraße, Sulzbachstraße 6, Düsseldorf - AuF-Beschluss - einstimmig beschlossen
+- TOP 16: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 17: Sachstand blaue Tonne - zur Kenntnis genommen
+- TOP 18: Zuschuss an den Tennisclub 1904 Blau-Schwarz e.V. - einstimmig beschlossen
+- TOP 19: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 20: Beschleunigung des Umweltverbundes auf der B7 - mehrheitlich beschlossen
+- TOP 21: zügige Besetzung der freien Stelle in der Jugendeinrichtung „Heyebad“ - einstimmig beschlossen
+- TOP 22: Allee der Jahres-Bäume - abweichend beschlossen
+- TOP 23: Müllproblematik auf dem Gerricusplatz – Aufstellung größerer Abfallbehälter - abweichend beschlossen
+- TOP 24: Zwischennutzung der Fläche für eine Jugendfreizeiteinrichtung am Quellenbusch - abweichend beschlossen
+- TOP 25: „Geschützte Kreuzung“ Torfbruchstraße/Dreherstraße - abweichend beschlossen
+- TOP 26: Sportplatz An der Leimkuhle/Klotzbahn - einstimmig beschlossen
+- TOP 27: Maßnahmen gegen Insektensterben - zur Kenntnis genommen
+- TOP 28: Wunschgymnasium in Gerresheim – Schuljahr 2019/ 2020 - zur Kenntnis genommen
+- TOP 29: Sanierung BAB 3, Bereich Hubbelrath - vertagt
+- TOP 30: P+R Platz auf dem Gelände des Glasmacherviertels - zur Kenntnis genommen
+- TOP 31: Baustelle Höherhof- / Heckteichstraße - zur Kenntnis genommen
+- TOP 32: Nutzung Lager 61 - vertagt
+- TOP 33: Parken Heckteichstraße - Informationsvorlage zum Beschluss der Bezirksvertretung 7 vom 26.03.2019 - zur Kenntnis genommen
+- TOP 34: Verkehrsschild "Schule" auf der Märkischen Straße - zur Kenntnis genommen
+- TOP 35: Quadenhofstraße - zur Kenntnis genommen
+- TOP 36: Bauarbeiten Düsselbrücke der Bahn - zur Kenntnis genommen
