@@ -1,0 +1,64 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-28T16:00:00+02:00
+- Ende: 2019-05-28T19:55:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16276
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16276
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343360.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343360.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343360.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 10 gemäß § 22 Geschäftsordnung des Rates für die bis zum 14.05.2019 eingegangenen Fragen - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen und Einwohnerinnen / Einwohnern
+- TOP 5: Berichte und Verwaltungsvorlagen
+- TOP 5.1: Zulassung des Mitgliedes des Seniorenrates - einstimmig beschlossen
+- TOP 5.2: Information zum Marktwesen - passieren lassen
+- TOP 5.3: Garath 2.0 Den Wandel gestalten - passieren lassen
+- TOP 5.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.5: Bauanträge Otto-Braun-Straße 3-11, 15-21 - Sanierung des Bestandes, Aufstockung um ein Vollgeschoss, - mehrheitlich beschlossen
+- TOP 5.6: Trödelmärkte in Garath Zentrum Ost im 2. Halbjahr 2019 - einstimmig beschlossen
+- TOP 5.7: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 2. Halbjahr 2019 - einstimmig beschlossen
+- TOP 5.8: Trödelmärkte auf dem Park & Ride Parkplatz am Einkaufszentrum Hellerhof, Carlo-Schmid-Straße 2, im 2 - einstimmig beschlossen
+- TOP 5.9: Bezirklicher Bauunterhalt 2019 Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 5.10: Verfügungsmittel der BV 10, Zuschuss an die Diakonie Düsseldorf e.V. "zentrum plus" Garath - einstimmig beschlossen
+- TOP 5.11: Verfügungsmittel der BV 10, Zuschuss an die Bürger- und Interes-sengemeinschaft Garath e.V. (BIG), A - einstimmig beschlossen
+- TOP 5.12: Bezirklicher Bauunterhalt Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Hau - einstimmig beschlossen
+- TOP 6: Anfragen aus vorherigen Sitzungen
+- TOP 6.1: Kreisverkehre im Stadtbezirk 10 - schriftlich beantwortet
+- TOP 6.2: Urdenbacher Kämpe – Haus Bürgel – Urdenbacher Altrhein / Baumberger Aue – Pestizideinsatz in der Näh - schriftlich beantwortet
+- TOP 6.3: Wegfall eines Kassensitzes für einen Kinderarzt - schriftlich beantwortet
+- TOP 6.4: Mögliche Standorte für die Realisierung eines Seniorenwohnprojektes in Hellerhof und Garath - schriftlich beantwortet
+- TOP 7: aktuelle Anfragen
+- TOP 7.1: Pat*innen für Spielplätze - schriftlich beantwortet
+- TOP 7.2: Garath 2.0 – Urban Gardening - schriftlich beantwortet
+- TOP 7.3: Radschnellweg - zurückgezogen
+- TOP 7.4: Brunnen vor der Grundschule Ingeborg Bachmann Straße - vertagt
+- TOP 7.5: Kein Abschluss ohne Anschluss - schriftlich beantwortet
+- TOP 7.6: Steingärten im Stadtbezirk 10 in Düsseldorf - vertagt
+- TOP 7.7: Zukünftige Planung des Spielplatzes an der Clausthal-Zellerfelder-Straße in Hellerhof - schriftlich beantwortet
+- TOP 8: Anträge
+- TOP 8.1: Naturschonender Grünschnitt im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 8.2: Verbreiterung des Bürgersteiges vor dem Eingang der Bezirksvertretung/ - einstimmig beschlossen
+- TOP 8.3: Beibehaltung der ambulanten Pflege der Caritas im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 8.4: Verbesserung der kinderärztlichen Betreuung im Bezirk 10 - einstimmig beschlossen
+- TOP 8.5: Spielplätze Garath-Hellerhof: Instandsetzung, zusätzliche Bänke und ausreichende Beschattung - einstimmig beschlossen
+- TOP 8.6: Einladung des Leiters des Jugendamtes - einstimmig beschlossen
+- TOP 8.7: Hitzeperiode 2018 - schriftlich beantwortet
+- TOP 8.8: Schließung der öffentlichen Toilette am S-Bahnhof, bei gleichzeitiger Errichtung einer Wall-Toilette - einstimmig beschlossen
+- TOP 8.9: Verbesserung der Verkehrssituation an der Montessori Schule Düsseldorf Süd - einstimmig beschlossen
+- TOP 9: Informationsvorlagen - zur Kenntnis genommen
+- TOP 9.1: Förderung von stationsbasiertem CarSharing in Garath und Hellerhof - zur Kenntnis genommen
+- TOP 9.2: Wetterschutz für die neuen Fahrradständer am S-Bahnhof Hellerhof - zur Kenntnis genommen
+- TOP 9.3: Barrierefreie Haltestellen im Bezirk - zur Kenntnis genommen
+- TOP 9.4: Aufhebung/Änderung der Verkehrszeichen an/in der Sackgasse Emil-Barth-Str. 17-19 und eventuelle Ausw - zur Kenntnis genommen
+- TOP 9.5: Sachstand blaue Tonne - zur Kenntnis genommen
+- TOP 10: Verschiedenes
