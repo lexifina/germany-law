@@ -1,0 +1,65 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-05-28T16:00:00+02:00
+- Ende: 2019-05-28T19:35:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16669
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16669
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343364.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343364.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00343364.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - mehrheitlich beschlossen
+- TOP 4: Rederecht der Mitglieder des Seniorenrates - einstimmig beschlossen
+- TOP 5: Baumschutzsatzung - zur Kenntnis genommen
+- TOP 6: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - zur Kenntnis genommen
+- TOP 7: Ergebnis des Pilotversuchs zur Reduzierung der zulässigen Höchstgeschwindigkeit an Hauptverkehrsstr. - zur Kenntnis genommen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Abbruch Schwelmer Str. 7 - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Zuwendung an die Städt. Montessori-Grundschule für das Theaterprojekt „Mein Körper gehört mir“ - Ag - einstimmig beschlossen
+- TOP 13: Bezirksbezogene Haushaltsmittel - zur Kenntnis genommen
+- TOP 14: Jubiläum Kinderspielhaus - einstimmig beschlossen
+- TOP 15: Bezirksbezogene Haushaltsmittel Kinderspielhaus - zur Kenntnis genommen
+- TOP 16: Flingern Lichtspiele 2019 - einstimmig beschlossen
+- TOP 17: Jugendvideowettbewerb „24h To Take“ 2019 - einstimmig beschlossen
+- TOP 18: Bezirksbezogene Haushaltsmittel Filmwerkstatt - zurückgezogen
+- TOP 19: Zuschuss für Spielplatzbetreuungen durch die Bürgerinitiative Flingern im Stadtwerkepark und auf dem - einstimmig beschlossen
+- TOP 20: Bezirksbezogene Haushaltsmittel Spielplatzbetzreuung - zur Kenntnis genommen
+- TOP 21: Zuschuss für eine mobile Bühne an den Verein Kabawil e. V. - einstimmig beschlossen
+- TOP 22: Bezirksbezogene Haushaltsmittel für KABAWIL - einstimmig beschlossen
+- TOP 23: Unterstützung onomato künstlerverein e.V. - mehrheitlich beschlossen
+- TOP 24: Bezirksbezogene Haushaltsmittel für BBK-Kunstforum - abweichend beschlossen
+- TOP 25: Demenznetz - einstimmig beschlossen
+- TOP 26: Wiederherstellung der Abpollerung des Bürgersteiges an der Brehmstraße - einstimmig beschlossen
+- TOP 27: Barrierefreier Gehweg Junkersstraße - einstimmig beschlossen
+- TOP 28: Elektrokästen im Bezirk 2 - zurückgezogen
+- TOP 29: Sitzbänke am Edisonplatz (Daimlerstraße/Ecke Benzstraße) - abweichend beschlossen
+- TOP 30: Nutzung von privatem Raum zum Parken - mehrheitlich beschlossen
+- TOP 31: Geländer Kühlwetterstraße - einstimmig beschlossen
+- TOP 32: Hotels im Stadtbezirk 2 sowie angrenzende Bezirke - beantwortet
+- TOP 33: Rethelstraße linke Fahrspur - beantwortet
+- TOP 34: Rundbank Weseler Straße Mülheimer Straße - beantwortet
+- TOP 35: Gestaltung der Stadtwerke-Stromkästen und Kabelverteilerschränke im Stadtbezirk 2 - beantwortet
+- TOP 36: Geförderter Wohnraum im Bezirk - beantwortet
+- TOP 37: Innenhofatlas - beantwortet
+- TOP 38: Fahrradständer Schillerplatz - beantwortet
+- TOP 39: Provisorische Bushaltestelle Beethovenstraße - zur Kenntnis genommen
+- TOP 40: Fahrradständer Herderstraße Humboldtstraße - zur Kenntnis genommen
+- TOP 41: Fahrradständer vor der Licht-Apotheke Lichtstraße/Ecke Bruchstraße - zur Kenntnis genommen
+- TOP 42: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 43: Brahmsplatz - zur Kenntnis genommen
+- TOP 44: Fahrradständer Gerresheimer Straße 168 - zur Kenntnis genommen
+- TOP 45: Öffentliche Toilette am Schillerplatz - zur Kenntnis genommen
+- TOP 46: Sachstand blaue Tonne - zur Kenntnis genommen
+- TOP 47: Umsetzung von ÖPNV-Maßnahmen zum Fahrplanwechsel 09.06.2019 - zur Kenntnis genommen
+- TOP 48: Abschluss des Testbetriebs und dauerhafte Einrichtung der ÖPNV-Spur Flurstraße - zur Kenntnis genommen
