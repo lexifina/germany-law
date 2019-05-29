@@ -1,0 +1,84 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-05-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5221797
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5221797
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP -: Teil B - Nichtöffentlicher Teil
+- TOP 12.: Kenntnisnahmen und Veröffentlichungen
+- TOP 12.2: Bau und Umwelt
+- TOP 2.: Bauvorhaben Areal Knorr- Bremse - Vorstellung des Fachreferates
+- TOP 4.2.1.: Schaffung von zusätzlichem Baurecht bei bestehenden Bebauungsplänen
+- TOP 4.2.2.: Aufstellen eines Papierkorbs und Montieren von Holzdielen auf den Betonklötzen als Sitzgelegenheit vor der Stadtbibliothek Milbertshofen
+- TOP 4.4.1.: Überprüfung der Kreuzung Ingolstädter Str. / Ecke Sudetendeutschestr. und Erwägung eines Wendeverbots
+- TOP 4.4.2.: Verlängerung eines Taxisstandplatzes "Am Oberwiesenfeld" - Moosacher Str.
+- TOP 4.4.3.: Anbringen von Haltverbotsschildern vor dem Behindertenzugang, Aufstellen von drei Blumentrögen, Fassadengestaltung an der Stadtbibliothek Milbertshofen Hier: Anbringen von Haltverbotsschildern vor dem Behindertenzugang
+- TOP 4.4.4.: Durchsetzen der StVO in der Humperdinckstraße und verstärkte Kontrollen im ganzen Stadtbezirk 11 a) Polizei - Antwortschreiben b) KVR - Antwortschreiben
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget AG Buhlstraße e.V., Spiel und Begegnungszentrum am Hart SBZirkus OKTini vom 11. - 14.06.2019 1.926,00 € Az: 0262.0-11-0323
+- TOP 6.1.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Hugo-Wolf-Str. Sommerfest am 11.07.2019 1.000,00 € / Az. 0262.0-11-0320
+- TOP 6.1.3.: (E) Stadtbezirksbudget Johanniter-Unfall-Hilfe e.V. Spielprogramm "Umsonst und Draußen" vom 03.08. - 06.09.2019 2.650,00 Euro, Az.: 0262.0-11-0322
+- TOP 6.1.4.: (E) Stadtbezirksbudget Regsam - Trägerverein für regionale soziale Arbeit e.V. Messe "Günstiger Leben im Münchner Norden" am 28.06.2019 910,00 Euro, Az.: 0262.0-11-0324
+- TOP 6.1.5.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt, Einrichtung Riva Nord Nachbarschaftsfest am 14.09.2019 1.747,50 Euro, Az.: 0262.0-11-0326
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Fahrgassenversatz errichten am Schulweg Keferloherstraße zum Schutz der Kinder
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Gerecht ist, wenn Bodenwertsteigerungen, die auf Leistungen der Allgemeinheit beruhen, auch der Allgemeinheit zugutekommen
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Einrichtung einer Kurzparkzone vor der Kleingartenanlage NO 53
+- TOP 8.: Anhörungen
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Bauleitplanung für den Bereich "Am Oberwiesenfeld" - Knorr-Bremse
+- TOP 8.2.2.: Max-Liebermann-Str. 6 a) Bauvorhaben: Neubau Studentenwohnheim, Beherbergungsbetrieb, Gastronomie und Tiefgarage – VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.3.: Anträge auf Baumentfernung: - Wiegandweg 25 - Eduard-Schenk-Straße 27 - Freiligrathstraße 74 - Piccoloministr. 2
+- TOP 8.2.4.: Mittelfristige Finanzplanung 2018 - 2022: Mehrjahresinvestitionsprogramm - Anhörungsverfahren - Fortschreibung für die Jahre 2019 bis 2023
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Anhörung zum Stadtratsantrag Nr 14- 20 / A 04801 Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnachtsmärkte
+- TOP 8.3.2.: Veranstaltung "Angerfest" zwischen Hildegard-von-Bingen-Anger und Frauenmantelanger am 13.07.2019
+- TOP 8.3.3.: Veranstaltung "Siedlerfest" auf dem Spengelplatz am 20.07.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: Lena-Christ-Str. Südseite - Absolutes Haltverbot
+- TOP 8.4.2.: Schleißheimer Str 506 - Frauenholz - Oberschleißheim: "8. Mira Radtour" am 28.07.19
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Garten Oase", Bad-Soden-Str. 16A b) "Taverna Synantisis", Schopenhauerstr. 67a c) "Esto", Knorrstraße 89
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 9.2.2.: Meldelisten über eingereichte Bauvorhaben im Stadtbezirk
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 9.3.2.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP 9.3.3.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 9.3.4.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: - Max-Liebermann-Straße - Rose-Pichler-Weg / Ernst-Schneider-Weg - Nordhaide - Parlerstraße
+- TOP 9.4.2.: Vollzug der Grünanlagensatzung - Baustelleneinrichtung am Kienzlweg auf Höhe Wiegandweg 2
+- TOP 9.4.3.: Arbeiten im Straßenraum: Kreuzungsumbau Neuherbergstraße / Dolleschelstraße
+- TOP 9.4.4.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 11.: Anhörungen
+- TOP 12.2.1.: Zweckentfremdung von Wohnraum durch Abbruch: Bachstelzenweg
