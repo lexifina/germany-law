@@ -18,6 +18,9 @@ Teil 3 Inhalt der Bauvorlagen
 § 13 | Übereinstimmungsgebot
 Teil 4 Datenschutz
 § 14 | Übermittlung personenbezogener Daten
-Teil 5 Übergangs- und Schlussvorschriften
-§ 15 | Übergangsvorschriften
-§ 16 | Inkrafttreten, Außerkrafttreten
+Teil 5 Aufbewahrungspflicht
+§ 15 | Aufbewahrungspflicht
+Teil 6 Übergangs- und Schlussvorschriften
+§ 16 | Übergangsvorschriften
+§ 17 | Inkrafttreten, Außerkrafttreten
+Einzelansicht Seitenanfang
