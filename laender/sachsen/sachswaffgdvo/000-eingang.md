@@ -1,3 +1,4 @@
 # Verordnung der Sächsischen Staatsregierung zur Durchführung des Waffengesetzes (Sächsische Waffengesetzdurchführungsverordnung – SächsWaffGDVO)
 Vom 30. August 2017
+Rechtsbereinigt mit Stand vom 1. Juni 2019
 Auf Grund des § 42 Absatz 5 Satz 4 Halbsatz 1, des § 48 Absatz 1 Satz 1, Absatz 1a und des § 55 Absatz 6 Satz 1 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592; 2003 I S. 1957), von denen § 42 Absatz 5 durch Artikel 1 Nummer 1 des Gesetzes vom 5. November 2007 (BGBl. I S. 2557) und § 48 Absatz 1a durch Artikel 1b des Gesetzes vom 25. November 2012 (BGBl. I S. 1381) eingefügt worden ist, verordnet die Staatsregierung:
