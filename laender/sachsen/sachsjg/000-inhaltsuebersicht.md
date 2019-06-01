@@ -15,7 +15,8 @@ Teil 2 Organisations- und Verfahrensrecht Abschnitt 1 Allgemeine Vorschriften
 § 12 Zuständigkeit zur Betrauung von Bereichsrechtspflegern
 § 12a Wahrnehmung amtsanwaltlicher Aufgaben
 § 13 Gerichtsverwaltung
-§ 13a Aufbewahrung von Schriftgut
+§ 13a Informationsrecht der Presse
+§ 13b Aufbewahrung von Schriftgut
 Abschnitt 2 Ausführung von die ordentliche Gerichtsbarkeit betreffenden verfahrensrechtlichen Vorschriften
 § 14 Ernennung der Handelsrichter
 § 15 Dienstaufsicht
@@ -84,8 +85,9 @@ Teil 6 Ausführung des Vereinsrechts des Bürgerlichen Gesetzbuchs
 Teil 7 Vertretung des Freistaates Sachsen in gerichtlichen Verfahren
 § 58 Verordnungsermächtigung
 § 59 Empfangszuständigkeit für Klagezustellungen
-§ 60 Vertretungsregelung zum Transsexuellengesetz
-Teil 8 Justizkosten Abschnitt 1 Justizverwaltungskosten
+Teil 8 Ausführung des Einführungsgesetzes zum Bürgerlichen Gesetzbuch
+§ 60 Landesrechtliche Zuständigkeiten
+Teil 9 Justizkosten Abschnitt 1 Justizverwaltungskosten
 § 61 Allgemeine Regelungen
 § 62 Kostenbeitreibung
 § 63 Verwaltungsvollstreckungsverfahren
@@ -99,7 +101,7 @@ Abschnitt 3 Stundung und Erlass von Kosten, Befreiungsvorschriften
 § 69 Befreiungsvorschriften
 Abschnitt 4 Gebührenverzeichnis
 § 70 Gebührenverzeichnis
-Teil 9 Schlussvorschriften
+Teil 10 Schlussvorschriften
 § 71 Übergangsvorschriften
 § 72 Einschränkung von Grundrechten
 § 73 Änderung und Aufhebung anderer Rechtsvorschriften
