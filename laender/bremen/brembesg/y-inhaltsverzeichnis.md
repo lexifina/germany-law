@@ -57,6 +57,7 @@ Abschnitt 4 Zulagen, Vergütungen
 § 46 | Zulage für Beamtinnen und Beamte bei Justizvollzugseinrichtungen, Gerichten und Psychiatrischen Krankenhäusern
 § 47 | Zulage für Beamtinnen und Beamte der Steuerverwaltung
 § 48 | Zulage für Lehrerinnen und Lehrer als Pädagogische Mitarbeiterin oder Pädagogischer Mitarbeiter
+§ 48a | Zulage für Lehrkräfte zur stufenweisen Anhebung der Lehrkräftebesoldung
 § 49 | Zulage für Beamtinnen und Beamte mit Meisterprüfung oder Abschlussprüfung als staatlich geprüfte Technikerin oder staatlich geprüfter Techniker
 § 50 | Zulage für Juniorprofessorinnen oder Juniorprofessoren
 § 51 | Zulage bei mehreren Ämtern
@@ -89,7 +90,7 @@ Abschnitt 9 Übergangsvorschriften
 § 73 | Übergangsvorschrift für die am 1. Januar 2013 vorhandenen Beamtinnen und Beamten in den Besoldungsgruppen W 2 und W 3
 § 74 | Übergangsvorschrift im Bereich der Lehrkräfte
 § 75 | Übergangsvorschrift bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung
-§ 76 | Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes 2002
+§ 76 | Übergangsvorschrift aus Anlass des Professorenbesoldungsreformgesetzes 2002 und zur Vergabe und Ruhegehaltfähigkeit von Funktions-Leistungsbezügen
 § 77 | Übergangsvorschrift aus Anlass der Neuregelung der Auslandsbesoldung
 § 78 | Übergangsvorschrift aus Anlass der Neuregelung von Ausgleichszulagen
 § 79 | (weggefallen)
