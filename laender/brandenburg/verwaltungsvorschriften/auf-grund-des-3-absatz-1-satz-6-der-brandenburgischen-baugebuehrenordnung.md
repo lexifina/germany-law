@@ -1,99 +1,99 @@
 # Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung
 
 - Herausgeber: Land Brandenburg
-- Datum: 2018-06-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2018
+- Datum: 2019-06-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/baupreis_2019
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Baupreisindexzahl 2018
+Baupreisindexzahl für 2019
 
-vom 26. April 2018
+vom 24. April 2019
 
-(ABl./18, [Nr. 19], S.419)
+(ABl./19, [Nr. 17], S.460)
 
 Auf Grund des § 3 Absatz 1 Satz 6 der Brandenburgischen Baugebührenordnung vom 20. August 2009 (GVBl. II S. 562), die zuletzt durch die Verordnung vom 5. Oktober 2016 (GVBl. II Nr. 53) geändert worden ist, macht das Ministerium für Infrastruktur und Landesplanung als oberste Bauaufsichtsbehörde bekannt:
 
-Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,145.
+Die Baupreisindexzahl nach § 3 Absatz 1 Satz 3 der Brandenburgischen Baugebührenordnung, mit der die anrechenbaren Bauwerte der Anlage 2 zu vervielfältigen sind, beträgt 1,178.
 
 Die sich daraus ergebenden fortgeschriebenen anrechenbaren Bauwerte werden in der nachstehenden Tabelle veröffentlicht.
 
 Tabelle der anrechenbaren Bauwerte je Kubikmeter Brutto-Rauminhalt
 
-gültig ab 1. Juni 2018
+gültig ab 1. Juni 2019
 
-| Nr. | Gebäudeart | anrechenbare Bauwerte in Euro/m³
+| Nr. | Gebäudeart | anrechenbare Bauwertein Euro/m³ 2019
 
 | 1
 
 | Wohngebäude
 
-| 129
+| 133
 
 
 | 2
 
 | Wochenendhäuser
 
-| 113
+| 117
 
 
 | 3
 
 | Büro- und Verwaltungsgebäude, Banken und Arztpraxen
 
-| 174
+| 179
 
 
 | 4
 
 | Schulen
 
-| 165
+| 170
 
 
 | 5
 
 | Kindertageseinrichtungen
 
-| 148
+| 152
 
 
 | 6
 
 | Hotels, Pensionen, Heime, Sanatorien bis 60 Betten, Gaststätten, Kantinen
 
-| 148
+| 152
 
 
 | 7
 
 | Hotels, Heime, Sanatorien über 60 Betten
 
-| 172
+| 177
 
 
 | 8
 
 | Krankenhäuser
 
-| 192
+| 198
 
 
 | 9
 
 | Versammlungsstätten, wie Mehrzweckhallen, soweit nicht nach den Nummern 11 und 12, Theater, Kinos
 
-| 148
+| 152
 
 
 | 10
 
 | Hallenbäder
 
-| 159
+| 164
 
 
 | 11
@@ -105,7 +105,7 @@ gültig ab 1. Juni 2018
 
 | 11.1
 
-| bis 5 000 m³ Brutto-Rauminhalt
+| bis 5 000 m³ Brutto-Rauminhalt
 
 | 
 
@@ -114,54 +114,54 @@ gültig ab 1. Juni 2018
 
 | Bauart schwer1 und mit nicht geringen Einbauten2
 
-| 72
+| 74
 
 
 | 
 
 | Bauart schwer1
 
-| 63
+| 65
 
 
 | 
 
 | sonstige Bauart
 
-| 54
+| 55
 
 
 | 11.2
 
-| der 5 000 m³ übersteigende Brutto-Rauminhalt bis 20 000 m³
+| der 5 000 m³ übersteigende Brutto-Rauminhalt bis 20 000 m³
 
 | 
 
 
 | 
 
-| Bauart schwer 1 und mit nicht geringen Einbauten2
+| Bauart schwer1 und mit nicht geringen Einbauten2
 
-| 63
+| 65
 
 
 | 
 
 | Bauart schwer1
 
-| 54
+| 55
 
 
 | 
 
 | sonstige Bauart
 
-| 45
+| 46
 
 
 | 11.3
 
-| der 20 000 m³ übersteigende Brutto-Rauminhalt bis 50 000 m³
+| der 20 000 m³ übersteigende Brutto-Rauminhalt bis 50 000 m³
 
 | 
 
@@ -170,26 +170,26 @@ gültig ab 1. Juni 2018
 
 | Bauart schwer1 und mit nicht geringen Einbauten2
 
-| 54
+| 55
 
 
 | 
 
 | Bauart schwer1
 
-| 45
+| 46
 
 
 | 
 
 | sonstige Bauart
 
-| 34
+| 35
 
 
 | 11.4
 
-| der 50 000 m³ übersteigende Brutto-Rauminhalt
+| der 50 000 m³ übersteigende Brutto-Rauminhalt
 
 | 
 
@@ -198,77 +198,77 @@ gültig ab 1. Juni 2018
 
 | Bauart schwer1 und mit nicht geringen Einbauten2
 
-| 45
+| 46
 
 
 | 
 
 | Bauart schwer1
 
-| 34
+| 35
 
 
 | 
 
 | sonstige Bauart
 
-| 25
+| 26
 
 
 | 12
 
 | andere eingeschossige Verkaufsstätten, Sportstätten
 
-| 97
+| 100
 
 
 | 13
 
 | andere eingeschossige Fabrik-, Werkstatt- und Lagergebäude
 
-| 87
+| 90
 
 
 | 14
 
 | mehrgeschossige Verkaufsstätten
 
-| 132
+| 135
 
 
 | 15
 
 | mehrgeschossige Fabrik-, Werkstatt- und Lagergebäude
 
-| 115
+| 118
 
 
 | 16
 
 | eingeschossige Garagen, ausgenommen offene Kleingaragen
 
-| 95
+| 98
 
 
 | 17
 
 | mehrgeschossige Mittel- und Großgaragen
 
-| 115
+| 118
 
 
 | 18
 
 | Tiefgaragen
 
-| 176
+| 181
 
 
 | 19
 
 | Schuppen, Kaltställe, Nebengebäude für Abstellräume, offene Feldscheunen, offene Kleingaragen sowie ähnliche Gebäude
 
-| 46
+| 47
 
 
 | 20
@@ -280,19 +280,19 @@ gültig ab 1. Juni 2018
 
 | 20.1
 
-| bis 1 500 m³ Brutto-Rauminhalt
+| bis 1 500 m3 Brutto-Rauminhalt
 
-| 34
+| 35
 
 
 | 20.2
 
-| der 1 500 m³ übersteigende Brutto-Rauminhalt
+| der 1 500 m3 übersteigende Brutto-Rauminhalt
 
-| 19
+| 20
 
 
-Zuschlag für Hallenbereiche mit Kranbahnen 52 €/m².
+Zuschlag für Hallenbereiche mit Kranbahnen       53 €/m².
 
 1 Gebäude mit Tragwerken, die überwiegend in Massivbauart oder schwerem Stahlbau errichtet werden
 
