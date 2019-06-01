@@ -96,6 +96,7 @@ Unterabschnitt 3 Nebentätigkeit und Tätigkeit nach Beendigung des Beamtenverh�
 § 79 | Tätigkeit nach Beendigung des Beamtenverhältnisses (§ 41 des Beamtenstatusgesetzes)
 Unterabschnitt 4 Fürsorge
 § 80 | Beihilfe in Krankheits-, Pflege- und Geburtsfällen
+§ 80a | Meldung von Dienstunfalldaten an Eurostat
 § 81 | Mutterschutz, Elternzeit (§ 46 des Beamtenstatusgesetzes)
 § 82 | Arbeitsschutz
 § 83 | Ersatz von Sachschäden
