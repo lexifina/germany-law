@@ -1,0 +1,61 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-03T17:00:00+02:00
+- Ende: 2019-06-03T19:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20374
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20374
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Planfeststellungsverfahren für Hochwasserschutzmaßnahmen am Rhein auf dem Gebiet der Stadt Köln - Sanierung der Lindemauer in Köln-Sürth - Kenntnis genommen
+- TOP 7.1.2: Erhebliche Staubbelastung in Godorf durch die Fa. Alpha, Beantwortung der Anfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung Rodenkirchen vom - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Eindämmung der nächtlichen Beleuchtung im Stadtbezirk Rodenkirchen, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.2: Sachstand zum Verkehrsgutachten Rodenkirchen, Sürth, Weiß und Godorf, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: P+R-Anlage in Sürth: Öffnung, Gemeinsame Anfrage der CDU-Fraktion und der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Ackerrandstreifen im Kölner Süden, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Einhaltung der Verkehrssicherungspflicht auf Bürgersteigen/Stolperfallen in Rondorf, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.2: Fahrradweg auf dem Bayenthalgürtel in Köln-Marienburg; Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: P+R-Platz in Marienburg: Herrichtung der Begrenzung, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.4: Radwege-Sanierung am Militärring zwischen Schillingsrotter Weg und Verteilerkreis Süd, Antrag der CDU - Fraktion - geändert beschlossen
+- TOP 8.1.5: Aufstellung von Glas- und Papiercontainern auf der nördlichen Marktstraße in Köln-Raderberg, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.6: Rodderweg / Josef-Kallscheuer-Straße in Sürth: Durchlässigkeit zum Fuß- und Radweg, Antrag der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.1.7: Verbesserung der Ampelschaltung für Fußgänger an der Einmündung der Tacitusstraße auf die Straße Gustav-Heinemann-Ufer, Antrag der CDU - Fraktion - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - zurückgestellt
+- TOP 9.1.1.1: Ersetzungsantrag der Fraktion Die Grünen zur Vorlage 0814/2017 - zurückgestellt
+- TOP 9.1.1.2: Änderungsantrag der SPD-Fraktion zur Vorlage 0814/2017 - zurückgestellt
+- TOP 9.1.2: Bank Ecke Engeldorfer Str. / Am Engeldorfer Berg in Köln-Meschenich - endgültig abgelehnt
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: `Sechtemer Straße/ Bonner Straße` in Köln-Raderberg - geändert beschlossen
+- TOP 9.2.2: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß 19 (4) der Hauptsatzung - ungeändert empfohlen
+- TOP 9.2.3: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Domwichtel I gGmbH" - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Leerstand im städtischen Wohnungsbestand (AN/0565/2019) - Beantwortung einer Anfrage der SPD-Fraktion aus dem Liegenschaftsausschuss - Kenntnis genommen
+- TOP 10.2.3: Antrag der Frakiton DIE LINKE in der Sitzung der Bezirksvertretung Rodenkirchen am 2503.2019 - Kenntnis genommen
+- TOP 10.2.4: Instandsetzung der maroden Parkbuchten auf der Schwalbacher Straße - Kenntnis genommen
+- TOP 10.2.5: Digitale Kundenwand beziehungsweise Anzeigetafel im Kundenzentrum - Kenntnis genommen
+- TOP 10.2.6: Kindertagesstätte an der Zitronenfalterstraße im Sürther Feld: Erweiterung - Kenntnis genommen
+- TOP 10.2.7: Hitzelerstraße Einbahnstraßenregelung - Kenntnis genommen
+- TOP 10.2.8: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Rodenkirchen - Kenntnis genommen
