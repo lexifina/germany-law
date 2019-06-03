@@ -1,0 +1,85 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-06-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150590
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150590
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: RBS: Dialog mit den Bezirksausschüssen am 08.05.2019
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 3.2.2.: Haltestellenverlegung Buslinie X 50
+- TOP 4.5.1.: Gewährung eines Zuschusses aus BA-Budget für eigene Veranstaltung "Gedenkfeier 22.07.2019"
+- TOP 2.1.: Fraktionsübergreifendes Positionspapier des Bezirksausschuss 1 Altstadt - Lehel zur Verkehrsentwicklung Altstadt
+- TOP 2.2.: Stadtteilbudget (BSL): Verkehrsinsel und Zebrastreifen an der Querung der Dachauer Straße auf Höhe Riesengebirgestraße/ Breslauer Straße
+- TOP 2.3.: N Parkplatzsituation am Leidinger Platz
+- TOP 2.4.: N a) Schragenhofstraße: Rückschnitt Begleitgrün b) regelmäßiger Winterdienst auf der Durchwegung Hanauer Straße zur Ehrenbreit- steiner Straße
+- TOP 3.2.1.: Unterausschuss am 13.05.2019: Präsentation Parkraummanagement am Seydlitzplatz (KVR)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Pelkovenstr. 143 - 147 2. Alzeyer Str. 8 - 14
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1 Lauterbachstr. 18 2. Warschauer Str. 20 3. N Triebstr. 16 4. N Simmerleinplatz 18
+- TOP 4.: Anträge
+- TOP 4.1.1.: Kunst im öffentlichen Raum in Moosach - Skulpturen reinigen bzw. instandsetzen
+- TOP 4.1.2.: Benennung eines/r Beauftragten "Soziale Stadt" im Bezirksausschuss 10
+- TOP 4.1.3.: Aufwertung des Kleinkinder-Spielplatzes in der Grünanlage an der Nanga-Parbat-Straße, 80992 München
+- TOP 4.3.1.: Erweiterung eines Teilstückes des Radwegs an der Dachauer Straße zum Zweirichtungsradweg (für mehr Komfort und Sicherheit)
+- TOP 5.1.: (E) Stadtbezirksbudget AG Buhlstraße e.V., Nachbarschaftstreff Moosach Sommerfest am 12.07.2019 1.190,00 Euro, Az.: 0262.0-10-0185
+- TOP 5.2.: (E) Stadtbezirksbudget Carlotas gGmbH Empathie-Schule vom 07.06. - 05.12.2019 (vertagt aus Sitzung am 06.05.2019) 7.178,80 € Az: 0262.0-10-0183
+- TOP 5.3.: (E) Stadtbezirksbudget Kultur le Muc Theaterstück "Diesmal schenken wir uns nichts" vom 29.09. - 22.12.2019 3.050,00 Euro, Az.: 0262.0-10-0184
+- TOP 6.1.: Beschlussentwurf: Strukturkonzept für den Bereich der Eggarten-Siedlung (vertagt aus der Sitzung am 06.05.2019)
+- TOP 6.2.: Beschlussentwurf: Neubau eines Kultursaals und Umbau des "Hacklhauses" im 10. Stadtbezirk - Moosach
+- TOP 6.3.: Beschlussentwurf: Erhalt des gültigen Bebauungsplans Nr. 578 - Abwendung Bauvorhaben am OEZ
+- TOP 6.4.: Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnachtsmärkte (Stadtratantrag Nr. 14- 20 / A 04801)
+- TOP 6.5.: Veranstaltung in städtischen Grünanlagen: Dietrichstr. 11 "Jubiläumsfeier zum 100jährigen Vereinsbestehen" vom 06.-07.07.2019
+- TOP 6.6.: Veranstaltung in städtischen Grünanlagen: Amphionpark "Sponsorenlauf &#039;Bewegen um etwas zu Bewegen&#039;" am 11.-12.07.2019
+- TOP 6.7.: Veranstaltung auf öffentlichem Verkehrsgrund: Untermenzinger Str. 74-80 "Sommerfest Nachbarschaft" am 12.07.2019
+- TOP 6.8.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Dachauer Str. 399: Einrichtung von Kurzparkplätzen
+- TOP 6.9.: Baumfällungen (Baumschutz): 1. Hohentwielstr. 7 (Erweiterter Antrag) 2. Wilhelmshavener Str. 19
+- TOP 6.10.: N (altersbedingter) Austausch von Lichtsignalanlagen: Dachauer Straße/ Georg-Brauchle-Ring (→ siehe auch TOP N 7.9 !)
+- TOP 6.11.: N Verkehrskonzept Münchner Norden: Öffentlicher Personennahverkehr/Schienenpersonennahverkehr/ DB-Nordring
+- TOP 6.12.: N Beschlussentwurf: Stadtsanierung in München; Untersuchungsgebiet „Moosach“ - Eckdatenbeschluss -
+- TOP 7.1.: Engpass am Busbahnhof " Moosach Bahnhof" [BA-Antrag Nr. 14-20/B05972; MVG: Ausbau andere Busbahnhöfe sind dringender. BA wird zu ggb. Zeit in Planung mit einbezogen]
+- TOP 7.2.: Mehr Sicherheit für Fußgänger und Radfahrer durch Verbesserung der Radwegführung in der Dachauer Straße stadtauswärts im Bereich zwischen Pelkovenstraße und Bahnunterführung [BA-Antrag Nr. 14-20/B06059; Umsetzg erfolgt Mai 2019]
+- TOP 7.3.: Verlängerung der Grünphase an der Ampel Kreuzung Donauwörther-/Dachauer Straße [ergänzender Antrag BA10 zu BVE; verkehrliche Anordnung gem. Vorschlag erteilt, Umsetzung demnächst]
+- TOP 7.4.: LKW-Verkehr in der Feldmochinger Straße [BV-Anfrage; Lieferverkehr vom Verbot ausgeschlossen; Polizei überwacht im Rahmen der Möglichkeiten]
+- TOP 7.5.: Schadstoffbelastung in München - Hecken ideal gegen Feinstaub [Schreiben BA10 vom 12.12.18; punktuelle Einzelmaßnahmen sind nicht geeignet, um gnerelle Problematik der Luftqualität stadtweit zu lösen oder zu verbessern]
+- TOP 7.6.: Schulbauoffensive 2013 bis 2030; hier: Auszug aus Sitzungsvorlage Nr. 14-20/V 14012 [Antwort RBS zu Stellungnahme BA10vom 21.03.2019]
+- TOP 7.7.: Nachfolgenutzung des ehemaligen Polizeigebäudes in der Skagerrakstr. 4 [wird aktuell zur Unterbringung von jungen Polizeianfängern genutzt]
+- TOP 7.8.: Lärmschutzmaßnahmen an der Allacher Straße [Schreiben BA10 vom 21.03.2019; nach Fertigstellung der Auswertung der 2018 aktualisierten Lärmkarte wird über eine noch nicht terminierbare Fortschreibung des Lärmaktionsplans 2013 entschieden.]
+- TOP 7.9.: N Gefährliche Situation für Radfahrer und Fußgänger am Georg-Brauchle-Ring (→ siehe auch TOP N 6.10 !)
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Daten Pegel Feldmoching - Grundwasserstandsmessungen
+- TOP 8.3.: Maßnahmengenehmigung zur Landschaftsbaumaßnahme ander Trinklsiedlung (Weiherweg)
+- TOP 8.4.: Bericht über den aktuellen Umsetzungsstand zum Projekt "München - gesund vor Ort" (Sitzungsvorlage Nr. 14-20/ V14455)
+- TOP 8.5.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Kita Skagerrakstr. 7: Einrichtung Geschwindigkeitsbegrenzung 30 km/h (we Mo-Fr 7-18h) 2. Triebstraße: zwischen Hanauer Straße und Max-Born-Straße Freigabe des südlichen Radwegs für gegenläufigen Radverkehr 3. Haldenbergerstraße: Neubau der Gehwege 4. Parklizenzgebiet Borstei - Postillonstraße: Anordnung Bewohnerparken (we 9-23h)
+- TOP 8.6.: Bädereintrittspreise ab 01. Mai 2019
+- TOP 8.7.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 8.8.: (U) 2. Aktionsplan zur Umsetzung der UN- Behindertenrechtskonvention Produkt 40111270 Umsetzung der UN-Behindertenrechtskonvention Schutz und Gewaltprävention für Frauen und Mädchen in Einrichtungen der Behindertenhilfe Unterstützung der Forderungen "Frauen mit Behinderungen und Gewalterfahrungen" des Facharbeitskreises Frauen des Behindertenbeirats Empfehlung der 274. Stadtratskommission zur Gleichstellung von Frauen vom 07.05.2015 Kurzzeitwohnplätze für Kinder mit Behinderungen schaffen! Antrag Nr. 14-20 / A 03370 ................................... Konsequente Umsetzung des 2. Aktionsplans zur Umsetzung der UN-BRK - Keine Maßnahme aus finanziellen Erwägungen fallen lassen Antrag der Vollversammlung des Behindertenbeirats vom 07.12.2018
+- TOP 8.9.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 8.10.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 8.11.: (U) Wohnen in München VI Erfahrungsbericht für das Jahr 2018
+- TOP 8.12.: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 8.13.: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 8.14.: Zuwendungsrichtlinien; ausgereichte Gelder im Rahmen Stadtentwicklung und Stadtplanung - nicht-öffentlich -
+- TOP 8.15.: Vorverkaufsrecht nach dem BauGB: Abbachstraße - nicht-öffentlich -
+- TOP 8.16.: WEB - alle Anträge vom 01.05. 2019 bis 15.05.2019 - nicht-öffentlich -
