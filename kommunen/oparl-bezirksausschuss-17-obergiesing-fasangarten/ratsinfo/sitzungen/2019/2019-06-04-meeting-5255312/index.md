@@ -1,0 +1,160 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-06-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255312
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255312
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Giesinger Bahnhofsplatz - Sozialer Brennpunkt; Bürgerschreiben (Email) vom 06.05.2019
+- TOP 2.1.2.2.: Nutzungsänderung Tegernseer Landstr. 185 b/c/d, 81539 München; Bürgerschreiben (E-Mail) vom 01.05.2019
+- TOP 2.1.2.3.: Verkehrssituation in der Herzogstandstraße; Bürgerschreiben (E-Mail vom 07.05.2019)
+- TOP 3.9.1.1.: Eschenbachstr. 18, 1 Linde
+- TOP 3.9.1.2.: Dreisesselbergstr. 9, 1 Nadelbaum
+- TOP 3.9.1.3.: Seemüllerstr. 6, 1 Buche, 1 Esche, 1 Silber Ahorn
+- TOP 3.9.1.4.: Arzberger Straße 11, 1 Blautanne
+- TOP 3.9.1.5.: Herzogstandstraße 5, 1 Fichte
+- TOP 4.1.: Bus-Osttangente planen und einrichten ! Antrag der Fraktion Bündnis`90 / Die Grünen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Kath.Kirchenstiftung Hl. Kreuz-Giesing Giesinger Kirchplatzfest vom 12.07. - 14.07.19 500,00 € / AZ: 0262.0-17-0207
+- TOP 5.1.2.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt K.d.ö.R. Demokratiemobil am 23.07.19 750,00 € / AZ: 0262.0-17-0208
+- TOP 5.1.3.: (E) Stadtbezirksbudget ARGE St. Quirin-Fest Giesing 22. St.-Quirin-Fest am 04.07.19 5.845,00 € / AZ: 0262.0-17-0210
+- TOP 5.1.4.: (E) Stadtbezirksbudget Poesieboten e.V. Projekt: SpixX-temporäre Oase für Poesie und X vom 01.08.19 - 31.07.20 5.042,00 € / AZ: 0262.0-17-0202
+- TOP 5.1.5.: (E) Stadtbezirksbudget AWO München / Frezeitstätte am Perlacher Forst RED DRAGON Gartengestaltung (grüne Oase) ab 13.06.2019 1.954,08 / AZ: 0262.0-17-0205
+- TOP 5.1.6.: (E) Stadtbezirksbudget AWO München GmbH/Freizeitstätte am Perlacher Forst RED DRAGON Anschaffung Soundanlage 2.700,00 € / AZ: 0262.0-17-0206
+- TOP 5.1.7.: (E) Stadtbezirksbudget Wir in Giesing e.V. Ois Giasing 2019 am 07.09.2019 15.653,19 € / Az. 0262.0-17-0209
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Partizipatives Theater zum Thema "Einsamkeit in der Großstadt", Anfrage an den BA bezüglich Beteiligung an den Kosten; Schreiben (E-mail) vom 24.04.2019 und 12.05.2019 (Konzept)
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Verkauf einer städtischen Immobilie - Anhörung des Bezirksausschusses gemäß § 13 der Bezirksausschusssatzung Lage des Objekts: Fasangartenstraße Art des Objekts: Grundstück ohne Bebauung Referatsschreiben vom 17.04.2019 mit Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 06.05.2019 bis 19.05.2019
+- TOP 6.1.4.2.: Mitteilung über ein Grundstücksgeschäft im 17. Stadtbezirk; hier: General-Kalb-Weg
+- TOP 6.1.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.4.: (U) Städtebauliche Erhaltungssatzung für die Wohnanlage Giesing des Bauvereins München-Harlaching Empfehlung Nr. 14-20 / E 02078 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 28.06.2018
+- TOP 6.1.4.5.: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 6.1.4.6.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 6.1.4.7.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 6.1.4.8.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 6.1.4.9.: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: (U) 2. Aktionsplan zur Umsetzung der UN- Behindertenrechtskonvention Produkt 40111270 Umsetzung der UN-Behindertenrechtskonvention Schutz und Gewaltprävention für Frauen und Mädchen in Einrichtungen der Behindertenhilfe Unterstützung der Forderungen "Frauen mit Behinderungen und Gewalterfahrungen" des Facharbeitskreises Frauen des Behindertenbeirats Empfehlung der 274. Stadtratskommission zur Gleichstellung von Frauen vom 07.05.2015 Kurzzeitwohnplätze für Kinder mit Behinderungen schaffen! Antrag Nr. 14-20 / A 03370 ................................... Konsequente Umsetzung des 2. Aktionsplans zur Umsetzung der UN-BRK - Keine Maßnahme aus finanziellen Erwägungen fallen lassen Antrag der Vollversammlung des Behindertenbeirats vom 07.12.2018
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Watzmannstraße nördliche Fahrbahnseite in der Parkbucht verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.2.: Ichostraße - Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.3.: Silberhornstraße - Erleichterte streckenbezogene Anordnung von Tempo 30 vor Schulen und ähnlichen Einrichtungen verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.4.: Installation bereits genehmigter Radlständer
+- TOP 6.3.4.5.: Untersbergstraße 28 auf gegenüber - Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze (Anlehnen) Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.6.: Harmonisierung der Umsteigezeiten zwischen U-Bahn-Linie U 1 und den Buslinien 147 und 220 am St.-Quirin-Platz
+- TOP 6.3.4.7.: Untere Grasstraße - Regelung des ruhenden Verkehrs verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.8.: Markierung von beidseitigen Radfahrstreifen in der Werinherstraße im Bereich der Eisenbahnunterführung verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.9.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 6.3.4.10.: (U) Saisonale Umnutzung von Straßenräumen a) Temporäre Interventionen im Öffentlichen Raum b) Zwei Ansätze temporärer Interventionen im Straßenraum c) Behandlung der Anträge und Empfehlungen ...
+- TOP 6.3.4.11.: zu 6.3.4.10: Hinweis / Ergänzung vom 17.05.2019
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Förderung und Unterstützung der Artenvielfalt in Großstädten JETZT
+- TOP 6.4.4.2.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 6.4.4.3.: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Edelweißplatz - Anhörungsverfahren für Demokratiemobil am 23.07.2019; Email vom 07.05.2019 Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: M-Bäder: Bädereintrittspreise ab 1. Mai 2019; Schreiben vom 09.05.2019
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; hier: Schlierseestraße 23
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; hier: Antrag auf Aufstellung von neuen Verkaufeinrichtungen auf öffentlichem Grund; Flächenerweiterung in der Schlierseestraße 23
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Antrag für Sitzgelegenheiten (2 Bänke) vor dem Ladengeschäft Wendelsteinstraße 11 (Seite St.-Martin-Straße); Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.6.3.2.: Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnanchtsmärkte; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Untragbare Zustände bei der „Tela-Post“
+- TOP 6.6.4.2.: Antrag auf Erweiterung einer Freischankfläche der Bäckerei Heinrich Traublinger GmbH, Tegernseer Landstraße 14; ablehnender Beschluß des BA 17 am 13.11.18/12.03.19; Antwortschreiben des Oberbürgermeisters vom 20.05.2019
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
