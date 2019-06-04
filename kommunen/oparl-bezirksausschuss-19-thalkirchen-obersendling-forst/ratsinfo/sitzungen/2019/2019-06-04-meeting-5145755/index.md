@@ -1,0 +1,71 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-06-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145755
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145755
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 2.: Informationen
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 1.: Antwortschreiben, Unterrrichtungen, Berichte
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 2.1.: Genehmigung der Protokolle vom 07.05.2019
+- TOP 2.1.: Termine
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Freunde des Ortskerns Forstenried e.V. Forstenrieder Dorffest am 06./07.07.2019 1.925,00 Euro, Az.: 0262.0-19-0259
+- TOP 3.3.: (E) Stadtbezirksbudget LPR gGmbH Erneuerung der Schulmöbel 22.546,42 € / Az. 0262.0-19-0260
+- TOP 3.4.: (E) Stadtbezirksbudget Verein "Miteinander leben in Fürstenried e.V." Sommerfest am 29.06.2019 835,00 € / AZ: 0262.0-19-0262
+- TOP 3.5.: (E) Stadtbezirksbudget NaturFreunde Bezirk München e.V. Anschaffung eines Messgerätes und eines Mini-Akkuschraubers 408,39 € / Az. 0262.0-19-0261
+- TOP 3.6.: (Antrag) Vorschlag für das Stadtbezirksbudget: Schulen schaffen Biodiversität
+- TOP 3.7.: (E) Stadtbezirksbudget; Thalkirchner Burschen e.V. Stadtteilfest Thalkirchen 2019 am 06.07.2019 2.521,00 € / AZ: 0262.0-19-0268
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (E) Ziff. 2: Lärmbelästigung durch Laubbläser im Bereich der Drygalski-Allee 117 Empfehlung Nr. 14-20 / E 02515 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 4.4.: (E) Betrete-Recht "Siemenswäldchen" (Biotop-Nr. M-227, Teilfläche b) Empfehlung Nr. 14-20 / E 02503 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 4.5.: (A) Trinkwasserbrunnen
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Kurzparkzone Kindertagesstätte Hofmannstraße 64
+- TOP 5.3.: (E) Barrierefreier Ausbau Bushaltestelle Maxhofstraße
+- TOP 5.4.: Verbesserung der Verkehrssicherheit in der kleinen Straße hinterhalb der Hofmannstr. (HsNrn. 20 bis 26)
+- TOP 5.5.: (E) Errichtung einer Tempo-30-Zone in der Forst-Kasten-Allee zwischen Graubündener Str. und Waldfriedhof
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Aufhebung absolutes Halteverbot Schertlinstraße
+- TOP 5.7.: (Antrag) Parksituation Filchnerstr.
+- TOP 5.8.: (Antrag) Einbahnregelung Georg-Strebl-Straße
+- TOP 5.9.: (E) Änderung der Vorfahrtsregelung im Bereich Winterthurer Str./Züricher Str.
+- TOP 5.10.: (Antrag) Haltverbot Forstenrieder Allee 143
+- TOP 5.11.: (A) Aidenbachstr. 205; Beschränkung des Parkens auf PKW
+- TOP 5.12.: (E) Sondernutzungserlaubnis: Warenauslage Boschetsrieder Str. 60
+- TOP 5.13.: (Antrag) Fahrradstellplätze U-Bahnhof Aidenbachstraße
+- TOP 5.14.: Verkehrsführung Constanze-Hallgarten-Straße - Abweichung vom BA-Beschluss
+- TOP 5.15.: (A) Herterichstraße 95 - 101; Beschilderung mit Gefahrenzeichen "Kinder" und Zusatzzeichen "Schulweg"
+- TOP 5.16.: (E) Abgestellte Anhänger und Vermüllung im Bereich des Busbahnhofes Aidenbachstraße
+- TOP 5.17.: (E) Ziff. 3: Anbringung eines Verkehrsspiegels an der Ecke Gerblstraße / Conwentzstraße (Gaststätte Hinterbrühl) Empfehlung Nr. 14-20 / E 02495 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen- Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 5.18.: (E) Ziff. 2: Beidseitige Befahrung Radweg Wolfratshauser Str.
+- TOP 5.19.: (E) Ziff. 4: Beseitigung von Straßenschäden und Errichtung einer Beleuchtung am Waldweg von der Forstenrieder Allee zur Gaststätte beim Jagdhaus St. Hubertus Empfehlung Nr. 14-20 / E 02496 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 1.1.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrrichtungen, Berichte
+- TOP 7.2.: (A) Anita-Augspurg-Preis 2019
+- TOP 7.3.: (U) Beschlussentwurf: Neukonzeption Hermann-von-Siemens-Sportpark Sitzungsvorlage Nr. 14-20 / V 14834
+- TOP 7.4.: (A) Eröffnung des Jugendspielplatzes an der Drygalski Allee
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: Stadtteilfest Thalkirchen am 06.07.2019
+- TOP 8.3.: (A) Frühester Eröffnungstermin für Christlkindlmärkte
+- TOP 8.4.: (A) Vermietung stadteigenes Grundstück an der Forstenrieder Allee
+- TOP 8.5.: (A) Herterichstr. 135, Grünanlage, Weltspieltag am 28. Mai 2019
