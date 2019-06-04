@@ -1,0 +1,68 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-06-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147668
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147668
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Begrünung Landsberger Straße - Wanderbaumallee
+- TOP 4.2.: Begrünung Ligsalzstraße - Schwanthalerstraße
+- TOP 4.3.: Gehsteigparker Landsberger Straße; Falschabbieger Landgsberger Straße Richtung Donnersberger Brücke
+- TOP 4.4.: Saisonale Umnutzung von Straßenräumen; Parklets in der Schwanthalerstraße - Veranstaltung zur Information und Beteiligung der Bürgerinnen und Bürger am Do., 06.06.19 um 18:00 Uhr, Gaststätte "Bürgerheim", Bergmannstraße 33
+- TOP 6.2.1.: Bauvorhaben Ligsalzstraße 42 - 44
+- TOP 6.2.2.: Bauvorhaben Astallerstraße 18
+- TOP 6.2.3.: Freischankfläche Theresienhöhe 5; Grünanlage
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Meldeliste Baumaßnahmen SWM
+- TOP 6.3.3.: (U) Realisierung eines Schul-Neubaus auf dem Gelände MK2 Theresienhöhe Süd Empfehlung Nr. 14-20 / E 02060 der Bürger- versammlung des Stadtbezirkes 08 – Schwanthalerhöhe am 19.06.2018
+- TOP 6.3.4.: Bauvorhaben Landsberger Straße 65; Antwortschreiben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Umgestaltung des Gollierplatzes - Konzeptvorstellung und Umgriff
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: (U) Lebensplätze für ehemals wohnungslose Frauen in der Westendstraße 35/Tulbeckstraße 4f Errichtung einer bezuschussten sozialen Einrichtung - Lebensplätze, niederschwellige langfristige Wohnform für ehemals wohnungslose Frauen - in der Westendstraße 35/Tulbeckstraße 4f Nutzungskonzept für eine soziale Wohnnutzung in der Westendstr. 35 Antrag Nr. 14-20 / A 04816 ............................................ 8. Stadtbezirk - Schwanthalerhöhe
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Errichtung einer Schrankenanlage am "Stöpsel" am Gollierplatz
+- TOP 8.1.2.: (E) Vorverlegung des Tempo-30-Schildes an der Kazmairstr. / Ganghoferstraße in Richtung Süden
+- TOP 8.1.3.: (E) Häufigere Geschwindigkeitskontrollen bzw. Installation eines Blitzers in der Heimeranstraße Höhe Ganghoferstraße
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Stellungnahme des AAN im Münchner Forum zum MVG-Leistungsprogramm 2020
+- TOP 8.2.2.: Ökumenischer Gottesdienst im Bavariapark
+- TOP 8.2.3.: Neue Regelung für die Eröffnung der Münchner Christkindlmärkte
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: (U) Landsberger Straße Querung zwischen Philipp-Loewenfeld-Straße und Bergmannstraße im 8. Stadtbezirk Schwanthalerhöhe Projektkosten (Kostenobergrenze): 1.300.000 Euro 1. Bedarfs- und Konzeptgenehmigung 2. Anmeldung zum Mehrjahresinvestitionsprogramm 2019 - 2023
+- TOP 8.3.2.: (U) Einschränken des Schleichverkehrs in Richtung Innenstadt Empfehlung Nr. 14-20 / E 02057 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 19.06.2018
+- TOP 8.3.3.: Drehgenehmigung Bergmannstraße
+- TOP 8.3.4.: Kinderkultursommer auf dem Schneckenplatz vom 06.06. bis 10.06.2019
+- TOP 8.3.5.: Rattenbekämpfung in der Grünanlage Westendstraße 68 nördlich Schrenkstraße
+- TOP 8.3.6.: Versammlung Schrenkstraße am 04.07.2019
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget August-Kühn Verein e.V. Herausgabe der Westend-Geschichten von August Kühn vom 01.06. - 31.12.19 992,00 € / AZ: 0262.0-8-0188
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Gestaltung des Mündungsbereiches Ridlerstraße - Gollierstraße
+- TOP 10.2.: "Kreuzung" Ganghoferstraße - Kazmairstraße; Verbesserung der Wegesituation für Fußgänger
+- TOP 10.3.: Kreuzung Gollierstraße - Ligsalzstraße als Aufstellort für eine Sitzbank
+- TOP 12.1.: Protokoll vom 14.05.2019
