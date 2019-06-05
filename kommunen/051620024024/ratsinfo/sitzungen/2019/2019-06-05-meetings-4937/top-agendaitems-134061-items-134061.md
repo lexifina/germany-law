@@ -1,0 +1,6 @@
+# TOP -: Formalien, Wahlen usw.
+
+- Sitzung: Bezirksausschuss Rosellen (2019-06-05)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/134061
