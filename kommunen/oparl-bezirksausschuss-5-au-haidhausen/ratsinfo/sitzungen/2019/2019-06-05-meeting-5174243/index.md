@@ -1,0 +1,168 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-06-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174243
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174243
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.1.1.: Vorstellung der baulichen Andienung für die Grundschule des Kirchlichen Zentrums Preysingstraße
+- TOP 4.2.1.: Nockherstraße als Fahrradstraße ausweisen - siehe auch UA GUV -
+- TOP 4.2.2.: Fehlende Straßenmarkierung in der Entenbachstraße (Einfahrten größer berechnen, Längenbegrenzung, Fahrradständer und Baumbepflanzung anbringen) - siehe auch UA GUV -
+- TOP 4.2.3.: Errichtung einer Geschwindigkeits-Signalanlage ("Smiley") in der Welfenstraße - siehe auch UA GUV -
+- TOP 4.2.4.: Fuß- und Radwege in Haidhausen teilweise blockiert - siehe auch UA GUV -
+- TOP 4.2.5.: Schulwegsicherheit an der Grundschule an der Bazeillestraße - siehe auch UA GUV -
+- TOP 4.2.6.: Fuß- und Radwegbrücke am Giesinger Berg, Machbarkeitsstudie, Beteiligung der Öffentlichkeit - Bürgeranliegen bzw. Rückmeldung des Baureferats - - siehe auch UA Planung -
+- TOP 4.2.7.: Balanstr. 25 „Trinacria Feinkost Der Sizilianer“: Gaststättenbetrieb - siehe auch UA Arbeit und Wirtschaft -
+- TOP 4.2.8.: Verbleib der liegengebliebenen Holz- und Baumreste an der Isar nach dem Hochwasser
+- TOP 5.1.: Beschleunigte Wiederinbetriebnahme der Tram von Ostbahnhof nach Ramersdorf
+- TOP 5.2.: Blühende Friedenswiese am Friedensengel
+- TOP 5.3.: Offener Bücherschrank in Haidhausen
+- TOP 5.4.: Grün- und Erholungsflächen auf dem auslösenden Gelände nachweisen - keine Kompensation ermöglichen
+- TOP 6.1.1.: (E) Stadtbezirksbudget AKA e.V. Haidhauser Kultursonntag am 07.07.2019 2.500,00 Euro, Az.: 0262.0-5-0242 - siehe auch UA Kultur -
+- TOP 6.1.2.: Bestellung städtischer Leistung für das Stadtbezirksbudget Bordeauxplatz: Aufstellen von größeren, verschließbaren Mülleimern (krähensicher) - siehe auch UA GUV -
+- TOP 6.1.3.: Stadtbezirksbudget Verein zur Förderung von Eigenarbeit e.V. Beschaffung von Nähmaschinen für die Textilwerkstatt 2.214,00 € / AZ: 0262.0-5-0243 - siehe auch UA Soziales -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Kinder- und Jugendliche AU/Haidhausen (AGKJ) AGKJ-Stand am Haidhauser Kultursonntag, 07.07.2019 790,00 € / AZ: 0262.0-5-0244 - siehe auch UA Soziales -
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche für Schneeweinchen + Rosenbrot, Elsässer Str. 23 (negative Prüfung) - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: Wiederherstellung der Radwegmarkierung der Orleansstraße zwischen Balanstraße und Rosenheimer Straße - siehe auch UA GUV - Empfehlung Nr. 14-20 / E 02455 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 6.3.2.: (E) Verbreiterung des Fuß- und Radweges am Müllerschen Volksbad - siehe auch UA GUV - Empfehlung Nr. 14-20 / E 02454 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 6.3.3.: (E) Fahrradspur in der Gebsattelstraße erneuern - siehe auch UA GUV - Empfehlung Nr. 14-20 / E 02453 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 6.3.4.: (E) Markierung der Parkbuchten am Parkplatz der Zeppelinstraße - siehe auch UA GUV -
+- TOP 6.3.5.: (E) Markierung der Parkplätze in der Lilienstr. / Zeppelinstr. - siehe auch UA GUV -
+- TOP 6.3.6.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2019 über die Projektplanung Öffentliche Grünfläche mit Spielplatz an der Einsteinstraße Neubau Sichtschutzzaun aus Holz - siehe auch UA Soziales -
+- TOP 8.1.1.: Sanierung GS Mariahilfplatz, Einbau einer Lüftungsanlage
+- TOP 8.1.2.: Schwimmhalle für die GS Mariahilfplatz
+- TOP 8.1.3.: Schleibingerstraße: Mehr Platz für den Fußverkehr
+- TOP 8.1.4.: Mehr Platz für Fußverkehr – Wörthstraße / Breisacher Straße
+- TOP 8.1.5.: Anfrage zu Verkaufsständen / Kiosks auf öffentlichem Grund
+- TOP 8.1.6.: Einsteinstr. 95 / Kuglerstr. 7: Baumpflanzungen
+- TOP 8.1.7.: Öffentliche Brunnen/ Trinkwasserbrunnen in Au-Haidhausen - siehe auch UA GUV -
+- TOP 8.1.8.: Verkehrserschliessung im Zuge der Neubebauung Orleansstraße / Orleanshöfe - Fristverlängerung bis 30.09.2019 -
+- TOP 8.1.9.: Bebauungsplanverfahren Orleanshöfe: Bahnparallelen Radweg einplanen - Fristverlängerung bis 30.09.2019 -
+- TOP 8.1.10.: Rad-/Fußgängerampel am Maximilianeum - Fristverlängerung bis 20.02.2020 -
+- TOP 8.2.1.: Schmierereien an Wänden in Haidhausen - Rückmeldung der PI 21 -
+- TOP 8.2.2.: Ergebnisse des Blitzmarathon 2019 im Stadtbezirk Au-Haidhausen - Rückmeldung des Polizeipräsidiums -
+- TOP 8.3.1.: Bädereintrittspreise ab 01.05.2019 - Information der SWM -
+- TOP 8.4.1.: Infoblatt
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Stadtbezirksbudget AKA e.V. Haidhauser Kultursonntag am 07.07.2019 2.500,00 Euro, Az.: 0262.0-5-0242
+- TOP II.2.: Zuwendung aus dem Budget der Bezirksausschüsse Antrag des Kuratorenteams Milchstraße vom 21.01.2019 - Verlängerung des Bewilligungszeitraums bis 30.11.2019 -
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Stadtbezirksbudget Verein zur Förderung von Eigenarbeit e.V. Beschaffung von Nähmaschinen für die Textilwerkstatt 2.214,00 € / AZ: 0262.0-5-0243
+- TOP 1.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2019 über die Projektplanung Öffentliche Grünfläche mit Spielplatz an der Einsteinstraße Neubau Sichtschutzzaun aus Holz
+- TOP 1.3.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Kinder- und Jugendliche AU/Haidhausen (AGKJ) AGKJ-Stand am Haidhauser Kultursonntag, 07.07.2019 790,00 € / AZ: 0262.0-5-0244
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kirchenstr. 38: Erhöhung der Kinderzahl zur Bring- und Abholzeit
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Sanierung der Spielplätze am Johannisplatz Präsentation des Baureferats von der Informationsveranstaltung am 14.05.2019
+- TOP 3.2.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 3.3.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung einer bestehenden Freischankfläche für Schneeweinchen + Rosenbrot, Elsässer Str. 23 (negative Prüfung)
+- TOP 2.: Anhörungen
+- TOP 2.1.: Fahrradverlosung auf dem Bordeauxplatz am 28.07.2019
+- TOP 2.2.: Gemeindefest in der Preysingstr. 17 am 21.07.2019
+- TOP 2.3.: Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnachtsmärkte
+- TOP 2.4.: Skateboardkurs für Kinder und Jugendliche in der Grünanlage Postwiese und Hypopark
+- TOP 3.: Unterrichtungen
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Balanstr. 25 „Trinacria Feinkost Der Sizilianer“: Gaststättenbetrieb
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Eggernstr. 3: Nutzungsänderung der Garagen im Rückgebäude in ein trockenes privates Bücherlager/Künstleratelier ohne einen Daueraufenthaltsraum, Umgestaltung des bisher als Rangierfläche genutzten Hofs und Errichtung von Fahrradstellplätzen in der bisherigen Durchfahrt
+- TOP 2.2.: Lilienstr. 56: Anbau von 4 Balkonen an der Innenhoffassade eines denkmalgeschützten Wohngebäudes mit baulichen Änderungen im Bestand
+- TOP 2.3.: Dollmannstr. 7: Errichtung einer Außentreppe
+- TOP 2.4.: Lothringer Str. 1: Dachgeschoss-Ausbau, Vorbau eines hofseitigen Aufzugs, Nutzungsänderung EG (Fitness-Studio zu zwei Läden), Einbau einer Garage ins EG
+- TOP 2.5.: Friedenstr. 25: Anbringen einer Skulptur an ein Gebäude
+- TOP 2.6.: Regerstr. 12: Nutzungsänderung der Ladeneinheiten im EG (Mitte + Nord) zu Büros mit jeweils geringfügiger Grundrissveränderung
+- TOP 2.7.: Rablstr. 43: Errichtung einer Aufzugsanlage (hofseitig)
+- TOP 2.8.: Regionalgespräch mit der LBK am 25.06./26.06.2019
+- TOP 2.9.: Boosstr. 15: Balkonanbau im EG
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Wörthstr. 7 / VGB: Zusammenlegung 2er Gewerbeeinheiten zu einer Gaststätte (mit Alkoholausschank) - Vorbescheid - Stellungnahme der LBK -
+- TOP 3.2.: Wörthstr. 7 / RGB: DG-Abbruch und Aufstockung um 2 Geschosse für Wohnzwecke mit Balkonen und Außenaufzug - Vorbescheid - Stellungnahme der LBK -
+- TOP 3.3.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 3.4.: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 3.5.: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 3.6.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 3.7.: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fuß- und Radwegbrücke am Giesinger Berg, Machbarkeitsstudie, Beteiligung der Öffentlichkeit - Bürgeranliegen bzw. Rückmeldung des Baureferats -
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Bestellung städtischer Leistung für das Stadtbezirksbudget Bordeauxplatz: Aufstellen von größeren, verschließbaren Mülleimern (krähensicher)
+- TOP 1.2.: Wiederherstellung der Radwegmarkierung der Orleansstraße zwischen Balanstraße und Rosenheimer Straße Empfehlung Nr. 14-20 / E 02455 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 1.3.: Verbreiterung des Fuß- und Radweges am Müllerschen Volksbad Empfehlung Nr. 14-20 / E 02454 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 1.4.: Fahrradspur in der Gebsattelstraße erneuern Empfehlung Nr. 14-20 / E 02453 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 1.5.: Markierung der Parkbuchten am Parkplatz der Zeppelinstraße Empfehlung Nr. 14-20 / E 02469 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 1.6.: Markierung der Parkplätze in der Lilienstr. / Zeppelinstr. Empfehlung Nr. 14-20 / E 02458 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 21.02.2019
+- TOP 2.: Anhörungen
+- TOP 2.1.: Parken während der Auer Dult Regelung für die Zeppelinstraße/Parklizenzgebiet Nördliche Au
+- TOP 2.2.: Trinkwasserbrunnen - Beschluss des Bauausschusses vom 09.10.2018 - Prüfung und Stellungnahme der bestehenden sieben Frischwasserbrunnen (Eignung), Notwendigkeit eines neuen Trinkwasserspenders bzw. Standortvorschlag -
+- TOP 2.3.: Öffentliche Brunnen/ Trinkwasserbrunnen in Au-Haidhausen - Antwortschreiben des Baureferats -
+- TOP 2.4.: Busschleuse Kolumbusplatz: Austausch von Lichtsignalanlagen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Bericht der Auftaktveranstaltung zur Planung von fünf "Radschnellwegen"
+- TOP 3.2.: Ladezone in der Orleansstraße 10-12 (IHK): Beantragte Ersatzpflanzung - Rückmeldung des Kreisverwaltungsreferats -
+- TOP 3.3.: Lilienstr. 28: Nachträgliche Unterrichtung über entfernte Gefahrenbäume (2 Kirschen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (U) Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum Sachstand und weiteres Vorgehen
+- TOP 3.6.: (U) Stadt und Fluss – Rahmenplanung innerstädtischer Isarraum Ergebnisse der Verkehrsuntersuchung Ergebnisse der Verkehrsuntersuchung Stadt und Fluss, Rahmenplanung innerstädtischer Isarraum BA-Antrags-Nr. 14-20 / B 05843 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019 Rahmenplanung innerstädtischer Isarraum: Ab Rosenheimer Platz stadteinwärts: Radfahrstreifen während der Sanierungsarbeiten BA-Antrags-Nr. 14-20 / B 05844 des Bezirksausschusses des Stadtbezirkes 05 – Au-Haidhausen vom 20.02.2019
+- TOP 3.7.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 3.8.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 3.9.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Nockherstraße als Fahrradstraße ausweisen
+- TOP 4.2.: Errichtung einer Geschwindigkeits-Signalanlage ("Smiley") in der Welfenstraße
+- TOP 4.3.: Fehlende Straßenmarkierung in der Entenbachstraße (Einfahrten größer berechnen, Längenbegrenzung, Fahrradständer und Baumbepflanzung anbringen)
+- TOP 4.4.: Fuß- und Radwege in Haidhausen teilweise blockiert
+- TOP 4.5.: Schulwegsicherheit an der Grundschule an der Bazeillestraße
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 08.07.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 08.07.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 09.07.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 10.07.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 11.07.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 17.07.2019, 19 Uhr, VHS Einsteinstr. 2 BA-Vorstand, Dienstag, 02.07.2019, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Jahresdienstversammlung 2019 der Freiwilligen Feuerwehr München am 29.05.2019, 18:30 Uhr in der Alten Kongresshalle, Am Bavariapark 14
+- TOP 4.2.: Einladung zur Fahrzeugweihe des THW Ortsverbandes München-Ost am 05.07.2019 um 18 Uhr
+- TOP 4.3.: Einladung zum Workshop Baumschutz am 28.06.2019 ab 15:30 Uhr im ÖBZ
