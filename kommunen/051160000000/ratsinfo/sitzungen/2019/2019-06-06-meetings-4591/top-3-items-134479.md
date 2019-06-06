@@ -1,0 +1,8 @@
+# TOP 3: Schadstoffbelastung in der Kath. Grundschule Meerkamp
+
+- Sitzung: Bezirksvertretung Ost (2019-06-06)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/134479
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/26952
