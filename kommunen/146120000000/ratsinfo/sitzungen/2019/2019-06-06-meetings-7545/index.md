@@ -1,0 +1,96 @@
+# 66. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-06-06T16:00:00+02:00
+- Ende: 2019-06-06T21:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7545
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7545
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00413965.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: 10. Einwohnerfragestunde
+- TOP 3.1: Aufstellung von gelben Tonnen
+- TOP 3.2: Ausgleichsflächen für den Eingriff in die Natur und Landschaft
+- TOP 3.3: Radverkehr in Dresden
+- TOP 3.4: Betreuungsschlüssel Kitas
+- TOP 3.5: Gesunde Ernährung in Kitas und Schulen
+- TOP 3.6: Illegale Graffiti
+- TOP 3.7: Langobardenstraße im Stadtteil Nickern
+- TOP 3.8: Wiedererrichtung des Wettin-Obelisken
+- TOP 4: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 5: Umbesetzung der Vertretung des Kreiselternrates gemäß § 8 (2) der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden - Zustimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Verweisung der Stadtratssitzung am 9. Mai 2019
+- TOP 7.1: Besetzung und Umbesetzung von Amtsleitungen, Betriebsleitungen und Chefarztpositionen in der Landeshauptstadt Dresden - punktweise Abstimmung mit Änderung
+- TOP 8: Vertagung der letzten Stadtratssitzung vom 27. Mai 2019
+- TOP 8.1: Kultur- und Nachbarschaftszentren vor Ort - Ersetzung
+- TOP 8.2: Masterplan Fairtrade - Ablehnung
+- TOP 8.3: Ortsamt Loschwitz als Standort erhalten - Zustimmung mit Änderung
+- TOP 8.4: Gute Arbeit in und bei der Landeshauptstadt Dresden - punktweise Abstimmung
+- TOP 8.5: Grundsätze für die Stadtgestaltung - Zustimmung
+- TOP 8.6: Wildwuchs von Hochhäusern im Stadtbild verhindern - Leitbild Hochhausentwicklung für Dresden entwickeln - punktweise Abstimmung mit Änderung
+- TOP 8.7: Reaktivierung Schulstandort Ginsterstraße 3 in 01169 Dresden als dauerhafter Auslagerungsstandort für kommunale Schulen - erledigt
+- TOP 8.8: Vorkaufsrechtssatzung Nr. 13, Dresden-Seidnitz/Tolkewitz, Wohnstandort Kipsdorfer Straße/Weesensteiner Straße - Zustimmung
+- TOP 8.9: Sowjetischer Garnisonsfriedhof - Eigentumsübertragung vom Freistaat Sachsen an die Landeshauptstadt Dresden - erledigt
+- TOP 8.10: Eine neue Skateanlage für die Johannstadt - erledigt
+- TOP 8.11: Stadtratsbeschlüsse achten und umsetzen - Stadtbezirksbeiräte mit angemessenen Budgets ausstatten - Vertagung durch Einreicher
+- TOP 8.12: Zweckentfremdung von Wohnraum - punktweise Abstimmung mit Änderung
+- TOP 8.13: Gewährung von Bildungsurlaub unter Fortzahlung des Entgelts bzw. der Besoldung für die Beschäftigten und Auszubildenden der Landeshauptstadt Dresden - erledigt
+- TOP 8.14: Projekttag "Moderne. Sehen. Verstehen - Auf den Spuren des Architekten Wolfgang Hänsch" - erledigt
+- TOP 8.15: Abschluss eines Erbbaurechtsvertrages für ein Grundstück in Dresden-Neustadt, Bautzner Straße - erledigt
+- TOP 8.16: Änderung der Satzung der Landeshauptstadt Dresden über die Ausübung von Straßenkunst (Änderung Satzung Straßenkunst) - Ablehnung
+- TOP 8.17: Mietpreise kappen! Neue Kappungsgrenzenverordnung für die Landeshauptstadt Dresden in Kraft setzen! - Zustimmung
+- TOP 8.18: Wohn- und Geschäftsviertels „Ferdinandstraße“ – Ghetto verhindern - Ablehnung
+- TOP 8.19: Jugendbeteiligung jetzt wirklich ernst nehmen! - erledigt
+- TOP 8.20: Anträge-Liquiditätsreserve
+- TOP 8.20.1: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung durch Einreicher
+- TOP 8.20.2: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung durch Einreicher
+- TOP 8.20.3: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung durch Einreicher
+- TOP 8.20.4: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung durch Einreicher
+- TOP 8.21: Jugendbeteiligung ernst nehmen – Umsetzung des neuen § 47a der SächsGemO - zurückgezogen
+- TOP 8.22: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung auf Geschäftsordnungsantrag
+- TOP 8.23: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Vertagung durch Einreicher
+- TOP 8.24: Klinikum Dresden – wirtschaftliche Lage - erledigt
+- TOP 8.25: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Zustimmung mit Änderung
+- TOP 8.26: Wachstumsregion Dresden: Verkehrliche Rolle der Stadt Dresden untersuchen - Mobilitätsanforderungen von Berufspendlern und deren Auswirkungen auf die Verkehrsbelegungszahlen ermitteln - Ersetzung
+- TOP 8.27: Stadtteilverträglicher ÖPNV in Striesen, Gruna und Blasewitz - Vertagung auf Geschäftsordnungsantrag
+- TOP 8.28: Teilgebiets-Lärmaktionsplan Innere Neustadt (Entwurf für Offenlage) - Zustimmung mit Ergänzung
+- TOP 8.29: Europäisches Zentrum der Künste Hellerau – Investitionen zur Sicherstellung der Spielfähigkeit des Hauses 2019/2020 - Vertagung durch Einreicher
+- TOP 8.30: Verkehrsmuseum Dresden – Einmalige Zuwendung zur Dauerausstellung zur Geschichte der Eisenbahn - zurückgezogen
+- TOP 8.31: Budgetanpassungen - zurückgezogen
+- TOP 8.32: Sanierung des Römischen Bades im Schloss Albrechtsberg - Zustimmung mit Änderung
+- TOP 8.33: Für eine vielfältige Veranstaltungs- und Clubszene in Dresden - Aufhebung der Sperrstunde nach Sächsischem Gaststättengesetz - Zustimmung mit Änderung
+- TOP 8.34: Übertragung einer Teilfläche des Flurstücks Nr. 444/79 der Gemarkung Strehlen an die Cultus gGmbH und Aufnahme der Kindertageseinrichtung Geystraße, 01217 Dresden, in den Bedarfsplan der Landeshauptstadt Dresden - Zustimmung
+- TOP 8.35: Verwendung von Einnahmen aus Geschwindigkeitsüberwachungsanlagen (Blitzern) - Vertagung durch Einreicher
+- TOP 8.36: Schutz von FahrradfahrerInnen während der Sanierung der Loschwitzer Brücke - punktweise Abstimmung mit Änderung
+- TOP 8.37: Grundlagenbetrachtung einer Elbquerung zwischen Pieschen und dem Ostragehege - Zustimmung mit Ergänzung
+- TOP 8.38: Straßenrückbau stoppen - Verkehrsplanung für alle Verkehrsteilnehmer, hier: Korrektur Vorplanungen Stadtbahn 2020 Teilstrecke 1.3 "Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße" - Verweisung
+- TOP 8.39: Dresdner Fernsehturm - Konzept für die verkehrliche Erschließung erstellen - Vertagung nach 22 Uhr
+- TOP 8.40: Skaterplätze in Dresden einrichten und fördern! - erledigt
+- TOP 9: Neufassung der Richtlinie "DRESDEN EXCELLENCE AWARD - Wissenschaftspreis der Stadt Dresden“ für wissenschaftliche Abschlussarbeiten von Absolventinnen und Absolventen der ortsansäs-sigen Hochschulen (DEA) - Vertagung nach 22 Uhr
+- TOP 10: Neufassung der Fachförderrichtlinie Innovationsförderung - Vertagung nach 22 Uhr
+- TOP 11: Rückkauf der von der Thüga AG gehaltenen Anteile (10 %) an der DREWAG - Stadtwerke Dresden GmbH - Zustimmung
+- TOP 12: Polizeiverordnung der Landeshauptstadt Dresden als Kreispolizeibehörde über ein örtlich und zeitlich begrenztes Verbot des Verzehrs und des Mitführens alkoholischer Getränke auf öffentlichen Flächen im Bereich des Amalie-Dietrich-Platzes (PolVO Alkoh - punktweise Abstimmung mit Ergänzung
+- TOP 13: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2017 - Zustimmung
+- TOP 14: Touristische Maßnahmen der Landeshauptstadt Dresden 2019 in Umsetzung des Stadtratsbeschlusses zur Beherbergungssteuer - Zustimmung
+- TOP 15: Wohnkonzept der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Richtlinie "Kooperatives Baulandmodell Dresden" - Zustimmung mit Ergänzung
+- TOP 17: Flächennutzungsplan der Landeshauptstadt Dresden in den Stadtgrenzen vom 1. Januar 1999 - Zustimmung mit Ergänzung
+- TOP 18: Aufnahme des Projektes „Jugendzentrum Jugendkirche Dresden“ in das Integrierte Handlungskonzept zum Fördergebiet Dresden Johannstadt/Pirnaische Vorstadt sowie Einsatz von Förder- und Eigenmitteln für die Realisierung - Zustimmung
+- TOP 19: Veränderungssperre für Bebauungsplan Nr. 3048, Dresden-Altstadt II Nr. 32, Budapester Straße/Zwickauer Straße - Zustimmung
+- TOP 20: Mitgliedschaft in der Open Traffic Systems City Association (OCA) e. V. - Zustimmung
+- TOP 21: Vorhabenbezogener Bebauungsplan Nr. 6035, Dresden-Niedersedlitz, Neue Waldorfschule - Zustimmung mit Ergänzung
+- TOP 22: Bönischplatz – Sanierung und Aufwertung - Zustimmung mit Ergänzung
+- TOP 23: Gebietshochwasserschutz Leipziger Vorstadt - Zustimmung mit Ergänzung
+- TOP 24: Erweiterung der "Betriebsvereinbarung zur Regelung von Betrieb, Unterhaltung und Lagerung des mobilen Anteils im Zuge der Hochwasserschutzmaßnahmen zum Schutz vor Hochwasser der Elbe" mit der Landestalsperrenverwaltung des Freistaates Sachsen - Zustimmung
+- TOP 25: Planungsstart zur Instandsetzung der Neuländer Straße - Vertagung nach 22 Uhr
+- TOP 26: Wiederaufbau Hotel Stadt Rom - Zustimmung mit Änderung
+- TOP 27: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung durch Einreicher
+- TOP 28: Digitale Offensive für die Bürgerinnen und Bürger der Stadt Dresden - Vertagung nach 22 Uhr
