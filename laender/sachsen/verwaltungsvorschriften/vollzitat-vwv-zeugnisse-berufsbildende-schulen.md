@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zeugnisse berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-12-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.2
+- Datum: 2019-06-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17513.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.12.2018
+07.06.2019
 bis
-06.06.2019
+04.06.2020
 
 VwV Zeugnisse berufsbildende Schulen
 
@@ -194,20 +194,25 @@ Zeugnis Einstiegsqualifizierung der Bundesagentur für Arbeit
 
 A.01.08
 
-Zeugnis Berufsvorbereitungsjahr
+Jahreszeugnis Berufsvorbereitungsjahr
 
 
 A.01.09
 
-Zeugnis Berufsvorbereitungsjahr (ohne Erfolg)
+Zeugnis Berufsvorbereitungsjahr
 
 
 A.01.10
 
-Zeugnis Berufsgrundbildungsjahr
+Zeugnis Berufsvorbereitungsjahr (ohne Erfolg)
 
 
 A.01.11
+
+Zeugnis Berufsgrundbildungsjahr
+
+
+A.01.12
 
 Zeugnis Berufsgrundbildungsjahr (ohne Erfolg)
 
@@ -675,9 +680,9 @@ Fsn-Nr.: 710-V17.10
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Dezember 2018
+Fassung gültig ab:  7. Juni 2019
 
-Fassung gültig bis:  6. Juni 2019
+Fassung gültig bis:  4. Juni 2020
 
 Drucken/Speichern
 
@@ -704,7 +709,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17513.2
+https://www.revosax.sachsen.de/vorschrift/17513.3
 Stand vom
 18.11.2026
 
