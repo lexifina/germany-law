@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln berufsbildende Schulen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.3
+- Datum: 2019-06-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17348.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2018
+07.06.2019
 bis
-06.06.2019
+31.07.2020
 
 VwV Stundentafeln berufsbildende Schulen
 
@@ -74,7 +74,7 @@ Lehrpläne, Arbeitsmaterialien, Stoff- und Kompetenzverteilungspläne
 
 a)
 
-Die Lehrpläne in den studienqualifizierenden Bildungsgängen sind von der Schule in Stoffverteilungspläne umzusetzen, welche die inhaltliche und zeitliche Gliederung für den Unterricht ausweisen. Die Lehrpläne und Arbeitsmaterialien der berufsqualifizierenden Bildungsgänge sind durch die Kompetenzverteilungspläne zu untersetzen (siehe „Handreichung des Sächsischen Bildungsinstitutes zur Umsetzung lernfeldstrukturierter Lehrpläne“).
+Die Lehrpläne in den studienqualifizierenden Bildungsgängen sind von der Schule in Stoffverteilungspläne umzusetzen, welche die inhaltliche und zeitliche Gliederung für den Unterricht ausweisen. Die Lehrpläne und Arbeitsmaterialien der berufsqualifizierenden Bildungsgänge sind durch die Kompetenzverteilungspläne zu untersetzen (siehe „Handreichung des Landesamtes für Schule und Bildung, Standort Radebeul, zur Umsetzung lernfeldstrukturierter Lehrpläne“).
 
 
 b)
@@ -130,12 +130,12 @@ Gestrecktes Berufsvorbereitungsjahr
 
 A.3
 
-Vorbereitungsklasse mit berufspraktischen Aspekten
+Vorbereitungsklasse
 
 
 A.4
 
-Berufsvorbereitende Bildungsmaßnahmen der Bundesagentur für Arbeit/Einstiegsqualifizierung (EQ)
+Berufsvorbereitende Bildungsmaßnahme/Einstiegsqualifizierung der Bundesagentur für Arbeit
 
 
 A.5
@@ -614,7 +614,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Informations- und Kommunika
 
 E.6
 
-Doppelqualifizierter Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Informations- und Kommunikationstechnologie
+Doppelqualifizierender Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Informations- und Kommunikationstechnologie
 
 
 E.7
@@ -624,7 +624,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Technikwissenschaft
 
 E.8
 
-Doppelqualifizierter Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Technikwissenschaft
+Doppelqualifizierender Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Technikwissenschaft
 
 
 E.9
@@ -634,7 +634,7 @@ Klassenstufe 11, Jahrgangsstufen 12/13, Fachrichtung Wirtschaftswissenschaft
 
 E.10
 
-Doppelqualifizierter Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Wirtschaftswissenschaft
+Doppelqualifizierender Bildungsgang, 1. bis 4. Ausbildungsjahr, Fachrichtung Wirtschaftswissenschaft
 
 
 E.11
@@ -799,17 +799,17 @@ Brunhild Kurth
 
 Anlagen zu Ziffer II
 
-Muster – Teil A
+Teil A – Berufsschule
 
-Muster – Teil B
+Teil B – Berufsfachschule
 
-Muster – Teil C
+Teil C – Fachschule (gültig ab Schuljahr 2017/2018)
 
-Muster – Teil D
+Teil D – Fachoberschule
 
-Muster – Teil E
+Teil E – Berufliches Gymnasium
 
-Muster – Teil F
+Teil F – Auslaufende Stundentafeln (Schulart Fachschule)
 
 Verweis auf Bundesgesetze
 
@@ -821,9 +821,9 @@ Fsn-Nr.: 710-V17.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2018
+Fassung gültig ab:  7. Juni 2019
 
-Fassung gültig bis:  6. Juni 2019
+Fassung gültig bis: 31. Juli 2020
 
 Drucken/Speichern
 
@@ -850,7 +850,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17348.3
+https://www.revosax.sachsen.de/vorschrift/17348.4
 Stand vom
 18.11.2026
 
