@@ -1,0 +1,3 @@
+# Art 51
+
+Wird der Text eines Schecks geändert, so haften diejenigen, die ihre Unterschrift nach der Änderung auf den Scheck gesetzt haben, entsprechend dem geänderten Text; wer früher unterschrieben hat, haftet nach dem ursprünglichen Text.

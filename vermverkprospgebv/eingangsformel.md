@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 16 Satz 2 des Verkaufsprospektgesetzes in der Fassung der Bekanntmachung vom 9. September 1998 (BGBl. I S. 2701), der durch Artikel 2 Nr. 12 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698) neu gefasst worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und § 1 Nr. 6 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, § 1 Nr. 6 eingefügt durch Artikel 7 Nr. 2 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:

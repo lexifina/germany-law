@@ -1,0 +1,3 @@
+# Art 4
+
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit § 156 der Gewerbeordnung auch im Land Berlin.

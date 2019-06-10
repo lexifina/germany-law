@@ -1,0 +1,10 @@
+# Art 2 Sonstige Bezüge
+
+(1)
+(weggefallen)
+(2)
+(weggefallen)
+(3)
+(weggefallen)
+(4)
+Der Strukturausgleich nach Artikel 1 § 6 Abs. 1 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1991 vom 21. Februar 1992 (BGBl. I S. 266) und der Zuschlag zum Grundgehalt (Erhöhungszuschlag) nach Artikel 5 § 1 Abs. 1 oder Artikel 6 § 1 Abs. 1 des Siebenten Gesetzes zur Änderung des Besoldungsgesetzes vom 15. April 1970 (BGBl. I S. 339) oder entsprechendem Landesrecht nehmen mit Wirkung vom 31. Dezember 1997 an allgemeinen Erhöhungen der Bezüge nicht mehr teil.

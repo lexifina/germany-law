@@ -1,0 +1,33 @@
+# Anlage 8c (zu § 25b Absatz 2)Muster eines Internationalen Führerscheins nach dem Internationalen Abkommen über Kraftfahrzeugverkehr vom 24. April 1926
+
+Vorbemerkungen
+1. Der Internationale Führerschein nach Artikel 7 und Anhang E des Internationalen Abkommens über Kraftfahrzeugverkehr vom 24. April 1926 ist ein Heft in Form DIN A6 (148 mm x 105 mm) mit grauem Umschlag und 36 weißen Innenseiten. Die Seite 37 ist zum Herausklappen eingerichtet.
+2. Die Vorder- und Rückseite des ersten Umschlagblattes und die Seiten 3 bis 35 und 37 sind nachstehend wiedergegeben. Die Seiten 36 und 38 bleiben frei.
+3. Ausfertigungen dieses Internationalen Führerscheins nach Muster 7 der Verordnung über internationalen Kraftfahrzeugverkehr in der Fassung vom 1. Januar 1964 sind weiterhin gültig.
+4. Die Fahrzeugklassen werden wie folgt definiert:
+  A Kraftfahrzeuge, deren Gesamtgewicht bestehend aus dem Leergewicht und der bei der Zulassung für zulässig erklärten größten Belastung 3 500 kg nicht übersteigt,
+  B Kraftfahrzeuge, deren wie oben gebildetes Gesamtgewicht 3 500 kg übersteigt,
+  C Krafträder mit und ohne Beiwagen.
+5. Bei der Ausstellung des Internationalen Führerscheins nach § 25b Absatz 2 sind folgende Klassen bzw. Beschränkungen zu erteilen:
+  | deutsche Fahrerlaubnisklasse | internationale Fahrerlaubnisklasse | Beschränkungen |
+  | A1 | C, A | C ≤125 cm3 C ≤ 11 kW C ≤ 0,1 kW/kg A: dreirädrige Kfz ≤ 15 kW |
+  | A2 | C | C ≤ 35 kW C ≤ 0,2 kW/kg |
+  | A | C, A | A: nur dreirädrige Kfz |
+  | B | A |  |
+  | C1 | B | B ≤ 7 500 kg |
+  | C | B |  |
+  | D1 | B | B: nur Kraftomnibusse, Anzahl Plätze außer dem Führersitz ≤ 16 |
+  | D | B | B: nur Kraftomnibusse |
+6. Bei der Ausstellung des Internationalen Führerscheins nach § 25b Absatz 2a sind folgende Klassen bzw. Beschränkungen zu erteilen:
+  | deutsche Fahrerlaubnisklasse | internationale Fahrerlaubnisklasse | Beschränkungen |
+  | A1 | C | C ≤ 125 cm3 C ≤ 11 kW |
+  | A beschränkt | C | C ≤ 35 kW C ≤ 0,2 kW/kg |
+  | A | C |  |
+  | B | A |  |
+  | C1 | B | B ≤ 7 500 kg |
+  | C | B |  |
+  | D1 | B | B: nur Kraftomnibusse ≤ 8 m, Anzahl Plätze außer dem Führersitz ≤ 16 |
+  | D | B | B: nur Kraftomnibusse |
+  Darüber hinaus kann die Fahrerlaubnisbehörde weitere Beschränkungen, die sich aus der unterschiedlichen Definition der Fahrerlaubnisklassen, der Bestandsschutzregelungen sowie eignungsbedingter Einschränkungen ergeben, eintragen.
+(Vorderseite des ersten Umschlagblattes)
+(Rückseite des ersten Umschlagblattes)

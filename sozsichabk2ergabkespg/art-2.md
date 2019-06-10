@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Hat ein Träger der Krankenversicherung für die in Artikel 15 Abs. 2 des Abkommens vom 4. Dezember 1973 genannten Personen und deren Angehörige Leistungen gemäß Artikel 15 Abs. 4 und 5 dieses Abkommens gewährt, so sind ihm als Beiträge im Sinne des § 247 des Fünften Buches Sozialgesetzbuch die Aufwendungen für diese Leistungen in Höhe der tatsächlich entstandenen Kosten von dem zuständigen Träger der Rentenversicherung zu erstatten.
+(2)
+Die Beträge, die nach Absatz 1 von den Trägern der Rentenversicherung den Trägern der Krankenversicherung zu erstatten sind, gelten als Beiträge für die Krankenversicherung im Sinne des § 219 Abs. 1 des Sechsten Buches Sozialgesetzbuch.

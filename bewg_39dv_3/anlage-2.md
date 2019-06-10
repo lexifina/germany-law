@@ -1,0 +1,66 @@
+# Anlage 2 (zu § 1 Nr. 1)
+
+Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
+
+| Lfd. Nr. | Gemeinde, Ort oder Ortsteil | Finanzamtsbezirk | Gartenbauvergleichszahl (GVZ) je Ar | Bemerkungen |
+| G 11.01 | Engelbrechtsche Wildnis | Itzehoe | 94 | Gemüsebau |
+| G 11.02 | Bordesholm | Neumünster | 491 | Blumen- und Zierpflanzenbau |
+| G 11.03 | Haffkrug-Scharbeutz | Eutin | 411 | Blumen- und Zierpflanzenbau |
+| G 11.04 | Lübeck | Lübeck | 842 | Blumen- und Zierpflanzenbau |
+| G 11.05 | Stockelsdorf-Mori I | Eutin | 94 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 11.06 | Stockelsdorf-Mori II | Eutin | 201 | Blumen- und Zierpflanzenbau |
+| G 21.01 | Nordstemmen | Alfeld (Leine) | 608 | Blumen- und Zierpflanzenbau |
+| G 21.02 | Wolfenbüttel | Wolfenbüttel | 87 | Gemüsebau |
+| G 21.03 | Brinkum | Syke | 94 | Gemüsebau |
+| G 21.04 | Buxtehude | Stade | 501 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 21.05 | Gleidingen | Hildesheim | 252 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 22.01 | Oldenburg (Oldb) | Oldenburg (Oldb) | 412 | Blumen- und Zierpflanzenbau |
+| G 22.02 | Völlen | Leer (Ostfriesl) | 199 | Gemüsebau |
+| G 31.01 | Münster (Westf) | Münster-Stadt | 246 | Gemüsebau |
+| G 31.02 | Gelsenkirchen-Buer | Gelsenkirchen-Nord | 420 | Blumen- und Zierpflanzenbau |
+| G 31.03 | Bielefeld | Bielefeld-Stadt | 494 | Blumen- und Zierpflanzenbau |
+| G 32.01 | Walbeck-Lüllingen | Geldern | 485 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 32.02 | Xanten | Moers | 561 | Blumen- und Zierpflanzenbau |
+| G 32.03 | Essen-Haarzopf | Essen-Süd | 1.047 | Blumen- und Zierpflanzenbau |
+| G 33.01 | Widdig | Bonn-Land | 55 | Gemüsebau |
+| G 33.02 | Stotzheim | Köln-Land | 309 | Blumen- und Zierpflanzenbau |
+| G 33.03 | Rodenkirchen | Köln-Land | 573 | Blumen- und Zierpflanzenbau |
+| G 41.01 | Grünstadt | Grünstadt | 712 | Blumen- und Zierpflanzenbau |
+| G 41.02 | Maxdorf | Frankenthal (Pfalz) | 67 | Gemüsebau |
+| G 41.03 | Trier | Trier | 74 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 41.04 | Zweibrücken | Zweibrücken | 240 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 51.01 | Kassel I | Kassel-Spohrstraße | 460 | Blumen- und Zierpflanzenbau |
+| G 51.02 | Kassel II | Kassel-Spohrstraße | 131 | Gemüsebau |
+| G 51.03 | Wiesbaden-Biebrich | Wiesbaden-Herrengartenstraße | 243 | Gemüsebau |
+| G 51.04 | Marburg | Marburg | 194 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 61.01 | Saarlouis | Saarlouis | 361 | Blumen- und Zierpflanzenbau |
+| G 61.02 | Saarlouis-Lisdorf | Saarlouis | 54 | Gemüsebau |
+| G 61.03 | Saarbrücken | Saarbrücken I | 438 | Blumen- und Zierpflanzenbau |
+| G 71.01 | Heidelberg-Kirchheim | Heidelberg | 430 | Blumen- und Zierpflanzenbau |
+| G 71.02 | Heidelberg-Handschuhsheim | Heidelberg | 169 | Gemüsebau |
+| G 71.03 | Eppingen | Sinsheim (Elsenz) | 405 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 71.04 | Eggenstein | Karlsruhe-Durlach | 221 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 72.01 | Baden-Baden | Baden-Baden | 178 | Gemüsebau |
+| G 72.02 | Sinzheim | Bühl (Baden) | 721 | Blumen- und Zierpflanzenbau |
+| G 72.03 | Reichenau-Oberzell | Konstanz | 144 | Gemüsebau |
+| G 72.04 | Freiburg-Zähringen | Freiburg I | 237 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 73.01 | Altheim | Riedlingen (Württ) | 173 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 73.02 | Neuhausen-Filder | Esslingen (Neckar) | 552 | Blumen- und Zierpflanzenbau |
+| G 73.03 | Schmiden | Waiblingen | 282 | Gemüsebau |
+| G 73.04 | Ulm | Ulm | 430 | Blumen- und Zierpflanzenbau |
+| G 73.05 | Ravensburg | Ravensburg | 312 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 81.01 | Dinkelsbühl | Dinkelsbühl | 728 | Blumen- und Zierpflanzenbau |
+| G 81.02 | Segnitz | Ochsenfurt | 131 | Gemüsebau |
+| G 81.03 | Fürth (Bay) | Fürth (Bay) | 436 | Blumen- und Zierpflanzenbau |
+| G 82.01 | Augsburg | Augsburg-Stadt | 179 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 82.02 | Kolbermoor | Rosenheim | 481 | Blumen- und Zierpflanzenbau |
+| G 82.03 | München-Moosach | München-Grundbesitz | 547 | Blumen- und Zierpflanzenbau |
+| G 82.04 | Straubing | Straubing | 116 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 91.01 | Hamburg-Tatenberg | Hamburg-Dammtor | 102 | Gemüsebau |
+| G 91.02 | Hamburg-Neuengamme | Hamburg-Dammtor | 588 | Blumen- und Zierpflanzenbau |
+| G 91.03 | Hamburg-Ochsenwerder | Hamburg-Dammtor | 352 | Gemüsebau und Blumen- und Zierpflanzenbau |
+| G 101.01 | Bremen | Bremen-Mitte | 541 | Blumen- und Zierpflanzenbau |
+| G 101.02 | Bremen-Habenhausen | Bremen-Mitte | 644 | Blumen- und Zierpflanzenbau |
+| G 111.01 | Berlin-Staaken | Berlin-Spandau | 346 | Blumen- und Zierpflanzenbau |
+| G 111.02 | Berlin-Mariendorf | Berlin-Tempelhof | 494 | Blumen- und Zierpflanzenbau |
+| G 111.03 | Berlin-Britz | Berlin-Neukölln-Süd | 416 | Blumen- und Zierpflanzenbau |

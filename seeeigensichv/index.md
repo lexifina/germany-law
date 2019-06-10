@@ -1,0 +1,17 @@
+# Verordnung zur Eigensicherung von Seeschiffen zur Abwehr äußerer Gefahren
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Zweck der Verordnung und Zuständigkeit des Bundes](0001.md)
+- [§ 2 Verpflichtungen privater Unternehmen](0002.md)
+- [§ 3 Anerkannte Stelle zur Gefahrenabwehr](0003.md)
+- [§ 4 Beauftragte für die Gefahrenabwehr im Unternehmen und auf dem Schiff](0004.md)
+- [§ 5 Anerkennung von Fortbildungslehrgängen](0005.md)
+- [§ 6 Risikobewertung](0006.md)
+- [§ 7 Plan zur Gefahrenabwehr auf dem Schiff](0007.md)
+- [§ 8 Internationales Zeugnis über die Gefahrenabwehr an Bord eines Schiffes](0008.md)
+- [§ 9 Sicherheitserklärung](0009.md)
+- [§ 10 Kommunikation](0010.md)
+- [§ 11 Schulungen und Übungen](0011.md)
+- [§ 12 Ordnungswidrigkeiten](0012.md)
+- [§ 13 ISO-Normen](0013.md)
+- [§ 14 Übergangsvorschrift zu § 7 Absatz 2a](0014.md)

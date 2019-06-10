@@ -1,0 +1,6 @@
+# Art 26
+
+(1)
+Abschlußprüfer nach § 319 Abs. 1 Satz 1 des Handelsgesetzbuchs kann auch eine nach § 131f Abs. 2 der Wirtschaftsprüferordnung bestellte Person sein. Abschlußprüfer nach § 319 Abs. 1 Satz 2 des Handelsgesetzbuchs kann auch eine nach § 131b Abs. 2 der Wirtschaftsprüferordnung bestellte Person sein. Für die Durchführung der Prüfung von Jahresabschlüssen und Lageberichten haben diese Personen die Rechte und Pflichten von Abschlußprüfern.
+(2)
+Für die Anwendung des § 319 Abs. 2 und 3 des Handelsgesetzbuchs in der Fassung des Bilanzrichtlinien-Gesetzes bleibt eine Mitgliedschaft im Aufsichtsrat des zu prüfenden Unternehmens außer Betracht, wenn sie spätestens mit der Beendigung der ersten Versammlung der Aktionäre oder Gesellschafter der zu prüfenden Gesellschaft, die nach Inkrafttreten des Bilanzrichtlinien-Gesetzes stattfindet, endet.

@@ -1,0 +1,11 @@
+# Art 1
+
+Den folgenden in Washington am 14. Dezember 1989 von der Bundesrepublik Deutschland unterzeichneten Verträgen des Weltpostvereins
+1. Viertes Zusatzprotokoll zur Satzung des Weltpostvereins
+2. Allgemeine Verfahrensordnung des Weltpostvereins nebst Anhang
+3. Weltpostvertrag
+4. Postpaketabkommen
+5. Postanweisungsabkommen
+6. Postgiroabkommen und
+7. Postnachnahmeabkommen
+nebst Schlußprotokollen wird zugestimmt. Die Verträge nebst Schlußprotokollen werden nachstehend veröffentlicht.

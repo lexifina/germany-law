@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe c, Nummer 2 Buchstabe a, c, k und x, Nummer 3 einleitender Satzteil und Nummer 5a jeweils in Verbindung mit Absatz 3 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 1 im Eingangssatz durch Artikel 2 Nummer 4 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958) geändert und § 6 Absatz 1 Nummer 2 Buchstabe x durch Artikel 1 Nummer 2 Buchstabe a Doppelbuchstabe cc des Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) eingefügt worden sind, verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung nach Anhörung der zuständigen obersten Landesbehörden:

@@ -1,0 +1,66 @@
+# Anlage 10
+
+| Modèle de carnet de contrôle des huiles usées |
+| (Article 15.05 RPNR; annexe 2, appendice I CDNI |
+| Muster für das Ölkontrollbuch |
+| (§ 15.05 RheinSchPV; Anlage 2, Anhang I CDNI |
+| Model voor het olie-afgifteboekje |
+| (Artikel 15.05 RPR; bijlage 2, aanhangsel I CDNI |
+| __________________ |
+| Carnet de contrôle des huiles usées |
+| Ölkontrollbuch |
+| Olie-afgifteboekje |
+| Page/Seite/Bladzijde 1 |  | N° d’ordre:Laufende Nr.: ..............Volgnummer: |
+|  |  |  |
+| -----------------------------------------------------------------Type du bâtimentArt des FahrzeugsAard van het schip | ------------------------------------------------------------------------------------------------------------------------------Nom du bateauName des SchiffesNaam van het schip |
+| Numéro européen unique d’identificationdes bateaux ou numéro officiel:Einheitliche europäische Schiffsnummeroder amtliche Schiffsnummer: Uniek Europees scheepsidentificatienummerof officieel scheepnummer: | ------------------------------------------------------------------------------------------------------------------------------ |
+| Lieu de délivrance:Ort der Ausstellung: Plaats | ------------------------------------------------------------------------------------------------------------------------------ |
+| Date de délivrance:Datum der Ausstellung: Datum van afgifte: | ------------------------------------------------------------------------------------------------------------------------------ |
+| Le présent carnet comprend Dieses Buch enthält Dit boekje telt | …………………………………… pages. …………………………………… Seiten.…………………………………… bladzijden. |
+|  | -----------------------------------------------------------------------------------------------------------------------------Cachet et signature de l’autorité qui adélivré le présent carnetStempel und Unterschrift der Behörde,die dieses Ölkontrollbuch ausgestellt hatStempel en ondertekening van de autoriteitdie het boekje heeft afgegeven |
+| Page/Seite/Bladzijde 2 |
+| Etablissement des carnets de contrôle des huiles usées |
+| Le premier carnet de contrôle des huiles usées, muni sur la page 1 du numéro d’ordre 1, est délivré par une autorité compétente sur présentation du certificat de visite en cours de validité ou d’un autre certificat reconnu comme étant équivalent. Cette autorité appose également les indications prévues sur la page 1. |
+| Tous les carnets suivants seront établis et numérotés dans l’ordre par une autorité compétente. Toutefois, ils ne doivent être remis que sur présentation du carnet précédent. Le carnet précédent doit recevoir la mention indélébile “non valable”. Après son renouvellement, le carnet précédent doit être conservé à bord durant au moins six mois à compter de la dernière inscription. |
+|  |
+| Ausstellung der Ölkontrollbücher |
+| Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des gültigen Schiffsattestes oder eines als gleichwertig anerkannten Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen Angaben ein. |
+| Alle nachfolgenden Kontrollbücher werden von einer zuständigen Behörde mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden. Das vorhergehende Kontrollbuch wird unaustilgbar „ungültig“ gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt werden. |
+|  |
+| Afgifte von het olie-afgifteboekje |
+| Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het geldige certificaat van onderzoek of van een gelijkwaardig erkend bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde 1 in. |
+| Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit afgegeven nadat deze daarop het aansluitende volgnummer heeft aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na overleggen van het vorige boekje worden afgegeven. Het vorige boekje wordt op onuitwisbare wijze als „ongeldig” gemerkt. Na het verkrijgen van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende tenminste zes maanden na de laatste daarin vermelde datum van afgifte aan boord worden bewaard. |
+| Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende |
+| 1. | Déchets huileux et graisseux survenant lors |  |  |
+|  | de l’exploitation du bâtiment acceptés/ |  |  |
+|  | Akzeptierte öl- und fetthaltige Schiffsbetriebsabfälle/ |  |  |
+|  | Geaccepteerde olie- en vethoudende scheepsbedrijfsafvalstoffen: |  |  |
+| 1.1 | Huiles usées/Altöl/afgewerkte olie | ......................................................... | 1 |
+| 1.2 | Eau de fond de cale de/Bilgenwasser |  |  |
+|  | aus/Bilgewater van | ......................................................... | 1 |
+|  | Salle des machines arrière/Maschinenraum |  |  |
+|  | hinten/machinekamer achter | ......................................................... | 1 |
+|  | Salle des machines avant/Maschinenraum |  |  |
+|  | vorne/machinekamer voor | ......................................................... | 1 |
+|  | Autres locaux/Andere Räume/andere ruimten | ......................................................... | 1 |
+| 1.3 | Autres déchets huileux ou graisseux/ |  |  |
+|  | Andere öl- oder fetthaltige Abfälle/ |  |  |
+|  | Overige olie- of vethoudende afvalstoffen: |  |  |
+|  | Chiffons usés/Altlappen/gebruikte |  |  |
+|  | poetslappen | ......................................................... | kg |
+|  | Graisses usées/Altfett/afgewerkt vet | ......................................................... | kg |
+|  | Filtres usés/Altfilter/gebruikte filter | ......................................................... | pièces/Stück/stuk |
+|  | Récipients/Gebinde/verpakkingen | ......................................................... | pièces/Stück/stuk |
+| 2. | Notes/Bemerkungen/Opmerkingen: |  |  |
+| 2.1 | Déchets refusés/Nicht akzeptierte Abfälle/ |  |  |
+|  | niet geaccepteerd afval | .......................................................... |  |
+|  | ............................................................................................................................................................................................................................................................ |
+|  | ............................................................................................................................................................................................................................................................ |
+| 2.2 | Autres remarques/Andere Bemerkungen/ |  |  |
+|  | overige opmerkingen: |  |  |
+|  | ............................................................................................................................................................................................................................................................ |
+|  | ........................................................................................................................................................................................................................................................... |
+| LieuOrt Plaats | ..................................................................................... | DateDatum ....................................................................................Datum |
+|  | ............................................................................................................................................................................................... |
+|  |  | Cachet et signature de la station de réceptionStempel und Unterschrift der AnnahmestelleOndertekening en stempel van de ontvangstinrichting |
+| ________________________________________________________________________________________________________________________________________________ |

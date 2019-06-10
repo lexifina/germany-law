@@ -1,0 +1,14 @@
+# Anlage 4
+
+Fundstelle des Originaltextes: BGBl. Teil III 824-2, S. 15
+Lohn- oder Beitragsklassen für männliche Versicherte der Rentenversicherung der Arbeiter
+| Zeitraum | Arbeiter außerhalb der Land- und Forstwirtschaft der Leistungsgruppe | Arbeiter in der Landwirtschaft der Leistungsgruppe | Arbeiter in der Forstwirtschaft der Leistungsgruppe |
+| 1 | 2 | 3 | 1 | 2 | 1 | 2 |
+| Vom 1. Januar 1891 bis 31. Dezember 1899 | IV | III | III | III | II | III | III |
+| Vom 1. Januar 1900 bis 31. Dezember 1906 | V | IV | III | III | II | IV | III |
+| Vom 1. Januar 1907 bis 30. September 1921 | V | V | IV | IV | III | V | IV |
+| Vom 1. Januar 1924 bis 31. Dezember 1925 | V | IV | IV | III | II | IV | III |
+| Vom 1. Januar 1926 bis 31. Dezember 1927 | VI | VI | V | IV | III | V | IV |
+| Vom 1. Januar 1928 bis 31. Dezember 1933 | VII | VII | VI | V | III | VI | V |
+| Vom 1. Januar 1934 bis 31. Dezember 1938 | VIII | VII | VI | V | III | VI | V |
+| Vom 1. Januar 1939 bis 27. Juni 1942 | IX | VIII | VII | V | IV | VI | V |

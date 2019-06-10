@@ -1,0 +1,7 @@
+# Art 5
+
+Für den Geschäftsbereich des Sächsischen Staatsministeriums für Kultus und des Thüringer Kultusministeriums sind sich die Vertragsparteien über folgendes einig:
+1. Schülerbeförderungen werden vom jeweiligen Schulträger bei Notwendigkeit eingerichtet. Anfallende Kosten für die Beförderung sowie die anteiligen Kosten für Schülerspeisung werden entsprechend der Landeszugehörigkeit der Schüler vom jeweiligen Sachträger entsprechend dem Landesrecht vom Inkrafttreten dieses Vertrages an übernommen.
+2. Bestehende Schulbezirke bleiben im Schuljahr 1993/94 erhalten. Ab dem Schuljahr 1994/95 treten die entsprechenden Regelungen des Schulgesetzes für den Freistaat Sachsen in Kraft. Das Recht, Schulen der bisherigen Schuleinzugsbezirke zu besuchen, bleibt im Rahmen der landesrechtlichen Bestimmungen unbenommen.
+3. Entsprechend bisheriger Praxis in der Bundesrepublik Deutschland werden keine Gastschulbeiträge für Schüler der vertragschließenden Länder erhoben.
+4. Der Freistaat Sachsen unterläßt alle Maßnahmen, die geeignet sind, das Recht der Eltern oder sonstiger Sorgeberechtigten auf Wahl eines Kindergartenplatzes in Thüringen zu beeinträchtigen.

@@ -1,0 +1,28 @@
+# Anlage 3 (zu § 19 Absatz 2)Grundleistungen im Leistungsbild Bebauungsplan
+
+Das Leistungsbild Bebauungsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
+1. Leistungsphase 1: Vorentwurf für die frühzeitigen Beteiligungen
+  a) Zusammenstellen und Werten des vorhandenen Grundlagenmaterials
+  b) Erfassen der abwägungsrelevanten Sachverhalte
+  c) Ortsbesichtigungen
+  d) Festlegen ergänzender Fachleistungen und Formulieren von Entscheidungshilfen für die Auswahl anderer fachlich Beteiligter, soweit notwendig
+  e) Analysieren und Darstellen des Zustandes des Plangebiets, soweit für die Planung von Bedeutung und abwägungsrelevant, unter Verwendung hierzu vorliegender Fachbeiträge
+  f) Mitwirken beim Festlegen von Zielen und Zwecken der Planung
+  g) Erarbeiten des Vorentwurfes in der vorgeschriebenen Fassung mit Begründung für die frühzeitigen Beteiligungen nach den Bestimmungen des Baugesetzbuchs
+  h) Darlegen der wesentlichen Auswirkungen der Planung
+  i) Berücksichtigen von Fachplanungen
+  j) Mitwirken an der frühzeitigen Öffentlichkeitsbeteiligung einschließlich Erörterung der Planung
+  k) Mitwirken an der frühzeitigen Beteiligung der Behörden und Stellen, die Träger öffentlicher Belange sind
+  l) Mitwirken an der frühzeitigen Abstimmung mit den Nachbargemeinden
+  m) Abstimmen des Vorentwurfes für die frühzeitigen Beteiligungen in der vorgeschriebenen Fassung mit der Gemeinde
+2. Leistungsphase 2: Entwurf zur öffentlichen Auslegung
+  a) Erarbeiten des Entwurfes in der vorgeschriebenen Fassung mit Begründung für die Öffentlichkeits- und Behördenbeteiligung nach den Bestimmungen des Baugesetzbuchs
+  b) Mitwirken an der Öffentlichkeitsbeteiligung
+  c) Mitwirken an der Beteiligung der Behörden und Stellen, die Träger öffentlicher Belange sind
+  d) Mitwirken an der Abstimmung mit den Nachbargemeinden
+  e) Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen aus frühzeitigen Beteiligungen
+  f) Abstimmen des Entwurfs mit der Gemeinde
+3. Leistungsphase 3: Plan zur Beschlussfassung
+  a) Erarbeiten des Planes in der vorgeschriebenen Fassung mit Begründung für den Beschluss durch die Gemeinde
+  b) Mitwirken bei der Abwägung der Gemeinde zu Stellungnahmen
+  c) Erstellen des Planes in der durch Beschluss der Gemeinde aufgestellten Fassung.

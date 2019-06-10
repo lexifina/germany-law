@@ -1,0 +1,95 @@
+# Anlage 2 (zu § 3 Abs. 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Personaldienstleistungskaufmann/zur Personaldienstleistungskauffrau
+
+(Fundstelle: BGBl. I 2008, 240 - 241)
+– Zeitliche Gliederung –
+Während der gesamten Ausbildungszeit sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
+Abschnitt B Nr. 3 Anwenden einer Fremdsprache bei Fachaufgaben
+zu vermitteln.
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.1 Personalanwerbung, Lernziele a und b,
+Abschnitt A Nr. 1.2 Bewerberberatung, Lernziel b,
+Abschnitt A Nr. 3 Berufsfelderschließung, Lernziel a,
+Abschnitt A Nr. 5.1 Kommunikation, Lernziel a,
+Abschnitt A Nr. 5.2 Teamarbeit und Kooperation, Lernziel a,
+Abschnitt A Nr. 6 Kaufmännische Steuerung und Kontrolle, Lernziel b,
+Abschnitt B Nr. 1.1 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes,
+Abschnitt B Nr. 1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele a bis c,
+Abschnitt B Nr. 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+Abschnitt B Nr. 1.4 Umweltschutz,
+Abschnitt B Nr. 2.3 Informations- und Kommunikationssysteme
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.4 Personaleinstellung und Personalvermittlung, Lernziel a,
+Abschnitt A Nr. 2.4 Personalsachbearbeitung, Lernziele a und b,
+Abschnitt A Nr. 4.2 Marketing, Kundenbindung und Kundenbetreuung, Lernziele a und b,
+Abschnitt A Nr. 4.3 Angebotskalkulation und Verträge, Lernziel d,
+Abschnitt B Nr. 2.1 Lern- und Arbeitstechniken, Lernziele a bis d,
+Abschnitt B Nr. 2.4 Datenschutz und Datensicherheit
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.2 Bewerberberatung, Lernziele a und d,
+Abschnitt A Nr. 2.3 Personalführung und Personalbetreuung, Lernziel a,
+Abschnitt A Nr. 2.4 Personalsachbearbeitung, Lernziele c und d,
+Abschnitt A Nr. 2.5 Beendigung von Beschäftigungsverhältnissen, Lernziel a,
+Abschnitt A Nr. 4.1 Auftragsspezifische Arbeitsplatzanalyse und Personalbedarfsanalyse, Lernziel a,
+Abschnitt A Nr. 5.2 Teamarbeit und Kooperation, Lernziel b,
+Abschnitt A Nr. 7 Berufsbezogene Rechtsanwendungen, Lernziel b,
+Abschnitt B Nr. 1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziel f,
+zu vermitteln.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.1 Personalanwerbung, Lernziel c,
+Abschnitt A Nr. 2.1 Einsatzplanung und Einsatzvorbereitung, Lernziele b und c,
+Abschnitt A Nr. 2.4 Personalsachbearbeitung, Lernziel e,
+Abschnitt A Nr. 5.1 Kommunikation, Lernziel c,
+Abschnitt A Nr. 7 Berufsbezogene Rechtsanwendungen, Lernziele a und c,
+Abschnitt B Nr. 1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele d und e,
+Abschnitt B Nr. 2.1 Lern- und Arbeitstechniken, Lernziel e,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.2 Gewährleistung von Arbeitssicherheit und Gesundheitsschutz,
+Abschnitt A Nr. 2.3 Personalführung und Personalbetreuung, Lernziele b und c,
+Abschnitt A Nr. 3 Berufsfelderschließung, Lernziel b,
+Abschnitt A Nr. 4.2 Marketing, Kundenbindung und Kundenbetreuung, Lernziel c,
+Abschnitt A Nr. 5.3 Konfliktmanagement
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.3 Personalauswahl, Lernziele a bis d,
+Abschnitt A Nr. 4.1 Auftragsspezifische Arbeitsplatzanalyse und Personalbedarfsanalyse, Lernziel b,
+Abschnitt A Nr. 4.2 Marketing, Kundenbindung und Kundenbetreuung, Lernziele d und e,
+Abschnitt A Nr. 4.3 Angebotskalkulation und Verträge, Lernziel a,
+Abschnitt A Nr. 6 Kaufmännische Steuerung und Kontrolle, Lernziele a, c und d,
+Abschnitt B Nr. 2.2 Qualitätssicherung betrieblicher Arbeitsabläufe, Lernziele a bis c,
+zu vermitteln.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.3 Personalauswahl, Lernziel e,
+Abschnitt A Nr. 2.1 Einsatzplanung und Einsatzvorbereitung, Lernziel a,
+Abschnitt A Nr. 4.1 Auftragsspezifische Arbeitsplatzanalyse und Personalbedarfsanalyse, Lernziele c und d,
+Abschnitt A Nr. 4.4 Kontrolle der Vertragserfüllung,
+Abschnitt A Nr. 5.2 Teamarbeit und Kooperation, Lernziel c,
+Abschnitt A Nr. 6 Kaufmännische Steuerung und Kontrolle, Lernziel e,
+Abschnitt B Nr. 2.2 Qualitätssicherung betrieblicher Arbeitsabläufe, Lernziele d und e,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.2 Bewerberberatung, Lernziele c und e,
+Abschnitt A Nr. 2.3 Personalführung und Personalbetreuung, Lernziele d und e,
+Abschnitt A Nr. 2.5 Beendigung von Beschäftigungsverhältnissen, Lernziel b,
+Abschnitt A Nr. 3 Berufsfelderschließung, Lernziel c,
+Abschnitt A Nr. 5.1 Kommunikation, Lernziel b,
+Abschnitt B Nr. 2.1 Lern- und Arbeitstechniken, Lernziel f,
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 1.4 Personaleinstellung und Personalvermittlung, Lernziel b,
+Abschnitt A Nr. 4.3 Angebotskalkulation und Verträge, Lernziele b, c und e,
+zu vermitteln.

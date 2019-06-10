@@ -1,0 +1,18 @@
+# Verordnung zum Gesetz über Bausparkassen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Bauspartechnische Simulationsmodelle](0001.md)
+- [§ 2 Simulationen und Prognosen](0002.md)
+- [§ 3 Kollektiver Lagebericht](0003.md)
+- [§ 4 Mindestanforderungen an Bauspartarife](0004.md)
+- [§ 5 Gewährung von Vorfinanzierungs- oder Zwischenfinanzierungskrediten und sonstigen Baudarlehen aus Zuteilungsmitteln](0005.md)
+- [§ 6 Tarifgenehmigungsanträge und Anträge auf Genehmigung von Bestandsübertragungen](0006.md)
+- [§ 7 Zuführung zum Fonds zur bauspartechnischen Absicherung](0007.md)
+- [§ 8 Einsatz des Fonds zur bauspartechnischen Absicherung](0008.md)
+- [§ 9 Großbausparverträge](0009.md)
+- [§ 10 Gewerbliche Finanzierungen](0010.md)
+- [§ 11 Darlehen an Beteiligungsunternehmen](0011.md)
+- [§ 12 Darlehen gegen Verpflichtungserklärung, Blankodarlehen](0012.md)
+- [§ 13 Begrenzung der nicht durch Grundpfandrechte gesicherten Darlehen](0013.md)
+- [§ 14 Überleitungsbestimmung](0014.md)
+- [§ 15 Inkrafttreten, Außerkrafttreten](0015.md)

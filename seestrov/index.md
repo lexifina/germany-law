@@ -1,0 +1,17 @@
+# Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Inkraftsetzung der Internationalen Regeln](0001.md)
+- [§ 2 Geltungsbereich](0002.md)
+- [§ 3 Grundregeln für das Verhalten im Verkehr](0003.md)
+- [§ 4 Verantwortlichkeit](0004.md)
+- [§ 5 Fahrzeuge des öffentlichen Dienstes](0005.md)
+- [§ 6 Verkehrstrennungsgebiete](0006.md)
+- [§ 7 Sicherheitszonen](0007.md)
+- [§ 7a Auskunft auf Ersuchen](0007a.md)
+- [§ 8 Überwachung, Befreiung](0008.md)
+- [§ 8a Verweisungen](0008a.md)
+- [§ 8b Verwendung von Lichtern, Signalkörpern und Schallsignalanlagen](0008b.md)
+- [§ 9 Ordnungswidrigkeiten](0009.md)
+- [§ 10 Inkrafttreten, Aufhebung von Vorschriften](0010.md)
+- [Schlußformel](schlussformel.md)

@@ -1,0 +1,38 @@
+# Anlage (zu § 4 Abs. 2, § 5 Abs. 2, § 6 Abs. 1 Nr. 2, § 9 Abs. 1 und § 10 Abs. 2)
+
+Erforderliche Kenntnisse
+Nachzuweisen sind Kenntnisse in folgenden Sachgebieten:
+A. von Unternehmern, die nur Beförderungen im innerstaatlichen Verkehr durchführen wollen
+  1. Recht
+    für die Ausübung des Berufs erforderlichen Kenntnisse im Zivil-, Handels-, Sozial- und Steuerrecht, insbesondere in Bezug auf
+    - Verträge im allgemeinen
+    - Beförderungsverträge, insbesondere die Haftung des Verkehrsunternehmers (Art und Grenzen)
+    - Handelsgesellschaften
+    - Geschäftsbücher
+    - Arbeitsrecht, soziale Sicherheit
+    - Steuerrecht
+  2. Kaufmännische und finanzielle Betriebsführung
+    - Zahlungsverkehr und Finanzierungsverfahren
+    - Berechnung der Selbstkosten
+    - Beförderungspreise und -bedingungen
+    - kaufmännisches Rechnungswesen
+    - Versicherungswesen
+    - Ausstellung von Rechnungen
+    - Verkehrshilfsgewerbe
+  3. Zugang zum Markt
+    - Vorschriften für den Zugang zum Beruf und dessen Ausübung
+    - Befrachtungsregelungen
+    - Beförderungs- und Begleitpapiere
+  4. Technische Normen und technische Begriffe
+    - technische Merkmale der Schiffe
+    - Wahl des Schiffes
+    - Eintragung
+    - Liegezeit und Überliegezeit
+  5. Sicherheit
+    - Rechts- und Verwaltungsvorschriften für den Binnenschiffsverkehr
+    - Unfallverhütung und Maßnahmen bei Unfällen
+B. von Unternehmern, die Beförderungen im grenzüberschreitenden Verkehr durchführen wollen
+  1. die unter Buchstabe A genannten Sachgebiete
+  2. Bestimmungen, die auf Grund einzelstaatlicher Rechtsvorschriften, gemeinschaftlicher Regeln und internationaler Übereinkommen und Abkommen für den Binnenschiffsverkehr zwischen den Mitgliedstaaten sowie zwischen der Gemeinschaft und Drittländern gelten, insbesondere auf den Gebieten der Befrachtung sowie der Beförderungspreise und -bedingungen
+  3. Zollpraxis und -förmlichkeiten
+  4. wichtigste verkehrspolizeiliche Vorschriften in den Mitgliedstaaten

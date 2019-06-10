@@ -1,0 +1,35 @@
+# Anlage 4 (zu § 1 Absatz 3)Weitere Ausbildung nach § 32 Absatz 2 Satz 2 des Notfallsanitätergesetzes
+
+1. Die weitere Ausbildung nach § 32 Absatz 2 Satz 2 Nummer 1 des Notfallsanitätergesetzes dauert 480 Stunden und umfasst folgende Inhalte:
+  |  |  | Stunden |
+  | a) | Theoretischer und praktischer Unterricht |  |
+  |  | aa) Themenbereich 3 der Anlage 1 | 20 |
+  |  | bb) Themenbereich 6 der Anlage 1 | 20 |
+  |  | cc) Themenbereich 7 der Anlage 1 | 160 |
+  |  | Zur freien Verteilung auf die Themenbereiche der Anlage 1 und zur Vorbereitung auf die staatliche Ergänzungsprüfung | 120 |
+  | Stundenzahl insgesamt | 320 |
+  |  |  |  | Stunden |
+  | b) | Praktische Ausbildung |  |
+  |  | aa) | in geeigneten Krankenhäusern |  |
+  |  |  | aaa) im Funktionsbereich 2 der Anlage 3 | 40 |
+  |  |  | bbb) im Funktionsbereich 3 der Anlage 3 | 40 |
+  |  | bb) | in der Lehrrettungswache | 80 |
+  |  |  | Die weitere Ausbildung in der Lehrrettungswache dient insbesondere dazu, die im Unterricht und in der Ausbildung im Krankenhaus erlernten Inhalte einzuüben und zu vertiefen, sowie zur Vorbereitung auf die staatliche Ergänzungsprüfung. |  |
+  | Stundenzahl insgesamt | 160 |
+2. Die weitere Ausbildung nach § 32 Absatz 2 Satz 2 Nummer 2 des Notfallsanitätergesetzes dauert 960 Stunden und umfasst folgende Inhalte:
+  |  |  | Stunden |
+  | a) | Theoretischer und praktischer Unterricht |  |
+  |  | aa) Themenbereich 3 der Anlage 1 | 60 |
+  |  | bb) Themenbereich 6 der Anlage 1 | 40 |
+  |  | cc) Themenbereich 7 der Anlage 1 | 280 |
+  |  | Zur freien Verteilung auf die Themenbereiche der Anlage 1 und zur Vorbereitung auf die staatliche Ergänzungsprüfung | 260 |
+  | Stundenzahl insgesamt | 640 |
+  |  |  |  | Stunden |
+  | b) | Praktische Ausbildung |  |
+  |  | aa) | in geeigneten Krankenhäusern |  |
+  |  |  | aaa) im Funktionsbereich 2 der Anlage 3 | 80 |
+  |  |  | bbb) im Funktionsbereich 3 der Anlage 3 | 60 |
+  |  |  | Zur freien Verteilung auf einen der Funktionsbereiche der Anlage 3 | 40 |
+  |  | bb) | in der Lehrrettungswache | 140 |
+  |  |  | Die weitere Ausbildung in der Lehrrettungswache dient insbesondere dazu, die im Unterricht und in der Ausbildung im Krankenhaus erlernten Inhalte einzuüben und zu vertiefen, sowie zur Vorbereitung auf die staatliche Ergänzungsprüfung. |  |
+  |  | Stundenzahl insgesamt | 320 |

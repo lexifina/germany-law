@@ -1,0 +1,12 @@
+# Art 315a Vollstreckungs- und Verfolgungsverjährung für in der Deutschen Demokratischen Republik verfolgte und abgeurteilte Taten; Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
+
+(1)
+Soweit die Verjährung der Verfolgung oder der Vollstreckung nach dem Recht der Deutschen Demokratischen Republik bis zum Wirksamwerden des Beitritts nicht eingetreten war, bleibt es dabei. Dies gilt auch, soweit für die Tat vor dem Wirksamwerden des Beitritts auch das Strafrecht der Bundesrepublik Deutschland gegolten hat. Die Verfolgungsverjährung gilt als am Tag des Wirksamwerdens des Beitritts unterbrochen; § 78c Abs. 3 des Strafgesetzbuches bleibt unberührt.
+(2)
+Die Verfolgung von Taten, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet begangen worden sind und die im Höchstmaß mit Freiheitsstrafe von mehr als einem Jahr bis zu fünf Jahren bedroht sind, verjährt frühestens mit Ablauf des 2. Oktober 2000, die Verfolgung der in diesem Gebiet vor Ablauf des 2. Oktober 1990 begangenen und im Höchstmaß mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bedrohten Taten frühestens mit Ablauf des 31. Dezember 1995.
+(3)
+Verbrechen, die den Tatbestand des Mordes (§ 211 des Strafgesetzbuches) erfüllen, für welche sich die Strafe jedoch nach dem Recht der Deutschen Demokratischen Republik bestimmt, verjähren nicht.
+(4)
+Die Absätze 2 und 3 gelten nicht für Taten, deren Verfolgung am 30. September 1993 bereits verjährt war.
+(5)
+Bei der Berechnung der Verjährungsfrist für die Verfolgung von Taten, die während der Herrschaft des SED-Unrechtsregimes begangen wurden, aber entsprechend dem ausdrücklichen oder mutmaßlichen Willen der Staats- und Parteiführung der ehemaligen Deutschen Demokratischen Republik aus politischen oder sonst mit wesentlichen Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren Gründen nicht geahndet worden sind, bleibt die Zeit vom 11. Oktober 1949 bis 2. Oktober 1990 außer Ansatz. In dieser Zeit hat die Verjährung geruht.

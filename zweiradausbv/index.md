@@ -1,0 +1,18 @@
+# Verordnung über die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
+- [§ 2 Dauer der Berufsausbildung](0002.md)
+- [§ 3 Fachrichtungen der Berufsausbildung](0003.md)
+- [§ 4 Struktur und Inhalte der Berufsausbildung](0004.md)
+- [§ 5 Ausbildungsrahmenplan](0005.md)
+- [§ 6 Durchführung der Berufsausbildung, schriftlicher Ausbildungsnachweis](0006.md)
+- [§ 7 Abschluss- oder Gesellenprüfung](0007.md)
+- [§ 8 Teil 1 der Abschluss- oder Gesellenprüfung](0008.md)
+- [§ 9 Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Fahrradtechnik](0009.md)
+- [§ 10 Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Fahrradtechnik](0010.md)
+- [§ 11 Teil 2 der Abschluss- oder Gesellenprüfung in der Fachrichtung Motorradtechnik](0011.md)
+- [§ 12 Gewichtung der Prüfungsbereiche, Bestehen der Gesellen- oder Abschlussprüfung in der Fachrichtung Motorradtechnik](0012.md)
+- [§ 13 Anrechnung von Ausbildungszeiten](0013.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
+- [Anlage (zu § 5 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Zweiradmechatroniker und zur Zweiradmechatronikerin](anlage.md)

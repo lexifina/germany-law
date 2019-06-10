@@ -1,0 +1,19 @@
+# Anlage (zu § 1)
+
+| (Fundstelle des Originaltextes: BGBl. I 2000, 736; bzgl. der einzelnen Änderungen vgl. Fußnote) |
+|  |
+| Gebührentarif für Maßnahmen bei Typprüfungen von Verbrennungsmotoren |
+| Gebühren-Nr. | Gegenstand | Gebühr Euro |
+| 1 | Erteilung einer Typgenehmigung | 655 |
+| 2 | Änderung einer Genehmigung |  |
+| 2.1 | ohne Gutachten | 165 |
+| 2.2 | mit Gutachten | 327 |
+| 2.3 | Änderungen ohne Gutachten für mehrere Genehmigungen gleichzeitig auf Grund desselben Sachverhalts | Gebühr nach Gebührennummer 2.1 (einmalig) zzgl. 19,- Euro pro weiterer Änderung |
+| 3 | Erteilung einer Ausnahmegenehmigung | 129 |
+| 4 | Überprüfung der Übereinstimmung der Produktion mit der erteilen Typgenehmigung bei |  |
+| 4.1 | Feststellung eines Verstoßes gegen Mitteilungspflichten | 138 |
+| 4.2 | Abweichung vom genehmigten Typ oder der genehmigten Motorenfamilie | 353 |
+| 5 | Anfangsbewertung von Fertigungsstätten |  |
+| 5.1 | Herstellerbericht für Unternehmen mit einer Fertigungsstätte | 700 |
+| 5.2 | Herstellerbericht je weitere Fertigungsstätte | 550 |
+| 6 | Sonstige Maßnahmen im Zusammenhang mit Genehmigungen von Verbrennungsmotoren nach Personal- und Sachaufwand je Stunde und Person | 40 bis 90 |

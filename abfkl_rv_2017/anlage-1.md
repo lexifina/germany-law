@@ -1,0 +1,8 @@
+# Anlage 1 (zu § 8 Absatz 1)Zusätzliche Grenzwerte für im Klärschlamm, Klärschlammgemisch und Klärschlammkompost enthaltene Schadstoffe
+
+Neben den Grenzwerten nach Anlage 2 Tabelle 1.4 Spalte 4 der Düngemittelverordnung und dem Höchstgehalt für Kupfer nach Anlage 1 Abschnitt 4.1 Nummer 4.1.1 Spalte 6 Absatz 2 der Düngemittelverordnung sind nach § 8 Absatz 1 Satz 1 folgende zusätzliche Grenzwerte einzuhalten:
+| Nr. | Stoffbezeichnung | Grenzwert (in Milligramm je Kilogramm Klärschlamm Trockenmasse) |
+| 1 | Zink | 4 000 |
+| 2 | Summe organischer Halogenverbindungen als adsorbierte organisch gebundene Halogene (AOX) | 400 |
+| 3 | Benzo(a)pyren (B(a)P) | 1 |
+| 4 | Polychlorierte Biphenyle (PCB), jeweils für die Kongenere 28, 52, 101, 138, 153, 180 | 0,1 |

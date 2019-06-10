@@ -1,0 +1,6 @@
+# Art 2 Grundsätze
+
+(1)
+Die Vertragsparteien bekennen sich zur freiheitlichen, demokratischen, föderativen, rechtsstaatlichen und sozialen Grundordnung. Zur Gewährleistung der in diesem Vertrag oder in Ausführung dieses Vertrags begründeten Rechte garantieren sie insbesondere die Vertragsfreiheit, Gewerbe-, Niederlassungs- und Berufsfreiheit, die Freizügigkeit von Deutschen in dem gesamten Währungsgebiet, die Freiheit, zur Wahrung und Förderung der Arbeits- und Wirtschaftsbedingungen Vereinigungen zu bilden, sowie nach Maßgabe der Anlage IX das Eigentum privater Investoren an Grund und Boden sowie an Produktionsmitteln.
+(2)
+Entgegenstehende Vorschriften der Verfassung der Deutschen Demokratischen Republik über die Grundlagen ihrer bisherigen sozialistischen Gesellschafts- und Staatsordnung werden nicht mehr angewendet.

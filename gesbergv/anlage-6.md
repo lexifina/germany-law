@@ -1,0 +1,30 @@
+# Anlage 6 (zu § 5)
+
+Ermittlung der persönlichen Staubbelastungswerte nach
+§ 5 Abs. 1
+
+(Fundstelle des Originaltextes: BGBl. I 1991, 1764)
+1 Bei der Ermittlung der persönlichen Belastung durch fibrogene Grubenstäube nach § 5 Abs. 1 Satz 1 ist nach folgenden Formeln zu verfahren:
+|  | Massenanteil des Quarzes in dem Feinstaubgemisch |
+|  | 5 |  | 5 |
+| <- | - Massen-% | > | - Massen-% |
+|  | k |  | k |
+|  | E(tief)c = f(tief)c x S |  | E(tief)c(tief)q =k x f(tief)c(tief)q x S |
+| In den Formeln bedeuten: |
+| E(tief)c(tief)1,E(tief)c(tief)qf(tief)cC(tief)1 | persönliche Staubbelastungswerte für einenbestimmten Betriebspunktc(tief)1 dividiert durch c(tief)GMittelwert der Konzentration desquarzhaltigen Feinstaubes für eineArbeitsschicht = 0,8 x C(tief)m;bei personenbezogenen Messungen über diegesamte Zeit der Arbeitsschicht istC(tief)1 = C(tief)m. |
+| C(tief)m | Konzentration des quarzhaltigen Feinstaubeswährend der Meßdauer |
+| 0,8 | pauschaliertes Verhältnis zwischenArbeitszeit vor Ort und achtstündigerArbeitsschicht |
+| C(tief)G | oberer Grenzwert der Konzentration desquarzhaltigen Feinstaubes derStaubbelastungsstufe 1 |
+| S | Anzahl der verfahrenen Arbeitsschichten |
+| f(tief)c(tief)q | C(tief)q(tief)1 dividiert durchC(tief)q(tief)G |
+| C(tief)q(tief)1 | Mittelwert der Konzentration desQuarzfeinstaubes für eine Arbeitsschicht= 0,8 x C(tief)q(tief)m;bei personenbezogenen Messungen über diegesamte Zeit der Arbeitsschicht istC(tief)q(tief)1 = C(tief)q(tief)m. |
+| C(tief)q(tief)m | Konzentration des Quarzfeinstaubes währendder Meßdauer |
+| C(tief)q(tief)G | oberer Grenzwert der Konzentration desQuarzfeinstaubes der Staubbelastungsstufe 1 |
+| k | Faktor für die spezifische Schädlichkeit desQuarzes auf Grund wissenschaftlicherErkenntnisse über die Wirkung derGrubenstäube aus unterschiedlichengeologischen Schichten |
+| 2 | Der Faktor k beträgt für Grubenstäube |
+| 2.1 | Der Sprockhöveler, Wittener, Bochumer, unteren undmittleren Essener Schichten bis einschließlich FlözZollverein 1 sowie der Kohlscheider und IbbenbürenerSchichten | 1,0, |
+| 2.2 | der oberen Essener Schichten ab Flöz A, der Horsterund Dorstener Schichten | 0,7, |
+| 2.3 | der Saarbrücker und Ottweiler Schichten | 0,3, |
+| 2.4 | aller Flözschichten an Bergebrechanlagen und inGesteinsbetriebspunkten | 1,0. |
+3 Bei der Ermittlung persönlicher Staubbelastungswerte nach § 5 Abs. 1 Satz 2 ist von den Belastungsfaktoren f(tief)c oder f(tief)c(tief)q aus allen Einstufungen der in Betracht kommenden Betriebspunkte auszugehen.
+    Für den Fall, daß die Zeitanteile der Aufenthaltsdauer in den einzelnen Einstufungsbereichen in etwa gleich sind, ist der arithmetische Mittelwert zu bilden; für den Fall, daß die Zeitanteile der Aufenthaltsdauer in den einzelnen Einstufungsbereichen mehr als +- 10 Minuten voneinander abweichen, ist eine Wichtung nach Zeitanteilen vorzunehmen.

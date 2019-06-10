@@ -1,0 +1,109 @@
+# Anlage I (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Kaufmann für audiovisuelle Medien/zur Kauffrau für
+audiovisuelle Medien
+
+- Sachliche Gliederung -
+
+(Fundstelle: BGBl. I 1998, S. 1032 - 1035)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 3 Nr. 1) |  |
+| 1.1 | Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 3 Nr. 1.1) | a) | Art und Rechtsform des Ausbildungsbetriebes darstellen |
+| b) | Zielsetzung, Tätigkeitsfelder und Aktivitäten des Ausbildungsbetriebes sowie seine Stellung am Markt erläutern |
+| c) | Organisation und Entscheidungsstrukturen des Ausbildungsunternehmens darstellen |
+| d) | die Zusammenarbeit des Ausbildungsunternehmens mit Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften und Behörden darstellen |
+| 1.2 | Berufsbildung (§ 3 Nr. 1.2) | a) | den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen |
+| b) | die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und den jeweiligen Beitrag der Beteiligten im dualen System an praktischen Beispielen beschreiben |
+| c) | berufliche Fortbildungsmöglichkeiten sowie deren Nutzen für die persönliche und berufliche Entwicklung erläutern |
+| 1.3 | Personalwirtschaft, arbeits- und sozialrechtliche Vorschriften (§ 3 Nr. 1.3) | a) | Handlungskompetenz der Mitarbeiter als wesentliche Voraussetzung für den Kundennutzen, den Unternehmenserfolg und für die persönliche Entwicklung an Beispielen darstellen |
+| b) | für den Ausbildungsbetrieb wichtige arbeits- und sozialrechtliche sowie tarifliche Regelungen erläutern |
+| c) | Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungsrechtlicher oder personalvertretungsrechtlicher Organe des Ausbildungsbetriebes erklären |
+| d) | betriebliche Arbeitszeitregelungen und -modelle anwenden |
+| e) | für das Arbeitsverhältnis wichtige Nachweise erläutern |
+| f) | betriebliche Grundsätze der Personalplanung, Personalbeschaffung und des Personaleinsatzes beschreiben |
+| g) | die im Ausbildungsbetrieb üblichen Verträge für den Personaleinsatz unter Berücksichtigung der arbeits-, steuer- und sozialversicherungsrechtlichen Auswirkungen anwenden |
+| h) | eine Entgeltabrechnung durchführen |
+| 1.4 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 1.4) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.5 | Umweltschutz (§ 3 Nr. 1.5) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Produktion und Dienstleistungen (§ 3 Nr. 2) |  |
+| 2.1 | Planung (§ 3 Nr. 2.1) | a) | Informationen über Herstellungsverfahren sowie Produkte und Dienstleistungen der Medienbranche für Planungszwecke auswerten |
+| b) | Planungsprozesse im Ausbildungsbetrieb unter Berücksichtigung der Zusammenarbeit der Funktionsbereiche gestalten |
+| c) | Teilaufgaben festlegen, insbesondere Personalplanung, Sachmittelplanung, Terminplanung und Kostenplanung durchführen |
+| 2.2 | Durchführung (§ 3 Nr. 2.2) | a) | Beschaffungsmöglichkeiten wirtschaftlich beurteilen |
+| b) | Material und technische Ausrüstung beschaffen |
+| c) | bei der Personalbeschaffung mitwirken |
+| d) | Risiken feststellen und den Abschluß von Versicherungen veranlassen |
+| e) | Arbeitsabläufe koordinieren |
+| f) | Qualitätssicherungsmaßnahmen bei der Abnahme von Produkten und Dienstleistungen durchführen |
+| g) | Kalkulationen für Produkte und Dienstleistungen nach betrieblichem Kalkulationsschema durchführen |
+| h) | bei der Nachkalkulation von Produktionen mitwirken, Daten für Controllingzwecke aufbereiten und auswerten |
+| 2.3 | Repertoire- und Rechtebeschaffung (§ 3 Nr. 2.3) | a) | Bestimmungen des nationalen und internationalen Medien- und Presserechts anwenden |
+| b) | Vorschriften zum Urheber-, Verwertungs- und Nutzungsrecht anwenden |
+| c) | an der Beschaffung von Rechten mitwirken |
+| d) | zur Sicherung von Rechten und zur Vermeidung von Mißbrauch beitragen |
+| e) | Verträge verwalten, Rechte archivieren und Produkte lagern |
+| 3 | Marketing und Vertrieb (§ 3 Nr. 3) |  |
+| 3.1 | Marktbeobachtung (§ 3 Nr. 3.1) | a) | Instrumente der Marktbeobachtung und der Marktforschung beschreiben |
+| b) | Informationen über Mitbewerber und Marktentwicklungen auswerten |
+| c) | Markt- und Kundeninformationen für Planungen aufbereiten |
+| 3.2 | Marketingkonzeption (§ 3 Nr. 3.2) | a) | bei der Entwicklung von Vermarktungsideen mitwirken |
+| b) | Einsatzmöglichkeiten von Marketinginstrumenten beurteilen |
+| c) | Möglichkeiten von Werbekooperationen, Sponsoring und Merchandising für die Marketingkonzeption bewerten |
+| d) | Kriterien für die Auswahl von Merchandisingprodukten anwenden und bei der Beschaffung mitwirken |
+| e) | den Vertrieb für Merchandisingprodukte organisieren, insbesondere Vertriebswege auswählen |
+| 3.3 | Werbung und Öffentlichkeitsarbeit (§ 3 Nr. 3.3) | a) | Funktion von Werbung, Promotion und Öffentlichkeitsarbeit für den Ausbildungsbetrieb begründen |
+| b) | rechtliche Vorschriften zu Wettbewerb und Werbung berücksichtigen |
+| c) | bei Werbe- und verkaufsfördernden Maßnahmen mitwirken und deren Wirksamkeit ermitteln |
+| d) | Instrumente zur Kundenbindung einsetzen |
+| 3.4 | Vertrieb (§ 3 Nr. 3.4) | a) | Vertriebs- und Vermarktungsformen von Produkten und Dienstleistungen anwenden sowie Möglichkeiten der Rechteverwertung aufzeigen |
+| b) | Kundendaten und -informationen für Vermarktung und Vertrieb nutzen |
+| 4 | Kaufmännische Steuerung und Kontrolle (§ 3 Nr. 4) |  |
+| 4.1 | Rechnungswesen (§ 3 Nr. 4.1) | a) | Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle an Beispielen des Ausbildungsbetriebes begründen und die Gliederung des Rechnungswesens erläutern |
+| b) | gesetzliche und betriebliche Regelungen zur Buchführung anwenden |
+| c) | Belege erfassen und Buchungen unterschiedlicher Geschäftsfälle vorbereiten |
+| d) | Konten führen |
+| e) | vorbereitende Abschlußarbeiten durchführen |
+| f) | eine Kasse führen |
+| g) | Zahlungsvorgänge bearbeiten, betriebsübliche Maßnahmen bei Zahlungsverzug einleiten |
+| 4.2 | Kosten- und Leistungsrechnung, Controlling (§ 3 Nr. 4.2) | a) | Zweck und Aufbau der Kosten- und Leistungsrechnung des Ausbildungsbetriebes erläutern |
+| b) | Kostenrechnungsvorgänge bearbeiten |
+| c) | statistische Daten ermitteln, aufbereiten und auswerten |
+| d) | Funktion des Controllings als Informations- und Steuerungsinstrument an Beispielen des Ausbildungsbetriebes erläutern |
+| e) | Ergebnisse des Rechnungswesens für Controllingzwecke auswerten |
+| f) | an der Erfolgsrechnung mitwirken |
+| 4.3 | Investitions- und Finanzierungsrechnung (§ 3 Nr. 4.3) | a) | Ablauf und Auswirkungen von Investitions- und Programmplanungsprozessen an Beispielen des Ausbildungsbetriebes aufzeigen |
+| b) | Grundsätze der Finanzrahmenplanung berücksichtigen |
+| c) | vorbereitende Arbeiten für Liquiditäts- und Kreditsicherungsmaßnahmen durchführen |
+| d) | Vor- und Nachteile unterschiedlicher Finanzierungsarten und -formen bewerten |
+| e) | eine Kosten-Nutzen-Rechnung für eine Investition sowie eine Kapitalbedarfsrechnung durchführen |
+| 4.4 | Honorar- und Lizenzabrechnung (§ 3 Nr. 4.4) | a) | vertragliche und gesetzliche Ansprüche von natürlichen und juristischen Personen sowie Verwertungsgesellschaften prüfen |
+| b) | Honorare und Lizenzen abrechnen |
+| 5 | Kommunikation und Kooperation (§ 3 Nr. 5) |  |
+| 5.1 | Team- und Projektarbeit (§ 3 Nr. 5.1) | a) | Einsatzmöglichkeiten unterschiedlicher Formen von Team- und Projektarbeit für den Ausbildungsbetrieb bewerten |
+| b) | Möglichkeiten der Zusammenarbeit der Funktionsbereiche des Ausbildungsbetriebes berücksichtigen |
+| c) | Projektziel definieren, Aufgaben im Team planen und unter Beachtung individueller Fähigkeiten verteilen und bearbeiten |
+| d) | Projektplanungswerkzeuge anwenden |
+| e) | Termine strukturieren, abstimmen und überwachen |
+| f) | Arbeitsergebnisse abstimmen, auswerten und dokumentieren |
+| g) | qualitätssichernde Maßnahmen projektbegleitend anwenden |
+| h) | Soll-Ist-Vergleich durchführen, Kostenabweichungen ermitteln |
+| 5.2 | Kommunikation (§ 3 Nr. 5.2) | a) | Sachverhalte unter Berücksichtigung von Kommunikationsregeln situations- und zielgruppengerecht präsentieren |
+| b) | Kommunikationsstörungen feststellen und Lösungsmöglichkeiten aufzeigen |
+| c) | Methoden der Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden |
+| d) | Kommunikation unter Berücksichtigung betrieblicher Grundsätze gestalten |
+| 5.3 | Anwenden von Fremdsprachen bei Fachaufgaben (§ 3 Nr. 5.3) | a) | fremdsprachige Informationsquellen aufgabenbezogen auswerten |
+| b) | fremdsprachige Fachbegriffe anwenden |
+| c) | fachliche Auskünfte in einer Fremdsprache erteilen |
+| 5.4 | Informations- und Kommunikationssysteme (§ 3 Nr. 5.4) | a) | Informations- und Kommunikationssysteme aufgabenbezogen anwenden |
+| b) | Regelungen zum Datenschutz einhalten |
+| c) | Datenpflege und Datensicherung begründen sowie Daten sichern |
+| d) | Informationsquellen aufgabenbezogen auswerten, Informationen auswählen und weitergeben |

@@ -1,0 +1,27 @@
+# Verordnung über die Zulassung von Zusatzstoffen zu Lebensmitteln zu technologischen Zwecken
+
+- [§ 1 Allgemeine Vorschriften](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Farbstoffe](0003.md)
+- [§ 4 Süßungsmittel](0004.md)
+- [§ 5 Andere Zusatzstoffe als Farbstoffe und Süßungsmittel](0005.md)
+- [§ 6 Zusatzstoffe für Säuglings- und Kleinkindernahrung](0006.md)
+- [§ 6a Zusatzstoffe für Trinkwasser](0006a.md)
+- [§ 7 Höchstmengenfestsetzungen](0007.md)
+- [§ 8 Verwendung von Lebensmitteln mit Zusatzstoffen](0008.md)
+- [§ 9 Kenntlichmachung](0009.md)
+- [§ 9a Übergangsvorschrift](0009a.md)
+- [§ 9b Weitergeltung der Regelungen der Lebensmittel-Kennzeichnungsverordnung](0009b.md)
+- [§ 10 Straftaten und Ordnungswidrigkeiten](0010.md)
+- [Anlage 1 (zu § 3 Abs. 1 und § 7)Zusatzstoffe, die zum Färben von Lebensmitteln oder zum Erzielen von Farbeffekten bei Lebensmitteln zugelassen sind](anlage-1.md)
+- [Anlage 2 (zu § 4 Abs. 1 und § 7) Zum Süßen von Lebensmitteln zugelassene Zusatzstoffe](anlage-2.md)
+- [Anlage 3 (zu § 5 Abs. 1 und § 7)
+
+Allgemein zugelassene Zusatzstoffe](anlage-3.md)
+- [Anlage 4 (zu § 5 Abs. 1 und § 7)Begrenzt zugelassene Zusatzstoffe](anlage-4.md)
+- [Anlage 5 (zu § 5 Abs. 1 und § 7)Zusatzstoffe, die für Lebensmittel zur Konservierung oder als Antioxidationsmittel zugelassen sind](anlage-5.md)
+- [Anlage 6 (zu § 6 und § 7)In Säuglings- und Kleinkindernahrung zugelassene Zusatzstoffe](anlage-6.md)
+- [Anlage 6a (zu § 6a)
+
+Zusatzstoffe, die für Trinkwasser zugelassen sind](anlage-6a.md)
+- [Anlage 7 (zu § 5 Abs. 1)Zusatzstoffe für bestimmte technologische Zwecke](anlage-7.md)

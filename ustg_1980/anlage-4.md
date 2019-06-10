@@ -1,0 +1,14 @@
+# Anlage 4 (zu § 13b Absatz 2 Nummer 11)Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet
+
+| Lfd. Nr. | Warenbezeichnung | Zolltarif (Kapitel, Position, Unterposition) |
+| 1 | Silber, in Rohform oder als Halbzeug oder Pulver; Silberplattierungen auf unedlen Metallen, in Rohform oder als Halbzeug | Positionen 7106 und 7107 |
+| 2 | Platin, in Rohform oder als Halbzeug oder Pulver; Platinplattierungen auf unedlen Metallen, auf Silber oder auf Gold, in Rohform oder als Halbzeug | Position 7110 und Unterposition 7111 00 00 |
+| 3 | Roheisen oder Spiegeleisen, in Masseln, Blöcken oder anderen Rohformen; Körner und Pulver aus Roheisen, Spiegeleisen, Eisen oder Stahl; Rohblöcke und andere Rohformen aus Eisen oder Stahl; Halbzeug aus Eisen oder Stahl | Positionen 7201, 7205 bis 7207, 7218 und 7224 |
+| 4 | Nicht raffiniertes Kupfer und Kupferanoden zum elektrolytischen Raffinieren; raffiniertes Kupfer und Kupferlegierungen, in Rohform; Kupfervorlegierungen; Pulver und Flitter aus Kupfer | Positionen 7402, 7403, 7405 und 7406 |
+| 5 | Nickelmatte, Nickeloxidsinter und andere Zwischenerzeugnisse der Nickelmetallurgie; Nickel in Rohform; Pulver und Flitter, aus Nickel | Positionen 7501, 7502 und 7504 |
+| 6 | Aluminium in Rohform; Pulver und Flitter, aus Aluminium | Positionen 7601 und 7603 |
+| 7 | Blei in Rohform; Pulver und Flitter, aus Blei | Position 7801; aus Position 7804 |
+| 8 | Zink in Rohform; Staub, Pulver und Flitter, aus Zink | Positionen 7901 und 7903 |
+| 9 | Zinn in Rohform | Position 8001 |
+| 10 | Andere unedle Metalle in Rohform oder als Pulver | aus Positionen 8101 bis 8112 |
+| 11 | Cermets in Rohform | Unterposition 8113 00 20 |

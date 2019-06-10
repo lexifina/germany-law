@@ -1,0 +1,16 @@
+# Gesetz über gebäude- und wohnungsstatistische Erhebungen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anordnung als Bundesstatistik, Erhebungsart](0001.md)
+- [§ 2 Erhebungseinheiten und Stichprobenauswahl](0002.md)
+- [§ 3 Berichtszeitpunkt](0003.md)
+- [§ 4 Erhebungsmerkmale](0004.md)
+- [§ 5 Hilfsmerkmale](0005.md)
+- [§ 6 Erhebungsstellen](0006.md)
+- [§ 7 Erhebungsbeauftragte](0007.md)
+- [§ 8 Datenübermittlung an die Erhebungsstellen](0008.md)
+- [§ 9 Auskunftspflicht](0009.md)
+- [§ 10 Art der Auskunftserteilung](0010.md)
+- [§ 11 Verwendung von Merkmalen](0011.md)
+- [§ 12 Zusatz- oder Sonderaufbereitungen](0012.md)
+- [§ 13 Inkrafttreten](0013.md)

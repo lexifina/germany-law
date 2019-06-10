@@ -1,0 +1,6 @@
+# I.
+
+1. Die Bundesflagge besteht aus drei gleich breiten Querstreifen, oben schwarz, in der Mitte rot, unten goldfarben, Verhältnis der Höhe zur Länge des Flaggentuches wie 3 zu 5. Die Bundesflagge kann auch in Form eines Banners geführt werden. Das Banner besteht aus drei gleich breiten Längsstreifen, links schwarz, in der Mitte rot, rechts goldfarben.
+2. Die Standarte des Bundespräsidenten oder der Bundespräsidentin ist ein gleichseitiges, rotgerändertes, goldfarbenes Rechteck, darin der Bundesadler, schwebend, nach der Stange gewendet, Verhältnis der Breite des roten Randes zur Höhe der Standarte wie 1 zu 12.
+3. Die Dienstflagge der Bundesbehörden (Bundesdienstflagge) hat die gleichen Querstreifen wie die Bundesflagge, darauf, etwas nach der Stange hin verschoben, in den schwarzen und den goldfarbenen Streifen je bis zu einem Fünftel übergreifend, den Bundesschild, den Adler nach der Stange gewendet, Verhältnis der Höhe zur Länge des Flaggentuches wie 3 zu 5. Wird die Bundesdienstflagge in Bannerform verwendet, ist der Bundesschild, den Adler zum schwarzen Streifen hin gewendet, parallel zu den Längsstreifen ausgerichtet, etwas nach der Stange hin verschoben, in den schwarzen und den goldfarbenen Teil je bis zu einem Fünftel übergreifend.
+4. Die Muster zu den Nummern 1 bis 3 sind in Anhang 1 wiedergegeben.

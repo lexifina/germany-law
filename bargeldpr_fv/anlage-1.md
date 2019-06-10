@@ -1,0 +1,44 @@
+# Anlage 1 Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung – Stammdaten –
+
+1. Angaben zum Meldepflichtigen (Bargeldakteur)
+  | Name des Meldepflichtigen (Bargeldakteur) |  |
+  | Geschäftssitz (Hauptsitz) |  |
+  | Anschrift | Straße; Hausnummer |  |
+  | PLZ |  |
+  | Ort |  |
+  | Ansprechpartner | Name |  |
+  | Vorname |  |
+  | Telefon-Nr. |  |
+  | Telefax-Nr. |  |
+  | E-Mail-Adresse |  |
+  | BMS-Kundennummer |  |
+  Unternehmenstyp:
+  ⃞ Kreditinstitut
+  ⃞ Wechselstube
+  ⃞ Wertdienstleister (kein Zahlungsinstitut)
+  ⃞ Händler
+  ⃞ Kasino
+  ⃞ andere Institute, einschließlich Zahlungsinstitute (sofern nicht bereits einer anderen Gruppe zugeordnet)
+  Auslagerungsunternehmen (sofern relevant):
+  | Name |  |
+  | Anschrift | Straße; Hausnummer |  |
+  | PLZ |  |
+  | Ort |  |
+  | BMS-Kundennummer (sofern bekannt) |  |
+2. Kundenbediente Systeme
+  | Art der Meldung Inbetriebnahme (I),Außerbetriebnahme (A) Bestands­meldung (B) | Datumgültig ab | MaschinentypCIM, CRM, CCM, COM | Identi-fikations-nummer der EZB | Eingesetzter Systemtyp(Hersteller; Maschinenname und Hardware-/Software-Version) gemäß Ausweis auf der EZB-Internetseite | Anschrift der Aufstellungsorte(Filiale/Cash Center) der eingesetzten Systeme | Anzahlder eingesetzten Systeme pro Filiale/Cash Center |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+3. Beschäftigtenbediente Systeme
+  | Art der MeldungInbetriebnahme (I), Außerbetriebnahme (A) Bestandsmeldung (B) | Datumgültig ab | MaschinentypBPM, BAM, AKT, R-AKT | Identi-fikations-nummer der EZB | Eingesetzter Systemtyp(Hersteller; Maschinenname und Hardware-/Software-Version) gemäß Ausweis auf der EZB-Internetseite | Anschrift der Aufstellungsorte(Filiale/Cash Center) der eingesetzten Systeme | Anzahlder eingesetzten Systeme pro Filiale/Cash Center |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+4. Beschäftigtenbediente Systemedes Auslagerungsunternehmens
+  | Art der MeldungInbetriebnahme (I),Außerbetriebnahme (A) Bestandsmeldung (B) | Datumgültig ab | MaschinentypBPM | Identi-fikations-nummer der EZB | Eingesetzter Systemtyp(Hersteller; Maschinenname und Hardware-/Software-Version) gemäß Ausweis auf der EZB-Internetseite | Interne Maschinen-ID des Auslagerungs-unternehmens | Anschrift der Aufstellungsorte(Filiale/Cash Center) der eingesetzten Systeme | Anzahlder eingesetzten Systeme pro Filiale/Cash Center |
+  |  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |  |
+5. Geldausgabe- und andere kundenbediente Automaten ohne Recyclingfunktion
+  | Automatentyp | Anzahl in Betrieb befindlicher Systeme |
+  | Geldausgabeautomaten |  |
+  | SCoTs (Selbstbedienungsterminals mitAuszahlungsfunktion) |  |
+  | Andere Automaten |  |

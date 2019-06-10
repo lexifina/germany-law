@@ -1,0 +1,36 @@
+# Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Vermögensübertragung](0001.md)
+- [§ 2 Stellung und Aufgaben der Treuhandanstalt](0002.md)
+- [§ 2a Wirtschaftsplan](0002a.md)
+- [§ 3 Abwickler der Anstalt](0003.md)
+- [§ 4](0004.md)
+- [§ 5](0005.md)
+- [§ 6](0006.md)
+- [§ 7 Treuhand-Aktiengesellschaften](0007.md)
+- [§ 8 Aufgaben der Treuhand-Aktiengesellschaften](0008.md)
+- [§ 9](0009.md)
+- [§ 10 Organe der Treuhand-Aktiengesellschaften](0010.md)
+
+## - Umwandlung der Wirtschaftseinheiten
+in Kapitalgesellschaften
+
+- [§ 11](0011.md)
+- [§ 12](0012.md)
+- [§ 13](0013.md)
+- [§ 14](0014.md)
+- [§ 15](0015.md)
+- [§ 16](0016.md)
+- [§ 17](0017.md)
+- [§ 18](0018.md)
+- [§ 19](0019.md)
+- [§ 20](0020.md)
+- [§ 21](0021.md)
+- [§ 22](0022.md)
+- [§ 23](0023.md)
+- [§ 23a Übertragung von Vermögenswerten, Auflösung](0023a.md)
+- [§ 23c (weggefallen)](0023c.md)
+- [§ 24 Übergangs- und Schlußbestimmungen](0024.md)
+- [Schlußformel](schlussformel.md)
+- [Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)

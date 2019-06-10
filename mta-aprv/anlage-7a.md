@@ -1,0 +1,16 @@
+# Anlage 7a (zu § 25a Absatz 2)
+
+...............................................................................................
+(Bezeichnung der Einrichtung)
+Bescheinigung
+über die Teilnahme am Anpassungslehrgang
+Name, Vorname
+...................................................................................................
+Geburtsdatum Geburtsort
+...................................................................................................
+hat in der Zeit vom ................................................................. bis .................................................................
+regelmäßig an dem nach § 25a Absatz 2 der Ausbildungs- und Prüfungsverordnung für technische Assistenten in der Medizin von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+Ort, Datum
+................................................................................. (Stempel)
+.................................................................................
+Unterschrift(en) der Einrichtung

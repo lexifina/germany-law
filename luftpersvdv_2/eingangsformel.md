@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 32 Abs. 1 Satz 1 Nr. 4 und 5 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 27. März 1999 (BGBl. I S. 550), der zuletzt durch Artikel 2 Nr. 2 des Gesetzes vom 19. April 2005 (BGBl. I S. 1070) geändert worden ist, in Verbindung mit § 133a der Verordnung über Luftfahrtpersonal in der Fassung der Bekanntmachung vom 13. Februar 1984 (BGBl. I S. 265), der durch Artikel 2 Nr. 64 der Verordnung zur Änderung luftrechtlicher Vorschriften über Anforderungen an Flugbesatzungen vom 10. Februar 2003 (BGBl. I S. 182) neu gefasst worden ist, verordnet das Luftfahrt-Bundesamt:

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 112 Absatz 3 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 1 des Gesetzes vom 10. November 2016 (BGBl. I S. 2473) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium des Innern, dem Bundesministerium der Justiz und für Verbraucherschutz, dem Bundesministerium der Finanzen, dem Bundesministerium für Verkehr und digitale Infrastruktur sowie dem Bundesministerium der Verteidigung:

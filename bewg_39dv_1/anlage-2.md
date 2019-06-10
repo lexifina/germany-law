@@ -1,0 +1,49 @@
+# Anlage 2 (zu § 1 Nr. 2)
+
+Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel
+
+A. Vorbemerkungen
+Die Hauptbewertungsstützpunkte der Sonderkulturen Hopfen und Spargel sind gekennzeichnet
+1. | durch Ho = | Hopfen oder |
+  | Spa = | Spargel, |
+2. durch laufende Nummern (Lfd. Nr.), deren erste Ziffer das Land und deren zweite Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion.
+  Den Ziffern entsprechen
+  | Ziffer | Land | Ziffer | Oberfinanzdirektion |
+  |  |  |  |  |
+  | 2 | Niedersachsen | 1 | Hannover,St. A. Hannover |
+  | 2 | Hannover,St. A. Oldenburg |
+  | 3 | Nordrhein-Westfalen | 1 | Münster |
+  | 2 | Düsseldorf |
+  | 3 | Köln |
+  | 4 | Rheinland-Pfalz | 1 | Koblenz |
+  | 7 | Baden-Württemberg | 1 | Karlsruhe |
+  | 2 | Freiburg |
+  | 3 | Stuttgart |
+  | 8 | Bayern | 1 | Nürnberg |
+  | 2 | München |
+  |  |
+  | Beispiel: | Bei dem Hauptbewertungsstützpunkt Ho 82.02 handelt es sich um den zweiten Hauptbewertungsstützpunkt der Sonderkultur Hopfen im bayer. Oberfinanzbezirk München. |
+  |  |
+  | B. Zusammenstellung der Hauptbewertungsstützpunkte der Sonderkultur Hopfen |
+  |  |  |  |  |  |
+  | Lfd. Nr. | Gemeinde | Finanzamtsbezirk | Hopfenbau-Vergleichszahl in 100 je ha | Anbaugebiet |
+  | Ho 73.01 | Holzhäusern | Friedrichshafen | 97,0 | Tettnang |
+  | Ho 73.02 | Wolfenhausen | Tübingen | 10,0 | Rottenburg-Herrenberg-Weilderstadt (RHW) |
+  | Ho 81.01 | Spalt | Schwabach | 90,0 | Spalt |
+  | Ho 81.02 | Spalt | Schwabach | 86,5 | Spalt |
+  | Ho 81.03 | Ellingen | Weißenburg/Bayern | 80,0 | Spalt |
+  | Ho 81.04 | Reichenschwand | Hersbruck | 9,0 | Hersbrucker Gebirge |
+  | Ho 81.05 | Irfersdorf | Beilngries | 64,0 | Jura |
+  | Ho 82.01 | Puch | Pfaffenhofen/Ilm | 81,0 | Hallertau |
+  | Ho 82.02 | Oberlauterbach | Pfaffenhofen/Ilm | 89,5 | Hallertau |
+  |  |
+  | C. Zusammenstellung der Hauptbewertungsstützpunkte der Sonderkultur Spargel |
+  |  |  |  |  |  |
+  | Lfd. Nr. | Gemeinde | Finanzamtsbezirk | Spargelbau-Vergleichszahl in 100 je ha | Anbaugebiet |
+  | Spa 21.01 | Walle | Gifhorn | 72,0 | Braunschweig-Gifhorn |
+  | Spa 32.01 | Walbeck | Geldern | 99,5 | Niederrhein |
+  | Spa 41.01 | Hanhofen | Speyer | 103,0 | Oberrheinebene |
+  | Spa 71.01 | Mannheim-Käfertal | Mannheim-Neckarstadt | 89,5 | Oberrheinebene |
+  | Spa 71.02 | Hochstetten | Karlsruhe-Durlach | 98,0 | Oberrheinebene |
+  | Spa 81.01 | Buch | Nürnberg-Zentral | 71,0 | Nürnberg |
+  | Spa 82.01 | Waidhofen | Schrobenhausen | 55,5 | Schrobenhausen |

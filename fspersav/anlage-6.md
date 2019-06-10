@@ -1,0 +1,47 @@
+# Anlage 6 (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+
+(Fundstelle: BGBl. I 2008, 1969 - 1970)
+a) Ausbildungsziel
+  Im Erlaubniskurs für flugsicherungstechnisches Personal werden aufbauend auf dem erfolgreich abgeschlossenen Ingenieurstudium bzw. der erfolgreich abgeschlossenen Techniker- oder Berufsausbildung dem Erlaubnispflichtigen die für die betriebliche Ausbildung in der Inbetriebhaltung flugsicherungstechnischer Einrichtungen erforderlichen Grundlagenkenntnisse der Flugsicherung vermittelt.
+b) Ausbildungsinhalte (Lehrfächer und wesentliche Themengebiete)
+  Rechtsgrundlagen, Organisation und Betriebsdurchführung, insbesondere:
+  – Recht und Verwaltungshandeln
+  – Luftverkehrsverwaltung
+  – Aufgaben, Organisation und Personal des Flugsicherungsunternehmens
+  – Aufgaben und Organisation der flugsicherungstechnischen Inbetriebhaltung
+  – Aufgaben und Organisation der Flugsicherungsbetriebsdienste
+  Technisches Englisch
+  Technische Grundlagen der Datenverarbeitung (Hardware), insbesondere:
+  – Struktur und Aufgaben aktueller Rechnersysteme
+  Technische Grundlagen der Datenverarbeitung (Software), insbesondere:
+  – Struktur und Funktion von Programmiersprachen
+  – Struktur und Funktion von Betriebssystemen
+  – Struktur und Funktion von Anwenderprogrammen und Datenbanken
+  Technische Grundlagen der Datenübertragungstechnik, insbesondere:
+  – Netzwerke
+  – Hardware-Komponenten
+  – Protokolle
+  Technische Grundlagen der Sende- und Empfangstechnik, insbesondere:
+  – Struktur und Funktion von Funksprechsystemen
+  Technische Grundlagen der Sprachübertragungs- und Vermittlungstechnik, insbesondere:
+  – Übertragungstechniken und -verfahren
+  – Prinzipielle Funktion der analogen und digitalen Sprachvermittlung
+  – Sprachübertragungsnetze
+  Technische Grundlagen der Navigationstechnik, insbesondere:
+  – Begriffe der Navigation
+  – Navigationssysteme, -verfahren und Einsatz
+  – Avionik und Flugvermessung
+  Technische Grundlagen der Radartechnik, insbesondere:
+  – Begriffe und Definitionen
+  – Zielaufbereitung
+  – Entfernungs- und Azimutmessung
+  – Primär- und Sekundärradarverfahren
+  – Radardatenaufbereitung und -übertragung
+  Technische Grundlagen der Flugsicherungssysteme, insbesondere:
+  – Funktion, Arbeitsweise, Zusammenhänge und Bedeutung von Flugsicherungssystemen
+  Betriebliches Praktikum, insbesondere:
+  – Betrieblicher Einsatz und logistische Betreuung technischer Flugsicherungssysteme
+c) Leistungsnachweise
+  Die Kursteilnehmer haben während des Erlaubniskurses für die flugsicherungstechnische Inbetriebhaltung einen schriftlichen Leistungsnachweis mit einer Dauer von mindestens 45 und höchstens 60 Minuten in dem unter Buchstabe b aufgeführten Lehrfach „Technisches Englisch“ zu erbringen.
+d) Prüfung
+  Die Prüfung soll mindestens 150 Minuten und höchstens 210 Minuten dauern.

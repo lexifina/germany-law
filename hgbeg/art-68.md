@@ -1,0 +1,3 @@
+# Art 68
+
+§ 285 Nummer 9, § 286 Absatz 5 Satz 1, § 289 Absatz 2 Nummer 5, § 314 Absatz 1 Nummer 6, Absatz 2 und § 315 Absatz 2 Nummer 4 des Handelsgesetzbuchs in der Fassung des Gesetzes zur Angemessenheit der Vorstandsvergütung vom 31. Juli 2009 (BGBl. I S. 2509) sind erstmals auf Jahres- und Konzernabschlüsse für das nach dem 31. Dezember 2009 beginnende Geschäftsjahr anzuwenden. Die bis zum 4. August 2009 geltenden Fassungen der § 285 Nummer 9, § 286 Absatz 5 Satz 1, § 289 Absatz 2 Nummer 5, § 314 Absatz 1 Nummer 6, Absatz 2 und § 315 Absatz 2 Nummer 4 des Handelsgesetzbuchs sind letztmals auf Jahres- und Konzernabschlüsse für das vor dem 1. Januar 2010 beginnende Geschäftsjahr anzuwenden.

@@ -1,0 +1,16 @@
+# Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziele](0001.md)
+- [§ 2 Anwendungsbereich](0002.md)
+- [§ 2a Begriffsdefinitionen](0002a.md)
+- [§ 3 Anzuwendende Standards](0003.md)
+- [§ 4 Erläuterungen in Deutscher Gebärdensprache und Leichter Sprache](0004.md)
+- [§ 5 Ausschuss für barrierefreie Informationstechnik](0005.md)
+- [§ 6 Beratung und Unterstützung durch die Bundesfachstelle für Barrierefreiheit und die Informationstechnik-Dienstleister des Bundes](0006.md)
+- [§ 7 Erklärung zur Barrierefreiheit](0007.md)
+- [§ 8 Überwachungsverfahren](0008.md)
+- [§ 9 Berichterstattung](0009.md)
+- [§ 10 Folgenabschätzung](0010.md)
+- [Anlage 1 (weggefallen)](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 2)](anlage-2.md)

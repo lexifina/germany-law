@@ -1,0 +1,3 @@
+# Art 67 Medizinisch-technische Großgeräte
+
+Für medizinisch-technische Großgeräte, die vor dem 1. Januar 1989 angeschafft, genutzt oder mitbenutzt worden sind, gelten § 368n Abs. 8 Satz 3 und 4 der Reichsversicherungsordnung in der am 31. Dezember 1988 geltenden Fassung sowie die auf der Grundlage des § 368 Abs. 1 und 3, des § 368n Abs. 8 und des § 368p Abs. 1 der Reichsversicherungsordnung beschlossenen Richtlinien für den bedarfsgerechten und wirtschaftlichen Einsatz von medizinisch-technischen Großgeräten vom 10. Dezember 1985 (BAnz. Nr. 60a vom 27. März 1986, S. 3) weiter.

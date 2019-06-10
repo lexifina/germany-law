@@ -1,0 +1,16 @@
+# Anlage (zu § 1)
+
+Aufstellung der gleichgestellten Meisterprüfungszeugnisse
+
+(Fundstelle des Originaltextes: BGBl. I 1997, 3325)
+| Bezeichnung der deutschen Prüfungszeugnisse | Bezeichnung der französischen Prüfungszeugnisse |
+| 1.Meisterprüfung im Kraftfahrzeugmechaniker-Handwerk | 1.Brevet de Maitrise mecanicien reparateur auto |
+| 2.Meisterprüfung im Kraftfahrzeugelektriker-Handwerk | 2.Brevet de Maitrise electricien electronicien specialiste automobile |
+| 3.Meisterprüfung im Landmaschinenmechaniker-Handwerk | 3.Brevet de Maitrise mecanicien reparateur rural |
+| 4.Meisterprüfung im Zimmerer-Handwerk | 4.Brevet de Maitrise charpentier |
+| 5.Meisterprüfung im Tischler-Handwerk | 5.Brevet de Maitrise menuisier de batiment et d'agencement, ebeniste, menuisier en meubles |
+| 6.Meisterprüfung im Fliesen-, Platten- und Mosaikleger-Handwerk | 6.Brevet de Maitrise carreleur mosaiste |
+| 7.Meisterprüfung im Maurer-Handwerk | 7.Brevet de Maitrise macon |
+| 8.Meisterprüfung im Konditoren-Handwerk | 8.Brevet de Maitrise patissier |
+| 9.Meisterprüfung im Friseur-Handwerk | 9.Brevet de Maitrise coiffeur - Option C |
+| 10.Meisterprüfung im Textilreiniger-Handwerk | 10.Brevet de Maitrise nettoyeurappreteur |

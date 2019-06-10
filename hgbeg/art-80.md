@@ -1,0 +1,3 @@
+# Art 80
+
+Die §§ 264, 285, 289 bis 289f, 291, 292, 294, 314 bis 315e, 317, 320, 325, 331, 334, 335, 336, 340a, 340i, 340n, 341a, 341j, 341n und 342 des Handelsgesetzbuchs in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für das nach dem 31. Dezember 2016 beginnende Geschäftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017 geltenden Fassung sind letztmals anzuwenden auf Lage- und Konzernlageberichte für das vor dem 1. Januar 2017 beginnende Geschäftsjahr.

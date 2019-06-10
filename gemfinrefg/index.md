@@ -1,0 +1,15 @@
+# Gesetz zur Neuordnung der Gemeindefinanzen
+
+- [§ 1 Gemeindeanteil an der Einkommensteuer](0001.md)
+- [§ 2 Aufteilung des Gemeindeanteils an der Einkommensteuer](0002.md)
+- [§ 3 Verteilungsschlüssel für den Gemeindeanteil](0003.md)
+- [§ 4 Berichtigung von Fehlern](0004.md)
+- [§ 5 Überweisung des Gemeindeanteils an der Einkommensteuer](0005.md)
+- [§ 5a Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer](0005a.md)
+- [§ 5b Übermittlung statistischer Ergebnisse](0005b.md)
+- [§ 5c Rechtsverordnungsermächtigung](0005c.md)
+- [§ 5d Überweisung des Gemeindeanteils an der Umsatzsteuer](0005d.md)
+- [§ 6 Umlage nach Maßgabe des Gewerbesteueraufkommens](0006.md)
+- [§ 7 Sondervorschriften für Berlin und Hamburg](0007.md)
+- [§ 8 Subdelegation](0008.md)
+- [§ 9 Ermächtigung](0009.md)

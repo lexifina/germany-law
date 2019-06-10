@@ -1,0 +1,17 @@
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte Berufspädagogin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen](0002.md)
+- [§ 3 Gliederung der Prüfung](0003.md)
+- [§ 4 Durchführung der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“](0004.md)
+- [§ 5 Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“](0005.md)
+- [§ 6 Durchführung der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“](0006.md)
+- [§ 7 Inhalte der Prüfung im Prüfungsteil „Kernprozesse der beruflichen Bildung“](0007.md)
+- [§ 8 Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln in Bereichen der beruflichen Bildung“](0008.md)
+- [§ 9 Inhalte der Prüfung im Prüfungsteil „Spezielle berufspädagogische Funktionen“](0009.md)
+- [§ 10 Anrechnung anderer Prüfungsleistungen](0010.md)
+- [§ 11 Bestehen der Prüfung](0011.md)
+- [§ 12 Wiederholen der Prüfung](0012.md)
+- [§ 13 Übergangsregelung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)

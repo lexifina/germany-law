@@ -1,0 +1,62 @@
+# Anlage 4 (zu § 8 Absatz 1 Satz 4)Praktische Prüfung zum Erwerb des Sportbootführerscheins
+
+1. Allgemeines
+Im praktischen Teil der Prüfung muss der Bewerber nachweisen, dass er die zur sicheren Führung eines Sportbootes (mit der jeweiligen Antriebsart) auf den Binnenschifffahrtsstraßen oder auf den Seeschifffahrtsstraßen oder allen Schifffahrtsstraßen notwendigen Fahrmanöver und Fertigkeiten beherrscht und zur Anwendung des theoretischen Wissens fähig ist.
+Je nach Antriebsart sind Pflichtmanöver und sonstige Manöver durchzuführen. Für jedes Manöver hat der Bewerber zwei Versuche. Bei den sonstigen Manövern werden aus den fünf möglichen drei ausgewählt, von denen zwei ausreichend sein müssen. Aus neun möglichen Knoten werden sieben ausgewählt, von denen sechs ausreichend ausgeführt und erklärt werden müssen.
+Beim Erwerb des Sportbootführerscheins mit dem Geltungsbereich Seeschifffahrtsstraßen besteht die praktische Prüfung bei Besitz des Sportbootführerscheins mit dem Geltungsbereich Binnenschifffahrtsstraßen und der Antriebsart mit Antriebsmaschine aus den Pflichtmanövern gemäß Abschnitt I Nummer 1 des Praxisprotokolls.
+Fähigkeiten, die beim Erwerb des Sportbootführerscheins für einen Geltungsbereich oder eine Antriebsart bereits erfolgreich geprüft wurden, werden beim Erwerb des Sportbootführerscheins für den anderen Geltungsbereich oder die andere Antriebsart grundsätzlich nicht erneut geprüft. Erfolgt die Prüfung für den anderen Geltungsbereich oder die andere Antriebsart nicht bei demselben Prüfungsausschuss für den zuerst erworbenen Geltungsbereich oder die zuerst erworbene Antriebsart, ist zum Nachweis der geprüften Fähigkeiten die Vorlage des Sportbootführerscheins erforderlich. Prüfungsteile (theoretische oder praktische Prüfung), die bei einem Prüfungsausschuss des anderen Verbands durchgeführt wurden, werden nicht anerkannt.
+2. Praxisprotokoll
+Für die praktische Prüfung ist ein Protokoll nach nachstehendem Muster zu verwenden:
+| Praktische Prüfung zum amtlichen Sportbootführerschein |
+| ⃞ Binnenschifffahrtsstraßen ⃞ unter Segel ⃞ mit Antriebsmaschine ⃞ Seeschifffahrtsstraßen mit Antriebsmaschine |
+| Prüfung am: | Prüfung in: | Prüfungsausschuss: |
+| Name: | Vorname: |  |  | Geb.-Datum: |
+| Inhaber/in Sportbootführerschein Binnenschifffahrtsstraßen | mit Antriebsmaschine ⃞ unter Segel ⃞ |
+| Inhaber/in Sportbootführerschein Seeschifffahrtsstraßen | mit Antriebsmaschine ⃞ |
+| I. Fähigkeiten mit Antriebsmaschine I.1 Pflichtmanöver |
+|  | 1. Versuch | 2. Versuch |
+| Alle Aufgaben müssen mit ausreichendem Ergebnis ausgeführt werden. | 1. Rettungsmanöver unter Maschine(Mensch über Bord) | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 2. Anlegen unter Maschine | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 3. Ablegen unter Maschine | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 4. Steuern nach Kompass (nur bei Seeschifffahrtsstraßen) | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 5. Peilen; Einfache oder Kreuzpeilung (nur bei Seeschifffahrtsstraßen) | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| Ergebnis Pflichtmanöver mit Antriebsmaschine | ausreichend ⃞ | nicht ausreichend ⃞ |
+| I.2 Sonstige Manöver |
+|  | 1. Versuch | 2. Versuch |
+| Von maximal drei Aufgaben müssen zwei mit ausreichendem Ergebnis ausgeführt werden. | 1. Kursgerechtes Aufstoppen | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 2. Wenden auf engem Raum | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 3. Steuern nach Schifffahrtszeichen/ Landmarken | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 4. Anlegen einer Rettungsweste/ eines Sicherheitsgurts | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 5. Manöverschallsignal (eins von drei) | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| Ergebnis Sonstige Manöver mit Antriebsmaschine | ausreichend ⃞ | nicht ausreichend ⃞ |
+| II. Fähigkeiten unter Segel II.1 Pflichtmanöver |
+|  | 1. Versuch | 2. Versuch |
+| Alle Aufgaben müssen mit ausreichendem Ergebnis ausgeführt werden. | 1. Rettungsmanöver unter Segel (Mensch über Bord) | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 2. Anlegen unter Segel | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 3. Ablegen unter Segel | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| Ergebnis Pflichtmanöver unter Segel | ausreichend ⃞ | nicht ausreichend ⃞ |
+| II.2 Sonstige Manöver |
+|  | 1. Versuch | 2. Versuch |
+| Von maximal drei Aufgaben müssen zwei mit ausreichendem Ergebnis ausgeführt werden. | 1. Segel setzen/bergen | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 2. Wenden/Halsen | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 3. Anluven/Abfallen | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 4. Steuern nach Wind/Schifffahrtszeichen | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 5. Anlegen einer Rettungsweste/ eines Sicherheitsgurts | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| Ergebnis Sonstige Manöver unter Segel | ausreichend ⃞ | nicht ausreichend ⃞ |
+| III. Knoten |
+|  | 1. Versuch | 2. Versuch |
+| Von maximal sieben verlangten Knoten müssen sechs mit ausreichendem Ergebnis ausgeführt und deren Verwendung richtig erklärt werden. | 1. Achtknoten | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 2. Kreuzknoten | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 3. Palstek | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 4. Einfacher oder doppelter Schotstek | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 5. Stopperstek | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 6. Webleinstek | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 7. Webleinstek auf Slip | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 8. Rundtörn mit zwei halben Schlägen | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| 9. Belegen einer Klampe mit Kopfschlag | ⃞ ausreichend ⃞ nicht ausreichend | ⃞ ausreichend ⃞ nicht ausreichend |
+| Knoten ausreichend ⃞ Knoten nicht ausreichend ⃞ | Unterschrift Knoten-Prüfer/in |
+| Begründung bei nicht ausreichendem Ergebnis der Teile I bis III: |
+| Praktischer Prüfungsteil mit Antriebsmaschine | Unterschrift Prüfer/in |
+|  | bestanden ⃞ nicht bestanden ⃞ |
+| Praktischer Prüfungsteil unter Segel | Unterschrift Prüfer/in |
+|  | bestanden ⃞ nicht bestanden ⃞ |

@@ -1,0 +1,8 @@
+# Art 5
+
+(1)
+Die Bundesregierung bestellt den Gouverneur und den Stellvertretenden Gouverneur für die Bundesrepublik Deutschland im Internationalen Währungsfonds im Benehmen mit der Deutschen Bundesbank. Der Gouverneur oder der Stellvertretende Gouverneur können im Einvernehmen mit dem Bundesministerium der Finanzen zeitweilige Stellvertretende Gouverneure bestellen.
+(2)
+Das Bundesministerium der Finanzen übt das Recht der Bundesrepublik Deutschland zur Besetzung der Stellen eines Mitglieds im Rat auf Ministerebene des Internationalen Währungsfonds, eines Stellvertreters und der Beigeordneten im Benehmen mit der Deutschen Bundesbank aus.
+(3)
+Das Bundesministerium der Finanzen übt das Recht der Bundesrepublik Deutschland zur Besetzung der Stelle eines Exekutivdirektors im Internationalen Währungsfonds im Benehmen mit der Deutschen Bundesbank aus. Der Exekutivdirektor bestellt den Stellvertretenden Exekutivdirektor nach Weisung des Bundesministeriums der Finanzen. Satz 2 gilt entsprechend für die Bestellung eines zeitweiligen Stellvertretenden Exekutivdirektors.

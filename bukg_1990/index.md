@@ -1,0 +1,18 @@
+# Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Anspruch auf Umzugskostenvergütung](0002.md)
+- [§ 3 Zusage der Umzugskostenvergütung](0003.md)
+- [§ 4 Zusage der Umzugskostenvergütung in besonderen Fällen](0004.md)
+- [§ 5 Umzugskostenvergütung](0005.md)
+- [§ 6 Beförderungsauslagen](0006.md)
+- [§ 7 Reisekosten](0007.md)
+- [§ 8 Mietentschädigung](0008.md)
+- [§ 9 Andere Auslagen](0009.md)
+- [§ 10 Pauschvergütung für sonstige Umzugsauslagen](0010.md)
+- [§ 11 Umzugskostenvergütung in Sonderfällen](0011.md)
+- [§ 12 Trennungsgeld](0012.md)
+- [§ 13 Auslandsumzüge](0013.md)
+- [§ 14 Sondervorschriften für Auslandsumzüge](0014.md)
+- [§ 15 Dienstortbestimmung, Verwaltungsvorschriften](0015.md)
+- [§ 16 Übergangsvorschrift](0016.md)

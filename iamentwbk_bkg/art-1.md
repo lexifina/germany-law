@@ -1,0 +1,3 @@
+# Art 1
+
+Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen vom 8. April 1959 zur Errichtung der Interamerikanischen Entwicklungsbank in der nachstehend veröffentlichten Neufassung sowie den Allgemeinen Vorschriften für die Aufnahme nichtregionaler Staaten als Mitglieder der Bank wird zugestimmt. Das Übereinkommen sowie die Allgemeinen Vorschriften werden nachstehend veröffentlicht.

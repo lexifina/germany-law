@@ -1,0 +1,3 @@
+# Art 1
+
+Fahrzeuge aus dem Hoheitsgebiet der Republik Kroatien werden nach Maßgabe des in Zagreb am 9. Dezember 1996 unterzeichneten Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Kroatien über die gegenseitige Befreiung von Steuern und Straßengebühren für Straßenfahrzeuge im internationalen Verkehr von der Kraftfahrzeugsteuer befreit. Das Abkommen wird nachstehend veröffentlicht.

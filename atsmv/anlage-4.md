@@ -1,0 +1,120 @@
+# Anlage 4 Meldekriterien für meldepflichtige Ereignisse in Anlagen in Stilllegung nach § 7 Absatz 3 des Atomgesetzes
+
+Inhaltsverzeichnis
+Vorbemerkung
+| 1. | Radiologie und Strahlenschutz |
+| 1.1 | Ableitung radioaktiver Stoffe |
+| 1.2 | Freisetzung radioaktiver Stoffe |
+| 1.3 | Kontamination |
+| 1.4 | Verschleppung radioaktiver Stoffe |
+| 2. | Anlagentechnik und -betrieb |
+| 2.1 | Funktionsstörungen, Schäden oder Ausfälle an sicherheitstechnisch wichtigen Einrichtungen |
+| 2.2 | Schäden oder Leckagen an Rohrleitungen oder Behältern |
+| 2.3 | Absturz von Lasten; Ereignisse bei Handhabung, Lagerung oder Transport von radioaktiven Stoffen |
+| 2.4 | Sonstige Ereignisse |
+| 3. | Einwirkungen von außen und anlageninterne Ereignisse |
+| 3.1 | Einwirkungen von außen |
+| 3.2 | Anlageninterne Ereignisse |
+Vorbemerkung
+Die Meldekriterien für meldepflichtige Ereignisse für in Stilllegung befindliche Anlagen, Anlagenbereiche oder Anlagenteile gelten für Anlagen, die
+1. der Spaltung von Kernbrennstoffen dienten und bei denen die Schutzziele „Unterkritikalität” und „Nachwärmeabfuhr” für den Restbetrieb der in Stilllegung befindlichen Anlage nicht mehr relevant sind oder
+2. nicht der Spaltung von Kernbrennstoffen dienten und bei denen das Schutzziel „Unterkritikalität” nicht mehr relevant ist,
+soweit für diese eine Genehmigung nach § 7 Absatz 3 des Atomgesetzes bereits erteilt wurde.
+Liegen diese Anwendungskriterien nicht vor, finden je nach Genehmigungs- und Anlagentyp die Anlagen 1, 2 oder 3 weiterhin Anwendung.
+1. Radiologie und Strahlenschutz
+  Wird bei den nachfolgenden Kriterien Bezug auf die Werte der Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung genommen, ist eine Mittelungsfläche von 300 Quadratzentimetern zugrunde zu legen.
+1.1 Ableitung radioaktiver Stoffe
+  Kriterium S 1.1.1
+  Ableitung radioaktiver Stoffe mit Luft oder Wasser, bei der die innerhalb von 24 Stunden abgeleitete Aktivität
+  – zu einer Überschreitung der Grenzwerte der effektiven Dosis nach § 99 Absatz 1 der Strahlenschutzverordnung führt oder
+  – die von der zuständigen Behörde festgelegten, im Kalenderjahr maximal zulässigen Aktivitätsabgaben überschreitet.
+  Kriterium E 1.1.1
+  Ableitung radioaktiver Stoffe mit Luft oder Wasser, bei der die abgeleitete Aktivität die von der zuständigen Behörde festgelegten, maximal zulässigen Aktivitätsabgaben überschreitet.
+1.2 Freisetzung radioaktiver Stoffe
+  Kriterium S 1.2.1
+  Freisetzung radioaktiver Stoffe in die Umgebung, bei der zu besorgen ist, dass die innerhalb von 24 Stunden freigesetzte Aktivität
+  – zu einer Überschreitung der Grenzwerte der effektiven Dosis nach § 99 Absatz 1 der Strahlenschutzverordnung führt oder
+  – mehr als 10 Prozent der von der zuständigen Behörde für Ableitungen festgelegten, im Kalenderjahr maximal zulässigen Aktivitätsabgaben beträgt.
+  Kriterium E 1.2.1
+  Freisetzung radioaktiver Stoffe in die Umgebung, bei der zu besorgen ist, dass die freigesetzte Aktivität
+  – zu einer effektiven Dosis führt, die mehr als 10 Prozent der Grenzwerte nach § 99 Absatz 1 der Strahlenschutzverordnung betragen, oder
+  – mehr als 10 Prozent der von der zuständigen Behörde für Ableitungen festgelegten, im Kalenderjahr maximal zulässigen Aktivitätsabgaben beträgt.
+  Kriterium N 1.2.1
+  Freisetzung radioaktiver Stoffe in die Umgebung, die nicht unter die Kriterien S 1.2.1 oder E 1.2.1 fällt.
+  Kriterium S 1.2.2
+  Freisetzung radioaktiver Stoffe innerhalb der Anlage, so dass außerhalb eines als Kontrollbereich gekennzeichneten Bereiches die Ortsdosisleistung den Wert von 3 Millisievert pro Stunde überschreitet.
+  Kriterium E 1.2.2
+  Freisetzung radioaktiver Stoffe innerhalb der Anlage, so dass
+  – innerhalb eines als Kontrollbereich gekennzeichneten Bereiches, soweit dieser nicht als Sperrbereich gekennzeichnet ist, die Ortsdosisleistung den Wert von 3 Millisievert pro Stunde für mehr als 24 Stunden überschreitet oder
+  – die Einrichtung eines neuen Kontrollbereiches erforderlich ist.
+1.3 Kontamination
+  Kriterium E 1.3.1
+  Kontamination innerhalb des Überwachungsbereiches, die das Hundertfache der Werte nach Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung überschreitet und deren Gesamtaktivität in Becquerel mehr als das Zehnfache der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung beträgt.
+  Kriterium N 1.3.1
+  Kontamination innerhalb des Kontrollbereiches, die in einem Bereich, der bei bestimmungsgemäßem Betrieb nicht kontaminiert sein kann, das Tausendfache der Werte nach Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung überschreitet und deren Gesamtaktivität in Becquerel mehr als das Hundertfache der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung beträgt.
+1.4 Verschleppung radioaktiver Stoffe
+  Kriterium S 1.4.1
+  Weiterverbreitung von radioaktiven Stoffen aus der Anlage durch Verschleppung in einen Bereich
+  – außerhalb von Überwachungsbereichen auf dem Betriebsgelände, sofern die dorthin verschleppte Aktivität das Hundertfache der Werte nach Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung überschreitet und das Hundertfache der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung überschreitet, oder
+  – außerhalb des Betriebsgeländes, sofern die dorthin verschleppte Aktivität das Hundertfache der Werte nach Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung und das Zehnfache der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung überschreitet.
+  Kriterium E 1.4.1
+  Weiterverbreitung von radioaktiven Stoffen aus der Anlage durch Verschleppung in einen Bereich
+  – außerhalb von Überwachungsbereichen auf dem Betriebsgelände, sofern die dorthin verschleppte Aktivität das Zehnfache der Werte nach Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung und das Hundertfache der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung überschreitet, oder
+  – außerhalb des Betriebsgeländes, sofern die dorthin verschleppte Aktivität das Zehnfache der Werte nach Anlage 4 Tabelle 1 Spalte 5 der Strahlenschutzverordnung und das Einfache der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung überschreitet.
+1.5 Strahlenschutz von Personen
+  Kriterium S 1.5.1
+  Exposition einer beruflich exponierten Person, die einen Grenzwert der Körperdosis nach § 78 des Strahlenschutzgesetzes überschreitet, sofern die Exposition nicht eine besonders zugelassene Exposition nach § 74 der Strahlenschutzverordnung darstellt.
+2. Anlagentechnik und -betrieb
+2.1 Funktionsstörungen, Schäden oder Ausfälle an sicherheitstechnisch wichtigen Einrichtungen
+  Kriterium N 2.1.1
+  Funktionsstörung, Schaden oder Ausfall an einer sicherheitstechnisch wichtigen Einrichtung, die für die Einhaltung der Schutzziele verfügbar sein muss, mit der Folge, dass
+  – mindestens eine Redundanz eines sicherheitstechnisch wichtigen Systems nicht zur Verfügung steht oder
+  – bei Eintreten der Funktionsstörung, des Schadens oder des Ausfalls aus sicherheitstechnischen Gründen die Abbaumaßnahmen entsprechend den genehmigten Betriebsvorschriften unterbrochen werden müssen.
+  Nicht zu melden sind Funktionsstörungen, Schäden oder Ausfälle
+  – in den sicherheitstechnisch wichtigen Einrichtungen, die in weniger als 24 Stunden oder innerhalb der in den genehmigten Betriebsvorschriften festgelegten zulässigen Reparaturzeiten behoben werden, sofern die Funktion des Systems erhalten bleibt,
+  – an sicherheitstechnisch wichtigen Einrichtungen, für die in den genehmigten Betriebsvorschriften Ersatzmaßnahmen für einen begrenzten Zeitraum vorgesehen sind, sofern das Ereignis nicht nach Kriterium N 2.1.2 zu melden ist.
+  Kriterium N 2.1.2
+  Ausfall, Schaden oder Befund mit Hinweis auf einen systematischen Fehler an einer sicherheitstechnisch wichtigen Einrichtung.
+  Kriterium N 2.1.3
+  Ausfall von oder Schaden an einer Einrichtung des anlagentechnischen oder bautechnischen Brandschutzes.
+  Nicht zu melden sind Ausfälle von oder geringfügige Schäden an einzelnen Komponenten des anlagentechnischen oder bautechnischen Brandschutzes, durch die die Brandschutzfunktionen nicht unzulässig beeinträchtigt wurden.
+  Kriterium N 2.1.4
+  Sicherheitstechnisch bedeutsame Abweichung vom spezifizierten Zustand in einem sicherheitstechnisch wichtigen System oder Anlagenteil oder von einem in den Betriebsvorschriften (Sicherheitsspezifikationen) festgelegten sicherheitstechnisch wichtigen Grenzwert.
+2.2 Schäden oder Leckagen an Rohrleitungen oder Behältern
+  Kriterium N 2.2.1
+  Leckage oder Schaden an einer Einrichtung, die für den Aktivitätseinschluss wichtig ist oder an einem sonstigen aktivitätsführenden System oder einer sonstigen aktivitätsführenden Komponente.
+  Nicht zu melden sind einzelne Tropfleckagen an Dichtungen und Flanschen.
+  Kriterium N 2.2.2
+  – Versagen einer druckführenden Komponente mit unmittelbarer Auswirkung auf ein sicherheitstechnisch wichtiges System oder
+  – Schaden an einer druckführenden Komponente, soweit zu besorgen ist, dass ein Versagen auf Grund dieses Schadens unmittelbar oder in einer Kette anzunehmender Folgeereignisse zu der Gefährdung eines sicherheitstechnisch wichtigen Systems oder Anlagenteils führt.
+2.3 Absturz von Lasten; Ereignisse bei Handhabung, Lagerung oder Transport von radioaktiven Stoffen
+  Kriterium N 2.3.1
+  – Absturz einer Last, der zur Beeinträchtigung eines sicherheitstechnisch wichtigen Systems oder Anlagenteils geführt hat oder hätte führen können.
+  – Sicherheitstechnisch bedeutsames Ereignis beim Transport oder der Lagerung von radioaktiven Stoffen innerhalb des Anlagengeländes.
+  – Sicherheitstechnisch bedeutsamer Schaden an einem Hebezeug oder einer Transport- oder Handhabungseinrichtung.
+2.4 Sonstige Ereignisse
+  Kriterium N 2.4.1
+  Ereignis, das eine bedeutsame Änderung der Sicherheitsspezifikationen erfordert.
+  Kriterium N 2.4.2
+  Schaden an einer tragenden Struktur eines Bauwerks mit der Folge, dass die Verfügbarkeit eines sicherheitstechnisch wichtigen Systems oder einer Anlage beeinträchtigt werden kann.
+  Kriterium N 2.4.3
+  Auslegungsgemäße Anforderung einer sicherheitstechnisch wichtigen Einrichtung in ihrer Sicherheitsfunktion.
+  Nicht zu melden sind Anforderungen, die gezielt vom Personal ohne sicherheitstechnisches Erfordernis durchgeführt werden oder die eindeutig auf Netzstörungen zurückzuführen sind.
+3. Einwirkungen von außen und anlageninterne Ereignisse
+3.1 Einwirkungen von außen
+  Kriterium S 3.1.1
+  Erdbeben, Flugzeugabsturz, Explosionsdruckwelle oder sonstige Einwirkung von außen, so dass ein Anlagenzustand eingetreten ist,
+  – bei dem das Schutzziel „Einschluss radioaktiver Stoffe“ oder das Schutzziel „Begrenzung der Strahlenexposition“ verletzt wurde und
+  – der sich gefahrbringend auf die Bevölkerung oder die Umgebung auswirkt oder bei dem dies zu besorgen ist.
+  Kriterium E 3.1.1
+  Erdbeben, Flugzeugabsturz, Explosionsdruckwelle oder sonstige Einwirkung von außen, so dass ein Anlagenzustand eingetreten ist, bei dem das Schutzziel „Einschluss radioaktiver Stoffe” oder das Schutzziel „Begrenzung der Strahlenexposition” verletzt wurde oder dies zu besorgen ist.
+3.2 Anlageninterne Ereignisse
+  Kriterium S 3.2.1
+  Anlageninterner Brand, anlageninterne Explosion, heftige chemische Reaktion, Überflutung oder sonstige Einwirkung von innen, so dass ein Anlagenzustand eingetreten ist,
+  – bei dem das Schutzziel „Einschluss radioaktiver Stoffe“ oder das Schutzziel „Begrenzung der Strahlenexposition“ verletzt wurde und
+  – der sich gefahrbringend auf die Bevölkerung oder die Umgebung auswirkt oder bei dem dies zu besorgen ist.
+  Kriterium E 3.2.1
+  Anlageninterner Brand, anlageninterne Explosion, heftige chemische Reaktion, Überflutung oder sonstige Einwirkung von innen, so dass ein Anlagenzustand eingetreten ist, bei dem das Schutzziel „Einschluss radioaktiver Stoffe” oder das Schutzziel „Begrenzung der Strahlenexposition” verletzt wurde oder dies zu besorgen ist.
+  Kriterium N 3.2.1
+  Anlageninterner Brand, anlageninterne Explosion, Überflutung oder sonstige Einwirkung von innen in einem Raum oder Anlagenbereich, in dem radioaktive Stoffe mit einer Aktivität oberhalb der Werte nach Anlage 4 Tabelle 1 Spalte 2 der Strahlenschutzverordnung vorhanden sind oder in dem sich eine sicherheitstechnisch wichtige Einrichtung befindet.
+  Nicht zu melden sind örtlich begrenzte Kleinstbrände im Zusammenhang mit Abbau-, Änderungs- oder Instandhaltungsarbeiten, für die vorbeugende planmäßige Brandschutzmaßnahmen getroffen wurden und deren Anwendung bei der Brandbekämpfung wirksam war.

@@ -1,0 +1,237 @@
+# Anlage 1 (§ 1 Abs. 1)Verzeichnis der Auslandsbonds
+
+| A. Schuldverschreibungen des Deutschen Reichs und des ehemaligen Landes Preußen |
+| Lfd. Nr. | Bezeichnung | Währung | Begebungsland |
+| 1 | Deutsche äußere Anleihe 1924 (Dawes-Anleihe) - Schuldverschreibungen auf den Inhaber |  |  |
+| a) | Pfund 7%ige Sterling-Schuldverschreibungen des Deutschen Reichs von 1924. -Belgische Ausgabe | Pfund | Belgien |
+| b) | Pfund 7%ige Sterling-Schuldverschreibungen des Deutschen Reichs von 1924. -Holländische Ausgabe | Pfund | Die Niederlande |
+| c) | Pfund 7%ige Sterling-Schuldverschreibungen des Deutschen Reichs von 1924. -Französische Ausgabe | Pfund | Frankreich |
+| d) | 7%ige Lire-Schuldverschreibungen des Deutschen Reichs von 1924. -Italienische Ausgabe | Lire | Italien |
+| e) | Pfund 7%ige Sterling-Schuldverschreibungen des Deutschen Reichs von 1924. -Deutsche Ausgabe | Pfund | Schweiz |
+| f) | Pfund 7%ige Sterling-Schuldverschreibungen des Deutschen Reichs von 1924. -Schweizerische Ausgabe | Pfund | Schweiz |
+| g) | 7%ige Schweizer Franken-Schuldverschreibungen des Deutschen Reichs von 1924. - Schweizerische Ausgabe | sfrs. | Schweiz |
+| h) | Pfund 7%ige Sterling-Schuldverschreibungen des Deutschen Reichs von 1924. -Britische Ausgabe | Pfund | Vereinigtes Königreich von Großbritannien und Nordirland |
+| i) | 7prozentige Goldschuldverschreibungen (Gesamtausgabe in den Vereinigten Staaten von Amerika 110.000.000 Dollar) | $ | Vereinigte Staaten von Amerika |
+| 2 | 6%ige Äußere Anleihe des Deutschen Reichs von 1930 (Kreuger-Anleihe) - Goldschuldverschreibungen mit 50jähriger Laufzeit | $ | Schweden |
+| 3 | Internationale 5 1/2%ige Anleihe des Deutschen Reichs 1930 (Young-Anleihe) - Schuldverschreibungen auf den Inhaber |  |  |
+| a) | Belgische Ausgabe | Belgas oder bfrs. | Belgien |
+| b) | Holländische Ausgabe | hfl. | Die Niederlande |
+| c) | Französische Ausgabe | ffrs. | Frankreich |
+| d) | Italienische Ausgabe | Lire | Italien |
+| e) | Schwedische Ausgabe | skr. | Schweden |
+| f) | Deutsche Ausgabe | RM | Schweiz |
+| g) | Schweizer Tranche | sfrs. | Schweiz |
+| h) | Internationale 5 1/2%ige Sterling-Schuldverschreibungen des Deutschen Reichs 1930 | Pfund | Vereinigtes Königreich von Großbritannien und Nordirland |
+| i) | Fünfeinhalbprozentige Goldschuldverschreibungen (Gesamtbetrag der Ausgabe in den Vereinigten Staaten von Amerika $ 98.250.000) | $ | Vereinigte Staaten von Amerika |
+| 4 | 6 1/2%ige Preußische äußere Anleihe 1926 The Free State of Prussia (Freistaat Preußen) - 6 1/2% Sinking Fund Gold Bonds - External Loan of 1926 | $ | Vereinigte Staaten von Amerika |
+| 5 | 6%ige Preußische äußere Anleihe 1927 The Free State of Prussia (Freistaat Preußen) - 6% Sinking Fund Gold Bonds - External Loan 1927 | $ | Vereinigte Staaten von Amerika |
+| B. | Schuldverschreibungen der Konversionskasse für deutsche Auslandsschulden |
+| Lfd. Nr. | Zinssatz | Währung | Nähere Bezeichnung |  |
+|  | - 6 1/2% Sinking Fund Gold Bonds - External Loan 1926 |  | Staaten von Amerika |
+| 5 | 6%ige Preußische äußere Anleihe 1927 |  |  |
+|  | The Free State of Prussia (Freistaat Preußen) | $ | Vereinigte Staaten von Amerika |
+|  | - 6% Sinking Fund Gold Bonds - External Loan 1927 |
+| B. Schuldverschreibungen der Konversionskasse für deutsche Auslandsschulden |
+| Lfd. Nr. | Zinssatz | Währung | Nähere Bezeichnung | Ausgabetag | Begebungsland |
+| 1a) | 4% | Pfund | (Serie I | 1. 6.1935) | Vereinigtes |
+| 1b) | 4% | Pfund | (Serie II | 1. 8.1936) | Königreich von |
+| 1c) | 4% | Pfund | (Serie III | 1. 3.1937) | Großbritannien |
+| 1d) | 4% | Pfund | (Serie IV | 1. 8.1937) | Und |
+| 1e) | 4% | Pfund | (Serie V | 1. 4.1938) | Nordirland |
+| 2 | 4% | hfl. | (Serie I | 1.11.1935) | Die Niederlande |
+| 3a) | 4% | skr. | (Serie I | 2. 3.1936) | Schweden |
+| 3b) | 4% | skr. | (Serie II | 1. 9.1936) | Schweden |
+| 3c) |  |  | (Serie III | 1. 3.1937) |  |
+| 3d) |  |  | (Serie IV | 1. 9.1937) |  |
+| 3e) |  |  | (Serie V | 1. 4.1938) |  |
+| 3f) |  |  | (Serie VI | 1.12.1938) |  |
+| 4a) |  |  | (Serie IA | 1. 7.1935) |  |
+| 4b) | 4% | sfrs. | (Serie IB | 1. 7.1935) |  |
+| 4c) |  |  | (Serie IIA | 15. 8.1936) |  |
+| 4d) |  |  | (Serie IIB | 15. 8.1936) |  |
+| 5 | 3% | sfrs. | (Alte Ausgabe) | 1.12.1936 | Schweiz |
+| 6 | 3% | sfrs. | Neue Ausgabe | 1. 3.1937 | Schweiz |
+| 7 | 3% | sfrs. | (Alte Ausgabe) | 1.12.1936 | Frankreich |
+| 8 | 3% | sfrs. | Neue Ausgabe | 1. 3.1937 | Frankreich |
+| 9 | 3% | hfl. | (Alte Ausgabe) | 1.12.1936 | Die Niederlande |
+| 10 | 3% | hfl. | Neue Ausgabe | 1. 3.1937 | Die Niederlande |
+| 11 | 3% | $ | (Alte Ausgabe) | 1. 7.1936 | Vereinigte Staaten von Amerika |
+| 12 | 3% | $ | Neue Ausgabe | 1. 6.1937 | Vereinigte Staaten von Amerika |
+| 13 | 3% | Pfund | (Alte Ausgabe) | 1.12.1936 | Vereinigtes Königreich von Großbritannien und Nordirland |
+| 14 | 3% | Pfund | Neue Ausgabe | 1. 3.1937 | Vereinigtes Königreich von Großbritannien und Nordirland |
+| C. Sonstige Wertpapiere *) |
+| I. Begebungsland: Die Niederlande |
+| Lfd. Nr. | Aussteller | Ursprünglicher Zinssatz | Bezeichnung | Ausg.-Jahr | Währung |
+| in deutscher Bezeichnung | in niederländischer Bezeichnung |
+| 1 | Deutsche Patent-Wärmeschutz Aktiengesellschaft -Dortmund |  | 8% | Teilschuldverschreibungen | 1926 | hfl. |
+| 2 | Deutsche Rentenbank-Kreditanstalt (Landwirtschaftliche Zentralbank) |  | 6 1/2% | Meliorations-Schuldverschreibungen | 1930 | Sfrs. |
+| 3 | Eschweiler Bergwerks-Verein-Kohlscheid bei Aachen |  | 6% | Teilschuldverschreibungen | 1927 | hfl. |
+| 4 | Hagener Straßenbahn Aktiengesellschaft - Hagen (Westfalen) | Tramwegen der Stadt Hagen - Te Hagen (Westfalen) | 8% | Obligationen | 1930 | hfl. |
+| 5 | St. Josefsheim G.m.b.H. -Berlin-Charlottenburg | St. Josef-Stichting - Berlijn-Charlottenburg | 7% | Obligaties aan Toonder | 1928 | hfl. |
+| 6 | Landesbank der Rheinprovinz in Düsseldorf (jetzt: Rheinische Girozentrale und Provinzial-Bank, Düsseldorf) |  | 7% | Teilschuldverschreibungen | 1926 | hfl. |
+| 7 | Neckar-Aktiengesellschaft-Stuttgart |  | 6% | Teilschuldverschreibungen | 1930 | hfl. |
+| 8 | Ruhrverband - Essen |  | 6% | Teilschuldverschreibungen | 1927 | hfl. |
+| 9 | Ruhrverband - Essen |  | 7% | Obligatien I (20-jarige Obligatielening 1930) | 1930 | hfl. |
+| 10 | Ruhrverband - Essen |  | 7% | Obligatien II (20-jährige (2e) Obligatielening) | 1930 | hfl. |
+| 11 | C. J. Vogel Draht- und Kabelwerke Aktiengesellschaft |  | 7% | Obligationen | 1928 | hfl. |
+| 12 | Osram Gesellschaft mit beschränkter Haftung Kommanditgesellschaft in Berlin |  | 7% | Teilschuldverschreibungen | 1925 | $ |
+| 13 | Carl Zeiss-Stiftung in Jena (jetzt: Heidenheim a. d. Brenz | Carl Zeiss-Stichting te Jena | 7% | 20-jarige eerste Hypothecaire Leening Obligatien aan Toonder | 1926 | hfl. |
+| 14 | Brüder vom H. Franziskus Katholisches Jünglingsheim G.m.b.H., Aachen | Brüder vom H. Franziskus Rechtspersoon: Katholisches Jünglingsheim G.m.b.H. te Aken | 7% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien aan Toonder | 1926 | hfl. |
+| 15 | Brüder vom H. Franziskus Katholisches Jünglingsheim G.m.b.H., Aachen | Brüder vom H. Franziskus Rechtspersoon: Katholisches Jünglingsheim G.m.b.H. te Aken | 7 1/2% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien aan Toonder | 1929 | hfl. |
+| 16 | Congregation der Schwestern der christlichen Schulen von der Barmherzigkeit, Menden, Schulverein für das Katholische Lyzeum e.V., Mende, Krs. Iserlohn | Congregatie van de Zusters der Christelijke Scholen van Barmhartigheid te Menden bij Iserlohn (Westfalen) | 8% | Eerste Hypothecaire 15-jarige Obligatielening Obligatien aan Toonder | 1930 | hfl. |
+| 17 | Genossenschaft der Brüder vom H. Franziskus zu Waldbreitbach Charitas Gesellschaft m.b.H. - Cochem-Ebernach | Genootschap van de Broeders van den H. Franciscus te Waldbreitbach (Rijnland) | 8% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien | 1925 | hfl. |
+| 18 | Genossenschaft der Cellitinnen nach der Regel des Hl. Augustinus zu Köln | Orde der Zusters Augustinessen Moederhuis Kupfergasse te Keulen | 7% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien aan Toonder | 1928 | hfl. |
+| 19 | Genossenschaft der Schwestern Unserer Lieben Frau G.m.b.H. in Mülhausen (jetzt: Stadt Köln) | Congregatie der Zusters van Onze Lieve Vrouw te Mülhausen | 7% | Eerste Hypothecaire 10-jarige Geldleening Obligatien | 1928 | hfl. |
+| 20 | Genossenschaft der Töchter vom H. Kreuze -Aspel bei Rees (jetzt: Provinzial-Verwaltung der Genossenschaft der Töchter vom Hl. Kreuz, Düsseldorf | Genossenschaft der Töchter vom H. Kreuze -Aspel bij Rees | 7% | Eerste Hypothecaire Obligatielening met 20-jarigen looptijd | 1925 | hfl. |
+| 21 | Kath. Kirchengemeinde "Herz Jesu" in Paderborn | R. K. Parochie von het H. Hart van Jezus te Paderborn | 8% | Eerste Hypothecaire 10-jarige Geldleening Obligatien | 1926 | hfl. |
+| 22 | Kath. Kirchengemeinde St. Maria Magdalena zu Lütgendortmund bei Dortmund | R.-K. Kerkbestuur der Parochie van de H. Maria Magdalena te Lütgendortmund bij Dortmund | 7% | Obligatielening Obligatien aan Toonder | 1927 | hfl. |
+| 23 | Katholisches Kranken- und Armenhaus Dreikönigen-Hospital -Köln-Mülheim | Roomsch Katholiek Ziekenhuis Driekoningen-Hospitaal Keulen-Mülheim | 7% | Eerste Hypothecaire 15-jarige Obligatielening Obligatien aan Toonder | 1929 | hfl. |
+| 24 | Katholisches privates Lyzeum in Cleve E.V. | Roomsch-Katholiek Lyceum te Kleef | 6% | Eerste Hypothecaire 20-jarige Obligatielening Obligatien | 1927 | hfl. |
+| 25 | KettelerGesellschaft e.V. zu Bad Nauheim | Bisshop von Ketteler-Stichting te Bad-Nauheim | 7% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien aan Toonder | 1929 | hfl. |
+| 26 | Kloster der Cellitinnen zur Hl. Gertrud mit dem Mutterhaus in Düren | Orde der Zusters Augustinessen te Düren | 7 1/2% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien aan Toonder | 1927 | hfl. |
+| 27 | St. Marien-Hospital in Lünen a.d. Lippe | St. Marien-Hospital te Lünen a/d Lippe | 7% | Eerste Hypothecaire 15-jarige Obligatielening | 1929 | hfl. |
+| 28 | Verein für das St. Joseph-Stift, Bremen | St. Jozef Stichting te Bremen | 8% | 10-jarige Geldleening Obligatien | 1929 | hfl. |
+| 29 | Westdeutsche Provinz des Ordens der ehrwürdigen Schwestern Carmelitessen des göttlichen Herzen Jesu Theresia Kinderhaus zu Neuss St. Josefsheim, Stiftung für heimatlose Kinder zu Vechta | West-Duitsche Provincie van de Orde der E. E. Zusters Carmelitessen van het goddelijk Hart van Jezus Theresia-Kinderhuis te Neuss | 7% | Eerste Hypothecaire 10-jarige Obligatielening Obligatien aan Toonder | 1930 | hfl. |
+| II. Begebungsland: Schweiz |
+| (sämtlich auf sfrs. lautend) |
+| Lfd. Nr. | Aussteller | Ursprünglicher Zinssatz | Bezeichnung | Ausgabe-Jahr |
+| 1 | Baden, Freistaat | 6 1/2% | Teilschuldverschreibungen (Obligationen) | 1926 |
+| 2 | Badische Girozentrale, öffentliche Bankanstalt des Badischen Sparkassen-und Giroverbandes in Mannheim (jetzt: Badische Kommunale Landesbank Girozentrale - Mannheim) | 6 1/2% | Teilschuldverschreibungen | 1928 |
+| 3 | Badische Landeselektrizitätsversorgung Aktiengesellschaft (jetzt: Badenwerk A.G.) in Karlsruhe | 6% | Teilschuldverschreibungen | 1928 |
+| 4 | Badische Landeselektrizitätsversorgung Aktiengesellschaft (jetzt: Badenwerk A.G.) in Karlsruhe | 6% | Teilschuldverschreibungen | 1930 |
+| 5 | Berliner Städtische Elektrizitätswerke A.G. (jetzt: Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft) | 7% | Teilschuldverschreibungen (Obligationen) | 1925 |
+| 6 | Bochum, Stadt | 5% | Teilschuldverschreibungen | 1926 |
+| 7 | Dortmund, Stadt | 5% | Teilschuldverschreibungen | 1926 |
+| 8 | Elektrizitäts-Actien-Gesellschaft vorm. W. Lahmeyer & Co. - Frankfurt a.M. | 6% | Teilschuldverschreibungen (Obligationen) | 1927 |
+| 9 | Felten & Guilleaume Carlswerk Actien-Gesellschaft in Köln-Mülheim | 5 1/2% | Teilschuldverschreibungen | 1927 |
+| 10 | Freiburg im Breisgau, Stadt | 5% | Teilschuldverschreibungen | 1926 |
+| 11 | Gewerkschaft des Steinkohlenbergwerks Graf Schwerin zu Castrop-Rauxel, mit dem Verwaltungssitz in Bochum (jetzt: Bergbau-Aktiengesellschaft Lothringen) | 4 1/2% | Verpflichtungsscheine | 1930 |
+| 12 | Gewerkschaft des Steinkohlenbergwerks Graf Schwerin zu Castrop-Rauxel, mit dem Verwaltungssitz in Bochum (jetzt: Bergbau-Aktiengesellschaft Lothringen) | - | Zinstilgungsscheine | 1930 |
+| 13 | Heidelberg, Stadt | 5% | Teilschuldverschreibungen | 1926 |
+| 14 | Hessische Eisenbahn-Aktiengesellschaft (Heag) in Darmstadt (jetzt: Hessische Elektrizitäts-Aktiengesellschaft Darmstadt) | 6 1/2% | Teilschuldverschreibungen | 1929 |
+| 15 | Karlsruhe, Stadt | 5% | Teilschuldverschreibungen | 1926 |
+| 16 | Konstanz, Stadt | 6% | Teilschuldverschreibungen (Obligationen) | 1928 |
+| 17 | Kraftübertragungswerke Rheinfelden | 5% | Obligationen | 1927 |
+| 18 | Kraftwerk Reckingen Aktiengesellschaft | 4 1/2% | Obligationen | 1930 |
+| 19 | Krefeld, Stadt | 5% | Teilschuld verschreibungen | 1926 |
+| 20 | Lech-Elektrizitätswerke Aktien-Gesellschaft, Augsburg | 7% | Obligationen | 1926 |
+| 21 | Lech-Elektrizitätswerke Aktien-Gesellschaft, Augsburg | 7% | Obligationen | 1929 |
+| 22 | Nordwestdeutsche Kraftwerke Aktiengesellschaft: siehe "Siemens" Elektrische Betriebe Aktiengesellschaft |  |  |  |
+| 23 | Nürnberg, Stadt | 5% | Teilschuldverschreibungen | 1926 |
+| 24 | Rheinkraftwerk Albbruck-Dogern Aktiengesellschaft | 5 1/2% | Obligationen | 1930 |
+| 25 | Schluchseewerk Aktiengesellschaft | 6% | Obligationen | 1929 |
+| 26 | "Siemens" Elektrische Betriebe Aktiengesellschaft (jetzt: Nordwestdeutsche Kraftwerke Aktiengesellschaft) | 4 1/2% | Teilschuldverschreibungen | 1908/ 36/41 |
+| 27 | "Siemens" Elektrische Betriebe Aktiengesellschaft (jetzt: Nordwestdeutsche Kraftwerke Aktiengesellschaft) | 4 1/2% | Teilschuldverschreibungen | 1912 |
+| 28 | "Siemens" Elektrische Betriebe Aktiengesellschaft (jetzt: Nordwestdeutsche Kraftwerke Aktiengesellschaft) | 5% | Teilschuldverschreibungen | 1913 |
+| 29 | Tuchfabrik Lörrach Aktiengesellschaft | 5% | Teilschuldverschreibungen | 1931 |
+| 30 | Untere Iller Aktiengesellschaft in München | 6 1/2% | Obligationen | 1928 |
+| 31 | Wintershall Aktiengesellschaft in Berlin (Kali-Industrie-AG.) | 4 1/2% | Inhaber-Teilschuldverschreibungen | 1924 |
+| 32 | Württemberg, Freistaat | 6 1/2% | Teilschuldverschreibungen | 1931 |
+| 33 | Steinkohlenbergwerk Friedrich Heinrich Aktiengesellschaft - Lintfort, Kreis Mörs | 6% | Inhaber-Teilschuldverschreibungen, Serie A | 1928 |
+| III. Begebungsland: Vereinigtes Königreich von Großbritannien und Nordirland |
+| (sämtlich auf Pfund lautend) |
+| Lfd. Nr. | Aussteller | Zinssatz | Bezeichnung | Ausgabe-Jahr |
+| in deutscher Bezeichnung | in englischer Bezeichnung |
+| 1 | Berlin, Stadt | City of Berlin | 6% | Sterling Bonds | 1927 |
+| 2 | Hamburg, Hansestadt | State of Hamburg | 6% | Sterling Bonds | 1926 |
+| 3 | Köln, Stadt | City of Cologne | 6% | Sterling Bonds | 1928 |
+| 4 | Metallgesellschaft Aktiengesellschaft, Frankfurt a.M. |  | 6 1/2% | Sterling Bonds | 1928 |
+| 5 | München, Stadt | City of Munich | 6% | Sterling Bonds | 1928 |
+| 6 | Preußische ElektrizitätsAktiengesellschaft | Prussian Electric Company | 6% | Sterling Bonds | 1928 |
+| 7 | Provinzialverband der Provinz Westfalen | Province of Westphalia | 7% | Sterling Bonds | 1926 |
+| 8 | Deutsches Kalisyndikat G.m.b.H., Berlin | The Potash Syndicate of Germany | 7% | 25-Year Sinking Fund Gold Loan Series "A" Sterling Bonds | 1925 |
+| 9 | Deutsches Kalisyndikat G.m.b.H., Berlin | The Potash Syndicate of Germany | 7% | 25-Year Sinking Fund Gold Loan Series "B" Sterling Bonds | 1926 |
+| 10 | Deutsches Kalisyndikat G.m.b.H., Berlin | The Potash Syndicate of Germany | 6 1/2% | 25-Year Sinking Fund Gold Loan Series "C" Sterling Bonds | 1929 |
+| 11 | Hamburger Wasserwerke G.m.b.H. | Hamburg Waterworks | 6% | Sterling Loan | 1928 |
+| IV. Begebungsland: Vereinigte Staaten von Amerika |
+| (sämtlich auf $ lautend) |
+| Lfd. Nr. | Aussteller | Ursprünglicher Zinssatz | Bezeichnung | Ausgabe-Jahr |
+| in deutscher Bezeichnung | in amerikanischer Bezeichnung |
+| 1 | Allgemeine Elektricitäts-Gesellschaft (AEG) | General Electric Company, Germany | 7% | Twenty-Year Sinking Fund Gold Debentures -Due January 15, 1945 | 1925 |
+| 2 | Allgemeine Elektricitäts-Gesellschaft (AEG) | General Electric Company, Germany | 6 1/2% | Fifteen-Year Gold Sinking Fund Debentures - Due December 1, 1940 | 1925 |
+| 3 | Allgemeine Elektricitäts-Gesellschaft (AEG) | General Electric Company, Germany | 6% | Twenty-Years Sinking Fund Gold Debentures - Due May 1, 1948 | 1928 |
+| 4 | BayerischPfälzische Städte | Bavarian Palatinate Consolidated Cities, Germany | 7% | External Serial Gold Bonds | 1926 |
+| 5 | Bayern, Freistaat | Free State of Bavaria | 6 1/2% | Serial Gold Bonds | 1925 |
+| 6 | Bayern, Freistaat | Free State of Bavaria | 6 1/2% | External Twenty Year Sinking Fund Gold Bonds - Due August 1, 1945 | 1925 |
+| 7 | Berlin, Stadt | City of Berlin | 6 1/2% | Twenty-five Year Sinking Fund Gold Bonds - Due April First, 1950 | 1925 |
+| 8 | Berlin, Stadt | City of Berlin | 6% | Thirty Year External Sinking Fund Gold Bonds - Due June 15, 1958 | 1928 |
+| 9 | Berliner Städtische Elektrizitätswerke Akt.-Ges. (jetzt: Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft) | Berlin City Electric Company, Incorporated | 6 1/2% | Twenty-five Year Sinking Fund Debentures - Due December 1, 1951 | 1926 |
+| 10 | Berliner Städtische Elektrizitätswerke Akt.-Ges. (jetzt: Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft) | Berlin City Electric Company, Incorporated | 6 1/2% | Thirty-Year Sinking Fund Debentures - Due February 1, 1959 | 1929 |
+| 11 | Berliner Städtische Elektrizitätswerke Akt.-Ges. (jetzt: Berliner Kraft- und Licht (Bewag)-Aktiengesellschaft) | Berlin City Electric Company, Incorporated | 6% | Twenty-five Year Debentures - Due April 1, 1955 | 1930 |
+| 12 | Bezirksverband Oberschwäbische Elektrizitätswerke | Consolidated Hydro-Electric Works of Upper Wurttemberg | 7% | First Mortgage Thirty-Year Sinking Fund Gold Bonds - Due January 15, 1956 | 1926 |
+| 13 | BraunkohlenIndustrie-Aktien-gesellschaft "Zukunft" | Brown Coal Industrial Corporation "Zukunft" | 6 1/2% | Sinking Fund Mortgage Gold Bonds Series A -Due April 1, 1953 | 1928 |
+| 14 | Bremen, Freie Hansestadt | State of Bremen (Free Hanseatic City of Bremen) | 7% | Ten-Year External Loan Gold Bonds - Due September 1, 1935 | 1925 |
+| 15 | Central-Ausschuß für die Innere Mission der Deutschen Evangelischen Kirche | (Protestant Church in Germany Welfare Institutions Loan) | 7% | Twenty Year Secured Sinking Fund Gold Bonds | 1926 |
+| 16 | Deutsch-Atlantische Telegraphengesellschaft | German Atlantic Cable Company | 7% | First Mortgage Twenty-Year Sinking Fund Gold Dollar Bonds - Due April 1, 1945 | 1925 |
+| 17 | Deutsche Landesbankenzentrale Aktiengesellschaft | Central Bank of German State & Provincial Banks, Inc. | 6% | First Mortgage Secured Gold Sinking Fund Bonds Series A - Due August 1, 1952 | 1927 |
+| 18 | Deutsche Landesbankenzentrale Aktiengesellschaft | Central Bank of German State & Provincial Banks, Inc. | 6% | Mortgage Secured Gold Sinking Fund Bonds Series B - Due October 1, 1951 | 1927 |
+| 19 | Deutsche Landesbankenzentrale Aktiengesellschaft als Zentralagent für: Hannoversche Landeskreditanstalt, Landesbank der Provinz Schleswig-Holstein, Brandenburgische Provinzialbank und Giro-Zentrale, Landesbank der Rheinprovinz, Landesbank der Provinz Westfalen, Nassauische Landesbank, Badischen Sparkassen- und Giroverband, Badische Girozentrale, Württembergischen Sparkassen- und Giroverband und andere Kommunalbanken, Mittel- und Ost-deutschlands | Central Bank of German State & Provincial Banks, Inc. | 6 1/2% | German Provincial and Communal Banks Consolidated Agricultural Loan -Secured Sinking Fund Gold Bonds Series A -Due June 1, 1958 | 1928 |
+| 20 | Deutsche Rentenbank-Kreditanstalt Landwirtschaftliche Zentralbank | German Central Bank for Agriculture | 7% | First Lien Gold Farm Loan Sinking Fund Bonds - Due September 15, 1950 | 1925 |
+| 21 | Deutsche Rentenbank-Kreditanstalt Landwirtschaftliche Zentralbank | German Central Bank for Agriculture | 6% | Farm Loan Secured Gold Sinking Fund Bonds - Due July 15, 1960 | 1927 |
+| 22 | Deutsche Rentenbank-Kreditanstalt Landwirtschaftliche Zentralbank | German Central Bank for Agriculture | 6% | Farm Loan Secured Gold Sinking Fund Bonds - Second Series of 1927 - Due October 15, 1960 | 1927 |
+| 23 | Deutsche Rentenbank-Kreditanstalt Landwirtschaftliche Zentralbank | German Central Bank for Agriculture | 6% | Farm Loan Secured Gold Sinking Fund Bonds - Series A of 1928 - Due April 15, 1938 | 1928 |
+| 24 | Deutscher Sparkassen- und Giroverband | German Savings Banks and Clearing Association | 7% | German Consolidated Municipal Loan -Sinking Fund Secured Gold Bonds - Series of 1926 due 1947 - Due February 1, 1947 | 1926 |
+| 25 | Deutscher Sparkassen- und Giroverband | German Savings Banks and Clearing Association | 6% | German Consolidated Municipal Loan -Sinking Fund Secured Gold Bonds - Series due 1947 | 1928 |
+| 26 | Dortmunder Wasserwerksgesellschaft m.b.H., Dortmunder Aktiengesellschaft für Gasbeleuchtung, Dortmunder Straßenbahnen G.m.b.H. (jetzt: Dortmunder Stadtwerke Aktiengesellschaft) | Dortmund Municipal Utilities | 6 1/2% | Twenty-Year Sinking Fund Mortgage Gold Bonds - Due October 1, 1948 | 1928 |
+| 27 | Düsseldorf, Stadt | City of Duesseldorf | 7% | External Serial Gold Bonds | 1925 |
+| 28 | Duisburg, Stadt | City of Duisburg | 7% | Serial Gold Bonds | 1925 |
+| 29 | Elektrizitätswerk Unterelbe, Aktiengesellschaft | Unterelbe Power & Light Company | 6% | Twenty-five Year Sinking Fund Mortgage Gold Bonds, Series A -Due April 1, 1953 | 1928 |
+| 30 | Elektrowerke Aktiengesellschaft | Electric Power Corporation | 6 1/2% | First Mortgage Sinking Fund Gold Bonds -Series Due 1950 | 1925 |
+| 31 | Elektrowerke Aktiengesellschaft | Electric Power Corporation | 6 1/2% | First Mortgage Sinking Fund Gold Bonds -Series Due 1953 | 1928 |
+| 32 | Frankfurt am Main, Stadt | City of Frankfort-on-Main | 7% | Serial Gold Bonds External Loan of 1925 | 1925 |
+| 33 | Frankfurt am Main, Stadt | City of Frankfort-on-Main | 6 1/2% | Twenty-five-Year Sinking Fund Gold Bonds Municipal External Loan of 1928 - Due May 1, 1953 | 1928 |
+| 34 | Gas- und Eltwerke kommunale Aktiengesellschaft Recklinghausen | Municipal Gas and Electric Corporation of Recklinghausen | 7% | First Mortgage Twenty-Year Sinking Fund Gold Bonds - Due December 1, 1947 | 1927 |
+| 35 | Gesamtverband der acht bayerischen Diözesen | Roman Catholic Church in Bavaria | 6 1/2% | Twenty-Year Sinking Fund Gold Bonds Series A - Due March 1, 1946 | 1926 |
+| 36 | Gesellschaft für elektrische Hoch-und Untergrundbahnen in Berlin -(jetzt: Berliner Verkehrs-Betriebe (BVG)) | Berlin Electric Elevated and Underground Railways Company | 6 1/2% | Thirty-Year First Mortgage Sinking Fund Gold Bonds - Due October 1, 1956 | 1926 |
+| 37 | Gesfürel (Gesellschaft für Elektrische Unternehmungen) | Gesfürel | 6% | Sinking Fund Gold Debentures - Due June 1, 1953 | 1928 |
+| 38 | Großkraftwerk Mannheim AktienGesellschaft, Pfalzwerke Aktiengesellschaft | Mannheim and Palatinate Electric Companies | 7% | Fifteen-Year Sinking Fund Mortgage Gold Bonds - Due June 1, 1941 | 1926 |
+| 39 | Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb; Gutehoffnungshütte Oberhausen Aktiengesellschaft | "Good Hope Steel and Iron Works" | 7% | Twenty-Year Sinking Fund Mortgage Gold Bonds - Due October 15, 1945 | 1925 |
+| 40 | Hamburger Hochbahn Aktiengesellschaft | Hamburg Elevated Underground and Street Railways Co. | 5 1/2% | Ten-Year Gold Loan -Due June 1, 1938 | 1928 |
+| 41 | Hamburger Staat (Freie und Hansestadt Hamburg) | State of Hamburg (Free and Hanseatic City of Hamburg) | 6% | Twenty-Year Gold Bonds - Due October 1, 1946 | 1926 |
+| 42 | Hannover, Stadt | City of Hanover | 7% | Ten Year External Convertible Gold Bonds - Due November 1, 1939 | 1929 |
+| 43 | Hannover, Stadt | City of Hanover | 7% | External Sinking Fund Gold Bonds - Due November 1, 1959 | 1929 |
+| 44 | Harpener BergbauAktien-Gesellschaft | Harpen Mining Corporation | 6% | Gold Mortgage Bonds, Series of 1929 - Due January 1, 1949 | 1929 |
+| 45 | Harzwasserwerke der Provinz Hannover | Province of Hanover Harz Water Works | 6% | Sinking Fund Gold Bonds, First Series -Due August 1, 1957 | 1927 |
+| 46 | Harzwasserwerke der Provinz Hannover | Province of Hanover Harz Water Works | 6 1/2% | Sinking Fund Gold Bonds, Second Series -Due February 1, 1949 | 1929 |
+| 47 | Ilseder Hütte | Ilseder Steel Corporation | 6% | Gold Mortgage Bonds -Series of 1928 - Due August 1, 1948 | 1928 |
+| 48 | Rudolph Karstadt Aktiengesellschaft | Rudolph Karstadt, Incorporated | 6% | First Mortgage Collateral Sinking Fund Bonds - Due November 1, 1943 | 1928 |
+| 49 | Köln, Stadt | City of Cologne | 6 1/2% | Twenty-five Year Sinking Fund Gold Bonds - Due March 15, 1950 | 1925 |
+| 50 | Königsberger Zellstoff-Fabriken und Chemische Werke Koholyt Aktiengesellschaft | Koholyt Corporation | 6 1/2% | First (Closed) Mortgage Sinking Fund Gold Bonds | 1928 |
+| 51 | Kommunale Landesbank in Darmstadt | Municipal Bank of the State of Hessen | 7% | Serial Gold Bonds | 1925 |
+| 52 | Lüneburger Kraft-, Licht- und Wasserwerke Gesellschaft mit beschränkter Haftung | Luneburg Power, Light and Waterworks, Ltd. | 7% | First Mortgage Twenty-Year Sinking Fund Gold Bonds - Due May 1, 1948 | 1928 |
+| 53 | Mansfeld Aktiengesellschaft für Bergbau und Hüttenbetrieb | Mansfeld Mining and Smelting Company | 7% | Fifteen Year (closed) Mortgage Sinking Fund Gold Bonds - Due May 1, 1941 | 1926 |
+| 54 | "Miag" Mühlenbau und IndustrieAktiengesellschaft (jetzt: G.m.b.H.) | Miag Mill Machinery Company | 7% | Closed First Mortgage Thirty-Year Sinking Fund Gold Bonds - Due June 1, 1956 | 1926 |
+| 55 | München, Stadt | City of Munich | 7% | Serial Gold Bonds | 1925 |
+| 56 | Norddeutscher Lloyd (Bremen) | North German Lloyd Bremen | 6% | Twenty-Year Sinking Fund Gold Bonds - Due November 1, 1947 | 1927 |
+| 57 | Norddeutscher Lloyd (Bremen) | North German Lloyd Bremen | 4% | Sinking Fund Bonds of 1933 - Due November 1, 1947 | 1933 |
+| 58 | Nürnberg, Stadt | City of Nuremberg | 6% | External Twenty-five Year Sinking Fund Gold Bonds - Due August 1, 1952 | 1927 |
+| 59 | Oberpfalzwerke Aktiengesellschaft für Elektrizitätsversorgung (jetzt: Energieversorgung Ostbayern Aktiengesellschaft) | Oberpfalz Electric Power Corporation | 7% | First Mortgage Sinking Fund Gold Bonds | 1926 |
+| 60 | Oldenburg, Freistaat | Free State of Oldenburg | 7% | External Serial Gold Bonds | 1925 |
+| 61 | Pfälzische Städte: siehe BayerischPfälzische Städte |  |  |  |  |
+| 62 | Pfalzwerke Aktiengesellschaft: siehe Großkraftwerk Mannheim |  |  |  |  |
+| 63 | Preußische ElektrizitätsAktiengesellschaft (Preußenelektra) | Prussian Electric Company | 6% | Sinking Fund Gold Debentures - Due February 1, 1954 | 1929 |
+| 64 | Rhein-Elbe Union | Rheinelbe Union | 7% | Twenty-Year Sinking Fund Mortgage Gold Bonds - Due January 1, 1946 | 1926 |
+| 65 | RheinischWestfälisches Elektrizitätswerk Aktien-Gesellschaft | Rhine-Westphalia Electric Power Corporation | 7% | Direct Mortgage Gold Bonds - Due November 1, 1950 | 1925 |
+| 66 | RheinischWestfälisches Elektrizitätswerk Aktien-Gesellschaft | Rhine-Westphalia Electric Power Corporation | 6% | Direct Mortgage Gold Bonds - Due May 1, 1952 | 1927 |
+| 67 | RheinischWestfälisches Elektrizitätswerk Aktien-Gesellschaft | Rhine-Westphalia Electric Power Corporation | 6% | Consolidated Mortgage Gold Bonds - Due August 1, 1953 | 1928 |
+| 68 | RheinischWestfälisches Elektrizitätswerk Aktien-Gesellschaft | Rhine-Westphalia Electric Power Corporation | 6% | Consolidated Mortgage Gold Bonds - Due April 1, 1955 | 1930 |
+| 69 | Rhein-Main-Donau Aktiengesellschaft | Rhine-Main-Danube Corporation | 7% | Sinking Fund Gold Debentures, Series A -Due September 1, 1950 | 1925 |
+| 70 | Römisch-Katholische kirchliche Wohlfahrtseinrichtungen in Deutschland (Der Deutsche Caritasverband Eingetragener Verein, Die Katholische Schulorganisation Deutschlands (Landesausschuß Preußen) Eingetragener Verein und Der Reichsverband der Katholischen Gesellenhäuser, Lehrlings- und Ledigenheime Eingetragener Verein) | Roman Catholic Church Welfare Institutions in Germany | 7% | Twenty-Year Secured Sinking Fund Gold Bonds | 1926/28 |
+| 71 | Ruhrchemie Aktiengesellschaft | Ruhr Chemical Corporation | 6% | Sinking Fund Mortgage Bonds, Series A - Due April 1, 1948 | 1928 |
+| 72 | Ruhrgas Aktiengesellschaft | Ruhr Gas Corporation | 6 1/2% | Secured Sinking Fund Bonds, Series A - Due October 1, 1953 | 1928 |
+| 73 | RuhrwohnungsbauAktiengesellschaft | Ruhr Housing Corporation | 6 1/2% | First Mortgage Sinking Fund Bonds - Due November 1, 1958 | 1928 |
+| 74 | Leonhard Tietz Aktiengesellschaft (jetzt: Westdeutsche Kaufhof Aktiengesellschaft) | Leonhard Tietz, Incorporated | 7 1/2% | Twenty-Year Mortgage Gold Bonds | 1926 |
+| 75 | Vereinigte Badische Städte | Consolidated Municipalities of Baden | 7% | External Sinking Fund Gold Bonds - Due January 1, 1951 | 1926 |
+| 76 | Vereinigte Elektrizitätswerke Westfalen G.m.b.H. (jetzt: Aktiengesellschaft) | Westphalia United Electric Power Corporation | 6% | First Mortgage Sinking Fund Gold Bonds, Series A - Due January 1, 1953 | 1928 |
+| 77 | Vereinigte Industrieunternehmungen Aktiengesellschaft (Viag) | United Industrial Corporation (Viag) | 6% | Hydro-Electric First (Closed) Mortgage Sinking Fund Gold Bonds | 1925 |
+| 78 | Vereinigte Industrieunternehmungen Aktiengesellschaft (Viag) | United Industrial Corporation (Viag) | 6 1/2% | Sinking Fund Gold Debentures | 1926 |
+| 79 | Vereinigte Stahlwerke Aktiengesellschaft | United Steel Works Corporation | 6 1/2% | 25-Year Sinking Fund Mortgage Gold Bonds, Series A - Due June 1, 1951 | 1926 |
+| 80 | Vereinigte Stahlwerke Aktiengesellschaft | United Steel Works Corporation | 6 1/2% | 25-Year Sinking Fund Mortgage Gold Bonds, Series C - Due June 1, 1951 | 1926 |
+| 81 | Vereinigte Stahlwerke Aktiengesellschaft | United Steel Works Corporation | 6 1/2% | 20-Year Sinking Fund Debentures, Series A -Due July 1, 1947 | 1927 |
+| 82 | Vestische Kleinbahnen Gesellschaft mit beschränkter Haftung (Vestische Straßenbahn G.m.b.H.) | Vesten Electric Railways Company | 7% | First Mortgage Twenty Year Sinking Fund Gold Bonds - Due December 1, 1947 | 1927 |
+| 83 | Wasserwirtschaft im RheinischWestfälischen Industriegebiet (Ruhrkohlenbezirk), G.m.b.H. | Rhine-Ruhr Water Service Union | 6% | Twenty-five Year Sinking Fund External Gold Debentures - Due January 1, 1953 | 1928 |
+| 84 | WohnhausGrundstücks-Verwertungs-Aktiengesellschaft am Lehniner Platz | Housing and Realty Improvement Company, Berlin | 7% | First (Closed) Mortgage Twenty Year Sinking Fund Gold Bonds | 1926 |
+| 85 | Württembergische Städte und Gemeinden | (State of Wurttemberg Consolidated Municipal External Loan of 1925) | 7% | Serial Gold Bonds | 1925 |
+| 86 | Heidelberg, Stadt | City of Heidelberg | 7 1/2% | External Twenty-five Year Sinking Fund Gold Bonds - Due July 1, 1950 | 1925 |
+| 87 | Siemens & Halske Aktiengesellschaft; Siemens-Schuckertwerke, Gesellschaft mit beschränkter Haftung (jetzt: Aktiengesellschaft) | Siemens & Halske Stock Corporation; Siemens-Schuckertwerke Company, Limited | 6 1/2% | Twenty-five Year Sinking Fund Gold Debentures - Due September 1, 1951 | 1926 |
+| 88 | Siemens & Halske Aktiengesellschaft | Siemens & Halske Stock Corporation | 6% | Participating Debentures, Series A -Due January 15, 1930 | 1930 |

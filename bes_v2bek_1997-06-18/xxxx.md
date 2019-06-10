@@ -1,0 +1,4 @@
+# (XXXX)
+
+Auf Grund des § 13 der Zweiten Besoldungs-Übergangsverordnung in der Fassung der Bekanntmachung vom 2. Juni 1993 (BGBl. I S. 778, 1035), die zuletzt durch Artikel 8 des Gesetzes vom 24. März 1997 (BGBl. I S. 590) geändert worden ist, werden in den nachstehenden Anlagen IA bis IC die sich nach § 2 Abs. 1 dieser Verordnung auf der Grundlage der Anlagen IV, V und IX des Bundesbesoldungsgesetzes in der Fassung der Bekanntmachung vom 16. Mai 1997 (BGBl. I S. 1065) ergebenden Dienstbezüge für die Zeit vom 1. Juli bis 31. August 1997 sowie in den nachstehenden Anlagen IIA bis IID die sich nach § 2 Abs. 1 und § 3 Abs. 2 dieser Verordnung auf der Grundlage der Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes in der vorbezeichneten Fassung ergebenden Dienst- und Anwärterbezüge für die Zeit ab 1. September 1997 bekanntgemacht.
+Der Bundesminister des Innern

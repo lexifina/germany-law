@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 38 Absatz 5 Satz 1, des § 106 Satz 1, des § 121 Absatz 4 Satz 1, dieser auch in Verbindung mit § 148 Absatz 1, und des § 136 Absatz 4 Satz 1, dieser auch in Verbindung mit § 159 Satz 1, des Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 11. Juli 2013 (BGBl. I S. 2231) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz:

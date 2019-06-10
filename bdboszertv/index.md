@@ -1,0 +1,15 @@
+# Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endgeräte durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Gegenstand der Zertifizierung](0001.md)
+- [§ 2 Antrag](0002.md)
+- [§ 3 Änderungszertifizierung](0003.md)
+- [§ 4 Anzeige unwesentlicher Änderungen nach § 15a Absatz 3 Satz 4 des BDBOS-Gesetzes](0004.md)
+- [§ 5 Anforderungen und Prüfkriterien; BOS-IOP-Richtlinien](0005.md)
+- [§ 6 Veröffentlichung nicht allgemein zugänglicher Informationen](0006.md)
+- [§ 7 Überprüfung der Endgeräte](0007.md)
+- [§ 8 Mitwirkungspflichten des Antragstellers](0008.md)
+- [§ 9 Zertifikat](0009.md)
+- [§ 10 Rückgabe von Einzelstücken](0010.md)
+- [§ 11 Übergangsregelung](0011.md)
+- [§ 12 Inkrafttreten](0012.md)

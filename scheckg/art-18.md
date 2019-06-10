@@ -1,0 +1,6 @@
+# Art 18
+
+(1)
+Der Indossant haftet mangels eines entgegenstehenden Vermerks für die Zahlung.
+(2)
+Er kann untersagen, daß der Scheck weiter indossiert wird; in diesem Falle haftet er denen nicht, an die der Scheck weiter indossiert wird.

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Um die politische Zuordnung geschlossener Siedlungen im Interesse der betroffenen Einwohner zu den Gemeinden und Gemeindeverbänden herzustellen, die den Schwerpunkt der Lebensbeziehungen der Einwohner bilden, und um einen zweckmäßigen Verlauf der gemeinsamen Landesgrenze herbeizuführen, schließen die Länder Hessen und Nordrhein-Westfalen – im Folgenden: Länder – nach Anhörung der betroffenen kommunalen Gebietskörperschaften aufgrund des Artikels 29 Absatz 7 des Grundgesetzes in Verbindung mit § 2 Absatz 1 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) folgenden Staatsvertrag:

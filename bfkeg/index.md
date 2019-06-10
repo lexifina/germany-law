@@ -1,0 +1,6 @@
+# Gesetz über die Errichtung eines Bundesamtes für kerntechnische Entsorgungssicherheit
+
+- [§ 1 Errichtung](0001.md)
+- [§ 2 Aufgaben](0002.md)
+- [§ 3 Aufsicht](0003.md)
+- [§ 4 Übergangsvorschriften](0004.md)

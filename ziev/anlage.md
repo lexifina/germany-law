@@ -1,0 +1,79 @@
+# Anlage (zu § 12 Absatz 1) ZEM Meldebogen zur Berechnung der Eigenmittelanforderungen nach § 15 ZAG
+
+(Fundstelle: BGBl. I 2018, 2333 - 2336)
+| Institutsnummer: | Prüfziffer: |
+| Name: | Ort: |
+| Meldestichtag: | Sachbearbeiter/-in: |
+|  | Telefon: |
+1. Berechnung der Eigenmittel
+|  | ID | Bezeichnung | Betrag (in Euro) 01 | Kommentare 02 |
+| 0010 | 1 | Eigenmittel |  | 1.1 + 1.2 + 1.4 + 1.5 |
+| 0020 | 1.1 | Kernkapital gem. Art. 25 CRR |  | 1.1.1 + 1.1.2 |
+| 0030 | 1.1.1 | Hartes Kernkapital gem. Art. 26 CRR |  | 1.1.1.1 + 1.1.1.2 + 1.1.1.3 + 1.1.1.4 + 1.1.1.5 + 1.1.1.6 + 1.1.1.7 + 1.1.1.8 + 1.1.1.9 + 1.1.1.10 + 1.1.1.11 |
+| 0040 | 1.1.1.1 | (+) | eingezahlte Kapitalinstrumente (inklusive Agio) gem. Art. 28 CRR |  |  |
+| 0050 |  | nachrichtlich: Kredite an Gesellschafter |  |  |
+| 0060 | 1.1.1.2 | (–) | Entnahmen der Gesellschafter |  |  |
+| 0070 | 1.1.1.3 | (+/–) | einbehaltene Gewinne gem. Art. 26 Abs. 1 Satz 1 Buchstabe c CRR |  |  |
+| 0080 | 1.1.1.4 | (+) | sonstige Rücklagen gem. Art. 26 Abs. 1 Satz 1 Buchstabe e CRR |  | 1.1.1.4.1 + 1.1.1.4.2 |
+| 0090 | 1.1.1.4.1 | darunter: Kapitalrücklagen |  |  |
+| 0100 | 1.1.1.4.2 | darunter: Gewinnrücklagen |  |  |
+| 0110 | 1.1.1.5 | (+) | Fonds für allgemeine Bankrisiken gem. Art. 26 Abs. 1 Satz 1 Buchstabe f CRR i. V. m. § 340g HGB |  |  |
+| 0120 | 1.1.1.6 | (–) | Verluste des laufenden Geschäftsjahres gem. Art. 36 Abs. 1 Buchstabe a CRR |  |  |
+| 0130 | 1.1.1.7 | (–) | immaterielle Vermögenswerte (inklusive bilanzierte Geschäfts- oder Firmenwerte) gem. Art. 36 Abs. 1 Buchstabe b i. V. m. Art. 37 CRR |  |  |
+| 0140 | 1.1.1.8 | (–) | in der Bilanz ausgewiesene Vermögenswerte aus Pensionsfonds mit Leistungszusage gem. Art. 36 Abs. 1 Buchstabe e CRR i. V. m. Art. 41 Abs. 1 Buchstabe b CRR |  |  |
+| 0150 | 1.1.1.9 | (–) | eigene Instrumente des harten Kernkapitals gem. Art. 36 Abs. 1 Buchstabe f CRR |  |  |
+| 0160 | 1.1.1.10 | (–) | der maßgebliche Betrag der direkten, indirekten und synthetischen Positionen in Instrumenten des harten Kernkapitals von Unternehmen der Finanzbranche |  | 1.1.1.10.1 + 1.1.1.10.2 |
+| 0170 | 1.1.1.10.1 | darunter: an denen das Institut keine wesentliche Beteiligung hält (gem. Art. 36 Abs. 1 Buchstabe h CRR) |  |  |
+| 0180 | 1.1.1.10.2 | darunter: an denen das Institut eine wesentliche Beteiligung hält (gem. Art. 36 Abs. 1 Buchstabe i CRR) |  |  |
+| 0190 | 1.1.1.11 | (+/–) | andere Bestandteile oder Abzüge bezüglich des harten Kernkapitals gem. Art. 26 oder Art. 36 CRR |  |  |
+| 0200 | 1.1.2 | Zusätzliches Kernkapital gem. Art. 51 i. V. m. Art. 52 CRR |  | 1.1.2.1 + 1.1.2.2 + 1.1.2.3 |
+| 0210 | 1.1.2.1 | (+) | eingezahlte Kapitalinstrumente (inklusive Agio) gem. Art. 52 CRR |  |  |
+| 0220 | 1.1.2.2 | (–) | eigene Instrumente des zusätzlichen Kernkapitals gem. Art. 56 Buchstabe a CRR |  |  |
+| 0230 | 1.1.2.3 | (+/–) | andere Bestandteile oder Abzüge bezüglich des zusätzlichen Kernkapitals gem. Art. 51 oder Art. 56 CRR |  |  |
+| 0240 | 1.2 | Ergänzungskapital gem. Art. 71 i. V. m. Art. 62 CRR |  | 1.2.1 + 1.2.2 |
+| 0250 | 1.2.1 | (+) | eingezahlte Kapitalinstrumente (inklusive Agio) gem. Art. 63 CRR |  |  |
+| 0260 | 1.2.2 | (+/–) | andere Bestandteile oder Abzüge bezüglich des Ergänzungskapitals gem. Art. 62 oder Art. 66 CRR |  |  |
+| 0270 | 1.3 | Zwischenergebnis: Eigenmittel brutto |  | 1.1 + 1.2 |
+| 0280 | 1.4 | (–) | Abzugsposten für Beteiligungen gem. § 15 Abs. 1 Satz 3 ZAG |  |  |
+| 0290 | 1.5 | Korrekturposten gem. § 15 Abs. 1 Satz 4 ZAG |  |  |
+Hinweis: Die dargestellte Tabelle deckt nicht sämtliche Positionen zur Berechnung der Eigenmittel ab; hierzu wird ausdrücklich auf § 15 ZAG in Verbindung mit § 1 Abs. 29 ZAG verwiesen. Abweichend von der Ermittlung der anrechenbaren Eigenmittel besteht das Anfangskapital nach § 1 Abs. 30 ZAG nur aus den Positionen des harten Kernkapitals gemäß Art. 26 Abs. 1 Satz 1 Buchstabe a bis e CRR.
+2. Berechnung der Eigenmittelanforderungen für Zahlungsinstitute
+| 0300 | Skalierungsfaktor |  | gemäß § 2 Abs. 2 ZIEV |
+|  | ID | Bezeichnung | Betrag1 (in Euro) 01 | Kommentare 02 |
+| 0310 | 2 | Eigenmittelanforderungen für Zahlungsinstitute insgesamt |  | Endergebnis der gerechneten Methode |
+| 0320 | 2.1 | Eigenmittelanforderungen nach Methode A |  | Eigenmittelanforderungen nach § 3 ZIEV (2.1.1 + 2.1.2 + 2.1.3) * 0,1 |
+| 0330 | 2.1.1 | Allgemeine Verwaltungsaufwendungen |  |  |
+| 0340 | 2.1.2 | Abschreibungen und Wertberichtigungen auf immaterielle Anlagewerte und Sachanlagen |  |  |
+| 0350 | 2.1.3 | Sonstige betriebliche Aufwendungen |  |  |
+| 0360 | 2.2 | Eigenmittelanforderungen nach Methode B |  | Eigenmittelanforderungen nach § 4 ZIEV (2.2.1.1 + 2.2.1.2 + 2.2.1.3 + 2.2.1.4 + 2.2.1.5) * Zeile 0300 |
+| 0370 | 2.2.1 | Zahlungsvolumen |  |  |
+| 0380 | 2.2.1.1 | Tranche bis 5 Mio. Euro |  | Betrag nach § 4 Nr. 1 ZIEV |
+| 0390 | 2.2.1.2 | Tranche von über 5 Mio. bis 10 Mio. Euro |  | Betrag nach § 4 Nr. 2 ZIEV |
+| 0400 | 2.2.1.3 | Tranche von über 10 Mio. bis 100 Mio. Euro |  | Betrag nach § 4 Nr. 3 ZIEV |
+| 0410 | 2.2.1.4 | Tranche von über 100 Mio. bis 250 Mio. Euro |  | Betrag nach § 4 Nr. 4 ZIEV |
+| 0420 | 2.2.1.5 | Tranche über 250 Mio. Euro |  | Betrag nach § 4 Nr. 5 ZIEV |
+| 0430 | 2.3 | Eigenmittelanforderungen nach Methode C |  | Eigenmittelanforderungen nach § 5 ZIEV (2.3.5.1 + 2.3.5.2 + 2.3.5.3 + 2.3.5.4 + 2.3.5.5) * Zeile 0300; mindestens 0,8 * Betrag in Zeile 540 |
+| 0440 | 2.3.1 | Zinserträge |  |  |
+| 0450 | 2.3.2 | (–) | Zinsaufwand |  |  |
+| 0460 | 2.3.3 | Einnahmen aus Provisionen und Entgelten |  |  |
+| 0470 | 2.3.4 | Sonstige betriebliche Erträge |  |  |
+| 0480 | 2.3.5 | Maßgeblicher Indikator |  | 2.3.1 + 2.3.2 + 2.3.3 + 2.3.4 |
+| 0490 | 2.3.5.1 | Tranche bis 2,5 Mio. Euro |  | Betrag nach § 5 Abs. 3 Nr. 1 ZIEV |
+| 0500 | 2.3.5.2 | Tranche von über 2,5 Mio. bis 5 Mio. Euro |  | Betrag nach § 5 Abs. 3 Nr. 2 ZIEV |
+| 0510 | 2.3.5.3 | Tranche von über 5 Mio. bis 25 Mio. Euro |  | Betrag nach § 5 Abs. 3 Nr. 3 ZIEV |
+| 0520 | 2.3.5.4 | Tranche von über 25 Mio. bis 50 Mio. Euro |  | Betrag nach § 5 Abs. 3 Nr. 4 ZIEV |
+| 0530 | 2.3.5.5 | Tranche über 50 Mio. Euro |  | Betrag nach § 5 Abs. 3 Nr. 5 ZIEV |
+| 0540 | 2.3.6 | Eigenmittelanforderungen nach Methode C unter Verwendung des Durchschnittswerts des maßgeblichen Indikators für vorausgegangene drei Geschäftsjahre |  |  |
+3. Berechnung der Eigenmittelanforderungen für E-Geld-Institute
+| 0550 | 3 | Eigenmittelanforderungen für E-Geld-Institute insgesamt |  | Eigenmittelanforderungen nach § 7 ZIEV = 3.1 + 3.2 |
+| 0560 | 3.1 | Eigenmittelanforderungen nach Methode D |  | Eigenmittelanforderungen nach § 9 ZIEV = 3.1.2 |
+| 0570 | 3.1.1 | Durchschnittlicher E-Geld-Umlauf i. S. d. § 1 Abs. 14 ZAG |  |  |
+| 0580 | 3.1.2 | Gewichtung des durchschnittlichen E-Geld-Umlaufs |  | = 3.1.1 * 0,02 |
+| 0590 | 3.2 | Eigenmittelanforderungen für erbrachte Zahlungsdienste |  | Gemäß § 8 ZIEV = Zelle 310 |
+4. Überschuss/Defizit oder Eigenmittel
+| 0600 | Überschuss/Defizit ohne Korrekturposten gem. § 15 Abs. 1 Satz 2 und Abs. 2 Satz 3 ZAG |  | 0010 – 0310 nur bei Zahlungsinstituten |
+| 0610 | Überschuss/Defizit ohne Korrekturposten gem. § 15 Abs. 1 Satz 2 und Abs. 2 Satz 3 ZAG |  | 0010 – 0550 nur bei E-Geld-Instituten |
+| 0620 | Überschuss/Defizit inklusive Korrekturposten gem. § 15 Abs. 1 Satz 2 und Abs. 2 Satz 3 ZAG |  | 0600 mit Korrekturposten gewichtet |
+| 0630 | Überschuss/Defizit inklusive Korrekturposten gem. § 15 Abs. 1 Satz 2 und Abs. 2 Satz 3 ZAG |  | 0610 mit Korrekturposten gewichtet |
+5. Eigenmittelunterlegung nach der CRR
+| 0640 | Eigenmittelunterlegung erfolgt nach CRR |  |  |

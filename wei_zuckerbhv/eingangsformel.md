@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Abs. 1 Nr. 1 Buchstabe l, der §§ 15, 16 und 17 Abs. 2 Satz 3 und 4 sowie des § 31 Abs. 2 Satz 1 Nr. 2 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der Direktzahlungen in der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847), von denen § 31 Abs. 2 durch Artikel 34 des Gesetzes vom 13. April 2006 (BGBl. I S. 855) geändert worden ist, in Verbindung mit § 1 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Technologie:

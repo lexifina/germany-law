@@ -1,0 +1,102 @@
+# Anlage 2 (zu § 3 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
+
+– Zeitliche Gliederung –
+Die nachfolgende zeitliche Gliederung nennt die Zeiträume des Abschnittes B nach § 3 Absatz 2, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten erstmals schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich. Die Fortführung der Inhalte des Abschnittes A nach § 3 Absatz 2 ist, abweichend davon, in den nachfolgend aufgeführten Zeiträumen in den jeweiligen Ausbildungsjahren gesondert dargestellt.
+Während der gesamten Ausbildungszeit sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt B Nummer | 2.3 | Interkulturelle Kompetenzen, Lernziel b, |
+| Abschnitt B Nummer | 2.4 | Informations- und Kommunikationssysteme, |
+| Abschnitt A Nummer | 3.1 | Anliegensteuerung |
+zu vermitteln.
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt B Nummer | 1.1 | Stellung, Rechtsform, Kernaufgaben und Organisationsstruktur, Lernziele a und b, |
+| Abschnitt B Nummer | 1.4 | Berufsbildung, arbeits-, sozial- sowie tarif- und dienstrechtliche Vorschriften, Lernziele a und b, |
+| Abschnitt B Nummer | 1.5 | Sicherheit und Gesundheitsschutz bei der Arbeit, |
+| Abschnitt B Nummer | 1.6 | Umweltschutz und nachhaltiges Handeln, |
+| Abschnitt B Nummer | 2.1 | Arbeits- und Selbstorganisation, Lernziele a bis d, |
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 1.1 | Adressaten- und situationsgerechte Kommunikation, Lernziele a und b, |
+| Abschnitt A Nummer | 1.2 | Klärung des Kundenanliegens, |
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziele a bis c, |
+| Abschnitt A Nummer | 3.2 | Beratung und Vermittlung sowie Integration, Lernziele a und b, |
+| Abschnitt A Nummer | 3.3 | Leistungen zur Förderung des Arbeitsmarktausgleichs, Lernziele a und b, |
+| Abschnitt A Nummer | 4.2 | Controlling und Finanzen, Lernziel a, |
+| Abschnitt B Nummer | 1.2 | Organisationsziele, Qualitäts- und Prozessmanagement, Lernziele a, b und d, |
+| Abschnitt B Nummer | 2.2 | Teamarbeit und Kooperation, Lernziel a, |
+| Abschnitt B Nummer | 2.3 | Interkulturelle Kompetenz, Lernziel a, |
+| Abschnitt B Nummer | 2.5 | Datenschutz und Datensicherheit |
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 1.1 | Adressaten- und situationsgerechte Kommunikation, Lernziele c und d, |
+| Abschnitt A Nummer | 3.4 | Leistungen der sozialen Sicherung nach dem Dritten Buch Sozialgesetzbuch, Lernziele a und b, |
+| Abschnitt B Nummer | 2.2 | Teamarbeit und Kooperation, Lernziel b, |
+| in Verbindung mit |  |  |
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziel d, |
+zu vermitteln.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 4.1 | Personalsachbearbeitung, Lernziele a bis c, |
+| Abschnitt A Nummer | 4.2 | Controlling und Finanzen, Lernziel b, |
+| Abschnitt B Nummer | 1.1 | Stellung, Rechtsform, Kernaufgaben und Organisationsstruktur, Lernziele c bis e, |
+| Abschnitt B Nummer | 1.4 | Berufsbildung, arbeits-, sozial- sowie tarif- und dienstrechtliche Vorschriften, Lernziele c bis e, |
+| Abschnitt B Nummer | 2.1 | Arbeits- und Selbstorganisation, Lernziel e, |
+| zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition |
+| Abschnitt A Nummer | 1.2 | Klärung des Kundenanliegens |
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 3.2 | Beratung und Vermittlung sowie Integration, Lernziele c und d, |
+| Abschnitt A Nummer | 3.3 | Leistungen zur Förderung des Arbeitsmarktausgleichs, Lernziele c bis e, |
+| Abschnitt B Nummer | 1.3 | Markt- und Wettbewerbssituation, Lernziel a, |
+| zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus |
+| Abschnitt A Nummer | 1.1 | Adressaten- und situationsgerechte Kommunikation, Lernziele c und d, |
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziele a bis d, |
+| Abschnitt A Nummer | 3.2 | Beratung und Vermittlung sowie Integration, Lernziele a und b, |
+| Abschnitt A Nummer | 3.3 | Leistungen zur Förderung des Arbeitsmarktausgleichs, Lernziele a und b, |
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 1.1 | Adressaten- und situationsgerechte Kommunikation, Lernziel e, |
+| Abschnitt A Nummer | 1.3 | Konfliktmanagement, |
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziele e bis g, |
+| Abschnitt A Nummer | 3.4 | Leistungen der sozialen Sicherung nach dem Dritten Buch Sozialgesetzbuch, Lernziele c und d, |
+| Abschnitt A Nummer | 3.5 | Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht, Lernziele a und b, |
+| Abschnitt A Nummer | 4.2 | Controlling und Finanzen, Lernziel c, |
+| zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus |
+| Abschnitt A Nummer | 1.1 | Adressaten- und situationsgerechte Kommunikation, |
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziel d, |
+fortzuführen.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt ein bis drei Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 4.1 | Personalsachbearbeitung, Lernziel d, |
+| Abschnitt A Nummer | 4.2 | Controlling und Finanzen, Lernziele d und e, |
+| Abschnitt B Nummer | 1.2 | Organisationsziele, Qualitäts- und Prozessmanagement, Lernziel c, |
+| Abschnitt B Nummer | 1.4 | Berufsbildung, arbeits-, sozial- sowie tarif- und dienstrechtliche Vorschriften, Lernziel f, |
+| Abschnitt B Nummer | 2.2 | Teamarbeit und Kooperation, Lernziel c, |
+| zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus |
+| Abschnitt A Nummer | 1.1 | Adressaten- und situationsgerechte Kommunikation |
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt B Nummer | 1.3 | Markt- und Wettbewerbssituation, Lernziel b, |
+| Abschnitt B Nummer | 2.3 | Interkulturelle Kompetenz, Lernziel c, |
+| zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus |
+| Abschnitt A Nummer | 1.3 | Konfliktmanagement, |
+| Abschnitt A Nummer | 3.2 | Beratung und Vermittlung sowie Integration, |
+| Abschnitt A Nummer | 3.3 | Leistungen zur Förderung des Arbeitsmarktausgleichs |
+fortzuführen.
+(3)
+In einem Zeitraum von fünf bis sieben Monaten sind die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus § 3 Absatz 2
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziel h, |
+| Abschnitt A Nummer | 3.5 | Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht, Lernziel c, |
+| zu vermitteln und im Zusammenhang damit die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus |
+| Abschnitt A Nummer | 2 | Rechtsanwendungen, Lernziele a bis g, |
+| Abschnitt A Nummer | 3.5 | Leistungen der sozialen Sicherung nach dem Zweiten Buch Sozialgesetzbuch sowie Auftragsleistungen nach dem Steuer- und Sozialrecht, Lernziele a und b, |
+| Abschnitt A Nummer | 4.2 | Controlling und Finanzen, Lernziel c, |
+fortzuführen.

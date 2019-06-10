@@ -1,0 +1,93 @@
+# Anlage 10 (zu § 10 Absatz 4 und 6)Register der Zusatzbescheinigungen für Triebfahrzeugführer
+
+1. Register der Zusatzbescheinigungen
+  Das Register gestaltet sich wie folgt:
+  | Nr. | Anzuzeigende Daten |
+  | Inhalt | Format | Status der Angabe |
+  Teil 1
+  Angaben zum Triebfahrzeugführerschein
+  | 1 | Nummer des Triebfahrzeugführerscheins |
+  | 1.1 | Nummer des Triebfahrzeugführerscheins, die den Zugriff auf Daten im Register der Triebfahrzeug- führerscheine ermöglicht | EIN (12 Ziffern) | Verbindlich |
+  | 2 | Aktueller Status des Triebfahrzeugführerscheins |
+  | 2.1 | Angabe des aktuellen Status des Triebfahrzeug- führerscheins –gültig–ausgesetzt–entzogen | Text | Verbindlich |
+  Teil 2
+  Informationen über die erteilte Zusatzbescheinigung (entsprechend der Anlage 2 TfV)
+  | 3 | Name des Inhabers (identisch mit dem Namen auf dem Triebfahrzeugführerschein) |
+  | 3.1 | Im Reisepass oder Personalausweis angegebener Name | Text | Verbindlich |
+  | 4 | Vorname des Inhabers (identisch mit dem Vornamen auf dem Triebfahrzeugführerschein) |
+  | 4.1 | Im Reisepass oder Personalausweis angegebener Vorname | Text | Verbindlich |
+  | 5 | Geburtsdatum des Inhabers |
+  | 5.1 | Geburtsdatum des Inhabers | JJJJ-MM-TT | Verbindlich |
+  | 6 | Geburtsort des Inhabers |
+  | 6.1 | Geburtsort des Inhabers | Text | Verbindlich |
+  | 7 | Ausstellungsdatum der Zusatzbescheinigung |
+  | 7.1 | Datum der Ausstellung der Zusatzbescheinigung | JJJJ-MM-TT | Verbindlich |
+  | 8 | Datum des Ablaufs der Gültigkeit der Zusatzbescheinigung |
+  | 8.1 | Gültigkeit der Zusatzbescheinigung: unbefristet | Text | Verbindlich |
+  | 9 | Bezeichnung des ausstellenden Unternehmens |
+  | 9.1 | Bezeichnung des ausstellenden Unternehmens | Text | Verbindlich |
+  | 11 | Lichtbild des Inhabers |
+  | 11.1 | Lichtbild | Original oder eingescanntes Bild | Verbindlich |
+  | 12 | Unterschrift des Inhabers |
+  | 12.1 | Unterschrift | Original/Fotokopie/ eingescannte Unterschrift | Verbindlich |
+  | 14 | Anschrift des Unternehmers, der den Triebfahrzeugführer verantwortlich einsetzt |
+  | 14.1 | Anschrift des Unternehmers | Straße und Hausnummer | Text | Verbindlich |
+  | 14.2 | Ort | Text | Verbindlich |
+  | 14.3 | Land | Text | Verbindlich |
+  | 14.4 | Postleitzahl | Alphanumerische Angabe | Verbindlich |
+  | 14.6 | Telefonnummer | Text | Verbindlich |
+  | 14.7 | Faxnummer | Text | Verbindlich |
+  | 14.8 | E-Mail-Adresse | Text | Verbindlich |
+  | 15 | Klasse |
+  | 15.1 | Entsprechende Kodierung | Text | Verbindlich |
+  | 16 | Fahrzeuge, die der Triebfahrzeugführer führen darf |
+  | 16.1 | (Auflistung) | Text | Verbindlich |
+  | 16.2 | Für jeden Eintrag ist das Datum der voraussichtlich nächsten Überprüfung anzuführen | JJJJ-MM-TT | Verbindlich |
+  | 17 | Infrastruktur, auf der der Triebfahrzeugführer fahren darf |
+  | 17.1 | (Auflistung) | Text | Verbindlich |
+  | 17.2 | Für jeden Eintrag ist das Datum der voraussichtlich nächsten Überprüfung anzuführen | JJJJ-MM-TT | Verbindlich |
+  | 18 | Sprachkenntnisse |
+  | 18.1 | (Auflistung) | Text | Verbindlich |
+  | 18.2 | Für jeden Eintrag ist das Datum der voraussichtlich nächsten Überprüfung anzuführen | JJJJ-MM-TT | Verbindlich |
+  | 19 | Zusätzliche Angaben |
+  | 19.1 | (Auflistung) | Text | Verbindlich |
+  | 20 | Einschränkungen |
+  | 20.1 | (Auflistung) | Text | Verbindlich |
+  Teil 3
+  Aufzeichnungen zum Status der Zusatzbescheinigung
+  | 23 | Änderung(en) |
+  | 23.1 | Datum der Änderung | JJJJ-MM-TT | Verbindlich |
+  |  | Gründe für Änderungen in Bezug auf bestimmte Teile der Zusatzbescheinigung –Änderungen in Feld 3, „Klasse“–Änderungen in Feld 4, „Zusätzliche Angaben“–Änderungen in Feld 5, Erwerb neuer Sprach- kenntnisse oder regelmäßige Überprüfung von Kenntnissen–Änderungen in Feld 6, „Einschränkungen“–Änderungen in Spalte 7, Erwerb neuer Kenntnisse in Bezug auf Fahrzeuge oder regelmäßige Überprüfung von Kenntnissen–Änderungen in Spalte 8, Erwerb neuer Kenntnisse in Bezug auf Infrastruktur oder regelmäßige Überprüfung von Kenntnissen | Text | Verbindlich |
+  | 24 | Aussetzung(en) nach § 12 Absatz 2 Satz 2 in Verbindung mit § 5 Absatz 2 TfV |
+  | 24.1 | Dauer der Aussetzung | Von (Datum) bis (Datum) | Verbindlich |
+  | 24.2 | Grund der Aussetzung –Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 1 TfV–Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 2 TfV–Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 3 und Satz 2 TfV–Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 4 TfV | Text | Verbindlich |
+  | 25 | Entziehung nach § 12 Absatz 2 Satz 2 TfV in Verbindung mit § 5 Absatz 2 TfV |
+  | 25.1 | Datum der Entziehung | JJJJ-MM-TT | Verbindlich |
+  | 25.2 | Grund der Entziehung –Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 1 TfV–Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 2 TfV–Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 3 und Satz 2 TfV–Wegfall der Voraussetzung nach § 5 Absatz 2 Satz 1 Nummer 4 TfV | Text | Verbindlich |
+  | 26 | Als verloren gemeldete Zusatzbescheinigung |
+  | 26.1 | Datum der Meldung | JJJJ-MM-TT | Verbindlich |
+  | 26.2 | Datum der Ausstellung einer Ersatzbescheinigung | JJJJ-MM-TT | Verbindlich |
+  | 27 | Als entwendet gemeldete Zusatzbescheinigung |
+  | 27.1 | Datum der Meldung | JJJJ-MM-TT | Verbindlich |
+  | 27.2 | Datum der Ausstellung einer Ersatzbescheinigung | JJJJ-MM-TT | Verbindlich |
+  | 28 | Als zerstört gemeldete Zusatzbescheinigung |
+  | 28.1 | Datum der Meldung | JJJJ-MM-TT | Verbindlich |
+  | 28.2 | Datum der Ausstellung einer Ersatzbescheinigung | JJJJ-MM-TT | Verbindlich |
+  Teil 4
+  Aufzeichnungen in Verbindung mit den grundlegenden Anforderungen
+  bei der Erteilung einer Zusatzbescheinigung und den Ergebnissen der regelmäßigen Überprüfungen
+  | 29 | Sprachkenntnisse |
+  | 29.1 | Grundlegende Anforderung | Arbeitssprache(n), für die erklärt wurde, dass die Anforderungen der Anlage 7 Nummer 6 TfV erfüllt waren | Text | Verbindlich |
+  | 29.2 | Regelmäßige Überprüfung | Datum der Kenntnis- bescheinigung (Prüfung bestanden) für jede Sprache | JJJJ-MM-TT | Verbindlich |
+  | 30 | Fahrzeugkenntnis |
+  | 30.1 | Grundlegende Anforderung | Fahrzeuge, für die erklärt wurde, dass die Anforderungen der Anlage 6 TfV erfüllt waren | Text | Verbindlich |
+  | 30.2 | Regelmäßige Überprüfung | Datum der regelmäßigen Überprüfung (bescheinigte Kenntnisse) | JJJJ-MM-TT | Verbindlich |
+  | 31 | Infrastrukturkenntnis |
+  | 31.1 | Grundlegende Anforderung | Infrastruktur, für die erklärt wurde, dass Anforderungen der Anlage 7 TfV erfüllt waren | Text | Verbindlich |
+  | 31.2 | Regelmäßige Überprüfung | Datum der regelmäßigen Überprüfung (bescheinigte Kenntnisse) | JJJJ-MM-TT | Verbindlich |
+2. Auskunftsrechte
+  Auskunft aus dem Register der Zusatzbescheinigungen ist den folgenden Berechtigten zur Echtheits- und Gültigkeitsfeststellung von Zusatzbescheinigungen zu erteilen:
+  a) der zuständigen Behörde;
+  b) den zuständigen Behörden der anderen Mitgliedstaaten, in denen der Unternehmer seiner Geschäftstätigkeit nachgeht und in denen der Triebfahrzeugführer auf mindestens einer Strecke des Netzes Züge führen darf, betreffend der grenzüberschreitenden Tätigkeiten;
+  c) der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes oder einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG zur Untersuchung von Unfällen und
+  d) den Eisenbahnaufsichtsbehörden der Länder.

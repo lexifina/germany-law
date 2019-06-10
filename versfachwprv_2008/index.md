@@ -1,0 +1,18 @@
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin für Versicherungen und Finanzen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Prüfung und Bezeichnung des Abschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen](0002.md)
+- [§ 3 Gliederung und Durchführung der Prüfung](0003.md)
+- [§ 4 Prüfungsteil A nach § 3 Abs. 2](0004.md)
+- [§ 5 Prüfungsteil B nach § 3 Abs. 3](0005.md)
+- [§ 6 Zusatzqualifikation](0006.md)
+- [§ 7 Anrechnung anderer Prüfungsleistungen](0007.md)
+- [§ 8 Bewerten der Prüfungsleistungen und Bestehen der Prüfung](0008.md)
+- [§ 9 Wiederholung der Prüfung](0009.md)
+- [§ 10 Ausbildereignung](0010.md)
+- [§ 11 Übergangsvorschriften](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
+- [Anlage 1 (zu § 5 Abs. 2, 4 und 5)Liste der produktbezogenen Qualifikationsschwerpunkte nach § 5 Abs. 2, 4 und 5](anlage-1.md)
+- [Anlage 2 (zu § 8 Abs. 6)Muster](anlage-2.md)
+- [Anlage 3 (zu § 8 Abs. 6)Muster](anlage-3.md)

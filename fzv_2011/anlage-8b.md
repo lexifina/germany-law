@@ -1,0 +1,11 @@
+# Anlage 8b (zu § 15e Absatz 3)Verifizierung und Verarbeitung der Daten für die internetbasierte Wiederzulassung
+
+1. Das reservierte Kennzeichen, die Fahrzeug-Identifizierungsnummer und der Sicherheitscode nach § 15b Absatz 4 Satz 1 Nummer 2 werden mit den im Zentralen Fahrzeugregister gespeicherten Daten abgeglichen. Die zuständige Zulassungsbehörde wird festgestellt und die in § 30 und § 32 genannten Daten werden dem Portal aus dem Zentralen Fahrzeugregister übermittelt.
+2. Die nach § 15e Absatz 2 und § 15b Absatz 3 in das Portal eingegebenen Daten werden mit den nach Nummer 1 übermittelten Daten aus dem Zentralen Fahrzeugregister abgeglichen.
+3. Die Nummer der elektronischen Versicherungsbestätigung wird mit der von der Gemeinschaftseinrichtung der Versicherer betriebenen Datenbank abgeglichen und von dort werden die Daten nach § 23 Absatz 2 an das Portal übermittelt.
+4. Die Daten für die Erteilung des SEPA-Lastschrift-Mandats zum Einzug der Kraftfahrzeugsteuer werden über das Verfahren der für die Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen Behörde verifiziert.
+5. Das Portal erzeugt den für den Einzug der Kraftfahrzeugsteuer erforderlichen Datensatz. Der antragstellenden Person wird durch das Portal die Möglichkeit gegeben, eine Bestätigung über die Erteilung des SEPA-Lastschrift-Mandats zu erstellen und diese zu speichern oder auszudrucken.
+6. Für den Nachweis des Ablaufs der Frist für die nächste Hauptuntersuchung und Sicherheitsprüfung nach § 29 der Straßenverkehrs-Zulassungs-Ordnung gilt § 15c.
+7. Mit den Daten über die antragstellende Person nach § 15b Absatz 3 wird vom Portal eine automatisierte Abfrage bei der für die Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen Behörde über Kraftfahrzeugsteuerrückstände im Sinne von § 13 Absatz 2 des Kraftfahrzeugsteuergesetzes durchgeführt.
+8. Mit den Daten über die antragstellende Person nach § 15b Absatz 3 kann vom Portal eine automatisierte Abfrage bei der Datenbank, die die nach Landesrecht zuständige Behörde über Rückstände aus Gebühren oder Auslagen aus vorangegangenen Zulassungsvorgängen führt, durchgeführt werden, soweit dies landesrechtlich im Rahmen des § 6a Absatz 8 des Straßenverkehrsgesetzes vorgesehen ist.
+Die verifizierten und erstellten Daten werden den Antragsdaten im Portal hinzugefügt.

@@ -1,0 +1,3 @@
+# II.
+
+Abschnitt I dieser Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von diesem Zeitpunkt an ist Abschnitt I der Anordnung über die Ernennung und Entlassung der Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit vom 29. Juni 1994 (GMBl S. 891) nicht mehr anzuwenden; Abschnitt I der Anordnung über die Ernennung und Entlassung der Bundesbeamten im Geschäftsbereich des Bundesministeriums für Arbeit und Sozialordnung vom 5. Juni 1979 (BGBl. I S. 651), zuletzt geändert durch die Anordnung vom 27. Januar 2003 (BGBl. I S. 177), ist von diesem Zeitpunkt an nicht mehr anzuwenden, soweit er Regelungen für die Beamtinnen und Beamten des Bundessozialgerichts und des Bundesversicherungsamtes enthält.

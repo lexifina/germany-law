@@ -1,0 +1,3 @@
+# Art 2
+
+Die Bundesregierung wird ermächtigt, Änderungen dieses Abkommens, die im Rahmen von Konsultationen zwischen den Vertragsparteien des Abkommens nach Artikel 6 Abs. 2 in Verbindung mit Abschnitt 8 des ergänzenden, entsprechend anzuwendenden Notenwechsels vom 10. November 1995 zwischen dem Administrator des Entwicklungsprogramms der Vereinten Nationen und dem Ständigen Vertreter der Bundesrepublik Deutschland bei den Vereinten Nationen vereinbart werden, durch Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.

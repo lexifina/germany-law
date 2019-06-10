@@ -1,0 +1,6 @@
+# Art XI Geltung im Land Berlin
+
+(1)
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes vom 2. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.
+(2)
+Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.

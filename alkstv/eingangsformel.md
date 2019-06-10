@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Es verordnen
+– das Bundesministerium der Finanzen auf Grund des § 2 Absatz 3 Nummer 3, 4, § 4 Absatz 3 Nummer 1, 3, § 5 Absatz 5 Nummer 1, 2, § 6 Absatz 4, § 7 Absatz 4, § 8 Absatz 3, § 9 Absatz 4 Nummer 1, 2, 4 bis 6, § 10 Absatz 5 Nummer 2 bis 4, § 11 Absatz 6 Nummer 4, 6, § 12 Absatz 4, § 13 Absatz 3, § 14 Absatz 5, § 15 Absatz 6 Nummer 1, § 17 Absatz 7, § 18 Absatz 8 Nummer 1, 2, § 19 Absatz 4, § 22 Absatz 5, § 23 Absatz 3, § 24 Absatz 5, § 25 Absatz 7, § 26 Absatz 3, § 27 Absatz 3 Nummer 1, 4, § 28 Absatz 4 Nummer 1 Buchstabe a, Nummer 2, § 29 Absatz 2, § 30 Absatz 4 Nummer 1, § 31 Absatz 3 Nummer 1, 3, § 32 Absatz 3 Nummer 1, 2 sowie des § 37 Nummer 1 Buchstabe b, Nummer 3, 4 des Alkoholsteuergesetzes vom 21. Juni 2013 (BGBl. I S. 1650, 1651), die durch Artikel 241 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind,
+– das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Ernährung und Landwirtschaft auf Grund des § 9 Absatz 4 Nummer 3 und des § 10 Absatz 5 Nummer 1 des Alkoholsteuergesetzes:

@@ -1,0 +1,16 @@
+# Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes
+
+- [Eingangsformel](eingangsformel.md)
+- [Art I](art-i.md)
+- [Art II](art-ii.md)
+- [Art III Übergangsvorschriften](art-iii.md)
+- [Art IV Angleichung](art-iv.md)
+- [Art V Sonderregelung für überregionale Verfolgtengruppen](art-v.md)
+- [Art VI Sonderregelung für Nationalgeschädigte](art-vi.md)
+- [Art VII Kostentragung bei Erledigung eines Rechtsstreits](art-vii.md)
+- [Art VIII Abschluß der Entschädigung](art-viii.md)
+- [Art IX Wiedergutmachung in der Strafrechtspflege](art-ix.md)
+- [Art X](art-x.md)
+- [Art XI Geltung im Land Berlin](art-xi.md)
+- [Art XII Inkrafttreten](art-xii.md)
+- [Schlußformel](schlussformel.md)

@@ -1,0 +1,6 @@
+# Art 4
+
+(1)
+Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer Rechtsverordnung nach Artikel 2 Abs. 1 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+(2)
+Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 100.000 (einhunderttausend) Deutsche Mark geahndet werden.

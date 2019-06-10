@@ -1,0 +1,45 @@
+# Anlage 5 (zu § 28 Abs. 2 Nr. 6)
+
+Absatzstruktur
+
+(Fundstelle: BGBl. I 2005, 2242)
+|  | < 2.500 h/a |
+|  | Summe der zeitungleichen Jahreshöchstleistungen über alle Entnahmen (Letztverbraucher und Weiterverteiler) | Anzahl der Entnahmestellen | Gesamtabgabe an Letztverbraucher und Weiterverteiler |
+| Netz- oder Umspannebene | kW |  | kWh |
+| HöS |  |  |  |
+| HöS/HS |  |  |  |
+| HS |  |  |  |
+| HS/MS |  |  |  |
+| MS |  |  |  |
+| MS/NS |  |  |  |
+| NS mit LM |  |  |  |
+| NS ohne LM |  |  |  |
+| NS (mit und ohne LM) |  |  |  |
+|  |
+|  | > 2.500 h/a |
+|  | Summe der zeitungleichen Jahreshöchstleistungen über alle Entnahmen (Letztverbraucher und Weiterverteiler) | Anzahl der Entnahmestellen | Gesamtabgabe an Letztverbraucher und Weiterverteiler |
+| Netz- oder Umspannebene | kW |  | kWh |
+| HöS |  |  |  |
+| HöS/HS |  |  |  |
+| HS |  |  |  |
+| HS/MS |  |  |  |
+| MS |  |  |  |
+| MS/NS |  |  |  |
+| NS mit LM |  |  |  |
+| NS ohne LM |  |  |  |
+| NS (mit und ohne LM) |  |  |  |
+|  | nachgelagerte Netz- bzw. Umspannebenen | Gesamtabgabe und -last |
+|  | Abgabe an eigene nachgelagerte Netz- oder Umspannebene | zeitgleiche Jahreshöchstlast | Gesamtabgabe aus der Netz- oder Umspannebene | zeitgleiche Jahres höchstlast |
+| Netz- oder Umspannebene | kWh | kW | kWh | kW |
+| HöS |  |  |  |  |
+| HöS/HS |  |  |  |  |
+| HS |  |  |  |  |
+| HS/MS |  |  |  |  |
+| MS |  |  |  |  |
+| MS/NS |  |  |  |  |
+| NS mit LM |  |  |  |  |
+| NS ohne LM |  |  |  |  |
+| NS (mit und ohne LM) |  |  |  |  |
+| eigene Entnahme aus vorgelagertem Netz | zeitgleiche Jahreshöchstlast |
+| kWh | kW |
+|  |  |

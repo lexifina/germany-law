@@ -1,0 +1,16 @@
+# Postdienstleistungsverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Nichtdiskriminierung](0002.md)
+- [§ 3 Kontrahierungszwang bei Universaldienstleistungen](0003.md)
+- [§ 4 Veröffentlichung von Kundeninformationen](0004.md)
+- [§ 5 Abholung](0005.md)
+- [§ 6 Rücksendung](0006.md)
+- [§ 7 Nachsendung und Lagerung](0007.md)
+- [§ 8 Nachforschung](0008.md)
+- [§ 9 Verjährung](0009.md)
+- [§ 10 Schlichtung](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)

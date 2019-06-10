@@ -1,0 +1,15 @@
+# Gesetz zur Errichtung eines Samenspenderregisters und zur Regelung der Auskunftserteilung über den Spender nach heterologer Verwendung von Samen
+
+- [§ 1 Samenspenderregister](0001.md)
+- [§ 2 Pflichten der Entnahmeeinrichtung bei der Gewinnung von Samen zur heterologen Verwendung für eine künstliche Befruchtung](0002.md)
+- [§ 3 Pflichten der Entnahmeeinrichtung bei der Abgabe von Samen zur heterologen Verwendung für eine künstliche Befruchtung](0003.md)
+- [§ 4 Pflicht der Einrichtung der medizinischen Versorgung vor der heterologen Verwendung von Samen zur künstlichen Befruchtung](0004.md)
+- [§ 5 Pflichten der Einrichtung der medizinischen Versorgung bei heterologer Verwendung von Samen zur künstlichen Befruchtung](0005.md)
+- [§ 6 Übermittlung an das Deutsche Institut für Medizinische Dokumentation und Information](0006.md)
+- [§ 7 Aufgaben des Deutschen Instituts für Medizinische Dokumentation und Information im Zusammenhang mit dem Samenspenderregister](0007.md)
+- [§ 8 Speicherung und Löschung der Samenspenderregisterdaten](0008.md)
+- [§ 9 Zweckbindung bei personenbezogenen Daten](0009.md)
+- [§ 10 Voraussetzungen und Verfahren der Auskunftserteilung](0010.md)
+- [§ 11 Auskunfts- und Berichtigungsansprüche](0011.md)
+- [§ 12 Bußgeldvorschriften](0012.md)
+- [§ 13 Übergangsregelungen](0013.md)

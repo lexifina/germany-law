@@ -1,0 +1,15 @@
+# Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes
+
+- [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Ziele des Vorbereitungsdienstes](0001.md)
+- [§ 2 Einstellungsvoraussetzungen](0002.md)
+- [§ 3 Auswahlverfahren](0003.md)
+- [§ 4 Dienstaufsicht](0004.md)
+- [§ 5 Urlaub](0005.md)
+- [§ 6 Dauer und Aufbau des Vorbereitungsdienstes](0006.md)
+- [§ 7 Fachpraktische Ausbildungsphase](0007.md)
+- [§ 8 Masterstudiengang „Öffentliche Verwaltung – Polizeimanagement (Public Administration – Police Management)“](0008.md)
+- [§ 9 Laufbahnprüfung](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)

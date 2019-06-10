@@ -1,0 +1,242 @@
+# Anlage (zu § 6)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin
+
+| (Fundstelle: BGBl. I 2005, 1434 - 1443) |
+| Abschnitt I: Berufsfeldbreite Grundbildung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 5 Abs. 1 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 5 Abs. 1 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 5 Abs. 1 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 5 Abs. 1 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Ökologische Zusammenhänge; Nachhaltigkeit und Verbraucherschutz (§ 5 Abs. 1 Nr. 5) | a) | ökologische Zusammenhänge bei der Tierproduktion erläutern und beachten |  |
+| b) | Kreislaufwirtschaft erläutern |
+| c) | Nachhaltigkeitsaspekte bei der Tierproduktion erläutern |
+| d) | Maßnahmen zum Verbraucherschutz bei Produktion und Vermarktung tierischer Produkte umsetzen |
+| 6 | Betriebliche Abläufe und Organisation; wirtschaftliche Zusammenhänge (§ 5 Abs. 1 Nr. 6) |  |  |  |  |  |
+| 6.1 | Planen, Kontrollieren und Beurteilen von Arbeitsabläufen und Produktion (§ 5 Abs. 1 Nr. 6.1) | a) | Arbeits- und Betriebsanweisungen anwenden | 4 |  |  |  |
+| b) | Arbeits- und Produktionsabläufe unter Berücksichtigung betrieblicher Gegebenheiten sowie nach wirtschaftlichen Gesichtspunkten planen und durchführen |
+| c) | Arbeitsergebnisse dokumentieren, beurteilen und präsentieren |
+| d) | Arbeitsabläufe nach ergonomischen, funktionalen und rechtlichen Anforderungen gestalten |
+| e) | gesetzliche und berufsbezogene Regelungen anwenden, insbesondere Meldepflichten beachten |
+| 6.2 | Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 5 Abs. 1 Nr. 6.2) | a) | bei Geschäftsvorgängen mitwirken | 2 |  |  |  |
+| b) | Markt- und Preisinformationen einholen, vergleichen und bewerten |
+| 6.3 | Kommunikation und Information (§ 5 Abs. 1 Nr. 6.3) | a) | betriebliche Kommunikations- und Informationssysteme nutzen | 8 |  |  |  |
+| b) | Informationen beschaffen, auswerten und einordnen |
+| c) | Regeln zum Datenschutz und zur Datensicherheit anwenden |
+| d) | mit Standardsoftware und arbeitsplatzspezifischer Software arbeiten |
+| e) | Aufgaben im Team abstimmen und bearbeiten, Ergebnisse kontrollieren und bewerten |
+| f) | Gespräche ergebnisorientiert und situationsbezogen führen |
+| g) | Sachverhalte darstellen, Fachbegriffe anwenden |
+| 7 | Qualitätssichernde Maßnahmen (§ 5 Abs. 1 Nr. 7) | a) | produktspezifische Qualitätsstandards umsetzen und Produktionsabläufe dokumentieren | 3 |  |  |  |
+| b) | Ziele, Aufgaben und Aufbau der betrieblichen Qualitätssicherung erläutern |
+| 8 | Maschinen, Geräte, und Betriebseinrichtungen (§ 5 Abs. 1 Nr. 8) | a) | Maschinen und Geräte bedienen, Werterhaltung beachten | 8 |  |  |  |
+| b) | Maschinen, Geräte und Betriebseinrichtungen reinigen, pflegen, prüfen und warten |
+| c) | Störungen an Maschinen und Betriebseinrichtungen feststellen und Maßnahmen zur Instandsetzung ergreifen |
+| d) | Betriebs- und Werkstoffe einsetzen und lagern |
+| e) | Schutzmaßnahmen und Sicherungen an Maschinen und elektrischen Anlagen beachten |
+| 9 | Tierschutz (§ 5 Abs. 1 Nr. 9) | Bestimmungen des Tierschutzgesetzes beachten | 2 |  |  |  |
+| 10 | Tierproduktion (§ 5 Abs. 1 Nr. 10) |  |  |  |  |  |
+| 10.1 | Tierzucht (§ 5 Abs. 1 Nr. 10.1) | a) | Anatomie, Physiologie und Verhalten von Nutztieren erläutern | 4 |  |  |  |
+| b) | Grundlagen der Vererbung erläutern und in der Züchtung anwenden |
+| 10.2 | Tierhaltung (§ 5 Abs. 1 Nr. 10.2) | Tiere beobachten, Verhaltensänderungen feststellen und erforderliche Maßnahmen ergreifen | 4 |  |  |  |
+| 10.3 | Fütterung (§ 5 Abs. 1 Nr. 10.3) | a) | Tiere bedarfsgerecht füttern und tränken | 7 |  |  |  |
+| b) | Futtermittel bestimmen, beurteilen und qualitätserhaltend lagern |
+| 10.4 | Tiergesundheit und Tierhygiene (§ 5 Abs. 1 Nr. 10.4) | a) | Tierunterkünfte reinigen und desinfizieren | 6 |  |  |  |
+| b) | Krankheitsanzeichen feststellen und Maßnahmen ergreifen |
+| c) | Schädlings- und Parasitenbefall feststellen und Bekämpfungsmaßnahmen einleiten |
+| 10.5 | Nutzung von Tieren und Gewinnung spezifischer Produkte (§ 5 Abs. 1 Nr. 10.5) | Leistungen von Tieren ermitteln | 4 |  |  |  |
+| Abschnitt II: Berufliche Fachbildung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 5 Abs. 1 Nr. 6.2) | a) | Kalkulationen erstellen |  |  | 6 |  |
+| b) | an der Planung und Konzeption von Vermarktungsmaßnahmen mitwirken |
+| 2 | Qualitätssichernde Maßnahmen (§ 5 Abs. 1 Nr. 7) | a) | Qualitätsmerkmale prüfen und feststellen sowie Qualitätsdaten dokumentieren |  |  | 4 |  |
+| b) | verbraucherspezifische Anforderungen und Informationen bei der Produktion berücksichtigen |
+| 3 | Tierschutz (§ 5 Abs. 1 Nr. 9) | a) | berufsspezifische Regelungen, insbesondere Regelungen zur Tierhaltung und -gesundheit sowie zum Transport anwenden |  |  | 3 |  |
+| b) | Nottötung durchführen |
+| 4 | Tierproduktion (§ 5 Abs. 1 Nr. 10) |  |  |  |  |  |
+| 4.1 | Tierzucht (§ 5 Abs. 1 Nr. 10.1) | a) | Zuchtprogramme erläutern und bei ihrer Umsetzung mitwirken |  | 6 |  |  |
+| b) | Tiere, insbesondere unter Beachtung von Rassen- und Zuchtstandards, beurteilen |
+| c) | Zuchtdaten erfassen und dokumentieren |
+| 4.2 | Tierhaltung (§ 5 Abs. 1 Nr. 10.2) | a) | Haltungsverfahren erläutern sowie betriebsspezifische Haltungssysteme und -techniken anwenden |  | 9 |  |  |
+| b) | Tiere halten und versorgen |
+| c) | Tiere kennzeichnen |
+| d) | Tiere, insbesondere unter Berücksichtigung der Tiergesundheit, transportieren |  |  | 2 |  |
+| 4.3 | Fütterung (§ 5 Abs. 1 Nr. 10.3) | a) | Futterrationen berechnen und zusammenstellen |  | 4 |  |  |
+| b) | Fütterungs- und Tränkeeinrichtungen kontrollieren und Funktionsfähigkeit erhalten |  |  | 4 |  |
+| 4.4 | Tiergesundheit und Tierhygiene (§ 5 Abs. 1 Nr. 10.4) | a) | Desinfektionslösungen berechnen, herstellen und anwenden |  |  | 4 |  |
+| b) | Vorsorgemaßnahmen, insbesondere zur Gesunderhaltung und Seuchenprophylaxe, treffen |
+| c) | Medikamente nach Anweisung anwenden sowie Medikamentennachweis und Bestandsdokumentation führen |
+| d) | bei tierärztlichen Behandlungsmaßnahmen mitwirken |
+| 4.5 | Nutzung von Tieren und Gewinnung spezifischer Produkte (§ 5 Abs. 1 Nr. 10.5) | a) | Tiere erzeugen oder tierische Produkte gewinnen |  | 7 |  |  |
+| b) | Tiere oder tierische Produkte vermarkten |  |  | 3 |  |
+| Abschnitt III: Berufliche Fachbildung in den Fachrichtungen |
+| A: Fachrichtung Rinderhaltung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Kälber- und Jungrinderaufzucht (§ 5 Abs. 2 Nr. 1) | a) | Kälber bis zum Ende der Tränkephase und Jungrinder füttern |  |  |  | 8 |
+| b) | Futtermittel auswählen und Futterrationen altersgerecht zusammenstellen und berechnen |
+| c) | Kälber und Jungrinder beurteilen sowie ihre Entwicklung bewerten |
+| d) | Entwicklung der Klauen beurteilen |
+| e) | Kälber und Jungrinder umsetzen und transportieren |
+| f) | Aufzucht- und Mastverfahren beurteilen und nach betrieblichen Bedingungen anwenden |
+| g) | Kälber enthornen |
+| 2 | Rinderhaltung (§ 5 Abs. 2 Nr. 2) | a) | Rinder nach Altersgruppen und Nutzungsart sowie Laktationsstatus einteilen und versorgen |  |  |  | 12 |
+| b) | Rinder bedarfs- und leistungsgerecht füttern |
+| c) | Herdenmanagement durchführen |
+| d) | Rinderhaltungssysteme beurteilen |
+| e) | Klauengesundheit erhalten und Klauenpflege durchführen |
+| f) | Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie Zuchttiere vorführen |
+| g) | Rinder umstallen |
+| 3 | Reproduktion (§ 5 Abs. 2 Nr. 3) | a) | Fruchtbarkeitsstatus der Herden beurteilen und Anpaarungspartner auswählen |  |  |  | 10 |
+| b) | Brunstkontrolle durchführen und bei der Besamung mitwirken |
+| c) | Geburt vorbereiten, überwachen und Geburtshilfe leisten |
+| d) | Maßnahmen zur Versorgung von Muttertieren und Kälbern nach der Geburt durchführen |
+| 4 | Produktion von Milch, Zucht- und Schlachttieren (§ 5 Abs. 2 Nr. 4) | a) | Verfahren zur Gewinnung von Milch unterscheiden und Kühe melken |  |  |  | 18 |
+| b) | Melk- und Kühlanlagen kontrollieren, warten und bedienen |
+| c) | Eutergesundheit kontrollieren und beurteilen |
+| d) | Maßnahmen zur Förderung und zum Erhalt der Milchqualität durchführen |
+| e) | Rinder nach Qualitätsstandards vermarkten |
+| 5 | Weidewirtschaft Futtergewinnung (§ 5 Abs. 2 Nr. 5) | a) | Besatzstärke und -dichte für die Weidewirtschaft definieren |  |  |  | 4 |
+| b) | Futter, insbesondere Silage, entnehmen |
+| c) | Weidetechniken erläutern und anwenden |
+| d) | Grünland beurteilen sowie Pflege-, Dünge- und Pflanzenschutzmaßnahmen erläutern |
+| B: Fachrichtung Schweinehaltung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Reproduktion (§ 5 Abs. 3 Nr. 1) | a) | Reproduktionsverfahren in der Schweinehaltung unterscheiden und bei der Vermehrung mitwirken |  |  |  | 9 |
+| b) | Jungsauen für die Zucht selektieren |
+| c) | Sauen ins Deckzentrum einstallen und für die Rausche vorbereiten |
+| d) | Rauschekontrolle durchführen und Besamungszeitpunkt festlegen |
+| e) | Bedeckung, insbesondere durch künstliche Besamung, durchführen sowie Trächtigkeit überprüfen |
+| f) | Besamungskataloge lesen und Auswahl treffen |
+| 2 | Sauenhaltung (§ 5 Abs. 3 Nr. 2) | a) | Geburt von Ferkeln vorbereiten und überwachen, Maßnahmen zur Versorgung von Muttertieren und Ferkeln durchführen |  |  |  | 10 |
+| b) | Ferkel kastrieren und Schwänze kupieren |
+| c) | Wurfausgleich durchführen |
+| d) | Saugferkel, trächtige und säugende Sauen nach Kondition und Status füttern |
+| e) | Saugferkel absetzen, Gewicht ermitteln und Leistungskontrolle durchführen |
+| f) | Klauengesundheit beurteilen und Klauenpflege durchführen |
+| 3 | Ferkelaufzucht und Schweinemast (§ 5 Abs. 3 Nr. 3) | a) | Ferkel und Mastschweine nach Anzahl, Gewicht, Geschlecht und Gesundheitsstatus sortieren sowie in Gruppen zusammenstellen |  |  |  | 20 |
+| b) | Ferkel und Mastschweine alters- und bedarfsgerecht füttern |
+| c) | Ferkel und Mastschweine umsetzen und Gruppenausgleich durchführen |
+| d) | Bestandsentwicklung bei Ferkeln und Mastschweinen beobachten, kontrollieren und Leistung ermitteln |
+| 4 | Vermarktung (§ 5 Abs. 3 Nr. 4) | a) | Ausstalltermine für Ferkel und Mastschweine koordinieren und Transport vorbereiten |  |  |  | 5 |
+| b) | Ferkel und Mastschweine nach Qualitätsstandards vermarkten |
+| 5 | Technische Systeme der Schweinehaltung (§ 5 Abs. 3 Nr. 5) | a) | Fütterungs- und Lüftungssysteme beurteilen und betriebsspezifisch anwenden |  |  |  | 4 |
+| b) | Produktions- und Haltungsverfahren erläutern und anwenden |
+| 6 | Verwertung und Entsorgung von Rückständen (§ 5 Abs. 3 Nr. 6) | a) | Mengen von tierischen Ausscheidungen, insbesondere Gülleanfall, qualitativ und quantitativ ermitteln |  |  |  | 4 |
+| b) | Wirtschaftsdünger umweltschonend lagern und den Nutzen und die Kosten für die Entsorgung, insbesondere von Gülle, kalkulieren |
+| c) | Emissionen aus der Schweinehaltung beschreiben und Möglichkeiten zur Reduktion nutzen |
+| d) | verendete und notgetötete Tiere lagern und die Entsorgung veranlassen |
+| C: Fachrichtung Geflügelhaltung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Haltung und Herdenmanagement (§ 5 Abs. 4 Nr. 1) | a) | Haltungsverfahren, -Systeme und Einrichtungselemente beurteilen und betriebsspezifisch anwenden |  |  |  | 17 |
+| b) | Verfahren der Geflügelproduktion erläutern und betriebsspezifisch anwenden |
+| c) | Licht- und Impfprogramme durchführen |
+| d) | Anforderungen an Stallklima erläutern und Stallklima regeln |
+| e) | Besatzdichte nach Produktionszweig und Entwicklungsstadien festlegen |
+| f) | Leistung ermitteln, kontrollieren und Maßnahmen ergreifen |
+| g) | Küken und Junggeflügel einstallen und versorgen |
+| h) | produktionszweigspezifische Maßnahmen durchführen, insbesondere Schnabel kupieren |
+| i) | Geflügel um- und ausstallen sowie transportieren |
+| 2 | Fütterung (§ 5 Abs. 4 Nr. 2) | a) | Geflügel bedarfsgerecht nach Produktionszweig und Entwicklungsstadien füttern |  |  |  | 15 |
+| b) | Fütterungstechniken beurteilen und anwenden |
+| c) | durch Fütterungsmaßnahmen zur Reduzierung von Stickstoff- und Phosphoremissionen beitragen |
+| d) | Futtermittel auf Qualität und Struktur überprüfen |
+| e) | Zusatzstoffe in der Geflügelfütterung einsetzen und den Einsatz dokumentieren |
+| 3 | Produktgewinnung und Vermarktung (§ 5 Abs. 4 Nr. 3) | a) | Eier erzeugen, abnehmen, sortieren, kennzeichnen, verpacken und vermarkten |  |  |  | 10 |
+| b) | Geflügel schlachten, Schlachtkörper aufbereiten |
+| c) | Vermarktungswege erläutern und beurteilen |
+| d) | Geflügel nach Qualitätsstandards vermarkten |
+| 4 | Reproduktion, Vermehrung, Brut (§ 5 Abs. 4 Nr. 4) | a) | Reproduktionsverfahren in der Geflügelwirtschaft unterscheiden und bei der Vermehrung mitwirken |  |  |  | 6 |
+| b) | Bruteier gewinnen und lagern |
+| c) | Bruttechnik anwenden |
+| 5 | Verwertung und Entsorgung von Rückständen (§ 5 Abs. 4 Nr. 5) | a) | Wirtschaftsdüngeranfall unter Berücksichtigung der Nährstoffgehalte ermitteln |  |  |  | 4 |
+| b) | Wirtschaftsdünger umweltschonend lagern und nutzen |
+| c) | Emissionen aus der Geflügelhaltung beschreiben und Möglichkeiten zur Reduktion nutzen |
+| d) | verendete und notgetötete Tiere lagern und die Entsorgung veranlassen |
+| D: Fachrichtung Schäferei |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Schafhaltung (§ 5 Abs. 5 Nr. 1) | a) | Schafhaltungsformen, insbesondere stationäre Hütehaltung, Wanderschäferei, Koppelhaltung und Stallhaltung, unterscheiden und beurteilen |  |  |  | 10 |
+| b) | Schafe nach betrieblichen Haltungsformen versorgen und pflegen |
+| c) | Klauengesundheit beurteilen und Klauenpflege durchführen |
+| d) | Schafe nach Leistungsgruppen zusammenstellen und füttern |
+| e) | Informationen aus Auktions- und Tierschaukatalogen beurteilen sowie Zuchttiere vorführen |
+| 2 | Ablammung und Aufzucht (§ 5 Abs. 5 Nr. 2) | a) | Böcke auswählen und zuteilen |  |  |  | 10 |
+| b) | Mutterschafe belegen, Trächtigkeit feststellen |
+| c) | Mutterschafe für die Geburt vorbereiten |
+| d) | Ablammphasen erläutern, Geburt vorbereiten, überwachen und Geburtshilfe leisten |
+| e) | Maßnahmen zur Versorgung von Muttertieren und Lämmern nach der Geburt durchführen |
+| f) | Lämmer kupieren und kastrieren |
+| g) | Aufzuchtverfahren beurteilen und nach betrieblichen Bedingungen anwenden |
+| h) | Eutergesundheit kontrollieren und beurteilen sowie Maßnahmen einleiten |
+| 3 | Produktion von Wolle, Milch und Fleisch (§ 5 Abs. 5 Nr. 3) | a) | Schurmethoden unterscheiden und Voll- und Schwanzschur durchführen |  |  |  | 12 |
+| b) | Qualität von Wolle und Vlies beurteilen |
+| c) | Maßnahmen zur Förderung und zum Erhalt der Wollqualität durchführen |
+| d) | Verfahren zur Gewinnung von Schafmilch unterscheiden und Schafe melken |
+| e) | Maßnahmen zur Förderung und zum Erhalt der Fleischqualität durchführen |
+| f) | Schafe schlachten |
+| g) | Schlachtkörper beurteilen und in Teilstücke zerlegen |
+| 4 | Hütetechnik (§ 5 Abs. 5 Nr. 4) | a) | Schafe hüten |  |  |  | 6 |
+| b) | Hunderassen und -schläge für die Schäferei beurteilen und Herdengebrauchshunde einsetzen |
+| c) | Herdengebrauchshunde pflegen, halten, versorgen und führen |
+| 5 | Weidewirtschaft, Futtergewinnung (§ 5 Abs. 5 Nr. 5) | a) | Besatzstärke und -dichte für die Weidewirtschaft definieren und Weideplan erstellen |  |  |  | 10 |
+| b) | Futterwerbung erläutern sowie Heuwerbung planen und durchführen |
+| c) | Weidetechniken anwenden und Koppelbau durchführen |
+| d) | Pflege-, Dünge- und Pflanzenschutzmaßnahmen erläutern |
+| e) | Weidestandorte beurteilen |
+| 6 | Naturschutz und Landschaftspflege (§ 5 Abs. 5 Nr. 6) | Landschaftspflegemaßnahmen mit Schafen durchführen |  |  |  | 4 |
+| E: Fachrichtung Imkerei |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Völkerführung und Bienengesundheit (§ 5 Abs. 6 Nr. 1) | a) | Trachtnutzung erkennen und beurteilen sowie Maßnahmen ergreifen |  |  |  | 21 |
+| b) | Ernährungsstadien erkennen und entsprechende Fütterungen durchführen |
+| c) | Volkstärke beurteilen, Völker einengen und erweitern, Völker vereinigen und auflösen |
+| d) | Schwarmstimmung beurteilen und Schwarmverhinderungsmethoden anwenden, Schwarm versorgen und führen sowie Rechtsvorschriften beachten |
+| e) | Jungvölker aufbauen und pflegen |
+| f) | Bienenvölker unter Berücksichtigung von Volkstärke, Brutnest, Futter und Bienengesundheit ein- und auswintern |
+| g) | Bienengesundheit prüfen und sicherstellen |
+| 2 | Bienenwanderung (§ 5 Abs. 6 Nr. 2) | a) | Standorte unter Berücksichtigung von Trachtmöglichkeiten und Trachtangeboten sowie mikroklimatischen Bedingungen auswählen |  |  |  | 5 |
+| b) | Voraussetzungen für Bienenwanderung unter Beachtung rechtlicher Vorschriften abklären |
+| c) | Bienenvölker für Wanderung auswählen und zum Transport vorbereiten |
+| 3 | Bienenweide, Bestäubung und Naturschutz (§ 5 Abs. 6 Nr. 3) | a) | Trachtpflanzen bestimmen und deren Wert erläutern |  |  |  | 3 |
+| b) | Bienenschutzverordnung erläutern sowie Schäden durch Pflanzenschutzmittel feststellen und Maßnahmen einleiten |
+| c) | Maßnahmen zur Bienenweideverbesserung durchführen |
+| d) | Völkerführung für spezifische Bestäubungsaufgaben, insbesondere von Kulturpflanzen, erläutern und durchführen |
+| e) | Bedeutung der Bienenhaltung für den Naturschutz erläutern |
+| 4 | Bienenprodukte gewinnen und vermarkten (§ 5 Abs. 6 Nr. 4) | a) | Reifegrad des Honigs feststellen und Honig ernten |  |  |  | 12 |
+| b) | verschiedene Gewinnungsarten von Honig darstellen und Honig, insbesondere durch Schleudern, gewinnen |
+| c) | Honig, insbesondere unter Beachtung der lebensmittel-rechtlichen Regelungen, bearbeiten und abfüllen |
+| d) | weitere Bienenprodukte unterscheiden, Wachs gewinnen und verarbeiten |
+| e) | Produkte präsentieren und Kunden informieren |
+| 5 | Königinnenzucht (§ 5 Abs. 6 Nr. 5) | a) | Königinnen in weisellosen und weiselrichtigen Völkern unter Berücksichtigung von Aufzuchtplänen aufziehen und Ergebnisse beurteilen |  |  |  | 7 |
+| b) | Pflege- und Drohnenvölker vorbereiten und betreuen |
+| c) | Belegstellenarten unterscheiden, Begattungseinheiten vorbereiten, versorgen und Begattungsergebnisse kontrollieren |
+| d) | instrumentelle Besamung erläutern |
+| 6 | Betriebsmittel zur Bienenhaltung (§ 5 Abs. 6 Nr. 6) | a) | Betriebsmittel zur Bienenhaltung, insbesondere aus Holz, anfertigen sowie Eigenschaften von Holzarten erläutern |  |  |  | 4 |
+| b) | Betriebsmittel reinigen, pflegen und instand halten |

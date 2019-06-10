@@ -1,0 +1,7 @@
+# Art 7
+
+Für den Geschäftsbereich des Sächsischen Staatsministeriums für Umwelt und Landesentwicklung und des Thüringer Ministeriums für Umwelt und Landesplanung sind sich die Vertragsparteien über folgendes einig:
+1. Die Bereitstellung von Fördermitteln erfolgt im Rahmen der durch Zuwendungsbescheide festgelegte Fördersummen bis zum Tage vor Inkrafttreten des Vertrages durch den Freistaat Thüringen. Ab Inkrafttreten des Vertrages erfolgt die Bereitstellung von Fördermitteln durch den Freistaat Sachsen. Dies umfaßt auch die Bereitstellung von Mitteln aus dem Landeshaushalt.
+2. Der Freistaat Sachsen verpflichtet sich, die für 1993 zugesicherten Fördermittel im Umfang der festgelegten Verpflichtungsermächtigungen nach Maßgabe von Artikel 3 Abs. 5 des Vertrages zu übernehmen.
+3. Ein Haushaltsausgleich mit dem Freistaat Thüringen wird nicht durchgeführt.
+4. Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit ist über die Abgabe zu unterrichten.

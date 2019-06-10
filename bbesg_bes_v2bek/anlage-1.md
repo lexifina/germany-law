@@ -1,0 +1,155 @@
+# Anlage 1 (Bundesbesoldungsordnung C - Grundgehaltssätze zum 1. Juli 2003, 1. April 2004 bzw. 1. August 2004)
+
+(Fundstelle des Originaltextes: BGBl. I 2003, 1844 - 1846)
+| Gültig ab 1. Juli 2003 |
+|  |
+| Bundesbesoldungsordnung C |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe | Stufe |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| C 1 | 2.638,90 | 2.731,55 | 2.824,20 | 2.916,84 | 3.009,50 | 3.102,15 |
+| C 2 | 2.644,67 | 2.792,33 | 2.939,99 | 3.087,64 | 3.235,29 | 3.382,94 |
+| C 3 | 2.912,24 | 3.079,42 | 3.246,60 | 3.413,79 | 3.580,97 | 3.748,16 |
+| C 4 | 3.699,31 | 3.867,37 | 4.035,43 | 4.203,49 | 4.371,56 | 4.539,61 |
+|  |
+| Besoldungsgruppe | Stufe |
+| 7 | 8 | 9 | 10 | 11 | 12 |
+| C 1 | 3.194,78 | 3.287,44 | 3.380,08 | 3.472,73 | 3.565,38 | 3.658,02 |
+| C 2 | 3.530,59 | 3.678,24 | 3.825,89 | 3.973,54 | 4.121.18 | 4.268,83 |
+| C 3 | 3.915,34 | 4.082,51 | 4.249,70 | 4.416,89 | 4.584,06 | 4.751,25 |
+| C 4 | 4.707,67 | 4.875,72 | 5.043,78 | 5.211,84 | 5.379,91 | 5.547,96 |
+|  |  |
+| Besoldungsgruppe | Stufe |  |
+| 13 | 14 | 15 |
+| C 1 | 3.750,68 | 3.843,33 |  |
+| C 2 | 4.416,48 | 4.564,14 | 4.711,79 |
+| C 3 | 4.918,43 | 5.085,61 | 5.252,79 |
+| C 4 | 5.716,02 | 5.884,08 | 6.052,14 |
+|  |
+| Amtszulagen, Stellenzulagen, Zulagen, Vergütungen |
+| (Monatsbeträge) |
+| - in der Reihenfolge der Gesetzesstellen - |
+| Dem Grunde nach geregelt in | Betrag in Euro, Vomhundert, Bruchteil |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 2b | 69,81 |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 3 |
+|  | Die Zulage beträgt |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *) |
+|  | für Beamte der Besoldungsgruppe(n) |
+|  | C 1 | A 13 |
+|  | C 2 | A 15 |
+|  | C 3 und C 4 | B 3 |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 5 |
+|  | wenn ein Amt ausgeübt wird |
+|  | der Besoldungsgruppe R 1 |  | 205,54 |
+|  | der Besoldungsgruppe R 2 |  | 230,08 |
+| Besoldungsgruppe |  | Fußnote |  |
+| C 2 |  | 1 | 104,32 |
+| ----- |
+| *)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091). |
+| Gültig ab 1. April 2004 |
+|  |
+| Bundesbesoldungsordnung C |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe | Stufe |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| C 1 | 2.665,29 | 2.758,87 | 2.852,44 | 2.946,01 | 3.039,60 | 3.133,17 |
+| C 2 | 2.671,12 | 2.820,25 | 2.969,39 | 3.118,52 | 3.267,64 | 3.416,77 |
+| C 3 | 2.941,36 | 3.110,21 | 3.279,07 | 3.447,93 | 3.616,78 | 3.785,64 |
+| C 4 | 3.736,30 | 3.906,04 | 4.075,78 | 4.245,52 | 4.415,28 | 4.585,01 |
+|  |
+| Besoldungsgruppe | Stufe |
+| 7 | 8 | 9 | 10 | 11 | 12 |
+| C 1 | 3.226,73 | 3.320,31 | 3.413,88 | 3.507,46 | 3.601,03 | 3.694,60 |
+| C 2 | 3.565,90 | 3.715,02 | 3.864,15 | 4.013,28 | 4.162,39 | 4.311,52 |
+| C 3 | 3.954,49 | 4.123,34 | 4.292,20 | 4.461,06 | 4.629,90 | 4.798,76 |
+| C 4 | 4.754,75 | 4.924,48 | 5.094,22 | 5.263,96 | 5.433,71 | 5.603,44 |
+|  |  |
+| Besoldungsgruppe | Stufe |  |
+| 13 | 14 | 15 |
+| C 1 | 3.788,19 | 3.881,76 |  |
+| C 2 | 4.460,64 | 4.609,78 | 4.758,91 |
+| C 3 | 4.967,61 | 5.136,47 | 5.305,32 |
+| C 4 | 5.773,18 | 5.942,92 | 6.112,66 |
+|  |
+| Amtszulagen, Stellenzulagen, Zulagen, Vergütungen |
+| (Monatsbeträge) |
+| - in der Reihenfolge der Gesetzesstellen - |
+| Dem Grunde nach geregelt in | Betrag in Euro, Vomhundert, Bruchteil |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 2b | 70,51 |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 3 |
+|  | Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *) |
+|  | für Beamte der Besoldungsgruppe(n) |
+|  | C 1 | A 13 |
+|  | C 2 | A 15 |
+|  | C 3 und C 4 | B 3 |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 5 |
+|  | wenn ein Amt ausgeübt wird |
+|  | der Besoldungsgruppe R 1 | 205,54 |
+|  | der Besoldungsgruppe R 2 | 230,08 |
+| Besoldungsgruppe C 2 | Fußnote 1 | 104,32 |
+| ----- |
+| *)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091). |
+| Gültig ab 1. August 2004 |
+|  |
+| Bundesbesoldungsordnung C |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe | Stufe |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| C 1 | 2.691,94 | 2.786,46 | 2.880,96 | 2.975,47 | 3.070,00 | 3.164,50 |
+| C 2 | 2.697,83 | 2.848,45 | 2.999,08 | 3.149,71 | 3.300,32 | 3.450,94 |
+| C 3 | 2.970,77 | 3.141,31 | 3.311,86 | 3.482,41 | 3.652,95 | 3.823,50 |
+| C 4 | 3.773,66 | 3.945,10 | 4.116,54 | 4.287,98 | 4.459,43 | 4.630,86 |
+|  |
+| Besoldungsgruppe | Stufe |
+| 7 | 8 | 9 | 10 | 11 | 12 |
+| C 1 | 3.259,00 | 3.353,51 | 3.448,02 | 3.542,53 | 3.637,04 | 3.731,55 |
+| C 2 | 3.601,56 | 3.752,17 | 3.902,79 | 4.053,41 | 4.204,01 | 4.354,64 |
+| C 3 | 3.994,03 | 4.164,57 | 4.335,12 | 4.505,67 | 4.676,20 | 4.846,75 |
+| C 4 | 4.802,30 | 4.973,72 | 5.145,16 | 5.316,60 | 5.488,05 | 5.659,47 |
+|  |  |
+| Besoldungsgruppe | Stufe |  |
+| 13 | 14 | 15 |
+| C 1 | 3.826,07 | 3.920,58 |  |
+| C 2 | 4.505,25 | 4.655,88 | 4.806,50 |
+| C 3 | 5.017,29 | 5.187,83 | 5.358,37 |
+| C 4 | 5.830,91 | 6.002,35 | 6.173,79 |
+|  |
+| Amtszulagen, Stellenzulagen, Zulagen, Vergütungen |
+| (Monatsbeträge) |
+| - in der Reihenfolge der Gesetzesstellen - |
+| Dem Grunde nach geregelt in | Betrag in Euro, Vomhundert, Bruchteil |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 2b | 71,22 |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 3 |
+|  | Die Zulage beträgt |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *) |
+|  | für Beamte der Besoldungsgruppe(n) |
+|  | C 1 | A 13 |  |
+|  | C 2 | A 15 |  |
+|  | C 3 und C 4 | B 3 |  |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 5 |
+|  | wenn ein Amt ausgeübt wird |
+|  | der Besoldungsgruppe R 1 |  | 205,54 |
+|  | der Besoldungsgruppe R 2 |  | 230,08 |
+| Besoldungsgruppe |  | Fußnote |  |
+| C 2 |  | 1 | 104,32 |
+| ----- |
+| *)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091). |

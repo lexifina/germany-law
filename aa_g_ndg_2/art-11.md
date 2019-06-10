@@ -1,0 +1,3 @@
+# Art 11 Übergangsregelung
+
+Überführungsbescheide nach § 8 des Anspruchs- und Anwartschaftsüberführungsgesetzes, Rentenbescheide nach § 307b des Sechsten Buches Sozialgesetzbuch und Bescheide des Versorgungsträgers oder des Trägers der Rentenversicherung/Überleitungsanstalt Sozialversicherung nach den §§ 4, 10 und 11 des Anspruchs- und Anwartschaftsüberführungsgesetzes, die am 28. April 1999 unanfechtbar waren, können, soweit sie auf einer Rechtsnorm beruhen, die nach dem Erlass dieser Bescheide für mit dem Grundgesetz unvereinbar oder nichtig erklärt worden ist, nur mit Wirkung für die Zeit nach dem 30. April 1999 nach § 44 des Zehnten Buches Sozialgesetzbuch zurückgenommen werden.

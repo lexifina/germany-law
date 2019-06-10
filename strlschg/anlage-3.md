@@ -1,0 +1,14 @@
+# Anlage 3 (zu § 55 Absatz 1)Tätigkeitsfelder nach § 55 Absatz 1
+
+1. Schleifen thorierter Schweißelektroden und Wechselstromschweißen mit thorierten Schweißelektroden,
+2. Handhabung und Lagerung thorierter Gasglühstrümpfe,
+3. Handhabung und Lagerung thoriumhaltiger Optikbauteile,
+4. Verwendung von Thorium oder Uran in der natürlichen Isotopenzusammensetzung einschließlich der daraus jeweils hervorgehenden Tochternuklide, sofern vorhanden, zu chemisch-analytischen oder chemisch-präparativen Zwecken,
+5. Handhabung von Produkten aus thorierten Legierungen, insbesondere Montage, Demontage, Bearbeiten und Untersuchen solcher Produkte,
+6. Gewinnung, Verwendung und Verarbeitung von Pyrochlorerzen,
+7. Verwendung und Verarbeitung von Schlacke aus der Verhüttung von Kupferschiefererzen,
+8. Aufarbeitung von Niob- und Tantalerzen,
+9. Handhabung, insbesondere bei Wartungs- oder Reinigungstätigkeiten, von Schlämmen und Ablagerungen bei der Gewinnung, Verarbeitung und Aufbereitung von Erdöl und Erdgas sowie in der Tiefengeothermie,
+10. Verarbeitung zirkonhaltiger Stoffe bei der Herstellung feuerfester Werkstoffe,
+11. Wartung von Klinkeröfen in der Zementproduktion und Heizkesseln in Kohlekraftwerken,
+12. Lagerung überwachungsbedürftiger Rückstände und Entfernung von Kontaminationen von Grundstücken nach § 64.

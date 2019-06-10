@@ -1,0 +1,3 @@
+# Regelung Nr. 40 - Einheitliche Vorschriften für die Genehmigung der
+Krafträder (Motorräder) hinsichtlich der Emission luftverunreinigender Gase aus
+Motoren mit Fremdzündung

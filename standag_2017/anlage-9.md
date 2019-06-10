@@ -1,0 +1,6 @@
+# Anlage 9 (zu § 24 Absatz 5)Kriterium zur Bewertung des Rückhaltevermögens im einschlusswirksamen Gebirgsbereich
+
+Die barrierewirksamen Gesteine eines einschlusswirksamen Gebirgsbereichs sollen ein möglichst hohes Rückhaltevermögen gegenüber den langzeitrelevanten Radionukliden besitzen. Indikatoren hierfür sind die Sorptionsfähigkeit der Gesteine beziehungsweise die Sorptionskoeffizienten für die betreffenden Radionuklide nach der unten stehenden Tabelle, ein möglichst hoher Gehalt an Mineralphasen mit großer reaktiver Oberfläche wie Tonminerale sowie Eisen- und Mangan-Hydroxide und -Oxihydrate, eine möglichst hohe Ionenstärke des Grundwassers in der geologischen Barriere sowie Öffnungsweiten der Gesteinsporen im Nanometerbereich.
+| Bewertungsrelevante Eigenschaft des Kriteriums | Bewertungsgröße beziehungsweise Indikator des Kriteriums | Wertungsgruppe |
+| günstig | bedingt günstig | weniger günstig |
+| Sorptionsfähigkeit der Gesteine des einschlusswirksamen Gebirgsbereichs | Kd-Wert für folgende langzeitrelevante Radionuklide≥ 0,001 m3/kg | Uran, Protactinium, Thorium, Plutonium, Neptunium, Zirkonium, Technetium, Palladium, Jod, Cäsium, Chlor | Uran, Plutonium, Neptunium, Zirkonium, Technetium, Cäsium | – |

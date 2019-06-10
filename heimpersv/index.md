@@ -1,0 +1,18 @@
+# Verordnung über personelle Anforderungen für Heime
+
+- [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Mindestanforderungen](0001.md)
+- [§ 2 Eignung des Heimleiters](0002.md)
+- [§ 3 Persönliche Ausschlußgründe](0003.md)
+- [§ 4 Eignung der Beschäftigten](0004.md)
+- [§ 5 Beschäftigte für betreuende Tätigkeiten](0005.md)
+- [§ 6 Fachkräfte](0006.md)
+- [§ 7 Heime für behinderte Volljährige](0007.md)
+- [§ 8 Fort- und Weiterbildung](0008.md)
+- [§ 9 Ordnungswidrigkeiten](0009.md)
+- [§ 10 Übergangsregelungen](0010.md)
+- [§ 11 Befreiungen](0011.md)
+- [§ 12](0012.md)
+- [§ 13 Inkrafttreten](0013.md)
+- [Schlußformel](schlussformel.md)

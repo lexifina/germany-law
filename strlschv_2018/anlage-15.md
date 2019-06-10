@@ -1,0 +1,14 @@
+# Anlage 15 (zu § 108)Kriterien für die Bedeutsamkeit eines Vorkommnisses in einer geplanten Expositionssituation
+
+1. Exposition einer beruflich exponierten Person, die einen Grenzwert der Körperdosis – effektive Dosis oder Organ-Äquivalentdosis – nach § 78 des Strahlenschutzgesetzes überschreitet, sofern die Exposition nicht eine besonders zugelassene Exposition nach § 74 darstellt.
+2. Exposition einer Einzelperson der Bevölkerung, die einen Grenzwert nach § 80 des Strahlenschutzgesetzes überschreitet.
+3. Überschreitung der zulässigen Ableitung radioaktiver Stoffe mit Luft oder Wasser.
+4. Freisetzungen radioaktiver Stoffe:
+  a) innerhalb eines als Kontrollbereich gekennzeichneten Bereichs, soweit dieser nicht als Sperrbereich gekennzeichnet ist, wenn die Ortsdosisleistung den Wert von 3 Millisievert pro Stunde für mehr als 24 Stunden überschreitet,
+  b) innerhalb eines Überwachungsbereichs, so dass die Einrichtung eines neuen Kontrollbereichs erforderlich ist, oder
+  c) in die Umgebung mit Aktivitäten über den Freigrenzen nach Anlage 4 Tabelle 1 Spalte 2.
+5. Kontaminationen:
+  a) Kontamination innerhalb eines Kontrollbereichs, in einem Bereich, der bestimmungsgemäß nicht kontaminiert sein kann, die das Tausendfache der Werte der Anlage 4 Tabelle 1 Spalte 5 überschreitet und deren Gesamtaktivität in Becquerel mehr als das Hundertfache der Werte der Anlage 4 Tabelle 1 Spalte 2 beträgt,
+  b) Kontamination innerhalb eines Überwachungsbereichs, in einem Bereich, der bestimmungsgemäß nicht kontaminiert sein kann, die das Hundertfache der Werte der Anlage 4 Tabelle 1 Spalte 5 überschreitet und deren Gesamtaktivität in Becquerel mehr als das Zehnfache der Werte der Anlage 4 Tabelle 1 Spalte 2 beträgt oder
+  c) Kontamination, die nicht durch Buchstabe a oder b erfasst ist, die das Zehnfache der Werte der Anlage 4 Tabelle 1 Spalte 5 überschreitet und deren Gesamtaktivität in Becquerel die Werte der Anlage 4 Tabelle 1 Spalte 2 überschreitet.
+6. Außergewöhnlicher Ereignisablauf oder Betriebszustand von erheblich sicherheitstechnischer Bedeutung beim Betrieb einer Röntgeneinrichtung, eines genehmigungsbedürftigen Störstrahlers, bei Anlagen zur Erzeugung ionisierender Strahlung oder beim Umgang mit oder der Beförderung von radioaktiven Stoffen.

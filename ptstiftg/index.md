@@ -1,0 +1,18 @@
+# Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Rechtsform der Stiftung](0001.md)
+- [§ 2 Stiftungszweck](0002.md)
+- [§ 3 Stiftungsvermögen](0003.md)
+- [§ 4 Finanzierung](0004.md)
+- [§ 5 Organe](0005.md)
+- [§ 6 Satzung](0006.md)
+- [§ 7 Kuratorium](0007.md)
+- [§ 8 Aufgaben des Kuratoriums](0008.md)
+- [§ 9 Kurator](0009.md)
+- [§ 10 Aufgaben des Kurators](0010.md)
+- [§ 11 Personal](0011.md)
+- [§ 12 Haushaltsplan, Rechnungsprüfung](0012.md)
+- [§ 13 Rechtsaufsicht](0013.md)
+- [§ 14 Dienstsiegel](0014.md)
+- [§ 15 Steuer-, Gebühren- und Abgabenbefreiung](0015.md)

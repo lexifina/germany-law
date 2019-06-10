@@ -1,0 +1,3 @@
+# Artikel 2 Inkrafttreten
+
+Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

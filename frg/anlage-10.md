@@ -1,0 +1,22 @@
+# Anlage 10
+
+(Fundstelle: BGBl. Teil III 824-2, S. 18)
+| Gehalts- oder Beitragsklassen für weibliche Versicherte der Rentenversicherung der Angestellten |
+| Zeitraum | Angestellte der Leistungsgruppe |
+| 1 | 2 | 3 | 4 | 5 |
+| Vom 1. Januar 1891 ............. |  |  |  |  |  |
+| bis 31. Dezember 1899 ............. | D | D | C | B | A |
+| Vom 1. Januar 1900 ............. |  |  |  |  |  |
+| bis 31. Dezember 1906 ............. | E | D | C | C | B |
+| Vom 1. Januar 1907 ............. |  |  |  |  |  |
+| bis 31. Dezember 1912 ............. | E | E | D | C | B |
+| Vom 1. Januar 1913 ............. |  |  |  |  |  |
+| bis 31. Juli 1921 ............. | F | E | D | C | B |
+| Vom 1. Januar 1924 ............. |  |  |  |  |  |
+| bis 31. Dezember 1925 ............. | D | C | C | B | B |
+| Vom 1. Januar 1926 ............. |  |  |  |  |  |
+| bis 31. Dezember 1933 ............. | E | D | C | C | B |
+| Vom 1. Januar 1934 ............. |  |  |  |  |  |
+| bis 31. Dezember 1938 ............. | E | D | C | C | B |
+| Vom 1. Januar 1939 ............. |  |  |  |  |  |
+| bis 30. Juni 1942 ............. | E | D | D | C | C |

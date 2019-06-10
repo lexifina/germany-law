@@ -1,0 +1,16 @@
+# Pflanzenschutz-Sachkundeverordnung
+
+- [§ 1 Nachweis der erforderlichen fachlichen Kenntnisse und Fertigkeiten](0001.md)
+- [§ 2 Ausstellung und Gestaltung des Sachkundenachweises](0002.md)
+- [§ 3 Prüfungen](0003.md)
+- [§ 4 Durchführung der Prüfungen](0004.md)
+- [§ 5 Entzug und Wiedererlangung der Sachkunde](0005.md)
+- [§ 6 Anerkennung von Befähigungsnachweisen aus anderen Staaten](0006.md)
+- [§ 7 Anerkennung von Fort- oder Weiterbildungsmaßnahmen](0007.md)
+- [§ 8 Nachweis einer Fort- oder Weiterbildung](0008.md)
+- [§ 9 Übergangsvorschrift](0009.md)
+- [Anlage 1 (zu § 1 Absatz 1 und 2, § 3 Absatz 3 und § 6 Absatz 2)Erforderliche fachliche Kenntnisse und Fertigkeiten](anlage-1.md)
+- [Anlage 2 (zu § 1 Absatz 1 und 2)Liste der anerkannten Berufsabschlüsse](anlage-2.md)
+- [Anlage 3 (zu § 2 Absatz 1)Muster eines Sachkundenachweises](anlage-3.md)
+- [Anlage 4 (zu § 4 Absatz 8)Muster eines Zeugnisses über eine Sachkundeprüfung](anlage-4.md)
+- [Anlage 5 (zu § 8)Nachweis über die Teilnahme an einer Fort- oder Weiterbildungsmaßnahme zur Sachkunde im Pflanzenschutz](anlage-5.md)

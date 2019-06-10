@@ -1,0 +1,23 @@
+# Anlage 2 (zu § 2 Abs. 1 Nr. 2 Buchstabe b, § 4 Abs. 2 und 3)
+
+| Fundstelle des Originaltextes: BGBl. I 1999, 38 |
+| Kapitel 6 - Flugzeuge: |
+| Höchstzulässige Startmasse(kg) | Lärmgrenzwert(dB(A)) |
+| 1.500 oder mehr | 76 |
+| 600 oder weniger | 64 |
+| Der Lärmgrenzwert erhöht sich linear von 600 kg bis 1.500 kg höchstzulässiger Startmasse und läßt sich wie folgt berechnen: |
+|  |
+| L(tief)grenz = 64 + (M-600) | 4 | (dB(A)) |
+| --- |
+| 300 |
+| M = höchstzulässige Startmasse in kg. |
+|  |
+| Kapitel 10 - Flugzeuge: |
+| Höchstzulässige Startmasse(kg) | Lärmgrenzwert(dB(A)) |
+| 1.500 bis 9.000 | 85 |
+| 500 oder weniger | 68 |
+| Der Lärmgrenzwert erhöht sich linear von 500 kg bis 1.500 kg höchstzulässiger Startmasse und läßt sich wie folgt berechnen: |
+|  |
+| L(tief)grenz = 68 + (M-500) 0.017 (dB(A)) |
+|  |
+| M = höchstzulässige Startmasse in kg. |

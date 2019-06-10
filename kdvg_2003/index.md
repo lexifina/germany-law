@@ -1,0 +1,15 @@
+# Gesetz über die Verweigerung des Kriegsdienstes mit der Waffe aus Gewissensgründen
+
+- [§ 1 Grundsatz](0001.md)
+- [§ 2 Antrag](0002.md)
+- [§ 3 Folgen des Antrags](0003.md)
+- [§ 4 Vorrangige Entscheidung](0004.md)
+- [§ 5 Anerkennung](0005.md)
+- [§ 6 Anhörung](0006.md)
+- [§ 7 Ablehnung des Antrags](0007.md)
+- [§ 8 Vertretung bei der Anhörung](0008.md)
+- [§ 9 Widerspruchsverfahren](0009.md)
+- [§ 10 Verwaltungsgerichtliches Verfahren](0010.md)
+- [§ 11 Spannungs- und Verteidigungsfall, Bereitschaftsdienst](0011.md)
+- [§ 12 Aktenführung](0012.md)
+- [§ 13 (weggefallen)](0013.md)

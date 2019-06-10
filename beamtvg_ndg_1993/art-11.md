@@ -1,0 +1,3 @@
+# Art 11 Übergangsregelung
+
+Artikel 1 Nr. 3, 7, 9, 10 Buchstabe b, Nr. 16 Buchstabe a, Nr. 17 und 24 sowie Artikel 2 Nr. 6 Buchstabe b, Nr. 9, 11, 12 Buchstabe b, Nr. 18 Buchstabe a, Nr. 19 und 38 dieses Gesetzes finden auf die Rechtsverhältnisse der im Zeitpunkt des Inkrafttretens dieser Vorschriften vorhandenen Versorgungsempfänger keine Anwendung. Satz 1 gilt entsprechend für die Hinterbliebenen eines nach Inkrafttreten dieses Gesetzes verstorbenen Versorgungsempfängers. Die Vorschriften der Beamtenversorgungs-Übergangsverordnung und der Soldatenversorgungs-Übergangsverordnung bleiben unberührt.

@@ -1,0 +1,94 @@
+# Anlage (zu § 15) Liste der verbundenen Einrichtungen
+
+Folgende Einrichtungen sind als "mit der Regierung verbundene Einrichtungen, die als Behörde handeln oder deren Funktion durch einen internationalen Vertrag anerkannt ist," im Sinne des § 15 zu betrachten:
+- Einrichtungen innerhalb der Europäischen Union:
+  Belgien Region flamande (Vlaams Gewest) (Flämische Region)
+          Region wallonne (Wallonische Region)
+          Region bruxelloise (Brussels Gewest) (Region Brüssel-Hauptstadt)
+          Communaute francaise (Französische Gemeinschaft)
+          Communaute flamande (Vlaamse Gemeenschap) (Flämische Gemeinschaft)
+          Communaute germanophone (Deutschsprachige Gemeinschaft)
+        Bulgarien Общините (Städte und Gemeinden)
+          Социалноосигурителни фондове (Sozialversicherungsfonds)
+        Spanien Xunta de Calicia (Regierung der autonomen Gemeinschaft Galicien)
+          Junta de Andalucia (Regierung der autonomen Gemeinschaft Andalusien)
+          Junta de Extremadura (Regierung der autonomen Gemeinschaft Extremadura)
+          Junta de Castilla-La Mancha (Regierung der autonomen Gemeinschaft Kastilien-La Mancha)
+          Junta de Castilla-Leon (Regierung der autonomen Gemeinschaft Kastilien und Leon)
+          Gobierno Foral de Navarra (Regierung der autonomen Gemeinschaft Navarra)
+          Govern de les Illes Balears (Regierung der autonomen Gemeinschaft Balearen)
+          Generalitat de Catalunya (Regierung der autonomen Gemeinschaft Katalonien)
+          Generalitat de Valencia (Regierung der autonomen Gemeinschaft Valencia)
+          Diputacion General de Aragon (Regierung der autonomen Gemeinschaft Aragon)
+          Gobierno de la Islas Canarias (Regierung der autonomen Gemeinschaft Kanarische Inseln)
+          Gobierno de Murcia (Regierung der autonomen Gemeinschaft Murcia)
+          Gobierno de Madrid (Regierung der autonomen Gemeinschaft Madrid)
+          Gobierno de la Comunidad Autonoma del Pais Vasco/Euzkadi (Regierung der autonomen Gemeinschaft Baskenland)
+          Diputacion Foral de Cuipuzcoa (Provinzrat von Cuipuzcoa)
+          Diputacion Foral de Vizcaya/Biskaia (Provinzrat von Biskaya)
+          Diputacion Foral de Alava (Provinzrat von Alava)
+          Ayuntamiento de Madrid (Stadt Madrid)
+          Ayuntamiento de Barcelona (Stadt Barcelona)
+          Cabildo Insular de Gran Canaria (Inselrat Gran Canaria)
+          Cabildo Insular de Tenerife (Inselrat Teneriffa)
+          Instituto de Credito Oficial (Amtliches Kreditinstitut)
+          Instituto Catalan de Finanzas (Katalanisches Finanzinstitut)
+          Instituto Valenciano de Finanzas (Valencianisches Finanzinstitut)
+        Griechenland Griechische Telekommunikationsanstalt
+          Griechisches Eisenbahnnetz
+          Staatliche Elektrizitätswerke
+        Frankreich La Caisse d'amortissement de la dette social (CADES) (Schuldenfinanzierungskasse der Sozialversicherung)
+          L'Agence francaise de developpement (AFD) (Französische Agentur für Entwicklung)
+          Reseau Ferre de France (RFF) (Eigentums- und Verwaltungsgesellschaft des französischen Eisenbahnnetzes)
+          Caisse Nationale des Autoroutes (CNA) (Staatliche Finanzierungskasse der Autobahnen)
+          Assistance publique Hopitaux des Paris (APHP) (Verbund der öffentlichen Krankenhäuser des Großraums Paris)
+          Charbonnages des France (CDF) (Zentralverwaltung der staatlichen französischen Steinkohleförderunternehmen)
+          Entreprise miniere et chimique (EMC.) (Staatliche Bergbau- und Chemieholdinggesellschaft)
+        Italien Regionen
+          Provinzen
+          Städte und Gemeinden
+          Cassa Depositi e Prestiti (Spar- und Kreditkasse)
+        Lettland (Kommunalverwaltungen)
+        Polen (Gemeinden)
+          (Bezirke)
+          (Woidwodschaften)
+          (Gemeindeverbände)
+          powiatow (Bezirksverbände)
+          wojewodztw
+          (Woiwodschaftsverbände)
+          miastro stoleczne Warszawa
+          (Hauptstadt Warschau)
+          (Amt für Umstrukturierung und Modernisierung der Landwirtschaft)
+          (Amt für landwirtschaftliche Eigentumsfragen)
+        Portugal Regiao autonoma da Madeira (Autonome Region Madeira)
+          Regiao autonoma dos Acores (Autonome Region Azoren)
+        Rumänien autorităţile administraţiei publice locale (lokale Behörden der öffentlichen Verwaltung)
+        Slowakei mesta a obce (Gemeinden)
+          Zeleznice Slovenskey republiky (Slowakische Eisenbahngesellschaft)
+          (Staatlicher Straßenfonds)
+          (Slowakische Kraftwerke)
+          (Wasserwirtschaftsgesellschaft)
+Städte und Gemeinden
+- internationale Einrichtungen:
+  Europäische Bank für Wiederaufbau und Entwicklung
+  Europäische Investitionsbank
+  Asiatische Entwicklungsbank
+  Afrikanische Entwicklungsbank
+  Weltbank/IBRD/IWF
+  Internationale Finanzkorporation
+  Interamerikanische Entwicklungsbank
+  Sozialentwicklungsfonds des Europarats
+  EURATOM
+  Europäische Gemeinschaft
+  Corporacion Andina de Fomento (CAF) (Anden-Entwicklungsgesellschaft)
+  Eurofima
+  Europäische Gemeinschaft für Kohle und Stahl
+  Nordische Investitionsbank
+  Karibische Entwicklungsbank
+  Die Bestimmungen des § 15 gelten unbeschadet internationaler Verpflichtungen, die die Mitgliedstaaten in Bezug auf die oben aufgeführten internationalen Einrichtungen eingegangen sind.
+- Einrichtungen in Drittländern:
+  Einrichtungen, die folgende Kriterien erfüllen:
+  1. Die Einrichtung gilt nach im Geltungsbereich der Verordnung anzuwendenden Kriterien eindeutig als öffentliche Körperschaft.
+  2. Sie ist eine von der Regierung kontrollierte Einrichtung, die gemeinwirtschaftliche Aktivitäten verwaltet und finanziert, wozu in erster Linie die Bereitstellung von gemeinwirtschaftlichen (nicht marktbestimmten) Gütern und Dienstleistungen zum Nutzen der Allgemeinheit gehört.
+  3. Sie legt regelmäßig in großem Umfang Anleihen auf.
+  4. Der betreffende Staat kann gewährleisten, dass die betreffende Einrichtung im Falle von Bruttozinsklauseln keine vorzeitige Tilgung vornehmen wird.

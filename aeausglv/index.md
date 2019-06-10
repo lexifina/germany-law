@@ -1,0 +1,23 @@
+# Verordnung über den Ausgleich gemeinwirtschaftlicher Leistungen im
+Eisenbahnverkehr
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ausbildungsverkehr](0001.md)
+- [§ 2 Kostenbestandteile für die Festlegung der Kostensätze](0002.md)
+- [§ 3 Ermittlung der Personen-Kilometer für die
+Berechnung des Ausgleichs](0003.md)
+- [§ 4 Ermittlung der Erträge](0004.md)
+- [§ 5 Sonderregelung bei Einnahmeaufteilungsverträgen](0005.md)
+- [§ 6 Länderüberschreitender Verkehr](0006.md)
+- [§ 7 Antrag](0007.md)
+- [§ 8 Entscheidung](0008.md)
+- [§ 9 Änderung der Voraussetzungen](0009.md)
+- [§ 10 Vorauszahlungen](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage (zu § 2)](anlage.md)
+- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
+
+(BGBl. II 1990, 889, 1099)
+
+- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)

@@ -1,0 +1,8 @@
+# Art 39
+
+(1)
+Der Bezogene kann vom Inhaber gegen Zahlung die Aushändigung des quittierten Wechsels verlangen.
+(2)
+Der Inhaber darf eine Teilzahlung nicht zurückweisen.
+(3)
+Im Falle der Teilzahlung kann der Bezogene verlangen, daß sie auf dem Wechsel vermerkt und ihm eine Quittung erteilt wird.

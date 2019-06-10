@@ -1,0 +1,20 @@
+# Anlage 1 (zu § 7 Abs. 5)Muster
+
+(Fundstelle: BGBl. I 2008, 106;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| ............................................................................... .............................................................................. . ............................................................................... .................... |
+| (Bezeichnung der zuständigen Stelle) |
+Zeugnis
+über die Prüfung zum anerkannten Abschluss
+Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung
+| Herr/Frau ..................................................................... .............................................................................. . ............................................................................... .............. |
+| geboren am ............................................................................ ................................ | in ............................................................................ ............................................... |
+| hat am ............................................................................ ........................................ | die Prüfung zum anerkannten Abschluss |
+Geprüfter Industriemeister/Geprüfte Industriemeisterin
+– Fachrichtung Papier- und Kunststoffverarbeitung
+| nach der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/GeprüfteIndustriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung vom 25. Januar 2008 (BGBl. I S. 99, 254), die zuletzt durch Artikel 32 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, |
+| bestanden. |
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+| Datum ......................................................................... .................... |
+| Unterschrift(en) .............................................................. ................. |
+| (Siegel der zuständigen Stelle) |

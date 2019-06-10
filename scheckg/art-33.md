@@ -1,0 +1,3 @@
+# Art 33
+
+Auf die Wirksamkeit des Schecks ist es ohne Einfluß, wenn der Aussteller nach der Begebung des Schecks stirbt oder handlungsunfähig wird.

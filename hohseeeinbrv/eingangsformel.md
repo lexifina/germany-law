@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des Artikels 7 Abs. 2 Nr. 1 Buchstabe e und Nr. 2 des Gesetzes vom 11. Februar 1977 zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge (BGBl. 1977 II S. 165) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes wird - hinsichtlich der Kosten im Einvernehmen mit dem Bundesminister der Finanzen und im übrigen im Einvernehmen mit den Bundesministerien des Innern und für Wirtschaft - mit Zustimmung des Bundesrates sowie auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten verordnet:

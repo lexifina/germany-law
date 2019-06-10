@@ -1,0 +1,15 @@
+# Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestages und des Bundesrates in Angelegenheiten der Europäischen Union
+
+- [§ 1 Integrationsverantwortung](0001.md)
+- [§ 2 Vereinfachtes Vertragsänderungsverfahren](0002.md)
+- [§ 3 Besondere Vertragsänderungsverfahren](0003.md)
+- [§ 4 Brückenklauseln](0004.md)
+- [§ 5 Zustimmung im Europäischen Rat bei besonderen Brückenklauseln](0005.md)
+- [§ 6 Zustimmung im Rat bei besonderen Brückenklauseln](0006.md)
+- [§ 7 Kompetenzerweiterungsklauseln](0007.md)
+- [§ 8 Flexibilitätsklausel](0008.md)
+- [§ 9 Notbremsemechanismus](0009.md)
+- [§ 10 Ablehnungsrecht bei Brückenklauseln](0010.md)
+- [§ 11 Subsidiaritätsrüge](0011.md)
+- [§ 12 Subsidiaritätsklage](0012.md)
+- [§ 13 Unterrichtung](0013.md)

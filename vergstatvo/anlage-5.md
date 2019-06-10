@@ -1,0 +1,21 @@
+# Anlage 5 (zu § 3 Absatz 5)Daten, die durch Konzessionsgeber nach Vergabe einer Konzession an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind
+
+| lfd. Nr. | Bezeichnung lt. Anhang XXII zur Durchführungsverordnung (EU) 2015/1986 | Bemerkung |
+| 1 | Abschnitt I: Öffentlicher Auftraggeber/Auftraggeber I.1) Name und Adressen Postleitzahl | Postleitzahl des Sitzes des Konzessionsgebers bzw. der Dienststelle/Vergabestelle. |
+| 2 | Abschnitt I: Öffentlicher Auftraggeber/Auftraggeber I.1) Name und Adressen E-Mail | Angabe einer funktionalen, nicht personenbezogenen E-Mail-Adresse des Konzessionsgebers. |
+| 3 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.2) CPV-Code Hauptteil CPV-Code Zusatzteil | CPV = Common Procurement Vocabulary-Nomenklatur (gemeinsames Vokabular für öffentliche Aufträge) |
+| 4 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.3) Art des Auftrags◯ Bauauftrag◯ Dienstleistung |  |
+| 5 | Abschnitt I: Öffentlicher Auftraggeber I.4) Art des öffentlichen Auftraggebers◯ Ministerium oder sonstige zentral- oder bundesstaatliche Behörde einschließlich regionaler oder lokaler Unterabteilungen◯ Agentur/Amt auf zentral- oder bundesstaatlicher Ebene◯ Regional- oder Kommunalbehörde◯ Agentur/Amt auf regionaler oder lokaler Ebene◯ Einrichtung des öffentlichen Rechts◯ Europäische Institution/Agentur oder internationale Organisation◯ anderer öffentlicher Auftraggeber | Bei Veröffentlichung der Bekanntmachung durch einen Konzessionsgeber gem. § 101 Abs. 1 Nummer 1 GWB (öffentlicher Auftraggeber, der eine Konzession vergibt). |
+| 6 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.6) Angaben zu den Losen Aufteilung des Auftrags in Lose◯ ja ◯ nein |  |
+| 7 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.7) Gesamtwert der Beschaffung (ohne MwSt.) Wert |  |
+| 8 | Abschnitt II: Gegenstand II.2) Beschreibung II.2.5) Zuschlagskriterien | Die Angaben zu den Zuschlagskriterien umfassen auch Angaben zu qualitativen, umweltbezogenen oder sozialen Kriterien im Sinne von § 152 Abs. 3 GWB und § 31 KonzVgV. |
+| 9 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.1) Verfahrensart◯ Vergabeverfahren mit vorheriger Veröffentlichung einer Konzessionsbekanntmachung◯ Vergabeverfahren ohne vorherige Veröffentlichung einer Konzessionsbekanntmachung |  |
+| 10 | Abschnitt IV: Verfahren IV.2) Verwaltungsangaben IV.2.1) Frühere Bekanntmachung zu diesem Verfahren Bekanntmachungsnummer im ABl. |  |
+| 11 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.1) Tag der Entscheidung über die Konzessionsvergabe (TT/MM/JJJJ) |  |
+| 12 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote |  |
+| 13 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote von KMU | Anzahl der eingegangenen Angebote von kleinen oder mittleren Unternehmen gemäß der Definition in der Empfehlung 2003/361/EC der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36). |
+| 14 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote von Bietern aus anderen EU-Mitgliedstaaten |  |
+| 15 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.2) Angaben zu den Angeboten Anzahl der elektronisch eingegangenen Angebote |  |
+| 16 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.3) Name und Anschrift des Konzessionärs Der Konzessionär ist ein KMU◯ ja ◯ nein | Konzessionär = Konzessionsnehmer |
+| 17 | Abschnitt V: Vergabe einer Konzession V.2) Vergabe einer Konzession V.2.3) Name und Anschrift des Konzessionärs Land | Staat, in dem der Konzessionsnehmer seinen Sitz hat. |
+| 18 | Anhang D4 – Konzession Begründung der Konzessionsvergabe ohne vorherige Konzessionsbekanntmachung im Amtsblatt der Europäischen Union (ABl. S) | Begründung der Konzessionsvergabe ohne vorherige Bekanntmachung (Nummer 8 „Vergabeverfahren ohne vorherige Veröffentlichung einer Konzessionsbekanntmachung“) entsprechend der in Anhang D4 aufgeführten Fallgruppen. |

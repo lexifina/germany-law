@@ -1,0 +1,16 @@
+# Verordnung über die Bescheinigung über die Meldung als Asylsuchender
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](0001.md)
+- [§ 2 Dokumentationspflichten](0002.md)
+- [§ 3 Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten](0003.md)
+- [§ 4 Ausstellung des Ankunftsnachweises](0004.md)
+- [§ 5 Muster für den Ankunftsnachweis](0005.md)
+- [§ 6 Aushändigung des Ankunftsnachweises](0006.md)
+- [§ 7 Änderung der Anschrift, Verlängerung](0007.md)
+- [§ 8 Inkrafttreten](0008.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu § 1)Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 1 und § 4 Absatz 1)Formale Anforderungen an variable Einträge](anlage-2.md)
+- [Anlage 3 (zu § 3 Absatz 2)Übersicht über die zu zertifizierenden Systemkomponenten](anlage-3.md)
+- [Anlage 4 (zu § 5)Muster des Ankunftsnachweises](anlage-4.md)

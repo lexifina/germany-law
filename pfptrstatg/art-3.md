@@ -1,0 +1,9 @@
+# Art 3 Ermächtigung zum Erlaß von Rechtsverordnungen
+
+(1)
+Die Bundesregierung Deutschland wird ermächtigt, Vereinbarungen mit Vertragsparteien des Übereinkommens über
+a) Einreise und vorübergehenden Aufenthalt ihrer Streitkräfte für Übungen, Durchreise auf dem Landwege und Ausbildung von Einheiten sowie
+b) die Rechtsstellung der Streitkräfte und ihrer Angehörigen, ihres zivilen Gefolges und der Familienangehörigen bei Aufenthalten im jeweils anderen Staat
+durch Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen. Diese Vereinbarungen bestimmen abweichend von Artikel I des Übereinkommens in Verbindung mit Artikel VII des NATO-Truppenstatuts, daß die Gerichte und Behörden des Entsendestaats im Aufnahmestaat keine Strafgerichtsbarkeit ausüben, und enthalten auf der Grundlage der Gegenseitigkeit Regelungen gemäß Artikel 2 § 7 Abs. 2 und 3 des Streitkräfteaufenthaltsgesetzes vom 20. Juli 1995 (BGBl. 1995 II S. 554). In diese Vereinbarungen sind, gegebenenfalls auf der Grundlage der Gegenseitigkeit, weitere Regelungen gemäß Artikel 2 des Streitkräfteaufenthaltsgesetzes aufzunehmen, soweit nach ihrem Gegenstand und Zweck erforderlich.
+(2)
+Die betroffenen Länder werden beteiligt.

@@ -1,0 +1,92 @@
+# Anlage (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Leichtflugzeugbauer/zur Leichtflugzeugbauerin
+
+(Fundstelle: BGBl. I 1986, 2115 - 2119)
+| I. Berufliche Grundbildung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbilds | zu vermittelnde Fertigkeiten und Kenntnisse | zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung (§ 4 Nr. 1) | a) | Bedeutung des Ausbildungsvertrags, insbesondere Abschluß, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebs (§ 4 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebs erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebs wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebs und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebs beschreiben |
+| 3 | Arbeits- und Tarifrecht, Arbeitsschutz (§ 4 Nr. 3) | a) | Wesentliche Teile des Arbeitsvertrags nennen |
+| b) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| c) | Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern |
+| d) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen |
+| 4 | Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 4 Nr. 4) | a) | berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherungen, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter nennen und beachten |
+| b) | unfallverursachendes Verhalten sowie berufstypische Unfallquellen und Unfallsituationen beschreiben |
+| c) | Vorsichtsmaßnahmen beim Umgang mit Kunstharzen und Lösungsmitteln beachten |
+| d) | Regeln für den vorbeugenden Brand- und den Explosionsschutz beschreiben |
+| e) | Gefahren im Umgang mit elektrischem Strom beschreiben |
+| f) | Verhalten bei Unfällen und Bränden beschreiben |
+| g) | Maßnahmen der Ersten Hilfe einleiten |
+| h) | Maßnahmen zur Vermeidung von arbeitsplatzbedingten Umweltbelastungen nennen |
+| i) | die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen |
+| 5 | Lesen und Anfertigen von Skizzen und Zeichnungen(§ 4 Nr. 5) | a) | Zeichengeräte handhaben |
+| b) | technische Tabellen, Richtlinien und Merkblätter anwenden |
+| c) | Skizzen und Zeichnungen anfertigen |
+| d) | Pläne, Zeichnungen und Stücklisten lesen |
+| 6 | Be- und Verarbeiten von Holz und Holzwerkstoffen(§ 4 Nr. 6) | a) | Eigenschaften, Erkennungsmerkmale und Verwendung von berufsüblichen Holzarten und Holzwerkstoffen nennen | 16 |  |  |
+| b) | Holz und Holzwerkstoffe lagern |
+| c) | Fehler und Güteklassen des Holzes beschreiben |
+| d) | Holz und Holzwerkstoffe nach den für die Verwendung wichtigen Eigenschaften auswählen |
+| e) | Meßzeuge und Anreißwerkzeuge nennen und anwenden |
+| f) | Handwerkzeuge für die Holzbearbeitung nennen, handhaben und instandhalten, insbesondere Sägen, Hobel, Bohrer und Stechbeitel |
+| g) | Säge-, Hobel-, Feil-, Schleif und Bohrarbeiten von Hand ausführen |
+| h) | Holzverbindungen aus Vollholz und Holzwerkstoffen herstellen, insbesondere Fügen, Eckverbindungen und Schäften |
+| i) | Nagel-, Klammer-, Schraub- und Leimverbindungen herstellen |
+| 7 | Arbeiten mit Metallen(§ 4 Nr. 7) | a) | Arten und Eigenschaften der berufsüblichen Metalle beschreiben | 10 |  |  |
+| b) | einschlägige Handwerkzeuge für die Metallbearbeitung nennen, handhaben und instand halten |
+| c) | Meß-, Anreiß-, Säge-, Feil-, Bohr- und Abkantarbeiten von Hand ausführen |
+| d) | Gewinde schneiden |
+| e) | Metallteile mit Nieten und Klebstoffen sowie durch Löten und Schweißen verbinden |
+| f) | Schraubverbindungen herstellen und sichern |
+| 8 | Bearbeiten von Kunststoffen(§ 4 Nr. 8) | a) | Arten und Eigenschaften von einschlägigen Kunststoffen nennen | 10 |  |  |
+| b) | Kunststoffteile lagern |
+| c) | Kunststoffe schneiden, bohren, verformen und verbinden |
+| 9 | Verarbeiten von faserverstärkten Kunststoffmaterialien(§ 4 Nr. 9) | a) | Eigenschaften und Verwendungsmöglichkeiten von Kunstharzen und Faserverstärkungsmaterialien beschreiben | 16 |  |  |
+| b) | Kunstharze und Faserverstärkungsmaterialien lagern, auswählen und aufbereiten |
+| c) | einfache faserverstärkte Kunststoffteile herstellen |
+| d) | Hilfswerkstoffe nennen und deren Verwendung beschreiben, insbesondere Befestigungsmittel, Schleifmittel und Klebstoffe |
+| II. Berufliche Fachbildung |
+| 1 | Verarbeiten von faserverstärkten Kunststoffmaterialien (§ 4 Nr. 9) | a) | Strangziehverfahren bei der Herstellung von Bauteilen anwenden |  | 14 |  |
+| b) | faserverstärkte Kunststoffteile im Handlaminierverfahren herstellen |
+| c) | faserverstärkte Kunststoffsandwichteile herstellen |
+| d) | Verfahren zur Wärmebehandlung von faserverstärkten Kunststoffen beschreiben und anwenden |
+| 2 | Einrichten, Bedienen und Warten von Maschinen und Geräten(§ 4 Nr. 10) | a) | Aufbau und Funktion von Handmaschinen und stationäre Maschinen beschreiben |  | 6 |  |
+| b) | Aufgaben von elektrischen Schutzeinrichtungen beschreiben |
+| c) | Handmaschinen einsetzen |
+| d) | Holz-, Metall- und Kunststoffbearbeitungsmaschinen einrichten und bedienen |  |  | 8 |
+| e) | Maschinenwerkzeuge instandhalten |
+| f) | Schärfen von Maschinenwerkzeugen beschreiben |
+| g) | Maschinen, Geräte und Vorrichtungen warten |
+| h) | Störungen an Maschinen und Geräten erkennen und geeignete Maßnahmen zu ihrer Behebung veranlassen |
+| 3 | Herstellen und Anwenden von Vorrichtungen und Formen (§ 4 Nr. 11) | a) | Vorrichtungen und Formen nach dem Verwendungszweck unterscheiden |  | 2 |  |
+| b) | Werkstoffe für den Formen- und Vorrichtungsbau auswählen |  |  | 10 |
+| c) | Schablonen und Vorrichtungen anfertigen |
+| d) | Urmodelle anfertigen |
+| e) | Formen herstellen |
+| f) | Vorrichtungen und Formen instandhalten |
+| 4 | Herstellen von Teilen und Hauptbaugruppen für Leichtflugzeuge (§ 4 Nr. 12) | a) | Einbauteile herstellen, insbesondere Rippen, Spanten, Stege, Ruder, Klappen und Verkleidungen |  | 10 |  |
+| b) | Schalen laminieren |  | 8 |  |
+| c) | Einbauteile einkleben |
+| d) | Beschläge montieren |
+| e) | Schalen verkleben |
+| 5 | Behandeln von Oberflächen (§ 4 Nr. 13) | a) | Materialien und Verfahrenstechniken zur Oberflächenbehandlung nennen |  | 12 |  |
+| b) | unterschiedliche Verfahrenstechniken zur Oberflächenbehandlung anwenden, insbesondere Schleifen, Spachteln, Lackieren und Polieren |
+| c) | Oberflächen ausbessern |
+| d) | Korrosionsschutzmaßnahmen beschreiben und durchführen |
+| 6 | Endmontage von Leichtflugzeugen(§ 4 Nr. 14) | a) | Teile zu Hauptbaugruppen zusammenbauen |  |  | 22 |
+| b) | Hauptbaugruppen zusammenfügen |
+| c) | Fahrwerk und Beschläge montieren |
+| d) | Steuerwerk einstellen |
+| e) | Bordgeräte einsetzen, anschließen und auf Funktion überprüfen |
+| f) | Wägung und Endkontrolle durchführen |
+| 7 | Warten und Instandsetzen von Leichtflugzeugen (§ 4 Nr. 15) | a) | Wartungen und Reparaturen nach schriftlichen Anweisungen durchführen |  |  | 12 |
+| b) | Schäden an Zelle, Beschlägen und Bordgeräten feststellen |

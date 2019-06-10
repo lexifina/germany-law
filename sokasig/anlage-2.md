@@ -1,0 +1,343 @@
+# Anlage 2 (zu § 1 Absatz 2)Auszug aus dem Tarifvertrag über die Berufsbildung im Baugewerbe (BBTV) vom 29. Januar 1987, zuletzt geändert durch Tarifvertrag vom 3. Mai 2013
+
+Inhaltsverzeichnis:
+| § 1 | Geltungsbereich |
+|  |  |
+| Abschnitt I: Ansprüche des Auszubildenden gegen den Arbeitgeber |
+|  |  |
+| § 2 | Ausbildungsvergütung |
+| § 3 | Ausbildungsvergütung bei Verlängerung der Ausbildungszeit |
+| § 4 | Ausbildungsvergütung bei Anrechnung anderer Ausbildungszeiten |
+| § 5 | Zuschläge bei Mehrarbeit und bei Arbeit an Sonn- und Feiertagen |
+| § 6 | Freistellung am 24. und 31. Dezember |
+| § 7 | Erschwerniszuschläge |
+| § 8 | Fahrtkosten bei überbetrieblicher Ausbildung |
+| § 9 | Nichtanwendung des § 7 BRTV und des § 7 RTV Angestellte |
+| § 10 | Urlaubsdauer für gewerblich Auszubildende |
+| § 11 | Urlaubsvergütung für gewerblich Auszubildende |
+| § 12 | Entstehung der Urlaubsansprüche gewerblich Auszubildender |
+| § 13 | Urlaubsgewährung für gewerblich Auszubildende |
+| § 14 | Urlaub bei Beendigung des Ausbildungsverhältnisses gewerblich Auszubildender |
+| § 15 | Geltung der Rahmentarifverträge |
+| § 16 | Ausschlussfristen |
+| § 17 | Gebühren der überbetrieblichen Ausbildungsstätte |
+| § 18 | Urlaubs- und Lohnausgleichskasse der Bauwirtschaft |
+|  |  |
+| Abschnitt II: Erstattung von Ausbildungsvergütungen |
+|  |  |
+| § 19 | Voraussetzungen und Höhe |
+| § 20 | Verfahren |
+| § 21 | Spitzenausgleichsverfahren |
+| § 22 | Anzeigepflicht bei vorzeitiger Beendigung des Ausbildungsverhältnisses |
+| § 23 | Erstattung von Urlaubskosten |
+|  |  |
+| Abschnitt III: Erstattung von überbetrieblichen Ausbildungskosten |
+|  |  |
+| § 24 | Höhe und Ermittlung der erstattungsfähigen überbetrieblichen Ausbildungskosten |
+| § 25 | Eintragung der überbetrieblichen Ausbildungsstätte |
+| § 26 | Nachweis der Kosten durch die überbetriebliche Ausbildungsstätte |
+| § 27 | Verfahren bei Erstattung überbetrieblicher Ausbildungskosten |
+| § 28 | Verfahren bei Fahrtkostenerstattung |
+|  |  |
+| Abschnitt IV: Erstattung der Ausbildungskosten in besonderen Fällen |
+|  |  |
+| § 29 | Zweitausbildung |
+| § 30 | Duale Studiengänge |
+|  |  |
+| Abschnitt V: Beitrag und Schlussbestimmungen |
+|  |  |
+| § 31 | Verfall und Verjährung |
+| § 32 | Beitrag |
+| § 33 | Erfüllungsort und Gerichtsstand |
+| § 34 | Verfahrenstarifverträge |
+| § 35 | Verfahrensvereinfachungen |
+| § 36 | Durchführung des Tarifvertrages |
+| § 37 | Inkrafttreten und Laufdauer |
+§ 1
+Geltungsbereich
+(1)
+Räumlicher Geltungsbereich:
+Das Gebiet der Bundesrepublik Deutschland.
+(2)
+Betrieblicher Geltungsbereich:
+Betriebe, die unter den betrieblichen Geltungsbereich des Tarifvertrages über das Sozialkassenverfahren im Baugewerbe (VTV) in der jeweils geltenden Fassung fallen (Baubetriebe).
+(3)
+Persönlicher Geltungsbereich:
+Erfasst werden Auszubildende, die
+1. erstmals in einem staatlich anerkannten Ausbildungsberuf im Sinne des § 4 des Berufsbildungsgesetzes (BBiG) oder des § 25 der Handwerksordnung (HwO) – auch nach vorangegangener beruflicher Tätigkeit – ausgebildet werden (Erstausbildung),
+2. nach vorangegangener abgeschlossener Berufsausbildung – auch im Baugewerbe – und ggf. anschließender beruflicher Tätigkeit in einem weiteren staatlich anerkannten Ausbildungsberuf im Sinne des § 4 BBiG oder des § 25 HwO ausgebildet werden (Zweitausbildung).
+In den Fällen, in denen die Voraussetzungen des Satzes 1 nicht erfüllt sind und eine Teilnahme an Maßnahmen der beruflichen Umschulung nach den §§ 58, 67 BBiG oder nach den §§ 42e, 42n HwO erfolgt, sowie für Auszubildende, die mit dem Ziel ausgebildet werden, eine nicht nur vorübergehende berufliche Tätigkeit außerhalb des räumlichen Geltungsbereiches dieses Tarifvertrages auszuüben, gelten lediglich die Abschnitte I und V.
+Abschnitt I
+Ansprüche des Auszubildenden gegen den Arbeitgeber
+§ 2
+Ausbildungsvergütung
+(1)
+Auszubildende haben Anspruch auf eine monatliche Ausbildungsvergütung, deren Höhe in den Lohn- und Gehaltstarifverträgen für das Baugewerbe festgelegt wird.
+(2)
+Die Ausbildungsvergütung wird für jede vom Auszubildenden schuldhaft versäumte Beschäftigungsstunde um ¹/173 gekürzt.
+(3)
+Für Zeiten der Ausbildung in einer überbetrieblichen Ausbildungsstätte ist die Ausbildungsvergütung ungekürzt fortzuzahlen. Abs. 2 bleibt unberührt.
+§ 3
+Ausbildungsvergütung bei Verlängerung der Ausbildungszeit
+Wird die vertraglich vereinbarte Ausbildungszeit verlängert, so ist für die Dauer der Verlängerung die Ausbildungsvergütung des letzten Ausbildungsjahres weiterzuzahlen.
+§ 4
+Ausbildungsvergütung bei Anrechnung anderer Ausbildungszeiten
+(1)
+Hat der Auszubildende eine berufsbildende Schule besucht, so ist ihm die Ausbildungsvergütung für dasjenige Ausbildungsjahr zu zahlen, das sich aufgrund der Anrechnung dieser Ausbildungszeit aus der Anrechnungsverordnung vom 17. Juli 1978 in der jeweils geltenden Fassung bzw. aus den Anrechnungsverordnungen der Länder ergibt. Das Gleiche gilt, wenn der Auszubildende eine andere Ausbildungsstätte besucht hat und daher seine Ausbildungszeit verkürzt wird.
+(2)
+Werden dem Auszubildenden aufgrund einer vorherigen Berufsausbildung Ausbildungszeiten angerechnet, so gilt Abs. 1 Satz 1 entsprechend.
+§ 5
+Zuschläge bei Mehrarbeit und bei Arbeit an Sonn- und Feiertagen
+(1)
+Bei Überstunden (Mehrarbeit) besteht je Stunde Anspruch auf ¹/173 der monatlichen Ausbildungsvergütung zuzüglich des für derartige Arbeiten festgelegten Zuschlags (§ 3 Nr. 6.1 BRTV, § 3 Nr. 3.1 RTV Angestellte).
+(2)
+Auszubildende über 18 Jahre haben bei Ausbildung zu Nachtzeiten oder an Sonn- und Feiertagen (§ 3 Nr. 5 BRTV, § 3 Nr. 2 RTV Angestellte) je Stunde Anspruch auf die für derartige Arbeiten festgelegten Zuschläge (§ 3 Nr. 6.2 und 6.3 BRTV, § 3 Nr. 3.2 und 3.3 RTV Angestellte). Die Zuschläge sind aus ¹/173 der monatlichen Ausbildungsvergütung zu berechnen.
+[…]
+§ 7
+Erschwerniszuschläge
+Gewerblich Auszubildende haben unter den in § 6 BRTV genannten Voraussetzungen Anspruch auf die dort festgelegten Erschwerniszuschläge.
+§ 8
+Fahrtkosten bei überbetrieblicher Ausbildung
+Der Auszubildende hat Anspruch auf Erstattung der ihm entstandenen Kosten für die Fahrt von der Wohnung zur überbetrieblichen Ausbildungsstätte, höchstens jedoch bis zu dem Betrag, der bei Inanspruchnahme des günstigsten Tarifs des günstigsten öffentlichen Verkehrsmittels zu zahlen wäre.
+§ 9
+Nichtanwendung des § 7 BRTV und des § 7 RTV Angestellte
+Für die Dauer der Ausbildung in überbetrieblichen Ausbildungsstätten finden § 7 BRTV und § 7 RTV Angestellte keine Anwendung.
+[…]
+§ 11
+Urlaubsvergütung für gewerblich Auszubildende
+(1)
+Als Urlaubsentgelt ist die Ausbildungsvergütung weiterzuzahlen; erhöht sie sich während des Urlaubs, so ist vom Zeitpunkt des Eintritts der Erhöhung an bei der Bemessung des Urlaubsentgelts von der erhöhten Ausbildungsvergütung auszugehen.
+(2)
+Der Auszubildende erhält ein zusätzliches Urlaubsgeld in Höhe von 25 v. H. des Urlaubsentgelts. Das auf einen Urlaubstag entfallende zusätzliche Urlaubsgeld beträgt 1,14 v. H. der Ausbildungsvergütung, die der Bemessung des Urlaubsentgelts zugrunde liegt.
+[…]
+§ 14
+Urlaub bei Beendigung des Ausbildungsverhältnisses gewerblich Auszubildender
+(1)
+Wird im Jahr der Beendigung des Ausbildungsverhältnisses oder bis zum 1. Juli des Folgejahres ein Arbeitsverhältnis zu einem Betrieb des Baugewerbes begründet, so sind die im Urlaubsjahr entstandenen Urlaubsansprüche, soweit sie wegen der Beendigung des Ausbildungsverhältnisses nicht mehr gewährt werden können, nicht abzugelten. Die Urlaubsansprüche richten sich nach § 8 Nr. 10 BRTV, bei jugendlichen Arbeitnehmern jedoch nach § 8 Nr. 11 BRTV.
+[…]
+§ 16
+Ausschlussfristen
+(1)
+In Abweichung von § 14 BRTV und § 13 RTV Angestellte verfallen alle beiderseitigen noch nicht verjährten Ansprüche aus dem Ausbildungsverhältnis und solche, die mit ihm in Verbindung stehen, wenn sie nicht innerhalb von drei Monaten nach Beendigung des Ausbildungsverhältnisses gegenüber der anderen Vertragspartei schriftlich erhoben werden. Der Anspruch auf Urlaubsabgeltung nach § 14 Abs. 2 verfällt jedoch erst dann, wenn er nicht bis zum 30. September des auf das Auslernjahr folgenden Kalenderjahres gegenüber der anderen Vertragspartei schriftlich erhoben wird.
+(2)
+Lehnt die Gegenpartei den Anspruch ab oder erklärt sie sich nicht innerhalb von zwei Wochen nach der Geltendmachung des Anspruchs, so verfällt dieser, wenn er nicht innerhalb von zwei Monaten nach der Ablehnung oder dem Fristablauf gerichtlich geltend gemacht wird.
+§ 17
+Gebühren der überbetrieblichen Ausbildungsstätte
+Für Zeiten, in denen der Auszubildende in einer überbetrieblichen Ausbildungsstätte ausgebildet wird, hat der Arbeitgeber die von der Ausbildungsstätte festgesetzten Nutzungsentgelte (Gebühren) für Ausbildung sowie – bei Internatsunterbringung – für Unterkunft und Verpflegung zu entrichten. Für jedes versäumte Tagewerk und jeden versäumten Unterbringungstag vermindern sich die Gebühren um einen Tagessatz.
+§ 18
+Urlaubs- und Lohnausgleichskasse der Bauwirtschaft
+(1)
+Die als gemeinsame Einrichtung der Tarifvertragsparteien bestehende „Urlaubs- und Lohnausgleichskasse der Bauwirtschaft“ (ULAK), Wiesbaden, hat die Aufgabe, die Bereitstellung einer ausreichenden Anzahl von Ausbildungsplätzen und die Durchführung einer qualifizierten, den besonderen Anforderungen des Wirtschaftszweiges gerecht werdenden Berufsbildung für die Auszubildenden im Baugewerbe dadurch zu sichern, dass sie Ausbildungskosten nach Maßgabe dieses Tarifvertrages erstattet. An die Stelle der ULAK tritt im Gebiet des Landes Berlin die „Sozialkasse des Berliner Baugewerbes“.
+(2)
+Diese beiden Kassen sind auch ermächtigt, im Rahmen eines jeweils auf fünf Jahre begrenzten Pilotprojektes Beitragsmittel aus dem Berufsbildungsverfahren für Maßnahmen zur Ausbildungsreifeförderung zu verwenden, die dem Abschluss eines Ausbildungsvertrages dienen sollen.
+Abschnitt II
+Erstattung von Ausbildungsvergütungen
+§ 19
+Voraussetzungen und Höhe
+(1)
+Die ULAK erstattet dem ausbildenden Arbeitgeber die an den Auszubildenden gezahlten Ausbildungsvergütungen im ersten, zweiten und dritten betrieblichen Ausbildungsjahr, wenn
+a) eine Ausbildung in einem staatlich anerkannten Ausbildungsberuf im Sinne der Bestimmungen des Berufsbildungsgesetzes oder der Handwerksordnung nach der jeweiligen Ausbildungsordnung erfolgt,
+b) eine Eintragung in das Verzeichnis der Berufsausbildungsverhältnisse bei der Industrie- und Handelskammer oder der Handwerkskammer erfolgt ist,
+c) eine angemessene Ausbildungsvergütung im Sinne des § 17 Berufsbildungsgesetz gezahlt wird und
+d) der Ausbildungsvertrag eine Urlaubsregelung nach den tariflichen Bestimmungen enthält.
+(2)
+Erstattungsleistungen der ULAK nach Abs. 1 erfolgen bis zu einem Betrag, der
+a) bei gewerblich Auszubildenden dem Zehnfachen der für das erste, dem Sechsfachen der für das zweite und dem Einfachen der für das dritte Ausbildungsjahr,
+b) bei technisch und kaufmännisch Auszubildenden dem Zehnfachen der für das erste und dem Vierfachen der für das zweite Ausbildungsjahr
+tariflich vereinbarten Ausbildungsvergütung zuzüglich 20 v. H. als Ausgleich für die vom Arbeitgeber zu leistenden Sozialaufwendungen entspricht.
+(3)
+Bei Wechsel des Ausbildungsbetriebes in den ersten zehn Monaten des ersten betrieblichen Ausbildungsjahres oder in den ersten sechs (Abs. 2 Buchst. a) bzw. vier (Abs. 2 Buchst. b) Monaten des zweiten betrieblichen Ausbildungsjahres werden die Erstattungen anteilig vorgenommen. Bei Wechsel des Ausbildungsbetriebes im dritten betrieblichen Ausbildungsjahr erfolgt die Erstattung an den Betrieb, in dem der Auszubildende zuletzt ausgebildet wurde.
+(4)
+Erstattungsansprüche bestehen ungeachtet möglicher Ansprüche des Arbeitgebers gegen Dritte auf Ersatz der Kosten der im Krankheitsfall fortgezahlten Ausbildungsvergütung.
+§ 20
+Verfahren
+(1)
+Nach Meldung des Ausbildungsverhältnisses (§ 11 VTV) stellt die ULAK die vereinbarte monatliche Ausbildungsvergütung anhand der Angaben des Arbeitgebers fest.
+(2)
+Die Erstattung der Ausbildungsvergütung setzt die Mitteilung der Höhe der gezahlten Ausbildungsvergütung nach § 11 Abs. 2 Ziff. 1 VTV an die ULAK auf dem von dieser zur Verfügung gestellten Formular voraus.
+(3)
+Die Erstattung der Ausbildungsvergütung für das dritte betriebliche Ausbildungsjahr (§ 19 Abs. 2 Buchst. a) setzt voraus, dass der ULAK alle Angaben nach § 11 Abs. 2 VTV auf dem von dieser zur Verfügung gestellten Formular mitgeteilt worden sind.
+(4)
+Die ULAK ist berechtigt, Erstattungsleistungen von dem Arbeitgeber oder seinem Rechtsnachfolger zurückzufordern, soweit die Erstattungsbeträge die an den Auszubildenden gezahlten Ausbildungsvergütungen überschreiten.
+(5)
+Erhält die ULAK Kenntnis davon, dass in einer Auszahlungserklärung ein höherer als der tatsächliche Ausbildungsbetrag angegeben wurde, so kann die ULAK für einen Zeitraum von zwölf Monaten (Nachweiszeitraum) einschließlich des Zeitraumes, für welchen die unrichtige Auszahlungserklärung vorliegt, einen Nachweis über die Höhe aller von dem Arbeitgeber gezahlten Ausbildungsvergütungen fordern. Wird dieser Nachweis nicht innerhalb von drei Monaten nach der Aufforderung durch die ULAK erbracht, gelten die Auszahlungserklärungen für die letzten sechs Monate des Nachweiszeitraums als nicht abgegeben.
+(6)
+Für die Geltendmachung der Erstattungsansprüche gilt § 18 Abs. 2 VTV.
+§ 21
+Spitzenausgleichsverfahren
+Dem Arbeitgeber, der am Spitzenausgleichsverfahren teilnimmt, erstattet die ULAK die von ihm an den Auszubildenden ausgezahlte Ausbildungsvergütung im Wege der Saldierung mit den Beitragsansprüchen nach Maßgabe des § 19 VTV. Die Erstattung der Ausbildungsvergütung setzt voraus, dass die in § 20 vorgesehenen Nachweise jeweils bis zum 15. des auf den betreffenden Ausbildungsmonat folgenden Monats geführt und ordnungsgemäße Meldungen nach § 6 VTV abgegeben werden.
+§ 22
+Anzeigepflicht bei vorzeitiger Beendigung des Ausbildungsverhältnisses
+Endet das Ausbildungsverhältnis vor Ablauf der vertraglich vereinbarten Ausbildungszeit, so ist der Arbeitgeber verpflichtet, der ULAK den Zeitpunkt und den Grund der Beendigung des Ausbildungsverhältnisses unverzüglich auf dem von der ULAK nach § 11 Abs. 2 VTV zur Verfügung gestellten Formular anzuzeigen.
+§ 23
+Erstattung von Urlaubskosten
+Die Erstattung von Urlaubskosten ist in den Erstattungsbeträgen gemäß § 19 Abs. 2 Buchst. a) enthalten.
+Abschnitt III
+Erstattung von überbetrieblichen Ausbildungskosten
+§ 24
+Höhe und Ermittlung der erstattungsfähigen überbetrieblichen Ausbildungskosten
+(1)
+Die ULAK erstattet dem ausbildenden Arbeitgeber die von ihm zu tragenden Gebühren (§ 17) je Ausbildungstagewerk bis zu 37,00 €, im Falle der Internatsunterbringung zusätzlich bis zu 28,00 € täglich als Ausbildungs- und Unterbringungskosten gemäß Abs. 3 – 7 sowie die Fahrtkosten für den Besuch der überbetrieblichen Ausbildungsstätte (§ 8),
+a) wenn und soweit die Berufsausbildung nach der jeweiligen Ausbildungsordnung in überbetrieblichen Ausbildungsstätten zu ergänzen bzw. zu vertiefen ist,
+b) bei einer Ausbildung für den Beruf eines Elektronikers, einer Fachkraft für Rohr-, Kanal- und Industrieservice, eines Mechanikers und eines Mechatronikers höchstens für 150 Ausbildungstagewerke, soweit Fertigkeiten und Kenntnisse aus dem jeweiligen Ausbildungsrahmenplan vermittelt werden,
+c) bei einer Ausbildung für den Beruf eines gewerblichen Arbeitnehmers nach anderen Ausbildungsordnungen höchstens für 75 Ausbildungstagewerke, soweit Fertigkeiten und Kenntnisse aus dem jeweiligen Ausbildungsrahmenplan vermittelt werden,
+d) bei einer Ausbildung für den Beruf eines kaufmännischen Angestellten höchstens für 50 Ausbildungstagewerke, soweit Fertigkeiten und Kenntnisse aus dem jeweiligen Ausbildungsrahmenplan vermittelt werden,
+e) bei einer Ausbildung für den Beruf eines technischen Angestellten höchstens für 90 Ausbildungstagewerke, soweit Fertigkeiten und Kenntnisse aus dem jeweiligen Ausbildungsrahmenplan vermittelt werden.
+(2)
+Die ULAK erstattet dem ausbildenden Arbeitgeber anstelle der Gebühren gemäß Abs. 1 auf Nachweis nach § 26 die von ihm zu tragenden Gebühren (§ 17) pro Ausbildungstagewerk bis zu 50,00 €, im Falle der Internatsunterbringung zusätzlich bis zu 36,00 € täglich, soweit die Gebühren Kosten (Ausbildungs- und Unterbringungskosten) nach Abs. 3 bis 7 sind.
+(3)
+Kosten der überbetrieblichen Ausbildungsstätte einschließlich derjenigen eines angeschlossenen Internats sind insbesondere:
+a) Personalkosten
+  1. Vergütung der Angestellten
+  2. Löhne der Arbeiter
+  3. Beschäftigungsentgelte, Aufwendungen für nebenamtlich und nebenberuflich Tätige
+  4. Unterstützungen und Fürsorgeleistungen
+b) Sachkosten
+  1. Geschäftsbedarf
+  2. Bücher, Zeitschriften
+  3. Post- und Fernmeldegebühren
+  4. Haltung von Fahrzeugen und dergleichen
+  5. Bewirtschaftung der Grundstücke, Gebäude und Räume
+  6. Mieten für Geräte und zusätzlichen Raumbedarf
+  7. Verbrauchsmittel
+  8. Lehr- und Lernmittel
+  9. Dienstreisen
+c) Abschreibungen auf Sachanlagen, soweit diese von dem Träger der Ausbildungsstätte oder von dieser finanziert worden sind, in steuerlich zulässiger Höhe, und Zinsen.
+(4)
+Bildet die überbetriebliche Ausbildungsstätte nur Auszubildende aus, die vom Geltungsbereich dieses Tarifvertrages erfasst werden (Bauausbildung), so sind erstattungsfähige Kosten je Ausbildungstagewerk die im Haushaltsjahr angefallenen Kosten der Ausbildungsstätte geteilt durch die Zahl der im Haushaltsjahr angefallenen Ausbildungstagewerke.
+(5)
+Findet nicht nur Bauausbildung statt, so sind aus den Kosten der Ausbildungsstätte die Gemeinkosten und die unmittelbar der Bauausbildung zuzuordnenden Kosten abzusondern. Erstattungsfähige Kosten je Ausbildungstagewerk sind
+a) die Gemeinkosten geteilt durch die Zahl aller in der Ausbildungsstätte im Haushaltsjahr angefallenen Bildungstagewerke (Aus- und Fortbildungstagewerke) und
+b) die unmittelbar der Bauausbildung zuzuordnenden Kosten geteilt durch die Zahl der Ausbildungstagewerke, die im Haushaltsjahr auf Auszubildende des Baugewerbes entfallen sind.
+(6)
+Die Unterbringungskosten sind getrennt von den Ausbildungskosten zu erfassen. Die Unterbringungskosten eines mit der Ausbildungsstätte verbundenen Internats setzen sich aus einem Anteil an den Gemeinkosten des gesamten Ausbildungszentrums und den unmittelbar der Unterbringung und Verpflegung zuzuordnenden Kosten zusammen. Für die Ermittlung der Unterbringungskosten je Tag in Internaten, in denen nur Auszubildende aus Baubetrieben untergebracht und verpflegt werden, gilt Abs. 4, in den übrigen Fällen Abs. 5 entsprechend.
+(7)
+Die Kosten vermindern sich um gewährte Ausbildungsförderungsmittel des Bundes, der Länder und anderer öffentlich-rechtlicher Gebietskörperschaften, die auf das Ausbildungstagewerk und das Unterbringungstagewerk des von diesem Tarifvertrag erfassten Auszubildenden entfallen.
+§ 25
+Eintragung der überbetrieblichen Ausbildungsstätte
+(1)
+Gebühren für den Besuch überbetrieblicher Ausbildungsstätten werden dem Arbeitgeber nur dann erstattet, wenn die Ausbildungsstätte auf Antrag einer der drei Tarifvertragsparteien in die bei der ULAK geführte Liste eingetragen ist. Aus der Eintragung muss der Träger der Ausbildungsstätte ersichtlich sein. Eine Eintragung kann nur erfolgen, wenn die Erfüllung der in Abs. 3 geregelten Qualitätsanforderungen an überbetriebliche Ausbildungsstätten durch eine Bescheinigung einer von der ULAK mit der Qualitätsüberprüfung beauftragten Stelle nachgewiesen wird.
+(2)
+Eine Eintragung kann darüber hinaus nur erfolgen, wenn sich die Ausbildungsstätte gegenüber der ULAK verpflichtet,
+a) Überzahlungen für Rechnung des Arbeitgebers unmittelbar an die ULAK zurückzuzahlen und
+b) unverzüglich nach Beendigung einer überbetrieblichen Ausbildungsmaßnahme die tatsächliche Zahl der Ausbildungstagewerke eines Auszubildenden, der Tage der Internatsunterbringung und die Fahrtkosten (§ 8) in das von der ULAK zur Verfügung gestellte Formular einzutragen, die Richtigkeit der Angaben durch rechtsverbindliche Unterschrift zu versichern und das Formular an die ULAK zu senden oder im Falle der EDV-Abrechnung diese Daten auf elektronischem Wege nach Maßgabe der mit der ULAK getroffenen Vereinbarung zu übermitteln.
+(3)
+Die überbetrieblichen Ausbildungsstätten haben für eine Eintragung in die bei der ULAK geführte Liste folgende Qualitätsanforderungen zu erfüllen:
+a) Größe und Ausstattung der Ausbildungsstätten einschließlich der Unterrichtsräume, Pausen- und Sozialräume nach den Empfehlungen des Bundesinstitutes für Berufsbildung, in: dass. (Hrsg.), Überbetriebliche Ausbildung in den Berufen der Stufenausbildung Bau – Empfehlungen zur Raum- und Ausstattungsplanung –, 1995,
+b) Unterrichtung des Ausbildungsbetriebes und des Auszubildenden über alle ausbildungsrelevanten Fragen (z. B. Fehlzeiten, persönliche Ereignisse, Beurteilung des Auszubildenden nach Lehrgangsende),
+c) Beurteilung der überbetrieblichen Ausbildungsmaßnahmen durch den Auszubildenden und den Ausbildungsbetrieb,
+d) Qualifikation der Ausbilder in der beruflichen Grund- und Fachbildung nach den Bestimmungen der §§ 22 ff. Handwerksordnung, §§ 28 ff. Berufsbildungsgesetz und der Ausbilder-Eignungsverordnung in der jeweiligen Fassung,
+e) regelmäßige fachspezifische und pädagogische Weiterbildung der Ausbilder,
+f) Gruppengröße je Ausbilder nach den unter Buchst. a) genannten Empfehlungen des Bundesinstitutes für Berufsbildung,
+g) Einhaltung der inhaltlichen und zeitlichen Gliederung der Ausbildungsordnungen in der jeweiligen Fassung,
+h) Anwendung von handlungsorientierten Aufgabensammlungen auf der Grundlage der Ausbildungsordnungen in der jeweiligen Fassung und
+i) Angebot der Zusammenarbeit mit den Ausbildungsbetrieben und den Berufsschulen (Lernortkooperation).
+Im Falle der Unterbringung von Auszubildenden in angeschlossenen Internaten oder sonstigen Beherbergungsstätten (z. B. Pensionen, Jugendherbergen) sind zudem folgende Qualitätsanforderungen zu erfüllen:
+a) Sicherstellung einer sozialpädagogischen Betreuung bei Bedarf,
+b) Raumbelegung mit in der Regel zwei, höchstens jedoch vier Auszubildenden in Zimmern mit Dusche und WC,
+c) Angebote zur Freizeitgestaltung und
+d) Verpflegung mit Frühstück, Mittagessen und Abendessen.
+(4)
+Die Qualitätsanforderungen nach Abs. 3 werden von einer durch die ULAK beauftragten Stelle auf der Grundlage eines Leitfadens wiederkehrend überprüft. Diese Stelle hat über ihre im Rahmen der Überprüfung getroffenen Feststellungen einen Bericht zu verfassen und ihn mit der Ausbildungsstätte zu erörtern. Wird bei der Überprüfung festgestellt, dass die Qualitätsanforderungen in vollem Umfang erfüllt werden, so ist dieses zu bescheinigen. Werden einzelne Qualitätsanforderungen nicht erfüllt, ist der Ausbildungsstätte durch die ULAK eine angemessene Frist von längstens zwölf, bei baulichen Mängeln von längstens 24 Monaten einzuräumen, innerhalb derer die Qualitätsanforderungen zu erfüllen sind. Werden die Qualitätsanforderungen nicht oder nach Ablauf der Nachfrist und erneuter Überprüfung durch die von der ULAK beauftragte Stelle nicht erfüllt, ist die Bescheinigung zu verweigern. Die Kosten dieser Überprüfung hat die Ausbildungsstätte zu tragen. Je einem Vertreter der Tarifvertragsparteien ist eine Begleitung der Überprüfung, auch sofern sie in den Räumlichkeiten der Ausbildungsstätte stattfindet, zu ermöglichen.
+(5)
+Die Eintragung einer überbetrieblichen Ausbildungsstätte in die bei der ULAK geführte Liste, die vor dem 1. Januar 2011 erfolgt ist, bleibt gültig, bis die erstmalige Überprüfung der Ausbildungsstätte nach Abs. 4 abgeschlossen ist oder die Ausbildungsstätte eine solche Überprüfung verweigert hat.
+(6)
+Die Streichung einer überbetrieblichen Ausbildungsstätte aus der bei der ULAK geführten Liste erfolgt auf Antrag einer der Tarifvertragsparteien. Die ULAK hat ohne Antrag einer der Tarifvertragsparteien eine überbetriebliche Ausbildungsstätte aus dieser Liste zu streichen, wenn während der Dauer von zwei Jahren keine Gebühren erstattet worden sind, die von ihr dafür beauftragte Stelle festgestellt hat, dass die in Abs. 3 geregelten Qualitätsanforderungen nicht mehr erfüllt werden, oder die Ausbildungsstätte eine Überprüfung durch die von der ULAK beauftragte Stelle verweigert hat. Der Anspruch auf Erstattung von überbetrieblichen Ausbildungskosten bleibt von der Streichung einer überbetrieblichen Ausbildungsstätte nach Satz 2 bis zum Ende des für den jeweiligen Auszubildenden laufenden Ausbildungsjahres unberührt.
+(7)
+Die ULAK hat die überbetriebliche Ausbildungsstätte und die Tarifvertragsparteien von der Eintragung in die Liste und von der Streichung aus der Liste zu unterrichten.
+§ 26
+Nachweis der Kosten durch die überbetriebliche Ausbildungsstätte
+(1)
+Gebühren gemäß § 24 Abs. 2 werden dem Arbeitgeber nur dann erstattet, wenn die überbetriebliche Ausbildungsstätte sich in einer Erklärung gegenüber der ULAK verpflichtet hat,
+a) jährlich innerhalb der Frist gemäß Abs. 3 die Bescheinigung eines Wirtschaftsprüfers oder eines vereidigten Buchprüfers vorzulegen, aus der sich ergibt, dass die Kosten für das Haushaltsjahr gemäß § 24 Abs. 3 bis 7 ermittelt worden sind und die Höchstbeträge gemäß § 24 Abs. 2 überschreiten oder um wieviel sie diese unterschreiten,
+b) Aufzeichnungen zu führen, die es dem Wirtschaftsprüfer oder dem vereidigten Buchprüfer ermöglichen, die Bescheinigung gemäß Buchst. a) zu erteilen,
+c) jährlich mitzuteilen, ob und von wem Ausbildungsförderungsmittel gemäß § 24 Abs. 7 in Anspruch genommen worden sind,
+d) Überzahlungen gemäß Abs. 5 an die ULAK zurückzuzahlen,
+e) ihr Haushaltsjahr bekanntzugeben.
+(2)
+Nach Eingang der Erklärung gemäß Abs. 1 hat die ULAK der Ausbildungsstätte zu bestätigen, dass die Gebühren gemäß § 24 Abs. 2 erstattet werden, und den Vorbehalt der Streichung gemäß Abs. 4 sowie der Rückforderung gemäß Abs. 5 geltend zu machen.
+(3)
+Die Bescheinigung gemäß Abs. 1 Buchst. a) ist der ULAK jährlich innerhalb von sechs Monaten nach Ablauf des Haushaltsjahres der Ausbildungsstätte vorzulegen.
+(4)
+Führt die Ausbildungsstätte keine Aufzeichnungen oder wird die Bescheinigung gemäß Abs. 1 Buchst. a) nicht fristgerecht vorgelegt, so hat die ULAK die Ausbildungsstätte aus der bei ihr geführten Liste zu streichen. Dies gilt auch dann, wenn die Ausbildungsstätte unvollständige Aufzeichnungen führt und der Wirtschaftsprüfer oder der vereidigte Buchprüfer deshalb nicht in der Lage ist, die Bescheinigung zu erteilen. Die Erstattung für Ausbildungsverhältnisse, die vor der Streichung begonnen haben, bleibt unberührt.
+(5)
+Ergibt sich aus der Bescheinigung, dass Überzahlungen erfolgt sind, so hat die Ausbildungsstätte aufgrund der gemäß Abs. 1 Buchst. d) abgegebenen Verpflichtung die überzahlten Beträge innerhalb eines Monats nach Aufforderung durch die ULAK an diese zurückzuzahlen. Wird keine Bescheinigung vorgelegt, so gelten die von der ULAK geleisteten Erstattungsbeträge als Überzahlungen.
+§ 27
+Verfahren bei Erstattung überbetrieblicher Ausbildungskosten
+(1)
+Die Erstattung der von der ULAK geprüften überbetrieblichen Ausbildungskosten an den Arbeitgeber erfolgt durch Überweisung an die Ausbildungsstätte für diejenige Zeit, für die der Arbeitgeber den Auszubildenden für Ausbildungsmaßnahmen in der Ausbildungsstätte freigestellt hat und für welche die überbetriebliche Ausbildungsmaßnahme tatsächlich durchgeführt worden ist.
+(2)
+Der Arbeitgeber ist verpflichtet, der Ausbildungsstätte vor Beginn der ersten überbetrieblichen Ausbildungsmaßnahme jedes Auszubildenden den Ausbildungsnachweis für die Erstattung der überbetrieblichen Ausbildungskosten nach § 12 Abs. 1 VTV auszuhändigen.
+(3)
+Nach jeder Ausbildungsmaßnahme hat sich die Ausbildungsstätte von dem Auszubildenden schriftlich die Zahl der Ausbildungstagewerke und der Internatstage bestätigen zu lassen. Diese Bestätigung hat die Ausbildungsstätte für die Dauer von mindestens vier Jahren aufzubewahren. Auf Verlangen des Arbeitgebers hat die Ausbildungsstätte diesem eine Kopie der Bestätigung zu übersenden.
+(4)
+Die Ausbildungsstätte ist zu einer beleglosen Abrechnung mittels elektronischer Datenübermittlung an die ULAK berechtigt, wenn sie die „EDV-Bedingungen zum Einsatz elektronischer Datenverarbeitungsanlagen zur Datenübermittlung zwischen den überbetrieblichen Ausbildungsstätten und den Sozialkassen der Bauwirtschaft“ anerkennt.
+(5)
+Der ULAK ist auf Verlangen von der Ausbildungsstätte Einsicht in die für die Durchführung des Erstattungsverfahrens notwendigen Unterlagen zu gewähren, auf Anforderung auch durch Übersendung von Kopien.
+(6)
+Nach Ablauf jedes Ausbildungsjahres teilt die ULAK dem Arbeitgeber mit, in welcher Höhe und für wie viele Ausbildungstagewerke und Internatstage sie überbetriebliche Ausbildungskosten erstattet hat.
+(7)
+Die ULAK ist nicht berechtigt, mit Beitragsforderungen oder anderen Forderungen gegen Ansprüche des Arbeitgebers auf Erstattung gemäß § 24 aufzurechnen oder insoweit ein Zurückbehaltungsrecht auszuüben.
+§ 28
+Verfahren bei Fahrtkostenerstattung
+(1)
+Die Höhe der Fahrtkosten (§ 8) hat der Auszubildende der überbetrieblichen Ausbildungsstätte gegenüber zu belegen (z. B. mit Fahrkarte, Wochenkarte, Monatskarte) bzw. auf andere Art nachzuweisen.
+(2)
+Der Arbeitgeber beauftragt die überbetriebliche Ausbildungsstätte, die Fahrtkosten für seine Rechnung an den Auszubildenden zu zahlen und ihm den ausgezahlten Gesamtbetrag jeweils nach Abschluss eines Lehrgangs mitzuteilen.
+(3)
+Die ULAK erstattet die Fahrtkosten, wenn die überbetriebliche Ausbildungsstätte nach Prüfung der Belege bzw. der Nachweise die Höhe der an die Auszubildenden gezahlten Fahrtkosten zusammen mit den Angaben über die Zahl der Ausbildungstagewerke und der Tage einer Internatsunterbringung in das von der ULAK zur Verfügung gestellte Formular eingetragen und dieses bei der ULAK eingereicht hat oder diese Daten auf elektronischem Wege nach Maßgabe der mit der ULAK getroffenen Vereinbarung übermittelt hat. Die ULAK prüft die von der überbetrieblichen Ausbildungsstätte gemachten Angaben über die Höhe der Fahrkosten sowie den errechneten Erstattungsbetrag.
+(4)
+Die Erstattung erfolgt mit befreiender Wirkung zu Gunsten des Arbeitgebers in Höhe des Erstattungsbetrages durch Zahlung an die überbetriebliche Ausbildungsstätte. Diese ist nicht berechtigt, die Erstattung von der ULAK zu verlangen.
+(5)
+Die ULAK ist nicht berechtigt, mit Beitragsforderungen oder anderen Forderungen gegen Ansprüche des Arbeitgebers auf Erstattung gemäß § 24 aufzurechnen oder insoweit ein Zurückbehaltungsrecht auszuüben.
+Abschnitt IV
+Erstattung der Ausbildungskosten in besonderen Fällen
+§ 29
+Zweitausbildung
+Hat der Arbeitgeber oder der Auszubildende die höchstmögliche Anrechnung einer anderen Ausbildung auf das Ausbildungsverhältnis beantragt, so hat der Arbeitgeber gegenüber der ULAK Anspruch auf Erstattung der Ausbildungskosten nach den Bestimmungen der Abschnitte II und III für dasjenige Ausbildungsjahr, das sich aufgrund der Anrechnung ergibt. Wurde kein entsprechender Antrag gestellt, so besteht lediglich Anspruch auf Erstattung von Kosten der überbetrieblichen Ausbildung (§ 24).
+§ 30
+Duale Studiengänge
+Erfolgt die Berufsausbildung im Rahmen eines Studiums an einer Hochschule (dualer Studiengang), so hat der Arbeitgeber gegenüber der ULAK Anspruch auf Erstattung der Ausbildungskosten nach den Bestimmungen der Abschnitte II und III, wenn die in § 19 Abs. 1 genannten Voraussetzungen vorliegen und die vertragliche Ausbildungsdauer mindestens 95 Wochen beträgt.
+Abschnitt V
+Beitrag und Schlussbestimmungen
+§ 31
+Verfall und Verjährung
+(1)
+Die Ansprüche der ULAK gegen den Arbeitgeber verfallen, wenn sie nicht innerhalb von vier Jahren seit Fälligkeit geltend gemacht worden sind. Für den Beginn der Frist gilt § 199 BGB entsprechend. Der Verfall wird auch gehemmt, wenn die Ansprüche rechtzeitig bei Gericht anhängig gemacht wurden. Die Verfallfristen gelten nicht für Ansprüche aus unerlaubter Handlung.
+(2)
+Erstattungsansprüche des Arbeitgebers gegen die ULAK verfallen, wenn sie nicht innerhalb von zwei Jahren nach Ablauf des Jahres, in dem sie entstanden sind, geltend gemacht worden sind.
+(3)
+Wird der Arbeitgeber rückwirkend zur Beitragsmeldung und Beitragszahlung nach § 32 herangezogen, so beträgt die Verfallfrist für Erstattungsansprüche zwei Jahre. Sie beginnt mit Ablauf des Jahres, in dem die Einzugsstelle (§ 3 Abs. 3 VTV) dem Arbeitgeber seine Beitragspflicht mitgeteilt hat, im Falle eines Rechtsstreits jedoch frühestens mit Ablauf des Jahres, in dem rechtskräftig oder durch übereinstimmende Erklärungen der Parteien festgestellt wird, dass der Betrieb von diesem Tarifvertrag erfasst wird.
+(4)
+Die regelmäßige Verjährungsfrist für Ansprüche der ULAK gegen den Arbeitgeber und Ansprüche der Arbeitgeber gegenüber der ULAK beträgt vier Jahre. Die Verjährungsfristen gelten nicht für Ansprüche aus unerlaubter Handlung.
+§ 32
+Beitrag
+(1)
+Die Arbeitgeber haben die zur Finanzierung der Erstattungsleistungen nach diesem Tarifvertrag erforderlichen Mittel durch Beiträge aufzubringen. Diese Beiträge sind an die ULAK, im Land Berlin jedoch an die Sozialkasse des Berliner Baugewerbes abzuführen. Die Höhe der Beiträge und der Beitragseinzug werden in dem Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) geregelt. Der Beitrag ist Teil des Sozialkassenbeitrages gemäß § 18 VTV.
+(2)
+Erstattungsforderungen des Arbeitgebers nach diesem Tarifvertrag mit Ausnahme derjenigen des § 24 sind mit der Maßgabe zweckgebunden, dass der Arbeitgeber über sie nur verfügen kann, wenn das bei der Einzugsstelle (§ 3 Abs. 3 VTV) bestehende Beitragskonto ausgeglichen ist. Eine Aufrechnung gegen bestehende Beitragsrückstände mit Erstattungsforderungen aufgrund dieses Tarifvertrages ist insoweit für den Arbeitgeber ausgeschlossen. §§ 366, 367 BGB finden keine Anwendung.
+(3)
+Wird ein Arbeitgeber rückwirkend zur Beitragsmeldung und Beitragszahlung herangezogen, so besteht Anspruch auf Erstattung der den Auszubildenden für die in den rückwirkend erfassten Abrechnungszeiträumen gewährten Leistungen, höchstens jedoch in Höhe der in §§ 8, 19, 19 a, 22 Abs. 1 und 24 für den jeweiligen Abrechnungszeitraum festgelegten Leistungen und nur für solche Abrechnungszeiträume, für die rückwirkend Beiträge entrichtet worden sind. Auf diesen Erstattungsanspruch weist die Einzugsstelle den Arbeitgeber bei der rückwirkenden Heranziehung hin.
+§ 33
+Erfüllungsort und Gerichtsstand
+Erfüllungsort und Gerichtsstand für Ansprüche der ULAK gegen Arbeitgeber und Arbeitnehmer sowie für Ansprüche der Arbeitgeber und Arbeitnehmer gegen die ULAK ist Wiesbaden.
+§ 33 a
+Für das Beitrittsgebiet gilt anstelle des § 33 folgende Regelung:
+Erfüllungsort für Ansprüche der ULAK gegen Arbeitgeber und Arbeitnehmer sowie für Ansprüche der Arbeitgeber und Arbeitnehmer gegen die ULAK ist Wiesbaden. Gerichtsstand für diese Ansprüche ist Berlin.
+§ 34
+Verfahrenstarifverträge
+Das Melde- und Beitragsverfahren ist im Tarifvertrag über das Sozialkassenverfahren im Baugewerbe (VTV) geregelt. Die §§ 20, 21, 23, 27 und 28 gelten nicht im Gebiet des Landes Berlin; insoweit trifft der Verfahrenstarifvertrag Berufsbildung für das Berliner Baugewerbe gesonderte Regelungen.
+§ 35
+Verfahrensvereinfachungen
+Soweit die vorstehenden Bestimmungen technische Verfahrensvorschriften enthalten, ist die ULAK befugt, solche Bestimmungen zu treffen, die durch eine Vereinfachung des Verfahrens die günstigsten Wirkungen für Arbeitgeber und Auszubildende gewährleisten. Die zuständige Kasse kann Arbeitgeber nach Maßgabe der mit ihr getroffenen Vereinbarung zur Teilnahme an einem elektronischen Verfahren zulassen.
+§ 36
+Durchführung des Tarifvertrages
+Die Tarifvertragsparteien verpflichten sich, ihren Einfluss zur Durchführung dieses Tarifvertrages einzusetzen und bei Meinungsverschiedenheiten über die Auslegung unverzüglich in Verhandlungen einzutreten.
+§ 37
+Inkrafttreten und Laufdauer
+(1)
+Dieser Tarifvertrag tritt am 1. Januar 1987 in Kraft. Er kann mit einer Frist von sechs Monaten jeweils zum 30. Juni eines Kalenderjahres gekündigt werden.
+(2)
+Für duale Studiengänge, die vor dem 1. September 2010 bereits bestanden und für welche die tariflichen Voraussetzungen für die Erstattung von Ausbildungskosten nach diesem Tarifvertrag in der Fassung vom 18. Dezember 2009 erfüllt sind, gilt § 30 erst für die nach dem 31. Dezember 2011 beginnenden Ausbildungsverhältnisse. § 19 Abs. 1 Buchst. c) und d) gelten nicht für Ausbildungsverhältnisse, die vor dem 1. September 2010 bereits bestanden haben.
+(3)
+Die §§ 19 Abs. 1 bis 4 und 24 Abs. 1 und 2 gelten nicht für vor dem 1. Juli 2013 liegende Ausbildungszeiten, wenn der Auszubildende bei Beginn der Ausbildung bereits das 28. Lebensjahr vollendet hatte.

@@ -1,0 +1,5 @@
+# Art 54
+
+Als Bankiers im Sinne dieses Gesetzes sind anzusehen:
+1. diejenigen Anstalten des öffentlichen Rechts, diejenigen unter staatlicher Aufsicht stehenden Anstalten sowie diejenigen in das Genossenschaftsregister eingetragenen Genossenschaften, die sich nach den für ihren Geschäftsbetrieb maßgebenden Bestimmungen mit der Annahme von Geld und der Leistung von Zahlungen für fremde Rechnung befassen, ferner die unter amtlicher Aufsicht stehenden Sparkassen, wenn sie die nach Landesrecht für sie geltenden Aufsichtsbestimmungen erfüllen;
+2. die in das Handelsregister eingetragenen Firmen, die gewerbsmäßig Bankiergeschäfte betreiben.

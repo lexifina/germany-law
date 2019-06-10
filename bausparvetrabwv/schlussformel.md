@@ -1,0 +1,3 @@
+# Schlußformel
+
+Der Reichswirtschaftsminister

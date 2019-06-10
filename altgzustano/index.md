@@ -1,0 +1,18 @@
+# Anordnung zur Übertragung von Zuständigkeiten auf den Gebieten des Altersgeldes für freiwillig aus dem Bundesdienst ausscheidende Beamte, Richter und Berufssoldaten sowie des Versorgungsausgleichs der mit Altersgeldanspruch aus dem Bundesdienst ausgeschiedenen Beamten, Richtern und Berufssoldaten
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Festsetzung der Leistungen nach dem Altersgeldgesetz](0002.md)
+- [§ 3 Versorgungsausgleich und Durchführung des Bundesversorgungsteilungsgesetzes](0003.md)
+- [§ 4 Versorgungslastenteilung](0004.md)
+- [§ 5 Besonderheiten für das Bundeskanzleramt](0005.md)
+- [§ 6 Besonderheiten für das Bundesministerium für Wirtschaft und Energie](0006.md)
+- [§ 7 Besonderheiten für das Bundesministerium der Verteidigung](0007.md)
+- [§ 8 Besonderheiten für das Bundesministerium für Bildung und Forschung](0008.md)
+- [§ 9 Besonderheiten für den Bundesrechnungshof](0009.md)
+- [§ 10 Örtliche Zuständigkeit](0010.md)
+- [§ 11 Entscheidung über Widersprüche sowie Vertretung des Dienstherrn bei Klagen aus den in den §§ 2 bis 4 genannten Bereichen](0011.md)
+- [§ 12 Vorlagepflicht, Schriftverkehr](0012.md)
+- [§ 13 Andere Rechtsgebiete](0013.md)
+- [§ 14 Inkrafttreten](0014.md)
+- [Anlage](anlage.md)

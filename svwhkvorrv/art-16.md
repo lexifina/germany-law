@@ -1,0 +1,6 @@
+# Art 16 Beachtung der deutschen Gesetze und sonstigen Rechtsvorschriften
+
+(1)
+Alle Personen, die Vorrechte und Immunitäten nach dieser Verordnung genießen, sind unbeschadet derselben verpflichtet, die deutschen Gesetze und sonstigen Rechtsvorschriften zu beachten.
+(2)
+Die Geschäftsräume des Büros dürfen nicht in einer Weise benutzt werden, die mit der Wahrnehmung seiner Aufgaben unvereinbar ist.

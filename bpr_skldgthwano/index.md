@@ -1,0 +1,5 @@
+# Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum
+Erlaß von Bestimmungen über die Dienstkleidung von hauptamtlichen Mitarbeitern
+der Bundesanstalt Technisches Hilfswerk
+
+- [(XXXX)](xxxx.md)

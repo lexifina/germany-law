@@ -1,0 +1,12 @@
+# Anlage 5
+
+Fundstelle des Originaltextes: GBl. I 1975, Nr. 44, 722
+Produktivitätsrichtwerte
+Arbeitsproduktivität für Küchen, in denen warme Hauptmahlzeiten hergestellt werden
+| Küchen-Kapazität | Normativ | Streuung | Einbezogene Arbeitsprozesse |
+| Mahlzeiten/ Tag | Mahlzeiten/ VbE | % |  |
+| bis 200 | 80 | 25 | Herstellung und Verteilung der Speisen. Das schließt die Essenausgabe bei der Küche oder den Transport zur Ausgabestelle ein. |
+| 201 - 500 | 110 | 20 |
+| 501 - 1.000 | 140 | 15 |
+| 1.001 - 2.000 | 180 | 10 |
+| über 2.000 | 250 | 5 |

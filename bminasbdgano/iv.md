@@ -1,0 +1,3 @@
+# IV.
+
+Die Regelungen in den Abschnitten I bis III sowie in Abschnitt V werden hinsichtlich des Bundesarbeitsgerichts nach § 40 Abs. 2 Satz 2 des Arbeitsgerichtsgesetzes in der Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036), der zuletzt durch Artikel 64 Nr. 2 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass der Bundeskanzlerin vom 22. November 2005 (BGBl. I S. 3197) im Einvernehmen mit dem Bundesministerium der Justiz getroffen.

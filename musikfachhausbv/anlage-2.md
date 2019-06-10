@@ -1,0 +1,68 @@
+# Anlage 2 (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+
+(Fundstelle: BGBl. I 2009, 666 - 667)
+– Zeitliche Gliederung –
+Die nachfolgende zeitliche Gliederung nennt die Zeiträume, in denen die jeweiligen Fertigkeiten, Kenntnisse und Fähigkeiten erstmals schwerpunktmäßig vermittelt werden sollen; in der Regel ist eine Fortführung oder Vertiefung zum Erreichen der beruflichen Handlungsfähigkeit erforderlich.
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 1.1 | Produkte und Dienstleistungen im Musikfachhandel, Lernziele a bis d, |
+| Abschnitt C Nummer 1.1 | Stellung und Struktur, |
+| Abschnitt C Nummer 1.2 | Betriebliche Organisation, |
+| Abschnitt C Nummer 1.3 | Berufsbildung, |
+| Abschnitt C Nummer 1.4 | Personalwirtschaft, arbeits- und sozialrechtliche Vorschriften, |
+| Abschnitt C Nummer 1.5 | Sicherheit und Gesundheitsschutz bei der Arbeit, |
+| Abschnitt C Nummer 2.1 | Arbeitsorganisation |
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 1.2 | Kunden- und dienstleistungsorientiertes Verhalten, |
+| Abschnitt A Nummer 1.3 | Kommunikation mit Kunden, |
+| Abschnitt A Nummer 1.5 | Kassieren und Kassenabrechnung, |
+| Abschnitt A Nummer 2.1 | Werbemaßnahmen, |
+| Abschnitt A Nummer 2.2 | Warenpräsentation, |
+| Abschnitt A Nummer 4.2 | Zahlungsverkehr und rechnerische Abwicklung, Lernziele a bis c, |
+| Abschnitt C Nummer 1.6 | Umweltschutz |
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 3.4 | Warenwirtschaftssystem, |
+| Abschnitt C Nummer 2.2 | Informations- und Kommunikationssysteme, |
+| Abschnitt C Nummer 2.3 | Interne Kommunikation und Kooperation |
+zu vermitteln.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 1.1 | Produkte und Dienstleistungen im Musikfachhandel, Lernziele e und f, |
+| Abschnitt A Nummer 1.6 | Serviceleistungen, |
+| Abschnitt A Nummer 1.7 | Beschwerde, Reklamation und Umtausch |
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 1.4 | Kundenberatung, Musikgeschichte, |
+| Abschnitt A Nummer 1.8 | Anwenden einer Fremdsprache bei Fachaufgaben, |
+| Abschnitt A Nummer 2.3 | Verkaufsförderung, |
+| Abschnitt A Nummer 2.4 | Vertriebswege, |
+| Abschnitt A Nummer 2.5 | Urheber-, Leistungsschutz- und Verwertungsrecht, |
+| Abschnitt A Nummer 2.6 | Märkte und Zielgruppen |
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 3.2 | Wareneingang und Warenlagerung, |
+| Abschnitt A Nummer 3.3 | Bestandskontrolle, |
+| Abschnitt A Nummer 4.1 | Preisbildung und Kalkulation, |
+| Abschnitt A Nummer 4.2 | Zahlungsverkehr und rechnerische Abwicklung, Lernziele d bis f, |
+zu vermitteln.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+| Abschnitt A Nummer 3.1 | Einkaufsplanung und Bestellung, |
+| Abschnitt A Nummer 4.3 | Kosten- und Leistungsrechnung, Controlling, |
+| Abschnitt A Nummer 4.4 | Unternehmerische Entscheidungsprozesse |
+zu vermitteln.
+(2)
+In einem Zeitraum von sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen der ausgewählten Wahlqualifikationseinheit aus
+| Abschnitt B Nummer 1 | Musikinstrumente, |
+| Abschnitt B Nummer 2 | Musikalien oder |
+| Abschnitt B Nummer 3 | Tonträger |
+zu vermitteln.

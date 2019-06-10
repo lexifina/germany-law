@@ -1,0 +1,14 @@
+# Art 1
+
+(1)
+Den folgenden in Seoul am 14. September 1994 von der Bundesrepublik Deutschland unterzeichneten Verträgen des Weltpostvereins,
+1. Fünftes Zusatzprotokoll zur Satzung des Weltpostvereins
+2. Allgemeine Verfahrensordnung des Weltpostvereins nebst Anhang
+3. Weltpostvertrag
+4. Postpaketübereinkommen sowie der von den Postverwaltungen angenommenen Änderung von Artikel 5 Absatz 2, die der Bundesregierung durch Notifikation des Generaldirektors des Internationalen Büros des Weltpostvereins vom 19. Juni 1997 bestätigt worden ist
+5. Postanweisungsübereinkommen
+6. Postgiroübereinkommen und
+7. Postnachnahmeübereinkommen
+nebst Schlußprotokollen wird zugestimmt. Die Verträge nebst Schlußprotokollen werden nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
+(2)
+Das Bundesministerium für Wirtschaft und Energie kann den Wortlaut der Satzung in der vom Inkrafttreten des Fünften Zusatzprotokolls an geltenden Fassung im Bundesgesetzblatt bekanntmachen.

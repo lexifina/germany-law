@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Es verordnen, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
+- das Bundesministerium für Gesundheit und Soziale Sicherung auf Grund des § 71 Abs. 2 in Verbindung mit Abs. 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) im Einvernehmen mit dem Bundesministerium des Innern und mit dem Bundesministerium der Verteidigung,
+- das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft auf Grund des § 71 Abs. 2 in Verbindung mit Abs. 3 des Arzneimittelgesetzes in der Fassung der Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3586) im Einvernehmen mit dem Bundesministerium des Innern und mit dem Bundesministerium der Verteidigung:

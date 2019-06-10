@@ -1,0 +1,101 @@
+# Anlage 13 (zu § 40)Bezeichnung und Bewertung der im Rahmen des Fahreignungs-Bewertungssystems zu berücksichtigenden Straftaten und Ordnungswidrigkeiten
+
+Im Fahreignungsregister sind nachfolgende Entscheidungen zu speichern und im Fahreignungs-Bewertungssystem wie folgt zu bewerten:
+1. mit drei Punkten folgende Straftaten, soweit die Entziehung der Fahrerlaubnis oder eine isolierte Sperre angeordnet worden ist:
+  | laufende Nummer | Straftat | Vorschriften |
+  | 1.1 | Fahrlässige Tötung | § 222 StGB |
+  | 1.2 | Fahrlässige Körperverletzung | § 229 StGB |
+  | 1.3 | Nötigung | § 240 StGB |
+  | 1.4 | Gefährliche Eingriffe in den Straßenverkehr | § 315b StGB |
+  | 1.5 | Gefährdung des Straßenverkehrs | § 315c StGB |
+  | 1.6 | Verbotene Kraftfahrzeugrennen | § 315d Absatz 1 Nummer 2 und 3, Absatz 2, 4 und 5 StGB |
+  | 1.7 | Unerlaubtes Entfernen vom Unfallort | § 142 StGB |
+  | 1.8 | Trunkenheit im Verkehr | § 316 StGB |
+  | 1.9 | Vollrausch | § 323a StGB |
+  | 1.10 | Unterlassene Hilfeleistung | § 323c StGB |
+  | 1.11 | Führen oder Anordnen oder Zulassen des Führens eines Kraftfahrzeugs ohne Fahrerlaubnis, trotz Fahrverbots oder trotz Verwahrung, Sicherstellung oder Beschlagnahme des Führerscheins | § 21 StVG |
+  | 1.12 | Kennzeichenmissbrauch | § 22 StVG |
+2. mit zwei Punkten
+2.1 folgende Straftaten, soweit sie nicht von Nummer 1 erfasst sind:
+  | laufende Nummer | Straftat | Vorschriften |
+  | 2.1.1 | Fahrlässige Tötung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 222 StGB |
+  | 2.1.2 | Fahrlässige Körperverletzung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 229 StGB |
+  | 2.1.3 | Nötigung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 240 StGB |
+  | 2.1.4 | Gefährliche Eingriffe in den Straßenverkehr | § 315b StGB |
+  | 2.1.5 | Gefährdung des Straßenverkehrs | § 315c StGB |
+  | 2.1.6 | Verbotene Kraftfahrzeugrennen | § 315d Absatz 1 Nummer 2 und 3, Absatz 2, 4 und 5 StGB |
+  | 2.1.7 | Unerlaubtes Entfernen vom Unfallort | § 142 StGB |
+  | 2.1.8 | Trunkenheit im Verkehr | § 316 StGB |
+  | 2.1.9 | Vollrausch, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 323a StGB |
+  | 2.1.10 | Unterlassene Hilfeleistung, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 323c StGB |
+  | 2.1.11 | Führen oder Anordnen oder Zulassen des Führens eines Kraftfahrzeugs ohne Fahrerlaubnis, trotz Fahrverbots oder trotz Verwahrung, Sicherstellung oder Beschlagnahme des Führerscheins | § 21 StVG |
+  | 2.1.12 | Kennzeichenmissbrauch, soweit ein Fahrverbot angeordnet worden ist und die Tat im Zusammenhang mit dem Führen eines Kraftfahrzeugs oder unter Verletzung der Pflichten eines Kraftfahrzeugführers begangen wurde | § 22 StVG |
+2.2 folgende besonders verkehrssicherheitsbeeinträchtigende Ordnungswidrigkeiten:
+  | laufende Nummer | Ordnungswidrigkeit | laufende Nummer der Anlage zur Bußgeldkatalog-Verordnung (BKat) |
+  | 2.2.1 | Kraftfahrzeug geführt mit einer Atemalkoholkonzentration von 0,25 mg/l oder mehr oder mit einer Blutalkoholkonzentration von 0,5 Promille oder mehr oder mit einer Alkoholmenge im Körper, die zu einer solchen Atem- oder Blutalkoholkonzentration führt | 241, 241.1, 241.2 |
+  | 2.2.2 | Kraftfahrzeug unter der Wirkung eines in der Anlage zu § 24a Absatz 2 des Straßenverkehrsgesetzes genannten berauschenden Mittels geführt | 242, 242.1, 242.2 |
+  | 2.2.3 | Zulässige Höchstgeschwindigkeit überschritten | 9.1 bis 9.3, 11.1 bis 11.3 jeweils in Verbindung mit 11.1.6 bis 11.1.10 der Tabelle 1 des Anhangs (11.1.6 nur innerhalb geschlossener Ortschaften), 11.2.5 bis 11.2.10 der Tabelle 1 des Anhangs (11.2.5 nur innerhalb geschlossener Ortschaften) oder 11.3.6 bis 11.3.10 der Tabelle 1 des Anhangs (11.3.6 nur innerhalb geschlossener Ortschaften) |
+  | 2.2.4 | Erforderlichen Abstand von einem vorausfahrenden Fahrzeug nicht eingehalten | 12.6 in Verbindung mit 12.6.3, 12.6.4 oder 12.6.5 der Tabelle 2 des Anhangs sowie 12.7 in Verbindung mit 12.7.3, 12.7.4 oder 12.7.5 der Tabelle 2 des Anhangs |
+  | 2.2.5 | Überholvorschriften nicht eingehalten | 19.1.1, 19.1.2, 21.1, 21.2 |
+  | 2.2.5a | Bei stockendem Verkehr auf einer Autobahn oder Außerortsstraße für die Durchfahrt von Polizei- oder Hilfsfahrzeugen keine vorschriftsmäßige Gasse gebildet | 50, 50.1, 50.2, 50.3 |
+  | 2.2.6 | Auf der durchgehenden Fahrbahn von Autobahnen oder Kraftfahrstraßen gewendet, rückwärts oder entgegen der Fahrtrichtung gefahren | 83.3 |
+  | 2.2.7 | Als Fahrzeugführer Bahnübergang unter Verstoß gegen die Wartepflicht oder trotz geschlossener Schranke oder Halbschranke überquert | 89b.2, 244 |
+  | 2.2.8 | Als Kraftfahrzeugführer rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt bei Gefährdung, mit Sachbeschädigung oder bei schon länger als einer Sekunde andauernder Rotphase eines Wechsellichtzeichens | 132.1, 132.2, 132.3, 132.3.1, 132.3.2 |
+  | 2.2.8a | Einem Einsatzfahrzeug, das blaues Blinklicht zusammen mit dem Einsatzhorn verwendet hatte, nicht sofort freie Bahn geschaffen | 135, 135.1, 135.2 |
+  | 2.2.8b | Beim Führen eines Kraftfahrzeugs elektronisches Gerät rechtswidrig benutzt mit Gefährdung oder mit Sachbeschädigung | 246.2, 246.3 |
+3. mit einem Punkt folgende verkehrssicherheitsbeeinträchtigende Ordnungswidrigkeiten:
+3.1 folgende Verstöße gegen die Vorschriften des Straßenverkehrsgesetzes:
+  | laufende Nummer | Verstöße gegen die Vorschriften | laufende Nummer des BKat* |
+  | 3.1.1 | des § 24c des Straßenverkehrsgesetzes | 243 |
+3.2 folgende Verstöße gegen die Vorschriften der Straßenverkehrs-Ordnung:
+  | laufende Nummer | Verstöße gegen die Vorschriften über | laufende Nummer des BKat |
+  | 3.2.1 | die Straßenbenutzung durch Fahrzeuge | 4.1, 4.2, 5a, 5a.1, 6 |
+  | 3.2.2 | die Geschwindigkeit | 8.1, 9, 10, 11 in Verbindung mit 11.1.3, 11.1.4, 11.1.5, 11.1.6 der Tabelle 1 des Anhangs (11.1.6 nur außerhalb geschlossener Ortschaften), 11.2.2, 11.2.3, 11.2.4, 11.2.5 der Tabelle 1 des Anhangs (11.2.2 nur innerhalb, 11.2.5 nur außerhalb geschlossener Ortschaften), 11.3.4, 11.3.5, 11.3.6 der Tabelle 1 des Anhangs (11.3.6 nur außerhalb geschlossener Ortschaften) |
+  | 3.2.3 | den Abstand | 12.5 in Verbindung mit 12.5.1, 12.5.2, 12.5.3, 12.5.4 oder 12.5.5 der Tabelle 2 des Anhangs, 12.6 in Verbindung mit 12.6.1 oder 12.6.2 der Tabelle 2 des Anhangs, 12.7 in Verbindung mit 12.7.1 oder 12.7.2 der Tabelle 2 des Anhangs, 15 |
+  | 3.2.4 | das Überholen | 17, 18, 19, 19.1, 153a, 21, 22 |
+  | 3.2.5 | die Vorfahrt | 34 |
+  | 3.2.6 | das Abbiegen, Wenden und Rückwärtsfahren | 39.1, 41, 42.1, 44 |
+  | 3.2.7 | Park- oder Halteverbote mit Behinderung von Rettungsfahrzeugen | 51b.3, 53.1 |
+  | 3.2.8 | das Liegenbleiben von Fahrzeugen | 66 |
+  | 3.2.9 | die Beleuchtung | 76 |
+  | 3.2.10 | die Benutzung von Autobahnen und Kraftfahrstraßen | 79, 80.1, 82, 83.1, 83.2, 85, 87a, 88 |
+  | 3.2.11 | das Verhalten an Bahnübergängen | 89, 89a, 89b.1, 245 |
+  | 3.2.12 | das Verhalten an öffentlichen Verkehrsmitteln und Schulbussen | 92.1, 92.2, 93, 95.1, 95.2 |
+  | 3.2.13 | die Personenbeförderung, die Sicherungspflichten | 99.1, 99.2 |
+  | 3.2.14 | die Ladung | 102.1, 102.1.1, 102.2.1, 104 |
+  | 3.2.15 | die sonstigen Pflichten des Fahrzeugführers | 108, 246.1, 247 |
+  | 3.2.16 | das Verhalten am Fußgängerüberweg | 113 |
+  | 3.2.17 | die übermäßige Straßenbenutzung | 116 |
+  | 3.2.18 | Verkehrshindernisse | 123 |
+  | 3.2.19 | das Verhalten gegenüber Zeichen oder Haltgebot eines Polizeibeamten sowie an Wechsellichtzeichen, Dauerlichtzeichen und Grünpfeil | 129, 132, 132a, 132a.1, 132a.2, 132a.3, 132a.3.1, 132a.3.2, 133.1, 133.2, 133.3.1, 133.3.2 |
+  | 3.2.20 | Vorschriftzeichen | 150, 151.1, 151.2, 152, 152.1 |
+  | 3.2.21 | Richtzeichen | 157.3, 159b |
+  | 3.2.22 | andere verkehrsrechtliche Anordnungen | 164 |
+  | 3.2.23 | Auflagen | 166 |
+3.3 folgende Verstöße gegen die Vorschriften der Fahrerlaubnis-Verordnung:
+  | laufende Nummer | Verstöße gegen die Vorschriften über | laufende Nummer des BKat |
+  | 3.3.1 | die Fahrerlaubnis zur Fahrgastbeförderung | 171, 172 |
+  | 3.3.2 | das Führen von Kraftfahrzeugen ohne Begleitung | 251a |
+3.4 folgende Verstöße gegen die Vorschriften der Fahrzeug-Zulassungsverordnung:
+  | laufende Nummer | Verstöße gegen die Vorschriften über | laufende Nummer des BKat* |
+  | 3.4.1 | die Zulassung | 175 |
+  | 3.4.2 | ein Betriebsverbot und Beschränkungen | 253 |
+3.5 folgende Verstöße gegen die Vorschriften der Straßenverkehrs-Zulassungs-Ordnung:
+  | laufende Nummer | Verstöße gegen die Vorschriften über | laufende Nummer des BKat* |
+  | 3.5.1 | die Untersuchung der Kraftfahrzeuge und Anhänger | 186.1.3, 186.1.4, 186.2.3, 187a |
+  | 3.5.2 | die Verantwortung für den Betrieb der Fahrzeuge | 189.1.1, 189.1.2, 189.2.1, 189.2.2, 189.3.1, 189.3.2, 189a.1, 189a.2 |
+  | 3.5.3 | die Abmessungen von Fahrzeugen und Fahrzeugkombinationen | 192, 193 |
+  | 3.5.4 | die Kurvenlaufeigenschaften von Fahrzeugen | 195, 196 |
+  | 3.5.5 | die Achslast, das Gesamtgewicht, die Anhängelast hinter Kraftfahrzeugen | 198 und 199 jeweils in Verbindung mit 198.1.2 bis 198.1.7, 199.1.2 bis 199.1.6, 198.2.4 oder 199.2.4, 198.2.5 oder 199.2.5, 198.2.6 oder 199.2.6 der Tabelle 3 des Anhangs |
+  | 3.5.6 | die Besetzung von Kraftomnibussen | 201, 202 |
+  | 3.5.7 | Bereifung und Laufflächen | 212, 213, 213a |
+  | 3.5.8 | die sonstigen Pflichten für den verkehrssicheren Zustand des Fahrzeugs | 214.1, 214.2, 214a.1, 214a.2 |
+  | 3.5.9 | die Stützlast | 217 |
+  | 3.5.10 | den Geschwindigkeitsbegrenzer | 223, 224 |
+  | 3.5.11 | Auflagen | 233 |
+3.6 folgende Verstöße gegen die Vorschriften der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt (GGVSEB):
+  | laufende Nummer | Beschreibung der Zuwiderhandlung | gesetzliche Grundlage |
+  | 3.6.1 | Als tatsächlicher Verlader Versandstücke, die gefährliche Güter enthalten, und unverpackte gefährliche Gegenstände nicht durch geeignete Mittel gesichert, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, sowie, wenn gefährliche Güter zusammen mit anderen Gütern befördert werden, nicht alle Güter in den Fahrzeugen oder Containern so gesichert oder verpackt, dass das Austreten gefährlicher Güter verhindert wird. | Unterabschnitt 7.5.7.1 ADR i. V. m. § 37 Absatz 1 Nummer 21 Buchstabe a GGVSEB |
+  | 3.6.2 | Als Fahrzeugführer Versandstücke, die gefährliche Güter enthalten, und unverpackte gefährliche Gegenstände nicht durch geeignete Mittel gesichert, die in der Lage sind, die Güter im Fahrzeug oder Container zurückzuhalten, sowie, wenn gefährliche Güter zusammen mit anderen Gütern befördert werden, nicht alle Güter in den Fahrzeugen oder Containern so gesichert oder verpackt, dass das Austreten gefährlicher Güter verhindert wird. | Unterabschnitt 7.5.7.1 ADR i. V. m. § 37 Absatz 1 Nummer 21 Buchstabe a GGVSEB |
+  | 3.6.3 | Als Beförderer und in der Funktion als Halter des Fahrzeugs entgegen § 19 Absatz 2 Nummer 15 GGVSEB dem Fahrzeugführer die erforderliche Ausrüstung zur Durchführung der Ladungssicherung nicht übergeben | Unterabschnitt 7.5.7.1 ADR i. V. m. § 37 Absatz 1 Nummer 6 Buchstabe o GGVSEB |
+  .

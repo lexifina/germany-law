@@ -1,0 +1,92 @@
+# Anlage 5 (zu § 7 Abs. 2)
+
+Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
+
+(Fundstelle des Originaltextes: BGBl. I 2005, 290 - 291)
+| Aves | Vögel |
+| Agapornis fischeri | Pfirsichköpfchen |
+| Agapornis nigrigenis | Rußköpfchen |
+| Agapornis personatus | Schwarzköpfchen |
+| Agapornis roseicollis | Rosenköpfchen |
+| Agapornis taranta | Tarant-Unzertrennlicher |
+| Alisterus scapularis | Australischer Königssittich |
+| Anas formosa | Baikal-Ente |
+| Anas laysanensis | Laysan-Stockente |
+| Anas querquedula | Knäkente |
+| Aprosmictus erythropterus | Rotflügelsittich |
+| Aythya nyroca | Moorente |
+| Barnardius barnardi | Barnardsittich |
+| Barnardius zonarius semitorquatus | Kragensittich |
+| Barnardius zonarius zonarius | Bauers-Ringsittich |
+| Bolborhynchus lineola | Katharina-Sittich |
+| Branta ruficollis | Rothalsgans |
+| Branta sandvicensis | Hawaiigans |
+| Carduelis cucullata | Kapuzenzeisig |
+| Catreus wallichi | Wallich-Fasan |
+| Colinus virginianus ridgwayi | Ridgways Virginiawachtel |
+| Columba livia | Felsentaube |
+| Coturnix coturnix | Wachtel |
+| Crossoptilon crossoptilon | Weißer Ohrfasan |
+| Crossoptilon mantchuricum | Brauner Ohrfasan |
+| Cyanoramphus forbesi | Forbes Springsittich |
+| Cyanoramphus novaezelandiae | Ziegensittich |
+| Dendrocygna arborea | Kuba-Pfeifgans, Kuba-Baumente |
+| Forpus coelestis | Blaugenick-Sperlingspapagei |
+| Forpus crassirostris | Blauflügel-Sperlingspapagei |
+| Forpus conspicillatus | Augenring-Sperlingspapagei |
+| Forpus passerinus | Grünbürzel-Sperlingspapagei |
+| Forpus xanthops | Gelbgesicht-Sperlingspapagei |
+| Lathamus discolor | Schwalbensittich |
+| Lophophorus impejanus | Himalaya- oder Gelbschwanzglanzfasan |
+| Lophura edwardsi | Edward-Fasan |
+| Lophura erythropthalma | Gelbschwanz-Fasan |
+| Lophura ignita | Hauben-Feuerrückenfasan |
+| Lophura swinhoii | Swinhoe-Fasan |
+| Marmaronetta angustirostris | Marmelente |
+| Myiopsitta monachus | Mönchssittich |
+| Neophema chrysostoma | Feinsittich |
+| Neophema elegans | Schmucksittich |
+| Neophema pulchella | Schönsittich |
+| Neophema splendida | Glanzsittich |
+| Neopsephotus bourkii | Bourkesittich |
+| Northiella haematogaster | Blutbauchsittich |
+| Platycercus adscitus | Blasskopfrosella |
+| Platycercus caledonicus | Gelbbauchsittich |
+| Platycercus elegans | Pennantsittich |
+| Platycercus eximius | Rosellasittich, Prachtrosella |
+| Platycercus flaveolus | Strohsittich |
+| Platycercus icterotis | Stanleysittich |
+| Platycercus venustus | Brownssittich |
+| Poephila cincta cincta | Schwarzkehl-Gürtelgrasfink |
+| Polytelis alexandrae | Princess-of-Wales-Sittich |
+| Polytelis anthopeplus | Bergsittich |
+| Polytelis swainsonii | Schild- oder Barrabandsittich |
+| Psephotus dissimilis | Hooded-Sittich |
+| Psephotus haematonotus | Singsittich |
+| Psephotus varius | Vielfarbensittich |
+| Psittacula eupatria | Großer Alexandersittich |
+| Purpureicephalus spurius | Rotkappensittich |
+| Sarkidiornis melanotos | Höckerente, Glanzente, Höckerglanzente |
+| Syrmaticus ellioti | Elliot-Fasan |
+| Syrmaticus humiae | Hume-Fasan |
+| Syrmaticus mikado | Mikado-Fasan |
+| Tadorna ferruginea | Rostgans |
+| Tympanuchus cupido attwateri | Präriehuhn |
+|  |  |
+| Reptilia | Kriechtiere |
+| Iguana iguana | Grüner Leguan |
+| Python regius | Königspython |
+| Boa constrictor constrictor | Abgottschlange |
+| Boa constrictor imperator | Kaiserboa |
+| Phelsuma madagascariensis | Madagaskar-Taggecko |
+| Phelsuma laticauda | Goldstaub-Taggecko |
+| Trachemys scripta elegans | Rotwangen-Schmuckschildkröte |
+|  |  |
+| Amphibia | Lurche |
+| Ambystoma mexicanum | Axolotl |
+| Bombina orientalis | Chinesische Rotbauchunke |
+| Dendrobates auratus | Goldbaumsteiger |
+| Dendrobates azureus | Blauer Pfeilgiftfrosch |
+|  |  |
+| Pisces | Fische |
+| Acipenseriformes spp. | Störartige |

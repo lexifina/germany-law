@@ -1,0 +1,7 @@
+# Art 12
+
+Zwischen der Gemeinde Bieberehren, Landkreis Würzburg, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
+1. vom Landesgrenzpunkt 129/1 bis zum Landesgrenzpunkt 132/6 nach Maßgabe der Anlage 12, Seiten 2 und 3;
+2. vom Landesgrenzpunkt 133/2 bis zum Landesgrenzpunkt 137/1 nach Maßgabe der Anlage 12, Seiten 2 und 3;
+3. vom Landesgrenzpunkt 138 bis zum Landesgrenzpunkt 144 nach Maßgabe der Anlage 12, Seiten 2 und 3;
+4. vom Landesgrenzpunkt 153 bis zum Landesgrenzpunkt 164 nach Maßgabe der Anlage 12, Seiten 1 und 3.

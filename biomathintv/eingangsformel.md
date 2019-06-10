@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), der zuletzt durch Artikel 7 Nr. 16 Buchstabe b und c des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden ist, und des § 4 Abs. 7 des Gebrauchsmustergesetzes in der Fassung der Bekanntmachung vom 28. August 1986 (BGBl. I S. 1455), der zuletzt durch Artikel 8 Nr. 1 Buchstabe a, c und d des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden ist, jeweils in Verbindung mit § 1 Abs. 2 der DPMA-Verordnung vom 1. April 2004 (BGBl. I S. 514), verordnet das Deutsche Patent- und Markenamt:

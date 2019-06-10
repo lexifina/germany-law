@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Der Baustellenbereich der Grenzbrücke und nach ihrer Fertigstellung die Grenzbrücke selbst gelten, soweit es sich um Lieferungen von Gegenständen und sonstigen Leistungen handelt, die für den Bau und die Instandsetzung und Erneuerung der Grenzbrücke bestimmt sind, für die Anwendung des deutschen Umsatzsteuerrechts und des Mehrwertsteuerrechts der Tschechischen Republik als Hoheitsgebiet der Tschechischen Republik.
+(2)
+Für die in Artikel 9 Abs. 2 Satz 1 des Vertrages genannten Waren werden außer Zöllen keine Einfuhrabgaben erhoben. Dies gilt nicht bei der Einfuhr von Waren für die öffentlichen Bauverwaltungen.

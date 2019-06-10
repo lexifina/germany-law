@@ -1,0 +1,16 @@
+# Gesetz über die Tilgung von Ausgleichsforderungen
+
+- [§ 1 Sachliche Geltung des Gesetzes](0001.md)
+- [§ 2 Tilgung](0002.md)
+- [§ 3 Tilgungsleistungen](0003.md)
+- [§ 4 Änderung von Ausgleichsforderungen](0004.md)
+- [§ 5 Abschlagszahlungen](0005.md)
+- [§ 6 Kündigung durch den Schuldner](0006.md)
+- [§ 7 Erstattung von Zins- und Tilgungsleistungen](0007.md)
+- [§ 8 Ankaufsfonds](0008.md)
+- [§ 9 Verwendung der Mittel des Ankaufsfonds](0009.md)
+- [§ 10 Auflösung des Ankaufsfonds](0010.md)
+- [§ 11 Sonderregelung für Berlin](0011.md)
+- [§ 12 Gesetz über die Deutsche Bundesbank](0012.md)
+- [§ 13 Berlin-Klausel](0013.md)
+- [§ 14 Inkrafttreten](0014.md)

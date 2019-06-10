@@ -1,0 +1,16 @@
+# Anlage IIC (Anlage VIII des BBesG)
+
+Gültig ab 1. September 1997
+
+Fundstelle des Originaltextes: BGBl. I 1997, 1422
+| Anwärtergrundbetrag |
+| Anwärterverheiratetenzuschlag |
+| (Monatsbeträge in DM) |
+| Eingangsamt, in das der Anwärter nach Abschluß des Vorbereitungsdienstes unmittelbar eintritt | Grundbetrag | Verheiratetenzuschlag |
+| vor Vollendung des 26. Lebensjahres | nach Vollendung des 26. Lebensjahres | nach § 62 Abs. 1 | nach § 62 Abs. 2 |
+| A 1 bis A 4 | 1.112 | 1.218 | 290 | 97 |
+| A 5 bis A 8 | 1.282 | 1.425 | 336 | 97 |
+| A 9 bis A 11 | 1.356 | 1.520 | 388 | 97 |
+| A 12 | 1.554 | 1.729 | 409 | 97 |
+| A 13 | 1.598 | 1.782 | 422 | 97 |
+| A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1 | 1.645 | 1.841 | 437 | 97 |

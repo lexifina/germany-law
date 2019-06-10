@@ -1,0 +1,3 @@
+# Art 8 Inkrafttreten
+
+Dieses Gesetz tritt am ersten Tag des auf die Verkündung folgenden Monats in Kraft.

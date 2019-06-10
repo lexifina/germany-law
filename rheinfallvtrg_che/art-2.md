@@ -1,0 +1,3 @@
+# Art 2
+
+In den Gebietsteilen, die nach Artikel 1 Abs. 1 des Vertrages auf die Bundesrepublik Deutschland übergehen, treten mit dem Zeitpunkt des Inkrafttretens des Vertrages die im Regierungsbezirk Süd-Baden geltenden Vorschriften des Bundesrechts in Kraft. Gleichzeitig tritt das schweizerische Recht in diesen Gebietsteilen außer Kraft.

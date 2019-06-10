@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über die Erhaltung der Grenzbrücken im Zuge der deutschen Bundesfernstraßen und der polnischen Landesstraßen an der deutsch-polnischen Grenze wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.

@@ -1,0 +1,15 @@
+# Gesetz zur Verminderung von Luftverunreinigungen durch Bleiverbindungen in Ottokraftstoffen für Kraftfahrzeugmotore
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Zweck und Anwendungsbereich des Gesetzes](0001.md)
+- [§ 2 Begrenzung und Verbot von Zusätzen mit Metallverbindungen](0002.md)
+- [§ 2a Verbraucherschutz](0002a.md)
+- [§ 3 Ausnahmen](0003.md)
+- [§ 3a Abgabe zum Ausgleich von Wettbewerbsvorteilen bei Ausnahmebewilligung](0003a.md)
+- [§ 4 Erklärung über die Beschaffenheit einzuführender Ottokraftstoffe](0004.md)
+- [§ 5 Überwachung](0005.md)
+- [§ 6](0006.md)
+- [§ 7 Ordnungswidrigkeiten](0007.md)
+- [§ 8 Einfuhr von Ottokraftstoffen zu Verteidigungszwecken](0008.md)
+- [§ 9 Berlin-Klausel](0009.md)
+- [§ 10 Inkrafttreten](0010.md)

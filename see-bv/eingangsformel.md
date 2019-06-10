@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Das Bundesministerium für Verkehr und digitale Infrastruktur verordnet, jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsänderungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310),
+– auf Grund des § 9 Absatz 1 Satz 1 Nummer 3a, 3c, 3d in Verbindung mit Absatz 2 Satz 3 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), § 9 Absatz 1 und 2 geändert durch Artikel 2 Absatz 1 Nummer 6 des Gesetzes vom 20. April 2013 (BGBl. I S. 868), im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Ernährung und Landwirtschaft und
+– auf Grund des § 12 Absatz 2 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom 26. Juli 2002 (BGBl. I S. 2876), der durch Artikel 2 Absatz 163 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) im Einvernehmen mit dem Bundesministerium der Finanzen:

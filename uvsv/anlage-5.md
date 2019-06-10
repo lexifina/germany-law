@@ -1,0 +1,34 @@
+# Anlage 5 (zu § 4 Absatz 1 bis 3)Dosierungsplan
+
+1. Voraussetzungen
+  – Bestimmung des Hauttyps.
+  – Klärung der Ausschlusskriterien (entsprechend den Hinweisen nach Anlage 7).
+  – Informationen zur Nutzung eines UV-Bestrahlungsgerätes (entsprechend den Hinweisen nach Anlage 7).
+  – Aufklärung über das erhöhte gesundheitliche Risiko durch UV-Bestrahlung, insbesondere im Hinblick auf Hautkrebs, vorzeitige Hautalterung, Augenschäden und UV-Erythem.
+2. Vorgaben zum Erstellen des Dosierungsplans und zu Bestrahlungspausen
+  – Individuelle Festlegung der Bestrahlungsdauer in Abhängigkeit vom Hauttyp der Nutzerin oder des Nutzers und der Bestrahlungsstärke des jeweiligen UV-Bestrahlungsgerätes anhand der Tabelle „Maximalwerte erythemwirksamer Bestrahlungen“ unter Vermeidung eines UV-Erythems (Sonnenbrand).
+  – Einheitliche erste Bestrahlung ungebräunter Haut von 100 Jm-².
+  – Maximal eine UV-Bestrahlung pro Tag (Sonne oder UV-Bestrahlungsgerät).
+  – Mindestens 48 Stunden Abstand zwischen den ersten beiden Bestrahlungen.
+  – Maximal drei Bestrahlungen pro Woche.
+  – Maximal zehn Bestrahlungen im Monat.
+  – Maximal zehn Bestrahlungen pro Serie.
+  – Bestrahlungspause nach Beendigung einer Bestrahlungsserie von mindestens der Dauer der vorausgegangenen Bestrahlungsserie.
+  – Maximal 50 Sonnenbäder oder Bestrahlungen durch UV-Bestrahlungsgeräte pro Jahr.
+3. Bestrahlungsserie – Maximalwert der erythemwirksamen Bestrahlung bei Unterbrechung einer Bestrahlungsserie
+  – Eine Bestrahlungsserie umfasst bis zu 10 Bestrahlungen. Sie ist beendet nach 10 Bestrahlungen oder bei einer Unterbrechung zwischen zwei Bestrahlungen von mehr als vier Wochen. Die erste Bestrahlung nach einer Beendigung darf eine maximale erythemwirksame Bestrahlung von 100 Jm-² nicht überschreiten.
+  – Bei Unterbrechung einer Bestrahlungsserie von mehr als einer und bis zu vier Wochen: Wiederaufnahme der Bestrahlungsserie mit um eine Stufe reduzierter erythemwirksamer Bestrahlung.
+4. Maximalwerte erythemwirksamer Bestrahlungen
+  | Hauttyp | Erythemwirksame Bestrahlung in Jm–2 |
+  | Nummer der Bestrahlung in der Serie |
+  | 1 | 2 und 3 | 4 und 5 | 6 bis 8 | 9 und 10 |
+  | I | 100 | 100 | 100 | 100 | 100 |
+  | II | 100 | 100 | 100 | 100 | 100 |
+  | III | 100 | 150 | 200 | 250 | 350 |
+  | IV | 100 | 200 | 300 | 350 | 450 |
+  | V | 100 | 250 | 400 | 550 | 600 |
+  | VI | 100 | 300 | 500 | 600 | 600 |
+  Bei einer erythemwirksamen Bestrahlungsstärke von 0,3 Wm–² entspricht eine Bestrahlung mit einer Dosis von 100 Jm–² einer Nutzungsdauer von ungefähr 5 Minuten und 30 Sekunden.
+5. Hinweise zur Anwendung des Dosierungsplans
+  – Einhalten der Abfolge der im Dosierungsplan festgelegten Einzelbestrahlungen.
+  – Bei Auftreten eines UV-Erythems oder anderer anormaler Hautreaktionen: sofortiger Abbruch der Bestrahlungsserie und ärztliche Abklärung.

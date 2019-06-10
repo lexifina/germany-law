@@ -1,0 +1,21 @@
+# Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung von
+Techniken für den spurgeführten Verkehr
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Versuchsanlage des Bundes](0001.md)
+- [§ 2 Planfeststellung](0002.md)
+- [§ 3 Planfeststellungsbeschluß](0003.md)
+- [§ 4 Planfeststellungsbehörde](0004.md)
+- [§ 5 Planfeststellungsverfahren](0005.md)
+- [§ 6 Kreuzungen mit anderen Eisenbahnen und mit Straßen](0006.md)
+- [§ 7 Veränderungssperre](0007.md)
+- [§ 8 Vorarbeiten](0008.md)
+- [§ 9 Entschädigung](0009.md)
+- [§ 10 Enteignung](0010.md)
+- [§ 11 Verwaltung und Betrieb der Versuchsanlage](0011.md)
+- [§ 12 Andere Versuchsanlagen](0012.md)
+- [§ 13 Beseitigung der Versuchsanlage](0013.md)
+- [§ 14](0014.md)
+- [§ 15 Fortgeltung anderer Gesetze](0015.md)
+- [§ 16 Berlin-Klausel](0016.md)
+- [§ 17 Inkrafttreten](0017.md)

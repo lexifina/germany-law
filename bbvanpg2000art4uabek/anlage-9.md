@@ -1,0 +1,14 @@
+# Anlage 9 (Anlage VIII des BBesG)
+
+Gültig ab 1. Januar 2002
+
+Fundstelle des Originaltextes: BGBl. I 2001, 669
+Anwärtergrundbetrag
+(Monatsbeträge in Euro)
+| Eingangsamt, in das der Anwärter nach Abschluss des Vorbereitungsdienstes unmittelbar eintritt | Grundbetrag |
+| A 1 bis A 4 | 678,75 |
+| A 5 bis A 8 | 782,75 |
+| A 9 bis A 11 | 829,27 |
+| A 12 | 949,69 |
+| A 13 | 977,06 |
+| A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1 | 1.007,16 |

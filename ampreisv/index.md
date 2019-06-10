@@ -1,0 +1,16 @@
+# Arzneimittelpreisverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich der Verordnung](0001.md)
+- [§ 2 Großhandelszuschläge für Fertigarzneimittel](0002.md)
+- [§ 3 Apothekenzuschläge für Fertigarzneimittel](0003.md)
+- [§ 4 Apothekenzuschläge für Stoffe](0004.md)
+- [§ 5 Apothekenzuschläge für Zubereitungen aus Stoffen](0005.md)
+- [§ 6 Notdienst](0006.md)
+- [§ 7 Betäubungsmittelund Arzneimittel nach § 3ader Arzneimittelverschreibungsverordnung](0007.md)
+- [§ 8 Sonderbeschaffung](0008.md)
+- [§ 9 Angaben auf der Verschreibung](0009.md)
+- [§ 10 Zuschläge der Tierärzte](0010.md)
+- [§ 11 Preise in besonderen Fällen](0011.md)
+- [§ 12 Inkrafttreten, abgelöste Vorschriften](0012.md)
+- [Schlußformel](schlussformel.md)

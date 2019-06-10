@@ -1,0 +1,16 @@
+# Verordnung über den anerkannten Umschulungsabschluss Geprüfte Fachkraft Bodenverkehrsdienst im Luftverkehr
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Umschulung, Umschulungsprüfung und Bezeichnung des Umschulungsabschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen für die Umschulungsprüfung](0002.md)
+- [§ 3 Art, Dauer und Inhalt der Umschulung](0003.md)
+- [§ 4 Gliederung der Umschulungsprüfung](0004.md)
+- [§ 5 Prüfungsteil „Theorie des Bodenverkehrsdienstes“](0005.md)
+- [§ 6 Prüfungsteil „Praxis des Bodenverkehrsdienstes“](0006.md)
+- [§ 7 Befreiung von einzelnen Prüfungsbestandteilen](0007.md)
+- [§ 8 Bewertung der Prüfungsleistungen; Bestehen der Prüfung](0008.md)
+- [§ 9 Wiederholung der Prüfung](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [Anlage 1 (zu § 3 Absatz 2)Umschulungslehrgang](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 3)Betriebliche Umschulung](anlage-2.md)

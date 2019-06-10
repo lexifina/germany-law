@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft verordnet jeweils in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127) auf Grund des § 2a Abs. 1, des § 11b Abs. 5 sowie des § 12 Abs. 2 Satz 1 Nr. 4, jeweils in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes in der Fassung der Bekanntmachung vom 25. Mai 1998 (BGBl. I S. 1105, 1818), von denen § 2a Abs. 1 Nr. 5, § 11b Abs. 5 und § 12 Abs. 2 Satz 1 Nr. 4 durch Artikel 2 des Gesetzes vom 12. April 2001 (BGBl. I S. 530) geändert worden sind, nach Anhörung der Tierschutzkommission:

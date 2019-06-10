@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 79a Abs. 2 Nr. 4 in Verbindung mit den §§ 18, 20 Abs. 1 Nr. 2 und § 24 Abs. 1 und 2 und des § 79a Abs. 2 Nr. 6 in Verbindung mit § 78 Nr. 1 Buchstabe a, jeweils auch in Verbindung mit § 79a Abs. 1 Satz 1 und § 79b, des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260), von denen § 79a Abs. 1 Satz 1 durch Artikel 2 § 3 Abs. 5 des Gesetzes vom 1. September 2005 (BGBl. I S. 2618) geändert worden ist, in Verbindung mit § 3 Abs. 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium Ernährung, Landwirtschaft und Verbraucherschutz:

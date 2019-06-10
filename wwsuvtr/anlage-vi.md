@@ -1,0 +1,18 @@
+# Anlage VI Regelungen, die in der Deutschen
+Demokratischen Republik im weiteren Verlauf
+anzustreben sind
+
+Im Verlauf der Errichtung der Währungs-, Wirtschafts- und Sozialunion sind folgende weitere Regelungen in der Deutschen Demokratischen Republik anzustreben:
+I. Umweltrecht
+  Die Deutsche Demokratische Republik wird die Voraussetzungen dafür schaffen, daß auf dem Gebiet des Umweltschutzes baldmöglichst dem Recht der Bundesrepublik Deutschland entsprechende Regelungen getroffen werden können:
+  1. Bundes-Immissionsschutzgesetz nebst Durchführungsregelungen
+  2. Abfallgesetz nebst Durchführungsregelungen
+  3. Benzinbleigesetz nebst Durchführungsregelungen
+  4. Chemikaliengesetz nebst Durchführungsregelungen
+  5. Wasserhaushaltsgesetz nebst Durchführungsregelungen
+II. Wirtschafts- und Sozialunion
+  1. Güterkraftverkehrsgesetz
+  2. Personenbeförderungsgesetz
+  3. Insolvenzrecht
+  4. Einführung des Ordnungsrahmens und der Berufsstruktur der Bundesrepublik Deutschland im Bereich berufliche Bildung (Berufsbildungsgesetz: Erster Teil; Dritter Teil 2., 4., 6., 7. Abschnitt; Handwerksordnung: Zweiter Teil; 2., 4., 6., 7. Abschnitt, Dritter Teil; die auf diese Gesetze gestützten Ausbildungs- und Meisterprüfungsregelungen).
+  5. Gesetz über Sprecherausschüsse der leitenden Angestellten vom 20. Dezember 1988 (BGBl. I S. 2312, 2316).

@@ -1,0 +1,46 @@
+# Anlage (zu § 4 Abs. 4)
+
+1. Der Jahresbetrag der Zahlungsverpflichtung nach § 4 Absatz 4 ist die Summe aus den jährlichen
+  a) Versorgungsbezügen einschließlich 80 Prozent des Kinderzuschlags und
+  b) den Unternehmensbeiträgen nach § 16 Absatz 1 des Postpersonalrechtsgesetzes,
+  jeweils bezogen auf den Einzelfall der Zurruhesetzung nach diesem Gesetz.
+2. Zahlungszeiträume nach § 4 Absatz 4 in Jahren:
+  | Besoldungsgruppen A 2 bis A 6 |
+  |  | Ruhegehaltfähige Dienstzeit |
+  | Alter | bis 22 Jahre | über 22 Jahre | über 32 Jahre |
+  | 55 Jahre | 6,13 | 6,08 | 7,39 |
+  | 56 Jahre | 5,62 | 5,59 | 6,88 |
+  | 57 Jahre | 5,31 | 5,13 | 6,18 |
+  | 58 Jahre | 4,34 | 4,61 | 5,43 |
+  | 59 Jahre | 4,14 | 4,11 | 4,69 |
+  | 60 Jahre | 3,56 | 3,51 | 3,93 |
+  | 61 Jahre | 2,93 | 2,85 | 3,17 |
+  | 62 Jahre | 2,17 | 2,11 | 2,39 |
+  | 63 Jahre | 1,36 | 1,33 | 1,60 |
+  | ab 64 Jahre | 0,99 | 0,96 | 0,98 |
+  | Besoldungsgruppen A 7 bis A 9 |
+  |  | Ruhegehaltfähige Dienstzeit |
+  | Alter | bis 22 Jahre | über 22 Jahre | über 32 Jahre |
+  | 55 Jahre | 7,19 | 4,62 | 6,57 |
+  | 56 Jahre | 6,51 | 4,23 | 5,83 |
+  | 57 Jahre | 5,82 | 3,84 | 5,20 |
+  | 58 Jahre | 5,13 | 3,42 | 4,59 |
+  | 59 Jahre | 4,43 | 2,99 | 4,05 |
+  | 60 Jahre | 3,70 | 2,53 | 3,48 |
+  | 61 Jahre | 2,94 | 2,06 | 3,01 |
+  | 62 Jahre | 2,15 | 1,59 | 2,37 |
+  | 63 Jahre | 1,33 | 1,03 | 1,62 |
+  | ab 64 Jahre | 0,95 | 0,68 | 0,96 |
+  | Besoldungsgruppen A 10 bis B 3 |
+  |  | Ruhegehaltfähige Dienstzeit |
+  | Alter | bis 22 Jahre | über 22 Jahre | über 32 Jahre |
+  | 55 Jahre | 4,31 | 4,44 | 6,74 |
+  | 56 Jahre | 4,00 | 4,06 | 6,08 |
+  | 57 Jahre | 3,76 | 3,67 | 5,29 |
+  | 58 Jahre | 3,27 | 3,26 | 4,57 |
+  | 59 Jahre | 2,89 | 2,83 | 3,96 |
+  | 60 Jahre | 2,41 | 2,39 | 3,40 |
+  | 61 Jahre | 2,03 | 1,92 | 2,87 |
+  | 62 Jahre | 1,52 | 1,46 | 2,26 |
+  | 63 Jahre | 0,86 | 1,02 | 1,59 |
+  | ab 64 Jahre | 0,58 | 0,55 | 0,95 |

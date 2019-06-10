@@ -1,0 +1,18 @@
+# Anlage 1 (zu § 2 Abs. 1 und 2)
+
+(Fundstelle: BGBl. I 2001, 3696;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Partnerschaftsregister des Amtsgerichts | Nummer der Partnerschaft: PR |
+| Nummer der Eintragung | a)Nameb)Sitz, Zweigniederlassungenc)Gegenstand | a)Allgemeine Vertretungsregelungb)Partner, Vertretungsberechtigte und besondere Vertretungsbefugnis | a)Rechtsformb)Sonstige Rechtsverhältnisse | a)Tag der Eintragungb)Bemerkungen |
+| 1 | 2 | 3 | 4 | 5 |
+| 1 | a)Müller und Partner, Rechtsanwälte und Steuerberaterb)Münchenc)Ausübung rechtsanwaltlicher und steuerberatender Tätigkeit | a)Jeder Partner ist zur Vertretung der Partnerschaft berechtigt.b)Müller, Peter, Rechtsanwalt, Starnberg, geb. 1. Januar 1966; Schmidt, Christian, Steuerberater, München, geb. 12. Mai 1967; Dr. Mittler, Gabriele, Rechtsanwältin, Dachau, geb. 25. April 1968 | a)Partnerschaft | a)28. Juli 2001 Röcken |
+| 2 |  | b)Jung, Ute, Rechtsanwältin, Augsburg, geb. 15. Oktober 1965. Ute Jung ist als Partnerin in die Partnerschaft eingetreten. *) Ute Jung ist nur gemeinsam mit Peter Müller oder Christian Schmidt vertretungsberechtigt. |  | a)10. Oktober 2001 Schirmer |
+| 3 |  | b)Jung, Ute, ist nun einzelvertretungsberechtigt. *) |  | a)1. Januar 2002 Schirmer |
+| 4 | b)In Augsburg ist eine Zweigniederlassung (Amtsgericht Augsburg, PR 345) errichtet. |  |  | a)5. Februar 2002 Schirmer |
+| 5 | a)Müller, Schmidt und Partner, Rechtsanwälte und Steuerberater |  | b)der Name der Partnerschaft ist geändert. *) | a)18. Oktober 2002 Schirmer |
+| 6 |  | a)Die Liquidatoren sind nur gemeinsam zur Vertretung der Partnerschaft berechtigt.b)Liquidatoren: Schmidt, Christian, Steuerberater, München, geb. 12. Mai 1967; Jung, Ute, Rechtsanwältin, Augsburg, geb. 15. Oktober 1965 | b)Die Partnerschaft ist aufgelöst. | a)10. Januar 2003 M. Schmidt |
+| 7 |  |  | b)Der Name der Partnerschaft ist erloschen. ++) | a)30. April 2003 Scholz |
+|  |
+Anmerkung: Die Kopfzeile und die Spaltenüberschriften müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.
+*) Als nicht in den aktuellen Ausdruck aufzunehmen kenntlich gemacht gemäß § 1 der Partnerschaftsregisterverordnung i. V. m. § 16a der Handelsregisterverordnung.
+++) Die Durchkreuzung oder die auf sonstige Weise erfolgte Kenntlichmachung des Registerblattes als gegenstandslos ist hier weggelassen.

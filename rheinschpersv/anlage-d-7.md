@@ -1,0 +1,78 @@
+# Anlage D7 Prüfungsprogramm für den Erwerb eines Patentes für den Rhein
+
+| Vorbemerkung: |  |
+|  |  |
+| Patentarten (Spalten 4 bis 7) |  |
+|  |  |  |
+|  | A - Großes Patent |  |
+|  | B - Kleines Patent |  |
+|  | C - Sportpatent |  |
+|  | D - Behördenpatent |  |
+|  |  |
+| geforderte Kenntnisse (Spalte 3) |  |
+|  |  |  |
+|  | 1 - Detailkenntnisse |  |
+|  | 2 - Grundkenntnisse |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| Nr. | Prüfungsstoff |  | A | B | C | D |
+| 1. | Kenntnis der Verordnungen, Merkblätter und Handbücher |  |  |  |  |  |
+| 1.1 | Rheinschifffahrtspolizeiverordnung (einschließlich der vorübergehenden Anordnungen) |  |  |  |  |  |
+|  | Kapitel 1 bis 7, 15 | 1 | x | x | x | x |
+|  | Kapitel 8 | 1 | x | x |  |  |
+|  | Kapitel 9, 10, 12, 14 (für die beantragten Strecken) | 1 | x | x | x | x |
+|  | Kapitel 11 | 1 | x |  |  |  |
+|  | Anlagen |  |  |  |  |  |
+|  | 3. | Bezeichnung der Fahrzeuge | 1 | x | x | x | x |
+|  | 6. | Schallzeichen | 1 | x | x | x | x |
+|  | 7. | Schifffahrtszeichen | 1 | x | x | x | x |
+|  | 8. | Bezeichnung der Wasserstraße | 1 | x | x | x | x |
+|  | 10. | Ölkontrollbuch | 1 | x | x | x | x |
+|  | Merkblätter / Handbücher |  |  |  |  |  |
+|  | Sprechfunk |  |  |  |  |  |
+|  | Abfallbeseitigung |  |  |  |  |  |
+| 1.2 | Verkehrsvorschriften für Seeschifffahrtsstraßen | 1 | x | x | x |  |
+|  | (Bezeichnung der Fahrzeuge, Schallzeichen, Schifffahrtszeichen, Seezeichen und Betonnungssystem, Fahrregeln) |  |  |  |  |  |
+| 1.3 | Rheinschiffsuntersuchungsordnung und Europäischer Standard der technischen Vorschriften für Binnenschiffe |  |  |  |  |  |
+|  | Aufbau und Inhalt | 2 | x | x | x | x |
+|  | Inhalt des Binnenschiffszeugnisses | 2 | x | x | x | x |
+| 1.4 | Besatzungsvorschriften, Teil II der Verordnung über dasSchiffspersonal auf dem Rhein | 1 | x | x |  | x |
+| 1.5 | ADN |  |  |  |  |  |
+|  | Aufbau | 2 | x | x |  | x |
+|  | Urkunden/Weisungen | 2 | x | x |  | x |
+|  | Kenntnis der vorgeschriebenen Bezeichnung mit blauen Kegeln/Lichtern | 1 | x | x |  | x |
+|  | Auffinden der Betriebsvorschriften | 2 | x | x |  | x |
+| 1.6 | Bestimmungen über die Rheinpatente, Teil III der Verordnung überdas Schiffspersonal auf dem Rhein |  |  |  |  |  |
+|  | Patentarten | 2 | x | x | x | x |
+|  | Kriterien für Patententzug und Aussetzen der Gültigkeit | 1 | x | x | x | x |
+| 1.7 | Unfallverhütung | 2 | x | x | x | x |
+| 2. | Nautische Kenntnisse und Streckenkenntnisse(anhand von Kartenmaterial) |  |  |  |  |  |
+| 2.1 | Rhein und Nebenwasserstraßen | 2 | x | x | x | x |
+|  | (wichtigste geografische, hydrologische, meteorologische und morphologische Merkmale) |  |  |  |  |  |
+| 2.2 | Ortskenntnisse der beantragten Rheinstrecken |  |  |  |  |  |
+|  | Fahrwegbeschreibung Berg- und Talfahrt |  |  |  |  |  |
+|  | Fahrwegabmessungen |  |  |  |  |  |
+| 2.3 | Navigation auf Seeschifffahrtsstraßen | 2 | x | x | x |  |
+|  | (Kursbestimmung, Standlinien und Schiffsort, Arbeiten mit der Seekarte, Kompasskontrollverfahren, Grundlagen der Gezeitenlehre) |  |  |  |  |  |
+| 3. | Berufskenntnisse |  |  |  |  |  |
+|  | (nautische, schiffsbetriebstechnische, berufliche Fähigkeiten) |  |  |  |  |  |
+| 3.1 | Führung des Fahrzeuges |  |  |  |  |  |
+|  | Vorgänge beim Steuern, Manövriereigenschaften | 2 | x | x | x | x |
+|  | Funktion von Steuereinrichtungen und Antrieb | 2 | x | x | x | x |
+|  | Einfluss von Strömung, Wind und Sog | 2 | x | x | x | x |
+|  | Schwimmfähigkeit, Stabilität und ihre praktische Anwendung | 2 | x | x | x | x |
+|  | Ankern und Festmachen | 2 | x | x | x | x |
+| 3.2 | Maschinenkenntnisse |  |  |  |  |  |
+|  | Bau, Arbeitsweise der Motoren, Funktion der elektrischen Einrichtungen | 2 | x | x | x | x |
+|  | Bedienung, Betriebskontrolle | 2 | x | x | x | x |
+|  | Maßnahmen bei Betriebsstörungen | 2 | x | x | x | x |
+| 3.3 | Laden und Löschen |  |  |  |  |  |
+|  | Bestimmung des Ladegewichtes anhand des Eichscheines | 2 | x | x |  |  |
+|  | Verwendung der Tiefgangsanzeiger | 2 | x | x |  |  |
+|  | Stauen der Ladung | 2 | x | x |  | x |
+| 3.4 | Verhalten unter besonderen Umständen |  |  |  |  |  |
+|  | Maßnahmen bei Havarien, Erste Hilfe, Abdichtung von Lecks | 2 | x | x | x | x |
+|  | Bedienung von Rettungsgeräten | 2 | x | x | x | x |
+|  | Besonderheiten bei Havarien auf Seeschifffahrtsstraßen | 2 | x | x | x |  |
+|  | Abfallbehandlung und Reinhaltung der Gewässer | 2 | x | x | x | x |
+|  | Benachrichtigung von zuständigen Behörden | 2 | x | x | x | x |
+|  | Feuerlöschwesen | 2 | x | x | x | x |

@@ -1,0 +1,3 @@
+# Art 7
+
+Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.

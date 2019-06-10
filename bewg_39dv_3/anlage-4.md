@@ -1,0 +1,32 @@
+# Anlage 4 (zu § 1 Nr. 3)
+
+Nutzungsteil Baumschulen
+
+| Lfd. Nr. | Gemeinde, Ort oder Ortsteil | Finanzamtsbezirk | Baumschulvergleichszahl (BVZ) je Ar | Bemerkungen |
+| B 11.01 | Kölln-Reisiek | Elmshorn | 90 |  |
+| B 11.02 | Wedel | Elmshorn | 37 |  |
+| B 11.03 | Rellingen | Elmshorn | 60 |  |
+| B 22.01 | Gießelhorst | Westerstede | 89 |  |
+| B 22.02 | Wiesmoor | Aurich | 83 |  |
+| B 22.03 | Vechta | Vechta | 46 |  |
+| B 31.01 | Senden | Lüdinghausen | 79 |  |
+| B 31.02 | Oberhundem | Olpe | 42 | ausschließlich Forstpflanzen |
+| B 33.01 | Erkelenz-Mennekrath | Erkelenz | 75 |  |
+| B 41.01 | Berghausen | Speyer | 37 |  |
+| B 41.02 | Schifferstadt | Speyer | 89 |  |
+| B 41.03 | Heßloch | Worms | 202 | ausschließlich Rebschulen |
+| B 51.01 | Kiedrich | Rüdesheim (Rhein) | 60 |  |
+| B 51.02 | Steinfurth | Friedberg (Hess) | 66 |  |
+| B 61.01 | Schiffweiler | Neunkirchen (Saar) | 66 |  |
+| B 71.01 | Ladenburg | Weinheim (Bergstr) | 46 |  |
+| B 72.01 | Steißlingen | Singen (Hohentwiel) | 79 |  |
+| B 72.02 | Zell a. H. | Wolfach | 34 | ausschließlich Forstpflanzen |
+| B 72.03 | Munzingen | Freiburg I | 144 | ausschließlich Rebschulen und Rebmuttergärten |
+| B 73.01 | Oberteuringen | Friedrichshafen | 42 |  |
+| B 73.02 | Beuren | Nürtingen | 22 |  |
+| B 81.01 | Ellingen | Weißenburg (Bay) | 55 |  |
+| B 81.02 | Ochsenfurt | Ochsenfurt | 40 |  |
+| B 81.03 | Honings | Erlangen | 30 |  |
+| B 82.01 | Memmingen | Memmingen | 65 |  |
+| B 82.02 | Leipheim | Günzburg | 52 |  |
+| B 111.01 | Berlin-Lichtenrade | Berlin-Tempelhof | 85 |  |

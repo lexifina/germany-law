@@ -1,0 +1,3 @@
+# Art 5
+
+Zwischen dem Markt Weitnau, Landkreis Oberallgäu, Freistaat Bayern, und der Stadt Isny im Allgäu, Landkreis Ravensburg, Land Baden-Württemberg, verläuft die neue Landesgrenze vom Landesgrenzpunkt 316/9 bis zum Landesgrenzpunkt 318/10 nach Maßgabe der Anlage 5, Seiten 1 und 2.

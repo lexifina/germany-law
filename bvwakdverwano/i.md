@@ -1,0 +1,3 @@
+# I.
+
+Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S. 829) beauftrage ich mit Zustimmung des Bundesministers des Innern das Bundesamt, in der von der Ermittlungszentrale herausgegebenen Ermittlungsliste auf Ersuchen der den Zivildienst durchführenden Stelle auch anerkannte Kriegsdienstverweigerer auszuschreiben, die sich der Zivildienstüberwachung durch Nichterfüllung ihrer Meldepflicht oder ihrer Pflicht nach § 23 Abs. 2 Satz 2 des Gesetzes über den Zivildienst in der Fassung vom 16. Juli 1965 (Bundesgesetzbl. I S. 983) entziehen.

@@ -1,0 +1,103 @@
+# Anlage (zu § 7)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Produktgestalter-Textil/zur Produktgestalterin-Textil
+
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 6 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 6 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweisen der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 6 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 6 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Textile Rohstoffe und Produkte (§ 6 Nr. 5) | a) | textile Faserstoffe nach Aufbau und Eigenschaften einteilen | 12*) |  |
+| b) | Faserstoffarten bestimmen |
+| c) | Spinn- und Zwirnverfahren unterscheiden, textile Längengebilde sowie deren Eigenschaften bestimmen, Feinheitsbezeichnungen, insbesondere nach dem tex-System, anwenden |
+| d) | Fertigungstechnologien textiler Flächengebilde unterscheiden, Eigenschaften und Konstruktionsmerkmale bestimmen |
+| e) | Vorgaben und Eigenschaften beim Lagern von Werk- und Hilfsstoffen beachten |
+| f) | Feinheitsbe- und -umrechnungen sowie textile Flächenberechnungen durchführen |  | 10*) |
+| g) | Einfluss der Fasereigenschaften und -mischungen auf den Herstellungsprozess und das Fertigprodukt berücksichtigen |  |
+| h) | Veredlungsprozesse hinsichtlich ihrer Art und Auswirkung unterscheiden |
+| i) | Gebrauchs- und Pflegeanforderungen von Textilien unterscheiden |
+| 6 | Planen und Vorbereiten von Arbeitsabläufen (§ 6 Nr. 6) | a) | Auftragsunterlagen prüfen, Auftragsziele und Arbeitsschritte festlegen | 4*) |  |
+| b) | Arbeitsplatz nach ergonomischen Gesichtspunkten einrichten |
+| c) | Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und bereitstellen |
+| d) | inhaltliche und gestalterische Vorgaben mit den Beteiligten abstimmen, Terminvorgaben beachten |  | 4*) |
+| e) | Verfahrenswege abstimmen und festlegen, kostenorientiert handeln |
+| f) | Aufgaben im Team planen und bearbeiten, Ergebnisse abstimmen und auswerten |
+| g) | Arbeitsabläufe dokumentieren, Daten zusammenführen |
+| h) | Kommunikationstechniken anwenden, Sachverhalte darstellen, deutsche und englische Fachbegriffe verwenden |
+| i) | Maßnahmen zur Verbesserung der Arbeitsorganisation und zur Arbeitsplatzgestaltung vorschlagen |
+| 7 | Anwenden von Informations- und Kommunikationssystemen (§ 6 Nr. 7) | a) | Informationsstrukturen nutzen, insbesondere Datenorganisation und -verwaltung sowie externe Datenbanken | 2 |  |
+| b) | Informationen auswählen, bewerten und einordnen |
+| c) | Begriffe definieren und in Kommunikationsprozessen verwenden |
+| d) | Daten sichern und Datenschutz beachten |
+| e) | technische Daten erstellen, aufbereiten und dokumentieren |  | 2 |
+| f) | Anwendungsprogramme unterscheiden und einsetzen |
+| 8 | Durchführen von qualitätssichernden Maßnahmen (§ 6 Nr. 8) | a) | Ziele, Aufgaben, Bedeutung und Aufbau des betrieblichen Qualitätsmanagementsystems beschreiben | 2*) |  |
+| b) | Arbeits- und Betriebsanweisungen anwenden |
+| c) | Funktionstüchtigkeit der Betriebsmittel prüfen und erhalten |
+| d) | Arbeitsabläufe fortwährend auf Einhaltung der Vorgaben kontrollieren, Qualitätsmerkmale feststellen sowie Qualitätsausfall prüfen |
+| e) | Ursachen von Qualitätsabweichungen feststellen, Korrektur- und Vorbeugungsmaßnahmen umsetzen |  | 4*) |
+| f) | Materialfluss und Informationsaustausch sicherstellen |
+| g) | Produkte kundengerecht kennzeichnen und aufmachen |
+| h) | Produktions- und Qualitätsdaten dokumentieren |
+| i) | technische, gestalterische und terminliche Kundenvorgaben erfüllen |
+| 9 | Anwenden von Zeichentechniken (§ 6 Nr. 9) | a) | Zeichengeräte und -material handhaben | 16 |  |
+| b) | zeichnerische und malerische Grundtechniken anwenden |
+| c) | Naturstudien anfertigen |
+| d) | zeichnerische Ausdrucksmöglichkeiten und Gestaltungstechniken anwenden |
+| 10 | Entwickeln und Entwerfen von Dessins (§ 6 Nr. 10) | a) | Ideen sammeln und auswerten | 18 |  |
+| b) | Skizzen und Reinzeichnungen anfertigen |
+| c) | Grundformen variieren, Grundlagen der Form- und Farbenlehre anwenden |
+| d) | Vorlagen gestalten, variieren und verfremden, Dessins entwickeln |
+| e) | Dessins durch Gruppieren und Variieren von Formen entwickeln |
+| f) | Entwürfe nach stilkundlichen, geometrischen und figurativen Vorlagen ausarbeiten und vervollständigen |
+| g) | Musterschutzbestimmungen einhalten, Entwürfe vor Missbrauch schützen |
+| h) | Konstruktionstechniken gemäß den Herstellungsverfahren berücksichtigen |
+| i) | Stil- und Naturmuster nach den Kategorien Typisieren, Stilisieren und Abstrahieren gestalten |  | 10 |
+| k) | klassische und modische Elemente entwerfen |
+| l) | Kombinationsmöglichkeiten aus einem Dessin ausarbeiten und Farbvariationen anfertigen |
+| m) | Entwürfe nach Modethemen und Kundenanforderungen entwickeln |
+| n) | technische Umsetzarbeit berücksichtigten und Arbeitsergebnisse präsentieren |
+| 11 | Herstellen und Umsetzen von Entwürfen (§ 6 Nr. 11) | a) | Rapporte bestimmen und zeichnen, Versatzmöglichkeiten darstellen | 8 |  |
+| b) | Rapporte und Maßstäbe berechnen, technische Zeichnungen erstellen |
+| c) | Daten maschinentechnisch aufbereiten |  | 10 |
+| d) | Musterdatenträger erstellen und handhaben |
+| e) | Musterprobe herstellen, Warenausfall prüfen und optimieren |
+| 12 | Elektronische Bildbearbeitung (§ 6 Nr. 12) | a) | Entwürfe und Bildmaterial auf technische Verwendbarkeit prüfen und einlesen | 14 |  |
+| b) | analoge Bilddaten erfassen, digitale Bilddaten übernehmen sowie Formatverwandlungen durchführen |
+| c) | Korrekturen und Veränderungen an Bilddaten ausführen |
+| d) | Bilddaten ordnen und sichern |
+| e) | rechnergestützte Programme kreativ und technisch zur Entwurfsmodifikation nutzen |
+| f) | Bilddaten inhaltlich bearbeiten, produktionstechnische Daten erstellen und für die technische Weiterverarbeitung vorbereiten |  | 6 |
+| g) | Daten auf Speichermedien ausgeben |
+| 13 | Produkte und Marketing (§ 6 Nr. 13) | a) | trend- und produktspezifische Informationen beschaffen und nutzen, für Zielgruppen auswerten | 2 |  |
+| b) | Produkte unterscheiden und nach Verarbeitungs- und Gebrauchsanforderungen beurteilen |
+| c) | Marktinformationen auswerten, Qualität und Preise vergleichen, Kostenkalkulationen erstellen |  | 4 |
+| d) | Kundenwünsche ermitteln und mit dem betrieblichen Leistungsangebot vergleichen |
+| e) | Produkt- und Preisgestaltung sowie Serviceangebote in Zusammenarbeit mit den beteiligten Organisationsabteilungen abstimmen |
+| f) | Präsentationsformen anwenden, Beratungsgespräche vorbereiten, durchführen und nachbereiten |
+| 14 | Produktentwicklung (§ 6 Nr. 14) | a) | Dessins unter Berücksichtigung von Grundmaterial, Herstellungstechnik, Produktionskosten und modischen Ansprüchen entwerfen und aufbereiten |  | 12 |
+| b) | Musterentwürfe unter Berücksichtigung technischer, wirtschaftlicher und kundenspezifischer Aspekte entwickeln und bearbeiten |
+| c) | Musterentwürfe übertragen und rapportieren |
+| d) | Anforderungsprofil des Produktes unter Berücksichtigung von Sicherheits- und Qualitätskriterien festlegen |
+| 15 | Produktionstechnisches Umsetzen (§ 6 Nr. 15) | a) | Produzierbarkeit des Entwurfs in technischer Hinsicht prüfen |  | 16 |
+| b) | technische Zeichnung für die Herstellung der Datenträger vorbereiten |
+| c) | maschinentechnische Informationen auf Musterdatenträger übertragen |
+| d) | Datenträger erstellen und kopieren |
+| e) | Prototypen nach verschiedenen Techniken und Ausführungen erstellen, Produkt prüfen und optimieren |

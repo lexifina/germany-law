@@ -1,0 +1,23 @@
+# Anlage 4B Lehrplan für die ergänzende praktische Ausbildung zum Erwerb der 
+Privatpilotenlizenz (Flugzeuge) nach JAR-FCL 1 Deutsch
+
+(zu § 7)
+
+Fundstelle des Originaltextes: BAnz. 2006, Nr. 60, Beilage Nr. 60a, 64
+Allgemeines
+Das in der praktischen Ausbildung verwendete Flugzeug muss mit einem Doppelsteuer ausgerüstet und für die Ausbildung geeignet sein. Bei allen Übungen sind Einstellung und Betrieb des Triebwerks zu überwachen. Unnötiger Fluglärm ist zu vermeiden.
+Alle Kontrollen sind anhand der Klarlisten durchzuführen.
+Ausbildung in den Gebrauch von Funknavigationshilfsmitteln
+Navigation unter Beachtung der für den jeweiligen Luftraum geltenden Mindestwetterbedingungen bei alleiniger Nutzung eines oder mehrerer der nachfolgenden Funknavigationsgeräte oder bodengestützter Dienste
+- VOR
+- ADF
+- GPS
+- Radar
+- VDF
+- Einhaltung von Kurs und Höhe
+- Erfliegen von Radialen
+- Positionsbestimmung
+- Die Ausbildung hat auch den Gebrauch des Transponders zu umfassen
+- Fliegen einer 180 Grad-Umkehrkurve ohne Sicht nach außen
+Anmerkung 1: Die Ausbildung soll den Gebrauch von bordeigenen Anzeigen wie ADF, VOR und GPS sowie bodengestützter Dienste wie VHF-Peiler (VDF) und Radar umfassen.
+Anmerkung 2: Das Fliegen ohne Sicht nach außen ist unter Verwendung einer IFR-Brille oder IFR-Haube (der Flugschüler soll bei normaler Kopfhaltung keine Außensicht haben) zu lehren. Die Abdeckung der Frontscheibe mittels Karten oder anderer Hilfsmittel ist nicht zulässig. Das rechtzeitige Erkennen anderer Luftfahrzeuge und das Anwenden der Ausweichregeln obliegen der Verantwortung des Fluglehrers.

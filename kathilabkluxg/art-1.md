@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Luxemburg am 2. März 1978 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.

@@ -1,0 +1,15 @@
+# Verordnung über die Überlassung, Rücknahme und umweltverträgliche Entsorgung von Altfahrzeugen
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Rücknahmepflichten](0003.md)
+- [§ 4 Überlassungspflichten](0004.md)
+- [§ 5 Entsorgungspflichten](0005.md)
+- [§ 6 Sachverständige](0006.md)
+- [§ 7 Mitteilungspflichten](0007.md)
+- [§ 8 Abfallvermeidung](0008.md)
+- [§ 9 Kennzeichnungsnormen und Demontageinformationen](0009.md)
+- [§ 10 Informationspflichten](0010.md)
+- [§ 11 Ordnungswidrigkeiten](0011.md)
+- [§ 12 Übergangsvorschriften](0012.md)
+- [Anhang Anforderungen an die Annahme und Rücknahme von Altfahrzeugen, an die ordnungsgemäße und schadlose Verwertung von Altfahrzeugen und Restkarossen sowie an die ordnungsgemäße und schadlose Entsorgung der dabei anfallenden Abfälle](anhang.md)

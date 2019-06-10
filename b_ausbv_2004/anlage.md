@@ -1,0 +1,145 @@
+# Anlage (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
+
+(Fundstelle: BGBl. I 2004, 635 - 641)
+| Abschnitt I: Berufliche Grundbildung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 5 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+|  | (§ 4 Nr. 1.2) |  | System beschreiben |
+|  | Ausbildungsbetriebes (§ 5 Nr. 2) | b) | den betrieblichen Ausbildungsplan mit erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Einkauf, Produktion, Dienstleistung, Verkauf und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- und personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz am Arbeitsplatz (§ 5 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 5 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Umsetzen von Hygienevorschriften (§ 5 Nr. 5) | a) | Grundsätze der Personalhygiene und der Arbeitshygiene anwenden | 4 |  |  |  |
+| b) | Lebensmittelhygiene in den betrieblichen Abläufen anwenden |
+| c) | lebensmittelrechtliche Vorschriften anwenden |
+| 6 | Umgehen mit Informations- und Kommunikationstechniken (§ 5 Nr. 6) | a) | Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen für den Ausbildungsbetrieb erläutern | 3 |  |  |  |
+| b) | Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen bearbeiten |
+| c) | Vorschriften zum Datenschutz beachten |
+| d) | Daten pflegen und sichern |
+| 7 | Vorbereiten von Arbeitsabläufen; Arbeiten im Team (§ 5 Nr. 7) | a) | Arbeitsaufträge erfassen | 3 |  |  |  |
+| b) | Informationen beschaffen und nutzen, insbesondere Rezepte, Produktbeschreibungen, Fachliteratur, Kataloge sowie Herstellungsanleitungen und Gebrauchsanweisungen |
+| c) | Arbeitsmaterialien zusammenstellen |
+| d) | Arbeitsschritte vorbereiten |
+| e) | Arbeitsaufgaben im Team planen und Sachverhalte darstellen |
+| 8 | Durchführen von qualitätssichernden Maßnahmen (§ 5 Nr. 8) | a) | Ursachen von Fehlern und Qualitätsmängeln ermitteln | 2 |  |  |  |
+| b) | zur Verbesserung von Arbeitsvorgängen im eigenen Betrieb beitragen |
+| c) | Prüfarten und Prüfmittel auswählen |
+| d) | Qualität von Erzeugnissen unter Beachtung vor- und nachgelagerter Arbeitsschritte sichern |
+| e) | frische, vorgefertigte und fertige Erzeugnisse nach vorgegebenen Kriterien beurteilen |
+| 9 | Kundenberatung und Verkauf (§ 5 Nr. 9) | a) | Kundenerwartungen im Hinblick auf Sprache, Körperhaltung, Gestik, Mimik und Kleidung beachten | 2 |  |  |  |
+| b) | Verkaufshandlungen durchführen |
+| 10 | Handhaben von Anlagen, Maschinen und Geräten (§ 5 Nr. 10) | a) | Anlagen, Maschinen und Geräte pflegen und reinigen | 4 |  |  |  |
+| b) | Anlagen, Maschinen und Geräte vorbereiten |
+| c) | Anlagen, Maschinen und Geräte unter Beachtung der Sicherheitsvorschriften bedienen, insbesondere Backofen beschicken |
+| d) | Fehlfunktionen an Anlagen, Geräten und Maschinen erkennen und melden |
+| 11 | Lagern und Kontrollieren von Lebensmitteln, Verpackungsmaterialien und Betriebsmitteln (§ 5 Nr. 11) | a) | Lagerverfahren für Rohstoffe, vorgefertigte und fertige Erzeugnisse unter Berücksichtigung von Temperatur, Licht und Feuchtigkeit festlegen und anwenden | 3 |  |  |  |
+| b) | Arten und Eigenschaften von Lebensmitteln, insbesondere ihre wechselseitige Beeinträchtigung bei der Lagerung, berücksichtigen |
+| c) | Umverpackungen lagern und entsorgen |
+| d) | Verpackungsmaterialien zur Warenabgabe lagern |
+| e) | Betriebsmittel lagern |
+| 12 | Herstellen von Weizenbrot und Weizenkleingebäck (§ 5 Nr. 12) | a) | Zutaten auswählen und nach Rezeptur einsetzen | 12 |  |  |  |
+| b) | Teige herstellen |
+| c) | Teige nach unterschiedlichen Verfahren aufarbeiten |
+| d) | Gärprozesse steuern |
+| e) | Backprozesse durchführen |
+| 13 | Herstellen von Feinen Backwaren aus Teigen (§ 5 Nr. 14) | a) | Blätterteig herstellen | 12 |  |  |  |
+| b) | gefüllte und ungefüllte Teile aus Blätterteig aufmachen |
+| c) | Mürbeteig herstellen und verarbeiten |
+| d) | Hefeteige nach unterschiedlichen Verfahren herstellen und verarbeiten |
+| e) | deutschen und dänischen Plunderteig herstellen und verarbeiten |
+| f) | Backprozesse durchführen |
+| 14 | Herstellen und Weiterverarbeiten von Massen (§ 5 Nr. 15) | a) | Zutaten auswählen und nach Rezeptur einsetzen | 3 |  |  |  |
+| b) | Biskuitmassen, insbesondere Wiener Masse, anschlagen |
+| c) | Massen aufstreichen, einfüllen und backen |
+| 15 | Herstellen und Verarbeiten von Überzügen, Füllungen und Cremes (§ 5 Nr. 16) | a) | Aprikotur herstellen und verarbeiten | 4 |  |  |  |
+| b) | Glasuren herstellen und verarbeiten |
+| c) | Sahne aufschlagen |
+| d) | Cremes herstellen |
+| e) | Füllungen herstellen, insbesondere Mandel-, Nuss-, Quark- und Mohnfüllung |
+| Abschnitt II: Berufliche Fachbildung |
+| 1 | Vorbereiten von Arbeitsabläufen; Arbeiten im Team (§ 5 Nr. 7) | a) | Bedarf an Arbeitsmaterial ermitteln |  | 2 |  |  |
+| b) | Arbeitsabläufe unter Berücksichtigung insbesondere fertigungstechnischer, wirtschaftlicher und ergonomischer Gesichtspunkte planen, festlegen und vorbereiten |
+| c) | Aufträge und Vorgaben auf Umsetzbarkeit prüfen, Lösungen teamorientiert |  |  | 2 |  |
+| f) | Ergebnisse der Projektdurchführung |
+| d) | Zeitaufwand und personelle Unterstützung festlegen |
+| e) | Backzettel herstellen, Reihenfolge der Produktherstellung festlegen |
+| f) | Listen zur Warenbeschaffung führen, auch unter Verwendung von Informations- und Kommunikationstechnologie |
+| 2 | Durchführen von qualitätssichernden Maßnahmen(§ 5 Nr. 8) | a) | Bedeutung und Wirksamkeit qualitätssichernder Maßnahmen für den betrieblichen Ablauf beurteilen |  | 2 |  |  |
+| b) | Prüfarten und Prüfmittel anwenden, Wareneingangskontrolle durchführen |
+| c) | betriebliche Dokumentationen anlegen |
+| d) | Betriebsmittel unter Berücksichtigung ihrer Wirkung auf Lebensmittel lagern |
+| e) | qualitätssichernde Verfahren anwenden, insbesondere Kältetechnik und Frischhalteverpackungstechnik |  |  |  | 4 |
+| f) | Ursachen von Fehlern und Qualitätsmängeln beseitigen |
+| g) | Rezepturen und Arbeitsgänge unter dem Gesichtspunkt der Qualitätssicherung prüfen |
+| 3 | Herstellen von Brot und Kleingebäck (§ 5 Nr. 13) | a) | Rohstoffe und Halbfabrikate für Weizen-, Weizenmisch-, Roggen-, Roggenmisch- und Spezialbrot sowie Kleingebäck auswählen, dosieren und nach vorgegebenen Rezepturen einsetzen |  | 5 |  |  |
+| b) | Vorteige herstellen und einsetzen |
+| c) | Lockerungsmittel, insbesondere Sauerteig und Hefe, einsetzen |
+| d) | Sauerteig nach vorgegebenen Rezepturen und Führungsarten herstellen |  |  | 12 |  |
+| e) | Teige herstellen |
+| f) | Teige in unterschiedlichen Formen, auch von Hand, aufarbeiten |
+| g) | Gärprozesse steuern, insbesondere unter Berücksichtigung der Kältekonservierung |
+| h) | Backprozesse für Weizen-, Weizenmisch-, Roggen-, Roggenmischbrot und Kleingebäck durchführen |  |  |  | 10 |
+| i) | Vollkorn-, und Schrotbrote herstellen |
+| k) | Spezialbrote herstellen, insbesondere unter Verwendung anderer Getreidearten und Zusatz von Saaten |
+| 4 | Herstellen von Feinen Backwaren aus Teigen (§ 5 Nr. 14) | a) | Flechtgebäcke herstellen |  | 10 |  |  |
+| b) | Mürbeteige nach unterschiedlichen Verfahren herstellen und verarbeiten |
+| c) | Spritzmürbeteige rühren und dressieren |
+| d) | Teegebäck aus Mürbeteig füllen, zusammensetzen und garnieren |
+| e) | deutschen und französischen Blätterteig herstellen und aufarbeiten |
+| f) | Backprozesse durchführen |
+| g) | Lebkuchenteig herstellen und aufarbeiten |  |  |  | 4 |
+| h) | schweren Hefeteig, insbesondere für Stollen, herstellen und aufarbeiten |
+| i) | nährstoff-, vitamin- und mineralstoffveränderte Backwaren herstellen |
+| 5 | Herstellen und Weiterverarbeiten von Massen (§ 5 Nr. 15) | a) | schwere Massen rühren, insbesondere für Sandkuchen und Kuchen mit Früchten |  |  |  | 12 |
+| b) | Makronenmasse herstellen |
+| c) | Florentiner und Nussecken herstellen |
+| d) | Brandmasse herstellen |
+| e) | Bienenstichmasse abrösten |
+| f) | Baiser-Masse herstellen |
+| g) | Massen dressieren, aufstreichen und einfüllen |
+| h) | Backprozesse durchführen |
+| 6 | Herstellen und Verarbeiten von Überzügen, Füllungen und Cremes (§ 5 Nr. 16) | a) | Eiweißspritzglasur herstellen und verarbeiten |  |  | 3 |  |
+| b) | frische und getrocknete Früchte sowie Gemüse zu Füllungen verarbeiten |
+| c) | Sahnecreme herstellen |
+| d) | pikante Füllungen herstellen |  |  |  | 4 |
+| e) | Kuvertüre auswählen, temperieren und verarbeiten |
+| f) | deutsche, französische und italienische Butter- und Fettcreme herstellen |
+| 7 | Herstellen von Partykleingebäck (§ 5 Nr. 17) | a) | Partykleingebäck, insbesondere Salz- und Käsegebäck, aus Teigen und deren Verbindungen mit tierischen und pflanzlichen Zutaten herstellen |  | 3 |  |  |
+| b) | Pasteten mit unterschiedlichen Füllungen herstellen |  |  |  | 3 |
+| c) | Partykleingebäck aus Brandmasse herstellen |
+| 8 | Herstellen von Süßspeisen (§ 5 Nr. 18) | a) | kalte, halbgefrorene oder gefrorene Süßspeisen herstellen |  |  | 3 |  |
+| b) | süße Eierspeisen herstellen |
+| 9 | Entwerfen und Herstellen von Torten und Desserts (§ 5 Nr. 19) | a) | Torten und Desserts unter Berücksichtigung von Farbe, Form, Geschmack und deren Wechselwirkung entwerfen |  |  |  | 6 |
+| b) | Böden und Kapseln mit Füllungen zusammensetzen |
+| c) | Dekortechniken ausführen, insbesondere Einstreichen, Einstreuen, Einschlagen, Riefen, Dressieren und Belegen |
+| d) | Ornamente und Schriftzeichen entwerfen und herstellen |
+| e) | Torten und Desserts ausgarnieren |
+| 10 | Herstellen von Backwarensnacks (§ 5 Nr. 20) | a) | Backwarensnacks aus Teigen mit tierischen und pflanzlichen Zutaten herstellen |  | 4 |  |  |
+| b) | Brot und Kleingebäck belegen und garnieren |
+| c) | gebackene Snacks mit Auflagen und Füllungen herstellen |  |  |  | 3 |
+| d) | Backwarensnacks entwickeln |
+| 11 | Herstellen von kleinen Gerichten unter Verwendung frischer Rohstoffe (§ 5 Nr. 21) | a) | süße Teigspeisen herstellen, insbesondere Strudel |  |  | 3 |  |
+| b) | Eierspeisen herstellen |
+| c) | Toastvariationen zubereiten |
+| d) | herzhafte Teigspeisen, insbesondere Gemüsekuchen, Zwiebelkuchen und Quiche, zubereiten |  |  |  | 3 |
+| e) | Salatvariationen zubereiten |
+| 12 | Kundenberatung und Verkauf (§ 5 Nr. 9) | a) | Waren präsentieren |  |  | 3 |  |
+| b) | Kundengespräche situationsgerecht führen |
+| c) | Kunden beraten |
+| d) | Bäckereierzeugnisse kundengerecht und transportsicher verpacken |  |  |  | 3 |
+| e) | bei verkaufsfördernden Maßnahmen mitwirken |

@@ -1,0 +1,25 @@
+# Anlage 2 (zu § 1 Abs. 3)
+
+(Fundstelle des Originaltextes: BGBl. I 1994, 3782)
+..............................................
+(Bezeichnung der Schule)
+Bescheinigung
+über die Teilnahme am Lehrgang in der Massage
+Name, Vorname
+...............................................................................
+Geburtsdatum Geburtsort
+...............................................................................
+hat in der Zeit vom ............................... bis .......................
+regelmäßig und mit Erfolg an dem theoretischen und praktischen Unterricht
+und der praktischen Ausbildung für Masseure und medizinische Bademeister
+gemäß § 4 Abs. 1 und 2/§ 18 Satz 1 *) des Masseur- und
+Physiotherapeutengesetzes teilgenommen.
+Die Ausbildung ist - nicht - über die nach dem Masseur- und
+Physiotherapeutengesetz zulässigen Fehlzeiten hinaus - um ....... Tage *) -
+unterbrochen worden.
+Ort, Datum
+................................... (Stempel)
+...................................
+(Unterschrift(en) der Schulleitung)
+...........
+*) Nichtzutreffendes streichen

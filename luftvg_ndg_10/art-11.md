@@ -1,0 +1,10 @@
+# Art 11
+
+(1)
+Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden Kalendermonats in Kraft, soweit in den Absätzen 2 bis 4 nichts anderes bestimmt ist.
+(2)
+Die nachstehenden Vorschriften treten am 1. Januar 1993 in Kraft:
+1.
+2. Artikel 2, 4 bis 8.
+(3)
+und (4)

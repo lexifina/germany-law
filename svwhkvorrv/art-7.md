@@ -1,0 +1,6 @@
+# Art 7 Zeugnispflicht
+
+(1)
+Entsandte Mitarbeiter des Büros können in einem Gerichts- oder Verwaltungsverfahren als Zeugen geladen werden.
+(2)
+Entsandte Mitarbeiter des Büros sind nicht verpflichtet, Zeugnis über Angelegenheiten zu geben, die mit der Wahrnehmung ihrer Aufgaben zusammenhängen, oder die darauf bezüglichen amtlichen Korrespondenzen und Schriftstücke vorzulegen.

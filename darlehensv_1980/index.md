@@ -1,0 +1,17 @@
+# Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen
+
+- [§ 1 Reihenfolge der Tilgung](0001.md)
+- [§ 2 Dauer der Verzinsung](0002.md)
+- [§ 3](0003.md)
+- [§ 5 Freistellung von der Rückzahlungsverpflichtung](0005.md)
+- [§ 6 Vorzeitige Rückzahlung](0006.md)
+- [§ 7 Vergleiche, Veränderungen von Ansprüchen](0007.md)
+- [§ 8 Zahlungsrückstand](0008.md)
+- [§ 9 Datenermittlung](0009.md)
+- [§ 10 Rückzahlungsbescheid](0010.md)
+- [§ 11 Rückzahlungsbedingungen](0011.md)
+- [§ 12 Mitteilungspflichten](0012.md)
+- [§ 13 Aufteilung der eingezogenen Beträge](0013.md)
+- [§ 13a](0013a.md)
+- [§ 14 Ordnungswidrigkeiten](0014.md)
+- [Anlage (zu § 6 Abs. 1)](anlage.md)

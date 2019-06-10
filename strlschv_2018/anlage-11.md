@@ -1,0 +1,916 @@
+# Anlage 11 (zu den §§ 100, 101, 102, 160, 168, Anlage 6 und Anlage 8)Annahmen bei der Berechnung der Exposition
+
+Teil A: Expositionspfade
+1. Bei Ableitung mit Luft:
+  1.1 Exposition durch Betastrahlung innerhalb der Abluftfahne (Betasubmersion)
+  1.2 Exposition durch Gammastrahlung aus der Abluftfahne (Gammasubmersion)
+  1.3 Exposition durch Gammastrahlung der am Boden abgelagerten radioaktiven Stoffe (Gammabodenstrahlung)
+  1.4 Exposition durch Aufnahme radioaktiver Stoffe mit der Atemluft (Inhalation)
+  1.5 Exposition durch Aufnahme radioaktiver Stoffe mit Lebensmitteln (Ingestion) auf dem Weg
+    1.5.1 Luft – Pflanze
+    1.5.2 Luft – Futterpflanze – Kuh – Milch
+    1.5.3 Luft – Futterpflanze – Tier – Fleisch
+    1.5.4 Luft – Muttermilch
+    1.5.5 Luft – Nahrung – Muttermilch
+2. Bei Ableitung mit Wasser:
+  2.1 Exposition durch Aufenthalt auf Sediment (Gammabodenstrahlung)
+  2.2 Exposition durch Aufnahme radioaktiver Stoffe mit Lebensmitteln (Ingestion) auf dem Weg
+    2.2.1 Trinkwasser
+    2.2.2 Wasser – Fisch
+    2.2.3 Viehtränke – Kuh – Milch
+    2.2.4 Viehtränke – Tier – Fleisch
+    2.2.5 Beregnung – Futterpflanze – Kuh – Milch
+    2.2.6 Beregnung – Futterpflanze – Tier – Fleisch
+    2.2.7 Beregnung – Pflanze
+    2.2.8 Muttermilch infolge der Aufnahme radioaktiver Stoffe durch die Mutter über die oben genannten Ingestionspfade
+3. Ionisierende Strahlung aus kerntechnischen Anlagen, aus Anlagen im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes, aus Anlagen zur Erzeugung ionisierender Strahlung und aus anderen Einrichtungen:
+  3.1 Gammastrahlung
+  3.2 Röntgenstrahlung
+  3.3 Neutronenstrahlung
+4. Bei Bodenflächen, die auf sonstigen Wegen kontaminiert wurden:
+  4.1 Exposition durch Aufenthalt auf kontaminierten Böden oder neben kontaminierten Ablagerungen (Gammabodenstrahlung)
+  4.2 Exposition durch Aufnahme resuspendierten Bodens oder Materials von Ablagerungen mit der Atemluft (Staubinhalation)
+  4.3 Exposition durch Aufnahme kontaminierten Bodens oder Materials von Ablagerungen über den Mund (Bodeningestion)
+  4.4 Exposition durch Aufnahme radioaktiver Stoffe mit Lebensmitteln, die in Privatgärten neben kontaminierten Ablagerungen (Staubpfad) oder auf kontaminierten Böden erzeugt werden
+Expositionspfade bleiben unberücksichtigt oder zusätzliche Expositionspfade (z. B. der Sickerwasserpfad bei kontaminierten Ablagerungen) sind zu berücksichtigen, wenn dies auf Grund der örtlichen Besonderheiten des Standortes oder auf Grund der Art der kerntechnischen Anlage, der Art der Anlage im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes, der Art der Anlage zur Erzeugung ionisierender Strahlung, der Art der anderen Einrichtung oder der Besonderheit der auf sonstigem Weg kontaminierten Bodenfläche begründet ist.
+Teil B: Lebensgewohnheiten
+Tabelle 1
+Verzehrsraten
+|  |  |  |  |  |  |  |  |
+| Mittlere Verzehrsraten der repräsentativen Personen in kg/a |  |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| Alters- gruppe | ≤ 1 Jahr | > 1 – ≤ 2 Jahre | > 2 – ≤ 7 Jahre | > 7 – ≤ 12 Jahre | > 12 – ≤ 17 Jahre | > 17 Jahre |  |
+| Lebensmittel |  |  |  |  |  |  |  |
+| Trinkwasser | 551 | 100 | 100 | 150 | 200 | 350 | 2 |
+| Muttermilch, Milchfertigprodukte mit Trinkwasser | 200, | – | – | – | – | – | 1,6 |
+| Milch, Milchprodukte | 45 | 160 | 160 | 170 | 170 | 130 | 3 |
+| Fisch | 0,5 | 3 | 3 | 4,5 | 5 | 7,5 | 5 |
+| Fleisch, Wurst, Eier | 5 | 13 | 50 | 65 | 80 | 90 | 2 |
+| Getreide, Getreideprodukte | 12 | 30 | 80 | 95 | 110 | 110 | 2 |
+| Einheimisches Frischobst, Obstprodukte, Säfte | 25 | 45 | 65 | 65 | 60 | 35 | 3 |
+| Kartoffeln, Wurzelgemüse, Säfte | 30 | 40 | 45 | 55 | 55 | 55 | 3 |
+| Blattgemüse | 3 | 6 | 7 | 9 | 11 | 13 | 3 |
+| Gemüse, Gemüseprodukte, Säfte | 5 | 17 | 30 | 35 | 35 | 40 | 3 |
+|  |  |  |  |  |  |  |  |
+Für die Lebensmittelgruppen „Trinkwasser“ und „Muttermilch, Milchfertigprodukte mit Trinkwasser“ ist anzunehmen, dass 100 Prozent der Produkte kontaminiert sind. Für alle anderen Lebensmittelgruppen ist von 50 Prozent auszugehen. Die Lebensmittelgruppe „Getreide“ sowie Kontaminationen über den Staubpfad für die Lebensmittelgruppe „Kartoffeln, Wurzelgemüse“ können bei Radionukliden der natürlichen Zerfallsreihen Uran-238 und Thorium-232 grundsätzlich unberücksichtigt bleiben.
+Bei der Ermittlung der zu erwartenden Exposition nach § 100 Absatz 1 im Rahmen des Genehmigungs- oder Anzeigeverfahrens für Tätigkeiten nach § 4 Absatz 1 Nummer 1 und Nummer 3 bis Nummer 8 des Strahlenschutzgesetzes sowie bei der Ermittlung der erhaltenen Exposition nach § 101 Absatz 1 Nummer 1 oder 2 ist für die Lebensmittelgruppe, die bei mittleren Verzehrsraten zur höchsten Ingestionsdosis führt, die mittlere Verzehrsrate mit dem Faktor in Spalte 8 zu multiplizieren. Zur Festlegung der dosisdominierenden Lebensmittelgruppe sind alle pflanzlichen Produkte außer Blattgemüse zu einer Lebensmittelgruppe zusammenzufassen. Für alle übrigen Lebensmittelgruppen sind die mittleren Verzehrsraten anzusetzen.
+_____________
+Tabelle 2
+Atemraten
+| Altersgruppe | ≤ 1 Jahr | > 1 – ≤ 2 Jahre | > 2 – ≤ 7 Jahre | > 7 – ≤ 12 Jahre | > 12 – ≤ 17 Jahre | > 17 Jahre |
+| Atemrate in m3/Jahr | 1 100 | 1 900 | 3 200 | 5 640 | 7 300 | 8 100 |
+Tabelle 3
+Aufenthaltsdauern, Aufenthaltsorte und Reduktionsfaktoren
+| Expositionspfade | Aufenthaltsdauern und -orte | Reduktionsfaktor |
+| Betastrahlung innerhalb der Abluftfahne | 1 760 Stunden pro Kalenderjahr im Freien | – |
+|  | 7 000 Stunden pro Kalenderjahr in Gebäuden | – |
+| Gammastrahlung aus der Abluftfahne | 1 760 Stunden pro Kalenderjahr im Freien | – |
+|  | 7 000 Stunden pro Kalenderjahr in Gebäuden | 0,3 |
+| Gammastrahlung der am Boden abgelagerten radioaktiven Stoffe | 1 760 Stunden pro Kalenderjahr im Freien | – |
+| 7 000 Stunden pro Kalenderjahr in Gebäuden | 0,3 |
+| Inhalation radioaktiver Stoffe | 1 760 Stunden pro Kalenderjahr im Freien | – |
+|  | 7 000 Stunden pro Kalenderjahr in Gebäuden | – |
+| Aufenthalt auf Sediment | 760 Stunden pro Kalenderjahr | – |
+| Direktstrahlung | 1 760 Stunden pro Kalenderjahr im Freien | – |
+|  | 7 000 Stunden pro Kalenderjahr in Gebäuden | fallspezifisch |
+Für die prospektive Berechnung der Exposition sind die in Tabelle 3 genannten Zahlenwerte für die jeweiligen Expositionspfade zu verwenden. Für den Aufenthalt im Freien sind folgende Fälle zu betrachten:
+Die repräsentative Person hält sich im Freien entweder 760 Stunden pro Kalenderjahr auf Sediment und die restlichen 1 000 Stunden pro Kalenderjahr an anderen Stellen oder 1 760 Stunden pro Kalenderjahr an anderen Stellen im Freien auf. Für die prospektive Berechnung der Exposition ist die insgesamt ungünstigste Variante zugrunde zu legen.
+Für die retrospektive Berechnung der Exposition sind, falls bekannt oder mit vertretbarem Aufwand ermittelbar, die tatsächlichen Aufenthaltsdauern und -orte während des betrachteten Zeitraums zugrunde zu legen. Andernfalls ist wie bei der prospektiven Berechnung der Exposition zu verfahren.
+_____________
+Teil C: Übrige Annahmen
+1. Zur Berechnung der Exposition sind die in Anlage 18 Teil B Nummer 4 genannten Dosiskoeffizienten und Vorgaben sowie weitere in den Allgemeinen Verwaltungsvorschriften genannte Dosiskoeffizienten zu verwenden.
+2. Zur Berechnung der Exposition sind alle wirksamen Quellen gemäß den Kriterien in den Allgemeinen Verwaltungsvorschriften zu berücksichtigen.
+3. Zur Berechnung der Exposition ist von Modellen auszugehen, die einen Gleichgewichtszustand beschreiben. Die erwarteten Schwankungen radioaktiver Ableitungen sind dabei durch geeignete Wahl der Berechnungsparameter zu berücksichtigen.
+4. Bei Ableitungen mit Luft ist für die Ausbreitungsrechnung das Lagrange-Partikel-Modell zu verwenden. Für die prospektive Berechnung der Exposition ist eine langjährige Wetterstatistik oder die Zeitreihe eines repräsentativen Jahres zugrunde zu legen, für die retrospektive Berechnung der Exposition die meteorologischen Daten des betrachteten Zeitraums. Im Einzelfall kann die zuständige Behörde zur Berücksichtigung von Besonderheiten des Standorts oder der kerntechnischen Anlage, der Anlage im Sinne des § 9a Absatz 3 Satz 1 erster Halbsatz zweiter Satzteil des Atomgesetzes, der Anlage zur Erzeugung ionisierender Strahlung oder der anderen Einrichtung die Anwendung anderer Verfahren anordnen oder zulassen. Bei Ableitungen mit Wasser sind für die prognostische Berechnung der Exposition langjährige Mittelwerte der Wasserführung der Vorfluter zugrunde zu legen. Für die retrospektive Berechnung der Exposition ist der Mittelwert der Wasserführung der Vorfluter im betrachteten Zeitraum heranzuziehen.
+5. Die Festlegung von Parameterwerten ist in Verbindung mit den Berechnungsmodellen so zu treffen, dass bei dem Gesamtergebnis eine Unterschätzung der Exposition der repräsentativen Person nicht zu erwarten ist. Sind zur Berechnung der Exposition Parameter zu berücksichtigen, deren Zahlenwerte einer Schwankungsbreite unterliegen, dürfen nur in begründeten Ausnahmefällen Extremwerte der Einzelparameter gewählt werden.
+6. Bei der retrospektiven Berechnung der Exposition sind die standortspezifischen Verhältnisse, gegebenenfalls auch standortspezifische Modellparameter sowie aktuelle repräsentative statistische Daten, im betrachteten Zeitraum zu berücksichtigen. Es ist wie folgt vorzugehen:
+  a) Es werden die gemessenen oder bilanzierten tatsächlichen Emissionen sowie die gemessene oder berechnete Direktstrahlung in der Umgebung des Standortes berücksichtigt.
+  b) Es werden nur diejenigen Expositionspfade zugrunde gelegt, die auf Grund der realen Gegebenheiten in der Umgebung des Standortes tatsächlich zur Exposition beitrugen. Dabei ist insbesondere die tatsächliche Nutzung (nicht die Nutzungsmöglichkeiten) in der Umgebung maßgebend.
+  c) Zur Berechnung der Ingestionsdosis durch Lebensmittel sind bevorzugt nur diejenigen Lebensmittelgruppen zu berücksichtigen, die im betrachteten Zeitraum in der Umgebung des Standortes erzeugt wurden. Soweit diese Informationen nicht mit vertretbarem Aufwand beschafft werden können, ist wie bei der prospektiven Berechnung der Exposition zu verfahren.
+  d) Für die Anreicherung radioaktiver Stoffe im Boden und in anderen Umweltmedien wird einzelfallbezogen die tatsächliche Gesamtdauer der Emissionen unterstellt (Betriebsphase und gegebenenfalls auch Nachbetriebsphase).
+  e) Es sind bevorzugt die realen Aufenthaltsdauern und -orte während des betrachteten Zeitraums zu berücksichtigen. Soweit diese Informationen nicht mit vertretbarem Aufwand beschafft werden können, ist wie bei der prospektiven Berechnung der Exposition zu verfahren.
+7. Bei der Ermittlung der zu erwartenden Exposition nach § 100 Absatz 1 im Rahmen des Genehmigungs- oder Anzeigeverfahrens für Tätigkeiten nach § 4 Absatz 1 Nummer 1 und Nummer 3 bis 8 des Strahlenschutzgesetzes sind die berechneten effektiven Dosen infolge der Ableitung radioaktiver Stoffe mit Luft oder Wasser mit den nachstehenden generischen radionuklidspezifischen Faktoren und expositionspfadspezifischen Faktoren zu multiplizieren.
+Tabelle 4
+Generische radionuklidspezifische Faktoren
+| Expositionspfad | Faktor | Radionuklide |
+| Gammabodenstrahlung | 2 1 | I-125 I-131 |
+| Gammasubmersion | 2 | I-125, I-131 |
+| Ingestion | 7 | I-125, I-131 |
+| Betasubmersion und Inhalation | 7 | I-125, I-131 |
+Tabelle 5
+Expositionspfadspezifische Faktoren
+| Expositionspfad | Faktor |
+| Bei Ableitung mit Luft: |  |
+| – Betasubmersion | 1 |
+| – Gammasubmersion | 2 |
+| – Gammabodenstrahlung | 2 |
+| – Inhalation | 1 |
+| – Ingestion von Lebensmitteln | 3 |
+| Bei Ableitung mit Wasser: |  |
+| – Gammabodenstrahlung auf Sediment | 1 |
+| – Ingestion von Lebensmitteln | 3 |
+Teil D: Maximal zulässige Aktivitätskonzentrationen aus Strahlenschutzbereichen
+Bei mehreren Radionukliden ist die Summe der Verhältniszahlen aus der mittleren, jährlichen Konzentration der Radionuklide in Luft bzw. in Wasser in Bq/m³ (Cˉ i,a) und dem jeweiligen berechneten, mittleren, jährlichen Konzentrationswert des jeweiligen Radionuklids (Ci) der Tabelle 6 oder 7 zu bestimmen (Summenformel), wobei i das jeweilige Radionuklid ist. Diese Summe darf den Wert 1 nicht überschreiten:
+[Bild: bgbl1_2018_j2034-1_0220.jpg]
+Tochternuklide sind zu berücksichtigen.
+1. Maximal zulässige Aktivitätskonzentration in der Luft aus Strahlenschutzbereichen
+  1.1 Inhalation
+    Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Luft darf
+    1.1.1 für Fortluftströme Q ≤ 10⁴ m³ h-¹ nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 2 oder Tabelle 8 Spalte 2 oder
+    1.1.2 für Fortluftströme 10⁴ m³ h-¹< Q ≤ 10⁵ m³ h-¹ nicht höher sein als die jeweiligen Werte der Spalte 2 der Tabellen 4 oder 6;
+  1.2 Submersion
+    Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Luft darf
+    1.2.1 für Fortluftströme Q ≤ 10⁴ m³ h-¹ nicht höher sein als das Zehnfache der Werte der Tabelle 7 Spalte 2 oder
+    1.2.2 für Fortluftströme 10⁴ m³ h-¹< Q ≤ 10⁵ m³ h-¹ nicht höher sein als die Werte der Tabelle 7 Spalte 2.
+2. Maximal zulässige Aktivitätskonzentration im Wasser, das aus Strahlenschutzbereichen in Abwasserkanäle eingeleitet wird
+  2.1 Ingestion
+    Die Aktivität des Radionuklids i im Jahresdurchschnitt im Kubikmeter Wasser darf
+    2.1.1 für Abwassermengen ≤ 10⁵ m³ a-¹ nicht höher sein als das Zehnfache der jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4 oder
+    2.1.2 für Abwassermengen > 10⁵ m³ a-¹ nicht höher sein als die jeweiligen Werte der Tabelle 6 Spalte 3 oder Tabelle 8 Spalte 4.
+Tabelle 6
+Aktivitätskonzentration Ci aus Strahlenschutzbereichen
+(zu Teil D Nummer 1.1 und 2)
+| Radionuklid | Ci |
+| A = an Schwebstoffe gebunden (Luft) E = elementar (Luft) O = organisch | in der Luft in Bq/m3 | im Wasser in Bq/m3 |
+| 1 | 2 | 3 |
+| H-3 | A | 1 E+2 | 1 E+7 |
+| H-3 | O |  | 7 E+6 |
+| Be-7 | A | 6 E+2 | 5 E+6 |
+| Be-10 | A | 1 | 6 E+4 |
+| C-11 | A | 6 E+2 | 3 E+6 |
+| C-14 | A | 6 | 6 E+5 |
+| F-18 | A | 5 E+2 | 2 E+6 |
+| Na-22 | A | 1 | 4 E+4 |
+| Na-24 | A | 9 E+1 | 3 E+5 |
+| Mg-28 | A | 2 E+1 | 7 E+4 |
+| Al-26 | A | 5 E-1 | 1 E+4 |
+| Si-31 | A | 3 E+2 | 5 E+5 |
+| Si-32 | A | 3 E-1 | 1 E+5 |
+| P-32 | A | 1 | 3 E+4 |
+| P-33 | A | 2 E+1 | 3 E+5 |
+| S-35 | A | 2 E+1 | 7 E+5 |
+| S-35 | O |  | 1 E+5 |
+| Cl-36 | A | 1 E-1 | 1 E+4 |
+| Cl-38 | A | 5 E+2 | 6 E+5 |
+| Cl-39 | A | 6 E+2 | 9 E+5 |
+| K-42 | A | 2 E+2 | 2 E+5 |
+| K-43 | A | 2 E+2 | 4 E+5 |
+| K-44 | A | 1 E+3 | 9 E+5 |
+| K-45 | A | 2 E+3 | 1 E+6 |
+| Ca-41 | A | 3 | 3 E+5 |
+| Ca-45 | A | 2 | 8 E+4 |
+| Ca-47 | A | 2 E+1 | 7 E+4 |
+| Sc-43 | A | 2 E+2 | 5 E+5 |
+| Sc-44 | A | 1 E+2 | 3 E+5 |
+| Sc-44m | A | 2 E+1 | 4 E+4 |
+| Sc-46 | A | 5 | 8 E+4 |
+| Sc-47 | A | 4 E+1 | 1 E+5 |
+| Sc-48 | A | 3 E+1 | 7 E+4 |
+| Sc-49 | A | 7 E+2 | 9 E+5 |
+| Ti-44 | A | 3 E-1 | 2 E+4 |
+| Ti-45 | A | 3 E+2 | 6 E+5 |
+| V-47 | A | 8 E+2 | 1 E+6 |
+| V-48 | A | 1 E+1 | 6 E+4 |
+| V-49 | A | 8 E+2 | 2 E+6 |
+| Cr-48 | A | 1 E+2 | 6 E+5 |
+| Cr-49 | A | 8 E+2 | 1 E+6 |
+| Cr-51 | A | 8 E+2 | 3 E+6 |
+| Mn-51 | A | 6 E+2 | 8 E+5 |
+| Mn-52 | A | 2 E+1 | 7 E+4 |
+| Mn-52m | A | 8 E+2 | 1 E+6 |
+| Mn-53 | A | 2 E+2 | 2 E+6 |
+| Mn-54 | A | 2 E+1 | 2 E+5 |
+| Mn-56 | A | 2 E+2 | 3 E+5 |
+| Fe-52 | A | 4 E+1 | 7 E+4 |
+| Fe-55 | A | 2 E+1 | 1 E+5 |
+| Fe-59 | A | 8 | 2 E+4 |
+| Fe-60 | A | 1 E-1 | 1 E+3 |
+| Co-55 | A | 5 E+1 | 2 E+5 |
+| Co-56 | A | 5 | 4 E+4 |
+| Co-57 | A | 3 E+1 | 3 E+5 |
+| Co-58 | A | 2 E+1 | 1 E+5 |
+| Co-58m | A | 2 E+3 | 4 E+6 |
+| Co-60 | A | 1 | 2 E+4 |
+| Co-60m | A | 2 E+4 | 4 E+7 |
+| Co-61 | A | 6 E+2 | 1 E+6 |
+| Co-62m | A | 1 E+3 | 1 E+6 |
+| Ni-56 | A | 3 E+1 | 2 E+5 |
+| Ni-57 | A | 5 E+1 | 1 E+5 |
+| Ni-59 | A | 8 E+1 | 1 E+6 |
+| Ni-63 | A | 3 E+1 | 6 E+5 |
+| Ni-65 | A | 3 E+2 | 4 E+5 |
+| Ni-66 | A | 2 E+1 | 3 E+4 |
+| Cu-60 | A | 7 E+2 | 1 E+6 |
+| Cu-61 | A | 4 E+2 | 1 E+6 |
+| Cu-64 | A | 3 E+2 | 2 E+6 |
+| Cu-67 | A | 5 E+1 | 4 E+5 |
+| Zn-62 | A | 5 E+1 | 2 E+5 |
+| Zn-63 | A | 7 E+2 | 1 E+6 |
+| Zn-65 | A | 3 | 3 E+4 |
+| Zn-69 | A | 1 E+3 | 3 E+6 |
+| Zn-69m | A | 9 E+1 | 7 E+5 |
+| Zn-71m | A | 2 E+2 | 6 E+5 |
+| Zn-72 | A | 2 E+1 | 1 E+5 |
+| Ga-65 | A | 1 E+3 | 2 E+6 |
+| Ga-66 | A | 5 E+1 | 7 E+4 |
+| Ga-67 | A | 1 E+2 | 5 E+5 |
+| Ga-68 | A | 5 E+2 | 7 E+5 |
+| Ga-70 | A | 2 E+3 | 2 E+6 |
+| Ga-72 | A | 5 E+1 | 9 E+4 |
+| Ga-73 | A | 2 E+2 | 3 E+5 |
+| Ge-66 | A | 3 E+2 | 1 E+6 |
+| Ge-67 | A | 1 E+3 | 1 E+6 |
+| Ge-68 | A | 3 | 7 E+4 |
+| Ge-69 | A | 1 E+2 | 4 E+5 |
+| Ge-71 | A | 2 E+3 | 7 E+6 |
+| Ge-75 | A | 8 E+2 | 2 E+6 |
+| Ge-77 | A | 9 E+1 | 3 E+5 |
+| Ge-78 | A | 3 E+2 | 7 E+5 |
+| As-69 | A | 1 E+3 | 1 E+6 |
+| As-70 | A | 4 E+2 | 7 E+5 |
+| As-71 | A | 8 E+1 | 3 E+5 |
+| As-72 | A | 3 E+1 | 8 E+4 |
+| As-73 | A | 3 E+1 | 3 E+5 |
+| As-74 | A | 2 E+1 | 9 E+4 |
+| As-76 | A | 3 E+1 | 9 E+4 |
+| As-77 | A | 8 E+1 | 3 E+5 |
+| As-78 | A | 3 E+2 | 4 E+5 |
+| Se-70 | A | 3 E+2 | 9 E+5 |
+| Se-73 | A | 1 E+2 | 6 E+5 |
+| Se-73m | A | 1 E+3 | 3 E+6 |
+| Se-75 | A | 2 | 4 E+4 |
+| Se-79 | A | 4 E-2 | 5 E+3 |
+| Se-81 | A | 2 E+3 | 3 E+6 |
+| Se-81m | A | 6 E+2 | 2 E+6 |
+| Se-83 | A | 8 E+2 | 2 E+6 |
+| Br-74 | A | 6 E+2 | 1 E+6 |
+| Br-74m | A | 4 E+2 | 6 E+5 |
+| Br-75 | A | 5 E+2 | 1 E+6 |
+| Br-76 | A | 7 E+1 | 2 E+5 |
+| Br-77 | A | 3 E+2 | 1 E+6 |
+| Br-80 | A | 2 E+3 | 2 E+6 |
+| Br-80m | A | 4 E+2 | 6 E+5 |
+| Br-82 | A | 5 E+1 | 1 E+5 |
+| Br-83 | A | 7 E+2 | 2 E+6 |
+| Br-84 | A | 7 E+2 | 9 E+5 |
+| Rb-79 | A | 1 E+3 | 2 E+6 |
+| Rb-81 | A | 6 E+2 | 2 E+6 |
+| Rb-81m | A | 3 E+3 | 8 E+6 |
+| Rb-82m | A | 2 E+2 | 1 E+6 |
+| Rb-83 | A | 2 E+1 | 8 E+4 |
+| Rb-84 | A | 2 E+1 | 4 E+4 |
+| Rb-86 | A | 1 E+1 | 3 E+4 |
+| Rb-87 | A | 8 E-1 | 6 E+4 |
+| Rb-88 | A | 1 E+3 | 8 E+5 |
+| Rb-89 | A | 2 E+3 | 2 E+6 |
+| Sr-80 | A | 2 E+2 | 2 E+5 |
+| Sr-81 | A | 7 E+2 | 1 E+6 |
+| Sr-82 | A | 3 | 1 E+4 |
+| Sr-83 | A | 8 E+1 | 3 E+5 |
+| Sr-85 | A | 4 E+1 | 1 E+5 |
+| Sr-85m | A | 6 E+3 | 2 E+7 |
+| Sr-87m | A | 1 E+3 | 4 E+6 |
+| Sr-89 | A | 4 | 3 E+4 |
+| Sr-90 | A | 1 E-1 | 4 E+3 |
+| Sr-91 | A | 6 E+1 | 2 E+5 |
+| Sr-92 | A | 1 E+2 | 3 E+5 |
+| Y-86 | A | 5 E+1 | 1 E+5 |
+| Y-86m | A | 9 E+2 | 2 E+6 |
+| Y-87 | A | 7 E+1 | 2 E+5 |
+| Y-88 | A | 8 | 1 E+5 |
+| Y-90 | A | 2 E+1 | 3 E+4 |
+| Y-90m | A | 3 E+2 | 5 E+5 |
+| Y-91 | A | 4 | 3 E+4 |
+| Y-91m | A | 3 E+3 | 1 E+7 |
+| Y-92 | A | 1 E+2 | 2 E+5 |
+| Y-93 | A | 5 E+1 | 6 E+4 |
+| Y-94 | A | 8 E+2 | 9 E+5 |
+| Y-95 | A | 2 E+3 | 2 E+6 |
+| Zr-86 | A | 6 E+1 | 1 E+5 |
+| Zr-88 | A | 1 E+1 | 3 E+5 |
+| Zr-89 | A | 5 E+1 | 1 E+5 |
+| Zr-93 | A | 1 | 4 E+5 |
+| Zr-95 | A | 6 | 1 E+5 |
+| Zr-97 | A | 3 E+1 | 4 E+4 |
+| Nb-88 | A | 9 E+2 | 1 E+6 |
+| Nb-89 | A | 2 E+2 | 3 E+5 |
+| Nb-90 | A | 4 E+1 | 8 E+4 |
+| Nb-93m | A | 2 E+1 | 6 E+5 |
+| Nb-94 | A | 8 E-1 | 6 E+4 |
+| Nb-95 | A | 2 E+1 | 2 E+5 |
+| Nb-95m | A | 4 E+1 | 1 E+5 |
+| Nb-96 | A | 4 E+1 | 1 E+5 |
+| Nb-97 | A | 6 E+2 | 1 E+6 |
+| Nb-98m | A | 4 E+2 | 7 E+5 |
+| Mo-90 | A | 8 E+1 | 5 E+5 |
+| Mo-93 | A | 2 E+1 | 1 E+5 |
+| Mo-93m | A | 2 E+2 | 1 E+6 |
+| Mo-99 | A | 3 E+1 | 2 E+5 |
+| Mo-101 | A | 1 E+3 | 2 E+6 |
+| Tc-93 | A | 7 E+2 | 3 E+6 |
+| Tc-93m | A | 1 E+3 | 4 E+6 |
+| Tc-94 | A | 2 E+2 | 7 E+5 |
+| Tc-94m | A | 5 E+2 | 7 E+5 |
+| Tc-95 | A | 2 E+2 | 9 E+5 |
+| Tc-95m | A | 3 E+1 | 2 E+5 |
+| Tc-96 | A | 4 E+1 | 1 E+5 |
+| Tc-96m | A | 4 E+3 | 9 E+6 |
+| Tc-97m | A | 8 | 1 E+5 |
+| Tc-97 | A | 2 E+1 | 9 E+5 |
+| Tc-98 | A | 8 E-1 | 4 E+4 |
+| Tc-99 | A | 3 | 9 E+4 |
+| Tc-99m | A | 2 E+3 | 4 E+6 |
+| Tc-101 | A | 2 E+3 | 4 E+6 |
+| Tc-104 | A | 8 E+2 | 9 E+5 |
+| Ru-94 | A | 5 E+2 | 1 E+6 |
+| Ru-97 | A | 3 E+2 | 7 E+5 |
+| Ru-103 | A | 1 E+1 | 1 E+5 |
+| Ru-105 | A | 2 E+2 | 3 E+5 |
+| Ru-106 | A | 6 E-1 | 1 E+4 |
+| Rh-99 | A | 4 E+1 | 2 E+5 |
+| Rh-99m | A | 6 E+2 | 2 E+6 |
+| Rh-100 | A | 7 E+1 | 2 E+5 |
+| Rh-101 | A | 7 | 2 E+5 |
+| Rh-101m | A | 1 E+2 | 5 E+5 |
+| Rh-102 | A | 2 | 5 E+4 |
+| Rh-102m | A | 5 | 7 E+4 |
+| Rh-103m | A | 1 E+4 | 2 E+7 |
+| Rh-105 | A | 9 E+1 | 2 E+5 |
+| Rh-106m | A | 2 E+2 | 6 E+5 |
+| Rh-107 | A | 2 E+3 | 3 E+6 |
+| Pd-100 | A | 4 E+1 | 1 E+5 |
+| Pd-101 | A | 4 E+2 | 1 E+6 |
+| Pd-103 | A | 8 E+1 | 4 E+5 |
+| Pd-107 | A | 6 E+1 | 2 E+6 |
+| Pd-109 | A | 8 E+1 | 1 E+5 |
+| Ag-102 | A | 1 E+3 | 2 E+6 |
+| Ag-103 | A | 1 E+3 | 2 E+6 |
+| Ag-104 | A | 7 E+2 | 2 E+6 |
+| Ag-104m | A | 9 E+2 | 2 E+6 |
+| Ag-105 | A | 1 E+1 | 2 E+5 |
+| Ag-106 | A | 2 E+3 | 2 E+6 |
+| Ag-106m | A | 9 | 9 E+4 |
+| Ag-108m | A | 4 E-1 | 4 E+4 |
+| Ag-110m | A | 1 | 4 E+4 |
+| Ag-111 | A | 3 | 6 E+4 |
+| Ag-112 | A | 1 E+2 | 2 E+5 |
+| Ag-115 | A | 9 E+2 | 1 E+6 |
+| Cd-104 | A | 7 E+2 | 2 E+6 |
+| Cd-107 | A | 4 E+2 | 1 E+6 |
+| Cd-109 | A | 4 | 4 E+4 |
+| Cd-113 | A | 1 E-1 | 9 E+3 |
+| Cd-113m | A | 2 E-1 | 7 E+3 |
+| Cd-115 | A | 3 E+1 | 6 E+4 |
+| Cd-115m | A | 5 | 2 E+4 |
+| Cd-117 | A | 2 E+2 | 3 E+5 |
+| Cd-117m | A | 1 E+2 | 3 E+5 |
+| In-109 | A | 6 E+2 | 2 E+6 |
+| In-110 | A | 2 E+2 | 6 E+5 |
+| In-111 | A | 1 E+2 | 4 E+5 |
+| In-112 | A | 4 E+3 | 7 E+6 |
+| In-113m | A | 1 E+3 | 3 E+6 |
+| In-114m | A | 2 | 2 E+4 |
+| In-115m | A | 5 E+2 | 9 E+5 |
+| In-116m | A | 6 E+2 | 2 E+6 |
+| In-117 | A | 1 E+3 | 3 E+6 |
+| In-117m | A | 4 E+2 | 6 E+5 |
+| In-119m | A | 1 E+3 | 2 E+6 |
+| Sn-110 | A | 1 E+2 | 3 E+5 |
+| Sn-111 | A | 2 E+3 | 4 E+6 |
+| Sn-113 | A | 1 E+1 | 1 E+5 |
+| Sn-117m | A | 1 E+1 | 1 E+5 |
+| Sn-119m | A | 2 E+1 | 2 E+5 |
+| Sn-121 | A | 1 E+2 | 3 E+5 |
+| Sn-121m | A | 4 | 2 E+5 |
+| Sn-123 | A | 3 | 4 E+4 |
+| Sn-123m | A | 1 E+3 | 2 E+6 |
+| Sn-125 | A | 1 E+1 | 3 E+4 |
+| Sn-126 | A | 1 | 2 E+4 |
+| Sn-127 | A | 2 E+2 | 4 E+5 |
+| Sn-128 | A | 3 E+2 | 6 E+5 |
+| Sb-115 | A | 2 E+3 | 4 E+6 |
+| Sb-116 | A | 2 E+3 | 3 E+6 |
+| Sb-116m | A | 5 E+2 | 2 E+6 |
+| Sb-117 | A | 2 E+3 | 6 E+6 |
+| Sb-118m | A | 2 E+2 | 7 E+5 |
+| Sb-119 | A | 5 E+2 | 1 E+6 |
+| Sb-120 | A | 3 E+1 | 1 E+5 |
+| Sb-122 | A | 3 E+1 | 5 E+4 |
+| Sb-124 | A | 4 | 4 E+4 |
+| Sb-124m | A | 5 E+3 | 1 E+7 |
+| Sb-125 | A | 3 | 8 E+4 |
+| Sb-126 | A | 4 E-1 | 4 E+4 |
+| Sb-126m | A | 1 E+3 | 2 E+6 |
+| Sb-127 | A | 2 E+1 | 5 E+4 |
+| Sb-128 | A | 6 E+1 | 1 E+5 |
+| Sb-129 | A | 1 E+2 | 2 E+5 |
+| Sb-130 | A | 5 E+2 | 1 E+6 |
+| Sb-131 | A | 6 E+2 | 8 E+5 |
+| Te-116 | A | 2 E+2 | 6 E+5 |
+| Te-121 | A | 7 E+1 | 3 E+5 |
+| Te-121m | A | 4 | 3 E+4 |
+| Te-123 | A | 7 E-2 | 3 E+4 |
+| Te-123m | A | 6 | 5 E+4 |
+| Te-125m | A | 8 | 7 E+4 |
+| Te-127 | A | 2 E+2 | 6 E+5 |
+| Te-127m | A | 2 | 2 E+4 |
+| Te-129 | A | 7 E+2 | 1 E+6 |
+| Te-129m | A | 4 | 2 E+4 |
+| Te-131 | A | 8 E+2 | 1 E+6 |
+| Te-131m | A | 2 E+1 | 4 E+4 |
+| Te-132 | A | 9 | 2 E+4 |
+| Te-133 | A | 8 E+2 | 1 E+6 |
+| Te-133m | A | 2 E+2 | 3 E+5 |
+| Te-134 | A | 4 E+2 | 8 E+5 |
+| I-120 | E | 5 E+1 | 2 E+5 |
+| I-120m | E | 1 E+2 | 4 E+5 |
+| I-121 | E | 2 E+2 | 1 E+6 |
+| I-123 | E | 7 E+1 | 4 E+5 |
+| I-124 | E | 1 | 7 E+3 |
+| I-125 | E | 5 E-1 | 2 E+4 |
+| I-126 | E | 3 E-1 | 4 E+3 |
+| I-128 | E | 4 E+2 | 2 E+6 |
+| I-129 | E | 3 E-2 | 4 E+3 |
+| I-130 | E | 8 | 4 E+4 |
+| I-131 | E | 5 E-1 | 5 E+3 |
+| I-132 | E | 5 E+1 | 3 E+5 |
+| I-132m | E | 5 E+1 | 4 E+5 |
+| I-133 | E | 3 | 2 E+4 |
+| I-134 | E | 2 E+2 | 8 E+5 |
+| I-135 | E | 1 E+1 | 9 E+4 |
+| Cs-125 | A | 1 E+3 | 2 E+6 |
+| Cs-127 | A | 7 E+2 | 5 E+6 |
+| Cs-129 | A | 3 E+2 | 2 E+6 |
+| Cs-130 | A | 2 E+3 | 3 E+6 |
+| Cs-131 | A | 6 E+2 | 2 E+6 |
+| Cs-132 | A | 1 E+2 | 3 E+5 |
+| Cs-134 | A | 2 | 2 E+4 |
+| Cs-134m | A | 6 E+2 | 4 E+6 |
+| Cs-135 | A | 4 | 2 E+5 |
+| Cs-135m | A | 2 E+3 | 7 E+6 |
+| Cs-136 | A | 1 E+1 | 6 E+4 |
+| Cs-137 | A | 9 E-1 | 3 E+4 |
+| Cs-138 | A | 6 E+2 | 8 E+5 |
+| Ba-126 | A | 2 E+2 | 3 E+5 |
+| Ba-128 | A | 2 E+1 | 4 E+4 |
+| Ba-131 | A | 4 E+1 | 2 E+5 |
+| Ba-131m | A | 4 E+3 | 2 E+7 |
+| Ba-133 | A | 4 | 4 E+4 |
+| Ba-133m | A | 7 E+1 | 2 E+5 |
+| Ba-135m | A | 8 E+1 | 3 E+5 |
+| Ba-139 | A | 4 E+2 | 6 E+5 |
+| Ba-140 | A | 6 | 3 E+4 |
+| Ba-141 | A | 8 E+2 | 1 E+6 |
+| Ba-142 | A | 1 E+3 | 3 E+6 |
+| La-131 | A | 1 E+3 | 3 E+6 |
+| La-132 | A | 1 E+2 | 2 E+5 |
+| La-135 | A | 2 E+3 | 3 E+6 |
+| La-137 | A | 4 | 8 E+5 |
+| La-138 | A | 2 E-1 | 1 E+4 |
+| La-140 | A | 3 E+1 | 4 E+4 |
+| La-141 | A | 2 E+2 | 2 E+5 |
+| La-142 | A | 3 E+2 | 5 E+5 |
+| La-143 | A | 1 E+3 | 1 E+6 |
+| Ce-134 | A | 2 E+1 | 3 E+4 |
+| Ce-135 | A | 6 E+1 | 1 E+5 |
+| Ce-137 | A | 2 E+3 | 3 E+6 |
+| Ce-137m | A | 7 E+1 | 1 E+5 |
+| Ce-139 | A | 2 E+1 | 3 E+5 |
+| Ce-141 | A | 9 | 1 E+5 |
+| Ce-143 | A | 4 E+1 | 7 E+4 |
+| Ce-144 | A | 6 E-1 | 1 E+4 |
+| Pr-136 | A | 2 E+3 | 2 E+6 |
+| Pr-137 | A | 1 E+3 | 2 E+6 |
+| Pr-138m | A | 3 E+2 | 9 E+5 |
+| Pr-139 | A | 1 E+3 | 3 E+6 |
+| Pr-142 | A | 4 E+1 | 6 E+4 |
+| Pr-142m | A | 3 E+3 | 4 E+6 |
+| Pr-143 | A | 1 E+1 | 6 E+4 |
+| Pr-144 | A | 1 E+3 | 1 E+6 |
+| Pr-145 | A | 1 E+2 | 2 E+5 |
+| Pr-147 | A | 1 E+3 | 2 E+6 |
+| Nd-136 | A | 5 E+2 | 9 E+5 |
+| Nd-138 | A | 9 E+1 | 1 E+5 |
+| Nd-139 | A | 2 E+3 | 4 E+6 |
+| Nd-139m | A | 2 E+2 | 4 E+5 |
+| Nd-141 | A | 5 E+3 | 1 E+7 |
+| Nd-147 | A | 1 E+1 | 7 E+4 |
+| Nd-149 | A | 3 E+2 | 6 E+5 |
+| Nd-151 | A | 2 E+3 | 3 E+6 |
+| Pm-141 | A | 2 E+3 | 2 E+6 |
+| Pm-143 | A | 2 E+1 | 5 E+5 |
+| Pm-144 | A | 4 | 1 E+5 |
+| Pm-145 | A | 1 E+1 | 6 E+5 |
+| Pm-146 | A | 2 | 9 E+4 |
+| Pm-147 | A | 7 | 3 E+5 |
+| Pm-148 | A | 1 E+1 | 3 E+4 |
+| Pm-148m | A | 6 | 6 E+4 |
+| Pm-149 | A | 4 E+1 | 7 E+4 |
+| Pm-150 | A | 2 E+2 | 3 E+5 |
+| Pm-151 | A | 6 E+1 | 1 E+5 |
+| Sm-141 | A | 2 E+3 | 2 E+6 |
+| Sm-141m | A | 8 E+2 | 1 E+6 |
+| Sm-142 | A | 3 E+2 | 4 E+5 |
+| Sm-145 | A | 2 E+1 | 4 E+5 |
+| Sm-146 | A | 3 E-3 | 6 E+2 |
+| Sm-151 | A | 9 | 6 E+5 |
+| Sm-153 | A | 5 E+1 | 1 E+5 |
+| Sm-155 | A | 2 E+3 | 3 E+6 |
+| Sm-156 | A | 1 E+2 | 3 E+5 |
+| Eu-145 | A | 5 E+1 | 2 E+5 |
+| Eu-146 | A | 4 E+1 | 1 E+5 |
+| Eu-147 | A | 3 E+1 | 2 E+5 |
+| Eu-148 | A | 1 E+1 | 1 E+5 |
+| Eu-149 | A | 1 E+2 | 9 E+5 |
+| Eu-150 | A | 7 E-1 | 3 E+4 |
+| Eu-152 | A | 9 E-1 | 5 E+4 |
+| Eu-152m | A | 1 E+2 | 2 E+5 |
+| Eu-154 | A | 7 E-1 | 4 E+4 |
+| Eu-155 | A | 5 | 2 E+5 |
+| Eu-156 | A | 1 E+1 | 4 E+4 |
+| Eu-157 | A | 8 E+1 | 1 E+5 |
+| Eu-158 | A | 5 E+2 | 8 E+5 |
+| Gd-145 | A | 1 E+3 | 2 E+6 |
+| Gd-146 | A | 5 | 9 E+4 |
+| Gd-147 | A | 7 E+1 | 2 E+5 |
+| Gd-148 | A | 1 E-3 | 5 E+2 |
+| Gd-149 | A | 4 E+1 | 2 E+5 |
+| Gd-151 | A | 3 E+1 | 4 E+5 |
+| Gd-153 | A | 1 E+1 | 3 E+5 |
+| Gd-159 | A | 1 E+2 | 2 E+5 |
+| Tb-147 | A | 3 E+2 | 6 E+5 |
+| Tb-149 | A | 7 | 4 E+5 |
+| Tb-150 | A | 2 E+2 | 4 E+5 |
+| Tb-151 | A | 1 E+2 | 3 E+5 |
+| Tb-153 | A | 1 E+2 | 4 E+5 |
+| Tb-154 | A | 8 E+1 | 2 E+5 |
+| Tb-155 | A | 2 E+2 | 5 E+5 |
+| Tb-156 | A | 3 E+1 | 1 E+5 |
+| Tb-156m | A | 2 E+2 | 6 E+5 |
+| Tb-157 | A | 3 E+1 | 2 E+6 |
+| Tb-158 | A | 8 E-1 | 4 E+4 |
+| Tb-160 | A | 5 | 6 E+4 |
+| Tb-161 | A | 3 E+1 | 1 E+5 |
+| Dy-155 | A | 4 E+2 | 9 E+5 |
+| Dy-157 | A | 8 E+2 | 2 E+6 |
+| Dy-159 | A | 9 E+1 | 9 E+5 |
+| Dy-165 | A | 5 E+2 | 7 E+5 |
+| Dy-166 | A | 2 E+1 | 5 E+4 |
+| Ho-155 | A | 1 E+3 | 2 E+6 |
+| Ho-157 | A | 6 E+3 | 2 E+7 |
+| Ho-159 | A | 5 E+3 | 1 E+7 |
+| Ho-161 | A | 4 E+3 | 6 E+6 |
+| Ho-162 | A | 1 E+4 | 3 E+7 |
+| Ho-162m | A | 1 E+3 | 4 E+6 |
+| Ho-164 | A | 4 E+3 | 7 E+6 |
+| Ho-164m | A | 3 E+3 | 4 E+6 |
+| Ho-166 | A | 4 E+1 | 6 E+4 |
+| Ho-166m | A | 3 E-1 | 2 E+4 |
+| Ho-167 | A | 4 E+2 | 1 E+6 |
+| Er-161 | A | 5 E+2 | 1 E+6 |
+| Er-165 | A | 3 E+3 | 5 E+6 |
+| Er-169 | A | 3 E+1 | 2 E+5 |
+| Er-171 | A | 1 E+2 | 2 E+5 |
+| Er-172 | A | 3 E+1 | 9 E+4 |
+| Tm-162 | A | 2 E+3 | 3 E+6 |
+| Tm-166 | A | 2 E+2 | 4 E+5 |
+| Tm-167 | A | 3 E+1 | 2 E+5 |
+| Tm-170 | A | 5 | 6 E+4 |
+| Tm-171 | A | 3 E+1 | 6 E+5 |
+| Tm-172 | A | 3 E+1 | 5 E+4 |
+| Tm-173 | A | 2 E+2 | 3 E+5 |
+| Tm-175 | A | 1 E+3 | 3 E+6 |
+| Yb-162 | A | 2 E+3 | 4 E+6 |
+| Yb-166 | A | 4 E+1 | 1 E+5 |
+| Yb-167 | A | 5 E+3 | 1 E+7 |
+| Yb-169 | A | 1 E+1 | 1 E+5 |
+| Yb-175 | A | 4 E+1 | 2 E+5 |
+| Yb-177 | A | 4 E+2 | 9 E+5 |
+| Yb-178 | A | 4 E+2 | 6 E+5 |
+| Lu-169 | A | 8 E+1 | 3 E+5 |
+| Lu-170 | A | 4 E+1 | 1 E+5 |
+| Lu-171 | A | 4 E+1 | 2 E+5 |
+| Lu-172 | A | 2 E+1 | 9 E+4 |
+| Lu-173 | A | 1 E+1 | 3 E+5 |
+| Lu-174 | A | 8 | 3 E+5 |
+| Lu-174m | A | 8 | 1 E+5 |
+| Lu-176m | A | 3 E+2 | 4 E+5 |
+| Lu-177 | A | 3 E+1 | 1 E+5 |
+| Lu-177m | A | 2 | 5 E+4 |
+| Lu-178 | A | 1 E+3 | 2 E+6 |
+| Lu-178m | A | 8 E+2 | 2 E+6 |
+| Lu-179 | A | 2 E+2 | 4 E+5 |
+| Hf-170 | A | 9 E+1 | 2 E+5 |
+| Hf-172 | A | 1 | 5 E+4 |
+| Hf-173 | A | 2 E+2 | 5 E+5 |
+| Hf-175 | A | 3 E+1 | 2 E+5 |
+| Hf-177m | A | 3 E+2 | 1 E+6 |
+| Hf-178m | A | 1 E-1 | 1 E+4 |
+| Hf-179m | A | 9 | 7 E+4 |
+| Hf-180m | A | 2 E+2 | 6 E+5 |
+| Hf-181 | A | 7 | 7 E+4 |
+| Hf-182 | A | 1 E-1 | 2 E+4 |
+| Hf-182m | A | 7 E+2 | 2 E+6 |
+| Hf-183 | A | 5 E+2 | 1 E+6 |
+| Hf-184 | A | 9 E+1 | 2 E+5 |
+| Ta-172 | A | 8 E+2 | 2 E+6 |
+| Ta-173 | A | 2 E+2 | 4 E+5 |
+| Ta-174 | A | 7 E+2 | 1 E+6 |
+| Ta-175 | A | 2 E+2 | 6 E+5 |
+| Ta-176 | A | 1 E+2 | 4 E+5 |
+| Ta-177 | A | 3 E+2 | 9 E+5 |
+| Ta-178 | A | 4 E+2 | 1 E+6 |
+| Ta-179 | A | 6 E+1 | 1 E+6 |
+| Ta-180m | A | 7 E+2 | 2 E+6 |
+| Ta-182 | A | 3 | 6 E+4 |
+| Ta-182m | A | 1 E+3 | 6 E+6 |
+| Ta-183 | A | 2 E+1 | 6 E+4 |
+| Ta-184 | A | 7 E+1 | 2 E+6 |
+| Ta-185 | A | 6 E+2 | 1 E+6 |
+| Ta-186 | A | 1 E+3 | 2 E+6 |
+| W-176 | A | 6 E+2 | 1 E+6 |
+| W-177 | A | 1 E+3 | 2 E+6 |
+| W-178 | A | 3 E+2 | 5 E+5 |
+| W-179 | A | 2 E+4 | 3 E+7 |
+| W-181 | A | 4 E+2 | 1 E+6 |
+| W-185 | A | 6 E+1 | 2 E+5 |
+| W-187 | A | 1 E+2 | 2 E+5 |
+| W-188 | A | 3 E+1 | 4 E+4 |
+| Re-177 | A | 2 E+3 | 4 E+6 |
+| Re-178 | A | 2 E+3 | 3 E+6 |
+| Re-181 | A | 1 E+2 | 2 E+5 |
+| Re-182 | A | 2 E+1 | 6 E+4 |
+| Re-184 | A | 2 E+1 | 1 E+5 |
+| Re-184m | A | 5 | 5 E+4 |
+| Re-186 | A | 3 E+1 | 5 E+4 |
+| Re-186m | A | 1 | 3 E+4 |
+| Re-187 | A | 7 E+2 | 1 E+7 |
+| Re-188 | A | 4 E+1 | 5 E+4 |
+| Re-188m | A | 2 E+3 | 2 E+6 |
+| Re-189 | A | 6 E+1 | 9 E+4 |
+| Os-180 | A | 2 E+3 | 6 E+6 |
+| Os-181 | A | 4 E+2 | 1 E+6 |
+| Os-182 | A | 8 E+1 | 2 E+5 |
+| Os-185 | A | 2 E+1 | 2 E+5 |
+| Os-189m | A | 4 E+3 | 4 E+6 |
+| Os-191 | A | 2 E+1 | 1 E+5 |
+| Os-191m | A | 2 E+2 | 8 E+5 |
+| Os-193 | A | 6 E+1 | 1 E+5 |
+| Os-194 | A | 4 E-1 | 3 E+4 |
+| Ir-182 | A | 1 E+3 | 2 E+6 |
+| Ir-184 | A | 2 E+2 | 6 E+5 |
+| Ir-185 | A | 2 E+2 | 4 E+5 |
+| Ir-186 | A | 9 E+1 | 2 E+5 |
+| Ir-187 | A | 4 E+2 | 8 E+5 |
+| Ir-188 | A | 7 E+1 | 2 E+5 |
+| Ir-189 | A | 6 E+1 | 4 E+5 |
+| Ir-190 | A | 1 E+1 | 9 E+4 |
+| Ir-190m | A | 3 E+2 | 9 E+5 |
+| Ir-192 | A | 5 | 7 E+4 |
+| Ir-192m | A | 9 E-1 | 7 E+4 |
+| Ir-193m | A | 3 E+1 | 3 E+5 |
+| Ir-194 | A | 4 E+1 | 6 E+4 |
+| Ir-194m | A | 3 | 5 E+4 |
+| Ir-195 | A | 4 E+2 | 7 E+5 |
+| Ir-195m | A | 2 E+2 | 4 E+5 |
+| Pt-186 | A | 7 E+2 | 1 E+6 |
+| Pt-188 | A | 6 E+1 | 1 E+5 |
+| Pt-189 | A | 5 E+2 | 8 E+5 |
+| Pt-191 | A | 2 E+2 | 3 E+5 |
+| Pt-193 | A | 2 E+1 | 2 E+6 |
+| Pt-193m | A | 1 E+2 | 2 E+5 |
+| Pt-195m | A | 9 E+1 | 1 E+5 |
+| Pt-197 | A | 2 E+2 | 2 E+5 |
+| Pt-197m | A | 9 E+2 | 9 E+5 |
+| Pt-199 | A | 2 E+3 | 2 E+6 |
+| Pt-200 | A | 9 E+1 | 6 E+4 |
+| Au-193 | A | 3 E+2 | 7 E+5 |
+| Au-194 | A | 1 E+2 | 3 E+5 |
+| Au-195 | A | 2 E+1 | 4 E+5 |
+| Au-198 | A | 4 E+1 | 9 E+4 |
+| Au-198m | A | 2 E+1 | 7 E+4 |
+| Au-199 | A | 4 E+1 | 2 E+5 |
+| Au-200 | A | 8 E+2 | 1 E+6 |
+| Au-200m | A | 4 E+1 | 1 E+5 |
+| Au-201 | A | 2 E+3 | 3 E+6 |
+| Hg-193 | A | 4 E+2 | 3 E+6 |
+| Hg-193 | O | 9 E+2 | 1 E+6 |
+| Hg-193m | A | 1 E+2 | 3 E+5 |
+| Hg-193m | O | 2 E+2 | 8 E+5 |
+| Hg-194 | A | 1 | 1 E+5 |
+| Hg-194 | O | 4 E-1 | 7 E+3 |
+| Hg-195 | A | 4 E+2 | 9 E+5 |
+| Hg-195 | O | 9 E+2 | 3 E+6 |
+| Hg-195m | A | 6 E+1 | 2 E+5 |
+| Hg-195m | O | 2 E+2 | 4 E+5 |
+| Hg-197 | A | 1 E+2 | 4 E+5 |
+| Hg-197 | O | 4 E+2 | 9 E+5 |
+| Hg-197m | A | 6 E+1 | 2 E+5 |
+| Hg-197m | O | 2 E+2 | 6 E+5 |
+| Hg-199m | A | 9 E+2 | 2 E+6 |
+| Hg-199m | O | 2 E+3 | 3 E+6 |
+| Hg-203 | A | 1 E+1 | 2 E+5 |
+| Hg-203 | O | 1 E+1 | 6 E+4 |
+| Tl-194 | A | 5 E+3 | 1 E+7 |
+| Tl-194m | A | 1 E+3 | 2 E+6 |
+| Tl-195 | A | 2 E+3 | 4 E+6 |
+| Tl-197 | A | 2 E+3 | 4 E+6 |
+| Tl-198 | A | 4 E+2 | 2 E+6 |
+| Tl-198m | A | 6 E+2 | 2 E+6 |
+| Tl-199 | A | 1 E+3 | 4 E+6 |
+| Tl-200 | A | 2 E+2 | 7 E+5 |
+| Tl-201 | A | 5 E+2 | 1 E+6 |
+| Tl-202 | A | 1 E+2 | 3 E+5 |
+| Tl-204 | A | 1 E+1 | 7 E+4 |
+| Pb-195m | A | 1 E+3 | 3 E+6 |
+| Pb-198 | A | 4 E+2 | 2 E+6 |
+| Pb-199 | A | 7 E+2 | 3 E+6 |
+| Pb-200 | A | 9 E+1 | 4 E+5 |
+| Pb-201 | A | 2 E+2 | 9 E+5 |
+| Pb-202 | A | 2 | 3 E+4 |
+| Pb-202m | A | 3 E+2 | 1 E+6 |
+| Pb-203 | A | 1 E+2 | 6 E+5 |
+| Pb-205 | A | 4 E+1 | 4 E+5 |
+| Pb-209 | A | 5 E+2 | 2 E+6 |
+| Pb-210 | A | 7 E-3 | 1 E+2 |
+| Pb-211 | A | 3 | 3 E+5 |
+| Pb-212 | A | 2 E-1 | 6 E+3 |
+| Pb-214 | A | 2 | 3 E+5 |
+| Bi-200 | A | 8 E+2 | 2 E+6 |
+| Bi-201 | A | 4 E+2 | 9 E+5 |
+| Bi-202 | A | 5 E+2 | 1 E+6 |
+| Bi-203 | A | 1 E+2 | 3 E+5 |
+| Bi-205 | A | 3 E+1 | 1 E+5 |
+| Bi-206 | A | 2 E+1 | 6 E+4 |
+| Bi-207 | A | 1 | 9 E+4 |
+| Bi-210 | A | 4 E-1 | 6 E+4 |
+| Bi-210m | A | 1 E-2 | 4 E+3 |
+| Bi-212 | A | 1 | 3 E+5 |
+| Bi-213 | A | 1 | 4 E+5 |
+| Bi-214 | A | 2 | 6 E+5 |
+| Po-203 | A | 7 E+2 | 3 E+6 |
+| Po-205 | A | 4 E+2 | 3 E+6 |
+| Po-207 | A | 3 E+2 | 2 E+6 |
+| Po-210 | A | 8 E-3 | 3 E+1 |
+| At-207 | A | 1 E+1 | 4 E+5 |
+| At-211 | A | 3 E-1 | 7 E+3 |
+| Fr-222 | A | 3 | 1 E+5 |
+| Fr-223 | A | 2 E+1 | 3 E+4 |
+| Ra-223 | A | 4 E-3 | 2 E+2 |
+| Ra-224 | A | 1 E-2 | 3 E+2 |
+| Ra-225 | A | 4 E-3 | 1 E+2 |
+| Ra-226 | A | 4 E-3 | 2 E+2 |
+| Ra-227 | A | 8 E+1 | 8 E+5 |
+| Ra-228 | A | 2 E-3 | 3 E+1 |
+| Ac-224 | A | 3 E-1 | 9 E+4 |
+| Ac-225 | A | 4 E-3 | 2 E+3 |
+| Ac-226 | A | 3 E-2 | 6 E+3 |
+| Ac-227 | A | 7 E-5 | 3 E+1 |
+| Ac-228 | A | 9 E-1 | 1 E+5 |
+| Th-226 | A | 5 E-1 | 2 E+5 |
+| Th-227 | A | 3 E-3 | 3 E+1 |
+| Th-228 | A | 9 E-4 | 2 E+2 |
+| Th-229 | A | 2 E-4 | 8 E+1 |
+| Th-230 | A | 4 E-4 | 2 E+2 |
+| Th-231 | A | 9 E+1 | 2 E+5 |
+| Th-232 | A | 3 E-4 | 2 E+2 |
+| Th-234 | A | 5 | 2 E+4 |
+| Pa-227 | A | 5 E-1 | 2 E+5 |
+| Pa-228 | A | 5 E-1 | 7 E+4 |
+| Pa-230 | A | 4 E-2 | 3 E+4 |
+| Pa-231 | A | 3 E-4 | 7 E+1 |
+| Pa-232 | A | 4 | 1 E+5 |
+| Pa-233 | A | 8 | 9 E+4 |
+| Pa-234 | A | 8 E+1 | 2 E+5 |
+| U-230 | A | 2 E-3 | 1 E+3 |
+| U-231 | A | 8 E+1 | 3 E+5 |
+| U-232 | A | 1 E-3 | 4 E+2 |
+| U-233 | A | 4 E-3 | 2 E+3 |
+| U-234 | A | 4 E-3 | 2 E+3 |
+| U-235 | A | 4 E-3 | 3 E+3 |
+| U-236 | A | 4 E-3 | 3 E+3 |
+| U-237 | A | 2 E+1 | 1 E+5 |
+| U-238 | A | 5 E-3 | 3 E+3 |
+| U-239 | A | 1 E+3 | 3 E+6 |
+| U-240 | A | 5 E+1 | 7 E+4 |
+| Np-232 | A | 3 E+2 | 1 E+7 |
+| Np-233 | A | 1 E+4 | 4 E+7 |
+| Np-234 | A | 5 E+1 | 1 E+5 |
+| Np-235 | A | 5 E+1 | 1 E+6 |
+| Np-236 | A | 5 E-3 | 5 E+3 |
+| Np-237 | A | 7 E-4 | 4 E+2 |
+| Np-238 | A | 1 E+1 | 9 E+4 |
+| Np-239 | A | 3 E+1 | 1 E+5 |
+| Np-240 | A | 3 E+2 | 1 E+6 |
+| Pu-234 | A | 1 | 4 E+5 |
+| Pu-235 | A | 2 E+4 | 4 E+7 |
+| Pu-236 | A | 9 E-4 | 4 E+2 |
+| Pu-237 | A | 9 E+1 | 8 E+5 |
+| Pu-238 | A | 3 E-4 | 2 E+2 |
+| Pu-239 | A | 3 E-4 | 2 E+2 |
+| Pu-240 | A | 3 E-4 | 2 E+2 |
+| Pu-241 | A | 2 E-2 | 2 E+4 |
+| Pu-242 | A | 3 E-4 | 2 E+2 |
+| Pu-243 | A | 4 E+2 | 9 E+5 |
+| Pu-244 | A | 3 E-4 | 2 E+2 |
+| Pu-245 | A | 6 E+1 | 1 E+5 |
+| Pu-246 | A | 4 | 3 E+4 |
+| Am-237 | A | 1 E+3 | 5 E+6 |
+| Am-238 | A | 2 E+2 | 4 E+6 |
+| Am-239 | A | 1 E+2 | 3 E+5 |
+| Am-240 | A | 7 E+1 | 2 E+5 |
+| Am-241 | A | 4 E-4 | 2 E+2 |
+| Am-242 | A | 2 | 2 E+5 |
+| Am-242m | A | 4 E-4 | 3 E+2 |
+| Am-243 | A | 4 E-4 | 3 E+2 |
+| Am-244 | A | 1 E+1 | 2 E+5 |
+| Am-244m | A | 2 E+2 | 2 E+6 |
+| Am-245 | A | 6 E+2 | 1 E+6 |
+| Am-246 | A | 4 E+2 | 1 E+6 |
+| Am-246m | A | 1 E+3 | 2 E+6 |
+| Cm-238 | A | 7 | 1 E+6 |
+| Cm-240 | A | 1 E-2 | 4 E+3 |
+| Cm-241 | A | 9 E-1 | 8 E+4 |
+| Cm-242 | A | 6 E-3 | 2 E+3 |
+| Cm-243 | A | 5 E-4 | 3 E+2 |
+| Cm-244 | A | 6 E-4 | 3 E+2 |
+| Cm-245 | A | 4 E-4 | 2 E+2 |
+| Cm-246 | A | 4 E-4 | 2 E+2 |
+| Cm-247 | A | 4 E-4 | 3 E+2 |
+| Cm-248 | A | 1 E-4 | 6 E+1 |
+| Cm-249 | A | 9 E+2 | 2 E+6 |
+| Cm-250 | A | 2 E-5 | 1 E+1 |
+| Bk-245 | A | 2 E+1 | 1 E+5 |
+| Bk-246 | A | 9 E+1 | 2 E+5 |
+| Bk-247 | A | 5 E-4 | 1 E+2 |
+| Bk-249 | A | 2 E-1 | 4 E+4 |
+| Bk-250 | A | 4 E+1 | 6 E+5 |
+| Cf-244 | A | 3 | 9 E+5 |
+| Cf-246 | A | 7 E-2 | 2 E+4 |
+| Cf-248 | A | 4 E-3 | 6 E+2 |
+| Cf-249 | A | 5 E-4 | 1 E+2 |
+| Cf-250 | A | 1 E-3 | 2 E+2 |
+| Cf-251 | A | 5 E-4 | 1 E+2 |
+| Cf-252 | A | 2 E-3 | 2 E+2 |
+| Cf-253 | A | 2 E-2 | 9 E+3 |
+| Cf-254 | A | 8 E-4 | 8 E+1 |
+| Es-250 | A | 6 E+1 | 4 E+6 |
+| Es-251 | A | 2 E+1 | 5 E+5 |
+| Es-253 | A | 1 E-2 | 5 E+3 |
+| Es-254 | A | 4 E-3 | 6 E+2 |
+| Es-254m | A | 7 E-2 | 2 E+4 |
+| Fm-252 | A | 1 E-1 | 2 E+4 |
+| Fm-253 | A | 8 E-2 | 4 E+4 |
+| Fm-254 | A | 5 E-1 | 2 E+5 |
+| Fm-255 | A | 1 E-1 | 3 E+4 |
+| Fm-257 | A | 5 E-3 | 9 E+2 |
+| Md-257 | A | 1 | 3 E+5 |
+| Md-258 | A | 6 E-3 | 1 E+3 |
+Tabelle 7
+Aktivitätskonzentration Ci aus Strahlenschutzbereichen (zu Teil D Nr. 1.2)
+| Radionuklid | Ci in der Luft in Bq/m3 |
+| 1 | 2 |
+| C-11 | 3 E+3 |
+| N-13 | 2 E+3 |
+| O-15 | 1 E+3 |
+| Ar-37 | 2 E+8 |
+| Ar-39 | 6 E+3 |
+| Ar-41 | 2 E+2 |
+| Kr-74 | 2 E+2 |
+| Kr-76 | 5 E+2 |
+| Kr-77 | 2 E+2 |
+| Kr-79 | 9 E+2 |
+| Kr-81m | 5 E+6 |
+| Kr-81 | 4 E+4 |
+| Kr-83m | 4 E+6 |
+| Kr-85 | 4 E+3 |
+| Kr-85m | 1 E+3 |
+| Kr-87 | 2 E+2 |
+| Kr-88 | 1 E+2 |
+| Xe-120 | 6 E+2 |
+| Xe-121 | 1 E+2 |
+| Xe-122 | 3 E+3 |
+| Xe-123 | 3 E+2 |
+| Xe-125 | 9 E+2 |
+| Xe-127 | 9 E+2 |
+| Xe-129m | 1 E+4 |
+| Xe-131m | 2 E+4 |
+| Xe-133 | 7 E+3 |
+| Xe-133m | 7 E+3 |
+| Xe-135m | 5 E+2 |
+| Xe-135 | 9 E+2 |
+| Xe-138 | 2 E+2 |
+Tabelle 8
+Aktivitätskonzentration Ci aus Strahlenschutzbereichen (zu Teil D Nummer 1.1 und 2)
+| Radionuklidgemisch | Ci in der Luft in Bq/m3 |
+| 1 | 2 |
+| Beliebiges Gemisch | 1 E-5 |
+| Beliebiges Gemisch, wenn Ac-227 und Cm-250 unberücksichtigt bleiben können | 1 E-4 |
+| Beliebiges Gemisch, wenn Ac-227, Th-229, Th-230, Th-232, Pa-231, Pu-238, Pu-239, Pu-240, Pu-242, Pu-244, Am-241, Am-242m, Am-243, Cm-245, Cm-246, Cm-247, Cm-248 und Cm-250 unberücksichtigt bleiben können | 5 E-4 |
+| Beliebiges Gemisch, wenn Ac-227, Th-228, Th-229, Th-230, Th-232, Pa-231, U-232, Np-237, Pu-236, Pu-238, Pu-239, Pu-240, Pu-242, Pu-244, Am-241, Am-242m, Am-243, Cm-243, Cm-244, Cm-245, Cm-246, Cm-247, Cm-248, Cm-250, Bk-247, Cf-249, Cf-251 und Cf-254 unberücksichtigt bleiben können | 1 E-3 |
+| Radionuklidgemisch | Ci im Wasser in Bq/m3 |
+| 3 | 4 |
+| Beliebiges Gemisch | 1 E+1 |
+| Beliebiges Gemisch, wenn Po-210, Ra-228, Ac-227 und Cm-250 unberücksichtigt bleiben können | 5 E+1 |
+| Beliebiges Gemisch, wenn Po-210, Ra-228, Ac-227, Th-229, Pa-231, Cm-248, Cm-250, Bk-247, Cf-249, Cf-251 und Cf-254 unberücksichtigt bleiben können | 1 E+2 |
+| Beliebiges Gemisch, wenn Sm-146, Gd-148, Pb-210, Po-210, Ra-223, Ra-224, Ra-225, Ra-226, Ra-228, Ac-227, Th-228, Th-229, Th-230, Th-232, Pa-231, U-232, Np-237, Pu-236, Pu-238, Pu-239, Pu-240, Pu-242, Pu-244, Am-241, Am-242m, Am-243, Cm-243, Cm-244, Cm-245, Cm-246, Cm-247, Cm-248, Cm-250, Bk-247, Cf-248, Cf-249, Cf-250, Cf-251, Cf-252, Cf-254, Es-254 und Fm-257 unberücksichtigt bleiben können | 1 E+3 |

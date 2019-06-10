@@ -1,0 +1,3 @@
+# Art 2
+
+Für die nach diesem Vertrag von der Bundesrepublik Deutschland anzuwendenden deutschen Rechtsvorschriften gilt der Flughafen Salzburg als auf deutschem Hoheitsgebiet gelegen. Diese Vorschriften finden jedoch nur sinngemäß und insoweit Anwendung, als sie sich auf einen bereits angelegten und in Betrieb genommenen Verkehrsflughafen beziehen. Der Bauschutzbereich nach Artikel 1 und Artikel 3 Abs. 1 des Vertrages ist in der Anlage zu diesem Gesetz festgelegt.

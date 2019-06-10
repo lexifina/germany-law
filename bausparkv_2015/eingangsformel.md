@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 10 des Gesetzes über Bausparkassen, der zuletzt durch Artikel 1 Nummer 12 des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2399) geändert worden ist, in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach § 10 Satz 1 des Gesetzes über Bausparkassen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der durch Artikel 1 Absatz 4 Nummer 2 der Verordnung vom 13. Dezember 2002 (BGBl. 2003 I S. 2) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht nach Anhörung der Deutschen Bundesbank und der Spitzenverbände der Bausparkassen:

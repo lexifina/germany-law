@@ -1,0 +1,3 @@
+# Art 3
+
+Der Scheck darf nur auf einen Bankier gezogen werden, bei dem der Aussteller ein Guthaben hat, und gemäß einer ausdrücklichen oder stillschweigenden Vereinbarung, wonach der Aussteller das Recht hat, über dieses Guthaben mittels Schecks zu verfügen. Die Gültigkeit der Urkunde als Scheck wird jedoch durch die Nichtbeachtung dieser Vorschriften nicht berührt.

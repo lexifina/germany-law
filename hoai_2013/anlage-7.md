@@ -1,0 +1,32 @@
+# Anlage 7 (zu § 26 Absatz 2)Grundleistungen im Leistungsbild Landschaftspflegerischer Begleitplan
+
+Das Leistungsbild Landschaftspflegerischer Begleitplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
+1. Leistungsphase 1: Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
+  a) Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
+  b) Ortsbesichtigungen
+  c) Abgrenzen des Planungsgebiets anhand der planungsrelevanten Funktionen
+  d) Konkretisieren weiteren Bedarfs an Daten und Unterlagen
+  e) Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
+  f) Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
+2. Leistungsphase 2: Ermitteln und Bewerten der Planungsgrundlagen
+  a) Bestandsaufnahme:
+    Erfassen von Natur und Landschaft jeweils einschließlich des rechtlichen Schutzstatus und fachplanerischer Festsetzungen und Ziele für die Naturgüter auf Grundlage vorhandener Unterlagen und örtlicher Erhebungen
+  b) Bestandsbewertung:
+    aa) Bewerten der Leistungsfähigkeit und Empfindlichkeit des Naturhaushalts und des Landschaftsbildes nach den Zielen und Grundsätzen des Naturschutzes und der Landschaftspflege
+    bb) Bewerten der vorhandenen Beeinträchtigungen von Natur und Landschaft (Vorbelastung)
+    cc) Zusammenfassendes Darstellen der Ergebnisse als Grundlage für die Erörterung mit dem Auftraggeber
+3. Leistungsphase 3: Vorläufige Fassung
+  a) Konfliktanalyse
+  b) Ermitteln und Bewerten der durch das Vorhaben zu erwartenden Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes nach Art, Umfang, Ort und zeitlichem Ablauf
+  c) Konfliktminderung
+  d) Erarbeiten von Lösungen zur Vermeidung oder Verminderung erheblicher Beeinträchtigungen des Naturhaushalts und des Landschaftsbildes in Abstimmung mit den an der Planung fachlich Beteiligten
+  e) Ermitteln der unvermeidbaren Beeinträchtigungen
+  f) Erarbeiten und Begründen von Maßnahmen des Naturschutzes und der Landschaftspflege, insbesondere Ausgleichs-, Ersatz- und Gestaltungsmaßnahmen sowie von Angaben zur Unterhaltung dem Grunde nach und Vorschläge zur rechtlichen Sicherung von Ausgleichs- und Ersatzmaßnahmen
+  g) Integrieren von Maßnahmen auf Grund des Natura 2000-Gebietsschutzes sowie auf Grund der Vorschriften zum besonderen Artenschutz und anderer Umweltfachgesetze auf Grundlage vorhandener Unterlagen und Erarbeiten eines Gesamtkonzepts
+  h) Vergleichendes Gegenüberstellen von unvermeidbaren Beeinträchtigungen und Ausgleich und Ersatz einschließlich Darstellen verbleibender, nicht ausgleichbarer oder ersetzbarer Beeinträchtigungen
+  i) Kostenermittlung nach Vorgaben des Auftraggebers
+  j) Zusammenfassendes Darstellen der Ergebnisse in Text und Karte
+  k) Mitwirken bei der Abstimmung mit der für Naturschutz und Landschaftspflege zuständigen Behörde
+  l) Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
+4. Leistungsphase 4: Abgestimmte Fassung
+  Darstellen des Landschaftspflegerischen Begleitplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.

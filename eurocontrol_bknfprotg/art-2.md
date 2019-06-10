@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Die nach Artikel 3 Satz 2 Buchstabe b und c der Anlage IV zum Übereinkommen („Bestimmungen über das gemeinsame Flugsicherungs-Streckengebührensystem“) gefassten Beschlüsse sind in ihrer jeweils geltenden, in der Bundesrepublik Deutschland angewendeten Fassung vom Bundesministerium für Verkehr und digitale Infrastruktur im Bundesgesetzblatt bekannt zu machen.
+(2)
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Abweichungen von einem Beschluss nach Absatz 1 festzulegen, wenn der Beschluss dieses vorsieht.

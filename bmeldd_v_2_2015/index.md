@@ -1,0 +1,16 @@
+# Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes sowie zur Durchführung des automatisierten Abrufs von Daten durch das Bundesverwaltungsamt gemäß § 3 Absatz 3 des Gesetzes zur Europäischen Bürgerinitiative
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Allgemeines](0001.md)
+- [§ 2 Verfahren der Datenübermittlung](0002.md)
+- [§ 3 Standards der Datenübermittlung](0003.md)
+- [§ 4 Datenübermittlung an das Bundesamt für das Personalmanagement der Bundeswehr](0004.md)
+- [§ 5 (wegefallen)](0005.md)
+- [§ 6 Datenübermittlungen an die Datenstelle der Rentenversicherung](0006.md)
+- [§ 7 Datenübermittlung an das Bundeszentralregister](0007.md)
+- [§ 8 Datenübermittlung an das Kraftfahrt-Bundesamt](0008.md)
+- [§ 9 Datenübermittlung an das Bundeszentralamt für Steuern](0009.md)
+- [§ 10 Datenübermittlung an das Bundesverwaltungsamt](0010.md)
+- [§ 11 Datenübermittlung an das Ausländerzentralregister](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
+- [Schlussformel](schlussformel.md)

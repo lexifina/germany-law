@@ -1,0 +1,16 @@
+# Gesetz über den Ausbau der Schienenwege des Bundes
+
+- [§ 1 Ausbau des Schienenwegenetzes des Bundes](0001.md)
+- [§ 2 Bedarfsplan, Einzelmaßnahmen](0002.md)
+- [§ 3 Gegenstand des Bedarfsplans](0003.md)
+- [§ 4 Überprüfung des Bedarfs](0004.md)
+- [§ 5 Planungszeitraum](0005.md)
+- [§ 6 Unvorhergesehener Bedarf](0006.md)
+- [§ 7 Berichtspflicht](0007.md)
+- [§ 8 Investitionen](0008.md)
+- [§ 9 Finanzierung und Baudurchführung](0009.md)
+- [§ 9a Rückzahlung von Investitionsmitteln des Bundes](0009a.md)
+- [§ 10 Mitfinanzierung durch die Eisenbahn](0010.md)
+- [§ 11 Ersatzinvestitionen](0011.md)
+- [§ 12 Inkrafttreten](0012.md)
+- [Anlage (zu § 1)Bedarfsplan für die Bundesschienenwege](anlage.md)

@@ -1,0 +1,3 @@
+# Art 4 Inkrafttreten
+
+Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.

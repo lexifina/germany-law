@@ -1,0 +1,3 @@
+# Art 98
+
+Das Recht des Zahlungsortes bestimmt die Maßnahmen, die bei Verlust oder Diebstahl eines Wechsels zu ergreifen sind.

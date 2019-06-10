@@ -1,0 +1,6 @@
+# Art 52
+
+(1)
+Die Rückgriffsansprüche des Inhabers gegen die Indossanten, den Aussteller und die anderen Scheckverpflichteten verjähren in sechs Monaten vom Ablauf der Vorlegungsfrist.
+(2)
+Die Rückgriffsansprüche eines Verpflichteten gegen einen anderen Scheckverpflichteten verjähren in sechs Monaten von dem Tage, an dem der Scheck von dem Verpflichteten eingelöst oder ihm gegenüber gerichtlich geltend gemacht worden ist.

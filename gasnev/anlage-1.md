@@ -1,0 +1,59 @@
+# Anlage 1 (zu § 6 Abs. 5 Satz 1)
+
+Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
+
+(Fundstelle des Originaltextes: BGBl. I 2005, 2207 - 2208)
+| Anlagengruppen | Jahre |
+| I. | Allgemeine Anlagen |
+| 1. | Grundstücke | - |
+| 2. | Grundstücksanlagen, Bauten für Transportwesen | 25-35 |
+| 3. | Betriebsgebäude | 50-60 |
+| 4. | Verwaltungsgebäude | 60-70 |
+| 5. | Gleisanlagen, Eisenbahnwagen | 23-27 |
+| 6. | Geschäftsausstattung (ohne EDV, Werkzeuge/Geräte); Vermittlungseinrichtungen | 8-10 |
+| 7. | Werkzeuge/Geräte | 14-18 |
+| 8. | Lagereinrichtung | 14-25 |
+| 9. | EDV-Anlagen |  |
+| 9.1 Hardware | 4-8 |
+| 9.2 Software | 3-5 |
+| 10. | Fahrzeuge |  |
+| 10.1 Leichtfahrzeuge | 5 |
+| 10.2 Schwerfahrzeuge | 8 |
+|  |  |  |  |
+| II. | Gasbehälter | 45-55 |
+|  |  |  |  |
+| III. | Erdgasverdichteranlagen |
+| 1. | Erdgasverdichtung | 25 |
+| 2. | Gasreinigungsanlage | 25 |
+| 3. | Piping und Armaturen | 25 |
+| 4. | Gasmessanlage | 25 |
+| 5. | Sicherheitseinrichtungen | 25 |
+| 6. | Leit- und Energietechnik | 20 |
+| 7. | Nebenanlagen | 25 |
+| 8. | Gebäude, Verkehrswege | siehe I.2 und I.3 |
+|  |  |  |  |
+| IV. | Rohrleitungen/Hausanschlussleitungen |
+| 1. | Stahlleitungen |
+| 1.1 PE ummantelt | 45-55 |
+| 1.2 kathodisch geschützt | 55-65 |
+| 1.3 bituminiert | 45-55 |
+| 2. | Grauguss (> DN 150) | 45-55 |
+| 3. | Duktiler Guss | 45-55 |
+| 4. | Polyethylen (PE-HD) | 45-55 |
+| 5. | Polyvenylchlorid (PVC) | 30-40 |
+| 6. | Armaturen/Armaturenstationen | 45 |
+| 7. | Molchschleusen | 45 |
+| 8. | Sicherheitseinrichtungen | 45 |
+|  |  |  |  |
+| V. | Mess-, Regel- und Zähleranlagen |
+| 1. | Gaszähler der Verteilung | 8-16 |
+| 2. | Hausdruckregler/Zählerregler | 15-25 |
+| 3. | Messeinrichtung | 45 |
+| 4. | Regeleinrichtung | 45 |
+| 5. | Sicherheitseinrichtungen | 20-30 |
+| 6. | Leit- und Energietechnik | 10-30 |
+| 7. | Verdichter in Gasmischanlagen je nach Einsatzdauer | 15-30 |
+| 8. | Nebenanlagen | 15-30 |
+| 9. | Gebäude | 60 |
+|  |  |  |  |
+| VI. | Fernwirkanlagen | 15-20 |

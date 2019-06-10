@@ -1,0 +1,6 @@
+# Art 16
+
+(1)
+Das Indossament muß auf den Scheck oder ein mit dem Scheck verbundenes Blatt (Anhang) gesetzt werden. Es muß von dem Indossanten unterschrieben werden.
+(2)
+Das Indossament braucht den Indossatar nicht zu bezeichnen und kann selbst in der bloßen Unterschrift des Indossanten bestehen (Blankoindossament). In diesem letzteren Falle muß das Indossament, um gültig zu sein, auf die Rückseite des Schecks oder auf den Anhang gesetzt werden.

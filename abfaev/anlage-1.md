@@ -1,0 +1,29 @@
+# Anlage 1 (zu § 4 Absatz 3 Satz 1 und Absatz 5, § 5 Absatz 1 Satz 1 Nummer 2 und Absatz 3 Satz 2 sowie zu § 16 Absatz 2 und 5)Lehrgangsinhalte
+
+Die Lehrgänge sollen Grundkenntnisse über folgende Bereiche vermitteln:
+1. das Kreislaufwirtschaftsgesetz, insbesondere
+  a) den Anwendungsbereich,
+  b) die wichtigsten Begriffsbestimmungen,
+  c) die Abfallhierarchie,
+  d) die Grundpflichten (Vermeiden, Verwerten, Beseitigen),
+  e) die Getrennthaltungspflichten und Vermischungsverbote,
+  f) das Verhältnis des Abfallrechts zum Immissionsschutzrecht,
+  g) das Verhältnis des Abfallrechts zum Chemikalienrecht,
+  h) die Überlassungspflichten,
+  i) das Anzeigeverfahren für gemeinnützige und gewerbliche Sammlungen,
+  j) die Beauftragung Dritter,
+  k) die Register- und Nachweispflichten,
+  l) das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen,
+  m) die Kennzeichnung von Fahrzeugen und
+  n) die Bußgeldvorschriften,
+2. die auf Grund des Kreislaufwirtschaftsgesetzes ergangenen Rechtsverordnungen, insbesondere
+  a) diese Verordnung,
+  b) die Nachweisverordnung,
+  c) die Entsorgungsfachbetriebeverordnung und
+  d) die Abfallverzeichnis-Verordnung,
+3. das Recht der Abfallverbringung,
+4. Art und Beschaffenheit von gefährlichen Abfällen,
+5. schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die von Abfällen ausgehen können, und Maßnahmen zu ihrer Verhinderung oder Beseitigung,
+6. sonstige Vorschriften des Umweltrechts, die im Zusammenhang mit der Sammlung, der Beförderung, dem Handeln oder dem Makeln von Abfällen von Bedeutung sind,
+7. Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht sowie
+8. Vorschriften der betrieblichen Haftung.

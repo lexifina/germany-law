@@ -1,0 +1,167 @@
+# Anlage 1 (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum/zur
+Fachangestellten für Medien- und Informationsdienste
+
+(Fundstelle: BGBl. I 1998, S. 1262 - 1266
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 3 Abs. 1 Nr. 1) |  |
+| 1.1 | Stellung, Rechtsform, Organisation und Aufgaben (§ 3 Abs. 1 Nr. 1.1) | a) | Stellung des Ausbildungsbetriebes im Gesamtsystem der Medien- und Informationsdienste beschreiben |
+| b) | Rechtsform des Ausbildungsbetriebes erläutern |
+| c) | Aufbauorganisation und Aufgaben des Ausbildungsbetriebes darstellen |
+| d) | Aufgaben der für den Ausbildungsbetrieb wichtigen Behörden und Organisationen darstellen und ihre Bedeutung für Arbeitgeber und Arbeitnehmer erläutern |
+| 1.2 | Berufsbildung, arbeits- und sozialrechtliche Grundlagen (§ 3 Abs. 1 Nr. 1.2) | a) | Inhalt des Berufsausbildungsvertrages, insbesondere gegenseitige Rechte und Pflichten, erläutern |
+| b) | die Ausbildungsordnung und den betrieblichen Ausbildungsplan vergleichen |
+| c) | Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungsrechtlicher oder personalvertretungsrechtlicher Organe des Ausbildungsbetriebes erklären |
+| d) | für den Ausbildungsbetrieb wichtige arbeits-, tarif- und sozialrechtliche Bestimmungen darstellen |
+| e) | Notwendigkeit und Möglichkeiten beruflicher Fortbildung sowie deren Nutzen für die persönliche und berufliche Entwicklung aufzeigen |
+| 1.3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Abs. 1 Nr. 1.3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.4 | Umweltschutz (§ 3 Abs. 1 Nr. 1.4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Beschaffung, Erschließung und Bereitstellung (§ 3 Abs. 1 Nr. 2) | a) | Beschaffungsvorgänge bearbeiten |
+| b) | Medien und Informationen formal erfassen |
+| c) | bei der inhaltlichen Erschließung mitwirken |
+| d) | Medien und Informationen bereitstellen |
+| 3 | Kommunikation und Kooperation (§ 3 Abs. 1 Nr. 3) | a) | Kundenbeziehungen unter Berücksichtigung betrieblicher Grundsätze gestalten |
+| b) | Kundenwünsche ermitteln; Kunden informieren und beraten |
+| c) | Problemlösungen für Konfliktsituationen aufzeigen |
+| d) | Aufgaben teamorientiert bearbeiten |
+| e) | fremdsprachige Fachbegriffe anwenden |
+| f) | fremdsprachige Standardtexte situationsgerecht einsetzen |
+| g) | mit internen und externen Partnern kooperieren |
+| 4 | Arbeitsorganisation und Bürowirtschaft (§ 3 Abs. 1 Nr. 4) | a) | die Ablauforganisation des Ausbildungsbetriebes erläutern |
+| b) | Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Berücksichtigung ergonomischer Grundsätze am Beispiel des Ausbildungsbetriebes darstellen |
+| c) | betriebliche Arbeits- und Organisationsmittel einsetzen |
+| d) | Lern- und Arbeitstechniken aufgabenorientiert einsetzen |
+| e) | Posteingang und -ausgang bearbeiten |
+| f) | Ablagesysteme verwalten |
+| g) | Termine planen und überwachen |
+| h) | Material beschaffen und verwalten |
+| i) | Eingangsrechnungen kontrollieren; Ausgangsrechnungen erstellen |
+| k) | bei der Kassenführung mitwirken |
+| l) | Statistiken führen |
+| 5 | Informations- und Kommunikationssysteme (§ 3 Abs. 1 Nr. 5) | a) | Auswirkungen von Informations- und Kommunikationstechniken auf Arbeitsorganisation und Arbeitsanforderungen an Beispielen des Ausbildungsbetriebes aufzeigen |
+| b) | Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen lösen |
+| c) | Datennetze und Kommunikationssysteme nutzen |
+| d) | Handbücher, Dokumentationen und andere Hilfsmittel nutzen |
+| e) | Vorschriften zum Datenschutz anwenden |
+| f) | Vorschriften zur Datensicherheit anwenden |
+| 6 | Öffentlichkeitsarbeit und Werbung (§ 3 Abs. 1 Nr. 6) | a) | Notwendigkeit der Öffentlichkeitsarbeit für den Ausbildungsbetrieb begründen |
+| b) | bei Werbemaßnahmen und Veranstaltungen mitwirken |
+| c) | Medien und Informationen kundenorientiert präsentieren |
+| Abschnitt II: Fertigkeiten und Kenntnisse in den Fachrichtungen |
+| 1. Fachrichtung Archiv |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1.1 | Übernahme von Schriftgut und anderen Informationsträgern (§ 3 Abs. 2 Nr. 1.1) | a) | Schriftgut und andere Informationsträger nach betrieblichen Vorgaben sichten und bewerten |
+| b) | Akten aussondern |
+| c) | zwischenarchivische Bestände bearbeiten |
+| d) | Übernahme von Schriftgut und anderen Informationsträgern durchführen |
+| 1.2 | Erschließung (§ 3 Abs. 2 Nr. 1.2) | a) | Schriftgut und andere Informationsträger nach betrieblichen Vorgaben ordnen und verzeichnen |
+| b) | Aktentitel bilden |
+| c) | Findhilfsmittel technisch gestalten |
+| d) | Personen-, Orts- und Sachregister erstellen |
+| e) | Schriftkunde anwenden |
+| 1.3 | Technische Bearbeitung und Aufbewahrung (§ 3 Abs. 2 Nr. 1.3) | a) | Archiv- und Sammlungsgut signieren, verpacken und lagern |
+| b) | Bestandsrevision durchführen |
+| c) | Archiv- und Sammlungsgut ausheben und einordnen |
+| d) | Reprographien erstellen |
+| 1.4 | Informationsvermittlung und Benutzungsdienst (§ 3 Abs. 2 Nr. 1.4) | a) | Auskünfte erteilen |
+| b) | Benutzungsdienst organisieren |
+| c) | Recherchen durchführen |
+| d) | Ausleihe durchführen und überwachen |
+| e) | Benutzergruppen betreuen |
+| 2. Fachrichtung Bibliothek |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 2.1 | Erwerbung (§ 3 Abs. 2 Nr. 2.1) | a) | Hilfsmittel zum Bestandsaufbau einsetzen |
+| b) | Publikationsformen identifizieren und bearbeiten |
+| c) | Erwerbung durchführen |
+| d) | Medien inventarisieren und Rechnungen bearbeiten |
+| 2.2 | Erschließung (§ 3 Abs. 2 Nr. 2.2) | a) | Regelwerke zur formalen Erschließung anwenden |
+| b) | Fremdleistungen für die Erschließung nutzen |
+| c) | Methoden und Verfahren der inhaltlichen Erschließung anwenden |
+| d) | Kataloge pflegen |
+| 2.3 | Bearbeitung von Medien, Bestandspflege (§ 3 Abs. 2 Nr. 2.3) | a) | Medien bibliothekstechnisch ausstatten |
+| b) | Buchbinderaufträge erteilen und überwachen |
+| c) | Bestand ordnen |
+| d) | Revisionen durchführen |
+| 2.4 | Benutzungsdienst und Informationsvermittlung (§ 3 Abs. 2 Nr. 2.4) | a) | Benutzerdaten verwalten |
+| b) | Ausleihen, Rückgaben, Verlängerungen, Mahnungen und Vorbestellungen bearbeiten |
+| c) | Benutzungsordnung anwenden |
+| d) | Entgeltordnung anwenden und Abrechnungen durchführen |
+| e) | Medien über unterschiedliche Liefersysteme bereitstellen |
+| f) | Kunden in die Benutzung der Bibliothek einführen |
+| g) | Kunden über das Dienstleistungs- und Medienangebot beraten |
+| h) | auf der Grundlage von Kundenanfragen recherchieren |
+| i) | Auskünfte erteilen |
+| 3. Fachrichtung Information und Dokumentation |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 3.1 | Beschaffung (§ 3 Abs. 2 Nr. 3.1) | a) | Informationsquellen für die Beschaffung von Medien und Daten nutzen |
+| b) | Beschaffung nach betrieblichen Vorgaben durchführen |
+| c) | Medien und Daten sichten und für die Weiterverarbeitung vorbereiten |
+| 3.2 | Erschließung (§ 3 Abs. 2 Nr. 3.2) | a) | Regeln für die formale Erfassung und Strukturierung von Medien und Daten anwenden |
+| b) | Fremddaten für interne Informationsangebote konvertieren |
+| c) | Methoden und Verfahren zur inhaltlichen Erschließung anwenden |
+| 3.3 | Verwaltung und Pflege von Datenspeichern (§ 3 Abs. 2 Nr. 3.3) | a) | Informationsspeicher und Kataloge nach betrieblichen Qualitätskriterien verwalten |
+| b) | am Aufbau von Datenbanken mitwirken |
+| c) | Datenbanken kontrollieren und aktualisieren |
+| 3.4 | Informationsvermittlung und Informationsdienstleistungen (§ 3 Abs. 2 Nr. 3.4) | a) | Kunden über Dienstleistungsangebote beraten |
+| b) | in Datenbanken und Datennetzen recherchieren |
+| c) | Informationen und Medien für Kunden mittels unterschiedlicher Liefersysteme beschaffen |
+| d) | Informationen aufbereiten |
+| e) | Medien und Daten vervielfältigen und reprographieren |
+| f) | Informationsdienste zusammenstellen und technisch bearbeiten |
+| 3.5 | Marketing (§ 3 Abs. 2 Nr. 3.5) | a) | Neukunden akquirieren |
+| b) | Standardangebote erstellen |
+| c) | Methoden des Marketings anwenden |
+| 4. Fachrichtung Bildagentur |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 4.1 | Beschaffung (§ 3 Abs. 2 Nr. 4.1) | a) | Beschaffung nach betrieblichen Vorgaben durchführen |
+| b) | Bildmaterial sichten und bewerten |
+| c) | Daten und Fakten zu Bildern beschaffen |
+| d) | Kundenwünsche auswerten und Bestandslücken ermitteln |
+| e) | Aufträge an Fotografen entwerfen |
+| 4.2 | Erschließung (§ 3 Abs. 2 Nr. 4.2) | a) | Bildmaterial agenturgerecht ausstatten und einordnen |
+| b) | Bildbetextung entwerfen |
+| c) | Methoden und Verfahren zur sachlichen Erschließung anwenden |
+| 4.3 | Aufbewahrung und technische Bearbeitung (§ 3 Abs. 2 Nr. 4.3) | a) | Bestand pflegen, kontrollieren und nach betrieblichen Vorgaben aktualisieren |
+| b) | Bilddateien erstellen |
+| c) | Erhaltungsmaßnahmen durchführen |
+| 4.4 | Bildvermittlung (§ 3 Abs. 2 Nr. 4.4) | a) | Kunden über Dienstleistungsangebote beraten |
+| b) | Bildbestellungen aufnehmen |
+| c) | Kalkulationsschemata für Honorarberechnungen anwenden |
+| d) | Bildauswahl zusammenstellen |
+| e) | Kundendaten verwalten |
+| f) | Leihfristen, Rückläufe und Zahlungseingänge kontrollieren |
+| g) | vertragsgemäße Bildnutzung kontrollieren |
+| 4.5 | Marketing (§ 3 Abs. 2 Nr. 4.5) | a) | Neukunden akquirieren |
+| b) | Angebote erstellen |
+| c) | Methoden des Marketings anwenden |
+| 5. Fachrichtung Medizinische Dokumentation |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 5.1 | Sammlung, Erfassung und Strukturierung medizinischer Informationen (§ 3 Abs. 2 Nr. 5.1) | a) | medizinische Informationen nach betrieblichen Vorgaben sammeln und erfassen |
+| b) | Medien und Daten sichten, bewerten und für die Weiterbearbeitung vorbereiten |
+| c) | Erfassungsschemata, Erhebungsbögen und Datenbankstrukturen entwerfen |
+| 5.2 | Erschließung und Verschlüsselung (§ 3 Abs. 2 Nr. 5.2) | a) | medizinische Fachsprache anwenden, insbesondere aus Anatomie, Physiologie, Pathologie und Pharmakologie |
+| b) | Regelwerke, Methoden und Verfahren für die inhaltliche Erschließung medizinischer Daten anwenden |
+| c) | Findhilfsmittel technisch gestalten, Suchstrategien umsetzen |
+| d) | medizinische Informationen betriebsbezogen verschlüsseln |
+| 5.3 | Verwaltung und Pflege von Datenbeständen (§ 3 Abs. 2 Nr. 5.3) | a) | Datenbestände nach betrieblichen Qualitätskriterien prüfen, ergänzen und aktualisieren |
+| b) | am Aufbau von Datenbanken mitwirken |
+| c) | Datenbestände zusammenführen |
+| 5.4 | Statistik und Informationsdienstleistungen (§ 3 Abs. 2 Nr. 5.4) | a) | Informationen recherchieren und aufbereiten |
+| b) | Daten selektieren und statistisch auswerten |
+| c) | Ergebnisse darstellen und präsentieren |

@@ -1,0 +1,47 @@
+# Anlage 2 (zu § 5 Absatz 2 und 4)Ausbildungs- und Prüfbescheinigungen für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h
+
+a) Ausbildungsbescheinigung für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h
+  |  |  |  |
+  |  | Ausbildungsbescheinigung |  |
+  |  | über die Teilnahme an einer Ausbildung |  |
+  |  | gemäß § 5 Absatz 2 der Fahrerlaubnis-Verordnung. |  |
+  |  | Name .................... | Vornamen .................... |  |
+  |  | Geburtsdatum .................... |  |  |  |  |
+  |  | Anschrift .................... |  |
+  |  | hat an einem Ausbildungskurs entsprechend den Mindestanforderungen der Anlage 1 zur Fahrerlaubnis-Verordnung teilgenommen. Der Kurs hat mindestens sechs Doppelstunden (zu je 90 Minuten) theoretische Ausbildung und mindestens eine Doppelstunde praktische Ausbildung im Einzelunterricht bzw. zwei Doppelstunden praktische Ausbildung im Gruppenunterricht*) umfasst. |  |
+  |  | Stempel der Fahrschule/Schule |  |  | Datum .................... |  |
+  |  | .................... |  | .................... |  |
+  |  | (Unterschrift des Fahrlehrers/Lehrers) |  | (Unterschrift des Bewerbers) |  |
+  |  | .................... |  |  |  |  |
+  |  | (Unterschrift des Fahrschulinhabers oder verantwortlichen Leiters des Ausbildungsbetriebes) |  |
+  |  | *) Nichtzutreffendes streichen |  |  |  |  |
+  |  |  |  |
+b) Prüfbescheinigung zum Führen von Mofas und zwei- und dreirädrigen Kraftfahrzeugen bis 25 km/h
+  Farbe: dunkelgrau; Breite 140 mm, Höhe 105 mm, einmal faltbar auf Format DIN A7; Typendruck
+  |  | (Vordere Außenseite) |  | (Hintere Außenseite) |  |  |
+  |  |  |  |  |  |  |
+  |  |  |  | wird hiermit gemäß § 5 Absatz 4 der Fahrerlaubnis-Verordnung bescheinigt, dass er/sie die zum Führen von Mofas und von zwei- und dreirädrigen Kraftfahrzeugen bis 25 km/h erforderlichen Kenntnisse der Verkehrsvorschriften nachgewiesen hat und mit den Gefahren des Straßenverkehrs und den zu ihrer Abwehr erforderlichen Verhaltensweisen vertraut ist. |  |
+  |  | Prüfbescheinigung |  |  |
+  |  | zum Führen von |  | ...................., | den .................... |  |
+  |  | Mofas und zwei- und dreirädrigen |  | .................... |  |
+  |  | Kraftfahrzeugen bis 25 km/h |  | .................... |  |
+  |  |  |  | Bescheinigende Stelle |  |  |
+  |  |  |  | Stempel | .................... |  |
+  |  |  |  |  | Unterschrift |  |
+  |  |  |  |  |  |  |
+  |  |  |
+  |  | (Linke Innenseite) |  | (Rechte Innenseite) |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  |  |  |  |  |  |  |
+  |  | Familienname |  |  |  |  |  |
+  |  | .................... |  |  |  |  |  |
+  |  | Vornamen |  |  |  |  |  |
+  |  | .................... |  |  | Lichtbild |  |  |
+  |  | Geburtsdatum |  |  |  |  |  |
+  |  | .................... |  |  |  |  |  |
+  |  | Anschrift |  |  |  |  |  |
+  |  | .................... |  | Stempel |  |  |
+  |  | .................... |  |  |  |  |  |
+  |  |  |  |  | .................... |  |  |
+  |  |  |  |  | Unterschrift |  |  |
+  |  |  |  |  |  |  |  |

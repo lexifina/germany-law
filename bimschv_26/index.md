@@ -1,0 +1,17 @@
+# Sechsundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Hochfrequenzanlagen](0002.md)
+- [§ 3 Niederfrequenzanlagen](0003.md)
+- [§ 3a Gleichstromanlagen](0003a.md)
+- [§ 4 Anforderungen zur Vorsorge](0004.md)
+- [§ 5 Ermittlung der Feldstärke- und Flussdichtewerte](0005.md)
+- [§ 6 Weitergehende Anforderungen](0006.md)
+- [§ 7 Anzeige](0007.md)
+- [§ 7a Beteiligung der Kommunen](0007a.md)
+- [§ 8 Zulassung von Ausnahmen](0008.md)
+- [§ 9 Ordnungswidrigkeiten](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [Anhang 1 (zu §§ 2, 3, 3a, 10)](anhang-1.md)
+- [Anhang 2 (zu §§ 2, 3)Berücksichtigung von Immissionsbeiträgen anderer Anlagen](anhang-2.md)
+- [Anhang 3 (zu § 2)](anhang-3.md)

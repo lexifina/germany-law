@@ -1,0 +1,21 @@
+# Anlage 2 (zu den §§ 5, 10, 14, 15)Faktoren für ein potenziell höheres Risiko
+
+Die Liste ist eine nicht erschöpfende Aufzählung von Faktoren und möglichen Anzeichen für ein potenziell höheres Risiko nach § 15:
+1. Faktoren bezüglich des Kundenrisikos:
+  a) außergewöhnliche Umstände der Geschäftsbeziehung,
+  b) Kunden, die in geografischen Gebieten mit hohem Risiko gemäß Nummer 3 ansässig sind,
+  c) juristische Personen oder Rechtsvereinbarungen, die als Instrumente für die private Vermögensverwaltung dienen,
+  d) Unternehmen mit nominellen Anteilseignern oder als Inhaberpapiere emittierten Aktien,
+  e) bargeldintensive Unternehmen,
+  f) angesichts der Art der Geschäftstätigkeit als ungewöhnlich oder übermäßig kompliziert erscheinende Eigentumsstruktur des Unternehmens;
+2. Faktoren bezüglich des Produkt-, Dienstleistungs-, Transaktions- oder Vertriebskanalrisikos:
+  a) Betreuung vermögender Privatkunden,
+  b) Produkte oder Transaktionen, die Anonymität begünstigen könnten,
+  c) Geschäftsbeziehungen oder Transaktionen ohne persönliche Kontakte und ohne bestimmte Sicherungsmaßnahmen wie z. B. elektronische Unterschriften,
+  d) Eingang von Zahlungen unbekannter oder nicht verbundener Dritter,
+  e) neue Produkte und neue Geschäftsmodelle einschließlich neuer Vertriebsmechanismen sowie Nutzung neuer oder in der Entwicklung begriffener Technologien für neue oder bereits bestehende Produkte;
+3. Faktoren bezüglich des geografischen Risikos:
+  a) unbeschadet des Artikels 9 der Richtlinie (EU) 2015/849 ermittelte Länder, deren Finanzsysteme laut glaubwürdigen Quellen (z. B. gegenseitige Evaluierungen, detaillierte Bewertungsberichte oder veröffentlichte Follow-up-Berichte) nicht über hinreichende Systeme zur Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und Terrorismusfinanzierung verfügen,
+  b) Drittstaaten, in denen Korruption oder andere kriminelle Tätigkeiten laut glaubwürdigen Quellen signifikant stark ausgeprägt sind,
+  c) Staaten, gegen die beispielsweise die Europäische Union oder die Vereinten Nationen Sanktionen, Embargos oder ähnliche Maßnahmen verhängt hat oder haben,
+  d) Staaten, die terroristische Aktivitäten finanziell oder anderweitig unterstützen oder in denen bekannte terroristische Organisationen aktiv sind.

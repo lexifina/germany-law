@@ -1,0 +1,3 @@
+# I.
+
+Nach § 126 Absatz 3 des Bundesbeamtengesetzes wird der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen die Befugnis übertragen, über Widersprüche von Beschäftigten des Bundeskartellamtes gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs in Angelegenheiten nach dem Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten und in Angelegenheiten nach der Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland zu entscheiden, soweit sie zum Erlass des Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.

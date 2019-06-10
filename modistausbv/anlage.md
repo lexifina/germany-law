@@ -1,0 +1,102 @@
+# Anlage (zu § 6)Ausbildungsrahmenplan für die Berufsausbildung zum Modisten/zur Modistin
+
+| I. Berufliche Grundbildung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im 1. Ausbildungsjahr |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 5 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 5 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 5 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 5 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Planen und Vorbereiten von Arbeitsabläufen (§ 5 Nr. 5) | a) | Arbeitsaufträge annehmen und auf Umsetzbarkeit prüfen | 4 |
+| b) | Informationen und Bezugsquellen nutzen, Produkteigenschaften von Werk- und Hilfsstoffen vergleichen |
+| c) | Arbeitsplatz ergonomisch vorbereiten, Werk- und Hilfsstoffe, Arbeitsmittel und -geräte auswählen und bereitstellen |
+| d) | Arbeitsabläufe dokumentieren |
+| e) | Aufgaben im Team planen und bearbeiten, Ergebnisse der Zusammenarbeit im Team auswerten |
+| 6 | Umgang mit Informations- und Kommunikationstechniken (§ 5 Nr. 6) | a) | Geräte zur Eingabe, Übertragung und Ausgabe von Daten nutzen | 3 |
+| b) | Organisations- und Bürokommunikationsmittel anwenden |
+| c) | Informationen beschaffen, auswerten und nutzen |
+| 7 | Umgang mit Kunden (§ 5 Nr. 7) | a) | bei Kundengesprächen, insbesondere bei Beratung, Verkauf und Reklamation, mitwirken | 6 |
+| b) | Kunden über Leistungen des Betriebes informieren |
+| c) | Kopfweite ermitteln |
+| 8 | Handhaben und Warten von Arbeitsgeräten, Werkzeugen und Maschinen (§ 5 Nr. 8) | a) | Arbeitsgeräte, Werkzeuge und Maschinen, insbesondere nach Material und Arbeitstechnik, auswählen | 6 |
+| b) | Arbeitsgeräte und Werkzeuge vorbereiten und einsetzen |
+| c) | Maschinen einrichten, Zusatzeinrichtungen anbringen, Maschinen einsetzen |
+| d) | Arbeitsgeräte, Werkzeuge und Maschinen pflegen, Funktionen prüfen |
+| e) | Störungen erkennen, beheben, Störungsbeseitigung veranlassen |
+| 9 | Entwickeln und Gestalten von Modellentwürfen (§ 5 Nr. 9) | a) | Anregungen aufnehmen, auswerten und umsetzen | 5 |
+| b) | Skizzen und Zeichnungen erstellen |
+| c) | Entwürfe, insbesondere von Garnituren mit unterschiedlichen Materialien, erarbeiten |
+| 10 | Herstellen von Filz- und Strohhüten (§ 5 Nr. 10) | a) | Filzstumpen appretieren und mit Dampf behandeln, Strohrohlinge anfeuchten | 16 |
+| b) | Stumpen und Strohrohlinge zur Formgebung über Hutformen ziehen und trocknen, Strohhüte appretieren |
+| c) | Ränder bearbeiten, insbesondere zuschneiden und Blenden gestalten |
+| d) | Oberflächen bearbeiten |
+| e) | Gefährdungen durch lösemittelhaltige Stoffe und Gefahr von Verbrennungen erkennen, Schutzmaßnahmen ergreifen |
+| 11 | Herstellen von Kopfbedeckungen aus anderen Materialien (§ 5 Nr. 11) | a) | Schnittteile zuordnen, Grundschnitte bestimmen | 6 |
+| b) | Schnittschablonen erstellen und handhaben |
+| c) | Werk- und Hilfsstoffe aus textilen Materialien nach Schnittmuster zuschneiden |
+| d) | Einlagestoffe befestigen |
+| e) | Schnittteile zusammenfügen |
+| f) | Kopfbedeckungen blocken |
+| g) | Vollfutter herstellen und einarbeiten |
+| 12 | Ausgestalten von Kopfbedeckungen (§ 5 Nr. 12) | a) | Futterbänder einnähen | 2 |
+| b) | Standardgarnituren, insbesondere Bandgarnituren, befestigen |
+| 13 | Durchführen von qualitätssichernden Maßnahmen (§ 5 Nr. 16) | a) | Ziele, Aufgaben und Bedeutung der betrieblichen Qualitätssicherung unterscheiden | 4 |
+| b) | Prüftechniken anwenden, Prüfergebnisse bewerten und dokumentieren |
+| c) | Werk- und Hilfsstoffe sowie Kopfbedeckungen unter Beachtung ihrer Eigenschaften lagern |
+| d) | Kopfbedeckungen für den Transport vorbereiten |
+| e) | Auswirkungen von Materialfehlern auf Verarbeitung und Produktqualität beurteilen |
+| f) | Endkontrolle anhand des Arbeitsauftrages durchführen, Ergebnisse dokumentieren |
+II. Berufliche Fachbildung
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im 2. und 3. Ausbildungsjahr |
+| 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Planen und Vorbereiten von Arbeitsabläufen (§ 5 Nr. 5) | a) | Arbeitsschritte unter Berücksichtigung betrieblicher Abläufe und Auftragsunterlagen festlegen, Liefertermine beachten | 3 |  |  |
+| b) | Werk- und Hilfsstoffe nach Einsatzmöglichkeiten unterscheiden, Arbeitstechnik und -material festlegen |
+| c) | Qualität und Preise von Werk- und Hilfsstoffen vergleichen; Produktinformationen beurteilen |  |  | 5 |
+| d) | Aufgaben zeit- und kostenorientiert durchführen |
+| 2 | Umgang mit Informations- und Kommunikationstechniken (§ 5 Nr. 6) | a) | Daten beschaffen, auswerten, bearbeiten und weiterleiten | 2 |  |  |
+| b) | Daten pflegen und sichern, Vorschriften des Datenschutzes anwenden |
+| 3 | Umgang mit Kunden (§ 5 Nr. 7) | a) | Termine mit Kunden abstimmen | 3 |  |  |
+| b) | Entwürfe und Modelle präsentieren |
+| c) | Verkaufsflächen dekorieren und gestalten |
+| d) | Kundengespräche führen, insbesondere Kundenwünsche ermitteln, mit dem betrieblichen Leistungsangebot vergleichen und daraus Vorgehensweisen für die Kundenberatung ableiten |  |  | 5 |
+| e) | Reklamationen aufnehmen und bearbeiten |
+| 4 | Entwickeln und Gestalten von Modellentwürfen (§ 5 Nr. 9) | a) | Umsetzbarkeit von Entwürfen prüfen, Mustervorlagen erstellen | 4 |  |  |
+| b) | Entwürfe unter Berücksichtigung der Farben- und Formenlehre sowie der Materialien erarbeiten |
+| c) | Entwürfe nach modischen, historischen, funktionalen und technologischen Gesichtspunkten gestalten und ausarbeiten |  |  | 12 |
+| d) | Entwürfe kundenbezogen ausarbeiten |
+| 5 | Herstellen von Filz- und Strohhüten (§ 5 Nr. 10) | a) | Oberflächen veredeln |  | 7 |  |
+| b) | Ränder von Hand ziehen |
+| 6 | Herstellen von Kopfbedeckungen aus anderen Materialien (§ 5 Nr. 11) | a) | Materialbeschaffenheit beim Legen und Schneiden, insbesondere Muster, Fadenlauf und Strichrichtung, berücksichtigen | 3 |  |  |
+| b) | Materialien miteinander kombinieren |
+| c) | Schnitte abnehmen, Grundschnitte herstellen |  |  | 10 |
+| d) | Schnittmuster abändern |
+| e) | Pelze und Leder zuschneiden und verarbeiten |
+| 7 | Ausgestalten von Kopfbedeckungen (§ 5 Nr. 12) | a) | Garnituren fertigen und befestigen | 6 |  |  |
+| b) | Hüte in Form bügeln, insbesondere Fassonbügeln sowie mit Knicken und Vertiefungen |  | 10 |  |
+| c) | Gestaltungstechniken, insbesondere Nähen, Kleben, Schneiden und Drapieren, anwenden |
+| 8 | Herstellen von Unterformen (§ 5 Nr. 13) | a) | Unterformen, insbesondere aus Vliesstoffen, Mull, Etamin sowie Steiftüll und Draht, herstellen und beziehen | 3 |  |  |
+| b) | Unterformen nach Verwendungszweck appretieren |
+| 9 | Kopieren von Kopfbedeckungen (§ 5 Nr. 14) | a) | Maße anhand von Bild- und Modellvorlagen |  | 4 |  |
+| b) | Kopfbedeckungen nach Bildvorlagen, insbesondere nach gestalterischen und technischen Gesichtspunkten, anfertigen |  |  | 14 |
+| c) | Kopfbedeckungen nach Modellvorlagen anfertigen |
+| 10 | Aufarbeiten und Ändern von Kopfbedeckungen (§ 5 Nr. 15) | a) | Kopfbedeckungen reinigen, auffrischen und färben | 2 |  |  |
+| b) | schadhafte Stellen ausbessern |
+| c) | Kopfbedeckungen, insbesondere nach modischen Gesichtspunkten, ändern und umarbeiten |  |  | 6 |
+| 11 | Durchführen von qualitätssichernden Maßnahmen (§ 5 Nr. 16) | a) | Arbeitsabläufe auf Einhaltung der Vorgaben kontrollieren, Qualitätsmerkmale feststellen sowie Qualitätsausfall prüfen |  | 5 |  |
+| b) | Ursachen von Qualitätsabweichungen feststellen, Korrekturen und Vorbeugungsmaßnahmen durchführen |
+| c) | zur kontinuierlichen Verbesserung von Arbeitsabläufen beitragen |

@@ -1,0 +1,3 @@
+# Art 27
+
+Die Anlagen 1 bis 24 sind Bestandteile dieses Staatsvertrages. Sie werden bei dem Bayerischen Landesvermessungsamt in München und dem Landesvermessungsamt Baden-Württemberg in Stuttgart sowie den Vermessungsämtern Dillingen a. d. Donau, Günzburg, Immenstadt i. Allgäu, Kempten (Allgäu), Nördlingen, Rothenburg ob der Tauber und Würzburg des Freistaates Bayern und bei den Staatlichen Vermessungsämtern Aalen, Friedrichshafen, Heidenheim, Ravensburg, Schwäbisch Hall, Tauberbischofsheim und Ulm des Landes Baden-Württemberg aufbewahrt und können dort von jedermann während der Sprechzeiten kostenlos eingesehen werden.

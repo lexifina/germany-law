@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Auf Grund
+- des § 6 Abs. 1 Nr. 1, 1a Buchstabe a und Nr. 3 Buchstabe a in Verbindung mit Abs. 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, Absatz 1 Nr. 1 geändert und Nummer 1a eingefügt durch Artikel 1 Nr. 3 des Gesetzes vom 13. Mai 1986 (BGBl. I S. 700) und Absatz 3 eingefügt durch § 70 Abs. 1 Nr. 3 des Gesetzes vom 15. März 1974 (BGBl. I S. 721), verordnet das Bundesministerium für Verkehr,
+- des § 6 Abs. 1 Nr. 3 Buchstabe d und Nr. 5a jeweils in Verbindung mit Abs. 2a und 3 des Straßenverkehrsgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9231-1, veröffentlichten bereinigten Fassung, zuletzt geändert gemäß Artikel 22 der Zuständigkeitsanpassungs-Verordnung vom 26. November 1986 (BGBl. I S. 2089) sowie Nummer 5a und Absatz 3 eingefügt durch § 70 Abs. 1 des Gesetzes vom 15. März 1974 (BGBl. I S. 721), verordnen das Bundesministerium für Verkehr und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach Anhörung der zuständigen obersten Landesbehörden:

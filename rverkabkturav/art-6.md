@@ -1,0 +1,6 @@
+# Art 6
+
+(1)
+Für die gerichtlichen Entscheidungen, die über den Betrag der Gerichtskosten nach Artikel 3 Abs. 3 des Abkommens zur Herbeiführung der Vollstreckbarerklärung in der Türkei zu erlassen sind, ist das Gericht der Instanz zuständig. Die Entscheidungen ergehen auf Antrag der für die Beitreibung der Gerichtskosten zuständigen Behörde.
+(2)
+Die Entscheidung unterliegt der Beschwerde nach den §§ 567 bis 577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne Mitwirkung eines Rechtsanwalts eingelegt werden.

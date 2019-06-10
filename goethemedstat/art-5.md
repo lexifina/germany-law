@@ -1,0 +1,3 @@
+# Art 5
+
+Über die Verleihung der Goethe-Medaille stellt die Präsidentin oder der Präsident des Goethe-Instituts Inter Nationes e. V. eine Urkunde aus. Medaille und Urkunde werden in der Bundesrepublik durch die Präsidentin oder den Präsidenten des Goethe-Instituts Inter Nationes e. V., im Ausland durch den Leiter der zuständigen diplomatischen Vertretung in Anwesenheit des Vertreters der Zweigstelle des Goethe-Instituts Inter Nationes e. V. überreicht. Medaille und Urkunde können im Einvernehmen zwischen dem Auswärtigen Amt und dem Goethe-Institut Inter Nationes e. V. gegebenenfalls auch vom Leiter der Zweigstelle überreicht werden.

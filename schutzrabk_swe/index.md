@@ -1,0 +1,2 @@
+# Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich
+Schweden über die Wiederherstellung gewerblicher Schutzrechte

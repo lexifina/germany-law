@@ -1,0 +1,10 @@
+# Art 2
+
+(1)
+Aufwendungen, die auf Seiten der Bundesrepublik Deutschland bei Hilfeleistungen in der Tschechischen Republik entstehen, trägt
+1. der Bund, soweit das Bundesministerium des Innern Hilfe zugesagt hat,
+2. das jeweilige Land, soweit das Innenministerium des Landes Hilfe zugesagt hat; landesrechtliche Bestimmungen über die Kostentragung innerhalb des Landes bleiben unberührt.
+(2)
+Absatz 1 gilt für Artikel 3 Abs. 3 des Vertrags entsprechend.
+(3)
+Bei Aufwendungen, die auf Seiten der Bundesrepublik Deutschland in den Fällen des Artikels 9 Abs. 2 bis 4 des Vertrags entstehen, richtet sich die Kostenträgerschaft danach, ob die jeweilige Hilfsmaßnahme in den Aufgabenbereich des Bundes oder eines Landes fällt.

@@ -1,0 +1,15 @@
+# Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
+
+- [§ 1 Name, Rechtsform und Sitz der Stiftung](0001.md)
+- [§ 2 Stiftungszweck](0002.md)
+- [§ 3 Konvent der Baukultur](0003.md)
+- [§ 4 Stiftungsvermögen](0004.md)
+- [§ 5 Organe der Stiftung](0005.md)
+- [§ 6 Vorstand](0006.md)
+- [§ 7 Stiftungsrat](0007.md)
+- [§ 8 Beirat](0008.md)
+- [§ 9 Satzung](0009.md)
+- [§ 10 Aufsicht, Haushalt, Rechnungsprüfung](0010.md)
+- [§ 11 Arbeitnehmerinnen und Arbeitnehmer](0011.md)
+- [§ 12 Übergangsregelung](0012.md)
+- [§ 13 Inkrafttreten](0013.md)

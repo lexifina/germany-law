@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 56 Absatz 3 des Pflanzenschutzgesetzes vom 6. Februar 2012 (BGBl. I S. 148, 1281) in Verbindung mit § 23 Absatz 2 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154), von denen § 56 Absatz 3 des Pflanzenschutzgesetzes durch Artikel 2 Absatz 111 Nummer 3 Buchstabe d des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:

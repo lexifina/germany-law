@@ -1,0 +1,15 @@
+# Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Notwendigkeit der Hinterlegung; biologisches Material](0001.md)
+- [§ 2 Anerkannte Hinterlegungsstellen](0002.md)
+- [§ 3 Nachreichen des Aktenzeichens der Hinterlegung](0003.md)
+- [§ 4 Freigabeerklärung](0004.md)
+- [§ 5 Zugang zu biologischem Material](0005.md)
+- [§ 6 Verpflichtungserklärung](0006.md)
+- [§ 7 Aufbewahrungsdauer](0007.md)
+- [§ 8 Hinterlegung nach Maßgabe des Budapester Vertrags](0008.md)
+- [§ 9 Erneute Hinterlegung](0009.md)
+- [§ 10 Zusammenarbeit mit dem Deutschen Patent- und Markenamt](0010.md)
+- [§ 11 Übergangsregelung](0011.md)
+- [§ 12 Inkrafttreten](0012.md)

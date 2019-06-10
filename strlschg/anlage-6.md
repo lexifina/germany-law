@@ -1,0 +1,12 @@
+# Anlage 6 (zu § 99)Wesentliche Elemente der besonderen Notfallpläne des Bundes
+
+1. Eine Darstellung der im Anwendungsbereich des besonderen Notfallplans anwendbaren Rechtsgrundlagen, Aufgaben und Zuständigkeiten des Bundes und der Länder, ihrer für Maßnahmen der Notfallreaktion zuständigen Behörden sowie der bei der Notfallreaktion mitwirkenden Behörden sowie der bei der Notfallreaktion mitwirkenden privaten und öffentlich-rechtlichen Organisationen und Personen;
+2. eine Darstellung
+  a) der im Anwendungsbereich des besonderen Notfallplans anwendbaren Verfahren und Vorkehrungen für den Informationsaustausch, die Zusammenarbeit, Hilfeleistung und Koordinierung bei der Notfallreaktion auf Bundesebene, zwischen Bund und Ländern, mit Organen, Dienststellen, Einrichtungen und anderen Mitgliedstaaten der Europäischen Union, mit Drittstaaten und mit internationalen Organisationen und
+  b) der Gremien und Einrichtungen, die für diesen Informationsaustausch und diese Zusammenarbeit, Hilfeleistung und Koordinierung zuständig sind;
+3. Angabe und Erläuterung der Schnittstellen zu
+  a) anderen Verfahren und Vorkehrungen für den Informationsaustausch, die Zusammenarbeit, Hilfeleistung und Koordinierung bei der Notfallreaktion, die in den weiteren Notfallplänen des Bundes und der Länder aufgeführt sind,
+  b) anderen Gremien und Einrichtungen, die auch für den Informationsaustausch und die Zusammenarbeit, Hilfeleistung und Koordinierung bei der Notfallreaktion zuständig sind;
+4. zur Konkretisierung, Ergänzung und Anwendung der im allgemeinen Notfallplan des Bundes festgelegten optimierten Schutzstrategien unter anderem eine Darstellung
+  a) der im Anwendungsbereich des besonderen Notfallplans in Betracht kommenden prioritären und der sonstigen Maßnahmen zum Schutz der Bevölkerung und der Einsatzkräfte sowie
+  b) der Vorkehrungen und Kriterien für eine bereichsspezifische Konkretisierung, Anwendung und Anpassung der im allgemeinen Notfallplan angegebenen Auslösekriterien und Grenz- oder Richtwerte unter Berücksichtigung der für die jeweilige Schutzmaßnahme geltenden Rechtsvorschriften und der tatsächlichen Merkmale des Notfalls, soweit eine solche Darstellung im Rahmen der Notfallplanung im Voraus möglich ist.

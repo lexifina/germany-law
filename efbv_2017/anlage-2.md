@@ -1,0 +1,75 @@
+# Anlage 2 (zu § 23 Satz 2)Mindestinhalt von Überwachungsberichten
+
+1. Angaben zur Zertifizierungsorganisation
+  a) Name und Anschrift der technischen Überwachungsorganisation oder der Entsorgergemeinschaft
+  b) Name, Telefonnummer und E-Mail-Adresse eines Ansprechpartners für die Zertifizierung des Betriebes
+2. Angaben zu dem oder den prüfenden Sachverständigen
+  a) Name, Anschrift, Telefonnummer und E-Mail-Adresse
+  b) Zeitraum der aufeinanderfolgenden Überprüfungen des Betriebes durch einen Sachverständigen
+3. Angaben zum Entsorgungsfachbetrieb
+  a) Name und Anschrift (Hauptsitz)
+  b) Gewerbeanmeldung (Datum der Anmeldung, zuständige Behörde und Aktenzeichen)
+  c) Eintrag in das Handels-, Vereins- oder Genossenschaftsregister (sofern ein Eintrag erfolgt ist)
+  d) Standorte
+    aa) Anzahl der Standorte
+    bb) Name, Anschrift und Kennnummer(n) nach § 28 NachwV für jeden Standort
+    cc) Name, Telefonnummer und E-Mail-Adresse eines Ansprechpartners für jeden Standort
+    dd) Benennung der zuständigen Überwachungsbehörde für jeden Standort
+    ee) Benennung wesentlicher Änderungen seit der letzten Überprüfung für jeden Standort (zum Beispiel: Änderung der zertifizierten Tätigkeiten oder Abfallarten)
+4. Angaben zum Überwachungsvorgang
+  a) bei technischen Überwachungsorganisationen: Datum des Abschlusses des Überwachungsvertrages und der behördlichen Zustimmung zum Überwachungsvertrag
+  b) bei Entsorgergemeinschaften: Datum der Anerkennung der Entsorgergemeinschaft und des Eintritts des Betriebes in die Entsorgergemeinschaft
+  c) letzter Überwachungstermin (vor dem hier dokumentierten)
+  d) Anlass und Ablauf der Überwachung
+  e) durchgeführte angekündigte und unangekündigte Vor-Ort-Termine im Überwachungszeitraum (Benennung von Ort, Datum, Dauer sowie der Teilnehmer und ihrer Funktion)
+  f) weitere Überwachungsmaßnahmen (z. B. Sichtung von Unterlagen, Befragung von Mitarbeitern)
+  g) durchgeführte andere Fremdkontrollen
+5. Angaben zur Betriebsorganisation (für jeden Standort)
+  a) Zweck des Betriebes
+  b) Tätigkeiten des Betriebes
+  c) Art, Menge und Herkunft der bewirtschafteten Abfälle
+  d) Anzahl der Beschäftigten
+  e) bestellte Betriebsbeauftragten (Name, Anschrift und Fachkundenachweis der Beauftragten sowie Datum der Bestellung und der Anzeige der Bestellung bei der Behörde)
+  f) Vorhandensein von Funktionsbeschreibungen und Organisationsplänen
+  g) Vorhandensein von Arbeitsanweisungen
+6. Angaben zum Inhaber
+  a) Name und Anschrift
+  b) Ergebnis der Überprüfung der Zuverlässigkeit
+  c) Ergebnis der Überprüfung der Fachkunde und der Fortbildung, soweit der Inhaber für die Leitung und Beaufsichtigung des Betriebes verantwortlich ist
+7. Angaben zu den für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen, sofern solche vorhanden sind
+  a) Name und Anschrift
+  b) Ergebnis der Überprüfung der Zuverlässigkeit
+  c) Ergebnis der Überprüfung der Fachkunde und Fortbildung
+8. Angaben zum sonstigen Personal
+  a) Auswahl des Personals durch den Inhaber
+  b) Ergebnis der Überprüfung der Zuverlässigkeit
+  c) Ergebnis der Überprüfung der Fachkunde und Fortbildung
+  d) Vorhandensein eines schriftlichen Einarbeitungsplanes
+9. Angaben zur personellen, gerätetechnischen und sonstigen Ausstattung an jedem Standort
+  a) ausreichende Ausstattung mit für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen und sonstigem Personal
+  b) Vorhandensein von Einsatzplänen
+  c) notwendige gerätetechnische und sonstige Ausstattung mit Betriebsmitteln
+10. Angaben zum Betriebstagebuch
+  a) Betriebstagebuch für jeden Standort
+  b) ordnungsgemäße Führung (Dokumentation aller vorgeschriebenen Inhalte)
+  c) ordnungsgemäße Kontrolle durch den Inhaber oder der für die Leitung und Beaufsichtigung des Betriebes verantwortlichen Personen (Name und Telefonnummer der für die Kontrolle verantwortlichen Personen)
+11. Angaben zum Versicherungsschutz
+  a) Nachweis eines ausreichenden Versicherungsschutzes
+  b) Nachweis ausreichender Versicherungssummen
+12. Angaben zur betrieblichen Tätigkeit
+  a) Einhaltung öffentlich-rechtlicher Vorschriften (allgemein und branchenspezifisch)
+  b) Vorliegen notwendiger behördlicher Genehmigungen, Zulassungen und Erlaubnisse
+  c) Einhaltung behördlicher Auflagen und Anordnungen
+  d) Organisation des Arbeitsschutzes einschließlich der technischen Sicherheit
+  e) Erfüllung der Anforderungen an die Fachkraft für Arbeitssicherheit und an Sicherheitsbeauftragte
+  f) Erfüllung der Anforderungen an den Betriebsarzt und die Ersthelfer
+  g) Vorhandensein von Notfall-, Brandschutz- und Alarmierungsplänen
+13. Angaben zu beauftragten Dritten
+  a) Name und Anschrift beauftragter Entsorgungsfachbetriebe (Nachweis der Entsorgungsfachbetriebseigenschaft)
+  b) bei der Beauftragung von Betrieben, die keine Entsorgungsfachbetriebe sind: Name und Anschrift des beauftragten Betriebes, Umfang der Beauftragung und Erfüllung der Anforderungen an die Beauftragung
+14. Überwachungsergebnis
+  a) Zusammenfassung festgestellter Mängel und Abweichungen
+  b) Behebung durch den Betrieb
+  c) Kontrolle durch den oder die Sachverständigen
+  d) Abschließende Empfehlung des oder der Sachverständigen
+  e) Berichtsdatum und Unterschrift des oder der Sachverständigen

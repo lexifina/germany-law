@@ -1,0 +1,2 @@
+# Gesetz zu dem Übereinkommen vom 22. März 1974 über den Schutz der
+Meeresumwelt des Ostseegebiets

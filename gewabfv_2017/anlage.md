@@ -1,0 +1,8 @@
+# Anlage (zu § 6 Absatz 1 Satz 1)Technische Mindestanforderungen für Vorbehandlungsanlagen
+
+Vorbehandlungsanlagen für die Behandlung von Gemischen gemäß § 4 Absatz 1 Satz 1 und § 9 Absatz 1 Satz 1 Nummer 1 und gemischten Bau- und Abbruchabfällen nach § 9 Absatz 3 Satz 1 müssen über die folgenden Anlagenkomponenten verfügen sowie die in den Nummern 4 und 5 genannten Stoffausbringungen erfüllen:
+1. Stationäre oder mobile Aggregate zum Zerkleinern, wie zum Beispiel Vorzerkleinerer,
+2. Aggregate zur Separierung verschiedener Materialien, Korngrößen, Kornformen und Korndichten, wie zum Beispiel Siebe und Sichter,
+3. Aggregate zur maschinell unterstützten manuellen Sortierung nach dem Stand der Technik, wie zum Beispiel Sortierband mit Sortierkabine,
+4. Aggregate zur Ausbringung von Eisen und Nichteisenmetallen mit einer Metallausbringung von mindestens 95 Prozent, sofern Eisen- und Nichteisenmetalle in den zu behandelnden Gemischen enthalten sind, sowie
+5. Aggregate zur Ausbringung von Kunststoff mit einer Kunststoffausbringung von mindestens 85 Prozent, von Holz oder von Papier, wie zum Beispiel Nahinfrarotaggregate.

@@ -1,0 +1,23 @@
+# Muster 4 (§ 4 ErbStDV)
+
+..............................
+Standesamt und Ordnungsnummer
+Erbschaftsteuer
+An das
+Finanzamt ....................
+- Erbschaftsteuerstelle -
+------------------------------
+Fehlanzeige
+------------------------------------------------------------------------
+im Standesamtsbezirk ................................................
+sind für die Zeit vom ............. bis ........... einschließlich
+Sterbefälle nicht anzugeben.
+Der letzte Sterbefall ist beurkundet im Sterberegister unter Nr. ......
+Im Ausland eingetretene Sterbefälle von Deutschen und von Ausländern,
+die beim Tod einen Wohnsitz oder ihren gewöhnlichen Aufenthalt oder
+Vermögen im Bezirk des Standesamtes hatten, sind mir nicht
+bekanntgeworden.
+Bemerkungen ............................................................
+........................................................................
+.............................. ............................
+Ort, Datum Unterschrift

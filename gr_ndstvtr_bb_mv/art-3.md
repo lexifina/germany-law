@@ -1,0 +1,3 @@
+# Art 3
+
+Das in den übergehenden Gebieten belegene Verwaltungsvermögen von Körperschaften des öffentlichen Rechts mit Ausnahme des Vermögens der Kirchen, der mit den Rechten einer Körperschaft des öffentlichen Rechts ausgestatteten Religionsgemeinschaften und der den Aufgaben einer Kirche oder Religionsgemeinschaft dienenden Körperschaften des öffentlichen Rechts und des Vermögens der im Bereich der Sozialversicherung tätigen Körperschaften des öffentlichen Rechts geht mit allen Rechten, Lasten und Verpflichtungen gegen Entschädigung auf die in dem aufnehmenden Land zuständige entsprechende Körperschaft des öffentlichen Rechts über. Die Entschädigung kann durch Vereinbarung der beteiligten Gebietskörperschaften geregelt werden.

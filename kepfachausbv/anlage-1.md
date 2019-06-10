@@ -1,0 +1,85 @@
+# Anlage 1 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für
+Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
+
+(Fundstelle: BGBl. I 2005, 882 - 884)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 4 Nr. 1) |  |
+| 1.1 | Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 4 Nr. 1.1) | a) | Geschäftsfelder des Ausbildungsbetriebes und seine Stellung am Markt beschreiben |
+| b) | Aufbau- und Ablauforganisation sowie Zuständigkeiten im Ausbildungsbetrieb erläutern |
+| c) | Rechtsform des Ausbildungsbetriebes darstellen |
+| d) | Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Gewerkschaften und Berufsvertretungen beschreiben |
+| 1.2 | Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften (§ 4 Nr. 1.2) | a) | Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben |
+| b) | den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen |
+| c) | Positionen der eigenen Entgeltabrechnung beschreiben |
+| d) | arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Ausbildungsbetrieb geltende Tarif- und Arbeitszeitregelungen beachten |
+| e) | wesentliche Inhalte und Bestandteile eines Arbeitsvertrages darstellen |
+| f) | lebensbegleitendes Lernen für die berufliche und persönliche Entwicklung begründen; berufliche Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen |
+| 1.3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 1.3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.4 | Umweltschutz (§ 4 Nr. 1.4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Arbeitsorganisation (§ 4 Nr. 2) |  |
+| 2.1 | Arbeitsplanung (§ 4 Nr. 2.1) | a) | Arbeitsaufträge erfassen, die eigene Arbeit strukturieren, Arbeitsschritte mit den Beteiligten abstimmen |
+| b) | Arbeitstechniken, Arbeits- und Organisationsmittel sowie Lerntechniken einsetzen |
+| c) | Informationsquellen nutzen |
+| d) | ergonomische Regeln bei der Arbeit beachten |
+| e) | Maßnahmen zur Verbesserung der Arbeitsorganisation im eigenen Arbeitsbereich vorschlagen |
+| 2.2 | Informations- und Kommunikationssysteme (§ 4 Nr. 2.2) | a) | betriebsspezifische Software anwenden |
+| b) | Netze und Dienste nutzen, Sicherheitsanforderungen beachten |
+| c) | Daten und Informationen aufgabenbezogen erfassen und bereitstellen |
+| d) | Notwendigkeit der Datensicherung begründen; betriebliche Datenschutz- und Datensicherungsmaßnahmen anwenden |
+| e) | Sendungsverfolgungs- und Nachweissysteme anwenden |
+| 3 | Kommunikation und Kooperation (§ 4 Nr. 3) |  |
+| 3.1 | Kundenorientierte Kommunikation (§ 4 Nr. 3.1) | a) | die eigene Rolle als Dienstleister im Kundenkontakt berücksichtigen und kundenorientiert handeln |
+| b) | im Kundengespräch sprachliche und nichtsprachliche Kommunikationsformen berücksichtigen |
+| c) | fremdsprachige Fachbegriffe anwenden |
+| d) | Kundenreklamationen und Beschwerden entgegennehmen und weiterleiten |
+| e) | Sachverhalte situationsbezogen und adressatengerecht aufbereiten |
+| 3.2 | Teamarbeit und Kooperation (§ 4 Nr. 3.2) | a) | Zusammenarbeit aktiv gestalten und Aufgaben teamorientiert und kooperativ umsetzen |
+| b) | Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten |
+| c) | zur Vermeidung von Kommunikationsstörungen beitragen und Möglichkeiten der Konfliktlösung anwenden |
+| 4 | Leistungserstellung (§ 4 Nr. 4) |  |
+| 4.1 | Dienstleistungsangebot (§ 4 Nr. 4.1) | a) | Dienstleistungsangebote der Branche unterscheiden |
+| b) | Schnittstellen zu Fremdleistungen berücksichtigen |
+| c) | bei der Ausgestaltung des betrieblichen Dienstleistungsangebotes mitwirken |
+| 4.2 | Rechtliche Rahmenbedingungen (§ 4 Nr. 4.2) | a) | rechtliche Vorschriften beachten und allgemeine Geschäftsbedingungen anwenden |
+| b) | Regelungen zur Wahrung des Postgeheimnisses und des Datenschutzes anwenden |
+| c) | sendungsbezogene Sicherheitsvorschriften beachten sowie Schutz- und Sicherheitsvorkehrungen treffen |
+| d) | Gefahrgut identifizieren; sendungsbezogene Gefahrgutvorschriften beachten |
+| e) | Haftungsregelungen beachten |
+| 4.3 | Qualitätssicherung (§ 4 Nr. 4.3) | a) | Qualitätsziele des Unternehmens im eigenen Arbeitsbereich umsetzen |
+| b) | zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen |
+| c) | den Zusammenhang zwischen Qualität und Kundenzufriedenheit beachten |
+| d) | Einsatzbereitschaft von Arbeitsmitteln gewährleisten |
+| 5 | Annahme und Abholung (§ 4 Nr. 5) | a) | Sendungsdokumentationen sowie Übereinstimmung von Sendungen und Aufträgen prüfen, bei Abweichungen Maßnahmen einleiten |
+| b) | über Preise, Versendungsformen und Versandbedingungen des Ausbildungsbetriebes informieren |
+| c) | Sendungsentgelte berechnen |
+| d) | Aufträge und Sendungen annehmen |
+| e) | verkehrsgeographische Bedingungen berücksichtigen |
+| 6 | Umschlag (§ 4 Nr. 6) | a) | Leistungsanforderungen aus den Aufträgen für den Transport ermitteln und Transportmittel wählen |
+| b) | Sendungen für Weitertransport, Lagerung, Nachsendung und Zustellung sortieren |
+| c) | Sendungen nachbearbeiten, Maße und Gewichte prüfen, Nachentgelte berechnen |
+| 7 | Auslieferung (§ 4 Nr. 7) |  |
+| 7.1 | Zustellungsvorbereitung (§ 4 Nr. 7.1) | a) | Auslieferfolge unter Berücksichtigung von Wirtschaftlichkeit und zeitlichen Vorgaben planen |
+| b) | Sendungen überprüfen und nach Auslieferfolge sortieren |
+| c) | Auslieferungsanforderungen beachten |
+| d) | Sendungen für Transport und Zustellung vorbereiten |
+| e) | Ladungssicherheit berücksichtigen |
+| 7.2 | Zustellungsdurchführung (§ 4 Nr. 7.2) | a) | Auslieferungsbestimmungen anwenden |
+| b) | Sendungen transportieren und zustellen, Zustellungen dokumentieren, ergänzende Dienstleistungen erbringen |
+| c) | Rücklauf unzustellbarer Sendungen gewährleisten |
+| 7.3 | Zustellungsnachbearbeitung (§ 4 Nr. 7.3) | a) | Sendungsdokumentationen nachbereiten und Zustellinformationen weiterleiten |
+| b) | Sendungen für Abholung und wiederholte Zustellung vorbereiten |
+| c) | unzustellbare und nachzusendende Sendungen bearbeiten |
+| d) | Schäden und Mängel feststellen und melden |
+| 8 | Kassenführung (§ 4 Nr. 8) | a) | Zahlungen entgegennehmen, Zahlungsvorgänge dokumentieren |
+| b) | Abrechnungen und Kassenabschluss durchführen |
+| c) | Notwendigkeit einer ordnungsgemäßen Kassenführung begründen |

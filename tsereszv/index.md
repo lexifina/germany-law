@@ -1,0 +1,16 @@
+# Verordnung zur Festlegung der Mindestanforderungen an die Züchtung auf Resistenz gegen transmissible spongiforme Enzephalopathien bei Schafen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Geltungsbereich](0001.md)
+- [§ 2 Untersuchungen](0002.md)
+- [§ 3 Mitteilungspflicht](0003.md)
+- [§ 4 Kennzeichnung](0004.md)
+- [§ 5 Beschränkungen](0005.md)
+- [§ 6 Anerkennung](0006.md)
+- [§ 7 Untersuchungen nach Anerkennung](0007.md)
+- [§ 8 Mitteilungen](0008.md)
+- [§ 9 Ordnungswidrigkeiten](0009.md)
+- [§ 10 Inkrafttreten](0010.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu § 1 Abs. 2)](anlage-1.md)
+- [Anlage 2 (zu § 5 Abs. 2)](anlage-2.md)

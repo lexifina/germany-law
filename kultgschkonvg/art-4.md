@@ -1,0 +1,6 @@
+# Art 4
+
+(1)
+Dieses Gesetz tritt mit Ausnahme des Artikels 2 am Tage nach seiner Verkündung in Kraft; Artikel 2 tritt an dem Tage in Kraft, an dem die Konvention für die Bundesrepublik Deutschland in Kraft tritt.
+(2)
+Der Tag, an dem die Konvention nach ihrem Artikel 33 Abs. 2 und das Protokoll nach III Ziffer 10 Buchstabe b für die Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt bekanntzugeben.

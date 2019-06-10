@@ -1,0 +1,38 @@
+# Anlage 1 (zu § 3)Stoffe, die bei dem Herstellen oder Behandeln von bestimmten Bedarfsgegenständen nicht verwendet werden dürfen
+
+| Lfd. Nr. | Bedarfsgegenstand | Verbotene Stoffe |
+| 1 | 2 | 3 |
+| 1. | Niespulver | Pulver aus der Panamarinde (Quillaja saponaria), ihre Saponine und deren Derivate Pulver aus der Wurzel der Christ-, Weihnachtsrose (Helleborus niger)- schwarzer Nieswurz Pulver aus der Wurzel des Bärenfußes (Helleborus viridis)- grüner Nieswurz Pulver aus der Wurzel des weißen Germers (Veratrum album)- weißer Nieswurz Pulver aus der Wurzel des schwarzen Germers (Veratrum nigrum)- schwarzer Nieswurz Holzstaub Benzidin und seine Derivate o-Nitrobenzaldehyd |
+| 2. | Stinkbomben | Ammoniumsulfid und Ammoniumhydrogensulfid Ammoniumpolysulfide |
+| 3. | Tränengas | Flüchtige Ester der Bromessigsäure:MethylbromacetatEthylbromacetatPropylbromacetatButylbromacetat |
+| 4. | Bedarfsgegenstände im Sinne des § 5 Abs. 1 Nr. 6 des Lebensmittel- und Bedarfsgegenständegesetzes, die unter Verwendung von Textilien hergestellt sind, ausgenommen Schutzkleidung, sowie für entsprechend hergestellte Spieltiere und Puppen | Tri-(2,3-dibrompropyl)-phosphat (TRIS)Tris-(aziridinyl)-phosphinoxid (TEPA)Polybromierte Biphenyle (PBB) |
+| 5. | Scherzspiele | Flüssige Stoffe und Zubereitungen, die nach der Gefahrstoffverordnung als gefährlich eingestuft oder einzustufen sind |
+| 6. | (weggefallen) |  |
+| 7. | Textil- und Ledererzeugnisse, die längere Zeit mit der menschlichen Haut oder der Mundhöhle direkt in Berührung kommen können, insbesondere:1.Kleidung, Bettwäsche, Handtücher, Haarteile, Perücken, Hüte, Windeln und sonstige Toilettenartikel, Schlafsäcke,2.Schuhe, Handschuhe, Uhrarmbänder, Handtaschen, Geldbeutel und Brieftaschen, Aktentaschen, Stuhlüberzüge, Brustbeutel,3.Textil- und Lederspielwaren und Spielwaren mit Textil- oder Lederbekleidung,4.für den Endverbraucher bestimmte Garne und Gewebe | Azofarbstoffe, die bei Anwendung der in Anlage 10 Nr. 7 angegebenen Methode durch reduktive Spaltung einer oder mehrerer Azogruppen eines oder mehrere der nachfolgenden Amine in nachweisbaren Mengen freisetzen. Die Verwendung von Azofarbstoffen gilt als nachgewiesen bei Freisetzungsraten je Aminkomponente von mehr als 30 mg in einem Kilogramm Fertigerzeugnis oder gefärbten Teilen davon. |
+| Stoffname | CAS-Nummer | Index-Nummer | EG-Nummer |
+| Biphenyl-4-ylamin4-AminobiphenylXenylamin | 92-67-1 | 612-072-00-6 | 202-177-1 |
+| Benzidin | 92-87-5 | 612-042-00-2 | 202-199-1 |
+| 4-Chlor-o-toluidin | 95-69-2 |  | 202-441-6 |
+| 2-Naphthylamin | 91-59-8 | 612-022-00-3 | 202-080-4 |
+| o-Aminoazotoluol4-Amino-2',3-dimethylazobenzol4-o-Tolylazo-o-toluidin | 97-56-3 | 611-006-00-3 | 202-591-2 |
+| 5-Nitro-o-toluidin2-Amino-4-nitrotoluol | 99-55-8 |  | 202-765-8 |
+| 4-Chloranilin | 106-47-8 | 612-137-00-9 | 203-401-0 |
+| 4-Methoxy-m-phenylendiamin2,4-Diaminoanisol | 615-05-4 |  | 210-406-1 |
+| 4,4'-Methylendianilin4,4'-Diaminodiphenylmethan | 101-77-9 | 612-051-00-1 | 202-974-4 |
+| 3,3'-Dichlorbenzidin3,3'-Dichlorbiphenyl-4,4'-ylendiaminen | 91-94-1 | 612-068-00-4 | 202-109-0 |
+| 3,3'-Dimethoxybenzidino-Dianisidin | 119-90-4 | 612-036-00-X | 204-355-4 |
+| 3,3'-Dimethylbenzidin4,4'-Bi-o-Toluidin | 119-93-7 | 612-041-00-7 | 204-358-0 |
+| 4,4'-Methylendi-o-toluidin3,3'-Dimethyl-4,4'diaminodiphenylmethan | 838-88-0 | 612-085-00-7 | 212-658-8 |
+| 6-Methoxy-m-toluidinp-Cresidin | 120-71-8 |  | 204-419-1 |
+| 4,4'-Methylen-bis-(2-chloranilin)2,2'-Dichlor-4,4'-methylendianilin | 101-14-4 | 612-078-00-9 | 202-918-9 |
+| 4,4'-Oxydianilin | 101-80-4 |  | 202-977-0 |
+| 4,4'-Thiodianilin | 139-65-1 |  | 205-370-9 |
+| o-Toluidin 2-Aminotoluol2-Aminotoluol | 95-53-4 | 612-091-00-X | 202-429-0 |
+| 4-Methyl-m-phenylendiamin2,4-Toluylendiamin | 95-80-7 | 612-099-00-3 | 202-453-1 |
+| 2,4,5-Trimethylanilin | 137-17-7 |  | 205-282-0 |
+| o-Anisidin2-Methoxyanilin | 90-04-0 | 612-035-00-4 | 201-963-1 |
+| 4-Amino-azobenzol | 60-09-3 | 611-008-00-4 | 200-453-6 |
+| 8. | a)Spielzeug und Babyartikel | Folgende Phthalate (oder andere CAS- und EINECS-Nummern, die diesen Stoff betreffen):Di(2-ethylhexyl)phthalat (DEHP)CAS-Nr. 117-81-7EINECS-Nr. 204-211-0Dibutylphthalat (DBP)CAS-Nr. 84-74-2EINECS-Nr. 201-557-4Benzylbutylphthalat (BBP)CAS-Nr. 85-68-7EINECS-Nr. 201-622-7; |
+| b)Spielzeug und Babyartikel, die von Kindern in den Mund genommen werden können | Di-isononylphthalat (DINP)CAS-Nrn. 28553-12-0 und 68515-48-0EINECS-Nrn. 249-079-5 und 271-090-9Di-isodecylphthalat (DIDP)CAS-Nrn. 26761-40-0 und 68515-49-1EINECS-Nrn. 247-977-1 und 271-091-4Di-n-octylphthalat (DNOP)CAS-Nr. 117-84-0EINECS-Nr. 204-214-7Zu a) und b):Phthalate gelten als nicht verwendet, sofern ihre Konzentration im weichmacherhaltigen Material des Endproduktes insgesamt 0,1% nicht übersteigt. |
+| 9. | Materialien und Gegenstände aus Kunststoff im Sinne des Artikels 3 Nummer 1 der Verordnung (EU) Nr. 10/2011 und Lebensmittelbedarfsgegenstände im Sinne des § 2 Nummer 2 Buchstabe c hinsichtlich der Beschichtung | 2,4,4´-Trichlor-2´-hydroxydiphenylether CAS-Nr.0003380-34-5 PEM/REF-Nr. 93930 |
+| 10. | (weggefallen) |  |

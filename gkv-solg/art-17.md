@@ -1,0 +1,3 @@
+# Art 17 Festsetzung des Vertragsinhalts durch das Schiedsamt
+
+Kommen für das Jahr 1999 Vereinbarungen nach § 84 Abs. 3, § 85 Abs. 2 und 3 und § 106 Fünftes Buch Sozialgesetzbuch bis zum 31. März 1999 ganz oder teilweise nicht zustande, setzt das Schiedsamt (§ 89 Fünftes Buch Sozialgesetzbuch) den Vertragsinhalt bis zum 30. Juni 1999 fest. Der Vorsitzende des Schiedsamts stellt unverzüglich nach Ablauf der Frist fest, ob die in Satz 1 genannten Voraussetzungen für die Festsetzung des Vertragsinhalts durch das Schiedsamt vorliegen. Die Vertragsparteien teilen dem Vorsitzenden des Schiedsamts unverzüglich nach Ablauf der Frist mit, ob ein Vertrag nach Satz 1 zustande gekommen ist.

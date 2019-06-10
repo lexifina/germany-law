@@ -1,0 +1,47 @@
+# Anlage 6 (zu § 5 Absatz 2 Satz 1 Nummer 2, § 6 Absatz 1 und § 7 Absatz 7)Fahrzeugbezogene Fachkenntnisse für den Erwerb der Zusatzbescheinigung
+
+1. Prüfungen und Kontrollen
+  Der Triebfahrzeugführer muss am Triebfahrzeug die Vorbereitungs- und Abschlussarbeiten durchführen und hierbei insbesondere
+  a) die Eintragungen in den fahrzeugbezogenen Unterlagen, beispielsweise Übergabebuch, überprüfen und durchführen können;
+  b) überprüfen können, ob auf dem Triebfahrzeug die für die zu erbringende Leistung erforderlichen Unterlagen und Ausrüstungsgegenstände vorhanden sind;
+  c) die Funktionsfähigkeit
+    aa) des Fahrzeuges,
+    bb) der Bremseinrichtungen sowie
+    cc) der Sicherheitseinrichtungen und Zugbeeinflussungssysteme
+    überprüfen können;
+  d) festgestellte Mängel und Schäden erkennen und an die zuständige Stelle melden können und
+  e) die eventuell vorgesehenen laufenden Wartungsarbeiten vornehmen können.
+2. Kenntnis der Fahrzeuge
+  Um ein Triebfahrzeug führen und gegebenenfalls Unregelmäßigkeiten erkennen, orten und die gebotenen Maßnahmen ergreifen zu können, muss der Triebfahrzeugführer insbesondere Folgendes kennen:
+  a) den mechanischen Aufbau mit Laufwerk, Zug- und Stoßeinrichtungen, den verschiedenen Leitungssystemen sowie die Bedeutung der an und in den Fahrzeugen angebrachten Kennzeichnungen und der für die Beförderung gefährlicher Güter benutzten Symbole;
+  b) das Antriebssystem bestehend aus
+    aa) Energieversorgung mit Kraftstoffbehälter, Kraftstoffversorgung, Abgassysteme sowie Stromabnehmer und Hochspannungssysteme sowie
+    bb) Kraftübertragung, Motoren und Getriebe;
+  c) die einzelnen Bremssysteme;
+  d) die Sicherheitseinrichtungen, wie Sicherheitsfahrschaltung und Fahrtverlaufsaufzeichnungen;
+  e) die Zugbeeinflussungssysteme und
+  f) die Kommunikationseinrichtungen, wie Zugfunk, Rangierfunk und leitungsgebundene Fahrzeugeinrichtung.
+3. Bremsberechnung und Bremsprobe
+  Der Triebfahrzeugführer muss
+  a) vor Fahrtantritt überprüfen und berechnen können, ob der Zug die für die Strecke vorgeschriebene Bremsleistung erreicht, und
+  b) die Funktionsfähigkeit der verschiedenen Komponenten des Bremssystems des Triebfahrzeuges und des Zuges vor und während der Fahrt überprüfen können.
+4. Führen des Zuges ohne Schädigung von Anlagen und Fahrzeugen
+  Der Triebfahrzeugführer muss
+  a) alle zur Verfügung stehenden Fahrzeugsysteme regelkonform bedienen können;
+  b) den Zug unter Berücksichtigung der jeweiligen Reibungs- und Leistungsgrenzen anfahren können;
+  c) die zulässigen Geschwindigkeiten des Zuges einhalten und
+  d) die Bremseinrichtungen ohne Schädigung von Fahrzeugen und Anlagen einsetzen können.
+5. Unregelmäßigkeiten, Störungen und Unfälle
+  Der Triebfahrzeugführer muss die Fähigkeit besitzen,
+  a) Unregelmäßigkeiten und Störungen an Fahrzeugen zu erkennen, auf sie zu reagieren und ihre Behebung zu versuchen, wobei in allen Fällen die Sicherheit des Eisenbahnverkehrs und der Personen Vorrang haben muss;
+  b) den Eisenbahninfrastrukturunternehmer schnellstmöglich über den Ort und die Art der Störungen zu informieren;
+  c) Maßnahmen zur Sicherung des Zuges zu ergreifen und gegebenenfalls Hilfe anzufordern;
+  d) im Falle eines Fahrzeugbrandes unverzüglich alle nützlichen Informationen weiterzuleiten, auch wenn er den Brand selbst unter Kontrolle bringen kann;
+  e) zu beurteilen, ob und unter welchen Bedingungen das Fahrzeug weiterfahren kann;
+  f) festzustellen, ob der Zug gefährliche Güter befördert, und diese auf der Grundlage der Unterlagen zu bestimmen und
+  g) die Verfahren zur Evakuierung eines Zuges im Notfall anzuwenden.
+6. Bedingungen für die Weiterfahrt nach einer technischen Unregelmäßigkeit an Fahrzeugen
+  Nach einer technischen Unregelmäßigkeit an einem Fahrzeug muss der Triebfahrzeugführer beurteilen können, ob und unter welchen Bedingungen die Fahrt fortgesetzt werden kann, und den Eisenbahninfrastrukturunternehmer unverzüglich über diese Bedingungen unterrichten.
+  Der Triebfahrzeugführer muss beurteilen können, ob vor der Weiterfahrt des Zuges eine Untersuchung durch eine hierfür berechtigte Fachkraft notwendig ist.
+7. Stillstand des Zuges
+  Der Triebfahrzeugführer muss beim Abstellen von Zügen oder Zugteilen die erforderlichen Maßnahmen treffen können, damit diese sich nicht unbeabsichtigt in Bewegung setzen.

@@ -1,0 +1,6 @@
+# Art 32
+
+(1)
+Ein Widerruf des Schecks ist erst nach Ablauf der Vorlegungsfrist wirksam.
+(2)
+Wenn der Scheck nicht widerrufen ist, kann der Bezogene auch nach Ablauf der Vorlegungsfrist Zahlung leisten.

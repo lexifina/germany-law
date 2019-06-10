@@ -1,0 +1,86 @@
+# Anlage 18 (zu den §§ 171, 197)Dosis- und Messgrößen
+
+Teil A: Messgrößen für äußere Strahlung
+Messgrößen für äußere Strahlung sind
+1. für die Personendosis die Tiefen-Personendosis Hp(10), die Augenlinsen-Personendosis Hp(3) und die Oberflächen-Personendosis Hp(0,07):
+  a) die Tiefen-Personendosis Hp(10) ist die Äquivalentdosis in 10 Millimeter Tiefe im Körper an der Tragestelle des für die Messung vorgesehenen Dosimeters;
+  b) die Augenlinsen-Personendosis Hp(3) ist die Äquivalentdosis in 3 Millimeter Tiefe im Körper an der Tragestelle des für die Messung vorgesehenen Dosimeters;
+  c) die Oberflächen-Personendosis Hp(0,07) ist die Äquivalentdosis in 0,07 Millimeter Tiefe im Körper an der Tragestelle des für die Messung vorgesehenen Dosimeters;
+2. für die Ortsdosis die Umgebungs-Äquivalentdosis H*(10), die Richtungs-Äquivalentdosis in 3 Millimeter Tiefe H'(3,Ω) und die Richtungs-Äquivalentdosis in 0,07 Millimeter Tiefe H'(0,07,Ω):
+  a) die Umgebungs-Äquivalentdosis H*(10) am interessierenden Punkt im tatsächlichen Strahlungsfeld ist die Äquivalentdosis, die im zugehörigen ausgerichteten und aufgeweiteten Strahlungsfeld in 10 Millimeter Tiefe auf dem der Einfallsrichtung der Strahlung entgegengesetzt orientierten Radius der ICRU-Kugel erzeugt würde;
+  b) die Richtungs-Äquivalentdosis H'(3,Ω) am interessierenden Punkt im tatsächlichen Strahlungsfeld ist die Äquivalentdosis, die im zugehörigen aufgeweiteten Strahlungsfeld in 3 Millimeter Tiefe auf einem in festgelegter Richtung Ω orientierten Radius der ICRU-Kugel erzeugt würde;
+  c) die Richtungs-Äquivalentdosis H'(0,07,Ω) am interessierenden Punkt im tatsächlichen Strahlungsfeld ist die Äquivalentdosis, die im zugehörigen aufgeweiteten Strahlungsfeld in 0,07 Millimeter Tiefe auf einem in festgelegter Richtung Ω orientierten Radius der ICRU-Kugel erzeugt würde.
+Dabei ist
+1. ein aufgeweitetes Strahlungsfeld ein idealisiertes Strahlungsfeld, in dem die Teilchenflussdichte und die Energie- und Richtungsverteilung der Strahlung an allen Punkten eines ausreichend großen Volumens die gleichen Werte aufweisen wie das tatsächliche Strahlungsfeld am interessierenden Punkt,
+2. ein aufgeweitetes und ausgerichtetes Feld ein idealisiertes Strahlungsfeld, das aufgeweitet ist und in dem die Strahlung zusätzlich in eine Richtung ausgerichtet ist,
+3. die ICRU-Kugel ein kugelförmiges Phantom von 30 Zentimeter Durchmesser aus ICRU-Weichteilgewebe (gewebeäquivalentes Material der Dichte 1 g/cm³, Zusammensetzung: 76,2 Prozent Sauerstoff, 11,1 Prozent Kohlenstoff, 10,1 Prozent Wasserstoff, 2,6 Prozent Stickstoff).
+Teil B: Berechnung der Körperdosis
+1. Berechnung der Organ-Äquivalentdosis HT:
+  Die durch die Strahlung R erzeugte Organ-Äquivalentdosis HT,R ist das Produkt aus der über das Gewebe oder Organ T gemittelten Energiedosis, der Organ-Energiedosis DT,R, die durch die Strahlung R erzeugt wird, und dem Strahlungs-Wichtungsfaktor wR nach Teil C Nummer 1:
+  | HT,R = wRDT,R |
+  Bei Vorliegen mehrerer Strahlungsarten oder -energien mit unterschiedlichen Werten von wR werden die einzelnen Beiträge addiert. Für die gesamte Organ-Äquivalentdosis HT gilt dann:
+  |  |
+  Organ-Äquivalentdosiswerte werden für eine idealisierte Person (Referenzperson) errechnet und sind separat für die männliche und die weibliche Referenzperson [Bild: bgbl1_2018_j2034-1_0250.jpg] auf Grund deren unterschiedlicher Merkmale zu ermitteln.
+  Zur Berechnung der lokalen Hautdosis wird die gemittelte Energiedosis der Haut in 0,07 Millimeter Gewebetiefe herangezogen.
+  Bei einer inneren Exposition berücksichtigt die Organ-Äquivalentdosis auch die nach dem Bezugszeitpunkt auftretende Exposition auf Grund des Verbleibs der Radionuklide im Körper (Folge-Organ-Äquivalentdosis).
+  Die Folge-Organ-Äquivalentdosis HT(τ) ist das Zeitintegral der Organ-Äquivalentdosisleistung im Gewebe oder Organ T, die eine Person infolge einer Inkorporation radioaktiver Stoffe zum Zeitpunkt t0 erhält:
+  |  |
+  ḢT(t) bezeichnet die mittlere Organ-Äquivalentdosisleistung im Gewebe oder Organ T zum Zeitpunkt t.
+  Hierbei bezeichnet τ den Zeitraum, über den die Integration erfolgt. Für Erwachsene ist ein Zeitraum von 50 Jahren und für Kinder der Zeitraum vom jeweiligen Alter bis zum Alter von 70 Jahren zugrunde zu legen, sofern kein anderer Wert angegeben wird.
+2. Berechnung der effektiven Dosis E:
+  Die effektive Dosis nach § 5 Absatz 11 des Strahlenschutzgesetzes ist das zur Berücksichtigung der Strahlenwirkung auf verschiedene Organe oder Gewebe gewichtete Mittel von Organ-Äquivalentdosen; die Strahlenempfindlichkeiten der verschiedenen Organe oder Gewebe werden durch die Wichtungsfaktoren wT nach Teil C Nummer 2 berücksichtigt. Dabei ist über alle in Teil C Nummer 2 aufgeführten Organe und Gewebe zu summieren und über die Organ-Äquivalentdosiswerte für die männliche und weibliche Referenzperson zu mitteln:
+  |  |
+  Bei einer inneren Exposition berücksichtigt die effektive Dosis auch die nach dem Bezugszeitpunkt auftretende Exposition auf Grund des Verbleibs der Radionuklide im Körper (effektive Folgedosis).
+  Die effektive Folgedosis E(τ) ist die Summe der Folge-Organ-Äquivalentdosen HT(τ) nach Nummer 1, jeweils multipliziert mit dem zugehörigen Gewebe-Wichtungsfaktor wT nach Teil C Nummer 2. Dabei ist über alle in Teil C Nummer 2 aufgeführten Organe und Gewebe zu summieren:
+  |  |
+  Hierbei bezeichnet τ den Zeitraum, über den die Integration erfolgt. Für Erwachsene ist ein Zeitraum von 50 Jahren und für Kinder der Zeitraum vom jeweiligen Alter bis zum Alter von 70 Jahren zugrunde zu legen, sofern kein anderer Wert angegeben wird.
+  Bei der Berechnung der effektiven Dosis ist die Energiedosis der Haut in 0,07 Millimeter Gewebetiefe über die ganze Haut zu mitteln.
+3. Berechnung der effektiven Dosis durch Inhalation von Radon an Arbeitsplätzen in Innenräumen:
+  Es ist davon auszugehen, dass eine effektive Dosis von 1 Millisievert verursacht wird durch
+  a) eine Radon-222-Exposition von 0,32 Megabecquerel je Kubikmeter mal Stunde; dabei wird ein Wert des Gleichgewichtsfaktors zwischen Radon-222 und seinen kurzlebigen Zerfallsprodukten von 0,4 zugrunde gelegt, oder
+  b) eine potenzielle Alphaenergie-Exposition von 0,71 Millijoule durch Kubikmeter mal Stunde.
+  Die zuständige Behörde kann auf Grund der Expositionsbedingungen von Satz 1 Buchstabe a abweichende Umrechnungsfaktoren festlegen.
+4. Berechnung der effektiven Dosis bei Inkorporation, Submersion oder Bodenkontamination:
+  Für die Berechnung der Exposition sind jeweils die Dosiskoeffizienten und Vorgaben aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b vom 28. August 2001 Teil I, II und III sowie IV und V heranzuziehen. Die zuständige Behörde kann unter Berücksichtigung der Expositionsbedingungen andere Dosiskoeffizienten nach dem Stand von Wissenschaft und Technik festlegen.
+5. Berechnung der effektiven Dosis des ungeborenen Kindes:
+  a) Berechnung des Beitrags aus einer äußeren Exposition des ungeborenen Kindes:
+    Bei äußerer Exposition gilt die Organ-Äquivalentdosis der Gebärmutter der Schwangeren als effektive Dosis des ungeborenen Kindes.
+  b) Berechnung des Beitrags aus einer inneren Exposition des ungeborenen Kindes auf Grund der Inkorporation von Radionukliden einer Schwangeren:
+    Bei innerer Exposition gilt die effektive Folgedosis der Schwangeren, die durch die Aktivitätszufuhr bedingt ist, als effektive Dosis des ungeborenen Kindes, soweit die zuständige Behörde auf Grund der Expositionsbedingungen nichts anderes festlegt.
+Teil C: Werte des Strahlungs-Wichtungsfaktors und des Gewebe-Wichtungsfaktors
+1. Strahlungs-Wichtungsfaktor wR:
+  Die Werte des Strahlungs-Wichtungsfaktors wR richten sich nach Art und Qualität des äußeren Strahlungsfeldes oder nach Art und Qualität der von einem inkorporierten Radionuklid emittierten Strahlung.
+  | Strahlungsart | Strahlungs-Wichtungsfaktor wR |
+  | Photonen | 1 |
+  | Elektronen und Myonen | 1 |
+  | Protonen und geladene Pionen | 2 |
+  | Alphateilchen, Spaltfragmente, Schwerionen | 20 |
+  | Neutronen, Energie En< 1 |  |
+  | Neutronen, 1 ≤ Energie En≤ 50 |  |
+  | Neutronen, Energie En> 50 |  |
+  En ist der Zahlenwert der Neutronenenergie in MeV.
+2. Gewebe-Wichtungsfaktor wT
+  | Gewebe oder Organe | Gewebe-Wichtungsfaktor wT |
+  | 1. Knochenmark (rot) | 0,12 |
+  | 2. Dickdarm | 0,12 |
+  | 3. Lunge | 0,12 |
+  | 4. Magen | 0,12 |
+  | 5. Brust | 0,12 |
+  | 6. Keimdrüsen | 0,08 |
+  | 7. Blase | 0,04 |
+  | 8. Speiseröhre | 0,04 |
+  | 9. Leber | 0,04 |
+  | 10. Schilddrüse | 0,04 |
+  | 11. Haut | 0,01 |
+  | 12. Knochenoberfläche | 0,01 |
+  | 13. Gehirn | 0,01 |
+  | 14. Speicheldrüsen | 0,01 |
+  | 15. Andere Organe oder Gewebe | 0,12 |
+  _________
+Teil D: Qualitätsfaktor Q
+Die Werte des Qualitätsfaktors Q der ICRU in Abhängigkeit von dem unbeschränkten linearen Energieübertragungsvermögen L in Wasser bestimmen sich nach den Empfehlungen der Internationalen Strahlenschutzkommission (ICRP) von 2007: ICRP-Veröffentlichung 103, die im digitalen Online Repositorium und Informations-System (DORIS) des Bundesamtes für Strahlenschutz unter der Kennung urn:nbn:de:0221-2009082154 veröffentlicht sind, wie folgt:
+| L | Q(L) |
+| < 10 | 1 |
+| 10 ≤ L ≤ 100 | 0,32*L – 2,2 |
+| L > 100 | 300/√Lˉ |
+L ist der Zahlenwert des linearen Energieübertragungsvermögens in Wasser in keV/µm.

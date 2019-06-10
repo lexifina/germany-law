@@ -1,0 +1,8 @@
+# Art 20 Rechtsverhältnisse im öffentlichen Dienst
+
+(1)
+Für die Rechtsverhältnisse der Angehörigen des öffentlichen Dienstes zum Zeitpunkt des Beitritts gelten die in Anlage I vereinbarten Übergangsregelungen.
+(2)
+Die Wahrnehmung von öffentlichen Aufgaben (hoheitsrechtliche Befugnisse im Sinne von Artikel 33 Abs. 4 des Grundgesetzes) ist sobald wie möglich Beamten zu übertragen. Das Beamtenrecht wird nach Maßgabe der in Anlage I vereinbarten Regelungen eingeführt. Artikel 92 des Grundgesetzes bleibt unberührt.
+(3)
+Das Soldatenrecht wird nach Maßgabe der in Anlage I vereinbarten Regelungen eingeführt.

@@ -1,0 +1,11 @@
+# Art 5
+
+(1)
+Artikel 1 tritt am Tage nach der Verkündung in Kraft.
+(2)
+(3)
+Artikel 4 tritt mit Wirkung vom 1. Juli 2000 in Kraft.
+(4)
+Im Übrigen tritt dieses Gesetz am 1. Januar 2001 in Kraft.
+(5)
+Der Tag, an dem das Protokoll nach seinem Artikel 9 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.

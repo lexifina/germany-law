@@ -1,0 +1,3 @@
+# Art 2
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates entsprechende Bestimmungen oder Vereinbarungen über die Übertragung von Versorgungsanwartschaften überstaatlicher und zwischenstaatlicher Organisationen innerstaatlich in Kraft zu setzen. Die Regelungen gemäß Satz 1 müssen nach Zielsetzung und Inhalt dem Abkommen zwischen der Bundesrepublik Deutschland und den Europäischen Gemeinschaften für die Durchführung des Artikels 11 des Anhangs VIII des Statuts der Beamten der Europäischen Gemeinschaften (BGBl. 1994 II S. 622) entsprechen.

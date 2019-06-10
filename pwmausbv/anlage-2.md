@@ -1,0 +1,6 @@
+# Anlage 2 (zu § 23 Absatz 2)Ausbildungsrahmenplan für die Zusatzqualifikation Messer schmieden
+
+| Lfd. Nr. | Teil der Zusatzqualifikation | Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten | Zeitliche Richtwerte in Wochen |
+| 1 | 2 | 3 | 4 |
+| 1 | Schmiedefeuerstelle einrichten | a)Schmiedefeuerarten unterscheidenb)Brennstoffe und Flussmittel unterscheiden, auswählen und aufgabenbezogen bereitstellenc)Schmiedefeuerstelle prüfen und Einsatzbereitschaft herstellend)Lederschutzbekleidung anlegene)Schmiedefeuer entzünden, schüren und führen | 6 |
+| 2 | Freiformschmieden und Wärmebehandlung | a)Werkzeuge, insbesondere Zangen, Hämmer und Meißel, bereitstellenb)Schmiederohlängen berechnenc)schmiedbare Werkstoffe, insbesondere legierte und hochlegierte Stähle, für Schneidwerkzeuge auswählen und im Schmiedefeuer erwärmend)Schmiedetemperaturen mittels Glühfarben unterscheidene)Schmiedestück anspitzen, flach-, vierkant- und rundschmieden und absetzen sowie Spaltlochung herstellenf)Schneidwerkzeugrohlinge durch Freiformschmieden herstelleng)Härteverfahren Stählen zuordnenh)Anlasstemperaturen mittels Anlassfarben unterscheideni)Schneidwerkzeuge aus niedrig- und hochlegierten Stählen glühen, härten und anlassenj)Schneidwerkzeuge durch Feil-, Klang- und Funkenprobe härteprüfen |

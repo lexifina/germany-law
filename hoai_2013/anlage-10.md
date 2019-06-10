@@ -1,0 +1,160 @@
+# Anlage 10 (zu § 34 Absatz 4, § 35 Absatz 7)Grundleistungen im Leistungsbild Gebäude und Innenräume, Besondere Leistungen, Objektlisten
+
+10.1 Leistungsbild Gebäude und Innenräume
+| Grundleistungen | Besondere Leistungen |
+| LPH 1 Grundlagenermittlung |
+| a)Klären der Aufgabenstellung auf Grundlage der Vorgaben oder der Bedarfsplanung des Auftraggebersb)Ortsbesichtigungc)Beraten zum gesamten Leistungs- und Untersuchungsbedarfd)Formulieren der Entscheidungshilfen für die Auswahl anderer an der Planung fachlich Beteiligtere)Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse | –Bedarfsplanung–Bedarfsermittlung–Aufstellen eines Funktionsprogramms–Aufstellen eines Raumprogramms–Standortanalyse–Mitwirken bei Grundstücks- und Objektauswahl, -beschaffung und -übertragung–Beschaffen von Unterlagen, die für das Vorhaben erheblich sind–Bestandsaufnahme–technische Substanzerkundung–Betriebsplanung–Prüfen der Umwelterheblichkeit–Prüfen der Umweltverträglichkeit–Machbarkeitsstudie–Wirtschaftlichkeitsuntersuchung–Projektstrukturplanung–Zusammenstellen der Anforderungen aus Zertifizierungssystemen–Verfahrensbetreuung, Mitwirken bei der Vergabe von Planungs- und Gutachterleistungen |
+| LPH 2 Vorplanung (Projekt- und Planungsvorbereitung) |
+| a)Analysieren der Grundlagen, Abstimmen der Leistungen mit den fachlich an der Planung Beteiligtenb)Abstimmen der Zielvorstellungen, Hinweisen auf Zielkonfliktec)Erarbeiten der Vorplanung, Untersuchen, Darstellen und Bewerten von Varianten nach gleichen Anforderungen, Zeichnungen im Maßstab nach Art und Größe des Objektsd)Klären und Erläutern der wesentlichen Zusammenhänge, Vorgaben und Bedingungen (zum Beispiel städtebauliche, gestalterische, funktionale, technische, wirtschaftliche, ökologische, bauphysikalische, energiewirtschaftliche, soziale, öffentlich-rechtliche)e)Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten sowie Koordination und Integration von deren Leistungenf)Vorverhandlungen über die Genehmigungsfähigkeitg)Kostenschätzung nach DIN 276, Vergleich mit den finanziellen Rahmenbedingungenh)Erstellen eines Terminplans mit den wesentlichen Vorgängen des Planungs- und Bauablaufsi)Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse | –Aufstellen eines Katalogs für die Planung und Abwicklung der Programmziele–Untersuchen alternativer Lösungsansätze nach verschiedenen Anforderungen einschließlich Kostenbewertung–Beachten der Anforderungen des vereinbarten Zertifizierungssystems–Durchführen des Zertifizierungssystems–Ergänzen der Vorplanungsunterlagen auf Grund besonderer Anforderungen–Aufstellen eines Finanzierungsplanes–Mitwirken bei der Kredit- und Fördermittelbeschaffung–Durchführen von Wirtschaftlichkeitsuntersuchungen–Durchführen der Voranfrage (Bauanfrage)–Anfertigen von besonderen Präsentationshilfen, die für die Klärung im Vorentwurfsprozess nicht notwendig sind, zum Beispiel –Präsentationsmodelle–Perspektivische Darstellungen–Bewegte Darstellung/Animation–Farb- und Materialcollagen–digitales Geländemodell |
+|  | –3-D oder 4-D Gebäudemodellbearbeitung (Building Information Modelling BIM)–Aufstellen einer vertieften Kostenschätzung nach Positionen einzelner Gewerke–Fortschreiben des Projektstrukturplanes–Aufstellen von Raumbüchern–Erarbeiten und Erstellen von besonderen bauordnungsrechtlichen Nachweisen für den vorbeugenden und organisatorischen Brandschutz bei baulichen Anlagen besonderer Art und Nutzung, Bestandsbauten oder im Falle von Abweichungen von der Bauordnung |
+| LPH 3 Entwurfsplanung (System- und Integrationsplanung) |
+| a)Erarbeiten der Entwurfsplanung, unter weiterer Berücksichtigung der wesentlichen Zusammenhänge, Vorgaben und Bedingungen (zum Beispiel städtebauliche, gestalterische, funktionale, technische, wirtschaftliche, ökologische, soziale, öffentlich-rechtliche) auf der Grundlage der Vorplanung und als Grundlage für die weiteren Leistungsphasen und die erforderlichen öffentlich-rechtlichen Genehmigungen unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligter. Zeichnungen nach Art und Größe des Objekts im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:100, zum Beispiel bei Innenräumen im Maßstab 1:50 bis 1:20b)Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten sowie Koordination und Integration von deren Leistungenc)Objektbeschreibungd)Verhandlungen über die Genehmigungsfähigkeite)Kostenberechnung nach DIN 276 und Vergleich mit der Kostenschätzungf)Fortschreiben des Terminplansg)Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse | –Analyse der Alternativen/Varianten und deren Wertung mit Kostenuntersuchung (Optimierung)–Wirtschaftlichkeitsberechnung–Aufstellen und Fortschreiben einer vertieften Kostenberechnung–Fortschreiben von Raumbüchern |
+| LPH 4 Genehmigungsplanung |
+| a)Erarbeiten und Zusammenstellen der Vorlagen und Nachweise für öffentlich-rechtliche Genehmigungen oder Zustimmungen einschließlich der Anträge auf Ausnahmen und Befreiungen, sowie notwendiger Verhandlungen mit Behörden unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligterb)Einreichen der Vorlagenc)Ergänzen und Anpassen der Planungsunterlagen, Beschreibungen und Berechnungen | –Mitwirken bei der Beschaffung der nachbarlichen Zustimmung–Nachweise, insbesondere technischer, konstruktiver und bauphysikalischer Art, für die Erlangung behördlicher Zustimmungen im Einzelfall–Fachliche und organisatorische Unterstützung des Bauherrn im Widerspruchsverfahren, Klageverfahren oder ähnlichen Verfahren |
+| LPH 5 Ausführungsplanung |
+| a)Erarbeiten der Ausführungsplanung mit allen für die Ausführung notwendigen Einzelangaben (zeichnerisch und textlich) auf der Grundlage der Entwurfs- und Genehmigungsplanung bis zur ausführungsreifen Lösung, als Grundlage für die weiteren Leistungsphasenb)Ausführungs-, Detail- und Konstruktionszeichnungen nach Art und Größe des Objekts im erforderlichen Umfang und Detaillierungsgrad unter Berücksichtigung aller fachspezifischen Anforderungen, zum Beispiel bei Gebäuden im Maßstab 1:50 bis 1:1, zum Beispiel bei Innenräumen im Maßstab 1:20 bis 1:1c)Bereitstellen der Arbeitsergebnisse als Grundlage für die anderen an der Planung fachlich Beteiligten, sowie Koordination und Integration von deren Leistungend)Fortschreiben des Terminplanse)Fortschreiben der Ausführungsplanung auf Grund der gewerkeorientierten Bearbeitung während der Objektausführungf)Überprüfen erforderlicher Montagepläne der vom Objektplaner geplanten Baukonstruktionen und baukonstruktiven Einbauten auf Übereinstimmung mit der Ausführungsplanung | –Aufstellen einer detaillierten Objektbeschreibung als Grundlage der Leistungsbeschreibung mit Leistungsprogrammx)–Prüfen der vom bauausführenden Unternehmen auf Grund der Leistungsbeschreibung mit Leistungsprogramm ausgearbeiteten Ausführungspläne auf Übereinstimmung mit der Entwurfsplanungx–Fortschreiben von Raumbüchern in detaillierter Form–Mitwirken beim Anlagenkennzeichnungssystem (AKS)–Prüfen und Anerkennen von Plänen Dritter, nicht an der Planung fachlich Beteiligter auf Übereinstimmung mit den Ausführungsplänen (zum Beispiel Werkstattzeichnungen von Unternehmen, Aufstellungs- und Fundamentpläne nutzungsspezifischer oder betriebstechnischer Anlagen), soweit die Leistungen Anlagen betreffen, die in den anrechenbaren Kosten nicht erfasst sindx Diese Besondere Leistung wird bei Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise Grundleistung. In diesem Fall entfallen die entsprechenden Grundleistungen dieser Leistungsphase. |
+|  |
+| LPH 6 Vorbereitung der Vergabe |
+| a)Aufstellen eines Vergabeterminplansb)Aufstellen von Leistungsbeschreibungen mit Leistungsverzeichnissen nach Leistungsbereichen, Ermitteln und Zusammenstellen von Mengen auf der Grundlage der Ausführungsplanung unter Verwendung der Beiträge anderer an der Planung fachlich Beteiligterc)Abstimmen und Koordinieren der Schnittstellen zu den Leistungsbeschreibungen der an der Planung fachlich Beteiligtend)Ermitteln der Kosten auf der Grundlage vom Planer bepreister Leistungsverzeichnissee)Kostenkontrolle durch Vergleich der vom Planer bepreisten Leistungsverzeichnisse mit der Kostenberechnungf)Zusammenstellen der Vergabeunterlagen für alle Leistungsbereiche | –Aufstellen der Leistungsbeschreibungen mit Leistungsprogramm auf der Grundlage der detaillierten Objektbeschreibungx–Aufstellen von alternativen Leistungsbeschreibungen für geschlossene Leistungsbereiche–Aufstellen von vergleichenden Kostenübersichten unter Auswertung der Beiträge anderer an der Planung fachlich Beteiligterx Diese Besondere Leistung wird bei einer Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise zur Grundleistung. In diesem Fall entfallen die entsprechenden Grundleistungen dieser Leistungsphase. |
+| LPH 7 Mitwirkung bei der Vergabe |
+| a)Koordinieren der Vergaben der Fachplanerb)Einholen von Angebotenc)Prüfen und Werten der Angebote einschließlich Aufstellen eines Preisspiegels nach Einzelpositionen oder Teilleistungen, Prüfen und Werten der Angebote zusätzlicher und geänderter Leistungen der ausführenden Unternehmen und der Angemessenheit der Preised)Führen von Bietergesprächene)Erstellen der Vergabevorschläge, Dokumentation des Vergabeverfahrensf)Zusammenstellen der Vertragsunterlagen für alle Leistungsbereicheg)Vergleichen der Ausschreibungsergebnisse mit den vom Planer bepreisten Leistungsverzeichnissen oder der Kostenberechnungh)Mitwirken bei der Auftragserteilung | –Prüfen und Werten von Nebenangeboten mit Auswirkungen auf die abgestimmte Planung–Mitwirken bei der Mittelabflussplanung–Fachliche Vorbereitung und Mitwirken bei Nachprüfungsverfahren–Mitwirken bei der Prüfung von bauwirtschaftlich begründeten Nachtragsangeboten–Prüfen und Werten der Angebote aus Leistungsbeschreibung mit Leistungsprogramm einschließlich Preisspiegelx–Aufstellen, Prüfen und Werten von Preisspiegeln nach besonderen Anforderungenx Diese Besondere Leistung wird bei Leistungsbeschreibung mit Leistungsprogramm ganz oder teilweise Grundleistung. In diesem Fall entfallen die entsprechenden Grundleistungen dieser Leistungsphase. |
+|  |
+| LPH 8 Objektüberwachung (Bauüberwachung) und Dokumentation |
+| a)Überwachen der Ausführung des Objektes auf Übereinstimmung mit der öffentlich-rechtlichen Genehmigung oder Zustimmung, den Verträgen mit ausführenden Unternehmen, den Ausführungsunterlagen, den einschlägigen Vorschriften sowie mit den allgemein anerkannten Regeln der Technikb)Überwachen der Ausführung von Tragwerken mit sehr geringen und geringen Planungsanforderungen auf Übereinstimmung mit dem Standsicherheitsnachweisc)Koordinieren der an der Objektüberwachung fachlich Beteiligtend)Aufstellen, Fortschreiben und Überwachen eines Terminplans (Balkendiagramm)e)Dokumentation des Bauablaufs (zum Beispiel Bautagebuch)f)Gemeinsames Aufmaß mit den ausführenden Unternehmeng)Rechnungsprüfung einschließlich Prüfen der Aufmaße der bauausführenden Unternehmenh)Vergleich der Ergebnisse der Rechnungsprüfungen mit den Auftragssummen einschließlich Nachträgeni)Kostenkontrolle durch Überprüfen der Leistungsabrechnung der bauausführenden Unternehmen im Vergleich zu den Vertragspreisenj)Kostenfeststellung, zum Beispiel nach DIN 276k)Organisation der Abnahme der Bauleistungen unter Mitwirkung anderer an der Planung und Objektüberwachung fachlich Beteiligter, Feststellung von Mängeln, Abnahmeempfehlung für den Auftraggeberl)Antrag auf öffentlich-rechtliche Abnahmen und Teilnahme daranm)Systematische Zusammenstellung der Dokumentation, zeichnerischen Darstellungen und rechnerischen Ergebnisse des Objektsn)Übergabe des Objektso)Auflisten der Verjährungsfristen für Mängelansprüchep)Überwachen der Beseitigung der bei der Abnahme festgestellten Mängel | –Aufstellen, Überwachen und Fortschreiben eines Zahlungsplanes–Aufstellen, Überwachen und Fortschreiben von differenzierten Zeit-, Kosten- oder Kapazitätsplänen–Tätigkeit als verantwortlicher Bauleiter, soweit diese Tätigkeit nach jeweiligem Landesrecht über die Grundleistungen der LPH 8 hinausgeht |
+| LPH 9 Objektbetreuung |
+| a)Fachliche Bewertung der innerhalb der Verjährungsfristen für Gewährleistungsansprüche festgestellten Mängel, längstens jedoch bis zum Ablauf von fünf Jahren seit Abnahme der Leistung, einschließlich notwendiger Begehungenb)Objektbegehung zur Mängelfeststellung vor Ablauf der Verjährungsfristen für Mängelansprüche gegenüber den ausführenden Unternehmenc)Mitwirken bei der Freigabe von Sicherheitsleistungen | –Überwachen der Mängelbeseitigung innerhalb der Verjährungsfrist–Erstellen einer Gebäudebestandsdokumentation,–Aufstellen von Ausrüstungs- und Inventarverzeichnissen–Erstellen von Wartungs- und Pflegeanweisungen–Erstellen eines Instandhaltungskonzepts–Objektbeobachtung–Objektverwaltung–Baubegehungen nach Übergabe–Aufbereiten der Planungs- und Kostendaten für eine Objektdatei oder Kostenrichtwerte–Evaluieren von Wirtschaftlichkeitsberechnungen |
+|  |
+10.2 Objektliste Gebäude
+Nachstehende Gebäude werden in der Regel folgenden Honorarzonen zugerechnet.
+| Objektliste Gebäude | Honorarzone |
+| I | II | III | IV | V |
+| Wohnen |
+| – Einfache Behelfsbauten für vorübergehende Nutzung | x |  |  |  |  |
+| – Einfache Wohnbauten mit gemeinschaftlichen Sanitär- und Kücheneinrichtungen |  | x |  |  |  |
+| – Einfamilienhäuser, Wohnhäuser oder Hausgruppen in verdichteter Bauweise |  |  | x | x |  |
+| – Wohnheime, Gemeinschaftsunterkünfte, Jugendherbergen, -freizeitzentren, -stätten |  |  | x | x |  |
+| Ausbildung/Wissenschaft/Forschung |
+| – Offene Pausen-, Spielhallen | x |  |  |  |  |
+| – Studentenhäuser |  |  | x | x |  |
+| – Schulen mit durchschnittlichen Planungsanforderungen, zum Beispiel Grundschulen, weiterführende Schulen und Berufsschulen |  |  | x |  |  |
+| – Schulen mit hohen Planungsanforderungen, Bildungszentren, Hochschulen, Universitäten, Akademien |  |  |  | x |  |
+| – Hörsaal-, Kongresszentren |  |  |  | x |  |
+| – Labor- oder Institutsgebäude |  |  |  | x | x |
+| Büro/Verwaltung/Staat/Kommune |
+| – Büro-, Verwaltungsgebäude |  |  | x | x |  |
+| – Wirtschaftsgebäude, Bauhöfe |  |  | x | x |  |
+| – Parlaments-, Gerichtsgebäude |  |  |  | x |  |
+| – Bauten für den Strafvollzug |  |  |  | x | x |
+| – Feuerwachen, Rettungsstationen |  |  | x | x |  |
+| – Sparkassen- oder Bankfilialen |  |  | x | x |  |
+| – Büchereien, Bibliotheken, Archive |  |  | x | x |  |
+| Gesundheit/Betreuung |
+| – Liege- oder Wandelhallen | x |  |  |  |  |
+| – Kindergärten, Kinderhorte |  |  | x |  |  |
+| – Jugendzentren, Jugendfreizeitstätten |  |  | x |  |  |
+| – Betreuungseinrichtungen, Altentagesstätten |  |  | x |  |  |
+| – Pflegeheime oder Bettenhäuser, ohne oder mit medizinisch-technischer Einrichtungen, |  |  | x | x |  |
+| – Unfall-, Sanitätswachen, Ambulatorien |  | x | x |  |  |
+| – Therapie- oder Rehabilitations-Einrichtungen, Gebäude für Erholung, Kur oder Genesung |  |  | x | x |  |
+| – Hilfskrankenhäuser |  |  | x |  |  |
+| – Krankenhäuser der Versorgungsstufe I oder II, Krankenhäuser besonderer Zweckbestimmung |  |  |  | x |  |
+| – Krankenhäuser der Versorgungsstufe III, Universitätskliniken |  |  |  |  | x |
+| Handel und Verkauf/Gastgewerbe |
+| – Einfache Verkaufslager, Verkaufsstände, Kioske |  | x |  |  |  |
+| – Ladenbauten, Discounter, Einkaufszentren, Märkte, Messehallen |  |  | x | x |  |
+| – Gebäude für Gastronomie, Kantinen oder Mensen |  |  | x | x |  |
+| – Großküchen, mit oder ohne Speiseräume |  |  |  | x |  |
+| – Pensionen, Hotels |  |  | x | x |  |
+| Freizeit/Sport |
+| – Einfache Tribünenbauten |  | x |  |  |  |
+| – Bootshäuser |  | x |  |  |  |
+| – Turn- oder Sportgebäude |  |  | x | x |  |
+| – Mehrzweckhallen, Hallenschwimmbäder, Großsportstätten |  |  |  | x | x |
+| Gewerbe/Industrie/Landwirtschaft |
+| – Einfache Landwirtschaftliche Gebäude, zum Beispiel Feldscheunen, Einstellhallen | x |  |  |  |  |
+| – Landwirtschaftliche Betriebsgebäude, Stallanlagen |  | x | x | x |  |
+| – Gewächshäuser für die Produktion |  | x |  |  |  |
+| – Einfache geschlossene, eingeschossige Hallen, Werkstätten |  | x |  |  |  |
+| – Spezielle Lagergebäude, zum Beispiel Kühlhäuser |  |  | x |  |  |
+| – Werkstätten, Fertigungsgebäude des Handwerks oder der Industrie |  | x | x | x |  |
+| – Produktionsgebäude der Industrie |  |  | x | x | x |
+| Infrastruktur |
+| – Offene Verbindungsgänge, Überdachungen, zum Beispiel Wetterschutzhäuser, Carports | x |  |  |  |  |
+| – Einfache Garagenbauten |  | x |  |  |  |
+| – Parkhäuser, -garagen, Tiefgaragen, jeweils mit integrierten weiteren Nutzungsarten |  | x | x |  |  |
+| – Bahnhöfe oder Stationen verschiedener öffentlicher Verkehrsmittel |  |  |  | x |  |
+| – Flughäfen |  |  |  | x | x |
+| – Energieversorgungszentralen, Kraftwerksgebäude, Großkraftwerke |  |  |  | x | x |
+| Kultur-/Sakralbauten |
+| – Pavillons für kulturelle Zwecke |  | x | x |  |  |
+| – Bürger-, Gemeindezentren, Kultur-/Sakralbauten, Kirchen |  |  |  | x |  |
+| – Mehrzweckhallen für religiöse oder kulturelle Zwecke |  |  |  | x |  |
+| – Ausstellungsgebäude, Lichtspielhäuser |  |  | x | x |  |
+| – Museen |  |  |  | x | x |
+| – Theater-, Opern-, Konzertgebäude |  |  |  | x | x |
+| – Studiogebäude für Rundfunk oder Fernsehen |  |  |  | x | x |
+10.3 Objektliste Innenräume
+Nachstehende Innenräume werden in der Regel folgenden Honorarzonen zugerechnet:
+| Objektliste Innenräume | Honorarzone |
+| I | II | III | IV | V |
+| – Einfachste Innenräume für vorübergehende Nutzung ohne oder mit einfachsten seriellen Einrichtungsgegenständen | x |  |  |  |  |
+| – Innenräume mit geringer Planungsanforderung, unter Verwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen einfacher Qualität, ohne technische Ausstattung |  | x |  |  |  |
+| – Innenräume mit durchschnittlicher Planungsanforderung, zum überwiegenden Teil unter Verwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen oder mit durchschnittlicher technischer Ausstattung |  |  | x |  |  |
+| – Innenräume mit hohen Planungsanforderungen, unter Mitverwendung von serienmäßig hergestellten Möbeln und Ausstattungsgegenständen gehobener Qualität oder gehobener technischer Ausstattung |  |  |  | x |  |
+| – Innenräume mit sehr hohen Planungsanforderungen, unter Verwendung von aufwendiger Einrichtung oder Ausstattung oder umfangreicher technischer Ausstattung |  |  |  |  | x |
+| Wohnen |
+| – Einfachste Räume ohne Einrichtung oder für vorübergehende Nutzung | x |  |  |  |  |
+| – Einfache Wohnräume mit geringen Anforderungen an Gestaltung oder Ausstattung |  | x |  |  |  |
+| – Wohnräume mit durchschnittlichen Anforderungen, serielle Einbauküchen |  |  | x |  |  |
+| – Wohnräume in Gemeinschaftsunterkünften oder Heimen |  |  | x |  |  |
+| – Wohnräume gehobener Anforderungen, individuell geplante Küchen und Bäder |  |  |  | x |  |
+| – Dachgeschoßausbauten, Wintergärten |  |  |  | x |  |
+| – Individuelle Wohnräume in anspruchsvoller Gestaltung mit aufwendiger Einrichtung, Ausstattung und technischer Ausrüstung |  |  |  |  | x |
+| Ausbildung/Wissenschaft/Forschung |
+| – Einfache offene Hallen | x |  |  |  |  |
+| – Lager- oder Nebenräume mit einfacher Einrichtung oder Ausstattung |  | x |  |  |  |
+| – Gruppenräume zum Beispiel in Kindergärten, Kinderhorten, Jugendzentren, Jugendherbergen, Jugendheimen |  |  | x | x |  |
+| – Klassenzimmer, Hörsäle, Seminarräume, Büchereien, Mensen |  |  | x | x |  |
+| – Aulen, Bildungszentren, Bibliotheken, Labore, Lehrküchen mit oder ohne Speise- oder Aufenthaltsräume, Fachunterrichtsräume mit technischer Ausstattung |  |  |  | x |  |
+| – Kongress-, Konferenz-, Seminar-, Tagungsbereiche mit individuellem Ausbau und Einrichtung und umfangreicher technischer Ausstattung |  |  |  | x |  |
+| – Räume wissenschaftlicher Forschung mit hohen Ansprüchen und technischer Ausrüstung |  |  |  |  | x |
+| Büro/Verwaltung/Staat/Kommune |
+| – Innere Verkehrsflächen | x |  |  |  |  |
+| – Post-, Kopier-, Putz- oder sonstige Nebenräume ohne baukonstruktive Einbauten |  | x |  |  |  |
+| – Büro-, Verwaltungs-, Aufenthaltsräume mit durchschnittlichen Anforderungen, Treppenhäuser, Wartehallen, Teeküchen |  |  | x |  |  |
+| – Räume für sanitäre Anlagen, Werkräume, Wirtschaftsräume, Technikräume |  |  | x |  |  |
+| – Eingangshallen, Sitzungs- oder Besprechungsräume, Kantinen, Sozialräume |  |  | x | x |  |
+| – Kundenzentren, -ausstellungen, -präsentationen |  |  | x | x |  |
+| – Versammlungs-, Konferenzbereiche, Gerichtssäle, Arbeitsbereiche von Führungskräften mit individueller Gestaltung oder Einrichtung oder gehobener technischer Ausstattung |  |  |  | x |  |
+| – Geschäfts-, Versammlungs- oder Konferenzräume mit anspruchsvollem Ausbau oder anspruchsvoller Einrichtung, aufwendiger Ausstattung oder sehr hohen technischen Anforderungen |  |  |  |  | x |
+| Gesundheit/Betreuung |
+| – Offene Spiel- oder Wandelhallen | x |  |  |  |  |
+| – Einfache Ruhe- oder Nebenräume |  | x |  |  |  |
+| – Sprech-, Betreuungs-, Patienten-, Heimzimmer oder Sozialräume mit durchschnittlichen Anforderungen ohne medizintechnische Ausrüstung |  |  | x |  |  |
+| – Behandlungs- oder Betreuungsbereiche mit medizintechnischer Ausrüstung oder Einrichtung in Kranken-, Therapie-, Rehabilitations- oder Pflegeeinrichtungen, Arztpraxen |  |  |  | x |  |
+| – Operations-, Kreißsäle, Röntgenräume |  |  |  | x | x |
+| Handel/Gastgewerbe |
+| – Verkaufsstände für vorübergehende Nutzung | x |  |  |  |  |
+| – Kioske, Verkaufslager, Nebenräume mit einfacher Einrichtung und Ausstattung |  | x |  |  |  |
+| – Durchschnittliche Laden- oder Gasträume, Einkaufsbereiche, Schnellgaststätten |  |  | x |  |  |
+| – Fachgeschäfte, Boutiquen, Showrooms, Lichtspieltheater, Großküchen |  |  |  | x |  |
+| – Messestände, bei Verwendung von System- oder Modulbauteilen |  |  | x |  |  |
+| – Individuelle Messestände |  |  |  | x |  |
+| – Gasträume, Sanitärbereiche gehobener Gestaltung, zum Beispiel in Restaurants, Bars, Weinstuben, Cafés, Clubräumen |  |  |  | x |  |
+| – Gast- oder Sanitärbereiche zum Beispiel in Pensionen oder Hotels mit durchschnittlichen Anforderungen oder Einrichtungen oder Ausstattungen |  |  | x |  |  |
+| – Gast-, Informations- oder Unterhaltungsbereiche in Hotels mit individueller Gestaltung oder Möblierung oder gehobener Einrichtung oder technischer Ausstattung |  |  |  | x |  |
+| Freizeit/Sport |
+| – Neben- oder Wirtschafträume in Sportanlagen oder Schwimmbädern |  | x |  |  |  |
+| – Schwimmbäder, Fitness-, Wellness- oder Saunaanlagen, Großsportstätten |  |  | x | x |  |
+| – Sport-, Mehrzweck- oder Stadthallen, Gymnastikräume, Tanzschulen |  |  | x | x |  |
+| Gewerbe/Industrie/Landwirtschaft/Verkehr |
+| – Einfache Hallen oder Werkstätten ohne fachspezifische Einrichtung, Pavillons |  | x |  |  |  |
+| – Landwirtschaftliche Betriebsbereiche |  | x | x |  |  |
+| – Gewerbebereiche, Werkstätten mit technischer oder maschineller Einrichtung |  |  | x | x |  |
+| – Umfassende Fabrikations- oder Produktionsanlagen |  |  |  | x |  |
+| – Räume in Tiefgaragen, Unterführungen |  | x |  |  |  |
+| – Gast- oder Betriebsbereiche in Flughäfen, Bahnhöfen |  |  |  | x | x |
+| Kultur-/Sakralbauten |
+| – Kultur- oder Sakralbereiche, Kirchenräume |  |  |  | x | x |
+| – Individuell gestaltete Ausstellungs-, Museums- oder Theaterbereiche |  |  |  | x | x |
+| – Konzert- oder Theatersäle, Studioräume für Rundfunk, Fernsehen oder Theater |  |  |  |  | x |

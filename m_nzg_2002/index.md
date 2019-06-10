@@ -1,0 +1,16 @@
+# Münzgesetz
+
+- [§ 1 Ausprägung von deutschen Euro-Münzen](0001.md)
+- [§ 2 Ausprägung von Sammlermünzen](0002.md)
+- [§ 3 Annahme- und Umtauschpflicht](0003.md)
+- [§ 4 Gestaltung der deutschen Euro-Münzen](0004.md)
+- [§ 5 Gestalt der deutschen Euro-Gedenkmünzen](0005.md)
+- [§ 6 Münzprägung](0006.md)
+- [§ 7 Inverkehrbringen von Münzen](0007.md)
+- [§ 7a Aufgaben nach den Artikeln 6 und 8 bis 12 der Verordnung (EG) Nr. 1210/2010](0007a.md)
+- [§ 8 Einziehung von Münzen](0008.md)
+- [§ 9 Außerkurssetzung](0009.md)
+- [§ 10 Verordnungsermächtigung](0010.md)
+- [§ 11 Münzschutz](0011.md)
+- [§ 12 Bußgeldvorschriften](0012.md)
+- [§ 13 (weggefallen)](0013.md)

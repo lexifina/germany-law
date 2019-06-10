@@ -1,0 +1,350 @@
+# Anlage 2 (Anlagen IV, V, VIII und IX des Bundesbesoldungsgesetzes (BBesG) und Grundgehaltssätze der Bundesbesoldungsordnung C (BBesO C) - Sätze jeweils zum 1. Januar 2003)
+
+|  | (Anlage IV des BBesG) |
+|  | (Zweite Besoldungs-Übergangsverordnung) |
+| Gültig ab 1. Januar 2003 |
+| 1. Bundesbesoldungsordnung A |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe | 2-Jahres-Rhythmus | 3-Jahres-Rhythmus |
+| Stufe |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| A 2 | 1.284,60 | 1.315,62 | 1.346,65 | 1.377,68 | 1.408,70 | 1.439,74 |
+| A 3 | 1.338,18 | 1.371,20 | 1.404,20 | 1.437,22 | 1.470,23 | 1.503,25 |
+| A 4 | 1.368,58 | 1.407,45 | 1.446,31 | 1.485,18 | 1.524,05 | 1.562,92 |
+| A 5 | 1.379,63 | 1.429,40 | 1.468,07 | 1.506,73 | 1.545,41 | 1.584,06 |
+| A 6 | 1.412,30 | 1.454,76 | 1.497,21 | 1.539,67 | 1.582,13 | 1.624,59 |
+| A 7 | 1.474,37 | 1.512,53 | 1.565,96 | 1.619,38 | 1.672,80 | 1.726,22 |
+| A 8 |  | 1.566,74 | 1.612,38 | 1.680,85 | 1.749,31 | 1.817,77 |
+| A 9 |  | 1.669,23 | 1.714,14 | 1.787,20 | 1.860,28 | 1.933,34 |
+| A 10 |  | 1.798,60 | 1.861,01 | 1.954,63 | 2.048,25 | 2.141,87 |
+| A 11 |  |  | 2.073,32 | 2.169,24 | 2.265,16 | 2.361,10 |
+| A 12 |  |  | 2.229,75 | 2.344,13 | 2.458,49 | 2.572,86 |
+| A 13 |  |  | 2.509,79 | 2.633,29 | 2.756,79 | 2.880,29 |
+| A 14 |  |  | 2.612,10 | 2.772,26 | 2.932,40 | 3.092,55 |
+| A 15 |  |  |  |  |  | 3.400,82 |
+| A 16 |  |  |  |  |  | 3.756,09 |
+|  |
+| Besoldungsgruppe | 3-Jahres-Rhythmus | 4-Jahres-Rhythmus |
+| Stufe |
+| 7 | 8 | 9 | 10 | 11 | 12 |
+| A 2 | 1.470,76 |  |  |  |  |  |
+| A 3 | 1.536,26 |  |  |  |  |  |
+| A 4 | 1.601,78 |  |  |  |  |  |
+| A 5 | 1.622,74 | 1.661,41 |  |  |  |  |
+| A 6 | 1.667,05 | 1.709,50 | 1.751,96 |  |  |  |
+| A 7 | 1.779,65 | 1.817,80 | 1.855,96 | 1.894,13 |  |  |
+| A 8 | 1.886,24 | 1.931,88 | 1.977,52 | 2.023,18 | 2.068,81 |  |
+| A 9 | 2.006,41 | 2.056,65 | 2.106,88 | 2.157,11 | 2.207,34 |  |
+| A 10 | 2.235,48 | 2.297,90 | 2.360,30 | 2.422,71 | 2.485,13 |  |
+| A 11 | 2.457,03 | 2.520,97 | 2.584,92 | 2.648,88 | 2.712,84 | 2.776,78 |
+| A 12 | 2.687,23 | 2.763,47 | 2.839,72 | 2.915,96 | 2.992,21 | 3.068,45 |
+| A 13 | 3.003,78 | 3.086,12 | 3.168,46 | 3.250,78 | 3.333,12 | 3.415,46 |
+| A 14 | 3.252,70 | 3.359,47 | 3.466,24 | 3.573,01 | 3.679,78 | 3.786,55 |
+| A 15 | 3.576,89 | 3.717,76 | 3.858,62 | 3.999,48 | 4.140,35 | 4.281,20 |
+| A 16 | 3.959,73 | 4.122,65 | 4.285,57 | 4.448,47 | 4.611,39 | 4.774,31 |
+| Gültig ab 1. Januar 2003 |
+| 2. Bundesbesoldungsordnung B |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe |  |
+| B 1 | 4.281,20 |
+| B 2 | 4.980,43 |
+| B 3 | 5.276,43 |
+| B 4 | 5.586,45 |
+| B 5 | 5.942,15 |
+| B 6 | 6.278,04 |
+| B 7 | 6.604,77 |
+| B 8 | 6.945,32 |
+| B 9 | 7.368,15 |
+| B 10 | 8.681,21 |
+| B 11 | 9.421,74 |
+| Gültig ab 1. Januar 2003 |
+| 3. Bundesbesoldungsordnung W |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe | W 1 | W 2 | W 3 |
+|  | 2.966,60 | 3.388,84 | 4.115,02 |
+| Gültig ab 1. Januar 2003 |
+| 4. Bundesbesoldungsordnung R |
+| Grundgehaltssätze |
+| (Monatsbeträge in Euro) |
+| Besoldungsgruppe | Stufe |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| Lebensalter |
+| 27 | 29 | 31 | 33 | 35 | 37 |
+| R 1 | 2.695,32 | 2.818,83 | 2.883,84 | 3.051,56 | 3.219,27 | 3.386,98 |
+| R 2 |  |  | 3.285,31 | 3.453,03 | 3.620,74 | 3.788,46 |
+| R 3 | 5.276,43 |  |  |  |  |  |
+| R 4 | 5.586,45 |  |  |  |  |  |
+| R 5 | 5.942,15 |  |  |  |  |  |
+| R 6 | 6.278,04 |  |  |  |  |  |
+| R 7 | 6.604,77 |  |  |  |  |  |
+| R 8 | 6.945,32 |  |  |  |  |  |
+| R 9 | 7.368,15 |  |  |  |  |  |
+| R 10 | 9.055,53 |  |  |  |  |  |
+|  |
+| Besoldungsgruppe | Stufe |
+| 7 | 8 | 9 | 10 | 11 | 12 |
+| Lebensalter |
+| 39 | 41 | 43 | 45 | 47 | 49 |
+| R 1 | 3.554,71 | 3.722,42 | 3.890,13 | 4.057,85 | 4.225,57 | 4.393,28 |
+| R 2 | 3.956,18 | 4.123,89 | 4.291,61 | 4.459,31 | 4.627,03 | 4.794,74 |
+|  | (Anlage V des BBesG) |
+|  | (Zweite Besoldungs-Übergangsverordnung) |
+|  |
+| Gültig ab 1. Januar 2003 |
+|  |
+|  | Familienzuschlag(Monatsbeträge in Euro) |
+|  | Stufe 1(§ 40 Abs. 1) | Stufe 2(§ 40 Abs. 2) |
+| Besoldungsgruppen A 2 bis A 8 | 87,32 | 165,77 |
+| übrige Besoldungsgruppen | 91,72 | 170,17 |
+Bei mehr als einem Kind erhöht sich der Familienzuschlag für das zweite zu berücksichtigende Kind um 78,45 Euro, für das dritte und jedes weitere zu berücksichtigende Kind um 104,06 Euro *).
+Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5
+Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu berücksichtigende Kind in den Besoldungsgruppen A 2 bis A 5 um je 4,65 Euro, ab Stufe 3 für jedes weitere zu berücksichtigende Kind
+in den Besoldungsgruppen A 2 und A 3 um je 23,26 Euro,
+in der Besoldungsgruppe A 4 um je 18,61 Euro und
+in der Besoldungsgruppe A 5 um je 13,96 Euro.
+Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
+Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
+| - in den Besoldungsgruppen A 2 bis A 8: | 81,18 Euro |
+| - in den Besoldungsgruppen A 9 bis A 12: | 86,18 Euro |
+-----
+*) Nach Maßgabe des Artikels 12 § 4 des 6. Besoldungsänderungsgesetzes vom 14. Dezember 2001 (BGBl. I S. 3702) ist der Familienzuschlag nach der Anlage V ab dem 1. Januar 2003 für das dritte und jedes weitere zu berücksichtigende Kind um 96,81 Euro zu erhöhen.
+|  | (Anlage VIII des BBesG) |
+|  | (Zweite Besoldungs-Übergangsverordnung) |
+|  |
+| Gültig ab 1. Januar 2003 |
+|  |
+| Anwärtergrundbetrag(Monatsbeträge in Euro) |
+| Eingangsamt, in das der Anwärter nachAbschluss des Vorbereitungsdienstesunmittelbar eintritt | Grundbetrag |
+| A 2 bis A 4 | 617,66 |
+| A 5 bis A 8 | 712,30 |
+| A 9 bis A 11 | 754,64 |
+| A 12 | 864,22 |
+| A 13 | 889,12 |
+| A 13 + Zulage(Nummer 27 Abs. 1 Buchstabe c derVorbemerkungen zu denBundesbesoldungsordnungen A und B)oder R 1 | 916,52 |
+|  | (Anlage IX des BBesG) |  |
+|  | (Zweite Besoldungs-Übergangsverordnung) |
+|  |
+| Gültig ab 1. Januar 2003 |
+|  |
+| Amtszulagen, Stellenzulagen, Zulagen, Vergütungen(Monatsbeträge)- in der Reihenfolge der Gesetzesstellen - |
+| Dem Grunde nach geregelt in | Betrag in Euro,Vomhundert, Bruchteil |
+| Bundesbesoldungsgesetz |
+| § 44 | bis zu | 93,06 |
+| § 48 Abs. 2 | bis zu | 93,06 |
+| § 78 | bis zu | 69,79 |
+| Bundesbesoldungsordnungen A und BVorbemerkungen |
+| Nummer 2 Abs. 2 | 116,32 |
+| Nummer 4 | 46,53 |
+| Nummer 4a | 69,79 |
+| Nummer 5 |  |
+|  | Die Zulage beträgt für Mannschaften, Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6 |  | 32,57 |
+|  | Unteroffiziere/Beamte der Besoldungsgruppen A 7 bis A 9 |  | 46,53 |
+|  | Offiziere/Beamte des gehobenen und höheren Dienstes |  | 69,79 |
+| Nummer 5a |
+| Abs. 1 |
+|  | Buchstabe a | 83,75 |
+|  | Buchstabe b | 139,58 |
+|  | Buchstabe c | 200,07 |
+| Abs. 2 |
+| Nr. 1 | Buchstabe a | 125,63 |
+|  | Buchstabe b | 93,06 |
+| Nr. 2 | Buchstabe a | 93,06 |
+|  | Buchstabe b | 37,22 |
+| Nr. 3 |  | 60,49 |
+| Nr. 4 und 5 |  | 55,84 |
+| Nr. 6 | Buchstabe a | 93,06 |
+|  | Buchstabe b | 93,06 |
+| Nr. 7 | Buchstabe a | 93,06 |
+|  | Buchstabe b | 37,22 |
+| Nr. 8 | Buchstabe a | 116,32 |
+|  | Buchstabe b | 60,49 |
+| Nr. 9 |  | 55,84 |
+| Nummer 6 Abs. 1 |  |  |
+|  | Buchstabe a | 418,75 |
+|  | Buchstabe b | 335,00 |
+|  | Buchstabe c | 268,00 |
+| Nummer 6a |  | 93,06 |
+| Nummer 7 |  |  |
+|  | Die Zulage beträgt für Beamte und Soldaten der Besoldungsgruppen |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *) |
+|  | A 2 bis A 5 | A 5 |  |
+|  | A 6 bis A 9 | A 9 |  |
+|  | A 10 bis A 13 | A 13 |  |
+|  | A 14, A 15, B 1 | A 15 |  |
+|  | A 16, B 2 bis B 4 | B 3 |  |
+|  | B 5 bis B 7 | B 6 |  |
+|  | B 8 bis B 10 | B 9 |  |
+|  | B 11 | B 11 |  |
+| Nummer 8 |
+| Die Zulage beträgt für Beamte der Besoldungsgruppen |  |
+|  | A 2 bis A 5 | 104,69 |
+|  | A 6 bis A 9 | 139,58 |
+|  | A 10 und höher | 174,47 |
+| Nummer 8a |
+|  | Die Zulage beträgt für Beamte der Besoldungsgruppen |  |  |
+|  | A 2 bis A 5 | 63,75 |
+|  | A 6 bis A 9 | 86,93 |
+|  | A 10 bis A 13 | 107,22 |
+|  | A 14 und höher | 127,50 |
+|  | für Anwärter der Laufbahngruppe |  |  |
+|  | des mittleren Dienstes | 46,37 |
+|  | des gehobenen Dienstes | 60,85 |
+|  | des höheren Dienstes | 75,35 |
+| Nummer 8b |
+|  | Die Zulage beträgt für Beamte der Besoldungsgruppen |  |  |
+|  | A 2 bis A 5 | 83,75 |
+|  | A 6 bis A 9 | 111,67 |
+|  | A 10 bis A 13 | 139,58 |
+|  | A 14 und höher | 167,50 |
+| Nummer 9 |
+|  | Die Zulage beträgt nach einer Dienstzeit |  |  |
+|  | von einem Jahr | 57,96 |
+|  | von zwei Jahren | 115,92 |
+| Nummer 9a |
+| Abs. 1 |  |
+|  | Buchstabe a | 93,06 |
+|  | Buchstabe b | 186,11 |
+|  | Buchstabe c | 139,58 |
+| Abs. 2 |  |
+|  | Buchstabe a | 37,22 |
+|  | Buchstabe b | 46,53 |
+| Nummer 10 Abs. 1 |
+|  | Die Zulage beträgt nach einer Dienstzeit |  |  |
+|  | von einem Jahr | 57,96 |
+|  | von zwei Jahren | 115,92 |
+| Nummer 12 | 86,93 |
+| Nummer 13a | bis zu | 69,79 |
+| Nummer 13c |
+|  | Die Zulage beträgt für Beamte der Besoldungsgruppen |  |  |
+|  | A 2 bis A 7 | 41,88 |
+|  | A 8 bis A 11 | 55,84 |
+|  | A 12 bis A 15 | 65,14 |
+|  | A 16 und höher | 83,75 |
+| Nummer 13d |  |
+|  | Die Zulage beträgt für Beamte der Besoldungsgruppen |  |  |
+|  | A 2 und A 3 | 11,63 |
+|  | A 4 bis A 6 | 16,29 |
+|  | A 7 bis A 10 | 32,57 |
+|  | A 11 | 37,22 |
+|  | A 12 bis A 15 | 44,20 |
+|  | A 16 bis B 4 | 53,51 |
+|  | B 5 bis B 7 | 65,14 |
+| Nummer 19 Satz 1 | 184,30 |
+| Nummer 21 | 154,61 |
+| Nummer 25 | 34,90 |
+| Nummer 26 Abs. 1 |  |
+|  | Die Zulage beträgt für Beamte |  |  |
+|  | des mittleren Dienstes | 15,52 |
+|  | des gehobenen Dienstes | 34,90 |
+| Nummer 27 |
+| Abs. 1 |  |
+|  | Buchstabe a |
+|  | Doppelbuchstabe aa | 14,27 |
+|  | Doppelbuchstabe bb | 55,83 |
+|  | Buchstabe b | 62,03 |
+|  | Buchstabe c | 62,03 |
+| Abs. 2 |  |
+|  | Buchstabe a |
+|  | Doppelbuchstabe bb | 41,57 |
+|  | Buchstabe b und c | 62,03 |
+| Nummer 30 | 20,94 |
+| Besoldungsgruppen |  | Fußnote |  |
+| A 2 |  | 1 | 26,65 |
+|  |  | 2 | 16,13 |
+|  |  | 3 | 49,15 |
+| A 3 |  | 1, 5 | 49,15 |
+|  |  | 2 | 26,65 |
+|  |  | 7 | 24,83 |
+| A 4 |  | 1, 4 | 49,15 |
+|  |  | 2 | 26,65 |
+|  |  | 5 | 5,35 |
+| A 5 |  | 3 | 26,65 |
+|  |  | 4, 6 | 49,15 |
+| A 6 |  | 6 | 26,65 |
+| A 7 |  | 2 | 33,09 |
+|  |  | 5 | 50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8 |
+| A 8 |  | 2 | 42,65 |
+| A 9 |  | 2, 3, 6 | 198,42 |
+|  |  | 7 | 8 v.H. des Endgrundgehalts der Besoldungsgruppe A 9 |
+| A 12 |  | 7, 8 | 115,24 |
+| A 13 |  | 6 | 92,16 |
+|  |  | 7 | 138,24 |
+|  |  | 11, 12, 13 | 201,64 |
+| A 14 |  | 5 | 138,24 |
+| A 15 |  | 7 | 138,24 |
+| B 10 |  | 1 | 319,46 |
+| ---------- |
+| *)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345). |
+|  |
+| Dem Grunde nach geregelt in | Betrag in Euro, Vomhundert, Bruchteil |
+| Bundesbesoldungsordnung RVorbemerkungen |
+| Nummer 2 |
+| Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *) |
+|  | a)bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n) |  |  |
+|  | R 1 | R 1 |
+|  | R 2 bis R 4 | R 3 |
+|  | R 5 bis R 7 | R 6 |
+|  | R 8 bis R 10 | R 9 |
+|  | b)bei Verwendung bei obersten Bundesbehörden oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n) |  |  |
+|  | R 1 | A 15 |
+|  | R 2 bis R 4 | B 3 |
+|  | R 5 bis R 7 | B 6 |
+|  | R 8 bis R 10 | B 9 |
+| Nummer 4 | 34,90 |
+| Besoldungsgruppen | Fußnote |  |
+| R 1 |  | 1, 2 | 152,84 |
+| R 2 |  | 3 bis 8, 10 | 152,84 |
+| R 3 |  | 3 | 152,84 |
+| R 8 |  | 2 | 305,63 |
+| ---------- |
+| *)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345). |
+|  |
+| Gültig ab 1. Januar 2003 |
+| (Zweite Besoldungs-Übergangsverordnung) |
+| Bundesbesoldungsordnung C |
+| Grundgehaltssätze(Monatsbeträge in Euro) |
+| Besoldungsgruppe | Stufe |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| C 1 | 2.345,12 | 2.427,45 | 2.509,79 | 2.592,12 | 2.674,45 | 2.756,79 |
+| C 2 | 2.350,25 | 2.481,46 | 2.612,68 | 2.743,90 | 2.875,11 | 3.006,32 |
+| C 3 | 2.588,02 | 2.736,60 | 2.885,16 | 3.033,74 | 3.182,31 | 3.330,88 |
+| C 4 | 3.287,48 | 3.436,82 | 3.586,17 | 3.735,52 | 3.884,88 | 4.034,22 |
+|  |
+| Besoldungsgruppe | Stufe |
+| 7 | 8 | 9 | 10 | 11 | 12 |
+| C 1 | 2.839,11 | 2.921,45 | 3.003,78 | 3.086,12 | 3.168,46 | 3.250,78 |
+| C 2 | 3.137,53 | 3.268,75 | 3.399,96 | 3.531,17 | 3.662,38 | 3.793,59 |
+| C 3 | 3.479,45 | 3.628,02 | 3.776,59 | 3.925,17 | 4.073,72 | 4.222,30 |
+| C 4 | 4.183,57 | 4.332,92 | 4.482,27 | 4.631,62 | 4.780,98 | 4.930,32 |
+|  |  |
+| Besoldungsgruppe | Stufe |
+| 13 | 14 | 15 |
+| C 1 | 3.333,12 | 3.415,46 |  |
+| C 2 | 3.924,80 | 4.056,02 | 4.187,24 |
+| C 3 | 4.370,87 | 4.519,44 | 4.668,01 |
+| C 4 | 5.079,67 | 5.229,01 | 5.378,36 |
+|  |
+| Amtszulagen, Stellenzulagen, Zulagen, Vergütungen(Monatsbeträge)- in der Reihenfolge der Gesetzesstellen - |
+| Dem Grunde nach geregelt in | Betrag in Euro, Vomhundert, Bruchteil |
+| Bundesbesoldungsordnung CVorbemerkungen |
+| Nummer 2b | 62,03 |
+| Bundesbesoldungsordnung C |  |
+| Vorbemerkungen |  |
+| Nummer 3 |  |
+| Die Zulage beträgt | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe *) |
+| für Beamte der Besoldungsgruppe(n) |  |
+| C 1 | A 13 |
+| C 2 | A 15 |
+| C 3 und C 4 | B 3 |
+| Bundesbesoldungsordnung C |  |
+| Vorbemerkungen |  |
+| Nummer 5 |  |
+|  | wenn ein Amt ausgeübt wird |  |
+|  | der Besoldungsgruppe R 1 | 187,04 |
+|  | der Besoldungsgruppe R 2 | 209,37 |
+| Besoldungsgruppe |  | Fußnote |  |
+| C 2 |  | 1 | 94,93 |
+| ---------- |
+| *)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091). |

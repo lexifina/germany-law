@@ -1,0 +1,2 @@
+# Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und
+dem Königreich Marokko über Soziale Sicherheit

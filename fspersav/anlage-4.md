@@ -1,0 +1,23 @@
+# Anlage 4 (zu § 5 Abs. 2)Anforderungen an Lizenzscheine
+
+(Fundstelle: BGBl. I 2008, 1962)
+1. Einzelangaben
+  Folgende Angaben müssen in der Lizenz aufgeführt sein, wobei die mit einem Stern gekennzeichneten Angaben ins Englische zu übersetzen sind:
+  a) *Name des erteilenden Staates oder der erteilenden Behörde (in Halbfettdruck);
+  b) *Titel der Lizenz (in Fettdruck);
+  c) laufende Nummer der Lizenz (in arabischen Ziffern), die von der die Lizenz erteilenden Behörde vergeben wird;
+  d) vollständiger Name des Inhabers der Lizenz;
+  e) Geburtsdatum;
+  f) Staatsangehörigkeit des Inhabers;
+  g) Unterschrift des Inhabers;
+  h) *Bescheinigung der Gültigkeit und der Ermächtigung für den Inhaber, die mit der Lizenz verbundenen Rechte auszuüben, wobei Folgendes anzugeben ist:
+    1) die Erlaubnisse, Befugnisse, Sprachenvermerke, Ausbildererlaubnis und Berechtigungen,
+    2) Datum der jeweils erstmaligen Erteilung,
+    3) Datum des Ablaufs der jeweiligen Gültigkeitsdauer;
+  i) Unterschrift der die Lizenz ausstellenden Person und Datum der Erteilung;
+  j) Stempel der Aufsichtsbehörde.
+  Der Lizenz muss ein gültiges medizinisches Tauglichkeitszeugnis beigefügt sein.
+2. Material
+  Es ist Papier bester Qualität oder ein anderes geeignetes Material zu verwenden, und die in Nummer 1 genannten Angaben müssen darauf deutlich zu erkennen sein.
+3. Farbe
+  Der Lizenzschein für Fluglotsen ist gelb.

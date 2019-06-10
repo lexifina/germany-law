@@ -1,0 +1,18 @@
+# Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
+
+- [§ 1 Geltungsbereich, Verordnungsermächtigungen](0001.md)
+- [§ 2 Höhe der Gebühren](0002.md)
+- [§ 3 Fälligkeit der Gebühren](0003.md)
+- [§ 4 Kostenschuldner](0004.md)
+- [§ 5 Vorauszahlung, Vorschuss](0005.md)
+- [§ 6 Zahlungsfristen, Folgen der Nichtzahlung](0006.md)
+- [§ 7 Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag](0007.md)
+- [§ 8 Kostenansatz](0008.md)
+- [§ 9 Unrichtige Sachbehandlung](0009.md)
+- [§ 10 Rückzahlung von Kosten, Wegfall der Gebühr](0010.md)
+- [§ 11 Erinnerung, Beschwerde](0011.md)
+- [§ 12 Verjährung, Verzinsung](0012.md)
+- [§ 13 Anwendung der bisherigen Gebührensätze](0013.md)
+- [§ 14 Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes](0014.md)
+- [§ 15 (weggefallen)](0015.md)
+- [Anlage (zu § 2 Abs. 1)Gebührenverzeichnis](anlage.md)

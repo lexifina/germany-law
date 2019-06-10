@@ -1,0 +1,16 @@
+# Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Bestimmung der Vordrucke](0001.md)
+- [§ 2 Zweitschriften, Ausfertigungen](0002.md)
+- [§ 3 Zulässige Abweichungen](0003.md)
+- [§ 4 Übergang zum Euro](0004.md)
+- [§ 5 Inkrafttreten](0005.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage 1](anlage-1.md)
+- [Anlage 2](anlage-2.md)
+- [Anlage 3](anlage-3.md)
+- [Anlage 4](anlage-4.md)
+- [Anlage 5](anlage-5.md)
+- [Anlage 6](anlage-6.md)
+- [Anlage 7](anlage-7.md)

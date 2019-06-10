@@ -1,0 +1,20 @@
+# Verordnung über die Arbeitszeit der Beamtinnen und Beamten des Bundes
+
+- [§ 1 Geltungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Regelmäßige wöchentliche Arbeitszeit](0003.md)
+- [§ 4 Regelmäßige tägliche Arbeitszeit](0004.md)
+- [§ 5 Ruhepausen und Ruhezeit](0005.md)
+- [§ 6 Dienstfreie Tage](0006.md)
+- [§ 7 Gleitende Arbeitszeit](0007.md)
+- [§ 7a Erprobung von Langzeitkonten](0007a.md)
+- [§ 8 Schichtdienst](0008.md)
+- [§ 9 Zusammenfassung der Freistellung von der Arbeit bei
+Teilzeitbeschäftigung](0009.md)
+- [§ 10 Arbeitsplatz](0010.md)
+- [§ 11 Dienstreisen](0011.md)
+- [§ 12 Rufbereitschaft](0012.md)
+- [§ 13 Bereitschaftsdienst](0013.md)
+- [§ 14 Nachtdienst](0014.md)
+- [§ 15 Ausnahmen bei spezifischen Tätigkeiten](0015.md)
+- [§ 16 Zuständigkeit](0016.md)

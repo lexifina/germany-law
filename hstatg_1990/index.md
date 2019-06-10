@@ -1,0 +1,16 @@
+# Gesetz über die Statistik für das Hochschulwesen sowie für die Berufsakademien
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Zweck](0001.md)
+- [§ 2 Erhebungsbereich](0002.md)
+- [§ 3 Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)](0003.md)
+- [§ 4 Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 1 und 2 (Hochschulen, Hochschulkliniken sowie staatliche und kirchliche Prüfungsämter)](0004.md)
+- [§ 5 Erhebungsmerkmale für Promovierende bei Einrichtungen nach § 2 Nummer 1 (Hochschulen und Hochschulkliniken)](0005.md)
+- [§ 6 Erhebungsmerkmale bei Einrichtungen nach § 2 Nummer 3 (Berufsakademien)](0006.md)
+- [§ 7 Studienverlaufsstatistik](0007.md)
+- [§ 8 Auswertungsdatenbank Hochschulstatistik](0008.md)
+- [§ 9 Hilfsmerkmale](0009.md)
+- [§ 10 Auskunftserteilung](0010.md)
+- [§ 11 Veröffentlichung und Übermittlung von Tabellen](0011.md)
+- [§ 12 Ausschuß für die Hochschulstatistik](0012.md)
+- [§ 13 Übergangsvorschrift](0013.md)

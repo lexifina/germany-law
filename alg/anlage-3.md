@@ -1,0 +1,41 @@
+# Anlage 3
+
+| Rentenbeginn/Monatnach Todesmonat | Werte nach § 93a (in Prozent) |
+| Jahr | Monat |
+| vor 2001 |  | 0,00 |
+| 2001 | Januar | 2,78 |
+|  | Februar | 5,56 |
+|  | März | 8,33 |
+|  | April | 11,11 |
+|  | Mai | 13,89 |
+|  | Juni | 16,67 |
+|  | Juli | 19,44 |
+|  | August | 22,22 |
+|  | September | 25,00 |
+|  | Oktober | 27,78 |
+|  | November | 30,56 |
+|  | Dezember | 33,33 |
+| 2002 | Januar | 36,11 |
+|  | Februar | 38,89 |
+|  | März | 41,67 |
+|  | April | 44,44 |
+|  | Mai | 47,22 |
+|  | Juni | 50,00 |
+|  | Juli | 52,78 |
+|  | August | 55,56 |
+|  | September | 58,33 |
+|  | Oktober | 61,11 |
+|  | November | 63,89 |
+|  | Dezember | 66,67 |
+| 2003 | Januar | 69,44 |
+|  | Februar | 72,22 |
+|  | März | 75,00 |
+|  | April | 77,78 |
+|  | Mai | 80,56 |
+|  | Juni | 83,33 |
+|  | Juli | 86,11 |
+|  | August | 88,89 |
+|  | September | 91,67 |
+|  | Oktober | 94,44 |
+|  | November | 97,22 |
+|  | Dezember | 100,00 |

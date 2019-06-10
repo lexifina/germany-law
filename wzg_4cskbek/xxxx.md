@@ -1,0 +1,6 @@
+# (XXXX)
+
+(1)
+Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29), zuletzt geändert durch Gesetz vom 23. Juni 1970 (Bundesgesetzbl. I S. 821), werden in der Anlage amtliche Prüf- und Gewährzeichen bekanntgemacht, die in der Tschechoslowakischen Sozialistischen Republik eingeführt sind.
+(2)
+Diese Bekanntmachung ergeht im Anschluß an die Bekanntmachung vom 18. Dezember 1968 (Bundesgesetzbl. I S. 1416).

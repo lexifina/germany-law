@@ -1,0 +1,25 @@
+# Anlage 3 (zu § 3 Absatz 3)Daten, die durch Sektorenauftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrages an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind
+
+| lfd. Nr. | Bezeichnung lt. Anhang VI zur Durchführungsverordnung (EU) 2015/1986 | Bemerkung |
+| 1 | Abschnitt I: Auftraggeber I.1) Name und Adressen Postleitzahl | Postleitzahl des Sitzes des Sektorenauftraggebers bzw. der Dienststelle/Vergabestelle. |
+| 2 | Abschnitt I: Auftraggeber I.1) Name und Adressen E-Mail | Angabe einer funktionalen, nicht personenbezogenen E-Mail-Adresse des Sektorenauftraggebers. |
+| 3 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.2) CPV-Code Hauptteil CPV-Code Zusatzteil | CPV = Common Procurement Vocabulary-Nomenklatur (gemeinsames Vokabular für öffentliche Aufträge) |
+| 4 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.3) Art des Auftrags◯ Bauauftrag◯ Lieferauftrag◯ Dienstleistungen |  |
+| 5 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.6) Angaben zu den Losen Aufteilung des Auftrags in Lose◯ ja ◯ nein |  |
+| 6 | Abschnitt II: Gegenstand II.1) Umfang der Beschaffung II.1.7) Gesamtwert der Beschaffung (ohne MwSt.) Wert |  |
+| 7 | Abschnitt II: Gegenstand II.2) Beschreibung II.2.5) Zuschlagskriterien ⃞ Qualitätskriterium – Name/Gewichtung◯ Kostenkriterium – Name/Gewichtung◯ Preis – Gewichtung | Die Angaben zu den Zuschlagskriterien, Name und Gewichtung der Qualitäts- oder der Kostenkriterien umfassen auch Angaben zu qualitativen, umweltbezogenen, sozialen oder innovativen Kriterien im Sinne von § 52 Abs. 2 SektVO. |
+| 8 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.1) Verfahrensart |  |
+|  | ◯ Offenes Verfahren◯ Nicht offenes Verfahren ◯ Verhandlungsverfahren mit vorherigem Aufruf zum Wettbewerb◯ Wettbewerblicher Dialog ◯ Innovationspartnerschaft ◯ Auftragsvergabe ohne vorherige Bekanntmachung eines Aufrufs zum Wettbewerb im Amtsblatt der Europäischen Union | –Offenes Verfahren gem. § 14 SektVO–Nicht offenes Verfahren gem. § 15 SektVO–Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb gem. § 15 SektVO–Wettbewerblicher Dialog gem. § 17 SektVO–Innovationspartnerschaft gem. § 18 SektVO–Verhandlungsverfahren ohne Teilnahmewettbewerb gem. § 13 Abs. 2 SektVO |
+| 9 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.3) Angaben zur Rahmenvereinbarung oder zum dynamischen Beschaffungssystem ⃞ Die Bekanntmachung betrifft den Abschluss einer Rahmenvereinbarung | Abgeschlossene Rahmenvereinbarungen werden einmal statistisch erfasst. Einzelabrufe aus Rahmenvereinbarungen werden nicht gesondert statistisch erfasst. |
+| 10 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.3) Angaben zur Rahmenvereinbarung oder zum dynamischen Beschaffungssystem ⃞ Ein dynamisches Beschaffungssystem wurde eingerichtet |  |
+| 11 | Abschnitt IV: Verfahren IV.1) Beschreibung IV.1.6) Angaben zur elektronischen Auktion ⃞ Eine elektronische Auktion wurde durchgeführt |  |
+| 12 | Abschnitt IV: Verfahren IV.2) Verwaltungsangaben IV.2.1) Frühere Bekanntmachung zu diesem Verfahren Bekanntmachungsnummer im ABl. |  |
+| 13 | Abschnitt V: Auftragsvergabe Auftrags-Nr. |  |
+| 14 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.1) Tag des Vertragsabschlusses (TT/MM/JJJJ) |  |
+| 15 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote |  |
+| 16 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote von KMU | Anzahl der eingegangenen Angebote von kleinen oder mittleren Unternehmen gemäß der Definition in der Empfehlung 2003/361/EC der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L 124 vom 20.5.2003, S. 36). |
+| 17 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der eingegangenen Angebote von Bietern aus anderen EU-Mitgliedstaaten |  |
+| 18 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.2) Angaben zu den Angeboten Anzahl der elektronisch eingegangenen Angebote |  |
+| 19 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.3) Name und Anschrift des Wirtschaftsteilnehmers, zu dessen Gunsten der Zuschlag erteilt wurde Der Auftragnehmer ist ein KMU◯ ja ◯ nein |  |
+| 20 | Abschnitt V: Auftragsvergabe V.2) Auftragsvergabe V.2.3) Name und Anschrift des Wirtschaftsteilnehmers, zu dessen Gunsten der Zuschlag erteilt wurde Land | Staat, in dem das Unternehmen, auf dessen Angebot der Zuschlag erteilt wurde, seinen Sitz hat. |
+| 21 | Anhang D2 – Sektoren Begründung der Auftragsvergabe ohne vorherige Bekanntmachung eines Aufrufs zum Wettbewerb im Amtsblatt der Europäischen Union (ABl. S) | Begründung der Wahl des Verhandlungsverfahrens ohne Teilnahmewettbewerb gem. § 13 Abs. 2 SektVO (Nummer 10 „Auftragsvergabe ohne vorherige Bekanntmachung eines Aufrufs zum Wettbewerb im Amtsblatt der Europäischen Union“) entsprechend der in Anhang D2 aufgeführten Fallgruppen. |

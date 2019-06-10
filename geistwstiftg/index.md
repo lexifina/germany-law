@@ -1,0 +1,18 @@
+# Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn
+
+- [§ 1 Name, Rechtsform und Sitz der Stiftung](0001.md)
+- [§ 2 Zweck der Stiftung](0002.md)
+- [§ 3 Stiftungsvermögen](0003.md)
+- [§ 4 Satzung](0004.md)
+- [§ 5 Organe der Stiftung](0005.md)
+- [§ 6 Stiftungsrat](0006.md)
+- [§ 7 Verfahren des Stiftungsrates](0007.md)
+- [§ 8 Direktionsversammlung](0008.md)
+- [§ 9 Direktorinnen und Direktoren der Institute](0009.md)
+- [§ 10 Wissenschaftliche Beiräte der Institute](0010.md)
+- [§ 11 Ehrenamtliche Tätigkeit](0011.md)
+- [§ 12 Geschäftsführung](0012.md)
+- [§ 13 Geschäftsstelle](0013.md)
+- [§ 14 Aufsicht, Rechnungsprüfung](0014.md)
+- [§ 15 Beschäftigte](0015.md)
+- [§ 16 Berichterstattung](0016.md)

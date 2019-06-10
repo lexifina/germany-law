@@ -1,0 +1,8 @@
+# Anlage (zu § 1)
+
+Privatfinanzierte Abschnitte von Bundesfernstraßen
+
+Fundstelle des Originaltextes: BGBl. I 2005, 1686
+| lfd Nr. | Bezeichnung | Streckenabschnitt | Bundesland |
+| 1 | Warnow-Tunnel (im Stadtgebiet der Hansestadt Rostock) | Bundesstraße B 103n zwischen Straßenkilometer 1+040 und Straßenkilometer 3+160 | Mecklenburg-Vorpommern |
+| 2 | Herrentunnel (im Stadtgebiet der Hansestadt Lübeck) | Bundesstraße B 104 zwischen Straßenkilometer 6+034,11 westlich der Trave und Straßenkilometer 8+051,08 östlich der Trave | Schleswig-Holstein |

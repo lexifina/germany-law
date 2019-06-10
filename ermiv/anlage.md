@@ -1,0 +1,27 @@
+# Anlage (zu § 2 Nummer 6 und 7)Ursprungsgebiete und Produktionsräume
+
+[Bild: bgbl1_2011_j2641-1_0010.jpg]
+| Nr. | Produktionsräume | Nr. | Ursprungsgebiete |
+| 1 | Nordwestdeutsches Tiefland | 1 | Nordwestdeutsches Tiefland |
+| 2 | Westdeutsches Tiefland mit Unterem Weserbergland |
+| 2 | Nordostdeutsches Tiefland | 3 | Nordostdeutsches Tiefland |
+| 4 | Ostdeutsches Tiefland |
+| 22 | Uckermark mit Odertal |
+| 3 | Mitteldeutsches Flach- und Hügelland | 5 | Mitteldeutsches Tief- und Hügelland |
+| 20 | Sächsisches Löss- und Hügelland |
+| 4 | Westdeutsches Berg- und Hügelland | 6 | Oberes Weser- und Leinebergland mit Harz |
+| 7 | Rheinisches Bergland |
+| 21 | Hessisches Bergland |
+| 5 | Südost- und ostdeutsches Bergland | 8 | Erz- und Elbsandsteingebirge |
+| 15 | Thüringer Wald, Fichtelgebirge und Vogtland |
+| 19 | Bayerischer und Oberpfälzer Wald |
+| 6 | Südwestdeutsches Berg- und Hügelland mit Oberrheingraben | 9 | Oberrheingraben mit Saarpfälzer Bergland |
+| 10 | Schwarzwald |
+| 7 | Süddeutsches Berg- und Hügelland | 11 | Südwestdeutsches Bergland |
+| 12 | Fränkisches Hügelland |
+| 13 | Schwäbische Alb |
+| 14 | Fränkische Alb |
+| 8 | Alpen und Alpenvorland | 16 | Unterbayerische Hügel- und Plattenregion |
+| 17 | Südliches Alpenvorland |
+| 18 | Nördliche Kalkalpen |
+Quelle, S. 26-28 aus: „Prasse, R., Kunzmann, D. & R. Schröder (2010): Entwicklung und praktische Umsetzung naturschutzfachlicher Mindestanforderungen an einen Herkunftsnachweis für gebietseigenes Wildpflanzensaatgut krautiger Pflanzen. Abschlussbericht eines von der DBU finanziell geförderten Forschungsprojekts des Instituts für Umweltplanung der Gottlieb Wilhelm Leibniz Universität Hannover in Kooperation mit dem Verband deutscher Wildsamen- und Wildpflanzenproduzenten e. V., unveröffentlichtes Manuskript, 166 S.“

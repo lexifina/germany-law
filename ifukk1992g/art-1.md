@@ -1,0 +1,3 @@
+# Art 1
+
+Der Konstitution der Internationalen Fernmeldeunion und der Konvention der Internationalen Fernmeldeunion, die in Genf am 22. Dezember 1992 von der Bundesrepublik Deutschland unterzeichnet worden sind, sowie den Änderungen der Konstitution und der Konvention der Internationalen Fernmeldeunion, die in Kioto am 14. Oktober 1994 von der Bundesrepublik Deutschland unterzeichnet worden sind, wird zugestimmt. Die Konstitution, die Konvention und die Erklärungen und Vorbehalte vom 22. Dezember 1992 sowie die Änderungen der Konstitution und der Konvention und die Erklärungen und Vorbehalte vom 14. Oktober 1994 werden nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.

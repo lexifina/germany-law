@@ -1,0 +1,149 @@
+# Anlage (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Drechsler (Elfenbeinschnitzer)/zur Drechslerin
+(Elfenbeinschnitzerin)
+
+(Fundstelle: BGBl. I 1987, 2524 - 2530)
+| I. Fertigkeiten und Kenntnisse gemäß § 3 Abs. 1 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | zu vermittelnde Fertigkeiten und Kenntnisse | zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung (§ 3 Abs. 1 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Abs. 1 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Arbeits- und Tarifrecht, Arbeitsschutz (§ 3 Abs. 1 Nr. 3) | a) | wesentliche Teile des Arbeitsvertrages nennen |
+| b) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| c) | Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern |
+| d) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen |
+| 4 | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 3 Abs. 1 Nr. 4) | a) | berufsbezogene Vorschriften der Träger der gesetzlichen Unfallversicherungen, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter beachten und anwenden |
+| b) | arbeitssicheres Verhalten beschreiben, berufstypische Unfallquellen und Unfallsituationen nennen |
+| c) | Grundregeln des Feuer- und Explosionsschutzes beschreiben |
+| d) | Grundregeln im Umgang mit elektrischem Strom beschreiben |
+| e) | Verhalten bei Unfällen und Bränden beschreiben |
+| f) | Maßnahmen der Ersten Hilfe einleiten |
+| g) | Maßnahmen zur Vermeidung von arbeitsplatzbedingten Umweltbelastungen beschreiben und durchführen |
+| h) | die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen |
+| 5 | Anfertigen und Lesen von Skizzen und Zeichnungen, Grundlagen der Gestaltung (§ 3 Abs. 1 Nr. 5) | a) | Zeichengeräte handhaben |
+| b) | Zeichnungen lesen |
+| c) | Werkzeichnungen und Arbeitsskizzen anfertigen |
+| d) | Stücklisten erstellen |
+| e) | vorgegebene Form nach Gestaltungsregeln erarbeiten |
+| f) | Entwürfe zeichnerisch darstellen |
+| 6 | Instandhalten von Handwerkszeugen (§ 3 Abs. 1 Nr. 6) | a) | Werkzeuge zum Drehen, Drechseln, Schneiden, Bohren und Fräsen instandhalten und lagern | 3 |  |  |
+| b) | Werkzeuge schärfen |
+| c) | Sägen schränken und schärfen |
+| 7 | Warten von Drehmaschinen (§ 3 Abs. 1 Nr. 7) | a) | Antriebe, Aufbau und Funktion von Drehmaschinen beschreiben | 2 |  |  |
+| b) | Dreheinrichtungen und Zubehör warten |
+| 8 | Einrichten, Bedienen und Warten von Maschinen und Vorrichtungen (§ 3 Abs. 1 Nr. 8) | a) | Aufbau und Funktion von Maschinen beschreiben | 8 |  |  |
+| b) | Maschinen einrichten, bedienen und warten |
+| c) | Störungen an Maschinen erkennen und Maßnahmen zu ihrer Behebung ergreifen |
+| d) | Arten der Kraftübertragung nennen |
+| e) | einfache Steuer- und Regelvorgänge beschreiben |
+| f) | schneidende und spanabhebende Maschinenwerkzeuge nennen und unterscheiden |
+| g) | Schärfen von Maschinenwerkzeugen beschreiben |
+| h) | Maschinenwerkzeuge auswechseln und einrichten |  | 2 |  |
+| i) | Maschinenwerkzeuge lagern |
+| k) | Vorrichtungen nach ihrem Verwendungszweck unterscheiden |  |  | 3 |
+| l) | Vorrichtungen anwenden |
+| m) | Vorrichtungen herstellen |
+| 9 | Beschaffenheit und Eigenschaften von Holz und Holzwerkstoffen (§ 3 Abs. 1 Nr. 9) | a) | Eigenschaften, Erkennungsmerkmale, Handelsformen und Verwendung der berufsüblichen Holzarten und Holzwerkstoffe nennen | 6 |  |  |
+| b) | Holz und Holzwerkstoffe lagern und stapeln |
+| c) | Fehler des Holzes beschreiben |
+| d) | Holzfeuchte messen |
+| e) | Holz trocknen |
+| f) | Holz und Holzwerkstoffe nach den für die Verwendung wichtigen Eigenschaften auswählen |
+| g) | Furniere auswählen |  |  | 1 |
+| 10 | Be- und Verarbeiten von Holz und Holzwerkstoffen (§ 3 Abs. 1 Nr. 10) | a) | Arbeitsschritte planen und festlegen |  | 1 |  |
+| b) | Meß- und Anreißarbeiten ausführen | 10 |  |  |
+| c) | Säge-, Hobel-, Feil- und Schleifarbeiten ausführen |
+| d) | Bohr- und Fräsarbeiten ausführen |
+| e) | Holz- und Holzwerkstoffe verleimen und verkleben |
+| f) | konstruktive Verbindungen aus Vollholz und Holzwerkstoffen herstellen |  |  | 2 |
+| g) | Materialfehler beseitigen |
+| 11 | Drehen und Drechseln (§ 3 Abs. 1 Nr. 11) | a) | Material zur Bearbeitung vorbereiten | 20 |  |  |
+| b) | Material anreißen, zentrieren und einspannen |
+| c) | Langholz nach Vorgaben formdrehen |
+| d) | Zylinder- und Profilformen schlichten |
+| e) | Querholz nach Vorgaben formdrehen |  | 14 |  |
+| f) | Profilformen quer zur Faser drehen |
+| g) | einfache Spannhilfen herstellen und anwenden |
+| h) | Drehteile mit Kopier- und Schabloneneinrichtungen herstellen |
+| i) | Drehteile längs zur Faser maßgerecht herstellen |  |  | 14 |
+| k) | Seriendrehteile quer zur Faser maßgerecht herstellen |
+| 12 | Beschaffenheit und Eigenschaften von Edelwerkstoffen (§ 3 Abs. 1 Nr. 12) | a) | Arten, Eigenschaften und Verwendung von Edelwerkstoffen beschreiben | 2 |  |  |
+| b) | Edelwerkstoffe materialgerecht lagern |  |  | 2 |
+| c) | Bearbeitungstechniken beschreiben |
+| d) | wichtige Bestimmungen des Artenschutzgesetzes nennen |
+| 13 | Be- und Verarbeiten von Kunststoffen (§ 3 Abs. 1 Nr. 13) | a) | Arten und Eigenschaften üblicher Kunststoffe beschreiben |  | 3 |  |
+| b) | Kunststoffe transportieren und lagern |
+| c) | Kunststoffe spanabhebend bearbeiten |
+| d) | Kunststoffe spanlos verformen |  |  | 2 |
+| e) | Kunststoffe kleben und schweißen |
+| 14 | Be- und Verarbeiten von Metallen (§ 3 Abs. 1 Nr. 14) | a) | Eigenschaften und Verwendung von Stahl und Nichteisenmetallen, soweit sie für den Ausbildungsberuf von Bedeutung sind, beschreiben | 1 |  |  |
+| b) | Meß-, Anreiß-, Säge-, Feil-, Schleif- und Bohrarbeiten ausführen |  | 4 |  |
+| c) | Metallverbindungen herstellen |
+| d) | Gewinde schneiden |
+| e) | Metallbearbeitungswerkzeuge instandhalten |
+| f) | Korrosionsschutzmaßnahmen durchführen |
+| 15 | Überprüfen und Verpacken von Erzeugnissen (§ 3 Abs. 1 Nr. 15) | a) | Teile und Erzeugnisse kennzeichnen |  | 2 |  |
+| b) | Teile und Erzeugnisse produkt- und materialgerecht lagern |
+| c) | Verpackungsmittel beschreiben |
+| d) | Erzeugnisse verpacken |
+| e) | Qualitätskontrolle durchführen |  |  | 2 |
+| II. Fertigkeiten und Kenntnisse in den Fachrichtungen |
+| A. | Fachrichtung Drechseln |
+| 1 | Entwerfen und Entwickeln von Erzeugnissen (§ 3 Abs. 2 Nr. 1 Buchstabe a) | a) | Arbeitsabläufe planen und beschreiben |  | 7 |  |
+| b) | Produktgestaltung schrittweise an der Drehbank erproben |
+| c) | Arbeitsmodelle herstellen |
+| d) | Produktentwürfe nach zeitgemäßen und historischen Vorgaben entwickeln |  |  | 7 |
+| e) | Prototypen einschließlich der erforderlichen Hilfsmittel herstellen |
+| f) | Verfahren und Materialien zur Herstellung von Prototypen protokollieren |
+| 2 | Herstellen von Teilen und Erzeugnissen (§ 3 Abs. 2 Nr. 1 Buchstabe b) | a) | geeignete Werkstoffe auswählen |  | 15 |  |
+| b) | Materialbedarf ermitteln |
+| c) | Werkstoffe anreißen, zuschneiden und zurichten |
+| d) | Fertigungsverfahren planen und festlegen |
+| e) | Futter und Hilfsmittel auswählen und einsetzen |
+| f) | Formen und Profile nach Vorgaben drehen |
+| g) | Passungen und Ringe drehen |
+| h) | mechanisch spannende Futter und pneumatische Hilfsmittel einsetzen |
+| i) | Drehmaschinen einrichten und bedienen |  |  | 15 |
+| k) | Dreheinrichtungen anwenden |
+| l) | Arbeiten mit der Oberfräse durchführen |
+| m) | Werkstücke größerer Längen bohren und drehen |
+| n) | Gewinde herstellen |
+| o) | gewundene Teile herstellen |
+| p) | Beschläge auswählen und einbauen |
+| q) | Serienprodukte herstellen |
+| r) | Maßnahmen zur Qualitätssicherung beschreiben |
+| s) | historische und spezielle Arbeitsverfahren des Drechslerhandwerks beschreiben |
+| 3 | Herstellen und Behandeln von Oberflächen (§ 3 Abs. 2 Nr. 1 Buchstabe c) | a) | Werkstoffe und Verfahren zur Oberflächenbehandlung beschreiben |  | 4 |  |
+| b) | Oberflächen zur Endbehandlung vorbereiten |
+| c) | geeignete Mittel und Verfahren zur Oberflächenbehandlung auswählen und anwenden |
+| d) | Oberflächen ausbessern |  |  | 4 |
+| e) | Furniere schneiden, fügen und zusammensetzen |
+| f) | Maßnahmen des konstruktiven und des chemischen Holzschutzes beschreiben |
+| B. | Fachrichtung Elfenbeinschnitzen |
+| 1 | Gestalten und Entwickeln von Erzeugnissen aus Edelwerkstoffen (§ 3 Abs. 2 Nr. 2 Buchstabe a) | a) | Entwurfsidee skizzieren |  | 3 |  |
+| b) | Werkstücke zeichnen, malen und modellieren |
+| c) | Modellier- und Abformmaterialien beschreiben und anwenden |  |  | 6 |
+| d) | Werkstoffe für Modelle auswählen |
+| e) | Modelle in geeigneten Maßstäben herstellen |
+| 2 | Herstellen von Erzeugnissen aus Edelwerkstoffen(§ 3 Abs. 2 Nr. 2Buchstabe b) | a) | Edelwerkstoffe unter Beachtung von Arten, Eigenschaften und Verwendung auswählen |  | 17 |  |
+| b) | Bearbeitungslinien und Bearbeitungsschritte festlegen |
+| c) | Edelwerkstoffe manuell und maschinell sägen, schneiden, schnitzen, schaben, raspeln, feilen, bohren und fräsen |
+| d) | Teile verbinden |
+| e) | Beschläge auswählen und anbringen |  |  | 14 |
+| f) | Materialfehler beseitigen, Teile ergänzen, Schäden ausbessern |
+| g) | Maßnahmen zur Qualitätssicherung beschreiben |
+| h) | Maßnahmen zur Sicherung und Werterhaltung historischer Erzeugnisse beschreiben und durchführen |
+| 3 | Herstellen von Oberflächen (§ 3 Abs. 2 Nr. 2 Buchstabe c) | a) | Werkstoffe und Verfahrenstechniken zur Oberflächenbehandlung beschreiben |  | 6 |  |
+| b) | Unterschiedliche Verfahrenstechniken anwenden |
+| c) | verschiedene Poliertechniken für Edelwerkstoffe anwenden |
+| d) | Oberflächen mit Edelwerkstoffen belegen |  |  | 6 |
+| e) | Beizen und Patinierungen anwenden |
+| f) | Oberflächen durch Schutzfilme sichern |

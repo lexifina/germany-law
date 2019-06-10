@@ -1,0 +1,18 @@
+# Versicherungsteuergesetz
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Gegenstand der Steuer](0001.md)
+- [§ 2 Versicherungsverträge](0002.md)
+- [§ 3 Versicherungsentgelt](0003.md)
+- [§ 4 Ausnahmen von der Besteuerung](0004.md)
+- [§ 5 Steuerberechnung, Steuerentstehung, Steuerausweis](0005.md)
+- [§ 6 Steuersatz](0006.md)
+- [§ 7 Steuerschuldner, Steuerentrichtungsschuldner, Haftende](0007.md)
+- [§ 7a Zuständigkeit](0007a.md)
+- [§ 8 Anmeldung, Fälligkeit](0008.md)
+- [§ 9 Erstattung, Nachentrichtung der Steuer](0009.md)
+- [§ 10 Aufzeichnungspflichten, Außenprüfung, Änderung nach Außenprüfung](0010.md)
+- [§ 10a Mitteilungspflicht](0010a.md)
+- [§ 10b Anwendungsvorschriften](0010b.md)
+- [§ 11 Ermächtigungen](0011.md)
+- [§ 12 Übergangsvorschrift](0012.md)

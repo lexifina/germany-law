@@ -1,0 +1,55 @@
+# Anlage 9 (zu § 17 Absatz 2 Satz 1 Nummer 1 und 2, § 18 Absatz 1 und 2 und § 21 Absatz 3 Nummer 4)Anforderungen an Vorzugsmilch
+
+Kapitel I
+Anforderungen an das Gewinnen
+und Behandeln sowie an die Beschaffenheit von Vorzugsmilch
+Für die Gewinnung und Behandlung von Vorzugsmilch gelten die folgenden Anforderungen:
+1. Gewinnung von Vorzugsmilch
+1.1 Anforderungen an den Tierbestand
+  Nutztiere für die Gewinnung von Vorzugsmilch sind
+1.1.1 in einer Einrichtung, die von Einrichtungen für andere Milch liefernde Tiere abgetrennt ist, zu halten,
+1.1.2 vor der ersten Vorzugsmilchgewinnung auf ihren Gesundheitszustand zu untersuchen,
+1.1.3 monatlich von einem Tierarzt klinisch auf Krankheiten, die die Beschaffenheit der im Betrieb gewonnenen Milch nachteilig beeinflussen können, zu untersuchen,
+1.1.4 monatlich zytologisch anhand von Einzelmilchproben zu untersuchen; bei Vorliegen von Zellgehalten von mehr als 250 000 pro Milliliter für Rinder und Schafe, 10 000 pro Milliliter für Pferde und 1 000 000 pro Milliliter für Ziegen ist eine bakteriologische Untersuchung von antiseptisch gewonnenen Anfangsgemelksproben jedes Euterviertels (Rinder) oder jeder Euterhälfte (Pferde, Ziegen, Schafe) durchzuführen; im Fall des Nachweises von Mastitiserregern sind die Tiere von der Gewinnung von Vorzugsmilch auszuschließen,
+1.1.5 aus der Einrichtung nach Nummer 1.1.1 zu entfernen, wenn sie erkrankt oder auf den Menschen übertragbarer Krankheiten verdächtigt sind und erst dann unter die Vorzugsmilch liefernden Tiere einzustellen oder wieder einzustellen, wenn sie einer erneuten Untersuchung auf ihren Gesundheitszustand mit negativem Befund unterlegen haben.
+2. Behandeln von Vorzugsmilch
+2.1 In Räumen, in denen Vorzugsmilch behandelt wird, muss eine Einrichtung vorhanden sein, die eine Kühlung der Milch auf nicht mehr als + 4 °C innerhalb von zwei Stunden und eine Kühlhaltung bei dieser Temperatur gewährleisten. Zum Reinigen, Desinfizieren und Trocknen der nicht fest installierten Geräte, die mit Milch in Berührung kommen, muss ein gesonderter Raum vorhanden sein. Er muss mit den für die Reinigung und Desinfektion der Geräte erforderlichen Einrichtungen ausgestattet sein.
+2.2 Die Vorzugsmilch ist nach ihrer Gewinnung unverzüglich im Milchbehandlungsraum zu reinigen, auf nicht mehr als + 4 °C zu kühlen und danach bis zur Abfüllung bei dieser Temperatur zu halten, ausgenommen in Fällen, in denen die Vorzugsmilch in tiefgefrorenem Zustand gelagert oder in den Verkehr gebracht wird.
+3. Anforderungen an die Beschaffenheit von Vorzugsmilch
+  Vorzugsmilch muss bei monatlichen Stichprobenuntersuchungen im Erzeugerbetrieb folgende Anforderungen erfüllen:
+  |  | m | M | n | c |
+  | 1. | Keimzahl/ml bei + 30 °C (Milch von Rindern, Schafen, Ziegen und Pferden) | 20 000 | 50 000 | 5 | 2 |
+  | 2. | Enterobacteriaceae/ml bei + 30 °C (Milch von Rindern, Schafen, Ziegen und Pferden) | 10 | 100 | 5 | 2 |
+  | 3. | Koagulase-positive Staphylokokken/ml (Milch von Rindern, Schafen, Ziegen und Pferden) | 10 | 100 | 5 | 2 |
+  | 4. | Anzahl somatischer Zellen/ml (Milch von Rindern und Schafen) | 200 000 | 300 000 | 5 | 2 |
+  | 5. | Salmonellen in 25 ml (Milch von Rindern, Schafen, Ziegen und Pferden) | 0 | 0 | 5 | 0 |
+  | 6. | Pathogene Mikroorganismen oder deren Toxine dürfen in der Milch von Rindern, Schafen, Ziegen und Pferden nicht in Mengen vorhanden sein, die die Gesundheit des Verbrauchers beeinträchtigen können. |
+  | 7. | Hämolysierende Streptokokken dürfen in der Milch von Pferden bei einer monatlich durchzuführenden Kontrolle in 1 ml Milch nicht nachweisbar sein. |
+  | 8. | Bei der sensorischen Kontrolle der Milch von Rindern, Schafen, Ziegen und Pferden dürfen keine Abweichungen erkennbar sein. |
+  | 9. | Der Phosphatasetest muss bei Milch von Rindern positiv reagieren. |
+  __________
+  Ergibt sich bei Stichprobenuntersuchungen von Einzelproben ein Wert „≤ m“, so sind im Regelfall weitere Untersuchungen nicht erforderlich. Liegt dagegen der Wert zwischen „m“ und „M“, so sind die dann zu ziehenden Proben (n) jeweils auf einen Produktionstag zu beziehen.
+Kapitel II
+Anforderungen an Milcherzeugungsbetriebe, die Vorzugsmilch gewinnen
+1. Allgemein
+  Milcherzeugungsbetriebe, die Vorzugsmilch gewinnen, behandeln und in den Verkehr bringen, müssen mindestens die folgenden Anforderungen erfüllen:
+1.1 In Räumen, in denen Vorzugsmilch behandelt wird, müssen
+1.1.1 Fußböden aus leicht zu reinigendem und zu desinfizierendem Material bestehen und so beschaffen sein, dass Flüssigkeiten leicht ablaufen können;
+1.1.2 die Wände glatt, fest, undurchlässig und mit einem hellen, abwaschfesten Belag oder Anstrich versehen sein, sofern die Vorzugsmilch nicht in hermetisch geschlossenen Transportbehältnissen gelagert wird;
+1.1.3 Decken so beschaffen sein, dass sie leicht zu reinigen sind;
+1.1.4 Türen aus unveränderlichem und leicht zu reinigendem Material bestehen;
+1.1.5 zur Be- und Entlüftung und gegebenenfalls zur gründlichen Entnebelung ausreichende Vorrichtungen vorhanden sein;
+1.1.6 zur Beleuchtung ausreichende Vorrichtungen vorhanden sein;
+1.1.7 in größtmöglicher Nähe der Arbeitsplätze, an denen ein Kontakt mit Vorzugsmilch möglich ist, in ausreichender Anzahl Einrichtungen zur Reinigung und Desinfektion der Hände und zur Reinigung der Arbeitsgeräte mit heißem Wasser vorhanden sein. Die Einrichtungen zum Waschen der Hände dürfen keine von Hand zu betätigenden Hähne haben und müssen fließendes warmes und kaltes oder auf eine angemessene Temperatur vorgemischtes Wasser liefern und mit Reinigungs- und Desinfektionsmitteln sowie EinmalHandtüchern oder ähnlichen hygienischen Mitteln zum Händetrocknen ausgestattet sein;
+1.1.8 ausreichend große und entsprechend gestaltete Arbeitsbereiche vorhanden sein, die die Durchführung der einzelnen Arbeitsgänge unter hygienisch einwandfreien Bedingungen ermöglichen und jegliche Kontamination der Ausgangsprodukte und der Erzeugnisse im Sinne dieser Verordnung ausschließen.
+1.2 Eine ausreichende Anzahl von Umkleideräumen mit glatten, undurchlässigen, abwaschfesten Wänden, Wascheinrichtungen sowie Toiletten mit Wasserspülung muss vorhanden sein. Letztere dürfen keinen direkten Zugang zu den Arbeitsräumen haben. Die Handwascheinrichtungen müssen fließendes warmes und kaltes oder auf eine angemessene Temperatur vorgemischtes Wasser liefern und mit Einrichtungen zur Reinigung und Desinfektion der Hände sowie Einmal-Handtüchern ausgestattet sein. Die Hähne der Handwascheinrichtungen dürfen in während der Arbeitszeit zugänglichen Toiletten nicht von Hand zu betätigen sein.
+1.3 Besondere Standplätze und ausreichende Einrichtungen zur Reinigung und Desinfektion der Transportbehälter müssen vorhanden sein. Die Standplätze und Einrichtungen sind jedoch nicht erforderlich, falls die Reinigung und Desinfektion der Transportbehälter in anderen Anlagen in der Nähe des Bearbeitungsbetriebes durchgeführt werden.
+1.4 Eine Anlage zur Wasserversorgung, die ausschließlich Trinkwasser liefert, muss vorhanden sein.
+1.5 Die Oberfläche der Geräte und Gegenstände, die mit Vorzugsmilch in Berührung kommt, muss aus korrosionsbeständigem Material bestehen, das glatt, leicht zu reinigen und zu desinfizieren ist. Die Geräte und Gegenstände dürfen nur so verwendet werden, dass von ihnen keine Stoffe auf Vorzugsmilch übergehen können, ausgenommen gesundheitlich, geruchlich und geschmacklich unbedenkliche Anteile, die technisch unvermeidbar sind.
+1.6 Wer in einem zugelassenen Betrieb Lebensmittel herstellt, die Vorzugsmilch sowie andere Zutaten enthalten, die nicht wärmebehandelt oder auf andere Weise mit gleichwertiger Wirkung behandelt wurden, muss diese Zutaten getrennt von Vorzugsmilch lagern, um eine gegenseitige Kontamination zu vermeiden und die Zutaten in hierfür geeigneten Räumen be- und verarbeiten.
+1.7 Besondere wasserdichte Abfallbehältnisse aus beständigem Material für die Aufnahme von nicht zum Verzehr bestimmten Ausgangsprodukten und Erzeugnissen müssen vorhanden sein. Werden diese Abfallprodukte über Rohrleitungen abgeführt, so müssen diese so gebaut und installiert sein, dass jede Gefahr der nachteiligen Beeinflussung der anderen Ausgangsprodukte und Erzeugnisse ausgeschlossen ist.
+1.8 Ein Raum oder ein Schrank zur Lagerung von Reinigungs-, Desinfektions- und Wartungsgeräten und -mitteln oder ähnlichen Stoffen muss vorhanden sein.
+1.9 Reinigungs- und Desinfektionsmittel sind so zu verwenden, dass sie sich nicht nachteilig auf die Einrichtung und die Ausrüstungsgegenstände sowie die Ausgangsprodukte und Erzeugnisse im Sinne der vorliegenden Verordnung auswirken. Nach Anwendung dieser Mittel müssen Arbeits- und Einrichtungsgegenstände gründlich mit Trinkwasser gespült werden.
+1.10 Geeignete Einrichtungen zum Schutz gegen Ungeziefer (Insekten, Nagetiere usw.) müssen vorhanden sein.
+2. Zusätzliche Anforderungen
+  In Milcherzeugungsbetrieben, die Vorzugsmilch gewinnen, behandeln und in den Verkehr bringen, müssen zusätzlich Einrichtungen für die Kühlung und die Kühllagerung der Vorzugsmilch vorhanden sein. Die Einrichtungen für die Kühllagerung müssen mit Temperaturmessgeräten ausgerüstet sein.

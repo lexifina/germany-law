@@ -1,0 +1,12 @@
+# Anlage 2 (zu § 2 Abs. 6 Satz 1 Nr. 2 und Abs. 7 Satz 1 Nr. 2)
+
+Fundstelle des Originaltextes: BGBl I 2005, 2965
+Randgebiet sind nach dem Gebietsstand vom 1. Januar 2002 die folgenden Landkreise und kreisfreien Städte:
+Im Land Mecklenburg-Vorpommern:
+Landkreis Ostvorpommern, Landkreis Uecker-Randow, kreisfreie Stadt Greifswald, Landkreis Rügen, Landkreis Nordvorpommern, kreisfreie Stadt Stralsund,
+im Land Brandenburg:
+Landkreis Uckermark, Landkreis Spree-Neiße, kreisfreie Stadt Frankfurt (Oder), kreisfreie Stadt Cottbus, Landkreis Barnim soweit nicht Arbeitsmarktregion Berlin, Landkreis Märkisch-Oderland soweit nicht Arbeitsmarktregion Berlin, Landkreis Oder-Spree soweit nicht Arbeitsmarktregion Berlin,
+im Freistaat Sachsen:
+kreisfreie Stadt Görlitz, Landkreis Niederschlesischer Oberlausitzkreis, Landkreis Löbau-Zittau, Landkreis Kamenz, Landkreis Bautzen, kreisfreie Stadt Hoyerswerda, Landkreis Vogtlandkreis, kreisfreie Stadt Plauen, Landkreis Aue-Schwarzenberg, Landkreis Annaberg, Landkreis Mittlerer Erzgebirgskreis, Landkreis Freiberg, Landkreis Weißeritzkreis, Landkreis Sächsische Schweiz, Landkreis Zwickauer Land, kreisfreie Stadt Zwickau, Landkreis Stollberg, kreisfreie Stadt Chemnitz, Landkreis Mittweida, Landkreis Meißen, kreisfreie Stadt Dresden,
+im Freistaat Thüringen:
+Landkreis Saale-Orla-Kreis, Landkreis Greiz.

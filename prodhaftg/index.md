@@ -1,0 +1,22 @@
+# Gesetz über die Haftung für fehlerhafte Produkte
+
+- [§ 1 Haftung](0001.md)
+- [§ 2 Produkt](0002.md)
+- [§ 3 Fehler](0003.md)
+- [§ 4 Hersteller](0004.md)
+- [§ 5 Mehrere Ersatzpflichtige](0005.md)
+- [§ 6 Haftungsminderung](0006.md)
+- [§ 7 Umfang der Ersatzpflicht bei Tötung](0007.md)
+- [§ 8 Umfang der Ersatzpflicht bei Körperverletzung](0008.md)
+- [§ 9 Schadensersatz durch Geldrente](0009.md)
+- [§ 10 Haftungshöchstbetrag](0010.md)
+- [§ 11 Selbstbeteiligung bei Sachbeschädigung](0011.md)
+- [§ 12 Verjährung](0012.md)
+- [§ 13 Erlöschen von Ansprüchen](0013.md)
+- [§ 14 Unabdingbarkeit](0014.md)
+- [§ 15 Arzneimittelhaftung, Haftung nach anderen
+Rechtsvorschriften](0015.md)
+- [§ 16 Übergangsvorschrift](0016.md)
+- [§ 17 Erlaß von Rechtsverordnungen](0017.md)
+- [§ 18 Berlin-Klausel](0018.md)
+- [§ 19 Inkrafttreten](0019.md)

@@ -1,0 +1,98 @@
+# Anlage (zu § 3 Absatz 1)
+
+(Fundstelle: BGBl. I 2002, 2523;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+Bitte deutlich lesbar ausfüllen.
+----------------------------------
+I I
+I I
+An das I I
+Bundesinstitut für Risikobewertung I I
+Dokumentations- und Bewertungsstelle I I
+für Vergiftungen I I
+Postfach 12 69 42 I I
+10609 Berlin I Originalstempel, I
+I Tel.-Nr. und I
+I Unterschrift des Arztes I
+I I
+----------------------------------
+Mitteilung bei Vergiftungen
+nach § 16e Abs. 2 des Chemikaliengesetzes
+(BfR: Telefon: +49 30 18412-3460, Fax: +49 30 18412-3929, E-Mail: giftdok@bfr.bund.de)
+1.
+-------------------------------------------------------------------------------
+I Alter .... Jahre ---- männlich ---- weiblich I Schwangerschaft: I
+I I I I I I ---- I
+I ---- ---- I I I Ja I
+I I ---- I
+I Monate ..... (bei Kindern unter 3 Jahren) I ---- I
+I I I I Nein I
+I I ---- I
+-------------------------------------------------------------------------------
+I Freiwillig auszufüllen I
+--------------------------
+2. ---- Vergiftung ---- Verdacht
+I I I I
+---- ----
+-------------------------------------------------------------------------------
+I Unbedingt Handelsname des Gemischs/des Biozid-Produkts oder I
+I Stoffname, aufgenommene Menge und Hersteller (Vertreiber) angeben; I
+I gegebenenfalls vermutete Ursache I
+-------------------------------------------------------------------------------
+I I
+-------------------------------------------------------------------------------
+I I
+-------------------------------------------------------------------------------
+I I
+-------------------------------------------------------------------------------
+3. Exposition: ---- ----
+I I akut I I chronisch
+---- ----
+---- ---- ---- ---- ----
+I I oral I I inhalativ I I Haut I I Auge(n) I I Sonstiges
+---- ---- ---- ---- ---- welche? ...
+-------------------------------------------------------------------------------
+I Ätiologie: ---- akzidentell ---- ---- I
+I I I (Unfall) I I gewerblich I I Verwechslung I
+I ---- ---- ---- I
+I I
+I ---- suizidale ---- ---- ---- I
+I I I Handlung I I Abusus I I Umwelt I I Sonstiges I
+I ---- ---- ---- ---- I
+I I
+I Ort: ---- ---- ---- I
+I I I Arbeitsplatz I I im Haus I I Schule I
+I ---- ---- ---- I
+I I
+I ---- ---- ---- I
+I I I Kindergarten I I im Freien I I Sonstiges I
+I ---- ---- ---- I
+I I
+I Labor-Nachweis: ---- ---- I
+I I I Ja I I Nein I
+I ---- ---- I
+I I
+I Behandlung: ---- ---- ---- I
+I I I keine I I ambulant I I stationär I
+I ---- ---- ---- I
+I I
+I Verlauf: ---- ---- ---- ---- I
+I I I nicht I I vollständige I I Defektheilung I I Tod I
+I ---- bekannt ---- Heilung ---- ---- I
+I I
+I ---- I
+I I I Spätschäden (nicht auszuschließen) I
+I ---- I
+-------------------------------------------------------------------------------
+I Freiwillig auszufüllen I
+--------------------------------
+-------------------------------------------------------------------------------
+I 4. Symptome/Verlauf (stichwortartig) I
+I ggf. anonymisierte Befunde, Epikrise(n) I
+I I
+I I
+I I
+I I
+I I
+I I
+-------------------------------------------------------------------------------

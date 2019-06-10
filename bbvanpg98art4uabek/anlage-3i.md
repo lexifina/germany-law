@@ -1,0 +1,11 @@
+# Anlage 3i (Anlage VIi des BBesG)
+
+Gültig ab 1. Januar 1998
+
+Fundstelle des Originaltextes: BGBl. I 1998, 2408
+Auslandskinderzuschlag (§ 56) (Monatsbeträge in DM je Kind)
+|  | nach § 56 Abs. 1 Nr. 1 | nach § 56 Abs. 1 Nr. 2 |
+| Besoldungsgruppe | Stufe des Auslandszuschlages |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| A 1 bis A 16 | 225 | 259 | 292 | 324 | 358 | 391 | 424 | 457 | 489 | 524 | 556 | 588 | 225 |
+| B 1 bis B 11 |

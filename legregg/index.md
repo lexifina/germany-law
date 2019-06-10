@@ -1,0 +1,16 @@
+# Gesetz über die Registrierung von Betrieben zur Haltung von Legehennen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Betriebsaufnahme, Registrierung](0003.md)
+- [§ 4 Kennnummer](0004.md)
+- [§ 5 Registerführung, Datenübermittlung, Datenlöschung](0005.md)
+- [§ 6 Inverkehrbringen von Eiern](0006.md)
+- [§ 7 Überwachung, Befugnisse der zuständigen Behörde](0007.md)
+- [§ 8 Verordnungsermächtigungen](0008.md)
+- [§ 9 Außenverkehr](0009.md)
+- [§ 10 Bußgeldvorschriften](0010.md)
+- [§ 11 Einziehung](0011.md)
+- [§ 12 Übergangsregelungen](0012.md)
+- [§ 13 Inkrafttreten](0013.md)

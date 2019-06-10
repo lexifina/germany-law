@@ -1,0 +1,5 @@
+# Art 23
+
+Zwischen der Gemeinde Simmershofen, Landkreis Neustadt a. d. Aisch-Bad Windsheim, Freistaat Bayern, und der Stadt Creglingen, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
+1. vom Landesgrenzpunkt 941 bis zum Landesgrenzpunkt 944/1 nach Maßgabe der Anlage 23, Seiten 1 und 3;
+2. vom Landesgrenzpunkt 945/11 bis zum Landesgrenzpunkt 948/1 nach Maßgabe der Anlage 23, Seiten 2 und 3.

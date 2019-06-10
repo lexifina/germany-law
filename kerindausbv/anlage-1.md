@@ -1,0 +1,98 @@
+# Anlage 1 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker
+Anlagentechnik/zur Industriekeramikerin Anlagentechnik
+
+(Fundstelle: BGBl. I 2005, 1550 - 1553)
+| Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 4 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 4 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |  |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Betriebliche und technische Kommunikation (§ 4 Nr. 5) | a) | Informationsquellen auswählen, Informationen beschaffen und bewerten | 8 |  |
+| b) | technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen |
+| c) | Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren |
+| d) | Sachverhalte darstellen; englische Fachbegriffe anwenden |
+| 6 | Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse (§ 4 Nr. 6) | a) | Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen | 8 |  |
+| b) | Maschinen nach Fertigungsverfahren unterscheiden |
+| c) | Aufgaben im Team planen, durchführen und bewerten |
+| d) | Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten |
+| e) | Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen |
+| f) | Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen |
+| g) | Instrumente zur Auftragsabwicklung sowie zur Terminverfolgung anwenden |
+| h) | produktionstechnisch relevante Daten erfassen und bewerten |
+| i) | Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren |
+| j) | Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten |
+| 7 | Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen (§ 4 Nr. 7) | a) | Roh- und Hilfsstoffe unterscheiden und auf Qualitätsparameter prüfen | 16 |  |
+| b) | Roh- und Hilfsstoffe ihrer Verwendung nach zuordnen und einsetzen |
+| c) | Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben |
+| d) | verfahrensbezogene Berechnungen durchführen |
+| 8 | Formgebung und Veredlung (§ 4 Nr. 8) | a) | Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen | 6 |  |
+| b) | Formgebungsverfahren unterscheiden |
+| c) | Veredlungsverfahren beschreiben |
+| d) | mechanische und manuelle Veredlungstechniken unterscheiden |
+| 9 | Warten und Pflegen von Betriebsmitteln (§ 4 Nr. 9) | a) | Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren | 4 |  |
+| b) | schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen |
+| c) | Betriebsstoffe auswählen, einsetzen und entsorgen |
+| 10 | Trocknen und Brennen (§ 4 Nr. 10) | a) | Trocknungs- und Brennverfahren unterscheiden | 4 |  |
+| b) | Vorgänge während des Trocknens und Brennens überwachen |
+| c) | Fehlerursachen unsachgemäßen Trocknens und Brennens erkennen |
+| 11 | Durchführen qualitätssichernder Maßnahmen (§ 4 Nr. 11) | a) | betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden | 6 |  |
+| b) | Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren |
+| c) | zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen |
+| d) | Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen |
+| Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Messen, Steuern und Regeln (§ 4 Nr. 12) | a) | Steuer- und Regelungstechniken unterscheiden | 4 |  |
+| b) | Prozessdaten einstellen |
+| c) | Messverfahren, insbesondere für Litergewichts- und Viskositätsmessungen, anwenden |
+| d) | Soll-, Istwertvergleich durchführen und dokumentieren, Prozessdaten optimieren |  | 6 |
+| e) | Messverfahren, insbesondere für Temperatur-, Druck-, Luftfeuchte- und Volumenmessungen, anwenden |
+| 2 | Elektrotechnik (§ 4 Nr. 13) | a) | Gefahren des elektrischen Stroms berücksichtigen, Sicherheitsvorschriften und Schutzmaßnahmen anwenden | 2 |  |
+| b) | Spannung, Strom, Widerstand und Leistung in Stromkreisen zuordnen |
+| 3 | Metalltechnik (§ 4 Nr. 14) | a) | Werkstoffe unter Berücksichtigung der Eigenschaften und Verwendungsarten auswählen | 6 |  |
+| b) | Werkstücke, insbesondere durch Anreißen und Körnen, vorbereiten |
+| c) | Werkstücke, insbesondere durch Schleifen, Sägen, Feilen und Bohren, manuell und maschinell bearbeiten |
+| d) | lösbare und unlösbare Verbindungen, insbesondere Schraub- und Klebeverbindungen, herstellen |
+| e) | Bleche, Rohre und Profile schneiden, biegen und richten |
+| f) | Werkstücke durch Messen und Lehren prüfen |
+| 4 | Bedienen und Produktionsmaschinen und - anlagen zur Aufbereitung (§ 4 Nr. 15) | a) | Unfallverhütungsvorschriften anwenden, Schutzvorrichtungen handhaben | 8 |  |
+| b) | Fördermittel und -anlagen bedienen |
+| c) | Fördervorgänge überwachen |
+| d) | Materialfluss überwachen und sicherstellen |
+| e) | Maschinen zur Aufbereitung einrichten, umrüsten, bedienen und überwachen |
+| f) | Störungen erkennen, Maßnahmen zur Störungsbeseitigung ergreifen |  | 12 |
+| g) | Fertigungsfehler, insbesondere Handhabungsfehler, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen |
+| 5 | Bedienen von Produktionsmaschinen und -anlagen zur Formgebung (§ 4 Nr. 16) | a) | Pressen umrüsten, einrichten, bedienen und überwachen | 6 |  |
+| b) | Maschinen zur Formgebung umrüsten, einrichten, bedienen und überwachen |  | 12 |
+| c) | Fertigungsfehler, insbesondere Risse, Deformationen, Handhabungsfehler und Maßabweichungen, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen |
+| 6 | Bedienen von Produktionsmaschinen zur Veredlung, Endbearbeitung und Verpackung (§ 4 Nr. 17) | a) | Unfallverhütungsvorschriften anwenden, Schutzvorrichtungen handhaben |  | 20 |
+| b) | Maschinen zur Veredlung, Endbearbeitung und Verpackung umrüsten, einrichten, bedienen und überwachen |
+| c) | Fertigungsfehler, insbesondere Risse, Deformationen, Veredlungsfehler, Handhabungsfehler und Maßabweichungen, erkennen, beurteilen und dokumentieren, Maßnahmen zur Fehlerbeseitigung ergreifen |
+| 7 | Bedienen von Trocknungs- und Brennanlagen (§ 4 Nr. 18) | a) | Trocknungs- oder Entbinderungsanlagen sowie Brennanlagen nach betrieblichen Vorgaben vorbereiten, bedienen und überwachen |  | 16 |
+| b) | Trocken- und Brennfehler, insbesondere Risse, Deformationen, Maßabweichungen, Oberflächen- und Handhabungsfehler erkennen, beurteilen und dokumentieren |
+| c) | Störungen und deren Beseitigung in die Produktionsprotokolle eintragen, Maßnahmen zur Fehlerbeseitigung ergreifen und dokumentieren |
+| 8 | Instandhalten von Produktionseinrichtungen (§ 4 Nr. 19) | a) | Maschinen und Anlagen nach festgelegtem Plan unter Beachtung sicherheitstechnischer Vorschriften warten |  | 12 |
+| b) | Baugruppen und Bauteile austauschen, Maßnahmen zur Instandsetzung ergreifen |
+| c) | Werkzeuge für die keramische Formgebung, Veredlung und Endbearbeitung warten |
+| d) | Werkzeuge, Baugruppen und Bauteile transportieren und lagern |
+| e) | Wartungsarbeiten dokumentieren, Mängelliste erstellen |

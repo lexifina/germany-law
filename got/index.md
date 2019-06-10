@@ -1,0 +1,16 @@
+# Gebührenordnung für Tierärzte
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Grundsatz](0001.md)
+- [§ 2 Gebührenhöhe](0002.md)
+- [§ 3 Gebührenhöhe in besonderen Fällen](0003.md)
+- [§ 4 Abweichende Gebührensätze](0004.md)
+- [§ 5 Verbot von Doppelbewertungen](0005.md)
+- [§ 6 Gebühren- und Rechnungsbestandteile](0006.md)
+- [§ 7 Außerordentliche Leistungen](0007.md)
+- [§ 8 Arzneimittelpreise](0008.md)
+- [§ 9 Entschädigungen, Wegegeld](0009.md)
+- [§ 10 Gebühren für im Beitrittsgebiet erbrachte Leistungen](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage (zu den §§ 1 und 2)](anlage.md)

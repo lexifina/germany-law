@@ -1,0 +1,34 @@
+# Anlage 10 (zu den §§ 26 und 27)Dienstfahrerlaubnisse der Bundeswehr
+
+a) bis zum Ablauf des 31. Dezember 1998 erteilt
+| Lfd. Nr. | Dienstfahrerlaubnisklasse | Berechtigung auch zum Führen von Dienstfahrzeugen der Klassen | Zu erteilende allgemeine Fahrerlaubnisklassen | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | A | A2, A1, AM, L | A, A2, A1, AM, L |  |  |
+| 2 | A1 | A2, A1, AM, L | A, A2, A1, AM, L |  |  |
+| 3 | A2 | A1, AM, L | A1, AM, L |  | A1 79.05 |
+| 4 | B | AM, L | A, A1, AM, B, BE, C1, C1E, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 5 | C – 7,5 t | C1, L | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 6 | C vor dem 1.10.1995erteilt | C1, L, T | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 7 | C nach dem 30.9.1995erteilt | C1, L | A, A1, AM, B, BE, C1, C1E, C, CE, L | T2 | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 8 | D vor dem 1.10.1988erteilt | C1, C, L, T | A, A1, AM, B, BE, C1, C1E, C, L, T |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 9 | D nach dem 30.9.1988erteilt | C1, C | D1, D1E, D, DE |  |  |
+| 10 | D – LKW | C1, C1E, C, CE, L, T | A, A1, AM, B, BE, C1, C1E, C, CE |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 11 | C – 7,5 t E | B, BE, C1, C1E, CE, L | A, A1, AM, B, BE, C1, C1E, CE, L | T2 | C1 171, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 12 | CE | B, BE, C1, C1E, L, T | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+b) ab dem 1. Januar 1999 und bis zum Ablauf des 18. Januar 2013 erteilt
+| Lfd. Nr. | Dienstfahrerlaubnisklasse | Berechtigung auch zum Führen von Dienstfahrzeugen der Klasse(n) | Zu erteilende allgemeine Fahrerlaubnisklasse(n) | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 91 |
+| 1 | A | A2, A1, AM | A, A2, A1, AM |  |  |
+| 2 | A1 | AM | A1, AM |  | A1 79.05 |
+| 3 | AY | A1, AM, L | A1, AM, L |  |  |
+| 4 | B | A1, AM, L | A, A1, AM, B, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 5 | BE | A1, AM, L | A, A1, AM, B, BE, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 6 | C1 | A1, AM, B, L | A, A1, AM, B, C1, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 7 | C1E | A1, AM, B, BE, L | A, A1, AM, B, BE, C1, C1E, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 8 | C | A1, AM, B, C1, L | A, A1, AM, B, C1, C, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 9 | CE | A1, AM, B, BE, C1, C1E, C, L | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 10 | D1 | Keine | A, A1, AM, B, D1, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 11 | D1E | Keine | A, A1, AM, B, BE, D1, D1E, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 12 | D | A1, AM, B, C1, C, D1, L | A, A1, AM, B, D1, D, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 13 | DE | A1, AM, B, BE, C1, C1E, C, CE, D1, D1E, L | A, A1, AM, B, BE, D1, D1E, D, DE, L |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 14 | L | L | L |  |  |
+| 15 | M | AM | AM |  |  |
+| 16 | T | AM, L | AM, T, L |  |  |

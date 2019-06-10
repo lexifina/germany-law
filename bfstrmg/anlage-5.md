@@ -1,0 +1,21 @@
+# Anlage 5 (zu § 14 Absatz 4) Mautsätze im Zeitraum vom 1. Januar 2015 bis zum Ablauf des 30. September 2015
+
+1. Mautteilsatz für die Infrastrukturkosten je Kilometer nach § 3 Absatz 1 Nummer 1:
+  mautpflichtige Fahrzeuge oder Fahrzeugkombinationen
+  a) mit bis zu drei Achsen 0,125 Euro,
+  b) mit vier oder mehr Achsen 0,131 Euro.
+2. Mautteilsatz für die verursachten Luftverschmutzungskosten je Kilometer nach § 3 Absatz 1 Nummer 2:
+  a) mautpflichtige Fahrzeuge oder Fahrzeugkombinationen unbeschadet der Zahl der Achsen und der benutzten Straßen
+    aa) 0,000 Euro in der Kategorie A,
+    bb) 0,021 Euro in der Kategorie B,
+    cc) 0,032 Euro in der Kategorie C,
+    dd) 0,063 Euro in der Kategorie D,
+    ee) 0,073 Euro in der Kategorie E,
+    ff) 0,083 Euro in der Kategorie F.
+  b) Zuordnung der Fahrzeuge nach § 1 Absatz 1 zu den in Buchstabe a aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung:
+    | aa) | Kategorie A | Fahrzeuge der Schadstoffklasse S 6, |
+    | bb) | Kategorie B | Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5, |
+    | cc) | Kategorie C | Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören, |
+    | dd) | Kategorie D | Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören, |
+    | ee) | Kategorie E | Fahrzeuge der Schadstoffklasse S 2, |
+    | ff) | Kategorie F | Fahrzeuge der Schadstoffklasse S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören. |

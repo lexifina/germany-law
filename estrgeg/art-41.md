@@ -1,0 +1,3 @@
+# Art 41 Überleitungsvorschrift zum Lastenausgleichsgesetz
+
+Soweit und solange der Gesamtbetrag der in der Unterhaltshilfe enthaltenen Zuschläge für Kinder und der nach § 267 Abs. 2 Nr. 5 des Lastenausgleichsgesetzes nicht als Einkünfte geltenden Zulagen abzüglich der auf die Unterhaltshilfe angerechneten Zulagen für Kinder und Rentenleistungen, die Vollwaisen oder Kinder beziehen, infolge der Änderung des § 267 Abs. 2 Nr. 5 des Lastenausgleichsgesetzes durch Artikel 14 Nr. 2 hinter dem entsprechenden Betrag für den Monat Dezember 1974 zurückbleibt, wird der Unterschiedsbetrag als Ausgleichszulage gewährt.

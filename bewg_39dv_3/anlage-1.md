@@ -1,0 +1,35 @@
+# Anlage 1 (zu § 1)
+
+Hauptbewertungsstützpunkte der gärtnerischen Nutzung
+
+Vorbemerkungen
+1. Die Vergleichszahlen der Hauptbewertungsstützpunkte der gärtnerischen Nutzung werden bezeichnet:
+  a) beim Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau als Gartenbau-Vergleichszahlen (GVZ),
+  b) beim Nutzungsteil Obstbau als Obstbau-Vergleichszahlen (OVZ),
+  c) beim Nutzungsteil Baumschulen als Baumschul-Vergleichszahlen (BVZ).
+2. Die Hauptbewertungsstützpunkte der gärtnerischen Nutzung sind gekennzeichnet
+  a) durch G für den Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau,
+    durch O für den Nutzungsteil Obstbau,
+    durch B für den Nutzungsteil Baumschulen;
+  b) durch laufende Nummern (Lfd. Nr.), deren erste oder erste und zweite Ziffern das Land und deren nächste Ziffer die Oberfinanzdirektion erkennen lassen. Die Ziffern nach dem Punkt kennzeichnen die laufende Nummer innerhalb der Oberfinanzdirektion.
+Die Ziffern entsprechen:
+| Ziffer | Land | Ziffer | Oberfinanzdirektion |
+| 1 | Schleswig-Holstein | 1 | Kiel |
+| 2 | Niedersachsen | 1 | Hannover, St. A. Hannover |
+| 2 | Hannover, St. A. Oldenburg |
+| 3 | Nordrhein-Westfalen | 1 | Münster |
+| 2 | Düsseldorf |
+| 3 | Köln |
+| 4 | Rheinland-Pfalz | 1 | Koblenz |
+| 5 | Hessen | 1 | Frankfurt |
+| 6 | Saarland | 1 | Saarbrücken |
+| 7 | Baden-Württemberg | 1 | Karlsruhe |
+| 2 | Freiburg |
+| 3 | Stuttgart |
+| 8 | Bayern | 1 | Nürnberg |
+| 2 | München |
+| 9 | Hamburg | 1 | Hamburg |
+| 10 | Bremen | 1 | Bremen |
+| 11 | Berlin | 1 | Berlin |
+Beispiel:
+Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den ersten Hauptbewertungsstützpunkt des gärtnerischen Nutzungsteils Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.

@@ -1,0 +1,103 @@
+# Anlage 4 (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b)Charterbescheinigung und Einweisung
+
+Fundstelle des Originaltextes: BGBl. I 20030, 2527 -2529;
+bzgl. der einzelnen Änderungen vgl. Fußnote
+I. Allgemeines
+    Die Charterbescheinigung ist keine Fahrerlaubnis zum Führen von Sportbooten. Sie bewirkt als amtlich anerkannte Bescheinigung über die Befähigung lediglich, dass das Führen eines gemieteten Sportbootes auch ohne vorgeschriebenes Befähigungszeugnis zugelassen ist, wenn und solange die Beschränkungen, unter denen sie ausgestellt ist, eingehalten werden.
+  II. Charterbescheinigung
+-----------------------------------------------------------------------
+I Diese Charterbescheinigung ist nach erfolgter Einweisung I
+I (Abschnitt III) gültig I
+I 1. für I
+I Frau I
+I Herrn ......................................................... I
+I (Vor- und Familienname) I
+I ausgewiesen durch: () Personalausweis Nr. ................... I
+I () Reisepass I
+I Kfz-Führerschein: () ja () nein I
+I Staatsangehörigkeit ............................................I
+I 2. zum Führen des vermieteten Sportbootes mit dem I
+I --------------- I
+I Kennzeichen: I I I
+I --------------- I
+I auf Binnenschifffahrtsstraße: I
+I ............................................................... I
+I von ........................................................... I
+I bis ........................................................... I
+I vom ....................... bis ............................ I
+I 3. mit folgenden Beschränkungen: I
+I Fahrverbot bei Nacht und unsichtigem Wetter. I
+I Zusätzliche Beschränkungen für die I
+I unter Nummer 2 eingetragenen I
+I Binnenschifffahrtsstraßen sind I
+I nach Maßgabe der ausgehändigten Anlage 5 der I
+I Binnenschifffahrt-Sportbootvermietungsverordnung vom I
+I 18. April 2000 (BGBl. I S. 572), die zuletzt durch die I
+I Verordnung vom 21. April 2009 (BGBl. I S. 888) geändert worden I
+I ist, zu beachten. I
+I Unternehmen: I
+I ................................................................... I
+I (Ort und Datum der Ausstellung, Unterschrift) I
+-----------------------------------------------------------------------
+III. Einweisung
+    Die Einweisung muss eine Person durchführen, die mindestens Inhaber der Sportbootführerscheins-Binnen ist und über besondere Kenntnisse des Fahrtgebietes verfügt. Ihre Dauer beträgt in Abhängigkeit von Fahrtgebiet und Vorkenntnissen des Einzuweisenden mindestens drei Stunden.
+    A. Wasserstraßenbezogenes Verkehrsverhalten
+| 1. | Theoretischer Teil |
+|  | 1.1 | Verantwortlichkeit des Sportbootsführers | () |
+|  | 1.2 | Fahrtgebiet und seine Besonderheiten z. B. geschützte Wehre bei hohen Wasserständen | () |
+|  | 1.3 | Verkehrsregeln |  |
+|  |  | 1.3.1 | Allgemeine Vorschriften | () |
+|  |  | 1.3.2 | Regeln für Kleinfahrzeuge untereinander und gegenüber anderen Fahrzeugen, insbesondere Rücksichtnahme auf muskelbetriebene Fahrzeuge | () |
+|  | 1.4 | Bezeichnung |  |
+|  |  | 1.4.1 | Verkehrszeichen | () |
+|  |  | 1.4.2 | Betonnung (Kardinalzeichen, soweit erforderlich | () |
+|  |  | 1.4.3 | Bezeichnung von Brückendurchfahrten | () |
+|  |  | 1.4.4 | Signallichter zur Schleuseneinfahrt und -ausfahrt (soweit erforderlich) | () |
+|  |  | 1.4.5 | Schallzeichen | () |
+|  | 1.5 | Verhalten beim Begegnen, insbesondere an Engstellen, Brücken, Einmündungen, Ausfahrten | () |
+|  | 1.6 | Verhalten an Liegestellen und Ankerplätzen | () |
+|  | 1.7 | Vermeidung von Sog und Wellenschlag | () |
+|  | 1.8 | Verhalten beim Schleusen, Besonderheiten bei Selbstbedienungsschleusen (soweit erforderlich) | () |
+|  | 1.9 | Umweltgerechtes Verhalten und insbesondere seine Bedeutung im Fahrtgebiet |  |
+|  |  | 1.9.1 | "Goldene Regeln" | () |
+|  |  | 1.9.2 | umweltgerechte Bedienung des Fahrzeugs und seiner Einrichtung | () |
+|  | 1.10 | Zuständige Behörden | () |
+| 2. | Praktischer Teil |  |
+|  | 2.1 | Motor starten und stoppen | () |
+|  | 2.2 | An- und Ablegen | () |
+|  | 2.3 | Vorwärtsfahrt, Rückwärtsfahrt und Aufstoppen | () |
+|  | 2.4 | Festmachen, Ankern | () |
+|  | 2.5 | Wenden auf engem Raum | () |
+|  | 2.6 | Mann-über-Bord-Manöver | () |
+|  | 2.7 | Verhalten bei |  |
+|  |  | 2.7.1 | Begegnungen | () |
+|  |  | 2.7.2 | Grundberührungen | () |
+|  |  | 2.7.3 | Ausfall der Maschinenanlage | () |
+|  |  | 2.7.4 | Motorbrand | () |
+|  |  | 2.7.5 | Manövrierunfähigkeit | () |
+|  |  | 2.7.6 | Schleusungen | () |
+|  | 2.8 | Anlegen von Rettungswesten | () |
+B. Fahrzeug
+| 1. | Steuerstand |  |
+|  | 1.1 | Alle Schalter und Instrumente erläutern | () |
+| 1.2 | Funktionsweise von Start- und Steuereinrichtungen | () |
+| 1.3 | Erklärung der notwendigen täglichen Kontrollmaßnahmen | () |
+| 1.4 | Lenzpumpe erläutern | () |
+| 1.5 | Zugang zu Schiffsschraube und Stopfbuchse erläutern | () |
+| 2. | Oberdeck |  |
+|  | 2.1 | Maschine, Heizung, Auspuff | () |
+| 2.2 | Gefährlichkeit der drehenden Schiffsschraube | () |
+| 2.3 | Anker | () |
+| 2.4 | Einfüllstutzen für Kraftstoff und Trinkwasser, Fäkalienabsaugung | () |
+| 2.5 | Rettungsmittel, Bootshaken, Laufbrett, Fender, Festmacherleinen, Knoten | () |
+| 2.6 | Anschluss für landseitige Stromversorgung | () |
+| 3. | Innenbereich |  |
+|  | 3.1 | Elektrische Einrichtungen | () |
+| 3.2 | Gasbetriebene Einrichtungen | () |
+| 3.3 | Bilgenkontrolle | () |
+| 3.4 | Feuerlöscher | () |
+| 3.5 | Wasserversorgung, -ablauf, Toilettenanlage | () |
+IV. Erklärung
+    Der Einweiser und der/die Sportbootführer bestätigen, dass alle angekreuzten Teile der Einweisung durchgeführt wurden.
+| ........................................ | ..................................... |
+| Unterschrift Einweiser | Unterschrift(en) Sportbootführer |

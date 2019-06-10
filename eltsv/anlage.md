@@ -1,0 +1,28 @@
+# Anlage (zu § 2)
+
+Fundstelle des Originaltextes: BGBl. I 1982, 516
+..................................... ..................
+(Unternehmen) (Datum)
+Meldung
+gemäß § 2 der Elektrizitätssicherungsverordnung
+vom 26. April 1982 (BGBl. I S. 514)
+für Monat ......................... 19 ......
+1.1 Verfügbare Bruttoleistung ................ MW
+1.2 Erwartete Höchstlast der Kraftwerke ................ MW
+1.3 Erforderliche Reserve ................ MW
+1.4 Freie Leistung (Höhe) ................ MW
+1.5 Freie Leistung (Art) ................ MW
+1.6 Brennstoffvorrat der freien Leistung für ................ Tage
+2.1 Brennstoffbestand
+2.1.1 Steinkohle ....... 10(hoch)3t SKE entsprechend ....... Tage
+2.1.2 Heizöl, schwer ....... 10(hoch)3t SKE entsprechend ....... Tage
+2.1.3 Heizöl, leicht ....... 10(hoch)3t SKE entsprechend ....... Tage
+2.1.4 Arbeitsinhalt
+der Jahresspeicher .................. GWh
+2.2 Monatlicher Brennstoffverbrauch
+2.2.1 Steinkohle .............. 10 (hoch)3t SKE
+2.2.2 Heizöl, schwer .............. 10 (hoch)3t SKE
+2.2.3 Heizöl, leicht .............. 10 (hoch)3t SKE
+2.3 Angaben über Schwierigkeiten in der Brennstoffversorgung
+...............................
+(Unterschrift)

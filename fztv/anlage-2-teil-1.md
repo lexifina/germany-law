@@ -1,0 +1,39 @@
+# Anlage 2 Teil 1 (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+
+Fundstelle des Originaltextes: BGBl. I 1998, 2153
+| bisher zugeteilter Kennbuchstabe | Prüfstelle | Teileart, für die die Prüfstellen bisher zuständig waren |
+| D | Materialprüfungsamt | - | Sicherheitsglas einschließlich Folien zur Aufbringung auf Scheiben von Fahrzeugen |
+| Nordrhein-Westfalen |
+| 44285 Dortmund |
+| E | TÜV NORD Mobilität GmbH & Co. KG | - | Fahrtschreiber |
+| IFM – Institut für Fahrzeugtechnik und Mobilität |
+| Am TÜV 1 |
+| 30519 Hannover |
+| F | RWTÜV Fahrzeug GmbH | - | Auflaufbremsen |
+| Adlerstraße 7 | - | Einrichtungen zur Verbindung von Fahrzeugen |
+| 45307 Essen |
+| G | Staatliche Materialprüfungsanstalt an der Universität Stuttgart | - | Sicherheitsgurte |
+| - | Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen |
+| Postfach 80 11 40 |
+| 70511 Stuttgart |
+| K | Lichttechnisches Institut der Universität Karlsruhe Prüfstelle für Lichttechnische Einrichtungen an Fahrzeugen | - | lichttechnische Einrichtungen |
+| Kaiserstraße 12 |
+| 76128 Karlsruhe |
+| L | Prüfungskommission für Gleitschutzeinrichtungen beim Kraftfahrt-Bundesamt | - | Gleitschutzeinrichtungen |
+| 24932 Flensburg |
+| M | TÜV AUTOMOTIVE GMBH Unternehmensgruppe TÜV Süddeutschland Bereich München | - | Einrichtungen zur Verbindung von Fahrzeugen |
+| - | Auflaufbremsen |
+| Daimlerstraße 11 | - | Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenz - Einsatzhorn |
+| 85748 Garching |
+| N | DEKRA Typprüfstelle/ Technischer Dienst der DEKRA Automobil AG | - | Heizungen |
+| - | Gleitschutzeinrichtungen |
+| - | Scheiben aus Sicherheitsglas |
+| Bernhardstraße 62 | - | Auflaufbremsen |
+| 01187 Dresden | - | Einrichtungen zur Verbindung von Fahrzeugen |
+|  | - | Warneinrichtungen mit einer Folge von Klängen verschiedener Grundfrequenzen - Einsatzhorn |
+|  | - | Sicherheitsgurte |
+|  | - | Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen |
+|  | - | Fahrtschreiber und Kontrollgeräte |
+| S | Prüfstelle für Fahrzeugteile im Forschungsinstitut für Kraftfahrwesen und Fahrzeugmotoren | - | Heizungen |
+| Pfaffenwaldring 12 |
+| 70569 Stuttgart |

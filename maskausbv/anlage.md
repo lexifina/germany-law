@@ -1,0 +1,100 @@
+# Anlage (zu § 4 Abs. 1)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Maskenbildner/zur Maskenbildnerin
+
+(Fundstelle: BGBl. I 2002, 608 - 611)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweisen der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 3 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Entwickeln von Gestaltungskonzeptionen (§ 3 Nr. 5) | a) | Informationen zu Gestaltungskonzeptionen ermitteln und historische und zeitgenössische sowie kultur- und kunstgeschichtliche Bezüge zu den Anforderungen der Produktion herstellen |  |  | 8 |  |
+| b) | Produktionsanforderungen hinsichtlich gestalterischer und technischer Umsetzungsmöglichkeiten bewerten und Aufgabenverteilung mit den beteiligten Werkstätten abstimmen und festlegen |
+| c) | Umsetzungsmöglichkeiten vorstellen und mit den Auftraggebern abstimmen |
+| 6 | Vorbereiten und Handhaben von Werkzeugen und Geräten (§ 3 Nr. 6) | a) | Werkzeuge und Geräte auswählen | 2 |  |  |  |
+| b) | Werkzeuge und Geräte unter Beachtung der Hygiene reinigen und pflegen |
+| c) | Hilfswerkzeuge anfertigen |
+| 7 | Vorbereiten und Lagern von Werkzeugen und Hilfsstoffen (§ 3 Nr. 7) | a) | Werk- und Hilfsstoffe auswählen | 2 |  |  |  |
+| b) | Werk- und Hilfsstoffe vorbereiten |
+| c) | Werk- und Hilfsstoffe unter Beachtung der Bestimmungen und Herstellerangaben lagern |
+| 8 | Planen und Kalkulieren von Arbeitsabläufen (§ 3 Nr. 8) | a) | Fundus sichten und Gegenstände auswählen | 2 |  |  |  |
+| b) | ergonomische Gesichtspunkte bei Planung und Durchführung der Arbeit beachten |
+| c) | Arbeitsplatz einrichten |
+| d) | fremd- und fachsprachliche Ausdrücke anwenden |
+| e) | Skizzen und Entwürfe anfertigen |  | 5 |  |  |
+| f) | Arbeitstechniken unter Beachtung von Gestaltungsvorgaben, Kosten und Terminen festlegen |  |  | 6 |  |
+| g) | Art und Menge der Werk- und Hilfsstoffe ermitteln |
+| h) | Material- und Kostenberechnungen durchführen |
+| i) | Zeitplanung für Arbeitsschritte festlegen |
+| k) | Arbeiten mit den einzubeziehenden Werkstätten abstimmen |
+| 9 | Abstimmen von Farben(§ 3 Nr. 9) | a) | Farben nach der Kombinierbarkeit von Pigmenten, Lösungs-, Binde- und Verdünnungsmitteln auswählen |  |  | 6 |  |
+| b) | Farben mischen |
+| c) | Farbwirkungen auf die Licht- und Produktionsbedingungen abstimmen |
+| 10 | Anfertigen von Perücken, Haarteilen und Körperbehaarungen (§ 3 Nr. 10) | a) | Darstellermaße und -haarfarben registrieren, insbesondere Maßkarten und Tabellen anlegen | 16 |  |  |  |
+| b) | Arbeitsköpfe auswählen, anfertigen und präparieren |
+| c) | Monturen anfertigen |
+| d) | Haare auswählen |
+| e) | Haarfarben und Melierungen festlegen |
+| f) | Haare färben |
+| g) | Knüpfperücken und -haarteile anfertigen |
+| h) | Haare durch Schneiden und Formen gestalten |
+| i) | Perücken und Haarteile für die Lagerung präparieren |
+| k) | Tressenperücken, -haarteile und -Zöpfe anfertigen |
+| l) | Klebeperücken anfertigen |
+| m) | Perücken aus haarfremden Werkstoffen anfertigen |
+| n) | Körperbehaarungen anfertigen |
+| 11 | Anfertigen von Glatzen (§ 3 Nr. 11) | a) | Arbeitsköpfe präparieren und Glatzenformen festlegen | 5 |  |  |  |
+| b) | Monturen, Vollglatzen und Glatzenteile anfertigen |
+| c) | Glatzen konservieren und lagern |
+| d) | Glatzen von Arbeitsköpfen ablösen |
+| e) | Teilglatzen mit eingearbeiteten Befestigungspunkten herstellen |  |  | 6 |  |
+| f) | Haare durch Knüpfen, Kleben und Stechen befestigen |
+| 12 | Anfertigen von Masken und Körperteilen (§ 3 Nr. 12) | a) | unterschiedliche Formen modellieren | 5 |  |  |  |
+| b) | Körperteile und Köpfe abformen |
+| c) | starre und flexible Masken und plastische Teile, insbesondere durch Kaschieren, Laminieren und Ausgießen, anfertigen |
+| d) | Negativ- und Positivformen herstellen |
+| e) | Masken im Direktverfahren, insbesondere durch Wattieren, Kleben und Nähen, anfertigen |
+| f) | Masken und Körperteile, insbesondere durch Strukturieren, Bemalen, Spritzen und Schminken, fertig stellen |  | 6 |  |  |
+| g) | Art der Beanspruchung ermitteln, Hygiene- und Gesundheitsschutzmaßnahmen festlegen |  |  |  | 12 |
+| h) | Masken im Hohlformverfahren anfertigen |
+| i) | Körperteile und Köpfe unter Beachtung der den Rollencharakter kennzeichnenden Merkmale gestalten |
+| 13 | Anfertigen von Spezialeffekten (§ 3 Nr. 13) | a) | trockene und frische Hautveränderungen sowie Aktionsverletzungen anfertigen |  |  |  | 10 |
+| b) | bewegliche, veränderbare und starre Deformationen anfertigen |
+| c) | Konstruktionen beteiligter Werkstätten einarbeiten |
+| 14 | Schminken (§ 3 Nr. 14) | a) | Haut, insbesondere unter Beachtung unterschiedlicher Hauttypen und Hautfarben, zum Schminken vorbereiten | 10 |  |  |  |
+| b) | Grundtechniken des Schminkens anwenden, insbesondere Licht und Schatten setzen |
+| c) | Reinigungstechniken anwenden |
+| d) | Haut unter Beachtung schminktechnischer Möglichkeiten und der Erfordernisse für Bühnen-, Foto-, Film- oder Fernsehproduktionen schminken |  |  |  | 10 |
+| e) | Phantasiemasken und plakative Masken sowie Tiermasken nach artentypischen Merkmalen gestalten |
+| f) | Körperbemalungen auftragen |
+| g) | plastische Veränderungen an Darstellern herstellen und einschminken |
+| 15 | Gestalten von Frisuren mit Eigenhaar und Haarteilen (§ 3 Nr. 15) | a) | Haarlängen bestimmen | 10 |  |  |  |
+| b) | Schneidtechniken auswählen und anwenden |
+| c) | Frisuren, insbesondere durch Wickeln, Wellen, Papillotiertechniken und Ondulation, gestalten |
+| d) | Schling- und Stecktechniken anwenden |  | 12 |  |  |
+| e) | Frisuren unter Berücksichtigung Produktionsbezogener Anforderungen, insbesondere an die Haltbarkeit und Wiederauffrisierbarkeit, fertigstellen |
+| 16 | Prüfen von Arbeitsergebnissen (§ 3 Nr. 16) | a) | Prüfkriterien festlegen und unter Beachtung von produktions-bezogenen Vorgaben, insbesondere gestalterischer Qualität, Farbrichtigkeit sowie Nah- und Fernwirkung, Haltbarkeit und Funktionalität, anwenden |  |  |  | 6 |
+| b) | Funktionsprüfungen durchführen |
+| c) | Maskenbilder testen und korrigieren |
+| 17 | Arbeiten für Proben und Produktionen (§ 3 Nr. 17) | a) | mit zwischenmenschlichen Konfliktsituationen umgehen |  | 3 |  |  |
+| b) | Maskenteile von Darstellern abnehmen, reinigen, aufarbeiten, instand setzen, aufbewahren und registrieren |
+| c) | Produktionsschminkpläne erstellen |  |  |  | 14 |
+| d) | erarbeitetes Maskenbild anlegen |
+| e) | Vorstellungs- und Produktionsbücher anlegen und führen |

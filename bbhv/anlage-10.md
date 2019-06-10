@@ -1,0 +1,30 @@
+# Anlage 10 (zu § 23 Absatz 1 und § 24 Absatz 1)Leistungserbringerinnen und Leistungserbringer für Heilmittel
+
+Die Beihilfefähigkeit setzt voraus, dass das Heilmittel in einem der folgenden Bereiche und von einer der folgenden Personen angewandt wird und dass die Anwendung dem Berufsbild der Leistungserbringerin oder des Leistungserbringers entspricht:
+1. Bereich Inhalation, Krankengymnastik, Bewegungsübungen, Massagen, Palliativversorgung, Packungen, Hydrotherapie, Bäder, Kälte- und Wärmebehandlung, Elektrotherapie
+  a) Physiotherapeutin oder Physiotherapeut,
+  b) Masseurin und medizinische Bademeisterin oder Masseur und medizinischer Bademeister,
+  c) Krankengymnastin oder Krankengymnast,
+2. Bereich Stimm-, Sprech- und Sprachtherapie
+  a) Logopädin oder Logopäde,
+  b) staatlich anerkannte Sprachtherapeutin oder staatlich anerkannter Sprachtherapeut,
+  c) staatlich geprüfte Atem-, Sprech- und Stimmlehrerin der Schule Schlaffhorst-Andersen oder staatlich geprüfter Atem-, Sprech- und Stimmlehrer der Schule Schlaffhorst-Andersen,
+  d) medizinische Sprachheilpädagogin oder medizinischer Sprachheilpädagoge,
+  e) klinische Linguistin oder klinischer Linguist,
+  f) klinische Sprechwissenschaftlerin oder klinischer Sprechwissenschaftler,
+  g) bei Kindern für sprachtherapeutische Leistungen bei Sprachentwicklungsstörungen, Stottern oder Poltern auch
+    aa) Sprachheilpädagogin oder Sprachheilpädagoge,
+    bb) Diplomlehrerin für Sprachgeschädigte oder Sprachgestörte oder Diplomlehrer für Sprachgeschädigte oder Sprachgestörte,
+    cc) Diplomvorschulerzieherin für Sprachgeschädigte oder Sprachgestörte oder Diplomvorschulerzieher für Sprachgeschädigte oder Sprachgestörte,
+    dd) Diplomerzieherin für Sprachgeschädigte oder Sprachgestörte oder Diplomerzieher für Sprachgeschädigte oder Sprachgestörte,
+  h) Diplompatholinguistin oder Diplompatholinguist,
+3. Bereich Ergotherapie (Beschäftigungstherapie)
+  a) Ergotherapeutin oder Ergotherapeut,
+  b) Beschäftigungs- und Arbeitstherapeutin oder Beschäftigungs- und Arbeitstherapeut,
+4. Bereich Podologie
+  a) Podologin oder Podologe,
+  b) medizinische Fußpflegerin oder medizinischer Fußpfleger nach § 1 des Podologengesetzes,
+5. Bereich Ernährungstherapie
+  a) Diätassistentin oder Diätassistent,
+  b) Oecotrophologin oder Oecotrophologe,
+  c) Ernährungswissenschaftlerin oder Ernährungswissenschaftler.

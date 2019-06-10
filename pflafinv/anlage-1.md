@@ -1,0 +1,71 @@
+# Anlage 1 (zu § 3 Absatz 1, § 4 Absatz 1)Kosten der Träger der praktischen Ausbildung und der Pflegeschulen ohne Mehrkosten der Ausbildungsvergütung
+
+Aufstellung über die im Rahmen der Vereinbarung von Ausbildungsbudgets zu finanzierenden Tatbestände nach Teil 2 Abschnitt 3 und nach Teil 5 des Pflegeberufegesetzes
+| Lfd. Nr. | Kostenarten (zu finanzierende Tatbestände) | Kostenartengruppen |
+| A. | Kosten der Pflegeschule |
+| 1. | Kosten des haupt- und nebenberuflichen Lehrpersonals einschließlich Kosten der Praxisbegleitung | Theoretischer und praktischer Unterricht |
+| 1.1 | Schulleitung (insbesondere administrative und organisatorische Aufgaben, auch soweit Aufgaben des Lehrpersonals) |
+| 1.2 | Hauptamtliches Lehrpersonal |
+| 1.3 | Nebenberufliches Lehrpersonal |
+| 2. | Fahrtkostenerstattung des haupt- und nebenberuflichen Lehrpersonals während der Praxisbegleitung |
+| 3. | Sachaufwandskosten | Sachaufwand |
+| 3.1 | Lehr- und Arbeitsmaterialien |
+| 3.2 | Lernmittel für Auszubildende, Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer und Lehrpersonal (z. B. Fachbücher und Fachzeitschriften) |
+| 3.3 | Reisekosten und Gebühren z. B. für Studienfahrten, Seminare, Arbeitstagungen, Fort- und Weiterbildungsmaßnahmen |
+| 3.4 | Büro- und Schulbedarf |
+| 3.5 | Porto- und Kommunikationskosten (z. B. Telefon und Onlinedienste) |
+| 3.6 | Rundfunk- und Fernsehgebühren |
+| 3.7 | Anwendungssoftware |
+| 3.8 | Honorare und Reisekosten für Prüfungen und Klausuren |
+| 3.9 | Raum- und Geschäftsausstattung (Gebrauchsgüter und Verbrauchsgüter einschließlich Anlagegüter mit Anschaffungs- oder Herstellungskosten bis zur Höchstgrenze gemäß § 6 Absatz 2 des Einkommensteuergesetzes) |
+| 3.10 | Kosten der Qualitätssicherung, Evaluation, Zertifizierung |
+| 3.11 | Personalbeschaffungskosten |
+| 3.12 | Beratungs-, Abschluss- und Prüfungskosten |
+| 3.13 | Sonstige Sachaufwandskosten |
+| 4. | Sonstiger Personalaufwand sowie Personalaufwand der zentralen Verwaltung und sonstiger zentraler Dienste | Gemeinkosten (ggf. anteilig) |
+| 4.1 | Sonstige direkt gebuchte Personalkosten (z. B. Sekretariat) |
+| 4.2 | Allgemeine Verwaltung (z. B. Personalabteilung, Wirtschaftsabteilung u. ä.) |
+| 4.3 | Sonstige zentrale Dienste (z. B. Technischer Dienst, Werkstätten, Hausmeister, Reinigungsdienst u. ä.) |
+| 5. | Betriebskosten des Schulgebäudes |
+| 5.1 | Betriebskosten der Gebäude(-teile) und Räume, die von der Pflegeschule genutzt werden, ggf. anteilige Zurechnung (Unterrichtsräume, Demonstrationsräume, Gruppenarbeitsräume, Büros, Laboratorien, Medienräume, Besprechungsräume, Bibliothek, Sanitärräume, Archiv u. ä.) wie |
+|  | Wasser, Abwasser, Energie, Brennstoffe |
+|  | Wirtschaftsbedarf (z. B. Gebäudereinigung) |
+|  | Steuern, Abgaben (z. B. Müllentsorgung), Versicherungen |  |
+|  | Instandhaltung/Unterhalt der Außenanlagen |  |
+|  | Gebrauchsgüter |  |
+|  | Mietnebenkosten für Ausbildungsräume |  |
+| 6. | Sonstige Gemeinkosten |  |
+| B. | Kosten des Trägers der praktischen Ausbildung |
+| 1. | Kosten der Praxisanleitung | Praktische Ausbildung |
+| 1.1 | Praktische Anleitung durch Praxisanleiterinnen und Praxisanleiter einschließlich Reisekosten |
+| 1.2 | Kosten der Organisation nach § 8 des Pflegeberufegesetzes einschließlich Reisekosten |
+| 1.3 | Arbeitsausfallkosten für die Teilnahme an Weiterbildungs- und Qualifizierungsmaßnahmen zur Praxisanleiterin oder zum Praxisanleiter |
+| 1.4 | Kosten der Qualifikation von Praxisanleiterinnen und Praxisanleitern, einschließlich der erforderlichen Fortbildungskosten |
+| 1.5 | Kosten der Auszubildenden während der Praxiseinsätze mit Ausnahme der Ausbildungsvergütung (z. B. Fahrtkostenerstattung) |
+| 2. | Sachaufwandskosten | Sachaufwand |
+| 2.1 | Lehr- und Arbeitsmaterialien |
+| 2.2 | Lernmittel für Auszubildende, Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer und Lehrpersonal (z. B. Fachbücher und Fachzeitschriften) |
+| 2.3 | Reisekosten und Gebühren z. B. für Studienfahrten, Seminare, Arbeitstagungen, Fort- und Weiterbildungsmaßnahmen |
+| 2.4 | Bürobedarf |
+| 2.5 | Porto- und Kommunikationskosten (z. B. Telefon und Onlinedienste) |
+| 2.6 | Rundfunk- und Fernsehgebühren |
+| 2.7 | Anwendungssoftware |
+| 2.8 | Honorare und Reisekosten für Prüfungen und Klausuren |
+| 2.9 | Raum- und Geschäftsausstattung (Gebrauchsgüter und Verbrauchsgüter einschließlich Anlagegüter mit Anschaffungs- oder Herstellungskosten bis zur Höchstgrenze gemäß § 6 Absatz 2 des Einkommensteuergesetzes) |
+| 2.10 | Kosten der Qualitätssicherung, Evaluation, Zertifizierung |
+| 2.11 | Personalbeschaffungskosten |
+| 2.12 | Beratungs-, Abschluss- und Prüfungskosten |
+| 2.13 | Sonstige Sachaufwandskosten |
+| 3. | Sonstiger Personalaufwand sowie Personalaufwand der zentralen Verwaltung und sonstiger zentraler Dienste | Gemeinkosten (ggf. anteilig) |
+| 3.1 | Sonstige direkt gebuchte Personalkosten (z. B. Sekretariat) |
+| 3.2 | Allgemeine Verwaltung (z. B. Personalabteilung, Wirtschaftsabteilung u. ä.) |
+| 3.3 | Sonstige zentrale Dienste (z. B. Technischer Dienst, Werkstätten, Hausmeister, Reinigungsdienst u. ä.) |
+| 4. | Betriebskosten der Gebäude |
+| 4.1 | Betriebskosten der Gebäude(-teile) und Räume, die von der Ausbildungsstätte für die praktische Ausbildung genutzt werden, ggf. anteilige Zurechnung (Unterrichtsräume, Demonstrationsräume, Gruppenarbeitsräume, Büros, Laboratorien, Medienräume, Besprechungsräume, Bibliothek, Sanitärräume, Archiv u. ä.) wie |
+|  | Wasser, Abwasser, Energie, Brennstoffe |
+|  | Wirtschaftsbedarf (z. B. Gebäudereinigung) |
+|  | Steuern, Abgaben (z. B. Müllentsorgung), Versicherungen |  |
+|  | Instandhaltung/Unterhalt der Außenanlagen |
+|  | Gebrauchsgüter |
+|  | Mietnebenkosten für Ausbildungsräume |
+| 5. | Sonstige Gemeinkosten |

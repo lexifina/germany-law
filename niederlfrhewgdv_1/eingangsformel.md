@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des Artikels IV des Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr vom 13. August 1965 (Bundesgesetzbl. I S. 849) und auf Grund des § 2 des Zweiten Gesetzes zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr vom 14. Dezember 1970 (Bundesgesetzbl. I S. 1709) verordnet die Bundesregierung, nachdem der Entwurf dem Bundestag zur Kenntnisnahme zugeleitet worden ist, mit Zustimmung des Bundesrates:

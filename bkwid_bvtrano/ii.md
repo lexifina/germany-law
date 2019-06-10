@@ -1,0 +1,3 @@
+# II.
+
+Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) übertrage ich dem Bundesverwaltungsamt die Vertretung des Chefs des Bundeskanzleramtes bei Klagen, soweit es nach dieser Anordnung zur Entscheidung über Widersprüche zuständig ist.

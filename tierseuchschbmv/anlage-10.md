@@ -1,0 +1,18 @@
+# Anlage 10 (zu § 25 Abs. 2 und 3)*Fe Besondere Verbote und Beschränkungen der Einfuhr von Tieren und Waren auf Grund des Unionsrecht */
+
+(Fundstelle des Originaltextes: BGBl. I 2005, 1041;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Art, Verwendungszweck | Rechtsgrundlagen für Einfuhrverbote und -beschränkungen |
+| 1 | 2 |
+| I. | Tiere |  |
+| 1. | Huftiere | Artikel 11 Abs. 4 und Artikel 12 Abs. 4 der Richtlinie 2004/68/EG in der jeweils geltenden Fassung |
+| 2. | Geflügel | Artikel 29 der Richtlinie 90/539/EWG in der jeweils geltenden Fassung |
+| 3. | Fische | Artikel 24 der Richtlinie 91/67/EWG in der jeweils geltenden Fassung |
+| 4. | Tiere nach den Nummern 1 bis 3 sowie sonstige Tiere | Artikel 18 der Richtlinie 91/496/EWG in der jeweils geltenden Fassung |
+| II. | Waren |  |
+| 1. | Embryonen von Rindern, die nach dem 31. Dezember 1990 aufbereitet worden sind | Artikel 15 der Richtlinie 89/556/EWG in der jeweils geltenden Fassung |
+| 2. | Samen von Rindern, der nach dem 31. Dezember 1989 aufbereitet worden ist | Artikel 16 der Richtlinie 88/407/EWG in der jeweils geltenden Fassung |
+| 3. | Samen von Schweinen, der nach dem 31. Dezember 1991 aufbereitet worden ist | Artikel 15 und 16 der Richtlinie 90/429/EWG in der jeweils geltenden Fassung |
+| 4. | Bruteier | Artikel 29 der Richtlinie 90/539/EWG in der jeweils geltenden Fassung |
+| 5. | Eier und Sperma von Fischen | Artikel 24 der Richtlinie 91/67/EWG in der jeweils geltenden Fassung |
+| 6. | Erzeugnisse nach den Nummern 1 bis 6, sonstige Waren tierischer Herkunft und Gegenstände, die Träger von Ansteckungsstoff sein können | Artikel 22 der Richtlinie 97/78/EG in der jeweils geltenden Fassung |

@@ -1,0 +1,7 @@
+# Anlage 8 (zu den §§ 50 und 51 Absatz 1)Zeitplan des Zuweisungsverfahrens
+
+1. Der Netzfahrplan wird einmal im Kalenderjahr erstellt.
+2. Der Wechsel des Netzfahrplans erfolgt am zweiten Samstag im Dezember um 24:00 Uhr. Wird ein Netzfahrplanwechsel oder eine Netzfahrplananpassung nach den Wintermonaten durchgeführt, insbesondere zur Berücksichtigung etwaiger Fahrplanänderungen im regionalen Personenverkehr, so erfolgt die Umstellung am zweiten Samstag im Juni um 24:00 Uhr und bei Bedarf zu anderen Terminen. Die Betreiber der Schienenwege können sich auf abweichende Termine verständigen; in diesem Fall unterrichten sie die Europäische Kommission entsprechend, falls der internationale Verkehr betroffen sein könnte.
+3. Die Frist für den Eingang von Anträgen auf die Zuweisung von Fahrwegkapazität im Netzfahrplan endet am zweiten Montag im April um 24:00 Uhr.
+4. Die Betreiber der Schienenwege tragen dafür Sorge, dass spätestens elf Monate vor Inkrafttreten des Netzfahrplans vorläufige grenzüberschreitende Zugtrassen in Zusammenarbeit mit den anderen betroffenen Betreibern der Schienenwege festgelegt sind. Die Betreiber der Schienenwege gewährleisten soweit wie möglich, dass diese Zugtrassen in den nachfolgenden Verfahrensschritten beibehalten werden.
+5. Spätestens vier Monate nach Ablauf der Frist für die Einreichung von Anträgen seitens der Zugangsberechtigten erstellt der Betreiber der Schienenwege einen Netzfahrplanentwurf.

@@ -1,0 +1,24 @@
+# Anlage 7 (zu § 56 Abs. 3)
+
+(Fundstelle des Originaltextes: BGBl. I 2016, 3343;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| (Bezeichnung der zuständigen Behörde) |
+| Bescheinigung über die praktische Ausbildung in der Schlachttier- und Fleischuntersuchung |
+| Der/Die Studierende der Veterinärmedizin (Vor- und Zuname) |
+| hat |
+| 1. | in der Zeit vom | bis |
+|  | in dem Schlachthof in, | Tierart:, |
+| 2. | in der Zeit vom | bis |
+|  | in dem Schlachthof in, | Tierart:, |
+| 3. | in der Zeit vom | bis |
+|  | in dem Schlachthof in, | Tierart:, |
+| die praktische Ausbildung in der Schlachttier- und Fleischuntersuchung abgeleistet. |
+| Zu oben Nummer 1.: Er/Sie hat sich während dieser Zeit Stunden unter meiner Aufsicht und Leitung in der Beurteilung derSchlachttiere und deren Fleisch geübt. Er/Sie hatte ferner Gelegenheit, sich mit dem technischen Ablauf eines Schlachthofes vertraut zu machen. Der Schlachthof entspricht den Voraussetzungen des § 55 Absatz 3 Satz 1 der Verordnung zur Approbation von Tierärztinnen und Tierärzten. |
+|  |  | , | den |
+| (Siegel oder Stempel) | (Unterschrift der/des ausbildenden Tierärztin/Tierarztes) |
+| Zu oben Nummer 2.: Er/Sie hat sich während dieser Zeit Stunden unter meiner Aufsicht und Leitung in der Beurteilung derSchlachttiere und deren Fleisch geübt. Er/Sie hatte ferner Gelegenheit, sich mit dem technischen Ablauf eines Schlachthofes vertraut zu machen. Der Schlachthof entspricht den Voraussetzungen des § 55 Absatz 3 Satz 1 der Verordnung zur Approbation von Tierärztinnen und Tierärzten. |
+|  |  | , | den |
+| (Siegel oder Stempel) | (Unterschrift der/des ausbildenden Tierärztin/Tierarztes) |
+| Zu oben Nummer 3.: Er/Sie hat sich während dieser Zeit Stunden unter meiner Aufsicht und Leitung in der Beurteilung derSchlachttiere und deren Fleisch geübt. Er/Sie hatte ferner Gelegenheit, sich mit dem technischen Ablauf eines Schlachthofes vertraut zu machen. Der Schlachthof entspricht den Voraussetzungen des § 55 Absatz 3 Satz 1 der Verordnung zur Approbation von Tierärztinnen und Tierärzten. |
+|  |  | , | den |
+| (Siegel oder Stempel) | (Unterschrift der/des ausbildenden Tierärztin/Tierarztes) |

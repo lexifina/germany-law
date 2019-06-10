@@ -1,0 +1,6 @@
+# Art 28
+
+(1)
+Für eine laufende Pension oder eine Anwartschaft auf eine Pension auf Grund einer unmittelbaren Zusage braucht eine Rückstellung nach § 249 Abs. 1 Satz 1 des Handelsgesetzbuchs nicht gebildet zu werden, wenn der Pensionsberechtigte seinen Rechtsanspruch vor dem 1. Januar 1987 erworben hat oder sich ein vor diesem Zeitpunkt erworbener Rechtsanspruch nach dem 31. Dezember 1986 erhöht. Für eine mittelbare Verpflichtung aus einer Zusage für eine laufende Pension oder eine Anwartschaft auf eine Pension sowie für eine ähnliche unmittelbare oder mittelbare Verpflichtung braucht eine Rückstellung in keinem Fall gebildet zu werden.
+(2)
+Bei Anwendung des Absatzes 1 müssen Kapitalgesellschaften die in der Bilanz nicht ausgewiesenen Rückstellungen für laufende Pensionen, Anwartschaften auf Pensionen und ähnliche Verpflichtungen jeweils im Anhang und im Konzernanhang in einem Betrag angeben.

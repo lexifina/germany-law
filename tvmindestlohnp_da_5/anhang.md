@@ -1,0 +1,45 @@
+# Anhang (zur Anlage)
+
+| Anlage „Qualifikationen – Gruppe 2“ |
+1. Die im Folgenden aufgeführten formalen Qualifikationen (Abschlüsse) auf Grundlage von Rechtsverordnungen zur Regelung der beruflichen Fortbildung nach § 53 Absatz 1 des Berufsbildungsgesetzes (BBiG) oder § 42 Absatz 1 der Handwerksordnung (HwO); außer Regelungen für die Meisterprüfungen.
+  – Geprüfter Fachkaufmann oder geprüfte Fachkauffrau:
+    – Geprüfter Bilanzbuchhalter oder geprüfte Bilanzbuchhalterin
+    – Geprüfter Controller oder geprüfte Controllerin
+    – Geprüfter Personalfachkaufmann oder geprüfte Personalfachkauffrau
+  – Fachwirte aller Fachrichtungen oder Fachwirtinnen aller Fachrichtungen
+  – Operative Professional (Geprüfter oder Geprüfte):
+    – Geprüfter IT-Berater oder geprüfte IT-Beraterin – (Certified IT Business Consultant)
+    – Geprüfter IT-Entwickler oder geprüfte IT-Entwicklerin – (Certified IT Systems Manager)
+    – Geprüfter IT-Ökonom oder geprüfte IT-Ökonomin – (Certified IT Marketing Manager)
+    – Geprüfter IT-Projektleiter oder geprüfte IT-Projektleiterin – (Certified IT Business Manager)
+  – Geprüfter Aus- und Weiterbildungspädagoge oder geprüfte Aus- und Weiterbildungspädagogin
+  – Geprüfter Pharmareferent oder geprüfte Pharmareferentin
+  – Geprüfter Prozessmanager Elektrotechnik oder geprüfte Prozessmanagerin Elektrotechnik
+  – Geprüfter Prozessmanager Mikrotechnologie oder geprüfte Prozessmanagerin Mikrotechnologie
+  – Geprüfter Prozessmanager Produktionstechnologie oder geprüfte Prozessmanagerin Produktionstechnologie
+  – Verkaufsleiter im Lebensmittelhandwerk oder Verkaufsleiterin im Lebensmittelhandwerk
+  – Geprüfter Berufspädagoge oder geprüfte Berufspädagogin
+  – Geprüfter Betriebswirt oder geprüfte Betriebswirtin
+  – Geprüfter Betriebswirt nach der Handwerksordnung oder geprüfte Betriebswirtin nach der Handwerksordnung
+  – Geprüfter Technischer Betriebswirt oder geprüfte Technische Betriebswirtin
+  – Geprüfter Strategischer Professional oder geprüfte Strategische Professional:
+    – Geprüfter Informatiker und geprüfte Informatikerin – (Certified IT Technical Engineer)
+    – Geprüfter Wirtschaftsinformatiker oder geprüfte Wirtschaftsinformatikerin – (Certified IT Business Engineer)
+2. Die im Folgenden aufgeführten formalen Qualifikationen (Abschlüsse) auf der Grundlage landesrechtlich geregelter Weiterbildung an Fachschulen (Rahmenvereinbarung über Fachschulen, Beschluss der Kultusministerkonferenz).
+  – Staatlich geprüfter Agrarbetriebswirt oder staatlich geprüfte Agrarbetriebswirtin (in allen Fachrichtungen)
+  – Staatlich geprüfter Wirtschafter oder staatlich geprüfte Wirtschafterin (in allen Fachrichtungen)
+  – Staatlich geprüfter Gestalter oder staatlich geprüfte Gestalterin (in allen Fachrichtungen)
+  – Staatlich geprüfter Techniker oder staatlich geprüfte Technikerin (in allen Fachrichtungen)
+  – Staatlich geprüfter Betriebswirt oder staatlich geprüfte Betriebswirtin beziehungsweise staatlich geprüfter hauswirtschaftlicher Betriebsleiter oder staatlich geprüfte hauswirtschaftliche Betriebsleiterin (in allen Fachrichtungen)
+  – Staatlich anerkannter Erzieher oder staatlich anerkannte Erzieherin beziehungsweise staatlich anerkannter Heilerziehungspfleger oder staatlich anerkannte Heilerziehungspflegerin
+  – Staatlich anerkannter Heilpädagoge oder staatlich anerkannte Heilpädagogin
+3. Die im Folgenden aufgeführten formalen Qualifikationen (Abschlüsse) auf der Grundlage von Rechtsverordnungen nach § 45 Absatz 1 sowie § 51a Absatz 2 HwO über die Anforderungen in der Meisterprüfung in einem Gewerbe der Anlage A beziehungsweise B zur HwO.
+  – Meister aller Fachrichtungen oder Meisterinnen aller Fachrichtungen
+4. Die im Folgenden aufgeführten formalen Qualifikationen (Abschlüsse) auf der Grundlage der Fortgeltung bestehender Regelungen bei handwerklichen Meisterprüfungen nach § 122 HwO.
+  – Meister aller Fachrichtungen oder Meisterinnen aller Fachrichtungen
+5. Die im Folgenden aufgeführten formalen Qualifikationen (Abschlüsse) auf der Grundlage von Rechtsverordnungen über die Anforderungen in Meisterprüfungen nach § 53 BBiG beziehungsweise § 42 Absatz 1 HwO.
+  – Meister aller Fachrichtungen oder Meisterinnen aller Fachrichtungen
+6. Die im Folgenden aufgeführten beruflichen Fortbildungsqualifikationen aller zuständigen Stellen nach § 54 BBiG.
+  – Fachwirte, Meister und Techniker aller Fachrichtungen oder Fachwirtinnen, Meisterinnen und Technikerinnen aller Fachrichtungen
+7. Staatlich anerkannte akademische Grade.
+  Bachelor, Master, Magister, Diplom, Staatsexamen und denen Gleichgestellte, Doktoratsebene.

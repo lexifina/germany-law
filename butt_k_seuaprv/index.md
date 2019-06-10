@@ -1,0 +1,16 @@
+# Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherzeugnisse
+
+- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 2 Bildung von Notierungskommissionen](0002.md)
+- [§ 3 Zusammensetzung der Notierungskommissionen](0003.md)
+- [§ 4 Sitzungen, Beschlüsse und Niederschriften](0004.md)
+- [§ 5 Inhalt und Veröffentlichung der Notierung](0005.md)
+- [§ 6 Repräsentative Preisermittlung](0006.md)
+- [§ 6a Repräsentative Preiserhebung](0006a.md)
+- [§ 7 Preisermittlung für das Bundesgebiet](0007.md)
+- [§ 8 Verschwiegenheit](0008.md)
+- [§ 9 Aufzeichnungs- und Aufbewahrungspflichten](0009.md)
+- [§ 10 (Inkrafttreten, Außerkrafttreten)](0010.md)
+- [Anlage I (zu § 4 Absatz 1 Satz 2)Liste für amtliche Preisnotierungen regionaler Notierungskommissionen](anlage-i.md)
+- [Anlage II (zu § 6 Absatz 1 Satz 1)Liste für repräsentative Preisermittlung der ZMP](anlage-ii.md)
+- [Anlage III (zu § 6a Absatz 1 Satz 1)](anlage-iii.md)

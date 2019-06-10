@@ -1,0 +1,8 @@
+# Art 52
+
+(1)
+Wer zum Rückgriff berechtigt ist, kann mangels eines entgegenstehenden Vermerkes den Rückgriff dadurch nehmen, daß er auf einen seiner Vormänner einen neuen Wechsel (Rückwechsel) zieht, der auf Sicht lautet und am Wohnort dieses Vormannes zahlbar ist.
+(2)
+Der Rückwechsel umfaßt, außer den in den Artikeln 48 und 49 angegebenen Beträgen, die Maklergebühr und die Stempelsteuer für den Rückwechsel.
+(3)
+Wird der Rückwechsel vom Inhaber gezogen, so richtet sich die Höhe der Wechselsumme nach dem Kurse, den ein vom Zahlungsort des ursprünglichen Wechsels auf den Wohnort des Vormannes gezogener Sichtwechsel hat. Wird der Rückwechsel von einem Indossanten gezogen, so richtet sich die Höhe der Wechselsumme nach dem Kurse, den ein vom Wohnort des Ausstellers des Rückwechsels auf den Wohnort des Vormannes gezogener Sichtwechsel hat.

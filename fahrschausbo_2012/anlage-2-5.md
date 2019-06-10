@@ -1,0 +1,140 @@
+# Anlage 2.5 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in den Klassen D (18 Doppelstunden) und D1 (10 Doppelstunden)
+
+1. Voraussetzung für den Erwerb der Fahrerlaubnis D1 und D
+  a) Personenbeförderung in Bussen
+    Sicherheit, Unfallbeteiligung
+  b) Definition Kraftomnibusse
+  c) Einteilung der Kraftomnibusse nach Größe, Art, Verwendung.
+2. Rahmen, Fahrwerk, Elektrische Anlage
+  a) Rahmen und Fahrgestelle
+    unterschiedliche Motoreinbauvarianten, Aufbau, Gitterrohrrahmen, Federung, Dämpfung, Achsen
+  b) Räder und Reifen
+    Arten, Reifenschäden
+    Radwechsel
+    Schneeketten:
+    – Arten
+    – Montage
+  c) Lenkung
+  d) Elektrische Anlage
+    Batterie, Prüfung/Ladung, Lichtmaschine, Anlasser, Bordelektrik, Beleuchtung, Heizung, Lüftung, Klimatisierung, weitere Stromverbraucher.
+3. Fahrerplatz – Innenraum
+  Zugang von außen
+  a) Fahrerplatz
+    Linienbus, Reisebus
+    Begleitpersonal
+    Signalanlagen:
+    – Video – Außenbeobachtung
+  b) Informations- und Unterhaltungsanlage
+    Lautsprecheranlage, Radioanlage, Fernseh-/Videoanlage
+  c) Innenraum
+    Fahrgastraum – Beleuchtung:
+    Innenbeleuchtung, Bodenbeleuchtung, Nachtbeleuchtung, Ein- und Ausstiege, Notausstiege, Türöffnung bei Reisebussen: Stauraum, Kraftstoffbehälter.
+4. Kraftstrang
+  a) Motoren
+  b) Einspritzanlage
+  c) Abgasanlage
+  d) Kupplung
+  e) Getriebe
+  f) Antriebswellen
+  g) Differential.
+5. Bremsanlagen (1)
+  a) Bauteile
+  b) gesetzliche Vorschriften
+  c) Arten von Bremsanlagen.
+6. Bremsanlagen (2)
+  a) Einzelaggregate der Bremsanlage
+  b) Feststellbremsanlage.
+7. Bremsanlagen (3)
+  a) Betriebsbremsanlage
+  b) Dauerbremsanlage.
+8. Bremsanlagen (4)
+  a) Gelenkbusanlage
+  b) Luftfederung – Gelenkbus
+  c) Drehgelenk – Knickschutz
+  d) Antrieb-Schlupf-Regelung (ASR) und Automatischer Blockierverhinderer (ABV)
+  e) Automatisch-lastabhängige Bremse (ALB)
+  f) Anhängerkupplung
+  g) Anhänger hinter Kraftomnibussen.
+9. Personenbeförderung, Fahrzeug- und Beförderungsdokumente
+  a) gesetzliche Regelung des Personenverkehrs
+    Grundzüge des Personenbeförderungsrechts, Freistellungsverordnung
+  b) Arten des Personenbeförderungsverkehrs
+    Gelegenheitsverkehr
+    Linienverkehr, Schulbusverkehr, Marktfahrten, Theaterfahrten, grenzüberschreitender Verkehr
+  c) Fahrzeug- und Beförderungsdokumente für den innerstaatlichen und grenzüberschreitenden Verkehr
+  d) Haltestellen
+  e) Kennzeichnung und Beschilderung von Linienbussen.
+10. BO-Kraft, Bau- und Betriebsvorschriften
+  a) BO-Kraft
+    Allgemeine Vorschriften
+    Fahrdienst, Fahrgäste, Beförderungspflicht, Ausrüstung und Beschaffenheit
+  b) Sondervorschriften
+    O-Bus
+    Linienverkehr
+    Fahrzeuguntersuchungen nach BO-Kraft
+  c) Ordnungswidrigkeiten
+    Nichtraucherzonen
+    Kennzeichnung von Schulbussen, Kennzeichnung von Sitzplätzen für behinderte Menschen
+    Rollstuhlfahrer
+    Gurtanlegepflicht
+  d) Verhalten im Fahrdienst
+    mitzuführende Papiere
+    Fundsachen.
+11. StVZO-Bestimmungen zu Kraftomnibussen
+  Sondervorschriften für Kraftomnibusse
+  Bauart, bestimmte Höchstgeschwindigkeit,
+  Abmessung,
+  Anhängerbetrieb,
+  Kurvenlaufeigenschaften,
+  Achslasten, Gesamtgewicht,
+  Besetzung, Sitze, Sicherheitsgurte, Rückhaltesysteme, Anordnung der Fahrgastsitze,
+  Einrichtung zum sicheren Führen der Fahrzeuge, Heizung, Belüftung,
+  Einrichtungen zum Auf- und Absteigen,
+  Fußboden, Türen – Notausstiege, Feuerlöscher, Erste-Hilfe-Material, Gänge, Bereifung,
+  Lenkeinrichtung, Diebstahl-, Alarmeinrichtungen,
+  Scheiben und Scheibenwischer, Unterlegkeile,
+  Abgase, Abgasuntersuchung, Geschwindigkeitsbegrenzer,
+  Geschwindigkeitsschilder.
+12. Fahrphysik
+  a) Wirkung von Kräften
+    Kraftschluss, Widerstände, Luftwiderstände, Steigungswiderstände, Fliehkräfte, Seitenführungskraft, Kurvenfahrten.
+  b) Benutzung von Spiegeln.
+13. Fahren mit Kraftomnibussen, StVO-Bestimmungen mit integrierter Gefahrenlehre (1)
+  Verhalten im Straßenverkehr, Vermittlung der Verhaltensweisen unter besonderer Berücksichtigung der Verantwortung als Kraftomnibus-Fahrer
+  Fahren in Fahrstreifen
+  Sonderfahrstreifen
+  Geschwindigkeit, Abstand, Überholen, Vorbeifahren, Vorfahrt, besondere Verkehrslagen, Abbiegen, Wenden, Rückwärtsfahren, Einfahren, Anfahren.
+14. Fahren mit Kraftomnibussen, StVO-Bestimmungen mit integrierter Gefahrenlehre (2)
+  Halten und Parken, Sorgfaltspflichten beim Ein- und Aussteigen, Warnzeichen, Autobahnen und Kraftfahrstraßen, Bahnübergänge, Fußgängerüberwege, Schulbusse, Haltestellenregelung, sonstige Pflichten des Fahrzeugführers, Verkehrshindernisse, Verkehrszeichen, Verkehrseinrichtungen, Ordnungswidrigkeiten.
+15. Wirtschaftliches und umweltschonendes Fahren mit Kraftomnibussen; Umweltschutz, energiesparendes und wirtschaftliches Fahren; Straßenkarten, Streckenplanung
+  a) Umweltschutz
+    Energiesparendes und gleichmäßiges Fahren, Lärmschutz
+  b) Alternative Kraftstoffe und Antriebe
+  c) Umweltschutz bei Wartung, Pflege und Kontrollen des Kraftomnibusses
+  d) Umweltgerechtes Entsorgen von Abfällen
+  e) Karten lesen, Streckenplanung, Navigationssysteme.
+16. Fahren mit Kraftomnibussen
+  Verhalten bei Pannen und nach Unfällen
+  a) Verhalten in schwierigen Situationen
+    besondere Seitenwindempfindlichkeit von Kraftomnibussen, Aquaplaning, Nebel, Wintergefahren, Verhalten als Schulbusfahrer
+  b) Liegenbleiben von Bussen
+    Pannen, Schutz der Fahrgäste, Notfallmaßnahmen, Evakuierung
+  c) Fahrerbedingte Unfallfaktoren
+    Übermüdung, Ernährung, Alkohol, Drogen, Medikamente, Krankheit, Ablenkung
+  d) Verhalten bei Unfällen.
+17. Sozialvorschriften, Arbeitsrecht, sonstige Bestimmungen
+  a) Verordnung (EWG) Nr. 3820/85
+  b) Grundzüge des Europäischen Übereinkommens über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)
+  c) Grundzüge des Fahrpersonalgesetzes
+  d) Grundzüge der Fahrpersonalverordnung
+  e) Verordnung über den Fahrtenschreiber (EU) Nr. 165/2014
+  f) Fahrpersonal und Kraftfahrzeuge
+  g) Kontrollmittelverordnung
+  h) Kontrollen nach dem Güterkraftverkehrsgesetz
+  i) Grundzüge des Arbeitszeitgesetzes.
+18. Sicherheitskontrollen
+  a) Abfahrkontrolle
+    Verkehrs- und Betriebssicherheit
+    Räder und Bereifung, elektrische Einrichtungen, Bremsanlage, Ausrüstung
+  b) Unterrichtung über Handfertigkeiten, die im Rahmen der praktischen Ausbildung und Prüfung beherrscht werden müssen.
+  Die Punkte „Ausrüstung, Einbau und Prüfung von Geschwindigkeitsbegrenzern, Automatisch-lastabhängige Bremse, Dauerbremse, Haltestellenbremse, Kupplung, Wandlerkupplung, Geschwindigkeitsbegrenzer, Besonderheiten bei Gelenkbussen und Kneeling“ entfallen bei Klasse D1.

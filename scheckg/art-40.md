@@ -1,0 +1,6 @@
+# Art 40
+
+Der Inhaber kann gegen die Indossanten, den Aussteller und die anderen Scheckverpflichteten Rückgriff nehmen, wenn der rechtzeitig vorgelegte Scheck nicht eingelöst und die Verweigerung der Zahlung festgestellt worden ist:
+1. durch eine öffentliche Urkunde (Protest) oder
+2. durch eine schriftliche, datierte Erklärung des Bezogenen auf dem Scheck, die den Tag der Vorlegung angibt, oder
+3. durch eine datierte Erklärung einer Abrechnungsstelle, daß der Scheck rechtzeitig eingeliefert und nicht bezahlt worden ist.

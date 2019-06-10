@@ -1,0 +1,21 @@
+# Regel 18 Verantwortlichkeiten der Fahrzeuge untereinander
+
+Sofern in den Regeln 9, 10 und 13 nicht etwas anderes bestimmt ist, gilt folgendes:
+a) Ein Maschinenfahrzeug in Fahrt muß ausweichen
+  i) einen manövrierunfähigen Fahrzeug;
+    ii) einem manövrierbehinderten Fahrzeug;
+    iii) einem fischenden Fahrzeug;
+    iv) einem Segelfahrzeug.
+b) Ein Segelfahrzeug in Fahrt muß ausweichen
+  i) einen manövrierunfähigen Fahrzeug;
+    ii) einem manövrierbehinderten Fahrzeug;
+    iii) einem fischenden Fahrzeug.
+c) Ein fischendes Fahrzeug in Fahrt muß, soweit möglich, ausweichen
+  i) einem manövrierunfähigen Fahrzeug;
+    ii) einem manövrierbehinderten Fahrzeug.
+d) i) Jedes Fahrzeug mit Ausnahme eines manövrierunfähigen oder manövrierbehinderten muß, sofern die Umstände es zulassen, vermeiden, die sichere Durchfahrt eines tiefgangbehinderten Fahrzeugs zu behindern, das Signale nach Regel 28 zeigt.
+    ii) Ein tiefgangbehindertes Fahrzeug muß unter Berücksichtigung seines besonderen Zustands mit besonderer Vorsicht navigieren.
+e) Ein Wasserflugzeug auf dem Wasser muß sich in der Regel von allen Fahrzeugen gut klar halten und vermeiden, deren Manöver zu behindern. Sobald jedoch die Möglichkeit der Gefahr eines Zusammenstoßes besteht, muß es die Regeln dieses Teiles befolgen.
+f) i) Ein Bodeneffektfahrzeug muss sich bei Start, Landung und oberflächennahem Flug von allen Fahrzeugen gut klar halten und vermeiden, deren Manöver zu behindern;
+    ii)
+  ein Bodeneffektfahrzeug, das auf der Wasseroberfläche betrieben wird, muss die Regeln dieses Teiles für Maschinenfahrzeuge erfüllen.

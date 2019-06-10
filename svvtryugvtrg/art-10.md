@@ -1,0 +1,8 @@
+# Art 10
+
+Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates
+1. in den Fällen, in denen die Versicherungspflicht über das Bundesrecht hinausging oder in denen die Beitragsberechnung, insbesondere in der freiwilligen Versicherung, abweichend vom Bundesrecht geregelt war, und für sonstige besondere Fälle zur Vermeidung von Härten Näheres über die Anrechnung der in Artikel 1 Abs. 1 Buchstabe a des Vertrags bezeichneten Versicherungszeiten bestimmen. In derselben Weise können auch bestimmte Beitragsklassen für die Rentenberechnung auf Grund der anzurechnenden Versicherungszeiten festgelegt werden;
+2. die Steigerungsbeträge für solche nach Artikel 5 dieses Gesetzes anzurechnende Versicherungszeiten feststellen,
+  a) bei denen das zu berücksichtigende Entgelt oder die Höhe des Beitrags nicht feststeht oder
+  b) die nicht nachweisbar sind, aber durch Arbeitsbescheinigungen oder sonstige als zuverlässig zu erachtende Unterlagen glaubhaft gemacht werden;
+3. bestimmen, welche Zeiten als Beitrags- und Ersatzzeiten der jugoslawischen gesetzlichen Rentenversicherung anzusehen sind.

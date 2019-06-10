@@ -1,0 +1,17 @@
+# Verordnung über die Prüfung zum anerkannten Abschluss
+Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Prüfung und Bezeichnung des Abschlusses](0001.md)
+- [§ 2 Gliederung und Durchführung der Prüfung](0002.md)
+- [§ 3 Zulassungsvoraussetzungen](0003.md)
+- [§ 4 Grundlegende Qualifikationen](0004.md)
+- [§ 5 Spezielle Qualifikationen](0005.md)
+- [§ 6 Anrechnung anderer Prüfungsleistungen](0006.md)
+- [§ 7 Bestehen der Prüfung](0007.md)
+- [§ 8 Wiederholung der Prüfung](0008.md)
+- [§ 9 Ausbildereignung](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Anlage 1 (zu § 7 Abs. 3)](anlage-1.md)
+- [Anlage 2 (zu § 7 Abs. 1 und 3)](anlage-2.md)

@@ -1,0 +1,32 @@
+# Anlage 6 (zu § 9 Abs. 3)
+
+|  |
+| Angaben | Anforderungen |
+| Mit geringem Gehalt an | Der als fester Rückstand berechnete |
+| Mineralien | Mineralstoffgehalt beträgt nicht mehr als 500 mg/l |
+|  |
+| Mit sehr geringem Gehalt an | Der als fester Rückstand berechnete |
+| Mineralien | Mineralstoffgehalt beträgt nicht mehr als 50 mg/l |
+|  |
+| Mit hohem Gehalt an | Der als fester Rückstand berechnete |
+| Mineralien | Mineralstoffgehalt beträgt mehr als 1.500 mg/l |
+|  |
+| Bicarbonathaltig | Der Hydrogencarbonat-Gehalt beträgt mehr als 600 mg/l |
+|  |
+| Sulfathaltig | Der Sulfatgehalt beträgt mehr als 200 mg/l |
+|  |
+| Chloridhaltig | Der Chloridgehalt beträgt mehr als 200 mg/l |
+|  |
+| Calciumhaltig | Der Calciumgehalt beträgt mehr als 150 mg/l |
+|  |
+| Magnesiumhaltig | Der Magnesiumgehalt beträgt mehr als 50 mg/l |
+|  |
+| Fluoridhaltig | Der Fluoridgehalt beträgt mehr als 1 mg/l |
+|  |
+| Eisenhaltig | Der Gehalt an zweiwertigem Eisen beträgt mehr als 1 mg/l |
+|  |
+| Natriumhaltig | Der Natriumgehalt beträgt mehr als 200 mg/l |
+|  |
+| Geeignet für die Zubereitung von Säuglingsnahrung | Der Gehalt an Natrium darf 20 mg/l, an Nitrat 10 mg/l, an Nitrit 0,02 mg/l, an Sulfat 240 mg/l, an Fluorid 0,7 mg/l, an Mangan 0,05 mg/l, an Arsen 0,005 mg/l und an Uran 0,002 mg/l nicht überschreiten.Die in § 4 Abs. 1 Satz 3 genannten Grenzwerte müssen auch bei der Abgabe an den Verbraucher eingehalten werden. Bei Abgabe an den Verbraucher darf in natürlichem Mineralwasser die Aktivitätskonzentration von Radium-226 den Wert 125 mBq/l und von Radium-228 den Wert 20 mBq/l nicht überschreiten. Sind beide Radionuklide enthalten, darf die Summe der Aktivitätskonzentrationen, ausgedrückt in Vonhundertteilen der zulässigen Höchstkonzentration, 100 nicht überschreiten. |
+|  |
+| Geeignet für natriumarme Ernährung | Der Natriumgehalt beträgt weniger als 20 mg/l |

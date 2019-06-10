@@ -1,0 +1,3 @@
+# Beschluß der Volkskammer der Deutschen Demokratischen Republik zum
+Richtergesetz - Ordnung über die Bildung und Arbeitsweise der
+Richterwahlausschüsse -

@@ -1,0 +1,4 @@
+# Präambel
+
+Die Richtlinie 2004/52/EG des Europäischen Parlaments und des Rates vom 29. April 2004 über die Interoperabilität elektronischer Mautsysteme in der Gemeinschaft und die Entscheidung 2009/750/EG der Kommission vom 6. Oktober 2009 über die Festlegung der Merkmale des europäischen elektronischen Mautdienstes und seiner technischen Komponenten in Verbindung mit dem Mautsystemgesetz (MautSysG) und dem Bundesfernstraßenmautgesetz (BFStrMG), die durch Gesetz vom 5. Dezember 2014 eingeführt bzw. geändert worden sind, bilden die rechtlichen Grundlagen für die Implementierung des europäischen elektronischen Mautdienstes (EETS) in der Bundesrepublik Deutschland.
+Ziel des EETS ist es, den Nutzern den Zugang zum gesamten mautpflichtigen europäischen Straßennetz mit nur einem Vertrag und nur einem Bordgerät eines Anbieters zu ermöglichen.

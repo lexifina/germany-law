@@ -1,0 +1,12 @@
+# Anlage 9 (zu § 10 Abs. 3)
+
+Bedarfsgegenstände, bei denen bestimmte Inhaltsstoffe
+anzugeben sind
+
+(Fundstelle des Originaltextes: BGBl. I 1998, 33;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Lfd. Nr. | Erzeugnis | Kennzeichnung | Stellen, an denen oder auf denen die Kennzeichnung anzubringen ist |
+| 1 | 2 | 3 | 4 |
+| 1. | (weggefallen) |  |  |
+| 2. | Textilien mit einem Massengehalt von mehr als 0,15 vom Hundert an freiem Formaldehyd, die beim bestimmungsgemäßen Gebrauch mit der Haut in Berührung kommen und mit einer Ausrüstung versehen sind | "Enthält Formaldehyd. Es wird empfohlen, das Kleidungsstück zur besseren Hautverträglichkeit vor dem ersten Tragen zu waschen." | Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem Bedarfsgegenstand oder seiner Verpackung befindet |
+| 3. | Reinigungs- und Pflegemittel, die für den häuslichen Bedarf bestimmt sind, mit einem Massengehalt von mehr als 0,1 vom Hundert Formaldehyd | "Enthält Formaldehyd." | Bedarfsgegenstand oder Verpackung oder Etikett, das sich auf dem Bedarfsgegenstand oder seiner Verpackung befindet |

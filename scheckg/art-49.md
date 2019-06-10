@@ -1,0 +1,3 @@
+# Art 49
+
+Schecks, die nicht auf den Inhaber gestellt sind und in einem anderen Lande als dem der Ausstellung oder in einem überseeischen Gebiet des Landes der Ausstellung zahlbar sind, und umgekehrt, oder in dem überseeischen Gebiet eines Landes ausgestellt und zahlbar sind oder in dem überseeischen Gebiet eines Landes ausgestellt und in einem anderen überseeischen Gebiet desselben Landes zahlbar sind, können in mehreren gleichen Ausfertigungen ausgestellt werden. Diese Ausfertigungen müssen im Text der Urkunde mit fortlaufenden Nummern versehen sein; andernfalls gilt jede Ausfertigung als besonderer Scheck.

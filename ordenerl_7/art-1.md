@@ -1,0 +1,5 @@
+# Art 1
+
+Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer 1132-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Anlage I Kapitel II Sachgebiet A Abschnitt II Nr. 2 des Einigungsvertrages vom 31. August 1990 (BGBl. II 1990 S. 885, 910), genehmige ich die Stiftung und Verleihung der
+Einsatzmedaille der Bundeswehr
+durch den Bundesminister der Verteidigung.

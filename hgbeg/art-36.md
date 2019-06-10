@@ -1,0 +1,6 @@
+# Art 36
+
+(1)
+Abweichend von Artikel 35 gilt § 160 Abs. 3 Satz 2 des Handelsgesetzbuches auch für Verbindlichkeiten im Sinne des Artikels 35 Satz 2, wenn diese aus fortbestehenden Arbeitsverhältnissen entstanden sind. Dies gilt auch dann, wenn der Wechsel in der Rechtsstellung des Gesellschafters bereits vor dem 26. März 1994 stattgefunden hat, mit der Maßgabe, daß dieser Wechsel mit dem 26. März 1994 als in das Handelsregister eingetragen gilt.
+(2)
+Die Enthaftung nach Absatz 1 gilt nicht für Ansprüche auf Arbeitsentgelt, für die der Arbeitnehmer bei Zahlungsunfähigkeit der Gesellschaft keinen Anspruch auf Insolvenzgeld hat. Insoweit bleibt es bei dem bisher anwendbaren Recht.

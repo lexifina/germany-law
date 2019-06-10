@@ -1,0 +1,22 @@
+# Gesetz zur Sicherung der Energieversorgung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Sicherung der Energieversorgung](0001.md)
+- [§ 2 Internationale Verpflichtungen](0002.md)
+- [§ 3 Erlaß von Rechtsverordnungen](0003.md)
+- [§ 4 Ausführung des Gesetzes](0004.md)
+- [§ 5 Keine aufschiebende Wirkung von Widerspruch und
+Anfechtungsklage](0005.md)
+- [§ 6 Verwaltungsvorschriften](0006.md)
+- [§ 7 Einzelweisungen](0007.md)
+- [§ 8 Mitwirkung von Vereinigungen](0008.md)
+- [§ 9 Vorbereitung des Vollzugs](0009.md)
+- [§ 10 Auskünfte](0010.md)
+- [§ 11 Entschädigung](0011.md)
+- [§ 12 Härteausgleich](0012.md)
+- [§ 13](0013.md)
+- [§ 14 Zustellungen](0014.md)
+- [§ 15 Zuwiderhandlungen](0015.md)
+- [§ 16 Zuständige Verwaltungsbehörde bei Zuwiderhandlungen](0016.md)
+- [§ 17 Berlin-Klausel](0017.md)
+- [§ 18 Inkrafttreten](0018.md)

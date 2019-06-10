@@ -1,0 +1,108 @@
+# Anlage 1
+
+Amtsgericht Einzel- Abteilung
+Braunschweig blatt
+Erste Abteilung -------
+Das Luftfahrzeug I I I
+-------
+--------------------------------
+I 1. Blatt der Luftfahrzeug- I
+I rolle, auf dem das I
+I Luftfahrzeug eingetragen I
+I ist, I
+I 2. Staatsangehörigkeits- und I
+I Eintragungszeichen, I
+I 3. Art, I
+I 4. Muster, I
+I 5. Werksnummer der Zelle. I
+I------------------------------I
+I 1 I
+I------------------------------I
+I I
+I I
+I 1. I
+I I
+Register I I
+I 2. I
+für Pfandrechte an Luftfahrzeugen I I
+I I
+Blatt ......... I 3. I
+I I
+I I
+I 4. I
+I I
+I I
+I 5. I
+I I
+I I
+--------------------------------
+Einzel- Abteilung
+blatt
+Amtsgericht Register für Pfand- Erste Abteilung -------
+Braunschweig rechte an Luftfahrzeugen Das Luftfahrzeug I I I
+Blatt ....... -------
+------------------------------------------------------------------------
+I I Tag der Eintragung des I
+I I Luftfahrzeugs, Grundlage der I
+I Eigentümer I Eintragung in Spalte 2, I
+I I Eigentumsbeschränkungen, I
+I I Veränderungen I
+I----------------------------------------------------------------------I
+I Lfd. I I Zu Spalte I I
+I Nr. I I u. Nummer I I
+I----------------------------------------------------------------------I
+I 2 I 3 I 4 I
+I----------------------------------------------------------------------I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+------------------------------------------------------------------------
+Einzel- Abteilung
+blatt
+Amtsgericht Register für Pfand- Zweite Abteilung -------
+Braunschweig rechte an Luftfahrzeugen Registerpfand- I I II
+Blatt ....... rechte -------
+------------------------------------------------------------------------
+I Lfd. I I I
+I Nr. I Betrag I Inhalt der Eintragung I
+I----------------------------------------------------------------------I
+I 1 I 2 I 3 I
+I----------------------------------------------------------------------I
+I I I I
+I I I I
+I I I I
+I I I I
+I I I I
+I I I I
+I I I I
+I I I I
+I I I I
+I I I I
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+I Veränderungen I Löschungen I
+I----------------------------------------------------------------------I
+I Lfd. Nr. I I I Lfd. Nr. I I I
+I der I Betrag I I der I Betrag I I
+I Spalte 1 I I I Spalte 1 I I I
+I----------------------------------------------------------------------I
+I 4 I 5 I 6 I 7 I 8 I 9 I
+I----------------------------------------------------------------------I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+I I I I I I I
+------------------------------------------------------------------------

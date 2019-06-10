@@ -1,0 +1,8 @@
+# Anlage 1 (zu den §§ 3 und 5)Bestimmung der Dichtheit von Gasrückführungssystemen und Einstellung des Korrekturfaktors bei Kraftstoffgemischen
+
+1. Dichtheitsprüfung von Gasrückführungssystemen
+1.1 Vor der ersten Inbetriebnahme eines Gasrückführungssystems, nach jeder wesentlichen Änderung am System und spätestens im Abstand von zweieinhalb Jahren bei der Abgabe von Kraftstoffgemischen und von fünf Jahren bei der Abgabe von Ottokraftstoffen ist eine Dichtheitsprüfung des kompletten Gasrückführungssystems durchzuführen.
+1.2 Zur Überprüfung der Dichtheit der Gasrückführungsleitungen ist das komplette Leitungssystem zwischen dem Fußpunkt der Zapfsäule und dem Lagertank mit 200 Kilopascal Überdruck in geeigneter Art und Weise zu beaufschlagen. Innerhalb von 30 Minuten ist ein maximaler Druckabfall von 100 Hektopascal zulässig.
+1.3 Die Dichtheit des Gasrückführungssystems zwischen dem Fußpunkt der Zapfsäule und dem Zapfventil ist systemabhängig mit Überdruck oder Unterdruck nach den Vorgaben des Herstellers zu prüfen. Die Prüfung vor Inbetriebnahme entfällt, wenn eine Bescheinigung des Zapfsäulenherstellers oder der befähigten Person über die Dichtheitsprüfung vorliegt.
+2. Einstellung des Korrekturfaktors bei Kraftstoffgemischen
+  Bei Kraftstoffgemischen ist für die Einstellung, Eigenkontrolle und Überwachung der Gasrückführungssysteme (nach dem Messprinzip mit simuliertem Benzindurchfluss – Trockenmessverfahren nach Nummer 5.4 der DIN EN 16321-2, Ausgabe Dezember 2013) ein reduzierter Korrekturfaktor (K-Faktor) erforderlich. Die notwendige Reduzierung des K-Faktors bei Kraftstoffgemischen mit einem Bioethanolanteil von mehr als 5 Volumenprozent ist entsprechend dem im Zertifikat für die jeweilige Kraftstoffart angegebenen K-Faktor vorzunehmen.

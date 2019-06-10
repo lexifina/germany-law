@@ -1,0 +1,20 @@
+# Anlage 11 Verdienst für freiwillige Beiträge im Beitrittsgebiet
+
+Fundstelle des Originaltextes: BGBl. I 2002, 887
+| Monatsbeitrag in Mark | entsprechender Verdienst im Zeitraum |
+| 1. Februar 1947 bis 31. Dezember 1961 | 1. Januar 1962 bis 31. Dezember 1990 |
+| 3 | 15 | keine Beitragszeit nach § 248 |
+| 6 | 30 |
+| 9 | 45 |
+| 12 | 60 |
+| 15 | 75 | 75 |
+| 18 | 90 | 90 |
+| 21 | 105 | 105 |
+| 24 | 120 | 120 |
+| 27 | 135 | 135 |
+| 30 | 150 | 150 |
+| 36 | 180 | 180 |
+| 42 | 210 | 210 |
+| 48 | 240 | 240 |
+| 54 | 270 | 270 |
+| 60 | 300 | 300 |

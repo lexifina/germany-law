@@ -1,0 +1,39 @@
+# Anlage 1 (zu § 2 Absatz 1 und 3, § 3 Absatz 2)Beschreibung der Grundwasserkörper
+
+(Fundstelle: BGBl. I 2010, 1519 - 1520)
+1. Beschreibung
+  Die Beschreibung der Grundwasserkörper muss mindestens enthalten:
+  1.1 Lage und Grenzen der Grundwasserkörper,
+  1.2 Belastungen, denen der Grundwasserkörper ausgesetzt sein kann, einschließlich
+    1.2.1 diffuser Schadstoffquellen,
+    1.2.2 punktueller Schadstoffquellen,
+    1.2.3 Grundwasserentnahmen,
+    1.2.4 künstlicher Grundwasseranreicherungen,
+  1.3 eine allgemeine Charakteristik der Deckschichten über dem Grundwasser im Einzugsgebiet, aus dem die Grundwasserneubildung erfolgt,
+  1.4 Grundwasserkörper, von denen Oberflächengewässerökosysteme oder Landökosysteme direkt abhängig sind.
+  Für die Beschreibung können vorhandene Daten verwendet werden, z. B. hydrologische, geologische und bodenkundliche Daten sowie Landnutzungs-, Einleitungs- und Entnahmedaten. Zum Zwecke dieser erstmaligen Beschreibung können Grundwasserkörper zu Gruppen zusammengefasst werden.
+2. Weitergehende Beschreibung
+  Die Auswirkungen relevanter menschlicher Tätigkeiten auf das Grundwasser sind zu beschreiben. Dabei sind folgende Informationen einzuholen, soweit sie für die Beurteilung des Grundwasserkörpers oder der Gruppe von Grundwasserkörpern relevant sind:
+  2.1 geologische Eigenschaften des Grundwasserleiters, einschließlich der Ausdehnung und des Typs der geologischen Einheiten,
+  2.2 hydrogeologische Eigenschaften des Grundwasserleiters, einschließlich der Porosität, der Durchlässigkeit und des Spannungszustandes,
+  2.3 Eigenschaften der Deckschichten und Böden des Einzugsgebiets, aus dem die Grundwasserneubildung erfolgt, einschließlich ihrer Mächtigkeit, Porosität, Durchlässigkeit und Adsorptionseigenschaften,
+  2.4 Schichtungen im Grundwasser des Grundwasserkörpers,
+  2.5 Bestandsaufnahme der Oberflächengewässer- und Landökosysteme, die mit dem Grundwasserkörper in hydraulischer Verbindung stehen,
+  2.6 Abschätzung der Grundwasserfließrichtung und der Wasseraustauschraten zwischen dem Grundwasserkörper und den in hydraulischer Verbindung stehenden Oberflächengewässern,
+  2.7 ausreichende Daten für die Berechnung der langfristigen mittleren jährlichen Grundwasserneubildung,
+  2.8 Beschreibung der chemischen Zusammensetzung des Grundwassers, einschließlich der Einträge aus menschlichen Tätigkeiten; bei der Festlegung der Hintergrundwerte für diese Grundwasserkörper können Typologien für die Beschreibung von Grundwasser verwendet werden.
+3. Beschreibung bei grenzüberschreitenden oder gefährdeten Grundwasserkörpern
+  Nach § 2 Absatz 1 und § 3 Absatz 2 sind für alle grenzüberschreitenden oder gefährdeten Grundwasserkörper folgende Informationen zu erfassen und aufzubewahren, sofern sie für die Beurteilung der Grundwasserkörper relevant sind:
+  3.1 Entnahmestellen, aus denen im Tagesdurchschnitt zehn Kubikmeter und mehr Wasser entnommen werden, und zwar
+    3.1.1 Lage der Entnahmestelle,
+    3.1.2 mittlere jährliche Entnahmemenge,
+    3.1.3 chemische Zusammensetzung des entnommenen Wassers.
+  3.2 Trinkwasserentnahmestellen, aus denen im Tagesdurchschnitt zehn Kubikmeter Wasser und mehr zur Trinkwasserversorgung entnommen werden oder 50 Personen und mehr versorgt werden, und zwar
+    3.2.1 Lage der Entnahmestelle,
+    3.2.2 mittlere jährliche Entnahmemenge,
+    3.2.3 chemische Zusammensetzung des entnommenen Wassers.
+  3.3 Unmittelbare Einleitungen von Wasser in das Grundwasser, und zwar
+    3.3.1 Lage der Einleitungsstelle,
+    3.3.2 Einleitungsmengen,
+    3.3.3 chemische Zusammensetzung und physikalische Beschaffenheit des eingeleiteten Wassers.
+  3.4 Landnutzung der Gebiete, in denen die Grundwasserneubildung erfolgt, einschließlich des Eintrags von Schadstoffen und die durch menschliche Tätigkeiten verursachte Veränderungen im Hinblick auf die Grundwasserneubildung, wie zum Beispiel Ableitung von Regenwasser und Abflüsse von versiegelten Flächen, künstliche Anreicherung, Einstau und Entwässerung.

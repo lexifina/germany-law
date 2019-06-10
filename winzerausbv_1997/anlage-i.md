@@ -1,0 +1,144 @@
+# Anlage I (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur
+Winzerin - sachliche Gliederung -
+
+| Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind |
+| 1. | der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1) |  |
+| 1.1 | Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 1.1) | a) | Standort, Aufbau und Aufgaben des Ausbildungsbetriebes erläutern |
+| b) | Ausstattung des Ausbildungsbetriebes beschreiben |
+| c) | betriebliche Erzeugung und Dienstleistung, Bezugs- und Absatzwege und -formen beschreiben |
+| d) | Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften und Verwaltungen nennen |
+| 1.2 | Berufsbildung (§ 4 Nr. 1.2) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | Informationen für die eigene berufliche Fortbildung einholen |
+| 1.3 | Mitgestalten sozialer Beziehungen (§ 4 Nr. 1.3) | a) | soziale Beziehungen im Betrieb und im beruflichen Einwirkungsbereich mitgestalten |
+| b) | bei der überbetrieblichen Zusammenarbeit im Rahmen betrieblicher Aufgabenstellungen und bestehender Kooperationsbeziehungen mitwirken |
+| c) | Aufgaben der weinwirtschaftlichen und kommunalen Verwaltung beschreiben |
+| d) | bei der Zusammenarbeit mit berufsständischen Organisationen, Gewerkschaften und Verwaltungen mitwirken |
+| e) | für den Ausbildungsbetrieb wichtige Geschäftspartner nennen |
+| f) | Bedeutung beruflicher Wettbewerbe und weinwirtschaftlicher Veranstaltungen begründen |
+| 1.4 | Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit (§ 4 Nr. 1.4) | a) | wesentliche Teile des Arbeitsvertrages nennen |
+| b) | wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen |
+| c) | Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Aufsichtsbehörden nennen |
+| d) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen |
+| e) | Gefahren für Gesundheit und Sicherheit am Arbeitsplatz feststellen sowie Maßnahmen zu deren Vermeidung ergreifen |
+| f) | berufsbezogene Arbeitsschutzvorschriften anwenden |
+| g) | wesentliche Vorschriften der Feuerverhütung nennen und Brandschutzeinrichtungen sowie Brandschutzgeräte bedienen |
+| h) | Verhalten bei Unfällen und Entstehungsbränden beschreiben und Maßnahmen der Ersten Hilfe ergreifen |
+| 1.5 | Natur- und Umweltschutz; rationelle Energie- und Materialverwendung (§ 4 Nr. 1.5) | a) | Bedeutung von Lebensräumen für Mensch, Tier und Pflanze erklären und Lebensräume an Beispielen beschreiben |
+| b) | Bedeutung und Ziele des Umweltschutzes im Weinbau beschreiben |
+| c) | Einfluß des Weinbaus auf Umwelt und Landschaft aufzeigen |
+| d) | bei Maßnahmen der Landschaftspflege mitwirken |
+| e) | die im Ausbildungsbetrieb verwendeten Energiearten und Materialien nennen und Möglichkeiten ihrer wirtschaftlichen Verwendung aufzeigen |
+| f) | wirtschaftlichen und umweltschonenden Umgang mit Energieträgern beschreiben |
+| 2. | Techniken und Organisation der betrieblichen Arbeit und Produktion (§ 4 Nr. 2) |  |
+| 2.1 | Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1) | a) | Witterungsverlauf beobachten und dokumentieren |
+| b) | Vorgänge im weinbaulichen Betrieb bei Pflanzen und technischen Prozessen wahrnehmen, Veränderungen feststellen und Schlußfolgerungen ziehen |
+| c) | Informationen, insbesondere aus Gebrauchsanleitungen und Fachliteratur, auswählen und sammeln |
+| d) | Fachinformationen für die betriebliche Arbeit auswerten |
+| 2.2 | Planen, Vorbereiten und Kontrollieren von Arbeitsabläufen und Produktion (§ 4 Nr. 2.2) | a) | geeignete Arbeitsverfahren nennen und Arbeitsmittel auswählen |
+| b) | Daten für die Produktion feststellen, insbesondere Aufwandmengen berechnen, Gewichte, Rauminhalte und Größe von Flächen schätzen und ermitteln |
+| c) | Arbeitszeiten und -ergebnisse festhalten und kontrollieren |
+| d) | Möglichkeiten der Datenverarbeitung nutzen |
+| 2.3 | Handhaben und Instandhalten von Maschinen, Geräten und Betriebseinrichtungen (§ 4 Nr. 2.3) | a) | Werkzeuge und Werkstoffe nach ihrem Verwendungszweck auswählen, einsetzen und einsatzbereit halten |
+| b) | Maschinen, Geräte und Betriebseinrichtungen pflegen und bei ihrer Instandhaltung mitwirken |
+| c) | Aufbau und Funktion von Verbrennungsmotoren erklären |
+| d) | Kraftübertragungselemente und Schutzvorrichtungen in ihrer Funktion pflegen und instandhalten |
+| e) | beim Umfang mit Maschinen, Geräten und Betriebseinrichtungen Arbeitssicherheit beachten |
+| f) | Schutzmaßnahmen und Sicherungen an elektrischen Anlagen erklären |
+| g) | Ordnung und Sauberkeit am Arbeitsplatz einhalten |
+| 2.4 | Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 4 Nr. 2.4) | a) | bei der Ermittlung des Bedarfs an Betriebsmitteln mitwirken |
+| b) | Eingang und Verbrauch von Betriebsmitteln erfassen |
+| c) | Preisangebote vergleichen |
+| d) | Marktberichte lesen und Entwicklungen am Markt verfolgen |
+| 3. | Traubenerzeugung (§ 4 Nr. 3) |  |
+| 3.1 | Bearbeiten und Pflegen des Bodens; Erhaltung einer nachhaltigen Bodenfruchtbarkeit (§ 4 Nr. 3.1) | a) | Standortfaktoren beschreiben |
+| b) | Bodenart und Bodenbestandteile bestimmen sowie Bodenzustand und -fruchtbarkeit erläutern |
+| c) | Bodenprofil anlegen und Bodenaufbau erläutern |
+| d) | Bodenproben entnehmen |
+| e) | bei der Bodenpflege und -bearbeitung mitwirken |
+| 3.2 | qualitätsorientiertes und umweltschonendes Pflanzen, Pflegen und Nutzen von Reben (§ 4 Nr. 3.2) | a) | Dünger und deren Einsatzmöglichkeiten beschreiben und bei ihrer Ausbringung mitwirken |
+| b) | Arbeiten am Rebstock durchführen |
+| c) | Pflanzen und Pflanzenteile bestimmen, Vegetationsverlauf beobachten |
+| d) | Schadbilder an Reben erkennen und bei Pflanzenschutzmaßnahmen mitwirken |
+| e) | bei der Traubenlese mitwirken |
+| f) | Maßnahmen zur Qualitätssicherung bei der Traubenerzeugung durchführen |
+| g) | Grundlagen einer umweltschonenden Traubenerzeugung nennen |
+| 4. | Kellerwirtschaft (§ 4 Nr. 4) |  |
+| 4.1 | oenologische Verfahren; qualitätsorientiertes und umweltschonendes Bereiten von Wein (§ 4 Nr. 4.1) | a) | bei der Traubenannahme und -Verarbeitung mitwirken |
+| b) | Mostgewicht und Säuregehalt ermitteln |
+| c) | beim Weinausbau mitwirken |
+| 5. | Vermarkten betrieblicher Erzeugnisse (§ 4 Nr. 5) |  |
+| 5.1 | Ausstatten und Verpacken (§ 4 Nr. 5.1) | bei der Ausstattung und Verpackung von Wein mitwirken |
+| Abschnitt II: Berufliche Fachbildung im zweiten und dritten Ausbildungsjahr | - Fertigkeiten und Kenntnisse |
+| 1. | der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Nr. 1) |  |
+| 1.1 | die in § 4 Nr. 1.1 bis 1.4 aufgeführten Teile des Ausbildungsberufsbildes | die in Abschnitt I lfd. Nr. 1.1 bis 1.4 aufgeführten Fertigkeiten und Kenntnisse |
+| 1.2 | Natur- und Umweltschutz; rationelle Energie- und Materialverwendung (§ 4 Nr. 1.5) | a) | berufsbezogene Regelungen zum Umweltschutz, insbesondere des Abfall-, Immissionsschutz-, Wasser-, Boden-, Natur- und Artenschutzrechts, des Pflanzenschutz- sowie des Sortenschutzrechts, anwenden |
+| b) | Abfälle vermeiden und unter Beachtung rechtlicher, betrieblicher und materialbedingter Erfordernisse aufbereiten und entsorgen; Möglichkeiten des Recyclings nutzen |
+| c) | Betriebsmittel unter umweltschonenden und wirtschaftlichen Gesichtspunkten auswählen und verwenden |
+| d) | mit Energiearten umweltschonend und kostensparend umgehen |
+| 2. | Techniken und Organisation der betrieblichen Arbeit und Produktion (§ 4 Nr. 2) |  |
+| 2.1 | Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Nr. 2.1) | a) | Wetter- und Witterungsverlauf beobachten und beurteilen, Prognoseverfahren nutzen und bei der betrieblichen Arbeit berücksichtigen |
+| b) | Entwicklung der Vegetation im Weinberg verfolgen, Veränderungen feststellen und Schlußfolgerungen ziehen |
+| c) | Ablauf von technischen Prozessen verfolgen, Störungen feststellen und Maßnahmen ergreifen |
+| d) | Fachinformationen für die betriebliche Arbeit auswerten und nutzen |
+| 2.2 | Planen, Vorbereiten und Kontrollieren von Arbeitsabläufen und Produktion (§ 4 Nr. 2.2) | a) | Betriebsdaten erfassen, einordnen und beurteilen |
+| b) | Arbeits- und Produktionsabläufe planen und veränderten Bedingungen anpassen |
+| c) | Zeitpläne unter Berücksichtigung von Arbeits- und Produktionsschwerpunkten aufstellen |
+| d) | Arbeitsaufwand und -ergebnisse bewerten |
+| 2.3 | Handhaben und Instandhalten von Maschinen, Geräten und Betriebseinrichtungen (§ 4 Nr. 2.3) | a) | Betriebsbereitschaft von technischen Einrichtungen, Maschinen, Geräten, Werkzeugen und Transportmitteln prüfen, diese auswählen und unter Beachtung der Sicherheitsvorschriften einsetzen |
+| b) | Wartungs- und Instandsetzungsarbeiten umweltgerecht und nach Plan durchführen |
+| c) | Betriebsstoffe sach- und umweltgerecht lagern |
+| d) | Reparaturen und Veränderungen an Gebäuden und baulichen Anlagen durchführen |
+| 2.4 | Erstellen von Kalkulationen und Abwickeln von Geschäftsvorgängen (§ 4 Nr. 2.4) | a) | Markt- und Preisinformationen einholen, vergleichen und bewerten |
+| b) | Marktentwicklungen beobachten und bewerten |
+| c) | Kalkulationen anhand von Beispielen erstellen |
+| d) | beim Bestellen von Betriebsmitteln und bei der Abrechnung gelieferter Waren mitwirken |
+| e) | Formen des Bezuges von Betriebsmitteln miteinander vergleichen |
+| f) | schriftlichen Geschäftsverkehr führen |
+| g) | bei Einkaufsgesprächen mitwirken |
+| 3. | Traubenerzeugung (§ 4 Nr. 3) |  |
+| 3.1 | Bearbeiten und Pflegen des Bodens; Erhaltung einer nachhaltigen Bodenfruchtbarkeit (§ 4 Nr. 3.1) | a) | Böden, insbesondere Bodenarten und -typen, beurteilen und Folgerungen für Bodenpflegemaßnahmen ziehen |
+| b) | boden- und rebenspezifische Pflegemaßnahmen umweltschonend durchführen |
+| c) | Bodenschäden feststellen und beheben |
+| 3.2 | qualitätsorientiertes und umweltschonendes Pflanzen, Pflegen und Nutzen von Reben (§ 4 Nr. 3.2) | a) | Standortfaktoren beurteilen und Schlußfolgerungen für den Rebenanbau ziehen |
+| b) | Nährstoffbedarf ermitteln und bedarfsgerecht düngen |
+| c) | Pflanzenschutzmittelbedarf flächenbezogen ermitteln und Pflanzenschutzmaßnahmen durchführen |
+| d) | bei der Erstellung von Neuanlagen mitwirken |
+| e) | Pflanzgut prüfen und Reben pflanzen |
+| f) | Begrünungs- und Bodenbedeckungsmaßnahmen durchführen |
+| g) | Rebsorten erkennen und beurteilen |
+| h) | Fauna und Flora im Weinberg erfassen und deren Lebensbedingungen beschreiben |
+| i) | Nutz- und Schadorganismen unterscheiden, Nützlinge schonen |
+| k) | Anbaumaßnahmen qualitätsfördernd und umweltschonend durchführen und beurteilen |
+| l) | Traubenlese planen sowie sachgerecht und qualitätsorientiert durchführen |
+| 4. | Kellerwirtschaft (§ 4 Nr. 4) |  |
+| 4.1 | oenologische Verfahren; qualitätsorientiertes und umweltschonendes Bereiten von Wein (§ 4 Nr. 4.1) | a) | Trauben annehmen, beurteilen und verarbeiten |
+| b) | Moste nach Qualitätsstufen einordnen |
+| c) | Maische behandeln |
+| d) | Most behandeln |
+| e) | oenologische Verfahren durchführen, insbesondere anreichern, entsäuern, schwefeln und schönen |
+| f) | Süßreserve bereiten und einlagern |
+| g) | Gärung einleiten und überwachen sowie gärfördernde und -hemmende Maßnahmen durchführen |
+| h) | Wein behandeln und ausbauen, insbesondere Abstichs-, Klärungs- und Stabilisierungsmaßnahmen durchführen |
+| i) | Entwicklung des Weines beurteilen, Weinmängel, -fehler und -krankheiten vermeiden, erkennen und behandeln |
+| k) | Qualitätssicherungs- und Kontrollmaßnahmen durchführen, insbesondere Kellerhygiene, mikrobiologische Stabilität und Oxidationsschutz sicherstellen |
+| l) | Trennverfahren durchführen |
+| m) | Wein füllfertig machen |
+| n) | Wein abfüllen |
+| o) | Rückstände aus der Kellerwirtschaft aufbereiten sowie umweltgerecht verwerten und entsorgen |
+| p) | weinrechtliche Bestimmungen anwenden |
+| 4.2 | Grundlagen des Herstellens sonstiger Erzeugnisse aus Trauben und Wein (§ 4 Nr. 4.2) | a) | Ausgangsprodukte für sonstige Erzeugnisse bereiten |
+| b) | Verfahren zur Herstellung eines sonstigen Erzeugnisses und die dazugehörenden Rechtsgrundlagen kennen |
+| 5. | Vermarkten betrieblicher Erzeugnisse (§ 4 Nr. 5) |  |
+| 5.1 | Ausstatten und Verpacken (§ 4 Nr. 5.1) | a) | Grundlagen des Bezeichnungsrechts kennen |
+| b) | Flaschen ausstatten |
+| c) | Auszeichnungen erläutern |
+| d) | betriebliche Erzeugnisse entsprechend ihren Transportanforderungen verpacken |
+| 5.2 | Beraten und Verkaufen (§ 4 Nr. 5.2) | a) | Kunden über die betrieblichen Erzeugnisse informieren |
+| b) | Wein nach Prüfmerkmalen ansprechen |
+| c) | Wein verkaufsfördernd präsentieren |
+| d) | Verkauf betrieblicher Erzeugnisse durchführen |

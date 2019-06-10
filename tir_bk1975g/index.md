@@ -1,0 +1,2 @@
+# Gesetz zu dem Zollübereinkommen vom 14. November 1975 über den
+internationalen Warentransport mit Carnets TIR (TIR-Übereinkommen 19/5)

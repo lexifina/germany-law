@@ -1,0 +1,34 @@
+# Anlage 13 (zu den §§ 27 und 34)Erforderlicher Inhalt von Luftreinhalteplänen
+
+1. Ort der Überschreitung:
+  a) Region
+  b) Ortschaft (Karte)
+  c) Messstation (Karte, geographische Koordinaten)
+2. Allgemeine Informationen:
+  a) Art des Gebiets (Stadt, Industriegebiet oder ländliches Gebiet)
+  b) Schätzung der Größe des verschmutzten Gebiets in Quadratkilometern und der der Verschmutzung ausgesetzten Bevölkerung
+  c) zweckdienliche Klimaangaben
+  d) zweckdienliche topographische Daten
+  e) Art der in dem betreffenden Gebiet zu schützenden Ziele
+3. Zuständige Behörden:
+  Namen und Anschriften der für die Ausarbeitung und Durchführung der Verbesserungspläne zuständigen Personen
+4. Art und Beurteilung der Verschmutzung
+  a) in den vorangehenden Jahren (vor der Durchführung der Verbesserungsmaßnahmen) festgestellten Werte
+  b) seit dem Beginn des Vorhabens gemessene Werte
+  c) angewandte Beurteilungstechniken
+5. Ursprung der Verschmutzung:
+  a) Liste der wichtigsten Emissionsquellen, die für die Verschmutzung verantwortlich sind (Karte)
+  b) Gesamtmenge der Emissionen aus diesen Quellen (Tonnen/Jahr)
+  c) Informationen über Verschmutzungen, die ihren Ursprung in anderen Gebieten haben
+6. Analyse der Lage:
+  a) Einzelheiten über Faktoren, die zu den Überschreitungen geführt haben (zum Beispiel Verkehr, einschließlich grenzüberschreitender Verkehr, Entstehung sekundärer Schadstoffe in der Atmosphäre)
+  b) Einzelheiten über mögliche Maßnahmen zur Verbesserung der Luftqualität
+7. Angaben zu den bereits vor dem 11. Juni 2008 durchgeführten Maßnahmen oder bestehenden Verbesserungsvorhaben:
+  a) örtliche, regionale, nationale und internationale Maßnahmen
+  b) festgestellte Wirkungen
+8. Angaben zu den Maßnahmen oder Vorhaben, die nach dem Inkrafttreten der Richtlinie 2008/50/EG am 11. Juni 2008 zur Verminderung der Verschmutzung beschlossen oder entsprechend Anhang XV Abschnitt B Nummer 3 der Richtlinie 2008/50/EG berücksichtigt wurden:
+a) Auflistung und Beschreibung aller in den Vorhaben genannten Maßnahmen
+b) Zeitplan für die Durchführung
+c) Schätzung der angestrebten Verbesserung der Luftqualität und des für die Verwirklichung dieser Ziele veranschlagten Zeitraums
+9. Angaben zu den geplanten oder langfristig angestrebten Maßnahmen oder Vorhaben
+10. Liste der Veröffentlichungen, Dokumente, Arbeiten usw., die die in dieser Anlage vorgeschriebenen Informationen ergänzen

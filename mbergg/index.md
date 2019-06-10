@@ -1,0 +1,15 @@
+# Gesetz zur Regelung des Meeresbodenbergbaus
+
+- [§ 1 Zweck des Gesetzes](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Ausführung durch das Landesamt](0003.md)
+- [§ 4 Zugangsbedingungen](0004.md)
+- [§ 5 Verantwortlichkeit](0005.md)
+- [§ 6 Verantwortliche Personen](0006.md)
+- [§ 7 Ermächtigung zum Erlaß von Rechtsverordnungen](0007.md)
+- [§ 8 Bergaufsicht](0008.md)
+- [§ 9 Archäologische und historische Gegenstände](0009.md)
+- [§ 10 Gebühren und Auslagen](0010.md)
+- [§ 11 Bußgeldvorschriften](0011.md)
+- [§ 12 Strafvorschriften](0012.md)
+- [§ 13 Übergangsvorschriften](0013.md)

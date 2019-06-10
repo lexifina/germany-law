@@ -1,0 +1,17 @@
+# Verordnung zur Einrichtung und Führung des Zentralen Testamentsregisters
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Inhalt des Registers](0001.md)
+- [§ 2 Meldung zum Register](0002.md)
+- [§ 3 Registrierungsverfahren](0003.md)
+- [§ 4 Verfahren bei Änderungen der Verwahrstelle oder Rücknahme aus der amtlichen Verwahrung](0004.md)
+- [§ 5 Löschung, Berichtigung und Ergänzung](0005.md)
+- [§ 6 Inhalt der Sterbefallmitteilungen](0006.md)
+- [§ 7 Benachrichtigungen im Sterbefall](0007.md)
+- [§ 8 Registerauskünfte](0008.md)
+- [§ 9 Elektronische Kommunikation](0009.md)
+- [§ 10 Elektronische Aufbewahrung und Löschung](0010.md)
+- [§ 11 Nacherfassungen](0011.md)
+- [§ 12 Datenschutz und Datensicherheit](0012.md)
+- [§ 13 Inkrafttreten](0013.md)
+- [Schlussformel](schlussformel.md)

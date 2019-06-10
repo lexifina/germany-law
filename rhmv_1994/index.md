@@ -1,0 +1,18 @@
+# Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln, Düngemitteln und sonstigen Mitteln in oder auf Lebensmitteln
+
+- [§ 1 Höchstmengen für Lebensmittel](0001.md)
+- [§ 1a (weggefallen)](0001a.md)
+- [§ 2 Zusammengesetzte und weiterverarbeitete Lebensmittel](0002.md)
+- [§ 3 Lebensmittel mit überhöhten Rückständen](0003.md)
+- [§ 3a Ausnahmen](0003a.md)
+- [§ 3b Kenntlichmachung](0003b.md)
+- [§ 4 Probenahme und Analysemethoden](0004.md)
+- [§ 5 Straftaten und Ordnungswidrigkeiten](0005.md)
+- [§ 6 Inkrafttreten, Übergangsvorschriften](0006.md)
+- [Anlage 1 (zu § 1 Abs. 1 Nr. 1)](anlage-1.md)
+- [Anlage 2 (zu § 1 Abs. 1 Nr. 2)](anlage-2.md)
+- [Anlage 3](anlage-3.md)
+- [Anlage 4 (zu § 1 Abs. 2 bis 4)](anlage-4.md)
+- [Anlage 5 (zu § 1 Abs. 4 Nr. 1)](anlage-5.md)
+- [Anlage 6 (zu § 3 Abs. 3)](anlage-6.md)
+- [Anlage 7](anlage-7.md)

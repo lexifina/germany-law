@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Der Freistaat Sachsen und der Freistaat Thüringen schließen auf der Grundlage von Artikel 1 Abs. 1 des Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag - vom 31. August 1990 (BGBl. II S. 889) in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885) und in Verbindung mit § 2 Abs. 2 und 3 des Verfassungsgesetzes zur Bildung von Ländern in der Deutschen Demokratischen Republik vom 22. Juli 1990 (GBl. I Nr. 51 S. 955), das aufgrund von Artikel 9 Abs. 2 in Verbindung mit Anlage II Kapitel II Sachgebiet A Abschnitt II des Einigungsvertrages fortgeltendes Recht ist, folgenden Staatsvertrag:

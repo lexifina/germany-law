@@ -1,0 +1,3 @@
+# Art 11 Verträge der Bundesrepublik Deutschland
+
+Die Vertragsparteien gehen davon aus, daß völkerrechtliche Verträge und Vereinbarungen, denen die Bundesrepublik Deutschland als Vertragspartei angehört, einschließlich solcher Verträge, die Mitgliedschaften in internationalen Organisationen oder Institutionen begründen, ihre Gültigkeit behalten und die daraus folgenden Rechte und Verpflichtungen sich mit Ausnahme der in Anlage I genannten Verträge auch auf das in Artikel 3 genannte Gebiet beziehen. Soweit im Einzelfall Anpassungen erforderlich werden, wird sich die gesamtdeutsche Regierung mit den jeweiligen Vertragspartnern ins Benehmen setzen.

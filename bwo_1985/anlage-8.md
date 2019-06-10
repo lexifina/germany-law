@@ -1,0 +1,34 @@
+# Anlage 8 (zu § 24 Abs. 1)
+
+| Gemeinde .................................................... | Wahlbezirk .............................................. |
+| Kreis ........................................................... |  |
+| Wahlkreis .................................................... |  |
+| Land ........................................................... |  |
+| Beurkundung des Abschlusses des Wählerverzeichnisses |
+| für die Wahl zum Deutschen Bundestag am ............................ |
+Die im Wählerverzeichnis aufgeführten Personen sind für die Wahl zum Deutschen Bundestag nach den Vorschriften der Bundeswahlordnung (§§ 16 bis 18) eingetragen worden. Sie erfüllen die Wahlrechtsvoraussetzungen nach § 12 des Bundeswahlgesetzes und sind nicht nach § 13 des Bundeswahlgesetzes vom Wahlrecht ausgeschlossen.
+Das Wählerverzeichnis hat nach ortsüblicher Bekanntmachung vom .............................. in der Zeit vom .............................. bis .............................. für die Wahlberechtigten zur Einsichtnahme bereitgelegen.
+Die Wahlbezirke und die Wahlräume sowie Ort, Tag und Zeit der Wahl sind ortsüblich bekannt gemacht worden.
+Die Wahlbezirke und die Wahlräume sowie Ort, Tag und Zeit der Wahl sind den Wahlberechtigten durch die Wahlbenachrichtigung, Ort, Tag und Zeit der Wahl außerdem am ...................... ortsüblich bekannt gemacht worden.
+| Das Wählerverzeichnis umfasst ................. Blätter. |  |  |  |  |
+|  |  |  | Berichtigtgemäß § 53Abs. 2 Satz 2der Bundes-wahlordnung |  | Berichtigtgemäß § 53Abs. 2 Satz 3der Bundes-wahlordnung |  |
+| Kennbuchstabe |  |  |  |  |  |  |
+| A 1 | A 1 | Wahlberechtigte lautWählerverzeichnis ohne Sperrvermerk"W" (Wahlschein) | ............... Personen | ............... Personen |  | ............... Personen |  |
+|  |  |  |  |  |  |  |
+| A 2 | A 2 | Wahlberechtigte lautWählerverzeichnismit Sperrvermerk"W" (Wahlschein) | ............... Personen | ............... Personen |  | ............... Personen |  |
+|  |  |  |  |  |  |  |
+| A 1 + A 2 | A 1 + A 2 | Im Wählerverzeichnisinsgesamt eingetragen | ............... Personen | ............... Personen |  | ............... Personen |  |
+|  |  |  |  |  |  |  |
+|  |  |  | ____ |  | ____ |  |
+|  |  |  | ...................................,(Ort) |  | ...................................,(Ort) |  |
+|  |  |  | den .......................... |  | den .......................... |  |
+|  |  |  | Der Wahlvorsteher |  | Der Wahlvorsteher |  |
+|  |  |  | ................................... |  | ................................... |  |
+|  |  |  |  |  |  |  |
+| (Dienstsiegel) |  | ......................................................., den .....................................Die Gemeindebehörde |  |
+|  |  | ...................................................................................................... |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+_________________

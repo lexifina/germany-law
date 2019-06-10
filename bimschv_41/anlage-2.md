@@ -1,0 +1,37 @@
+# Anlage 2 (zu § 2 Nummer 5, § 7 Nummer 2, § 12 Absatz 2 und § 13 Absatz 2)Prüfungsbereiche für Sachverständige
+
+Prüfungsbereiche ergeben sich aus der Kombination von Anlagenarten (A.) und Fachgebieten (B.).
+A. Anlagenarten
+1. Anlagenarten oder Gruppen von Anlagenarten gemäß Anhang 1 der Vierten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über genehmigungsbedürftige Anlagen – 4. BImSchV) in der jeweils gültigen Fassung, auch soweit die dort genannten Schwellen unterschritten werden;
+2. nicht genehmigungsbedürftige Anlagenarten, die Betriebsbereich oder Teil eines Betriebsbereichs sein können.
+B. Fachgebiete
+| Nr. | Fachgebiet | Beschreibung |
+| 1 | Auslegung von Anlagen und Anlagenteilen | Auslegung (Festigkeit, Dimensionierung, Standsicherheit etc.) von Anlagen, Anlagenteilen, Apparaten, Rohrleitungen u. Ä. unter besonderer Berücksichtigung der Beanspruchungen bei einer Störung des bestimmungsgemäßen Betriebs |
+| 2 | Errichtung von Anlagen und Anlagenteilen |  |
+| 2.1 | Prüfung von Anlagenteilen vor Ort | Prüfungen von Anlagenteilen und Komponenten während der Errichtung vor Ort; Prüfungen vor Ort, wie z. B. nach Vorgaben des technischen Regelwerkes; Funktionsprüfungen |
+| 2.2 | Qualitätssicherung, Prüfung auf Konformität | Qualitätssicherung der Errichtung, Prüfung von Anlagen auf Konformität mit den vorliegenden Unterlagen (z. B. Genehmigungsunterlagen, Baupläne) und den Gegebenheiten vor Ort |
+| 3 | verfahrenstechnische Prozessführung | verfahrenstechnische Prozessführung und Auslegung von Anlagen oder Anlagenteilen sowie Beherrschung von Störungen des bestimmungsgemäßen Betriebs, beispielsweise Projektierung, Anlagenplanung, Erstellung oder Prüfung von Anlagenschutzkonzepten (z. B. Brandschutz, Explosionsschutz, Mess-, Steuer- und Regeltechnik (MSR-Technik), Prozessleittechnik (PLT) |
+| 4 | Instandhaltung von Anlagen |  |
+| 5 | Statik von baulichen Anlagenteilen | Prüfung der Auslegung bzw. der Statik von Anlagenteilen (einschließlich der für diese relevanten Pflichten der 12. BImSchV – Störfallverordnung) |
+| 6 | Werkstoffe |  |
+| 6.1 | Werkstoffprüfung | Werkstoffprüfung (Prüfinstitut, Prüflabor) |
+| 6.2 | Werkstoffbeurteilung | Werkstoffbeurteilung (Werkstoffeignung, Werkstoffverträglichkeit) |
+| 7 | Versorgung mit Energien und Medien |  |
+| 8 | umgebungsbedingte Gefahrenquellen |  |
+| 9 | Elektrotechnik |  |
+| 10 | MSR-/Prozessleittechnik | Mess-, Steuer- und Regeltechnik, Prozessleittechnik (hard- und softwaremäßige Ausführung, Betrieb und Prüfung von MSR-Technik/PLT) |
+| 11 | systematische Methoden der Gefahrenanalyse |  |
+| 12 | Stoffeigenschaften | chemische, physikalische, human- und ökotoxikologische Eigenschaften von Stoffen, Gemischen und Abfällen |
+| 12.1 | Bewertung der Stoffeigenschaften | Bewertung chemischer, physikalischer und reaktionstechnischer Eigenschaften von Stoffen, Gemischen und Abfällen |
+| 12.2 | Ermittlung von Stoffeigenschaften | Ermittlung chemischer, physikalischer und reaktionstechnischer Eigenschaften von Stoffen, Gemischen und Abfällen |
+| 12.3 | spezielle toxikologische Fragestellungen | Bearbeitung von speziellen toxikologischen Fragestellungen zu Stoffen, Gemischen und Abfällen |
+| 13 | Auswirkungsbetrachtungen | Auswirkungen von Störfällen, anderen Schadensereignissen sowie sonstigen Störungen des bestimmungsgemäßen Betriebs, Ermittlung, Berechnung und Bewertung |
+| 14 | betriebliche Alarm- und Gefahrenabwehrpläne |  |
+| 15 | Brandschutz |  |
+| 15.1 | Fachfragen zum Brandschutz einschließlich Löschwasserrückhaltung | Prüfung von speziellen Fachfragen zum vorbeugenden, baulichen und abwehrenden Brandschutz, einschließlich Löschwasserrückhaltung |
+| 15.2 | experimentelle Untersuchungen zum Brandschutz | Durchführung von experimentellen Untersuchungen zum Brandschutz und zu Brandursachen |
+| 16 | Explosionsschutz |  |
+| 16.1 | Prüfung von speziellen Fachfragen zum Explosionsschutz |  |
+| 16.2 | experimentelle Untersuchungen zum Explosionsschutz | Durchführung von experimentellen Untersuchungen zum Explosionsschutz (Prüfinstitut, Prüflabor) |
+| 17 | Sicherheitsmanagement und Betriebsorganisation | Sicherheitsmanagement und Betriebsorganisation (Bearbeitung organisations- und managementspezifischer Fragestellungen) |
+| 18 | Sonstiges |  |

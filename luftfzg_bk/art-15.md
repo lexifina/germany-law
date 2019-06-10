@@ -1,0 +1,8 @@
+# Art 15
+
+(1)
+Ein Antrag auf Einberufung einer Tagung der Vertragsstaaten zur Prüfung etwaiger Änderungen dieses Übereinkommens kann frühestens zwölf Monate nach dessen Inkrafttreten von mindestens fünfundzwanzig vom Hundert (25%) der Vertragsstaaten an die Internationale Zivilluftfahrt-Organisation gerichtet werden. Die Internationale Zivilluftfahrt-Organisation beruft eine solche Tagung in Konsultation mit dem Präsidenten der Europäischen Zivilluftfahrt-Konferenz ein, nachdem sie die Vertragsstaaten mindestens drei Monate im voraus davon benachrichtigt hat.
+(2)
+Jede vorgeschlagene Änderung des Übereinkommens bedarf der Zustimmung der Mehrheit der auf der vorgenannten Tagung vertretenen Vertragsstaaten; für die Beschlußfähigkeit ist es erforderlich, daß zwei Drittel der Vertragsstaaten vertreten sind.
+(3)
+Die Änderung tritt für diejenigen Staaten, die sie ratifiziert haben, nach Ratifikation durch eine auf der vorgenannten Tagung festgesetzte Anzahl von Vertragsstaaten oder zu einem späteren, gegebenenfalls auf der Tagung festgesetzten Zeitpunkt in Kraft.

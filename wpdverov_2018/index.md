@@ -1,0 +1,18 @@
+# Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen für Wertpapierdienstleistungsunternehmen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Kunden](0002.md)
+- [§ 3 Kundeninformationen über das Wertpapierdienstleistungsunternehmen und die Wertpapierdienstleistung im Rahmen der Unabhängigen Honorar-Anlageberatung](0003.md)
+- [§ 4 Informationsblätter](0004.md)
+- [§ 5 Aufhebung der Bekanntmachungspflicht nach § 69 Absatz 2 des Wertpapierhandelsgesetzes](0005.md)
+- [§ 6 Zuwendungen](0006.md)
+- [§ 7 Zuwendungen im Zusammenhang mit Analysen](0007.md)
+- [§ 8 Anforderungen an die Unabhängige Honorar-Anlageberatung](0008.md)
+- [§ 9 Aufzeichnungs- und Aufbewahrungspflichten](0009.md)
+- [§ 10 Getrennte Vermögensverwahrung](0010.md)
+- [§ 11 Produktfreigabeverfahren für Konzepteure von Finanzinstrumenten](0011.md)
+- [§ 12 Produktfreigabeverfahren für Vertriebsunternehmen](0012.md)
+- [§ 13 Strukturierte Einlagen](0013.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
+- [Anlage (zu § 4 Absatz 3)Standardisiertes Informationsblatt für Aktien am organisierten Markt nach § 64 Absatz 2 Satz 3 des Wertpapierhandelsgesetzes](anlage.md)

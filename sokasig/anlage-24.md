@@ -1,0 +1,60 @@
+# Anlage 24 (zu § 5)Tarifvertrag über das Verfahren für die Berufsbildung im Berliner Baugewerbe (Verfahrenstarifvertrag Berufsbildung Berlin) vom 10.Dezember 2002
+
+§ 1
+Geltungsbereich
+(1)
+Räumlicher Geltungsbereich: Das Gebiet des Landes Berlin.
+(2)
+Betrieblicher Geltungsbereich: Betriebe, die unter den betrieblichen Geltungsbereich des Tarifvertrages über das Sozialkassenverfahren im Baugewerbe (VTV) in der jeweils geltenden Fassung fallen.
+(3)
+Persönlicher Geltungsbereich: Personen, die unter den persönlichen Geltungsbereich des Tarifvertrages über die Berufsbildung im Baugewerbe (BBTV) fallen.
+§ 2
+Sozialkasse des Berliner Baugewerbes
+Die im weiteren als Sozialkasse bezeichnete Kasse ist die Sozialkasse des Berliner Baugewerbes.
+§ 3
+Wegekostenerstattung
+(1)
+Gewerbliche Auszubildende haben Anspruch auf Wegekostenerstattung gem. § 7 Nr. 5 des Bundesrahmentarifvertrages (BRTV) für jeden Tag der betrieblichen Ausbildung außerhalb des Betriebssitzes, der überbetrieblichen Ausbildung sowie für jeden Berufsschultag, an dem sie die jeweilige Ausbildungsstätte aufsuchen. Daneben bestehen keine Ansprüche auf Fahrtkostenerstattung. Die Sozialkasse erstattet dem Arbeitgeber die tariflichen Wegekosten zuzüglich eines Ausgleichs für die zu leistenden Sozialaufwendungen von 20 %. Die Wegekostenerstattung erfolgt nur für die Zeiten, für die auch eine Ausbildungsvergütung erstattet wird. Sie erfolgt zusammen mit der Erstattung der Ausbildungsvergütung.
+(2)
+Absatz 1 gilt auch für technische und kaufmännische Auszubildende entsprechend. § 7 Nr. 3.1 und 3.2 des Rahmentarifvertrages für die Angestellten und Poliere des Baugewerbes vom 04. Juli 2002 in der jeweils geltenden Fassung findet keine Anwendung.
+§ 4
+Verfahren bei Erstattung der Ausbildungsvergütung und der Wegekosten
+(1)
+Der Arbeitgeber hat der Sozialkasse die Begründung eines Ausbildungsverhältnisses durch Übersendung einer Kopie des von der Handwerkskammer bzw. Industrie- und Handelskammer bestätigten Ausbildungsvertrages anzuzeigen. Bestand zuvor bereits ein Arbeitsverhältnis zu einem anderen Baubetrieb, ist darüber hinaus die Arbeitnehmernummer mitzuteilen.
+(2)
+Die Sozialkasse erstellt für jeden einzelnen Ausbildungsbetrieb anhand der eingereichten Ausbildungsverträge und für jeden Erstattungszeitraum, für den nach den Unterlagen der Sozialkasse Erstattungsansprüche möglich sind, Erstattungsformulare, auf dem die Auszubildenden namentlich aufgeführt sind. Die gewährte Ausbildungsvergütung und die zur Erstattung beantragten Wegekosten sind vom Betrieb der Sozialkasse auf diesen Formularen einzutragen. Die Formulare sind durch den Arbeitgeber rechtsverbindlich zu unterschreiben und der Sozialkasse einzureichen. Bei Arbeitgebern mit EDV-Abrechnung erfolgt die Übermittlung der Daten auf elektronischem Wege nach Maßgabe der mit der Kasse getroffenen Vereinbarung.
+(3)
+Bei Beendigung des Ausbildungsverhältnisses hat der bisherige Arbeitgeber der Sozialkasse die Dauer des Urlaubs mitzuteilen, der in dem Urlaubsjahr, in welchem die Ausbildung beendet wurde, während des Ausbildungsverhältnisses entstanden ist und gewährt wurde. Die Mitteilung erfolgt unter Verwendung eines von der Sozialkasse zur Verfügung gestellten Formblattes. Die Mitteilung ist rechtsverbindlich zu unterzeichnen.
+(4)
+Nach Übersendung der Bescheinigung über die Resturlaubsansprüche erhält der Auszubildende von der Sozialkasse eine Abschlussbescheinigung, die zugleich den Wartezeitennachweis für die Zusatzversorgung enthält.
+§ 5
+Verfahren bei Erstattung überbetrieblicher Ausbildungskosten
+(1)
+Die Erstattung der überbetrieblichen Ausbildungskosten erfolgt durch die Sozialkasse direkt gegenüber der Ausbildungsstätte aufgrund der von dieser eingereichten mit Stempel und rechtsverbindlicher Unterschrift versehenen Abrechnungsliste.
+(2)
+Auf der Abrechnungsliste sind für jeden Auszubildenden die Arbeitnehmerkonto-Nr., der Name des Auszubildenden, der Ausbildungsbetrieb, die Ausbildungszeit und die abgerechneten Ausbildungstagewerke sowie der Erstattungsbetrag anzugeben. Die Ausbildungsstätte ist zu einer beleglosen Abrechnung mittels elektronischer Datenübermittlung nach Maßgabe der mit der Sozialkasse getroffenen Vereinbarung berechtigt.
+(3)
+Der Sozialkasse ist auf Verlangen von der Ausbildungsstätte Einsicht in die für die Durchführung des Erstattungsverfahrens notwendigen Unterlagen zu gewähren.
+(4)
+Die Sozialkasse ist nicht berechtigt, diese Erstattungen mit Beitragsforderungen oder anderen Forderungen der Sozialkasse gegen den Arbeitgeber zu verrechnen oder insoweit ein Zurückbehaltungsrecht auszuüben.
+§ 6
+Erstattung der Ausbildungsvergütung im Spitzenausgleichsverfahren
+Dem Arbeitgeber, der am Spitzenausgleichsverfahren teilnimmt, erstattet die Sozialkasse die von ihm an den Auszubildenden ausgezahlte Urlaubsvergütung im Wege der Saldierung mit Beitragsansprüchen nach Maßgabe des § 23 VTV. Die Erstattung der Ausbildungsvergütung setzt voraus, dass die gemäß § 4 erforderlichen Nachweise jeweils bis zum 15. des auf den betreffenden Ausbildungsmonat folgenden Monats geführt und ordnungsgemäße Meldungen nach § 6 VTV abgegeben werden.
+§ 7
+Erstattung von Urlaubsvergütungen
+Die Erstattung von Urlaubskosten ist in den Erstattungsbeträgen gemäß § 19 BBTV enthalten. Darüber hinaus werden Urlaubskosten nicht erstattet.
+§ 8
+Beitrag
+Der Arbeitgeber hat zur Aufbringung der Mittel für die Ausbildungskostenerstattung einen Beitrag in Höhe von 1,65% der Bruttolohnsumme an die Sozialkasse abzuführen. Auf diesen Beitrag hat die Sozialkasse einen unmittelbaren Anspruch. Der Beitrag ist Teil des Gesamtbeitrages i. S. v. § 18 Abs. 3 VTV. Einzugsstelle ist die Zusatzversorgungskasse des Baugewerbes VVaG.
+§ 9
+Prüfungsrecht
+Beauftragten der Sozialkasse ist auf Verlangen Einsicht in die für die Durchführung des Verfahrens notwendigen Unterlagen zu gestatten.
+§ 10
+Erfüllungsort und Gerichtsstand
+Erfüllungsort und Gerichtsstand für Ansprüche der Sozialkasse gegen Arbeitgeber und Arbeitnehmer sowie für Ansprüche der Arbeitgeber und Auszubildenden gegen die Sozialkasse ist Berlin.
+§ 11
+Inkrafttreten und Laufdauer
+(1)
+Dieser Tarifvertrag tritt am 01. Januar 2003 in Kraft und kann mit einer Frist von 6 Monaten, jeweils zum 31.8., erstmals zum 31.8.2004, gekündigt werden. Unabhängig davon tritt dieser Tarifvertrag ohne Kündigung mit dem Zeitpunkt außer Kraft, in dem die §§ 18 bis 27, 29 und 32 des Tarifvertrages über die Berufsbildung im Baugewerbe (BBTV) vom 29.01.1987 außer Kraft treten.
+(2)
+Der Tarifvertrag über das Verfahren für die Berufsbildung im Berliner Baugewerbe (Verfahrenstarifvertrag Berufsbildung) vom 1. August 1995 tritt mit Ablauf des 31. Dezember 2002 außer Kraft.

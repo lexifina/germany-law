@@ -1,0 +1,13 @@
+# Anlage 3 (zu § 7 Absatz 1)Anforderungen an die Qualität der Weiterbildungsmaßnahme
+
+1. Planung
+1.1 Die Weiterbildungsmaßnahme ist mit zeitlichem Vorlauf zu ihrer Durchführung konzipiert.
+1.2 Die Weiterbildungsmaßnahme ist in nachvollziehbarer Form für die Teilnehmer beschrieben.
+1.3 Der Weiterbildungsmaßnahme liegt eine Ablaufplanung zugrunde, auf die sich die Durchführung stützt.
+2. Systematische Organisation
+2.1 Teilnehmer erhalten im Vorfeld der Weiterbildungsmaßnahme eine Information bzw. eine Einladung in Textform.
+2.2 Die Information bzw. die Einladung enthält eine Beschreibung der Weiterbildungsmaßnahme, aus der die Teilnehmer die erwerbbaren Kompetenzen sowie den Umfang der Weiterbildungsmaßnahme in Zeitstunden entnehmen können.
+2.3 Die Anwesenheit jedes Teilnehmers wird vom Durchführenden der Weiterbildungsmaßnahme verbindlich dokumentiert und nachvollziehbar archiviert. Dies gilt auch für Lernformen wie dem selbstgesteuerten Lernen, dem Blended Learning und dem e-Learning. Bei Weiterbildungsmaßnahmen im Selbststudium ist eine nachweisbare Lernerfolgskontrolle durch den Anbieter der Weiterbildung sicherzustellen.
+3. Anforderungen an die Durchführenden der Weiterbildungsmaßnahme
+3.1 Diejenigen, die die Weiterbildungsmaßnahme durchführen, verfügen über die erforderliche Fachkompetenz auf dem Gebiet, das Gegenstand der Weiterbildungsmaßnahme ist.
+3.2 Systematische Prozesse stellen die Einhaltung dieser Anforderungen sicher.

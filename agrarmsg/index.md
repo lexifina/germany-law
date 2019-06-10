@@ -1,0 +1,17 @@
+# Gesetz zur Weiterentwicklung der Marktstruktur im Agrarbereich
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Zuständigkeit](0003.md)
+- [§ 4 Voraussetzungen und Verfahren der Anerkennung](0004.md)
+- [§ 4a Allgemeinverbindlichkeit](0004a.md)
+- [§ 5 Kartellbestimmungen](0005.md)
+- [§ 5a Vereinbarungen und Beschlüsse während schwerer Ungleichgewichte auf den Märkten](0005a.md)
+- [§ 6 Agrarorganisationenregister](0006.md)
+- [§ 6a Gestaltung von Vertragsbeziehungen zwischen Erzeugern und Verarbeitern](0006a.md)
+- [§ 7 Überwachung; Mitteilungen; Veröffentlichung](0007.md)
+- [§ 8 Bußgeldvorschriften](0008.md)
+- [§ 9 Rechtsverordnungen in besonderen Fällen](0009.md)
+- [§ 10 Verkündung von Rechtsverordnungen](0010.md)
+- [§ 11 Übergangsbestimmung](0011.md)

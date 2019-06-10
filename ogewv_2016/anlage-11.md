@@ -1,0 +1,18 @@
+# Anlage 11 (zu § 11 Absatz 1 Satz 5)Anforderungen an die Festlegung der repräsentativen Überwachungsstellen für Stoffe der Beobachtungsliste
+
+Für jeden Stoff der Beobachtungsliste sind im gesamten Bundesgebiet 24 repräsentative Überwachungsstellen einzurichten. Die Anzahl der Überwachungsstellen für die Flussgebietseinheiten ergibt sich aus nachstehender Tabelle:
+| Flussgebietseinheit | Anzahl der Überwachungsstellen |
+| Donau | 3 |
+| Rhein | 6 |
+| Maas | 1 |
+| Ems | 1 |
+| Weser | 3 |
+| Elbe | 6 |
+| Eider | 1 |
+| Oder | 1 |
+| Schlei/Trave | 1 |
+| Warnow/Peene | 1 |
+In den Flussgebietseinheiten können unter Beachtung von Satz 1 von Satz 2 abweichende Festlegungen getroffen werden unter Berücksichtigung
+1. des Vorhandenseins oder Fehlens relevanter Einleitungen oder Einträge aus diffusen Quellen oder signifikanten Punktquellen in den jeweiligen Flussgebietseinheiten sowie
+2. der typischen Arten der Verwendung des jeweiligen Stoffes.
+Innerhalb der Flussgebietseinheiten koordinieren die zuständigen Behörden der Länder untereinander die Festlegung der Überwachungsstellen unter Berücksichtigung der in Satz 3 Nummer 1 und 2 genannten Kriterien.

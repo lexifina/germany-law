@@ -1,0 +1,15 @@
+# Kostenverordnung zum Atomgesetz und zum Strahlenschutzgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Höhe der Gebühren](0002.md)
+- [§ 3 Gebührenbemessung](0003.md)
+- [§ 4](0004.md)
+- [§ 5 Kosten der Aufsicht](0005.md)
+- [§ 5a Kosten der staatlichen Verwahrung](0005a.md)
+- [§ 6 Befreiung und Ermäßigung](0006.md)
+- [§ 7 (weggefallen)](0007.md)
+- [§ 8 Verjährung](0008.md)
+- [§ 9 Übergangsregelung](0009.md)
+- [§ 10 (weggefallen)](0010.md)
+- [§ 11 Inkrafttreten](0011.md)

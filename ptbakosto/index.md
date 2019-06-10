@@ -1,0 +1,17 @@
+# Kostenverordnung für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 1a Gebühr in besonderen Fällen](0001a.md)
+- [§ 2 Berechnung der Gebühr](0002.md)
+- [§ 3 Gebühr nach Zeitaufwand, Reise- und Wartezeiten](0003.md)
+- [§ 3a Festgebühr bei häufig wiederkehrenden Leistungen](0003a.md)
+- [§ 4 Sonderaufwendungen](0004.md)
+- [§ 5 Überlassung von Anlagen und Geräten auf Zeit](0005.md)
+- [§ 6 Beschleunigt erbrachte Nutzleistungen](0006.md)
+- [§ 7 Ermäßigung der Gebühr](0007.md)
+- [§ 8 Auslagen](0008.md)
+- [(XXXX) §§ 10 bis 17 (weggefallen)](xxxx-10-bis-17.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage 1 (zu § 3)](anlage-1.md)
+- [Anlage 2 (zu § 3a)](anlage-2.md)

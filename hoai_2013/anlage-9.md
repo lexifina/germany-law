@@ -1,0 +1,77 @@
+# Anlage 9 (zu § 18 Absatz 2, § 19 Absatz 2, § 23 Absatz 2, § 24 Absatz 2, § 25 Absatz 2, § 26 Absatz 2, § 27 Absatz 2)Besondere Leistungen zur Flächenplanung
+
+Für die Leistungsbilder der Flächenplanung können insbesondere folgende Besondere Leistungen vereinbart werden:
+1. Rahmensetzende Pläne und Konzepte:
+  a) Leitbilder
+  b) Entwicklungskonzepte
+  c) Masterpläne
+  d) Rahmenpläne
+2. Städtebaulicher Entwurf:
+  a) Grundlagenermittlung
+  b) Vorentwurf
+  c) Entwurf
+  Der Städtebauliche Entwurf kann als Grundlage für Leistungen nach § 19 der HOAI dienen und Ergebnis eines städtebaulichen Wettbewerbes sein.
+3. Leistungen zur Verfahrens- und Projektsteuerung sowie zur Qualitätssicherung:
+  a) Durchführen von Planungsaudits
+  b) Vorabstimmungen mit Planungsbeteiligten und Fachbehörden
+  c) Aufstellen und Überwachen von integrierten Terminplänen
+  d) Vor- und Nachbereiten von planungsbezogenen Sitzungen
+  e) Koordinieren von Planungsbeteiligten
+  f) Moderation von Planungsverfahren
+  g) Ausarbeiten von Leistungskatalogen für Leistungen Dritter
+  h) Mitwirken bei Vergabeverfahren für Leistungen Dritter (Einholung von Angeboten, Vergabevorschläge)
+  i) Prüfen und Bewerten von Leistungen Dritter
+  j) Mitwirken beim Ermitteln von Fördermöglichkeiten
+  k) Stellungnahmen zu Einzelvorhaben während der Planaufstellung
+4. Leistungen zur Vorbereitung und inhaltlichen Ergänzung:
+  a) Erstellen digitaler Geländemodelle
+  b) Digitalisieren von Unterlagen
+  c) Anpassen von Datenformaten
+  d) Erarbeiten einer einheitlichen Planungsgrundlage aus unterschiedlichen Unterlagen
+  e) Strukturanalysen
+  f) Stadtbildanalysen, Landschaftsbildanalysen
+  g) Statistische und örtliche Erhebungen sowie Bedarfsermittlungen, zum Beispiel zur Versorgung, zur Wirtschafts-, Sozial- und Baustruktur sowie zur soziokulturellen Struktur
+  h) Befragungen und Interviews
+  i) Differenziertes Erheben, Kartieren, Analysieren und Darstellen von spezifischen Merkmalen und Nutzungen
+  j) Erstellen von Beiplänen, zum Beispiel für Verkehr, Infrastruktureinrichtungen, Flurbereinigungen, Grundbesitzkarten und Gütekarten unter Berücksichtigung der Pläne anderer an der Planung fachlich Beteiligter
+  k) Modelle
+  l) Erstellen zusätzlicher Hilfsmittel der Darstellung zum Beispiel Fotomontagen, 3D-Darstellungen, Videopräsentationen
+5. Verfahrensbegleitende Leistungen:
+  a) Vorbereiten und Durchführen des Scopings
+  b) Vorbereiten, Durchführen, Auswerten und Dokumentieren der formellen Beteiligungsverfahren
+  c) Ermitteln der voraussichtlich erheblichen Umweltauswirkungen für die Umweltprüfung
+  d) Erarbeiten des Umweltberichtes
+  e) Berechnen und Darstellen der Umweltschutzmaßnahmen
+  f) Bearbeiten der Anforderungen aus der naturschutzrechtlichen Eingriffsregelung in Bauleitplanungsverfahren
+  g) Erstellen von Sitzungsvorlagen, Arbeitsheften und anderen Unterlagen
+  h) Wesentliche Änderungen oder Neubearbeitung des Entwurfs nach Offenlage oder Beteiligungen, insbesondere nach Stellungnahmen
+  i) Ausarbeiten der Beratungsunterlagen der Gemeinde zu Stellungnahmen im Rahmen der formellen Beteiligungsverfahren
+  j) Leistungen für die Drucklegung, Erstellen von Mehrausfertigungen
+  k) Überarbeiten von Planzeichnungen und von Begründungen nach der Beschlussfassung (zum Beispiel Satzungsbeschluss)
+  l) Verfassen von Bekanntmachungstexten und Organisation der öffentlichen Bekanntmachungen
+  m) Mitteilen des Ergebnisses der Prüfung der Stellungnahmen an die Beteiligten
+  n) Benachrichtigen von Bürgern und Behörden, die Stellungnahmen abgegeben haben, über das Abwägungsergebnis
+  o) Erstellen der Verfahrensdokumentation
+  p) Erstellen und Fortschreiben eines digitalen Planungsordners
+  q) Mitwirken an der Öffentlichkeitsarbeit des Auftraggebers einschließlich Mitwirken an Informationsschriften und öffentlichen Diskussionen sowie Erstellen der dazu notwendigen Planungsunterlagen und Schriftsätze
+  r) Teilnehmen an Sitzungen von politischen Gremien des Auftraggebers oder an Sitzungen im Rahmen der Öffentlichkeitsbeteiligung
+  s) Mitwirken an Anhörungs- oder Erörterungsterminen
+  t) Leiten bzw. Begleiten von Arbeitsgruppen
+  u) Erstellen der zusammenfassenden Erklärung nach dem Baugesetzbuch
+  v) Anwenden komplexer Bilanzierungsverfahren im Rahmen der naturschutzrechtlichen Eingriffsregelung
+  w) Erstellen von Bilanzen nach fachrechtlichen Vorgaben
+  x) Entwickeln von Monitoringkonzepten und -maßnahmen
+  y) Ermitteln von Eigentumsverhältnissen, insbesondere Klären der Verfügbarkeit von geeigneten Flächen für Maßnahmen
+6. Weitere besondere Leistungen bei landschaftsplanerischen Leistungen:
+  a) Erarbeiten einer Planungsraumanalyse im Rahmen einer Umweltverträglichkeitsstudie
+  b) Mitwirken an der Prüfung der Verpflichtung, zu einem Vorhaben oder einer Planung eine Umweltverträglichkeitsprüfung durchzuführen (Screening)
+  c) Erstellen einer allgemein verständlichen nichttechnischen Zusammenfassung nach dem Gesetz über die Umweltverträglichkeitsprüfung
+  d) Daten aus vorhandenen Unterlagen im Einzelnen ermitteln und aufbereiten
+  e) Örtliche Erhebungen, die nicht überwiegend der Kontrolle der aus Unterlagen erhobenen Daten dienen
+  f) Erstellen eines eigenständigen allgemein verständlichen Erläuterungsberichtes für Genehmigungsverfahren oder qualifizierende Zuarbeiten hierzu
+  g) Erstellen von Unterlagen im Rahmen von artenschutzrechtlichen Prüfungen oder Prüfungen zur Vereinbarkeit mit der Fauna-Flora-Habitat-Richtlinie
+  h) Kartieren von Biotoptypen, floristischen oder faunistischen Arten oder Artengruppen
+  i) Vertiefendes Untersuchen des Naturhaushalts, wie z. B. der Geologie, Hydrogeologie, Gewässergüte und -morphologie, Bodenanalysen
+  j) Mitwirken an Beteiligungsverfahren in der Bauleitplanung
+  k) Mitwirken an Genehmigungsverfahren nach fachrechtlichen Vorschriften
+  l) Fortführen der mit dem Auftraggeber abgestimmten Fassung im Rahmen eines Genehmigungsverfahrens, Erstellen einer genehmigungsfähigen Fassung auf der Grundlage von Anregungen Dritter.

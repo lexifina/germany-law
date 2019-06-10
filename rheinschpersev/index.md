@@ -1,0 +1,15 @@
+# Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein
+
+- [Eingangsformel](eingangsformel.md)
+- [Art 1 Inkraftsetzen von Beschlüssen der Zentralkommission für die Rheinschifffahrt](art-1.md)
+- [Art 2 Ausnahmen von der Schifferpatentpflicht](art-2.md)
+- [Art 3 Zuständige Behörden](art-3.md)
+- [Art 4 Zuständigkeit für ärztliche Zeugnisse](art-4.md)
+- [Art 5 Pflichten](art-5.md)
+- [Art 6 Ordnungswidrigkeiten](art-6.md)
+- [Art 7 Radarpatent für die Führer von Fähren](art-7.md)
+- [Art 8 Aufhebung von Rechtsvorschriften](art-8.md)
+- [(XXXX) Art 9 bis 17](xxxx-art-9-bis-17.md)
+- [Art 18 Inkrafttreten, Außerkrafttreten](art-18.md)
+- [Anlage 1](anlage-1.md)
+- [(XXXX) Anlage 2 bis 15](xxxx-anlage-2-bis-15.md)

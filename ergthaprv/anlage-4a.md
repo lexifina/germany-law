@@ -1,0 +1,16 @@
+# Anlage 4a (zu § 16a Absatz 2)
+
+....................................................................................
+(Bezeichnung der Einrichtung)
+Bescheinigung
+über die Teilnahme am Anpassungslehrgang
+Name, Vorname
+.......................................................................................................................
+Geburtsdatum Geburtsort
+.......................................................................................................................
+hat in der Zeit vom ..................... bis .....................
+regelmäßig an dem nach § 16a Absatz 2 der Ergotherapeuten-Ausbildungs- und Prüfungsverordnung von der zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+Ort, Datum
+..................................................................... (Stempel)
+.....................................................................
+Unterschrift(en) der Einrichtung

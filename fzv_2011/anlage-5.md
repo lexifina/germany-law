@@ -1,0 +1,53 @@
+# Anlage 5 (zu § 11 Absatz 1)Zulassungsbescheinigung Teil I
+
+Vorbemerkungen
+1. Ausgestaltung der Zulassungsbescheinigung Teil I:
+  Trägermaterial: Neobond (150 g/m²), Farbe weiß
+  Format: Breite 210 mm, Höhe 105 mm, zweimal faltbar auf DIN A7, zweiseitig bedruckt.
+  In das Trägermaterial eingearbeitet sind die folgenden fälschungserschwerenden Sicherheitsmerkmale:
+  – Wasserzeichen (Motiv: „Stilisierter Adler“ – gesetzlich geschützt für die Bundesdruckerei),
+  – Melierfasern, teilweise fluoreszierend,
+  – Planchetten, fluoreszierend,
+  – Sicherheitsreagenzien als Schutz gegen chemische Rasurmanipulationen.
+2. Sicherheitsmerkmale:
+  Der Druck auf dem Trägermaterial weist folgende fälschungserschwerende Sicherheitsmerkmale auf:
+  – mehrfarbiger Guillochenschutzunterdruck (zweistufig verarbeitet) mit Irisverlauf und integrierten Mikroschriften auf beiden Seiten,
+  – Fluoreszenzaufdruck vorderseitig (Motiv: Bundesadler mit zweigeteilter Linienstruktur), unsichtbar (unter UV-Licht fluoreszierend),
+  – Textfarbe dunkelgrün (unter UV-Licht grün fluoreszierend), Integration von Mikroschriftelementen im Formulartext,
+  – optisch-variables Element in Form eines Kinegrams (Motiv: „Sonne 40“ – gesetzlich geschützt für die Bundesdruckerei) auf der Rückseite des Dokuments einschließlich eines maschinell prüfbaren Merkmals; das Kinegramm wird durch die Vordrucknummerierung teilweise überdruckt. Die Vordrucknummerierung wird dunkelblau (unter UV-Licht gelb-grün fluoreszierend) aufgebracht,
+  – fortlaufende Nummer auf der Vorderseite, die durch die Zulassungsbehörde bei der Ausstellung eingetragen wird, wobei die Einmaligkeit der Nummer sicherzustellen ist.
+3. Objektsicherung und Fertigungskontrolle:
+  Die Herstellung, die Lagerung und der Versand von Rohmaterialien und Vordrucken muss so erfolgen, dass ein Verlust oder ein unberechtigter Zugriff ausgeschlossen ist. Zu diesem Zweck müssen Papierhersteller, Druckereien und Verlage Systeme der Objektsicherung und Fertigungskontrolle unterhalten, die folgenden Anforderungen genügen müssen:
+  a) Für die Räume, in denen die Vordrucke gelagert werden, ist ein erhöhter mechanischer Einbruchschutz vorzusehen. Die Widerstandszeitwerte für Mauerwerk, Türen und Fenster sind so zu wählen, dass auch beim Einsatz üblicher maschinenbewegter Werkzeuge ausreichend Zeit für ein polizeiliches Einschreiten bleibt. Es ist eine Einbruchmeldeanlage nach neuester Richtlinie vorzusehen sowie ein Zugangskontrollsystem mit Dokumentationseinrichtung. Die Entnahme und Einlagerung ist jeweils von zwei Beschäftigten zu quittieren. Durch organisatorische Maßnahmen ist sicherzustellen, dass nicht nur die von der Bundesdruckerei angelieferten Vordrucke, sondern außerhalb der Arbeitszeit auch alle Halb- und Zwischenerzeugnisse in diesem gesicherten Lager verwahrt werden.
+  b) Die Verarbeitung der Vordrucke in der Druckerei (Herstellung der Eindrucke, schneiden, zählen und verpacken) darf nur in Räumlichkeiten mit eingeschränkter Zugangsberechtigung erfolgen. Es ist ein Zugangskontrollsystem mit Dokumentationseinrichtung zu installieren.
+  c) Mit der Lagerung und Verarbeitung dürfen nur zuverlässige Personen betraut werden, die eine besondere Verpflichtungserklärung im sorgfältigen und kontrollierten Umgang mit den Vordrucken abgegeben haben.
+  d) Es ist ein Registrierungssystem einzurichten, das eine lückenlose Verfolgung und Verbleibskontrolle jedes einzelnen Vordrucks anhand der von der Bundesdruckerei angebrachten Nummerierung sicherstellt.
+  e) Der Versand der Vordrucke an die Zulassungsbehörden muss so erfolgen, dass jederzeit eine Verbleibsermittlung möglich ist und der Empfänger innerhalb der Zulassungsbehörde registriert wird.
+  Die Unternehmen geben eine Sicherheitserklärung ab, in der sie die Einhaltung der vorgenannten Anforderungen gegenüber dem Kraftfahrt-Bundesamt bestätigen. Das Kraftfahrt-Bundesamt ermächtigt nach Prüfung die Bundesdruckerei, diesen Unternehmen Vordrucke der Zulassungsbescheinigung Teil I zu liefern. Ein Widerruf erfolgt, wenn die Unternehmen gegen einzelne Sicherheitsbestimmungen verstoßen.
+4. Markierung:
+  a) Der Sicherheitscode nach § 11 Absatz 1 Satz 4 ist innerhalb der in der Abbildung der Zulassungsbescheinigung Teil I dargestellten Passmarken anzubringen und durch fälschungserschwerende Sicherheitsabdeckungen zu verbergen. Auf der Sicherheitsabdeckung soll folgender Hinweis stehen:
+    „Nur zur Außerbetriebsetzung Abdeckung entfernen (Dokument nur unbeschädigt gültig)”.
+  b) Die Druckstücknummer ist nach Nummer 5 darzustellen.
+  c) Schematische Abbildungen:
+    Die Sicherheitsabdeckung muss gemäß nachfolgender Abbildung nach vorgegebenen Maßen und farblicher Darstellung gestaltet sein:
+    aa) Format:
+      aaa) Breite 30 mm, Höhe 20 mm, Eckradien 1 mm oder
+      bbb) Breite von 35 mm, Höhe von 25 mm, Eckradien 1 mm.
+    bb) Farbe:
+      Mittiges Beschriftungsfeld silbergrau mit 4 mm umlaufendem, farbigem Rand (Verkehrsgrün, RAL 6024).
+    cc) Zusätzlich muss ein herstellerspezifisches, unsichtbares Kennzeichen in der Nähe der Druckstücknummer angebracht werden. Die fälschungserschwerende Sicherheitsabdeckung soll gewährleisten, dass die Druckstücknummer und der 2D-Code im Beschriftungsfeld beim Freilegen oder einer Manipulation unwiderruflich zerstört werden. Durch das Entfernen der Abdeckung ist
+      aaa) ein irreversibles 2-farbiges Farbmuster (Schraffur Verkehrsblau RAL 5017/Verkehrsweiß RAL 9016, 45 Grad nach rechts geneigt, Strichstärke 1 mm) oder
+      bbb) ein irreversibles 1-farbiges Farbmuster (Verkehrsgrün, RAL 6024)
+      freigelegt und die Manipulation oder gewollte Öffnung erkennbar.
+    Abbildung zur sichtbaren Markierung:
+    [Bild: bgbl1_2014_j1666-1_0050.jpg]
+    Abbildung zur Markierung mit Sicherheitscode nach Sichtbarmachung:
+    [Bild: bgbl1_2013_j3772-1_0050.jpg]
+5. Druckstücknummer der Zulassungsbescheinigung Teil I:
+  Die Druckstücknummer ist in maschinenlesbarer und unmittelbar lesbarer Form darzustellen. Der maschinenlesbaren Form genügt ein 2D-Code in Form des DataMatrix-Codes. Die Zusammensetzung der Druckstücknummer erfolgt entsprechend der Vorgaben aus Anlage 4a Nummer 1. Der 2D-Code hat eine Mindestgröße von 5 x 5 mm. Als Schriftart ist Arial-Bold mindestens 4 Punkt – schwarz – und für die Klarschriftnummer die Schriftart Arial-Bold mindestens 7 Punkt – schwarz – zu verwenden.
+6. Sicherheitscode der Zulassungsbescheinigung Teil I:
+  Der Sicherheitscode muss unmittelbar lesbar sein und ist zusätzlich in maschinenlesbarer Form darzustellen. Der maschinenlesbaren Form genügt ein 2D-Code in Form des DataMatrix-Codes und der Sicherheitscode darf weder aus der Druckstücknummer hervorgehen noch aus dieser ableitbar sein. Der Sicherheitscode der Zulassungsbescheinigung Teil I besteht aus sieben Zeichen. Im Übrigen erfolgt die Zusammensetzung des Sicherheitscodes entsprechend der Vorgaben aus Anlage 4a Nummer 2. Der 2D-Code hat eine Mindestgröße von 5 x 5 mm. Für die Klarschriftnummer ist die Schriftart Arial-Bold mindestens 8 Punkt – schwarz – zu verwenden, für die Schrift „Außer Betrieb gesetzt“ Arial-Bold 5 Punkt – schwarz –. Der Sicherheitscode kann nicht durch Durchleuchten erkannt werden.
+Vorderseite
+[Bild: bgbl1_2017_j0522-1_0110.jpg]
+Rückseite
+[Bild: bgbl1_2017_j0522-1_0120.jpg]

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 12 Abs. 1 Satz 1 Nr. 10 und 11 und des § 12b Abs. 2 in Verbindung mit Abs. 1, jeweils in Verbindung mit § 54 Abs. 1 Satz 1 und Abs. 2 Satz 1 des Atomgesetzes in der Fassung der Bekanntmachung vom 15. Juli 1985 (BGBl. I S. 1565), von denen § 12 Abs. 1 Satz 1 Nr. 10 durch Artikel 2 Nr. 3 des Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830) neugefaßt und durch Artikel 1 Nr. 11 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) geändert, § 12b Abs. 2 durch Artikel 2 Nr. 4 des Gesetzes vom 9. Oktober 1989 (BGBl. I S. 1830) eingefügt und § 54 Abs. 1 Satz 1 zuletzt durch Artikel 1 Nr. 21 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) geändert worden ist, verordnet die Bundesregierung:

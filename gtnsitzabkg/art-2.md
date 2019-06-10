@@ -1,0 +1,3 @@
+# Art 2
+
+Eine Befreiung der in Artikel 18 des Abkommens genannten Personen von den Gesetzen der Bundesrepublik Deutschland über Pflichtbeiträge in Bezug auf die Systeme der Sozialen Sicherheit der Bundesrepublik Deutschland ist keine Regelung im Sinne der deutschen Rechtsvorschriften, die die Anrechnung von Kindererziehungszeiten und Berücksichtigungszeiten ausschließt.

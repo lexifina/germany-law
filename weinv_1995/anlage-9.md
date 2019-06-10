@@ -1,0 +1,63 @@
+# Anlage 9 (zu § 22 Absatz 1 und § 24 Absatz 1) Prüfungsantrag/Sinnenprüfung
+
+(Fundstelle des Originaltextes: BGBl. I 2009, 867 - 868;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+Abschnitt I.
+Erforderliche Angaben
+Der Antrag auf Zuteilung einer Prüfungsnummer nach den §§ 19 und 20 des Weingesetzes muss mindestens folgende Angaben enthalten:
+1. Prüfungsbehörde,
+2. beantragte Prüfungsnummer,
+3. Antragsteller:
+  Name/Firma,
+  Postleitzahl, Ort,
+4. beantragte Bezeichnung des Erzeugnisses:
+  Jahrgang,
+  bestimmtes Anbaugebiet,
+  Gemeinde oder Ortsteil,
+  Lage oder Bereich,
+  Weinart,
+  Rebsorte(n),
+  beantragte Bezeichnung „Classic“,
+  beantragte Bezeichnung „Selection“,
+  beantragte Qualitätsbezeichnung,
+  bei Sekt b.A.: Gärverfahren und Beginn der Lagerzeit,
+5. Zusammensetzung des Erzeugnisses:
+  natürlicher Alkoholgehalt (%vol oder Grad Oe),
+  Verschnittanteile,
+  Art und Ausmaß der Anreicherung,
+  bei Qualitätswein, Prädikatswein, Qualitätsperlwein b.A.: Anteil und Ausmaß der Süßung,
+6. weitere Angaben:
+  Wein-Nummer,
+  Gesamtmenge der Wein-Nummer,
+  abgefüllte Menge der Wein-Nummer,
+  Abfülldatum,
+  wurde eine Prüfung schon einmal beantragt?
+  wenn ja, unter welcher Antragsnummer?
+7. (weggefallen)
+Abschnitt II.
+Bewertung der Sinnenprüfung
+1. Sensorische Vorbedingungen
+  Die nachfolgenden Vorbedingungen werden auf JA/NEIN-Entscheidung geprüft (zu den Buchstaben a bis e, ob „typisch für“); dabei bedeutet NEIN den Ausschluss von der weiteren Prüfung:
+  a) bestimmtes Anbaugebiet bzw. Bereich,
+  b) Prädikat; wenn nicht für das beantragte aber für ein anderes Prädikat typisch, kann der Wein für dieses zugelassen werden,
+  c) Rebsorte; wenn angegeben aber nicht typisch, kann das Erzeugnis ohne Rebsortenangabe zugelassen werden,
+  d) Farbe,
+  e) Klarheit,
+  f) Mousseux im Falle von Schaumwein und Perlwein.
+2. Sensorische Prüfmerkmale und Qualitätszahl
+  a) Punkteskala
+    | Punkte | Intervalle | Qualitätsbeschreibung |
+    | 5 | 4,50 – 5,00 | hervorragend |
+    | 4 | 3,50 – 4,49 | sehr gut |
+    | 3 | 2,50 – 3,49 | gut |
+    | 2 | 1,50 – 2,49 | zufriedenstellend |
+    | 1 | 0,50 – 1,49 | nicht zufriedenstellend |
+    | 0 |  | keine Bewertung, das heißt Ausschluss des Erzeugnisses |
+  b) Sensorische Prüfmerkmale und Möglichkeiten der Punktvergabe
+    | Prüfmerkmal | Möglichkeiten der Punktvergabe |
+    | Geruch | 5,0 | 4,5 | 4,0 | 3,5 | 3,0 | 2,5 | 2,0 | 1,5 | 1,0 | 0,5 | 0 |
+    | Geschmack | 5,0 | 4,5 | 4,0 | 3,5 | 3,0 | 2,5 | 2,0 | 1,5 | 1,0 | 0,5 | 0 |
+    | Harmonie | 5,0 | 4,5 | 4,0 | 3,5 | 3,0 | 2,5 | 2,0 | 1,5 | 1,0 | 0,5 | 0 |
+    Harmonie ist das Zusammenwirken von Geruch, Geschmack und sensorischen Vorbedingungen. Ihre Bewertung darf gegenüber Geruch und Geschmack um höchstens 1,0 Punkt nach oben abweichen. Sind Geruch und Geschmack unterschiedlich bewertet, so gilt jeweils die höhere Punktzahl. Jedes Prüfmerkmal ist einzeln zu bewerten und seine Punktzahl niederzuschreiben. Nach Bewertung aller Prüfmerkmale dürfen die niedergeschriebenen Punktzahlen noch korrigiert werden. Alle Prüfmerkmale sind gleich wichtig (jeweils Gewichtungsfaktor 1).
+  c) Mindestpunktzahlen und Qualitätszahl
+    Die Mindestpunktzahl für jedes einzelne Prüfmerkmal ist 1,5. Die durch 3 geteilte Summe der für Geruch, Geschmack und Harmonie erteilten Punkte ergibt die Qualitätszahl. Die Qualitätszahl muss für alle Erzeugnisse mindestens 1,50 betragen.

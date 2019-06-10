@@ -1,0 +1,3 @@
+# Art 3
+
+Das Verwaltungsvermögen der Körperschaften des öffentlichen Rechts im Umgliederungsgebiet geht mit allen Rechten, Lasten und Verpflichtungen auf die in Niedersachsen zuständigen Körperschaften über. Von dem Vermögensübergang sind die in § 4 Satz 2 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes vom 30. Juli 1979 (BGBl. I S. 1325) genannten Körperschaften ausgenommen. Die gegen Entschädigung übergehenden Teile des Verwaltungsvermögens und die Höhe der Entschädigung werden in einer Protokollnotiz zu diesem Vertrag näher bezeichnet.

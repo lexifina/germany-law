@@ -1,0 +1,13 @@
+# Anlage 4 (zu § 60 Absatz 1)Prioritäten für Entwicklung von Leitfäden nach § 60
+
+Leitfäden nach § 60 Absatz 1 haben sich vorrangig auf Maßnahmen zu beziehen, die der Verhütung schwerer Unfälle und der Begrenzung der Folgen möglicher schwerer Unfälle dienen. Sie haben insbesondere folgende Aspekte zu berücksichtigen:
+1. die Verbesserung der Bohrlochintegrität, des Bohrlochkontrollgeräts und der Bohrlochbarrieren sowie die Überwachung ihrer Wirksamkeit,
+2. die Verbesserung des Primärrückhaltesystems,
+3. die Verbesserung des Sekundärrückhaltesystems, das die Eskalation eines drohenden schweren Unfalls schon frühzeitig begrenzt,
+4. zuverlässige Entscheidungsprozesse,
+5. Management und Beaufsichtigung von Aktivitäten, die ernste Gefahren hervorrufen können,
+6. die Fachkompetenz der Personen in Schlüsselpositionen,
+7. ein wirksames Risikomanagement,
+8. die Bewertung der Zuverlässigkeit sicherheits- und umweltkritischer Systeme,
+9. wichtige Indikatoren für die Bewertung ergriffener Maßnahmen,
+10. die wirksame Integration von Sicherheits- und Umweltmanagementsystemen des Unternehmers und anderer Beteiligter an den Offshore-Erdöl- und -Erdgasaktivitäten.

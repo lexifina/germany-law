@@ -1,0 +1,66 @@
+# Anlage 2 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für
+Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 2005, 885 - 886)
+1. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.1 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes,
+1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele a bis d,
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+4.1 Dienstleistungsangebot, Lernziel a,
+4.2 Rechtliche Rahmenbedingungen, Lernziel b,
+6. Umschlag, Lernziele a und b,
+7.1 Zustellungsvorbereitung, Lernziele d und e,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.1 Arbeitsplanung, Lernziele a, b und d,
+2.2 Informations- und Kommunikationssysteme,
+4.1 Dienstleistungsangebot, Lernziel b,
+4.2 Rechtliche Rahmenbedingungen, Lernziel c,
+4.3 Qualitätssicherung, Lernziel a,
+5. Annahme und Abholung, Lernziel a,
+6. Umschlag, Lernziel c,
+7.1 Zustellungsvorbereitung, Lernziele b und c,
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.4 Umweltschutz,
+2.1 Arbeitsplanung, Lernziel c,
+3.1 Kundenorientierte Kommunikation, Lernziele a und b,
+4.3 Qualitätssicherung, Lernziel d,
+7.2 Zustellungsdurchführung,
+8. Kassenführung, Lernziel a,
+zu vermitteln.
+2. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.2 Teamarbeit und Kooperation, Lernziele a und b,
+4.3 Qualitätssicherung, Lernziel c,
+7.3 Zustellungsnachbearbeitung
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Kundenorientierte Kommunikation, Lernziele c bis e,
+3.2 Teamarbeit und Kooperation, Lernziel c,
+4.2 Rechtliche Rahmenbedingungen, Lernziele a und e,
+7.1 Zustellungsvorbereitung, Lernziel a,
+8. Kassenführung, Lernziele b und c,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
+7.2 Zustellungsdurchführung, Lernziele a und b,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele e und f,
+2.1 Arbeitsplanung, Lernziel e,
+4.1 Dienstleistungsangebot, Lernziel c,
+4.2 Rechtliche Rahmenbedingungen, Lernziel d,
+4.3 Qualitätssicherung, Lernziel b,
+5. Annahme und Abholung, Lernziele b bis e,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5. Annahme und Abholung, Lernziel a,
+6. Umschlag, Lernziel c,
+fortzuführen.

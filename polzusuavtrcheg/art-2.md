@@ -1,0 +1,5 @@
+# Art 2
+
+Es werden ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen nach folgenden Artikeln des Vertrages vom 27. April 1999 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justitielle Zusammenarbeit in Kraft zu setzen:
+1. das Bundesministerium des Innern zu Artikel 23 Abs. 6 und 7 sowie, im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz, zu Artikel 49 Abs. 2,
+2. das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium der Justiz und für Verbraucherschutz zu Artikel 44 Abs. 3.

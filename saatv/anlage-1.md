@@ -1,0 +1,36 @@
+# Anlage 1 (zu § 4 Abs. 1 Satz 1)Termin für den Antrag auf Anerkennung von Saatgut
+
+1 28. Februar
+  Kohlrabi (außer Sorten für Unterglasanbau),
+  Salat (Sorten für Unterglasanbau)
+1a 31. März
+1a.1 Wintergetreide
+1a.2 Leguminosen (Überwinterungsanbau), außer Luzernen und Rotklee mit Samenernte im zweiten Schnitt
+2 15. April
+  Gemüsearten, soweit sie nicht in den Nummern 1, 5.3 und 9.2 aufgeführt sind
+3 30. April
+3.1 Sommergetreide
+3.2 Gräser, außer Weidelgräser mit Samenernte im zweiten Schnitt
+3.3 Leguminosen (außer Überwinterungsanbau), Phazelie, Ölrettich
+3.4 Öl- und Faserpflanzen (außer Überwinterungsanbau), außer Sojabohne und Sonnenblume
+3.5 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Samenernte von Samenträgern aus Sommerstecklingen)
+4 15. Mai
+Sojabohne
+5 31. Mai
+5.1 Mais, Sorghum
+5.2 Sonnenblume
+5.3 Gurke und Tomate (Sorten für Freilandanbau), Buschbohne, Stangenbohne, Dicke Bohne
+6 10. Juni
+6.1 Weidelgräser mit Samenernte im zweiten Schnitt
+6.2 Runkelrübe und Zuckerrübe (Prüfung des Aufwuchses von Sommerstecklingen)
+7 30. Juni
+7.1 Kohlrübe, Futterkohl
+7.2 Spargel, Brokkoli
+8 1. Juli
+  Rotklee mit Samenernte im zweiten Schnitt
+9 15. August
+9.1 Luzernen mit Samenernte im zweiten Schnitt
+9.2 mehrjährige Gemüsearten, Kohlrabi (Sorten für Unterglasanbau), Chinakohl
+10 30. September
+10.1 Öl- und Faserpflanzen (Überwinterungsanbau)
+10.2 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Samenernte von Samenträgern aus Überwinterungsanbau)

@@ -1,0 +1,102 @@
+# Anlage 1 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles
+Marketing/zur Gestalterin für visuelles Marketing - Sachliche Gliederung -
+
+(Fundstelle: BGBl. I 2004, 925 - 928)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 4 Nr. 1) |  |
+| 1.1 | Stellung, Rechtsform und Struktur (§ 4 Nr. 1.1) | a) | Zielsetzung und Geschäftsfelder des Ausbildungsbetriebes sowie seine Stellung am Markt und seine Bedeutung in der Region beschreiben |
+| b) | Aufbau und Struktur des Ausbildungsbetriebes erläutern |
+| c) | Rechtsform des Ausbildungsbetriebes darstellen |
+| d) | Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Verbänden, Gewerkschaften und Berufsvertretungen beschreiben |
+| 1.2 | Berufsbildung, arbeits- und sozialrechtliche Grundlagen (§ 4 Nr. 1.2) | a) | Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben |
+| b) | den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen |
+| c) | lebensbegleitendes Lernen für die berufliche und persönliche Entwicklung begründen; berufliche Fortbildungsmöglichkeiten ermitteln |
+| d) | für den Ausbildungsbetrieb geltende arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie Tarif- und Arbeitszeitregelungen darstellen |
+| e) | wesentliche Inhalte und Bestandteile eines Arbeitsvertrages darstellen |
+| f) | Positionen der eigenen Entgeltabrechnung erklären |
+| 1.3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 1.3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden: Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.4 | Umweltschutz (§ 4 Nr. 1.4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Arbeitsorganisation, Kommunikation und Kooperation (§ 4 Nr. 2) |  |
+| 2.1 | Arbeitsorganisation und Arbeitsplanung (§ 4 Nr. 2.1) | a) | Ziele, Reihenfolge und Zeitplan für Aufgaben festlegen und dokumentieren |
+| b) | Probleme analysieren, Lösungsalternativen entwickeln und bewerten |
+| c) | Arbeits- und Organisationsmittel sowie Lern- und Arbeitstechniken einsetzen; Informationen beschaffen und nutzen |
+| d) | Durchführung und Ergebnisse kontrollieren sowie Korrekturmaßnahmen ergreifen |
+| 2.2 | Teamarbeit und Kooperation (§ 4 Nr. 2.2) | a) | Aufgaben im Team planen, bearbeiten und auswerten |
+| b) | Sachverhalte, Themen und Unterlagen situationsbezogen und adressatengerecht aufbereiten und präsentieren |
+| c) | interne und externe Kooperationsprozesse mitgestalten, insbesondere mit den Bereichen Verkauf, Werbung, Medien und Industrie |
+| d) | Konfliktlösungsmöglichkeiten anwenden |
+| e) | Kommunikationsformen situationsbezogen anwenden |
+| 2.3 | Kundenorientierte Kommunikation (§ 4 Nr. 2.3) | a) | Bedeutung von Information, Kommunikation und Kooperation für Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten |
+| b) | Kundenkontakte nutzen und pflegen, Regeln für kundenorientiertes Verhalten anwenden |
+| c) | Informations- und Präsentationsgespräche planen, durchführen und nachbereiten; Alternativen anbieten |
+| 2.4 | Informations- und Kommunikationssysteme (§ 4 Nr. 2.4) | a) | Informations- und Kommunikationssysteme nutzen |
+| b) | externe und interne Netze und Dienste nutzen; Sicherheitsanforderungen beachten |
+| c) | Daten eingeben, mit betriebsüblichen Verfahren sowie unter Beachtung des Datenschutzes sichern und pflegen |
+| 2.5 | Qualitätssicherung (§ 4 Nr. 2.5) | a) | qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur Verbesserung von Arbeitsprozessen beitragen |
+| b) | Zusammenhänge zwischen Qualität und Kundenzufriedenheit beschreiben und Auswirkungen auf das Betriebsergebnis ableiten |
+| 2.6 | Anwenden von Englisch bei Fachaufgaben (§ 4 Nr. 2.6) | a) | englische Fachbegriffe anwenden |
+| b) | englischsprachige Informationen nutzen und auswerten |
+| 3 | Grundlagen des visuellen Marketings (§ 4 Nr. 3) |  |
+| 3.1 | Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik (§ 4 Nr. 3.1) | a) | Unternehmensphilosophie bei der Entwicklung von Gestaltungskonzepten berücksichtigen |
+| b) | Bedarfs- und Marktentwicklungsdaten des Marktsegmentes beschaffen, auswerten und für Gestaltungskonzepte nutzen |
+| 3.2 | Präsentation von Waren, Produkten und Dienstleistungen (§ 4 Nr. 3.2) | a) | Waren, Produkte und Dienstleistungen präsentieren und atmosphärisch visualisieren, dabei Grundsätze der Warenplatzierung anwenden |
+| b) | Gestaltungsmittel und -elemente, insbesondere Warenträger, Beleuchtung und Multimediatechniken zielgruppenspezifisch auswählen und einsetzen |
+| c) | Verkaufsräume, Ausstellungsräume oder Schaufenster unter dem Aspekt der visuellen Verkaufsförderung gliedern; Verkehrsströme und Blickzonen berücksichtigen |
+| d) | Waren bedarfsgebündelt und selbsterklärend präsentieren |
+| e) | Zusammenspiel von Sortiment, Einrichtung, Bildwelten und dekorativer Darstellung berücksichtigen |
+| 3.3 | Visuelle Verkaufsförderung und Werbung (§ 4 Nr. 3.3) | a) | Ziele und Aufgaben der visuellen Verkaufsförderung als Teil des Marketings erläutern |
+| b) | bei der Entwicklung von Maßnahmen der Werbung, Verkaufsförderung und Öffentlichkeitsarbeit sowie bei Events mitwirken; wirtschaftliche und rechtliche Aspekte berücksichtigen |
+| c) | Bedeutung und Wirkungen einzelner Werbemittel und Werbemaßnahmen erklären und diese zielgerichtet einsetzen |
+| d) | Farben als Gestaltungsmittel einsetzen, dabei Grundsätze der Farbenlehre beachten |
+| e) | Licht als Gestaltungsmittel unter Berücksichtigung von Wirtschaftlichkeit und Sicherheit einsetzen |
+| f) | typografische Gestaltungsvarianten produktorientiert auswählen |
+| g) | innovative verkaufsfördernde Gestaltungselemente einsetzen |
+| 4 | Werkstoffe, Werkzeuge und Geräte (§ 4 Nr. 4) | a) | Werkstoffe und Hilfsmittel unter Berücksichtigung ihrer Eigenschaften und der beabsichtigten gestalterischen Wirkung auswählen; unterschiedliche Be- und Verarbeitungstechniken anwenden |
+| b) | Werkzeuge und Maschinen nutzen und pflegen |
+| c) | Geräte und Beleuchtungselemente nach Vorgaben und technischen Unterlagen einsetzen |
+| 5 | IT-Anwendungen (§ 4 Nr. 5) | a) | Texte und Grafiken computergestützt gestalten und layouten |
+| b) | Bilder beschaffen und bearbeiten |
+| c) | Konzepte der visuellen Verkaufsförderung computergestützt entwickeln und realisieren |
+| d) | Werbemittel gestalten und herstellen |
+| e) | branchenspezifische Software zur Auftrags- und Rechnungsbearbeitung sowie zur Materialverwaltung nutzen |
+| 6 | Projekte des visuellen Marketings (§ 4 Nr. 6) |  |
+| 6.1 | Entwurf und Planung (§ 4 Nr. 6.1) | a) | Ideen entwickeln, Gestaltungskonzepte entwerfen und skizzieren |
+| b) | werbe- und verkaufspsychologische Grundsätze beachten |
+| c) | Entwicklungen in Kunst, Design und Architektur nutzen sowie aktuelle Trends berücksichtigen |
+| d) | Reinzeichnungen und Pläne, insbesondere unter Berücksichtigung der Flächen- und Raumeinteilung, erstellen |
+| e) | Konzepte präsentieren und begründen |
+| f) | Projekte unter Berücksichtigung inhaltlicher, organisatorischer, zeitlicher und finanzieller Aspekte planen und dokumentieren |
+| g) | Bedarf an internen und externen Dienstleistungen ermitteln |
+| h) | Kostenpläne projektbezogen erstellen und überwachen |
+| i) | räumliche Gegebenheiten und Sicherheitsbestimmungen berücksichtigen |
+| k) | rechtliche Regelungen, insbesondere des Urheberrechtes, beachten |
+| 6.2 | Umsetzung (§ 4 Nr. 6.2) | a) | Präsentationsmittel, Materialien und Werkzeuge zur Projektrealisierung bereitstellen und einsetzen, abbauen und lagern |
+| b) | Waren, Produkte, Accessoires und Requisiten platzieren |
+| c) | Präsentations- und Ausstellungsräume vorbereiten |
+| d) | vorbereitende Maßnahmen für den Aufbau der Präsentation organisieren und überwachen |
+| e) | Maßnahmen bei veränderten Anforderungen im Rahmen der Projektgestaltung durchführen und veranlassen |
+| f) | Ergebnisse der Projektdurchführung dokumentieren |
+| 7 | Steuerung von Projekten visuellen Marketings (§ 4 Nr. 7) |  |
+| 7.1 | Beschaffung (§ 4 Nr. 7.1) | a) | Bedarf an Materialien und Waren ermitteln |
+| b) | Angebote einholen und bewerten; Aufträge erteilen |
+| c) | Lieferungen überprüfen; Aufträge, Lieferscheine und Rechnungen vergleichen; Abweichungen klären |
+| 7.2 | Kalkulation (§ 4 Nr. 7.2) | a) | Projekte kalkulieren |
+| b) | Nachkalkulationen durchführen |
+| c) | Material- und Zeitaufwand dokumentieren und im Soll-Ist-Vergleich bewerten |
+| 7.3 | Erfolgskontrolle (§ 4 Nr. 7.3) | a) | Erreichen von Projektzielen durch Soll-Ist-Vergleich prüfen |
+| b) | Projekte auswerten, Instrumente der Erfolgskontrolle anwenden und Ergebnisse präsentieren |
+| c) | Folgerungen für künftige Projekte ableiten |
+| 7.4 | Kaufmännische Steuerung und Kontrolle (§ 4 Nr. 7.4) | a) | Rechnungswesen als Instrument kaufmännischer Steuerung und Kontrolle an Beispielen des Ausbildungsbetriebes begründen |
+| b) | Notwendigkeit betrieblicher Kosten- und Leistungsrechnung erläutern |
+| c) | projektbezogene Geschäftsvorgänge für das Rechnungswesen bearbeiten |
+| d) | Eingang und Ausgang von Rechnungen kontrollieren |

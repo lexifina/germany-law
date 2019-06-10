@@ -1,0 +1,3 @@
+# Art 2
+
+Den in Artikel 3 des Zusatzabkommens festgelegten Ausgleichsbetrag von 18 Millionen Euro entrichtet der Bund am 30. Juni des jeweiligen Jahres aus dem Aufkommen der Lohnsteuer. Der auf diesen Betrag entsprechend der Beteiligung am Aufkommen der Lohnsteuer entfallende Gesamtanteil der Länder und Gemeinden wird von dem Land Nordrhein-Westfalen in Höhe eines Anteils von 95 Prozent und von dem Land Rheinland-Pfalz in Höhe eines Anteils von fünf Prozent getragen.

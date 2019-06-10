@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe s und t in Verbindung mit Absatz 4, der §§ 15 und 16 in Verbindung mit § 6 Absatz 4 und des § 31 Absatz 2 Satz 1 und 3 in Verbindung mit § 6 Absatz 4 Satz 2 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847), von denen § 6 Absatz 1 und 4 Satz 1, § 15 Satz 1 und § 31 Absatz 2 Satz 1 und 3 durch Artikel 1 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2314) geändert worden sind, verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie:

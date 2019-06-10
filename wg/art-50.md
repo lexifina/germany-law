@@ -1,0 +1,6 @@
+# Art 50
+
+(1)
+Jeder Wechselverpflichtete, gegen den Rückgriff genommen wird oder genommen werden kann, ist berechtigt, zu verlangen, daß ihm gegen Entrichtung der Rückgriffssumme der Wechsel mit dem Protest und eine quittierte Rechnung ausgehändigt werden.
+(2)
+Jeder Indossant, der den Wechsel eingelöst hat, kann sein Indossament und die Indossamente seiner Nachmänner ausstreichen.

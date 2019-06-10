@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 191a Abs. 2 des Gerichtsverfassungsgesetzes in der Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077), der durch Artikel 20 Nr. 5 des Gesetzes vom 23. Juli 2002 (BGBl. I S. 2850) eingefügt und durch Artikel 15c Nr. 2 des Gesetzes vom 22. März 2005 (BGBl. I S. 837) geändert worden ist, auch in Verbindung mit § 46 Abs. 8 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der durch Artikel 1 Nr. 2 des Gesetzes vom 26. Juli 2002 (BGBl. I S. 2864, 3516) eingefügt worden ist, verordnet das Bundesministerium der Justiz:

@@ -1,0 +1,185 @@
+# Anlage 5 (zu § 3 Abs. 2)
+
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Frankfurt (FRA) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | 2 | 2 |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | unbegrenzt |
+| 7 | Betankungsdienste | unbegrenzt |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen München (MUC) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | 2 | 2 |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 4 | 4 |
+| 7 | Betankungsdienste | 2 | 2 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Düsseldorf (DUS) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 3 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) |  |  |
+| 4.1 | in Bezug auf Fracht ohne Zolllagerbetrieb | 2 | 3 |
+| 4.2 | in Bezug auf Post | Postabfertigung entfällt | Postabfertigung entfällt |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | unbegrenzt | unbegrenzt |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | unbegrenzt | 6 |
+| 5.4 | Be- und Entladung sowie Beförderung Fluggast/Gepäck Beförderung Besatzung | 2 unbegrenzt | 3 unbegrenzt |
+| 5.5 | Anlassen/Triebwerke | 2 | 3 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 3 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 4 |
+| 7 | Betankungsdienste |  |  |
+| 7.1 | Be- und Enttanken | 2 | 4 |
+| 7.2 | Nachfüllen von Öl und anderen Flüssigkeiten | unbegrenzt | unbegrenzt |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Tegel (TXL) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen |  |  |
+| 5.2 | Unterstützen beim Parken |
+| 5.3 | Kommunikation Flugzeug/Abfertiger |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck |
+| 5.5 | Anlassen/Triebwerke |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 3 |
+| 7 | Betankungsdienste | 2 | 8 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hamburg (HAM) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) |
+| 4.1 | in bezug auf Fracht | 2 | 2 |
+| 4.2 | in bezug auf Post | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Dienstleister | unbegrenzt |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 3 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | unbegrenzt | unbegrenzt |
+| 7 | Betankungsdienste | 2 | 2 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Stuttgart (STR) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) |
+| 4.1 | Fracht | 2 | 2 |
+| 4.2 | Post | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | unbegrenzt | unbegrenzt |
+| 5.4 | Be- und Entladung sowie Beförderung Fluggast/Gepäck ausgenommen Beförderung Besatzung | 2unbegrenzt | 2unbegrenzt |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | unbegrenzt | unbegrenzt |
+| 7 | Betankungsdienste |
+| 7.1 | Be- und Enttanken | 2 | 3 |
+| 7.2 | Nachfüllen Öl und andere Flüssigkeiten | 2 | 3 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Köln-Bonn (CGN) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | 2 | 2 |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 2 |
+| 7 | Betankungsdienste | 2 | 2 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Hannover (HAJ) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | 2 | 2 |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 3 |
+| 7 | Betankungsdienste | 2 | 8 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Nürnberg (NUE) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken |  |  |
+| 5.3 | Kommunikation Flugzeug/Abfertiger |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 3 | 3 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 4 | 4 |
+| 7 | Betankungsdienste | 3 | 3 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Leipzig (LEJ) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | unbegrenzt | unbegrenzt |
+| 5.1 bis 5.6 | Vorfelddienste | unbegrenzt | unbegrenzt |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 2 | 2 |
+| 7 | Betankungsdienste | unbegrenzt | unbegrenzt |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im Einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Schönefeld (SXF) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 3 | 3 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 3 | 3 |
+| 5.1 | Lotsen | 3 | 3 |
+| 5.2 | Unterstützen beim Parken | 3 | 3 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | 3 | 3 |
+| 5.4 | Be- und Entladung sowie Beförderung Fluggast/Gepäck Beförderung Besatzung | 3 unbegrenzt | 3 unbegrenzt |
+| 5.5 | Anlassen/Triebwerke | 3 | 3 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen (mit Ausnahme sogenannter Werftschlepps) | 3 | 3 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | unbegrenzt | unbegrenzt |
+| 7 | Betankungsdienste | unbegrenzt | unbegrenzt |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Dresden (DRS) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | unbegrenzt | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | unbegrenzt | 2 |
+| 5 | Vorfelddienste | unbegrenzt | 2 |
+| 7 | Betankungsdienste | unbegrenzt | 2 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Bremen (BRE) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | 2 | 2 |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | 2 | 2 |
+| 5.1 | Lotsen | 2 | 2 |
+| 5.2 | Unterstützen beim Parken | 2 | 2 |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | unbegrenzt |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | 2 | 2 |
+| 5.5 | Anlassen/Triebwerke | 2 | 2 |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 2 | 2 |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 3 | 3 |
+| 7 | Betankungsdienste | 2 | 3 |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Münster/Osnabrück (FMO) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+|  | Dienst gemäß Anlage 1 | Zahl der Selbstabfertiger | Zahl der Drittabfertiger |
+| 3 | Gepäckabfertigung | unbegrenzt | entfällt |
+| 4 | Fracht- und Postabfertigung (Beförderung zwischen Flugplatz und Flugzeug) | unbegrenzt | entfällt |
+| 5.1 | Lotsen | unbegrenzt | entfällt |
+| 5.2 | Unterstützen beim Parken | unbegrenzt | entfällt |
+| 5.3 | Kommunikation Flugzeug/Abfertiger | unbegrenzt | entfällt |
+| 5.4 | Be- und Entladung sowie Beförderung Besatzung/Fluggast/Gepäck | unbegrenzt | entfällt |
+| 5.5 | Anlassen/Triebwerke | unbegrenzt | entfällt |
+| 5.6 | Bewegen des Flugzeugs/Bereitstellen | 3 | entfällt |
+| 5.7 | Beförderung, Ein-/Ausladen von Nahrungsmitteln/Getränken | 3 | entfällt |
+| 7 | Betankungsdienste | 3 | entfällt |
+Die angegebenen Festlegungen der Zahl der zuzulassenden Selbst- bzw. Drittabfertiger sind nur insoweit maßgeblich, als nicht im einzelnen aufgrund anderer Bestimmungen der Bodenabfertigungsdienst-Verordnung eine andere Zahl festgelegt oder der Zugang nicht geöffnet ist.
+Die Zahl der zuzulassenden Selbstabfertiger und Drittabfertiger ist auf dem Flughafen Berlin-Tempelhof (THF) bei den folgenden Bodenabfertigungsdiensten (gemäß Anlage 1) jeweils festgelegt auf:
+(weggefallen)

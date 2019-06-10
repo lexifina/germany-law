@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund der §§ 13a und 14 Absatz 8 des Gesetzes über die Kontrolle von Kriegswaffen in der Fassung der Bekanntmachung vom 22. November 1990 (BGBl. I S. 2506), die zuletzt durch Artikel 30 Nummer 2 und 3 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden sind, und auf Grund des § 36 Absatz 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), der zuletzt durch Artikel 1 Nummer 5 Buchstabe b des Gesetzes vom 26. Januar 1998 (BGBl. I S. 156) geändert worden ist, verordnet das Bundesministerium für Wirtschaft und Energie:

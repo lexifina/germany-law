@@ -1,0 +1,66 @@
+# Anlage 2 (zu § 7 Abs. 5)
+
+(Fundstelle: BGBl. I 2005, 2509 - 2510;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+Muster
+...............................................................................
+(Bezeichnung der zuständigen Stelle)
+Zeugnis
+über die
+Prüfung zum anerkannten Abschluss
+Geprüfter Industriemeister/Geprüfte Industriemeisterin
+- Fachrichtung Papiererzeugung
+Herr/Frau .....................................................................
+...............................................................................
+geboren am ...................................... in ..........................
+hat am .............................. die Prüfung zum anerkannten Abschluss
+Geprüfter Industriemeister/Geprüfte Industriemeisterin
+- Fachrichtung Papiererzeugung
+gemäß der Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
+Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Papiererzeugung
+vom 22. August 2005 (BGBl. I S. 2501), die zuletzt durch Artikel 33 der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
+Ergebnissen 1) bestanden:
+-----
+1) Den Bewertungen liegt folgender Punkteschlüssel zugrunde: ..............
+Note
+..........
+I. Fachrichtungsübergreifende Basisqualifikationen
+Prüfungsbereiche: Punkte
+Rechtsbewusstes Handeln ..........
+Betriebwirtschaftliches Handeln ..........
+Anwenden von Methoden der Information,
+Kommunikation und Planung ..........
+Zusammenarbeit im Betrieb ..........
+Berücksichtigen naturwissenschaftlicher
+und technischer Gesetzmäßigkeiten ..........
+(Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde
+nach § 6 im Hinblick auf die am .......... in .......... vor ..........
+abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
+Note
+II. Handlungsspezifische Qualifikationen ..........
+Punkte
+1. Situationsaufgabe im Handlungsbereich
+"Papiertechnologie" ..........
+2. Situationsaufgabe im Handlungsbereich
+"Führung und Organisation" ..........
+3. Aufgabenstellung im Handlungsbereich
+"Spezialisierungsgebiete" mit dem
+Wahlqualifikationsschwerpunkt .......... 1)
+.............................
+(Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin wurde
+nach § 6 im Hinblick auf die am .......... in .......... vor ..........
+abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
+III. Berufs- und arbeitspädagogische Qualifikationen
+Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2 den
+Nachweis über den Erwerb der berufs- und arbeitspädagogischen Kenntnisse
+durch die Prüfung am .................. in .............................
+vor ............. erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
+Datum .......................................
+Unterschrift ................................
+(Siegel der zuständigen Stelle)
+-----
+1) Bei der Ermittlung der Punktzahl sind die Punktebewertungen wie folgt zu gewichten: schriftliche Präsentationsunterlagen 30 Prozent, mündliche Präsentation 20 Prozent, Fachgespräch 50 Prozent.

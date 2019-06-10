@@ -1,0 +1,31 @@
+# Anlage 3 (zu § 16 Abs. 1)
+
+Fundstelle des Originaltextes: BGBl. I 2006, 1845
+Der/Die Vorsitzende des Prüfungsausschusses für die Tierärztliche Vorprüfung
+an der ..............................................(Universität)
+in ..................................................(Ort)
+Zeugnis
+über das Ergebnis
+des naturwissenschaftlichen Abschnitts
+der Tierärztlichen Vorprüfung (Vorphysikum)
+Der/Die Studierende der Veterinärmedizin
+..............................................................................
+(Vor- und Zuname)
+geboren am .................................in................................
+hat im naturwissenschaftlichen Abschnitt der Tierärztlichen Vorprüfung
+1. in Physik einschließlich der Grundlagen des Strahlenschutzes die Note .....
+2. in Chemie die Note ........................................................
+3. in Zoologie die Note ......................................................
+4. in Botanik der Futter-, Gift- und Heilpflanzen die Note ...................
+erhalten und somit am ................*) den naturwissenschaftlichen Abschnitt
+der Tierärztlichen Vorprüfung bestanden/nicht bestanden ++).
+Angerechnete Prüfungen: ......................................................
+....................., den .....................
+Der/Die Vorsitzende
+des Prüfungsausschusses
+(Siegel)
+................................................
+(Unterschrift)
+-----
+*) Datum der letzten Prüfung (bzw. Wiederholungsprüfung).
+++) Nichtzutreffendes streichen.

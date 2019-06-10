@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Das Bundesministerium für Ernährung und Landwirtschaft verordnet auf Grund
+– des § 4 Absatz 1 Satz 1, auch in Verbindung mit Absatz 4, des Agrarzahlungen-Verpflichtungengesetzes vom 2. Dezember 2014 (BGBl. I S. 1928) im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
+– des § 9a Satz 1 und des § 15 Satz 1 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 24. Juni 2005 (BGBl. I S. 1847), die durch Artikel 1 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2314) geändert worden sind, jeweils in Verbindung mit § 1 Absatz 2 des Agrarzahlungen-Verpflichtungengesetzes vom 2. Dezember 2014 (BGBl. I S. 1928) und mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) im Einvernehmen mit dem Bundesministerium der Finanzen, dem Bundesministerium für Wirtschaft und Energie und dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 23b Satz 1 des Treuhandgesetzes, der durch Artikel 1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt worden ist, verordnet die Bundesregierung und auf Grund des Artikels 14 Abs. 5 Satz 6 Nr. 3 des Zweiten Vermögensrechtsänderungsgesetzes, der durch Artikel 12 des Investitionserleichterungs- und Wohnbaulandgesetzes vom 22. April 1993 (BGBl. I S. 466) neu gefaßt worden ist, und des § 10 der Grundstücksverkehrsordnung in der Fassung des Artikels 15 § 1 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2182) verordnet das Bundesministerium der Justiz im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft:

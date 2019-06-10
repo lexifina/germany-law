@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichneten Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR) einschließlich der Anlagen in ihrer am 29. Juli 1968 geänderten Fassung wird zugestimmt. Das Übereinkommen wird nachstehend, die Anlagen A und B werden in einem Anlagenband veröffentlicht.

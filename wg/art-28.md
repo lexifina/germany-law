@@ -1,0 +1,6 @@
+# Art 28
+
+(1)
+Der Bezogene wird durch die Annahme verpflichtet, den Wechsel bei Verfall zu bezahlen.
+(2)
+Mangels Zahlung hat der Inhaber, auch wenn er der Aussteller ist, gegen den Annehmer einen unmittelbaren Anspruch aus dem Wechsel auf alles, was auf Grund der Artikel 48 und 49 gefordert werden kann.

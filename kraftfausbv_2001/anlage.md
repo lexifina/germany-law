@@ -1,0 +1,74 @@
+# Anlage (zu § 4 Abs. 1)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Berufskraftfahrer/zur Berufskraftfahrerin
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1. - 18. Monat | 19. - 36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 3 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Kontrollieren, Warten und Pflegen der Fahrzeuge (§ 3 Nr. 5) | a) | Funktionsweise der Fahrzeuge, insbesondere Motor, Kraftübertragung, Fahrwerk, Aufbau, mechanische, elektrische, pneumatische und hydraulische Systeme, erklären | 17 |  |
+| b) | Betriebsanleitungen anwenden |
+| c) | Verkehrssicherheit beurteilen, insbesondere durch Sichtkontrolle bei Aufbau und Rädern, Motor und Kraftübertragungselementen, Beschilderung, Zubehör, Sicherungs- und Sicherheitsmitteln |
+| d) | Fahrzeuge und Zubehör warten und pflegen |
+| e) | Betriebsstoffe kontrollieren, wechseln, auffüllen und der Entsorgung zuführen |
+| f) | Dichtheit der Systeme sowie Funktionsfähigkeit von elektrischen Anlagen, Kontrolleinrichtungen und Bremsanlagen prüfen |  | 15 |
+| g) | Übernahme- und Abfahrtkontrolle durchführen |
+| h) | Arbeitsplatz ergonomisch einrichten |
+| i) | Fehler und Mängel feststellen, beschreiben und Maßnahmen zu deren Beseitigung ergreifen |
+| 6 | Vorbereiten und Durchführen der Beförderung (§ 3 Nr. 6) | a) | Fahrzeuge und Hilfsmittel dem Verwendungszweck zuordnen | 6 |  |
+| b) | An- und Aufbauteile anbringen und abnehmen |
+| c) | transportspezifische Skizzen anfertigen |  | 20 |
+| d) | Transportgut oder Gepäck annehmen, nach Art und Menge sowie hinsichtlich offener Mängel prüfen; bei Beanstandungen Maßnahmen einleiten |
+| e) | Fahrgastsicherheit feststellen oder Fahrzeugbeladung und Ladesicherung unter Berücksichtigung der Gewichtsverteilung und Höchstladung planen und durchführen |
+| f) | ergonomische Arbeitsweisen anwenden |
+| g) | Fahrzeug- und Beförderungspapiere auf Gültigkeit und Vollständigkeit prüfen |
+| h) | Beförderung sicher und wirtschaftlich durchführen und Maßnahmen bei besonderen Vorkommnissen ergreifen |
+| 7 | Verkehrssicherheit, Führen von Fahrzeugen auf öffentlichen Straßen (§ 3 Nr. 7) | a) | Einfluss physikalischer und fahrtechnischer Parameter auf die Verkehrssicherheit beurteilen |  | 22 |
+| b) | Fahrverhalten entsprechend den Gefahrenquellen im Straßenverkehr ausrichten |
+| c) | Kontrollinstrumente ablesen und bedienen, Informationen auswerten und Maßnahmen ergreifen |
+| d) | Faktoren, die die Fahrtüchtigkeit beeinträchtigen, beachten |
+| e) | Fahrzeugkombination und Sattelkraftfahrzeug der Klasse CE mit einer Mindestlänge von 16 m oder Fahrzeuge der Klasse D mit einer Mindestlänge von 11,80 m auf öffentlichen Straßen innerhalb und außerhalb geschlossener Ortschaften sicher und wirtschaftlich führen |
+| 8 | Rechtsvorschriften im Straßenverkehr (§ 3 Nr. 8) | a) | Sozialvorschriften einhalten | 6*) |  |
+| b) | Verkehrsspezifische Rechtsvorschriften im Inland und in den Ziel- und Durchfahrtsländern einhalten |  | 11*) |
+| c) | beförderungsspezifische Vorschriften einhalten |
+| 9 | Kundenorientiertes Verhalten (§ 3 Nr. 9) | a) | Gespräche situationsbezogen führen | 6 |  |
+| b) | fremdsprachige Fachbegriffe anwenden |
+| c) | Kommunikationsformen situationsbezogen anwenden |  | 6 |
+| d) | Möglichkeiten der Konfliktregelung anwenden |
+| e) | betriebliche Erfordernisse und Kundenwünsche in Einklang bringen, dabei Belange mobilitätseingeschränkter Fahrgäste, insbesondere von Menschen mit Behinderungen, berücksichtigen |
+| 10 | Verhalten nach Unfällen und Zwischenfällen (§ 3 Nr. 10) | a) | Unfallstellen, Gefahrenstellen und Fahrzeuge absichern | 6 |  |
+| b) | Maßnahmen der ersten Hilfe leisten |
+| c) | frei werdende Stoffe hinsichtlich der Umweltgefährdung und Sicherheit beurteilen sowie Maßnahmen ergreifen |
+| d) | Unfälle und Zwischenfälle melden, insbesondere Angaben zu Verletzten, Schäden und Gefahren machen |
+| e) | Spuren sichern, Unfallskizze und Unfallbericht anfertigen |
+| 11 | Betriebliche Planung und Logistik (§ 3 Nr. 11) | a) | Funktion des Betriebes in der logistischen Kette beachten | 25 |  |
+| b) | Arbeitsaufträge unter Beachtung betrieblicher Vorgaben in Arbeitsschritte umsetzen |
+| c) | Straßenkarten, Straßenpläne sowie digitale Systeme anwenden |
+| d) | Informations- und Kommunikationstechniken anwenden |
+| e) | Informationen für die Fahrtenplanung beschaffen und auswerten |
+| f) | Termine planen und abstimmen |
+| g) | Einsatz von Personal und Sachmitteln planen |
+| h) | Fahrten unter wirtschaftlichen Aspekten planen und organisieren |
+| 12 | Beförderungsbezogene Kostenrechnung und Vertragsabwicklung (§ 3 Nr. 12) | a) | Einflussfaktoren von Betriebskosten der Fahrzeuge berücksichtigen | 12 |  |
+| b) | formalisierte Beförderungsverträge abschließen |
+| c) | Abrechnungen durchführen |
+| d) | Erbrachte Leistungen dokumentieren |
+| 13 | Qualitätssichernde Maßnahmen (§ 3 Nr. 13) | a) | Ziele, Aufgaben und Bedeutung qualitätssichernder Maßnahmen anhand betrieblicher Beispiele erläutern |  | 4*) |
+| b) | qualitätssichernde Maßnahmen im eigenen Arbeitsbereich ausführen, insbesondere zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen |
+*) Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.

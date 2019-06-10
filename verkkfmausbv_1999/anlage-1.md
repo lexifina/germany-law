@@ -1,0 +1,132 @@
+# Anlage 1 (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im
+Eisenbahn- und Straßenverkehr/zur Kauffrau im
+Eisenbahn- und Straßenverkehr
+
+(Fundstelle: BGBl. I 1999, 1589 - 1593)
+- Sachliche Gliederung -
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 3 Nr. 1) |  |  |
+| 1.1 | Aufgaben, Struktur und Rechtsform (§ 3 Nr. 1.1) | a) | Zielsetzung, Geschäftsfelder, Aktivitäten sowie Stellung des Ausbildungsbetriebes am Markt darstellen |
+| b) | Rechtsform und Struktur des Ausbildungsbetriebes erläutern |
+| c) | die Bedeutung der Zusammenarbeit im Bereich von Transportdienstleistungen für den Ausbildungsbetrieb herausstellen |
+| d) | Zusammenarbeit des Ausbildungsbetriebes mit Behörden, Wirtschaftsorganisationen und Berufsvertretungen darstellen |
+| 1.2 | Berufsbildung, arbeits- und sozialrechtliche Vorschriften(§ 3 Nr. 1.2) | a) | die Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und den Beitrag der Beteiligten im dualen System beschreiben |
+| b) | Zusammenhang zwischen der Ausbildungsordnung und dem betrieblichen Ausbildungsplan darstellen |
+| c) | berufliche Fortbildungsmöglichkeiten sowie deren Nutzen für die persönliche und berufliche Entwicklung beurteilen |
+| d) | gesetzliche, tarifvertragliche und betriebliche Arbeitszeitregelungen voneinander abgrenzen |
+| e) | Rechte und Pflichten aus dem Arbeitsvertrag erläutern |
+| f) | die für das Arbeitsverhältnis geltenden arbeits- und sozialrechtlichen Bestimmungen sowie wichtige tarifvertragliche Regelungen erläutern |
+| g) | die Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungs- oder personalvertretungsrechtlicher Organe erklären |
+| 1.3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 1.3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.4 | Umweltschutz (§ 3 Nr. 1.4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Arbeitsorganisation, Informations- und Kommunikationssysteme (§ 3 Nr. 2) |  |  |
+| 2.1 | Arbeitsorganisation (§ 3 Nr. 2.1) | a) | die Ablauforganisation im Ausbildungsbetrieb beschreiben |
+| b) | Möglichkeiten der Arbeitsplatz- und Arbeitsraumgestaltung unter Berücksichtigung ergonomischer Grundsätze am Beispiel eines Arbeitsplatzes darstellen |
+| c) | betriebliche Arbeits- und Organisationsmittel handhaben und Informationsquellen nutzen |
+| d) | Lern- und Arbeitstechniken aufgabenorientiert einsetzen |
+| e) | Aufgabenerledigung situationsgerecht strukturieren |
+| f) | Zusammenarbeit aktiv gestalten und ausgewählte Aufgaben teamorientiert bearbeiten |
+| 2.2 | Informations- und Kommunikationssysteme(§ 3 Nr. 2.2) | a) | Informations- und Kommunikationssysteme aufgabenorientiert einsetzen |
+| b) | Informationen und Daten erfassen, verarbeiten und für den Einsatz in Geschäftsvorgängen aufbereiten |
+| 2.3 | Datenschutz und Datensicherheit (§ 3 Nr. 2.3) | a) | Regelungen zum Datenschutz anwenden |
+| b) | Daten sichern und pflegen |
+| 3 | Markt für Beförderungsleistungen (§ 3 Nr. 3) | a) | Verkehrswege, Verkehrsmittel und Verkehrsverbindungen ermitteln, beurteilen und dokumentieren |
+| b) | Leistungsangebote verschiedener Verkehrsunternehmen gegenüberstellen und bewerten |
+| c) | Vorteile der Verknüpfung verschiedener Verkehrsmittel berücksichtigen |
+| d) | Verkehrsmittel im Hinblick auf Umweltschutz und Ressourcennutzung beurteilen |
+| e) | Markt- und Wettbewerbsbedingungen des Verkehrsmarktes in Beratung und Verkauf berücksichtigen |
+| 4 | Verkehrsorganisation (§ 3 Nr. 4) |  |  |
+| 4.1 | Produktionsplanung und -prozesse (§ 3 Nr. 4.1) | a) | Produktionsprozesse in Transport- und Verkehrsinfrastrukturunternehmen darstellen |
+| b) | Abhängigkeiten der Transportprozesse von der Verkehrsinfrastruktur analysieren |
+| c) | Planungsansätze für die Durchführung von Infrastrukturmaßnahmen und Transporten bei der Konzeption von Produkten berücksichtigen |
+| d) | Umlaufpläne von Fahrzeugen nach Kundenwünschen und betriebswirtschaftlichen Gesichtspunkten erstellen |
+| e) | Transporte und logistische Leistungen anhand von Kennzahlen und Leistungsdaten planen |
+| 4.2 | Transportmittel und Transportketten (§ 3 Nr. 4.2) | a) | Transportmittel und Fahrzeugbestände erfassen, disponieren und kontrollieren |
+| b) | Fahrplannetze, Tourenpläne, Routenpläne bearbeiten |
+| 4.3 | Qualitätsmanagement (§ 3 Nr. 4.3) | a) | Auswirkungen des Qualitätsmanagements anhand betrieblicher Beispiele für den Arbeits- und Transportprozeß erläutern |
+| b) | Kundenorientierung bei der Gestaltung von Geschäftsprozessen berücksichtigen |
+| c) | Maßnahmen zur Qualitätssicherung durchführen |
+| d) | Qualität von Daten und Statistiken sichern |
+| 5 | Absatz (§ 3 Nr. 5) |  |  |
+| 5.1 | Marketing (§ 3 Nr. 5.1) | a) | Marketinginstrumente anwenden |
+| b) | Marktdaten erheben, analysieren und aufbereiten |
+| c) | Werbung und verkaufsfördernde Maßnahmen des Ausbildungsbetriebes mit denen der Mitbewerber vergleichen |
+| d) | bei Werbung und verkaufsfördernden Maßnahmen mitwirken; Werbematerial kundenorientiert einsetzen |
+| e) | Erfolgskontrollen für verkaufsfördernde Maßnahmen durchführen |
+| 5.2 | Entwickeln und Anbieten von Leistungen(§ 3 Nr. 5.2) | a) | die Wechselwirkung zwischen Kundenwunsch und betrieblichen Möglichkeiten bei der Gestaltung von Angeboten berücksichtigen |
+| b) | die Abhängigkeiten der Reise-, Dienst- und Transportleistungen von Infrastruktur und Personal des Ausbildungsbetriebes aufzeigen |
+| c) | Marktdaten bei der Entwicklung von Reise-, Dienstleistungs- und Transportangeboten umsetzen |
+| d) | an der Optimierung von Infrastrukturfaktoren nach Kundenerfordernissen und Verkehrsströmen mitwirken |
+| 5.3 | Preise und Preiskalkulation (§ 3 Nr. 5.3) | a) | Zusammenhänge und Abhängigkeiten der Preispolitik des ausbildenden Betriebes im Wettbewerb beschreiben |
+| b) | bei der Planung, Durchführung und Kontrolle von Maßnahmen der Preis- und Distributionspolitik mitwirken |
+| 5.4 | Verträge und Vereinbarungen (§ 3 Nr. 5.4) | a) | allgemeine Geschäfts- und Zahlungsbedingungen anwenden |
+| b) | Verträge und Vereinbarungen vorbereiten |
+| c) | Nutzungsverträge für Infrastrukturanlagen bearbeiten |
+| d) | Ausgleichs- bzw. Förderanträge bearbeiten |
+| 5.5 | Bearbeiten von Kundenaufträgen (§ 3 Nr. 5.5) | a) | Kundenaufträge erfassen, Leistungsdaten und Lieferumfang festlegen sowie Transportlogistik nutzen |
+| b) | Transporte und Infrastrukturleistungen anhand von Planungsdaten und Kennzahlen überwachen und bei Unregelmäßigkeiten nachsteuern |
+| c) | Zusatzleistungen für Transporte und Infrastruktur abrufen |
+| d) | Leistungen abrechnen |
+| 5.6 | Haftung und Schadensregulierung (§ 3 Nr. 5.6) | a) | Haftungsbedingungen anwenden |
+| b) | Schadensregulierungen und Kundenreklamationen bearbeiten |
+| 6 | Kundenorientierte Kommunikation (§ 3 Nr. 6) |  |  |
+| 6.1 | Kommunikation (§ 3 Nr. 6.1) | a) | Kommunikationseinrichtungen kundenorientiert und situationsgerecht einsetzen |
+| b) | Kommunikationsregeln anwenden und zur Vermeidung von Kommunikationsstörungen beitragen |
+| c) | Informationen empfangen, aufbereiten und präsentieren |
+| d) | Gespräche situations- und zielgruppengerecht führen |
+| e) | häufig auftretende Konfliktsituationen analysieren und Problemlösungsmöglichkeiten aufzeigen |
+| 6.2 | Verkauf und Beratung (§ 3 Nr. 6.2) | a) | Kundenerwartungen ermitteln und mit Angeboten des Ausbildungsbetriebes vergleichen |
+| b) | Anfragen bearbeiten und Angebote erstellen |
+| c) | Zusatzleistungen mit den Standardleistungen des Ausbildungsbetriebes verknüpfen und anbieten |
+| d) | Kunden betreuen; Reise-, Dienst- und Transportleistungen anbieten und verkaufen |
+| 6.3 | Anwenden von Fremdsprachen bei Fachaufgaben (§ 3 Nr. 6.3) | a) | fremdsprachige Fachbegriffe anwenden |
+| b) | in typischen Situationen des Ausbildungsbetriebes in einer Fremdsprache korrespondieren und kommunizieren |
+| c) | im Ausbildungsbetrieb vorhandene fremdsprachige Informationsmaterialien nutzen |
+| 7 | Kaufmännische Steuerung (§ 3 Nr. 7) |  |  |
+| 7.1 | Rechnungswesen (§ 3 Nr. 7.1) | a) | Geschäftsvorfälle unter Beachtung der Grundsätze ordnungsgemäßer Buchführung sowie betrieblicher Bewertungsvorschriften buchen |
+| b) | Konten pflegen und Fehlbuchungen korrigieren |
+| c) | Bedeutung und Einbindung der Anlagenwirtschaft beschreiben |
+| d) | bei Jahresabschlußarbeiten mitwirken |
+| 7.2 | Kosten- und Leistungsrechnung (§ 3 Nr. 7.2) | a) | Budget verwalten und überwachen |
+| b) | interne Leistungen verrechnen |
+| c) | Daten für Kalkulationen, Plan-Ist-Vergleiche und Sonderauswertungen ermitteln |
+| 7.3 | Controlling (§ 3 Nr. 7.3) | a) | die Aufgaben des Controllings als Informations- und Steuerungsinstrument an betrieblichen Beispielen erläutern |
+| b) | Planungs- und Analyseinstrumente des Controllings anwenden |
+| c) | Präsentationsunterlagen erstellen und bei Beratungen betrieblicher Abteilungen mitwirken |
+| 7.4 | Finanzierung (§ 3 Nr. 7.4) | a) | bei der Erstellung von Finanz- und Liquiditätsplänen mitwirken |
+| b) | Zahlungsvorgänge bearbeiten |
+| c) | Vorgänge des Mahnwesens bearbeiten |
+| 8 | Einkauf und Materialwirtschaft (§ 3 Nr. 8) |  |  |
+| 8.1 | Bedarf und Einkauf (§ 3 Nr. 8.1) | a) | Bedarfsermittlung durchführen |
+| b) | Bezugsquellen ermitteln; Angebote einholen und auswerten |
+| c) | Bestellungen durchführen |
+| d) | Wareneingang bearbeiten und Rechnungsprüfung durchführen |
+| e) | Reklamationen bei Lieferungen und Leistungen bearbeiten |
+| 8.2 | Disposition und Bestandsführung(§ 3 Nr. 8.2) | a) | Material disponieren und verwalten; Materialentsorgung veranlassen |
+| b) | Lösungsansätze für logistische Abläufe entwickeln |
+| c) | Bereitstellungsverfahren anwenden |
+| 9 | Personalwirtschaft (§ 3 Nr. 9) |  |  |
+| 9.1 | Personalplanung (§ 3 Nr. 9.1) | a) | betriebliche Ziele und Aufgaben von Personalplanung, Personalbeschaffung und Personaleinsatz beschreiben |
+| b) | Einflußgrößen auf die Personalplanung berücksichtigen |
+| c) | interne und externe Personalbeschaffung vorbereiten |
+| d) | Personalstatistiken erstellen und auswerten |
+| e) | beim Personalcontrolling mitwirken |
+| f) | bei der Personalbedarfsermittlung mitwirken |
+| g) | Entgeltabrechnung unter Berücksichtigung gesetzlicher und tarifvertraglicher Regelungen vorbereiten |
+| 9.2 | Personalverwaltung (§ 3 Nr. 9.2) | a) | Personalunterlagen bearbeiten, bei der Personalaktenführung mitwirken und Bescheinigungen erstellen |
+| b) | bei Einstellung und Ausscheiden von Arbeitnehmern mitwirken |
+| c) | Personaleinsatzpläne kunden- und situationsorientiert aufstellen |
+| d) | Nachweise für Personaleinsatzplanung und Arbeitszeiterfassung führen |
+| e) | Mitarbeiter in Personalangelegenheiten beraten und betreuen |
+| 9.3 | Personalentwicklung (§ 3 Nr. 9.3) | a) | Ziele und Instrumente der Personalführung und -entwicklung im Ausbildungsbetrieb beschreiben und die eigene Beurteilung als wichtiges Instrument einordnen |
+| b) | an der Organisation und Umsetzung von Personalentwicklungs- und Personalfördermaßnahmen mitwirken |

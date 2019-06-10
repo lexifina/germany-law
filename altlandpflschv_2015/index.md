@@ -1,0 +1,15 @@
+# Verordnung über die Anwendung von Pflanzenschutzmitteln in bestimmten Gebieten von Hamburg und Niedersachsen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Allgemeine Bestimmungen für die Anwendung von Pflanzenschutzmitteln](0002.md)
+- [§ 3 Besondere Bestimmungen für die Anwendung von Pflanzenschutzmitteln](0003.md)
+- [§ 4 Aufzeichnungs- und Fortbildungspflichten](0004.md)
+- [§ 5 Einteilung der Gewässer in Expositionsklassen](0005.md)
+- [§ 6 Ergänzende Maßnahmen zur Risikominderung](0006.md)
+- [§ 7 Überwachung](0007.md)
+- [§ 8 Inkrafttreten](0008.md)
+- [Anlage 1 (zu den §§ 1 und 5 Absatz 1)Obstanbaugebiet in gewässerreichen Niederungsgebieten Hamburgs und Niedersachsens](anlage-1.md)
+- [Anlage 2 (zu § 5 Absatz 1)Muster für die Aufzeichnungen zu Anwendungen von Pflanzenschutzmitteln](anlage-2.md)
+- [Anlage 3 (zu § 5 Absatz 1, § 6)Berechnung des Risikofaktors und Einteilung in Expositionsklassen für Gewässer im Alten Land](anlage-3.md)
+- [Anlage 4 (zu § 5 Absatz 2, § 6)Maßnahmen zur Verbesserung der Expositionsklasse eines Gewässers](anlage-4.md)

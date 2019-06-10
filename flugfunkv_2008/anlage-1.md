@@ -1,0 +1,56 @@
+# Anlage 1 (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
+
+1 Prüfung für den Erwerb des BZF II
+1.1 Kenntnisse
+  Im schriftlichen Teil sind folgende Kenntnisse in deutscher Sprache nachzuweisen:
+1.1.1 rechtliche Grundlagen des mobilen Flugfunkdienstes im nationalen und internationalen Bereich;
+1.1.2 Betriebsverfahren für den Sprechfunkverkehr im mobilen Flugfunkdienst;
+1.1.3 Anwendung des Not- und Dringlichkeitsverfahrens im Sprechfunkverkehr des mobilen Flugfunkdienstes;
+1.1.4 die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich der Flugsicherung:
+1.1.4.1 Flugsicherungssystem und Luftraumorganisation in der Bundesrepublik Deutschland einschließlich Such- und Rettungsdienst (SAR);
+1.1.4.2 Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur Anwendung kommt;
+1.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für Flüge nach Sichtflugregeln einschließlich der dazu ergangenen Durchführungsverordnungen;
+1.1.4.4 Funknavigation bei Flügen nach Sichtflugregeln.
+1.2 Fertigkeiten
+  Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
+1.2.1 Vorbereitung eines Fluges nach Sichtflugregeln von und zu einem Flugplatz mit Flugverkehrskontrolle unter Verwendung amtlicher Unterlagen und Veröffentlichungen, soweit es für die Durchführung des Sprechfunkverkehrs erforderlich ist;
+1.2.2 Abwicklung eines Sprechfunkverkehrs in deutscher Sprache unter Annahme eines Fluges nach Sichtflugregeln und unter Verwendung der dafür festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie Verfahren einschließlich der Not- und Dringlichkeitsverfahren.
+2 Prüfung für den Erwerb des BZF I
+2.1 Kenntnisse gemäß 1.1; in Zusatzprüfungen für Bewerber, die Inhaber des BZF II sind, und in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich dieser Verordnung erteilt worden ist, entfällt 2.1.
+2.2 Fertigkeiten
+  Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
+2.2.1 Fertigkeiten gemäß 1.2.1;
+2.2.2 Abwicklung eines Sprechfunkverkehrs in deutscher und englischer Sprache unter Annahme eines Fluges nach Sichtflugregeln und unter Verwendung der dafür festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie Verfahren einschließlich der Not- und Dringlichkeitsverfahren; in Zusatzprüfungen für Bewerber, die Inhaber des BZF II sind, entfällt die Abwicklung eines Sprechfunkverkehrs in deutscher Sprache;
+2.2.3 Lesen eines Textes in englischer Sprache aus den Luftfahrthandbüchern (etwa 800 Schriftzeichen [Buchstaben, Ziffern und Zeichen]) mit anschließender mündlicher Übersetzung in die deutsche Sprache;
+2.2.4 in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich dieser Verordnung erteilt worden ist, sind lediglich Fertigkeiten nach 1.2 nachzuweisen.
+3 Prüfung für den Erwerb des BZF E
+3.1 Kenntnisse
+  Im schriftlichen Teil sind folgende Kenntnisse in englischer Sprache nachzuweisen:
+3.1.1 rechtliche Grundlagen des mobilen Flugfunkdienstes im nationalen und internationalen Bereich;
+3.1.2 Betriebsverfahren für den Sprechfunkverkehr im mobilen Flugfunkdienst;
+3.1.3 Anwendung des Not- und Dringlichkeitsverfahrens im Sprechfunkverkehr des mobilen Flugfunkdienstes;
+3.1.4 die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich der Flugsicherung:
+3.1.4.1 Flugsicherungssystem und Luftraumorganisation in der Bundesrepublik Deutschland einschließlich Such- und Rettungsdienst (SAR);
+3.1.4.2 Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur Anwendung kommt;
+3.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für Flüge nach Sichtflugregeln einschließlich der dazu ergangenen Durchführungsverordnungen;
+3.1.4.4 Funknavigation bei Flügen nach Sichtflugregeln.
+3.2 Fertigkeiten
+  Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
+3.2.1 Fertigkeiten gemäß 1.2.1;
+3.2.2 Abwicklung eines Sprechfunkverkehrs in englischer Sprache unter Annahme eines Fluges nach Sichtflugregeln und unter Verwendung der dafür festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie Verfahren einschließlich der Not- und Dringlichkeitsverfahren.
+4 Zusatzprüfung für den Erwerb des AZF
+4.1 Kenntnisse
+  Im schriftlichen Teil sind folgende Kenntnisse in englischer Sprache nachzuweisen:
+4.1.1 Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge nach Instrumentenflugregeln zur Anwendung kommt;
+4.1.2 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge bei Flügen nach Instrumentenflugregeln einschließlich der dazu ergangenen Durchführungsverordnungen;
+4.1.3 Funknavigation bei Flügen nach Instrumentenflugregeln einschließlich Radarverfahren;
+4.1.4 in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich dieser Verordnung erteilt worden ist, entfällt 4.1.
+4.2 Fertigkeiten
+  Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
+4.2.1 Vorbereitung eines Fluges nach Instrumentenflugregeln zwischen zwei Verkehrsflughäfen unter Verwendung amtlicher Unterlagen und Veröffentlichungen, soweit es für die Durchführung des Sprechfunkverkehrs erforderlich ist;
+4.2.2 Abwicklung eines Sprechfunkverkehrs in englischer Sprache unter Annahme eines Fluges nach Instrumentenflugregeln;
+4.2.3 in Zusatzprüfungen für Bewerber, die Inhaber des BZF II sind, Lesen eines Textes in englischer Sprache aus den Luftfahrthandbüchern (etwa 800 Schriftzeichen [Buchstaben, Ziffern und Zeichen]) mit anschließender mündlicher Übersetzung in die deutsche Sprache;
+4.2.4 in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich dieser Verordnung erteilt worden ist, sind lediglich Fertigkeiten nach 1.2 nachzuweisen.
+5 Zusatzprüfung für den Erwerb des AZF E
+5.1 Kenntnisse gemäß 4.1
+5.2 Fertigkeiten gemäß 4.2.1 und 4.2.2

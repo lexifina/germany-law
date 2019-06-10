@@ -1,0 +1,16 @@
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Pharmazie und Geprüfte Industriemeisterin – Fachrichtung Pharmazie
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses](0001.md)
+- [§ 2 Umfang der Industriemeisterqualifikation und Gliederung der Prüfung](0002.md)
+- [§ 3 Zulassungsvoraussetzungen](0003.md)
+- [§ 4 Fachrichtungsübergreifende Basisqualifikationen](0004.md)
+- [§ 5 Handlungsspezifische Qualifikationen](0005.md)
+- [§ 6 Anrechnung anderer Prüfungsleistungen](0006.md)
+- [§ 7 Bewerten der Prüfungsteile und Bestehen der Prüfung](0007.md)
+- [§ 8 Wiederholung der Prüfung](0008.md)
+- [§ 9 Zusatzqualifikationen](0009.md)
+- [§ 10 Übergangsvorschrift](0010.md)
+- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [Anlage 1 (zu § 7 Absatz 6)Muster](anlage-1.md)
+- [Anlage 2 (zu § 7 Absatz 6)Muster](anlage-2.md)

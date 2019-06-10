@@ -1,0 +1,56 @@
+# Anlage 1 (zu § 1)Gesetzliche Einheiten mit besonderem Namen
+
+|  | Einheit | Größe |
+| Nr. | Name | Zeichen |
+| 1 | 2 | 3 | 4 |
+| 1 | Ampere | A | elektrische Stromstärke |
+| 2 | Ar | a | Fläche von Grundstücken und Flurstücken |
+| 3 | Atomare Masseneinheit | u | Masse in der Atomphysik |
+| 4 | Bar | bar | Druck |
+| 5 | Barn | b | Wirkungsquerschnitt |
+| 6 | Becquerel | Bq | Aktivität einer radioaktiven Substanz |
+| 7 | Candela | cd | Lichtstärke |
+| 8 | Coulomb | C | elektrische Ladung, Elektrizitätsmenge |
+| 9 | Dioptrie | dpt | Brechwert von optischen Systemen |
+| 10 | Elektronvolt | eV | Energie in der Atomphysik |
+| 11 | Farad | F | elektrische Kapazität |
+| 12 | Gon | gon | ebener Winkel |
+| 13 | Grad | ° | ebener Winkel |
+| 14 | Grad Celsius | °C | Celsius-Temperatur |
+| 15 | Gramm | g | Masse |
+| 16 | Gray | Gy | Energiedosis, spezifische Energie, Kerma, Energiedosisindex |
+| 17 | Hektar | ha | Fläche von Grundstücken und Flurstücken |
+| 18 | Henry | H | Induktivität |
+| 19 | Hertz | Hz | Frequenz |
+| 20 | Joule | J | Energie, Arbeit, Wärmemenge |
+| 21 | Katal | kat | katalytische Aktivität |
+| 22 | Kelvin | K | thermodynamische Temperatur |
+| 23 | Kilogramm | kg | Masse |
+| 24 | Liter | l, L | Volumen |
+| 25 | Lumen | lm | Lichtstrom |
+| 26 | Lux | lx | Beleuchtungsstärke |
+| 27 | Meter | m | Länge |
+| 28 | metrisches Karat |  | Masse von Edelsteinen |
+| 29 | Millimeter-Quecksilbersäule | mmHg | Blutdruck und Druck anderer Körperflüssigkeiten |
+| 30 | Minute | ΄ | ebener Winkel |
+| 31 | Minute | min | Zeit |
+| 32 | Mol | mol | Stoffmenge |
+| 33 | Newton | N | Kraft |
+| 34 | Ohm | Ω | elektrischer Widerstand |
+| 35 | Pascal | Pa | Druck |
+| 36 | Radiant | rad | ebener Winkel |
+| 37 | Sekunde | ˝ | ebener Winkel |
+| 38 | Sekunde | s | Zeit |
+| 39 | Siemens | S | elektrischer Leitwert |
+| 40 | Sievert | Sv | Äquivalentdosis |
+| 41 | Steradiant | sr | Raumwinkel |
+| 42 | Stunde | h | Zeit |
+| 43 | Tag | d | Zeit |
+| 44 | Tesla | T | magnetische Flußdichte |
+| 45 | Tex | tex | längenbezogene Masse von textilen Fasern und Garnen |
+| 46 | Tonne | t | Masse |
+| 47 | Var | var | Blindleistung in der elektrischen Energietechnik |
+| 48 | Vollwinkel |  | ebener Winkel |
+| 49 | Volt | V | elektrisches Potential, elektrische Spannung |
+| 50 | Watt | W | Leistung, Energiestrom |
+| 51 | Weber | Wb | magnetischer Fluß |

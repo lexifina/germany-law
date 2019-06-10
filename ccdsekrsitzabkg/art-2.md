@@ -1,0 +1,3 @@
+# Art 2
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Änderungen des Abkommens unter folgenden Voraussetzungen in Kraft zu setzen. Die Änderungen müssen im Rahmen von Konsultationen zwischen den Vertragsparteien nach Artikel 6 Abs. 2 und Artikel 3 Abs. 1 dieses Abkommens in Verbindung mit Abschnitt 8 des Notenwechsels zum Abkommen zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen (BGBl. 1996 II S. 903, 917) vereinbart werden.

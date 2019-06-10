@@ -1,0 +1,15 @@
+# Verordnung über die Führung einer Bundesstatistik nach dem Prostituiertenschutzgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Umfang der Erhebungen](0001.md)
+- [§ 2 Erhebungsmerkmale für die Statistik über die Prostitutionstätigkeit](0002.md)
+- [§ 3 Erhebungsmerkmale für die Statistik über das Prostitutionsgewerbe](0003.md)
+- [§ 4 Erhebungsmerkmale für die Statistik über Prostitutionsfahrzeuge](0004.md)
+- [§ 5 Erhebungsmerkmale für die Statistik über Prostitutionsveranstaltungen](0005.md)
+- [§ 6 Hilfsmerkmale](0006.md)
+- [§ 7 Periodizität, Berichtszeitpunkt, Berichtszeitraum](0007.md)
+- [§ 8 Auskunftspflicht](0008.md)
+- [§ 9 Übermittlung, Löschung](0009.md)
+- [§ 10 Regelung für das Jahr 2017](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)

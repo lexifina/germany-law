@@ -1,0 +1,52 @@
+# Anlage 1 (zu den §§ 1 und 5 Abs. 1)
+
+Vollständiges Anwendungsverbot
+
+Fundstelle des Originaltextes: BGBl. I 2003, 1534
+| Nummer | Stoff |
+| 1 | 2 |
+| 1 | Acrylnitril |
+| 2 | Aldrin |
+| 3 | Aramit |
+| 4 | Arsenverbindungen |
+| 5 | Atrazin |
+| 6 | Binapacryl |
+| 7 | Bleiverbindungen |
+| 8 | Bromacil |
+| 9 | Cadmiumverbindungen |
+| 10 | Captafol |
+| 11 | Carbaryl |
+| 12 | Chlordan |
+| 13 | Chlordecone (Kepone) |
+| 14 | Chlordimeform |
+| 15 | Chloroform |
+| 16 | Chlorpikrin |
+| 17 | Crimidin |
+| 18 | DDT (1,1,1-Trichlor-2,2-bis(4-chlorphenyl) -ethan und seine Isomeren) |
+| 19 | 1,2-Dibromethan |
+| 20 | 1,2-Dichlorethan |
+| 21 | 1,3-Dichlorpropen |
+| 22 | Dicofol mit einem Gehalt von weniger als 780 g je kg p.p'-Dicofol oder mehr als 1 g je kg DDT oder DDT-Verbindungen |
+| 23 | Dieldrin |
+| 24 | Dinoseb, seine Acetate und Salze |
+| 25 | Endrin |
+| 26 | Ethylenoxid |
+| 27 | Fluoressigsäure und ihre Derivate |
+| 28 | HCH, technisch |
+| 29 | Heptachlor |
+| 30 | Hexachlorbenzol |
+| 31 | Isobenzan |
+| 32 | Isodrin |
+| 33 | Kelevan |
+| 34 | Lindan |
+| 35 | Maleinsäurehydrazid und seine Salze, andere als Cholin-, Kalium- und Natriumsalz |
+| 36 | Maleinsäurehydrazid-Cholin-, -Kalium- und Natriumsalz mit einem Gehalt von mehr als 1 mg je kg freies Hydrazin, ausgedrückt als Säureäquivalent |
+| 37 | Morfamquat |
+| 38 | Nitrofen |
+| 39 | Pentachlorphenol |
+| 40 | Polychlorterpene |
+| 41 | Quecksilberverbindungen |
+| 42 | Quintozen |
+| 43 | Selenverbindungen |
+| 44 | 2,4,5-T |
+| 45 | Tetrachlorkohlenstoff |

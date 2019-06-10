@@ -1,0 +1,46 @@
+# Anlage 5 (zu den §§ 14 und 15)Kriterien für die Festlegung der Mindestzahl der Probenahmestellen für ortsfeste Messungen der Werte für Schwefeldioxid, Stickstoffdioxid und Stickstoffoxide, Partikel (PM10, PM2,5), Blei, Benzol und Kohlenmonoxid in der Luft
+
+A. Mindestzahl der Probenahmestellen für ortsfeste Messungen zur Beurteilung der Einhaltung von Immissionsgrenzwerten für den Schutz der menschlichen Gesundheit und von Alarmschwellen in Gebieten und Ballungsräumen, in denen ortsfeste Messungen die einzige Informationsquelle darstellen
+  1. Diffuse Quellen
+    | Bevölkerung des Ballungsraumsoder Gebiets (in Tausend) | Falls der maximale Wert die obere Beurteilungsschwelle überschreitet | Falls der maximale Wert zwischen der oberen und der unteren Beurteilungsschwelle liegt |
+    | Schadstoffe außer PM | PM (Summe aus PM10 und PM2,5) | Schadstoffe außer PM | PM2) (Summe aus PM10 und PM2,5) |
+    | 0 – 249 | 1 | 2 | 1 | 1 |
+    | 250 – 499 | 2 | 3 | 1 | 2 |
+    | 500 – 749 | 2 | 3 | 1 | 2 |
+    | 750 – 999 | 3 | 4 | 1 | 2 |
+    | 1 000 – 1 499 | 4 | 6 | 2 | 3 |
+    | 1 500 – 1 999 | 5 | 7 | 2 | 3 |
+    | 2 000 – 2 749 | 6 | 8 | 3 | 4 |
+    | 2 750 – 3 749 | 7 | 10 | 3 | 4 |
+    | 3 750 – 4 749 | 8 | 11 | 3 | 6 |
+    | 4 750 – 5 999 | 9 | 13 | 4 | 6 |
+    | ≥ 6 000 | 10 | 15 | 4 | 7 |
+  2. Punktquellen
+    Zur Beurteilung der Luftverschmutzung in der Nähe von Punktquellen ist die Zahl der Probenahmestellen für ortsfeste Messungen zu berechnen. Dabei sind zu berücksichtigen:
+    – die Emissionsdichte,
+    – die wahrscheinliche Verteilung der Luftschadstoffe,
+    – die mögliche Exposition der Bevölkerung.
+B. Mindestzahl der Probenahmestellen für ortsfeste Messungen, um zu beurteilen, ob die Vorgaben für die Reduzierung der PM2,5-Exposition zum Schutz der menschlichen Gesundheit eingehalten werden
+  Für diesen Zweck ist eine Probenahmestelle pro Million Einwohner und Einwohnerinnen für Ballungsräume und weitere städtische Flächen mit mehr als 100 000 Einwohnern und Einwohnerinnen vorzusehen. Diese Probenahmestellen können mit den Probenahmestellen nach Abschnitt A identisch sein. Die Länder betreiben mindestens folgende Anzahl an Probenahmestellen:
+  | Land | Anzahl der Probenahmestellen |
+  | Baden-Württemberg | 2 |
+  | Bayern | 3 |
+  | Berlin | 3 |
+  | Brandenburg | 2 |
+  | Bremen | 1 |
+  | Hamburg | 2 |
+  | Hessen | 3 |
+  | Mecklenburg-Vorpommern | 2 |
+  | Niedersachsen | 2 |
+  | Nordrhein-Westfalen | 9 |
+  | Rheinland-Pfalz | 1 |
+  | Saarland | 1 |
+  | Sachsen | 1 |
+  | Sachsen-Anhalt | 2 |
+  | Schleswig-Holstein | 1 |
+  | Thüringen | 1. |
+  Die Länder teilen dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit die konkreten Standorte der betriebenen Probenahmestellen mit.
+C. Mindestzahl der Probenahmestellen für ortsfeste Messungen, um zu beurteilen, ob die kritischen Werte zum Schutz der Vegetation in anderen Gebieten als Ballungsräumen eingehalten werden
+  | Falls der maximale Wert die obere Beurteilungsschwelle überschreitet | Falls der maximale Wert zwischen der oberen und der unteren Beurteilungsschwelle liegt |
+  | 1 Station je 20 000 km2 | 1 Station je 40 000 km2 |
+  Im Fall von Inselgebieten sollte die Zahl der Probenahmestellen für ortsfeste Messungen so berechnet werden, dass die wahrscheinliche Verteilung der Luftschadstoffe und die mögliche Exposition der Vegetation berücksichtigt werden.

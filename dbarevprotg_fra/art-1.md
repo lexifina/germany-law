@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Bonn am 9. Juni 1969 unterzeichneten Revisionsprotokoll zu dem am 21. Juli 1959 in Paris unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern (Bundesgesetzbl. 1961 II S. 397) wird zugestimmt. Das Revisionsprotokoll wird nachstehend veröffentlicht.

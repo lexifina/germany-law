@@ -1,0 +1,18 @@
+# Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen
+
+- [§ 1 Zweck des Gesetzes](0001.md)
+- [§ 2 Anwendungsbereich](0002.md)
+- [§ 3 Begriffsbestimmungen](0003.md)
+- [§ 4 Einfuhr und Verwendung embryonaler Stammzellen](0004.md)
+- [§ 5 Forschung an embryonalen Stammzellen](0005.md)
+- [§ 6 Genehmigung](0006.md)
+- [§ 7 Zuständige Behörde](0007.md)
+- [§ 8 Zentrale Ethik-Kommission für Stammzellenforschung](0008.md)
+- [§ 9 Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung](0009.md)
+- [§ 10 Vertraulichkeit von Angaben](0010.md)
+- [§ 11 Register](0011.md)
+- [§ 12 Anzeigepflicht](0012.md)
+- [§ 13 Strafvorschriften](0013.md)
+- [§ 14 Bußgeldvorschriften](0014.md)
+- [§ 15 Bericht](0015.md)
+- [§ 16 Inkrafttreten](0016.md)

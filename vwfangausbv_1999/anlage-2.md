@@ -1,0 +1,105 @@
+# Anlage 2 (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Verwaltungsfachangestellten/zur Verwaltungsfachangestellten
+- Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 1999, S. 1036 - 1037)
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
+1.1 Struktur, Stellung und Aufgaben des Ausbildungsbetriebes,
+1.2 Berufsbildung,
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele a bis d,
+4 Kommunikation und Kooperation, Lernziele b bis d,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele e und f,
+3 Informations- und Kommunikationssysteme,
+5.2 Haushaltswesen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele c und d,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
+1.4 Umweltschutz,
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele g und h,
+5.4 Beschaffung
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe, Lernziele c bis f,
+3 Informations- und Kommunikationssysteme
+fortzuführen.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
+5.3 Rechnungswesen, Lernziele a, c und d,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe,
+3 Informations- und Kommunikationssysteme,
+5.4 Beschaffung
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildpositionen
+4 Kommunikation und Kooperation, Lernziele a, e und f,
+6 Personalwesen
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
+3 Informations- und Kommunikationssysteme
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 Abschnitt I der Berufsbildposition
+7 Allgemeines Verwaltungsrecht und Verwaltungsverfahren
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+1.4 Umweltschutz,
+2 Arbeitsorganisation und bürowirtschaftliche Abläufe,
+3 Informations- und Kommunikationssysteme
+fortzuführen.
+Fachrichtung Bundesverwaltung
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten ist schwerpunktmäßig die Vermittlung der Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
+I.1) 5.1
+  Betriebliche Organisation,
+I. 5.3 Rechnungswesen, Lernziele b und e,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.4
+  Umweltschutz,
+I. 2
+  Arbeitsorganisation und bürowirtschaftliche Abläufe,
+I. 3
+  Informations- und Kommunikationssysteme,
+I. 5.3 Rechnungswesen, Lernziele a, c und d,
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
+II.2) 1.3
+  Personalwirtschaft
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.3
+  Sicherheit und Gesundheitsschutz bei der Arbeit,
+I. 2
+  Arbeitsorganisation und bürowirtschaftliche Abläufe,
+I. 3
+  Informations- und Kommunikationssysteme,
+I. 6
+  Personalwesen
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 1 der Berufsbildpositionen
+II. 1.1
+  Fallbezogene Rechtsanwendung,
+II. 1.2 Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 3
+  Informations- und Kommunikationssysteme,
+I. 4
+  Kommunikation und Kooperation,
+I. 7
+  Allgemeines Verwaltungsrecht und Verwaltungsverfahren
+fortzuführen.
+-----
+1) Abschnitt I
+2) Abschnitt II

@@ -1,0 +1,8 @@
+# Art 11
+
+(1)
+Dieses Gesetz tritt mit Ausnahme der Artikel 2 bis 9 am Tage nach seiner Verkündung in Kraft.
+(2)
+Artikel 2 bis 9 dieses Gesetzes treten an dem Tag in Kraft, an dem das Übereinkommen (Neufassung) für die Bundesrepublik Deutschland in Kraft tritt.
+(3)
+Der Tag, an dem das Übereinkommen (Neufassung) nach Artikel XVII der bisherigen Fassung für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

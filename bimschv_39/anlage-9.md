@@ -1,0 +1,14 @@
+# Anlage 9 (zu § 18)Kriterien zur Bestimmung der Mindestzahl von Probenahmestellen für die ortsfesten Messungen von Ozonwerten
+
+A. Mindestzahl der Probenahmestellen für kontinuierliche ortsfeste Messungen zur Beurteilung der Einhaltung der Zielwerte, der Informations- und Alarmschwellen und der Erreichung der langfristigen Ziele, soweit solche Messungen die einzige Informationsquelle darstellen
+  | Einwohnerzahl (× 1 000) | Ballungsraum | Andere Gebiete1 | Ländlicher Hintergrund |
+  | < 250 |  | 1 | 1 Station/50 000 km2 (als mittlere Dichte für alle Gebiete pro Land) |
+  | < 500 | 1 | 2 |
+  | < 1 000 | 2 | 2 |
+  | < 1 500 | 3 | 3 |
+  | < 2 000 | 3 | 4 |
+  | < 2 750 | 4 | 5 |
+  | < 3 750 | 5 | 6 |
+  | > 3 750 | 1 zusätzliche Station je 2 Mio. Einwohner | 1 zusätzliche Station je 2 Mio. Einwohner |
+B. Mindestzahl der Probenahmestellen für ortsfeste Messungen in Gebieten und Ballungsräumen, in denen die langfristigen Ziele erreicht werden
+  Die Zahl der Ozon-Probenahmestellen muss in Verbindung mit den zusätzlichen Beurteilungsmethoden – wie Luftqualitätsmodellierung und mit am gleichen Standort durchgeführten Stickstoffdioxidmessungen – ausreichen, um den Trend der Ozonbelastung zu prüfen und zu untersuchen, ob die langfristigen Ziele erreicht wurden. Die Zahl der Stationen in Ballungsräumen und in anderen Gebieten kann auf ein Drittel der in Abschnitt A angegebenen Zahl verringert werden. Wenn die Informationen aus ortsfesten Stationen die einzige Informationsquelle darstellen, muss zumindest eine Messstation beibehalten werden. Hat dies in Gebieten, in denen zusätzliche Beurteilungsmethoden eingesetzt werden, zur Folge, dass in einem Gebiet keine Station mehr vorhanden ist, so ist durch Koordinierung mit den Stationen der benachbarten Gebiete sicherzustellen, dass ausreichend beurteilt werden kann, ob die langfristigen Ziele hinsichtlich der Ozonwerte erreicht werden. Die Anzahl der Stationen im ländlichen Hintergrund muss 1 Station je 100 000 Quadratkilometer betragen.

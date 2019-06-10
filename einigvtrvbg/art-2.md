@@ -1,0 +1,3 @@
+# Art 2
+
+Die vertragschließenden Seiten geben ihrer Absicht Ausdruck, gemäß Beschluß der Volkskammer der Deutschen Demokratischen Republik vom 14. April 1990 für eine gerechte Entschädigung materieller Verluste der Opfer des NS-Regimes einzutreten. In der Kontinuität der Politik der Bundesrepublik Deutschland ist die Bundesregierung bereit, mit der Claims Conference Vereinbarungen über eine zusätzliche Fondslösung zu treffen, um Härteleistungen an die Verfolgten vorzusehen, die nach den gesetzlichen Vorschriften der Bundesrepublik Deutschland bisher keine oder nur geringfügige Entschädigungen erhalten haben.

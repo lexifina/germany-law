@@ -1,0 +1,303 @@
+# Anlage 3 (zu § 5 Absatz 1)Sachgebiete für den praktischen Unterricht für alle Klassen
+
+1 Fahrtechnische Vorbereitung der Fahrt
+1.1 Überprüfung der Verkehrs- und Betriebssicherheit des Fahrzeugs
+1.2 Sitzposition
+1.3 Einstellung der Spiegel
+1.4 Lenkradhaltung (-führung); Lenkerhaltung
+1.5 Anlegen und Lösen des Sicherheitsgurtes; Helm Auf- und Absetzen
+1.6 Einstellung der Kopfstützen
+1.7 Bedienungseinrichtungen
+2 Verhalten beim Anfahren in der Ebene, Steigungen und Gefällstrecken
+3 Gangwechsel
+  (Besitzt das Ausbildungsfahrzeug eine automatische Kraftübertragung, muss der Bewerber mit deren Besonderheiten vertraut gemacht werden.)
+3.1 Umweltschonendes Anpassen der Getriebegänge an Verkehrslage, Straßenzustand und Straßenverlauf
+3.2 Schalten in Steigungen und Gefällstrecken, auch unter Umweltgesichtspunkten
+4 Fahrbahnbenutzung
+4.1 Verhalten auf Straßen mit einem oder mehreren Fahrstreifen
+4.2 Verhalten an Haltestellen öffentlicher Verkehrsmittel
+5 Abbiegen und Fahrstreifenwechsel
+5.1 Abbiegen an Einmündungen und Kreuzungen
+5.2 Abbiegen in Grundstücke
+5.3 Einordnen zum Abbiegen
+5.4 Fahrstreifenwechsel ohne Abbiegevorgang
+6 Rückwärtsfahren und Wenden
+6.1 Richtige Körperhaltung während der Rückwärtsfahrt
+6.2 Rückwärtsfahren mit und ohne Fahrtrichtungsänderung
+6.3 Wenden
+7 Beobachtung des Verkehrsraums, des Verlaufs und der Beschaffenheit der Fahrbahn sowie Beachtung der Verkehrszeichen und -einrichtungen
+8 Fahrgeschwindigkeit
+8.1 Umweltbewusstes Angleichen der Fahrgeschwindigkeit an Straßen-, Verkehrs-, Sicht- und Wetterverhältnisse
+8.2 Abstandhalten vom vorausfahrenden Fahrzeug (auch bei geringer Geschwindigkeit)
+8.3 Fahrgeschwindigkeit innerhalb geschlossener Ortschaften
+8.4 Fahrgeschwindigkeit außerhalb geschlossener Ortschaften
+8.5 Fahrgeschwindigkeit auf Autobahnen und Kraftfahrstraßen
+8.6 Bremsen in Gefahrensituationen
+9 Autobahnen und Kraftfahrstraßen
+9.1 Einfahren, Ausfahren
+9.2 Seitenstreifen
+9.3 Beschleunigungsstreifen und Verzögerungsstreifen
+9.4 Parkplätze, Raststätte und Tankstellen
+10 Überholen
+  (Überholvorgänge sind auch außerhalb geschlossener Ortschaften sowie auf Autobahnen und Kraftfahrstraßen zu üben)
+11 Verhalten an Kreuzungen, Einmündungen und Kreisverkehren
+11.1 Ausreichende Beobachtung der kreuzenden Straße und rechtzeitige Anpassung der Geschwindigkeit an die Sichtverhältnisse
+11.2 Heranfahren an die bevorrechtigte Straße
+11.3 Einfahren in Vorfahrtstraßen
+11.4 Bremsbereitschaft
+11.5 Verhalten an Kreuzungen und Einmündungen mit Regelung durch Polizeibeamte oder Lichtzeichen
+11.6 Verhalten an Kreuzungen und Einmündungen mit Verkehrszeichen
+11.7 Verhalten an Kreuzungen und Einmündungen ohne Verkehrszeichen
+11.8 Verhalten beim Befahren von Kreisverkehren
+11.9 Verhalten an Bahnübergängen
+12 Verhalten gegenüber Fußgängern und Radfahrern
+12.1 beim Abbiegen
+12.2 beim Geradeausfahren
+12.3 an Fußgängerüberwegen
+12.4 in verkehrsberuhigten Bereichen
+12.5 an Haltestellen öffentlicher Verkehrsmittel
+12.6 an Schulen und bei Verkehrszeichen 136 (Kinder)
+13 Halten und Parken
+13.1 Halten in Steigungen und in Gefällstrecken
+13.2 Einfahren in eine Parklücke
+13.2.1 zwischen hintereinanderstehenden Fahrzeugen
+13.2.2 zwischen nebeneinanderstehenden Fahrzeugen
+13.3 Maßnahmen beim Verlassen des Fahrzeugs
+13.4 Maßnahmen zur Sicherung liegen gebliebener Fahrzeuge
+14 Vorausschauendes Fahren
+14.1 Beobachtung anderer Verkehrsteilnehmer
+14.2 Beobachtung des Fahrverhaltens der anderen Fahrzeugführer
+14.3 Beobachtung des Verkehrsraumes
+15 Verhalten in komplizierten Verkehrssituationen
+16 Vermeiden risikoreicher Verkehrssituationen
+17 Klassenspezifischer Ausbildungsstoff für die Klassen A1, A2, A und AM
+17.1 Sicherheitskontrolle
+  Überprüfung des ordnungsgemäßen Zustandes von
+  – Reifen (z. B. Beschädigungen, Profiltiefe, Reifendruck)
+  – Not-Aus-Schalter
+  – Antriebselementen (Kette, Belt-Drive, Kardan)
+  Scheinwerfer, Leuchten, Blinker, Hupe
+  – Ein- und Ausschalten
+  – Funktion prüfen von:
+    – Standlicht
+    – Abblendlicht
+    – Fernlicht
+    – Schlussleuchte(n) mit Kennzeichenbeleuchtung
+    – Nebelschlussleuchte
+    – Warnblinkanlage
+    – Blinker
+    – Hupe
+    – Bremsleuchte
+  – Kontrollleuchten benennen
+  – Rückstrahler Vorhandensein
+  – Beschädigung
+  Lenkung
+  – Lenkschloss entriegeln
+  Bremsanlage
+  Funktionsprüfung der Bremsen
+  Flüssigkeitsstände
+  – Motoröl
+  – Kühlmittel
+17.2 Übungen zur Fahrzeugbeherrschung
+17.2.1 Fahren eines Slaloms mit Schrittgeschwindigkeit
+17.2.2 Abbremsen mit höchstmöglicher Verzögerung
+17.2.3 Ausweichen ohne Abbremsen
+17.2.4 Ausweichen nach Abbremsen
+17.2.5 Slalom
+17.2.6 Langer Slalom
+17.2.7 Fahren mit Schrittgeschwindigkeit geradeaus
+17.2.8 Stop and Go
+17.2.9 Kreisfahrt
+17.3 Klassenspezifische Besonderheiten
+17.3.1 Fahren im Fahrstreifen
+17.3.2 Fahren in Kurven
+17.3.3 Fahren mit Schutzkleidung
+18 Klassenspezifischer Ausbildungsstoff für die Klassen B
+18.1 Sicherheitskontrolle
+  – Reifen (z. B. Beschädigungen, Profiltiefe, Reifendruck)
+  – Scheinwerfer, Leuchten, Blinker, Hupe
+  – Ein- und Ausschalten
+  – Funktion prüfen von:
+    – Standlicht
+    – Abblendlicht
+    – Fernlicht
+    – Schlussleuchte(n) mit Kennzeichenbeleuchtung
+    – Nebelschlussleuchte
+    – Warnblinkanlage
+    – Blinker
+    – Hupe
+    – Bremsleuchte
+  – Kontrollleuchten benennen
+  – Rückstrahler
+    – Vorhandensein
+    – Beschädigung
+  – Lenkung
+    – Lenkschloss entriegeln
+    – Überprüfung des Lenkspiels
+  – Bremsanlage
+    Funktionsprüfung von
+    – Betriebsbremse
+    – Feststellbremse
+  – Flüssigkeitsstände
+    – Motoröl
+    – Kühlmittel
+    – Scheibenwaschflüssigkeit
+18.2 Übungen zur Fahrzeugbeherrschung
+18.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
+18.2.2 Rückwärtsfahren in eine Parklücke (Längsaufstellung)
+18.2.3 Einfahren in eine Parklücke (Quer- oder Schrägaufstellung)
+18.2.4 Umkehren
+18.2.5 Abbremsen mit höchstmöglicher Verzögerung
+19 Klassenspezifischer Ausbildungsstoff für Klasse C1 und C
+19.1 Sicherheitskontrollen
+19.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
+19.1.2 Zusätzliche Überprüfung
+19.1.2.1 Überprüfung der Federung/Luftfederung
+19.1.2.2 Funktionsprüfung von
+  – Betriebsbremse
+  – Feststellbremse
+19.2 Übungen zur Fahrzeugbeherrschung
+19.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
+19.2.2 Rückwärtsfahren in eine Parklücke (Längsaufstellung)
+19.2.3 Rückwärts quer oder schräg einparken
+19.2.4 Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
+19.3 Klassenspezifische Besonderheiten
+19.3.1 Kennenlernen der Gefahrenbereiche der „Toten Winkel“
+19.3.2 Nutzung von Fahrstreifen
+19.3.3 Einschätzen des besonderen Raumbedarfs
+19.3.4 Beschleunigen, Bremsen und Kurvenverfahren (Berücksichtigung des jeweiligen Beladungszustandes)
+19.3.5 Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
+19.3.6 Sicherheitsabstand
+19.3.7 Verhalten gegenüber nachfolgenden schnelleren Fahrzeugen
+19.3.8 Verhalten an Bahnübergängen
+19.3.9 Richtiger Einsatz von Betriebsbremse, Retarder und Motorbremse
+19.3.10 Ladungssicherung
+20 Klassenspezifischer Ausbildungsstoff für Klasse D1 und D
+20.1 Sicherheitskontrollen
+20.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
+20.1.2 Zusätzliche Überprüfungen Handfertigkeiten
+20.1.2.1 Erläutern oder Demonstrieren der
+  – Notausstiege
+  – Rückhalteeinrichtungen für Fahrgäste
+  – Einstiegshilfen
+20.1.2.2 Überprüfung der Federung/Luftfederung
+20.1.2.3 Funktionsprüfung von
+  – Betriebsbremse
+  – Feststellbremse
+  – Haltestellenbremse
+20.1.2.4 Richtiges Beladen der Gepäckräume
+20.2 Übungen zur Fahrzeugbeherrschung
+20.2.1 Fahren nach rechts rückwärts unter Ausnutzung einer Einmündung, Kreuzung oder Einfahrt
+20.2.2 Rückwärtsfahren in eine Parklücke (Längsaufstellung)
+20.2.3 Rückwärts quer oder schräg einparken
+20.2.4 Halten zum Ein- oder Aussteigen
+20.3 Klassenspezifische Besonderheiten
+20.3.1 Kennenlernen der Gefahrenbereiche der „Toten Winkel“
+20.3.2 Nutzung von Fahrstreifen
+20.3.3 Einschätzen des besonderen Raumbedarfs
+20.3.4 Beschleunigen, Bremsen und Kurvenfahren (Berücksichtigung stehender Fahrgäste)
+20.3.5 Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
+20.3.6 Vorausschauendes Fahren, behutsames Beschleunigen und gefühlvolles Bremsen
+20.3.7 Sicherheitsabstand
+20.3.8 Verhalten gegenüber nachfolgenden schnelleren Fahrzeugen
+20.3.9 Verhalten an Bahnübergängen
+20.3.10 Richtiger Einsatz von Betriebsbremse, Retarder und Motorbremse
+21 Klassenspezifischer Ausbildungsstoff für Klassen BE, C1E, D1E und DE
+21.1 Zusammenstellen des Zuges
+21.1.1 Prüfen der Zugmaße
+21.1.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der Einzelfahrzeuge und des Zuges, Stützlast, ggf. Aufliegelast)
+21.2 Verbinden und Trennen von Zügen mit einachsigem Anhänger (Kugelkopfkupplung)
+21.2.1 Anhänger ankuppeln
+21.2.2 Anhänger abkuppeln
+21.3 Sicherheitskontrollen am Zug
+21.3.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
+21.3.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und Sicherung)
+21.3.3 Funktion der elektrischen Einrichtung des Anhängers
+21.3.4 Funktion der Bremsanlage
+21.4 Übungen zur Fahrzeugbeherrschung
+21.4.1 Rückwärtsfahren um eine Ecke nach links
+21.4.2 Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen (nur Klasse C1E)
+21.5 Klassenspezifische Besonderheiten
+21.5.1 beim Fahren
+  – Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
+  – Verhalten an Bahnübergängen
+  – Kennenlernen der Gefahrenbereiche der „Toten Winkel“
+  – Nutzung von Fahrstreifen
+  – Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
+  – Sicherheitsabstand
+  – Rückwärtsfahren (Absicherung)
+21.5.2 beim Abstellen
+  – Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
+  – Kenntlichmachung
+22 Klassenspezifischer Ausbildungsstoff für Klasse CE
+22.1 Zusammenstellen des Zuges
+22.1.1 Prüfen der Zugmaße
+22.1.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der Einzelfahrzeuge und des Zuges, Stützlast bei Starrdeichselanhängern, ggf. Aufliegelast, Motorleistung)
+22.2 Verbinden und Trennen von Zügen mit Anhänger bzw. Auf- und Absatteln
+22.2.1 Anhänger ankuppeln
+22.2.2 Anhänger abkuppeln
+22.2.3 Aufsatteln
+22.2.4 Absatteln
+22.3 Sicherheitskontrollen am Zug
+22.3.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
+22.3.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und Sicherung)
+22.3.3 Prüfen der Zuggabel und Drehschemel (Verschleiß, Beschädigung)
+22.3.4 Funktion der elektrischen Einrichtung des Anhängers
+22.3.5 Funktion der Bremsanlage
+22.3.6 Ladungssicherung
+22.4 Übungen zur Fahrzeugbeherrschung
+22.4.1 Umkehren durch Rückwärtsfahren nach links (nicht für Züge mit Starrdeichselanhänger)
+22.4.2 Rückwärtsfahren geradeaus an eine Rampe zum Be- oder Entladen
+22.4.3 Rückwärtsfahren um eine Ecke nach links (Sattelkraftfahrzeuge und Gliederzüge mit Starrdeichselanhänger)
+22.4.4 Rückwärtsfahren und Versetzen nach rechts an eine Rampe zum Be- oder Entladen
+22.5 Klassenspezifische Besonderheiten
+22.5.1 beim Fahren
+  – Einschätzen des besonderen Raumbedarfs
+  – Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
+  – Verhalten an Bahnübergängen
+  – Kennenlernen der Gefahrenbereiche der „Toten Winkel“
+  – Nutzung von Fahrstreifen
+  – Einhalten fahrzeug- und straßenbezogener Höchstgeschwindigkeiten
+  – Sicherheitsabstand
+  – Rückwärtsfahren (Absicherung)
+22.5.2 beim Abstellen
+  – Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
+  – Kenntlichmachung
+23 Klassenspezifischer Ausbildungsstoff für Klasse T Zugmaschine im Solobetrieb
+23.1 Sicherheitskontrollen
+23.1.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
+23.1.2 Zusätzliche Überprüfungen
+23.1.2.1 Funktionsprüfung von
+  – Betriebsbremse (Einzelradbremse außer Funktion)
+  – Feststellbremse
+23.2 Sicheres Beherrschen der Fahrzeugbedienung unter Berücksichtigung der auf Zugmaschinen anzuwendenden Ausbildungsinhalte dieser Anlage entsprechend den Punkten 1 bis 16
+  Für Zugmaschine mit Anhänger
+23.3 Zusammenstellen des Zuges
+23.3.1 Prüfen der Zugmaße
+23.3.2 Prüfen der einzelnen Massen (Leermasse, zulässige Gesamtmasse der Einzelfahrzeuge und des Zuges, Stützlast bei Starrdeichselanhängern)
+23.4 Verbinden und Trennen von Zügen mit Anhänger
+23.4.1 Anhänger ankuppeln
+23.4.2 Anhänger abkuppeln
+23.5 Sicherheitskontrollen am Zug
+23.5.1 Praktische Unterweisung in der Erkennung und Behebung technischer Mängel nach Anlage 6
+23.5.2 Prüfen der Kupplungseinrichtung (Kontrolle der Befestigung und Sicherung)
+23.5.3 Prüfen der Zuggabel und Drehschemel (Verschleiß, Beschädigung)
+23.5.4 Funktion der elektrischen Einrichtung des Anhängers
+23.5.5 Funktion der Bremsanlage
+23.5.6 Ladungssicherung
+23.6 Übungen zur Fahrzeugbeherrschung
+23.6.1 Rückwärtsfahren geradeaus
+23.7 Klassenspezifische Besonderheiten
+23.7.1 Beim Fahren
+  – Einschätzen des Raumbedarfs
+  – Einfahren, Ausfahren, Überqueren
+  – Überholt werden
+  – Verhalten in besonderen Situationen, Fahren in Kurven, Gefällstrecken und Steigungen
+  – Verhalten an Bahnübergängen
+  – Nutzen von Fahrstreifen
+  – Sicherheitsabstand
+  – Rückwärtsfahren (Absicherung)
+  – Maßnahmen zur Vermeidung von Fahrbahnverschmutzungen (insbesondere beim Wiedereinfahren in den öffentlichen Verkehrsraum nach Feldarbeiten)
+23.7.2 Beim Abstellen
+  – Sicherung des Anhängers gegen Wegrollen (Feststellbremse, Unterlegkeile)
+  – Kenntlichmachung

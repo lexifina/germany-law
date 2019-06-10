@@ -1,0 +1,16 @@
+# Anlage 1 (zu § 1 Abs. 1) Aufteilung des ersten Erhöhungsbetrags auf die Regionen
+
+| Region | Betrag in Euro |
+| Baden-Württemberg | 38.657.198,97 |
+| Bayern | 112.573.768,21 |
+| Brandenburg und Berlin | 20.287.005,43 |
+| Hessen | 18.863.381,60 |
+| Mecklenburg-Vorpommern | 25.342.157,51 |
+| Niedersachsen und Bremen | 99.304.651,52 |
+| Nordrhein-Westfalen | 56.151.159,56 |
+| Rheinland-Pfalz | 20.993.350,01 |
+| Saarland | 1.063.489,34 |
+| Sachsen | 23.768.020,57 |
+| Sachsen-Anhalt | 29.991.304,35 |
+| Schleswig-Holstein und Hamburg | 31.973.165,14 |
+| Thüringen | 15.211.627,79 |

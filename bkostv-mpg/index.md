@@ -1,0 +1,17 @@
+# Gebührenverordnung zum Medizinproduktegesetz und den zu seiner Ausführung ergangenen Rechtsverordnungen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Zulassung, Verlängerung und Änderung der Zulassung](0002.md)
+- [§ 3 Klassifizierung und Abgrenzung von Produkten](0003.md)
+- [§ 4 Konsultationsverfahren](0004.md)
+- [§ 5 Individuell zurechenbareöffentliche Leistungen im Rahmen klinischerPrüfungen und Leistungsbewertungsprüfungen](0005.md)
+- [§ 6 Beratungen](0006.md)
+- [§ 7 Gebühren in besonderen Fällen](0007.md)
+- [§ 8 Sonstige Gebühren](0008.md)
+- [§ 9 Gebührenbemessung](0009.md)
+- [§ 10 Gebührenermäßigung und -befreiung auf Antrag](0010.md)
+- [§ 11 Gebührenerhöhung und -ermäßigung](0011.md)
+- [§ 12 Auslagen](0012.md)
+- [§ 13 Übergangsregelung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)

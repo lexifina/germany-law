@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 7 Abs. 4 Nr. 2 und des § 27 Abs. 1 Satz 1 des Gesetzes zur Zusammenführung und Neugliederung der Bundeseisenbahnen vom 27. Dezember 1993 (BGBl. I S. 2378, 1994 I S. 2439), von denen § 7 Abs. 4 zuletzt durch Artikel 263 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist, in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium des Innern:

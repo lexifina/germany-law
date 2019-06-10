@@ -1,0 +1,138 @@
+# Anlage 4a (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Gärtner/zur Gärtnerin für die Fachrichtung Gemüsebau- sachliche Gliederung -
+
+(Fundstelle: BGBl. I 1996, S. 414 - 419)
+Abschnitt I: Berufliche Grundbildung im ersten Ausbildungsjahr
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind |
+| 1. | der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Abs. 1 Nr. 1) |  |
+| 1.1 | Berufsbildung (§ 4 Abs. 1 Nr. 1.1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluß, Dauer und Beendigung, erklären |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | Informationen für die eigene berufliche Fortbildung einholen |
+| 1.2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Abs. 1 Nr. 1.2) | a) | Grundfunktionen des Ausbildungsbetriebes, wie Beschaffung, Produktion, Absatz, Dienstleistung und Betriebsführung, erläutern |
+| b) | Ausstattung des Ausbildungsbetriebes beschreiben |
+| c) | Abhängigkeiten des Ausbildungsbetriebes von natürlichen Standortfaktoren, wie Klima, Lage und Boden, erläutern |
+| d) | Abhängigkeiten des Ausbildungsbetriebes von den wirtschaftlichen Standortfaktoren, wie Arbeitsmarkt, Verkehrsanbindung, Bezugs- und Absatzwege, erläutern |
+| 1.3 | Mitgestalten sozialer Beziehungen (§ 4 Abs. 1 Nr. 1.3) | a) | soziale Beziehungen im Betrieb und im beruflichen Einwirkungsbereich mitgestalten |
+| b) | bei der überbetrieblichen Zusammenarbeit im Rahmen betrieblicher Aufgabenstellungen und bestehender Kooperationsbeziehungen mitwirken |
+| c) | Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufs- und Fachverbänden, Gewerkschaften und Verwaltungen nennen und bei der Zusammenarbeit mitwirken |
+| d) | Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben |
+| 1.4 | Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit (§ 4 Abs. 1 Nr. 1.4) | a) | wesentliche Teile des Arbeitsvertrages nennen |
+| b) | wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge sowie die Funktion der Tarifparteien nennen |
+| c) | Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und der Aufsichtsbehörden erläutern |
+| d) | wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Arbeitsschutzgesetze nennen |
+| e) | berufsbezogene Arbeitsschutzvorschriften, insbesondere beim Umgang mit Maschinen, Geräten, Einrichtungen, Gefahrstoffen sowie sonstigen Werkstoffen und Materialien, anwenden |
+| f) | Verhalten bei Unfällen und Entstehungsbränden beschreiben und Maßnahmen der Ersten Hilfe einleiten |
+| g) | wesentliche Vorschriften der Feuerverhütung nennen und Brandschutzeinrichtungen sowie Brandschutzgeräte bedienen |
+| 2. | Natur- und Umweltschutz; rationelle Energie- und Materialverwendung (§ 4 Abs. 1 Nr. 2) | a) | Bedeutung von Lebensräumen für Mensch, Tier und Pflanze erklären und Lebensräume an Beispielen beschreiben |
+| b) | Bedeutung und Ziele des Natur- und Umweltschutzes beschreiben |
+| c) | über mögliche Umweltbelastungen Auskunft geben und bei Maßnahmen zu deren Vermeidung und Verminderung mitwirken |
+| d) | Abfälle unter Beachtung rechtlicher, betrieblicher und materialbedingter Erfordernisse vermeiden oder sammeln |
+| e) | bei der Auswahl von Betriebsmitteln unter umweltschonenden und wirtschaftlichen Gesichtspunkten mitwirken |
+| f) | die im Ausbildungsbetrieb verwendeten Energiearten, Werkstoffe und Materialien nennen und Möglichkeiten ihrer wirtschaftlichen Verwendung aufzeigen |
+| g) | wirtschaftlichen und umweltschonenden Umgang mit Energieträgern beschreiben |
+| 3. | betriebliche Abläufe und wirtschaftliche Zusammenhänge(§ 4 Abs. 1 Nr. 3) |  |
+| 3.1 | Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Abs. 1 Nr. 3.1) | a) | Witterungsabläufe beobachten und dokumentieren |
+| b) | Wachstumsabläufe beobachten und Veränderungen feststellen |
+| c) | Ablauf technischer Prozesse beobachten und Veränderungen feststellen |
+| d) | Informationen, insbesondere aus Gebrauchsanleitungen, Katalogen, Fachzeitschriften sowie Fachbüchern, beschaffen |
+| 3.2 | Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit (§ 4 Abs. 1 Nr. 3.2) | a) | Arbeiten in Arbeitsschritte gliedern |
+| b) | geeignete Arbeitsverfahren nennen und Arbeitsmittel auswählen |
+| c) | Daten für die Produktion und Dienstleistungen fallbezogen feststellen, insbesondere Aufwandmengen berechnen, Gewichte, Rauminhalte und Größe von Flächen schätzen und ermitteln |
+| d) | Arbeitszeiten und -ergebnisse festhalten |
+| e) | Arbeitsergebnisse kontrollieren |
+| 3.3 | Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge (§ 4 Abs. 1 Nr. 3.3) | a) | bei der Ermittlung des Bedarfs an Betriebsmitteln mitwirken |
+| b) | Eingang und Verbrauch von Betriebsmitteln erfassen |
+| c) | Marktberichte lesen und Entwicklungen am Markt verfolgen |
+| d) | Preisangebote vergleichen |
+| 4. | Böden, Erden und Substrate (§ 4 Abs. 1 Nr. 4) | a) | Bodenbestandteile und Bodenarten bestimmen |
+| b) | bei der Bodenbearbeitung und -pflege mitwirken |
+| c) | Zusammensetzung und Eigenschaften von Erden und Substraten beschreiben |
+| d) | Erden und Substrate verwenden |
+| 5. | Kultur und Verwendung von Pflanzen (§ 4 Abs. 1 Nr. 5) |  |
+| 5.1 | Pflanzen und ihre Verwendung (§ 4 Abs. 1 Nr. 5.1) | a) | Pflanzen bestimmen sowie deren Ansprüche und Eigenschaften beschreiben; Pflanzenkataloge nutzen |
+| b) | bei der Verwendung von Pflanzenarten und -Sorten unter Beachtung ihrer Ansprüche mitwirken |
+| 5.2 | Kultur- und Pflegemaßnahmen (§ 4 Abs. 1 Nr. 5.2) | a) | bei der Vermehrung mitwirken |
+| b) | bei Arbeiten an und mit der Pflanze mitwirken |
+| c) | bei der bedarfs- und zeitgerechten Bewässerung mitwirken |
+| d) | bei der bedarfsgerechten und umweltschonenden Düngung mitwirken |
+| e) | Schädigungen an Pflanzen feststellen und deren Ursachen nennen |
+| f) | bei Maßnahmen zum Schutz der Pflanzen und zur Pflege der Pflanzenbestände oder -anlagen mitwirken |
+| 5.3 | Nutzung pflanzlicher Produkte (§ 4 Abs. 1 Nr. 5.3) | a) | bei der Ernte oder Verwendung von Pflanzen mitwirken |
+| b) | beim Sortieren und Kennzeichnen von Pflanzen und pflanzlichen Produkten nach Qualitäten mitwirken |
+| c) | beim Transport und Einlagern gärtnerischer Erzeugnisse mitwirken |
+| 6. | Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe (§ 4 Abs. 1 Nr. 6) | a) | Materialien und Werkstoffe nach ihrem Verwendungszweck auswählen und verwenden |
+| b) | Maschinen, Geräte, Werkzeuge und bauliche Anlagen pflegen sowie bei ihrer Instandhaltung und ihrem Einsatz mitwirken |
+| c) | Aufbau und Funktion von Motoren erklären |
+| d) | Kraftübertragungselemente beschreiben und Schutzvorrichtungen in ihrer Funktion erhalten |
+| e) | Ordnung und Sauberkeit am Arbeitsplatz beachten |
+| f) | Schutzmaßnahmen und Sicherungen an elektrischen Anlagen und Maschinen erklären |
+Abschnitt II: Gemeinsame berufliche Fachbildung
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind |
+| 1. | der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen (§ 4 Abs. 1 Nr. 1) die in § 4 Abs. 1 Nr. 1.1 bis 1.4 aufgeführten Teile des Ausbildungsberufsbildes | die in Abschnitt I lfd. Nr. 1.1 bis 1.4 aufgeführten Fertigkeiten und Kenntnisse |
+| 2. | Natur- und Umweltschutz; rationelle Energie- und Materialverwendung (§ 4 Abs. 1 Nr. 2) | a) | heimische geschützte Pflanzen nennen und ihren typischen Standorten zuordnen |
+| b) | berufsbezogene Regelungen des Umweltschutzrechts, insbesondere des Abfall-, Immissionsschutz-, Wasser-, Boden-, Düngemittel-, Naturschutz- und Artenschutz- sowie des Pflanzenschutz- und Sortenschutzrechts, anwenden |
+| c) | Abfälle unter Beachtung rechtlicher, betrieblicher und materialbedingter Erfordernisse aufbereiten und entsorgen; Möglichkeiten des Recyclings nutzen |
+| d) | Betriebsmittel unter umweltschonenden und wirtschaftlichen Gesichtspunkten auswählen und verwenden |
+| e) | mit Energieträgern umweltschonend und kostensparend umgehen |
+| 3. | betriebliche Abläufe und wirtschaftliche Zusammenhänge (§ 4 Abs. 1 Nr. 3) |  |
+| 3.1 | Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen (§ 4 Abs. 1 Nr. 3.1) | a) | Wachstumsabläufe bewerten und Zusammenhänge aufzeigen |
+| b) | Ablauf technischer Prozesse bewerten und Zusammenhänge aufzeigen |
+| c) | Fachinformationen für die betriebliche Arbeit auswerten und nutzen |
+| 3.2 | Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit (§ 4 Abs. 1 Nr. 3.2) | a) | Arbeitsverfahren unter Berücksichtigung der betrieblichen Gegebenheiten auswählen |
+| b) | Daten von Produktion und Dienstleistungen erfassen und beurteilen |
+| c) | Produktions- und Arbeitsabläufe sowie Dienstleistungen planen und veränderten Bedingungen anpassen |
+| d) | Möglichkeiten der automatisierten Datenverarbeitung nutzen |
+| e) | wirtschaftliche Faktoren, insbesondere Einsatz von Betriebsmitteln, Materialien, Zeit und Geld, bei der Organisation von Produktions- und Arbeitsabläufen sowie Dienstleistungen berücksichtigen |
+| f) | Arbeitsaufwand und Arbeitsergebnisse bewerten |
+| 3.3 | Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge (§ 4 Abs. 1 Nr. 3.3) | a) | Markt- und Preisinformationen einholen, vergleichen und bewerten |
+| b) | bei Kalkulationen mitwirken |
+| c) | bei der Bestellung von Betriebsmitteln und bei der Abrechnung gelieferter Waren mitwirken |
+| d) | bei schriftlichem Geschäftsverkehr und und bei Gesprächen mit Geschäftspartnern mitwirken |
+| 4. | Böden, Erden und Substrate (§ 4 Abs. 1 Nr. 4) | a) | Böden beurteilen und Maßnahmen der Bodenbearbeitung und Bodenverbesserung begründen |
+| b) | Bodenproben entnehmen und Analyseergebnisse berücksichtigen |
+| c) | boden- und vegetationsspezifische Bodenbearbeitung und -pflege sowie Bodenverbesserung durchführen |
+| d) | Erden und Substrate beurteilen, bei Bedarf verbessern und verwenden |
+| e) | Erden und Substrate lagern |
+| 5. | Kultur und Verwendung von Pflanzen (§ 4 Abs. 1 Nr. 5) |  |
+| 5.1 | Pflanzen und ihre Verwendung (§ 4 Abs. 1 Nr. 5.1) | a) | Pflanzenarten und -sorten, insbesondere unter Beachtung ihrer Ansprüche und Wirtschaftlichkeit, einsetzen |
+| b) | Pflanzenqualitäten beurteilen |
+| c) | Pflanzenkataloge und Kulturanleitungen einsetzen |
+| 5.2 | Kultur- und Pflegemaßnahmen (§ 4 Abs. 1 Nr. 5.2) | a) | Arbeiten an und mit der Pflanze durchführen |
+| b) | Wasserqualität bei Bewässerungsmaßnahmen berücksichtigen |
+| c) | bedarfs- und zeitgerechte Bewässerung durchführen |
+| d) | Nährstoffmangel- und Nährstoffüberschußerscheinungen feststellen |
+| e) | Düngemittel und -verfahren auswählen sowie bedarfsgerecht und umweltschonend düngen |
+| f) | Schadbilder an Pflanzen bestimmen |
+| g) | Pflanzenschutzmaßnahmen bedarfsgerecht und umweltschonend durchführen |
+| h) | Dünge- und Pflanzenschutzmittel vorschriftsmäßig lagern |
+| i) | Pflanzen gegen schädigende Witterungseinflüsse schützen |
+| 5.3 | Nutzung pflanzlicher Produkte (§ 4 Abs. 1 Nr. 5.3) | a) | Zeitpunkt für die Ernte oder Verwendung von Pflanzen und pflanzlichen Produkten festlegen |
+| b) | Maschinen und Geräte für die Ernte oder Verwendung von Pflanzen und pflanzlichen Produkten auswählen und einsetzen |
+| c) | Produkte transportieren, erfassen und lagern |
+| d) | Lagerbestände überwachen |
+| e) | Pflanzen und pflanzliche Produkte anhand vorgegebener Kriterien und Qualitätsnormen kennzeichnen |
+| 6. | Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe (§ 4 Abs. 1 Nr. 6) | a) | Betriebsbereitschaft von technischen Einrichtungen, Maschinen, Geräten und Werkzeugen prüfen, diese auswählen und unter Beachtung der Sicherheitsvorschriften einsetzen |
+| b) | technische Arbeitsabläufe kontrollieren; Störungen feststellen und einschätzen sowie kleine Reparaturen durchführen |
+| c) | Wartungs- und Instandsetzungsarbeiten nach Plan durchführen |
+| d) | Betriebsstoffe sach- und umweltgerecht lagern |
+| e) | praxisübliche Materialien und Werkstoffe be- und verarbeiten |
+| f) | Materialschutz durchführen |
+Abschnitt III: Ausbildung in der Fachrichtung Gemüsebau
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind |
+| 1. | Produktionsräume und Produktionseinrichtungen (§ 4 Abs. 2 Nr. 4a) | a) | Wechselwirkungen zwischen Typen und Bauweisen von Produktionsräumen sowie technischen Einrichtungen einerseits und Anforderungen der Gemüsearten andererseits aufzeigen |
+| b) | technische Einrichtungen, insbesondere zum Heizen, Kühlen, Lüften, Schattieren, Bewässern und Düngen, einsetzen |
+| 2. | Vermehrung und Jungpflanzenanzucht (§ 4 Abs. 2 Nr. 4b) | a) | Ziele und Methoden zur Züchtung und Vermehrung von Gemüsearten beschreiben; Sorten auswählen |
+| b) | Saatgutformen und Saatgutbehandlung auswählen |
+| c) | Saatgut beurteilen und lagern |
+| d) | Gemüsearten mit verschiedenen Verfahren aussäen und Jungpflanzenanzucht durchführen |
+| 3. | Produktionsverfahren (§ 4 Abs. 2 Nr. 4c) | a) | bei der Kultur- und Anbauplanung einschließlich der Planung von Frucht- und Nutzungsfolgen mitwirken |
+| b) | Produktionsverfahren und Anbausysteme von verschiedenen Gemüsearten beschreiben und im Ausbildungsbetrieb vorhandene Verfahren und Systeme anwenden |
+| c) | verschiedene Gemüsearten unter Berücksichtigung der Produktqualität bis zur Ernte kultivieren |
+| d) | die im Verlauf des Produktionsverfahrens auftretenden Einflüsse auf Termine, Produktqualität und Erträge erfassen sowie geeignete Maßnahmen ergreifen |
+| 4. | Ernten, Aufbereiten und Lagern (§ 4 Abs. 2 Nr. 4d) | a) | Erntezeitpunkt verschiedener Gemüsearten unter Berücksichtigung von Reifegrad, Qualitätsansprüchen und Inhaltsstoffen bestimmen |
+| b) | verschiedene Ernteverfahren für Gemüse anwenden |
+| c) | Gemüse marktgerecht aufbereiten, insbesondere waschen, putzen, schneiden und bündeln sowie normengerecht und handelsüblich sortieren, verpacken und kennzeichnen |
+| d) | Gemüse nach artspezifischen Anforderungen einlagern; Lagerklima steuern und überwachen |
+| 5. | Vermarkten (§ 4 Abs. 2 Nr. 4e) | a) | Gemüse entsprechend seinen spezifischen Transportanforderungen verpacken und Maßnahmen zur Erhaltung der Produktqualität auf dem Absatzweg durchführen |
+| b) | Gemüse verkaufsfördernd präsentieren, verkaufen und ausliefern |
+| c) | Kunden über Herkunft, Qualität und Verwendung von Gemüse informieren |

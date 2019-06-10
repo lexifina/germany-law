@@ -1,0 +1,3 @@
+# Art 2
+
+Zur Erfüllung der Verbindlichkeiten, die der Bundesrepublik Deutschland aus dem Beitritt zur Karibischen Entwicklungsbank erwachsen, wird die Bundesregierung ermächtigt, vom Grundkapital 4.160 (in Worten: Viertausendeinhundertsechzig) Anteile im Wert von 31.200.000,- US-$ (in Worten: Einunddreißig Millionen zweihunderttausend US-Dollar) zum Gewicht und Feingehalt vom 1. Januar 1969, davon 24.075.000,- US-$ (in Worten: Vierundzwanzig Millionen fünfundsiebzigtausend US-Dollar) zum Gewicht und Feingehalt vom 1. Januar 1969 als abrufbares Haftungskapital zu erwerben und zum Sonderfonds einen Beitrag im Wert von 47.448.844,- DM (in Worten Siebenundvierzig Millionen vierhundertachtundvierzigtausend achthundertvierundvierzig Deutsche Mark) zu leisten.

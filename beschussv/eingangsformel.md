@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund der §§ 14 und 15 des Beschussgesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4003), von denen § 14 Abs. 2 Satz 2 durch Artikel 116 der Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden ist, des § 25 Abs. 1 Nr. 1 Buchstabe c und des § 36 Abs. 5 des Waffengesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592, 2003 I S. 1957) in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium des Innern, soweit Schussapparate betroffen sind, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und in Bezug auf § 36 Abs. 5 des Waffengesetzes nach Anhörung der beteiligten Kreise:

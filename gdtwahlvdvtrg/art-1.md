@@ -1,0 +1,3 @@
+# Art 1 Zustimmung zu den Verträgen
+
+Dem in Berlin am 3. August 1990 von der Bundesrepublik Deutschland unterzeichneten Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik einschließlich der Anlage und des Anhanges sowie dem in Bonn am 20. August 1990 unterzeichneten Änderungsvertrag hierzu wird zugestimmt. Die Verträge einschließlich der Anlage und des Anhanges werden nachstehend veröffentlicht.

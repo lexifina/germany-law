@@ -1,0 +1,7 @@
+# Eingangsformel
+
+Das Bundesministerium für Verkehr, Bau und Stadtentwicklung verordnet auf Grund des
+– § 6 Absatz 1 Nummer 2 Buchstabe a bis d, f, j bis l, p und s bis v, Nummer 7 und Nummer 12 Buchstabe b und des § 47 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 1 Nummer 2 Buchstabe b und p durch Artikel 1 Nummer 2 Buchstabe a des Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) und § 47 zuletzt durch Artikel 2 Nummer 2 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958) geändert worden sind,
+– § 6 Absatz 1 Nummer 5c in Verbindung mit Absatz 2a des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 2a durch Artikel 2 Nummer 4 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958) geändert worden ist, gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+– § 6 Absatz 1 Nummer 8 bis 11 in Verbindung mit Absatz 2 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 2 durch Artikel 2 Nummer 4 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958) geändert worden ist, gemeinsam mit dem Bundesministerium des Innern und
+– § 7 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S. 213), der zuletzt durch Artikel 1 Nummer 5 des Gesetzes vom 10. Dezember 2007 (BGBl. I S. 2833) geändert worden ist, im Einvernehmen mit dem Bundesministerium der Justiz und dem Bundesministerium für Wirtschaft und Technologie:

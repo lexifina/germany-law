@@ -1,0 +1,75 @@
+# Anlage 1 (zu § 25 Abs. 1)
+
+|  |
+| Tabelle 1 |
+| Kapitalisierungsfaktoren für Leistungen an Versicherte |
+| Alter des Berechtigten zur Zeit der Abfindung | Kapitalisierungsfaktor |
+| unter 23 Jahren | 6 |
+| 23 Jahre bis unter 26 Jahren | 7 |
+| 26 Jahre bis unter 28 Jahren | 8 |
+| 28 Jahre bis unter 31 Jahren | 9 |
+| 31 Jahre bis unter 33 Jahren | 10 |
+| 33 Jahre bis unter 36 Jahren | 11 |
+| 36 Jahre bis unter 59 Jahren | 12 |
+| 59 Jahre bis unter 63 Jahren | 11 |
+| 63 Jahre bis unter 66 Jahren | 10 |
+| 66 Jahre bis unter 69 Jahren | 9 |
+| 69 Jahre bis unter 72 Jahren | 8 |
+| 72 Jahre bis unter 74 Jahren | 7 |
+| 74 Jahre bis unter 78 Jahren | 6 |
+| 78 Jahre bis unter 81 Jahren | 5 |
+| 81 Jahre bis unter 86 Jahren | 4 |
+| 86 Jahre bis unter 92 Jahren | 3 |
+| 92 Jahre und mehr | 2 |
+| Tabelle 2 |
+| Kapitalisierungsfaktoren für Leistungen an Witwen und Witwer |
+| Alter der Witwe oder des Witwers zur Zeit der Abfindung | Kapitalisierungsfaktor |
+| unter 25 Jahren | 5 |
+| 25 Jahre bis unter 27 Jahren | 6 |
+| 27 Jahre bis unter 28 Jahren | 7 |
+| 28 Jahre bis unter 29 Jahren | 8 |
+| 29 Jahre bis unter 30 Jahren | 9 |
+| 30 Jahre bis unter 31 Jahren | 10 |
+| 31 Jahre bis unter 32 Jahren | 11 |
+| 32 Jahre bis unter 33 Jahren | 12 |
+| 33 Jahre bis unter 34 Jahren | 13 |
+| 34 Jahre bis unter 36 Jahren | 14 |
+| 36 Jahre bis unter 38 Jahren | 15 |
+| 38 Jahre bis unter 43 Jahren | 16 |
+| 43 Jahre bis unter 45 Jahren | 17 |
+| 45 Jahre bis unter 52 Jahren | 16 |
+| 52 Jahre bis unter 55 Jahren | 15 |
+| 55 Jahre bis unter 58 Jahren | 14 |
+| 58 Jahre bis unter 61 Jahren | 13 |
+| 61 Jahre bis unter 63 Jahren | 12 |
+| 63 Jahre bis unter 65 Jahren | 11 |
+| 65 Jahre bis unter 68 Jahren | 10 |
+| 68 Jahre bis unter 70 Jahren | 9 |
+| 70 Jahre bis unter 73 Jahren | 8 |
+| 73 Jahre bis unter 75 Jahren | 7 |
+| 75 Jahre bis unter 78 Jahren | 6 |
+| 78 Jahre bis unter 82 Jahren | 5 |
+| 82 Jahre bis unter 86 Jahren | 4 |
+| 86 Jahre bis unter 92 Jahren | 3 |
+| 92 Jahre und mehr | 2 |
+| Tabelle 3 |
+| Kapitalisierungsfaktoren für Leistungen an Waisen |
+| Alter des Berechtigten zur Zeit der Abfindung | Kapitalisierungsfaktor |
+| unter 1 Jahr | 13 |
+| 1 Jahr bis unter 2 Jahren | 13 |
+| 2 Jahre bis unter 3 Jahren | 12 |
+| 3 Jahre bis unter 4 Jahren | 12 |
+| 4 Jahre bis unter 5 Jahren | 11 |
+| 5 Jahre bis unter 6 Jahren | 10 |
+| 6 Jahre bis unter 7 Jahren | 10 |
+| 7 Jahre bis unter 8 Jahren | 9 |
+| 8 Jahre bis unter 9 Jahren | 8 |
+| 9 Jahre bis unter 10 Jahren | 8 |
+| 10 Jahre bis unter 11 Jahren | 7 |
+| 11 Jahre bis unter 12 Jahren | 6 |
+| 12 Jahre bis unter 13 Jahren | 5 |
+| 13 Jahre bis unter 14 Jahren | 5 |
+| 14 Jahre bis unter 15 Jahren | 4 |
+| 15 Jahre bis unter 16 Jahren | 3 |
+| 16 Jahre bis unter 17 Jahren | 2 |
+| 17 Jahre und mehr | 1 |

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 26 Absatz 8 Satz 1, auch in Verbindung mit § 51 Absatz 4 Satz 1, des § 27 Absatz 6 Satz 1, auch in Verbindung mit § 51 Absatz 4 Satz 1, des § 28 Absatz 4 Satz 1, des § 29 Absatz 6 Satz 1 und des § 30 Absatz 5 Satz 1 des Kapitalanlagegesetzbuches vom 4. Juli 2013 (BGBl. I S. 1981) in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 11. Juli 2013 (BGBl. I S. 2231) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:

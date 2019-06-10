@@ -1,0 +1,15 @@
+# Verordnung über das Arbeiten mit Tierseuchenerregern
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Begriffsbestimmung](0001.md)
+- [§ 2 Erlaubnis](0002.md)
+- [§ 3 Erlaubnisfreies Arbeiten, Erwerben oder Abgeben](0003.md)
+- [§ 4 Versagen der Erlaubnis](0004.md)
+- [§ 5 Anzeigepflichten des Erlaubnisinhabers](0005.md)
+- [§ 6 Anzeigepflichtige Tätigkeiten](0006.md)
+- [§ 7 Verbot von Tätigkeiten, Beschränkung](0007.md)
+- [§ 8 Abgabe von Tierseuchenerregern](0008.md)
+- [§ 9 Aufzeichnungen](0009.md)
+- [§ 10 Ordnungswidrigkeiten](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlußformel](schlussformel.md)

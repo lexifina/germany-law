@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Abs. 1 Nr. 18 und 19 in Verbindung mit Abs. 4 und 5 sowie der §§ 15 und 16, jeweils in Verbindung mit § 6 Abs. 4, des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen in der Fassung der Bekanntmachung vom 20. September 1995 (BGBl. I S. 1146) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Technologie:

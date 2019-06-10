@@ -1,0 +1,16 @@
+# Gesetz zu Überleitungsregelungen zum Infrastrukturgesellschaftserrichtungsgesetz und zum Fernstraßen-Bundesamt-Errichtungsgesetz sowie steuerliche Vorschriften
+
+- [§ 1 Erfassung und Dokumentation](0001.md)
+- [§ 2 Anordnungskompetenz des Bundes](0002.md)
+- [§ 3 Beamtinnen und Beamte; Verordnungsermächtigung](0003.md)
+- [§ 4 Rechtsaufsicht in beamtenrechtlichen Angelegenheiten](0004.md)
+- [§ 5 Arbeitnehmerinnen und Arbeitnehmer, Auszubildende](0005.md)
+- [§ 6 Schwerbehinderte Menschen](0006.md)
+- [§ 7 Sächliche Betriebsmittel](0007.md)
+- [§ 8 Übergangsmandate, Gleichstellungsbeauftragte, Dienstvereinbarungen](0008.md)
+- [§ 9 Personalkosten, Versorgungslastenverteilung](0009.md)
+- [§ 10 Übergang von Rechten und Pflichten, laufende Verfahren](0010.md)
+- [§ 11 Überleitungsregelungen für Bundesstraßen](0011.md)
+- [§ 12 Grunderwerbsteuer](0012.md)
+- [§ 13 Übergangsregelung](0013.md)
+- [Anlage (zu § 1 Absatz 4)](anlage.md)

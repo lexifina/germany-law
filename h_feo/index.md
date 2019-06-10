@@ -1,0 +1,22 @@
+# Höfeordnung
+
+- [§ 1 Begriff des Hofes](0001.md)
+- [§ 2 Bestandteile](0002.md)
+- [§ 3 Hofeszubehör](0003.md)
+- [§ 4 Erbfolge in einen Hof](0004.md)
+- [§ 5 Gesetzliche Hoferbenordnung](0005.md)
+- [§ 6 Einzelheiten zur Hoferbenordnung](0006.md)
+- [§ 7 Bestimmung des Hoferben durch den Eigentümer](0007.md)
+- [§ 8 Der Hoferbe beim Ehegattenhof](0008.md)
+- [§ 9 Vererbung mehrerer Höfe](0009.md)
+- [§ 10 Vererbung nach allgemeinem Recht](0010.md)
+- [§ 11 Ausschlagung](0011.md)
+- [§ 12 Abfindung der Miterben nach dem Erbfall](0012.md)
+- [§ 13 Ergänzung der Abfindung wegen Wegfalls des höferechtlichen
+Zwecks](0013.md)
+- [§ 14 Stellung des überlebenden Ehegatten](0014.md)
+- [§ 15 Nachlaßverbindlichkeiten](0015.md)
+- [§ 16 Verfügung von Todes wegen](0016.md)
+- [§ 17 Übergabevertrag](0017.md)
+- [§ 18 Zuständigkeit der Gerichte](0018.md)
+- [§ 19 Geltung für Lebenspartner; Übergangsbestimmungen](0019.md)

@@ -1,0 +1,15 @@
+# Anlage 1 (zu § 2 Nummer 1, § 4 Absatz 1, § 12 Absatz 2, § 13 Absatz 1 und § 16 Absatz 3 und 5)Prüfbereiche für Stellen
+
+Prüfbereiche ergeben sich aus der Kombination von Tätigkeitsbereichen (A.) und Stoffbereichen (B.).
+A. Tätigkeitsbereiche
+| Nr. | Gruppe I Ermittlung der Emissionen (Luft) | Gruppe II Überprüfung des ordnungsgemäßen Einbaus und der Funktion sowie Kalibrierung kontinuierlich arbeitender Emissionsmess- einrichtungen Voraussetzung ist Gruppe I | Gruppe III Überprüfung instationär genutzter Messeinrichtungen (Luft) | Gruppe IV Ermittlung der Immissionen (Luft) | Gruppe V Ermittlung von Geräuschen | Gruppe VI Ermittlung von Erschütterungen |
+| 1 | Messaufgaben nach §§ 26, 28 BImSchG und entsprechende Messaufgaben nach Verordnungen zur Durchführung des BImSchG | Überprüfungen und Kalibrierungen von Messeinrichtungen an Anlagen, die eine gerätetechnische Ausstattung und Kenntnisse und Erfahrungen erfordern | Überprüfungen und Kalibrierungen von Messeinrichtungen, die im nicht stationären Betrieb eingesetzt werden | §§ 26, 28 BImSchG und entsprechende Messaufgaben nach Verordnungen zur Durchführung des BImSchG | §§ 26, 28 BImSchG und entsprechende Messaufgaben nach Verordnungen zur Durchführung des BImSchG | §§ 26, 28 BImSchG und entsprechende Messaufgaben nach Verordnungen zur Durchführung des BImSchG |
+| 2 | Nummer 1 und Messaufgaben, die eine spezielle gerätetechnische Ausstattung und spezielle Erfahrungen des fachkundigen Personals erfordern | Nummer 1 und Überprüfungen und Kalibrierungen von Messeinrichtungen an Anlagen, die eine spezielle gerätetechnische Ausstattung und spezielle Erfahrungen des fachkundigen Personals erfordern |  |  |  |  |
+B. Stoffbereiche
+| Kennung | Aufgabenbereich (für die Gruppen I, II und IV) |
+| P | partikelförmige und an Partikeln adsorbierte Stoffe |
+| G | gasförmige anorganische und organische Stoffe |
+| O | Gerüche |
+| Sp | spezielle Probenahme von Stoffen, die einen besonderen Aufwand bei der Probenahme oder Analyse erfordern |
+| Sa | spezielle Analyse von Stoffen, die einen besonderen Aufwand bei der Probenahme oder Analyse erfordern |
+Die Bekanntgabe innerhalb der vorgenannten Tätigkeits- und Stoffbereiche ist begrenzt durch die im Bekanntgabeverfahren vorgelegte Akkreditierung mit den dort beschriebenen Mess- und Untersuchungsmethoden. Grundsätzlich gilt für eine bekannt gegebene Stelle das Gebot der Einheit von Probenahme und Analytik; davon ausgenommen sind die besonders aufwändigen Messverfahren in den Stoffbereichen Sp und Sa.

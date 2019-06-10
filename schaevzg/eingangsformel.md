@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Das in der Deutschen Demokratischen Republik bestehende umfassende System der Sozialleistungen garantiert den durch Straftaten geschädigten Bürgern medizinische Betreuung und materielle Sicherstellung. Bei der Geltendmachung darüber hinausgehender Schadenersatzansprüche gegen den Straftäter erhalten die Geschädigten umfassende Unterstützung durch die Organe der Rechtspflege. Ist ein Schadenersatzanspruch gegen den Straftäter nicht durchsetzbar, wird dem Geschädigten zur Vermeidung schwerwiegender Auswirkungen und zur weiteren Sicherung seiner Rechte finanzielle Hilfe gewährt. Dazu beschließt die Volkskammer folgendes Gesetz:

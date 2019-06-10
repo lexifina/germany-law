@@ -1,0 +1,5 @@
+# Art 3
+
+(1)
+(2)
+Der Schutz gegen die Festlegung von Einzelbildern oder gegen die Vervielfältigung dieser Festlegung aus Fernsehsendungen eines Sendeunternehmens, das im Hoheitsgebiet einer anderen Vertragspartei des Abkommens nach deren Rechtsvorschriften errichtet ist oder dort Sendungen durchführt, wird im Geltungsbereich dieses Gesetzes nicht gewährt, wenn die andere Partei von dem Vorbehalt des Artikels 3 Abs. 1 Buchstabe d des Abkommens Gebrauch gemacht hat.

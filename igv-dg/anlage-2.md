@@ -1,0 +1,45 @@
+# Anlage 2 (zu § 18 Absatz 6 und § 19 Absatz 7)Gebührenverzeichnis
+
+1. | Die Gebühr für individuell zurechenbare öffentliche Leistungen nach § 18 Absatz 1 bis 5(Erteilung der freien Verkehrserlaubnis) beträgt, wenn die gesundheitlichen Verhältnisse anBord ermittelt werden müssen, | 75 Euro. |
+2. Die Gebühr für individuell zurechenbare öffentliche Leistungen nach § 19 Absatz 5 Satz 1 Nummer 1 (Bescheinigung über die Befreiung von Schiffshygienemaßnahmen) beträgt
+  a) bei Schiffen, die mehr als zwölf Personen gewerblich befördern oder hierfür zugelassen und eingesetzt sind (Fahrgastschiffe)
+    aa) | bis 2 000 Bruttoraumzahl (BRZ) | 245 Euro, |
+    bb) | von 2 001 bis 10 000 BRZ | 490 Euro, |
+    cc) | ab 10 001 BRZ | 670 Euro, |
+  b) | bei Binnenschiffen | 120 Euro, |
+  c) bei allen anderen Schiffstypen
+    aa) | bis 1 000 BRZ | 120 Euro, |
+    bb) | von 1 001 bis 2 000 BRZ | 180 Euro, |
+    cc) | von 2 001 bis 35 000 BRZ | 245 Euro, |
+    dd) | von 35 001 bis 85 000 BRZ | 305 Euro, |
+    ee) | ab 85 001 BRZ | 400 Euro. |
+3. Für individuell zurechenbare öffentliche Leistungen nach § 19 Absatz 5 Satz 1 Nummer 2 (Bescheinigung über die Durchführung von Schiffshygienemaßnahmen) werden die Gebühren nach Nummer 2 erhoben zuzüglich
+  a) bei Fahrgastschiffen
+    aa) | bis 2 000 BRZ | 90 Euro, |
+    bb) | von 2 001 bis 10 000 BRZ | 155 Euro, |
+    cc) | ab 10 001 BRZ | 230 Euro, |
+  b) | bei Binnenschiffen | 45 Euro, |
+  c) bei allen anderen Schiffstypen
+    aa) | bis 2 000 BRZ | 45 Euro, |
+    bb) | von 2 001 bis 35 000 BRZ | 75 Euro, |
+    cc) | von 35 001 bis 85 000 BRZ | 105 Euro, |
+    dd) | ab 85 001 BRZ | 135 Euro. |
+4. Für individuell zurechenbare öffentliche Leistungen nach § 19 Absatz 5 Satz 1 Nummer 1 oder Nummer 2, die von Montag bis Freitag in der Zeit von 21 Uhr bis 6 Uhr, am Wochenende oder an einem Feiertag erbracht werden, beträgt der Zuschlag
+  a) bei Fahrgastschiffen
+    aa) | bis 2 000 BRZ | 105 Euro, |
+    bb) | von 2 001 bis 10 000 BRZ | 210 Euro, |
+    cc) | ab 10 001 BRZ | 290 Euro, |
+  b) | bei Binnenschiffen | 55 Euro, |
+  c) bei allen anderen Schiffstypen
+    aa) | bis 1 000 BRZ | 55 Euro, |
+    bb) | von 1 001 bis 2 000 BRZ | 80 Euro, |
+    cc) | von 2 001 bis 35 000 BRZ | 110 Euro, |
+    dd) | von 35 001 bis 85 000 BRZ | 135 Euro, |
+    ee) | ab 85 001 BRZ | 175 Euro. |
+5. | Die Gebühr erhöht sich durch eine Wegepauschale für Anfahrten über 15 km je angefangenehalbe Stunde um | 25 Euro. |
+6. Die Gebühr für die Verlängerung einer Schiffshygienebescheinigung nach § 19 Absatz 5 Satz 1 Nummer 3 beträgt
+  a) | in den Fällen des § 19 Absatz 5 Satz 1 Nummer 3 Buchstabe a | 70 Euro, |
+  b) in den Fällen des § 19 Absatz 5 Satz 1 Nummer 3 Buchstabe b die Hälfte der Gebühr nach Nummer 2.
+7. | Verzögert sich die Besichtigung des Schiffes nach dem Eintreffen der oder des Beauftragten des Hafenärztlichen Dienstes aus Gründen, die die Gebührenschuldnerin oder der Gebührenschuldner zu vertreten hat, insbesondere weil sie oder er den Verpflichtungen nach § 19 Absatz 4 Satz 2 nicht nachkommt, so wird für jede angefangene halbe Stunde der Verzögerung eine zusätzliche Gebühr erhoben in Höhe von | 40 Euro. |
+8. | Für den Mehraufwand auf Grund von erforderlichen Wiederholungsuntersuchungen, auf Grund ärztlicher Beurteilungen oder auf Grund der Einleitung oder Durchführung sonstiger Maßnahmen erhöht sich die Gebühr je angefangene halbe Stunde um | 40 Euro. |
+9. | Die Gebühr für eine Zweitschrift der Bescheinigungen nach § 19 Absatz 5 Satz 1 Nummer 1 und 2 beträgt | 35 Euro. |

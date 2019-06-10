@@ -1,0 +1,28 @@
+# Anlage (zu § 2 Abs. 1)
+
+(Fundstelle: BGBl. I 2004, 645)
+| Nr. | Bezeichnung der Kontengruppe, der Kontenart und des Kontos |
+| 1 | Kontengruppe 47: | Krankengeld und Beiträge aus Krankengeld |
+| 1a | Konto 4710: | Krankengeld bei Betreuung eines kranken Kindes- Mitglieder bis unter 12 Jahre - |
+| 1b | Konto 4715: | Krankengeld bei Betreuung eines kranken Kindes- Mitglieder ab 12 Jahre - |
+| 1c | Konto 4720: | Krankengeld bei Vorsorgeleistungen und medizinischer Vorsorge für Mütter |
+| 1d | Konto 4730: | Krankengeld bei stationären Rehabilitationsleistungen und medizinischer Rehabilitation für Mütter |
+| 1e | Konto 4740: | Krankengeld bei Sterilisation und Schwangerschaftsabbruch |
+| 2 | Kontengruppe 53: | Empfängnisverhütung, Sterilisation und Schwangerschaftsabbruch |
+| 2a | Kontenart 530: | Ärztliche Beratung und Behandlung |
+| 2b | Kontenart 531: | Krankenhausbehandlung |
+| 2c | Kontenart 532: | Arznei- und Verbandmittel |
+| 2d | Kontenart 537: | Investitionszuschlag nach Art. 14 Abs. 3 GSG |
+| 2e | Kontenart 539: | Übrige Aufwendungen |
+| 3 | Kontengruppe 55: | Leistungen bei Schwangerschaft und Mutterschaft |
+| 3a | Kontenart 550: | Ärztliche Betreuung |
+| 3b | Kontenart 551: | Hebammenhilfe |
+| 3c | Kontenart 552: | Stationäre Entbindung |
+| 3d | Kontenart 553: | Häusliche Pflege wegen Schwangerschaft oder Entbindung |
+| 3e | Kontenart 554: | Haushaltshilfe wegen Schwangerschaft oder Entbindung |
+| 3f | Kontenart 555: | Sonstige Sachleistungen |
+| 3g | Kontenart 556: | Mutterschaftsgeld nach § 200 RVO, § 29 KVLG/Beiträge zur Bundesagentur für Arbeit |
+| 3h | Kontenart 559: | Investitionszuschlag nach Art. 14 Abs. 3 GSG |
+| 4 | Kontengruppe 56: | Betriebs-, Haushaltshilfe und häusliche Krankenpflege |
+| 4a | Kontenart 564: | Gestellte Haushaltshilfe - Regelleistung - |
+| 4b | Kontenart 565: | Erstattungen für selbst beschaffte Haushaltshilfe- Regelleistung - |

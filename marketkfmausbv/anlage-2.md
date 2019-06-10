@@ -1,0 +1,91 @@
+# Anlage 2 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für
+Marketingkommunikation/zur Kauffrau für Marketingkommunikation
+
+- Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 2006, 816 - 817)
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+1.1 Stellung, Rechtsform und Struktur,
+1.2 Gesamt- und einzelwirtschaftliche Funktion der Marketing- und Kommunikationswirtschaft,
+2.1 Arbeitsorganisation, Lernziele a bis c,
+2.3 Qualitätssichernde Maßnahmen, Lernziel a,
+2.4 Informations- und Kommunikationssysteme, Lernziele a und b,
+3.4 Anwenden einer Fremdsprache bei Fachaufgaben, Lernziel a,
+zu vermitteln.
+(2)
+In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+3.1 Kommunikation, Lernziele a bis c,
+3.2 Teamarbeit und Kooperation, Lernziel a,
+3.3 Kundenbeziehungen, Lernziel a,
+4.3 Markenführung, Lernziel a,
+5.1 Briefing, Lernziele a und b,
+6.1 Auswahl und Beauftragung von Dienstleistern, Lernziel a,
+zu vermitteln.
+(3)
+In einem Zeitraum von zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+1.3 Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
+1.4 Sicherheit und Gesundheitsschutz bei der Arbeit,
+1.5 Umweltschutz,
+7.1 Rechnungs- und Finanzwesen, Lernziele a und b,
+7.2 Controlling, Lernziel a,
+zu vermitteln.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.1 Arbeitsorganisation, Lernziele d und e,
+2.4 Informations- und Kommunikationssysteme, Lernziele c und d,
+3.4 Anwenden einer Fremdsprache bei Fachaufgaben, Lernziel b,
+4.1 Marktbeobachtung und -analyse, Lernziele a und b,
+4.2 Zielgruppen, Lernziele a und b,
+4.3 Markenführung, Lernziel b,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.2 Projektorganisation, Lernziel a,
+2.3 Qualitätssichernde Maßnahmen, Lernziel b,
+3.2 Teamarbeit und Kooperation, Lernziel b,
+5.1 Briefing, Lernziele c und d,
+5.2 Konzeptionierung, Lernziel a,
+5.3 Steuerung der kreativen Umsetzung, Lernziel a,
+5.5 Rechte und Lizenzen
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+3.3 Kundenbeziehungen, Lernziel b,
+6.1 Auswahl und Beauftragung von Dienstleistern, Lernziele b und c,
+6.2 Organisation interner und externer Herstellungsprozesse,
+6.3 Medieneinsatz, Lernziele a und b,
+6.4 Kontrolle und Abschluss der Maßnahme, Lernziel a,
+7.1 Rechnungs- und Finanzwesen, Lernziel c,
+7.2 Controlling, Lernziel b,
+zu vermitteln.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+3.4 Anwenden einer Fremdsprache bei Fachaufgaben, Lernziel c,
+4.1 Marktbeobachtung und -analyse, Lernziele c und d,
+4.2 Zielgruppen, Lernziel c,
+4.3 Markenführung, Lernziele c und d,
+4.4 Budgetplanung
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.2 Projektorganisation, Lernziel b,
+3.1 Kommunikation, Lernziele d und e,
+3.2 Teamarbeit und Kooperation, Lernziel c,
+3.3 Kundenbeziehungen, Lernziele c und d,
+5.2 Konzeptionierung, Lernziele b bis e,
+5.3 Steuerung der kreativen Umsetzung, Lernziele b und c,
+5.4 Feinplanung des Medieneinsatzes
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+6.1 Auswahl und Beauftragung von Dienstleistern, Lernziel d,
+6.3 Medieneinsatz, Lernziel c,
+6.4 Kontrolle und Abschluss der Maßnahme, Lernziele b bis d,
+7.2 Controlling, Lernziele c und d,
+zu vermitteln.

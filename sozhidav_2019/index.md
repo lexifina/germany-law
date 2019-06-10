@@ -1,0 +1,15 @@
+# Verordnung zur Durchführung des § 118 Absatz 1, 1a und 2 des Zwölften Buches Sozialgesetzbuch
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Auswahl der Abgleichsfälle und des Abgleichszeitraums](0002.md)
+- [§ 3 Übermittlung der Anfragedatensätze an die Vermittlungsstelle](0003.md)
+- [§ 4 Verfahren bei der Vermittlungsstelle; Weiterleitung der Anfragedatensätze](0004.md)
+- [§ 5 Anforderungen an die Datenübermittlung](0005.md)
+- [§ 6 Automatisierter Datenabgleich bei den Auskunftsstellen](0006.md)
+- [§ 7 Rückübermittlung der Antwortdatensätze](0007.md)
+- [§ 8 Weiterverwendung der Antwortdatensätze](0008.md)
+- [§ 9 Verfahrensgrundsätze](0009.md)
+- [§ 10 Kosten der Vermittlungsstelle](0010.md)
+- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)

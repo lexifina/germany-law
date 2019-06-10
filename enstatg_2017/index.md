@@ -1,0 +1,18 @@
+# Energiestatistikgesetz
+
+- [§ 1 Zweck der Erhebungen und Erhebungsbereiche](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Erhebungen in der Elektrizitätswirtschaft einschließlich der erneuerbaren Energien](0003.md)
+- [§ 4 Erhebungen in der Gaswirtschaft einschließlich der erneuerbaren Energien](0004.md)
+- [§ 5 Erhebungen in der Wärmewirtschaft einschließlich der erneuerbaren Energien](0005.md)
+- [§ 6 Erhebungen über Kohleeinfuhr und -ausfuhr](0006.md)
+- [§ 7 Erhebungen über Flüssiggas, Klärgas, Klärschlamm, Tiefengeothermie, Biokraftstoffe, Mineralöl und Mineralölerzeugnisse](0007.md)
+- [§ 8 Erhebungen über die Energieverwendung einschließlich der erneuerbaren Energien](0008.md)
+- [§ 9 Hilfsmerkmale](0009.md)
+- [§ 10 Auskunftspflicht](0010.md)
+- [§ 11 Durchführung der Erhebung, Übermittlungsfrist](0011.md)
+- [§ 12 Verordnungsermächtigung](0012.md)
+- [§ 13 Datenübermittlung](0013.md)
+- [§ 14 Nutzung von nach energierechtlichen Vorschriften erhobenen Daten](0014.md)
+- [§ 15 Übergangsregelung](0015.md)
+- [§ 16 Inkrafttreten, Außerkrafttreten](0016.md)

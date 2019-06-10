@@ -1,0 +1,34 @@
+# Anlage 7 (zu § 13 Absatz 1)Gehalt an Stoffen
+
+(Fundstelle des Originaltextes: BGBl. I 2009, 862)
+1. Wein,
+2. Traubenmost,
+3. teilweise gegorener Traubenmost,
+4. Perlwein,
+5. Perlwein mit zugesetzter Kohlensäure,
+6. Schaumwein,
+7. Schaumwein mit zugesetzter Kohlensäure,
+8. Likörwein,
+9. weinhaltige Getränke,
+10. aromatisierte Weine,
+11. aromatisierte weinhaltige Getränke und
+12. aromatisierte weinhaltige Cocktails
+dürfen, wenn sie in den Verkehr gebracht werden, keinen Gehalt an Stoffen aufweisen, der, mit Ausnahme des in Buchstabe h genannten Gehalts bei den in Nummer 2 und 3 aufgeführten Erzeugnissen, folgende Werte übersteigt:
+|  |  |  | Milligramm in einem Liter |
+| a) | Aluminium | 8,00 |
+| b) | Arsen | 0,10 |
+| c) | Blei | 0,25 |
+| d) | Bor, berechnet als Borsäure | 80 |
+| e) | Brom, gesamtes | 1,00 |
+| f) | Fluor |  |
+|  | a) | nicht aus Kryolith behandelten Rebpflanzungen | 1 |
+|  | b) | aus Kryolith behandelten Rebpflanzungen | 3 |
+| g) | Cadmium | 0,01 |
+| h) | Kupfer | 2,00 |
+| i) | Zink | 5,00 |
+| j) | Zinn | 1,00 |
+| k) | Trichlormethan | 0,10 |
+| l) | Trichlorethen | 0,10 |
+| m) | Tetrachlorethen | 0,10 |
+| n) | Trichlormethan, Trichlorethen und Tetrachlorethen zusammen | 0,20. |
+Der in Satz 1 genannte Wert für Blei gilt für Wein, Schaumwein, aromatisierten Wein, aromatisierte weinhaltige Getränke und aromatisierte weinhaltige Cocktails, soweit die zu ihrer Herstellung verwendeten Erzeugnisse aus der Ernte 2000 oder früheren Ernten stammen.

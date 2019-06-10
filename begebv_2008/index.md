@@ -1,0 +1,18 @@
+# Verordnung über die Gebühren und Auslagen für Amtshandlungen der Eisenbahnverkehrsverwaltung des Bundes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Gebühren](0002.md)
+- [§ 3 Gebührenbefreiung](0003.md)
+- [§ 4 Widerspruch](0004.md)
+- [§ 5 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen](0005.md)
+- [§ 6 Auslagen](0006.md)
+- [§ 7 Alt-Sachverhalte](0007.md)
+- [§ 8 Inkrafttreten, Außerkrafttreten](0008.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu § 2 Abs. 1)Gebührenverzeichnis](anlage-1.md)
+- [Anlage 2 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 1)](anlage-2.md)
+- [Anlage 3 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 2)Gebührenverzeichnis](anlage-3.md)
+- [Anlage 4 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 3)Gebührenverzeichnis](anlage-4.md)
+- [Anlage 5 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 4)Gebührenverzeichnis](anlage-5.md)
+- [Anlage 6 (zu § 2 Abs. 1 i. V. m. § 7 Abs. 5)Gebührenverzeichnis](anlage-6.md)

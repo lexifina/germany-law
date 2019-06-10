@@ -1,0 +1,80 @@
+# Anlage 2 (zu § 9)
+
+Ermittlung der Grenzlinie
+
+1 Die halben Breitenmaße der Grenzlinie für feste Anlagen sind durch Addition folgender horizontal wirkender Einflußgrößen zu berechnen:
+1.1 Halbes Breitenmaß der Bezugslinie G 2; Vergrößerungen der Bezugslinie für Fahrzeuge gemäß § 22 Abs. 2 sind zu berücksichtigen.
+1.2 Überschreitungen der Bezugslinie, die sich aus der Verschiebung infolge der Stellung eines Fahrzeugs im Gleisbogen und unter Berücksichtigung der Spurweite des Gleises ergibt (Ausladung).
+1.3 Verschiebung aus quasistatischer Seitenneigung, die sich beim Stand eines Fahrzeugs in einem Gleis mit Überhöhung oder bei Fahrt in einem Gleisbogen mit Überhöhungsfehlbetrag ergibt, wobei nur der Wert in Ansatz gebracht wird, der den bereits in der Bezugslinie enthaltenen Anteil von 50 mm übersteigt.
+1.4 Zufallsbedingte Verschiebungen aus
+a) Gleislageunregelmäßigkeiten,
+b) Schwingungen infolge der Wechselwirkung zwischen Fahrzeug und Gleis und
+c) dem Einfluß der Unsymmetrie bis zu 1 Grad, die sich aus den Bau- und Einstellungstoleranzen der Fahrzeuge und einer ungleichmäßigen Lastverteilung ergibt.
+Hierbei darf die geringe Wahrscheinlichkeit des gleichzeitigen Auftretens aller ungünstigen Einflüsse berücksichtigt werden.
+2 Die Verschiebungen nach 1.2 bis 1.4 dürfen bei Geschwindigkeiten bis 160 km/h auch nach den folgenden Tabellen ermittelt werden:
+2.1 Ausladung (zu 1.2)
+2.1.1. bei Radien von 250 m und mehr
+| Radiusm | Ausladungmm |
+| Spurweite | Spurweite |
+| ≤ 1445 mm | ≤ 1470 mm |
+| 250 | 20 | 33 |
+| 300 | 18 | 30 |
+| 400 | 14 | 27 |
+| 500 | 13 | 25 |
+| 600 | 11 | 24 |
+| 800 | 10 | 22 |
+| 1000 | 9 | 21 |
+| 2000 | 7 | 20 |
+| 3000 | 6 | 19 |
+| ₒₒ | 5 | 18 |
+2.1.2 bei Radien unter 250 m
+| Radiusm | Ausladungmm |
+| Bogeninnenseite | Bogenaußenseite |
+| 225 | 55 | 60 |
+| 200 | 85 | 95 |
+| 190 | 95 | 110 |
+| 180 | 110 | 130 |
+| 170 | 130 | 145 |
+| 150 | 165 | 195 |
+| 120 | 365 | 395 |
+| 100 | 560 | 600 |
+Für Höhen bis 400 mm über SO dürfen die Tabellenwerte um 5 mm verringert werden.
+Zu 2.1.1 und 2.1.2:
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+2.2 Verschiebung aus quasistatischer Seitenneigung (zu 1.3)
+| Höhe derBezugslinie | Verschiebung bei Überhöhung oder Überhöhungsfehlbetragmm |
+| 50 | 75 | 100 | 130 | 150 | 160 |
+| mm | mm |
+| 4680 | 0 | 28 | 56 | 90 | 112 | 123 |
+| 3835 | 0 | 23 | 45 | 72 | 89 | 98 |
+| 3530 | 0 | 21 | 41 | 65 | 81 | 89 |
+| 1170 | 0 | 5 | 9 | 15 | 18 | 20 |
+| ≤ 400 | 0 | 0 | 0 | 0 | 0 | 0 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+2.3 Zufallsbedingte Verschiebung (zu 1.4)
+|  | Verschiebung |
+| Höhe derBezugslinie | bei nicht festgelegtemGleis | bei festgelegtemGleis | bei festgelegtem Gleisund einem Überhöhungs-oder Querhöhenfehler≤ 5 mm |
+|  | a | b | a | b | a | b |
+| mm | mm |
+| 4680 | 110 | 140 | 106 | 137 | 78 | 116 |
+| 3835 | 91 | 114 | 85 | 110 | 62 | 93 |
+| 3530 | 84 | 104 | 78 | 100 | 57 | 84 |
+| 1170 | 37 | 40 | 21 | 25 | 14 | 19 |
+| ≤ 400 | 30 | 31 | 6 | 6 | 2 | 3 |
+a: Auf der Bogeninnenseite
+b: Auf der Bogenaußenseite und im geraden Gleis
+3 Die Höhenmaße der Grenzlinie sind — ausgenommen im Bereich ≤ 125 mm — aus den Höhenmaßen der Bezugslinie G 2 zu berechnen und
+3.1 im Bereich ≥ 3530 mm zu vergrößern um
+a) den Einfluß des Wechsels der Längsneigung und
+b) die Hebungsreserve für die Unterhaltung des Gleises,
+3.2 im Bereich ≤ 1170 mm zu vermindern um
+a) den Einfluß des Wechsels der Längsneigung und
+b) die Abnutzung der Schienen und das Absinken des Gleises im Betrieb.
+Zu 3.1 und 3.2:
+Der Einfluß des Wechsels der Längsneigung wird wie folgt berechnet:
+| 50 000ra | [mm] |
+|  |  |
+| ra = Ausrundungsradius in m |
+|  |
+4 Für die Höhenmaße der Grenzlinie im Bereich ≤ 125 mm gilt Anlage 1 Bild 2.
+5 Bei Geschwindigkeiten von mehr als 160 km/h sind aerodynamische Einflüsse zu berücksichtigen.

@@ -1,0 +1,3 @@
+# Art 1
+
+Für die Vollstreckbarerklärung der in Artikel 1 des deutsch-schweizerischen Abkommens bezeichneten gerichtlichen Entscheidungen sowie der in Artikel 8 daselbst bezeichneten Vergleiche ist das Amtsgericht zuständig, bei dem der Verpflichtete seinen allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das Amtsgericht, in dessen Bezirk sich Vermögen des Verpflichteten befindet oder die Vollstreckungshandlung vorzunehmen ist. Das gleiche gilt für die gerichtlichen Entscheidungen der in Artikel 3 daselbst bezeichneten Art, soweit die Entscheidung der Vollstreckbarerklärung bedarf.

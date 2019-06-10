@@ -1,0 +1,3 @@
+# II.
+
+Die Farbe der Amtstracht ist für die Richter und die Beamten bei dem Bundesdisziplinarhof und für den Bundesdisziplinaranwalt karmesinrot, für die Richter und die Beamten bei den Bundesdisziplinarkammern schwarz. Die für den Bundesdisziplinaranwalt auftretenden Beamten tragen die Amtstracht in der Farbe des Bundesdisziplinargerichts, vor dem sie tätig werden. Der Besatz an der Amtsrobe und am Barett besteht für die Bundesrichter und die Vorsitzenden der Bundesdisziplinarkammern aus Samt, für den Bundesdisziplinaranwalt und die für ihn auftretenden Beamten aus Seide, für die Urkundsbeamten aus Wollstoff.

@@ -1,0 +1,62 @@
+# Anlage 5 Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung
+
+(Fundstelle: BGBl. I 1995, 1547;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| 90 | Allgemeine Kostenstellen |
+| 900 | Gebäude einschließlich Grundstücke |
+| 901 | Außenanlagen |
+| 902 | Leitung und Verwaltung der Pflegeeinrichtung |
+| 903 | Hilfs- und Nebenbetriebe |
+| 904 | Ausbildung, Fortbildung |
+| 905 | Personaleinrichtungen (soweit für Betrieb der Einrichtung notwendig) |
+| 906 | Sonstige |
+|  |
+| 91 | Versorgungseinrichtungen |
+| 910 | Wäscherei (Versorgung) |
+| 911 | Küche (Versorgung) |
+| 912 | Hol- und Bringedienst (Transporte innerbetrieblich) |
+| 913 | Zentrale Sterilisation |
+| 914 | Zentraler Reinigungsdienst |
+| 915 | Energieversorgung (Wasser, Energie, Brennstoffe) |
+| 916 | Sonstige |
+|  |
+| 92 | Häusliche Pflegehilfe |
+| 920 | Pflegebereich – Pflegegrad 1 |
+| 921 | Pflegebereich – Pflegegrad 2 |
+| 922 | Pflegebereich – Pflegegrad 3 |
+| 923 | Pflegebereich – Pflegegrad 4 |
+| 924 | Pflegebereich – Pflegegrad 5 |
+|  |
+| 93 | Teilstationäre Pflege (Tagespflege) |
+| 930 | Pflegebereich – Pflegegrad 1 |
+| 931 | Pflegebereich – Pflegegrad 2 |
+| 932 | Pflegebereich – Pflegegrad 3 |
+| 933 | Pflegebereich – Pflegegrad 4 |
+| 934 | Pflegebereich – Pflegegrad 5 |
+|  |
+| 94 | Teilstationäre Pflege (Nachtpflege) |
+| 940 | Pflegebereich – Pflegegrad 1 |
+| 941 | Pflegebereich – Pflegegrad 2 |
+| 942 | Pflegebereich – Pflegegrad 3 |
+| 943 | Pflegebereich – Pflegegrad 4 |
+| 944 | Pflegebereich – Pflegegrad 5 |
+|  |
+| 95 | Vollstationäre Pflege |
+| 950 | Pflegebereich – Pflegegrad 1 |
+| 951 | Pflegebereich – Pflegegrad 2 |
+| 952 | Pflegebereich – Pflegegrad 3 |
+| 953 | Pflegebereich – Pflegegrad 4 |
+| 954 | Pflegebereich – Pflegegrad 5 |
+|  |
+| 96 | Kurzzeitpflege |
+| 960 | Pflegebereich – Pflegegrad 1 |
+| 961 | Pflegebereich – Pflegegrad 2 |
+| 962 | Pflegebereich – Pflegegrad 3 |
+| 963 | Pflegebereich – Pflegegrad 4 |
+| 964 | Pflegebereich – Pflegegrad 5 |
+|  |
+| 97 | Weitere Leistungen |
+| 970 | Zusätzliche Betreuung und Aktivierung nach § 43b SGB XI |
+| 971 | Leistungen nach § 45b Absatz 1 Satz 3 SGB XI |
+|  |
+| 98, 99 | freibleibend |

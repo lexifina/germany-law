@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 33 Absatz 6 in Verbindung mit § 33a Absatz 1 Satz 3, § 33b Absatz 5 Satz 3, § 41 Absatz 3, § 47 Absatz 2 und § 51 Absatz 4 des Bundesversorgungsgesetzes, von denen § 33 Absatz 6 zuletzt durch Artikel 1 Nummer 35 Buchstabe b und § 41 Absatz 3 zuletzt durch Artikel 1 Nummer 41 des Gesetzes vom 13. Dezember 2007 (BGBl. I S. 2904) sowie § 51 Absatz 4 durch Artikel 1 Nummer 31 Buchstabe b des Gesetzes vom 23. März 1990 (BGBl. I S. 582) geändert worden sind, sowie unter Berücksichtigung der 24. KOV-Anpassungsverordnung 2018 vom 12. Juni 2018 (BGBl. I S. 840) verordnet das Bundesministerium für Arbeit und Soziales:

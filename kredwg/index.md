@@ -1,0 +1,297 @@
+# Gesetz über das Kreditwesen
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+
+## Erster Abschnitt Allgemeine Vorschriften
+
+
+### 1. Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen
+
+- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 1a Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009 und (EU) 2017/2402 für Kredit- und Finanzdienstleistungsinstitute](0001a.md)
+- [§ 1b (weggefallen)](0001b.md)
+- [§ 2 Ausnahmen](0002.md)
+- [§ 2a Ausnahmen für gruppenangehörige Institute und Institute, die institutsbezogenen Sicherungssystemen angehören](0002a.md)
+- [§ 2b Rechtsform](0002b.md)
+- [§ 2c Inhaber bedeutender Beteiligungen](0002c.md)
+- [§ 2d Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften](0002d.md)
+- [§ 2e Ausnahmen für gemischte Finanzholding-Gesellschaften](0002e.md)
+- [§ 3 Verbotene Geschäfte](0003.md)
+- [§ 4 Entscheidung der Bundesanstalt für Finanzdienstleistungsaufsicht](0004.md)
+
+### 2. Bundesanstalt für Finanzdienstleistungsaufsicht
+
+- [§ 5](0005.md)
+- [§ 6 Aufgaben](0006.md)
+- [§ 6a Besondere Aufgaben](0006a.md)
+- [§ 6b Aufsichtliche Überprüfung und Beurteilung](0006b.md)
+- [§ 7 Zusammenarbeit mit der Deutschen Bundesbank](0007.md)
+- [§ 7a Zusammenarbeit mit der Europäischen Kommission](0007a.md)
+- [§ 7b Zusammenarbeit mit der Europäischen Bankenaufsichtsbehörde, der Europäischen Wertpapier- und Marktaufsichtsbehörde und der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung](0007b.md)
+- [§ 7c Zusammenarbeit mit dem Europäischen Bankenausschuss](0007c.md)
+- [§ 7d Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken](0007d.md)
+- [§ 8 Zusammenarbeit mit anderen Stellen](0008.md)
+- [§ 8a Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis](0008a.md)
+- [§ 8b (weggefallen)](0008b.md)
+- [§ 8c Übertragung der Zuständigkeit für die Aufsicht über Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangehörige Institute](0008c.md)
+- [§ 8d (weggefallen)](0008d.md)
+- [§ 8e Aufsichtskollegien](0008e.md)
+- [§ 8f Zusammenarbeit bei der Aufsicht über bedeutende Zweigniederlassungen](0008f.md)
+- [§ 9 Verschwiegenheitspflicht](0009.md)
+
+## Zweiter Abschnitt Vorschriften für Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften
+
+
+### 1. Eigenmittel und Liquidität
+
+- [§ 10 Ergänzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung](0010.md)
+- [§ 10a Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungsermächtigung](0010a.md)
+- [§ 10b (weggefallen)](0010b.md)
+- [§ 10c Kapitalerhaltungspuffer](0010c.md)
+- [§ 10d Antizyklischer Kapitalpuffer](0010d.md)
+- [§ 10e Kapitalpuffer für systemische Risiken](0010e.md)
+- [§ 10f Kapitalpuffer für global systemrelevante Institute](0010f.md)
+- [§ 10g Kapitalpuffer für anderweitig systemrelevante Institute](0010g.md)
+- [§ 10h Zusammenwirken der Kapitalpuffer für systemische Risiken, für global systemrelevante Institute und für anderweitig systemrelevante Institute](0010h.md)
+- [§ 10i Kombinierte Kapitalpuffer-Anforderung](0010i.md)
+- [§ 11 Liquidität](0011.md)
+- [§ 12 (weggefallen)](0012.md)
+- [§ 12a Begründung von Unternehmensbeziehungen](0012a.md)
+
+### 2. Kreditgeschäft
+
+- [§ 13 Großkredite; Verordnungsermächtigung](0013.md)
+- [(XXXX) §§ 13a u. 13b (weggefallen)](xxxx-13a-u-13b.md)
+- [§ 13c Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften](0013c.md)
+- [§ 13d (weggefallen)](0013d.md)
+- [§ 14 Millionenkredite](0014.md)
+- [§ 15 Organkredite](0015.md)
+- [§ 16](0016.md)
+- [§ 17 Haftungsbestimmung](0017.md)
+- [§ 18 Kreditunterlagen](0018.md)
+- [§ 18a Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungsermächtigung](0018a.md)
+- [§ 19 Begriff des Kredits für § 14 und des Kreditnehmers für die §§ 14, 15 und 18](0019.md)
+- [§ 20 Ausnahmen von den Verpflichtungen nach § 14](0020.md)
+- [(XXXX) §§ 20a bis 20c (weggefallen)](xxxx-20a-bis-20c.md)
+- [§ 21 Begriff des Kredits für die §§ 15 bis 18](0021.md)
+- [§ 22 Verordnungsermächtigung für Millionenkredite](0022.md)
+
+### 2a. Refinanzierungsregister
+
+- [§ 22a Registerführendes Unternehmen](0022a.md)
+- [§ 22b Führung des Refinanzierungsregisters für Dritte](0022b.md)
+- [§ 22c Refinanzierungsmittler](0022c.md)
+- [§ 22d Refinanzierungsregister](0022d.md)
+- [§ 22e Bestellung des Verwalters](0022e.md)
+- [§ 22f Verhältnis des Verwalters zur Bundesanstalt](0022f.md)
+- [§ 22g Aufgaben des Verwalters](0022g.md)
+- [§ 22h Verhältnis des Verwalters zum registerführenden Unternehmen und zum Refinanzierungsunternehmen](0022h.md)
+- [§ 22i Vergütung des Verwalters](0022i.md)
+- [§ 22j Wirkungen der Eintragung in das Refinanzierungsregister](0022j.md)
+- [§ 22k Beendigung und Übertragung der Registerführung](0022k.md)
+- [§ 22l Bestellung des Sachwalters bei Eröffnung des Insolvenzverfahrens](0022l.md)
+- [§ 22m Bekanntmachung der Bestellung des Sachwalters](0022m.md)
+- [§ 22n Rechtsstellung des Sachwalters](0022n.md)
+- [§ 22o Bestellung des Sachwalters bei Insolvenzgefahr](0022o.md)
+
+### 3. Kundenrechte
+
+- [§ 22p (weggefallen)](0022p.md)
+
+### 4. Werbung und Hinweispflichten der Institute
+
+- [§ 23 Werbung](0023.md)
+- [§ 23a Sicherungseinrichtung](0023a.md)
+
+### 5. Besondere Pflichten der Institute, ihrer Geschäftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften
+
+- [§ 24 Anzeigen](0024.md)
+- [§ 24a Errichtung einer Zweigniederlassung und Erbringung grenzüberschreitender Dienstleistungen in anderen Staaten des Europäischen Wirtschaftsraums](0024a.md)
+- [§ 24b Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen](0024b.md)
+- [§ 24c Automatisierter Abruf von Kontoinformationen](0024c.md)
+- [§ 25 Finanzinformationen, Informationen zur Risikotragfähigkeit; Verordnungsermächtigung](0025.md)
+- [§ 25a Besondere organisatorische Pflichten, Bestimmungen für Risikoträger; Verordnungsermächtigung](0025a.md)
+- [§ 25b Auslagerung von Aktivitäten und Prozessen; Verordnungsermächtigung](0025b.md)
+- [§ 25c Geschäftsleiter](0025c.md)
+- [§ 25d Verwaltungs- oder Aufsichtsorgan](0025d.md)
+- [§ 25e Anforderungen bei vertraglich gebundenen Vermittlern](0025e.md)
+- [§ 25f Besondere Anforderungen an die ordnungsgemäße Geschäftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angehört; Verordnungsermächtigung](0025f.md)
+
+### 5a. Bargeldloser Zahlungsverkehr; Verhinderung von Geldwäsche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute
+
+- [§ 25g Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr](0025g.md)
+- [§ 25h Interne Sicherungsmaßnahmen](0025h.md)
+- [§ 25i Allgemeine Sorgfaltspflichten in Bezug auf E-Geld](0025i.md)
+- [§ 25j Zeitpunkt der Identitätsüberprüfung](0025j.md)
+- [§ 25k Verstärkte Sorgfaltspflichten](0025k.md)
+- [§ 25l Geldwäscherechtliche Pflichten für Finanzholding-Gesellschaften](0025l.md)
+- [§ 25m Verbotene Geschäfte](0025m.md)
+- [§ 25n Einstufung als bedeutendes Institut](0025n.md)
+
+### 5b. Vorlage von Rechnungslegungsunterlagen
+
+- [§ 26 Vorlage von Jahresabschluß, Lagebericht und Prüfungsberichten](0026.md)
+
+### 5c. Offenlegung
+
+- [§ 26a Offenlegung durch die Institute](0026a.md)
+
+### 6. Prüfung und Prüferbestellung
+
+- [§ 27](0027.md)
+- [§ 28 Bestellung des Prüfers in besonderen Fällen](0028.md)
+- [§ 29 Besondere Pflichten des Prüfers](0029.md)
+- [§ 30 Bestimmung von Prüfungsinhalten](0030.md)
+
+### 7. Befreiungen
+
+- [§ 31 Befreiungen; Verordnungsermächtigung](0031.md)
+
+## Dritter Abschnitt Vorschriften über die Beaufsichtigung der Institute
+
+
+### 1. Zulassung zum Geschäftsbetrieb
+
+- [§ 32 Erlaubnis](0032.md)
+- [§ 33 Versagung der Erlaubnis](0033.md)
+- [§ 33a Aussetzung oder Beschränkung der Erlaubnis bei Unternehmen mit Sitz außerhalb der Europäischen Union](0033a.md)
+- [§ 33b Anhörung der zuständigen Stellen eines anderen Staates des Europäischen Wirtschaftsraums](0033b.md)
+- [§ 34 Stellvertretung und Fortführung bei Todesfall](0034.md)
+- [§ 35 Erlöschen und Aufhebung der Erlaubnis](0035.md)
+- [§ 36 Maßnahmen gegen Geschäftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans](0036.md)
+- [§ 36a Tätigkeitsverbot für natürliche Personen](0036a.md)
+- [§ 37 Einschreiten gegen unerlaubte oder verbotene Geschäfte](0037.md)
+- [§ 38 Folgen der Aufhebung und des Erlöschens der Erlaubnis, Maßnahmen bei der Abwicklung](0038.md)
+
+### 2. Bezeichnungsschutz
+
+- [§ 39 Bezeichnungen "Bank" und "Bankier"](0039.md)
+- [§ 40 Bezeichnung "Sparkasse"](0040.md)
+- [§ 41 Ausnahmen](0041.md)
+- [§ 42 Entscheidung der Bundesanstalt](0042.md)
+- [§ 43 Registervorschriften](0043.md)
+
+### 3. Auskünfte und Prüfungen
+
+- [§ 44 Auskünfte und Prüfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen](0044.md)
+- [§ 44a Grenzüberschreitende Auskünfte und Prüfungen](0044a.md)
+- [§ 44b Auskünfte und Prüfungen bei Inhabern bedeutender Beteiligungen](0044b.md)
+- [§ 44c Verfolgung unerlaubter Bankgeschäfte und Finanzdienstleistungen](0044c.md)
+
+### 4. Maßnahmen in besonderen Fällen
+
+- [§ 45 Maßnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidität](0045.md)
+- [§ 45a Maßnahmen gegenüber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften](0045a.md)
+- [§ 45b Maßnahmen bei organisatorischen Mängeln](0045b.md)
+- [§ 45c Sonderbeauftragter](0045c.md)
+- [§ 46 Maßnahmen bei Gefahr](0046.md)
+- [§ 46a Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings](0046a.md)
+- [§ 46b Insolvenzantrag](0046b.md)
+- [§ 46c Insolvenzrechtliche Fristen und Haftungsfragen](0046c.md)
+- [§ 46d Unterrichtung der anderen Staaten des Europäischen Wirtschaftsraums über Sanierungsmaßnahmen](0046d.md)
+- [§ 46e Insolvenzverfahren in den Staaten des Europäischen Wirtschaftsraums](0046e.md)
+- [§ 46f Unterrichtung der Gläubiger im Insolvenzverfahren und Insolvenzrangfolge](0046f.md)
+- [§ 46g Moratorium, Einstellung des Bank- und Börsenverkehrs](0046g.md)
+- [§ 46h Wiederaufnahme des Bank- und Börsenverkehrs](0046h.md)
+- [§ 47 Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014](0047.md)
+- [§ 48 Maßnahmen bei Verstößen gegen die Verordnung (EU) 2017/2402](0048.md)
+
+### 4a. Maßnahmen gegenüber Kreditinstituten bei Gefahren für die Stabilität des Finanzsystems
+
+- [(XXXX) §§ 48a bis 48s (weggefallen)](xxxx-48a-bis-48s.md)
+- [§ 48t Maßnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken](0048t.md)
+- [§ 48u Maßnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungsermächtigung](0048u.md)
+
+### 5. Vollziehbarkeit, Zwangsmittel, Umlage und Kosten
+
+- [§ 49 Sofortige Vollziehbarkeit](0049.md)
+- [§ 50](0050.md)
+- [§ 51 Umlage und Kosten](0051.md)
+
+## Vierter Abschnitt Besondere Vorschriften für Wohnungsunternehmen mit Spareinrichtung
+
+- [§ 51a Anforderungen an die Eigenkapitalausstattung für Wohnungsunternehmen mit Spareinrichtung](0051a.md)
+- [§ 51b Anforderungen an die Liquidität für Wohnungsunternehmen mit Spareinrichtung](0051b.md)
+- [§ 51c Sonstige Sondervorschriften für Wohnungsunternehmen mit Spareinrichtung](0051c.md)
+
+## Fünfter Abschnitt Sondervorschriften
+
+- [§ 52 Sonderaufsicht](0052.md)
+- [§ 52a Verjährung von Ansprüchen gegen Organmitglieder von Kreditinstituten](0052a.md)
+- [§ 53 Zweigstellen von Unternehmen mit Sitz im Ausland](0053.md)
+- [§ 53a Repräsentanzen von Instituten mit Sitz im Ausland](0053a.md)
+- [§ 53b Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums](0053b.md)
+- [§ 53c Unternehmen mit Sitz in einem Drittstaat; Verordnungsermächtigung](0053c.md)
+- [§ 53d Mutterunternehmen mit Sitz in einem Drittstaat](0053d.md)
+
+## Sechster Abschnitt Sondervorschriften für zentrale Gegenparteien und Zentralverwahrer
+
+
+### 1. Zentrale Gegenparteien
+
+- [§ 53e Inhaber bedeutender Beteiligungen](0053e.md)
+- [§ 53f Aufsichtskollegien](0053f.md)
+- [§ 53g Finanzmittelausstattung von zentralen Gegenparteien](0053g.md)
+- [§ 53h Liquidität](0053h.md)
+- [§ 53i Gewährung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012](0053i.md)
+- [§ 53j Anzeigen; Verordnungsermächtigung](0053j.md)
+- [§ 53k Auslagerung von Aktivitäten und Prozessen](0053k.md)
+- [§ 53l Anordnungsbefugnis; Maßnahmen bei organisatorischen Mängeln](0053l.md)
+- [§ 53m Inhalt des Zulassungsantrags](0053m.md)
+- [§ 53n Maßnahmen zur Verbesserung der Finanzmittel und der Liquidität einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei](0053n.md)
+
+### 2. Zentralverwahrer
+
+- [§ 53o Anträge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht](0053o.md)
+- [§ 53p Anordnungsbefugnis für die Aufsicht nach der Verordnung (EU) Nr. 909/2014](0053p.md)
+- [§ 53q Eigentumsrechte an Zentralverwahrern](0053q.md)
+
+## Siebenter Abschnitt Strafvorschriften, Bußgeldvorschriften
+
+- [§ 54 Verbotene Geschäfte, Handeln ohne Erlaubnis](0054.md)
+- [§ 54a Strafvorschriften](0054a.md)
+- [§ 55 Verletzung der Pflicht zur Anzeige der Zahlungsunfähigkeit oder der Überschuldung](0055.md)
+- [§ 55a Unbefugte Verwertung von Angaben über Millionenkredite](0055a.md)
+- [§ 55b Unbefugte Offenbarung von Angaben über Millionenkredite](0055b.md)
+- [§ 56 Bußgeldvorschriften](0056.md)
+- [(XXXX) §§ 57 und 58 (weggefallen)](xxxx-57-und-58.md)
+- [§ 59 Geldbußen gegen Unternehmen](0059.md)
+- [§ 60 Zuständige Verwaltungsbehörde](0060.md)
+- [§ 60a Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen](0060a.md)
+- [§ 60b Bekanntmachung von Maßnahmen](0060b.md)
+- [§ 60c Bekanntmachung von Maßnahmen und Sanktionen wegen Verstößen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402](0060c.md)
+- [§ 60d Bekanntmachung von Maßnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten](0060d.md)
+
+## Achter Abschnitt Übergangs- und Schlußvorschriften
+
+- [§ 61 Erlaubnis für bestehende Kreditinstitute](0061.md)
+- [§ 62 Überleitungsbestimmungen](0062.md)
+- [§ 63](0063.md)
+- [§ 63a Sondervorschriften für das in Artikel 3 des Einigungsvertrages genannte Gebiet](0063a.md)
+- [§ 64 Nachfolgeunternehmen der Deutschen Bundespost](0064.md)
+- [§ 64a (weggefallen)](0064a.md)
+- [§ 64b (weggefallen)](0064b.md)
+- [§ 64c (weggefallen)](0064c.md)
+- [§ 64d (weggefallen)](0064d.md)
+- [§ 64e Übergangsvorschriften zum Sechsten Gesetz zur Änderung des Gesetzes über das Kreditwesen](0064e.md)
+- [§ 64f Übergangsvorschriften zum Vierten Finanzmarktförderungsgesetz](0064f.md)
+- [§ 64g Übergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz](0064g.md)
+- [§ 64h Übergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitaladäquanzrichtlinie](0064h.md)
+- [§ 64i Übergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz](0064i.md)
+- [§ 64j Übergangsvorschriften zum Jahressteuergesetz 2009](0064j.md)
+- [§ 64k Übergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie](0064k.md)
+- [§ 64l Übergangsvorschrift zur Erlaubnis für die Anlageverwaltung](0064l.md)
+- [§ 64m Übergangsvorschrift zum Brexit-Steuerbegleitgesetz](0064m.md)
+- [§ 64n Übergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Vermögensanlagenrechts](0064n.md)
+- [§ 64o Übergangsvorschriften zum EMIR-Ausführungsgesetz](0064o.md)
+- [§ 64p Übergangsvorschrift zum Hochfrequenzhandelsgesetz](0064p.md)
+- [§ 64q Übergangsvorschrift zum AIFM-Umsetzungsgesetz](0064q.md)
+- [§ 64r Übergangsvorschriften zum CRD IV-Umsetzungsgesetz](0064r.md)
+- [§ 64s Übergangsvorschrift zum Gesetz zur Abschirmung von Risiken und zur Planung der Sanierung und Abwicklung von Kreditinstituten](0064s.md)
+- [§ 64t Übergangsvorschrift zur Verordnung (EU) Nr. 1060/2009](0064t.md)
+- [§ 64u Übergangsvorschrift zum BRRD-Umsetzungsgesetz](0064u.md)
+- [§ 64v Übergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz](0064v.md)
+- [§ 64w Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz](0064w.md)
+- [§ 64x Übergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz](0064x.md)
+- [§ 65](0065.md)
+- [Anhang I Informationsbogen für den Einleger](anhang-i.md)

@@ -1,0 +1,21 @@
+# Anlage 4b (zu § 16a Absatz 3)
+
+Die/Der Vorsitzende
+des Prüfungsausschusses
+Bescheinigung
+über die staatliche Eignungsprüfung
+für
+...........................................................................................
+|  |  |  |  |
+Name, Vorname
+.........................................................................................................
+Geburtsdatum Geburtsort
+........................................................................................................
+hat am ................................................ die staatliche Eignungsprüfung nach § 16a Absatz 3
+der Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten bestanden/nicht bestanden*.
+|  |  |  |
+| * Nichtzutreffendes streichen. |
+Ort, Datum
+.................................................................................... (Siegel)
+....................................................................................
+(Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)

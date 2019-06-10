@@ -1,0 +1,16 @@
+# Anlage (zu § 1)
+
+Mautverzeichnis
+
+| (Fundstelle des Originaltextes: BGBl. I 2005, 2109) |
+| Fahrzeugklasse | Höhe über der
+Vorderachse | Anzahl der Achsen | Fahrzeugart (Beispiele) | Mauthöhe in Euro |
+| AGE *) | MGE ++) |
+| A | <= 1,30 m | 2 | Pkw, Motorrad | 0,75 | 0,90 |
+| B1 | <= 1,30 m | > 2 | Pkw mit Anhänger | 1,73 | 2,00 |
+| B2 | > 1,30 m | 2 | Bus, Caravan, Transporter, Lkw | 1,73 | 2,00 |
+| C | > 1,30 m | 3 | Fahrzeuge der Klasse B2 mit Anhänger einachsig, Lkw, Bus | 4,50 | 5,30 |
+| D | > 1,30 m | >= 4 | Fahrzeuge der Klasse B2 mit Anhänger mehrachsig, Fahrzeuge der Klasse C mit Anhänger, Lkw | 7,50 | 8,80 |
+-----
+*) AGE: Automatische Gebührenerhebung (Zahlung mittels Transponder)
+++) MGE: Manuelle Gebührenerhebung (Zahlung mittels Smart Card, Münzautomat oder bar bei Kassierern)

@@ -1,0 +1,3 @@
+# Regel 16 Maßnahmen des Ausweichpflichtigen
+
+Jedes ausweichpflichtige Fahrzeug muß möglichst frühzeitig und durchgreifend handeln, um sich gut klar zu halten.

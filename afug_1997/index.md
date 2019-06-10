@@ -1,0 +1,15 @@
+# Gesetz über den Amateurfunk
+
+- [§ 1 Geltungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Voraussetzungen zur Teilnahme am Amateurfunkdienst, Rufzeichen, Frequenzzuteilung](0003.md)
+- [§ 4 Fachliche Prüfung, Anerkennung von Amateurfunkzeugnissen fremder Verwaltungen](0004.md)
+- [§ 5 Rechte und Pflichten des Funkamateurs](0005.md)
+- [§ 6 Technische und betriebliche Rahmenbedingungen](0006.md)
+- [§ 7 Schutzanforderungen](0007.md)
+- [§ 8 Gebühren und Auslagen](0008.md)
+- [§ 9 Bußgeldvorschriften](0009.md)
+- [§ 10 Zuständigkeiten](0010.md)
+- [§ 11 Betriebseinschränkungen und -verbote](0011.md)
+- [§ 12 Übergangsregelung](0012.md)
+- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)

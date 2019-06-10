@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht verordnet auf Grund
+– des § 68 Absatz 8 des Kapitalanlagegesetzbuchs vom 4. Juli 2013 (BGBl. I S. 1981) in Verbindung mit § 1 Nummer 3a der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der durch Artikel 1 der Verordnung vom 11. Juli 2013 (BGBl. I S. 2231) eingefügt worden ist,
+– des § 29 Absatz 4 des Kreditwesengesetzes, der durch Artikel 2 Nummer 34 Buchstabe b des Gesetzes vom 27. Juni 2013 (BGBl. I S. 1862) geändert worden ist, in Verbindung mit § 1 Nummer 5 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 6 der Verordnung vom 30. Januar 2014 (BGBl. I S. 322) geändert worden ist, sowie in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz nach Anhörung der Deutschen Bundesbank:

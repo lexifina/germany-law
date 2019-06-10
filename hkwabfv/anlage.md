@@ -1,0 +1,32 @@
+# Anlage (zu § 4 Satz 1)
+
+Fundstelle des Originaltextes: BGBl. I 1989, 1920
+Erklärung über die Art und Verwendung von Lösemitteln
+-------------------------------------------------------------------------------
+I Art des Lösemittels I
+I ......................................................................... I
+I ......................................................................... I
+I ......................................................................... I
+I I
+I Das oben bezeichnete Lösemittel wurde für folgende, in § 1 Abs. 1 Nr. 1 I
+I bis 4 genannten Zwecke (vgl. Rückseite) verwendet: I
+I I
+I 1. ...................................................................... I
+I 2. ...................................................................... I
+I 3. ...................................................................... I
+I 4. ...................................................................... I
+I 5. ...................................................................... I
+-------------------------------------------------------------------------------
+Dem Lösemittel wurden nach Gebrauch keine anderen Lösemittel oder andere
+Stoffe oder Abfälle zugemischt.
+............................................................................
+(Firma/Anschrift) (Datum) (Unterschrift/Firmenstempel)
+(Rückseite)
+§ 1
+        Anwendungsbereich
+(1)
+Diese Verordnung gilt für Lösemittel, die nach Gebrauch als Reststoff verwertet oder als Abfall entsorgt werden müssen und die in Anlagen eingesetzt werden, in denen
+1. die Oberfläche von Gegenständen oder Materialien, insbesondere aus Metall, Glas, Keramik oder Kunststoff, gereinigt, befettet, entfettet, beschichtet, entschichtet, entwickelt, phosphatiert, getrocknet oder in ähnlicher Weise behandelt wird,
+2. Behandlungsgut, insbesondere Textilien, Leder, Pelze, Felle, Fasern, Federn oder Wolle, gereinigt, entfettet, ausgerüstet, getrocknet oder in ähnlicher Weise behandelt wird,
+3. Aromen, Öle, Fette oder andere Stoffe aus Pflanzen, Pflanzenteilen oder aus Tierkörpern oder Tierkörperteilen extrahiert werden oder
+4. Stoffe, Zubereitungen oder Erzeugnisse mit Hilfe dieser Lösemittel gewonnen oder hergestellt werden.

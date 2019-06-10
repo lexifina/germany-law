@@ -1,0 +1,23 @@
+# Anlage 1 (zu § 1 Abs. 2 Satz 3)
+
+| (Fundstelle des Originaltextes: BGBl. I 1999, 37) |
+| Kapitel 6 - Flugzeuge: (nicht im Inland verkehrszugelassen) |
+| Höchstzulässige Startmasse(kg) | Lärmgrenzwert(dB(A)) |
+| 1.500 oder mehr | 80 |
+| 600 oder weniger | 68 |
+| Der Lärmgrenzwert erhöht sich linear von 600 kg bis 1.500 kg höchstzulässiger Startmasse und läßt sich wie folgt berechnen: |
+|  |
+| L(tief)grenz = 68 + (M-600) | 4 | (dB(A)) |
+| --- |
+| 300 |
+| M = höchstzulässige Startmasse in kg. |
+|  |
+| Kapitel 10 - Flugzeuge: (nicht im Inland verkehrszugelassen) |
+| Höchstzulässige Startmasse(kg) | Lärmgrenzwert(dB(A)) |
+| 1.400 bis 9.000 | 88 |
+| 600 oder weniger | 76 |
+| Der Lärmgrenzwert erhöht sich linear von 600 kg bis 1.400 kg höchstzulässiger Startmasse mit dem Logarithmus der Startmasse und läßt sich wie folgt berechnen: |
+|  |
+| L(tief)grenz = 83.23 + 32.67 log M (dB(A)) |
+|  |
+| M = höchstzulässige Startmasse in 1.000 kg. |

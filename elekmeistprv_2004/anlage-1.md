@@ -1,0 +1,27 @@
+# Anlage 1 (zu § 7 Abs. 5)
+
+(Fundstelle: BGBl. I 2004, 3141;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+Muster
+...............................................................................
+(Bezeichnung der zuständigen Stelle)
+Zeugnis
+über die Prüfung zum anerkannten Abschluss Geprüfter
+Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik
+Herr/Frau .....................................................................
+geboren am .............................. in ..................................
+hat am .................................. die Prüfung zum anerkannten Abschluss
+Geprüfter Industriemeister/Geprüfte Industriemeisterin
+- Fachrichtung Elektrotechnik
+gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
+Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
+Elektrotechnik vom 30. November 2004 (BGBl. I S. 3133),
+die zuletzt durch Artikel 26 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
+geändert worden ist,
+bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
+Datum ......................................
+Unterschrift ...............................
+(Siegel der zuständigen Stelle)

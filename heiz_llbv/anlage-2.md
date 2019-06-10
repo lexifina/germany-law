@@ -1,0 +1,48 @@
+# Anlage 2
+
+Fundstelle des Originaltextes: BGBl. I 1982, 542
+-------------------------------------------------------------------------------
+I Aussteller/Anschrift I Ort
+I I-------------------
+I I Datum
+-------------------------------------------------------------------------------
+Bescheinigung über zusätzliches Bezugsrecht für leichtes Heizöl in
+Fällen besonderen Bedarfs gemäß § 3 HeizölLBV (B 2)
+-------------------------------------------------------------------------------
+I für den Zeitraum von - bis
+I------------------------------------------------------------------------------
+I Name, Anschrift des Antragstellers
+I
+I
+-------------------------------------------------------------------------------
+Betr.: Heizölverbrauchsanlage(n)
+-------------------------------------------------------------------------------
+I Lieferanschrift: Ort, Straße, Hausnummer
+I
+-------------------------------------------------------------------------------
+Der Antragsteller ist berechtigt, für diese Heizölverbrauchsanlage(n)
+zusätzlich zu seiner ihm nach § 2 HeizölLBV zustehenden Menge zu beziehen:
+----------------------------------
+I
+I Liter leichtes Heizöl
+----------------------------------
+Dienstsiegel
+-------------------------
+Unterschrift
+-------------------------------------------------------------------------------
+Auf das zusätzliche Bezugsrecht gelieferte Mengen:
+1.
+------------------ Liter
+Rest
+------------------ Liter ------------------------- Firmenstempel
+Datum, Unterschrift
+2.
+------------------ Liter
+Rest
+------------------ Liter ------------------------- Firmenstempel
+Datum, Unterschrift
+3.
+------------------ Liter
+Rest
+------------------ Liter ------------------------- Firmenstempel
+Datum, Unterschrift

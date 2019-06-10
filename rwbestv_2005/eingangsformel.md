@@ -1,0 +1,7 @@
+# Eingangsformel
+
+Auf Grund
+- des § 69 Abs. 1 in Verbindung mit den §§ 68, 255e und 255f des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom 19. Februar 2002 (BGBl. I S. 754, 1404, 3384), von denen die §§ 68 und 255e zuletzt durch Artikel 1 Nr. 6 und 53 des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3242) und § 255f zuletzt durch Artikel 1 Nr. 11 des Gesetzes vom 4. Dezember 2004 (BGBl. I S. 3183) geändert worden sind,
+- des § 255b Abs. 1 in Verbindung mit § 255a des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - in der Fassung der Bekanntmachung vom 19. Februar 2002 (BGBl. I S. 754, 1404, 3384), von denen § 255a durch Artikel 1 Nr. 52a des Gesetzes vom 9. Dezember 2004 (BGBl. I S. 3242) zuletzt geändert worden ist, sowie
+- des § 26 in Verbindung mit § 23 Abs. 4 und des § 105 des Gesetzes über die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890)
+verordnet die Bundesregierung:

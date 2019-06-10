@@ -1,0 +1,94 @@
+# Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2)Anforderungen an die Durchführung der Messungen im Betrieb
+
+(Fundstelle: BGBl. I 2010, 51 - 53)
+1. Allgemeine Anforderungen
+  Messung des Feuchtegehaltes
+  Die Bestimmung des Feuchtegehaltes ist mit Messgeräten, die die elektrische Leitfähigkeit messen, durchzuführen. Andere gleichwertige Meßmethoden zur Bestimmung des Feuchtegehaltes können angewendet werden.
+  Messung von Abgasparametern
+  1.1 Die Messungen sind an der Messöffnung im Kern des Abgasstromes durchzuführen. Besitzt eine Feuerungsanlage mehrere Messöffnungen, sind die Messungen an jeder Messöffnung durchzuführen.
+  1.2 Vor den Messungen ist die Funktionsfähigkeit der Messgeräte zu überprüfen. Die in den Betriebsanleitungen enthaltenen Anweisungen der Hersteller sind zu beachten.
+  1.3 Die Messungen sind im ungestörten Dauerbetriebszustand der Feuerungsanlagen bei Nennwärmeleistung, ersatzweise bei der höchsten einstellbaren Wärmeleistung, so durchzuführen, dass die Ergebnisse repräsentativ und bei vergleichbaren Feuerungsanlagen und Betriebsbedingungen miteinander vergleichbar sind.
+  1.4 Zur Beurteilung des Betriebszustandes sind die Druckdifferenz zwischen Abgas und Umgebungsluft sowie die Temperatur des Abgases zu messen. Das Ergebnis der Temperaturmessung nach Nummer 3.4.1 kann verwendet werden. Die von den Betriebsmessgeräten angezeigte Temperatur des Wärmeträgers im oder hinter dem Wärmeerzeuger ist zu erfassen. Bei Feuerungsanlagen mit mehrstufigen oder stufenlos geregelten Brennern ist die bei der Messung eingestellte Leistung zu erfassen.
+  1.5 Das Messprogramm ist immer vollständig durchzuführen. Es soll nicht abgebrochen werden, wenn eine einzelne Messung negativ ausfällt.
+2. Messungen an Feuerungsanlagen für feste Brennstoffe
+  2.1 Zur Erfüllung der Anforderungen nach Nummer 1.3 sind die Messungen bei einer Kesseltemperatur von mindestens 60 Grad Celsius durchzuführen. Bei handbeschickten Feuerungsanlagen soll darüber hinaus mit den Messungen fünf Minuten, nachdem die größte vom Hersteller in der Bedienungsanleitung genannte Brennstoffmenge auf eine für die Entzündung ausreichende Glutschicht aufgegeben wurde, begonnen werden.
+  2.2 Die Emissionen sind jeweils zeitgleich mit dem Sauerstoffgehalt im Abgas als Viertelstundenmittelwert zu ermitteln. Die Emissionen sind mit einer eignungsgeprüften Messeinrichtung zu bestimmen. Die gemessenen Emissionen sind nach der Beziehung
+    | EB = | 21 – O2B | xEM |
+    | 21 – O2 |
+    auf den Bezugssauerstoffgehalt umzurechnen. Es bedeuten:
+    | EB = | Emissionen, bezogen auf den Bezugssauerstoffgehalt |
+    | EM = | gemessene Emissionen |
+    | O2B = | Bezugssauerstoffgehalt in Volumenprozent |
+    | O2 = | Volumengehalt an Sauerstoff im trockenen Abgas. |
+  2.3 Das Ergebnis der Messungen ist nach Umrechnung auf den Normzustand und den Bezugssauerstoffgehalt des Abgases mit einer Dezimalstelle mehr als der Zahlenwert des festgelegten Emissionsgrenzwertes zu ermitteln. Es ist nach Nummer 4.5.1 der DIN 1333, Ausgabe Februar 1992, zu runden. Der Emissionsgrenzwert ist eingehalten, wenn ihn der gemessene Wert abzüglich der Messunsicherheit nicht überschreitet.
+  2.4 Bei Messungen im Teillastbereich nach § 25 Absatz 2 ist wie folgt vorzugehen:
+    2.4.1 Bei Feuerungsanlagen ohne Verbrennungsluftgebläse ist in den ersten fünf Minuten bei geöffneter und in den restlichen zehn Minuten bei geschlossener Verbrennungsluftklappe zu messen.
+    2.4.2 Bei Feuerungsanlagen mit ungeregeltem Verbrennungsluftgebläse (Ein/Aus-Regelung) ist fünf Minuten bei laufendem und zehn Minuten bei abgeschaltetem Gebläse zu messen.
+    2.4.3 Bei Feuerungsanlagen mit geregeltem Verbrennungsluftgebläse (Drehzahlregelung, Stufenregelung, Luftmengenregelung mittels Drosselscheibe, -blende oder -klappe u. Ä.) ist 15 Minuten lang mit verminderter Verbrennungsluftzufuhr zu messen.
+3. Messungen an Öl- und Gasfeuerungsanlagen
+  3.1 Zur Erfüllung der Anforderungen nach Nummer 1.3 soll bei Ölfeuerungsanlagen mit Zerstäubungsbrenner und bei Gasfeuerungsanlagen frühestens zwei Minuten nach dem Einschalten des Brenners und bei Ölfeuerungsanlagen mit Verdampfungsbrenner frühestens zwei Minuten nach dem Einstellen der Nennwärmeleistung mit den Messungen begonnen werden. Bei Warmwasserheizungsanlagen soll die Kesselwassertemperatur bei Beginn der Messungen wenigstens 60 Grad Celsius betragen. Dies gilt nicht für Warmwasserheizungsanlagen, deren Kessel bestimmungsgemäß bei Temperaturen unter 60 Grad Celsius betrieben werden (Brennwertgeräte, Niedertemperaturkessel mit gleitender Regelung).
+  3.2 Die Bestimmung der Rußzahl ist nach dem Verfahren der DIN 51402, Teil 1, Ausgabe Oktober 1986, visuell durchzuführen. Es sind drei Einzelmessungen vorzunehmen. Eine weitere Einzelmessung ist jeweils durchzuführen, wenn das beaufschlagte Filterpapier durch Kondensatbildung merklich feucht wurde oder einen ungleichmäßigen Schwärzungsgrad aufweist. Aus den Einzelmessungen ist das arithmetische Mittel zu bilden. Das auf die nächste ganze Zahl gerundete Ergebnis entspricht dieser Verordnung, wenn die festgelegte Rußzahl nicht überschritten wird.
+  3.3 Die Prüfung des Abgases auf das Vorhandensein von Ölderivaten ist anhand der bei der Rußzahlbestimmung beaufschlagten Filterpapiere vorzunehmen. Die beaufschlagten Filterpapiere sind jeweils zunächst mit bloßem Auge auf Ölderivate zu untersuchen. Wird dabei eine Verfärbung festgestellt, ist der Filter für die Rußzahlbestimmung zu verwerfen. Ist eine eindeutige Entscheidung nicht möglich, muss nach der Rußzahlbestimmung ein Fließmitteltest nach DIN 51402, Teil 2, Ausgabe März 1979, durchgeführt werden. Die Anforderungen dieser Verordnung sind erfüllt, wenn an keiner der drei Filterproben Ölderivate festgestellt werden.
+  3.4 Bestimmung der Abgasverluste
+    3.4.1 Der Sauerstoffgehalt des Abgases sowie die Abgastemperatur sind quasikontinuierlich als Mittelwert über einen Zeitraum von 30 Sekunden jeweils zeitgleich im gleichen Punkt zu bestimmen. Die Temperatur der Verbrennungsluft wird in der Nähe der Ansaugöffnung des Wärmeerzeugers, bei raumluftunabhängigen Feuerungsanlagen an geeigneter Stelle im Zuführungsrohr gemessen.
+      Der Abgasverlust wird aus den Mittelwerten der quasikontinuierlichen Messung von Abgastemperatur und Sauerstoffgehalt sowie aus den gemessenen Werten für Sauerstoffgehalt und Temperatur der Verbrennungsluft nach folgender Formel errechnet:
+      | qA = (tA – tL) • | ( | A | + B | ) |
+      | 21 – O2,A |
+      Es bedeuten:
+      | qA = | Abgasverlust in Prozent |
+      | tA = | Abgastemperatur in Grad Celsius |
+      | tL = | Verbrennungslufttemperatur in Grad Celsius |
+      | O2,A = | Volumengehalt an Sauerstoff im trockenen Abgas in Prozent |
+      |  | Heizöl EL, naturbelassene Pflanzenöle, Pflanzenölmethylester | Gase der öffentlichen Gasversorgung | Kokereigas | Flüssiggas und Flüssiggas-Luft-Gemische |
+      | A = | 0,68 | 0,66 | 0,60 | 0,63 |
+      | B = | 0,007 | 0,009 | 0,011 | 0,008 |
+      .
+    3.4.2 Nummer 2.3 gilt entsprechend.
+4. Inhalt der Bescheinigung über die Überwachungsmessungen an Feuerungsanlagen für flüssige und gasförmige Brennstoffe
+  Die Bescheinigung nach § 14 Absatz 4 oder § 15 Absatz 5 muss mindestens folgende Informationen enthalten:
+  Allgemeine Informationen
+  Name und Anschrift der Schornsteinfegerin oder des Schornsteinfegers bzw. des Bezirksschornsteinfegermeisters
+  Name und Anschrift des Eigentümers
+  Aufstellort der Anlage
+  Rechtliche Grundlage der Überprüfung
+  Wärmetauscher: Hersteller, Typ, Jahr der Errichtung, Leistungsbereich und Nennleistung
+  Brenner: Hersteller, Typ, Jahr der Errichtung, Leistungsbereich und Leistung bei der Messung
+  Art des Brenners (mit Gebläse, ohne Gebläse, Verdampfungsbrenner)
+  Eingesetzter Brennstoff (Bezeichnung und Nummer nach § 3 Absatz 1)
+  Art der Anlage (z. B. Zentralheizung, Einzelraumfeuerungsanlage, Heizung mit Warmwassererzeugung, Warmwassererzeugung)
+  Messergebnis
+  Wärmeträgertemperatur
+  Verbrennungslufttemperatur
+  Abgastemperatur
+  Sauerstoffgehalt im Abgas
+  Druckdifferenz
+  Ermittelter Abgasverlust unter Angabe der Messunsicherheit
+  Bei Anlagen mit flüssigen Brennstoffen: Rußzahl aus allen Einzelmessungen sowie Mittelwert der Rußzahl
+  Bei Anlagen mit flüssigen Brennstoffen: Ergebnis der Überprüfung auf Ölderivate
+  Für die Anlage relevante Grenzwerte dieser Verordnung
+  Sonstige Überwachungstätigkeiten
+  Information über die Überprüfung der Anforderungen nach § 6 Absatz 2 und 3 (Herstellerbescheinigung)
+5. Inhalt der Bescheinigung über die Überwachungsmessungen an Feuerungsanlagen für feste Brennstoffe
+  Die Bescheinigung nach § 14 Absatz 4 oder § 15 Absatz 5 muss mindestens folgende Angaben enthalten:
+  Allgemeine Informationen
+  Name und Anschrift der Schornsteinfegerin oder des Schornsteinfegers bzw. des Bezirksschornsteinfegermeisters
+  Name und Anschrift des Eigentümers
+  Aufstellort der Anlage
+  Rechtliche Grundlage der Überprüfung und Messung
+  Feuerstätte: Hersteller, Typ, Jahr der Errichtung, Leistungsbereich und Nennleistung, Feuerstättenbauart, Beschickungsart
+  Eingesetzter Brennstoff (Bezeichnung und Nummer nach § 3 Absatz 1)
+  Art der Anlage (z. B. Zentralheizung, Einzelraumfeuerungsanlage, Heizung mit Warmwassererzeugung, Warmwassererzeugung)
+  Messergebnis
+  Wärmeträgertemperatur
+  Abgastemperatur
+  Sauerstoffgehalt im Abgas
+  Druckdifferenz
+  Ermittelter Staubgehalt im Abgas unter Angabe der Messunsicherheit
+  Ermittelter Kohlenstoffmonoxidgehalt im Abgas unter Angabe der Messunsicherheit
+  Für die Anlage relevante Grenzwerte dieser Verordnung
+  Sonstige Überwachungstätigkeiten
+  Ermittelter Feuchtigkeitsgehalt der in § 3 Absatz 1 Nummer 4, 5 und 6 bis 8 genannten Brennstoffe
+  Information über die Überprüfung der Anforderungen nach § 4 Absatz 1
+  Nur bei Inbetriebnahme
+  Information über die Durchführung einer Beratung nach § 4 Absatz 8
+  Information über die Überprüfung der Anforderungen nach § 4 Absatz 3 und 6, § 6 Absatz 1 (Herstellerbescheinigungen)

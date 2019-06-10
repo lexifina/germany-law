@@ -1,0 +1,24 @@
+# Anlage (zu § 28)Regelbedarfsstufen nach § 28 in Euro
+
+| gültig ab | Regel- bedarfsstufe 1 | Regel- bedarfsstufe 2 | Regel- bedarfsstufe 3 | Regel- bedarfsstufe 4 | Regel- bedarfsstufe 5 | Regel- bedarfsstufe 6 |
+| 1. Januar 2011 | 364 | 328 | 291 | 287 | 251 | 215 |
+| 1. Januar 2012 | 374 | 337 | 299 | 287 | 251 | 219 |
+| 1. Januar 2013 | 382 | 345 | 306 | 289 | 255 | 224 |
+| 1. Januar 2014 | 391 | 353 | 313 | 296 | 261 | 229 |
+| 1. Januar 2015 | 399 | 360 | 320 | 302 | 267 | 234 |
+| 1. Januar 2016 | 404 | 364 | 324 | 306 | 270 | 237 |
+| 1. Januar 2017 | 409 | 368 | 327 | 311 | 291 | 237 |
+| 1. Januar 2018 | 416 | 374 | 332 | 316 | 296 | 240 |
+| 1. Januar 2019 | 424 | 382 | 339 | 322 | 302 | 245 |
+Regelbedarfsstufe 1:
+Für jede erwachsene Person, die in einer Wohnung nach § 42a Absatz 2 Satz 2 lebt und für die nicht Regelbedarfsstufe 2 gilt.
+Regelbedarfsstufe 2:
+Für jede erwachsene Person, wenn sie in einer Wohnung nach § 42a Absatz 2 Satz 2 mit einem Ehegatten oder Lebenspartner oder in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft mit einem Partner zusammenlebt.
+Regelbedarfsstufe 3:
+Für eine erwachsene Person, deren notwendiger Lebensunterhalt sich nach § 27b bestimmt.
+Regelbedarfsstufe 4:
+Für eine Jugendliche oder einen Jugendlichen vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres.
+Regelbedarfsstufe 5:
+Für ein Kind vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres.
+Regelbedarfsstufe 6:
+Für ein Kind bis zur Vollendung des sechsten Lebensjahres.

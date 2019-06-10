@@ -1,0 +1,8 @@
+# Art 20 Inkrafttreten
+
+(1)
+Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am Tage nach der Verkündung in Kraft.
+(2)
+Artikel 1 Nr. 18 Buchstabe b und Artikel 8 Nr. 2 treten vorbehaltlich der Genehmigung durch die Kommission der Europäischen Gemeinschaften am Tage nach der Verkündung in Kraft.
+(3)
+Artikel 15 Abs. 1 tritt am 1. Januar 1994, Artikel 15 Abs. 2 tritt am 1. Januar 1995 und Artikel 15 Abs. 3 tritt am Tage nach der Verkündung in Kraft. Artikel 18 tritt am 1. November 1993 in Kraft.

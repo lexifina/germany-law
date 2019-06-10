@@ -1,0 +1,1 @@
+# 2014/709/EU: Durchführungsbeschluss der Kommission mit tierseuchenrechtlichen Maßnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU

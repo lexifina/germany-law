@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 9 Abs. 2 des Gesetzes über die Angleichung der Leistungen zur Rehabilitation vom 7. August 1974 (BGBl. I S. 1881), der durch Artikel 16 des Gesetzes vom 1. Dezember 1981 (BGBl. I S. 1205) geändert worden ist, auf Grund des § 27f in Verbindung mit § 26 Abs. 6 Satz 1 des Bundesversorgungsgesetzes in der Fassung der Bekanntmachung vom 22. Januar 1982 (BGBl. I S. 21) und auf Grund des § 11 Abs. 3 Satz 3 des Schwerbehindertengesetzes in der Fassung der Bekanntmachung vom 26. August 1986 (BGBl. I S. 1421) verordnet die Bundesregierung mit Zustimmung des Bundesrates:

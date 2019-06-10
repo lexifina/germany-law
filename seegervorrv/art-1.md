@@ -1,0 +1,8 @@
+# Art 1
+
+(1)
+Die Mitglieder des Internationalen Seegerichtshofs und dessen Kanzler, soweit dieser nicht die deutsche Staatsangehörigkeit besitzt oder in der Bundesrepublik Deutschland ständig ansässig ist, genießen die Vorrechte, Immunitäten, Befreiungen und Erleichterungen, die den in vergleichbarem Rang stehenden Diplomaten der diplomatischen Missionen in der Bundesrepublik Deutschland gewährt werden.
+(2)
+Auf den Internationalen Seegerichtshof mit Sitz in Hamburg, seine Bediensteten, die Ehegatten der Bediensteten, die von ihnen unterhaltenen Familienmitglieder sowie die Sachverständigen, einschließlich der Streitparteien, der Vertreter der Streitparteien und der Zeugen, die Aufträge des Internationalen Seegerichtshofs durchführen, wird das Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen vom 21. November 1947 unter Ausschluß der Artikel IX und X des Abkommens sinngemäß angewendet.
+(3)
+Die deutschen Rechtsvorschriften über die Versicherungspflicht in der Sozialversicherung sowie über das Kindergeld gelten nicht für den Internationalen Seegerichtshof mit Sitz in Hamburg und seine Bediensteten, sofern die Bediensteten des Internationalen Seegerichtshofs einem System der Sozialen Sicherheit des Internationalen Seegerichtshofs oder einem System, dem sich der Internationale Seegerichtshof angeschlossen hat, angehören, das ausreichende Leistungen vorsieht.

@@ -1,0 +1,20 @@
+# Anlage 4 (zu § 5 Absatz 2, § 6)Maßnahmen zur Verbesserung der Expositionsklasse eines Gewässers
+
+Folgende Maßnahmen sind Maßnahmen im Sinne des § 5 Absatz 1
+| Maßnahme | Risikominderungsfaktor |
+| Regulierung der Gewässertiefe, so dass in der Zeit vom 15. März bis 15. November eines jeden Jahres während des ganzen Zeitraums eine Gewässertiefe von mindestens |  |
+| 0,6 Metern | 50 % Minderung |
+| 0,9 Metern | 70 % Minderung |
+| vorhanden ist. |  |
+| Anlage/Unterhaltung einer Hecke zwischen Gewässer und Anwendungsfläche mit einer Höhe von mindestens 4 Metern und einer Breite von mindestens 1 Meter | 50 % Minderung |
+| Anlage/Unterhaltung eines geschlossenen Überdachungssystems mit Seitenabschirmung | 80 % |
+| Die Anwendung findet auf einer Fläche in Leelage (Hauptwindrichtung +/– 30 Grad) zu einem angrenzenden Gewässer statt. | 50 % |
+| Produktion mit einem durch die Produktionsart bedingten verringerten Anwendungsumfang von Pflanzenschutzmitteln |  |
+| a) | Produktion nach den Vorgaben der Verordnung (EG) Nr. 834/2007 vom 28. Juni 2007 (ABl. L 189 vom 20.7.2007, S. 1) in der jeweils gültigen Fassung | 90 % Minderung |
+| Anwendung findet bei Steinobst bei folgender Kronenhöhe statt: |  |
+| mehr als 4 Meter | 50 % |
+| bis 4 Meter | 70 % Minderung |
+| Verwendung eines in der Liste nach § 3 Absatz 1 aufgeführten Tunnelspritzgeräts mit einer Verlustminderung |  |
+| von mindestens 90 % | 90 % Minderung |
+| von mindestens 95 % | 95 % Minderung |
+| Anlage/Unterhaltung eines Refugialgewässers mit einer Oberfläche, die der Oberfläche der an den Betrieb grenzenden Gewässer entspricht | 50 % |

@@ -1,0 +1,18 @@
+# Gesetz zur Errichtung der „Stiftung Forum Recht“
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Name, Sitz und Rechtsform der Stiftung; Siegel; Standort](0001.md)
+- [§ 2 Stiftungszweck](0002.md)
+- [§ 3 Unterstützung durch Einrichtungen des Bundes](0003.md)
+- [§ 4 Stiftungsvermögen; Errichtungsort](0004.md)
+- [§ 5 Satzung](0005.md)
+- [§ 6 Organe der Stiftung](0006.md)
+- [§ 7 Kuratorium](0007.md)
+- [§ 8 Direktorium](0008.md)
+- [§ 9 Stiftungsbeirat](0009.md)
+- [§ 10 Ehrenamtliche Tätigkeit](0010.md)
+- [§ 11 Aufsicht; Haushalt; Rechnungsprüfung](0011.md)
+- [§ 12 Berichterstattung](0012.md)
+- [§ 13 Beschäftigte](0013.md)
+- [§ 14 Freier Eintritt; Gebühren](0014.md)
+- [§ 15 Inkrafttreten](0015.md)

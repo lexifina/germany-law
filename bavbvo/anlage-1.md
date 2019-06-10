@@ -1,0 +1,46 @@
+# Anlage 1 (zu § 3 Abs. 2)
+
+......................................................
+......................................................
+(Name und Anschrift des Betriebes, Trägers oder
+sonstigen Anbieters der Berufsausbildungsvorbereitung)
+Qualifizierungsbild des Qualifizierungsbausteins
+...............................................................................
+(Bezeichnung des Qualifizierungsbausteins)
+1. Zugrunde liegender Ausbildungsberuf:
+...........................................................................
+(Bezeichnung, Datum der Anerkennung, *P Fundstelle */ der Ausbildungsordnung
+im Bundesgesetzblatt/Bundesanzeiger)
+2. Qualifizierungsziel:
+...........................................................................
+...........................................................................
+(Allgemeine, übergreifende Beschreibung der zu erwerbenden Qualifikationen
+und ausgeübten Tätigkeiten)
+3. Dauer der Vermittlung:
+...........................................................................
+(Angabe der Dauer in Zeitstunden bzw. Wochen mit Wochenstundenangabe)
+4. Zu vermittelnde Tätigkeiten, Fertigkeiten und Kenntnisse:
+---------------------------------------------------------------------------
+I Zu vermittelnde Tätigkeiten I Zuordnung zu den Fertigkeiten und I
+I I Kenntnissen des Ausbildungs- I
+I I rahmenplans 1) I
+---------------------------------------------------------------------------
+I I I
+---------------------------------------------------------------------------
+I I I
+---------------------------------------------------------------------------
+5. Leistungsfeststellung:
+...........................................................................
+(Beschreibung der Art der Leistungsfeststellung, etwa Prüfgespräch,
+schriftlicher Test, kontinuierliche Tätigkeitsbewertung)
+Die Übereinstimmung dieses Qualifizierungsbildes mit den Vorgaben des § 3
+der Berufsausbildungsvorbereitungs-Bescheinigungsverordnung wird durch
+...............................................................................
+(Bezeichnung und Anschrift der zuständigen Stelle)
+bestätigt. 2)
+Datum ................................ (Siegel)
+......................................
+(Unterschrift)
+-----
+1) oder zu den Ausbildungsinhalten einer gleichwertigen Berufsausbildung
+2) Ggf. streichen.

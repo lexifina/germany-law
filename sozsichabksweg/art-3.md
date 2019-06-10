@@ -1,0 +1,6 @@
+# Art 3
+
+(1)
+In den Fällen, in denen nach Artikel 20 Abs. 1 und 2 des Abkommens in der Bundesrepublik Deutschland ein Träger der Krankenversicherung Sachleistungen gewährt, haben ihm die deutschen Träger der Unfallversicherung die Kosten für diese Leistungen zu erstatten.
+(2)
+Die Kosten werden zu gleichen Teilen auf alle Träger der Unfallversicherung umgelegt. Dies gilt auch für die Aufwendungen der Unfallversicherungsträger nach Artikel 20 Abs. 3 des Abkommens und Nummer 13 des Schlußprotokolls zum Abkommen. Die Erstattung und Umlage führt der Hauptverband der gewerblichen Berufsgenossenschaften e.V. als Verbindungsstelle für die Unfallversicherung durch.

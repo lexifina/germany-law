@@ -1,0 +1,67 @@
+# Anlage 2 (zu § 4 Abs. 1)
+
+( Fundstelle des Originaltextes: BGBl. I 2006, S. 1463 u. 1464 )
+Bundesrepublik Deutschland
+        Bundesamt für Seeschifffahrt und Hydrographie
+        Federal Republic of Germany
+        Federal Maritime and Hydrographic Agency
+(Inhalt: ...nicht darstellbarer Bundesadler)
+Bescheinigung
+      über die Versicherung oder sonstige finanzielle Sicherheit für die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden
+      Certificate
+      of Insurance or other Financial Security in Respect of Civil Liability for Oil Pollution Damage
+Ausgestellt nach Artikel 7 des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden.
+Issued in accordance with the provisions of Article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001
+----------------------------------------------------------------------------
+I Name des I Unter- I IMO-Schiffs I Heimat- I Name und I
+I Schiffes I scheidungs- I identifizierungs- I hafen I vollständige I
+I Name of I signal I nummer I Port of I Anschrift des I
+I ship I Distinctive I IMO Ship I registry I Hauptgeschäfts- I
+I I Number or I Identification I I sitzes des I
+I I letters I Number I I eingetragenen I
+I I I I I Eigentümers I
+I I I I I Name and full I
+I I I I I address of I
+I I I I I the principal I
+I I I I I place of I
+I I I I I business of the I
+I I I I I registered owner I
+----------------------------------------------------------------------------
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+-----------------------------------------------------------------------------
+Hiermit wird bescheinigt, daß für das vorgenannte Schiff eine Versicherungspolice oder sonstige finanzielle Sicherheit nach Maßgabe des Artikels 7 des Internationalen Übereinkommens von 2001 über die zivilrechtliche Haftung für Bunkerölverschmutzungsschäden besteht.
+This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001.
+Art der Sicherheit
+...........................................................
+Type of Security
+Laufzeit der Sicherheit
+.................................................
+Duration of Security
+Name und Anschrift des (der) Versicherers (Versicherer) und/oder
+Sicherheitsgebers (Sicherheitgeber)
+Name and address of the Insurer(s) and/or guarantor(s)
+Name
+.........................................................................
+Name
+Anschrift
+....................................................................
+Address
+Diese Bescheinigung gilt bis
+..............................................
+This certificate is valid until
+Ausgestellt oder bestätigt von der Regierung der Bundesrepublik Deutschland,
+Bundesamt für Seeschifffahrt und Hydrographie
+Issued or certified by the Government of the Federal Republic of Germany,
+Federal Maritime and Hydrographic Agency
+in/at Hamburg am/on .................................................
+Datum/Date
+(Unterschrift und Amtsbezeichnung des
+ausstellenden oder bestätigenden Bediensteten)
+(Signature and Title of issuing or certifying
+official)
+................................................

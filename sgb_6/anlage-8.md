@@ -1,0 +1,80 @@
+# Anlage 8 Lohn-, Beitrags- oder Gehaltsklassen und Beitragsbemessungsgrundlagen in RM/DM für Sachbezugszeiten, in denen der Versicherte nicht Lehrling oder Anlernling war
+
+(Fundstelle: BGBl. I 2002, 881 - 882)
+| Zeitraum | Rentenversicherung der Arbeiter | Rentenversicherung der Angestellten |
+| Arbeiter *) Arbeiterinnen ++)in der Gruppe | Angestellte |
+| 1 | 2 | 3 | 1 | 2 | männlich | weiblich |
+| 1.1.1891-31.12.1899 | IV | III | III | III | II | D | B |
+| 1.1.1900-31.12.1906 | IV | IV | III | III | III | D | C |
+| 1.1.1907-31. 7.1921 | V | V | IV | III | III | E | C |
+| 1.8.1921-30. 9.1921 | V | V | IV | III | III | - | - |
+| 1.1.1924-31.12.1925 | V | V | IV | IV | III | C | B |
+| 1.1.1926-31.12.1927 | VI | V | V | IV | IV | C | C |
+| 1.1.1928-31.12.1933 | VII | VI | V | IV | IV | C | C |
+| 1.1.1934-31.12.1938 | VI | V | V | IV | IV | C | C |
+| 1.1.1939-28./30.6.1942 | VII | VI | V | V | IV | D | C |
+| 1942 | 2 124 | 1 824 | 1 500 | 1 428 | 1 176 | 2 604 | 1 776 |
+| 1943 | 2 160 | 1 860 | 1 536 | 1 440 | 1 188 | 2 628 | 1 788 |
+| 1944 | 2 160 | 1 860 | 1 548 | 1 452 | 1 200 | 2 604 | 1 764 |
+| 1945 | 1 872 | 1 608 | 1 368 | 1 272 | 1 068 | 2 028 | 1 368 |
+| 1946 | 1 992 | 1 716 | 1 452 | 1 308 | 1 116 | 2 016 | 1 332 |
+| 1947 | 2 088 | 1 788 | 1 536 | 1 344 | 1 152 | 2 088 | 1 380 |
+| 1948 | 2 424 | 2 076 | 1 776 | 1 584 | 1 344 | 2 544 | 1 668 |
+| 1949 | 2 916 | 2 508 | 2 124 | 1 896 | 1 620 | 3 264 | 2 136 |
+| 1950 | 2 976 | 2 556 | 2 124 | 1 992 | 1 668 | 3 612 | 2 604 |
+| 1951 | 3 396 | 2 916 | 2 412 | 2 280 | 1 908 | 4 092 | 2 940 |
+| 1952 | 3 672 | 3 156 | 2 592 | 2 460 | 2 052 | 4 380 | 3 156 |
+| 1953 | 3 828 | 3 300 | 2 688 | 2 568 | 2 100 | 4 584 | 3 324 |
+| 1954 | 3 972 | 3 420 | 2 772 | 2 664 | 2 148 | 4 740 | 3 456 |
+| 1955 | 4 308 | 3 708 | 2 976 | 2 844 | 2 328 | 4 848 | 3 528 |
+| 1956 | 4 596 | 3 948 | 3 144 | 3 048 | 2 484 | 5 124 | 3 744 |
+| Angestellte |
+| Zeitraum | männlich | weiblich |
+| 1.1.1891-31.12.1899 | IV | II |
+| 1.1.1900-31.12.1906 | IV | III |
+| 1.1.1907-31.12.1912 | V | III |
+*) Arbeiter in der Rentenversicherung der Arbeiter
+Gruppe 1
+Arbeiter, die aufgrund ihrer Fachausbildung ihre Arbeiten unter eigener Verantwortung selbständig ausführen.
+Hierzu gehören u.a.:
+Landwirtschaftsmeister
+  Melkermeister und Alleinmelker
+  Meister der Tierzucht, des Brennerei- und Molkereifaches, der Gärtner-, Kellerei- und Weinbauberufe
+  Handwerksmeister
+  Haumeister
+Gruppe 2
+Arbeiter, die aufgrund einer abgeschlossenen Lehre oder mehr als sechsjähriger Berufserfahrung alle anfallenden Arbeiten beherrschen und ohne Anleitung verrichten, die motorgetriebene landwirtschaftliche Maschinen bedienen, pflegen oder reparieren, sowie Aufsichtskräfte und Arbeiter, die mit Spezialarbeiten beschäftigt werden.
+Hierzu gehören u.a.:
+landwirtschaftlicher Gehilfe
+  Gehilfe und Spezialarbeiter der Tierzucht, des Brennerei- und Molkereifaches, der Gärtner-, Kellerei- und Weinbauberufe
+  Vorarbeiter einschließlich "Baumeister"
+  Treckerfahrer (früher Gespannführer)
+  Kraftfahrer
+  Landarbeiter mit Facharbeiterbrief oder mehr als sechsjähriger Berufserfahrung
+  Waldarbeiter, Waldarbeitergehilfe und angelernter Waldarbeiter mit mehr als sechsjähriger Berufserfahrung
+Gruppe 3
+Arbeiter, die mit einfachen, als Hilfsarbeiten zu bewertenden Arbeiten beschäftigt sind, sowie alle sonstigen Arbeiter, die nicht nach der Leistungsgruppe 1 oder 2 einzustufen sind.
+Hierzu gehören u.a.:
+Landarbeiter mit weniger als sechsjähriger Berufserfahrung
+  Hilfsarbeiter
+  angelernter Waldarbeiter mit weniger als sechsjähriger Berufserfahrung
+  ungelernter Waldarbeiter
+++) Arbeiterinnen in der Rentenversicherung der Arbeiter
+Gruppe 1
+Arbeiterinnen, die aufgrund einer abgeschlossenen Lehre oder mehr als sechsjähriger Berufserfahrung alle anfallenden Arbeiten beherrschen und ohne Anleitung verrichten, die motorgetriebene landwirtschaftliche Maschinen bedienen, pflegen oder reparieren, sowie Aufsichtskräfte und Arbeiterinnen, die mit Spezialarbeiten beschäftigt werden.
+Hierzu gehören u.a.:
+Gehilfin
+  Wirtschafterin
+  Vorarbeiterin
+  Spezialarbeiterin
+  Landarbeiterin mit Facharbeiterbrief oder mehr als sechsjähriger Berufserfahrung
+  Hausgehilfin (auch außerhalb der Landwirtschaft) mit mehr als sechsjähriger Berufserfahrung
+  angelernte Waldarbeiterin mit mehr als sechsjähriger Berufserfahrung
+Gruppe 2
+Arbeiterinnen, die mit einfachen, als Hilfsarbeiten zu bewertenden Arbeiten beschäftigt sind, sowie alle sonstigen Arbeiterinnen, die nicht nach der Leistungsgruppe 1 einzustufen sind.
+Hierzu gehören u.a.:
+Landarbeiterin mit weniger als sechsjähriger Berufserfahrung
+  Hausgehilfin (auch außerhalb der Landwirtschaft) mit weniger als sechsjähriger Berufserfahrung
+  Hilfsarbeiterin
+  angelernte Waldarbeiterin mit weniger als sechsjähriger Berufserfahrung
+  ungelernte Waldarbeiterin

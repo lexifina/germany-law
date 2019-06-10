@@ -1,0 +1,8 @@
+# Art 62
+
+(1)
+Die Form einer Scheckerklärung bestimmt sich nach dem Recht des Landes, in dessen Gebiete die Erklärung unterschrieben worden ist. Es genügt jedoch die Beobachtung der Form, die das Recht des Zahlungsorts vorschreibt.
+(2)
+Wenn eine Scheckerklärung, die nach den Vorschriften des vorstehenden Absatzes ungültig ist, dem Recht des Landes entspricht, in dessen Gebiet eine spätere Scheckerklärung unterschrieben worden ist, so wird durch Mängel in der Form der ersten Scheckerklärung die Gültigkeit der späteren Scheckerklärung nicht berührt.
+(3)
+Eine Scheckerklärung, die ein Inländer im Ausland abgegeben hat, ist im Inland gegenüber anderen Inländern gültig, wenn die Erklärung den Formerfordernissen des inländischen Rechts genügt.

@@ -1,0 +1,16 @@
+# Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Fischwirt
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Meisterprüfung und Bezeichnung des Abschlusses](0001.md)
+- [§ 1a Zulassungsvoraussetzungen zur Meisterprüfung](0001a.md)
+- [§ 2 Gliederung der Meisterprüfung](0002.md)
+- [§ 3 Prüfungsanforderungen im praktischen Teil](0003.md)
+- [§ 4 Prüfungsanforderungen im fachtheoretischen Teil](0004.md)
+- [§ 5 Prüfungsanforderungen im wirtschaftlichen und rechtlichen Teil](0005.md)
+- [§ 6 Prüfungsanforderungen im Teil "Berufsausbildung und Mitarbeiterführung"](0006.md)
+- [§ 7 Anrechnung anderer Prüfungsleistungen](0007.md)
+- [§ 8 Bestehen der Meisterprüfung](0008.md)
+- [§ 9 Wiederholung der Meisterprüfung](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlußformel](schlussformel.md)

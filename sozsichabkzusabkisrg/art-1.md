@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Jerusalem am 12. Februar 1995 unterzeichneten Zusatzabkommen zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit (BGBl. 1975 II S. 245), das durch das Änderungsabkommen vom 7. Januar 1986 (BGBl. 1986 II S. 862) geändert wurde, wird zugestimmt. Das Zusatzabkommen wird nachstehend veröffentlicht.

@@ -1,0 +1,22 @@
+# Anlage 8 (zu § 13 Absatz 2)Liste sonstiger Schadstoffe und Schadstoffgruppen
+
+(Fundstelle: BGBl. I 2010, 1529)
+Nicht erschöpfende Aufzählung der Schadstoffe und Schadstoffgruppen im Sinne des § 13 Absatz 2:
+1. Metalle und Metallverbindungen
+  1.1 Zink
+  1.2 Kupfer
+  1.3 Chrom
+  1.4 Selen
+  1.5 Antimon
+  1.6 Molybdän
+  1.7 Barium
+  1.8 Bor
+  1.9 Vanadium
+  1.10 Kobalt
+2. Pflanzenschutzmittel sowie Biozide
+3. Schwebstoffe
+4. Stoffe, die zur Eutrophierung beitragen (insbesondere Nitrat und Phosphate)
+5. Stoffe, die die Sauerstoffbilanz nachhaltig beeinflussen und die anhand von Parametern wie biologischer Sauerstoffbedarf, chemischer Sauerstoffbedarf und so weiter gemessen werden können
+6. Fluoride
+7. Ammonium und Nitrit
+8. Mineralöle und Kohlenwasserstoffe

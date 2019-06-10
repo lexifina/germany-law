@@ -1,0 +1,99 @@
+# Anlage 3 (zu § 17)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker
+Modelltechnik/zur Industriekeramikerin Modelltechnik
+
+(Fundstelle: BGBl. I 2005, 1558 - 1561)
+| Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 16 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 16 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 16 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen der Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 16 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |  |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Betriebliche und technische Kommunikation (§ 16 Nr. 5) | a) | Informationsquellen auswählen, Informationen beschaffen und bewerten | 8 |  |
+| b) | technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen |
+| c) | Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren |
+| d) | Sachverhalte darstellen; englische Fachbegriffe anwenden |
+| 6 | Planen und Organisieren von Arbeitsabläufen, Bewerten von Arbeitsergebnissen, Geschäftsprozesse (§ 16 Nr. 6) | a) | Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen | 8 |  |
+| b) | Maschinen nach Fertigungsverfahren unterscheiden |
+| c) | Aufgaben im Team planen, durchführen und bewerten |
+| d) | Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten |
+| e) | Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen |
+| f) | Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen |
+| g) | Instrumente zur Auftragsabwicklung sowie zur Terminverfolgung anwenden |
+| h) | produktionstechnisch relevante Daten erfassen und bewerten |
+| i) | Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren |
+| j) | Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten |
+| 7 | Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen (§ 16 Nr. 7) | a) | Roh- und Hilfsstoffe unterscheiden und auf Qualitätsparameter prüfen | 16 |  |
+| b) | Roh- und Hilfsstoffe ihrer Verwendung nach zuordnen und einsetzen |
+| c) | Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben |
+| d) | verfahrensbezogene Berechnungen durchführen |
+| 8 | Formgebung und Veredlung (§ 16 Nr. 8) | a) | Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen | 6 |  |
+| b) | Formgebungsverfahren unterscheiden |
+| c) | Veredlungsverfahren beschreiben |
+| d) | mechanische und manuelle Veredlungstechniken unterscheiden |
+| 9 | Warten und Pflegen von Betriebsmitteln (§ 16 Nr. 9) | a) | Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren | 4 |  |
+| b) | schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen |
+| c) | Betriebsstoffe auswählen, einsetzen und entsorgen |
+| 10 | Trocknen und Brennen (§ 16 Nr. 10) | a) | Trocknungs- und Brennverfahren unterscheiden | 4 |  |
+| b) | Vorgänge während des Trocknens und Brennens überwachen |
+| c) | Fehlerursachen unsachgemäßen Trocknens und Brennens erkennen |
+| 11 | Durchführen qualitätssichernder Maßnahmen (§ 16 Nr. 11) | a) | betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden | 6 |  |
+| b) | Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren |
+| c) | zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen |
+| d) | Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen |
+| Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Modelle und Formen entwerfen (§ 16 Nr. 12) | a) | Produkte unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen | 4 |  |
+| b) | für den Modell- und Formenbau relevante produktionstechnische Kriterien, insbesondere Schwindung, Formveränderung und Radien, ermitteln |
+| c) | Skizzen nach Vorgaben anfertigen |
+| d) | Modellzeichnungen, insbesondere unter Berücksichtigung von Schwindungs- und Volumenberechnungen sowie Formveränderungen, anfertigen |  | 8 |
+| e) | Werkzeuge und Hilfsmittel für die Produktion entwickeln |
+| 2 | Einsetzen von Werkstoffen und Hilfsmitteln für den Modell-, Einrichtungs- und Formenbau (§ 16 Nr. 13) | a) | Arten, Eigenschaften, Lagerung und Verarbeitungsmöglichkeiten, insbesondere von Gipsen, Kunststoffen und Trennmitteln, unterscheiden | 2 |  |
+| b) | Parameter des Gipses und dessen Abbindevorganges bestimmen und einstellen |  | 4 |
+| c) | Zuschlagstoffe einsetzen |
+| 3 | Herstellen von Werkstücken aus Metall (§ 16 Nr. 14) | a) | Werkstücke durch Anreißen, Körnen und Kennzeichnen vorbereiten | 3 |  |
+| b) | Mess- und Prüfwerkzeuge handhaben |
+| c) | spanende Metallbearbeitung, insbesondere durch Sägen, Feilen, Bohren und Schleifen, durchführen |
+| d) | Schablonen herstellen und einsetzen |
+| 4 | Herstellen von dreidimensionalen Werkstücken aus Gips (§ 16 Nr. 15) | a) | Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen | 9 |  |
+| b) | Bearbeitungsverfahren, insbesondere durch Modellieren, Ziehen und Gravieren, anwenden |
+| c) | Modelle oder Einrichtungen, insbesondere durch Drehen und Schneiden, herstellen |
+| d) | Schablonen herstellen und einsetzen |
+| e) | Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder Modellformvorgabe für zweiteilige Formen herstellen, insbesondere durch Modellieren, Ziehen und Gravieren |  | 25 |
+| f) | Modelle oder Einrichtungen nach Zeichnungs-, Modell- oder Modellformvorgabe für drei- und mehrteilige Formen, insbesondere unter Beachtung der wirtschaftlichen Arbeitsplanung, herstellen |
+| g) | Modelle oder Einrichtungen auf Funktionsfähigkeit, insbesondere auf Passgenauigkeit prüfen, beurteilen, korrigieren und dokumentieren |
+| 5 | Herstellen von dreidimensionalen Werkstücken aus Kunststoffen (§ 16 Nr. 16) | a) | Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen | 4 |  |
+| b) | Arbeitsverfahren, insbesondere Gießen, Laminieren und Abtragen, anwenden |  | 8 |
+| c) | Modelle oder Einrichtungen unter Berücksichtigung der unterschiedlichen Kunststoffeigenschaften und Verarbeitungskriterien herstellen |
+| d) | Schablonen herstellen und einsetzen |
+| e) | Modelle oder Einrichtungen auf Funktionsfähigkeit insbesondere auf Passgenauigkeit prüfen, beurteilen, korrigieren und Ergebnisse dokumentieren |
+| 6 | Herstellen von Formen (§ 16 Nr. 17) | a) | Werkzeuge, Hilfs- und Werkstoffe nach Verwendungszweck auswählen und einsetzen | 4 |  |
+| b) | Formen unter Beachtung unterschiedlicher Formgebungsverfahren herstellen |  | 10 |
+| c) | Formen unter Berücksichtigung der Anlagentechnik herstellen |
+| d) | Formen auf Funktionsfähigkeit prüfen, beurteilen und optimieren |
+| e) | Musterprodukte nach vorgegebenen Kriterien prüfen und Formen optimieren |
+| 7 | Trocknen und Lagern (§ 16 Nr. 18) | a) | Modelle oder Einrichtungen trocknen und lagern |  | 3 |
+| b) | Formen trocknen und lagern |
+| 8 | Durchführen qualitätssichernder Maßnahmen (§ 16 Nr. 11) | a) | Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden |  | 20 |
+| b) | Ergebnisse, insbesondere Maß- und Normabweichungen, dokumentieren |
+| c) | Produkte nach vorgegebenen Kriterien prüfen |
+| d) | Modelle, Einrichtungen und Verfahren optimieren |

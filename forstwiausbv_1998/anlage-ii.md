@@ -1,0 +1,104 @@
+# Anlage II (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Forstwirt/zur Forstwirtin
+
+- zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 1998, S. 216 - 218)
+Erstes Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+      lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion,
+      lfd. Nr. 4 Naturschutz und Landschaftspflege,
+      lfd. Nr. 5 Ernte und Aufbereitung von Forsterzeugnissen,
+      lfd. Nr. 6 Forsttechnik
+  zu vermitteln.
+2) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+      lfd. Nr. 4 Naturschutz und Landschaftspflege
+  zu vermitteln.
+3) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 4 Naturschutz und Landschaftspflege
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+      lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion
+  zu vermitteln.
+4) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 5 Ernte und Aufbereitung von Forsterzeugnissen
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+      lfd. Nr. 6 Forsttechnik
+  zu vermitteln.
+5) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 6 Forsttechnik
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+      lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion,
+      lfd. Nr. 4 Naturschutz und Landschaftspflege,
+      lfd. Nr. 5 Ernte und Aufbereitung von Forsterzeugnissen
+  zu vermitteln.
+Zweites Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 4.1 Erhalten, Schützen und Entwickeln besonderer Lebensräume,
+        lfd. Nr. 6.1 Handhaben, Warten und Instandsetzen von Maschinen und Geräten
+  zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
+        lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge
+  fortzuführen.
+2) In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 5 Ernte und Aufbereitung von Forsterzeugnissen
+  unter Einbeziehung der Berufsbildposition
+  lfd. Nr. 6 Forsttechnik
+  zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1.3 Arbeits-, Tarif- und Sozialrecht,
+        lfd. Nr. 1.5 Sicherheit und Gesundheitsschutz bei der Arbeit,
+        lfd. Nr. 1.6 Umweltschutz,
+        lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+        lfd. Nr. 3.3 Erschließen und Pflegen von Waldbeständen,
+        lfd. Nr. 4.1 Erhalten, Schützen und Entwickeln besonderer Lebensräume
+  fortzuführen.
+3) In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 4 Naturschutz und Landschaftspflege
+  zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1.4 soziale Beziehungen,
+        lfd. Nr. 1.5 Sicherheit und Gesundheitsschutz bei der Arbeit,
+        lfd. Nr. 1.6 Umweltschutz,
+        lfd. Nr. 2.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 2.2 Planen, Vorbereiten und Kontrollieren der Arbeiten,
+        lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion,
+        lfd. Nr. 6 Forsttechnik
+  fortzuführen.
+Drittes Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 3 Waldbewirtschaftung, Forstproduktion
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 4 Naturschutz und Landschaftspflege,
+        lfd. Nr. 5.3 Bringen und Lagern von Holz,
+        lfd. Nr. 6 Forsttechnik
+  weiter zu vermitteln und zu vertiefen; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1.3 Arbeits-, Tarif- und Sozialrecht,
+        lfd. Nr. 1.4 soziale Beziehungen,
+        lfd. Nr. 1.5 Sicherheit und Gesundheitsschutz bei der Arbeit,
+        lfd. Nr. 1.6 Umweltschutz,
+        lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge
+  fortzuführen.
+2) In einem Zeitrahmen von insgesamt 5 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 5 Ernte und Aufbereitung von Forsterzeugnissen
+  unter Einbeziehung der Berufsbildposition
+  lfd. Nr. 6 Forsttechnik
+  weiter zu vermitteln und zu vertiefen; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1.1 Aufbau und Organisation des Ausbildungsbetriebes,
+        lfd. Nr. 1.3 Arbeits-, Tarif- und Sozialrecht,
+        lfd. Nr. 1.5 Sicherheit und Gesundheitsschutz bei der Arbeit,
+        lfd. Nr. 1.6 Umweltschutz,
+        lfd. Nr. 2 Organisation und Abläufe betrieblicher Arbeit; wirtschaftliche Zusammenhänge,
+        lfd. Nr. 3.3 Erschließen und Pflegen von Waldbeständen,
+        lfd. Nr. 4.1 Erhalten, Schützen und Entwickeln besonderer Lebensräume
+  fortzuführen.

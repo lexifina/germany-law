@@ -1,0 +1,3 @@
+# Art 1
+
+Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von Khartoum vom 4. August 1963 zur Errichtung der Afrikanischen Entwicklungsbank in der Neufassung vom 17. Mai 1979 sowie den vom Gouverneursrat der Bank am 17. Mai 1979 beschlossenen Allgemeinen Vorschriften für die Aufnahme nichtregionaler Staaten als Mitglieder der Bank wird zugestimmt. Das Übereinkommen sowie die Allgemeinen Vorschriften werden nachstehend veröffentlicht.

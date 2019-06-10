@@ -1,0 +1,17 @@
+# Verordnung über die Schlichtungsstelle nach § 16 des Behindertengleichstellungsgesetzes und ihr Verfahren
+
+- [§ 1 Anwendungsbereich und Ziel](0001.md)
+- [§ 2 Schlichtungsstelle](0002.md)
+- [§ 3 Schlichtende Personen und Geschäftsverteilung](0003.md)
+- [§ 4 Verschwiegenheit](0004.md)
+- [§ 5 Antrag auf Einleitung eines Schlichtungsverfahrens](0005.md)
+- [§ 6 Ablehnung eines Schlichtungsverfahrens](0006.md)
+- [§ 7 Rechtliches Gehör](0007.md)
+- [§ 8 Verfahren und Schlichtungsvorschlag](0008.md)
+- [§ 9 Abschluss des Verfahrens](0009.md)
+- [§ 10 Verfahrensdauer](0010.md)
+- [§ 11 Barrierefreie Kommunikation](0011.md)
+- [§ 12 Kosten des Verfahrens](0012.md)
+- [§ 13 Reisekosten](0013.md)
+- [§ 14 Tätigkeitsbericht](0014.md)
+- [§ 15 Information durch die Schlichtungsstelle](0015.md)

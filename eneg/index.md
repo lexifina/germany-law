@@ -1,0 +1,17 @@
+# Gesetz zur Einsparung von Energie in Gebäuden
+
+- [§ 1 Energiesparender Wärmeschutz bei zu errichtenden Gebäuden](0001.md)
+- [§ 2 Energiesparende Anlagentechnik bei Gebäuden](0002.md)
+- [§ 2a Zu errichtende Niedrigstenergiegebäude](0002a.md)
+- [§ 3 Energiesparender Betrieb von Anlagen](0003.md)
+- [§ 3a Verteilung der Betriebskosten, Abrechnungsinformationen](0003a.md)
+- [§ 4 Sonderregelungen und Anforderungen an bestehende Gebäude](0004.md)
+- [§ 5 Gemeinsame Voraussetzungen für Rechtsverordnungen](0005.md)
+- [§ 5a Energieausweise](0005a.md)
+- [§ 6 Maßgebender Zeitpunkt](0006.md)
+- [§ 7 Überwachung](0007.md)
+- [§ 7a Bestätigung durch Private](0007a.md)
+- [§ 7b Kontrolle von Energieausweisen und Inspektionsberichten sowie Auswertung von Daten](0007b.md)
+- [§ 8 Bußgeldvorschriften](0008.md)
+- [(XXXX) §§ 9 und 10 (gegenstandslos)](xxxx-9-und-10.md)
+- [§ 11 (Inkrafttreten)](0011.md)

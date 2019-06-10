@@ -1,0 +1,15 @@
+# Gesetz zur Errichtung eines Sondervermögens „Investitions- und Tilgungsfonds“
+
+- [§ 1 Errichtung des Sondervermögens](0001.md)
+- [§ 2 Zweck des Sondervermögens](0002.md)
+- [§ 3 Förderfähige Maßnahmen](0003.md)
+- [§ 4 Stellung im Rechtsverkehr](0004.md)
+- [§ 5 Kreditermächtigung](0005.md)
+- [§ 6 Tilgung](0006.md)
+- [§ 7 Wirtschaftsplan, Haushaltsrecht](0007.md)
+- [§ 8 Rechnungslegung](0008.md)
+- [§ 9 Zuständigkeit](0009.md)
+- [§ 10 Verwaltungskosten](0010.md)
+- [§ 11 Auflösung](0011.md)
+- [Anlage (zu § 3 Absatz 2)Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“](anlage.md)
+- [Anlage (Nachtrag)Wirtschaftsplan des Sondervermögens „Investitions- und Tilgungsfonds“](anlage-2.md)

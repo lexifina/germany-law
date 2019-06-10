@@ -1,0 +1,3 @@
+# Art 5 Inkrafttreten
+
+Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden vierten Kalendermonats in Kraft.

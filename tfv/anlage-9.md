@@ -1,0 +1,107 @@
+# Anlage 9 (zu § 10 Absatz 2 und 3)Register der Triebfahrzeugführerscheine
+
+1. Register der Triebfahrzeugführerscheine
+  Das Register gestaltet sich wie folgt:
+  | Nr. | Anzuzeigende Daten |
+  | Inhalt | Format | Status der Angabe |
+  Teil 1
+  Aktueller Status des Triebfahrzeugführerscheins
+  | 1 | Nummer des Triebfahrzeugführerscheins |
+  | 1.1 | Nummer des Triebfahrzeugführerscheins | EIN (12 Ziffern) | Verbindlich |
+  | 2 | Aktueller Status des Triebfahrzeugführerscheins |
+  | 2.1 | Angabe des aktuellen Status des Triebfahrzeug- führerscheins –gültig–ausgesetzt–entzogen | Text | Verbindlich |
+  | 2.2 | Grund der Aussetzung bzw. der Entziehung –Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 4 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 5 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 6 TfV | Text | Verbindlich |
+  Teil 2
+  Informationen über den erteilten Triebfahrzeugführerschein (entsprechend der Anlage 1 TfV)
+  | 3 | Name des Inhabers |
+  | 3.1 | Im Reisepass oder Personalausweis angegebener Name | Text | Verbindlich |
+  | 4 | Vorname des Inhabers |
+  | 4.1 | Im Reisepass oder Personalausweis angegebener Vorname | Text | Verbindlich |
+  | 5 | Geburtsdatum des Inhabers |
+  | 5.1 | Geburtsdatum des Inhabers | JJJJ-MM-TT | Verbindlich |
+  | 6 | Geburtsort des Inhabers |
+  | 6.1 | Geburtsort des Inhabers | Text | Verbindlich |
+  | 7 | Ausstellungsdatum des Triebfahrzeugführerscheins |
+  | 7.1 | Ausstellungsdatum des Triebfahrzeugführerscheins | JJJJ-MM-TT | Verbindlich |
+  | 8 | Datum des Ablaufs der Gültigkeit des Triebfahrzeugführerscheins |
+  | 8.1 | Datum des voraussichtlichen Ablaufs der Gültigkeit des Triebfahrzeugführerscheins | JJJJ-MM-TT | Verbindlich |
+  | 9 | Bezeichnung der zuständigen Behörde |
+  | 9.1 | Bezeichnung der zuständigen Behörde | Text | Verbindlich |
+  | 11 | Lichtbild des Inhabers |
+  | 11.1 | Lichtbild | Original/Fotokopie/ eingescanntes Bild | Verbindlich |
+  | 12 | Unterschrift des Inhabers |
+  | 12.1 | Unterschrift | Original/Fotokopie/ eingescannte Unterschrift | Verbindlich |
+  | 13 | Anschrift des Inhabers |
+  | 13.1 | Anschrift des Inhabers | Straße und Hausnummer | Text | Verbindlich |
+  | 13.2 | Ort | Text | Verbindlich |
+  | 13.3 | Land | Text | Verbindlich |
+  | 13.4 | Postleitzahl | Alphanumerische Angabe | Verbindlich |
+  | 14 | Weitere Angaben |
+  | 14.1 | Zusätzliche Angaben | Kodierte Information | Verbindlich |
+  | Feld 9a.1 – Muttersprache(n) des Triebfahrzeugführers | Text |  |
+  | Feld 9a.2 – Zusatzinformation | Text |  |
+  | 15 | Gesundheitlich bedingte Einschränkungen |
+  | 15.1 | Angaben zu medizinischen Anforderungen | Kodierte Information | Verbindlich |
+  | Vorgeschriebenes Tragen von Brille oder Kontakt- linsen | (Gemeinschafts- kodierung b.1) |  |
+  | Vorgeschriebenes Tragen einer Kommunikationshilfe | (Gemeinschafts- kodierung b.2) |  |
+  | 15a | Anschrift des Unternehmers, der den Triebfahrzeugführer verantwortlich einsetzt |
+  | 15a.1 | Anschrift des Unternehmers | Straße und Hausnummer | Text | Verbindlich |
+  | 15a.2 | Ort | Text | Verbindlich |
+  | 15a.3 | Land | Text | Verbindlich |
+  | 15a.4 | Postleitzahl | Alphanumerische Angabe | Verbindlich |
+  | 15a.5 | Telefonnummer | Text | Verbindlich |
+  | 15a.6 | Faxnummer | Text | Verbindlich |
+  | 15a.7 | E-Mail-Adresse | Text | Verbindlich |
+  Teil 3
+  Angaben zum früheren Status des Triebfahrzeugführerscheins
+  | 16 | Datum der Ersterteilung |
+  | 16.1 | Datum der Ersterteilung | JJJJ-MM-TT | Verbindlich |
+  | 17 | Datum des Ablaufs der Gültigkeit |
+  | 17.1 | Datum des Ablaufs der Gültigkeit (und der voraussichtlichen Verlängerung) des Triebfahrzeugführerscheins | JJJJ-MM-TT | Verbindlich |
+  | 19 | Änderung(en) |
+  | 19.1 | Datum der Änderung | JJJJ-MM-TT | Verbindlich |
+  | 19.2 | Grund der Änderung | Text | Verbindlich |
+  | 20 | Aussetzung(en) nach § 19 Absatz 3 in Verbindung mit § 5 Absatz 1 TfV |
+  | 20.1 | Dauer der Aussetzung | Von (Datum) bis (Datum) | Verbindlich |
+  | 20.2 | Grund der Aussetzung –Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 4 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 5 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 6 TfV | Text | Verbindlich |
+  | 21 | Entziehung nach § 19 Absatz 3 in Verbindung mit § 5 Absatz 1 TfV |
+  | 21.1 | Datum der Entziehung | JJJJ-MM-TT | Verbindlich |
+  | 21.2 | Grund der Entziehung –Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 3 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 4 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 5 TfV–Wegfall der Voraussetzung nach § 5 Absatz 1 Satz 1 Nummer 6 TfV | Text | Verbindlich |
+  | 22 | Als verloren gemeldeter Triebfahrzeugführerschein |
+  | 22.1 | Datum der Meldung | JJJJ-MM-TT | Verbindlich |
+  | 22.2 | Datum der Ausstellung eines Ersatzführerscheins | JJJJ-MM-TT | Verbindlich |
+  | 23 | Als entwendet gemeldeter Triebfahrzeugführerschein |
+  | 23.1 | Datum der Meldung | JJJJ-MM-TT | Verbindlich |
+  | 23.2 | Datum der Ausstellung eines Ersatzführerscheins | JJJJ-MM-TT | Verbindlich |
+  | 24 | Als zerstört gemeldeter Triebfahrzeugführerschein |
+  | 24.1 | Datum der Meldung | JJJJ-MM-TT | Verbindlich |
+  | 24.2 | Datum der Ausstellung eines Ersatzführerscheins | JJJJ-MM-TT | Verbindlich |
+  Teil 4
+  Angaben zu den grundlegenden Anforderungen bei der Erteilung
+  eines Triebfahrzeugführerscheins und zu den Ergebnissen der regelmäßigen Überprüfungen
+  | 25 | Ausbildung |
+  | 25.1 | Grundlegende Anforderung | Höchstes Zertifizierungsniveau | Text | Verbindlich |
+  | 26 | Körperliche Eignung |
+  | 26.1 | Grundlegende Anforderung | Bescheinigung über das Erfüllen der Anforderung von § 5 Absatz 1 Satz 1 Nummer 3 TfV | Text | Verbindlich |
+  | 26.2 | Datum der Untersuchung |  | JJJJ-MM-TT | Verbindlich |
+  | 26.3 | Nachfolgende regel- mäßige Untersuchungen | Bestätigt/nicht bestätigt | Text | Verbindlich |
+  | 26.4 | (mehrere Einträge möglich) | Datum der letzten Untersuchung | JJJJ-MM-TT | Verbindlich |
+  | 26.5 | Nächste Untersuchung | Voraussichtliches Datum der nächsten Untersuchung | JJJJ-MM-TT | Verbindlich |
+  | 26.6 | Anmerkungen | Erläuterung der Anmerkungen –normaler Zeitplan–voraussichtlicher Zeitplan (nach ärztlichem Attest)–Änderung der Be- schränkungskodierung | Text | Verbindlich |
+  | 27 | Psychologische Eignung |
+  | 27.1 | Grundlegende Anforderung | Bescheinigung über das Erfüllen der Anforderung von § 5 Absatz 1 Satz 1 Nummer 4 TfV | Text | Verbindlich |
+  | 27.2 | Datum der Untersuchung |  | JJJJ-MM-TT | Verbindlich |
+  | 27.3 | Nächste Untersuchung(en) | Nur falls notwendig | Text | Verbindlich |
+  | 27.4 |  | Datum etwaiger Folgeuntersuchungen | JJJJ-MM-TT | Verbindlich |
+  | 28 | Allgemeine Fachkenntnisse |
+  | 28.1 | Grundlegende Anforderung | Bescheinigung über das Erfüllen der Anforderung von § 5 Absatz 1 Satz 1 Nummer 5 TfV | Text | Verbindlich |
+  | 28.2 | Datum der Prüfung |  | JJJJ-MM-TT | Verbindlich |
+  | 28.3 | Nachfolgende Überprüfungen |  | JJJJ-MM-TT | Verbindlich |
+2. Auskunftsrechte
+  Auskunft aus dem Register der Triebfahrzeugführerscheine ist den folgenden Berechtigten über den aktuellen Status von Triebfahrzeugführerscheinen zur Echtheits- und Gültigkeitsfeststellung zu erteilen:
+  a) Unternehmern, die Triebfahrzeugführer beschäftigen oder unter Vertrag genommen haben;
+  b) jedem Arbeitgeber von Triebfahrzeugführern, die einen Triebfahrzeugführer zu beschäftigen beabsichtigen;
+  c) den zuständigen Behörden der anderen Mitgliedstaaten zur Kontrolle der im Gebiet ihrer Rechtshoheit verkehrenden Züge oder in Bezug auf die Einhaltung der Richtlinie 2007/59/EG durch alle im Gebiet ihrer Rechtshoheit tätigen Triebfahrzeugführer;
+  d) der Europäischen Eisenbahnagentur, um die Umsetzung der Richtlinie 2007/59/EG zu untersuchen;
+  e) der Untersuchungsbehörde nach § 5 Absatz 1f des Allgemeinen Eisenbahngesetzes oder einer Untersuchungsstelle eines anderen Mitgliedstaates im Sinne der Richtlinie 2004/49/EG zur Untersuchung von Unfällen und
+  f) den Eisenbahnaufsichtsbehörden der Länder.

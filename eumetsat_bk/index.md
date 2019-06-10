@@ -1,0 +1,2 @@
+# Übereinkommen zur Gründung einer europäischen Organisation für die
+Nutzung von meteorologischen Satelliten ("EUMETSAT")

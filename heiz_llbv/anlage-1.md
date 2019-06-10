@@ -1,0 +1,36 @@
+# Anlage 1
+
+Fundstelle des Originaltextes: BGBl. I 1982, 541
+-------------------------------------------------------------------------------
+I Aussteller/Anschrift I Ort
+I I-------------------
+I I Datum
+-------------------------------------------------------------------------------
+Bescheinigung über erhöhte Bezugsberechtigung
+von leichtem Heizöl gemäß § 2 HeizölLBV (B 1)
+-------------------------------------------------------------------------------
+I für den Zeitraum von - bis
+I------------------------------------------------------------------------------
+I Name, Anschrift des Antragstellers
+I
+I
+-------------------------------------------------------------------------------
+Betr.: Heizölverbrauchsanlage(n)
+-------------------------------------------------------------------------------
+I Lieferanschrift: Ort, Straße, Hausnummer
+I
+-------------------------------------------------------------------------------
+Dem Antragsteller wird für diese Heizölverbrauchsanlage(n) folgender
+Verwendungszweck bescheinigt:
+---- Verwendung von leichtem Heizöl in Krankenhäusern, Heimen für
+I I Behinderte oder für Klein- und Kleinstkinder, in Kindergärten
+---- sowie Alten- und Pflegeheimen.
+---- Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage
+I I ausschließlich zu den in § 2 Abs. 2 Nr. 2 HeizölLBV genannten
+---- Zwecken.
+---- Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage
+I I teils zu einem im § 2 Abs. 2 Nr. 2 HeizölLBV bezeichneten Zweck,
+---- teils zur sonstigen Raumheizung und Warmwasserbereitung.
+Dienstsiegel
+-------------------------
+Unterschrift

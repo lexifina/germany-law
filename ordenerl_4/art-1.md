@@ -1,0 +1,5 @@
+# Art 1
+
+Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844), zuletzt geändert durch Artikel 33 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), genehmige ich die Stiftung und Verleihung der
+Goethe-Medaille
+des Goethe-Instituts zur Pflege deutscher Sprache und Kultur im Ausland e.V.

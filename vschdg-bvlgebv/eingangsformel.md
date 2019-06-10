@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 11 Absatz 4 in Verbindung mit § 2 Nummer 1 des EG-Verbraucherschutzdurchsetzungsgesetzes vom 21. Dezember 2006 (BGBl. I S. 3367), von denen § 2 Nummer 1 zuletzt durch Artikel 1 Nummer 1 des Gesetzes vom 6. Februar 2012 (BGBl. I S. 146) geändert worden ist, in Verbindung mit § 1 der EG-Verbraucherschutzdurchsetzungsgesetz-Ermächtigungsübertragungsverordnung vom 29. Dezember 2006 (BGBl. I S. 3469) sowie in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit:

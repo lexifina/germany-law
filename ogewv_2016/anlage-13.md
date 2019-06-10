@@ -1,0 +1,27 @@
+# Anlage 13 (zu § 15 Absatz 1 Satz 1 und Absatz 2 Satz 2)Ermittlung langfristiger Trends
+
+1. Grundsätze
+  Die Trendermittlungen sind auf der Grundlage des fünfzigsten Perzentils der Messwerte eines Jahres an ausgewählten Messstellen durchzuführen.
+  Es ist zu gewährleisten, dass die zur Untersuchung eingesetzten Matrizes, Methoden und Verfahren (Probenahme, Aufschluss, Analytik) über den gesamten Beobachtungszeitraum konstant oder vergleichbar sind.
+  Der langfristige Trend wird in Biota, Sedimenten oder Schwebstoffen ermittelt.
+2. Biota
+  Für Trenduntersuchungen mittels Biota sind Fische, Weichtiere oder weitere Wirbellose zu verwenden. Die Organismen können direkt dem zu untersuchenden Gewässer entnommen werden (passives Monitoring) oder künstlich eingebracht und über einen definierten Zeitraum exponiert werden (aktives Monitoring). Die Probenahme von Fischen sollte außerhalb der Laichzeiten erfolgen. Muscheln sind vor der Analyse zwei Tage zu hältern.
+  Bei Fischen sind je Fischart mindestens zehn Individuen einer definierten Größenklasse, möglichst drei Jahre alt, für Messungen in der Muskulatur und/oder der Leber zu verwenden. Die Untersuchung von Poolproben ist ebenfalls zulässig.
+3. Sedimente
+  In einem definierten Streckenabschnitt einer Messstelle sind, um möglichst feinkörnige Sedimentproben zu erhalten, bevorzugt in strömungsberuhigten Zonen jeweils vier bis fünf Einzelproben zu entnehmen, die zu einer Mischprobe vereinigt werden.
+  Die Sedimentuntersuchungen auf Metalle sind in der Fraktion kleiner als 63 µm und auf organische Stoffe in der Fraktion kleiner als 2 mm durchzuführen.
+  Die Befunde von Sedimentproben können hinsichtlich der organischen Stoffe nur dann verwendet werden, wenn der Anteil der Fraktion kleiner als 63 µm bestimmt und dokumentiert wird und dieser bei den einzelnen Proben innerhalb des betrachteten Zeitraums jeweils eine vergleichbare Größenordnung aufweist.
+  Die Sedimentproben werden zu Niedrigwasserzeiten entnommen. Im tidebeeinflussten Küstenbereich werden sie bei Tideniedrigwasser entnommen.
+4. Schwebstoffe
+  Schadstoffe in Schwebstoffen sind mindestens viermal pro Jahr wie folgt zu untersuchen:
+  a) bei Entnahme mittels Durchlaufzentrifuge in der Gesamtprobe,
+  b) bei Entnahme mittels Absetzbecken oder Sammelkästen: bei Metallen in der Fraktion kleiner als 63 µm und bei organischen Stoffen in der Fraktion kleiner als 2 mm.
+5. Statistische Methode
+  Ein Trend ist signifikant, wenn die statistische Wahrscheinlichkeit mindestens 95 % beträgt (Signifikanzniveau α = 0,05).
+  Für eine Trendanalyse sind Werte aus mindestens fünf Jahren erforderlich.
+  Der Trend wird anhand folgender statistischer Verfahren ausgewertet:
+  5.1 Liegt eine Normalverteilung der Messergebnisse vor, wird der Trend mittels linearer Regression ermittelt. Die Signifikanz wird mit Hilfe eines t-Tests ermittelt, mit dem die Nullhypothese, d. h. dass die Steigung der Regressionsgeraden null ist, getestet wird. Trifft die Nullhypothese zu bzw. ist sie nicht mit der geforderten Sicherheit widerlegbar, liegt kein signifikanter Trend vor.
+    [Bild: bgbl1_2016_j1373-1_0010.jpg]
+    r = Korrelationskoeffizient
+    n = Anzahl der Messwerte
+  5.2 Liegt keine Normalverteilung der Messergebnisse vor, wird der Trend mittels des Mann-Kendall-Trendtests ermittelt.

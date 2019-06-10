@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Abs. 1 Nr. 1, des § 13 Abs. 1 Satz 1 sowie des § 15 Satz 1 in Verbindung mit § 16 und § 31 Abs. 2 Satz 1 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen in der Fassung der Bekanntmachung vom 20. September 1995 (BGBl. I S. 1146) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und des § 12 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August 1971 (BGBl. I S. 1426, 1427), der durch Artikel 1 Nr. 4 Buchstabe b des Gesetzes vom 14. Dezember 1984 (BGBl. I S. 1493) geändert worden ist, verordnet das Bundesministerium der Finanzen:

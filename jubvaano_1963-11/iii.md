@@ -1,0 +1,3 @@
+# III.
+
+Die Anordnung tritt mit Wirkung vom Tage nach der Verkündung in Kraft. ...

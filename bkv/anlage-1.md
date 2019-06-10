@@ -1,0 +1,107 @@
+# Anlage 1
+
+(Fundstelle des Originaltextes: BGBl. I 1997, 2625 - 2626;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Nr. | Krankheiten |
+| 1 | Durch chemische Einwirkungen verursachte Krankheiten |
+| 11 | Metalle und Metalloide |
+| 1101 | Erkrankungen durch Blei oder seine Verbindungen |
+| 1102 | Erkrankungen durch Quecksilber oder seine Verbindungen |
+| 1103 | Erkrankungen durch Chrom oder seine Verbindungen |
+| 1104 | Erkrankungen durch Cadmium oder seine Verbindungen |
+| 1105 | Erkrankungen durch Mangan oder seine Verbindungen |
+| 1106 | Erkrankungen durch Thallium oder seine Verbindungen |
+| 1107 | Erkrankungen durch Vanadium oder seine Verbindungen |
+| 1108 | Erkrankungen durch Arsen oder seine Verbindungen |
+| 1109 | Erkrankungen durch Phosphor oder seine anorganischen Verbindungen |
+| 1110 | Erkrankungen durch Beryllium oder seine Verbindungen |
+| 12 | Erstickungsgase |
+| 1201 | Erkrankungen durch Kohlenmonoxid |
+| 1202 | Erkrankungen durch Schwefelwasserstoff |
+| 13 | Lösemittel, Schädlingsbekämpfungsmittel (Pestizide) und sonstige chemische Stoffe |
+| 1301 | Schleimhautveränderungen, Krebs oder andere |
+| Neubildungen der Harnwege durch aromatische Amine |
+| 1302 | Erkrankungen durch Halogenkohlenwasserstoffe |
+| 1303 | Erkrankungen durch Benzol, seine Homologe oder durch Styrol |
+| 1304 | Erkrankungen durch Nitro- oder Aminoverbindungen des Benzols oder seiner Homologe oder ihrer Abkömmlinge |
+| 1305 | Erkrankungen durch Schwefelkohlenstoff |
+| 1306 | Erkrankungen durch Methylalkohol (Methanol) |
+| 1307 | Erkrankungen durch organische Phosphorverbindungen |
+| 1308 | Erkrankungen durch Fluor oder seine Verbindungen |
+| 1309 | Erkrankungen durch Salpetersäureester |
+| 1310 | Erkrankungen durch halogenierte Alkyl-, Aryl- oder Alkylaryloxide |
+| 1311 | Erkrankungen durch halogenierte Alkyl-, Aryl- oder Alkylarylsulfide |
+| 1312 | Erkrankungen der Zähne durch Säuren |
+| 1313 | Hornhautschädigungen des Auges durch Benzochinon |
+| 1314 | Erkrankungen durch para-tertiär-Butylphenol |
+| 1315 | Erkrankungen durch Isocyanate, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 1316 | Erkrankungen der Leber durch Dimethylformamid |
+| 1317 | Polyneuropathie oder Enzephalopathie durch organische Lösungsmittel oder deren Gemische |
+| 1318 | Erkrankungen des Blutes, des blutbildenden und des lymphatischen Systems durch Benzol |
+| 1319 | Larynxkarzinom durch intensive und mehrjährige Exposition gegenüber schwefelsäurehaltigen Aerosolen |
+| 1320 | Chronisch-myeloische oder chronisch-lymphatische Leukämie durch 1,3-Butadien bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 180 Butadien-Jahren (ppm x Jahre) |
+| 1321 | Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-Jahren [(µg/m3) x Jahre] |
+|  | Zu den Nummern 1101 bis 1110, 1201 und 1202, 1303 bis 1309 und 1315: |
+|  | Ausgenommen sind Hauterkrankungen. Diese gelten als Krankheiten im Sinne dieser Anlage nur insoweit, als sie Erscheinungen einer Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe in den Körper verursacht werden, oder gemäß Nummer 5101 zu entschädigen sind. |
+| 2 | Durch physikalische Einwirkungen verursachte Krankheiten |
+| 21 | Mechanische Einwirkungen |
+| 2101 | Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2102 | Meniskusschäden nach mehrjährigen andauernden oder häufig wiederkehrenden, die Kniegelenke überdurchschnittlich belastenden Tätigkeiten |
+| 2103 | Erkrankungen durch Erschütterung bei Arbeit mit Druckluftwerkzeugen oder gleichartig wirkenden Werkzeugen oder Maschinen |
+| 2104 | Vibrationsbedingte Durchblutungsstörungen an den Händen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2105 | Chronische Erkrankungen der Schleimbeutel durch ständigen Druck |
+| 2106 | Druckschädigung der Nerven |
+| 2107 | Abrißbrüche der Wirbelfortsätze |
+| 2108 | Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjähriges Heben oder Tragen schwerer Lasten oder durch langjährige Tätigkeiten in extremer Rumpfbeugenhaltung, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2109 | Bandscheibenbedingte Erkrankungen der Halswirbelsäule durch langjähriges Tragen schwerer Lasten auf der Schulter, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2110 | Bandscheibenbedingte Erkrankungen der Lendenwirbelsäule durch langjährige, vorwiegend vertikale Einwirkung von Ganzkörperschwingungen im Sitzen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 2111 | Erhöhte Zahnabrasionen durch mehrjährige quarzstaubbelastende Tätigkeit |
+| 2112 | Gonarthrose durch eine Tätigkeit im Knien oder vergleichbare Kniebelastung mit einer kumulativen Einwirkungsdauer während des Arbeitslebens von mindestens 13 000 Stunden und einer Mindesteinwirkungsdauer von insgesamt einer Stunde pro Schicht |
+| 2113 | Druckschädigung des Nervus medianus im Carpaltunnel (Carpaltunnel-Syndrom) durch repetitive manuelle Tätigkeiten mit Beugung und Streckung der Handgelenke, durch erhöhten Kraftaufwand der Hände oder durch Hand-Arm-Schwingungen |
+| 2114 | Gefäßschädigung der Hand durch stoßartige Krafteinwirkung (Hypothenar-Hammer-Syndrom und Thenar-Hammer-Syndrom) |
+| 2115 | Fokale Dystonie als Erkrankung des zentralen Nervensystems bei Instrumentalmusikern durch feinmotorische Tätigkeit hoher Intensität |
+| 22 | Druckluft |
+| 2201 | Erkrankungen durch Arbeit in Druckluft |
+| 23 | Lärm |
+| 2301 | Lärmschwerhörigkeit |
+| 24 | Strahlen |
+| 2401 | Grauer Star durch Wärmestrahlung |
+| 2402 | Erkrankungen durch ionisierende Strahlen |
+| 3 | Durch Infektionserreger oder Parasiten verursachte Krankheiten sowie Tropenkrankheiten |
+| 3101 | Infektionskrankheiten, wenn der Versicherte im Gesundheitsdienst, in der Wohlfahrtspflege oder in einem Laboratorium tätig oder durch eine andere Tätigkeit der Infektionsgefahr in ähnlichem Maße besonders ausgesetzt war |
+| 3102 | Von Tieren auf Menschen übertragbare Krankheiten |
+| 3103 | Wurmkrankheiten der Bergleute, verursacht durch Ankylostoma duodenale oder Strongyloides stercoralis |
+| 3104 | Tropenkrankheiten, Fleckfieber |
+| 4 | Erkrankungen der Atemwege und der Lungen, des Rippenfells und Bauchfells und der Eierstöcke |
+| 41 | Erkrankungen durch anorganische Stäube |
+| 4101 | Quarzstaublungenerkrankung (Silikose) |
+| 4102 | Quarzstaublungenerkrankung in Verbindung mit aktiver Lungentuberkulose (Siliko-Tuberkulose) |
+| 4103 | Asbeststaublungenerkrankung (Asbestose) oder durch Asbeststaub verursachte Erkrankungen der Pleura |
+| 4104 | Lungenkrebs, Kehlkopfkrebs oder Eierstockkrebs |
+|  | - | in Verbindung mit Asbeststaublungenerkrankung (Asbestose) |
+|  | - | in Verbindung mit durch Asbeststaub verursachter Erkrankung der Pleura oder |
+|  | - | bei Nachweis der Einwirkung einer kumulativen Asbestfaserstaub-Dosis am Arbeitsplatz von mindestens 25 Faserjahren (25 x 10(hoch)6 ((Fasern/cbm) X Jahre)) |
+| 4105 | Durch Asbest verursachtes Mesotheliom des Rippenfells, des Bauchfells oder des Perikards |
+| 4106 | Erkrankungen der tieferen Atemwege und der Lungen durch Aluminium oder seine Verbindungen |
+| 4107 | Erkrankungen an Lungenfibrose durch Metallstäube bei der Herstellung oder Verarbeitung von Hartmetallen |
+| 4108 | Erkrankungen der tieferen Atemwege und der Lungen durch Thomasmehl (Thomasphosphat) |
+| 4109 | Bösartige Neubildungen der Atemwege und der Lungen durch Nickel oder seine Verbindungen |
+| 4110 | Bösartige Neubildungen der Atemwege und der Lungen durch Kokereirohgase |
+| 4111 | Chronische obstruktive Bronchitis oder Emphysem von Bergleuten unter Tage im Steinkohlebergbau bei Nachweis der Einwirkung einer kumulativen Dosis von in der Regel 100 Feinstaubjahren ((mg/cbm) X Jahre) |
+| 4112 | Lungenkrebs durch die Einwirkung von kristallinem Siliziumdioxid (SiO(tief)2) bei nachgewiesener Quarzstaublungenerkrankung (Silikose oder Siliko-Tuberkulose) |
+| 4113 | Lungenkrebs oder Kehlkopfkrebs durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 100 Benzo[a]pyren-Jahren [(µg/m3) x Jahre] |
+| 4114 | Lungenkrebs durch das Zusammenwirken von Asbestfaserstaub und polyzyklischen aromatischen Kohlenwasserstoffen bei Nachweis der Einwirkung einer kumulativen Dosis, die einer Verursachungswahrscheinlichkeit von mindestens 50 Prozent nach der Anlage 2 entspricht |
+| 4115 | Lungenfibrose durch extreme und langjährige Einwirkung von Schweißrauchen und Schweißgasen – (Siderofibrose) |
+| 42 | Erkrankungen durch organische Stäube |
+| 4201 | Exogen-allergische Alveolitis |
+| 4202 | Erkrankungen der tieferen Atemwege und der Lungen durch Rohbaumwoll-, Rohflachs- oder Rohhanfstaub (Byssinose) |
+| 4203 | Adenokarzinome der Nasenhaupt- und Nasennebenhöhlen durch Stäube von Eichen- oder Buchenholz |
+| 43 | Obstruktive Atemwegserkrankungen |
+| 4301 | Durch allergisierende Stoffe verursachte obstruktive Atemwegserkrankungen (einschließlich Rhinopathie), die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 4302 | Durch chemisch-irritativ oder toxisch wirkende Stoffe verursachte obstruktive Atemwegserkrankungen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 5 | Hautkrankheiten |
+| 5101 | Schwere oder wiederholt rückfällige Hauterkrankungen, die zur Unterlassung aller Tätigkeiten gezwungen haben, die für die Entstehung, die Verschlimmerung oder das Wiederaufleben der Krankheit ursächlich waren oder sein können |
+| 5102 | Hautkrebs oder zur Krebsbildung neigende Hautveränderungen durch Ruß, Rohparaffin, Teer, Anthrazen, Pech oder ähnliche Stoffe |
+| 5103 | Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut durch natürliche UV-Strahlung |
+| 6 | Krankheiten sonstiger Ursache |
+| 6101 | Augenzittern der Bergleute |

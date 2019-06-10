@@ -1,0 +1,10 @@
+# Anlage 12
+
+(Fundstelle: BGBl. Teil III 824-2, S. 19)
+| Lohn- oder Beitragsklassen in der knappschaftlichen Rentenversicherung- Arbeiter - |
+| Zeitraum | Bergarbeiter der Leistungsgruppe |
+| unter Tage | über Tage |
+| 1 | 2 | 3 | 1 | 2 |
+| Bis 30. Juni 1926 Vom 1. Juli 1926 ............. | IV | IV | IV | IV | IV |
+| bis 31. Dezember 1938 Vom 1. Januar 1939 ............. | VII | VI | IV | V | IV |
+| bis 31. Dezember 1942 ............. | VIII | VII | VI | VI | V |

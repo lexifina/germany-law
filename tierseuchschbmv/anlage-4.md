@@ -1,0 +1,18 @@
+# Anlage 4 (zu §§ 9, 23a, 24, 24a Abs. 1 Satz 1, §§ 26 und 27 Abs. 1 Satz 1) Tiere und Waren, deren Verbringen aus anderen Mitgliedstaaten und deren Einfuhr der Genehmigung bedarf
+
+(Fundstelle: BGBl. I 2005, 1026;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+I. Tiere
+1. Rinder, Schweine, Schafe und Ziegen, die vorübergehend in das Grenzgebiet zu Weidezwecken eingeführt werden
+2. Wildtiere der Ordnungen Rüsseltiere (Proboscidea) und Paarhufer (Artiodactyla), die für Tierschauen, Tierausstellungen oder Zirkusse bestimmt sind
+3. (weggefallen)
+4. andere Bienen als die der Gattung Apis mellifera und Bombus ssp.
+5. Vögel, die in freier Wildbahn im Rahmen eines vom Bestimmungsmitgliedstaat genehmigten Erhaltungsprogramms gefangen worden sind und eingeführt werden
+II. Waren
+1. Embryonen von Rindern, die vor dem 1. Januar 1991 aufbereitet worden sind
+2. Samen von Rindern, der vor dem 1. Januar 1990 aufbereitet worden ist
+3. Samen von Schweinen, der vor dem 1. Januar 1992 aufbereitet worden ist
+4. Eizellen und Embryonen von Pferden, Schweinen, Schafen oder Ziegen, die vor dem 1. Januar 1994 aufbereitet worden sind
+5. Samen von Pferden, Schafen oder Ziegen, der vor dem 1. Januar 1994 aufbereitet worden ist
+6. Knochen, Horn, Hufe und Klauen sowie daraus hergestellte nicht abschließend verarbeitete Erzeugnisse, ausgenommen Mehle, zur Düngung oder Bodenverbesserung
+7. tierische Nebenprodukte im Sinne des Artikels 2 Abs. 1 Buchstabe a der Verordnung (EG) Nr. 1774/2002, soweit sie nicht in deren Anhängen VII und VIII aufgeführt sind

@@ -1,0 +1,86 @@
+# Anlage 2 (zu § 3 Abs. 1 Satz 2)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Sportfachmann/zur 
+Sportfachfrau
+
+- Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 2007, 1250 - 1251)
+Während der gesamten Ausbildungszeit sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildposition aus
+Abschnitt A Nr. 1 Sport und Bewegung
+zu vermitteln.
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziele a und b,
+          Abschnitt A Nr. 2.2 Leistungsangebote, Lernziele a und b,
+          Abschnitt B Nr. 1.1 Stellung, Rechtsform und Struktur,
+          Abschnitt B Nr. 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele a bis c,
+          Abschnitt B Nr. 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+          Abschnitt B Nr. 2.1 Informations- und Kommunikationssysteme, Lernziele a und b,
+          Abschnitt B Nr. 2.2 Arbeitsorganisation, Lernziele a und b,
+zu vermitteln.
+(2)
+In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziele c und d,
+          Abschnitt A Nr. 2.2 Leistungsangebote, Lernziel c,
+          Abschnitt A Nr. 6 Rechnungsvorgänge und Kalkulation, Lernziele a und b,
+          Abschnitt B Nr. 1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen, Lernziele d und e,
+          Abschnitt B Nr. 1.4 Umweltschutz,
+          Abschnitt B Nr. 2.1 Informations- und Kommunikationssysteme, Lernziele c bis e,
+          Abschnitt B Nr. 2.2 Arbeitsorganisation, Lernziele c und d,
+zu vermitteln.
+(3)
+In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.2 Leistungsangebote, Lernziele d und e,
+          Abschnitt A Nr. 3.1 Verkauf, Lernziele a und b,
+          Abschnitt A Nr. 5 Technischer Betriebsablauf, Betriebssicherheit,
+          Abschnitt A Nr. 6 Rechnungsvorgänge und Kalkulation, Lernziele c und d,
+          Abschnitt B Nr. 2.4 Kundenorientierte Kommunikation, Lernziele a bis d,
+zu vermitteln.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.2 Leistungsangebote, Lernziel f,
+          Abschnitt A Nr. 2.3 Beschaffung, Lernziele a und b,
+          Abschnitt A Nr. 3.1 Verkauf, Lernziele c und d,
+          Abschnitt A Nr. 3.2 Werbung und Öffentlichkeitsarbeit, Lernziele a und b,
+          Abschnitt B Nr. 2.3 Teamarbeit und Kooperation, Lernziele a bis d,
+          Abschnitt B Nr. 2.4 Kundenorientierte Kommunikation, Lernziele e und f,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.3 Beschaffung, Lernziele c und d,
+          Abschnitt A Nr. 3.1 Verkauf, Lernziel e,
+          Abschnitt A Nr. 3.2 Werbung und Öffentlichkeitsarbeit, Lernziel c,
+          Abschnitt A Nr. 4 Planung und Organisation von Veranstaltungen, Lernziele a und b,
+          Abschnitt B Nr. 2.3 Teamarbeit und Kooperation, Lernziel e,
+          Abschnitt B Nr. 2.4 Kundenorientierte Kommunikation, Lernziel g,
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 2.1 Betriebliche Ablauforganisation, Qualitätssicherung, Lernziel e,
+          Abschnitt A Nr. 2.3 Beschaffung, Lernziel e,
+          Abschnitt A Nr. 3.2 Werbung und Öffentlichkeitsarbeit, Lernziele d und e,
+          Abschnitt A Nr. 4 Planung und Organisation von Veranstaltungen, Lernziele c bis e,
+          Abschnitt A Nr. 6 Rechnungsvorgänge und Kalkulation, Lernziel e,
+zu vermitteln.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 7 Sportartspezifische Trainings- und Wettkampfstätten, Lernziele a bis d,
+          Abschnitt A Nr. 8 Training, Lernziele a bis d,
+          Abschnitt A Nr. 9 Wettkampfdurchführung, Lernziele a und b,
+zu vermitteln.
+(2)
+In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 7 Sportartspezifische Trainings- und Wettkampfstätten, Lernziel e,
+          Abschnitt A Nr. 8 Training, Lernziele e bis g,
+          Abschnitt A Nr. 9 Wettkampfdurchführung, Lernziel c,
+zu vermitteln.
+(3)
+In einem Zeitraum von drei bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen aus
+Abschnitt A Nr. 7 Sportartspezifische Trainings- und Wettkampfstätten, Lernziel f,
+          Abschnitt A Nr. 8 Training, Lernziele h und i,
+          Abschnitt A Nr. 9 Wettkampfdurchführung, Lernziel d,
+zu vermitteln.

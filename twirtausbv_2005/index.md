@@ -1,0 +1,22 @@
+# Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
+- [§ 2 Ausbildungsdauer](0002.md)
+- [§ 3 Berufsfeldbreite Grundbildung](0003.md)
+- [§ 4 Zielsetzung der Berufsausbildung](0004.md)
+- [§ 5 Ausbildungsberufsbild](0005.md)
+- [§ 6 Ausbildungsrahmenplan](0006.md)
+- [§ 7 Ausbildungsplan](0007.md)
+- [§ 8 Schriftlicher Ausbildungsnachweis](0008.md)
+- [§ 9 Zwischenprüfung](0009.md)
+- [§ 10 Abschlussprüfung in der Fachrichtung Rinderhaltung](0010.md)
+- [§ 11 Abschlussprüfung in der Fachrichtung Schweinehaltung](0011.md)
+- [§ 12 Abschlussprüfung in der Fachrichtung Geflügelhaltung](0012.md)
+- [§ 13 Abschlussprüfung in der Fachrichtung Schäferei](0013.md)
+- [§ 14 Abschlussprüfung in der Fachrichtung Imkerei](0014.md)
+- [§ 15 Fortsetzung der Berufsausbildung](0015.md)
+- [§ 16 Inkrafttreten, Außerkrafttreten](0016.md)
+- [Anlage (zu § 6)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Tierwirt/zur Tierwirtin](anlage.md)

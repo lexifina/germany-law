@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, das durch Artikel 3 Nummer 4 Buchstabe b des Gesetzes vom 5. Dezember 2012 (BGBl. I S. 2436) geändert worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für Wirtschaft und Technologie:

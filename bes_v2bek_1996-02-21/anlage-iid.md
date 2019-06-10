@@ -1,0 +1,207 @@
+# Anlage IID (Anlage IX des BBesG)
+
+Gültig ab 1. Oktober 1995
+
+(Fundstelle des Originaltextes: BGBl. I 1996, S. 257 - 259)
+| Amtszulagen, Stellenzulagen, Zulagen, Vergütungen(Monatsbeträge)- in der Reihenfolge der Gesetzesstellen - |
+| Dem Grunde nach geregelt in | Betrag in Deutscher Mark, Vomhundert, Bruchteil |
+| Bundesbesoldungsgesetz |
+| § 44 | bis zu | 168,00 |
+| § 48 Abs. 2 | bis zu | 84,00 |
+| § 78 | bis zu | 126,00 |
+| Bundesbesoldungsordnungen A und B |
+| Vorbemerkungen |
+| Nummer 2 Abs. 2 | 210,00 |
+| Nummer 4 | 84,00 |
+| Nummer 4a | 126,00 |
+| Nummer 5 |
+|  | Die Zulage beträgt für Mannschaften, |  |  |
+|  | Unteroffiziere/Beamte der Besoldungsgruppen A 5 und A 6 |  | 58,80 |
+|  | Unteroffiziere/Beamte der Besoldungsgruppen A 7 bis A 9 |  | 84,00 |
+|  | Offiziere/Beamte des gehobenen und höheren Dienstes |  | 126,00 |
+| Nummer 5a |
+| Abs. 1 |  |  |
+|  | Buchstabe a |  | 151,20 |
+|  | Buchstabe b |  | 252,00 |
+|  | Buchstabe c |  | 361,20 |
+| Abs. 2 |  |  |
+| Nr. 1 | Buchstabe a |  | 226,80 |
+|  | Buchstabe b |  | 168,00 |
+| Nr. 2 | Buchstabe a |  | 168,00 |
+|  | Buchstabe b |  | 67,20 |
+| Nr. 3 |  |  | 109,20 |
+| Nr. 4 und 5 |  |  | 100,80 |
+| Nr. 6 | Buchstabe a |  | 226,80*2) |
+|  | Buchstabe b |  | 168,00 |
+| Nr. 7 | Buchstabe a |  | 168,00 |
+|  | Buchstabe b |  | 67,20 |
+| Nr. 8 | Buchstabe a |  | 210,00 |
+|  | Buchstabe b |  | 109,20 |
+| Nr. 9 |  |  | 100,80 |
+| Nummer 6 |
+| Abs. 1 |  |  |
+|  | Buchstabe a |  | 756,00 |
+|  | Buchstabe b |  | 604,80 |
+|  | Buchstabe c |  | 483,84 |
+| Nummer 6a | 168,00 |
+| Nummer 7 |
+|  | Die Zulage beträgt für die Beamten und Soldaten der Besoldungsgruppen |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*1) |
+|  | A 1 bis A 5 | A 5 |  |
+|  | A 6 bis A 9 | A 9 |  |
+|  | A 10 bis A 13 | A 13 |  |
+|  | A 14, A 15, B 1 | A 15 |  |
+|  | A 16, B 2 bis B 4 | B 3 |  |
+|  | B 5 bis B 7 | B 6 |  |
+|  | B 8 bis B 10 | B 9 |  |
+|  | B 11 | B 11 |  |
+| Nummer 8 Abs. 1 |
+|  | Die Zulage beträgt |  |  |
+|  | für die Beamten der Besoldungsgruppen |  |  |
+|  | A 1 bis A 5 |  | 203,53 |
+|  | A 6 bis A 9 |  | 279,83 |
+|  | A 10 bis A 13 |  | 356,16 |
+|  | A 14 und höher |  | 432,47 |
+|  | für Anwärter der Laufbahngruppe |  |  |
+|  | des mittleren Dienstes |  | 152,65 |
+|  | des gehobenen Dienstes |  | 203,53 |
+|  | des höheren Dienstes |  | 254,40 |
+| Nummer 8a |
+|  | Die Zulage beträgt |  |  |
+|  | für die Beamten der Besoldungsgruppen |  |  |
+|  | A 1 bis A 5 |  | 111,95 |
+|  | A 6 bis A 9 |  | 152,65 |
+|  | A 10 bis A 13 |  | 188,26 |
+|  | A 14 und höher |  | 223,88 |
+|  | für Anwärter der Laufbahngruppe |  |  |
+|  | des mittleren Dienstes |  | 81,43 |
+|  | des gehobenen Dienstes |  | 106,86 |
+|  | des höheren Dienstes |  | 132,30 |
+| Nummer 8b |
+|  | Die Zulage beträgt |  |  |
+|  | für die Beamten der Besoldungsgruppen |  |  |
+|  | A 1 bis A 5 |  | 183,18 |
+|  | A 6 bis A 9 |  | 234,05 |
+|  | A 10 bis A 13 |  | 305,28 |
+|  | A 14 und höher |  | 376,50 |
+|  | für Anwärter der Laufbahngruppe |  |  |
+|  | des mittleren Dienstes |  | 137,39 |
+|  | des gehobenen Dienstes |  | 183,18 |
+|  | des höheren Dienstes |  | 228,96 |
+| Nummer 8c |
+|  | Die Zulage beträgt für die Beamten |  |  |
+|  | des einfachen Dienstes |  | 84,00 |
+|  | des mittleren Dienstes |  | 126,00 |
+|  | des gehobenen Dienstes |  | 184,80 |
+|  | des höheren Dienstes |  | 252,00 |
+| Nummer 9 |
+|  | Die Zulage beträgt |  |  |
+|  | nach einer Dienstzeit |  |  |
+|  | von einem Jahr |  | 101,77 |
+|  | von zwei Jahren |  | 203,54 |
+| Nummer 9a |
+| Abs. 1 |  |  |
+|  | Buchstabe a |  | 168,00 |
+|  | Buchstabe b |  | 336,00 |
+|  | Buchstabe c |  | 252,00 |
+| Abs. 2 |  |  |
+|  | Buchstabe a |  | 67,20 |
+|  | Buchstabe b |  | 84,00 |
+| Nummer 10 Abs. 1 |
+|  | Die Zulage beträgt |  |  |
+|  | nach einer Dienstzeit |  |  |
+|  | von einem Jahr |  | 101,77 |
+|  | von zwei Jahren |  | 203,54 |
+| Nummer 11 | 1/12 des Grundgehalts und des Ortszuschlags*1) |
+| Nummer 12 | 152,65 |
+| Nummer 13a | bis zu | 126,00 |
+| Nummer 19 Satz 1 | 302,28 |
+| Nummer 21 | 253,59 |
+| Nummer 23 |
+| Abs. 1 |  | 16,80 |
+| Abs. 2 |  |  | 37,80 |
+| Nummer 24 |
+|  | Die Zulage beträgt für Beamte |  |  |
+|  | des mittleren Dienstes/für Unteroffiziere |  | 16,80 |
+|  | des gehobenen Dienstes/für Offiziere bis zur |  |  |
+|  | Besoldungsgruppe A 12 |  | 37,80 |
+| Nummer 25 | 63,00 |
+| Nummer 26 Abs. 1 |
+|  | Die Zulage beträgt für Beamte |  |  |
+|  | des mittleren Dienstes |  | 28,01 |
+|  | des gehobenen Dienstes |  | 63,00 |
+| Nummer 27 |
+| Abs. 1 |  |  |
+|  | Buchstabe a |  | 61,08 |
+|  | Buchstabe b |  |  |
+|  | Doppelbuchstabe aa |  | 84,48 |
+|  | Doppelbuchstabe bb |  | 152,65 |
+|  | Buchstabe c |  | 162,83 |
+|  | Buchstabe d |  | 162,83 |
+|  | Buchstabe e |  | 61,08 |
+| Abs. 2 |  |  |
+|  | Buchstabe b |  |  |
+|  | Doppelbuchstabe bb |  | 68,17 |
+|  | Buchstaben c und d |  | 101,75 |
+| Nummer 30 | 37,80 |
+|  | Besoldungsgruppen | Fußnote |  |
+|  | A 2 | 1 | 43,73 |
+|  |  | 2 | 29,13 |
+|  |  | 3 | 80,62 |
+|  |  | 6 | 40,73 |
+|  | A 3 | 1, 5 | 80,62 |
+|  |  | 2 | 43,73 |
+|  | A 4 | 1, 4 | 80,62 |
+|  |  | 2 | 43,73 |
+|  | A 5 | 3 | 43,73 |
+|  |  | 4, 6 | 80,62 |
+|  | A 6 | 6 | 43,73 |
+|  | A 7 | 2 | 54,28 |
+|  |  | 5 | 50 v.H. des jeweiligen Unterschiedsbetrages zum Grundgehalt der Besoldungsgruppe A 8 |
+|  | A 8 | 2 | 69,96 |
+|  | A 9 | 2, 3, 4 | 325,43 |
+|  |  | 7 | 15 v.H. des Anfangsgrundgehalts der Besoldungsgruppe A 9 |
+|  | A 12 | 7, 8 | 189,00 |
+|  | A 13 | 6 | 151,16 |
+|  |  | 7 | 226,73 |
+|  |  | 11, 12, 13 | 330,72 |
+|  | A 14 | 5 | 226,73 |
+|  | A 15 | 7 | 226,73 |
+|  | B 10 | 1, 2 | 523,95 |
+| Bundesbesoldungsordnung C |
+| Vorbemerkungen |
+| Nummer 2b |
+|  | Buchstabe a |  | 162,83 |
+|  | Buchstabe b |  | 61,08 |
+| Nummer 3 |
+|  | Die Zulage beträgt |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*1) |
+|  | für Beamte der Besoldungsgruppe C 1 | A 13 |  |
+|  | für Beamte der Besoldungsgruppe C 2 | A 15 |  |
+|  | für Beamte der Besoldungsgruppen C 3 und C 4 | B 3 |  |
+| Nummer 5 |
+|  | wenn ein Amt ausgeübt wird |  |  |
+|  | der Besoldungsgruppe R 1 |  | 337,68 |
+|  | der Besoldungsgruppe R 2 |  | 378,00 |
+|  | Besoldungsgruppe | Fußnote |  |
+|  | C 2 | 1 | 171,40 |
+| Bundesbesoldungsordnung R |
+| Vorbemerkungen |
+| Nummer 1a | 61,08 |
+| Nummer 2 |
+|  | Die Zulage beträgt |  | 12,5 v.H. des Endgrundgehalts oder, bei festen Gehältern, des Grundgehalts der Besoldungsgruppe*1) |
+|  | a)bei Verwendung bei obersten Gerichtshöfen des Bundes für die Richter und Staatsanwälte der Besoldungsgruppe(n) |  |  |
+|  | R 1 | R 1 |  |
+|  | R 2 bis R 4 | R 3 |  |
+|  | R 5 bis R 7 | R 6 |  |
+|  | R 8 bis R 10 | R 9 |  |
+|  | b)bei Verwendung bei obersten Bundesbehörden, der Hauptverwaltung der Deutschen Bundesbahn oder bei obersten Gerichtshöfen des Bundes, wenn ihnen kein Richteramt übertragen ist, für die Richter und Staatsanwälte der Besoldungsgruppe(n) |  |  |
+|  | R 1 | A 15 |  |
+|  | R 2 bis R 4 | B 3 |  |
+|  | R 5 bis R 7 | B 6 |  |
+|  | R 8 bis R 10 | B 9 |  |
+| Nummer 4 | 63,00 |
+|  | Besoldungsgruppen | Fußnote |  |
+|  | R 1 | 1, 2 | 250,70 |
+|  | R 2 | 3 bis 8, 10 | 250,70 |
+|  | R 3 | 3 | 250,70 |
+|  | R 8 | 2 | 501,28 |
+| *1)Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) in Verbindung mit § 2 Abs. 1 der Zweiten Besoldungs-Übergangsverordnung vom 21. Juni 1991 (BGBl. I S. 1345).*2)Auf Grund des Artikels 5 Nr. 3 des Gesetzes vom15. Dezember 1995 (BGBl. I S. 1726) ab 1. Januar 1996 168,00. |

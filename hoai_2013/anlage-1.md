@@ -1,0 +1,609 @@
+# Anlage 1 (zu § 3 Absatz 1)Beratungsleistungen
+
+1.1 Umweltverträglichkeitsstudie
+1.1.1 Leistungsbild Umweltverträglichkeitsstudie
+  (1)
+  Die Grundleistungen bei Umweltverträglichkeitsstudien können in vier Leistungsphasen unterteilt und wie folgt in Prozentsätzen der Honorare in Nummer 1.1.2 bewertet werden. Die Bewertung der Leistungsphasen der Honorare erfolgt
+    1. für die Leistungsphase 1 (Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs) mit 3 Prozent,
+    2. für die Leistungsphase 2 (Grundlagenermittlung) mit 37 Prozent,
+    3. für die Leistungsphase 3 (Vorläufige Fassung) mit 50 Prozent,
+    4. für die Leistungsphase 4 (Abgestimmte Fassung) mit 10 Prozent.
+  (2)
+  Das Leistungsbild kann sich wie folgt zusammensetzen:
+    Leistungsphase 1: Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
+    – Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten untersuchungsrelevanten Unterlagen,
+    – Ortsbesichtigungen,
+    – Abgrenzen der Untersuchungsräume,
+    – Ermitteln der Untersuchungsinhalte,
+    – Konkretisieren weiteren Bedarfs an Daten und Unterlagen,
+    – Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen,
+    – Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge.
+    Leistungsphase 2: Grundlagenermittlung
+    – Ermitteln und Beschreiben der untersuchungsrelevanten Sachverhalte auf Grund vorhandener Unterlagen,
+    – Beschreiben der Umwelt einschließlich des rechtlichen Schutzstatus, der fachplanerischen Vorgaben und Ziele sowie der für die Bewertung relevanten Funktionselemente für jedes Schutzgut einschließlich der Wechselwirkungen,
+    – Beschreiben der vorhandenen Beeinträchtigungen der Umwelt,
+    – Bewerten der Funktionselemente und der Leistungsfähigkeit der einzelnen Schutzgüter hinsichtlich ihrer Bedeutung und Empfindlichkeit,
+    – Raumwiderstandsanalyse, soweit nach Art des Vorhabens erforderlich, einschließlich des Ermittelns konfliktarmer Bereiche,
+    – Darstellen von Entwicklungstendenzen des Untersuchungsraums für den Prognose-Null-Fall,
+    – Überprüfen der Abgrenzung des Untersuchungsraums und der Untersuchungsinhalte,
+    – Zusammenfassendes Darstellen der Erfassung und Bewertung als Grundlage für die Erörterung mit dem Auftraggeber.
+    Leistungsphase 3: Vorläufige Fassung
+    – Ermitteln und Beschreiben der Umweltauswirkungen und Erstellen der vorläufigen Fassung,
+    – Mitwirken bei der Entwicklung und der Auswahl vertieft zu untersuchender planerischer Lösungen,
+    – Mitwirken bei der Optimierung von bis zu drei planerischen Lösungen (Hauptvarianten) zur Vermeidung von Beeinträchtigungen,
+    – Ermitteln, Beschreiben und Bewerten der unmittelbaren und mittelbaren Auswirkungen von bis zu drei planerischen Lösungen (Hauptvarianten) auf die Schutzgüter im Sinne des Gesetzes über die Umweltverträglichkeitsprüfung vom 24. Februar 2010 (BGBl. I S. 94) einschließlich der Wechselwirkungen,
+    – Einarbeiten der Ergebnisse vorhandener Untersuchungen zum Gebiets- und Artenschutz sowie zum Boden- und Wasserschutz,
+    – Vergleichendes Darstellen und Bewerten der Auswirkungen von bis zu drei planerischen Lösungen,
+    – Zusammenfassendes vergleichendes Bewerten des Projekts mit dem Prognose-Null-Fall,
+    – Erstellen von Hinweisen auf Maßnahmen zur Vermeidung und Verminderung von Beeinträchtigungen sowie zur Ausgleichbarkeit der unvermeidbaren Beeinträchtigungen,
+    – Erstellen von Hinweisen auf Schwierigkeiten bei der Zusammenstellung der Angaben,
+    – Zusammenführen und Darstellen der Ergebnisse als vorläufige Fassung in Text und Karten einschließlich des Herausarbeitens der grundsätzlichen Lösung der wesentlichen Teile der Aufgabe,
+    – Abstimmen der Vorläufigen Fassung mit dem Auftraggeber.
+    Leistungsphase 4: Abgestimmte Fassung
+    Darstellen der mit dem Auftraggeber abgestimmten Fassung der Umweltverträglichkeitsstudie in Text und Karte einschließlich einer Zusammenfassung.
+  (3)
+  Im Leistungsbild Umweltverträglichkeitsstudie können insbesondere die Besonderen Leistungen der Anlage 9 Anwendung finden.
+1.1.2 Honorare für Grundleistungen bei Umweltverträglichkeitsstudien
+  (1)
+  Die Mindest- und Höchstsätze der Honorare für die in Nummer 1.1.1 aufgeführten Grundleistungen bei Umweltverträglichkeitsstudien können anhand der folgenden Honorartafel bestimmt werden:
+    | Fläche in Hektar | Honorarzone I geringe Anforderungen | Honorarzone II durchschnittliche Anforderungen | Honorarzone III hohe Anforderungen |
+    | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro |
+    | 50 | 10 176 | 12 862 | 12 862 | 15 406 | 15 406 | 18 091 |
+    | 100 | 14 972 | 18 923 | 18 923 | 22 666 | 22 666 | 26 617 |
+    | 150 | 18 942 | 23 940 | 23 940 | 28 676 | 28 676 | 33 674 |
+    | 200 | 22 454 | 28 380 | 28 380 | 33 994 | 33 994 | 39 919 |
+    | 300 | 28 644 | 36 203 | 36 203 | 43 364 | 43 364 | 50 923 |
+    | 400 | 34 117 | 43 120 | 43 120 | 51 649 | 51 649 | 60 653 |
+    | 500 | 39 110 | 49 431 | 49 431 | 59 209 | 59 209 | 69 530 |
+    | 750 | 50 211 | 63 461 | 63 461 | 76 014 | 76 014 | 89 264 |
+    | 1 000 | 60 004 | 75 838 | 75 838 | 90 839 | 90 839 | 106 674 |
+    | 1 500 | 77 182 | 97 550 | 97 550 | 116 846 | 116 846 | 137 213 |
+    | 2 000 | 92 278 | 116 629 | 116 629 | 139 698 | 139 698 | 164 049 |
+    | 2 500 | 105 963 | 133 925 | 133 925 | 160 416 | 160 416 | 188 378 |
+    | 3 000 | 118 598 | 149 895 | 149 895 | 179 544 | 179 544 | 210 841 |
+    | 4 000 | 141 533 | 178 883 | 178 883 | 214 266 | 214 266 | 251 615 |
+    | 5 000 | 162 148 | 204 937 | 204 937 | 245 474 | 245 474 | 288 263 |
+    | 6 000 | 182 186 | 230 263 | 230 263 | 275 810 | 275 810 | 323 887 |
+    | 7 000 | 201 072 | 254 133 | 254 133 | 304 401 | 304 401 | 357 461 |
+    | 8 000 | 218 466 | 276 117 | 276 117 | 330 734 | 330 734 | 388 384 |
+    | 9 000 | 234 394 | 296 247 | 296 247 | 354 846 | 354 846 | 416 700 |
+    | 10 000 | 249 492 | 315 330 | 315 330 | 377 704 | 377 704 | 443 542 |
+  (2)
+  Das Honorar für die Erstellung von Umweltverträglichkeitsstudien kann nach der Gesamtfläche des Untersuchungsraums in Hektar und nach der Honorarzone berechnet werden.
+  (3)
+  Umweltverträglichkeitsstudien können folgenden Honorarzonen zugeordnet werden:
+    1. Honorarzone I (geringe Anforderungen),
+    2. Honorarzone II (durchschnittliche Anforderungen),
+    3. Honorarzone III (hohe Anforderungen).
+  (4)
+  Die Zuordnung zu den Honorarzonen kann anhand folgender Bewertungsmerkmale für zu erwartende nachteilige Auswirkungen auf die Umwelt ermittelt werden:
+    1. Bedeutung des Untersuchungsraums für die Schutzgüter im Sinne des Gesetzes über die Umweltverträglichkeitsprüfung (UVPG),
+    2. Ausstattung des Untersuchungsraums mit Schutzgebieten,
+    3. Landschaftsbild und -struktur,
+    4. Nutzungsansprüche,
+    5. Empfindlichkeit des Untersuchungsraums gegenüber Umweltbelastungen und -beeinträchtigungen,
+    6. Intensität und Komplexität potenzieller nachteiliger Wirkfaktoren auf die Umwelt.
+  (5)
+  Sind für eine Umweltverträglichkeitsstudie Bewertungsmerkmale aus mehreren Honorarzonen anwendbar und bestehen deswegen Zweifel, welcher Honorarzone die Umweltverträglichkeitsstudie zugeordnet werden kann, kann die Anzahl der Bewertungspunkte nach Absatz 4 ermittelt werden; die Umweltverträglichkeitsstudie kann nach der Summe der Bewertungspunkte folgenden Honorarzonen zugeordnet werden:
+    1. Honorarzone I: Umweltverträglichkeitsstudien mit bis zu 16 Punkten,
+    2. Honorarzone II: Umweltverträglichkeitsstudien mit 17 bis 30 Punkten,
+    3. Honorarzone III: Umweltverträglichkeitsstudien mit 31 bis 42 Punkten.
+  (6)
+  Bei der Zuordnung einer Umweltverträglichkeitsstudie zu den Honorarzonen können nach dem Schwierigkeitsgrad der Anforderungen die Bewertungsmerkmale wie folgt gewichtet werden:
+    1. die Bewertungsmerkmale gemäß Absatz 4 Nummer 1 bis 4 mit je bis zu 6 Punkten und
+    2. die Bewertungsmerkmale gemäß Absatz 4 Nummer 5 und 6 mit je bis zu 9 Punkten.
+  (7)
+  Wird die Größe des Untersuchungsraums während der Leistungserbringung geändert, so kann das Honorar für die Leistungsphasen, die bis zur Änderung noch nicht erbracht sind, nach der geänderten Größe des Untersuchungsraums berechnet werden.
+1.2 Bauphysik
+1.2.1 Anwendungsbereich
+  (1)
+  Zu den Grundleistungen für Bauphysik können gehören:
+    – Wärmeschutz und Energiebilanzierung,
+    – Bauakustik (Schallschutz),
+    – Raumakustik.
+  (2)
+  Wärmeschutz und Energiebilanzierung kann den Wärmeschutz von Gebäuden und Ingenieurbauwerken und die fachübergreifende Energiebilanzierung umfassen.
+  (3)
+  Die Bauakustik kann den Schallschutz von Objekten zur Erreichung eines regelgerechten Luft- und Trittschallschutzes und zur Begrenzung der von außen einwirkenden Geräusche sowie der Geräusche von Anlagen der Technischen Ausrüstung umfassen. Dazu kann auch der Schutz der Umgebung vor schädlichen Umwelteinwirkungen durch Lärm (Schallimmissionsschutz) gehören.
+  (4)
+  Die Raumakustik kann die Beratung zu Räumen mit besonderen raumakustischen Anforderungen umfassen.
+  (5)
+  Die Besonderen Grundlagen der Honorare werden gesondert in den Teilgebieten Wärmeschutz und Energiebilanzierung, Bauakustik, Raumakustik aufgeführt.
+1.2.2 Leistungsbild Bauphysik
+  (1)
+  Die Grundleistungen für Bauphysik können in sieben Leistungsphasen unterteilt und wie folgt in Prozentsätzen der Honorare in Nummer 1.2.3 bewertet werden:
+    1. für die Leistungsphase 1 (Grundlagenermittlung) mit 3 Prozent,
+    2. für die Leistungsphase 2 (Mitwirken bei der Vorplanung) mit 20 Prozent,
+    3. für die Leistungsphase 3 (Mitwirken bei der Entwurfsplanung) mit 40 Prozent,
+    4. für die Leistungsphase 4 (Mitwirken bei der Genehmigungsplanung) mit 6 Prozent,
+    5. für die Leistungsphase 5 (Mitwirken bei der Ausführungsplanung) mit 27 Prozent,
+    6. für die Leistungsphase 6 (Mitwirken bei der Vorbereitung der Vergabe) mit 2 Prozent,
+    7. für die Leistungsphase 7 (Mitwirken bei der Vergabe) mit 2 Prozent.
+  (2)
+  Das Leistungsbild kann sich wie folgt zusammensetzen:
+    | Grundleistungen | Besondere Leistungen |
+    | LPH 1 Grundlagenermittlung |
+    | a)Klären der Aufgabenstellungb)Festlegen der Grundlagen, Vorgaben und Ziele | –Mitwirken bei der Ausarbeitung von Auslobun- gen und bei Vorprüfungen für Wettbewerbe–Bestandsaufnahme bestehender Gebäude, Ermitteln und Bewerten von Kennwerten–Schadensanalyse bestehender Gebäude–Mitwirken bei Vorgaben für Zertifizierungen |
+    | LPH 2 Mitwirkung bei der Vorplanung |
+    | a)Analyse der Grundlagenb)Klären der wesentlichen Zusammenhänge von Gebäuden und technischen Anlagen einschließlich Betrachtung von Alternativenc)Vordimensionieren der relevanten Bauteile des Gebäudesd)Mitwirken beim Abstimmen der fachspezifischen Planungskonzepte der Objektplanung und der Fachplanungene)Erstellen eines Gesamtkonzeptes in Abstimmung mit der Objektplanung und den Fachplanungenf)Erstellen von Rechenmodellen, Auflisten der wesentlichen Kennwerte als Arbeitsgrundlage für Objektplanung und Fachplanungen | –Mitwirken beim Klären von Vorgaben für Fördermaßnahmen und bei deren Umsetzung–Mitwirken an Projekt-, Käufer- oder Mieterbaubeschreibungen–Erstellen eines fachübergreifenden Bauteilkatalogs |
+    | LPH 3 Mitwirkung bei der Entwurfsplanung |
+    | a)Fortschreiben der Rechenmodelle und der wesentlichen Kennwerte für das Gebäudeb)Mitwirken beim Fortschreiben der Planungskonzepte der Objektplanung und Fachplanung bis zum vollständigen Entwurfc)Bemessen der Bauteile des Gebäudesd)Erarbeiten von Übersichtsplänen und des Erläuterungsberichtes mit Vorgaben, Grundlagen und Auslegungsdaten | –Simulationen zur Prognose des Verhaltens von Bauteilen, Räumen, Gebäuden und Freiräumen |
+    | LPH 4 Mitwirkung bei der Genehmigungsplanung |
+    | a)Mitwirken beim Aufstellen der Genehmigungsplanung und bei Vorgesprächen mit Behördenb)Aufstellen der förmlichen Nachweisec)Vervollständigen und Anpassen der Unterlagen | –Mitwirken bei Vorkontrollen in Zertifizierungsprozessen–Mitwirken beim Einholen von Zustimmungen im Einzelfall |
+    | LPH 5 Mitwirkung bei der Ausführungsplanung |
+    | a)Durcharbeiten der Ergebnisse der Leistungsphasen 3 und 4 unter Beachtung der durch die Objektplanung integrierten Fachplanungenb)Mitwirken bei der Ausführungsplanung durch ergänzende Angaben für die Objektplanung und Fachplanungen | –Mitwirken beim Prüfen und Anerkennen der Montage- und Werkstattplanung der ausführenden Unternehmen auf Übereinstimmung mit der Ausführungsplanung |
+    | LPH 6 Mitwirkung bei der Vorbereitung der Vergabe |
+    | Beiträge zu Ausschreibungsunterlagen |  |
+    | LPH 7 Mitwirkung bei der Vergabe |
+    | Mitwirken beim Prüfen und Bewerten der Angebote auf Erfüllung der Anforderungen | –Prüfen von Nebenangeboten |
+    | LPH 8 Objektüberwachung und Dokumentation |
+    |  | –Mitwirken bei der Baustellenkontrolle–Messtechnisches Überprüfen der Qualität der Bauausführung und von Bauteil- oder Raumeigenschaften |
+    | LPH 9 Objektbetreuung |
+    |  | –Mitwirken bei Audits in Zertifizierungsprozessen |
+1.2.3 Honorare für Grundleistungen für Wärmeschutz und Energiebilanzierung
+  (1)
+  Das Honorar für die Grundleistungen nach Nummer 1.2.2 Absatz 2 kann sich nach den anrechenbaren Kosten des Gebäudes gemäß § 33 nach der Honorarzone nach § 35, der das Gebäude zuzuordnen ist, und nach der Honorartafel in Absatz 2 richten.
+  (2)
+  Die Mindest- und Höchstsätze der Honorare für die in Nummer 1.2.2 Absatz 2 aufgeführten Grundleistungen für Wärmeschutz und Energiebilanzierung können anhand der folgenden Honorartafel bestimmt werden:
+    | Anrechenbare Kosten in Euro | Honorarzone I sehr geringe Anforderungen | Honorarzone II geringe Anforderungen | Honorarzone III durchschnittliche Anforderungen | Honorarzone IV hohe Anforderungen | Honorarzone V sehr hohe Anforderungen |
+    | von | bis | von | bis | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro | Euro | Euro |
+    | 250 000 | 1 757 | 2 023 | 2 023 | 2 395 | 2 395 | 2 928 | 2 928 | 3 300 | 3 300 | 3 566 |
+    | 275 000 | 1 789 | 2 061 | 2 061 | 2 440 | 2 440 | 2 982 | 2 982 | 3 362 | 3 362 | 3 633 |
+    | 300 000 | 1 821 | 2 097 | 2 097 | 2 484 | 2 484 | 3 036 | 3 036 | 3 422 | 3 422 | 3 698 |
+    | 350 000 | 1 883 | 2 168 | 2 168 | 2 567 | 2 567 | 3 138 | 3 138 | 3 537 | 3 537 | 3 822 |
+    | 400 000 | 1 941 | 2 235 | 2 235 | 2 647 | 2 647 | 3 235 | 3 235 | 3 646 | 3 646 | 3 941 |
+    | 500 000 | 2 049 | 2 359 | 2 359 | 2 793 | 2 793 | 3 414 | 3 414 | 3 849 | 3 849 | 4 159 |
+    | 600 000 | 2 146 | 2 471 | 2 471 | 2 926 | 2 926 | 3 576 | 3 576 | 4 031 | 4 031 | 4 356 |
+    | 750 000 | 2 273 | 2 617 | 2 617 | 3 099 | 3 099 | 3 788 | 3 788 | 4 270 | 4 270 | 4 614 |
+    | 1 000 000 | 2 440 | 2 809 | 2 809 | 3 327 | 3 327 | 4 066 | 4 066 | 4 583 | 4 583 | 4 953 |
+    | 1 250 000 | 2 748 | 3 164 | 3 164 | 3 747 | 3 747 | 4 579 | 4 579 | 5 162 | 5 162 | 5 579 |
+    | 1 500 000 | 3 050 | 3 512 | 3 512 | 4 159 | 4 159 | 5 083 | 5 083 | 5 730 | 5 730 | 6 192 |
+    | 2 000 000 | 3 639 | 4 190 | 4 190 | 4 962 | 4 962 | 6 065 | 6 065 | 6 837 | 6 837 | 7 388 |
+    | 2 500 000 | 4 213 | 4 851 | 4 851 | 5 745 | 5 745 | 7 022 | 7 022 | 7 916 | 7 916 | 8 554 |
+    | 3 500 000 | 5 329 | 6 136 | 6 136 | 7 266 | 7 266 | 8 881 | 8 881 | 10 012 | 10 012 | 10 819 |
+    | 5 000 000 | 6 944 | 7 996 | 7 996 | 9 469 | 9 469 | 11 573 | 11 573 | 13 046 | 13 046 | 14 098 |
+    | 7 500 000 | 9 532 | 10 977 | 10 977 | 12 999 | 12 999 | 15 887 | 15 887 | 17 909 | 17 909 | 19 354 |
+    | 10 000 000 | 12 033 | 13 856 | 13 856 | 16 408 | 16 408 | 20 055 | 20 055 | 22 607 | 22 607 | 24 430 |
+    | 15 000 000 | 16 856 | 19 410 | 19 410 | 22 986 | 22 986 | 28 094 | 28 094 | 31 670 | 31 670 | 34 224 |
+    | 20 000 000 | 21 516 | 24 776 | 24 776 | 29 339 | 29 339 | 35 859 | 35 859 | 40 423 | 40 423 | 43 683 |
+    | 25 000 000 | 26 056 | 30 004 | 30 004 | 35 531 | 35 531 | 43 427 | 43 427 | 48 954 | 48 954 | 52 902 |
+  3) Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag bis 33 Prozent auf das Honorar schriftlich vereinbart werden.
+1.2.4 Honorare für Grundleistungen der Bauakustik
+  (1)
+  Die Kosten für Baukonstruktionen und Anlagen der Technischen Ausrüstung können zu den anrechenbaren Kosten gehören. Der Umfang der mitzuverarbeitenden Bausubstanz kann angemessen berücksichtigt werden.
+  (2)
+  Die Vertragsparteien können vereinbaren, dass die Kosten für besondere Bauausführungen ganz oder teilweise zu den anrechenbaren Kosten gehören, wenn hierdurch dem Auftragnehmer ein erhöhter Arbeitsaufwand entsteht.
+  (3)
+  Die Mindest- und Höchstsätze der Honorare für die in Nummer 1.2.2 Absatz 2 aufgeführten Grundleistungen der Bauakustik können anhand der folgenden Honorartafel bestimmt werden:
+    | Anrechenbare Kosten in Euro | Honorarzone I geringe Anforderungen | Honorarzone II durchschnittliche Anforderungen | Honorarzone III hohe Anforderungen |
+    | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro |
+    | 250 000 | 1 729 | 1 985 | 1 985 | 2 284 | 2 284 | 2 625 |
+    | 275 000 | 1 840 | 2 113 | 2 113 | 2 431 | 2 431 | 2 794 |
+    | 300 000 | 1 948 | 2 237 | 2 237 | 2 574 | 2 574 | 2 959 |
+    | 350 000 | 2 156 | 2 475 | 2 475 | 2 847 | 2 847 | 3 273 |
+    | 400 000 | 2 353 | 2 701 | 2 701 | 3 108 | 3 108 | 3 573 |
+    | 500 000 | 2 724 | 3 127 | 3 127 | 3 598 | 3 598 | 4 136 |
+    | 600 000 | 3 069 | 3 524 | 3 524 | 4 055 | 4 055 | 4 661 |
+    | 750 000 | 3 553 | 4 080 | 4 080 | 4 694 | 4 694 | 5 396 |
+    | 1 000 000 | 4 291 | 4 927 | 4 927 | 5 669 | 5 669 | 6 516 |
+    | 1 250 000 | 4 968 | 5 704 | 5 704 | 6 563 | 6 563 | 7 544 |
+    | 1 500 000 | 5 599 | 6 429 | 6 429 | 7 397 | 7 397 | 8 503 |
+    | 2 000 000 | 6 763 | 7 765 | 7 765 | 8 934 | 8 934 | 10 270 |
+    | 2 500 000 | 7 830 | 8 990 | 8 990 | 10 343 | 10 343 | 11 890 |
+    | 3 500 000 | 9 766 | 11 213 | 11 213 | 12 901 | 12 901 | 14 830 |
+    | 5 000 000 | 12 345 | 14 174 | 14 174 | 16 307 | 16 307 | 18 746 |
+    | 7 500 000 | 16 114 | 18 502 | 18 502 | 21 287 | 21 287 | 24 470 |
+    | 10 000 000 | 19 470 | 22 354 | 22 354 | 25 719 | 25 719 | 29 565 |
+    | 15 000 000 | 25 422 | 29 188 | 29 188 | 33 582 | 33 582 | 38 604 |
+    | 20 000 000 | 30 722 | 35 273 | 35 273 | 40 583 | 40 583 | 46 652 |
+    | 25 000 000 | 35 585 | 40 857 | 40 857 | 47 008 | 47 008 | 54 037 |
+  (4)
+  Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag bis 33 Prozent auf das Honorar schriftlich vereinbart werden.
+  (5)
+  Die Leistungen der Bauakustik können den Honorarzonen anhand folgender Bewertungsmerkmale zugeordnet werden:
+    1. Art der Nutzung,
+    2. Anforderungen des Immissionsschutzes,
+    3. Anforderungen des Emissionsschutzes,
+    4. Art der Hüllkonstruktion, Anzahl der Konstruktionstypen,
+    5. Art und Intensität der Außenlärmbelastung,
+    6. Art und Umfang der Technischen Ausrüstung.
+  (6)
+  § 52 Absatz 3 kann sinngemäß angewendet werden.
+  (7)
+  Objektliste für die Bauakustik
+    Die nachstehend aufgeführten Innenräume können in der Regel den Honorarzonen wie folgt zugeordnet werden:
+    | Objektliste – Bauakustik | Honorarzone |
+    | I | II | III |
+    | Wohnhäuser, Heime, Schulen, Verwaltungsgebäude oder Banken mit jeweils durchschnittlicher Technischer Ausrüstung oder entsprechendem Ausbau | x |  |  |
+    | Heime, Schulen, Verwaltungsgebäude mit jeweils überdurchschnittlicher Technischer Ausrüstung oder entsprechendem Ausbau |  | x |  |
+    | Wohnhäuser mit versetzten Grundrissen |  | x |  |
+    | Wohnhäuser mit Außenlärmbelastungen |  | x |  |
+    | Hotels, soweit nicht in Honorarzone III erwähnt |  | x |  |
+    | Universitäten oder Hochschulen |  | x |  |
+    | Krankenhäuser, soweit nicht in Honorarzone III erwähnt |  | x |  |
+    | Gebäude für Erholung, Kur oder Genesung |  | x |  |
+    | Versammlungsstätten, soweit nicht in Honorarzone III erwähnt |  | x |  |
+    | Werkstätten mit schutzbedürftigen Räumen |  | x |  |
+    | Hotels mit umfangreichen gastronomischen Einrichtungen |  |  | x |
+    | Gebäude mit gewerblicher Nutzung oder Wohnnutzung |  |  | x |
+    | Krankenhäuser in bauakustisch besonders ungünstigen Lagen oder mit ungünstiger Anordnung der Versorgungseinrichtungen |  |  | x |
+    | Theater-, Konzert- oder Kongressgebäude |  |  | x |
+    | Tonstudios oder akustische Messräume |  |  | x |
+1.2.5 Honorare für Grundleistungen der Raumakustik
+  (1)
+  Das Honorar für jeden Innenraum, für den Grundleistungen zur Raumakustik erbracht werden, kann sich nach den anrechenbaren Kosten nach Absatz 2, nach der Honorarzone, der der Innenraum zuzuordnen ist, sowie nach der Honorartafel in Absatz 3 richten.
+  (2)
+  Die Kosten für Baukonstruktionen und Technische Ausrüstung sowie die Kosten für die Ausstattung (DIN 276 – 1: 2008-12, Kostengruppe 610) des Innenraums können zu den anrechenbaren Kosten gehören. Die Kosten für die Baukonstruktionen und Technische Ausrüstung werden für die Anrechnung durch den Bruttorauminhalt des Gebäudes geteilt und mit dem Rauminhalt des Innenraums multipliziert. Der Umfang der mitzuverarbeitenden Bausubstanz kann angemessen berücksichtigt werden.
+  (3)
+  Die Mindest- und Höchstsätze der Honorare für die in Nummer 1.2.2 Absatz 2 aufgeführten Grundleistungen der Raumakustik können anhand der folgenden Honorartafel bestimmt werden:
+    | Anrechenbare Kosten in Euro | Honorarzone I sehr geringe Anforderungen | Honorarzone II geringe Anforderungen | Honorarzone III durchschnittliche Anforderungen | Honorarzone IV hohe Anforderungen | Honorarzone V sehr hohe Anforderungen |
+    | von | bis | von | bis | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro | Euro | Euro |
+    | 50 000 | 1 714 | 2 226 | 2 226 | 2 737 | 2 737 | 3 279 | 3 279 | 3 790 | 3 790 | 4 301 |
+    | 75 000 | 1 805 | 2 343 | 2 343 | 2 882 | 2 882 | 3 452 | 3 452 | 3 990 | 3 990 | 4 528 |
+    | 100 000 | 1 892 | 2 457 | 2 457 | 3 021 | 3 021 | 3 619 | 3 619 | 4 183 | 4 183 | 4 748 |
+    | 150 000 | 2 061 | 2 676 | 2 676 | 3 291 | 3 291 | 3 942 | 3 942 | 4 557 | 4 557 | 5 171 |
+    | 200 000 | 2 225 | 2 888 | 2 888 | 3 551 | 3 551 | 4 254 | 4 254 | 4 917 | 4 917 | 5 581 |
+    | 250 000 | 2 384 | 3 095 | 3 095 | 3 806 | 3 806 | 4 558 | 4 558 | 5 269 | 5 269 | 5 980 |
+    | 300 000 | 2 540 | 3 297 | 3 297 | 4 055 | 4 055 | 4 857 | 4 857 | 5 614 | 5 614 | 6 371 |
+    | 400 000 | 2 844 | 3 693 | 3 693 | 4 541 | 4 541 | 5 439 | 5 439 | 6 287 | 6 287 | 7 136 |
+    | 500 000 | 3 141 | 4 078 | 4 078 | 5 015 | 5 015 | 6 007 | 6 007 | 6 944 | 6 944 | 7 881 |
+    | 750 000 | 3 860 | 5 011 | 5 011 | 6 163 | 6 163 | 7 382 | 7 382 | 8 533 | 8 533 | 9 684 |
+    | 1 000 000 | 4 555 | 5 913 | 5 913 | 7 272 | 7 272 | 8 710 | 8 710 | 10 069 | 10 069 | 11 427 |
+    | 1 500 000 | 5 896 | 7 655 | 7 655 | 9 413 | 9 413 | 11 275 | 11 275 | 13 034 | 13 034 | 14 792 |
+    | 2 000 000 | 7 193 | 9 338 | 9 338 | 11 483 | 11 483 | 13 755 | 13 755 | 15 900 | 15 900 | 18 045 |
+    | 2 500 000 | 8 457 | 10 979 | 10 979 | 13 501 | 13 501 | 16 172 | 16 172 | 18 694 | 18 694 | 21 217 |
+    | 3 000 000 | 9 696 | 12 588 | 12 588 | 15 479 | 15 479 | 18 541 | 18 541 | 21 433 | 21 433 | 24 325 |
+    | 4 000 000 | 12 115 | 15 729 | 15 729 | 19 342 | 19 342 | 23 168 | 23 168 | 26 781 | 26 781 | 30 395 |
+    | 5 000 000 | 14 474 | 18 791 | 18 791 | 23 108 | 23 108 | 27 679 | 27 679 | 31 996 | 31 996 | 36 313 |
+    | 6 000 000 | 16 786 | 21 793 | 21 793 | 26 799 | 26 799 | 32 100 | 32 100 | 37 107 | 37 107 | 42 113 |
+    | 7 000 000 | 19 060 | 24 744 | 24 744 | 30 429 | 30 429 | 36 448 | 36 448 | 42 133 | 42 133 | 47 817 |
+    | 7 500 000 | 20 184 | 26 204 | 26 204 | 32 224 | 32 224 | 38 598 | 38 598 | 44 618 | 44 618 | 50 638 |
+  (4)
+  Für Umbauten und Modernisierungen kann bei einem durchschnittlichen Schwierigkeitsgrad ein Zuschlag bis 33 Prozent auf das Honorar vereinbart werden.
+  (5)
+  Innenräume können nach den in Absatz 6 genannten Bewertungsmerkmalen folgenden Honorarzonen zugeordnet werden:
+    1. Honorarzone I: Innenräume mit sehr geringen Anforderungen,
+    2. Honorarzone II: Innenräume mit geringen Anforderungen,
+    3. Honorarzone III: Innenräume mit durchschnittlichen Anforderungen,
+    4. Honorarzone IV: Innenräume mit hohen Anforderungen,
+    5. Honorarzone V: Innenräume mit sehr hohen Anforderungen.
+  (6)
+  Für die Zuordnung zu den Honorarzonen können folgende Bewertungsmerkmale herangezogen werden:
+    1. Anforderungen an die Einhaltung der Nachhallzeit,
+    2. Einhalten eines bestimmten Frequenzganges der Nachhallzeit,
+    3. Anforderungen an die räumliche und zeitliche Schallverteilung,
+    4. akustische Nutzungsart des Innenraums,
+    5. Veränderbarkeit der akustischen Eigenschaften des Innenraums.
+  (7)
+  Objektliste für die Raumakustik
+    Die nachstehend aufgeführten Innenräume können in der Regel den Honorarzonen wie folgt zugeordnet werden:
+    | Objektliste – Raumakustik | Honorarzone |
+    | I | II | III | IV | V |
+    | Pausenhallen, Spielhallen, Liege- und Wandelhallen | x |  |  |  |  |
+    | Großraumbüros |  | x |  |  |  |
+    | Unterrichts-, Vortrags- und Sitzungsräume |  |  |  |  |  |
+    | – bis 500 m3 |  | x |  |  |  |
+    | – 500 bis 1 500 m3 |  |  | x |  |  |
+    | – über 1 500 m3 |  |  |  | x |  |
+    | Filmtheater |  |  |  |  |  |
+    | – bis 1 000 m3 |  | x |  |  |  |
+    | – 1 000 bis 3 000 m3 |  |  | x |  |  |
+    | – über 3 000 m3 |  |  |  | x |  |
+    | Kirchen |  |  |  |  |  |
+    | – bis 1 000 m3 |  | x |  |  |  |
+    | – 1 000 bis 3 000 m3 |  |  | x |  |  |
+    | – über 3 000 m3 |  |  |  | x |  |
+    | Sporthallen, Turnhallen |  |  |  |  |  |
+    | – nicht teilbar, bis 1 000 m3 |  | x |  |  |  |
+    | – teilbar, bis 3 000 m3 |  |  | x |  |  |
+    | Mehrzweckhallen |  |  |  |  |  |
+    | – bis 3 000 m3 |  |  |  | x |  |
+    | – über 3 000 m3 |  |  |  |  | x |
+    | Konzertsäle, Theater, Opernhäuser |  |  |  |  | x |
+    | Tonaufnahmeräume, akustische Messräume |  |  |  |  | x |
+    | Innenräume mit veränderlichen akustischen Eigenschaften |  |  |  |  | x |
+  (8)
+  § 52 Absatz 3 kann sinngemäß angewendet werden.
+1.3 Geotechnik
+1.3.1 Anwendungsbereich
+  (1)
+  Die Leistungen für Geotechnik können die Beschreibung und Beurteilung der Baugrund- und Grundwasserverhältnisse für Gebäude und Ingenieurbauwerke im Hinblick auf das Objekt und die Erarbeitung einer Gründungsempfehlung umfassen. Dazu gehört auch die Beschreibung der Wechselwirkung zwischen Baugrund und Bauwerk sowie die Wechselwirkung mit der Umgebung.
+  (2)
+  Die Leistungen können insbesondere das Festlegen von Baugrundkennwerten und von Kennwerten für rechnerische Nachweise zur Standsicherheit und Gebrauchstauglichkeit des Objektes, die Abschätzung zum Schwankungsbereich des Grundwassers sowie die Einordnung des Baugrunds nach bautechnischen Klassifikationsmerkmalen umfassen.
+1.3.2 Besondere Grundlagen des Honorars
+  (1)
+  Das Honorar der Grundleistungen kann sich nach den anrechenbaren Kosten der Tragwerksplanung nach § 50 Absatz 1 bis 3 für das gesamte Objekt aus Bauwerk und Baugrube richten.
+  (2)
+  Das Honorar für Ingenieurbauwerke mit großer Längenausdehnung (Linienbauwerke) kann ergänzend frei vereinbart werden.
+1.3.3 Leistungsbild Geotechnik
+  (1)
+  Grundleistungen können die Beschreibung und Beurteilung der Baugrund- und Grundwasserverhältnisse sowie die daraus abzuleitenden Empfehlungen für die Gründung einschließlich der Angabe der Bemessungsgrößen für eine Flächen- oder Pfahlgründung, Hinweise zur Herstellung und Trockenhaltung der Baugrube und des Bauwerks, Angaben zur Auswirkung des Bauwerks auf die Umgebung und auf Nachbarbauwerke sowie Hinweise zur Bauausführung umfassen. Die Darstellung der Inhalte kann im Geotechnischen Bericht erfolgen.
+  (2)
+  Die Grundleistungen können in folgenden Teilleistungen zusammengefasst und wie folgt in Prozentsätzen der Honorare der Nummer 1.3.4 bewertet werden:
+    1. für die Teilleistung a (Grundlagenermittlung und Erkundungskonzept) mit 15 Prozent,
+    2. für die Teilleistung b (Beschreiben der Baugrund- und Grundwasserverhältnisse) mit 35 Prozent,
+    3. für die Teilleistung c (Beurteilung der Baugrund- und Grundwasserverhältnisse, Empfehlungen, Hinweise, Angaben zur Bemessung der Gründung) mit 50 Prozent.
+  (3)
+  Das Leistungsbild kann sich wie folgt zusammensetzen:
+    | Grundleistungen | Besondere Leistungen |
+    | Geotechnischer Bericht |
+    | a)Grundlagenermittlung und Erkundungskonzept –Klären der Aufgabenstellung, Ermitteln der Baugrund- und Grundwasserverhältnisse auf Basis vorhandener Unterlagen–Festlegen und Darstellen der erforderlichen Baugrunderkundungenb)Beschreiben der Baugrund- und Grundwasserverhältnisse –Auswerten und Darstellen der Baugrunderkundungen sowie der Labor- und Felduntersuchungen–Abschätzen des Schwankungsbereichs von Wasserständen und/oder Druckhöhen im Boden–Klassifizieren des Baugrunds und Festlegen der Baugrundkennwertec)Beurteilung der Baugrund- und Grundwasserverhältnisse, Empfehlungen, Hinweise, Angaben zur Bemessung der Gründung –Beurteilung des Baugrunds–Empfehlung für die Gründung mit Angabe der geotechnischen Bemessungsparameter (zum Beispiel Angaben zur Bemessung einer Flächen- oder Pfahlgründung)–Angabe der zu erwartenden Setzungen für die vom Tragwerksplaner im Rahmen der Entwurfsplanung nach § 49 zu erbringenden Grundleistungen–Hinweise zur Herstellung und Trockenhaltung der Baugrube und des Bauwerks sowie Angaben zur Auswirkung der Baumaßnahme auf Nachbarbauwerke–Allgemeine Angaben zum Erdbau–Angaben zur geotechnischen Eignung von Aushubmaterial zur Wiederverwendung bei der betreffenden Baumaßnahme sowie Hinweise zur Bauausführung | –Beschaffen von Bestandsunterlagen–Vorbereiten und Mitwirken bei der Vergabe von Aufschlussarbeiten und deren Überwachung–Veranlassen von Labor- und Felduntersuchungen–Aufstellen von geotechnischen Berechnungen zur Standsicherheit oder Gebrauchstauglichkeit, wie zum Beispiel Setzungs-, Grundbruch- und Geländebruchberechnungen–Aufstellen von hydrogeologischen, geohydraulischen und besonderen numerischen Berechnungen–Beratung zu Dränanlagen, Anlagen zur Grundwasserabsenkung oder sonstigen ständigen oder bauzeitlichen Eingriffen in das Grundwasser–Beratung zu Probebelastungen sowie fachtechnisches Betreuen und Auswerten–geotechnische Beratung zu Gründungselementen, Baugruben- oder Hangsicherungen und Erdbauwerken, Mitwirkung bei der Beratung zur Sicherung von Nachbarbauwerken–Untersuchungen zur Berücksichtigung dynamischer Beanspruchungen bei der Bemessung des Objekts oder seiner Gründung sowie Beratungsleistungen zur Vermeidung oder Beherrschung von dynamischen Einflüssen–Mitwirken bei der Bewertung von Nebenangeboten aus geotechnischer Sicht–Mitwirken während der Planung oder Ausführung des Objekts sowie Besprechungs- und Ortstermine–geotechnische Freigaben |
+    |  |
+1.3.4 Honorare Geotechnik
+  (1)
+  Honorare für die in Nummer 1.3.3 Absatz 3 aufgeführten Grundleistungen können nach der folgenden Honorartafel bestimmt werden:
+    | Anrechenbare Kosten in Euro | Honorarzone I sehr geringe Anforderungen | Honorarzone II geringe Anforderungen | Honorarzone III durchschnittliche Anforderungen | Honorarzone IV hohe Anforderungen | Honorarzone V sehr hohe Anforderungen |
+    | von | bis | von | bis | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro | Euro | Euro |
+    | 50 000 | 789 | 1 222 | 1 222 | 1 654 | 1 654 | 2 105 | 2 105 | 2 537 | 2 537 | 2 970 |
+    | 75 000 | 951 | 1 472 | 1 472 | 1 993 | 1 993 | 2 537 | 2 537 | 3 058 | 3 058 | 3 579 |
+    | 100 000 | 1 086 | 1 681 | 1 681 | 2 276 | 2 276 | 2 896 | 2 896 | 3 491 | 3 491 | 4 086 |
+    | 125 000 | 1 204 | 1 863 | 1 863 | 2 522 | 2 522 | 3 210 | 3 210 | 3 869 | 3 869 | 4 528 |
+    | 150 000 | 1 309 | 2 026 | 2 026 | 2 742 | 2 742 | 3 490 | 3 490 | 4 207 | 4 207 | 4 924 |
+    | 200 000 | 1 494 | 2 312 | 2 312 | 3 130 | 3 130 | 3 984 | 3 984 | 4 802 | 4 802 | 5 621 |
+    | 300 000 | 1 800 | 2 786 | 2 786 | 3 772 | 3 772 | 4 800 | 4 800 | 5 786 | 5 786 | 6 772 |
+    | 400 000 | 2 054 | 3 179 | 3 179 | 4 304 | 4 304 | 5 478 | 5 478 | 6 603 | 6 603 | 7 728 |
+    | 500 000 | 2 276 | 3 522 | 3 522 | 4 768 | 4 768 | 6 069 | 6 069 | 7 315 | 7 315 | 8 561 |
+    | 750 000 | 2 740 | 4 241 | 4 241 | 5 741 | 5 741 | 7 307 | 7 307 | 8 808 | 8 808 | 10 308 |
+    | 1 000 000 | 3 125 | 4 836 | 4 836 | 6 548 | 6 548 | 8 334 | 8 334 | 10 045 | 10 045 | 11 756 |
+    | 1 500 000 | 3 765 | 5 827 | 5 827 | 7 889 | 7 889 | 10 041 | 10 041 | 12 103 | 12 103 | 14 165 |
+    | 2 000 000 | 4 297 | 6 650 | 6 650 | 9 003 | 9 003 | 11 459 | 11 459 | 13 812 | 13 812 | 16 165 |
+    | 3 000 000 | 5 175 | 8 009 | 8 009 | 10 842 | 10 842 | 13 799 | 13 799 | 16 633 | 16 633 | 19 467 |
+    | 5 000 000 | 6 535 | 10 114 | 10 114 | 13 693 | 13 693 | 17 428 | 17 428 | 21 007 | 21 007 | 24 586 |
+    | 7 500 000 | 7 878 | 12 192 | 12 192 | 16 506 | 16 506 | 21 007 | 21 007 | 25 321 | 25 321 | 29 635 |
+    | 10 000 000 | 8 994 | 13 919 | 13 919 | 18 844 | 18 844 | 23 983 | 23 983 | 28 909 | 28 909 | 33 834 |
+    | 15 000 000 | 10 839 | 16 775 | 16 775 | 22 711 | 22 711 | 28 905 | 28 905 | 34 840 | 34 840 | 40 776 |
+    | 20 000 000 | 12 373 | 19 148 | 19 148 | 25 923 | 25 923 | 32 993 | 32 993 | 39 769 | 39 769 | 46 544 |
+    | 25 000 000 | 13 708 | 21 215 | 21 215 | 28 722 | 28 722 | 36 556 | 36 556 | 44 063 | 44 063 | 51 570 |
+  (2)
+  Die Honorarzone kann bei den geotechnischen Grundleistungen auf Grund folgender Bewertungsmerkmale ermittelt werden:
+    1. Honorarzone I: Gründungen mit sehr geringem Schwierigkeitsgrad, insbesondere gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei annähernd regelmäßigem Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
+    2. Honorarzone II: Gründungen mit geringem Schwierigkeitsgrad, insbesondere
+      – setzungsempfindliche Objekte sowie gering setzungsempfindliche Objekte mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise stark unterschiedlichen Lasten bei annähernd regelmäßigem Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
+      – gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
+    3. Honorarzone III: Gründungen mit durchschnittlichem Schwierigkeitsgrad, insbesondere
+      – stark setzungsempfindliche Objekte bei annähernd regelmäßigem Schichtenaufbau des Untergrunds mit einheitlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
+      – setzungsempfindliche Objekte sowie gering setzungsempfindliche Bauwerke mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise stark unterschiedlichen Lasten bei unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
+      – gering setzungsempfindliche Objekte mit einheitlicher Gründungsart bei unregelmäßigem Schichtenaufbau des Untergrunds mit stark unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
+    4. Honorarzone IV: Gründungen mit hohem Schwierigkeitsgrad, insbesondere
+      – stark setzungsempfindliche Objekte bei unregelmäßigem Schichtenaufbau des Untergrunds mit unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche,
+      – setzungsempfindliche Objekte sowie gering setzungsempfindliche Objekte mit bereichsweise unterschiedlicher Gründungsart oder bereichsweise stark unterschiedlichen Lasten bei unregelmäßigem Schichtenaufbau des Untergrunds mit stark unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche;
+    5. Honorarzone V: Gründungen mit sehr hohem Schwierigkeitsgrad, insbesondere
+      stark setzungsempfindliche Objekte bei unregelmäßigem Schichtenaufbau des Untergrunds mit stark unterschiedlicher Tragfähigkeit und Setzungsfähigkeit innerhalb der Baufläche.
+  (3)
+  § 52 Absatz 3 kann sinngemäß angewendet werden.
+  (4)
+  Die Aspekte des Grundwassereinflusses auf das Objekt und die Nachbarbebauung können bei der Festlegung der Honorarzone zusätzlich berücksichtigt werden.
+1.4 Ingenieurvermessung
+1.4.1 Anwendungsbereich
+  (1)
+  Leistungen der Ingenieurvermessung können das Erfassen raumbezogener Daten über Bauwerke und Anlagen, Grundstücke und Topographie, das Erstellen von Plänen, das Übertragen von Planungen in die Örtlichkeit sowie das vermessungstechnische Überwachen der Bauausführung einbeziehen, soweit die Leistungen mit besonderen instrumentellen und vermessungstechnischen Verfahrensanforderungen erbracht werden müssen. Ausgenommen von Satz 1 sind Leistungen, die nach landesrechtlichen Vorschriften für Zwecke der Landesvermessung und des Liegenschaftskatasters durchgeführt werden.
+  (2)
+  Zur Ingenieurvermessung können gehören:
+    1. Planungsbegleitende Vermessungen für die Planung und den Entwurf von Gebäuden, Ingenieurbauwerken, Verkehrsanlagen sowie für Flächenplanungen,
+    2. Bauvermessung vor und während der Bauausführung und die abschließende Bestandsdokumentation von Gebäuden, Ingenieurbauwerken und Verkehrsanlagen,
+    3. sonstige vermessungstechnische Leistungen:
+      – Vermessung an Objekten außerhalb der Planungs- und Bauphase,
+      – Vermessung bei Wasserstraßen,
+      – Fernerkundungen, die das Aufnehmen, Auswerten und Interpretieren von Luftbildern und anderer raumbezogener Daten umfassen, die durch Aufzeichnung über eine große Distanz erfasst sind, als Grundlage insbesondere für Zwecke der Raumordnung und des Umweltschutzes,
+      – vermessungstechnische Leistungen zum Aufbau von geographisch-geometrischen Datenbasen für raumbezogene Informationssysteme sowie
+      – vermessungstechnische Leistungen, soweit sie nicht in Absatz 1 und Absatz 2 erfasst sind.
+1.4.2 Grundlagen des Honorars bei der Planungsbegleitenden Vermessung
+  (1)
+  Das Honorar für Grundleistungen der Planungsbegleitenden Vermessung kann sich nach der Summe der Verrechnungseinheiten, der Honorarzone in Nummer 1.4.3 und der Honorartafel in Nummer 1.4.8 richten.
+  (2)
+  Die Verrechnungseinheiten können sich aus der Größe der aufzunehmenden Flächen und deren Punktdichte berechnen. Die Punktdichte beschreibt die durchschnittliche Anzahl der für die Erfassung der planungsrelevanten Daten je Hektar zu messenden Punkte.
+  (3)
+  Abhängig von der Punktdichte können die Flächen den nachstehenden Verrechnungseinheiten (VE) je Hektar (ha) zugeordnet werden:
+    | sehr geringe Punktdichte | (ca. 70 Punkte/ha) | 50 VE |
+    | geringe Punktdichte | (ca. 150 Punkte/ha) | 70 VE |
+    | durchschnittliche Punktdichte | (ca. 250 Punkte/ha) | 100 VE |
+    | hohe Punktdichte | (ca. 350 Punkte/ha) | 130 VE |
+    | sehr hohe Punktdichte | (ca. 500 Punkte/ha) | 150 VE. |
+  (4)
+  Umfasst ein Auftrag Vermessungen für mehrere Objekte, so können die Honorare für die Vermessung jedes Objekts getrennt berechnet werden.
+1.4.3 Honorarzonen für Grundleistungen bei der Planungsbegleitenden Vermessung
+  (1)
+  Die Honorarzone kann bei der Planungsbegleitenden Vermessung auf Grund folgender Bewertungsmerkmale ermittelt werden:
+    | a) | Qualität der vorhandenen Daten und Kartenunterlagen |  |
+    |  | sehr hoch . . . . . . . . . . | 1 Punkt |
+    |  | hoch . . . . . . . . . . | 2 Punkte |
+    |  | befriedigend . . . . . . . . . . | 3 Punkte |
+    |  | kaum ausreichend . . . . . . . . . . | 4 Punkte |
+    |  | mangelhaft . . . . . . . . . . | 5 Punkte |
+    | b) | Qualität des vorhandenen geodätischen Raumbezugs |  |
+    |  | sehr hoch . . . . . . . . . . | 1 Punkt |
+    |  | hoch . . . . . . . . . . | 2 Punkte |
+    |  | befriedigend . . . . . . . . . . | 3 Punkte |
+    |  | kaum ausreichend . . . . . . . . . . | 4 Punkte |
+    |  | mangelhaft . . . . . . . . . . | 5 Punkte |
+    | c) | Anforderungen an die Genauigkeit |  |
+    |  | sehr gering . . . . . . . . . . | 1 Punkt |
+    |  | gering . . . . . . . . . . | 2 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 3 Punkte |
+    |  | hoch . . . . . . . . . . | 4 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 5 Punkte |
+    | d) | Beeinträchtigungen durch die Geländebeschaffenheit und bei der Begehbarkeit |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 2 Punkte |
+    |  | gering . . . . . . . . . . | 3 bis 4 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 5 bis 6 Punkte |
+    |  | hoch . . . . . . . . . . | 7 bis 8 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 9 bis 10 Punkte |
+    | e) | Behinderung durch Bebauung und Bewuchs |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 3 Punkte |
+    |  | gering . . . . . . . . . . | 4 bis 6 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 7 bis 9 Punkte |
+    |  | hoch . . . . . . . . . . | 10 bis 12 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 13 bis 15 Punkte |
+    | f) | Behinderung durch Verkehr |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 3 Punkte |
+    |  | gering . . . . . . . . . . | 4 bis 6 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 7 bis 9 Punkte |
+    |  | hoch . . . . . . . . . . | 10 bis 12 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 13 bis 15 Punkte |
+  (2)
+  Die Honorarzone kann sich aus der Summe der Bewertungspunkte wie folgt ergeben:
+    | Honorarzone I . . . . . . . . . . | bis 13 Punkte |
+    | Honorarzone II . . . . . . . . . . | 14 bis 23 Punkte |
+    | Honorarzone III . . . . . . . . . . | 24 bis 34 Punkte |
+    | Honorarzone IV . . . . . . . . . . | 35 bis 44 Punkte |
+    | Honorarzone V . . . . . . . . . . | 45 bis 55 Punkte. |
+1.4.4 Leistungsbild Planungsbegleitende Vermessung
+  (1)
+  Das Leistungsbild Planungsbegleitende Vermessung kann die Aufnahme planungsrelevanter Daten und die Darstellung in analoger und digitaler Form für die Planung und den Entwurf von Gebäuden, Ingenieurbauwerken, Verkehrsanlagen sowie für Flächenplanungen umfassen.
+  (2)
+  Die Grundleistungen können in vier Leistungsphasen zusammengefasst und wie folgt in Prozentsätzen der Honorare der Nummer 1.4.8 Absatz 1 bewertet werden:
+    1. für die Leistungsphase 1 (Grundlagenermittlung) mit 5 Prozent,
+    2. für die Leistungsphase 2 (Geodätischer Raumbezug) mit 20 Prozent,
+    3. für die Leistungsphase 3 (Vermessungstechnische Grundlagen) mit 65 Prozent,
+    4. für die Leistungsphase 4 (Digitales Geländemodell) mit 10 Prozent.
+  (3)
+  Das Leistungsbild kann sich wie folgt zusammensetzen:
+    | Grundleistungen | Besondere Leistungen |
+    | 1. Grundlagenermittlung |
+    | a)Einholen von Informationen und Beschaffen von Unterlagen über die Örtlichkeit und das geplante Objektb)Beschaffen vermessungstechnischer Unterlagen und Datenc)Ortsbesichtigungd)Ermitteln des Leistungsumfangs in Abhängigkeit von den Genauigkeitsanforderungen und dem Schwierigkeitsgrad | –Schriftliches Einholen von Genehmigungen zum Betreten von Grundstücken, von Bauwerken, zum Befahren von Gewässern und für anordnungsbedürftige Verkehrssicherungsmaßnahmen |
+    | 2. Geodätischer Raumbezug |
+    | a)Erkunden und Vermarken von Lage- und Höhenfestpunktenb)Fertigen von Punktbeschreibungen und Einmessungsskizzenc)Messungen zum Bestimmen der Fest- und Passpunkted)Auswerten der Messungen und Erstellen des Koordinaten- und Höhenverzeichnisses | –Entwurf, Messung und Auswertung von Sondernetzen hoher Genauigkeit–Vermarken auf Grund besonderer Anforderungen–Aufstellung von Rahmenmessprogrammen |
+    | 3. Vermessungstechnische Grundlagen |
+    | a)Topographische/morphologische Geländeaufnahme einschließlich Erfassen von Zwangspunkten und planungsrelevanter Objekteb)Aufbereiten und Auswerten der erfassten Datenc)Erstellen eines digitalen Lagemodells mit ausgewählten planungsrelevanten Höhenpunktend)Übernehmen von Kanälen, Leitungen, Kabeln und unterirdischen Bauwerken aus vorhandenen Unterlagene)Übernehmen des Liegenschaftskatastersf)Übernehmen der bestehenden öffentlich-rechtlichen Festsetzungeng)Erstellen von Plänen mit Darstellen der Situation im Planungsbereich mit ausgewählten planungsrelevanten Höhenpunktenh)Liefern der Pläne und Daten in analoger und digitaler Form | –Maßnahmen für anordnungsbedürftige Verkehrssicherung–Orten und Aufmessen des unterirdischen Bestandes–Vermessungsarbeiten unter Tage, unter Wasser oder bei Nacht–Detailliertes Aufnehmen bestehender Objekte und Anlagen neben der normalen topographischen Aufnahme wie zum Beispiel Fassaden und Innenräume von Gebäuden–Ermitteln von Gebäudeschnitten–Aufnahmen über den festgelegten Planungsbereich hinaus–Erfassen zusätzlicher Merkmale wie zum Beispiel Baumkronen–Eintragen von Eigentümerangaben–Darstellen in verschiedenen Maßstäben–Ausarbeiten der Lagepläne entsprechend der rechtlichen Bedingungen für behördliche Genehmigungsverfahren–Übernahme der Objektplanung in ein digitales Lagemodell |
+    | 4. Digitales Geländemodell |
+    | a)Selektion der die Geländeoberfläche beschreibenden Höhenpunkte und Bruchkanten aus der Geländeaufnahmeb)Berechnung eines digitalen Geländemodellsc)Ableitung von Geländeschnittend)Darstellen der Höhen in Punkt-, Raster- oder Schichtlinienforme)Liefern der Pläne und Daten in analoger und digitaler Form |  |
+1.4.5 Grundlagen des Honorars bei der Bauvermessung
+  (1)
+  Das Honorar für Grundleistungen bei der Bauvermessung kann sich nach den anrechenbaren Kosten des Objekts, der Honorarzone in Nummer 1.4.6 und der Honorartafel in Nummer 1.4.8 Absatz 2 richten.
+  (2)
+  Anrechenbare Kosten können die Herstellungskosten des Objekts darstellen. Diese können entsprechend § 4 Absatz 1 und
+    1. bei Gebäuden entsprechend § 33,
+    2. bei Ingenieurbauwerken entsprechend § 42,
+    3. bei Verkehrsanlagen entsprechend § 46
+    ermittelt werden.
+    Anrechenbar können bei Ingenieurbauwerken 100 Prozent, bei Gebäuden und Verkehrsanlagen 80 Prozent der ermittelten Kosten sein.
+  (3)
+  Die Absätze 1 und 2 sowie die Nummer 1.4.6 und Nummer 1.4.7 finden keine Anwendung für vermessungstechnische Grundleistungen bei ober- und unterirdischen Leitungen, Tunnel-, Stollen- und Kavernenbauwerken, innerörtlichen Verkehrsanlagen mit überwiegend innerörtlichem Verkehr, bei Geh- und Radwegen sowie Gleis- und Bahnsteiganlagen. Das Honorar für die in Satz 1 genannten Objekte kann ergänzend frei vereinbart werden.
+1.4.6 Honorarzonen für Grundleistungen bei der Bauvermessung
+  (1)
+  Die Honorarzone kann bei der Bauvermessung auf Grund folgender Bewertungsmerkmale ermittelt werden:
+    | a) | Beeinträchtigungen durch die Geländebeschaffenheit und bei der Begehbarkeit |  |
+    |  | sehr gering . . . . . . . . . . | 1 Punkt |
+    |  | gering . . . . . . . . . . | 2 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 3 Punkte |
+    |  | hoch . . . . . . . . . . | 4 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 5 Punkte |
+    | b) | Behinderung durch Bebauung und Bewuchs |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 2 Punkte |
+    |  | gering . . . . . . . . . . | 3 bis 4 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 5 bis 6 Punkte |
+    |  | hoch . . . . . . . . . . | 7 bis 8 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 9 bis 10 Punkte |
+    | c) | Behinderung durch Verkehr |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 2 Punkte |
+    |  | gering . . . . . . . . . . | 3 bis 4 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 5 bis 6 Punkte |
+    |  | hoch . . . . . . . . . . | 7 bis 8 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 9 bis 10 Punkte |
+    | d) | Anforderungen an die Genauigkeit |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 2 Punkte |
+    |  | gering . . . . . . . . . . | 3 bis 4 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 5 bis 6 Punkte |
+    |  | hoch . . . . . . . . . . | 7 bis 8 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 9 bis 10 Punkte |
+    | e) | Anforderungen durch die Geometrie des Objekts |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 2 Punkte |
+    |  | gering . . . . . . . . . . | 3 bis 4 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 5 bis 6 Punkte |
+    |  | hoch . . . . . . . . . . | 7 bis 8 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 9 bis 10 Punkte |
+    | f) | Behinderung durch den Baubetrieb |  |
+    |  | sehr gering . . . . . . . . . . | 1 bis 3 Punkte |
+    |  | gering . . . . . . . . . . | 4 bis 6 Punkte |
+    |  | durchschnittlich . . . . . . . . . . | 7 bis 9 Punkte |
+    |  | hoch . . . . . . . . . . | 10 bis 12 Punkte |
+    |  | sehr hoch . . . . . . . . . . | 13 bis 15 Punkte. |
+  (2)
+  Die Honorarzone kann sich aus der Summe der Bewertungspunkte wie folgt ergeben:
+    | Honorarzone I | bis 14 Punkte |
+    | Honorarzone II | 15 bis 25 Punkte |
+    | Honorarzone III | 26 bis 37 Punkte |
+    | Honorarzone IV | 38 bis 48 Punkte |
+    | Honorarzone V | 49 bis 60 Punkte. |
+1.4.7 Leistungsbild Bauvermessung
+  (1)
+  Das Leistungsbild Bauvermessung kann die Vermessungsleistungen für den Bau und die abschließende Bestandsdokumentation von Gebäuden, Ingenieurbauwerken und Verkehrsanlagen umfassen.
+  (2)
+  Die Grundleistungen können in fünf Leistungsphasen zusammengefasst und wie folgt in Prozentsätzen der Honorare der Nummer 1.4.8 Absatz 2 bewertet werden:
+    1. für die Leistungsphase 1 (Baugeometrische Beratung) mit 2 Prozent,
+    2. für die Leistungsphase 2 (Absteckungsunterlagen) mit 5 Prozent,
+    3. für die Leistungsphase 3 (Bauvorbereitende Vermessung) mit 16 Prozent,
+    4. für die Leistungsphase 4 (Bauausführungsvermessung) mit 62 Prozent,
+    5. für die Leistungsphase 5 (Vermessungstechnische Überwachung der Bauausführung) mit 15 Prozent.
+  (3)
+  Das Leistungsbild kann sich wie folgt zusammensetzen:
+    | Grundleistungen | Besondere Leistungen |
+    | 1. Baugeometrische Beratung |
+    | a)Ermitteln des Leistungsumfanges in Abhängigkeit vom Projektb)Beraten, insbesondere im Hinblick auf die erforderlichen Genauigkeiten und zur Konzeption eines Messprogrammsc)Festlegen eines für alle Beteiligten verbindlichen Maß-, Bezugs- und Benennungssystems | –Erstellen von vermessungstechnischen Leistungsbeschreibungen–Erarbeiten von Organisationsvorschlägen über Zuständigkeiten, Verantwortlichkeit und Schnittstellen der Objektvermessung–Erstellen von Messprogrammen für Bewegungs- und Deformationsmessungen einschließlich Vorgaben für die Baustelleneinrichtung |
+    | 2. Absteckungsunterlagen |
+    | a)Berechnen der Detailgeometrie anhand der Ausführungsplanung, Erstellen eines Absteckungsplanes und Berechnen von Absteckungsdaten einschließlich Aufzeigen von Widersprüchen (Absteckungsunterlagen) | –Durchführen von zusätzlichen Aufnahmen und ergänzenden Berechnungen, falls keine qualifizierten Unterlagen aus der Leistungsphase vermessungstechnische Grundlagen vorliegen–Durchführen von Optimierungsberechnungen im Rahmen der Baugeometrie (zum Beispiel Flächennutzung, Abstandsflächen)–Erarbeitung von Vorschlägen zur Beseitigung von Widersprüchen bei der Verwendung von Zwangspunkten (zum Beispiel bauordnungsrechtliche Vorgaben) |
+    | 3. Bauvorbereitende Vermessung |
+    | a)Prüfen und Ergänzen des bestehenden Festpunktfeldsb)Zusammenstellung und Aufbereitung der Absteckungsdatenc)Absteckung: Übertragen der Projektgeometrie (Hauptpunkte) und des Baufelds in die Örtlichkeitd)Übergabe der Lage- und Höhenfestpunkte, der Hauptpunkte und der Absteckungsunterlagen an das bauausführende Unternehmen | –Absteckung auf besondere Anforderungen (zum Beispiel Archäologie, Ausholzung, Grobabsteckung, Kampfmittelräumung) |
+    | 4. Bauausführungsvermessung |
+    | a)Messungen zur Verdichtung des Lage- und Höhenfestpunktfeldesb)Messungen zur Überprüfung und Sicherung von Fest- und Achspunktenc)Baubegleitende Absteckungen der geometriebestimmenden Bauwerkspunkte nach Lage und Höhed)Messungen zur Erfassung von Bewegungen und Deformationen des zu erstellenden Objekts an konstruktiv bedeutsamen Punktene)Baubegleitende Eigenüberwachungsmessungen und deren Dokumentationf)Fortlaufende Bestandserfassung während der Bauausführung als Grundlage für den Bestandplan | –Erstellen und Konkretisieren des Messprogramms–Absteckungen unter Berücksichtigung von belastungs- und fertigungstechnischen Verformungen–Prüfen der Maßgenauigkeit von Fertigteilen–Aufmaß von Bauleistungen, soweit besondere vermessungstechnische Leistungen gegeben sind–Ausgabe von Baustellenbestandsplänen während der Bauausführung–Fortführen der vermessungstechnischen Bestandspläne nach Abschluss der Grundleistungen–Herstellen von Bestandsplänen |
+    | 5. Vermessungstechnische Überwachung der Bauausführung |
+    | a)Kontrollieren der Bauausführung durch stichprobenartige Messungen an Schalungen und entstehenden Bauteilen (Kontrollmessungen)b)Fertigen von Messprotokollenc)Stichprobenartige Bewegungs- und Deformationsmessungen an konstruktiv bedeutsamen Punkten des zu erstellenden Objekts | –Prüfen der Mengenermittlungen–Beratung zu langfristigen vermessungstechnischen Objektüberwachungen im Rahmen der Ausführungskontrolle baulicher Maßnahmen und deren Durchführung–Vermessungen für die Abnahme von Bauleistungen, soweit besondere vermessungstechnische Anforderungen gegeben sind |
+  (4)
+  Die Leistungsphase 4 ist abweichend von Absatz 2 bei Gebäuden mit 45 bis 62 Prozent zu bewerten.
+1.4.8 Honorare für Grundleistungen bei der Ingenieurvermessung
+  (1)
+  Die Honorare für die in Nummer 1.4.4 Absatz 3 aufgeführten Grundleistungen der Planungsbegleitenden Vermessung können sich nach der folgenden Honorartafel richten:
+    | Verrechnungs- einheiten | Honorarzone I sehr geringe Anforderungen | Honorarzone II geringe Anforderungen | Honorarzone III durchschnittliche Anforderungen | Honorarzone IV hohe Anforderungen | Honorarzone V sehr hohe Anforderungen |
+    | von | bis | von | bis | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro | Euro | Euro |
+    | 6 | 658 | 777 | 777 | 914 | 914 | 1 051 | 1 051 | 1 170 | 1 170 | 1 289 |
+    | 20 | 953 | 1 123 | 1 123 | 1 306 | 1 306 | 1 489 | 1 489 | 1 659 | 1 659 | 1 828 |
+    | 50 | 1 480 | 1 740 | 1 740 | 2 000 | 2 000 | 2 260 | 2 260 | 2 520 | 2 520 | 2 780 |
+    | 103 | 2 225 | 2 616 | 2 616 | 3 007 | 3 007 | 3 399 | 3 399 | 3 790 | 3 790 | 4 182 |
+    | 188 | 3 325 | 3 826 | 3 826 | 4 327 | 4 327 | 4 829 | 4 829 | 5 330 | 5 330 | 5 831 |
+    | 278 | 4 320 | 4 931 | 4 931 | 5 542 | 5 542 | 6 153 | 6 153 | 6 765 | 6 765 | 7 376 |
+    | 359 | 5 156 | 5 826 | 5 826 | 6 547 | 6 547 | 7 217 | 7 217 | 7 939 | 7 939 | 8 609 |
+    | 435 | 5 881 | 6 656 | 6 656 | 7 437 | 7 437 | 8 212 | 8 212 | 8 994 | 8 994 | 9 768 |
+    | 506 | 6 547 | 7 383 | 7 383 | 8 219 | 8 219 | 9 055 | 9 055 | 9 892 | 9 892 | 10 728 |
+    | 659 | 7 867 | 8 859 | 8 859 | 9 815 | 9 815 | 10 809 | 10 809 | 11 765 | 11 765 | 12 757 |
+    | 822 | 9 187 | 10 299 | 10 299 | 11 413 | 11 413 | 12 513 | 12 513 | 13 625 | 13 625 | 14 737 |
+    | 1 105 | 11 332 | 12 667 | 12 667 | 14 002 | 14 002 | 15 336 | 15 336 | 16 672 | 16 672 | 18 006 |
+    | 1 400 | 13 525 | 14 977 | 14 977 | 16 532 | 16 532 | 18 086 | 18 086 | 19 642 | 19 642 | 21 196 |
+    | 2 033 | 17 714 | 19 597 | 19 597 | 21 592 | 21 592 | 23 586 | 23 586 | 25 582 | 25 582 | 27 576 |
+    | 2 713 | 21 894 | 24 217 | 24 217 | 26 652 | 26 652 | 29 086 | 29 086 | 31 522 | 31 522 | 33 956 |
+    | 3 430 | 26 074 | 28 837 | 28 837 | 31 712 | 31 712 | 34 586 | 34 586 | 37 462 | 37 462 | 40 336 |
+    | 4 949 | 34 434 | 38 077 | 38 077 | 41 832 | 41 832 | 45 586 | 45 586 | 49 342 | 49 342 | 53 096 |
+    | 7 385 | 46 974 | 51 937 | 51 937 | 57 012 | 57 012 | 62 086 | 62 086 | 67 162 | 67 162 | 72 236 |
+    | 11 726 | 67 874 | 75 037 | 75 037 | 82 312 | 82 312 | 89 586 | 89 586 | 96 862 | 96 862 | 104 136 |
+  (2)
+  Die Honorare für die in Nummer 1.4.7 Absatz 3 Grundleistungen der Bauvermessung können sich nach der folgenden Honorartafel richten:
+    | Anrechenbare Kosten in Euro | Honorarzone I sehr geringe Anforderungen | Honorarzone II geringe Anforderungen | Honorarzone III durchschnittliche Anforderungen | Honorarzone IV hohe Anforderungen | Honorarzone V sehr hohe Anforderungen |
+    | von | bis | von | bis | von | bis | von | bis | von | bis |
+    | Euro | Euro | Euro | Euro | Euro |
+    | 50 000 | 4 282 | 4 782 | 4 782 | 5 283 | 5 283 | 5 839 | 5 839 | 6 339 | 6 339 | 6 840 |
+    | 75 000 | 4 648 | 5 191 | 5 191 | 5 734 | 5 734 | 6 338 | 6 338 | 6 881 | 6 881 | 7 424 |
+    | 100 000 | 5 002 | 5 586 | 5 586 | 6 171 | 6 171 | 6 820 | 6 820 | 7 405 | 7 405 | 7 989 |
+    | 150 000 | 5 684 | 6 349 | 6 349 | 7 013 | 7 013 | 7 751 | 7 751 | 8 416 | 8 416 | 9 080 |
+    | 200 000 | 6 344 | 7 086 | 7 086 | 7 827 | 7 827 | 8 651 | 8 651 | 9 393 | 9 393 | 10 134 |
+    | 250 000 | 6 987 | 7 804 | 7 804 | 8 621 | 8 621 | 9 528 | 9 528 | 10 345 | 10 345 | 11 162 |
+    | 300 000 | 7 618 | 8 508 | 8 508 | 9 399 | 9 399 | 10 388 | 10 388 | 11 278 | 11 278 | 12 169 |
+    | 400 000 | 8 848 | 9 883 | 9 883 | 10 917 | 10 917 | 12 066 | 12 066 | 13 100 | 13 100 | 14 134 |
+    | 500 000 | 10 048 | 11 222 | 11 222 | 12 397 | 12 397 | 13 702 | 13 702 | 14 876 | 14 876 | 16 051 |
+    | 600 000 | 11 223 | 12 535 | 12 535 | 13 847 | 13 847 | 15 304 | 15 304 | 16 616 | 16 616 | 17 928 |
+    | 750 000 | 12 950 | 14 464 | 14 464 | 15 978 | 15 978 | 17 659 | 17 659 | 19 173 | 19 173 | 20 687 |
+    | 1 000 000 | 15 754 | 17 596 | 17 596 | 19 437 | 19 437 | 21 483 | 21 483 | 23 325 | 23 325 | 25 166 |
+    | 1 500 000 | 21 165 | 23 639 | 23 639 | 26 113 | 26 113 | 28 862 | 28 862 | 31 336 | 31 336 | 33 810 |
+    | 2 000 000 | 26 393 | 29 478 | 29 478 | 32 563 | 32 563 | 35 990 | 35 990 | 39 075 | 39 075 | 42 160 |
+    | 2 500 000 | 31 488 | 35 168 | 35 168 | 38 849 | 38 849 | 42 938 | 42 938 | 46 619 | 46 619 | 50 299 |
+    | 3 000 000 | 36 480 | 40 744 | 40 744 | 45 008 | 45 008 | 49 745 | 49 745 | 54 009 | 54 009 | 58 273 |
+    | 4 000 000 | 46 224 | 51 626 | 51 626 | 57 029 | 57 029 | 63 032 | 63 032 | 68 435 | 68 435 | 73 838 |
+    | 5 000 000 | 55 720 | 62 232 | 62 232 | 68 745 | 68 745 | 75 981 | 75 981 | 82 494 | 82 494 | 89 007 |
+    | 7 500 000 | 78 690 | 87 888 | 87 888 | 97 085 | 97 085 | 107 305 | 107 305 | 116 502 | 116 502 | 125 700 |
+    | 10 000 000 | 100 876 | 112 667 | 112 667 | 124 458 | 124 458 | 137 559 | 137 559 | 149 350 | 149 350 | 161 140 |
+1.4.9 Sonstige vermessungstechnische Leistungen
+  Für sonstige vermessungstechnische Leistungen nach Nummer 1.4.1 kann ein Honorar ergänzend frei vereinbart werden.

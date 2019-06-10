@@ -1,0 +1,13 @@
+# Anlage 3 (zu § 28)Halte- und Bordezeichen
+
+Halte- und Bordezeichen bei Zollbooten sind neben dem eingeschalteten blauen Funkellicht:
+1. auf Seeschiffahrtsstraßen im Sinne des § 1 Abs. 1 der Seeschiffahrtstraßen-Ordnung vom 3. Mai 1971 (BGBl. I S. 641) in der jeweiligen geltenden Fassung und in den Seehäfen:
+  a) bei Tag:
+    die Flagge "L" des Internationalen Signalbuchs oder das Schallsignal: ein kurzer Ton, ein langer Ton, zwei kurze Töne (.-..),
+  b) bei Nacht:
+    der als Lichtsignal gegebene Buchstabe "L" des Internationalen Signalbuchs oder das Schallsignal: ein kurzer Ton, ein langer Ton, zwei kurze Töne (.-..),
+2. auf Binnengewässern:
+  a) bei Tag:
+    das Zeichen eines weißen Standers mit der Aufschrift "Zoll" und darunter eine rechteckige grüne Flagge oder das Schallsignal "Achtung": ein langer Ton (-),
+  b) bei Nacht:
+    das Schallsignal "Achtung": ein langer Ton (-).

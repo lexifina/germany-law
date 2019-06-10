@@ -1,0 +1,17 @@
+# Schiffsbesetzungsverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich und Begriffsbestimmungen](0001.md)
+- [§ 2 Verpflichtungen des Reeders](0002.md)
+- [§ 3 Verpflichtungen des Kapitäns](0003.md)
+- [§ 4 Kapitän](0004.md)
+- [§ 5 Schiffsoffiziere, Schiffsmechaniker, wachbefähigte Besatzungsmitglieder](0005.md)
+- [§ 6 Schiffsarzt, Gesundheits- und Krankenpflegepersonal](0006.md)
+- [§ 7 Schiffskoch](0007.md)
+- [§ 8 Schiffsbesatzungszeugnis](0008.md)
+- [§ 9 Überwachung](0009.md)
+- [§ 9a Gewährleistung eines sicheren Wachdienstes](0009a.md)
+- [§ 10 Ausnahmen](0010.md)
+- [§ 11 Ordnungswidrigkeiten](0011.md)
+- [§ 12 Übergangsvorschriften, Anwendungsbestimmungen, Evaluierung](0012.md)
+- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)

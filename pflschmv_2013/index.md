@@ -1,0 +1,17 @@
+# Verordnung über Zulassungs- und Genehmigungsverfahren für Pflanzenschutzmittel
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Antrag auf Zulassung eines Pflanzenschutzmittels](0001.md)
+- [§ 2 Untersuchungen](0002.md)
+- [§ 3 Antrag auf Ausweitung des Geltungsbereichs von Zulassungen auf geringfügige Verwendungen nach Artikel 51 der Verordnung (EG) Nr. 1107/2009](0003.md)
+- [§ 4 Antrag auf Genehmigung der Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind](0004.md)
+- [§ 5 Antrag auf Genehmigung für den Parallelhandel nach Artikel 52 der Verordnung (EG) Nr. 1107/2009 und § 46 des Pflanzenschutzgesetzes](0005.md)
+- [§ 6 Genehmigung für das innergemeinschaftliche Verbringen von Pflanzenschutzmitteln für den Eigenbedarf nach § 51 des Pflanzenschutzgesetzes](0006.md)
+- [§ 7 Genehmigung von Zusatzstoffen und Mitteilung über das Inverkehrbringen von Pflanzenstärkungsmitteln](0007.md)
+- [§ 8 Versuchseinrichtung; amtliche Anerkennung](0008.md)
+- [§ 9 Meldung von Inlandsabsatz und Export](0009.md)
+- [§ 10 Übergangsvorschrift](0010.md)
+- [§ 11 Änderung von Vorschriften](0011.md)
+- [§ 12 Inkrafttreten](0012.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage (zu § 8 Absatz 6)](anlage.md)

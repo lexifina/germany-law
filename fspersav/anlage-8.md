@@ -1,0 +1,26 @@
+# Anlage 8 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+
+(Fundstelle: BGBl. I 2008, 1972)
+1. Ausbildungsstruktur
+  In der betrieblichen Ausbildung werden – in der Regel in fachlichen Lehrgängen – die zum Erwerb der erforderlichen Berechtigungen zusätzlich notwendigen theoretischen Kenntnisse des entsprechenden technischen Bereichs vermittelt. Darüber hinaus erwirbt der Bewerber mittels Durchführung der praktischen Inbetriebhaltung unter Aufsicht und Verantwortung von Ausbildern die Kenntnisse, Fähigkeiten und Fertigkeiten zur selbstverantwortlichen Inbetriebhaltung der jeweiligen flugsicherungstechnischen Einrichtungen.
+2. Ausbildungsinhalte
+  Die betrieblich genutzten flugsicherungstechnischen Einrichtungen sind folgenden technischen Bereichen zugeordnet:
+  • Navigation und Ortung mit den Unterbereichen
+    – Navigation
+    – Radaranlagen
+  • Telekommunikation mit den Unterbereichen
+    – Sprachkommunikation
+    – Datenkommunikation
+  • Informationsverarbeitung mit den Unterbereichen
+    – Radardaten- und Flugplandaten-Verarbeitungssysteme
+    – Überwachungssysteme
+  • Systemsteuerung und -überwachung
+  • Anlagensteuerung und -überwachung
+  Dem Bewerber werden die wesentlichen Kenntnisse der Bereiche bzw. Unterbereiche vermittelt, denen die zu erwerbenden Berechtigungen zugehören.
+  Darüber hinaus erwirbt der Bewerber die Kenntnisse zur selbstverantwortlichen Inbetriebhaltung der jeweiligen flugsicherungstechnischen Einrichtungen. Hierzu zählen insbesondere die Kenntnisse
+  – der Funktion der flugsicherungstechnischen Einrichtungen bezüglich der Handhabung durch die Flugverkehrskontrolle sowie der Systemorganisation und der technischen Funktion;
+  – der Auswirkung von Eingriffen in die Funktionsabläufe oder Parameteränderungen auf die Funktion der flugsicherungstechnischen Einrichtungen;
+  – der Auswirkung und Folgen von technischen Eingriffen oder Parameteränderungen auf das Betriebsgeschehen im Bereich der Flugverkehrskontrolle im Rahmen des Systemmanagements bzw. Produktmanagements.
+  Er lernt, die erworbenen Kenntnisse bei der Inbetriebhaltung der betreffenden flugsicherungstechnischen Einrichtungen unter Aufsicht praktisch anzuwenden, und erwirbt die Fähigkeiten und Fertigkeiten zur selbstverantwortlichen Inbetriebhaltung.
+3. Leistungsnachweise
+  Am Ende jedes fachlichen Lehrgangs mit einer Mindestdauer von einer Woche hat der Teilnehmer einen schriftlichen Leistungsnachweis zu erbringen.

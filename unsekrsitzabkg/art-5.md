@@ -1,0 +1,5 @@
+# Art 5
+
+(1)
+Die Artikel 1 bis 3 dieses Gesetzes treten am Tage nach der Verkündung in Kraft. Der Tag, an dem das in Artikel 1 genannte Abkommen nach seinem Artikel 6 Abs. 6 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(2)

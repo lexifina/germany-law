@@ -1,0 +1,20 @@
+# Anlage 4 (zu § 1 Abs. 2 Forstvermehrungsgut-Herkunftsgebietsverordnung)
+
+Karte über forstliche Herkunftsgebiete
+
+(Inhalt: nicht darstellbare Karten,
+Karte über forstliche Herkunftsgebiete - Weißtanne,
+Karte über forstliche Herkunftsgebiete - Große Küstentanne, Esskastanie, Japanische Lärche, Sitkafichte, Schwarzkiefer, Roteiche, Robinie,
+Karte über forstliche Herkunftsgebiete - Spitzahorn, Sandbirke, Moorbirke, Hainbuche, Vogelkirsche, Sommerlinde,
+Karte über forstliche Herkunftsgebiete - Bergahorn,
+Karte über forstliche Herkunftsgebiete - Roterle, Esche und Winterlinde,
+Karte über forstliche Herkunftsgebiete - Grauerle,
+Karte über forstliche Herkunftsgebiete - Rotbuche,
+Karte über forstliche Herkunftsgebiete - Europäische Lärche,
+Karte über forstliche Herkunftsgebiete - Fichte,
+Karte über forstliche Herkunftsgebiete - Kiefer,
+Karte über forstliche Herkunftsgebiete - Douglasie,
+Karte über forstliche Herkunftsgebiete - Traubeneiche,
+Karte über forstliche Herkunftsgebiete - Stieleiche,
+Fundstelle des Originaltextes: Anlageband zum BGBl. I Nr. 86 v. 9.12.1994 I 3578;
+bzgl. der einzelnen Änderungen vgl. Fußnote)

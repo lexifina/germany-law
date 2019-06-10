@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Dem in Emden am 10. September 1984 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenarbeit im Bereich von Ems und Dollart sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart) wird zugestimmt.
+(2)
+Der Vertrag wird nachstehend veröffentlicht. Die in den Artikeln 2 und 11 des Vertrages genannte Karte B und die in Artikel 23 genannte Karte A liegen beim Auswärtigen Amt (politisches Archiv), beim Niedersächsischen Minister des Innern in Hannover, bei der Bezirksregierung Weser-Ems in Oldenburg sowie beim zuständigen Katasteramt zur Einsicht bereit.

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 79a Abs. 2 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 1 und 4a, des § 79a Abs. 2 Nr. 2 in Verbindung mit § 17b Abs. 1 Nr. 1, 2 und 4 Buchstabe c, des § 79a Abs. 2 Nr. 4 in Verbindung mit § 20 Abs. 1 Nr. 2, des § 79a Abs. 2 Nr. 5 in Verbindung mit § 73a Satz 1 und 2 Nr. 4 und 5 Buchstabe b sowie des § 79a Abs. 2 Nr. 6 in Verbindung mit § 78 Nr. 1 Buchstabe a, jeweils auch in Verbindung mit § 79b des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260), verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:

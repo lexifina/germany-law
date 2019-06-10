@@ -1,0 +1,7 @@
+# Art 4
+
+(1)
+Der Gouverneur und der Stellvertretende Gouverneur für die Bundesrepublik Deutschland in der Internationalen Bank für Wiederaufbau und Entwicklung, die gemäß Artikel IV Abschnitt 2 Abs. (b) des Abkommens kraft Amtes zugleich Gouverneur und Stellvertretender Gouverneur in der Internationalen Finanz-Corporation sind, werden von der Bundesregierung im Benehmen mit der Bank deutscher Länder bestellt und abberufen. Der Gouverneur und der Stellvertretende Gouverneur können, soweit erforderlich, für die Dauer ihrer Verhinderung im Einvernehmen mit dem Bundesminister für wirtschaftliche Zusammenarbeit einen Zeitweiligen Stellvertretenden Gouverneur ernennen.
+(2)
+Das der Bundesrepublik Deutschland zustehende Vorschlagsrecht für die Besetzung der Stelle eines Direktors in der Internationalen Bank für Wiederaufbau und Entwicklung, der gemäß Artikel IV Abschnitt 4 Abs. (b) des Abkommens kraft Amtes zugleich Direktor der Internationalen Finanz-Corporation ist, wird vom Bundesminister für wirtschaftliche Zusammenarbeit im Benehmen mit der Bank deutscher Länder ausgeübt. Der Stellvertretende Direktor wird von dem Direktor nach Weisung des Bundesministers für wirtschaftliche Zusammenarbeit ernannt und abberufen. Für die Ernennung eines Zeitweiligen Stellvertretenden Direktors gilt Satz 2 entsprechend.
+(3)

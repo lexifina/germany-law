@@ -1,0 +1,41 @@
+# Art III Übergangsvorschriften
+
+1. (1) Steht einem Berechtigten auf Grund der Änderungen in Artikel I Nr. 1, 2, 3, 10, 87 und 94 dieses Gesetzes erstmalig ein Anspruch auf Entschädigung zu, so kann er einen Antrag auf Entschädigung bis zum 30. September 1966 stellen. Das gleiche gilt, soweit auf Grund der Änderungen in Artikel I Nr. 6, 11 bis 93 dieses Gesetzes ein einzelner Anspruch auf Entschädigung erstmalig begründet wird.
+  (2)
+  § 189 Abs. 2 und 3, § 189a Abs. 2, §§ 189b und 190a BEG finden entsprechende Anwendung; jedoch können Ansprüche, die dem Berechtigten bereits nach bisherigem Recht zugestanden haben, auf Grund des Absatzes 1 nicht geltend gemacht werden.
+  (3)
+  In den Fällen des Absatzes 1 steht die Unanfechtbarkeit oder die Rechtskraft einer früheren Entscheidung einer neuen Entscheidung über den Anspruch auf Entschädigung nicht entgegen.
+  (4)
+  Absätze 1 bis 3 finden in den Fällen des Artikels I Nr. 21 Buchstabe a, 32, 105, 111, 112 und 113 entsprechende Anwendung.
+  (5)
+  In den Fällen des Artikels I Nr. 21 Buchstabe a endet die Antragsfrist frühestens 6 Monate nach Verkündung der gemäß § 42 Abs. 2 BEG zu erlassenden Rechtsverordnung.
+2. (1) Steht einem Berechtigten auf Grund der Änderungen in Artikel I dieses Gesetzes ein weitergehender Anspruch zu, als er ihm vor Verkündung dieses Gesetzes nach dem Bundesergänzungsgesetz zur Entschädigung für Opfer der nationalsozialistischen Verfolgung (Bundesergänzungsgesetz) oder dem Bundesentschädigungsgesetz durch unanfechtbaren Bescheid oder rechtskräftig gerichtlich zuerkannt worden ist, so kann er innerhalb der Antragsfrist nach Nummer 1 Abs. 1 diesen Anspruch insoweit erneut anmelden.
+  (2)
+  Eine erneute Anmeldung nach Maßgabe des Absatzes 1 kann auch dann erfolgen, wenn der Bescheid erst innerhalb einer Frist von drei Monaten nach Verkündung dieses Gesetzes unanfechtbar oder wenn die gerichtliche Entscheidung erst innerhalb einer Frist von drei Monaten nach Verkündung dieses Gesetzes rechtskräftig wird.
+  (3)
+  Bei der Entscheidung über den Anspruch sind die Entschädigungsorgane an die tatsächlichen Feststellungen gebunden, auf denen der vor Verkündung dieses Gesetzes ergangene unanfechtbare Bescheid oder die rechtskräftige gerichtliche Entscheidung beruht.
+  (4)
+  Soweit das Bundesentschädigungsgesetz in der Fassung des Artikels I dieses Gesetzes das Bestehen oder die Höhe des Anspruchs, seine Vererblichkeit oder das Bestehen eines Wahlrechts bei Ansprüchen für Schaden im beruflichen Fortkommen von den Verhältnissen im Zeitpunkt der Entscheidung abhängig macht, ist von den Verhältnissen auszugehen, auf denen die frühere Entscheidung beruht.
+  (5)
+  Nummer 1 Abs. 2 bis 5 findet entsprechende Anwendung.
+  (6)
+  Ist in einem bei Verkündung dieses Gesetzes anhängigen Verfahren noch keine Entscheidung ergangen, so ist der Anspruch nach Maßgabe des Artikels I dieses Gesetzes festzusetzen.
+3. Ist die Entschädigung vor Verkündung dieses Gesetzes nach dem Bundesergänzungsgesetz oder dem Bundesentschädigungsgesetz durch Vergleich, Verzicht oder Abfindung geregelt worden und steht dem Berechtigten auf Grund der Änderungen in Artikel I dieses Gesetzes ein weitergehender Anspruch als nach den bisherigen Vorschriften zu, so kann der Berechtigte innerhalb der Frist der Nummer 1 Abs. 1 die Regelung durch Erklärung gegenüber der zuständigen Entschädigungsbehörde anfechten. Nummer 1 Abs. 2, 4 und 5 findet entsprechende Anwendung.
+4. (1) Steht dem Berechtigten auf Grund der Änderungen in Artikel I dieses Gesetzes bei Ansprüchen für Schaden im beruflichen Fortkommen erstmalig ein Wahlrecht zu, so endet die Frist zur Ausübung der Wahl am 30. September 1966. In den Fällen, in denen der Anspruch auf Kapitalentschädigung erst nach Verkündung dieses Gesetzes zuerkannt worden ist, verbleibt es bei der Frist des § 84 BEG.
+  (2)
+  Stand dem Berechtigten nach bisherigen Vorschriften bei Ansprüchen für Schaden im beruflichen Fortkommen ein Wahlrecht zu und erhöht sich auf Grund der Änderungen in Artikel I dieses Gesetzes die nicht gewählte Entschädigung, so kann er diese innerhalb der Frist der Nummer 1 Abs. 1 durch Erklärung gegenüber der zuständigen Entschädigungsbehörde verlangen.
+  (3)
+  Ist der Verfolgte vor Abgabe der Erklärung nach Absatz 2 innerhalb der Frist der Nummer 1 Abs. 1 verstorben, so kann die Witwe oder unter den Voraussetzungen des § 17 Abs. 1 Nr. 2 BEG der Witwer nach Maßgabe der §§ 86, 98 BEG die nicht gewählte Entschädigung durch Erklärung gegenüber der zuständigen Entschädigungsbehörde verlangen, wenn die Witwe oder der Witwer selbst Verfolgter ist oder von der Verfolgung des verstorbenen Verfolgten mitbetroffen worden ist. § 86 Abs. 5 BEG findet entsprechende Anwendung.
+5. Ist in den Fällen des § 86 oder § 98 BEG vor Verkündung dieses Gesetzes der Witwe, dem Witwer oder den Kindern die Entschädigung in Höhe der Rentenbezüge eines Jahres gezahlt worden und erhalten die Witwe, der Witwer oder die Kinder auf Grund der Änderungen in Artikel I dieses Gesetzes nunmehr eine Rente nach § 85a oder § 97a BEG, so wird die Entschädigung in Höhe der Rentenbezüge eines Jahres auf den Anspruch der Erben des Verfolgten auf die Summe der rückständigen Rentenbeträge angerechnet.
+6. (1) Ist in den Fällen des Artikels I Nr. 66 (§ 114 Abs. 2 BEG) und Nr. 67 (§ 114a BEG) vor Verkündung dieses Gesetzes dem Verfolgten eine Entschädigung für Schaden in der Ausbildung nach §§ 116 bis 118 BEG gezahlt worden, so ist diese auf den Anspruch nach § 114 Abs. 2 und § 114a BEG anzurechnen.
+  (2)
+  Ist in den Fällen des Artikels I Nr. 83 (§ 142 BEG) vor Verkündung dieses Gesetzes einer Gesellschaft des bürgerlichen Rechts eine Entschädigung für Schaden an Eigentum oder Vermögen gezahlt worden, so ist diese auf die entsprechende Entschädigung der einzelnen Gesellschafter für Schaden an Eigentum oder Vermögen nach Maßgabe ihres Auseinandersetzungsanteils anzurechnen.
+7. Ist bei Verkündung dieses Gesetzes ein Antrag auf Entschädigung in einem Land anhängig, so bleiben die Entschädigungsorgane dieses Landes auch für die Ansprüche des Antragstellers nach dem Bundesentschädigungsgesetz in der Fassung des Artikels I dieses Gesetzes zuständig. Dies gilt nicht in den Fällen des § 185 Abs. 6 BEG.
+8. (1) Soweit vor Verkündung dieses Gesetzes Ansprüche von Berechtigten durch Bescheid oder rechtskräftig gerichtlich festgesetzt worden sind, behält es hierbei zugunsten der Berechtigten sein Bewenden.
+  (2)
+  Absatz 1 gilt nicht, wenn bei der Festsetzung von Ansprüchen die bisherigen Vorschriften über das Zusammentreffen von Ansprüchen (§§ 120 bis 122 BEG) offensichtlich außer acht gelassen worden sind; Absatz 1 gilt ferner nicht in den Fällen des § 125a BEG. Die Entschädigungsbehörde ist befugt, innerhalb einer Frist von einem Jahr nach Verkündung dieses Gesetzes einen neuen Bescheid über diese Ansprüche nach Maßgabe der §§ 141d bis 141k BEG oder des § 125a BEG zu erlassen.
+9. (1) Die Minderung, das Ruhen oder die Entziehung einer nach den bisherigen Vorschriften festgesetzten Rente richtet sich nach den Vorschriften des Bundesentschädigungsgesetzes in der Fassung des Artikels I dieses Gesetzes.
+  (2)
+  In den Fällen der §§ 141d bis 141k BEG werden die dem Berechtigten nach den bisherigen Vorschriften zuerkannten Renten solange nicht erhöht, als ihr Gesamtbetrag die Summe der dem Berechtigten nach dem Bundesentschädigungsgesetz in der Fassung des Artikels I dieses Gesetzes zustehenden Renten übersteigt.
+10. Im Falle des Artikels I Nr. 77 gelten folgende Übergangsvorschriften:
+  Soweit ein nach den in § 138 BEG genannten Vorschriften vor dem Inkrafttreten des Artikels I Nr. 77 gestellter Antrag wegen Fristversäumung abgelehnt worden ist, ist auf Antrag des Berechtigten oder, wenn dieser verstorben ist, einer der in § 1288 Abs. 2 der Reichsversicherungsordnung, § 65 Abs. 2 des Angestelltenversicherungsgesetzes oder § 88 Abs. 2 des Reichsknappschaftsgesetzes genannten Personen erneut zu entscheiden, wenn dieser Antrag innerhalb der im zweiten Halbsatz des § 138 BEG genannten Frist gestellt wird. Eine erneute Entscheidung von Amts wegen ist nicht ausgeschlossen. Der erneuten Entscheidung steht nicht entgegen, daß die frühere Entscheidung über den Antrag bindend oder rechtskräftig geworden ist.

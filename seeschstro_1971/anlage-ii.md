@@ -1,0 +1,256 @@
+# Anlage II Sichtzeichen und Schallsignale der Fahrzeuge
+
+Fundstelle des Originaltextes: BGBl. I 1998, 3252 - 3262;
+bzgl. der einzelnen Änderungen vgl. Fußnote
+II.1 Sichtzeichen
+II.2 Schallsignale
+Erläuterung zur Anlage II
+1. Allgemeines
+    Gemäß § 6 Abs. 1 haben Fahrzeuge zusätzlich zu den in den Kollisionsverhütungsregeln vorgeschriebenen Sichtzeichen und Schallsignalen nur solche nach Maßgabe dieser Anlage zu führen, zu zeigen oder zu geben.
+  2. Zu den Lichtern
+    Die nach den Kollisionsverhütungsregeln vorgeschriebenen Lichter sind zusätzlich dargestellt.
+  2.1 Kennzeichnung der Lichter
+    Ist ein Funkellicht vorgeschrieben, so ist als Zeitmaß mindestens 120 Lichterscheinungen in der Minute einzuhalten.
+  2.2 Darstellung der Lichter
+    Rundumlicht in der angegebenen Farbe, ... (Abb.)
+    festes Licht in der angegebenen Farbe, sichtbar über einen begrenzten Horizontbogen, ... (Abb.)
+    festes Licht in der angegebenen Farbe, sichtbar über einen begrenzten Horizontbogen, vom Beobachter abgekehrte Richtung, ... (Abb.)
+    Funkellicht in der angegebenen Farbe, sichtbar über den ganzen Horizont, ... (Abb.)
+    Gleichtaktlicht in der angegebenen Farbe, sichtbar über den ganzen Horizont, ... (Abb.)
+    auf und nieder bewegtes Licht in der angegebenen Farbe, sichtbar über den ganzen Horizont, ... (Abb.)
+    Leuchtkugel mit Sternen in der angegebenen Farbe. ... (Abb.)
+  3. Zu den Schallsignalen
+    Darstellung der Schallsignale
+    1 langer Ton ... (Abb.)
+    1 kurzer Ton ... (Abb.
+    Glockenschlag ... (Abb.)
+    rasches Läuten der Glocke. ... (Abb.)
+II.1 Sichtzeichen der Fahrzeuge
+1. Fahrzeuge des öffentlichen Dienstes bei Erfüllung polizeilicher Aufgaben
+    (§ 7)
+    Fahrzeuge des öffentlichen Dienstes haben bei der Erfüllung polizeilicher Aufgaben, wenn dadurch die Sicherheit und Leichtigkeit des Verkehrs gefährdet wird, zu zeigen:
+    ein dauerndes blaues Funkellicht.
+    Gleiches gilt für Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger bei der Durchführung eines Rettungseinsatzes.
+    ... (Abb.)
+  2. Zollfahrzeuge
+    Bei Nacht:
+    drei grüne Rundumlichter senkrecht übereinander.
+    ... (Abb.)
+    Am Tage:
+    eine viereckige grüne Flagge an beliebiger Stelle.
+  3. Fahrzeuge der Bundeswehr und der Bundespolizei sowie Maschinenfahrzeuge, die Schießscheiben schleppen
+    Fahrzeuge der Bundeswehr und der Bundespolizei sowie Maschinenfahrzeuge, die Schießscheiben schleppen, denen sich bei Nacht Fahrzeuge in Gefahr drohender Weise nähern und von denen ein ausreichender Abstand zu halten ist:
+    Leuchtkugeln mit weißen Sternen.
+    ... (Abb.)
+  4. (aufgehoben)
+  5. Fähren
+    (§ 2 Abs. 1 Nr. 12)
+  5.1 Nicht freifahrende Fähren in Fahrt
+    Bei Nacht:
+    ein grünes Rundumlicht über einem weißen Rundumlicht.
+    ... (Abb.)
+  5.2 Freifahrende Fähren auf dem Nord-Ostsee-Kanal, der Trave und der Warnow in Fahrt
+    Bei Nacht:
+    je ein gelbes Gleichtaktlicht im Topp sowie vorn und hinten an jeder Seite (bei den Ecklichtern nur sichtbar im fahrzeugabgewandten Sichtwinkel).
+    ... (Abb.)
+  6. Fahrzeuge und Schub- und Schleppverbände, die bestimmte gefährliche Güter befördern (§ 2 Abs. 1 Nr. 16) und leere Fahrzeuge im Sinne des § 30 Abs. 1 Nr. 2 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten besonders gefährlichen Fahrzeuge, Schub- und Schleppverbände
+    Bei Nacht:
+    ein rotes Rundumlicht.
+    ... (Abb.)
+    Am Tage:
+    die Flagge "B" des Internationalen Signalbuches.
+    Auf dem Nord-Ostsee-Kanal müssen diese Sichtzeichen an der Backbord-Rah oder an anderer geeigneter, von vorn gut sichtbarer Stelle der Backbordseite geführt werden.
+    Diese Sichtzeichen sind auch zu führen, wenn die Fahrzeuge ankern oder festgemacht haben.
+    Von dieser Regelung sind Kriegsfahrzeuge ausgenommen.
+    ... (Abb.)
+  7. (aufgehoben)
+  8. (aufgehoben)
+  9 Schwimmendes Zubehör, das von Fahrzeugen, die baggern oder Unterwasserarbeiten ausführen, bei ihrem Einsatz verwendet wird
+    Bei Nacht:
+    ein weißes Rundumlicht.
+    ... (Abb.)
+    Am Tage:
+    eine viereckige rote Tafel.
+    ... (Abb.)
+  10. Manövrierbehinderte Fahrzeuge, die im Fahrwasser baggern oder Unterwasserarbeiten ausführen
+    Manövrierbehinderte Fahrzeuge, die im Fahrwasser baggern oder Unterwasserarbeiten ausführen, haben, wenn an keiner Seite eine Behinderung besteht, zusätzlich zu der Bezeichnung nach Regel 27 Buchstabe b der Kollisionsverhütungsregeln an jeder Seite zu führen:
+    Bei Nacht:
+    zwei grüne Rundumlichter senkrecht übereinander.
+    ... (Abb.)
+    Am Tage:
+    zwei Rhomben senkrecht übereinander.
+    ... (Abb.)
+  11. Festgemachte Fahrzeuge, schwimmende Anlagen (§ 2 Abs. 1 Nr. 5) und außergewöhnliche Schwimmkörper (§ 2 Abs. 1 Nr. 6)
+  11.1 Bei einer Fahrzeuglänge von weniger als 50 m
+    Bei Nacht:
+    ein weißes Rundumlicht mittschiffs an der Fahrwasserseite oder an dem am weitesten zum Fahrwasser reichenden Ende, möglichst in Deckshöhe.
+    ... (Abb.)
+  11.2 Bei einer Fahrzeuglänge von 50 m und mehr
+    Bei Nacht:
+    je ein weißes Rundumlicht vorn und hinten an der Fahrwasserseite, möglichst in Deckshöhe.
+    ... (Abb.)
+  11.3 Ausnahmen und Sonderregelungen
+    Festgemachte Fahrzeuge brauchen, ausgenommen auf dem Nord-Ostsee-Kanal, keine Sichtzeichen zu führen, wenn die Umrisse des Fahrzeugs durch andere Lichtquellen ausreichend und dauernd erkennbar sind oder das Fahrzeug im Bereich einer Liegestelle liegt, deren Umrisse ausreichend und dauernd erkennbar sind.
+    Dies gilt auch für schwimmende Anlagen und außergewöhnliche Schwimmkörper. Auf dem Nord-Ostsee-Kanal brauchen Sportfahrzeuge an den dafür bestimmten Liegestellen keine Lichter zu führen.
+    Sind zwei oder mehrere Fahrzeuge nebeneinander festgemacht, so braucht nur das dem Fahrwasser am nächsten liegende Fahrzeug das Sichtzeichen zu führen. Dies gilt auch für außergewöhnliche Schwimmkörper.
+    Fahrzeuge auf dem Nord-Ostsee-Kanal, die in den Weichengebieten aus anderen als verkehrs- oder wetterbedingten Gründen liegen, haben das Sichtzeichen zu zeigen; bei einem Schleppverband hat jedes Fahrzeug die Sichtzeichen zu führen.
+  11.4 Fahrzeuge, die an einer Festmachetonne B.17 der Anlage I liegen
+    Diese Fahrzeuge haben das Sichtzeichen für Ankerlieger nach Regel 30 der Kollisionsverhütungsregeln zu führen.
+  12. Fahrzeuge mit Seelotsen auf dem Nord-Ostsee-Kanal (§ 2 Abs. 1 Nr. 18a) vor dem Auslaufen aus der Schleuse zum Kanal
+    Die Sichtzeichen sind vor dem Auslaufen aus der Schleuse zum Kanal zu setzen.
+  12.1 Verkehrsgruppen 1 und 2
+    Am Tage:
+    die Flagge "H" des Internationalen Signalbuches.
+    ... (Abb.)
+  12.2 Verkehrsgruppe 3
+    keine besondere Kennzeichnung.
+  12.3 Verkehrsgruppe 4
+    Bei Nacht:
+    ein grünes Rundumlicht.
+    ... (Abb.)
+    Am Tage:
+    ein schwarzer Zylinder.
+    ... (Abb.)
+  12.4 Verkehrsgruppen 5 und 6
+    Bei Nacht:
+    zwei grüne Rundumlichter senkrecht übereinander.
+    ... (Abb.)
+    Am Tage:
+    ein schwarzer Zylinder, darunter ein schwarzer Ball.
+    ... (Abb.)
+    Die Sichtzeichen der Verkehrsgruppen 4 bis 6 müssen an der Steuerbord-Rah oder an anderer geeigneter, von vorn gut sichtbarer Stelle der Steuerbordseite geführt werden.
+  13. Freifahrer auf dem Nord-Ostsee-Kanal (§ 2 Abs. 1 Nr. 15) einschließlich des Einlaufens in die Schleusen
+    Die Sichtanzeigen sind vor dem Einlaufen in die Schleusen zum Kanal zu setzen.
+  13.1 Verkehrsgruppe 1
+    Bei Nacht:
+    ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des vorderen Topplichtes.
+    ... (Abb.)
+    Am Tage:
+    die Flagge "N" des Internationalen Signalbuches.
+    ... (Abb.)
+  13.2 Verkehrsgruppe 2
+    Bei Nacht:
+    ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des vorderen Topplichtes.
+    ... (Abb.)
+    Am Tage:
+    die Flagge "N" und darunter den Zahlenwimpel "2" des Internationalen Signalbuches.
+    ... (Abb.)
+  13.3 Verkehrsgruppe 3
+    Bei Nacht:
+    ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des vorderen Topplichtes.
+    ... (Abb.)
+    Am Tage:
+    die Flagge "N" und darunter den Zahlenwimpel "3" des Internationalen Signalbuches.
+    ... (Abb.)
+  13.4 Verkehrsgruppe 4
+    Bei Nacht:
+    ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des vorderen Topplichtes, ein grünes Rundumlicht.
+    ... (Abb.)
+    Am Tage:
+    die Flagge "N" und darunter den Zahlenwimpel "4" des Internationalen Signalbuches, ein schwarzer Zylinder.
+    ... (Abb.)
+    Die Sichtzeichen der Verkehrsgruppe 4 müssen an der Steuerbord-Rah oder an anderer geeigneter, von vorn gut sichtbarer Stelle der Steuerbordseite geführt werden.
+  14. Am Ufer festgekommene Fahrzeuge auf dem Nord-Ostsee-Kanal an der Seite, an der vorbeigefahren werden darf
+    Bei Nacht:
+    ein weißes Rundumlicht an dem am weitesten ins Fahrwasser reichenden Fahrzeugteil.
+    ... (Abb.)
+  15. Fahrzeuge, die einen Seelotsen anfordern
+  15.1 Bei den Außenstationen der Seelotsenreviere für die Revierfahrten, auf der Reede vor Bremerhaven für die Fahrt nach der Außenstation des Lotsenfahrzeugs oder nach den stadtbremischen Häfen in Bremen oder auf der Reede vor Brunsbüttel für die Fahrt nach der Außenstation des Lotsenfahrzeugs oder nach Hamburg
+    Am Tage:
+    die Flagge "G" des Internationalen Signalbuches.
+    ... (Abb.)
+  15.2 Bei der Station des Lotsenfahrzeugs in der Jade/Weser- Ansteuerung für die Fahrt nach Wilhelmshaven, auf der Reede vor Bremerhaven für die Fahrt nach einem niedersächsischen Hafen im Wesergebiet oder auf den Reeden vor Brunsbüttel und Kiel-Holtenau für die Fahrtstrecken des Nord-Ostsee-Kanals
+    Am Tage:
+    die Flagge "G" des Internationalen Signalbuches und der darunter gesetzte Wimpel 1.
+    ... (Abb.)
+  16. Fahrzeuge, die einen Seelotsen absetzen wollen
+    Am Tage:
+    die halbgehißte Flagge "G" des Internationalen Signalbuches.
+    ... (Abb.)
+II.2 Schallsignale der Fahrzeuge
+1. Achtungssignal
+    Das Schallsignal ist in allen Fällen zu geben, in denen die Verkehrslage ein Achtungssignal erfordert, insbesondere
+    beim Einlaufen in andere Fahrwasser und Häfen, beim Auslaufen aus ihnen sowie aus Schleusen und beim Verlassen von Liege- und Ankerplätzen und
+    auf dem Nord-Ostsee-Kanal bei der Annäherung an schwimmende Geräte und an Stellen, die durch ein Sichtzeichen A.4 (Anlage I) gekennzeichnet sind, sowie beim Ablegen von der Bunkerstation Projensdorf, wenn das Fahrzeug westwärts fahren will.
+    Ein Maschinenfahrzeug, das Schießscheiben schleppt, hat das Schallsignal zu geben, wenn sich bei Nacht ein Fahrzeug in Gefahr drohender Weise nähert.
+  1.1 Auf allen Seeschiffahrtsstraßen mit Ausnahme auf dem Nord-Ostsee-Kanal:
+    ein langer Ton. ... (Abb.)
+  1.2 Auf dem Nord-Ostsee-Kanal:
+  1.2.1 Westwärts fahrende Fahrzeuge:
+    ein langer Ton. ... (Abb.)
+  1.2.2 Ostwärts fahrende Fahrzeuge:
+    zwei lange Töne. ... (Abb.)
+  2. Gefahr- und Warnsignal
+  2.1 Allgemeines Gefahr- und Warnsignal
+    Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses selbst gefährdet, hat es soweit möglich rechtzeitig das Schallsignal zu geben:
+    ein langer Ton, vier kurze Töne, ... (Abb.)
+    ein langer Ton, vier kurze Töne. ... (Abb.)
+  2.2 Bleib-weg-Signal
+    Werden auf Fahrzeugen oder Schub- und Schleppverbänden bestimmte gefährliche Güter oder radioaktive Stoffe im Sinne von § 2 Abs. 1 Nr. 16 frei oder drohen freizuwerden oder besteht Explosionsgefahr, ist das folgende Schallsignal so lange zu geben, wie die Verkehrslage es erfordert:
+    ein kurzer Ton, ein langer Ton; das Signal ist in jeder Minute mindestens 5mal hintereinander mit jeweils 2 Sekunden Zwischenpause zu geben; sofern entsprechende Einrichtungen an Bord sind, ist das Schallsignal gleichzeitig als Lichtsignal mit einem weißen Rundumlicht zu geben.
+    ... (Abb.)
+    Im Bereich von Liege- und Umschlagsstellen ist das Signal auch von dem für den Betrieb der Umschlagsanlage Verantwortlichen zu geben.
+    Für die Ausrüstung zum Geben der Schallsignale von Umschlaganlagen gilt Anlage III der Kollisionsverhütungsregeln sinngemäß.
+  2.3 Warnsignal auf dem Nord-Ostsee-Kanal "ich vermindere meine Geschwindigkeit"
+    Vermindert ein Fahrzeug seine Geschwindigkeit, während sich ein anderes Fahrzeug nähert, hat es rechtzeitig das Schallsignal zu geben:
+    ein langer Ton, drei kurze Töne, ... (Abb.)
+    ein langer Ton, drei kurze Töne. ... (Abb.)
+  2.4 Warnsignal auf dem Nord-Ostsee-Kanal "ich will anlegen"
+    Will ein Fahrzeug in einem Hafen oder an einer Umschlagsstelle festmachen, während sich ein anderes Fahrzeug nähert, hat es rechtzeitig das Schallsignal zu geben:
+    ein langer Ton, drei kurze Töne. ... (Abb.)
+  3. Schallsignale bei verminderter Sicht
+  3.1 Auf dem Nord-Ostsee-Kanal haben in Fahrt befindliche Fahrzeuge mit Ausnahme der Fähren an Stellen, die durch Sichtzeichen B.1 (Anlage 1) gekennzeichnet sind, das Schallsignal zu geben:
+  3.1.1 westwärts fahrende Fahrzeuge:
+    ein langer Ton; ... (Abb.)
+  3.1.2 ortswärts fahrende Fahrzeuge:
+    zwei lange Töne. ... (Abb.)
+    Im übrigen ist das Schallsignal bei Erfordernis zu geben.
+  3.2 Bugsierte Maschinenfahrzeuge in Fahrt
+    Abweichend von Regel 35 Buchstabe a und b der Kollisionsverhütungsregeln ist das Schallsignal mindestens alle 2 Minuten zu geben:
+    ein langer Ton, ein kurzer Ton, zwei lange Töne. ... (Abb.)
+    Die bugsierenden Schlepper dürfen das Schallsignal nach Regel 35 Buchstabe c der Kollisionsverhütungsregeln nicht geben.
+  3.3 Fähren während der ganzen Fahrt
+  3.3.1 Nicht freifahrende Fähren:
+    dauernde Einzelschläge der Glocke. ... (Abb.)
+  3.3.2 Freifahrende Fähren:
+    ein kurzer Ton, zwei lange Töne. ... (Abb.)
+  4. (aufgehoben)
+  5. Ausweichsignal
+    (§ 24 Abs. 3)
+  5.1 Hinweissignal "Ich will links ausweichen" sowie auf dem Nord-Ostsee-Kanal das Antwortsignal des Gegenkommers:
+    ein langer Ton mit zwei Gruppen von zwei kurzen Tönen. ... (Abb.)
+  5.2 (aufgehoben)
+  6. Anforderungssignal
+    "Brücke/Sperrtor/Schleuse öffnen"
+  6.1 Auf allen Seeschiffahrtsstraßen mit Ausnahme auf der Trave (bei Hubbrücken mit zwei Hubstufen "öffnen bis zur 1. Hubstufe"):
+    zwei lange Töne. ... (Abb.)
+  6.2 Auf der Trave
+  6.2.1 Seewärts fahrende Fahrzeuge:
+    zwei lange Töne. ... (Abb.)
+  6.2.2 Binnenwärts fahrende Fahrzeuge:
+    zwei Gruppen von zwei langen Tönen. ... (Abb.)
+  6.3 Bei Hubbrücken mit zwei Hubstufen "öffnen bis zur letzten Hubstufe":
+    zwei lange Töne, ein kurzer Ton. ... (Abb.)
+  7. Schleppersignale
+  7.1 Hinweissignal "Ich möchte einen Schlepper":
+    ein kurzer Ton, ein langer Ton, ein kurzer Ton, ein langer Ton. ... (Abb.)
+  7.2 Manövriersignale beim Schleppen
+  7.2.1 Hinweissignal "Bugschlepper Schleppleine nehmen, anschleppen (antauen) oder loswerfen":
+    ein langer Ton, zwei kurze Töne, ein langer Ton. ... (Abb.)
+  7.2.2 Hinweissignal "Heckschlepper Schleppleine nehmen, anschleppen (antauen) oder loswerfen":
+    ein langer Ton, zwei kurze Töne, zwei lange Töne. ... (Abb.)
+  7.2.3 Hinweissignal "Bugschlepper nach Steuerbord schleppen (austauen)":
+    ein kurzer Ton. ... (Abb.)
+  7.2.4 Hinweissignal "Bugschlepper nach Backbord schleppen (austauen)":
+    zwei kurze Töne. ... (Abb.)
+  7.2.5 Hinweissignal "Heckschlepper zurückschleppen (zurücktauen)":
+    drei kurze Töne. ... (Abb.)
+  7.2.6 Hinweissignal "Heckschlepper nach Steuerbord schleppen (austauen)":
+    drei kurze Töne und nach einer Pause ein weiterer kurzer Ton. ... (Abb.)
+  7.2.7 Hinweissignal "Heckschlepper nach Backbord schleppen (austauen)":
+    drei kurze Töne und nach einer Pause zwei weitere kurze Töne. ... (Abb.)
+  7.2.8 Hinweissignal "Manöver verlangsamen oder einstellen":
+    ein langer Ton. ... (Abb.)
+  7.2.9 Hinweissignal "Gefahr":
+    fünf kurze Töne oder mehr. ... (Abb.)
+  8. (aufgehoben)

@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Königswinter/Petersberg am 30. September 1992 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bolivien zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen sowie dem dazugehörigen Protokoll vom selben Tag und dem Notenwechsel vom 30. Juli 1993/12. August 1993 wird zugestimmt. Das Abkommen, das Protokoll und der Notenwechsel werden nachstehend veröffentlicht.

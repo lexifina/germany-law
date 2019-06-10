@@ -1,0 +1,22 @@
+# Art 2 Übertragung von Gnadenbefugnissen
+
+(1)
+Soweit ich mir die Ausübung des Begnadigungsrechts des Bundes nicht vorbehalten habe, übertrage ich sie
+1. den Präsidenten des Deutschen Bundestages, des Bundesrates, des Bundesverfassungsgerichts, des Bundesrechnungshofes und der Deutschen Bundesbank
+  in Disziplinarsachen der Beamten und Ruhestandsbeamten ihres Geschäftsbereichs;
+2. den Bundesministern
+  in Disziplinarsachen und in Ehrengerichtssachen ihres Geschäftsbereichs;
+3. dem Bundesminister des Innern oder dem Bundesminister, dem die Befugnisse als Einleitungsbehörde übertragen worden sind,
+  in Disziplinarsachen der Angehörigen des öffentlichen Dienstes oder Versorgungsberechtigten im Sinne des Gesetzes zur Regelung der Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden Personen.
+(2)
+Die Ausübung des Begnadigungsrechts des Bundes übertrage ich ferner
+1. dem Bundesminister der Justiz
+  in rechtskräftig abgeschlossenen Strafsachen, in denen erkannt hat:
+  a) der Bundesgerichtshof oder in Ausübung von Gerichtsbarkeit des Bundes ein Oberlandesgericht im ersten Rechtszug oder ein anderes Gericht des Bundes, soweit ich mir die Entschließung nicht vorbehalten habe,
+  b) das Reichsgericht im ersten Rechtszug, der ehemalige Volksgerichtshof, ein früheres Wehrmachtgericht oder ein Gericht eines früheren wehrmachtähnlichen Verbandes,
+  c) ein Gericht, an dessen Sitz deutsche Gerichtsbarkeit nicht mehr ausgeübt wird;
+2. den zuständigen Bundesministern
+  a) in Bußgeldsachen, die durch rechtskräftigen Bußgeldbescheid einer Verwaltungsbehörde des Bundes abgeschlossen worden sind, sowie in rechtskräftig abgeschlossenen Verwaltungsstrafsachen nach früherem Recht,
+  b) in rechtskräftig abgeschlossenen Ordnungsstrafsachen ihres Geschäftsbereichs.
+(3)
+Die Ermächtigungen gelten nicht für Fälle von außerordentlicher Bedeutung; in diesen behalte ich mir vor, selbst zu entscheiden.

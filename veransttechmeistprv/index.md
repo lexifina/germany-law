@@ -1,0 +1,17 @@
+# Verordnung über die Prüfung zum anerkannten Abschluß "Geprüfter Meister für Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik" in den Fachrichtungen Bühne/Studio, Beleuchtung, Halle
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Prüfung und Bezeichnung des Abschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen](0002.md)
+- [§ 3 Gliederung und Inhalt der Prüfung](0003.md)
+- [§ 4 Fachrichtungsübergreifender Teil](0004.md)
+- [§ 5 Fachrichtungsspezifischer Teil der Fachrichtung Bühne/Studio](0005.md)
+- [§ 6 Fachrichtungsspezifischer Teil der Fachrichtung Beleuchtung](0006.md)
+- [§ 7 Fachrichtungsspezifischer Teil der Fachrichtung Halle](0007.md)
+- [§ 8 Anrechnung anderer Prüfungsleistungen](0008.md)
+- [§ 9 Bestehen der Prüfung](0009.md)
+- [§ 10 Wiederholung der Prüfung](0010.md)
+- [§ 11 Übergangsvorschrift](0011.md)
+- [§ 12 Anwendungsregelung](0012.md)
+- [§ 13 Außerkrafttreten](0013.md)
+- [Anlage (zu § 9 Absatz 3)](anlage.md)

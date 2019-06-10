@@ -1,0 +1,3 @@
+# Art 7
+
+Jeder Vertragsstaat unterrichtet, soweit irgend möglich, die anderen Vertragsstaaten vollständig und fortlaufend über seine Gesetze und sonstigen die Lufttüchtigkeit betreffenden Rechtsvorschriften, einschließlich der ergänzenden Betriebsvorschriften sowie über alle Änderungen dieser Vorschriften. Er gibt ferner auf Ersuchen eines Vertragsstaates, der Artikel 2 anzuwenden beabsichtigt, nach Möglichkeit Einzelheiten seiner Gesetze und sonstigen die Lufttüchtigkeit betreffenden Rechtsvorschriften bekannt, auf Grund welcher er ein Lufttüchtigkeitszeugnis ausgestellt oder als gültig anerkannt hat.

@@ -1,0 +1,60 @@
+# Anlage 2
+
+(Fundstelle: BGBl. I 2002, 2226 - 2228)
+Frequenznutzungsbeiträge für das Jahr 2002
+| 1 | 2 | 3 | 4 | 5 |
+| Nr. | Funkdienst/Funkanwendung | Nutzergruppen | Bezugseinheit | Jahresbeitrag je Bezugseinheit nach § 3 (in Euro) |
+| 1 | Öffentlicher Mobilfunk |  |  |  |
+| 1.1 |  | D-, E-Netze | Netz | 163.667 |
+| 1.2 |  | Bündelfunk | Kanal | 194 |
+| 1.3 |  | Funkruf | Kanal | 19.698 |
+| 1.4 |  | Datenfunk | Kanal | 1.960 |
+| 2 | Rundfunkdienst |  |  |  |
+| 2.1 |  | Ton-Rundfunk |  |  |
+| 2.1.1 |  | LW | Zugeteilte Frequenz | 2.238 |
+| 2.1.2 |  | MW | Zugeteilte Frequenz | 1.506 |
+| 2.1.3 |  | KW | Zugeteilte Frequenz Theoretische Versorgungsfläche je zugeteilte Frequenz *) | 257 |
+| 2.1.4 |  | UKW | je angefangene 100 qkm | 22 |
+| 2.2 |  | Fernseh-Rundfunk | je angefangene 100 qkm | 89 |
+| 2.3 |  | T-DAB | je angefangene 100 qkm | 131 |
+| 3 | Feste Funkdienste/Normalfrequenz- und Zeitzeichenfunkdienst |  |  |  |
+| 3.1 |  | koordinierungspflichtige feste Funkanlagen einschließlich Normalfrequenz- und Zeitzeichenfunk | Sendefunkanlage | 59 |
+| 3.2 |  | nicht koordinierungsrelevante feste Funkanlagen | Sendefunkanlage | 3 |
+| 4 | Nichtöffentlicher Mobiler Landfunk (nömL) |  |  |  |
+| 4.1 |  | Betriebsfunk auf Gemeinschaftsfrequenzen, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, FernwirkFunkanlagen | Sendefunkanlage | 13 |
+| 4.2 |  | Betriebsfunk auf Frequenzen, die nicht zur Nutzung als "Gemeinschaftsfrequenzen" bestimmt sind, einschließlich Betriebsfunk in Bündelfunktechnik | Kanal | 674 |
+| 4.3 |  | CB-Funk | Zuteilungsinhaber | 16 |
+| 4.4 |  | Grundstücks-Personenruf (Netze ohne Quittungssender) | Netz mit ... Rufempfängern |  |
+| bis zu 2 | 5 |
+| bis zu 5 | 10 |
+| bis zu 10 | 19 |
+| bis zu 50 | 38 |
+| bis zu 150 | 76 |
+| bis zu 400 | 153 |
+| bis zu 1.000 | 306 |
+| mehr als 1.000 | 458 |
+| 4.5 |  | Grundstücks-Personenruf (Netze mit Quittungssendern), Grundstücksüberschreitender Personenruf | Netz mit ... Rufempfängern |  |
+| bis zu 2 | 6 |
+| bis zu 5 | 12 |
+| bis zu 10 | 25 |
+| bis zu 50 | 49 |
+| bis zu 150 | 98 |
+| bis zu 400 | 197 |
+| bis zu 1.000 | 295 |
+| mehr als 1.000 | 394 |
+| 4.6 |  | Fernsehfunkanlagen des nömL, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung von Fernsehleitungen, Funkanlagen für Ton- und Meldeleitungen | Sendefunkanlage | 36 |
+| 4.7 |  | Durchsage-Funkanlagen (Führungs-Funkanlage, drahtlose Mikrofonanlage) | Sendefunkanlage | 6 |
+| 4.8 |  | Mietsprechfunkgerät, Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte |  | kein Betrag |
+| 5 | Flugfunkdienst |  |  |  |
+| 5.1 |  | stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen | Funkstelle | 272 |
+| 5.2 |  | übrige Bodenfunkstellen, Luftfunkstellen | Funkstelle | 34 |
+| 6 | Amateurfunkdienst | Amateurfunkstelle | je Zulassung zur Teilnahme am Amateurfunkdienst | 4 |
+| 7 | Seefunkdienst/Binnenschifffahrtsfunk | Seefunk/Binnenschifffahrtsfunk | Funkstelle | 17 |
+| 8 | Nichtnavigatorischer Ortungsfunkdienst | Nichtnavigatorischer Ortungsfunk | Sendefunkanlage | 10 |
+| 9 | Sonstige Funkanwendungen |  |  |  |
+| 9.1 |  | Demonstrations-Funkanlagen | Sendefunkanlage | 3 |
+| 9.2 |  | Versuchs-Funkanlagen | Zuteilung | 98 |
+| 9.3 |  | WLL/DECT DVB-TUMTS | Sendefunkanlage | 32 |
+| *)Theoretische Versorgungsfläche: Die Theoretische Versorgungsfläche ist eine Berechnungsgröße zur Ermittlung des Frequenznutzungsbeitrags. Sie basiert für alle Rundfunkdienste auf den internationalen Ausbreitungskurven der ITU- R P.370 sowie den jeweils gültigen nationalen Richtlinien (zurzeit 176 TR 22 bzw. 5 R 22 vom März 1992).Auf der Basis dieser Ausbreitungskurven wird für eine Sendefunkanlage eine Mindestnutzfeldstärkekontur gemäß den jeweils gültigen internationalen Abkommen errechnet. Hieraus ergibt sich für jeden 10 Grad-Schritt eine Entfernung R vom Senderstandort bis zu dem Punkt, an dem die Mindestnutzfeldstärke erreicht ist. Daraus kann für jede der 36 Richtungen ein Flächenelement |
+| A= | Pi R(hoch)2-----------36 |  |
+| berechnet werden. Durch Addition der 36 Flächenelemente ergibt sich die Theoretische Versorgungsfläche einer Sendeanlage in km(hoch)2. Die Ermittlung der Entfernungen basiert auf den Ausbreitungskurven für Landausbreitung der Empfehlung ITU- R P.370 für 50% Zeit- und 50% Ortswahrscheinlichkeit. Die Geländerauhigkeit beträgt 50 m. Als Parameter sind der Frequenzbereich, in welchem die Nutzung stattfindet, der Wert der Mindestnutzfeldstärke sowie die sektoriellen effektiven Antennenhöhen und Leistungen erforderlich. Für Entfernungen (R) kleiner 10 km werden die Ausbreitungskurven verwandt, welche zurzeit auch in den Anlagen 1a und 2a der Richtlinien 176 TR 22 bzw. 5 R 22 zu finden sind. Für Sender, die im Rahmen eines Gleichwellennetzes betrieben werden, wird mittels Leistungsadditionsverfahren eine Summenfeldstärke des Netzes berechnet. Die Theoretische Versorgungsfläche entsteht durch Addition von hinreichend kleinen Flächenelementen, in denen die Mindestnutzfeldstärke erreicht wird. |

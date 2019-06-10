@@ -1,0 +1,16 @@
+# Anlage 2 (zu § 25)Inhalt des Genossenschaftsregisters als fortlaufender Text
+
+(Fundstelle: BGBl. I 2006, 2274;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Genossenschaftsregister des Amtsgerichts |
+| Nummer der Firma: GnR |
+| Wiedergabe des aktuellen Registerinhalts |
+| 1. | Anzahl der bisherigen Eintragungen: |
+| 2. | a)Firma:b)Sitz, Niederlassung, inländische Geschäftsanschrift und empfangsberechtigte Person der Europäischen Genossenschaft, Zweigniederlassungen:c)Gegenstand des Unternehmens: |
+| 3. | Nachschusspflicht, Mindestkapital; Grundkapital der Europäischen Genossenschaft: |
+| 4. | a)Allgemeine Vertretungsregelung:b)Vorstand; Leitungsorgan oder geschäftsführende Direktoren der Europäischen Genossenschaft; Vertretungsberechtigte und besondere Vertretungsbefugnis: |
+| 5. | Prokura: |
+| 6. | a)Rechtsform und Satzung:b)Sonstige Rechtsverhältnisse: |
+| 7. | Tag der letzten Eintragung: |
+|  |
+| Anmerkung: | Die beiden Kopfzeilen müssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein. |

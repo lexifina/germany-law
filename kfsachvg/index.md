@@ -1,0 +1,43 @@
+# Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte
+Prüfer für den Kraftfahrzeugverkehr
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Amtliche Anerkennung als Sachverständiger oder Prüfer
+für den Kraftfahrzeugverkehr](0001.md)
+- [§ 2 Voraussetzung für die Anerkennung](0002.md)
+- [§ 3 Antragsverfahren](0003.md)
+- [§ 4 Prüfung für die Anerkennung](0004.md)
+- [§ 5 Anerkennung](0005.md)
+- [§ 6 Tätigkeit der Sachverständigen und Prüfer](0006.md)
+- [§ 7 Ruhen und Erlöschen der Anerkennung](0007.md)
+- [§ 8 Rücknahme und Widerruf der Anerkennung](0008.md)
+- [§ 9 Erteilung einer neuen Anerkennung](0009.md)
+- [§ 10 Technische Prüfstelle für den Kraftfahrzeugverkehr](0010.md)
+- [§ 11 Einrichtung und Aufgaben der Technischen Prüfstelle](0011.md)
+- [§ 12 Organisation der Technischen Prüfstelle](0012.md)
+- [§ 13 Aufsicht über die Technische Prüfstelle](0013.md)
+- [§ 14 Staatliche Technische Prüfstellen](0014.md)
+- [§ 15 Zuständigkeiten](0015.md)
+- [§ 16 Sachverständige und Prüfer bei Behörden](0016.md)
+- [§ 17 Ausnahmeregelung](0017.md)
+- [§ 18 Kosten](0018.md)
+- [§ 19 Allgemeine Verwaltungsvorschriften](0019.md)
+- [§ 20 Ordnungswidrigkeiten](0020.md)
+- [§ 21](0021.md)
+- [§ 22 Örtliche Kraftfahrsachverständigenregister](0022.md)
+- [§ 23 Registrierung im Kraftfahrt-Bundesamt](0023.md)
+- [§ 24 Zweck der Registrierung](0024.md)
+- [§ 25 Erhebung der Daten](0025.md)
+- [§ 26 Übermittlung der Daten zur Registrierung](0026.md)
+- [§ 27 Übermittlung der Daten aus den Registern](0027.md)
+- [§ 28 Abgleich mit dem Fahreignungsregister](0028.md)
+- [§ 29 Datenvergleich zur Beseitigung von Fehlern](0029.md)
+- [§ 30 Löschung der Daten](0030.md)
+- [§ 31 Register über die Sachverständigen der Bundeswehr](0031.md)
+- [§ 32 Übergangsregelung](0032.md)
+- [§ 33 Inkrafttreten](0033.md)
+- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
+
+(BGBl. II 1990, 889, 1103)
+
+- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)

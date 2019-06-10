@@ -1,0 +1,16 @@
+# Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen Lebens"
+
+- [§ 1 Errichtung und Sitz](0001.md)
+- [§ 2 Stiftungszweck](0002.md)
+- [§ 3 Zuwendungsempfänger](0003.md)
+- [§ 4 Verwendung der Stiftungsmittel](0004.md)
+- [§ 5 Pfändungsfreiheit, Verhältnis zu anderen Sozialleistungen](0005.md)
+- [§ 6 Stiftungsvermögen](0006.md)
+- [§ 7 Satzung](0007.md)
+- [§ 8 Stiftungsorgane](0008.md)
+- [§ 9 Stiftungsrat](0009.md)
+- [§ 10 Geschäftsführer](0010.md)
+- [§ 11 Kuratorium](0011.md)
+- [§ 12 Aufsicht](0012.md)
+- [§ 13 Inkrafttreten im Beitrittsgebiet](0013.md)
+- [§ 14 (Inkrafttreten)](0014.md)

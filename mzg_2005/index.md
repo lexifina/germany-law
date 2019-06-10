@@ -1,0 +1,18 @@
+# Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und den Arbeitsmarkt sowie die Wohnsituation der Haushalte
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Art und Zweck der Erhebung](0001.md)
+- [§ 2 Erhebungseinheiten und Stichprobenauswahl](0002.md)
+- [§ 3 Periodizität](0003.md)
+- [§ 4 Erhebungsmerkmale](0004.md)
+- [§ 5 Hilfsmerkmale](0005.md)
+- [§ 6 Erhebungsbeauftragte](0006.md)
+- [§ 7 Auskunftspflicht](0007.md)
+- [§ 8 Trennung und Löschung](0008.md)
+- [§ 9 Nichtanwendung der Bußgeldvorschriften des Bundesstatistikgesetzes](0009.md)
+- [§ 10 Datenübermittlung](0010.md)
+- [§ 11 Zusatzaufbereitungen zur Erwerbsbeteiligung](0011.md)
+- [§ 12 Stichprobenerhebungen über Arbeitskräfte in der Europäischen Union](0012.md)
+- [§ 13 Verordnungsermächtigung](0013.md)
+- [§ 13a Experimentierklausel](0013a.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)

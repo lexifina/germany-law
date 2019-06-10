@@ -1,0 +1,9 @@
+# Art 9 Verjährung von Ordnungsmitteln
+
+(1)
+Die Verjährung schließt die Festsetzung von Ordnungsgeld und Ordnungshaft aus. Die Verjährungsfrist beträgt, soweit das Gesetz nichts anderes bestimmt, zwei Jahre. Die Verjährung beginnt, sobald die Handlung beendet ist. Die Verjährung ruht, solange nach dem Gesetz das Verfahren zur Festsetzung des Ordnungsgeldes nicht begonnen oder nicht fortgesetzt werden kann.
+(2)
+Die Verjährung schließt auch die Vollstreckung des Ordnungsgeldes und der Ordnungshaft aus. Die Verjährungsfrist beträgt zwei Jahre. Die Verjährung beginnt, sobald das Ordnungsmittel vollstreckbar ist. Die Verjährung ruht, solange
+1. nach dem Gesetz die Vollstreckung nicht begonnen oder nicht fortgesetzt werden kann,
+2. die Vollstreckung ausgesetzt ist oder
+3. eine Zahlungserleichterung bewilligt ist.

@@ -1,0 +1,76 @@
+# Anlage 7 (zu § 36 Absatz 2 und § 39)Anforderungen in Bezug auf die Kosten der Eisenbahnanlagen und Zugangsentgelte
+
+1. Die Paare, die von den Betreibern der Schienenwege zu berücksichtigen sind, wenn sie eine Liste von Marktsegmenten im Hinblick auf die Einführung von Aufschlägen in der Entgeltregelung nach § 36 Absatz 1 festlegen, umfassen mindestens die folgenden:
+  a) Personenverkehr/Güterverkehr;
+  b) Gefahrgutzüge/andere Güterzüge;
+  c) Inländischer Verkehr/grenzüberschreitender Verkehr;
+  d) Kombinierter Verkehr/Direktverkehr;
+  e) Personenstadt- oder -regionalverkehr/Personenfernverkehr;
+  f) Ganzzüge/Einzelwagenverkehr;
+  g) Netzfahrplan/Ad-hoc-Verkehr.
+2. Für leistungsabhängige Entgeltregelungen nach § 39 gelten die folgenden Grundsätze:
+  a) Um ein vereinbartes Leistungsniveau zu erreichen und die wirtschaftliche Tragfähigkeit eines Verkehrsdienstes nicht zu gefährden, vereinbart der Betreiber der Schienenwege mit den Zugangsberechtigten die Eckwerte der leistungsabhängigen Entgeltregelung, insbesondere die Dauer von Verspätungen und die Grenzwerte, ab denen nach Maßgabe der leistungsabhängigen Entgeltregelung Zahlungen fällig werden, und zwar sowohl für Einzelfahrten als auch für sämtliche Zugbewegungen, die ein Eisenbahnverkehrsunternehmen in einer bestimmten Zeit durchführt.
+  b) Der Betreiber der Schienenwege teilt den Eisenbahnverkehrsunternehmen den Netzfahrplan, anhand dessen die Verspätungen berechnet werden, mindestens fünf Tage vor der Zugfahrt mit. Im Falle höherer Gewalt oder kurzfristiger Netzfahrplanänderungen kann der Betreiber der Schienenwege eine kürzere Mitteilungsfrist anwenden.
+  c) Alle Verspätungen sind einer der nachstehenden Kategorien und Unterkategorien zuzuordnen:
+    1. Betriebs-/Planungsmanagement des Betreibers der Schienenwege
+    1.1 Fahrplanerstellung
+    1.2 Zugbildung
+    1.3 Fehler im Betriebsverfahren
+    1.4 Falsche Anwendung der Vorrangregeln
+    1.5 Personal
+    1.6 Andere Ursachen
+    2. Infrastruktureinrichtungen des Betreibers der Schienenwege
+    2.1 Signalanlagen
+    2.2 Signalanlagen an Bahnübergängen
+    2.3 Telekommunikationsanlagen
+    2.4 Stromversorgungseinrichtungen
+    2.5 Gleis
+    2.6 Bauwerke
+    2.7 Personal
+    2.8 Andere Ursachen
+    3. Dem Betreiber der Schienenwege zuzuschreibende bautechnische Ursachen
+    3.1 Geplante Bauarbeiten
+    3.2 Probleme bei der Ausführung von Bauarbeiten
+    3.3 Geschwindigkeitsbeschränkung wegen schadhafter Gleise
+    3.4 Andere Ursachen
+    4. Anderen Betreibern der Schienenwege zuzuschreibende Probleme
+    4.1 verursacht durch den vorgelagerten Betreiber der Schienenwege
+    4.2 verursacht durch den nachgelagerten Betreiber der Schienenwege
+    5. Dem Eisenbahnverkehrsunternehmen zuzuschreibende kommerzielle Ursachen
+    5.1 Überschreitung der Haltezeit
+    5.2 Antrag des Eisenbahnverkehrsunternehmens
+    5.3 Ladevorgänge
+    5.4 Ladeprobleme
+    5.5 Zugvorbereitung
+    5.6 Personal
+    5.7 Andere Ursachen
+    6. Fahrzeuge des Eisenbahnverkehrsunternehmens
+    6.1 Umlaufplanerstellung und -änderung
+    6.2 Zugbildung durch das Eisenbahnverkehrsunternehmen
+    6.3 Probleme mit Reisezugwagen
+    6.4 Probleme mit Güterwagen
+    6.5 Probleme mit Fahrzeugen, Lokomotiven und Triebwagen
+    6.6 Personal
+    6.7 Andere Ursachen
+    7. Anderen Eisenbahnverkehrsunternehmen zuzuschreibende Probleme
+    7.1 verursacht durch das nachgelagerte Eisenbahnverkehrsunternehmen
+    7.2 verursacht durch das vorgelagerte Eisenbahnverkehrsunternehmen
+    8. Externe Ursachen, die weder dem Betreiber der Schienenwege noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind
+    8.1 Streik
+    8.2 Verwaltungsformalitäten
+    8.3 Äußere Einflüsse
+    8.4 Wetterbedingte Auswirkungen und natürliche Ursachen
+    8.5 Verspätung durch externe Ursachen im nachgelagerten Schienennetz
+    8.6 Andere Ursachen
+    9. Sekundäre Ursachen, die weder dem Betreiber der Schienenwege noch dem Eisenbahnverkehrsunternehmen zuzuschreiben sind
+    9.1 Gefährliche Ereignisse, Unfälle und Risiken
+    9.2 Streckenbelegung wegen Verspätung desselben Zuges
+    9.3 Streckenbelegung wegen Verspätung eines anderen Zuges
+    9.4 Umlauf
+    9.5 Anschlüsse
+    9.6 Weitere Untersuchung erforderlich.
+  d) Verspätungen sollten nach Möglichkeit nur einer einzigen Organisation zugeschrieben werden, wobei sowohl die Verantwortung für die Störung als auch die Fähigkeit zur Wiederherstellung des normalen Verkehrsbetriebs zu berücksichtigen sind.
+  e) Bei der Berechnung der Zahlungen ist die durchschnittliche Verspätung von Eisenbahnverkehrsdiensten zu berücksichtigen, für die ähnliche Pünktlichkeitsanforderungen gelten.
+  f) Der Betreiber der Schienenwege teilt den Eisenbahnverkehrsunternehmen so rasch wie möglich die Berechnung der nach der leistungsabhängigen Entgeltregelung fälligen Zahlungen mit. Die Berechnung umfasst sämtliche verspäteten Zugfahrten innerhalb eines Zeitraums von höchstens einem Monat.
+  g) Unbeschadet der bestehenden Rechtsbehelfe und des § 66 ist für Streitfälle in Bezug auf die leistungsabhängige Entgeltregelung ein Streitbeilegungssystem einzurichten, damit solche Angelegenheiten rasch bereinigt werden können. Dieses Streitbeilegungssystem gewährleistet Unparteilichkeit gegenüber den beteiligten Parteien. Gelangt dieses System zur Anwendung, ist innerhalb von zehn Arbeitstagen eine Entscheidung zu treffen.
+  h) Auf der Grundlage der in der leistungsabhängigen Entgeltregelung vereinbarten Eckwerte veröffentlicht der Betreiber der Schienenwege einmal jährlich das von den Eisenbahnverkehrsunternehmen im Jahresdurchschnitt erzielte Leistungsniveau.

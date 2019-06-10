@@ -1,0 +1,8 @@
+# Art 7
+
+(1)
+Alle Beliehenen erhalten eine Urkunde mit der Unterschrift des Bundespräsidenten. Die Urkunden über die Verleihung des Großkreuzes, des Großen Verdienstkreuzes mit Stern und Schulterband und des Großen Verdienstkreuzes mit Stern tragen das große, die über die Verleihung des Großen Verdienstkreuzes, der beiden Verdienstkreuze und der Verdienstmedaille das kleine Bundessiegel.
+(2)
+Das Ordenszeichen geht in das Eigentum des Beliehenen über. Eine Rückgabepflicht seiner Hinterbliebenen besteht nicht.
+(3)
+Erweist sich ein Beliehener durch sein späteres Verhalten, insbesondere durch Begehen einer entehrenden Straftat, der Auszeichnung unwürdig oder wird ein solches Verhalten nachträglich bekannt, so kann ihm die Befugnis zum Tragen des Verdienstordens entzogen werden.

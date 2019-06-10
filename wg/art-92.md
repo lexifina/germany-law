@@ -1,0 +1,8 @@
+# Art 92
+
+(1)
+Die Form einer Wechselerklärung bestimmt sich nach dem Recht des Landes, in dessen Gebiet die Erklärung unterschrieben worden ist.
+(2)
+Wenn jedoch eine Wechselerklärung, die nach den Vorschriften des vorstehenden Absatzes ungültig ist, dem Recht des Landes entspricht, in dessen Gebiet eine spätere Wechselerklärung unterschrieben worden ist, so wird durch Mängel in der Form der ersten Wechselerklärung die Gültigkeit der späteren Wechselerklärung nicht berührt.
+(3)
+Eine Wechselerklärung, die ein Inländer im Ausland abgegeben hat, ist im Inland gegenüber anderen Inländern gültig, wenn die Erklärung den Formerfordernissen des inländischen Rechts genügt.

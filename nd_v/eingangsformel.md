@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 8b Absatz 8 Satz 1 bis 3 des Bundesverfassungsschutzgesetzes, der durch Artikel 1 Nummer 2 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2576) eingefügt worden ist, auch in Verbindung mit § 4a Satz 1 des MAD-Gesetzes, der zuletzt durch Artikel 2 Nummer 1 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2576) geändert worden ist, und auch in Verbindung mit § 2a Satz 1 des BND-Gesetzes, der zuletzt durch Artikel 3 Nummer 1 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2576) geändert worden ist, verordnet das Bundesministerium des Innern im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium für Wirtschaft und Technologie, dem Bundesministerium der Justiz und dem Bundesministerium der Verteidigung:

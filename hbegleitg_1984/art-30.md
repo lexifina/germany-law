@@ -1,0 +1,10 @@
+# Art 30 Gesetz zur Änderung besoldungsrechtlicher Vorschriften
+
+1.
+2.
+3.
+4. Übergangsvorschrift
+(1)
+Nummer 1 findet keine Anwendung für die bis zum 30. Juni 1985 ernannten Beamten, Richter und Soldaten, die Grundwehrdienst oder Zivildienst geleistet haben, sofern die Ernennung wegen des Grundwehrdienstes oder Zivildienstes nicht bis zum 31. Dezember 1983 erfolgen konnte.
+(2)
+Absatz 1 gilt entsprechend für Beamte auf Widerruf im Vorbereitungsdienst hinsichtlich Nummer 3.

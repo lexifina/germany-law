@@ -1,0 +1,6 @@
+# Art 4
+
+(1)
+Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
+(2)
+Die in Artikel 5 des Protokolls vorgesehenen Steuer- und Zollbestimmungen sind mit Wirkung vom 19. Juni 1986 anzuwenden. Soweit das Protokoll in Bezug auf Steuern für die Zeit vor Inkrafttreten dieser Verordnung anzuwenden ist, sind bereits ergangene Steuerfestsetzungen aufzuheben oder zu ändern.

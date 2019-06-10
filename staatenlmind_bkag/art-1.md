@@ -1,0 +1,6 @@
+# Art 1
+
+Das Übereinkommen vom 30. August 1961 zur Verminderung der Staatenlosigkeit (BGBl. 1977 II S. 597) wird angewandt
+1. zur Beseitigung von Staatenlosigkeit auf Personen, die staatenlos nach Artikel 1 Abs. 1 des Übereinkommens vom 28. September 1954 über die Rechtsstellung der Staatenlosen (BGBl. 1976 II S. 473) sind;
+2. zur Verhinderung von Staatenlosigkeit oder Erhaltung der Staatsangehörigkeit auf Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes.
+Die Verleihung der Staatsangehörigkeit zur Beseitigung von Staatenlosigkeit erfolgt durch Einbürgerung.

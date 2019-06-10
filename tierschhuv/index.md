@@ -1,0 +1,19 @@
+# Tierschutz-Hundeverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Allgemeine Anforderungen an das Halten](0002.md)
+- [§ 3 Anforderungen an die Betreuung bei gewerbsmäßigem
+Züchten](0003.md)
+- [§ 4 Anforderungen an das Halten im Freien](0004.md)
+- [§ 5 Anforderungen an das Halten in Räumen](0005.md)
+- [§ 6 Anforderungen an die Zwingerhaltung](0006.md)
+- [§ 7 Anforderungen an die Anbindehaltung](0007.md)
+- [§ 8 Fütterung und Pflege](0008.md)
+- [§ 9 Ausnahmen für das vorübergehende Halten](0009.md)
+- [§ 10 Ausstellungsverbot](0010.md)
+- [§ 11 (weggefallen)](0011.md)
+- [§ 12 Ordnungswidrigkeiten](0012.md)
+- [§ 13 (weggefallen)](0013.md)
+- [§ 14 Inkrafttreten, Außerkrafttreten](0014.md)
+- [Schlussformel](schlussformel.md)

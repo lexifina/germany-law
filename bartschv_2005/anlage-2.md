@@ -1,0 +1,129 @@
+# Anlage 2 (zu § 2 Abs. 3 Nr. 2)Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
+
+(Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Wissenschaftliche Bezeichnung | Deutscher Name |
+| Fauna |  |
+| Alopex lagopus | Eisfuchs |
+| Flora |  |
+| Aeonium saundersii | Saunders' Kanarendachwurz |
+| Agrimonia pilosa | Weichhaariger Odermennig |
+| Aldrovanda vesiculosa | Wasserfalle |
+| Allium angulosum | Kantiger Lauch |
+| Allium senescens ssp. montanum | Berg-Lauch |
+| Alyssum pyrenaicum | Pyrenäen-Steinkraut |
+| Androcymbium europaeum | Europäisches Androcymbium |
+| Androcymbium rechingeri | Rechingers Androcymbium |
+| Androsace cylindrica | Walzlicher Mannsschild |
+| Androsace mathildae | Mathildas Mannsschild |
+| Androsace pyrenaica | Europäischer Mannsschild |
+| Angelica palustris | Sumpf-Engelwurz |
+| Apium repens | Kriechender Sellerie |
+| Aquilegia alpina | Alpen-Akelei |
+| Aquilegia bertolonii | Bertolonis Akelei |
+| Aquilegia kitaibelii | Kitaibels Akelei |
+| Arenaria nevadensis | Sierra-Nevada-Sandkraut |
+| Armeria pseudarmeria | Breitblättrige Grasnelke |
+| Artemisia granatensis | Granada-Beifuß |
+| Artemisia laciniata | Schlitzblättriger Beifuß |
+| Aster pyrenaeus | Pyrenäen-Aster |
+| Astragalus centralpinus | Fuchsschwanz-Tragant |
+| Azorina vidalii | Azoren-Strauchglockenblume |
+| Bellevalia hackelii | Hackels Bellevallie |
+| Caldesia parnassifolia | Herzlöffel |
+| Campanula morettiana | Dolomiten-Glockenblume |
+| Caralluma burchardii | Burchards Fliegenblume |
+| Cistus palhinhae |  |
+| Colchicum corsicum | Korsische Herbstzeitlose |
+| Colchicum cousturieri | Cousturiers Herbstzeitlose |
+| Crocus etruscus | Toskanischer Krokus |
+| Cryptogramma crispa | Krauser Rollfarn |
+| Daphne petraea | Felsen-Seidelbast |
+| Daphne rodriguezii | Rodriguez' Seidelbast |
+| Dianthus arenarius | Sand-Nelke |
+| Dianthus rupicola | Felsen-Nelke |
+| Draba cinerea | Aschgraues Felsenblümchen |
+| Dracaena draco | Drachenbaum |
+| Dracocephalum austriacum | Österreichischer Drachenkopf |
+| Dryopteris fragrans | Wohlriechender Wurmfarn |
+| Echium candicans | Weißwerdender Natternkopf |
+| Erica scoparia ssp. azorica | Azoren-Heidekraut |
+| Erigeron frigidus | Gletscher-Berufkraut |
+| Eryngium alpinum | Alpen-Mannstreu |
+| Euphorbia stygiana |  |
+| Fritillaria conica | Kegel-Schachblume |
+| Fritillaria drenovskii | Drenovskis Schachblume |
+| Fritillaria gussichiae | Gussichias Schachblume |
+| Fritillaria obliqua |  |
+| Fritillaria rhodocanakis |  |
+| Gentiana ligustica | Ligurischer Enzian |
+| Gentianella anisodonta | Kelch-Enzian |
+| Gentianella bohemica | Böhmischer Enzian |
+| Gentianella campestris campestris | Feld-Fransenenzian |
+| Gentianella germanica | Deutscher Enzian |
+| Geranium maderense | Madeira-Storchenschnabel |
+| Globularia stygia | Dunkle Kugelblume |
+| Helianthemum caput-felis | Katzenkopf-Sonnenröschen |
+| Helichrysum sibthorpii | Sibthorps Strohblume |
+| Ionopsidium acaule | Stengelloses Scheinveilchen |
+| Iris marisca | März-Schwertlilie |
+| Jankaea heldreichii | Heldreichs Jankaea |
+| Jasminum azoricum | Azoren-Jasmin |
+| Lathyrus palustris | Sumpf-Platterbse |
+| Leucojum nicaeense | Nizza-Knotenblume |
+| Ligularia sibirica | Sibirischer Goldkolben |
+| Luronium natans | Schwimmendes Froschkraut |
+| Mandragora officinarum |  |
+| Marsilea quadrifolia | Vierblättriger Kleefarn |
+| Melanoselinum decipiens |  |
+| Musschia wollastonii | Wollastons Musschia |
+| Myosotis rehsteineri | Bodensee-Vergissmeinnicht |
+| Narcissus asturiensis | Asturische Narzisse |
+| Narcissus calcicola | Kalkliebende Narzisse |
+| Narcissus cyclamineus | Alpenveilchen-Narzisse |
+| Narcissus fernandesii | Fernandes' Narzisse |
+| Narcissus humilis | Niedrige Narzisse |
+| Narcissus longispathus | Langscheidige Narzisse |
+| Narcissus pseudonarcissus subsp. nevadensis | Sierra-Nevada-Narzisse |
+| Narcissus pseudonarcissus subsp. nobilis | Edle Narzisse |
+| Narcissus scaberulus | Rauhe Narzisse |
+| Narcissus triandrus | Engelstränen-Narzisse |
+| Narcissus viridiflorus | Grünblütige Narzisse |
+| Nepeta dirphya | Euböische Katzenminze |
+| Onosma arenaria | Sand-Lotwurz |
+| Origanum dictamnus | Kretischer Dost |
+| Ornithogalum reverchonii | Reverchonis Milchstern |
+| Paeonia camessedesii | Cambessedes' Pfingstrose |
+| Paeonia clusii subsp. rhodia | Rhodos-Pfingstrose |
+| Petrocoptis pseudoviscosa | Esera-Pyrenäennelke |
+| Phoenix theophrasti | Theophrasts Dattelpalme |
+| Physoplexis comosa | Schopfteufelskralle |
+| Primula apennina | Apenninen-Primel |
+| Primula glaucescens | Blaugrüne Primel |
+| Primula nutans | Nickende Primel |
+| Primula palinuri | Palinuro-Primel |
+| Primula scandinavica | Skandinavische Primel |
+| Primula spectabilis | Prächtige Primel |
+| Prunus lusitanica subsp. azorica | Azoren Lorbeerkirsche |
+| Pulsatilla patens | Finger-Küchenschelle |
+| Pulsatilla vulgaris subsp. gotlandica | Gotländische Küchenschelle |
+| Ramonda serbica | Serbische Ramonda |
+| Scilla morrisii | Morris' Blaustern |
+| Saxifraga hirculus | Moor-Steinbrech |
+| Saxifraga tombeanensis | Tombea-Steinbrech |
+| Saxifraga valdensis | Waldenser Steinbrech |
+| Saxifraga vayredana | Vayredas Steinbrech |
+| Senecio jacobaea subsp. gotlandicus | Gotländisches Greiskraut |
+| Soldanella villosa | Zottiges Alpenglöckchen |
+| Tanacetum ptarmiciflorum | Silbergrauer Rainfarn |
+| Thymus camphorates | Kampfer Thymian |
+| Thymus carnosus | Fleischiger Thymian |
+| Thymus cephalotos | Großköpfiger Thymian |
+| Thymus villosus subsp. villosus | Rauhhaariger Thymian |
+| Viola delphinantha | Delphinisches Veilchen |
+| Viola cazorlensis | Cazorla-Veilchen |
+| Viola hispida | Steifhaariges Veilchen |
+| Viola jaubertiana | Jauberts Veilchen |
+| Viola rupestris subsp. relicta | Fennoskandisches Veilchen |
+| Woodwardia radicans | Wurzelnder Kettenfarn |
+| Zelkova abelicea | Kretische Zelkove |

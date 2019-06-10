@@ -1,0 +1,16 @@
+# Gesetz über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union
+
+- [§ 1 Mitwirkung des Bundestages](0001.md)
+- [§ 2 Ausschuss für die Angelegenheiten der Europäischen Union](0002.md)
+- [§ 3 Grundsätze der Unterrichtung](0003.md)
+- [§ 4 Übersendung von Dokumenten und Berichtspflichten](0004.md)
+- [§ 5 Vorhaben der Europäischen Union](0005.md)
+- [§ 6 Förmliche Zuleitung, Berichtsbogen und Umfassende Bewertung, Abschluss von EU-Gesetzgebungsverfahren](0006.md)
+- [§ 7 Gemeinsame Außen- und Sicherheitspolitik und Gemeinsame Sicherheits- und Verteidigungspolitik](0007.md)
+- [§ 8 Stellungnahmen des Bundestages](0008.md)
+- [§ 9 Aufnahme von Verhandlungen über Beitritte und Vertragsänderungen](0009.md)
+- [§ 9a Einführung des Euro in einem Mitgliedstaat](0009a.md)
+- [§ 10 Zugang zu Datenbanken, vertrauliche Behandlung von Dokumenten](0010.md)
+- [§ 11 Verbindungsbüro des Bundestages](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
+- [Anlage (zu § 6 Absatz 2)Berichtsbogen](anlage.md)

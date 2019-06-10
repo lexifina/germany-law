@@ -1,0 +1,15 @@
+# Verordnung zur Regelung der Beschaffung und Vorhaltung von Anlagen in der Netzreserve
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich, Vorrang der Netzreserve, Umgang mit bestehenden Verträgen](0001.md)
+- [§ 2 Zweck der Bildung einer Netzreserve, Systemsicherheit](0002.md)
+- [§ 3 Prüfung und Bestätigung des Bedarfs an Erzeugungskapazität für die Netzreserve](0003.md)
+- [§ 4 Verfahren, Möglichkeit zur Interessenbekundung](0004.md)
+- [§ 5 Verträge mit Betreibern bestehender Anlagen](0005.md)
+- [§ 6 Erstattung von Kosten bestehender Anlagen](0006.md)
+- [§ 7 Art des Einsatzes der Netzreserve](0007.md)
+- [§ 8 Anzeigepflicht und Stilllegungsverbot bei geplanten Stilllegungen](0008.md)
+- [§ 9 Verfahren bei geplanter vorläufiger Stilllegung, Art des Einsatzes, Vergütung](0009.md)
+- [§ 10 Verfahren bei geplanter endgültiger Stilllegung von Anlagen, Art des Einsatzes, Vergütung](0010.md)
+- [§ 11 (weggefallen)](0011.md)
+- [§ 12 (weggefallen)](0012.md)

@@ -1,0 +1,3 @@
+# Regelung Nr. 39 - Einheitliche Vorschriften für die Genehmigung der
+Fahrzeuge hinsichtlich der Geschwindigkeitsmeßeinrichtung (des
+Geschwindigkeitsmeßgeräts) einschließlich ihres (seines) Einbaues

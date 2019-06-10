@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1 Nummer 27 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786) eingefügt worden ist, in Verbindung mit § 62 Absatz 2 Satz 3 und § 85 Absatz 2 Satz 3 des Arbeitsgerichtsgesetzes, die durch Artikel 3 Nummer 6 und 7 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786) eingefügt worden sind, sowie in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium der Justiz und für Verbraucherschutz:

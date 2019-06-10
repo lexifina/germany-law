@@ -1,0 +1,39 @@
+# Anlage 4 (zu § 12 und § 13)
+
+Teil 1
+Inhalt des Betriebstagebuchs nach § 12
+1. Anlage-ID
+2. Angaben zum Standort der Anlage
+  (Geokoordinaten und Adresse des Anlagenstandorts)
+3. Angaben zum Betreiber der Anlage
+  (Name, Adresse, Ansprechpartner)
+4. Art der Anlage
+  a) Verdunstungskühlanlage
+  b) Nassabscheider
+  c) Kühlturm
+5. Datum der erstmaligen Inbetriebnahme
+6. Änderungen an der Anlage mit Angaben zur Art der Änderung, Zeitpunkt des Änderungsbeginns und der Wiederinbetriebnahme
+7. Datum der Stilllegung
+8. Angaben zum Betriebszustand der Anlage mit Datum der Zustandsänderungen,
+  insbesondere Betrieb unter Last, Betrieb ohne Last mit aktiviertem Nutzwasserkreislauf, Betriebsunterbrechung mit gefülltem Nutzwasserkreislauf, Entleerung und Wiederbefüllung des Nutzwasserkreislaufs
+9. Überschreitungen der in Anlage 1 genannten Prüfwerte
+  a) | wurden Überschreitungen im Berichtszeitraum festgestellt? | „Ja/Nein“ |
+  b) | welcher Prüfwert (PW) wurde überschritten? | „PW1/PW2“ |
+  c) | wurden Maßnahmen ergriffen? | „Ja/Nein“ |
+    falls ja, Angaben zu den ergriffenen Maßnahmen
+  d) | welche Legionellenkonzentration wurde nach Abschluss der Maßnahmen nach § 6 Absatz 3 Nummer 2 oder § 8 Absatz 2 Nummer 3 erreicht? | „< PW1/< PW2“ |
+10. Überschreitungen der in Anlage 1 genannten Maßnahmenwerte
+  a) | wurden Überschreitungen im Berichtszeitraum festgestellt? | „Ja/Nein“ |
+  b) Angaben zu den ergriffenen Maßnahmen
+  c) | welche Legionellenkonzentration wurde nach Abschluss der Maßnahmen nach § 9 Absatz 1 und 2 erreicht? | „< PW1/< PW2“ |
+11. Angaben zur Biozidzugabe (Zeitpunkt, Menge und Art des Biozids)
+12. sonstige Nachweise gemäß dieser Verordnung
+13. Überprüfung nach § 14
+  a) Datum der letzten Überprüfung nach Absatz 1
+  b) überprüfende Stelle (Name, Adresse, Ansprechpartner) nach Absatz 2
+Teil 2
+Inhalt der Anzeigen nach § 13
+1. Anzeigen nach § 13 Absatz 1 umfassen die Angaben nach Teil 1 Nummer 2 bis 5
+2. Anzeigen nach § 13 Absatz 2 umfassen die Angaben nach Teil 1 Nummer 2 bis 5
+3. Anzeigen nach § 13 Absatz 3 Nummer 1 umfassen die Angaben nach Teil 1 Nummer 1 bis 6
+4. Anzeigen nach § 13 Absatz 3 Nummer 2 umfassen die Angaben nach Teil 1 Nummer 1 bis 5 und 7

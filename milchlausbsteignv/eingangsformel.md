@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des Berufsbildungsgesetzes, dessen Absatz 3 durch Artikel 232 Nummer 2 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, auch in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung:

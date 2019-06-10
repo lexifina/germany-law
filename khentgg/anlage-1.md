@@ -1,0 +1,169 @@
+# Anlage 1 Aufstellung der Entgelte und Budgetermittlung (AEB) nach § 11 Abs. 4 des Krankenhausentgeltgesetzes (KHEntgG)
+
+E Entgelte nach § 17b KHG
+E1 Aufstellung der Fallpauschalen
+E2 Aufstellung der Zusatzentgelte
+E3 Aufstellung der nach § 6 KHEntgG
+krankenhausindividuell verhandelten Entgelte
+B Budgetermittlung
+B1 Erlösbudget nach § 4 KHEntgG
+E1 Aufstellung der Fallpauschalen für das Krankenhaus *) 1) 2)
+... (Inhalt: Nicht darstellbare Tabelle)
+-----
+*) Musterblatt; EDV-Ausdrucke möglich.
+1) Die Aufstellung ist unter Beachtung der Vorgaben von Fußnote 2 für die
+folgenden Zeiträume jeweils gesondert wie folgt aufzustellen und
+vorzulegen:
+- für das abgelaufene Kalenderjahr die Ist-Daten
+nach dem DRG-Katalog des abgelaufenen Jahres
+(Ziel: u. a. Ermittlung der endgültigen Erlösausgleiche),
+- für das laufende Kalenderjahr die Ist-Daten nach dem DRG-Katalog des
+laufenden Jahres (Ziele: Darstellung der Ist-Daten sowie Ermittlung
+der vorläufigen Erlösausgleiche),
+- für das laufende Kalenderjahr die Ist-Daten nach dem DRG-Katalog für
+den Vereinbarungszeitraum (Ziel: Grundlage für die Vereinbarung von
+Budget und Mehr- oder Minderleistungen),
+- für den Vereinbarungszeitraum die Forderung des Krankenhauses
+nach dem DRG-Katalog für den Vereinbarungszeitraum
+(Ziel: Grundlage für die Budgetvereinbarung).
+Für die Leistungen von Belegabteilungen ist eine gesonderte Aufstellung
+vorzulegen. Für noch ausstehende Ist-Daten des laufenden
+Kalenderjahres ist eine Hochrechnung zulässig.
+2) Für die Vorlage der Ist-Daten des abgelaufenen Kalenderjahres und die
+Vorlage der Ist-Daten des laufenden Kalenderjahres sind alle Spalten
+auszufüllen. Für die Forderung des Vereinbarungszeitraums
+brauchen die markierten Spalten 5-6, 8-10, 12-14 und 16 nicht ausgefüllt
+werden; für diese sind lediglich die jeweiligen Endsummen zu schätzen.
+Für noch ausstehende Ist-Daten des laufenden Kalenderjahres ist eine
+Hochrechnung zulässig.
+3) Aufnahmen und Entlassungen im jeweiligen Kalenderjahr, ohne Überlieger am
+Jahresbeginn.
+4) Die Bewertungsrelationen für Überlieger sind jeweils nach dem im jeweiligen
+Vorjahr geltenden DRG-Katalog vorzulegen, d. h. bei Vorlage für den
+Vereinbarungszeitraum sind für die Überlieger die Bewertungsrelationen
+des DRG-Katalogs des laufenden Jahres anzuwenden.
+-------------------- ------------------
+I Krankenhaus: I I Seite: I
+I I I----------------I
+I I I Datum: I
+-------------------- ------------------
+E2 Aufstellung der Zusatzentgelte für das Krankenhaus *) 1)
+-------------------------------------------------------------------------------
+I I Anzahl I Entgelthöhe I I
+I ZE-Nr. I der ZE I lt. ZE-Katalog I Erlössumme I
+-------------------------------------------------------------------------------
+I 1 I 2 I 3 I 4 I
+-------------------------------------------------------------------------------
+I Jahresfälle: 2) I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I-----------------------------------------------------------------------------I
+I Summe der ZE I I I I
+I bezogen auf die I I I I
+I Jahresfälle I I I I
+-------------------------------------------------------------------------------
+I Summe der ZE I I I I
+I bezogen auf die I I I I
+I Überlieger I I I I
+-------------------------------------------------------------------------------
+I Summe ZE insgesamt I I I
+-------------------------------------------------------------------------------
+*) Musterblatt; EDV-Ausdrucke möglich.
+1) Die Aufstellung ist für die folgenden Zeiträume jeweils gesondert
+wie folgt aufzustellen und vorzulegen:
+- für das abgelaufene Kalenderjahr die Ist-Daten
+nach dem ZE-Katalog des abgelaufenen Jahres
+(Ziel: u. a. Ermittlung der endgültigen Erlösausgleiche),
+- für das laufende Kalenderjahr die hochgerechneten Ist-Daten nach dem
+ZE-Katalog des laufenden Jahres (Ziele: Darstellung der Ist-Daten
+sowie Ermittlung der vorläufigen Erlösausgleiche),
+- für den Vereinbarungszeitraum die Forderung des Krankenhauses
+nach dem ZE-Katalog für den Vereinbarungszeitraum
+(Ziel: Darstellung für die Budgetvereinbarung).
+2) Ohne Überlieger am Jahresbeginn.
+E3 Aufstellung der nach § 6 KHEntgG krankenhausindividuell verhandelten
+Entgelte *) 1) 2)
+E3.1 Aufstellung der fallbezogenen Entgelte 3)
+... (Inhalt: Nicht darstellbare Tabelle)
+-----
+*) Musterblatt; EDV-Ausdrucke möglich.
+1) Die Aufstellung ist unter Beachtung der Vorgaben von Fußnote 2 für die
+folgenden Zeiträume jeweils gesondert wie folgt aufzustellen und
+vorzulegen:
+- für das abgelaufene Kalenderjahr die Ist-Daten
+nach den vereinbarten Entgelten des abgelaufenen Jahres
+(Ziel: u. a. Ermittlung der endgültigen Erlösausgleiche),
+- für das laufende Kalenderjahr die hochgerechneten Ist-Daten nach den
+vereinbarten Entgelten des laufenden Jahres (Ziele: Darstellung der
+Ist-Daten sowie Ermittlung der vorläufigen Erlösausgleiche),
+- für den Vereinbarungszeitraum die Forderung des Krankenhauses
+nach den geforderten Entgelten für den Vereinbarungszeitraum
+(Ziel: Darstellung für die Budgetvereinbarung).
+Für die Leistungen von Belegabteilungen ist eine gesonderte Aufstellung
+vorzulegen.
+2) Für die Vorlage der Ist-Daten des abgelaufenen Kalenderjahres und die
+Vorlage der Ist-Daten des laufenden Kalenderjahres sind grundsätzlich alle
+Spalten auszufüllen. Für die Forderung des Vereinbarungszeitraums
+brauchen die markierten Spalten 9-10, 12-14, 16-18 und 20 nicht ausgefüllt
+werden; für diese sind lediglich die jeweiligen Endsummen zu schätzen.
+3) Jeweils gesonderte Aufstellung und Vorlage für Entgeltvereinbarungen
+nach § 6 Abs. 1 oder § 6 Abs. 2 KHEntgG.
+E3.2 Aufstellung der Zusatzentgelte 4)
+-------------------------------------------------------------
+I Zusatzentgelt I I I I
+I nach I Anzahl I Entgelthöhe I Erlössumme I
+I § 6 KHEntgG I I I (Sp. 2x3) I
+-------------------------------------------------------------
+I 1 I 2 I 3 I 4 I
+-------------------------------------------------------------
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+-------------------------------------------------------------
+I Summe: I I I I
+-------------------------------------------------------------
+-----
+4) Jeweils gesonderte Aufstellung und Vorlage für Entgeltvereinbarungen
+nach § 6 Abs. 1 oder Abs. 2 oder Abs. 2a KHEntGG.
+E3.3 Aufstellung der tagesbezogenen Entgelte
+--------------------------------------------------------------------------
+I Entgelt I I I I I
+I nach I Fallzahl I Tage I Entgelthöhe I Erlössumme I
+I § 6 Abs. 1 KHEntgG I I I I (Sp. 3x4) I
+--------------------------------------------------------------------------
+I 1 I 2 I 3 I 4 I 5 I
+--------------------------------------------------------------------------
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+I I I I I I
+--------------------------------------------------------------------------
+I Summe: I I I I I
+--------------------------------------------------------------------------
+| Krankenhaus: |  | Seite: |
+|  | Datum: |
+B1 Erlösbudget nach § 4 KHEntgG
+| lfd. Nr. | Berechnungsschritte | Vereinbarung für das laufende Kalenderjahr | Vereinbarungs- zeitraum |
+|  | 1 | 2 | 3 |
+|  | Ermittlung des Erlösbudgets |  |  |
+| 1 | Summe der effektiven Bewertungsrelationen |  |  |
+| 2 | x abzurechnender Landesbasisfallwert nach § 10 Abs. 8 Satz 7 |  |  |
+| 3 | = Zwischensumme |  |  |
+| 4 | + Zusatzentgelte nach § 7 Abs. 1 Satz 1 Nr. 2 |  |  |
+| 5 | Erlösbudget |  |  |

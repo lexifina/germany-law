@@ -1,0 +1,23 @@
+# Anlage 2 (zu § 3 Absatz 1)Qualitätskriterien für die Fahrschulausbildung
+
+I) Qualitätskriterien für den Theoretischen Unterricht
+  1. Strukturierung der Unterrichtseinheit,
+  2. Motivierung der Fahrschüler und Praxisbezug,
+  3. fachliche Vermittlung der Lehr-Lerninhalte,
+  4. Binnendifferenzierung,
+  5. angemessenes Reagieren auf Beiträge der Fahrschüler,
+  6. Tempo der Vermittlung der Lehr-Lerninhalte,
+  7. Festigung,
+  8. Visualisierung der Lehr-Lerninhalte durch Medien,
+  9. Qualität der Lehrvorträge,
+  10. Organisation von Erfahrungsberichten,
+  11. Organisation von Diskussionen und
+  12. Durchführung von Lernkontrollen.
+II) Qualitätskriterien für den Praktischen Unterricht
+  1. Strukturierung der Übungsstunde,
+  2. Orientierung am Ausbildungsstand des Fahrschülers,
+  3. Qualität des Methodeneinsatzes,
+  4. Qualität verbaler Anweisungen,
+  5. fachliche Korrektheit der Lehr-Lerninhalte und Orientierung am Ausbildungsplan des Fahrlehrers,
+  6. Schaffung einer guten Ausbildungsatmosphäre und
+  7. angemessenes Reagieren auf Fahrfehler.

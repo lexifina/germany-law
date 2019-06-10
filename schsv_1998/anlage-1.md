@@ -1,0 +1,180 @@
+# Anlage 1 (zu § 5) Besondere Regelungen bei internationalem schiffsbezogenen Sicherheitsstandard
+
+A. Zu den Rechtsakten der Europäischen Union in ihrer jeweils geltenden Fassung
+  A.I. Zur Richtlinie 96/98/EG des Rates über Schiffsausrüstung
+  1. Zuständige Stellen
+    Zuständige Stellen für die Durchführung der Aufgaben nach Artikel 10 der Richtlinie sind die in § 3 der Schiffsausrüstungsverordnung bestimmten Stellen.
+  2. Ausstattung eines neuen Schiffes im Sinne des Artikels 2 Buchstabe l oder eines vorhandenen Schiffes im Sinne des Artikels 3 Abs. 1 Buchstabe b der Richtlinie
+  2.1 Die im Anhang A 1 der Richtlinie aufgeführte Ausrüstung darf bei sachgemäßer Aufstellung (Einbau), Instandhaltung und bestimmungsgemäßer Verwendung die Sicherheit und Gesundheit von Personen nicht gefährden und die Meeresumwelt nicht beeinträchtigen.
+  2.2 Sie darf zur Ausstattung eines Schiffes nur verwendet werden, wenn sie
+    a) mit der Konformitätskennzeichnung nach Artikel 11 der Richtlinie versehen ist und ihr eine schriftliche EG-Konformitätserklärung nach Artikel 10 der Richtlinie beigefügt ist, wodurch der Hersteller oder sein in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassener Bevollmächtigter bestätigt, daß die Ausrüstung den Sicherheitsanforderungen der Nummer 2.1 sowie des Artikels 5 der Richtlinie entspricht und die vorgeschriebenen Konformitätsbewertungsverfahren eingehalten sind, oder
+    b) den Bestimmungen der Richtlinie aus anderen Gründen genügt.
+  3. Prüfnormen
+    Für alle Gegenstände der Ausrüstung, für die in Anhang A.1 der Richtlinie sowohl IEC- als auch ETSI-Prüfnormen aufgeführt sind, gelten diese wahlweise. Der Hersteller oder sein in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassener Bevollmächtigter kann bestimmen, welche Prüfnormen angewandt werden sollen.
+  4. Funkfrequenzspektrum
+    In den Fällen des Artikels 8 Abs. 4, Artikels 14 Abs. 1 Satz 2 und Artikels 15 Abs. 2 der Richtlinie bildet das Verlangen der Verwaltung, daß sich die Ausrüstung in bezug auf die Anforderungen betreffend das Funkfrequenzspektrum nicht nachteilig auswirkt, einen Teil des Genehmigungsverfahrens.
+  5. Ausstattung außerhalb der Gemeinschaft
+    Wenn für ein Schiff Ausrüstung in einem Hafen außerhalb eines Mitgliedstaates der Europäischen Union ersetzt werden soll, ohne daß es aus Zeit- und Kostengründen mit Ausrüstung der EG-Baumusterprüfung ausgestattet werden kann, sind die Voraussetzungen und das Verfahren des Artikels 16 der Richtlinie anzuwenden.
+  6. Instandsetzungen
+  6.1 Nach wesentlichen Instandsetzungsarbeiten, die eine nach der Richtlinie vorgeschriebene Ausrüstung betreffen, ist
+    a) die Überprüfung durch einen von der zuständigen Stelle anerkannten Betrieb,
+    b) bei Funkausrüstung eine außerordentliche Nachprüfung
+    zu veranlassen. Ausnahmen sind bei wichtigem Grund nach Maßgabe des § 7 Abs. 1 zulässig.
+  6.2 In den Fällen der Nummer 6.1 Buchstabe a erteilt der Betrieb eine Prüfmarke im Sinne der Kennzeichnung nach § 8 Abs. 2 oder für Positionslaternen, Schallsignal- und Manövriersignalanlagen eine Bescheinigung, die an Bord mitzuführen ist.
+  7. Übergangsregelung
+    Im Anhang A.1 der Richtlinie aufgeführte Ausrüstung, die vor dem 1. Januar 1999 nach den in der Schiffssicherheitsverordnung und der Telekommunikationszulassungsverordnung geregelten Verfahren der Baumusterzulassung hergestellt wurde, darf innerhalb von zwei Jahren nach diesem Zeitpunkt in Verkehr gebracht oder zur Ausstattung eines Schiffes verwendet werden.
+  8. Vorrangregelung
+    Der in Artikel 3 Abs. 3 der Richtlinie vorgesehene Vorrang gilt entsprechend für die Vorschriften über Schiffsausrüstung im Rahmen dieser Verordnung.
+  A.II. Zur Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe
+  1. Wattfahrt
+  1.1 Fahrgastschiffe in der Wattfahrt, die der Richtlinie 2009/45/EG unterliegen und deren Einsatz innerhalb der Klasse D auf Fahrten in diesem Gebiet beschränkt ist, dürfen wegen der besonderen Bedingungen ihres Fahrtgebietes die Anforderungen der Vorschriften mit gleichwertigem Ersatz erfüllen.
+  1.2 Als gleichwertiger Ersatz gelten alle Einrichtungen, Werkstoffe, Vorrichtungen oder Geräte oder sonstige Vorkehrungen, wenn durch Erprobungen oder auf andere Weise anerkannt wurde, dass die betreffenden Einrichtungen, Werkstoffe, Vorrichtungen oder Geräte oder der betreffende Typ oder die betreffende Vorkehrung mindestens ebenso wirksam wie die in diesen Vorschriften vorgeschriebenen sind.
+  1.3 Unbeschadet der Nummern 1.1 und 1.2 müssen neue Fahrgastschiffe in der Wattfahrt die Bestimmungen des Anhangs zu dieser Anlage erfüllen.
+  2. Karten der Seegebiete
+    Das Bundesamt für Seeschifffahrt und Hydrographie stellt die Seegebiete für Inlandfahrten im Sinne des Artikels 2 Buchstabe p und des Artikels 4 der Richtlinie, in denen Fahrgastschiffe der Klassen B, C und D von Deutschland aus eingesetzt werden dürfen, jeweils kartographisch und in Koordinatenform dar und veröffentlicht diese Darstellungen im Internet. Es macht die Internet-Adresse in den Nachrichten für Seefahrer und dem Verkehrsblatt bekannt.
+  3. Lecksicherheit im Helgolandverkehr
+    Die im Verkehr nach und von der Insel Helgoland eingesetzten Fahrgastschiffe müssen - vorbehaltlich des Verfahrens nach Artikel 9 der Richtlinie - einen Unterteilungsfaktor F <- 0,5 aufweisen.
+  A.III. Zur Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe
+    Liste der Seegebiete
+    Das Bundesamt für Seeschifffahrt und Hydrographie erstellt im Sinne des Artikels 5 der Richtlinie eine Liste der Seegebiete, die von Ro-Ro-Fahrgastschiffen im Linienverkehr von oder nach ihren Häfen durchfahren werden, und der entsprechenden Werte für die signifikanten Wellenhöhen in diesen Gebieten.
+    Es veröffentlicht die Liste auf ihrer Internetseite und macht die Fundstelle in den Nachrichten für Seefahrer und im Verkehrsblatt bekannt.
+  A.III.a. Zur Richtlinie 98/41/EG des Rates über die Registrierung der an Bord bestimmter Schiffe befindlichen Personen
+  1. Zuständige Stellen
+  1.1 Die Deutsche Gesellschaft zur Rettung Schiffbrüchiger ist mit Ausnahme von Fällen einer komplexen Schadenslage im Sinne von § 1 Abs. 4 der Bund/Küstenländer-Vereinbarung über die Errichtung des Havariekommandos (VkBl. 2003 S. 31) zuständige Stelle im Sinne des Artikels 2, die für Such- und Rettungsmaßnahmen verantwortlich ist oder mit der Abwicklung nach einem Unfall befasst wird. In Fällen einer komplexen Schadenslage ist zuständige Stelle im Sinne des Artikels 2 das Havariekommando.
+  1.2 Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation ist zuständig für
+    a) die Erteilung von Ausnahmen und Befreiungen im Sinne des Artikels 6 Abs. 3 und des Artikels 9 Abs. 1 und 2,
+    b) die Genehmigung der gemäß Artikel 8 eingerichteten Registrierungssysteme sowie
+    c) die Durchführung von Stichproben im Sinne des Artikels 10 Satz 2 der Richtlinie.
+  2. Karten der Seegebiete
+    Abschnitt A.II. Nr. 1 ist auf Seegebiete im Sinne des Artikels 9 Abs. 4 der Richtlinie für Fahrten, die einen deutschen Hafen betreffen, entsprechend anzuwenden.
+  A.IV. Zur Richtlinie 2002/59/EG des Europäischen Parlaments und des Rates über die Einrichtung eines gemeinschaftlichen Überwachungs- und Informationssystems für den Schiffsverkehr
+  1.1 Fahrgastschiffe der Fahrgastschiffsklasse D im Sinne des Artikels 4 Abs. 1 der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (ABl. L 161 vom 25.6.2009, S. 1) sind von der Ausrüstungspflicht mit Schiffsdatenschreibern im Sinne des Artikels 10 Abs. 1 in Verbindung mit Anhang II Abschnitt II der Richtlinie ausgenommen; es sei denn, in einer Richtlinie nach § 6 Abs. 1 wird etwas anderes bestimmt.
+  1.2 Nummer 1.1 gilt für Fahrgastschiffe der Fahrgastschiffsklassen B und C, sofern diese mit Datenaufzeichnungsgeräten ausgerüstet sind, die mindestens die amtlich bekannt gemachten Leistungsanforderungen für Datenaufzeichnungsgeräte in der Inlandfahrt vom 9. April 2003 (VkBl. 2003 S. 567) erfüllen, entsprechend.
+B. Ergänzende Anforderungen zu § 6 des Schiffssicherheitsgesetzes
+  B.I. Amtliche Vermessung
+  1. Mitwirkung des Eigentümers
+  1.1 Der Eigentümer des Schiffes hat den mit der Vermessung beauftragten Personen die Durchführung ihres Auftrages zu ermöglichen, die benötigten Hilfsmittel bereitzustellen, die benötigten Unterlagen vorzulegen und Auskünfte zu erteilen. Das Schiff ist, soweit für die Vermessung erforderlich, in leerem, von Ballast und Ladung freien Zustand, nötigenfalls auf Land oder im Dock, bereitzustellen. Schiffsbehälter und Laderäume müssen leer, gereinigt und gasfrei sein. Auf Verlangen ist eine amtliche Bescheinigung über die Gasfreiheit vorzulegen.
+  1.2 Der Eigentümer ist verpflichtet, dem Bundesamt für Seeschiffahrt und Hydrographie zu einem Schiff, für das ein Meßbrief oder eine Meßbescheinigung ausgestellt worden ist, unverzüglich
+    a) jede Veränderung der Abmessungen, des Fassungsvermögens oder der Nutzung einzelner vermessener Räume, der zugelassenen Anzahl der Fahrgäste, des erteilten Freibords oder des zugelassenen Tiefgangs sowie
+    b) einen Wechsel der Flagge
+    anzuzeigen.
+  2. Erneuerung von Schiffsmeßbriefen
+    Hat das Bundesamt für Seeschiffahrt und Hydrographie vor Erteilung einer Genehmigung nach § 7 des Flaggenrechtsgesetzes einen Schiffsmeßbrief ausgestellt, so ist dieser innerhalb von drei Monaten, nachdem das Recht zur Führung der Bundesflagge wieder ausgeübt werden darf, zu erneuern, sofern er nicht durch eine wesentliche Veränderung im Sinne der Nummer 1.2 ungültig geworden ist.
+  3. Liegeplatz im Ausland
+    Hält sich das Schiff im Ausland auf, so zieht das Bundesamt für Seeschiffahrt und Hydrographie eine andere geeignete Stelle im Ausland hinzu oder bedient sich der Hilfe des Germanischen Lloyds, wenn dies zur Kostenersparnis vertretbar ist.
+  B.II. Tagebücher
+  1. Seetagebücher
+  1.1 Seetagebücher sind das Schiffstagebuch und das Maschinentagebuch, bei Binnenschiffen wahlweise das Bordbuch und das Fahrtenbuch.
+  1.2 Als Nebenbücher können geführt werden
+    a) als Bestandteil des Schiffstagebuchs das Brückenbuch,
+    b) als Bestandteil des Maschinentagebuchs das Peilbuch und das Manöverbuch.
+  1.3 Die Seetagebücher sind an Bord mitzuführen. Eine Eintragungspflicht wird, wenn nicht ausdrücklich etwas anderes bestimmt ist, durch Eintragung in das Schiffstagebuch erfüllt.
+  2. Maschinentagebuch
+  2.1 Für die Führung des Maschinentagebuchs ist neben dem Schiffsführer der Leiter der Maschinenanlage verantwortlich. Die Genannten können diese Aufgabe auf den wachhabenden nautischen oder technischen Offizier oder auf ein anderes geeignetes Besatzungsmitglied übertragen.
+  2.2 Dem Maschinentagebuch ist eine Beschreibung der Maschinenanlage beizufügen. Sie ist nach jedem Umbau der Maschinenanlage, der Dampfkesselanlage oder wesentlicher Anlageteile zu berichtigen.
+  2.3 Ein Maschinentagebuch braucht nicht geführt zu werden, wenn die Maschinenanlage des Schiffes nicht mit einem technischen Schiffsoffizier, der in dieser Eigenschaft angemustert worden ist, besetzt ist und keine Dampfkesselanlage im Sinne der Richtlinie für den Bau und die Ausrüstung von Schiffsdampfkesselanlagen unter deutscher Flagge vom 13. März 2002 (VkBl. 2002 S. 313, Anlagenband B 8129), in der jeweils geltenden Fassung, betrieben wird.
+  3. Form der Bücher
+  3.1 Seetagebücher sind auf ein Schiff auszustellen, dessen Name und Unterscheidungssignal in dem Buch bezeichnet werden.
+  3.2 Das Schiffstagebuch und das Maschinentagebuch müssen für jeden Kalendertag in Spalten eingeteilte, mit fortlaufenden Seitenzahlen versehene Seiten und in ausreichender Anzahl Leerseiten enthalten. Die Spalten sollen mit einer Überschrift auch in englischer Sprache versehen sein.
+  3.3 Maßnahmen und Tatsachen, die im Schiffsbetrieb, insbesondere bei Revierfahrten, häufig wiederkehren, können in Nebenbücher eingetragen werden. Im Schiffstagebuch und im Maschinentagebuch ist auf der ersten Seite einzutragen, welche Nebenbücher geführt werden.
+  3.4 In Seetagebücher einzutragende Tatbestände können ganz oder teilweise mit anderen Datenträgern erfaßt werden. Die Datenträger bedürfen bei vorgeschriebenen Seetagebüchern zur Sicherstellung der Gleichwertigkeit mit Seetagebüchern der Zulassung durch das Bundesministerium für Verkehr und digitale Infrastruktur oder durch die von ihm bestimmte Stelle. Sie müssen die aufgezeichneten Daten, die für sich allein verständlich sein müssen, jederzeit lesbar wiedergeben können und ein nachträgliches Verändern oder Löschen der Aufzeichnungen erkennbar machen.
+  4. Eintragungen
+  4.1 Die Seetagebücher sind in deutsche Sprache oder in der an Bord verwendeten Arbeitssprache zu führen. Nicht allgemein gebräuchliche Abkürzungen oder Symbole sind zu erklären.
+  4.2 Die Eintragungen in die Seetagebücher sind nach der Bordzeit vorzunehmen.
+  4.3 Das Radieren und Unkenntlichmachen von Eintragungen in Seetagebüchern, das Entfernen von Seiten aus diesen Büchern sowie die Veränderung automatischer Aufzeichnungen sind nicht zulässig. Wird eine Eintragung gestrichen, muß das Gestrichene lesbar bleiben. Streichungen oder Zusätze sind mit Datum und Unterschrift zu bescheinigen.
+  4.4 Eintragungen in die Seetagebücher sind von den für die Eintragung Verantwortlichen zu unterschreiben. Eintragungen von Dritten auf Grund besonderer Rechtsvorschriften sind von diesen unter Angabe ihrer Befugnis zu unterschreiben.
+  5. Auswertung der Tagebücher
+    Der Schiffseigentümer hat durch Aufzeichnung nachzuweisen, daß und wann er in regelmäßigen Abständen, - hinsichtlich der Eintragungen, die keine frühzeitigen Maßnahmen erforderlich machen, sofern nicht anders bestimmt mindestens alle zwölf Monate -, den vollständigen aktuellen Inhalt der Tagebücher zur Kenntnis genommen hat.
+  6. Aufbewahrung
+    Seetagebücher sind, soweit nicht anders bestimmt, ab dem Tag der letzten Eintragung für die Dauer von drei Jahren aufzubewahren. Dies gilt auch bei einem Verkauf des Schiffes vor Ablauf dieser Frist.
+  7. Veröffentlichung der eintragungspflichtigen Vorgänge
+    Das Bundesministerium für Verkehr und digitale Infrastruktur oder in seinem Auftrag die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation veröffentlicht im Verkehrsblatt eine Liste der Einzelvorgänge, die nach den internationalen Regelungen oder sonstigen Rechtsvorschriften ausdrücklich im Seetagebuch eingetragen werden müssen.
+  8. Sondervorschriften für nicht eintragungspflichtige Schiffe
+    Auch auf Schiffen unter der Bundesflagge, die nicht im Schiffsregister eingetragen werden müssen, gelten für die Anwendung des § 6 Abs. 3 des Schiffssicherheitsgesetzes die Regeln guter Seemannschaft. Von den vorstehenden Bestimmungen dieses Abschnitts gelten nur die Nummern 3.1, 3.3 Satz 1 und Nummern 4 bis 6, und zwar mit folgenden Maßgaben:
+  8.1 Ein auf den Namen des Schiffes ausgestellter Aufzeichnungsträger gilt als Schiffstagebuch, wenn der Schiffsführer ihn mit dem Wort "Logbuch-Aufzeichnungen" oder einer entsprechenden Benennung gekennzeichnet hat.
+  8.2 Vorbehaltlich anderer besonderer Vorschriften genügt es, wenn Dritte den erforderlichen Inhalt zusammenhängend ohne weiteres dem an Bord mitgeführten Schiffstagebuch entnehmen können.
+C. Vorschriften neben den allgemein anerkannten völkerrechtlichen Regeln und Normen für Schiffe unter der Bundesflagge
+  C.I. SOLAS
+  C.I.1. (Vgl. Kapitel II-1, II-2 und III der Anlage zu SOLAS)
+    Schiffe mit frühem Baujahr
+  1. Soweit nicht das SOLAS-Übereinkommen oder das Stockholm-Übereinkommen von 1996 (BGBl. 1997 II S. 540) oder diese Verordnung ausdrücklich Regelungen für den Umbau vorhandener Schiffe vorsehen, brauchen Schiffe, deren Kiel vor dem Inkrafttreten der 1981 beschlossenen Änderungen des Internationalen Übereinkommens von 1974 (1. September 1984) gelegt worden ist oder die sich in einem entsprechenden Bauzustand befunden haben, nicht den Anforderungen der Kapitel II-1, II-2 und III der Anlage zum SOLAS-Übereinkommen zu entsprechen, wenn dies einen Umbau erfordern würde.
+  2. In diesem Fall müssen
+    a) Schiffe, deren Kiel in der Zeit vom 25. Mai 1980 bis zum 31. August 1984 gelegt worden ist oder die sich in einem entsprechenden Bauzustand befunden haben, den Anforderungen entsprechen, die sich aus dem SOLAS-Übereinkommen sowie aus der Schiffssicherheitsverordnung in der Fassung der Bekanntmachung vom 15. August 1984 (BGBl. I S. 1089) ergeben;
+    b) Schiffe, deren Kiel vor dem 25. Mai 1980 gelegt worden ist oder die sich in einem entsprechenden Bauzustand befunden haben, den Anforderungen entsprechen, die sich aus dem Internationalen Übereinkommen von 1960 zum Schutz des menschlichen Lebens auf See - Anlage A zum Gesetz vom 6. Mai 1965 (BGBl. 1965 II S. 465), zuletzt geändert durch die Verordnung vom 12. Juli 1974 (BGBl. 1974 II S. 1009), - sowie aus der Schiffssicherheitsverordnung vom 9. Oktober 1972 (BGBl. I S. 1933), zuletzt geändert durch die Verordnung vom 8. November 1979 (BGBl. I S. 1912), ergeben.
+  C.I.2. (Vgl. Kapitel II-2 der Anlage zu SOLAS sowie den Internationalen Code für Brand-Sicherheitssysteme (FSS-Code))
+    Brandschutzausrüstung (vgl. Regel II-2/10.10.1)
+    Jede persönliche Ausrüstung ist durch ein Brecheisen zu ergänzen. Für Notfälle ist sicherzustellen, dass mindestens eine tragbare elektrische Bohrmaschine (Mindestbohrdurchmesser in Stahl 10 Millimeter) oder eine Winkelschleifmaschine (Trennscheibe) vorhanden ist. Das Anschlusskabel einer Bohrmaschine oder Winkelschleifmaschine muss mindestens 10 Meter lang sein.
+  C.I.3. (Vgl. Kapitel III, IV und V der Anlage zu SOLAS: Schiffsausrüstung)
+  1. (weggefallen)
+  1.1 (weggefallen)
+  1.2 (weggefallen)
+  1.3 (weggefallen)
+  2. Antragsprinzip
+    Für Zulassungen, Genehmigungen, Prüfungen und Regulierungen ist ein Antrag erforderlich.
+  3. Rettungsmittel
+  3.1 (Regel III/32.3.2) Frachtschiffe, die mit offenen Rettungsbooten ausgerüstet sind oder eine Ausrüstung nach Regel III/31.1.3 mitführen, müssen mindestens einen Überlebensanzug für jede an Bord befindliche Person mitführen. Frachtschiffe, die mit vollständig geschlossenen Rettungsbooten ausgerüstet sind, müssen für jedes an Bord befindliche Rettungsboot mindestens drei Überlebensanzüge mitführen.
+  3.2 (Regel III/32.3.3) Frachtschiffe, die mit Rettungsflößen und Bereitschaftsbooten nach Regel III/31.1.3 ausgerüstet sind, müssen mindestens einen Überlebensanzug für jede an Bord befindliche Person mitführen. Dies gilt nicht für Frachtschiffe, die ständig in einem warmen Klima eingesetzt sind, in dem nach Auffassung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation Überlebensanzüge unnötig sind.
+  4. Alarmanlagen
+  4.1 (Regel III/6.4.2 in Verbindung mit Absatz 7.2.1 des LSA-Codes) Zusätzlich zu dem Signal zum Sammeln bei den Sammelplätzen muß mit dem Generalalarmsystem das Signal zum Verlassen des Schiffes, bestehend aus einem fortlaufend gegebenen kurzen und langen Ton, gegeben werden können.
+  4.2 Schiffe, deren Kiel nach dem 1. Januar 1988 gelegt worden ist, müssen mit einer fest eingebauten Wachalarmanlage ausgerüstet sein.
+  5. Schiffsdatenschreiber
+  5.1 (Regel V/18.8) Auf Schiffen eingebaute ausrüstungspflichtige und zulassungspflichtige Schiffsdatenschreiber-Systeme sind einschließlich sämtlicher Sensoren einer jährlichen Leistungsprüfung zu unterziehen. Die Prüfung ist von einer vom Bundesamt für Seeschifffahrt und Hydrographie anerkannten Prüf- oder Kundendiensteinrichtung durchführen zu lassen.
+  5.2 Das Bundesamt für Seeschifffahrt und Hydrographie kann auf Antrag Prüfungen durch nicht zugelassene Stellen im Ausland anerkennen. Dem Antrag sind die von der Prüfstelle angefertigten Protokolle und Prüfbescheinigungen oder -zeugnisse beizufügen.
+  C.I.4. Zu Kapitel V der Anlage zu SOLAS
+  1. Einzelheiten der Einhaltung für Schiffe mit einer Bruttoraumzahl unter 150 BRZ
+  1.1 Für Schiffe - ausgenommen Sportboote - mit einer Bruttoraumzahl unter 150 gelten die Regeln V/15, 17, 18, 20 bis 26 der Anlage zum SOLAS-Übereinkommen in der jeweils gültigen Fassung, es sei denn, dass deren Anwendung in einer Richtlinie nach § 6 Abs. 1 dieser Verordnung oder in einem der in Abschnitt D der Anlage zum Schiffssicherheitsgesetz aufgeführten Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union ausgeschlossen oder beschränkt wird. Regel V/19 gilt uneingeschränkt.
+  1.2 Für Sportboote mit einer Bruttoraumzahl unter 150 gilt:
+    Auf große Sportboote im Sinne des § 2 Nr. 2 der See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457) ist Regel V/18 nur anzuwenden, soweit ihre Anwendung in dieser Verordnung oder in einem der in Abschnitt D der Anlage zum Schiffssicherheitsgesetz aufgeführten Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union vorgesehen ist.
+    Für kleine Sportboote im Sinne des § 2 Nr. 3 der See-Sportbootverordnung gilt dies für die Anwendung der Regeln V/17, 18 und 19.
+  2. Anforderungen an die Navigationsausrüstung von Sportbooten
+    Auf großen Sportbooten im Sinne des § 2 Nr. 2 der See-Sportbootverordnung vom 29. August 2002 (BGBl. I S. 3457) mit einer Bruttoraumzahl unter 150, die ausschließlich nicht gewerbsmäßig für Sport- und Freizeitzwecke genutzt werden, ist für die mitgeführte Navigationsausrüstung nach den Nummern 2.1.1, 2.1.4, 2.1.5 und 2.1.7 der Regel V/19 der Anlage zum SOLAS-Übereinkommen die Regel V/18 anzuwenden. Die Navigationsausrüstung nach Nummer 2.1.1 muss mindestens den Anforderungen an einen ordnungsgemäß kompensierten Kompass genügen, der nach dem Internationalen Rettungsmittel-(LSA)-Code (BAnz. Nr. 118a vom 1. Juli 1998) für Rettungs- und Bereitschaftsboote geeignet ist. Ist ein Sportboot mit einem Gerät des weltweiten Automatischen Schiffsidentifizierungssystems (AIS) ausgerüstet, obwohl es nicht der Ausrüstungspflicht nach Regel V/19 Abs. 2.4 der Anlage zum SOLAS-Übereinkommen unterliegt, muss das Gerät auf der Grundlage eines Konformitätsbewertungsverfahrens nach Maßgabe der Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe (ABl. L 161 vom 25.6.2009, S. 1) zugelassen sein oder über eine Zulassung des Bundesamtes für Seeschifffahrt und Hydrographie verfügen. Entsprechende Zulassungsvoraussetzungen werden vom Bundesamt für Seeschifffahrt und Hydrographie erlassen und im Verkehrsblatt bekannt gemacht.
+  3. Amtliche nautische Veröffentlichungen
+    (Regel 2 Abs. 2, Regel 19 Abs. 2.1.4, Regel 27)
+    Bei Schiffen, die nicht Sportboote im Sinne der Sportbootführerscheinverordnung-See sind, müssen hinsichtlich der Seekarten, Seebücher und anderen nautischen Veröffentlichungen jeweils die neuesten amtlichen Ausgaben des Bundesamtes für Seeschifffahrt und Hydrographie in digitaler oder gedruckter Form oder eine entsprechende Ausgabe eines hydrographischen Dienstes eines anderen Staates oder der Internationalen Seeschifffahrts-Organisation mitgeführt werden. Neueste Ausgaben der amtlichen Seekarten des Bundesamtes für Seeschifffahrt und Hydrographie sind die in dem in den Nachrichten für Seefahrer veröffentlichten Verzeichnis des Bundesamtes für Seeschifffahrt und Hydrographie aufgeführten digitalen und gedruckten Seekarten, für die in den Nachrichten für Seefahrer Berichtigungen veröffentlicht werden oder ein amtlicher digitaler Berichtigungsdienst besteht und die in dem Zeitpunkt, in dem sie in Verkehr gebracht werden, mittels eines Aufdrucks oder einer elektronischen Signatur als auf den neuesten Stand berichtigt ausgewiesen sind. Amtliche Seebücher des Bundesamtes für Seeschifffahrt und Hydrographie sind die in dem Verzeichnis des Bundesamtes für Seeschifffahrt und Hydrographie aufgeführten gedruckten und digitalen Bücher, für die in den Nachrichten für Seefahrer Berichtigungen veröffentlicht werden oder ein amtlicher digitaler Berichtigungsdienst besteht, wie Seehandbücher, Leuchtfeuerverzeichnisse, das Handbuch Nautischer Funkdienst, die Revierfunkdienste, Nautisches Jahrbuch, Gezeitentafeln, das Handbuch für Brücke und Kartenhaus, die IMO-Standardredewendungen, das International Aeronautical and Maritime Search and Rescue Manual (IAMSAR-Manual), Volume III, der Vessel Traffic Services Guide, das Handbuch Seeschifffahrtsstraßen-Ordnung und ferner sonstige vom Bundesministerium für Verkehr und digitale Infrastruktur als solche bestimmte Bücher.
+  C.I.5. Zu Kapitel VI der Anlage zu SOLAS
+    Güter in Containern, Landfahrzeugen und Ladungseinheiten dürfen zur Beförderung auf Seeschiffen im Geltungsbereich dieser Verordnung nur übergeben werden, wenn den Beförderungspapieren eine Ladungsbescheinigung beigefügt ist, in der neben den richtigen und vollständigen Angaben über Art, Gewicht und Eigenschaften der Ladung gemäß Regel 2 bescheinigt wird, daß die Ladung entsprechend den IMO/ILO/UN ECE-Richtlinie für das Packen von Beförderungseinheiten "(CTUs) (CTU-Packrichtlinien) (VkBl. 1999 S. 164 und Anlagenband B 8087) gepackt und gesichert ist, und wenn die Ladungsbescheinigung dem Schiffsführer vor dem Auslaufen übergeben worden ist.
+  C.I.6. (Zu Kapitel IX der Anlage zu SOLAS)
+  1. Internationale Richtlinien für die Verwaltung
+    Die Verwaltung legt bei ihrer Tätigkeit im Sinne des Kapitels IX die durch Entschl. A.1071(28) der IMO beschlossenen Richtlinien (VkBl. 2014 S. 468) zugrunde.
+  2. Durchführung der Prüfungen (Audits)
+  2.1 Der Antragsteller kann eine Organisation, die nach der in Abschnitt D Nr. 7 der Anlage zum Schiffssicherheitsgesetz genannten Richtlinie 2009/15/EG in Verbindung mit Verordnung (EG) Nr. 391/2009 anerkannt ist, mit der Durchführung der vorgeschriebenen Prüfungen beauftragen, wenn zwischen ihr und der Verwaltung ein Auftragsverhältnis geregelt ist. Die Organisation führt diese Prüfung nach Unterrichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation eigenständig und in eigener Verantwortung durch.
+  2.2 Die Prüfungen für die in Kapitel IX Regel 2.1 der Anlage zum SOLAS-Übereinkommen und Artikel 3 der Verordnung (EG) Nr. 336/2006 des Rates vom 15. Februar 2006 über Maßnahmen zur Organisation eines sicheren Schiffsbetriebs innerhalb der Gemeinschaft und zur Aufhebung der Verordnung (EG) Nr. 3051/95 des Rates (ABl. EU Nr. L 64 S. 1) genannten Schiffe sowie der dazugehörigen Unternehmen werden in Absprache mit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, die sich an ihnen beteiligen kann, durchgeführt.
+  3. Auftragsverhältnis mit der Berufsgenossenschaft für Transport und Verkehrswirtschaft
+  3.1 Auf das Auftragsverhältnis sind die Vorschriften der in Nummer 2.1 genannten Richtlinie und des Teils B der Anlage 2 über Auftragsverhältnisse bei der Schiffsbesichtigung entsprechend anzuwenden.
+  3.2 Um das Auftragsverhältnis mit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation zu regeln, muß die anerkannte Organisation auch folgende Sicherheitsvoraussetzungen erfüllen:
+    a) Sie entspricht den Richtlinien der Entschl. A.913(22) der IMO in der jeweils geltenden Fassung.
+    b) Sie unterhält im Gebiet der Bundesrepublik Deutschland eine örtliche Vertretung.
+  4. Besondere Anforderungen an Unternehmen, die Ro-Ro-Fahrgastschiffe oder Fahrgast-Hochgeschwindigkeitsfahrzeuge betreiben
+    Die Anforderungen nach Kapitel IX der Anlage zu SOLAS umfassen auch die Anforderungen, denen die Unternehmen im Anwendungsbereich der Richtlinie 1999/35/EG des Rates vom 29. April 1999 über ein System verbindlicher Überprüfungen im Hinblick auf den sicheren Betrieb von Ro-Ro-Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen im Linienverkehr im Rahmen der Überprüfungen und Besichtigungen seitens des Aufnahmestaats auf Grund dieser Richtlinie zu genügen haben.
+  C.I.7. (Zu Kapitel XI-1 der Anlage zu SOLAS)
+    Schiffsidentifikationsnummer
+    (Regel XI-1.3) Das Schiff erhält die Schiffsidentifikationsnummer im Zusammenhang mit der vom Bundesamt für Seeschiffahrt und Hydrographie vorgenommenen Erteilung der Vermessungsbescheinigungen.
+  C.II. Internationales Freibord-Übereinkommen von 1966
+    Schiffe mit frühem Baujahr
+    Vorhandene Schiffe im Sinne des Artikels 2 Nr. 7 des Internationalen Freibordübereinkommens von 1966 (BGBl. 1969 II S. 249; 1977 II S. 164; 1994 II S. 2457 sowie Anlageband zum BGBl. Teil II Nr. 44 vom 27. September 1994, S. 2) müssen, wenn sie die Anforderungen für neue Schiffe nicht voll erfüllen, den entsprechenden geringeren Anforderungen für neue Schiffe in der Auslandsfahrt nach Anhang I der Verordnung über den Freibord der Kauffahrteischiffe in der im Bundesgesetzblatt Teil III, Gliederungsnummer 9512-1, veröffentlichten bereinigten Fassung genügen. Bei größeren Umbauten, Instandsetzungen, Erneuerungen und Ergänzungen sind die Regeln der Anlage I des Übereinkommens von 1966 für das ganze Schiff zu erfüllen.
+  C.III. Kapitel VIII ("Wachdienst") der Anlage zum STCW-Übereinkommen
+    Durchführung von Erprobungen
+    Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation kann auf Antrag im Einzelfall Erprobungen im Sinne der Regel I/13 der Anlage zum STCW-Übereinkommen zulassen und nach positivem Abschluß der Erprobung die zum Betrieb erforderlichen Genehmigungen erteilen.
+D. Besondere Anforderungen für den Betrieb von Schiffen unter ausländischer Flagge
+  D.I. Anforderungen in Bezug auf Schiffe, die in einem deutschen Schiffsregister eingetragen sind
+  1. Allgemein anerkannte internationale Vorschriften
+    Der Eigentümer eines in einem deutschen Schiffsregister eingetragenen Kauffahrteischiffes, der Deutscher mit Wohnsitz im Geltungsbereich des Grundgesetzes im Sinne des § 1 des Flaggenrechtsgesetzes ist, darf dieses Schiff in der Seefahrt unter ausländischer Flagge nur betreiben, wenn
+    a) der Flaggenstaat Vertragspartei der in Abschnitt A Ziffer I bis III und VI der Anlage zum Schiffssicherheitsgesetz in der jeweils geltenden Fassung aufgeführten im Völkerrecht allgemein anerkannten internationalen Übereinkommen ist und
+    b) das Schiff mit Wirkung mindestens für den Zeitraum dieses Betriebes von einer Klassifikationsgesellschaft besichtigt wird, die nach Maßgabe der Verordnung (EG) Nr. 391/2009 in der jeweils geltenden Fassung anerkannt ist.
+  2. Allgemein anerkannte internationale Verfahren der Seesicherheit
+    Der Eigentümer eines in der Seefahrt unter ausländischer Flagge betriebenen Schiffes, das im deutschen Schiffsregister eingetragen ist, stellt sicher, dass der Bundesstelle für Seeunfalluntersuchung schaden- oder gefahrverursachende Vorkommnisse, die das Schiff betreffen, unverzüglich in gleichem Umfang und in gleicher Weise gemeldet werden, wie dies nach § 7 der Verordnung über die Sicherung der Seefahrt vom 27. Juli 1993 (BGBl. I S. 1417) in der jeweils geltenden Fassung für Schiffe unter der Bundesflagge vorgesehen ist.
+  D.II. Anforderungen in Bezug auf bestimmte im Linienverkehr betriebene Ro-Ro-Fahrgastschiffe und Fahrgast-Hochgeschwindigkeitsfahrzeuge
+    Für den Betrieb von Ro-Ro-Fahrgastschiffen und Fahrgast-Hochgeschwindigkeitsfahrzeugen, die im Linienverkehr von oder nach einem deutschen Hafen unter ausländischer Flagge eingesetzt werden,
+    a) muss der Betreiber gegenüber der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation unwiderruflich seine Einwilligung erklären, dass alle Mitgliedstaaten der Europäischen Union, die nach dem Gemeinschaftsrecht ein begründetes Interesse hieran haben, die Untersuchung eines Unfalls oder Vorkommnisses auf See gemäß dem IMO-Code für die Untersuchung von Unfällen und Vorkommnissen auf See leiten, an dieser in vollem Umfang teilnehmen oder hierbei mitarbeiten können und dass ihnen Zugang zu den aus dem Schiffsdatenschreiber ihrer an diesem Unfall oder Vorkommnis beteiligten Fahrgastschiffe oder Fahrzeuge gewonnenen Daten gewährt wird;
+    b) muss der Eigentümer die Anforderungen der Textziffer D.I.2 entsprechend einhalten.
+  D.III. Anforderungen in Bezug auf Schiffe, die Küstenschifffahrt betreiben oder gewerblich eingesetzt sind
+  1. Gleichwertiges Schutzniveau
+  1.1 Soll ein Schiff Küstenschifffahrt im Sinne der Verordnung über die Küstenschifffahrt vom 5. Juli 2002 (BGBl. I S. 2555) betreiben oder ist es auf Seeschifffahrtsstraßen oder im seewärts angrenzenden Bereich des deutschen Küstenmeeres gewerblich eingesetzt, muss es vorbehaltlich des § 9 Abs. 6 grundsätzlich den Anforderungen im Sinne dieser Verordnung genügen, die für Schiffe gleicher Art und Verwendung für den Betrieb unter der Bundesflagge vorgesehen sind.
+  1.2 Soweit nicht anders vorgesehen, genügen diese Schiffe den Anforderungen nach dieser Verordnung, wenn das geforderte Schutzniveau, insbesondere die Sicherheit und die Abwehr von Gefahren für das Wasser, auf gleichwertige Weise gewährleistet wird.
+  1.3 Das Erfordernis eines gleichwertigen Schutzniveaus gilt auch im Verhältnis zu Schiffen unter der Flagge eines Mitgliedstaats der Europäischen Union, die auf der Grundlage der Verordnung EWG Nr. 3577/92 des Rates vom 7. Dezember 1992 zur Anwendung des Grundsatzes des freien Dienstleistungsverkehrs auf den Seeverkehr in den Mitgliedstaaten (Seekabotage) (ABl. L 364 vom 12.12.1992, S. 7) Verkehrsdienstleistungen im Innergemeinschaftsverkehr erbringen.
+  2. Seesicherheits-Untersuchung
+    Für den Betrieb von Schiffen in der deutschen Küstenschifffahrt sind die Anforderungen der Textziffer D.I.2 entsprechend einzuhalten.
+  3. Besatzung
+    Schiffsführer von ausländischen Schiffen in der Küstenschifffahrt, die dem STCW-Übereinkommen nicht unterliegen, müssen Inhaber gültiger ausländischer Befähigungszeugnisse sein, die den Anforderungen entsprechen, die für das Führen von Schiffen gleicher Art und Verwendung für den Betrieb unter der Bundesflagge vorgesehen sind.
+E. Verweisung auf technische Regelwerke
+    Soweit in oder auf Grund dieser Verordnung auf DIN-Normen Bezug genommen wird, sind diese im Beuth-Verlag GmbH, 10722 Berlin, erschienen. Sie sind beim Deutschen Patentamt archivmäßig gesichert niedergelegt.

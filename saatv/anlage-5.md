@@ -1,0 +1,77 @@
+# Anlage 5 (zu § 29 Absatz 3 und 7, §§ 31 und 33 Absatz 6 und § 43 Absatz 1a und 2)Angaben auf dem Etikett und dem Einleger
+
+(Fundstelle: BGBl. I 2006, 387 - 388;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+1 Basissaatgut, Zertifiziertes Saatgut
+    1.1 "EG-Norm"
+    1.2 "Bundesrepublik Deutschland"
+    1.3 Kennzeichen der Anerkennungsstelle
+    1.3a Amtlich zugeteilte Seriennummer
+    1.4 Art, bei Festulolium (Festuca spp. x Lolium spp.) die Namen der Arten innerhalb der Gattungen Festuca und Lolium 1)
+    1.5 Sortenbezeichnung 2) 4)
+    1.6 Kategorie 3)
+    1.7 Anerkennungsnummer; bei Basissaatgut von Hybridsorten von Getreide, das aus einer Mischung der mütterlichen und väterlichen Erbkomponente besteht, ist zusätzlich anzugeben "Technische Mischung"
+    1.8 "Probenahme ..." (Monat, Jahr)
+    1.9 Erzeugerland
+    1.10 Angegebenes Gewicht der Packung oder angegebene Zahl der Körner oder - bei Runkelrübe, Zuckerrübe und Roter Rübe - der Knäuel
+    1.11 Zusätzliche Angaben
+    2 Standardsaatgut
+    2.1 "EG-Norm"
+    2.2 "Standardsaatgut"
+    2.3 Name und Anschrift des Kennzeichnenden oder seine Betriebsnummer
+    2.4 Art 1)
+    2.5 Sortenbezeichnung 2)
+    2.6 Bezugsnummer
+    2.7 Wirtschaftsjahr der Schließung
+    2.8 (weggefallen)
+    2.9 Angegebenes Gewicht der Packung oder angegebene Zahl der Körner oder - bei Roter Rübe - der Knäuel
+    2.10 Zusätzliche Angaben
+    3 Handelssaatgut
+    3.1 "EG-Norm"
+    3.2 "Bundesrepublik Deutschland"
+    3.3 Kennzeichen der Zulassungsstelle
+    3.3a Amtlich zugeteilte Seriennummer
+    3.4 "Handelssaatgut (nicht der Sorte nach anerkannt)"
+    3.5 Art 1)
+    3.6 Zulassungsnummer
+    3.7 "Probenahme ..." (Monat, Jahr)
+    3.8 Aufwuchsgebiet
+    3.9 Angegebenes Gewicht der Packung oder angegebene Zahl der Körner
+    3.10 Zusätzliche Angaben
+    4 Saatgutmischungen
+    4.1 "Bundesrepublik Deutschland"
+    4.2 Kennzeichen der Anerkennungsstelle
+    4.2a Amtlich zugeteilte Seriennummer
+    4.3 "Saatgutmischung für ..." (Verwendungszweck)
+    4.4 Mischungsnummer
+    4.5 "Verschließung ..." (Monat, Jahr)
+    4.6 Angegebenes Gewicht der Packung oder angegebene Zahl der Körner
+    4.7 Zusätzliche Angaben
+    5 Anerkanntes Vorstufensaatgut
+    5.1 Angaben nach den Nummern 1.2 bis 1.5 und 1.7 bis 1.11
+    5.2 "Vorstufensaatgut"
+    6 Nicht anerkanntes Saatgut
+    6.1 Name der für die Feldbesichtigung zuständigen Behörde
+    6.2 "Bundesrepublik Deutschland"
+    6.2a Amtlich zugeteilte Seriennummer
+    6.3 Art 1)
+    6.4 Sortenbezeichnung; bei Sorten, die nur als Komponenten zur Erzeugung von Hybridsorten verwendet werden, das Wort "Komponente"
+    6.5 Kategorie
+    6.6 Bei Hybridsorten das Wort "Hybride"
+    6.7 Kennnummer des Feldes oder der Partie
+    6.8 Angegebenes Gewicht der Packung
+    6.9 "Noch nicht anerkanntes Saatgut"
+    7 Saatgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes
+    7.1 Angaben nach den Nummern 1.2⁵), 1.4, 1.10, 4.5
+    7.2 „Bundessortenamt”⁵)
+    7.2a Amtlich zugeteilte Seriennummer
+    7.3 Genehmigungsnummer des Bundessortenamtes
+    7.4 vorläufige Bezeichnung der Sorte, ihre Kennnummer und sofern vorhanden in Klammern die vorgeschlagene Sortenbezeichnung
+    7.5 Angaben nach § 43 Absatz 1 Satz 2 Nummer 3 Buchstabe d
+    7.6 „Nur für Versuchszwecke”⁵)
+------
+1) Botanische Bezeichnung (ohne Autorennamen) und deutsche Bezeichnung.
+2) Bei Saatgut von Gemüsesorten ist der Hinweis nach § 33 Abs. 8 im Anschluss an die Sortenbezeichnung und von dieser durch einen Schrägstrich getrennt anzugeben. Der Hinweis darf nicht auffälliger sein als die Sortenbezeichnung.
+3) Bei Zertifiziertem Saatgut zweiter oder dritter Generation sind der Kategoriebezeichnung „Zertifiziertes Saatgut” die Wörter „zweiter Generation” oder „dritter Generation” anzufügen.
+4) Bei Zertifiziertem Saatgut erster und zweiter Generation von Sorten von Nacktgerste ist auf dem Etikett zusätzlich der Hinweis „Mindestkeimfähigkeit 75 %“ anzugeben. Bei Saatgut von Zuckermais „super sweet“ ist auf dem Etikett zusätzlich der Hinweis „Mindestkeimfähigkeit 80 %“ anzugeben.
+5) Dies gilt nicht für Saatgut von Gemüsearten.

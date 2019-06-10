@@ -1,0 +1,388 @@
+# Anlage 5 (zu § 5 Absatz 3)Bewertungsverfahren und Grenzwerte der ökologischen Qualitätsquotienten für die verschiedenen Gewässertypen
+
+1. Fließgewässer
+  1. Für die biologische Qualitätskomponente Makrophyten/Phytobenthos ist das Bewertungsverfahren PHYLIB (Verfahrensanleitung für die ökologische Bewertung von Fließgewässern zur Umsetzung der EG-Wasserrahmenrichtlinie: Makrophyten und Phytobenthos) anzuwenden. Das Bewertungsverfahren umfasst die Module „Makrophyten“, „Diatomeen“ und „Phytobenthos (ohne Diatomeen)“. Module, die zu ungesicherten Ergebnissen führen, sind nicht anzuwenden. Alternativ kann für die Bewertung der Fließgewässer mit Makrophyten auch das NRW-VERFAHREN angewendet werden.
+  2. Für die biologische Qualitätskomponente benthische wirbellose Fauna ist das Bewertungsverfahren PERLODES (Bewertungsverfahren von Fließgewässern auf Basis des Makrozoobenthos) anzuwenden.
+  3. Für die biologische Qualitätskomponente Fischfauna ist das Bewertungsverfahren FIBS (fischbasiertes Bewertungssystem für Fließgewässer zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland) anzuwenden.
+  | Biologische Qualitätskomponente (Bewertungsverfahren) | Typ gemäß Anlage 1 Nummer 2.1 sowie sonstige Gewässertypen | Ökologische Qualitätsquotienten |
+  | Grenzwert sehr guter/guter Zustand | Grenzwert guter/mäßiger Zustand |
+  | Makrophyten/ | Subtyp 1.1 | MRK | 0,70 | 0,48 |
+  | Phytobenthos | MP | 0,72 | 0,43 |
+  | (PHYLIB) | MPG | 0,75 | 0,48 |
+  | Bewertung mit den Modulen „Makrophyten“, „Diatomeen“ und „Phytobenthos (ohne Diatomeen)“ | Subtyp 1.2 | MRK | 0,69 | 0,44 |
+  | MP | 0,71 | 0,39 |
+  | MPG | 0,74 | 0,44 |
+  | Typ 2 | MRK | 0,76 | 0,52 |
+  | MP | 0,78 | 0,47 |
+  | MPG | 0,81 | 0,52 |
+  | MRS | 0,79 | 0,54 |
+  | Typen 3, 11, 19 | MRK | 0,72 | 0,49 |
+  | MP | 0,74 | 0,44 |
+  | MPG | 0,77 | 0,49 |
+  | MRS | 0,76 | 0,51 |
+  | Typ 4 | MRK | 0,74 | 0,50 |
+  | MP | 0,76 | 0,45 |
+  | MPG | 0,79 | 0,50 |
+  | MRS | 0,78 | 0,51 |
+  | Typen 5, 5.1, 11 | MRK | 0,72 | 0,49 |
+  | MP | 0,74 | 0,44 |
+  | MPG | 0,77 | 0,49 |
+  | MRS | 0,76 | 0,51 |
+  | Subtyp 5.2 | MRK | 0,70 | 0,48 |
+  | MP | 0,72 | 0,43 |
+  | MPG | 0,75 | 0,48 |
+  | MRS | 0,74 | 0,50 |
+  |  | Typ 9 | MRK | 0,70 | 0,48 |
+  | MP | 0,72 | 0,43 |
+  | MPG | 0,75 | 0,48 |
+  | MRS | 0,74 | 0,50 |
+  | Typen 6,19 Subtypen 6 K, 9.1 K | MRK | 0,71 | 0,54 |
+  | MP | 0,73 | 0,49 |
+  | MPG | 0,76 | 0,54 |
+  | MRS | 0,74 | 0,56 |
+  | Typ 7 | MRK | 0,77 | 0,53 |
+  | MP | 0,78 | 0,48 |
+  | MPG | 0,82 | 0,53 |
+  | MRS | 0,80 | 0,55 |
+  | Typ 9.1 | MRK | 0,74 | 0,54 |
+  | MP | 0,75 | 0,49 |
+  | MPG | 0,79 | 0,54 |
+  | MRS | 0,77 | 0,55 |
+  | Typ 9.2 | MRK | 0,70 | 0,51 |
+  | MP | 0,72 | 0,46 |
+  | MPG | 0,75 | 0,51 |
+  | MRS | 0,74 | 0,52 |
+  | Typ 10 | MRK | 0,70 | 0,50 |
+  | MP | 0,72 | 0,45 |
+  | MPG | 0,75 | 0,50 |
+  | MRS | 0,73 | 0,52 |
+  | Typen 11,, 12,,, 14, 16 | TRk | 0,73 | 0,52 |
+  | TRm | 0,70 | 0,49 |
+  | TRg | 0,66 | 0,45 |
+  | TNk | 0,69 | 0,52 |
+  | TNm | 0,67 | 0,49 |
+  | TNg | 0,68 | 0,47 |
+  | Typen 11,, 12,,, 14, 15, 19 | TRk | 0,70 | 0,51 |
+  | TRm | 0,67 | 0,48 |
+  | TRg | 0,64 | 0,44 |
+  | TNk | 0,66 | 0,51 |
+  | TNm | 0,65 | 0,48 |
+  | TNg | 0,65 | 0,46 |
+  |  | Typen 15 g, 12,, | TRk | 0,76 | 0,57 |
+  | TRm | 0,73 | 0,54 |
+  | TRg | 0,69 | 0,50 |
+  | TNk | 0,72 | 0,57 |
+  | TNm | 0,70 | 0,54 |
+  | TNg | 0,71 | 0,52 |
+  | Typen 15, 18 | TRk | 0,69 | 0,50 |
+  | TRm | 0,65 | 0,46 |
+  | TRg | 0,62 | 0,43 |
+  | TNk | 0,65 | 0,50 |
+  | TNm | 0,63 | 0,46 |
+  | TNg | 0,64 | 0,45 |
+  | Typen 16, 17 | TRk | 0,70 | 0,51 |
+  | TRm | 0,67 | 0,48 |
+  | TRg | 0,64 | 0,44 |
+  | TNk | 0,66 | 0,51 |
+  | TNm | 0,65 | 0,48 |
+  | TNg | 0,65 | 0,46 |
+  | Typ 17 | TRk | 0,76 | 0,57 |
+  | TRm | 0,73 | 0,54 |
+  | TRg | 0,69 | 0,50 |
+  | TNk | 0,72 | 0,57 |
+  | TNm | 0,70 | 0,54 |
+  | TNg | 0,71 | 0,52 |
+  | Typ 20 | TRk | 0,76 | 0,57 |
+  | TRm | 0,73 | 0,54 |
+  | TRg | 0,69 | 0,50 |
+  | TNk | 0,72 | 0,57 |
+  | TNm | 0,70 | 0,54 |
+  | TNg | 0,71 | 0,52 |
+  | Makrophyten/ | Subtyp 1.1 | MRK | 0,70 | 0,50 |
+  | Phytobenthos | MP | 0,73 | 0,42 |
+  | (PHYLIB) | MPG | 0,78 | 0,50 |
+  | Bewertung mit den Modulen „Makrophyten“ und „Diatomeen“ | Subtyp 1.2 | MRK | 0,69 | 0,45 |
+  | MP | 0,71 | 0,37 |
+  | MPG | 0,76 | 0,45 |
+  | Typ 2 | MRK | 0,74 | 0,51 |
+  | MP | 0,77 | 0,44 |
+  | MPG | 0,82 | 0,51 |
+  | MRS | 0,79 | 0,54 |
+  | Typen 3,11, 19 | MRK | 0,69 | 0,47 |
+  | MP | 0,71 | 0,39 |
+  | MPG | 0,76 | 0,47 |
+  | MRS | 0,74 | 0,49 |
+  | Typ 4 | MRK | 0,72 | 0,47 |
+  | MP | 0,74 | 0,40 |
+  | MPG | 0,79 | 0,47 |
+  | MRS | 0,77 | 0,50 |
+  | Typen 5, 5.1, 11 | MRK | 0,69 | 0,47 |
+  | MP | 0,71 | 0,39 |
+  | MPG | 0,76 | 0,47 |
+  | MRS | 0,74 | 0,49 |
+  | Typ 5, Subtyp 5.2 | MRK | 0,66 | 0,45 |
+  | MP | 0,68 | 0,38 |
+  | MPG | 0,73 | 0,45 |
+  | MRS | 0,71 | 0,48 |
+  | Typ 9 | MRK | 0,66 | 0,45 |
+  | MP | 0,68 | 0,38 |
+  | MPG | 0,73 | 0,45 |
+  | MRS | 0,71 | 0,48 |
+  | Typen 6,19 Subtypen 6 K, 9.1 K | MRK | 0,63 | 0,45 |
+  | MP | 0,66 | 0,37 |
+  | MPG | 0,71 | 0,45 |
+  | MRS | 0,68 | 0,47 |
+  | Typ 7 | MRK | 0,75 | 0,53 |
+  | MP | 0,78 | 0,45 |
+  | MPG | 0,83 | 0,53 |
+  | MRS | 0,80 | 0,55 |
+  | Typ 9.1 | MRK | 0,71 | 0,51 |
+  | MP | 0,73 | 0,43 |
+  | MPG | 0,78 | 0,51 |
+  | MRS | 0,76 | 0,53 |
+  | Typ 9.2 | MRK | 0,66 | 0,46 |
+  | MP | 0,68 | 0,39 |
+  | MPG | 0,73 | 0,46 |
+  | MRS | 0,71 | 0,49 |
+  |  | Typ 10 | MRK | 0,65 | 0,45 |
+  | MP | 0,68 | 0,38 |
+  | MPG | 0,73 | 0,45 |
+  | MRS | 0,70 | 0,48 |
+  | Typen 11,, 12,,, 14, 16 | TRk | 0,72 | 0,48 |
+  | TRm | 0,67 | 0,43 |
+  | TRg | 0,62 | 0,38 |
+  | TNk | 0,66 | 0,48 |
+  | TNm | 0,64 | 0,43 |
+  | TNg | 0,65 | 0,41 |
+  | Typen 11,, 12,,, 14,15, 16,17, 19 | TRk | 0,68 | 0,47 |
+  | TRm | 0,63 | 0,42 |
+  | TRg | 0,58 | 0,37 |
+  | TNk | 0,62 | 0,47 |
+  | TNm | 0,60 | 0,42 |
+  | TNg | 0,61 | 0,39 |
+  | Typen 12,,, 15 g, 17, 20 | TRk | 0,77 | 0,56 |
+  | TRm | 0,72 | 0,51 |
+  | TRg | 0,67 | 0,46 |
+  | TNk | 0,71 | 0,56 |
+  | TNm | 0,68 | 0,51 |
+  | TNg | 0,69 | 0,48 |
+  | Typen 15,18 | TRk | 0,66 | 0,45 |
+  | TRm | 0,61 | 0,40 |
+  | TRg | 0,56 | 0,35 |
+  | TNk | 0,60 | 0,45 |
+  | TNm | 0,57 | 0,40 |
+  | TNg | 0,58 | 0,37 |
+  | Makrophyten/ | Subtypen 1.1,1.2 | MRK | 0,70 | 0,47 |
+  | (PHYLIB) | MP | 0,73 | 0,40 |
+  | Phytobenthos | MPG | 0,78 | 0,47 |
+  | Bewertung mit den Modulen „Makrophyten“ und „Phytobenthos (ohne Diatomeen)“ | Typen 2,3,4, 11, 19 | MRK | 0,75 | 0,53 |
+  | MP | 0,78 | 0,45 |
+  | MPG | 0,83 | 0,53 |
+  | MRS | 0,80 | 0,55 |
+  | Typen 5,5.1, 9, 11,Subtyp 5.2 | MRK | 0,75 | 0,53 |
+  | MP | 0,78 | 0,45 |
+  | MPG | 0,83 | 0,53 |
+  | MRS | 0,80 | 0,55 |
+  |  | Subtypen 6,6 K, 9.1 K, Typ 19 | MRK | 0,79 | 0,62 |
+  | MP | 0,81 | 0,54 |
+  | MPG | 0,86 | 0,62 |
+  | MRS | 0,84 | 0,64 |
+  | Typ 7 | MRK | 0,75 | 0,53 |
+  | MP | 0,78 | 0,45 |
+  | MPG | 0,83 | 0,53 |
+  | MRS | 0,80 | 0,55 |
+  | Typen 9.1, 9.2, 10 | MRK | 0,75 | 0,55 |
+  | MP | 0,78 | 0,48 |
+  | MPG | 0,83 | 0,55 |
+  | MRS | 0,80 | 0,58 |
+  | Typen 11,, 12,,, 14, 16 | TRk | 0,75 | 0,55 |
+  | TRm | 0,70 | 0,50 |
+  | TRg | 0,65 | 0,45 |
+  | TNk | 0,69 | 0,55 |
+  | TNm | 0,67 | 0,50 |
+  | TNg | 0,68 | 0,48 |
+  | Typen 11,, 12,, 14,15, 18, 19 | TRk | 0,75 | 0,55 |
+  | TRm | 0,70 | 0,50 |
+  | TRg | 0,65 | 0,45 |
+  | TNk | 0,69 | 0,55 |
+  | TNm | 0,67 | 0,50 |
+  | TNg | 0,68 | 0,48 |
+  | Typen 16, 17 | TRk | 0,75 | 0,55 |
+  | TRm | 0,70 | 0,50 |
+  | TRg | 0,65 | 0,45 |
+  | TNk | 0,69 | 0,55 |
+  | TNm | 0,67 | 0,50 |
+  | TNg | 0,68 | 0,48 |
+  | Typ 20 | TRk | 0,75 | 0,55 |
+  | TRm | 0,70 | 0,50 |
+  | TRg | 0,65 | 0,45 |
+  | TNk | 0,69 | 0,55 |
+  | TNm | 0,67 | 0,50 |
+  | TNg | 0,68 | 0,48 |
+  | Makrophyten/ | Subtyp 1.1 | 0,70 | 0,47 |
+  | Phytobenthos | Subtyp 1.2 | 0,69 | 0,42 |
+  | (PHYLIB) | Typ 2 | 0,79 | 0,54 |
+  | Bewertung mit den Modulen „Diatomeen“ und „Phytobenthos (ohne Diatomeen)“ | Typen 3, 11, 19 | 0,74 | 0,49 |
+  | Typ 4 | 0,77 | 0,50 |
+  | Typen 5, 5.1, 11 | 0,74 | 0,49 |
+  | Subtyp 5.2 | 0,71 | 0,48 |
+  | Typ 9 | 0,71 | 0,48 |
+  | Typen 6, 19 Subtypen 6 K, 9.1 K | 0,72 | 0,56 |
+  | Typ 7 | 0,80 | 0,55 |
+  | Typ 9.1 | 0,76 | 0,56 |
+  | Typ 9.2 | 0,71 | 0,51 |
+  | Typ 10 | 0,70 | 0,50 |
+  | Typen 11,, 12,,, 14, 16 | 0,72 | 0,53 |
+  | Typen 11,, 12,,, 14, 15, 19 | 0,68 | 0,52 |
+  | Typen 12,,, 15 g | 0,77 | 0,61 |
+  | Typen 15, 18 | 0,66 | 0,50 |
+  | Typen 16, 17 | 0,68 | 0,52 |
+  | Typen 17, 20 | 0,77 | 0,61 |
+  | Makrophyten/ | Typ 1 | 0,735 | 0,540 |
+  | Phytobenthos | Subtyp 1.1 | 0,70 | 0,49 |
+  | (PHYLIB) | Subtyp 1.2 | 0,67 | 0,39 |
+  | Bewertung mit dem Modul „Diatomeen“ | Typ 2 | 0,78 | 0,52 |
+  | Typen 3, 11, 19 | 0,67 | 0,43 |
+  | Typ 4 | 0,73 | 0,44 |
+  | Typen 5, 5.1, 11 | 0,67 | 0,43 |
+  | Subtyp 5.2, Typ 9 | 0,61 | 0,40 |
+  | Typen 6, 19 Subtypen 6 K, 9.1 K | 0,56 | 0,39 |
+  | Typ 7 | 0,80 | 0,55 |
+  | Typ 9.1 | 0,71 | 0,51 |
+  | Typ 9.2 | 0,61 | 0,42 |
+  | Typ 10 | 0,60 | 0,40 |
+  | Typen 15, 18 | 0,56 | 0,39 |
+  | Typen 11,, 12,,, 14, 16 | 0,69 | 0,46 |
+  | Typen 11,, 12,,, 14, 15, 16, 17, 19 | 0,61 | 0,43 |
+  | Typen 12,,, 15 g, 17, 20 | 0,78 | 0,61 |
+  | Makrophyten/ | Subtypen 1.1,1.2 | MRK | 0,70 | 0,50 |
+  | Phytobenthos | MP | 0,75 | 0,35 |
+  | (PHYLIB) | MPG | 0,85 | 0,50 |
+  | Bewertung mit dem Modul „Makrophyten“ | Typen 2, 3, 4, 11, 19 | MRK | 0,70 | 0,50 |
+  | MP | 0,75 | 0,35 |
+  | MPG | 0,85 | 0,50 |
+  | MRS | 0,80 | 0,55 |
+  | Typen 5, 5.1, 6, 7, 9, 9.1, 9.2, 10, 11, 19 | MRK | 0,70 | 0,50 |
+  | MP | 0,75 | 0,35 |
+  | MPG | 0,85 | 0,50 |
+  | MRS | 0,80 | 0,55 |
+  | Typen 11, 12, 14, 15, 15 g, 16, 17, 19, 20 | TRk | 0,745 | 0,495 |
+  | TRm | 0,65 | 0,40 |
+  | TRg | 0,55 | 0,30 |
+  | TNk | 0,63 | 0,50 |
+  | TNm | 0,575 | 0,395 |
+  | TNg | 0,60 | 0,35 |
+  | Makrophyten/ | Subtypen 1.1, 1.2 | 0,70 | 0,44 |
+  | Phytobenthos | Typen 2, 3, 4, 5, 5.1, 7, 9, 11, 19 | 0,80 | 0,55 |
+  | (PHYLIB) | Typen 6, 19 Subtypen 6 K, 9.1 K | 0,87 | 0,73 |
+  | Bewertung mit dem Modul „Phytobenthos (ohne Diatomeen)“ | Typen 9.1, 9.2, 10 | 0,80 | 0,60 |
+  | Typen 11, 12, 14, 15, 15 g, 16, 17, 18, 19, 20 | 0,75 | 0,60 |
+  | NRW-Verfahren zur Bewertung von Fließgewässern mit Makrophyten | Typen 5, 5.1, 6, 7, 9, 9.1, 9.2, 11, 12, 14, 15, 16, 17, 18, 19 | 0,995 | 0,695 |
+  | Benthische wirbellose Fauna (PERLODES) | Typen 1, 2, 3, 4, 5, 5.1, 6, 7, 9, 9.1, 9.2, 10, 11, 12, 14, 15, 15 g, 16, 17, 18, 19, 20, 21, 22, 23 | 0,80 | 0,60 |
+  | Fischfauna (FIBS) | alle Typen | 1,086 | 0,592 |
+  Legende:
+  MRK: karbonatisch-rhithral geprägte Fließgewässer der Mittelgebirge, Voralpen und Alpen
+  MP: potamal geprägte Fließgewässer der Mittelgebirge, Voralpen und Alpen
+  MPG: potamal geprägte Fließgewässer der Mittelgebirge, Voralpen und Alpen (Grundwasser beeinflusst)
+  MRS: silikatisch-rhithral geprägte Fließgewässer der Mittelgebirge, Voralpen und Alpen
+  TRk: kleine rhithral-geprägte Fließgewässer des Norddeutschen Tieflandes
+  TRm: mittelgroße rhithrale Fließgewässer des Norddeutschen Tieflandes
+  TRg: große rhithral-geprägte Fließgewässer des Norddeutschen Tieflandes
+  TNk: kleine potamale Fließgewässer des Norddeutschen Tieflandes
+  TNm: mittelgroße potamale Fließgewässer des Norddeutschen Tieflandes
+  TNg: große Niederungsfließgewässer des Norddeutschen Tieflandes
+2. Seen
+  1. Für die biologische Qualitätskomponente Phytoplankton ist das Bewertungsverfahren PSI, (Phyto-Seen-Index – Bewertungsverfahren für Seen mittels Phytoplankton zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland Teile 1 und 2) anzuwenden. Durch das Bewertungsverfahren werden ökologische Qualitätsquotienten für die Metrices Biomasse mit den Parametern Gesamtbiovolumen und Chlorophyll a, Algenklassen und den Artenindex berechnet.
+  2. Für die biologische Qualitätskomponente Makrophyten/Phytobenthos ist das Bewertungsverfahren PHYLIB (Bewertung von Seen mit Makrophyten & Phytobenthos für künstliche und natürliche Gewässer sowie Unterstützung der Interkalibrierung) anzuwenden. Das Bewertungsverfahren umfasst die Module „Makrophyten“ und „Phytobenthos – Diatomeen“. Nach PHYLIB sind jeweils alle zwei Module anzuwenden, sofern sie zu gesicherten Ergebnissen führen. Module, die zu ungesicherten Ergebnissen führen, sind nicht anzuwenden.
+  3. Für die biologische Qualitätskomponente benthische wirbellose Fauna ist das Bewertungsverfahren AESHNA (Bewertungsverfahren für das eulitorale Makrozoobenthos in Seen zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland) anzuwenden.
+  4. Für die biologische Qualitätskomponente Fischfauna ist das Bewertungsverfahren DeLFI-SITE (Deutsches probennahmestandortspezifisches Bewertungsverfahren für Fische in Seen zur Umsetzung der EG-Wasserrahmenrichtlinie) anzuwenden.
+  | Biologische Qualitätskomponente (Bewertungsverfahren) | Typ gemäß Anlage 1 Nummer 2.2 sowie sonstige Gewässertypen | Ökologische Qualitätsquotienten |
+  | Grenzwert sehr guter/guter Zustand | Grenzwert guter/mäßiger Zustand |
+  | Phytoplankton (PSI) | alle Typen gemäß Anlage 1 Nummer 2.2 | 0,80 | 0,60 |
+  | Phyto-Seen-Index, gesamt |
+  | Phytoplankton (PSI) | alle Typen gemäß Anlage 1 Nummer 2.2 | 0,80 | 0,60 |
+  | Metric: Artenindex |
+  | Phytoplankton | Typen 2, 3 | 0,64 | 0,31 |
+  | (PSI) | Typ 4 | 0,60 | 0,24 |
+  | Metric: BiomasseParameter: Gesamtbiovolumen | Typen 5, 7, 8, 9 | 0,56 | 0,31 |
+  | Typ PP 6.1 | 0,64 | 0,35 |
+  | Typ PP 6.2 | 0,64 | 0,37 |
+  | Typ PP 6.3 | 0,65 | 0,37 |
+  | Typ 10 | 0,58 | 0,25 |
+  | Typ PP 11.1 | 0,63 | 0,31 |
+  | Typ PP 11.2 | 0,62 | 0,29 |
+  | Typ 12 | 0,81 | 0,58 |
+  | Typ 13 | 0,65 | 0,27 |
+  | Typ 14 | 0,62 | 0,30 |
+  | Phytoplankton | Typen 2, 3 | 0,70 | 0,38 |
+  | (PSI) | Typ 4 | 0,76 | 0,40 |
+  | Metric: Biomasse Parameter: Chlorophyll a | Typen 5, 7, 8, 9 | 0,56 | 0,31 |
+  | Typ PP 6.1 | 0,64 | 0,35 |
+  | Typ PP 6.2 | 0,64 | 0,37 |
+  | Typ PP 6.3 | 0,65 | 0,37 |
+  | Typen 10, 13 | 0,55 | 0,31 |
+  | Typ PP 11.1 | 0,66 | 0,36 |
+  | Typ PP 11.2 | 0,63 | 0,30 |
+  | Typ 12 | 0,80 | 0,58 |
+  | Typ 14 | 0,67 | 0,37 |
+  | Makrophyten/ | Typ 1 | AKp | 0,69 | 0,48 |
+  | Phytobenthos | Typen 2, 3, 4 | AK | 0,80 | 0,55 |
+  | (PHYLIB) | Typen 2, 3, 4 | AK | 0,74 | 0,48 |
+  | Bewertung mit den Modulen „Makrophyten“ und „Phytobenthos – Diatomeen“ | Typen 5, 7 (DS 7.1) | MKg | 0,73 | 0,53 |
+  | Typ 6 | MKp | 0,77 | 0,53 |
+  | Typ 7 (DS 7) | MKg | 0,76 | 0,53 |
+  | Typen 8, 9 | MTS | 0,80 | 0,53 |
+  | Typ 10 | TKg 10 | 0,74 | 0,53 |
+  | Typen 11, 12 | TKp | 0,84 | 0,53 |
+  | Typ 13 | TKg 13 | 0,76 | 0,53 |
+  | Typ 13 | TKg 13 | 0,78 | 0,53 |
+  | Typ 14 | TKp | 0,82 | 0,53 |
+  | alle Typen gemäß Anlage 1 Nummer 2.2 | MTSs | 0,80 | 0,53 |
+  | Makrophyten/ | Typen 1, 5, 7, 10 | Akp | 0,68 | 0,51 |
+  | Phytobenthos | MKg |
+  | (PHYLIB) | TKg10 |
+  | Modul „Makrophyten“ | Typen 2, 3, 4, 6, 8, 9 | Ak | 0,76 | 0,51 |
+  | MKp |
+  | MTS |
+  | Typ 13 | TKg 13 | 0,71 | 0,51 |
+  | Typen 11, 12, 14 | TKp | 0,87 | 0,51 |
+  | alle Typen gemäß Anlage 1 Nummer 2.2 | MTSs | 0,76 | 0,51 |
+  | Makrophyten/ | Typen 1, 2, 3, 4 | 0,69 | 0,44 |
+  | Phytobenthos | Typen 2, 3, 4 | 0,83 | 0,58 |
+  | (PHYLIB) | Typen 5, 6, 7 (DS 7.1), 14 | 0,78 | 0,55 |
+  | Bewertung mit dem Modul „Phytobenthos – Diatomeen“ | Typen 7 (DS 7), 13 | 0,84 | 0,55 |
+  | Typ 8, 9 | 0,83 | 0,55 |
+  | Typen 10, 11, 12, 13 | 0,80 | 0,55 |
+  | alle Typen gemäß Anlage 1 Nummer 2.2 | 0,83 | 0,55 |
+  | Benthische wirbellose Fauna (AESHNA) | Typen 2, 3, 4, 10, 11, 13 | 0,80 | 0,60 |
+  | Fischfauna (DeLFI-SITE) | Typen 2, 3, 4 | 0,85 | 0,69 |
+  Legende:
+  AKp: karbonatische, polymiktische Wasserkörper der Alpen und des Alpenvorlandes
+  AK: karbonatische, geschichtete Wasserkörper der Alpen und des Alpenvorlandes, inkl. extrem steile Stellen der karbonatischen Alpenseen (AKs)
+  TKg 10: karbonatische geschichtete Wasserkörper des Norddeutschen Tieflandes mit großem Einzugsgebiet
+  TKg 13: karbonatische geschichtete Wasserkörper des Norddeutschen Tieflandes mit kleinem Einzugsgebiet
+  TKp : karbonatische ungeschichtete Wasserkörper des Norddeutschen Tieflandes mit großem Einzugsgebiet
+  MTS: silikatisch geprägte Wasserkörper der Mittelgebirge und des Tieflandes
+  MTSs: saure und versauerte Wasserkörper der Alpen, des Alpenvorlandes, der Mittelgebirge und des Tieflandes
+  MKg: karbonatische geschichtete Wasserkörper des Mittelgebirges mit großem Einzugsgebiet
+  MKp: karbonatische ungeschichtete Wasserkörper des Mittelgebirges mit großem Einzugsgebiet
+3. Übergangs- und Küstengewässer
+  1. Für die biologische Qualitätskomponente Phytoplankton sind im Bereich der Nordsee das Bewertungsverfahren „Deutsches Phytoplanktonverfahren für Küstengewässer der Nordsee“ und für die Ostsee das Bewertungsverfahren „Phytoplanktonbewertungsverfahren für deutsche Ostsee-Küstengewässer“ anzuwenden. Durch das Bewertungsverfahren für die Nordsee wird der Parameter Biomasse anhand von Chlorophyll a bestimmt. Durch das Bewertungsverfahren für die Ostsee wird der Parameter Biomasse anhand von Chlorophyll a und des Gesamtbiovolumens oder anhand von Chlorophyll a, des Gesamtbiovolumens, des Biovolumens Cyanophyceen und des Biovolumens Chlorophyceen bestimmt.
+  2. Für die biologische Qualitätskomponente Großalgen und Angiospermen sind für den Bereich der Nordsee die Bewertungsverfahren SG¹ (Bewertungssystem für Seegräser der Küsten- und Übergangsgewässer zur Umsetzung der EG-Wasserrahmenrichtlinie in Deutschland) und HPI (Helgoland Phytobenthic Index) anzuwenden. In der Ostsee sind für diese Qualitätskomponente die Bewertungsverfahren PHYBIBCO (PHYtoBenthic Index for Baltic inner COastal waters – Verfahren zur Bewertung des ökologischen Zustandes der Makrophyten in den inneren Küstengewässern der Ostsee nach den Vorgaben der EU-Wasserrahmenrichtlinie) und BALCOSIS (Baltic ALgae Community analySIs System – Verfahren zur Erfassung der Angiospermen- und Makroalgenbeständen in den äußeren Küstengewässern der deutschen Ostseeküste) anzuwenden.
+  3. Für die biologische Qualitätskomponente benthische wirbellose Fauna ist das Bewertungsverfahren MarBIT (Marine Biotic Index Tool) anzuwenden.
+  4. Für die biologische Qualitätskomponente Fischfauna ist das Bewertungsverfahren FAT – TW (Fish-based Assessment Tool – Transitional Water bodies – Fischbasiertes Bewertungswerkzeug für Übergangsgewässer der norddeutschen Ästuare) anzuwenden.
+  | Biologische Qualitätskomponente (Bewertungsverfahren) | Typ gemäß Anlage 1 Nummer 2.3 oder 2.4 | Ökologische Qualitätsquotienten |
+  | Grenzwert sehr guter/guter Zustand | Grenzwert guter/mäßiger Zustand |
+  | Phytoplankton (Deutsches Phytoplanktonverfahren für Küstengewässer der Nordsee) | Typen N1, N2 | 0,67 | 0,44 |
+  | Bewertung mit dem Biomasse-Parameter „Chlorophyll a“ |
+  | Phytoplankton (Phytoplanktonbewertungsverfahren für deutsche Ostsee-Küstengewässer) | Typen B3, B4 | 0,80 | 0,60 |
+  | Bewertung mit den Biomasse-Parametern „Chlorophyll a“, „Gesamtbiovolumen“ |
+  | Phytoplankton (Phytoplanktonindex für deutsche Ostsee-Küstengewässer) | Typen B1, B2, B3 | 0,80 | 0,60 |
+  | Bewertung mit den Biomasse-Parametern „Chlorophyll a“, „Gesamtbiovolumen“, „Biovolumen Cyanophyceen“, „Biovolumen Chlorophyceen“ |
+  | Großalgen und Angiospermen (SG) | Typen N3, N4 | 0,80 | 0,60 |
+  | Phytobenthos (HPI) | Typ N5 | 0,80 | 0,60 |
+  | Großalgen oder Angiospermen (PHYBIBCO) | Typen B1 und B2 | 0,80 | 0,60 |
+  | Großalgen oder Angiospermen (BALCOSIS) | Typen B3, B4 | 0,80 | 0,60 |
+  | Benthische wirbellose Fauna (MarBIT) | Typen B1, B2, B3, B4 | 0,80 | 0,60 |
+  | Typ N5 | 0,80 | 0,60 |
+  | Fischfauna (FAT – TW) | Typen T1, T2 | 0,90 | 0,68 |

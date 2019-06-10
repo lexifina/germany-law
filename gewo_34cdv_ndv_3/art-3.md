@@ -1,0 +1,3 @@
+# Art 3 Inkrafttreten
+
+Diese Verordnung tritt am 1. Juni 1997 in Kraft.

@@ -1,0 +1,6 @@
+# Art 4
+
+(1)
+Der Zeitpunkt, von dem an die nach den Vorschriften des Bewertungsgesetzes in der Fassung dieses Gesetzes festgestellten Einheitswerte beim Ansatz von Gerichtskosten zugrunde gelegt werden, wird durch besonderes Gesetz bestimmt.
+(2)
+Für die Anwendung der Höfeordnung vom 24. April 1947 (Anlage B der Verordnung Nr. 84 - Erbhöfe -, Amtsblatt der Britischen Militärregierung Nr. 18 S. 505) sind bis auf weiteres die Einheitswerte maßgebend, die nach den bisherigen Vorschriften des Bewertungsgesetzes und den zu ihnen ergangenen Durchführungsvorschriften festgestellt sind.

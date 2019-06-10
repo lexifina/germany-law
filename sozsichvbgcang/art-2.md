@@ -1,0 +1,6 @@
+# Art 2
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung der Vereinbarung sowie Änderungen der in Artikel 1 Nummer 2 genannten Durchführungsvereinbarung in Kraft zu setzen. Im Übrigen wird die Bundesregierung ermächtigt, die zur Durchführung der Vereinbarung erforderlichen innerstaatlichen Regelungen zutreffen. Dabei können zur Anwendung und Durchführung der Vereinbarung insbesondere über folgende Gegenstände Regelungen getroffen werden:
+1. Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das Bereitstellen von Beweismitteln zwischen den mit der Durchführung der Vereinbarung befassten Stellen sowie zwischen diesen und den betroffenen Personen,
+2. das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie die Verwendung von Vordrucken,
+3. die Zuständigkeit der Versicherungsträger oder anderer in der Vereinbarung genannter Stellen und Behörden.

@@ -1,0 +1,197 @@
+# Anlage 2 (zu § 5 Abs. 1 Nr. 2)
+
+Fundstelle des Originaltextes: BGBl. I 2002, 4583 - 4587:
+bzgl. der einzelnen Änderungen vgl Fußnote
+Abnahmeprotokoll
+gemäß § 5 Abs. 1 Nr. 2 der Binnenschifffahrt-Sportbootvermietungsverordnung
+für Sportboote
+(Zutreffende Zeilen oder Kästchen sind auszufüllen; es bedeuten:
+0 = nein, 1 = ja, 2 = s. Bemerkungen)
+Abgenommen wurde das Sportboot:
+Amtliches Kennzeichen 1) ......................... am Sportboot
+- vorhanden: ()
+- beantragt: ()
+Amtliches anerkanntes Kennzeichen 2) ............. am Sportboot
+- vorhanden: ()
+------------------------------------------------------------------------
+I Name und Adresse des Unternehmens: I
+I .................................................................... I
+I .................................................................... I
+I 1. I
+------------------------------------------------------------------------
+- Fahrtgebiet: .........................................
+I. Angaben über das Sportboot
+1. Allgemeine Angaben
+------------------------------------------------------------------------
+I - Fahrzeugart (Zutreffendes bitte ankreuzen): I
+I () Motorboot () Motorjacht () Motorsegler I
+I () Motorkatamaran () Wassermotorrad () Segelboot I
+I () Segeljolle () Segeljacht () Segelkatamaran I
+I () Segeltrimaran () Ruderboot () Faltboot I
+I () Schlauchboot () Paddelboot () Kajak I
+I () Kanu () Kanadier () Tretboot I
+I () Ruderjolle () Angelkahn () Wasserfahrrad I
+I () Kajütboot () Luftkissenfahrzeug () Sonstiges I
+I - Hersteller: ............................................ I
+I - Fabrikat (Type): ............................................ I
+I 3. I
+------------------------------------------------------------------------
+- Werftbau: ()
+- Eigenbau: ()
+2. Angaben über den Schiffskörper
+------------------------------------------------------------------------
+I - Baujahr: ................... 3. I
+I - Länge über Alles: ................... m I
+I - Länge (Rumpflänge): ................... m 3. I
+I - Breite über Alles (B): ................... m 3. I
+I - maximaler Tiefgang (T): ................... m 3. I
+I - Hauptbaustoff: () Holz () Holz/GFK I
+I (Zutreffendes () Stahl () Eisen I
+I bitte ankreuzen) () Aluminium () Hypalon I
+I () Trevira () GFK I
+I () Mischgewebe () Gummi I
+I () Polyäthylen () Sonstiger I
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+I - fest angebrachte Bau-/Serien-Nummer oder I
+I Bootsidentifizierungsnummer: .................................. 3. I
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+3. Angaben über den Antriebsmotor weitere Motoren auf anliegendem Blatt)
+------------------------------------------------------------------------
+I - Einbaumotor: 1. Motor 2. Motor I
+I () mit 1 Schraube () mit 1 Schraube I
+I () mit 2 Schrauben () mit 2 Schrauben I
+I (Duoprop) (Duoprop) I
+I () mit 1 Strahlpumpe () mit 1 Strahlpumpe
+I () mit 2 Strahlpumpen () mit 2 Strahlpumpen
+I () mit 1 Luftschraube () mit 1 Luftschraube
+I () mit 2 () mit 2 I
+I Luftschrauben Luftschrauben I
+I . Motornummer: ............. ............. I
+I - Außenbordmotor: 1. Motor 2. Motor I
+I () mit 1 Schraube () mit 1 Schraube I
+I () mit 2 Schrauben () mit 2 Schrauben I
+I (Duoprop) (Duoprop) I
+I . Motornummer: ......... ......... I
+I - Fabrikat (Hersteller und I
+I Typ): ......... ......... I
+I - Baujahr: ......... ......... 4. I
+------------------------------------------------------------------------
+- Antriebsleistung: ......... kW
+- Kraftstoff:
+. Diesel ()
+. Benzin ()
+. Sonstige ()
+- Elektroantrieb ()
+- Solarantrieb ()
+Hinweis: Angaben und Nummern in Kursivschrift entsprechen den Angaben im
+Bootszeugnis.
+II. Schiffskörper und Ausrüstung
+(Sportboote mit und ohne Antriebsmaschine)
+1. Schiffskörper
+Schiffskörper in ausreichendem Zustand: ()
+Besichtigt wurde
+- Außenhaut: ()
+- Schotte: ()
+- Deck: ()
+- Aufbauten: ()
+- erforderlicher Restauftrieb nachgewiesen (nur Sportboote
+ohne CE-Kennzeichnung): ()
+Bemerkungen: ...........................................................
+........................................................................
+........................................................................
+2. Lenzeinrichtungen
+2.1 Motorlenzpumpe
+- funktionstüchtig: ()
+2.2 Handlenzpumpe
+- funktionstüchtig: ()
+Bemerkungen: ...........................................................
+........................................................................
+........................................................................
+3. Ankerausrüstung
+3.1 Anker
+- Art der Anker: .................
+- Anker in ausreichendem Zustand: ()
+- Ankerkette/-leine in ausreichendem Zustand: ().
+3.2 Schleppleine
+- Länge ......... m
+- Schleppleine in ausreichendem Zustand: ()
+Bemerkungen: ...........................................................
+........................................................................
+........................................................................
+4. tragbare Feuerlöscher
+Feuerlöschtyp: .........
+4.1 Anzahl: .........
+4.2 Füllgewicht: .........
+4.3 Letztes Prüfdatum: .........
+4.4 an geeigneter Stelle ()
+5. Erforderliche Ausrüstung (nur bei Sportbooten mit
+Antriebsmaschine)
+------------------------------------------------------------------------
+I 5.1 zugelassene Signalleuchten vorhanden () I
+I 5.2 Sichtzeichen (Kegel) () I
+I 5.3 funktionstüchtiges Schallsignalgerät vorhanden () I
+I 5.4 Rettungsmittel () I
+I - Art: ......... I
+I - Anzahl: ......... I
+I 5.5 Reservepaddel () I
+I 5.6 Bootshaken () I
+I 5.7 Leinen () I
+I - Art: ......... I
+I - Anzahl: ......... I
+I 5.8 Fender () I
+I - Anzahl: ......... I
+I 5.9 Verbandkasten () I
+I 6. I
+------------------------------------------------------------------------
+6. Heizgeräte mit flüssigen Brennstoffen
+- Heizgeräte mit flüssigen Brennstoffen vorhanden: ()
+- Baumusterprüfbescheinigung oder gleichwertige
+Bescheinigung liegt vor: ()
+Ausgestellt von: ..........................................
+7. Flüssiggasanlagen
+- Flüssiggasanlagen vorhanden: ()
+- Prüfbescheinigung nach DVGW-Arbeitsblatt G 608 liegt vor: ()
+Prüfungszeugnis-Nr.: .........
+III. Antriebsanlage
+1. Maschineneinrichtung
+1.1 Antriebsanlage funktionstüchtig: ()
+1.2 Brennstoffsystem
+- Anzahl der Tanks: ......
+- dicht: ()
+- in betriebssicherem Zustand: ()
+1.3 Abgassystem in betriebssicherem Zustand: ()
+Bemerkungen: ...........................................................
+........................................................................
+........................................................................
+2. E-Anlage
+2.1 Batterie:
+- Anzahl: ......
+- in ausreichendem Zustand: ()
+- ordnungsgemäß aufgestellt: ()
+- ausreichende Belüftung: ()
+- Gesamtkapazität: ......
+2.2 Verteilernetz in gutem Zustand: ()
+2.3 Alle Verbraucher funktionstüchtig
+- Signalleuchten: ()
+- Schallsignalgerät: ()
+- übrige Verbraucher: ()
+Bemerkungen: ...........................................................
+........................................................................
+........................................................................
+IV. Ergebnis
+1. Das Sportboot ist zum Zeitpunkt der Untersuchung fahrtauglich: ()
+2. Auflagen erforderlich: ()
+3. Festsetzung der Mindestbesatzung erforderlich: ()
+4. Zugelassene Personenzahl: ...................
+Bemerkungen (betr. Auflagen, Mindestbesatzung): ........................
+........................................................................
+........................................................................
+Das Abnahmeprotokoll ist gültig bis ....................................
+Die Abnahme erfolgte durch: ............................................
+Ort und Datum .....................
+Stempel Unterschrift .......................
+-----
+1) Amtliche Kennzeichen sind: Die von den Wasserstraßen- und Schifffahrtsämtern (WSÄ) erteilten, die Binnenschiffsregistriernummer (gefolgt von dem Kennbuchstaben B) mit Namen und Heimat- oder Registerort, Funkrufzeichen (einschl. Unterscheidungssignal), Seeschiffsregisternummer (mit Schiffsnamen und Heimathafen) oder IMO-Nummer, die Nummer des Flaggenzertifikats (gefolgt von dem Kennbuchstaben F), das Vermietungskennzeichen und die vom Bundesministerium für Verkehr und digitale Infrastruktur anerkannten, nach landesrechtlichen Vorschriften zugeteilten amtlichen Kennzeichen.
+2) Amtlich anerkannte Kennzeichen sind: Die Nummer des Internationalen Bootsscheines (IBS), gefolgt von dem Kennbuchstaben M, S oder A; bei DMYV (M), DSV (S) oder ADAC (A).

@@ -1,0 +1,112 @@
+# Anlage 3b (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung
+zum Gärtner/zur Gärtnerin für die Fachrichtung
+Garten- und Landschaftsbau
+
+- zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 1996, S. 411 - 413)
+Erstes Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt I der Berufsbildposition
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 3.3 Erfassen und Beurteilen betriebs- und marktwirtschaftlicher Zusammenhänge,
+        lfd. Nr. 4 Böden, Erden und Substrate,
+        lfd. Nr. 5 Kultur und Verwendung von Pflanzen
+  zu vermitteln.
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt I der Berufsbildpositionen
+  lfd. Nr. 4 Böden, Erden und Substrate,
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 3.2 Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit
+  zu vermitteln.
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt I der Berufsbildposition
+  lfd. Nr. 5 Kultur und Verwendung von Pflanzen
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 3.2 Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  zu vermitteln.
+Zweites Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt II der Berufsbildposition
+  lfd. Nr. 4 Böden, Erden und Substrate
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  unter Einbeziehung der in Anlage 3a Abschnitt III aufgeführten Berufsbildpositionen
+  lfd. Nr. 2 Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,
+        lfd. Nr. 3 Herstellen von befestigten Flächen,
+        lfd. Nr. 4 Herstellen von Bauwerken in Außenanlagen
+  zu vermitteln.
+  Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionen
+  lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 3.2 Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit
+  fortzuführen.
+2) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt II der Berufsbildposition
+  lfd. Nr. 5 Kultur und Verwendung von Pflanzen
+  unter Einbeziehung der in Anlage 3a Abschnitt III aufgeführten Berufsbildpositionen
+  lfd. Nr. 2 Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen,
+        lfd. Nr. 5 Ausführen von vegetationstechnischen Arbeiten
+  zu vermitteln.
+  Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionen
+  lfd. Nr. 1.1 Berufsbildung,
+        lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 3.2 Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  fortzuführen.
+3) In einem Zeitrahmen von insgesamt 3 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt II der Berufsbildposition
+  lfd. Nr. 3 betriebliche Abläufe und wirtschaftliche Zusammenhänge
+  unter Einbeziehung der in Anlage 3a Abschnitt III aufgeführten Berufsbildpositionen
+  lfd. Nr. 1 Vorbereiten, Einrichten und Abwickeln von Baustellen,
+        lfd. Nr. 3 Herstellen von befestigten Flächen,
+        lfd. Nr. 4 Herstellen von Bauwerken in Außenanlagen
+  zu vermitteln.
+  Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionen
+  lfd. Nr. 1.2 Aufbau und Organisation des Ausbildungsbetriebes,
+        lfd. Nr. 1.3 Mitgestalten sozialer Beziehungen,
+        lfd. Nr. 1.4 Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,
+        lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  fortzuführen.
+Drittes Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 2 bis 3 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt III der Berufsbildpositionen
+  lfd. Nr. 1 Vorbereiten, Einrichten und Abwickeln von Baustellen,
+        lfd. Nr. 2 Ausführen von Erdarbeiten sowie Be- und Entwässerungsmaßnahmen
+  zu vermitteln.
+  Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionen
+  lfd. Nr. 1.4 Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,
+        lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3 betriebliche Abläufe und wirtschaftliche Zusammenhänge,
+        lfd. Nr. 4 Böden, Erden und Substrate,
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  fortzuführen.
+2) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt III der Berufsbildposition
+  lfd. Nr. 3 Herstellen von befestigten Flächen
+  im Zusammenhang mit der Berufsbildposition
+  lfd. Nr. 1 Vorbereiten, Einrichten und Abwickeln von Baustellen
+  zu vermitteln.
+  Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionen
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
+        lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 3.2 Planen, Vorbereiten und Kontrollieren von Produktion, Dienstleistungen und Arbeit,
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  fortzuführen.
+3) In einem Zeitrahmen von insgesamt 4 bis 6 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage 3a Abschnitt III der Berufsbildpositionen
+  lfd. Nr. 4 Herstellen von Bauwerken in Außenanlagen,
+        lfd. Nr. 5 Ausführen von vegetationstechnischen Arbeiten
+  im Zusammenhang mit der Berufsbildposition
+  lfd. Nr. 1 Vorbereiten, Einrichten und Abwickeln von Baustellen
+  zu vermitteln.
+  Im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen gemäß Anlage 3a Abschnitt I und II der Berufsbildpositionen
+  lfd. Nr. 1.3 Mitgestalten sozialer Beziehungen,
+        lfd. Nr. 1.4 Arbeits- und Tarifrecht; Arbeitsschutz und Arbeitssicherheit,
+        lfd. Nr. 2 Natur- und Umweltschutz; rationelle Energie- und Materialverwendung,
+        lfd. Nr. 3.1 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 5 Kultur und Verwendung von Pflanzen,
+        lfd. Nr. 6 Maschinen, Geräte und Betriebseinrichtungen; Materialien und Werkstoffe
+  fortzuführen.

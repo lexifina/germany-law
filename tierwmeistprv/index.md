@@ -1,0 +1,15 @@
+# Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Tierwirtschaftsmeister und Tierwirtschaftsmeisterin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Meisterprüfung und Bezeichnung des Fortbildungsabschlusses](0001.md)
+- [§ 2 Fachrichtung](0002.md)
+- [§ 3 Zulassungsvoraussetzungen](0003.md)
+- [§ 4 Gliederung der Meisterprüfung](0004.md)
+- [§ 5 Anforderungen im Prüfungsteil „Tierhaltung, Tierproduktion und Verfahrenstechnik“](0005.md)
+- [§ 6 Anforderungen im Prüfungsteil „Betriebs- und Unternehmensführung“](0006.md)
+- [§ 7 Anforderungen im Prüfungsteil „Berufsausbildung und Mitarbeiterführung“](0007.md)
+- [§ 8 Anrechnung anderer Prüfungsleistungen](0008.md)
+- [§ 9 Bestehen der Meisterprüfung](0009.md)
+- [§ 10 Wiederholung der Meisterprüfung](0010.md)
+- [§ 11 Übergangsvorschriften](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)

@@ -1,0 +1,69 @@
+# Anlage (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Pelzveredler/zur
+Pelzveredlerin
+
+(Fundstelle: BGBl. I 1981, 784 - 787)
+| Lfd. Nr. | Teil des Ausbildungsberufsbilds | zu vermittelnde Fertigkeiten und Kenntnisse | zeitliche Richtwerte in Monaten im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Arbeitsschutz, Unfallverhütung, Umweltschutz und rationelle Energieverwendung (§ 3 Nr. 1) | a) | einschlägige Arbeitsschutzvorschriften in Gesetzen und Verordnungen nennen | während der gesamten Ausbildung zu vermitteln |
+| b) | einschlägige Vorschriften der Träger der gesetzlichen Unfallversicherung, insbesondere Unfallverhütungsvorschriften, Richtlinien und Merkblätter, nennen und beachten |
+| c) | Gefahren im Umgang mit elektrischem Strom und mit Chemikalien erläutern |
+| d) | Gefahrenstellen an Maschinen nennen, Schutzeinrichtungen aufzeigen und ihre Wirksamkeit erhalten |
+| e) | Notwendigkeit der Arbeitshygiene erläutern, funktionsgerechte Arbeitskleidung tragen |
+| f) | Verhalten nach Unfällen darstellen und Maßnahmen zur Ersten Hilfe einleiten |
+| g) | arbeitsplatzbezogene Ursachen der Umweltbelästigung, -verschmutzung und -vergiftung sowie Möglichkeiten zu ihrer Vermeidung nennen und beachten |
+| h) | die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich anführen |
+| 2 | Kenntnisse des Ausbildungsbetriebs (§ 3 Nr. 2) | a) | Aufgaben der Fabrikations- und Verwaltungsabteilungen sowie ihr Zusammenwirken erläutern |
+| b) | Arbeitszeit- und Pausenregelung nennen |
+| c) | Lohnformen, Lohnabrechnung und Vergütung für Auszubildende erläutern |
+| d) | Unterlagen für die Lohnberechnung und Methoden für die Lohnfindung nennen |
+| e) | Aufgaben von Betriebsleitung, Betriebsrat und Jugendvertretung sowie Rechte und Pflichten von Mitarbeitern und Auszubildenden erläutern |
+| 3 | Pflegen und Instandhalten der Arbeitsgeräte, Maschinen, Werkzeuge und Einrichtungen (§ 3 Nr. 3) | a) | Ordnung und Sauberkeit am Arbeitsplatz halten und ihre Bedeutung begründen |
+| b) | Arbeitsgeräte, Maschinen, Werkzeuge und Einrichtungen pflegen und instandhalten |
+| c) | Funktionsfähigkeit der Werkzeuge und Maschinen nach Betriebsanleitungen erhalten, Störungen feststellen und melden |
+| 4 | Annehmen und Lagern der Rohfelle (§ 3 Nr. 4) | a) | Unterschiede zwischen wichtigen Rohfellarten nennen, Zustand der Rohfelle beurteilen | 2 |  |  |
+| b) | Zweck und Arten der Konservierung von Rohfellen erläutern |
+| c) | Fehler in Rohfellen feststellen und ihre Folgen für die anschließende Veredlung beschreiben |
+| d) | Ware annehmen, auspacken, zählen, Kundenzeichen einstempeln |
+| e) | Lagerung von Rohfellen sowie Bedeutung der Schädlingsbekämpfung erläutern |
+| f) | Produktionspartien zusammenstellen und wiegen |
+| g) | wichtige Weiterverarbeitungsgänge für Rohfelle unterschiedlicher Art erläutern |
+| 5 | Bearbeiten der Felle in der Wasserwerkstatt(§ 3 Nr. 5) | a) | Aufgabe und Arbeitsweise der Maschinen erläutern, Maschinen bedienen | 2 |  |  |
+| b) | Rohfelle einweichen, beim Ansetzen von Pickeln, Beizen und anderen Bädern mitwirken, Wirkung der Chemikalien erläutern |
+| 6 | Bearbeiten der Felle an der Kürschnerbank (§ 3 Nr. 6) | a) | Felle glattlegen und Langziehen | 5 | 1 |  |
+| b) | Felle durcharbeiten und vorrichten |
+| c) | Felle ausstoßen, rumziehen und fertigmachen |
+| d) | Felle am Strick witten und ohrenziehen |
+| e) | Felle bakeln und schlichten |
+| f) | Felle ganzfleischen |
+| 7 | Behandeln von Weichware (§ 3 Nr. 7) | a) | Weichware aufschneiden und wenden | 2 |  |  |
+| b) | Felle mit der Schere breitmachen, Krallen ziehen |
+| c) | beschädigte Felle aussortieren |  |  | 1 |
+| 8 | Bearbeiten der Felle an der Kreismessermaschine(§ 3 Nr. 8) | a) | Felle abreißen |  | 1 |  |
+| b) | Felle fleischen, nachfleischen und beschneiden |  | 3 | 5 |
+| c) | Felle dünnschneiden |
+| d) | Messer an der Kreismesserschleifmaschine schleifen |
+| 9 | Bearbeiten der Felle an der Entfleischmaschine (§ 3 Nr. 9) | a) | geweichte Felle an der Entfleischmaschine entfleischen und durcharbeiten |  | 1 |  |
+| b) | Entfleischmaschine einstellen sowie ihre Zylinder schleifen |  | 1 |  |
+| 10 | Walken der Felle(§ 3 Nr. 10) | a) | Walkfaß be- und entladen |  | 1 |  |
+| b) | Felle einfetten |
+| c) | Aufgabe und Arbeitsweise der Walkmaschine erläutern, Felle walken, Fettungseffekt an den gewalkten Fellen prüfen |  |  | 1 |
+| 11 | Läutern der Felle(§ 3 Nr. 11) | a) | Aufgabe und Arbeitsweise der Läuter- und Schütteltonnen sowie des Läutermaterials erklären, Maschinen bedienen |  |  | 1 |
+| b) | Läutermaterial und Zusätze entsprechend dem vorgeschriebenen Arbeitsablauf auswählen, zugeben und bewerten |  |  | 1 |
+| c) | Zusammenhang zwischen der Dauer des Läuterns, der Auswahl des Läutermaterials und den Zusätzen im Hinblick auf den Qualitätsausfall bei Fellen unterschiedlicher Haar- und Lederstruktur erklären |
+| 12 | Bakeln der Felle(§ 3 Nr. 12) | a) | Bakelmaschine bedienen und einstellen, Messer schleifen, Aufgabe und Arbeitsweise der Bakelmaschine erläutern |  |  | 2 |
+| b) | Felle ausstoßen, gutbakeln, rumziehen und schlichten |
+| 13 | Trocknen und Entfetten der Felle (§ 3 Nr. 13) | a) | gefettete Felle trocknen, unterschiedliche Trockenverfahren nennen und ihre Auswirkung auf das Fell erläutern, Vor- und Nachteile der unterschiedlichen Trockenverfahren beschreiben |  | 2 |  |
+| b) | Felle entfetten, Zweck und Vorgang des Entfettens erläutern |
+| 14 | Mitwirken beim Färben, Grotzieren und Reservieren der Felle (§ 3 Nr. 14) | a) | bei einfachen Laborfärbungen mitwirken |  |  | 1 |
+| b) | pH-Wert-Messungen durchführen |
+| c) | beim Ansetzen von Bädern mitwirken, wichtige Chemikalien nennen |
+| d) | beim Grotzieren von Fellen mitwirken, Unterschiede zwischen Spritz- und Siebdruckverfahren sowie Reservierung erläutern |
+| e) | beim Rupfen, Scheren, Rasieren und Bügeln von Fellen mitwirken, Zweck dieser Arbeitsgänge erläutern |
+| 15 | Bearbeiten der Felle an der Witt-, Streck- und Schleifmaschine (§ 3 Nr. 15) | a) | Felle an der Witt- und Streckmaschine bearbeiten | 1 | 1 |  |
+| b) | Felle an der Schleifmaschine bearbeiten |
+| 16 | Fertigmachen der Pelzfelle zur Auslieferung (§ 3 Nr. 16) | a) | beim Strecken, Rauhen, Wenden, Einstreichen und Glattlegen der Pelzfelle mitwirken |  |  | 1 |
+| b) | Pelzfelle nach Kundenstempel aussortieren und zählen |
+| c) | Pelzfelle nach ihrer Qualität bewerten, Veredlungsfehler und ihre Ursachen nennen, Beseitigung der Fehler erläutern |

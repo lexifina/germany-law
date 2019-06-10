@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 3 Abs. 2, der §§ 15, 16 und 21 Nr. 1 und 3 sowie des § 31 Abs. 2 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen in der Fassung der Bekanntmachung vom 20. September 1995 (BGBl. I S. 1146), von denen § 3 Abs. 2 zuletzt durch Artikel 196 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) und § 15 und § 21 durch Artikel 196 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden sind, verordnet das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit den Bundesministerien der Finanzen und für Wirtschaft und Technologie:

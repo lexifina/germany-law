@@ -1,0 +1,18 @@
+# Verordnung über die Umlegung von Kosten der Bilanzkontrolle nach § 17d des Finanzdienstleistungsaufsichtsgesetzes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Umlagefähige Kosten](0002.md)
+- [§ 3 Umlagebetrag](0003.md)
+- [§ 4 Umlagejahr](0004.md)
+- [§ 5 Stichtag für die Umlagepflicht](0005.md)
+- [§ 6 Bemessung des Umlagebetrags](0006.md)
+- [§ 7 Mindest- und Höchstumlagebetrag](0007.md)
+- [§ 8 Ermittlung und Festsetzung des Umlagebetrags](0008.md)
+- [§ 9 Festsetzung der Umlagevorauszahlung](0009.md)
+- [§ 10 Differenzausgleich im Verhältnis zur Prüfstelle](0010.md)
+- [§ 11 Differenzausgleich im Verhältnis zu den Umlagepflichtigen](0011.md)
+- [§ 12 Fälligkeit der Umlageforderungen](0012.md)
+- [§ 13 Säumniszuschläge und Beitreibung](0013.md)
+- [§ 14 Übergangsbestimmungen](0014.md)
+- [§ 15 Inkrafttreten](0015.md)

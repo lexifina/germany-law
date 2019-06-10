@@ -1,0 +1,3 @@
+# Art 2
+
+Die Berufsbezeichnung "Baumeister" sowie Berufsbezeichnungen, die das Wort "Baumeister" enthalten und auf eine Tätigkeit im Baugewerbe (Hoch- oder Tiefbau) hinweisen, darf weiterhin nur führen, wer am 31. Dezember 1980 zur Führung dieser Bezeichnung berechtigt ist oder wer noch nach diesem Zeitpunkt die Baumeisterprüfung bestanden hat (Artikel 5 Abs. 2).

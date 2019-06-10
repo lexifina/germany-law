@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Brüssel am 26. März 1982 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Berichtigung der deutsch-belgischen Grenze im Bereich der regulierten Grenzgewässer Breitenbach und Schwarzbach, Kreise Aachen und Malmedy, wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht. Die in Artikel 1 Abs. 1 des Vertrags genannten fünf Karten liegen beim Auswärtigen Amt (Politisches Archiv), beim Innenminister des Landes Nordrhein-Westfalen in Düsseldorf, beim Regierungspräsidenten Köln sowie beim Oberkreisdirektor des Kreises Aachen zur Einsicht bereit.

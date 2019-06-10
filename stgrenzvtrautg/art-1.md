@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Dem in Bonn am 20. April 1977 unterzeichneten Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze im Grenzabschnitt "Dreieckmark-Dandlbachmündung" und in einem Teil des Grenzabschnittes "Scheibelberg-Bodensee" sowie über Befugnisse der Grenzkommission wird zugestimmt.
+(2)
+Der Vertrag wird nachstehend mit einer Übersichtskarte des betreffenden Grenzabschnittes "Dreieckmark-Dandlbach" und des Teilabschnittes Inn der Sektion I des Grenzabschnittes "Scheibelberg-Bodensee" veröffentlicht. Die in den Artikeln 1, 2, 4 und 5 genannten Anlagen liegen beim Auswärtigen Amt (Politisches Archiv) und beim Bayerischen Landesvermessungsamt sowie - in dem die jeweiligen Grenzabschnitte betreffenden Umfang - bei den für diese Grenzabschnitte jeweils zuständigen staatlichen Vermessungsämtern zur Einsicht bereit.

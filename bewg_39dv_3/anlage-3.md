@@ -1,0 +1,28 @@
+# Anlage 3 (zu § 1 Nr. 2)
+
+Nutzungsteil Obstbau
+
+| Lfd. Nr. | Gemeinde, Ort oder Ortsteil | Finanzamtsbezirk | Obstbauvergleichszahl(OVZ)je Ar |
+| 11.01 | Selent | Plön | 98 |
+| 11.02 | Wedel | Elmshorn | 63 |
+| 11.03 | Lühnhüserdeich | Itzehoe | 48 |
+| 21.01 | Ruschwedel | Stade | 58 |
+| 21.02 | Mittelnkirchen | Stade | 70 |
+| 21.03 | Hollern | Stade | 63 |
+| 22.01 | Langförden-Spreda | Vechta | 58 |
+| 31.01 | Börninghausen | Lübbecke (Westf) | 96 |
+| 32.01 | St. Hubert | Kempen (Niederrhein) | 89 |
+| 33.01 | Ramelshoven | Bonn-Land | 106 |
+| 41.01 | Heidesheim | Bingen (Rhein) | 60 |
+| 51.01 | Kriftel | Frankfurt-Höchst | 62 |
+| 51.02 | Breitzbach-Berlitzgrube | Eschwege | 49 |
+| 61.01 | Ommersheim | St. Ingbert | 75 |
+| 72.01 | Bodman | Stockach (Baden) | 51 |
+| 72.02 | Oberkirch-Wolfhag | Offenburg (Baden) | 40 |
+| 73.01 | Bonfeld-Eichhäuserhof | Heilbronn (Neckar) | 48 |
+| 73.02 | Ettenkirch-Hirschlatt | Friedrichshafen | 31 |
+| 73.03 | Kreßbronn-Gießenbrücke | Friedrichshafen | 42 |
+| 73.04 | Reinstetten-Sommershausen | Biberach (an der Riss) | 25 |
+| 81.01 | Sommerhausen | Ochsenfurt | 28 |
+| 81.02 | Frohnhofen | Aschaffenburg | 38 |
+| 91.01 | Hamburg-Neuenfelde | Hamburg-Dammtor | 51 |

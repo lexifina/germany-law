@@ -1,0 +1,17 @@
+# Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung
+
+- [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Geltungsbereich](0001.md)
+- [§ 2 Anerkennungsvoraussetzungen](0002.md)
+- [§ 3 Antrag](0003.md)
+- [§ 4 Zuständige Stelle](0004.md)
+- [§ 5 Ausgleichsmaßnahmen](0005.md)
+- [§ 6 Eignungsprüfung](0006.md)
+- [§ 7 Anpassungslehrgang](0007.md)
+- [§ 8 Verfahren](0008.md)
+- [§ 9 Gebühren](0009.md)
+- [§ 9 Gebühren](0009-2.md)
+- [§ 10 Verwaltungszusammenarbeit](0010.md)
+- [§ 11 Übermittlung personenbezogener Daten](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)

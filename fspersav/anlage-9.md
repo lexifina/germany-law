@@ -1,0 +1,44 @@
+# Anlage 9 (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
+
+( Fundstelle: BGBl. I 2008, 1973 - 1974 )
+1. Leistungsnachweise und Prüfungen für Fluglotsen nach § 1 Nr. 1 und Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+1.1 Bewertungsstufen
+  Die Einzel- und Gesamtleistungen in den Leistungsnachweisen der grundlegenden und betrieblichen Ausbildung, in Prüfungen und Teilprüfungen zum Erwerb der Auszubildendenlizenz oder zum Erwerb zusätzlicher Befugnisse oder die Einzel- und Gesamtleistungen in Erlaubnisprüfungen werden folgenden vier Bewertungsstufen zugeordnet:
+  | Anforderungen übertroffen | (Ü) | = | eine Leistung, die die Anforderungen deutlich übertrifft |
+  | Anforderungen erfüllt | (E) | = | eine Leistung, die den Anforderungen in vollem Umfang entspricht |
+  | Anforderungen nur teilweise erfüllt | (T) | = | eine Leistung, die den Anforderungen nur teilweise entspricht |
+  | Anforderungen nicht erfüllt | (N) | = | eine Leistung, die den Anforderungen in keiner Weise entspricht. |
+1.2 Bewertung schriftlicher Leistungen
+  Bei der Bewertung schriftlicher Leistungen werden den für die Leistung maßgebenden Einzelanforderungen Leistungspunkte entsprechend ihrer Anzahl, Zusammensetzung und Schwierigkeit zugeteilt. Soweit eine Anforderung ganz oder teilweise erfüllt ist, wird die jeweilige Anzahl von Punkten der Leistung vollständig oder anteilig zugerechnet.
+  Der Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl wird mit einer Dezimalstelle hinter dem Komma ohne Auf- oder Abrundung berechnet und ist den Bewertungsstufen wie folgt zugeordnet:
+  | Prozentanteil der Leistungspunkte | Bewertungsstufe |
+  |  | 100 bis 90,0 | Ü (Anforderungen übertroffen) |
+  | unter | 90,0 bis 70,0 | E (Anforderungen erfüllt) |
+  | unter | 70,0 bis 50,0 | T (Anforderungen nur teilweise erfüllt) |
+  | unter | 50,0 bis 0 | N (Anforderungen nicht erfüllt). |
+1.3 Bewertung mündlicher Leistungen
+  Bei der Bewertung mündlicher Leistungen wird die in Nummer 1.2 festgelegte Zuordnung der Prozentanteile zu den Bewertungsstufen sinngemäß angewendet.
+1.4 Bewertung praktischer Leistungen
+  Ein praktischer Leistungsnachweis wird entweder als einzelne praktische Simulationsübung in der grundlegenden Ausbildung mit einer Dauer von mindestens 60 Minuten oder als fortlaufende Beurteilung über einen festgelegten Beurteilungszeitraum (Phasenbericht) durchgeführt und in der grundlegenden Ausbildung von mindestens zwei Ausbildern, in der betrieblichen Ausbildung vom Trainingsteam, das mindestens aus der verantwortlichen Führungskraft und einem Ausbilder besteht, einvernehmlich bewertet.
+  Die Bewertung praktischer Leistungen erfolgt durch die Bewertung von einzelnen Leistungsmerkmalen, die für die jeweilige Tätigkeit als Fluglotse oder in einem Verwendungsbereich nach § 1 Nr. 2 einschlägig sind, mit den Bewertungsstufen nach Nummer 1.1 (Einzelleistungen). Die Einzelleistungen werden zu einer Gesamtleistung zusammengefasst. Für die Bewertung der Gesamtleistung mit der Bewertungsstufe „E“ oder „Ü“ müssen sämtliche Einzelleistungen mindestens mit der Bewertungsstufe „E“ bewertet sein.
+  In einer Berechtigungsprüfung wird das Prüfungsergebnis nur mit „bestanden“ oder „nicht bestanden“ bewertet; für die Bewertung wesentliche Tatsachen sind in die Prüfungsniederschrift aufzunehmen.
+1.5 Erbringen von Leistungsnachweisen, Bestehen von Teilprüfungen und Prüfungen
+  Ein Leistungsnachweis ist erbracht oder die Prüfung oder Teilprüfung zum Erwerb der Auszubildendenlizenz oder einer zusätzlichen Befugnis oder die Erlaubnisprüfung ist bestanden, wenn die Gesamtleistungen mit „Anforderungen übertroffen“ (Stufe Ü) oder „Anforderungen erfüllt“ (Stufe E) bewertet sind. Anderenfalls ist der Leistungsnachweis nicht erbracht oder die Teilprüfung oder die Erlaubnisprüfung nicht bestanden. Bei Nichtbestehen einer Teilprüfung ist auch die Gesamtprüfung nicht bestanden.
+  Eine Berechtigungsprüfung ist bestanden, wenn sie mit „bestanden“ bewertet ist (vgl. Nummer 1.4 letzter Satz).
+1.6 Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen
+  Besteht die Prüfung zum Erwerb der Auszubildendenlizenz oder einer zusätzlichen Befugnis aus mehreren Teilprüfungen und sind alle Teilprüfungen bestanden, wird das Ergebnis der Prüfung mit der Stufe „Ü“ (Anforderungen übertroffen) angegeben, wenn alle Teilprüfungen mit „Ü“ bewertet sind. Anderenfalls wird das Ergebnis mit „E“ (Anforderungen erfüllt) eingestuft.
+  Ist eine Teilprüfung oder sind mehrere Teilprüfungen nicht bestanden (Bewertung mit „T“ oder „N“), wird das Ergebnis der Prüfung mit „nicht bestanden“ angegeben.
+2. Leistungsnachweise und Prüfungen für flugsicherungstechnisches Personal nach § 1 Nr. 3
+2.1 Bewertung der Leistungen
+  Die Leistungen in den Leistungsnachweisen der grundlegenden und betrieblichen Ausbildung, in der Erlaubnisprüfung, in den Berechtigungsprüfungen und in den zugehörigen Teilprüfungen werden mit „bestanden“ oder „nicht bestanden“ bewertet.
+  Bei der Bewertung schriftlicher Leistungen werden den für die Leistung maßgebenden Einzelanforderungen Leistungspunkte entsprechend ihrer Anzahl, Zusammensetzung und Schwierigkeit zugeteilt. Soweit eine Anforderung ganz oder teilweise erfüllt ist, wird die jeweilige Anzahl von Punkten vollständig oder anteilig der Leistung zugerechnet. Der Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl wird mit einer Dezimalstelle hinter dem Komma ohne Auf- oder Abrundung berechnet.
+2.2 Erbringen von Leistungsnachweisen, Bestehen von Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen
+  Ein Leistungsnachweis ist erbracht, wenn der Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl mindestens 70,0 % beträgt. Anderenfalls ist der Leistungsnachweis nicht erbracht.
+  Bei der Bewertung der schriftlichen Aufsichtsarbeit in der Erlaubnisprüfung wird dem Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl folgendes Prüfungsergebnis zugeordnet:
+  | Prozentanteil der Leistungspunkte | Prüfungsergebnis |
+  |  | 100 bis 70,0 | Erlaubnisprüfung bestanden |
+  | unter | 70,0 bis 50,0 | mündliche Ergänzungsprüfung erforderlich |
+  | unter | 50,0 bis 0 | Erlaubnisprüfung nicht bestanden. |
+  Ist eine mündliche Ergänzungsprüfung erforderlich und kann der Prüfungsteilnehmer in dieser Ergänzungsprüfung die in der Aufsichtsarbeit festgestellten Mängel ausgleichen, wird das Gesamtergebnis der Erlaubnisprüfung mit „bestanden“, anderenfalls mit „nicht bestanden“ festgestellt.
+  Eine schriftliche theoretische Teilprüfung einer Berechtigungsprüfung ist bestanden, wenn der Prozentanteil der Summe der erreichten Leistungspunkte an der erreichbaren Gesamtpunktzahl mindestens 70,0 % beträgt. Anderenfalls ist die Teilprüfung nicht bestanden. Für die Bewertung einer mündlichen theoretischen Teilprüfung und der praktischen Teilprüfung wird diese Zuordnung des Prüfungsergebnisses zu den Leistungen sinngemäß angewendet.
+  Eine Berechtigungsprüfung ist insgesamt bestanden, wenn beide Teilprüfungen bestanden sind. Anderenfalls ist die Berechtigungsprüfung nicht bestanden.

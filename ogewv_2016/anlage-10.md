@@ -1,0 +1,89 @@
+# Anlage 10 (zu § 10 Absatz 1 Satz 1 und Absatz 2 Satz 1,§ 13 Absatz 1 Nummer 3, § 14 Absatz 2)Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz; zusätzliche Überwachungsanforderungen
+
+Es sind die Parameter zu überwachen, die für jede nach Maßgabe von Anlage 3 für die jeweilige Gewässerkategorie relevante Qualitätskomponente kennzeichnend sind. Die Parameter, Messstellen und Überwachungsfrequenzen sind so auszuwählen, dass eine hinreichende Zuverlässigkeit und Genauigkeit bei der Bewertung des ökologischen oder chemischen Zustands oder des ökologischen Potenzials erreicht wird. Im Bewirtschaftungsplan nach § 83 des Wasserhaushaltsgesetzes sind Angaben über die Einschätzung des Grades der Zuverlässigkeit und Genauigkeit zu machen, die mit den Überwachungsprogrammen erreicht wurden.
+Die Einhaltung der Umweltqualitätsnorm ist für prioritäre und bestimmte andere Schadstoffe in der nach Anlage 8 Tabelle 2 maßgeblichen Matrix, für die flussgebietsspezifischen Schadstoffe in der nach Anlage 6 maßgeblichen Matrix zu überwachen. Wird eine Biota-UQN überwacht, so ist die ZHK-UQN dann zusätzlich zu überwachen, wenn aufgrund von gemessenen oder geschätzten Konzentrationen in der Umwelt oder aufgrund von Emissionen eine potentielle Gefahr für oder durch die aquatische Umwelt aufgrund einer akuten Exposition ermittelt wird.
+1. Überblicksweise Überwachung:
+  1.1 Mit den Programmen zur überblicksweisen Überwachung werden folgende Ziele verfolgt:
+    a) Ergänzung und Validierung des in Anlage 2 Nummer 2 beschriebenen Verfahrens zur Beurteilung der Auswirkungen von signifikanten anthropogenen Belastungen der Oberflächenwasserkörper,
+    b) wirksame und effiziente Gestaltung künftiger Überwachungsprogramme,
+    c) Bewertung der langfristigen Veränderungen der natürlichen Gegebenheiten und
+    d) Bewertung der langfristigen Veränderungen auf Grund ausgedehnter menschlicher Tätigkeiten.
+    Die Ergebnisse der überblicksweisen Überwachung sind in Verbindung mit dem in Anlage 2 beschriebenen Verfahren zur Zusammenstellung der Gewässerbelastungen und zur Beurteilung ihrer Auswirkungen zu überprüfen. Anhand dieser Ergebnisse sind die Maßnahmenprogramme nach § 82 des Wasserhaushaltsgesetzes zu überwachen.
+  1.2 Die überblicksweise Überwachung ist an einer ausreichenden Zahl von Oberflächenwasserkörpern durchzuführen, um eine Bewertung des Gesamtzustands der Oberflächengewässer in jedem Einzugsgebiet zu gewährleisten. Bei der Auswahl der Wasserkörper ist dafür zu sorgen, dass eine Überwachung, soweit erforderlich, an Stellen durchgeführt wird, an denen
+    a) der Abfluss bezogen auf die gesamte Flussgebietseinheit bedeutend ist, einschließlich Stellen an großen Flüssen, an denen das Einzugsgebiet größer als 2 500 Quadratkilometer ist,
+    b) sich bedeutende Oberflächenwasserkörper über die Grenzen der Bundesrepublik Deutschland hinaus erstrecken und
+    c) sich größere Seen oder Sammelbecken mit einer Oberfläche von mehr als zehn Quadratkilometern befinden,
+    und an anderen Stellen, die zur Schätzung der Schadstoffbelastung benötigt werden, die die Grenzen der Bundesrepublik Deutschland überschreitet oder in die Meeresumwelt gelangt.
+  1.3 An jeder Überwachungsstelle sind folgende Parameter zu überwachen:
+    a) Parameter, die für alle biologischen Qualitätskomponenten nach Anlage 3 Nummer 1 kennzeichnend sind,
+    b) Parameter, die für alle hydromorphologischen Qualitätskomponenten nach Anlage 3 Nummer 2 kennzeichnend sind,
+    c) Parameter, die für alle allgemeinen physikalisch-chemischen Qualitätskomponenten nach Anlage 3 Nummer 3.2 kennzeichnend sind,
+    d) die prioritären Stoffe nach Anlage 8 Tabelle 1 Spalte 8, für die es Einleitungen oder Einträge im Einzugsgebiet der Messstelle gibt,
+    e) bestimmte andere Schadstoffe nach Anlage 8 Tabelle 1 Spalte 9 und flussgebietsspezifische Schadstoffe gemäß Anlage 3 Nummer 3.1 in Verbindung mit Anlage 6, die in signifikanten Mengen im Sinne von Anlage 6 Nummer 2 Satz 2 in den Oberflächenwasserkörper eingeleitet oder eingetragen werden und
+    f) Nitrat.
+2. Operative Überwachung
+  2.1 Die Programme zur operativen Überwachung sind mit dem Ziel durchzuführen,
+    a) den Zustand der Oberflächenwasserkörper, die voraussichtlich die Bewirtschaftungsziele nicht erreichen, zu bestimmen und
+    b) alle auf die Maßnahmenprogramme zurückgehenden Veränderungen am Zustand dieser Oberflächenwasserkörper zu bewerten.
+  2.2 Die operative Überwachung ist an allen Oberflächenwasserkörpern durchzuführen, die voraussichtlich die Bewirtschaftungsziele nicht erreichen, sowie an allen Oberflächenwasserkörpern, in die prioritäre Stoffe oder bestimmte andere Schadstoffe eingeleitet oder eingetragen werden. Dies gilt auch für Oberflächenwasserkörpergruppen, die zur erstmaligen Beschreibung der Gewässer gebildet wurden. Die Überwachungsstellen sind nach folgenden Maßgaben festzulegen:
+    2.2.1 Die Messstellen und die Zusammenstellung der Überwachungsparameter werden in Abhängigkeit von der jeweiligen Belastungssituation festgelegt. Die Messstellen für die Überwachung relevanter biologischer Parameter oder relevanter chemischer Parameter können an unterschiedlichen Stellen eines Wasserkörpers oder einer Wasserkörpergruppe liegen.
+    2.2.2 Bei Wasserkörpern oder Wasserkörpergruppen, die wegen einer signifikanten Belastung aus Punktquellen voraussichtlich die Bewirtschaftungsziele nicht erreichen, ist eine ausreichende Zahl von Überwachungsstellen festzulegen, um das Ausmaß und die Auswirkungen der Belastung aus Punktquellen bewerten zu können. Dazu sind in dem unmittelbar betroffenen Wasserkörper oder der unmittelbar betroffenen Wasserkörpergruppe Lage und Zahl von Überwachungsstellen so festzulegen, dass für den gesamten Wasserkörper oder die gesamte Wasserkörpergruppe eine repräsentative Aussage erhalten wird. Unterliegen die Wasserkörper oder Wasserkörpergruppen mehreren Belastungen aus Punktquellen, so können die Überwachungsstellen so festgelegt werden, dass das Ausmaß und die Auswirkungen der Belastung aus Punktquellen insgesamt bewertet werden können.
+    2.2.3 Bei Wasserkörpern oder Wasserkörpergruppen, die wegen einer signifikanten Belastung aus diffusen Quellen voraussichtlich die Bewirtschaftungsziele nicht erreichen, ist für eine Auswahl aus den betreffenden Wasserkörpern eine ausreichende Zahl von Überwachungsstellen festzulegen, um das Ausmaß und die Auswirkungen der Belastung aus diffusen Quellen bewerten zu können. Diese Wasserkörper sind so festzulegen, dass sie für die relative Gefahr von Belastungen aus diffusen Quellen und für die relative Gefahr des Nichterreichens eines guten Zustands des Oberflächengewässers repräsentativ sind.
+    2.2.4 Bei Wasserkörpern oder Wasserkörpergruppen, die wegen einer signifikanten hydromorphologischen Belastung voraussichtlich die Bewirtschaftungsziele nicht erreichen, sind für eine Auswahl aus den betreffenden Wasserkörpern Überwachungsstellen festzulegen, um das Ausmaß und die Auswirkungen der hydromorphologischen Belastung bewerten zu können. Die Auswahl dieser Wasserkörper muss für die Gesamtauswirkungen der hydromorphologischen Belastung auf alle betreffenden Wasserkörper kennzeichnend sein.
+  2.3 Um das Ausmaß der Belastungen der Oberflächenwasserkörper zu bewerten, sind diejenigen Qualitätskomponenten nach Anlage 3 zu überwachen, die für die Belastung des Oberflächenwasserkörpers kennzeichnend sind. Zur Beurteilung der Auswirkungen dieser Belastungen sind zu überwachen:
+    a) die Parameter, die Indikatoren für die biologischen Qualitätskomponenten sind, die auf Belastungen der Wasserkörper oder Wasserkörpergruppen am empfindlichsten reagieren,
+    b) prioritäre Stoffe, für die es Einleitungen oder Einträge im Einzugsgebiet der für den Oberflächenwasserkörper repräsentativen Messstelle gibt,
+    c) bestimmte andere Schadstoffe, Nitrat und flussgebietsspezifische Schadstoffe, die in signifikanten Mengen im Sinne von Anlage 6 Nummer 2 Satz 2 in das Einzugsgebiet der für den Oberflächenwasserkörper repräsentativen Messstelle eingeleitet oder eingetragen werden, und
+    d) Parameter, die Indikatoren für die hydromorphologischen Qualitätskomponenten sind, die auf die ermittelten Belastungen der Wasserkörper oder Wasserkörpergruppen am empfindlichsten reagieren.
+3. Überwachung zu Ermittlungszwecken
+  Die Überwachung zu Ermittlungszwecken ist durchzuführen,
+  a) wenn die Gründe für Überschreitungen von Umweltqualitätsnormen unbekannt sind,
+  b) wenn aus der überblicksweisen Überwachung hervorgeht, dass die Bewirtschaftungsziele für den Oberflächenwasserkörper voraussichtlich nicht erreicht werden können und noch keine operative Überwachung festgelegt worden ist, oder
+  c) um das Ausmaß und die Auswirkungen unbeabsichtigter Verschmutzungen festzustellen.
+  In den Fällen des Satzes 1 Buchstabe b dient die Überwachung zu Ermittlungszwecken dazu, festzustellen, warum die Bewirtschaftungsziele voraussichtlich nicht erreicht werden.
+4. Überwachungsfrequenzen und Überwachungsintervalle
+  Die Überwachungsfrequenzen und -intervalle sollen so gewählt werden, dass ein hinreichender Grad der Zuverlässigkeit und Genauigkeit der Bewertung des Zustandes sowie der langfristigen Veränderungen erreicht wird.
+  Die Überwachungsfrequenzen sind so zu wählen, dass der Schwankungsbreite bei den Parametern, die auf natürliche und auf anthropogene Ursachen zurückgeht, Rechnung getragen wird. Die Zeitpunkte der Überwachung sind so festzulegen, dass sich die jahreszeitlich bedingten Schwankungen auf die Ergebnisse so gering wie möglich auswirken und die Veränderungen des Wasserkörpers als Auswirkungen anthropogener Belastungen so sicher wie möglich ausgewiesen werden. Erforderlichenfalls sind in verschiedenen Jahreszeiten desselben Jahres zusätzliche Überwachungen durchzuführen.
+  Die in nachstehender Tabelle aufgeführten Überwachungsfrequenzen und -intervalle für die Überwachung nach den Nummern 1 und 2 sind einzuhalten, sofern die zuständige Behörde auf Grund des aktuellen Wissensstands nichts Anderes festlegt. Insbesondere können die Überwachungsfrequenzen und -intervalle der operativen Überwachung nach Nummer 2 reduziert werden, wenn der Zustand der Oberflächenwasserkörper durch eine ausreichende Datenbasis zuverlässig und genau bewertet werden kann. Die Bewertung richtet sich nach den für die Belastungen kennzeichnenden Parametern der nachstehenden Tabelle. Eine zuverlässige und genaue Bewertung ist insbesondere dann möglich, wenn es sich nicht um eine signifikante Auswirkung handelt oder die ursächliche Belastung nicht mehr besteht oder kein Trend festzustellen ist.
+  Für die Überwachung nach Nummer 3 sind die Überwachungsfrequenzen im Einzelfall festzulegen.
+  Tabelle
+  Überwachungsfrequenzen und Überwachungsintervalle
+  | Qualitätskomponente | Überwachungsfrequenzen | Überwachungsintervalle |
+  |  | Flüsse | Seen | Übergangs-gewässer | Küsten-gewässer | Überblicks-überwachung | operative Überwachung |
+  | Gesamtstickstoff nach § 14 |
+  | Gesamtstickstoff | 13-mal pro Jahr | jährlich |
+  | Biologische Qualitätskomponenten nach Anlage 3 Nummer 1 |
+  | Phytoplankton | 6-mal pro Jahr (relevante Vegetations-periode) | 6-mal pro Jahr (relevante Vegetations-periode) |  | 6-mal pro Jahr (relevante Vegetations-periode) | alle 1 bis 3 Jahre | alle 3 Jahre für die die Belastung kennzeichnenden Parameter der empfindlichsten Qualitäts-komponente |
+  | Andere aquatische Flora | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | 1-mal pro Jahr | 1- bis 2-mal pro Jahr | alle 1 bis 3 Jahre |
+  | Makrozoobenthos | 1- bis 2-mal pro Jahr | 1-mal pro Jahr | 1-mal pro Jahr | 1-mal pro Jahr | alle 1 bis 3 Jahre |
+  | Fische | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | – | alle 1 bis 3 Jahre einzelfallbezogen |
+  | Hydromorphologische Qualitätskomponenten nach Anlage 3 Nummer 2 |
+  | Durchgängigkeit | einmalige bedarfsgerechte Erhebung, fortlaufende Fortschreibung | – | – | – | alle 6 Jahre Aktualisierung | alle 6 Jahre Aktualisierung |
+  | Hydrologie | Kontinuierlich fortlaufend | 1-mal pro Monat | – | – |  |  |
+  | Morphologie | einmalige bedarfsgerechte Erhebung, fortlaufende Fortschreibung | einmalige bedarfsgerechte Erhebung, fortlaufende Fortschreibung | einmalige bedarfsgerechte Erhebung, fortlaufende Fortschreibung | einmalige bedarfsgerechte Erhebung, fortlaufende Fortschreibung | alle 6 Jahre Aktualisierung | alle 6 Jahre Aktualisierung |
+  | Chemische Qualitätskomponenten nach Anlage 3 Nummer 3.1 in Verbindung mit Anlage 6 |
+  | Flussgebietsspezifische Schadstoffe | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | mindestens einmal in sechs Jahren | mindestens einmal in drei Jahren |
+  | Allgemeine physikalisch-chemische Qualitätskomponenten nach Anlage 3 Nummer 3.2 in Verbindung mit Anlage 7 |
+  | Wärmebe-dingungen | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | mindestens einmal in sechs Jahren | mindestens einmal in drei Jahren |
+  | Sauerstoffgehalt | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr |
+  | Salzgehalt | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | – |
+  | Nährstoffzustand | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr |
+  | Versauerungszustand | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | – | – |
+  | Prioritäre Stoffe, Nitrat und bestimmte andere Schadstoffe nach Anlage 8 |
+  | Prioritäre Stoffe nach Anlage 8 Tabelle 1 Spalte 8 in der Wasserphase | 12-mal pro Jahr | 12-mal pro Jahr | 12-mal pro Jahr | 12-mal pro Jahr | mindestens einmal in sechs Jahren | mindestens einmal in drei Jahren |
+  | Prioritäre Stoffe nach Anlage 8 Tabelle 1 Spalte 8 in Biota | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | mindestens einmal in sechs Jahren | mindestens einmal in drei Jahren |
+  | Ubiquitäre Stoffe nach Anlage 8 Tabelle 1 Spalte 7 | Für diese Stoffe ist eine weniger intensive Überwachung als für andere prioritäre Stoffe möglich, sofern die Überwachung repräsentativ ist und bereits statistisch gesicherte Erkenntnisse hinsichtlich des Vorkommens dieser Stoffe in der aquatischen Umwelt zur Verfügung stehen. Der Mindestumfang der Überwachung entspricht der Trendüberwachung für Stoffe nach Anlage 8 Tabelle 1 Spalte 6 in Biota, Schwebstoffen oder Sedimenten. |
+  | Stoffe nach Anlage 8 Tabelle 1 Spalte 6 in Biota, Schwebstoffen oder Sedimenten | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | 1- bis 2-mal pro Jahr | Nur an Messstellen für die Trendüberwachung mindestens einmal in drei Jahren |  |
+  | Bestimmte andere Schadstoffe nach Anlage 8 Tabelle 1 Spalte 9 | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | 4- bis 13-mal pro Jahr | mindestens einmal in sechs Jahren | mindestens einmal in drei Jahren |
+5. Zusätzliche Überwachungsanforderungen für Entnahmestellen zur Trinkwassergewinnung und Schutzgebiete
+  5.1 Entnahmestellen zur Trinkwassergewinnung
+    Stellen in Oberflächenwasserkörpern, denen pro Tag durchschnittlich mehr als 100 Kubikmeter Wasser zur Trinkwassergewinnung entnommen werden, sind als Überwachungsstellen auszuweisen und insoweit zusätzlich zu überwachen, als dies für die Erfüllung der Anforderungen notwendig ist. Diese Oberflächenwasserkörper sind in Bezug auf alle eingeleiteten prioritären Stoffe, Nitrat und auf alle anderen in signifikanten Mengen eingeleiteten Stoffe, die sich auf den Zustand des Oberflächenwasserkörpers auswirken könnten und nach Anlage 2 und Anlage 3 Teil I Nummer 2, 3 oder 17 der Trinkwasserverordnung überwacht werden, zu überwachen. Anlage 6 Nummer 2 gilt entsprechend. Die Entnahmestellen zur Trinkwassergewinnung sind in der in nachstehender Tabelle angegebenen Frequenz zu überwachen.
+    Tabelle
+    Überwachungsfrequenzen
+    | Versorgte Bevölkerung | Frequenz |
+    | < 10 000 | viermal im Jahr |
+    | 10 000 bis 30 000 | achtmal im Jahr |
+    | > 30 000 | zwölfmal im Jahr |
+  5.2 Überwachungsanforderungen für Habitat- und Artenschutzgebiete nach § 7 Absatz 1 Nummer 6, 7 und 8 des Bundesnaturschutzgesetzes
+    Oberflächenwasserkörper, die Habitat- oder Artenschutzgebiete nach § 7 Absatz 1 Nummer 6, 7 oder Nummer 8 des Bundesnaturschutzgesetzes sind, sind in das operative Überwachungsprogramm einzubeziehen, sofern die Abschätzung der Auswirkungen anthropogener Belastungen und die überblicksweise Überwachung ergeben, dass diese Gebiete die festgelegten Bewirtschaftungsziele möglicherweise nicht erfüllen.
+    Die Überwachung wird durchgeführt, um das Ausmaß und die Auswirkungen aller relevanten signifikanten Belastungen und erforderlichenfalls die Veränderungen des Zustands infolge der Maßnahmenprogramme zu beurteilen. Die Überwachung ist so lange fortzuführen, bis die Gebiete die wasserbezogenen Anforderungen der Rechtsvorschriften erfüllen, nach denen sie ausgewiesen worden sind, und bis sie die für sie geltenden Bewirtschaftungsziele erreichen.

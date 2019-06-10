@@ -1,0 +1,3 @@
+# Art 3 Inkrafttreten des Grundgesetzes
+
+Mit dem Wirksamwerden des Beitritts tritt das Grundgesetz für die Bundesrepublik Deutschland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 100-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz vom 21. Dezember 1983 (BGBl. I S. 1481), in den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen sowie in dem Teil des Landes Berlin, in dem es bisher nicht galt, mit den sich aus Artikel 4 ergebenden Änderungen in Kraft, soweit in diesem Vertrag nichts anderes bestimmt ist.

@@ -1,0 +1,29 @@
+# Anlage 1 (zu § 2 Abs. 2 und § 4 Abs. 3 und 6)Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
+
+Fundstelle des Originaltextes: BGBl. I 2002, 1372
+| Sammelkategorie 1: |
+| 13 01 10 | nichtchlorierte Hydrauliköle auf Mineralölbasis |
+| 13 02 05 | nichtchlorierte Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis |
+| 13 02 06 | synthetische Maschinen-, Getriebe- und Schmieröle |
+| 13 02 08 | andere Maschinen-, Getriebe- und Schmieröle |
+| 13 03 07 | nichtchlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis |
+| Sammelkategorie 2: |
+| 12 01 07 | halogenfreie Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen) |
+| 12 01 10 | synthetische Bearbeitungsöle |
+| 13 01 11 | synthetische Hydrauliköle |
+| 13 01 13 | andere Hydrauliköle |
+| Sammelkategorie 3: |
+| 12 01 06 | halogenhaltige Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen) |
+| 13 01 01 | Hydrauliköle, die PCB enthalten, mit einem PCB-Gehalt von nicht mehr als 50 mg/kg |
+| 13 01 09 | chlorierte Hydrauliköle auf Mineralölbasis |
+| 13 02 04 | chloriere Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis |
+| 13 03 01 | Isolier- und Wärmeübertragungsöle, die PCB enthalten, mit einem PCB-Gehalt von nicht mehr als 50 mg/kg |
+| 13 03 06 | chlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis mit Ausnahme derjenigen, die unter 13 03 01 fallen |
+| Sammelkategorie 4: |
+| 13 01 12 | biologisch leicht abbaubare Hydrauliköle |
+| 13 02 07 | biologisch leicht abbaubare Maschinen-, Getriebe- und Schmieröle |
+| 13 03 08 | synthetische Isolier- und Wärmeübertragungsöle |
+| 13 03 09 | biologisch leicht abbaubare Isolier- und Wärmeübertragungsöle |
+| 13 03 10 | andere Isolier- und Wärmeübertragungsöle |
+| 13 05 06 | Öle aus Öl-/Wasserabscheidern |
+| 13 07 01 | Heizöl und Diesel |

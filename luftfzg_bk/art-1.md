@@ -1,0 +1,7 @@
+# Art 1
+
+Dieses Übereinkommen findet nur auf zivile Luftfahrzeuge Anwendung, die im Hoheitsgebiet eines Vertragsstaates hergestellt worden sind und von einem Vertragsstaat in einen anderen eingeführt werden, unter der Voraussetzung, daß diese Luftfahrzeuge
+a) in Übereinstimmung mit den im Herstellerstaat geltenden Gesetzen und sonstigen die Lufttüchtigkeit betreffenden Rechtsvorschriften hergestellt wurden,
+b) den anwendbaren Mindestanforderungen betreffend die Lufttüchtigkeit entsprechen, die auf Grund des Abkommens über die Internationale Zivilluftfahrt aufgestellt wurden,
+c) den Betriebsvorschriften des Einfuhrstaates entsprechen können und
+d) allen sonstigen besonderen Bedingungen genügen, die nach Maßgabe des Artikels 4 notifiziert werden.

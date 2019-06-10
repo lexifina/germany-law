@@ -1,0 +1,10 @@
+# Anlage 2 Prüfziffer
+
+(Fundstelle: BGBl. I 1996, 1725)
+| Die Prüfziffer wird wie folgt berechnet: |
+|  |  |
+| 1. | Die Ziffern der ersten zehn Stellen der Mitgliedsnummer werden - an der ersten Stelle beginnend - mit den Faktoren 2, 7, 6, 5, 4, 3, 2, 7, 6 und 5 multipliziert. |
+| 2. | Die Produkte werden zu einer Gesamtsumme addiert. |
+| 3. | Die Gesamtsumme wird so oft um den Wert "11" vermindert, bis der verbleibende Rest kleiner als 11 ist. |
+| 4. | Ist der verbleibende Rest 0 oder 1, ist die Prüfziffer = 0. |
+| 5. | Ist der verbleibende Rest größer als 1, besteht die Prüfziffer aus der Differenz zwischen dem Wert "11" und dem verbleibenden Rest. |

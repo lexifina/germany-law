@@ -1,0 +1,8 @@
+# Art 39 Sport
+
+(1)
+Die in dem in Artikel 3 genannten Gebiet in Umwandlung befindlichen Strukturen des Sports werden auf Selbstverwaltung umgestellt. Die öffentlichen Hände fördern den Sport ideell und materiell nach der Zuständigkeitsverteilung des Grundgesetzes.
+(2)
+Der Spitzensport und seine Entwicklung in dem in Artikel 3 genannten Gebiet wird, soweit er sich bewährt hat, weiter gefördert. Die Förderung erfolgt im Rahmen der in der Bundesrepublik Deutschland bestehenden Regeln und Grundsätze nach Maßgabe der öffentlichen Haushalte in dem in Artikel 3 genannten Gebiet. In diesem Rahmen werden das Forschungsinstitut für Körperkultur und Sport (FKS) in Leipzig, das vom Internationalen Olympischen Kommittee (IOC) anerkannte Dopingkontrollabor in Kreischa (bei Dresden) und die Forschungs- und Entwicklungsstelle für Sportgeräte (FES) in Berlin (Ost) - in der jeweils angemessenen Rechtsform - als Einrichtungen im vereinten Deutschland in erforderlichem Umfang fortgeführt oder bestehenden Einrichtungen angegliedert.
+(3)
+Für eine Übergangszeit bis zum 31. Dezember 1992 unterstützt der Bund den Behindertensport.

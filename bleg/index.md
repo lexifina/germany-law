@@ -1,0 +1,17 @@
+# Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Rechtsform, Name, Sitz](0001.md)
+- [§ 2 Aufgaben](0002.md)
+- [§ 3 Organe](0003.md)
+- [§ 4 Präsident](0004.md)
+- [§ 5 Verwaltungsrat](0005.md)
+- [§ 6 Rechte und Aufgaben des Verwaltungsrats](0006.md)
+- [§ 7 Fachbeiräte](0007.md)
+- [§ 8 Satzungsgebung und Aufsicht](0008.md)
+- [§ 9 Verwaltungshaushaltsplan](0009.md)
+- [§ 10 Wirtschaftsplan, Kreditermächtigung](0010.md)
+- [§ 11 Beamte](0011.md)
+- [§ 12 Angestellte, Arbeiter](0012.md)
+- [(XXXX) §§ 13 bis 15 (weggefallen)](xxxx-13-bis-15.md)
+- [§ 16 Berichtigung von Bezeichnungen](0016.md)

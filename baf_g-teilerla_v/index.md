@@ -1,0 +1,21 @@
+# Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Prüfungsstelle](0001.md)
+- [§ 2 Abschlußprüfung](0002.md)
+- [§ 3 Prüfungsabsolvent/Geförderter](0003.md)
+- [§ 4 Kalenderjahr](0004.md)
+- [§ 5 Vergleichsgruppen](0005.md)
+- [§ 6 Bildung der Rangfolge](0006.md)
+- [§ 7 Besonderheiten bei der Vergleichsgruppen- und
+Rangfolgenbildung](0007.md)
+- [§ 8 Ranggleichheit](0008.md)
+- [§ 9](0009.md)
+- [§ 10 Anfechtungswirkungen](0010.md)
+- [§ 11 Auskunftspflichten](0011.md)
+- [§ 12 Festlegung der Rangfolge](0012.md)
+- [§ 13](0013.md)
+- [§ 14 Übergangsregelung](0014.md)
+- [§ 15 Berlin-Klausel](0015.md)
+- [§ 16 Inkrafttreten](0016.md)
+- [§ 17](0017.md)

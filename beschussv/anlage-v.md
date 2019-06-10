@@ -1,0 +1,28 @@
+# Anlage V Grenzwerte für Elektroimpulsgeräte nach § 15 Abs. 5
+
+( Fundstelle: BGBl. I 2006, 1524 - 1526;
+bzgl. der einzelnen Änderungen vgl. Fußnote )
+1 Dauer der Anwendung (Entladezeit) bis 4 s
+  Stromstärke (Körperstrom) I(tief)eff* <= 500 mA (Lastwiderstand 1.000 Ohm)
+  bei einer Impulsdauer t <= 0,1 ms und Impulsfrequenz <= 50/s
+  und
+  Spezifische Energie* <= 5 x 10(hoch)-3 A(hoch)2s
+  (* = I2(tief)eff t (I(tief)ff = Körperstrom (Elektrodenstrom) Effektivwert))
+2 Dauer der Anwendung (Entladezeit) bis 10 s
+  Stromstärke (Körperstrom) I(tief)eff* <= 300 mA (Lastwiderstand 1.000 Ohm)
+  bei einer Impulsdauer t <= 0,1 ms und Impulsfrequenz <= 50/s
+  und
+  Spezifische Energie* <= 5 x 10(hoch)-3 A(hoch)2s
+  (* = I(hoch)2(tief)eff t (I(tief)eff = Körperstrom (Elektrodenstrom) Effektivwert))
+3 Dauer der Anwendung (Entladezeit) bis 100 s
+  Stromstärke (Körperstrom) I(tief)eff* <= 50 mA (Lastwiderstand 1.000 Ohm)
+  bei einer Impulsdauer t <= 0,1 ms und Impulsfrequenz <= 50/s
+  und
+  Spezifische Energie* <= 5 x 10(hoch)-3 A(hoch)2s
+  (* = I(hoch)2(tief)eff t (I(tief)eff = Körperstrom (Elektrodenstrom) Effektivwert))
+4 Spezifische Energie
+  Die „spezifische Energie“, die sich auf Einzelimpulse bezieht, wird in den Nummern 1 bis 3 mit
+  I(hoch)2(tief)eff x T
+  bezeichnet. Es handelt sich hier nicht um eine Energie im physikalischen Sinn. Für die Berechnung dieser Größe ist das Quadrat der effektiven Stromstärke multipliziert mit der Periodendauer zu bestimmen.
+5 Begrenzung der Anwendungsdauer
+  Die Geräte sollen sich nach der genannten Dauer der Entladezeit selbsttätig abschalten. Eine erneute Auslösung des Elektroimpulses vor Ablauf von 2 s nach der Abschaltung soll nicht möglich sein.

@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Die Bundesregierung und die Landesregierungen bestimmen in ihrem jeweiligen Geschäftsbereich die Behörden, die für die Beglaubigung nach Artikel 2 des Vertrages zuständig sind (Artikel 5 Abs. 1 Nr. 1 des Vertrages). Als zuständige Behörde kann auch der Präsident eines Gerichts bestimmt werden.
+(2)
+Rechtsverordnungen der Bundesregierung nach Absatz 1 bedürfen nicht der Zustimmung des Bundesrates.

@@ -1,0 +1,3 @@
+# Art 3
+
+Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 7 des Abkommmens aus der Französischen Republik zugeleitet, so führt es eine Äußerung der Person, Stelle oder Behörde herbei, welche die Urkunde errichtet hat. Läßt diese Äußerung Zweifel an der Eigenschaft der Urkunde als öffentliche Urkunde bestehen, so holt das Bundesverwaltungsamt gegebenenfalls eine Äußerung der Behörde oder Stelle ein, von der die Person, Stelle oder Behörde, welche die Urkunde errichtet hat, ihre Befugnis zur Errichtung von Urkunden ableitet oder deren Weisungen sie unterliegt. Artikel 2 Satz 2 findet Anwendung. Das Bundesverwaltungsamt übermittelt die Auskunft der ersuchenden Stelle.

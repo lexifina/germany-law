@@ -1,0 +1,13 @@
+# Anlage 7 (zu § 10 Absatz 3 Satz 3)Belehrung gemäß § 10 Absatz 3 Satz 3
+
+Die für die beliehenen Verbände tätigen Prüfer erhalten Entscheidungsbefugnisse für die Ausübung ihrer Prüfungstätigkeit und treten dem Bewerber um eine Fahrerlaubnis als Hoheitsträger gegenüber.
+Dies erfordert von ihnen fachliche Qualifikationen, Erfahrungen im Wassersport und im Umgang mit Menschen und schließlich auch persönliche Integrität. Diese Voraussetzungen müssen sie jederzeit erfüllen. Der Verlust auch nur einer dieser Eigenschaften kann zur Entlassung aus dem Amt des Prüfers führen.
+Die Prüfer haben folgende Rechte und Pflichten:
+– einen zur Prüfung zugelassenen Bewerber zurückzuweisen, wenn er erkennbar die Anforderungen an die Zuverlässigkeit oder die Tauglichkeit nicht oder nicht mehr erfüllt;
+– in der Prüfung den Umfang der Befähigung des Bewerbers festzustellen;
+– in der Prüfungskommission über Bestehen oder Nichtbestehen der Prüfung, über Erteilung oder Nichterteilung der Fahrerlaubnis sowie ggf. über zu erteilende Auflagen zu entscheiden;
+– während der Prüfung Ruhe und Ordnung aufrechtzuerhalten, um im Interesse aller Bewerber einen ordnungsgemäßen Prüfungsablauf zu gewährleisten;
+– alle Entscheidungen nach Maßgabe der gesetzlichen Vorschriften zu treffen und dabei die Richtlinien des Bundesministeriums für Verkehr und digitale Infrastruktur, die sonstigen Anordnungen der Verbände sowie die Weisungen der zuständigen Fachaufsichtsbehörde zu beachten;
+– sich bei Entscheidungen, die nach pflichtgemäßem Ermessen zu treffen sind, ausschließlich von sachgerechten Erwägungen leiten zu lassen und sachfremde Überlegungen nicht zu berücksichtigen;
+– sich den Bewerbern gegenüber höflich, aber bestimmt zu verhalten.
+Über die Belehrung ist eine Niederschrift nach Anhang 1 zu Anlage 7 zu führen.

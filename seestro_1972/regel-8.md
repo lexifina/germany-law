@@ -1,0 +1,11 @@
+# Regel 8 Manöver zur Vermeidung von Zusammenstößen
+
+a) Jedes Manöver zur Vermeidung eines Zusammenstoßes muss in Übereinstimmung mit den Regeln dieses Teiles erfolgen und, wenn es die Umstände zulassen, entschlossen, rechtzeitig und so ausgeführt werden, wie gute Seemannschaft es erfordert.
+b) Jede Änderung des Kurses und/oder der Geschwindigkeit zur Vermeidung eines Zusammenstoßes muß, wenn es die Umstände zulassen, so groß sein, daß ein anderes Fahrzeug optisch oder durch Radar sie schnell erkennen kann; aufeinanderfolgende kleine Änderungen des Kurses und/oder der Geschwindigkeit sollen vermieden werden.
+c) Ist genügend Seeraum vorhanden, so kann eine Kursänderung allein die wirksamste Maßnahme zum Meiden des Nahbereichs sein, vorausgesetzt, daß sie rechtzeitig vorgenommen wird, durchgreifend ist und nicht in einen anderen Nahbereich führt.
+d) Ein Manöver zur Vermeidung eines Zusammenstoßes mit einem anderen Fahrzeug muß zu einem sicheren Passierabstand führen. Die Wirksamkeit des Manövers muß sorgfältig überprüft werden, bis das andere Fahrzeug endgültig vorbei und klar ist.
+e) Um einen Zusammenstoß zu vermeiden oder mehr Zeit zur Beurteilung der Lage zu gewinnen, muß ein Fahrzeug erforderlichenfalls seine Fahrt mindern oder durch Stoppen oder Rückwärtsgehen jegliche Fahrt wegnehmen.
+f)
+i) Ein Fahrzeug, das auf Grund einer dieser Regeln verpflichtet ist, die Durchfahrt oder die sichere Durchfahrt eines anderen Fahrzeugs nicht zu behindern, muß, wenn es die Umstände erfordern, frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen.
+  ii) Ein Fahrzeug, das verpflichtet ist, die Durchfahrt oder die sichere Durchfahrt eines anderen Fahrzeugs nicht zu behindern, ist von dieser Verpflichtung nicht befreit, wenn es sich dem anderen Fahrzeug so nähert, daß die Möglichkeit der Gefahr eines Zusammenstoßes besteht, und muß, wenn es Maßnahmen ergreift, in vollem Umfang die Maßnahmen berücksichtigen, die nach den Regeln dieses Teiles vorgeschrieben sind.
+  iii) Ein Fahrzeug, dessen Durchfahrt nicht behindert werden darf, bleibt in vollem Umfang verpflichtet, die Regeln dieses Teiles einzuhalten, wenn die beiden Fahrzeuge sich einander so nähern, daß die Möglichkeit der Gefahr eines Zusammenstoßes besteht.

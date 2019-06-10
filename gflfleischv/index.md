@@ -1,0 +1,15 @@
+# Verordnung über Vermarktungsnormen für Geflügelfleisch
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Ausnahmen](0002.md)
+- [§ 3 Verbot des Inverkehrbringens](0003.md)
+- [§ 4 Kennzeichnung von Geflügelfleisch](0004.md)
+- [§ 5 Marktnotierungen](0005.md)
+- [§ 6 Vorschriften für Schlachthöfe und Zerlegungsbetriebe](0006.md)
+- [§ 7 Analyseverfahren zur Feststellung des Wassergehaltes, Gegenanalyse](0007.md)
+- [§ 8 Anordnungen der zuständigen Behörden](0008.md)
+- [§ 8a Überwachung, Duldungs- und Auskunftspflichten](0008a.md)
+- [§ 9 Ordnungswidrigkeiten](0009.md)
+- [§ 10 Inkrafttreten, Außerkrafttreten](0010.md)
+- [Schlussformel](schlussformel.md)

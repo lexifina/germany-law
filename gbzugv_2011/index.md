@@ -1,0 +1,18 @@
+# Berufszugangsverordnung für den Güterkraftverkehr
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Persönliche Zuverlässigkeit](0002.md)
+- [§ 3 Finanzielle Leistungsfähigkeit](0003.md)
+- [§ 4 Fachliche Eignung](0004.md)
+- [§ 5 Fachkundeprüfung](0005.md)
+- [§ 6 Prüfungsausschuss](0006.md)
+- [§ 7 Gleichwertige Abschlussprüfungen](0007.md)
+- [§ 8 Übergangsregelung für die Anerkennung leitender Tätigkeit](0008.md)
+- [§ 9 Geltungsumfang beschränkter Fachkundebescheinigungen](0009.md)
+- [§ 10 Erlaubnisverfahren](0010.md)
+- [§ 11 Kontrolle](0011.md)
+- [§ 12 Ordnungswidrigkeiten](0012.md)
+- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu § 10 Absatz 4)](anlage-1.md)

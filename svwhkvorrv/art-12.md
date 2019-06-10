@@ -1,0 +1,8 @@
+# Art 12 Weitere steuerliche Regelungen
+
+(1)
+Die entsandten Mitarbeiter des Büros sind von der Einkommensteuer auf das Gehalt und andere Vergütungen oder Erstattungen, die ihnen vom Büro für die amtliche Tätigkeit gezahlt werden, befreit.
+(2)
+In Bezug auf die bei ihnen Beschäftigen haben die entsandten Mitarbeiter des Büros und ihre Familienangehörigen die Verpflichtungen für Arbeitgeber in Bezug auf die Lohnsteuer einzuhalten.
+(3)
+Die normalerweise im Preis von Waren oder Dienstleistungen enthaltenen indirekten Steuern werden nach Maßgabe der jeweils für ausländische ständige berufskonsularische Vertretungen und deren Mitglieder in der Bundesrepublik Deutschland geltenden Regelungen erstattet.

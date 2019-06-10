@@ -1,0 +1,144 @@
+# Straßenverkehrsgesetz
+
+
+## I. Verkehrsvorschriften
+
+- [§ 1 Zulassung](0001.md)
+- [§ 1a Kraftfahrzeuge mit hoch- oder vollautomatisierter Fahrfunktion](0001a.md)
+- [§ 1b Rechte und Pflichten des Fahrzeugführers bei Nutzung hoch- oder vollautomatisierter Fahrfunktionen](0001b.md)
+- [§ 1c Evaluierung](0001c.md)
+- [§ 2 Fahrerlaubnis und Führerschein](0002.md)
+- [§ 2a Fahrerlaubnis auf Probe](0002a.md)
+- [§ 2b Aufbauseminar bei Zuwiderhandlungen innerhalb der Probezeit](0002b.md)
+- [§ 2c Unterrichtung der Fahrerlaubnisbehörden durch das Kraftfahrt-Bundesamt](0002c.md)
+- [§ 3 Entziehung der Fahrerlaubnis](0003.md)
+- [§ 4 Fahreignungs-Bewertungssystem](0004.md)
+- [§ 4a Fahreignungsseminar](0004a.md)
+- [§ 4b Evaluierung](0004b.md)
+- [§ 5 Verlust von Dokumenten und Kennzeichen](0005.md)
+- [§ 5a](0005a.md)
+- [§ 5b Unterhaltung der Verkehrszeichen](0005b.md)
+- [§ 6 Ausführungsvorschriften](0006.md)
+- [§ 6a Gebühren](0006a.md)
+- [§ 6b Herstellung, Vertrieb und Ausgabe von Kennzeichen](0006b.md)
+- [§ 6c Herstellung, Vertrieb und Ausgabe von Kennzeichenvorprodukten](0006c.md)
+- [§ 6d Auskunft und Prüfung](0006d.md)
+- [§ 6e Führen von Kraftfahrzeugen in Begleitung](0006e.md)
+- [§ 6f Entgelte für Begutachtungsstellen für Fahreignung](0006f.md)
+- [§ 6g Internetbasierte Zulassungsverfahren bei Kraftfahrzeugen](0006g.md)
+
+## II. Haftpflicht
+
+- [§ 7 Haftung des Halters, Schwarzfahrt](0007.md)
+- [§ 8 Ausnahmen](0008.md)
+- [§ 8a Entgeltliche Personenbeförderung, Verbot des
+Haftungsausschlusses](0008a.md)
+- [§ 9 Mitverschulden](0009.md)
+- [§ 10 Umfang der Ersatzpflicht bei Tötung](0010.md)
+- [§ 11 Umfang der Ersatzpflicht bei Körperverletzung](0011.md)
+- [§ 12 Höchstbeträge](0012.md)
+- [§ 12a Höchstbeträge bei Beförderung gefährlicher Güter](0012a.md)
+- [§ 12b Nichtanwendbarkeit der Höchstbeträge](0012b.md)
+- [§ 13 Geldrente](0013.md)
+- [§ 14 Verjährung](0014.md)
+- [§ 15 Verwirkung](0015.md)
+- [§ 16 Sonstige Gesetze](0016.md)
+- [§ 17 Schadensverursachung durch mehrere Kraftfahrzeuge](0017.md)
+- [§ 18 Ersatzpflicht des Fahrzeugführers](0018.md)
+- [§ 19](0019.md)
+- [§ 20 Örtliche Zuständigkeit](0020.md)
+
+## III. Straf- und Bußgeldvorschriften
+
+- [§ 21 Fahren ohne Fahrerlaubnis](0021.md)
+- [§ 22 Kennzeichenmissbrauch](0022.md)
+- [§ 22a Missbräuchliches Herstellen, Vertreiben oder Ausgeben von
+Kennzeichen](0022a.md)
+- [§ 22b Missbrauch von Wegstreckenzählern und Geschwindigkeitsbegrenzern](0022b.md)
+- [§ 23 Feilbieten nicht genehmigter Fahrzeuge, Fahrzeugteile und Ausrüstungen](0023.md)
+- [§ 24 Verkehrsordnungswidrigkeit](0024.md)
+- [§ 24a 0,5 Promille-Grenze](0024a.md)
+- [§ 24b Mangelnde Nachweise für Herstellung, Vertrieb und
+Ausgabe von Kennzeichen](0024b.md)
+- [§ 24c Alkoholverbot für Fahranfänger und Fahranfängerinnen](0024c.md)
+- [§ 25 Fahrverbot](0025.md)
+- [§ 25a Kostentragungspflicht des Halters eines Kraftfahrzeugs](0025a.md)
+- [§ 26 Zuständige Verwaltungsbehörde; Verjährung](0026.md)
+- [§ 26a Bußgeldkatalog](0026a.md)
+- [§ 27 Informationsschreiben](0027.md)
+
+## IV. Fahreignungsregister
+
+- [§ 28 Führung und Inhalt des Fahreignungsregisters](0028.md)
+- [§ 28a Eintragung beim Abweichen vom Bußgeldkatalog](0028a.md)
+- [§ 28b](0028b.md)
+- [§ 29 Tilgung der Eintragungen](0029.md)
+- [§ 30 Übermittlung](0030.md)
+- [§ 30a Direkteinstellung und Abruf im automatisierten Verfahren](0030a.md)
+- [§ 30b Automatisiertes Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt](0030b.md)
+- [§ 30c Ermächtigungsgrundlagen, Ausführungsvorschriften](0030c.md)
+
+## V. Fahrzeugregister
+
+- [§ 31 Registerführung und Registerbehörden](0031.md)
+- [§ 32 Zweckbestimmung der Fahrzeugregister](0032.md)
+- [§ 33 Inhalt der Fahrzeugregister](0033.md)
+- [§ 34 Erhebung der Daten](0034.md)
+- [§ 35 Übermittlung von Fahrzeugdaten und Halterdaten](0035.md)
+- [§ 36 Abruf im automatisierten Verfahren](0036.md)
+- [§ 36a Automatisiertes Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt](0036a.md)
+- [§ 36b Abgleich mit den Sachfahndungsdaten des Bundeskriminalamtes](0036b.md)
+- [§ 37 Übermittlung von Fahrzeugdaten und Halterdaten an Stellen außerhalb des Geltungsbereiches dieses Gesetzes](0037.md)
+- [§ 37a Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes](0037a.md)
+- [§ 37b Übermittlung von Fahrzeug- und Halterdaten nach der Richtlinie (EU) 2015/413](0037b.md)
+- [§ 37c Übermittlung von Fahrzeugdaten und Halterdaten an die Europäische Kommission](0037c.md)
+- [§ 38 Übermittlung für die wissenschaftliche Forschung](0038.md)
+- [§ 38a Übermittlung und Nutzung für statistische Zwecke](0038a.md)
+- [§ 38b Übermittlung und Nutzung für planerische Zwecke](0038b.md)
+- [§ 39 Übermittlung von Fahrzeugdaten und Halterdaten
+zur Verfolgung von Rechtsansprüchen](0039.md)
+- [§ 40 Übermittlung sonstiger Daten](0040.md)
+- [§ 41 Übermittlungssperren](0041.md)
+- [§ 42 Datenvergleich zur Beseitigung von Fehlern](0042.md)
+- [§ 43 Allgemeine Vorschriften für die Datenübermittlung, Verarbeitung
+und Nutzung der Daten durch den Empfänger](0043.md)
+- [§ 44 Löschung der Daten in den Fahrzeugregistern](0044.md)
+- [§ 45 Anonymisierte Daten](0045.md)
+- [§ 46](0046.md)
+- [§ 47 Ermächtigungsgrundlagen, Ausführungsvorschriften](0047.md)
+
+## VI. Fahrerlaubnisregister
+
+- [§ 48 Registerführung und Registerbehörden](0048.md)
+- [§ 49 Zweckbestimmung der Register](0049.md)
+- [§ 50 Inhalt der Fahrerlaubnisregister](0050.md)
+- [§ 51 Mitteilung an das Zentrale Fahrerlaubnisregister](0051.md)
+- [§ 52 Übermittlung](0052.md)
+- [§ 53 Direkteinstellung und Abruf im automatisierten Verfahren](0053.md)
+- [§ 54 Automatisiertes Mitteilungs-, Anfrage- und Auskunftsverfahren beim Kraftfahrt-Bundesamt](0054.md)
+- [§ 55 Übermittlung von Daten an Stellen außerhalb des
+Geltungsbereiches dieses Gesetzes](0055.md)
+- [§ 56 Abruf im automatisierten Verfahren durch Stellen außerhalb des Geltungsbereiches dieses Gesetzes](0056.md)
+- [§ 57 Übermittlung und Nutzung von Daten für wissenschaftliche,
+statistische und gesetzgeberische Zwecke](0057.md)
+- [§ 58 Auskunft über eigene Daten aus den Registern](0058.md)
+- [§ 59 Datenvergleich zur Beseitigung von Fehlern](0059.md)
+- [§ 60 Allgemeine Vorschriften für die Datenübermittlung, Verarbeitung
+und Nutzung der Daten durch den Empfänger](0060.md)
+- [§ 61 Löschung der Daten](0061.md)
+- [§ 62 Register über die Dienstfahrerlaubnisse der Bundeswehr](0062.md)
+- [§ 63 Ermächtigungsgrundlagen, Ausführungsvorschriften](0063.md)
+
+## VIa. Datenverarbeitung
+
+- [§ 63a Datenverarbeitung bei Kraftfahrzeugen mit hoch- oder vollautomatisierter Fahrfunktion](0063a.md)
+- [§ 63b Ermächtigungsgrundlagen](0063b.md)
+- [§ 63c Datenverarbeitung im Rahmen der Überprüfung der Einhaltung von Verkehrsbeschränkungen und Verkehrsverboten aufgrund immissionsschutzrechtlicher Vorschriften oder aufgrund straßenverkehrsrechtlicher Vorschriften zum Schutz vor Abgasen](0063c.md)
+
+## VII. Gemeinsame Vorschriften, Übergangsbestimmungen
+
+- [§ 64 Gemeinsame Vorschriften](0064.md)
+- [§ 65 Übergangsbestimmungen](0065.md)
+- [§ 66 Verkündung von Rechtsverordnungen](0066.md)
+- [Anlage (zu § 24a)](anlage.md)
+- [Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III(BGBl. II 1990, 889, 1099)- Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -](anhang-ev.md)

@@ -1,0 +1,7 @@
+# Eingangsformel
+
+Auf Grund
+- des § 3 Abs. 1 Nr. 1 bis 5, 8 des Binnenschiffahrtsaufgabengesetzes in der Fassung der Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270) und des § 3e Abs. 1 Satz 1 des Binnenschiffahrtsaufgabengesetzes, der durch Artikel 5 Nr. 3 des Gesetzes vom 13. August 1993 (BGBl. I S. 1489) geändert worden ist, und auf Grund des § 27 Abs. 1 und des § 46 Satz 1 Nr. 1 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. August 1990 (BGBl. I S. 1818) verordnet das Bundesministerium für Verkehr,
+- des § 3 Abs. 5 Satz 1 und des § 3e Abs. 1 Satz 2 Nr. 1 des Binnenschiffahrtsaufgabengesetzes in Verbindung mit Artikel 56 des Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß des Bundeskanzlers vom 5. Juni 1986 (BGBl. I S. 864) verordnet das Bundesministerium für Verkehr gemeinsam mit dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+- des § 3 Abs. 5 Satz 2 und des § 3e Abs. 1 Satz 2 Nr. 2 des Binnenschiffahrtsaufgabengesetzes verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Arbeit und Sozialordnung,
+- des § 3 Abs. 5 Satz 4, der gemäß Artikel 66 der Verordnung vom 26. Februar 1993 (BGBl. I S. 278) insoweit geändert worden ist, und des § 3e Abs. 1 Satz 2 Nr. 2 des Binnenschiffahrtsaufgabengesetzes verordnet das Bundesministerium für Verkehr im Einvernehmen mit dem Bundesministerium für Post und Telekommunikation:

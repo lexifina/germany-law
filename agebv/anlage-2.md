@@ -1,0 +1,167 @@
+# Anlage 2 (zu § 5 Absatz 1 Nummer 2, § 9 Absatz 1 Nummer 1 Buchstabe b und § 10 Absatz 2 Nummer 2)
+
+Besondere pauschale Stundensätze
+(Berechnungsschema für behördenspezifische Pauschalsätze)
+| Kostenblock | Besoldungs- bzw. Entgeltgruppe/Zweckbestimmung | Festtitel gemäß Haushaltssystematik des Bundes |
+| 1. Personaleinzelkosten |
+| 1.1 Beamtinnen und Beamte |
+| 1.1.1 steuerpflichtiges Brutto | A 2 |  |
+| A 3 |  |
+| A 4 |  |
+| A 5 |  |
+| A 6 |  |
+| einfacher Dienst A 2 bis A 6 |  |
+| A 6 |  |
+| A 7 |  |
+| A 8 |  |
+| A 9 |  |
+| A 9 + Zulage |  |
+| mittlerer Dienst A 6 bis A 9 + Zulage |  |
+| A 9 |  |
+| A 10 |  |
+| A 11 |  |
+| A 12 |  |
+| A 13 |  |
+| A 13 + Zulage |  |
+| gehobener Dienst A 9 bis A 13 + Zulage |  |
+| A 13 |  |
+| A 14 |  |
+| A 15 |  |
+| A 16 |  |
+| höherer Dienst A 13 bis A 16 |  |
+| 1.1.2 Versorgung % von 1.1.1 | Verwaltungsbeamtinnen und -beamte |  |
+| einfacher Dienst27,9 | einfacher Dienst | 27,9 |  |
+| mittlerer Dienst27,9 | mittlerer Dienst | 27,9 |  |
+| gehobener Dienst29,3 | gehobener Dienst | 29,3 |  |
+| höherer Dienst36,9 | höherer Dienst | 36,9 |  |
+| Polizeivollzugsbeamtinnen und -beamte |  |
+| einfacher Dienst32,6 | einfacher Dienst | 32,6 |  |
+| mittlerer Dienst32,6 | mittlerer Dienst | 32,6 |  |
+| gehobener Dienst32,6 | gehobener Dienst | 32,6 |  |
+| höherer Dienst32,6 | höherer Dienst | 32,6 |  |
+| 1.1.3 sonstige Personalnebenkosten |
+|  | Beihilfen aufgrund der Beihilfevorschriften sowie Heilfürsorge der Polizeivollzugsbeamtinnen und -beamten | Z 441 .1 sowie 443 .3 |
+| Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/‑kräften | Z 443 .1 |
+| Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen | 453 .1 |
+| wenn bei Dienstreisen Trennungsgeld als Auslage abgerechnet wird: 5% dieses Titels |
+| vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 459 .9 |
+| 1.2 Arbeitnehmerinnen und Arbeitnehmer |
+| 1.2.1 steuerpflichtiges Brutto | E 2 |  |
+| E 2 (übertarifliche Bezahlung) |  |
+| E 3 |  |
+| E 4 |  |
+| einfacher Dienst E 2 bis E 4 |  |
+| E 5 |  |
+| E 6 |  |
+| E 7 |  |
+| E 8 |  |
+| E 9 a |  |
+| mittlerer Dienst E 5 bis E 9 a |  |
+| E 9 b |  |
+| E 10 |  |
+| E 11 |  |
+| E 12 |  |
+| gehobener Dienst E 9 b bis E 12 |  |
+| E 13 |  |
+| E 14 |  |
+| E 15 |  |
+| E 15 (übertarifliche Bezahlung) |  |
+| höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung) |  |
+| 1.2.2 Personalnebenkosten Bezüge | E 2 |  |
+| E 2 (übertarifliche Bezahlung) |  |
+| E 3 |  |
+| E 4 |  |
+| einfacher Dienst E 2 bis E 4 |  |
+| E 5 |  |
+| E 6 |  |
+|  | E 7 |  |
+| E 8 |  |
+| E 9 a |  |
+| mittlerer Dienst E 5 bis E 9 a |  |
+| E 9 b |  |
+| E 10 |  |
+| E 11 |  |
+| E 12 |  |
+| gehobener Dienst E 9 b bis E 12 |  |
+| E 13 |  |
+| E 14 |  |
+| E 15 |  |
+| E 15 (übertarifliche Bezahlung) |  |
+| höherer Dienst E 13 bis E 15 (übertarifliche Bezahlung) |  |
+| 1.2.3 sonstige Personalnebenkosten |
+|  | Fürsorgeleistungen und Unterstützungen einschließlich Inanspruchnahme von besonderen Fachdiensten/-kräften | Z 443 .1 |
+| Unfallversicherung Bund und Bahn | Z 452 02 |
+| Trennungsgeld, Fahrtkostenzuschüsse sowie Umzugskostenvergütungen | 453 .1 |
+| wenn bei Dienstreisen Trennungsgeld als Auslage abgerechnet wird: 5 % dieses Titels |
+| vermischte Personalausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 459 .9 |
+| 2. Sacheinzelkosten |
+| 2.1 sächliche Verwaltungsausgaben |
+|  | Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände, Software, Wartung | 511 .1 |
+| Verbrauchsmittel, Haltung von Fahrzeugen und dergleichen | 514 .1 |
+| wenn Hubschrauber als Auslage abgerechnet werden: 72 % dieses Titels |
+| wenn Boote oder Schiffe als Auslage abgerechnet werden: 89 % dieses Titels |
+| Mieten und Pachten | 518 .1 |
+| Aus- und Fortbildung | 525 .1 |
+|  | Dienstreisen | 527 .1 |
+| wenn Dienstreisen als Auslage abgerechnet werden: Ansatz dieses Titels: 0 Euro |
+| Sachverständige, Ausgaben für Mitglieder von Fachbeiräten und ähnlichen Ausschüssen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 526 .2 |
+| wenn Sachverständige als Auslage abgerechnet werden: 60 % dieses Titels |
+| außergewöhnlicher Aufwand aus dienstlicher Veranlassung in besonderen Fällen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 529 .1 |
+| Aufträge und Dienstleistungen im Bereich Informationstechnik – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .1 |
+| behördenspezifische fachbezogene Verwaltungsausgaben (ohne Informationstechnik) – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .2 |
+| sonstige Dienstleistungsaufträge an Dritte – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 532 .3 wenn sonstige Dienstleistungsaufträge an Dritte als Auslage abgerechnet werden: Ansatz dieses Titels: 0 Euro |
+| vermischte Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 539 .9 |
+| Öffentlichkeitsarbeit – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 542 .1 |
+| Veröffentlichungen, Fachinformationen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 543 .1 |
+| Forschung, Untersuchungen und Ähnliches – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 544 .1 |
+| Konferenzen, Tagungen, Messen und Ausstellungen – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | Z 545 .1 |
+| nicht aufteilbare sächliche Verwaltungsausgaben – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 547 .1 |
+| 2.2 Investitionen |
+|  | kleine Neu-, Um- und Erweiterungsbauten (weniger als 2 Mio. Euro pro Baumaßnahme) | 711 .1 |
+|  | Erwerb von Fahrzeugen | 811 .1 |
+| wenn Wasserwerfer als Auslage abgerechnet werden: 87 % dieses Titels |
+| Erlöse aus der Veräußerung von beweglichen Sachen | 132 .1 |
+| Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für Verwaltungszwecke (ohne IT) | 812 .1 |
+| Erwerb von Anlagen, Geräten, Ausstattungs- und Ausrüstungsgegenständen sowie Software im Bereich Informationstechnik | 812 .2 |
+| Baumaßnahmen von mehr als 2 Mio. Euro im Einzelfall – soweit die Kosten mit der gebührenfähigen Leistung verbunden sind (§ 3) | 712 .1 |
+| 2.3 Büroräume |
+|  | Bewirtschaftung der Grundstücke, Gebäude und Räume | 517 .1 |
+| Mieten und Pachten im Zusammenhang mit dem einheitlichen Liegenschaftsmanagement | 518 .2 |
+| Unterhaltung der Grundstücke und baulichen Anlagen | 519 .1 |
+| 2.4 pauschaler Abschlag von 2.1 bis 2.3 | – 4 % |
+| 3. Gemeinkosten |
+| Zuschlagssatz auf Personaleinzel- und Sacheinzelkosten in Prozent |  |
+| 3.1 relevante Organisationseinheiten, die interne Leistungen erbringen |
+| Leitung |
+| Stabstellen |
+| interne Beauftragte (z. B. Datenschutzbeauftragte) |
+| Controlling |
+| interne Revision |
+| Bereich Organisation/Personal/Haushalt (einschließlich Fortbildungsreferate, Gleichstellungsbeauftragte) |
+| Liegenschaftsverwaltung |
+| Informationstechnik |
+| Arbeitsschutz |
+| Justiziariat (ohne Gerichts- und Widerspruchsverfahren) |
+| Innerer Dienst |
+| Sprachendienst |
+| Bibliothek |
+| Druckerei |
+| Beihilfestelle (nur für aktive Beamtinnen und Beamte) |
+| Stelle für Reisekosten, Umzugskosten, Trennungsgeld |
+| Bezügestelle |
+| Personalvertretung |
+| 3.2 Rechts- und Fachaufsicht |
+| 4. Personalstruktur |
+| 4.1 Anzahl |
+|  | Beamtinnen und Beamte (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte) |  |
+| Arbeitnehmerinnen und Arbeitnehmer |  |
+| 4.2 Vollzeitäquivalente |
+|  | Beamtinnen und Beamte (gegebenenfalls Differenzierung in Verwaltungsbeamtinnen und -beamte sowie Polizeivollzugsbeamtinnen und -beamte) |  |
+| Arbeitnehmerinnen und Arbeitnehmer |  |
+|  | Beamtinnen und Beamte |  |
+| Arbeitnehmerinnen und Arbeitnehmer |  |
+| 5. Arbeitsleistung |
+| Arbeitsstunden |  | pro Monat |
+|  | Beamtinnen und Beamte |  |
+| Arbeitnehmerinnen und Arbeitnehmer |  |
+.

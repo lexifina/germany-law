@@ -1,0 +1,7 @@
+# Anlage Zusatzvertrag mit Lübeck
+
+Fundstelle des Originaltextes: BGBl. Teil III 94 S. 53
+Die Reichsregierung und der Senat der Freien und Hansestadt Lübeck vereinbaren unter Vorbehalt der Zustimmung ihrer gesetzgebenden Körperschaften zu dem Staatsvertrag, betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich, die nachstehende Zusatzbestimmung:
+Zu § 1
+Die Vertragschließenden sind darüber einig, daß die Anlagen und Einrichtungen für den Schleppbetrieb auf dem Elbe-Trave-Kanal dem Lande Lübeck vorläufig verbleiben. Das Reich stimmt der weiteren Ausübung des bestehenden Schleppmonopolbetriebs zu.
+Diese Vereinbarungen gelten zunächst auf die Dauer von 10 Jahren. Für die Zeit nach dem 31. März 1931 bleibt anderweite Regelung vorbehalten.

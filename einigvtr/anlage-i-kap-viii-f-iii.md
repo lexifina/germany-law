@@ -1,0 +1,8 @@
+# Anlage I Kap VIII F III Anlage I Kapitel VIIISachgebiet F - Sozialversicherung (Allgemeine Vorschriften)Abschnitt III
+
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Maßgaben in Kraft:
+1. Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung - vom 23. Dezember 1976 (BGBl. I S. 3845), zuletzt geändert durch Gesetz vom 23. März 1990 (BGBl. I S. 582),
+  mit folgenden Maßgaben:
+  a) Artikel I §§ 4 und 5 gilt auch entsprechend im Verhältnis der in Artikel 1 Abs. 1 des Vertrages genannten Länder sowie des Teils des Landes Berlin, in dem das Grundgesetz bisher nicht galt, zu den übrigen Ländern, solange unterschiedliche Bezugsgrößen in der Sozialversicherung bestehen.
+  b) bis o) (nicht mehr anzuwenden)
+2. bis 11. (nicht mehr anzuwenden)

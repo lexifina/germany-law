@@ -1,0 +1,34 @@
+# Anlage 1 (zu § 2 Absatz 2)
+
+Die in § 2 Absatz 1 aufgeführten Laufbahnen umfassen folgende Ämter:
+Einfacher Dienst
+|  | Amtsbezeichnungen |
+| Zu der Laufbahn gehörende Ämter | im nichttechnischen Postverwaltungsdienst | im technischen Postverwaltungsdienst |
+| Ämter der Besoldungsgruppe A 3 | Postoberschaffnerin/Postoberschaffner |  |
+| Ämter der Besoldungsgruppe A 4 | Posthauptschaffnerin/ Posthauptschaffner | Postoberwartin/Postoberwart |
+| Ämter der Besoldungsgruppe A 5 | Postbetriebsassistentin/ Postbetriebsassistent | Posthauptwartin/Posthauptwart |
+| Ämter der Besoldungsgruppe A 6 | Postbetriebsassistentin/ Postbetriebsassistent | Posthauptwartin/Posthauptwart |
+Mittlerer Dienst
+|  | Amtsbezeichnungen |
+| Zu der Laufbahn gehörende Ämter | im nichttechnischen Postverwaltungsdienst | im technischen Postverwaltungsdienst |
+| Ämter der Besoldungsgruppe A 6 | Postsekretärin/Postsekretär |  |
+| Ämter der Besoldungsgruppe A 7 | Postobersekretärin/ Postobersekretär | Technische Postobersekretärin/ Technischer Postobersekretär |
+| Ämter der Besoldungsgruppe A 8 | Posthauptsekretärin/ Posthauptsekretär | Technische Posthauptsekretärin/Technischer Posthauptsekretär |
+| Ämter der Besoldungsgruppe A 9 | Postbetriebsinspektorin/ Postbetriebsinspektor | Technische Postbetriebsinspektorin/Technischer Postbetriebsinspektor |
+Gehobener Dienst
+|  | Amtsbezeichnungen |
+| Zu der Laufbahn gehörende Ämter | im nichttechnischen Postverwaltungsdienst | im technischen Postverwaltungsdienst |
+| Ämter der Besoldungsgruppe A 9 | Postinspektorin/Postinspektor | Technische Postinspektorin/ Technischer Postinspektor |
+| Ämter der Besoldungsgruppe A 10 | Postoberinspektorin/Postoberinspektor | Technische Postoberinspektorin/Technischer Postoberinspektor |
+| Ämter der Besoldungsgruppe A 11 | Postamtfrau/Postamtmann | Technische Postamtfrau/ Technischer Postamtmann |
+| Ämter der Besoldungsgruppe A 12 | Postamtsrätin/Postamtsrat | Technische Postamtsrätin/ Technischer Postamtsrat |
+| Ämter der Besoldungsgruppe A 13 | Postoberamtsrätin/Postoberamtsrat | Technische Postoberamtsrätin/ Technischer Postoberamtsrat |
+Höherer Dienst
+|  | Amtsbezeichnungen |
+| Zu der Laufbahn gehörende Ämter | im nichttechnischen Postverwaltungsdienst | im technischen Postverwaltungsdienst |
+| Ämter der Besoldungsgruppe A 13 | Posträtin/Postrat | Posträtin/Postrat |
+| Ämter der Besoldungsgruppe A 14 | Postoberrätin/Postoberrat | Postoberrätin/Postoberrat |
+| Ämter der Besoldungsgruppe A 15 | Postdirektorin/Postdirektor | Postdirektorin/Postdirektor |
+| Ämter der Besoldungsgruppe A 16 | Leitende Postdirektorin/ Leitender Postdirektor;Abteilungspräsidentin/Abteilungspräsident | Leitende Postdirektorin/Leitender Postdirektor; Abteilungspräsidentin/Abteilungspräsident |
+| Ämter der Besoldungsgruppe B 2 | Abteilungspräsidentin/ Abteilungspräsident | Abteilungspräsidentin/ Abteilungspräsident |
+| Ämter der Besoldungsgruppe B 3 | Leitende Postdirektorin/ Leitender Postdirektor | Leitende Postdirektorin/ Leitender Postdirektor |

@@ -1,0 +1,25 @@
+# Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen
+
+Für ein Wirtschaftsjahr betragen
+1. der Grundbetrag und die Zuschläge für Tierzucht und Tierhaltung der landwirtschaftlichen Nutzung (§ 13a Absatz 4):
+  | Gewinn pro Hektar selbstbewirtschafteter Fläche | 350 EUR |
+  | bei Tierbeständen für dieersten 25 Vieheinheiten | 0 EUR/Vieheinheit |
+  | bei Tierbeständen für alleweiteren Vieheinheiten | 300 EUR/Vieheinheit |
+  Angefangene Hektar und Vieheinheiten sind anteilig zu berücksichtigen.
+2. die Grenzen und Gewinne der Sondernutzungen (§ 13a Absatz 6):
+  | Nutzung | Grenze | Grenze |
+  | 1 | 2 | 3 |
+  | Weinbauliche Nutzung | 0,66 ha | 0,16 ha |
+  | Nutzungsteil Obstbau | 1,37 ha | 0,34 ha |
+  | Nutzungsteil GemüsebauFreilandgemüseUnterglas Gemüse | 0,67 ha 0,06 ha | 0,17 ha 0,015 ha |
+  | Nutzungsteil Blumen/ZierpflanzenbauFreiland ZierpflanzenUnterglas Zierpflanzen | 0,23 ha 0,04 ha | 0,05 ha 0,01 ha |
+  | Nutzungsteil Baumschulen | 0,15 ha | 0,04 ha |
+  | SondernutzungSpargel | 0,42 ha | 0,1 ha |
+  | SondernutzungHopfen | 0,78 ha | 0,19 ha |
+  | Binnenfischerei | 2 000 kg Jahresfang | 500 kgJahresfang |
+  | Teichwirtschaft | 1,6 ha | 0,4 ha |
+  | Fischzucht | 0,2 ha | 0,05 ha |
+  | Imkerei | 70 Völker | 30 Völker |
+  | Wanderschäfereien | 120 Mutterschafe | 30 Mutterschafe |
+  | Weihnachtsbaumkulturen | 0,4 ha | 0,1 ha |
+3. in den Fällen des § 13a Absatz 7 Satz 1 Nummer 3 die Betriebsausgaben 60 Prozent der Betriebseinnahmen.

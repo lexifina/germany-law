@@ -1,0 +1,9 @@
+# Art 1
+
+Der Scheck enthält:
+1. die Bezeichnung als Scheck im Texte der Urkunde, und zwar in der Sprache, in der sie ausgestellt ist;
+2. die unbedingte Anweisung, eine bestimmte Geldsumme zu zahlen;
+3. den Namen dessen, der zahlen soll (Bezogener);
+4. die Angabe des Zahlungsorts;
+5. die Angabe des Tages und des Ortes der Ausstellung;
+6. die Unterschrift des Ausstellers.

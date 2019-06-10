@@ -1,0 +1,3 @@
+# Art 63
+
+Die Wirkungen der Scheckerklärungen bestimmen sich nach dem Recht des Landes, in dessen Gebiete die Erklärungen unterschrieben worden sind.

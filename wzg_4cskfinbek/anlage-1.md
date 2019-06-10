@@ -1,0 +1,11 @@
+# Anlage 1
+
+Amtliche Prüfzeichen der Tschechischen und Slowakischen Föderativen Republik ab 1991 für Meßgeräte
+TCS
+Zeichen für die Bauartzulassung, das von den staatlichen metrologischen Behörden an einem Meßgerät angebracht wird. Das Zeichen besteht aus den Buchstaben TCS mit der Ordnungszahl und dem Jahr der Zulassung.
+CS
+Prüfzeichen, das von den dem Bundesamt für Normen und Maße unmittelbar nachgeordneten staatlichen metrologischen Behörden an einem Meßgerät angebracht wird. Das Prüfzeichen besteht aus den Buchstaben CS mit der Zahl für die zuständige Prüfbehörde und gibt im Fall der regelmäßigen Prüfung auch das Jahr der Prüfung an.
+K
+Prüfzeichen, das von den vom Bundesamt für Normen und Maße zur Prüfung befugten Unternehmen an einem Meßgerät angebracht wird. Das Prüfzeichen besteht aus dem Buchstaben K und der das Unternehmen kennzeichnenden Nummer und gibt im Fall der regelmäßigen Prüfung auch das Jahr der Prüfung an.
+C
+Eichzeichen, das durch die vom Bundesamt für Normen und Maße zugelassenen Unternehmen an einem Prüfgerät angebracht wird. Das Eichzeichen besteht aus dem Buchstaben C mit der das Unternehmen kennzeichnenden Nummer.

@@ -1,0 +1,124 @@
+# Anlage 2 zum Anhang Sicherheitsabstände nach Nummer 2.2.2 des Anhangs für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4
+
+1 Allgemeines
+  1.1 Jedes Lager stellt sowohl ein gefährdendes Objekt (Donator) als auch ein gefährdetes Objekt (Akzeptor) dar.
+  1.2 Die Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppen 1.1 und 1.3 sind nach der Formel
+    E = k X M(hoch)1/3*)
+    zu berechnen, soweit nicht Mindestabstände festgelegt sind.
+  1.3 Für Lager mit Explosivstoffen der Lagergruppen 1.2 und 1.4 sind Mindestabstände festgelegt.
+  1.4 Der Abstand zwischen zwei Lagern muss sowohl vom Donator als auch vom Akzeptor berechnet werden; für den Sicherheitsabstand ist der jeweils größere Wert maßgebend.
+  1.5 Bei der Festlegung der Wirkungsrichtung an den Ausblaseseiten ist der in der nachstehenden Abbildung schraffierte Bereich (Öffnungswinkel 60 Grad) zu berücksichtigen.
+-----
+*) E = Abstand in Meter.
+k = Konstante, die von den Lagergruppen sowie der Bauart und den Schutzeinrichtungen des Donators und des Akzeptors abhängig ist.
+M = Nettoexplosivstoffmasse in Kilogramm.
+1.6 Werden Explosivstoffe der Lagergruppe 1.3 so gelagert, dass bei einer Entzündung mit einer Explosion zu rechnen ist, so gelten für diese Lager die Sicherheitsabstände der Lagergruppe 1.1.
+2 Sicherheitsabstände für Lager in Betrieben, in denen Explosivstoffe hergestellt, verarbeitet, bearbeitet, wiedergewonnen oder vernichtet werden
+2.1 In Abhängigkeit von ihrer Bauart sind für Lager mit Explosivstoffen
+  - der Lagergruppen 1.1 und 1.3 die k-Faktoren oder die Mindestabstände in den Tabellen 1 und 2 sowie 5,
+  - der Lagergruppen 1.2 und 1.4 die Sicherheitsabstände in den Tabellen 3 und 4 sowie 6
+  aufgeführt. Bei den Tabellen ist jeweils die Spalte mit dem Symbol zu verwenden, das den Verhältnissen in Wirkungsrichtung entspricht.
+2.2 Für Lager mit Explosivstoffen der Lagergruppe 1.1 müssen die Abstände vergrößert werden, wenn durch die Bauart oder die Lage des Gebäudes (Donator) eine gerichtete Wirkung (Fokussierung) zu erwarten ist.
+2.3 Für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.3 kann der Abstand verringert werden oder entfallen, wenn es sich um kleine Nettoexplosivstoffmassen handelt oder durch die Art der Explosivstoffe oder durch bauliche Maßnahmen gewährleistet ist, dass eine gefährliche Wirkung in bestimmter Richtung nicht auftreten kann.
+2.4 Plätze sind Gebäuden in leichter Bauart gleichzustellen. Auch die Gebäude des ungefährlichen Betriebsteils sind als Akzeptor zu betrachten.
+2.5 Gebäude mit Explosivstoffen ohne ständige Arbeitsplätze werden wie Gebäude der Spalten A 5 bis A 8 der Tabellen 1 bis 5 behandelt.
+3 Sicherheitsabstände bei sonstigen Lagern
+  Für Lager mit Explosivstoffen der Lagergruppen 1.1 bis 1.4 sind in der Regel die k-Faktoren bzw. die Mindestabstände in Abhängigkeit von der Bauart entsprechend Tabelle 7 heranzuziehen.
+Tabelle 1
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.1 nach Anlage 2 Nummer 2
+— k-Faktoren und Mindestabstände —
+| Explosivstoffe, die bei einer Explosionkeine schweren Sprengstücke bilden | Gefährlicher Betriebsteil | Ungefährlicher Betriebsteil |
+| In Einwirkungsrichtung |
+| Gebäude und Plätze mit Explosivstoffen (ausgenommen Lager) | Lager mit Explosivstoffen | sonstige Gebäude |
+| erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | Gebäude, die der Herstellung dienen | sonstige Gebäude |
+| Gefährdetes Objekt (Akzeptor A) Gefährdendes Objekt (Donator D) |
+| A 1 | A 2 | A 3 | A 4 | A 5 | A 6 | A 7 | A 8 | A 9 | A 10 | A 11 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| In Wirkungsrichtung | erdüberdeckt | D 1 |  | 2,5 | 3,0 | 3,5 | 4,0 | 0,8 | 2,5 | 3,0 | 4,0 | 4,0 | 8,0 (30 m) | 8,0 (30 m)**) |
+| mit Wall, schwere Dachausführung | D 2 |  | 2,5 | 4,0 | 6,0 | 6,0 | 0,8 | 2,5 | 4,0 | 6,0 | 4,0 | 8,0 (30 m)**) | 8,0 (30 m)**) |
+| mit Wall*), leichte Dachausführung | D 3 |  | 2,5 | 3,0 | 3,5 | 5,0 | 0,8 | 2,5 | 3,0 | 5,0 | 4,02) | 8,0 (30 m)**) | 8,0 (30 m)**) |
+| ohne Wall*) | D 4 |  | 2,5 | 4,5 | 6,0 | 8,0 | 0,8 | 2,5 | 4,0 | 8,01) | 6,0 (30 m)**) | 8,01) (30 m)**) | 8,01) (30 m)**) |
+| Bemerkungen: | Bei Lagermengen von mehr als 1 000 kg NEM muss das Lager mit einer Erdüberschüttung versehen oder in gewachsenen Fels oder standfesten Boden eingebaut sein. |
+|  | Bei Lagermengen bis 1 000 kg NEM genügt die Umwallung des Lagers (vgl. Nr. 2.4.1 Abs. 3). |
+Tabelle 2
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.1 nach Anlage 2 Nummer 2
+— k-Faktoren und Mindestabstände —
+| Explosivstoffe, die bei einer Explosionschwere Sprengstücke bilden | Gefährlicher Betriebsteil | Ungefährlicher Betriebsteil |
+| In Einwirkungsrichtung |
+| Gebäude und Plätze mit Explosivstoffen (ausgenommen Lager) | Lager mit Explosivstoffen | sonstige Gebäude |
+| erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | Gebäude, die der Herstellung dienen | sonstige Gebäude |
+| Gefährdetes Objekt (Akzeptor A) Gefährdendes Objekt (Donator D) |
+| A 1 | A 2 | A 3 | A 4 | A 5 | A 6 | A 7 | A 8 | A 9 | A 10 | A 11 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| In Wirkungsrichtung | erdüberdeckt | D 1 |  | 2,5 | 3,0 | 3,5 | 4,0 | 0,8 | 2,5 | 3,0 | 4,0 | 8,0 (40 m)**) | 8,0 (40 m) | 8,0 (150 m)**) |
+| mit Wall, schwere Dachausführung | D 2 |  | 2,5 | 4,0 | 6,0 | 6,0 | 0,8 | 3,0 | 4,0 | 6,01) | 8,0 (40 m)**) | 8,01) (40 m)**) | 8,0 (150 m)**) |
+| mit Wall*), leichte Dachausführung | D 3 |  | 2,5 | 4,0 | 6,01) | 8,01) | 0,8 | 3,0 | 6,01) | 8,01) | 8,01) (40 m)**) | 8,01) (40 m)**) | 8,0 (150 m)**) |
+| ohne Wall*) | D 4 |  | 2,5 | 6,0 | 8,01) | 8,01) (180 m) | 0,8 | 4,5 | 8,01) | 8,01) (180 m)**) | 8,01) (180 m)**) | 8,01) (180 m)**) | 8,0 (275 m)**) |
+| Bemerkungen: | Bei Lagermengen von mehr als 1 000 kg NEM muss das Lager mit einer Erdüberschüttung versehen oder in gewachsenen Fels oder standfesten Boden eingebaut sein. |
+|  | Bei Lagermengen bis 1 000 kg NEM genügt die Umwallung des Lagers (vgl. Nr. 2.4.1 Abs. 3). |
+(BGBl. I 2010, 1683)
+Tabelle 3
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.2 nach Anlage 2 Nummer 2
+— Mindestabstände —
+| Explosivstoffe, die bei einer Explosionkeine schweren Sprengstücke bilden | Gefährlicher Betriebsteil | Ungefährlicher Betriebsteil |
+| In Einwirkungsrichtung |
+| Gebäude und Plätze mit Explosivstoffen (ausgenommen Lager) | Lager mit Explosivstoffen | sonstige Gebäude |
+| erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | Gebäude, die der Herstellung dienen | sonstige Gebäude |
+| Gefährdetes Objekt (Akzeptor A) Gefährdendes Objekt (Donator D) |
+| A 1 | A 2 | A 3 | A 4 | A 5 | A 6 | A 7 | A 8 | A 9 | A 10 | A 11 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| In Wirkungsrichtung | erdüberdeckt | D 1 |  | (-) 25 m | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | 25 m | 40 m | 60 m |
+| mit Wall, schwere Dachausführung | D 2 |  | (-)**) 25 m1) | 15 m 25 m1) | 15 m 25 m1) | 15 m 25 m1) | (-)**) 25 m1) | 10 m 25 m1) | 15 m 25 m1) | 15 m 25 m1) | 25 m | 40 m | 60 m |
+| mit Wall*), leichte Dachausführung | D 3 |  | (-)**) 25 m1) | 25 m | 60 m | 75 m | (-)**) 25 m1) | 10 m 25 m1) | 60 m | 75 m | 75 m | 75 m | 90 m |
+| ohne Wall*) | D 4 |  | (-)**) 25 m1) | 25 m | 75 m | 90 m | (-)**) 25 m1) | 25 m | 75 m | 90 m | 90 m | 90 m | 90 m |
+Tabelle 4
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.2 nach Anlage 2 Nummer 2
+— Mindestabstände —
+| Explosivstoffe, die bei einer Explosionschwere Sprengstücke bilden | Gefährlicher Betriebsteil | Ungefährlicher Betriebsteil |
+| In Einwirkungsrichtung |
+| Gebäude und Plätze mit Explosivstoffen (ausgenommen Lager) | Lager mit Explosivstoffen | sonstige Gebäude |
+| erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | erdüberdeckt | mit Wall*) oder schweren Wänden und schwerer Dachausführung | mit Wall*) oder schweren Wänden und leichter Dachausführung | ohne Wall*) | Gebäude, die der Herstellung dienen | sonstige Gebäude |
+| Gefährdetes Objekt (Akzeptor A) Gefährdendes Objekt (Donator D) |
+| A 1 | A 2 | A 3 | A 4 | A 5 | A 6 | A 7 | A 8 | A 9 | A 10 | A 11 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| In Wirkungsrichtung | erdüberdeckt | D 1 |  | (-) 25 m | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | (-)**) 25 m1) | 40 m | 60 m | 75 m |
+| mit Wall, schwere Dachausführung | D 2 |  | (-)**) 25 m1) | 15 m 25 m1) | 40 m | 40 m | (-)**) 25 m1) | 10 m 25 m1) | 25 m | 25 m | 60 m | 75 m | 100 m |
+| mit Wall*), leichte Dachausführung | D 3 |  | (-)**) 25 m1) | 25 m | 100 m | 135 m | (-)**) 25 m1) | 10 m 25 m1) | 100 m | 135 m | 135 m | 135 m | 135 m |
+| ohne Wall*) | D 4 |  | (-)**) 25 m1) | 25 m | 135 m | 135 m | (-)**) 25 m1) | 25 m | 135 m | 135 m | 135 m | 135 m | 135 m |
+Tabelle 5
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.3 nach Anlage 2 Nummer 2
+— k-Faktoren und Mindestabstände —
+|  | Gefährlicher Betriebsteil | Ungefährlicher Betriebsteil |
+| In Einwirkungsrichtung |
+| Gebäude und Plätze mit Explosivstoffen (ausgenommen Lager) | Lager mit Explosivstoffen | sonstige Gebäude |
+| erdüberdeckt | öffnungslose Brandwand | Wand Feuerwider- standsklasse F 30 mit Wall*) | Wand Feuerwider- standsklasse F 30 ohne Wall*) oder Ausblaseseite mit oder ohne Wall*) | erdüberdeckt | öffnungslose Brandwand | Wand Feuerwider- standsklasse F 30 mit Wall*) | Wand Feuerwider- standsklasse F 30 ohne Wall*) oder Ausblaseseite mit oder ohne Wall*) | Gebäude, die der Herstellung dienen | sonstige Gebäude |
+| Gefährdetes Objekt (Akzeptor A) Gefährdendes Objekt (Donator D) |
+| A 1 | A 2 | A 3 | A 4 | A 5 | A 6 | A 7 | A 8 | A 9 | A 10 | A 11 |
+|  |  |  |  |  |  |  |  |  |  |  |
+| In Wirkungsrichtung | erdüberdeckt | D 1 |  | (-) | (10 m) | 1,0 (10 m) | 1,25 (15 m) | (-) | (-) | (-) | 1,25 (15 m) | 1,4 (15 m) | 1,4 (40 m) | 1,4 (60 m) |
+| öffnungslose Brandwand | D 2 |  | (10 m) | 1,0 (10 m) | 1,25 (15 m) | 1,4 (15 m) | (-) | (-) | 1,25 (10 m) | 1,4 (15 m) | 1,7 (15 m) | 1,7 (40 m) | 1,7 (60 m) |
+| Wand Feuerwiderstandsklasse F 30 mit Wall | D 3 |  | 1,0 (10 m) | 1,25 (15 m) | 1,4 (20 m) | 1,7 (25 m) | (-) | (-) | 1,4 (15 m) | 1,4 (20 m) | 2,5 (30 m) | 4,3 (40 m) | 4,3 (40 m) |
+| Wand Feuerwiderstandsklasse F 30 ohne Wall*) oder ungeschützt bzw. Ausblaseseite, aber mit Wall*) | D 4 |  | 1,4 (15 m) | 1,4 (15 m) | 1,7 (20 m) | 2,0(25 m) | (-) | 1,25 (10 m) | 1,4 (20 m) | 1,7 (20 m) | 3,2 (40 m) | 4,3 (60 m) | 4,3 (60 m) |
+| ungeschützt bzw. Ausblaseseite ohne Wall*) | D 5 |  | 1,4 (15 m) | 1,7 (20 m) | 2,0 (25 m) | 3,2 (40 m) | (-) | 1,4 (20 m) | 1,4 (25 m) | 3,21) (40 m) | 4,31) (60 m) | 4,31) (60 m) | 6,4 (60 m) |
+| Bemerkungen: | a) | Das Dach muss der gleichen Feuerwiderstandsklasse entsprechen wie die Wände. Dies gilt nicht für Gebäude mit Ausblaseseite, wenn das Dach als zusätzliche Entlastungsfläche dient. |
+|  | b) | Für Donatoren, in denen nach Art der Lagerbedingungen bei einer Entzündung der Explosivstoffe mit einer Explosion zu rechnen ist, sind die Abstände der Tabelle 1 einzuhalten. |
+|  | c) | Die Tabelle gilt für Mengen größer 10 kg; für kleinere Mengen ist der Abstand nach der Beziehung 0,1 × Menge [kg] × Mindestabstand [m] zu rechnen. |
+Tabelle 6
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.4 nach Anlage 2 Nummer 2
+Abstand der Gebäude untereinander mindestens 10 m.
+Ist durch bauliche Maßnahmen, mindestens durch eine Brandwand, gewährleistet, dass keine gefährliche Wirkung auf benachbarte Gebäude auftritt, kann der Abstand verringert werden oder er kann entfallen.
+Tabelle 7
+Sicherheitsabstände für Lager mit Explosivstoffen der Lagergruppe 1.1 bis 1.4 nach Anlage 2 Nummer 3
+— k-Faktoren und Mindestabstände —
+| Lagergruppe | Gefährdetes Objekt (Akzeptor A) Gefährdendes Objekt (Donator D) | Lager mit Explosivstoffen | Schutzbedürftige Betriebsgebäude und -anlagen |
+| In Einwirkungsrichtung ungeschützt | In Einwirkungsrichtung erdüberdeckt |
+| A 1 | A 2 | A 3 |
+|  |  |  |
+| 1.1 | D 1 | In Wirkungsrichtung ungeschützt |  | 8,0 (180 m) | 0,8 | 8,03) (180 m)*) |
+| D 2 | In Wirkungsrichtung erdüberdeckt |  | 4,0 | 0,8 | 4,04) |
+| 1.2 | D 1 | In Wirkungsrichtung ungeschützt |  | (90 m)*) | (25 m)*) | (90 m)4)*) |
+| D 2 | In Wirkungsrichtung erdüberdeckt |  | (-) | (-)5)**) | (25 m)*) |
+| 1.3 | D 1 | In Wirkungsrichtung ungeschützt bzw. Ausblaseseite |  | 3,22) (40 m)*) | (-)5)**) | 4,32) (60 m)*) |
+| D 2 | In Wirkungsrichtung ungeschützt, Wand jedoch mindestens Feuerwiderstandsklasse F 30 |  | 1,7 (20 m)*) | (-)5)**) | 3,2 (40 m)*) |
+| D 3 | In Wirkungsrichtung erdüberdeckt |  | 25 m | (-)**) | 1,4 (25 m)*) |
+| 1.4 | Abstand der Gebäude untereinander mindestens 10 m. Ist durch bauliche Maßnahmen, mindestens durch eine Brandwand, gewährleistet, dass keine gefährliche Wirkung auf benachbarte Gebäude auftritt, kann der Abstand verringert werden oder er kann entfallen. |

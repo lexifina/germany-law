@@ -1,0 +1,33 @@
+# Anlage 2 (zu den §§ 9 und 10)
+
+Fundstelle des Originaltextes: BGBl. I 1972, 282
+| 1. Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen ohne Rollfahrzeugbetrieb |
+| Bogenhalbmesser | Bogeninnenseite | Bogenaußenseite |
+| m | mm | mm |
+| >= 5.000 | 20 | 20 |
+| 2.000 | 25 | 25 |
+| 500 | 25 | 25 |
+| 400 | 30 | 30 |
+| 250 | 30 | 30 |
+| 225 | 35 | 35 |
+| 180 | 35 | 35 |
+| 150 | 40 | 40 |
+| 120 | 60 | 45 |
+| 100 | 80 | 55 |
+| 80 | 105 | 75 |
+| 60 | 150 | 105 |
+| 50 | 185 | 135 |
+| 40 | 240 | 175 |
+| Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der Vergrößerung sind auf volle 5 mm aufzurunden. |
+| 2. Vergrößerung der Gleisabstände bei Regelspurgleisen |
+| Bogenhalbmesser | Bogeninnenseite | Bogenaußenseite |
+| m | mm | mm |
+| 250 | 0 | 0 |
+| 225 | 25 | 30 |
+| 200 | 50 | 65 |
+| 190 | 65 | 80 |
+| 180 | 80 | 100 |
+| 150 | 135 | 170 |
+| 120 | 335 | 365 |
+| 100 | 530 | 570 |
+| Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der Vergrößerung sind auf volle 5 mm aufzurunden. |

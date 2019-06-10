@@ -1,0 +1,3 @@
+# Art 1 Auflösung, Übergang
+
+Die Deutsche Dienststelle (WASt) als Behörde des Landes Berlin ist mit Inkrafttreten dieses Staatsvertrags aufgelöst. Alle die Deutsche Dienststelle (WASt) betreffenden Aufgaben, Rechte, Pflichten und Verbindlichkeiten gehen mit Inkrafttreten dieses Staatsvertrags vom Land Berlin auf die Bundesrepublik Deutschland über. Das Bundesarchiv als Bundesoberbehörde im Geschäftsbereich der für Kultur und Medien zuständigen obersten Bundesbehörde nimmt für die Bundesrepublik Deutschland die nach Satz 2 übergegangenen Aufgaben, Rechte und Pflichten wahr und ist für die Erfüllung der übergegangenen Verbindlichkeiten verantwortlich.

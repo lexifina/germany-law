@@ -1,0 +1,6 @@
+# Vierte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Aufhebung der Anerkennung des Ausbildungsberufes Emailschriftenmaler/Emailschriftenmalerin](0001.md)
+- [§ 2 Besitzstandswahrung](0002.md)
+- [§ 3 Inkrafttreten](0003.md)

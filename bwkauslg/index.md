@@ -1,0 +1,31 @@
+# Bundesgesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der
+Kriegsopferversorgung für Berechtigte im Ausland
+
+
+## Personenkreis
+
+- [§ 1](0001.md)
+- [§ 2](0002.md)
+- [§ 3](0003.md)
+
+## Umfang der Wiedergutmachung
+
+- [§ 4](0004.md)
+- [§ 5](0005.md)
+- [§ 6](0006.md)
+- [§ 7](0007.md)
+- [§ 8](0008.md)
+
+## Fristen und Verfahren
+
+- [§ 9](0009.md)
+- [§ 10](0010.md)
+- [§ 11](0011.md)
+- [§ 12](0012.md)
+
+## Übergangs- und Schlußvorschriften
+
+- [§ 13](0013.md)
+- [§ 14](0014.md)
+- [§ 15](0015.md)
+- [§ 16](0016.md)

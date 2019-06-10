@@ -1,0 +1,33 @@
+# Anlage 3 (zu §§ 6, 7 Abs. 1 Nr. 4, Abs. 2 Nr. 1 und § 8 Abs. 1 Nr. 4)
+
+(Fundstelle: BGBl. I 1988, 2162;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+A. Krankheiten und Leiden beim Menschen
+1. Im Infektionsschutzgesetz vom 20. Juli 2000 (BGBl. I S. 1045) aufgeführte, durch Krankheitserreger verursachte Krankheiten
+2. Geschwulstkrankheiten
+3. Krankheiten des Stoffwechsels und der inneren Sekretion, ausgenommen Vitamin- und Mineralstoffmangel und alimentäre Fettsucht
+4. Krankheiten des Blutes und der blutbildenden Organe, ausgenommen Eisenmangelanämie
+5. organische Krankheiten
+  a) des Nervensystems
+  b) der Augen und Ohren, ausgenommen Blennorrhoe-Prophylaxe
+  c) des Herzens und der Gefäße, ausgenommen allgemeine Arteriosklerose und Frostbeulen
+  d) der Leber und des Pankreas
+  e) der Harn- und Geschlechtsorgane
+6. Geschwüre des Magens und des Darms
+7. Epilepsie
+8. Geisteskrankheiten, Psychosen, Neurosen
+9. Trunksucht
+10. Komplikationen der Schwangerschaft, der Entbindung und des Wochenbetts
+11. Krankheiten des Lungenparenchyms
+12. Wurmkrankheiten
+13. Krankhafte Veränderungen des Blutdrucks
+14. Ernährungskrankheiten des Säuglings
+15. Ekzeme, Schuppenflechten, infektiöse Hautkrankheiten
+B. Krankheiten und Leiden beim Tier
+1. Übertragbare Krankheiten der Tiere, ausgenommen nach tierseuchenrechtlichen Vorschriften nicht anzeigepflichtige ektoparasitäre und dermatomykotische Krankheiten
+2. Euterkrankheiten bei Kühen, Ziegen und Schafen, ausgenommen die Verhütung der Übertragung von Euterkrankheiten durch Arzneimittel, die zum äußeren Gebrauch bestimmt sind und deren Wirkung nicht auf der Resorption der wirksamen Bestandteile beruht
+3. Kolik bei Pferden und Rindern
+4. Stoffwechselkrankheiten und Krankheiten der inneren Sekretionsorgane, ausgenommen Vitamin- und Mineralstoffmangel
+5. Krankheiten des Blutes und der blutbildenden Organe
+6. Geschwulstkrankheiten
+7. Fruchtbarkeitsstörungen bei Pferden, Rindern, Schweinen, Schafen und Ziegen

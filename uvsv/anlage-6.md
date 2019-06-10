@@ -1,0 +1,45 @@
+# Anlage 6 (zu § 5 Absatz 1 Satz 1)Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
+
+Lernziele:
+Durch die Schulung soll das Fachpersonal befähigt werden, eine fachgerechte und für die Nutzerinnen und Nutzer nachvollziehbare Beratung zur Minimierung des gesundheitlichen Risikos durch UV-Bestrahlungsgeräte durchzuführen, eine individuelle Hauttypbestimmung vorzunehmen, einen individuellen Dosierungsplan zu erstellen, die gemäß dem Dosierungsplan vorgegebenen Geräteeinstellungen vorzunehmen sowie technische Defekte der Geräte zu erkennen. Es sollen Grundkenntnisse in den Themenfeldern UV-Strahlung (I), Gerätekunde (II) sowie Kundengespräch und -beratung (III) vermittelt werden.
+Lerninhalte:
+I UV-STRAHLUNG (ca. 30 Prozent)
+1 Physikalische Grundlagen
+  1.1 Grundbegriffe und Definitionen
+  1.2 Solare und künstliche UV-Strahlung
+  1.3 Messung der UV-Strahlung
+2 Wirkungen der UV-Strahlung auf den Menschen
+  2.1 Wirkung auf die Haut
+    2.1.1 Eindringtiefe der UV-Strahlung in die Haut
+    2.1.2 Stimulation des UV-Eigenschutzes der Haut
+    2.1.3 Akute Wirkungen
+    2.1.4 Chronische Wirkungen
+  2.2 Wirkung auf das Auge
+    2.2.1 Eindringtiefe der UV-Strahlung in das Auge
+    2.2.2 Akute Wirkungen
+    2.2.3 Chronische Wirkungen
+3 UV-Empfindlichkeit der Haut – Hauttypen
+4 Abhängigkeit der UV-Wirkungen von Spektrum, Dosis und Bestrahlungshäufigkeit
+5 Die Rolle der Erythemwirksamkeit als Grundlage der Dosierung
+II GERÄTEKUNDE (ca. 10 Prozent)
+1 Sonnenbank: Gerätetechnik und Betrieb
+  1.1 Aufbau einer Sonnenbank
+  1.2 Betrieb einer Sonnenbank
+  1.3 Kennzeichnung einer Sonnenbank
+  1.4 Einzuhaltende Gerätestandards
+2 Zuständigkeiten für die Gerätewartung
+3 Inhalte des Geräte- und Betriebsbuches
+III KUNDENGESPRÄCH UND -BERATUNG (ca. 60 Prozent)
+1 Information der Nutzerinnen und Nutzer
+  1.1 Ausschlusskriterien (Anlage 7 UVSV, Teil: Aushang im Geschäftsraum)
+  1.2 Hinweise (Anlage 7 UVSV, Teil: Aushang in der Kabine)
+  1.3 Schutzbrille (Anlage 3 UVSV)
+2 Bestimmung des Hauttyps (Anlage 1 UVSV)
+3 Dosierung der UV-Bestrahlung der Haut und Bestrahlungsplan (Anlage 5 UVSV)
+  3.1 Maximaldauer der ersten Bestrahlung ungebräunter Haut
+  3.2 Schwellenbestrahlung
+  3.3 Einzelbestrahlungen innerhalb einer Bestrahlungsserie
+  3.4 Bestrahlungspausen
+4 Dokumentation des Kundengesprächs
+Erwartungen an die Teilnahme an einer Schulung:
+Die Teilnehmerinnen und Teilnehmer der Schulung sollen fähig sein, das erworbene Wissen mit eigenen Worten wiederzugeben, eigenständig ein fachlich korrektes Beratungsgespräch zu führen und auf Kundenfragen zur UV-Bestrahlung und zu den damit verbundenen gesundheitlichen Risiken zu antworten.

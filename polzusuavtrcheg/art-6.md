@@ -1,0 +1,6 @@
+# Art 6
+
+(1)
+Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+(2)
+Die Tage, an denen der Vertrag gemäß Artikel 1 Abs. 1 nach seinem Artikel 50 Abs. 1 Satz 3 teilweise sowie nach Satz 5 im Übrigen in Kraft tritt, sowie die Tage, an denen die Verträge gemäß Artikel 1 Abs. 2 nach ihrem jeweiligen Artikel 3 in Kraft treten, sind im Bundesgesetzblatt bekannt zu geben.

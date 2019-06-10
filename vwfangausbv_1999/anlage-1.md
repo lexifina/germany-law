@@ -1,0 +1,100 @@
+# Anlage 1 (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Verwaltungsfachangestellten/zur Verwaltungsfachangestellten
+- Sachliche Gliederung -
+
+(Fundstelle: BGBl. I 1999, S. 1032 - 1035)
+| Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 3 Abs. 1 Nr. 1) |  |
+| 1.1 | Struktur, Stellung und Aufgaben des Ausbildungsbetriebes (§ 3 Abs. 1 Nr. 1.1) | a) | Stellung und Aufgaben des Ausbildungsbetriebes im Gesamtsystem der öffentlichen Verwaltung beschreiben |
+| b) | Rechtsform und Aufbau des Ausbildungsbetriebes erläutern |
+| c) | Zusammenarbeit des Ausbildungsbetriebes mit Behörden, Wirtschaftsorganisationen und Organisationen der Arbeitgeber und Arbeitnehmer darstellen |
+| 1.2 | Berufsbildung (§ 3 Abs. 1 Nr. 1.2) | a) | Rechte und Pflichten aus dem Ausbildungsverhältnis feststellen und Aufgaben der Beteiligten im dualen System beschreiben |
+| b) | Zusammenhänge zwischen der Ausbildungsordnung und dem betrieblichen Ausbildungsplan darstellen |
+| c) | Notwendigkeit und Möglichkeiten beruflicher Fortbildung sowie deren Nutzen für die persönliche und berufliche Entwicklung aufzeigen |
+| d) | Bedeutung, Zusammensetzung und Aufgabenstellung der Personalvertretung im Ausbildungsbetrieb darstellen |
+| e) | Mitbestimmungs- und Mitwirkungsrechte betriebsverfassungsrechtlicher oder personalvertretungsrechtlicher Organe erläutern |
+| 1.3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Abs. 1 Nr. 1.3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.4 | Umweltschutz (§ 3 Abs. 1 Nr. 1.4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Arbeitsorganisation und bürowirtschaftliche Abläufe (§ 3 Abs. 1 Nr. 2) | a) | Dienst- und Geschäftsordnungen sowie ergänzende Vorschriften anwenden |
+| b) | Schriftgut verfassen und verwalten, Posteingang und -ausgang bearbeiten |
+| c) | betriebliche Arbeits- und Organisationsmittel wirtschaftlich einsetzen |
+| d) | persönliche Arbeitsorganisation rationell und zweckmäßig gestalten |
+| e) | Fachliteratur und andere Informationsmittel nutzen |
+| f) | Lern- und Arbeitsmethoden aufgabenorientiert einsetzen |
+| g) | Daten beschaffen, aufbereiten und auswerten |
+| h) | Termine planen, Fristen überwachen und erforderliche Maßnahmen einleiten |
+| 3 | Informations- und Kommunikationssysteme (§ 3 Abs. 1 Nr. 3) | a) | Organisation der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben |
+| b) | Informations- und Kommunikationssysteme aufgabenorientiert einsetzen |
+| c) | Auswirkungen der im Ausbildungsbetrieb eingesetzten Informations- und Kommunikationssysteme auf Arbeitsabläufe, -bedingungen und -anforderungen aufzeigen |
+| d) | Regelungen zur Datensicherheit anwenden, Daten sichern und pflegen |
+| e) | Regelungen zum Datenschutz anwenden |
+| 4 | Kommunikation und Kooperation (§ 3 Abs. 1 Nr. 4) | a) | externe und interne Dienstleistungen auf der Grundlage des Qualitätsmerkmals der Bürger- und Kundenorientierung erbringen |
+| b) | Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen anwenden |
+| c) | Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten |
+| d) | zur Vermeidung von Kommunikationsstörungen beitragen |
+| e) | Lösungsmöglichkeiten für Konfliktsituationen aufzeigen |
+| f) | Wirkungen des eigenen Handelns auf Betroffene und auf die Öffentlichkeit bewerten |
+| 5 | Verwaltungsbetriebswirtschaft (§ 3 Abs. 1 Nr. 5) |  |
+| 5.1 | Betriebliche Organisation (§ 3 Abs. 1 Nr. 5.1) | a) | Zusammenhänge zwischen Aufgaben, Aufbauorganisation, Entscheidungsstrukturen und Ablaufplanung des Ausbildungsbetriebes darstellen |
+| b) | betriebliche Organisationsvorgaben in Arbeitsabläufen umsetzen |
+| 5.2 | Haushaltswesen(§ 3 Abs. 1 Nr. 5.2) | a) | Ziele und Notwendigkeit der Haushalts- und Wirtschaftsplanung begründen |
+| b) | bei der Aufstellung des Haushalts- oder Wirtschaftsplanes mitwirken |
+| c) | Haushaltsmittel unter Berücksichtigung von Möglichkeiten des flexiblen Mitteleinsatzes bewirtschaften |
+| d) | Haushaltsgrundsätze anwenden |
+| e) | Rechnungen prüfen, Kassenanordnungen fertigen |
+| f) | Voraussetzungen für Stundung, Niederschlagung und Erlaß von Forderungen prüfen |
+| g) | Zahlungsvorgänge bearbeiten |
+| 5.3 | Rechnungswesen (§ 3 Abs. 1 Nr. 5.3) | a) | Zweck und Aufbau der Kosten- und Leistungsrechnung im Ausbildungsbetrieb erläutern |
+| b) | Kosten und Leistungen erfassen und berechnen |
+| c) | doppelte und kameralistische Buchführung unterscheiden, Buchungsvorgänge bearbeiten |
+| d) | betriebstypische Wirtschaftlichkeitsberechnungen durchführen |
+| e) | Aufgaben des Controllings als Informations- und Steuerungsinstrument am Beispiel des Ausbildungsbetriebes beschreiben |
+| 5.4 | Beschaffung (§ 3 Abs. 1 Nr. 5.4) | a) | Beschaffungsgrundsätze anwenden |
+| b) | Sachgüter beschaffen und bewirtschaften |
+| 6 | Personalwesen (§ 3 Abs. 1 Nr. 6) | a) | Ausbildungs-, Arbeits- und Dienstverhältnisse hinsichtlich Rechtsgrundlagen, Art, Begründung und Beendigung unterscheiden |
+| b) | Vorgänge im Zusammenhang mit der Einstellung und dem Ausscheiden von Beschäftigten bearbeiten |
+| c) | Vorgänge im Zusammenhang mit Arbeits- und Fehlzeiten bearbeiten |
+| d) | Vorgänge im Zusammenhang mit personellen Veränderungen, insbesondere Höhergruppierungen und Umsetzungen bearbeiten |
+| e) | Vergütungen berechnen |
+| f) | Arbeitnehmerschutzgesetze anwenden |
+| g) | Beteiligungsrechte bei der Personalsachbearbeitung berücksichtigen |
+| h) | Ziele und Instrumente der Personalentwicklung beschreiben |
+| 7 | Allgemeines Verwaltungsrecht und Verwaltungsverfahren (§ 3 Abs. 1 Nr. 7) | a) | Rangordnung von Rechtsquellen beachten |
+| b) | Rechtsgrundsätze des Verwaltungshandelns anwenden |
+| c) | Grundsätze des Verwaltungsverfahrens anwenden |
+| d) | Verwaltungsakte vorbereiten und entwerfen |
+| e) | Rücknahme und Widerruf von Verwaltungsakten prüfen |
+| f) | Widersprüche auf Form und Fristeinhaltung prüfen |
+| g) | förmliche Zustellung veranlassen |
+| Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung Bundesverwaltung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1.1 | Fallbezogene Rechtsanwendung (§ 3 Abs. 2 Nr. 1.1) | a) | Sachverhalte ermitteln, unter Tatbestandsmerkmale subsumieren und Rechtsfolgen feststellen |
+| b) | bestimmte und unbestimmte Rechtsbegriffe unterscheiden |
+| c) | Ermessensentscheidungen unter Berücksichtigung von Ermessensspielräumen vorbereiten |
+| d) | Entscheidungen begründen |
+| 1.2 | Verwaltungshandeln in Arbeitsgebieten des Ausbildungsbetriebes (§ 3 Abs. 2 Nr. 1.2) | a) | Zuständigkeiten und Leistungen erläutern |
+| b) | Arbeitsabläufe einhalten und Verfahrensregelungen anwenden |
+| c) | bereichsbezogene Arbeitsaufgaben kostenbewußt planen und ausführen |
+| d) | Richtigkeit und Vollständigkeit der Arbeitsergebnisse prüfen |
+| e) | Informationen und Daten des Arbeitsgebietes unter Berücksichtigung fachspezifischer Materialien beschaffen, auswerten und verwenden |
+| f) | Fachauskünfte erteilen |
+| 1.3 | Personalwirtschaft (§ 3 Abs. 2 Nr. 1.3) | a) | die Notwendigkeit von Personalbedarfsplanungen erläutern |
+| b) | Stellenausschreibungen nach betrieblichen Vorgaben bearbeiten |
+| c) | Bewerbungen nach betrieblichen Kriterien auswerten und bearbeiten |
+| d) | Vorschriften, Verfahren und Auswirkungen der Planstellen- und Stellenbewirtschaftung erläutern |
+| e) | Auswirkungen unterschiedlicher Arbeitsformen und flexibler Arbeitszeiten auf die Personalwirtschaft an Beispielen des Ausbildungsbetriebes aufzeigen |
+| f) | bei der Personaleinsatzplanung und deren Umsetzung mitwirken, insbesondere Dienstpläne erstellen |
+| g) | Vorgänge im Zusammenhang mit Abordnungen und Versetzungen bearbeiten; Reisekosten berechnen |
+| h) | bei der Ermittlung des Fortbildungsbedarfs mitwirken, Bildungsmaßnahmen ausschreiben, Entscheidungen über die Bewerberauswahl vorbereiten und umsetzen |

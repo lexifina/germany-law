@@ -1,0 +1,3 @@
+# II.
+
+Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von diesem Zeitpunkt an ist die Anordnung zur Übertragung beamtenrechtlicher Befugnisse auf die Einrichtungen im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung vom 9. September 2003 (BGBl. I S. 1956) nicht mehr anzuwenden, soweit sie Regelungen für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts für medizinische Dokumentation und Information, des Bundesinstituts für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.

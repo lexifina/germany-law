@@ -1,0 +1,8 @@
+# Art 6 Immunität von der Gerichtsbarkeit und Eingriffen der Verwaltungsbehörden
+
+(1)
+Entsandte Mitarbeiter des Büros genießen für Handlungen, die in Wahrnehmung amtlicher Aufgaben vorgenommen worden sind, Immunität von der deutschen Zivil- und Verwaltungsgerichtsbarkeit und den Eingriffen deutscher Verwaltungsbehörden.
+(2)
+Absatz 1 wird jedoch nicht angewendet bei Zivilklagen,
+a) wenn diese aus einem Vertrag entstehen, den ein Mitarbeiter geschlossen hat, ohne dabei ausdrücklich oder erkennbar im Auftrag des Büros zu handeln, oder
+b) wenn diese von einem Dritten wegen eines Schadens angestrengt werden, der aus einem durch ein Land-, Wasser- oder Luftfahrzeug verursachten Unfall entstanden ist.

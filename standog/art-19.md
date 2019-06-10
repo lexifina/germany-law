@@ -1,0 +1,8 @@
+# Art 19 Neufassung der betroffenen Gesetze und der
+Rechtsverordnung, Rückkehr zum einheitlichen
+Verordnungsrang
+
+(1)
+Das Bundesministerium der Finanzen kann den Wortlaut der durch die Artikel 4, 6, 7, 12 und 15 dieses Gesetzes geänderten Gesetze in der ab 1. Januar 1994 geltenden Fassung im Bundesgesetzblatt bekanntmachen.
+(2)
+Die auf Artikel 8 beruhenden Teile der Einkommensteuer-Durchführungsverordnung 1990 können auf Grund der einschlägigen Ermächtigungsgrundlagen durch Rechtsverordnung geändert werden.

@@ -1,0 +1,4 @@
+# III.
+
+1. Auf Grund des § 172 des Bundesbeamtengesetzes in Verbindung mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes sind für die Entscheidung über Widersprüche auf dem Gebiet der nach dieser Anordnung übertragenen Beihilfe die in Abschnitt I Nr. 1 genannten Stellen zuständig, soweit sie den mit dem Widerspruch angefochtenen Bescheid erlassen oder den Erlass eines Verwaltungsaktes abgelehnt haben. Die obersten Dienstbehörden behalten sich vor, im Einzelfall über einen Widerspruch selbst zu entscheiden.
+2. Auf Grund des § 174 Abs. 3 des Bundesbeamtengesetzes wird die Vertretung des Dienstherrn bei Klagen auf dem Gebiet der Beihilfe den in Abschnitt I Nr. 1 genannten Stellen übertragen, soweit sie nach dieser Anordnung für den Erlass von Widerspruchsbescheiden zuständig sind. Die obersten Dienstbehörden behalten sich vor, im Einzelfall oder in Gruppen von Fällen die Vertretung abweichend zu regeln oder die Vertretung selbst zu übernehmen.

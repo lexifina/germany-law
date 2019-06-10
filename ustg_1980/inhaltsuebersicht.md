@@ -1,0 +1,93 @@
+# Inhaltsübersicht
+
+| I. | Steuergegenstand und Geltungsbereich |
+|  | § 1 | Steuerbare Umsätze |
+|  | § 1a | Innergemeinschaftlicher Erwerb |
+|  | § 1b | Innergemeinschaftlicher Erwerb neuer Fahrzeuge |
+|  | § 1c | Innergemeinschaftlicher Erwerb durch diplomatische Missionen, zwischenstaatliche Einrichtungen und Streitkräfte der Vertragsparteien des Nordatlantikvertrags |
+|  | § 2 | Unternehmer, Unternehmen |
+|  | § 2a | Fahrzeuglieferer |
+|  | § 2b | Juristische Personen des öffentlichen Rechts |
+|  | § 3 | Lieferung, sonstige Leistung |
+|  | § 3a | Ort der sonstigen Leistung |
+|  | § 3b | Ort der Beförderungsleistungen und der damit zusammenhängenden sonstigen Leistungen |
+|  | § 3c | Ort der Lieferung in besonderen Fällen |
+|  | § 3d | Ort des innergemeinschaftlichen Erwerbs |
+|  | § 3e | Ort der Lieferungen und Restaurationsleistungen während einer Beförderung an Bord eines Schiffs, in einem Luftfahrzeug oder in einer Eisenbahn |
+|  | § 3f | Ort der unentgeltlichen Lieferungen und sonstigen Leistungen |
+|  | § 3g | Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte |
+| II. | Steuerbefreiungen und Steuervergütungen |
+|  | § 4 | Steuerbefreiungen bei Lieferungen und sonstigen Leistungen |
+|  | § 4a | Steuervergütung |
+|  | § 4b | Steuerbefreiung beim innergemeinschaftlichen Erwerb von Gegenständen |
+|  | § 5 | Steuerbefreiungen bei der Einfuhr |
+|  | § 6 | Ausfuhrlieferung |
+|  | § 6a | Innergemeinschaftliche Lieferung |
+|  | § 7 | Lohnveredelung an Gegenständen der Ausfuhr |
+|  | § 8 | Umsätze für die Seeschifffahrt und für die Luftfahrt |
+|  | § 9 | Verzicht auf Steuerbefreiungen |
+| III. | Bemessungsgrundlagen |
+|  | § 10 | Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe |
+|  | § 11 | Bemessungsgrundlage für die Einfuhr |
+| IV. | Steuer und Vorsteuer |
+|  | § 12 | Steuersätze |
+|  | § 13 | Entstehung der Steuer |
+|  | § 13a | Steuerschuldner |
+|  | § 13b | Leistungsempfänger als Steuerschuldner |
+|  | § 13c | Haftung bei Abtretung, Verpfändung oder Pfändung von Forderungen |
+|  | § 13d | (weggefallen) |
+|  | § 14 | Ausstellung von Rechnungen |
+|  | § 14a | Zusätzliche Pflichten bei der Ausstellung von Rechnungen in besonderen Fällen |
+|  | § 14b | Aufbewahrung von Rechnungen |
+|  | § 14c | Unrichtiger oder unberechtigter Steuerausweis |
+|  | § 15 | Vorsteuerabzug |
+|  | § 15a | Berichtigung des Vorsteuerabzugs |
+| V. | Besteuerung |
+|  | § 16 | Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung |
+|  | § 17 | Änderung der Bemessungsgrundlage |
+|  | § 18 | Besteuerungsverfahren |
+|  | § 18a | Zusammenfassende Meldung |
+|  | § 18b | Gesonderte Erklärung innergemeinschaftlicher Lieferungen und bestimmter sonstiger Leistungen im Besteuerungsverfahren |
+|  | § 18c | Meldepflicht bei der Lieferung neuer Fahrzeuge |
+|  | § 18d | Vorlage von Urkunden |
+|  | § 18e | Bestätigungsverfahren |
+|  | § 18f | Sicherheitsleistung |
+|  | § 18g | Abgabe des Antrags auf Vergütung von Vorsteuerbeträgen in einem anderen Mitgliedstaat |
+|  | § 18h | Verfahren der Abgabe der Umsatzsteuererklärung für einen anderen Mitgliedstaat |
+|  | § 19 | Besteuerung der Kleinunternehmer |
+|  | § 20 | Berechnung der Steuer nach vereinnahmten Entgelten |
+|  | § 21 | Besondere Vorschriften für die Einfuhrumsatzsteuer |
+|  | § 22 | Aufzeichnungspflichten |
+|  | § 22a | Fiskalvertretung |
+|  | § 22b | Rechte und Pflichten des Fiskalvertreters |
+|  | § 22c | Ausstellung von Rechnungen im Falle der Fiskalvertretung |
+|  | § 22d | Steuernummer und zuständiges Finanzamt |
+|  | § 22e | Untersagung der Fiskalvertretung |
+|  | § 22f | Besondere Pflichten für Betreiber eines elektronischen Marktplatzes |
+| VI. | Sonderregelungen |
+|  | § 23 | Allgemeine Durchschnittssätze |
+|  | § 23a | Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes |
+|  | § 24 | Durchschnittssätze für land- und forstwirtschaftliche Betriebe |
+|  | § 25 | Besteuerung von Reiseleistungen |
+|  | § 25a | Differenzbesteuerung |
+|  | § 25b | Innergemeinschaftliche Dreiecksgeschäfte |
+|  | § 25c | Besteuerung von Umsätzen mit Anlagegold |
+|  | § 25d | Haftung für die schuldhaft nicht abgeführte Steuer |
+|  | § 25e | Haftung beim Handel auf einem elektronischen Marktplatz |
+| VII. | Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften |
+|  | § 26 | Durchführung, Erstattung in Sonderfällen |
+|  | § 26a | Bußgeldvorschriften |
+|  | § 26b | Schädigung des Umsatzsteueraufkommens |
+|  | § 26c | Gewerbsmäßige oder bandenmäßige Schädigung des Umsatzsteueraufkommens |
+|  | § 27 | Allgemeine Übergangsvorschriften |
+|  | § 27a | Umsatzsteuer-Identifikationsnummer |
+|  | § 27b | Umsatzsteuer-Nachschau |
+|  | § 28 | Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften |
+|  | § 29 | Umstellung langfristiger Verträge |
+| Anlage 1 (zu § 4 Nr. 4a) |
+|  | Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können |
+| Anlage 2 (zu § 12 Abs. 2 Nr. 1 und 2) |
+|  | Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände |
+| Anlage 3 (zu § 13b Absatz 2 Nummer 7) |
+|  | Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7 |
+| Anlage 4 (zu § 13b Absatz 2 Nummer 11) |

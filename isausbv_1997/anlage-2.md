@@ -1,0 +1,54 @@
+# Anlage 2 (zu § 6 Abs. 1)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Industrie-Isolierer/zur Industrie-Isoliererin
+
+(Fundstelle: BGBl. I 1997, 224 - 225)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung (§ 5 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 5 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Arbeits- und Tarifrecht, Arbeitsschutz (§ 5 Nr. 3) | a) | wesentliche Teile des Arbeitsvertrages nennen |
+| b) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| c) | Aufgaben des betrieblichen Arbeitsschutzes sowie der zuständigen Berufsgenossenschaft und Gewerbeaufsicht erläutern |
+| d) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Arbeitsschutzgesetze nennen |
+| 4 | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung (§ 5 Nr. 4) | a) | einschlägige Arbeitsschutz- und Unfallverhütungsvorschriften beachten und anwenden |
+| b) | persönliche Schutzausrüstungen zur Vermeidung von Verletzungen und Berufskrankheiten benutzen |
+| c) | Gefahren, die beim Umgang mit elektrischem Strom entstehen, beachten |
+| d) | Gefahren, die von Giften, Dämpfen, Gasen und leichtentzündlichen Stoffen sowie von Arbeitsstoffen ausgehen, beachten und Schutzmaßnahmen ergreifen |
+| e) | sich bei berufstypischen Unfallsituationen sachgerecht verhalten |
+| f) | Maßnahmen für den vorbeugenden Brand- und Explosionsschutz ergreifen sowie Brandschutzeinrichtungen und Brandbekämpfungsgeräte bedienen |
+| g) | Maßnahmen der Ersten Hilfe einleiten |
+| h) | zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen sowie Möglichkeiten der rationellen und umweltschonenden Materialverwendung, insbesondere durch Wiederverwendung und Entsorgung von Werk- und Hilfsstoffen, nutzen |
+| i) | die im Ausbildungsbetrieb verwendeten Energiearten nennen und Möglichkeiten rationeller Energieverwendung im beruflichen Einwirkungs- und Beobachtungsbereich nutzen |
+| 5 | Lesen und Anfertigen von Skizzen und Zeichnungen (§ 5 Nr. 5) | a) | Skizzen, Zeichnungen, isometrische Darstellungen und Stücklisten unter Beachtung der Normen anfertigen |  |  | 3 |
+| b) | Pläne, Zeichnungen, isometrische Darstellungen und Stücklisten lesen und anwenden |
+| c) | technische Tabellen, Handbücher, Richtlinien und Merkblätter anwenden |
+| 6 | Planen und Vorbereiten von Arbeitsabläufen, Einrichten von Baustellen, Kontrollieren der Arbeitsergebnisse (§ 5 Nr. 6) | a) | Arbeitsumfang unter Berücksichtigung des Zeitaufwandes und der Notwendigkeit personeller Unterstützung abschätzen |  |  | 6 |
+| b) | Arbeitsablauf im Hinblick auf den Arbeitsauftrag sicherstellen |
+| c) | Arbeitsablauf unter Berücksichtigung der Gegebenheiten auf der Baustelle und in Abstimmung mit anderen Gewerken sicherstellen |
+| d) | Maßnahmen der Qualitätssicherung ergreifen |
+| 7 | Herstellen von Wärme-, Kälte- und Schalldämmungen (§ 5 Nr. 7) | a) | Ausführung von Dämmsystemen prüfen und Wirkung von Dämmsystemen unter Berücksichtigung des Brandschutzes beurteilen |  |  | 10 |
+| b) | Dämmstoffe an Formstücken, insbesondere an Krümmern, Abzweigen und Übergängen, befestigen |
+| c) | Matratzen aus Dämmstoffen mit Gewebeabdeckung herstellen und anbringen |
+| d) | Dämmsysteme aus Ortschaum herstellen |
+| e) | Brandschutzabschlüsse herstellen |
+| f) | Endkontrolle durchführen |
+| 8 | Beurteilen und Herstellen von Dampfbremsen (§ 5 Nr. 8) | a) | Dampfbremsen prüfen und Wirkung von Dampfbremsen beurteilen |  |  | 4 |
+| b) | Dampfbremsen durch Aufbringen von Dichtungsbahnen und Beschichtungen herstellen |
+| 9 | Anbringen von Unterkonstruktionen (§ 5 Nr. 9) | a) | Aufgaben von Stütz- und Tragkonstruktionen erläutern |  |  | 2 |
+| b) | Stütz- und Tragkonstruktionen für den Anwendungszweck auswählen, herstellen und anbringen |
+| 10 | Aufmessen, Aufreißen, Abwickeln, Zurichten und Montieren von Formstücken (§ 5 Nr. 10) | a) | Anlagenteile aufmessen, Isometrien aufnehmen und anfertigen |  |  | 25 |
+| b) | Maße für Formstücke an betriebstechnischen Anlagen und in der Haustechnik ermitteln |
+| c) | Modelle für Formstücke aufreißen und abwickeln |
+| d) | Formstücke, insbesondere Übergänge, Behälterköpfe, Hosenstücke, Formkappen und Abflachungen, vorfertigen |
+| e) | vorgefertigte Teile einpassen, ausrichten und befestigen |
+| f) | vorgefertigte Formstücke montieren |
+| 11 | Feststellen von Störungen an Maschinen und Geräten, Veranlassen von Reparaturen (§ 5 Nr. 11) | a) | Schutzeinrichtungen an Maschinen prüfen und anwenden |  |  | 2 |
+| b) | Störungen an Maschinen und Geräten feststellen, Reparaturen veranlassen |

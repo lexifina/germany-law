@@ -1,0 +1,220 @@
+# Anlage 2 (zu § 4 Absatz 1 Satz 2)Regelung zur Vermittlung der Fertigkeiten, Kenntnisse und Fähigkeiten bezüglich der Zerstörungsfreien Prüfung (ZfP) nach DIN EN ISO 9712
+
+In dieser Liste sind die zerstörungsfreien Prüfverfahren aufgeführt, die in der Berufsschule in der Theorie und im Betrieb in der Praxis entsprechend den Anforderungen der Stufe 1 oder 2 der DIN EN ISO 9712 vermittelt werden. Bei der Ultraschallprüfung (UT) und der Durchstrahlungsprüfung (RT) sind die höheren Anforderungen an die Schulungszeiten aus der DIN EN 473, die durch die Norm DIN EN ISO 9712 ersetzt wurde, berücksichtigt.
+Nach DIN EN ISO 9712 (Anhang A.2) handelt es sich bei den Produktsektoren um Gussstücke, Schmiedestücke, geschweißte Produkte, Rohre, Rohrleitungen und Walzerzeugnisse.
+Zuordnung der ZfP-Verfahren und Qualifizierungsstufen zu den Fachrichtungen:
+| ZfP-Verfahren | Werkstoffprüfer/in Fachrichtung |
+| Metalltechnik | Wärmebehandlungstechnik | Kunststofftechnik | Systemtechnik |
+| Sichtprüfung | Stufe 1 | X | X | X | X |
+| Sichtprüfung | Stufe 2 |  |  |  | X |
+| Eindringprüfung | Stufe 1 | X | X | X | X |
+| Eindringprüfung | Stufe 2 |  |  |  | X |
+| Magnetpulverprüfung | Stufe 1 | X | X | X | X |
+| Magnetpulverprüfung | Stufe 2 |  |  |  | X |
+| Ultraschallprüfung | Stufe 1 | X | X | X | X |
+| Durchstrahlungsprüfung | Stufe 1 |  |  |  | X |
+Teil A Abgleich der Fachtheorie nach DIN EN ISO 9712 gegenüber Ausbildungsrahmenplan (ARP) und Rahmenlehrplan (RLP)
+Teil B Abgleich der Fachpraxis nach DIN EN ISO 9712 gegenüber Ausbildungsrahmenplan
+Teil A
+Abgleich der Fachtheorie nach DIN EN ISO 9712
+gegenüber Ausbildungsrahmen- und Rahmenlehrplan
+Zerstörungsfreie Oberflächen- und Volumenverfahren
+1. Entsprechungen für Sichtprüfung (Visual Testing, VT)
+1.1 Stufe 1
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Sichtprüfung (VT) Anforderungen der Stufe 1 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Physikalische, geometrische und physiologische Grundlagen der Sichtprüfung | 3 | X |  |  | Abschnitt A A4b | 5 |
+| Arbeitstechniken nach Stand der Technik – Oberflächenbeschaffenheit – Direkte/indirekte (Videoskopie) Sichtprüfung | 3 | X |  |  | Abschnitt A A6b | 5 |
+| Prüfgeräte, Messtechnik, Hilfsmittel und deren Handhabung nach Stand der Technik | 5 | X |  |  | Abschnitt F F5a-c/F8a,bAbschnitt A A5b | 5 |
+| Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 6 | X |  |  | Abschnitt A A1/A2/A3/A4b | 5 |
+| Genereller Prüfablauf und Prüfbericht nach Stand der Technik | 3 | X |  |  | Abschnitt F F6Abschnitt A A5/A6/A8/A9 | 5 |
+| Gesamtzahl der Unterrichtseinheiten |  | 20 |  |  |  |  |
+1.2 Stufe 2
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Sichtprüfung (VT) Anforderungen der Stufe 2 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Übersicht über Regelwerke in der Sichtprüfung | 1 |  |  | X | Abschnitt F F6a | 17d |
+| Fehlerkunde in der Sichtprüfung bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 2 |  |  | X | Abschnitt A A1/A2/A3Abschnitt E E1 | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Schweißverbindungen nach Stand der Technik – Direkte Sichtprüfung – Indirekte Sichtprüfung – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfberichte | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Schmiedeteilen nach Stand der Technik – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik | 1 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 10 |  |  |
+2. Entsprechungen für Eindringprüfung (Penetrant Testing, PT)
+2.1 Stufe 1
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Eindringprüfung (PT) Anforderungen der Stufe 1 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Physikalisch-chemische Grundlagen der Eindringprüfung | 4 | X |  |  | Abschnitt A A4b | 5 |
+| Eigenschaften und Kontrolle der Prüfmittelsysteme nach Stand der Technik | 4 | X |  |  | Abschnitt F F3b/F4/F5a,e,fAbschnitt A A4b | 5 |
+| Arbeitssicherheit und Umweltschutz | 2 | X |  |  | Abschnitt F F4/F5a,e,f | 5 |
+| Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 3 | X |  |  | Abschnitt A A1/A2/A3/A4b | 5 |
+| Genereller Prüfablauf und Prüfbericht nach Stand der Technik | 2 | X |  |  | Abschnitt F F6Abschnitt A A5/A6/A8a/A9 | 5 |
+| Gesamtzahl der Unterrichtseinheiten |  | 15 |  |  |  |  |
+2.2 Stufe 2
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Eindringprüfung (PT) Anforderungen der Stufe 2 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Übersicht über Regelwerke in der Eindringprüfung | 1 |  |  | X | Abschnitt F F6a | 17d |
+| Fehlerkunde in der Eindringprüfung bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 2 |  |  | X | Abschnitt A A1/A2/A3Abschnitt E E1 | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Schweißverbindungen nach Stand der Technik – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 3 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Schmiedeteilen nach Stand der Technik – Erstellen von Prüfanweisungen – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik – Erstellen von Prüfanweisungen – Genereller Prüfablauf | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5 | 17d |
+| – Interpretation und Bewertung der Ergebnisse nach Regelwerken und Prüfanweisung – Prüfbericht |  |  |  |  | Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c |  |
+| Erstellung von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 12 |  |  |
+3. Entsprechungen für Magnetpulverprüfung (Magnetic Testing, MT)
+3.1 Stufe 1
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Magnetpulverprüfung (MT) Anforderungen der Stufe 1 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Physikalische Grundlagen der Magnetpulverprüfung | 4 | X |  |  | Abschnitt A A4b | 5 |
+| Prüfmittel für die Magnetpulverprüfung nach Stand der Technik | 1 | X |  |  | Abschnitt F F3b/F5a,e,f,g | 5 |
+| Arbeitssicherheit und Umweltschutz | 1 | X |  |  | Abschnitt F F3/F4/F8a,d-f | 5 |
+| Prüfgeräte, Magnetisierungstechniken und Entmagnetisierung nach Stand der Technik | 4 | X |  |  | Abschnitt F F8a,bAbschnitt A A4b/A5b | 5 |
+| Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 2 | X |  |  | Abschnitt A A1/A2/A3/A4b | 5 |
+| Genereller Prüfablauf und Prüfbericht nach Prüfanweisung | 3 | X |  |  | Abschnitt F F6Abschnitt A A5/A6/A8/A9 | 5 |
+| Gesamtzahl der Unterrichtseinheiten |  | 15 |  |  |  |  |
+3.2 Stufe 2
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Magnetpulverprüfung (MT) Anforderungen der Stufe 2 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Übersicht über Regelwerke in der Magnetpulverprüfung | 1 |  |  | X | Abschnitt F F6a | 17d |
+| Fehlerkunde in der Magnetpulverprüfung bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 2 |  |  | X | Abschnitt A A1/A2/A3/A4bAbschnitt E E1 | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Schweißverbindungen nach Stand der Technik – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 3 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Schmiedeteilen nach Stand der Technik – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik – Genereller Prüfablauf – Interpretation und Bewertung der Ergebnisse – Prüfbericht | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Erstellen von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik | 2 |  |  | X | Abschnitt F F6aAbschnitt A A5Abschnitt E E1a,b/E2b,e,f/E3a/E4c/E5b,c | 17d |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 12 |  |  |
+4. Entsprechungen für Ultraschallprüfung (Ultrasonic Testing, UT)
+4.1 Stufe 1
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Ultraschallprüfung (UT) Anforderungen der Stufe 1 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Physikalische Grundlagen der Ultraschallprüfung | 10 |  | X |  | Abschnitt A A4b,f,g | 10 |
+| Ultraschallprüfköpfe und Prüfkopfeigenschaften nach Stand der Technik | 4 |  | X |  | Abschnitt F F6c/F8Abschnitt A A4b,f | 10 |
+| Digitale Ultraschallprüfgeräte und Justierung nach Stand der Technik | 4 |  | X |  | Abschnitt A A4b,f,g | 10 |
+| Ultraschallprüftechniken nach Stand der Technik – Impuls-Echo und Durchschallungs-Verfahren – Kontakttechnik – Senkrechteinschallung – Schrägeinschallung – Tauchtechnik – Wanddickenmessung | 14 |  | X |  | Abschnitt F F6c/F8a-cAbschnitt A A4b,f | 10 |
+| Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 8 |  | X |  | Abschnitt FF8Abschnitt AA1/A2/A3/A4b/A5/A6/A7b,d-g/A8/A9 | 10 |
+| Generelle Prüfdurchführung und Prüfbericht nach Prüfanweisung | 5 |  | X |  | Abschnitt F F6Abschnitt AA5/A6/A8a/A9 | 10 |
+| Gesamtzahl der Unterrichtseinheiten |  |  | 45 |  |  |  |
+5. Entsprechungen für Durchstrahlungsprüfung (Radiographic Testing, RT)
+5.1 Stufe 1
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Durchstrahlungsprüfung (RT) Anforderungen der Stufe 1 | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Physikalische Grundlagen der Durchstrahlungsprüfung | 8 |  |  | X | Abschnitt F F5a,bAbschnitt A A4b | 14 16b |
+| Prüfgeräte, Messtechnik, Hilfsmittel und deren Handhabung nach Stand der Technik | 6 |  |  | X | Abschnitt F F7a,b/F8aAbschnitt A A4b,f,g | 14 16b |
+| Röntgenfilme, Folien, Filmeigenschaften und Filmverarbeitung nach Stand der Technik | 5 |  |  | X | Abschnitt F F7a,b/F8a,d,eAbschnitt A A4b | 14 16b |
+| Grundlagen der Abbildungstechnik nach Stand der Technik | 6 |  |  | X | Abschnitt A A4b | 14 16b |
+| Anwendungsbereiche, Merkmals- und Objektkunde bezüglich der prüfbaren Produktsektoren nach Stand der Technik | 10 |  |  | X | Abschnitt F F8a-cAbschnitt AA1/A2/A3/A4b/A5/A6/A7b,d,f,g/A8/A9 | 14 16b |
+| Filmbetrachtung nach Stand der Technik | 5 |  |  | X | Abschnitt A A4b | 14 16b |
+| Vorbereitung von Durchstrahlungsprüfungen nach Prüfanweisung und nach Stand der Technik | 7 |  |  | X | Abschnitt A A4b | 14 16b |
+|  |  |  |  |  | Abschnitt E E1a/E2b,e,f/E3a-c/E4b-d/E5b-d |  |
+| Generelle Prüfdurchführung und Prüfbericht nach Prüfanweisung | 7 |  |  | X | Abschnitt F F5a-c,f/F8a/F9a,c,dAbschnitt A A5/A6/A8/A9Abschnitt E E5a | 14 16b |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 54 |  |  |
+6. Entsprechungen für Prüfanweisungen
+6.1 Oberflächenprüfverfahren Stufe 2
+| ZfP-Personalzertifizierung nach DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in |
+| Qualifizierungsinhalte und Mindestunterrichtseinheiten (UE) nach DIN EN ISO 9712 | Ausbildungsjahr | ARP | RLP |
+| Prüfanweisungen – Anforderungen der Stufe 2 für Oberflächenverfahren | Mindestdauer (UE) | 1 | 2 | 3/4 | Berufsbildposition | Lernfeld |
+| Umsetzen von Verfahrensanweisungen Inhalte von Prüfanweisungen für Oberflächenverfahren nach Stand der Technik | 4 |  |  | X | Abschnitt F F5a-d,fAbschnitt A A5a/A8a,b/A9Abschnitt E E2b/E4c | 17d |
+| Übersicht über Grundlagennormen zur zerstörungsfreien Oberflächen- und oberflächennahen Prüfung – Begriffe der ZfP – Personalqualifizierung – Sichtprüfung – Eindringprüfung – Magnetpulverprüfung | 4 |  |  | X | Abschnitt F F5aAbschnitt A A4b/A7b,d-gAbschnitt E E1a,b | 17d |
+| Objektspezifische Herstellungs- und Bearbeitungsfehler und deren Anzeigen nach Stand der Technik | 2 |  |  | X | Abschnitt A A1a,b/A2a,c,dAbschnitt E E1a,b | 17d |
+| Grenzen und Abgrenzung der Oberflächenverfahren | 2 |  |  | X | Abschnitt A A4b,gAbschnitt E E1/E4c | 17d |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 12 |  |  |
+Teil B
+Abgleich der Fachpraxis nach DIN EN ISO 9712 gegenüber Ausbildungsrahmenplan
+Zerstörungsfreie Oberflächen- und Volumenverfahren
+1. Entsprechungen für Sichtprüfung (Visual Testing, VT)
+1.1 Stufe 1
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Sichtprüfung (VT) Praktische Anforderungen der Stufe 1 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 1) Direkte Sichtprüfung an Schmiedeteilen und Gesenkschmiedeteilen nach Prüfanweisung | 3 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,bAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9 |
+| 2) Bestimmung von Oberflächenrauheiten | 2 | X |  |  | Abschnitt F F6b |
+| 3) Direkte Sichtprüfung an Schweißnähten, Klassifizierung der Schweißfehler nach Prüfanweisung, Umgang mit Schweißnahtlehren | 3 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,bAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9a-d |
+| 4) Direkte Sichtprüfung mit dem Endoskop an geschweißten Rohrleitungen nach Prüfanweisung | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,bAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9 |
+| 5) Direkte Sichtprüfung an Druckgussteilen aus Aluminium nach Prüfanweisung durchführen und Ermittlung von Oberflächenrauheit | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,bAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9 |
+| Gesamtzahl der Unterrichtseinheiten |  | 12 |  |  |  |
+1.2 Stufe 2
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Sichtprüfung (VT) Praktische Anforderungen der Stufe 2 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 6) Erstellen von Prüfanweisungen für die direkte Sichtprüfung nach Stand der Technik an ebenen Schweißnähten und Kehlnähten; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 6 |  |  | X | Abschnitt FF5a-c,f/F6a,b/F7a,bAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt EE1a/E2a-c,e,f/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a-c |
+| 7) Erstellen von Prüfanweisungen für die Sichtprüfung mit Endoskopen nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 4 |  |  | X | Abschnitt FF5a-c,f/F6a,b/F7a,bAbschnitt AA1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt EE1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c |
+| 8) Erstellen von Prüfanweisungen für die direkte Sichtprüfung an weiteren Prüfobjekten aus den prüfbaren Produktsektoren nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 4 |  |  | X | Abschnitt FF5a-c,f/F6a,b/F7a,bAbschnitt AA1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt EE1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c |
+| 9) Erstellung von Prüfanweisungen für die Durchführung von Sichtprüfungen an komplexen Bauteilen nach Stand der Technik | 4 |  |  | X | Abschnitt FF5a-c,f/F6a,b/F7a,bAbschnitt AA1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt EE1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 18 |  |
+2. Entsprechungen für Eindringprüfung (Penetrant Testing, PT)
+2.1 Stufe 1
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Eindringprüfung (PT) Praktische Anforderungen der Stufe 1 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 1) Eindringprüfung an Schweißnähten mit dem Farb- und fluoreszierendem Eindringverfahren nach Prüfanweisung | 6 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9 |
+| 2) Eindringprüfung an Gussstücken nach Prüfanweisung | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a-c/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9 |
+| 3) Eindringprüfung an Schmiedestücken nach Prüfanweisung | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a-c/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9 |
+| Gesamtzahl der Unterrichtseinheiten |  | 10 |  |  |  |
+2.2 Stufe 2
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Eindringprüfung (PT) Praktische Anforderungen der Stufe 2 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3-4 |
+| 4) Erstellung von Prüfanweisungen für die Eindringprüfung an Schweißnähten nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 6 |  |  | X | Abschnitt F F5a-c,f/F6a,b/F7a-c/F8a,e,fAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9 |
+|  |  |  | Abschnitt E E1a/E2a-c,e,f/E3c/E4b,c,e/ E5b,c/E6b-d,f/E7a-c |
+| 5) Erstellung von Prüfanweisungen für die Prüfung von Schmiedestücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 4 |  |  | X | Abschnitt F F5a-c,f/F6a,b/F7a-c/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c |
+| 6) Erstellung von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 4 |  |  | X | Abschnitt F F5a-c,f/F6a,b/F7a-c/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c |
+| 7) Erstellung von Prüfanweisungen für die Durchführung von Eindringprüfungen an komplexen Bauteilen nach Stand der Technik | 4 |  |  | X | Abschnitt E E1a/E2a-c,e/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a-c |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 18 |  |
+3. Entsprechungen für Magnetpulverprüfung (Magnetic Testing, MT)
+3.1 Stufe 1
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Magnetpulverprüfung (MT) Praktische Anforderungen der Stufe 1 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 1) Prüfen von Bauteilen mit der Universalprüfbank nach Prüfanweisung | 4 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-c,e/E4b,c,e/E5c/E6b-d,f/E7a-c |
+| 2) Prüfung von Schweißnähten nach Prüfanweisung | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-c,e/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a,b,c |
+| 3) Prüfung von Gussstücken nach Prüfanweisung | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-c,e/E4b,c,e/E5c/E6b-d,f/E7a-c |
+| 4) Prüfung von Schmiedestücken nach Prüfanweisung | 2 | X |  |  | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-c,e/E4b,c,e/E5c/E6b-d,f/E7a-c |
+| Gesamtzahl der Unterrichtseinheiten |  | 10 |  |  |  |
+3.2 Stufe 2
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Magnetpulverprüfung (MT) Praktische Anforderungen der Stufe 2 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 5) Erstellung von Prüfanweisungen für die Magnetpulverprüfung an Schweißnähten nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 5 |  |  | X | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a,b/E2a-f/E3a,b/E4a-f/E5c,d/E6a-f/E7a-c |
+| 6) Erstellung von Prüfanweisungen für die Prüfung von Schmiedestücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 5 |  |  | X | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a,b/E2a-d,e,f/E3a,b/E4a-f/E5c,d/E6a--f/E7a,b,c |
+| 7) Erstellung von Prüfanweisungen für die Prüfung von Gussstücken nach Stand der Technik; Prüfdurchführung; Bewertung der Unregelmäßigkeiten; Prüfbericht | 5 |  |  | X | Abschnitt F F5a-c,f/F6a,b/F7a,b/F8a,e,fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a,b/E2a-d,e,f/E3a,b/E4a-f/E5c,d/E6a-f/E7a,b,c |
+| 8) Erstellung von Prüfanweisungen für die Prüfung an komplexen Bauteilen nach Stand der Technik | 5 |  |  | X | Abschnitt E E1a/E2a-c,e/E3c/E4b,c,e/E5b,c/E6b-d,f/E7a-c |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 20 |  |
+4. Entsprechungen für Ultraschallprüfung (Ultrasonic Testing, UT)
+4.1 Stufe 1
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Ultraschallprüfung (UT) Praktische Anforderungen Stufe 1 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 1) Prüfköpfe und Gerätetechniken | 4 |  | X |  | Abschnitt F F8a-cAbschnitt A A4b |
+| 2) Senkrechteinschallung – Berechnung von Schallwegen | 1 |  | X |  | Abschnitt F F8a-cAbschnitt A A4b |
+| 3) Schrägeinschallung – Bestimmen des X-Maßes und wahren Winkels | 2 |  | X |  | Abschnitt F F8a-cAbschnitt A A4b |
+| 4) Messung und Berechnung von Schallbündeldurchmesser | 2 |  | X |  | Abschnitt F F6a/F7a-cAbschnitt A A5/A7b,d-g/A8a/A9 |
+| 5) Messung von Schallgeschwindigkeiten mit Zweipunktjustierung | 2 |  | X |  | Abschnitt F F3a-c/F4a-d/F5f/F6a-f/F8a-cAbschnitt A A1a/A2a,c/A3c/A4b/A5/A6/A7b,d,e,g/A8/A9 |
+| 6) Messung von Längen und Wanddicken nach Prüfanweisung | 8 |  | X |  | Abschnitt F F3a-c/F4a-d/F5f/F6a-f/F8a-cAbschnitt A A1a/A2a,d/A3c/A4b/A5/A6/A7b,d,e,g/A8/A9 |
+| 7) Blechprüfung nach Prüfanweisung | 3 |  | X |  | Abschnitt F F3a-c/F4a-d/F5f/F6a-f/F8a-cAbschnitt A A1a/A2a,d/A4b/A5/A6/A7b,d-g/A8/A9 |
+| 8) Prüfung von Schmiedestücken nach Prüfanweisung | 3 |  | X |  |
+| 9) Prüfung von Gussstücken nach Prüfanweisung | 3 |  | X |  | Abschnitt F F3a-c/F4a-d/F5f/F6a-f/F8a-cAbschnitt A A1a/A2a,d/A3c,d/A4b/A5/A6/A7b,d,e,g/A8/A9 |
+| 10) Prüfung von Schweißnähten nach Prüfanweisung | 4 |  | X |  |
+| 11) Ermittlung von Nebenechos und Zusatzechos nach Prüfanweisung | 2 |  | X |  | Abschnitt F F3a-c/F4a-d/F5f/F6a-f/F8a-cAbschnitt A A1a/A2a,d/A3c/A4b/A5/A6/A7b,d,e,g/A8/A9 |
+| 12) Diverse Übungen zur Senkrecht- und Schrägeinschallung an unterschiedlichen Prüfteilen unterschiedlicher Werkstoffe nach Prüfanweisung | 11 |  | X |  | Abschnitt F F3a-c/F4a-d/F5f/F6a-f/F8a-cAbschnitt A A1a/A2a,d/A3c,d/A4b/A5/A6/A7b,d-g/A8/A9 |
+| Gesamtzahl der Unterrichtseinheiten |  |  | 45 |  |  |
+5. Entsprechungen für Durchstrahlungsprüfung (Radigraphic Testing, RT)
+5.1 Stufe 1
+| PRAKTISCHE SCHULUNG zur Umsetzung der DIN EN ISO 9712 | Berufsausbildung Werkstoffprüfer/in ARP |
+| Durchstrahlungsprüfung (RT) Praktische Anforderungen Stufe 1 | Mindestdauer UE | Ausbildungsjahr | Berufsbildpositionen |
+| 1 | 2 | 3–4 |
+| 1) Aufbau und Bedienung von Röntgenanlagen und Gammaarbeitsgeräten; Strahlenschutz | 4 |  |  | X | Abschnitt F F3a-c/F5a/F7a,b/8aAbschnitt A A6b,d |
+| 2) Filmentwicklung, Protokollierung und Auswertung | 4 |  |  | X | Abschnitt F F4a,b,d/F5a/F8a,d-fAbschnitt A A1a/A2a,c,d/A8a |
+| 3) Maßnahmen gegen Streustrahlung | 2 |  |  | X | Abschnitt F F3b,c/F4a,b/F5a,b |
+| 4) Betrachtung vorliegender Durchstrahlungsaufnahmen hinsichtlich Verarbeitungs- und aufnahmetechnischer Fehler | 4 |  |  | X | Abschnitt F F5a/F7a-cAbschnitt A A1a/A2a,c,d/A8a |
+| 5) Durchstrahlung von Schweißnähten nach Prüfanweisung | 8 |  |  | X | Abschnitt F F3a-c/F4a,b,d/F5a-c,f/F6a,b/F7a-c/F8a,d-fAbschnitt A A1a/A2d/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-f/E3a,c,d/E4a,d/E5a-c/E6a-f/E7a-c |
+| 6) Anfertigen von Zentral- und Ellipsenaufnahmen von Rohrleitungsabschnitten nach Prüfanweisung | 10 |  |  | X |
+| 7) Anfertigen von Doppelwandaufnahmen an Schweißnähten nach Prüfanweisung | 10 |  |  | X |
+| 8) Erstellen von Übersichtsaufnahmen von Gussteilen nach Prüfanweisung | 6 |  |  | X | Abschnitt F F3a-c/F4a,b,d/F5a-c,f/F6a,b/F7a-c/F8a,d-fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-f/E3a,c,d/E4a,d/E5b-c/E6a-f/E7a-c |
+| 9) Durchstrahlung von Gussteilen mit Hilfe der Mehrfilmtechnik nach Prüfanweisung | 4 |  |  | X | Abschnitt F F3a-c/F4a,b,d/F5a-c,f/F6a,b/F7a-c/F8a,d-fAbschnitt A A1a/A2a/A4b/A5/A6/A7b,d-g/A8/A9Abschnitt E E1a/E2a-f/E3a,c,d/E4a,d/E5b-c/E6a-f/E7a-c |
+| Gesamtzahl der Unterrichtseinheiten |  |  |  | 52 |  |

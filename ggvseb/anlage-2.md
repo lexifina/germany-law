@@ -1,0 +1,161 @@
+# Anlage 2 Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
+
+1. Im Straßen- und Eisenbahnverkehr gelten für innerstaatliche Beförderungen und in der Binnenschifffahrt gelten für innerstaatliche und grenzüberschreitende Beförderungen die nachstehenden Einschränkungen zu den Teilen 1 bis 7:
+1.1 Nachfolgende Güter sind abweichend von Abschnitt 1.1.2 ADR/RID/ADN von der Beförderung ausgeschlossen:
+  Güter, die
+  a) insgesamt mehr als 1 µg/kg (ppb) der polyhalogenierten Dibenzodioxine und -furane der Klasse 6.1 der Tabelle in Kapitel 3.2 ADR/RID/ADN der UN-Nummern 2810 und 2811 der nachfolgenden Nummer 1.2 Buchstabe a bzw. d oder
+  b) insgesamt mehr als 5 µg/kg (ppb) der polyhalogenierten Dibenzodioxine und -furane der Klasse 6.1 der Tabelle in Kapitel 3.2 ADR/RID/ADN der UN-Nummern 2810 und 2811 der nachfolgenden Nummer 1.2 Buchstabe a und b bzw. d und e oder
+  c) insgesamt mehr als 100 µg/kg (ppb) der polyhalogenierten Dibenzodioxine und -furane der Klasse 6.1 der Tabelle in Kapitel 3.2 ADR/RID/ADN der UN-Nummern 2810 und 2811 der nachfolgenden Nummer 1.2 Buchstabe a bis c
+  enthalten.
+1.2 Zu den giftigen organischen flüssigen und festen Stoffen der Klasse 6.1 nach Kapitel 3.2 Tabelle A ADR/RID/ADN UN-Nummern 2810 und 2811 der Verpackungsgruppe I zählen auch:
+  a) 2,3,7,8-Tetrachlordibenzo-p-dioxin (TCDD),
+    1,2,3,7,8-Penta-CDD,
+    2,3,7,8-Tetrachlordibenzofuran (TCDF),
+    2,3,4,7,8-Penta-CDF,
+  b) 1,2,3,4,7,8-Hexa-CDD,
+    1,2,3,7,8,9-Hexa-CDD,
+    1,2,3,6,7,8-Hexa-CDD,
+    1,2,3,7,8-Penta-CDF,
+    1,2,3,4,7,8-Hexa-CDF,
+    1,2,3,7,8,9-Hexa-CDF,
+    1,2,3,6,7,8-Hexa-CDF,
+    2,3,4,6,7,8-Hexa-CDF,
+  c) 1,2,3,4,6,7,8-Hepta-CDD,
+    1,2,3,4,6,7,8,9-Octa-CDD,
+    1,2,3,4,6,7,8-Hepta-CDF,
+    1,2,3,4,7,8,9-Hepta-CDF,
+    1,2,3,4,6,7,8,9-Octa-CDF,
+  d) 2,3,7,8-Tetrabromdibenzo-p-dioxin (TBDD),
+    1,2,3,7,8-Penta-BDD,
+    2,3,7,8-Tetrabromdibenzofuran (TBDF),
+    2,3,4,7,8-Penta-BDF,
+  e) 1,2,3,4,7,8-Hexa-BDD,
+    1,2,3,7,8,9-Hexa-BDD,
+    1,2,3,6,7,8-Hexa-BDD,
+    1,2,3,7,8-Penta-BDF.
+2. Im Straßenverkehr gelten für innerstaatliche Beförderungen mit Fahrzeugen, die in Deutschland zugelassen sind, und für innerstaatliche Beförderungen im Eisenbahnverkehr die nachstehenden Einschränkungen zu den Teilen 1 bis 7 des ADR/RID:
+2.1 Regelung zu den Freistellungen in Zusammenhang mit der Art der Beförderungsdurchführung nach Unterabschnitt 1.1.3.1 ADR/RID:
+  a) Für die Anwendung des Buchstaben a gilt folgende Regelung:
+    Bei explosiven Stoffen der Klasse 1 Unterklasse 1.1 bis 1.4 darf die Gesamtnettoexplosivstoffmasse je Beförderungseinheit/Wagen 3 kg nicht überschreiten. Bei Gegenständen mit Explosivstoff der Klasse 1 Unterklasse 1.1 bis 1.3 darf die Bruttomasse je Beförderungseinheit/Wagen 5 kg und bei Unterklasse 1.4 50 kg nicht überschreiten. Selbstzersetzliche feste und flüssige Stoffe, desensibilisierte explosive feste Stoffe und mit selbstzersetzlichen Stoffen verwandte Stoffe der Klasse 4.1, Stoffe der Klasse 4.2 und Stoffe der Klasse 4.3, jeweils Verpackungsgruppe I und II, Stoffe der Klasse 5.1 Verpackungsgruppe I und Stoffe der Klasse 5.2 dürfen je Stoff 1 kg Nettomasse nicht überschreiten. Für die in den Sätzen 1 bis 3 nicht genannten Stoffe und Gegenstände der Klassen 1 bis 9 dürfen die Höchstmengen gemäß Unterabschnitt 1.1.3.6 ADR/RID nicht überschritten werden.
+  b) (weggefallen)
+  c) Für die Anwendung des Buchstaben c gilt folgende Regelung:
+    aa) Bei explosiven Stoffen der Klasse 1 Unterklasse 1.1 bis 1.4 darf die Gesamtnettoexplosivstoffmasse je Beförderungseinheit/Wagen 3 kg nicht überschreiten. Bei Gegenständen mit Explosivstoff der Klasse 1 Unterklasse 1.1 bis 1.3 darf die Bruttomasse je Beförderungseinheit/Wagen 5 kg und bei Unterklasse 1.4 50 kg nicht überschreiten. Selbstzersetzliche feste und flüssige Stoffe, desensibilisierte explosive feste Stoffe und mit selbstzersetzlichen Stoffen verwandte Stoffe der Klasse 4.1, Stoffe der Klasse 4.2 und Stoffe der Klasse 4.3, jeweils Verpackungsgruppe I und II, Stoffe der Klasse 5.1 Verpackungsgruppe I und Stoffe der Klasse 5.2 dürfen je Stoff 1 kg Nettomasse nicht überschreiten.
+    bb) Für die Beförderung nach Unterabschnitt 1.1.3.1 Buchstabe c ADR/RID müssen zusätzlich folgende Vorschriften eingehalten werden:
+      – Die „Allgemeinen Verpackungsvorschriften“ nach den Unterabschnitten 4.1.1.1, 4.1.1.2, 4.1.1.6 und 4.1.1.7 ADR/RID sind zu beachten.
+      – Für Stoffe und Gegenstände der Klasse 2 gelten die allgemeinen Verpackungsvorschriften nach Unterabschnitt 4.1.6.8 ADR/RID.
+2.2 Regelung zu den Übergangsvorschriften nach den Unterabschnitten 1.6.3.4 und 1.6.3.5 ADR/RID:
+  a) Die Randnummern 211 184, 211 185 Satz 1 und die Randnummer 211 186 in der für innerstaatliche Beförderungen geltenden Fassung der Gefahrgutverordnung Straße in der Fassung der Bekanntmachung vom 18. Juli 1995 (BGBl. I S. 1025) und
+  b) die Vorschriften der Anlage Anhang XI Absatz 1.8.4 Satz 3 und 4 und Absatz 1.8.5 in der für innerstaatliche Beförderungen geltenden Fassung der Gefahrgutverordnung Eisenbahn in der Fassung der Bekanntmachung vom 15. Dezember 1995 (BGBl. I S. 1852)
+  gelten für innerstaatliche Beförderungen weiter.
+3. Im Straßenverkehr gelten für innerstaatliche Beförderungen mit Fahrzeugen, die in Deutschland zugelassen sind, die nachstehenden Vorschriften und Einschränkungen zu den Teilen 8 und 9 des ADR:
+3.1 Verbot von Feuer und offenem Licht
+  Bei Ladearbeiten ist der Umgang mit Feuer oder offenem Licht in der Nähe der Fahrzeuge oder Container und in den Fahrzeugen oder Containern untersagt.
+3.2 Unterrichtung des Fahrpersonals durch Befüller und Entlader
+  Übernimmt der Fahrzeugführer das Befüllen des Tanks, so hat der Befüller ihn in die Handhabung der Fülleinrichtung, soweit diese nicht Bestandteil des Fahrzeugs ist, einzuweisen. Entsprechendes gilt hinsichtlich der Entleerungseinrichtung für das Beförderungsunternehmen, das als Entlader tätig wird. Diese Einweisung ist schriftlich zu dokumentieren. Hinsichtlich der Aufbewahrung dieser Dokumentation gilt Abschnitt 1.3.3 ADR in Verbindung mit § 27 Absatz 5 Nummer 2 GGVSEB entsprechend.
+3.3 Überwachung der Fahrzeuge und Container
+  Ergänzend zu Kapitel 8.4 sind alle mit orangefarbener Tafel kennzeichnungspflichtigen Fahrzeuge und Container entsprechend den Vorgaben nach Abschnitt 8.4.1 ADR zu überwachen. Gleiches gilt für Anhänger einer kennzeichnungspflichtigen Beförderungseinheit, die von dem Kraftfahrzeug getrennt geparkt werden, sofern diese Anhänger mit gefährlichen Gütern in kennzeichnungspflichtiger Menge beladen sind. Satz 2 gilt nicht für die Überwachung von Anhängern mit UN 1202.
+4. Im Eisenbahnverkehr gelten für innerstaatliche Beförderungen die nachstehenden Vorschriften und Einschränkungen zu den Teilen 1 bis 7 des RID:
+4.1 Hinweise in den Teilen 1 bis 7 RID auf das internationale Frachtrecht finden bei innerstaatlichen Beförderungen keine Anwendung. Bei innerstaatlichen Beförderungen gelten das anwendbare nationale Frachtrecht sowie mit ihm übereinstimmende Beförderungsbedingungen der Beförderer.
+4.2 Gefahrgutbeförderung in Reisezügen
+  Gefahrgutbeförderungen in Reisezügen sind vorbehaltlich der Regelungen in den Buchstaben a und b verboten.
+  a) Die in den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID genannten Regelungen bzw. Sicherheitsvorschriften sind auch für die innerstaatliche Beförderung zu beachten.
+  b) Im Übersetzverkehr mit der Eisenbahn über den Hindenburgdamm zwischen Niebüll und Westerland (Sylt) ist abweichend von den Unterabschnitten 1.1.2.2 und 1.1.2.3 in Verbindung mit den Kapiteln 7.6 und 7.7 RID die Gefahrgutbeförderung in Reisezügen unter Beachtung der nachfolgenden Bestimmungen erlaubt:
+    aa) Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung zugelassen:
+      | Gefahrgüter der Klassen 1.4 und 2 bis 9 | Beförderung in Versandstücken in gedeckten und bedeckten Straßenfahrzeugen |
+      | a)Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig,b)Gefahrgüter der Klasse 3, Verpackungs- gruppe II und III ohne Nebengefahr giftig,c)Gefahrgüter der Klasse 8, Verpackungs- gruppe II und III ohne Nebengefahr giftig undd)Gefahrgüter der Klasse 9, Verpackungs- gruppe II und III | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
+    bb) Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
+    cc) Zwischenwagen oder Elemente einer fest gekuppelten Einheit:
+      Erfolgt die Beförderung mit einzeln gekuppelten Güterwagen, ist zwischen den Güterwagen, auf denen mit gefährlichen Gütern beladene Straßenfahrzeuge verladen sind, und den übrigen Güterwagen, auf denen sich Personenkraftfahrzeuge oder mit Fahrgästen besetzte Busse befinden, mindestens ein unbeladener Güterwagen oder ein Güterwagen, der nur mit Straßenfahrzeugen ohne gefährliches Gut beladen ist, zu befördern.
+      Erfolgt die Beförderung mit fest gekuppelten Einheiten, sind zwischen den Elementen der Einheit, auf denen mit gefährlichen Gütern beladene Straßenfahrzeuge verladen sind, und den übrigen Elementen, auf denen sich Personenkraftfahrzeuge oder mit Fahrgästen besetzte Busse befinden, mindestens zwei unbeladene Elemente oder zwei Elemente, die nur mit Straßenfahrzeugen ohne gefährliches Gut beladen sind, oder je ein Element der vorstehenden Alternativen zu befördern.
+      Pro Reisezug darf nur eine kennzeichnungspflichtige Beförderungseinheit am Anfang oder am Ende mitgeführt werden.
+    dd) Schriftliche Weisungen:
+      Schriftliche Weisungen sind in den Straßenfahrzeugen nach den Vorschriften des Abschnitts 5.4.3 ADR mitzuführen.
+    ee) Beförderungsausschluss:
+      Die Beförderung von Straßenfahrzeugen mit gefährlichen Gütern in Verpackungen, einschließlich Großpackmittel (IBC) und Großverpackungen (Large Packagings), Straßentankfahrzeugen und Straßenfahrzeugen mit Aufsetztanks ist ausgeschlossen, wenn während der Beförderungsdauer mit einer Windstärke von 10 oder mehr (nach Beaufort-Skala) gerechnet werden kann.
+    ff) Straßenfahrzeuge mit ungereinigten leeren Tanks:
+      Vorstehende Regelungen sind auch bei der Beförderung von Straßenfahrzeugen mit ungereinigten leeren Tanks anzuwenden.
+    gg) Angaben im Beförderungspapier:
+      Die Bezeichnung des gefährlichen Gutes im Beförderungspapier nach dem Sylt-Shuttle-Tarif muss den Vorschriften des RID entsprechen.
+5. In der Binnenschifffahrt gelten für innerstaatliche und grenzüberschreitende Beförderungen die nachstehenden Vorschriften und Einschränkungen zu den Teilen 1 bis 9 des ADN:
+5.1 Eine Zustimmung nach Unterabschnitt 7.1.6.11 Anforderung ST01 ADN ist nicht erforderlich.
+6. Abweichungen von den Teilen 1 bis 9 ADN für Beförderungen auf dem Rhein
+6.1 Abweichend von den Abschnitten 7.1.5.1 und 7.2.5.1 ADN dürfen Schiffe, die gefährliche Güter befördern oder nicht entgast sind, nicht in Schubverbänden enthalten sein, deren Abmessungen 195 x 24 m überschreiten.
+6.2 Folgende Übergangsbestimmungen gelten bei der Beförderung nachstehender Stoffe:
+6.2.1 Folgende Stoffe dürfen in Tankschiffen des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 6 kPa (0,06 Bar) (Prüfdruck der Ladetanks von 10 kPa (0,10 Bar)) befördert werden:
+  a) Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N offen, Typ N offen mit Flammendurchschlagsicherung oder Typ N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
+  b) Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.
+    | Schiffsname | ENI Nummer | Stoffliste Nummer |
+    | T.M.S. PIZ EVEREST | 0232 6324 | 1 |
+6.2.2 Folgende Stoffe dürfen in Tankschiffen des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 10 kPa (0,10 Bar) (Prüfdruck der Ladetanks von 65 kPa (0,65 Bar)) befördert werden:
+  a) Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N offen, des Typs N offen mit Flammendurchschlagsicherung oder des Typs N geschlossen mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
+    Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
+  b) Das nachstehend aufgeführte Schiff hatte am 31.12.1986 eine Sondergenehmigung für bestimmte Stoffe und ist auf Grund seiner Bauweise, d. h. mit Doppelboden und Wallgängen, zugelassen für die Beförderung von den in der separaten Liste aufgenommenen Stoffen.
+    | Schiffsname | ENI Nummer | Stoffliste Nummer |
+    | T.M.S. EILTANK 9 | 0430 4830 | 5 |
+6.2.3 Folgende Stoffe dürfen in Tankschiffen des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 9 kPa (0,09 Bar) befördert werden:
+  Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 10 kPa (0,10 Bar) gefordert wird.
+6.2.4 Folgende Stoffe dürfen in Tankschiffen des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von mindestens 35 kPa (0,35 Bar) befördert werden:
+  Alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN mindestens ein Tankschiff des Typs N oder des Typs C mit einem Einstelldruck des Hochgeschwindigkeitsventils von 35 kPa (0,35 Bar) gefordert wird.
+  Wenn das Hochgeschwindigkeitsventil umgebaut wird auf 50 kPa (0,50 Bar), dürfen alle Stoffe, für die in Kapitel 3.2 Tabelle C ADN ein Einstelldruck des Hochgeschwindigkeitsventils von 50 kPa (0,50 Bar) gefordert wird, befördert werden.
+Stoffliste Nummer 1:
+| UN- Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
+| 1114 | 3, F1 | II | BENZEN |
+| 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
+| 1143 | 6.1, TF1 | I | CROTONALDEHYD, STABILISIERT |
+| 1203 | 3, F1 | II | BENZIN MIT MEHR ALS 10 % BENZEN |
+| 1218 | 3, F1 | I | ISOPREN, STABILISIERT |
+| 1247 | 3, F1 | II | METHYLMETHACRYLAT, MONOMER, STABILISIERT |
+| 1267 | 3, F1 | I | ROHERDÖL, MIT MEHR ALS 10 % BENZEN |
+| 1267 | 3, F1 | II | ROHERDÖL, MIT MEHR ALS 10 % BENZEN |
+| 1268 | 3, F1 | I | ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN |
+| 1268 | 3, F1 | II | ERDÖLDESTILLATE, N.A.G. MIT MEHR ALS 10 % BENZEN oder ERDÖLPRODUKTE, N.A.G. MIT MEHR ALS 10 % BENZEN |
+| 1277 | 3, FC | II | PROPYLAMIN (1-Aminopropan) |
+| 1278 | 3, F1 | II | 1-CHLORPROPAN (Propylchlorid) |
+| 1296 | 3, FC | II | TRIETHYLAMIN |
+| 1578 | 6.1, T2 | II | CHLORNITROBENZENE, FEST, GESCHMOLZEN (p-CHLORNITROBENZEN) |
+| 1591 | 6.1, T1 | III | o-DICHLORBENZEN |
+| 1593 | 6.1, T1 | III | DICHLORMETHAN (Methylenchlorid) |
+| 1605 | 6.1, T1 | I | 1,2-DIBROMETHAN |
+| 1710 | 6.1, T1 | III | TRICHLORETHYLEN |
+| 1750 | 6.1, TC1 | II | CHLORESSIGSÄURE, LÖSUNG |
+| 1831 | 8, CT1 | I | SCHWEFELSÄURE, RAUCHEND |
+| 1846 | 6.1, T1 | II | TETRACHLORKOHLENSTOFF |
+| 1863 | 3, F1 | I | DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN |
+| 1863 | 3, F1 | II | DÜSENKRAFTSTOFF MIT MEHR ALS 10 % BENZEN |
+| 1888 | 6.1, T1 | III | CHLOROFORM |
+| 1897 | 6.1, T1 | III | TETRACHLORETHYLEN |
+| 1993 | 3, F1 | I | ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G. MIT MEHR ALS 10 % BENZEN |
+| 1993 | 3, F1 | II | ENTZÜNDBARER FLÜSSIGER STOFF, N.A.G. MIT MEHR ALS 10 % BENZEN |
+| 2205 | 6.1, T1 | III | ADIPONITRIL |
+| 2238 | 3, F1 | III | CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN) |
+| 2263 | 3, F1 | II | DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN) |
+| 2263 | 3, F1 | II | DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN) |
+| 2266 | 3, FC | II | DIMETHYL-N-PROPYLAMIN |
+| 2312 | 6.1, T1 | II | PHENOL, GESCHMOLZEN |
+| 2333 | 3, FT1 | II | ALLYLACETAT |
+| 2733 | 3, FC | II | AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G. (2-AMINOBUTAN) |
+| 2810 | 6.1, T1 | III | GIFTIGER, ORGANISCHER, FLÜSSIGER STOFF, N.A.G. (1,1,2-Trichlorethan) |
+| 2874 | 6.1, T1 | III | FURFURYLALKOHOL |
+| 3295 | 3, F1 | I | KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G. MIT MEHR ALS 10 % BENZEN |
+| 3295 | 3, F1 | II | KOHLENWASSERSTOFFE, FLÜSSIG, N.A.G. MIT MEHR ALS 10 % BENZEN |
+| 3455 | 6.1, TC2 | II | CRESOLE, FEST, GESCHMOLZEN |
+Stofflisten Nummer 2 bis 4
+(weggefallen)
+Stoffliste Nummer 5:
+| UN-Nummer | Klasse undKlassifizierungscode | Verpackungs-gruppe | Benennung und Beschreibung |
+| 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
+| 1218 | 3, F1 | I | ISOPREN, STABILISIERT |
+| 1247 | 3, F1 | II | METHYLMETHACRYLAT, MONOMER, STABILISIERT |
+| 1277 | 3, FC | II | PROPYLAMIN (1-Aminopropan) |
+| 1278 | 3, F1 | II | 1-CHLORPROPAN (Propylchlorid) |
+| 1296 | 3, FC | II | TRIETHYLAMIN |
+| 1547 | 6.1, T1 | II | ANILIN |
+| 1750 | 6.1, TC1 | II | CHLORESSIGSÄURE, LÖSUNG |
+| 1831 | 8, CT1 | I | SCHWEFELSÄURE, RAUCHEND |
+| 2238 | 3, F1 | III | CHLORTOLUENE (m-, o- oder p-CHLORTOLUEN) |
+| 2263 | 3, F1 | II | DIMETHYLCYCLOHEXANE (cis-1,4-DIMETHYLCYCLOHEXAN) |
+| 2263 | 3, F1 | II | DIMETHYLCYCLOHEXANE (trans-1,4-DIMETHYLCYCLOHEXAN) |
+| 2266 | 3, FC | II | DIMETHYL-N-PROPYLAMIN |
+| 2333 | 3, FT1 | II | ALLYLACETAT |
+| 2733 | 3, FC | II | AMINE, ENTZÜNDBAR, ÄTZEND, N.A.G. (2-AMINOBUTAN) |
+| 3446 | 6.1, T2 | II | NITROTOLUENE, FEST, GESCHMOLZEN (o-NITROTOLUEN) |

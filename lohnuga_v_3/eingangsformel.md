@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 3a Absatz 2 in Verbindung mit den Absätzen 1, 3 und 5 des Arbeitnehmerüberlassungsgesetzes, dessen Absätze 1, 2 und 3 zuletzt durch Artikel 7 Nummer 1 des Gesetzes vom 11. August 2014 (BGBl. I S. 1348) geändert worden sind, verordnet das Bundesministerium für Arbeit und Soziales, nachdem es Verleihern und Leiharbeitnehmerinnen und Leiharbeitnehmern sowie den Gewerkschaften und Vereinigungen von Arbeitgebern, die im Geltungsbereich der Verordnung zumindest teilweise tarifzuständig sind, Gelegenheit zur schriftlichen Stellungnahme gegeben hat und der in § 5 Absatz 1 Satz 1 des Tarifvertragsgesetzes genannte Ausschuss befasst war:

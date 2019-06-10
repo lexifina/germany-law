@@ -1,0 +1,17 @@
+# Verordnung zur Statistik über die Vergabe öffentlicher Aufträge und Konzessionen
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Umfang der Datenübermittlung](0002.md)
+- [§ 3 Daten bei Aufträgen oberhalb der Schwellenwerte](0003.md)
+- [§ 4 Daten bei Aufträgen unterhalb der Schwellenwerte](0004.md)
+- [§ 5 Datenübermittlung](0005.md)
+- [§ 6 Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen](0006.md)
+- [§ 7 Datenübermittlung für die wissenschaftliche Forschung](0007.md)
+- [§ 8 Übergangsregelung](0008.md)
+- [Anlage 1 (zu § 3 Absatz 1)Daten, die durch öffentliche Auftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrags an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-1.md)
+- [Anlage 2 (zu § 3 Absatz 2)Daten, die durch öffentliche Auftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrages über soziale und andere besondere Dienstleistungen nach Anhang XIV der Richtlinie 2014/24/EU an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-2.md)
+- [Anlage 3 (zu § 3 Absatz 3)Daten, die durch Sektorenauftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrages an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-3.md)
+- [Anlage 4 (zu § 3 Absatz 4)Daten, die durch Sektorenauftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines öffentlichen Auftrages über soziale und andere besondere Dienstleistungen nach Anhang XVII der Richtlinie 2014/25/EU an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-4.md)
+- [Anlage 5 (zu § 3 Absatz 5)Daten, die durch Konzessionsgeber nach Vergabe einer Konzession an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-5.md)
+- [Anlage 6 (zu § 3 Absatz 6)Daten, die durch Konzessionsgeber nach Vergabe einer Konzession über soziale und andere besondere Dienstleistungen nach Anhang IV der Richtlinie 2014/23/EU an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-6.md)
+- [Anlage 7 (zu § 3 Absatz 7)Daten, die durch öffentliche Auftraggeber und Sektorenauftraggeber nach Zuschlagserteilung im Rahmen der Vergabe eines verteidigungs- oder sicherheitsspezifischen öffentlichen Auftrages an das Bundesministerium für Wirtschaft und Energie zu übermitteln sind](anlage-7.md)

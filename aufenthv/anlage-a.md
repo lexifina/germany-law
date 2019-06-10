@@ -1,0 +1,43 @@
+# Anlage A (zu § 16)
+
+| 1. | Inhaber von Nationalpässen und/oder Reiseausweisen für Flüchtlinge sowie sonstiger in den jeweiligen Abkommen genannten Reisedokumente von |  |
+|  | Staat | Zugehörige Fundstelle |
+|  | Australien | GMBl 1953 S. 575 |
+|  | Brasilien | BGBl. 2008 II S. 1179 |
+|  | Chile | GMBl 1955 S. 22 |
+|  | El Salvador | BAnz. 1998 S. 12 778 |
+|  | Honduras | GMBl 1963 S. 363 |
+|  | Japan | BAnz. 1998 S. 12 778 |
+|  | Kanada | GMBl 1953 S. 575 |
+|  | Korea (Republik Korea) | BGBl. 1974 II S. 682; BGBl. 1998 II S. 1390 |
+|  | Monaco | GMBl 1959 S. 287 |
+|  | Neuseeland | BGBl. 1972 II S. 1550 |
+|  | Panama | BAnz. 1967 Nr. 171, S. 1 |
+|  | San Marino | BGBl. 1969 II S. 203 |
+|  |
+| 2. | Inhaber dienstlicher Pässe von |
+|  | Staat | Zugehörige Fundstelle |
+|  | Ghana | BGBl. 1998 II S. 2909 |
+|  | Philippinen | BAnz. 1968 Nr. 135, S. 2 |
+|  |
+| 3. | Inhaber von Reiseausweisen für Flüchtlinge von |
+|  | Belgien, |  |
+|  | Dänemark, |  |
+|  | Finnland, |  |
+|  | Irland, |  |
+|  | Island, |  |
+|  | Italien, |  |
+|  | Liechtenstein, |  |
+|  | Luxemburg |  |
+|  | Malta, |  |
+|  | Niederlande, |  |
+|  | Norwegen, |  |
+|  | Polen, |  |
+|  | Portugal, |  |
+|  | Rumänien, |  |
+|  | Schweden, |  |
+|  | Schweiz, |  |
+|  | Slowakei, |  |
+|  | Spanien, |  |
+|  | Tschechische Republik, Ungarn |  |
+nach Maßgabe des Europäischen Übereinkommens über die Aufhebung des Sichtvermerkszwangs für Flüchtlinge vom 20. April 1959 (BGBl. 1961 II S. 1097, 1098) sowie hinsichtlich der Inhaber von Reiseausweisen für Flüchtlinge der Schweiz auch nach Maßgabe des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat über die Abschaffung des Sichtvermerkszwangs für Flüchtlinge vom 4. Mai 1962 (BGBl.1962 II S. 2331, 2332).

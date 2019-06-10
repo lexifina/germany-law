@@ -1,0 +1,134 @@
+# Anlage 2 (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann im
+Eisenbahn- und Straßenverkehr/zur Kauffrau im
+Eisenbahn- und Straßenverkehr
+
+(Fundstelle: BGBl. I 1999, 1594 - 1596)
+- Zeitliche Gliederung -
+            1. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.1 Aufgaben, Struktur und Rechtsform
+1.2 Berufsbildung, arbeits- und sozialrechtliche Vorschriften
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
+1.4 Umweltschutz
+2. Arbeitsorganisation, Informations- und Kommunikationssysteme
+3. Markt für Beförderungsleistungen, Lernziele a) bis d)
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5.1 Marketing, Lernziele a), c) und d)
+5.2 Entwickeln und Anbieten von Leistungen, Lernziele a) und b)
+6.1 Kommunikation, Lernziele a) bis d)
+6.2 Verkauf und Beratung
+6.3 Anwenden von Fremdsprachen bei Fachaufgaben, Lernziele a) und c)
+zu vermitteln und die Fertigkeiten und Kenntnisse der Berufsbildposition
+1.4 Umweltschutz
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+7.1 Rechnungswesen, Lernziele a) und b)
+7.2 Kosten- und Leistungsrechnung, Lernziele a) und c)
+7.3 Controlling, Lernziel a)
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.2 Informations- und Kommunikationssysteme
+2.3 Datenschutz und Datensicherheit
+fortzuführen.
+2. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+4.1 Produktionsplanung und -prozesse
+4.2 Transportmittel und Transportketten
+4.3 Qualitätsmanagement, Lernziele a) und b)
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
+1.4 Umweltschutz
+2.1 Arbeitsorganisation, Lernziele c) bis f)
+2.2 Informations- und Kommunikationssysteme
+3. Markt für Beförderungsleistungen, Lernziele a) bis d)
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3. Markt für Beförderungsleistungen, Lernziel e)
+5.1 Marketing, Lernziel b)
+5.2 Entwickeln und Anbieten von Leistungen, Lernziele c) und d)
+5.3 Preise und Preiskalkulation
+5.4 Verträge und Vereinbarungen, Lernziele b) bis d)
+5.5 Bearbeiten von Kundenaufträgen
+6.3 Anwenden von Fremdsprachen bei Fachaufgaben, Lernziel b)
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
+1.4 Umweltschutz
+2.1 Arbeitsorganisation, Lernziele c) bis f)
+4.1 Produktionsplanung und -prozesse
+4.2 Transportmittel und Transportketten
+4.3 Qualitätsmanagement, Lernziele a) und b)
+6.1 Kommunikation, Lernziele a) bis d)
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+7.3 Controlling, Lernziel b)
+7.4 Finanzierung, Lernziele b) und c)
+8.1 Bedarf und Einkauf, Lernziele a) bis d)
+8.2 Disposition und Bestandsführung, Lernziel a)
+9.1 Personalplanung, Lernziele f) und g)
+9.2 Personalverwaltung, Lernziele a) und b)
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.2 Informations- und Kommunikationssysteme
+2.3 Datenschutz und Datensicherheit
+6.1 Kommunikation, Lernziele c) und d)
+7.3 Controlling, Lernziel a)
+fortzuführen.
+3. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+9.1 Personalplanung, Lernziele a) bis e)
+9.2 Personalverwaltung, Lernziele c) bis e)
+9.3 Personalentwicklung
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.2 Berufsbildung, arbeits- und sozialrechtliche Vorschriften
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
+2.1 Arbeitsorganisation, Lernziele c) bis f)
+2.2 Informations- und Kommunikationssysteme
+2.3 Datenschutz und Datensicherheit
+6.1 Kommunikation, Lernziele c) und d)
+7.3 Controlling, Lernziel a)
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+7.1 Rechnungswesen, Lernziele c) und d)
+7.2 Kosten- und Leistungsrechnung, Lernziele b) und d)
+7.3 Controlling, Lernziel c)
+7.4 Finanzierung, Lernziel a)
+8.1 Bedarf und Einkauf, Lernziel e)
+8.2 Disposition und Bestandsführung, Lernziele b) und c)
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+7.1 Rechnungswesen, Lernziele a) und b)
+7.2 Kosten- und Leistungsrechnung, Lernziele a) und c)
+7.3 Controlling, Lernziele a) und b)
+7.4 Finanzierung, Lernziele b) und c)
+8.1 Bedarf und Einkauf, Lernziele a) bis d)
+8.2 Disposition und Bestandsführung, Lernziel a)
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+4.3 Qualitätsmanagement, Lernziele c) und d)
+5.1 Marketing, Lernziel e)
+5.6 Haftung und Schadensregulierung
+6.1 Kommunikation, Lernziel e)
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.1 Arbeitsorganisation, Lernziele c) bis f)
+2.2 Informations- und Kommunikationssysteme
+2.3 Datenschutz und Datensicherheit
+6.1 Kommunikation, Lernziele a) bis d)
+6.2 Verkauf und Beratung
+6.3 Anwenden von Fremdsprachen bei Fachaufgaben
+fortzuführen sowie die Berufsbildpositionen
+4.3 Qualitätsmanagement, Lernziele a) und b)
+5.1 Marketing, Lernziele a) bis d)
+5.2 Entwickeln und Anbieten von Leistungen
+5.3 Preise und Preiskalkulation
+5.4 Verträge und Vereinbarungen, Lernziele a), c) und d)
+5.5 Bearbeiten von Kundenaufträgen
+zu vertiefen.

@@ -1,0 +1,143 @@
+# Gesetz über den Zivildienst der Kriegsdienstverweigerer
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+
+## Erster Abschnitt Aufgaben und Organisation des
+Zivildienstes
+
+- [§ 1 Aufgaben des Zivildienstes](0001.md)
+- [§ 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes](0001a.md)
+- [§ 2 Organisation des Zivildienstes](0002.md)
+- [§ 2a Beirat für den Zivildienst](0002a.md)
+- [§ 3 Dienststellen](0003.md)
+- [§ 4 Anerkennung von Beschäftigungsstellen](0004.md)
+- [§ 5 Aufstellung der Dienstgruppen](0005.md)
+- [§ 5a Übertragung von Verwaltungsaufgaben](0005a.md)
+- [§ 6 Kosten](0006.md)
+
+## Zweiter Abschnitt Tauglichkeit, Zivildienstausnahmen
+
+- [§ 7 Tauglichkeit](0007.md)
+- [§ 8 Zivildienstunfähigkeit](0008.md)
+- [§ 9 Ausschluss vom Zivildienst](0009.md)
+- [§ 10 Befreiung vom Zivildienst](0010.md)
+- [§ 11 Zurückstellung vom Zivildienst](0011.md)
+- [§ 12 Befreiungs- und Zurückstellungsanträge](0012.md)
+- [§ 13 Verfahren bei der Zurückstellung](0013.md)
+- [§ 14 Zivilschutz oder Katastrophenschutz](0014.md)
+- [§ 14a Entwicklungsdienst](0014a.md)
+- [§ 14b Andere Dienste im Ausland](0014b.md)
+- [§ 14c Freiwilliges Jahr](0014c.md)
+- [§ 15 Sondervorschriften für Angehörige des Polizeivollzugsdienstes](0015.md)
+- [§ 15a Freies Arbeitsverhältnis](0015a.md)
+- [§ 16 Unabkömmlichstellung](0016.md)
+- [§ 17 Entscheidungen über Wehrdienstausnahmen](0017.md)
+- [§ 18 Erstattung von Auslagen und Verdienstausfall](0018.md)
+
+## Dritter Abschnitt Heranziehung zum Zivildienst
+
+- [§ 19 Einberufung](0019.md)
+- [§ 19a Verlegung des ständigen Aufenthaltes](0019a.md)
+- [§ 20 Vernehmung von Zeuginnen, Zeugen und Sachverständigen](0020.md)
+- [§ 21 Widerruf des Einberufungsbescheides](0021.md)
+- [§ 22 Anrechnung anderen Dienstes](0022.md)
+- [§ 22a Anrechnung von Wehr- und Zivildienst anderer Staaten](0022a.md)
+- [§ 23 Zivildienstüberwachung](0023.md)
+- [§ 23a Zuführung](0023a.md)
+
+## Vierter Abschnitt Rechtsstellung der Dienstpflichtigen
+
+- [§ 24 Dauer des Zivildienstes](0024.md)
+- [§ 25 Beginn des Zivildienstes](0025.md)
+- [§ 25a Einweisung in der Dienststelle](0025a.md)
+- [§ 25b Einführung und Begleitung](0025b.md)
+- [§ 25c Staatsbürgerliche Rechte](0025c.md)
+- [§ 26 Achtung der demokratischen Grundordnung](0026.md)
+- [§ 27 Grundpflichten](0027.md)
+- [§ 28 Verschwiegenheit](0028.md)
+- [§ 29 Politische Betätigung](0029.md)
+- [§ 30 Dienstliche Anordnungen](0030.md)
+- [§ 30a Pflichten der Vorgesetzten](0030a.md)
+- [§ 31 Dienstliche Unterkunft; Gemeinschaftsverpflegung](0031.md)
+- [§ 32 Arbeitszeit; innerer Dienstbetrieb](0032.md)
+- [§ 32a Verwendung bei Arbeitskämpfen](0032a.md)
+- [§ 33 Nebentätigkeit](0033.md)
+- [§ 34 Haftung](0034.md)
+- [§ 35 Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub](0035.md)
+- [§ 36 Personalakten und Beurteilungen](0036.md)
+- [§ 36a (weggefallen)](0036a.md)
+- [§ 37 Beteiligung der Dienstleistenden](0037.md)
+- [§ 38 Seelsorge](0038.md)
+- [§ 39 Ärztliche Untersuchung](0039.md)
+- [§ 40 Erhaltung der Gesundheit; ärztliche Eingriffe](0040.md)
+- [§ 41 Anträge und Beschwerden](0041.md)
+- [§ 41a Freiwilliger zusätzlicher Zivildienst](0041a.md)
+
+## Fünfter Abschnitt Ende des Zivildienstes; Versorgung
+
+- [§ 42 Ende des Zivildienstes](0042.md)
+- [§ 43 Entlassung](0043.md)
+- [§ 44 Zeitpunkt der Beendigung des Zivildienstes](0044.md)
+- [§ 45 Ausschluss](0045.md)
+- [§ 45a Mitteilungen in Strafsachen](0045a.md)
+- [§ 46 Dienstzeitbescheinigung und Dienstzeugnis](0046.md)
+- [§ 47 Versorgung](0047.md)
+- [§ 47a Versorgung in besonderen Fällen](0047a.md)
+- [§ 47b Unfallschutz in besonderen Fällen](0047b.md)
+- [§ 48 Heilbehandlung in besonderen Fällen](0048.md)
+- [§ 49 Versorgungskrankengeld in besonderen Fällen](0049.md)
+- [§ 50 Ausgleich für Zivildienstbeschädigungen](0050.md)
+- [§ 51 Durchführung der Versorgung](0051.md)
+- [§ 51a Überleitungsregelungen aus Anlass der Herstellung der
+Einheit Deutschlands](0051a.md)
+
+## Sechster Abschnitt Straf-, Bußgeld- und
+Disziplinarvorschriften
+
+- [§ 52 Eigenmächtige Abwesenheit](0052.md)
+- [§ 53 Dienstflucht](0053.md)
+- [§ 54 Nichtbefolgen von Anordnungen](0054.md)
+- [§ 55 Teilnahme](0055.md)
+- [§ 56 Ausschluss der Geldstrafe](0056.md)
+- [§ 57 Ordnungswidrigkeiten](0057.md)
+- [§ 58 Dienstvergehen](0058.md)
+- [§ 58a Ahndung von Dienstvergehen](0058a.md)
+- [§ 58b Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen](0058b.md)
+- [§ 58c Förmliche Anerkennungen](0058c.md)
+- [§ 59 Disziplinarmaßnahmen](0059.md)
+- [§ 60 Inhalt und Höhe der Disziplinarmaßnahmen](0060.md)
+- [§ 61 Disziplinarvorgesetzte](0061.md)
+- [§ 62 Ermittlungen](0062.md)
+- [§ 62a Aussetzung des Verfahrens](0062a.md)
+- [§ 62b Anhörung](0062b.md)
+- [§ 63 Einstellung des Verfahrens](0063.md)
+- [§ 64 Verhängung der Disziplinarmaßnahme](0064.md)
+- [§ 65 Disziplinarverfügung; Beschwerde](0065.md)
+- [§ 66 Anrufung des Verwaltungsgerichts](0066.md)
+- [§ 67 Aufhebung der Disziplinarverfügung](0067.md)
+- [§ 68 Vollstreckung](0068.md)
+- [§ 69 Auskünfte](0069.md)
+- [§ 69a Tilgung](0069a.md)
+- [§ 70 Gnadenrecht](0070.md)
+
+## Siebenter Abschnitt Besondere Verfahrensvorschriften
+
+- [§ 71 Form und Bekanntgabe von Verwaltungsakten; Zustellungen](0071.md)
+- [§ 72 Widerspruch](0072.md)
+- [§ 73 Anfechtung des Einberufungsbescheides](0073.md)
+- [§ 74 Ausschluss der aufschiebenden Wirkung des Widerspruchs und
+der Klage](0074.md)
+- [§ 75 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts](0075.md)
+- [§ 76 Rechte des gesetzlichen Vertreters](0076.md)
+- [§ 77 Anwendungsbereich](0077.md)
+
+## Achter Abschnitt Schlussvorschriften
+
+- [§ 78 Entsprechende Anwendung weiterer Rechtsvorschriften](0078.md)
+- [§ 79 Vorschriften für den Spannungs- oder Verteidigungsfall](0079.md)
+- [§ 80 Einschränkung von Grundrechten](0080.md)
+- [§ 81 (weggefallen)](0081.md)
+- [§ 81 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0081-2.md)
+- [§ 81a Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0081a.md)
+- [§ 82 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 31. Juli 2008 (BGBl. I S. 1629)](0082.md)
+- [§ 83 Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes](0083.md)

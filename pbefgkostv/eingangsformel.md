@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 57 Abs. 1 Nr. 10 des Personenbeförderungsgesetzes in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690), der durch Artikel 1 Nr. 2 des Gesetzes vom 23. Juli 1992 (BGBl. I S. 1379) geändert worden ist, und auf Grund des § 56 des Personenbeförderungsgesetzes, der durch Artikel 4 Nr. 1 des Gesetzes vom 19. März 2001 (BGBl. I S. 386) geändert worden ist, in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), dem Artikel 56 Abs. 1 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlass des Bundeskanzlers vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet das Bundesministerium für Verkehr, Bau- und Wohnungswesen:

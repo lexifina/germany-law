@@ -1,0 +1,19 @@
+# Anlage 3 (zu § 13b Absatz 2 Nummer 7) Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7
+
+| Lfd. Nr. | Warenbezeichnung | Zolltarif (Kapitel, Position, Unterposition) |
+| 1 | Granulierte Schlacke (Schlackensand) aus der Eisen- und Stahlherstellung | Unterposition 2618 00 00 |
+| 2 | Schlacken (ausgenommen granulierte Schlacke), Zunder und andere Abfälle der Eisen- und Stahlherstellung | Unterposition 2619 00 |
+| 3 | Schlacken, Aschen und Rückstände (ausgenommen solche der Eisen- und Stahlherstellung), die Metalle, Arsen oder deren Verbindungen enthalten | Position 2620 |
+| 4 | Abfälle, Schnitzel und Bruch von Kunststoffen | Position 3915 |
+| 5 | Abfälle, Bruch und Schnitzel von Weichkautschuk, auch zu Pulver oder Granulat zerkleinert | Unterposition 4004 00 00 |
+| 6 | Bruchglas und andere Abfälle und Scherben von Glas | Unterposition 7001 00 10 |
+| 7 | Abfälle und Schrott von Edelmetallen oder Edelmetallplattierungen; andere Abfälle und Schrott, Edelmetalle oder Edelmetallverbindungen enthaltend, von der hauptsächlich zur Wiedergewinnung von Edelmetallen verwendeten Art | Position 7112 |
+| 8 | Abfälle und Schrott, aus Eisen oder Stahl; Abfallblöcke aus Eisen oder Stahl | Position 7204 |
+| 9 | Abfälle und Schrott, aus Kupfer | Position 7404 |
+| 10 | Abfälle und Schrott, aus Nickel | Position 7503 |
+| 11 | Abfälle und Schrott, aus Aluminium | Position 7602 |
+| 12 | Abfälle und Schrott, aus Blei | Position 7802 |
+| 13 | Abfälle und Schrott, aus Zink | Position 7902 |
+| 14 | Abfälle und Schrott, aus Zinn | Position 8002 |
+| 15 | Abfälle und Schrott, aus anderen unedlen Metallen | aus Positionen 8101 bis 8113 |
+| 16 | Abfälle und Schrott, von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren | Unterposition 8548 10 |

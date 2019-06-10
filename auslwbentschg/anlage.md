@@ -1,0 +1,33 @@
+# Anlage (§ 9 Abs. 1)Verzeichnis nach § 9 Abs. 1
+
+| Lfd. Nr. | Auslandsbondart | Währung | Aufgeführt im Verzeichnis *) der Auslandsbonds unter |
+| 1 | Belgische Ausgabe der Dawes-Anleihe | Pfund | Teil A | lfd. Nr. 1a) |
+| 2 | Holländische Ausgabe der Dawes-Anleihe | Pfund | Teil A | lfd. Nr. 1b) |
+| 3 | Französische Ausgabe der Dawes-Anleihe | Pfund | Teil A | lfd. Nr. 1c) |
+| 4 | Schweizerische Ausgabe der Dawes-Anleihe | Pfund | Teil A | lfd. Nr. 1f) |
+| 5 | Schweizerische Ausgabe der Dawes-Anleihe | sfrs. | Teil A | lfd. Nr. 1g) |
+| 6 | Britische Ausgabe der Dawes-Anleihe | Pfund | Teil A | lfd. Nr. 1h) |
+| 7 | Amerikanische Ausgabe der Dawes-Anleihe | $ | Teil A | lfd. Nr. 1i) |
+| 8 | Holländische Ausgabe der Young-Anleihe | hfl. | Teil A | lfd. Nr. 3b) |
+| 9 | Deutsche Ausgabe der Young-Anleihe | RM | Teil A | lfd. Nr. 3f) |
+| 10 | Schweizerische Ausgabe der Young-Anleihe | sfrs. | Teil A | lfd. Nr. 3g) |
+| 11 | Amerikanische Ausgabe der Young-Anleihe | $ | Teil A | lfd. Nr. 3i) |
+| 12 | 6 1/2%ige Preußische Äußere Anleihe | $ | Teil A | lfd. Nr. 4 |
+| 13 | 6%ige Preußische Äußere Anleihe | $ | Teil A | lfd. Nr. 5 |
+| 14 | 4%ige Schuldverschreibungen der Konversionskasse vom 1.7.1935 - Serie I A | sfrs. | Teil B | lfd. Nr. 4a) |
+| 15 | 4%ige Schuldverschreibungen der Konversionskasse vom 1.7.1935 - Serie I B | sfrs. | Teil B | lfd. Nr. 4b) |
+| 16 | 3%ige Schuldverschreibungen der Konversionskasse vom 1.7.1936 -Alte Ausgabe | $ | Teil B | lfd. Nr. 11 |
+| 17 | 3%ige Schuldverschreibungen der Konversionskasse vom 1.6.1937 -Neue Ausgabe | $ | Teil B | lfd. Nr. 12 |
+| 18 | 6%ige Teilschuldverschreibungen der Badische Landeselektrizitätsversorgung Aktiengesellschaft von 1928 | sfrs. | Teil C II | lfd. Nr. 3 |
+| 19 | 6%ige Teilschuldverschreibungen der Badische Landeselektrizitätsversorgung Aktiengesellschaft von 1930 | sfrs. | Teil C II | lfd. Nr. 4 |
+| 20 | 6%ige Obligationen der Schluchseewerk Aktiengesellschaft von 1929 | sfrs. | Teil C II | lfd. Nr. 25 |
+| 21 | 7%ige Sterling Bonds der Deutsches Kalisyndikat GmbH von 1925 | Pfund | Teil C III | lfd. Nr. 8 |
+| 22 | 7%ige Sterling Bonds der Deutsches Kalisyndikat GmbH von 1926 | Pfund | Teil C III | lfd. Nr. 9 |
+| 23 | 6 1/2%ige Serial Gold Bonds des Freistaates Bayern von 1925 -Serie 20 | $ | Teil C IV | lfd. Nr. 5 |
+| 24 | 6 1/2%ige Gold Bonds des Freistaates Bayern von 1925 | $ | Teil C IV | lfd. Nr. 6 |
+| 25 | 7%ige Gold Bonds des Deutschen Sparkassen- und Giroverbandes von 1926 | $ | Teil C IV | lfd. Nr. 24 |
+| 26 | 6%ige Gold Bonds des Deutschen Sparkassen- und Giroverbandes von 1928 | $ | Teil C IV | lfd. Nr. 25 |
+| 27 | 7%ige Gold Bonds der Rheinisch-Westfälisches Elektrizitätswerk Aktiengesellschaft von 1925 | $ | Teil C IV | lfd. Nr. 65 |
+| 28 | 6%ige Gold Bonds der Rheinisch-Westfälisches Elektrizitätswerk Aktiengesellschaft von 1927 | $ | Teil C IV | lfd. Nr. 66 |
+| 29 | 6%ige Gold Bonds der Rheinisch-Westfälisches Elektrizitätswerk Aktiengesellschaft von 1928 | $ | Teil C IV | lfd. Nr. 67 |
+| 30 | 6%ige Gold Bonds der Rheinisch-Westfälisches Elektrizitätswerk Aktiengesellschaft von 1930 | $ | Teil C IV | lfd. Nr. 68 |

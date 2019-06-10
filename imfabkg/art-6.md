@@ -1,0 +1,6 @@
+# Art 6
+
+(1)
+Der Gouverneur sowie das Mitglied im Rat auf Ministerebene üben ihre Tätigkeit im Einvernehmen mit dem Bundesministerium der Finanzen aus, der das Benehmen mit dem Bundesministerium für Wirtschaft und Energie herstellt.
+(2)
+Die sonstigen Erklärungsberechtigten im Gouverneursrat und im Rat auf Ministerebene sowie die Erklärungsberechtigten im Exekutivdirektorium handeln auf Weisungen des Bundesministeriums der Finanzen.

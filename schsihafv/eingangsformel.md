@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980), § 46 Satz 1 geändert durch Artikel 522 Nummer 7 der Verordnung vom 31. August 2015 (BGBl. I S. 1474), in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S. 315), der zuletzt durch Artikel 23 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257, 1728) geändert worden ist, verordnet die Generaldirektion Wasserstraßen und Schifffahrt:

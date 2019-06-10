@@ -1,0 +1,16 @@
+# Verordnung über die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
+- [§ 2 Dauer der Berufsausbildung](0002.md)
+- [§ 3 Struktur der Berufsausbildung](0003.md)
+- [§ 4 Ausbildungsrahmenplan, Ausbildungsberufsbild](0004.md)
+- [§ 5 Durchführung der Berufsausbildung](0005.md)
+- [§ 6 Zwischenprüfung](0006.md)
+- [§ 7 Abschlussprüfung](0007.md)
+- [§ 8 Zusatzqualifikation](0008.md)
+- [§ 9 Prüfung der Zusatzqualifikationen](0009.md)
+- [§ 10 Bestehende Berufsausbildungsverhältnisse](0010.md)
+- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [Anlage 1 (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin](anlage-1.md)
+- [Anlage 2 (zu § 4 Absatz 1 Satz 2)Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin](anlage-2.md)

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 3 Absatz 3 Satz 1 Nummer 1 Buchstabe b und c, auch in Verbindung mit Satz 2, des § 22 Absatz 1 Nummer 1, des § 27 Absatz 3 und des § 53 des Saatgutverkehrsgesetzes in der Fassung der Bekanntmachung vom 16. Juli 2004 (BGBl. I S. 1673), von denen § 3 Absatz 3 zuletzt durch Artikel 3 Nummer 1 des Gesetzes vom 22. Mai 2013 (BGBl. I S. 1319) und § 22 Absatz 1, § 27 Absatz 3 und § 53 zuletzt durch Artikel 192 Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, jeweils in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Ernährung und Landwirtschaft:

@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Toronto am 27. August 2002 unterzeichneten Zusatzabkommen zum Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit (BGBl. 1988 II S. 26) wird zugestimmt. Das Zusatzabkommen wird nachstehend veröffentlicht.

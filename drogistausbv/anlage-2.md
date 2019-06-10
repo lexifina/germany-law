@@ -1,0 +1,126 @@
+# Anlage 2 (zu § 3)
+
+Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin
+
+- Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 1992, 1213 - 1215)
+1. Ausbildungsjahr
+1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 1 a | Stellung der Drogerie in der Gesamtwirtschaft, |
+| 1 b | Stellung des Ausbildungsbetriebes am Markt, |
+| 1 e | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, |
+| 4 b | Beratung und Verkauf, |
+| 4 f | Sortimentsstruktur, |
+| 7 c | Waren zur diätetischen Ernährung, |
+| 8 b | Mittel zur Sonnenkosmetik, |
+| 8 c | Herrenkosmetik und Pflegeprodukte, |
+| 8 e | Parfümerieartikel, |
+| 8 f | Artikel zur Hygiene, |
+| 9 b | Handel mit Gefahrstoffen und Pflanzenschutzmitteln, |
+| 9 d | sonstige wichtige Rechtsvorschriften |
+und wahlweise aus der Berufsbildposition 10 Foto
+| 10 c | Kameras und Wiedergabegeräte |
+oder aus der Berufsfeldposition 11 chemisch-technische Waren, Pflanzenschutz
+| 11 c | Pflanzenschutz- und Pflanzenstärkungsmittel |
+zu vermitteln.
+2) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 3 a | Warenannahme, |
+| 3 b | Warenlagerung, |
+und wahlweise aus der Berufsfeldposition 10 Foto
+| 10 a | Filme, Bilder, |
+| 10 b | Allgemeines Fotozubehör, |
+oder aus der Berufsfeldposition 11 chemisch-technische Waren, Pflanzenschutz
+| 11 a | Chemikalien, |
+| 11 b | chemisch-technische Waren zur Sachwerterhaltung |
+zu vermitteln.
+3) In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 1 c | Organisation des Ausbildungsbetriebs, |
+| 1 d | Berufsbildung, |
+| 1 e | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, |
+| 4 a | Verkaufsvorbereitung, |
+| 8 a | präparative und dekorative Kosmetik, |
+| 8 d | Mittel zur Körperpflege |
+zu vermitteln.
+  2. Ausbildungsjahr
+1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 5 | Personalwesen, |
+| 9 c | Handel mit Lebensmitteln und Bedarfsgegenständen, |
+und aus der Berufsfeldposition 11 chemisch-technische Waren, Pflanzenschutz
+| 11 d | Mittel zur Schädlingsbekämpfung |
+zu vermitteln und die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 1 e | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, |
+| 4 b | Beratung und Verkauf, |
+| 4 f | Sortimentsstruktur, |
+| 8 b | Mittel zur Sonnenkosmetik, |
+| 8 c | Herrenkosmetik und Pflegeprodukte, |
+| 8 e | Parfümerieartikel, |
+| 8 f | Artikel zur Hygiene, |
+| 9 b | Handel mit Gefahrstoffen und Pflanzenschutzmitteln, |
+und wahlweise aus der Berufsfeldposition 10 Foto
+| 10 a | Filme, Bilder, |
+| 10 b | Allgemeines Fotozubehör, |
+| 10 c | Kameras und Wiedergabegeräte |
+oder aus der Berufsfeldposition 11 chemisch-technische Waren, Pflanzenschutz
+| 11 b | chemisch-technische Waren zur Sachwerterhaltung, |
+| 11 c | Pflanzenschutz- und Pflanzenstärkungsmittel |
+fortzuführen.
+2) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
+| 4 d | Verkaufsabrechnung, |
+zu vermitteln und die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 8 d | Mittel zur Körperpflege, |
+| 9 d | sonstige wichtige Rechtsvorschriften |
+fortzuführen.
+3) In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 2 a | Einkaufsplanung, |
+| 2 b | Einkaufsabwicklung, |
+| 3 c | Bestandsüberwachung, |
+| 4 c | Berücksichtigung von Verbraucherwünschen und -bedürfnissen, |
+| 7 a | Mittel zur Wiederherstellung und Erhaltung der Gesundheit, |
+| 7 b | Arzneipflanzen, tierische Drogen und chemische Substanzen, |
+| 9 a | Handel mit freiverkäuflichen Arzneimitteln, |
+zu vermitteln und die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 7 c | Waren zur diätetischen Ernährung, |
+| 8 a | präparative und dekorative Kosmetik |
+fortzuführen.
+  3. Ausbildungsjahr
+1) In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
+| 6 | Rechnungswesen |
+zu vermitteln und die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 1 e | Arbeitssicherheit, Umweltschutz und rationelle Energieverwendung, |
+| 3 c | Bestandsüberwachung, |
+| 5 | Personalwesen, |
+| 8 b | Mittel zur Sonnenkosmetik, |
+| 8 c | Herrenkosmetik und Pflegeprodukte, |
+| 8 e | Parfümerieartikel, |
+| 8 f | Artikel zur Hygiene, |
+| 9 c | Handel mit Lebensmitteln und Bedarfsgegenständen, |
+und wahlweise aus der Berufsbildposition 10 Foto
+| 10 a | Filme, Bilder, |
+| 10 b | Allgemeines Fotozubehör, |
+oder aus der Berufsbildposition 11 chemisch-technische Waren, Pflanzenschutz
+| 11 b | chemisch-technische Waren zur Sachwerterhaltung, |
+| 11 c | Pflanzenschutz- und Pflanzenstärkungsmittel |
+fortzuführen.
+2) In einem Zeitraum von insgesamt drei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 4 c | Berücksichtigung von Verbraucherwünschen und -bedürfnissen, |
+| 4 f | Sortimentsstruktur, |
+| 8 d | Mittel zur Körperpflege, |
+und wahlweise aus der Berufsbildposition 10 Foto
+| 10 c | Kameras und Wiedergabegeräte |
+oder aus der Berufsbildposition 11 chemisch-technische Waren, Pflanzenschutz
+| 11 d | Mittel zur Schädlingsbekämpfung |
+fortzuführen.
+3) In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 1 f | Warenwirtschaft, Informations- und Kommunikationstechniken, |
+| 4 e | Werbung und Verkaufsförderung |
+zu vermitteln und die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+| 2 a | Einkaufsplanung, |
+| 4 b | Beratung und Verkauf, |
+| 4 d | Verkaufsabrechnung, |
+| 7 a | Mittel zur Wiederherstellung und Erhaltung der Gesundheit, |
+| 7 b | Arzneipflanzen, tierische Drogen und chemische Substanzen, |
+| 8 a | präparative und dekorative Kosmetik, |
+| 9 a | Handel mit freiverkäuflichen Arzneimitteln, |
+| 9 b | Handel mit Gefahrstoffen und Pflanzenschutzmitteln |
+fortzusetzen.

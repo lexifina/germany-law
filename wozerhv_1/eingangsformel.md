@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 87a Abs. 5 Satz 2 des Zweiten Wohnungsbaugesetzes in der Fassung der Bekanntmachung vom 30. Juli 1980 (BGBl. I S. 1085), der durch Artikel 27 Unterartikel 3 des Gesetzes vom 22. Dezember 1981 (BGBl. I S. 1523) eingefügt und durch Artikel 2 des Gesetzes vom 21. Juli 1982 (BGBl. I S. 969) geändert worden ist, und auf Grund des § 38 des Wohnungsbaugesetzes für das Saarland in der Fassung der Bekanntmachung vom 10. Juni 1980 (Amtsblatt des Saarlandes S. 802), der durch Artikel 3 des Gesetzes vom 21. Juli 1982 (BGBl. I S. 969) eingefügt worden ist, verordnet die Bundesregierung mit Zustimmung des Bundesrates:

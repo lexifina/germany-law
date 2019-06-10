@@ -1,0 +1,11 @@
+# Art 3 Zulässige Rechtsfolgen bei Straftaten nach Landesrecht
+
+(1)
+Vorschriften des Landesrechts dürfen bei Straftaten keine anderen Rechtsfolgen vorsehen als
+1. Freiheitsstrafe bis zu zwei Jahren und wahlweise Geldstrafe bis zum gesetzlichen Höchstmaß (§ 40 Abs. 1 Satz 2, Abs. 2 Satz 3 des Strafgesetzbuches),
+2. Einziehung von Gegenständen im Sinne der §§ 74 bis 74b und 74d des Strafgesetzbuches.
+(2)
+Vorschriften des Landesrechts dürfen
+1. weder Freiheitsstrafe noch Geldstrafe allein und
+2. bei Freiheitsstrafe kein anderes Mindestmaß als das gesetzliche (§ 38 Abs. 2 des Strafgesetzbuches) und kein niedrigeres Höchstmaß als sechs Monate
+androhen.

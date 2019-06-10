@@ -1,0 +1,27 @@
+# Anlage Aufstellung der gleichgestellten Prüfungszeugnisse
+
+(Fundstelle: BGBl. I 1985, 1760 - 1761;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Bezeichnung des französischen Prüfungszeugnisses: | Zeugnis über das Bestehen der Abschlußprüfung oder Gesellenprüfung in dem Ausbildungsberuf: |
+| 1.Certificat d'aptitude professionelle electricien d'equipement | 1.Elektroanlageninstallateur/Elektroanlageninstallateurin |
+| 2.Certificat d'aptitude professionelle mecanicien d'entretien | 2.Betriebsschlosser/ Betriebsschlosserin |
+| 3.Certificat d'aptitude professionelle mecanicien ajusteur | 3.Maschinenschlosser/ Maschinenschlosserin |
+| 4.Certificat d'aptitude professionelle mecanicien reparateur d'automobiles | 4.Kraftfahrzeugmechaniker/ Kraftfahrzeugmechanikerin |
+| 5.Certificat d'aptitude professionelle electricien d'automobiles | 5.Kraftfahrzeugelektriker/ Kraftfahrzeugelektrikerin |
+| 6.Certificat d'aptitude professionelle charpentier en bois:structures, escaliers, coffrages | 6.Zimmerer |
+| 7.Certificat d'aptitude professionelle constructeur en maconnerie et beton arme | 7.a)Maurerb)Beton- und Stahlbetonbauer |
+| 8.Certificat d'aptitude professionelle carreleur mosaiste | 8.Fliesen-, Platten- und Mosaikleger |
+| 9.Certificat d'aptitude professionelle platrier | 9.Stukkateur |
+| 10.Certificat d'aptitude professionnelle cuisinier | 10.Koch/Köchin |
+| 11.Certificat d'aptitude professionnelle employe d'hotel | 11.Hotelfachmann/ Hotelfachfrau |
+| 12.Certificat d'aptitude professionnelle employe de restaurant | 12.Restaurantfachmann/ Restaurantfachfrau |
+| 13.Certificat d'aptitude professionnelle coiffure option C: coiffure mixte | 13.Friseur/Friseurin |
+| 14.Certificat d'aptitude professionnelle menuisier du batiment et d'agencement | 14.Tischler/Tischlerin |
+| 15.Certificat d'aptitude professionnelle tailleur de pierreoption A: tailleoption B: travaux marbriers | 15.Steinmetz und Steinbildhauer/Steinmetzin und Steinbildhauerin |
+| 16.Certificat d'aptitude professionnelle boulanger | 16.Bäcker/Bäckerin |
+| 17.Certificat d'aptitude professionnelle patissier-confiseurchocolatier-glacier | 17.Konditor/Konditorin |
+| 18.Diplome de maintenance aeronautique option: cellule, moteur, electricite | 18.Fluggerätmechaniker/ Fluggerätmechanikerin |
+| 19.Certificat d'aptitude professionnelle mecanicien de cellules d'aeronefs | 19.Fluggerätbauer/ Fluggerätbauerin |
+| 20.Brevet d'etudes professionnelles conducteur d'appareil option B:traitement et epuration des eaux | 20.Ver- und Entsorger/ Ver- und Entsorgerin |
+| 21.Baccalaureat professionnel des industries chimiques et de procedes | 21.Chemikant/Chemikantin |
+| 22.Certificat d'aptitude professionnelle assurance | 22.Versicherungskaufmann/ Versicherungskauffrau |

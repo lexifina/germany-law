@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Berlin am 1. Juli 2010 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.

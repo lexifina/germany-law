@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Dieser Staatsvertrag ändert die gemeinsame Landesgrenze zwischen dem Land Hessen und dem Land Niedersachsen – im Folgenden: Länder – durch Austausch der in der Anlage 1 bezeichneten Flächen. Die Änderungen sind in dem als Anlage 2 beigefügten Kartenblatt grafisch dargestellt. Die Anlagen sind Bestandteile des Staatsvertrages.
+(2)
+In das Hoheitsgebiet des Landes Hessen gehen über die in Anlage 1 aufgeführten Flächen in der Gemarkung Escherode. In das Hoheitsgebiet des Landes Niedersachsen gehen über die in Anlage 1 aufgeführten Flächen in der Gemarkung Nieste. Die getauschten Flächen haben jeweils eine Größe von 144 772 m².

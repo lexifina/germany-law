@@ -1,0 +1,15 @@
+# Kernbrennstoffsteuergesetz
+
+- [§ 1 Steuergegenstand, Steuergebiet](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Steuertarif](0003.md)
+- [§ 4 Pflichten des Betreibers](0004.md)
+- [§ 5 Entstehung der Steuer, Steuerschuldner](0005.md)
+- [§ 6 Steueranmeldung, Fälligkeit der Steuer](0006.md)
+- [§ 7 Auskunftspflicht des Herstellers der Brennelemente oder Brennstäbe](0007.md)
+- [§ 8 Steueraufsicht](0008.md)
+- [§ 9 Zuständiges Hauptzollamt](0009.md)
+- [§ 10 Bußgeldvorschriften](0010.md)
+- [§ 11 Verordnungsermächtigung](0011.md)
+- [§ 12 Anwendungsvorschrift](0012.md)
+- [§ 13 Inkrafttreten](0013.md)

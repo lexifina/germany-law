@@ -1,0 +1,73 @@
+# Anlage 2
+
+Amtsgericht Einzel-
+Braunschweig blatt
+-------
+I I
+-------
+Register für Pfandrechte an Luftfahrzeugen
+- Ersatzteillager -
+Blatt .............
+Erste Abteilung
+Das Ersatzteillager
+------------------------------------------------------------------------
+I I Tag der Eintragung, I
+I Stelle, in der die Ersatzteile I Löschung der Eintragung des I
+I lagern I Ersatzteillagers I
+I----------------------------------------------------------------------I
+I 1 I 2 I
+I----------------------------------------------------------------------I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+------------------------------------------------------------------------
+Einzel-
+blatt
+Amtsgericht Register für Pfandrechte an Zweite Abteilung -------
+Braunschweig Luftfahrzeugen Erweiterung von I I
+- Ersatzteillager - Registerpfandrechten -------
+Blatt .............
+------------------------------------------------------------------------
+I Lfd. I I
+I Nr. I Inhalt der Erweiterung I
+I----------------------------------------------------------------------I
+I 1 I 2 I
+I----------------------------------------------------------------------I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+I I I
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+I Veränderungen der Erweiterung I Löschung der Erweiterung I
+I----------------------------------------------------------------------I
+I Lfd. Nr. I I Lfd. Nr. I I
+I der I I der I I
+I Spalte 1 I I Spalte 1 I I
+I----------------------------------------------------------------------I
+I 3 I 4 I 5 I 6 I
+I----------------------------------------------------------------------I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+I I I I I
+------------------------------------------------------------------------

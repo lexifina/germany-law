@@ -1,0 +1,21 @@
+# Verordnung über das Verfahren zur Festsetzung von Entschädigung und
+Härteausgleich nach dem Energiesicherungsgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Antrag, zuständige Behörde](0001.md)
+- [§ 2 Erklärung über Mitberechtigte](0002.md)
+- [§ 3 Gütliche Einigung](0003.md)
+- [§ 4 Festsetzung der Entschädigung und des Härteausgleichs](0004.md)
+- [§ 5 Vollstreckung](0005.md)
+- [§ 6 Hinterlegung](0006.md)
+- [§ 7 Folgen der Hinterlegung](0007.md)
+- [§ 8 Klagen wegen der hinterlegten Summe](0008.md)
+- [§ 9 Widerspruch gegen den Festsetzungsbescheid](0009.md)
+- [§ 10 Klage auf Entschädigung oder Härteausgleich](0010.md)
+- [§ 11 Klage in Sonderfällen](0011.md)
+- [§ 12](0012.md)
+- [§ 13 Rückzahlungsbescheid](0013.md)
+- [§ 14](0014.md)
+- [§ 15 Verjährung](0015.md)
+- [§ 16 Berlin-Klausel](0016.md)
+- [§ 17 Inkrafttreten](0017.md)

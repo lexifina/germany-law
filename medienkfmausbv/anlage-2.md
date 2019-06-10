@@ -1,0 +1,80 @@
+# Anlage 2 (zu § 5)Ausbildungsrahmenplan für die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print- Zeitliche Gliederung -
+
+Fundstelle des Originaltextes: BGBl. I 2006, 806 - 807
+Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+1.1 Stellung, Rechtsform und Struktur,
+1.2 Berufsbildung,
+1.3 Personalwesen, arbeits- und sozialrechtliche Grundlagen, Lernziele a bis c,
+2.1 Arbeitsorganisation, Lernziele a bis d,
+2.3 Informationsbeschaffung und -verarbeitung, Lernziel a,
+zu vermitteln.
+(2)
+In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.4 Kommunikation und Kooperation, Lernziele a bis c,
+2.5 Anwenden einer Fremdsprache bei Fachaufgaben, Lernziel a,
+3.1 Programme und Profile, Lernziel a,
+5.1 Marktanalyse und Zielgruppenbestimmung, Lernziele a bis c,
+5.2 Verkauf von Produkten und Dienstleistungen, Lernziele a und b,
+5.3 Werbung für Produkte und Dienstleistungen, Lernziel a,
+6.1 Rechnungs- und Finanzwesen, Lernziele a und b,
+zu vermitteln.
+(3)
+In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+1.4 Sicherheit und Gesundheitsschutz,
+1.5 Umweltschutz,
+1.6 Datenschutz,
+2.2 Informations- und Kommunikationssysteme, Datensicherheit, Lernziele a bis c,
+4.3 Datenhandling, Lernziele a und b,
+4.4 Gestaltung von Digital- und Printmedien
+zu vermitteln.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.2 Informations- und Kommunikationssysteme, Datensicherheit, Lernziel d,
+2.3 Informationsbeschaffung und -verarbeitung, Lernziel b,
+2.5 Anwenden einer Fremdsprache bei Fachaufgaben, Lernziel b,
+5.1 Marktanalyse und Zielgruppenbestimmung, Lernziele d bis f,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.1 Arbeitsorganisation, Lernziele e bis g,
+3.2 Redaktion, Lektorat, Lernziele a und b,
+3.3 Rechte und Lizenzen, Lernziele a und b,
+4.1 Planung und Kalkulation, Lernziele a und b,
+4.3 Datenhandling, Lernziel c,
+4.5 Koordinierung von Produktionsprozessen,
+5.2 Verkauf von Produkten und Dienstleistungen, Lernziele c bis k,
+5.3 Werbung für Produkte und Dienstleitungen, Lernziele b bis g,
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+4.2 Auswahl und Vergabe von Dienstleistungen, Lernziel a,
+5.4 Vertrieb von Produkten und Dienstleistungen, Lernziele a und b,
+5.5 Branchenspezifische Rahmenbedingungen,
+6.1 Rechnungs- und Finanzwesen, Lernziele c und d,
+6.3 Beschaffung und Lagerhaltung
+zu vermitteln.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+1.3 Personalwesen, arbeits- und sozialrechtliche Grundlagen, Lernziele d bis g,
+3.1 Programme und Profile, Lernziele b und c,
+3.2 Redaktion, Lektorat, Lernziele c und d,
+3.3 Rechte und Lizenzen, Lernziele c und d,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+4.1 Planung und Kalkulation, Lernziel c,
+4.2 Auswahl und Vergabe von Dienstleistungen, Lernziele b und c,
+5.4 Vertrieb von Produkten und Dienstleistungen, Lernziele c bis f,
+6.1 Rechnungs- und Finanzwesen, Lernziel e,
+6.2 Controlling
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten, Kenntnisse und Fähigkeiten der Berufsbildpositionen
+2.1 Arbeitsorganisation, Lernziele h bis j,
+2.4 Kommunikation und Kooperation, Lernziele d bis f,
+2.5 Anwenden einer Fremdsprache bei Fachaufgaben, Lernziel c,
+zu vermitteln.

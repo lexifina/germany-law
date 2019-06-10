@@ -1,0 +1,104 @@
+# Anlage 1
+
+(Fundstelle des Originaltextes: BGBl. I 1989, 1957 - 1958;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Errichtung von Hausschutzräumen im Zusammenhang mit Neubauten im Inneren von Gebäuden (Innenbauten) |
+| Zahl der Schutzplätze | Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes- DM - |
+| 7 | 36.200 |
+| 8 | 36.550 |
+| 9 | 36.900 |
+| 10 | 37.250 |
+| 11 | 37.650 |
+| 12 | 38.000 |
+| 13 | 38.350 |
+| 14 | 38.700 |
+| 15 | 39.050 |
+| 16 | 39.400 |
+| 17 | 39.750 |
+| 18 | 40.100 |
+| 19 | 40.500 |
+| 20 | 40.850 |
+| 21 | 41.200 |
+| 22 | 41.550 |
+| 23 | 41.900 |
+| 24 | 42.300 |
+| 25 | 42.650 |
+| 26 | 43.250 |
+| 27 | 43.800 |
+| 28 | 44.400 |
+| 29 | 44.950 |
+| 30 | 45.550 |
+| 31 | 46.150 |
+| 32 | 46.700 |
+| 33 | 47.300 |
+| 34 | 47.850 |
+| 35 | 48.450 |
+| 36 | 49.050 |
+| 37 | 49.600 |
+| 38 | 50.200 |
+| 39 | 50.750 |
+| 40 | 51.350 |
+| 41 | 51.950 |
+| 42 | 52.500 |
+| 43 | 53.100 |
+| 44 | 53.650 |
+| 45 | 54.250 |
+| 46 | 54.800 |
+| 47 | 55.400 |
+| 48 | 56.000 |
+| 49 | 56.550 |
+| 50 | 57.150 |
+| Zahl der Schutzplätze | Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)- DM - |
+| 51 | 80.070 |
+| 60 | 88.800 |
+| 70 | 98.700 |
+| 80 | 107.600 |
+| 90 | 116.100 |
+| 100 | 124.500 |
+| 110 | 132.550 |
+| 120 | 140.400 |
+| 130 | 148.200 |
+| 140 | 155.400 |
+| 150 | 162.750 |
+|  | ohne Sandvorfilter 2) | mit Sandvorfilter 2) |
+| 151 | 180.445 | 203.850 |
+| 160 | 188.000 | 212.000 |
+| 170 | 196.350 | 220.150 |
+| 180 | 204.300 | 228.600 |
+| 190 | 211.850 | 236.550 |
+| 200 | 220.000 | 244.000 |
+| 210 | 227.850 | 252.000 |
+| 220 | 235.400 | 259.600 |
+| 230 | 242.650 | 266.800 |
+| 240 | 249.600 | 274.800 |
+| 250 | 256.250 | 282.500 |
+| 260 | 263.900 | 289.900 |
+| 270 | 271.350 | 297.000 |
+| 280 | 278.600 | 303.800 |
+| 290 | 285.650 | 310.300 |
+| 299 | 291.525 | 316.940 |
+|  |
+| ----------1)Zwischenwerte sind gradlinig zu interpolieren. |
+| 2)Bei Ausführung des Schutzraumes als Tiefgarage erhöht sich der Höchstbetrag um 25.000 DM. |
+|  |
+| Zahl der Schutzplätze | Höchstbetrag der Herstellungskosten im Sinne des § 7 des Schutzbaugesetzes 1)- DM - |
+|  |  |
+| ohne Sandvorfilter 3) | mit Sandvorfilter 3) |
+| 300 | 366.000 | 430.500 |
+| 600 | 708.000 | 837.000 |
+| 900 | 1.030.500 | 1.224.000 |
+| 1.200 | 1.344.000 | 1.596.000 |
+| 1.500 | 1.650.000 | 1.957.500 |
+| 1.800 | 1.953.000 | 2.304.000 |
+| 2.100 | 2.247.000 | 2.646.000 |
+| 2.400 | 2.532.000 | 2.976.000 |
+| 2.700 | 2.808.000 | 3.307.500 |
+| 3.000 | 3.075.000 | 3.630.000 |
+| 3.330 | 3.333.000 | 3.943.500 |
+| 3.600 | 3.582.000 | 4.248.000 |
+| 3.900 | 3.822.000 | 4.563.000 |
+| 4.200 | 4.074.000 | 4.872.000 |
+| 4.500 | 4.320.000 | 5.175.000 |
+|  |
+| ----------1)Zwischenwerte sind gradlinig zu interpolieren. |
+| 3)Bei Ausführung des Schutzraumes nicht als Tiefgarage mindert sich der Höchstbetrag um 25.000 DM. |

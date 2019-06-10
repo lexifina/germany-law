@@ -1,0 +1,5 @@
+# Art 7 Änderung des Beamtenversorgungsgesetzes
+
+(1)
+(2)
+Für Teilzeitbeschäftigungen, ermäßigte Arbeitszeiten und Urlaub, die vor dem Inkrafttreten dieses Gesetzes bewilligt worden sind, findet § 14 Abs. 1 Satz 1 Halbsatz 2 des Beamtenversorgungsgesetzes in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung weiter Anwendung.

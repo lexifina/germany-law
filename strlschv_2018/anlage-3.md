@@ -1,0 +1,36 @@
+# Anlage 3 (zu den §§ 5, 6, 7, 8, 9, 14, 82, 96)Genehmigungsfreie Tätigkeiten
+
+Teil A:
+Genehmigungsfrei nach § 5 Absatz 1 ist die Anwendung von Stoffen am Menschen, wenn die spezifische Aktivität der Stoffe 500 Mikrobecquerel je Gramm nicht überschreitet.
+Teil B:
+Genehmigungsfrei nach § 5 Absatz 1 ist
+1. der Umgang mit Stoffen, deren Aktivität die Freigrenzen der Anlage 4 Tabelle 1 Spalte 2 nicht überschreitet,
+2. der Umgang mit Stoffen, deren spezifische Aktivität die Freigrenzen der Anlage 4 Tabelle 1 Spalte 3 nicht überschreitet,
+3. die Verwendung, Lagerung und Beseitigung von Arzneimitteln, die nach § 2 Absatz 1 Satz 2 der Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel in Verkehr gebracht worden sind,
+4. die Verwendung von Vorrichtungen, deren Bauart nach § 45 Absatz 1 des Strahlenschutzgesetzes zugelassen ist; ausgenommen sind Ein- und Ausbau sowie Wartung dieser Vorrichtungen,
+5. die Lagerung von Vorrichtungen, deren Bauart nach § 45 Absatz 1 des Strahlenschutzgesetzes zugelassen ist, sofern die Gesamtaktivität der radioaktiven Stoffe das Tausendfache der Freigrenzen der Anlage 4 Tabelle 1 Spalte 2 nicht überschreitet,
+6. die Gewinnung, Verwendung und Lagerung von aus der Luft gewonnenen Edelgasen, wenn das Isotopenverhältnis im Gas demjenigen in der Luft entspricht,
+7. die Verwendung und Lagerung von Konsumgütern, von Arzneimitteln im Sinne des § 2 des Arzneimittelgesetzes, von Schädlingsbekämpfungsmitteln, von Pflanzenschutzmitteln im Sinne des § 2 des Pflanzenschutzgesetzes und von Stoffen nach § 2 Satz 1 Nummer 1 bis 8 des Düngegesetzes, deren Herstellung nach § 40 des Strahlenschutzgesetzes oder deren Verbringung nach § 42 des Strahlenschutzgesetzes genehmigt ist oder deren Herstellung nach § 40 Absatz 3 des Strahlenschutzgesetzes keiner Genehmigung oder deren Verbringung nach § 42 Absatz 2 des Strahlenschutzgesetzes keiner Genehmigung bedarf; § 55 in Verbindung mit Anlage 3 des Strahlenschutzgesetzes bleibt unberührt,
+8. der Umgang mit natürlichen radioaktiven Stoffen zum Zwecke der Nutzung der Radioaktivität zu Lehr- und Ausbildungszwecken, wenn die Ortsdosisleistung des jeweiligen Stoffes 1 Mikrosievert durch Stunde in 0,1 Meter Abstand von der berührbaren Oberfläche nicht überschreitet, oder
+9. der Umgang mit abgereichertem Uran in Form von Uranylverbindungen zu chemisch-analytischen oder zu chemisch-präparativen Zwecken mit einer Gesamtmasse des Urans von bis zu 30 Gramm.
+Teil C:
+Genehmigungs- und anzeigefrei nach § 7 ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, deren
+1. Bauart nach § 17 zugelassen ist oder
+2. Potenzialdifferenz nicht mehr als 30 Kilovolt beträgt und bei denen unter normalen Betriebsbedingungen die Ortsdosisleistung in 0,1 Meter Abstand von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet. Genehmigungs- und anzeigefrei ist der Betrieb von Anlagen zur Erzeugung ionisierender Strahlung, in denen durch das Auftreffen von Laserstrahlung nach § 2 Absatz 3 Satz 1 der Arbeitsschutzverordnung zu künstlicher optischer Strahlung auf Material ionisierende Strahlung erzeugt werden kann, falls die Bestrahlungsstärke der Laserstrahlung 1 x 10¹³ Watt pro Quadratzentimeter nicht überschreitet und die Ortsdosisleistung in 0,1 Meter von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet.
+Teil D:
+Genehmigungsfrei nach § 8 ist der Betrieb von Störstrahlern,
+1. bei denen die Spannung zur Beschleunigung der Elektronen 30 Kilovolt nicht überschreitet, wenn
+  a) die Ortsdosisleistung bei normalen Betriebsbedingungen im Abstand von 0,1 Metern von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet und
+  b) auf dem Störstrahler ausreichend darauf hingewiesen ist, dass
+    aa) Röntgenstrahlung erzeugt wird und
+    bb) die Spannung zur Beschleunigung der Elektronen den vom Hersteller oder Einführer bezeichneten Höchstwert nicht überschreiten darf,
+2. bei denen die Spannung zur Beschleunigung der Elektronen 30 Kilovolt überschreitet, wenn die Bauart nach § 45 Absatz 1 Nummer 1 des Strahlenschutzgesetzes zugelassen ist,
+3. wenn eine Kathodenstrahlröhre für die Darstellung von Bildern betrieben wird, bei der die Spannung zur Beschleunigung von Elektronen 40 Kilovolt nicht überschreitet, wenn die Ortsdosisleistung bei normalen Betriebsbedingungen im Abstand von 0,1 Metern von der berührbaren Oberfläche 1 Mikrosievert durch Stunde nicht überschreitet, oder
+4. die als Bildverstärker im Zusammenhang mit einer genehmigungs- oder anzeigebedürftigen Röntgeneinrichtung betrieben werden.
+Teil E:
+Genehmigungs- und anmeldefrei nach § 14 ist die Verbringung von
+1. Stoffen, deren Aktivität die Freigrenzen der Anlage 4 Tabelle 1 Spalte 2 nicht überschreitet,
+2. Stoffen, deren spezifische Aktivität die Freigrenzen der Anlage 4 Tabelle 1 Spalte 3 nicht überschreitet,
+3. Arzneimitteln, die nach § 2 Absatz 1 Satz 2 der Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel in Verkehr gebracht worden sind,
+4. Vorrichtungen, deren Bauart nach § 45 Absatz 1 des Strahlenschutzgesetzes zugelassen ist, oder
+5. aus der Luft gewonnenen Edelgasen, wenn das Isotopenverhältnis im Gas demjenigen in der Luft entspricht.

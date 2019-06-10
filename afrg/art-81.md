@@ -1,0 +1,3 @@
+# Art 81 Weitergeltung von Rechtsverordnungen
+
+Die auf Grund des Arbeitsförderungsgesetzes erlassenen und weiterhin geltenden Rechtsverordnungen können nach Maßgabe der in diesem Gesetz vorgesehenen Ermächtigungen zum Erlaß von Rechtsverordnungen geändert und aufgehoben werden. Bis zur Aufhebung durch eine Rechtsverordnung nach Artikel 1 § 370 Absatz 2 bleiben die Sechzehnte Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung (Gewährung von Anpassungsbeihilfen) vom 13. April 1962 (BGBl. I S. 237) und die Zweiundzwanzigste Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung (Fach- und Führungskräfte aus Entwicklungsländern) vom 11. Mai 1967 (BGBl. I S. 531) in Kraft.

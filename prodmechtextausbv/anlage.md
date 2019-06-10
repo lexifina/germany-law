@@ -1,0 +1,107 @@
+# Anlage (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Produktionsmechaniker-Textil/zur Produktionsmechanikerin-Textil
+
+(Fundstelle: BGBl. I 2005, 1280 - 1284)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten | Zeitliche Richtwerte in Wochen im |
+| 1. - 18. Monat | 19. - 36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 4 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs-oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 4 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Zuordnen, Bearbeiten und Handhaben von Werk-, Betriebs- und Hilfsstoffen (§ 4 Nr. 5) | a) | Werkstoffe identifizieren, nach Verwendungszweck unterscheiden und bearbeiten, Prüftechniken anwenden | 10 |  |
+| b) | Einfluss von Werkstoffeigenschaften auf Fertigprodukte berücksichtigen |
+| c) | Gebrauchs- und Pflegeanforderungen von Textilien unterscheiden |
+| d) | Fertigungstechniken von textilen linienförmigen Gebilden unterscheiden, Eigenschaften und Konstruktionsmerkmale bestimmen, Feinheitsbezeichnungen anwenden sowie Feinheitsberechnungen durchführen |
+| e) | Fertigungstechniken von textilen Flächengebilden und Verbundstoffen oder Füge- und Formgebungstechniken unterscheiden |
+| f) | Eigenschaften und Konstruktionsmerkmale bestimmen, textile Massenberechnungen durchführen |
+| g) | Auswirkungen von Fasereigenschaften auf Produktionsprozesse berücksichtigen |  | 4 |
+| h) | Veredelungsprozesse hinsichtlich ihrer Art und Auswirkungen unterscheiden |
+| 6 | Betriebliche und technische Kommunikation (§ 4 Nr. 6) | a) | Informationen beschaffen, aufbereiten und bewerten | 8 |  |
+| b) | betriebliche Vorschriften beachten |
+| c) | technische Unterlagen, insbesondere Betriebs- und Arbeitsanweisungen sowie Richtlinien handhaben und umsetzen, Grundbegriffe der Normung anwenden |
+| d) | Skizzen und Zeichnungen erstellen |
+| e) | Informations- und Kommunikationstechniken anwenden |
+| f) | Daten eingeben, sichern und pflegen, Vorschriften zum Datenschutz beachten |
+| g) | Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht führen, Sachverhalte darstellen, fremdsprachliche Fachausdrücke anwenden |
+| h) | produktionstechnische Daten anwenden und Arbeitsergebnisse dokumentieren |  | 2 |
+| 7 | Planen und Vorbereiten von Arbeitsabläufen (§ 4 Nr. 7) | a) | Auftragsunterlagen prüfen, Auftragsziele im eigenen Arbeitsbereich festlegen | 3 |  |
+| b) | Werk-, Betriebs- und Hilfsstoffe sowie Arbeitsmittel auswählen und bereitstellen |
+| c) | Arbeitsplatz nach ergonomischen und sicherheitsrelevanten Gesichtspunkten einrichten |
+| d) | Aufgaben im Team planen und durchführen |  | 4 |
+| e) | Arbeitsabläufe und Arbeitsschritte unter Beachtung wirtschaftlicher und terminlicher Vorgaben planen und mit vor- und nachgelagerten Bereichen abstimmen, festlegen und dokumentieren |
+| 8 | Kontrollieren von textilen Fertigungsprozessen und Prüfen von Kenndaten (§ 4 Nr. 8) | a) | Prüfverfahren und -mittel nach Verwendungszweck auswählen | 6 |  |
+| b) | Prozessabläufe kontrollieren, Prüfungen unter Berücksichtigung von Vorgaben, Toleranzen und Prüfnormen durchführen |
+| c) | Prüfergebnisse dokumentieren und bewerten |
+| d) | Korrekturmaßnahmen einleiten und durchführen |  | 3 |
+| e) | Kenndaten ermitteln, Fehler erfassen und auswerten, Mess- und Prüfprotokolle erstellen und interpretieren |
+| 9 | Branchenspezifische Fertigungstechniken (§ 4 Nr. 9) | a) | Produktionsmaschinen und -anlagen nach Fertigungsverfahren und Prozessstufen auswählen | 12 |  |
+| b) | Konstruktionen von linienförmigen Gebilden, Flächen oder Verbundstoffen darstellen |
+| c) | produktionsbezogene Berechnungen durchführen |
+| d) | Prozesszusammenhänge erfassen |  | 17 |
+| e) | Arbeitsergebnisse prüfen, dokumentieren und bewerten |
+| f) | Mustervorlagen analysieren, Konstruktionstechniken und Produktmerkmale bestimmen |
+| g) | technische Patronen oder Schablonen entwickeln sowie Rapporte festlegen und auf technische Durchführbarkeit prüfen |
+|  | oder |
+|  | Konstruktionstechniken für die Erzeugung von linienförmigen Gebilden, Flächen oder Verbundstoffen festlegen und anwenden |
+|  | oder |
+|  | Füge- und Formgebungstechniken anwenden |
+| h) | Techniken zum Verändern von Oberflächenstrukturen und von Produkteigenschaften festlegen und anwenden |
+| i) | Datenträger für Musterungs-, Konstruktions-, Füge oder Formgebungstechniken erstellen, modifizieren und handhaben |
+| 10 | Steuerungs- und Regelungstechnik (§ 4 Nr. 10) | a) | Steuerungssysteme sowie Methoden des Steuerns und Regelns unterscheiden | 8 |  |
+| b) | Überwachungseinrichtungen nach Aufbau und Funktion unterscheiden |
+| c) | Steuerungs- und Regelungseinrichtungen an Maschinen und Anlagen unter Beachtung der Sicherheitsvorschriften überwachen und bedienen |
+| d) | Maschinen und Anlagen zur Änderung von Produkteigenschaften steuern |  | 8 |
+| e) | Schalt- und Funktionspläne verschiedener Systeme im Kleinspannungsbereich anwenden |
+| f) | mit Kleinspannung betriebene Komponenten prüfen |
+| g) | Fehlerbeseitigung einleiten und durchführen |
+| 11 | Einrichten, Bedienen und Überwachen von Produktionsmaschinen und -anlagen (§ 4 Nr. 11) | a) | Produktionsmaschinen und -anlagen hinsichtlich Funktion und Einsatz unterscheiden | 16 |  |
+| b) | Werk-, Betriebs- und Hilfsstoffe für die Produktion vorbereiten und kennzeichnen |
+| c) | Prozessdaten einstellen, Maschinen und Anlagen unter Berücksichtigung der Sicherheitsbestimmungen in Betrieb nehmen |
+| d) | maschinen- und prozessbezogene Berechnungen durchführen |
+| e) | Warenausfall nach Qualitätsvorgabe prüfen und bei Bedarf optimieren |
+| f) | Maschinen und Anlagen übergeben, dabei über Produktionsprozess, -stand sowie Veränderungen im Produktionsablauf informieren, Übergabe dokumentieren |
+| g) | Materialführungs- und Transportsysteme, Warendurchlauf und Produktionsprozesse überwachen und Verfahrensparameter korrigieren |  | 6 |
+| h) | Störungen und Abweichungen sowie deren Ursachen feststellen, beseitigen und Beseitigung veranlassen |
+| i) | Mehrstellenarbeit rationell organisieren |
+| 12 | Steuern des Materialflusses (§ 4 Nr. 12) | a) | Werk-, Betriebs- und Hilfsstoffe sowie Produkte transportieren und lagern | 3 |  |
+| b) | Abfälle sammeln, trennen und lagern |
+| c) | Materialfluss im eigenen Arbeitsbereich überwachen und sicherstellen |
+| d) | Störungen im Materialfluss feststellen und beseitigen, Materialfluss optimieren |  | 2 |
+| 13 | Rüsten von Produktionsmaschinen und -anlagen (§ 4 Nr. 13) | a) | Produktionsmaschinen und -anlagen bei Artikelwechsel vorrichten, ab- und umrüsten |  | 14 |
+| b) | Austauschteile wechseln und einstellen |
+| c) | Einstelldaten übertragen oder Datenträger auf Maschinen und Anlagen einlesen |
+| d) | Probelauf durchführen, Warenausfall prüfen und korrigieren |
+| 14 | Instandhaltung (§ 4 Nr. 14) | a) | Werkstücke und Maschinenelemente gemäß ihren Werkstoffeigenschaften durch spanlose und spanabhebende Formgebung bearbeiten und prüfen | 10 |  |
+| b) | Maschinenelemente verbinden und Baugruppen zusammenfügen |
+| c) | Werkzeuge, Maschinen und Anlagen kontrollieren und warten, Reparaturen veranlassen |  | 14 |
+| d) | Austausch von Zusatzeinrichtungen und Verschleißteilen durchführen und veranlassen |
+| e) | instand gesetzte Maschinen und Anlagen auf Betriebsbereitschaft prüfen und in Betrieb nehmen |
+| f) | Maschinenstörungen beseitigen, Fehler beseitigen und Fehlerbeseitigung einleiten |
+| g) | Ersatzteile einsetzen, Vorbeugungsmaßnahmen zur Verringerung von Maschinenstillständen ergreifen |
+| h) | elektronische, elektrische, hydraulische oder pneumatische Geräte und Überwachungseinrichtungen entsprechend den Sicherheitsbestimmungen anwenden, austauschen und Austausch veranlassen |
+| i) | Instandhaltungsarbeiten dokumentieren |
+| 15 | Durchführen von qualitätssichernden Maßnahmen (§ 4 Nr. 15) | a) | Aufgaben und Ziele von qualitätssichernden Maßnahmen unterscheiden | 2 |  |
+| b) | Arbeitsabläufe auf Einhaltung der Qualitätsstandards prüfen |
+| c) | Produktions-, Qualitäts- und verfahrenstechnische Daten dokumentieren |  | 4 |
+| d) | Ursachen von produktspezifischen Qualitätsabweichungen feststellen |
+| e) | Korrekturmaßnahmen einleiten und durchführen, Qualitätseinhaltung sicherstellen |
+| f) | zur kontinuierlichen Verbesserung von Arbeitsvorgängen im eigenen Arbeitsbereich beitragen, insbesondere Methoden und Techniken der Qualitätsverbesserung anwenden |
+| g) | Arbeiten kundenorientiert durchführen, Produkte kundengerecht kennzeichnen und aufmachen |
+| h) | Zusammenhänge von qualitätssichernden Maßnahmen erkennen, insbesondere zwischen Produktion, Service und Kosten |

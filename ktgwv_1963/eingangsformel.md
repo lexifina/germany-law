@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 7 Abs. 1 und 2 des Gesetzes über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland vom 30. Juni 1959 (Bundesgesetzbl. I S. 339) in der Fassung des Gesetzes zur Änderung des Gesetzes über die Finanzverwaltung, der Reichsabgabenordnung und anderer Steuergesetze vom 23. April 1963 (Bundesgesetzbl. I S. 197) und des § 78 Abs. 1 Nr. 3 des Zollgesetzes vom 14. Juni 1961 (Bundesgesetzbl. I S. 737), zuletzt geändert durch das Gesetz zur Änderung des Zollgesetzes vom 4. September 1962 (Bundesgesetzbl. I S. 605), wird verordnet:

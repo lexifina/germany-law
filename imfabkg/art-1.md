@@ -1,0 +1,3 @@
+# Art 1
+
+Der Neufassung des Abkommens über den Internationalen Währungsfonds, die der Gouverneursrat des Fonds bis zum 30. April 1976 genehmigt hat (ursprüngliche Fassung: BGBl. 1952 II S. 638; Änderungen und Ergänzungen von 1968: BGBl. 1968 II S. 1227), wird zugestimmt. Die im folgenden als Übereinkommen bezeichnete Neufassung wird nachstehend veröffentlicht.

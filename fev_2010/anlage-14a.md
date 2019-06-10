@@ -1,0 +1,17 @@
+# Anlage 14a (zu § 71a Absatz 3) Voraussetzungen für die amtliche Anerkennung als Träger einer unabhängigen Stelle für die Bestätigung der Eignung der eingesetzten psychologischen Testverfahren und -geräte und für die Begutachtung dieser Träger durch die Bundesanstalt für Straßenwesen
+
+(1)
+Der Antrag nach § 71a Absatz 3 ist von einer zur Vertretung des Trägers der unabhängigen Stelle berechtigten Person zu unterzeichnen. Dem Antrag sind folgende Unterlagen beizufügen:
+1. Nachweis über die Rechtsform des Trägers, Name der juristischen Person,
+2. Informationen über die Organisation und die Leitung des Trägers (Organigramm und Angaben der Schlüsselpositionen in der Leitung des Trägers, Befugnisse und Zuständigkeiten), seine Tätigkeiten und, sofern vorhanden, seine Beziehungen zu einer übergeordneten Organisation,
+3. Dokumentation eines aufgabenbezogenen Qualitätsmanagements.
+(2)
+Die Bundesanstalt für Straßenwesen hat zu prüfen, ob der Träger der unabhängigen Stelle die nachfolgend genannten Anforderungen erfüllt:
+1. Die unabhängige Stelle muss über mindestens zwei Gutachter verfügen. Die Anzahl der für sie tätigen Gutachter hat die unabhängige Stelle anhand einer Aufstellung nachzuweisen. Die Gutachter können die Begutachtungen von psychologischen Testverfahren und -geräten in einem Anstellungsverhältnis oder auf Honorarbasis durchführen. Änderungen beim Bestand der Gutachter sind vom Träger der unabhängigen Stelle der Bundesanstalt für Straßenwesen zu melden.
+2. Die unabhängige Stelle und die dort tätigen Gutachter müssen insbesondere von den durch die Prüfung der Testverfahren und -geräte betroffenen Parteien unabhängig sein. Der Träger der unabhängigen Stelle hat eine Selbstverpflichtungserklärung vorzulegen, in der er versichert, dass für die Prüfung von Testverfahren und -geräten im Einzelfall keine Gutachter eingesetzt werden, die
+  a) an Entwicklungen und am Vertrieb des zu begutachtenden psychologischen Testverfahrens und Testgerätes beteiligt waren oder sind,
+  b) eine vertragliche oder anderweitige rechtliche oder wirtschaftliche Beziehung zum Hersteller des Testgeräts oder zum Entwickler des Testverfahrens unterhalten oder in den vergangenen 2 Jahren unterhielten oder
+  c) eine vertragliche oder anderweitige rechtliche oder wirtschaftliche Beziehung zu Trägern von Begutachtungsstellen für Fahreignung haben, die die zu begutachtenden psychologische Testverfahren oder Testgeräte einsetzen.
+3. Die Gutachter müssen über verfahrensbezogene fachliche Kompetenz in psychologischer Diagnostik verfügen. Jeder Gutachter muss insbesondere nachweisen können
+  a) eine mindestens zweijährige Erfahrung in der Anwendung psychologischer, insbesondere fahreignungsrelevanter Testverfahren, nachzuweisen durch den beruflichen Lebenslauf, Arbeitszeugnisse und sonstige Referenzen, sowie
+  b) Veröffentlichungen zu einschlägigen Themen in wissenschaftlichen Fachzeitschriften oder Fachbüchern.

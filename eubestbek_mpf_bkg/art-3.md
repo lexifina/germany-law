@@ -1,0 +1,6 @@
+# Art 3
+
+(1)
+Dieses Gesetz tritt vorbehaltlich des Satzes 2 am Tag nach seiner Verkündung in Kraft. Artikel 2 tritt an dem Tag in Kraft, an dem das Übereinkommen nach seinem Artikel 13 Abs. 3 für die Bundesrepublik Deutschland in Kraft tritt.
+(2)
+Der Tag, an dem das Übereinkommen nach seinem Artikel 13 Abs. 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben. Das Gleiche gilt für den Tag, von dem an das Übereinkommen nach seinem Artikel 13 Abs. 4 vorzeitige Anwendung findet.

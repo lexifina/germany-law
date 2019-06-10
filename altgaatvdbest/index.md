@@ -1,0 +1,11 @@
+# Durchführungsbestimmung zur Verordnung über die Tilgung der Anteilrechte
+von Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an
+der Altguthaben-Ablösungs-Anleihe
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1](0001.md)
+- [§ 2](0002.md)
+- [§ 3](0003.md)
+- [§ 4](0004.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage](anlage.md)

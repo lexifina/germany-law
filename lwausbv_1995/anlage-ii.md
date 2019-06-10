@@ -1,0 +1,65 @@
+# Anlage II (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
+Landwirtin
+
+- zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 1995, 177 u. 178)
+Erstes Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2.4 Abwickeln von Geschäftsvorgängen und Erfassen marktwirtschaftlicher Zusammenhänge,
+        lfd. Nr. 3 Pflanzenproduktion,
+        lfd. Nr. 4 Tierproduktion
+  zu vermitteln.
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 3 Pflanzenproduktion
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2.1 Handhaben und Instandhalten von Maschinen, Geräten und Betriebseinrichtungen,
+        lfd. Nr. 2.2 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 2.3 Planen der Produktion sowie Vorbereiten und Kontrollieren der Arbeiten
+  zu vermitteln.
+3) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt I der Berufsbildposition
+  lfd. Nr. 4 Tierproduktion
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 2.1 Handhaben und Instandhalten von Maschinen, Geräten und Betriebseinrichtungen,
+        lfd. Nr. 2.2 Wahrnehmen und Beurteilen von Vorgängen; Beschaffen und Auswerten von Informationen,
+        lfd. Nr. 2.3 Planen der Produktion sowie Vorbereiten und Kontrollieren der Arbeiten
+  zu vermitteln.
+  Zweites Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 3 Pflanzenproduktion
+  zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
+        lfd. Nr. 2 Techniken und Organisation der betrieblichen Arbeit, Produktion und Vermarktung
+  fortzuführen.
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 4 Tierproduktion
+  zu vermitteln; im Zusammenhang damit ist die Vermittlung von Fertigkeiten und Kenntnissen der Berufsbildpositionen
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
+        lfd. Nr. 2 Techniken und Organisation der betrieblichen Arbeit, Produktion und Vermarktung
+  fortzuführen.
+3) In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 5 betriebliche Ergebnisse
+  unter Einbeziehung der Berufsbildpositionen
+  lfd. Nr. 3 Pflanzenproduktion,
+        lfd. Nr. 4 Tierproduktion
+  zu vermitteln.
+  Drittes Ausbildungsjahr
+1) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 3 Pflanzenproduktion
+  im Zusammenhang mit den Berufsbildpositionen
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
+        lfd. Nr. 2 Techniken und Organisation der betrieblichen Arbeit, Produktion und Vermarktung
+  weiter zu vermitteln und zu vertiefen.
+2) In einem Zeitrahmen von insgesamt 4 bis 5 Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 4 Tierproduktion
+  im Zusammenhang mit den Berufsbildpositionen
+  lfd. Nr. 1 der Ausbildungsbetrieb, betriebliche Zusammenhänge und Beziehungen,
+        lfd. Nr. 2 Techniken und Organisation der betrieblichen Arbeit, Produktion und Vermarktung
+  weiter zu vermitteln und zu vertiefen.
+3) In einem Zeitrahmen von insgesamt 2 bis 4 Monaten sind die bisher vermittelten Fertigkeiten und Kenntnisse gemäß Anlage I Abschnitt II der Berufsbildposition
+  lfd. Nr. 5 betriebliche Ergebnisse
+  weiter anzuwenden und zu vertiefen.

@@ -1,0 +1,15 @@
+# Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Sicherungsvermögen](0001.md)
+- [§ 2 Beteiligung am Sicherungsvermögen](0002.md)
+- [§ 3 Jahresbeiträge und Anteile am Sicherungsvermögen](0003.md)
+- [§ 4 Höhe der Jahresbeiträge](0004.md)
+- [§ 5 Sonderbeiträge und Kreditaufnahme](0005.md)
+- [§ 6 Befreiung von der Beitragspflicht](0006.md)
+- [§ 7 Erhebung der Beiträge](0007.md)
+- [§ 8 Ergebnisse des Sicherungsfonds](0008.md)
+- [§ 9 Verwendung des Sicherungsvermögens](0009.md)
+- [§ 10 Ausscheiden aus dem Sicherungsfonds](0010.md)
+- [§ 11 Übergangsvorschrift](0011.md)
+- [§ 12 Inkrafttreten](0012.md)

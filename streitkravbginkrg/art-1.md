@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Den Streitkräften der Union der Sozialistischen Sowjetrepubliken wird bis zum Inkrafttreten eines endgültigen Vertrages vorläufig der weitere befristete Aufenthalt im Gebiet der Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen gestattet.
+(2)
+Den Streitkräften der Französischen Republik, des Vereinigten Königreichs Großbritannien und Nordirland und der Vereinigten Staaten von Amerika einerseits sowie den Streitkräften der Union der Sozialistischen Sowjetrepubliken andererseits wird nach der Suspendierung oder beim Wegfall der besonderen Rechte und Verantwortlichkeiten dieser Staaten in bezug auf Berlin vorläufig bis zum Inkrafttreten endgültiger Abkommen der weitere befristete Aufenthalt in Berlin gestattet.

@@ -1,0 +1,17 @@
+# Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Amtliche Fachassistenten](0003.md)
+- [§ 4 Schlachthofpersonal](0004.md)
+- [§ 5 Fleischhygienerechtliche Maßnahmen im Rahmen von Zoonosen- und Seuchentilgungsprogrammen](0005.md)
+- [§ 6 Fleischuntersuchung und Untersuchung auf Trichinen vor Abgabe kleiner Mengen erlegten Wildes](0006.md)
+- [§ 7 Schlachttieruntersuchung bei der Abgabe kleiner Mengen Fleisch von Geflügel oder Hasentieren](0007.md)
+- [§ 7a Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch](0007a.md)
+- [§ 7b Amtliche Untersuchungen in Wildfarmen mit geringem Produktionsvolumen an Schalenwild](0007b.md)
+- [§ 8 Kennzeichnung der Genusstauglichkeit](0008.md)
+- [§ 9 Wiederaufnahme der Rohmilchanlieferung](0009.md)
+- [§ 10 Rückstandsüberwachung](0010.md)
+- [§ 11 Übergangsvorschriften](0011.md)
+- [Anlage 1 (zu § 8)Stempel zur Kennzeichnung der Genusstauglichkeit](anlage-1.md)
+- [Anlage 2 (zu § 9)Grenzwerte für die Aufhebung der Anordnung nach Anhang IV Kapitel II Nummer 2 Satz 1 der Verordnung (EG) Nr. 854/2004](anlage-2.md)

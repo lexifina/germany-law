@@ -1,0 +1,17 @@
+# Verordnung über die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
+- [§ 2 Dauer der Berufsausbildung](0002.md)
+- [§ 3 Struktur der Berufsausbildung](0003.md)
+- [§ 4 Ausbildungsrahmenplan, Ausbildungsberufsbild](0004.md)
+- [§ 5 Durchführung der Berufsausbildung](0005.md)
+- [§ 6 Zwischenprüfung](0006.md)
+- [§ 7 Abschlussprüfung, Gesellenprüfung](0007.md)
+- [§ 8 Gewichtungs- und Bestehensregelung](0008.md)
+- [§ 9 Zusatzqualifikation](0009.md)
+- [§ 10 Prüfung der Zusatzqualifikation](0010.md)
+- [§ 11 Bestehende Berufsausbildungsverhältnisse](0011.md)
+- [§ 12 Aufhebung der Anerkennung von Ausbildungsberufen](0012.md)
+- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)
+- [Anlage (zu § 4 Absatz 1 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druck und zur Medientechnologin Druck](anlage.md)

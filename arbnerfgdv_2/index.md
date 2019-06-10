@@ -1,0 +1,17 @@
+# Zweite Verordnung zur Durchführung des Gesetzes über Arbeitnehmererfindungen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Voraussetzungen für die Bestellung als Beisitzer](0001.md)
+- [§ 2 Beisitzer aus Kreisen der Arbeitgeber](0002.md)
+- [§ 3 Beisitzer aus Kreisen der Arbeitnehmer](0003.md)
+- [§ 4 Vorschlagslisten](0004.md)
+- [§ 5 Ehrenamt](0005.md)
+- [§ 6 Zurückziehung eines Beisitzers](0006.md)
+- [§ 7 Abberufung eines Beisitzers](0007.md)
+- [§ 8 Entschädigung der Beisitzer](0008.md)
+- [§ 9 (weggefallen)](0009.md)
+- [§ 10 Beisitzer aus Kreisen der Beamten und Soldaten](0010.md)
+- [§ 11 (weggefallen)](0011.md)
+- [§ 12 (weggefallen)](0012.md)
+- [§ 13 Inkrafttreten](0013.md)
+- [Schlußformel](schlussformel.md)

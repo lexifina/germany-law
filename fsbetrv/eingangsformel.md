@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 32 Abs. 4 Nr. 3 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), der durch Artikel 1 Nr. 16 Buchstabe c des Gesetzes vom 30. Juli 1992 (BGBl. I S. 1370) eingefügt worden ist, und des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602), zuletzt geändert durch das Gesetz vom 28. Februar 1992 (BGBl. I S. 372), in Verbindung mit § 63 Nr. 2 des Luftverkehrsgesetzes in der vorgenannten Fassung, zuletzt geändert durch das Gesetz vom 30. Juli 1992 (BGBl. I S. 1370), verordnet der Bundesminister für Verkehr:

@@ -1,0 +1,11 @@
+# Anlage 1 (zu § 2 Abs. 1 und 2, § 4 Abs. 2)
+
+(Fundstelle des Originaltextes: BGBl. I 2007, 325)
+Stichprobenschlüssel
+| 1 | 2 |
+| Anzahlder voraussichtlich zur Schlachtungabgegebenen Schweine pro Jahr | Anzahlder zu untersuchenden Schweine |
+| weniger als 45 | 26*) |
+| 45 bis 100 | 38 |
+| 101 bis 200 | 47 |
+| mehr als 200 | 60 |
+*) Sofern weniger als 26 Schweine voraussichtlich zur Schlachtung abgegeben werden, sind alle Schweine zu untersuchen.

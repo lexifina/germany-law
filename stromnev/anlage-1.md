@@ -1,0 +1,69 @@
+# Anlage 1 (zu § 6 Abs. 5 Satz 1)Betriebsgewöhnliche Nutzungsdauern
+
+| Anlagengruppen | Spanne (Jahre) |
+| I. | Allgemeine Anlagen |
+|  | 1. | Grundstücke | 0 |
+| 2. | Grundstücksanlagen, Bauten für Transportwesen | 25-35 |
+| 3. | Betriebsgebäude | 50-60 |
+| 4. | Verwaltungsgebäude | 60-70 |
+| 5. | Gleisanlagen, Eisenbahnwagen | 23-27 |
+| 6. | Geschäftsausstattung (ohne EDV, Werkzeuge/Geräte); Vermittlungseinrichtungen | 8-10 |
+| 7. | Werkzeuge/Geräte | 14-18 |
+| 8. | Lagereinrichtung | 14-25 |
+| 9. | EDV-Anlagen |  |
+| - Hardware | 4-8 |
+| - Software | 3-5 |
+| 10. | Fahrzeuge |  |
+| - Leichtfahrzeuge | 5 |
+| - Schwerfahrzeuge | 8 |
+|  |
+| II. | Erzeugungsanlagen |
+|  | 1. | Dampfkraftwerksanlagen | 20-25 |
+| 2. | Kernkraftwerksanlagen | 20-25 |
+| 3. | Wasserkraftwerksanlagen |  |
+| - Staustrecken | 50-70 |
+| - Wehranlagen, Einlaufbecken | 40-50 |
+| - Bauten für Transportwesen | 30-35 |
+| - Maschinen und Generatoren | 20-25 |
+| - Kraftwerksnetzanlagen | 20-25 |
+| - sonstige Anlagen der Wasserbauten | 25-30 |
+| 4. | Notstromaggregate | 13-17 |
+| 5. | andere Kraftwerksanlagen | 20-25 |
+| 6. | nachträglich eingebaute Umweltschutzanlagen | 10-15 |
+|  |
+| III. | Fortleitungs- und Verteilungsanlagen |
+|  | 1. | Netzanlagen für Hochspannungsübertragung |  |
+| 1.1 | Leitungsnetze |  |
+| - Freileitung 110-380 kV | 40-50 |
+| - Kabel 220 kV | 40-50 |
+| - Kabel 110 kV | 40-50 |
+| 1.2 | Stationseinrichtungen und Hilfsanlagen inklusive Trafo und Schalter | 35-45 |
+| 1.3 | Schutz-, Mess- und Überspannungsschutzeinrichtungen,Fernsteuer-, Fernmelde-, *P Fernmess- *PE und Automatikanlagen sowie Rundsteueranlageneinschließlich Kopplungs-,Trafo- und Schaltanlagen | 25-30 |
+| 1.4 | Anlagen zur Offshore-Netzanbindung | 20 |
+| 1.5 | Sonstiges | 20-30 |
+| 2. | Netzanlagen des Verteilungsbetriebs |  |
+| 2.1 | Mittelspannungsnetz |  |
+| - Kabel | 40-45 |
+| - Freileitungen | 30-40 |
+| 2.2 | Niederspannungsnetz |  |
+| - Kabel 1 kV | 40-45 |
+| - Freileitungen 1 kV | 30-40 |
+| 2.3 | Stationen mit elektrischen Einrichtungen: |  |
+| - 380/220/110/30/10 kV-Stationen | 25-35 |
+| - Hauptverteilerstationen | 25-35 |
+| - Ortsnetzstationen | 30-40 |
+| - Kundenstationen | 30-40 |
+| - Stationsgebäude | 30-50 |
+| - Allgemeine Stationseinrichtungen, Hilfsanlagen | 25-30 |
+| - ortsfeste Hebezeuge und Lastenaufzüge einschließlich Laufschienen, Außenbeleuchtungin Umspann- und Schaltanlagen | 25-30 |
+| - Schalteinrichtungen | 30-35 |
+| - Rundsteuer-, Fernsteuer-, Fernmelde-, Fernmess-, Automatikanlagen, Strom- und Spannungswandler, Netzschutzeinrichtungen | 25-30 |
+| 2.4 | Abnehmeranschlüsse |  |
+| - Kabel | 35-45 |
+| - Freileitungen | 30-35 |
+| 2.5 | Ortsnetz-Transformatoren, Kabelverteilerschränke | 30-35 |
+| 2.6 | Zähler, Messeinrichtungen, Uhren, TFR-Empfänger | 20-25 |
+| 2.7 | Telefonleitungen | 30-40 |
+| 2.8 | fahrbare Stromaggregate | 15-25 |
+| 2.9 | moderne Messeinrichtungen | 13-18 |
+| 2.10 | Smart-Meter-Gateway | 8-13 |

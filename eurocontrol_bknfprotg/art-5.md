@@ -1,0 +1,6 @@
+# Art 5
+
+(1)
+Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
+(2)
+Der Tag, an dem das Protokoll nach seinem Artikel II Absatz 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.

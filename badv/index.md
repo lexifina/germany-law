@@ -1,0 +1,22 @@
+# Verordnung über Bodenabfertigungsdienste auf Flugplätzen
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Bodenabfertigungsdienste](0003.md)
+- [§ 4 Trennung der Tätigkeitsbereiche](0004.md)
+- [§ 5 Nutzerausschuß](0005.md)
+- [§ 6 Zentrale Infrastruktureinrichtungen](0006.md)
+- [§ 7 Auswahl der Dienstleister und der Selbstabfertiger](0007.md)
+- [§ 8 Anforderungskriterien](0008.md)
+- [§ 9 Zugang](0009.md)
+- [§ 10 Aufsicht und Betriebsablauf, Arbeitsschutz](0010.md)
+- [§ 11 Konsultation](0011.md)
+- [§ 12 Gegenseitigkeit](0012.md)
+- [§ 13 Unterrichtung](0013.md)
+- [Anlage 1 (zu § 2 Nr. 4)
+
+Verzeichnis der Bodenabfertigungsdienste](anlage-1.md)
+- [Anlage 2 (zu § 7)Auswahl-Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur](anlage-2.md)
+- [Anlage 3 (zu § 8)Anforderungen für die Erbringung von Bodenabfertigungsdiensten](anlage-3.md)
+- [Anlage 4 (zu § 5)Anforderungen an eine Geschäftsordnung für den Nutzerausschuß](anlage-4.md)
+- [Anlage 5 (zu § 3 Abs. 2)](anlage-5.md)

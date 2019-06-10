@@ -1,0 +1,82 @@
+# Anlage 2 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-,
+Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und
+Postdienstleistungen - Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 2005, 877 - 878)
+1. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.1 Stellung, Rechtsform und Struktur des Ausbildungsbetriebes,
+1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziele a bis e,
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+6.1 Sendungsbearbeitung, Lernziel a,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.1 Arbeitsplanung, Lernziele a, b und d,
+2.2 Informations- und Kommunikationssysteme,
+4.2 Rechtliche Rahmenbedingungen, Lernziele a bis c,
+6.1 Sendungsbearbeitung, Lernziele b und c,
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.4 Umweltschutz,
+3.1 Kundenorientierte Kommunikation, Lernziele a und b,
+3.2 Teamarbeit und Kooperation, Lernziele a und b,
+6.1 Sendungsbearbeitung, Lernziele d und e,
+8.1 Betriebliches Rechnungswesen, Lernziele a und b,
+zu vermitteln.
+2. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Kundenorientierte Kommunikation, Lernziel c,
+4.1 Dienstleistungsangebot, Lernziel a,
+5.3 Verkauf, Lernziele a und b,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.1 Arbeitsplanung, Lernziel c,
+4.2 Rechtliche Rahmenbedingungen, Lernziele d und e,
+4.3 Qualitätssicherung,
+6.2 Disposition, Lernziele a bis g,
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.2 Teamarbeit und Kooperation, Lernziel c,
+4.1 Dienstleistungsangebot, Lernziel b,
+4.2 Rechtliche Rahmenbedingungen, Lernziel f,
+5.2 Verkaufsförderung, Lernziel a,
+5.4 Kundenpflege,
+6.1 Sendungsbearbeitung, Lernziele f und g,
+8.1 Betriebliches Rechnungswesen, Lernziele c bis f,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
+6.1 Sendungsbearbeitung, Lernziele c und e,
+fortzuführen.
+3. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.2 Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften, Lernziel f,
+7. Personalwirtschaft
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.1 Arbeitsplanung, Lernziel e,
+3.1 Kundenorientierte Kommunikation, Lernziele d und e,
+4.1 Dienstleistungsangebot, Lernziel c,
+5.1 Märkte, Zielgruppen,
+5.2 Verkaufsförderung, Lernziele b und c,
+5.3 Verkauf, Lernziele c und d,
+6.2 Disposition, Lernziele h bis k,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
+3.1 Kundenorientierte Kommunikation, Lernziele a und c,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+8.1 Betriebliches Rechnungswesen, Lernziel g,
+8.2 Kosten- und Leistungsrechnung,
+8.3 Controlling
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildposition
+8.1 Betriebliches Rechnungswesen, Lernziele d und f,
+fortzuführen.

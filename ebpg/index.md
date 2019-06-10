@@ -1,0 +1,18 @@
+# Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Ermächtigung zum Erlass von Rechtsverordnungen](0003.md)
+- [§ 4 Inverkehrbringen, Inbetriebnahme und Ausstellen](0004.md)
+- [§ 5 Informationspflichten](0005.md)
+- [§ 6 CE-Kennzeichnung](0006.md)
+- [§ 7 Marktüberwachung](0007.md)
+- [§ 8 Meldeverfahren](0008.md)
+- [§ 9 Veröffentlichung von Informationen](0009.md)
+- [§ 10 Beauftragte Stelle](0010.md)
+- [§ 11 Zugelassene Stellen](0011.md)
+- [§ 12 Weitere Aufgaben der beauftragten Stelle](0012.md)
+- [§ 13 Bußgeldvorschriften](0013.md)
+- [§ 14 Anpassung von Rechtsverordnungen](0014.md)
+- [§ 15 Inkrafttreten](0015.md)
+- [Anlage (zu § 4 Abs. 1 Nr. 3)](anlage.md)

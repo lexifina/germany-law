@@ -1,0 +1,53 @@
+# Anlage 6 (zu § 22 Absatz 2 und § 23)Unterlagen zum Antrag auf Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur
+
+1. Allgemeiner Teil
+1.1 Beschreibung der in Betrieb zu nehmenden Anlagen
+1.1.1 Allgemeine Beschreibung,
+1.1.2 Übersichts- oder Lagepläne,
+1.1.3 Verzeichnis der Geschwindigkeiten und
+1.1.4 Verzeichnis der baulichen Anlagen mit Angabe der Bezeichnung, Lage des Ingenieurbaus, Oberbaus und Hochbaus, des Fachbereichs und der Bauwerksnummer.
+1.2 Bauvorlageberechtigte
+1.2.1 Benennung der Bauvorlageberechtigten mit Datum der Anerkennung durch das Eisenbahninfrastrukturunternehmen unter Angabe der Fachbereiche und Zuordnung der Bauvorlageberechtigten zu den konkreten Anlagen,*
+1.2.2 Bestätigung der korrekten Aufgabenwahrnehmung durch die Vertreter des Eisenbahninfrastrukturunternehmens (sekundäre Bauüberwachung).
+1.3 Bauüberwacher Bahn
+1.3.1 Benennung der Bauüberwacher Bahn mit Datum der Anerkennung durch das Eisenbahninfrastrukturunternehmen unter Angabe der Fachbereiche und Zuordnung der Bauüberwacher Bahn zu den konkreten Anlagen,*
+1.3.2 Bestätigung der korrekten Aufgabenwahrnehmung durch die Vertreter des Eisenbahninfrastrukturunternehmens (sekundäre Bauüberwachung).**
+1.4 Inbetriebnahmeverantwortlicher oder anderer geeigneter Mitarbeiter*
+  Benennung des Inbetriebnahmeverantwortlichen oder eines anderen geeigneten Mitarbeiters unter Angabe des Datums der Ernennung durch das jeweilige Eisenbahnunternehmen sowie der Fachbereiche und der Zuordnung der Inbetriebnahmeverantwortlichen oder anderen geeigneten Mitarbeiter zu den konkreten Anlagen.
+2. Unterlagen zu den strukturellen Teilsystemen**
+2.1 Unterlagen gemäß Anlage 3,
+2.2 Konformitätserklärungen der Interoperabilitätskomponenten in Kopie,
+2.3 Liste der Ausnahmegenehmigungen nach § 5 oder Artikel 7 der Richtlinie 2008/57/EG und den Technischen Spezifikationen für die Interoperabilität,
+2.4 Liste der Ausnahmen von den Technischen Spezifikationen für die Interoperabilität nach § 5 im Fall von Umrüstungen oder Erneuerungen und
+2.5 Erklärungen und Unterlagen zur Anwendung der Durchführungsverordnung (EU) Nr. 402/2013.
+3. Anlagenbezogener Teil
+  Anlagenbezogen sind folgende Angaben zu machen:
+3.1 Anzuwendendes Regelwerk*
+3.2 Abweichungen von den anerkannten Regeln der Technik**
+3.2.1 Benennung der Abweichungen und der Nachweis gleicher Sicherheit, sofern dies nicht durch Erklärungen und Unterlagen nach Nummer 2.5 der Anlage 6 der Durchführungsverordnung (EU) Nr. 402/2013 bereits erfolgt ist, und
+3.2.2 Benennung der Zustimmung im Einzelfall, Zulassung von Bauprodukten und Bauarten sowie Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen.
+3.3 Benennung der Prüfer*
+  Für genehmigungspflichtige Maßnahmen hat die Beauftragung eines Prüfsachverständigen einvernehmlich mit dem Eisenbahn-Bundesamt zu erfolgen.
+3.3.1 Benennung der Prüfsachverständigen für bautechnische Nachweise und für Nachweise des baulichen Brandschutzes und
+3.3.2 Benennung der Plan- und Abnahmeprüfer.
+3.4 Prüfberichte**
+3.4.1 Tabellarische Übersicht der Prüfberichte für die Standsicherheit, Brandschutz, Linienführung und Fahrdynamik mit Datum, Gegenstand, Aktenzeichen für Ingenieurbau-, Oberbau- und Hochbau-Anlagen,
+3.4.2 Vorlage der Planprüfberichte für Signal-, Telekommunikations- und elektrotechnische Anlagen.
+3.5 Abnahmebescheinigungen**
+  Tabellarische Übersicht über die durchgeführten und ausstehenden Abnahmen mit Datum, Gegenstand, Abnahmeverantwortlichem und Ergebnis für Ingenieurbau-, Oberbau- und Hochbau- oder Signal-, Telekommunikations- und elektrotechnische Anlagen.
+3.6 Erklärung der Eisenbahnen
+  seitens eines Inbetriebnahmeverantwortlichen oder anderen geeigneten Mitarbeiters, dass
+3.6.1 die Ingenieurbau-, Oberbau-, Hochbau-, Signal-, Telekommunikations- oder elektrotechnischen Anlagen entsprechend der planungsrechtlichen Zulassungsentscheidung, dem gültigen Regelwerk und den anerkannten Regeln der Technik erstellt worden sind,**
+3.6.2 die Auflagen der unternehmensinternen Genehmigungen und Zustimmungen im Einzelfall, insbesondere der darin enthaltenen Nebenbestimmungen, eingehalten und umgesetzt sind,**
+3.6.3 sämtliche Abnahmeprüfungen durchgeführt worden sind,
+3.6.4 keine sicherheitsrelevanten Mängel vorhanden sind,**
+3.6.5 die Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung gegeben sind** und
+3.6.6 der sichere Bahnbetrieb gemäß § 4 Absatz 3 des Allgemeinen Eisenbahngesetzes gewährleistet ist.**
+3.7 Genehmigung des Eisenbahn-Bundesamtes gemäß § 27 für die verwendeten sicherungstechnischen oder elektrotechnischen Systeme oder deren Bestandteile oder eine Prüferklärung oder Erklärung der Typfreigabe durch das Eisenbahninfrastrukturunternehmen
+4. Anhänge
+  Als Anhänge zu den Inbetriebnahmeunterlagen sind stets vorzulegen:
+4.1 Bei Abweichung vom Regelwerk nach Nummer 3.2 Zusammenstellung der Nachweise gleicher Sicherheit, Gutachten, Erläuterungsberichte oder ähnliches
+4.2 Zusammenstellung der Prüfberichte zu Nummer 3.4
+4.3 Zusammenstellung der Dokumentation der Gleislage, wie Gleismessschriebe, nach Nummer 3, soweit dies im Einzelfall zu dem betreffenden Zeitpunkt möglich ist
+4.4 Zusammenstellung der Abnahmebescheinigungen nach Nummer 3.5
+______________

@@ -1,0 +1,17 @@
+# Anlage (zu § 12 Abs. 2 Satz 2 Nr. 2)
+
+Analysemethoden des Deutschen Instituts für Normung
+
+(Fundstelle des Originaltextes: BGBl. I 2006, 1826)
+| Bezeichnung | Titel |
+| DIN EN 12048 | Feste Düngemittel und Calcium-/Magnesium-Bodenverbesserungsmittel - Bestimmung des Feuchtegehaltes - Gravimetrisches Verfahren durch Trocknung bei (105 +- 2) Grad C (ISO 8190 : 1992, modifiziert); Deutsche Fassung EN 12048 : 1996 |
+| DIN EN 12049 | Feste Düngemittel und Calcium-/Magnesium-Bodenverbesserungsmittel - Bestimmung des Feuchtegehaltes - Gravimetrisches Verfahren durch Trocknung unter reduziertem Druck (ISO 8189 : 1992, modifiziert); Deutsche Fassung EN 12049 : 1996 |
+| DIN EN 13366 | Düngemittel - Behandlung mit einem Kationenaustauscherharz zur Bestimmung des chelatisierten Spurennährstoffgehaltes und des chelatgebundenen Anteils von Spurennährstoffen - Deutsche Fassung EN 13366 : 2001 |
+| DIN EN 13368-1 | Düngemittel - Bestimmung von Chelatbildnern in Düngemitteln durch Ionenchromatographie - Teil 1: EDTA, HEDTA und DTPA - Deutsche Fassung EN 13368-1 : 2001 |
+| DIN EN 13368-2 | Düngemittel - Bestimmung von Chelatbildnern in Düngemitteln durch Ionenchromatographie - Teil 2: EDDHA und EDDHMA - Deutsche Fassung EN 13368-2 : 2001 |
+| DIN EN 13466-1 | Düngemittel - Bestimmung des Wassergehaltes (Karl-Fischer-Verfahren) - Teil 1: Methanol als Extraktionsmittel; Deutsche Fassung EN 13466-1 : 2001 |
+| DIN EN 13466-2 | Düngemittel - Bestimmung des Wassergehaltes (Karl-Fischer-Verfahren) - Teil 2: 2-Propanol als Extraktionsmittel; Deutsche Fassung EN 13466-2 : 2001 |
+| DIN EN 13651 | Bodenverbesserungsmittel und Kultursubstrate - Extraktion von in Calciumchlorid/DTPA (CAT) löslichen Nährstoffen; Deutsche Fassung EN 13651 : 2001 |
+| DIN EN 13652 | Bodenverbesserungsmittel und Kultursubstrate - Extraktion wasserlöslicher Nährstoffe und Elemente; Deutsche Fassung EN 13652 : 2001 |
+| DIN EN 13654-1 | Bodenverbesserungsmittel und Kultursubstrate - Bestimmung von Stickstoff - Teil 1: Modifiziertes Verfahren nach Kjeldahl; Deutsche Fassung EN 13654-1 : 2001 |
+Die DIN-Normen sind zu beziehen beim Beuth Verlag Berlin.

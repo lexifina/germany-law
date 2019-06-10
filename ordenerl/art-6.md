@@ -1,0 +1,6 @@
+# Art 6
+
+(1)
+Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen der nach den Artikeln 1 und 2 genehmigten Orden und Ehrenzeichen und jede Änderung ihrer Form und ihrer Benennung bedarf meiner Genehmigung.
+(2)
+Jede Änderung der Verleihungsbedingungen der nach Artikel 4 als Ehrenzeichen anerkannten Auszeichnung und jede Änderung ihrer Form und ihrer Benennung ist mir vor dem Inkraftsetzen anzuzeigen.

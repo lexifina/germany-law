@@ -1,0 +1,3 @@
+# Art 7 Steuerliche Privilegien
+
+Für die Gewährung steuer- und zollrechtlicher Vorrechte und Befreiungen an die Welthandelsorganisation, ihre Beamten und die Vertreter der Mitglieder, ist das Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 (BGBl. 1954 II S. 640) mit der Maßgabe entsprechend anzuwenden, daß die von direkten Steuern befreiten Gehälter und sonstigen Bezüge der Beamten und der Vertreter der Mitglieder der Welthandelsorganisation bei der Festsetzung des auf Einkommen aus anderen Quellen zu erhebenden Steuerbetrages berücksichtigt werden können.

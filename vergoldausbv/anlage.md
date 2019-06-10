@@ -1,0 +1,81 @@
+# Anlage (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Vergolder/zur Vergolderin
+
+(Fundstelle : BGBl. I 1997, 1243 - 1246)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages , insbesondere Abschluß, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 3 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| e) | zur Vermeidung von chemischen, thermischen und mechanischen Schädigungen beitragen |
+| f) | Arbeitsmittel umweltgerecht einsetzen und entsorgen |
+| 5 | Planen und Vorbereiten von Arbeitsabläufen (§ 3 Nr. 5) | a) | Zeitplan und Reihenfolge der Arbeitsschritte unter Beachtung mündlicher und schriftlicher Vorgaben abstimmen und festlegen | 4 |  |  |  |
+| b) | Verbrauchsmaterial und Arbeitsmittel bereitstellen |
+| c) | Verbrauchsmaterial und Fertigungskosten ermitteln und berechnen |  | 5 |  |  |
+| d) | Pläne und Zeichnungen lesen und umsetzen sowie Handbücher anwenden |
+| 6 | Anfertigen von Skizzen und Zeichnungen (§ 3 Nr. 6) | a) | Vorlagen, insbesondere durch Handzeichnen, vergrößern und verkleinern | 2 |  |  |  |
+| b) | Vorlagen nach gestalterischen Gesichtspunkten anpassen, verändern und entwerfen |  | 6 |  |  |
+| c) | Werkstücke zeichnen |
+| d) | Ergänzungen, insbesondere nach stilistischen Merkmalen, zeichnerisch darstellen |  |  |  | 3 |
+| 7 | Auswählen, Handhaben, Pflegen und Instandhalten von Werkzeugen und Maschinen (§ 3 Nr. 7) | a) | Werkzeuge, Geräte und Maschinen prüfen, auswählen und handhaben | 6 |  |  |  |
+| b) | Werkzeuge, Geräte und Maschinen pflegen, warten und instandhalten, insbesondere unter Beachtung des Umwelt- und Gesundheitsschutzes |
+| c) | Störungen bei Maschinen feststellen und Maßnahmen zu ihrer Behebung ergreifen |
+| 8 | Auswählen, Lagern und Entsorgen von Werk- und Hilfsstoffen (§ 3 Nr. 8) | a) | Werk- und Hilfsstoffe, insbesondere Blattmetalle, Metallpulver, Holzwerkstoffe, Farb-, Binde-, Grundierungs- und Lösemittel auswählen | 5 |  |  |  |
+| b) | Werk- und Hilfsstoffe unter Beachtung des Umweltschutzes lagern und entsorgen |
+| 9 | Vorbereiten von Untergründen (§ 3 Nr. 9) | a) | Grundierungen, insbesondere für Vergolde- und Maltechniken, ansetzen, zubereiten und aufbringen | 12 |  |  |  |
+| b) | grundierte Objekte nacharbeiten und schleifen | 10 |  |  |  |
+| c) | Untergründe unter Beachtung des Umwelt- und Gesundheitsschutzes für Grundierungen vorbereiten, insbesondere | 6 |  |  |  |
+|  | aa) | Holzwerkstücke auf Schädlingsbefall prüfen, Holzfehler beseitigen sowie schleifen und verkitten |
+|  | bb) | Kunststoffe und Glas reinigen und entfetten |
+|  | cc) | Metalluntergründe entfetten, entrosten und vor Korrosion schützen |  |  | 2 |  |
+|  | dd) | mineralische Untergründe auf Feuchtigkeit prüfen, schleifen, glätten und ausgleichen |  |  |  | 2 |
+| 10 | Ausführen von Verzierungen (§ 3 Nr. 10) | a) | Rahmen mit plastischen Ornamenten verzieren |  |  | 6 |  |
+| b) | Oberflächenverzierungen unter Beachtung von Gestaltungsprinzipien sowie historischen und zeitgenössischen Stilelementen auswählen und nach Vorgaben und freier Gestaltung ausführen, insbesondere |  | 6 |  |  |
+|  | aa) | gravieren |
+|  | bb) | radieren |  |  | 8 |  |
+|  | cc) | punzieren |
+|  | dd) | strukturieren |  |  |  | 7 |
+|  | ee) | sandeln |
+|  | ff) | Aufsetzarbeiten ausführen |
+| c) | Negativformen aus Abformmaterialien herstellen, insbesondere aus Silicon |  |  |  | 3 |
+| 11 | Vergolden, Versilbern, Metallisieren (§ 3 Nr. 11) | a) | Metallisierungen mit Schlagmetallen und Blattaluminium ausführen | 3 |  |  |  |
+| b) | Glanz- und Mattvergoldungen sowie Glanz- und Mattversilberungen auf Polimentgrund ausführen |  | 7 |  |  |
+| c) | Ölvergoldungen ausführen |
+| d) | Metallpulver auf Untergründe auftragen |  |  | 2 |  |
+| e) | Mordentvergoldungen ausführen |  |  |  | 4 |
+| f) | Hinterglasvergoldungen und Hinterglasversilberungen in Glanz- und Mattechnik ausführen |
+| 12 | Herstellen und Gestalten von Rahmungen (§ 3 Nr. 12) | a) | Rahmenleisten zuschneiden und verbinden | 4 |  |  |  |
+| b) | Flachglas objektbezogen auswählen und zuschneiden |
+| c) | Passepartout objektbezogen auswählen und zuschneiden |  |  | 5 |  |
+| d) | Bilder und Objekte, insbesondere unter Beachtung konservatorischer Gesichtspunkte, einrahmen |
+| e) | Rahmenleisten, insbesondere unter Beachtung von Kundenwünschen sowie gestalterischen und stilistischen Merkmalen, auswählen |  |  |  | 3 |
+| 13 | Ausführen von Maltechniken (§ 3 Nr. 13) | a) | Streich- und Malwerkzeuge auswählen und handhaben |  |  | 3 |  |
+| b) | Überzüge nach gestalterischen und maltechnischen Gesichtspunkten auswählen und auftragen |
+| c) | Schriften malen |  |  |  | 5 |
+| d) | Farb- und Bindemittel ansetzen und mischen |
+| e) | Objekte, insbesondere unter Beachtung stilistischer Merkmale, farbig gestalten und fassen |  |  |  | 10 |
+| f) | Imitationsmalereien ausführen |  |  |  | 10 |
+| 14 | Ausführen von Erhaltungs- und Restaurierungsarbeiten (§ 3 Nr. 14) | a) | Fehler und Schäden hinsichtlich ihrer Ursachen erkennen und beurteilen sowie Arbeitsumfang der Restaurierung abschätzen und dokumentieren |  |  |  | 5 |
+| b) | Objekte unter Beachtung kunsthistorischer Aspekte und denkmalpflegerischer Vorgaben reinigen und restaurieren |
+| 15 | Qualitätssicherung (§ 3 Nr. 15) | a) | Ziele, Aufgaben und Bedeutung der Qualitätssicherung beschreiben |  |  |  | 2 |
+| b) | Arbeitsergebnisse kontrollieren |
+| c) | Qualitätsmängel feststellen und dokumentieren; Maßnahmen zur Mängelbeseitigung ergreifen |
+| d) | Pflege, Wartung und Instandhaltung der eingesetzten Geräte und Maschinen als qualitätssichernde Maßnahme erkennen |

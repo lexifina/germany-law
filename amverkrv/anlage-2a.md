@@ -1,0 +1,23 @@
+# Anlage 2a (zu § 2 Abs. 1 Nr. 1)
+
+Fundstelle des Originaltextes: BGBl. I 1988, 2161;
+bzgl. der einzelnen Änderungen vgl. Fußnote
+| Ätherische Öle, soweit sie in der Anlage 1a genannt sind |
+| Ammoniumchlorid |
+| Anethol Ascorbinsäure bis zu einer Einzeldosis von 20 mg und deren Calcium-, Kalium- und Natriumsalze |
+| Benzylalkohol |
+| Campher |
+| Cetylpyridiniumchlorid |
+| Cineol (Eucalyptol) |
+| Citronensäure |
+| alpha-Dodecyl-omega-hydroxypoly(oxyethylen) (Oxypolyäthoxydodecan) bis zu einer Einzeldosis von 5 mg |
+| Extrakte von Pflanzen und Pflanzenteilen, auch deren Mischungen, soweit sie nicht aus den in der Anlage 1b bezeichneten Pflanzen oder deren Teilen gewonnen sind |
+| Fenchelhonig |
+| Menglytat (Äthylglykolsäurementhylester) |
+| Menthol |
+| Rosenhonig |
+| Salze natürlicher Mineral-, Heil- und Meerwässer und die ihnen entsprechenden künstlichen Salze |
+| Süßholzsaft |
+| Thymol |
+| Tolubalsam |
+| Weinsäure |

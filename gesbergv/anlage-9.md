@@ -1,0 +1,15 @@
+# Anlage 9 (zu § 9)
+
+Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1
+Satz 1 Nr. 2
+
+Fundstelle des Originaltextes: BGBl. I 1991, 1766
+1 Namen, Vornamen und Kennziffern der beschäftigten Person,
+  2 die vom Arzt festgestellte Eignungsgruppe,
+  3 die Fristen der ärztlichen Nachuntersuchungen,
+  4 den Beginn des jeweiligen Beurteilungszeitraumes,
+  5 Ort, Art und Zeitdauer der jeweiligen Beschäftigung,
+  6 die Art der Betriebspunkte sowie die dort angewandten Maßnahmen der Staubbekämpfung und des Staubschutzes,
+  7 die in den Betriebspunkten ermittelten Werte der Konzentration des quarzhaltigen Feinstaubes c in mg/cbm, der Quarzfeinstaubkonzentration C(tief)q in mg/cbm und des Quarzgehaltes q(tief)c in Massen-%,
+  8 die mit der jeweiligen Beschäftigung verbundenen Staubbelastungswerte E(tief)c oder E(tief)c(tief)q und
+  9 die persönlichen Staubbelastungswerte für die Beschäftigung in den jeweiligen Betriebspunkten sowie als Summe bis zum Ermittlungsmonat während des jeweiligen Beurteilungszeitraumes; wird die Staubbelastung personenbezogen gemessen, gelten die auf diese Weise ermittelten Werte.

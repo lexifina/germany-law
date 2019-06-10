@@ -1,0 +1,3 @@
+# Art 2
+
+Therapeutische Substanzen menschlichen Ursprungs in Sendungen, die unter die Bestimmungen des Übereinkommens fallen, sind frei von Eingangsabgaben. Die Bundesministerien für Gesundheit und der Finanzen werden ermächtigt, im Wege der Rechtsverordnung auch therapeutische Substanzen menschlichen Ursprungs, die nicht unter Artikel 1 Abs. 1 des Übereinkommens fallen, nach Maßgabe von Briefwechseln im Sinne von Artikel 1 Abs. 2 des Übereinkommens, an denen die Bundesrepublik beteiligt ist, den Bestimmungen des Übereinkommens zu unterwerfen und von Eingangsabgaben freizustellen. Die Rechtsverordnungen bedürfen nicht der Zustimmung des Bundesrates.

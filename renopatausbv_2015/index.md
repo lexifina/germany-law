@@ -1,0 +1,16 @@
+# Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung der Ausbildungsberufe](0001.md)
+- [§ 2 Dauer der Berufsausbildungen](0002.md)
+- [§ 3 Ausbildungsrahmenplan](0003.md)
+- [§ 4 Struktur der Berufsausbildungen, Ausbildungsberufsbilder](0004.md)
+- [§ 5 Durchführung der Berufsausbildungen](0005.md)
+- [§ 6 Zwischenprüfung](0006.md)
+- [§ 7 Abschlussprüfung für den Ausbildungsberuf Rechtsanwaltsfachangestellter und Rechtsanwaltsfachangestellte](0007.md)
+- [§ 8 Abschlussprüfung für den Ausbildungsberuf Notarfachangestellter und Notarfachangestellte](0008.md)
+- [§ 9 Abschlussprüfung für den Ausbildungsberuf Rechtsanwalts- und Notarfachangestellter und Rechtsanwalts- und Notarfachangestellte](0009.md)
+- [§ 10 Abschlussprüfung für den Ausbildungsberuf Patentanwaltsfachangestellter und Patentanwaltsfachangestellte](0010.md)
+- [§ 11 Bestehende Berufsausbildungsverhältnisse](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)
+- [Anlage (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten](anlage.md)

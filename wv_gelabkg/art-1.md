@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Den Haag am 15. August 1996 von der Bundesrepublik Deutschland unterzeichneten Abkommen zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel vom 16. Juni 1995 wird zugestimmt. Das Abkommen wird nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.

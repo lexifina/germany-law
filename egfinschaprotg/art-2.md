@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Jedes Gericht kann dem Gerichtshof der Europäischen Gemeinschaften eine Frage zur Vorabentscheidung vorlegen, die sich ihm in einem schwebenden Verfahren stellt, und die sich auf die Auslegung des Übereinkommens über den Schutz der finanziellen Interessen der Europäischen Gemeinschaften, des ersten Protokolls vom 27. September 1996 oder des Zweiten Protokolls vom 19. Juni 1997 zu diesem Übereinkommen bezieht, wenn es eine Entscheidung darüber zum Erlass seiner Entscheidung für erforderlich hält.
+(2)
+Ein Gericht, dessen Entscheidungen selbst nicht mehr mit Rechtsmitteln des innerstaatlichen Rechts angefochten werden können, hat dem Gerichtshof der Europäischen Gemeinschaften zur Vorabentscheidung Fragen nach Absatz 1 vorzulegen, wenn es eine Entscheidung darüber zum Erlass seiner Entscheidung für erforderlich hält.

@@ -1,0 +1,4 @@
+# Regel 33 Ausrüstung für Schallsignale
+
+a) Ein Fahrzeug von 12 und mehr Meter Länge muss mit einer Pfeife, ein Fahrzeug von 20 und mehr Meter Länge zusätzlich zur Pfeife mit einer Glocke und ein Fahrzeug von 100 und mehr Meter Länge zusätzlich mit einem Gong versehen sein, der nach Ton und Klang nicht mit der Glocke verwechselt werden kann. Die Pfeife, die Glocke und der Gong müssen den Anforderungen der Anlage III entsprechen. Die Glocke oder der Gong oder beide dürfen durch eine andere Einrichtung mit entsprechenden Schalleigenschaften ersetzt werden, sofern die Abgabe der vorgeschriebenen Signale auch von Hand jederzeit möglich ist.
+b) Ein Fahrzeug von weniger als 12 Meter Länge braucht keine Schallsignalanlagen nach Buchstabe a mitzuführen, muß dann aber mit einem anderen Gerät zur Abgabe eines kräftigen Schallsignals versehen sein.

@@ -1,0 +1,29 @@
+# Anlage 1 (zu § 5 Absatz 2)Mindestanforderungen an die Ausbildung von Bewerbern um eine Prüfbescheinigung für Mofas und zwei- und dreirädrige Kraftfahrzeuge bis 25 km/h nach § 5 Absatz 2 durch Fahrlehrer
+
+Bewerber um eine Mofa-Prüfbescheinigung müssen eine theoretische und praktische Ausbildung durchlaufen.
+1. Theoretische Ausbildung
+1.1 Die theoretische Ausbildung muss mindestens sechs Doppelstunden zu je 90 Minuten umfassen.
+1.2 Die Ausbildungsbescheinigung (§ 5 Absatz 2) kann erteilt werden, wenn der Bewerber nicht mehr als eine Doppelstunde versäumt hat.
+1.3 Die Bewerber sind zu Lerngruppen zusammenzufassen, die nicht mehr als 20 Teilnehmer haben dürfen.
+1.4 Die theoretische Ausbildung ist als Kurs durchzuführen, der für alle Teilnehmer einer Lerngruppe gleichzeitig beginnt und endet. Der Kurs ist getrennt vom theoretischen Unterricht für Bewerber um eine Fahrerlaubnis durchzuführen. Kommt ein solcher Kurs wegen zu geringer Teilnehmerzahl nicht zustande, können die Bewerber am theoretischen Unterricht für die Klassen A, A1, A2 oder AM teilnehmen.
+1.5 Ziel des Kurses ist es, verkehrsgerechtes und rücksichtsvolles Verhalten im Straßenverkehr zu erreichen. Die theoretische Ausbildung soll beim Kursteilnehmer
+  – zu sicherheitsbetonten Einstellungen und Verhaltensweisen führen,
+  – verantwortungsbewusstes Handeln im Straßenverkehr fördern und
+  – das Entstehen verkehrsgefährdender Verhaltensweisen verhindern.
+1.6 Der Kurs muss die in Anlage 1 zur Fahrschüler-Ausbildungsordnung enthaltenen Sachgebiete für den theoretischen Unterricht umfassen, soweit diese für das Führen von Mofas maßgebend sind. Dabei sind in Kursen auch die Auswirkungen technischer Manipulationen am Mofa auf die Sicherheit und die Umwelt sowie die damit verbundenen Rechtsfolgen für den Fahrer zu verdeutlichen.
+1.7 Die Auseinandersetzung mit dem Verhalten im Straßenverkehr muss die Erlebniswelt von jugendlichen Kursteilnehmern einbeziehen.
+1.8 Die Verkehrsvorschriften sind anhand praktischer Beispiele zu begründen und einsichtig zu machen.
+2. Praktische Ausbildung
+2.1 Die praktische Ausbildung muss mindestens eine Doppelstunde zu 90 Minuten umfassen, wenn Bewerber einzeln ausgebildet werden.
+2.2 Werden Bewerber in einer Gruppe unterrichtet, muss die praktische Ausbildung der Gruppe mindestens zwei Doppelstunden zu je 90 Minuten umfassen.
+2.3 Die Gruppe darf nicht mehr als vier Teilnehmer haben; für bis zu zwei Teilnehmer muss für die gesamte Dauer der praktischen Ausbildung ein Mofa zur Verfügung stehen.
+2.4 Ziel der praktischen Ausbildung ist es, die sichere Beherrschung eines Mofas zu erreichen.
+2.5 Es sind mindestens folgende Übungen zur Fahrzeugbeherrschung durchzuführen:
+  – Handhabung des Mofas,
+  – Anfahren und Halten,
+  – Geradeausfahren mit Schrittgeschwindigkeit,
+  – Fahren eines Kreises,
+  – Wenden,
+  – Abbremsen,
+  – Ausweichen.
+2.6 Die Übungen sind außerhalb öffentlicher Straßen oder auf verkehrsarmen Flächen durchzuführen.

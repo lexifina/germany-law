@@ -1,0 +1,60 @@
+# Anlage 3 (zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1)Qualitätskomponenten zur Einstufung des ökologischen Zustands und des ökologischen Potenzials
+
+1. Biologische Qualitätskomponenten
+  Die biologischen Qualitätskomponenten umfassen die aquatische Flora, die Wirbellosenfauna und die Fischfauna nach Maßgabe der nachstehenden Tabelle
+  (F = Flüsse, S = Seen, Ü = Übergangsgewässer, K = Küstengewässer):
+  | Qualitäts-komponentengruppe | Qualitätskomponente | Parameter | Kategorie |
+  | F | S | Ü | K |
+  | Gewässerflora | Phytoplankton | Artenzusammensetzung, Biomasse | X | X | X | X |
+  | Großalgen oder Angiospermen | Artenzusammensetzung, Artenhäufigkeit |  |  | X | X |
+  | Makrophyten/Phytobenthos | Artenzusammensetzung, Artenhäufigkeit | X | X | X |  |
+  | Gewässerfauna | Benthische wirbellose Fauna | Artenzusammensetzung, Artenhäufigkeit | X | X | X | X |
+  | Fischfauna | Artenzusammensetzung, Artenhäufigkeit, Altersstruktur | X | X | X |  |
+2. Hydromorphologische Qualitätskomponenten
+  Die hydromorphologischen Qualitätskomponenten ergeben sich aus der nachstehenden Tabelle
+  (F = Flüsse, S = Seen, Ü = Übergangsgewässer, K = Küstengewässer):
+  | Qualitätskomponente | Parameter | Kategorie |
+  | F | S | Ü | K |
+  | Wasserhaushalt | Abfluss und Abflussdynamik | X |  |  |  |
+  | Verbindung zu Grundwasserkörpern | X | X |  |  |
+  | Wasserstandsdynamik |  | X |  |  |
+  | Wassererneuerungszeit |  | X |  |  |
+  | Durchgängigkeit |  | X |  |  |  |
+  | Morphologie | Tiefen- und Breitenvariation | X |  |  |  |
+  | Tiefenvariation |  | X | X | X |
+  | Struktur und Substrat des Bodens | X |  |  | X |
+  | Menge, Struktur und Substrat des Bodens |  | X | X |  |
+  | Struktur der Uferzone | X | X |  |  |
+  | Struktur der Gezeitenzone |  |  | X | X |
+  | Tidenregime | Süßwasserzustrom |  |  | X |  |
+  | Seegangsbelastung |  |  | X | X |
+  | Richtung vorherrschender Strömungen |  |  |  | X |
+3. Chemische und allgemeine physikalisch-chemische Qualitätskomponenten
+  Die chemischen und allgemeinen physikalisch-chemischen Qualitätskomponenten ergeben sich aus den nachstehenden Tabellen
+  (F = Flüsse, S = Seen, Ü = Übergangsgewässer, K = Küstengewässer):
+  3.1 Chemische Qualitätskomponenten
+    | Qualitäts-komponentengruppe | Qualitätskomponente | Parameter | Kategorie |
+    | F | S | Ü | K |
+    | Flussgebietsspezifische Schadstoffe | synthetische und nichtsynthetische Schadstoffein Wasser, Sedimenten oder Schwebstoffen | Schadstoffe nach Anlage 6 | X | X | X | X |
+  3.2 Allgemeine physikalisch-chemische Qualitätskomponenten
+    | Qualitäts-komponentengruppe | Qualitätskomponente | Mögliche Parameter | F | S | Ü | K |
+    | Allgemeine physikalisch- chemische Komponenten | Sichttiefe | Sichttiefe |  | X | X | X |
+    | Temperaturverhältnisse | Wassertemperatur | X | X | X | X |
+    | Sauerstoffhaushalt | Sauerstoffgehalt | X | X | X | X |
+    |  | Sauerstoffsättigung | X | X | X | X |
+    |  | TOC | X |  |  |  |
+    |  | BSB | X |  |  |  |
+    |  | Eisen | X |  |  |  |
+    | Salzgehalt | Chlorid | X | X | X | X |
+    |  | Leitfähigkeit bei 25 °C | X |  | X | X |
+    |  | Sulfat | X |  |  |  |
+    |  | Salinität |  |  | X | X |
+    | Versauerungszustand | pH-Wert | X | X |  |  |
+    |  | Säurekapazität Ks (bei versauerungsgefährdeten Gewässern) | X | X |  |  |
+    | Nährstoffverhältnisse | Gesamtphosphor | X | X | X | X |
+    |  | ortho-Phosphat- Phosphor | X | X | X | X |
+    |  | Gesamtstickstoff | X | X | X | X |
+    |  | Nitrat-Stickstoff | X | X | X | X |
+    |  | Ammonium-Stickstoff | X | X | X | X |
+    |  | Ammoniak-Stickstoff | X |  |  |  |
+    |  | Nitrit-Stickstoff | X |  |  |  |

@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Montreal am 10. Mai 1984 von der Bundesrepublik Deutschland unterzeichneten Protokoll zur Änderung des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (BGBl. 1956 II S. 411), zuletzt geändert durch das Protokoll vom 16. Oktober 1974 (BGBl. 1983 II S. 763), wird zugestimmt. Das Protokoll wird nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.

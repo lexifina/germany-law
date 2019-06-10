@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Maastricht am 7. Februar 1992 von der Bundesrepublik Deutschland unterzeichneten Vertrag über die Europäische Union einschließlich der 17 Protokolle sowie den Erklärungen, wie sie in der Schlußakte vom selben Tage aufgeführt sind, wird zugestimmt. Der Vertrag, die Protokolle und die Schlußakte einschließlich der Erklärungen werden nachstehend veröffentlicht.

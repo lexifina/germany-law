@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 3 Absatz 1 des Geräte- und Produktsicherheitsgesetzes vom 6. Januar 2004 (BGBl. I S. 2) in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) sowie dem Organisationserlass vom 22. November 2005 (BGBl. I S. 3197) verordnet das Bundesministerium für Wirtschaft und Technologie nach Anhörung des Ausschusses für technische Arbeitsmittel und Verbraucherprodukte und im Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium der Verteidigung und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung:

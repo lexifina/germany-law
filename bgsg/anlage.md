@@ -1,0 +1,18 @@
+# Anlage (zu § 59 Abs. 2)
+
+Fundstelle des Originaltextes: BGBl. I 1974, 2152 - 2153
+Grenzschutzsold
+| Grenzschutzsoldgruppe | Dienstbezeichnung | Tagessatz DM |
+| 1 | GrenzjägerMatrose i. BGS | 5,50 |
+| 2 | GrenztruppjägerVormatrose i. BGS | 7,-- |
+| 3 | GrenzoberjägerObermatrose i. BGS | 7,50 |
+| 4 | GrenzhauptjägerHauptmatrose i. BGS | 8,50 |
+| 5 | Fahnenjunker i. BGSOberwachtmeister i. BGSHauptwachtmeister i. BGSSeekadett i. BGSMaat i. BGSObermaat i. BGS | 10,-- |
+| 6 | Fähnrich i. BGSOberfähnrich i. BGSMeister i. BGSObermeister i. BGSHauptmeister i. BGSFähnrich zur See i. BGSOberfähnrich zur See i. BGSBootsmann i. BGSOberbootsmann i. BGSHauptbootsmann i. BGS | 11,-- |
+| 7 | Leutnant i. BGSStabsmeister i. BGSLeutnant zur See i. BGSStabsbootsmann i. BGS | 12,-- |
+| 8 | Oberleutnant i. BGSOberstabsmeister i. BGSOberleutnant zur See i. BGSOberstabsbootsmann i. BGS | 13,-- |
+| 9 | Hauptmann i. BGSKapitänleutnant i. BGS | 14,-- |
+| 10 | Major i. BGSStabsarzt i. BGSKorvettenkapitän i. BGS | 15,-- |
+| 11 | Oberstleutnant i. BGSOberstabsarzt i. BGSOberfeldarzt i. BGSFregattenkapitän i. BGS | 16,-- |
+| 12 | Oberst i. BGSOberstarzt i. BGS | 17,-- |
+| 13 | Brigadegeneral i. BGSGeneralmajor i. BGS | 19,-- |

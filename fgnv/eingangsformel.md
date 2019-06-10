@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 35a Abs. 1 Satz 1 Nr. 2 des Fünften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477, 2482), der durch Artikel 1 Nr. 3 des Gesetzes vom 27. Juli 2001 (BGBl. I S. 1948) eingefügt worden ist, jeweils in Verbindung mit § 1 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 22. Oktober 2002 (BGBl. I S. 4206) verordnet das Bundesministerium für Gesundheit und Soziale Sicherung im Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit:

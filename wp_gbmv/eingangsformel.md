@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 1 Abs. 5 Satz 4 in Verbindung mit Satz 3 des Wertpapiererwerbs- und Übernahmegesetzes vom 20. Dezember 2001 (BGBl. I S. 3822), der durch Artikel 1 Nr. 2 des Gesetzes vom 8. Juli 2006 (BGBl. I S. 1426) eingefügt worden ist, in Verbindung mit § 1 Nr. 2 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der zuletzt durch Artikel 1 der Verordnung vom 17. Juli 2006 (BGBl. I S. 1699) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:

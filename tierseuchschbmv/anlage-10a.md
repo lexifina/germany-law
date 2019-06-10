@@ -1,0 +1,17 @@
+# Anlage 10a (zu § 29 Abs. 1)*Fe Durchführung der Dokumentenprüfung bei Tieren */
+
+Fundstelle des Originaltextes: BGBl. I 2005, 1042;
+bzgl. der einzelnen Änderungen vgl. Fußnote
+1. Prüfung der Zweckbestimmung
+2. Prüfung der die Sendung begleitenden Bescheinigung, ob sie
+  a) im Original vorliegt,
+  b) mindestens in deutscher Sprache und dazu in der Sprache des Ursprungslandes und des Bestimmungsmitgliedstaates ausgestellt ist oder ihr anstelle einer Bescheinigung eine beglaubigte deutsche Übersetzung oder eine beglaubigte Übersetzung in der Sprache des Bestimmungsmitgliedstaates beiliegt,
+  c) ein Drittland oder einen Teil eines Drittlandes betrifft, das zur Einfuhr zugelassen ist,
+  d) inhaltlich und äußerlich dem Muster entspricht, das für das betreffende Tier und das jeweilige Drittland festgelegt wurde,
+  e) aus einem einzigen Blatt oder aus einem mehrseitigen, untrennbar zusammengefügten Dokument besteht und eine laufende Nummer trägt,
+  f) vollständig ausgefüllt wurde und nicht geändert worden ist, es sei denn durch zugelassene Streichungen, die mit Unterschrift und Siegel des Unterzeichneten versehen wurden,
+  g) zu einem Zeitpunkt ausgestellt wurde, der mit dem Zeitpunkt der Verladung zur Ausfuhr in die Europäische Union im Zusammenhang steht,
+  h) für einen einzigen Empfänger ausgestellt ist,
+  i) sich erforderlichenfalls auf einen Betrieb bezieht, der zur Einfuhr zugelassen ist,
+  j) die Unterschrift und eine gut leserliche Angabe des Namens und der Amtsbezeichnung des Unterzeichneten trägt und die Siegelung in einer anderen Farbe als die übrige Schrift erfolgt ist,
+  k) auf jedem Blatt ein Siegel und eine Nummerierung der Seiten (zum Beispiel 1 von 4) trägt, sofern es sich um eine mehrseitige Bescheinigung handelt

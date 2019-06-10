@@ -1,0 +1,3 @@
+# Art 5
+
+Die Parteien genießen bei der Wahlvorbereitung volle Betätigungsfreiheit im Rahmen der Gesetze, soweit sie nicht vom Bundesverfassungsgericht nach Artikel 21 Abs. 2 Satz 2 des Grundgesetzes im Gebiet der Bundesrepublik Deutschland für verfassungswidrig erklärt oder gemäß § 21 des Parteiengesetzes der Deutschen Demokratischen Republik vom 21. Februar 1990 (GBl. I S. 66), geändert durch Gesetz vom 31. Mai 1990 (GBl. I S. 275), vor dem Inkrafttreten dieses Vertrages vom Großen Senat des Obersten Gerichts im Gebiet der Deutschen Demokratischen Republik verboten worden sind.

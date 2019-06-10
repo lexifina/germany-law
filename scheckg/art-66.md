@@ -1,0 +1,3 @@
+# Art 66
+
+Die Form des Protests und die Fristen für die Protesterhebung sowie die Form der übrigen Handlungen, die zur Ausübung oder Erhaltung der Scheckrechte erforderlich sind, bestimmen sich nach dem Recht des Landes, in dessen Gebiete der Protest zu erheben oder die Handlung vorzunehmen ist.

@@ -1,0 +1,3 @@
+# Art 3
+
+Wird die Zwangsvollstreckung des Schiedsspruches ausgesetzt (Artikel 50 Abs. 2 Satz 3, Artikel 51 Abs. 4, Artikel 52 Abs. 5 des Übereinkommens), so ist auf Antrag des Schuldners das Verfahren, in dem die Zulässigkeit der Zwangsvollstreckung festgestellt wird, auszusetzen oder die Zwangsvollstreckung einstweilen einzustellen. Endet die Aussetzung der Vollstreckung des Schiedsspruches, so wird das Verfahren, in dem die Zulässigkeit der Zwangsvollstreckung festgestellt wird, auf Antrag fortgesetzt; das Vollstreckungsgericht entscheidet auf Antrag des Gläubigers über die Fortsetzung des Zwangsvollstreckungsverfahrens.

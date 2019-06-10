@@ -1,0 +1,134 @@
+# Anlage 8 (zu § 2 Nummer 4 und 5, § 6 Satz 1,§ 7 Absatz 1 Nummer 1 und 2, § 10 Absatz 2 Satz 2,§ 13 Absatz 1 Nummer 2a, § 15 Absatz 1 Satz 1 und 2)Umweltqualitätsnormen zur Beurteilung des chemischen Zustands
+
+1. Die zur Einstufung des chemischen Zustands zugrunde zu legenden Stoffe und deren Umweltqualitätsnormen ergeben sich aus den Tabellen 1 und 2. Sofern nicht anders angegeben, gelten die Umweltqualitätsnormen der Tabelle 2 für die Gesamtkonzentration aller Isomere. Die Nummerierung der Tabellen 1 und 2 folgt der Tabelle in Anhang II der Richtlinie 2013/39/EU.
+2. Die Einhaltung der Umweltqualitätsnormen ist für die in der Tabelle 2 aufgeführten Stoffe mit Ausnahme der Stoffe, die der Spalte 9 der Tabelle 1 zuzuordnen sind, zu überwachen, sofern es Einleitungen oder Einträge dieser Stoffe im Einzugsgebiet der für den Oberflächenwasserkörper repräsentativen Messstelle gibt. Die Einhaltung der Umweltqualitätsnormen ist für die in der Tabelle 2 aufgeführten Stoffe, die der Spalte 9 der Tabelle 1 zuzuordnen sind, zu überwachen, sofern es signifikante Einleitungen oder Einträge dieser Stoffe im Einzugsgebiet der für den Oberflächenwasserkörper repräsentativen Messstelle gibt. Einleitungen oder Einträge sind signifikant, wenn zu erwarten ist, dass die halbe Umweltqualitätsnorm überschritten ist. Für Stoffe der Spalte 7 der Tabelle 1 ist eine weniger intensive Überwachung nach Anlage 10 Nummer 4 möglich.
+3. Die Einhaltung der Umweltqualitätsnormen, in Tabelle 2 gekennzeichnet als JD-UQN, ist anhand des Jahresdurchschnittswertes nach Maßgabe der Anlage 9 Nummer 3.2.2 zu überprüfen. Die Umweltqualitätsnormen, in Tabelle 2 gekennzeichnet als ZHK-UQN, sind anhand der zulässigen Höchstkonzentration nach Maßgabe der Anlage 9 Nummer 3.2.1 zu überprüfen. Die Umweltqualitätsnormen, in Tabelle 2 gekennzeichnet als Biota-UQN, sind nach Maßgabe der Anlage 9 Nummer 3.2.3 zu überprüfen. Im Übrigen gilt Anlage 9 Nummer 3.1 und 3.3.
+Tabelle 1
+Stoffe des chemischen Zustands
+| Nr. | Spalte 1 Stoffname | Spalte 2 CAS-Nummer | Spalte 3 EU-Nummer | Spalte 4 Stoff mit überarbeiteter UQN nach § 7 Absatz 1 Satz 1 Nummer 1 | Spalte 5 neu geregelter Stoff nach § 7 Absatz 1 Satz 1 Nummer 2 | Spalte 6 Trendermittlung nach § 15 Absatz 1 erforderlich | Spalte 7 ubiquitärer Stoff, (weniger intensive Überwachung nach Anlage 10Nummer 4möglich) | Spalte 8 prioritärer Stoff nach § 2 Nummer 4 | Spalte 9 bestimmter anderer Schadstoff nach § 2 Nummer 5 | Spalte 10 prioritärer gefährlicher Stoff |
+| 1 | Alachlor | 15972-60-8 | 240-110-8 |  |  |  |  | X |  |  |
+| 2 | Anthracen | 120-12-7 | 204-371-1 | X |  | X |  | X |  | X |
+| 3 | Atrazin | 1912-24-9 | 217-617-8 |  |  |  |  | X |  |  |
+| 4 | Benzol | 71-43-2 | 200-753-7 |  |  |  |  | X |  |  |
+| 5 | Bromierte Diphenylether |  |  | X |  | X | X | X |  | X |
+| 6 | Cadmium und Cadmiumverbindungen | 7440-43-9 | 231-152-8 |  |  | X |  | X |  | X |
+| 6a | Tetrachlorkohlenstoff | 56-23-5 |  |  |  |  |  |  | X |  |
+| 7 | C10-13 Chloralkane | 85535-84-8 | 287-476-5 |  |  | X |  | X |  | X |
+| 8 | Chlorfenvinphos | 470-90-6 | 207-432-0 |  |  |  |  | X |  |  |
+| 9 | Chlorpyrifos (Chlorpyrifos-Ethyl) | 2921-88-2 | 220-864-4 |  |  |  |  | X |  |  |
+| 9a | Cyclodien Pestizide: |  |  |  |  |  |  |  |  |  |
+| Aldrin | 309-00-2 |  |  |  |  |  |  | X |  |
+| Dieldrin | 60-57-1 |  |  |  |  |  |  | X |  |
+| Endrin | 72-20-8 |  |  |  |  |  |  | X |  |
+| Isodrin | 465-73-6 |  |  |  |  |  |  | X |  |
+| 9b | DDT insgesamt | nicht anwendbar |  |  |  |  |  |  | X |  |
+| 4,4-DDT | 50-29-3 |  |  |  |  |  |  | X |  |
+| 10 | 1,2-Dichlorethan | 107-06-2 | 203-458-1 |  |  |  |  | X |  |  |
+| 11 | Dichlormethan | 75-09-2 | 200-838-9 |  |  |  |  | X |  |  |
+| 12 | Bis(2-ethyl-hexyl)phthalat (DEHP) | 117-81-7 | 204-211-0 |  |  | X |  | X |  | X |
+| 13 | Diuron | 330-54-1 | 206-354-4 |  |  |  |  | X |  |  |
+| 14 | Endosulfan | 115-29-7 | 204-079-4 |  |  |  |  | X |  | X |
+| 15 | Fluoranthen | 206-44-0 | 205-912-4 | X |  | X |  | X |  |  |
+| 16 | Hexachlorbenzol | 118-74-1 | 204-273-9 |  |  | X |  | X |  | X |
+| 17 | Hexachlorbutadien | 87-68-3 | 201-765-5 |  |  | X |  | X |  | X |
+| 18 | Hexachlorcyclohexan | 608-73-1 | 210-168-9 |  |  | X |  | X |  | X |
+| 19 | Isoproturon | 34123-59-6 | 251-835-4 |  |  |  |  | X |  |  |
+| 20 | Blei und Bleiverbindungen | 7439-92-1 | 231-100-4 | X |  | X |  | X |  |  |
+| 21 | Quecksilber und Quecksilberverbindungen | 7439-97-6 | 231-106-7 |  |  | X | X | X |  | X |
+| 22 | Naphthalin | 91-20-3 | 202-049-5 | X |  |  |  | X |  |  |
+| 23 | Nickel und Nickelverbindungen | 7440-02-0 | 231-111-4 | X |  |  |  | X |  |  |
+| 24 | Nonylphenol (4-Nonylphenol) | 84852-15-3 |  |  |  |  |  | X |  | X |
+| 25 | Octylphenol | nicht anwendbar |  |  |  |  |  | X |  |  |
+| 26 | Pentachlorbenzol | 608-93-5 | 210-172-0 |  |  | X |  | X |  | X |
+| 27 | Pentachlorphenol | 87-86-5 | 201-778-6 |  |  |  |  | X |  |  |
+| 28 | Polycyclische aromatische Kohlenwasserstoffe (PAK) | nicht anwendbar |  | X |  | X | X | X |  | X |
+| Benzo[a]pyren | 50-32-8 | 200-028-5 |  |  |  |  |  |  |  |
+| Benzo[b]fluoranthen | 205-99-2 | 205-911-9 |  |  |  |  |  |  |  |
+| Benzo[k]fluoranthen | 207-08-9 | 205-916-6 |  |  |  |  |  |  |  |
+| Benzo[g,h,i]-perylen | 191-24-2 | 205-883-8 |  |  |  |  |  |  |  |
+| Indeno[1,2,3-cd]-pyren | 193-39-5 | 205-893-2 |  |  |  |  |  |  |  |
+| 29 | Simazin | 122-34-9 | 204-535-2 |  |  |  |  | X |  |  |
+| 29a | Tetrachlorethylen | 127-18-4 |  |  |  |  |  |  | X |  |
+| 29b | Trichlorethylen | 79-01-6 |  |  |  |  |  |  | X |  |
+| 30 | Tributylzinnverbindungen (Tributylzinn-Kation) | (36643-28-4) |  |  |  | X | X | X |  | X |
+| 31 | Trichlorbenzol | 12002-48-1 | 234-413-4 |  |  |  |  | X |  |  |
+| 32 | Trichlormethan | 67-66-3 | 200-663-8 |  |  |  |  | X |  |  |
+| 33 | Trifluralin | 1582-09-8 | 216-428-8 |  |  |  |  | X |  | X |
+| 34 | Dicofol | 115-32-2 | 204-082-0 |  | X | X |  | X |  | X |
+| 35 | Perfluoroktansulfansäure und ihre Derivate (PFOS) | 1763-23-1 | 217-179-8 |  | X | X | X | X |  | X |
+| 36 | Quinoxyfen | 124495-18-7 |  |  | X | X |  | X |  | X |
+| 37 | Dioxine und dioxinähnliche Verbindungen |  |  |  | X | X | X | X |  | X |
+| 38 | Aclonifen | 74070-46-5 | 277-704-1 |  | X |  |  | X |  |  |
+| 39 | Bifenox | 42576-02-3 | 255-894-7 |  | X |  |  | X |  |  |
+| 40 | Cybutryn | 28159-98-0 | 248-872-3 |  | X |  |  | X |  |  |
+| 41 | Cypermethrin | 52315-07-8 | 257-842-9 |  | X |  |  | X |  |  |
+| 42 | Dichlorvos | 62-73-7 | 200-547-7 |  | X |  |  | X |  |  |
+| 43 | Hexabromcyclododecan (HBCDD) |  |  |  | X | X | X | X |  | X |
+| 44 | Heptachlor und Heptachlorepoxid | 76-44-8/ 1024-57-3 | 200-962-3/ 213-831-0 |  | X | X | X | X |  | X |
+| 45 | Terbutryn | 886-50-0 | 212-950-5 |  | X |  |  | X |  |  |
+| 46 | Nitrat |  |  |  |  |  |  |  |  |  |
+Tabelle 2
+Umweltqualitätsnormen
+| Nr. | Stoffname | CAS-Nummer | JD-UQN in µg/l | JD-UQN in µg/l | ZHK-UQN in µg/l | ZHK-UQN in µg/l | Biota-UQN in μg/kg Nassgewicht |
+| oberirdische Gewässer ohne Übergangs-gewässer | Übergangs-gewässer und Küstenge-wässer nach § 3 Nummer 2 des Wasserhaus-haltsgesetzes | oberirdische Gewässer ohne Übergangs-gewässer | Übergangs-gewässer und Küstenge-wässer nach § 3 Nummer 2 des Wasserhaus-haltsgesetzes | Oberflächen-gewässer |
+| 1 | Alachlor | 15972-60-8 | 0,3 | 0,3 | 0,7 | 0,7 |  |
+| 2 | Anthracen | 120-12-7 | 0,1 | 0,1 | 0,1 | 0,1 |  |
+| 3 | Atrazin | 1912-24-9 | 0,6 | 0,6 | 2 | 2 |  |
+| 4 | Benzol | 71-43-2 | 10 | 8 | 50 | 50 |  |
+| 5 | Bromierte Diphenylether |  |  |  | 0,14 | 0,014 | 0,0085 |
+| 6 | Cadmium und Cadmiumverbindungen (je nach Wasserhärteklasse) | 7440-43-9 | ≤ 0,08 (Klasse 1) 0,08 (Klasse 2) 0,09 (Klasse 3) 0,15 (Klasse 4) 0,25 (Klasse 5) | 0,2 | ≤ 0,45 (Klasse 1) 0,45 (Klasse 2) 0,6 (Klasse 3) 0,9 (Klasse 4) 1,5 (Klasse 5) | ≤ 0,45 (Klasse 1) 0,45 (Klasse 2) 0,6 (Klasse 3) 0,9 (Klasse 4) 1,5 (Klasse 5) |  |
+| 6a | Tetrachlor-kohlenstoff | 56-23-5 | 12 | 12 | nicht anwendbar | nicht anwendbar |  |
+| 7 | C10-13 Chloralkane | 85535-84-8 | 0,4 | 0,4 | 1,4 | 1,4 |  |
+| 8 | Chlorfenvinphos | 470-90-6 | 0,1 | 0,1 | 0,3 | 0,3 |  |
+| 9 | Chlorpyrifos (Chlorpyrifos-Ethyl) | 2921-88-2 | 0,03 | 0,03 | 0,1 | 0,1 |  |
+| 9a | Cyclodien Pestizide: |  | Σ = 0,01 | Σ = 0,005 | nicht anwendbar | nicht anwendbar |  |
+| Aldrin | 309-00-2 |  |  |  |  |  |
+| Dieldrin | 60-57-1 |  |  |  |  |  |
+| Endrin | 72-20-8 |  |  |  |  |  |
+| Isodrin | 465-73-6 |  |  |  |  |  |
+| 9b | DDT insgesamt | nicht anwendbar | 0,025 | 0,025 | nicht anwendbar | nicht anwendbar |  |
+| 4,4-DDT | 50-29-3 | 0,01 | 0,01 | nicht anwendbar | nicht anwendbar |  |
+| 10 | 1,2-Dichlorethan | 107-06-2 | 10 | 10 | nicht anwendbar | nicht anwendbar |  |
+| 11 | Dichlormethan | 75-09-2 | 20 | 20 | nicht anwendbar | nicht anwendbar |  |
+| 12 | Bis(2-ethyl-hexyl) phthalat (DEHP) | 117-81-7 | 1,3 | 1,3 | nicht anwendbar | nicht anwendbar |  |
+| 13 | Diuron | 330-54-1 | 0,2 | 0,2 | 1,8 | 1,8 |  |
+| 14 | Endosulfan | 115-29-7 | 0,005 | 0,0005 | 0,01 | 0,004 |  |
+| 15 | Fluoranthen | 206-44-0 | 0,0063 | 0,0063 | 0,12 | 0,12 | 30 |
+| 16 | Hexachlorbenzol | 118-74-1 |  |  | 0,05 | 0,05 | 10 |
+| 17 | Hexachlorbutadien | 87-68-3 |  |  | 0,6 | 0,6 | 55 |
+| 18 | Hexachlorcyclohexan | 608-73-1 | 0,02 | 0,002 | 0,04 | 0,02 |  |
+| 19 | Isoproturon | 34123-59-6 | 0,3 | 0,3 | 1 | 1 |  |
+| 20 | Blei und Bleiverbindungen | 7439-92-1 | 1,2 | 1,3 | 14 | 14 |  |
+| 21 | Quecksilber und Quecksilberverbindungen | 7439-97-6 |  |  | 0,07 | 0,07 | 20 |
+| 22 | Naphthalin | 91-20-3 | 2 | 2 | 130 | 130 |  |
+| 23 | Nickel und Nickel-verbindungen | 7440-02-0 | 4 | 8,6 | 34 | 34 |  |
+| 24 | Nonylphenol (4-Nonylphenol) | 84852-15-3 | 0,3 | 0,3 | 2 | 2 |  |
+| 25 | Octylphenol ((4-(1,1',3,3'-Tetramethylbutyl)-phenol) | 140-66-9 | 0,1 | 0,01 | nicht anwendbar | nicht anwendbar |  |
+| 26 | Pentachlorbenzol | 608-93-5 | 0,007 | 0,0007 | nicht anwendbar | nicht anwendbar |  |
+| 27 | Pentachlorphenol | 87-86-5 | 0,4 | 0,4 | 1 | 1 |  |
+| 28 | Polycyclische aromatische Kohlenwasserstoffe (PAK): | nicht anwendbar | nicht anwendbar | nicht anwendbar | nicht anwendbar | nicht anwendbar |  |
+| Benzo[a]pyren | 50-32-8 | 0,00017 | 0,00017 | 0,27 | 0,027 | 5 |
+| Benzo[b]fluoranthen | 205-99-2 |  |  | 0,017 | 0,017 |  |
+| Benzo[k]fluoranthen | 207-08-9 | 0,017 | 0,017 |  |
+| Benzo[g,h,i]-perylen | 191-24-2 |  |  | 0,0082 | 0,00082 |  |
+| Indeno[1,2,3-cd]-pyren | 193-39-5 | nicht anwendbar | nicht anwendbar |  |
+| 29 | Simazin | 122-34-9 | 1 | 1 | 4 | 4 |  |
+| 29a | Tetrachlorethylen | 127-18-4 | 10 | 10 | nicht anwendbar | nicht anwendbar |  |
+| 29b | Trichlorethylen | 79-01-6 | 10 | 10 | nicht anwendbar | nicht anwendbar |  |
+| 30 | Tributylzinn-Verbindungen (Tributylzinn-Kation) | 36643-28-4 | 0,0002 | 0,0002 | 0,0015 | 0,0015 |  |
+| 31 | Trichlorbenzole | 12002-48-1 | 0,4 | 0,4 | nicht anwendbar | nicht anwendbar |  |
+| 32 | Trichlormethan | 67-66-3 | 2,5 | 2,5 | nicht anwendbar | nicht anwendbar |  |
+| 33 | Trifluralin | 1582-09-8 | 0,03 | 0,03 | nicht anwendbar | nicht anwendbar |  |
+| 34 | Dicofol | 115-32-2 | 0,0013 | 0,000032 | nicht anwendbar | nicht anwendbar | 33 |
+| 35 | Perfluoroktansulfansäure und ihre Derivate (PFOS) | 1763-23-1 | 0,00065 | 0,00013 | 36 | 7,2 | 9,1 |
+| 36 | Quinoxyfen | 124495-18-7 | 0,15 | 0,015 | 2,7 | 0,54 |  |
+| 37 | Dioxine und dioxinähnliche Verbindungen |  |  |  | nicht anwendbar | nicht anwendbar | Summe PCDD+PCDF+PCDL 0,0065 µg/kg TEQ |
+| 38 | Aclinofen | 74070-46-5 | 0,12 | 0,012 | 0,12 | 0,012 |  |
+| 39 | Bifenox | 42576-02-3 | 0,012 | 0,0012 | 0,04 | 0,004 |  |
+| 40 | Cybutryn | 28159-98-0 | 0,0025 | 0,0025 | 0,016 | 0,016 |  |
+| 41 | Cypermethrin | 52315-07-8 | 0,00008 | 0,000008 | 0,0006 | 0,00006 |  |
+| 42 | Dichlorvos | 62-73-7 | 0,0006 | 0,00006 | 0,0007 | 0,00007 |  |
+| 43 | Hexabromcyclododecan (HBCDD) |  | 0,0016 | 0,0008 | 0,5 | 0,05 | 167 |
+| 44 | Heptachlor und Heptachlorepoxid | 76-44-8/ 1024-57-3 | 0,0000002 | 0,00000001 | 0,0003 | 0,00003 | 0,0067 |
+| 45 | Terbutryn | 886-50-0 | 0,065 | 0,0065 | 0,34 | 0,034 |  |
+| 46 | Nitrat |  | 50 x 10 |  |  |  |  |

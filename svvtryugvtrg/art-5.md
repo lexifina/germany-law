@@ -1,0 +1,6 @@
+# Art 5
+
+(1)
+Zeiten, die von den in Artikel 1 Abs. 1 Buchstabe a des Vertrags genannten Deutschen vor dem 1. Januar 1956 in einer jugoslawischen gesetzlichen Rentenversicherung zurückgelegt worden sind oder als zurückgelegt gelten und nach jugoslawischem Recht Versicherungszeiten oder ihnen gleichgestellte Zeiten sind oder wären, wenn diese Personen bis zum genannten Tage im Gebiet der Föderativen Volksrepublik Jugoslawien beschäftigt gewesen wären, werden wie Versicherungszeiten angerechnet, die in einer deutschen gesetzlichen Rentenversicherung im Bundesgebiet zurückgelegt worden sind.
+(2)
+Die Wartezeit ist auch erfüllt, wenn die nach jugoslawischem Recht für den Erwerb des Leistungsanspruchs vorgeschriebene Mindestbeitragszeit zurückgelegt worden ist.

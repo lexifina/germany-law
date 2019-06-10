@@ -1,0 +1,15 @@
+# Verordnung über den Umgang mit Nährstoffen im Betrieb und betriebliche Stoffstrombilanzen
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Geltungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Grundsätze für den nachhaltigen und ressourceneffizienten Umgang mit Nährstoffen im Betrieb](0003.md)
+- [§ 4 Ermittlung der dem Betrieb zugeführten Nährstoffmengen an Stickstoff und Phosphor](0004.md)
+- [§ 5 Ermittlung der vom Betrieb abgegebenen Nährstoffmengen an Stickstoff und Phosphor](0005.md)
+- [§ 6 Erstellung und Bewertung der betrieblichen Stoffstrombilanzen](0006.md)
+- [§ 7 Aufzeichnungen](0007.md)
+- [§ 8 Ordnungswidrigkeiten](0008.md)
+- [Anlage 1 (zu § 4 Absatz 2 Satz 3 und 4 und § 5 Absatz 2 Satz 2 Nummer 2)Stickstoff- und Phosphor-/Phosphatgehalte in pflanzlichen und tierischen Erzeugnissen, Futtermitteln, Saatgut einschließlich Pflanzgut und Vermehrungsmaterial, landwirtschaftlichen Nutztieren sowie Stickstoffzufuhr durch Leguminosen](anlage-1.md)
+- [Anlage 2 (zu § 6 Absatz 1 und 3 und § 7 Absatz 1 Nummer 3)Jährliche betriebliche Stoffstrombilanz für Stickstoff (N) oder Phosphor (P) / Phosphat (P2O5) (Nährstoff unterstreichen)](anlage-2.md)
+- [Anlage 3 (zu § 6 Absatz 1 bis 3 und § 7 Absatz 1 Nummer 3)Dreijährige betriebliche Stoffstrombilanz gleitende Mittelwerte für Stickstoff und Phosphor](anlage-3.md)
+- [Anlage 4 (zu § 6 Absatz 2 Satz 2 Nummer 2)Ermittlung des für den Betrieb zulässigen Bilanzwertes für Stickstoff](anlage-4.md)

@@ -1,0 +1,5 @@
+# Art 2
+
+Nach Maßgabe von Artikel 5 Abs. 1 des Übereinkommens sind von dem Tag an, an dem das Übereinkommen für die Bundesrepublik Deutschland in Kraft tritt, nicht mehr anzuwenden:
+1. § 313 Abs. 5 Satz 3 der Reichsversicherungsordnung auf Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, auf Staatsangehörige anderer Mitgliedstaaten der Internationalen Arbeitsorganisation, welche die Verpflichtungen aus dem Übereinkommen in dem Zweig des Krankengeldes übernommen haben, sowie auf die in Artikel 10 Abs. 1 des Übereinkommens genannten Personen;
+2. § 625 der Reichsversicherungsordnung auf Staatsangehörige anderer Mitgliedstaaten der Internationalen Arbeitsorganisation, welche die Verpflichtungen aus dem Übereinkommen in dem Zweig der Leistungen bei Arbeitsunfällen und Berufskrankheiten übernommen haben, sowie auf die in Artikel 10 Abs. 1 des Übereinkommens genannten Personen.

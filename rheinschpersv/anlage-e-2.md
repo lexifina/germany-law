@@ -1,0 +1,81 @@
+# Anlage E2 Programm der Lehrgänge für Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+
+A. Theoretischer Teil des Lehrgangs
+  Der theoretische Teil des Lehrgangs umfasst folgende Themen:
+  1. Gesetzgebung
+  1.1 Gesetzgebung in Bezug auf Fahrzeuge, die Flüssigerdgas als Brennstoff nutzen (ADN, RheinSchPV, RheinSchUO, Richtlinie (EU) 2016/1629 und ggf. neue Entwicklungen)
+  1.2 Vorschriften der Klassifikationsgesellschaft
+  1.3 Relevante Gesetzgebung für Gesundheit und Sicherheit
+  1.4 Relevante lokale Vorschriften und Genehmigungen (insbesondere in den Hafengebieten)
+  2. Einführung zu Flüssigerdgas (LNG)
+  2.1 Definition für Flüssigerdgas (LNG), kritische Temperaturen, Gefahren im Zusammenhang mit Flüssigerdgas (LNG), atmosphärische Bedingungen
+  2.2 Zusammensetzungen und Eigenschaften von Flüssigerdgas, Qualitätszertifikate für Flüssigerdgas (LNG)
+  2.3 SDBl (Sicherheitsdatenblatt): Physikalische und Produkteigenschaften
+  2.4 Umwelteigenschaften
+  3. Sicherheit
+  3.1 Gefahren und Risiken
+  3.2 Risikobewertung
+  3.3 Risikomanagement
+  3.4 Sicherheitsrolle an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen)
+  3.5 Gefährdete Bereiche
+  3.6 Brandschutz
+  3.7 Verwendung von persönlicher Schutzausrüstung
+  4. Technische Aspekte des LNG-Systems
+  4.1 Allgemeine Anordnung und Betriebshandbuch
+  4.2 Erläuterung der Wirkungsweise von Flüssigerdgas
+  4.3 LNG-Bunkersystem
+  4.4 Bilgenlenzsystem und Auffangschalen
+  4.5 LNG-Behältersystem
+  4.6 Gasaufbereitungssystem
+  4.7 LNG-Leitungssystem
+  4.8 Gasversorgungssystem
+  4.9 Maschinenräume
+  4.10 Belüftungssystem
+  4.11 Temperaturen und Drücke (Lesen eines Druck- und Temperaturverteilungsplans)
+  4.12 Ventile (insbesondere Hauptgasbrennstoffventil)
+  4.13 Überdruckventile
+  4.14 Kontroll-, Überwachungs- und Sicherheitssysteme
+  4.15 Alarme und Gasdetektion
+  5. Wartung und Prüfung des LNG-Systems
+  5.1 Tägliche Instandhaltung
+  5.2 Wöchentliche Instandhaltung
+  5.3 Regelmäßige wiederkehrende Instandhaltung
+  5.4 Fehler
+  5.5 Dokumentation der Instandhaltungsarbeiten
+  6. Bunkern von Flüssigerdgas
+  6.1 Kennzeichen gemäß RheinSchPV
+  6.2 Liege- und Festmachbedingungen für das Bunkern
+  6.3 Verfahren für das Bunkern von Flüssigerdgas (LNG)
+  6.4 Gasentleerung und Spülung des LNG-Systems
+  6.5 Einschlägige Prüflisten und Auslieferungszertifikat
+  6.6 Sicherheitsmaßnahmen beim Bunkern und Evakuierungsverfahren
+  7. Vorbereitung des LNG-Systems für Instandhaltungsarbeiten des Fahrzeugs
+  7.1 Gasentleerung und Spülung des LNG-Systems vor dem Werftaufenthalt
+  7.2 Inertisierung des LNG-Systems
+  7.3 Verfahren zum Entleeren des LNG-Lagertanks
+  7.4 Erste Befüllung des LNG-Lagertanks (Abkühlung)
+  7.5 Inbetriebnahme nach dem Werftaufenthalt
+  8. Notfallszenarien
+  8.1 Notfallmaßnahmen und Sicherheitsrolle an Bord (einschließlich Sicherheitsplan und Sicherheitsanweisungen)
+  8.2 Verschüttung von Flüssigerdgas (LNG) auf dem Deck
+  8.3 Hautkontakt mit Flüssigerdgas (LNG)
+  8.4 Verschüttung von Flüssigerdgas (LNG) in geschlossenen Räumen (z. B. in den Maschinenräumen)
+  8.5 Verschüttung von Flüssigerdgas (LNG) oder Erdgas in den Räumen zwischen den Barrieren (doppelwandiger Tank, doppelwandige Leitung)
+  8.6 Brand in der Nähe des LNG-Lagertanks
+  8.7 Brand in den Maschinenräumen
+  8.8 Spezifische Gefahren beim Transport von Gefahrgütern
+  8.9 Festfahren / Kollision des Fahrzeugs
+  8.10 Notfallmaßnahmen der einsatzfähigen Wache
+  8.11 Notfallmaßnahmen während der Fernüberwachung
+B. Praktischer Teil des Lehrgangs
+  Der praktische Teil des Lehrgangs umfasst die folgenden Themen:
+  1. Vertrautmachen mit dem Inhalt des Managementsystems des Schiffs, insbesondere der Teile zum LNG-System
+  2. Kontrolle des Sicherheitsbewusstseins und der Verwendung der Sicherheitsausrüstung für Flüssigerdgas (LNG)
+  3. Kontrolle der Kenntnisse der entsprechenden Bordunterlagen (Sicherheitsrolle und Betriebshandbuch)
+  4. Kenntnisse der Ventile (insbesondere Hauptgasbrennstoffventil)
+  5. Kenntnisse der Kontroll-, Überwachungs- und Sicherheitssysteme
+  6. Kenntnisse der Verfahren zur Instandhaltung und Kontrolle des LNG-Systems
+  7. Kenntnisse des Bunkerverfahrens und Vertrautmachen mit dem Bunkerverfahren
+  8. Kenntnisse der Instandhaltungsverfahren für Werftaufenthalte
+  9. Kenntnisse zu den Notfallszenarien
+  10. Brandbekämpfung

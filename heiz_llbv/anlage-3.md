@@ -1,0 +1,51 @@
+# Anlage 3
+
+Fundstelle des Originaltextes: BGBl. I 1982, 543
+-------------------------------------------------------------------------------
+I Aussteller/Anschrift I Ort
+I I-------------------
+I I Datum
+-------------------------------------------------------------------------------
+Bescheinigung über Referenzmenge an leichtem Heizöl (B 3)
+-------------------------------------------------------------------------------
+I für den Zeitraum der Lieferbeschränkung von - bis
+I------------------------------------------------------------------------------
+I Name, Anschrift des Antragstellers
+I
+I
+-------------------------------------------------------------------------------
+Betr.: Heizölverbrauchsanlage(n)
+-------------------------------------------------------------------------------
+I Lieferanschrift: Ort, Straße, Hausnummer
+I
+-------------------------------------------------------------------------------
+--------------------------------------------------------
+I Die Referenzmenge beträgt:
+I Liter
+I-------------------------------------------------------
+I Der vom Aussteller gelieferte bzw. bestätigte Teil der
+I Referenzmenge beträgt:
+I Liter
+--------------------------------------------------------
+Dienstsiegel
+oder
+Firmenstempel
+-------------------------
+Unterschrift
+-------------------------------------------------------------------------------
+Auf die Referenzmenge bzw. den Teil der Referenzmenge gelieferte Mengen:
+1.
+------------------ Liter
+Rest
+------------------ Liter ------------------------- Firmenstempel
+Datum, Unterschrift
+2.
+------------------ Liter
+Rest
+------------------ Liter ------------------------- Firmenstempel
+Datum, Unterschrift
+3.
+------------------ Liter
+Rest
+------------------ Liter ------------------------- Firmenstempel
+Datum, Unterschrift

@@ -1,0 +1,8 @@
+# Art 21 Neubekanntmachungserlaubnisse
+
+(1)
+Das Bundesministerium des Innern kann den Wortlaut des Beamtenrechtsrahmengesetzes, des Bundesbeamtengesetzes, des Bundesbesoldungsgesetzes, des Gesetzes über die Gewährung einer jährlichen Sonderzuwendung, des Gesetzes über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit, des Urlaubsgeldgesetzes, des Beamtenversorgungsgesetzes und der Sonderversorgungsleistungsverordnung in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
+(2)
+Das Bundesministerium der Verteidigung kann den Wortlaut des Soldatengesetzes und des Soldatenversorgungsgesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
+(3)
+Das Bundesministerium der Justiz kann den Wortlaut des Deutschen Richtergesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.

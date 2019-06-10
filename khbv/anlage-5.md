@@ -1,0 +1,88 @@
+# Anlage 5
+
+Kostenstellenrahmen für die Kosten- und Leistungsrechnung
+| 90 | Gemeinsame Kostenstellen |
+| 900 | Gebäude einschließlich Grundstück und Außenanlagen |
+| 901 | Leitung und Verwaltung des Krankenhauses |
+| 902 | Werkstätten |
+| 903 | Nebenbetriebe |
+| 904 | Personaleinrichtungen (für den Betrieb des Krankenhauses unerläßlich) |
+| 905 | Aus-, Fort- und Weiterbildung |
+| 906 | Sozialdienst, Patientenbetreuung |
+| 907 | frei |
+| 908 | frei |
+| 909 | frei |
+| 91 | Versorgungseinrichtungen |
+| 910 | Speisenversorgung |
+| 911 | Wäscheversorgung |
+| 912 | Zentraler Reinigungsdienst |
+| 913 | Versorgung mit Energie, Wasser, Brennstoffen |
+| 914 | Innerbetriebliche Transporte |
+| 915 | frei |
+| 916 | frei |
+| 917 | Apotheke/Arzneimittelausgabestelle (ohne Herstellung) |
+| 918 | Zentrale Sterilisation |
+| 919 | frei |
+| 92 | Medizinische Institutionen |
+| 920 | Röntgendiagnostik und -therapie |
+| 921 | Nukleardiagnostik und -therapie |
+| 922 | Laboratorien |
+| 923 | Funktionsdiagnostik |
+| 924 | Sonstige diagnostische Einrichtungen |
+| 925 | Anästhesie, OP-Einrichtungen und Kreißzimmer |
+| 926 | Physikalische Therapie |
+| 927 | Sonstige therapeutische Einrichtungen |
+| 928 | Pathologie |
+| 929 | Ambulanzen |
+| 93 - 95 | Pflegefachbereiche - Normalpflege |
+| 930 | Allgemeine Kostenstelle |
+| 931 | Allgemeine Innere Medizin |
+| 932 | Geriatrie |
+| 933 | Kardiologie |
+| 934 | Allgemeine Nephrologie |
+| 935 | Hämodialyse/künstliche Niere (alternativ 962) |
+| 936 | Gastroenterologie |
+| 937 | Pädiatrie |
+| 938 | Kinderkardiologie |
+| 939 | Infektion |
+| 940 | Lungen- und Bronchialheilkunde |
+| 941 | Allgemeine Chirurgie |
+| 942 | Unfallchirurgie |
+| 943 | Kinderchirurgie |
+| 944 | Endoprothetik |
+| 945 | Gefäßchirurgie |
+| 946 | Handchirurgie |
+| 947 | Plastische Chirurgie |
+| 948 | Thoraxchirurgie |
+| 949 | Herzchirurgie |
+| 950 | Urologie |
+| 951 | Orthopädie |
+| 952 | Neurochirurgie |
+| 953 | Gynäkologie |
+| 954 | HNO und Augen |
+| 955 | Neurologie |
+| 956 | Psychiatrie |
+| 957 | Radiologie |
+| 958 | Dermatologie und Venerologie |
+| 959 | Zahn- und Kieferheilkunde, Mund- und Kieferchirurgie |
+| 96 | Pflegefachbereiche - abweichende Pflegeintensität |
+| 960 | Allgemeine Kostenstelle |
+| 961 | Intensivüberwachung |
+| 962 | Intensivbehandlung |
+| 963 | frei |
+| 964 | Intensivmedizin |
+| 965 | Minimalpflege |
+| 966 | Nachsorge |
+| 967 | Halbstationäre Leistungen - Tageskliniken |
+| 968 | Halbstationäre Leistungen - Nachtkliniken |
+| 969 | Chronisch- und Langzeitkranke |
+| 97 | Sonstige Einrichtungen |
+| 970 | Personaleinrichtungen (für den Betrieb des Krankenhauses nicht unerläßlich) |
+| 971 | Ausbildung |
+| 972 | Forschung und Lehre |
+| 973-979 | frei |
+| 98 | Ausgliederungen |
+| 980 | Ambulanzen |
+| 981 | Hilfs- und Nebenbetriebe |
+| 982-989 | frei |
+| 99 | frei |

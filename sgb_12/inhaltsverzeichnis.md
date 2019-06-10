@@ -1,0 +1,325 @@
+# Inhaltsverzeichnis
+
+| Erstes Kapitel |
+| Allgemeine Vorschriften |
+| § 1 | Aufgabe der Sozialhilfe |
+| § 2 | Nachrang der Sozialhilfe |
+| § 3 | Träger der Sozialhilfe |
+| § 4 | Zusammenarbeit |
+| § 5 | Verhältnis zur freien Wohlfahrtspflege |
+| § 6 | Fachkräfte |
+| § 7 | Aufgabe der Länder |
+|  |
+| Zweites Kapitel |
+| Leistungen der Sozialhilfe |
+|  |
+|  | Erster Abschnitt |
+|  | Grundsätze der Leistungen |
+| § 8 | Leistungen |
+| § 9 | Sozialhilfe nach der Besonderheit des Einzelfalles |
+| § 10 | Leistungsformen |
+| § 11 | Beratung und Unterstützung, Aktivierung |
+| § 12 | Leistungsabsprache |
+| § 13 | Leistungen für Einrichtungen, Vorrang anderer Leistungen |
+| § 14 | Vorrang von Prävention und Rehabilitation |
+| § 15 | Vorbeugende und nachgehende Leistungen |
+| § 16 | Familiengerechte Leistungen |
+|  |
+|  | Zweiter Abschnitt |
+|  | Anspruch auf Leistungen |
+| § 17 | Anspruch |
+| § 18 | Einsetzen der Sozialhilfe |
+| § 19 | Leistungsberechtigte |
+| § 20 | Eheähnliche Gemeinschaft |
+| § 21 | Sonderregelung für Leistungsberechtigte nach dem Zweiten Buch |
+| § 22 | Sonderregelungen für Auszubildende |
+| § 23 | Sozialhilfe für Ausländerinnen und Ausländer |
+| § 24 | Sozialhilfe für Deutsche im Ausland |
+| § 25 | Erstattung von Aufwendungen Anderer |
+| § 26 | Einschränkung, Aufrechnung |
+|  |
+| Drittes Kapitel |
+| Hilfe zum Lebensunterhalt |
+|  |  |
+|  | Erster Abschnitt |
+|  | Leistungsberechtigte, notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze |
+| § 27 | Leistungsberechtigte |
+| § 27a | Notwendiger Lebensunterhalt, Regelbedarfe und Regelsätze |
+| § 27b | Notwendiger Lebensunterhalt in Einrichtungen |
+| § 28 | Ermittlung der Regelbedarfe |
+| § 28a | Fortschreibung der Regelbedarfsstufen |
+| § 29 | Festsetzung und Fortschreibung der Regelsätze |
+|  |
+|  | Zweiter Abschnitt |
+|  | Zusätzliche Bedarfe |
+| § 30 | Mehrbedarf |
+| § 31 | Einmalige Bedarfe |
+| § 32 | Beiträge für die Kranken- und Pflegeversicherung |
+| § 32a | Zeitliche Zuordnung von Beiträgen |
+| § 33 | Bedarfe für die Vorsorge |
+|  |
+|  | Dritter Abschnitt |
+|  | Bildung und Teilhabe |
+| § 34 | Bedarfe für Bildung und Teilhabe |
+| § 34a | Erbringung der Leistungen für Bildung und Teilhabe |
+| § 34b | Berechtigte Selbsthilfe |
+|  |
+|  | Vierter Abschnitt |
+|  | Bedarfe für Unterkunft und Heizung |
+| § 35 | Bedarfe für Unterkunft und Heizung |
+| § 35a | Satzung |
+| § 36 | Sonstige Hilfen zur Sicherung der Unterkunft |
+|  |
+|  | Fünfter Abschnitt |
+|  | Gewährung von Darlehen |
+| § 37 | Ergänzende Darlehen |
+| § 37a | Darlehen bei am Monatsende fälligen Einkünften |
+| § 38 | Darlehen bei vorübergehender Notlage |
+|  |
+|  | Sechster Abschnitt |
+|  | Einschränkung von Leistungsberechtigung und -umfang |
+| § 39 | Vermutung der Bedarfsdeckung |
+| § 39a | Einschränkung der Leistung |
+|  |
+|  | Siebter Abschnitt |
+|  | Verordnungsermächtigung |
+| § 40 | Verordnungsermächtigung |
+|  |
+| Viertes Kapitel |
+| Grundsicherung im Alter und bei Erwerbsminderung |
+|  |
+|  | Erster Abschnitt |
+|  | Grundsätze |
+| § 41 | Leistungsberechtigte |
+| § 41a | Vorübergehender Auslandsaufenthalt |
+| § 42 | Bedarfe |
+| § 42a | Bedarfe für Unterkunft und Heizung |
+| § 43 | Einsatz von Einkommen und Vermögen, Berücksichtigung von Unterhaltsansprüchen |
+|  |
+|  | Zweiter Abschnitt |
+|  | Verfahrensbestimmungen |
+| § 43a | Gesamtbedarf, Zahlungsanspruch und Direktzahlung |
+| § 44 | Antragserfordernis, Erbringung von Geldleistungen, Bewilligungszeitraum |
+| § 44a | Vorläufige Entscheidung |
+| § 44b | Aufrechnung, Verrechnung |
+| § 44c | Erstattungsansprüche zwischen Trägern |
+| § 45 | Feststellung der dauerhaften vollen Erwerbsminderung |
+| § 46 | Zusammenarbeit mit den Trägern der Rentenversicherung |
+|  |
+|  | Dritter Abschnitt |
+|  | Erstattung und Zuständigkeit |
+| § 46a | Erstattung durch den Bund |
+| § 46b | Zuständigkeit |
+|  |
+| Fünftes Kapitel |
+| Hilfen zur Gesundheit |
+| § 47 | Vorbeugende Gesundheitshilfe |
+| § 48 | Hilfe bei Krankheit |
+| § 49 | Hilfe zur Familienplanung |
+| § 50 | Hilfe bei Schwangerschaft und Mutterschaft |
+| § 51 | Hilfe bei Sterilisation |
+| § 52 | Leistungserbringung, Vergütung |
+|  |
+| Sechstes Kapitel |
+| Eingliederungshilfe für behinderte Menschen |
+| § 53 | Leistungsberechtigte und Aufgabe |
+| § 54 | Leistungen der Eingliederungshilfe |
+| § 55 | Sonderregelung für behinderte Menschen in Einrichtungen |
+| § 56 | (weggefallen) |
+| § 57 | Persönliches Budget |
+| § 58 | (weggefallen) |
+| § 59 | Aufgaben des Gesundheitsamtes |
+| § 60 | Verordnungsermächtigung |
+| § 60a | Sonderregelungen zum Einsatz von Vermögen |
+|  |
+| Siebtes Kapitel |
+| Hilfe zur Pflege |
+| § 61 | Leistungsberechtigte |
+| § 61a | Begriff der Pflegebedürftigkeit |
+| § 61b | Pflegegrade |
+| § 61c | Pflegegrade bei Kindern |
+| § 62 | Ermittlung des Grades der Pflegebedürftigkeit |
+| § 62a | Bindungswirkung |
+| § 63 | Leistungen für Pflegebedürftige |
+| § 63a | Notwendiger pflegerischer Bedarf |
+| § 63b | Leistungskonkurrenz |
+| § 64 | Vorrang |
+| § 64a | Pflegegeld |
+| § 64b | Häusliche Pflegehilfe |
+| § 64c | Verhinderungspflege |
+| § 64d | Pflegehilfsmittel |
+| § 64e | Maßnahmen zur Verbesserung des Wohnumfeldes |
+| § 64f | Andere Leistungen |
+| § 64g | Teilstationäre Pflege |
+| § 64h | Kurzzeitpflege |
+| § 64i | Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5 |
+| § 65 | Stationäre Pflege |
+| § 66 | Entlastungsbetrag bei Pflegegrad 1 |
+| § 66a | Sonderregelungen zum Einsatz von Vermögen |
+|  |
+| Achtes Kapitel |
+| Hilfe zur Überwindung besonderer sozialer Schwierigkeiten |
+| § 67 | Leistungsberechtigte |
+| § 68 | Umfang der Leistungen |
+| § 69 | Verordnungsermächtigung |
+|  |
+| Neuntes Kapitel |
+| Hilfe in anderen Lebenslagen |
+| § 70 | Hilfe zur Weiterführung des Haushalts |
+| § 71 | Altenhilfe |
+| § 72 | Blindenhilfe |
+| § 73 | Hilfe in sonstigen Lebenslagen |
+| § 74 | Bestattungskosten |
+|  |
+| Zehntes Kapitel |
+| Einrichtungen |
+| § 75 | Einrichtungen und Dienste |
+| § 76 | Inhalt der Vereinbarungen |
+| § 77 | Abschluss von Vereinbarungen |
+| § 78 | Außerordentliche Kündigung der Vereinbarungen |
+| § 79 | Rahmenverträge |
+| § 80 | Schiedsstelle |
+| § 81 | Verordnungsermächtigungen |
+|  |
+| Elftes Kapitel |
+| Einsatz des Einkommens und des Vermögens |
+|  |
+|  | Erster Abschnitt |
+|  | Einkommen |
+| § 82 | Begriff des Einkommens |
+| § 83 | Nach Zweck und Inhalt bestimmte Leistungen |
+| § 84 | Zuwendungen |
+|  |
+|  | Zweiter Abschnitt |
+|  | Einkommensgrenzen für die Leistungen nach dem Fünften bis Neunten Kapitel |
+| § 85 | Einkommensgrenze |
+| § 86 | Abweichender Grundbetrag |
+| § 87 | Einsatz des Einkommens über der Einkommensgrenze |
+| § 88 | Einsatz des Einkommens unter der Einkommensgrenze |
+| § 89 | Einsatz des Einkommens bei mehrfachem Bedarf |
+|  |
+|  | Dritter Abschnitt |
+|  | Vermögen |
+| § 90 | Einzusetzendes Vermögen |
+| § 91 | Darlehen |
+|  |
+|  | Vierter Abschnitt |
+|  | Einschränkung der Anrechnung |
+| § 92 | Anrechnung bei behinderten Menschen |
+| § 92a | Einkommenseinsatz bei Leistungen für Einrichtungen |
+|  |
+|  | Fünfter Abschnitt |
+|  | Verpflichtungen anderer |
+| § 93 | Übergang von Ansprüchen |
+| § 94 | Übergang von Ansprüchen gegen einen nach bürgerlichem Recht Unterhaltspflichtigen |
+| § 95 | Feststellung der Sozialleistungen |
+|  |
+|  | Sechster Abschnitt |
+|  | Verordnungsermächtigungen |
+| § 96 | Verordnungsermächtigungen |
+|  |
+| Zwölftes Kapitel |
+| Zuständigkeit der Träger der Sozialhilfe |
+|  |
+|  | Erster Abschnitt |
+|  | Sachliche und örtliche Zuständigkeit |
+| § 97 | Sachliche Zuständigkeit |
+| § 98 | Örtliche Zuständigkeit |
+| § 99 | Vorbehalt abweichender Durchführung |
+|  |
+|  | Zweiter Abschnitt |
+|  | Sonderbestimmungen |
+| § 100 | Zuständigkeit auf Grund der deutsch-schweizerischen Fürsorgevereinbarung |
+| § 101 | Behördenbestimmung und Stadtstaaten-Klausel |
+|  |
+| Dreizehntes Kapitel |
+| Kosten |
+|  |
+|  | Erster Abschnitt |
+|  | Kostenersatz |
+| § 102 | Kostenersatz durch Erben |
+| § 103 | Kostenersatz bei schuldhaftem Verhalten |
+| § 104 | Kostenersatz für zu Unrecht erbrachte Leistungen |
+| § 105 | Kostenersatz bei Doppelleistungen |
+|  |
+|  | Zweiter Abschnitt |
+|  | Kostenerstattung zwischen den Trägern der Sozialhilfe |
+| § 106 | Kostenerstattung bei Aufenthalt in einer Einrichtung |
+| § 107 | Kostenerstattung bei Unterbringung in einer anderen Familie |
+| § 108 | Kostenerstattung bei Einreise aus dem Ausland |
+| § 109 | Ausschluss des gewöhnlichen Aufenthalts |
+| § 110 | Umfang der Kostenerstattung |
+| § 111 | Verjährung |
+| § 112 | Kostenerstattung auf Landesebene |
+|  |
+|  | Dritter Abschnitt |
+|  | Sonstige Regelungen |
+| § 113 | Vorrang der Erstattungsansprüche |
+| § 114 | Ersatzansprüche der Träger der Sozialhilfe nach sonstigen Vorschriften |
+| § 115 | Übergangsregelung für die Kostenerstattung bei Einreise aus dem Ausland |
+|  |
+| Vierzehntes Kapitel |
+| Verfahrensbestimmungen |
+| § 116 | Beteiligung sozial erfahrener Dritter |
+| § 116a | Rücknahme von Verwaltungsakten |
+| § 117 | Pflicht zur Auskunft |
+| § 118 | Überprüfung, Verwaltungshilfe |
+| § 119 | Wissenschaftliche Forschung im Auftrag des Bundes |
+| § 120 | Verordnungsermächtigung |
+|  |
+| Fünfzehntes Kapitel |
+| Statistik |
+|  | Erster Abschnitt |
+|  | Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel |
+| § 121 | Bundesstatistik für das Dritte und Fünfte bis Neunte Kapitel |
+| § 122 | Erhebungsmerkmale |
+| § 123 | Hilfsmerkmale |
+| § 124 | Periodizität, Berichtszeitraum und Berichtszeitpunkte |
+| § 125 | Auskunftspflicht |
+| § 126 | Übermittlung, Veröffentlichung |
+| § 127 | Übermittlung an Kommunen |
+| § 128 | Zusatzerhebungen |
+|  |  |
+|  | Zweiter Abschnitt |
+|  | Bundesstatistik für das Vierte Kapitel |
+| § 128a | Bundesstatistik für das Vierte Kapitel |
+| § 128b | Persönliche Merkmale |
+| § 128c | Art und Höhe der Bedarfe |
+| § 128d | Art und Höhe der angerechneten Einkommen |
+| § 128e | Hilfsmerkmale |
+| § 128f | Periodizität, Berichtszeitraum und Berichtszeitpunkte |
+| § 128g | Auskunftspflicht |
+| § 128h | Datenübermittlung, Veröffentlichung |
+|  |  |
+|  | Dritter Abschnitt |
+|  | Verordnungsermächtigung |
+| § 129 | Verordnungsermächtigung |
+|  |
+| Sechzehntes Kapitel |
+| Übergangs- und Schlussbestimmungen |
+| § 130 | Übergangsregelung für ambulant Betreute |
+| § 131 | Übergangsregelung für die Statistik über Einnahmen und Ausgaben nach dem Vierten Kapitel |
+| § 132 | Übergangsregelung zur Sozialhilfegewährung für Deutsche im Ausland |
+| § 133 | Übergangsregelung für besondere Hilfen an Deutsche nach Artikel 116 Abs. 1 des Grundgesetzes |
+| § 133a | Übergangsregelung für Hilfeempfänger in Einrichtungen |
+| § 133b | Übergangsregelung zu Bedarfen für Unterkunft und Heizung |
+| § 134 | Übergangsregelung für die Fortschreibung der Regelbedarfsstufe 6 |
+| § 135 | Übergangsregelung aus Anlass des Zweiten Rechtsbereinigungsgesetzes |
+| § 136 | Erstattung des Barbetrags durch den Bund in den Jahren 2017 bis 2019 |
+| § 137 | Überleitung in Pflegegrade zum 1. Januar 2017 |
+| § 138 | Übergangsregelung für Pflegebedürftige aus Anlass des Dritten Pflegestärkungsgesetzes |
+| § 139 | Übergangsregelung zur Erbringung von Leistungen nach dem Sechsten Kapitel für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019 |
+|  |
+| Siebzehntes Kapitel |
+| Regelungen zur Teilhabe am Arbeitsleben für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019 |
+| § 140 | Teilhabe am Arbeitsleben |
+|  |
+| Achtzehntes Kapitel |
+| Regelungen für die Gesamtplanung für die Zeit vom 1. Januar 2018 bis zum 31. Dezember 2019 |
+| § 141 | Gesamtplanverfahren |
+| § 142 | Instrumente der Bedarfsermittlung |
+| § 143 | Gesamtplankonferenz |
+| § 143a | Feststellung der Leistungen |
+| § 144 | Gesamtplan |
+| § 145 | Teilhabezielvereinbarung |
+Anlage zu § 28

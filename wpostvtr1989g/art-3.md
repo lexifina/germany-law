@@ -1,0 +1,6 @@
+# Art 3
+
+(1)
+Die Umrechnung des in den Verträgen des Weltpostvereins genannten Sonderziehungsrechts des Internationalen Währungsfonds in Deutsche Mark wird nach der Methode vorgenommen, die der Internationale Währungsfonds für seine Operationen und Transaktionen anwendet.
+(2)
+Für die in den Verträgen aufgeführten Gebühren, Wertangabebeträge und Ersatzbeträge wird der in Sonderziehungsrechten ausgedrückte Wert der Deutschen Mark zum 1. Januar jeden Jahres jeweils für ein Jahr im voraus als Durchschnittswert festgesetzt. Der Durchschnittswert wird aus den Tageskursen des Sonderziehungsrechts der zwölf Monate berechnet, die am 30. September vor der jeweiligen Festsetzung enden. Der jeweils festgesetzte Durchschnittswert ist im Bundesanzeiger bekanntzugeben.

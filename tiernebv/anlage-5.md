@@ -1,0 +1,42 @@
+# Anlage 5 (zu § 26 Abs. 1)Nummernschlüssel für die Betriebsart
+
+(Fundstelle des Originaltextes: BGBl. I 2006, 1752;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+1. Zugelassene Betriebe
+  01 Zwischenbehandlungsbetrieb Kategorie 1 nach Artikel 10 VO (EG) Nr. 1774/2002
+  02 Zwischenbehandlungsbetrieb Kategorie 2 nach Artikel 10 VO (EG) Nr. 1774/2002
+  03 Zwischenbehandlungsbetrieb Kategorie 3 nach Artikel 10 VO (EG) Nr. 1774/2002
+  04 Lagerbetrieb nach Artikel 11 VO (EG) Nr. 1774/2002
+  05 Verbrennungs- oder Mitverbrennungsanlage nach Artikel 12 Abs. 2 und 3 VO (EG) Nr. 1774/2002
+  06 Verarbeitungsbetrieb für Material der Kategorie 1 nach Artikel 13 VO (EG) Nr. 1774/2002
+  07 Verarbeitungsbetrieb für Material der Kategorie 2 nach Artikel 13 VO (EG) Nr. 1774/2002
+  08 Verarbeitungsbetrieb für Material der Kategorie 3 nach Artikel 17 VO (EG) Nr. 1774/2002
+  09 Fettverarbeitungsbetrieb für Material der Kategorie 2 nach Artikel 14 VO (EG) Nr. 1774/2002
+  10 Fettverarbeitungsbetrieb für Material der Kategorie 3 nach Artikel 14 VO (EG) Nr. 1774/2002
+  11 Biogasanlage nach Artikel 15 VO (EG) Nr. 1774/2002
+  12 Kompostierungsanlage nach Artikel 15 VO (EG) Nr. 1774/2002
+  13 Heimtierfutterbetrieb nach Artikel 18 VO (EG) Nr. 1774/2002
+  14 Technische Anlage nach Artikel 18 VO (EG) Nr. 1774/2002
+  15 Verfütterung tierischer Nebenprodukte an Zootiere nach Artikel 23 Abs. 2 Buchstabe c Nr. i VO (EG) Nr. 1774/2002
+  16 Verfütterung tierischer Nebenprodukte an Zirkustiere nach Artikel 23 Abs. 2 Buchstabe c Nr. ii VO (EG) Nr. 1774/2002
+  17 Verfütterung tierischer Nebenprodukte an Reptilien, Raubvögel nach Artikel 23 Abs. 2 Buchstabe c Nr. iii VO (EG) Nr. 1774/2002
+  18 Verfütterung tierischer Nebenprodukte an Pelztiere nach Artikel 23 Abs. 2 Buchstabe c Nr. iv VO (EG) Nr. 1774/2002
+  19 Verfütterung tierischer Nebenprodukte an Wildtiere, deren Fleisch nicht für den menschlichen Verzehr bestimmt ist, nach Artikel 23 Abs. 2 Buchstabe c Nr. v VO (EG) Nr. 1774/2002
+  20 Verfütterung tierischer Nebenprodukte an Hunde nach Artikel 23 Abs. 2 Buchstabe c Nr. vi VO (EG) Nr. 1774/2002
+  21 Verfütterung tierischer Nebenprodukte an Maden nach Artikel 23 Abs. 2 Buchstabe c Nr. vii VO (EG) Nr. 1774/2002
+  22 Sammelstelle nach Artikel 23 Abs. 4 VO (EG) Nr. 1774/2002
+  23 Plätze, an denen Heimtiere vergraben werden ("Tierfriedhöfe") (Artikel 24 Abs. 1 Buchstabe a)
+  36 Pasteurisierungsanlage nach § 11
+2. Registrierte Betriebe
+  28 Betriebe, die Gülle befördern
+  29 Betriebe, die Magen- und Darminhalt, Magen-/Darmpakete, Milch der Kategorie 2, Kolostrum befördern
+  30 Betriebe, die Küchen- und Speiseabfälle der Kategorie 3 für Biogas- oder Kompostierungsanlagen befördern
+  31 Betriebe, die Milch oder Erzeugnisse auf Milchbasis befördern
+  32 Betriebe, die verarbeitete Erzeugnisse der Kategorie 1 oder 2 befördern
+  33 Betriebe, die unter den Nummern 28 bis 32 nicht genannte tierische Nebenprodukte befördern
+  34 Biogasanlagen, die ausschließlich Küchen- und Speiseabfälle der Kategorie 3 vergären 1)
+  35 Kompostierungsanlagen, die ausschließlich Küchen- und Speiseabfälle der Kategorie 3 kompostieren 2)
+  37 Molkereien
+-----
+1) Auch Biogasanlagen mit Nachrotte.
+2) Auch Kompostierungsanlagen mit vorgeschalteter Vergärung.

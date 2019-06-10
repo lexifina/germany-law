@@ -1,0 +1,15 @@
+# Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich, Verpflichtete](0001.md)
+- [§ 2 Ersuchen](0002.md)
+- [§ 3 Personenbasiertes Ersuchen](0003.md)
+- [§ 4 Nummernbasiertes Ersuchen](0004.md)
+- [§ 5 Anschriftenbasiertes Ersuchen](0005.md)
+- [§ 6 Abfrage der Daten](0006.md)
+- [§ 7 Datenübermittlung durch den Verpflichteten](0007.md)
+- [§ 8 Datenübermittlung durch die Bundesnetzagentur](0008.md)
+- [§ 9 Sicherheitsanforderungen](0009.md)
+- [§ 10 Evaluierung](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)

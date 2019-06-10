@@ -1,0 +1,18 @@
+# Telekommunikations-Nummerierungsverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Nummernplan](0001.md)
+- [§ 2 Nummerierungskonzept](0002.md)
+- [§ 3 Änderungen des Nummernplans](0003.md)
+- [§ 4 Nummernzuteilung](0004.md)
+- [§ 5 Ausgestaltung des Antragsverfahrens](0005.md)
+- [§ 6 Besondere Ablehnungsgründe](0006.md)
+- [§ 7 Bekanntmachungen über Zuteilungen](0007.md)
+- [§ 8 Abgeleitete Zuteilung von Nummern](0008.md)
+- [§ 9 Rückgabe, Widerruf und Rückfall](0009.md)
+- [§ 10 Datenaustauschverfahren](0010.md)
+- [§ 11 Ordnungswidrigkeiten](0011.md)
+- [§ 12 Übergangsvorschriften](0012.md)
+- [§ 13 Inkrafttreten](0013.md)
+- [Anlage (zu § 12)](anlage.md)

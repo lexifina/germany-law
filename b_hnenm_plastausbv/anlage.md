@@ -1,0 +1,108 @@
+# Anlage (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin und -plastikerin
+
+(Fundstelle: BGBl. I 2000, 86 - 90)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages , insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 3 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Entwickeln von Gestaltungskonzeptionen (§ 3 Nr. 5) | a) | Informationen zu Gestaltungskonzepten ermitteln, insbesondere zu den Anforderungen an Dekorationen, historische und zeitgenössische sowie kultur- und kunstgeschichtliche Bezüge | 2 |  |  |  |
+| b) | Produktionsanforderungen hinsichtlich gestalterischer und technischer Umsetzungsmöglichkeiten auswerten und mit den beteiligten Werkstätten beraten |  |  | 3 |  |
+| c) | Umsetzungsmöglichkeiten vorstellen und abstimmen |
+| 6 | Planen, Kalkulieren und Organisieren der Arbeiten (§ 3 Nr. 6) | a) | Arbeitsschritte und Arbeitstechniken festlegen | 2 |  |  |  |
+| b) | Arbeitsabläufe nach Terminvorgaben, insbesondere mit anderen Abteilungen, abstimmen und festlegen |
+| c) | Aufgaben innerhalb des Teams organisieren und koordinieren |
+| d) | Arbeitsplatz einrichten |
+| e) | Werk- und Hilfsstoffe auswählen |  | 3 |  |  |
+| f) | Material und Kostenberechnungen durchführen |
+| g) | Werkzeuge, Geräte und Maschinen auswählen |
+| 7 | Anfertigen von Entwürfen und Modellen (§ 3 Nr. 7) | a) | lineare und plastische Zeichnungen, insbesondere von Architekturen und Landschaften, anfertigen | 15 |  |  |  |
+| b) | Modelle, insbesondere Architekturen und Landschaftsteile, anfertigen und plastisch gestalten | 15 |  |  |  |
+| c) | lineare und plastische Zeichnungen, insbesondere von Lebewesen und Phantasiedarstellungen, anfertigen |  | 6 |  |  |
+| d) | Dekorationen, insbesondere Lebewesen und Phantasiedarstellungen, modellieren und plastisch gestalten |  | 6 |  |  |
+| 8 | Anfertigen von technischen Zeichnungen (§ 3 Nr. 8) | a) | Zeichnungen in unterschiedlichen Maßstäben anfertigen | 2 |  |  |  |
+| b) | Zeichnungen maßstabgerecht übertragen |
+| c) | Zeichnungen in unterschiedlichen Ansichten anfertigen |  | 2 |  |  |
+| d) | räumliche Darstellungen anfertigen |
+| e) | Konstruktionszeichnungen anfertigen |  |  | 2 |  |
+| 9 | Bearbeiten von Untergründen und Oberflächen (§ 3 Nr. 9) | a) | Werkstoffe, insbesondere Textilien, Hölzer, Metalle und Kunststoffe, be- und verarbeiten | 10 |  |  |  |
+| b) | Untergründe, insbesondere Textilien, Kunststoffe und Folien, auf Lichtdurchlässigkeit, Struktur und Dichte prüfen |
+| c) | Grundierungen für unterschiedliche Zeichen- und Maltechniken herstellen und auftragen |
+| d) | plastische Massen, insbesondere unter Berücksichtigung von Belastbarkeit und Gewicht, anfertigen |
+| e) | Strukturen aus Natur und Technik auswählen und mit plastischen Massen umsetzen |
+| f) | vorgefertigte Applikationen aufbringen |  | 2 |  |  |
+| g) | Gewebe, Folien und plastische Elemente für transparente, durchscheinende und deckende Malereien bearbeiten |  |  | 12 |  |
+| h) | aufrollbare und starre Dekorationsteile mit Putz-, Mauerwerk-, Stein- und Betonimitationen versehen |
+| i) | ausstattungsspezifische Vergoldetechniken ausführen |
+| 10 | Anfertigen von Schriften, Zeichen und Ornamenten (§ 3 Nr. 10) | a) | Schablonen und Pausen anfertigen und anwenden | 6 |  |  |  |
+| b) | mit selbstgefertigten Stempeln drucken |
+| c) | Tier-, Pflanzen- und geometrische Ornamente zeichnen, malen und plastisch gestalten |  | 7 |  |  |
+| d) | Buchstaben und Schriften konstruieren und zeichnen |  |  | 6 |  |
+| e) | Schriften in verschiedenen Techniken ausführen |
+| f) | Flächen mit Schrift gestalten |
+| g) | Schriften, Zeichen und Ornamente unterschiedlicher Kulturkreise imitieren |
+| 11 | Prüfen von Arbeitsergebnissen (§ 3 Nr. 11) | a) | gestalterische Prüfkriterien entwickeln und unter Berücksichtigung von Vorlagen und Wirkung anwenden |  |  | 3 |  |
+| b) | Funktionsprüfungen nach geforderter Aufgabenstellung und notwendiger Belastbarkeit durchführen |
+|  |  |  |  |  |  |  |  |
+| A. Fachrichtung Malerei |
+|  |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Mischen von Farben und Abstimmen auf die Beleuchtung (§ 3 Abs. 2 Nr. 1) | a) | Farbmittel nach Verträglichkeit von Pigmenten mit Lösungs-, Binde- und Verdünnungsmitteln sowie Zusatzstoffen auswählen |  |  |  | 6 |
+| b) | Farben entwurfsgerecht mischen |
+| c) | Farbproben und Farbauszüge unter Berücksichtigung von licht-, aufnahmetechnischen und psychologischen Farbgestaltungsmöglichkeiten sowie geforderter Oberflächenqualität anfertigen |
+| d) | Farbpaletten zusammenstellen |
+| e) | Endabstimmung zwischen Malerei und Beleuchtung herbeiführen |
+| 2 | Anfertigen von Kopien und Imitaten (§ 3 Abs. 2 Nr. 2) | a) | Riss- und Sprungimitationen anfertigen |  |  |  | 10 |
+| b) | Holzimitationen durch Malen und Modellieren anfertigen |
+| c) | Steinimitationen, insbesondere Marmor, anfertigen |
+| d) | Metallimitationen anfertigen |
+| e) | Textilimitationen, insbesondere Faltenwürfe, anfertigen |
+| f) | Kopien von zeitgenössischen und historischen Kunstwerken, insbesondere von Zeichnungen und Malereien, anfertigen |
+| 3 | Vorbereiten von Bühnenmalereien (§ 3 Abs. 2 Nr. 3) | a) | Vergrößerungstechniken einsetzen und maßstabgerechte Vorzeichnungen für Malereien anfertigen |  |  |  | 10 |
+| b) | Lasier- und Koloriertechniken anwenden |
+| c) | Spritztechniken anwenden |
+| d) | grafische Elemente in unterschiedlichen Techniken ausführen |
+| 4 | Herstellen von Bühnenmalereien (§ 3 Abs. 2 Nr. 4) | a) | Bildaufbau unter Einbeziehung von Kontrasten, Proportionen, Flächen- und Raumaufteilungen sowie Licht- und Schattenwirkungen entwickeln |  |  |  | 6 |
+| b) | menschliche und tierische Anatomie in Bewegung und in unterschiedlichen Altersstufen darstellen |  |  |  | 20 |
+| c) | Architekturen aus unterschiedlichen Epochen und Kulturkreisen sowie Landschaften mit verschiedenen Vegetationsformen darstellen |
+| d) | freie Formen, Phantasiedarstellungen sowie Farb- und Luftperspektiven darstellen |
+| B. Fachrichtung Plastik |
+|  |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Auswählen und Anwendung von Werkstoffen und Techniken (§ 3 Abs. 3 Nr. 1) | a) | Materialien nach technischer und gesundheitlicher Verträglichkeit auswählen |  |  |  | 4 |
+| b) | technische und wirtschaftliche Umsetzbarkeit von Entwürfen anhand von Proben und Mustern beurteilen |
+| c) | Vergrößerungs- und Verkleinerungstechniken einsetzen |
+| 2 | Vervielfältigen von plastischen Elementen (§ 3 Abs. 3 Nr. 2) | a) | Abgussformen, verlorene Formen sowie Tiefziehformen konstruieren und anfertigen |  |  |  | 17 |
+| b) | ausformen und laminieren |
+| c) | aus- und abgeformte Teile nacharbeiten |
+| 3 | Anwenden von Klebe- und Verbindungstechniken (§ 3 Abs. 3 Nr. 3) | a) | nach statischen und dynamischen Bedingungen, insbesondere Holz, Metall, Kunststoff und Textilien, kleben und verbinden |  |  |  | 6 |
+| b) | Armierungs- und Kaschiertechniken anwenden |
+| c) | Applikationen herstellen und aufkleben sowie durch Spritzverfahren auftragen |
+| 4 | Kopieren und Imitieren (§ 3 Abs. 3 Nr. 4) | a) | Gegenstände, insbesondere Reliefs, Plastiken und Gefäße aus Geschichte und Gegenwart, kopieren |  |  |  | 8 |
+| b) | Textilimitationen, insbesondere Faltenwürfe, anfertigen |
+| c) | Oberflächen, insbesondere Stein, Holz, Metall und Risse, imitieren |
+| 5 | Herstellen von plastischen Elementen (§ 3 Abs. 3 Nr. 5) | a) | Gestaltungskonzepte unter Einbeziehung von Kontrasten, Proportionen, Raumaufteilungen, Licht- und Schattenwirkungen sowie Perspektiven entwickeln |  |  |  | 17 |
+| b) | Gestaltungselemente, insbesondere durch Schnitzen, Sägen, Modellieren und Kaschieren, umsetzen |
+| c) | menschliche und tierische Anatomie in Bewegung und in unterschiedlichen Altersstufen darstellen |
+| d) | Architekturen aus unterschiedlichen Epochen und Kulturkreisen sowie Landschaften mit verschiedenen Vegetationsformen darstellen |
+| e) | freie Formen und Phantasiedarstellungen darstellen |

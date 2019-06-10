@@ -1,0 +1,15 @@
+# Gesetz zur Förderung von Jugendfreiwilligendiensten
+
+- [§ 1 Fördervoraussetzungen](0001.md)
+- [§ 2 Freiwillige](0002.md)
+- [§ 3 Freiwilliges soziales Jahr](0003.md)
+- [§ 4 Freiwilliges ökologisches Jahr](0004.md)
+- [§ 5 Jugendfreiwilligendienste im Inland](0005.md)
+- [§ 6 Jugendfreiwilligendienst im Ausland](0006.md)
+- [§ 7 Kombinierter Jugendfreiwilligendienst](0007.md)
+- [§ 8 Zeitliche Ausnahmen](0008.md)
+- [§ 9 Förderung](0009.md)
+- [§ 10 Träger](0010.md)
+- [§ 11 Vereinbarung, Bescheinigung, Zeugnis](0011.md)
+- [§ 12 Datenschutz](0012.md)
+- [§ 13 Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen](0013.md)

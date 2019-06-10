@@ -1,0 +1,178 @@
+# Anlage (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Tierpfleger/zur Tierpflegerin
+
+(Fundstelle: BGBl. I 2000, 1098 - 1104)
+| Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten |
+| 1-18 | 19-24 | 25-36 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Abs. 1 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | Während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Abs. 1 Nr. 2) | a) | Standort, Aufbau und Aufgaben des Ausbildungsbetriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Einkauf, Produktion, Dienstleistung, Vermarktung und Verwaltung erklären |
+| c) | Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen, Gewerkschaften, Verwaltungen und Verbänden erklären |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Abs. 1 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| e) | Regeln der Arbeitshygiene anwenden |
+| 4 | Umweltschutz (§ 3 Abs. 1 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden, Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Qualitätssichernde Maßnahmen (§ 3 Abs. 1 Nr. 5) | a) | betriebliche Standards anwenden |
+| b) | Kundenorientierung bei der Aufgabenerledigung berücksichtigen |
+| c) | betriebliche Maßnahmen zur Qualitätssicherung durchführen |
+| 6 | Berufsspezifische Regelungen (§ 3 Abs. 1 Nr. 6) | a) | Bestimmungen des Tierschutzes anwenden | 2 |  |  |
+| b) | berufsspezifische Regelungen, insbesondere Regelungen zur Tiergesundheit, anwenden |
+| c) | Aufgaben der zuständigen Berufsgenossenschaft und der Gewerbeaufsicht erläutern |
+| d) | Regelungen zum Naturschutz anwenden |  | 2 |  |
+| e) | Regelungen zum Artenschutz anwenden |
+| 7 | Arbeitsorganisation (§ 3 Abs. 1 Nr. 7) | a) | persönliche Schutzausrüstung auswählen und handhaben | 6 |  |  |
+| b) | Sicherheitseinrichtungen am Arbeitsplatz bedienen und ihre Funktionsfähigkeit erhalten |
+| c) | Aufgaben unter Berücksichtigung betrieblicher Gegebenheiten, insbesondere nach wirtschaftlichen Gesichtspunkten, planen und durchführen |
+| d) | Materialien, Ersatzteile, Werkzeuge und Betriebsmittel auswählen, bereitstellen und lagern |
+| e) | Maschinen, Geräte und Betriebseinrichtungen einsetzen und funktionsfähig erhalten |
+| f) | Aufgaben im Team bearbeiten, Ergebnisse abstimmen, auswerten und kontrollieren |
+| g) | Arbeitsabläufe nach ergonomischen, funktionalen und rechtlichen Anforderungen gestalten |  | 2 |  |
+| h) | Arbeitsergebnisse dokumentieren, beurteilen und präsentieren |
+| 8 | Kommunikation und Information (§ 3 Abs. 1 Nr. 8) | a) | Kommunikations- und Informationssysteme nutzen und Informationen aufgabenbezogen auswerten | 5 |  |  |
+| b) | Regeln zum Datenschutz und zur Datensicherheit anwenden |
+| c) | Gespräche mit Kunden ergebnisorientiert und situationsbezogen führen |
+| d) | fremdsprachige Fachbegriffe anwenden |
+| 9 | Systematik, Anatomie, Physiologie und Verhalten von Tieren (§ 3 Abs. 1 Nr. 9) | a) | zoologische Systematik erläutern | 6 |  |  |
+| b) | Körperbau am Tier beschreiben |
+| c) | Verhalten von Tieren beschreiben |
+| d) | Lage und Funktion der Organe an verschiedenen Tierarten erläutern |
+| e) | Lebensweise von Tieren verschiedener Wirbeltierordnungen beschreiben |  | 2 |  |
+| 10 | Pflegen, Halten und Versorgen von Tieren (§ 3 Abs. 1 Nr. 10) | a) | Tiere beobachten | 14 |  |  |
+| b) | Verhaltsänderungen feststellen und erforderliche Maßnahmen ergreifen |
+| c) | Tiere artgerecht füttern und tränken |
+| d) | Körperpflege durchführen |
+| e) | Tiere beschäftigen |
+| f) | Tiere kennzeichnen |
+| g) | biologische Daten erfassen |
+| h) | Tiere zu Gruppen zusammenstellen |  | 6 |  |
+| i) | Tiergesundheit begutachten |
+| k) | trächtige und neugeborene Tiere versorgen |
+| 11 | Transportieren von Tieren (§ 3 Abs. 1 Nr. 11) | a) | Methoden und Hilfsmittel zum Einfangen, Ergreifen und Umsetzen von Tieren beschreiben | 6 |  |  |
+| b) | Tiermasse und -größe schätzen und messen |
+| c) | Tiere einfangen, fixieren, einsetzen und umsetzen |
+| d) | beim Transport Stressfaktoren verringern und Verletzungsgefahren vermeiden |
+| e) | Tiere für den Transport vorbereiten, versorgen, transportieren und entladen |
+| f) | Tiere in Empfang nehmen |
+| g) | Tiere eingewöhnen |
+| 12 | Einrichten, Reinigen, Desinfizieren und Instandhalten von Tierunterkünften (§ 3 Abs. 1 Nr. 12) | a) | Größe von Tierunterkünften berechnen | 14 |  |  |
+| b) | Tierunterkünfte unter Beachtung funktionaler, Verhaltens- und artgerechter Gesichtspunkte einrichten und in Stand halten |
+| c) | Tierunterkünfte reinigen und desinfizieren |
+| d) | Quarantäne- und Krankenbereiche einrichten |  | 4 |  |
+| 13 | Erkennen von Krankheiten, Schutz der Tiergesundheit(§ 3 Abs. 1 Nr. 13) | a) | Krankheitsanzeichen feststellen und Maßnahmen ergreifen | 7 |  |  |
+| b) | Proben für Untersuchungen nehmen |
+| c) | Vorsorgemaßnahmen durchführen |
+| d) | Parasitenbefall feststellen, Bekämpfung nach Anweisung durchführen |
+| e) | Zoonosegefahr erkennen, Maßnahmen ergreifen |  | 6 |  |
+| f) | Quarantänemaßnahmen und Notfallquarantäne durchführen |
+| 14 | Mitwirken bei Behandlungen und Eingriffen (§ 3 Abs. 1 Nr. 14) | a) | Tiere zur Behandlung halten, positionieren und fixieren | 6 |  |  |
+| b) | bei Untersuchungen, Behandlungen und Eingriffen mitwirken |
+| c) | Tiere vor und nach Eingriffen betreuen, insbesondere Tiere für die Narkose vorbereiten und Narkose überwachen |  | 4 |  |
+| d) | Tiere nach Anweisung medizinisch versorgen |
+| 15 | Lagern, Zubereiten, Verwenden von Futter und Einstreu (§ 3 Abs. 1 Nr. 15) | a) | Futter und Einstreu nach Aussehen, Beimischungen sowie Geruch beurteilen und Konsistenz prüfen | 12 |  |  |
+| b) | Futtermittel und Einstreu auswählen |
+| c) | Futterrationen bemessen und zusammenstellen |
+| d) | Fütterungs- und Tränkeinrichtungen kontrollieren und Funktionsfähigkeit erhalten |
+| e) | Futter und Einstreu lagern |
+| Abschnitt II: Berufliche Fachbildung in den Fachrichtungen |
+| A. Fachrichtung Forschung und Klinik |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten |
+| 1-18 | 19-24 | 25-36 |
+| 1 | 2 | 3 | 4 |
+| 1 | Diagnostik bei Tieren (§ 3 Abs. 2 Nr. 1) | a) | Parasitenbefall nach Art und Stärke bestimmen |  |  | 8 |
+| b) | für die Diagnostik erforderliche Angaben, insbesondere Körpermasse und Alter sowie physiologische Daten, ermitteln |
+| c) | Kot-, Harn-, Haut- sowie Haarproben entnehmen und Ergebnisse bewerten |
+| d) | Blutentnahme bei Tieren durchführen und Blutproben fachgerecht handhaben |
+| e) | Blutparameter bestimmen sowie Erythrozyten und Leukozyten unterscheiden |
+| f) | bei Sektionen mitwirken |
+| 2 | Mitwirken bei Behandlungen und Eingriffen (§ 3 Abs. 2 Nr. 2) | a) | Notwendigkeit von Tierversuchen sowie Ersatz- und Ergänzungsmethoden zu Tierversuchen aufzeigen |  |  | 14 |
+| b) | endogene und exogene Störfaktoren erläutern |
+| c) | Tiere fachgerecht betäuben und töten |
+| d) | Wirkstoffzubereitungen berechnen, ansetzen und verwenden |
+| e) | Behandlungen und Eingriffe durchführen |
+| f) | mit Infusionslösungen und -besteck umgehen, Infusion anlegen und überwachen |
+| g) | Regelungen zur Durchführung von Tierversuchen anwenden |
+| 3 | Haltung, Pflege und Zucht von hygienisch und genetisch definierten Tieren (§ 3 Abs. 2 Nr. 3) | a) | berufsspezifische Regelungen des Gentechnikgesetzes anwenden |  |  | 12 |
+| b) | Tiere verschiedener Ordnungen unter versuchstierkundlichen Haltungssystemen, insbesondere Barrieresystemen, halten und züchten sowie Dokumentationen anfertigen |
+| c) | Bedeutung und Züchtung gentechnisch veränderter, insbesondere transgener Tiere erläutern |
+| d) | Zuchtprogramme durchführen und dokumentieren |
+| e) | Funktionsfähigkeit technischer Einrichtungen, insbesondere Sterilisatoren, erhalten |
+| f) | Methoden der Kryokonservierung sowie des Embryotransfers erläutern |
+| g) | Maßnahmen zur Verhaltensanreicherung unter Berücksichtigung der Standardisierung durchführen |
+| 4 | Qualitätsmanagement (§ 3 Abs. 2 Nr. 4) | a) | Qualitätskontrollen durchführen |  |  | 6 |
+| b) | Regeln Guter Laborpraxis (GLP) sowie vergleichbare Regelungen anwenden |
+| c) | bei der Umsetzung des Qualitätsmanagements mitwirken |
+| 5 | Hygienemanagement (§ 3 Abs. 2 Nr. 5) | a) | Maßnahmen zur Aufrechterhaltung des Hygienestatus, insbesondere bei Gnotobioten und spezifiziertpathogenfreien Tieren, erläutern |  |  | 6 |
+| b) | die Bedeutung von Schadorganismen im Arbeitsbereich erläutern |
+| c) | Desinfektionsmaßnahmen unterscheiden sowie Desinfektionslösungen berechnen und herstellen |
+| d) | Fein-, Grob-, Instrumenten-, Haut- und Flächendesinfektion durchführen |
+| e) | Sterilisationsmaßnahmen durchführen, insbesondere Autoklavieren und Trockensterilisation |
+| 6 | Prozessbezogene Arbeitstechniken (§ 3 Abs. 2 Nr. 6) | a) | bei der Planung von Prozessabläufen mitwirken |  |  | 6 |
+| b) | prozessorientierte Arbeitstechniken auswählen und bewerten |
+| c) | prozessorientierte Arbeitstechniken einsetzen |
+| d) | Prozessabläufe kontrollieren und dokumentieren |
+| e) | Ergebnisse prüfen, bewerten und dokumentieren |
+| f) | elektronische Datenverarbeitungssysteme einsetzen |
+| B. Fachrichtung Zoo |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten |
+| 1-18 | 19-24 | 25-36 |
+| 1 | 2 | 3 | 4 |
+| 1 | Bestimmen, Pflegen und Züchten von Wildtieren und Haustieren gefährdeter Rassen (§ 3 Abs. 3 Nr. 1) | a) | im Ausbildungsbetrieb gehaltene Tiere bestimmen |  |  | 20 |
+| b) | in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten, insbesondere Säugetiere, Vögel, Aquarien- und Terrarientiere, systematisch, geografisch und ökologisch einordnen und pflegen |
+| c) | in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten züchten |
+| d) | Tötungsmethoden erläutern und Futtertiere fachgerecht töten |
+| 2 | Betreuen von Wildtieren und Haustieren gefährdeter Rassen (§ 3 Abs. 3 Nr. 2) | a) | in zoologischen Gärten und ähnlichen Einrichtungen gehaltene Tierarten, insbesondere Säugetiere, Vögel, Aquarien- und Terrarientiere, verhaltensgerecht betreuen |  |  | 12 |
+| b) | Tiere verhaltensgerecht mit Methoden des Behavioural Enrichment beschäftigen |
+| 3 | Ausgestalten und Instandhalten zoospezifischer Anlagen (§ 3 Abs. 3 Nr. 3) | a) | Gehege, Volieren, Aquarien und Terrarien artgerecht einrichten, ausgestalten und in Stand halten |  |  | 16 |
+| b) | Aquarien- und Terrarienpflanzen pflegen |
+| c) | technische Anlagen kontrollieren, bei Störungen Maßnahmen ergreifen |
+| d) | Sicherheitseinrichtungen kontrollieren und warten |
+| e) | Wasserqualität prüfen, bei Störungen Maßnahmen ergreifen |
+| 4 | Besucherbetreuung (§ 3 Abs. 3 Nr. 4) | a) | über Aufgaben und Bedeutung des Betriebes und die Tätigkeit von Tierpflegerinnen und -pflegern informieren |  |  | 4 |
+| b) | über die im Betrieb lebenden Tiere informieren, insbesondere über Herkunft, Verhalten, Lebensweise und Haltungsbedingungen |
+| c) | Maßnahmen der Besucherbetreuung planen und durchführen |
+| C. Fachrichtung Tierheim und Tierpension |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen in den Ausbildungsmonaten |
+| 1-18 | 19-24 | 25-36 |
+| 1 | 2 | 3 | 4 |
+| 1 | Pflegen, Halten und Versorgen von Tieren in Tierheimen und Tierpensionen (§ 3 Abs. 4 Nr. 1) | a) | Tiere, insbesondere Hunde und Katzen, bestimmen sowie nach Ursprung, Rasse, Charakter und Verhalten einordnen |  |  | 18 |
+| b) | einheimische und nichteinheimische Säuger, Vögel und Reptilien artgerecht unterbringen und pflegen |
+| c) | betriebliche Sicherheitsvorschriften beim Umgang mit Tieren, insbesondere bei verhaltensauffälligen Tieren, anwenden |
+| d) | Belegungs- und Futterpläne nach Bedarf aufstellen |
+| e) | Regelungen und Empfehlungen von Fachverbänden anwenden |
+| 2 | Erziehen von Hunden (§ 3 Abs. 4 Nr. 2) | a) | Sozialisierung zwischen Mensch und Hund sowie zwischen Hunden fördern |  |  | 10 |
+| b) | Gruppenhaltung von Hunden durchführen |
+| c) | mit Problemhunden umgehen |
+| d) | tierschutzgerechte Trainings- und Erziehungsmethoden anwenden |
+| 3 | Kunden- und Besucherbetreuung, Öffentlichkeitsarbeit (§ 3 Abs. 4 Nr. 3) | a) | über Ausstattung, Aufgaben und Bedeutung des Betriebes informieren |  |  | 6 |
+| b) | über die im Betrieb lebenden Tiere informieren, insbesondere über Herkunft, Verhalten, Lebens weise und Haltungsbedingungen |
+| c) | Maßnahmen der Kunden- und Besucherbetreuung planen und durchführen |
+| d) | Kunden beraten und Besucher betreuen |
+| e) | an der Planung und Konzeption von Marketingmaßnahmen mitwirken |
+| 4 | Verwaltung und kaufmännische Grundlagen (§ 3 Abs. 4 Nr. 4) | a) | Kunden über Vertrags- und Geschäftsbedingungen informieren |  |  | 18 |
+| b) | Verträge vorbereiten |
+| c) | kunden- und tierspezifische Daten registrieren, aufbereiten und verwalten |
+| d) | Angebote einholen und vergleichen |
+| e) | Betriebsmittel beschaffen, annehmen, kontrollieren, Mängel feststellen |
+| f) | Betriebsmittel lagen und einsetzen |
+| g) | Reklamationen bearbeiten |
+| h) | Kosten ermitteln, erfassen und überwachen |
+| i) | Kalkulationen betriebsbezogen durchführen |
+| k) | Rechnungen auf Richtigkeit prüfen, Unstimmigkeiten klären |
+| l) | Zahlungsverkehr durchführen und Mahnungen bearbeiten |
+| m) | bei Personalplanung und Personaleinsatz mitwirken |
+| n) | Schriftverkehr durchführen |

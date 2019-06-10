@@ -1,0 +1,32 @@
+# Anlage (zu § 2 Abs. 3)Konzessionsabgabe
+
+(Fundstelle: BGBl. I 2001, 3764)
+Meldung für das .. Kalendervierteljahr 20../für das Jahr 20.. *)
+Nebenbetrieb ..................
+Bundesautobahn A ..............
+I. Kraftstoff
+a) Ottokraftstoff
+Menge Konzessionsabgabe
+.................. l x 0,23008 Euro je einhundert
+Liter = ............... Euro
+b) Dieselkraftstoff
+Menge Konzessionsabgabe
+.................. l x 0,17895 Euro je einhundert
+Liter = ............... Euro
+c) sonstige flüssige oder gasförmige Kraftstoffe
+Menge Konzessionsabgabe
+.................. l/kg*) x 0,17895 Euro je
+einhundert Liter/kg*) = ............... Euro
+II. Übrige Geschäfte
+Umsatz Konzessionsabgabe
+..................... Euro x 1,1 vom Hundert = ............... Euro
+III. Ermäßigung nach § 1 Abs. 4 BAB-KAbgV*)
+Konzessionsabgabe Ermäßigung
+(Summe aus I. und II.)
+..................... Euro x 25 vom Hundert = ............... Euro
+IV. Konzessionsabgabe insgesamt ............... Euro
+Es wird erklärt, daß hiermit der Verkauf aller Kraftstoffe und der
+gesamte Umsatz des o.g. Berichtszeitraums gemeldet werden.
+(Ort, Datum)
+----------
+*) Nichtzutreffendes streichen

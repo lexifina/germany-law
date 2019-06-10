@@ -1,0 +1,3 @@
+# Art 3
+
+Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.

@@ -1,0 +1,15 @@
+# Gesetz gegen Doping im Sport
+
+- [§ 1 Zweck des Gesetzes](0001.md)
+- [§ 2 Unerlaubter Umgang mit Dopingmitteln, unerlaubte Anwendung von Dopingmethoden](0002.md)
+- [§ 3 Selbstdoping](0003.md)
+- [§ 4 Strafvorschriften](0004.md)
+- [§ 5 Einziehung](0005.md)
+- [§ 6 Verordnungsermächtigungen](0006.md)
+- [§ 7 Hinweispflichten](0007.md)
+- [§ 8 Informationsaustausch](0008.md)
+- [§ 9 Umgang mit personenbezogenen Daten](0009.md)
+- [§ 10 Umgang mit Gesundheitsdaten](0010.md)
+- [§ 11 Schiedsgerichtsbarkeit](0011.md)
+- [§ 12 Konzentration der Rechtsprechung in Dopingsachen; Verordnungsermächtigung](0012.md)
+- [Anlage (zu § 2 Absatz 3)](anlage.md)

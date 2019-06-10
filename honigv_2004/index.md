@@ -1,0 +1,13 @@
+# Honigverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Anforderungen an die Beschaffenheit](0002.md)
+- [§ 3 Kennzeichnung](0003.md)
+- [§ 4 Verkehrsverbote](0004.md)
+- [§ 5 Straftaten und Ordnungswidrigkeiten](0005.md)
+- [§ 6 Übergangsregelung](0006.md)
+- [§ 7 Inkrafttreten, Außerkrafttreten](0007.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu den §§ 1, 3 und 4)Begriffsbestimmungen, Bezeichnungen der Lebensmittel](anlage-1.md)
+- [Anlage 2 (zu den §§ 2 und 4)Anforderungen an die Beschaffenheit](anlage-2.md)

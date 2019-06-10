@@ -1,0 +1,15 @@
+# Investitionszulagengesetz 2005
+
+- [§ 1 Anspruchsberechtigter, Fördergebiet](0001.md)
+- [§ 2 Betriebliche Investitionen](0002.md)
+- [§ 3 Antrag auf Investitionszulage](0003.md)
+- [§ 4 Gesonderte Feststellung](0004.md)
+- [§ 5 Anwendung der Abgabenordnung, Festsetzung und Auszahlung](0005.md)
+- [§ 6 Verzinsung des Rückforderungsanspruchs](0006.md)
+- [§ 7 Verfolgung von Straftaten](0007.md)
+- [§ 8 Ertragsteuerliche Behandlung der Investitionszulage](0008.md)
+- [§ 9 Ermächtigung](0009.md)
+- [§ 10 (Inkrafttreten)](0010.md)
+- [Anlage 1 (zu § 2 Abs. 1 Satz 9)](anlage-1.md)
+- [Anlage 2 (zu § 2 Abs. 6 Satz 1 Nr. 2 und Abs. 7 Satz 1 Nr. 2)](anlage-2.md)
+- [Anlage 3 (zu § 2 Abs. 7 Satz 1 Nr. 3)](anlage-3.md)

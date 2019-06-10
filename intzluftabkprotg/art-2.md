@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Der Führer eines zivilen Luftfahrzeugs hat Anweisungen einer ausländischen Stelle zu befolgen, die diese ihm in Wahrnehmung ihrer Lufthoheit nach Artikel 3bis des Abkommens über die Internationale Zivilluftfahrt erteilt.
+(2)
+Ordnungswidrig handelt, wer entgegen Absatz 1 eine Anweisung nicht, nicht richtig oder nicht rechtzeitig befolgt. Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend Deutsche Mark geahndet werden. Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist das Luftfahrt-Bundesamt.

@@ -1,0 +1,11 @@
+# Verordnung zur Durchführung des § 15 des Bundesversorgungsgesetzes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1](0001.md)
+- [§ 2](0002.md)
+- [§ 3](0003.md)
+- [§ 4](0004.md)
+- [§ 5](0005.md)
+- [§ 6](0006.md)
+- [§ 7 Berlin-Klausel](0007.md)
+- [§ 8 Inkrafttreten](0008.md)

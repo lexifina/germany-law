@@ -1,0 +1,3 @@
+# Art 4
+
+Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen den Anspruch geltend machen, soweit diese nach schweizerischem Recht gegenüber der Entscheidung oder dem Vergleich zulässig sind. Ebenso können Einwendungen gegen die Zulässigkeit der Vollstreckungsklausel im Wege der Beschwerde geltend gemacht werden. Der Verpflichtete ist hierdurch nicht gehindert, solche Einwendungen in dem in den §§ 767, 732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend zu machen.

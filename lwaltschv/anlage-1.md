@@ -1,0 +1,8 @@
+# Anlage 1
+
+"Seite 1 - Übersicht über Flächenausstattung und Hauptproduktionsrichtung, Seite 2 - Gewinnermittlung für den Prognosezeitraum,
+Seite 3 - Ermittlung der Bemessungsgrundlage (BMG) für den Prognosezeitraum,
+Seite 4 - Ermittlung der BMG für den Prognosezeitraum für Kreditnehmer mit durch gesonderte Verträge in die RRV einbezogenen Unternehmen,
+Seite 5 - Berücksichtigung besonders gravierender Auswirkungen der Agrarreform gemäß § 4 Abs. 4 LwAltschV,
+Seite 6 - Ermittlung BMG gemäß § 2 Abs. 3 letzter Satz LwAltschV für das Geschäftsjahr 1.1.2005 bis 31.12.2005,
+Seite 7 - BMG für die Barwertermittlung"

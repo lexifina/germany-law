@@ -1,0 +1,16 @@
+# Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern
+
+- [§ 1 Antiterrordatei](0001.md)
+- [§ 2 Inhalt der Antiterrordatei und Speicherungspflicht](0002.md)
+- [§ 3 Zu speichernde Datenarten](0003.md)
+- [§ 4 Beschränkte und verdeckte Speicherung](0004.md)
+- [§ 5 Zugriff auf die Daten](0005.md)
+- [§ 6 Weitere Verwendung der Daten](0006.md)
+- [§ 6a Erweiterte projektbezogene Datennutzung](0006a.md)
+- [§ 7 Übermittlung von Erkenntnissen](0007.md)
+- [§ 8 Datenschutzrechtliche Verantwortung](0008.md)
+- [§ 9 Protokollierung, technische und organisatorische Maßnahmen](0009.md)
+- [§ 10 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen](0010.md)
+- [§ 11 Berichtigung, Löschung und Sperrung von Daten](0011.md)
+- [§ 12 Errichtungsanordnung](0012.md)
+- [§ 13 Einschränkung von Grundrechten](0013.md)

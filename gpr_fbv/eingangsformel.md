@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 20 Absatz 6 des Wertpapierhandelsgesetzes, der durch Artikel 2 Nummer 2 des Gesetzes vom 13. Februar 2013 (BGBl. I S. 174) neu gefasst worden ist, in Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht, der zuletzt durch Artikel 1 der Verordnung vom 12. September 2013 (BGBl. I S. 3606) geändert worden ist, und in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz und für Verbraucherschutz:

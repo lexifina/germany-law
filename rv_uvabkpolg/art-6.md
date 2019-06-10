@@ -1,0 +1,3 @@
+# Art 6
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Durchführungsvereinbarungen über das Antrags-, Feststellungs- und Zahlungsverfahren der zuständigen Behörden gemäß Artikel 11 Buchstabe b des Abkommens in Kraft zu setzen oder in Ermangelung solcher Vereinbarungen Näheres über diese Verfahren zu regeln. Dabei kann den Betroffenen die Pflicht zur Vorlage von Bescheinigungen, zur Verwendung von Vordrucken und zur Antragstellung auferlegt werden. Weiter kann festgelegt werden, wie beim Zusammentreffen von deutschen und polnischen Leistungen zur Vermeidung doppelter Leistungen zu verfahren ist. Darüber hinaus können Zahlstellen, Zahlwege und Zahlungsart vorgeschrieben werden.

@@ -1,0 +1,9 @@
+# Art 2 Rechtsstellung
+
+(1)
+Das Büro besitzt in der Bundesrepublik Deutschland volle Rechtspersönlichkeit und kann insbesondere
+a) Verträge schließen,
+b) bewegliches und unbewegliches Vermögen erwerben und veräußern,
+c) vor Gericht stehen.
+(2)
+Für die Zwecke dieses Artikels wird das Büro durch seinen Leiter vertreten.

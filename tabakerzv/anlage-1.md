@@ -1,0 +1,57 @@
+# Anlage 1 (zu § 4)Verbotene Zusatzstoffe in Tabakerzeugnissen
+
+1. Vitamine oder folgende sonstige Zusatzstoffe, die den Eindruck erwecken, dass ein Tabakerzeugnis einen gesundheitlichen Nutzen habe oder geringere Gesundheitsrisiken berge:
+  a) Aminosäuren und modifizierte Aminosäuren, die gemäß § 7 Absatz 1 Satz 1 Nummer 1 in Verbindung mit Anlage 2 Kategorie 3 der Diätverordnung in der jeweils geltenden Fassung für diätetische Lebensmittel zugelassen sind, sowie S-Adenosylmethionin und L-5-Hydroxytryptophan
+  b) Carnitin
+    L-Carnitin
+    L-Carnitinhydrochlorid
+    L-Carnitin-L-Tartrat
+  c) Flavonoide sowie antioxidativ wirksame Phospholipide
+  d) Natriumselenit
+2. Koffein, Taurin oder folgende sonstige Zusatzstoffe und stimulierende Mischungen, die mit Energie und Vitalität assoziiert werden:
+  a) Maltodextrin
+  b) Bestandteile einschließlich verarbeiteter Bestandteile, Extrakte und Öle der Kaffeepflanze und der Kaffeebohnen
+  c) Bestandteile einschließlich verarbeiteter Bestandteile, Extrakte und Öle des Teestrauches Camellia sinensis L. Kuntze
+  d) Bestandteile einschließlich verarbeiteter Bestandteile, Extrakte und Öle der Guaranapflanze
+  e) Bestandteile einschließlich verarbeiteter Bestandteile, Extrakte und Öle des Mate-Strauches
+  f) Thujon
+3. Zusatzstoffe, die färbende Eigenschaften für Emissionen haben
+4. folgende Zusatzstoffe bei Rauchtabakerzeugnissen, die das Inhalieren oder die Nikotinaufnahme erleichtern:
+  a) p-Menthan-3-substitutierte und modifizierte Verbindungen, einschließlich
+    p-Menthan-3-carboxamide, einschließlich der p-Menthan-3-N-alkylcarboxamide
+    p-Menthan-3-ester
+    p-Menthan-3-ether
+    p-Menthan-3-carbonsäuren und deren Ester
+    Menthon 1,2-glycerolketal (CAS-Nr. 63187-91-7)
+  b) p-Menthan-alkohole und deren Ester
+  c) folgende Verbindungen:
+    3,4-Dihydro-3-(2-hydroxyphenyl)-6-(3-nitrophenyl)-(1H)-pyrimidin-2-on (CAS-Nr. 36945-98-9)
+    2-Isopropyl-N 2,3-trimethylbutyramid (CAS-Nr. 51115-67-4)
+    Isopulegol (CAS-Nr. 7786-67-6 oder CAS-Nr. 89-79-2)
+    1-(di-sec-Butyl-phoshinoyl)-heptan
+  d) folgende Stoffe:
+    aa) Menthol (CAS-Nr. 1490-04-6)
+      (-)-Menthol (CAS-Nr. 2216-51-5)
+      (+)-Menthol (CAS-Nr. 15356-60-2)
+    bb) Menthon (CAS-Nr. 89-80-5)
+      (-)-Menthon (CAS-Nr. 14073-97-3)
+      (+)-Menthon (CAS-Nr. 3391-87-5)
+      L-Carvon (CAS-Nr. 6485-40-1)
+      Geraniol (CAS-Nr. 106-24-1)
+      Linalool (CAS-Nr. 78-70-6)
+      1,8-Cineol (Eukalyptol) (CAS-Nr. 470-82-6)
+      Hydroxycitronellal (CAS-Nr. 107-75-5)
+  e) folgende aus Pflanzen gewonnene Stoffe:
+    Öle und Bestandteile, die aus Pflanzen der Gattungen Mentha, Eucalyptos, Ocimum, Thymus und Salvia stammen
+5. folgende Zusatzstoffe, die in unverbrannter Form CMR-Eigenschaften haben:
+  a) Stoffe, die gemäß Teil 3 des Anhangs VI der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU) 2016/1179 (ABl. L 195 vom 20.7.2016, S. 11) geändert worden ist, als CMR-Stoffe der Kategorie 1A, 1B oder 2 eingestuft sind
+  b) folgende weitere Stoffe:
+    Birkenteeröl (CAS-Nr. 8001-88-5 und CAS-Nr. 85940-29-0)
+    Wacholderteeröl (CAS-Nr. 8013-10-03)
+    Sassafrasöl
+    Sassafrasholz
+    Sassafrasblätter
+    Sassafrasrinde
+    Methyleugenol (CAS-Nr. 93-15-2)
+    Estragol (CAS-Nr. 140-67-0)
+    Para-Hydroxybenzoesäure-Propylester (CAS-Nr. 94-13-3)

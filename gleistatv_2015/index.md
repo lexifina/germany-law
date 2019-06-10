@@ -1,0 +1,15 @@
+# Verordnung über statistische Erhebungen zur Gleichstellung von Frauen und Männern in den Dienststellen und Gremien des Bundes
+
+- [§ 1 Erhebungsmerkmale für die Gleichstellungsstatistik](0001.md)
+- [§ 2 Erhebungsmerkmale für den Gleichstellungsindex](0002.md)
+- [§ 3 Berichtszeitpunkt, Berichtszeitraum](0003.md)
+- [§ 4 Meldung und Aufbereitung der Daten für die Gleichstellungsstatistik](0004.md)
+- [§ 5 Meldung und Aufbereitung der Daten für den Gleichstellungsindex](0005.md)
+- [§ 6 Elektronische Erfassung und Meldung](0006.md)
+- [§ 7 Datenschutz](0007.md)
+- [§ 8 Sonderregelung für den Bundesnachrichtendienst](0008.md)
+- [Anlage 1 (zu § 6 Absatz 1 GleiStatV)](anlage-1.md)
+- [Anlage 2 (zu § 6 Absatz 1)](anlage-2.md)
+- [Anlage 3 (zu § 6 Absatz 1)](anlage-3.md)
+- [Anlage 4 (zu § 6 Absatz 1 GleiStatV)](anlage-4.md)
+- [Anlage 5 (zu § 6 Absatz 1 GleiStatV)](anlage-5.md)

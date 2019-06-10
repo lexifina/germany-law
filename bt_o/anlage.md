@@ -1,0 +1,62 @@
+# Anlage (zu § 4 Absatz 1a Satz 1, 2 und 3 und Absatz 6 Satz 3) Tierärztliche Diplome, Prüfungszeugnisse oder sonstige Befähigungsnachweise der übrigen Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum oder der Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft oder Deutschland und die Europäische Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben
+
+| 1 | 2 | 3 | 4 | 5 |
+| Land | Ausbildungsnachweis | Ausstellende Stelle | Zusätzliche Bescheinigung | Stichtag |
+| België/ Belgique/ Belgien | Diploma van dierenarts/ Diplôme de docteur en médecine vétérinaire | – | De universiteiten/ Les universités |  | 21.12.1980 |
+| – | De bevoegde Examencommissievan de Vlaamse Gemeenschap/Le Jury compétent d´enseignement de la Communauté française |
+| България | Диплома за висшеобразование наобразователно-квалификационна | – | ЛесотехническиуниверситетСофияФакултет Ветеринарнамедицина |  | 1.1.2007 |
+| степен магистър поспециалност Ветеринарнамедицина с професионалнаквалификация Ветеринаренлекар | – | Тракийски университетСтара Загора,Ветеринарномедицинскифакултет |
+| Českárepublika | – | Diplom o ukončení studia ve studijním programu veterinární lékařství(doktor veterinárnímedicíny, MVDr.) | Veterinární fakulta univerzity v České republice |  | 1.5.2004 |
+| – | Diplom o ukončení studia ve studijním programu veterinární hygiena a ekologie (doktor veterinární medicíny, MVDr.) |
+| Danmark | Bevis for kandidatuddannelsen i veterinærmedicin (cand.med.vet.) | Københavns Universitet |  | 21.12.1980 |
+| Eesti | Diplom: täitnud veterinaarmeditsiini õppekava | Eesti Põllumajandusülikool |  | 1.5.2004 |
+| Loomaarstikraad Degree in Veterinary Medicine (DVM) | Eesti Maaülikool |
+| Ελλάς | Πτυχίo Κτηvιατρικής | 1. | ΑριστοτέλειοΠανεπιστήμιοΘεσσαλονίκης |  | 1.1.1981 |
+| 2. | Πανεπιστήμιο Θεσσαλίας |
+| España | Título de Licenciado en Veterinaria | – | Ministerio de Educación y Cultura |  | 1.1.1986 |
+|  | – | El rector de una Universidad |  |  |
+| Título de Graduado/a en Veterinaria | – | El rector de una Universidad | 1.1.1986 |
+| France | Diplôme d´Etat de docteur vétérinaire | – | L´Institut d´enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l´environnement(Vet Agro Sup) |  | 21.12.1980 |
+| – | L´Ecole nationale vétérinaire, agroalimentaireet de l´alimentation,Nantes-Atlantique(ONIRIS) |
+| – | L´Ecole nationale vétérinaire d´Alfort |
+| – | L´Ecole nationale vétérinaire de Toulouse |
+| Hrvatska | Diploma “doktor veterinarske medicine/doktorica veterinarske medicine” | Veterinarski fakultetSveučilišta u Zagrebu |  | 1.7.2013 |
+| Ireland | – | Diploma of Bachelor in/of Veterinary Medicine (MVB) |  |  |  | 21.12.1980 |
+| – | Diploma of Membership of the Royal College of Veterinary Surgeons (MRCVS) |  |  |
+| Island | Die in einem anderen Staat, für den die Richtlinie 2005/36/EG gilt, ausgestellten und indieser Anlage aufgeführten Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise |  | Bescheinigung über den Abschluss einer praktischen Ausbildung, ausgestellt von den zuständigen Behörden | 1.1.1994 |
+| Italia | Diploma di laurea in medicina veterinaria | Università | Diploma di abilitazione all´esercizio della medicina veterinaria | 1.1.1985 |
+| Κύπρος | Πιστοποιητικό ΕγγραφήςKτηνιάτρου | Κτηνιατρικό Συμβούλιο |  | 1.5.2004 |
+| Latvija | Veterinārārsta diploms | Latvijas Lauksaimniecības Universitāte |  | 1.5.2004 |
+| Liechtenstein | Die in einem anderen Staat, für den die Richtlinie 2005/36/EG gilt, ausgestellten und in dieser Anlage aufgeführten Diplome, Prüfungszeugnisse und sonstigenBefähigungsnachweise |  | Bescheinigung über den Abschluss einer praktischen Ausbildung, ausgestellt von den zuständigen Behörden | 1.5.1995 |
+| Lietuva | 1. | Aukštojo mokslo diplomas (veterinarijos gydytojo (DVM)) | 1. | Lietuvos Veterinarijos Akademija |  | 1.5.2004 |
+| 2. | Magistro diplomas (veterinarinės medicinos magistro kvalifikacinis laipsnis ir veterinarijos gydytojo profesinė kvalifikacija) | 2. | Lietuvos sveikatos mokslų universitetas |
+| Luxembourg | Diplôme d´Etat de docteur en médecine vétérinaire | Jury d´examen d´Etat |  | 21.12.1980 |
+| Magyarország | Okleveles állatorvos doktor oklevél (dr. vet) | Felsőoktatási intézmény |  | 1.5.2004 |
+| Malta | Liċenzja ta' Kirurgu Veterinarju | Kunsill tal-Kirurġi Veterinarji |  | 1.5.2004 |
+| Nederland | Getuigschrift vanmet goed gevolg afgelegddiergeneeskundig/ veeartsenijkundig examen |  |  | 21.12.1980 |
+| Norwegen | Vitnemål for fullført grad candidata/candidatusmedicinae veterinariae, short form: cand.med.vet. | Norges veterinær-høgskole |  | 1.1.1994 |
+| Österreich | – | Diplom-Tierarzt | Universität |  | 1.1.1994 |
+| – | Magister medicinae veterinariae |
+| Polska | Dyplom lekarza weterynarii | 1. | Szkoła Główna Gospodarstwa Wiejskiegow Warszawie |  | 1.5.2004 |
+| 2. | Akademia Rolniczawe Wrocławiu (1) |
+| 3. | Uniwersytet Przyrodniczy we Wrocławiu (2) |
+| 4. | Akademia Rolniczaw Lublinie (3) |
+| 5. | Uniwersytet Przyrodniczy w Lublinie (4) |
+| 6. | UniwersytetWarmińsko-Mazurski w Olsztynie |
+| Portugal | – | Carta de cursode licenciatura em medicina veterinária | Universidade |  | 1.1.1986 |
+| – | Carta de mestrado integrado em medicina veterinária |
+| România | Diplomă de licenţă de doctor medic veterinary | Universităţi |  | 1.1.2007 |
+| Schweiz | Eidgenössisches Tierarztdiplom | Eidgenössisches Departement des Innern |  | 1.6.2002 |
+| Diplôme fédéral de vétérinaire | Département fédéral de l´intérieur |
+| Diploma federale di veterinario | Dipartimento federale dell´interno |
+| Slovenija | Diploma, s katero se podeljuje strokovni naslov "doktor veterinarske medicine/doktorica veterinarske medicine" | Univerza | Spričevalo o opravljenem državnem izpitu s področja veterinarstva | 1.5.2004 |
+| Slovensko | Vysokoškolský diplomo udelení akademického titulu "doktor veterinárskeholekárstva" ("MVDr.") | Univerzita |  | 1.5.2004 |
+| Suomi/ Finland | Eläinlääketieteen lisensiaatin tutkinto/Veterinärmedicine licentiatexamen | Yliopisto |  | 1.1.1994 |
+| Sverige | Veterinärexamen | Sveriges Lantbruksuniversitet |  | 1.1.1994 |
+| United Kingdom | 1. | Bachelor of Veterinary Science (BVSc) | 1. | University of Bristol |  | 21.12.1980 |
+| 2. | Bachelor of Veterinary Science (BVSc) | 2. | University of Liverpool |  |
+| 3. | Bachelor of Veterinary Medicine (Vet MB) | 3. | University of Cambridge |  |
+| 4. | Bachelor of Veterinary Medicine and Surgery (BVM&S) | 4. | University of Edinburgh |  |
+| 5. | Bachelor of Veterinary Medicine and Surgery (BVMS) | 5. | University of Glasgow |  |
+| 6. | Bachelor of Veterinary Medicine (BvetMed) | 6. | University of London |  |
+| 7. | Bachelor of Veterinary Medicine and Bachelorof Veterinary Surgery (B.V.M., B.V.S.) | 7. | University of Nottingham |  |

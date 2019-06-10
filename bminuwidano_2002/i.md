@@ -1,0 +1,3 @@
+# I.
+
+Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich dem Bundesamt für Finanzen die Bearbeitung der Angelegenheiten der Beamtinnen und Beamten im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach dem Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten (Bundesumzugskostengesetz - BUKG) sowie der dazu ergangenen Verordnung über die Umzugskostenvergütung bei Auslandsumzügen (Auslandsumzugskostenverordnung - AUV), der Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland (Trennungsgeldverordnung - TGV) und der Verordnung über das Auslandstrennungsgeld (Auslandstrennungsgeldverordnung - ATGV) in der jeweils geltenden Fassung.

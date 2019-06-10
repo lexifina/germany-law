@@ -1,0 +1,74 @@
+# Anlage 6 (zu § 2 Nummer 6, § 5 Absatz 5 Satz 1 und 2, § 10 Absatz 2 Satz 1)Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe zur Beurteilung des ökologischen Zustands und des ökologischen Potenzials
+
+1. Die Umweltqualitätsnormen für flussgebietsspezifische Schadstoffe ergeben sich aus nachstehender Tabelle.
+2. Die Einhaltung der Umweltqualitätsnormen ist nur im Hinblick auf solche Schadstoffe zu überwachen, die in signifikanten Mengen in das Einzugsgebiet der für den Oberflächenwasserkörper repräsentativen Messstelle eingeleitet oder eingetragen werden. Mengen sind signifikant, wenn zu erwarten ist, dass die Hälfte der Umweltqualitätsnorm überschritten wird.
+3. Die Einhaltung der Umweltqualitätsnormen, gekennzeichnet als JD-UQN, ist anhand des Jahresdurchschnittswertes nach Maßgabe der Anlage 9 Nummer 3.2.2 zu überprüfen. Die Umweltqualitätsnormen, gekennzeichnet als ZHK-UQN, sind anhand der zulässigen Höchstkonzentration nach Maßgabe der Anlage 9 Nummer 3.2.1 zu überprüfen. Im Übrigen gilt Anlage 9 Nummer 3.1 und 3.3.
+| Nr. | CAS-Nr. | Stoffname | JD-UQN oberirdische Gewässer ohne Übergangsgewässer | ZHK-UQN oberirdische Gewässer ohne Übergangsgewässer | JD-UQN Übergangsgewässer und Küstengewässer nach § 7 Absatz 5 Satz 2 des Wasserhaushaltsgesetzes | ZHK-UQN Übergangsgewässer und Küstengewässer nach § 7 Absatz 5 Satz 2 des Wasserhaushaltsgesetzes |
+| Wasser µg/l | Schwebstoff oder Sediment mg/kg | Wasser µg/l | Wasser µg/l | Schwebstoff oder Sediment mg/kg | Wasser µg/l |
+| 1 | 88-73-3 | 1-Chlor-2-nitrobenzol | 10 |  |  | 10 |  |  |
+| 2 | 100-00-5 | 1-Chlor-4-nitrobenzol | 30 |  |  | 30 |  |  |
+| 3 | 94-75-7 | 2,4-D | 0,2 |  | 1 | 0,02 |  | 0,2 |
+| 4 | 834-12-8 | Ametryn | 0,5 |  |  | 0,5 |  |  |
+| 5 | 62-53-3 | Anilin | 0,8 |  |  | 0,8 |  |  |
+| 6 | 7440-38-2 | Arsen |  | 40 |  |  | 40 |  |
+| 7 | 2642-71-9 | Azinphos-ethyl | 0,01 |  |  | 0,01 |  |  |
+| 8 | 86-50-0 | Azinphos-methyl | 0,01 |  |  | 0,01 |  |  |
+| 9 | 25057-89-0 | Bentazon | 0,1 |  |  | 0,1 |  |  |
+| 10 | 314-40-9 | Bromacil | 0,6 |  |  | 0,6 |  |  |
+| 11 | 1689-84-5 | Bromoxynil | 0,5 |  |  | 0,5 |  |  |
+| 12 | 10605-21-7 | Carbendazim | 0,2 |  | 0,7 | 0,02 |  | 0,1 |
+| 13 | 108-90-7 | Chlorbenzol | 1 |  |  | 1 |  |  |
+| 14 | 79-11-8 | Chloressigsäure | 0,6 |  | 8 | 0,06 |  | 2 |
+| 15 | 15545-48-9 | Chlortoluron | 0,4 |  |  | 0,4 |  |  |
+| 16 | 7440-47-3 | Chrom |  | 640 |  |  | 640 |  |
+| 17 | 57-12-5 | Cyanid | 10 |  |  | 10 |  |  |
+| 18 | 333-41-5 | Diazinon | 0,01 |  |  | 0,01 |  |  |
+| 19 | 120-36-5 | Dichlorprop | 0,1 |  |  | 0,1 |  |  |
+| 20 | 83164-33-4 | Diflufenican | 0,009 |  |  | 0,009 |  |  |
+| 21 | 60-51-5 | Dimethoat | 0,07 |  | 1 | 0,007 |  | 0,1 |
+| 22 | 149961-52-4 | Dimoxystrobin | 0,03 |  | 2 | 0,003 |  | 0,2 |
+| 23 | 133855-98-8 | Epoxiconazol | 0,2 |  |  | 0,2 |  |  |
+| 24 | 38260-54-7 | Etrimphos | 0,004 |  |  | 0,004 |  |  |
+| 25 | 122-14-5 | Fenitrothion | 0,009 |  |  | 0,009 |  |  |
+| 26 | 67564-91-4 | Fenpropimorph | 0,02 |  | 20 | 0,002 |  | 20 |
+| 27 | 55-38-9 | Fenthion | 0,004 |  |  | 0,004 |  |  |
+| 28 | 142459-58-3 | Flufenacet | 0,04 |  | 0,2 | 0,004 |  | 0,02 |
+| 29 | 96525-23-4 | Flurtamone | 0,2 |  | 1 | 0,02 |  | 0,1 |
+| 30 | 51235-04-2 | Hexazinon | 0,07 |  |  | 0,07 |  |  |
+| 31 | 105827-78-9 138261-41-3 | Imidacloprid | 0,002 |  | 0,1 | 0,0002 |  | 0,01 |
+| 32 | 7440-50-8 | Kupfer |  | 160 |  |  | 160 |  |
+| 33 | 330-55-2 | Linuron | 0,1 |  |  | 0,1 |  |  |
+| 34 | 121-75-5 | Malathion | 0,02 |  |  | 0,02 |  |  |
+| 35 | 94-74-6 | MCPA | 2 |  |  | 2 |  |  |
+| 36 | 7085-19-0 | Mecoprop | 0,1 |  |  | 0,1 |  |  |
+| 37 | 67129-08-2 | Metazachlor | 0,4 |  |  | 0,4 |  |  |
+| 38 | 18691-97-9 | Methabenzthiazuron | 2 |  |  | 2 |  |  |
+| 39 | 51218-45-2 | Metolachlor | 0,2 |  |  | 0,2 |  |  |
+| 40 | 21087-64-9 | Metribuzin | 0,2 |  |  | 0,2 |  |  |
+| 41 | 1746-81-2 | Monolinuron | 0,2 |  | 20 | 0,02 |  | 2 |
+| 42 | 111991-09-4 | Nicosulfuron | 0,009 |  | 0,09 | 0,0009 |  | 0,009 |
+| 43 | 98-95-3 | Nitrobenzol | 0,1 |  |  | 0,1 |  |  |
+| 44 | 1113-02-6 | Omethoat | 0,004 |  | 2 | 0,0004 |  | 0,2 |
+| 45 | 56-38-2 | Parathion-ethyl | 0,005 |  |  | 0,005 |  |  |
+| 46 | 298-00-0 | Parathion-methyl | 0,02 |  |  | 0,02 |  |  |
+| 47 | 7012-37-5 | PCB-28 | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 48 | 35693-99-3 | PCB-52 | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 49 | 37680-73-2 | PCB-101 | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 50 | 35065-28-2 | PCB-138 | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 51 | 35065-27-1 | PCB-153 | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 52 | 35065-29-3 | PCB-180 | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 53 | 85-01-8 | Phenanthren | 0,5 |  |  | 0,5 |  |  |
+| 54 | 14816-18-3 | Phoxim | 0,008 |  |  | 0,008 |  |  |
+| 55 | 137641-05-5 | Picolinafen | 0,007 |  |  | 0,007 |  |  |
+| 56 | 23103-98-2 | Pirimicarb | 0,09 |  |  | 0,09 |  |  |
+| 57 | 7287-19-6 | Prometryn | 0,5 |  |  | 0,5 |  |  |
+| 58 | 60207-90-1 | Propiconazol | 1 |  |  | 1 |  |  |
+| 59 | 1698-60-8 | Pyrazon (Chloridazon) | 0,1 |  |  | 0,1 |  |  |
+| 60 | 7782-49-2 | Selen | 3 |  |  | 3 |  |  |
+| 61 | 7440-22-4 | Silber | 0,02 |  |  | 0,02 |  |  |
+| 62 | 99105-77-8 | Sulcotrion | 0,1 |  | 5 | 0,01 |  | 1 |
+| 63 | 5915-41-3 | Terbuthylazin | 0,5 |  |  | 0,5 |  |  |
+| 64 | 7440-28-0 | Thallium | 0,2 |  |  | 0,2 |  |  |
+| 65 | 3380-34-5 | Triclosan | 0,02 |  | 0,2 | 0,002 |  | 0,02 |
+| 66 | 668-34-8 | Triphenylzinn-Kation | 0,0005 | 0,02 |  | 0,0005 | 0,02 |  |
+| 67 | 7440-66-6 | Zink |  | 800 |  |  | 800 |  |

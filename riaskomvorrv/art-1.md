@@ -1,0 +1,3 @@
+# Art 1
+
+Die Bestimmungen der Artikel II § 3 und Artikel III § 4, soweit nicht die Arbeitsgerichtsbarkeit für die Beschäftigten der Kommission in der Bundesrepublik Deutschland berührt wird, § 7 Buchstabe a und § 9 Buchstabe a des Abkommens über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 (BGBl. 1954 II S. 639) finden sinngemäß auf die RIAS BERLIN-Kommission Anwendung.

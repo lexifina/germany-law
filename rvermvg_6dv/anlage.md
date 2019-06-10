@@ -1,0 +1,77 @@
+# Anlage
+
+I. Baden
+Siedlungsgesellschaft für das Doggererzgebiet mbH, Karlsruhe
+II. Bayern
+  1. Landeswohnungsfürsorge Bayern GmbH, München
+  2. Kraftverkehr Bayern GmbH, München
+  3. Regentalbahn AG, Viechtach
+  4. Süddeutsche Holzverzuckerungs-AG, Regensburg
+  5. Bayerische Bauernsiedlung GmbH i.L., München
+III. Bremen
+  1. Fischereihafen-Betriebs-GmbH (früher Seefischmarkt Wesermünde GmbH), Bremerhaven
+  2. Beamtenbau GmbH, Bremen
+IV. Hamburg
+  Heimstätte Danzig-Westpreußen GmbH, Danzig
+V. Hessen
+  1. Nassauische Heimstätte GmbH, Frankfurt a.M.
+  2. Hessische Heimstätte GmbH, Kassel
+  3. Wiesbadener Autoverkehrsgesellschaft mbH, Wiesbaden
+  4. Kleinbahn Kassel-Naumburg AG, Frankfurt a.M.
+  5. Grifte-Gudensberger Kleinbahn und Kraftwagen AG, Gudensberg
+  6. Kleinbahn AG Frankfurt (M)-Königstein, Frankfurt a.M.
+  7. Nassauische Kleinbahn AG, Wiesbaden
+  8. Kur AG Homburg, Bad Homburg
+  9. Bad Wildunger Heilquelle AG Königsquelle, Bad Wildungen
+  10. Reinhardsquelle GmbH, Bad Wildungen-West
+VI. Niedersachsen
+  1. Beamten-Baugesellschaft Hannover mbH, Hannover
+  2. Verkehrsgesellschaft mbH, Wilhelmshaven
+  3. Niedersächsische Heimstätte GmbH, Hannover
+  4. Emder Hafenumschlagsgesellschaft mbH, Emden
+  5. Kleinbahn Leer-Aurich-Wittmund GmbH, Aurich
+  6. Wilstedt-Zeven-Tostedter Eisenbahn GmbH, Zeven
+  7. Bremervörde-Osterholzer Eisenbahn GmbH, Bremervörde
+  8. Kleinbahn Delmenhorst-Harpstedt GmbH, Harpstedt
+  9. Kleinbahn Verden-Walsrode GmbH, Verden (Aller)
+  10. St. Andreasberger Eisenbahn GmbH, St. Andreasberg
+  11. Kleinbahn Ihrhove-Westrhauderfehn GmbH, Leer
+  12. Steinhuder Meer-Bahn GmbH, Wunstorf
+  13. Eisenbahn Gittelde-Grund GmbH, Bad Grund
+  14. Ankum-Bersenbrücker Eisenbahn GmbH, Ankum
+  15. Kleinbahn Lüchow-Schmarsau GmbH, Lüchow
+  16. Gartetalbahn AG, Göttingen
+  17. Kleinbahn Hoya-Syke-Asendorf GmbH, Hoya (Weser)
+  18. Kleinbahn Lingen-Berge-Quakenbrück, Lingen a/Ems
+  19. Seefischmarkt Cuxhaven GmbH, Cuxhaven
+  20. Wittlager Kreisbahn AG, Bohmte i.H.
+  21. Niederweserbahn GmbH, Bremerhaven
+VII. Nordrhein-Westfalen
+  1. Extertal-Bahn AG, Barntrup
+  2. Rheinische Heimstätte GmbH, Düsseldorf
+  3. Westfälische Heimstätte GmbH, Dortmund
+  4. Kleinbahn Steinhelle-Medebach GmbH, Brilon
+  5. Kreis Altenaer Eisenbahn AG, Lüdenscheid
+  6. Kleinbahn "Tecklenburger Nordbahn AG", Rheine i. Westf.
+VIII. Rheinland-Pfalz
+  1. Kaolinwerk Oberwinter GmbH, Oberwinter
+  2. Nürburgring GmbH, Adenau (Eifel)
+  3. Heimstätte GmbH, Treuhandstelle für Wohnungs- und Kleinsiedlungswesen, Neustadt a/Haardt
+  4. Kleinbahn AG Selters-Hachenburg, Herschbach/Unterwesterwald
+IX. Schleswig-Holstein
+  1. Heimstätte Schleswig-Holstein GmbH, Kiel (Landestreuhandstelle für Wohnungs- und Kleinsiedlungswesen)
+  2. Fischereiwirtschaftsgenossenschaft Loiterau, Schleswig
+  3. Fischereiwirtschaftsgenossenschaft Obereider, Rendsburg
+  4. Fischereiwirtschaftsgenossenschaft Untere Eider, Friedrichsstadt
+  5. Fischereiwirtschaftsgenossenschaft Mitteleider, Eckernförde
+  6. Fischereiwirtschaftsgenossenschaft im Schwentinegebiet, Ploen
+  7. Wohnungsbaugesellschaft beim Oberfinanzpräsidenten Nordmark in Kiel mbH, Kiel
+  8. Kleinbahn Niebüll-Dagebüll AG, Niebüll
+  9. Elmshorn-Barmstedt-Oldesloer Eisenbahn AG, Elmshorn
+  10. Koloniale Frauenschule Rendsburg GmbH, Rendsburg
+X. Württemberg-Baden
+  1. Württembergische Heimstätte GmbH, Treuhandstelle für Wohnungs- und Kleinsiedlungswesen, Stuttgart
+  2. Oberrheinische Heimstätte GmbH, Karlsruhe
+  3. Siedlungsgesellschaft für das Doggererzgebiet mbH, Karlsruhe
+XI. Württemberg-Hohenzollern
+Hohenzollersche Landesbahn AG, Hechingen (Sigmaringen)

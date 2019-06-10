@@ -1,0 +1,21 @@
+# Verordnung über die Einrichtung und Führung des Partnerschaftsregisters
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendbares Recht](0001.md)
+- [§ 2 Einteilung und Gestaltung des Registers](0002.md)
+- [§ 3 Anmeldung](0003.md)
+- [§ 4 Stellungnahme der Berufskammer](0004.md)
+- [§ 5 Inhalt der Eintragungen](0005.md)
+- [§ 6 Mitteilungen an Berufskammern](0006.md)
+- [§ 7 Bekanntmachungen](0007.md)
+- [§ 8 Namenslöschung wegen Nichtausübung freiberuflicher
+Tätigkeit](0008.md)
+- [§ 9 (weggefallen)](0009.md)
+- [§ 10 Inkrafttreten](0010.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage 1 (zu § 2 Abs. 1 und 2)](anlage-1.md)
+- [Anlage 2 (zu § 2 Abs. 2)](anlage-2.md)
+- [Anlage 3 (zu § 2 Abs. 2)](anlage-3.md)
+- [Anlage 4 (zu § 7)
+
+Muster für Bekanntmachungen](anlage-4.md)

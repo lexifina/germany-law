@@ -1,0 +1,90 @@
+# Anlage 2 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Gestalter für visuelles
+Marketing/zur Gestalterin für visuelles Marketing - Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 2004, 929 - 930)
+A.
+Die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.1 Arbeitsorganisation und Arbeitsplanung und
+2.2 Teamarbeit und Kooperation
+sind während der gesamten Ausbildungsdauer zu vermitteln.
+B.
+1. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.1 Stellung, Rechtsform und Struktur,
+1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+2.4 Informations- und Kommunikationssysteme
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.4 Umweltschutz,
+3.3 Visuelle Verkaufsförderung und Werbung, Lernziele c, d und e,
+4. Werkstoffe, Werkzeuge und Geräte
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt vier bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik,
+3.2 Präsentation von Waren, Produkten und Dienstleistungen,
+6.1 Entwurf und Planung, Lernziel a,
+6.2 Umsetzung, Lernziele a und b,
+zu vermitteln.
+2. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.3 Kundenorientierte Kommunikation,
+2.6 Anwenden von Englisch bei Fachaufgaben
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.2 Berufsbildung, arbeits- und sozialrechtliche Grundlagen,
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+1.4 Umweltschutz
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt fünf bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.3 Visuelle Verkaufsförderung und Werbung, Lernziele a, b, f und g,
+6.1 Entwurf und Planung, Lernziele b bis k,
+6.2 Umsetzung, Lernziele c bis f,
+7.1 Beschaffung,
+7.2 Kalkulation
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik,
+3.2 Präsentation von Waren, Produkten und Dienstleistungen,
+3.3 Visuelle Verkaufsförderung und Werbung, Lernziele c, d und e,
+4. Werkstoffe, Werkzeuge und Geräte,
+6.1 Entwurf und Planung, Lernziel a,
+6.2 Umsetzung, Lernziele a und b,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt zwei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5. IT-Anwendungen,
+7.4 Kaufmännische Steuerung und Kontrolle
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildposition
+2.4 Informations- und Kommunikationssysteme
+fortzuführen.
+3. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
+2.5 Qualitätssicherung
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.3 Kundenorientierte Kommunikation,
+2.6 Anwenden von Englisch bei Fachaufgaben,
+7.4 Kaufmännische Steuerung und Kontrolle
+fortzuführen und zu vertiefen.
+(2)
+In einem Zeitraum von insgesamt vier bis sieben Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildposition
+7.3 Erfolgskontrolle
+zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Visuelle Verkaufsförderung als Instrument der Unternehmenspolitik,
+3.2 Präsentation von Waren, Produkten und Dienstleistungen,
+3.3 Visuelle Verkaufsförderung und Werbung,
+6.1 Entwurf und Planung,
+6.2 Umsetzung
+fortzuführen und zu vertiefen.
+(3)
+In einem Zeitraum von insgesamt zwei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5. IT-Anwendungen,
+7.1 Beschaffung,
+7.2 Kalkulation
+fortzuführen und zu vertiefen.

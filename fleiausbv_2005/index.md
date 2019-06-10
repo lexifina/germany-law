@@ -1,0 +1,16 @@
+# Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
+- [§ 2 Ausbildungsdauer](0002.md)
+- [§ 3 Struktur und Zielsetzung der Berufsausbildung](0003.md)
+- [§ 4 Ausbildungsberufsbild](0004.md)
+- [§ 5 Ausbildungsrahmenplan](0005.md)
+- [§ 6 Ausbildungsplan](0006.md)
+- [§ 7 Berichtsheft](0007.md)
+- [§ 8 Zwischenprüfung](0008.md)
+- [§ 9 Gesellenprüfung/Abschlussprüfung](0009.md)
+- [§ 10 Übergangsregelung](0010.md)
+- [§ 11 Inkrafttreten, Außerkrafttreten](0011.md)
+- [Anlage 1 (zu § 5 Satz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Fleischer/zur Fleischerin](anlage-1.md)
+- [Anlage 2 (zu § 9 Absatz 2 Satz 4)Regelung zur Prüfung der Fertigkeiten, Kenntnisse und Fähigkeiten nach Anhang IV der Verordnung (EG) Nr. 1099/2009 des Rates vom 24. September 2009 über den Schutz von Tieren zum Zeitpunkt der Tötung (ABl. L 303 vom 18.11.2009, S. 1, L 326 vom 11.11.2014, S. 6)](anlage-2.md)

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und mit dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie, dem Bundesministerium für Ernährung und Landwirtschaft, dem Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit, dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium der Verteidigung nach Anhörung des Ausschusses für Produktsicherheit:

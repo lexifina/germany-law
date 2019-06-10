@@ -1,0 +1,11 @@
+# Anlage II Kap VIII G III Anlage II Kapitel VIII
+
+Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
+
+Abschnitt III
+
+Folgendes Recht der Deutschen Demokratischen Republik bleibt mit folgenden Maßgaben in Kraft:
+1. § 71 Buchstabe c des Gesetzes über die Sozialversicherung vom 28. Juni 1990 (GBl. I Nr. 39 S. 486) und die Vorschriften über die Gewährung dieser Leistung durch Krankenkassen gelten bis zum 30. Juni 1991.
+2. § 83 des Gesetzes über die Sozialversicherung - SVG - vom 28. Juni 1990 (GBl. I Nr. 38 S. 486) gilt bis zum 30. Juni 1991.
+3. Die in §§ 19 und 20 des Gesetzes über die vertraglichen Beziehungen der Krankenversicherung zu den Leistungserbringern - Krankenkassen-Vertragsgesetz - vom 13. September 1990 (GBl. I Nr. 61 S. ...) enthaltenen Regelungen über nicht erstattungsfähige Arzneimittel und über Festbeträge für Arzneimittel gelten bis zum 31. Dezember 1993.
+  § 15 gilt bis zum 31. Dezember 1991.

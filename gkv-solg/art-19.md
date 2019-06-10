@@ -1,0 +1,3 @@
+# Art 19 Sonderkündigungsrecht
+
+Versicherungspflichtige und ihre versicherten Familienangehörigen, die auf Grund ihrer Wahl der Kostenerstattung nach § 13 Abs. 2 Fünftes Buch Sozialgesetzbuch in der bis zum 31. Dezember 1998 geltenden Fassung eine private Zusatzversicherung zur Abdeckung der Differenz zwischen Kassenanteil und der nach der Gebührenordnung für Ärzte erstellten Arztrechnung abgeschlossen hatten, können den Vertrag mit sofortiger Wirkung zum Ende des Monats, in dem die Kündigung dem Versicherer zugeht, kündigen. Entsprechendes gilt für nach 1978 geborene Versicherte, die 1997 und 1998 keinen Anspruch auf Versorgung mit Zahnersatz im Rahmen der vertragszahnärztlichen Versorgung hatten.

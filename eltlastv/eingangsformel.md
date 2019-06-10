@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 1 Abs. 1 Satz 1 Nr. 2 Buchstabe a, Nr. 4, 5 und 7, des § 4 Abs. 1, § 5 Abs. 1, § 8 Abs. 6, der §§ 9 und 21 Nr. 2 des Wirtschaftssicherstellungsgesetzes in der Fassung der Bekanntmachung vom 3. Oktober 1968 (Bundesgesetzbl. I S. 1069), zuletzt geändert durch Artikel 27 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzblatt I S. 705), wird von der Bundesregierung und auf Grund des § 4 Abs. 3 des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S. 1451), zuletzt geändert durch Artikel 18 des Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I S. 685), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes vom Bundesminister für Wirtschaft mit Zustimmung des Bundesrates verordnet:

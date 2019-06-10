@@ -1,0 +1,4 @@
+# Art 42 Übergangsregelung zum Gesetz über die Angleichung der
+Leistungen zur Rehabilitation
+
+Ist Krankengeld oder Übergangsgeld in Höhe des Nettoentgelts für eine Zeit nach dem 28. Februar 1975 zu zahlen und liegt der Bemessungszeitraum ganz oder teilweise in der Zeit vor dem 1. Januar 1975, so wird das regelmäßige kalendertägliche Nettoarbeitsentgelt neu berechnet. Die Neuberechnung wird vorgenommen, indem das regelmäßige kalendertägliche Bruttoarbeitsentgelt (Regellohn) um die gesetzlichen Lohnabzüge vermindert wird, die nach dem am 1. Januar 1975 geltenden Recht und der Lohnsteuerkarte für das Kalenderjahr 1975 in Betracht kommen würden. Führt die Neuberechnung zu einem höheren Krankengeld oder Übergangsgeld, so ist dieses vom Leistungsbeginn an, frühestens vom 1. Januar 1975 an, zu zahlen.

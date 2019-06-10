@@ -1,0 +1,15 @@
+# Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Trennungsgeld nach Zusage der Umzugskostenvergütung](0002.md)
+- [§ 3 Trennungsgeld beim auswärtigen Verbleiben](0003.md)
+- [§ 4 Sonderbestimmungen beim auswärtigen Verbleiben](0004.md)
+- [§ 5 Reisebeihilfe für Heimfahrten](0005.md)
+- [§ 5a Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern](0005a.md)
+- [§ 5b](0005b.md)
+- [§ 6 Trennungsgeld bei täglicher Rückkehr zum Wohnort](0006.md)
+- [§ 7 Sonderfälle](0007.md)
+- [§ 8 Ende des Trennungsgeldanspruchs](0008.md)
+- [§ 9 Verfahrensvorschriften](0009.md)
+- [§ 10 Anwendungsvorschrift](0010.md)
+- [(XXXX) §§ 11 bis 15 (weggefallen)](xxxx-11-bis-15.md)

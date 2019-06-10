@@ -1,0 +1,78 @@
+# Anlage 6 (zu §§ 40 und 42 Abs. 1)Kleinpackungen Höchstmengen und Kennzeichnung
+
+1 Landwirtschaftliche Arten
+1.1 Bezeichnung, Höchstmengen
+|  | Bezeichnung |  | Nettogewicht der reinen Körner oder Knäuel |
+| (kg) |
+|  | 1 | 2 | 3 |
+| 1.1.1 | "Kleinpackung EG B" | Futterpflanzen | 10 |
+| 1.1.2 | "Kleinpackung EG" | Monogerm- und Präzisionssaatgut von Rüben | 2,5 |
+| sonstiges Saatgut von Rüben | 10 |
+| 1.1.3 | "Kleinpackung, Inverkehrbringen nur in derBundesrepublik Deutschland zulässig" | Getreide außer Mais und Sorghum | 30 |
+| Mais, Sorghum | 1 |
+| Öl- und Faserpflanzen außer Raps | 10 |
+| Raps | 1 |
+1.1.4 Die Höchstmenge einer Kleinpackung beträgt bei nach Stückzahl abgepackten Kleinpackungen bei Mais 10 000 Körner, im Übrigen 100 000 Körner oder Knäuel.
+1.2 Kennzeichnung
+1.2.1 Bezeichnung
+1.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
+1.2.3 Art und Kategorie
+1.2.4 Sortenbezeichnung (bei Zertifiziertem Saatgut)
+1.2.4a Zulassungsnummer (bei Handelssaatgut)
+1.2.5 Kennnummer der Partie
+1.2.6 „Verschließung …“ (Monat, Jahr)
+1.2.7 Füllmenge oder Stückzahl der Körner oder Knäuel
+1.2.8 bei Monogerm- und Präzisionssaatgut die Angaben nach § 29 Abs. 4
+1.2.9 bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
+1.2.10 bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Abs. 1 Nr. 1
+1.2.11 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen die Angaben nach § 33 Abs. 4.
+2 Gemüsearten sowie Saatgutmischungen von Gemüsesorten einer Gemüseart
+2.1 Höchstmengen
+|  | Art | Nettogewicht der reinen Körner oder Knäuel |
+| (kg) |
+|  | 1 | 2 |
+| 2.1.1 | Zwiebel, Kerbel, Spargel, Mangold, Rote Rübe, Herbstrübe, Mairübe, Wassermelone, Riesenkürbis, Gartenkürbis, Ölkürbis, Zucchini, Möhre, Rettich, Radieschen, Schwarzwurzel, Spinat, Feldsalat, Zuckermais, Puffmais | 0,5 |
+| 2.1.2 | Schalotte, Winterheckenzwiebel, Porree, Knoblauch, Sellerie, Kohlrabi, Grünkohl, Blumenkohl, Brokkoli, Weißkohl, Rotkohl, Wirsing, Rosenkohl, Chinakohl, Paprika, Chili, Endivie, Chicorée, Blattzichorie, Wurzelzichorie, Industriezichorie, Melone, Gurke, Artischocke, Cardy, Fenchel, Salat, Tomate, Petersilie, Rhabarber, Aubergine | 0,1 |
+| 2.1.3 | Prunkbohne, Buschbohne, Stangenbohne, Erbse, Dicke Bohne | 5 |
+2.1.4 Die Höchstmenge einer Kleinpackung beträgt für nach Stückzahl abgepacktes Saatgut bei Zuckermais und Puffmais 2 000 Körner, im Übrigen 50 000 Körner oder Knäuel.
+2.2 Kennzeichnung
+2.2.1 "EG-Norm"
+2.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
+2.2.3 Art und Sortenbezeichnung
+2.2.3a bei Saatgutmischungen von Gemüsesorten einer Gemüseart die Angabe „Saatgutmischung aus Sorten der Art … “ (Bezeichnung der Gemüseart) und die Sortenbezeichnungen
+2.2.4 Kategorie (dabei kann Zertifiziertes Saatgut durch den Buchstaben "Z", Standardsaatgut durch die der Partienummer angefügten Buchstaben "St" abgekürzt werden)
+2.2.5 Kennnummer (außer bei Standardsaatgut)
+2.2.6 von dem abfüllenden Betrieb festgesetzte Partienummer (bei Standardsaatgut) oder die bei Saatgutmischungen von Gemüsesorten einer Gemüseart nach § 27 Absatz 1 vergebene Mischungsnummer
+2.2.7 Wirtschaftsjahr der Verschließung oder der letzten Prüfung der Keimfähigkeit (das Ende des Wirtschaftsjahres kann angegeben werden)
+2.2.8 Nettogewicht oder Stückzahl der reinen Körner oder Knäuel bei Packungen von mehr als 500 g
+2.2.8a bei Saatgutmischungen von Gemüsesorten einer Gemüseart der Anteil der jeweiligen Sorte, ausgedrückt in Nettogewicht oder Stückzahl der reinen Körner oder Knäuel
+2.2.9 bei Monogerm- und Präzisionssaatgut die Angaben nach § 29 Abs. 4
+2.2.10 bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
+2.2.11 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen die Angaben nach § 33 Abs. 4
+2.2.12 bei Saatgut von Gemüsesorten ist der Hinweis nach § 33 Abs. 8 im Anschluss an die Sortenbezeichnung und von dieser durch einen Schrägstrich getrennt anzugeben.
+3 Saatgutmischungen (außer Saatgutmischungen von Gemüsesorten einer Gemüseart)
+3.1 Zweckbestimmung, Bezeichnung und Höchstmengen
+Bezeichnung
+| 1 | 2 | 3 | 4 |
+|  | "Kleinpackung EG A" | "Kleinpackung EG B" | "Kleinpackung, Inverkehrbringen nur in der Bundesrepublik Deutschland zulässig" |
+| Nettogewicht in reinen Körnern |
+| (kg) | (kg) | (kg) |
+| 3.1.1 | Verwendung zur Futternutzung oder zur Körnererzeugung |  |  |  |
+| 3.1.1.1 | Futternutzung | - | 10 | über 10 bis 15 1) |
+| 3.1.1.2 | Körnererzeugung |  |  |  |
+| 3.1.1.2.1 | Getreide | - | - | 30 |
+| 3.1.1.2.2 | Leguminosen (auch mit Getreide) | 2 | über 2 bis 10 | über 10 bis 30 |
+| 3.1.2 | Andere als unter 3.1.1 genannte Verwendungszwecke (§ 26 Absatz 3 Satz 2) | 2 | über 2 bis 10 | über 10 bis 30 |
+|  |
+|  | ----------------1)Bei Mischungen mit mehr als 50 v. H. des Gewichtes an Saatgut von Getreide, Lupinen, Futtererbse, Ackerbohne, Wicken, Sojabohne oder Sonnenblume bis 30 kg. |
+3.2 Kennzeichnung
+    3.2.1 Bezeichnung
+    3.2.2 Name und Anschrift des Herstellers der Kleinpackung oder seine Betriebsnummer
+    3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
+    3.2.4 Kennnummer
+    3.2.5 „Verschließung …“ (Monat, Jahr)
+    3.2.6 Füllmenge oder Stückzahl der Körner
+    3.2.7 die Angaben nach § 29 Abs. 7 Satz 1, 2 und 4, bei Kleinpackung EG A jedoch nur die Angaben nach § 29 Abs. 7 Satz 1 Nr. 1 und 3
+    3.2.8 bei chemisch, besonders physikalisch oder gleichartig behandeltem Saatgut die Angaben nach § 32
+    3.2.9 bei Zertifiziertem Saatgut von Gräsersorten die Angaben nach § 33 Abs. 1 Nr. 1
+    3.2.10 bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut mit festen Zusätzen die Angaben nach § 33 Abs. 4.

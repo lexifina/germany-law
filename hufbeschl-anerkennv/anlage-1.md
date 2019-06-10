@@ -1,0 +1,16 @@
+# Anlage 1 (zu § 2 Absatz 2)Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+
+(Fundstelle: BGBl. I 2009, 488 - 489)
+| Land | Prüfungszeugnisse mit der Bezeichnung des Abschlusses |
+| Belgien | Zeugnisse mit den Abschlussbezeichnungen: •Maréchal-Ferrant/Maréchale-Ferrante•Hoefsmid/Hoefsmederij |
+| Dänemark | Staatliche Zeugnisse mit den Abschlussbezeichnungen: •Beslagsmed•Grovsmed med hestebeslag som specialeBerufsbezeichnung Beslagsmed |
+| Finnland | Zeugnis mit der Abschlussbezeichnung: •Kengityssepan ammattitutkintoBerufsbezeichnung Kengityssepan ammattitutkinto |
+| Frankreich | Staatliche Zeugnisse mit den Abschlussbezeichnungen: •Brevet d'Etudes Professionnelles Agricole (BEPA) Activités Hippiques Option Maréchalerie•Certificat d'Aptitude Professionnelle Agricole (CAPA) MaréchalerieBerufsbezeichnung Maréchal-Ferrant |
+| Großbritannien und Nordirland | Zeugnisse der Worshipful Company of Farriers (WCF) oder der Farriers Company of London mit den Abschlussbezeichnungen: •Diploma of the Worshipful Company of Farriers (DWCF)•Registered Shoeing Smith (RSS)•Associateship of the Worshipful Company of Farriers (AWCF)•Associates of the Farriers Company of London (AFCL)Berufsbezeichnung Farrier |
+| Republik Irland | Zeugnis der Irish Farriery Authority Ltd. (IMFA) mit der Abschlussbezeichnung: •Diploma of the Irish Masters Farriers AssociationBerufsbezeichnung Farrier |
+| Niederlande | Zeugnisse der 1.Helicon Opleidingen NHB Deurne2.AOC De Groene Welle3.Cursuscentrum Dierverzorging Barneveld4.Groenhorst Collegemit den Abschlussbezeichnungen: •Diploma Hoefsmid•Diploma HofsmidspezialistBerufsbezeichnung Hoefsmid oder Hofsmidspezialist |
+| Österreich | Zeugnisse über 1.den erfolgreichen Besuch des Lehrgangs für Huf- und Klauenbeschlag am österreichischen Pferdezentrum Stadl-Paura oder2.den erfolgreichen Besuch des Lehrgangs für Huf- und Klauenbeschlag und die bestandene Abschlussprüfung an der Universitätsklinik für Orthopädie bei Huf- und Klauentieren der Veterinärmedizinischen Universität WienBerufsbezeichnung Staatlich geprüfter Hufbeschlagschmied/Staatlich geprüfte Hufbeschlagschmiedin |
+| Schweden | Zeugnis mit der Abschlussbezeichnung: •Yrkesexamen för hovslagareBerufsbezeichnung Hovslagar |
+| Schweiz | Staatliche Zeugnisse mit der Abschlussbezeichnung: •Schmied-Hufschmied/Schmiedin-Hufschmiedin•Maréchal-forgeron/Maréchale-forgeronne•Fabbro maniscaloGesetzliche Regelung: SR 412.10(d) / 412.101 (f) / 412.111 (i) (SR = systematische Rechtssammlung)ab 2013 auch Eidgenössisches Fähigkeitszeugnis (EFZ/CFC/AFC) mit der Abschlussbezeichnung: •Hufschmiedin/Hufschmied•Maréchale-forgeronne/Maréchal-forgeron•Fabbro maniscaloGesetzliche Regelung: SR 412.10(d) / SR 412.101(f) / SR 412.111(i) (SR = systematische Rechtssammlung) |
+| Tschechische Republik | Staatliches Zeugnis (Vysvědčení o závěrečné zkoušce) und Lehrbrief (Vyuční list) mit dem Abschluss Kovář a Podkovář sowie eine Bescheinigung (osvedceni) auf Vordruck SEVT 49 3420 über die Fortbildung zum PodkovářBerufsbezeichnung Podkovář |
+| Ungarn | Staatliches Zeugnis mit der Abschlussbezeichnung: •Mezögazdasági kovács PatkolókovácsBerufsbezeichnung Patkolókovács |

@@ -1,0 +1,18 @@
+# Gesetz zur Errichtung der Akademie der Künste
+
+- [§ 1 Name, Sitz, Rechtsform](0001.md)
+- [§ 2 Aufgaben](0002.md)
+- [§ 3 Satzung](0003.md)
+- [§ 4 Organe](0004.md)
+- [§ 5 Mitglieder](0005.md)
+- [§ 6 Mitgliederversammlung](0006.md)
+- [§ 7 Senat](0007.md)
+- [§ 8 Präsident oder Präsidentin](0008.md)
+- [§ 9 Sektionen](0009.md)
+- [§ 10 Archiv](0010.md)
+- [§ 11 Geschäftsführung](0011.md)
+- [§ 12 Beschäftigte](0012.md)
+- [§ 13 Haushalt, Aufsicht, Rechnungsprüfung](0013.md)
+- [§ 14 Gebühren](0014.md)
+- [§ 15 Übernahme von Rechten und Pflichten](0015.md)
+- [§ 16 Inkrafttreten](0016.md)

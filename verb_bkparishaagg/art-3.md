@@ -1,0 +1,3 @@
+# Art 3
+
+Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in Kraft. ...

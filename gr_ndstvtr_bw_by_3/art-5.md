@@ -1,0 +1,5 @@
+# Art 5
+
+Zwischen dem Markt Neubrunn, Landkreis Würzburg, Freistaat Bayern, und der Gemeinde Werbach, Main-Tauber-Kreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
+1. vom Landesgrenzpunkt 848 bis zum Landesgrenzpunkt 852 nach Maßgabe der Anlage 5, Seiten 1 und 2;
+2. vom Landesgrenzpunkt 860 bis zum Landesgrenzpunkt 863 nach Maßgabe der Anlage 5, Seiten 1 und 2.

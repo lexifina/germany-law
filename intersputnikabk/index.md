@@ -1,0 +1,3 @@
+# Abkommen über die Schaffung
+des internationalen Systems und der Organisation für kosmische
+Fernmeldeverbindungen "INTERSPUTNIK"

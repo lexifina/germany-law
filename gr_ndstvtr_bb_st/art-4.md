@@ -1,0 +1,10 @@
+# Art 4
+
+(1)
+Das Land Brandenburg sowie die betroffenen brandenburgischen kommunalen Körperschaften sind verpflichtet, innerhalb von drei Monaten nach Inkrafttreten dieses Vertrages den zuständigen Verwaltungsträgern des Landes Sachsen-Anhalt die für die Verwaltung notwendigen Akten, Urkunden, Register und anderen zur Verwaltung erforderlichen Unterlagen zu übergeben und zugänglich zu machen, soweit solche bei ihnen für den nach Artikel 1 abzutretenden Gebietsteil vorhanden sind, sowie die für die Berichtigung der Grundbücher notwendigen Erklärungen abzugeben.
+(2)
+Soweit die Übergabe von Akten, Urkunden, Registern oder sonstigen Unterlagen nicht möglich oder nicht tunlich ist, werden beglaubigte Abschriften erteilt.
+(3)
+Die beteiligten kommunalen Körperschaften regeln, soweit das erforderlich ist, die sie betreffenden Rechts- und Verwaltungsfragen durch Vereinbarungen innerhalb von sechs Monaten nach Inkrafttreten dieses Vertrages.
+(4)
+Die Minister des Innern der vertragschließenden Länder können die im Absatz 1 und 3 bestimmten Fristen im Einzelfall einvernehmlich verlängern.

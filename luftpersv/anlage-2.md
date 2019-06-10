@@ -1,0 +1,43 @@
+# Anlage 2 (zu § 125a)
+
+( Fundstelle: BGBl. I 2008, 1837 - 1838 )
+Voraussetzungen für die
+Anerkennung von Stellen für die Abnahme von Sprachprüfungen
+1. Stellen, die vom Luftfahrt-Bundesamt für die Abnahme von Sprachprüfungen anerkannt werden, müssen über Folgendes verfügen:
+  a) eine angemessene Anzahl qualifizierten Personals,
+  b) eine Beschreibung der Verfahren, mit denen sichergestellt wird, dass bei der Prüfung die Vorgaben nach § 125 und § 125a eingehalten werden, die mindestens Angaben zu folgenden Punkten umfasst:
+    (1)
+    anzuwendende Vorschriften,
+    (2)
+    Prüfungsverfahren,
+    (3)
+    Organisationsstruktur der beantragenden Stelle,
+    (4)
+    zuständige Personen für die Entwicklung und Überwachung der beschriebenen Verfahren,
+    (5)
+    Aufzeichnung der Prüfungsergebnisse,
+    (6)
+    Qualitätssicherung bezüglich des Personals, dessen Qualifikation und Schulung und bezüglich der Einhaltung der Bewertungsanforderungen,
+    (7)
+    Angaben zu der Qualifizierungsmaßnahme, mit der das für die Prüfung eingesetzte Personal auf die Prüfung nach § 125 Abs. 2 vorbereitet wird,
+  c) festgelegte und dokumentierte Verfahren, anhand derer die Bewertung der Kandidaten vorgenommen wird und die mindestens Folgendes umfassen:
+    (1)
+    Ziele der Bewertung,
+    (2)
+    Bestandteile des Bewertungsverfahrens, zeitlicher Umfang, technische Hilfsmittel, Beispiele, Sprachproben, verwendete Vordrucke,
+    (3)
+    Bewertungskriterien und -standards nach Anlage 2 zu Anhang I der Verordnung (EU) Nr. 1178/2011,
+    (4)
+    Unterlagen, aus denen die Gültigkeit, Bedeutung und Zuverlässigkeit des Bewertungsverfahrens hervorgeht,
+    (5)
+    Bewertungsverfahren und Zuständigkeiten,
+    (6)
+    Angaben zur Verwaltung einschließlich Prüfungsort(e), Identitätsüberprüfung und Kontrolle, Prüfungsdisziplin, Vertraulichkeit/Datenschutz,
+    (7)
+    an die zuständige Stelle und/oder den Bewerber übermittelte Meldungen und Unterlagen, einschließlich eines Musters des Zeugnisses und
+    (8)
+    Angaben zur Aufbewahrung von Bescheinigungen und Aufzeichnungen,
+  d) Räumlichkeiten zur Abnahme der Prüfungen mit einer angemessenen Ausstattung innerhalb der Bundesrepublik Deutschland.
+2. Die Unterlagen und Aufzeichnungen über die Bewertung werden für einen vom Luftfahrt-Bundesamt festgelegten Zeitraum aufbewahrt. Die Stellen erklären sich bereit, es dem Luftfahrt-Bundesamt jederzeit zu ermöglichen, bei einer Prüfung anwesend zu sein.
+3. Für Stellen, die ausschließlich Neubewertungen nach § 125 Absatz 2 für die Stufe Einsatzfähigkeit abnehmen, kann das Luftfahrt-Bundesamt Ausnahmen von den oben genannten Voraussetzungen zulassen. Für die Abnahme von Prüfungen zur Neubewertung der Stufe Einsatzfähigkeit können auch Einzelpersonen anerkannt werden. Bei der Zulassung von Ausnahmen ist sicherzustellen, dass eine gleichbleibende Qualität gewährleistet bleibt.
+4. Das Luftfahrt-Bundesamt kann Ausnahmen von dem Erfordernis nach Nummer 1 d) zulassen, wenn die beantragende Stelle bereits über eine Anerkennung zur Ausbildung von Luftfahrern nach § 24 verfügt.

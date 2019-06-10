@@ -1,0 +1,52 @@
+# Anlage 5 (zu § 2 Abs. 6)
+
+| Besondere Vorschriften für Fruchtnektar |
+| Fruchtnektar aus | Mindestgehalt an Fruchtsaft oder Fruchtmark (in Vol.-% des fertigen Erzeugnisses) |
+| I. | Früchten mit saurem, zum unmittelbaren Genuss nicht geeignetem Saft: |  |
+|  | Passionsfrucht | 25 |
+| Quito-Orangen | 25 |
+| schwarze Johannisbeeren/Ribiseln | 25 |
+| weiße Johannisbeeren/Ribiseln | 25 |
+| rote Johannisbeeren/Ribiseln | 25 |
+| Stachelbeeren | 30 |
+| Sanddorn | 25 |
+| Schlehen | 30 |
+| Pflaumen | 30 |
+| Zwetschgen | 30 |
+| Ebereschen | 30 |
+| Hagebutten | 40 |
+| Sauerkirschen/Weichseln | 35 |
+| andere Kirschen | 40 |
+| Heidelbeeren | 40 |
+| Holunderbeeren | 50 |
+| Himbeeren | 40 |
+| Aprikosen/Marillen | 40 |
+| Erdbeeren | 40 |
+| Brombeeren | 40 |
+| Kranbeeren/Cranberries | 30 |
+| Quitten | 50 |
+| Zitronen und Limetten | 25 |
+| andere Früchte dieser Kategorie | 25 |
+| II. | säurearmen oder sehr aromatischen Früchten oder Früchten, die viel Fruchtfleisch enthalten, mit zum unmittelbaren Genuss nicht geeignetem Saft: |  |
+|  | Mangos | 25 |
+| Bananen | 25 |
+| Guaven | 25 |
+| Papayas | 25 |
+| Litschis | 25 |
+| Acerolas | 25 |
+| Stachelannonen | 25 |
+| Netzannonen | 25 |
+| Cherimoyas, Zimtäpfel | 25 |
+| Granatäpfel | 25 |
+| Kaschuäpfel | 25 |
+| Mombinpflaumen | 25 |
+| Umbu | 25 |
+| andere Früchte dieser Kategorie | 25 |
+| III. | Früchten mit zum unmittelbaren Genuss geeignetem Saft: |  |
+|  | Äpfel | 50 |
+| Birnen | 50 |
+| Pfirsiche | 50 |
+| Zitrusfrüchte, außer Zitronen und Limetten | 50 |
+| Ananas | 50 |
+| Tomaten/Paradeiser | 50 |
+| andere Früchte dieser Kategorie | 50 |

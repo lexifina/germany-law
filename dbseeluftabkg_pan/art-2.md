@@ -1,0 +1,3 @@
+# Art 2
+
+Soweit das Abkommen aufgrund seines Artikels 8 Absatz 2 für die Zeit vor dem Inkrafttreten des Abkommens anzuwenden ist, sind bereits ergangene Steuerfestsetzungen zu ändern oder aufzuheben. Steuerfestsetzungen sowie ihre Aufhebung und Änderung sind insoweit auch zulässig, wenn die Festsetzungsfrist abgelaufen ist; dies gilt nur bis zum Ablauf des vierten Kalenderjahrs, das auf das Kalenderjahr folgt, in dem das Abkommen in Kraft getreten ist.

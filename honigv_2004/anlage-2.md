@@ -1,0 +1,38 @@
+# Anlage 2 (zu den §§ 2 und 4)Anforderungen an die Beschaffenheit
+
+Abschnitt I
+Allgemeine Anforderungen
+Honig dürfen keine anderen Stoffe als Honig zugefügt werden.
+Honig muss, soweit möglich, frei von organischen und anorganischen honigfremden Stoffen sein. Honig dürfen jedoch weder Pollen noch andere honigeigene Stoffe entzogen werden, soweit dies beim Entfernen von anorganischen oder organischen honigfremden Stoffen nicht unvermeidbar ist. Abweichend davon dürfen gefiltertem Honig Pollen entzogen worden sein.
+Honig darf keinen künstlich veränderten Säuregrad aufweisen. Honig darf mit Ausnahme von Backhonig keinen fremden Geschmack oder Geruch aufweisen, nicht in Gärung übergegangen oder gegoren sein oder so stark erhitzt worden sein, dass die Enzyme erheblich oder vollständig inaktiviert wurden.
+Abschnitt II
+Spezifische Anforderungen
+| 1. | Zuckergehalt |
+| 1.1. | Fructose- und Glucosegehalt (Summe) |
+| a) | Blütenhonig | mindestens 60 g/100 g, |
+| b) | Honigtauhonig, allein oder in Mischung mit Blütenhonig | mindestens 45 g/100 g, |
+| 1.2. | Saccharosegehalt |
+| a) | Im Allgemeinen | höchstens 5 g/100 g, |
+| b) | Honig von Robinie (Robinia pseudoacacia), Luzerne (Medicago sativa), Banksia menziesii, Süßklee (Hedysarum), Roter Eukalyptus (Eucalyptus camadulensis), Eucryphia lucida, Eucryphia milliganii, Citrus spp. | höchstens 10 g/100 g, |
+| c) | Honig von Lavendel (Lavandula spp.), Borretsch (Borago officinalis) | höchstens 15 g/100 g. |
+| 2. | Wassergehalt |
+| a) | Im Allgemeinen | höchstens 20%, |
+| b) | Honig von Heidekraut(Calluna) und Backhonig im Allgemeinen | höchstens 23%, |
+| c) | Backhonig von Heidekraut (Calluna) | höchstens 25%. |
+| 3. | Gehalt an wasserunlöslichen Stoffen |
+| a) | Im Allgemeinen | höchstens 0,1 g/100 g, |
+| b) | Presshonig | höchstens 0,5 g/100 g. |
+| 4. | Elektrische Leitfähigkeit |
+| a) | Honigarten im Allgemeinen und Mischungen dieser Honigarten | höchstens 0,8 mS/cm, |
+| b) | Honigtauhonig und Kastanienhonig und Mischungen dieser Honigarten | mindestens 0,8 mS/cm. |
+| Den unter den Buchstaben a und b festgelegten Anforderungen müssen die nachfolgend genannten Honigarten sowie Mischungen mit diesen Honigarten nicht entsprechen: |
+| Honige von Erdbeerbaum (Arbutus unedo), Glockenheide (Erica), Eukalyptus, Linden (Tilia spp.), Heidekraut (Calluna vulgaris), Leptospermum, Teebaum (Melaleuca spp.). |
+| 5. | Gehalt an freien Säuren |
+| a) | Im Allgemeinen | höchstens 50 Milliäquivalente Säure pro kg, |
+| b) | Backhonig | höchstens 80 Milliäquivalente Säure pro kg. |
+| 6. | Hydroxymethylfurfuralgehalt (HMF), bestimmt nach Behandlung und Mischung |
+| a) | Im Allgemeinen, mit Ausnahme von Backhonig | höchstens 40 mg/kg (vorbehaltlich der Bestimmungen unter Nr. 7 Buchstabe b), |
+| b) | Honig mit angegebenem Ursprung in Regionen mit tropischem Klima und Mischungen solcher Honigarten untereinander | höchstens 80 mg/kg. |
+| 7. | Diastase-Zahl nach Schade, bestimmt nach Behandlung und Mischung |
+| a) | Im Allgemeinen mit Ausnahme von Backhonig | mindestens 8, |
+| b) | Honigarten mit einemgeringen natürlichen Enzymgehalt (z. B. Zitrushonig) und einem HMF-Gehalt von höchstens 15 mg/kg | mindestens 3. |

@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Die Erklärung der ausgelieferten Person über den Verzicht auf die Einhaltung des Grundsatzes der Spezialität (Artikel 10 Abs. 1 Buchstabe d des Übereinkommens) wird zu richterlichem Protokoll abgegeben. Zuständig ist der Richter bei dem Amtsgericht, in dessen Bezirk sich die ausgelieferte Person befindet. Zuständig nach Erhebung der öffentlichen Klage ist das mit der Sache befaßte Gericht.
+(2)
+Die Erklärung kann nicht widerrufen werden. Die ausgelieferte Person ist vor der Abgabe der Erklärung über deren Rechtsfolgen zu belehren.

@@ -1,0 +1,136 @@
+# Anlage (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Parkettleger/zur Parkettlegerin
+
+(Fundstelle: BGBl. I 2002, 1855 - 1860)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten und Kenntnisse, die unter Einbeziehung selbständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitlicher Richtwert in Wochen im |
+| 1. - 18. Monat | 19. - 36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Angebot, Beschaffung, Fertigung und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 3 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Umgang mit Informations- und Kommunikationstechniken (§ 3 Nr. 5) | a) | Bedeutung und Nutzungsmöglichkeiten von Informations- und Kommunikationssystemen unter Einschluss des Internets für den Ausbildungsbetrieb erläutern | 2 *) |  |
+| b) | Arbeitsaufgaben mit Hilfe von Informations- und Kommunikationssystemen lösen |
+| c) | Vorschriften zum Datenschutz beachten |
+| d) | Daten pflegen und sichern |
+| 6 | Vorbereiten von Arbeitsabläufen, Auswerten von Informationen, Arbeiten im Team (§ 3 Nr. 6) | a) | Arbeitsauftrag erfassen und Vorgaben auf Umsetzbarkeit prüfen | 4 *) |  |
+| b) | Informationen beschaffen und nutzen, insbesondere technische Merkblätter, Fachzeitschriften, Fachbücher und Kataloge |
+| c) | Arbeitsschritte unter Berücksichtigung ergonomischer, konstruktiver, fertigungstechnischer und wirtschaftlicher Gesichtspunkte festlegen und vorbereiten |
+| d) | Bedarf an Werk- und Hilfsstoffen ermitteln, Werk- und Hilfsstoffe zusammenstellen |
+| e) | Einsatz von Arbeitsmitteln unter Beachtung der Vorschriften planen und Sicherungsmaßnahmen anwenden |
+| f) | technische Veränderungen feststellen und umsetzen |  | 3 *) |
+| g) | Zeitaufwand und personelle Unterstützung abschätzen, Zeitaufwand dokumentieren |
+| h) | Aufgaben im Team planen und umsetzen, Ergebnisse der Zusammenarbeit auswerten |
+| i) | Abstimmungen mit den am Bau Beteiligten treffen |
+| k) | Gespräche situationsgerecht führen, Sachverhalte darstellen |
+| 7 | Anfertigen und Anwenden von technischen Unterlagen, Durchführen von Messungen (§ 3 Nr. 7) | a) | Skizzen anfertigen und anwenden | 5 *) |  |
+| b) | Bau- und Werkzeichnungen zur Konstruktion und Einteilung von Parkett und anderen Holzfußböden sowie von Bodenbelägen lesen und anwenden |
+| c) | Normen, Sicherheitsregeln, technische Vorschriften, Merkblätter, Zulassungsbescheide, Richtlinien und Arbeitsanweisungen anwenden |
+| d) | Materiallisten erstellen |
+| e) | Messverfahren auswählen und anwenden, Messgeräte auf Funktion prüfen sowie lagern |
+| f) | Messungen des Raumklimas sowie der Zustände von Estrichen, Holz und Holzwerkstoffen durchführen, Ergebnisse protokollieren und berücksichtigen |
+| g) | Leistungsverzeichnisse anwenden |  | 4 *) |
+| h) | technische Unterlagen anwenden, insbesondere Materiallisten, Tabellen, Diagramme, Betriebsanleitungen, Handbücher sowie Herstellerangaben |
+| i) | technische Vorgaben unter Berücksichtigung der Bausituation umsetzen |
+| k) | Aufmaße anfertigen, Leistungen abrechnen |
+| 8 | Vorbereiten, Einrichten, Sichern und Räumen von Arbeitsplätzen (§ 3 Nr. 8) | a) | Arbeitsplatz einrichten, sichern, unterhalten und auflösen, ergonomische Gesichtspunkte berücksichtigen | 4 *) |  |
+| b) | Verkehrs- und Transportwege auf ihre Eignung beurteilen, Maßnahmen zur Nutzung veranlassen |
+| c) | Leitern und Arbeitsgerüste auswählen, auf Verwendbarkeit prüfen sowie auf- und abbauen |
+| d) | Bereitstellung der Energieversorgung veranlassen, Sicherheitsmaßnahmen beim Umgang mit elektrischem Strom ergreifen |
+| e) | Werkstoffe, Geräte und Maschinen am Arbeitsplatz vor Witterungseinflüssen und Beschädigungen schützen sowie vor Diebstahl sichern und für den Abtransport vorbereiten |
+| f) | Gefahrstoffe erkennen und Schutzmaßnahmen ergreifen, Lagerung von Gefahrstoffen sicherstellen |
+| g) | bei Arbeitsunfällen erste Hilfsmaßnahmen zur Versorgung von verletzten Personen ergreifen, Unfallstelle sichern |
+| 9 | Handhaben und Warten von Werkzeugen, Geräten, Maschinen und technischen Einrichtungen (§ 3 Nr. 9) | a) | Werkzeuge, Geräte, Maschinen und technische Einrichtungen auswählen | 6 |  |
+| b) | Handwerkzeuge handhaben und instand halten |
+| c) | Geräte und Maschinen einrichten und unter Verwendung der Schutzeinrichtungen bedienen, technische Einrichtungen anwenden |
+| d) | Störungen an Geräten, Maschinen und technischen Einrichtungen erkennen, Störungsbeseitigung veranlassen |
+| e) | Maschinenwerkzeuge einrichten und instand halten |  | 2 |
+| f) | Maschinensteuerungen und Regelungsanlagen einstellen und bedienen |
+| g) | Geräte, Maschinen und technische Einrichtungen warten |
+| 10 | Be- und Verarbeiten von Werk- und Hilfsstoffen (§ 3 Nr. 10) | a) | Werk- und Hilfsstoffe auswählen, kennzeichnen, transportieren und lagern | 7 |  |
+| b) | Werkstoffe, insbesondere Holz, Holzwerkstoffe, Kunststoffe und Metalle, auf Fehler und Einsetzbarkeit prüfen, Maße übertragen |
+| c) | Holz, Holzwerkstoffe, Kunststoffe und Metalle von Hand bearbeiten |
+| d) | Holz, Holzwerkstoffe, Kunststoffe und Metalle mit Maschinen be- und verarbeiten |
+| e) | Werkstoffverbindungen herstellen |
+| f) | Holzschutzmaßnahmen durchführen |
+| 11 | Prüfen der Verlegebedingungen, Herstellen von Untergründen (§ 3 Nr. 11) | a) | Untergründe auf Belegreife prüfen | 15 |  |
+| b) | Verfahren zur Vorbereitung von Untergründen auswählen |
+| c) | Untergründe bearbeiten, insbesondere durch Bürsten, Schleifen, Fräsen und Absaugen |
+| d) | Untergründe säubern, sperren und vorstreichen |
+| e) | Fugen und Risse bearbeiten |
+| f) | Höhenausgleich zu angrenzenden Bauteilen herstellen |
+| g) | Spachtel- und Ausgleichsschichten herstellen |
+| h) | Holzunterböden herstellen |
+| i) | Fehlstellen in Estrichen ergänzen |  | 10 |
+| k) | Altbeläge entfernen und Entsorgung veranlassen |
+| l) | Trenn- und Dämmschichten sowie Unterlagen zuschneiden und einbauen, Schüttungen einbringen |
+| m) | Fertigteilestrichelemente verlegen |
+| n) | Schwingbodenkonstruktionen herstellen |
+| o) | Doppelboden- und Hohlbodenkonstruktionen einbauen |
+| 12 | Gestalten von Parkett und anderen Holzfußböden sowie von Bodenbelägen (§ 3 Nr. 12) | a) | Gestaltungsmerkmale unterscheiden sowie Gestaltungstechniken auswählen und anwenden |  | 4 |
+| b) | Skizzen für Verlegemuster anfertigen |
+| c) | Verlegemuster nach Gestaltungsmerkmalen festlegen und umsetzen |
+| d) | Schablonen herstellen und Formen übertragen |
+| 13 | Verlegen von Parkett, anderen Holzfußböden und Schichtwerkstoffen (§ 3 Nr. 13) | a) | Parkettböden und andere Holzfußböden nach Anforderungen auswählen | 20 |  |
+| b) | Gefahren von Stoffen und Stäuben, insbesondere Verpuffungen, beachten |
+| c) | Klebstoffe und Trennlagen auswählen und verarbeiten |
+| d) | Parkettböden und andere Holzfußböden verkleben |
+| e) | Mehrschichtparkett und Schichtwerkstoffe schwimmend verlegen, Elemente verbinden |
+| f) | Stabparkett, Mehrschichtparkett und Dielen nageln und schrauben |
+| g) | Sportbodenkonstruktion herstellen, Spielfeldmarkierung aufbringen |  | 17 |
+| h) | elastische Fugen herstellen |
+| i) | Treppen bekleiden |
+| k) | Schwellen und Anschlüsse herstellen |
+| l) | Muster- und Intarsienböden herstellen |
+| 14 | Verlegen von Bodenbelägen (§ 3 Nr. 14) | a) | Bodenbeläge nach Anforderungen auswählen | 7 |  |
+| b) | Gefahren von lösemittelhaltigen Stoffen, insbesondere beim Verlegen, beachten |
+| c) | Klebstoffe auswählen und verarbeiten |
+| d) | Verlegerichtung von Bodenbelägen bestimmen, Platten und Bahnen einteilen, verkleben, verspannen und verkletten |
+| e) | Kunstharzbeschichtungen auftragen |  | 7 |
+| f) | Bodenbeläge ableitfähig verlegen und Ergebnis dokumentieren |
+| g) | Fugen von elastischen Bodenbelägen fräsen und schließen |
+| h) | elastische Fugen herstellen |
+| i) | An- und Abschlüsse herstellen |
+| k) | Flächen bekleben |
+| 15 | Behandeln von Oberflächen (§ 3 Nr. 15) | a) | Erstpflege bei Parkett und elastischen Bodenbelägen durchführen | 3 |  |
+| b) | Oberflächen vor Beschädigungen schützen |
+| c) | Oberflächen hinsichtlich der Bearbeitung und Nutzung beurteilen |  | 15 |
+| d) | Oberflächenbehandlungsverfahren festlegen und Oberflächenbehandlungs-mittel auswählen |
+| e) | Schleifmittel auswählen, Parkett, andere Holzfußböden und Kork schleifen, insbesondere mit Maschinen |
+| f) | Fugen verfüllen |
+| g) | Oberflächen versiegeln, imprägnieren, ölen und wachsen |
+| h) | Qualität von behandelten Oberflächen beurteilen |
+| 16 | Herstellen und Anbringen von Profilen (§ 3 Nr. 16) | a) | Profile nach ihrer Funktion auswählen, einpassen und anbringen | 3 |  |
+| b) | Sockelleisten und Treppenkantenprofile anfertigen und anbringen |  | 3 |
+| 17 | Instandhalten und Instandsetzen von Parkett und anderen Holzfußböden sowie von Bodenbelägen (§ 3 Nr. 17) | a) | Verschmutzungszustand und Schäden hinsichtlich ihrer Ursachen beurteilen und dokumentieren |  | 6 |
+| b) | Pflegemittelsysteme und Pflegeverfahren auswählen, Pflegearbeiten durchführen |
+| c) | Reinigungsmittelsysteme auswählen, Zwischen- und Grundreinigung durchführen |
+| d) | Parkett und andere Holzfußböden sowie Korkböden aufarbeiten |
+| e) | Instandsetzungsverfahren auswählen, Instandsetzungsarbeiten vorbereiten und ausführen |
+| 18 | Restaurieren von Parkett und anderen Holzfußböden (§ 3 Nr. 18) | a) | Zustand von Parkett und anderen Holzfußböden feststellen und dokumentieren |  | 4 |
+| b) | erhaltenswerte Bauteile sichern, kennzeichnen, ausbauen und lagern |
+| c) | Parkett und andere Holzfußböden unter Beachtung der Bauart, des Baustils und der Gestaltungsmerkmale nach Vorgaben restaurieren |
+| d) | Ergänzungen anfertigen und einfügen, Arbeitsschritte dokumentieren |
+| 19 | Qualitätssichernde Maßnahmen, Kundenorientierung (§ 3 Nr. 19) | a) | Aufgaben und Ziele von qualitätssichernden Maßnahmen anhand betrieblicher Beispiele erläutern | 2 *) |  |
+| b) | qualitätssichernde Maßnahmen im eigenen Arbeitsbereich anwenden, dabei zur kontinuierlichen Verbesserung von Arbeitsvorgängen beitragen |
+| c) | Arbeiten kundenorientiert durchführen |
+| d) | Endkontrolle anhand des Arbeitsauftrages durchführen und Arbeitsergebnisse dokumentieren |  | 3 *) |
+| e) | Kunden hinsichtlich der Gestaltung beraten |
+| f) | Kunden Gebrauchs- und Pflegeanleitungen erläutern |
+*) Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten Ausbildungsinhalten zu vermitteln.

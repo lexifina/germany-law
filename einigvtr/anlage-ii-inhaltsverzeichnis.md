@@ -1,0 +1,24 @@
+# Anlage II Inhaltsverzeichnis
+
+| A. | Vorbemerkungen |
+| B. | Geschäftsbereiche |
+|  | Kapitel I | Bundesminister des Auswärtigen |
+|  | Kapitel II | Bundesminister des Innern |
+|  | Kapitel III | Bundesminister der Justiz |
+|  | Kapitel IV | Bundesminister der Finanzen |
+|  | Kapitel V | Bundesminister für Wirtschaft |
+|  | Kapitel VI | Bundesminister für Ernährung, Landwirtschaft und Forsten |
+|  | Kapitel VII | - - - |
+|  | Kapitel VIII | Bundesminister für Arbeit und Sozialordnung |
+|  | Kapitel IX | Bundesminister der Verteidigung |
+|  | Kapitel X | Bundesminister für Jugend, Familie, Frauen und Gesundheit |
+|  | Kapitel XI | Bundesminister für Verkehr |
+|  | Kapitel XII | Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit |
+|  | Kapitel XIII | Bundesminister für Post und Telekommunikation |
+|  | Kapitel XIV | Bundesminister für Raumordnung, Bauwesen und Städtebau |
+|  | Kapitel XV | Bundesminister für Forschung und Technologie |
+|  | Kapitel XVI | Bundesminister für Bildung und Wissenschaft |
+|  | Kapitel XVII | - - - |
+| C. | Besondere Sachgebiete |
+|  | Kapitel XVIII | Statistik |
+|  | Kapitel XIX | Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten |

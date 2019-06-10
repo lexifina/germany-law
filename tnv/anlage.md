@@ -1,0 +1,103 @@
+# Anlage (zu § 12)
+
+( Fundstelle: BGBl. I 2008, 145 - 148 )
+1. Nummernraum für das öffentliche Telefonnetz gemäß der Empfehlung E.164 der Internationalen Fernmeldeunion
+  |  | Nummernressource | Vfg./Mit. | Datum | Amtsblatt |
+  | 1.1 Rufnummern in den Ortsnetzbereichen |
+  | 1. | Struktur und Ausgestaltung des Nummern- bereichs für Ortsnetzrufnummern | Vfg. 25/2006 | 10. 05. 2006 | BNetzA Nr. 9/2006 |
+  | 2. | Änderung der Zuteilungsregeln für Ortsnetzrufnummern | Vfg. 18/2007 | 04. 04. 2007 | BNetzA Nr. 7/2007 |
+  | 3. | Änderung der Verfügung „Struktur und Ausgestaltung des Nummernbereichs für Ortsnetzrufnummern“ | Vfg. 43/2007 | 29. 08. 2007 | BNetzA Nr. 17/2007 |
+  | 4. | Nutzung des Teilbereichs 11 des Nummernraums für öffentliche Telefonnetze | Vfg. 255/1997 | 22. 10. 1997 | BMPT Nr. 28/1997 |
+  | 5. | Verwendung der Ortsnetzkennzahl (0)621 für die Ortsnetze Mannheim und Ludwigshafen | Vfg. 6/1998 | 04. 03. 1998 | Reg TP Nr. 2/1998 |
+  | 6. | Übersicht der Ortsnetzbereichsgrenzen (ONB-Grenzen) | Mit. 465/2002 | 16. 10. 2002 | Reg TP Nr. 20/2002 |
+  | 7. | Nutzung von Rufnummern in den Ortsnetzbereichen | Mit. 306/2004 | 06. 10. 2004 | Reg TP Nr. 16/2004 |
+  | 1.2 Rufnummern für Mobilfunkdienste |
+  | 1. | Regeln für die Zuteilung von Rufnummern für öffentliche zellulare Mobilfunkdienste | Vfg. 84/2000 | 06. 12. 2000 | Reg TP Nr. 23/2000 |
+  | 2. | Änderung beim Antragsverfahren, bei den Auflagen und beim Antragsformular | Vfg. 10/2002 | 17. 04. 2002 | Reg TP Nr. 7/2002 |
+  | 3. | Änderung der Antragsberechtigung | Vfg. 31/2003 | 16. 07. 2003 | Reg TP Nr. 14/2003 |
+  | 1.3 Rufnummern für Auskunftsdienste |
+  | 1. | Vorläufige Regeln für die Zuteilung von Rufnummern für Auskunftsdienste | Vfg. 61/1997 | 19. 03. 1997 | BMPT Nr. 8/1997 |
+  | 2. | Ansteuerung von Auskunftsdiensten; Nutzung des Teilbereichs (0)1989 des Nummernraums für das öffentliche Telefonnetz/ISDN | Vfg. 224/1997 | 10. 09. 1997 | BMPT Nr. 25/1997 |
+  | 3. | Nutzung der Rufnummern (0)1188 und (0)1199; Nutzung des Teilbereichs 118 des Nummernraums für das öffentliche Telefonnetz/ISDN | Vfg. 228/1997 | 10. 09. 1997 | BMPT Nr. 25/1997 |
+  | 4. | Änderung der Zuteilungsregeln (max. 7 Rufnummern) | Vfg. 143/1998 | 09. 12. 1998 | BMPT Nr. 24/1998 |
+  | 5. | Hinweise zu den Regeln für die Zuteilung von Rufnummern für Auskunftsdienste | Mit. 305/2002 | 26. 06. 2002 | Reg TP Nr. 12/2002 |
+  | 6. | Hinweise zu den Regeln für die Zuteilung von Rufnummern für Auskunftsdienste (118xx) | Mit. 19/2004 | 21. 01. 2004 | Reg TP Nr. 2/2004 |
+  | 1.4 Betreiberkennzahlen |
+  |  | Struktur und Ausgestaltung des Nummern- bereichs für Betreiberkennzahlen | Vfg. 23/2006 | 26. 04. 2006 | BNetzA Nr. 8/2006 |
+  | 1.5 Rufnummern für entgeltfreie Telefondienste |
+  | 1. | Regeln für die Zuteilung von Rufnummern für entgeltfreie Mehrwertdienste | Vfg. 36/2004 | 11. 08. 2004 | Reg TP Nr. 16/2004 |
+  | 2. | Nutzung (0)130/(0)800-Rufnummern | Vfg. 137/1997 | 18. 06. 1997 | BMPT Nr. 17/1997 |
+  | 3. | Testrufnummern für entgeltfreie Mehrwertdienste | Vfg. 227/1997 | 10. 09. 1997 | BMPT Nr. 25/1997 |
+  | 1.6 Rufnummern für Geteilte-Kosten-Dienste |
+  |  | Regeln für die Zuteilung von Rufnummern für Shared Cost-Dienste | Vfg. 34/2004 | 11. 08. 2004 | Reg TP Nr. 16/2004 |
+  | 1.7 Rufnummern für Premium-Dienste |
+  |  | Regeln für die Zuteilung von (0)900-Rufnummern für Premium Rate-Dienste | Vfg. 37/2004 | 11. 08. 2004 | Reg TP Nr. 16/2004 |
+  | 1.8 Persönliche Rufnummern |
+  |  | Regeln für die Zuteilung von Persönlichen Rufnummern | Vfg. 35/2004 | 11. 08. 2004 | Reg TP Nr. 16/2004 |
+  | 1.9 Rufnummern für Nutzergruppen |
+  | 1. | Vorläufige Regeln für die Zuteilung von Rufnummern für Nutzergruppen | Vfg. 23/1997 | 22. 01. 1997 | BMPT Nr. 2/1997 |
+  | 2. | Änderungen der Regeln | Vfg. 12/2004 | 21. 04. 2004 | Reg TP Nr. 8/2004 |
+  | 1.10 Rufnummern für Internationale Virtuelle Private Netze |
+  |  | Strukturierung und Ausgestaltung des Nummernbereichs für Internationale Virtuelle Private Netze | Vfg. 57/2007 | 26. 09. 2007 | BNetzA 19/2007 |
+  | 1.11 Rufnummern für Neuartige Dienste |
+  | 1. | Vorläufige Regeln für die Zuteilung von Rufnummern für innovative Dienste | Vfg. 28/1999 | 10. 03. 1999 | Reg TP Nr. 4/1999 |
+  | 2. | Nutzung (0)12-Rufnummernraum | Vfg. 27/1999 | 10. 03. 1999 | Reg TP Nr. 4/1999 |
+  | 3. | Änderung der vorläufigen Regeln für die Zuteilung von Rufnummern für innovative Dienste | Vfg. 39/2001 | 05. 09. 2001 | Reg TP Nr. 17/2001 |
+  | 1.12 Rufnummern für öffentliche Bündelfunknetze |
+  |  | Vorläufige Regeln für die Zuteilung von Rufnummern für öffentliche Bündelfunknetze | Vfg. 22/2000 | 08. 03. 2000 | Reg TP Nr. 5/2000 |
+  | 1.13 Rufnummern für Dialer (0)9009 |
+  | 1. | Regeln für die Zuteilung von (0)9009er-Rufnummern für über Anwählprogramme erreichbare Premium Rate-Dienste | Vfg. 38/2003 | 13. 08. 2003 | Reg TP Nr. 16/2003 |
+  | 2. | Rufnummerngasse für Dialer | Vfg. 49/2003 | 05. 11. 2003 | Reg TP Nr. 22/2003 |
+  | 1.14 Zielnetzbetreiberkennungen (Routingnummern für IFS) |
+  |  | Regeln für die Zuteilung von Zielnetzbetreiberkennungen zur Generierung von Routingnummern für Internationale Entgeltfreie Mehrwertdienste | Vfg. 1/2004 | 07. 01. 2004 | Reg TP Nr. 1/2004 |
+  | 1.15 Nationale Teilnehmerrufnummern |
+  | 1. | Regeln für die Zuteilung von Nationalen Teilnehmerrufnummern | Vfg. 51/2004 | 24. 11. 2004 | Reg TP Nr. 23/2004 |
+  | 2. | Portierungsdatenaustausch bei Ortsnetzrufnummern und (0)32er Nationalen Teilnehmerrufnummern | Vfg. 43/2005 | 29. 06. 2005 | Reg TP Nr. 12/2005 |
+  | 3. | Nationale Teilnehmerrufnummern; Klarstellung der Antragsberechtigung | Vfg. 42/2005 | 29. 06. 2005 | Reg TP Nr. 12/2005 |
+  | 1.16 Sonstige Nummern und Regelungen |
+  | 1. | Nutzung des Teilbereichs (0)11 des Nummern- raums für öffentliche Telefonnetze | Vfg. 103/1998 | 02. 09. 1998 | Reg TP Nr. 17/1998 |
+  | 2. | Nutzung des durch die Empfehlung E.164 der Internationalen Fernmeldeunion definierten Nummernraums für das öffentliche Telefonnetz/ISDN | Vfg. 36/1999 | 14. 04. 1999 | Reg TP Nr. 6/1999 |
+  | 3. | Der Nummernraum für das öffentliche Telefonnetz/ISDN in Deutschland – zusammenfassende tabellarische Darstellung – | Mit. 659/2000 | 22. 11. 2000 | Reg TP Nr. 22/2000 |
+  | 4. | Nutzung des Nummernraums (0)1D | Vfg. 8/2002 | 03. 04. 2002 | Reg TP Nr. 6/2002 |
+  | 5. | Nutzung des Teilbereichs (0)199 des Nummern- raums für öffentliche Telefonnetze | Vfg. 31/2002 | 16. 10. 2002 | Reg TP Nr. 20/2002 |
+  | 6. | Nutzung des Teilbereichs (0)31 des Nummern- raums für öffentliche Telefonnetze | Vfg. 4/2003 | 05. 02. 2003 | Reg TP Nr. 3/2003 |
+  | 7. | Bereitstellung der Rufnummern 116.116 und (0)116.116 für eine zentrale Anlaufstelle zur Sperrung elektronischer Berechtigungen | Vfg. 45/2004 | 20. 10. 2004 | Reg TP Nr. 21/2004 |
+  | 8. | Bereitstellung der Rufnummern 116.116 und (0)116.116 | Vfg. 61/2004 | 22. 12. 2004 | Reg TP Nr. 25/2004 |
+  | 9. | Nutzung des Teilbereichs (0)1987 des Nummern- raums für öffentliche Telefonnetze | Vfg. 3/2005 | 12. 01. 2005 | Reg TP Nr. 1/2005 |
+  | 10. | Struktur und Ausgestaltung des Nummern- bereichs für Betreiberkennzahlen | Vfg. 23/2006 | 26. 04. 2006 | BNetzA Nr. 8/2006 |
+  | 11. | Strukturierung und Ausgestaltung von Nummernbereichen für harmonisierte Dienste von sozialem Wert | Vfg. 53/2007 | 29. 08. 2007 | BNetzA Nr. 17/2007 |
+2. Sonstige Nummern
+  |  | Nummernressource | Vfg./Mit. | Datum | Amtsblatt |
+  | 2.1 National Signalling Point Codes (NSPC) |
+  | 1. | Vorläufige Regeln für die Zuteilung von National Signalling Point Code (NSPC) | Vfg. 22/1997 | 22. 01. 1997 | BMPT Nr. 2/1997 |
+  | 2. | Änderung der Antragsberechtigung | Vfg. 33/2003 | 16. 07. 2003 | Reg TP Nr. 14/2003 |
+  | 2.2 Portierungskennungen (PK) |
+  | 1. | Vorläufige Regeln für die Zuteilung von Portierungskennungen (PK) | Vfg. 52/1997 | 19. 02. 1997 | BMPT Nr. 5/1997 |
+  | 2. | Zahl der zuteilbaren Kennungen | Vfg. 85/1999 | 14. 07. 1999 | Reg TP Nr. 12/1999 |
+  | 3. | Änderung der Antragsberechtigung | Vfg. 52/2004 | 24. 11. 2004 | Reg TP Nr. 23/2004 |
+  | 2.3 Closed User Group Interlock Codes (CUGIC) |
+  |  | Vorläufige Regeln für die Zuteilung von Closed User Group Interlock Codes | Vfg. 16/1998 | 04. 03. 1998 | Reg TP Nr. 4/1998 |
+  | 2.4 Service Centre Addresses (SCA) |
+  |  | Nutzung des Teilbereichs (0)10 des Nummern- raums für öffentliche Telefonnetze | Vfg. 19/1998 | 04. 03. 1998 | Reg TP Nr. 4/1998 |
+  | 2.5 Tarifierungsreferenzzweige (TRZ) |
+  | 1. | Vorläufige Regeln für die Zuteilung von Tarifierungsreferenzzweigen | Vfg. 37/1999 | 14. 04. 1999 | Reg TP Nr. 6/1999 |
+  | 2. | Frist für die Nutzung von TRZ für Testzwecke | Vfg. 10/2000 | 09. 02. 2000 | Reg TP Nr. 3/2000 |
+  | 3. | Änderung der Antragsberechtigung | Vfg. 34/2003 | 16. 07. 2003 | Reg TP Nr. 14/2003 |
+  | 2.6 Data Network Identification Code (DNIC) |
+  |  | Vorläufiges Vergabeverfahren für die Zuteilung des Data Network Identification Code (DNIC) | Vfg. 118/1992 | 12. 08. 1992 | BMPT Nr. 15/1992 |
+  | 2.7 ADMD – Namen (Administration Management Domain) |
+  |  | Vorläufiges Verfahren zur Notifizierung von öffentlichen Versorgungsbereichen (ADMD) im Mitteilungs-Übermittlungs-System (MHS) | Vfg. 135/1992 | 09. 09. 1992 | BMPT Nr. 17/1992 |
+  | 2.8 International Carrier Codes (ICC) |
+  |  | Notifizierung von International Carrier Codes (ICC) | Vfg. 86/1999 | 14. 07. 1999 | Reg TP Nr. 12/1999 |
+  | 2.9 Objektkennungsäste für Netzbetreiber und Diensteanbieter (OKA-ND) |
+  |  | Vorläufige Regeln für Zuteilung von Objektkennungsästen für Netzbetreiber und Diensteanbieter | Vfg. 149/1999 | 01. 12. 1999 | Reg TP Nr. 22/1999 |
+  | 2.10 Herstellerkennungen für Telematikprotokolle (HKT) |
+  |  | Vorläufige Regeln für die Zuteilung von Herstellerkennungen für Telematikprotokolle | Vfg. 30/2000 | 22. 03. 2000 | Reg TP Nr. 6/2000 |
+  | 2.11 Internationale Kennungen für mobile Endeinrichtungen (IMEI) |
+  |  | Vorläufige Regeln für die Zuteilung von Internationalen Kennungen für mobile Endeinrichtungen | Vfg. 40/2000 | 05. 04. 2000 | Reg TP Nr. 7/2000 |
+  | 2.12 Individuelle TETRA Teilnehmerkennungen (ITSI) |
+  |  | Vorläufige Regeln für die Zuteilung von Individuellen TETRA Teilnehmerkennungen | Vfg. 83/2000 | 06. 12. 2000 | Reg TP Nr. 23/2000 |
+  | 2.13 Internationale Kennungen für Mobile Teilnehmer (IMSI) |
+  | 1. | Vorläufige Regeln für die Zuteilung von Internationalen Kennungen für Mobile Teilnehmer | Vfg. 85/2000 | 06. 12. 2000 | Reg TP Nr. 23/2000 |
+  | 2. | Änderung beim Antragsverfahren und beim Antragsformular | Vfg. 11/2002 | 17. 04. 2002 | Reg TP Nr. 7/2002 |
+  | 3. | Antragsberechtigung in besonders begründeten Fällen | Vfg. 55/2003 | 03. 12. 2003 | Reg TP Nr. 24/2003 |

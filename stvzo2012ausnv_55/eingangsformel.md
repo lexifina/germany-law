@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 6 Absatz 1 Nummer 2 Buchstabe a, c, f, u und x und Nummer 7 sowie Absatz 3 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 1 im Satzteil vor Nummer 1 zuletzt durch Artikel 1 Nummer 6 Buchstabe a Doppelbuchstabe aa des Gesetzes vom 28. November 2014 (BGBl. I S. 1802) und § 6 Absatz 1 Nummer 2 Buchstabe x durch Artikel 1 Nummer 2 Buchstabe a Doppelbuchstabe cc des Gesetzes vom 3. Mai 2005 (BGBl. I S. 1221) eingefügt worden ist, verordnet das Bundesministerium für Verkehr und digitale Infrastruktur nach Anhörung der zuständigen obersten Landesbehörden:

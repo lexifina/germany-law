@@ -1,0 +1,36 @@
+# Anlage 2 (zu § 36)Grenzwerte für Bremsungen
+
+(Fundstelle: BGBl. I 1987, Anlageband zu Nr. 58, S. 3)
+Die Grenzwerte a und s der Tabellen 1 und 2 gelten für leere Fahrzeuge auf geradem, ebenem und trockenem Gleis.
+| a in m/s (hoch) 2 | =Mindestwert der mittleren Bremsverzögerung |
+| s in m | =Höchstwert des Bremsweges zwischen Beginn der Bremsbetätigung und Stillstand |
+| v in km/h | =Ausgangsgeschwindigkeit bei Beginn der Bremsbetätigung |
+| a | v(hoch)2 |
+| =----------------------------- |
+| 3,6 (hoch) 2 x 2 s |
+|  |
+|  |
+| Tabelle 1 |
+|  |
+| Grenzwertebei Ausfall einer Bremse(§ 36 Absatz 3 und 7) |
+| vkm/h | am/s (hoch) 2 | sm |
+| 20 | 0,77 | 20 |
+| 30 | 0,87 | 40 |
+| 40 | 0,95 | 65 |
+| 50 | 1,03 | 94 |
+| 60 | 1,06 | 131 |
+| 70 | 1,07 | 177 |
+| 80 | 1,07 | 230 |
+| 90 | 1,08 | 290 |
+| 100 | 1,09 | 355 |
+|  |
+| Tabelle 2 |
+|  |
+| Grenzwertebei Gefahrbremsungen(§ 36 Absatz 6 Nummer 3) |
+| vkm/h | am/s (hoch) 2 | sm |
+| 20 | 1,71 | 9 |
+| 30 | 2,04 | 17 |
+| 40 | 2,29 | 27 |
+| 50 | 2,47 | 39 |
+| 60 | 2,57 | 54 |
+| 70 | 2,73 | 69 |

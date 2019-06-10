@@ -1,0 +1,3 @@
+# Art 3 Aufhebung des RIAS Berlin Statuts
+
+Das Statut des Senders RIAS Berlin vom 1. Januar 1973 wird gemäß Artikel 2 des Übereinkommens zur Regelung bestimmter Fragen in bezug auf Berlin vom 25. September 1990 in Verbindung mit Artikel 1 der Verordnung zu dem Übereinkommen vom 28. September 1990 (BGBl. II S. 1273) aufgehoben.

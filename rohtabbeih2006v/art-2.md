@@ -1,0 +1,3 @@
+# Art 2
+
+Diese Verordnung tritt am Tage nach der Verkündung in Kraft.

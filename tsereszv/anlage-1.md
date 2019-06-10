@@ -1,0 +1,32 @@
+# Anlage 1 (zu § 1 Abs. 2)
+
+Fundstelle des Originaltextes: BGBl. I 2005, 3030
+1. Alpines Steinschaf
+2. Bentheimer Landschaf
+3. Braunes Bergschaf
+4. Weißes Bergschaf
+5. Blauköpfiges Fleischschaf
+6. Coburger Fuchsschaf
+7. Dorper
+8. Graue Gehörnte Heidschnucke
+9. Ile de France
+10. Kärntner Brillenschaf
+11. Leineschaf
+12. Leineschaf ursprünglicher Typ
+13. Merinofleischschaf
+14. Merinolandschaf
+15. Merinolangwollschaf
+16. Nolana
+17. Ostfriesisches Milchschaf (schwarz)
+18. Ostfriesisches Milchschaf (weiß)
+19. Rhönschaf
+20. Rauhwolliges Pommersches Landschaf
+21. Schwarzköpfiges Fleischschaf
+22. Skudde
+23. Shropshire
+24. Suffolk
+25. Texel
+26. Waldschaf
+27. Weiße Gehörnte Heidschnucke
+28. Weiße Hornlose Heidschnucke
+29. Weißköpfiges Fleischschaf

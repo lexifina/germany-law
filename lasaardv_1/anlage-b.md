@@ -1,0 +1,17 @@
+# Anlage B (zu § 2 Abs. 2 Nr. 2)
+
+Fundstelle des Originaltextes: BGBl. I 1961, 1649
+Bebaute Grundstücke
+Wertanteil des Grund und Bodens am Einheitswert des bebauten Grundstücks
+| Bewertungsbezirk der durchgeführten Einheitsbewertung | Geschäftsgrundstücke, gemischtgenutzte Grundstücke | Mietwohngrundstücke | Einfamilienhäuser | Sonstige bebaute Grundstücke |
+| an Hauptgeschäftsstraßen | an Geschäftsstraßen | im übrigen | Gruppe der Krankenhäuser, Altersheime, Klubhäuser | Gruppe der Wochenendhäuser, Wohnlauben |
+| Hundertsätze des Einheitwerts vor Eintritt des Kriegssachschadens |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| I | 40 | 30 | 20 | 15 | 15 | 15 | 90 |
+| (Saarbrücken) |  |  |  |  |  |  |  |
+| II |  |  |  |  |  |  |  |
+| sowie Neunkirchen | - | 35 | 20 | 15 | 15 | 15 | 90 |
+| im übrigen | - | - | 15 | 12 | 12 | 12 | 90 |
+| III | - | - | 12 | 10 | 10 | 10 | 90 |
+| IV |  |  |  |  |  |  |  |
+| und im übrigen | - | - | 8 | 6 | 6 | 6 | 90 |

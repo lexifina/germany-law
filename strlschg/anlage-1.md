@@ -1,0 +1,18 @@
+# Anlage 1 (zu § 5 Absatz 32)Rückstände nach § 5 Absatz 32
+
+Rückstände im Sinne dieses Gesetzes sind die folgenden Materialien:
+1. Schlämme und Ablagerungen aus der Gewinnung, Verarbeitung und Aufbereitung von Erdöl und Erdgas und aus der Tiefengeothermie;
+2. Kiese, Sande, Harze und Kornaktivkohle aus der Grundwasseraufbereitung;
+3. nicht aufbereitete Phosphorgipse, Schlämme aus deren Aufbereitung sowie Stäube und Schlacken aus der Verarbeitung von Rohphosphat (Phosphorit);
+4. Nebengestein, Schlämme, Sande, Schlacken und Stäube
+  a) aus der Gewinnung und Aufbereitung von Bauxit, Columbit, Pyrochlor, Mikrolyth, Euxenit, Kupferschiefer-, Zinn-, Seltene-Erden- und Uranerzen,
+  b) aus der Weiterverarbeitung von Konzentraten und Rückständen, die bei der Gewinnung und Aufbereitung dieser Erze und Mineralien anfallen;
+5. Materialien, die den in Nummer 4 genannten Erzen entsprechen und die bei der Gewinnung und Aufbereitung anderer Rohstoffe anfallen;
+6. Stäube und Schlämme aus der Rauchgasreinigung bei der Primärverhüttung in der Roheisen- und Nichteisenmetallurgie.
+Rückstände im Sinne dieses Gesetzes sind auch
+1. Materialien nach Satz 1, wenn das Anfallen dieser Materialien zweckgerichtet herbeigeführt wird,
+2. Formstücke aus den in Satz 1 genannten Materialien sowie
+3. ausgehobener oder abgetragener Boden und Bauschutt aus dem Abbruch von Gebäuden oder sonstigen baulichen Anlagen, wenn dieser Boden und Bauschutt Rückstände nach Satz 1 enthält und gemäß § 64 nach der Beendigung von Tätigkeiten oder gemäß § 141 von Grundstücken entfernt wird.
+Keine Rückstände im Sinne dieses Gesetzes sind Materialien nach Satz 1,
+1. deren spezifische Aktivität für jedes Radionuklid der Nuklidketten U-238sec und Th-232sec unter 0,2 Becquerel durch Gramm (Bq/g) liegt und die nicht als Bauprodukte verwertet werden, oder
+2. die in dort genannte technologische Prozesse als Rohstoffe eingebracht werden.

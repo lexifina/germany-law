@@ -1,0 +1,35 @@
+# Anlage 4 (zu § 18 Absatz 2)
+
+Rückseite der Wahlbenachrichtigung
+| Wahlscheinantrag (Wahlscheinantrag bitte bei der Gemeindebehörde abgeben oder bei Postversand im frankierten Umschlag absenden) |
+|  |  |  |  |  |
+|  | Wahlscheinantrag nur ausfüllen, unterschreiben und absenden, wenn Sie nicht in Ihrem Wahlraum, sondern in einem anderen Wahlbezirk Ihres Kreises/Ihrer kreisfreien Stadt oder durch Briefwahl wählen wollen. |  | Für amtliche Vermerke |
+| An die Gemeindebehörde........................................ |
+| Antrag auf Erteilung eines Wahlscheins |
+| für die umseitig angegebene Wahl2).......... |
+| (Nachstehende Angaben bitte in Druckschrift) |
+| Ich beantrage die Erteilung eines Wahlscheins ⃞ für mich | Ich beantrage die Erteilung eines Wahlscheins | ⃞ für mich | ⃞ für mich |  | ⃞ als Vertreter für nebenstehend genannte Person. Eine schriftliche Vollmacht oder beglaubigte Abschrift zum Nachweis meiner Berechtigung zur Antragstellung füge ich diesem Antrag bei. Die Vollmacht kann mit diesem Formular erteilt werden (siehe erstes Kästchen unten). |
+| Familienname: .......... |
+| Vornamen: .......... |
+| Geburtsdatum: .......... |
+| Anschrift: .......... |
+| .......... (Straße, Hausnummer, Postleitzahl, Ort) |
+| Der Wahlschein mit den Briefwahlunterlagen3) |
+| ⃞ soll an meine obige Anschrift geschickt werden. |
+| ⃞ soll an mich an folgende Anschrift geschickt werden: |
+| .......... (Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Ort, ggf. Staat) |
+| ⃞ wird abgeholt. |
+|  | .......... (Datum) (Unterschrift des Wahlberechtigten oder – bei Vertretung – des Bevollmächtigten) |  |
+|  | Vollmacht des Wahlberechtigten |  |
+|  | Ich bevollmächtige3) |  |
+|  | ⃞ zur Stellung des Antrags auf Erteilung eines Wahlscheins |  |
+|  | ⃞ zur Abholung des Wahlscheins mit Briefwahlunterlagen |  |
+|  | .......... (Vor- und Familienname, Straße, Hausnummer, Postleitzahl, Ort) |  |
+|  | Mir ist bekannt, dass der Wahlschein mit den Briefwahlunterlagen durch die von mir benannte Person nur abgeholt werden darf, wenn eine schriftliche Vollmacht vorliegt (die Eintragung der bevollmächtigten Person in diesen Antrag genügt) und von der bevollmächtigten Person nicht mehr als vier Wahlberechtigte vertreten werden. |  |
+|  | .......... (Datum)(Unterschrift des Wahlberechtigten) | .......... (Datum) | (Unterschrift des Wahlberechtigten) | (Unterschrift des Wahlberechtigten) |  |  |
+|  |  |  |
+|  | Erklärung des Bevollmächtigten (nicht vom Wahlberechtigten auszufüllen) |  |
+|  | Hiermit versichere ich .......... | ......................................(Name, Vorname) |  |
+|  | dass ich nicht mehr als vier Wahlberechtigte bei der Empfangnahme vertrete und bestätige den Erhalt der Unterlagen. |  |
+|  | .......... (Datum)(Unterschrift des Bevollmächtigten) | .......... (Datum) | (Unterschrift des Bevollmächtigten) | (Unterschrift des Bevollmächtigten) |  |  |
+|  |  |  |

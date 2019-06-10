@@ -1,0 +1,17 @@
+# Verordnung über die Prüfungs- und Nachweismodalitäten für die Abschlusstests des Integrationskurses
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Anmeldung und Teilnahme](0002.md)
+- [§ 3 Prüfungsumfang und Prüfungsdauer](0003.md)
+- [§ 4 Prüfungsunterlagen](0004.md)
+- [§ 5 Ausschluss der Öffentlichkeit](0005.md)
+- [§ 6 Überprüfung der Identität](0006.md)
+- [§ 7 Aufsicht und Protokoll](0007.md)
+- [§ 8 Ausschluss von der Prüfung](0008.md)
+- [§ 9 Rücktritt, Abbruch und Wiederholung der Prüfung](0009.md)
+- [§ 10 Bewertung der Prüfungsergebnisse](0010.md)
+- [§ 11 Einsichtnahme](0011.md)
+- [§ 12 Verschwiegenheit](0012.md)
+- [§ 13 Archivierung](0013.md)
+- [§ 14 Inkrafttreten](0014.md)

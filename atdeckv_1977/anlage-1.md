@@ -1,0 +1,16 @@
+# Anlage 1 Regeldeckungssumme bei Kernbrennstoffen in Millionen Euro
+
+Fundstelle des Originaltextes: BGBl. I 2001, 2338
+| Masse der Kernbrennstoffe | Plutonium | Uran 233 | über 20% mit Uran 235 angereichertes Uran | bis einschließlich 20% mit Uran 235 angereichertes Uran | Natürliches Uran, das Kernbrennstoff ist |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| bis 10 g | 0,5 | 0,25 | - | - | Für eine über die Freigrenzen hinausgehende Masse
+ 1. bis zu 10 Tonnen 0,5 je angefangene Tonne,
+ 2. über 10 bis zu 100 Tonnen 0,125 je angefangene weitere Tonne,
+ 3. über 100 Tonnen 0,0125 je angefangene weitere Tonne
+ bis zu einem Höchstbetrag von 50, im Falle der Beförderung von 25. |
+| über 10 g bis 100 g | 1,0 | 0,5 | - | - |
+| über 100 g bis 200 g | 1,5 | 1,0 | - | - |
+| über 200 g bis 1 kg | 5,0 | 5,0 | 2,5 | 0,5 |
+| über 1 kg bis 100 kg für jedes weitere angefangene Kilogramm | 0,5 | 0,5 | 0,15 | 0,05 |
+| über 100 kg bis 1.000 kg für jede weiteren angefangenen 10 Kilogramm | 1,0 | 1,0 | 0,3 | 0,15 |
+| über 1.000 kg für jede weiteren angefangenen 100 Kilogramm | 5,0 | 5,0 | 0,75 | 0,15 |

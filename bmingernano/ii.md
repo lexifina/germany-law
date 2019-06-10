@@ -1,0 +1,3 @@
+# II.
+
+Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von diesem Zeitpunkt an ist die Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung vom 6. Mai 2003 (BGBl. I S. 678) nicht mehr anzuwenden, soweit sie Regelungen für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche Aufklärung, des Deutschen Instituts für medizinische Dokumentation und Information, des Bundesinstituts für Arzneimittel und Medizinprodukte, des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.

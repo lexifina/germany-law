@@ -1,0 +1,67 @@
+# Anlage (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung Fachkraft
+für Lebensmitteltechnik
+
+(Fundstelle: BGBl. I 2000, 118 - 120)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | zu vermittelnde Fertigkeiten und Kenntnisse | Zeitliche Richtwerte in Wochen im Ausbildungsjahr |
+| 1 | 2 | 3 |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 3 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 3 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes, wie Beschaffung, Fertigung, Absatz und Verwaltung, erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 3 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 3 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | betriebliche und technische Kommunikation (§ 3 Nr. 5) | a) | Betriebsanleitungen und -anweisungen anwenden | 4 |  |  |  |
+| b) | arbeitsbezogene Berichte anfertigen |  |  |  |  |
+| c) | Informationen beschaffen, bewerten und austauschen |  |  | 3 |  |
+| d) | betriebliche Informationssysteme nutzen |  |  |  | 3 |
+| e) | situationsgerechte Gespräche im Arbeitsumfeld führen und betriebliche Präsentationstechniken anwenden |
+| 6 | Qualitätsmanagement (§ 3 Nr. 6) | a) | Bedeutung und Struktur des Qualitätsmanagements darstellen | 6 |  |  |  |
+| b) | rechtliche und betriebsbezogene Vorgaben des Qualitätsmanagements anwenden |
+| c) | Grundsätze und Vorschriften der Personal-, Produkt- und Betriebshygiene anwenden |
+| d) | Proben nehmen und analytische Untersuchungen durchführen |  | 6 |  |  |
+| e) | Roh-, Zusatz-, Hilfsstoffe, Halbfabrikate und Fertigprodukte auf Menge, Gewicht und Beschaffenheit prüfen |
+| f) | Verpackungsmaterialien prüfen |
+| g) | Arbeitsergebnisse kontrollieren und bewerten |  |  |  | 6 |
+| h) | Kontrollergebnisse dokumentieren und sichern |
+| 7 | Auftragsannahme, Arbeitsplanung und -Organisation (§ 3 Nr. 7) | a) | Arbeitsauftrag in Arbeitsschritte gliedern | 2 |  |  |  |
+| b) | Arbeitsmittel auswählen und Sicherungsmaßnahmen festlegen |
+| c) | Materialbedarf ermitteln, bestellen und annehmen |  | 2 |  |  |
+| d) | Arbeitszeit und Personaleinsatz unter Berücksichtigung von Team- und Gruppenarbeit planen |  |  | 2 |  |
+| e) | Arbeitsplatz unter Berücksichtigung des Gesamtarbeitsablaufs einrichten |  |  |  | 4 |
+| f) | Arbeitsplatz technisch einrichten, Personal anforderungsgerecht einsetzen |
+| 8 | Bereitstellen und Vorbereiten von Roh-, Zusatz-, Hilfsstoffen und Halbfabrikaten (§ 3 Nr. 8) | a) | Roh-, Zusatz-, Hilfsstoffe und Halbfabrikate unter wirtschaftlichen und fertigungstechnischen Gesichtspunkten bereitstellen | 10 |  |  |  |
+| b) | Roh-, Zusatz-, Hilfsstoffe und Halbfabrikate nach Rezepturen für die Fertigung vorbereiten |
+| 9 | Steuern von Produktionsprozessen (§ 3 Nr. 9) | a) | Produktionsmaschinen und -anlagen rüsten, in Betrieb nehmen und bedienen |  |  | 14 |  |
+| b) | Produktionsmaschinen und -anlagen umrüsten, in Betrieb nehmen und bedienen |
+| c) | Produktionsprozesse unter Berücksichtigung verfahrenstechnischer und betriebsbezogener Vorschriften steuern und überwachen |  |  |  | 14 |
+| d) | Störungen im Produktionsprozess feststellen und nach rechtlichen und betriebsbezogenen Vorgaben Maßnahmen ergreifen |  |  |  | 11 |
+| 10 | Bereitstellen und Einsetzen von Verpackungsmaterialien sowie Verpacken von Produkten (§ 3 Nr. 10) | a) | Verpackungsmaterialien und Fertigprodukte nach wirtschaftlichen und fertigungstechnischen Gesichtspunkten bereitstellen | 14 |  |  |  |
+| b) | Verpackungsmaschinen und -anlagen rüsten, in Betrieb nehmen und bedienen |
+| c) | Verpackungsmaschinen und -anlagen umrüsten, in Betrieb nehmen und bedienen |  | 14 |  |  |
+| d) | Verpackungstechniken anwenden |
+| e) | Verpackungsprozesse steuern und überwachen |  |  |  | 14 |
+| f) | Störungen im Verpackungsprozess feststellen und nach rechtlichen und betriebsbezogenen Vorgaben Maßnahmen ergreifen |
+| 11 | Lagern von Materialien und Produkten (§ 3 Nr. 11) | a) | Roh-, Zusatz-, Hilfsstoffe, Halbfabrikate und Fertigprodukte qualitätserhaltend nach | 10 |  |  |  |
+| b) | logistischen Gesichtspunkten lagern Verpackungsmaterialien ihren Eigenschaften gemäß lagern |
+| c) | Lagerbestandskontrollen durchführen |  |  | 3 |  |
+| d) | Inventur durchführen |
+| 12 | Reinigen, Pflegen und Warten von Geräten, Maschinen und Anlagen (§ 3 Nr. 12) | a) | Geräte, Maschinen und Anlagen reinigen und pflegen | 6 |  |  |  |
+| b) | Maschinen und Anlagen begleitend warten |  | 4 |  |  |
+| c) | Wartungspläne erstellen |  |  | 4 |  |
+| d) | vorbeugende Wartung durchführen |
+| e) | Instandhaltungsmaßnahmen veranlassen |

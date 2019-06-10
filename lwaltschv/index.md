@@ -1,0 +1,30 @@
+# Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Angemessenheit der Vergütungen](0001.md)
+- [§ 2 Vorzulegende Unterlagen](0002.md)
+- [§ 3 Allgemeine Grundsätze zur Ermittlung des Ablösebetrages](0003.md)
+- [§ 4 Ermittlung des Barwertes der zukünftigen Zahlungen aus Gewinn](0004.md)
+- [§ 5 Ermittlung des Barwertes der zukünftigen Zahlungen aus der
+Veräußerung nicht betriebsnotwendigen Vermögens](0005.md)
+- [§ 6 Berücksichtigung noch ausstehender Zahlungsverpflichtungen aus der
+Rangrücktrittsvereinbarung](0006.md)
+- [§ 7 Ermittlung des Mindestablösebetrages nach § 7 Abs. 1 Satz 4 des
+Landwirtschafts-Altschuldengesetzes](0007.md)
+- [§ 8 Barwertberechnung](0008.md)
+- [§ 9 Verfahrensgrundsätze zur Bestimmung des Ablösebetrages](0009.md)
+- [§ 10 Inkrafttreten](0010.md)
+- [Anhang (zu § 2 Abs. 1 LwAltschV - Kalenderjahr)](anhang.md)
+- [Anlage 1](anlage-1.md)
+- [Anlage 2](anlage-2.md)
+- [Anlage 3](anlage-3.md)
+- [Anlage 4.1](anlage-4-1.md)
+- [Anlage 4.2](anlage-4-2.md)
+- [Anlage 4.3](anlage-4-3.md)
+- [Anhang (zu § 2 Abs. 1 LwAltschV - Wirtschaftsjahr)](anhang-2.md)
+- [Anlage 1](anlage-1-2.md)
+- [Anlage 2](anlage-2-2.md)
+- [Anlage 3](anlage-3-2.md)
+- [Anlage 4.1](anlage-4-1-2.md)
+- [Anlage 4.2](anlage-4-2-2.md)
+- [Anlage 4.3](anlage-4-3-2.md)

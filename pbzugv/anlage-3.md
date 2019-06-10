@@ -1,0 +1,42 @@
+# Anlage 3 (zu § 3 und § 7)
+
+Sachgebiete für Unternehmer des Taxen- und Mietwagenverkehrs
+A. Sachgebiete, deren Kenntnis für innerstaatliche Beförderungen notwendig ist
+  1. Recht
+    Berufsbezogenes Recht auf folgenden Gebieten:
+  1.1 Personenbeförderungsrecht
+    einschließlich der Tarifbildung im Taxen- und Mietwagenverkehr
+  1.2 Straßenverkehrsrecht
+    Der Bewerber muss insbesondere
+    a) die erforderlichen Qualifikationen des Fahrpersonals (Fahrerlaubnis, ärztliche Bescheinigungen, Befähigungszeugnisse);
+    b) die Vorschriften über die Kindersicherungspflicht
+    kennen.
+  1.3 Arbeitsrecht
+    Der Bewerber muss insbesondere das Arbeitszeitgesetz und die Lenk- und Ruhezeiten des Fahrpersonals im Straßenverkehr kennen.
+  1.4 Sozialversicherungsrecht
+  1.5 Grundzüge des Beförderungsvertragsrechts
+  1.6 Grundzüge des Steuerrechts
+    Der Bewerber muss insbesondere die Vorschriften für folgende Steuern kennen:
+    a) die Umsatzsteuer auf Verkehrsleistungen, insbesondere die Ausstellung von Rechnungen und Quittungen;
+    b) die Kraftfahrzeugsteuern;
+    c) die Einkommensteuer und die Gewerbesteuer.
+  2. Kaufmännische und finanzielle Führung des Betriebs
+  2.1 Zahlungsverkehr
+  2.2 Beförderungsentgelte und -bedingungen (Tarife)
+  2.3 Ermittlung der Finanz- und Rentabilitätslage eines Taxen- und Mietwagenunternehmens
+  2.4 Buchführung
+    Der Bewerber muss insbesondere
+    - ein Kassenbuch führen können;
+    - Kenntnisse über die Ermittlung des Gewinns durch eine Betriebseinnahmen-/-ausgaben-Überschussrechnung im Sinne des § 4 Abs. 3 Einkommensteuergesetz haben.
+  2.5 Versicherungswesen
+  3. Technischer Betrieb und Betriebsdurchführung, insbesondere
+    - Zulassung und Betrieb von Fahrzeugen
+    - Ausrüstung und Beschaffenheit der Fahrzeuge
+    - Instandhaltung und Untersuchung der Fahrzeuge
+    - Bereitstellung der Fahrzeuge
+    - Fernsprech- und Funkverkehr.
+  4. Straßenverkehrssicherheit, Unfallverhütung sowie Grundregeln des Umweltschutzes bei der Verwendung und Wartung der Fahrzeuge
+B. Sachgebiete, deren zusätzliche Kenntnis für grenzüberschreitende Beförderungen erforderlich ist, soweit solche Beförderungen im Bezirk des Prüfungsausschusses bedeutsam sind
+  5.1 Berufsbezogenes Personenbeförderungsrecht, das im Verkehr mit benachbarten Staaten gilt
+  5.2 Paß- und zollrechtliche Vorschriften, die für den internationalen Taxen- und Mietwagenverkehr wichtig sind
+  5.3 Beförderungsdokumente.

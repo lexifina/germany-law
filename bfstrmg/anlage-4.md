@@ -1,0 +1,17 @@
+# Anlage 4 (zu § 14 Absatz 3)Mautsätze im Zeitraum vom 1. Januar 2009 bis zum Ablauf des 31. Dezember 2014
+
+1. Die Maut pro Kilometer beträgt für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen mit bis zu drei Achsen
+  a) 0,141 Euro in der Kategorie A,
+  b) 0,169 Euro in der Kategorie B,
+  c) 0,190 Euro in der Kategorie C,
+  d) 0,274 Euro in der Kategorie D.
+2. Die Maut pro Kilometer beträgt für mautpflichtige Fahrzeuge oder Fahrzeugkombinationen mit vier oder mehr Achsen
+  a) 0,155 Euro in der Kategorie A,
+  b) 0,183 Euro in der Kategorie B,
+  c) 0,204 Euro in der Kategorie C,
+  d) 0,288 Euro in der Kategorie D.
+3. Fahrzeuge nach § 1 Absatz 1 werden den in den Nummern 1 und 2 aufgeführten Kategorien auf Grund ihrer Emissionsklasse nach § 48 in Verbindung mit Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung wie folgt zugeordnet:
+  | Kategorie A | Fahrzeuge der EEV Klasse 1 und der Schadstoffklasse S 5, |
+  | Kategorie B | Fahrzeuge der Schadstoffklasse S 4 sowie Fahrzeuge der Schadstoffklasse S 3, die der Partikelminderungsklasse PMK 2 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören, |
+  | Kategorie C | Fahrzeuge der Schadstoffklasse S 3 sowie Fahrzeuge der Schadstoffklasse S 2, die der Partikelminderungsklasse PMK 1 oder höher im Sinne der Anlage XXVII der Straßenverkehrs-Zulassungs-Ordnung angehören, |
+  | Kategorie D | Fahrzeuge der Schadstoffklassen S 2, S 1 sowie Fahrzeuge, die keiner Schadstoffklasse der Anlage XIV der Straßenverkehrs-Zulassungs-Ordnung angehören. |

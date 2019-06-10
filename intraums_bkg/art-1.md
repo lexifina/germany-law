@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Washington am 29. Januar 1998 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zwischen der Regierung Kanadas, Regierungen von Mitgliedstaaten der Europäischen Weltraumorganisation, der Regierung Japans, der Regierung der Russischen Föderation und der Regierung der Vereinigten Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation und dem Briefwechsel der Verhandlungsleiter vom 26. Januar 1998 zur Auslegung des Übereinkommens wird zugestimmt. Das Übereinkommen und der Briefwechsel werden nachstehend veröffentlicht.

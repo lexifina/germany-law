@@ -1,0 +1,15 @@
+# Verordnung über die Meisterprüfung in den Teilen I und II im Schneidwerkzeugmechaniker-Handwerk
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Gegenstand](0001.md)
+- [§ 2 Meisterprüfungsberufsbild](0002.md)
+- [§ 3 Ziel und Gliederung des Teils I](0003.md)
+- [§ 4 Meisterprüfungsprojekt](0004.md)
+- [§ 5 Fachgespräch](0005.md)
+- [§ 6 Situationsaufgabe](0006.md)
+- [§ 7 Prüfungsdauer und Bestehen des Teils I](0007.md)
+- [§ 8 Ziel, Gliederung und Inhalt des Teils II](0008.md)
+- [§ 9 Prüfungsdauer und Bestehen des Teils II](0009.md)
+- [§ 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung](0010.md)
+- [§ 11 Übergangsvorschrift](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)

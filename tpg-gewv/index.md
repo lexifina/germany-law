@@ -1,0 +1,18 @@
+# Verordnung über die Anforderungen an Qualität und Sicherheit der Entnahme von Geweben und deren Übertragung nach dem Transplantationsgesetz
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Anforderungen an die Entnahme von Geweben](0002.md)
+- [§ 3 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des Spenders](0003.md)
+- [§ 4 Anforderungen an Laboruntersuchungen und Untersuchungsverfahren](0004.md)
+- [§ 5 Anforderungen an Spenderakte und Entnahmebericht](0005.md)
+- [§ 6 Voraussetzungen für die Verwendung von Keimzellen im Rahmen von Maßnahmen einer medizinisch unterstützten Befruchtung](0006.md)
+- [§ 7 Dokumentation von übertragenen Geweben durch Einrichtungen der medizinischen Versorgung](0007.md)
+- [§ 8 Meldung schwerwiegender Zwischenfälle durch Einrichtungen der medizinischen Versorgung](0008.md)
+- [§ 9 Meldung schwerwiegender unerwünschter Reaktionen durch Einrichtungen der medizinischen Versorgung](0009.md)
+- [§ 10 Inkrafttreten](0010.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des toten Spenders nach § 3 Abs. 1](anlage-1.md)
+- [Anlage 2 Anforderungen an die ärztliche Beurteilung der medizinischen Eignung des lebenden Spenders nach § 3 Abs. 2](anlage-2.md)
+- [Anlage 3 Erforderliche Laboruntersuchungen und Untersuchungsverfahren nach § 4](anlage-3.md)
+- [Anlage 4 Erforderliche Laboruntersuchungen für die Verwendung von Keimzellen nach § 6](anlage-4.md)

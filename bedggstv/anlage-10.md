@@ -1,0 +1,18 @@
+# Anlage 10 (zu § 11)Verfahren zur Untersuchung bestimmter Bedarfsgegenstände
+
+|  |
+| Lfd. Nr. | Untersuchung | Verfahren |
+| 1 | 2 | 3 |
+| 1. | (weggefallen) |  |
+| 2. | Bestimmung der Höchstmengen von Blei und Cadmium, die von Lebensmittelbedarfsgegenständen aus Keramik auf Lebensmittel übergehen dürfen | Grundregeln und Analysenmethode, die in den Anhängen I und II der Richtlinie 84/500/EWG des Rates vom 15. Oktober 1984 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Keramikgegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (ABl. EG Nr. L 277 S. 12), geändert durch die Richtlinie 2005/31/EG der Kommission vom 29. April 2005 (ABl. EU Nr. L 110 S. 36), genannt sind. |
+| 3. | Bestimmung des Vinylchloridgehaltes bei Bedarfsgegenständen aus Vinylchloridpolymerisaten | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches 1) unter der Gliederungsnummer B 80.32-1 (EG), Stand November 1981, veröffentlicht ist |
+| 4. | (weggefallen) |  |
+| 5a. | Referenzprüfverfahren zur Bestimmung der Nickellässigkeit bei Bedarfsgegenständen im Sinne der Anlage 5a Nr. 1 bis 3 dieser Verordnung | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 6 (DIN EN 1811), Stand Oktober 1999, veröffentlicht ist |
+| 5b. | Simulierte Abrieb- und Korrosionsprüfung zum Nachweis der Nickelabgabe von mit Beschichtungen versehenen Bedarfsgegenständen im Sinne der Anlage 5a Nr. 2 dieser Verordnung | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches unter der Gliederungsnummer B 82.02 - 7 (DIN EN 12 472), Stand Oktober 1999, veröffentlicht ist |
+| 6. | Bestimmung der Abgabe von N-Nitrosaminen und in N-Nitrosamine umsetzbaren Stoffen aus Beruhigungs- und Flaschensaugern aus Elastomeren oder Gummi, Spielzeug und Luftballons aus Natur- oder Synthesekautschuk in eine Testlösung | Analysenmethode, die in den Anhängen I und II der Richtlinie 93/11/EWG der Kommission vom 15. März 1993 über die Freisetzung von N-Nitrosaminen und N-nitrosierbaren Stoffen aus Flaschen- und Beruhigungssaugern aus Elastomeren oder Gummi (ABl. EG Nr. L 93 S. 37) genannt ist, oder eine andere validierte Methode, mit der mindestens die folgenden Mengen bestimmt werden können: - 0,01 mg der insgesamt freigesetzten N-Nitrosamine/kg (Elastomer- oder Gummiteile der Materialproben), - 0,1 mg aller N-nitrosierbaren Stoffe/kg (Elastomer- oder Gummiteile der Materialproben) |
+| 7. | Nachweis der Verwendung verbotener Azofarbstoffe | Analysenmethode, die im Anhang I Nr. 43 der Richtlinie 76/769/EWG des Rates vom 27. Juli 1976 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten für Beschränkungen des Inverkehrbringens und der Verwendung gewisser gefährlicher Stoffe und Zubereitungen (ABl. EG Nr. L 262 S. 201), geändert durch die Richtlinie 2004/21/EG der Kommission vom 24. Februar 2004 (ABl. EU Nr. L 57 S. 4), genannt ist. |
+| 8. | Bestimmung des Gehaltes von Chrom(VI) | Analysenmethode, die in der Amtlichen Sammlung von Untersuchungsverfahren nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzes unter der Gliederungsnummer B 82.02-11, Stand 2008-10, veröffentlicht ist. |
+|  |
+1) Zu beziehen durch Beuth-Verlag GmbH, Berlin und Köln.
+2) (weggefallen)
+3) (weggefallen)

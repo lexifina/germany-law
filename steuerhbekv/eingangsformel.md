@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 51 Absatz 1 Nummer 1 Buchstabe f des Einkommensteuergesetzes, des § 33 Absatz 1 Nummer 2 Buchstabe e des Körperschaftsteuergesetzes und des Artikels 97 § 22 Absatz 2 des Einführungsgesetzes zur Abgabenordnung, von denen § 51 Absatz 1 Nummer 1 Buchstabe f des Einkommensteuergesetzes durch Artikel 1, § 33 Absatz 1 Nummer 2 Buchstabe e des Körperschaftsteuergesetzes durch Artikel 2 und Artikel 97 § 22 Absatz 2 des Einführungsgesetzes zur Abgabenordnung durch Artikel 4 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2302) eingefügt worden ist, verordnet die Bundesregierung:

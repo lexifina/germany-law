@@ -1,0 +1,3 @@
+# (XXXX)
+
+Der Reichstag hat bei der Beschlußfassung über das Gesetz über den Staatsvertrag, betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich, vom 29. Juli 1921 (Reichsgesetzbl. S. 961) als dessen Anlagen außer den bereits verkündeten auch die folgenden beschlossen, die mit Zustimmung des Reichsrats hiermit verkündet werden.

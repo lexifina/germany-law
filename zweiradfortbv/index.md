@@ -1,0 +1,16 @@
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Zweirad-Servicetechniker – nichtmotorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – nichtmotorisierte Zweiradtechnik und Geprüfter Zweirad-Servicetechniker – motorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – motorisierte Zweiradtechnik
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Ziel der Prüfung und Bezeichnung des Abschlusses](0001.md)
+- [§ 2 Zulassungsvoraussetzungen](0002.md)
+- [§ 3 Struktur der Prüfungsinhalte](0003.md)
+- [§ 4 Durchführung der Prüfung](0004.md)
+- [§ 5 Prüfungsinhalte im Handlungsbereich „Technik“](0005.md)
+- [§ 6 Prüfungsinhalte im Handlungsbereich „Organisation, Kooperation und Kommunikation“](0006.md)
+- [§ 7 Bewerten der Prüfungsleistungen und Bestehen der Prüfung](0007.md)
+- [§ 8 Anrechnung anderer Prüfungsleistungen](0008.md)
+- [§ 9 Wiederholung der Prüfung](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Anlage 1 (zu § 7 Absatz 4)Muster](anlage-1.md)
+- [Anlage 2 (zu § 7 Absatz 4)Muster](anlage-2.md)

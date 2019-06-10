@@ -1,0 +1,10 @@
+# Gesetz zu dem Zusatzabkommen vom 5. November 2002 zum Abkommen vom
+11. April 1967 zwischen der Bundesrepublik Deutschland und dem Königreich
+Belgien zur Vermeidung der Doppelbesteuerungen und zur Regelung verschiedener
+anderer Fragen auf dem Gebiete der Steuern vom Einkommen und vom Vermögen
+einschließlich der Gewerbesteuer und der Grundsteuern
+
+- [Eingangsformel](eingangsformel.md)
+- [Art 1](art-1.md)
+- [Art 2](art-2.md)
+- [Art 3](art-3.md)

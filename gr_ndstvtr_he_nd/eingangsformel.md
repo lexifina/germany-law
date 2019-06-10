@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Zur Beendigung der staatsrechtlichen Trennung geschlossener Siedlungen im Interesse der Einwohner und Gemeinden sowie um einen zweckmäßigen Verlauf der gemeinsamen Landesgrenze herbeizuführen, wird zwischen dem Land Hessen und dem Land Niedersachsen nach Anhörung der betroffenen kommunalen Gebietskörperschaften aufgrund des Artikels 29 Abs. 7 des Grundgesetzes in Verbindung mit § 2 Abs. 1 des Gesetzes über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes (G Artikel 29 Abs. 7) vom 30. Juli 1979 (BGBl. I S. 1325) folgender Staatsvertrag über die Änderung der gemeinsamen Landesgrenze geschlossen:

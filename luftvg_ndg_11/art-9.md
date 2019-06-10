@@ -1,0 +1,3 @@
+# Art 9 Übergangsregelung
+
+Die Form und die Abmessungen bisher bestehender, von diesem Gesetz abweichender Bauschutzbereiche richten sich ab dem 1. Februar 1999 nach den Vorschriften des Luftverkehrsgesetzes über den Bauschutzbereich. Die §§ 16, 16a, 18, 19 des Luftverkehrsgesetzes finden Anwendung. Die zuständige Luftfahrtbehörde kann auf Antrag des Flugplatzunternehmers den bisherigen Bauschutzbereich abweichend von Satz 1 aufrechterhalten, soweit öffentliche Interessen nicht entgegenstehen.

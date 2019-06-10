@@ -1,0 +1,16 @@
+# Anlage 13 (zu § 64)
+
+Fundstelle des Originaltextes: BGBl. I 2006, 1856
+Approbationsurkunde
+Herr/Frau ....................................................................
+geboren am ...................................................................
+in ...........................................................................
+erfüllt die Voraussetzungen der Bundes-Tierärzteordnung.
+Mit Wirkung vom heutigen Tage wird ihm/ihr die Approbation als
+Tierarzt/Tierärztin erteilt. Die Approbation berechtigt zur Führung der
+Berufsbezeichnung Tierarzt/Tierärztin und zur Ausübung des tierärztlichen
+Berufes.
+..................., den .................
+(Siegel oder Stempel)
+..........................................
+(Unterschrift)

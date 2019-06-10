@@ -1,0 +1,11 @@
+# Art 28 Wirtschaftsförderung
+
+(1)
+Mit Wirksamwerden des Beitritts wird das in Artikel 3 genannte Gebiet in die im Bundesgebiet bestehenden Regelungen des Bundes zur Wirtschaftsförderung unter Berücksichtigung der Zuständigkeiten der Europäischen Gemeinschaften einbezogen. Während einer Übergangszeit werden dabei die besonderen Bedürfnisse der Strukturanpassung berücksichtigt. Damit wird ein wichtiger Beitrag zu einer möglichst raschen Entwicklung einer ausgewogenen Wirtschaftsstruktur unter besonderer Berücksichtigung des Mittelstands geleistet.
+(2)
+Die zuständigen Ressorts bereiten konkrete Maßnahmenprogramme zur Beschleunigung des wirtschaftlichen Wachstums und des Strukturwandels in dem in Artikel 3 genannten Gebiet vor. Die Programme erstrecken sich auf folgende Bereiche:
+- Maßnahmen der regionalen Wirtschaftsförderung unter Schaffung eines besonderen Programms zugunsten des in Artikel 3 genannten Gebiets; dabei wird ein Präferenzvorsprung zugunsten dieses Gebiets sichergestellt;
+- Maßnahmen zur Verbesserung der wirtschaftlichen Rahmenbedingungen in den Gemeinden mit besonderem Schwerpunkt in der wirtschaftsnahen Infrastruktur;
+- Maßnahmen zur raschen Entwicklung des Mittelstandes;
+- Maßnahmen zur verstärkten Modernisierung und strukturellen Neuordnung der Wirtschaft auf der Grundlage von in Eigenverantwortung der Industrie erstellten Restrukturierungskonzepten (zum Beispiel Sanierungsprogramme, auch für RGW-Exportproduktion);
+- Entschuldung von Unternehmen nach Einzelfallprüfung.

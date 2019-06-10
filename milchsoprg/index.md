@@ -1,0 +1,15 @@
+# Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Durchführung von Unionsrecht](0002.md)
+- [§ 3 Milcherzeuger](0003.md)
+- [§ 4 Weitere Begriffsbestimmungen](0004.md)
+- [§ 5 Grünlandprämie](0005.md)
+- [§ 6 Zusätzliche Grünlandprämie](0006.md)
+- [§ 7 Kuhprämie](0007.md)
+- [§ 8 Aufbringen der Mittel](0008.md)
+- [§ 9 Weitere Verordnungsermächtigungen](0009.md)
+- [§ 10 Weitere Bestimmungen zum Verwaltungsverfahren](0010.md)
+- [§ 11 Bußgeldvorschriften](0011.md)
+- [§ 12 Verkündung von Rechtsverordnungen](0012.md)
+- [Anlage (zu § 4 Absatz 2)](anlage.md)

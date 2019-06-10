@@ -1,0 +1,6 @@
+# Art 6
+
+(1)
+Dieses Gesetz tritt mit Wirkung vom 1. September 1964, Artikel 2 dieses Gesetzes jedoch mit dem ersten Tag des auf den Austausch der Ratifikationsurkunden zum Zusatzvertrag folgenden Monats, Artikel 3 Nr. 1 mit Wirkung vom 1. Januar 1967 in Kraft.
+(2)
+Der Tag, an dem der Zusatzvertrag nach seinem Artikel 9 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

@@ -1,0 +1,3 @@
+# Präambel
+
+Aus zeitgeschichtlichen Gründen wurde die Deutsche Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht (Deutsche Dienststelle (WASt)) jahrzehntelang als Behörde des Landes Berlin geführt, obwohl sie Bundesaufgaben wahrnahm. Gemäß einer Verwaltungsvereinbarung aus dem Jahr 1951 erstattete der Bund dem Land Berlin sämtliche Aufwendungen für die Aufgabenerledigung der Deutschen Dienststelle (WASt). Nunmehr sollen die Aufgaben der Deutschen Dienststelle (WASt) dem Bundesarchiv übertragen werden, weil die betreffenden Unterlagen zur zentralstaatlichen Überlieferung der deutschen Militärverwaltung gehören und perspektivisch zu Archivgut werden.

@@ -1,0 +1,12 @@
+# Anlage 5a (zu § 6 Nr. 4)
+
+Bedarfsgegenstände, die bestimmte Stoffe nur bis zu einer festgelegten
+Höchstmenge freisetzen dürfen
+
+Fundstelle des (Originaltextes: BGBl. I 2000, 850;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+| Lfd.Nr. | Bedarfsgegenstand | Stoffe | Höchstmenge |
+| 1 | 2 | 3 | 4 |
+| 1. | Nickelhaltige Bedarfsgegenstände, die unmittelbar und länger mit der Haut in Berührung kommen | Nickel und seine Verbindungen | 0,5 my Nickel/cm (hoch)2/Woche, freigesetzt von den Teilen der Bedarfsgegenstände, die unmittelbar und länger mit der Haut in Berührung kommen |
+| 2. | Bedarfsgegenstände wie unter Nr. 1, jedoch mit einer nickelfreien Beschichtung | Nickel und seine Verbindungen | Wie unter Nr. 1, aber Einhaltung der Höchstmenge für einen Zeitraum von mindestens zwei Jahren bei normaler Verwendung |
+| 3. | Stäbe jedweder Form, die in durchstochene Ohren oder andere durchstochene Körperpartien eingeführt werden | Nickel und seine Verbindungen | Weniger als 0,2 myg Nickel/qcm/Woche, freigesetzt von den Stäben jedweder Form, die in durchstochene Ohren oder andere durchstochene Körperpartien eingeführt werden |

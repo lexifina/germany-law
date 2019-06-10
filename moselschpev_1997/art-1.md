@@ -1,0 +1,8 @@
+# Art 1 Anwendungsbereich
+
+(1)
+Die von der Moselkommission in Trier am 8. März 1995, 15. November 1995 sowie 13. und 29. November 1996 beschlossene Moselschiffahrtspolizeiverordnung wird auf der Bundeswasserstraße Mosel in Kraft gesetzt. Die Moselschiffahrtspolizeiverordnung wird als Anlage zu dieser Verordnung veröffentlicht.
+(2)
+Das "Handbuch Binnenschiffahrtsfunk" im Sinne des § 1.10 Nr. 1 Satz 1 Buchstabe m und des § 4.05 Nummer 1 Satz 1 der Anlage ist das von der Zentralkommission für die Rheinschiffahrt in Straßburg am 25. April 1996 beschlossene und dort niedergelegte Handbuch Binnenschiffahrtsfunk in der jeweils geltenden Fassung. Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den aktuellen Stand des Handbuches im Verkehrsblatt bekannt.
+(3)
+Kilometerangaben für einzelne Moselstrecken (Kapitel 8 bis 10 der Anlage) haben folgende Bedeutung: Der Kilometerendpunkt schließt die jeweilige Kilometerangabe ein und der Kilometeranfangspunkt die jeweilige Kilometerangabe aus.

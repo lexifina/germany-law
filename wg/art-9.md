@@ -1,0 +1,6 @@
+# Art 9
+
+(1)
+Der Aussteller haftet für die Annahme und die Zahlung des Wechsels.
+(2)
+Er kann die Haftung für die Annahme ausschließen; jeder Vermerk, durch den er die Haftung für die Zahlung ausschließt, gilt als nicht geschrieben.

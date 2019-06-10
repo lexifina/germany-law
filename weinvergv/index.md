@@ -1,0 +1,15 @@
+# Verordnung über die Gewährung von Vergünstigungen für Wein
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Zuständige Stellen](0002.md)
+- [§ 3 Anträge, Forderungen](0003.md)
+- [§ 4 Muster, Vordrucke](0004.md)
+- [§ 5 Absatzförderung](0005.md)
+- [§ 6 (weggefallen)](0006.md)
+- [§ 7](0007.md)
+- [§ 8 (weggefallen)](0008.md)
+- [§ 8a](0008a.md)
+- [§ 9 Duldungs-, Mitwirkungs- und Aufbewahrungspflichten](0009.md)
+- [§ 10 (weggefallen)](0010.md)
+- [§ 10a](0010a.md)
+- [§ 11](0011.md)

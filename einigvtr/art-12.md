@@ -1,0 +1,8 @@
+# Art 12 Verträge der Deutschen Demokratischen Republik
+
+(1)
+Die Vertragsparteien sind sich einig, daß die völkerrechtlichen Verträge der Deutschen Demokratischen Republik im Zuge der Herstellung der Einheit Deutschlands unter den Gesichtspunkten des Vertrauensschutzes, der Interessenlage der beteiligten Staaten und der vertraglichen Verpflichtungen der Bundesrepublik Deutschland sowie nach den Prinzipien einer freiheitlichen, demokratischen und rechtsstaatlichen Grundordnung und unter Beachtung der Zuständigkeiten der Europäischen Gemeinschaften mit den Vertragspartnern der Deutschen Demokratischen Republik zu erörtern sind, um ihre Fortgeltung, Anpassung oder ihr Erlöschen zu regeln beziehungsweise festzustellen.
+(2)
+Das vereinte Deutschland legt seine Haltung zum Übergang völkerrechtlicher Verträge der Deutschen Demokratischen Republik nach Konsultationen mit den jeweiligen Vertragspartnern und mit den Europäischen Gemeinschaften, soweit deren Zuständigkeiten berührt sind, fest.
+(3)
+Beabsichtigt das vereinte Deutschland, in internationale Organisationen oder in sonstige mehrseitige Verträge einzutreten, denen die Deutsche Demokratische Republik, nicht aber die Bundesrepublik Deutschland angehört, so wird Einvernehmen mit den jeweiligen Vertragspartnern und mit den Europäischen Gemeinschaften, soweit deren Zuständigkeiten berührt sind, hergestellt.

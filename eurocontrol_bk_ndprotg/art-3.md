@@ -1,0 +1,3 @@
+# Art 3
+
+Die Einziehung der Gebühr gemäß Artikel 11 der Vereinbarung wird auf dem Verwaltungsweg durch die Bundesrepublik Deutschland vorgenommen. Zu dem Zweck gilt die Gebühr gemäß Artikel 8 der Vereinbarung als eine öffentlich-rechtliche Geldforderung des Bundes. Das Verwaltungs-Vollstreckungsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 201-4, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 40 des Einführungsgesetzes zur Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341), findet Anwendung; den Leistungsbescheid gemäß § 3 Abs. 2 Buchstabe a des Verwaltungs-Vollstreckungsgesetzes erläßt die Bundesanstalt für Flugsicherung.

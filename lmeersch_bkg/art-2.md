@@ -1,0 +1,3 @@
+# Art 2
+
+Das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur und dem Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates Änderungen der Anlage A des in Artikel 1 dieses Gesetzes genannten Übereinkommens nach dessen Artikel 18, die sich im Rahmen der Ziele des Übereinkommens halten, in Kraft zu setzen.

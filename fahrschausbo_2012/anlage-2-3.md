@@ -1,0 +1,76 @@
+# Anlage 2.3 (zu § 4)Rahmenplan für den klassenspezifischen Zusatzstoff in der Klasse C (10 Doppelstunden), in der Klasse C1 (6 Doppelstunden)
+
+1. Persönliche Voraussetzungen und Arbeitsplatz
+  a) Fahrerlaubnis
+    Erteilungsvoraussetzungen, Befristung
+  b) Papiere
+    Persönliche Fahrzeugpapiere
+  c) Sozialvorschriften
+    Fahrtenschreiber, Lenk- und Ruhezeiten
+  d) Arbeitsplatz
+    Sitz- und Spiegeleinstellung (toter Winkel)
+    Klimatisierung, Sichtbehinderung des Fahrers aufgrund der Bauart des Fahrzeugs.
+2. Besondere Vorschriften aus der Straßenverkehrs-Ordnung/Transportvorschriften
+  a) Geschwindigkeit, Abstand
+  b) Bahnübergänge
+  c) Halten und Parken
+  d) Personenbeförderung
+  e) Fahrverbote
+    Sonn- und Feiertagsfahrverbot, Ferienreiseverordnung, sonstige Wechselaufbauten, Unterfahrschutz
+  f) Vorschriften zum Transport von Gütern
+    Ladungspapiere (national und grenzüberschreitend).
+3. Kraftstrang
+  a) Motor
+  b) Kupplung, Wandler
+  c) Getriebe
+  d) Antriebswellen
+  e) Differential(e)
+  f) Achsantrieb, Radantrieb
+  g) Antriebs-Schlupf-Regelung (ASR).
+4. Fahrwerk/Elektrische Anlagen
+  a) Federung
+  b) Räder, Reifen, Radabdeckungen, Schneeketten
+  c) Aufbauten
+  d) Lichtmaschine/Batterie(n)
+  e) Beleuchtung
+  f) Sonstige elektrische Einrichtungen.
+5. Lkw-Bremsen
+  a) hydraulische Bremsanlage
+  b) Druckluftbeschaffungsanlage
+  c) Kombinierte Druckluft-hydraulische Bremsanlage
+  d) Zweikreis-Druckluftbremsanlage
+  e) Automatisch-lastabhängige Bremse (ALB)
+  f) Feststellbremse.
+6. Lkw-Bremsen und Fahrzeuguntersuchungen; Geschwindigkeitsregler
+  a) Dauerbremsen
+  b) Automatischer Blockierverhinderer (ABV)
+  c) Kontrollen, Wartung und Pflege der Bremsanlage
+  d) Fahrzeuguntersuchungen
+  e) Geschwindigkeitsregler.
+7. Wirkung von Kräften beim Fahren durch physikalische Gesetzmäßigkeiten
+  Kraftschluss, Reibung, Rollwiderstand, Luftwiderstand, Steigungen und Gefälle, Fliehkraft, Seitenführungskraft, Auswirkungen unterschiedlicher Ladung.
+8. Vorschriften über Ausrüstungs-, Beförderungs- und Sicherheitsbestimmungen
+  a) Fahrzeug
+    Unterlegkeil(e), Warnleuchte(n), Warndreieck, Parkwarntafel, Verbandkasten, Abschleppverbindungen
+  b) Fahrzeuggewichte und -abmessungen
+  c) Geschwindigkeitsbegrenzer
+  d) die Entgegennahme, den Transport und die Ablieferung von Gütern
+    – Gefahrgut
+    – Abfall
+  e) Sicherheitsbestimmungen (Berufsgenossenschaft)
+    Warnweste, sicherheitsrelevante Schuhe
+    Ein- und Aussteigen.
+9. Ladungssicherung/Abfahrtkontrolle
+  a) Kontrolle des Ladeguts (einordnen und befestigen)
+  b) Sicherung verschiedener Arten von Ladegut
+    (z. B. flüssiges oder hängendes Ladegut)
+  c) Ausrüstung für das Be- und Entladen von Gütern
+  d) Abfahrtkontrolle; Erkennen und Beseitigung einfacher Störungen.
+10. Wirtschaftliches und umweltschonendes Fahren; Straßenkarten, Streckenplanung
+  a) Wartung, Pflege und Kontrolle
+  b) Energiesparende Fahrweise
+  c) Alternative Kraftstoffe
+  d) Zeit- und Streckenplanung
+  e) Luftwiderstand
+    (z. B. Spoiler, Plane, Aufbauten)
+  f) Kartenlesen, Streckenplanung, Navigationssysteme.

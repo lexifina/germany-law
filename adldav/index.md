@@ -1,0 +1,15 @@
+# Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung der Landwirte
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Datenabgleich durch Vermittlungsstellen, einzubeziehende Personen](0001.md)
+- [§ 2 (weggefallen)](0002.md)
+- [§ 3 Datenübermittlung an die Vermittlungsstellen](0003.md)
+- [§ 4 Datenabgleich](0004.md)
+- [§ 5 Rückübermittlung an die landwirtschaftliche Alterskasse](0005.md)
+- [§ 6 Anfragedatensatz](0006.md)
+- [§ 7 Verfahren der Datenübermittlung](0007.md)
+- [§ 8 Übermittlung durch Datenfernübertragung](0008.md)
+- [§ 9 (weggefallen)](0009.md)
+- [§ 10 (weggefallen)](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)

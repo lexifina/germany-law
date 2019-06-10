@@ -1,0 +1,9 @@
+# Art 3
+
+(1)
+Mit Inkrafttreten dieses Gesetzes werden die Beamten der hessischen "Staatliche Anstalt für experimentelle Therapie - Paul-Ehrlich-Institut -" Bundesbeamte.
+(2)
+Die im Zeitpunkt des Inkrafttretens dieses Gesetzes im Dienst der hessischen "Staatliche Anstalt für experimentelle Therapie - Paul-Ehrlich-Institut -" stehenden Angestellten und Arbeiter sind in den Dienst des Bundesamtes für Sera und Impfstoffe zu übernehmen.
+(3)
+Mit dem Inkrafttreten dieses Gesetzes werden die Ruhestandsbeamten, Witwen, Waisen und sonstige Versorgungsempfänger der hessischen "Staatliche Anstalt für experimentelle Therapie - Paul-Ehrlich-Institut -" Versorgungsempfänger des Bundes. § 180 des Bundesbeamtengesetzes ist entsprechend anzuwenden; dabei tritt an die Stelle des Inkrafttretens des Bundesbeamtengesetzes das Inkrafttreten dieses Gesetzes. Für frühere Beamte der hessischen "Staatliche Anstalt für experimentelle Therapie - Paul-Ehrlich-Institut -" und ihre Hinterbliebenen gilt § 180 Abs. 4 des Bundesbeamtengesetzes.
+(4)

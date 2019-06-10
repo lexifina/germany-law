@@ -1,0 +1,23 @@
+# Gesetz über die Förderung des wissenschaftlichen Nachwuchses an den
+Hochschulen
+
+- [§ 1 Zweck der Förderung](0001.md)
+- [§ 2 Förderung der Promotion](0002.md)
+- [§ 3 Förderung eines weiteren Studiums](0003.md)
+- [§ 4 Auswahl der Bewerber](0004.md)
+- [§ 5 Staatsangehörigkeit](0005.md)
+- [§ 6 Stellung des Stipendiaten zur Hochschule](0006.md)
+- [§ 7 Art der Förderung](0007.md)
+- [§ 7a Darlehensbedingungen](0007a.md)
+- [§ 7b Rückzahlungspflicht](0007b.md)
+- [§ 8 Dauer der Förderung](0008.md)
+- [§ 9 Nebentätigkeit](0009.md)
+- [§ 10 Pfändungsschutz](0010.md)
+- [§ 11 Zuständigkeit](0011.md)
+- [§ 12 Verordnungsermächtigung](0012.md)
+- [§ 13 Finanzierung und Verteilung](0013.md)
+- [§ 14 Auftragsverwaltung](0014.md)
+- [§ 14a Darlehensverwaltung](0014a.md)
+- [§ 15 Übergangsvorschrift](0015.md)
+- [§ 16 Berlin-Klausel](0016.md)
+- [§ 17 Inkrafttreten](0017.md)

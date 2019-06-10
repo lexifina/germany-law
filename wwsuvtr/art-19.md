@@ -1,0 +1,3 @@
+# Art 19 Arbeitslosenversicherung und Arbeitsförderung
+
+Die Deutsche Demokratische Republik führt ein System der Arbeitslosenversicherung einschließlich Arbeitsförderung ein, das den Regelungen des Arbeitsförderungsgesetzes der Bundesrepublik Deutschland entspricht. Dabei haben Maßnahmen der aktiven Arbeitsmarktpolitik, wie berufliche Bildung und Umschulung, besondere Bedeutung. Belange der Frauen und Behinderten werden berücksichtigt. In der Übergangsphase wird Besonderheiten in der Deutschen Demokratischen Republik Rechnung getragen. Die Regierungen beider Vertragsparteien werden beim Aufbau der Arbeitslosenversicherung einschließlich Arbeitsförderung eng zusammenarbeiten.

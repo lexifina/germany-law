@@ -1,0 +1,3 @@
+# Art 9 Befreiung der Räumlichkeiten des Büros von der Besteuerung
+
+Die Räumlichkeiten des Büros in Berlin, die in seinem Eigentum oder einer für das Büro handelnden Person stehen oder von ihnen gemietet oder gepachtet sind, sind von der Grundsteuer, der Versicherungsteuer und der Feuerschutzsteuer befreit. Der Erwerb eines Grundstückes in Berlin durch das Büro, das für dessen Nutzung für vergleichbare Aufgaben wie denen einer berufskonsularischen Vertretung bestimmt ist, ist von der Grunderwerbsteuer befreit. Die Befreiungen nach den Sätzen 1 und 2 gelten nur, sofern diese Steuern nicht von einer Person zu entrichten sind, die mit dem Büro oder einer für das Büro handelnden Person Verträge geschlossen hat.

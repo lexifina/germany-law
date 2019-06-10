@@ -1,0 +1,94 @@
+# Anlage 2 (zu § 11)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker
+Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
+
+(Fundstelle: BGBl. I 2005, 1554 - 1557)
+| Abschnitt I: Gemeinsame Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 1 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Berufsbildung, Arbeits- und Tarifrecht (§ 10 Nr. 1) | a) | Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und Beendigung, erklären | während der gesamten Ausbildung zu vermitteln |
+| b) | gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen |
+| c) | Möglichkeiten der beruflichen Fortbildung nennen |
+| d) | wesentliche Teile des Arbeitsvertrages nennen |
+| e) | wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden Tarifverträge nennen |
+| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 10 Nr. 2) | a) | Aufbau und Aufgaben des ausbildenden Betriebes erläutern |
+| b) | Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |
+| c) | Beziehungen des ausbildenden Betriebes und seiner Beschäftigten zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen |
+| d) | Grundlagen, Aufgaben und Arbeitsweise der betriebs-verfassungs- oder personalvertretungsrechtlichen Organe des ausbildenden Betriebes beschreiben |
+| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 10 Nr. 3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 4 | Umweltschutz (§ 10 Nr. 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |  |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 5 | Betriebliche und technische Kommunikation (§ 10 Nr. 5) | a) | Informationsquellen auswählen, Informationen beschaffen und bewerten | 8 |  |
+| b) | technische Unterlagen und Fertigungsvorschriften anwenden, Skizzen anfertigen |
+| c) | Gespräche mit Kunden, Vorgesetzten und im Team situationsgerecht und zielorientiert führen, Ergebnisse dokumentieren |
+| d) | Sachverhalte darstellen; englische Fachbegriffe anwenden |
+| 6 | Planen und Organisieren von Arbeitsabläufen, Bewerten und Arbeitsergebnissen, Geschäftsprozesse (§ 10 Nr. 6) | a) | Arbeitsabläufe und Teilaufgaben unter Beachtung betriebswirtschaftlicher und terminlicher Vorgaben planen | 8 |  |
+| b) | Maschinen nach Fertigungsverfahren unterscheiden |
+| c) | Aufgaben im Team planen, durchführen und bewerten |
+| d) | Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten |
+| e) | Werkzeuge und Materialien auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen |
+| f) | Prüfverfahren und Prüfmittel auswählen und Einsatzfähigkeit der Prüfmittel feststellen |
+| g) | Instrumente zur Auftragsabwicklung sowie zur Terminverfolgung anwenden |
+| h) | produktionstechnisch relevante Daten erfassen und bewerten |
+| i) | Arbeitsdurchführung und -ergebnisse kontrollieren, beurteilen und dokumentieren |
+| j) | Zusammenhänge von Prozessabläufen und Teilprozessen bei der Auftragsabwicklung beachten |
+| 7 | Unterscheiden, Zuordnen und Handhaben von Roh-, Hilfs- und Werkstoffen, Keramisches Rechnen (§ 10 Nr. 7) | a) | Roh- und Hilfsstoffe unterscheiden und auf Qualitätsparameter prüfen | 16 |  |
+| b) | Roh- und Hilfsstoffe ihrer Verwendung nach zuordnen und einsetzen |
+| c) | Werkstoffeigenschaften und deren Veränderungen beurteilen und Werkstoffe nach ihrer Verwendung auswählen, aufbereiten und handhaben |
+| d) | verfahrensbezogene Berechnungen durchführen |
+| 8 | Formgebung und Veredlung (§ 10 Nr. 8) | a) | Modelle, Formen oder Werkzeuge unterscheiden und ihrer Verwendung nach zuordnen | 6 |  |
+| b) | Formgebungsverfahren unterscheiden |
+| c) | Veredlungsverfahren beschreiben |
+| d) | mechanische und manuelle Veredlungstechniken unterscheiden |
+| 9 | Warten und Pflegen von Betriebsmitteln (§ 10 Nr. 9) | a) | Betriebsmittel inspizieren, pflegen, warten und die Durchführung dokumentieren | 4 |  |
+| b) | schadhafte Betriebsmittel austauschen oder Instandsetzung veranlassen |
+| c) | Betriebsstoffe auswählen, einsetzen und entsorgen |
+| 10 | Trocknen und Brennen (§ 10 Nr. 10) | a) | Trocknungs- und Brennverfahren unterscheiden | 4 |  |
+| b) | Vorgänge während des Trocknens und Brennens überwachen |
+| c) | Fehlerursachen unsachgemäßen Trocknens und Brennens erkennen |
+| 11 | Durchführen qualitätssichernder Maßnahmen (§ 10 Nr. 11) | a) | betriebliches Qualitätssicherungssystem im eigenen Arbeitsbereich anwenden | 6 |  |
+| b) | Ursachen von Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren |
+| c) | zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen |
+| d) | Optimierung von Vorgaben, insbesondere von Dokumentationen, veranlassen |
+| Abschnitt II: Spezifische Fertigkeiten, Kenntnisse und Fähigkeiten gemäß § 3 Abs. 1 Nr. 2 |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Fertigkeiten, Kenntnisse und Fähigkeiten, die unter Einbeziehung selbstständigen Planens, Durchführens und Kontrollierens zu vermitteln sind | Zeitliche Richtwerte in Wochen im |
+| 1.-18. Monat | 19.-36. Monat |
+| 1 | 2 | 3 | 4 |
+| 1 | Anfertigen von Linien- und Flächendekoren aud Grundformen (§ 10 Nr. 12) | a) | Farben und Hilfsstoffe unter Berücksichtigung ihrer Eigenschaften auswählen | 26 |  |
+| b) | Farben unter Verwendung von Hilfsstoffen aufbereiten |
+| c) | Malereien ausführen, insbesondere rändern, linieren und bändern |
+| d) | Flächendekore auf verschiedenen Grundkörpern ausführen |
+| 2 | Zeichnen und Malen (§ 10 Nr. 13) | a) | verschiedene Zeichen- und Maltechniken, insbesondere mit Bleistift, Feder und Wasserfarben, anwenden |  | 4 |
+| b) | Dekore unter Einbeziehung gestalterischer und ästhetischer Grundlagen entwerfen |
+| 3 | Handmalen von Schriften und Monogrammen (§ 10 Nr. 14) | a) | Schriften und Monogramme unter Beachtung typografischer Grundregeln entwerfen |  | 4 |
+| b) | Schriften und Monogramme ausführen |
+| 4 | Anfertigen von Dekoren aus kombinierten Formen (§ 10 Nr. 15) | a) | Farben, Edelmetallpräparate und Hilfsstoffe für verschiedene Dekorationsarten und -techniken auswählen und aufbereiten |  | 26 |
+| b) | Staffagen auf Werkstücken und Reliefs ausführen |
+| c) | Farben sowie Edelmetallpräparate, insbesondere Glanz- und Poliergold, unter Berücksichtigung der Brennbedingungen aufbringen |
+| d) | Ätzdekor und Imitation unterscheiden |
+| e) | Dekorationsarten in Auf-, In- und Unterglasur unterscheiden |  | 26 |
+| f) | keramische Produkte durch Kombination verschiedener Dekortechniken veredeln |
+| g) | Dekorationsfehler erkennen, beurteilen und dokumentieren |
+| h) | Dekore unter Berücksichtigung der Dekorbrandtechniken und Brennbedingungen brennen |
+| i) | Malereien, insbesondere Edelmetalldekorationen, nachbearbeiten |
+| 5 | Ausführen von Spritztechniken (§ 10 Nr. 16) | a) | Farben und Spritzmedien unter Berücksichtigung ihrer Eigenschaften auswählen und aufbereiten |  | 8 |
+| b) | Spritzwerkzeuge auswählen und vorbereiten |
+| c) | Isolier- und Abdeckmaterialien auswählen |
+| d) | keramische Produkte vorbereiten |
+| e) | Farbflächen mit und ohne Isolier- und Abdeckmaterialien spritzen |
+| f) | Farben in unterschiedlichen Schichtstärken und verlaufend von Hell nach Dunkel spritzen |
+| g) | Spritzwerkzeuge reinigen und warten |
+| 6 | Ausführen von Buntdruckdekorationen (§ 10 Nr. 17) | a) | Druckverfahren unterscheiden |  | 6 |
+| b) | Buntdruckdekorationen, insbesondere Schiebebilder aufbringen |
+| 7 | Durchführen qualitätssichernder Maßnahmen (§ 10 Nr. 11) | a) | Prüfverfahren, Prüfmittel, Prüfvorschriften und betriebliche Prüfpläne anwenden |  | 4 |
+| b) | Produkte sortieren und klassifizieren, Ergebnisse dokumentieren |
+| c) | Fertigungsfehler erkennen, beurteilen und dokumentieren |
+| d) | Maßnahmen zur Fehlerbeseitigung ergreifen |

@@ -1,0 +1,6 @@
+# Art 2
+
+(1)
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, die Voraussetzungen (Zuverlässigkeit, Leistungsfähigkeit und Fachkunde) und das Verfahren für eine Benennung von Unterzeichnern (Signatare) durch Rechtsverordnung zu regeln.
+(2)
+Die Benennung erfolgt gegen Gebühr. Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen, die gebührenpflichtigen Tatbestände, die Höhe der Gebühr und die Erstattung von Auslagen durch Rechtsverordnung zu regeln.

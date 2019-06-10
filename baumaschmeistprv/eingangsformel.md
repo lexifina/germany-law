@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 46 Abs. 2 Satz 1 des Berufsbildungsgesetzes vom 14. August 1969 (BGBl. I S. 1112), der zuletzt durch § 24 Nr. 2 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, und auf Grund des § 42 Abs. 2 Satz 1 der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt durch § 25 Nr. 2 des Gesetzes vom 24. August 1976 (BGBl. I S. 2525) geändert worden ist, wird nach Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr. 1 des Berufsbildungsförderungsgesetzes vom 23. Dezember 1981 (BGBl. I S. 1692) im Einvernehmen mit dem Bundesminister für Wirtschaft verordnet:

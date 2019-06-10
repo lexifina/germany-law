@@ -1,0 +1,3 @@
+# Art 52
+
+Bei nach § 33 des Handelsgesetzbuchs eingetragenen juristischen Personen, Offenen Handelsgesellschaften und Kommanditgesellschaften muss die Anmeldung und Eintragung einer dem gesetzlichen Regelfall entsprechenden Vertretungsmacht der persönlich haftenden Gesellschafter, des Vorstandes und der Liquidatoren erst erfolgen, wenn eine vom gesetzlichen Regelfall abweichende Bestimmung des Gesellschaftsvertrages oder der Satzung über die Vertretungsmacht angemeldet und eingetragen wird oder wenn erstmals die Liquidatoren zur Eintragung angemeldet und eingetragen werden. Das Registergericht kann die Eintragung einer dem gesetzlichen Regelfall entsprechenden Vertretungsmacht auch von Amts wegen vornehmen.

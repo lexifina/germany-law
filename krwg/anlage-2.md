@@ -1,0 +1,15 @@
+# Anlage 2 Verwertungsverfahren
+
+R 1 Hauptverwendung als Brennstoff oder als anderes Mittel der Energieerzeugung
+R 2 Rückgewinnung und Regenerierung von Lösemitteln
+R 3 Recycling und Rückgewinnung organischer Stoffe, die nicht als Lösemittel verwendet werden (einschließlich der Kompostierung und sonstiger biologischer Umwandlungsverfahren)
+R 4 Recycling und Rückgewinnung von Metallen und Metallverbindungen
+R 5 Recycling und Rückgewinnung von anderen anorganischen Stoffen
+R 6 Regenerierung von Säuren und Basen
+R 7 Wiedergewinnung von Bestandteilen, die der Bekämpfung von Verunreinigungen dienen
+R 8 Wiedergewinnung von Katalysatorenbestandteilen
+R 9 Erneute Ölraffination oder andere Wiederverwendungen von Öl
+R 10 Aufbringung auf den Boden zum Nutzen der Landwirtschaft oder zur ökologischen Verbesserung
+R 11 Verwendung von Abfällen, die bei einem der in R 1 bis R 10 aufgeführten Verfahren gewonnen werden
+R 12 Austausch von Abfällen, um sie einem der in R 1 bis R 11 aufgeführten Verfahren zu unterziehen
+R 13 Lagerung von Abfällen bis zur Anwendung eines der in R 1 bis R 12 aufgeführten Verfahren (ausgenommen zeitweilige Lagerung bis zur Sammlung auf dem Gelände der Entstehung der Abfälle)

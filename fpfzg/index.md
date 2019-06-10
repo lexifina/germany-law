@@ -1,0 +1,18 @@
+# Gesetz über die Familienpflegezeit
+
+- [§ 1 Ziel des Gesetzes](0001.md)
+- [§ 2 Familienpflegezeit](0002.md)
+- [§ 2a Inanspruchnahme der Familienpflegezeit](0002a.md)
+- [§ 3 Förderung der pflegebedingten Freistellung von der Arbeitsleistung](0003.md)
+- [§ 4 Mitwirkungspflicht des Arbeitgebers](0004.md)
+- [§ 5 Ende der Förderfähigkeit](0005.md)
+- [§ 6 Rückzahlung des Darlehens](0006.md)
+- [§ 7 Härtefallregelung](0007.md)
+- [§ 8 Antrag auf Förderung](0008.md)
+- [§ 9 Darlehensbescheid und Zahlweise](0009.md)
+- [§ 10 Antrag und Nachweis in weiteren Fällen](0010.md)
+- [§ 11 Allgemeine Verwaltungsvorschriften](0011.md)
+- [§ 12 Bußgeldvorschriften](0012.md)
+- [§ 13 Aufbringung der Mittel](0013.md)
+- [§ 14 Beirat](0014.md)
+- [§ 15 Übergangsvorschrift](0015.md)

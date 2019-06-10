@@ -1,0 +1,3 @@
+# II.
+
+Die Farbe der Amtstracht ist für den Bundeswehrdisziplinaranwalt karmesinrot, für die richterlichen Mitglieder der Truppendienstkammern, die Wehrdisziplinaranwälte und die Urkundsbeamten bei den Truppendienstgerichten schwarz. Die für den Bundeswehrdisziplinaranwalt auftretenden Beamten tragen vor einem Wehrdienstsenat karmesinrote, vor einer Truppendienstkammer schwarze Amtstracht. Der Besatz an der Amtsrobe und am Barett besteht für die richterlichen Mitglieder der Truppendienstkammern aus Samt, für den Bundeswehrdisziplinaranwalt, die für ihn auftretenden Beamten und die Wehrdisziplinaranwälte aus Seide, für die Urkundsbeamten aus Wollstoff.

@@ -1,0 +1,6 @@
+# Art 4
+
+(1)
+Ersuchen, mit denen außerhalb eines gerichtlichen oder behördlichen Verfahrens eine Nachprüfung nach Artikel 6 oder Auskunft nach Artikel 7 des Abkommens verlangt wird, werden dem Ministerium der Justiz der Französischen Republik durch den Präsidenten des Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller seinen allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen allgemeinen Gerichtsstand im Geltungsbereich dieses Gesetzes, ist das Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.
+(2)
+Der Präsident des Landgerichts prüft, ob die in dem Abkommen geregelten Voraussetzungen vorliegen.

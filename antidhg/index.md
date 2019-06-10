@@ -1,0 +1,18 @@
+# Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anspruch auf Hilfe](0001.md)
+- [§ 2 Heil- und Krankenbehandlung](0002.md)
+- [§ 3 Finanzielle Hilfe](0003.md)
+- [§ 4 Hilfe für Hinterbliebene](0004.md)
+- [§ 5 Hilfe bei Wohnsitz im Ausland, Härteausgleich](0005.md)
+- [§ 6 Zusammentreffen mit anderen Ansprüchen, Übertragbarkeit](0006.md)
+- [§ 7 Beginn, Änderung und Zahlung der Hilfe](0007.md)
+- [§ 8 Anpassung](0008.md)
+- [§ 9 Übergang gesetzlicher Schadensersatzansprüche](0009.md)
+- [§ 10 Kostenträger](0010.md)
+- [§ 11 Zuständigkeit, Verfahren](0011.md)
+- [§ 12 Rechtsweg](0012.md)
+- [§ 13 Übergangsvorschriften](0013.md)
+- [(XXXX) §§ 14 und 15 (weggefallen)](xxxx-14-und-15.md)
+- [§ 16 Inkrafttreten](0016.md)

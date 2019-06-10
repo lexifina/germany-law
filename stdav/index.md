@@ -1,0 +1,15 @@
+# Verordnung über den automatisierten Abruf von Steuerdaten
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Maßnahmen zur Wahrung des Steuergeheimnisses](0002.md)
+- [§ 3 Erteilung der Abrufbefugnis](0003.md)
+- [§ 4 Umfang der Abrufbefugnis](0004.md)
+- [§ 5 Prüfung der Abrufbefugnis](0005.md)
+- [§ 6 Aufzeichnung der Abrufe](0006.md)
+- [§ 7 Prüfung der Zulässigkeit der Abrufe](0007.md)
+- [§ 8 Ergänzende Regelungen und Verfahrensdokumentation](0008.md)
+- [§ 9 Abrufe durch den Steuerpflichtigen](0009.md)
+- [§ 10 (weggefallen)](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)

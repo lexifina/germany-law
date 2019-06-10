@@ -1,0 +1,22 @@
+# Gebührenordnung für Ärzte
+
+- [Inhaltsübersicht](inhaltsuebersicht.md)
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Abweichende Vereinbarung](0002.md)
+- [§ 3 Vergütungen](0003.md)
+- [§ 4 Gebühren](0004.md)
+- [§ 5 Bemessung der Gebühren für Leistungen des Gebührenverzeichnisses](0005.md)
+- [§ 5a Bemessung der Gebühren in besonderen Fällen](0005a.md)
+- [§ 5b Bemessung der Gebühren bei Versicherten des Standardtarifes
+der privaten Krankenversicherung](0005b.md)
+- [§ 6 Gebühren für andere Leistungen](0006.md)
+- [§ 6a Gebühren bei stationärer Behandlung](0006a.md)
+- [§ 7 Entschädigungen](0007.md)
+- [§ 8 Wegegeld](0008.md)
+- [§ 9 Reiseentschädigung](0009.md)
+- [§ 10 Ersatz von Auslagen](0010.md)
+- [§ 11 Zahlung durch öffentliche Leistungsträger](0011.md)
+- [§ 12 Fälligkeit und Abrechnung der Vergütung, Rechnung](0012.md)
+- [§ 13](0013.md)
+- [§ 14](0014.md)
+- [Anlage Gebührenverzeichnis für ärztliche Leistungen](anlage.md)

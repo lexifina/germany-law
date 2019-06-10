@@ -1,0 +1,16 @@
+# Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich und Gebührenerhebung](0001.md)
+- [§ 2 Entstehung der Gebührenschuld](0002.md)
+- [§ 3 Gebührenschuldner](0003.md)
+- [§ 4 Befreiung von der Zahlung der Gebühren und von der Erstattung der Auslagen](0004.md)
+- [§ 5 Höhe der Grundgebühr](0005.md)
+- [§ 6 Höhe der Zusatzgebühr für Datenauswertung und Datenbereitstellung](0006.md)
+- [§ 7 Höhe der Gebühr bei Ablehnung eines Antrags](0007.md)
+- [§ 8 Höhe der Gebühr bei Rücknahme des Antrags](0008.md)
+- [§ 9 Erstattung von Auslagen](0009.md)
+- [§ 10 Gebührenerhöhung und -ermäßigung](0010.md)
+- [§ 11 Anwendung des Bundesgebührengesetzes](0011.md)
+- [§ 12 Gebühren und Auslagen vor Inkrafttreten](0012.md)
+- [§ 13 Inkrafttreten](0013.md)

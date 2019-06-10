@@ -1,0 +1,228 @@
+# Anlage 2 (zu § 4)Ausbildungsrahmenplan für die Berufsausbildung zum Sozialversicherungsfachangestellten/zur Sozialversicherungsfachangestellten für die Fachrichtung gesetzliche Unfallversicherung
+
+(Fundstelle: BGBl. I 1996, S. 1989 - 1995)
+A. Sachliche Gliederung
+| Abschnitt I: Gemeinsame Fertigkeiten und Kenntnisse |
+|  |  |  |  |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 3 Abs. 1 Nr. 1) |  |
+| 1.1 | Stellung des Ausbildungsbetriebes im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 1.1) | a) | Stellung des Ausbildungsbetriebes im System der sozialen Sicherung erklären |
+| b) | Rechtsform des Ausbildungsbetriebes erläutern |
+| c) | Aufgaben der für den Ausbildungsbetrieb wichtigen Institutionen sowie Organisationen der Arbeitgeber und Arbeitnehmer erläutern |
+| 1.2 | Unternehmensziele und Organisation (§ 3 Abs. 1 Nr. 1.2) | a) | Tätigkeitsfelder des Ausbildungsbetriebes und Ziele erläutern |
+| b) | die Organisationsstrukturen des Ausbildungsbetriebes beschreiben |
+| c) | betriebliche Organisationsvorgaben in Arbeitsabläufen umsetzen |
+| 1.3 | Personalwesen (§ 3 Abs. 1 Nr. 1.3) | a) | Personalplanung, -beschaffung und -einsatz im Zusammenhang mit der Organisation des Ausbildungsbetriebes an Beispielen erläutern |
+| b) | die Qualifizierung von Beschäftigten als Personalentwicklungsmaßnahme und ihre Bedeutung für die persönliche Entwicklung sowie für den Ausbildungsbetrieb aufzeigen |
+| c) | für das Arbeitsverhältnis wichtige Nachweise und die Positionen der Gehaltsabrechnung erläutern |
+| 1.4 | Selbstverwaltung und Aufsicht (§ 3 Abs. 1 Nr. 1.4) | a) | die Wirkungen des Selbstverwaltungsprinzips auf die Aufgabenwahrnehmung beim Ausbildungsbetrieb beschreiben |
+| b) | Satzung und sonstige Normen als autonomes Recht des Ausbildungsbetriebes erläutern |
+| c) | Organe des Ausbildungsbetriebes und ihre Aufgaben beschreiben |
+| d) | Aufgaben der Staatsaufsicht und Aufsichtsmittel gegenüber dem Ausbildungsbetrieb darstellen |
+| 1.5 | Arbeits- und Dienstrecht, Berufsbildung (§ 3 Abs. 1 Nr. 1.5) | a) | Rechte und Pflichten aus dem Berufsausbildungsvertrag, dem Arbeitsvertrag sowie weiteren für den Ausbildungsbetrieb geltenden Rechtsgrundlagen beschreiben |
+| b) | arbeits- und dienstrechtliche Stellung der Beschäftigtengruppen des Ausbildungsbetriebes abgrenzen |
+| c) | den Ausbildungsplan mit der Ausbildungsordnung vergleichen und zu seiner Umsetzung beitragen |
+| d) | die sich aus den Rechten und Funktionen der Personal- oder Betriebsvertretung ergebenden Möglichkeiten erläutern |
+| e) | arbeits- und verwaltungsgerichtliche Verfahren als Formen des Rechtsschutzes der Beschäftigten erläutern |
+| 1.6 | Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung (§ 3 Abs. 1 Nr. 1.6) | a) | Regelungen über Sicherheit und Gesundheit bei der Arbeit einhalten und sich situationsgerecht verhalten |
+| b) | zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen |
+| c) | zur rationellen Ressourcenverwendung im beruflichen Einwirkungsbereich beitragen |
+| 2 | Aufgaben der Sozialversicherung (§ 3 Abs. 1 Nr. 2) |  |
+| 2.1 | Sozialversicherung im System der sozialen Sicherung (§ 3 Abs. 1 Nr. 2.1) | a) | die Stellung der Sozialversicherung im System der sozialen Sicherung erklären |
+| b) | die Gliederung der Sozialversicherung in Versicherungszweige erläutern |
+| c) | die in den Zweigen der Sozialversicherung zu lösenden Aufgaben den Versicherungsträgern zuordnen |
+| d) | gemeinsame Vorschriften für die Sozialleistungsbereiche anwenden |
+| e) | die für das Zusammenwirken der Sozialleistungsträger erforderlichen Maßnahmen einleiten |
+| f) | Wirkungen des über- und zwischenstaatlichen Sozialversicherungsrechts berücksichtigen |
+| 2.2 | Versicherte, Mitglieder (§ 3 Abs. 1 Nr. 2.2) | a) | Versicherungspflicht, Versicherungsfreiheit und Befreiung von der Versicherungspflicht Beschäftigter feststellen |
+| b) | Versicherungsberechtigung Beschäftigter feststellen |
+| c) | zuständigen Versicherungszweig und Versicherungsträger ermitteln |
+| 2.3 | Beiträge für Beschäftigte (§ 3 Abs. 1 Nr. 2.3) | a) | Beitragspflicht und Beitragsfreiheit feststellen |
+| b) | Bestimmungsgrößen für die Berechnung der Beiträge anwenden |
+| c) | Verteilung der Beitragslast sowie den Beitragszahler ermitteln |
+| d) | Fälligkeit der Beiträge bestimmen |
+| e) | Folgen des Zahlungsverzugs aufzeigen |
+| 2.4 | Leistungen (§ 3 Abs. 1 Nr. 2.4) | a) | Leistungsarten unterscheiden |
+| b) | Ansprüche auf gesundheitliche Maßnahmen feststellen |
+| c) | Ansprüche auf Maßnahmen zur wirtschaftlichen Sicherung feststellen |
+| d) | Wirksamkeit, Wirtschaftlichkeit und Bedarfsgerechtigkeit bei der Leistungserbringung berücksichtigen |
+| e) | Aufgaben der unterschiedlichen medizinischen Dienste beschreiben |
+| f) | Maßnahmen zur Sicherung von Erstattungsansprüchen gegenüber Leistungsempfängern und anderen Sozialleistungsträgern einleiten |
+| g) | Maßnahmen zur Sicherung von Schadensersatzansprüchen einleiten |
+| 3 | Informationsverarbeitung und Datenschutz (§ 3 Abs. 1 Nr. 3) |  |
+| 3.1 | Informationsbeschaffung, -Verarbeitung und -aufbereitung (§ 3 Abs. 1 Nr. 3.1) | a) | Ziele und Einsatzbereiche der Informationsverarbeitung beschreiben sowie Auswirkungen auf Arbeitsabläufe im Ausbildungsbetrieb erläutern |
+| b) | Daten für die Informationsverarbeitung beschaffen, aufbereiten und auswerten |
+| 3.2 | Informations- und Kommunikationssysteme (§ 3 Abs. 1 Nr. 3.2) | a) | Aufbau und Funktion der Informations- und Kommunikationssysteme des Ausbildungsbetriebes beschreiben |
+| b) | Informations- und Kommunikationstechniken des Ausbildungsbetriebes aufgabenorientiert einsetzen |
+| c) | Schutzvorschriften für mit Informations- und Kommunikationstechniken ausgestattete Arbeitsplätze anwenden |
+| 3.3 | Datenschutz (§ 3 Abs. 1 Nr. 3.3) | a) | Vorschriften zum Datenschutz anwenden |
+| b) | betriebliche Regelungen zur Datensicherheit bei der Erhebung, Verarbeitung und Nutzung von Daten anwenden |
+| 4 | Kommunikation und Kooperation (§ 3 Abs. 1 Nr. 4) |  |
+| 4.1 | Kommunikation und Kooperation in berufstypischen Situationen (§ 3 Abs. 1 Nr. 4.1) | a) | Grundsätze und Formen der Kommunikation und Kooperation in unterschiedlichen Situationen auf das berufliche Handeln anwenden |
+| b) | Kommunikation unter Beachtung rechtlicher, wirtschaftlicher und formaler Anforderungen ziel-, adressaten- und situationsgerecht gestalten |
+| c) | Notwendigkeit gegenseitiger Information und Vorzüge von Zusammenarbeit aufzeigen |
+| d) | bei der Kommunikation und Kooperation eigene Standpunkte artikulieren |
+| e) | gemeinsame Vorschriften über Aufklärung, Beratung und Auskunft anwenden |
+| 4.2 | Umgang mit Konflikten (§ 3 Abs. 1 Nr. 4.2) | a) | Konfliktursachen im Kommunikations- und Kooperationsprozeß feststellen |
+| b) | Möglichkeiten zur Konfliktregelung im Interesse eines sachbezogenen Ergebnisses anwenden |
+| c) | Konflikte als Chance für verbesserte Kommunikation und Kooperation erläutern |
+| 5 | Verwaltungshandeln und gerichtliche Verfahren (§ 3 Abs. 1 Nr. 5) | a) | Grundsätze und Formen des Verwaltungshandelns anwenden |
+| b) | Regelungen für Einleitung, Durchführung und Abschluß des Verwaltungsverfahrens anwenden |
+| c) | Regelungen zum Widerspruchsverfahren beim Versicherungsträger anwenden |
+| d) | Wirkungen des Sozialgerichtsverfahrens auf das Verwaltungshandeln des Versicherungsträgers erläutern |
+| e) | bei Ordnungswidrigkeiten erforderliche Maßnahmen veranlassen |
+| 6 | Anwenden von Lern- und Arbeitstechniken (§ 3 Abs. 1 Nr. 6) | a) | Methoden für systematisches und kontinuierliches Lernen berücksichtigen |
+|  |  |
+| b) | eigene Arbeitsorganisation rationell und funktionsgerecht gestalten |
+| c) | Fachliteratur, Dokumentationen und andere Informationsmittel nutzen |
+| d) | Arbeitsmittel rationell, funktionsgerecht und umweltschonend einsetzen |
+| e) | Techniken der Rechtsanwendung beim Wahrnehmen von Fachaufgaben einsetzen |
+| f) | aus mündlichen und schriftlichen Informationen den wesentlichen Sachverhalt ermitteln, Lösungen entwickeln und Ergebnisse adressatengerecht gestalten |
+| Abschnitt II: Fertigkeiten und Kenntnisse in der Fachrichtung |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Versicherter Personenkreis (§ 3 Abs. 2 Buchstabe B Nr. 1) | a) | Versicherungspflicht kraft Gesetzes oder Satzung als Voraussetzung für die Beitragspflicht des Unternehmers und die Leistungspflicht des Unfallversicherungsträgers feststellen |
+| b) | Versicherungsfreiheit und die Berechtigung zur freiwilligen Versicherung feststellen |
+| 2 | Mitgliedschaft (§ 3 Abs. 2 Buchstabe B Nr. 2) | a) | den zuständigen Unfallversicherungsträger bestimmen |
+| b) | Auswirkungen auf die Zuständigkeit in der gesetzlichen Unfallversicherung bei Änderungen des Unternehmers und des Unternehmens feststellen |
+| 3 | Finanzierung (§ 3 Abs. 2 Buchstabe B Nr. 3) | a) | die Finanzierung der gesetzlichen Unfallversicherung erläutern |
+| b) | Beitragspflicht feststellen, Beiträge berechnen sowie Beitragsentrichtung veranlassen und überwachen |
+| c) | Beitreibung von rückständigen Beiträgen einleiten |
+| 4 | Leistungen (§ 3 Abs. 2 Buchstabe B Nr. 4) | a) | in Zusammenarbeit mit anderen Beteiligten bei der Verhütung von Arbeitsunfällen, Berufskrankheiten und arbeitsbedingten Gesundheitsgefahren mitwirken |
+| b) | Arbeitsunfälle und Berufskrankheiten feststellen |
+| c) | Anspruch auf Heilbehandlung feststellen |
+| d) | Anspruch auf Pflege, berufsfördernde Leistungen zur Rehabilitation, Leistungen zur sozialen Rehabilitation und ergänzende Leistungen feststellen |
+| e) | Geldleistungen während der Heilbehandlung und der berufsfördernden Leistungen zur Rehabilitation bewirken |
+| f) | Renten an Versicherte und Leistungen an Hinterbliebene feststellen |
+| g) | Tatbestände für Änderung, Ruhen, Ende und Ausschluß von Renten feststellen und die erforderlichen Maßnahmen einleiten |
+| h) | Abfindung von Renten feststellen |
+| i) | Regelungen über die Zusammenarbeit zwischen den Unfallversicherungsträgern sowie mit Leistungserbringern anwenden |
+| k) | bei der Prüfung von Schadensersatzansprüchen gegenüber Unternehmern und Betriebsangehörigen mitwirken |
+B. Zeitliche Gliederung
+            Erstes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
+1.1 Stellung des Ausbildungsbetriebes im System der sozialen Sicherung,
+1.2 Unternehmensziele und Organisation, Lernziele a und b,
+1.3 Personalwesen, Lernziel c,
+1.4 Selbstverwaltung und Aufsicht,
+1.5 Arbeits- und Dienstrecht, Berufsbildung,
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziele a bis c,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildpositionen
+2.2 Versicherte, Mitglieder,
+2.3 Beiträge für Beschäftigte, Lernziele a bis c,
+in Verbindung mit
+1.2 Unternehmensziele und Organisation, Lernziel c,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+3 Informationsverarbeitung und Datenschutz,
+4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+6 Anwenden von Lern- und Arbeitstechniken
+zu vermitteln.
+(3)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A Abschnitt I der Berufsbildposition
+2.4 Leistungen, Lernziele a bis d,
+in Verbindung mit
+2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel d,
+5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+1.2 Unternehmensziele und Organisation, Lernziel c,
+1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+3 Informationsverarbeitung und Datenschutz,
+4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+6 Anwenden von Lern- und Arbeitstechniken
+fortzuführen.
+Zweites Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
+I. 1) 2.3 Beiträge für Beschäftigte, Lernziele d und e,
+II. 2) 1 Versicherter Personenkreis,
+II. 2 Mitgliedschaft,
+II. 3 Finanzierung
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 3 Informationsverarbeitung und Datenschutz,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 6 Anwenden von Lern- und Arbeitstechniken
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
+I. 2.4 Leistungen, Lernziel e,
+II. 4 Leistungen, Lernziele a bis e,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 3 Informationsverarbeitung und Datenschutz,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 6 Anwenden von Lern- und Arbeitstechniken
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildposition
+II. 4 Leistungen, Lernziele f bis i,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 3 Informationsverarbeitung und Datenschutz,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 6 Anwenden von Lern- und Arbeitstechniken
+fortzuführen.
+Drittes Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
+I. 1.3 Personalwesen, Lernziele a und b,
+I. 2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel e,
+I. 2.4 Leistungen, Lernziel f,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.5 Arbeits- und Dienstrecht, Berufsbildung, Lernziele a, b, d und e,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 3 Informationsverarbeitung und Datenschutz,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 6 Anwenden von Lern- und Arbeitstechniken,
+II. 1 Versicherter Personenkreis,
+II. 4 Leistungen, Lernziele a bis i,
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
+I. 2.4 Leistungen, Lernziel g,
+I. 4.2 Umgang mit Konflikten,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziel e,
+II. 4 Leistungen, Lernziel k,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 3 Informationsverarbeitung und Datenschutz,
+I. 4.1 Kommunikation und Kooperation in berufstypischen Situationen,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 6 Anwenden von Lern- und Arbeitstechniken,
+II. 1 Versicherter Personenkreis,
+II. 2 Mitgliedschaft,
+II. 3 Finanzierung,
+II. 4 Leistungen, Lernziele a bis i,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse gemäß Teil A der Berufsbildpositionen
+I. 2.1 Sozialversicherung im System der sozialen Sicherung, Lernziel f,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele c und d,
+zu vermitteln und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+I. 1.2 Unternehmensziele und Organisation, Lernziel c,
+I. 1.6 Sicherheit und Gesundheitsschutz am Arbeitsplatz, Umweltschutz und rationelle Ressourcenverwendung,
+I. 3 Informationsverarbeitung und Datenschutz,
+I. 4 Kommunikation und Kooperation,
+I. 5 Verwaltungshandeln und gerichtliche Verfahren, Lernziele a und b,
+I. 6 Anwenden von Lern- und Arbeitstechniken,
+II. 1 Versicherter Personenkreis,
+II. 2 Mitgliedschaft,
+II. 3 Finanzierung,
+II. 4 Leistungen
+fortzuführen.
+----------
+¹) Abschnitt I.
+²) Abschnitt II.

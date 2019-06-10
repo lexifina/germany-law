@@ -1,0 +1,15 @@
+# Anhang V Information der Öffentlichkeit
+
+Teil 1: Informationen zu Betriebsbereichen der unteren und der oberen Klasse
+1. Name oder Firma des Betreibers und vollständige Anschrift des Betriebsbereichs.
+2. Bestätigung, dass der Betriebsbereich den Vorschriften dieser Verordnung unterliegt und dass der zuständigen Behörde die Anzeige nach § 7 Absatz 1 und bei Betriebsbereichen der oberen Klasse der Sicherheitsbericht nach § 9 Absatz 1 vorgelegt wurde.
+3. Verständlich abgefasste Erläuterung der Tätigkeiten im Betriebsbereich.
+4. Gebräuchliche Bezeichnungen oder – bei gefährlichen Stoffen im Sinne der Stoffliste in Anhang I Nummer 1 – generische Bezeichnung oder Gefahreneinstufung der im Betriebsbereich vorhandenen relevanten gefährlichen Stoffe, von denen ein Störfall ausgehen könnte, sowie Angabe ihrer wesentlichen Gefahreneigenschaften in einfachen Worten.
+5. Allgemeine Informationen darüber, wie die betroffene Bevölkerung erforderlichenfalls gewarnt wird; angemessene Informationen über das Verhalten bei einem Störfall oder Hinweis, wo diese Informationen elektronisch zugänglich sind.
+6. Datum der letzten Vor-Ort-Besichtigung nach § 17 Absatz 2 oder Hinweis, wo diese Information elektronisch zugänglich ist; Unterrichtung darüber, wo ausführlichere Informationen zur Vor-Ort-Besichtigung und zum Überwachungsplan nach § 17 Absatz 1 unter Berücksichtigung des Schutzes öffentlicher oder privater Belange nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen auf Anfrage eingeholt werden können.
+7. Einzelheiten darüber, wo weitere Informationen unter Berücksichtigung des Schutzes öffentlicher oder privater Belange nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen eingeholt werden können.
+Teil 2: Weitergehende Informationen zu Betriebsbereichen der oberen Klasse
+1. Allgemeine Informationen zu den Gefahren, die von einem Störfall ausgehen können, einschließlich ihrer möglichen Auswirkungen auf die menschliche Gesundheit und die Umwelt und zusammenfassende Darstellung der wesentlichen Störfallszenarien und der Maßnahmen, mit denen diese Szenarien verhindert werden oder ihre Auswirkungen begrenzt werden sollen.
+2. Bestätigung, dass der Betreiber verpflichtet ist, auf dem Gelände des Betriebsbereichs – auch in Zusammenarbeit mit Notfall- und Rettungsdiensten – geeignete Maßnahmen zur Bekämpfung von Störfällen und zur größtmöglichen Begrenzung der Auswirkungen von Störfällen zu treffen.
+3. Angemessene Informationen aus den externen Alarm- und Gefahrenabwehrplänen zur Bekämpfung der Auswirkungen von Ereignissen außerhalb des Betriebsgeländes mit der Aufforderung, allen Anordnungen von Notfall- oder Rettungsdiensten im Fall eines Ereignisses Folge zu leisten.
+4. Gegebenenfalls Angabe, ob der Betriebsbereich in der Nähe des Hoheitsgebiets eines anderen Mitgliedstaats liegt und damit die Möglichkeit besteht, dass ein Störfall grenzüberschreitende Auswirkungen nach dem Übereinkommen über die grenzüberschreitenden Auswirkungen von Industrieunfällen der Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) hat.

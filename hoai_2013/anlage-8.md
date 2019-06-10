@@ -1,0 +1,28 @@
+# Anlage 8 (zu § 27 Absatz 2)Grundleistungen im Leistungsbild Pflege- und Entwicklungsplan
+
+Das Leistungsbild Pflege- und Entwicklungsplan setzt sich aus folgenden Grundleistungen je Leistungsphase zusammen:
+1. Leistungsphase 1: Klären der Aufgabenstellung und Ermitteln des Leistungsumfangs
+  a) Zusammenstellen und Prüfen der vom Auftraggeber zur Verfügung gestellten planungsrelevanten Unterlagen
+  b) Ortsbesichtigungen
+  c) Abgrenzen des Planungsgebiets anhand der planungsrelevanten Funktionen
+  d) Konkretisieren weiteren Bedarfs an Daten und Unterlagen
+  e) Beraten zum Leistungsumfang für ergänzende Untersuchungen und Fachleistungen
+  f) Aufstellen eines verbindlichen Arbeitsplans unter Berücksichtigung der sonstigen Fachbeiträge
+2. Leistungsphase 2: Ermitteln der Planungsgrundlagen
+  a) Ermitteln und Beschreiben der planungsrelevanten Sachverhalte auf Grund vorhandener Unterlagen
+  b) Auswerten und Einarbeiten von Fachbeiträgen
+  c) Bewerten der Bestandsaufnahmen einschließlich vorhandener Beeinträchtigungen sowie der abiotischen Faktoren hinsichtlich ihrer Standort- und Lebensraumbedeutung nach den Zielen und Grundsätzen des Naturschutzes
+  d) Beschreiben der Zielkonflikte mit bestehenden Nutzungen
+  e) Beschreiben des zu erwartenden Zustands von Arten und ihren Lebensräumen (Zielkonflikte mit geplanten Nutzungen)
+  f) Überprüfen der festgelegten Untersuchungsinhalte
+  g) Zusammenfassendes Darstellen von Erfassung und Bewertung in Text und Karte
+3. Leistungsphase 3: Vorläufige Fassung
+  a) Lösen der Planungsaufgabe und Erläutern der Ziele, Erfordernisse und Maßnahmen in Text und Karte
+  b) Formulieren von Zielen zum Schutz, zur Pflege, zur Erhaltung und Entwicklung von Arten, Biotoptypen und naturnahen Lebensräumen bzw. Standortbedingungen
+  c) Erfassen und Darstellen von Flächen, auf denen eine Nutzung weiter betrieben werden soll und von Flächen, auf denen regelmäßig Pflegemaßnahmen durchzuführen sind sowie von Maßnahmen zur Verbesserung der ökologischen Standortverhältnisse und zur Änderung der Biotopstruktur
+  d) Erarbeiten von Vorschlägen für Maßnahmen zur Förderung bestimmter Tier- und Pflanzenarten, zur Lenkung des Besucherverkehrs, für die Durchführung der Pflege- und Entwicklungsmaßnahmen und für Änderungen von Schutzzweck und -zielen sowie Grenzen von Schutzgebieten
+  e) Erarbeiten von Hinweisen für weitere wissenschaftliche Untersuchungen (Monitoring), Folgeplanungen und Maßnahmen
+  f) Kostenermittlung
+  g) Abstimmen der Vorläufigen Fassung mit dem Auftraggeber
+4. Leistungsphase 4: Abgestimmte Fassung
+  Darstellen des Pflege- und Entwicklungsplans in der mit dem Auftraggeber abgestimmten Fassung in Text und Karte.

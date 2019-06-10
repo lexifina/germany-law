@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 142 Abs. 2 Satz 1, 2, 6 und 7 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) und mit § 1 der TKG-Übertragungsverordnung vom 22. November 2004 (BGBl. I S. 2899), von denen § 142 Abs. 2 des Telekommunikationsgesetzes zuletzt durch Artikel 273 Nr. 1 und § 1 der TKG-Übertragungsverordnung zuletzt durch Artikel 465 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden sind, verordnet die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Technologie:

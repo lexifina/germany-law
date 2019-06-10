@@ -1,0 +1,20 @@
+# Verordnung über den Schutz von Wild
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich, Begriffsbestimmungen](0001.md)
+- [§ 2 Verbote](0002.md)
+- [§ 3 Halten von Greifen und Falken](0003.md)
+- [§ 4 Aufzeichnungs- und
+Kennzeichnungspflichten](0004.md)
+- [§ 5 Rechtmäßiger Besitz, Nachweispflicht](0005.md)
+- [§ 5a Strafvorschriften](0005a.md)
+- [§ 6 Ordnungswidrigkeiten](0006.md)
+- [§ 7 Berlin-Klausel](0007.md)
+- [§ 8 Inkrafttreten](0008.md)
+- [Schlußformel](schlussformel.md)
+- [Anlage 1 (zu § 2 Absatz 1)Liste der von den Verboten erfassten Wildarten](anlage-1.md)
+- [Anlage 2 (zu § 2 Absatz 2 Satz 3 Nummer 1)Liste der von bestimmten Verboten ausgenommenen Wildarten](anlage-2.md)
+- [Anlage 3 (zu § 2 Absatz 2 Satz 3 Nummer 2)Liste der von bestimmten Verboten ausgenommenen Wildarten bei Tätigkeiten nicht zu gewerbsmäßigen Zwecken](anlage-3.md)
+- [Anlage 4 (zu § 3 Absatz 1)Liste der Greife und Falken, deren Haltung beschränkt ist](anlage-4.md)
+- [Anlage 5 (zu § 4 Absatz 1 und § 5)Liste der kennzeichnungspflichtigen Wildarten](anlage-5.md)
+- [Anlage 6 (zu § 4 Abs. 1)Aufnahme- und Auslieferungsbuch](anlage-6.md)

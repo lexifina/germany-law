@@ -1,0 +1,6 @@
+# Art 5
+
+Der Bundesminister für Arbeit und Sozialordnung kann durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung des Abkommens vom 20. April 1960 und der Vereinbarung vom 10. Dezember 1964
+a) Träger der Sozialversicherung oder Verbände solcher Träger als Verbindungsstellen oder zuständige Träger bestimmen, ihre Aufgaben abgrenzen und die Aufsicht regeln,
+b) den Personen, auf die das Abkommen und die Vereinbarung anzuwenden sind, die Vorlage von Formblättern, ärztlichen Bescheinigungen und anderen Schriftstücken sowie die Einhaltung von Fristen und die Beachtung von Meldevorschriften auferlegen,
+c) ein Verzeichnis derjenigen Organisationen aufstellen, ändern oder ergänzen, deren Beschäftigte im Hoheitsgebiet des Vereinigten Königreichs nach Artikel 7 Abs. 5 des Abkommens den Rechtsvorschriften der Bundesrepublik unterliegen.

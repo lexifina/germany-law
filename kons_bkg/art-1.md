@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Wien am 31. Oktober 1963 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen vom 24. April 1963 über konsularische Beziehungen sowie den am gleichen Tag unterzeichneten Fakultativ-Protokollen über den Erwerb der Staatsangehörigkeit und über die obligatorische Beilegung von Streitigkeiten vom selben Tag wird zugestimmt. Das Übereinkommen und die beiden Fakultativ-Protokolle werden nachstehend veröffentlicht.

@@ -1,0 +1,6 @@
+# Art 24
+
+(1)
+Ein Indossament, das nach Erhebung des Protests oder nach Vornahme einer gleichbedeutenden Feststellung oder nach Ablauf der Vorlegungsfrist auf den Scheck gesetzt wird, hat nur die Wirkungen einer gewöhnlichen Abtretung.
+(2)
+Bis zum Beweis des Gegenteils wird vermutet, daß ein nicht datiertes Indossament vor Erhebung des Protests oder vor der Vornahme einer gleichbedeutenden Feststellung oder vor Ablauf der Vorlegungsfrist auf den Scheck gesetzt worden ist.

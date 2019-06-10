@@ -1,0 +1,54 @@
+# Anlage (zu § 2 Absatz 1)
+
+|  |  |  |  | Jahre |
+|  |  |  | Erläuterung | t-1 | t-1 | t | t+1 | t+2 | t+3 | t+4 | t+5 |
+| Annahmen |  | Niveau | Veränderungsrate |  |  |  |  |
+| BIP-Wachstum Welt | Veränderungsrate | x | x | x | x | * |  |  |  |
+| BIP-Wachstum Welt ohne Deutschland | Veränderungsrate | x | x | x | x | * |  |  |  |
+| BIP-Wachstum EU | Veränderungsrate | x | x | x | x | * |  |  |  |
+| Wachstum der deutschen Absatzmärkte | Veränderungsrate | x | x | x | x | * |  |  |  |
+| Weltimportvolumen | Veränderungsrate | x | x | x | x | * |  |  |  |
+|  |  |  |  |  | Niveau |  |  |  |  |
+| Ölpreis (Brent, USD/Barrel) | Jahresdurchschnitt |  | x | x | x | * |  |  |  |
+| Wechselkurs USD/Euro | Jahresdurchschnitt | x | x | x | * |  |  |  |
+| Makroökonomische Projektion |  | Niveau/Index | Veränderungsrate |  |  |  |  |
+| BIP | in jeweiligen Preisen | x | x | x | x | * |  |  |  |
+| BIP | preisbereinigt | x | x | x | x | * |  |  |  |
+|  | Private Konsumausgaben | preisbereinigt | x | x | x | x | * |  |  |  |
+|  | Konsumausgaben des Staates | preisbereinigt | x | x | x | x | * |  |  |  |
+|  | Bruttoanlageinvestitionen | preisbereinigt | x | x | x | x | * |  |  |  |
+|  |  | Ausrüstungsinvestitionen | preisbereinigt | x | x | x | x | * |  |  |  |
+|  |  | Bauinvestitionen | preisbereinigt | x | x | x | x | * |  |  |  |
+|  |  | Investitionen in sonstige Anlagen | preisbereinigt | x | x | x | x | * |  |  |  |
+|  | Exporte von Waren und Dienstleistungen | preisbereinigt | x | x | x | x | * |  |  |  |
+|  | Importe von Waren und Dienstleistungen | preisbereinigt | x | x | x | x | * |  |  |  |
+|  |  |  |  |  | Prozentpunkte |  |  |  |  |
+|  | Inländische Verwendung | Wachstumsbeitrag |  | x | x | x | * |  |  |  |
+|  | Vorratsveränderungen und Nettozugang an Wertsachen | Wachstumsbeitrag | x | x | x | * |  |  |  |
+|  | Außenbeitrag | Wachstumsbeitrag | x | x | x | * |  |  |  |
+|  |  |  |  | Index | Veränderungsrate | Veränderungsrate |
+| BIP Produktionspotenzial | preisbereinigt | x | x | x | x | x | x | x | * |
+|  |  |  |  |  | Prozentpunkte |  |  |  |  |
+|  | Wachstumsbeitrag: Faktor Arbeit | Wachstumsbeitrag |  | x | x | x | * |  |  |  |
+|  | Wachstumsbeitrag: Faktor Kapital | Wachstumsbeitrag | x | x | x | * |  |  |  |
+|  | Wachstumsbeitrag: Totale Faktorproduktivität | Wachstumsbeitrag | x | x | x | * |  |  |  |
+| Preise |  | Index | Veränderungsrate | Veränderungsrate |
+| BIP Deflator |  | x | x | x | x | x | x | x | * |
+| Deflator des privaten Konsums |  | x | x | x | x | * |  |  |  |
+| Verbraucherpreisindex |  | x | x | x | x | * |  |  |  |
+| Deflator des Staatskonsums |  | x | x | x | x | * |  |  |  |
+| Deflator der Bruttoanlageinvestitionen |  | x | x | x | x | * |  |  |  |
+| Deflator der Exporte |  | x | x | x | x | * |  |  |  |
+| Deflator der Importe |  | x | x | x | x | * |  |  |  |
+| Arbeitsmarkt |  | Niveau | Veränderungsrate |  |  |  |  |
+| Erwerbstätigkeit (Inland) | Niveau | x | x | x | x | * |  |  |  |
+| Arbeitsvolumen (in Std.) | x | x | x | x | * |  |  |  |
+| Arbeitslosenquote (BA) | x | x | x | x | * |  |  |  |
+| Bruttolöhne und Gehälter | x | x | x | x | * |  |  |  |
+| Bruttolöhne und Gehälter je Arbeitnehmer | x | x | x | x | * |  |  |  |
+|  |  |  |  | Index | Veränderungsrate |  |  |  |  |
+| Arbeitsproduktivität je Erwerbstätigen |  | x | x | x | x | * |  |  |  |
+| Arbeitsproduktivität je Erwerbstätigenstunde |  | x | x | x | x | * |  |  |  |
+Erläuterungen:
+| X: | Lieferprogramm für die Jahresprojektion und die Frühjahrsprojektion |
+| *: | wird zusätzlich geliefert in der Herbstprojektion |

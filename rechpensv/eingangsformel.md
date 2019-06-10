@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 330 Abs. 1 in Verbindung mit Abs. 3 und 5 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, veröffentlichten bereinigten Fassung, Absatz 1 zuletzt geändert durch Artikel 91 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), Absatz 3 angefügt durch Artikel 1 Nr. 7 Buchstabe c des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1377) sowie Absatz 5 angefügt durch Artikel 16 Nr. 1 des Gesetzes vom 26. Juni 2001 (BGBl. I S. 1310), verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen:

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 32 Abs. 1 Satz 1 Nr. 15 und Satz 5 des Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar 1981 (BGBl. I S. 61), Satz 5 zuletzt geändert durch Artikel 45 der Verordnung vom 21. September 1997 (BGBl. I S. 2390) in Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 27. Oktober 1998 (BGBl. I S. 3288) verordnen das Bundesministerium für Verkehr, Bau- und Wohnungswesen und das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit nach Anhörung des Beratenden Ausschusses nach § 32a des Luftverkehrsgesetzes:

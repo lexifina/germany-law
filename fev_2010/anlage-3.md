@@ -1,0 +1,113 @@
+# Anlage 3 (zu § 6 Absatz 6)Umstellung von Fahrerlaubnissen alten Rechts und Umtausch von Führerscheinen nach bisherigen Mustern
+
+Bei der Umstellung von Fahrerlaubnissen alten Rechts auf die neuen Klassen und den Umtausch von Führerscheinen nach den bisherigen Mustern werden folgende Klassen zugeteilt und im Führerschein bestätigt:
+A. Fahrerlaubnisse und Führerscheine nach den Vorschriften der Bundesrepublik Deutschland
+I. Fahrerlaubnisse nach der Straßenverkehrs-Zulassungs-Ordnung (Erteilungsdatum bis zum 31. Dezember 1998)
+| Lfd. Nr. | Fahrerlaubnis- klasse (alt) | Datum der Erteilung der Fahrerlaubnis | Fahrerlaubnisklassen (neu) | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | 1 | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 2 | 1 | im Saarland nach dem 30.11.54 und vor dem 1.10.60 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 3 | 1 | nach dem 30.11.54 und vor dem 1.1.89 | A, A2, A1, AM, L |  | L 174, 175 |
+| 4 | 1 | nach dem 31.12.88 | A, A2, A1, AM, L |  | L 174 |
+| 5 | 1 a | vor dem 1.1.89 | A, A2, A1, AM, L |  | L 174, 175 |
+| 6 | 1 a | nach dem 31.12.88 | A, A2, A1, AM, L |  | L 174 |
+| 7 | 1 beschränkt auf Leichtkrafträder | nach dem 31.3.80 und vor dem 1.4.86 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 8 | 1 b | vor dem 1.1.89 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 9 | 1 b | nach dem 31.12.88 | A1, AM, L |  | L 174, A1 79.05 |
+| 10 | 2 | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, BE 79.06 |
+| 11 | 2 | im Saarland nach dem 30.11.54 und vor dem 1.10.60 | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, BE 79.06 |
+| 12 | 2 | vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.05, A 79.03, A 79.04, BE 79.06 |
+| 13 | 2 | nach dem 31.3.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 14 | 2 beschränkt auf Kombinationen nach Art eines Sattelkraftfahrzeugs oder eines Lastkraftwagens mit drei Achsen | nach dem 31.12.85 | A, A1, AM, B, BE, C1, C1E, C, CE, L | T1 | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (L ≤ 3) |
+| 15 | 3 (a+b) | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 16 | 3 | im Saarland nach dem 30.11.54 und vor dem 1.10.60 | A, A2, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 17 | 3 | vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.05, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 18 | 3 | nach dem 31.3.80 und vor dem 1.1.89 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 19 | 3 | nach dem 31.12.88 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 20 | 4 | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 21 | 4 | im Saarland nach dem 30.11.54 und vor dem 1.10.60 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 22 | 4 | vor dem 1.4.80 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 23 | 4 | nach dem 31.3.80 und vor dem 1.1.89 | AM, L |  | L 174, 175 |
+| 24 | 4 | nach dem 31.12.88 | AM, L |  | L 174 |
+| 25 | 5 | vor dem 1.4.80 | AM, L |  | L 174, 175 |
+| 26 | 5 | nach dem 31.3.80 und vor dem 1.1.89 | AM, L |  | L 174, 175 |
+| 27 | 5 | nach dem 31.12.88 | L |  | L 174 |
+II. Fahrerlaubnisse nach der Fahrerlaubnis-Verordnung (Erteilungsdatum vom 1. Januar 1999 bis zum 18. Januar 2013)
+| Lfd. Nr. | Fahrerlaubnisklasse (alt) | Fahrerlaubnisklassen (neu) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | A1 | A1, AM | A1 79.05 |
+| 2 | A (beschränkt) | A, A2, A1, AM |  |
+| 3 | A | A, A2, A1, AM |  |
+| 4 | B | A, A1, AM, B, L | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 5 | BE | A, A1, AM, B, BE, L | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 6 | C1 | A, A1, AM, B, C1, L | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 7 | C1E | A, A1, AM, B, BE, C1, C1E, L | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 8 | C | A, A1, AM, B, C1, C, L | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 9 | CE | A, A1, AM, B, BE, C1, C1E, C, CE, L, T | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 10 | D1 | A, A1, AM, B, D1, L | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 11 | D1E | A, A1, AM, B, BE, D1, D1E, L | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 12 | D | A, A1, AM, B, D1, D, L | A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 13 | DE | A, A1, AM, B, BE, D1, D1E, D, DE, L | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 14 | M | AM |  |
+| 15 | L | L |  |
+| 16 | S | AM |  |
+| 17 | T | AM, L, T |  |
+III. Fahrerlaubnisse nach der Fahrerlaubnis-Verordnung (Erteilungsdatum vom 19. Januar 2013 bis zum Ablauf des 27. Dezember 2016)
+| Fahrerlaubnisklasse | Weitere Berechtigungen |
+| B | 194 |
+B. Fahrerlaubnisse und Führerscheine nach den Vorschriften der Deutschen Demokratischen Republik (auf der Basis der Verkehrsblattverlautbarung vom 27. Juni 1994)
+I. Vor dem 3. Oktober 1990 ausgestellte Führerscheine
+| Lfd. Nr. | DDR-Fahr- erlaubnisklasse | Datum der Erteilung der Fahrerlaubnis | Fahrerlaubnisklassen (neu) | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | A | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 2 | A | nach dem 30.11.54 und vor dem 1.1.89 | A, A2, A1, AM, L |  | L 174, 175 |
+| 3 | A | nach dem 31.12.88 | A, A2, A1, AM, L |  | L 174 |
+| 4 | B (beschränkt auf Kraftwagen mit nicht mehr als 250 cm Hubraum, Elektrokarren – auch mit Anhänger – sowie maschinell angetriebene Krankenfahrstühle) | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 5 | B (beschränkt) | nach dem 30.11.54 und vor dem 1.4.80 | A, A1, AM, B, L |  | L 174, 175, A1 79.05, A 79.03, A 79.04 |
+| 6 | B (beschränkt) | nach dem 31.3.80 und vor dem 1.1.89 | A, A1, AM, B, L |  | L 174, 175, A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 7 | B (beschränkt) | nach dem 31.12.88 | A, A1, AM, B, L |  | L 174, A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 8 | B | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C, C1E, CE, L | T | C1 171, L 174, A1 79.05, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 9 | B | nach dem 30.11.54 und vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.05, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 10 | B | nach dem 31.3.80 und vor dem 1.1.89 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 11 | B | nach dem 31.12.88 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 12 | C | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 13 | C | nach dem 30.11.54 und vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L | T | C 172, A1 79.05, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 14 | C | nach dem 31.3.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L | T | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 15 | D |  | A, A1, AM, B, BE, C1, C1E, C, L, T |  | L 174, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 16 | BE | vor dem 1.1.89 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 17 | BE | nach dem 31.12.88 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 18 | CE |  | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 19 | DE |  | A, A1, AM, B, BE, C1, C1E, L, T |  | A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+| 20 | M | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 21 | M | nach dem 30.11.54 und vor dem 1.4.80 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 22 | M | nach dem 31.3.80 und vor dem 1.1.89 | AM, L |  | L 174, 175 |
+| 23 | M | nach dem 31.12.88 | AM, L |  | L 174 |
+| 24 | T | vor dem 1.4.80 | AM, L |  | L 174, 175 |
+| 25 | T | nach dem 31.3.80 und vor dem 1.1.89 | L |  | L 174, 175 |
+| 26 | T | nach dem 31.12.88 | L |  | L 174 |
+II. Vor dem 1. Juni 1982 ausgestellte Führerscheine
+| Lfd. Nr. | DDR-Fahr- erlaubnisklasse | Datum der Erteilung der Fahrerlaubnis | Fahrerlaubnisklassen (neu) | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | 1 | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 2 | 1 | nach dem 30.11.54 | A, A2, A1, AM, L |  | L 174, 175 |
+| 3 | 2 | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 4 | 2 | nach dem 30.11.54 und vor dem 1.4.80 | A, A1, AM, B, L |  | L 174, 175, A1 79.05, A 79.03, A 79.04 |
+| 5 | 2 | nach dem 31.3.80 | A, A1, AM, B, L |  | L 174, 175, A1 79.03, A1 79.04, A 79.03, A 79.04 |
+| 6 | 3 | vor dem 1.12.54 | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 7 | 3 | nach dem 30.11.54 und vor dem 1.4.80 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 8 | 3 | nach dem 31.3.80 | AM, L |  | L 174, 175 |
+| 9 | 4 | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 10 | 4 | nach dem 30.11.54 und vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.05, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 11 | 4 | nach dem 31.3.80 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 12 | 5 | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, BE 79.06 |
+| 13 | 5 | nach dem 30.11.54 und vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.05, A 79.03, A 79.04, BE 79.06 |
+| 14 | 5 | nach dem 31.3.80 | A, A1, AM, B, BE, C1,C1E, C, CE, L, T |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
+III. Vor dem 1. April 1957 ausgestellte Führerscheine
+| Lfd. Nr. | DDR-Fahr- erlaubnisklasse | Datum der Erteilung der Fahrerlaubnis | Fahrerlaubnisklassen (neu) | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | 1 |  | A, A2, A1, AM, B, L |  | L 174, 175 |
+| 2 | 2 |  | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, BE 79.06 |
+| 3 | 3 |  | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
+| 4 | 4 |  | A, A2, A1, AM, B, L |  | L 174, 175 |
+IV. Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
+| Lfd. Nr. | DDR-Fahr- erlaubnisklasse | Datum der Erteilung der Fahrerlaubnis | Fahrerlaubnisklassen (neu) | Zuteilung nur auf Antrag Klasse (Schlüsselzahlen gemäß Anlage 9) | Weitere Berechtigungen oder Einschränkungen: Klasse und Schlüsselzahl gemäß Anlage 9 |
+| 1 | Langsam fahrende Fahrzeuge | vor dem 1.4.80 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 2 | Langsam fahrende Fahrzeuge | nach dem 31.3.80 | AM, L |  | L 174, 175 |
+| 3 | Kleinkrafträder | vor dem 1.4.80 | A1, AM, L |  | L 174, 175, A1 79.05 |
+| 4 | Kleinkrafträder | nach dem 31.3.80 | AM, L |  | L 174, 175 |
+C. (weggefallen)

@@ -1,0 +1,66 @@
+# Anlage (zu § 2 Abs. 1)Kostenverzeichnis
+
+| Nr. | Gebührentatbestand | Gebührenbetrag in Euro |
+| Teil A. Gebühren |
+| I. Registerauszüge und Eintragungsscheine |
+|  | Erteilung von |
+| 301 100 | -beglaubigten Registerauszügen | 20 |
+| 301 110 | -unbeglaubigten Registerauszügen sowie Eintragungsscheinen nach § 4 der WerkeRegVDie Datenträgerpauschale wird gesondert erhoben. | 15 |
+|  |
+| II. Beglaubigungen |
+| 301 200 | Beglaubigung von Ablichtungen und Ausdrucken für jede angefangene Seite | 0,50 - mindestens 5 |
+| (1) Die Beglaubigung von Ablichtungen und Ausdrucken der vom Deutschen Patent- und Markenamt erlassenen Entscheidungen und Bescheide ist gebührenfrei.(2) Auslagen werden zusätzlich erhoben. |  |
+|  |
+| III. Bescheinigungen, schriftliche Auskünfte |
+| 301 300 | Erteilung eines PrioritätsbelegsAuslagen werden zusätzlich erhoben. | 20 |
+|  |  |  |
+| 301 310 | Erteilung einer Bescheinigung oder schriftlichen AuskunftAuslagen werden zusätzlich erhoben. | 10 |
+|  |  |  |
+| 301 320 | Erteilung einer Schmuckurkunde (§ 25 Abs. 2 DPMAV)(1) Gebührenfrei ist -die Erteilung von Patent-, Gebrauchsmuster-, Topographie-, Marken- und Designurkunden (§ 25 Abs. 1 DPMAV) und-das Anheften von Unterlagen an die Schmuckurkunde.(2) Auslagen werden zusätzlich erhoben. | 15 |
+|  |  |  |
+| 301 330 | Erteilung einer HeimatbescheinigungAuslagen werden zusätzlich erhoben. | 15 |
+|  |
+| IV. Akteneinsicht, Erteilung von Ablichtungen und Ausdrucken |
+| 301 400 | Verfahren über Anträge auf Einsicht in AktenDie Akteneinsicht in solche Akten, deren Einsicht jedermann freisteht, in die Akten der eigenen Anmeldung oder des eigenen Schutzrechts ist gebührenfrei. | 90 |
+|  |  |  |
+| 301 410 | Verfahren über Anträge auf Erteilung von Ablichtungen und Ausdrucken aus Akten(1) Gebührenfrei ist -die Erteilung von Ablichtungen und Ausdrucken aus solchen Akten, deren Einsicht jedermann freisteht, aus Akten der eigenen Anmeldung oder des eigenen Schutzrechts, oder wenn-der Antrag im Anschluss an ein Akteneinsichtsverfahren gestellt wird, für das die Gebühr nach Nummer 301 400 gezahlt worden ist.(2) Auslagen werden zusätzlich erhoben. | 90 |
+|  |
+| V. Erstattung |
+| 301 500 | Erstattung von Beträgen, die ohne Rechtsgrund eingezahlt wurden | 10 |
+|  |  |  |
+|  |  |  |
+| Nr. | Auslagen | Höhe |
+| Teil B. Auslagen |
+| I. Dokumenten- und Datenträgerpauschale |
+| 302 100 | Pauschale für die Herstellung und Überlassung von Dokumenten: 1.Ausfertigungen, Ablichtungen und Ausdrucke, die auf Antrag angefertigt, per Telefax übermittelt oder die angefertigt worden sind, weil die Beteiligten es unterlassen haben, die erforderliche Zahl von Mehrfertigungen beizufügen (Dokumentenpauschale): |  |
+| für die ersten 50 Seiten je Seite | 0,50 EUR |
+| für jede weitere Seite | 0,15 EUR |
+| 2.Überlassung von elektronisch gespeicherten Dateien anstelle der in Nummer 1 genannten Ausfertigungen, Ablichtungen und Ausdrucke:je Datei | 2,50 EUR |
+| 3.Pauschale für die Überlassung von elektronisch gespeicherten Daten auf CD oder DVD (Datenträgerpauschale):je CD | 7,00 EUR |
+| je DVD | 12,00 EUR |
+| (1) Frei von der Dokumentenpauschale sind für jeden Beteiligten und dessen bevollmächtigte Vertreter jeweils –eine vollständige Ausfertigung oder Ablichtung oder ein vollständiger Ausdruck der Entscheidungen und Bescheide des Deutschen Patent- und Markenamts,–eine Ablichtung oder ein Ausdruck jeder Niederschrift über eine Sitzung.(2) Die Datenträgerpauschale wird in jedem Fall erhoben.(3) Für die Abgabe von Schutzrechtsdaten über die Dienste DPMAdatenabgabe und DEPATISconnect wird eine Dokumenten- oder Datenträgerpauschale nicht erhoben. |  |
+|  |
+| II. Auslagen für Fotos, graphische Darstellungen |
+| 302 200 | Die Auslagen für die Herstellung von Fotos oder Duplikaten von Fotos oder Farbkopien betragen für den ersten Abzug oder die erste Seite | 2 EUR |
+| für jeden weiteren Abzug oder jede weitere Seite | 0,50 EUR |
+|  |  |  |
+| 302 210 | Anfertigung von Fotos oder graphischen Darstellungen durch Dritte im Auftrag des Deutschen Patent- und Markenamts | in voller Höhe |
+|  |
+| III. Öffentliche Bekanntmachungen, Kosten eines Neudrucks |
+| 302 310 | (weggefallen) |  |
+|  |  |  |
+| 302 340 | Bekanntmachungskosten in Urheberrechtsverfahren | in voller Höhe |
+|  |  |  |
+| 302 360 | Kosten für den Neudruck oder die Änderung einer Offenlegungsschrift oder Patentschrift, soweit sie durch den Anmelder veranlasst sind | 80 EUR |
+|  |
+| IV. Sonstige Auslagen |
+|  | Als Auslagen werden ferner erhoben: |  |
+| 302 400 | -Auslagen für Zustellungen mit Zustellungsurkunde oder Einschreiben gegen Rückschein | in voller Höhe |
+| 302 410 | -Auslagen für Telegramme | in voller Höhe |
+| 302 420 | -die nach dem Justizvergütungs- und -entschädigungsgesetz (JVEG) zu zahlenden Beträge; erhält ein Sachverständiger aufgrund des § 1 Abs. 2 Satz 2 JVEG keine Vergütung, ist der Betrag zu erheben, der ohne diese Vorschrift nach dem JVEG zu zahlen wäre; sind die Auslagen durch verschiedene Verfahren veranlasst, werden sie auf die mehreren Verfahren angemessen verteilt | in voller Höhe |
+| 302 430 | -die bei Geschäften außerhalb des Deutschen Patent- und Markenamts den Bediensteten aufgrund gesetzlicher Vorschriften gewährte Vergütung (Reisekosten, Auslagenersatz) und die Kosten für die Bereitstellung von Räumen; sind die Auslagen durch verschiedene Verfahren veranlasst, werden sie auf die mehreren Verfahren angemessen verteilt | in voller Höhe |
+| 302 440 | -die Kosten der Beförderung von Personen | in voller Höhe |
+| -die Kosten für Zahlungen an mittellose Personen für die Reise zum Ort einer Verhandlung, Vernehmung oder Untersuchung und für die Rückreise | bis zur Höhe der nach dem JVEG an Zeugen zu zahlenden Beträge |
+| 302 450 | -die Kosten für die Beförderung von Tieren und Sachen mit Ausnahme der für Postdienstleistungen zu zahlenden Entgelte, die Verwahrung von Tieren und Sachen sowie die Fütterung von Tieren | in voller Höhe |
+| 302 460 | -Beträge, die anderen inländischen Behörden, öffentlichen Einrichtungen oder Bediensteten als Ersatz für Auslagen der in den Nummern 302 420 bis 302 450 bezeichneten Art zustehen; die Beträge werden auch erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind | begrenzt durch die Höchstsätze für die Auslagen 302 420 bis 302 450 |
+| 302 470 | -Beträge, die ausländischen Behörden, Einrichtungen oder Personen im Ausland zustehen, sowie Kosten des Rechtshilfeverkehrs mit dem Ausland; die Beträge werden auch dann erhoben, wenn aus Gründen der Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine Zahlungen zu leisten sind | in voller Höhe |

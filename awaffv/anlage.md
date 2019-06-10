@@ -1,0 +1,17 @@
+# Anlage (zu § 15 Abs. 2 Nr. 2)Waffen- und Munitionsarten
+
+( Fundstelle: BGBl. I 2008, 438 - 439 )
+1. Schusswaffen und ihnen gleichstehende Geräte
+  1.1 Büchsen und Flinten einschließlich Flobertwaffen und Zimmerstutzen
+  1.2 Pistolen und Revolver zum Verschießen von Patronenmunition; Schalldämpfer
+  1.3 Schreckschuss-, Reizstoff- und Signalwaffen gemäß Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 2.7 bis 2.9 des Waffengesetzes
+  1.4 Signalwaffen mit einem Patronen- oder Kartuschenlager von mehr als 12,5 mm Durchmesser
+  1.5 Druckluft-, Federdruck- und Druckgaswaffen
+  1.6 Schusswaffen, die vor dem 1. Januar 1871 hergestellt worden sind
+  1.7 Schusswaffen und ihnen gleichstehende Geräte, die nicht unter 1.1 bis 1.5 fallen.
+2. Munition
+  2.1 Munition zum Verschießen aus Büchsen und Flinten (1.1)
+  2.2 Munition zum Verschießen aus Pistolen und Revolvern (1.2)
+  2.3 Munition zum Verschießen aus Schreckschuss-, Reizstoff- und Signalwaffen (1.3)
+  2.4 Munition zum Verschießen aus Signalwaffen mit einem Kartuschenlager von mehr als 12,5 mm Durchmesser (1.4)
+  2.5 Munition zum Verschießen aus Schusswaffen, die vor dem 1. Januar 1871 hergestellt worden sind, und aus sonstigen ihnen gleichstehenden Geräten (1.6 und 1.7).

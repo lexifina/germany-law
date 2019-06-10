@@ -1,0 +1,26 @@
+# Anlage 3 (zu § 4 Abs. 2 Nr. 1)
+
+(Fundstelle des Originaltextes: BGBl. I 1990, 569)
+..........................................
+(Bezeichnung der Schule)
+Bescheinigung
+über die Teilnahme am theoretischen und praktischen Unterricht
+und an der praktischen Ausbildung
+Name, Vorname
+........................................................................
+Geburtsdatum Geburtsort
+........................................................................
+hat in der Zeit vom bis
+............................................
+regelmäßig und mit Erfolg an dem theoretischen und praktischen
+Unterricht und der praktischen Ausbildung für Orthoptistinnen und
+Orthoptisten teilgenommen.
+Die Ausbildung ist - nicht - über die nach dem Orthoptistengesetz
+zulässigen Fehlzeiten hinaus - um ......... Tage*) - unterbrochen
+worden.
+Ort, Datum
+............................................. (Stempel)
+.............................................
+(Unterschrift(en) der Schulleitung)
+--------------
+*) Nichtzutreffendes streichen.

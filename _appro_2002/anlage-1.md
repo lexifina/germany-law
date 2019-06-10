@@ -1,0 +1,21 @@
+# Anlage 1 (zu § 2 Abs. 1 Satz 2, § 41 Abs. 2 Nr. 9) Praktische Übungen, Kurse und Seminare, deren Besuch bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung nachzuweisen sind
+
+Fundstelle des Originaltextes: BGBl. I 2002, 2420
+I. 1. Naturwissenschaftliche Grundlagen der Medizin
+  1.1 Praktikum der Physik für Mediziner
+  1.2 Praktikum der Chemie für Mediziner
+  1.3 Praktikum der Biologie für Mediziner
+  2. Praktikum der Physiologie
+  3. Praktikum der Biochemie/Molekularbiologie
+  4. Kursus der makroskopischen Anatomie
+  5. Kursus der mikroskopischen Anatomie
+  6. Kursus der Medizinischen Psychologie und Medizinischen Soziologie
+  7. Seminar Physiologie
+  8. Seminar Biochemie/Molekularbiologie
+  9. Seminar Anatomie
+  10. Seminar der Medizinischen Psychologie und Medizinischen Soziologie
+  jeweils mit klinischen Bezügen.
+II. 1. Praktikum zur Einführung in die Klinische Medizin (mit Patientenvorstellung)
+  2. Praktikum der Berufsfelderkundung
+III. Praktikum der medizinischen Terminologie
+mit einer Gesamtstundenzahl von insgesamt mindestens 630 Stunden.

@@ -1,0 +1,3 @@
+# Art 2
+
+Die Aufgaben des Nationalen Präventionsmechanismus nach Artikel 3 des Protokolls werden im Zuständigkeitsbereich der Länder durch eine von diesen einzurichtende Kommission und im Zuständigkeitsbereich des Bundes durch eine vom Bundesministerium der Justiz einzurichtende Bundesstelle wahrgenommen.

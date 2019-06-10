@@ -1,0 +1,7 @@
+# Art 20
+
+Zwischen der Stadt Nördlingen und dem Markt Wallerstein, Landkreis Donau-Ries, Freistaat Bayern, sowie den Gemeinden Riesbürg und Kirchheim am Ries, Ostalbkreis, Land Baden-Württemberg, verläuft die neue Landesgrenze
+1. vom Landesgrenzpunkt 349 bis zum Landesgrenzpunkt 351 nach Maßgabe der Anlage 20, Seiten 1 und 7;
+2. vom Landesgrenzpunkt 355 bis zum Landesgrenzpunkt 371/2 nach Maßgabe der Anlage 20, Seiten 2 bis 4 und 7;
+3. vom Landesgrenzpunkt 371/3 bis zum Landesgrenzpunkt 371/4 nach Maßgabe der Anlage 20, Seiten 4 und 7;
+4. vom Landesgrenzpunkt 372 bis zum Landesgrenzpunkt 402 nach Maßgabe der Anlage 20, Seiten 5 bis 7.

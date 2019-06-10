@@ -1,0 +1,33 @@
+# Anlage 1 (zu § 2 Absatz 2 und 5)
+
+| Abschnitt AGeographische Koordinatendes Naturschutzgebietes „Pommersche Bucht – Rönnebank“ |  |
+| PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |
+| PBR2 | 54° 39' 27,8" N | 14° 24' 47,0" E |
+| PBR3 | 54° 07' 34,1" N | 14° 12' 05,2" E |
+| PBR4 | 54° 38' 51,3" N | 13° 59' 29,1" E |
+| PBR5 | 54° 43' 09,1" N | 13° 54' 03,7" E |
+| PBR6 | 54° 46' 14,0" N | 14° 00' 14,0" E |
+| PBR7 | 54° 42' 09,0" N | 14° 06' 14,0" E |
+| PBR9 | 54° 43' 18,0" N | 14° 08' 30,0" E |
+| PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |
+| Abschnitt B |  |
+1. Geographische Koordinaten des Bereiches I
+  | PBR4 | 54° 38' 51,3" N | 13° 59' 29,1" E |
+  | PBR5 | 54° 43' 09,1" N | 13° 54' 03,7" E |
+  | PBR6 | 54° 46' 14,0" N | 14° 00' 14,0" E |
+  | PBR7 | 54° 42' 09,0" N | 14° 06' 14,0" E |
+  | PBR4 | 54° 38' 51,3" N | 13° 59' 29,1" E |
+2. Geographische Koordinaten des Bereiches II
+  | PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |
+  | PBR2 | 54° 39' 27,8" N | 14° 24' 47,0" E |
+  | PBR8 | 54° 41' 56,0" N | 14° 07' 02,0" E |
+  | PBR9 | 54° 43' 18,0" N | 14° 08' 30,0" E |
+  | PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |
+3. Geographische Koordinaten des Bereiches IV
+  | PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |
+  | PBR2 | 54° 39' 27,8" N | 14° 24' 47,0" E |
+  | PBR3 | 54° 07' 34,1" N | 14° 12' 05,2" E |
+  | PBR4 | 54° 38' 51,3" N | 13° 59' 29,1" E |
+  | PBR7 | 54° 42' 09,0" N | 14° 06' 14,0" E |
+  | PBR9 | 54° 43' 18,0" N | 14° 08' 30,0" E |
+  | PBR1 | 54° 48' 43,0" N | 14° 14' 21,1" E |

@@ -1,0 +1,55 @@
+# Anlage (zu § 12 Absatz 1)
+
+Stimmrechtsmitteilung
+| 1. Angaben zum Emittenten |
+| Name: | LEI: |
+| Straße, Haus-Nr.: | PLZ: Ort: |
+| 2. Grund der Mitteilung (mehrere Angaben möglich) |
+| ⃞ Erwerb bzw. Veräußerung von Aktien mit Stimmrechten ⃞ Erwerb bzw. Veräußerung von Instrumenten ⃞ Änderung der Gesamtzahl der Stimmrechte ⃞ Sonstiger Grund: |
+| 3. Angaben zum Mitteilungspflichtigen |
+| Natürliche Person (Vorname, Nachname): | Juristische Person: |
+| Geburtsdatum: | Registrierter Sitz, Staat: , |
+| 4. Namen der Aktionäre mit 3 % oder mehr Stimmrechten, wenn abweichend von 3. |
+| 5. Datum der Schwellenberührung: |
+| 6. Gesamtstimmrechtsanteile |
+|  | Anteil Stimmrechte (Summe 7.a.) | Anteil Instrumente (Summe 7.b.1. + 7.b.2.) | Summe Anteile (Summe 7.a. + 7.b.) | Gesamtzahl der Stimmrechte nach § 41 WpHG |
+| neu | % | % | % |  |
+| letzte Mitteilung | % | % | % |  |
+| 7. Einzelheiten zu den Stimmrechtsbeständen |
+| a. Stimmrechte (§§ 33, 34 WpHG) |
+| ISIN | absolut | in % |
+| direkt (§ 33 WpHG) | zugerechnet (§ 34 WpHG) | direkt (§ 33 WpHG) | zugerechnet (§ 34 WpHG) |
+|  |  |  | % | % |
+|  |  |  | % | % |
+| Summe |  | % |
+| b.1. Instrumente i. S. d. § 38 Abs. 1 Nr. 1 WpHG |
+| Art des Instruments | Fälligkeit/ Verfall | Ausübungszeitraum/ Laufzeit | Stimmrechte absolut | Stimmrechte in % |
+|  |  |  |  | % |
+|  |  |  |  | % |
+|  |  |  |  | % |
+|  |  | Summe |  | % |
+| b.2. Instrumente i. S. d. § 38 Abs. 1 Nr. 2 WpHG |
+| Art des Instruments | Fälligkeit/ Verfall | Ausübungszeitraum/ Laufzeit | Barausgleich oder physische Abwicklung | Stimmrechte absolut | Stimmrechte in % |
+|  |  |  |  |  | % |
+|  |  |  |  |  | % |
+|  |  |  |  |  | % |
+|  | Summe |  | % |
+| 8. Informationen in Bezug auf den Mitteilungspflichtigen (bitte Zutreffendes ankreuzen) ⃞ Mitteilungspflichtiger (3.) wird weder beherrscht noch beherrscht Mitteilungspflichtiger andere Unternehmen, die Stimmrechte des Emittenten (1.) halten oder denen Stimmrechte des Emittenten zugerechnet werden. ⃞ Vollständige Kette der Tochterunternehmen, beginnend mit der obersten beherrschenden Person oder dem obersten beherrschenden Unternehmen: |
+| Unternehmen | Stimmrechte in %, wenn 3 % oder höher | Instrumente in %, wenn 5 % oder höher | Summe in %, wenn 5 % oder höher |
+|  | % | % | % |
+|  | % | % | % |
+|  | % | % | % |
+|  | % | % | % |
+| 9. Bei Vollmacht gemäß § 34 Abs. 3 WpHG (nur möglich bei einer Zurechnung nach § 34 Abs. 1 Satz 1 Nr. 6 WpHG) Datum der Hauptversammlung: Gesamtstimmrechtsanteile (6.) nach der Hauptversammlung |
+| Anteil Stimmrechte | Anteil Instrumente | Summe Anteile |
+| % | % | % |
+| 10. Sonstige Informationen: |
+| ............................................., Datum, Unterschrift | .............................................................. |
+Anhang zur Anlage (nur für BaFin)
+| 1. | Angaben zum Mitteilungspflichtigen: |
+|  | Straße: Haus-Nr.: PLZ: Ort: Staat: |
+| bei juristischen Personen: ⃞ Registrierter Sitz ⃞ nur Geschäftsanschrift |
+|  | Ansprechpartner: Telefon: Telefax: E-Mail: |
+| 2. | Angaben zum Absender (wenn abweichend von 1.): |
+|  | Name: Unternehmen: Straße: Hausnummer: PLZ: Ort: Staat: Telefon: Telefax: E-Mail: |
+| 3. Sonstige Informationen: |

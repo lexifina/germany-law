@@ -1,0 +1,6 @@
+# Art 1
+
+(1)
+Dem in London am 4. März 1974 von der Bundesrepublik Deutschland unterzeichneten Internationalen Übereinkommen vom 2. November 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und dem in London am 16. November 1978 von der Bundesrepublik Deutschland unterzeichneten Protokoll vom 17. Februar 1978 zu diesem Übereinkommen wird zugestimmt. Das Übereinkommen und das Protokoll werden nachstehend veröffentlicht. *)
+(2)
+Kapitel I Regel 19 Buchstabe f Satz 2 der Anlage des Protokolls vom 17. Februar 1978 zu dem Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See (BGBl. 1980 II S. 525) wird zugestimmt.

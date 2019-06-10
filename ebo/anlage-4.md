@@ -1,0 +1,38 @@
+# Anlage 4 (zu § 10)Gleisabstand
+
+1 Der Mindestgleisabstand ist durch Addition der halben Breitenmaße der Grenzlinien zu berechnen.
+2.1 Der Mindestgleisabstand darf auch wie folgt ermittelt werden:
+| Radius | Mindestgleisabstand bei einer Geschwindigkeit vonkm/h |
+| 160 | 140 | 120 | 100 | 80 | 70 | 60 | 50 | 40 | 30 |
+| m | m |
+| 2100 | 3,50 | 3,50 | 3,50 | 3,50 | 3,50 | 3,50 | 3,50 | 3,50 | 3,50 | 3,50 |
+| 1600 | 3,54 | 3,50 | ▼ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1300 | 3,58 | 3,53 | 3,50 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1100 | 3,61 | 3,56 | 3,51 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 950 |  |  | 3,59 | 3,53 | ▼ |  |  |  |  |  |  |  |  |  |  |  |  |
+| 850 |  |  | 3,61 | 3,55 | 3,50 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 700 |  |  |  |  | 3,59 | 3,53 | ▼ |  |  |  |  |  |  |  |  |  |  |
+| 600 |  |  |  |  | 3,62 | 3,55 | 3,50 |  |  |  |  |  |  |  |  |  |  |
+| 500 |  |  |  |  |  |  | 3,59 | 3,52 | ▼ |  |  |  |  |  |  |  |  |
+| 450 |  |  |  |  |  |  | 3,61 | 3,54 | 3,50 | ▼ |  |  |  |  |  |  |
+| 400 |  |  |  |  |  |  |  |  | 3,55 | 3,52 | 3,50 | ▼ |  |  |  |  |
+| 300 |  |  |  |  |  |  |  |  | 3,61 | 3,56 | 3,52 | 3,50 | ▼ |  |  |
+| 250 |  |  |  |  |  |  |  |  |  |  | 3,60 | 3,55 | 3,51 | 3,50 | ▼ |
+| 225 |  |  |  |  |  |  |  |  |  |  |  |  | 3,63 | 3,58 | 3,56 | 3,50 |
+| 200 |  |  |  |  |  |  |  |  |  |  |  |  | 3,71 | 3,66 | 3,62 | 3,62 |
+| 180 |  |  |  |  |  |  |  |  |  |  |  |  | 3,80 | 3,74 | 3,69 | 3,68 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+2.2 Hat das äußere Gleis eine größere Überhöhung (ua) als das innere Gleis (ui), so ist der Mindestgleisabstand zu vergrößern um
+| 3,531,50 | · ( ua - ui ) [mm] |
+|  |  |
+3 Bei Radien unter 250 m müssen die Gleisabstände von 4,00 m und 3,80 m (§ 10 Abs. 2) sowie von 4,00 m und 4,50 m (§ 10 Abs. 3) wie folgt vergrößert werden:
+| Radiusm | Vergrößerungmm |
+| 250 | 0 |
+| 225 | 55 |
+| 200 | 120 |
+| 180 | 180 |
+| 170 | 215 |
+| 150 | 305 |
+| 120 | 700 |
+| 100 | 1100 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist, in Verbindung mit § 39 Absatz 6 der Bundeslaufbahnverordnung, der durch Artikel 1 Nummer 8 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 14. März 2018 (BGBl. I S. 374) verordnet das Bundesministerium des Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium der Verteidigung:

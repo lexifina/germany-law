@@ -1,0 +1,62 @@
+# Anlage 3 (zu § 9)Ermittlung der Grenzlinie bei Oberleitung
+
+1 Die halben Breitenmaße der Grenzlinie bei Oberleitung sind durch Addition folgender horizontal wirkender Einflußgrößen zu berechnen:
+1.1 Halbes Breitenmaß des Stromabnehmers,
+1.2 Schwingung des Stromabnehmers,
+1.3 Auslenkung des Stromabnehmers im Gleisbogen,
+1.4 Verschiebung infolge der Stellung eines Fahrzeugs im Gleisbogen und unter Berücksichtigung der Spurweite des Gleises (Ausladung),
+1.5 Verschiebung aus quasistatischer Seitenneigung, die sich beim Stand eines Fahrzeugs in einem Gleis mit Überhöhung oder bei Fahrt in einem Gleisbogen mit Überhöhungsfehlbetrag ergibt, wobei nur der Wert in Ansatz gebracht wird, der den bereits in 1.2 enthaltenen Anteil von 66 mm überschreitet,
+1.6 Zufallsbedingte Verschiebungen aus Gleislageunregelmäßigkeiten; hierbei darf die geringe Wahrscheinlichkeit des gleichzeitigen Auftretens aller ungünstigen Einflüsse berücksichtigen werden.
+1.7 Mindestabstand von der Oberleitung
+| NennspannungkV | Abstand mm |
+| Wechselstrom | 15 | 150 | (100) |
+| Wechselstrom | 25 | 220 | (150) |
+| Gleichstrom | 1,5 | 35 | (25) |
+| Gleichstrom | 3 | 50 | (35) |
+2 Die Verschiebungen nach 1.2 bis 1.6 dürfen bei Geschwindigkeiten bis 160 km/h auch nach den folgenden Tabellen ermittelt werden:
+2.1 Schwingung und Auslenkung (zu 1.2 und 1.3)
+| Arbeitshöhe des Stromabnehmersmm | Verschiebung mm |
+| 6500 | 170 |
+| 5000 | 110 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+2.2 Ausladung bei Radien von 100 m und mehr (zu 1.4)
+| Radiusm | Ausladungmm |
+| Spurweite | Spurweite |
+| ≤ 1445 mm | ≤ 1470 mm |
+| 100 |  | 43 |
+| 120 |  | 39 |
+| 150 |  | 34 |
+| 200 |  | 30 |
+| 250 | 15 | 28 |
+| 300 | 13 | 26 |
+| 400 | 11 | 24 |
+| 500 | 10 | 23 |
+| 600 | 9 | 22 |
+| 800 | 8 | 21 |
+| 1000 | 8 | 20 |
+| 2000 | 6 | 19 |
+| 3000 | 6 | 18 |
+| ₒₒ | 5 | 18 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+2.3 Verschiebung aus quasistatischer Seitenneigung (zu 1.5)
+| Arbeitshöhe desStromabnehmers | Verschiebung bei Überhöhung oder Überhöhungsfehlbetragmm |
+| 66 | 100 | 130 | 150 | 160 |
+| mm | mm |
+| 6500 | 0 | 31 | 58 | 76 | 85 |
+| 5000 | 0 | 23 | 44 | 57 | 64 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+2.4 Zufallsbedingte Verschiebungen (zu 1.6)
+| Arbeitshöhe desStromabnehmers | Verschiebung |
+|  | bei nicht festgelegtemGleis | bei festgelegtemGleis | bei festgelegtem Gleisund einem Überhöhungs-oder Querhöhenfehler≤ 5 mm |
+| mm | mm |
+| 6500 | 99 | 95 | 32 |
+| 6000 | 92 | 87 | 29 |
+| 5500 | 85 | 80 | 27 |
+| 5000 | 79 | 73 | 25 |
+Zwischenwerte dürfen geradlinig eingeschaltet werden.
+3 Mindestfahrdrahthöhe über Schienenoberkante
+| NennspannungkV | Höhemm |
+| Wechselstrom | 15 | 4950 |
+| Wechselstrom | 25 | 5020 |
+| Gleichstrom | 1,5 | 4850 |
+| Gleichstrom | 3 | 4865 |

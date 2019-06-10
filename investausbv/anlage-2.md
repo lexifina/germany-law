@@ -1,0 +1,96 @@
+# Anlage 2 (zu § 4)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Investmentfondskaufmann/zur Investmentfondskauffrau
+
+- Zeitliche Gliederung -
+
+(Fundstelle: BGBl. I 2003, 726 - 727)
+A.
+Die Fertigkeiten und Kenntnisse zu den Berufsbildpositionen 1.5, 2.1 und 2.3 Lernziele a bis d sind während der gesamten Ausbildungszeit zu vermitteln. Ihre Vermittlung soll insbesondere im Zusammenhang mit den Berufsbildpositionen 3, 4, 5 und 6 erfolgen.
+B.
+1. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziele b und e,
+3.3 Anlegerschutz im Vertrieb, Lernziel b,
+1.1 Stellung, Rechtsform und Struktur,
+1.2 Berufsbildung und Personalwirtschaft, Lernziele a bis d und f bis h,
+1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
+1.4 Umweltschutz
+zu vermitteln.
+(2)
+In einem Zeitraum von vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+6.1 Depotführung, Lernziele a und b,
+6.2 Verwahrung und Verwaltung von Fondsanteilen; Zahlungsverkehr,
+6.3 Meldewesen und Statistik
+zu vermitteln.
+(3)
+In einem Zeitraum von drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+4.1 Betriebliches Rechnungswesen,
+4.2 Fondsbezogenes Rechnungswesen, Lernziele a bis c, e, f und o,
+4.4 Fondsreporting und -controlling, Lernziele b, c und e,
+2.2 Arbeitsorganisation, Lernziele b und c,
+2.4 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziel a,
+zu vermitteln.
+2. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt zwei bis drei Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+6.1 Depotführung, Lernziele c bis e,
+2.2 Arbeitsorganisation, Lernziele a, d und e,
+2.3 Kooperation und kundenorientierte Kommunikation, Lernziele e und f,
+3.3 Anlegerschutz im Vertrieb, Lernziele a und c,
+3.1 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziele a, c und d,
+zu vermitteln.
+(2)
+In einem Zeitraum von insgesamt fünf bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+4.2 Fondsbezogenes Rechnungswesen, Lernziele h bis n,
+4.3 Wertentwicklungsberechnung
+zu vermitteln
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+4.2 Fondsbezogenes Rechnungswesen, Lernziele c, e und f,
+2.2 Arbeitsorganisation, Lernziele b und c,
+2.4 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziel a,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele a bis g,
+5.2 Auflegung und Verwaltung von Fonds, Lernziele e bis g,
+5.3 Handel und Abwicklung, Lernziele a und b,
+2.4 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziel b,
+zu vermitteln.
+3. Ausbildungsjahr
+(1)
+In einem Zeitraum von insgesamt drei bis fünf Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+4.2 Fondsbezogenes Rechnungswesen, Lernziele d und g,
+4.4 Fondsreporting und -controlling, Lernziele a und d,
+2.4 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziele c und d,
+zu vermitteln
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.4 Anwendung einer Fremdsprache bei Fachaufgaben, Lernziele a und b,
+4.2 Fondsbezogenes Rechnungswesen, Lernziele h bis n,
+4.3 Wertentwicklungsberechnung,
+4.4 Fondsreporting und -controlling, Lernziele c und e,
+2.2 Arbeitsorganisation
+fortzuführen.
+(2)
+In einem Zeitraum von insgesamt vier bis sechs Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele h und i,
+5.2 Auflegung und Verwaltung von Fonds, Lernziele a bis d, h bis k,
+5.3 Handel und Abwicklung, Lernziele c bis f,
+zu vermitteln
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+5.1 Analysen zur Vorbereitung von Kauf- und Verkaufsentscheidungen, Lernziele c, e bis g,
+5.2 Auflegung und Verwaltung von Fonds, Lernziel g,
+fortzuführen.
+(3)
+In einem Zeitraum von insgesamt zwei bis vier Monaten sind schwerpunktmäßig die Fertigkeiten und Kenntnisse der Berufsbildpositionen
+3.1 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziel f,
+3.2 Marketinginstrumente,
+1.2 Berufsbildung und Personalwirtschaft, Lernziel e,
+zu vermitteln
+und im Zusammenhang damit die Vermittlung der Fertigkeiten und Kenntnisse der Berufsbildpositionen
+2.3 Kooperation und kundenorientierte Kommunikation, Lernziele e und f,
+3.1 Absatzmärkte, Zielgruppen, Vertriebskanäle, Lernziele c und d,
+3.3 Anlegerschutz im Vertrieb
+fortzuführen.

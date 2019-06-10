@@ -1,0 +1,3 @@
+# Art 2
+
+Ergeben sich aus der Durchführung des Abkommens, der Zusatzvereinbarung und des Zusatzprotokolls für einzelne Träger der Krankenversicherung außergewöhnliche Belastungen, so können diese ganz oder teilweise ausgeglichen werden. Über den Ausgleich entscheidet auf Antrag der Bundesverband der Ortskrankenkassen in seiner Eigenschaft als Verbindungsstelle (Krankenversicherung) im Einvernehmen mit den anderen Spitzenverbänden der Krankenversicherung. Die zur Durchführung des Ausgleichs erforderlichen Mittel werden durch Umlage auf sämtliche Träger der Krankenversicherung im Verhältnis der durchschnittlichen Mitgliederzahl des Vorjahres, einschließlich der Rentner, aufgebracht.

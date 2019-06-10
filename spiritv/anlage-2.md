@@ -1,0 +1,27 @@
+# Anlage 2 (zu § 5 Abs. 2)
+
+Bewertungsschema für Deutschen Weinbrand
+
+(Fundstelle des Originaltextes: BGBl. I 2003, 1261)
+1. Sensorische Vorbedingungen
+  Die nachfolgenden Vorbedingungen werden auf JA/NEIN-Entscheidung geprüft; dabei bedeutet NEIN den Ausschluss von der weiteren Prüfung.
+  a) Farbe: typisch - goldgelb bis goldbraun
+  b) Klarheit: typisch - blank, glanzhell
+2. Sensorische Prüfmerkmale und Qualitätszahl
+  a) Punkteskala
+|  | Punkte | Intervalle |  | Qualitätsbeschreibung |
+|  | 5 | 4,50 - 5,00 |  | hervorragend |
+|  | 4 | 3,50 - 4,49 |  | sehr gut |
+|  | 3 | 2,50 - 3,49 |  | gut |
+|  | 2 | 1,50 - 2,49 |  | zufrieden stellend |
+|  | 1 | 0,50 - 1,49 |  | nicht zufrieden stellend |
+|  | 0 |  |  | keine Bewertung, d.h. Ausschlussdes Erzeugnisses |
+| b) | Sensorische Prüfmerkmale und Möglichkeiten derPunktvergabe |
+| Prüfmerkmal: | Möglichkeit der Punktvergabe |
+| Geruch | 5,0 | 4,5 | 4,0 | 3,5 | 3,0 | 2,5 | 2,0 | 1,5 | 1,0 | 0,5 | 0 |
+| Geschmack | 5,0 | 4,5 | 4,0 | 3,5 | 3,0 | 2,5 | 2,0 | 1,5 | 1,0 | 0,5 | 0 |
+| Harmonie | 5,0 | 4,5 | 4,0 | 3,5 | 3,0 | 2,5 | 2,0 | 1,5 | 1,0 | 0,5 | 0 |
+Harmonie ist das Zusammenwirken von Geruch, Geschmack und den anderen in § 2 Nr. 6 genannten sensorischen Vorbedingungen. Ihre Bewertung darf gegenüber Geruch und Geschmack um höchstens 1,0 Punkt nach oben abweichen. Sind Geruch und Geschmack unterschiedlich bewertet, so gilt jeweils die höhere Punktzahl.
+    Jedes Prüfmerkmal ist einzeln zu bewerten und seine Punktzahl niederzuschreiben. Nach Bewertung aller Prüfmerkmale dürfen die niedergeschriebenen Punktzahlen noch korrigiert werden. Alle Prüfmerkmale sind gleich wichtig (jeweils Gewichtungsfaktor 1).
+  c) Mindestpunktzahl und Qualitätszahl
+    Die Mindestpunktzahl für jedes einzelne Prüfmerkmal ist 1,50. Die durch drei geteilte Summe der für Geruch, Geschmack und Harmonie erteilten Punkte ergibt die Qualitätszahl. Die Qualitätszahl muss für Deutschen Weinbrand mindestens 1,50 betragen.

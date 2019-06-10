@@ -1,0 +1,6 @@
+# Art 11
+
+(1)
+Sobald zwei Unterzeichnerstaaten ihre Ratifikationsurkunden zu diesem Übereinkommen hinterlegt haben, tritt es am dreißigsten Tag nach Hinterlegung der zweiten Ratifikationsurkunde zwischen ihnen in Kraft. Für jeden Staat, der das Übereinkommen später ratifiziert, tritt es am dreißigsten Tag nach Hinterlegung seiner Ratifikationsurkunde in Kraft.
+(2)
+Sobald dieses Übereinkommen in Kraft getreten ist, wird es durch den Generalsekretär der Internationalen Zivilluftfahrt-Organisation bei den Vereinten Nationen registriert.

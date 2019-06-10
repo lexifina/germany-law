@@ -1,0 +1,3 @@
+# Schlußformel
+
+Die Reichsregierung

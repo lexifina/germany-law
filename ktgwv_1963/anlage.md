@@ -1,0 +1,45 @@
+# Anlage (zu § 2)
+
+*Fe Warenliste zur Verordnung über die zollfreie Einfuhr von
+Kontingentswaren aus Frankreich in das Saarland */
+
+| Lfd. Nr. | Lfd. Nr. der Kontingents-Liste A | Kapitel oder Zolltarifnr. | Warenbezeichnung |
+| 1 | aus 1 | 01.02-A | Hausrinder, lebend |
+| 2 |  | 01.03-A | Hausschweine, lebend |
+| 3 |  | 01.04-A-I | Hausschafe, lebend |
+| 4 |  | aus 02.01 | Fleisch und genießbarer Schlachtabfall von Pferden, Rindern, Schweinen, Schafen und Ziegen |
+| 5 | aus 3 | aus 02.05 | Schweinespeck und Schweinefett, weder ausgepreßt noch ausgeschmolzen, frisch, gekühlt, gefroren, gesalzen, in Salzlake, getrocknet oder geräuchert, ausgenommen Schweinespeck mit mageren Teilen (durchwachsener Schweinespeck) |
+| 6 |  | 02.06 | Fleisch und genießbarer Schlachtabfall aller Art (ausgenommen Geflügellebern), gesalzen, in Salzlake, getrocknet oder geräuchert |
+| 7 | aus 9 | aus 04.01 | Milch, frisch, weder eingedickt noch gezuckert |
+| 8 | 10 | aus 04.01 | Rahm, frisch, weder eingedickt noch gezuckert |
+| 9 | 11 | 04.02 | Milch und Rahm, haltbar gemacht, eingedickt oder gezuckert |
+| 10 | 12 | 04.03 | Butter |
+| 11 | 17 | aus Kap. 6 | Lebende Pflanzen und Waren des Blumenhandels, ausgenommen Forstgehölze aus Tarifnr. 06.02-C-II-e |
+| 12 | 18 | 07.01 aus P | Champignons, frisch oder gekühlt |
+| 13 | 19 | 07.01 aus A | Speisekartoffeln; Saatkartoffeln |
+| 14 | 21 | aus 07.05 | Saatgut von Erbsen und Bohnen |
+| 15 | 29 | 08.04-A-I-a und A-II-a | Tafeltrauben |
+| 16 | 33 | aus 09.01-A | Kaffee, auch geröstet, nicht entkoffeiniert |
+| 17 | 51 | 11.01 | Mehl von Getreide |
+| 18 | 52 | aus 11.02 | Grobgrieß und Feingrieß von Gerste oder Hafer; Gerste- oder Haferkörner, geschält, geschliffen, perlförmig geschliffen, geschrotet oder gequetscht (einschließlich Flocken); Gersten- oder Haferkeime, auch gemahlen |
+| 19 | 53 | 11.05 | Mehl, Grieß und Flocken von Kartoffeln |
+| 20 | 55 | 11.08 | Stärke; Inulin |
+| 21 | 56 | 12.03 | Samen, Sporen und Früchte zur Aussaat |
+| 22 | 77 | 16.01 | Würste und dergleichen aus Fleisch, aus Schlachtabfall oder aus Tierblut |
+| 23 | 78 | 16.02 | Fleisch und Schlachtabfall, anders zubereitet oder haltbar gemacht |
+| 24 | 82 | 17.02-A bis D | Andere Zucker; Sirupe |
+| 25 | aus 84 | aus 17.04 | Fondantmasse, auch Trockenfondantmasse |
+| 26 | 90 | aus 18.06 | Schokoladeüberzugsmasse (Kuvertüre) und Schokoladenmasse (nicht ausgeformte Schokolade) |
+| 27 | aus 96 | 20.02-A -F-I -F-II und -G- | Champignons und andere Pilze Oliven, auch gefüllt Kapern andere Gemüse und Küchenkräuter |
+| 28 |  | 20.03 | Früchte, gefroren, mit Zusatz von Zucker |
+| 29 |  | 20.04 | Früchte, Fruchtschalen, Pflanzen und Pflanzenteile, mit Zucker haltbar gemacht (durchtränkt und abgetropft, glasiert oder kandiert) |
+| 30 | aus 97 | 20.05 | Konfitüren, Marmeladen, Fruchtgelees, Fruchtpasten und Fruchtmuse, durch Kochen hergestellt, auch mit Zusatz von Zucker |
+| 31 |  | aus 20.06 | Früchte, in anderer Weise zubereitet oder haltbar gemacht, auch mit Zusatz von Zucker oder Alkohol, ausgenommen Fruchtmark und Fruchtpülpe in Fässern |
+| 32 | 100 | 21.02 | Auszüge oder Essenzen aus Kaffee, Tee oder Mate; Zubereitungen auf der Grundlage solcher Auszüge oder Essenzen |
+| 33 | 110 | 22.05 | Wein aus frischen Weintrauben; mit Alkohol stummgemachter Most aus frischen Weintrauben |
+| 34 | 112 | aus 22.09 | Branntwein, Likör und andere alkoholische Getränke; zusammengesetzte alkoholische Zubereitungen zur Herstellung von Getränken |
+| 35 | aus 114 | aus 23.02 | Kleie und andere Rückstände vom Sichten, Mahlen oder von anderen Bearbeitungen von Getreide oder Hülsenfrüchten, ausgenommen Weizenkleie |
+| 36 |  | 23.07-B | Futter, melassiert oder gezuckert und anderes zubereitetes Futter; andere Zubereitungen der bei der Fütterung verwendeten Art (z.B. Zusatzfutter) |
+| 37 | 115 | 24.01-A- | Tabak, unverarbeitet |
+| 38 | aus 255 | 53.11 | Gewebe aus Wolle oder feinen Tierhaaren |
+| 39 | aus 261 | 55.09 | Andere Gewebe aus Baumwolle |

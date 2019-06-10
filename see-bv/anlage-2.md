@@ -1,0 +1,23 @@
+# Anlage 2 (zu § 5)Zulassung von Lehrgängen im deutschen Seeschifffahrtsrecht
+
+1. Lehrgänge
+  Die Lehrgänge im deutschen Seeschifffahrtsrecht richten sich an Schiffsoffiziere auf der Führungsebene und an Kapitäne.
+2. Anforderungen
+  Lehrgänge nach Nummer 1 müssen mindestens die Inhalte nach dieser Anlage vermitteln. Lehrgänge für Kapitäne sind Präsenzlehrgänge und grundsätzlich in deutscher Sprache durchzuführen.
+3. Teilnehmer
+  An den Lehrgängen nach Nummer 1 sollen Personen teilnehmen, die über ein gültiges Befähigungszeugnis als Schiffsoffizier oder Kapitän für den nautischen oder technischen Schiffsdienst verfügen, das nach Maßgabe dieser Verordnung vom Bundesamt anerkannt werden soll.
+4. Lehrgangsziele
+  Lehrgänge für Schiffsoffiziere sollen grundlegende, Lehrgänge für Kapitäne sollen vertiefte Kenntnisse im deutschen Seerecht vermitteln und die Teilnehmer insbesondere befähigen, durch die Anwendung der jeweiligen deutschen Vorschriften ihrer jeweils zugewiesenen Verantwortung für das menschliche Leben, den Schutz der Meeresumwelt und von Sachwerten nachzukommen und Gefahren auf See abzuwehren.
+5. Lehrgangsinhalte
+  Der Lehrgang soll die folgenden Inhalte erfassen:
+5.1 Rechtssystem der Bundesrepublik Deutschland,
+5.2 Aufgaben und Struktur der Schifffahrtsverwaltung,
+5.3 Allgemeines Seeverkehrsrecht,
+5.4 Ausbildung von Seeleuten, Bescheinigungen für Seeleute,
+5.5 Schiffsbesetzung,
+5.6 Seearbeitsgesetz und Begleitvorschriften einschließlich Arbeitsschutzrecht,
+5.7 Strafrecht und Ordnungswidrigkeiten mit Bezügen zum Seerecht,
+5.8 Zivilrechtliche Vorschriften mit Bezügen zum Seerecht,
+5.9 Öffentlich-rechtliche Vorschriften mit Bezügen zum Seerecht,
+5.10 Betriebsverfassungsrecht,
+5.11 Sozialrecht.

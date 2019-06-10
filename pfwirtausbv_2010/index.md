@@ -1,0 +1,17 @@
+# Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Staatliche Anerkennung des Ausbildungsberufes](0001.md)
+- [§ 2 Dauer der Berufsausbildung](0002.md)
+- [§ 3 Struktur der Ausbildung](0003.md)
+- [§ 4 Ausbildungsrahmenplan, Ausbildungsberufsbild](0004.md)
+- [§ 5 Durchführung der Berufsausbildung](0005.md)
+- [§ 6 Zwischenprüfung](0006.md)
+- [§ 7 Abschlussprüfung in der Fachrichtung Pferdehaltung und Service](0007.md)
+- [§ 8 Abschlussprüfung in der Fachrichtung Pferdezucht](0008.md)
+- [§ 9 Abschlussprüfung in der Fachrichtung Klassische Reitausbildung](0009.md)
+- [§ 10 Abschlussprüfung in der Fachrichtung Pferderennen](0010.md)
+- [§ 11 Abschlussprüfung in der Fachrichtung Spezialreitweisen](0011.md)
+- [§ 12 Bestehende Berufsausbildungsverhältnisse](0012.md)
+- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)
+- [Anlage (zu § 4 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin](anlage.md)

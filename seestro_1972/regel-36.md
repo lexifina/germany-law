@@ -1,0 +1,3 @@
+# Regel 36 Aufmerksamkeitssignale
+
+Ist es erforderlich, die Aufmerksamkeit eines anderen Fahrzeugs zu erregen, so darf ein Fahrzeug Licht- oder Schallsignale geben, die nicht mit anderen Signalen nach diesen Regeln verwechselt werden können; es darf auch seinen Scheinwerfer auf die Gefahr richten, wenn es dadurch andere Fahrzeuge nicht verwirrt. Jedes Licht, das die Aufmerksamkeit eines anderen Fahrzeugs erregen soll, muß so beschaffen sein, daß es nicht mit einem Schiffahrtszeichen verwechselt werden kann. Für die Zwecke dieser Regel ist die Verwendung von hoher Lichtstärke bei unterbrochenen Lichtern oder Drehlichtern, zum Beispiel Lichter mit umlaufender Blendscharte, zu vermeiden.

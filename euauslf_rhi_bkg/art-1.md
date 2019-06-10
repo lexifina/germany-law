@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Paris am 13. Dezember 1957 von der Bundesrepublik Deutschland unterzeichneten Europäischen Auslieferungsübereinkommen und dem in Straßburg am 20. April 1959 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen über die Rechtshilfe in Strafsachen wird nach Maßgabe des Artikels 2 zugestimmt. Die Übereinkommen werden nachstehend veröffentlicht.

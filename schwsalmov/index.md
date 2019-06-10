@@ -1,0 +1,17 @@
+# Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 2 Untersuchung](0002.md)
+- [§ 3 Untersuchungsergebnisse](0003.md)
+- [§ 4 Aufzeichnungen und Kategorisierung](0004.md)
+- [§ 5 Impfungen](0005.md)
+- [§ 6 Maßnahmen](0006.md)
+- [§ 7 Informationspflicht](0007.md)
+- [§ 8 Beauftragung](0008.md)
+- [§ 9 Ordnungswidrigkeiten](0009.md)
+- [§ 10 Übergangsvorschriften](0010.md)
+- [§ 11 Inkrafttreten](0011.md)
+- [Schlussformel](schlussformel.md)
+- [Anlage 1 (zu § 2 Abs. 1 und 2, § 4 Abs. 2)](anlage-1.md)
+- [Anlage 2 (zu § 4 Abs. 2)](anlage-2.md)

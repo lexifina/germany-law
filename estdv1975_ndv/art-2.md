@@ -1,0 +1,3 @@
+# Art 2
+
+Bei der Berechnung des Teilwerts einer Pensionsverpflichtung nach Beendigung des Dienstverhältnisses unter Aufrechterhaltung der Pensionsanwartschaft oder nach Eintritt des Versorgungsfalles ist abweichend von § 6a Abs. 3 letzter Satz des Gesetzes für Wirtschaftsjahre, die vor dem 1. Januar 1976 enden, ein Rechnungszinsfuß von mindestens 3,5 vom Hundert anzuwenden, wenn der Pensionsberechtigte in dem letzten Wirtschaftsjahr vor der Beendigung des Dienstverhältnisses oder dem Eintritt des Versorgungsfalles mindestens acht Monate in einer in Berlin (West) belegenen Betriebstätte beschäftigt war.

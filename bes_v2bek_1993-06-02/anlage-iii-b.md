@@ -1,0 +1,23 @@
+# Anlage III B (Anlage V des BBesG)
+
+Gültig ab 1. Juni 1992
+
+Ortszuschlag
+
+(Monatsbeträge in DM)
+
+(Fundstelle des Originaltextes: BGBl. I 1993, 800)
+| Tarifklasse | Zu der Tarifklasse gehörende Besoldungsgruppen | Stufe 1 | Stufe 2 | Stufe 3 1 Kind |
+| Ia | B 3 bis B 11 |  |  |  |
+| C 4 | 724,50 | 840,06 | 938,95 |
+| R 3 bis R 10 |  |  |  |
+| Ib | B 1 und B 2 |  |  |  |
+| A 13 bis A 16 | 611,18 | 726,74 | 825,63 |
+| C 1 bis C 3 |  |  |  |
+| R 1 und R 2 |  |  |  |
+| Ic | A 9 bis A 12 | 543,16 | 658,74 | 757,63 |
+| II | A 1 bis A 8 | 511,66 | 621,72 | 720,61 |
+Bei mehr als einem Kind erhöht sich der Ortszuschlag für jedes weitere zu berücksichtigende Kind um 98,89 DM.
+In Tarifklasse II erhöht sich der Ortszuschlag ab Stufe 4 für das zweite und jedes weitere zu berücksichtigende Kind in den Besoldungsgruppen A 1 bis A 3 um je 28 DM, in Besoldungsgruppe A 4 um je 21 DM und in Besoldungsgruppe A 5 um je 14 DM. Soweit dadurch im Einzelfall die Besoldung hinter derjenigen aus einer niedrigeren Besoldungsgruppe zurückbleibt, wird der Unterschiedsbetrag zusätzlich gewährt.
+| Ortszuschlag nach § 39 Abs. 2 Satz 1: | Tarifklasse Ic | 434,53 DM, |
+|  | Tarifklasse II | 409,33 DM. |

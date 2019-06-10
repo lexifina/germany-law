@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Um marktwirtschaftliche Grundsätze auf dem Gebiet des öffentlichen Auftragswesens verstärkt durchzusetzen, wird auf Grund des § 2 des Preisgesetzes vom 10. April 1948 (WiGBl. S. 27)/3. Februar 1949 (WiGBl. S. 14)/21. Januar 1950 (Bundesgesetzbl. S. 7)/8. Juli 1950 (Bundesgesetzbl. S. 274)/25. September 1950 (Bundesgesetzbl. S. 681)/23. Dezember 1950 (Bundesgesetzbl. S. 824) und 29. März 1951 (Bundesgesetzbl. I S. 223) in der sich aus § 37 des Gesetzes über die Investitionshilfe der gewerblichen Wirtschaft vom 7. Januar 1952 (Bundesgesetzbl. I S. 7) ergebenden Fassung verordnet:

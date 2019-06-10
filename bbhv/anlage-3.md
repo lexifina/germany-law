@@ -1,0 +1,93 @@
+# Anlage 3 (zu den §§ 18 bis 21)Ambulant durchgeführte psychotherapeutische Behandlungen und Maßnahmen der psychosomatischen Grundversorgung
+
+Abschnitt 1
+Psychotherapeutische Leistungen
+1. Nicht beihilfefähig sind Aufwendungen für:
+  a) Familientherapie,
+  b) Funktionelle Entspannung nach Marianne Fuchs,
+  c) Gesprächspsychotherapie (zum Beispiel nach Rogers),
+  d) Gestalttherapie,
+  e) Körperbezogene Therapie,
+  f) Konzentrative Bewegungstherapie,
+  g) Logotherapie,
+  h) Musiktherapie,
+  i) Heileurhythmie,
+  j) Psychodrama,
+  k) Respiratorisches Biofeedback,
+  l) Transaktionsanalyse.
+2. Nicht zu den psychotherapeutischen Leistungen im Sinne der §§ 18 bis 21 gehören:
+  a) Behandlungen, die zur schulischen, beruflichen oder sozialen Anpassung oder Förderung bestimmt sind,
+  b) Maßnahmen der Erziehungs-, Ehe-, Lebens- oder Sexualberatung,
+  c) Heilpädagogische und ähnliche Maßnahmen sowie
+  d) Psychologische Maßnahmen, die der Aufarbeitung und Überwindung sozialer Konflikte dienen.
+Abschnitt 2
+Psychosomatische Grundversorgung
+1. Aufwendungen für eine verbale Intervention sind nur beihilfefähig, wenn die Behandlung durchgeführt wird von einer Fachärztin oder einem Facharzt für
+  a) Allgemeinmedizin,
+  b) Augenheilkunde,
+  c) Frauenheilkunde und Geburtshilfe,
+  d) Haut- und Geschlechtskrankheiten,
+  e) Innere Medizin,
+  f) Kinder- und Jugendlichenmedizin,
+  g) Kinder- und Jugendpsychiatrie und -psychotherapie,
+  h) Neurologie,
+  i) Phoniatrie und Pädaudiologie,
+  j) Psychiatrie und Psychotherapie,
+  k) Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie oder
+  l) Urologie.
+2. Aufwendungen für übende und suggestive Interventionen (autogenes Training, Jacobsonsche Relaxationstherapie, Hypnose) sind nur dann beihilfefähig, wenn die Behandlung durchgeführt wird von
+  a) einer Ärztin oder einem Arzt,
+  b) einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten,
+  c) einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten.
+  Die behandelnde Person muss über Kenntnisse und Erfahrungen in der Anwendung der entsprechenden Intervention verfügen.
+Abschnitt 3
+Tiefenpsychologisch fundierte und analytische Psychotherapie
+1. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
+  a) Psychotherapeutische Medizin,
+  b) Psychiatrie und Psychotherapie oder Psychosomatische Medizin und Psychotherapie,
+  c) Kinder- und Jugendlichenpsychiatrie und -psychotherapie oder
+  d) Ärztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychotherapie“ oder „Psychoanalyse“.
+  Eine Fachärztin oder ein Facharzt für Psychotherapeutische Medizin, Psychiatrie und Psychotherapie oder Kinder- und Jugendlichenpsychiatrie und -psychotherapie sowie eine Ärztin oder ein Arzt mit der Bereichsbezeichnung „Psychotherapie“ kann nur tiefenpsychologisch fundierte Psychotherapie (Nummern 860 bis 862 der Anlage zur Gebührenordnung für Ärzte) durchführen. Eine Ärztin oder ein Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychoanalyse“ oder mit der vor dem 1. April 1984 verliehenen Bereichsbezeichnung „Psychotherapie“ kann auch analytische Psychotherapie (Nummern 863 und 864 der Anlage zur Gebührenordnung für Ärzte) durchführen.
+2. Eine Psychologische Psychotherapeutin oder ein Psychologischer Psychotherapeut mit einer Approbation nach § 2 des Psychotherapeutengesetzes (PsychThG) kann Leistungen für diejenige anerkannte Psychotherapieform (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er eine vertiefte Ausbildung erfahren hat.
+3. Wird die Behandlung von einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten mit einer Approbation nach § 12 PsychThG durchgeführt, muss diese Person
+  a) zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen sein,
+  b) in das Arztregister eingetragen sein oder
+  c) über eine abgeschlossene Ausbildung in tiefenpsychologisch fundierter und analytischer Psychotherapie an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten psychotherapeutischen Ausbildungsinstitut verfügen.
+4. Eine Psychologische Psychotherapeutin oder ein Psychologischer Psychotherapeut kann nur Leistungen für diejenige Psychotherapieform (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen oder in das Arztregister eingetragen ist. Eine Psychologische Psychotherapeutin oder ein Psychologischer Psychotherapeut, die oder der über eine abgeschlossene Ausbildung an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten psychotherapeutischen Ausbildungsinstitut verfügt, kann sowohl tiefenpsychologisch fundierte als auch analytische Psychotherapie durchführen (Nummern 860, 861 und 863 der Anlage zur Gebührenordnung für Ärzte).
+5. Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut mit einer Approbation nach § 2 PsychThG kann Leistungen für diejenige Psychotherapieform bei Personen, die das 18. Lebensjahr noch nicht vollendet haben, (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er eine vertiefte Ausbildung erfahren hat.
+6. Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten mit einer Approbation nach § 12 PsychThG durchgeführt, muss diese Person
+  a) zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen sein,
+  b) in das Arztregister eingetragen sein oder
+  c) über eine abgeschlossene Ausbildung in tiefenpsychologisch fundierter und analytischer Psychotherapie an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten psychotherapeutischen Ausbildungsinstitut für Kinder- und Jugendlichenpsychotherapie verfügen.
+7. Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut kann nur Leistungen für diejenige Psychotherapieform (tiefenpsychologisch fundierte oder analytische Psychotherapie) erbringen, für die sie oder er zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen oder in das Arztregister eingetragen ist. Eine Kinder- und Jugendlichenpsychotherapeutin oder ein Kinder- und Jugendlichenpsychotherapeut, die oder der über eine abgeschlossene Ausbildung an einem anerkannten psychotherapeutischen Ausbildungsinstitut für Kinder- und Jugendlichenpsychotherapie verfügt, kann sowohl tiefenpsychologisch fundierte als auch analytische Psychotherapie durchführen (Nummern 860, 861 und 863 der Anlage zur Gebührenordnung für Ärzte).
+8. Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+  Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+9. Voraussetzung für die Beihilfefähigkeit der Aufwendungen in Ausnahmefällen (§ 19 Absatz 1 Nummer 3 und 4) ist, dass vor Beginn der Behandlung eine erneute eingehende Begründung der Therapeutin oder des Therapeuten vorgelegt wird und die Festsetzungsstelle vor Beginn der Behandlung zugestimmt hat. Zeigt sich bei der Therapie, dass das Behandlungsziel innerhalb der vorgesehenen Anzahl der Sitzungen nicht erreicht wird, kann in Ausnahmefällen eine weitere begrenzte Behandlungsdauer anerkannt werden. Die Anerkennung darf erst im letzten Behandlungsabschnitt erfolgen. Voraussetzung für die Anerkennung ist eine Indikation nach § 18a Absatz 1 und 2, die nach ihrer besonderen Symptomatik und Struktur eine besondere tiefenpsychologisch fundierte oder analytische Bearbeitung erfordert und eine hinreichende Prognose über das Erreichen des Behandlungsziels erlaubt.
+Abschnitt 4
+Verhaltenstherapie
+1. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person Fachärztin oder Facharzt für eines der folgenden Fachgebiete sein:
+  a) Psychotherapeutische Medizin oder Psychosomatische Medizin,
+  b) Psychiatrie und Psychotherapie,
+  c) Kinder- und Jugendlichenpsychiatrie und -psychotherapie oder
+  d) Ärztin oder Arzt mit der Bereichs- oder Zusatzbezeichnung „Psychotherapie“.
+  Ärztliche Psychotherapeutinnen oder ärztliche Psychotherapeuten, die keine Fachärztinnen oder Fachärzte sind, können die Behandlung durchführen, wenn sie den Nachweis erbringen, dass sie während ihrer Weiterbildung schwerpunktmäßig Kenntnisse und Erfahrungen in Verhaltenstherapie erworben haben.
+2. Eine Psychologische Psychotherapeutin oder ein Psychologischer Psychotherapeut mit einer Approbation nach § 2 PsychThG kann Verhaltenstherapie durchführen, wenn sie oder er dafür eine vertiefte Ausbildung erfahren hat.
+3. Wird die Behandlung von einer Psychologischen Psychotherapeutin, einem Psychologischen Psychotherapeuten, einer Kinder- und Jugendlichenpsychotherapeutin oder einem Kinder- und Jugendlichenpsychotherapeuten mit einer Approbation nach § 12 PsychThG durchgeführt, muss diese Person
+  a) zur vertragsärztlichen Versorgung der gesetzlichen Krankenkassen zugelassen sein,
+  b) in das Arztregister eingetragen sein oder
+  c) über eine abgeschlossene Ausbildung in Verhaltenstherapie an einem bis zum 31. Dezember 1998 von der Kassenärztlichen Bundesvereinigung anerkannten verhaltenstherapeutischen Ausbildungsinstitut verfügen.
+4. Wird die Behandlung von Personen, die das 18. Lebensjahr noch nicht vollendet haben, von einer Person durchgeführt, die weder Fachärztin oder Facharzt für Kinder- und Jugendlichenpsychiatrie und -psychotherapie noch Kinder- und Jugendlichenpsychotherapeutin oder Kinder- und Jugendlichenpsychotherapeut ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+  Werden Gruppenbehandlungen von einer Person durchgeführt, die keine Fachärztin oder kein Facharzt für Psychotherapeutische Medizin oder Psychosomatische Medizin und Psychotherapie ist, hat die behandelnde Person neben der Berechtigung nach Nummer 1, 2 oder 3 ihre fachliche Befähigung auch durch eine entsprechende Berechtigung einer Kassenärztlichen Vereinigung nachzuweisen.
+Abschnitt 5
+Eye-Movement-
+Desensitization-and-Reprocessing-Behandlung
+1. Wird die Behandlung von einer ärztlichen Psychotherapeutin oder einem ärztlichen Psychotherapeuten durchgeführt, muss diese Person
+  a) die Voraussetzungen nach Abschnitt 3 oder Abschnitt 4 erfüllen und
+  b) Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
+2. Wird die Behandlung von einer Psychologischen Psychotherapeutin oder einem Psychologischen Psychotherapeuten durchgeführt, muss diese Person
+  a) die Voraussetzungen nach Abschnitt 3 oder Abschnitt 4 erfüllen und
+  b) Kenntnisse und praktische Erfahrungen in der Behandlung der posttraumatischen Belastungsstörung und in der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben.
+3. Wurde die Qualifikation nach Nummer 1 oder Nummer 2 nicht im Rahmen der Weiterbildung erworben, muss die behandelnde Person
+  a) in mindestens 40 Stunden eingehende Kenntnisse in der Theorie der Traumabehandlung und der Eye-Movement-Desensitization-and-Reprocessing-Behandlung erworben haben und
+  b) mindestens 40 Stunden Einzeltherapie mit mindestens fünf abgeschlossenen Eye-Movement-Desensitization-and-Reprocessing-Behandlungsabschnitten unter Supervision von mindestens 10 Stunden mit Eye-Movement-Desensitization-and-Reprocessing-Behandlung durchgeführt haben.
+  Entsprechende Zusatzqualifikationen müssen an oder über anerkannte Weiterbildungsstätten erworben worden sein.

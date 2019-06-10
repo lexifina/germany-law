@@ -1,0 +1,3 @@
+# Art 2
+
+Der Bundesminister der Finanzen wird ermächtigt, das Abkommen vom 21. Juli 1959 zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern in der Fassung des Revisionsprotokolls vom 9. Juni 1969 nach Abstimmung mit dem Ministere de l'Economie et des Finances der Französischen Republik neu bekanntzumachen.

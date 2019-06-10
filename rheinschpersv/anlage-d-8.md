@@ -1,0 +1,78 @@
+# Anlage D8 Prüfungsprogramm für den Erwerb eines Radarpatentes
+
+| TEIL A — Theoretischer Teil |
+|  |  |
+| 1. | Radartheorie |
+| 1.1 | Funkwelle, allgemein |
+| 1.2 | Geschwindigkeit der Funkwellenausbreitung |
+| 1.3 | Reflektieren der Funkwelle (Radarreflektoren) |
+| 1.4 | Arbeitsweise von Radar |
+| 1.5 | Kennungsgrößen von Navigationsradaranlagen für die Binnenschifffahrt |
+| 1.5.1 | Frequenzbereich |
+| 1.5.2 | Sendeleistung |
+| 1.5.3 | Sendepulsdauern |
+| 1.5.4 | Antennendrehzahlen |
+| 1.5.5 | Antenneneigenschaften |
+| 1.5.6 | Sichtgeräte (Anzeigen und Bedienfunktion) |
+| 1.5.7 | Sichtschirmdurchmesser |
+| 1.5.8 | Entfernungsbereiche |
+| 1.5.9 | Nahauflösung |
+| 1.5.10 | Radiale Auflösung |
+| 1.5.11 | Azimutale Auflösung |
+|  |  |
+| 2. | Auswertung des Radarbildes |
+| 2.1 | Standort der Antenne auf dem Bildschirm; Kurslinie |
+| 2.2 | Ermittlung von Lage, Kurs und Drehbewegung des eigenen Schiffes |
+| 2.3 | Bestimmen von Abständen und Entfernungen |
+| 2.4 | Erkennen des Verhaltens anderer Verkehrsteilnehmer (Stilllieger, entgegenkommende Schiffe, mitlaufende Schiffe) |
+| 2.5 | Bedeutung der Hilfen zur Radarbildauswertung (Vorauslinie, Entfernungsmessringe, Nachleuchtspur, Dezentrierung) |
+| 2.6 | Grenzen der Informationsmöglichkeiten durch Radar |
+| 2.7 | (weggefallen) |
+|  |  |
+| 3. | Radarbildstörungen |
+| 3.1 | Vom eigenen Schiff ausgehende Störungen und mögliche Maßnahmen zu deren Verminderung |
+| 3.1.1 | Aufsplittung der Antennenkeule |
+| 3.1.2 | Abschattungen (blinde Sektoren) |
+| 3.1.3 | Mehrfachreflektionen (z. B. in Laderäumen) |
+| 3.2 | Von der Umgebung ausgehende Störungen und mögliche Maßnahmen zu deren Verminderung |
+| 3.2.1 | Störungen durch Regen oder Wellengang |
+| 3.2.2 | Streufelder (z. B. an Brücken) |
+| 3.2.3 | Mehrfachreflexionen |
+| 3.2.4 | Scheinziele |
+| 3.2.5 | Abschattungen |
+| 3.2.6 | Mehrwegausbreitung |
+| 3.3 | Erscheinungsbild der von anderen Radaranlagen ausgehenden Störungen sowie Maßnahmen zu deren Beseitigung |
+|  |  |
+| 4. | Bedienung des Radargerätes |
+| 4.1 | Einschaltzeit, Bereitschaft |
+| 4.2 | Grundeinstellung, Abstimmung |
+| 4.3 | Einstellung von Kontrast und Helligkeit |
+| 4.4 | Einstellung der Verstärkung |
+| 4.5 | Einstellung der Dämpfungen und Filter |
+| 4.6 | Beurteilung der Bildqualität |
+|  |  |
+| 5. | Wendegeschwindigkeitsanzeiger |
+| 5.1 | Wirkungsweise |
+| 5.2 | Anwendungsmöglichkeiten |
+|  |  |
+| 6. | Besondere polizeiliche Vorschriften |
+| 6.1 | Verwendung von Funk, Schallzeichen, Kursabsprachen |
+| 6.2 | Materielle Mindestausstattung des Schiffes für die Radarfahrt |
+| 6.3 | Personelle Mindestausstattung und Fähigkeiten für die Radarfahrt |
+|  |  |
+|  |  |
+| TEIL B — Praktischer Teil |
+|  |  |
+| 1. | Maßnahmen vor der Abfahrt |
+| 1.1 | Einschalten, Einstellen und Funktionskontrolle der Geräte |
+| 1.2 | Interpretation des Radarbildes |
+| 1.3 | Aufgabenverteilung an Bord |
+|  |  |
+| 2. | Fahren mit Radar |
+| 2.1 | Fahren und Wenden in stillen und fließenden Gewässern |
+| 2.2 | Einfahrt in einen Hafen oder schmales Gewässer – Ausfahrt aus einem Hafen oder einem schmalen Gewässer mit Funkabsprache und Schallzeichen |
+| 2.3 | Begegnen und Überholen |
+| 2.4 | Halten an einem bestimmten Punkt |
+| 2.5 | Erläuterung des Radarbildes |
+| 2.6 | Erteilen von Ruderkommandos an den Rudergänger |
+| 2.7 | Verhalten bei besonderen Vorkommnissen (z. B. gefährliche Verkehrssituationen oder Ausfall von Geräten). |

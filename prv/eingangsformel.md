@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 160b Abs. 1 Satz 2 in Verbindung mit § 125 Abs. 3 und 4 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit in der im Bundesgesetzblatt Teil III, Gliederungsnummer 315-1, veröffentlichten bereinigten Fassung, von denen § 125 Abs. 3 neugefaßt und § 125 Abs. 4 eingefügt worden ist durch Artikel 6 des Gesetzes vom 20. Dezember 1993 (BGBl. I S. 2182) und § 160b eingefügt worden ist durch Artikel 2 des Gesetzes vom 25. Juli 1994 (BGBl. I S. 1744), geändert durch Artikel 5 Abs. 3 des Gesetzes vom 6. Juni 1995 (BGBl. I S. 778), verordnet das Bundesministerium der Justiz:

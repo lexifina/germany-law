@@ -1,0 +1,6 @@
+# Art 4
+
+(1)
+Rechtshilfeersuchen israelischer Behörden, denen eine Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre (Artikel II Buchstabe a des Vertrags), werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
+(2)
+Rechtshilfeersuchen deutscher Verwaltungsbehörden, denen eine Ordnungswidrigkeit zugrunde liegt (Artikel II Buchstabe a des Vertrags), werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die Verwaltungsbehörden legen die Ersuchen der Strafverfolgungsbehörde vor, in deren Bezirk sie ihren Sitz haben.

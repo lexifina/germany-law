@@ -1,0 +1,23 @@
+# Einfuhrumsatzsteuer-Befreiungsverordnung
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Allgemeines](0001.md)
+- [§ 1a Sendungen von geringem Wert](0001a.md)
+- [§ 2 Investitionsgüter und andere Ausrüstungsgegenstände](0002.md)
+- [§ 3 Landwirtschaftliche Erzeugnisse](0003.md)
+- [§ 4 Gegenstände erzieherischen, wissenschaftlichen
+oder kulturellen Charakters](0004.md)
+- [§ 5 Tiere für Laborzwecke](0005.md)
+- [§ 6 Gegenstände für Organisationen der Wohlfahrtspflege](0006.md)
+- [§ 7 Werbedrucke](0007.md)
+- [§ 8 Werbemittel für den Fremdenverkehr](0008.md)
+- [§ 9 Amtliche Veröffentlichungen, Wahlmaterialien](0009.md)
+- [§ 10 Behältnisse und Verpackungen](0010.md)
+- [§ 11 Vorübergehende Verwendung](0011.md)
+- [§ 12 Rückwaren](0012.md)
+- [§ 12a Freihafenlagerung](0012a.md)
+- [§ 12b Freihafen-Veredelung](0012b.md)
+- [§ 13 Fänge deutscher Fischer](0013.md)
+- [§ 14 Erstattung oder Erlaß](0014.md)
+- [§ 15 Absehen von der Festsetzung der Steuer](0015.md)
+- [§ 16 Inkrafttreten, abgelöste Vorschrift](0016.md)

@@ -1,0 +1,27 @@
+# Verordnung über die Verwaltung und Ordnung der Seelotsreviere Weser I und Weser II/Jade
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 2 Seelotsreviere, Lotsbezirke, Lotsenbrüderschaften](0002.md)
+- [§ 3 Lotsenstationen, Lotsenwechsel](0003.md)
+- [§ 4 Lotsenversetzpositionen](0004.md)
+- [§ 5 Lotsenanforderung und Versetzmanöver](0005.md)
+- [§ 6 Pflicht zur Annahme eines Bordlotsen](0006.md)
+- [§ 7 Ausnahmen von der Lotsenannahmepflicht](0007.md)
+- [§ 8 Befreiung von der Annahmepflicht eines Bordlotsen
+ohne Antrag für Seeschiffe](0008.md)
+- [§ 9 Befreiung von der Annahmepflicht eines Bordlotsen auf Antrag für Seeschiffe](0009.md)
+- [§ 10 Befreiung für Tankschiffe](0010.md)
+- [§ 11 Stellvertreter des Schiffsführers](0011.md)
+- [§ 12 Befreiung von der Lotsenannahmepflicht in besonderen Fällen](0012.md)
+- [§ 13 Landradarberatung](0013.md)
+- [§ 14 Anordnung zur Annahme von Seelotsen zur Abwehr einer
+Gefahr/Widerruf von Befreiungen](0014.md)
+- [§ 15 Lotsentätigkeit nach der ersten Bestallung](0015.md)
+- [§ 16 Distanzlotsungen](0016.md)
+- [§ 17 Ordnungswidrigkeiten](0017.md)
+- [§ 18 Übergangsregelungen](0018.md)
+- [§ 19](0019.md)
+- [§ 20 Inkrafttreten](0020.md)
+- [Anlage 1 (zu § 5 Abs. 3)Ort und Anmeldung für die Lotsenanforderung](anlage-1.md)
+- [Anlage 2 (zu § 8 Abs. 1, § 9 Abs. 1 und 2 und § 10 Abs. 3)](anlage-2.md)

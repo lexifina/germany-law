@@ -1,0 +1,6 @@
+# Art 5
+
+(1)
+Dieses Gesetz tritt am Tage nach seiner Verkündung mit der Maßgabe in Kraft, daß Artikel 2 dieses Gesetzes erst mit dem Inkrafttreten des Vertrags zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Leistungen zugunsten italienischer Staatsangehöriger, die von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind, und des dazugehörigen Briefwechsels anwendbar ist.
+(2)
+Der Tag, an dem der Vertrag nach seinem Artikel 5 Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.

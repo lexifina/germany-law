@@ -1,0 +1,33 @@
+# Anlage 7 (zu § 10 Absatz 2)Informationen zur Lebensmittelsicherheit nach Anhang II Abschnitt III Nummer 1 in Verbindung mit Nummer 3 und 4 Buchstabe b Satz 2 der Verordnung (EG) Nr. 853/2004 für Tiere, die in einen Schlachthof verbracht wurden oder verbracht werden sollen
+
+I. Betriebsidentifikation und Angaben zu den Tieren:
+  | Name:..... | Betriebskennnummer/Registriernummer des Betriebes nach ViehVerkehrsVO:..... |
+  | Anschrift:..... |
+  | ..... |
+  | Tel.:..... | Kennzeichnung der Tiere laut Lieferschein/Tierpass:..... |
+  | Fax:..... |
+  | Tierart: | ⃞ Schwein | ⃞ Rind | ⃞ Pferd | ⃞ Schaf | ⃞ Ziege |
+  |  | ⃞ Geflügel | ⃞ Hasentiere | ⃞ Farmwild:..... |
+  | Anzahl der zu schlachtenden Tiere:..... |  |
+II. Standarderklärung
+  Der Lebensmittelunternehmer, der für den Herkunftsbetrieb der oben genannten Tiere verantwortlich ist, erklärt Folgendes:
+  1. Über den Tiergesundheitsstatus des Herkunftsbetriebes, den Gesundheitsstatus der Tiere und zu Produktionsdaten, die das Auftreten einer Krankheit anzeigen könnten, liegen keine relevanten Informationen vor. Dem Herkunftsbetrieb sind keine relevanten Informationen über frühere Schlachttier- und Fleischuntersuchungen bekannt.
+  1a. Bei Schweine haltenden Betrieben amtlich anerkannte Anwendung kontrollierter Haltungsbedingungen
+    ⃞ Ja
+    ⃞ Nein
+  2. Es liegen keine Anzeichen für das Auftreten von Krankheiten vor, die die Sicherheit des Fleisches beeinträchtigen könnten.
+  3. Im Zeitraum von 7 Tagen vor Verbringung der Tiere zur Schlachtung, im Falle von Masthähnchen während der gesamten Mastperiode, bestanden
+    ⃞ keine Wartezeiten für verabreichte Tierarzneimittel
+    ⃞ Wartezeiten für folgende Tierarzneimittel:
+      | Tier (Kennzeichnung) | Tierarzneimittel | Wartezeit | Datum der Verabreichung |
+      |  |  |  |  |
+      |  |  |  |  |
+    Es wurden keine sonstigen Behandlungen durchgeführt, ausgenommen ..... (z. B. Repellentien).
+  4. Es liegen keine Ergebnisse von Probenanalysen vor, die für den Schutz der öffentlichen Gesundheit von Bedeutung sind, ausgenommen ..... (insbesondere Salmonellenstatus).
+  5. Name und Anschrift des privaten, normalerweise hinzugezogenen Tierarztes:
+    Name: .....
+    Anschrift: .....
+    Telefon: ..... Fax: .....
+| ..... | ..... | ..... |
+  | (Ort) | (Datum) | (Unterschrift des Lebensmittelunternehmers) |
+__________

@@ -1,0 +1,32 @@
+# Anlage 3 (zu § 8 Absatz 1 Satz 6)Unterscheidungszeichen der Fahrzeuge der Bundes- und Landesorgane, der Bundesministerien, der Bundesfinanzverwaltung, der Bundespolizei, der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der Bundesanstalt Technisches Hilfswerk, der Bundeswehr, des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
+
+1. Unterscheidungszeichen Bund
+  | BD | Dienstfahrzeuge des Bundestages, des Bundesrates, des Bundespräsidialamtes, der Bundesregierung, der Bundesministerien, der Bundesfinanzverwaltung und des Bundesverfassungsgerichts(Zulassungsbehörde Berlin; Zulassungsbehörde Bonn, Stadt; für BD 16 Kfz-Zulassungsstelle bei der „Generalzolldirektion“ – Dienstort Offenbach) |
+  | BG | Dienstfahrzeuge der Bundespolizei (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde) (noch gültig, wird nicht mehr zugeteilt) |
+  | BP | Dienstfahrzeuge der Bundespolizei (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde) |
+  | BW | Bundes-Wasserstraßen- und Schifffahrtsverwaltung (Generaldirektion Wasserstraßen und Schifffahrt) |
+  | THW | Dienstfahrzeuge der Bundesanstalt Technisches Hilfswerk (Kfz-Zulassungsstelle beim „Beschaffungsamt des Bundesministeriums des Innern“ in Bonn als zentrale Zulassungsbehörde) |
+  | Y | Dienstfahrzeuge der Bundeswehr (Zentrale Militärkraftfahrtstelle – ZMK, Hardter Straße 9, 41179 Mönchengladbach/Rheindahlen) |
+  | X | Dienstfahrzeuge der auf Grund des Nordatlantikvertrages errichteten internationalen militärischen Hauptquartiere, die ihren regelmäßigen Standort im Inland haben (Zentrale Militärkraftfahrtstelle – ZMK, Hardter Straße 9, 41179 Mönchengladbach/Rheindahlen) |
+2. Unterscheidungszeichen Länder
+  | B | Berlin Senat und Abgeordnetenhaus (Zulassungsbehörde Berlin) |
+  | BBL | Brandenburg Landesregierung, Landtag und Polizei(Zulassungsbehörde Potsdam, Stadt; für die Polizei Innenministerium Zentraldienst der Polizei Brandenburg) |
+  | BWL | Baden-Württemberg Landesregierung, Landtag und Polizei(Zulassungsbehörde Stuttgart, Stadt; für die Polizei Innenministerium Baden-Württemberg – Landespolizeipräsidium) |
+  | BYL | Bayern Landesregierung und Landtag (Zulassungsbehörde München, Stadt) |
+  | HB | Freie Hansestadt Bremen Senat und Bürgerschaft (Zulassungsbehörde Bremen, Stadt) |
+  | HEL | Hessen Landesregierung und Landtag (Zulassungsbehörde Wiesbaden, Stadt) |
+  | HH | Freie und Hansestadt Hamburg Senat und Bürgerschaft (Zulassungsbehörde Hamburg, Stadt) |
+  | LSA | Sachsen-Anhalt Landesregierung, Landtag und Polizei(Zulassungsbehörde Magdeburg, Stadt) |
+  | LSN | Sachsen Landesregierung und Landtag (Zulassungsbehörde Dresden, Stadt) |
+  | MVL | Mecklenburg-Vorpommern Landesregierung (einschließlich Landespolizei) und Landtag(Zulassungsbehörde Schwerin, Stadt) |
+  | NL | Niedersachsen Landesregierung und Landtag (Zulassungsbehörde Hannover, Stadt) |
+  | NRW | Nordrhein-Westfalen Landesregierung, Landtag und Polizei(Zulassungsbehörde Düsseldorf, Stadt; für die Polizei Landesamt für Zentrale Polizeiliche Dienste des Landes NRW, Duisburg) |
+  | RPL | Rheinland-Pfalz Landesregierung, Landtag und Polizei(Zulassungsbehörde Mainz, Stadt) |
+  | SAL | Saarland Landesregierung, Landtag und Polizei(Zulassungsbehörde Stadt Saarbrücken, Stadt und Regionalverband; für die Polizei Landespolizeipräsidium – Direktion LPP 4 Zentrale Dienste – LPP 4.8 Kraftfahrzeugtechnik) |
+  | SH | Schleswig-Holstein Landesregierung, Landtag und Polizei(Zulassungsbehörde Kiel, Stadt) |
+  | THL | Thüringen Landesregierung und Landtag (Zulassungsbehörde Erfurt, Stadt) |
+3. Unterscheidungszeichen des Diplomatischen Corps und bevorrechtigter Internationaler Organisationen
+  | 0; B oder BN | Diplomatischen Vertretungen oder Internationalen Organisationen und in Abhängigkeit vom Status der bevorrechtigten Person(Zulassungsbehörde Berlin, Zulassungsbehörde Bonn, Stadt) |
+  | Unterscheidungszeichen des Verwaltungsbezirkes am Sitz des Konsulats | Berufskonsularische Vertretungen und in Abhängigkeit vom Status der bevorrechtigten Person(Zulassungsbehörde am Sitz des Konsulats) |
+4. Sonderkennzeichen für Dienstkraftwagen des Präsidenten des Deutschen Bundestages
+  | 1-1 | Dienstkraftwagen des Präsidenten des Deutschen Bundestages (Zulassungsbehörde Berlin) |

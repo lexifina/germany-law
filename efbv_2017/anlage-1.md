@@ -1,0 +1,49 @@
+# Anlage 1 (zu § 9 Absatz 1 Satz 2 Nummer 3 und Absatz 3 Satz 2,§ 19 Absatz 2 Nummer 2 Buchstabe b Halbsatz 2 sowie § 31 Absatz 1 und 2)Lehrgangsinhalte
+
+Die Lehrgänge sollen Kenntnisse insbesondere über folgende Bereiche vermitteln:
+1. das Kreislaufwirtschaftsgesetz, insbesondere
+  a) den Anwendungsbereich,
+  b) die wichtigsten Begriffsbestimmungen,
+  c) die Abfallhierarchie,
+  d) die Grundpflichten (Vermeiden, Verwerten und Beseitigen von Abfall),
+  e) die Getrennthaltungspflichten und Vermischungsverbote,
+  f) die Überlassungspflichten,
+  g) das Anzeigeverfahren für gemeinnützige und gewerbliche Sammlungen,
+  h) die Rechte und Pflichten der öffentlich-rechtlichen Entsorgungsträger,
+  i) die Beauftragung Dritter,
+  j) die Produktverantwortung,
+  k) die Bedeutung von Abfallwirtschaftsplänen und Abfallvermeidungsprogrammen,
+  l) die abfallrechtliche Überwachung,
+  m) die Register- und Nachweispflichten,
+  n) das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen,
+  o) die Kennzeichnung von Fahrzeugen,
+  p) die Zertifizierung von Entsorgungsfachbetrieben,
+  q) die Anforderungen an Abfallbeauftragte sowie ihre Rechte und Pflichten sowie
+  r) die Bußgeldvorschriften,
+2. die auf Grund des Kreislaufwirtschaftsgesetzes ergangenen Rechtsverordnungen,
+3. die weiteren abfallrechtlichen Gesetze, insbesondere
+  a) das Elektro- und Elektronikgerätegesetz,
+  b) das Batteriegesetz und
+  c) das Verpackungsgesetz,
+4. das Recht der Abfallverbringung,
+5. die für die Abfallwirtschaft einschlägigen EU-rechtlichen Grundlagen,
+6. die für die Abfallwirtschaft einschlägigen inter- und supranationalen Übereinkommen,
+7. die für die Abfallwirtschaft einschlägigen landesrechtlichen Grundlagen,
+8. das für die Abfallwirtschaft einschlägige kommunale Satzungsrecht,
+9. die für die Abfallwirtschaft einschlägigen
+  a) amtlich veröffentlichten Verwaltungsvorschriften,
+  b) Vollzugshilfen (insbesondere der Bund/Länder-Arbeitsgemeinschaft Abfall) und
+  c) technischen Anleitungen, Merkblätter und Regeln (insbesondere zum Stand der Technik und zur besten verfügbaren Technik),
+10. das Verhältnis des Abfallrechts zu anderen Rechtsbereichen, insbesondere zum
+  a) Baurecht,
+  b) Immissionsschutzrecht,
+  c) Chemikalienrecht,
+  d) Wasserrecht,
+  e) Bodenschutzrecht und
+  f) Seuchen- und Hygienerecht,
+11. Art und Beschaffenheit von gefährlichen Abfällen,
+12. schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen, die von Abfällen ausgehen können, und Maßnahmen zu ihrer Verhinderung oder Beseitigung,
+13. die Vorschriften der betrieblichen Haftung,
+14. die Vorschriften des Arbeitsschutzes,
+15. die betrieblichen Risiken und die einschlägigen Versicherungen sowie
+16. die Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht.

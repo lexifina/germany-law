@@ -1,0 +1,114 @@
+# Anlage 1 (zu § 5)
+
+Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-,
+Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und
+Postdienstleistungen - Sachliche Gliederung -
+
+(Fundstelle: BGBl. I 2005, 873 - 876)
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten und Kenntnisse |
+| 1 | 2 | 3 |
+| 1 | Der Ausbildungsbetrieb (§ 4 Nr. 1) |  |
+| 1.1 | Stellung, Rechtsform und Struktur des Ausbildungsbetriebes (§ 4 Nr. 1.1) | a) | Geschäftsfelder des Ausbildungsbetriebes und seine Stellung am Markt beschreiben |
+| b) | Aufbau- und Ablauforganisation sowie Zuständigkeiten im Ausbildungsbetrieb erläutern |
+| c) | Rechtsform des Ausbildungsbetriebes darstellen |
+| d) | Zusammenarbeit des Ausbildungsbetriebes mit Wirtschaftsorganisationen, Behörden, Gewerkschaften und Berufsvertretungen beschreiben |
+| 1.2 | Berufsbildung, arbeits-, sozial- und tarifrechtliche Vorschriften (§ 4 Nr. 1.2) | a) | Rechte und Pflichten aus dem Ausbildungsvertrag feststellen und Aufgaben der Beteiligten im dualen System beschreiben |
+| b) | den betrieblichen Ausbildungsplan mit der Ausbildungsordnung vergleichen |
+| c) | Positionen der eigenen Entgeltabrechnung beschreiben |
+| d) | arbeits-, sozial- und mitbestimmungsrechtliche Vorschriften sowie für den Ausbildungsbetrieb geltende Tarif- und Arbeitszeitregelungen beachten |
+| e) | wesentliche Inhalte und Bestandteile eines Arbeitsvertrages darstellen |
+| f) | lebensbegleitendes Lernen für die berufliche und persönliche Entwicklung begründen; berufliche Aufstiegs- und Weiterentwicklungsmöglichkeiten darstellen |
+| 1.3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Nr. 1.3) | a) | Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zu ihrer Vermeidung ergreifen |
+| b) | berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden |
+| c) | Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten |
+| d) | Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen |
+| 1.4 | Umweltschutz (§ 4 Nr. 1.4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere |
+| a) | mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären |
+| b) | für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden |
+| c) | Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen |
+| d) | Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |
+| 2 | Arbeitsorganisation (§ 4 Nr. 2) |  |
+| 2.1 | Arbeitsplanung (§ 4 Nr. 2.1) | a) | Arbeitsaufträge erfassen, die eigene Arbeit strukturieren, Arbeitsschritte mit den Beteiligten abstimmen |
+| b) | Arbeitstechniken, Arbeits- und Organisationsmittel sowie Lerntechniken einsetzen |
+| c) | Informationsquellen auch in einer Fremdsprache nutzen |
+| d) | ergonomische Regeln bei der Arbeit beachten |
+| e) | Maßnahmen zur Verbesserung der Arbeitsorganisation vorschlagen |
+| 2.2 | Informations- und Kommunikationssysteme (§ 4 Nr. 2.2) | a) | Betriebssysteme, Standardsoftware und betriebsspezifische Software anwenden |
+| b) | Netze und Dienste nutzen, Sicherheitsanforderungen beachten |
+| c) | Daten und Informationen aufgabenbezogen erfassen, auswerten und bereitstellen |
+| d) | Notwendigkeit der Datensicherung begründen; betriebliche Datenschutz- und Datensicherungsmaßnahmen anwenden |
+| 3 | Kommunikation und Kooperation (§ 4 Nr. 3) |  |
+| 3.1 | Kundenorientierte Kommunikation (§ 4 Nr. 3.1) | a) | die eigene Rolle als Dienstleister im Kundenkontakt berücksichtigen; kundenorientiert handeln und kommunizieren |
+| b) | fremdsprachige Fachbegriffe und Standardtexte anwenden |
+| c) | Informations-, Beratungs- und Verkaufsgespräche planen, durchführen und nachbereiten |
+| d) | Auskünfte erteilen, auch in einer Fremdsprache |
+| e) | Sachverhalte situationsbezogen und adressatengerecht aufbereiten und präsentieren |
+| 3.2 | Teamarbeit und Kooperation (§ 4 Nr. 3.2) | a) | Zusammenarbeit aktiv gestalten und Aufgaben teamorientiert und kooperativ umsetzen |
+| b) | Auswirkungen von Information, Kommunikation und Kooperation auf Betriebsklima, Arbeitsleistung und Geschäftserfolg beachten |
+| c) | zur Vermeidung von Kommunikationsstörungen beitragen und Möglichkeiten der Konfliktlösung anwenden |
+| 4 | Angebotsgestaltung (§ 4 Nr. 4) |  |
+| 4.1 | Dienstleistungsangebot (§ 4 Nr. 4.1) | a) | Dienstleistungsangebote der Branche unterscheiden |
+| b) | bei Entwicklung und Ausgestaltung des Dienstleistungsangebotes mitwirken |
+| c) | Fremdleistungen einkaufen |
+| 4.2 | Rechtliche Rahmenbedingungen (§ 4 Nr. 4.2) | a) | rechtliche Vorschriften beachten und allgemeine Geschäftsbedingungen anwenden |
+| b) | Regelungen zur Wahrung des Postgeheimnisses und des Datenschutzes anwenden |
+| c) | sendungsbezogene Sicherheitsvorschriften beachten sowie Schutz- und Sicherheitsvorkehrungen treffen |
+| d) | Gefahrgut identifizieren; sendungs-bezogene Gefahrgutvorschriften beachten |
+| e) | rechtliche Vorschriften im grenzüberschreitenden Verkehr berücksichtigen |
+| f) | Versicherungsbedingungen beachten; Haftungsregelungen anwenden |
+| 4.3 | Qualitätssicherung (§ 4 Nr. 4.3) | a) | Qualitätsziele des Unternehmens im eigenen Arbeitsbereich umsetzen |
+| b) | zur kontinuierlichen Verbesserung von Arbeitsprozessen beitragen |
+| c) | Auswirkungen von Qualität und Kundenzufriedenheit auf das Betriebsergebnis darstellen |
+| 5 | Marketing und Vertrieb von Dienstleistungen (§ 4 Nr. 5) |  |
+| 5.1 | Märkte, Zielgruppen (§ 4 Nr. 5.1) | a) | Informationen über Zielgruppen und Märkte auswerten und nutzen |
+| b) | Dienstleistungen und Konditionen von Wettbewerbern vergleichen |
+| c) | bei der Ermittlung des Nachfragepotenzials für Dienstleistungen mitwirken |
+| 5.2 | Verkaufsförderung (§ 4 Nr. 5.2) | a) | verkaufsfördernde Maßnahmen umsetzen |
+| b) | bei der Planung von verkaufsfördernden Maßnahmen mitwirken |
+| c) | Verkaufsargumente für Dienstleistungsangebote entwickeln |
+| 5.3 | Verkauf (§ 4 Nr. 5.3) | a) | Kundenwünsche ermitteln |
+| b) | Dienstleistungen präsentieren |
+| c) | Angebote erstellen |
+| d) | Dienstleistungen verkaufen, Verträge abschließen |
+| 5.4 | Kundenpflege (§ 4 Nr. 5.4) | a) | Kundenzufriedenheit prüfen |
+| b) | Kunden bei Leistungsstörungen Lösungsalternativen aufzeigen |
+| c) | Kundenreklamationen entgegennehmen und bearbeiten |
+| d) | Beschwerdemanagement als Element einer kundenorientierten Geschäftspolitik anwenden |
+| 6 | Steuerung und Kontrolle von Betriebsprozessen (§ 4 Nr. 6) |  |
+| 6.1 | Sendungsbearbeitung (§ 4 Nr. 6.1) | a) | Sendungen annehmen, sortieren und ausliefern |
+| b) | Aufträge annehmen und bearbeiten |
+| c) | Sendungsdokumentationen erstellen, abgleichen und bearbeiten |
+| d) | Sendungsentgelte berechnen und kassieren |
+| e) | Transport- und Sendungsstatus überwachen, Auskünfte erteilen |
+| f) | Maßnahmen bei Leistungsstörungen ergreifen |
+| g) | Schadensfälle bearbeiten |
+| 6.2 | Disposition (§ 4 Nr. 6.2) | a) | Zusammenhänge zwischen Transportkonzepten, Transportmitteleinsatz und Sendungsarten darstellen |
+| b) | Leistungsanforderungen aus Aufträgen ermitteln |
+| c) | Eignung von Geräten für Transport und Sendungsumschlag beurteilen |
+| d) | Umschlag und Sortierung unter Berücksichtigung von Leitsystemen steuern |
+| e) | Rücklauf von Sendungen und Nachbearbeitung organisieren und überwachen |
+| f) | Abweichungen in Betriebsprozessen feststellen und zur Beseitigung beitragen |
+| g) | Materialbedarf feststellen, Beschaffungen veranlassen |
+| h) | Fahrtrouten und Logistikketten unter Berücksichtigung von Wirtschaftlichkeit, zeitlichen Vorgaben sowie verkehrsgeographischen Bedingungen planen und koordinieren |
+| i) | Personal und Transportmittel disponieren |
+| k) | Wartung von Transportmitteln und Geräten steuern und kontrollieren |
+| 7 | Personalwirtschaft (§ 4 Nr. 7) | a) | an Personalplanung, Personalbeschaffung und Personalauswahl mitwirken |
+| b) | Vorgänge der Personalverwaltung auch in Verbindung mit Beginn und Beendigung von Arbeitsverhältnissen bearbeiten; Personaldaten schützen |
+| c) | bei Maßnahmen der Personalentwicklung mitwirken |
+| d) | Entgeltarten unterscheiden und bei Entgeltabrechnungen mitwirken |
+| e) | rechtliche Bedingungen beim Einsatz von Beschäftigten des eigenen Unternehmens und von Fremddienstleistern berücksichtigen |
+| 8 | Kaufmännische Steuerung und Kontrolle (§ 4 Nr. 8) |  |
+| 8.1 | Betriebliches Rechnungswesen (§ 4 Nr. 8.1) | a) | Bedeutung des Rechnungswesens für den Betriebserfolg darstellen |
+| b) | Kassen führen und Kassenabschlüsse erstellen |
+| c) | Rechnungen erstellen |
+| d) | vorbereitende Arbeiten für Buchungen durchführen, Aufbau des betrieblichen Buchungssystems berücksichtigen |
+| e) | Vorgänge des Zahlungsverkehrs und des Mahnwesens bearbeiten |
+| f) | Steuern und Abgaben berücksichtigen |
+| g) | an vorbereitenden Arbeiten zur Erstellung von Jahresabschlüssen mitwirken |
+| 8.2 | Kosten- und Leistungsrechnung (§ 4 Nr. 8.2) | a) | Aufbau und Struktur der betrieblichen Kosten- und Leistungsrechnung erläutern |
+| b) | Kosten und Erträge von Dienstleistungen erfassen und bewerten |
+| c) | Kalkulationen durchführen |
+| 8.3 | Controlling (§ 4 Nr. 8.3) | a) | Funktion des Controllings erläutern |
+| b) | an kaufmännischen Planungs-, Steuerungs- und Kontrollaufgaben mitwirken |
+| c) | Daten für die Erstellung von Statistiken beschaffen; Statistiken erstellen und präsentieren |
+| d) | an Aufgaben des kaufmännischen Berichtswesens mitwirken |

@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 34 Abs. 6 und des § 63 Abs. 4 des Patentgesetzes in der Fassung der Bekanntmachung vom 16. Dezember 1980 (BGBl. 1981 I S. 1), von denen § 34 Abs. 6 zuletzt durch Artikel 7 Nr. 16 Buchstabe b und § 63 Abs. 4 durch Artikel 7 Nr. 27 Buchstabe b des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) geändert worden sind, jeweils in Verbindung mit § 20 der Verordnung über das Deutsche Patent- und Markenamt vom 5. September 1968 (BGBl. I S. 997), der durch Artikel 24 Nr. 2 des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3656) neu gefasst worden ist, verordnet das Deutsche Patent- und Markenamt:

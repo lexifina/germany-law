@@ -1,0 +1,3 @@
+# Anlage 8 (zu § 24 Absatz 5)Kriterium zur Bewertung der Temperaturverträglichkeit
+
+Die von Temperaturänderungen infolge der Einlagerung der radioaktiven Abfälle betroffenen Gesteinsformationen sollen so beschaffen sein, dass dadurch bedingte Änderungen der Gesteinseigenschaften sowie thermomechanische Gebirgsspannungen nicht zu einem Festigkeitsverlust und der Bildung von Sekundärpermeabilitäten im Endlagerbereich führen. Indikatoren hierfür sind die Neigung zur Bildung wärmeinduzierter Sekundärpermeabilitäten und ihre Ausdehnung sowie die Temperaturstabilität des Wirtsgesteins hinsichtlich Mineralumwandlungen.

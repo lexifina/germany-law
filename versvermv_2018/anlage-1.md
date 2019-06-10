@@ -1,0 +1,121 @@
+# Anlage 1 (zu § 2 Absatz 2 Satz 2)Inhaltliche Anforderungen an die Sachkundeprüfung
+
+1. Kundenberatung
+1.1 Serviceerwartungen des Kunden
+1.2 Besuchsvorbereitung/Kundenkontakte
+1.3 Kundengespräch unter Beachtung ethischer Grundsätze
+1.3.1 Kundensituation und Kundenbedarf
+1.3.2 Kundengerechte Lösungen
+1.3.3 Gesprächsführung und Systematik
+1.4 Kundenbetreuung
+2. Rechtliche Grundlagen
+2.1 Vertragsrecht
+2.1.1 Geschäftsfähigkeit
+2.1.2 Zustandekommen von allgemeinen Verträgen
+2.1.3 Grundlagen des Versicherungsvertrags
+2.1.4 Beginn und Ende des Versicherungsvertrags
+2.2 Besondere Rechtsvorschriften für den Versicherungsvertrag
+2.2.1 Versicherungsschein
+2.2.2 Beitragszahlung
+2.2.3 Obliegenheiten des Versicherungsnehmers
+2.2.4 Vorvertragliche Anzeigepflicht
+2.2.5 Gefahrerhöhung
+2.2.6 Pflichten im Schadenfall
+2.2.7 Eigentumswechsel in der Schadenversicherung
+2.3 Vermittler- und Beraterrecht
+2.3.1 Allgemeine Rechtsstellung
+2.3.2 Grundlagen für die Tätigkeit
+2.3.3 Besondere Rechtsstellung
+2.3.4 Umgang mit Interessenkonflikten
+2.3.5 Berufsvereinigungen/Berufsverbände
+2.3.6 Arbeitnehmervertretungen
+2.4 Wettbewerbsrecht
+2.4.1 Allgemeine Wettbewerbsgrundsätze
+2.4.2 Unzulässige Werbung
+2.5 Verbraucherschutz
+2.5.1 Grundlagen des Verbraucherschutzes
+2.5.2 Schlichtungsstellen und Behandlung von Beschwerden
+2.5.3 Datenschutz
+2.6 Versicherungsaufsicht: Zuständigkeiten
+2.7 Europäischer Binnenmarkt: Dienstleistungs- und Niederlassungsfreiheit
+2.8 Geldwäschegesetz
+3. Vorsorge
+3.1 Gesetzliche Rentenversicherung (GRV)
+3.1.1 Einführung
+3.1.2 Versicherungspflicht
+3.1.3 Rentenrechtliche Zeiten
+3.1.4 Renten
+3.1.5 Rentenberechnung
+3.1.6 Versorgungslücke
+3.1.7 Steuerliche Behandlung der GRV
+3.2 Private Vorsorge durch Lebens-/Rentenversicherungen, Versicherungsanlageprodukte und Versicherungen zur Arbeitskraftabsicherung
+3.2.1 Grundlagen: Angebotsformen; Leistungsumfang; Beitrag; Antragsaufnahme; Versicherungsfall; Besonderheiten
+3.2.2 Staatliche Förderung und steuerliche Behandlung der privaten Vorsorge: Basisversorgung; Kapitalgedeckte Zusatzversorgung (§§ 10a, 79 ff. des Einkommensteuergesetzes), Versicherungsanlageprodukte; Weitere Versicherungsprodukte
+3.3 Grundzüge der betrieblichen Altersversorgung (Direktversicherung und Pensionskasse durch Entgeltumwandlung)
+3.3.1 Grundlagen: Definition; Berechtigter Personenkreis; Rechtsanspruch auf Entgeltumwandlung; Gleichbehandlung; Unverfallbarkeit; Vorzeitiges Ausscheiden; Vorzeitige Altersleistung; Insolvenz des Arbeitgebers
+3.3.2 Grundzüge der Durchführungswege Direktversicherung und Pensionskasse
+3.3.3 Steuerliche Behandlung der Beiträge und Leistungen
+3.3.4 Sozialversicherungsrechtliche Behandlung der Beiträge und Leistungen
+3.4 Gesetzliche und private Unfallversicherung
+3.4.1 Einführung: Bedarf; Zielgruppen
+3.4.2 Gesetzliche Unfallversicherung (GUV)
+3.4.3 Leistungsumfang der privaten Unfallversicherung: Unfallbegriff und Geltungsbereich; Leistungsarten; Ausschlüsse; Besonderheiten
+3.4.4 Versicherungssummen; Anpassung; Besonderheiten
+3.4.5 Tarifaufbau und -anwendung
+3.4.6 Antragsaufnahme: Versicherbare Personen; Aufbau und Inhalt der Anträge; Annahmerichtlinien
+3.4.7 Versicherungsfall
+3.4.8 Steuerliche Behandlung der Beiträge und Leistungen
+3.5 Gesetzliche und private Krankenversicherung/soziale und private Pflegeversicherung
+3.5.1 Einführung: Bedarf; Zielgruppen
+3.5.2 Gesetzliche Krankenversicherung
+3.5.3 Private Krankenversicherung: Bedarfsermittlung; Leistungsumfang; Beitragsermittlung; Beginn und Ende des Versicherungsschutzes; Antragsaufnahme; Annahmerichtlinien; Versicherungsfall
+3.5.4 Soziale und private Pflegeversicherung; Private Pflegezusatzversicherung
+3.5.5 Steuerliche Behandlung der Beiträge und Leistungen
+4. Sach-/Vermögensversicherung
+4.1 Haftpflichtversicherung
+4.1.1 Einführung: Bedarf; Zielgruppen; Haftungsgrundsätze
+4.1.2 Leistungsumfang: Haftung/Deckung; Aufgaben; Versichertes Risiko; Zielgruppen; Versicherte Personen; Ausschlüsse
+4.1.3 Versicherungssumme
+4.1.4 Tarifaufbau und -anwendung
+4.1.5 Antragsaufnahme: Aufbau und Inhalte der Anträge; Annahmerichtlinien
+4.1.6 Versicherungsfall
+4.1.7 Besonderheiten
+4.1.8 Steuerliche Behandlung der Beiträge
+4.2 Kraftfahrtversicherung
+4.2.1 Einführung: Bedarf; Zielgruppen; Haftungsgrundsätze
+4.2.2 Leistungsumfang der Haftpflichtversicherung: Aufgaben; Haftung/Deckung; Direktanspruch; Versicherungssummen in der Haftpflichtversicherung; Versicherte Personen; Ausschlüsse; Umweltschadenversicherung
+4.2.3 Leistungsumfang der Fahrzeugversicherung: Kundennutzen; Versicherte Gefahren und Schäden; Versicherte Sachen; Ersatzleistung; Ausschlüsse
+4.2.4 Leistungsumfang der Fahrerunfallversicherung: Versicherte Gefahren und Schäden; Versicherte Personen; Ausschlüsse
+4.2.5 Leistungsumfang des Autoschutzbriefes: Versicherte Gefahren; Versicherte Personen; Ausschlüsse
+4.2.6 Beitragsermittlung: Tarifierungsmerkmale; Tarifaufbau und -anwendung; Besonderheiten in der Kraftfahrtversicherung
+4.2.7 Antragsaufnahme: Aufbau und Inhalt der Anträge; Annahmerichtlinien
+4.2.8 Beginn des Versicherungsschutzes
+4.2.9 Obliegenheiten
+4.2.10 Versicherungsfall: Pflichten des Versicherungsnehmers; Schadenregulierung; Rückstufung
+4.2.11 Besonderheiten
+4.3 Hausratversicherung
+4.3.1 Einführung; Bedarf
+4.3.2 Leistungsumfang: Versicherte Sachen; Entschädigungsgrenzen; Versicherte Gefahren; Klauseln; Versicherte Schäden; Versicherte Kosten; Versicherungsort; Außenversicherung
+4.3.3 Versicherungswert/Versicherungssumme
+4.3.4 Beitragsermittlung: Risikomerkmale; Tarifaufbau und -anwendung
+4.3.5 Antragsaufnahme: Aufbau und Inhalt der Anträge; Annahmerichtlinien
+4.3.6 Versicherungsfall
+4.3.7 Besonderheiten
+4.3.8 Haushaltglasversicherung nach den Allgemeinen Bedingungen für die Glasversicherung
+4.4 Gebäudeversicherung
+4.4.1 Einführung: Bedarf; Zielgruppen
+4.4.2 Leistungsumfang: Versicherte Sachen; Versicherte Gefahren und Schäden; Klauseln; Versicherte Kosten; Versicherter Mietausfall
+4.4.3 Versicherungsformen
+4.4.4 Entschädigungsleistung für Sachen
+4.4.5 Beitragsermittlung: Risikomerkmale; Tarifaufbau und -anwendung
+4.4.6 Antragsaufnahme: Aufbau und Inhalt der Anträge; Annahmerichtlinien
+4.4.7 Versicherungsfall
+4.4.8 Feuer-Rohbauversicherung
+4.4.9 Besonderheiten
+4.5 Rechtsschutzversicherung
+4.5.1 Einführung: Bedarf; Zielgruppen
+4.5.2 Leistungsumfang: Leistungsarten; Versicherte Personen; Geltungsbereich; Ausschlüsse
+4.5.3 Beitragsermittlung: Risikomerkmale; Tarifaufbau und -anwendung
+4.5.4 Antragsaufnahme: Aufbau und Inhalt der Anträge; Annahmerichtlinien
+4.5.5 Versicherungsfall
+4.5.6 Besonderheiten

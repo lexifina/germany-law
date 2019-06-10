@@ -1,0 +1,31 @@
+# Anlage 2 (zu § 7)Sachgebietefür das Unterrichtungsverfahren im BewachungsgewerbeBewachungspersonal (40 Unterrichtsstunden)
+
+1. Recht der öffentlichen Sicherheit und Ordnung einschließlich Gewerberecht
+  – Aufgaben sowie Abgrenzung der Tätigkeit von Bewachungsunternehmen zu den Aufgaben der Polizei- und Ordnungsbehörden
+  – § 34a Gewerbeordnung, Bewachungsverordnung
+2. Datenschutzrecht
+  insgesamt zu Nummer 1 und 2 etwa 6 Unterrichtsstunden
+3. Bürgerliches Gesetzbuch
+  – Notwehr (§ 227 BGB), Notstand (§§ 228, 904 BGB), Selbsthilfe (§§ 229, 859 BGB), verbotene Eigenmacht (§ 858 BGB), Haftungs- und Deliktsrecht (§§ 823 ff. BGB), Eigentum und Besitz (§§ 903, 854 BGB), Schikaneverbot (§ 226 BGB), wobei Abgrenzungsfragen zu den einschlägigen Vorschriften des StGB (§§ 32 bis 35) aufgezeigt werden
+  insgesamt etwa 6 Unterrichtsstunden
+4. Straf- und Verfahrensrecht, Umgang mit Waffen
+  – einzelne Straftatbestände (z. B. § 123, §§ 185 ff., §§ 223 ff., § 239, § 240, §§ 244 ff. StGB)
+  – vorläufige Festnahme (§ 127 StPO)
+  – Grundzüge der Aufgaben von Staatsanwaltschaft und Polizei (§§ 152, 163 StPO)
+  – Umgang mit Waffen (Schlagstöcke, Reizstoffsprühgeräte usw.)
+  insgesamt etwa 6 Unterrichtsstunden
+5. Unfallverhütung
+  insgesamt etwa 6 Unterrichtsstunden
+6. Umgang mit Menschen, insbesondere Verhalten in Gefahrensituationen und Deeskalationstechniken in Konfliktsituationen sowie interkulturelle Kompetenz unter besonderer Beachtung von Diversität und gesellschaftlicher Vielfalt
+  – Selbstwertgefühl (Voraussetzungen für richtigen Umgang mit sich selbst und seinen Mitmenschen)
+  – Übersteigerte Selbstwert-/Minderwertigkeitsgefühle (Ursachen und Maßstabsverlust)
+  – Konflikt/Stress (Entstehung, Konfliktebenen, schwierige Situationen, Lösungshilfen)
+  – richtiges Ansprechen und Führung im Gespräch (Grundregeln für richtiges/falsches Verhalten)
+  – interkulturelle Kompetenz unter besonderer Beachtung der Diversität
+  – Umgang mit und Schutz von besonders schutzbedürftigen Geflüchteten (wie beispielsweise allein reisende Frauen, Homosexuelle, transgeschlechtliche Personen, Menschen mit Behinderung, Opfer schwerer Gewalt)
+  insgesamt etwa 11 Unterrichtsstunden
+7. Grundzüge der Sicherheitstechnik
+  – Mechanische Sicherungstechnik
+  – Gefahrenmeldeanlagen; Alarmverfolgung
+  – Brandschutz
+  insgesamt etwa 5 Unterrichtsstunden

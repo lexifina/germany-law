@@ -1,0 +1,5 @@
+# Eingangsformel
+
+Es verordnen
+– das Bundesministerium für Gesundheit auf Grund des § 67a Absatz 3 Satz 1 und 2 in Verbindung mit Absatz 2 und 4 des Arzneimittelgesetzes, der zuletzt durch Artikel 2 des Gesetzes vom 14. Juni 2007 (BGBl. I S. 1066) geändert worden ist, im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+– das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz auf Grund des § 67a Absatz 3 Satz 1 und 2 in Verbindung mit Satz 3 und Absatz 2 des Arzneimittelgesetzes, der zuletzt durch Artikel 2 des Gesetzes vom 14. Juni 2007 (BGBl. I S. 1066) geändert worden ist, im Einvernehmen mit dem Bundesministerium des Innern, dem Bundesministerium für Wirtschaft und Technologie und dem Bundesministerium für Gesundheit und auf Grund des § 47 Absatz 1c Satz 2 des Arzneimittelgesetzes, der zuletzt durch Artikel 1 des Gesetzes vom 17. Juli 2009 (BGBl. I S. 1990) geändert worden ist, im Einvernehmen mit dem Bundesministerium für Gesundheit:

@@ -1,0 +1,29 @@
+# Anlage
+
+(Fundstelle: BGBl. I 2009, 2872; bzgl. einzelner Änderungen vgl. Fußnote)
+Vorhaben nach § 1 Abs. 1, für die ein vordringlicher Bedarf besteht:
+| Nr. | Vorhaben |
+| 1 | Neubau Höchstspannungsleitung Kassø (DK) – Hamburg Nord – Dollern, Nennspannung 380 kV |
+| 2 | Neubau Höchstspannungsleitung Ganderkesee – Wehrendorf, Nennspannung 380 kV |
+| 3 | Neubau Höchstspannungsleitung Neuenhagen – Bertikow/Vierraden – Krajnik (PL), Nennspannung 380 kV |
+| 4 | Neubau Höchstspannungsleitung Lauchstädt – Redwitz (als Teil der Verbindung Halle/Saale – Schweinfurt), Nennspannung 380 kV |
+| 5 | Neubau Höchstspannungsleitung Dörpen/West – Niederrhein, Nennspannung 380 kV |
+| 6 | Neubau Höchstspannungsleitung Wahle – Mecklar, Nennspannung 380 kV |
+| 7 | Zubeseilung Höchstspannungsleitung Bergkamen – Gersteinwerk, Nennspannung 380 kV |
+| 8 | Zubeseilung Höchstspannungsleitung Kriftel – Eschborn, Nennspannung 380 kV |
+| 9 | Neubau Höchstspannungsleitung Hamburg/Krümmel – Schwerin, Nennspannung 380 kV |
+| 10 | Umrüstung der Höchstspannungsleitung Redwitz – Grafenrheinfeld von 220 kV auf 380 kV (als Teil der Verbindung Halle/Saale – Schweinfurt) |
+| 11 | Neubau Höchstspannungsleitung Neuenhagen – Wustermark (als 1. Teil des Berliner Rings), Nennspannung 380 kV |
+| 12 | Neubau Interkonnektor Eisenhüttenstadt – Baczyna (PL), Nennspannung 380 kV |
+| 13 | Neubau Höchstspannungsleitung Niederrhein/Wesel – Landesgrenze NL (Richtung Doetinchem), Nennspannung 380 kV |
+| 14 | Neubau Höchstspannungsleitung Niederrhein – Utfort – Osterath, Nennspannung 380 kV |
+| 15 | Neubau Höchstspannungsleitung Osterath – Weißenthurm, Nennspannung 380 kV |
+| 16 | Neubau Höchstspannungsleitung Wehrendorf – Gütersloh, Nennspannung 380 kV |
+| 17 | Neubau Höchstspannungsleitung Gütersloh – Bechterdissen, Nennspannung 380 kV |
+| 18 | Neubau Höchstspannungsleitung Lüstringen – Westerkappeln, Nennspannung 380 kV |
+| 19 | Neubau Höchstspannungsleitung Kruckel – Dauersberg, Nennspannung 380 kV |
+| 20 | Neubau Höchstspannungsleitung Dauersberg – Hünfelden, Nennspannung 380 kV |
+| 21 | Neubau Höchstspannungsleitung Marxheim – Kelsterbach, Nennspannung 380 kV |
+| 22 | (weggefallen) |
+| 23 | Umrüstung der Höchstspannungsleitung Neckarwestheim – Mühlhausen von Nennspannung 220 kV auf Nennspannung 380 kV |
+| 24 | (weggefallen) |

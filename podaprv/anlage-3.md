@@ -1,0 +1,24 @@
+# Anlage 3 (zu § 10 Abs. 2 S 1)
+
+(Fundstelle des Originaltextes: BGBl. I 2002, 24)
+Die/Der Vorsitzende
+des Prüfungsausschusses
+Zeugnis
+über die staatliche Prüfung für Podologinnen und Podologen
+Name, Vorname
+...........................................................................
+Geburtsdatum Geburtsort
+...........................................................................
+hat am ............................ die staatliche Prüfung nach § 4 des
+Podologengesetzes vor dem staatlichen Prüfungsausschuss bei der
+...........................................................................
+in ......................... bestanden.
+Sie/Er hat folgende Prüfungsnoten erhalten:
+1. im schriftlichen Teil der Prüfung "......................."
+2. im mündlichen Teil der Prüfung "......................."
+3. im praktischen Teil der Prüfung "......................."
+Ort, Datum
+....................................... (Siegel)
+.......................................
+(Unterschrift der/des Vorsitzenden
+des Prüfungsausschusses)

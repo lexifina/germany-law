@@ -1,0 +1,10 @@
+# Anlage 2 Bezeichnung der Zulassung, die gleichzeitig für mehrere Sparten erteilt wird
+
+Umfasst die Zulassung zugleich
+1. Nummer 1 Buchstabe d, die Nummern 3, 7 und 10 Buchstabe a, so wird sie unter der Bezeichnung „Kraftfahrtversicherung“ erteilt;
+2. Nummer 1 Buchstabe d, die Nummern 4, 6, 7 und 12, so wird sie unter der Bezeichnung „See- und Transportversicherung“ erteilt;
+3. Nummer 1 Buchstabe d, die Nummern 5, 7 und 11, so wird sie unter der Bezeichnung „Luftfahrtversicherung“ erteilt;
+4. die Nummern 8 und 9, so wird sie unter der Bezeichnung „Feuer- und andere Sachschäden“ erteilt;
+5. die Nummern 10 bis 13, so wird sie unter der Bezeichnung „Haftpflicht“ erteilt;
+6. die Nummern 14 und 15, so wird sie unter der Bezeichnung „Kredit und Kaution“ erteilt;
+7. die Nummern 1, 3 bis 13 und 16, so wird sie unter der Bezeichnung „Schaden- und Unfallversicherung“ erteilt.

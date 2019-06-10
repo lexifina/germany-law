@@ -1,0 +1,8 @@
+# Art 4
+
+(1)
+Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft.
+(2)
+Der Tag, an dem das Protokoll nach seinem Artikel VII Abs. 2 in Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
+(3)
+Artikel 3 dieses Gesetzes ist beim Steuerabzug vom Arbeitslohn erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach dem 31. Dezember 1993 endenden Lohnzahlungszeitraum gezahlt wird, und auf sonstige Bezüge, die nach dem 31. Dezember 1993 zufließen.

@@ -1,0 +1,6 @@
+# Eingangsformel
+
+Mit Zustimmung des Bundesrates verordnen
+auf Grund des § 9 Abs. 2 und der §§ 37 und 52 Abs. 1 Satz 1 des Milchgesetzes vom 31. Juli 1930 (Reichsgesetzbl. I S. 421), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes der Bundesminister für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bundesminister für Jugend, Familie und Gesundheit nach Anhörung eines Sachverständigenbeirates,
+hinsichtlich der §§ 5, 6 und 7 auch auf Grund des § 5 Nr. 4 und 5 des Lebensmittelgesetzes in der Fassung der Bekanntmachung vom 17. Januar 1936 (Reichsgesetzbl. I S. 17), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch, in Verbindung mit Artikel 129 Abs. 1 des Grundgesetzes der Bundesminister für Jugend, Familie und Gesundheit gemeinsam mit dem Bundesminister für Ernährung, Landwirtschaft und Forsten
+und hinsichtlich des § 8 auf Grund des § 17 Abs. 1 Nr. 3 des Eichgesetzes vom 11. Juli 1969 (Bundesgesetzbl. I S. 759), zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch, der Bundesminister für Wirtschaft im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft und Forsten und für Jugend, Familie und Gesundheit:

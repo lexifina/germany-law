@@ -1,0 +1,6 @@
+# Art 2 Änderung des Gesetzes über die Errichtung von
+Rundfunkanstalten des Bundesrechts
+
+(1)
+Die Aufgaben der gemeinnützigen Anstalt des öffentlichen Rechts mit dem Namen "Deutschlandfunk" als Rundfunkanstalt des Bundesrechts sind zum 31. Dezember 1993 beendet.
+(2)

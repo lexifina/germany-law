@@ -1,0 +1,18 @@
+# Verordnung über Meldepflichten über Marktordnungswaren
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 2 Meldepflichten der Getreide-, Stärke- und Futtermittelwirtschaft](0002.md)
+- [§ 3 Meldepflichten der Zuckerwirtschaft](0003.md)
+- [§ 4 Meldepflichten der Fettwirtschaft](0004.md)
+- [§ 5 Meldepflichten der Milchwirtschaft](0005.md)
+- [§ 5a Meldepflichten der Alkoholwirtschaft](0005a.md)
+- [§ 6 Meldepflichtige, Gesamtmeldung](0006.md)
+- [§ 7 Zeitpunkt der Meldungen](0007.md)
+- [§ 8 Form der Meldungen](0008.md)
+- [§ 9 Aufzeichnungspflichten](0009.md)
+- [§ 10 Ordnungswidrigkeiten](0010.md)
+- [§ 11 Übergangsregelung](0011.md)
+- [§ 12 Inkrafttreten](0012.md)
+- [Schlussformel](schlussformel.md)
+- [(XXXX) Anlage G 1 bis M 6 (weggefallen)](xxxx-anlage-g-1-bis-m-6.md)

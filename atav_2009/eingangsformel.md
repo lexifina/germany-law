@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 10 Satz 2 des Atomgesetzes, der durch Artikel 1 Nummer 9 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) eingefügt wurde, und des § 11 Absatz 1 Nummer 6 und Absatz 2 des Atomgesetzes, der durch Artikel 1 Nummer 10 des Gesetzes vom 6. April 1998 (BGBl. I S. 694) eingefügt wurde, sowie des § 54 Absatz 1 Satz 1 des Atomgesetzes, der zuletzt durch Artikel 1 Nummer 5 des Gesetzes vom 12. August 2005 (BGBl. I S. 2365) geändert worden ist, sowie des § 54 Absatz 2 und des § 54 Absatz 3 des Atomgesetzes, der zuletzt durch Artikel 151 Nummer 6 Buchstabe b der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785; 2002 S. 2972) geändert worden ist, verordnet die Bundesregierung:

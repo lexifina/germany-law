@@ -1,0 +1,28 @@
+# Anlage 2 (zu § 1)
+
+Vorsätze und Vorsatzzeichen zur Bezeichnung von dezimalen Vielfachen
+und Teilen von Einheiten
+
+| Nr. | Faktor, mit dem die Einheit multipliziert wird | Vorsatz | Vorsatzzeichen |
+|  |
+| 1 | 2 | 3 | 4 |
+| 1 | 1024 | Yotta | Y |
+| 2 | 1021 | Zetta | Z |
+| 3 | 1018 | Exa | E |
+| 4 | 1015 | Peta | P |
+| 5 | 1012 | Tera | T |
+| 6 | 109 | Giga | G |
+| 7 | 106 | Mega | M |
+| 8 | 103 | Kilo | k |
+| 9 | 102 | Hekto | h |
+| 10 | 101 | Deka | da |
+| 11 | 10-1 | Dezi | d |
+| 12 | 10-2 | Zenti | c |
+| 13 | 10-3 | Milli | m |
+| 14 | 10-6 | Mikro | μ |
+| 15 | 10-9 | Nano | n |
+| 16 | 10-12 | Piko | p |
+| 17 | 10-15 | Femto | f |
+| 18 | 10-18 | Atto | a |
+| 19 | 10-21 | Zepto | z |
+| 20 | 10-24 | Yokto | y |

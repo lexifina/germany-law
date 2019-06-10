@@ -1,0 +1,18 @@
+# Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht – Rönnebank“
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Erklärung zum Naturschutzgebiet](0001.md)
+- [§ 2 Schutzgegenstand](0002.md)
+- [§ 3 Schutzzweck](0003.md)
+- [§ 4 Schutzzweck des Bereiches I](0004.md)
+- [§ 5 Schutzzweck des Bereiches II](0005.md)
+- [§ 6 Schutzzweck des Bereiches III](0006.md)
+- [§ 7 Schutzzweck des Bereiches IV](0007.md)
+- [§ 8 Verbote](0008.md)
+- [§ 9 Zulässigkeit von bestimmten Projekten und Plänen](0009.md)
+- [§ 10 Ausnahmen und Befreiungen](0010.md)
+- [§ 11 Bewirtschaftungsplan](0011.md)
+- [§ 12 Weitergehende Vorschriften](0012.md)
+- [§ 13 Inkrafttreten, Außerkrafttreten](0013.md)
+- [Anlage 1 (zu § 2 Absatz 2 und 5)](anlage-1.md)
+- [Anlage 2 (zu § 2 Absatz 7)Übersichtskarte des Naturschutzgebietes](anlage-2.md)

@@ -1,0 +1,10 @@
+# Art 2
+
+(1)
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Änderungen des Übereinkommens, die der Verwirklichung neuer technischer Erkenntnisse hinsichtlich der internationalen Beförderung gefährlicher Güter dienen oder die das anzuwendende technische oder verwaltungsmäßige Verfahren betreffen, sowie Änderungen der Anlagen des Übereinkommens durch Rechtsverordnung in Kraft zu setzen.
+(2)
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird ermächtigt, Sonderabkommen nach Artikel 4 Abs. 3 des Übereinkommens durch Rechtsverordnung in Kraft zu setzen. Dasselbe gilt für Vereinbarungen über Ausnahmen nach den Vorschriften der Anlagen des Übereinkommens, wenn Gegenstände der Bundesgesetzgebung berührt werden.
+(3)
+Rechtsverordnungen nach den Absätzen 1 oder 2 bedürfen der Zustimmung des Bundesrates, wenn Änderungen des Übereinkommens oder seiner Anlagen oder Sonderabkommen nach Artikel 4 Abs. 3 des Übereinkommens die Einrichtung der Landesbehörden oder die Regelung ihres Verwaltungsverfahrens betreffen.
+(4)
+Das Bundesministerium für Verkehr und digitale Infrastruktur erläßt mit Zustimmung des Bundesrates die zur Ausführung des Übereinkommens, dieses Gesetzes und der auf ihm beruhenden Rechtsverordnungen erforderlichen allgemeinen Verwaltungsvorschriften.

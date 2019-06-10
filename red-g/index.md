@@ -1,0 +1,16 @@
+# Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus
+
+- [§ 1 Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus](0001.md)
+- [§ 2 Inhalt der Datei und Speicherungspflicht](0002.md)
+- [§ 3 Zu speichernde Datenarten](0003.md)
+- [§ 4 Beschränkte und verdeckte Speicherung](0004.md)
+- [§ 5 Zugriff auf die Daten](0005.md)
+- [§ 6 Weitere Verwendung der Daten](0006.md)
+- [§ 7 Erweiterte projektbezogene Datennutzung](0007.md)
+- [§ 8 Übermittlung von Erkenntnissen](0008.md)
+- [§ 9 Datenschutzrechtliche Verantwortung](0009.md)
+- [§ 10 Protokollierung, technische und organisatorische Maßnahmen](0010.md)
+- [§ 11 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen](0011.md)
+- [§ 12 Berichtigung, Löschung und Sperrung von Daten](0012.md)
+- [§ 13 Errichtungsanordnung](0013.md)
+- [§ 14 Einschränkung von Grundrechten](0014.md)

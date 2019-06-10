@@ -1,0 +1,3 @@
+# (XXXX) Abbildung der Münze
+
+

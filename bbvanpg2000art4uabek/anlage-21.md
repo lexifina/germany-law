@@ -1,0 +1,16 @@
+# Anlage 21 (Anlage VIII des BBesG)
+
+(Zweite Besoldungs-Übergangsverordnung)
+
+Gültig ab 1. Januar 2002
+
+Fundstelle des Originaltextes: BGBl. I 2001, 693
+Anwärtergrundbetrag
+(Monatsbeträge in Euro)
+| Eingangsamt, in das der Anwärter nach Abschluss des Vorbereitungsdienstes unmittelbar eintritt | Grundbetrag |
+| A 1 bis A 4 | 610,88 |
+| A 5 bis A 8 | 704,48 |
+| A 9 bis A 11 | 746,34 |
+| A 12 | 854,72 |
+| A 13 | 879,35 |
+| A 13 + Zulage (Nummer 27 Abs. 1 Buchstabe c der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B) oder R 1 | 906,44 |

@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über den Zusammenschluß der deutschen Bundesstraße B 97 und der polnischen Landesstraße 274 sowie über den Bau einer Grenzbrücke im Raum Guben und Gubinek und dem dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen und das Protokoll werden nachstehend veröffentlicht.

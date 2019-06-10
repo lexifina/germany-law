@@ -1,0 +1,23 @@
+# Investitionszulagengesetz 2007
+
+- [§ 1 Anspruchsberechtigter, Fördergebiet](0001.md)
+- [§ 2 Begünstigte Investitionen](0002.md)
+- [§ 3 Investitionszeitraum](0003.md)
+- [§ 4 Bemessungsgrundlage](0004.md)
+- [§ 5 Höhe der Investitionszulage](0005.md)
+- [§ 5a Begünstigte Investitionen, Investitionszeitraum und Höhe der Investitionszulage in dem nicht zum Fördergebiet im Sinne des § 1 Abs. 2 gehörenden Teil des Landes Berlin](0005a.md)
+- [§ 6 Antrag auf Investitionszulage](0006.md)
+- [§ 7 Gesonderte Feststellung](0007.md)
+- [§ 8 Einzelnotifizierungspflichten, Genehmigungsvorbehalte und
+anzuwendende Rechtsvorschriften der Kommission der Europäischen Gemeinschaften](0008.md)
+- [§ 9 Festsetzung und Auszahlung](0009.md)
+- [§ 10 Zusammentreffen mit anderen Regionalbeihilfen](0010.md)
+- [§ 11 Verzinsung des Rückforderungsanspruchs](0011.md)
+- [§ 12 Ertragsteuerrechtliche Behandlung der Investitionszulage](0012.md)
+- [§ 13 Anwendung der Abgabenordnung](0013.md)
+- [§ 14 Verfolgung von Straftaten](0014.md)
+- [§ 15 Bekanntmachungserlaubnis](0015.md)
+- [§ 16 (Inkrafttreten)](0016.md)
+- [Anlage 1 (zu § 1 Abs. 2)](anlage-1.md)
+- [Anlage 2 (zu § 2 Abs. 1 Satz 3)](anlage-2.md)
+- [Anlage 3 (zu § 5 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Satz 1 Nr. 2)](anlage-3.md)

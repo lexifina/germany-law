@@ -1,0 +1,50 @@
+# Anlage zur BauVorl-/BauPrüf-/ÜbAO (zu § 2 Abs. 4, § 3 Abs. 4)
+
+Zeichen für Bauvorlagen
+
+Fundstelle des Originaltextes: GBl. I 1990 Nr. 57, S. 1406 - 1408
+1. Lageplan
+  1.1. Vorhandene öffentliche Verkehrsflächen
+    ... (nicht darstellbar)
+  1.2. Festgesetzte, aber noch nicht vorhandene Verkehrsflächen
+    ... (nicht darstellbar)
+  1.3. Vorhandene bauliche Anlagen
+    ... (nicht darstellbar)
+  1.4. Geplante bauliche Anlagen
+    ... (nicht darstellbar)
+  1.5. Zu beseitigende bauliche Anlagen
+    ... (nicht darstellbar)
+  1.6. Öffentliche Grünflächen
+    ... (nicht darstellbar)
+Für die Darstellung der jeweiligen Grünflächen
+Parkanlage ... (nicht darstellbar)
+Camping- und Wochenendplatz ... (nicht darstellbar)
+Badeplatz ... (nicht darstellbar)
+Friedhof ... (nicht darstellbar)
+Dauerkleingärten ... (nicht darstellbar)
+Sportplatz ... (nicht darstellbar)
+Kinderspielflächen ... (nicht darstellbar)
+1.7. Grenzen des Grundstücks
+    ... (nicht darstellbar)
+  1.8. Begrenzung von Abstandflächen
+    ... (nicht darstellbar)
+  1.9. Flächen, die von Baulasten betroffen sind
+    ... (nicht darstellbar)
+  2. Bauzeichnungen
+  2.1. Vorhandene Bauteile
+    ... (nicht darstellbar)
+  2.2. Vorgesehene Bauteile
+    ... (nicht darstellbar)
+  2.3. Zu beseitigende Bauteile
+    ... (nicht darstellbar)
+  3. Grundstücksentwässerung
+  3.1. Vorhandene Anlagen
+    Schmutzwasserleitung
+        Regenwasserleitung
+        Mischwasserleitung
+        ... (nicht darstellbar)
+  3.2. Geplante Anlagen
+    Schmutzwasserleitung
+        Regenwasserleitung
+        Mischwasserleitung
+        ... (nicht darstellbar)

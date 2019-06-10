@@ -1,0 +1,15 @@
+# Verordnung zur Durchführung von EU-Sondermaßnahmen im Sektor Obst und Gemüse
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Anwendungsbereich, Zuständigkeit, Betriebssitz](0001.md)
+- [§ 2 Marktrücknahmen von Nichtmitgliedern](0002.md)
+- [§ 3 Notifizierungen](0003.md)
+- [§ 4 Bestimmungszwecke für die aus dem Markt genommenen Erzeugnisse](0004.md)
+- [§ 5 Beträge](0005.md)
+- [§ 6 Anträge](0006.md)
+- [§ 7 Anerkennung gemeinnütziger Einrichtungen oder wohltätiger Stiftungen](0007.md)
+- [§ 8 Muster, Vordrucke und Formulare](0008.md)
+- [§ 9 Mitteilungspflichten](0009.md)
+- [§ 10 Aufzeichnungs-, Duldungs- und Mitwirkungspflichten](0010.md)
+- [§ 11 Ordnungswidrigkeiten](0011.md)
+- [§ 12 Inkrafttreten, Außerkrafttreten](0012.md)

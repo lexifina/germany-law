@@ -1,0 +1,12 @@
+# Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz (Artikel 1 der Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadengesetz und zur Änderung der Kostenverordnung für Amtshandlungen des Bundesamtes für Seeschiffahrt und Hydrographie)
+
+- [§ 1 Begriffsbestimmungen](0001.md)
+- [§ 2 Zuständigkeit](0002.md)
+- [§ 3 Voraussetzungen](0003.md)
+- [§ 4 Ausstellung](0004.md)
+- [§ 4a (weggefallen)](0004a.md)
+- [§ 5 Pflichten des Eigentümers](0005.md)
+- [§ 6 Einziehung](0006.md)
+- [§ 7 Ordnungswidrigkeiten](0007.md)
+- [Anlage 1 (zu § 4 Abs. 1)](anlage-1.md)
+- [Anlage 2 (zu § 4 Abs. 1)](anlage-2.md)

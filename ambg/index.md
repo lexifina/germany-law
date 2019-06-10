@@ -1,0 +1,18 @@
+# Allgemeines Magnetschwebebahngesetz
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Öffentliche Magnetschwebebahnen](0002.md)
+- [§ 3 Sicherheitsvorschriften](0003.md)
+- [§ 4 Aufgaben des Eisenbahn-Bundesamtes](0004.md)
+- [§ 5 Erteilung und Versagung der Genehmigung](0005.md)
+- [§ 6 Widerruf der Genehmigung](0006.md)
+- [§ 7 Beförderungspflicht](0007.md)
+- [§ 8 Tarife](0008.md)
+- [§ 9 Überwachung](0009.md)
+- [§ 10 Rechtsverordnungen](0010.md)
+- [§ 11 Allgemeine Verwaltungsvorschriften](0011.md)
+- [§ 12 Ordnungswidrigkeiten](0012.md)
+- [§ 13 Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten](0013.md)
+- [§ 14](0014.md)
+- [§ 15 Rückkehr zum einheitlichen Verordnungsrang](0015.md)
+- [§ 16 Inkrafttreten](0016.md)

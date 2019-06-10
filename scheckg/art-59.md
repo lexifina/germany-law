@@ -1,0 +1,6 @@
+# Art 59
+
+(1)
+Ein abhanden gekommener oder vernichteter Scheck kann im Wege des Aufgebotsverfahrens für kraftlos erklärt werden. Die Aufgebotsfrist muß mindestens zwei Monate betragen. Nach Einleitung des Aufgebotsverfahrens kann der Berechtigte, falls der Scheck rechtzeitig zur Zahlung vorgelegt, von dem Bezogenen aber nicht eingelöst worden war, von dem Aussteller Zahlung fordern, wenn er bis zur Kraftloserklärung Sicherheit leistet.
+(2)
+Eine abhanden gekommene oder vernichtete Protesturkunde kann durch ein Zeugnis über die Protesterhebung ersetzt werden, das von der die beglaubigte Abschrift der Urkunde verwahrenden Stelle zu erteilen ist. In dem Zeugnis muß der Inhalt des Protests und des gemäß Artikel 55 Abs. 3 in Verbindung mit Artikel 85 Abs. 2 des Wechselgesetzes aufgenommenen Vermerks angegeben sein.

@@ -1,0 +1,8 @@
+# Art 1
+
+(1)
+Die Gemeinde Cunsdorf im Landkreis Greiz (katastermäßig: Gemarkung Cunsdorf: künftig Umgliederungsgebiet) wird aus dem Freistaat Thüringen ausgegliedert und in den Freistaat Sachsen eingegliedert.
+(2)
+Der Gebietsstand der Gemeinde Cunsdorf richtet sich nach dem Stand ihrer Gemarkungsgrenzen am 3. Oktober 1990.
+(3)
+Der bisherige und der neue Verlauf der gemeinsamen Landesgrenze sind aus der Anlage zu diesem Vertrag ersichtlich.

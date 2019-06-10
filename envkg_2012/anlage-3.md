@@ -1,0 +1,13 @@
+# Anlage 3 (zu § 16 Absatz 2)Zeitliche Vorgabe zur Etikettierung
+
+Ab den folgenden Jahren kann das Etikett durch die in § 16 Absatz 1 genannten Berechtigten auf Heizgeräte der nachstehenden Baujahre angebracht werden:
+| laufende Nummer | ab dem Jahr | Etikettierung auf Heizgeräten der Baujahre |
+| 1. | 2016 | bis einschließlich 1986 |
+| 2. | 2017 | bis einschließlich 1991 |
+| 3. | 2018 | bis einschließlich 1993 |
+| 4. | 2019 | bis einschließlich 1995 |
+| 5. | 2020 | bis einschließlich 1997 |
+| 6. | 2021 | bis einschließlich 2001 |
+| 7. | 2022 | bis einschließlich 2005 |
+| 8. | 2023 | bis einschließlich 2008 |
+| 9. | 2024 | ab 2009, sofern sie mindestens 15 Jahre alt sind |

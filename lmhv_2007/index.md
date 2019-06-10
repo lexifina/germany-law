@@ -1,0 +1,18 @@
+# Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln
+
+- [§ 1 Anwendungsbereich](0001.md)
+- [§ 2 Begriffsbestimmungen](0002.md)
+- [§ 3 Allgemeine Hygieneanforderungen](0003.md)
+- [§ 3a Verwendung von Trinkwasser](0003a.md)
+- [§ 4 Schulung](0004.md)
+- [§ 5 Anforderungen an die Abgabe kleiner Mengen bestimmter Primärerzeugnisse](0005.md)
+- [§ 6 Herstellung bestimmter traditioneller Lebensmittel](0006.md)
+- [§ 6a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft](0006a.md)
+- [§ 7 (weggefallen)](0007.md)
+- [§ 8 Hygienische Anforderungen an die Beförderung von Rohzucker in Seeschiffen](0008.md)
+- [§ 9 Zulassung zur Ausfuhr](0009.md)
+- [§ 10 Ordnungswidrigkeiten](0010.md)
+- [Anlage 1 (zu § 4 Absatz 1 Satz 1)Anforderungen an Fachkenntnisse in der Lebensmittelhygiene](anlage-1.md)
+- [Anlage 2 (zu § 5 Absatz 1 Satz 1)Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen](anlage-2.md)
+- [Anlage 3 (zu § 6)Traditionelle Lebensmittel](anlage-3.md)
+- [Anlage 3a (zu § 6a)Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft](anlage-3a.md)

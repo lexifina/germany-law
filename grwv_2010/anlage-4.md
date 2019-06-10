@@ -1,0 +1,35 @@
+# Anlage 4 (zu § 9 Absatz 1 und 2)Überwachung des chemischen Grundwasserzustands und der Schadstofftrends
+
+1. Einrichtung und Betrieb von Messnetzen
+  1.1 Zur Überwachung des chemischen Grundwasserzustands sind Messnetze zur Überblicksüberwachung und gegebenenfalls zur operativen Überwachung einzurichten.
+  1.2 Die Messnetze müssen so errichtet und betrieben werden, dass eine kohärente, umfassende und repräsentative Übersicht über den chemischen Grundwasserzustand in jedem Grundwasserkörper gegeben ist sowie signifikante und anhaltende steigende Trends von Schadstoffkonzentrationen im Sinne von § 1 Nummer 3 sowie deren Umkehr erkannt werden können. Dabei ist sicherzustellen, dass
+    1.2.1 signifikante und anhaltende steigende Trends hinreichend zuverlässig, genau und so früh wie möglich erkannt und die Umkehr solcher Trends hinreichend zuverlässig und genau nachgewiesen werden,
+    1.2.2 die zeitabhängigen physikalischen und chemischen Eigenschaften des Grundwasserkörpers, einschließlich des Grundwasserströmungsverhaltens, der Grundwasserneubildungsraten sowie die Verweilzeit von Sicker- und Grundwasser im wassergesättigten und -ungesättigten Untergrund berücksichtigt werden.
+  1.3 Die Messnetze oder sonstigen einschlägigen Überwachungsergebnisse müssen bei Grundwasserkörpern, aus denen mehr als 100 Kubikmeter Grundwasser pro Tag zur Trinkwasserversorgung entnommen werden, zur Feststellung geeignet sein, ob das gewonnene Wasser unter Berücksichtigung der jeweils angewendeten Aufbereitungsverfahren den Anforderungen der Trinkwasserverordnung entspricht.
+  1.4 Die Messnetze sind im Bewirtschaftungsplan für die Flussgebietseinheit in einer oder mehreren Karten in einem geeigneten Maßstab darzustellen.
+  1.5 Berechnungen oder Schätzungen des Zuverlässigkeits- und Genauigkeitsgrades der im Rahmen der Überwachung ermittelten Ergebnisse sind für die Erstellung des Bewirtschaftungsplans festzuhalten.
+  1.6 Die Ergebnisse der Überblicksüberwachung sind zur Ermittlung der Grundwasserkörper heranzuziehen, für die eine operative Überwachung vorzunehmen ist.
+2. Überblicksüberwachung
+  2.1 Die Überblicksüberwachung dient dazu,
+    2.1.1 Verfahren zu ergänzen und zu validieren, mit denen die Auswirkungen menschlicher Tätigkeiten auf das Grundwasser beurteilt werden können, und
+    2.1.2 Trends zu erkennen und zu beurteilen.
+  2.2 Unbeschadet der Anforderungen nach Nummer 1.2 ist eine ausreichende Zahl von Messstellen auszuwählen
+    2.2.1 für gefährdete Grundwasserkörper und
+    2.2.2 für Grundwasserkörper, die sich über die Grenzen der Bundesrepublik Deutschland hinaus erstrecken.
+  2.3 Es müssen folgende Parameter bei allen ausgewählten Grundwasserkörpern gemessen werden:
+    2.3.1 Sauerstoff,
+    2.3.2 pH-Wert,
+    2.3.3 elektrische Leitfähigkeit,
+    2.3.4 Nitrat,
+    2.3.5 Ammonium.
+  2.4. Um die Auswirkungen der Anwendung von Pflanzenschutzmitteln auf das Grundwasser beurteilen zu können, sind die betroffenen Grundwasserkörper auch auf pflanzenschutzrechtlich nicht relevante Metabolite hin zu überwachen.
+  2.5 Die gefährdeten Grundwasserkörper sind zusätzlich auch auf die Parameter hin zu überwachen, die die Auswirkungen der Belastungen anzeigen.
+  2.6 Grundwasserkörper, die sich über die Grenzen der Bundesrepublik Deutschland hinaus erstrecken, sind zusätzlich auf die Parameter hin zu überwachen, die für den Schutz aller mit dem Grundwasserfluss verknüpften Verwendungszwecke von Bedeutung sind.
+3. Operative Überwachung
+  3.1 Die operative Überwachung ist durchzuführen, um
+    3.1.1 den chemischen Grundwasserzustand der gefährdeten Grundwasserkörper festzustellen und
+    3.1.2 langfristige durch menschliche Tätigkeiten bedingte Trends festzustellen.
+  3.2 Die Messstellen der operativen Überwachung sind so auszuwählen, dass die gewonnenen Daten für den Grundwasserzustand des Grundwasserkörpers repräsentativ sind.
+  3.3 Die zu untersuchenden Parameter sind im Einzelfall unter Berücksichtigung der Parameter, die zur Gefährdung der Erreichung der Ziele beitragen, festzulegen.
+  3.4 Die operative Überwachung ist in Intervallen durchzuführen, die ausreichen, um die Auswirkungen der Belastungen feststellen zu können, mindestens jedoch einmal jährlich.
+  3.5 Die operative Überwachung muss geeignet sein, die Wirksamkeit der Maßnahmen zur Zielerreichung zu belegen.

@@ -1,0 +1,3 @@
+# Art 69
+
+Wird der Text eines Wechsels geändert, so haften diejenigen, die nach der Änderung ihre Unterschrift auf den Wechsel gesetzt haben, entsprechend dem geänderten Texte; wer früher unterschrieben hat, haftet nach dem ursprünglichen Text.

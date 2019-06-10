@@ -1,0 +1,3 @@
+# Art 1
+
+Dem in Abu Dhabi am 5. April 2011 unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Internationalen Organisation für erneuerbare Energien über den Sitz des IRENA-Innovations- und Technologiezentrums wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
