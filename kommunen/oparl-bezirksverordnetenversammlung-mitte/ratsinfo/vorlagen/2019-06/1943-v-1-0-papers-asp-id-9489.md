@@ -1,0 +1,28 @@
+# Die Zerstörung der Arroganz – Zukunft der Rehberge mit Bürger*innen gestalten
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 1943/V
+- Art: Vorlage zur Kenntnisnahme
+- Datum: 2019-06-12
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9489
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=9489
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=441285
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4718 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4744 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4759 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4805 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4847 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4882 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4902 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4936 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4999 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5025 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5053 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5111 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5201 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5220 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5263 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5253 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=5393 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=51
