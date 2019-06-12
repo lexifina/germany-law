@@ -1,0 +1,9 @@
+# TOP 9.: Antrag der CDU-Fraktion im Ortsrat Bramel auf Unterstützung der 72 Stunden-Aktion der Landjugend Bramel aus Altkleidercontainermitteln
+
+- Sitzung: Ortsrat Bramel (2. Sitzung) (2019-06-12)
+- Körperschaft: Gemeinde Schiffdorf
+- Öffentlich: ja
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/32406
+- Ergebnis: 5 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- Beratung: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/10849
+- Beschluss (Datei): Beschlusstext (Antrag der CDU-Fraktion im Ortsrat Bramel auf Unterstützung der 72 Stunden-Aktion der Landjugend Bramel aus Altkleidercontainermitteln) https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXPzCk4R471r_QC9zWnLxnagQO2WZL7WY9pNOC6I5Y9I/Beschlusstext_134-2019_-oeffentlich-_Ortsrat_Bramel_12.06.2019.pdf
