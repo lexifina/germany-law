@@ -1,0 +1,69 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-13T17:00:00+02:00
+- Ende: 2019-06-13T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20480
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20480
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP -: C - Sachstandsbericht Bergerbrücke und Uferabgänge Porz Mitte vom Amt für Brücken, Tunnel und Stadtbahnbau. - geändert beschlossen
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken in Porz (Az.: 02-1600-36-19) - ungeändert beschlossen
+- TOP 2.1.1: Anwohnerparken in Porz - Kenntnis genommen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: 5-Jahresprogramm der Erschließungsmaßnahmen (inklusive Erschließungen im Rahmen von Wohnungsbaumaßnahmen), Porz - ungeändert beschlossen
+- TOP 6.2: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte - ungeändert beschlossen
+- TOP 6.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreigungssatzung hier: Ausübeung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 6.3.1: Änderungsantrag der SPD-Fraktion zu TOP 6.3, Straßenreinigungsverzeichnis - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Beibehaltung und Ausweitung der dualen Radverkehrsführung in Köln-Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - mit Änderungen empfohlen
+- TOP 7.1.1: Änderungsantrag der SPD-Fraktion zu TOP 7.2 - Radverkehrsführung Siegburger Straße - geändert beschlossen
+- TOP 7.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Zu 10.2.5 Mitteilung geschoben
+- TOP 7.3: ISEK Porz-Mitte - Glashütte - zurückgestellt
+- TOP 7.4: Freigabe- und Baubeschluss der Maßnahme "Umbau von zwei öffentlichen Platzflächen zu multifunktionalen Freiräumen mit Retentionsfunktion (Eiler Schützenplatz und Platz an der Leidenhausener Straße)" in Köln-Porz-Eil - zurückgestellt
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion: Sanierung der Hinweisschilder auf Fahrradwege im Stadtbezirk - ungeändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der SPD-Fraktion: Sperrung Westhover Weg für den Kfz-Verkehr - ungeändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7.1: Änderungsantrag der SPD-Fraktion zu TOP 8.7, Grünpflege Steinstraße - Sache ist erledigt
+- TOP 8.8: Antrag der CDU-Fraktion: Wohnanlage Parkstraße - ungeändert empfohlen
+- TOP 8.9: Antrag der Fraktion die Grünen: Stadtbahn Köln Niederkassel Bonn - ungeändert beschlossen
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.11: Antrag der CDU-Fraktion: Sackgasse Poststraße - ungeändert beschlossen
+- TOP 8.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.13: Antrag der CDU-Fraktion: Regelmäßige Kontrolle der Einstellung von den Kameras und Anbringen von - zurückgestellt
+- TOP 8.14: Antrag der CDU-Fraktion: LKW Parkverbot auf dem Parkplatz am Poller Damm - ungeändert beschlossen
+- TOP 8.15: Antrag der CDU-Fraktion: Ortseingangsschilder im Stadtbezirk Porz - geändert beschlossen
+- TOP 8.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Verlegung der Haltelinie Lichtsignalanlage Siegburger Str./Allerseelenstr. in Poll - Kenntnis genommen
+- TOP 9.1.1.1: Anfrage der SPD-Fraktion: Verlegung Haltelinie Lichtsignalanlage Siegburger Str./Allerseelenstr in Poll - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Jahresbericht 2017 Naturschutzwacht Bezirk 7-Nord - Kenntnis genommen
+- TOP 10.2.2: Jahresbericht 2018 der Naturschutzwacht, Bezirk 7 Süd - Kenntnis genommen
+- TOP 10.2.3: Einrichtung einer Querungshilfe in der Berliner Straße in Westhoven - Kenntnis genommen
+- TOP 10.2.4: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.5: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan Nr. 76380/03, Arbeitstitel: "Südlich Friedensstraße" in Köln-Porz-Elsdorf - Kenntnis genommen
