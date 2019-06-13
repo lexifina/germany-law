@@ -1,0 +1,6 @@
+# TOP 11.: EFRE-Programm "Lokale Ökonomie" hier: Beratung und Beschlussfassung über den Entwurf einer Förderrichtlinie
+
+- Sitzung: Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (25. Sitzung) (2019-06-13)
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/agendaitem/2675
