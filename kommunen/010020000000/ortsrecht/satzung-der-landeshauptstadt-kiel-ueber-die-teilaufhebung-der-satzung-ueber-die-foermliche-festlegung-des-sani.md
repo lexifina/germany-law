@@ -1,100 +1,213 @@
-# Satzung der Landeshauptstadt Kiel über die Teilaufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes „Kiel-Hörnbereich“
+# Satzung der Landeshauptstadt Kiel über die Teilaufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes „Kiel-Hörnbereich“ Vom: 24.07.19
 
 - Gemeinde: Landeshauptstadt Kiel (ARS 010020000000)
-- Datum: 2018-07-05 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=lf&fid=749714fd3bd0c3f72dc8495078542525
+- Datum: 2019-06-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.kiel.de/de/_data/ortsrecht_bekanntmachungen/root/download.php?typ=lf&fid=22a7c1d72006d174130bc616d420715b
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung der Landeshauptstadt Kiel über die Teilaufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes
-„Kiel-Hörnbereich“
-Vom: 24.7.18
-
-Aufgrund des § 162 Abs. 2 Satz 1 Ziffer 1 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 03.11.2017 (BGBl. I S. 3634) in Verbindung mit § 4 der Gemeindeordnung für
-Schleswig-Holstein (GO) in der Fassung der Bekanntmachung vom 28.02.2003 (GVOBl. Schl.-H. S. 57), zuletzt geändert durch Gesetz vom 04.01.2018 (GVOBl. Schl.-H. S. 6) wird nach
-Beschlussfassung durch die Ratsversammlung vom 05.07.2018 folgende Satzung erlassen:
-
-§ 1 Teilaufhebung der Sanierungssatzung
-Die Satzung der Landeshauptstadt Kiel über die förmliche Festsetzung des Sanierungsgebietes
-„Kiel-Hörnbereich“ vom 18.10.1989 wird nach § 162 Abs. 1 Satz 1 Nr. 1 BauGB i.V.m. § 162 Abs. 1 Satz 2 BauGB für einen Teil aufgehoben. Der von der Teilaufhebung betroffene räumliche Geltungsbereich ist mit seinen Grenzen in der Anlage dargestellt.
-
-Für folgende Flurstücke wird die Sanierungssatzung aufgehoben: Gemarkung Flur Flurstück Größe in m²
-
-Kiel-M
-
-14 194
-
-*11435
-
-Kiel-M
-
-14 280
-
-*15170
-
-Kiel-M
-
-15 523
-
-173
-
-Kiel-M
-
-15 521
-
-4
-
-Kiel-M
-
-15 524
-
-773
-
-Kiel-M
-
-15 568
-
-*1462
-
-Kiel-M
-
-15 522
-
-72
-
-Kiel-M
-
-14 48
-
-973
-
-Kiel-M
-
-14 193
-
-*49017
-
-Kiel-M
-
-15 514
-
-*35148
-
-* Für diese Flurstücke wird die Sanierungssatzung nur teilweise aufgehoben
-
-Der Plan gem. Anlage und die Auflistung der Grundstücke sind Bestandteil der Satzung.
-
+Satzung der Landeshauptstadt Kiel über die Teilaufhebung der
+Satzung über die förmliche Festlegung des Sanierungsgebietes „Kiel-Hörnbereich“ Vom: 24.07.19
+Aufgrund des § 162 Abs. 2 Satz 1 Ziffer 1 des Baugesetzbuches (BauGB) in der Fassung der Bekanntmachung vom 03.11.2017 (BGBl. I S. 3634) in Verbindung mit § 4 der Gemeindeordnung für Schleswig-Holstein (GO) in der Fassung der Bekanntmachung vom 28.02.2003 (GVOBl. Schl.-H. S.
+57), zuletzt geändert durch Gesetz vom 04.01.2018 (GVOBl. Schl.-H. S. 6) wird nach Beschlussfassung durch die Ratsversammlung vom 13.06.2019 folgende Satzung erlassen:
+§ 1 Teilaufhebung der Sanierungssatzung Die Satzung der Landeshauptstadt Kiel über die förmliche Festsetzung des Sanierungsgebietes „Kiel-Hörnbereich“ vom 18.10.1989 wird nach § 162 Abs. 1 Satz 1 Nr. 1 BauGB i.V.m. § 162 Abs. 1 Satz 2 BauGB für einen Teil aufgehoben.
+Der von der Teilaufhebung betroffene räumliche Geltungsbereich ist mit seinen Grenzen im nachstehenden Plan (Anlage 1) dargestellt. Der Plan und die Auflistung der Grundstücke (Anlage 2) sind Bestandteil der Satzung. Sie werden in der Anlage 1 und der Anlage 2 dieser Satzung dargestellt
+§ 2 Inkrafttreten Die Satzung tritt mit dem Tage nach der Bekanntmachung in Kraft.
+Kiel, den 24.07.19 Landeshauptstadt Kiel
+Siegel
+Dr. Ulf Kämpfer Oberbürgermeister
+Anlage 1: Räumlicher Geltungsbereich der Teilaufhebung Anlage 2: Auflistung der betroffenen Grundstücke
 -2-
 
+-2Anlage 1: Räumlicher Geltungsbereich der Teilaufhebung
 -2-
-§ 2 Inkrafttreten Die Satzung tritt am Tage nach der Bekanntmachung in Kraft. Kiel, den 24.7.18 Landeshauptstadt Kiel
-Renate Treutel Oberbürgermeister i.V.
-Hinweise: Eine Verletzung der in § 214 Abs. 1 Satz 1 Nr. 1 bis 3 BauGB bezeichneten Verfahrens- und Formvorschriften und der in § 214 Abs. 3 Satz 2 BauGB bezeichneten Mängel der Abwägung ist gemäß § 215 Abs. 1 BauGB unbeachtlich, wenn sie nicht innerhalb eines Jahres seit Bekanntmachung dieser Satzung schriftlich gegenüber der Landeshauptstadt Kiel geltend gemacht worden sind. Dabei ist der Sachverhalt, der die Verletzung der Verfahrens- und Formvorschriften oder den Mangel der Abwägung begründen soll, darzulegen. Mit dem Inkrafttreten der Teilaufhebungssatzung entfällt für die betroffenen Grundstücke • die Ausübung des Vorkaufsrechts der Landeshauptstadt Kiel gem. § 24 Abs. 1 Ziffer 3 BauGB
-und • die Genehmigungspflicht für Vorhaben und Rechtsvorgänge gem. § 144 BauGB Die Landeshauptstadt Kiel wird das Grundbuchamt ersuchen, die Sanierungsvermerke in Abteilung II der von der Teilaufhebungssatzung betroffenen Grundbücher zu löschen. Die Satzung der Landeshauptstadt Kiel über die Teilaufhebung der Satzung über die förmliche Festlegung des Sanierungsgebietes "Kiel-Hörnbereich" vom 18.10.1989 kann von jedermann im Rathaus, Stadtplanungsamt Raum 462a Fleethörn 9 in 24103 Kiel, während der Öffnungszeiten oder nach telefonischer Terminabsprache eingesehen werden und über den Inhalt Auskunft erhalten.
-Kiel, den 24.7.18 Landeshauptstadt Kiel
-Renate Treutel Oberbürgermeister i.V.
--3-
 
 -3-
+
+Anlage 2: Für folgende Flurstücke wird die Sanierungssatzung aufgehoben:
+
+Gemarkung Flur Flurstück Größe in m²
+
+Kiel-N
+
+16 544
+
+483
+
+Kiel-N
+
+15 170
+
+3756
+
+Kiel-N
+
+15 135
+
+446
+
+Kiel-N
+
+15 165
+
+161
+
+Kiel-N
+
+15 169
+
+46
+
+Kiel-N
+
+15 167
+
+3
+
+Kiel-N
+
+15 130
+
+6
+
+Kiel-N
+
+15 141
+
+116
+
+Kiel-N
+
+15 163
+
+888
+
+Kiel-N
+
+15 137
+
+435
+
+Kiel-N
+
+15 139
+
+53
+
+Kiel-N
+
+15 89
+
+124
+
+Kiel-N
+
+15 145
+
+7422
+
+Kiel-N
+
+15 140
+
+3695
+
+Kiel-N
+
+15 136
+
+13813
+
+Kiel-N
+
+15 108
+
+66
+
+Kiel-N
+
+15 138
+
+5085
+
+Kiel-N
+
+15 111
+
+6610
+
+Kiel-N
+
+15 103
+
+45
+
+Kiel-N
+
+15 73
+
+*4024
+
+Kiel-N
+
+15 110
+
+294
+
+Kiel-N
+
+15 116
+
+1287
+
+Kiel-N
+
+14 223
+
+*4480
+
+Kiel-N
+
+15 93
+
+9581
+
+Kiel-N
+
+15 94
+
+11273
+
+Kiel-N
+
+15 154
+
+125
+
+Kiel-N
+
+15 153
+
+1179
+
+Kiel-N
+
+15 173
+
+*64870
+
+Kiel-N
+
+15 151
+
+*12520
+
+Kiel-N
+
+16 545
+
+*79048
+
+*Für diese Flurstücke wird die Sanierungssatzung nur teilweise aufgehoben
