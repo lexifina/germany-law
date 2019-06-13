@@ -1,0 +1,116 @@
+# 32. Sitzung der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2019-06-13T17:00:00+02:00
+- Ende: 2019-06-13T22:05:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4326
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4326
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=268090
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1: Defizite im Sportsektor abbauen - vertagt
+- TOP 4.2: Fehlsteuerungen im KLR-System entgegenwirken - vertagt
+- TOP 5: Beschlussfassung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Lokale Netzinfrastruktur der Lichtenberger Schulen - vertagt
+- TOP 5.2: Mietenexplosion in Berlin - wann handelt das Bezirksamt? - vertagt
+- TOP 5.3: Aufgabenbereiche im Bezirksamt Lichtenberg neu aufteilen - in der BVV zurückgezogen
+- TOP 6: Kinder- und Jugend-BVV - erledigt
+- TOP 6.1: Schulwege sichern - Angsträume abbauen - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Finanzierung und Bereitstellung kostenloser Hygieneartikel in Jugendfreizeiteinrichtungen und Schulen - überwiesen
+- TOP 7: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7.1: Haushaltsplanentwurf des Bezirkes Lichtenberg für die Jahre 2020/2021 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Bericht des Bezirksamtes - erledigt
+- TOP 9: Einwohnerfragestunde - beantwortet
+- TOP 10: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Wahl einer stellvertretenden Bürgerdeputierten für den Ausschuss Kultur und Bürgerbeteiligung - gewählt
+- TOP 10.2: Wahlvorschlag zur Berufung von Mitgliedern des ehrenamtlichen Dienstes - gewählt
+- TOP 10.3: Wahlvorschlag zur Abberufung von Mitgliedern des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bezirkshaushaltsrechnung 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Sanierung der Jugendkunstschule (JuKs) abschließen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: BVV-Sondermittel für den SV Bau-Union Berlin e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: BVV-Sondermittel für den Förderverein Obersee & Orankesee e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Bebauungsplan für den Innenhof Barther Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Kleine Unterkünfte für bessere Inklusion - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.10: Fahrradstraße für die Rummelsburger Bucht - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Marktstraße 13 als Gemeinbedarfsfläche sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Markierung von Parkplätzen am Rolandseck - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.13: Kein Durchgangsverkehr mehr "An der Bucht" - Sicherheit und Gesundheit geht vor - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.14: Änderung von Ampelschaltungen im Bereich der Einmündung der Sewanstraße in die Straße Am Tierpark und der benachbarten BVG-Haltestellen (Friedrichsfelde) - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Kulturinvestitionen in Hohenschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Sicherer Weg für Kitakinder an der Wustrower Straße - überwiesen
+- TOP 10.17: Service im ÖPNV verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Zwieseler Straße instand setzen - überwiesen
+- TOP 10.19: Die Einwürfe der Altglas-Sammelbehälter mit insektensicheren Verschlussklappen ausrüsten - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Sicher zu Fuß über den Weißenseer Weg - überwiesen
+- TOP 10.21: Theatergutschein zur Einschulung - überwiesen
+- TOP 10.22: Mehr finanzielle Mittel für Gehwegsanierung und Bordsteinabsenkungen im Haushalt 2020/21 einplanen - überwiesen
+- TOP 10.23: Café-Häuschen am Stadtplatz Hohenschönhausen - überwiesen
+- TOP 10.24: Graffitis auf dem Spielplatz am Anton-Saefkow-Platz - überwiesen
+- TOP 10.25: Verordnung über die Veränderungssperre 11-125/28 für das Gelände zwischen Ilsestraße, Karlshorster Schule, Lisztstraße und Marksburgstraße im Bezirk Lichtenberg, Ortsteil Karlshorst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.26: Audit familiengerechte Kommune – Bilanzierungsaudit für den Bezirk Lichtenberg; hier: Zielvereinbarung zum Fortbestehen des Zertifikats - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.27: Intakte Spazierwege an der Paul-Junius-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.28: Geschulte Beratung für queere Menschen und deren Angehörige - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.29: Überdachung auf dem S-Bahnhof Karlshorst komplettieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.30: Verlängerung des 5-Minuten-Taktes auf der Straßenbahnlinie M5 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.31: Handlungsempfehlung aus der Einschulungsuntersuchung entwickeln - überwiesen
+- TOP 10.32: Möglichst barrierearmer Ausbau der Bushaltestellen in Lichtenberg - überwiesen
+- TOP 10.33: Lösungen und Unterstützung für den Regionalen Sozialpädagogischen Dienst (RSD) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 10.34: Begleitbeschluss zum Lichtenberger Kindertagesstättenentwicklungsplan 2018 - überwiesen
+- TOP 10.35: Entscheidung über Bebauungsplan Rienzistraße herbeiführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10.36: Umsetzung der gemeinsamen Strategie des Bezirksamts Lichtenberg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.37: Bebauungsplan 11-165 - Aufstellungsbeschluss; Arbeitstitel: Quartier Gehrenseestraße/Wollenberger Straße sowie Einstellung des vorhabenbezogenen Bebauungsplanverfahrens 11-95 VE und Aufhebung des Aufstellungsbeschlusses zum Bebauungsplan 11-75 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.38: Errichtung eines Ausweichstandortes im Zuge der Schulsanierungen in der Bernhard-Bästlein-Str. 56 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.39: Bebauungsplan XXII-2b - Änderung des Geltungsbereichs; Arbeitstitel: Darßer Straße (West) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.40: Bebauungsplan XVII-4 - Festsetzung; Arbeitstitel: "Ostkreuz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.41: Rahmenplan Fennpfuhl - überwiesen
+- TOP 10.42: Neu- und Abberufungen Mitglieder im Frauenbeirat - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.43: Veränderung und Neubildung von Einschulungsbereichen an Grundschulen und Gemeinschaftsschulen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.44: Bericht über die eingerichtete und angelaufene offene Mieterberatung im Bezirk Lichtenberg in den Monaten Januar bis April 2019 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.45: Vorhabenbezogener Bebauungsplan 11-117 VE – Änderung des Aufstellungsbeschlusses; Arbeitstitel: Landsberger Allee 323/339 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 11.1: Einrichtung von Zügen der Staatlichen Europa-Schule in Lichtenberg - beantwortet
+- TOP 11.2: Ausfallzeiten des Bürgermeisters und der Stadträte - beantwortet
+- TOP 11.3: Wie viele Schüler werden ohne Schuleingangsuntersuchung eingeschult? - zurückgezogen
+- TOP 11.4: Zeitplan für neue Kitaplätze in der Rummelsburger Bucht - beantwortet
+- TOP 11.5: Parken in der Wönnichstraße - DS/0303/VIII - zurückgezogen
+- TOP 11.6: Bewältigung des Reisebusverkehrs von Touristengruppen zur Gedenkstätte Hohenschönhausen - DS/0080/VIII - beantwortet
+- TOP 11.7: Verbindungstrakt zwischen zwei Gebäuden des Grünen Campus Malchow schaffen - DS/0272/VIII - beantwortet
+- TOP 11.8: Erneuerung des Skateparks am Weißenseer Weg 100 - DS/0271/VIII - beantwortet
+- TOP 11.9: Transparenz beim Planverfahren Parkstadt - beantwortet
+- TOP 11.10: Bezirkliches Ferienschwimmen - beantwortet
+- TOP 12: Wahlen - erledigt
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: Kinderarmut in Lichtenberg - beantwortet
+- TOP 13.2: Der Bezirk Lichtenberg begegnet der Kinderarmut begegnen – Ansatzpunkte und Perspektiven - Aufbau der Lichtenberger Armutspräventionsstrategie - im Ausschuss abgelehnt
+- TOP 13.3: Situation in der Rummelsburger Bucht, Paul und Paula Ufer - vertagt
+- TOP 14: Offene Drucksachen der letzten BVV-Sitzung - (offen)
+- TOP 14.1: Innenhof-Schutzkonzept auf den Weg bringen (Bezug: DS/0830/VIII) - überwiesen
+- TOP 14.2: Vergabe des Preises für "Demokratie und Zivilcourage" 2019 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Prioritäten der Fraktionen - (offen)
+- TOP 15.1: Doppelstock-Sporthalle an der Brodowin Grundschule - überwiesen
+- TOP 15.2: Einrichtung einer Projektsteuerung zur Umsetzung der Planungen „Urbanes Zentrum – Prerower Platz“ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Rechtsklarheit zur Hohenschönhausener Mitte (Bezug zu Bebauungsplan 11-73 VE) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Vorhabenbezogener Bebauungsplan 11-73 VE - Einstellung; Arbeitstitel: Wartenberger Straße 175 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 16.1: Lotse für Arztansiedlungen - ohne Änderungen in der BVV beschlossen
+- TOP 16.2: Einwohnerversammlungen - vertagt
+- TOP 16.3: Sicher zur Schule - vertagt
+- TOP 17: Anträge zur Beschlussfassung - (offen)
+- TOP 17.1: Mehr Mittel für den Tiefbau im Haushaltsplan 2019 – 2021 bereitstellen - in der BVV abgelehnt
+- TOP 17.2: Öffnungszeiten der Briefwahlstellen ausweiten - vertagt
+- TOP 17.3: Einführung des Klimavorbehalts - vertagt
+- TOP 17.4: Bericht des Bezirksamtes zur politisch motivierten Kriminalität im Bezirk Lichtenberg und in Berlin - vertagt
+- TOP 17.5: Unisex-Toiletten an Lichtenberger Schulen - vertagt
+- TOP 18: Vorlagen zur Beschlussfassung - erledigt
+- TOP 19: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 19.1: Informationen zum Verfahren über die Entwicklung in Karlshorst Ost - vertagt
+- TOP 20: Schließung der Sitzung - erledigt
