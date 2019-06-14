@@ -1,0 +1,57 @@
+# Rat (40. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2019-06-14T16:00:00+02:00
+- Ende: 2019-06-14T20:27:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcCTvUyhyCBL8_c-kSd0Cwg
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3701
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUcyzN3KUBO3VABDSWT0VA9bwi81Mk95C8ICA3Ebss7Z/Einladung_Rat_14.06.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeMiUza4dKoQgVJB3WObMbfCQEoryA8pjD1X5jNyrUnH/Oeffentliche_Niederschrift_Rat_14.06.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Feststellung der Beschlussfähigkeit
+- TOP A.2: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 17.05.2019
+- TOP A.3: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.4: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.11: Kindertagesbetreuung: Änderung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung) vom 30.06.2016
+- TOP A.11a: Antrag der SPD-Ratsfraktion auf Änderung/Ergänzung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung vom 30.06.2016)
+- TOP A.11b: Kindertagesbetreuung: Änderung der Satzung über die Elternbeiträge in Kindertageseinrichtungen und Kindertagespflege (Elternbeitragssatzung) vom 30.06.2016 - Bei einer Enthaltung und 18 Nein-Stimmen wurde mit 20 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP zu A.11: Beschlussantrag der CDU-Fraktion
+- TOP zu A.11: Ergänzende Information aus dem Dezernat 3 (Betr.: Online-Petition "Kindertagesbeiträge")
+- TOP A.5: Steuerung von Drittorganisationen:
+- TOP A.5a: Bericht aus dem Beteiligungscontrolling: 1. Tertialbericht der Interkomm Interkommunales Gewerbegebiet Ostwestfalen-Lippe GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5b: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH a) Feststellung des Jahresabschlusses 2018 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5c: HVV Herforder Versorgungs- und Verkehrs-Beteiligungs-GmbH Konzernabschluss 2018: a) Billigung des Konzernabschlusses b) Ergebnisverwendung - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5d: WWS Wohn- und Wirtschafts-Service Herford GmbH a) Feststellung des Jahresabschlusses 2018 b) Ergebnisverwendung c) Bericht des Aufsichtsrates d) Entlastung des Aufsichtsrates e) Entlastung der Geschäftsführung - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5e: Stadtentwicklungsgesellschaft Hansestadt Herford mbH: Umstrukturierung zur GmbH & Co. KG
+- TOP A.5f: Westfalen Weser Energie GmbH & Co. KG: Erwerb des Geschäftsanteils der Stadt Horn-Bad Meinberg an der GRE Gesellschaft zur rationellen Energienutzung Horn-Bad Meinberg mbH durch die Energieservice Westfalen Weser GmbH; Vorratsbeschluss zur Veräußerung des Geschäftsanteils der GRE an der Planungsgemeinschaft Bürgerwindpark Mönkeberg GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5g: Westfalen Weser Energie GmbH & Co. KG: Veräußerung der Beteiligung der AWP GmbH an der Bad Arolser Kommunalbetriebe GmbH - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.5h: Westfalen Weser Energie GmbH & Co. KG: Änderung des Gesellschaftsvertrags der Westfalen Weser Energie GmbH & Co. KG sowie der Westfalen Weser Netz GmbH im Hinblick auf die Umstrukturierung des Aufsichtsrats und die Einrichtung eines Arbeitnehmerbeirats - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6: Verwendung von Spenden der Freizeiteinrichtungen Stadtwerke Herford GmbH (FSH):
+- TOP A.6a: Verwendung von Spenden der FSH GmbH für den Kulturbereich - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.6b: Anträge der Sportvereine über das Spendenverfahren der FSH GmbH - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.7: Stadtentwicklungsprogramm "Herford 2030" hier: Beschluss - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP zu A.7: Ergänzende Information aus dem Sportbereich zum TOP "Stadtentwicklungsprogramm "Herford 2030"
+- TOP zu A.7: Beschlussantrag der Fraktion B90/DIE GRÜNEN zum TOP Stadtentwicklungsprogramm "Herford 2030"
+- TOP A.8: Förderprogramm "Smart Cities Made in Germany" des Bundesministeriums des Inneren, für Bau und Heimat; hier: Förderantrag der Hansestadt Herford - Bei einer Gegenstimme und ohne Enthaltung wurde mit 38 Ja-Stimmen mehrheitlich folgender Beschluss gefasst: 
+- TOP A.9: Projekt "Markthalle" Sachstandsbericht
+- TOP A.10: Durchführung von verkaufsoffenen Sonntagen am 13.10., 08.12. und 29.12.2019. - Bei 6 Enthaltungen und 10 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.12: Kostenlose Nutzung von öffentlichen Sportanlagen durch Sportvereine - Eigenanteilsfreie Nutzung der Eishalle durch den HEV und die TGH - Bei 6 Gegenstimmen und 2 Enthaltungen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.13: Neufassung der Vergabeordnung der Hansestadt Herford - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.14: Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford zum 01.07.2019
+- TOP zu A.14: Gebührensatzung für den Krankentransport und die Notfallrettung in der Hansestadt Herford zum 01.07.2019 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.15: Satzung der Hansestadt Herford über die öffentliche Nahwärmeversorgung
+- TOP A.16: Satzung der Hansestadt Herford über die Erhebung von Beiträgen nach § 8 KAG (Kommunalabgabengesetz) für straßenbauliche Maßnahmen (Straßenbaubeitragssatzung)
+- TOP A.17: Bebauungsplan Nr. 12.41 "Vlothoer Straße/ Hammersmith Kaserne,Teil 1" Hier: Satzungsbeschluss - Bei 3 Enthaltungen und 14 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.18: Antrag der SPD-Fraktion zum Thema: Monats- oder Jahrestickets für den ÖPNV in Herford für Herforder Bürgerinnen und Bürger
+- TOP zu A.18: Nachgereichter Beschlussvorschlag der SPD-Fraktion
+- TOP A.19: Genehmigung einer außerplanmäßigen Mittelbereitstellung für die Umstrukturierung der Pro Herford GmbH.
+- TOP A.20: Mitgliederbesetzungen in Gremien:
+- TOP A.20a: Ev. Diakoniestiftung Herford: Benennung eines Kuratoriumsmitgliedes - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.21: Mitteilungen
