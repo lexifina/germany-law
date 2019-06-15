@@ -343,7 +343,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 132.3 |  | bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 § 49 Absatz 3 Nummer 2 | 200 €Fahrverbot 1 Monat |
 | 132.3.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 320 €Fahrverbot 1 Monat |
 | 132.3.2 |  | – mit Sachbeschädigung |  | 360 €Fahrverbot 1 Monat |
-| 132a |  | Als Radfahrer in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 § 49 Absatz 3 Nummer 2 | 60 € |
+| 132a |  | Als Radfahrer oder Fahrer eines Elektrokleinstfahrzeugs in anderen als den Fällen des Rechtsabbiegens mit Grünpfeil rotes Wechsellichtzeichen oder rotes Dauerlichtzeichen nicht befolgt | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 § 49 Absatz 3 Nummer 2 | 60 € |
 | 132a.1 |  | – mit Gefährdung | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2, Absatz 3 Satz 1, 2 | 100 € |
 | 132a.2 |  | – mit Sachbeschädigung | § 1 Absatz 2 § 49 Absatz 1 Nummer 1, Absatz 3 Nummer 2 | 120 € |
 | 132a.3 |  | bei schon länger als 1 Sekunde andauernder Rotphase eines Wechsellichtzeichens | § 37 Absatz 2 Nummer 1 Satz 7, 11, Nummer 2 § 49 Absatz 3 Nummer 2 | 100 € |
@@ -482,6 +482,7 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 180c | Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht | § 15e Absatz 6 Satz 2 § 48 Nummer 14a | 65 € |
 | 180d | Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt | § 15e Absatz 6 Satz 3 § 48 Nummer 1 Buchstabe c | 70 € |
 | 180e | Als Halter die Inbetriebnahme eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet | § 15e Absatz 6 Satz 4 § 48 Nummer 2 | 70 € |
+|  | Rote Kennzeichen, Kurzzeitkennzeichen |  |  |
 | 181 | Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben | § 16 Absatz 2 Satz 3, 7 § 48 Nummer 15, 18 | 10 € |
 | 181a | (aufgehoben) |  |  |
 | 181b | (aufgehoben) |  |  |
@@ -489,8 +490,8 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 183 | Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von Aufzeichnungen über Prüfungs-, Probe- oder Überführungsfahrten verstoßen | § 16 Absatz 2 Satz 5, 6 § 48 Nummer 6, 17 | 25 € |
 | 183a | Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen nicht mitgeführt | § 16 Absatz 2 Satz 4 § 17 Absatz 2 Satz 1 § 48 Nummer 5 | 10 € |
 | 183b | Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt | § 16a Absatz 5 Satz 3 § 48 Nummer 5 | 20 € |
-|  | Versicherungskennzeichen |  |  |
-| 184 | Fahrzeug in Betrieb genommen, dessen Versicherungskennzeichen nicht wie vorgeschrieben ausgestaltet ist | § 27 Absatz 7 § 48 Nummer 1 | 10 € |
+|  | Versicherungskennzeichen und -plaketten |  |  |
+| 184 | Fahrzeug in Betrieb genommen, dessen Versicherungskennzeichen oder -plakette nicht wie vorgeschrieben ausgestaltet ist, ausgenommen ist das Fehlen des vorgeschriebenen Versicherungskennzeichens oder der vorgeschriebenen Versicherungsplakette | § 27 Absatz 7 § 29a Absatz 4 § 48 Nummer 1 Buchstabe c | 10 € |
 |  | Ausländische Kraftfahrzeuge |  |  |
 | 185 | Zulassungsbescheinigung oder die Übersetzung des ausländischen Zulassungsscheins nicht mitgeführt oder nicht ausgehändigt | § 20 Absatz 5 § 48 Nummer 5 | 10 € |
 | 185a | An einem ausländischen Kraftfahrzeug oder ausländischen Kraftfahrzeuganhänger das heimische Kennzeichen oder das Unterscheidungszeichen unter Verstoß gegen eine Vorschrift über deren Anbringung geführt | § 21 Absatz 1 Satz 1 Halbsatz 2, Absatz 2 Satz 1 Halbsatz 2 § 48 Nummer 19 | 10 € |
@@ -642,9 +643,28 @@ Fahrlässig begangene Ordnungswidrigkeiten
 |  | Auflagen bei Ausnahmegenehmigungen |  |  |
 | 232 | Als Fahrzeugführer, ohne Halter zu sein, einer vollziehbaren Auflage einer Ausnahmegenehmigung nicht nachgekommen | § 71 § 69a Absatz 5 Nummer 8 | 15 € |
 | 233 | Als Halter einer vollziehbaren Auflage einer Ausnahmegenehmigung nicht nachgekommen | § 71 § 69a Absatz 5 Nummer 8 | 70 € |
-| (234 bis 238) | (aufgehoben) |  |  |
+|  | e) Elektrokleinstfahrzeuge-Verordnung (eKFV) |  |  |
+|  | Betriebsbeschränkungen |  |  |
+| 234 | Elektrokleinstfahrzeug ohne die erforderliche Allgemeine Betriebserlaubnis oder Einzelbetriebserlaubnis auf öffentlichen Straßen in Betrieb gesetzt | § 2 Absatz 1 Satz 1 Nummer 1 § 14 Nummer 1 | 70 € |
+| 234a | Die Inbetriebnahme eines Elektrokleinstfahrzeugs ohne die erforderliche Allgemeine Betriebserlaubnis oder Einzelbetriebserlaubnis auf öffentlichen Straßen angeordnet oder zugelassen | § 2 Absatz 4 i. V. m. Absatz 1 Satz 1 Nummer 1 § 14 Nummer 3 | 70 € |
+| 235 | Elektrokleinstfahrzeug ohne gültige Versicherungsplakette auf öffentlichen Straßen in Betrieb gesetzt | § 2 Absatz 1 Satz 1 Nummer 2 § 14 Nummer 1 | 40 € |
+| 235a | Die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen Straßen ohne die erforderliche Versicherungsplakette angeordnet oder zugelassen | § 2 Absatz 4 i. V. m. Absatz 1 Satz 1 Nummer 2 § 14 Nummer 3 | 40 € |
+| 236 | Elektrokleinstfahrzeug trotz erloschener Betriebserlaubnis auf öffentlichen Straßen in Betrieb gesetzt und dadurch die Verkehrssicherheit wesentlich beeinträchtigt | § 2 Absatz 3 Satz 2 i. V. m. Absatz 4 § 14 Nummer 1 | 30 € |
+| 236a | Die Inbetriebnahme eines Elektrokleinstfahrzeugs auf öffentlichen Straßen trotz erloschener Betriebserlaubnis angeordnet oder zugelassen | § 2 Absatz 4 § 14 Nummer 3 | 30 € |
+| 237 | Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die Anforderungen an die lichttechnischen Einrichtungen im öffentlichen Straßenverkehr in Betrieb gesetzt | § 2 Absatz 1 Nummer 4 Buchstabe b § 14 Nummer 1 | 20 € |
+| 237a | Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die Anforderungen an die Schalleinrichtung im öffentlichen Straßenverkehr in Betrieb gesetzt | § 2 Absatz 1 Nummer 4 Buchstabe c § 14 Nummer 1 | 15 € |
+| 237b | Elektrokleinstfahrzeug unter Verstoß gegen die Vorschriften über die Anforderungen an die sonstigen Sicherheitsanforderungen im öffentlichen Straßenverkehr in Betrieb gesetzt | § 2 Absatz 1 Nummer 4 Buchstabe d § 14 Nummer 1 | 25 € |
+|  | Verhaltensrechtliche Anforderungen |  |  |
+| 238 | Mit einem Elektrokleinstfahrzeug eine nicht zulässige Verkehrsfläche befahren | § 10 Absatz 1 Satz 1, Absatz 2 Satz 1 § 14 Nummer 5 | 15 € |
+| 238.1 | – | mit Behinderung | § 10 Absatz 1 Satz 1, Absatz 2 Satz 1 § 14 Nummer 5 § 1 Absatz 2 StVO § 49 Absatz 1 Nummer 1 StVO | 20 € |
+| 238.2 | – | mit Gefährdung |  | 25 € |
+| 238.3 | – | mit Sachbeschädigung |  | 30 € |
+| 238a | Mit einem Elektrokleinstfahrzeug nebeneinander gefahren | § 11 Absatz 1 § 14 Nummer 6 | 15 € |
+| 238a.1 | – | mit Behinderung | § 11 Absatz 1 § 14 Nummer 6 § 1 Absatz 2 StVO § 49 Absatz 1 Nummer 1 StVO | 20 € |
+| 238a.2 | – | mit Gefährdung |  | 25 € |
+| 238a.3 | – | mit Sachbeschädigung |  | 30 € |
 | Lfd. Nr. | Tatbestand | Ferienreise-Verordnung | Regelsatz in Euro (€), Fahrverbot in Monaten |
-|  | e) Ferienreise-Verordnung |  |  |
+|  | f) Ferienreise-Verordnung |  |  |
 | 239 | Kraftfahrzeug trotz eines Verkehrsverbots innerhalb der Verbotszeiten länger als 15 Minuten geführt | § 1 § 5 Nummer 1 | 60 € |
 | 240 | Als Halter das Führen eines Kraftfahrzeugs trotz eines Verkehrsverbots innerhalb der Verbotszeiten länger als 15 Minuten zugelassen | § 1 § 5 Nummer 1 | 150 € |
 | Lfd. Nr. | Tatbestand | Straßenverkehrsgesetz (StVG) | Regelsatz in Euro (€), Fahrverbot in Monaten |

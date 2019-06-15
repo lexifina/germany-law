@@ -56,6 +56,7 @@
 - [§ 27 Ausgestaltung und Anbringung des Versicherungskennzeichens](0027.md)
 - [§ 28 Rote Versicherungskennzeichen](0028.md)
 - [§ 29 Maßnahmen bei vorzeitiger Beendigung des Versicherungsverhältnisses](0029.md)
+- [§ 29a Versicherungsplakette](0029a.md)
 
 ## Abschnitt 6 Fahrzeugregister
 
@@ -104,3 +105,4 @@
 - [Anlage 10a (zu § 17 Absatz 2 Satz 1)Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen](anlage-10a.md)
 - [Anlage 11 (zu § 23 Absatz 3)](anlage-11.md)
 - [Anlage 12 (zu § 27 Absatz 1 Satz 4)Versicherungskennzeichen für Kleinkrafträder, motorisierte Krankenfahrstühle und vierrädrige Leichtkraftfahrzeuge](anlage-12.md)
+- [Anlage 13 (zu § 29a Absatz 2 Nummer 3)Versicherungsplakette für Elektrokleinstfahrzeuge](anlage-13.md)

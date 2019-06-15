@@ -1016,47 +1016,47 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2015
 | Nr. | Funkdienst/ Funkanwendung | Nutzergruppen | Bezugseinheit | Jahresbeitrag je Bezugseinheit (in Euro) |
 | TKG | EMVG |
 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 1. | Öffentlicher Mobilfunk |  |  |  |  |
-| 1.1 |  | GSM | je angefangene 100 kHz Bandbreite | 820,46 | 108,34 |
+| 1. | ÖffentlicherMobilfunk |  |  |  |  |
+| 1.1 |  | GSM | je angefangene100 kHz Bandbreite | 820,46 | 74,35 |
 | 1.2 |  | (entfällt) |  |  |  |
 | 1.3 |  | Funkruf | Frequenz | 0,00 | 0,00 |
 | 1.4 |  | (entfällt) |  |  |  |
-| 1.5 |  | UMTS | je angefangene 100 kHz Bandbreite | 1 265,32 | 197,26 |
+| 1.5 |  | UMTS | je angefangene100 kHz Bandbreite | 1 265,32 | 135,37 |
 | 2. | Rundfunkdienst |  |  |  |  |
 | 2.1 | Ton-Rundfunk |  |  |  |  |
 | 2.1.1 |  | LW | Frequenz | 0,00 | 0,00 |
-| 2.1.2 |  | MW | Frequenz | 0,00 | 4 708,64 |
-| 2.1.3 |  | KW | Frequenz | 10,04 | 119,20 |
+| 2.1.2 |  | MW | Frequenz | 0,00 | 3 231,35 |
+| 2.1.3 |  | KW | Frequenz | 10,04 | 81,81 |
 | 2.1.4 |  | digitale MW | Frequenz | 0,00 | 0,00 |
 | 2.1.5 |  | digitale LW | Frequenz | 0,00 | 0,00 |
 | 2.1.6 |  | digitale KW | Frequenz | 0,00 | 0,00 |
-| 2.1.7 |  | nichtöffentliche Funkanlagen im UKW-Rundfunkbereich | Frequenz | 335,44 | 0,00 |
+| 2.1.7 |  | Nichtöffentliche Funkanlagen im UKW-Rundfunkbereich | Frequenz | 335,44 | 0,00 |
 |  |  |  | Theoretische Versorgungsfläche je zugeteilte Frequenz |  |  |
-| 2.1.8 |  | UKW | je angefangene 10 km2 | 1,14 | 0,68 |
-| 2.1.9 |  | T-DAB | je angefangene 10 km2 | 2,74 | 0,35 |
+| 2.1.8 |  | UKW | je angefangene 10 km² | 1,14 | 0,47 |
+| 2.1.9 |  | T-DAB | je angefangene 10 km² | 2,74 | 0,24 |
 | 2.2 | Fernseh-Rundfunk |  |  |  |  |
-| 2.2.1 |  | Fernseh-Rundfunk | je angefangene 10 km2 | 0,00 | 0,00 |
-| 2.2.2 |  | DVB-T | je angefangene 10 km2 | 1,31 | 1,51 |
+| 2.2.1 |  | Fernseh-Rundfunk | je angefangene 10 km² | 0,00 | 0,00 |
+| 2.2.2 |  | DVB-T | je angefangene 10 km² | 1,31 | 1,03 |
 | 3. | Feste Funkdienste/Normalfrequenz- und Zeitzeichenfunk |  |  |  |  |
-| 3.1 |  | Punkt-zu-Punkt-Richtfunk | Sendefunkanlage | 2,39 | 0,67 |
+| 3.1 |  | Punkt-zu-Punkt-Richtfunk | Sendefunkanlage | 2,39 | 0,46 |
 | 3.2 |  | WLL-PMP-Richtfunk | Sendefunkanlage | 0,00 | 0,00 |
 | 3.3 |  | gebietsbezogene Richtfunkzuteilungen | Sendefunkanlage | 0,00 | 0,00 |
-| 3.4 |  | fester Funkdienst unter 30 MHz, Normalfrequenz- und Zeitzeichenfunk | Frequenz | 15,14 | 5,83 |
-| 3.5 |  | Punkt-zu-Mehrpunkt-Richtfunk (außer WLL-PMP-Richtfunk) | Sendefunkanlage | 8,14 | 1,54 |
+| 3.4 |  | fester Funkdienst unter 30 MHz, Normalfrequenz-und Zeitzeichenfunk | Frequenz | 15,14 | 4,00 |
+| 3.5 |  | Punkt-zu-Mehrpunkt-Richtfunk (außer WLL-PMP-Richtfunk) | Sendefunkanlage | 8,14 | 1,05 |
 | 4. | Nichtöffentlicher mobiler Landfunk (nömL) |  |  |  |  |
-| 4.1 |  | Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk | Sendefunkanlage | 1,93 | 1,33 |
+| 4.1 |  | Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk | Sendefunkanlage | 1,93 | 0,91 |
 | 4.2 |  | (entfällt) |  |  |  |
 | 4.3 |  | (entfällt) |  |  |  |
-| 4.4 |  | Grundstücks-Personenruf (Netze ohne Quittungssender) | Netz mit …… Rufempfängern |  |  |
-|  |  |  | bis zu2 | bis zu | 2 | 7,97 | 0,21 |
-|  |  |  | bis zu5 | bis zu | 5 | 15,95 | 0,43 |
-|  |  |  | bis zu10 | bis zu | 10 | 31,89 | 0,86 |
-|  |  |  | bis zu50 | bis zu | 50 | 63,79 | 1,71 |
-|  |  |  | bis zu150 | bis zu | 150 | 127,57 | 3,42 |
-|  |  |  | bis zu400 | bis zu | 400 | 255,14 | 6,84 |
-|  |  |  | bis zu1 000 | bis zu | 1 000 | 510,29 | 13,68 |
-|  |  |  | mehr als1 000 | mehr als | 1 000 | 765,43 | 20,52 |
-| 4.5 |  | Grundstücks-Personenruf (Netze mit Quittungssender) | Netz mit …… Rufempfängern |  |  |
+| 4.4 |  | Grundstücks-Personenruf (Netze ohne Quittungssender) | Netz mit ……Rufempfängern |  |  |
+|  |  |  | bis zu2 | bis zu | 2 | 7,97 | 0,15 |
+|  |  |  | bis zu5 | bis zu | 5 | 15,95 | 0,29 |
+|  |  |  | bis zu10 | bis zu | 10 | 31,89 | 0,59 |
+|  |  |  | bis zu50 | bis zu | 50 | 63,79 | 1,17 |
+|  |  |  | bis zu150 | bis zu | 150 | 127,57 | 2,35 |
+|  |  |  | bis zu400 | bis zu | 400 | 255,14 | 4,69 |
+|  |  |  | bis zu1 000 | bis zu | 1 000 | 510,29 | 9,39 |
+|  |  |  | mehr als1 000 | mehr als | 1 000 | 765,43 | 14,08 |
+| 4.5 |  | Grundstücks-Personenruf (Netze mit Quittungssender) | Netz mit ……Rufempfängern |  |  |
 |  |  |  | bis zu2 | bis zu | 2 | 5,43 | 0,00 |
 |  |  |  | bis zu5 | bis zu | 5 | 10,85 | 0,00 |
 |  |  |  | bis zu10 | bis zu | 10 | 21,71 | 0,00 |
@@ -1065,7 +1065,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2015
 |  |  |  | bis zu400 | bis zu | 400 | 173,64 | 0,00 |
 |  |  |  | bis zu1 000 | bis zu | 1 000 | 260,46 | 0,00 |
 |  |  |  | mehr als1 000 | mehr als | 1 000 | 347,28 | 0,00 |
-| 4.6 |  | grundstücksüberschreitender Personenruf | Netz mit …… Rufempfängern |  |  |
+| 4.6 |  | grundstücksüberschreitender Personenruf | Netz mit ……Rufempfängern |  |  |
 |  |  |  | bis zu2 | bis zu | 2 | 1,48 | 0,00 |
 |  |  |  | bis zu5 | bis zu | 5 | 2,95 | 0,00 |
 |  |  |  | bis zu10 | bis zu | 10 | 5,91 | 0,00 |
@@ -1074,86 +1074,86 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2015
 |  |  |  | bis zu400 | bis zu | 400 | 47,27 | 0,00 |
 |  |  |  | bis zu1 000 | bis zu | 1 000 | 70,90 | 0,00 |
 |  |  |  | mehr als1 000 | mehr als | 1 000 | 94,53 | 0,00 |
-| 4.7 |  | Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke | Sendefunkanlage | 13,98 | 7,25 |
-| 4.8 |  | Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks | Sendefunkanlage | 4,42 | 0,25 |
+| 4.7 |  | Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke | Sendefunkanlage | 13,98 | 4,98 |
+| 4.8 |  | Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks | Sendefunkanlage | 4,42 | 0,17 |
 | 4.9 |  | Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte |  | kein Beitrag | kein Beitrag |
 | 5. | Flugfunkdienst |  |  |  |  |
-| 5.1 |  | stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen | Funkstelle | 7,24 | 162,10 |
-| 5.2 |  | mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen) | Funkstelle | 3,83 | 47,68 |
+| 5.1 |  | stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen | Funkstelle | 7,24 | 111,24 |
+| 5.2 |  | mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen) | Funkstelle | 3,83 | 32,72 |
 | 5.3 |  | mobiler Flugfunk (sonstige Bodenfunkstellen) | Funkstelle | 0,00 | 0,00 |
-| 6. | Amateurfunkdienst | Amateurfunk | Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst | 6,87 | 24,59 |
-| 7. | Seefunkdienst/ Binnenschifffahrtsfunk | Seefunk/Binnenschifffahrtsfunk | Funkstelle | 9,99 | 0,94 |
+| 6. | Amateurfunkdienst | Amateurfunk | Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst | 6,87 | 16,87 |
+| 7. | Seefunkdienst/ Binnenschifffahrtsfunk | Seefunk/Binnenschifffahrtsfunk | Funkstelle | 9,99 | 0,65 |
 | 8. | Nichtnavigatorischer Ortungsfunkdienst |  |  |  |  |
-| 8.1 |  | Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk | Sendefunkanlage | 2,03 | 6,94 |
-| 8.2 |  | Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP)) | Sendefunkanlage | 0,00 | 343,51 |
-| 9. | Sonstige Funkanwendungen |  |  |  |  |
+| 8.1 |  | Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk | Sendefunkanlage | 2,03 | 4,77 |
+| 8.2 |  | Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP)) | Sendefunkanlage | 0,00 | 235,74 |
+| 9. | SonstigeFunkanwendungen |  |  |  |  |
 | 9.1 |  | Demonstrationsfunk | Sendefunkanlage | 0,00 | 0,00 |
 | 9.2 |  | Versuchsfunk | Zuteilung | 1,05 | 0,00 |
 | 10. | Bahnfunk |  |  |  |  |
-| 10.1 |  | analoger Eisenbahn-Betriebsfunk(ortsfeste Frequenznutzung) | Sendefunkanlage | 20,10 | 10,90 |
-| 10.2 |  | analoger Eisenbahn-Betriebsfunk(mobile Frequenznutzung) | Sendefunkanlage | 1,06 | 0,43 |
-| 10.3 |  | digitaler Eisenbahn-Betriebsfunk in GSM-R-Technik | pro Sektor und Frequenzpaar | 49,46 | 19,27 |
+| 10.1 |  | analoger Eisenbahn-Betriebsfunk(ortsfeste Frequenznutzung) | Sendefunkanlage | 20,10 | 7,48 |
+| 10.2 |  | analoger Eisenbahn-Betriebsfunk(mobile Frequenznutzung) | Sendefunkanlage | 1,06 | 0,30 |
+| 10.3 |  | digitaler Eisenbahn-Betriebsfunk in GSM-R-Technik | pro Sektor und Frequenzpaar | 49,46 | 13,23 |
 | 11. | Bündelfunk |  |  |  |  |
-| 11.1 |  | Bündelfunk (bis 25 kHz Bandbreite) | pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite | 8,10 | 3,11 |
+| 11.1 |  | Bündelfunk(bis 25 kHz Bandbreite) | pro Sektor undFrequenzpaaran einem Standortje 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betriebje 12,5 kHz Bandbreite | 8,10 | 2,13 |
 | 11.2 |  | (entfällt) |  |  |  |
 | 12. | Satellitenfunk |  |  |  |  |
-| 12.1 |  | koordinierungsrelevante Satellitenfunkverbindung | Frequenz | 26,24 | 56,32 |
+| 12.1 |  | koordinierungsrelevanteSatellitenfunkverbindung | Frequenz | 26,24 | 38,65 |
 | 12.2 |  | nicht koordinierungsrelevante Satellitenfunkverbindung | Frequenz | 174,44 | 0,00 |
-| 12.3 |  | Satellitenfunknetz | Frequenz | 8 838,76 | 278,59 |
-| 12.4 |  | bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte) | Satellitensystem | 6 123,72 | 0,00 |
-| 13. | Drahtloser Netzzugang |  |  |  |  |
-| 13.1 |  | drahtloser Netzzugang, Frequenzbereich 450 MHz | pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite | 0,00 | 0,00 |
-| 13.2 |  | drahtloser Netzzugang, Frequenzbereich 800 MHz | je angefangene 100 kHz Bandbreite | 718,33 | 121,62 |
-| 13.3 |  | drahtloser Netzzugang, Frequenzbereich 900 MHz | je angefangene 100 kHz Bandbreite | 926,03 | 331,07 |
-| 13.4 |  | drahtloser Netzzugang, Frequenzbereich 1,8 GHz | je angefangene 100 kHz Bandbreite | 489,79 | 22,16 |
-| 13.5 |  | drahtloser Netzzugang, Frequenzbereich 2,0 GHz | je angefangene 100 kHz Bandbreite | 898,63 | 621,21 |
-| 13.6 |  | drahtloser Netzzugang, Frequenzbereich 2,6 GHz | je angefangene 100 kHz Bandbreite | 73,76 | 3,26 |
-| 13.7 |  | drahtloser Netzzugang, Frequenzbereich 3,5 GHz | je angefangene 100 kHz Bandbreite | 0,19 | 0,00 |
+| 12.3 |  | Satellitenfunknetz | Frequenz | 8 838,76 | 191,18 |
+| 12.4 |  | Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte) | Satellitensystem | 6 123,72 | 0,00 |
+| 13. | DrahtloserNetzzugang |  |  |  |  |
+| 13.1 |  | drahtloser Netzzugang,Frequenzbereich 450 MHz | pro Sektor undFrequenzpaarje 12,5 kHz Bandbreite | 0,00 | 0,00 |
+| 13.2 |  | drahtloser Netzzugang,Frequenzbereich 800 MHz | je angefangene100 kHz Bandbreite | 718,33 | 83,46 |
+| 13.3 |  | drahtloser Netzzugang,Frequenzbereich 900 MHz | je angefangene100 kHz Bandbreite | 926,03 | 227,20 |
+| 13.4 |  | drahtloser Netzzugang,Frequenzbereich 1,8 GHz | je angefangene100 kHz Bandbreite | 489,79 | 15,21 |
+| 13.5 |  | drahtloser Netzzugang,Frequenzbereich 2,0 GHz | je angefangene100 kHz Bandbreite | 898,63 | 426,31 |
+| 13.6 |  | drahtloser Netzzugang,Frequenzbereich 2,6 GHz | je angefangene100 kHz Bandbreite | 73,76 | 2,24 |
+| 13.7 |  | drahtloser Netzzugang,Frequenzbereich 3,5 GHz | je angefangene100 kHz Bandbreite | 0,19 | 0,00 |
 Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2016
 | Nr. | Funkdienst/ Funkanwendung | Nutzergruppen | Bezugseinheit | Jahresbeitrag je Bezugseinheit (in Euro) |
 | TKG | EMVG |
 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 1. | Öffentlicher Mobilfunk |  |  |  |  |
-| 1.1 |  | GSM | je angefangene 100 kHz Bandbreite | 1 117,93 | 206,94 |
+| 1. | ÖffentlicherMobilfunk |  |  |  |  |
+| 1.1 |  | GSM | je angefangene100 kHz Bandbreite | 1 117,93 | 144,40 |
 | 1.2 |  | (entfällt) |  |  |  |
 | 1.3 |  | Funkruf | Frequenz | 0,00 | 0,00 |
 | 1.4 |  | (entfällt) |  |  |  |
-| 1.5 |  | UMTS | je angefangene 100 kHz Bandbreite | 885,14 | 260,93 |
+| 1.5 |  | UMTS | je angefangene100 kHz Bandbreite | 885,14 | 182,07 |
 | 2. | Rundfunkdienst |  |  |  |  |
 | 2.1 | Ton-Rundfunk |  |  |  |  |
 | 2.1.1 |  | LW | Frequenz | 0,00 | 0,00 |
 | 2.1.2 |  | MW | Frequenz | 0,00 | 0,00 |
-| 2.1.3 |  | KW | Frequenz | 65,69 | 185,91 |
+| 2.1.3 |  | KW | Frequenz | 65,69 | 129,72 |
 | 2.1.4 |  | digitale MW | Frequenz | 0,00 | 0,00 |
 | 2.1.5 |  | digitale LW | Frequenz | 0,00 | 0,00 |
 | 2.1.6 |  | digitale KW | Frequenz | 0,00 | 0,00 |
-| 2.1.7 |  | nichtöffentliche Funkanlagen im UKW-Rundfunkbereich | Frequenz | 293,00 | 0,00 |
+| 2.1.7 |  | Nichtöffentliche Funkanlagen im UKW-Rundfunkbereich | Frequenz | 293,00 | 0,00 |
 |  |  |  | Theoretische Versorgungsfläche je zugeteilte Frequenz |  |  |
-| 2.1.8 |  | UKW | je angefangene 10 km2 | 1,23 | 0,66 |
-| 2.1.9 |  | T-DAB | je angefangene 10 km2 | 2,79 | 0,19 |
+| 2.1.8 |  | UKW | je angefangene 10 km² | 1,23 | 0,46 |
+| 2.1.9 |  | T-DAB | je angefangene 10 km² | 2,79 | 0,13 |
 | 2.2 | Fernseh-Rundfunk |  |  |  |  |
-| 2.2.1 |  | Fernseh-Rundfunk | je angefangene 10 km2 | 0,00 | 0,00 |
-| 2.2.2 |  | DVB-T | je angefangene 10 km2 | 1,13 | 1,04 |
+| 2.2.1 |  | Fernseh-Rundfunk | je angefangene 10 km² | 0,00 | 0,00 |
+| 2.2.2 |  | DVB-T | je angefangene 10 km² | 1,13 | 0,73 |
 | 3. | Feste Funkdienste/Normalfrequenz- und Zeitzeichenfunk |  |  |  |  |
-| 3.1 |  | Punkt-zu-Punkt-Richtfunk | Sendefunkanlage | 4,36 | 0,50 |
+| 3.1 |  | Punkt-zu-Punkt-Richtfunk | Sendefunkanlage | 4,36 | 0,35 |
 | 3.2 |  | WLL-PMP-Richtfunk | Sendefunkanlage | 0,00 | 0,00 |
 | 3.3 |  | gebietsbezogene Richtfunkzuteilungen | Sendefunkanlage | 0,00 | 0,00 |
-| 3.4 |  | fester Funkdienst unter 30 MHz, Normalfrequenz- und Zeitzeichenfunk | Frequenz | 16,81 | 5,12 |
+| 3.4 |  | fester Funkdienst unter 30 MHz, Normalfrequenz-und Zeitzeichenfunk | Frequenz | 16,81 | 3,57 |
 | 3.5 |  | Punkt-zu-Mehrpunkt-Richtfunk (außer WLL-PMP-Richtfunk) | Sendefunkanlage | 1,99 | 0,00 |
 | 4. | Nichtöffentlicher mobiler Landfunk (nömL) |  |  |  |  |
-| 4.1 |  | Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk | Sendefunkanlage | 1,64 | 1,21 |
+| 4.1 |  | Betriebsfunk, Grubenfunk, Grundstücks-Sprechfunk, nichtöffentliches Datenfunknetz für Fernwirk- und Alarmierungszwecke, Funkanlagen für Hilfszwecke, Fernwirkfunk | Sendefunkanlage | 1,64 | 0,84 |
 | 4.2 |  | (entfällt) |  |  |  |
 | 4.3 |  | (entfällt) |  |  |  |
-| 4.4 |  | Grundstücks-Personenruf (Netze ohne Quittungssender) | Netz mit …… Rufempfängern |  |  |
+| 4.4 |  | Grundstücks-Personenruf (Netze ohne Quittungssender) | Netz mit ……Rufempfängern |  |  |
 |  |  |  | bis zu2 | bis zu | 2 | 10,80 | 0,02 |
-|  |  |  | bis zu5 | bis zu | 5 | 21,60 | 0,04 |
-|  |  |  | bis zu10 | bis zu | 10 | 43,20 | 0,09 |
-|  |  |  | bis zu50 | bis zu | 50 | 86,40 | 0,18 |
-|  |  |  | bis zu150 | bis zu | 150 | 172,80 | 0,36 |
-|  |  |  | bis zu400 | bis zu | 400 | 345,60 | 0,72 |
-|  |  |  | bis zu1 000 | bis zu | 1 000 | 691,19 | 1,43 |
-|  |  |  | mehr als1 000 | mehr als | 1 000 | 1 036,79 | 2,15 |
-| 4.5 |  | Grundstücks-Personenruf (Netze mit Quittungssender) | Netz mit …… Rufempfängern |  |  |
+|  |  |  | bis zu5 | bis zu | 5 | 21,60 | 0,03 |
+|  |  |  | bis zu10 | bis zu | 10 | 43,20 | 0,06 |
+|  |  |  | bis zu50 | bis zu | 50 | 86,40 | 0,12 |
+|  |  |  | bis zu150 | bis zu | 150 | 172,80 | 0,25 |
+|  |  |  | bis zu400 | bis zu | 400 | 345,60 | 0,50 |
+|  |  |  | bis zu1 000 | bis zu | 1 000 | 691,19 | 1,00 |
+|  |  |  | mehr als1 000 | mehr als | 1 000 | 1 036,79 | 1,50 |
+| 4.5 |  | Grundstücks-Personenruf (Netze mit Quittungssender) | Netz mit ……Rufempfängern |  |  |
 |  |  |  | bis zu2 | bis zu | 2 | 7,58 | 0,00 |
 |  |  |  | bis zu5 | bis zu | 5 | 15,15 | 0,00 |
 |  |  |  | bis zu10 | bis zu | 10 | 30,31 | 0,00 |
@@ -1162,7 +1162,7 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2016
 |  |  |  | bis zu400 | bis zu | 400 | 242,47 | 0,00 |
 |  |  |  | bis zu1 000 | bis zu | 1 000 | 363,70 | 0,00 |
 |  |  |  | mehr als1 000 | mehr als | 1 000 | 484,94 | 0,00 |
-| 4.6 |  | grundstücksüberschreitender Personenruf | Netz mit …… Rufempfängern |  |  |
+| 4.6 |  | grundstücksüberschreitender Personenruf | Netz mit ……Rufempfängern |  |  |
 |  |  |  | bis zu2 | bis zu | 2 | 3,39 | 0,00 |
 |  |  |  | bis zu5 | bis zu | 5 | 6,79 | 0,00 |
 |  |  |  | bis zu10 | bis zu | 10 | 13,58 | 0,00 |
@@ -1172,37 +1172,37 @@ Frequenznutzungsbeiträge und EMV-Beiträge für das Jahr 2016
 |  |  |  | bis zu1 000 | bis zu | 1 000 | 162,93 | 0,00 |
 |  |  |  | mehr als1 000 | mehr als | 1 000 | 217,24 | 0,00 |
 | 4.7 |  | Fernsehfunk, bewegbare Kleinst-Richtfunkanlagen, Funkanlagen zur vorübergehenden Einrichtung einer Fernseh-, Ton- oder Meldeleitung, vorübergehende Einrichtung einer Bild-, Ton- oder Meldeübertragungsstrecke | Sendefunkanlage | 48,52 | 0,00 |
-| 4.8 |  | Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks | Sendefunkanlage | 3,75 | 0,36 |
+| 4.8 |  | Durchsagefunk (Funkmikrofone, drahtlose Mikrofone, Führungsfunk, Betriebsfunk für Führungszwecke, Regie- und Kommandofunk), Regiefunk des Reportagefunks | Sendefunkanlage | 3,75 | 0,25 |
 | 4.9 |  | Funkanlage zur Fernsteuerung von Modellen, drahtlose Mikrofonanlage für Hörgeschädigte |  | kein Beitrag | kein Beitrag |
 | 5. | Flugfunkdienst |  |  |  |  |
-| 5.1 |  | stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen | Funkstelle | 6,64 | 159,20 |
-| 5.2 |  | mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen) | Funkstelle | 4,98 | 49,84 |
+| 5.1 |  | stationäre Bodenfunkstellen, ortsfeste Flugnavigationsfunkstellen | Funkstelle | 6,64 | 111,09 |
+| 5.2 |  | mobiler Flugfunk (Luftfunkstellen), Flugnavigationsfunk (bewegliche Funkstellen) | Funkstelle | 4,98 | 34,78 |
 | 5.3 |  | mobiler Flugfunk (sonstige Bodenfunkstellen) | Funkstelle | 0,00 | 0,00 |
-| 6. | Amateurfunkdienst | Amateurfunk | Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst | 7,97 | 18,92 |
-| 7. | Seefunkdienst/ Binnenschifffahrtsfunk | Seefunk/Binnenschifffahrtsfunk | Funkstelle | 11,13 | 1,77 |
+| 6. | Amateurfunkdienst | Amateurfunk | Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst | 7,97 | 13,20 |
+| 7. | Seefunkdienst/ Binnenschifffahrtsfunk | Seefunk/Binnenschifffahrtsfunk | Funkstelle | 11,13 | 1,23 |
 | 8. | Nichtnavigatorischer Ortungsfunkdienst |  |  |  |  |
-| 8.1 |  | Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk | Sendefunkanlage | 4,09 | 9,76 |
-| 8.2 |  | Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP)) | Sendefunkanlage | 0,00 | 712,68 |
-| 9. | Sonstige Funkanwendungen |  |  |  |  |
+| 8.1 |  | Ortungsfunk kleiner Leistung (bis 50 Watt Strahlungsleistung (ERP)), Wetterhilfenfunk | Sendefunkanlage | 4,09 | 6,81 |
+| 8.2 |  | Ortungsfunk hoher Leistung (größer als 50 Watt Strahlungsleistung (ERP)) | Sendefunkanlage | 0,00 | 497,30 |
+| 9. | SonstigeFunkanwendungen |  |  |  |  |
 | 9.1 |  | Demonstrationsfunk | Sendefunkanlage | 0,00 | 0,00 |
 | 9.2 |  | Versuchsfunk | Zuteilung | 0,00 | 0,00 |
 | 10. | Bahnfunk |  |  |  |  |
-| 10.1 |  | analoger Eisenbahn-Betriebsfunk(ortsfeste Frequenznutzung) | Sendefunkanlage | 49,18 | 21,46 |
-| 10.2 |  | analoger Eisenbahn-Betriebsfunk(mobile Frequenznutzung) | Sendefunkanlage | 1,23 | 0,44 |
-| 10.3 |  | digitaler Eisenbahn-Betriebsfunk in GSM-R-Technik | pro Sektor und Frequenzpaar | 42,73 | 17,97 |
+| 10.1 |  | analoger Eisenbahn-Betriebsfunk(ortsfeste Frequenznutzung) | Sendefunkanlage | 49,18 | 14,97 |
+| 10.2 |  | analoger Eisenbahn-Betriebsfunk(mobile Frequenznutzung) | Sendefunkanlage | 1,23 | 0,31 |
+| 10.3 |  | digitaler Eisenbahn-Betriebsfunk in GSM-R-Technik | pro Sektor undFrequenzpaar | 42,73 | 12,54 |
 | 11. | Bündelfunk |  |  |  |  |
-| 11.1 |  | Bündelfunk (bis 25 kHz Bandbreite) | pro Sektor und Frequenzpaar an einem Standort je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite | 37,66 | 5,78 |
+| 11.1 |  | Bündelfunk (bis 25 kHz Bandbreite) | pro Sektor und Frequenzpaaran einem Standort je 12,5 kHz Bandbreite oder pro Frequenz im Direct-Mode-Betrieb je 12,5 kHz Bandbreite | 37,66 | 4,03 |
 | 11.2 |  | (entfällt) |  |  |  |
 | 12. | Satellitenfunk |  |  |  |  |
-| 12.1 |  | koordinierungsrelevante Satellitenfunkverbindung | Frequenz | 18,73 | 12,84 |
-| 12.2 |  | nicht koordinierungsrelevante Satellitenfunkverbindung | Frequenz | 59,91 | 43,29 |
-| 12.3 |  | Satellitenfunknetz | Frequenz | 949,63 | 265,38 |
-| 12.4 |  | bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte) | Satellitensystem | 1 716,57 | 0,00 |
-| 13. | Drahtloser Netzzugang |  |  |  |  |
-| 13.1 |  | drahtloser Netzzugang, Frequenzbereich 450 MHz | pro Sektor und Frequenzpaar je 12,5 kHz Bandbreite | 0,00 | 0,00 |
-| 13.2 |  | drahtloser Netzzugang, Frequenzbereich 800 MHz | je angefangene 100 kHz Bandbreite | 640,04 | 429,26 |
-| 13.3 |  | drahtloser Netzzugang, Frequenzbereich 900 MHz | je angefangene 100 kHz Bandbreite | 1 046,31 | 221,93 |
-| 13.4 |  | drahtloser Netzzugang, Frequenzbereich 1,8 GHz | je angefangene 100 kHz Bandbreite | 581,37 | 44,86 |
-| 13.5 |  | drahtloser Netzzugang, Frequenzbereich 2,0 GHz | je angefangene 100 kHz Bandbreite | 982,57 | 502,87 |
-| 13.6 |  | drahtloser Netzzugang, Frequenzbereich 2,6 GHz | je angefangene 100 kHz Bandbreite | 109,24 | 7,03 |
+| 12.1 |  | koordinierungsrelevanteSatellitenfunkverbindung | Frequenz | 18,73 | 8,96 |
+| 12.2 |  | nicht koordinierungsrelevante Satellitenfunkverbindung | Frequenz | 59,91 | 30,21 |
+| 12.3 |  | Satellitenfunknetz | Frequenz | 949,63 | 185,18 |
+| 12.4 |  | Bei der internationalen Fernmeldeunion in deutschem Namen registrierte Satellitensysteme (nach Übertragung der Nutzungsrechte) | Satellitensystem | 1 716,57 | 0,00 |
+| 13. | DrahtloserNetzzugang |  |  |  |  |
+| 13.1 |  | drahtloser Netzzugang,Frequenzbereich 450 MHz | pro Sektor undFrequenzpaarje 12,5 kHz Bandbreite | 0,00 | 0,00 |
+| 13.2 |  | drahtloser Netzzugang, Frequenzbereich 800 MHz | je angefangene 100 kHz Bandbreite | 640,04 | 299,53 |
+| 13.3 |  | drahtloser Netzzugang, Frequenzbereich 900 MHz | je angefangene 100 kHz Bandbreite | 1 046,31 | 154,86 |
+| 13.4 |  | drahtloser Netzzugang, Frequenzbereich 1,8 GHz | je angefangene 100 kHz Bandbreite | 581,37 | 31,30 |
+| 13.5 |  | drahtloser Netzzugang, Frequenzbereich 2,0 GHz | je angefangene 100 kHz Bandbreite | 982,57 | 350,89 |
+| 13.6 |  | drahtloser Netzzugang, Frequenzbereich 2,6 GHz | je angefangene 100 kHz Bandbreite | 109,24 | 4,90 |
 | 13.7 |  | drahtloser Netzzugang, Frequenzbereich 3,5 GHz | je angefangene 100 kHz Bandbreite | 0,92 | 0,00 |
