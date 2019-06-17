@@ -1,0 +1,77 @@
+# 40. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-17T17:00:00+02:00
+- Ende: 2019-06-17T20:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20129
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20129
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Intzestraße (Az.: 02-1600-43/19) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Illegales Gehwegparken - Kenntnis genommen
+- TOP 6.2.1: Illegales Gehwegparken - Kenntnis genommen
+- TOP 6.3: Anfrage der Fraktion Die Linke, betr.: Deckel drauf! - eine Einhausung für die A 57 - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion Die Linke, betr.: Wie lassen sich stille Flächenreserven für den Wohnungsbau heben? - Kenntnis genommen
+- TOP 6.4.1: Beantwortung Anfrage der Fraktion Die Linke - Flächenreserven für den Wohnungsbau - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der CDU-Fraktion, betr.: Mehrfamilienhaus und Neubau Kolibriweg, Köln-Vogelsang - zurückgestellt
+- TOP 7.2: Anfrage der CDU-Fraktion: Flächennutzungsplan Kolibriweg, Vogelsang - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion Die Linke, betr.: Können kleinräumige Daten der Stadtteilinformationen auf Ebene der Ehrenfelder Stadtviertel bereitgestellt werden? - zurückgestellt
+- TOP 7.4: Anfrage FDP: Straßen mit Kopfsteinpflaster in Bickendorf - zurückgestellt
+- TOP 7.5: Anfrage der SPD-Fraktion: ehem. Kita Wilhelm-Löhers-Platz - Kenntnis genommen
+- TOP 7.5.1: Kita- Räume am Wilhelm-Löhers-Platz in Köln-Bocklemünd - Kenntnis genommen
+- TOP 7.6: Anfrage der Fraktion DIE LINKE. BV Ehrenfeld.: Wie lassen sich Hindernisse beseitigen? - zurückgestellt
+- TOP 7.7: Anfrage der Fraktion DIE LINKE. BV Ehrenfeld: Sach- und Planungsstand Nördlich Colonius - Kenntnis genommen
+- TOP 7.7.1: Beantwortung einer Anfrage der Fraktion DIE LINKE. BV Ehrenfeld betreffend Sach- und Planungsstand Nördlich Colonius (AN/0794/2019) - Kenntnis genommen
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der SPD-Fraktion: Fahrradnadeln Ehrenfeldgürtel - ungeändert beschlossen
+- TOP 8.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der CDU-Fraktion, betr.: Modellprojekt ,,Sport im Sozialraum“, Wilhelm-Schreiber-Straße, Ossendorf - zurückgestellt
+- TOP 8.3.1: Ersetzungsantrag der SPD-Fraktion zum Antrag 0549/2019 (TOP 8.5), betr.: Modellprojekt „Sport im Sozialraum“ - zurückgestellt
+- TOP 8.3.2: Modellprojekt "Sport im Sozialraum", Wilhelm-Schreiber-Straße, Köln-Ossendorf - zurückgestellt
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der SPD-Fraktion: Machbarkeitsstudie Hüttenstraße - zurückgestellt
+- TOP 8.5.1: Änderungsantrag der Fraktion BÜNDNIS 90/GRÜNE zu TOP 8.5. „Machbarkeitsstudie Hüttenstraße“ - zurückgestellt
+- TOP 8.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Antrag der CDU-Fraktion, Verkehrszählung im Bereich Girlitzweg - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion: Venloer Straße als Einbahnstraße – Versuch macht klug! - endgültig abgelehnt
+- TOP 8.9: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN Baumscheibe Alpener Straße - ungeändert beschlossen
+- TOP 8.10: Antrag der CDU-Fraktion, betr.: neue Straße nördlich Girlitzweg - geändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion: Einbahnstraßenregelung in der Philippstraße - ungeändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion: Kreisverkehr Vogelsanger Straße - ungeändert beschlossen
+- TOP 8.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Entscheidungen
+- TOP 9.1: Baubeschluss für die Generalinstandsetzung der Philippstr. sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - zurückgestellt
+- TOP 9.2: Bürgerzentrum Ehrenfeld - sozialkulturelles Zentrum e.V. hier: Wahl der Parteienvertreter in den Vorstand des Trägervereins - ungeändert beschlossen
+- TOP 9.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier:Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.4: 2. Vergabe der bezirklichen Finanzmittel 2019 - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Aufhebung der Einleitungsbeschlüsse zu den Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) – Arbeitstitel: Alsdorfer Straße in Köln-Ehrenfeld und Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld - zurückgestellt
+- TOP 10.2: Konzeptausschreibung Alpener Straße 4-6 in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Subbelrather Straße 430-436 in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.4: Verzicht auf die Aufstellung eines Bebauungsplanes für das Gebiet Gutenbergstraße 132 / Lukasstraße 30 in Köln-Neuehrenfeld - geändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters - Kenntnis genommen
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Projekt: Ökologische Wiederherstellung wertgebender Streuobst- Altbestände, L6, L8 - Kenntnis genommen
+- TOP 12.2: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 12.3: Leerstand im städtischen Wohnungsbestand (AN/0565/2019) - Kenntnis genommen
+- TOP 12.4: Neuer Übergang Innere Kanalstraße auf Höhe des Telekom-Verwaltungsgebäudes - Kenntnis genommen
+- TOP 12.5: Radverkehr Butzweilerhofallee - Kenntnis genommen
+- TOP 12.6: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln-Ossendorf - Kenntnis genommen
+- TOP 12.7: Katholische Grundschule Platenstraße - Nachfrage von Bezirksvertreterin Bossinger zu 1436/2019 - Kenntnis genommen
+- TOP 12.8: Stadtklima-/Stadtverschönerungsprogramm 2019 Stadtbezirk Ehrenfeld- Nachfrage zum Aktionstag "Verschenken von Obstbäumen" - Kenntnis genommen
+- TOP 12.9: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 13: mündliche Anfragen
