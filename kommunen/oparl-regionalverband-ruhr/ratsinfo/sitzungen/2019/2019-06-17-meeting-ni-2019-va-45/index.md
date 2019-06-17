@@ -1,0 +1,57 @@
+# 20. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2019-06-17T10:00:00+02:00
+- Ende: 2019-06-17T12:30:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2019-VA-45
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2019-VA-45
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-VA-45
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-VA-45
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 18.03.2019
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2019
+- TOP 1.2: Städtebauförderung hier: Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier 2019“
+- TOP -: Anfrage der Fraktion Die Linke zur Vorlage 13/1456 Städtebauförderung hier: Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier 2019“
+- TOP -: Vorlagen des Regionalverband Ruhr/Planungsausschuss
+- TOP 1.3: Resolution des Kreises Wesel 'Nachhaltigkeit beim Kiesabbau'
+- TOP 1.4: Regionaler Diskurs Regionalplan Ruhr und Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr: Sachstandsberichte
+- TOP 1.5: Auswirkungen der geplanten LEP-Änderungen auf die Festlegungen des Regionalplans Ruhr
+- TOP 1.6: Vorläufige Zeitplanung bei der Aufstellung des Regionalplans Ruhr
+- TOP 1.7: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.1: Bericht über die Prüfung des Jahresabschlusses 2017, Feststellung des Jahresabschlusses 2017 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2017 bis 31.12.2017
+- TOP 2.2: Radschnellweg Ruhr RS1 Hier: Straßenbaubeiträge nach dem Kommunalabgabengesetz [Zur Vorlage 13/1406 im Nachgang zur Sitzung des Planungsausschusses am 22.05.2019]
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.3: Weiterentwicklung des Regionalen Radwegenetz Hier: Ergebnis der kommunalen Befassung und Beschlussfassung
+- TOP 2.4: Entwicklung einer EuroVelo der Industriekultur im Rahmen des internationalen Netzwerks
+- TOP 2.5: Auf dem Weg zu einem Freizeit-/Tourismuskonzept Metropole Ruhr Hier: Sachstandsbericht
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.6: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.7: EKOCity GmbH - Änderung der Satzung
+- TOP 2.8: Angelegenheiten der IGA Metropole Ruhr 2027
+- TOP 2.8.1: IGA Metropole Ruhr 2027 – Beschluss zur Gründung der Durchführungsgesellschaft „Internationale Gartenausstellung (IGA) Metropole Ruhr 2027 gGmbH“ und aktueller Sachstand
+- TOP 2.8.2: IGA Metropole Ruhr 2027 gGmbH – Bestellung einer Gründungsgeschäftsführung
+- TOP 2.8.3: IGA Metropole Ruhr 2027 gGmbH – Bestellung von Vertreter*innen in den Aufsichtsrat
+- TOP 2.9: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.9.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Verwendung der Investitionszuschüsse
+- TOP 2.9.2: Angelegenheiten der Freizeitgesellschaften - Revierpark Wischlingen GmbH - Verwendung der Investitionszuschüsse
+- TOP 2.9.3: Angelegenheiten der Freizeitgesellschaften - Revierpark Gysenberg Herne GmbH - Verwendung der Investitionszuschüsse
+- TOP 2.10: Anfragen und Mitteilungen
+- TOP 2.10.1: Flächenbilanz zum Entwurf des RPR
+- TOP 2.10.2: UEFA-Europameisterschaft 2024, hier: Anfrage der SPD-Fraktion vom 02.10.2018
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
