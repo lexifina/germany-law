@@ -1,0 +1,7 @@
+# TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Ausschuss für Planen, Bauen und Denkmalschutz (48. Sitzung) (2019-06-18)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/45354
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
