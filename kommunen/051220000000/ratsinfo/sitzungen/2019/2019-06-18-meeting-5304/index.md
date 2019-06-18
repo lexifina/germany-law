@@ -1,0 +1,56 @@
+# Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (36. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-06-18T17:00:00+02:00
+- Ende: 2019-06-18T20:05:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-41
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVNNkn1T3_YZfsVk43ld4_A
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5304
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTbOlFa5HYpLpIVs89yviPRPftTxNXQECuCRbF3zQvFD/Bekanntmachung_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_18.06.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZsY82ZUNq3BHAfmz4IF-R83uXdX75CgCUqL6VEWLgG4/Oeffentliche_Niederschrift_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_18.06.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Situation der Geflüchteten in Solingen
+- TOP 1.2: Öffnungszeiten WillkommenCenter
+- TOP 1.3: Wohnberechtigungsschein (WBS)
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 35. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 07.05.2019
+- TOP 4.: Berichtswesen für das Kommunale Jobcenter
+- TOP 5.: Eingliederungsbericht 2018
+- TOP 6.: Obdachlosen- und Flüchtlingsangelegenheiten hier: Widmung der Gebäude Cronenberger Str. 159 und 161
+- TOP 7.: Obdachlosenangelegenheiten hier: 2. Satzung zur Änderung der Satzung der Klingenstadt Solingen über die Obdachlosenunterkünfte
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.1.1: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen
+- TOP 8.1.1.1: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen
+- TOP 8.1.2: Gebühren Wohnberechtigungsschein
+- TOP 8.1.3: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 8.1.4: Bevölkerungsvorausberechnung 2018-2040
+- TOP 8.1.5: Kappungsgrenzenverordnung
+- TOP 8.1.6: Wohnraumförderung 2019 hier: aktualisierte Bestimmungen
+- TOP 8.1.7: Tätigkeitsbericht der Heimaufsicht für den Berichtszeitraum 2017/2018
+- TOP 8.1.8: Umsetzung Bundesteilhabegesetz in Solingen; hier: aktueller Sachstand
+- TOP 8.1.9: Jahresbericht 2018/2019 des Seniorenbeirats
+- TOP 8.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 34. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 12.04.2019
+- TOP 4.: Protokoll über die 35. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 07.05.2019
+- TOP 5.: Jahresabschluss 2018 der Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 6.: Jahresabschluss 2018 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 7.: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2019
+- TOP 8.: Städtisches Klinikum Solingen gemeinnützige GmbH - Onkologisches Zentrum: Aufstockung der psychoonkologischen Betreuung
+- TOP 9.: Städtisches Klinikum Solingen gemeinnützige GmbH - Umsetzungscontrolling zeb und Information zum Umsetzungsstand der Verträge
+- TOP 10.: Städtisches Klinikum Solingen gemeinnützige GmbH – Laborleistungen (1. Lesung)
+- TOP 11.: Städtisches Klinikum Solingen gemeinnützige GmbH – Zukünftige Struktur der Pathologie (1. Lesung)
+- TOP 12.: Städtisches Klinikum Solingen gemeinnützige GmbH – Wäscheversorgung (1. Lesung)
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen der Verwaltung
+- TOP 13.2: Anfragen an die Verwaltung
