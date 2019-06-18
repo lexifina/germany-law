@@ -1,0 +1,83 @@
+# 46. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-18T16:05:00+02:00
+- Ende: 2019-06-18T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20256
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20256
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Stand Umdruckexemplar, 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00722624.pdf
+- Ergebnisprotokoll: Tagesordnung (Stand Umdruckexemplar, 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00722624.pdf
+- Wortprotokoll: Tagesordnung (Stand Umdruckexemplar, 10.30 Uhr) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00722624.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag des Seniorenvertreters Meurers vom 14.02.2019 betr. Buslinie 134 - endgültig abgelehnt
+- TOP 1.1.1: Buslinie 134 bis 23:00 Uhr verkehren lassen und auf einen 10-Minuten-Takt kürzen - Kenntnis genommen
+- TOP 1.2: Venloer Straße soll Einbahnstraße werden - geändert beschlossen
+- TOP 1.2.1: Venloer Straße - geändert beschlossen
+- TOP 1.2.2: Fahrradstraße Venloer Straße - geändert beschlossen
+- TOP 1.3: Gut und sicher zur Schule - „Schulstraßen“ ermöglichen! - Sache ist erledigt
+- TOP 1.3.1: Antrag der SPD-Fraktion „Schulstraßen“ AN/0788/2019 - ungeändert beschlossen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Beibehaltung und Ausweitung der dualen Radverkehrsführung in Köln-Poll und Schaffung einer Ladezone vor der Siegburger Straße 333 - geändert beschlossen
+- TOP 3.2: Machbarkeitsstudie leistungsfähige RadPendlerRouten im Rechtsrheinischen - geändert beschlossen
+- TOP 3.3: Baubeschluss für die Erneuerung einer Fahrtreppenanlage an der Stadtbahnhaltestelle Wiener Platz mit gleichzeitiger Freigabe von investiven Auszahlungsermächtigungen des Teilfinanzplanes 1202 - Brücken, Tunnel, Stadtbahn, ÖPNV - - ungeändert beschlossen
+- TOP 3.4: Köln aufräumen - Fortführung der Maßnahme Beschichtung von Stadtmobiliar - ungeändert beschlossen
+- TOP 3.5: Radverkehrsführung auf den Kölner Ringen - Umsetzungsstufe 2020 im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - zurückgestellt
+- TOP 3.5.1: Radverkehrsführung auf den Kölner Ringen - zurückgestellt
+- TOP 3.5.2: Radverkehrsführung auf den Kölner Ringen – Umsetzungsstufe 2020 im Rahmen der Umsetzung des Radverkehrskonzeptes Innenstadt - zurückgestellt
+- TOP 3.6: Sanierung Straßenbrücke Simonskaul in Köln-Weidenpesch - im ersten Durchgang verwiesen
+- TOP 3.7: Bedarfsfeststellung zur Durchführung des Weihnachtsverkehrs 2019 - ungeändert beschlossen
+- TOP 3.8: "Lastenräder für Köln": Erhöhung des Fördervolumens - zurückgestellt
+- TOP 3.9: Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Satzung über die abweichende Herstellung der Erschließungsanlage Markgrafenstraße von Clevischer Ring bis Kreisverkehr Berliner Straße in Köln-Mülheim - unter Vorbehalt beschlossen
+- TOP 4.2: Satzung über die abweichende Herstellung der Erschließungsanlage Am Kutzpfädchen vom Ende des vorhandenen Teils (Höhe Kasseler Weg) bis Wendekreis in Köln-Fühlingen - ungeändert empfohlen
+- TOP 4.3: Satzung über die abweichende Herstellung der Erschließungsanlage Zur Eiche von Lülsdorfer Straße bis Sandbergstraße in Köln-Porz-Langel - ungeändert empfohlen
+- TOP 4.4: Satzung über die abweichende Herstellung der Erschließungsanlage Am Bahnhof von St.-Sebastianus-Straße (Kreisverkehr) bis Zum Bergfried - ungeändert empfohlen
+- TOP 4.5: Satzung über die abweichende Herstellung der Erschließungsanlage Niederkasseler Straße (Stichstraße) von Niederkasseler Straße bis Wendeanlage in Köln-Porz-Lind - ungeändert empfohlen
+- TOP 4.6: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Der Lupenraum Via Culturalis – Ein Handbuch für den öffentlichen Raum - ungeändert empfohlen
+- TOP 4.7: 271. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.8: Überplanmäßiger Aufwand im Teilergebnisplan 1201, Straßen, Wege, Plätze für das Haushaltsjahr 2018 - ungeändert empfohlen
+- TOP 4.9: Parkgebührenordnung 2019 - im ersten Durchgang verwiesen
+- TOP 4.9.1: Änderungsantrag zu Top 4.9 "Parkgebührenordnung 2019" - zurückgestellt
+- TOP 4.10: Busnetzerweiterung Interim - im ersten Durchgang verwiesen
+- TOP 4.10.1: Vollwertige Umweltspur für die Linien 172 und 173 einrichten! - Änderungsantrag zu Top 4.10 "Busnetzerweiterung Interim" - zurückgestellt
+- TOP 4.10.2: Busnetzerweiterung interim - zurückgestellt
+- TOP 4.11: Stärkung und Ausweitung des KVB-Busnetzes - im ersten Durchgang verwiesen
+- TOP 4.12: Stärkung und Ausweitung des KVB-Stadtbahnnetzes - im ersten Durchgang verwiesen
+- TOP 4.13: Ersatzneubau der Kragplatte am Altstadtufer; Bedarfsfeststellungs- und Planungsbeschluss - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Mikromobilität ab Juni 2019 – wie hat sich der Sachstand entwickelt? - Sache ist erledigt
+- TOP 5.2.1.1: Mikromobilität ab Juni 2019 – wie hat sich der Sachstand entwickelt? - Kenntnis genommen
+- TOP 5.2.2: Radfahren am Rheinufer - Sache ist erledigt
+- TOP 5.2.2.1: Anfrage der FDP-Fraktion im Rat der Stadt Köln vom 20.05.2019: Radfahren am Rheinufer (AN/0688/2019) - Kenntnis genommen
+- TOP 5.2.3: Anfrage des Seniorenvertreters Meurers vom betr. Fußgängerbeauftragten - zurückgestellt
+- TOP 5.2.4: Lastenräder – Perspektiven - Sache ist erledigt
+- TOP 5.2.5: Verlängerung des Schnellbus SB60 - Sache ist erledigt
+- TOP 5.2.6: Kölner Rheinbrücken – Wegeverbindungen für den Radverkehr verbessern! - zurückgestellt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Stadtbahnanbindung Köln Widdersdorf – Sachstand Untersuchung der Trassenführung - Sache ist erledigt
+- TOP 6.2: Velosichere Schienen für Köln - Sache ist erledigt
+- TOP 6.3: Tunnel realisierbar? Fragen zur Ost-West-Achse - Sache ist erledigt
+- TOP 6.4: Kostenentwicklung bei der Ertüchtigung der Ost-West-Achse - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Sachstand zum Ausbau, Erweiterungen, Erneuerungen der BAB 59 im Bereich Anschluss Lind bis Dreieck/ Kreuz Porz BAB 559 - Kenntnis genommen
+- TOP 7.2.2: Rücknahmen der Klage gegen Baugenehmigung Containerterminal Niederkassel - Kenntnis genommen
+- TOP 7.2.3: Kostensteigerungen bei Großprojekten - Kenntnis genommen
+- TOP 7.2.4: Kölner Abschlusskonferenz zum EU-Projekt „GrowSmarter“ 03.-05.06.2019 - Kenntnis genommen
+- TOP 7.2.5: Erweiterung der vorhandenen P+R Anlage Weiden-West durch die KVB AG - Kenntnis genommen
+- TOP 7.2.6: Start von Elektro-Tretroller-Verleihsystemen in der Stadt Köln - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Schrotträder im öffenlichen Raum - Sache ist erledigt
