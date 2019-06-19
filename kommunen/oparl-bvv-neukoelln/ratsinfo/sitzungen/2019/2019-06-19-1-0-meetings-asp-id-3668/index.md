@@ -1,0 +1,162 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-06-19T17:10:00+02:00
+- Ende: 2019-06-19T22:35:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3668
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3668
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Karstadt Abriss durch Signa Holding / Umgestaltung Hermannplatz - beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - im Ausschuss abgelehnt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Verkehr, Tiefbau und Ordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr, Tiefbau und Ordnung - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr, Tiefbau und Ordnung - gewählt
+- TOP 6.3: Wahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - gewählt
+- TOP 6.4: Wahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - in der BVV abgelehnt
+- TOP 6.5: Wahl einer Schiedsfrau / eines Schiedsmannes für den Schiedsamtsbezirk 5 - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2019/2020 und im Jahr 2020 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Tagesreinigung an Neuköllner Schulen - beantwortet
+- TOP 8.2: Zusage des Bürgermeisters im RBB wird nicht eingehalten - beantwortet
+- TOP 8.3: Größere Wohnung immer noch zu klein? - beantwortet
+- TOP 8.4: Wann wird die Wissmannstraße endlich umbenannt? - beantwortet
+- TOP 8.5: Vorkaufsrecht des Bezirksamtes und wer verdient dabei eine Vermittlungsprovision i.H.v. 150.000 € im Erfolgsfall? - beantwortet
+- TOP 8.6: Kita Riesestr. - beantwortet
+- TOP 8.7: Stadtökologische Aspekte - beantwortet
+- TOP 8.8: Zwei Finanzierungen für Stadteilmütter? - schriftlich beantwortet
+- TOP 8.9: Schutz von Mitarbeitenden - schriftlich beantwortet
+- TOP 8.10: Wieder Schulausfall wegen fehlender Grundreinigung? - schriftlich beantwortet
+- TOP 8.11: Mobiles Bürgeramt Rudow - schriftlich beantwortet
+- TOP 8.12: Nachtschicht für das Ordnungsamt - schriftlich beantwortet
+- TOP 8.13: "Kurze Beine, lange Wege" - Das neue Motto des Bezirksamts? - schriftlich beantwortet
+- TOP 8.14: Prozedere Vorkaufsrecht Schöneweider Str. 20 - schriftlich beantwortet
+- TOP 8.15: Tourismuskonzept mit illegaler Außenbestuhlung beworben? - schriftlich beantwortet
+- TOP 8.16: Nachfrage zur Drucksache 0474/XX - schriftlich beantwortet
+- TOP 8.17: Goldmünzendiebstahl Bodemuseum - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Nahverkehrsplan - beantwortet
+- TOP 9.2: Informationen für obdachlose Menschen verbessern - in der BVV abgelehnt
+- TOP 9.3: Praxisorientiertes Sportfach Selbstverteidigung - in der BVV abgelehnt
+- TOP 9.4: Sport im öffentlichem Raum fördern - in der BVV abgelehnt
+- TOP 9.5: Schulreinigung rekommunalisieren - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Selbstbestimmte dritte Option zum Geschlechtseintrag - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Licht im Buschkrugpark - in der BVV abgelehnt
+- TOP 9.8: Personalverstärkung für die Neuköllner Gartenarbeitsschule - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Einführung eines elektronischen Klassenbuches - in der BVV abgelehnt
+- TOP 9.10: Siedlergemeinschaften „Neue Heimstatt“ und „Am Vogelwäldchen“ - beantwortet
+- TOP 9.11: Wohnungsneubau - beantwortet
+- TOP 9.12: Umsetzung der Kostenfreiheit für Schulessen und Hortbetreuung - vertagt
+- TOP 9.13: Werbematerial aus dem linken politischen Bereich im öffentlichen Raum - vertagt
+- TOP 9.14: Fairer Bezirk – Faires Equipment - vertagt
+- TOP 9.15: Ursachen für Säuglingssterblichkeit wissenschaftlich erforschen lassen - vertagt
+- TOP 9.16: Veränderungssperre XIV-185db/32 für das Grundstück Rungiusstraße 9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185db - vertagt
+- TOP 9.17: Gefahrensituation in der Glasower Straße entschärfen - vertagt
+- TOP 9.18: Ampelanlage Werbellinstraße / Morusstraße - vertagt
+- TOP 9.19: Sanktionen im Jobcenter Neukölln aussetzen - vertagt
+- TOP 9.20: Bezirksamt Neukölln muss seiner Pflicht zum EU-Freizügigkeitsrecht nachkommen - vertagt
+- TOP 9.21: Ausweitung der Öffnungszeiten des Drogenkonsumraumes - vertagt
+- TOP 9.22: Weitere(r) Spritzen-Automat(en) in Neukölln - vertagt
+- TOP 9.23: Energieeffiziente Verwaltung im Rathaus - vertagt
+- TOP 9.24: Schilder da, aber niemand kann sie sehen II - vertagt
+- TOP 9.25: Schilder da, aber niemand kann sie sehen III - vertagt
+- TOP 9.26: Schilder da, aber niemand kann sie sehen IV - vertagt
+- TOP 9.27: Schilder da, aber niemand kann sie sehen IX - vertagt
+- TOP 9.28: Schilder da, aber niemand kann sie sehen V - vertagt
+- TOP 9.29: Schilder da, aber niemand kann sie sehen VI - vertagt
+- TOP 9.30: Schilder da, aber niemand kann sie sehen VII - vertagt
+- TOP 9.31: Schilder da, aber niemand kann sie sehen VIII - vertagt
+- TOP 9.32: Schilder da, aber niemand kann sie sehen X - vertagt
+- TOP 9.33: Schilder da, aber niemand kann sie sehen XI - vertagt
+- TOP 9.34: Schilder da, aber niemand kann sie sehen XII - vertagt
+- TOP 9.35: Schilder da, aber niemand kann sie sehen XIII - vertagt
+- TOP 9.36: Schilder da, aber niemand kann sie sehen XIV - vertagt
+- TOP 9.37: Schilder da, aber niemand kann sie sehen XV - vertagt
+- TOP 9.38: Schilder da, aber niemand kann sie sehen XVI - vertagt
+- TOP 9.39: Schilder da, aber niemand kann sie sehen XVII - vertagt
+- TOP 9.40: Schilder da, aber niemand kann sie sehen XVIII - vertagt
+- TOP 9.41: Schilder da, aber niemand kann sie sehen XXII - vertagt
+- TOP 9.42: Schilder da, aber niemand kann sie sehen XXIII - vertagt
+- TOP 9.43: Schilder da, aber niemand kann sie sehen XXIV - vertagt
+- TOP 9.44: Schilder da, aber niemand kann sie sehen XXV - vertagt
+- TOP 9.45: Schilder da, aber niemand kann sie sehen XXVI - vertagt
+- TOP 9.46: Schilder da, aber niemand kann sie sehen XXVII - vertagt
+- TOP 9.47: Kippenboxen - vertagt
+- TOP 9.48: Radfahrerfreundliches Neukölln- E-Bikes - vertagt
+- TOP 9.49: Gehweg vor der Neuköllner Straße 213 endlich Pflastern - vertagt
+- TOP 9.50: Tempo 30 - vertagt
+- TOP 9.51: Umbau Fahrradstellplatz - vertagt
+- TOP 9.52: Rotphase an der Ampel an der Einmündung Lipschitzallee/ Rudower Str. verlängern - vertagt
+- TOP 9.53: Planungsrecht Werderlake - vertagt
+- TOP 9.54: 27. Januar - Gedenktag für die Opfer des Nationalsozialismus begehen - vertagt
+- TOP 9.55: Keine Zuwendungskürzungen für To Spiti und Al Muntada - vertagt
+- TOP 9.56: Neuland statt Neukölln 2.0? - vertagt
+- TOP 9.57: Werbeflächen für Sozial- und Kultureinrichtungen in Neukölln - vertagt
+- TOP 9.58: Monatelanges Warten auf das Wohngeld - vertagt
+- TOP 9.59: Osteuropäische Obdachlose – im Wartemodus auf Sozialhilfe - vertagt
+- TOP 9.60: Festsetzungen Kosten der Unterkunft durch das JobCenter Neukölln - schriftlich beantwortet
+- TOP 9.61: Großinvestor C. in der Wipperstraße 5 - schriftlich beantwortet
+- TOP 9.62: Gedenkort Zwangsarbeiterlager Fulhamer Allee - vertagt
+- TOP 9.63: Unterkunft mit Beratung und Unterstützung für wohnungslose Minderjährige - vertagt
+- TOP 9.64: Lehr- und Lernmitteletat der Schulen - vertagt
+- TOP 9.65: Bebauungsplan 8-52ba („Dörferblick - Gärtnereien“) - vertagt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Städtepartnerschaften! - vertagt
+- TOP 10.2: Städtepartnerschaften leben – Zivilgesellschaftliches Engagement stärken - vertagt
+- TOP 10.3: Elektrische Fahrzeuge und Ladesäulen für Neukölln - vertagt
+- TOP 10.4: 100 Jahre August Heyn Gartenarbeitsschule (AHGAS) - vertagt
+- TOP 10.5: Zustand Post-Briefkästen verbessern - vertagt
+- TOP 10.6: Mehr Sicherheit im Verkehr für Seniorinnen und Senioren sowie Menschen mit einer Behinderung – Fußgängerampeln mit Restlaufanzeige erproben! - vertagt
+- TOP 10.7: Dreck im Gleisbett - vertagt
+- TOP 10.8: Familien-Service-Büro für Neukölln - vertagt
+- TOP 10.9: Tätigkeitsmöglichkeiten für Langzeitarbeitslose ausweiten! - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Schulhof für die Konrad-Agadh-Schule - vertagt
+- TOP 11.2: Jahrzehnte ansässige Philipp Moris Fabrik droht die Schließung. Wie kann der Bezirk die 1050 Angestellten unterstützen? - vertagt
+- TOP 11.3: Gilt in Neuköllner Schulkantinen die Scharia? - Teil VI - vertagt
+- TOP 11.4: Rodungen und Fällungen während der Brut- und Setzzeit - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Schüler*innenhaushalt - überwiesen
+- TOP 13.2: Namensgeber August-Froehlich-Straße - überwiesen
+- TOP 13.3: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - überwiesen
+- TOP 13.4: Umbenennung des Hertzbergplatzes zur Erinnerung an die Novemberrevolution - überwiesen
+- TOP 13.5: Mehr Erkenntnisse zur Neuköllner Präventionskette - überwiesen
+- TOP 13.6: Flächen für produzierendes Gewerbe sichern - überwiesen
+- TOP 13.7: Fußgängerquerung Sonnenallee / Geygerstraße - überwiesen
+- TOP 13.8: Sport in Zukunft müllfrei - überwiesen
+- TOP 13.9: Lesbarkeit der Anhörungen zum Milieuschutz - überwiesen
+- TOP 13.10: Richtlinien zum Umgang mit geplanten Hochhäusern im Bezirk - überwiesen
+- TOP 13.11: Schüler/innenhaushalt verstetigen I - überwiesen
+- TOP 13.12: BVG-Wartehäuschen - überwiesen
+- TOP 13.13: Zugang zur Thomashöhe erleichtern - überwiesen
+- TOP 13.14: Absenkung des Bürgersteiges - überwiesen
+- TOP 13.15: Schüler/innenhaushalt verstetigen II - überwiesen
+- TOP 13.16: Klimagerechte BVV-Unterlagen - vertagt
+- TOP 13.17: Grünphase der Lichtzeichenanlage Stubenrauchstraße, Seidelbastweg und Kanalstraße in Richtung Ehrenpreisweg verlängern - überwiesen
+- TOP 14: Mitteilungen - erledigt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Einbahnstraße für den Rad-Gegenverkehr öffnen - vertagt
+- TOP 15.2: Temporäre Fahrbahnmarkierung für Radfahrende - vertagt
+- TOP 15.3: Fahrradstraße Neukölln - vertagt
+- TOP 15.4: Geschwindigkeitsüberwachung im Ortolanweg - vertagt
+- TOP 15.5: Eine neue Küche für den Jugendclub Manege - vertagt
+- TOP 15.6: Aufstellung einer mobilen Geschwindigkeitsmessanlage Fritz-Reuter-Allee - vertagt
+- TOP 15.7: Ausschilderung Baustelle Karl-Marx-Straße - vertagt
+- TOP 15.8: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - vertagt
+- TOP 15.9: Nutzerfreundliche Papierkörbe in der Karl-Marx-Straße - vertagt
+- TOP 15.10: Höhere Taktzeiten auf der Buslinie 171 während des SEV auf der U7 - vertagt
+- TOP 15.11: Bebauungsplan XIV-60 („Mohriner Allee / Buckower Damm“) - vertagt
