@@ -1,0 +1,57 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-06-19T17:00:00+02:00
+- Ende: 2019-06-19T19:45:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4024
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4024
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 08.05.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Wahl eines Beigeordneten/einer Beigeordneten für Planung und Bau - ungeändert beschlossen
+- TOP 5: Neufassung des Baulandbeschlusses - geändert beschlossen
+- TOP 6: Neufassung des Quotenbeschlusses -Gemeinsamer Tagesordnungsantrag der Fraktionen CDU und SPD vom 29.05.2018 - geändert beschlossen
+- TOP 7: Veränderung des Stellenplans durch Einrichtung mehrerer Stellen im Bereich der städtischen Kindertageseinrichtungen und Streichung zweier kw-Vermerke (kw-2019) - ungeändert beschlossen
+- TOP 8: Beratung und Genehmigung des Bedarfsplans 2019 der Stadt Aachen zur Durchführung des Rettungsdienstes nach Abschluss des Beteiligungsverfahrens - ungeändert beschlossen
+- TOP 9: Annahme einer Schenkung für die Städt. Katholische Grundschule Höfchensweg - Ergänzung - ungeändert beschlossen
+- TOP 10: Bebauungsplan -Goffartstraße/Bergische Gasse-hier: Verlängerung der Satzung über eine Veränderungssperre im Bereich des Aufstellungsbeschlusses A 258 -Goffartstraße/Bergische Gasse- - ungeändert beschlossen
+- TOP 11: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Laurensberg für den Bereich Vaalser Straße / Am Venskyhäuschen - ungeändert beschlossen
+- TOP 12: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich Gemarkung Aachen, Flur 76, Flurstücke 261, 454 und 455 an der Lochnerstraße - ungeändert beschlossen
+- TOP 13: Teilaufhebung Bebauungsplan Nr. 516 - Diemstraße - (Heidbendenstraße) für den Planbereich im Stadtbezirk Aachen-Mitte zwischen Adenauerallee und Wilhelm-Pitz-Weghier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 14: IV. Änderung des Bebauungsplanes Nr. 888 - Krefelder Straße/ Soerser Weg - für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen Tivoli Stadion, Krefelder Straße, südlicher Zufahrt zum Sportpark Soers und Stadionparkhaushier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 15: I. Änderung des Bebauungsplanes Nr. 842 - Gewerbegebiet Oberforstbach Süd - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/Walheim für den Bereich im Bereich Werkstraße 16, zwischen Monschauer Straße und Werkstraße hier: Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 16: Friedhofsgebührenordnung der Stadt Aachen vom 13.12.2000hier: XIII.Änderungssatzung - geändert beschlossen
+- TOP 17: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 17.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen hier: Außerplanmäßige Mittelbereitstellung für die Errichtung von Ladeinfrastruktur im Förderprojekt ALigN - ungeändert beschlossen
+- TOP 18: Anfragen:
+- TOP 18.1: Ratsanfragen - ungeändert beschlossen
+- TOP 18.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 19: Ratsanträge - geändert beschlossen
+- TOP 20: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 20.1: gewoge AG: Umbesetzung im Aufsichtsrat - ungeändert beschlossen
+- TOP 20.2: Umbesetzungsantrag der SPD-Fraktion vom 14.06.2019 - ungeändert beschlossen
+- TOP 21: Mitteilungen der Verwaltung
+- TOP 22: Resolution zum Klimanotstandhier: Tagesordnungsantrag der Fraktionen von GRÜNE, DIE LINKE, PIRATEN sowie des Ratsherrn Allemand, UWG, vom 04.06.2019
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 10.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
+- TOP 12: nicht öffentlicher Tagesordnungspunkt
