@@ -1,0 +1,8 @@
+# TOP 8: Förderung von Projekten durch den Stadtbezirksbeirat Blasewitz, hier: Projekt Nr. 011/19 KGV Bräterstraße e.V. - 70. Vereinsgeburtstag
+
+- Sitzung: 50. Sitzung des Stadtbezirksbeirates Blasewitz (2019-06-19)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/119033
+- Ergebnis: Zustimmung über Umlaufverfahren nach Fachförderrichtlinie
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/37916
