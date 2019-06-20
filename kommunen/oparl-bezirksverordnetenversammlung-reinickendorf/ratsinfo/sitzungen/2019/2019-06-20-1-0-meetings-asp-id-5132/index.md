@@ -1,0 +1,73 @@
+# 25. öffentliche Sitzung des Bauausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2019-06-20T17:04:00+02:00
+- Ende: 2019-06-20T19:02:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=68
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5132
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5132
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=322057
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschrift der 24. Sitzung vom 04.06.2019 - vertagt
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Behindertengerechter Umbau Fuchsbau - mit Änderungen im Ausschuss beschlossen
+- TOP 3.2: Qualität der Fußwege in Reinickendorf grundlegend verbessern - im Ausschuss abgelehnt
+- TOP 3.3: Konzept für einen Gedenkort Alter Anstaltsfriedhof auf dem KaBoN-Gelände - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.4: Fontanehaus auch innen sanieren - mit Änderungen im Ausschuss beschlossen
+- TOP 3.5: Verkehrsberuhigung des Dorfkerns Lübars - vertagt
+- TOP 3.6: Beschaffung seniorengerechter Sitzgelegenheiten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.7: Kreuzberger Bügel am U-Bahnhof Alt-Tegel - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.8: Sicherheit in der Schramberger Str. in Hermsdorf verbessern! - mit Änderungen im Ausschuss beschlossen
+- TOP 3.9: Herstellung von Fahrradabstellplätzen an der Dienststelle Teichstraße - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.10: Medebacher Weg ertüchtigen - vertagt
+- TOP 3.11: Konsequentes Räumen von illegalen Kleidercontainern - erledigt
+- TOP 3.12: Absenkung von Bordsteinkanten - vertagt
+- TOP 3.13: Zusätzliche Parkplätze schaffen - vertagt
+- TOP 3.14: Erstellung einer Prioritätenliste zur Straßensanierung in Frohnau - vertagt
+- TOP 3.15: Parkbank versetzen - vertagt
+- TOP 3.16: Auch in bestehende Radwege investieren - vertagt
+- TOP 3.17: "ECO-Toiletten" in Reinickendorf - vertagt
+- TOP 3.18: Graffiti Romain-Rolland-Gymnasium - vertagt
+- TOP 3.19: Fenster Romain-Rolland-Gymnasium - vertagt
+- TOP 3.20: Hauptberufliche Stadtjäger - vertagt
+- TOP 3.21: Lüftung und Heizung in den Sitzungsräumen und Veranstaltungssälen des Bezirks - vertagt
+- TOP 3.22: Busknoten am U-Bahnhof Alt-Tegel barrierefrei umbauen - vertagt
+- TOP 3.23: Fahrradparkplätze für E-Bikes einrichten - vertagt
+- TOP 3.24: Weitere Fahrradabstellanlagen - vertagt
+- TOP 3.25: Gutachten zur Leistungsfähigkeit der Wasser, Abwasser und Energieversorgung der Hennigsdorfer Straße - vertagt
+- TOP 3.26: Forstamt Tegel personell stärken - vertagt
+- TOP 3.27: Bienen, Schmetterlinge und andere sog. Bestäuber vor dem Aussterben bewahren - vertagt
+- TOP 3.28: Mehr Obstbäume auf öffentlichen Grünflächen - vertagt
+- TOP 3.29: Baumscheiben bienenfreundlich gestalten - vertagt
+- TOP 3.30: Standorte für Little Homes in Reinickendorf - vertagt
+- TOP 3.31: Radverkehrsanlagen Zabel-Krüger-Damm - vertagt
+- TOP 3.32: Aufwertung der Benekendorfstraße für Radfahrende - vertagt
+- TOP 3.33: Hundeauslaufzone - vertagt
+- TOP 3.34: Hundekotbeseitigung - vertagt
+- TOP 3.35: Unterirdische automatische Fahrradgaragen - vertagt
+- TOP 3.36: Calestenics-Geräte im Kienhorstpark - vertagt
+- TOP 3.37: Boulebahnen im Kienhorstpark - vertagt
+- TOP 3.38: Digitale Bildung sicherstellen 3 - vertagt
+- TOP 3.39: Barrierefreiheit des Rathauses gewährleisten - vertagt
+- TOP 3.40: Blühstreifen für Insektenvielfalt - vertagt
+- TOP 3.41: Fontane-Haus barrierefrei zugänglich machen - vertagt
+- TOP 3.42: Bewerbung für WiFi4EU-Mittel abgeben - vertagt
+- TOP 3.43: Fahrradabstellanlage beim Jugendamt Nord, Nimrodstraße - vertagt
+- TOP 3.44: Infrastruktur für Rad fahrende Bezirksamtsmitarbeiter*innen - vertagt
+- TOP 3.45: Asphaltierte Fußübergänge in Alt-Tegel - vertagt
+- TOP 3.46: Abfallbehälter in Parkanlagen mit Deckeln aufstellen - vertagt
+- TOP 3.47: Schönheitskur für die Tegeler Sechserbrücke - vertagt
+- TOP 3.48: QR-Codes an Parkeingängen - vertagt
+- TOP 3.49: Baumlücke schließen - vertagt
+- TOP 3.50: Fahrradweg durch den Steinbergpark - vertagt
+- TOP 3.51: Barrierefreiheit in der Wachsmuthstraße - vertagt
+- TOP 3.52: Sechserbrücke in Tegel endlich behindertengerecht herrichten - vertagt
+- TOP 3.53: Verbesserung der Beleuchtung im Schloßviertel in Tegel - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
