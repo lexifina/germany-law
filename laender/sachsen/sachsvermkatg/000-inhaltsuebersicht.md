@@ -32,4 +32,4 @@ Abschnitt 4 Ordnungswidrigkeiten, Rechtsverordnungen
 § 27 Ordnungswidrigkeiten
 § 28 Einschränkung von Grundrechten
 § 29 Rechtsverordnungen
-§ 30 Übergangsregelungen
+§ 30 (aufgehoben)
