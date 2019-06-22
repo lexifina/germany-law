@@ -1,0 +1,10 @@
+# § 3a Elektronischer Rechnungsempfang
+(1) Auftraggeber im Sinne von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen stellen, soweit für die Nachprüfung der Vergabeverfahren die Vergabekammer des Freistaates Sachsen oder gemäß § 159 Absatz 1 Nummer 5 des Gesetzes gegen Wettbewerbsbeschränkungen die Vergabekammer des Bundes zuständig sein würde, den Empfang und die Verarbeitung elektronischer Rechnungen ab dem 18. April 2020 sicher, wenn der geschätzte Auftrags- oder Vertragswert ohne Umsatzsteuer die in § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen festgelegten Schwellenwerte erreicht oder überschreitet. Satz 1 gilt für die staatlichen Behörden unabhängig von der Überschreitung der in § 106 Absatz 2 des Gesetzes gegen Wettbewerbsbeschränkungen festgelegten Schwellenwerte. Vertragliche Regelungen, die die elektronische Rechnungsstellung vorschreiben, bleiben unberührt.
+(2) Eine Rechnung ist elektronisch, wenn
+1. sie in einem strukturierten elektronischen Format ausgestellt, übermittelt und empfangen wird sowie
+2. das Format die automatische und elektronische Verarbeitung der Rechnung ermöglicht.
+(3) Die Staatsregierung wird ermächtigt, durch Rechtsverordnung besondere Vorschriften zur Ausgestaltung des elektronischen Rechnungsverkehrs zu erlassen. Die Rechtsverordnung kann insbesondere Regelungen enthalten zu:
+1. der Art und Weise der Verarbeitung der elektronischen Rechnung,
+2. den Anforderungen an die elektronische Rechnungsstellung, insbesondere an die von den elektronischen Rechnungen zu erfüllenden Voraussetzungen für den Schutz personenbezogener Daten, das zu verwendende Rechnungsdatenmodell sowie die Verbindlichkeit der elektronischen Form für Rechnungen an alle Stellen, die dem Anwendungsbereich dieses Gesetzes unterliegen,
+3. der Befugnis von Auftraggebern im Sinne von § 98 des Gesetzes gegen Wettbewerbsbeschränkungen, in Ausschreibungsbedingungen die Erteilung elektronischer Rechnungen vorzusehen sowie
+4. Ausnahmen für sicherheitsspezifische Aufträge.
