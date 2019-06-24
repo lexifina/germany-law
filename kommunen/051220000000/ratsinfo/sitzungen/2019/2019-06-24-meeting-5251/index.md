@@ -1,0 +1,79 @@
+# Beteiligungsausschuss (41. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-06-24T17:02:00+02:00
+- Ende: 2019-06-24T19:30:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdFZe6PFsQZAVK_HdsFkdrY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5251
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW9uJXSm4MPCp58TTDjJ8MkcytQrRiw09Sbf3rNOSzUI/Bekanntmachung_Beteiligungsausschuss_24.06.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdVUH8QOVFGGnbmU6UTxk-Svn8fmG4Opy9X2UjJ-zn0G/Oeffentliche_Niederschrift_Beteiligungsausschuss_24.06.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 40. Sitzung des Beteiligungsausschuss am 13.05.2019
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Gründungsbeschluss zur Stadtentwicklungsgesellschaft Solingen
+- TOP 6.: Jahresabschluss 2018 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung des Beteiligungsausschuss am 12.04.2019
+- TOP 4.: Protokoll über die 40. Sitzung des Beteiligungsausschuss am 13.05.2019
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 7.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 7.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zu Verbesserung der wirtschaftlichen Situation hier: Antrag der CDU-Fraktion
+- TOP 8.: Wirtschaftsplan 2019 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 9.: Kunstmuseum Solingen Betriebsgesellschaft mbH - Abberufung eines Geschäftsführers und Bestellung einer Geschäftsführerin
+- TOP 10.: Jahresabschluss 2018 der Zentrum für verfolgte Künste GmbH
+- TOP 11.: Bergische Symphoniker GmbH - Jahresabschluss 2017/2018
+- TOP 12.: Bergische Symphoniker GmbH - Wirtschaftsplan 2019/2020
+- TOP 13.: Bergische Symphoniker GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2018/2019
+- TOP 14.: Wirtschaftsplan 2019/2020 der Städtischen Musikschule Solingen GmbH
+- TOP 14.1: Wirtschaftsplan 2019/2020 der Städtischen Musikschule Solingen GmbH
+- TOP 15.: Städtische Musikschule Solingen GmbH - Einzahlung in die Kapitalrücklage
+- TOP 16.: Jahresabschluss 2018 Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 17.: Städtisches Klinikum Solingen gemeinnützige GmbH - Bestellung Abschlussprüfer für das Geschäftsjahr 2019
+- TOP 18.: Städtisches Klinikum Solingen gemeinnützige GmbH - Umsetzungscontrolling zeb und Information zum Umsetzungsstand der Verträge
+- TOP 19.: Städtisches Klinikum Solingen gemeinnützige GmbH - Onkologisches Zentrum: Aufstockung der psychoonkologischen Betreuung
+- TOP 20.: Städtisches Klinikum Solingen gemeinnützige GmbH – Wäscheversorgung (1. Lesung)
+- TOP 21.: Städtisches Klinikum Solingen gemeinnützige GmbH – Zukünftige Struktur der Pathologie (1. Lesung)
+- TOP 22.: Städtisches Klinikum Solingen gemeinnützige GmbH – Laborleistungen (1. Lesung)
+- TOP 23.: Jahresabschluss 2018 der Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 24.: Jahresabschluss 2018 der Wirtschaftsförderung Solingen GmbH & Co. KG (WfS)
+- TOP 25.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Bestellung des Jahresabschlussprüfers für das Geschäftsjahr 2019
+- TOP 26.: Jahresabschluss 2018 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH)
+- TOP 27.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Veränderung der Kontokorrentlinie beim Cashmanagement
+- TOP 28.: Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH) – Bestellung Jahresabschlussprüfer für das Geschäftsjahr 2019
+- TOP 29.: Jahresabschluss 2018 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 30.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) – Bestellung des Abschlussprüfers 2019
+- TOP 31.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) – Veränderung der Kontokorrentlinie beim Cash-Management
+- TOP 32.: Wasserwerk Baumberg GmbH - Bestellung von Prokuristen
+- TOP 33.: Jahresabschluss 2018 der Neue Effizienz GmbH
+- TOP 34.: Neue Effizienz GmbH - Bestellung des Abschlussprüfers für das Geschäftsjahr 2019
+- TOP 35.: Neue Effizienz GmbH - Erhöhung des Kontokorrentkredits
+- TOP 36.: Neue Effizienz GmbH - Geschäftsordnung des Lenkungsausschusses
+- TOP 37.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) - Leitbild "Unternehmerregion"
+- TOP 38.: Jahresabschluss 2018 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 39.: Stadtwerke Solingen GmbH (SW SG) - Entzug und Erteilung von Prokuren
+- TOP 40.: Jahresabschluss 2018 der Entsorgung Solingen GmbH
+- TOP 41.: Jahresabschluss 2018 der Wasserwerk Baumberg GmbH
+- TOP 42.: Jahresabschluss 2018 der Elba Omnibusreisen GmbH
+- TOP 43.: Elba Omnibusreisen GmbH - Wahl des Abschlussprüfers für das Geschäftsjahr 2019
+- TOP 44.: Konzernabschluss 2018 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 45.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Städtische Musikschule Solingen GmbH
+- TOP 46.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 47.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Gründer- und Technologiezentrum Solingen GmbH & Co. KG
+- TOP 48.: Verschiedenes
+- TOP 48.1: Mitteilungen der Verwaltung
+- TOP 48.2: Anfragen an die Verwaltung
