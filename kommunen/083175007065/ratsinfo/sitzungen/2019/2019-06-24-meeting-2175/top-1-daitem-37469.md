@@ -1,0 +1,7 @@
+# TOP 1.: Breitbandausbau in Lahr
+
+- Sitzung: Haupt- und Personalausschuss (6. Sitzung) (2019-06-24)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37469
+- Beratung: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4849
