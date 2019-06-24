@@ -1,0 +1,54 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-06-24T15:00:00+02:00
+- Ende: 2019-06-24T00:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16687
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16687
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345639.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345639.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345639.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Anfrage der Ratsfraktion BÜ90/GRÜ: Wann vollzieht der Oberbürgermeister endlich den Verkauf der RWE- - beantwortet
+- TOP 4: Anfrage der Ratsfraktion BÜ90/GRÜ: Lenkungswirkung durch lärmabhängige Start- und Landeentgelte - beantwortet
+- TOP 5: Entwurf Jahresabschluss 2018 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 6: Übertragene Ermächtigungen von 2018 nach 2019 - zur Kenntnis genommen
+- TOP 7: Kämmerer-Liste - zur Kenntnis genommen
+- TOP 8: Gemeinsamer Controllingbericht der Stadtkämmerrin und des Personaldezernenten zur haushalts- und per - zur Kenntnis genommen
+- TOP 9: Anlagerichtlinie der Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 10: Änderung Ausführungs- u. Finanzierungsbeschlusses f. d. Baumaßnahme Radweg Karlstraße/Worringer Str. - passieren lassen
+- TOP 11: Änderungsbeschluss AUF Eisenbahnüberführung (EÜ) Bamberger Straße - einstimmig beschlossen
+- TOP 12: Schumann-Haus, Bilker Straße 15 in Düsseldorf - einstimmig beschlossen
+- TOP 13: Unterführung Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 14: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen - einstimmig beschlossen
+- TOP 15: Neubau der Einrichtung „Haus der Jugend“ Lacombletstraße 10, Düsseldorf - Bedarfsbeschluss - passieren lassen
+- TOP 16: Neubau Kita Hallesche Straße, Düsseldorf - Bedarfsbeschluss - passieren lassen
+- TOP 17: RÜB Lörick, Sanierung Hochwasserpumpwerk - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 18: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorf - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 19: Stellplatzsatzung Landeshauptstadt Düsseldorf - passieren lassen
+- TOP 20: Satzung über die Ablösung von Stellplätzen der Stadt Düsseldorf - passieren lassen
+- TOP 21: Satzung zur Aufhebung der Satzung für Spezialmärkte der Landeshauptst. Düsseldorf (Radschlägermarkt) - einstimmig beschlossen
+- TOP 22: Änderung der Entgeltordnung des Großmarktes, der Wochenmärkte und des Radschlägermarktes d. Landesh. - einstimmig beschlossen
+- TOP 23: Änderung der Verwaltungsgebührensatzung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 24: Verleihung der Förderpreise bildende Kunst, darstellende Kunst, Musik und Literatur der Landeshaupts - einstimmig beschlossen
+- TOP 25: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf - einstimmig beschlossen
+- TOP 26: Konzept Nachhaltigkeit auf kommunaler Ebene gestalten - passieren lassen
+- TOP 27: Sachstandsbericht zum Parkraumbewirtschaftungskonzept - passieren lassen
+- TOP 27.1: Änderungsantrag SPD, B90/Grüne, FDP zum Parkraumbewirtschaftungskonzept (66/52/2019) - passieren lassen
+- TOP 28: Gründung einer städtischen Mobilitätsgesellschaft - passieren lassen
+- TOP 29: Entwidmung des ehemaligen Lagerplatzes auf dem Friedhof Heerdt - einstimmig beschlossen
+- TOP 30: Nutzung von Teilflächen des Nordparks im Rahmen der Messe Druck und Papier (Drupa) 2020 - mehrheitlich beschlossen
+- TOP 31: Garath 2.0 Den Wandel gestalten - passieren lassen
+- TOP 32: FNP-Änderungsverfahren 179 "Nördlich Paulsmühlenstraße". Planbeschluss - einstimmig beschlossen
+- TOP 33: B-Plan 04/018 - Niederkasseler Lohweg 20 -Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 34: Annahme einer Schenkung des Künstlers Harald Naegeli - einstimmig beschlossen
+- TOP 35: Deutsche Oper am Rhein, aktuelle Planungskosten und Sanierungsbedarf - passieren lassen
+- TOP 36: Direktvergabe von öffentlichen Personenverkehrsdiensten - passieren lassen
