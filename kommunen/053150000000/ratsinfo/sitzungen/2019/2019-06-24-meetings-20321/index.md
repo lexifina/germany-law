@@ -1,0 +1,56 @@
+# 37. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-24T17:05:00+02:00
+- Ende: 2019-06-24T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20321
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20321
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00722077.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00722077.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00722077.pdf
+
+## Tagesordnung
+
+- TOP -: TOP A - Verpflichtung von Sachkundigen Einwohnern / Sachkundigen Bürgern
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Beantwortung der mündlichen Anfrage der SPD-Fraktion betr.: "Aktueller Sachstand des Programms "Starke Veedel - Starkes Köln" (2024/2018) - Kenntnis genommen
+- TOP 3.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Weitere Perspektiven der Kölner Wochenmärkte" - Kenntnis genommen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Weitere Perspektiven der Kölner Wochenmärkte" - Kenntnis genommen
+- TOP 3.3: Anfrage der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion betr.: "Planungsrechtlicher Sachstand des Hafenausbaus Godorf" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der CDU-Fraktion, der Fraktion Bündnis 90/Die Grünen und der FDP-Fraktion betr.: "Hafenausbau Godorf" (AN/0363/2019) - Kenntnis genommen
+- TOP 3.4: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Verlagerung von Nutzern des Deutzer Hafens" - zurückgestellt
+- TOP 3.5: Reformprojekt "Neugestaltung der Vergabeprozesse", 0057/2018 - Kenntnis genommen
+- TOP 3.6: Gesamtübersicht der Planungen für die Universität zu Köln (2421/2018) - Kenntnis genommen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der AfD-Fraktion betr.: "Aufgaben und Zielerreichung Metropolregion Rheinland" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der AfD-Fraktion betr.: "Aufgaben und Zielerreichung Metropolregion Rheinland" (AN/0561/2019) - Kenntnis genommen
+- TOP 4.2: Anfrage der SPD-Fraktion betr.: "Sachstand Markenprozess Köln - Wie wird die „Marke Köln“ fortgeführt und weiterentwickelt?" - zurückgestellt
+- TOP 4.3: Anfrage der SPD-Fraktion betr.: "Sachstand Markenprozess Köln - Wie wird die „Marke Köln“ fortgeführt und weiterentwickelt? Weitere Fragen zum Sachstand" - zurückgestellt
+- TOP 4.4: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Großmarkt Köln – Verlängerung der Miet- u. Pachtverträge, Instandsetzung - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 6.1: Einzelhandels- und Zentrenkonzept (EHZK) - Fortschreibung - mit Änderungen empfohlen
+- TOP 6.2: 3. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen im Jahr 2019 - ungeändert empfohlen
+- TOP 6.3: Beschäftigung Langzeitarbeitsloser - ohne Votum in nachfolgende Gremien
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Berichtspflicht gemäß § 42 Geschäftsordnung des Rates - Bericht an den Wirtschaftsausschuss, Stand 31.12.2018 - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Gesundheits- und Sozialwesen – Beschäftigungsentwicklung in Köln und im Regionalvergleich 2008 bis 2018 - zurückgestellt
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Mitteilungen
+- TOP 14.1: Stadtentwicklungskonzept Wirtschaft – Ergebnisse der Büroflächenerhebung - Kenntnis genommen
+- TOP 14.2: Rücknahmen der Klage gegen Baugenehmigung Containerterminal Niederkassel - Kenntnis genommen
+- TOP 14.3: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - zurückgestellt
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 16: Mündliche Anfragen
