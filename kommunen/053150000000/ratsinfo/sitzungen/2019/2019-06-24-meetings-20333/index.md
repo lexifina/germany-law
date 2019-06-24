@@ -1,0 +1,75 @@
+# 39. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-24T14:00:00+02:00
+- Ende: 2019-06-24T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20333
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20333
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 1.1: EU-Charta - 2. Kölner Gleichstellungsaktionsplan - geändert beschlossen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Aktiv60-Ticket und Kindermitnahme - endgültig abgelehnt
+- TOP 2.2: Modellversuch - ein Jahr AKTIV60-Ticket zum ermäßigten Preis beim Führerscheinverzicht von Senioren - geändert beschlossen
+- TOP 2.2.1: Änderungsantrag zu TOP 2.2 der Fraktion der FDP - ungeändert beschlossen
+- TOP 2.3: Die Raumfrage lösen: Die Verdrängung sozialer, kultureller und umweltpolitischer Projekte aus der Stadt verhindern! Antrag der SPD Fraktion - endgültig abgelehnt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bewilligung von Zuschüssen aus dem Programm "Wir im Quartier" - Struktur- und Beschäftigungsförderung im Stadtviertel - ungeändert beschlossen
+- TOP 3.2: Verbesserte Hinweise auf mangelnde Barrierefreiheit der Hohenzollernbrücke (Nordseite)Beschlussantrag SE Dr. Herbert Mück vom 02.06.2019 - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Notunterkünften für ausländische geflüchtete Personen für die Zeit vom 01.01.2017-24.01.2018 - ungeändert beschlossen
+- TOP 4.2: Änderung der Satzung der Stadt Köln über die Errichtung und Unterhaltung von Notunterkünften für ausländische geflüchtete Personen rückwirkend ab dem - ungeändert beschlossen
+- TOP 4.3: „Integrationsbudget“: Mittel für die Fortschreibung des Gesundheitswegweisers und die Qualifizierung von herkunftssprachlichen Zuwanderern als „Integrationslotsen Gesundheit“ - ungeändert beschlossen
+- TOP 4.4: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 4.5: Richtlinie für die Anerkennung und Förderung Interkultureller Zentren - zurückgestellt
+- TOP 4.6: Neufassung des Vertrags über die Finanzierung der Verbraucherberatungsstelle Köln einschließlich Betrauungsakt - ohne Votum in nachfolgende Gremien
+- TOP 4.7: Neufassung des Vertrags über die Finanzierung der Verbraucherberatung im Quartier einschließlich Betrauungsakt - ohne Votum in nachfolgende Gremien
+- TOP 4.8: Beschäftigung Langzeitarbeitsloser - ohne Votum in nachfolgende Gremien
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 5.1: Bedarfsfeststellungsbeschluss zur Maßnahme 5.0.2 „Zuhause im Veedel – Aktivierung und Beteiligung im Quartier Sozialraum Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 5.2: Förderung des Projektes "Port Kölnberg - Veedelslotse" - ohne Votum in nachfolgende Gremien
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 9.1: Anfragen und Beantwortungen
+- TOP 9.2: Abschlussbericht zum EHAP Projekt BONVENA für besonders benachteiligte neuzugewanderte Menschen aus der Europäischen Union - Kenntnis genommen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 02/2019 - Kenntnis genommen
+- TOP 10.2: Bearbeitung von Schwerbehindertenanträgen - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Aktuelle Anfragen und Beantwortungen
+- TOP 11.2: Mündliche Anfragen
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - zurückgestellt
+- TOP 12.3: Sachstand zum Sanierungs- und Umbauprogramm der Kölner Sozialhäuser - Kenntnis genommen
+- TOP 12.3.1: Sachstand zum Sanierungs- und Umbauprogramm der Kölner Sozialhäuser - Kenntnis genommen
+- TOP 12.4: Zielgruppenberatung bei der Stadt Köln Gemeinsame Anfrage der CDU-Fraktion im Rat der Stadt Köln und der Fraktion Bündnis 90/Die Grünen im Kölner Rat vom 07.05.2019 - Kenntnis genommen
+- TOP 12.4.1: Zielgruppenberatung bei der Stadt Köln Beanwortung der VerwaltungAntwort der Verwaltung auf eine Anfrage gem. Anfrage nach § 4 der Geschäftsordnung des Rates - Kenntnis genommen
+- TOP 12.5: Beantwortung der Anfrage "Stärkung der Sozialräume" (AN/0274/2019) - Kenntnis genommen
+- TOP 12.6: Beantwortung mehrerer Anfragen aus der Sitzung des Ausschusses für Soziales und Senioren vom 14.03.2019 (Vorlagen-Nr. 0278/2019 - Kenntnis genommen
+- TOP 13: Mitteilungen
+- TOP 13.1: Fertigstellung des Monitoring Stadtentwicklung Köln - Kenntnis genommen
+- TOP 13.2: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - zurückgestellt
+- TOP 13.3: Erfahrungsbericht zur Inklusionsvereinbarung 2017 - Kenntnis genommen
+- TOP 13.4: Gesundheits- und Sozialwesen – Beschäftigungsentwicklung in Köln und im Regionalvergleich 2008 bis 2018 - Kenntnis genommen
+- TOP 13.5: Anfrage- und Antragsrecht sachkundiger Einwohnerinnen und Einwohner - Kenntnis genommen
+- TOP 13.6: Verbraucherberatungsstelle Köln: Jahresbericht 2018 - Kenntnis genommen
+- TOP 13.7: Verbraucherberatung im Quartier: Jahresbericht 2018 - Kenntnis genommen
+- TOP 13.8: Verbesserung des Bildungs- und Teilhabepaketes zum 01.08.2019 durch das Starke- Familien-Gesetz (StFamG) - Kenntnis genommen
+- TOP 13.9: Ziel- und Leistungsvereinbarung 2019 der Bürgerzentren - Kenntnis genommen
+- TOP 13.10: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 13.11: Bericht Antirassismus-Trainings 2018 - Kenntnis genommen
