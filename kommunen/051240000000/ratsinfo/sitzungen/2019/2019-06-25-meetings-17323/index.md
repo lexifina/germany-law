@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-06-25T19:04:00+02:00
+- Ende: 2019-06-25T21:50:00+02:00
+- Ort: Freiwillige Feuerwehr, Am Timpen 44, 42389 Wuppertal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/47
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/17323
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/17323
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00239121.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00239986.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Bezirksbürgermeisters
+- TOP 2: Bericht aus dem Jugendrat
+- TOP 3: Anfragen und Anregungen an die Verwaltung sowie Antworten
+- TOP 3.1: Allgemeine Verkehrssituation Bornscheuer Straße - s. VO/1014/18 v. 04.12.2018
+- TOP 3.2: Haltepunkt S7 Badische Straße - s. Drucksachen VO/0790/18 + VO/1234/18
+- TOP 3.3: Fortschreibung des Radverkehrskonzeptes - s. Sitzung 07.05.2019, SI/0569/19
+- TOP 3.4: Untersuchung des Bezirks Langerfeld auf Hohlräume - s. VO/0263/19 v. 26.03.2019
+- TOP 4: Aktueller Sachstand zum Schadensereignis Beyeröhde - Bericht der Verwaltung
+- TOP 5: Planung zum Umbau Kinderspielplatz Paul-Gerhard-Straße
+- TOP 6: Aktueller Sachstand zur Langerfeldtrasse
+- TOP 7: Einrichtung einer Internet-Präsenz für den Stadtbezirk - Verantwortlichkeiten - ungeändert beschlossen
+- TOP 8: Verwendung der Unterhaltungspauschale nach dem GFG 2019 - 60.750,43 €
+- TOP 9: Stellungnahme der Bezirksvertretungen zu den Bürgerbudgetideen 2019 - Verwaltungsvorlage - - ungeändert beschlossen
+- TOP 10: Anträge zum Haushalt 2020/2021
+- TOP 10.1: Geschäftsbereich 0
+- TOP 10.2: Geschäftsbereich 1
+- TOP 10.3: Geschäftsbereich 2.1
+- TOP 10.4: Geschäftsbereich 2.2
+- TOP 10.5: Geschäftsbereich 4
+- TOP 11: Einrichtung der Gebietskulisse der Sozialen Stadt für Langerfeld-West - ungeändert beschlossen
+- TOP 12: Erste Änderung des Regionalplan Düsseldorf - Siedlungsbereiche (ASB) - geändert beschlossen
+- TOP 13: Sachstandsbericht zum Innenentwicklungskonzept - Entgegennahme ohne Beschluss
+- TOP 14: Hitze in der Stadt
+- TOP 15: Bushaltestelle Grünental-Wartehalle - Entgegennahme ohne Beschluss
+- TOP 16: Erneuerung der Amphibienschutzanlage Marscheid/Herbringhausen - ungeändert beschlossen
+- TOP 17: Stadtentwässerung- Maßnahmenkatalog 2020/ Katalogentwurf 2021 - ungeändert beschlossen
+- TOP 18: Erhaltungsmaßnahmen an Straßen in den Stadtbezirken - abgelehnt
+- TOP 19: Landesförderprogramm "Heimat. Zukunft. Nordrhein-Westfalen. Wir fördern, was Menschen verbindet." - Entgegennahme ohne Beschluss
+- TOP 20: Gewährung eines Zuschusses an den SC Breite Burschen Barmen 1996 e.V. zur Erweiterung des Sportplatzhauses Rauental - ungeändert beschlossen
+- TOP 21: Freie Mittel aus dem Budget 2019
+- TOP 21.1: Antrag der "bandfabrik" Kultur am Rand e.V. vom 16.10.2018 - Anschaffung eines neuen Konzertflügels - 2. Zuschuss
+- TOP 21.2: Antrag des Zentrums für gute Taten zur Durchführung der Woche des ehrenamtlichen Engagements 2019
+- TOP 21.3: Antrag des Sozialdienst katholischer Frauen e.V, - Sommerferienprogramm
+- TOP 21.4: Antrag GGS Mercklinghausstr. - Durchführung Faustlos-Programm
+- TOP 21.5: Antrag des Fördervereins an der Gesamtschule Langerfeld auf Bezuschussung einer Lichtanlage
+- TOP 21.6: Antrag des TV Beyeröhde auf Sportkleidung - vertagen
+- TOP 21.7: Antrag des SKF zur Förderung niederschwelliger Angebote
+- TOP 21.8: Ausstattung der Sitzungsräume mit Beamer, Farbdrucker, etc. - vertagen
+- TOP 21.9: Unterstützung des Projektes Langerfeldtrasse mit Bannern, Schildern, etc.
