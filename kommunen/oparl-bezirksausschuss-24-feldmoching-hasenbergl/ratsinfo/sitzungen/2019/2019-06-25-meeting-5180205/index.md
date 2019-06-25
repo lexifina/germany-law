@@ -1,0 +1,77 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2019-06-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5180205
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5180205
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 1.1.: Informationen zum Projekt "München - gesund vor Ort"
+- TOP 1.2.: Sachstand zur Verlagerung der Mittelschule an der Eduard-Spranger-Str. in das provisorische Gymnasium an der Georg-Zech-Allee im Jahr 2020
+- TOP 2.1.: Entscheidung über Projektplanung gem. OB-Vollmacht: U-Bahnhof Feldmoching; Josef-Frankl-Straße - Fahrrad-Stellplatzanlage
+- TOP 2.2.: (E) Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl Am Eisfeld
+- TOP 2.3.: (E) Stadtbezirksbudget REGSAM - Trägerverein für regionale soziale Arbeit e.V. Messe "Günstiger Leben im Münchner Norden" 910,00 € Az: 0262.0-24-0266
+- TOP 2.4.: (E) Stadtbezirksbudget HuVTV Edelweiß-Stamm München-Lerchenau e.V. Benefizveranstaltung am 20.07.2019 2.215,00 € Az: 0262.0-24-0265
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Wunderbuch 2.0" für Grundschulkinder Tournee, Theater "Wunderbuch 2.0" für Grundschulkinder vom 14.10.-14.12.2019 1.900,00 € / Az. 0262.0-24-0269
+- TOP 2.6.: (E) Stadtbezirksbudget Feldmochinger Rossler e.V. Feldmochinger Sonnwendfeier am 22.06.2019 1.448,85 € / Az. 0262.0-24-0267
+- TOP 2.7.: (E) Stadtbezirksbudget Kreisjugendring München-Stadt Spielefest am Wochenmarkt für Jung und Alt am 06.07.2019 3.350,50 € Az: 0262.0-24-0268
+- TOP 2.8.: (E) Stadtbezirksbudget Männergesangsverein Feldmoching e.V. Konzert zum 60-jährigen Jubiläum am 18.05.2019 1.030,00 € Az: 0262.0-24-0262
+- TOP 2.9.: N Entscheidung über Projektplanung gem. OB-Vollmacht: Georg-Zech-Allee – Fußgängerquerung, Umbau Gehbahn, Errichtung Lichtsignalanlagen, Verlegung und Ausbau barrierefreie Bushaltestelle
+- TOP 3.: Anträge
+- TOP 3.1.: Grillbereich am Südufer des Lerchenauer Sees: Begehung sowie Aufstellung von Glutbehältern, Müllcontainern und Dixi-Toiletten
+- TOP 3.2.: Strukturkonzept Ludwigsfeld: 1. Die Bürger Ludwigsfelds bereits im Vorfeld in die Planungen miteinbeziehen, 2. Der Stadtrat fasst am 03.07.2019 keine Beschlüsse, die später nicht mehr zu revidieren sind.
+- TOP 3.3.: N Kostenlose Schülerfahrkarten zu den Ausweichschulen MS Hildegard- von-Bingen-Anger und zum Interimsgymnasium Georg-Zech-Allee
+- TOP 3.4.: N Orientierung der Busverbindung zwischen Eduard-Spranger-MS und der Ausweichschule MS Hildegard-von-Bingen-Anger bzw. dem Interimsgymnasium Georg-Zech-Allee am Unterrichtsbeginn und -ende
+- TOP 3.5.: N Unterstützung des Caritas-Kinderhauses in der Fortnerstr. 9 - 11 hinsichtlich Nutzung der Gruppenräume und Ausstattung
+- TOP 3.6.: N Errichtung eines Zebrastreifens zwischen Kristallstraße und Opalstraße
+- TOP 5.1.: Bauvorhaben: 1. Ebereschenstr. 15 2. Reinachstr. 55
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Reinachstr. 55 2. Waldmeisterstr. 51 3. Auf den Schrederwiesen 83 4. Josef-Frankl-Str. 45 - 47d 5. Schleißheimer Str. 433 6. Georg-Winkler-Str. 18-18a 7. Sonnentaustr. 37 8. Berberitzenstr. 59 9. Lerchenauer Str. 192 10. Hasenberglstr. 37 11. Harpprechtstr. 1 - 7 N 12. Feldmochinger Str. 212a N 13. Schätzweg 1-3 N 14. Waldmeisterstr. 84 - 86 N 15. Dülferstr. 84
+- TOP 5.4.1.: Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnachtsmärkte; Anhörung zum Stadtratsantrag Nr. 14- 20 / A 04801
+- TOP 5.4.2.: Verkehrskonzept Münchner Norden: Öffentlicher Personennah-/ Schienenpersonennahverkehr und DB-Nordring
+- TOP 5.4.3.: Bauleitplanung Gemeinde Karlsfeld, BPl Nr. 90 B, LUDL-Gelände, Verfahren nach § 4 Abs. 1 BauGB
+- TOP 5.4.4.: Erweiterung der 30er-Zone in der Josef-Frankl-Str.; Anhörung nach stattgefundenem Ortstermin
+- TOP 5.4.5.: N Einrichtung eines personenbezogenen Behindertenparkplatzes in der Wintersteinstraße
+- TOP 5.4.6.: N Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Absolutes Haltverbot Am Schnepfenweg b) Änderung des bestehenden Haltverbotes in der Drudhardstraße c) Gefahrzeichen „Kinder“ in der Dülferstraße (Höhe Rainfarnstraße) -> wurde abgesetzt
+- TOP 5.4.7.: N Verfahren nach § 4 Abs. 1 BauGB Gemeinde Oberschleißheim, 28. Änderung des Flächennutzungsplanes
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: Stadtbezirksbudget (BSL); Installation eines festen Blitzers oder verkehrsbremsender Baumaßnahmen (sog. Speedbumps) in Feldmoching an der Kreuzung Schaarschmidtstraße/Dülferstraße Hier: Aufstellung von weiteren Hinweisschildern "Tempo 30" in der Dülferstr. (Abschnitt zwischen Paul-Preuß-Str. und Lerchenstr.)
+- TOP 6.2.: Schulsozialarbeit an Grundschulen im 24. Stadtbezirk; Anfrage zur Einstellung der Schulsozialarbeit an der GS an der Paulckestraße
+- TOP 6.3.: Schulsozialarbeit an den Grundschulen im 24. Stadtbezirk; Anfrage an das RBS bzgl. der bisherigen Anträge der GS-Toni-Pfülf
+- TOP 6.4.: Bauvorhaben Paulckestr. 1
+- TOP 6.5.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Feldmochinger Straße, Höhe Bahnübergang (ca. 30 m vor der Mittelinsel): Beschilderung mit "Fußgänger" b) Zeitlich beschränktes Haltverbot in der Pflaumstraße Nordseite
+- TOP 6.6.: Unveränderte Fortführung von Gaststättenbetrieben: a) Josef-Frankl-Str. 30 b) Josef-Frankl-Str. 51
+- TOP 6.7.: Daten Pegel Feldmoching
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: Meldelisten Baumfällungen
+- TOP 6.10.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 6.11.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 6.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13.: (U) Saisonale Umnutzung von Straßenräumen a) Temporäre Interventionen im Öffentlichen Raum b) Zwei Ansätze temporärer Interventionen im Straßenraum c) Behandlung der Anträge und Empfehlungen ...
+- TOP 6.14.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 6.15.: (U) Wirtshäuser in den Außenbezirken Münchens mittels Bauleitplanung erhalten Antrag Nr. 14-20 / A 04176 von der ÖDP vom 14.06.2018 Stadtbezirk 10 - Moosach Stadtbezirk 22- Aubing-Lochhausen-Langwied
+- TOP 6.16.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 6.17.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 6.18.: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 6.19.: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
+- TOP 6.20.: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 6.21.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 6.22.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 6.23.: (U) 2. Aktionsplan zur Umsetzung der UN- Behindertenrechtskonvention Produkt 40111270 Umsetzung der UN-Behindertenrechtskonvention Schutz und Gewaltprävention für Frauen und Mädchen in Einrichtungen der Behindertenhilfe Unterstützung der Forderungen "Frauen mit Behinderungen und Gewalterfahrungen" des Facharbeitskreises Frauen des Behindertenbeirats Empfehlung der 274. Stadtratskommission zur Gleichstellung von Frauen vom 07.05.2015 Kurzzeitwohnplätze für Kinder mit Behinderungen schaffen! Antrag Nr. 14-20 / A 03370 ................................... Konsequente Umsetzung des 2. Aktionsplans zur Umsetzung der UN-BRK - Keine Maßnahme aus finanziellen Erwägungen fallen lassen Antrag der Vollversammlung des Behindertenbeirats vom 07.12.2018
+- TOP 8.1.: Protokoll der Sitzung vom 10.04.2019 (nach Genehmigung in der Sitzung am 14.05.2019)
