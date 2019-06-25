@@ -1,0 +1,62 @@
+# Rat (19. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2019-06-25T17:30:00+02:00
+- Ende: 2019-06-25T19:50:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaIlyPqfLNii_5FTZJ0y9to
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1313
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZX3HHnfS9vFOz7ZsbDmvyjUL6L7D7QgG8QQ6czpCuNu/Bekanntmachung_Rat_25.06.2019.pdf
+- Ergebnisprotokoll: Öffentliches Beschlussprotokoll (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRSdF3lkjX5uhPZ8Oc8wNacz3r6rmDE5kq76_0x2coBE/Oeffentliches_Beschlussprotokoll_Rat_25.06.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 04.04.2019
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Fahrradunfälle in Wallenhorst
+- TOP 3.2: Mentoring-Programm: Frau.Macht.Demokratie
+- TOP 10: Sicherheit und Ordnung
+- TOP 10.3: Bau eines neuen Feuerwehrhauses für die Ortsfeuerwehr Rulle - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 11.1: Ortsbrandmeister Rulle und stellvertretender Ortsbrandmeister Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.: Jugendangelegenheiten
+- TOP 4.1: Antrag auf Erhöhung des Zuschusses für jugendpflegerisches Material im Rahmen der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen - mehrheitlich mit 18 Ja-Stimme(n), 12 Gegenstimme(n), 2 Stimmenthaltung(en) gefasst:
+- TOP 4.2: Antrag auf Erhöhung der Zuschüsse für Jugendbildungsmaßnahmen im Rahmen der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen - mehrheitlich mit 18 Ja-Stimme(n), 12 Gegenstimme(n), 2 Stimmenthaltung(en) gefasst:
+- TOP 5.: Sonstige Kommunalangelegenheiten
+- TOP 5.1: Änderung der Richtlinien zur Förderung von Vereinen, Verbänden und Institutionen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Aufbau eines Glasfasernetzes zur Breitbandversorgung in der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: 1. Änderung des Konzessionsvertrages zwischen der Gemeinde Wallenhorst und der Wasserversorgung Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Kindertagesstätten
+- TOP 6.1: Änderung der Standards für hauswirtschaftliche Kräfte im Kindertagesstättenbereich - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Vertretungsregelung für pädagogische Fachkräfte in den Wallenhorster Kindertagesstätten - Anpassung der Vertretungsstunden - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Schulangelegenheiten
+- TOP 7.1: Schulsachkosten gemäß § 118 Nds. Schulgesetz für Schulen in freier Trägerschaft - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Kulturangelegenheiten
+- TOP 8.1: Antrag des Vereins zur Förderung und Erhaltung Knollmeyer´s Mühle im Nettetal e.V. auf Bezuschussung der Kosten für die Erneuerung der Wehranlage der Wassermühle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sportangelegenheiten
+- TOP 9.1: Zuschuss für den Sportverein BW Hollage für die Anschaffung von Spielerkabinen für die Sportplätze im Sportzentrum Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: Zuschuss für den TSV Wallenhorst, Tennisabteilung, für die Sanierung der Tennisanlage Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Sicherheit und Ordnung
+- TOP 10.1: Wahl der Schiedsperson für den Schiedsamtsbezirk Wallenhorst für den Zeitraum 1. Januar 2020 bis 31. Dezember 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Wahl der stellvertretenden Schiedsperson für den Schiedsamtsbezirk Wallenhorst für den Zeitraum 1. Januar 2020 bis 31. Dezember 2024 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Umwelt- und Energieangelegenheiten
+- TOP 12.1: Nahwärmeversorgung im Baugebiet „Beidseits des Stadtweges“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 13.1: Vergaberichtlinie für Wohnbauland der Gemeinde Wallenhorst (Einfamilienhausbebauung) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.2: Dorferneuerung Rulle – Maßnahme „Umgestaltung des Andachtsplatzes“ hier: Beschluss über die Ausführungsplanung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.3: Bebauungsplan Nr. 272 „Südlich des Wasserwerks“ hier: Satzungsbeschluss gem. § 10 Abs. 1 Baugesetzbuch (BauGB) und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.4: 1. Änderung des Flächennutzungsplanes der Gemeinde Wallenhorst hier: Feststellungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.5: Einleitung des Planungsprozesses für einen Mehrgenerationenpark - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.: Kämmereiangelegenheiten
+- TOP 14.1: Zustimmung zur überplanmäßigen Auszahlung für die Baumaßnahme Sanierung des oberen Schulhofes der Erich-Kästner-Schule - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 14.2: Gewerbegebiet Schwarzer See hier: Übernahme einer Bürgschaft zu Gunsten der Niedersächsischen Landgesellschaft mbH (NLG) - mehrheitlich mit 26 Ja-Stimme(n), 5 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 14.3: Außerplanmäßige Auszahlung "Grunderwerb von Flächen in Wallenhorst“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 15.: Anfragen und Anregungen
+- TOP 15.1: Kreisverkehrsplatz an der Niedersachsenstraße
+- TOP 15.2: Geschwindigkeitsmessung an der Dürerstraße
+- TOP 15.3: Umgang mit Wasser
