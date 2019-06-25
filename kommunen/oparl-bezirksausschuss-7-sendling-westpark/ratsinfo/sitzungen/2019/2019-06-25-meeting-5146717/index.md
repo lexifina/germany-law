@@ -1,0 +1,165 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-06-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146717
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146717
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Fortschreibung MIP-Stellungnahme BA25
+- TOP 6.6.2: Sicherheitswacht neue Mitarbeiter- PI-15
+- TOP 6.6.3: Neuer Vorstand Kreisjungring (KJR)
+- TOP 6.6.4: Erhaltung grüner Viertel-Rathausumschau
+- TOP 6.6.5: Parksituation Eichendorff-Platz
+- TOP 6.6.6: Eingang zum Westpark über Heiterwanger Straße
+- TOP 6.6.7: Hunde auf dem Luise-Kiesselbach-Platz
+- TOP 6.6.8: Neuer Flyer "Grillen im Westpark"
+- TOP 8.8.1: (E) + (U) Barrierefreier Zugang mit elektronischem Türöffner in der Altenwohnanlage Alpspitzstraße Empfehlung Nr. 14-20 / E 02402 der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 22.11.2018
+- TOP 9.9.1: Antrag Wertstoffinsel in der Zillertalstr.
+- TOP 10.10.1: (E) Stadtbezirksbudget Feierwerk e.V. Dschungelpalast Sommerfest für die ganze Familie am 21.07.19 1.600,00 € / AZ: 0262.0-7-0244
+- TOP 10.10.2: (E) Stadtbezirksbudget Feierwerk e.V. Sommerferienprogramm im Westpark vom 29.07. - 16.08.19 2.600,00 € / AZ: 0262.0-7-0243
+- TOP 10.10.3: (E) Stadtbezirksbudget Offene Bücherschränke - Sendling - Westpark e.V. Literarisches Picknick "Lesehunger" am 13.07.2019 575,00 € / AZ: 0262.0-7-0246
+- TOP 10.10.4: (E) Stadtbezirksbudget Adventgemeinde München Waldfrieden (Pfadfindergruppe "Die Waldkäuze") Anschaffung von zwei Jurten 2.962,00 € / AZ: 0262.0-7-0245
+- TOP 10.10.5: (E) Stadtbezirksbudget Baugenossenschaft Kriegersiedlung eG 100-Jahr-Feier am 12.07.2019 8.934,00 € / AZ: 0262.0-7-0239
+- TOP 10.10.6: (E) Stadtbezirksbudget; Aluna Minga e.V. Chorkonzerte vom 15.06. - 17.06.19 3.966,22 € / AZ: 0262.0-7-0248
+- TOP 10.10.7: (E) Stadtbezirksbudget FC Ludwigsvorstadt München e.V. 60-jähriges Jubiläum am 06.07.2019 1.750,00 € / Az. 0262.0-7-0251
+- TOP 10.10.8: (E) Stadtbezirksbudget; Kleingartenverein Süd West 83 100-Jahr-Feier am 29.06.19 3.000,00 € / AZ: 0262.0-7-0247
+- TOP 10.10.9: (E) Stadtbezirksbudget Elternbeirat Haus für Kinder an der Markomannenstraße Sommerfest am 05.07.2019 180,00 € / Az. 0262.0-7-0250
+- TOP 11.11.1: Parkregelung vor der Kita Am Westpark
+- TOP 11.11.2: Radwegquerung Westendstr zur Siegenburger Str.
+- TOP 11.11.3: Anfrage Trixi-Spiegel
+- TOP 11.11.4: Zebrastreifen Höltystr./ Eichendorffplatz
+- TOP 13.13.1: Bericht des Vorsitzenden
+- TOP 14.14.1: Breitachstr. Fällung eines Baumes 703 Fr. Hemmerlein
+- TOP 14.14.2: Ehrwalder Str. Fällung zweier Bäume 712 Hr. Kramm
+- TOP 14.14.3: Werdenfelsstr. Fällung eines Baumes 712 Hr. Kramm
+- TOP 14.14.4: Pressburger Str. Fällung eines Baumes 713 Fr. Schoneweg
+- TOP 14.14.5: Einseleweg Fällung eines Baumes 713 Fr. Schoneweg
+- TOP 14.14.6: Mittenwalder Str. Fällung eines Baumes 714 Hr. Dr. Huber
+- TOP 14.14.7: Andechser Str. Fällung eines Baumes 725 Fr. Werenskoid
+- TOP 16.16.1: Gaga-Garden
+- TOP 17.17.1: Circus Leopoldini 13.07.-21.07.19
+- TOP 17.17.2: Ministrantengrillen 14.07.19
+- TOP 17.17.3: Wasserspielplatz- Sommerferienprogramm Feierwerk
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.28.1: Einhausung BAB 96 - Vorstudie
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Anschaffung und Aufstellen von Hundekotbeutelspender und Abfallkörben im 7. Stadtbezirk
+- TOP 31.31.2: Künstlerische Gestaltung Unterführung Westendstr-Stegener Weg
+- TOP 31.31.3: Fahrroute Zielstattstr. / Distlhofweg / Bauernbräuweg beschildern
+- TOP 31.31.4: Sitzgelegenheiten im öffentlichen Raum
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Ablauf Bürgerversammlungen
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Zweckentfremdung des Busparkplatzes Hansastraße
+- TOP 34.34.2: Vorkaufsrecht Albert-Rosshaupter-Str.
+- TOP 34.34.3: Wochenmarkt Umzug auf den Luise-Kiesselbach-Platz
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Anschaffung von Geschwindigkeitsmessgeräten durch das KVR mit finanziellen Mitteln des Stadtbezirkbudgets des BA
+- TOP 35.35.2: GrainauerWeg Zweirichtungs Rad- und Gehweg
+- TOP 35.35.3: Werdenfelslstr-Ausweisung Fahrradstr.
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Baulisten
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 43.43.2: MIP-Anhörung
+- TOP 45.: Baureferat
+- TOP 45.45.1: Gefahrenbaumfällungen auf öffentlichem Grund
+- TOP 45.45.2: Sanierung der Martin-Behaim-Str- Fristverlängerung BA-Antrag
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: VVB-Bescheid Kino-Mond-Sterne
+- TOP 49.49.2: Filmaufnahmen Westpark
+- TOP 49.49.3: Drohnenlandung-Westpark
+- TOP 49.49.4: Filmaufnahmen Westpark-2
+- TOP 49.49.5: VRA Ortlerstr10b_Kita
+- TOP 49.49.6: Motorrad-demo
+- TOP 49.49.7: Unveränderte Gaststättenfortführung
+- TOP 49.49.8: VRA Ohlstadter Str.
+- TOP 49.49.9: VVB-Bescheid Weinfest
+- TOP 49.49.10: VVB-Bescheid Chorkonzert
+- TOP 49.49.11: VVB-Bescheid FFW Sendling
+- TOP 49.49.12: VVB-Bescheid StrassenfestJohann-Houis-Str.
+- TOP 49.49.13: Fotoaufnahmen-Westpark
+- TOP 49.49.14: VVB-Bescheid Montessori-Kita.
+- TOP 49.49.15: Filmaufnahmen Westpark-3
+- TOP 49.49.16: VRA Garmischer_Altenheim St-Joseph
+- TOP 49.49.17: VVB-Aufbau-Bescheid Kino-Mond-Sterne
+- TOP 49.49.18: Gaststätte Caffe Cream
+- TOP 49.49.19: Gaststättenfortführung Giulia
+- TOP 49.49.20: VRA Hansastr.64-106; Feuerwehrzufahr
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: Zaunbauten Erasmus-Grasser-Gymnasium
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Vollzug BaumschutzVO Oberauer Str.
+- TOP 55.55.2: Genossenschaftlicher Wochnungsbau für Mitarbeiter der Münchenstitft- Zwischennachricht
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Zweckentfremdungen
+- TOP 57.57.1: Bädereintrittspreise 2019
+- TOP 57.57.2: Info-Veranstaltung BA -Linie U9
+- TOP 57.57.3: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 57.57.4: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 57.57.5: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 57.57.6: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 57.57.7: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 57.57.8: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 57.57.9: (U) A) Gartenstädte – Erhalt des Charakters und bauliche Entwicklung Rahmenplanungen – Beschlussfassung B) Empfehlungen Überarbeitung der Baulinien im Rahmenplan Empfehlung Nr. 14-20 / E 02330 der Bürgerversammlung des Stadtbezirks 18 – Untergiesing-Harlaching am 15.11.2018 Überarbeitung der Rahmenplanung „Reichsheim-Siedlung Laim“ Empfehlung Nr. 14-20 / E 02419 der Bürgerversammlung des Stadtbezirks 25 – Laim am 20.11.2018 C) Stellungnahmen des Bündnisses Gartenstadt vom 21.01.2019 und 23.01.2019 Stadtbezirk 7 Sendling-Westpark Stadtbezirk 15 Trudering-Riem Stadtbezirk 16 Ramersdorf-Perlach Stadtbezirk 18 Untergiesing-Harlaching Stadtbezirk 20 Hadern Stadtbezirk 21 Pasing-Obermenzing Stadtbezirk 25 Laim
+- TOP 57.57.10: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 57.57.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.12: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
+- TOP 57.57.13: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 57.57.14: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 57.57.15: (U) Demografiebericht München - Teil 1 Analyse und Bevölkerungsprognose 2017 bis 2040
+- TOP 59.59.1: Vorkaufsrecht Passauerstr
