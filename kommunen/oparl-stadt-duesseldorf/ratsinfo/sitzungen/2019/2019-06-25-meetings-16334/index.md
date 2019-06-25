@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-06-25T17:00:00+02:00
+- Ende: 2019-06-25T20:37:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16334
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16334
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345385.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345385.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345385.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Straßenzustandsbewertung des Stadtbezirkes 7 - zur Kenntnis genommen
+- TOP 5: Planung Kinderspielplatz Ratinger Weg - zur Kenntnis genommen
+- TOP 6: Stadtbaumkonzept für Düsseldorf - 1. Pflanzsaison - einstimmig beschlossen
+- TOP 7: Beschlussvorlage zur Bereitstellung zusätzlicher Haushaltsmittel für den Apostelplatz - mehrheitlich beschlossen
+- TOP 8: Unterführung Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 9: Sachstandsbericht zu Fahrradabstellanlagen für die Stadtbezirke 1-10 - zur Kenntnis genommen
+- TOP 10: Neubau Kita Hallesche Straße, Düsseldorf - Bedarfsbeschluss - abweichend beschlossen
+- TOP 11: Diepenstraße Hockeyspielfeld AuF - einstimmig beschlossen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Verbindungsweg entlang der Düssel zwischen Dreherstraße und Zweibrückenstraße - einstimmig beschlossen
+- TOP 14: Quadenhofstraße - einstimmig beschlossen
+- TOP 15: Erklärungstafel Rathaus Gerresheim - vertagt
+- TOP 16: Glashüttenstraße - mehrheitlich beschlossen
+- TOP 17: Bedarfsampel für Fußgängerquerung Torfbruchstraße - einstimmig beschlossen
+- TOP 18: 1. Regionalplanänderung – „Mehr Wohnbauland am Rhein“ - mehrheitlich abgelehnt
+- TOP 19: Regionalplanänderung „mehr Wohnbauland am Rhein“ - einstimmig beschlossen
+- TOP 20: keine Änderung des Regionalplans im Bereich Grafenberger Wald/Güterzugstrecke – Grünzug Grafenberg, - abweichend beschlossen
+- TOP 21: Fahrradfahren am Neusser Tor - einstimmig beschlossen
+- TOP 22: Altglascontainer vor REWE Grafenberger Allee - abweichend beschlossen
+- TOP 23: Fahrradständer Siedlung Josef-Neuberger-Straße - zurückgezogen
+- TOP 24: Abschraffur Gerricusstraße - abweichend beschlossen
+- TOP 25: Fitnessfreifläche Magdeburger Straße - abweichend beschlossen
+- TOP 26: Speziallack für Schilder als Aufkleber-Hindernis - abweichend beschlossen
+- TOP 27: Sanierung BAB 3, Bereich Hubbelrath - vertagt
+- TOP 28: Nutzung Lager 61 - vertagt
+- TOP 29: Wohnungen mit Sozialbindung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 30: Berücksichtigung Umweltaspekte bei Änderung Regionalplan - zur Kenntnis genommen
+- TOP 31: Betreute Taubenschläge für Gerresheim - zur Kenntnis genommen
+- TOP 32: Fußgängerbrücke über die Düssel in Höhe Kgv. Hippeland - vertagt
+- TOP 33: Verkehrsgutachten Bergische Landstraße - vertagt
+- TOP 34: Kreuzung Schönaustraße /Märkische Straße - zur Kenntnis genommen
+- TOP 35: Regionalplan - mehrheitlich abgelehnt
+- TOP 36: Neubau einer Kindertageseinrichtung, einer Großtagespflege sowie eines zusätzlichen Raumes - abweichend beschlossen
+- TOP 37: Beschlussvorlage zur Herbeiführung eines Bedarfsbeschlusses - mehrheitlich abgelehnt
