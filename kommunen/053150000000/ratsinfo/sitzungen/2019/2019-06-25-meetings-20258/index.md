@@ -1,0 +1,58 @@
+# 37. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-25T16:20:00+02:00
+- Ende: 2019-06-25T20:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20258
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20258
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Neubenennung eines stellvertretenden sachkundigen Einwohners auf Vorschlag des Integrationsrates
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten hier: Interkultur und Kunst und Inklusion - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Geschäftsordnung Jury Böll-Preis - zurückgestellt
+- TOP 4.2: Nutzungsvertrag MiQua - zurückgestellt
+- TOP 4.3: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Der Lupenraum Via Culturalis – Ein Handbuch für den öffentlichen Raum - geändert beschlossen
+- TOP 4.4: Mosaik am Haus Kleingedankstr. 11 - geändert beschlossen
+- TOP 4.5: Konzeption und Bestellung Jury "Holger Czukay Preis für Popmusik" - geändert beschlossen
+- TOP 4.6: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene, Teil 1 - geändert beschlossen
+- TOP 4.7: Vorgehensweise für das Beteiligungsverfahren zur Erstellung eines Förderkonzeptes Kulturelle Teilhabe - geändert beschlossen
+- TOP 4.8: Einmaliger Zuschuss „Weltmusikfestival Köln“ 2019 - ohne Votum in nachfolgende Gremien
+- TOP 4.9: Einrichtung eines „Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" - geändert beschlossen
+- TOP 4.10: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2019, Teil 1 - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für die Sonderausstellung Blinky Palermo im Museum Ludwig - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 8.2: Bestandserfassung in den Museen - Sachstand Mai 2019 - Kenntnis genommen
+- TOP 8.3: Start der digitalen Antragsstellung für die Kulturförderung der freien Szene - Kenntnis genommen
+- TOP 8.4: Sachstandsbericht zum Beschluss zu TOP 3.2 aus der Sitzung des KUK am 26.03.2019 (AN/0438/2019) - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachstandsbericht MiQua. LVR- Jüdisches Museum im Archäologischen Quartier Köln, Stand 05.06.2019 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv, Stand 13.06.2019 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Sanierung der Zentralbibliothek Köln - Stand: 10.06.2019 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Beantwortung einer mündlichen Anfrage der Fraktion DIE LINKE betr.: "Erträge aus der Kulturförderabgabe und deren anteilige Verwendung kultureller Aufwendungen" - Kenntnis genommen
+- TOP 10.2: Beantwortung einer mündlichen Anfrage Freien Wähler Köln: Bürgerantrag "Haus der Geschichte" - Kenntnis genommen
+- TOP 10.3: Beantwortung einer mündlichen Anfrage der SPD-Fraktion: Sachstand zu den Beschlüssen der Sichtbarmachung von Karl Marx und Heinrich Böll - Kenntnis genommen
+- TOP 10.4: Beantwortung einer mündlichen Anfrage der Ratsgruppe GUT: Piazzetta im Rathaus - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Anfrage der Ratsgruppe BUNT betr.: "Diskriminierung von Rollstuhlfahrer*innen bei Kulturveranstaltungen in Köln" - zurückgestellt
+- TOP 11.2: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90 / Die Grünen betr.: "Kunst-und Museumsbibliothek ( KMB )"
+- TOP 11.2.1: Beantwortung der Anfrage aus TOP 11.2: Sachstand zur Kunst und Museumsbibliothek - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 11.3: Anfrage der Denkmalpflege: Container vor dem MAKK - zurückgestellt
+- TOP 11.4: Anfrage der Denkmalpflege: Verbleib und Ausstellung der Dampfmaschine des historischen KD-Passagierschiffes "Goethe" - zurückgestellt
+- TOP 11.5: Anfrage der Denkmalpflege: Integration der Industriegeschichte im Stadtentwicklungsgebiet Mülheim-Süd - zurückgestellt
+- TOP 11.6: Anfrage der Denkmalpflege: Sülz, Schloß Weißhaus, Luxemburger Str. 201 - zurückgestellt
+- TOP 11.7: Beantwortung einer schriftlichen Anfrage der AFD-Fraktion: Schenkungen gegen Spendenbescheinigung - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
