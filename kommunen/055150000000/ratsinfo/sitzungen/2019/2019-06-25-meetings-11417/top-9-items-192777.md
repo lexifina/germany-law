@@ -1,0 +1,8 @@
+# TOP 9: Mittelumschichtung im Haushaltsbudget der Westfälischen Schule für Musik im Rahmen von überplanmäßigen Aufwendungen für Honorarkräfte
+
+- Sitzung: Sitzung (2019-06-25)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/192777
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/69599
