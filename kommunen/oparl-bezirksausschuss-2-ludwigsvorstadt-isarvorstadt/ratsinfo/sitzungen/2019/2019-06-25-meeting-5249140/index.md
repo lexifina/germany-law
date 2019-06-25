@@ -1,0 +1,150 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-06-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5249140
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5249140
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Grünpatenprojekt für den Grünstreifen hinter der Mauer des ehemaligen Geländes der Firma Roeckl, Roecklplatz
+- TOP 5.2.: Errichtung von Sportgeräten für das KUBU Kinder- und Jugendhaus
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.4.: Teilnahme externer Verkäufer an Hofflohmärkten
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 1.2.: Sitzungstermine 2020
+- TOP 1.3.: Wahl des Ferienausschusses (27.08.2019)
+- TOP 1.4.: Foto des BA für die Webseite
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 1.1.: Antrag Fraktion Bündnis 90 /Die Grünen – Rosa Liste vom 03.06.2019 Die Stadt wird aufgefordert, die Zweitwohnungssteuer von bisher 9 Prozent der Jahresnettomiete auf mindestens 20 Prozent der Jahresnettomiete zu erhöhen.
+- TOP 1.2.: Anträge zur Schulwegsicherheit für Fußgänger und Radfahrer: - Wittelsbacher-/ Klenzestraße - Cornelius-/ Erhardtstraße
+- TOP 2.1.: (E) Stadtbezirksbudget Balkanet e.V. Chorauftritt am 09./10.06.2019 954,00 Euro, Az.: 0262.0-2-0275
+- TOP 2.2.: (E) Stadtbezirksbudget Bahnwärter Kulturstätten GmbH Klavierabend am 07.07.2019 965,35 Euro, Az.: 0262.0-2-0276
+- TOP 2.3.: (E) Stadtbezirksbudget Hidalgo e.V. Veranstaltung "Song & Slam" am 01.07.2019 2.914,00 Euro, Az.: 0262.0-2-0277
+- TOP 3.1.: Verkehrssicherheit für Fahrradfahrer im Stadtbezirk 2, insbesondere Ecke Corneliusstraße/Erhardstraße
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Pflanzung von zwei Bäumen an der Kreuzung Isartal- / Dreimühlenstraße Empfehlung Nr. 14-20 / E 02296 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Goethestraße 42, VORBESCHEID, Abbruch zweier Bürogebäude / Neuerrichtung zweier Bürogebäude mit dreigeschossiger Unterkellerung und Anschluss an bestehende Tiefgarage
+- TOP 3.1.2.: Goethestraße 7a, Austockung eines Wohn- und Geschäftshauses einschließlich energetischer Fassadensanierung, Abbruch zweier und Neubau von zehn Wohneinheiten, Nutzungsänderung 1. OG: 5 Wohneinheiten zu Büro
+- TOP 3.1.3.: Ehrengutstraße 25, Nutzungsänderung im EG: Laden-Wohnung zu Laden
+- TOP 3.1.4.: Auenstraße 32, TEKTUR, Änderung der Abmessungen des Parksystems mit Reduzierung von 9 auf 6 Stellplätze (vertagt aus 05/19)
+- TOP 3.1.5.: Reichenbachstraße 24, TEKTUR, Neubau eines Penthousegeschosses in Holzbauweise auf ein Wohngebäude im Innenhof (RGB) und Verlängerung der Notleiteranlage (vertagt aus 05/19)
+- TOP 3.1.6.: entfällt, s. TOP B 4.9
+- TOP 3.1.7.: entfällt, s. TOP B 4.10
+- TOP 3.1.8.: entfällt, s. TOP B 4.11
+- TOP 3.1.9.: Goethestraße 11, Nutzungsänderung: Laden zu Gaststätte mit Freischankfläche sowie Anbau von Markisen an den Vordächern über den Freischankflächen
+- TOP 3.1.10.: Baaderstraße 86-90, TEKTUR, Abbruch eines Bestandsgebäudes und Neubau einer Wohnanlage auf teilerhaltener Bestandsgründung mit einer Kinderkrippe, Büros, einer Gaststätte und einer Arztpraxis im EG und zwei Arztpraxen im 2. OG sowie Umbau einer Tiefgarage
+- TOP 3.1.11.: Baaderstraße 22, Anbau von vier Balkonen
+- TOP 3.1.12.: Thalkirchner Straße 16, Vergrößerung eines Ladens sowie Errichtung einer Verbindungsöffnung zu einer bestehenden Gastronomieeinheit
+- TOP 3.1.13.: St.-Paul-Straße 1a, Erweiterung, Aufstockung und Nutzungsänderung eines Wohn- und Geschäftshauses
+- TOP 3.1.14.: Paul-Heyse-Straße 17, Nutzungsänderung eines Lagers zu einer Kellerwohnung mit Lichthöfen
+- TOP 3.1.15.: Lindwurmstraße 145, Neubau eines Personenaufzugs im Innenhof eines Mietwohnhauses
+- TOP 3.1.16.: Paul-Heyse-Straße 21, Erneuerung eines Dachstuhls und Einbau dreier Wohneinheiten
+- TOP 3.1.17.: Reichenbachstraße 51, VORBESCHEID, Dachgeschossausbau zu Wohnraum im Zuge dessen Anpassung der Dachform an die Umgebungsbebauung, Anbau neuer untergeordneter Balkonanlagen an der Innenhof- sowie an der Straßenfassade, Neubau eines zweigeschossigen Rückgebäudes (stilles Gewerbe) und Errichtung eines Multi-Park-Systems im Freien für 3 x 3 Fahrzeuge, energetische Sanierung
+- TOP 3.1.18.: Museumsinsel 1, TEKTUR, Zwischennutzung des Kongresssaalgebäudes des Deutschen Museums – befristet auf 5 Jahre – durch Umbau und Nutzungsänderung eines Ausstellungsraums in zwei Veranstaltungsräume, eine Kaffeebar und einen Kiosk, eines Ladens in eine Gaststätte mit Erweiterung des Wirtsgartens sowie von Verwaltungsräumen des Planetariums in eine Büroeinheit
+- TOP 3.2.1.: Vollzug der Baumschutzverordnung im Rahmen des Bauvorhabens Goethestraße 42 (s. TOP B 3.1.1)
+- TOP 3.2.2.: Thalkirchner Str. 69, Fällungsantrag, 1 Kastanie
+- TOP 3.3.1.: Verkehrssicherheit für Fahrradfahrer im Stadtbezirk 2, insbesondere Ecke Corneliusstraße/Erhardstraße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung stellt die Entwicklung Viehhofgelände vor
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Platz und Sicherheit für Fußgänger auf Münchens Gehwegen (vertagt aus 05/19)
+- TOP 1.2.: Ecke Müllerstraße/Fraunhoferstraße - Ampelschaltung neu organisieren
+- TOP 1.3.: Aufstellen von Mülleimern, Flaschenbehältern etc. von den Gastroniebetreibern auf deren Freischankflächen bzw. vor deren Lokalen
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Genehmigung einer Freischankfläche, Goethestraße 40
+- TOP 2.1.2.: Antrag auf Genehmigung einer Freischankfläche, Rumfordstraße 40
+- TOP 2.2.1.: Antrag für die Aufstellung einer Warenauslage, Landwehrstraße 58
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Standortsuche für jährlich stattfindende dreimonatige Strandveranstaltung ab 2020 - Corneliusbrücke
+- TOP 3.1.2.: Kulturbiergarten am Nußbaumpark, Ziemssenstraße vom 06.06. bis 30.08.2019 (vertagt aus 05/19)
+- TOP 3.2.1.: Errichtung neuer Fahrradstellplätze, Landwehrstraße
+- TOP 3.2.2.: Einrichtung eines Verkehrshelferüberganges, Waltherstraße/Maistraße
+- TOP 3.2.3.: Bürgeranliegen: Zebrastreifen auf Höhe Pestalozzistr. 52 deutlicher markieren
+- TOP 3.2.4.: Pilotprojekt „Schnelle Radverbindung für den Münchner Norden“, Beschlussentwurf -PLENUMSBESCHLUSS-
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnachtsmärkte, Anhörung zum Stadtratsantrag Nr. 14-20 / A 04801
+- TOP 3.3.2.: Ausweisung von Trinkwasserbrunnen, Sitzungsvorlage Nr. 14-20 / V 12133
+- TOP 3.3.3.: Fahrradabstellfläche vor Ladengeschäft, Thalkirchner Straße 88 (vertagt aus 05/19)
+- TOP 3.3.4.: Antrag für die Aufstellung einer Sitzgelegenheit, Geyerstraße 22
+- TOP 3.3.5.: Antrag für die Aufstellung einer Sitzgelegenheit, Reichenbachstraße 15
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Probleme am Knotenpunkt Auen-, Baader-, Ickstatt-, Deutlinger-, Westermühlstraße
+- TOP 5.2.: Bürgeranliegen, Einspruch gegen das geplante Vorhaben „Gans oder gar nicht“ in der Pestalozzistraße 8
+- TOP 5.3.: Bürgeranliegen, Beschwerde über Veranstaltung von Kafe Marat
+- TOP 5.5.: Bürgeranliegen, Urbane Wildästhetik an der Isar
+- TOP 5.6.: Verkehrssicherheit für Fahrradfahrer im Stadtbezirk 2, insbesondere Ecke Corneliusstraße/Erhardstraße
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: Maßnahmen an der Kreuzung Corneliusbrücke Erhardtstraße
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: (U) Lösungen fürs Bahnhofsviertel 2: Soziale Entwicklung rund um den Münchner Hauptbahnhof Antrag Nr. 14-20 / A 03558 .......................... 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt
+- TOP A 4.4.: Drastische Erhöhung der Zweit- und Drittwohnungssteuer, Empfehlung Nr. 14-20 / E 02301 der Bürgerversammlung am 08.11.2018; Sitzungsvorlage Nr. 14-20 / V 144
+- TOP A 4.5.: Pflanzung von früh- und spätblühenden Blumen, BA-Antrag Nr. 14-20 / B 04791, Antwortschreiben
+- TOP A 4.6.: Künstlerische Gestaltung des Baustellenzauns rund um das Hotel Königshof
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP B 4.3.: Ausstattung der Lokalbaukommission mit genügend Personal; Sitzungsvorlage Nr. 14-20 / V 15039
+- TOP B 4.4.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP B 4.5.: Regionale Kooperation stärken (III); Sitzungsvorlage Nr. 14-20 / V 14149
+- TOP B 4.6.: (U) Hotelstopp für das Südliche Bahnhofsviertel Antrag Nr. 14-20 / A 04771 von der Fraktion DIE GRÜNEN/RL vom 11.12.2018 Überprüfung des Bebauungsplanes von 1991 für das Kerngebiet durch den Stadtrat Empfehlung Nr. 14-20 / E 02300 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 08.11.2018
+- TOP B 4.7.: EU-Förderantrag im Rahmen des Förderprogramms „Horizon 2020“: HEalthy And Recreative cities for Tomorrow (HEART); Sitzungsvorlage Nr. 14-20 / V 14688
+- TOP B 4.8.: Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde; Sitzungsvorlage Nr. 14-20 / V 15036
+- TOP B 4.9.: Eilentscheidung zum Bauvorhaben Bayerstraße 3-5, TEKTUR, Mathäser München: Neugestaltung des Außenbereichs Bayerstraße - Restauration „35 mm“ (vertagt aus 05/19)
+- TOP B 4.10.: Eilentscheidung zum Bauvorhaben Klenzestraße 7, Abbruch und Neuerrichtung von 6 Balkonen mit Überdachung als freistehende Stahlkonstruktion (vertagt aus 05/19)
+- TOP B 4.11.: Eilentscheidung zum Vorbescheid Herzog-Heinrich-Straße 4, Ersatzneubau des Haupt- und Rückgebäudes des Blutspendedienstes mit Labor und Büroräumen sowie Tiefgarage / Abbruch der bestehenden Gebäudeteile (vertagt aus 05/19)
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Wahlplakattafeln anstelle von "wildem" Plakatieren
+- TOP C 4.7.: Ausnahmezulassung für nächtliche Mäharbeiten
+- TOP C 4.8.: Parkmöglichkeit für Busse auf der Theresienwiese
+- TOP C 4.9.: Politische Neutralität auf Werbeflächen der Firma Ströer
+- TOP C 4.10.: Ergänzung der Stellungnahme des BA 17 zur Sitzungsvorlage Nr. 14-20 / V 13626 „Saisonale Umnutzung von Straßenräumen“
+- TOP C 4.11.: Radverkehrsanlagen in der Fraunhoferstraße; Ergänzung der Sitzungsvorlage Nr. 14-20 / V 12756
+- TOP C 4.12.: Maßnahmen der Unfallkommission Erhardtstraße/Corneliusbrücke
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP E 2: Bereich Besondere Angelegenheiten
