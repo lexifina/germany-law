@@ -1,0 +1,7 @@
+# TOP 4.: Quartalsbericht 1. Quartal 2019 der Technischen Betriebe Solingen
+
+- Sitzung: Zentraler Betriebsausschuss (20. Sitzung) (2019-06-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/51009
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/30039
