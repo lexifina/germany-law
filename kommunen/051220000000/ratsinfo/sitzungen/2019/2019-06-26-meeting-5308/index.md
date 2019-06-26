@@ -1,0 +1,51 @@
+# Zentraler Betriebsausschuss (20. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-06-26T16:34:00+02:00
+- Ende: 2019-06-26T18:21:00+02:00
+- Ort: Technische Betriebe Solingen, Dültgenstaler Straße 61, 42719 Solingen, Haus H, Aufenthaltsraum UG
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdbaiKHuhXnTQYwSOoAVIDo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5308
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWolxYVghnycYs1NSQNn8S6tMvVt9PhqmR-VtQrNra6N/Bekanntmachung_Zentraler_Betriebsausschuss_26.06.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbANa_wIlDu6IHufmwIEl3v-ecWI8YR7qPBJA6lOWcEu/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_26.06.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Konzept Starkregen
+- TOP 1.2: Plastikanteile im Kompost
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 19. Sitzung des zentralen Betriebsausschusses am 20.03.2019
+- TOP 4.: Quartalsbericht 1. Quartal 2019 der Technischen Betriebe Solingen
+- TOP 5.: Quartalsbericht 1. Quartal 2019 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 6.: Quartalsbericht 1. Quartal 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 7.: Jahresabschluss 2018 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 8.: TBS-Standort-Konzept-2030 - Sachstand und weitere Vorgehensweise
+- TOP 9.: TBS-Standort-Konzept-2030 - Ausbau des Wertstoffhofes am MHKW
+- TOP 10.: Anschaffung von Insektenhotels für die städtischen Kitas und Schulen durch die TBS
+- TOP 11.: Qualitätssicherung Stadtsauberkeit in Solingen - Darstellung der Ergebnisse zum Thema Sauberkeitsmessung durch das INFA-Institut
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen des Betriebes
+- TOP 12.1.1: Jahresbericht 2018 der Umweltberatung der Verbraucherzentrale Solingen
+- TOP 12.1.2: Repräsentative Bürgerbefragung zur Kundenzufriedenheit der einzelnen Leistungen, insbesondere Abfall- und Wertstofferfassung, Niederschlagswasserbeseitigung und Straßenreinigung - aktueller Sachstand
+- TOP 12.1.3: Verlegung Kriegsgräber - Sachstand
+- TOP 12.1.4: ZBA-Info-Tour "Wasserstoffelektrolyse Wuppertal"
+- TOP 12.2: Anfragen an den Betrieb
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 19. Sitzung des zentralen Betriebsausschusses am 20.03.2019
+- TOP 4.: Quartalsbericht 1. Quartal 2019 der Entsorgung Solingen GmbH
+- TOP 5.: Quartalsbericht 1. Quartal 2019 der Solinger Bädergesellschaft mbH
+- TOP 6.: Jahresabschluss 2018 der Entsorgung Solingen GmbH
+- TOP 7.: Jahresabschluss 2018 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 8.: Berichterstattung zu Kanalbauarbeiten Schellberger Weg
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen des Betriebes
+- TOP 9.1.1: Vergaben und Vertragsabschlüsse über 50.000 Euro der TBS Berichtszeitraum 01.03.2019 - 31.05.2019
+- TOP 9.1.2: Vergaben und Vertragsabschlüsse über 50.000 Euro des DBSG
+- TOP 9.2: Anfragen an den Betrieb
