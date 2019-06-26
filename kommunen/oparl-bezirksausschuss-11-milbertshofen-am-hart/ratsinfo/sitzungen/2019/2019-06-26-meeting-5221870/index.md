@@ -1,0 +1,81 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5221870
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5221870
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Grünkonzept im Olympiapark modifizieren
+- TOP 4.4.1.: Anbringen von Haltverbotsschildern vor dem Behindertenzugang, Aufstellen von drei Blumentrögen, Fassadengestaltung an der Stadtbibliothek Milbertshofen Hier: Anbringen von Haltverbotsschildern vor dem Behindertenzugang
+- TOP 4.4.2.: Durchsetzen der StVO in der Humperdinckstraße und verstärkte Kontrollen im ganzen Stadtbezirk 11
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Elternbeirat der Grundschule Hildegard-von-Bingen-Anger Sommerfest am 29.05.2019 116,39 Euro, Az.: 0262.0-11-0321
+- TOP 6.1.2.: (E) Stadtbezirksbudget; Elternbeirat Gymnasium München-Nord Anschaffung von Biertischgarnituren 1893,01 € / AZ: 0262.0-11-0325
+- TOP 6.1.3.: (E) Stadtbezirksbudget; Initiative "Wunderbuch 2.0" für Grundschulkinder Tournee Theater "Wunderbuch 2.0" für Grundschulkinder vom 14.10. - 14.12.19 1.900,00 € / AZ: 0262.0-11-0329
+- TOP 6.1.4.: (E) Stadtbezirksbudget AG Buhlstraße e.V. Sommerfest am 06.07.2019 1.179,24 € / Az. 0262.0-11-0331
+- TOP 6.1.5.: (E) Stadtbezirksbudget; AG Buhlstraße e.V. Nachbarschaftsfest im Hof des Nachbarschaftstreffs Ingolstädter Str. 93 am 28.09.19 1.952,20 € / AZ: 0262.0-11-0332
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Fahrgassenversatz errichten am Schulweg Keferloherstraße zum Schutz der Kinder
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Connollystraße - Neusituierung der Wertstoffcontainer an der Wendeschleife
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Schaffung von legalen Park- und Haltemöglichkeiten an der Südseite des Curt-Mezger-Platzes
+- TOP 7.4.2.: Connollystraße - Abschaffung der temporären Haltverbote im Umfeld der Wendeschleife
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Max-Liebermann-Str. 6 a) Bauvorhaben: Neubau Studentenwohnheim, Beherbergungsbetrieb, Gastronomie und Tiefgarage – VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.2.: Anträge auf Baumfällungen: a) Bischof-Adalbert-Straße 20 b) Eduard-Schenk-Straße 27 c) Sudetendeutschestraße 32 - 34 d) Wallensteinstraße 19 e) Straßbergerstraße. 111
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "B2Run" im Olympiapark am 16.07.2019
+- TOP 8.3.2.: Veranstaltung "Sommernachtslauf" im Olympiapark am 10.07.2019
+- TOP 8.3.3.: Veranstaltung "Sommernachtstraum" im Olympiapark am 20.07.2019
+- TOP 8.3.4.: Veranstaltung "Aerocene Festival" im Olympiapark vom 05.09.2019 - 10.09.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrskonzept Münchner Norden: Öffentlicher Personennah-/ Schienenpersonennahverkehr und DB-Nordring
+- TOP 8.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: Prager Straße - Absolutes Haltverbot
+- TOP 8.4.3.: Pilotprojekt "Schnelle Radverbindung für den Münchner Norden" Sitzungsvorlagen Nr. 14-20 / V14925
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.2.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte: Diakonie, Gospelconcert, Isarlust
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 9.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.3.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 9.2.4.: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 9.2.5.: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
+- TOP 9.2.6.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 9.2.7.: Vollzug der Grünanlagensatzung: Baustelleneinrichtung Oberhofer Weg – Seite Taunussstraße vom 17.06.2019 bis 31.05.2020
+- TOP 9.2.8.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 9.2.9.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheide: Sudetendeutschestr. 32 - Genehmigung (abgestorbener Baumbestand)
+- TOP 9.2.10.: Meldelisten Bauvorhaben vom 06.05. - 02.06.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Lichtsignalanlagen: a) Weyprecht-/Parlerstraße - Neubau b) Neuherberg-/ Rockefellerstraße - Austausch (alt)
+- TOP 9.4.2.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Freiligrathstraße - absolutes Haltverbot b) Winzererstraße - Ausweisung Fahrradstraße c) Ingolstädter Straße - Wendeverbot (BA-Antrag Nr. 14-20 /B 05860)
+- TOP 9.4.3.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
