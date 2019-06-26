@@ -1,0 +1,21 @@
+# Neubau einer 3-fach-Sporthalle des Ravensberger Gymnasiums in Herford hier: Fortführung Entwurfsprozess, Finanzierung, Ausführung Sportboden
+
+- Körperschaft: Stadt Herford
+- Drucksache/Vorlage: IA/3/2019 1. Ergänzung
+- Art: Vorlage
+- Datum: 2019-06-26
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZfPb4V6quHfQcaNe5eRwb7I
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/11889
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Vorlage (Neubau einer 3-fach-Sporthalle des Ravensberger Gymnasiums in Herford hier: Fortführung Entwurfsprozess, Finanzierung, Ausführung Sportboden) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXlulUhOxlS-SRQjjtFZjAKhEGZLb9U_cJWyEo02KfMX/Vorlage_IA-3-2019_1._Ergaenzung.pdf
+- Anlage: Vorlage (RGH-3-fach-SpoHa-Vergleich_Sportböden) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYalE-tjENJ4kN7dzjssxQkbzFL-KuDTaPnT1Hnz1zJj/RGH-3-fach-SpoHa-Vergleich_Sportboeden.pdf
+- Anlage: Vorlage (Stellungnahme RGH E-Mail 08.04.19) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYr_fygHukdbWOi298Vt1Bh7KPb_bn6tu6pUbq0H76N/Stellungnahme_RGH_E-Mail_08.04.19.pdf
+- Anlage: Vorlage (Stellungnahme SSV E-Mail 08.04.19) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaTTTwxF2ALwjvAbAhpitJNbqzkjsPPZXMOfKhT5VlD9/Stellungnahme_SSV_E-Mail_08.04.19.pdf
+- Anlage: Vorlage (Stellungnahme Sportbüro 3.3 vom 10.04.2019) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZdg_YD8W142KIVr3Hw9gAAYk_qWiZoOFk-5D1t7BTcc/Stellungnahme_Sportbuero_3.3_vom_10.04.2019.pdf
+- Anlage: Vorlage (05-RGH_3-fach-Spoha_Lageplan) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU_3ZX07_08TT7zDLdHTOYh-gDoTS3sBrQhL0bKB9E4Z/05-RGH_3-fach-Spoha_Lageplan.pdf
+- Anlage: Vorlage (10-RGH_3-fach-Spoha_Ansicht-NO-SO) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUB6a-Y80yOX5TXDo71MvHvVOd0a8BfTB32hRsxw23wy/10-RGH_3-fach-Spoha_Ansicht-NO-SO.pdf
+- Anlage: Vorlage (11-RGH_3-fach-Spoha_Ansicht-NW-SW) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ32-HYTpIIpWcbTQWFtQddTr_RpyH4OJQ3YQgHuOWPk/11-RGH_3-fach-Spoha_Ansicht-NW-SW.pdf
+- Anlage: Vorlage (12-RGH_Änderung Technikräume _werk9) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSOuh0voAU8K2_d-E_sqnQdnO-iqBcBBU4wFO2pXE_W3/12-RGH_Aenderung_Technikraeume__werk9.pdf
+- Anlage: Vorlage (13-RGH Bauliche Anforderungen ProA und ProB, Anlage 13 IA 3 2019 1. Ergänzung) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVn8Gx4uzSvo4SfTQ7lrhrMAU_8jbfm3DuVNVx1wtihh/13-RGH_Bauliche_Anforderungen_ProA_und_ProB-_Anlage_13_IA_3_2019_1._Ergaenzung.pdf
+- Beratung:  https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3703 https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-17
+- underDirectionOf: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-239
