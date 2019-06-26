@@ -1,0 +1,51 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-06-26T15:00:00+02:00
+- Ende: 2019-06-26T18:06:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16532
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16532
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346060.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346060.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346060.pdf
+
+## Tagesordnung
+
+- TOP 1: TO - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Niederschrift - einstimmig beschlossen
+- TOP 4: Anfragen und Anträge - zur Kenntnis genommen
+- TOP 4.1: Anfrage DIE LINKE. - hier: Impfsituation in der Düsseldorfer Kinderbetreuung - beantwortet
+- TOP 4.2: Anfrage SPD - Wohn- und Unterstützungsangebote für junge Menschen - beantwortet
+- TOP 4.3: Antrag CDU - Klimawandel: Hitzeschutz an Düsseldorfer Kitas - mehrheitlich abgelehnt
+- TOP 4.4: Antrag CDU - neu zu schaffende städtische Großtagespflegen - abweichend beschlossen
+- TOP 5: Berichte - zur Kenntnis genommen
+- TOP 5.1: Aktion Zahngesundheit Düsseldorf - zur Kenntnis genommen
+- TOP 5.2: Vorstellung des Vereins Königinnen und Helden e.V. - zur Kenntnis genommen
+- TOP 5.3: Bildungs- und Freizeitveranstaltungen der Jugendverbände Düsseldorf - zur Kenntnis genommen
+- TOP 6: Präventionsketten Düsseldorf - zur Kenntnis genommen
+- TOP 6.1: Düsseldorfer Präventionsketten: aktueller Sachstand Familien-Navigator - zur Kenntnis genommen
+- TOP 7: Gebäudeangelegenheiten - zur Kenntnis genommen
+- TOP 7.1: Neubau der Einrichtung „Haus der Jugend“ Lacombletstraße 10, Düsseldorf - Bedarfsbeschluss - einstimmig beschlossen
+- TOP 7.2: Neubau Kita Hallesche Straße, Düsseldorf - Bedarfsbeschluss - Empfehlung abweichend beschlossen
+- TOP 8: Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 8.1: Musik als Sprache - mit Musik zur Sprache! - zur Kenntnis genommen
+- TOP 8.2: Kita-Investitionsprogramm-NRW 2025 - zur Kenntnis genommen
+- TOP 8.3: Kath. Tageseinrichtung für Kinder Christus König, Pastor-Busch-Weg 7-9 - zur Kenntnis genommen
+- TOP 8.4: PIA-Ausbildung beim Jugendamt - zur Kenntnis genommen
+- TOP 9: Jugendförderung - zur Kenntnis genommen
+- TOP 9.1: Geplante Veranstaltungen im Skatepark Eller 2019 - zur Kenntnis genommen
+- TOP 9.2: Kinderrechtejahr in Düsseldorf – Aktivitäten des Jugendamtes - zur Kenntnis genommen
+- TOP 10: Soziale Dienste - zur Kenntnis genommen
+- TOP 10.1: Jugendhilfe im Strafverfahren - Jahresbericht 2017/2018 - zur Kenntnis genommen
+- TOP 10.2: Controllingbericht Hilfen zur Erziehung (Stand: 31.05.2019) - zur Kenntnis genommen
+- TOP 10.3: Umzug des BSD SB 1 und 5 von der Kasernenstraße zur Bismarckstrackstr. - zur Kenntnis genommen
+- TOP 11: Fachübergreifende Vorlagen - zur Kenntnis genommen
+- TOP 11.1: "Starke-Familien-Gesetz", Auswirkungen - vertagt
+- TOP 11.2: Garath 2.0 Den Wandel gestalten - passieren lassen
+- TOP 11.3: Tag der Bildung "Bildung im digitalen Zeitalter" - zur Kenntnis genommen
+- TOP 11.4: Übergang der Aufgabe „Unterhaltsvorschussleistungen" - zur Kenntnis genommen
