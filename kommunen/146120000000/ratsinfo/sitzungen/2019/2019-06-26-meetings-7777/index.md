@@ -1,0 +1,58 @@
+# 73. Sitzung des Ausschusses für Wirtschaftsförderung
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-06-26T16:00:00+02:00
+- Ende: 2019-06-26T18:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/12
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7777
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7777
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_WF_2019_06_26 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00417940.pdf
+
+## Tagesordnung
+
+- TOP -: Geschäftsbereich Finanzen, Personal und Recht
+- TOP 1: Beschlussvorlagen zu Vergaben freiberuflicher Leistungen
+- TOP 1.1: Vergabenummer: 2018-GB112-00006, 51. Grundschule "An den Platanen", Rosa-Menzer-Straße 24, 01309 Dresden, Ersatzneubau einer erweiterten Einfeldsporthalle und Umnutzung der Bestandssporthalle; Planungsleistungen für Gebäude gem. HOAI § 34, Lph 2-9 - Zustimmung
+- TOP 1.2: Vergabenummer: 2018-GB112-00012, Neubau einer Einfeldsporthalle und denkmalgerechte Sanierung einer Bestandssporthalle, 49. Grundschule, Bernhardstraße 80, 01187 Dresden; Objektplanung Gebäude und Innenräume gem. § 34 HOAI, Leistungsphasen 2-9 - Zustimmung
+- TOP 2: Beschlussvorlagen zu Vergaben für Einkäufe und Dienstleistungen
+- TOP 2.1: Vergabenummer: 2019-5540-00002, Kinderbeförderung von der Kindertageseinrichtung Weinbergstraße 2 in 01129 Dresden in die Alexander-Herzen-Straße 64 in 01109 Dresden - Zustimmung
+- TOP 2.2: Vergabenummer: 2019-5540-00008, Kinderbeförderung von Kindertageseinrichtung Lommatzscher Straße 83/85 in 01139 Dresden in Hetzdorfer Straße 2 in 01169 Dresden - Zustimmung
+- TOP 2.3: Vergabenummer: 2019-4012-00011, Schülerbeförderung zum Förderzentrum "Prof. Dr. Rainer Fetscher" Dresden mit dem Förderschwerpunkt körperliche und motorische Entwicklung - Zustimmung
+- TOP 2.4: Vergabenummer: 2019-4012-00013, Schultägliche Hin- und Rückfahrten mit Begleitperson zur Schule für Hörgeschädigte und deren Außenstellen aus dem Stadtgebiet von Dresden und daran angrenzenden Postleitzahlenbereichen - Zustimmung
+- TOP 2.5: Vergabenummer: 2019-4012-00031, Schultägliche Beförderung (Hinfahrten) von Schülerinnen und Schülern des Gymnasiums Klotzsche während der Bauauslagerung auf die Gehestraße 2, 01127 Dresden - Zustimmung
+- TOP 2.6: Vergabenummer: 2019-4012-00032, Schultägliche Rückbeförderung von Schülerinnen und Schülern des Gymnasiums Klotzsche der Landeshauptstadt Dresden während der Bauauslagerung von der Gehestraße 2, 01127 DD i.Wohngebiete Klotzsche, Hellerau u. Weixdorf - Zustimmung
+- TOP 2.7: Vergabenummer: 2019-4012-00014, Schultägliche Schülerbeförderung zum Förderzentrum Sprache Dresden, Fischhausstraße 12B, 01099 Dresden - Zustimmung
+- TOP 2.8: Vergabenummer: 2019-4012-00023, Unterhalts- und Grundreinigung 4. Grundschule, Löwenstraße 2, 01099 Dresden - Zustimmung
+- TOP 2.9: Vergabenummer: 2019-4012-00025, Unterhalts- und Grundreinigung Berufliches Schulzentrum für Elektrotechnik (BSZ), Strehlener Platz 2, 01219 Dresden - Zustimmung
+- TOP 2.10: Vergabenummer: 2019-4012-00027, Unterhalts- und Grundreinigung, Berufliches Schulzentrum für Bau und Technik, Güntzstraße 3/5, 01069 Dresden - Zustimmung
+- TOP 2.11: Vergabenummer: 2019-4012-00028, Unterhalts- und Grundreinigung Berufliches Schulzentrum für Dienstleistung und Gestaltung, Chemnitzer Straße 83, 01187 Dresden - Zustimmung
+- TOP 2.12: Vergabenummer: 2019-1042-00010, Rahmenvereinbarung für die Beschaffung und Lieferung von Kopierpapier für die Verwaltung, die kommunalen Schulen der Landeshauptstadt Dresden sowie das Städtische Klinikum Dresden - 3 Lose - - Zustimmung
+- TOP 2.13: Vergabenummer: 2019-1042-00002, Abschluss einer Rahmenvereinbarung zur Lieferung, Installation und Inbetriebnahme von Notebooks und Zubehör - Zustimmung
+- TOP 2.14: Vergabenummer: 2019-1042-00018, Rahmenvereinbarung zur Lieferung von IT-Verbrauchsmaterial für die Landeshauptstadt Dresden - Zustimmung
+- TOP 2.15: Vergabenummer: 2019-56-00003, Lieferung, Installation und Inbetriebnahme eines 3D C-Bogens für das Städtische Klinikum Dresden am Standort Dresden-Friedrichstadt - Zustimmung
+- TOP 3: Beschlussvorlagen zu Bauvergaben
+- TOP 3.1: Vergabenummer: 2019-52PI-00018, Sanierung Brettschichtholz-Bogenbinder in Margon Arena Dresden, Los 1 - Bindersanierung - Zustimmung
+- TOP 3.2: Vergabenummer: 2019-6732-00005, Freiflächengestaltung Magdeburger Straße, Quartier 1, Liegenschaft: Magdeburger Straße, Dresden Friedrichstadt, Garten- und Landschaftsbau - Zustimmung
+- TOP 3.3: Vergabenummer: 2019-6615-00018, Instandsetzung Carolabrücke Zug A, Los 1 - Straßen-, Tief- und Ingenieurbau - Zustimmung
+- TOP 3.4: Vergabenummer: 2019-6615-00020, Rechtsseitiger Elbrad- und -wanderweg - Dresden Kaditz/Übigau, Abschnitt BAB A4 bis Altkaditz, Los - Straßenbau - Zustimmung
+- TOP 3.5: Vergabenummer: 2018-6615-00008 (18-010) - Nachtrag - Ausbau der Albertbrücke, Los 17 - Instandsetzung Gewölbeunterseiten und Pavillon - Zustimmung
+- TOP 3.6: Vergabenummer: 2019-GB111-00012, Gymnasium Dreikönigschule - Sanierung Haus A-C, Louisenstraße 42, 01099 Dresden, Los A11 - Tischlerarbeiten innen - Zustimmung
+- TOP 3.7: Vergabenummer: 2019-GB111-00050, Aufbauprogramm Brandschutz 55. Oberschule, Nöthnitzer Straße 6, 01187 Dresden, Los 06 - Elektroarbeiten - Zustimmung
+- TOP 3.8: Vergabenummer: 2019-GB111-00032, Energetische Sanierung 19. Grundschule, Am Jägerpark 5, 01099 Dresden, Los 01 - Bauhauptleistungen - Zustimmung
+- TOP 3.9: Vergabenummer: 2019-GB111-00033, Energetische Sanierung 19. Grundschule, Am Jägerpark 5, 01099 Dresden, Los 13 - Heizung-Lüftung-Sanitär (HLS) - Zustimmung
+- TOP 3.10: Vergabenummer: 2019-GB111-00034, Energetische Sanierung 19. Grundschule, Am Jägerpark 5, 01099 Dresden, Los 14 - Elektroinstallation - Zustimmung
+- TOP 3.11: Vergabenummer: 2019-65-00061, Sanierung und Erweiterung des BSZ für Wirtschaft Prof. Dr. Zeigner, Melanchthonstraße 9, 01099 Dresden, Los 07 - Fassade Verblendmauerwerk - Zustimmung
+- TOP 3.12: Vergabenummer: 2019-65-00101, 84. Grundschule, In der Gartenstadt, Heinrich-Tessenow-Weg 28, 01109 Dresden, Los VE 5.1 - Putzarbeiten TO 1, 2 und 5 - Zustimmung
+- TOP 3.13: Vergabenummer: 2019-65-00079, Gymnasium Klotzsche, Ersatzneubau Schulgebäude und Herstellung von Freiflächen, Los 10 - Baustelleneinrichtung - Zustimmung
+- TOP 3.14: Vergabenummer: 2019-65-00098, Gymnasium Klotzsche, Ersatzneubau Schulgebäude und Herstellung von Freiflächen, Los 11 - Rückbau Schule Typ Dresden mit Schadstoffsanierung - Zustimmung
+- TOP 3.15: Vergabenummer: 2019-65-00080, Gymnasium Klotzsche, Ersatzneubau Schulgebäude und Herstellung von Freiflächen, Los 12 - Technische Erschließung Teil 1, Regenrückhaltebecken - Zustimmung
+- TOP 3.16: Vergabenummer: 2019-65-00076, Modernisierung und Erweiterung Schulgebäude Gymnasium Plauen, Kantstraße 2, 01187 Dresden, Los 14 - Schlosserarbeiten - Zustimmung
+- TOP 3.17: Vergabenummer: 2019-65-00116, Modernisierung und Erweiterung Schulgebäude Gymnasium Plauen, Kantstraße 2, 01187 Dresden, Los 81 - Fachkabinette - Zustimmung
+- TOP 3.18: Vergabenummer: 2019-65-00086, Ersatzneubau Kindertageseinrichtung Riesaer Straße 9-11, 01129 Dresden, Los 30 - Baustelleneinrichtung - Zustimmung
+- TOP 3.19: Vergabenummer: 2019-65-00085, Ersatzneubau Kindertageseinrichtung Riesaer Straße 9-11, 01129 Dresden, Los 61 - Gebäudeabbruch mit Schadstoffsanierung, Verbau und Baugrubenaushub - Zustimmung
+- TOP 4.2: Offene Beschlussvorlagen
+- TOP -: Bereich Wirtschaftsförderung
+- TOP 6: Ausübung der Verlängerungsoption der Dienstleistungskonzession zur Organisation und Durchführung des Dresdner Stadtfestes für die Jahre 2020 bis 2022. - Zustimmung
