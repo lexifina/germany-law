@@ -1,0 +1,7 @@
+# TOP 4.: Auslagerung Gymnasium Schwertstraße hier: aktueller Sachstand - mündlicher Bericht -
+
+- Sitzung: Finanzausschuss (37. Sitzung) (2019-06-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/51192
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/30332
