@@ -1,0 +1,124 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-27T16:00:00+02:00
+- Ende: 2019-06-27T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20437
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20437
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Umsetzung von Beschlüssen der Bezirksvertretung
+- TOP 1.1.1: Beschluss zu "Sitzplätze statt Parkplätze"- Außengastronomie auf Stellplätzen
+- TOP 1.1.2: Bürgereingabe gem. § 24 GO, betr.: Rheinuferpromenade zwischen Bastei und Zoobrücke (Az.: 02-1600-24/19) - ungeändert beschlossen
+- TOP 1.2: Deutzer Hafen – Die Mühlen; Hier: Ergebnisbericht der Machbarkeitsuntersuchung
+- TOP 1.3: Sachstandsinformation zur zukünftigen Gestaltung des Spielplatzes Rathenauplatz
+- TOP 1.4: Zukunft der Flüchtlingsunterkunft Hotel Mado
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Errichtung einer City-Light-Poster-Vitrine vor dem Grundstück Bonner Straße 75 - ungeändert beschlossen
+- TOP 3.2: Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade von Deutzer Brücke bis Malakoffturm sowie Freigabe von investiven Auszahlungsermächtigungen - mit Änderungen empfohlen
+- TOP 3.2.1: Änderungsantrag Grüne zu Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade - ungeändert beschlossen
+- TOP 3.3: Bildungslandschaft Altstadt/Nord - zurückgestellt
+- TOP 3.3.1: Änderungsantrag SPD zu Baubeschluss für die Umgestaltung des Knotenpunktes Gereonswall/Vogteistraße - zurückgestellt
+- TOP 3.4: Benennung eines Tunnels in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 3.5: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Der Lupenraum Via Culturalis – Ein Handbuch für den öffentlichen Raum - ungeändert empfohlen
+- TOP 3.6: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert empfohlen
+- TOP 3.7: Konzept zur Erprobung eines Pilot-Beteiligungsverfahrens im Bereich Verkehr - ungeändert beschlossen
+- TOP 3.8: Parkgebührenordnung 2019 - mit Änderungen empfohlen
+- TOP 3.8.1: Gemeinsamer Änderungsantrag zur Vorlage 0445/2018 – Parkgebührenordnung 2019 - ungeändert beschlossen
+- TOP 3.9: Rheinboulevard - ungeändert empfohlen
+- TOP 3.10: 271. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.11: Busnetzerweiterung Interim - ungeändert empfohlen
+- TOP 3.11.1: Änderungsantrag FDP zu 1103/2019 Busnetzerweiterung Interim - endgültig abgelehnt
+- TOP 3.12: Stärkung und Ausweitung des KVB-Stadtbahnnetzes - ungeändert empfohlen
+- TOP 3.13: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert empfohlen
+- TOP 3.14: Einrichtung Radfahrstreifen auf der Achse Christophstraße im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - zurückgestellt
+- TOP 3.14.1: Änderungs- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates zu 1413/2019 - zurückgestellt
+- TOP 3.15: Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer - ungeändert empfohlen
+- TOP 3.16: Ersatzneubau der Kragplatte am Altstadtufer; Bedarfsfeststellungs- und Planungsbeschluss - ungeändert empfohlen
+- TOP 3.17: Verkehrsuntersuchung Neustadt-Süd - zurückgestellt
+- TOP 3.18: Gesamtkonzept Bewegungsparcours im Kölner Grün - ungeändert empfohlen
+- TOP 3.19: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.20: TU-/GU-Schulbaumaßnahmenpaket: Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer – Erweiterung und Aktualisierung - ungeändert empfohlen
+- TOP 3.21: Zurückgezogen: 1. Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: "Nördlich Colonius – Hotel- und Bürostandort" in Köln-Neustadt/Nord
+- TOP 3.22: Beschluss über die Aufstellung eines Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: "Westlich Unter Goldschmied (Laurenz-Carré)" in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 3.23: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Altstadt/Nord; Arbeitstitel: "Westlich Unter Goldschmied (Laurenz-Carré)" in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Entfallen
+- TOP 4.2: Entfallen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Behindertenparkplatz Metzer Str. (Az.: 02-1600-168/18) - geändert beschlossen
+- TOP 4.4: Bürgereingabe gem. § 24 GO, betr.: Fahrradstellplätze Hauptbahnhof (Az.: 02-1600-251/18) - zurückgestellt
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Stadt-Seilbahnen in und für Köln (Az.: 02-1600-101/19) - ungeändert empfohlen
+- TOP 4.6: Bürgereingabe gem. § 24 GO, betr.: Platane/Radweg Venloer Str. 44-48 (Az.: 02-1600-78/19) - ungeändert beschlossen
+- TOP 4.7: Mosaik am Haus Kleingedankstr. 11 - mit Änderungen empfohlen
+- TOP 4.8: Bürgereingabe gem. § 24 GO - geändert beschlossen
+- TOP 4.8.1: Gem. Änderungsantrag zu Bürgereingabe gem. §24 GO, Norbert-Burger-Park (0280/2019) - Sache ist erledigt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - zurückgestellt
+- TOP 5.1.2: Umgestaltung des Fußgängerüberwegs Haltestelle Ubierring (Nordseite) - geändert beschlossen
+- TOP 5.1.3: Dienstaufsichtsbeschwerde gegen Frau Beigeordnete Blome, Antrag Grüne - endgültig abgelehnt
+- TOP 5.1.3.1: Antrag der Fraktion Bündnis 90/Die Grünen in der Bezirksvertretung Innenstadt
+- TOP 5.1.4: Milieuschutz für den Kartäuserwall - zurückgestellt
+- TOP 5.1.4.1: Stellungnahme der Verwaltung zum Dringlichkeitsantrag der Fraktion DIE Linke "Millieuschutz für den Kartäuserwall", AN/0664/2019
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Konsultationskreis Außengastronomie - ungeändert beschlossen
+- TOP 5.2.1.1: Änderungsantrag FDP zu AN/0751/2019 Konsultationskreis Außengastronomie - endgültig abgelehnt
+- TOP 5.2.2: Alte Wallgasse, Dachbegrünung, Gem. Antrag Grüne, CDU, SPD, Linke, FDP, Deine Freunde, GUT - ungeändert beschlossen
+- TOP 5.2.3: Hydraulische Poller in der Elsaßstraße, Gem. Antrag Grüne SPD, CDU, Linke - ungeändert beschlossen
+- TOP 5.2.4: Mehr Blühpflanzen auf Straßen begleitenden Grünstreifen - ungeändert beschlossen
+- TOP 5.2.5: Öffentliche Toilettenanlage an der Agneskirche oder Kiosk Weissenburstr. - ungeändert beschlossen
+- TOP 5.2.6: Mehrgenerationen-Freizeitplätze bauen - geändert beschlossen
+- TOP 5.2.7: Geschwindigkeitsanzeigetafel in der Mainzer Straße - ungeändert beschlossen
+- TOP 5.2.8: Wohnbebauung in der Stolzestraße (Neustadt/Süd) - ungeändert beschlossen
+- TOP 5.2.9: Erweiterung des Spielplatzes im August-Sander-Park - zurückgestellt
+- TOP 5.2.10: Überdachung Haltestelle vor dem Seniorenheim Vincenzhaus, Rheinuferstr. - ungeändert beschlossen
+- TOP 5.2.11: Schrankenanlage vor dem Caritas-Altenzentrum - ungeändert beschlossen
+- TOP 5.2.12: Bänke "Mittelstreifen Neusser Wall" in Höhe Agneskirche - geändert beschlossen
+- TOP 5.2.13: Bänke Prälat Otto Müller Platz - geändert beschlossen
+- TOP 5.2.14: Fahrradabstellanlagen Annostraße 37b, Spielplatz südlicher Ausgang - ungeändert beschlossen
+- TOP 5.2.15: Attraktivierung der Fahrradnutzung für den Schulweg - ungeändert beschlossen
+- TOP 5.2.16: Bordsteinabsenkungen in der Suevenstraße - ungeändert beschlossen
+- TOP 5.2.17: Neuer Veedelsplatz für Deutz - ungeändert beschlossen
+- TOP 5.2.18: Klimanotstand, Dringlichkeitsantrag Grüne - geändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Praxis für die Entsorgung von Schrottfahrrädern im öffentlichen Raum
+- TOP 6.1.2: Praxis für die Entsorgung von Schrottfahrrädern im öffentlichen Raum
+- TOP 6.1.3: Verkehrszählung Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 6.1.4: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.5: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.6: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.7: Parkraumfreie Zone - zurückgestellt
+- TOP 6.1.8: Sanierung von vier Innenstadtschulen (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.9: Sachstand Soziale Erhaltungssatzungen, Anfrage SPD - zurückgestellt
+- TOP 6.1.10: Wohnhaus Ritterstraße 7 (Altstadt/Nord), Anfrage SPD - zurückgestellt
+- TOP 6.1.11: Gehwegparken Innenstadt
+- TOP 6.1.11.1: Illegales Gehwegparken in der Innenstadt
+- TOP 6.1.12: Klimaverbesserung durch Fassaden- und Dachbegrünungen in unseren Veedeln - zurückgestellt
+- TOP 6.1.13: Illegale Wohnraumzweckentfremdung ermitteln - zurückgestellt
+- TOP 6.1.14: Baulücke Kartäuserwall 14 - zurückgestellt
+- TOP 6.1.15: Verhältnis Ausgegebene Anwohnerparkausweise zu Vorhanden Anwohnerstellplätzen - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung - Kenntnis genommen
+- TOP 9.1: Aufstellung von Bänken (Bank Cologne Nr. 3) in der Kölner Innenstadt
+- TOP 9.2: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln
+- TOP 9.3: Leerstand im städtischen Wohnungsbestand (AN/0565/2019)
+- TOP 9.4: Neuer Übergang Innere Kanalstraße auf Höhe des Telekom-Verwaltungsgebäudes
+- TOP 9.5: Information über die geplante Fällung der Zeder im Innenhof Fort X
+- TOP 9.6: Ziel- und Leistungsvereinbarung 2019 - Bürgerzentrum Alte Feuerwache, Bürgerzentrum Deutz, Quäker Nachbarschaftsheim, Bürgerhaus Stollwerck
+- TOP 9.7: Stellungnahme der Verwaltung zur geänderten Beschlussfassung zum Baubeschluss für Baufeld C Abendgymnasium für die Bildungslandschaft Altstadt Nord (BAN) – zu 2589/2018
+- TOP 9.8: Voranfrage zur Klärung des Planungsrechts (Bebauungsgenehmigung) für die Errichtung von Gebäuden (Häuser 1-20) mit 357 Wohneinheiten, davon ca. 110 öffentlich geförderte Wohnungen, Tiefgarage, Kindertagesstätte und Büroflächen.
+- TOP 9.9: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019
+- TOP 9.10: Sachstand über die Sanierung und Wiederinbetriebnahme des Parkcafés im Kölner Rheinpark
+- TOP 9.11: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen
+- TOP 9.12: Planfeststellungsbeschluss für die Erneuerung von 3 Eisenbahnüberführungen über der Deutz-Mülheimer Straße in Köln-Deutz
