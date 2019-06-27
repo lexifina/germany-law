@@ -1,0 +1,150 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2019-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5087881
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5087881
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: unveränderte Fortführungen eines Gaststättenbetriebs
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 4.3 Verkehrsmodellierung und Verkehrskonzept für den Münchner Osten 2.0 Antrag an den BA 15 zu TOP 5.8
+- TOP 1.3.2.: 4.4 Woanders geht es doch auch: Bayern-WLAN-Hotspot am Truderinger Bahnhof ermöglichen Antrag an den BA 15 zu TOP 5.5
+- TOP 1.3.3.: 4.5 Ertüchtigung des ÖV-Bahnhofs Trudering: Ko-Finanzierbarkeit durch „Aktive Zentren Trudering“ prüfen Antrag an den BA 15 zu TOP 5.11
+- TOP 1.3.4.: 7.4.5 Wachtelweg 38, Fl.Nr.: 438/0 - Neubau eines Mehrfamilien- und eines Doppelhauses mit Tiefgarage - VORBESCHEID
+- TOP 1.3.5.: 7.4.6 Truderinger Str. 267 - 269, Fl.Nr.: 271/2 - Neubau Aula und FU-Räume (Pestalozzi-Realschule)
+- TOP 1.3.6.: 8.2.23 Hinterrißstraße 4 8.2.24 Riemer Straße 354
+- TOP 2.1.1.: Stadtbezirksbudget Chorgemeinschaft St. Peter und Paul Trudering Truderinger Sommerfest am 12.07.2019 1.215,00 € / AZ: 0262.0-15-0302
+- TOP 2.1.2.: Stadtbezirksbudget Waldkindergarten Trudering e.V. Bauernhoftour vom 26.06. - 28.06.19 941,55 € / AZ: 0262.0-15-0303
+- TOP 2.1.3.: (E) Stadtbezirksbudget; TSV Trudering e.V. Anschaffung einer Airtrackbahn 3.626,34 € / AZ: 0262.0-15-0304
+- TOP 2.1.4.: (E) Stadtbezirksbudget; TSV Maccabi München 12. Kurt-Landauer Freundschaftsturnier am 14.07.19 2.500,00 € / AZ: 0262.0-15-0305
+- TOP 2.1.5.: (E) Stadtbezirksbudget; Förderverein der Grundschule am Lehrer-Götz-Weg e.V. AG "Wir bauen und programmieren mit LEGO Wedo 2.0" 1.682,00 €/ AZ: 0262.0-15-0306
+- TOP 2.2.1.: (E) Aufstellen von Trinkwasserbrunnen im Riemer Park Empfehlung Nr. 14-20 / E 01703 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 05.10.2017
+- TOP 3.2.1.: Am Moosfeld - Beleuchtungssituation des U-Bahnhofs
+- TOP 3.2.2.: Damaschkestraße: Breite des Bürgersteigs zwischen Kreillerstraße und Brachsenstraße unter besonderer Berücksichtigung der Schulwegsicherheit
+- TOP 3.2.3.: Maßnahmen zur BAUMA: neue Zufahrtsregelung prüfen Verweis in den UA aus der Aprilsitzung, Vertagung aus der Maisitzung
+- TOP 3.2.4.: Nach der BAUMA 2019 ist vor der BAUMA 2022 und anderer großen Messen Verweis in den UA aus der Aprilsitzung, Vertagung aus der Maisitzung
+- TOP 3.2.5.: Heinrich-Böll-Straße / Selma-Lagerlöf-Straße: zukünftige Parkplatz- und Gehwegsituation in der Parallelstraße zur Willy-Brandt-Allee
+- TOP 3.2.6.: Iltisstraße: zusätzliche Fahrradabstellplätze an der Bushaltestelle
+- TOP 3.5.1.: Errichtung eines Outdoor-Floorball-Feldes in der Messestadt-Riem Verweis in den UA aus der Maisitzung
+- TOP 3.5.2.: Vorschlag zum Stadtbezirksbudget / BSL - Installation eines Beachvolleyballplatz im Riemer Park
+- TOP 4.1.: Alternativen für Berufspendler schaffen: Mühldorfer Regionalzüge halten auch in Riem
+- TOP 4.2.: Beim zweigleisigen Ausbau der Truderinger Spange eine spätere S-Bahnnutzung berücksichtigen (Nordring XXL)
+- TOP 5.1.: Verbindung zwischen Kerschensteinerstr. und Riemarcaden Wiedervorlage gemäß Beschluss aus der Novembersitzung 2018
+- TOP 5.2.: Verbindung zwischen Kerschensteinerstraße und Riemarcaden asphaltieren Wiedervorlage gemäß Beschluss aus der Novembersitzung 2018
+- TOP 5.3.: Reitanlage Riem: Lärmbelästigung durch und Unrat nach Veranstaltungen Wiedervorlage gemäß Beschluss aus der Januarsitzung 2019
+- TOP 5.4.: Bei der Nachverdichtung Barrierefreiheit nicht vergessen! Wiedervorlage gemäß Beschluss aus der Märzsitzung 2019
+- TOP 5.5.: Statt jahrelangem Warten: BayernWLAN für Trudering Bf. und Ortszentrum jetzt realisieren!
+- TOP 5.6.: Projekte Daglfinger und Truderinger Kurve (DTK) und Spange Dringlichkeitsantrag _ Eilt
+- TOP 5.7.: Neue Regelung auf Parkplatz Hugo-Weiss-Straße 2-4 rechtens?
+- TOP 5.8.: Verkehrsgutachten Münchner Nordosten gemeinsamer Antrag der Bezirksausschüsse Berg am Laim, Trudering und Bogenhausen
+- TOP 5.9.: Überweg für die Fußgänger an der Bajuwarenstraße
+- TOP 5.10.: Rechtzeitig planen für den zu erwartenden Raumbedarf der Grundschule am Lehrer-Götz-Weg
+- TOP 5.11.: Sozialbürgerhaus Trudering: Den Neubau für die Verkehrsinfrastruktur nützen
+- TOP 5.12.: Heltauer Straße: Schulwegsicherheit
+- TOP 5.13.: 20 Jahre Messestadt – ein Grund zum Feiern, und endlich den denkmalgeschützten Tribünen-Kopfbau mit tragfähigem Konzept einer öffentlichen Nutzung übergeben
+- TOP 5.14.: WLAN Hotspots am Riemer See in Höhe des Beachvolleyballplatzes im 15. Stadtbezirk
+- TOP 5.15.: Toiletten im öffentlichen Raum schaffen
+- TOP 5.16.: Barrierefreier Ausbau S-Bahnhof Riem Antwortschreiben des Referenten für Arbeit und Wirtschaft auf das Schreiben des BA-Vorsitzenden
+- TOP 5.17.: Anfrage Moosfeld
+- TOP 5.18.: 14 Jahre nach der BUGA: wilde Wege endlich barrierefrei herstellen
+- TOP 5.19.: Am Moosfeld: geplantes Ankerzentrum
+- TOP 5.20.: Vorschlag zum Stadtbezirksbudget - Ertüchtigung des Schotterweges zwischen Lehrer-Wirth-Straße und Georg-Kerschensteiner-Straße
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Zuwendung aus dem Budget der Bezirksausschüsse Antrag Hopsasa gUG vom 04.02.2019: Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder Februar 2019 - Februar 2020 Verlängerung des Bewilligungszeitraumes bis zum 01.06.2020
+- TOP 7.1.2.: Anhörung der Bezirksausschüsse zum Stadtratsantrag Nr. 14-20 / A 04801 "Neue Regelung für die Eröffnung der Münchner Christkindl- und Weihnachtsmärkte" Frist: 05.07.2019
+- TOP 7.1.3.: Manchesterplatz: Sondernutzungserlaubnis für die Aufstellung einer Glasvitrine Ebenfalls Befassung im UA Bau und Verkehr (s. TOP 7.2.4)
+- TOP 7.1.4.: Stadteigenes Grundstück Flst. 1408/104 Tlfl. Gemarkung Trudering-Riem An der Graf-zu-Castell-Straße / Joseph-Wild-Straße Ersatzfläche für Schuhbecks Teatro vom 01.08.2019 - 31.05.2021
+- TOP 7.1.5.: Willy-Brandt-Platz,Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 StVO, Pump & Jump Event vom 26. - 27.07.2019 Frist: 05.07.2019
+- TOP 7.1.6.: Riemer Park hinter dem Quax auf Höhe Helsinkistraße, Vollzug Art. 19 LStVG und Grünanlagensatzung, KIZA - KinderZirkusAtraktionen, Ferienprogramm für Kinder vom 05.08.2019 bis 10.08.2019 Frist: 21.07.2019
+- TOP 7.1.7.: Werner-Eckert-Straße 8 - 12, Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO, Kinder- und Familienfest am 19.07.2019 Frist: 05.07.2019
+- TOP 7.1.8.: Werner-Eckert-Str. 1, Vorplatz Kopfbau, Veranstaltung in einer städtischen Grünanlage, Begleitveranstaltungen zur Kunstaktion "Kopfbaut 20:19" im Zeitraum Juli - September Frist: 28.06.2019
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: verkehrsrechtliche Anordnung nach § 45 StVO: Einrichtung eines absoluten Haltverbots Von-Erckert-Straße Frist: 05.07.2019
+- TOP 7.2.2.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO Friedenspromenade - Geschwindigkeitsbegrenzung (Tempo 30) Frist: 05.07.2019
+- TOP 7.2.3.: Verkehrskonzept Münchner Norden Öffentlicher Personennahverkehr / Schienenper­sonennahverkehr / DB-Nordring Sitzungsvorlagen Nr. 14-20 / V 14363 Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung vom ________ Anhörung der Bezirksausschüsse gemäß § 13 Abs. 3 der Bezirksausschuss-Satzung Frist: 05.07.2019
+- TOP 7.2.4.: Manchesterplatz: Sondernutzungserlaubnis für die Aufstellung einer Glasvitrine Ebenfalls Befassung im UA Allgemeines (Referatsschreiben s. TOP 7.1.3)
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.3.1.: Bebauuungsplan mit Grünordnung Nr. 2090 Friedrich-Creuzer-Straße / Alexisweg, Karl-Marx-Ring, Niederalmstraße, Stemplingeranger Herstellung und Umbau der öffentlichen Verkehrsflächen Anhörung gemäß § 9 der Satzung für die Bezirksausschüsse Frist: 26.07.2019
+- TOP 7.3.2.: Messestadt Riem Tribünenanlage und Nutzung des Kopfbaus Sitzungsvorlage Nr. 14-20 / V 14541 Beschluss des Kommunalausschusses vom 04.07.2019 Stellungnahme des BA Frist:28.06.2019
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Am Mitterfeld 22, Fl.Nr.: 167/12 - Neubau einer Wohnanlage (30 WE) mit Tiefgarage (30 Stpl.)
+- TOP 7.4.2.: Schatzbogen 31, Fl.Nr.: 131/14 - TEKTUR zu 1.1-2019-4836-32 - Neubau eines Hotels mit Tiefgarage
+- TOP 7.4.3.: Am Moosfeld 3, Fl.Nr.: 101/29 - Nutzungsänderung der Büroflächen zu einer gewerblichen Jugendfreizeit-Einrichtung, Errichtung von Außentreppen als 2. Rettungsweg sowie Entfall innerer Brandwände
+- TOP 7.4.4.: Leibengerstraße 16, Fl.Nr.: 1644/0 - Erweiterung der Heilpädagogischen Tagesstätten, Anbau eines Verbindungsgangs zur Turnhalle und Neubau eines Kleinspielfeldes
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 7.6.1.: Markgrafenstraße: Umwandlung der Rasenflächen in der Grünanlage in Langgrasflächen Frist: 05.07.2019
+- TOP 8.1.1.: Bajuwarenstraße 88-90 Elritzenstraße 34 Fabinistraße 13a Iltisstraße 58 Kirtaweg 32 Ottilienstraße 14 Sansibarstraße 22 Waldschulstraße 23 Waldtruderingerstraße 23 Wasserburger Landstraße 209 - 211 Windhuker Straße 38
+- TOP 8.2.1.: Agathenstraße 19 Am Mitterfeld 22 Fauststraße 32 Fauststraße 72 Georg-Kerschensteiner-Straße 41 Günderodestraße 16 Hochkönigstraße 25 Kästlenstraße 22 Lachenmeyrstraße 28-30 Leibengerstraße 16 Nauestraße 14 - durch UNB abgelehnt Schatzbogen 6 Schatzbogen 31 Schneebergstraße 25 Schwedensteinstraße 38 - 38a - durch UNB abgelehnt Selbhornstraße 26 Theodor-Kober-Straße 4 Von-Erckert-Straße 70 Wachtelweg 38 Waldschulstraße 58 Waldtruderinger Straße 36 Wimbachtalstraße 20
+- TOP 9.1.: Eilentscheidung des BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 9.1.1: Veranstaltung auf Privatgrund und in städtischer Grünanlage, Feldbergstraße 95 (Truderinger Festplatz) - Oldtimertreffen mit Sommerfest am 06.07.2019 Frist: 14.06.2019
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Anzeige über das Abbrennen eines Feuerwerks (durch Pyrotechniker) auf Privatgrund Straße: Feldbergstraße Datum: 02.06.2019 Anlass: Festwoche Trudering
+- TOP 10.1.2.1: Rocco`s, Schank-und Speisewirtschaft, St.-Augustinus-Straße 6, 81827 München
+- TOP 10.1.2.2: Nami`s Kitchen, Schank- und Speisewirtschaft, Truderinger Straße 263, 81825 München
+- TOP 10.1.2.3: Wienerwald, Schank-und Speisewirtschaft, Wasserburger Landstr. 198, 81827 München und Bajuwarenstr. 2, 81825 München
+- TOP 10.1.3.: Kunstaktion in einer städtischen Grünanlage, Kunstaktion "Kopfbaut 20:19" vom 01.07. bis 31.09.2019, Vorplatz Kopfbau (Flst. 1408/283) und temporäre Beschilderung Steg Riemer See Hinweis: nach telefonischer Rücksprache mit dem KVR am 03.06.2019 handelt es sich lediglich um eine Unterrichtung des BA
+- TOP 10.1.4.: Das Format der Bürgerversammlung ansprechender gestalten Schreiben der 3. Bürgermeisterin an die Bezirksausschüsse
+- TOP 10.1.5.: Anzeige über das Abbrennen eines Feuerwerks (durch Pyrotechniker) auf Privatgrund Straße: Landshamer Straße 11 Datum: 22.06.2019 Anlass: Isle of Summer Festival 2019
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 10.2.2.: verkehrsrechtliche Anordnung nach § 45 StVO: Ausdehnung eines bestehenden absoluten Haltverbots Marianne-Plehn-Straße
+- TOP 10.2.3.: verkehrsrechtliche Anordnung nach § 45 StVO: Anbringung einer Gefahrzeichenbeschilderung „Radverkehr“ (Zweirichtungsradverkehr) Feldbergstraße
+- TOP 10.2.4.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 09.04.2018 über die Projektplanung Neubau einer Grünanlage mit Lärmschutzwand am Horst-Salzmann-Weg im 15. Stadtbezirk Trudering-Riem Beschluss des Bezirksausschusses des 15. Stadtbezirkes Trudering-Riem vom 13.12.2018 (s. TOP 2.2.2 / 1218) hier: aktueller Stand der Umsetzung
+- TOP 10.2.5.: verkehrsrechtliche Anordnung nach § 45 StVO: Eingeschränktes Haltverbot Waldstraße (vor Einmündung Groschenweg)
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Veränderbare Wohnungsgrundrisse Typus & Adaption - Ein Fachprojekt der Hochschule München
+- TOP 10.3.2.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 10.3.3.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 10.3.4.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 10.3.5.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 10.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.7.: (U) A) Gartenstädte – Erhalt des Charakters und bauliche Entwicklung Rahmenplanungen – Beschlussfassung B) Empfehlungen Überarbeitung der Baulinien im Rahmenplan Empfehlung Nr. 14-20 / E 02330 der Bürgerversammlung des Stadtbezirks 18 – Untergiesing-Harlaching am 15.11.2018 Überarbeitung der Rahmenplanung „Reichsheim-Siedlung Laim“ Empfehlung Nr. 14-20 / E 02419 der Bürgerversammlung des Stadtbezirks 25 – Laim am 20.11.2018 C) Stellungnahmen des Bündnisses Gartenstadt vom 21.01.2019 und 23.01.2019 Stadtbezirk 7 Sendling-Westpark Stadtbezirk 15 Trudering-Riem Stadtbezirk 16 Ramersdorf-Perlach Stadtbezirk 18 Untergiesing-Harlaching Stadtbezirk 20 Hadern Stadtbezirk 21 Pasing-Obermenzing Stadtbezirk 25 Laim
+- TOP 10.3.8.: Mitteilung über ein Grundstücksgeschäft Flst. 451/11 und 451/12 Trudering Wasserburger Landstraße / Von-Heydebreck-Straße Kauf
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Unnützstraße 33
+- TOP 10.4.1.2: Mönchbergstraße 12
+- TOP 10.4.1.3: Graf-Lehndorff-Straße 5
+- TOP 10.4.1.4: Dualastraße 14
+- TOP 10.4.1.5: Möwestraße 52
+- TOP 10.4.1.6: Königsseestraße 45
+- TOP 10.4.1.7: Ruppanerstraße 34
+- TOP 10.4.2.: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 10.5.2.: Neue Bädereintrittspreise Information der Bezirksausschüsse
+- TOP 10.5.3.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 10.5.4.: Bericht über den aktuellen Umsetzungsstand zum Projekt "München - gesund vor Ort"
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
