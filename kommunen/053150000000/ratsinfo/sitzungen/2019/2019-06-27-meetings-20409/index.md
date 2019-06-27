@@ -1,0 +1,85 @@
+# 37. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-27T17:00:00+02:00
+- Ende: 2019-06-27T19:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20409
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20409
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00723268.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00723268.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00723268.pdf
+
+## Tagesordnung
+
+- TOP -: A Bericht aus dem Sozialraum Ostheim/Neubrück durch die Sozialraumkoordinatoren
+- TOP -: B Präsentation des Erzbistums Köln zum Projekt Bildungscampus an der Neuerburgstraße in Köln-Kalk
+- TOP -: C ÖPNV – Offene Beschlüsse aus der Bezirksvertretung Kalk zum Ausbau und zur Attraktivierung des Nahverkehrs
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Parkplatzmarkierungen Am Hirschsprung (Az.: 02-1600--220/18) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Hameler Weg, Brücker Mauspfad, Kleinfeldchensweg, Köln-Brück (Az.: 02-1600-40/18) - ungeändert beschlossen
+- TOP -: Verkehrssituation Hameler Weg, Brücker Mauspfad, Kleinfeldchensweg, Köln-Brück (AZ.: 02-1600-40/18) 3044/2018 - Kenntnis genommen
+- TOP 2.3: Bürgereingabe gem. § 24 GO – „Beratungs- und Begleitgremium zur Machbarkeits-studie „Kalk Süd / Hallen Kalk“ Az. 80/19 B - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Digitale Kundenwand für das Bürgeramt Kalk - Anzeigetafel in der Meldehalle per Webcam an das Internet anbinden - endgültig abgelehnt
+- TOP -: Digitale Kundenwand beziehungsweise Anzeigetafel im Kundenzentrum - Kenntnis genommen
+- TOP 7.2: Aufstellen von Bänken auf den Hunde-Freilaufflächen in der Merheimer Heide - ungeändert beschlossen
+- TOP 7.3: Anlegen von Blumenwiesen in der Flehbachaue in Köln-Brück - geändert beschlossen
+- TOP 7.4: Entsiegelung von Plätzen und Flächen im Stadtbezirk Kalk - geändert beschlossen
+- TOP 7.5: Prüfung der Verbreiterung der Befestigung des Fußweges Warendorfer Straße zwischen Taxi-Stand und Straßenbiegung zur Detmolder Straße in Köln-Merheim - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes nach § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 8.1.2: Beschluss zur Fortführung des Aktivierungsfonds im Rahmen des Integrierten Stadtentwicklungskonzeptes „Starke Veedel – Starkes Köln“ im Sozialraum „Höhenberg und Vingst“ - ungeändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Parkgebührenordnung 2019 - geändert beschlossen
+- TOP -: Parkgebührenordnung 2019 (0445/2018) - endgültig abgelehnt
+- TOP -: Parkgebührenordnung 2019 (0445/2018) - ungeändert beschlossen
+- TOP 8.2.2: Busnetzerweiterung Interim - geändert beschlossen
+- TOP 8.2.3: Stärkung und Ausweitung des KVB-Busnetzes - geändert beschlossen
+- TOP 8.2.4: 4.7.1 "Integrierte Maßnahme zur ökologischen Revitalisierung Westerwaldstraße" - ungeändert beschlossen
+- TOP 8.2.5: Gesamtkonzept Bewegungsparcours im Kölner Grün
+- TOP 8.2.6: Freigabe- und Baubeschluss über die Maßnahme "Partizipatorische Neugestaltung Platz an St. Adelheid" in Köln-Neubrück aus dem Programm "Starke Veedel – Starkes Köln" (Einzelmaßnahme 2.10.4 im Sozialraum Ostheim und Neubrück) - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Neubau einer Kindertagesstätte in der Hans-Schulten-Straße in Köln-Neubrück - Kenntnis genommen
+- TOP 9.1.2: Endgültiger Ausbau der Matthias-Müller-Straße in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 9.1.3: Schrottplätze in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.1.4: Illegales Gehwegparken - Kenntnis genommen
+- TOP 9.1.5: Spielplatz Roddergasse in Köln-Humboldt/Gremberg - Kenntnis genommen
+- TOP 9.1.6: Wiederherstellung des Spielplatzes an der Geraer Straße in Köln-Höhenberg - Kenntnis genommen
+- TOP 9.1.7: Hallen Kalk - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Marode Beschilderung der Radwanderwege in Köln-Brück - Kenntnis genommen
+- TOP 9.2.2: Ansätze zur Lösung des zu erwartenden Problems durch Hol- und Bringverkehre nach Eröffnung der Kita Hans-Schulten-Straße in Köln-Brück - Kenntnis genommen
+- TOP 9.2.3: Bürgerbeteiligung bei Bauprojekten in Kalk zu Zeiten der städtischen Pilotphase Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP -: Bürgerbeteiligung bei Bauprojekten in Kalk zu Zeiten der städtischen Pilotphase Systematische Öffentlichkeitsbeteiligung - Kenntnis genommen
+- TOP 9.2.4: Betriebswirtschaftliche Entwicklung des Industriegebiets Kalk-Süd (Hallen Kalk) - Kenntnis genommen
+- TOP 9.2.5: Überprüfung der Situation des Lkw-Parkens auf dem Rather Kirchweg zwischen Pohlstadtsweg und Einmündung Neubrücker Ring in Brück/Neubrück - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Empfehlungen des Begleitgremiums aus der Sitzung vom 25.06.2019 zum Werkstattverfahren Hallen Kalk am 02.07.2019 - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.2: Stadtverschönungsprogramm 2016/2017 für den Bezirk Kalk - zurückgestellt
+- TOP 10.2.3: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Stadtbezirk Kalk - Kenntnis genommen
+- TOP 10.2.4: Verbundprojekt Hitzeaktionsplan für Menschen im Alter für die Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: Ziel- und Leistungsvereinbarung 2019 - Bürgerhaus Kalk - Kenntnis genommen
+- TOP 10.2.6: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - Kenntnis genommen
+- TOP 10.2.7: Verbraucherberatung im Quartier: Jahresbericht 2018 - Kenntnis genommen
+- TOP 10.2.8: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 10.2.9: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 10.2.10: Gutachten zum Kalkberg (1641/2019) - Kenntnis genommen
+- TOP 10.2.11: Wird der Kalkberg schon genutzt? - Kenntnis genommen
+- TOP 10.2.12: Unterbringung der LG Kalk - Kenntnis genommen
