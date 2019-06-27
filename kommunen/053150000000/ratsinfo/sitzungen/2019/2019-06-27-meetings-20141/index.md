@@ -1,0 +1,91 @@
+# 45. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-27T17:00:00+02:00
+- Ende: 2019-06-27T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20141
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20141
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00724920.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00724920.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00724920.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Naturschutzgebiet Rheinaue Worringen-Langel - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Fehlende barrierefreie Anbindung des Stadtteils Blumenberg an Wochenenden und Feiertagen (Az.: 02-1600-243/18) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Parkplätze und Beleuchtung Wezelostraße (Az.: 02-1600-57/19) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Busverbindung Stadtbezirk Chorweiler/Leverkusen Mitte - Kenntnis genommen
+- TOP 7.1.2: Versorgungsleitungen im Bezirk - Kenntnis genommen
+- TOP 7.1.3: Schall- und Lichtemissionen im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Zur Verkehrsführung bei Bebauung in Köln-Esch Volkhovenerstr.. Flur 2 Flurstück 528 - Kenntnis genommen
+- TOP 7.1.5: Schließung der Notfallpraxis in Chorweiler - Kenntnis genommen
+- TOP 7.1.6: Anna Langohr-Schule - Kenntnis genommen
+- TOP 7.1.7: Neugestaltung der "Chorweiler Plätze" - Kenntnis genommen
+- TOP 7.1.8: Fassadenbegrünung an städtischen Gebäuden - Kenntnis genommen
+- TOP 7.1.9: Bahnumfahrung und Ausfälle auf der Chorweilerschleife 2018 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Alte Römer Straße Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Verkehrssicherheit Fußweg Balsaminenweg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.3: Künftige Nutzung der Immobilie Anna-Langohr-Schule in Heimersdorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.4: Nichtangemeldete Baumfällungen Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: Kunstrasen-Granulat Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Einrichtung einer Halteverbotszone auf dem Senfweg in Worringen - Kenntnis genommen
+- TOP 8.1.2: Ausschilderung Mercatorstraße "Einkaufszentrum Heimersdorf" - Kenntnis genommen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Stadtverschönerungsprogramm 2019 Interfraktioneller Antrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen und Die Linke - ungeändert beschlossen
+- TOP 8.2.2: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Bahnhof Worringen Interfraktioneller Antrag der CDU-Fraktion, der SPD-Fraktion und der Fraktion Bündnis´90 / Die Grünen - ungeändert beschlossen
+- TOP 8.3.2: Bezirksbezogene Mittel Gemeinsamer Antrag der SPD-Fraktion und Die Linke - geändert beschlossen
+- TOP 8.3.3: Erneuerung der Straßenmarkierungen auf der Straße Am Baggerfeld Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.3.4: Beleuchtung der Wegstrecke zwischen Pingenweg, Volkhovener Weg/Eudenbacher Weg Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Aufwertung des Spielplatzes Riphanstr. - Grünzug in Seeberg - ungeändert beschlossen
+- TOP 9.1.2: Umsetzung des Integrierten Handlungskonzeptes Lindweiler hier: Ernennung neuer Mitglieder für den Veedelsbeirat Lindweiler - ungeändert beschlossen
+- TOP 9.1.3: Aufwertung des Spielplatzes Arembergstraße/Malbergstraße in Köln-Blumenberg - ungeändert beschlossen
+- TOP 9.1.4: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.5: Widmung von Teilstücken der Straße Erlenweg in Köln-Esch/Auweiler - ungeändert beschlossen
+- TOP 9.1.6: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - ungeändert beschlossen
+- TOP 9.2.2: Parkgebührenordnung 2019 - geändert beschlossen
+- TOP 9.2.3: Bedarfsfeststellungsbeschluss zur Maßnahme 5.0.2 „Zuhause im Veedel – Aktivierung und Beteiligung im Quartier Sozialraum Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 9.2.4: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Pesch; Arbeitstitel: Donatusstraße in Köln-Pesch - ungeändert beschlossen
+- TOP 9.2.5: Gesamtkonzept Bewegungsparcours im Kölner Grün - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Projekt: Ökologische Wiederherstellung wertgebender Streuobst- Altbestände - Kenntnis genommen
+- TOP 10.2.2: Verbundprojekt Hitzeaktionsplan für Menschen im Alter für die Stadt Köln - Kenntnis genommen
+- TOP 10.2.3: Ziel- und Leistungsvereinbarung 2019 - Bürgerzentrum Chorweiler - Kenntnis genommen
+- TOP 10.2.4: Kölner Statistische Nachrichten 2/2019 „Besser als ihr Ruf – Eine Image-Analyse der Stadtteile des Stadtbezirks Chorweiler“ - Kenntnis genommen
+- TOP 10.2.5: Verbraucherberatung im Quartier: Jahresbericht 2018 - Kenntnis genommen
+- TOP 10.2.6: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 10.2.7: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 10.2.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.9: Betreff: Offenlage des Bebauungsplans 60539/04; Arbeitstitel „Griesberger Straße“ in Köln-Esch/Auweiler im ergänzenden Verfahren nach § 214 Absatz 4 BauGB - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.3: Anfragen der Seniorenvertretung
