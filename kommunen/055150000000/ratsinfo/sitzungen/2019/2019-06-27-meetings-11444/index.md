@@ -1,0 +1,58 @@
+# 47. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-06-27T17:06:00+02:00
+- Ende: 2019-06-27T20:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11444
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11444
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00445475.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 2: Anregungen gemäß § 24 GO NRW
+- TOP 3: Anliegen des Jugendrates
+- TOP 4: Anfragen
+- TOP 4.1: Baustellenstraße Oxfordkaserne - zur Kenntnis genommen
+- TOP 5: Berichte
+- TOP 5.1: 3. städtische Gesamtschule - Bericht der Verwaltung über den Zwischenstand
+- TOP 5.2: Faire Stadtteile
+- TOP 5.3: Bebauungsplan Nr. 268, 3. Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 5.4: Bebauungsplan Nr. 312, 3. Änderung - Kenntnisnahme des Entwurfs zur Offenlegung - zur Kenntnis genommen
+- TOP 5.5: 2. Änderung des Bebauungsplans Nr. 409 - Kenntnisnahme des Entwurfs zur öffentlichen Auslegung - zur Kenntnis genommen
+- TOP 6: Entscheidungen
+- TOP 6.1: Bestellung einer Trägervertreterin/eines Trägervertreters für die städt. Kindertageseinrichtung Gievenbeck, Weitkampweg 1 - vertagt
+- TOP 6.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 6.3: Baugebiet Mecklenbeck - Weseler Straße / Meckmannweg / Schwarzer Kamp - einstimmig beschlossen
+- TOP 6.4: Rüschhausweg - barrierefreier Ausbau der Haltestellen "Ahausweg" und Instandsetzung des Gehwegs - einstimmig beschlossen
+- TOP 6.5: Sanierung von Spielplätzen im Stadtbezirk Münster-West im Haushaltsjahr 2019 -Planungs- und Baubeschluss - einstimmig beschlossen
+- TOP 7: Anhörungen
+- TOP 7.1: Intensivierung der Baulandentwicklung - Fortschreibung des Baulandprogramms 2019 - 2025/2030 - einstimmig geändert beschlossen
+- TOP 7.2: Bebauungsplan Nr. 602 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.3: 2. Änderung des Bebauungsplans Nr. 409 - Geänderter Beschluss zur Änderung - einstimmig beschlossen
+- TOP 7.4: Neue Qualitätsstandards für Fahrradstraßen - einstimmig geändert beschlossen
+- TOP 7.5: Ergebnisse der Machbarkeitsstudie zum barrierefreien Ausbau von Bahnhaltepunkten in Münster-Sprakel, -Albachten und -Amelsbüren - einstimmig geändert beschlossen
+- TOP 7.5.1: Umgestaltung des Bahn-Haltepunktes in Münster-Albachten - beantwortet
+- TOP 7.6: B-Plan Nr. 579: "Gievenbeck-Oxford-Quartier (Roxeler Straße/Dieckmannstraße/Gievenbecker Reihe/Niedenstiege)", Ausbau der Knotenpunkte und der Roxeler Straße im Bereich der Oxford-Kaserne - von der Tagesordnung abgesetzt
+- TOP 7.6.1: Radweg auf der stadteinwärts führenden Seite der Roxeler Straße - von der Tagesordnung abgesetzt
+- TOP 7.7: Kindertagesbetreuungsbericht 2019 - einstimmig beschlossen
+- TOP 7.8: Änderungen der Satzung und Wahlordnung des Jugendrates sowie des Jugendamtes der Stadt Münster - einstimmig beschlossen
+- TOP 7.9: Investitionen der Mitgliedsvereine des Stadtsportbund Münster e. V. in Vereinsanlagen, - einstimmig beschlossen
+- TOP 7.10: Eine attraktive Bäderlandschaft für Münster - mehrheitlich abgelehnt
+- TOP 7.11: Neubau des Feuerwehrhauses für den Löschzug Roxel der Freiwilligen Feuerwehr Münster, Tilbecker Straße - einstimmig beschlossen
+- TOP 7.12: Neubau einer 2-zügigen Grundschule mit der Option zur Erweiterung zur 3-Zügigkeit und Neubau einer Zweifachsporthalle in Sprakel und - einstimmig beschlossen
+- TOP 7.13: Neubau einer 6-Gruppen-Kindertageseinrichtung am Nottulner Landweg in Münster-Roxel - einstimmig beschlossen
+- TOP 8: Neue Anregungen/Anträge
+- TOP 8.1: Herstellung des Fuß- und Radweges zwischen Ripenhorst/Rockbusch und Heroldstraße/Galgenheide - eingebracht
+- TOP 8.2: Rückbau der Einmündung Untietheide in die Weseler Straße - eingebracht
+- TOP 8.3: Nutzung des städtischen Grundstücks Untietheide - eingebracht
+- TOP 8.4: Öffentlichkeitscharakter der Eltingstraße sichtbarer machen - eingebracht
+- TOP 9: Stellungnahmen zu eingebrachten Anregungen/Anträgen
+- TOP 9.1: Barrierefreiheit und Aufenthaltsqualität des Forums bei Marktkauf - mehrheitlich abgelehnt
+- TOP 9.2: Masterplan Gievenbeck 2040 entwickeln - Zwischenmitteilung zur Kenntnis genommen
+- TOP 9.3: Historischer Grenzstein zwischen Nienberge und Gievenbeck - zur Kenntnis genommen
+- TOP 10: Verschiedenes
