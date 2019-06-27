@@ -1,0 +1,87 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-06-27T16:10:00+02:00
+- Ende: 2019-06-27T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20213
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20213
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 26.06.2019 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00724805.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 26.06.2019 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00724805.pdf
+- Wortprotokoll: Tagesordnung, Stand 26.06.2019 https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00724805.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.1.1: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - zurückgestellt
+- TOP 1.2: Nachhaltigkeit bei Veranstaltungen der Stadt Köln - Sache ist erledigt
+- TOP 1.2.1: Nachhaltigkeit bei Veranstaltungen der Stadt Köln - Kenntnis genommen
+- TOP 1.3: Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - zurückgestellt
+- TOP 1.3.1: Anfrage der Ratsgruppe BUNT gemäß § 4 der Geschäftsordnung des Rates im Ausschuss für Umwelt und Grün zu einem Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - zurückgestellt
+- TOP 1.4: Strunde: Herstellung der Durchgängigkeit im Bereich Wichheimer Mühle - Sache ist erledigt
+- TOP 1.4.1: Stellungnahme zur Anfrage der Fraktion die Linke, AN/0482/2019 Strunde: Herstellung der Durchgängigkeit im Bereich Wichheimer Mühle - Kenntnis genommen
+- TOP 1.5: Naturnahe Bepflanzung auf städtischen Grün- und Ackerflächen - Sache ist erledigt
+- TOP 1.5.1: Anfrage der Ratsgruppe GUT in der Sitzung des Ausschusses Umwelt und Grün am 09.05.2019 - Kenntnis genommen
+- TOP 1.6: Gebühren für ordnungswidriges Wegwerfen – plant auch Köln eine Erhöhung? - zurückgestellt
+- TOP 1.7: Wird der Kalkberg schon genutzt? - Sache ist erledigt
+- TOP 1.7.1: Gutachten zum Kalkberg (1641/2019) - Kenntnis genommen
+- TOP 1.7.2: Beantwortung der Anfrage Wird der Kalkberg schon genutzt? - Kenntnis genommen
+- TOP 1.8: Einflüsse des Flughafens Köln/Bonn auf die Umwelt - Sache ist erledigt
+- TOP 1.8.1: Anfrage der Fraktion DIE LINKE im Rat der Stadt Köln (AN/0845/2019) vom 13.06.2019 betr. "EInflüsse des Flughafens Köln/Bonn auf die Umwelt - Kenntnis genommen
+- TOP 1.9: Rather See - Umwelt schützen! - zurückgestellt
+- TOP 1.10: Umweltmaut für Köln - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientiert; Nahrung und Erfahrugnsraum für unsere Stadt - Sache ist erledigt
+- TOP 2.1.1: Urbane Landwirtschaft in Köln – nachhaltig und ökologisch orientierte Nahrung für unsere Stadt - ungeändert beschlossen
+- TOP 2.2: Kampagne gegen weggeworfene Zigarettenstummel - endgültig zurückgezogen
+- TOP 2.2.1: Kampagne gegen weggeworfene Zigarettenstummel - Kenntnis genommen
+- TOP 2.2.2: Stellungnahme zum Antrag AN/0308/2019 "Kampagne gegen weggeworfene Zigarettenstummel" - Kenntnis genommen
+- TOP 2.3: Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen! - Sache ist erledigt
+- TOP 2.3.1: Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen! - zu AN/0486/2019 - Kenntnis genommen
+- TOP 2.3.2: Änderungsantrag der Fraktion Die Linke zu Top 2.3 "Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen!" - endgültig abgelehnt
+- TOP 2.3.3: Gemeinsamer Änderungsantrag von CDU-Fraktion und Fraktion Bündnis 90 / Die Grünen betreffend TOP 2.3 Aktiver kommunaler Klimaschutz: städtische Gebäude an das Fernwärmenetz anschließen! AN/0486/2019 - geändert beschlossen
+- TOP 2.4: Versiegelung von privaten Vorgärten verhindern - Sache ist erledigt
+- TOP 2.4.1: Versiegelung von privaten Vorgärten verhindern - AN/0734/2019 - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Evaluierungsbericht Förderprogramm Altbausanierung und Energieeffizienz - klimafreundliches Wohnen - Kenntnis genommen
+- TOP 3.2: Kölner Abschlusskonferenz zum EU-Projekt „GrowSmarter“ 03.-05.06.2019 - Kenntnis genommen
+- TOP 3.3: Klimapartnerschaft Köln - Yarinacocha - Kenntnis genommen
+- TOP 3.4: Jahresbericht 2018 der Koordinationsstelle Klimaschutz - zurückgestellt
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Planungsbeschluss für Projekte im Botanischen Garten, Amsterdamer Straße 34, 50735 Köln - Sanierung des Subtropenhauses - ungeändert empfohlen
+- TOP 4.1.2: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 4.1.3: Rheinboulevard - ungeändert empfohlen
+- TOP 4.1.4: ISEK Porz-Mitte - Glashütte - unter Vorbehalt beschlossen
+- TOP 4.1.5: 4.7.1 "Integrierte Maßnahme zur ökologischen Revitalisierung Westerwaldstraße" - ohne Votum in nachfolgende Gremien
+- TOP 4.1.6: Gesamtkonzept Bewegungsparcours im Kölner Grün - ungeändert empfohlen
+- TOP 4.1.7: Altlastensanierung des kieselrotbelasteten Bolzplatzes Herler Ring 176, in Köln-Buchheim - ungeändert empfohlen
+- TOP 4.1.8: Freigabe- und Baubeschluss über die Maßnahme "Partizipatorische Neugestaltung Platz an St. Adelheid" in Köln-Neubrück aus dem Programm "Starke Veedel – Starkes Köln" (Einzelmaßnahme 2.10.4 im Sozialraum Ostheim und Neubrück) - ohne Votum in nachfolgende Gremien
+- TOP 4.1.9: Klimanotstand - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Beschaffung von 1 LKW mit Hubarbeitsbühne für die Pflege und Unterhaltung Straßenbäume - ungeändert beschlossen
+- TOP 4.2.2: Bürgereingabe gem. § 24 GO NRW, betr. Resolution zur Ausrufung des Climate Emergency - ohne Votum in nachfolgende Gremien
+- TOP 4.2.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Energiebericht 2018: Energieverbrauchs- und Kostenstatistik 2017/Sachstand Energiemanagementkonzept 2018 - Kenntnis genommen
+- TOP 7.2: Anfrage der Ratsgruppe GUT in der Ratssitzung am 21.05.2019, hier: Urbanes Grün im Klimawandel - Kenntnis genommen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Stilllegung der städtischen Altdeponie Butzweiler Straße in Köln-Ossendorf - Kenntnis genommen
+- TOP 7.4: Verbundprojekt Hitzeaktionsplan für Menschen im Alter für die Stadt Köln - Kenntnis genommen
+- TOP 7.5: Bericht über die Entwicklung des Ausbaus der Erneuerbaren Energien im Bereich der RheinEnergie AG - Kenntnis genommen
+- TOP 7.6: Stadtklima-/Stadtverschönerungsprogramm 2019 Stadtbezirk Ehrenfeld- Nachfrage zum Aktionstag "Verschenken von Obstbäumen" - Kenntnis genommen
+- TOP 7.7: Verbraucherberatungsstelle Köln: Jahresbericht 2018 - Kenntnis genommen
+- TOP 7.8: Verbraucherberatung im Quartier: Jahresbericht 2018 - Kenntnis genommen
+- TOP 7.9: Präsentation zweier DVDs zu Projekten der Umweltbildung/Biodiversität - Kenntnis genommen
+- TOP 7.10: Sachstand Grüne Infrastruktur Köln "Vielfalt vernetzen!" - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
