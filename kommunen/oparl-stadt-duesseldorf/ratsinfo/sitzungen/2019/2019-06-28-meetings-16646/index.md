@@ -1,0 +1,64 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-06-28T14:00:00+02:00
+- Ende: 2019-06-28T18:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16646
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16646
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345832.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345832.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345832.pdf
+
+## Tagesordnung
+
+- TOP 6.1: Sicherheit im Bahnhofsviertel - zur Kenntnis genommen
+- TOP 6.18: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B); Förderung Dritter Liste C) - Haushalt 2019, Blühendes Düsseldorf - - einstimmig beschlossen
+- TOP 6.19: Inselstraße - Öffnung der Einbahnstraße für gegenläufi-gen Radverkehr - begleitende Maßnahmen - zur Kenntnis genommen
+- TOP 6.20: Zwischennutzung Mühlenstraße - zur Kenntnis genommen
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift der Sitzung vom 24. Mai 2019 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sondersitzung vom 09.01.2019 - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 5: Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 6: Verwaltungsvorlagen und mündliche Berichte
+- TOP 6.2: Sachstandsbericht zu Fahrradabstellanlagen für die Stadtbezirke 1-10 - zur Kenntnis genommen
+- TOP 6.3: Abbruch der Fußgängerbrücke Kennedydamm und hierfür erforderliche Baumfällungen und Rodungen von Buschwerk - zur Kenntnis genommen
+- TOP 6.4: Einrichtung von Taxenplätzen auf der Derendorfer Allee - einstimmig beschlossen
+- TOP 6.5: Parkraumbewirtschaftung für den kleinen Parkplatz am Robert-Lehr-Ufer - einstimmig beschlossen
+- TOP 6.6: Südlich An der Piwipp - Unterrather Hallenbad - einstimmig beschlossen
+- TOP 6.7: Bebauungsplan-Vorentwurf Nr. 01/015 Öffentlichkeitsbeteiligung - einstimmig beschlossen
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Bilker Straße 23 - Rückbau der Gebäude - vertagt
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Wellness- und Gesundheitsmarkt in den Schadow Arkaden am Sonntag, dem 27.10.2019 - einstimmig beschlossen
+- TOP 6.13: Stadtbaumkonzept für Düsseldorf - 1. Pflanzsaison - einstimmig beschlossen
+- TOP 6.14: Zuschuss an den Düsseldorfer Yachtclub e.V. - einstimmig beschlossen
+- TOP 6.15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Städtische Gebäude - einstimmig beschlossen
+- TOP 6.16: Berichtswesen Bezirksvertretung 1 - 1. Halbjahr 2019 - zur Kenntnis genommen
+- TOP 6.17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - einstimmig beschlossen
+- TOP 7: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 8: Anfragen
+- TOP 8.1: Hofgarten - Sicherheitslage - zur Kenntnis genommen
+- TOP 8.2: Kupferdiebstahl Schwanenhaus - zur Kenntnis genommen
+- TOP 8.3: Blockierung des Rad- und Rollatorenweg auf dem Burgplatz
+- TOP 8.4: Entwicklung der Gänsepopulation im Stadtbezirk 1
+- TOP 9: Anträge
+- TOP 9.1: Aufstellen von Sammelbehältern zur Entsorgung von Elektrokleingeräten - mehrheitlich beschlossen
+- TOP 9.2: Reinigen und Neuanstrich der Straßenlampen in der Flinger Straße - einstimmig beschlossen
+- TOP 9.3: Barrierefreiheit des Fußgängerüberwegs am Ulanendenkmal - einstimmig beschlossen
+- TOP 9.4: Fahrradständer an den Baumscheiben auf der Rolandstraße - einstimmig beschlossen
+- TOP 9.5: Liegewiesen kennzeichnen - einstimmig beschlossen
+- TOP 9.6: Tempo 30 auf der Eulerstraße - mehrheitlich beschlossen
+- TOP 9.7: Auslaufplätze für Hunde in Grünanlagen - mehrheitlich beschlossen
+- TOP 9.8: Anpassung der Öffnungszeiten der Streetballanlage auf dem Spichernplatz - mehrheitlich beschlossen
+- TOP 9.9: Parkplatz für Krafträder auf der Blücherstraße in Höhe der Stadtbücherei - mehrheitlich beschlossen
+- TOP 9.10: Leerstand von Ladenlokalen im Stadtbezirk - mehrheitlich abgelehnt
+- TOP 9.11: Aufstellen von Hinweis-Schildern „Hunde bitte anleinen“ und „Radfahren verboten“ auf dem - zurückgezogen
+- TOP 9.12: Aufstellen von Hinweis-Schildern „Hunde bitte anleinen“ auf dem Golzheimer Friedhof - einstimmig beschlossen
+- TOP 9.13: Studentisches Wettbewerbsverfahren für den Rochusmarkt - mehrheitlich abgelehnt
+- TOP 10: Verschiedenes - zur Kenntnis genommen
