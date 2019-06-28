@@ -1,0 +1,52 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-06-28T16:00:00+02:00
+- Ende: 2019-06-28T19:07:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16263
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16263
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345933.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345933.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00345933.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Zulassung einer Vertreterin des Seniorenbeirates gemäß § 58 Gemeindeordnung NRW
+- TOP 4: Zulassung von Sachverständigen
+- TOP 5: Genehmigung Niederschrift vom 17.05.2019
+- TOP 6: Verbesserung des ÖPNV im Düsseldorfer Süden - mündl. Vortrag
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Bebauungsplan Nr.09/021 Spangerstraße
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Itterstraße – Umgestaltung des Straßenraums
+- TOP 12: BSA Am Wald 2. BA - Bedarfsbeschluss
+- TOP 13: Sachstandsbericht zu Fahrradabstellanlagen für die Stadtbezirke 1-10
+- TOP 14: Stadtbaumkonzept für Düsseldorf - 1. Pflanzsaison
+- TOP 15: Bezirklicher Bauunterhalt 2019 (Liste A, Schulen)
+- TOP 16: Bezirklicher Bauunterhalt 2019 (Liste B)
+- TOP 17: Anfrage: ÖPNV-Vorrangschaltung U71/U83
+- TOP 18: Anfrage: Straßenzustandsbewertung Am Wald
+- TOP 19: Anfrage: Deichsanierung Himmelgeister Landstraße
+- TOP 20: Anfrage: Neuplanung des Geländes der alten Eissporthalle Paulsmühlenstraße
+- TOP 21: Anfrage: Bürgersteig Hügelstraße
+- TOP 22: Anfrage: Messung der Stickstoffoxid-Belastung auf der Kölner Landstraße
+- TOP 23: Antrag: Rotlichtüberwachung Münchener Straße
+- TOP 24: Antrag: Hochwasserschutzprojekt Himmelgeister Rheinbogen
+- TOP 25: Antrag: Benrather Schloßufer / Am Wasserturm / Im Diepental
+- TOP 26: Antrag: RRX-Planung - Fuß- und Radwegeverbindung Reisholz-Hassels
+- TOP 27: Antrag: Blumenwiesen statt Grünstreifen
+- TOP 28: Antrag: Erbbaurechte auf dem Grundstück Ickerswarder Str.. Ecke Münchener Straße
+- TOP 29: Antrag: Errichten einer Überquerungshilfe auf der Harffstraße
+- TOP 30: Antrag: Taubenplage an Zuwegung Paulsmühle
+- TOP 31: Antrag: Verfügungsmittel St. Sebastianus Reiterkorps Düsseldorf-Wersten e.V. - Werstener Reitertag
+- TOP 32: Antrag: Verfügungsmittel Turnerbund Hassels 1925 e.V. - Deutsche Tchoukball Meisterschaft
+- TOP 33: Antrag: Verfügungsmittel Wir in Wersten e.V. - Rock am Bach
+- TOP 34: Antrag: Verfügungsmittel - Heimatgemeinschaft Groß-Bemrath - Sommerfest - interfraktionell -
+- TOP 35: Informationsvorlage Grundstück Ickerswarder/Münchener Straße
