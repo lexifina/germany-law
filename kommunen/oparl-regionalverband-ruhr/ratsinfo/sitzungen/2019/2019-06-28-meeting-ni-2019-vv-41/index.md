@@ -1,0 +1,64 @@
+# 23. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2019-06-28T10:00:00+02:00
+- Ende: 2019-06-28T12:00:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2019-VV-41
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2019-VV-41
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-VV-41
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-VV-41
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-VV-41
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 29.03.2019
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Vorlagen der Bezirksregierungen/Strukturausschuss
+- TOP 1.1: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2019
+- TOP 1.1.1: Städtebauförderung hier: Vorschlag für das Städtebauförderprogramm 2019 Änderungsantrag zu Drucksache Nr. 13/1455
+- TOP 1.2: Städtebauförderung hier: Vorschlag für das Sonderförderprogramm „Investitionspakt Soziale Integration im Quartier 2019“
+- TOP 1.2.1: Städtebauförderung hier: Transparenz in der Darstellung der Mittelvergaben erhöhen
+- TOP -: Vorlagen des Regionalverband Ruhr/Planungsausschuss
+- TOP 1.3: Resolution des Kreises Wesel 'Nachhaltigkeit beim Kiesabbau'
+- TOP 1.3.1: Antrag Nachhaltigkeit beim Kiesabbau hier: Rechtliche Möglichkeiten nutzen
+- TOP 1.4: Regionaler Diskurs Regionalplan Ruhr und Handlungsprogramm zur räumlichen Entwicklung der Metropole Ruhr: Sachstandsberichte
+- TOP 1.5: Auswirkungen der geplanten LEP-Änderungen auf die Festlegungen des Regionalplans Ruhr
+- TOP 1.6: Vorläufige Zeitplanung bei der Aufstellung des Regionalplans Ruhr
+- TOP 1.7: Anfragen und Mitteilungen
+- TOP 1.7.1: Flächenbilanz zum Entwurf des RPR, hier: Antwort der Verwaltung auf die CDU-Anfrage vom 12.06.2019
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen ohne Ausschussbeteiligung
+- TOP 2.1: Umbesetzung von Gremien
+- TOP 2.1.1: Umbesetzung im Umweltausschuss
+- TOP 2.1.2: Arbeitskreis Europa, hier: Bestätigung der personellen Besetzung
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP 2.2: Bericht über die Prüfung des Jahresabschlusses 2017, Feststellung des Jahresabschlusses 2017 und Entlastung der Regionaldirektorin für den Zeitraum 01.01.2017 bis 31.12.2017
+- TOP 2.2.1: Genehmigung der Festsetzung des Umlagesatzes für das Haushaltsjahr 2019 durch das Ministerium für Heimat, Kommunales, Bau und Gleichstellung des Landes Nordrhein-Westfalen (ohne Vorberatung im Verbandsausschuss)
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.3: Weiterentwicklung des Regionalen Radwegenetz Hier: Ergebnis der kommunalen Befassung und Beschlussfassung
+- TOP 2.3.1: Weiterentwicklung des Regionalen Radwegenetzes Änderungsantrag zu Drucksache Nr. 13/1399, Anlage 3, Synopse
+- TOP 2.3.2: Weiterentwicklung des Regionalen Radwegenetzes Änderungsantrag zur Drucksache Nr. 13/1399, Anlage 3, Synopse
+- TOP 2.4: Entwicklung einer EuroVelo der Industriekultur im Rahmen des internationalen Netzwerks
+- TOP 2.5: Auf dem Weg zu einem Freizeit-/Tourismuskonzept Metropole Ruhr Hier: Sachstandsbericht
+- TOP 2.5.1: Auf dem Weg zu einem Freizeit-/ und Tourismuskonzept Metropole Ruhr
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.6: Angelegenheiten der Ruhrwind Herten GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.7: EKOCity GmbH - Änderung der Satzung
+- TOP 2.8: Angelegenheiten der IGA Metropole Ruhr 2027
+- TOP 2.8.1: IGA Metropole Ruhr 2027 – Beschluss zur Gründung der Durchführungsgesellschaft „Internationale Gartenausstellung (IGA) Metropole Ruhr 2027 gGmbH“ und aktueller Sachstand
+- TOP 2.8.2: IGA Metropole Ruhr 2027 gGmbH – Bestellung von Vertreter*innen in den Aufsichtsrat
+- TOP -: Fraktionsanträge
+- TOP 2.9: Klimaoffensive.Ruhr
+- TOP 2.10: Anfragen und Mitteilungen
+- TOP 2.10.1: Übersicht über die Fraktionsanfragen aus dem Jahr 2018
+- TOP 2.10.2: Anfrage der SPD-Fraktion Planung und den Bau des dritten Bauabschnitts der Fuß- und Radwegeverbindung auf der ehemaligen Zechenbahntrasse König-Ludwig auf der gesamten Länge zwischen Castrop-Rauxel und Oer-Erkenschwick
+- TOP -: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
