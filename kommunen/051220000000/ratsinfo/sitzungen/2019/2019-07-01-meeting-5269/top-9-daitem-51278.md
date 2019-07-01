@@ -1,0 +1,7 @@
+# TOP 9.: Fachstelle für soziale Kompetenz und Gewaltprävention/Vorbeugender Jugendschutz hier: Sachstandsbericht
+
+- Sitzung: Jugendhilfeausschuss (31. Sitzung) (2019-07-01)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/51278
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/30387
