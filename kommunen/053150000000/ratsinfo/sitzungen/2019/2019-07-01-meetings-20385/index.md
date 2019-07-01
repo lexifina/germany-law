@@ -1,0 +1,109 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-01T16:00:00+02:00
+- Ende: 2019-07-01T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20385
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20385
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00725493.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00725493.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00725493.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Fußgängerüberweg an Gefahrenstelle Unterführung A4/ Berrenrather Straße in Hürth Efferen/ Köln Sülz (Az.: 02-1600-49/19) - ungeändert beschlossen
+- TOP 5.2: Bürgereingabe gem. § 24 GO, betr.: Gefahrenstelle Mommsenstr./Curtiusstr. (Az.: 02-1600-44/19) - geändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Leerstand im städtischen Wohnungsbestand (AN/0565/2019) - Kenntnis genommen
+- TOP 7.1.2: Kölner Stadion EM 2024 - Kenntnis genommen
+- TOP 7.1.3: Verkehrsberuhigung in der Moltkestraße, KölnWeiden/Lövenich - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Demontage einer Lichtsignalanlage Hauptstraße/Leonardsgasse/Blaugasse - zurückgestellt
+- TOP 7.2.2: Illegales Gehwegparken - zurückgestellt
+- TOP 7.2.3: Parken Beethovenpark - zurückgestellt
+- TOP 7.2.4: Verlegung des Großmarktes - zurückgestellt
+- TOP 7.2.5: Leerstände in Klettenberg - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Busverbindung Klettenberg-Sülz-Lindenthal-Müngersdorf - ungeändert beschlossen
+- TOP 8.1.2: Prüfantrag Taktverdichtung Buslinie 144 - ungeändert beschlossen
+- TOP 8.1.3: Klimanotstand - ungeändert beschlossen
+- TOP -: Änderungsantrag zu TOP 8.1.3 - Klimanotstand - endgültig abgelehnt
+- TOP 8.1.4: Beflaggung CSD - ungeändert beschlossen
+- TOP 8.1.5: Minimierung ökologische Schäden Lärmschutzwand Egelspfad - ungeändert beschlossen
+- TOP 8.1.6: Gefährliche Situation Ecke Scheidtweiler Str. /Maarweg - ungeändert beschlossen
+- TOP 8.1.7: Verwendung Stadtklima/Stadtverschönerungsmittel 2019 - ungeändert beschlossen
+- TOP 8.1.8: Bürgerbeteiligung Petershof Köln - ungeändert beschlossen
+- TOP 8.1.9: Sozialraummanagement in Weiden Süd und unteres Müngersdorf - ungeändert beschlossen
+- TOP 8.1.10: Verkabelung Grundschule Wendelinstr. - ungeändert beschlossen
+- TOP 8.1.11: Einrichtung Radspur Stolberger Str. - ungeändert beschlossen
+- TOP 8.1.12: Parkverbot Bürgersteig Hauptstraße/Heckgasse - ungeändert beschlossen
+- TOP 8.1.13: Ergänzungsamtrag zu TOP 8.1.11 vom 06.05.2019 - geändert beschlossen
+- TOP 8.1.14: Bezirksorientierte Mittel - ungeändert beschlossen
+- TOP 8.1.15: Änderungsantrag Busspur Aachener Str - Sache ist erledigt
+- TOP 8.1.16: Parkpalette Weiden West - geändert beschlossen
+- TOP 8.1.17: Offenlegung Pläne Rhein Energie Sportpark - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Waldsiedlung in Köln-Junkersdorf, hier: Ausbau der Grünverbindung - ungeändert beschlossen
+- TOP 9.1.2: Entwurf der Fortschreibung des Strassenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.3: Trinkbrunnenstandort Lindenthal - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Parkgebührenordnung 2019 - geändert beschlossen
+- TOP 9.2.2: Stärkung und Ausweitung des KVB-Stadtbahnnetzes - ungeändert beschlossen
+- TOP 9.2.3: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert beschlossen
+- TOP 9.2.4: Busnetzerweiterung Interim - geändert beschlossen
+- TOP -: Ergänzungsantrag zu 9.2.4 - ungeändert beschlossen
+- TOP 9.2.5: Beschluss über die Aufhebung der Einleitungsbeschlüsse zu den Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) – Arbeitstitel: Alsdorfer Straße in Köln-Ehrenfeld und Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld - geändert beschlossen
+- TOP 9.2.6: 3. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen im Jahr 2019 - ungeändert beschlossen
+- TOP 9.2.7: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Scheidtweilerstraße 44-48 in Köln-Braunsfeld - geändert beschlossen
+- TOP 9.2.8: Gesamtkonzept Bewegungsparcours im Kölner Grün - geändert beschlossen
+- TOP 9.2.9: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan), Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 9.2.10: Einrichtungs- und Mittelfreigabebeschluss für Theodor-Heuss-Realschule, Euskirchener Straße 50, 50937 Köln-Sülz - ungeändert beschlossen
+- TOP 9.2.11: TU-/GU-Schulbaumaßnahmenpaket: Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer – Erweiterung und Aktualisierung - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Digitale Kundenwand beziehungsweise Anzeigetafel im Kundenzentrum - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Unterführung Widdersdorfer Straße/Girlitzweg - Kenntnis genommen
+- TOP 11.3.2: Betreff: Teilaufhebung des Bebauungsplanes 63429/06; Arbeitstitel: Hermeskeiler Platz in Köln-Sülz; Hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 11.3.3: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 11.3.4: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 11.3.5: Inbetriebnahme Bewohnerparkgebiet Lindenthal-Nord III (Piusstraße) - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen aus vorangegangenen Sitzungen
+- TOP 12.1.1: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 12.1.2: Freie Baumscheiben in Sülz - zurückgestellt
+- TOP 12.1.3: Umsetzung eines BV-Beschlusses vom 24.09.2018 - zurückgestellt
+- TOP 12.1.4: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
+- TOP 12.1.5: Anfrage Freifläche Grundschule Wendelinstr. - zurückgestellt
+- TOP 12.1.6: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - zurückgestellt
+- TOP 12.1.7: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.1.8: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.1.9: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.1.10: Leerstand der Wohnblöcke Friedrich- Engels- Str. 3-7 - zurückgestellt
+- TOP 12.1.11: Zukünftige Planung für das Haus Kyllburger Straße 3 in Sülz - zurückgestellt
+- TOP 12.1.12: Neubauprojekt Clarenbachstift - zurückgestellt
+- TOP 12.1.13: Mobilitätsstation Klettenberggürtel - zurückgestellt
+- TOP 12.1.14: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.1.15: Zentraler Verkehrsrechner und Ampelprogramm - zurückgestellt
+- TOP 12.1.16: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 12.1.17: Bearbeitungsstand Sicherung Bushaltestellen - zurückgestellt
+- TOP 12.1.18: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.1.19: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
