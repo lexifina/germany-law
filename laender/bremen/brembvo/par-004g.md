@@ -1,0 +1,2 @@
+# § 4g Ambulant betreute Wohngruppen
+Entstehen Aufwendungen nach § 4b Absatz 1 bis 3 oder nach § 4c in ambulant betreuten Wohngruppen und sind auch die Voraussetzungen nach § 38a Absatz 1 des Elften Buches Sozialgesetzbuch erfüllt, wird eine weitere Beihilfe entsprechend § 38a Absatz 1 des Elften Buches Sozialgesetzbuch zum jeweiligen Bemessungssatz gewährt. Daneben sind Aufwendungen im Rahmen der Anschubfinanzierung zur Gründung ambulant betreuter Wohngruppen entsprechend § 45e des Elften Buches Sozialgesetzbuch beihilfefähig.
