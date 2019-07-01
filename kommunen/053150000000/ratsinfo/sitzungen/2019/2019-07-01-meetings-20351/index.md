@@ -1,0 +1,65 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-01T17:00:00+02:00
+- Ende: 2019-07-01T18:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20351
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20351
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: EU-Charta - 2. Kölner Gleichstellungsaktionsplan - ungeändert beschlossen
+- TOP 1.2: Bericht zum Bündnis "Mit Frauen in Führung" FEMALE RESOURCES - Kenntnis genommen
+- TOP 1.3: Einführung eines Frauenpreises in Köln; hier: ELSE-FALK-Preis - ungeändert beschlossen
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Beantwortung der mündlichen Anfrage betreffend TOP 4.3 (1117/2019) "Berechnung der Beschäftigungsquote schwerbehinderter Menschen im Erfahrungsbericht 2017" zur Sitzung vom 13.05.2019 - Kenntnis genommen
+- TOP 3.2: Anfrage der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" zur Sitzung vom 12.11.2018 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/1578/2018 der SPD-Fraktion betreffend "Förderrichtlinien für die Mittel zur Unterstützung und Förderung des Jugendaustausches Köln-Tel Aviv" - Kenntnis genommen
+- TOP 3.3: Anfrage der Fraktion DIE LINKE betreffend "Das Kölner Taxigewerbe und Uber" zur Sitzung vom 13.05.2019 - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0648/2019 der Fraktion DIE LINKE betreffend "Das Kölner Taxigewerbe und Uber" zur Sitzung vom 13.05.2019 - zurückgestellt
+- TOP 3.4: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Erweiterung der "Sag´s-uns-App" der Stadt Köln um zwei Kategorien" zur Sitzung vom 13.05.2019 - zurückgestellt
+- TOP -: Beantwortung der Anfrage AN/0416/2019 der Fraktion Bündnis 90/Die Grünen betreffend "Erweiterung der "Sag's-uns-App" um zwei Kategorien" zur Sitzung vom 13.05.2019 - zurückgestellt
+- TOP 3.5: Beantwortung der mündlichen Anfrage betreffend "Kameras mit Mikrofoneinrichtungen in U-Bahnen " zur Sitzung vom 13.05.2019 - Kenntnis genommen
+- TOP 3.6: Beantwortung der mündlichen Anfrage betreffend "Inklusionstaxen in Köln" zur Sitzung vom 04.02.2019 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Mitteilung zum Änderungsbeschluss vom 23.04.2018 (AN/0629/2018) und Zwischenbericht zum "Zielbild 2020 - Maßnahmen zur Stärkung des städtischen Ordnungsdienstes" - Kenntnis genommen
+- TOP 4.2: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - zurückgestellt
+- TOP 4.3: Kölner Abschlusskonferenz zum EU-Projekt „GrowSmarter“ 03.-05.06.2019 - Kenntnis genommen
+- TOP 4.4: Klimapartnerschaft Köln - Yarinacocha - Kenntnis genommen
+- TOP 4.5: Europawahl 2019 - Kenntnis genommen
+- TOP 4.6: ZukunftsLabor der Stadt Köln - Kenntnis genommen
+- TOP 4.7: Stellungnahme zum Antrag AN/0581/2019 der SPD-Fraktion und der Gruppe BUNT betreffend "Führerscheinumtausch online ermöglichen" - Kenntnis genommen
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 6.1: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreffend "Ordnungswidriges Wegwerfen von Zigarettenkippen" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0629/2019 der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betreffend "Ordnungswidriges Wegwerfen von Zigarettenkippen" - Kenntnis genommen
+- TOP 6.2: Anfrage der SPD-Fraktion betreffend "Milieuschutzsatzungen endlich beschließen! – die Zweite" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0842/2019 der SPD-Fraktion betreffend "Milieuschutzsatzungen endlich beschließen! - die Zweite" - Kenntnis genommen
+- TOP 6.3: Anfrage der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreffend "Sachstand zur städtischen Förderung der Karnevalsumzüge in den Stadtteilen" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0961/2019 der CDU-Fraktion und Fraktion Bündnis 90/Die Grünen betreffend "Sachstand zur städtischen Förderung der Karnevalsumzüge in den Stadtteilen" - Kenntnis genommen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage betreffen "Prävention von Waldbränden in Köln"
+- TOP 7.2: Mündliche Anfrage betreffend "Öffentliche Toilettenanlage am Fühlinger See"
+- TOP 7.3: Mündliche Anfrage betreffend "Mannschaftstransportwagen bei der Feuerwehr"
+- TOP 7.4: Mündliche Anfrage betreffend "Vorfälle in Kölner Freibädern"
+- TOP 7.5: Mündliche Anfrage betreffend "Gaming-Restaurant in Köln"
+- TOP 8: Anträge
+- TOP 8.1: Antrag der SPD-Fraktion und der Gruppe BUNT betreffend "Führerscheinumtausch online ermöglichen" - endgültig zurückgezogen
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Parkgebührenordnung 2019 - ohne Votum in nachfolgende Gremien
+- TOP -: Änderungsantrag der Fraktion DIE LINKE betreffend TOP 10.1 "Parkgebührenordnung 2019" (0445/2018) - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Satzung der Stadt Köln über die Errichtung und Unterhaltung von Notunterkünften für ausländische geflüchtete Personen für die Zeit vom 01.01.2017-24.01.2018 - ungeändert beschlossen
+- TOP 10.3: Änderung der Satzung der Stadt Köln über die Errichtung und Unterhaltung von Notunterkünften für ausländische geflüchtete Personen rückwirkend ab dem - ungeändert beschlossen
+- TOP 10.4: 3. Ordnungsbehördliche Verordnung für 2019 über das Offenhalten von Verkaufsstellen im Jahr 2019 - ungeändert beschlossen
+- TOP 10.5: Gigabit Masterplan Cologne - ungeändert beschlossen
+- TOP 10.6: Bedarfsfeststellung zur weiteren Sicherstellung des Luftrettungsdienstes mit dem Intensivtransporthubschrauber (ITH) Christoph Rheinland - ohne Votum in nachfolgende Gremien
+- TOP 10.7: Beschäftigung Langzeitarbeitsloser - ohne Votum in nachfolgende Gremien
+- TOP 10.8: 2. Satzung zur Änderung der Satzung zur Erhebung einer Kulturförderabgabe im Gebiet der Stadt Köln vom 18.11.2014 - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
