@@ -1,0 +1,71 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-01T17:02:00+02:00
+- Ende: 2019-07-01T19:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20375
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20375
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Sachstand der Sportplatzplanung für Rondorf - Kenntnis genommen
+- TOP 7.1.2: Ordnungswidriges Gehwegparken - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage der BV Rodenkirchen (SPD) zur Eindämmung der nächtlichen Beleuchtung - Kenntnis genommen
+- TOP 7.1.4: Planfeststellungsverfahren für Hochwasserschutzmaßnahmen am Rhein auf dem Gebiet der Stadt Köln - Sanierung der Lindemauer in Köln-Sürth - Kenntnis genommen
+- TOP 7.1.5: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln 1366/2019 - Kenntnis genommen
+- TOP 7.1.6: Sanierung der Sporthalle des Sportparks Süd, Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Flächen für Sportplätze für den Schul- und Vereinssport im Plangebiet „Parkstadt Süd“, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Beantwortung einer Anfrage der SPD- Fraktion der BV Rodenkirchen zu zu Flächen für Sportplätze für die Schul- und Vereinssport im Plangebiet „Parkstadt Süd (AN/0776/2019) - Kenntnis genommen
+- TOP 7.2.2: Durchgangsverkehrs und Aufenthaltsqualität auf Straßen in Bayenthal, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Anmeldezahlen an den Schulen des Stadtbezirks Rodenkirchen für das Schuljahr 2019/2020, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3.1: Beantwortung der Anfrage AN/0939/2019 zu den Anmeldezahlen an den Schulen des Stadtbezirks Rodenkirchen für das Schuljahr 2019/20 - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: P+R-Platz am Bahnhof in Godorf: Aufwertung, Gemeinsamer Antrag der CDU-Fraktion und der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.2: Umwandlung der Goethestraße in Köln-Marienburg in eine Fahrradstraße, Antrag der SPD-Fraktion - geändert beschlossen
+- TOP 8.1.3: Verlegung der Haltezeiten des Bücherbusses der Stadtbibliothek in Köln-Meschenich, Antrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.5: Parkplatz Bezirkssportanlage Sürther Feld, Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.6: Hammerschmidtstraße / Kantstraße: sichere Querung für Fußgänger und Radfahrende, Antrag der Fraktion Die Grünen - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Planungsbeschluss für die Umgestaltung der Sürther Straße - geändert beschlossen
+- TOP 9.1.1.1: Ersetzungsantrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 9.1.1.2: Änderungsantrag der SPD-Fraktion - Sache ist erledigt
+- TOP 9.1.1.3: Umgestaltung der Sürther Straße - gemeinsamer Änderungsantrag - ungeändert beschlossen
+- TOP 9.1.2: Vergabe der bezirksorientierten Mittel für das Jahr 2019 im Stadtbezirk Rodenkirchen - 1. Runde - ungeändert beschlossen
+- TOP 9.1.3: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - ungeändert beschlossen
+- TOP 9.1.4: Beschluss über Stellungnahmen, Ergänzung sowie Satzungsbeschluss betreffend den BebauungsBebauungsplan-Entwurf Nummer 70380/02 Arbeitstitel: Industriestraße 131 in Köln-Rodenkirchen - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Parkgebührenordnung 2019 - mit Änderungen empfohlen
+- TOP 9.2.2: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert empfohlen
+- TOP 9.2.3: Stärkung und Ausweitung des KVB-Stadtbahnnetzes - ungeändert empfohlen
+- TOP 9.2.4: Busnetzerweiterung Interim - ungeändert empfohlen
+- TOP 9.2.5: Gesamtkonzept Bewegungsparcours im Kölner Grün - ungeändert empfohlen
+- TOP 9.2.6: TU-/GU-Schulbaumaßnahmenpaket: Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer – Erweiterung und Aktualisierung - ungeändert empfohlen
+- TOP 9.2.7: PLATZHALTER - Innenentwicklung Heidelweg in Köln-Sürth; 71376/03; Satzungsbeschluss - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); 2. Teilaufhebung des Bebauungsplanes 6440 Nd/03 (65410/03); Arbeitstitel: Kalscheurer Weg in Köln-Zollstock - Kenntnis genommen
+- TOP 10.2.2: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 10.2.3: Sanierung der Grüngürtel-Schule in der Mainstraße nach Umzug der Ernst-Moritz-Arndt-Schule - Beschluss der BV Rodenkirchen (AN/0554/2019) - Kenntnis genommen
+- TOP 10.2.4: Betreff: Bebauungsplan Nummer 67421/02: Arbeitstitel: Mannsfelder Straße/ Kreuznacher Straße in Köln Raderberg; Hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 10.2.5: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 10.2.6: Alte Trauerhalle in Weiß: Umwandlung in ein Kolumbarium - zu AN/0348/2019 - Kenntnis genommen
+- TOP 10.2.7: Bericht über den Ausgang des verwaltungsgerichtlichen Verfahrens "Bezirksvertretung Rodenkirchen gegen den Rat der Stadt Köln", VG Köln - Az. 4 K 4950/18 - Kenntnis genommen
