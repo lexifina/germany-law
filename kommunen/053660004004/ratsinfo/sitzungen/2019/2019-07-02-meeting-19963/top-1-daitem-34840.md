@@ -1,0 +1,7 @@
+# TOP 1.: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Vorstellung des Bauprogramms und Vergabe der Bauleistungen
+
+- Sitzung: Haupt- und Finanzausschuss (24. Sitzung) (2019-07-02)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/34840
+- Ergebnis: Einstimmiger Beschluss:
