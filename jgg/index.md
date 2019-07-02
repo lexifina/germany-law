@@ -202,7 +202,7 @@
 - [§ 90 Jugendarrest](0090.md)
 - [§ 91 (weggefallen)](0091.md)
 - [§ 92 Rechtsbehelfe im Vollzug](0092.md)
-- [§ 93 (weggefallen)](0093.md)
+- [§ 93 Gerichtliche Zuständigkeit und gerichtliches Verfahren bei Maßnahmen, die der vorherigen gerichtlichen Anordnung oder der gerichtlichen Genehmigung bedürfen](0093.md)
 - [§ 93a Unterbringung in einer Entziehungsanstalt](0093a.md)
 
 ### Viertes Hauptstück Beseitigung des Strafmakels
