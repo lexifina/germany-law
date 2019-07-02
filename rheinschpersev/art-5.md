@@ -10,7 +10,7 @@ Der Eigentümer, der Ausrüster und der Schiffsführer haben dafür zu sorgen, d
 Der Eigentümer, der Ausrüster und der Schiffsführer dürfen nicht anordnen oder zulassen, dass
 1. die für die jeweilige Betriebsform festgesetzte Einsatzzeit eines Fahrzeugs nach § 3.10 Nummer 1 und 3 Satz 1 der Schiffspersonalverordnung-Rhein nicht eingehalten oder die Fahrt nicht entsprechend eingestellt wird,
 2. ein Mitglied der Besatzung eingesetzt wird, wenn der nach § 3.04 der Schiffspersonalverordnung-Rhein erforderliche Nachweis nicht erneuert ist,
-3. ein Mitglied der Besatzung entgegen § 3.11 Nummer 4 erster Halbsatz der Schiffspersonalverordnung-Rhein während seiner Mindestruhezeit eingesetzt wird,
+3. ein Mitglied der Besatzung entgegen § 3.11 Nummer 5 erster Halbsatz der Schiffspersonalverordnung-Rhein während seiner Mindestruhezeit eingesetzt wird,
 4. nach § 3.12 Nummer 2 bis 6 der Schiffspersonalverordnung-Rhein die Betriebsform gewechselt wird, obwohl vorher ein Austausch der Besatzung nicht stattgefunden hat, die jeweiligen Ruhezeiten nicht eingehalten wurden oder der Nachweis über die Einhaltung der sechs- oder achtstündigen Ruhezeit nach § 3.12 Nummer 7 der Schiffspersonalverordnung-Rhein nicht geführt wird,
 5. auf einem Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff nutzt, ein Mitglied der Besatzung entgegen § 4a.01 Nummer 1 der Schiffspersonalverordnung-Rhein am Bunkervorgang beteiligt wird, obwohl es nicht über Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff verfügt.
 (3)

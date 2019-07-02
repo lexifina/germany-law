@@ -75,7 +75,7 @@
 
 ### Zweiter Titel Beiträge
 
-- [§ 20 Aufbringung der Mittel, Gleitzone](0020.md)
+- [§ 20 Aufbringung der Mittel, Übergangsbereich](0020.md)
 - [§ 21 Bemessung der Beiträge](0021.md)
 - [§ 22 Entstehen der Beitragsansprüche, Zusammentreffen mehrerer Versicherungsverhältnisse](0022.md)
 - [§ 23 Fälligkeit](0023.md)

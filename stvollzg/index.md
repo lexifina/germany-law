@@ -168,7 +168,7 @@ Aussetzung zur Bewährung](0104.md)
 - [§ 106 Verfahren](0106.md)
 - [§ 107 Mitwirkung des Arztes](0107.md)
 
-### Vierzehnter Titel Rechtsbehelfe
+### Vierzehnter Titel Rechtsbehelfe und gerichtliches Verfahren
 
 - [§ 108 Beschwerderecht](0108.md)
 - [§ 109 Antrag auf gerichtliche Entscheidung](0109.md)
@@ -186,6 +186,8 @@ Aussetzung zur Bewährung](0104.md)
 - [§ 119a Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung](0119a.md)
 - [§ 120 Entsprechende Anwendung anderer Vorschriften](0120.md)
 - [§ 121 Kosten des Verfahrens](0121.md)
+- [§ 121a Gerichtliche Zuständigkeit bei dem Richtervorbehalt unterliegenden Maßnahmen](0121a.md)
+- [§ 121b Gerichtliches Verfahren bei dem Richtervorbehalt unterliegenden Maßnahmen](0121b.md)
 
 ### Fünfzehnter Titel Strafvollstreckung und Untersuchungshaft
 
@@ -286,6 +288,7 @@ Justizvollzugsanstalten
 Zwangs- und Erzwingungshaft
 
 - [§ 171 Grundsatz](0171.md)
+- [§ 171a Fixierung](0171a.md)
 - [§ 172 Unterbringung](0172.md)
 - [§ 173 Kleidung, Wäsche und Bettzeug](0173.md)
 - [§ 174 Einkauf](0174.md)

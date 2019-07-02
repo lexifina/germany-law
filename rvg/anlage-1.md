@@ -60,7 +60,7 @@
 |  |  | Zweiter Rechtszug |  |
 |  |  | Dritter Rechtszug |  |
 |  |  | Unterabschnitt 4 | Zusatzgebühr |
-|  | Abschnitt 3 | Gerichtliche Verfahren bei Freiheitsentziehung und in Unterbringungssachen |
+|  | Abschnitt 3 | Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und bei sonstigen Zwangsmaßnahmen |
 |  | Abschnitt 4 | Gerichtliche Verfahren nach der Wehrbeschwerdeordnung |
 |  | Abschnitt 5 | Einzeltätigkeiten und Verfahren auf Aufhebung oder Änderung einer Disziplinarmaßnahme |
 | Teil 7 | Auslagen |
@@ -527,9 +527,9 @@ Sonstige Verfahren
 | 6216 | Durch die anwaltliche Mitwirkung wird die mündliche Verhandlung entbehrlich:Zusätzliche Gebühr ....................... | in Höhe der jeweiligen Verfahrensgebühr |
 |  | (1) Die Gebühr entsteht, wenn eine gerichtliche Entscheidung mit Zustimmung der Beteiligten ohne mündliche Verhandlung ergeht oder einer beabsichtigten Entscheidung ohne Hauptverhandlungstermin nicht widersprochen wird. (2) Die Gebühr entsteht nicht, wenn eine auf die Förderung des Verfahrens gerichtete Tätigkeit nicht ersichtlich ist. (3) Die Höhe der Gebühr richtet sich nach dem Rechtszug, in dem die Hauptverhandlung vermieden wurde. Für den Wahlanwalt bemisst sich die Gebühr nach der Rahmenmitte. |  |
 |  |
-| Abschnitt 3Gerichtliche Verfahren bei Freiheitsentziehung und in Unterbringungssachen |
+| Abschnitt 3Gerichtliche Verfahren bei Freiheitsentziehung, bei Unterbringung und bei sonstigen Zwangsmaßnahmen |
 |  |
-| 6300 | Verfahrensgebühr in Freiheitsentziehungssachen nach § 415 FamFG, in Unterbringungssachen nach § 312 FamFG und in Verfahren über eine freiheitsentziehende Unterbringung oder eine freiheitsentziehende Maßnahme nach § 151 Nr. 6 und 7 FamFG ...... | 40,00 bis 470,00 € | 204,00 € |
+| 6300 | Verfahrensgebühr in Freiheitsentziehungssachen nach § 415 FamFG, in Unterbringungssachen nach § 312 FamFG und in Verfahren nach § 151 Nr. 6 und 7 FamFG ...... | 40,00 bis 470,00 € | 204,00 € |
 |  | Die Gebühr entsteht für jeden Rechtszug. |  |  |
 | 6301 | Terminsgebühr in den Fällen der Nummer 6300 ......... | 40,00 bis 470,00 € | 204,00 € |
 |  | Die Gebühr entsteht für die Teilnahme an gerichtlichen Terminen. |  |  |

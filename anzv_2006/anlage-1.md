@@ -1,4 +1,4 @@
-# Anlage 1 (zu § 5 Abs. 1 Nr. 1, § 5e Abs. 1 Satz 1 Nr. 1 AnzV)PVVALSI
+# Anlage 1 (zu § 5 Abs. 1 Nr. 1, § 5e Abs. 1 Satz 1 Nr. 1 AnzV)
 
 PVGLSI
 Personelle Veränderungen

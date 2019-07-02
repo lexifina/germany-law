@@ -140,7 +140,7 @@
 |  |  | § 106 | Verfahren |
 |  |  | § 107 | Mitwirkung des Arztes |
 |  |  | Vierzehnter Titel |
-|  |  |  | Rechtsbehelfe |
+|  |  |  | Rechtsbehelfe und gerichtliches Verfahren |
 |  |  | § 108 | Beschwerderecht |
 |  |  | § 109 | Antrag auf gerichtliche Entscheidung |
 |  |  | § 110 | Zuständigkeit |
@@ -157,6 +157,8 @@
 |  |  | § 119a | Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung |
 |  |  | § 120 | Entsprechende Anwendung anderer Vorschriften |
 |  |  | § 121 | Kosten des Verfahrens |
+|  |  | § 121a | Gerichtliche Zuständigkeit bei dem Richtervorbehalt unterliegenden Maßnahmen |
+|  |  | § 121b | Gerichtliches Verfahren bei dem Richtervorbehalt unterliegenden Maßnahmen |
 |  |  | Fünfzehnter Titel |
 |  |  |  | Strafvollstreckung und Untersuchungshaft |
 |  |  | § 122 | (weggefallen) |
@@ -235,6 +237,7 @@
 |  |  | Zweiter Titel |
 |  |  |  | Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft |
 |  |  | § 171 | Grundsatz |
+|  |  | § 171a | Fixierung |
 |  |  | § 172 | Unterbringung |
 |  |  | § 173 | Kleidung, Wäsche und Bettzeug |
 |  |  | § 174 | Einkauf |

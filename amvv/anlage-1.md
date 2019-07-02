@@ -769,6 +769,7 @@ Dipyridamol
 Dirlotapid
 — zur Anwendung bei Tieren —
 Disopyramid
+Distickstoffmonoxid
 Distigmin
 Disulfiram
 Dithranol
@@ -2001,7 +2002,7 @@ Propiverin
 Propofol
 Propoxyphen
 Propranolol
-Propyl(3β-(benzoyloxy)tropan-2α -carboxylat)
+Propyl(3β-(benzoyloxy)tropan-2α-carboxylat)
 - zur Anwendung am Auge -
 Propylhexedrin
 Proquazon
