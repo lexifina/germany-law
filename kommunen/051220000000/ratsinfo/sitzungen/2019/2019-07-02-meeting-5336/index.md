@@ -1,0 +1,61 @@
+# Haupt- und Personalausschuss (35. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-07-02T17:00:00+02:00
+- Ende: 2019-07-02T17:30:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZdBAlETjk6ax5RDOpebD7gA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5336
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYLX2X9BW7lC4kT2I-EirV7twhhCwDPUtZnl-Scxet_D/Bekanntmachung_Haupt-_und_Personalausschuss_02.07.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVojQH7zv1vJsi58LslTgd35AqnQUoBFUMoZTH2XGSqO/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_02.07.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 34. Sitzung des Haupt- und Personalausschusses am 21.05.2019
+- TOP 4.: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Düsseldorf
+- TOP 5.: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 6.: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht NRW
+- TOP 7.: Gründungsbeschluss zur Stadtentwicklungsgesellschaft Solingen
+- TOP 7.1: Gründungsbeschluss zur Stadtentwicklungsgesellschaft Solingen
+- TOP 8.: Masterplanung Berufsfeuerwehr 2030,aktueller Sachstand im Rahmen der Planung zur Baumaßnahme Abbruch und Neubau FuRW II und Feuerwehrgerätehaus
+- TOP 9.: HSP-Maßnahme M 341: Teilstationäre Blitzer (Rotlichtüberwachung)
+- TOP 10.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2018 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Verwendung des Jahresüberschusses der Sparkasse
+- TOP 11.: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstigen Amtshandlungen im Zusammenhang mit Lebensmitteln tierischen Ursprungs (Fleischhygienegebührensatzung)
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.1.1: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen
+- TOP 12.1.2: Eingabe nach § 24 GO NRW hier: zukunftsfähige Entwicklung des Klinikums Solingen
+- TOP 12.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 34. Sitzung des Haupt- und Personalausschusses am 21.05.2019
+- TOP 4.: Bestellung der Leitung der Stadtbibliothek
+- TOP 5.: Bestellung der Leitung des Stadtdienstes Natur und Umwelt
+- TOP 6.: Hinausschieben des Ruhestandseintritts von Stadtdirektor Hartmut Hoferichter gemäß § 32 Absatz 1 des Landesbeamtengesetzes – LBG -
+- TOP 7.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) - Leitbild "Unternehmerregion"
+- TOP 8.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Umstellung der Finanzierungsbeiträge (auf jährliche Zahlung)
+- TOP 9.: Neue Effizienz GmbH - Geschäftsordnung des Lenkungsausschusses
+- TOP 10.: Neue Effizienz GmbH - Erhöhung des Kontokorrentkredits
+- TOP 11.: Jahresabschluss 2018 der Neue Effizienz GmbH
+- TOP 12.: Neue Effizienz GmbH - Bestellung des Abschlussprüfers für das Geschäftsjahr 2019
+- TOP 13.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Veränderung der Kontokorrentlinie beim Cashmanagement
+- TOP 14.: Jahresabschluss 2018 der Wirtschaftsförderung Solingen GmbH & Co. KG (WfS)
+- TOP 15.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) – Bestellung des Jahresabschlussprüfers für das Geschäftsjahr 2019
+- TOP 16.: Jahresabschluss 2018 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH)
+- TOP 17.: Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH) – Bestellung Jahresabschlussprüfer für das Geschäftsjahr 2019
+- TOP 18.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) – Veränderung der Kontokorrentlinie beim Cash-Management
+- TOP 19.: Jahresabschluss 2018 der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 20.: Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) – Bestellung des Abschlussprüfers 2019
+- TOP 21.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 22.: Vergaberichtlinien für die Gerd-Kaimer-Bürgerstiftung Solingen
+- TOP 23.: Verschiedenes
+- TOP 23.1: Mitteilungen der Verwaltung
+- TOP 23.1.1: Vergabe eines Auftrages zum Ankauf eines gebrauchten Rettungswagens (RTW) für den Rettungsdienst der Stadt Solingen
+- TOP 23.2: Anfragen an die Verwaltung
