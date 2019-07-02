@@ -65,8 +65,21 @@
 
 ## Teil 7 Besondere Regelungen für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken
 
+
+### Abschnitt 1 Kapazitätsreservierung und Kapazitätsausbauanspruch
+
 - [§ 38 Kapazitätsreservierung für Betreiber von Speicher-, LNG- und Produktionsanlagen sowie Gaskraftwerken](0038.md)
 - [§ 39 Kapazitätsausbauanspruch für Betreiber von Gaskraftwerken sowie Speicher-, LNG- und Produktionsanlagen](0039.md)
+
+### Abschnitt 2 Netzanschluss von LNG-Anlagen
+
+- [§ 39a Begriffsbestimmungen](0039a.md)
+- [§ 39b Netzanschlusspflicht](0039b.md)
+- [§ 39c Weitere Pflichten des Fernleitungsnetzbetreibers](0039c.md)
+- [§ 39d Vorbereitung des Netzanschlusses](0039d.md)
+- [§ 39e Realisierungsfahrplan](0039e.md)
+- [§ 39f Kostenverteilung](0039f.md)
+- [§ 39g Geltungsdauer und Evaluierung](0039g.md)
 
 ## Teil 8 Veröffentlichungs- und Informationspflichten
 
