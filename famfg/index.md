@@ -438,7 +438,7 @@
 - [§ 307 Kosten in Betreuungssachen](0307.md)
 - [§ 308 Mitteilung von Entscheidungen](0308.md)
 - [§ 309 Besondere Mitteilungen](0309.md)
-- [§ 310 Mitteilungen während einer Unterbringung](0310.md)
+- [§ 310 Mitteilungen während einer Unterbringungsmaßnahme](0310.md)
 - [§ 311 Mitteilungen zur Strafverfolgung](0311.md)
 
 ### Abschnitt 2 Verfahren in Unterbringungssachen
@@ -460,8 +460,8 @@
 - [§ 326 Zuführung zur Unterbringung; Verbringung zu einem stationären Aufenthalt](0326.md)
 - [§ 327 Vollzugsangelegenheiten](0327.md)
 - [§ 328 Aussetzung des Vollzugs](0328.md)
-- [§ 329 Dauer und Verlängerung der Unterbringung](0329.md)
-- [§ 330 Aufhebung der Unterbringung](0330.md)
+- [§ 329 Dauer und Verlängerung der Unterbringungsmaßnahme](0329.md)
+- [§ 330 Aufhebung der Unterbringungsmaßnahme](0330.md)
 - [§ 331 Einstweilige Anordnung](0331.md)
 - [§ 332 Einstweilige Anordnung bei gesteigerter Dringlichkeit](0332.md)
 - [§ 333 Dauer der einstweiligen Anordnung](0333.md)
