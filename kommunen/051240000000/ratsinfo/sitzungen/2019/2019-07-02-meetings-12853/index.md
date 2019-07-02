@@ -1,0 +1,86 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-07-02T16:05:00+02:00
+- Ende: 2019-07-02T17:47:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12853
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12853
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00239477.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00241340.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2018 der APH Service GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.2.1: Entlastung des Aufsichtsrates der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.4.1: Entlastung des Aufsichtsrates der Wuppertal Marketing GmbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2018 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2018 der GWG Gemeinnützige Wohnungsbaugesellschaft mbH und Konzern GWG - ungeändert beschlossen
+- TOP 1.6.1: Entlastung des Aufsichtsrates der GWG Gemeinnützige Wohnungsbaugesellschaft mbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2018 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2018 der WQG Wuppertaler Quartierentwicklungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss und Konzernabschluss 2018 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.9.1: Jahresabschluss 2018: Entlastung des Aufsichtsrates der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2018 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.10.1: Jahresabschluss 2018: Entlastung der Mitglieder des Aufsichtsrats der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.11: Jahresabschluss 2018 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.11.1: Jahresabschluss 2018: Entlastung der Mitglieder des Aufsichtsrats der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.12: Jahresabschluss 2017 und Jahresabschluss 2018 der BinnenWind GmbH - ungeändert beschlossen
+- TOP 1.13: Jahresabschluss 2018 der Windkraft Kahlenberg II GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.14: Jahresabschluss 2018 der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.14.1: Jahresabschluss 2018: Entlastung der Mitglieder des Aufsichtsrats der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.15: Jahresabschluss 2018 der GWH Gemeinschaftswerk Hattingen GmbH - ungeändert beschlossen
+- TOP 1.16: Jahresabschluss 2018 der GKE Gesellschaft für kommunale Entsorgungsdienstleistungen mbH - ungeändert beschlossen
+- TOP 1.17: Jahresabschluss 2018 der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 1.18: Jahresabschluss 2018 der Neue Effizienz GmbH - ungeändert beschlossen
+- TOP 1.19: Jahresabschluss 2018 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.19.1: Entlastung des Aufsichtsrats der HELIOS Klinikum Wuppertal GmbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 1.20: Jahresabschluss 2018 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.20.1: Jahresabschluss 2018: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Public Corporate Governance Kodex (PCGK) und Beteiligungsrichtlinie der Stadt Wuppertal - vertagen
+- TOP 3.1.1: Antrag zur Tagesordnung, Tagesordnungspunkt 3.1 - ungeändert beschlossen
+- TOP 3.2: Geschäftsordnung für den Lenkungsausschuss der Neue Effizienz GmbH - ungeändert beschlossen
+- TOP 3.3: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Beschluss des Leitbildes "Unternehmerregion" für das Bergische Städtedreieck - ungeändert beschlossen
+- TOP 3.4: Wahl von Aufsichtsratsmitgliedern durch die Gesellschafterversammlung der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Sachstandsbericht zur Umsetzung der Digitalisierungsstrategie digiTAL 2023 - Entgegennahme ohne Beschluss
+- TOP 5.2: Aufwand für die Bürgerbefragung zum Seilbahnprojekt - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Kostensteigerungen bei Hochbaumaßnahmen - ungeändert beschlossen
+- TOP 6.2: Entwicklung Stadion am Zoo: Vorbereitung des Verkaufes eines städtischen Grundstückes - vertagen
+- TOP 6.3: Abriss der Bergischen Sonne - Entwicklung zum Smart Tec Campus Wuppertal - ungeändert beschlossen
+- TOP 6.4: Klimagerechte Gewerbeflächenentwicklung – Modellprojekt Smart Tec Campus - ungeändert beschlossen
+- TOP 6.5: Friedrich-Engels-Allee – Lichtzeichengeregelter Fußgängerüberweg über die B7 - ungeändert beschlossen
+- TOP 6.6: Neugestaltung der Grünanlage Krautstraße/ Hebbelstraße - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 6.7: Erneuerung der Stützmauer Saarbrücker Straße ( zwischen der Fußgängerbrücke Saarbrücker Straße und der Herzogbrücke ) - ungeändert beschlossen
+- TOP 6.8: Sanierung Brücke Uellendahler Str, 2. BA - Genehmigung von überplanmäßigen Mitteln zur Schlussabrechnung - ungeändert beschlossen
+- TOP 6.9: Erneuerung des nördlichen Überbaus der Brücke Brändströmstraße - ungeändert beschlossen
+- TOP 6.10: Umsetzungskonzept zur Bürgerbeteiligung an der Haushaltsplanung 2020/2021 - ungeändert beschlossen
+- TOP 6.11: Wirtschaftliche Sicherung der Diakonie Wuppertal-Evangelische Kindertagesstätten gemeinnützige GmbH Wuppertal für das Kindergartenjahr 2019/2020 - ungeändert beschlossen
+- TOP 6.12: Änderung der Entgeltordnung für den Zoologischen Garten - vertagt auf Rat
+- TOP 6.13: Antrag: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 6.14: Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten. - zurückgestellt
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Bericht zum 30.04. und 31.05.2019 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 10: Berichte und Mitteilungen
+- TOP 10.1: Bericht zur Beschlussfassung der BV Oberbarmen zum Haushalt 2020/2021 - Entgegennahme ohne Beschluss
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Stadtentwässerung- Maßnahmenkatalog 2020/ Katalogentwurf 2021 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
