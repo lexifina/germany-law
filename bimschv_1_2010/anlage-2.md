@@ -1,6 +1,5 @@
 # Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2)Anforderungen an die Durchführung der Messungen im Betrieb
 
-(Fundstelle: BGBl. I 2010, 51 - 53)
 1. Allgemeine Anforderungen
   Messung des Feuchtegehaltes
   Die Bestimmung des Feuchtegehaltes ist mit Messgeräten, die die elektrische Leitfähigkeit messen, durchzuführen. Andere gleichwertige Meßmethoden zur Bestimmung des Feuchtegehaltes können angewendet werden.
@@ -67,7 +66,7 @@
   Bei Anlagen mit flüssigen Brennstoffen: Ergebnis der Überprüfung auf Ölderivate
   Für die Anlage relevante Grenzwerte dieser Verordnung
   Sonstige Überwachungstätigkeiten
-  Information über die Überprüfung der Anforderungen nach § 6 Absatz 2 und 3 (Herstellerbescheinigung)
+  Information über die Überprüfung der Anforderungen nach § 6 Absatz 2 (Herstellerbescheinigung)
 5. Inhalt der Bescheinigung über die Überwachungsmessungen an Feuerungsanlagen für feste Brennstoffe
   Die Bescheinigung nach § 14 Absatz 4 oder § 15 Absatz 5 muss mindestens folgende Angaben enthalten:
   Allgemeine Informationen

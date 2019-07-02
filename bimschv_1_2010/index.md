@@ -21,7 +21,7 @@
 - [§ 8 Ölfeuerungsanlagen mit Zerstäubungsbrenner](0008.md)
 - [§ 9 Gasfeuerungsanlagen](0009.md)
 - [§ 10 Begrenzung der Abgasverluste](0010.md)
-- [§ 11 Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt](0011.md)
+- [§ 11 (weggefallen)](0011.md)
 
 ## Abschnitt 4 Überwachung
 
@@ -31,7 +31,7 @@
 - [§ 15 Wiederkehrende Überwachung](0015.md)
 - [§ 16 Zusammenstellung der Messergebnisse](0016.md)
 - [§ 17 Eigenüberwachung](0017.md)
-- [§ 18 Überwachung von Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung von 10 Megawatt bis 20 Megawatt](0018.md)
+- [§ 18 (weggefallen)](0018.md)
 
 ## Abschnitt 5 Gemeinsame Vorschriften
 
