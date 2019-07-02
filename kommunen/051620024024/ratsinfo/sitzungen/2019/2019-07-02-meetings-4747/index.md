@@ -1,0 +1,55 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-07-02T18:10:00+02:00
+- Ende: 2019-07-02T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/26
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4747
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4747
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 3: Heimatpreis der Stadt Neuss - einstimmig zugestimmt
+- TOP 4: Änderung der Gebührensatzung des Clemens Sels Museums Neuss - einstimmig zugestimmt
+- TOP 5: Bibliothekskonzept der Stadtbibliothek - vertagt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 6: Straßenbenennung im Bereich des Bplans Nr. 485 - einstimmig zugestimmt
+- TOP 7: VHS Bildungsprogramm Politische Bildung - 2. Semester 2019 und Ergänzungen im 1. Semester - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 8: Antrag der FDP-Fraktion Benennung eines Straßenzuges oder Platzes nach Hans-Dietrich Genscher - einstimmig zugestimmt
+- TOP 8.1: Antrag der SPD-Fraktion vom 18.06.2019 Erinnerungstafel am Galgenberg - einstimmig zugestimmt
+- TOP 8.2: Antrag der SPD-Fraktion Raum der Kulturen e. V. - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP 9: Anfrage von Herrn s. B. Hartmut Rohmer vom 22.06.2019 betr.: Beschaffung von Klimageräten zur Sanierung des Clemens-Sels-Museum-Neuss
+- TOP -: Mitteilungen der Verwaltung
+- TOP 10: Insel Hombroich informiert - vertagt
+- TOP 11: Ausweisung einer Grünfläche für das CSMN - abgesetzt
+- TOP 12: Raum der Kulturen Neuss e. V.: Veranstaltungen aus städtischen Zuschüssen - zur Kenntnis genommen
+- TOP 13: Namenssteine zur Förderung von Brauchtum - zur Kenntnis genommen
+- TOP 14: Kirchenmusikwochen - zur Kenntnis genommen
+- TOP 15: Projekte der Kulturförderung - zur Kenntnis genommen
+- TOP 16: Landesprogramm Kultur und Schule - zur Kenntnis genommen
+- TOP 17: Förderung der öffentlich zugänglichen Büchereien - zur Kenntnis genommen
+- TOP 18: Projektende und Weiterführung *Kompass D" - zur Kenntnis genommen
+- TOP 19: Projekt Perspektive Beruf - zur Kenntnis genommen
+- TOP 20: 100 jähriges Jubiläum der VHS Neuss und der gesamten Volkshochschulen in Deutschland - zur Kenntnis genommen
+- TOP 21: Maker's Night - zur Kenntnis genommen
+- TOP 22: Resumée der Jüdischen Kulturtage - zur Kenntnis genommen
+- TOP 23: VHS Bildungsprogramm Allgemeiner Teil 2019/2020 - zur Kenntnis genommen
+- TOP 24: Resumée Virtual Reality Projekt Selbstgemacht. Eine virtuelle Zeitreise - zur Kenntnis genommen
+- TOP 25: AG Weiterbildung - Studientag vom 22.05.2019 - zur Kenntnis genommen
+- TOP 26: Lange Lernnächte 2019 in der Stadtbibliothek - mehrheitlich zugestimmt
+- TOP 27: 20. Literarischer Sommer / Literaire Zomer 2019 - zur Kenntnis genommen
+- TOP 28: "Nichts über uns ohne uns" - Inklusive Angebote der Stadtbibliothek - zur Kenntnis genommen
+- TOP 29: "Monat des Spiels" in der Stadtbibliothek - zur Kenntnis genommen
+- TOP 30: SommerLeseClub 2019 - Die Sommerferien-Aktion der Stadtbibliothek Neuss - zur Kenntnis genommen
+- TOP 31: Vernetzt! : Lexikon zur Stadtbibliothek Neuss - zur Kenntnis genommen
+- TOP 32: Beschlusskontrolle - zur Kenntnis genommen
