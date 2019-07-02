@@ -1,0 +1,59 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-02T14:05:00+02:00
+- Ende: 2019-07-02T15:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20335
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20335
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP -: Präsentation "Monitoring Stadtentwicklung Köln"
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Domwichtel I gGmbH" - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Beauftragung der „Die Brücke Köln e.V." mit der Durchführung des Täter-Opfer-Ausgleichs für Jugendliche und Heranwachsende in Köln, sowie Mittelverteilung 2019 zur institutionellen Förderung des Trägers „Die Brücke Köln e.V." - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Neue Familienzentren im Kindergartenjahr 2019/20 - ungeändert beschlossen
+- TOP 2.3.2: Kindertagespflege nach §23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - zurückgestellt
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: 4.7.1 "Integrierte Maßnahme zur ökologischen Revitalisierung Westerwaldstraße" - ungeändert beschlossen
+- TOP 4.2: Freigabe- und Baubeschluss der Maßnahme "Umbau von zwei öffentlichen Platzflächen zu multifunktionalen Freiräumen mit Retentionsfunktion (Eiler Schützenplatz und Platz an der Leidenhausener Straße)" in Köln-Porz-Eil - ungeändert beschlossen
+- TOP 4.3: Freigabe- und Baubeschluss über die Maßnahme "Partizipatorische Neugestaltung Platz an St. Adelheid" in Köln-Neubrück aus dem Programm "Starke Veedel – Starkes Köln" (Einzelmaßnahme 2.10.4 im Sozialraum Ostheim und Neubrück) - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 5.2.1: Impfen - geändert beschlossen
+- TOP 5.2.2: Stärkung kulturelle Bildung - ungeändert beschlossen
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Städtisches Familienbüro - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.2.1: Verbesserung des Bildungs- und Teilhabepaketes zum 01.08.2019 durch das Starke- Familien-Gesetz (StFamG) - Kenntnis genommen
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Weltkindertag in Köln 2019 - Kenntnis genommen
+- TOP 8.4.2: Sommerferienspielaktion Mobiler Treff "Juppi" - Kenntnis genommen
+- TOP 8.4.3: Köln-Ferienprogramm 2019 - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Neue Kölner Statistik 4/2019 - Geburten - Kenntnis genommen
+- TOP 8.5.2: Jahresbericht 2018 der Kinder - und Jugendpädagogischen Einrichtung der Stadt Köln - Kenntnis genommen
+- TOP 8.5.3: Projekt "Fit und aktiv in Chorweiler" - Kenntnis genommen
+- TOP 8.5.4: Änderung des Kinderbildungsgesetzes ab 08/2020 - Kenntnis genommen
