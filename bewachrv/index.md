@@ -1,0 +1,16 @@
+# Verordnung über das Bewacherregister
+
+- [§ 1 Datensatz](0001.md)
+- [§ 2 Übermittlung und Verarbeitung von Daten](0002.md)
+- [§ 3 Portalanwendung](0003.md)
+- [§ 4 Verfahren der Datenübermittlung an die Registerbehörde durch die für den Vollzug des § 34a der Gewerbeordnung zuständigen Behörden](0004.md)
+- [§ 5 Verfahren der Datenübermittlung an die Registerbehörde durch die Gewerbetreibenden](0005.md)
+- [§ 6 Meldungen durch die Registerbehörde](0006.md)
+- [§ 7 Verwendung von Schnittstellen](0007.md)
+- [§ 8 Verantwortung für die Datenübermittlung und die Datenrichtigkeit](0008.md)
+- [§ 9 Automatisiertes Abrufverfahren](0009.md)
+- [§ 10 Umfang des Datenabrufs](0010.md)
+- [§ 11 Abrufvoraussetzungen](0011.md)
+- [§ 12 Datenübermittlung für statistische Zwecke](0012.md)
+- [§ 13 Schutz personenbezogener Daten](0013.md)
+- [§ 14 Protokollierungspflicht](0014.md)

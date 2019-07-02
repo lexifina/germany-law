@@ -1,0 +1,3 @@
+# Eingangsformel
+
+Auf Grund des § 235a Satz 1 Nummer 1 bis 3 und 5 bis 8, auch in Verbindung mit § 144 Absatz 1 und § 62 Absatz 1 Satz 2 Nummer 5 sowie § 237 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes vom 1. April 2015 (BGBl. I S. 434), von denen § 235a durch Artikel 1 Nummer 28 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2672) eingefügt worden ist sowie § 144 Absatz 1 durch Artikel 1 Nummer 14 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2672) und § 237 durch Artikel 1 Nummer 30 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2672) geändert worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales:
