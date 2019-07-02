@@ -1,0 +1,73 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-07-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146808
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146808
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 04.06.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget LPR gGmbH Erneuerung der Schulmöbel 22.546,42 € / Az. 0262.0-19-0260
+- TOP 3.3.: (E) Stadtbezirksbudget; Evang. Pflegezentrum Sendling der Hilfe im Alter gGmbH Schulungsworkshop am 25.06.2019 690,00 € / AZ: 0262.0-19-0263
+- TOP 3.4.: (E) Stadtbezirksbudget; Thalkirchner Burschen e.V. Thalkirchner Sommerfest am 19.07.19 - 21.07.19 4.655,00 € / AZ: 0262.0-19-0269
+- TOP 3.5.: (E) Stadtbezirksbudget Imkerverein München und Umgebung e.V. Erneuerung der Beleuchtung des Vereinshauses und Ausstattung des Schleuderraums 971,70 € / Az. 0262.0-19-0267
+- TOP 3.6.: (Antrag) Digitalisierung umsetzen - Kosten senken
+- TOP 3.7.: (E) Stadtbezirksbudget TSV Forstenried e.V. 100 Jahre Gewichtheber am 27.07.2019 3.746,48 € / Az. 0262.0-19-0270
+- TOP 3.8.: (E) Stadtbezirksbudget Kath. Männerfürsorgeverein Betreuung in Beherbergungsbetrieben Kistlerhofstr. Sommerfest am 10.07.2019 637,00 € / Az. 0262.0-19-0271
+- TOP 3.9.: (E) Stadtbezirksbudget Evang. Pflegezentrum Sendling Projekt "Rhythmik & Trommeln" vom 01.08.2019 - 31.07.2020 802,50 € / Az. 0262.0-19-0272
+- TOP 3.10.: (E) Stadtbezirksbudget; Heimat- und Trachtenverein D&#039; Elbachtaler Solln 100-jähriges Jubiläum am 15.09.19 und 22.09.19 6.000,00 € / AZ: 0262.0-19-0264
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Verlängerung Fahrradroute östlich Bahnstrecke Harras - Mittersendling
+- TOP 5.1.2: Ausweisung einer neuen tangentialen Radverbindung im südlichen Teil des 19. Stadtbezirkes
+- TOP 5.1.3: Machbarkeitsstudie zur Verbesserung der Verkehrssituation in der Wilhelm-Leibl-Straße, Solln
+- TOP 5.2.: (Antrag) Parksituation Filchnerstraße
+- TOP 5.3.: (Antrag) Einbahnregelung Georg-Strebl-Straße
+- TOP 5.4.: (Antrag) Haltverbot Forstenrieder Allee 143
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Haltverbot Grundschule Samberger Straße
+- TOP 5.6.: (A) Verkehrsrechtliche Anordnung: Haltverbot Alfred-Kubin-Weg
+- TOP 5.7.: (A) Verkehrsrechtliche Anordnung: Haltverbot Buchloer Straße
+- TOP 5.8.: (U) Verkehrsrechtliche Anordnung: Feuerwehrzufahrt Schäftlarnstraße
+- TOP 5.9.: (U) Aufhebung Sonderparkplatz: Traubinger Straße
+- TOP 5.10.: (A) Austausch Lichtsignalanlage: Thalkirchner Platz
+- TOP 5.11.: (A) Sichthalteverbote: Kreuzung Pognerstraße/Zennerstraße
+- TOP 5.12.: (E) Druckampelschaltung an der Kreuzung Neunkirchner Str./Wolfratshauser Str.
+- TOP 5.13.: (A) Parkscheinautomatenstandorte für das Parklizenzgebiet Thalkirchen
+- TOP 5.14.: Kreuzungsbereich Boschetsrieder Straße/Drygalski-Allee
+- TOP 5.15.: (E) Sondernutzungserlaubnis: Verkaufseinrichtung Wolfratshauser Straße/Ammerstraße
+- TOP 5.16.: (Antrag) Parksituation Boschetsrieder Straße/Baierbrunner Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (U) Grundstücksgeschäft
+- TOP 6.4.: (E) Offene Grube beim REWE-Markt in der Springerstraße Empfehlung Nr. 14-20 / E 02509 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling - Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 6.5.: (E) Keine Erweiterung des Postwohnheims in der Sörgelstr. Empfehlung Nr. 14-20 / E 02518 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: (A) Anita-Augspurg-Preis 2019
+- TOP 7.3.: (E) Sauberkeit auf dem Spielplatz an der Drygalski-Allee Empfehlung Nr. 14-20 / E 02510 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen- Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 7.4.: Anfragen und Nutzungsvorschläge für den Hermann-von-Siemens-Sportpark
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Forstenrieder Allee 29
+- TOP 8.3.: (Antrag) Kriterien für die temporäre Vermietung städtischer Grundstücke
+- TOP 8.4.: (A) Veranstaltung: Sommerfest Filchnerstraße am 13.07.2019
