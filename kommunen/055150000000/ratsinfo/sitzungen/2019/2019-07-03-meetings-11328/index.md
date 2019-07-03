@@ -1,0 +1,73 @@
+# 41. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-07-03T17:10:00+02:00
+- Ende: 2019-07-03T22:28:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11328
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11328
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00445757.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Bericht über die Beschäftigung von Menschen mit Schwerbehinderungen und diesen Gleichgestellten bei der Stadt Münster 2018 - zur Kenntnis genommen
+- TOP 3: Anpassung der städtischen Anlagerichtlinie - mehrheitlich beschlossen
+- TOP 4: Ratsantrag der SPD-Fraktion - Nr. A-R/0012/2019 - Der Nahverkehr muss schneller und günstiger werden - Klimaschutz ist auch eine soziale Frage, - mehrheitlich beschlossen
+- TOP 5: KonvOY GmbH: Jahresabschluss 2018, Feststellung des Jahresergebnisses, Beschluss über die Verwendung des Jahresergebnisses und über die Entlastung der Geschäftsführung - einstimmig beschlossen
+- TOP 6: Jahresabschlüsse von Gesellschaften
+- TOP 6.1: Jahresabschluss 2018 der Wohn + Stadtbau GmbH (W+S) - mehrheitlich beschlossen
+- TOP 6.2: Jahresabschluss 2018 der Messe und Congress Centrum Halle Münsterland GmbH (MCC HaMü) - einstimmig beschlossen
+- TOP 6.3: Jahresabschluss 2018 der Stadtwerke Münster GmbH - mehrheitlich beschlossen
+- TOP 7: Bestellung des Abschlussprüfers für das Geschäftsjahr 2019 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 8: Veloroute Münster-Telgte - mehrheitlich beschlossen
+- TOP 8.1: Veloroute Münster-Telgte
+- TOP 9: Haushalt 2019: Förderung des AFAQ e.V. - mehrheitlich beschlossen
+- TOP 10: Neubau einer 2-zügigen Grundschule mit der Option zur Erweiterung zur 3-Zügigkeit und Neubau einer Zweifachsporthalle in Sprakel und - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2016 - einstimmig beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen an den Sonntagen 17.05.2020 und 30.05.2021 in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 13: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2018 - einstimmig beschlossen
+- TOP 14: Haushaltsplanentwurf 2020 -Haushaltseckwerte / Investitionsprogramm- - zur Kenntnis genommen
+- TOP 15: Ausbau des Stadions an der Hammer Straße einschl. Mobilitätsstation - ohne Beschlussfassung geschoben
+- TOP 16: Städtische Bäder
+- TOP 16.1: Eine attraktive Bäderlandschaft für Münster - ohne Beschlussfassung geschoben
+- TOP 16.2: Organisationsform der städtischen Bäder - ohne Beschlussfassung geschoben
+- TOP 17: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2018 - einstimmig beschlossen
+- TOP 18: Stadthaussaal: Ein Ort der Partizipation und dialogorientierten Bürgerbeteiligung, ein Ort für ausgewählte interdisziplinäre Kunst- und Kulturprogramme in Verbindung mit einem dauerhaften Ort für das Stadtmodell ("Münster Modell") - ohne Beschlussfassung geschoben
+- TOP 19: Marke "Münsterland" - ohne Beschlussfassung geschoben
+- TOP 20: Neustrukturierung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - mehrheitlich beschlossen
+- TOP 21: Neue Qualitätsstandards für Fahrradstraßen - ohne Beschlussfassung geschoben
+- TOP 22: Fahrradtauglicher Ausbau der Betriebswege am Dortmund-Ems-Kanal (DEK) - ohne Beschlussfassung geschoben
+- TOP 23: Intensivierung der Baulandentwicklung - Fortschreibung des Baulandprogramms 2019 - 2025/2030 - ohne Beschlussfassung geschoben
+- TOP 24: vhs-Sanierung für den Übergang - ohne Beschlussfassung geschoben
+- TOP 25: Fertigbauklassen für das Schulzentrum Wolbeck - Errichtungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 26: Vergabe Winterdienst an und auf städtischen Schulgeländen - mehrheitlich beschlossen
+- TOP 27: Zwischenbericht Schulentwicklungsplanung Berufskollegs - ohne Beschlussfassung geschoben
+- TOP 28: Übergang Schule-Beruf in Münster - ohne Beschlussfassung geschoben
+- TOP 29: Sicherungsmaßnahmen an städt. Schulgebäuden - mehrheitlich beschlossen
+- TOP 29.1: Sicherungsmaßnahmen an städt. Schulgebäuden
+- TOP 30: Änderungen der Satzung und Wahlordnung des Jugendrates sowie des Jugendamtes der Stadt Münster - einstimmig beschlossen
+- TOP 31: Bildungsbericht zum Stand der Indexbildung als Monitoringverfahren im Übergang Kindertageseinrichtung -Grundschule Startbedingungen von Kindern zu Beginn der Schullaufbahn - zur Kenntnis genommen
+- TOP 32: Einrichtung Haus des Jugendrechts - ohne Beschlussfassung geschoben
+- TOP 32.1: Einrichtung Haus des Jugendrechts
+- TOP 33: Feststellung der Jahresabschlüsse 2018 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 34: Modellprojekt zur Tagesstrukturierung und qualifikationsfördernden Begleitung für alleinstehende männliche Flüchtlinge - ohne Beschlussfassung geschoben
+- TOP 35: Mobilität und Teilhabe für Flüchtlinge in der Zentralen Unterbringungseinrichtung (ZUE) des Landes NRW - ohne Beschlussfassung geschoben
+- TOP 36: Mittelumschichtung im Haushaltsbudget der Westfälischen Schule für Musik im Rahmen von überplanmäßigen Aufwendungen für Honorarkräfte - einstimmig beschlossen
+- TOP 37: Strategische Neuausrichtung der Depotflächen des Stadtmuseums Münster - einstimmig beschlossen
+- TOP 38: Neubau einer 6-Gruppen-Kindertageseinrichtung am Nottulner Landweg in Münster-Roxel - ohne Beschlussfassung geschoben
+- TOP 39: Neubau einer 4-Gruppen-Kindertageseinrichtung am Nordkirchenweg in Münster-Hiltrup - ohne Beschlussfassung geschoben
+- TOP 40: Neubau des Feuerwehrhauses für den Löschzug Roxel der Freiwilligen Feuerwehr Münster, Tilbecker Straße - einstimmig beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk West
+- TOP 41.1.1: 2. Änderung des Bebauungsplans Nr. 409 - Geänderter Beschluss zur Änderung - einstimmig beschlossen
+- TOP 41.1.2: Bebauungsplan Nr. 602 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 41.2: Stadtbezirk Nord
+- TOP 41.2.1: Bebauungsplans Nr. 557: Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 42: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2018 - einstimmig beschlossen
+- TOP 43: Verschiedenes
