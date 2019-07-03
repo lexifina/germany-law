@@ -1,0 +1,6 @@
+# TOP 1.1: Bericht aus dem Gemeinderat
+
+- Sitzung: Stadtseniorenbeirat (3. Sitzung) (2019-07-03)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37150
