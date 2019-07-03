@@ -1,0 +1,106 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-07-03T16:02:00+02:00
+- Ende: 2019-07-03T17:05:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12788
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12788
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlicher Teil - Stand: 25.06.2019 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00239577.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00240591.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Realisierung von Bauprojekten
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion "Realisierung von Bauprojekten" vom 05.06.2019 (VO/0563/19)
+- TOP 2.2: Zusammenarbeit des Jobcenter Anstalt öffentlichen Rechts und der bit gGmbH
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Zusammenarbeit des Jobcenter Anstalt öffentlichen Rechts und der bit gGmbH
+- TOP 2.3: Wohn- und Obdachlosigkeit in Zusammenhang mit SGB II
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Wohn- und Obdachlosigkeit in Zusammenhang mit SGB II" vom 06.06.2019 (VO/0566/19)
+- TOP 2.4: Abriss des Gebäudes der Hauptschule Langerfeld/Dieckerhoffstraße
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgeranträge gegen die Aufstellung der 1. Änderung des Bebauungsplanes 815A - Oberheidter Straße/Häuschen - ungeändert beschlossen
+- TOP 3.2: Abgesetzt. Vorberatung nicht abgeschlossen. Bürgerantrag zum Thema "LIchtzeichenanlage für den Rechtsabbiegert von der Schwarzbach kommend auf die B 7 in Fahrtrichtung Westen wieder konfliktfrei
+- TOP 3.3: Bürgerantrag zum Erhalt des historischen Pflasters Neue Friedrichstraße - ungeändert beschlossen
+- TOP 3.4: Bürgerantrag zum Erhalt des Arthotels mit seinen künstlerisch ausgestalteten Räumen - geändert beschlossen
+- TOP 3.5: Bürgerantrag zu dem Thema Klimaschutz als prioritäre Gemeinschaftsaufgabe - zur Vorberatung verwiesen
+- TOP 3.6: Bürgerantrag zum Thema "vollständiger Erhalt des Baumbestandes im zukünftigen Wupperpark-Ost unter allen Umständen sicherstellen" - zur Vorberatung verwiesen
+- TOP 3.7: Bürgerantrag zur Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 3.8: Bürgerantrag zum Thema Städteappell ICAN (Internationale Kampagne zur Abschaffung von Atomwaffen) - ungeändert beschlossen
+- TOP 4: Anträge
+- TOP 4.1: Internationale Kampagne zur Abschaffung von Atomwaffen (ICAN International Campaign to Abloish Nurclear Weapons) - vertagt auf Rat
+- TOP 4.2: Abgesetzt. Vorberatung nicht abgeschlossen. Anonyme Spurensicherung: Finanzierung dauerhaft gewährleisten
+- TOP 4.3: ÖPNV in Wuppertal zukunftsfähig gestalten - ungeändert beschlossen
+- TOP 4.4: Gebühren für Außengastronomie senken! - zur Vorberatung verwiesen
+- TOP 4.5: Resolution gegen antisemitische Hetze und Gewalt - ungeändert beschlossen
+- TOP 4.6: 14 Punkte-Paket für mehr Klimaschutz in Wuppertal - vertagt auf Rat
+- TOP 4.7: Klimagerechte Gewerbeflächenentwicklung – Modellprojekt Smart Tec Campus - ungeändert beschlossen
+- TOP 4.8: Problemlösung für eine bessere Unianbindung - zur Vorberatung verwiesen
+- TOP 4.9: Abschlussbericht zum Projekt „Bergischer Kulturraum“ - zur Vorberatung verwiesen
+- TOP 4.10: Konzept zur Nutzung der ehemaligen Bundesbahndirektion als Schlüsselimmobilie der Stadtentwicklung - vertagt auf Rat
+- TOP 4.10.1: (nur Rat) Rechtsstreitigkeiten zwischen der Stadt Wuppertal und der Stadt Remscheid wegen des DOC Remscheid-Lennep und des FOC Wuppertal
+- TOP 4.11: Einführung eines Rats-Controllings - ungeändert beschlossen
+- TOP 4.11.1: Antrag zur Drucksache VO/0646/19 - Einführung eines Rats-Controllings - ungeändert beschlossen
+- TOP 4.12: Wuppertal gegen alle Formen von Menschenfeindlichkeit - für Demokratie und Toleranz - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Abgesetzt. Behandlung vertagt. Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten.
+- TOP 5.2: „Zahl-was –du willst„-Tag im Zoo - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Von der Verwaltung zurückgezogen. Änderung der Satzung des Beirates der Menschen mit Behinderung
+- TOP 6.2: Änderung der Entgeltordnung für den Zoologischen Garten - vertagt auf Rat
+- TOP 6.2.1: Änderung der Entgeltordnung für den Zoologischen Garten - vertagt auf Rat
+- TOP 6.3: Abgesetzt. Vorberatung nicht abgeschlossen. Wiedereinführung der Baumschutzsatzung
+- TOP 6.4: Korrektur Straßenordnung - ungeändert beschlossen
+- TOP 6.5: (nur Rat) Erlass einer neuen Rechnungsprüfungsordnung der Stadt Wuppertal
+- TOP 6.6: 3. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen (GeschO) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung überplanmäßiger Haushaltsmittel: Abriss der Bergischen Sonne - Entwicklung zum Smart Tec Campus Wuppertal - ungeändert beschlossen
+- TOP 7.2: Genehmigung überplanmäßiger Haushaltsmittel: Sanierung Brücke Uellendahler Straße, 2. Bauabschnitt - ungeändert beschlossen
+- TOP 7.3: Außerplanmäßige Ausgabe: Wirtschaftliche Sicherung der Diakonie Wuppertal-Evangelische Kindertagesstätten gemeinnützige GmbH Wuppertal für das Kindergartenjahr 2019/2020 - ungeändert beschlossen
+- TOP 7.4: Kostensteigerungen bei Hochbaumaßnahmen - vertagt auf Rat
+- TOP 7.4.1: Ergänzungsantrag zu VO/0607/19 „Fördermittel der Baukostensteigerung anpassen“ - vertagt auf Rat
+- TOP 7.4.2: Förderung von Investitionen in den Kommunen
+- TOP 7.5: Überplanmäßige Ermächtigung: Erneuerung des nördlichen Überbaus der Brücke Brändströmstraße - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Abgesetzt. Vorberatung nicht abgeschlossen. Public Corporate Governance Kodex und Beteiligungsrichtlinie der Stadt Wuppertal
+- TOP 8.2: Jahresabschluss 2018 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2018 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2018: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2018 der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.6: Wahl von Aufsichtsratsmitgliedern durch die Gesellschafterversammlung der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 174 - Uellendahl/Röttgen/Am Deckershäuschen/Norkshäuschen - - ungeändert beschlossen
+- TOP 9.2: Planfeststellungsverfahren für die Erweiterung der Halde Oetelshofen - ungeändert beschlossen
+- TOP 9.3: Abgesetzt. Vorberatung nicht abgeschlossen. Erste Änderung des Regionalplan Düsseldorf - Siedlungsbereiche (ASB)
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Friedrich-Engels-Allee – lichtzeichengeregelter Fußgängerüberweg über die B7 - ungeändert beschlossen
+- TOP 10.2: Erneuerung der Stützmauer Saarbrücker Straße (zwischen der Fußgängerbrücke Saarbrücker Straße und der Herzogbrücke) - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Vorberatung nicht abgeschlossen. Entwicklung Stadion am Zoo: Vorbereitung des Verkaufes eines städtischen Grundstückes
+- TOP 11.2: Fortschreibung des Radverkehrskonzeptes - ungeändert beschlossen
+- TOP 11.2.1: Begleitbeschluss zum Radverkehrskonzept - ungeändert beschlossen
+- TOP 11.2.2: Talachsenradweg - abgesetzt
+- TOP 11.3: Ausbau der offenen Ganztagsschule um weitere 50 Plätze zum Schuljahr 2019/2020 - ungeändert beschlossen
+- TOP 11.4: Neugestaltung der Grünanlage Krautstraße/ Hebbelstraße - Soziale Stadt Heckinghausen - ungeändert beschlossen
+- TOP 11.5: 6. Bericht des Inklusionsbüros der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 11.6: Stadtentwässerung - Maßnahmenkatalog 2020/ Katalogentwurf 2021 - ungeändert beschlossen
+- TOP 11.7: Seilbahn-Projekt und Entwicklung des Historischen Empfangsgebäudes des Hauptbahnhofs - ungeändert beschlossen
+- TOP 11.8: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Beschluss des Leitbildes "Unternehmerregion" für das Bergische Städtedreieck - ungeändert beschlossen
+- TOP 11.9: Abgesetzt. Vorberatung nicht abgeschlossen. Döppersberg Platz Ost
+- TOP 11.10: Sachstandsbericht zur Arbeit der Metropolregion Rheinland - Entgegennahme ohne Beschluss
+- TOP 11.11: Ausschreibungstext zur Auswahl einer / eines neuen Beigeordneten - ungeändert beschlossen
+- TOP 11.12: 3. Sachstandsbericht des Projektbüros zur Digitalen Modellregion Bergisches Städte3eck - Entgegennahme ohne Beschluss
+- TOP 11.13: Realisierung einer Seilbahn am Zoo - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Gremienbesetzung Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
+- TOP 12.2: (nur Rat) Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht für das Land Nordrhein-Westfalen (OVG NRW)
+- TOP 12.3: (nur Rat) Aufstellung der Vorschlagsliste zur Berufung der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 12.4: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.5: Gremienumbesetzung Beiräte der Justizvollzugsanstalt Simonshöfchen und Jugendjustizvollzugsanstalt Ronsdorf - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.7: Gremienumbesetzung Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
