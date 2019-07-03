@@ -1,0 +1,59 @@
+---
+ecli: "ECLI:DE:BVerfG:2019:rk20190703.1bvr281118"
+court: "Bundesverfassungsgericht"
+aktenzeichen: "1 BvR 2811/18"
+decided: "2019-07-03"
+typ: "Stattgebender Kammerbeschluss"
+source_url: "https://testphase.rechtsinformationen.bund.de/v1/rechtsprechung/KVRE431841901.xml"
+neuris_doknr: "KVRE431841901"
+---
+
+# Bundesverfassungsgericht, 1 BvR 2811/18 vom 2019-07-03
+
+## Tenor
+
+1. Das Urteil des Amtsgerichts Flensburg vom 23. Oktober 2018 - 65 C 22/16 - verletzt den Beschwerdeführer in seinem Anspruch auf rechtliches Gehör aus Artikel 103 Absatz 1 des Grundgesetzes. Das Urteil wird aufgehoben und die Sache an das Amtsgericht zurückverwiesen.
+
+Damit wird der Beschluss des Amtsgerichts Flensburg vom 9. November 2018 - 65 C 22/16 - gegenstandslos.
+
+2. Das Land Schleswig-Holstein hat dem Beschwerdeführer dessen notwendige Auslagen zu erstatten.
+
+## Gründe
+
+I.
+
+1 Die Verfassungsbeschwerde betrifft eine zivilrechtliche Auseinandersetzung über die Erstattungsfähigkeit von Arzneimittelkosten bei einer privaten Krankheitskostenversicherung (Ausgangsverfahren).
+
+2 1. Der an einer chronischen und ständiger Therapie bedürfenden Obstipation leidende Beschwerdeführer begehrte im Ausgangsverfahren als Kläger die Verurteilung seines privaten Krankenversicherers zur Zahlung von Arzneimittelkosten in Höhe von 65,90 € für chinesische Heilkräutertees, die ihm sein behandelnder Arzt, ein Allgemeinmediziner und Master in Chinesischer Medizin, in Form von Rezepturen verordnet hatte. Über die Klage wurde am 19. Juli 2016 vor dem Amtsgericht - Richterin Dr. H. - mündlich verhandelt. Mit Beschluss vom 30. August 2016 beauftragte das Amtsgericht - durch Richter am Landgericht T. - S. Facharzt für Allgemeinmedizin mit Zusatzweiterbildungen für Naturheilverfahren und Akupunktur, mit der Erstattung eines schriftlichen Sachverständigengutachtens zu der Behauptung des Beschwerdeführers, die Behandlung mit chinesischen Kräutertees stelle eine medizinisch notwendige Behandlung dar, welche ebenso erfolgversprechend sei wie eine Behandlung nach schulmedizinischen Standards. Das Sachverständigengutachten wurde unter dem 14. Oktober 2016 erstattet. In der mündlichen Verhandlung vor dem Amtsgericht - Richterin Dr. Gr. - am 26. Januar 2017 wurde der Sachverständige mündlich gehört. Mit Beschluss vom 1. Dezember 2017 gab das Amtsgericht - durch Richterin Dr. Gr. - den Parteien des Ausgangsverfahrens seine Absicht bekannt, im schriftlichen Verfahren gemäß § 495a ZPO ohne weitere mündliche Verhandlung ein Urteil zu erlassen; außerdem teilte es mit, dass bis zum 28. Dezember 2017 bei Gericht eingehende Schriftsätze der Parteien berücksichtigt würden. Mit Schriftsatz vom 28. Dezember 2017 machte der Beschwerdeführer geltend, dass der Gerichtsbeschluss vom 30. August 2016 den prozessualen Vorschriften widerspreche, weil ein Schulmediziner, nicht aber ein Alternativmediziner mit Sachkunde auf dem Gebiet der Traditionellen Chinesischen Medizin (TCM) zum Sachverständigen bestellt worden sei. Darüber hinaus wiederholte der Beschwerdeführer seinen Antrag aus dem Schriftsatz vom 30. November 2017, die mündliche Verhandlung vom 26. Januar 2017 wiederaufzunehmen und fortzusetzen. Durch Geschäftsverteilungsplanänderung vom 28. März 2018 wurde ein Ausscheiden der Richterin Dr. Gr. festgestellt. Mit Schriftsatz vom 17. Mai 2018 - berichtigt durch Schriftsatz vom 21. August 2018 - stellte der Beschwerdeführer unter Hinweis auf § 156 ZPO den Antrag, die Wiedereröffnung der mündlichen Verhandlung anzuordnen und einen Termin zur mündlichen Verhandlung anzuberaumen.
+
+3 2. Ohne nochmals mündlich verhandelt zu haben, wies das Amts-gericht - durch Richterin Ga. - mit angegriffenem Urteil vom 23. Oktober 2018 "auf Grund des Sachstands vom 28.12.2017" die Klage ab. Der Beschwerdeführer habe keinen Anspruch gegen den beklagten privaten Krankenversicherer auf Erstattung der geltend gemachten Arzneimittelkosten, weil es sich nicht um eine medizinisch notwendige Behandlung im Sinne von § 1 Abs. 2 der Musterbedingungen 2009 für die Krankheitskosten- und Krankenhaustagegeldversicherung (MB/KK 2009) handele, die eine Leistungspflicht nach § 4 Abs. 6 MB/KK 2009 auslöse. Zur Begründung führte das Amtsgericht im Wesentlichen aus, es sei aufgrund des Gutachtens des Sachverständigen davon überzeugt, dass die Einnahme von chinesischen Kräutertees im Fall des Beschwerdeführers keine notwendige medizinische Heilbehandlung darstelle. Der Beschwerdeführer werde wegen seiner chronischen Obstipation bereits medikamentös mit Mucofalk behandelt. Die zusätzliche Einnahme der chinesischen Kräutertees stelle eine Übermaßbehandlung dar.
+
+4 3. Die vom Beschwerdeführer hiergegen erhobene Anhörungsrüge wies das Amtsgericht - durch Richterin Ga. - mit angegriffenem Beschluss vom 9. November 2018 als unbegründet zurück. Zur Begründung gab es unter anderem an, die mündliche Verhandlung habe auch nicht wegen des Wechsels des zuständigen Richters nach § 156 ZPO wiedereröffnet werden müssen, da zuvor erneut das Verfahren nach § 495a ZPO angeordnet worden sei.
+
+II.
+
+5 1. Mit seiner Verfassungsbeschwerde rügt der Beschwerdeführer eine Verletzung seines Anspruchs auf Gewährleistung rechtlichen Gehörs durch das Amtsgericht. Zur Begründung trägt er im Wesentlichen vor, die Vorschriften der §§ 321a, 156 Abs. 2 ZPO und des § 495a Satz 2 ZPO in Verbindung mit Art. 103 Abs. 1 GG sowie die hierzu ergangene Rechtsprechung seien missachtet worden. Mit den Schriftsätzen vom 28. Dezember 2017 und 17. Mai 2018 - berichtigt durch Schriftsatz vom 21. August 2018 - habe er die Wiedereröffnung der mündlichen Verhandlung beantragt und der Absicht des Gerichts, den Rechtsstreit ohne weitere mündliche Verhandlung zu beenden, widersprochen. Die erneute Anordnung des Verfahrens nach § 495a ZPO ändere nichts daran, dass nach einem Ausscheiden des zuständigen Richters die mündliche Verhandlung wiedereröffnet werden müsse. Des Weiteren sei der vom Gericht bestimmte Sachverständige für die Erstellung eines Gutachtens nicht infrage gekommen, weil er Schulmediziner sei und nicht über die zur Beantwortung der konkreten Beweisfrage erforderliche Sachkunde auf dem Gebiet der Traditionellen Chinesischen Medizin verfüge. Jedenfalls fehle es an einer hinreichenden gerichtlichen Feststellung einer solchen Qualifikation des Sachverständigen. Auch das begründe eine Verletzung des Anspruchs auf rechtliches Gehör.
+
+6 2. Dem Bundesverfassungsgericht haben die Akten des Ausgangsverfahrens vorgelegen. Dem Ministerium für Justiz, Europa, Verbraucherschutz und Gleichstellung des Landes Schleswig-Holstein und dem Beklagten des Ausgangsverfahrens ist Gelegenheit zur Stellungnahme gegeben worden. Das Ministerium hat von einer Stellungnahme abgesehen. Der Beklagte des Ausgangsverfahrens hat sich nicht geäußert.
+
+III.
+
+7 Die Kammer nimmt die Verfassungsbeschwerde gemäß § 93c Abs. 1 Satz 1 in Verbindung mit § 93a Abs. 2 Buchst. b BVerfGG zur Entscheidung an und gibt ihr statt. Die Verfassungsbeschwerde ist zulässig und unter Berücksichtigung der bereits hinreichend geklärten Maßstäbe zu Art. 103 Abs. 1 GG auch offensichtlich begründet. Mit der Entscheidung der Kammer über die Verfassungsbeschwerde bezüglich des angegriffenen Urteils des Amtsgerichts vom 23. Oktober 2018 wird der Beschluss des Amtsgerichts vom 9. November 2018 über die Anhörungsrüge gegenstandslos (vgl. BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 24. Januar 2012 - 1 BvR 1819/10 -, Rn. 13).
+
+8 1. Das Urteil des Amtsgerichts vom 23. Oktober 2018 verletzt den Beschwerdeführer - jedenfalls - dadurch in seinem Anspruch auf rechtliches Gehör nach Art. 103 Abs. 1 GG, dass das Amtsgericht nach dem Ausscheiden der Richterin Dr. Gr. trotz entsprechenden Antrags des Beschwerdeführers nach § 495a Satz 2 ZPO nicht (mehr) mündlich verhandelte.
+
+9 a) Aus Art. 103 Abs. 1 GG folgt nicht unmittelbar ein Anspruch auf eine mündliche Verhandlung (vgl. BVerfGE 5, 9 <11>; 112, 185 <206>; stRspr). Vielmehr ist es Sache des Gesetzgebers zu entscheiden, in welcher Weise rechtliches Gehör gewährt werden soll (vgl. BVerfGE 5, 9 <11>; 89, 381 <391>). Hat eine mündliche Verhandlung aber von Gesetzes wegen stattzufinden, wie dies in den Fällen des § 495a Satz 2 ZPO auf Antrag einer Partei vorgeschrieben ist, begründet der Anspruch auf rechtliches Gehör aus Art. 103 Abs. 1 GG ein Recht auf Äußerung in der mündlichen Verhandlung und zugleich auf deren Durchführung durch das Gericht (vgl. BVerfGK 19, 377 <382>; BVerfG, Beschlüsse der 1. Kammer des Ersten Senats vom 25. Juni 2015 - 1 BvR 366/15 -, Rn. 7 und vom 25. Juni 2015 - 1 BvR 367/15 -, Rn. 7; Beschluss der 2. Kammer des Zweiten Senats vom 2. März 2017 - 2 BvR 977/16 -, Rn. 7; Beschlüsse der 1. Kammer des Ersten Senats vom 8. Juni 2018 - 1 BvR 701/17 -, Rn. 7 und vom 13. Juni 2018 - 1 BvR 1040/17 -, Rn. 8).
+
+10 In Verbindung mit § 128 Abs. 1 ZPO, der vorschreibt, dass "vor dem erkennenden Gericht" mündlich zu verhandeln ist, begründet Art. 103 Abs. 1 GG ein Recht auf Äußerung in einer mündlichen Verhandlung und zugleich auf deren Durchführung "vor dem erkennenden Gericht". Eine mündliche Verhandlung vor einem Richter, der danach ausgeschieden ist, noch bevor er in der verhandelten Sache "für Recht erkannt" hat, genügt daher den verfassungsrechtlichen Anforderungen nicht. Damit konform bestimmen § 309 ZPO, dass das Urteil nur von denjenigen Richtern gefällt werden kann, welche der dem Urteil zugrunde liegenden Verhandlung beigewohnt haben, sowie § 156 Abs. 2 Nr. 3 ZPO, dass das Gericht - auch ohne Antrag - die Wiedereröffnung einer Verhandlung, die geschlossen war, anzuordnen "hat", wenn zwischen dem Schluss der mündlichen Verhandlung und dem Schluss der Beratung und Abstimmung ein Richter ausgeschieden ist.
+
+11 b) Damit ist das amtsgerichtliche Urteil vom 23. Oktober 2018 nicht in Einklang zu bringen. Gemäß § 128 Abs. 1, § 156 Abs. 2 Nr. 3 und § 495a Satz 2 ZPO hätte das Amtsgericht - Richterin Ga. - entsprechend dem Antrag des Beschwerdeführers vom 17. Mai 2018 - berichtigt durch Schriftsatz vom 21. August 2018 - vor Erlass seines Urteils (nochmals) mündlich verhandeln müssen. Sein ohne diese mündliche Verhandlung ergangenes Urteil verletzt das rechtliche Gehör des Beschwerdeführers (vgl. BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 8. Juni 2018 - 1 BvR 701/17 -, Rn. 8).
+
+12 2. Das Urteil vom 23. Oktober 2018 beruht auch auf dem Gehörsverstoß. Unterbleibt eine einfachrechtlich zwingend gebotene mündliche Verhandlung, kann in aller Regel nicht ausgeschlossen werden, dass bei Durchführung der mündlichen Verhandlung eine andere Entscheidung ergangen wäre, weil die mündliche Verhandlung grundsätzlich den gesamten Streitstoff in prozess- und materiellrechtlicher Hinsicht zum Gegenstand hat und je nach Prozesslage, Verhalten der Gegenseite und Hinweisen des Gerichts zu weiterem Sachvortrag, Beweisanträgen und Prozesserklärungen führen kann, ohne dass dies im Einzelnen sicher vorhersehbar wäre (BVerfG, Beschlüsse der 1. Kammer des Ersten Senats vom 8. Juni 2018 - 1 BvR 701/17 -, Rn. 9 und vom 13. Juni 2018 - 1 BvR 1040/17 -, Rn. 10).
+
+13 3. Vor diesem Hintergrund kann dahinstehen, ob Art. 103 Abs. 1 GG, der als Prozessgrundrecht sicherstellen soll, dass die Entscheidung frei von Verfahrensfehlern ergeht (vgl. BVerfGE 50, 32 <35>), noch im Hinblick auf die Auswahl des Sachverständigen verletzt ist (vgl. BGH, Beschluss vom 31. Mai 2016 - VI ZR 305/15 -, Rn. 13; BAG, Urteil vom 20. Oktober 1970 - 2 AZR 497/69 -, Rn. 24 unter Hinweis auf BGH, Urteil vom 25. Februar 1953 - II ZR 172/52 -, NJW 1953, S. 659 f.).
+
+IV.
+
+14 Das Urteil des Amtsgerichts vom 23. Oktober 2018 ist gemäß § 93c Abs. 2 in Verbindung mit § 95 Abs. 2 BVerfGG aufzuheben; die Sache ist an das Amtsgericht zurückzuverweisen.
+
+15 Die Entscheidung über die Auslagenerstattung folgt aus § 34a Abs. 2 BVerfGG.
