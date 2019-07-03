@@ -1,8 +1,8 @@
-# Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Maßnahmen im Rahmen der wettbewerblichen EU-Förderprogramme für Forschung und Innovation Vollzitat: Richtlinie des Sächsischen Staatsministeriu
+# Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Projekte im Forschungsbereich Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2017-02-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17180.1
+- Datum: 2019-07-03 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/18280.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,48 +25,40 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.02.2017
+03.07.2019
 bis
-30.06.2023
+31.12.2019
 
-Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Maßnahmen im Rahmen der wettbewerblichen EU-Förderprogramme für Forschung und Innovation
+Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Projekte im Forschungsbereich
 
 
-Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Maßnahmen im Rahmen der wettbewerblichen EU-Förderprogramme für Forschung und Innovation vom  7. März 2017 (SächsABl. S. 407), die durch die Richtlinie vom 14. Juni 2023 (SächsABl. S. 760) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  8. Dezember 2025 (SächsABl. SDr. S. S 263)
+Vollzitat: Richtlinie des Sächsischen Staatsministeriums für Wissenschaft und Kunst zur Gewährung von Zuwendungen für Projekte im Forschungsbereich vom  3. Juli 2019 (SächsABl. S. 1005), die zuletzt durch die Richtlinie vom 13. Juni 2023 (SächsABl. S. 761) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  8. Dezember 2025 (SächsABl. SDr. S. S 263)
 
 I.
-Rechtsgrundlage, Zuwendungszweck
-
+Zuwendungszweck, Rechtsgrundlagen
 
 1.
 
-
-Der Freistaat Sachsen gewährt Zuwendungen nach Maßgabe dieser Richtlinie und den folgenden haushaltsrechtlichen Bestimmungen: §§ 23 und 44 der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 13 des Gesetzes vom 15. Dezember 2016 (SächsGVBl. S. 630) geändert worden ist, in der jeweils geltenden Fassung, und den dazu erlassenen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 2. Februar 2017 (SächsABl. S. 254) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2015 (SächsABl. SDr. S. S 374), in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
-
+Der Freistaat Sachsen gewährt Zuwendungen nach Maßgabe dieser Richtlinie und den folgenden haushaltsrechtlichen Bestimmungen: §§ 23 und 44, 44 a der Sächsischen Haushaltsordnung in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 1 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung, und den dazu erlassenen Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung vom 27. Juni 2005 (SächsABl. SDr. S. S 226), die zuletzt durch die Verwaltungsvorschrift vom 27. Februar 2019 (SächsABl. S. 451) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 8. Dezember 2017 (SächsABl. SDr. S. S 378), in der jeweils geltenden Fassung, soweit in dieser Richtlinie keine abweichenden Regelungen getroffen werden.
 
 2.
 
+Ziele der Förderung sind:
 
-Ziel der Förderung ist die:
+
+Stärkung des Forschungs-, Entwicklungs- und Innovationsstandortes Sachsen im nationalen und globalen Wettbewerb durch eine kontinuierliche Profilierung der Wissenschaftseinrichtungen, insbesondere durch
 
 
 a)
 
-Stärkung der Beteiligung sächsischer Wissenschaftlerinnen und Wissenschaftler an Ausschreibungen im Rahmen wettbewerblicher EU-Förderprogramme für Forschung und Innovation sowie Erhöhung der Erfolgsquote,
+Ausbau vorhandener Expertise sowie Anregung der Entwicklung innovativer, zukunftsweisender Kompetenzen
 
 
 b)
 
-Stärkung der Beteiligung sächsischer Hochschulen und Forschungseinrichtungen an Netzwerkaktivitäten im Rahmen wettbewerblicher EU-Förderprogramme für Forschung und Innovation,
-
-
-c)
-
-Stärkung der europäischen Sichtbarkeit Sachsens im Bereich Forschung und Innovation.
-
+Initiierung und Ausbau wissenschaftlicher Vernetzungsaktivitäten sowie Anbahnung und Etablierung von Kooperationen mit Wirtschaft und Gesellschaft.
 
 3.
-
 
 Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Die Entscheidung ergeht nach pflichtgemäßem Ermessen im Rahmen verfügbarer Haushaltsmittel.
 
@@ -74,283 +66,200 @@ Ein Anspruch des Antragstellers auf Gewährung der Zuwendung besteht nicht. Die 
 II.
 Gegenstand der Förderung
 
+Gefördert werden Einzel- und Kooperationsprojekte der Grundlagen- und anwendungsorientierten Forschung sowie weitere Maßnahmen, die ein Erreichen der unter Ziffer I ausgewiesenen Ziele unterstützen. Insbesondere können Zuwendungen beantragt werden für:
 
-Gefördert werden die:
+a)
 
+Projekte, die innovative Forschungsanschübe zur Profilierung einzelner Einrichtungen und/oder Verbünde darstellen
 
-1.
+b)
 
+Projekte, die auf eine Erweiterung und/oder Konzentration wissenschaftlicher Expertise abzielen
 
-Durchführung von Forschungsprojekten im Rahmen von wettbewerblichen EU-Förderprogrammen wie zum Beispiel Europäischen Forschungsnetzwerken (ERA-Nets), in denen der Freistaat Sachsen Partner ist,
+c)
 
+Projekte zur Stärkung der Drittmittelfähigkeit einzelner Einrichtungen und/oder Verbünde
 
-2.
+d)
 
-
-Vorbereitung und Unterstützung von Netzwerkaktivitäten im Rahmen von wettbewerblichen EU-Förderprogrammen im Bereich Forschung und Innovation wie zum Beispiel von Europäischen Wissens- und Innovationsgemeinschaften (KICs).
+Projekte, die Kooperationen mit Wirtschaft und Gesellschaft anstoßen und/oder vertiefen.
 
 
 III.
 Zuwendungsempfänger
 
-
 Antragsberechtigt sind:
 
+a)
 
-1.
+Hochschulen gemäß § 1 Absatz 1 des Sächsischen Hochschulfreiheitsgesetzes in der Fassung der Bekanntmachung vom 15. Januar 2013 (SächsGVBl. S. 3), das zuletzt durch Artikel 2 Absatz 27 des Gesetzes vom 5. April 2019 (SächsGVBl. S. 245) geändert worden ist, in der jeweils geltenden Fassung
 
+b)
 
-Hochschulen nach § 1 Absatz 1 des Sächsischen Hochschulfreiheitsgesetzes in der Fassung der Bekanntmachung vom 15. Januar 2013 (SächsGVBl. S. 3), das zuletzt durch Artikel 11 des Gesetzes vom 29. April 2015 (SächsGVBl. S. 349) geändert worden ist, in der jeweils geltenden Fassung, und Forschungszentren gemäß § 94 des Sächsischen Hochschulfreiheitsgesetzes,
+Forschungszentren gemäß § 94 des Sächsischen Hochschulfreiheitsgesetzes
 
+c)
 
-2.
+gemeinnützige Forschungseinrichtungen im Status eines An-Instituts gemäß § 95 des Sächsischen Hochschulfreiheitsgesetzes
 
+d)
 
-institutionell geförderte außeruniversitäre Forschungseinrichtungen, wenn sie ihren Geschäftssitz im Freistaat Sachsen haben,
+durch das Staatsministerium für Wissenschaft und Kunst institutionell geförderte außeruniversitäre Forschungseinrichtungen und Hochschulen
 
+e)
 
-3.
-
-
-gemeinnützige Forschungseinrichtungen im Status eines An-Instituts gemäß § 95 des Sächsischen Hochschulfreiheitsgesetzes.
+die Berufsakademie Sachsen gemäß § 3 des Sächsischen Berufsakademiegesetzes vom 9. Juni 2017 (SächsGVBl. S. 306), das durch Artikel 26 des Gesetzes vom 14. Dezember 2018 (SächsGVBl. S. 782) geändert worden ist, in der jeweils geltenden Fassung.
 
 
 IV.
 Zuwendungsvoraussetzungen
 
-
 1.
 
-
-Voraussetzung für Zuwendungen auf Grundlage dieser Richtlinie ist ein herausgehobenes forschungs- und europapolitisches Interesse des Freistaates Sachsen an der Durchführung der Maßnahme. Insbesondere wird erwartet, dass die wissenschaftliche Exzellenz sowie die europäische Vernetzung und Sichtbarkeit der Wissenschaft in Sachsen nachhaltig gestärkt wird.
-
+Voraussetzung für Zuwendungen auf Grundlage dieser Richtlinie ist ein herausgehobenes forschungspolitisches Interesse des Freistaates Sachsen an der Umsetzung der Maßnahme. Insbesondere wird erwartet, dass diese dem Erhalt und der Stärkung des Forschungs-, Entwicklungs- und Innovationsstandortes Sachsen dient.
 
 2.
 
-
 Die thematisch, zeitlich und finanziell abgegrenzten Projekte müssen zusätzliche Vorhaben der Antragsteller darstellen und dürfen noch nicht begonnen worden sein. Die Zuwendungsempfänger müssen sich verpflichten, die für die Bearbeitung der Forschungsprojekte und Maßnahmen erforderliche Grundausstattung, insbesondere die notwendige Infrastruktur, mit eigenen Mitteln zu sichern.
-
 
 3.
 
-
-Für die unter Ziffer II Nummer 1 angeführten Forschungsprojekte muss eine Förderempfehlung durch internationale Gutachter im Rahmen der ERA-Net-Evaluierungsverfahren vorliegen.
-
-Die Förderung der Vorbereitung von Netzwerkaktivitäten nach Ziffer II Nummer 2 setzt eine durch die Europäische Kommission geplante Ausschreibung im Rahmen wettbewerblicher EU-Initiativen voraus.
-
-Die Unterstützung von Netzwerkaktivitäten (zum Beispiel KICs) nach Ziffer II Nummer 2 setzt eine Förderempfehlung der Europäischen Kommission beziehungsweise des Europäischen Technologieinstituts im Rahmen wettbewerblicher EU-Initiativen voraus.
-
-
-4.
-
-
-Die Höhe der beantragten Fördermittel muss zum Erreichen des Vorhabenzieles notwendig sein und den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit entsprechen. Dies beinhaltet auch, dass alle mit dem Zuwendungszweck zusammenhängenden Einnahmen/Erträge als Deckungsmittel für alle mit dem Zuwendungszweck zusammenhängenden Ausgaben/Kosten einzusetzen sind.
-
-Der Antrag muss alle zur Beurteilung erforderlichen Angaben enthalten, insbesondere zu konkreten und abrechenbaren Zielvorstellungen, der Kompetenz der Antragsteller, dem zusätzlichen Nutzen der Zusammenarbeit mit den europäischen Partnern sowie zur nachhaltigen Wirksamkeit der Fördermaßnahme für die Stärkung der Wissenschaft in Sachsen. Diese Kriterien sind dem Antragsformular zu entnehmen.
+Die Höhe der beantragten Fördermittel muss zum Erreichen des Vorhabenzieles notwendig sein und den Grundsätzen der Wirtschaftlichkeit und Sparsamkeit entsprechen.
 
 
 V.
 Art und Umfang, Höhe der Zuwendung
 
-
 1.
 
-
-Die Zuwendungen werden im Wege der Projektförderung in Form eines nicht rückzahlbaren Zuschusses gewährt. Die Mittel werden grundsätzlich als Anteilfinanzierung gewährt. Von der Teilfinanzierung kann zur Vollfinanzierung auf Antrag abgewichen werden, wenn der Zuwendungsempfänger im begründeten Einzelfall nicht in der Lage ist, Eigen- oder Fremdmittel zur Sicherstellung der Gesamtfinanzierung einzusetzen. Sofern Eigen- oder Fremdmittel nicht eingesetzt werden können, ist dies durch den Antragsteller anhand einer schriftlichen Erklärung beziehungsweise geeigneter Unterlagen darzulegen. Die Finanzierung muss beihilferechtlich zulässig sein.
-
+Zuwendungen werden auf dem Wege der Projektförderung in Form eines nichtrückzahlbaren Zuschusses als Vollfinanzierung in Höhe von 100 Prozent der förderfähigen Ausgaben und Kosten gewährt.
 
 2.
 
+Die Zuwendung wird auf Antrag entweder auf Ausgaben- oder Kostenbasis gewährt. Förderfähig sind nur Ausgaben oder Kosten, die vorhabenbezogen und außerhalb gesetzlich vorgeschriebener Aufgaben oder Pflichtaufgaben entstehen.
 
-Förderfähig sind nur Ausgaben beziehungsweise Kosten, die vorhabenbezogen und außerhalb gesetzlich vorgeschriebener Aufgaben oder Pflichtaufgaben entstehen.
+3.
+
+Sofern dem Antragsteller eine Förderung auf Ausgabenbasis gewährt wird, gelten die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung
+
+(ANBest-P), Anlage 2 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
+
 
 Als zuwendungsfähige Ausgaben für Maßnahmen nach Ziffer II können anerkannt werden:
 
 
 a)
 
-Personalausgaben für Forscher, Techniker und sonstige unterstützende Personen, soweit diese in dem Projekt beschäftigt sind,
+Personalausgaben für Wissenschaftler, Techniker und sonstige unterstützende Personen, sofern diese für das Projekt tätig sind; hierunter wird auch verwaltungsunterstützendes Personal gefasst, soweit es dem Projekt direkt zurechenbar ist
 
 
 b)
 
-Sachausgaben einschließlich Reisekosten, soweit sie für die Durchführung des Vorhabens als notwendig nachgewiesen werden und nicht die erforderliche Grundausstattung betreffen,
+Ausgaben für Aufträge/Fremdleistungen; diese dürfen im Regelfall 20 Prozent der Gesamtprojektausgaben nicht überschreiten
 
 
 c)
 
-Ausgaben für Fremdleistungen, sofern sie für die Durchführung des Projektes als notwendig nachgewiesen werden, sollten im Regelfall 20 Prozent der Gesamtprojektkosten nicht übersteigen,
+Ausgaben für ausschließlich vorhabenspezifische Ausstattungs- und Ausrüstungsgegenstände (keine Baumaßnahmen)
 
 
 d)
 
-Investitionen für ausschließlich vorhabenspezifische Ausrüstungen (keine Baumaßnahmen), sofern diese nicht die erforderliche Grundausstattung unter Ziffer IV Nummer 2 betreffen und nach Ende des Bewilligungszeitraums im Rahmen der im Zuwendungsbescheid festgelegten Zweckbindungsfrist ausschließlich für nichtwirtschaftliche Tätigkeiten im Bereich Forschung und Lehre eingesetzt werden,
+sonstige Sachausgaben einschließlich Reisekosten.
+
+4.
+
+Sofern dem Antragsteller eine Förderung auf Kostenbasis gewährt wird, gelten die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung auf Kostenbasis (ANBest-P Kosten), Anlage 4 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung.
 
 
-e)
-
-Ausgaben für Patentierung.
-
-
-3.
-
-
-Sofern beim Antragsteller die Voraussetzungen für eine Förderung auf Kostenbasis gegeben sind, können für die Maßnahmen nach Ziffer II als zuwendungsfähige Kosten anerkannt werden:
+Als zuwendungsfähige Kosten für Maßnahmen nach Ziffer II können anerkannt werden:
 
 
 a)
 
-Personalkosten für Forscher, Techniker und sonstige unterstützende Personen, soweit diese in dem Projekt beschäftigt sind,
+Personalkosten für Wissenschaftler, Techniker und sonstige unterstützende Personen, sofern diese für das Projekt tätig sind; hierunter wird auch verwaltungsunterstützendes Personal gefasst, soweit es dem Projekt direkt zurechenbar ist
 
 
 b)
 
-Sachkosten einschließlich Reisekosten, soweit sie als Einzelkosten abrechnungsfähig sind und für die Durchführung des Vorhabens als notwendig nachgewiesen werden,
+Kosten für Aufträge/Fremdleistungen; diese dürfen im Regelfall 20 Prozent der Gesamtkosten nicht überschreiten
 
 
 c)
 
-Personal- und Sachgemeinkosten, sofern nicht eine pauschalierte Abrechnung nach Ziffer VI Nummer 2 der Allgemeinen Nebenbestimmungen zur Projektförderung auf Kostenbasis (ANBest-P-Kosten, Anlage 4 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) zugelassen ist,
+Kosten für Abschreibungen auf vorhabenspezifische Ausstattungs- und Ausrüstungsgegenstände (keine Baumaßnahmen)
 
 
 d)
 
-Kosten für Fremdleistungen, sofern sie für die Durchführung des Projektes als notwendig nachgewiesen werden,
+sonstige Sacheinzelkosten einschließlich Reisekosten.
 
+5.
 
-e)
-
-Kosten für Patentierung,
-
-
-f)
-
-Kosten für Abschreibungen auf vorhabenspezifische Ausstattungs- und Ausrüstungsgegenstände.
-
-
-4.
-
-
-Personalausgaben/Personalkosten sind maximal bis zur Höhe der für wissenschaftliches und sonstiges Personal geltenden einschlägigen tariflichen Bestimmungen förderfähig. Reisekosten sind nach dem Sächsischen Reisekostengesetz vom 12. Dezember 2008 (SächsGVBl. S. 866, 876), das zuletzt durch Artikel 13 des Gesetzes vom 18. Dezember 2013 (SächsGVBl. S. 970) geändert worden ist, in der jeweils geltenden Fassung, der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug des Sächsischen Reisekostengesetzes vom 22. September 2009 (SächsABl. S. 1691, 1923), die zuletzt durch die Verwaltungsvorschrift vom 6. Mai 2015 (SächsABl. S. 763) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2015 (SächsABl. SDr. S. S 374), in der jeweils geltenden Fassung, und der Sächsischen Auslandsreisekostenverordnung in der Fassung der Bekanntmachung vom 2. Oktober 2012 (SächsGVBl. S. 535), die zuletzt durch Artikel 1 der Verordnung vom 25. Juni 2015 (SächsGVBl. S. 445) geändert worden ist, in der jeweils geltenden Fassung, abzurechnen.
+Die Förderung nach dieser Richtlinie entfällt, wenn vom Antragsteller die zuwendungsfähigen Ausgaben und Kosten mit Mitteln aus anderen Programmen in Anspruch genommen werden.
 
 
 VI.
 Sonstige Zuwendungsbestimmungen
 
-
-1.
-
-
-Für Zuwendungen zur Projektförderung auf Ausgabenbasis gelten die Allgemeinen Nebenbestimmungen zur Projektförderung (ANBest-P, Anlage 2 der Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung).
-
-
-2.
-
-
-Für Zuwendungen zur Projektförderung auf Kostenbasis gelten die Allgemeinen Nebenbestimmungen zur Projektförderung auf Kostenbasis (ANBest-P-Kosten).
-
-
-3.
-
-
-Die Bewilligungsbehörde lässt auf Antrag des Zuwendungsempfängers die Verwendung anderer, zur Erreichung des Zuwendungszwecks gleichwertige Standards zu, soweit diese wirtschaftlich sind. Die für die Beurteilung des Antrages erforderlichen Angaben sind diesem beizufügen.
-
-
-4.
-
-
-Der Zuwendungsempfänger wird verpflichtet, das Projekt sowie Zwischen- und Endergebnisse im Rahmen von regionalen und europäischen Veranstaltungen unter Beteiligung internationaler Gutachter, zum Beispiel ERA-Net Konferenzen, zu präsentieren.
-
-
-5.
-
-
-Der Zuwendungsempfänger wird verpflichtet, an der Evaluation des geförderten Vorhabens mitzuwirken, auch wenn das Vorhaben bereits beendet ist.
-
-
-6.
-
-
-Bei Veröffentlichungen ist in geeigneter Form darauf hinzuweisen, dass das Vorhaben vom Freistaat Sachsen und gegebenenfalls von der Europäischen Union gefördert wird.
-
+Ausgaben und Kosten für ausschließlich vorhabenspezifische Ausstattungs- und Ausrüstungsgegenstände sind zuwendungsfähig, sofern diese nach Ende des Bewilligungszeitraumes im Rahmen der im Zuwendungsbescheid festgelegten Zweckbindungsfrist von fünf Jahren ausschließlich für nichtwirtschaftliche Tätigkeiten im Bereich Forschung und/oder Lehre eingesetzt werden.
 
 VII.
 Verfahren
 
-
 1.
 
-
-Für Maßnahmen nach Ziffer II Nummer 1:
-
-Das Staatsministerium für Wissenschaft und Kunst kann im Rahmen seiner Beteiligung an Ausschreibungen von wettbewerblichen EU-Förderprogrammen wie zum Beispiel Europäischen Forschungsnetzwerken (ERA-Nets), in denen der Freistaat Sachsen Partner ist, zu Auswahlverfahren für den unter Ziffer II Nummer 1 aufgeführten Fördergegenstand aufrufen. Dem Antragsverfahren nach dieser Richtlinie für den unter Ziffer II Nummer 1 aufgeführten Fördergegenstand ist entsprechend den ERA-Net-Ausschreibungen die Einreichung von Projektskizzen und Projektanträgen im zweistufigen Verfahren oder nur von Projektanträgen im einstufigen Verfahren in englischer Sprache beim ERA-Net-Call-Büro vorgeschaltet. Nach Weiterleitung der Unterlagen durch das ERA-Net-Call-Büro prüft das Staatsministerium für Wissenschaft und Kunst die Projektskizzen und/oder Projektanträge hinsichtlich der Erfüllung der formalen Voraussetzungen nach den Ziffern II und III dieser Richtlinie. Die Projektskizzen und die Projektanträge werden auf Veranlassung des Staatsministeriums für Wissenschaft und Kunst durch internationale Gutachter im Rahmen des ERA-Net-Evaluierungsverfahrens bewertet. Nach der Entscheidung über die Förderwürdigkeit im Rahmen des ERA-Net-Evaluierungsverfahrens kann das Staatsministerium für Wissenschaft und Kunst zur Antragstellung bei der Sächsischen Aufbaubank – Förderbank – (SAB) auffordern. Alle Anträge auf Zuwendungen für Maßnahmen nach Ziffer II Nummer 1 dieser Richtlinie werden durch das Staatsministerium für Wissenschaft und Kunst nach forschungs- und europapolitischen Gesichtspunkten bewertet.
-
+Das Staatsministerium für Wissenschaft und Kunst kann zu Auswahlverfahren für die unter Ziffer II aufgeführten Fördergegenstände aufrufen. Ebenso ist die Vorlage von wissenschaftlichen Einzelanliegen gegenüber dem Staatsministerium für Wissenschaft und Kunst möglich.
 
 2.
 
-
-Für Maßnahmen nach Ziffer II Nummer 2:
-
-Die Beantragung von Zuwendungen für die Vorbereitung von Netzwerkaktivitäten im Rahmen von wettbewerblichen EU-Förderprogrammen im Bereich Forschung und Innovation wie zum Beispiel von Europäischen Wissens- und Innovationsgemeinschaften (KICs) setzt nach Ziffer IV Nummer 3 eine durch die Europäische Kommission geplante Ausschreibung voraus. Die Beantragung von Zuwendungen für die Unterstützung von Netzwerkaktivitäten wie zum Beispiel KICs nach Ziffer IV Nummer 3 setzt eine Förderempfehlung der Europäischen Kommission beziehungsweise des Europäischen Technologieinstituts im Rahmen wettbewerblicher EU-Initiativen voraus. Alle Anträge auf Zuwendungen für Maßnahmen nach Ziffer II Nummer 2 dieser Richtlinie werden durch das Staatsministerium für Wissenschaft und Kunst nach forschungs- und europapolitischen Gesichtspunkten bewertet.
-
-
-Anträge auf Zuwendungen sind an die
-
-Sächsische Aufbaubank – Förderbank – (SAB)
-
-Pirnaische Straße 9
-
-01069 Dresden
-
-zu richten.
-
+Das Antragsverfahren ist zweistufig. Voraussetzung für die Einreichung eines Zuwendungsantrags (Vollantrags) ist die Feststellung der Förderwürdigkeit des Vorhabens. Sofern das Staatsministerium für Wissenschaft und Kunst keine abweichenden Regelungen trifft, ist die Vorlage einer Projektskizze beim Staatsministerium für Wissenschaft und Kunst notwendig. Diese Skizze wird einem externen wissenschaftlichen Begutachtungsverfahren unterzogen sowie hinsichtlich der aufgeführten Förderziele wissenschaftspolitisch bewertet. Bei positivem Ergebnis fordert das Staatsministerium für Wissenschaft und Kunst zur Antragstellung gegenüber der Bewilligungsstelle auf.
 
 3.
 
+Antrags- und Bewilligungsstelle ist die
 
-Bewilligungsstelle ist die SAB. Die Zuwendungen werden im Auftrag des Staatsministerium für Wissenschaft und Kunst durch die SAB bewilligt.
-
+Sächsische Aufbaubank – Förderbank – (SAB)
+Abteilung Wirtschaft
+Pirnaische Straße 9
+01069 Dresden
 
 4.
 
-
-Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die Verwaltungsvorschriften zu § 44 der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen sind.
-
+Zuwendungsanträge (Vollanträge) sind an die oben genannte Anschrift zu senden. Eine Kopie ist dem Staatsministerium für Wissenschaft und Kunst durch den Antragsteller zu übermitteln.
 
 5.
 
+Ein einfacher Verwendungsnachweis wird zugelassen.
 
-Für kaufmännisch wirtschaftende Zuwendungsempfänger wird grundsätzlich eine pauschalierte Abrechnung gemäß AN-Best-P-Kosten zugelassen.
+6.
+
+Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gelten die Verwaltungsvorschriften zu § 44 und 44a der Sächsischen Haushaltsordnung, soweit nicht in dieser Richtlinie Abweichungen zugelassen sind.
 
 
 VIII.
-Inkrafttreten
+Inkrafttreten und Außerkrafttreten
 
+Diese Richtlinie tritt mit Wirkung vom 3. Juli 2019 in Kraft.
 
-Diese Richtlinie tritt mit Wirkung vom 1. Februar 2017 in Kraft.
-
-
-Dresden, den 7. März 2017
-
+Dresden, den 3. Juli 2019
 
 Die Staatsministerin für Wissenschaft und Kunst
-
 Dr. Eva-Maria Stange
-
 
 Verweis auf Bundesgesetze
 
 Fundstelle und systematische Gliederungsnummer
 
-SächsABl. 2017 Nr. 12, S. 407
+SächsABl. 2019 Nr. 29, S. 1005
 
-Fsn-Nr.: 5572-V17.1
+Fsn-Nr.: 5572-V19.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. Februar 2017
+Fassung gültig ab:  3. Juli 2019
 
-Fassung gültig bis: 30. Juni 2023
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -375,7 +284,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17180.1
+https://www.revosax.sachsen.de/vorschrift/18280.1
 Stand vom
 18.11.2026
 
