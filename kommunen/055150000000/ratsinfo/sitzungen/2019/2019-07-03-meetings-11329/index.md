@@ -1,0 +1,85 @@
+# 40. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-07-03T17:38:00+02:00
+- Ende: 2019-07-03T22:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11329
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11329
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00445759.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Beschluss des Rates vom 22.05.2019 - Erklärung des Klimanotstandes - Verfassungsfrage - Grundgesetz Artikel 20a - zurückgezogen
+- TOP 1.2: Maßnahmen und Initiativen um das Verfehlen des Klimaziels, die CO2-Emissionen bis 2020 um 40 % zu reduzieren, weniger deutlich ausfallen zu lassen
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2016 - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen an den Sonntagen 17.05.2020 und 30.05.2021 in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 12: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2018 - einstimmig beschlossen
+- TOP 13: Haushaltsplanentwurf 2020 -Haushaltseckwerte / Investitionsprogramm- - zur Kenntnis genommen
+- TOP 14: Ausbau des Stadions an der Hammer Straße einschl. Mobilitätsstation - mehrheitlich beschlossen
+- TOP 15: Städtische Bäder
+- TOP 15.1: Organisationsform der städtischen Bäder - mehrheitlich beschlossen
+- TOP 15.2: Eine attraktive Bäderlandschaft für Münster - mehrheitlich geändert beschlossen
+- TOP 16: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2018 - mehrheitlich beschlossen
+- TOP 17: Stadthaussaal: Ein Ort der Partizipation und dialogorientierten Bürgerbeteiligung, ein Ort für ausgewählte interdisziplinäre Kunst- und Kulturprogramme in Verbindung mit einem dauerhaften Ort für das Stadtmodell ("Münster Modell") - mehrheitlich geändert beschlossen
+- TOP 18: Marke "Münsterland" - mehrheitlich geändert beschlossen
+- TOP 19: Neustrukturierung des Zweckverbandes Nahverkehr Westfalen-Lippe (NWL) - mehrheitlich beschlossen
+- TOP 20: Neue Qualitätsstandards für Fahrradstraßen - mehrheitlich beschlossen
+- TOP 21: Fahrradtauglicher Ausbau der Betriebswege am Dortmund-Ems-Kanal (DEK) - einstimmig beschlossen
+- TOP 22: Intensivierung der Baulandentwicklung - Fortschreibung des Baulandprogramms 2019 - 2025/2030 - mehrheitlich geändert beschlossen
+- TOP 23: vhs-Sanierung für den Übergang - mehrheitlich beschlossen
+- TOP 24: Fertigbauklassen für das Schulzentrum Wolbeck - Errichtungsbeschluss - einstimmig beschlossen
+- TOP 25: Vergabe Winterdienst an und auf städtischen Schulgeländen - mehrheitlich beschlossen
+- TOP 26: Zwischenbericht Schulentwicklungsplanung Berufskollegs - mehrheitlich geändert beschlossen
+- TOP 27: Übergang Schule-Beruf in Münster - einstimmig beschlossen
+- TOP 28: Sicherungsmaßnahmen an städt. Schulgebäuden - mehrheitlich beschlossen
+- TOP 28.1: Sicherungsmaßnahmen an städt. Schulgebäuden
+- TOP 29: Änderungen der Satzung und Wahlordnung des Jugendrates sowie des Jugendamtes der Stadt Münster - einstimmig beschlossen
+- TOP 30: Bildungsbericht zum Stand der Indexbildung als Monitoringverfahren im Übergang Kindertageseinrichtung -Grundschule Startbedingungen von Kindern zu Beginn der Schullaufbahn - zur Kenntnis genommen
+- TOP 31: Einrichtung Haus des Jugendrechts - einstimmig beschlossen
+- TOP 31.1: Einrichtung Haus des Jugendrechts
+- TOP 32: Feststellung der Jahresabschlüsse 2018 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 33: Modellprojekt zur Tagesstrukturierung und qualifikationsfördernden Begleitung für alleinstehende männliche Flüchtlinge - mehrheitlich beschlossen
+- TOP 34: Mobilität und Teilhabe für Flüchtlinge in der Zentralen Unterbringungseinrichtung (ZUE) des Landes NRW - mehrheitlich beschlossen
+- TOP 35: Mittelumschichtung im Haushaltsbudget der Westfälischen Schule für Musik im Rahmen von überplanmäßigen Aufwendungen für Honorarkräfte - einstimmig beschlossen
+- TOP 36: Strategische Neuausrichtung der Depotflächen des Stadtmuseums Münster - einstimmig beschlossen
+- TOP 37: Neubau einer 6-Gruppen-Kindertageseinrichtung am Nottulner Landweg in Münster-Roxel - mehrheitlich beschlossen
+- TOP 38: Neubau einer 4-Gruppen-Kindertageseinrichtung am Nordkirchenweg in Münster-Hiltrup - mehrheitlich beschlossen
+- TOP 39: Neubau des Feuerwehrhauses für den Löschzug Roxel der Freiwilligen Feuerwehr Münster, Tilbecker Straße - einstimmig beschlossen
+- TOP 40: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2018 - einstimmig beschlossen
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Münster-West
+- TOP 41.1.1: 2. Änderung des Bebauungsplans Nr. 409 - Geänderter Beschluss zur Änderung - einstimmig beschlossen
+- TOP 41.1.2: Bebauungsplan Nr. 602 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 41.2: Stadtbezirk Münster-Nord
+- TOP 41.2.1: Bebauungsplans Nr. 557: Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 42: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 43: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 43.1: Klimanotstand – Sofortmaßnahmen der Stadt Münster - verwiesen
+- TOP 43.2: Klimauhr am Rathaus anbringen - verwiesen
+- TOP 43.3: Eine Lösung für die Prinzbrücke in Münster-Hiltrup jetzt - mehrheitlich beschlossen
+- TOP 43.4: Anpassung der Dezernatsgliederung und Ausschreibung der Stelle des Stadtkämmerers - mehrheitlich beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 44.1: Umweltschonenden Antrieb für die reaktivierte WLE heute sicherstellen! - Wasserstoff statt Diesel – - verwiesen
+- TOP 44.2: Münster braucht die Verkehrswende – ÖPNV stärken, Mobilstationen einrichten - verwiesen
+- TOP 44.3: Münster braucht die Verkehrswende – Parkraumkonzept fortschreiben und anpassen - verwiesen
+- TOP 44.4: Aufforsten gegen den Klimawandel - verwiesen
+- TOP 44.5: Schwimmangebot in Münster ausbauen - verwiesen
+- TOP 44.6: Tiny-House-Siedlung - verwiesen
+- TOP 44.7: Prüfung des Ludwigsburger Modells eines Ausweis-Automaten - verwiesen
+- TOP 44.8: Kindertagespflege finanziell und konzeptionell weiterentwickeln - verwiesen
+- TOP 44.9: Schnelle Busse verbinden Münster mit dem Münsterland - verwiesen
+- TOP 45: Verschiedenes
