@@ -1,0 +1,61 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-07-03T15:00:00+02:00
+- Ende: 2019-07-03T21:25:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4565
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4565
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00156032.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00156032.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00156032.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 38. Sitzung des Rates am 29.05.2019 - öffentlicher Teil - Siehe Anlage
+- TOP 2: Abschlussergebnis Stadtsparkasse 2018 - Einstimmiger Beschluss
+- TOP 3: Entlastung Sparkassenorgane - Einstimmiger Beschluss
+- TOP 4: 14. Konferenz der Ratsmitglieder beim Städtetag NRW am 11.12.2019 in Köln - Einstimmiger Beschluss
+- TOP 5: Externe Organisationsuntersuchung des FB 14 - Rechnungsprüfung - Kenntnisnahme
+- TOP 5.1: Externe Organisationsuntersuchung des FB 14 - Mit Stimmenmehrheit beschlossen
+- TOP 5.2: Externe Organisationsuntersuchung des FB 14 - Getrennte Abstimmung (s. Niederschrift)
+- TOP 6: Mitgliedschaften der Städtische Kliniken MG GmbH und der Altenheime der Stadt MG GmbH - Einstimmiger Beschluss
+- TOP 7: Vertretung der Stadt Mönchengladbach - Siehe Niederschrift
+- TOP 8: Rathaus der Zukunft mg+; Organisationsstruktur für den Bau - Mit Stimmenmehrheit beschlossen
+- TOP 9: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (1. Nachweisung) - Kenntnisnahme
+- TOP 9.1: Dringlichkeitsantrag gem. §3 Abs. 3 der GO des Rates, Beratungsgegenstand: - Siehe Niederschrift
+- TOP 10: Gleichstellungsplan der Stadt Mönchengladbach 2024 (GP-MG 2024) - Einstimmiger Beschluss
+- TOP 11: Umbesetzung der Zweckverbandsversammlung ITK-Rheinland - Einstimmiger Beschluss
+- TOP 12: Ordnungsbehördliche Verordnungen Offenhalten Verkaufsstellen Fest am See und Stadtfest 2019 - Mit Stimmenmehrheit beschlossen
+- TOP 13: Bildung eines Wahlausschusses für die Kommunalwahl 2020 - Einstimmiger Beschluss
+- TOP 14: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 15: Rahmenplan "Offener Ganztag und schulische Betreuung" im Primarbereich - Einstimmiger Beschluss
+- TOP 16: Entwicklung des Umfeldes Grenzlandstadion zu einem "Campuspark" - Einstimmiger Beschluss
+- TOP 16.1: Entwicklung des Umfeldes Grenzlandstadion zu einem "Campuspark" hier: Inangriffnahme 1. Bauabschnitt - Mit Stimmenmehrheit abgelehnt
+- TOP 17: Familienzentren an Grundschulen - Einstimmiger Beschluss
+- TOP 18: Quartiersrichtlinien - Mit Stimmenmehrheit beschlossen
+- TOP 18.1: Vorlagen-Nr. 3885/IX: Richtlinien für die Gewährung von Zuwendungen - Mit Stimmenmehrheit abgelehnt
+- TOP 19: Leistungsvertrag Drogenberatung - Einstimmiger Beschluss
+- TOP 20: Kommunale Pflegeplanung - Einstimmiger Beschluss
+- TOP 21: Anregung zur Ausrufung des Klimanotstandes - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 21.1: zu TOP 21 (Beratungsvorlage 3950/IX): „Anregung zur Ausrufung des Klimanotstandes und Berücksichtigu - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 21.2: Top 21 „Anregung zur Ausrufung des Klimanotstands und Berücksichtigung klimatischer Folgen bei - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 21.3: Vorlagen-Nr. 3950/IX: Anregung zur Ausrufung des Klimanotstands und Berücksichtigung klimatischer Fo - An den Ausschuss für Feuerwehr, öffentliche Ordnung und Katastrophenschutz verwiesen
+- TOP 22: Bebauungsplan Nr. 784/N ("Venn, Görthenweg") - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 23: Bebauungsplan Nr. 791/N (Kapuzinerplatz, Markthalle) - Satzungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 24: Bebauungsplan Nr. 790/N "Humboldtstraße" - Satzungsbeschluss - Einstimmiger Beschluss
+- TOP 25: Wohnungsmarkt in Mönchengladbach - Auf Vielfalt bauen! - Mit Stimmenmehrheit beschlossen
+- TOP 25.1: Vorlagen-Nr. 3864/IX: Wohnungsmarkt in Mönchengladbach – Auf Vielfalt bauen! - Siehe Niederschrift
+- TOP 26: Jahresbericht zur Abwasserbeseitigung 2018 der NEW AG - Kenntnisnahme
+- TOP 27: Beflaggung der Rathäuser (MG & Ry) und der Bezirksverwaltungsstellen mit der Regenbogenfahne - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Optimierung Postzustellung - Altbewährtes nutzen ! - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Umstellung der Energielieferung der NEW AG von Braunkohlebasis auf erneuerbare Energien - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Anfragen und Mitteilungen - Zur Kenntnis genommen
+- TOP 30.1: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zur mags AÖR - Zur Kenntnis genommen
+- TOP 30.2: Anfrage von RH Schultz zur "Tihange abschalten Säule"
+- TOP 30.3: Anfrage von RH Schultz zur traditionellen Sommer-Sondersitzung des Rates
+- TOP 30.4: Anfrage von RH Baus (FDP) zur Tiefgarage am Geroweiher
+- TOP 30.5: Mitteilung von Beigerdnetem Dr. Fischer zur Errichtung eines nationalen Hockey Trainingszentrums
