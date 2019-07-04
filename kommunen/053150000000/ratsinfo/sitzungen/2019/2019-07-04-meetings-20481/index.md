@@ -1,0 +1,72 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-04T17:00:00+02:00
+- Ende: 2019-07-04T19:10:00+02:00
+- Ort: Gut Leidenhausen 1, 51147 Köln
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20481
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20481
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Benennung von zwei Planstraßen im Baugebiet Porz-Zündorf - ungeändert beschlossen
+- TOP 6.2: Einbeziehung einer Planstraße in Köln-Porz/Langel - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Freigabe- und Baubeschluss der Maßnahme "Umbau von zwei öffentlichen Platzflächen zu multifunktionalen Freiräumen mit Retentionsfunktion (Eiler Schützenplatz und Platz an der Leidenhausener Straße)" in Köln-Porz-Eil - mit Änderungen empfohlen
+- TOP 7.2: ISEK Porz-Mitte - Glashütte - ungeändert empfohlen
+- TOP 7.3: Parkgebührenordnung 2019 - Sammelumdruck - endgültig abgelehnt
+- TOP 7.3.1: Änderungsantrag der Fraktion die Linke im Rat :"Parkgebührenordnung 2019" - endgültig abgelehnt
+- TOP 7.4: Gesamtkonzept Bewegungsparcours im Kölner Grün - mit Änderungen empfohlen
+- TOP 7.5: 271. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 7.6: TU-/GU-Schulbaumaßnahmenpaket: Neubau/Erweiterung/Generalsanierung von Schulgebäuden durch Total- oder Generalunternehmer – Erweiterung und Aktualisierung - ungeändert empfohlen
+- TOP 7.7: Baubeschluss zur Generalsanierung der Sportanlage Humboldtstraße, nördlicher Platz - Sammelumdruck - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der SPD-Fraktion: Gegenläufiger Radverkehr - ungeändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4: Antrag der CDU-Fraktion: Endhaltestelle Zündorf - ungeändert beschlossen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: NEUFASSUNG: Antrag der Fraktion die Grünen: Sicherung der Radquerung Hasenkaul Poststraße - geändert beschlossen
+- TOP 8.7: Antrag der CDU-Fraktion: WC Anlage Endhaltestelle Zündorf - ungeändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion: Fahrradschutzstreifen - verwiesen in nachfolgende Gremien
+- TOP 8.8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Antrag der CDU-Fraktion: Sachstand zu "durchgängigen Grünphase“ für Fußgänger - ungeändert beschlossen
+- TOP 8.10: Antrag der CDU-Fraktion: Sachstand zum Beschluss vom 11.06.2013 Sperrung Linder Mauspfad für LKW - geändert beschlossen
+- TOP 8.11: Antrag der CDU-Fraktion: Sachstand Alt-Deponie Linder Mauspfad - ungeändert beschlossen
+- TOP 8.12: Antrag der CDU-Fraktion: Sachstandsbericht Absperrpfosten - ungeändert beschlossen
+- TOP 8.13: Aus der letzten Sitzung geschoben: Antrag der CDU-Fraktion: Regelmäßige Kontrolle der Einstellung von den Kameras und Anbringen von - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Nutzung Verwaltungsgebäude Friedrich-Naumann-Straße - Kenntnis genommen
+- TOP 9.1.2: Ausbau der Frankfurter Straße - Kenntnis genommen
+- TOP 9.1.2.1: Anfrage der SPD-Fraktion: Ausbau Frankfurter Straße - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: Bauspielplatz Senkelsgraben - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion: Aufstellung von Abfalleimern auf privaten Wegen - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Ziel- und Leistungsvereinbarung 2019 - Bürgerzentrum Engelshof - Kenntnis genommen
+- TOP 10.2.2: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - Kenntnis genommen
+- TOP 10.2.3: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 10.2.4: Offenlage des Bebauungsplanes Nr. 75409/02 Teilaufhebung, Arbeitstitel: Neue Eiler Straße in Köln-Porz-Eil, 1. Teilaufhebung - Kenntnis genommen
+- TOP 10.2.5: Vorhabenbezogener Bebauungsplan (VEP) Nr. 70439/07; Arbeitstitel: Flamme Möbel in Köln - Poll / Aufhebung - Kenntnis genommen
+- TOP 10.2.6: Erneute Offenlage nach § 4a Absatz 3 in Verbindung mit § 3 Absatz 2 Baugesetzbuch (BauGB), Bebauungsplan-Entwurf 75405/03, Arbeitstitel: Carlebachstraße in Köln-Porz-Eil - Kenntnis genommen
+- TOP 10.2.7: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 10.2.8: Beantwortung der StEB: Sachstand zum Klärwerk Wahn, Antrag aus der Sitzung 16.05.2019. TOP 8.12 - Kenntnis genommen
+- TOP 10.2.9: Sachstandsmitteilung der Verwaltung: Beleuchtung um das Rathaus Porz - Kenntnis genommen
+- TOP 10.2.10: Spritzenautomat an der Glashütte - Kenntnis genommen
+- TOP 10.2.11: Parken mit Parkscheibe in Grengel und Urbach; hier:Beschluss der BV Porz vom 13.06.2019,TOP 8.12 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
