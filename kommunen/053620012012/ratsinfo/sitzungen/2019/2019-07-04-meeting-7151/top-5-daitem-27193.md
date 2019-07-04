@@ -1,0 +1,9 @@
+# TOP 5.: Leitlinien zur Entwicklung der Stadt Brühl bis zum Jahr 2035 Bezug: Antrag der FDP-Fraktion vom 14.04.2019
+
+- Sitzung: Ausschuss für Planung und Stadtentwicklung (43. Sitzung) (2019-07-04)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/27193
+- Beratung: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/consultation/40574
+- Beschluss (Datei): Infotext (Leitlinien zur Entwicklung der Stadt Brühl bis zum Jahr 2035
+Bezug: Antrag der FDP-Fraktion vom 14.04.2019) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdBgBsGaZXalYMylbHCUO9BkdqtABo-qT8qZBvIbzJnW/Infotext_132-2019_-oeffentlich-_Ausschuss_fuer_Planung_und_Stadtentwicklung_04.07.2019.pdf
