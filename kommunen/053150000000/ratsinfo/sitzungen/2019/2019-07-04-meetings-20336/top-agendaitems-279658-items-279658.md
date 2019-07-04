@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag zu Top 10.5 „Verzicht auf die Aufstellung eines Bebauungsplanes für das Gebiet Gutenbergstraße 132/ Lukasstrasse 30 in Köln-Neuehrenfeld"
+
+- Sitzung: 41. Sitzung des Stadtentwicklungsausschusses (2019-07-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/279658
+- Ergebnis: zurückgestellt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/133864
