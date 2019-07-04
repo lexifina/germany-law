@@ -1,0 +1,8 @@
+# TOP -: Änderungsantrag der Linken im Rat
+
+- Sitzung: 38. Sitzung der Bezirksvertretung Nippes (2019-07-04)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/279621
+- Ergebnis: endgültig abgelehnt
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/133837
