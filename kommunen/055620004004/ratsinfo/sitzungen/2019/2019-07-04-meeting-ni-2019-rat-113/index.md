@@ -1,0 +1,60 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2019-07-04T17:00:00+02:00
+- Ende: 2019-07-04T22:02:00+02:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2019-RAT-113
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2019-RAT-113
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-RAT-113
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 3: Antrag der Fraktionen Bündnis 90/ Die Grünen, FWI und DIE LINKE Hier: Bebauungsplan 245, Planbereich 'Wohnen an der Emscher'
+- TOP 4: Wahl eines / einer technischen Beigeordneten
+- TOP 5: Wiederwahl des 1. Beigeordneten
+- TOP 6: Neufassung der Ordnungsbehördlichen Verordnung der Stadt Castrop-Rauxel zur öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Castrop-Rauxel - Straßenordnung
+- TOP 7: Nebentätigkeiten des Hauptverwaltungsbeamten im Jahr 2018 Vorlage gem. § 18 Abs. 2 Korruptionsbekämpfungsgesetz
+- TOP 8: Finanzcontrolling: Unternehmensbericht Stand 14.05.2019
+- TOP 9: Antrag der Fraktionen B90 Die Grünen, FWI, DIE LINKE und FDP vom 07.06.2019_Haushaltssperre 2019
+- TOP 10: Sachstandsbericht Haushaltssanierungsplan 2019 - Stand 31.03.2019 (Berichterstattung gegenüber der Bezirksregierung Münster)
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2018
+- TOP 12: Entwurf des kommunalen Gesamtabschlusses 2016
+- TOP 13: Gründung einer städtischen Entwicklungsgesellschaft (ECAS GmbH)
+- TOP 14: -Bestellung einer Vertreterin / eines Vertreters der Stadt Castrop-Rauxel in der städtischen Entwicklungsgesellschaft (ECAS GmbH)
+- TOP 15: Haushaltsüberschreitungen 2018
+- TOP 16: Satzung über die Zulässigkeit von Vorhaben im bebauten Außenbereich (Außenbe-reichssatzung) Nr. 004 nach § 35 Abs. 6 i. V. m. § 13 Abs. 2 und 3 BauGB Planbereich „Im Depot“ hier: a) Entscheidung über die Stellungnahmen b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss
+- TOP 17: Einrichtung eines Umlegungsausschusses und einer Geschäftsstelle hier: Organisatorische Umsetzung
+- TOP 18: Antrag der Fraktionen SPD, Bündnis 90/ Die Grünen, FDP, Die Linke, FWI Hier: Energieberatung der Verbraucherzentrale über das Jahr 2020 hinaus sicherstellen
+- TOP 19: Teilnahme an Sitzungen und Versammlungen des 'Klimabündnis der europäischen Städte mit indigenen Völkern der Regenwälder/ Alianza del Clima e.V.', die sich aus der Mitgliedschaft für die Stadt Castrop-Rauxel ergeben.
+- TOP 20: Antrag der SPD Ratsfraktion; Einsatz von Mülldetektiven im Stadtgebiet
+- TOP 21: Antrag CDU Fraktion vom 18.06.2019 Ausweitung der Öffnungszeiten am AGR-Hof
+- TOP 22: Antrag CDU Fraktion vom 18.06.2019 Prüfauftrag kostenfreie Entsorgung am AGR-Hof
+- TOP 23: Aktionsprogramm 'Klimawandel' - Daten und Faktenübersicht
+- TOP 23.1: Antrag der Fraktion Bündnis 90/ Die Grünen Hier: Baulückenkataster
+- TOP 23.2: Antrag der Fraktionen SPD, Bündnis 90/ Die Grünen, FDP und FWI Hier: Ermittlung von Ausgleichsflächen im Stadtgebiet
+- TOP 23.3: Antrag der Fraktionen SPD, Bündnis 90/ Die Grünen und FWI Hier: Gründachstrategie
+- TOP 23.4: Antrag der Fraktion Bündnis 90/ Die Grünen Hier: CO2-Reduktionsplan
+- TOP 23.5: Antrag der Fraktion Bündnis 90/ Die Grünen Hier: Pfandbecher für Coffee to go
+- TOP 23.6: Resolution der Ratsfraktion DIE LINKE vom 12.06.2019_Ausrufung des Klimanotstands und der Einleitung sofortiger und ambitionierter Maßnahmen gegen die Klimakrise
+- TOP 23.6.1: Gemeinsamer Antrag SPD und CDU Fraktion vom 03.07.2019; Klimagerechte Stadtentwicklung in Castrop-Rauxel
+- TOP 23.7: Antrag der Fraktion Bündnis 90/ Die Grünen Hier: massiver Ausbau der Photovoltaik in Castrop-Rauxel
+- TOP 24: Ehrengaben für langjährige Ratsmitglieder
+- TOP 25: Gleichstellungsplan 2019 bis 2023
+- TOP 26: Antrag Bündnis 90 / Die Grünen_Barrierefreiheit von Wahllokalen vom 29.05.2019
+- TOP 27: Antrag der Fraktion DIE LINKE vom 12.06.2019_Übernahme des ICAN-Städteappels mit der Aufforderung an die Bundesregierung, dem von den Vereinten Nationen verabschiedeten 'Abkommen zum Verbot von Atomwaffen' beizutreten
+- TOP 28: Antrag von der Fraktion Die Linke vom 13.06.2019_Ausschussnachbesetzung Jugendhilfeausschuss
+- TOP 29: Antrag CDU-Fraktion vom 18.06.2019_Ausschussumbesetzung
+- TOP 30: Maßnahmen aus den Förderprogrammen 'Kommunalinvestitionsförderungsgesetz' und 'Gute Schule 2020'; hier: Änderung der 'Fortgeschriebenen Gesamtmaßnahmenliste KInvFöG II-Programm' sowie Änderung der Arbeitsliste 'Gute Schule 2020'
+- TOP 31: Zusätzliche Mittelbereitstellungen im Haushaltsjahr 2019 zur Umsetzung von Maßnahmen aus den Förderprogrammen Kommunalinvestitionsförderungsgesetz, Kapitel 2 (KInvFöG II) und aus dem Landesprogramm 'Gute Schule 2020' sowie außerplanmäßige Bereitstellung von Verpflichtungsermächtigungen
+- TOP 32: Antrag FDP-Fraktion vom 01.07.2019; Auschussumbesetzung Kommunalwahlausschuss
+- TOP 33: Anfragen der Ratsmitglieder
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
