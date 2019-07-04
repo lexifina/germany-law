@@ -1,0 +1,96 @@
+# 41. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-04T15:25:00+02:00
+- Ende: 2019-07-04T19:02:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20336
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20336
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Konzeptausschreibungen Sürther Feld - Sache ist erledigt
+- TOP -: Beantwortung der Verwaltung - Kenntnis genommen
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Milieuschutzsatzungen endlich beschließen! – die Zweite - Sache ist erledigt
+- TOP -: Anfrage gem. § 4 der Geschäftsordnung des Rates Millieuschutzsatzung endlich beschließen! – die Zweite Anfrage der SPD-Fraktion im Rat der Stadt Köln vom 13.06.2019 - Kenntnis genommen
+- TOP 2.2.2: Mauer vor dem „Worringer Bahnhof“ in Nippes
+- TOP 3: Anträge
+- TOP 3.1: Kein Bebauungsplanverfahren für die Sechtemer Straße ohne Votum des Begleitgremiums Parkstadt - zurückgestellt
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: "Der städtebauliche Masterplan für die Innenstadt Köln"; hier: Der Lupenraum Via Culturalis – Ein Handbuch für den öffentlichen Raum - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Baubeschluss für die Umgestaltung der linksrheinischen Uferpromenade von Deutzer Brücke bis Malakoffturm sowie Freigabe von investiven Auszahlungsermächtigungen - geändert beschlossen
+- TOP -: Änderungsantrag zu TOP 6.1 - Umgestaltung der linksrheinischen Uferpromenade - ungeändert beschlossen
+- TOP 6.2: Konzeptausschreibung Alpener Straße 4-6 in Köln-Ehrenfeld - zurückgestellt
+- TOP 6.3: Bedarfsfeststellungsbeschluss zur Maßnahme 5.0.2 „Zuhause im Veedel – Aktivierung und Beteiligung im Quartier Sozialraum Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 6.4: Stärkung und Ausweitung des KVB-Busnetzes - ohne Votum in nachfolgende Gremien
+- TOP 6.5: ISEK Porz-Mitte - Glashütte - unter Vorbehalt beschlossen
+- TOP 6.6: 4.7.1 "Integrierte Maßnahme zur ökologischen Revitalisierung Westerwaldstraße" - ungeändert beschlossen
+- TOP 6.7: Freigabe- und Baubeschluss über die Maßnahme "Partizipatorische Neugestaltung Platz an St. Adelheid" in Köln-Neubrück aus dem Programm "Starke Veedel – Starkes Köln" (Einzelmaßnahme 2.10.4 im Sozialraum Ostheim und Neubrück) - ungeändert beschlossen
+- TOP 6.8: Freigabe- und Baubeschluss der Maßnahme "Umbau von zwei öffentlichen Platzflächen zu multifunktionalen Freiräumen mit Retentionsfunktion (Eiler Schützenplatz und Platz an der Leidenhausener Straße)" in Köln-Porz-Eil - unter Vorbehalt beschlossen
+- TOP 6.9: Einzelhandels- und Zentrenkonzept (EHZK) - Fortschreibung - geändert beschlossen
+- TOP 6.10: Förderung des KölnAgenda e. V. durch die Stadt Köln - ohne Votum in nachfolgende Gremien
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: `Sechtemer Straße/ Bonner Straße` in Köln-Raderberg - ungeändert beschlossen
+- TOP 10.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan), Arbeitstitel: Piusstraße / Ecke Geleniusstraße in Köln-Lindenthal - ungeändert beschlossen
+- TOP 10.3: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: Weinsbergstraße/Innere Kanalstraße in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.4: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) Arbeitstitel: Scheidtweilerstraße 44-48 in Köln-Braunsfeld - ungeändert beschlossen
+- TOP 10.5: Verzicht auf die Aufstellung eines Bebauungsplanes für das Gebiet Gutenbergstraße 132 / Lukasstraße 30 in Köln-Neuehrenfeld - zurückgestellt
+- TOP -: Änderungsantrag zu Top 10.5 „Verzicht auf die Aufstellung eines Bebauungsplanes für das Gebiet Gutenbergstraße 132/ Lukasstrasse 30 in Köln-Neuehrenfeld" - zurückgestellt
+- TOP 10.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan); Arbeitstitel: "Nördlich Colonius – Hotel- und Bürostandort" in Köln-Neustadt/Nord; - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP -: Änderungsantrag zu "Nördlich Colonius" 2154/2018 - Sache ist erledigt
+- TOP 10.7: Beschluss über die Aufstellung eines Bebauungsplans und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung, Arbeitstitel: "Westlich Unter Goldschmied (Laurenz-Carré)" in Köln-Altstadt/Nord - ungeändert beschlossen
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Aufstellungsbeschlusses vom 16.03.2000 zum Bebauungsplanverfahren Nummer 71480703; Arbeitstitel: Schanzenstraße Süd - ungeändert beschlossen
+- TOP 11.2: Beschluss über die Aufhebung der Einleitungsbeschlüsse zu den Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) – Arbeitstitel: Alsdorfer Straße in Köln-Ehrenfeld und Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld - ungeändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 71476/02, Arbeitstitel: "Herler Straße" in Köln - Buchheim - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 13.1: Subbelrather Straße 430-436 in Köln-Ehrenfeld - zurückgestellt
+- TOP -: Änderungsantrag zu Top 13.1 „ Subbelrather Straße 430-436 in Köln-Ehrenfeld“ - zurückgestellt
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Pesch; Arbeitstitel: Donatusstraße in Köln-Pesch - ungeändert beschlossen
+- TOP 15.2: Innenentwicklung Heidelweg in Köln-Sürth; 71376/03; Satzungsbeschluss - geändert beschlossen
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 16.1: Dringlichkeitsantrag der Bezirksvertretung Porz vom 13.06.2019 (AN/0851/2019) betr. Wohnungsbauprogramm Südlich Friedensstraße Bebauungsplan Nr. 76380/03 (Session 1106/2019, Mitteilung zur Offenlage) - zurückgestellt
+- TOP 17: Mitteilungen
+- TOP 17.1: Beratungsangebot für gemeinschaftliche Wohnformen / Baugruppen - endgültig zurückgezogen
+- TOP 17.2: Überarbeitung des Regionalplans für den Regierungsbezirk Köln - Kenntnis genommen
+- TOP 17.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); Bebauungsplan Nr. 76380/03, Arbeitstitel: "Südlich Friedensstraße" in Köln-Porz-Elsdorf - zurückgestellt
+- TOP 17.4: Vorhabenbezogener Bebauungsplan (VEP) Nr. 70439/07; Arbeitstitel: Flamme Möbel in Köln - Poll / Aufhebung - Kenntnis genommen
+- TOP 17.5: Betreff: Bebauungsplan Nummer 67421/02: Arbeitstitel: Mannsfelder Straße/ Kreuznacher Straße in Köln Raderberg; Hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.6: Betreff: Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) 66498/03, Arbeitstitel: Kirchenzentrum Derfflingerstraße in Köln-Weidenpesch, Hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) in Anwendung des beschleunigten Verfahrens - Kenntnis genommen
+- TOP 17.7: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Teilaufhebung des Bebauungsplanes 73479/08 Arbeitstitel: Oberer Wichheimer Kirchweg in Köln-Holweide; - Kenntnis genommen
+- TOP 17.8: Offenlage des Bebauungsplanes Nr. 75409/02 Teilaufhebung, Arbeitstitel: Neue Eiler Straße in Köln-Porz-Eil, 1. Teilaufhebung - Kenntnis genommen
+- TOP 17.9: Betreff: Teilaufhebung des Bebauungsplanes 63429/06; Arbeitstitel: Hermeskeiler Platz in Köln-Sülz; Hier: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) - Kenntnis genommen
+- TOP 17.10: Planfeststellungsbeschluss für die ICE Neubaustrecke Köln-Rhein/Main - Planfeststellungsabschnitt 13 (Köln-Vingst) - Kenntnis genommen
+- TOP 17.11: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB); 2. Teilaufhebung des Bebauungsplanes 6440 Nd/03 (65410/03); Arbeitstitel: Kalscheurer Weg in Köln-Zollstock - Kenntnis genommen
+- TOP 17.12: Kölner Abschlusskonferenz zum EU-Projekt „GrowSmarter“ 03.-05.06.2019 - Kenntnis genommen
+- TOP 17.13: Kölner Statistische Nachrichten 2/2019 „Besser als ihr Ruf – Eine Image-Analyse der Stadtteile des Stadtbezirks Chorweiler“ - Kenntnis genommen
+- TOP 17.14: Erneute Offenlage nach § 4a Absatz 3 in Verbindung mit § 3 Absatz 2 Baugesetzbuch (BauGB), Bebauungsplan-Entwurf 75405/03, Arbeitstitel: Carlebachstraße in Köln-Porz-Eil - Kenntnis genommen
+- TOP 17.15: Jahresbericht 2018 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 17.16: Planfeststellungsbeschluss für die Erneuerung von 3 Eisenbahnüberführungen über der Deutz-Mülheimer Straße in Köln-Deutz - Kenntnis genommen
+- TOP 17.17: Betreff: Offenlage des Bebauungsplans 60539/04; Arbeitstitel „Griesberger Straße“ in Köln-Esch/Auweiler im ergänzenden Verfahren nach § 214 Absatz 4 BauGB - Kenntnis genommen
+- TOP 17.18: Offenlage des Bebauungsplans 59575/01; Arbeitstitel: „Sinnersdorfer Straße 88 bis 90“ Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 17.19: Neue Kölner Statistik 3/2019 - Kraftfahrzeuge - Kenntnis genommen
+- TOP 17.20: Pegel Köln 4/2019 Einwohnerentwicklung 2018 Kölns Wachstum setzt sich fort: Gestiegene Zuzüge kompensieren Abwanderungen ins Umland - Kenntnis genommen
+- TOP 17.21: Luftrechtliche Genehmigung für die Verlegung des Hubschrauber-Sonderlandeplatzes auf das Dach des Herzzentrums des Universitätsklinikums Köln - Kenntnis genommen
+- TOP 17.22: Immobilien- und Standortgemeinschaft Severinstraße Stand der Maßnahmenumsetzung zur Halbzeit des Projekts (Juni 2019) - Kenntnis genommen
+- TOP 17.23: Zeitraum der Offenlagen der Bauleitplanverfahren 209. Flächennutzungsplanänderung und Bebauungsplanverfahren Erweiterung RheinEnergieSportpark in Köln-Sülz. - Kenntnis genommen
+- TOP 17.24: Mündliche Mitteilung betreffend "Sicherung der Clubkultur in Ehrenfeld" - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
