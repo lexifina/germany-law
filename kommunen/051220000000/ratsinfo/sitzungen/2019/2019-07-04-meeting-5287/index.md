@@ -1,0 +1,69 @@
+# Rat (36. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-07-04T17:04:00+02:00
+- Ende: 2019-07-04T19:26:00+02:00
+- Ort: Festhalle Solingen-Ohligs, Talstraße 16 b, 42697 Solingen, Großer Saal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZKJ_QmoscYXIM-bxZD_IHk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5287
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ9hba893x0Ktb1LbuMDzL4KneurNMVTblfnVEFJxX57/Bekanntmachung_Rat_04.07.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVp5VShS0IwoMVfH7PFQMWuiF9uTrqcuErSwW8356HKy/Oeffentliche_Niederschrift_Rat_04.07.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Ladung von E-Fahrzeugen
+- TOP 1.2: Errichtung Moschee und Gemeindezentrum DITIB Solingen e. V.
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 35. Sitzung des Rates am 23.05.2019
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Wahl der ehrenamtlichen Richter für das Verwaltungsgericht Düsseldorf
+- TOP 7.: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 8.: Vorschlagsliste für die Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht NRW
+- TOP 9.: Genehmigung einer Dringlichkeitsentscheidung vom 17.05.2019 Hier: Bewerbung im Rahmen des Förderprojektes „Modellprojekte Smart Cities: Stadtentwicklung und Digitalisierung“
+- TOP 10.: Gründungsbeschluss zur Stadtentwicklungsgesellschaft Solingen
+- TOP 10.1: Gründungsbeschluss zur Stadtentwicklungsgesellschaft Solingen
+- TOP 10.2: Gründungsbeschluss zur Stadtentwicklungsgesellschaft Solingen hier: Änderungsantrag der Ratsfraktion DIE LINKE vom 28.06.2019
+- TOP 11.: Resolution verlässliche Betreuung an Schulen hier: Antrag der SPD-Ratsfraktion vom 19.06.2019
+- TOP 11.1: Resolution verlässliche Betreuung an Schulen hier: Antrag der SPD-Ratsfraktion vom 26.06.2019
+- TOP 11.2: Resolution verlässliche Betreuung an Schulen hier: Antrag der Ratsfraktion DIE LINKE vom 02.07.2019
+- TOP 11.3: Resolution verlässliche Betreuung an Schulen hier: gemeinsamer Antrag der Ratsfraktionen CDU, SPD und Bündnis 90/ Die Grünen – offene Liste vom 04.07.2019
+- TOP 12.: Chancen der BUGA in Wuppertal für Solingen nutzen hier: gemeinsamer Antrag der Ratsfraktionen FDP, CDU und Bündnis 90/ Die Grünen - offene Liste vom 10.05.2019
+- TOP 13.: Einrichtung von Kurzzeitpflegeplätzen im städtischen Klinikum Solingen gGmbH hier: Antrag der FDP-Ratsfraktion vom 14.06.2019
+- TOP 14.: Integriertes städtebauliches Entwicklungskonzept City 2030 - Beschluss des Konzeptes für die zukünftige Entwicklung der Solinger Innenstadt - Festlegung als Stadtumbaugebiet gem. § 171 b, Absatz 1 BauGB
+- TOP 14.1: Integriertes städtebauliches Entwicklungskonzept City 2030 - Beschluss des Konzeptes für die zukünftige Entwicklung der Solinger Innenstadt - Festlegung als Stadtumbaugebiet gem. § 171 b, Absatz 1 BauGB
+- TOP 15.: Integriertes Stadtteilentwicklungskonzept Ohligs Verwaltungsrichtlinien der Stadt Solingen für die Vergabe des Budgets aus dem Verfügungsfonds zur Bürgerbeteiligung im Stadtteil Ohligs
+- TOP 16.: Obdachlosenangelegenheiten hier: 2. Satzung zur Änderung der Satzung der Klingenstadt Solingen über die Obdachlosenunterkünfte
+- TOP 17.: Obdachlosen- und Flüchtlingsangelegenheiten hier: Widmung der Gebäude Cronenberger Str. 159 und 161
+- TOP 18.: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstigen Amtshandlungen im Zusammenhang mit Lebensmitteln tierischen Ursprungs (Fleischhygienegebührensatzung)
+- TOP 19.: Gesetz zur Beschleunigung der Aufstellung kommunaler Gesamtabschlüsse vom 25. Juni 2015 in der Fassung vom 18.12.2018
+- TOP 20.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2018 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Verwendung des Jahresüberschusses der Sparkasse
+- TOP 21.: Jahresabschluss der Stadt-Sparkasse Solingen zum 31.12.2018 - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - und Lagebericht hier: Entlastung der Organe der Sparkasse
+- TOP 22.: Jahresabschluss 2018 der Technischen Betriebe Solingen hier: Feststellung des Jahresabschlusses
+- TOP 23.: Jahresabschluss 2018 der Technischen Betriebe Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 24.: Bauleitplanung Aachener Straße/ Heiligenstock Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des vorhabenbezogenen Bebauungsplanes O 652, zum Entwurf des Vorhaben- und Erschließungsplanes und zum Vorentwurf der Flächennutzungsplanberichtigung Nr. B 26/04 sowie Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan O 652 und zum Vorhaben- und Erschließungsplan, jeweils für das Gebiet zwischen Heiligenstock, Aachener Straße und Düsseldorfer Straße (Beschluss 3)- Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 25.: Bauleitplanung Höhscheider Weg Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des Bebauungsplanes H 637 sowie Satzungsbeschluss zum Bebauungsplan H 637 für das Gebiet nördlich des Höhscheider Weges, östlich der Löhdorfer Straße und südlich der Straße „Delle“ und westlich des Nacker Bachtals (Beschluss 3) – Stadtbezirk Ohligs/Aufderhöhe/Merscheid –
+- TOP 26.: Bauleitplanung Sauerbreystraße/ Hansastraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes O 195 – Teil B für das Gebiet nördlich der Sauerbreystraße, westlich der Hansastraße und östlich der Gleisanlagen des Solinger Hauptbahnhofes (Beschluss 1) – Stadtbezirk Ohligs/Aufderhöhe/Merscheid –
+- TOP 27.: Bauleitplanung ehemaliges Freibad Höher Heide Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des vorhabenbezogenen Bebauungsplanes H 671, zugleich Vorhaben- und Erschließungsplan, und zum Entwurf der Flächennutzungsplanänderung Nr. 23/04 sowie Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan H 671, zugleich Vorhaben- und Erschließungsplan, und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 23/04, beide für das Gebiet des ehemaligen Freibades Höher Heide (Beschluss 3) - Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 27.1: Bauleitplanung ehemaliges Freibad Höher Heide Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf des vorhabenbezogenen Bebauungsplanes H 671, zugleich Vorhaben- und Erschließungsplan, und zum Entwurf der Flächennutzungsplanänderung Nr. 23/04 sowie Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan H 671, zugleich Vorhaben- und Erschließungsplan, und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 23/04, beide für das Gebiet des ehemaligen Freibades Höher Heide (Beschluss 3) - Stadtbezirk Ohligs/ Aufderhöhe/ Merscheid -
+- TOP 28.: Bauleitplanung Höher Straße/ Locher Kotten Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zu den Entwürfen des Bebauungsplanes W 642 und der Flächennutzungsplanänderung Nr. 27/04 sowie Satzungsbeschluss zum Bebauungsplan W 642 und Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 27/04, beide für das Gebiet südlich der Straße Locher Kotten, westlich der Höher Straße und östlich der Straße Locher Büschchen (Beschluss 3) - Stadtbezirke Ohligs/Aufderhöhe/Merscheid und Mitte -
+- TOP 29.: Verschiedenes
+- TOP 29.1: Mitteilungen der Verwaltung
+- TOP 29.1.1: Jahresbericht 2018/2019 des Seniorenbeirats
+- TOP 29.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 35. Sitzung des Rates am 23.05.2019
+- TOP 4.: Hinausschieben des Ruhestandseintritts von Stadtdirektor Hartmut Hoferichter gemäß § 32 Absatz 1 des Landesbeamtengesetzes – LBG -
+- TOP 5.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW) - Leitbild "Unternehmerregion"
+- TOP 6.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 6.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.2: Anfragen an die Verwaltung
