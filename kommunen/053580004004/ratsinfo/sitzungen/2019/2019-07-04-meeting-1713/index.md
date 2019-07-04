@@ -1,0 +1,54 @@
+# Gemeinderat (49. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2019-07-04T18:03:00+02:00
+- Ende: 2019-07-04T21:43:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZU64TYN1ku-vuvWCuIqnbxE
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1713
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfkSuA0zPzWvOCAe8Ee504JCV8CgRmH7Gkk_e54rqSh9/Bekanntmachung_Gemeinderat_04.07.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSxhHcfyT46jlv6mpZ8OnS1qtQIPd0JohrANWkasRRBg/Oeffentliche_Niederschrift_Gemeinderat_04.07.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 11.06.2019 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Gemeindeentwicklungsausschusses
+- TOP 3.1: Weiterentwicklung ausgewählter ÖPNV-Haltepunkte zu Mobilstationen - einstimmig, 0 Enthaltung(en)
+- TOP 4.: Beschluss über die Empfehlungen des Rechnungsprüfungsausschusses
+- TOP 4.1: Prüfung und Feststellung des Jahresabschlusses 2018 - einstimmig, 0 Enthaltung(en)
+- TOP 4.2: Entlastung des Bürgermeisters für das Haushaltsjahr 2018 - einstimmig, 0 Enthaltung(en)
+- TOP 5.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 5.1: Änderung des Bebauungsplanes 57 DE - WK IV - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4 Abs. 1 BauGB b.) Beschluss über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Trägern öffentlicher Belange nach § 4 Abs. 2 BauGB - einstimmig, 2 Enthaltung(en)
+- TOP 5.2: Bebauungsplan 65 A - WK V - Abwägung gem. § 1 Abs. 7 BauGB und Satzungsbeschluss gemäß § 10 BauGB - 16 Ja-Stimmen, 6 Nein-Stimmen, 2 Enthaltungen
+- TOP 5.3: 1.) 47. Änderung des Flächennutzungsplanes der Gemeinde Aldenhoven 2.) Aufstellung des Bebauungsplanes 79 D - Am Schleidener Wege - a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB zu 1. und 2. b.) Beschluss über die frühzeitige Beteiligung gemäß §§ 3 Abs. 1 und 4 Abs. 1 BauGB zu 1. und 2. c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 79 D - Am Schleidener Wege - zu 1. und 2. - 18 Ja-Stimmen, 4 Nein-Stimmen, 2 Enthaltungen
+- TOP 5.4: Bebauungsplan 74 S - Am Wittstock - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - einstimmig, 0 Enthaltung(en)
+- TOP 5.5: Bebauungsplan 76 D - Im Dorf - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB über die Erbringung vorgezogener artenschutzrechtlicher Ausgleichsmaßnahmen im Rahmen des Bebauungsplans 76 D - Im Dorf - - einstimmig, 0 Enthaltung(en)
+- TOP 6.: Gute Schule 2020; Maßnahmenkatalog 2018 - einstimmig, 0 Enthaltung(en)
+- TOP 7.: Antrag von Bündnis 90 - Die Grünen, Aldenhoven; hier: Ausrufung des Klimanotstandes in der Gemeinde Aldenhoven - 24 Ja-Stimmen, 2 Nein-Stimmen, 0 Enthaltungen
+- TOP 8.: Ergänzung des Grabangebotes - einstimmig, 0 Enthaltung(en)
+- TOP 9.: Schulzweckverband Aldenhoven-Linnich hier: Zustimmung zur 1. Änderung der Verbandssatzung - 13 Ja-Stimmen, 11 Nein-Stimmen, 2 Enthaltungen
+- TOP 10.: Beantwortung von Fragen zur Gesamtschule und zum Schulzweckverband Aldenhoven-Linnich - zur Kenntnis genommen
+- TOP 11.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 11.06.2019 -nichtöffentlicher Teil-.
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Besetzung der Stelle des/r Fachbereichsleiter/in „II - Bauverwaltung / Soziales" - 23 Ja-Stimmen, 1 Nein-Stimmen, 2 Enthaltungen
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: Sanierung Flachdach Freizeitheim Freialdenhoven - einstimmig, 0 Enthaltung(en)
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Berichte aus den Gremien
+- TOP 5.: Auftragsvergaben
+- TOP 5.1: Einführung einer neuen Software zur Personalabrechnung - einstimmig, 0 Enthaltung(en)
+- TOP 5.2: Brandschutzsanierung Bergbaumuseum Aldenhoven - einstimmig, 0 Enthaltung(en)
+- TOP 5.3: Vergabe der Reinigungsleistungen für die Unterhalts- und Grundreinigung sowie die Glasreinigung an Gebäuden - einstimmig, 0 Enthaltung(en)
+- TOP 5.4: Sanierung Flachdach des Rathauses im Bereich Zwischentrakt - einstimmig, 0 Enthaltung(en)
+- TOP 6.: Grundstücksangelegenheiten
+- TOP 6.1: Verlegung des Bauhofs / Sanierungsmaßnahmen - 24 Ja-Stimmen, 1 Nein-Stimme, 0 Enthaltungen
+- TOP 7.: Sachstandsberichte der Verwaltung
+- TOP 7.1: Interkommunale Zusammenarbeit
+- TOP 8.: Verschiedenes
