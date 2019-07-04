@@ -1,0 +1,119 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-07-04T14:30:00+02:00
+- Ende: 2019-07-04T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16688
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16688
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346387.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346387.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346387.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften über die öffentlichen Sitzungen des Rates am 11.10.2018 (7/2018) und am 23.05.2019 (5/2019) - einstimmig beschlossen
+- TOP 3: Wiederwahl von Herrn Beigeordneten Hintzsche - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aus aktuellem Anlass des Ratsherrn Maniera: Sicherheitslage in Düsseldorfer Schwimmbädern - beantwortet
+- TOP 4.2: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz FREIE WÄHLER: Vorfälle im Rheinbad am 29. und 30.Juni sowie Niederheid am 30.Juni 2019 - beantwortet
+- TOP 4.3: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: Sicherheit in Düsseldorfer Schwimmbädern - beantwortet
+- TOP 4.4: Anfrage aus aktuellem Anlass der FDP-Ratsfraktion: Vorfälle im Rheinbad - beantwortet
+- TOP 4.5: Anfrage aus aktuellem Anlass des Ratsherrn Hartnigk: Verkauf des VHS-Gebäudes Franklinstraße 41–43 - schriftlich beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Bü90-Grü: Datenbasis für die Neufestsetzung der Kommunalwahlbezirke - beantwortet
+- TOP 5.2: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Abarbeitung von Diebstählen von Kupferregenrohren - beantwortet
+- TOP 5.3: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Großtagespflege - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion DIE LINKE: Angebot und Appell zur Flüchtlingshilfe an Kanzlerin Merkel - beantwortet
+- TOP 5.5: Anfrage der Ratsfraktion DIE LINKE: Düsseldorfer Straßenordnung - beantwortet
+- TOP 5.6: Anfrage der CDU-Ratsfraktion: Digitalisierungsmarathon im Schneckentempo - schriftlich beantwortet
+- TOP 5.7: Anfrage der CDU-Ratsfraktion: Wie lange heizt die Stadt noch mit Kohle? - schriftlich beantwortet
+- TOP 5.8: Anfrage der SPD-Ratsfraktion:Erinnerungen an die "digitale Steinzeit": Wie steht es um die digitale Infrastruktur? - schriftlich beantwortet
+- TOP 5.9: Anfrage des Ratsherrn Maniera: Angstraum Düsseldorfer Hofgarten - schriftlich beantwortet
+- TOP 5.10: Anfrage des Ratsherrn Maniera: Vollstreckungsmaßnahmen bei Ordnungswidrigkeiten - schriftlich beantwortet
+- TOP 5.11: Anfrage der Ratsfraktion BÜ90/GRÜ:: Atelierhaus Harkortstraße - schriftlich beantwortet
+- TOP 5.12: Anfrage Rh Grenda: Mobilitätsdaten für die neue Mobilitätsgesellschaft - schriftlich beantwortet
+- TOP 5.13: Anfrage der Ratsfrau Opelt: Düsseldorf: Zu wenig Sicherheit im öffentlichen Raum (1) - schriftlich beantwortet
+- TOP 5.14: Anfrage der Ratsfrau Opelt: Düsseldorf: Zu wenig Sicherheit im öffentlichen Raum (2) - schriftlich beantwortet
+- TOP 5.15: Anfrage des Ratsherrn Dr. Wlecke: Inklusive Spielplätze - schriftlich beantwortet
+- TOP 5.16: Anfrage der Ratsfrau Krüger: Artenschutz und Artensterben - schriftlich beantwortet
+- TOP 5.17: Anfrage der Ratsfrau El Fassi: Personalsituation und Mehrarbeit bei der Feuerwehr Düsseldorf (1) - schriftlich beantwortet
+- TOP 5.18: Anfrage der Ratsfrau El Fassi: Personalsituation und Mehrarbeit bei der Feuerwehr Düsseldorf (2) - schriftlich beantwortet
+- TOP 5.19: Anfrage der Ratsfrau Vorspel: Kurzstreckenflüge vom und zum Flughafen Düsseldorf - schriftlich beantwortet
+- TOP 5.20: Anfrage des Ratsherrn Blanchard: Kunstrasenplätze in Düsseldorf - schriftlich beantwortet
+- TOP 5.21: Anfrage des Ratsherrn Dr. Wlecke: Soziale Stadt: Garath 2.0 - schriftlich beantwortet
+- TOP 5.22: Anfrage der Ratsfrau Krüger: Eddy-Elektroroller und Elektro-Tretroller - schriftlich beantwortet
+- TOP 5.23: Anfrage des Ratsherrn Saitta: Autofreier Sonntag - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 8: Bewerbung zur Ausrichtung der Invictus Games in Düsseldorf - mehrheitlich beschlossen
+- TOP 9: Entwurf Jahresabschluss 2018 der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 10: Übertragene Ermächtigungen von 2018 nach 2019 - zur Kenntnis genommen
+- TOP 11: Kämmerer-Liste - zur Kenntnis genommen
+- TOP 12: Anlagerichtlinie der Landeshauptstadt Düsseldorf - zurückgezogen
+- TOP 13: Jahresabschluss 2018 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 14: Änderung Ausführungs- u. Finanzierungsbeschlusses f. d. Baumaßnahme Radweg Karlstraße/Worringer Str. - mehrheitlich beschlossen
+- TOP 14.1: Änderungsantrag der CDU-Ratsfraktion zur Vorlage 66/ 74/2019: Änderung des Ausführungs- und Finanzierungsbeschlusses für die Baumaßnahme Radweg Karlstraße/Worringer Straße - mehrheitlich abgelehnt
+- TOP 15: Änderungsbeschluss AUF Eisenbahnüberführung (EÜ) Bamberger Straße - einstimmig beschlossen
+- TOP 16: Schumann-Haus, Bilker Straße 15 in Düsseldorf - einstimmig beschlossen
+- TOP 17: Änderung Bedarfsbeschluss zur Unterführung Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 18: Ehrenhof 4-5, Stiftung Museum Kunstpalast – Sanierungen und Umbaumaßnahmen - einstimmig beschlossen
+- TOP 19: Deutsche Oper am Rhein, aktuelle Planungskosten und Sanierungsbedarf - einstimmig beschlossen
+- TOP 20: Neubau der Einrichtung „Haus der Jugend“ Lacombletstraße 10, Düsseldorf - Bedarfsbeschluss - abweichend beschlossen
+- TOP 21: Neubau Kita Hallesche Straße, Düsseldorf - Bedarfsbeschluss - abweichend beschlossen
+- TOP 22: RÜB Lörick, Sanierung Hochwasserpumpwerk - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 23: Öffentliche Toilettenanlagen im Stadtgebiet Düsseldorf - Bedarfsbeschluss - - mehrheitlich beschlossen
+- TOP 24: Entwidmung des ehemaligen Lagerplatzes auf dem Friedhof Heerdt - einstimmig beschlossen
+- TOP 25: Stellplatzsatzung Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 25.1: EA Die Linke: Zahl der Fahrrad-Stellplätze bedarfsgerecht und zukunftssicher berechnen - mehrheitlich abgelehnt
+- TOP 25.2: Änderungsantrag der Ratsfraktionen BÜNDNIS 90 / DIE GRÜNEN, SPD und FDP zur Vorlage 66/ 16/2019 - 1 - mehrheitlich beschlossen
+- TOP 25.3: Änderungsantrag der CDU-Ratsfraktion zu TOP 25, Vorlage 66/16/2019-1, - mehrheitlich abgelehnt
+- TOP 26: Satzung über die Ablösung von Stellplätzen der Stadt Düsseldorf - mehrheitlich beschlossen
+- TOP 26.1: Änderungsantrag der CDU-Ratsfraktion zu TOP 26, Vorlage 66/18/2019-1 - mehrheitlich abgelehnt
+- TOP 27: Satzung zur Aufhebung der Satzung für Spezialmärkte der Landeshauptst. Düsseldorf (Radschlägermarkt) - einstimmig beschlossen
+- TOP 28: Änderung der Entgeltordnung des Großmarktes, der Wochenmärkte und des Radschlägermarktes d. Landesh. - einstimmig beschlossen
+- TOP 29: Änderung der Verwaltungsgebührensatzung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 30: Direktvergabe von öffentlichen Personenverkehrsdiensten - einstimmig beschlossen
+- TOP 31: Verleihung der Förderpreise bildende Kunst, darstellende Kunst, Musik und Literatur der Landeshaupts - einstimmig beschlossen
+- TOP 32: Förderpreis für Wissenschaften der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 33: Annahme einer Schenkung des Künstlers Harald Naegeli - einstimmig beschlossen
+- TOP 34: Informationen zum Social Sculpture Award - zur Kenntnis genommen
+- TOP 35: Konzept Nachhaltigkeit auf kommunaler Ebene gestalten - vertagt
+- TOP 36: Förderprogramm Klimafreundliches Wohnen und Arbeiten in Düsseldorf - einstimmig beschlossen
+- TOP 37: Resolution "Climate Emergency" - abweichend beschlossen
+- TOP 37.1: Änderungsantrag der Ratsfraktion DIE LINKE zu TOP 37 - Vorlage 01/227/2019 : Resolution "Climate Emergency" - mehrheitlich abgelehnt
+- TOP 37.2: Ergänzungsantrag der CDU-Ratsfraktion: „Klimapolitik ist Überlebenspolitik: Besserer Klimaschutz durch alltagstaugliche und vernetzte Nachhaltigkeit – jetzt!“ - mehrheitlich abgelehnt
+- TOP 37.3: Änderungsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN und FDP zur Vorlage 01/ 227/2019 Resolution „Climate Emergency“ - einstimmig beschlossen
+- TOP 37.4: Ergänzungsantrag der Ratsfraktion Tierschutz FREIE WÄHLER: Climate Emergency - mehrheitlich abgelehnt
+- TOP 38: Sachstandsbericht zum Parkraumbewirtschaftungskonzept
+- TOP 38.1: Änderungsantrag SPD, B90/Grüne, FDP zum Parkraumbewirtschaftungskonzept (66/52/2019)
+- TOP 38.2: Änderungsantrag der CDU-Ratsfraktion
+- TOP 39: Gründung einer städtischen Mobilitätsgesellschaft
+- TOP 40: Einrichtung einer Kleinen Kommission „Smart City Düsseldorf“ - einstimmig beschlossen
+- TOP 41: Einrichtung einer "Kleinen Kommission Kunstpalast" - einstimmig beschlossen
+- TOP 42: Nutzung von Teilflächen des Nordparks im Rahmen der Messe Druck und Papier (Drupa) 2020 - mehrheitlich beschlossen
+- TOP 43: Änderung der Rechnungsprüfungsordnung der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 44: Bestellung einer Prüferin und Abberufung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 45: Wiederwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 46: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in Ratsausschüsse - einstimmig beschlossen
+- TOP 47: Aufsichtsrat der Holding der Landeshauptstadt Düsseldorf - Ersatzwahl - - einstimmig beschlossen
+- TOP 48: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 49: Umbesetzung von Ausschüssen und sonstigen Gremien - zurückgezogen
+- TOP 50: Garath 2.0 Den Wandel gestalten
+- TOP 51: FNP-Änderungsverfahren 179 "Nördlich Paulsmühlenstraße". Planbeschluss - mehrheitlich beschlossen
+- TOP 52: B-Plan 04/018 - Niederkasseler Lohweg 20 -Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 53: Anträge
+- TOP 53.1: Antrag der Ratsfraktion DIE LINKE: Kein Empfang und keine Unterstützung für die Bundeswehr
+- TOP 53.2: Antrag der FDP-Ratsfraktion: Geschäftsführung der Holding der Landeshauptstadt Düsseldorf GmbH
+- TOP 53.3: Antrag der CDU-Ratsfraktion: Organisationsstruktur Beteiligungsmanagement
+- TOP 53.4: Antrag der Ratsfraktion DIE LINKE: Satzung zum Schutz und Erhalt von Wohnraum
+- TOP 53.5: Antrag SPD,Bü90-Grü und FDP: Satzung des Landeshauptstadt Düsseldorf zum Schutz und Erhalt von Wohnr
+- TOP 53.6: Antrag der Ratsfraktion von BÜ90/GRÜ: Düsseldorf erklärt den „Climate Emergency“ / Klimanotstand - zurückgezogen
+- TOP 54: Antrag der Ratsfraktionen von BÜ90/ GRÜ und SPD: Palermo-Appell
+- TOP 54.1: Antrag SPD, BÜ90/GRÜ und FDP: Optimierung der Düsseldorfer gesundheitliche Notfallversorgung durch D
+- TOP 54.2: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Finanzierung von stop mutilation e.V.
+- TOP 54.3: Antrag der FDP-Ratsfraktion: Düsseldorf setzt sich zum Ziel, bis 2035 klimaneutral zu werden - zurückgezogen
