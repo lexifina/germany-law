@@ -1,0 +1,87 @@
+# 67. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-07-04T16:00:00+02:00
+- Ende: 2019-07-05T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7546
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7546
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Widerspruch des Oberbürgermeisters § 52 Abs. 2 Satz 1 SächsGemO_A0531/19_Ladung http://oparl.dresden.de/bodies/0001/downloadfiles/a/00417634.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: Aktuelle Stunde - "Freitage für die Zukunft?" - erledigt
+- TOP 4: Dresden auch für künftige Generationen lebenswert erhalten – Folgekosten nicht verlagern – Fair handeln - punktweise Abstimmung mit Änderung
+- TOP 5: Fridays for Future – Tut doch auch selbst was für unser Klima! - Zustimmung
+- TOP 6: Aktuelle Stunde zum Thema "Wie kann Dresden bis 2035 zur klimaneutralen Stadt werden?" - erledigt
+- TOP 7: Umbesetzung für den Aufsichtsrat der EnergieVerbund Dresden GmbH - Benennungsverfahren - Einigung konnte nicht erzielt werden
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Bewerbung Europäische Kulturhauptstadt Dresden 2025 - Zustimmung
+- TOP 10: Erwerb der ehemaligen Robotronkantine sowie Abschluss eines Letter of Intent zum Zwecke der Umsetzung des Vorhabens Lingnerstadt als Leitprojekt im Rahmen der „Bewerbung der Landeshauptstadt Dresden als Kulturhauptstadt Europas 2025“ - Zustimmung mit Änderung
+- TOP 11: Erhalt der ehemaligen Robotron-Kantine und deren Überführung in städtisches Eigentum - Ersetzung
+- TOP 12: Neufassung der Richtlinie "DRESDEN EXCELLENCE AWARD - Wissenschaftspreis der Stadt Dresden“ für wissenschaftliche Abschlussarbeiten von Absolventinnen und Absolventen der ortsansäs-sigen Hochschulen (DEA) - Zustimmung mit Änderung
+- TOP 13: Neufassung der Fachförderrichtlinie Innovationsförderung - Zustimmung
+- TOP 14: Fortschreibung des Investitionsplans der LHD für das Teilbudget „Bund" im Förderprogramm „Brücken in die Zukunft“ Teil 1 und überplanmäßige Bereitstellung von Mitteln des Finanzhaushaltes für Investitionen des EB Kita Dresden im Jahr 2019 - Zustimmung
+- TOP 15: "Stadtnetz 500+" - Erschließungsvorhaben zur Glasfasernetz-Anbindung der kommunalen Einrichtungen an das Datennetz der Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Feststellung der Jahresabschlussergebnisse 2017 einschließlich des Anhanges mit Anlagen und des Rechenschaftsberichtes mit Anlagen - Zustimmung
+- TOP 17: Erhöhung des Kassenkreditrahmens für das Wirtschaftsjahr 2019 des Eigenbetriebes Städtisches Klinikum Dresden - Zustimmung
+- TOP 18: Festsetzung der Elternbeiträge ab dem 1. September 2019 nach Vollzug des Abstimmungsverfahrens nach § 15 Abs. 1 SächsKitaG i. V. m. § 2 Abs. 2 der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) - Verweisung
+- TOP 19: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2019/2020 - Zustimmung
+- TOP 20: Einrichtung und Gründung des Gymnasiums Dresden-Johannstadt - Zustimmung
+- TOP 21: Überplanmäßige Bereitstellung von Mitteln des Finanzhaushaltes der LHD zur Deckung von investiven Mehrbedarfen des EB Kindertageseinrichtungen Dresden im Jahr 2019, Änderung des Investplanes 2019 als Bestandteil des Wirtschaftsplanes 2019 des EB Kita - Zustimmung
+- TOP 22: Vertrag zwischen der Landeshauptstadt Dresden und der Evangelisch-Lutherischen Kreuzkirch-gemeinde Dresden zur Regelung der Beziehungen zwischen der Landeshauptstadt Dresden als Rechtsträger des Dresdner Kreuzchores und der Evangelisch-Lutherischen K - Zustimmung mit Änderung
+- TOP 23: Fachplan Asyl und Integration 2022 - Zustimmung
+- TOP 24: Bewerbung um die Mitgliedschaft in Phase VII des Gesunde-Städte-Netzwerkes der Weltgesundheitsorganisation (WHO) in Europa - Zustimmung
+- TOP 25: Fortsetzung Komplexsanierung Neues Rathaus Dresden, Dr.-Külz-Ring 19 - Zustimmung
+- TOP 26: Sonderprogramm barrierefreie Bushaltestellen 2019 - Zustimmung mit Ergänzung
+- TOP 27: Bebauungsplan Nr. 3013 B, Dresden-Mickten Nr. 14, Pieschener Straße - Zustimmung
+- TOP 28: Beitritt der Landeshauptstadt Dresden zum Deutsch-Österreichischen URBAN Netzwerk - Zustimmung
+- TOP 29: Widerspruch zu Beschlüssen aus der Sitzung des Stadtrates 6. Juni 2019 gem. § 52 Abs. 2 Satz 1 SächsGemO
+- TOP 29.1: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 29.2: Besetzung und Umbesetzung von Amtsleitungen, Betriebsleitungen und Chefarztpositionen in der Landeshauptstadt Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 29.3: Gute Arbeit in und bei der Landeshauptstadt Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 30: Vertagung aus der Sitzung vom 14.02.2019
+- TOP 30.1: Sparsamer Umgang mit Ressourcen in Bildungseinrichtungen - Ablehnung
+- TOP 31: Vertagung aus der Sitzung vom 27.05.2019
+- TOP 31.1: Grundhafter Ausbau der Bühlauer Straße im Ortsteil Schullwitz von Haus Nr. 28 bis Aspichring - Zustimmung
+- TOP 32: Vertagung der letzten Sitzung am 06./07.06.2019
+- TOP 32.1: Stadtratsbeschlüsse achten und umsetzen - Stadtbezirksbeiräte mit angemessenen Budgets ausstatten - Vertagung durch Einreicher
+- TOP 32.2: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung auf Geschäftsordnungsantrag
+- TOP 32.3: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung durch Einreicher
+- TOP 32.4: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - Vertagung durch Einreicher
+- TOP 32.5: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Vertagung auf Geschäftsordnungsantrag
+- TOP 32.6: Stadtteilverträglicher ÖPNV in Striesen, Gruna und Blasewitz - Ersetzung
+- TOP 32.7: Europäisches Zentrum der Künste Hellerau – Investitionen zur Sicherstellung der Spielfähigkeit des Hauses 2019/2020 - Vertagung durch Einreicher
+- TOP 32.8: Verwendung von Einnahmen aus Geschwindigkeitsüberwachungsanlagen (Blitzern) - Vertagung durch Einreicher
+- TOP 32.9: Dresdner Fernsehturm - Konzept für die verkehrliche Erschließung erstellen - Zustimmung mit Änderung
+- TOP 32.10: Planungsstart zur Instandsetzung der Neuländer Straße - Vertagung auf Geschäftsordnungsantrag
+- TOP 32.11: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung durch Einreicher
+- TOP 32.12: Digitale Offensive für die Bürgerinnen und Bürger der Stadt Dresden - Vertagung auf Geschäftsordnungsantrag
+- TOP 32.13: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - Vertagung durch Einreicher
+- TOP 33: Anträge - Liquiditätsreserve
+- TOP 33.1: Sicherstellung einer artgerechten Tierhaltung im Dresdner Zoo – Neubau des Orang-Utan-Hauses - zurückgezogen
+- TOP 33.2: Nachhaltigkeit und Klimaschutz in der Landeshauptstadt stärken - Vertagung durch Einreicher
+- TOP 33.3: Bildung und Kultur in der Landeshauptstadt stärken - Verweisung
+- TOP 33.4: Straßenverkehr für alle Verkehrsteilnehmer/innen in der Landeshauptstadt stärken - Vertagung durch Einreicher
+- TOP 33.5: Pilotprojekt Elektrifizierung von Gaskandelabern mit LED-Technik in Striesen - zurückgezogen
+- TOP 34: Unverzüglich sichere Radwege auf der St. Petersburger Straße herstellen! - Vertagung durch Einreicher
+- TOP 35: Straßenrückbau stoppen - Verkehrsplanung für alle Verkehrsteilnehmer, hier: Korrektur Vorplanungen Stadtbahn 2020 Teilstrecke 1.3 "Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße" - Verweisung
+- TOP 36: Touristische Infrastruktur des Lockwitztals als Ausflugsziel und Naherholungsgebiet verbessern - verkehrliche Potentiale untersuchen - Vertagung auf Geschäftsordnungsantrag
+- TOP 37: Prüfung und Einrichtung von weiteren Aktivitätspunkten mit Sportgeräten im öffentlichen Bereich - Vertagung auf Geschäftsordnungsantrag
+- TOP 38: Vorgezogene Realisierung des B-Plan 3000 P+R Parkplatz Sohlander Straße bis Mai 2020 - Vertagung auf Geschäftsordnungsantrag
+- TOP 39: Erhaltung des „Heidetunnels Klotzsche“ für Rad- und Fußverkehr in Höhe Gleisdreieck Dresden-Klotzsche (Eisenbahnüberführung km 94,331 G-D Dresden-Klotzsche) - zurückgezogen
+- TOP 40: Änderung der Satzung des Eigenbetriebes Kindertageseinrichtungen Dresden sowie der Satzung der Landeshauptstadt Dresden für das Jugendamt, beide zuletzt geändert durch Stadtratsbeschluss vom 24.11.2016 - Vertagung
+- TOP 41: Mehr Frauen in Führungspositionen - Vertagung auf Geschäftsordnungsantrag
+- TOP 42: Trainingsbedingungen in Klotzsche sichern - Vertagung
+- TOP 43: Geburtenhilfe stärken! Hebammenkreißsaal und Beleghebammen für Dresden - Zustimmung
+- TOP 44: Bäume in Dresden erhalten - Vertagung auf Geschäftsordnungsantrag
+- TOP 45: Kunst-, Antik- und Trödelmärkte in der Hauptstraße ermöglichen - Vertagung auf Geschäftsordnungsantrag
+- TOP 46: Beschlusskontrolle für Stadtratsbeschlüsse auf dresden.de - Vertagung auf Geschäftsordnungsantrag
+- TOP 50: Bereitstellung zusätzlicher Mittel für die Beschaffung von Büromöbeln - Zustimmung
+- TOP 51: ausgereichte Informationsvorlage
+- TOP 51.1: Ergebnisse der Meinungsumfrage zum Klimawandel in Dresden 2017 - zur Kenntnis genommen
