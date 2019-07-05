@@ -1,0 +1,69 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-07-05T16:00:00+02:00
+- Ende: 2019-07-05T19:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4691
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4691
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Beschlusscontrolling
+- TOP 4: Umbesetzung Ausschüsse und Gremien
+- TOP 5: Einwohnerfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 6: Vorhabenbezogener Bebauungsplan Vr. V 491 - Norf, Vellbrüggener Straße: Verkehrl. Erschließung
+- TOP 7: Schnellbuslinie Neusser Süden
+- TOP 8: Umbauplanung Kapellener / Reuschenberger Str.
+- TOP 9: Festst. d. Jahresabschl..2018 der LVN u. Beschl. ü. eine Erstattung aus d. Gewinnvortrag f. Grunderw.kosten im Zusammenh. m. Infratsrukturmaßn. d. Stadt Neuss sowie Beschl. ü. die Entlastung d. Betriebsleitung - einstimmig zugestimmt
+- TOP 10: Lärmaktionsplan der Stadt Neuss
+- TOP 11: Feststellung des Jahresabschlusses 2018 der Städtischen Friedhöfe Neuss (SFN) zum 31.12.2018
+- TOP 12: Heimat-Werkstatt Neusserfurth
+- TOP 13: Errichtung von zwei Trafostationen auf dem Kirmesplatz Furth und Übernahme der Trafostation auf dem Kirmesplatz Reuschenberg
+- TOP 14: Ausbauplanung Neuanlagen Allerheiligen und Nordpark / Im Niederfeld
+- TOP 15: Kindertagespflege: Änderung der Satzung zwecks Fortsetzung der Förderung im Krankheits- und Urlaubsfall - einstimmig zugestimmt
+- TOP 16: Jugendhilfeplanung "Kindertagesbetreuung": Bedarfsplan Kindertagesbetreuung 2019/2020
+- TOP 17: Ausweitung der kommunalen Präventionsketten
+- TOP 18: Änderung der Satzung über die Nutzung der Obdachlosenunterkünfte der Stadt Neuss vom 12. November 1996
+- TOP 19: Heimatpreis der Stadt Neuss
+- TOP 20: Änderung der Gebührensatzung des Clemens Sels Museums Neuss
+- TOP 21: Bibliothekskonzept der Stadtbibliothek
+- TOP 22: Beschluss der Satzung über die Aufhebung der Satzung über die förmliche Festlegung des Sanierungsgeb
+- TOP 23: Städtebauliche Sanierungsmaßnahme Bahnhofsumfeld / ISEK
+- TOP 24: Gestaltungskonzept Ortsmittelpunkte, Teil A – Grundsätze und Methodik, Öffentlichkeitsbeteiligung
+- TOP 25: Bebauungsplan Nr. 200/2 - Erfttal, Parisstraße (Kita) - Aufstellungsbeschluss
+- TOP 26: BPlan Nr. 131/9 Hammfeld I / Anton-Kux-Straße
+- TOP 27: Einrichtung einer Querungsstelle in der Mecklenburgstraße im Bereich der angrenzenden Kindertagesstätte
+- TOP -: Beschlussfassung des Rates
+- TOP 28: Dienstreisegenehmigung Expo Real 2019
+- TOP 29: Dienstreisegenehmigung Delegationsreise nach Bolu und Nevsehir
+- TOP 30: Förderung des Brauchtums
+- TOP 31: Kinderrechte in das Grundgesetz
+- TOP -: Anträge
+- TOP 32: Antrag der SPD-Fraktion betr. Rabatte bei der Veräußerung von städtischen Wohnbaugrundstücken
+- TOP 32.1: 7. Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen auf öffentlichen Straßen der Stadt Neuss
+- TOP 33: Antrag der AfD-Fraktion betr. Bau von Mietwohnungen in Neuss
+- TOP 34: Antrag der AfD-Fraktion betr. Wildtierverbot in Neuss
+- TOP 35: Antrag der Fraktion Die Linke betr. Bike Sharing in Neuss
+- TOP 36: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Regelmäßigen Energiebericht erstellen
+- TOP 37: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Kirmesplatzsanierungsprogramm umsetzen - einstimmig zugestimmt
+- TOP 38: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Aboretum modernisieren
+- TOP 39: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Schützensteine auf der Furth
+- TOP 40: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Familien fördern - Neue Wege beim Erwerb von Eigentum im Einfamilienhausbereich beschreiten
+- TOP 41: Antrag der SPD-Fraktion betr. Bildung eines Gleichstellungsbeirates
+- TOP -: Anfragen
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 43: Jugendhilfeplanung Kindertagesbetreuung - Ausbauplanung Sachstand
+- TOP -: Einwohnerfragestunde
