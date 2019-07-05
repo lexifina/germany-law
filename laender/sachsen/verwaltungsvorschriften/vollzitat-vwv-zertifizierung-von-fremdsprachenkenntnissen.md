@@ -1,8 +1,8 @@
 # Vollzitat: VwV Zertifizierung von Fremdsprachenkenntnissen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-12-07 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17819.2
+- Datum: 2019-07-05 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17819.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-07.12.2018
+05.07.2019
 bis
-04.07.2019
+03.04.2025
 
 VwV Zertifizierung von Fremdsprachenkenntnissen
 
@@ -294,9 +294,9 @@ Fsn-Nr.: 710-V18.9
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  7. Dezember 2018
+Fassung gültig ab:  5. Juli 2019
 
-Fassung gültig bis:  4. Juli 2019
+Fassung gültig bis:  3. April 2025
 
 Drucken/Speichern
 
@@ -323,7 +323,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17819.2
+https://www.revosax.sachsen.de/vorschrift/17819.3
 Stand vom
 18.11.2026
 
