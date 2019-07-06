@@ -1,8 +1,8 @@
 # Förderrichtlinie Gewässer/Hochwasserschutz Vollzitat: Förderrichtlinie Gewässer/Hochwasserschutz
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-06-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17743.1
+- Datum: 2019-07-06 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17743.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-18.06.2018
+06.07.2019
 bis
-05.07.2019
+31.12.2019
 
 Förderrichtlinie Gewässer/Hochwasserschutz
 
@@ -243,7 +243,7 @@ Zuwendungsvoraussetzungen
 
 Sicherung der Gesamtfinanzierung
 
-Abweichend von Nummer 3.3.1 der Verwaltungsvorschrift für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK, Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) ist eine gemeindewirtschaftliche Stellungnahme entbehrlich, wenn der Wertumfang der Maßnahme 50 000 Euro nicht überschreitet und die Maßnahme nicht mit Folgekosten verbunden ist, die den Planungszeitraum eines vorliegenden genehmigten Haushaltsplanes überschreiten. In diesen Fällen genügt es, wenn der kommunale Antragsteller der zuständigen Rechtsaufsichtsbehörde eine Mehrfertigung des Zuwendungsantrages übersendet, der die Darstellung der Gesamtfinanzierung enthält.
+Bei Maßnahmen nach den Nummern 2.2.2, 2.2.3 und 2.2.4 ist für Zuwendungen des Freistaates Sachsen an kommunale Körperschaften (VVK, Anlage 3 zur Verwaltungsvorschrift zu § 44 der Sächsischen Haushaltsordnung) eine gemeindewirtschaftliche Stellungnahme gemäß Abschnitt B der VwV Kommunale Haushaltswirtschaft vom 11. Dezember 2017 (SächsABl. S. 1709), in der jeweils geltenden Fassung, erforderlich, wenn der Wertumfang der Maßnahme 250 000 Euro überschreitet.
 
 
 4.2
@@ -262,7 +262,8 @@ Maßnahmespezifische Zuwendungsvoraussetzungen
 
 Gewässerentwicklung, Renaturierung und Durchgängigkeit
 
-Maßnahmen nach den Nummern 2.1.1 und 2.1.2 können gefördert werden, wenn sie den Zielstellungen des § 91 Absatz 2 des Sächsischen Wassergesetzes dienen und zur Erreichung eines guten ökologischen Zustandes nach § 27 Absatz 1 Nummer 2 des Wasserhaushaltsgesetzes beziehungsweise eines guten ökologischen Potenzials nach § 27 Absatz 2 Nummer 2 des Wasserhaushaltsgesetzes für das jeweilige Gewässer beziehungsweise den jeweiligen Wasserkörper beitragen. Die Vorhaben dürfen wasserkörper- beziehungsweise gewässerbezogenen Planungsgrundlagen, insbesondere Maßnahmeplänen nach der Richtlinie 2000/60/EG sowie Risikomanagementplänen nach der Richtlinie 2007/60/EG beziehungsweise deren Zielen nicht widersprechen.
+Maßnahmen nach den Nummern 2.1.1 und 2.1.2 können gefördert werden, wenn sie den Zielstellungen des § 91 Absatz 2 des Sächsischen Wassergesetzes dienen und zur Erreichung eines guten ökologischen Zustandes nach § 27 Absatz 1 Nummer 2 des Wasserhaushaltsgesetzes beziehungsweise eines guten ökologischen Potenzials nach § 27 Absatz 2 Nummer 2 des Wasserhaushaltsgesetzes für das jeweilige Gewässer beziehungsweise den jeweiligen Wasserkörper beitragen. Die Vorhaben dürfen wasserkörper- beziehungsweise gewässerbezogenen Planungsgrundlagen, insbesondere Maßnahmeplänen nach der Richtlinie 2000/60/EG sowie Risikomanagementplänen nach der Richtlinie 2007/60/EG beziehungsweise deren Zielen nicht widersprechen.  
+
 
 4.3.2
 
@@ -944,9 +945,9 @@ Fsn-Nr.: 5564-V18.1
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 18. Juni 2018
+Fassung gültig ab:  6. Juli 2019
 
-Fassung gültig bis:  5. Juli 2019
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -971,7 +972,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17743.1
+https://www.revosax.sachsen.de/vorschrift/17743.2
 Stand vom
 18.11.2026
 
