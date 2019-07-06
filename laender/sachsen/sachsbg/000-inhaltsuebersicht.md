@@ -132,6 +132,7 @@ Unterabschnitt 4 Personalaktenrecht
 § 116 Vernichtung von Unterlagen
 § 117 Aufbewahrung
 § 118 Verarbeitung von Personalaktendaten
+§ 118a Verarbeitung von Personalaktendaten in Beihilfeangelegenheiten im Auftrag
 Abschnitt 7 Beteiligung der Spitzenorganisationen und Landesverbände im Freistaat Sachsen
 § 119 Beteiligung der Spitzenorganisationen und Landesverbände im Freistaat Sachsen
 Abschnitt 8 Landespersonalausschuss
