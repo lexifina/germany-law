@@ -1,0 +1,7 @@
+# TOP 5.: Aktuelles von den Vorsitzenden des Beirates - mündlicher Bericht -
+
+- Sitzung: Beirat für Bürgerbeteiligung (5. Sitzung) (2019-07-08)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/51343
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/30409
