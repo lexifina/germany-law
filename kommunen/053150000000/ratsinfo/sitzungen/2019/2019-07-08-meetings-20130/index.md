@@ -1,0 +1,80 @@
+# 41. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-08T17:00:00+02:00
+- Ende: 2019-07-08T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20130
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20130
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Gemeinsame Erklärung Urban gardening im Leo Amann Park - ungeändert beschlossen
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.: Intzestraße (Az.: 02-1600-43/19) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.1: Barrierefreiheit: Antwort zur Anfrage DEINE FREUNDE AN/1490/2018 - Kenntnis genommen
+- TOP 6.2: Anfrage der Fraktion Die Linke, betr.: Deckel drauf! - eine Einhausung für die A 57 - zurückgestellt
+- TOP 6.3: Anfrage der CDU-Fraktion, betr.: Mehrfamilienhaus und Neubau Kolibriweg, Köln-Vogelsang - Kenntnis genommen
+- TOP 6.3.1: Mehrfamilienhaus und Neubau Kolibriweg, Köln-Vogelsang - Kenntnis genommen
+- TOP 6.4: Anfrage der CDU-Fraktion: Flächennutzungsplan Kolibriweg, Vogelsang - Kenntnis genommen
+- TOP 6.4.1: Bauvorhaben Kolibriweg in Köln-Vogelsang - Kenntnis genommen
+- TOP 6.5: Anfrage der Fraktion Die Linke, betr.: Können kleinräumige Daten der Stadtteilinformationen auf Ebene der Ehrenfelder Stadtviertel bereitgestellt werden? - Kenntnis genommen
+- TOP 6.5.1: Anfrage der Fraktion Die Linke, betr.: Können kleinräumige Daten der Stadtteilinformationen auf Ebene der Ehrenfelder Stadtviertel bereitgestellt werden? - Kenntnis genommen
+- TOP 6.6: Anfrage FDP: Straßen mit Kopfsteinpflaster in Bickendorf - Kenntnis genommen
+- TOP 6.6.1: Straßen mit Kopfsteinpflaster in Bickendorf - Kenntnis genommen
+- TOP 6.7: Anfrage der Fraktion DIE LINKE. BV Ehrenfeld.: Wie lassen sich Hindernisse beseitigen? - zurückgestellt
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN: Bebauungsplan 64460/07 und Anlieferung eines geplanten Rewe-Markts über die Philippstraße - zurückgestellt
+- TOP 7.3: Anfrage der Fraktion DIE LINKE: Querung Ehrenfeldgürtel / Bartholomäus-Schink-Straße / Hüttenstraße - zurückgestellt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Bauvorhaben Melatengürtel / Grüner Weg - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag aller Fraktionen und Einzelmandatsträger: Leerstehende Kita „Christi Geburt“ in Bocklemünd – Mengenich - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Machbarkeitsstudie Hüttenstraße - Sache ist erledigt
+- TOP 8.2.1: Änderungsantrag der Fraktion BÜNDNIS 90/GRÜNE zu Top 8.5. „Machbarkeitsstudie Hüttenstraße“ - Sache ist erledigt
+- TOP 8.2.2: Antrag der SPD-Fraktion und der Fraktion BÜNDNIS 90 / GRÜNE: Umgestaltung der Hüttenstraße zu einer qualitativ guten Anwohnerstraße - ungeändert beschlossen
+- TOP 8.3: Antrag der Fraktion BÜNDNIS 90 / GRÜNE: Sicherer Fußgänger- und Radüberweg zwischen Takufeld und Rochuspark - zurückgestellt
+- TOP 8.4: Antrag der CDU-Fraktion, betr.: Modellprojekt ,,Sport im Sozialraum“, Wilhelm-Schreiber-Straße, Ossendorf - Sache ist erledigt
+- TOP 8.4.1: Ersetzungsantrag der SPD-Fraktion zum Antrag 0549/2019 (TOP 8.5), betr.: Modellprojekt „Sport im Sozialraum“ - Sache ist erledigt
+- TOP 8.4.2: Modellprojekt "Sport im Sozialraum", Wilhelm-Schreiber-Straße, Köln-Ossendorf - Kenntnis genommen
+- TOP 8.4.3: Prüfantrag der CDU-Fraktion: Modellprojekt "Sport im Sozialraum", Wilhelm-Schreiber-Straße, Ossendorf - geändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion: Wertstoffcontainer Mengenicher Straße - zurückgestellt
+- TOP 8.6: Gemeinsamer Antrag aller Fraktionen und der Einzelmandatsträger/innen, betr.: Sicherheitsmaßnahmen für den Schulweg zur Kardinal-Frings-Schule / - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion: Fußgängergerechte Baustelleneinrichtungen - ungeändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Baubeschluss für die Generalinstandsetzung der Philippstr. sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung von Straßen - ungeändert beschlossen
+- TOP 9.2: Verkehrskonzept Ossendorfer Straße/Baadenberger Straße - zurückgestellt
+- TOP 9.3: Beschluss zur Fortführung des Aktivierungsfonds im Rahmen des Integrierten Stadtentwicklungskonzeptes „Starke Veedel – Starkes Köln“ im Sozialraum „Bocklemünd/Mengenich“ - ungeändert beschlossen
+- TOP 9.4: 3. Vergabe der bezirklichen Finanzmittel 2019 - ungeändert beschlossen
+- TOP 9.5: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Beschluss über die Aufhebung der Einleitungsbeschlüsse zu den Bebauungsplanverfahren (Vorhabenbezogener Bebauungsplan) – Arbeitstitel: Alsdorfer Straße in Köln-Ehrenfeld und Alsdorfer Straße 7 bis 9 in Köln-Braunsfeld/-Ehrenfeld - geändert beschlossen
+- TOP 10.2: Konzeptausschreibung Alpener Straße 4-6 in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Subbelrather Straße 430-436 in Köln-Ehrenfeld - Alternative beschlossen
+- TOP 10.4: Parkgebührenordnung 2019 - DIE VORLAGE WURDE VON DER VERWALTUNG VON DER TAGESORDNUNG GENOMMEN
+- TOP 10.5: Gesamtkonzept Bewegungsparcours im Kölner Grün - geändert beschlossen
+- TOP 10.5.1: Änderungsantrag der Fraktion Die Linke zu TOP 10.5, betr.: Bewegungsparcours - ungeändert beschlossen
+- TOP 10.6: Busnetzerweiterung Interim - ungeändert beschlossen
+- TOP 10.7: Stärkung und Ausweitung des KVB-Busnetzes - ungeändert beschlossen
+- TOP 10.8: Stärkung und Ausweitung des KVB-Stadtbahnnetzes - geändert beschlossen
+- TOP 10.9: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: Weinsbergstraße/Innere Kanalstraße in Köln-Ehrenfeld - geändert beschlossen
+- TOP 10.10: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhaben-bezogener Bebauungsplan); Arbeitstitel: "Nördlich Colonius - 2154/2019 - DIE VORLAGE WURDE VON DER VERWALTUNG VON DER TAGESORDNUNG GENOMMEN
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Ziel- und Leistungsvereinbarung 2019 - Bürgerzentrum Ehrenfeld - Kenntnis genommen
+- TOP 12.2: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 12.3: Veranstaltungshalle Widdersdorfer Str. 246 (Luisenviertel) - Kenntnis genommen
+- TOP 12.4: Sachstand Containerprogramm in Ehrenfeld - zu AN/0242/2019 - Kenntnis genommen
+- TOP 12.5: Generalsanierung der Vogelsanger Straße zwischen den Hausnummern 250 und 282, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr. 2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 12.6: Umgestaltung der Vogelsanger Straße zwischen Innerer Kanalstraße und Ehrenfeldgürtel (1. Bauabschnitt), hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der haushaltssatzung der Stadt Köln für das Haushalts - Kenntnis genommen
+- TOP 13: mündliche Anfragen
