@@ -1,0 +1,91 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-07-08T17:00:00+02:00
+- Ende: 2019-07-08T18:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20502
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20502
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Ausbau der Frankfurter Straße zwischen dem Bahnhof Köln - MÜlheim und der Heidelberger Straße in Buchheim - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Durchfahrtverbot für LKW ab 2,5 t (Az.: 02-1600-90/19) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Anwohnerparken Dellbrücker Str. in Buchheim (Az.: 02-1600-246/18) - ungeändert beschlossen
+- TOP 2.3: Eingabe nach § 24 GO NRW: Kölner Verkehrs-Betriebe AG (KVB) - Fahrgastinformationsanzeige Wiener Platz / Frankfurter Str. (Az. 02-1600-135/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme einer Schenkung für die Gemeinschaftsgrundschule (GGS) Am Rosenmaar - ungeändert beschlossen
+- TOP 6.2: Annahme einer Schenkung für die Gemeinschaftsgrundschule Dellbrücker Hauptstraße - ungeändert beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Aufstellen von Mülleimern "Elisabeth-Schäfer-Weg" Köln Buchheim - Kenntnis genommen
+- TOP 7.1.2: Taubenkot in Eisenbahnunterführungen - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Belästigungen durch Gewebebetriebe in der Buchholzstraße - Kenntnis genommen
+- TOP 7.2.2: Tempo 30 auf der Bergisch Gladbacher Straße - Kenntnis genommen
+- TOP 7.2.3: Wiedereröffnung Thurner Hof - Kenntnis genommen
+- TOP 7.2.4: Statistische Abweichungen / Probleme bei der Europawahl 2019 - Kenntnis genommen
+- TOP 7.2.5: Sicherung des Kinder- und Jugendschutzes in Köln Buchheim - im Besonderen - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Neubau eines S-Bahnhofes an der Berliner Straße - ungeändert beschlossen
+- TOP 8.1.2: Prüfung der Parksituation Gronauer Straße in Köln-Buchheim - ungeändert beschlossen
+- TOP 8.1.3: Wohnungs- und Gebäudeleerstand im Stadtbezirk Mülheim - endgültig zurückgezogen
+- TOP 8.1.4: Der Antrag wurde zurückgenommen.
+- TOP 8.1.5: Errichtung eines Bike-Towers auf dem Wiener Platz - ungeändert beschlossen
+- TOP 8.1.6: verschoben zu TOP 7.2.5
+- TOP 8.1.7: Verbesserung der Sicht für Abbieger Dünnwalder Kommunalweg/Ecke Am Flachsrosterweg - ungeändert beschlossen
+- TOP 8.1.8: Zweigleisiger Ausbau der Strecke der Linie 4 zwischen Odenthaler Str. und Schlebusch: Den ÖPNV zügig ausbauen! - ungeändert beschlossen
+- TOP 8.1.9: Gemeinsamer Dringlichkeitsantrag der SPD-Fraktion, CDU-Fraktion, Fraktion Bündnis 90/Die Grünen, sowie der Einzelmandatsträger Bakis (Die Linke) und Tücks (FDP) - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim zum Thema "24-Stundenöffnung der öffentlichen Toilette im Bezirksrathaus Wiener Platz" - geändert beschlossen
+- TOP 8.2.2: Anregung der Bezirksarbeitsgemeinschaft Seniorenpolitik im Stadtbezirk Mülheim an die Bezirksvertretung Mülheim zum Thema " Nette Toilette" - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Bestellung eines Schriftführers für die verbleibende Wahlperiode 2014-2020 - ungeändert beschlossen
+- TOP 9.1.2: Bedarfsfeststellung zur Ausstattung der Räume der KGS Langemaß, Langemaß 21, Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.3: Entwurf der Fortschreibung des Straßenreinigungsverzeichnisses zur Straßenreinigungssatzung hier: Ausübung des Anhörungsrechtes gemäß § 19 (4) der Hauptsatzung - ungeändert beschlossen
+- TOP 9.1.4: Aufhebung der Straßenbezeichnung Kurtekottener Straße in Köln-Flittard - ungeändert beschlossen
+- TOP 9.1.5: Altlastensanierung des kieselrotbelasteten Bolzplatzes Herler Ring 176, in Köln-Buchheim - ungeändert beschlossen
+- TOP 9.1.6: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2019 - ungeändert beschlossen
+- TOP 9.1.7: Generalsanierung der Sportanlage Von-Bodelschwingh-Straße (Bugenhagen Straße) - ungeändert beschlossen
+- TOP 9.1.8: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Busnetzerweiterung Interim - geändert beschlossen
+- TOP 9.2.2: Stärkung und Ausweitung des KVB-Busnetzes - geändert beschlossen
+- TOP 9.2.3: Stärkung und Ausweitung des KVB-Stadtbahnnetzes - ungeändert beschlossen
+- TOP 9.2.4: Satzung über die abweichende Herstellung der Erschließungsanlage Markgrafenstraße von Clevischer Ring bis Kreisverkehr Berliner Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.2.5: 271. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 9.2.6: Gesamtkonzept Bewegungsparcours im Kölner Grün - ungeändert empfohlen
+- TOP 9.2.7: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf (vorhabenbezogener Bebauungsplan) Nummer 71476/02, Arbeitstitel: "Herler Straße" in Köln - Buchheim - ungeändert empfohlen
+- TOP 9.2.8: Stadtentwässerungsbetriebe Köln, AöR; Aktualisierung des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Strunder Mühle, Köln-Dellbrück - endgültig abgelehnt
+- TOP 9.2.9: Stadtentwässerungsbetriebe Köln, AöR; Aktualisieren des Gewässerentwicklungskonzeptes vom 11.02.2014 zur Festlegung von Umsetzungsmaßnahmen an der Strunde im Bereich Wichheimer Mühle, Köln-Dellbrück - endgültig abgelehnt
+- TOP 9.2.10: Parkgebührenordnung 2019 - endgültig abgelehnt
+- TOP 9.2.10.1: Änderungsantrag zu Top 10.1 "Parkgebührenordnung 2019" - endgültig abgelehnt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode - Kenntnis genommen
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.4: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.5: Ziel- und Leistungsvereinbarung 2019 - Bürgerhaus MüTZe - Kenntnis genommen
+- TOP 10.2.6: Leerstand im städtischen Wohnungsbestand (AN/0565/2019) - Kenntnis genommen
+- TOP 10.2.7: Errichtung einer Fußgängerrampe im Bereich der Moses-Hess-Straße - Kenntnis genommen
+- TOP 10.2.8: Unterbindung des LKW-Durchgangsverkehrs durch Mülheim während der Sanierung der Mülheimer Brücke - Kenntnis genommen
+- TOP 10.2.9: Vorhalten einer Notfallpraxis im rechtsrheinischen Norden - Kenntnis genommen
+- TOP 10.2.10: Digitale Kundenwand beziehungsweise Anzeigetafel im Kundenzentrum - Kenntnis genommen
+- TOP 10.2.11: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019 - Kenntnis genommen
+- TOP 10.2.12: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) Teilaufhebung des Bebauungsplanes 73479/08 Arbeitstitel: Oberer Wichheimer Kirchweg in Köln-Holweide; - Kenntnis genommen
+- TOP 10.2.13: Budget für Mängelbeseitigungen, Reparaturen Sportanlagen - Kenntnis genommen
+- TOP 10.2.14: Gutachten zum Kalkberg (1641/2019) - Kenntnis genommen
+- TOP 10.2.15: Wird der Kalkberg schon genutzt? - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
