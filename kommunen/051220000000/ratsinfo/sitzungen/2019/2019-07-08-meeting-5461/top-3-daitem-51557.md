@@ -1,0 +1,6 @@
+# TOP 3.: Kooperation mit der Schlossfabrik - mündlicher Bericht -
+
+- Sitzung: Jugendstadtrat (20. Sitzung) (2019-07-08)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/51557
