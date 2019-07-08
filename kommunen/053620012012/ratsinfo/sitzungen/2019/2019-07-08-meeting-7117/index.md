@@ -1,0 +1,89 @@
+# Rat (48. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-07-08T18:00:00+02:00
+- Ende: 2019-07-08T21:33:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf1o6CForSFIG8xEIU07HhE
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7117
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcSfd6kTxz5AhBrMcxVniZIt_6p5MWa311yr5Ag9p4SO/Bekanntmachung_Rat_08.07.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb7Pf5P0m0z_fdeju65iyFHLFrujMeRbBPs4gdWrh1Za/Oeffentliche_Niederschrift_Rat_08.07.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Technische Einrichtung des neuen Rathauses
+- TOP 1.2: Lesehof der Bibliothek im neuen Rathaus
+- TOP 1.3: Zuordnung des Fachbereichs Schule zum Bürgermeisterdezernat
+- TOP 1.4: Straßenbeleuchtung Hubertusstraße
+- TOP 1.5: Übermittagsbetreuung Barbaraschule
+- TOP 1.6: Zuschuss an den THC Brühl
+- TOP 1.7: Vertrag zwischen THC Brühl und Stadt Brühl
+- TOP 1.8: Genehmigungen von Feuerwerken
+- TOP 1.9: Anfrage an die Bundeswehr
+- TOP 1.10: Waldbrandgefahr
+- TOP 2.: Niederschrift vom 06.05.2019
+- TOP 3.: Städtischer Zuschuss an den THC Brühl e. V. zu den Kosten für die Errichtung einer zeitgemäßen Tennissportanlage - (kein Text vorhanden)
+- TOP 3.1: Städtischer Zuschuss an den THC Brühl e.V. zu den Kosten für die Errichtung einer zeitgemäßen Tennissportanlage
+- TOP 4.: Kindertagesbetreuung hier: Antrag des Waldkindergartens „Naturkinder Rheinland e.V.“ auf Gewährung eines Baukostenzuschusses zur Gründung eines neuen Waldkindergartens
+- TOP 4.1: Kindertagesbetreuung hier: Antrag des Waldkindergartens „Naturkinder Rheinland e.V.“ auf Gewährung eines Baukostenzuschusses zur Gründung eines neuen Waldkindergartens Bezug: Sitzung JHA am 14.03.2019, Vorlagen-Nummer 61/2019 - (kein Text vorhanden)
+- TOP 5.: Jekits 2019/2020 (Jedem Kind ein Instrument, Singen, Tanzen) hier: Fortentwicklung des Programms - (kein Text vorhanden)
+- TOP 6.: Evaluationsbericht Gleichstellungsplan für den Zeitraum 2014 bis 2018
+- TOP 7.: Förderaktivitäten der Kreissparkasse Köln in der Stadt Brühl im Jahr 2018 hier: Schreiben der KSK vom 29.05.2019
+- TOP 8.: Novellierung des § 27 GO NRW; hier: Beschluss über die Beibehaltung des Integrationsrates oder die Bildung eines Integrationsausschusses - (kein Text vorhanden)
+- TOP 9.: 8. Satzung zur Änderung über die Erhebung von Gebühren für den Besuch der Kunst- und Musikschule der Stadt Brühl - Gebührensatzung KuMS - (kein Text vorhanden)
+- TOP 10.: Außer- und überplanmäßige Mittelbereitstellungen
+- TOP 10.1: Anschaffung eines Fahrzeugs für stellv. Stadtbrandinspektoren hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 10.2: Kindertagesbetreuung in Einrichtungen hier: Überplanmäßige Auszahlung für die Finanzierung der Baukosten des Mini-Cultra und die Erstattung entgangener Kindpauschalen an den Arbeiter-Samariter-Bund, Regionalverband Rhein-Erft/Düren e.V. - (kein Text vorhanden)
+- TOP 10.3: Übermittagsbetreuung an der Katholischen Grundschule Barbara hier: Überplanmäßige Mittelbereitstellung für die Aufstellung eines Mietcontainers - (kein Text vorhanden)
+- TOP 10.4: Baumfällungen im Rahmen der Verkehrssicherung Nord-Süd-Weg hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 11.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 11.1: Dringlichkeitsentscheidung Überplanmäßige Mittelbereitstellung Kanalbau Römerstraße / Theodor-Heuss-Straße / Konrad-Adenauer-Straße und Ingenieurleistungen - (kein Text vorhanden)
+- TOP 11.2: Dringlichkeitsentscheidung Hier: Überplanmäßige Mittelbereitstellung Bezug: Neubeschaffung eines Mannschaftstransportfahrzeuges für die Kinderfeuerwehr - (kein Text vorhanden)
+- TOP 12.: Bebauungspläne
+- TOP 12.1: Bebauungsplan 02.07 "Clemens-August-Straße, Linie 18, Liblarer Straße" Abwägungs- und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 12.2: Bebauungsplan 05.01 Teilbereich B "Unter dem Dorf" und 44. Änderung des Flächennutzungsplanes - Abwägungs- und Satzungsbeschluss - - (kein Text vorhanden)
+- TOP 13.: Zustimmung zu Erschließungsverträgen
+- TOP 13.1: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 05.09 „Südlich Sechtemer Straße“ - (kein Text vorhanden)
+- TOP 13.2: Zustimmung zum Erschließungsvertrag im Bereich des künftigen Bebauungsplanes 05.01 Teilbereich B „Unter dem Dorf“ - (kein Text vorhanden)
+- TOP 14.: 1. Zwischenbericht zur Haushaltslage 2019 zum 30.06.19 mit Prognose zum 31.12.19
+- TOP 15.: Ermächtigungsübertragung aus dem Haushaltsplan 2018 nach 2019 Bezug: 1. Übertragungsvorlage im Rat am 06.05.2019
+- TOP 16.: Anträge
+- TOP 16.1: Straßenbaubeiträge
+- TOP 16.1.1: Verzicht auf die Vorauszahlungen von Straßenbaubeiträgen hier: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 04.06.2019 - (kein Text vorhanden)
+- TOP 16.1.1.1: Verzicht auf die Vorauszahlungen von Straßenbaubeiträgen hier: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 04.06.2019 Bezug: HA 17.06.2019
+- TOP 16.1.2: Resolution an die nordrheinwestfälische Landesregierung und den nordrheinwestfälischen Landtag zur Abschaffung der Straßenausbaubeiträge Bezug: Antrag der SPD-Fraktion vom 16.06.2019 - (kein Text vorhanden)
+- TOP 16.2: Digitalisierung Brühler Stolpersteine Bezug: Antrag der Fraktion Linke&Piraten vom 10.06.2019 - (kein Text vorhanden)
+- TOP 16.3: Hinweisschild für "Jüdischen Friedhof" Bezug: Antrag der Fraktion Linke&Piraten vom 10.06.2019
+- TOP 16.4: Mobilität sichern hier: Wasserstofftankstellen und Ladestellen für Elektrofahrzeuge Bezug: Antrag der FDP-Fraktion vom 27.05.2019 - (kein Text vorhanden)
+- TOP 16.5: Kindertheater zum Thema Plastikmüllvermeidung Bezug: Antrag der Fraktion Linke&Piraten vom 10.05.2019
+- TOP 16.5.1: Kindertheater zum Thema Plastikmüllvermeidung hier: Antrag der Ratsfraktion Die Linke u. Piraten vom 10.05.2019, Vorlagen-Nr. 190/2019
+- TOP 17.: Gesellschafterversammlung Gebausie - Jahresabschluss 2018 - (kein Text vorhanden)
+- TOP 18.: Umbesetzung in Ausschüssen
+- TOP 18.1: Umbesetzung im Schulausschuss hier: Vertreter des Max-Ernst-Gymnasiums - (kein Text vorhanden)
+- TOP 18.2: Umbesetzung im Sportausschuss Bezug: Antrag der Fraktion Linke&Piraten vom 24.06.2019 - (kein Text vorhanden)
+- TOP 18.3: Umbesetzung im Sozialausschuss und im Jugendhilfeausschuss Bezug: Mündlicher Antrag der FDP-Fraktion
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen
+- TOP 20.1: Erläuterungen zu den „Flex-Verträgen“ der Erzieherinnen und Erzieher der städtischen Kindertageseinrichtungen Bezug: Anfrage der SPD-Fraktion vom 16.06.2019
+- TOP 20.2: Ausweichgebäude für die Sanierung EKR
+- TOP 20.3: Europawahl 2019
+- TOP 20.4: Hinweisschilder Balthasar-Neumann-Platz
+- TOP 20.5: Überführung Linie 18 Brühl-Badorf
+- TOP 20.6: Haltestelle Linie 18 Brühl-Badorf
+- TOP 20.7: Baustellengestaltung Rathaus Neubau
+- TOP B): Nichtöffentliche Sitzung
+- TOP 21.: Sportzentrum Brühler Turnverein Betriebskostenabrechnungen für die Jahre 2013-2018
+- TOP 21.1: Sportzentrum Brühler Turnverein Betriebskostenabrechnung für die Jahre 2013-2018 - (kein Text vorhanden)
+- TOP 22.: Bericht über die 149. Sitzung des Aufsichtsrates der REVG mbH am 02.05.2019
+- TOP 23.: Mitteilungen
+- TOP 23.1: Vergabe der Busleistungen
+- TOP 23.2: Eintrag ins Goldene Buch der Stadt Brühl
+- TOP 24.: Anfragen
+- TOP 24.1: Flex-Verträge pädagogische Fachkräfte Anfrage der SPD-Fraktion
+- TOP 24.2: Ausbildungsinstitut des Bundes
+- TOP 24.3: Benutzung von städtischen Räumlichkeiten
