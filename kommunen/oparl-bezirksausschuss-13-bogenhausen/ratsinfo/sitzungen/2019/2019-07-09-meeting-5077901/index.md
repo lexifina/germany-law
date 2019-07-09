@@ -1,0 +1,133 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2019-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5077901
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5077901
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.1.: Nichtöffentlicher Teil
+- TOP 2.2.3.: Vorstellung des geplanten Abrisses der Vereinsgaststätte "Pyrsos"
+- TOP 2.2.8.: Möhlstr. 24: Erweiterung der Bakone auf der Südseite eines Wohngebäudes
+- TOP 2.2.9.: Holbeinstr. 7: Nutzungsänderung eines Kellers zu einer Wohnung
+- TOP 2.2.10.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.11.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.12.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.6.: Parkraummanagement - zukünftige Regelung?
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.5.2.: Vorstellung des Caritas Freiwilligen-Zentrum München Ost
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 1.3.1.: Protokoll der Sitzung vom 11.06.2019
+- TOP 1.3.2.: Vorstellung der neuen Abteilungsführung und Vereinsvorstandschaft der Freiwilligen Feuerwehr Oberföhring bzw. Verabschiedung der ehemaligen Abteilungsführung und Vereinsvorstandschaft
+- TOP 2.2.2.: Bau einer unterirdischen Sporthalle - Vorstellung der Phorms Bavaria gGmbH
+- TOP 2.2.4.: Gemeinde Unterföhring, Bebauungsplan Nr. 88/18: Errichtung eines Feststadls östlich der Tiefgarage an der Jahnstraße und westlich des Etzweges; Anhörung des Referates für Stadtplanung und Bauordnung vom 11.06.2019
+- TOP 2.2.5.: Kostenübernahme für die Feinplanung der Tunnellösung der S-Bahnstrecke Daglfing - Johanneskirchen; Bürgeranliegen vom 30.05.2019
+- TOP 2.2.6.: Denninger Str. 112 - 116: Nutzungsänderung von Büroräumen zu Hotelzimmern im EG, Umbau Halle + Frühstücksraum, Umbau zweier Arztpraxen zu Hotelzimmern und Büroräumen - TEKTUR hier: Rückbau Anlieferrampe, Einbau Anlieferaufzug u.a.
+- TOP 2.2.7.: Savitsstr.: Neubau eines Beerencafés („BeerenCafé“) mit Direktvermarktung
+- TOP 2.3.1.: Erschließungsstraßen im Prinz-Eugen-Park - gemeinsame Sitzung mit UA Planung und UA SÖÖ -
+- TOP 2.3.2.: Neugestaltung "Herkomerplatz" - Vorstellung durch das Baureferat - gemeinsame Sitzung mit UA Planung und UA SÖÖ -
+- TOP 2.3.3.: Neugestaltung Herkomerplatz
+- TOP 2.3.4.: Anpassung der Fußgängerampel an der Effnerstr. Kreuzung Odinstraße; Bürgeranliegen vom 08.06.2019
+- TOP 2.3.5.: (E) Tempo 30 für den Straßen-Abschnitt der Flensburger Straße zwischen Lübeckerstraße und Glücksburger Straße
+- TOP 2.3.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Brucknerstr. 22; Anhörung des Kreisverwaltungsreferates vom 11.06.2019
+- TOP 2.3.8.: Halteverbot auf der Nordseite der Johanneskirchner Straße gegenüber der Einmündung Wacholderweg; Anhörung des Kreisverwaltungsreferates vom 12.06.2019
+- TOP 2.3.9.: Fahrradständer Rosenkavalierplatz; Anhörung des Baureferates vom 06.06.2019
+- TOP 2.3.10.: Mühlbaurstr./Beetzstraße: Anordnung absolutes Halteverbot; Unterrichtung des Kreisverwaltungsreferates vom 11.06.2019
+- TOP 2.3.11.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Hochstiftsweg 4; Unterrichtung des Kreisverwaltungsreferates vom 13.06.2019
+- TOP 2.3.12.: Luftreinhaltung ohne Einführung der Parkraumlizenzierung gegen den erklärten Bürgerwillen; Antrag der CSU-Fraktion vom 19.06.2019
+- TOP 2.3.13.: Maßnahmen zur Luftreinhaltung gemeinsam erarbeiten anstatt sie über die Köpfe der Bürger hinweg zu beschließen; Antrag der CSU-Fraktion vom 19.06.2019
+- TOP 2.3.14.: Luftreinhaltung ohne Schleichverkehr; Antrag der CSU-Fraktion vom 19.06.2019
+- TOP 2.3.15.: Luftreinhaltung durch vorausschauende Planung im Bezug auf das Güterverkehrsaufkommen; Antrag der CSU-Fraktion vom 19.06.2019
+- TOP 2.3.16.: Antrag auf eine 3,5-minütige Taktverdichtung der Tramlinie nach St. Emmeram in der Hauptverkehrszeit; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 18.06.2019
+- TOP 2.3.17.: Denninger Straße: Gehweg weiterführen bis Haltestelle; Antrag der DaCG/ÖDP-Fraktion vom 03.06.2019
+- TOP 2.3.18.: Entschärfung der Verkehrssituation für den Radverkehr am Herkomerplatz / Denninger Straße; Antrag der Bündnis90/DIE GRÜNEN vom 21.06.2019
+- TOP 2.3.19.: Radweg von Ost nach West über die Kreuzung Daglfinger - Kunihohstrasse mit roter Farbe hervorheben; Bürgeranliegen vom 23.05.2019
+- TOP 2.3.20.: Antrag auf Verlegung der Haltestelle der Buslinie 187 Odinpark (Richtung Arabellapark); Bürgeranliegen vom 11.06.2019
+- TOP 2.3.21.: Behinderung der Sicht auf der Johanneskirchner Straße auf Höhe Nr. 81; Bürgeranliegen vom 17.06.2019
+- TOP 2.3.22.: Antrag auf Anbringung eines oder mehrerer Parkpfosten Ecke Trogerstraße/Prinzregentenstraße; Bürgeranliegen vom 18.06.2019
+- TOP 2.3.23.: Regenwasserabfluss im Fritz-Meyer-Weg/Ecke Cosimastraße; Bürgeranliegen vom 20.06.2019
+- TOP 2.3.24.: Überprüfung der Verkehrssituation in den fünf Querstraßen der Weltenburger Straße, die zur Parkstadt Bogenhausen führen; Bürgeranliegen vom 20.06.2019
+- TOP 2.3.25.: Unbefahrbarer Radweg auf der Cosimastraße; Bürgeranliegen vom 19.06.2019
+- TOP 2.3.26.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.27.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget Condrobs e.V. Freizeitfahrt für männlich suchtkranke Jugendliche in den Sommerferien 2019 2.467,50 Euro, Az.: 0262.0-13-0204
+- TOP 2.4.2.: (E) Stadtbezirksbudget Venezuela en Baviera e.V. Verbena Venezolana am 13.07.2019 9.145,00 € / Az. 0262.0-13-0206
+- TOP 2.4.3.: (E) Stadtbezirksbudget Heimat- und Volkstrachtenverein Staffelseer e.V. Erneuerung des Bodenbelages im Vereinsheim vom 20.07. - 31.08.2019 4.177,50 € / Az. 0262.0-13-0207
+- TOP 2.4.4.: (E) Stadtbezirksbudget Gehörlosenverband München und Umland e.V. Barrierefreies Sommerfest am 19.07.2019 1.950,00 € / Az. 0262.0-13-0208
+- TOP 2.4.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.6.: Verschiedenes, Termine
+- TOP 2.5.1.: Vorstellung des Ansprechpartners von AKIM (Allparteiliches Konfliktmanagement in München)
+- TOP 2.5.3.: Baulicher Zustand des Höchl-Schlössls - Bericht des Ortstermins; Unterrichtung des Referates für Stadtplanung und Bauordnung vom 06.06.2019
+- TOP 2.5.4.: Nutzung des Sportplatzes an der Ruth-Drexel-Schule; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 17.06.2019
+- TOP 2.5.5.: Öffnung der Schulsportanlage der Grundschule Ruth-Drexel-Straße auf dem Gelände der Prinz-Eugen-Kaserne (PEP) ohne Altersbeschränkung zu Nicht-Schulzeiten; Bürgeranliegen vom 04.06.2019
+- TOP 2.5.6.: Vorziehen des Baus eines Kunstrasenplatzes und Bereitstellung von Umkleidemöglichkeiten
+- TOP 2.5.7.: Konkrete umsetzbare Hilfe für den FC RW Oberföhring
+- TOP 2.5.8.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.9.: Verschiedenes, Termine
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Maria-Theresia-Str. 35: lt. Plan Marienburger Straße 61: lt. Plan Dirschauer Str. 29: lt. Plan Ortnitstr. 41: lt. Plan Cosimastr. : lt. Plan Regina-Ullmann-Str. 50-52: 1 Rotbuche Plankenhofstr. 9: 1 Ahorn, 2 Ebereschen Plankenhofstr. 3: 1 Ahorn, 2 Ebereschen
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Possartstr. 29 (2 Schwarzpappeln); Marienwerderstr. 8 (lt. Bescheid), Rambaldistr. 27 (lt. Besheid)
+- TOP 2.6.3.: Wiederherstellung der Sitzbänke in der Oberföhringer Str./Bürgerpark Oberföhring 156 - Bestellung städtischer Leistungen; Bürgeranliegen vom 05.06.2019
+- TOP 2.6.4.: Besprechung des Bibervortrags am 25.09.2019; Bürgeranliegen vom 07.06.2019
+- TOP 2.6.5.: Verbleib des Holzes in der Isar; Bürgeranliegen vom 26.05.2019
+- TOP 2.6.6.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.7.: Verschiedenes, Termine
+- TOP 5.1.: Veranstaltung auf öffentlichem Verkehrsgrundstück Hier: An der Cosimastraße, Englschalkinger Straße: Anfrage der Fläche für Korbwarenverkauf; Anhörung des Kommunalreferates vom 06.06.2019 - Ablehnung der BA-Vorsitzenden am 19.06.2019 nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung -
+- TOP 5.2.: Veranstaltung auf öffentlichem Verkehrsgrundstück Hier: Fidellostraße 153: Stadtteilfest Bogenhausen am 29.06.2019; Anhörung des Kreisverwaltungsreferates vom 18.06.2019 - Zustimmung der BA-Vorsitzenden am 19.06.2019 nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung -
+- TOP 5.3.: Veranstaltung auf öffentlichem Verkehrsgrundstück Hier: An der Cosimastraße, Englschalkinger Straße: Gastspielanfrage Circus Roberto vom 30.09.19-13.10.19 Anhörung des Kommunalreferates vom 19.06.2019
+- TOP 6.1.: Erschließung der Grünfläche an der Burgauerstr. (Wege, Sitzbänke, Bäume und Sträucher)
+- TOP 6.2.: Es soll ein Verkehrsspiegel an der Kreuzung Gleißenbachstraße/Wildrosenweg aufgestellt werden
+- TOP 6.3.: Einstellung von Umbauten Buschingstraße 67
+- TOP 6.4.: Baumfällungen in der Parkstadt Bogenhausen
+- TOP 6.5.: Daglfinger/Truderinger-Kurve: Gemeinsame Untertunnelung und Tieferlegung
+- TOP 6.6.: Wärmeschutz und Artenvielfalt durch Begrünung, sowie klimaneutrale Kühlung des 13er Kulturbürgerhauses
+- TOP 6.7.: NACHGEFRAGT 2: Umbau Rosenkavalierplatz – Schaffung von mehr Parkplätzen – Entfernung der Verkehrsinsel
+- TOP 7.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.2.: Das Format der Bürgerversammlung ansprechender gestalten; Unterrichtung des Direktoriums vom 03.06.2019
+- TOP 7.2.1.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: Elbinger Str. 1c
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch: Elbinger Str. 3
+- TOP 7.9.3.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2018
+- TOP 9: Nichtöffentlicher Teil
