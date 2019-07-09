@@ -1,0 +1,93 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147717
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147717
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Spurführung an der Einmündung Donnersbergerbrücke zur Landsberger Straße; Anbringung von Miniflexipfosten zur Verdeutlichung
+- TOP 4.2.: Begrünung der Trambahngleise im Bereich Landsberger Straße zwischen Grasserstraße und Barthstraße
+- TOP 4.3.: Rote Fahrbahnmarkierung an der Kreuzung Trappentreustraße/Kazmairstraße
+- TOP 4.4.: Pflasterarbeiten am Gollierplatz; Baumschutz
+- TOP 4.5.: Abfahrt von der Hackerbrücke in die Grasserstraße - Vorschlag zur Unfallvermeidung
+- TOP 4.6.: Zebrastreifen in der Schießstättstraße auf Höhe der Stadtbücherei
+- TOP 4.7.: Zustand am West-Eingang Saturn-Hansa beim Schwanthaler Forum; Zustand des Durchgangswegs bei der Zirkuswiese
+- TOP 4.8.: Bauliche Maßnahmen zur Querungshilfe am Gollierplatz
+- TOP 4.9.: Spielzeiten am Spielplatz Astallerstraße - Kazmairstraße
+- TOP 6.1.1.: (E) Errichtung eines Sicherungsgerüstes am "Döner-macht-schöner-Haus" (Schwanthalerstr. 119) Empfehlung Nr. 14-20 / E 02580 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 04.04.2019
+- TOP 6.1.2.: (E) Errichtung einer öffentlichen WC-Anlage im Stadtbezirk Empfehlung Nr. 14-20 / E 02587 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 04.04.2019
+- TOP 6.1.3.: Freischankfläche Trappentreustraße 10
+- TOP 6.2.1.: Bauvorhaben Landsberger Straße 125
+- TOP 6.2.2.: Bauvorhaben Bergmannstraße 2
+- TOP 6.2.3.: Aufstellen von Sitzgelegenheiten vor dem Anwesen Ligsalzstraße 3a
+- TOP 6.2.4.: Bauvorhaben Westendstraße 89
+- TOP 6.2.5.: Bauvorhaben Schwanthalerstraße 160
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Bauvorhaben Parkstraße 24 - Antwortschreiben
+- TOP 6.3.3.: Meldeliste Bauvorhaben SWM
+- TOP 6.3.4.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.5.: Bauvorhaben Bergmannstraße 13 - Antwortschreiben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 27.05.2019
+- TOP 7.3.2.: Protokoll zum Jour Fixe des Kulturreferenten mit den BAs vom 09.05.2019
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Nachpflanzung von gefällten Bäumen im öffentlichen Raum Empfehlung Nr. 14-20 / E 02571 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 04.04.2019
+- TOP 8.1.2.: (E) Errichtung eines Hundekotbeutelautomaten in der Gollierstraße im Bereich zwischen Ganghofer- und Geroltstraße sowie verstärkte Kontrollen Empfehlung Nr. 14-20 / E 02569 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 04.04.2019
+- TOP 8.1.3.: (E) Pflege- und Sauberkeitszustand der Spielplätze im Stadtbezirk Empfehlung Nr. 14-20 / E 02584 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 04.04.2019
+- TOP 8.1.4.: (E) Begrünung und Verkehrsberuhigung in der Barthstraße
+- TOP 8.1.5.: (E) Errichtung eines Zebrastreifens an der Ecke Grasserstr. / Hackersbrücke
+- TOP 8.1.6.: (E) Keine privaten Silvesterfeuerwerke
+- TOP 8.1.7.: (E) + (U) Vermietung der Theresienwiese bei Großveranstaltungen Empfehlung Nr. 14-20 / E 01452 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 27.04.2017
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Parkscheinautomaten-Standorte für die Erweiterung der Parklizenzgebiete Herzog-Ernst-Platz, Ridlerstraße und Theresienhöhe
+- TOP 8.2.2.: Veranstaltung in der Gollierstraße 56 am 10.08.2019
+- TOP 8.2.3.: Das aktuell bestehende Haltverbot in der Ligsalzstr. / Schwanthalerstr. vor der ehem. Westend Apotheke soll aufgehoben werden. Stattdessen sollen nun Fahrradstellplätze eingerichtet werden.
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Parkpflegewerk Theresienwiese
+- TOP 8.3.2.: Aufhebung personenbezogener Behindertenparkplatz August-Kühn-Str. 16
+- TOP 8.3.3.: Roter Abbiegepfeil an der Heimeranstraße vor der Apotheke
+- TOP 8.3.4.: Internationales Fest am Gollierplatz 29.06.2019
+- TOP 8.3.5.: Straßenfest des Griechischen Hauses
+- TOP 8.3.6.: Parklets im Westend
+- TOP 8.3.7.: Ausweisung der Theresienhöhe für gebührenpflichtiges Parken
+- TOP 8.3.8.: Beschilderung der U-Bahnzugänge im Stadtbezirk 8 Schwanthalerhöhe mit den Namen der U-Bahnhöfe
+- TOP 8.3.9.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze; Baustelleneinrichtungsfläche des TÜV in der Ridlerstraße
+- TOP 8.3.10.: Ökumenischer Gottesdienst im Bavariapark am 21.07.2019
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget; PA/Spielen in der Stadt e.V. Baumobil vom 09.05. - 11.05.19, Zirkus Pumpernudl vom 09.08. - 11.08.19 2.892,00 € / AZ: 0262.0-8-0179
+- TOP 9.1.2.: (E) Stadtbezirksbudget IG-Feuerwache - Initiativgruppe e.V. Renovierung des Pavillondachs vom 10.-21.06.2019 1.788,00 € / Az. 0262.0-8-0187
+- TOP 9.1.3.: (E) Stadtbezirksbudget Init. "Rallye durchs Westend" Rallye durch Westend am 29.06.2019 150,00 € / Az. 0262.0-8-0189
+- TOP 9.1.4.: (E) Stadtbezirksbudget AK "Westend hat ein Gesicht" 5. Kunst- und Kulturtage Westend 2019 vom 28.06. - 11.08.2019 5.000,00 € / Az. 0262.0-8-0190
+- TOP 9.1.5.: (E) Stadtbezirksbudget Westend-Drachen Elterninitiative e.V. Anschaffung von iPads 1.871,25 € / Az. 0262.0-8-0192
+- TOP 9.1.6.: (E) Stadtbezirksbudget mq18 Kunstplatz / Kulturraum e.V. Kunstevent "IDENTITIES" vom 31.10. - 06.11.2019 5.000,00 € / Az. 0262.0-8-0193
+- TOP 9.1.7.: (E) Stadtbezirksbudget; Wohnprojekt Ligsalz8 e.V. Straßenfest am 03.08.2019 850,00 € / AZ: 0262.0-8-0194
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Übersichtslisten zum Stadtbezirksbudget
+- TOP 10.1.: Begrünung Landsberger Straße
+- TOP 10.2.: Neuaufteilung der Verkehrswege in der Landsberger Straße zwischen Donnersbergerbrücke und Grasserstraße
+- TOP 11.1.: Provisorische Beleuchtungskörper Schwanthalerstr. und Ridlerstr. - Antwortschreiben
