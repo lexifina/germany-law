@@ -1,0 +1,70 @@
+# Rat (35. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2019-07-09T18:00:00+02:00
+- Ende: 2019-07-09T19:34:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZW4lMKTEDXGOKdy91189ts4
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19958
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYHtJVCYzFeYKsX3Qqpbc-yvan6B3Bj5E1XNzRK5yZjo/Bekanntmachung_Rat_09.07.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcS1dqIG35xMHu9TSe3mOhjVGBjYsUjVGs041SsTT6SO/Oeffentliche_Niederschrift_Rat_09.07.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 05.06.2019 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Seitenstreifen an der Cicerostraße in Kalkar hier: Antrag nach § 24 GO NRW vom 11.06.2019 - Einstimmiger Beschluss:
+- TOP 5.: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Vorstellung des Bauprogramms und der Maßnahmenbeschreibung sowie Festlegung der Ausschreibungsart und der Vergabekriterien - Einstimmiger Beschluss:
+- TOP -: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Schreiben des NABU- Kreisverband Euskirchen - vom 23.6.2019 - Kein Beschluss erforderlich.
+- TOP -: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Mail einer Anwohnerin vom 04.07.2019 - Kein Beschluss erforderlich.
+- TOP -: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Mail einer Anwohnerin vom 08.07.2019 - Kein Beschluss erforderlich.
+- TOP -: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Schreiben der Kommunalaufsicht vom 05.07.2019 - Kein Beschluss erforderlich.
+- TOP 6.: 6. Satzung zur Änderung der Hauptsatzung der Stadt Bad Münstereifel - Einstimmiger Beschluss:
+- TOP 7.: 7. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Bad Münstereifel vom 24.06.1997 -   
+- TOP -: 7. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Bad Münstereifel vom 24.06.1997 - Einstimmiger Beschluss:
+- TOP 8.: Beteiligung an der Energie Rur-Erft GmbH & Co. KG – Beteiligung der Energie Nordeifel GmbH & Co. KG an den Gesellschaften zum Betrieb des „Eifel-Windparks Blankenheim“ - Beschluss mit 22 Ja- und 2 Nein-Stimmen sowie 2 Enthaltungen:
+- TOP 9.: Mitwirkung der Stadt Bad Münstereifel im Aktionsbündnis "Silent Rider - Die Initiative gegen Motorradlärm"; hier: Genehmigung einer außerplanmäßigen Ausgabe -   
+- TOP -: Mitwirkung der Stadt Bad Münstereifel im Aktionsbündnis "Silent Rider - Die Initiative gegen Motorradlärm"; hier: Genehmigung einer außerplanmäßigen Ausgabe - Einstimmiger Beschluss:
+- TOP 10.: Beschaffung von Feuerwehrfahrzeugen gem. Brandschutzbedarfsplan; hier: Genehmigung überplanmäßiger Ausgaben - Einstimmiger Beschluss:
+- TOP 11.: Schülerverkehr der Grundschulkinder aus den Bereichen Uhlenberg und Otterbach sowie bessere Erschließung der Kernstadt - Beschluss bei Z-2.
+- TOP -: Schülerverkehr der Grundschulkinder aus den Bereichen Uhlenberg und Otterbach sowie bessere Erschließung der Kernstadt hier: Erweiterung um einen ÖPNV Haltepunkt im „Goldenen Tal“; CDU-Antrag vom 01.07.2019 - Beschluss bei Z-2. 
+- TOP -: Schülerverkehr der Grundschulkinder aus den Bereichen Uhlenberg und Otterbach sowie bessere Erschließung der Kernstadt hier: Erweiterung um einen ÖPNV Haltepunkt im „Goldenen Tal“; CDU-Antrag vom 01.07.2019 - Einstimmiger Beschluss:
+- TOP 12.: Kitabedarf im Wohnbereich Schönau/Mahlberg -   
+- TOP -: Kitabedarf im Wohnbereich Schönau/Mahlberg - Einstimmiger Beschluss:
+- TOP 13.: 5. Satzung zur Änderung der Satzung und Tarifordnung für die Benutzung der Sporthallen in der Stadt Bad Münstereifel - Beschluss bei Z-1.
+- TOP -: 5. Satzung zur Änderung der Satzung für die Benutzung der Sportanlagen der Stadt Bad Münstereifel und Erhebung von Nutzungsentgelten vom 15.07.1983 (Tarifordnung) - Einstimmiger Beschluss:
+- TOP 14.: 2. Satzung zur Änderung der Satzung zur Erhebung von Benutzungsentgelten für die Inanspruchnahme städtischer Einrichtungen -   
+- TOP -: 2. Satzung zur Änderung der Satzung zur Erhebung von Benutzungsentgelten für die Inanspruchnahme städtischer Einrichtungen -   
+- TOP -: 2. Satzung zur Änderung der Satzung zur Erhebung von Benutzungsentgelten für die Inanspruchnahme städtischer Einrichtungen - Einstimmiger Beschluss:
+- TOP 15.: Zufahrt zum Wohnmobil- und Campingwagenstellplatz "BAM-Camp" hier: Aufstufung vom Wirtschaftsweg zur Gemeindestraße - Einstimmiger Beschluss:
+- TOP 16.: Bebauungsplan Nr. 90 "Neubau Zimmerei-Outlet-Store" hier: Abwägungsbeschlüsse und Satzungsbeschluss - Kein Beschluss erforderlich.
+- TOP 17.: Gesamtabschluss 2017 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie Feststellung und Entlastung gem. § 116 GO NRW i.V.m. § 96 GO NRW - Einstimmiger Beschluss:
+- TOP 18.: Jahresabschluss 2018 hier: Zuleitung des Berichtes des Rechnungsprüfungsausschusses sowie Feststellung des Jahresabschlusses 2018 und Entlastung gem. § 96 Abs. 1 GO NRW - Einstimmiger Beschluss:
+- TOP 19.: Integriertes Stadtentwicklungs- und Handlungskonzept (ISEK) – A.2-A.4 Citymanagement hier: Beschluss der Leistungsbeschreibung, des Leistungsverzeichnisses und der Bewertungskriterien zur Auftragsvergabe - Beschluss mit 15 Ja- und 11 Nein-Stimmen:
+- TOP 20.: Anfragen und Mitteilungen
+- TOP 20.1: Deutsche Verkehrswacht- Mitgliedschaft
+- TOP 20.2: Parksituation in Schönau
+- TOP 20.3: Entwicklung von Wirtschaftswegen in Eschweiler
+- TOP 20.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20.5: In der Otterbach hier: Anfrage des Stadtverordneten Thomas Bell, Die Linke, zum derzeitigen Erscheinungsbild der Straße
+- TOP 20.6: Grundstücksverkauf "Unter den Linden" hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion, zum Sachstand
+- TOP 20.7: Mehrzweckhalle Arloff hier: Anfrage des Stadtverordneten Martin Mehrens, CDU-Fraktion, zur derzeitigen Baustellenausfahrt
+- TOP 20.8: Bushaltebucht an der Nöthener Straße hier: Anfrage der Stadtverordneten Brigitte Fuchs, SPD-Fraktion, zur Beschilderung
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Straßenausbau "Auf der Oberst" in Bad Münstereifel-Odesheim hier: Bieterliste und Vergabe der Bauleistungen - Beschluss bei 1 Gegenstimme:
+- TOP 2.: Verlängerung eines Erbbaurechtsvertrages - Einstimmiger Beschluss:
+- TOP 3.: Grundstücksangelegenheiten; Veräußerung eines städtischen Grundstücks in der Kölner Straße - Beschluss mit 17 Ja- und 8 Nein-Stimmen:
+- TOP -: Grundstücksangelegenheiten; Veräußerung eines städtischen Grundstücks in der Kölner Straße -   
+- TOP 4.: IT-Support an Schulen - Einstimmiger Beschluss:
+- TOP 5.: Finanzielle Unterstützung des Kinderschutzbundes als Träger einer Kindertageseinrichtung - Einstimmiger Beschluss bei 1 Enthaltung:
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Grundstücksverkauf "Unter den Linden" hier: Sachstand
+- TOP 6.2: Markierungen auf Ratsvorlagen (rote Kreise)
+- TOP 6.3: Parkhotel hier: Anfrage des Stadtverordneten Christof Milischewski, FDP-Fraktion
+- TOP 6.4: Kita Arloff/Kirspenich hier: Mitteilung der Verwaltung zum Sachstand
+- TOP 6.5: Dank und Einladung zum Fassanstich
