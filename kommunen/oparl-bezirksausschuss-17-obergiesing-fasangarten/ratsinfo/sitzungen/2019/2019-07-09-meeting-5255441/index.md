@@ -1,0 +1,166 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255441
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255441
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 1.: Sicherheit für Fußgänger insbes. Kinder auf dem Gehweg der Tegernseer Landstraße, Höhe Watzmannstraße; Bürgeranliegen aus der Sitzung vom 04.06.2019
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Antrag auf einen Zebrastreifen an der Werner-Schlierf-Straße 23; Bürgerschreiben (Email) vom 03.06.2019
+- TOP 2.1.2.2.: Verkehrssituation im Umfeld der Tegernseer Landstraße; Bürgerschreiben vom 18.06.2019
+- TOP 2.1.2.3.: Entsorgung von 4 Bauzaunelementen mit Standfüßen; Bürgerschreiben vom 11.06.2019
+- TOP 2.1.2.4.: Entsorgung eines alten defekten Fahrrades, Bürgerschreiben vom 11.06.2019
+- TOP 3.9.1.1.: Tegernseer Landstraße 205, 2 Vogelkirschen
+- TOP 3.9.1.2.: Waidbrucker Str. 19, 2 Lebensbäume
+- TOP 4.1.: Schwimmbad-Bedarf für den Schulsport; Antrag der SPD-Fraktion
+- TOP 4.2.: Kita-Erzieher/innen von Bürokratie entlasten; Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.1.1.: (E) Stadtbezirksbudget; 103er-Freizeittreff Obergiesing; KJR München Besuche für Veranstaltungen 1.850,00 € / AZ: 0262.0-17-0211
+- TOP 5.1.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Projekt "Kunst & Bauen" von Mitte September 2019 bis Ende Juli 2020 500,00 € / Az. 0262.0-17-0213
+- TOP 5.1.3.: (E) Stadtbezirksbudget; Münchner Volkshochschule GmbH Spätsommerfest am 08.09.2019 5.310,00 € / AZ: 0262.0-17-0214
+- TOP 5.1.4.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Projekt "Sprachförderung" von Mitte September 2019 bis Ende Juli 2020 1.350,00 € / Az. 0262.0-17-0212
+- TOP 5.1.5.: (E) Stadtbezirksbudget; Sozialstation Berg am Laim + Trudering GmbH Projekt "Wohnen im Viertel" Sommer 2019 3.075,00 €/ AZ: 0262.0-17-0215
+- TOP 5.2.1.: Errichtung einer oberirdischen, öffentlichen Toilettenanlage am Giesinger Bahnhofsplatz
+- TOP 5.2.2.: Wiederinbetriebnahme der derzeit geschlossenen, öffentlichen Toilettenanlage im MVG-Zwischengeschoss des Giesinger Bahnhofsplatzes
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Zuschuss zu Druckkosten für Dokumentation der Kunstaktion Mohnblumen auf dem Königsplatz; Anfrage an den BA bezüglich Beteiligung an den Kosten; Schreiben (E-mail) vom 17.06.2019
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Gemeinde Unterhaching; Änderung des Bebauungsplanes Nr. 103A/2006 Anhörung durch das Referat für Stadtplanung und Bauordnung vom 07.06.2019
+- TOP 6.1.3.2.: Gemeinde Neubiberg; Aufstellung des Bebauungsplans Nr. 84 Anhörung durch das Referat für Stadtplanung und Bauordnung vom 03.06.2019
+- TOP 6.1.3.3.: Arzberger Str. 3, Neubau eines Mehrfamilienhauses mit Unterflurparksystem
+- TOP 6.1.3.4.: Tegernseer Landstr. 223a, Antrag auf Erteilung der bauaufsichtlichen Zustimmung zur Verlängerung der befristeten Nutzung, Änderung der Erschließung und baulichen Ergänzung der Halle 19 auf dem McGraw-Gelände München
+- TOP 6.1.3.5.: Schloß-Berg-Str. 9a -9d, Aufstockung von 4 gereihten Mehrfamielienhäusern mit Errichtung von 8 DG-Maisonette-Wohneinheiten einschl. Balkon- und Fluchtleiteranlagen
+- TOP 6.1.3.6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/30 und Bebauungsplan mit Grünordnung Nr. 2118
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 20.05.19 - 23.06.19
+- TOP 6.1.4.2.: Unterrichtung über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen der Erhaltungssatzung 1. Werinherstr. 10 2. Deisenhofener Str. 43 3. Rotwandstr. 16
+- TOP 6.1.4.3.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 6.1.4.4.: Frühzeitige Bürgerbeteiligung bei der Planung des Gewerbegebietes in Neubiberg, südlich der Stadtgrenze zwischen Autobahn A 8 und Bahnlinie München – Deisenhofen
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Giesinger Bahnhofsplatz - Sozialer Brennpunkt; Bürgerschreiben (Email) vom 06.05.2019
+- TOP 2.: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention Produkt 40111270 - Umsetzung der UN-Behindertenrechtskonvention Schutz und Gewaltprävention für Frauen und Mädchen in Einrichtungen der Behindertenhilfe Unterstützung der Forderungen "Frauen mit Behinderungen und Gewalterfahrungen" des Facharbeitskreises Frauen des Behindertenbeirats Kurzzeitwohnplätze für Kinder mit Behinderungen schaffen! Konsequente Umsetzung des 2. Aktionsplans zur Umsetzung der UN-BRK - Keine Maßnahme aus finanziellen Erwägungen fallen lassen Sitzungsvorlage Nr. 14-20 / V 13275
+- TOP 6.2.4.1.: Neuer Vorstand im Kreisjugendring München-Stadt
+- TOP 6.2.4.2.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 27.05.2019 im Sozialreferat
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Austausch von Lichtsignalanlagen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: Beantragung einer Fristverlängerung für die Einbahnstraßenregelung Weißenseestraße
+- TOP 6.3.4.2.: Verbesserung der Situation auf der Linie des Busses 54
+- TOP 6.3.4.3.: Einmündung Stettnerstraße in die Tegernseer Landstraße für Radverkehr sicherer regeln
+- TOP 6.3.4.4.: Fahrradwege bei Bahnunterführungen Chiemgaustraße und Werinherstraße
+- TOP 6.3.4.5.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 6.3.4.6.: (U) Saisonale Umnutzung von Straßenräumen a) Temporäre Interventionen im Öffentlichen Raum b) Zwei Ansätze temporärer Interventionen im Straßenraum c) Behandlung der Anträge und Empfehlungen ...
+- TOP 6.3.4.7.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 6.3.4.8.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.2.1.: (E) Ergreifung effizienter Maßnahmen zur Reduktion der Stickoxid-Belastung in Obergiesing-Fasangarten Empfehlung Nr. 14-20 / E 01623 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 20.07.2017, eingegangen am 20.07.2017
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Beteiligung des Bezirksausschusses an den geplanten kurzfristig wirkenden Maßnahmen zur Luftreinhaltung an der Chiemgau- und Tegernseer Landstraße
+- TOP 6.4.4.2.: Beseitigung der Taubenplage in der Anwohnergarage an der Deisenhofenenr Straße
+- TOP 6.4.4.3.: Kronepark. Anträge aus der Einwohnerversammlung vom 25.03.19 Parkpflegewerk für den Kronepark Instandsetzung unter Aufsicht eines Parkpflegewerks Mögliche Neuplanung nicht als event-area Ökologisch sinnvolle Aufwertung des Kroneparks Aufwertung des Kroneparks durch Errichtung einer Toilette Zugang zum Kronepark im Winter (Treppenanlage Am Nockherberg)
+- TOP 6.4.4.4.: Korrigierte Terminplanung Weißenseepark, 3. Bauabschnitt
+- TOP 6.4.4.5.: Beginn der Wegsanierung am Louisoder-Spielplatz Herzogstandstraße/Kesselbergstraße
+- TOP 6.4.4.6.: Höhere Aufenthaltsqualität am Giesinger Bahnhofplatz durch Pflanzen und Sauberkeit
+- TOP 6.4.4.7.: Ergänzung der existenten Steinsitze im Bereich des Giesinger Bahnhofsplatzes mit Holzsitzflächen und Holzlehnen mit Zustimmung der beauftragten Landschaftsarchitekten für die Gestaltung des Platzes
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Partizipatives Theater zum Thema "Einsamkeit in der Großstadt", Anfrage an den BA bezüglich Beteiligung an den Kosten; Schreiben (E-mail) vom 24.04.2019 und 12.05.2019 (Konzept)
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Vormerkung des RBS-ZIM_ImmoV zur Rasenplatzsanierung am General-Kalb-Weg 33
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Antrag für Fahrradabstellfläche vor einem Betrieb
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Schank- und Speisewirtschaft "Giesinger Play Bar", Schlierseestr. 83 Antrag auf unveränderte Fortführung
+- TOP 6.6.4.2.: Schank- und Speisewirtschaft "Chin Chan", Warngauer Str. 17 Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: Das Format der Bürgerversammlung ansprechender gestalten; Schreiben der 3. Bürgermeisterin vom 03.06.2019
+- TOP 7.3.2.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
