@@ -1,0 +1,142 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2019-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5269934
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5269934
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 4.: Kurzbericht der Polizei
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Anträge
+- TOP 7.: Unterrichtungen
+- TOP 8.: Entscheidungen
+- TOP 9.: Anhörungen
+- TOP 10.: sonstiges
+- TOP 3.1.: Baumfällungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 4.: Bürgeranliegen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.: Genehmigte Baumfällungen
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 3.1.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 10.3.: Rechenschaftsbericht
+- TOP A: Allgemeines
+- TOP 10.1.: Sitzungstermine 2020
+- TOP 10.2.: Meldung der Kontostände der vom BA geführten Girokonten und Umgang mit Spenden und Annahme von Geschenken, BA-Infoschreiben Nr. 04/15,
+- TOP B.: Stadtplanung und Architektur
+- TOP 1.: Anträge
+- TOP 1.1.: Großflächige Werbetafeln Heidemannstraße / Lilienthalallee
+- TOP 1.2.: Das noch Mögliche versuchen: Kinos Münchner Freiheit retten! … und für die Zukunft vorsorgen: Erhaltungssatzungsgebiete für Kleingewerbetreibende schaffen
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Vollzug der Baumschutzverordnung, Bauvorhaben Kurwenalstraße 14
+- TOP 3.1.2.: Vollzug der Baumschutzverordnung, Lilienthalallee 30, Fl. Nr. 170/97
+- TOP 3.1.3.: Antrag auf Baumfällung, Wallnerstr. 33
+- TOP 3.2.1.: Wagnerstraße 1, Aufstockung, DG-Ausbau, Sanierung und Nutzungsänderung des ensemblegeschützten Blockrand-Eckbaues, Abbruch einer Garage und Neubau Carport
+- TOP 3.2.2.: Bauhausplatz, Neubau eines Wohn- und Geschäftshauses mit Gastronomie, Großgarage und Nebenräumen, TEKTUR, jetzt: Neubau zweier Häuser mit Einzelhandel, Gastronomie, Büroflächen, Wohnungen und Großgarage, „Quartier City II, Stadthaus am Bauhausplatz“
+- TOP 3.2.3.: Bebauungsplan Nr. 88/18 „Errichtung eines Feststadls östlich der Tiefgarage an der Jahnstraße und westlich des Etzweges“, Bauleitplanverfahren der Gemeinde Unterföhring
+- TOP 3.2.4.: Gemeinde Oberschleißheim, 28. Änderung des Flächennutzungsplanes
+- TOP 3.2.5.: Domagkpark, Verkehrs- und Grünfläche am Frankfurter Ring
+- TOP 3.2.6.: Nachtrag der ehem. Volksschule an der Situlistraße in die Denkmalliste
+- TOP 3.2.7.: Feldanger 8, Neubau eines Dreispänners mit Garage und 2 Carports
+- TOP 5.: Unterrichtungen
+- TOP 5.1.1.: Keine reinen Gewerbeansiedlungen mehr bei Neubausweisungen
+- TOP 5.2.1.: Unterrichtung über bevorstehende Entfernung von Gefahrenbäumen in der Leinthalerstraße
+- TOP 5.2.2.: Ablehnung der Fällung, Moorackerweg 3
+- TOP 5.3.1.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 5.3.2.: (U) 1) Bebauungsplan mit Grünordnung Nr. 1942a Lilienthalallee (westlich), Maria-Probst-Straße (östlich) (Teilverdrängung der Bebauungspläne Nrn. 1404a und 2024) - Campus für Innovation und Forschung - - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - 2) Antrag Campus für Innovation und Forschung als urbanes Gebiet ausweisen BA-Antrags-Nr. 14-20 / B 03823 des Bezirksausschusses des Stadtbezirkes 12 - Schwabing-Freimann vom 18.07.2017 Stadtbezirk 12 Schwabing-Freimann
+- TOP 5.3.3.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2018
+- TOP 5.3.4.: Stellungnahme des RBS zum Bürgeranliegen (B.4.1-04/19): Unterstützung der Freien Turnerschaft München-Schwabing von 1897 e.V.
+- TOP 5.3.5.: Für mehr Demokratie und Transparenz in Preisgerichten – Strukturen und Abläufe reformieren; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 03.07.2019, Sitzungsvorlage Nr. 14-20 / V 15076
+- TOP 5.3.6.: Demografiebericht München – Teil 2; kleinräumige Bevölkerungssprognose 2017 bis 2040 für die Stadtbezirke, Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.07.2019, Sitzungsvorlage Nr. 14-20 7 V 15147
+- TOP 5.3.7.: (U) Kanalnetzsanierung in der Montgelasstraße; Neubau des Regenüberlaufes R159 und Neubau eines Dükers nördlich der Max-Joseph-Brücke im 12. Stadtbezirk Schwabing - Freimann und im 13. Stadtbezirk Bogenhausen Gesamtkosten (Kostenberechnung): 17 Mio. Euro brutto Projektgenehmigung
+- TOP C.: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Rad-Tangente für Schwabing
+- TOP 1.2.: Bessere Sicht bei Ausfahrt auf Freisinger Landstraße Nr. 64 (Aldi)
+- TOP 1.3.: Radwegmarkierung Kreuzung Ungererstraße / Schenkendorfstraße
+- TOP 1.4.: Mitberatung des Antrags B.1.1
+- TOP 1.5.: Info-Knopf mit Sprachansage der Abfahrtszeiten am Busbahnhof Münchner Freiheit
+- TOP 1.6.: Parklizenzgebiet „Alte Heide“ schnellstmöglich einführen
+- TOP 2.: Entscheidungen
+- TOP 3.: Anhörungen
+- TOP 3.2.: Sonstige Anhörungen
+- TOP 3.2.1.: MVG IsarTiger in der Parkstadt Schwabing
+- TOP 3.2.2.: Pilotprojekt „Schnelle Radverbindung für den Münchner Norden“, Beschlussentwurf
+- TOP 3.2.3.: Parkscheinautomaten-Standorte für das Parklizenzgebiet Alte Heide
+- TOP 3.2.4.: Verkehrskonzept Münchener Norden - Lilienthalallee
+- TOP 3.2.5.: Heidemannstraße zwischen Lützelsteiner Straße und Freisinger Landstraße
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: ÖPNV-Programm: Vorschlag BA 24 – X36 und X35 als Tangente verlängern bis Johanneskirchen, vertagt aus der Sitzung am 04.06.2019
+- TOP 4.2.: Fahrradständer in der Hohenzollernstraße
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.1.1.: Mehr Mülleimer auf dem Spielplatz an der Münchner Freiheit
+- TOP 5.1.2.: Verhinderung der Benutzung der Fußwege nördlich der Freimanner-Heide-Siedlung durch Paketzusteller
+- TOP 5.1.3.: Erhöhung der Anzahl der Fahrradstellplätze Alte Heide / Frankfurter Ring
+- TOP 5.1.4.: Wertstoffinseln
+- TOP 5.1.5.: Container im Biedersteiner Park entfernen
+- TOP 5.1.6.: Fußgängerampel an der Kreuzung Leopold- / Herzogstraße installieren
+- TOP 5.1.7.: Schutzhäuschen erneuern am Bolzplatz zwischen A9 und Sportanlage des FC Schwabing / FC Alte Heide, BA-Antrag Nr. 14-20 / B 06083 vom 09.04.2019
+- TOP 5.1.8.: Säulen der Bus- und Tramstation Münchner Freiheit öfter reinigen, BA-Antrag Nr. 14-20 / B 06082 vom 09.04.2019
+- TOP 5.2.: Verkehrsrechtliche Anordnungen
+- TOP 5.2.1.: Gundelindenstraße zwischen Ungerer- und Klementinenstraße und Kunigundenstraße zwischen Gundelinden- und Dietlindenstraße
+- TOP 5.2.2.: Siegestor: Änderung der Verkehrsführung während der Bauphase 1
+- TOP 5.2.3.: Einbahnregelung Nebenfahrbahn Ungererstraße Höhe 175
+- TOP 5.2.4.: Zeitliche Änderung Ladezone Isoldenstraße 60
+- TOP 5.2.5.: Sperrmaßnahmen für Fahrbahnen und Gehwege des Helene-Wessel-Bogen, Margot-Kalinke-Straße und Elisabeth-Selbert-Straße wegen Bergungsarbeiten von Kampfmitteln
+- TOP 5.2.6.: Heidemannstraße 182: Beschilderung mit Gefahrenzeichen „Kinder“ und „Schulweg“ (St. George&#039;s British International School)
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP 5.3.2.: Baustelleneinrichtung im Leopoldpark
+- TOP 5.3.3.: Schulwegsicherheit an der Kreuzung Römer-/Kaiserstraße, Sichere Überquerung der Clemensstraße in Höhe Pündterplatz
+- TOP 5.3.4.: Neue Sitzgelegenheiten an öffentlichen Plätzen, Referatsschreiben
+- TOP 5.3.5.: Berliner Straße - Radwegrückbau
+- TOP 5.3.6.: Zufahrtsregelung zu den Wohngebieten an der Allianz-Arena, Protokoll zum Erfahrungsaustausch am 28.05.2019
+- TOP 5.3.7.: Mitteilung zur Parksituation in Freimann U-Bahn Nähe (B.4.6-06/19)
+- TOP 5.3.8.: Mobilität in Deutschland 2017 (MiD), Haushaltsbefragung zum Alltagsverkehr in München, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 07.07.2019, Sitzungsvorlage Nr. 14-20 / V 149778
+- TOP 5.3.9.: (U) Deponie Süd Sanierung des Sickerwassersammelsystems Gesamtkosten (Kostenberechnung): 6,5 Mio. € brutto, davon Anteil Münchner Stadtentwässerung 3,25 Mio. € brutto Projektgenehmigung
+- TOP 5.3.10.: (U) Anbindung der Schleißheimer Straße an die Bundesautobahn BAB A 99 11. Stadtbezirk Milbertshofen - Am Hart 12. Stadtbezirk Schwabing - Freimann 24. Stadtbezirk Feldmoching - Hasenbergl Sachstandsbericht und Information zum weiteren Vorgehen - Bekanntgabe -
+- TOP 5.3.11.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 5.3.12.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP D.: Bildung, Kultur und Soziales
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget; Initiative 84 GHz - Raum für Gestaltung Kunst im Karree vom 12.07. - 14.07.19 2.000,00 € / AZ: 0262.0-12-0328
+- TOP 2.2.: (E) Stadtbezirksbudget Init. Repair Café Schwabing Repair Café vom 01.09.2019 - 29.02.2020 300,00 € / Az. 0262.0-12-0329
+- TOP 2.3.: (E) Stadtbezirksbudget; Sunday Assembly München Sunday Assembly München 01.09.2019 - 31.08.2020 2.275,00 € / AZ: 0262.0-12-0330
+- TOP 2.4.: (E) Stadtbezirksbudget Deutsch Japanische Gesellschaft Japanfest am 21.07.2019 2.500,00 Euro, Az.: 0262.0-12-0332
+- TOP 2.5.: (E) Stadtbezirksbudget Initiative "Mach dir ein Bild 2.0" Ausstellung "Mach dir ein Bild" im November 2019 850,00 Euro, Az.: 0262.0-12-0333
+- TOP 2.6.: (E) Stadtbezirksbudget; Kinderschutz e.V. Aufstellung eines Offenen Bücherschranks Juli/August 2019 10.353,00 € / AZ: 0262.0-12-0334
+- TOP 2.7.: (E) Stadtbezirksbudget; Die Nilpferde e.V. Anschaffung einer neuen Küche 2.985,00 € / AZ: 0262.0-12-0335
+- TOP 2.8.: (E) Stadtbezirksbudget; Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest Teestube "komm" 172,00 € / AZ: 0262.0-12-0336
+- TOP 2.9.: (E) Stadtbezirksbudget Initiative "Pepe Arts" Projekt "IDENTITY" vom 09.06. - 18.08.2019 2.550,00 Euro, Az.: 0262.0-12-0331
+- TOP 2.10.: Entscheidung über die Gewährung eines erhöhten Zuschusses aus Budgetmitteln an den Verein Neue Gruppe e.V. für die Ausstellung „Blackout“ vom 12.09. bis 15.09.2019; in Höhe von 1.900,00€ (statt der im Juni bewilligten 1.300,00€).
+- TOP 3.: Anhörungen
+- TOP 3.1.: Adam-Erminger-Platz, Sommerfest Gemeinschaft Sant&#039;Egidio am 28.07.2019
+- TOP 3.2.: Fröttmaninger Berg, MTB-Rennen für Kinder und Jugendliche am 08.09.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Spielplatz Sondermeierstraße
+- TOP 4.2.: Schachspiel-Platz an der Münchner Freiheit
+- TOP 4.3.: Mietverhältnis Panem MF GmbH, Münchner Freiheit 7 - Zwischengeschoss
+- TOP 5.: Unterrichtungen
+- TOP 5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 5.2.1.: Beichstraße 9
+- TOP 5.2.2.: Josef-Wirth-Weg 17
+- TOP 5.3.: Sonstige Unterrichtungen
+- TOP 5.3.1.: Eilentscheidung: Spiel- und Mitmachtag am 31.07.2019 (Carl-Orff-Bogen Park)
+- TOP 5.3.2.: Abbau Rutschenturm auf Biedersteiner Wiese
+- TOP E: Sonstiges / Termine
+- TOP F: Nichtöffentliche Angelegenheiten
