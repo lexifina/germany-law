@@ -18,7 +18,7 @@
 | Dritter Abschnitt |
 |  | Wahlrecht und Wählbarkeit (§§ 12 bis 15) |
 | § 12 | Wahlrecht |
-| § 13 | Ausschluß vom Wahlrecht |
+| § 13 | Ausschluss vom Wahlrecht |
 | § 14 | Ausübung des Wahlrechts |
 | § 15 | Wählbarkeit |
 | Vierter Abschnitt |
@@ -72,6 +72,6 @@
 | § 50 | Wahlkosten |
 | § 51 | (weggefallen) |
 | § 52 | Bundeswahlordnung |
-| § 53 | (weggefallen) |
+| § 53 | Übergangsregelung |
 | § 54 | Fristen, Termine und Form |
 | § 55 | (Inkrafttreten) |

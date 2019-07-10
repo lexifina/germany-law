@@ -23,7 +23,7 @@ Wahlrechtsgrundsätze](0001.md)
 ## Dritter Abschnitt Wahlrecht und Wählbarkeit
 
 - [§ 12 Wahlrecht](0012.md)
-- [§ 13 Ausschluß vom Wahlrecht](0013.md)
+- [§ 13 Ausschluss vom Wahlrecht](0013.md)
 - [§ 14 Ausübung des Wahlrechts](0014.md)
 - [§ 15 Wählbarkeit](0015.md)
 
@@ -86,7 +86,7 @@ im Deutschen Bundestag
 - [§ 50 Wahlkosten](0050.md)
 - [§ 51 (weggefallen)](0051.md)
 - [§ 52 Bundeswahlordnung](0052.md)
-- [§ 53](0053.md)
+- [§ 53 Übergangsregelung](0053.md)
 - [§ 54 Fristen, Termine und Form](0054.md)
 - [§ 55](0055.md)
 - [Anlage (zu § 2 Absatz 2)](anlage.md)

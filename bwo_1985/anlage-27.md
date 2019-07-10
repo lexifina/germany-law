@@ -53,9 +53,9 @@ Wahlbekanntmachung
 |  | teilnehmen. |
 |  | Wer durch Briefwahl wählen will, muss sich von der Gemeindebehörde einen amtlichen Stimmzettel, einen amtlichen Stimmzettelumschlag sowie einen amtlichen Wahlbriefumschlag beschaffen und seinen Wahlbrief mit dem Stimmzettel (im verschlossenen Wahlumschlag) und dem unterschriebenen Wahlschein so rechtzeitig der auf dem Wahlbriefumschlag angegebenen Stelle zuleiten, dass er dort spätestens am Wahltage bis 18.00 Uhr eingeht. Der Wahlbrief kann auch bei der angegebenen Stelle abgegeben werden. |
 |  |  |  |  |
-| 6. | Jeder Wahlberechtigte kann sein Wahlrecht nur einmal und nur persönlich ausüben (§ 14 Abs. 4 des Bundeswahlgesetzes). |
-|  | Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl herbeiführt oder das Ergebnis verfälscht, wird mit Freiheitsstrafe bis zu 5 Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar (§ 107a Abs. 1 und 3 des Strafgesetzbuches). |
-|  |  |  |  |
+| 6. | Jeder Wahlberechtigte kann sein Wahlrecht nur einmal und nur persönlich ausüben. Eine Ausübung des Wahlrechts durch einen Vertreter anstelle des Wahlberechtigten ist unzulässig (§ 14 Absatz 4 des Bundeswahlgesetzes). |
+|  | Ein Wahlberechtigter, der des Lesens unkundig oder wegen einer Behinderung an der Abgabe seiner Stimme gehindert ist, kann sich hierzu der Hilfe einer anderen Person bedienen. Die Hilfeleistung ist auf technische Hilfe bei der Kundgabe einer vom Wahlberechtigten selbst getroffenen und geäußerten Wahlentscheidung beschränkt. Unzulässig ist eine Hilfeleistung, die unter missbräuchlicher Einflussnahme erfolgt, die selbstbestimmte Willensbildung oder Entscheidung des Wahlberechtigten ersetzt oder verändert oder wenn ein Interessenkonflikt der Hilfsperson besteht (§ 14 Absatz 5 des Bundeswahlgesetzes). |
+|  | Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl herbeiführt oder das Ergebnis verfälscht, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft. Unbefugt wählt auch, wer im Rahmen zulässiger Assistenz entgegen der Wahlentscheidung des Wahlberechtigten oder ohne eine geäußerte Wahlentscheidung des Wahlberechtigten eine Stimme abgibt. Der Versuch ist strafbar (§ 107a Absatz 1 und 3 des Strafgesetzbuches). |
 |  |  |  |  |
 |  |  |  | .........................................., den ............................... |
 |  |  |  | Die Gemeindebehörde |
