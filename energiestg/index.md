@@ -104,7 +104,7 @@ Gasöl](0048.md)
 - [§ 56 Steuerentlastung für den Öffentlichen Personennahverkehr](0056.md)
 - [§ 57 Steuerentlastung für Betriebe der Land- und Forstwirtschaft](0057.md)
 - [§ 58 (weggefallen)](0058.md)
-- [§ 59 Steuerentlastung für Diplomatenbenzin und -dieselkraftstoff](0059.md)
+- [§ 59 Steuervergütung für Diplomatenbenzin und -dieselkraftstoff](0059.md)
 - [§ 60 Steuerentlastung bei Zahlungsausfall](0060.md)
 
 ## Kapitel 6 Schlussbestimmungen

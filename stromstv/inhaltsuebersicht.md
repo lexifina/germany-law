@@ -9,7 +9,7 @@
 | § 1c | Elektromobilität |
 |  |  |
 | Zu § 2a des Gesetzes |
-| § 1d | Verfahren bei offenen Rückzahlungsanforderungen |
+| § 1d | Verfahren bei offenen Rückforderungsanordnungen |
 | § 1e | Verfahren bei Unternehmen in Schwierigkeiten |
 |  |
 | Zu § 4 des Gesetzes |
@@ -17,8 +17,8 @@
 | § 3 | Erteilung und Erlöschen der Erlaubnis |
 | § 4 | Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers |
 |  |  |
-| Zu § 5 des Gesetzes |
-| § 4a | Antrag auf Zulassung eines stationären Batteriespeichers |
+| (weggefallen) |
+| § 4a | (weggefallen) |
 |  |
 | Zu § 8 des Gesetzes |
 | § 5 | Anmeldung der Steuer |
@@ -30,9 +30,12 @@
 | § 9 | Erteilung und Erlöschen der Erlaubnis |
 | § 10 | Allgemeine Erlaubnis |
 | § 11 | Pflichten des Erlaubnisinhabers |
+| § 11a | Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit |
 | § 12 | Strom zur Stromerzeugung |
 | § 12a | Steuerentlastung für Strom zur Stromerzeugung |
 | § 12b | Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt |
+| § 12c | Steuerentlastung für Strom aus erneuerbaren Energieträgern |
+| § 12d | Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen |
 | § 13 | Verkehr mit Oberleitungsomnibussen oder Schienenbahnen |
 | § 13a | Differenzversteuerung |
 | § 14 | Wasserfahrzeuge und Schifffahrt |

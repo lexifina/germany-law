@@ -38,7 +38,7 @@
 |  |
 | Zu § 3b des Gesetzes |
 |  |  |
-| § 11b | Verfahren bei offenen Rückzahlungsanforderungen |
+| § 11b | Verfahren bei offenen Rückforderungsanordnungen |
 | § 11c | Verfahren bei Unternehmen in Schwierigkeiten |
 |  |  |
 | Zu § 6 des Gesetzes |

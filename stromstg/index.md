@@ -14,6 +14,7 @@
 - [§ 9b Steuerentlastung für Unternehmen](0009b.md)
 - [§ 9c Steuerentlastung für den Öffentlichen Personennahverkehr](0009c.md)
 - [§ 10 Erlass, Erstattung oder Vergütung in Sonderfällen](0010.md)
+- [§ 10a Datenaustausch](0010a.md)
 - [§ 11 Ermächtigungen](0011.md)
 - [§ 12 Ermächtigung zu § 10 Absatz 3, 4 und 7](0012.md)
 - [§ 13 Erlaß von Rechtsverordnungen, Verwaltungsvorschriften](0013.md)

@@ -15,7 +15,7 @@
 
 ## - Zu § 2a des Gesetzes
 
-- [§ 1d Verfahren bei offenen Rückzahlungsanforderungen](0001d.md)
+- [§ 1d Verfahren bei offenen Rückforderungsanordnungen](0001d.md)
 - [§ 1e Verfahren bei Unternehmen in Schwierigkeiten](0001e.md)
 
 ## - zu § 4 des Gesetzes
@@ -24,9 +24,9 @@
 - [§ 3 Erteilung und Erlöschen der Erlaubnis](0003.md)
 - [§ 4 Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers](0004.md)
 
-## - Zu § 5 des Gesetzes
+## - (weggefallen)
 
-- [§ 4a Antrag auf Zulassung eines stationären Batteriespeichers](0004a.md)
+- [§ 4a (weggefallen)](0004a.md)
 
 ## - zu § 8 des Gesetzes
 
@@ -40,9 +40,12 @@
 - [§ 9 Erteilung und Erlöschen der Erlaubnis](0009.md)
 - [§ 10 Allgemeine Erlaubnis](0010.md)
 - [§ 11 Pflichten des Erlaubnisinhabers](0011.md)
+- [§ 11a Strom aus erneuerbaren Energieträgern und aus hocheffizienten KWK-Anlagen, Zeitgleichheit](0011a.md)
 - [§ 12 Strom zur Stromerzeugung](0012.md)
 - [§ 12a Steuerentlastung für Strom zur Stromerzeugung](0012a.md)
 - [§ 12b Steuerbefreiung für Anlagen mit einer elektrischen Nennleistung von bis zu zwei Megawatt](0012b.md)
+- [§ 12c Steuerentlastung für Strom aus erneuerbaren Energieträgern](0012c.md)
+- [§ 12d Steuerentlastung für Strom aus hocheffizienten KWK-Anlagen](0012d.md)
 - [§ 13 Verkehr mit Oberleitungsomnibussen oder Schienenbahnen](0013.md)
 - [§ 13a Differenzversteuerung](0013a.md)
 - [§ 14 Wasserfahrzeuge und Schifffahrt](0014.md)

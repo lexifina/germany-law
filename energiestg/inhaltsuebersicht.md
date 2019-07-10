@@ -91,7 +91,7 @@ Steuerentlastung
 | § 56 | Steuerentlastung für den Öffentlichen Personennahverkehr |
 | § 57 | Steuerentlastung für Betriebe der Land- und Forstwirtschaft |
 | § 58 | (weggefallen) |
-| § 59 | Steuerentlastung für Diplomatenbenzin und -dieselkraftstoff |
+| § 59 | Steuervergütung für Diplomatenbenzin und -dieselkraftstoff |
 | § 60 | Steuerentlastung bei Zahlungsausfall |
 Kapitel 6
 Schlussbestimmungen
