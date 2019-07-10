@@ -1,0 +1,7 @@
+# TOP 9: Stadtbaumkonzept für Düsseldorf - 1. Pflanzsaison
+
+- Sitzung: Bezirksvertretung 6 (2019-07-10)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/253082
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/98371
