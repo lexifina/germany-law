@@ -1,0 +1,59 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-07-10T17:00:00+02:00
+- Ende: 2019-07-10T00:00:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16316
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16316
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346804.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346804.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00346804.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung der Niederschrift vom 13. März 2019
+- TOP 3: Genehmigung der Niederschrift vom 10. April 2019
+- TOP 4: Bebauungsplanverfahren 06/001 - Nördlich Volkardeyer Weg
+- TOP 5: Südlich An der Piwipp - Unterrather Hallenbad
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Stadtbaumkonzept für Düsseldorf - 1. Pflanzsaison
+- TOP 10: Anfrage SPD: fehlende dauerhafte Anbindung Lichtenbroich / Rath (Linie 776)
+- TOP 11: Anfrage SPD: Busshuttle E 729 ISS DOME
+- TOP 12: Anfrage SPD: Altglas- und Papiercontainer
+- TOP 13: Anfrage Fr.+Hr. Sültenfuß (CDU) Hr. Körner (FDP): Sachstand Planung/Umsetzung (Mini-)Kreisverkehre
+- TOP 14: Anfrage CDU und FDP: Parken im Gewerbebereich
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Anfrage CDU und FDP: Schadensregulierung Straßenbauarbeiten
+- TOP 17: Anfrage SPD: Kreuzung Kieshecker Weg
+- TOP 18: Anfrage SPD: Trasse Ortsumgehung Rath
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Anfrage CDU und FDP: Workshopverfahren Schwimmbad Unterrath
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Anfrage CDU und FDP: Parker auf Grundstück der SEBD Kalkumer Straße
+- TOP 24: Interfraktioneller Antrag: Erstellung eines Verkehrskonzeptes für Rath und dann Stadtbezirk 6
+- TOP 25: Interfraktioneller Antrag: Anmeldung Friedrich-Rückert-Gymnasium zum Schulversuch "Talentschule"
+- TOP 26: Antrag der SPD-Fraktion: Mülleimer für die "Hall of Fame" (Opernfundus)
+- TOP 27: Antrag CDU und FDP: Öffentlichkeitsbeteiligung Workshopverfahren Hallenbad Unterrath
+- TOP 28: Antrag CDU und FDP: Parkscheibenregelung Bereich Einzelhändler Kalkumer Straße / Unterrather Straße
+- TOP 29: Antrag CDU und FDP: Herstellung der Fahrbahnmarkierung auf der Münsterstraße
+- TOP 30: Antrag CDU und FDP: Verhinderung von Kurzparkern/-haltern Bochumer Straße (Eiscafé)
+- TOP 31: Antrag FDP: Gestaltung von Rasenflächen durch Bürgerinnen und Bürger
+- TOP 32: Antrag CDU und FDP: Stelen, Infosteine oder -plaketten - Erinnerung an historische Gebäude / Stellen
+- TOP 33: Antrag CDU: Aufstellung vor Fahrradständern im Bereich des S-Bahnhof Rath-Mitte
+- TOP 34: Zuschussvergabe 2019
+- TOP 35: Zuschussvergabe 2019
+- TOP 36: Zuschussvergabe 2019
+- TOP 37: Zuschussvergabe 2019
+- TOP 38: Zuschussvergabe 2019
+- TOP 39: Bericht zu Fahrradabstellanlagen für die Stadtbezirke 1-10"
+- TOP 40: MdV - Reinigen aller verschmutzen Straßen- und Verkehrsschilder bzw. Piktogramme im Stadtbezirk 6
+- TOP 41: MdV - Buslinie Mörsenbroich Rennbahn/Wildpark
+- TOP 42: MdV - Stationsbasiertes CarSharing für das Bauvorhaben In den Diken
