@@ -1,0 +1,59 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-07-10T17:00:00+02:00
+- Ende: 2019-07-10T22:48:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4025
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4025
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 19.06.2019 (öffentlicher Teil) - ungeändert beschlossen
+- TOP 4: Änderung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf den Straßen und in den Anlagen in der Stadt Aachen (Aachener Straßenverordnung) vom 19.03.2004 in der Fassung der Änderung vom 03.07.2013 - ungeändert beschlossen
+- TOP 5: Aufstellung einer Wohnraumschutzsatzung -Satzungsbeschluss - ungeändert beschlossen
+- TOP 6: Auslaufende Schließung der Alkuinrealschule - ungeändert beschlossen
+- TOP 7: Sachstand "Revitalisierung Neues Kurhaus" - geändert beschlossen
+- TOP 8: Gesamtabschluss 2015 - ungeändert beschlossen
+- TOP 9: 5. Nachtrag zur Hundesteuersatzung - ungeändert beschlossen
+- TOP 10: Öffentlicher Betrauungsakt gegenüber der Velocity Aachen UG (haftungsbeschränkt) zur Etablierung eines Pedelec-Verleihsystems in Aachenhier: Änderung der Rechtsform, Anpassung des Betrauungsaktes - ungeändert beschlossen
+- TOP 11: Vorhabenbezogener Bebauungsplan Nr. 960 -Süsterfeldstraße/Süsterau-Wechsel der Vorhabenträgerin - geändert beschlossen
+- TOP 12: Veränderung des Stellenplans 2019:
+- TOP 12.1: Veränderung des Stellenplans 2019Einrichtung von 2,0 Stellen im Fachbereich Wohnen, Soziales und Integration, Abteilung „Hilfen bei Einkommensdefiziten“ (FB 56/200) für die Sachbearbeitung „Leistungen nach dem SGB XII und AsylbLG“ - ungeändert beschlossen
+- TOP 12.2: Veränderung des Stellenplans 2019 Einrichtung von zwei halben Stellen für ErzieherInnen im Bereich der Offenen Ganztagsschulen im Primarbereich in städtischer Trägerschaft (FB 45) - ungeändert beschlossen
+- TOP 13: Erbringung von Serviceleistungen des Servicecenter Call Aachen für die Gemeinden Merzenich und Roetgen - ungeändert beschlossen
+- TOP 14: Kur- und Badegesellschaft mbH - Betrauungsakt - ungeändert beschlossen
+- TOP 15: Annahme von Schenkungen:
+- TOP 15.1: Annahme einer Schenkung für die KGS Kornelimünster - ungeändert beschlossen
+- TOP 15.2: Schenkung des Lions-Clubs Aachen-Kaiserpfalz an das Kinderheim Maria im Tann - ungeändert beschlossen
+- TOP 16: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 16.1: Über- und außerplanmäßige Aufwendungen im Haushaltsjahr 2019Horbacher Straße - Fahrbahnanhebungen Kreisverkehr -Entschärfung eines Unfallschwerpunktes - ungeändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - ungeändert beschlossen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 18: Ratsanträge - ungeändert beschlossen
+- TOP 19: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 20: Umbesetzung von Ausschüssen – Entsendung von Mitgliedern in verschiedene Ausschüsse - ungeändert beschlossen
+- TOP 21: Mitteilungen der Verwaltung
+- TOP 22: Seenotrettung;Gemeinsamer Ratsantrag Nr. 480/17 von PIRATEN-Fraktion und UWG vom 18.04.2019 - geändert beschlossen
+- TOP 23: Zahl der Ratsmandate für die Kommunalwahl 2020 und folgende - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 8.3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
