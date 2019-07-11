@@ -1,0 +1,92 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-07-11T18:02:00+02:00
+- Ende: 2019-07-11T19:26:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2169
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2169
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Dringlichkeitsentscheidungen
+- TOP 3: Mittelbereitstellungen
+- TOP 4: Jahresabschlusses 2018 - einstimmig
+- TOP 5: Flüchtlings- und Integrationsangelegenheiten
+- TOP 6: Wohnraumschutzsatzung (Antrag Nr. 270/18) - mehrheitlich bei
+- TOP 7: UmweltA 05.06.2019
+- TOP 7.1: Umweltzentrum Schneckenhaus - einstimmig
+- TOP 8: JHA 25.06.2019
+- TOP 8.1: Vorstellung der Fachstelle Frühe Hilfen - einstimmig
+- TOP 9: Entscheidung PlanungsA 02.07.2019
+- TOP 9.1: G 212 städtebaulicher Vertrag - einstimmig
+- TOP 9.2: G 212 Satzungsbeschluss - einstimmig
+- TOP 9.3: Fassadengestaltung Edeka Neukirchen - einstimmig
+- TOP 10: BauA/PlanungsA
+- TOP 10.1: ISEK - Beschluss Umplanungen - einstimmig
+- TOP 11: Beantwortung Anträge und Anfragen
+- TOP 11.1: Sammelbeantwortung - Kenntnisnahme
+- TOP 11.2: Privater Betreiber soll Wochenmarkt attraktiver machen (Anfrage Nr. 10/19) - Kenntnisnahme
+- TOP 11.3: Immobilien "Auf der Schanze 86 und 88" (Anfrage Nr. 79/19) - Kenntnisnahme
+- TOP 11.4: Zukunft der GWG (Anfrage Nr. 80/19) - Kenntnisnahme
+- TOP 12: Schriftliche Anträge
+- TOP 12.1: CDU
+- TOP 12.1.1: Änderung des FNP in Neuenhausen für einen Nahversorgungsmarkt und eine KITA (Antrag Nr. 134/19) - einstimmig
+- TOP 12.1.2: Zeitlich begrenzte Tempo-30-Zonen (Antrag Nr. 124/2019) - Kenntnisnahme
+- TOP 12.2: SPD
+- TOP 12.2.1: Wohnungsbauoffensive für Neurath (Antrag Nr. 132/19) - einstimmig
+- TOP 12.2.2: Wohnungsbauoffensive für Frimmersdorf (Antrag Nr. 133/19) - einstimmig
+- TOP 12.2.3: Kindertagesstättenbedarfsplanung (Antrag Nr. 130/19) - einstimmig
+- TOP 12.3: UWG
+- TOP 12.3.1: Nutzung der Flüchtlingsunterkünfte in Grevenbroich (Antrag Nr. 115/19) - Kenntnisnahme
+- TOP 12.3.2: Ausschussumbesetzungen (Antrag Nr. 117/19) - einstimmig
+- TOP 12.3.3: Prioritätenliste für Sportstätten (Antrag Nr. 116/19) - einstimmig
+- TOP 12.3.4: Öffnung Einbahnstraße Gustorf (Antrag Nr. 123/2019) - einstimmig
+- TOP 12.3.5: Überprüfung der neuen 30er Zonen (Antrag Nr. 119/19) - Kenntnisnahme
+- TOP 12.3.6: Aschestreufeld auf dem Neuenhausener Friedhof endlich würdig herrichten (Antrag Nr. 111/19) - einstimmig
+- TOP 12.4: FDP
+- TOP 12.4.1: Sachstand zur Umsetzung Goldene Buch digitalisieren (Antrag Nr. 120/19) - einstimmig
+- TOP 12.4.2: Lernbedingungen an der Arche Noah schnellstmöglich verbessern (Antrag Nr. 131/19) - einstimmig
+- TOP 12.4.3: Zusammenarbeit von Verwaltung und Politik (Antrag Nr. 126/2019) - einstimmig
+- TOP 12.4.4: zusätzliche Parkflächen (Antrag Nr. 127/2019) - einstimmig
+- TOP 12.4.5: Einrichtung eines Smart-Cafés (Antrag Nr. 128/2019) - einstimmig
+- TOP 12.4.6: Rechtliche Klarheit zum Kohleausstieg (Antrag Nr. 122/19) - Kenntnisnahme
+- TOP 12.5: B 90/DIE GRÜNEN
+- TOP 12.6: Mein Grevenbroich
+- TOP 12.7: DIE LINKE
+- TOP 12.7.1: Zille (Antrag Nr. 135/19) - Kenntnisnahme
+- TOP 12.7.2: Ausschuss für Strukturwandel (Antrag Nr. 53/19) - mehrheitlich bei
+- TOP 13: Gemeinschaftsanträge
+- TOP 14: Schriftliche Anfragen
+- TOP 14.1: CDU
+- TOP 14.2: SPD
+- TOP 14.3: UWG
+- TOP 14.4: FDP
+- TOP 14.4.1: Anfrage zur Umsetzung des freien WLANs in Grevenbroich (Anfrage Nr. 121/19) - Kenntnisnahme
+- TOP 14.5: B 90/DIE GRÜNEN
+- TOP 14.6: Mein Grevenbroich
+- TOP 14.6.1: Kunstrasenplätze im Stadtgebiet (Anfrage Nr. 129/19) - Kenntnisnahme
+- TOP 14.7: DIE LINKE
+- TOP 15: mündliche Anträge/Anfragen
+- TOP 15.1: Hülchrather Straße, Einmündung Sportstraße in Neukirchen (Anfrage Nr. 139/2019)
+- TOP 15.2: Brückenarbeiten Energiestraße (Anfrage Nr. 140/2019)
+- TOP 15.3: Wirtschaftlichkeit von Parkgebühren auf dem Marktplatz in Wevelinghoven (Anfrage Nr. 256/2017)
+- TOP 15.4: Beschlüsse aus dem Umweltausschuss (Anfrage Nr. 141/2019)
+- TOP 15.5: Eiche auf der Talstraße in Kapellen (Anfrage Nr. 142/2019)
+- TOP 15.6: Klosterweg, Unterstraße, Gasse zur Poststraße in Wevelinhoven (Anfrage Nr. 143/2019)
+- TOP 15.7: Warnhinweise/Beschilderung Schellestraße in Gustorf (Antrag Nr. 263/2018)
+- TOP 15.8: Strukturelle Maßnahmen und ganzheitliche Lösungen zur Verbesserung der Verkehrssituation Jülicher Straße (Antrag Nr. 8/2019)
+- TOP 15.9: 25 Jahre Landesgartenschau (mündliche Anfrage Nr. 71/2019)
+- TOP 15.10: Bürgersteig Willibrordussstraße Neuenhausen (Anfrage Nr. 144/2019)
+- TOP 15.11: Schanzentunnel und Linde auf der Wöhler Straße (Anfrage Nr. 145/2019)
+- TOP 15.12: Anhänger Deutsch-Ritter-Allee (Anfrage Nr. 99/2019)
+- TOP 15.13: Verkehrsschild auf der A 46 (Anfrage Nr. 146/2019)
+- TOP 15.14: Laterne Gustorf (Anfrage Nr. 147/19)
+- TOP 15.15: Schlaglöcher Wehler Straße in Neukirchen (Anfrage Nr. 148/2019)
+- TOP 15.16: Schlagloch Calvinerbuschstraße 10, Hülchrath (Anfrage Nr.149/2019)
+- TOP 16: Mitteilungen BM
+- TOP 16.1: Umbenennung Fraktion - Kenntnisnahme
