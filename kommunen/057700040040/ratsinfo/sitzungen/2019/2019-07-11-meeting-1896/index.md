@@ -1,0 +1,60 @@
+# Rat (36. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2019-07-11T17:00:00+02:00
+- Ende: 2019-07-11T20:05:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZJL2fB--7pfeF42veDBlCc
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1896
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdR8UiAFMQRj0HAtQ1aZEH2ZtIancdBAAuiDKqAiJIVW/Bekanntmachung_Rat_11.07.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVazCzORPvRt6hqKUPktazTz5-thUhwZkKDDmTW7rUhz/Oeffentliche_Niederschrift_Rat_11.07.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4.1: Bewilligung einer außerplanmäßigen Aufwendung gemäß § 7 der Haushaltssatzung als Dringlichkeitsentscheidung gemäß § 60 Abs. 1 Satz 1 der Gemeindeordnung (GO) - Einstimmig, 0 Enthaltungen
+- TOP 5.: Quartalsbericht über die Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im 1. Halbjahr 2019
+- TOP 6.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2018 b) Verteilung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 7.: Antrag Bündnis 90 / Die Grünen "Fair Trade Town Rahden" - 28 Stimmen dafür, 0 dagegen, 1 Enthaltungen
+- TOP 8.: Antrag der Fraktion UfR zur Unterrichtung der Einwohner - 24 Stimmen dafür, 5 dagegen, 0 Enthaltungen
+- TOP 9.: Medienentwicklungsplan für die Schulen der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 10.: Mehrklassenbildung an der Sekundarschule Rahden - Ohne Abstimmung
+- TOP 11.: Neu- bzw. Wiederwahl der Schiedsperson für den Schiedsamtsbezirk Rahden-Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 12.: 10. Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig, 0 Enthaltungen
+- TOP 13.: 4. Änderung des Bebauungsplanes Nr. 67 „Gewerbegebiet Rahden-Süd“ östlich der Seufzerallee - Einstimmig, 0 Enthaltungen
+- TOP 14.: 4. Änderung und Erweiterung des Bebauungsplanes Nr. 40 "Ortskern Tonnenheide - Neuaufstellung" sowie 83. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Beratung und Beschlussfassung über die öffentliche Auslegung der 4. Änderung und Erweiterung des Bebauungsplanes Nr. 40 "Ortskern Tonnenheide - Neuaufstellung" sowie des Änderungsplanes für die 83. Änderung des Flächennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 15.: 4. Änderung des Bebauungsplanes Nr. 31 „Bahnhofstraße/Weher Straße" Beratung und Beschlussfassung über das Ergebnis der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der erneuten Offenlegung des geänderten Entwurfes des Bauleitplanes vorgebrachten Anregungen gemäß § 4a Abs. 3 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 16.: Aufstellung des Bebauungsplanes Nr. 95 "Varl - Nordwestlicher Ortskern" zur Ausweisung einer Wohnbaufläche mit der Möglichkeit zur Errichtung eines Kindergartens a) Beratung und Beschlussfassung über die Aufstellung des Bebauungsplanes im Verfahren gem. § 13b i.V.m. § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung des Bebauungsplanes Nr. 95 „Varl - Nordwestlicher Ortskern“ gemäß § 13b i.V.m. § 13a Abs. 2 sowie § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13b i.V.m.§ 13a Abs. 2 sowie § 4 Abs. 2 BauGB. - Einstimmig, 0 Enthaltungen
+- TOP 17.: Umsetzung von Maßnahmen aus dem Förderprogramm „Dorferneuerung“ für das Jahr 2020 - Einstimmig, 0 Enthaltungen
+- TOP 18.: Fußverkehrs-Check NRW 2019 - Ohne Abstimmung
+- TOP 19.: Antrag der SPD-Fraktion zur Schaffung von bezahlbarem Wohnraum - Einstimmig, 0 Enthaltungen
+- TOP 20.: Benennung der Mitglieder für den Arbeitskreis "Insektenfreundliche Stadt" - Ohne Abstimmung
+- TOP 21.: Bahnstrecke Rahden – Bassum; hier: Stellungnahme der Stadt Rahden gegen die Entwidmung der Strecke Sulingen -Nienburg und gegen die geplanten Streckenverkäufe Bassum - Sulingen und Barenburg - Sulingen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Konzept Familienförderung in Rahden - Einstimmig, 0 Enthaltungen
+- TOP 23.: Ergebnispräsentation "Rahden erleben 2.0" - Einstimmig, 0 Enthaltungen
+- TOP 24.: Stadtbücherei Rahden; hier: Alternativer Standort in der Grundschule Rahden - 27 Stimmen dafür, 2 dagegen, 0 Enthaltungen
+- TOP 25.: Bekanntgaben und Anfragen
+- TOP 25.1: Videoüberwachung an der Grundschule Rahden
+- TOP 25.2: Einrichtung eines Anruf-Sammel-Taxis
+- TOP 25.3: Ehrenamts-Tour-Bus
+- TOP 25.4: Qualität des Bio-Mülls in Rahden
+- TOP 25.5: Defibrilatoren Standorte in Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 26.: Beamtenrecht: Modulare Qualifizierung
+- TOP 27.: Vertragsangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 28.: Vertragsangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 29.: Klärschlamm - Einstimmig, 0 Enthaltungen
+- TOP 30.: Kirchring - Einstimmig, 0 Enthaltungen
+- TOP 31.: Grundstücksangelegenheiten
+- TOP 31.1: Abschluss eines Grundstückstauschvertrages - 27 Stimmen dafür, 2 dagegen, 0 Enthaltungen
+- TOP 32.: Bekanntgaben und Anfragen
+- TOP 32.1: Hallenbad Rahden
+- TOP 32.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32.3: Hinweis zum Protokoll der letzten Ratssitzung
