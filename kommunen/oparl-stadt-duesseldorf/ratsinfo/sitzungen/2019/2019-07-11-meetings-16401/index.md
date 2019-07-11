@@ -1,0 +1,89 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-07-11T17:00:00+02:00
+- Ende: 2019-07-11T00:00:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16401
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16401
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Bestellung einer Schriftführerin - einstimmig beschlossen
+- TOP 4: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 5: FNP-Änderungsverfahren 168 "Nördlich Gerresheimer Landstraße". - mehrheitlich beschlossen
+- TOP 6: Stadtbaumkonzept - einstimmig beschlossen
+- TOP 7: Zuschuss Arbeitskreis Kultur - einstimmig beschlossen
+- TOP 8: Zuschuss Freundeskreis Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 9: Düsseldorfer Herbstfestival“ - zur Kenntnis genommen
+- TOP 10: Zuschüsse der Bezirksvertretung 8 im Jahre 2019 - einstimmig beschlossen
+- TOP 11: Unterhaltung - einstimmig beschlossen
+- TOP 12: Anhängerparken Königsberger Straße - beantwortet
+- TOP 13: Verkehrsverlagerungen - beantwortet
+- TOP 14: Verkehrsversuch - beantwortet
+- TOP 15: Behindertentoilette TSV Eller 04 - beantwortet
+- TOP 16: Bürgersteig Gubener Straße - beantwortet
+- TOP 17: Bahnübergang Am Hackenbruch - beantwortet
+- TOP 18: Ampelschaltungen - beantwortet
+- TOP 19: Baumscheibenpflege - beantwortet
+- TOP 20: Bürgerbüro Eller - beantwortet
+- TOP 21: Lärmschutz Güterstrecke Rath-Eller - beantwortet
+- TOP 22: Rheinbahngeschwindigkeit - beantwortet
+- TOP 23: Vorgartensatzung - beantwortet
+- TOP 24: Brückengeländer Am Kleinforst - zurückgezogen
+- TOP 25: Verkehrsversuch Vennhauser Allee/Rothenbergstraße/Glashüttenstraße - mehrheitlich abgelehnt
+- TOP 26: Grundstück An der Schützenwiese 40 - einstimmig beschlossen
+- TOP 27: Reichenbacher Weg / Eller Kamp - einstimmig beschlossen
+- TOP 28: Reichenbacher Weg zwischen Eller Kamp und Neusalzer Weg - einstimmig beschlossen
+- TOP 29: Sandträgerweg - Übergang an der Südlichen Düssel - einstimmig beschlossen
+- TOP 30: Geschwindigkeitsüberwachung in Vennhausen - einstimmig beschlossen
+- TOP 31: Spielgeräte auf dem Breidenplatz - einstimmig beschlossen
+- TOP 32: Bänke auf dem Breidenplatz - einstimmig beschlossen
+- TOP 33: Bank vor dem Gertrudis Café - einstimmig beschlossen
+- TOP 34: Schutz erhaltenswerter Gebäude im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 35: Beschilderung Wilhelm-Heinrich-Weg und An der Schützenwiese - einstimmig beschlossen
+- TOP 36: Verkehrsunfallkommission - einstimmig beschlossen
+- TOP 37: „Grüner Pfeil“ Erkrather Straße/Am Bermeshau - einstimmig beschlossen
+- TOP 38: Stellplätze für Leih-Fahrräder im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 39: Vorampel Karlsruher Straße / Marburger Straße - mehrheitlich beschlossen
+- TOP 40: Fahrradständer Vennhauser Allee 208 - einstimmig beschlossen
+- TOP 41: Hundefreilauffläche Vennhauser Allee - einstimmig beschlossen
+- TOP 42: Radweg Eller Kamp - einstimmig beschlossen
+- TOP 43: Radweg Vennhauser Allee - einstimmig beschlossen
+- TOP 44: Baugrenzen Lore-Lorentz-Schule, Schlossallee - mehrheitlich abgelehnt
+- TOP 45: Verkehrszählung - einstimmig beschlossen
+- TOP 46: E-Bike Ladestation - mehrheitlich beschlossen
+- TOP 47: Parkstände Kamper Weg - einstimmig beschlossen
+- TOP 48: Eller-tolerant und weltoffen - mehrheitlich abgelehnt
+- TOP 49: Rheinbahn Bericht zur Pünktlichkeit - einstimmig beschlossen
+- TOP 50: Austausch von Bänken auf dem Bruchgrabenweg - einstimmig beschlossen
+- TOP 51: Aufstellen von Bänken auf dem Bruchgrabenweg - einstimmig beschlossen
+- TOP 52: Sitzgelegenheiten Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 53: Öffnung Einbahnstraßen in Lierenfeld - zurückgezogen
+- TOP 54: Eddy-Abstellplatz Ellerkirchstraße - einstimmig beschlossen
+- TOP 55: Sachstandsbericht zu Fahrradabstellanlagen - zur Kenntnis genommen
+- TOP 56: Glashüttenstraße - Barrierefreier Ausbau der Bushaltestelle Knuppertsbrück - zur Kenntnis genommen
+- TOP 57: Straßenbenennungen - zur Kenntnis genommen
+- TOP 58: Verkehrsversuch Erkrather Straße/ÖPNV-Spur - zur Kenntnis genommen
+- TOP 59: Anschlussgarantie - zur Kenntnis genommen
+- TOP 60: Schloss Eller-Beleuchtung und Pflegewerk - zur Kenntnis genommen
+- TOP 61: Bauvorhaben Gumbertstraße 178 - zur Kenntnis genommen
+- TOP 62: Parkstände Kamper Weg - zur Kenntnis genommen
+- TOP 63: Öffnung von Einbahnstraßen für den Radverkehr in Lierenfeld - zur Kenntnis genommen
+- TOP 64: DyFa-Anzeige Haltestelle D-Eller S - zur Kenntnis genommen
+- TOP 65: Unfallsituation Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 66: Düsselbrücke Vennhausen - zur Kenntnis genommen
+- TOP 67: Brückensanierung Schlosspark Eller - zur Kenntnis genommen
+- TOP 68: Bauvorhaben "Schwalbenhöfe" Am Schwalbenberg 64/66 - zur Kenntnis genommen
+- TOP 69: Geschäftsstelle Lierenfeld der Sadtsparkasse Düsseldorf - zur Kenntnis genommen
+- TOP 70: Regionalplan im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 71: Containerstation Deutzer Straße 12 - zur Kenntnis genommen
+- TOP 72: Bürgersaal in Lierenfeld - zur Kenntnis genommen
+- TOP 73: Jugendarbeit im Gurkenland / ehemalige Jakobuskirche - zur Kenntnis genommen
+- TOP 74: Änderung des Bedarfsbeschlusses zur Unterführung Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 75: Königsberger Straße - Anhängerparken - zur Kenntnis genommen
