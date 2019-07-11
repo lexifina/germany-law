@@ -1,0 +1,8 @@
+# TOP 9: Düsseldorfer Herbstfestival“
+
+- Sitzung: Bezirksvertretung 8 (2019-07-11)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/253154
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/98311
