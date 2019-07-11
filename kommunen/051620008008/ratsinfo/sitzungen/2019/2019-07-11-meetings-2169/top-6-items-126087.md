@@ -1,0 +1,8 @@
+# TOP 6: Wohnraumschutzsatzung (Antrag Nr. 270/18)
+
+- Sitzung: Rat der Stadt Grevenbroich (2019-07-11)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/126087
+- Ergebnis: mehrheitlich bei
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/consultations/18194
