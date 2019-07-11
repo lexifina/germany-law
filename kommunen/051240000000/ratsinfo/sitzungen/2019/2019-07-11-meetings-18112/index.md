@@ -1,0 +1,109 @@
+# öffentliche Fortsetzung der Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-07-11T16:05:00+02:00
+- Ende: 2019-07-11T16:50:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18112
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/18112
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00240831.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Realisierung von Bauprojekten
+- TOP 2.1.1: Antwort auf die Anfrage der FDP-Fraktion "Realisierung von Bauprojekten" vom 05.06.2019 (VO/0563/19)
+- TOP 2.2: Zusammenarbeit des Jobcenter Anstalt öffentlichen Rechts und der bit gGmbH
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Zusammenarbeit des Jobcenter Anstalt öffentlichen Rechts und der bit gGmbH
+- TOP 2.3: Wohn- und Obdachlosigkeit in Zusammenhang mit SGB II
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Wohn- und Obdachlosigkeit in Zusammenhang mit SGB II" vom 06.06.2019 (VO/0566/19)
+- TOP 2.4: Abriss des Gebäudes der Hauptschule Langerfeld/Dieckerhoffstraße
+- TOP 2.4.1: Antwort auf die gemeinsame Anfrage der Fraktionen von CDU, BÜNDNIS 90/DIE GRÜNEN, FDP und Freie Wähler "Abriss des Gebäudes der Hauptschule Langerfeld/Dieckerhoffstraße" vom 25.06.2019 (VO/0644/19)
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgeranträge gegen die Aufstellung der 1. Änderung des Bebauungsplanes 815A - Oberheidter Straße/Häuschen
+- TOP 3.2: Abgesetzt. Vorberatung nicht abgeschlossen. Bürgerantrag zum Thema "Lichtzeichenanlage für den Rechtsabbieger von der Schwarzbach kommend auf die B 7 in Fahrtrichtung Westen wieder konfliktfrei gestalten"
+- TOP 3.3: Bürgerantrag zum Erhalt des historischen Pflasters Neue Friedrichstraße
+- TOP 3.4: Bürgerantrag zum Erhalt des Arthotels mit seinen künstlerisch ausgestalteten Räumen
+- TOP 3.5: Bürgerantrag zu dem Thema Klimaschutz als prioritäre Gemeinschaftsaufgabe
+- TOP 3.6: Bürgerantrag zum Thema "vollständiger Erhalt des Baumbestandes im zukünftigen Wupperpark-Ost unter allen Umständen sicherstellen"
+- TOP 3.7: Bürgerantrag zur Tanztheater Wuppertal Pina Bausch GmbH
+- TOP 3.8: Bürgerantrag zum Thema Städteappell ICAN (Internationale Kampagne zur Abschaffung von Atomwaffen)
+- TOP 4: Anträge
+- TOP 4.1: Internationale Kampagne zur Abschaffung von Atomwaffen (ICAN International Campaign to Abolish Nuclear Weapons)
+- TOP 4.2: Abgesetzt. Vorberatung nicht abgeschlossen. Anonyme Spurensicherung: Finanzierung dauerhaft gewährleisten
+- TOP 4.3: ÖPNV in Wuppertal zukunftsfähig gestalten
+- TOP 4.4: Gebühren für Außengastronomie senken!
+- TOP 4.5: Resolution gegen antisemitische Hetze und Gewalt
+- TOP 4.6: 14 Punkte-Paket für mehr Klimaschutz in Wuppertal
+- TOP 4.6.1: Änderungsantrag zur Drucksache VO/0647/19 - 14 Punkte-Paket für mehr Klimaschutz
+- TOP 4.7: Klimagerechte Gewerbeflächenentwicklung – Modellprojekt Smart Tec Campus
+- TOP 4.8: Problemlösung für eine bessere Unianbindung
+- TOP 4.9: Abschlussbericht zum Projekt „Bergischer Kulturraum“
+- TOP 4.10: Konzept zur Nutzung der ehemaligen Bundesbahndirektion als Schlüsselimmobilie der Stadtentwicklung
+- TOP 4.10.1: Rechtsstreitigkeiten zwischen der Stadt Wuppertal und der Stadt Remscheid wegen des DOC Remscheid-Lennep und des FOC Wuppertal
+- TOP 4.10.2: Antrag zur Drucksache VO/0635/19 - Konzept zur Nutzung der ehemaligen Bundesbahndirektion als Schlüsselimmobilie der Stadtentwicklung
+- TOP 4.11: Einführung eines Rats-Controlling
+- TOP 4.11.1: Antrag zur Drucksache VO/0646/19 - Einführung eines Rats-Controlling
+- TOP 4.12: Wuppertal gegen alle Formen von Menschenfeindlichkeit - für Demokratie und Toleranz
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Abgesetzt. Behandlung vertagt. Schulsekretariatsstunden auf aktuellen Sollstundenbedarf ausweiten
+- TOP 5.2: „Zahl-was –du willst„-Tag im Zoo
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Von der Verwaltung zurückgezogen. Änderung der Satzung des Beirates der Menschen mit Behinderung
+- TOP 6.2: Änderung der Entgeltordnung für den Zoologischen Garten
+- TOP 6.2.1: Änderung der Entgeltordnung für den Zoologischen Garten
+- TOP 6.3: Abgesetzt. Vorberatung nicht abgeschlossen. Wiedereinführung der Baumschutzsatzung
+- TOP 6.4: Korrektur Straßenordnung
+- TOP 6.5: (nur Rat) Erlass einer neuen Rechnungsprüfungsordnung der Stadt Wuppertal
+- TOP 6.6: 3. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen (GeschO)
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung überplanmäßiger Haushaltsmittel: Abriss der Bergischen Sonne - Entwicklung zum Smart Tec Campus Wuppertal
+- TOP 7.2: Genehmigung überplanmäßiger Haushaltsmittel: Sanierung Brücke Uellendahler Straße, 2. Bauabschnitt
+- TOP 7.3: Außerplanmäßige Ausgabe: Wirtschaftliche Sicherung der Diakonie Wuppertal-Evangelische Kindertagesstätten gemeinnützige GmbH Wuppertal für das Kindergartenjahr 2019/2020
+- TOP 7.4: Kostensteigerungen bei Hochbaumaßnahmen
+- TOP 7.4.1: Ergänzungsantrag zur Drucksache VO/0607/19 - Fördermittel der Baukostensteigerung anpassen
+- TOP 7.4.2: Förderung von Investitionen in den Kommunen
+- TOP 7.5: Überplanmäßige Ermächtigung: Erneuerung des nördlichen Überbaus der Brücke Brändströmstraße
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Abgesetzt. Vorberatung nicht abgeschlossen. Public Corporate Governance Kodex und Beteiligungsrichtlinie der Stadt Wuppertal
+- TOP 8.2: Jahresabschluss 2018 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts
+- TOP 8.3: Jahresabschluss 2018 der Stadtsparkasse Wuppertal
+- TOP 8.4: Jahresabschluss 2018: Entlastung der Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal
+- TOP 8.5: Jahresabschluss 2018 der Jobcenter Wuppertal Anstalt öfffentlichen Rechts
+- TOP 8.6: Wahl von Aufsichtsratsmitgliedern durch die Gesellschafterversammlung der Wuppertal Marketing GmbH
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 174 - Uellendahl/Röttgen/Am Deckershäuschen/Norkshäuschen -
+- TOP 9.2: Planfeststellungsverfahren für die Erweiterung der Halde Oetelshofen
+- TOP 9.3: Abgesetzt. Vorberatung nicht abgeschlossen. Erste Änderung des Regionalplan Düsseldorf - Siedlungsbereiche (ASB)
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Friedrich-Engels-Allee – lichtzeichengeregelter Fußgängerüberweg über die B7
+- TOP 10.2: Erneuerung der Stützmauer Saarbrücker Straße (zwischen der Fußgängerbrücke Saarbrücker Straße und der Herzogbrücke)
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Abgesetzt. Vorberatung nicht abgeschlossen. Entwicklung Stadion am Zoo: Vorbereitung des Verkaufes eines städtischen Grundstückes
+- TOP 11.2: Fortschreibung des Radverkehrskonzeptes
+- TOP 11.2.1: Begleitbeschluss zum Radverkehrskonzept
+- TOP 11.2.2: Abgesetzt. Von der Antrag stellenden Fraktion und Ratsgruppe zurückgezogen.Tachsenradweg
+- TOP 11.3: Ausbau der offenen Ganztagsschule um weitere 50 Plätze zum Schuljahr 2019/2020
+- TOP 11.4: Neugestaltung der Grünanlage Krautstraße/ Hebbelstraße - Soziale Stadt Heckinghausen
+- TOP 11.5: 6. Bericht des Inklusionsbüros der Stadt Wuppertal
+- TOP 11.6: Stadtentwässerung - Maßnahmenkatalog 2020/Katalogentwurf 2021
+- TOP 11.7: Seilbahn-Projekt und Entwicklung des Historischen Empfangsgebäudes des Hauptbahnhofs
+- TOP 11.8: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Beschluss des Leitbildes "Unternehmerregion" für das Bergische Städtedreieck
+- TOP 11.9: Abgesetzt. Vorberatung nicht abgeschlossen. Döppersberg Platz Ost
+- TOP 11.10: Sachstandsbericht zur Arbeit der Metropolregion Rheinland
+- TOP 11.11: Ausschreibungstext zur Auswahl einer / eines neuen Beigeordneten
+- TOP 11.12: 3. Sachstandsbericht des Projektbüros zur Digitalen Modellregion Bergisches Städte3eck
+- TOP 11.13: Realisierung einer Seilbahn am Zoo
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienbesetzung Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW
+- TOP 12.2: (nur Rat) Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht für das Land Nordrhein-Westfalen (OVG NRW)
+- TOP 12.3: (nur Rat) Aufstellung der Vorschlagsliste zur Berufung der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 12.4: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung
+- TOP 12.5: Gremienumbesetzung Beiräte der Justizvollzugsanstalt Simonshöfchen und Jugendjustizvollzugsanstalt Ronsdorf
+- TOP 12.6: Gremienbesetzungen
+- TOP 12.7: Gremienumbesetzung Ausschuss für Soziales, Familie und Gesundheit
+- TOP 12.8: Gremienumbesetzung
