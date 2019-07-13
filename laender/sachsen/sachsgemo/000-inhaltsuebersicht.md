@@ -1,4 +1,3 @@
-## Gemeindeordnung für den Freistaat Sachsen (Sächsische Gemeindeordnung – SächsGemO)
 # Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet der Gemeinde
 Erster Abschnitt Rechtsstellung und Aufgaben
@@ -122,7 +121,7 @@ Dritter Abschnitt Unternehmen und Beteiligungen der Gemeinde
 § 95a Eigenbetriebe
 § 96 Unternehmen in Privatrechtsform
 § 96a Inhalt des Gesellschaftsvertrages
-§ 97 (weggefallen)
+§ 97 Kommunale Versorgungsunternehmen
 § 98 Vertretung der Gemeinde in Unternehmen in Privatrechtsform
 § 99 Beteiligungsverwaltung
 § 100 (weggefallen)
@@ -161,5 +160,5 @@ Sechster Teil Sonstige Vorschriften
 § 130 Übergangsbestimmungen zur Rechtsstellung von Bürgermeistern
 § 130a Übergangsbestimmungen aus Anlass des Gesetzes zur Fortentwicklung des Kommunalrechts
 § 130b Übergangsvorschrift aus Anlass des Zweiten Gesetzes zur Fortentwicklung des Kommunalrechts
-§ 131 (weggefallen)
+§ 131 Sonderregelung zur Erklärung zur Großen Kreisstadt
 § 132 Inkrafttreten
