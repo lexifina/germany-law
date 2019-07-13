@@ -2,4 +2,4 @@
 erlassen als Artikel 1 des Gesetzes zur Neuordnung des Brandschutzes, Rettungsdienstes und Katastrophenschutzes im Freistaat Sachsen
 Vom 24. Juni 2004
 [Berichtigt 5. November 2004 (SächsGVBl. S. 647)]
-Rechtsbereinigt mit Stand vom 27. April 2019
+Rechtsbereinigt mit Stand vom 13. Juli 2019

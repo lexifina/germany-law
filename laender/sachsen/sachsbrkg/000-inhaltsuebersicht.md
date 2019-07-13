@@ -10,7 +10,7 @@ Abschnitt 1 Aufgaben und Träger
 § 8 Sachliche Zuständigkeit der obersten und der oberen Brandschutz-, Rettungsdienst- und Katastrophenschutzbehörden
 Abschnitt 2 Zusammenarbeit
 § 9 Gemeinsamer Landesbeirat
-§ 10 Aus- und Fortbildungseinrichtung
+§ 10 Landesfeuerwehr- und Katastrophenschutzschule
 § 11 Leitstellen
 § 12 Schnell-Einsatz-Gruppen
 § 13 Übungen
