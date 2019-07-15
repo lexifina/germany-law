@@ -1,0 +1,97 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-07-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150638
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150638
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Neubau Realschule mit Haus für Kinder, Franz-Mader-Str. 4-6 / Allacher Straße / Irma-Wenke-Straße: Bericht von der Bürgerbeteiligungs-Veranstaltung am 05.06.2019
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Benennung eines/r Beauftragten "Soziale Stadt" im Bezirksausschuss 10 (-> vertagt aus Sitzung am 03.06.2019, TOP 4.1.2)
+- TOP 2.1.: Zwei-Richtungs-Fahrradwege in der Pickelstraße bis Dachauer Straße und in der Dachauer Straße von der Picklstraße bis Sapporobogen.
+- TOP 2.2.: Ungepflegter Zustand des Claudiusplatzes
+- TOP 2.3.: Parkplatzsituation am Leidingerplatz
+- TOP 2.4.: Parksituation an der Einmündung Adornoweg - Briegerstraße
+- TOP 2.5.: Parksituation am Memminger Platz (-> Bürgersprechstunde am 03.06.2019)
+- TOP 2.6.: "Tempo 60" auf Dachauer Straße im Bereich Sapporobogen - Hanauer Straße auf "Tempo 50" reduzieren (-> Bürgersprechstunde am 03.06.2019)
+- TOP 2.7.: Betreuungssituation an der Grundschule Manzostr. 79 - Mittagsbetreuung (OGTS) und Hortplätze (-> Bürgersprechstunde am 03.06.2019)
+- TOP 2.8.: N Ampel-Nachrüstung Kreuzung Wintrichring / Dachauer Straße: Taktiles Signal für Blinde
+- TOP 3.2.1.: Erweiterung eines Teilstückes des Radwegs an der Dachauer Straße zum Zweirichtungsradweg (-> vertagter TOP 4.3.1, Sitzung am 03.06.2019; Wiederaufgreifen nach Beratung in einem "offener UA")
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Dachauer Str. 531 2. Pelkovenstr. 143-147
+- TOP 3.3.3.: Bauvorhaben Werbeanlagen: Litfaßsäule in der Gärtnerstraße (-> siehe TOP 3.3.3 Sitzung am 08.04.2019; nochmalige Vorlage)
+- TOP 3.3.4.: Baumfällung (Baumschutz): Simmerleinplatz 18 (Stellungnahme UNB)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Anbringen von Hinweisschildern auf barrierefreien Zugang zum OEZ
+- TOP 4.1.2.: Sachstand Freiflächengestaltung der Brachfläche im Anschluss an die Wohnhäuser Meißener Str. 11 und Franz-Fihl-Str. 10
+- TOP 4.1.3.: Öffnung des Lehrerparkplatzes des Schulzentrums für Veranstaltungen
+- TOP 4.1.4.: N Einrichtung eines Wahllokales in der Floristenschule am Reinmarplatz
+- TOP 4.2.1.: Erneuerung der Abmarkierung von Parkplätzen auf der Allacher Brücke
+- TOP 4.2.2.: Erhöhung der Verkehrssicherheit an der Kreuzung Baubergerstraße/ Schragenhofstraße/ Am Kapuzinerhölzl
+- TOP 4.3.1.: Anbringung von Trixi-Spiegeln an Moosacher Kreuzungen
+- TOP 5.1.: (E) Stadtbezirksbudget; Förderverein Grundschule an der Gerastraße München e.V. Selbstbehauptungskurs vom 16.09. - 20.09.19 1.600,00 € / AZ: 0262.0-10-0189
+- TOP 5.2.: (E) Stadtbezirksbudget Evang.-Luth. Kirchengemeinde Heilig-Geist Interkulturelles Sommerfest Ende Juli 2019 600,00 € / Az. 0262.0-10-0188
+- TOP 5.3.: (E) Stadtbezirksbudget; AG Buhlstrasse e.V. / Freizeitstätte boomerang Sommerferienprogramm vom 29.07. - 09.09.2019 6.000,00 € / AZ: 0262.0-10-0187
+- TOP 5.4.: (E) Stadtbezirksbudget; Mieter- und Eigentümergemeinschaft Olympia-Pressestadt e.V. Kinder- und Sommerfest am 13.07.19 1.666,00 € / AZ: 0262.0-10-0186
+- TOP 5.5.: (E) Stadtbezirksbudget; KulturRaum München e.V. Projekt "Kultur vor Ort mit kreativer Schreibwerkstatt vom 15.09.2019 - 15.03.2020 2.345,00 € / AZ: 0262.0-10-0191
+- TOP 5.6.: (E) Stadtbezirksbudget; Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest Teestube "komm" am 09.08.2019 172,00 € / AZ: 0262.0-10-0190
+- TOP 5.7.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Erweiterung einer bestehenden Freischankfläche Pelkovenstr. 42
+- TOP 5.8.: N Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Umzug eines Obstverkaufstandes am Bunzlauer Platz
+- TOP 6.1.: Verkehrsrechtliche Anordnungen nach § 45 StVO: Walter-Flex-Straße: Öffnung für den gegenläufigen Radverkehr
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund: Moosacher St.-Martins-Platz "8. Moosacher Weinfest" am 02.08.2019
+- TOP 6.3.: Veranstaltung im Freien in einer städtischen Grünanlage: PSV Franz Mader Str. 11 "Sri Chinmoy Peace Mile 6 Stundenlauf" am 14.09.2019
+- TOP 6.4.: Baumfällungen (Baumschutz): 1. Glogauer Str. 9 2. Hohentwielstr. 17 3. Rothschwaigestr. 42 4. - abgesetzt - 5. Lechelstr. 30 N 6. Zittauer Str. 18 N 7. Saarlouiser Str. 9
+- TOP 6.5.: N Asphaltierung der Wege im Park an der Vilniusstraße - Protokoll des Ortstermins am 05.06.2019 mit der Bitte um Stellungnahme
+- TOP 6.6.: N Veranstaltung in städtischer Grünanlage: Skateanlage Triebstraße "Skatebaordworkshops für Kinder und Jugendliche" am 28.07.2019
+- TOP 7.1.: Absolutes Haltverbot am Glogauer Platz, 80997 München [BA-Antrag Nr. 14-20/ B05973; eingeschränktes Haltverbot an Ostseite; Grenzmarkierungen am Zugang zum Spielplatz]
+- TOP 7.2.: Instandsetzung Gehwegpflasterung vor Anwesen Feldmochinger Str. 10 [Schreiben BA10 vom 12.12.2018; Baumbeet wurde vergrößert; Platten neu verlegt].
+- TOP 7.3.: Herstellung des Spielplatzes in der staatlichen Gemeinschaftsunterkunft Franz-Mader-Straße [BA-Antrag Nr. 14-20/ B05712; Übergangslösung bis Vollendung 2. Bauabschnitt ist vorhandener Spielplatz des 1. Bauabschnittes]
+- TOP 7.4.: Sicherheit in der staatlichen Unterkunft Franz-Mader-Str. 4-8 [BA-Antrag Nr. 14-20/ B05976; Solche Unterkünfte der Anschlussunterbringen werden bewußt nicht besonders gesichert, da sie bereits der Integration dienen. Bewohner und Beschäftigte wurden sensibilisiert]
+- TOP 7.5.: Errichtung von Schwimmhalten für Moosach [BA-Antrag Nr. 14-20/ B05618; in Moosach sind keine Schwimmhallen vorgesehen gem. Infrastrukturkonzept für Münchner Schulschwimmbäder SV Nr. 14-20/ V12007]
+- TOP 7.6.: Bestehender Kiosk in der Bunzlauer Straße/ Neuer Kiosk am Moosacher Stachus [BA-Antrag Nr. 14-20/ B06054; optische Aufwertung und Standplatzsuche obliegt diesem Privatbetreiber auf eigene Kosten]
+- TOP 7.7.: Angebote der städt. Sing- und Musikschule erhalten und erweitern [BA-Antrag Nr. 14-20/ B01914; anderweitige Raumnutzung; Anmietung weiterer Räumlichkeiten im Objekt nicht möglich]
+- TOP 7.8.: Regelmäßiger Winterdienst auf der Durchwegung Hanauer Straße zur Ehrenbreitsteiner Straße [Schreiben BA10 vom 05.05.2019; keine öffentliche Straßenfläche; Verkehrssicherungs- und Unterhaltspflicht liegt vollumfänglich beim Grundstückseigentümer]
+- TOP 7.9.: Asphaltierung Kreuzung Fußgängerbrücke Rangierbahnhof / Verlängerung Donaustaufer Straße und Fuß-Radweg Rangierbahnhof [Schreiben BA10 vom 14.06.2018; Asphaltierung wegen vorliegender natur- und artenschutzrechtlichen Rahmenbedingungen nicht möglich]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Diakonie München-Moosach: Einrichtung eines Fahrdienstes für Senioren und Seniorinnen
+- TOP 8.3.: Arbeiten im Straßenraum: Fahrbahnsanierung Dachauer Straße zwischen Rangierbahnhof und BAB 99 vom 29.07.2019 bis 06.09.2019
+- TOP 8.4.: Verkehrsrechtliche Anordnungen nach § 45 StVO: 1. Baubergerstr. 65: Zeichen "Kinder" mit Zusatz "Kindergarten" 2. Dachauer Str. 272: Einrichtung eines allgemeinen Behindertenparkplatzes
+- TOP 8.5.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 8.6.: TSV Moosach-Hartmannshofen e.V.: Erwerb und Bau einer temporären Traglufthalle für den Winterbetrieb (SV, nicht RIS)
+- TOP 8.7.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 8.8.: (U) Sturkturkonzept für den Bereich der Eggarten-Siedlung
+- TOP 8.9.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 8.10.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 8.11.: (U) Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 8.12.: (U) Wohnungspolitisches Handlungsprogramm "Wohnen in München VI" 2017-2021 Programmvereinfachung Einheitliche Förderung der Haushalte der unteren Einkommensstufen anstelle des Programms "Münchner Wohnungsbau"
+- TOP 8.13.: (U) Dringend erforderlich: eine langfristige Strategie für Münchens Wachstum Antrag Nr. 14-20 / A 03326 der Stadtratsfraktion Die Grünen – rosa liste vom 11.08.2017
+- TOP 8.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 8.16.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 8.17.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 8.18.: Nord-Süd-Grünverbindung auf der ehemaligen S-Bahntrasse im 10. Stadtbezirk (Objektplanung und Vorplanungsauftrag) - nicht-öffentlich -
+- TOP 8.19.: Vorkaufsrecht nach dem BauGB: Hardenbergstraße - nicht öffentlich -
+- TOP 8.20.: Zweckentfremdung von Wohnraum durch Abbruch: Simmerleinplatz - nicht-öffentlich -
