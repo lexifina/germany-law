@@ -1,0 +1,177 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-07-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174330
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174330
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 0.: Vorstellungen
+- TOP 0.2.: Informationen zur 2. Stammstrecke durch die Deutsche Bahn
+- TOP 0.: Gespräch mit der Kommunalen Verkehrsüberwachung
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Nachtrag: Stellungnahme des Erzbischöflichen Ordinariats zur Baustellenzufahrt zum Kirchlichen Zentrum Preysingstraße Ortstermin am 16.07.2019
+- TOP 5.1.: Radweg am Friedensengel
+- TOP 5.2.: Nachfrage: Fehlender Radweg in der Ohlmüllerstraße
+- TOP 5.3.: Taststreifen Haltestelle Eduard-Schmid-Straße
+- TOP 5.4.: Grün- und Erholungsflächen auf dem auslösenden Gelände nachweisen - keine Kompensation ermöglichen II
+- TOP 5.5.: München macht sich für Versicherungsplaketten bei Zweirädern stark
+- TOP 5.6.: Leerstand Max-Weber-Platz 3 (ehem. Foto Modl) beenden
+- TOP 5.7.: Fortgesetzte Vernachlässigung des Maxwerks durch die Stadtwerke München (SWM)
+- TOP 5.8.: ThemenGeschichtsPfad "Eisenbahn im Münchner Osten" erarbeiten
+- TOP 5.9.: Wegweisung zur Münchner Volkshochschule
+- TOP 5.10.: Radverkehr im Baustellenbereich: Franziskanerstr. 45
+- TOP 5.11.: Radverkehr im Baustellenbereich: Regerstraße /Weilerstraße
+- TOP 5.12.: Zweite S-Bahnstammstrecke: Sicherheit geht vor Abbiegeassistenten bei allen LKWs verbindlich vorschreiben
+- TOP 5.13.: Orleansplatz: Wiederherstellung des Brunnens
+- TOP 6.1.1.: (E) Stadtbezirksbudget; La Sophia GmbH Sommerfest in der Au am 06.07.2019 3.000,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Erziehungshilfezentrum Adelgundenheim Sommerfest am 03.07.2019 850,00 € - siehe auch UA Soziales -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Kulturlust e.V. Fahrräder für Alle am 28.07.2019 am Bordeauxplatz 3.440,00 € - siehe auch Unterausschuss Arbeit und Wirtschaft -
+- TOP 6.1.4.: (E) Stadtbezirksbudget; Über den Tellerrand kochen München e.V. Interkulturelles Sommerfest am 27.07.19 1.250,00 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.5.: (E) Stadtbezirksbudget Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 09.08.2019 172,00 Euro - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.6.: Nachtrag: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00 € / Az. 0262.0-5-0251
+- TOP 6.1.7.: Nachtrag: (E) Stadtbezirksbudget Munich Bluegrass Friends e.V. 10-Jahresfeier am 16.10.2019 3.000,00 € / Az. 0262.0-5-0250
+- TOP 6.2.1.: Genehmigung einer Freischankfläche für die Gaststätte "heartbeet", Rosenheimer Str. 109 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Nachtrag: Genehmigung einer Freischankfläche für die Gaststätte "Kunst und Essen", Breisacher Str. 4
+- TOP 6.3.1.: (E) Verbesserung der Situation an den Kreuzungen der Albanistraße
+- TOP 6.3.2.: (E) Stempen oder andere Maßnahmen zur Verhinderung des Befahrens und Parkens auf dem Johannisplatz Empfehlung Nr. 14-20 / E 02478 der Bürgerversammlung des Stadtbezirkes 5 Au - Haidhausen am 26.02.2019
+- TOP 6.3.3.: (E) + (U) Die MVG wird aufgefordert die Tram 17 via Schwanseestr., Sendlinger Tor, HBH-Nord, Romanplatz, Amalienburgstraße einzusetzen Empfehlung Nr. 14-20 / E 02474 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 21.02.2019
+- TOP 6.3.4.: (E) + (U) Kauf von Geschwindigkeitsmessgeräten durch den BA und Verkehrszählung an der Ecke Ohlmüllerstr./Falkenstr.
+- TOP 6.3.5.: Nachtrag: (E) Tempo 30 im Stadtviertel Au/Haidhausen
+- TOP 7.1.: Trinkwasserbrunnen - Beschluss des Bauausschusses vom 09.10.2018 Vertagung aus der Sitzung vom 05.06.2019 => dazu: Entwurf Stellungnahme
+- TOP 7.2.: dazu: Öffentliche Brunnen/ Trinkwasserbrunnen in Au-Haidhausen Vertagung aus der Sitzung vom 05.06.2019
+- TOP 7.3.: Ismaninger Str. 22: 10 Baumfällungen
+- TOP 7.4.: Kegelhof 3: Baumveränderung an 1 Esche
+- TOP 7.5.: Nachtrag: Verkehrssituation an der Welfenstraße
+- TOP 7.6.: Nachtrag: Herbstfest des Hauses des Deutschen Ostens am 20.09.2019 Am Lilienberg
+- TOP 8.1.1.: Barrierefreier Zugang im Einstein-Kulturzentrum
+- TOP 8.1.2.: Fahrradparkhaus im Zugangsbauwerk zum Ostbahnhof (Seite Friedenstraße)
+- TOP 8.1.3.: Antrag: Bäume für die Lucile-Grahn-Straße
+- TOP 8.1.4.: Ostbahnhof: Rolltreppen in beide Richtungen
+- TOP 8.1.5.: Nistkästen für Spatzen in Haidhausen
+- TOP 8.1.6.: Kronepark Anträge aus der Einwohnerversammlung vom 25.03.19: 1. Parkpflegewerk füŕ den Kronepark 2. Neuplanung am Kronepark (Instandsetzung unter Aufsicht eines Parkpflegewerks) 3. Mögliche Neuplanung Kronepark nicht als Event Area 4. Ökologisch sinnvolle Aufwertung des Kroneparks 5. Aufwertung Kronepark durch Errichtung einer Toilette 6. Kronepark belassen - Verpflichtung von Paulaner zu Ausgleichsfächen auf dem Neubaugelände 7. Zugang im Winter zum Kronepark
+- TOP 8.1.7.: Kronepark belassen - auf dem Bauland selbst Grünflächen schaffen
+- TOP 8.1.8.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen Fristverlängerung bis 29.02.2020
+- TOP 8.1.9.: Errichtung einer Geschwindigkeits-Signalanlage ("Smiley") in der Welfenstraße
+- TOP 8.1.10.: Verkehrprobleme in der Lilienstraße
+- TOP 8.3.1.: Das Format der Bürgerversammlung ansprechender gestalten Schreiben der 3. Bürgermeisterin an die Bezirksausschüsse
+- TOP 8.3.2.: Einhaltung der Anhörungsfrist der Bezirksausschüsse Informationsschreiben Oberbürgermeister
+- TOP 8.3.3.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 8.4.1.: Infoblatt 07/19
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Vorstellung des partizipativen Theaters zum Thema "Einsamkeit in der Großstadt"
+- TOP II.2.: Genehmigung der Theater-Aktion "Crash" auf dem Mariahilfplatz im Herbst 2019
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Erziehungshilfezentrum Adelgundenheim Sommerfest am 03.07.2019 850,00 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kinderbetreuung von Erstklässlern im Grundschulsprengel 2223 Empfehlung Nr. 14-20 / E 2479 der Bürgerversammlung des 5. Stadtbezirkes am 26.02.2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Grundschule am Mariahilfplatz 18, vorübergehender Einzug in Gebäude Hochstr. 29
+- TOP 3.2.: Neuer Vorstand im Kreisjugendring München-Stadt
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kinder wachsen Flügel gGmbh: Pflanzprojekt Urban Gardening und mehr
+- TOP 4.2.: Förderung des Nachbarschaftstreffs Gebsattel
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche für die Gaststätte "heartbeet", Rosenheimer Str. 109
+- TOP 1.2.: (E) Stadtbezirksbudget; La Sophia GmbH Sommerfest in der Au am 06.07.2019 3.000,00 €
+- TOP 1.3.: (E) Stadtbezirksbudget; Über den Tellerrand kochen München e.V. Interkulturelles Sommerfest am 27.07.19 1.250,00 €
+- TOP 1.4.: (E) Stadtbezirksbudget Kulturlust e.V. Fahrräder für Alle am 28.07.2019 am Bordeauxplatz 3.440,00 €
+- TOP 1.5.: Zuschuss zu Druckkosten für Dokumentation der Kunstaktion "Mohnblumen" auf dem Königsplatz Anfrage
+- TOP 1.6.: (E) Stadtbezirksbudget Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 09.08.2019 172,00 Euro
+- TOP 2.: Anhörungen
+- TOP 2.1.: Infostand zum Bau der 2. S-Bahn Stammstrecke am 15.07.2019 am Weißenburger Platz Vorabzustimmung durch die Vorsitzende erteilt
+- TOP 2.2.: 21. Lederhosenfest der Gaststätte "Wirtshaus in der Au" am 26.07.2019 in der Lilienstr. 51
+- TOP 2.3.: "Bayernmarkt" auf dem Orleansplatz vom 17.08.-01.09.2019
+- TOP 2.4.: Skateboardkurs in der Grünanlage Postwiese am 04.08.2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Anfrage zu Verkaufsständen / Kiosks auf öffentlichem Grund Verweisung aus der Sitzung vom 05.06.2019
+- TOP V.: UA Planung
+- TOP 0.1.: Planung der kleinen öffentlichen Grünfläche (Bebauungsplan Nr. 2076) und der beiden neuen Brücken über den Auer Mühlbach Vorstellung durch das Baureferat
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Entenbachstr. 28: Einhausung des Anlieferhofs eines EDEKA-Markts
+- TOP 2.2.: Rosenheimer Str. 72: Nutzungsänderung Garagenrückgebäude zu Wohngebäude (3 Varianten)
+- TOP 2.3.: Franziskanerstr. 15: Neubau eines Mehrfamilienhauses mit Tiefgarage, Vorbescheid dazu: Baumfällungen
+- TOP 2.4.: Vorwegmaßnahmen zur Instandsetzung der Ludwigsbrücken Instandsetzung der Ufermauer und Errichtung von Behelfsbrücken mit Gründungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 3.2.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 3.3.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2018
+- TOP 3.4.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 3.5.: Fuß- und Radwegbrücke am Giesinger Berg, Machbarkeitsstudie, Beteiligung der Öffentlichkeit - Bürgeranliegen bzw. Rückmeldung des Baureferats -
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Thema: Verkehr Genoveva-Schauer-Platz
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Parklizenzbereich Regerplatz Änderung der Regelungen zum Parken am Tassiloplatz und am Zita-Zehner-Platz
+- TOP 2.2.: Lastenrad-Projekt für City-Logistik hier: Bitte um Mitteilung von geeigneten Standorten für Mikrodepots
+- TOP 2.3.: Am Herrgottseck 2, Einrichtung eines absoluten Haltverbots
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Verbesserung der Abstellsituation für Fahrräder, Entfernung von aufgegebenen Fahrrädern Antwort Baureferat zum BA-Schreiben vom 06.06.2019
+- TOP 3.2.: Vorschläge zur Überprüfung von drei Ampelanlagen / Vorschläge um Haidhausen fußgängerfreundlicher zu machen, hier: Ampel Preysing-/Steinstraße Antwort KVR zum BA-Schreiben vom 07.03.2019 Vertagung wegen neuer Erkenntnisse aus der Sitzung vom 15.05.2019
+- TOP 3.3.: Widerrechtliches Parken Preysingstr. 71 Antwort Baureferat zum BA-Schreiben vom 18.02.2019
+- TOP 3.4.: Verbleib der liegengebliebenen Holz- und Baumreste an der Isar nach dem Hochwasser Antwort Wasserwirtschaftsamt zum BA-Schreiben vom 13.06.2019
+- TOP 3.5.: Einsteinstraße: Schutzgitter vor der Grundschule Antwort KVR zum BA-Schreiben vom 16.05.2019
+- TOP 3.6.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 3.7.: (U) Saisonale Umnutzung von Straßenräumen a) Temporäre Interventionen im Öffentlichen Raum b) Zwei Ansätze temporärer Interventionen im Straßenraum c) Behandlung der Anträge und Empfehlungen ...
+- TOP 3.8.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 3.9.: (U) Generalinstandsetzung der beiden Ludwigsbrücken über die Isar Innere Ludwigsbrücke (BW 33/10A) Äußere Ludwigsbrücke (BW 33/10B) im 1. Stadtbezirk Altstadt - Lehel im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 25.000.000 Euro (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH: 5.000.000 Euro) 1. Projektgenehmigung 2. Genehmigung zur Durchführung der Vorwegmaßnahmen 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 4. Fortschreibung des Mehrjahresinvestitionsprogrammes 2019 - 2023, Unterabschnitt 6300 "Gemeindestraßen"
+- TOP 3.10.: (U) Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum Sachstand und weiteres Vorgehen
+- TOP 3.11.: Gefahrenbaumfällung: Schneckenburgerstr. 14, 1 Roßkastanie
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Stein-/Sedanstraße: Parkverbotsmarkierungen am Fußgängerübergang
+- TOP 4.2.: Tram Horror in Haidhausen (Fahrgeräusche in der Preysingstraße)
+- TOP 4.3.: Pflanzung von Bäumen in der Sedanstraße
+- TOP 4.4.: 1. Biologisch abbaubare Hundekotbeutel 2. Fahrradständer in der Aurbacherstraße 3. Verschmutzungsproblem in der Aurbacher-/Welfenstraße
+- TOP 4.5.: Verkehrssicherheit rund um das Pestalozzi-Gymnasium Nachtrag: Anhörung KVR: Tempo 30 vor Schulen, hier: Pestalozzi-Gymnasium
+- TOP 4.6.: Umbau der Ludwigsbrücke (Ziffer 2)
+- TOP 4.7.: Obere Au - Änderung der Verkehrsregelung an der Einmündung Gebsattel-/Aurbacherstraße, Einfahrt nur für Anwohner
+- TOP 4.8.: Haltestelle der Buslinie 155 in der Orleansstraße unzumutbar (Ziffer 2)
+- TOP 4.9.: Rückbau der Radwege in der Kirchenstraße
+- TOP 4.10.: Verkehrssicherheit rund um die Ernst-Reuter-Grundschule
+- TOP 4.11.: Schulwegsicherheit Versailler Straße
+- TOP 4.12.: Änderung Straßenbegrünung Eggernstraße
+- TOP 4.13.: Maßnahmen gegen Missachtung der Fahrtrichtung in der Schiltbergerstraße Verweisung aus der Sitzung vom 15.05.2019
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 09.09.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 09.09.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft,10.09.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 11.09.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 12.09.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 18.09.2019, 19 Uhr, VHS Einsteinstr. 2 BA-Vorstand, Dienstag, 03.09.2019, 19 Uhr, Friedenstraße 40
