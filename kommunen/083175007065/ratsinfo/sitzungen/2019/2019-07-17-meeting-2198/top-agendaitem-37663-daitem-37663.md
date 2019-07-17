@@ -1,0 +1,6 @@
+# TOP -: Einrichtung einer Verbundschule (Otto-Hahn-Realschule und Theodor-Heuss-Schule) zum Schuljahr 2020/2021
+
+- Sitzung: Ausschuss für Soziales, Bildung und Sport (4. Sitzung) (2019-07-17)
+- Körperschaft: Stadt Lahr
+- Öffentlich: ja
+- OParl: https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/37663
