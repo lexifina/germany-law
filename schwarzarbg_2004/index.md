@@ -13,9 +13,10 @@
 - [§ 3 Befugnisse bei der Prüfung von Personen](0003.md)
 - [§ 4 Befugnisse bei der Prüfung von Geschäftsunterlagen](0004.md)
 - [§ 5 Duldungs- und Mitwirkungspflichten](0005.md)
-- [§ 6 Unterrichtung und Zusammenarbeit von Behörden](0006.md)
+- [§ 5a Unzulässiges Anbieten und Nachfragen der Arbeitskraft](0005a.md)
+- [§ 6 Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum](0006.md)
 - [§ 6a Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union](0006a.md)
-- [§ 7 Auskunftsansprüche bei anonymen Werbemaßnahmen](0007.md)
+- [§ 7 Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen](0007.md)
 
 ## Abschnitt 3 Bußgeld- und Strafvorschriften
 
@@ -31,12 +32,15 @@ und zu ungünstigen Arbeitsbedingungen](0010.md)
 - [§ 12 Allgemeines zu den Ordnungswidrigkeiten](0012.md)
 - [§ 13 Zusammenarbeit in Bußgeldverfahren](0013.md)
 - [§ 14 Ermittlungsbefugnisse](0014.md)
+- [§ 14a Selbstständige Durchführung von Ermittlungsverfahren](0014a.md)
+- [§ 14b Rechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren](0014b.md)
+- [§ 14c Sachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren](0014c.md)
 
 ## Abschnitt 5 Datenschutz
 
 - [§ 15 Allgemeines](0015.md)
 - [§ 16 Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit](0016.md)
-- [§ 17 Übermittlung von Daten an die Polizeivollzugsbehörden des Bundes und der Länder, an die Finanzbehörden und an die Staatsanwaltschaften](0017.md)
+- [§ 17 Übermittlung von Daten aus dem zentralen Informationssystem](0017.md)
 - [§ 18 Auskunft an die betroffene Person](0018.md)
 - [§ 19 Löschung](0019.md)
 

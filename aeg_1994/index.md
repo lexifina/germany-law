@@ -6,7 +6,7 @@
 - [§ 2b Übergeordnetes Netz](0002b.md)
 - [§ 2c Zuordnung zum übergeordneten Netz](0002c.md)
 - [§ 3 Öffentlicher Eisenbahnverkehr](0003.md)
-- [§ 4 Sicherheitspflichten, Zuständigkeiten des Eisenbahn-Bundesamtes](0004.md)
+- [§ 4 Sicherheitspflichten und Notfallpläne, Zuständigkeiten des Eisenbahn-Bundesamtes](0004.md)
 - [§ 4a Instandhaltung](0004a.md)
 - [§ 4b Prüfsachverständige](0004b.md)
 - [§ 5 Eisenbahnaufsicht](0005.md)

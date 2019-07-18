@@ -164,7 +164,7 @@
 | Proheptazin | - | (1,3-Dimethyl-4-phenylazepan-4-yl)propionat |
 | Properidin | - | Isopropyl(1-methyl-4-phenyl-piperidin-4-carboxylat) |
 | - | Psilocin (Psilotsin) | 3-(2-Dimethylaminoethyl)indol-4-ol |
-| - | Psilocin-(eth) | 3-(2-Diethylaminoethyl)indol-4-ol |
+| - | Psilocin-(eth) (4-Hydroxy-N,N-diethyltryptamin, 4-HO-DET) | 3-(2-Dimethylaminoethyl)indol-4-ol |
 | Psilocybin | - | [3-(2-Dimethylaminoethyl)indol-4-yl]dihydrogenphosphat |
 | - | Psilocybin-(eth) | [3-(2-Diethylaminoethyl)indol-4-yl]dihydrogenphosphat |
 | - | 4-MePPP | 2-(Pyrrolidin-1-yl)-1-(p-tolyl)propan-1-on |

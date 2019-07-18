@@ -49,8 +49,11 @@
 | - | CP 47,497-C8-Homolog(cis-3-[4-(1,1-Dimethyloctyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethyloctyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
 | - | CP 47,497-C9-Homolog(cis-3-[4-(1,1-Dimethylnonyl)-2-hydroxyphenyl]-cyclohexanol) | 5-(1,1-Dimethylnonyl)-2-[(1RS,3SR)-3-hydroxycyclohexyl]-phenol |
 | - | CUMYL-PEGACLONE (SGT-151) | 5-Pentyl-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-on |
+| - | CUMYL-4CN-BINACA (SGT-78) | 1-(4-Cyanobutyl)-N-(2-phenylpropan-2-yl)-1H-indazol-3-carboxamid |
 | - | CUMYL-5F-P7AICA (5-Fluor-CUMYL-P7AICA, SGT-263) | 1-(5-Fluorpentyl)-N-(2-phenylpropan-2-yl)-1H-pyrrolo[2,3-b]pyridin-3-carboxamid |
+| - | CUMYL-5F-PEGACLONE (5F-Cumyl-PeGaClone, 5F-SGT-151) | 5-(5-Fluorpentyl)-2-(2-phenylpropan-2-yl)-2,5-dihydro-1H-pyrido[4,3-b]indol-1-on |
 | Cyclobarbital | - | 5-(Cyclohex-1-en-1-yl)-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion |
+| - | Cyclopropylfentanyl | N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl] cyclopropancarboxamid |
 | - | Desoxypipradrol (2-DPMP) | 2-(Diphenylmethyl)piperidin |
 | - | Dextromethadon | (S)-6-Dimethylamino-4,4-diphenylheptan-3-on |
 | Dextromoramid | - | (S)-3-Methyl-4-morpholino-2,2-diphenyl-1-(pyrrolidin-1-yl)butan-1-on |
@@ -86,6 +89,7 @@
 | Fencamfamin | - | N-Ethyl-3-phenylbicyclo[2.2.1]heptan-2-amin |
 | - | Flephedron (4-Fluormethcathinon, 4-FMC) | 1-(4-Fluorphenyl)-2-(methylamino)propan-1-on |
 | - | Flubromazepam | 7-Brom-5-(2-fluorphenyl)-1,3-dihydro-2H-1,4-benzodiazepin-2-on |
+| - | 4-Fluorisobutyrfentanyl (4-Fluorisobutyrylfentanyl, 4F-iBF, p-FIBF) | N-(4-Fluorphenyl)-2-methyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamid |
 | - | 4-Fluormethamfetamin (4-FMA) | 1-(4-Fluorphenyl)-N-methylpropan-2-amin |
 | - | 3-Fluormethcathinon (3-FMC) | 1-(3-Fluorphenyl)-2-(methylamino)propan-1-on |
 | - | 5-Fluorpentyl-JWH-122 (MAM-2201) | [1-(5-Fluorpentyl)-1H-indol-3-yl] (4-methylnaphthalin-1-yl)methanon |
@@ -128,6 +132,7 @@
 | - | Methadon-Zwischenprodukt (Premethadon) | 4-Dimethylamino-2,2-diphenylpentannitril |
 | Methaqualon | - | 2-Methyl-3-(2-methylphenyl)chinazolin-4(3H)-on |
 | - | Methedron (4-Methoxymethcathinon, PMMC) | 1-(4-Methoxyphenyl)-2-(methylamino)propan-1-on |
+| - | Methoxyacetylfentanyl | 2-Methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamid |
 | - | p-Methoxyethylamfetamin (PMEA) | N-Ethyl-1-(4-methoxyphenyl)propan-2-amin |
 | - | 3-Methoxyphencyclidin(3-MeO-PCP) | 1-[1-(3-Methoxyphenyl)cyclohexyl] piperidin |
 | - | 4-Methylamfetamin | 1-(4-Methylphenyl)propan-2-amin |
@@ -145,6 +150,7 @@
 | - | NE-CHMIMO (JWH-018 N-(Cyclohexylmethyl)- Analogon) | [1-(Cyclohexylmethyl)-1H-indol-3-yl] (naphthalin-1-yl)methanon |
 | Nicocodin | 6-Nicotinoylcodein | (4,5α-Epoxy-3-methoxy-17-methylmorphin-7-en-6α-yl)nicotinat |
 | Nicodicodin | 6-Nicotinoyldihydrocodein | (4,5α-Epoxy-3-methoxy-17-methylmorphinan-6α-yl)nicotinat |
+| - | Ocfentanil (A-3217) | N-(2-Fluorphenyl)-2-methoxy-N-[1-(2-phenylethyl)piperidin-4-yl]acetamid |
 | - | Oripavin | 4,5α-Epoxy-6-methoxy-17-methylmorphina-6,8-dien-3-ol |
 | - | NM-2201(CBL-2201) | Naphthalin-1-yl[1-(5-fluorpentyl)-1H-indol-3-carboxylat] |
 | Oxymorphon | 14-Hydroxydihydromorphinon | 4,5α-Epoxy-3,14-dihydroxy-17-methylmorphinan-6-on |
@@ -170,6 +176,7 @@
 | Secbutabarbital | Butabarbital | 5-(Butan-2-yl)-5-ethylpyrimidin-2,4,6(1H,3H,5H)-trion |
 | - | STS-135 (5F-2NE1) | N-(Adamantan-1-yl)-1-(5-fluorpentyl)-1H-indol-3-carboxamid |
 | - | Δ9-Tetrahydrocannabinol(Δ9-THC) | 6,6,9-Trimethyl-3-pentyl-6a,7,8,10a-tetrahydro-6H-benzo[c]chromen-1-ol |
+| - | Tetrahydrofuranylfentanyl (THF-F) | N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]tetrahydrofuran-2-carboxamid |
 | - | Tetrahydrothebain | 4,5α-Epoxy-3,6-dimethoxy-17-methylmorphinan |
 | Thebacon | Acetyldihydrocodeinon | (4,5α-Epoxy-3-methoxy-17-methylmorphin-6-en-6-yl)acetat |
 | - | Thebain | 4,5α-Epoxy-3,6-dimethoxy-17-methylmorphina-6,8-dien |
@@ -178,6 +185,7 @@
 | cis-Tilidin | - | Ethyl[(1RS,2RS)-2-dimethylamino-1-phenylcyclohex-3-encarboxylat] |
 | - | 3-Trifluormethylphenylpiperazin (TFMPP) | 1-[3-(Trifluormethyl)phenyl]piperazin |
 | - | U-47700 | 3,4-Dichlor-N-[2-(dimethylamino) cyclohexyl]-N-methylbenzamid |
+| - | U-48800 | 2-(2,4-Dichlorphenyl)-N-[2-(dimethylamino)cyclohexyl]-N-methylacetamid |
 | - | UR-144 | (1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanon |
 | Vinylbital | - | 5-Ethenyl-5-(pentan-2-yl)pyrimidin-2,4,6(1H,3H,5H)-trion |
 | Zipeprol | - | 1-Methoxy-3-[4-(2-methoxy-2-phenylethyl)piperazin-1-yl]-1-phenylpropan-2-ol |

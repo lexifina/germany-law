@@ -151,7 +151,7 @@ Gebühren
 | Abschnitt 1Einstweilige Anordnung in Kindschaftssachen |
 | Unterabschnitt 1Erster Rechtszug |
 | 1410 | Verfahren im Allgemeinen .......... | 0,3 |
-|  | Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer Vormundschaft oder Pflegschaft fallen, und für Verfahren, die eine Kindschaftssache nach § 151 Nr. 6 und 7 FamFG betreffen. |  |
+|  | Die Gebühr entsteht nicht für Verfahren, die in den Rahmen einer Vormundschaft oder Pflegschaft fallen, und für Verfahren, die eine eine Kindschaftssache nach § 151 Nr. 6 und 7 FamFG betreffen. |  |
 | Unterabschnitt 2Beschwerde gegen die Endentscheidung wegen des Hauptgegenstands |
 | 1411 | Verfahren im Allgemeinen .......... | 0,5 |
 | 1412 | Beendigung des gesamten Verfahrens ohne Endentscheidung: Die Gebühr 1411 ermäßigt sich auf .......... | 0,3 |

@@ -108,6 +108,6 @@
 - [§ 64 (weggefallen)](0064.md)
 - [§ 65 Weitergeltende Vorschriften](0065.md)
 - [§ 66 (weggefallen)](0066.md)
-- [§ 66a Übergangs- und Anwendungsvorschrift aus Anlass des Fünfundzwanzigsten Gesetzes zur Änderung des Bundesausbildungsförderungsgesetzes](0066a.md)
+- [§ 66a Übergangs- und Anwendungsvorschrift](0066a.md)
 - [§ 67 (weggefallen)](0067.md)
 - [§ 68 Inkrafttreten](0068.md)

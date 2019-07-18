@@ -12,6 +12,11 @@ Entwicklung des Eisenbahnsektors
 | § 6 | Führung der Eisenbahnverkehrsunternehmen |
 | § 7 | Getrennte Rechnungslegung |
 | § 8 | Unabhängigkeit des Betreibers der Schienenwege |
+| § 8a | Unabhängigkeit des Betreibers der Schienenwege in Bezug auf wesentliche Funktionen |
+| § 8b | Unparteilichkeit des Betreibers der Schienenwege hinsichtlich des Verkehrsmanagements, der Instandhaltungsplanung und der baulichen Planung |
+| § 8c | Auslagerung und Aufteilung der Funktionen des Betreibers der Schienenwege |
+| § 8d | Finanzielle Transparenz |
+| § 8e | Europäisches Netzwerk der Hauptinfrastrukturbetreiber |
 | § 9 | Geschäftsplan des Betreibers der Schienenwege |
 | § 10 | Zugang zu Eisenbahnanlagen und zu Serviceeinrichtungen |
 | § 11 | Zugang zu Leistungen |

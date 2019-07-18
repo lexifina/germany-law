@@ -11,9 +11,10 @@
 | § 3 | Befugnisse bei der Prüfung von Personen |
 | § 4 | Befugnisse bei der Prüfung von Geschäftsunterlagen |
 | § 5 | Duldungs- und Mitwirkungspflichten |
-| § 6 | Unterrichtung und Zusammenarbeit von Behörden |
+| § 5a | Unzulässiges Anbieten und Nachfragen der Arbeitskraft |
+| § 6 | Unterrichtung von und Zusammenarbeit mit Behörden im Inland und in der Europäischen Union sowie im Europäischen Wirtschaftsraum |
 | § 6a | Übermittlung personenbezogener Daten an Mitgliedstaaten der Europäischen Union |
-| § 7 | Auskunftsansprüche bei anonymen Werbemaßnahmen |
+| § 7 | Auskunftsansprüche bei anonymen Angeboten und Werbemaßnahmen |
 |  |
 | Abschnitt 3 |
 | Bußgeld- und Strafvorschriften |
@@ -28,12 +29,15 @@
 | § 12 | Allgemeines zu den Ordnungswidrigkeiten |
 | § 13 | Zusammenarbeit in Bußgeldverfahren |
 | § 14 | Ermittlungsbefugnisse |
+| § 14a | Selbstständige Durchführung von Ermittlungsverfahren |
+| § 14b | Rechte und Pflichten bei der selbstständigen Durchführung von Ermittlungsverfahren |
+| § 14c | Sachliche und örtliche Zuständigkeit bei der selbstständigen Durchführung von Ermittlungsverfahren |
 |  |
 | Abschnitt 5 |
 | Datenschutz |
 | § 15 | Allgemeines |
 | § 16 | Zentrales Informationssystem für die Finanzkontrolle Schwarzarbeit |
-| § 17 | Übermittlung von Daten an die Polizeivollzugsbehörden des Bundes und der Länder, an die Finanzbehörden und an die Staatsanwaltschaften |
+| § 17 | Übermittlung von Daten aus dem zentralen Informationssystem |
 | § 18 | Auskunft an die betroffene Person |
 | § 19 | Löschung |
 |  |

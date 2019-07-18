@@ -74,25 +74,23 @@
 
 #### Unterabschnitt 1 Allgemeine Vorschrift
 
-- [§ 24 Einzelerhebungen und Periodizität](0024.md)
+- [§ 24 Einzelerhebungen](0024.md)
 
 #### Unterabschnitt 2 Agrarstrukturerhebung
 
 - [§ 25 Erhebungseinheiten](0025.md)
-- [§ 26 Erhebungsart und Erhebungsprogramm](0026.md)
-- [§ 27 Erhebungsmerkmale und Berichtszeit](0027.md)
+- [§ 26 Erhebungszeitraum](0026.md)
+- [§ 27 Erhebungsart und Erhebungsmerkmale](0027.md)
+- [§ 28 Berichtszeit](0028.md)
 
-#### Unterabschnitt 3 Haupterhebung der Landwirtschaftszählung
+#### Unterabschnitt 3 Strukturerhebung der Forstbetriebe
 
-- [§ 28 Erhebungseinheiten](0028.md)
-- [§ 29 Erhebungsart](0029.md)
-- [§ 30 Erhebungsmerkmale und Berichtszeit](0030.md)
-
-#### Unterabschnitt 4 Erhebung über landwirtschaftliche Produktionsmethoden
-
-- [§ 31 Erhebungseinheiten](0031.md)
-- [§ 32 Erhebungsart, Periodizität, Erhebungsmerkmale, Berichtszeit](0032.md)
-- [(XXXX) §§ 33 bis 43 (weggefallen)](xxxx-33-bis-43.md)
+- [§ 29 Erhebungseinheiten](0029.md)
+- [§ 30 Periodizität](0030.md)
+- [§ 31 Erhebungsart und Erhebungsmerkmale](0031.md)
+- [§ 32 Berichtszeitpunkt](0032.md)
+- [§ 33 Besondere Vorschrift zur Verwendung von Verwaltungsdaten](0033.md)
+- [(XXXX) §§ 34 bis 43 (weggefallen)](xxxx-34-bis-43.md)
 
 ### Abschnitt 5 (weggefallen)
 
@@ -237,6 +235,4 @@
 - [§ 95 Erhebungsstellen, Erhebungsbeauftragte](0095.md)
 - [§ 96 Fortschreibeverfahren](0096.md)
 - [§ 97 Betriebsregister](0097.md)
-- [§ 97a Feststellung der Grundgesamtheit](0097a.md)
 - [§ 98 Übermittlung, Verwendung und Veröffentlichung von Einzelangaben](0098.md)
-- [§ 99 Übergangsvorschriften](0099.md)
