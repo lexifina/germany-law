@@ -1,4 +1,4 @@
 # Gesetz über die Gewährung eines Landesblindengeldes und anderer Nachteilsausgleiche (Landesblindengeldgesetz – LBlindG)
 Vom 14. Dezember 2001
-Rechtsbereinigt mit Stand vom 25. Mai 2018
+Rechtsbereinigt mit Stand vom 20. Juli 2019
 Der Sächsische Landtag hat am 13. Dezember 2001 das folgende Gesetz beschlossen:
