@@ -1,4 +1,3 @@
-## Landkreisordnung für den Freistaat Sachsen (Sächsische Landkreisordnung – SächsLKrO)
 # Inhaltsübersicht
 Erster Teil Rechtsstellung, Aufgaben und Gebiet des Landkreises
 Erster Abschnitt Rechtsstellung und Aufgaben
