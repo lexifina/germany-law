@@ -19,13 +19,13 @@ III. Allgemeine rechtliche Kenntnisse
 a)
 Bundes-Bodenschutzgesetz (BBodSchG) und dazu ergangene Vorschriften, insbesondere Bundes-Bodenschutz- und Altlastenverordnung (BBodSchV),
 b)
-Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Beseitigung von Abfällen (Kreislaufwirtschafts- und Abfallgesetz – KrW-/AbfG),
+Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen (Kreislaufwirtschaftsgesetz − KrWG),
 c)
-Sächsisches Abfallwirtschafts- und Bodenschutzgesetz (SächsABG) und dazu ergangene Vorschriften,
+Gesetz über die Kreislaufwirtschaft und den Bodenschutz im Freistaat Sachsen (Sächsisches Kreislaufwirtschafts- und Bodenschutzgesetz – SächsKrWBodSchG) und dazu ergangene Vorschriften,
 d)
 Gesetz zur Ordnung des Wasserhaushalts (Wasserhaushaltsgesetz – WHG),
 e)
-Verordnung zur Umsetzung der Richtlinie 80/68/EWG des Rates vom 17. Dezember 1979 über den Schutz des Grundwassers gegen Verschmutzung durch bestimmte gefährliche Stoffe (Grundwasserverordnung),
+Verordnung zum Schutz des Grundwassers (Grundwasserverordnung – GrwV),
 f)
 Sächsisches Wassergesetz (SächsWG) und dazu ergangene Vorschriften,
 g)
@@ -35,13 +35,13 @@ Bundesberggesetz (BBergG),
 i)
 Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (Bundes-Immissionsschutzgesetz – BImSchG),
 j)
-Verordnung zum Schutz vor gefährlichen Stoffen (Gefahrstoffverordnung – GefStoffV),
+Verordnung zum Schutz vor Gefahrstoffen (Gefahrstoffverordnung – GefStoffV),
 k)
 Vorschriften des Umweltstrafrechts,
 l)
-Unfallverhütungsvorschriften, insbesondere die Vorschrift ZH 1/83, und
+Unfallverhütungsvorschriften, insbesondere BGR 128, und
 m)
-Vorschriften des Vertragsrechts, wie Bürgerliches Gesetzbuch, Verdingungsordnung für Bauleistungen (VOB), Verdingungsordnung für Leistungen, ausgenommen Bauleistungen (VOL), Verdingungsordnung für freiberufliche Leistungen (VOF) und Honorarordnung für Architekten und Ingenieure (HOAI).
+Vorschriften des Vertragsrechts, wie Bürgerliches Gesetzbuch, Vergabe- und Vertragsordnung für Bauleistungen (VOB), Vergabe- und Vertragsordnung für Leistungen (VOL), Verordnung über die Vergabe öffentlicher Aufträge (VgV), Landesvergaberecht und Honorarordnung für Architekten und Ingenieure (HOAI).
 2. Kenntnisse über Aufbau und Zuständigkeitsregelungen der öffentlichen Verwaltung.
 B. Sachgebietsspezifische Anforderungen
 I. Sachgebiet „Flächenhafte und standortbezogene Erfassung/Historische Erkundung“
