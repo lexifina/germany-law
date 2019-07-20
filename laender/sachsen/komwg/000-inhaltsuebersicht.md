@@ -1,4 +1,3 @@
-## Gesetz über die Kommunalwahlen im Freistaat Sachsen (Kommunalwahlgesetz – KomWG)
 # Inhaltsübersicht
 Erster Teil Gemeindewahlen
 Erster Abschnitt Gemeinderatswahlen
