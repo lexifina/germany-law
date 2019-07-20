@@ -1,2 +1,2 @@
 # Gemeindeordnung für den Freistaat Sachsen (Sächsische Gemeindeordnung – SächsGemO)
-Rechtsbereinigt mit Stand vom 13. Juli 2019
+Rechtsbereinigt mit Stand vom 20. Juli 2019
