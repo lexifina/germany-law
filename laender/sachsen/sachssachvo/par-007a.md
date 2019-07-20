@@ -1,0 +1,9 @@
+# § 7a Anzeigepflichten
+Der Sachverständige hat der Industrie- und Handelskammer unverzüglich anzuzeigen:
+1. die Errichtung oder Änderung der Hauptniederlassung oder die Änderung des Hauptwohnsitzes des Sachverständigen,
+2. die Änderung seiner oder die Aufnahme einer weiteren beruflichen oder gewerblichen Tätigkeit, insbesondere den Eintritt in ein Arbeits- oder Dienstverhältnis,
+3. die erstellten Gutachten in einem kalenderjährlich zusammengefassten Journal,
+4. die voraussichtlich länger als drei Monate dauernde Verhinderung oder Einschränkung bei der Ausübung seiner Tätigkeit als Sachverständiger, insbesondere auch aufgrund einer Beeinträchtigung seiner körperlichen und geistigen Leistungsfähigkeit,
+5. die Abgabe der Vermögensauskunft gemäß § 802c der Zivilprozessordnung in der Fassung der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431; 2007 I S. 1781), die zuletzt durch Artikel 1 des Gesetzes vom 31. Januar 2019 (BGBl. I S. 54) geändert worden ist, in der jeweils geltenden Fassung, und den Erlass eines Haftbefehls zur Erzwingung der Abgabe der Vermögensauskunft gemäß § 802g der Zivilprozessordnung,
+6. die Stellung des Antrags auf Eröffnung eines Insolvenzverfahrens über sein Vermögen oder das Vermögen einer Gesellschaft, deren Vorstand, Geschäftsführer oder Gesellschafter er ist, die Eröffnung eines solchen Verfahrens und die Abweisung der Eröffnung mangels Masse,
+7. den Erlass eines Haft- oder Unterbringungsbefehls, die Erhebung der öffentlichen Klage und den Ausgang des Verfahrens in Strafsachen, wenn der Tatvorwurf auf eine Verletzung von Pflichten schließen lässt, die bei der Ausübung der Sachverständigentätigkeit zu beachten sind oder er in anderer Weise geeignet ist, Zweifel an der persönlichen Eignung oder besonderen Sachkunde des Sachverständigen hervorzurufen.
