@@ -1,0 +1,6 @@
+# TOP 1: Beginn der Sitzung
+
+- Sitzung: 1. Sitzung des Stadtrates Schraplau (2019-07-23)
+- Körperschaft: Stadt Schraplau
+- Öffentlich: ja
+- OParl: https://weida-land.gremien.info/oparl/agendaItem/ni_2019-SRS-1%7C1a%7C1
