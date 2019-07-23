@@ -1,0 +1,178 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-07-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5249224
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5249224
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.4.: IsarLudwig 2020
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.1.: Wegfall der Anwohnerparkplätze und Aufstellen der Haltverbotsschilder in der Corneliusstraße
+- TOP 5.7.: Fensterläden am ehemaligen Veterinäramt, Thalkirchner Straße
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP 5.6.: abgesetzt
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Renovierung der Sanitärräume in der Grundschule am Gärtnerplatz
+- TOP 2.2.: (E) Stadtbezirksbudget Wildfleck gUG Projekt "Isarnatur pur" vom 20.07. - 31.12.2019 6.000,00 Euro, Az.: 0262.0-2-0284
+- TOP 2.3.: (E) Stadtbezirksbudget; Münchner Brahms-Chor e.V. Konzert: Messiah am 26.10.2019 2.250,00 € / AZ: 0262.0-2-0282
+- TOP 2.4.: (E) Stadtbezirksbudget; Schüler-Frei-Raum e.V. Fußballturnier am 17.07.2019 382,00 € / AZ: 0262.0-2-0280
+- TOP 2.5.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit e.V. Ausstellung "Heimat Straße - Neue Nachbarn" vom 17.09. - 11.10.2019 1.000,00 € / Az. 0262.0-2-0283
+- TOP 2.6.: Stadtbezirksbudget, Mini_KUBUS e.V., Anschaffung eines Gruppenkinderwagens, Bitte um Erhöhung des Zuwendungsbetrages von 1.148,00 € auf 1.530,00 € (Originalantrag s. TOP 2019.04 A 2.5)
+- TOP 2.7.: (E) Stadtbezirksbudget Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 09.08.2019 172,00 Euro, Az. 0262.0-2-0285
+- TOP 2.8.: Stadtbezirksbudget, Verein zur Förderung von bildnerisch-künstlerischen Ausdrucksformen e.V. für das Projekt „Ein Bild wohnt in meinen Ohren“, Bitte um Verlängerung des Bewilligungszeitraumes bis 30.11.2019 (Originalantrag s. TOP 2019.05 A 2.3)
+- TOP 2.9.: (E) Stadtbezirksbudget; Alte Utting GmbH Kinderprogramm auf der Alten Utting vom 15.06.19 - 31.12.19 5.028,24 € / AZ: 0262.0-2-0286
+- TOP 2.10.: (E) Stadtbezirksbudget Initiative "80. Geburtstag Maler Hans Haas" Ausstellung zum 80. Geburtstag des Malers Hans Haas vom 27.07. - 02.08.2019 930,00 Euro, Az.: 0262.0-2-0287
+- TOP 2.11.: (E) Stadtbezirksbudget Initiative "Buchpublikation Never Forget - Never Again" Buchpublikation "Never Forget - Never Again" 500,00 Euro, Az.: 0262.0-2-0289
+- TOP 5.1.: Holzplatz: Anwohner Ideen und Wünsche gesammelt am 29.06.2019
+- TOP 5.2.: Bürgeranliegen, Grünfläche Dreimühlen- / Ecke Reifenstuelstraße
+- TOP 5.3.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget (BSL) eingereicht durch eine deutsch-spanischsprachige Elterninitiative für die Anschaffung eines Bollerwagen -PLENUMSBESCHLUSS-
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Fraunhoferstr. 13, Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 3.1.2.: Schwanthalerstraße 62, VORBESCHEID, Aufstockung des Sozialbürgerhauses
+- TOP 3.1.3.: Schillerstraße 32, Errichtung eines Außenaufzugs, eines Übergangs im 1. OG und einer Dachgaube, Nutzungsänderung einer Wohnung (2. OG) zu einem Hotelzimmer sowie Erweiterung des Hotels mit 22 Zimmern und max. 60 Betten
+- TOP 3.1.4.: Isartalstraße 38, Zusammenlegung zweier Wohnungen (1. OG links mit 2. OG links) mit Errichtung einer internen Verbindung
+- TOP 3.1.5.: Waltherstraße 29, TEKTUR, RGB: Nutzungsänderung UG – DG; DG-Umbau; Erneuerung der Dächer über EG; Teilabbruch von Nebenräumen im EG-Hofbereich; VGB: DG-Umbau; Nutzungsänderung im KG
+- TOP 3.1.6.: Goethestraße 7a, Nutzungsänderung: Shisha-Bar zu Wettbüro
+- TOP 3.1.7.: Dreimühlenstraße 16, RGB: DG-Ausbau mit Dachgauben und -terrasse sowie zweitem Fluchtweg, Errichtung von Balkonen und Anbau eines Personenaufzugs
+- TOP 3.1.8.: Dreimühlenstraße 16, VGB: Dachstuhl-Ausbau, Errichtung einer Wohnung mit Dachgauben und -terrassen, Neuerrichtung eines Aufzugs
+- TOP 3.1.9.: Klenzestraße 16, VGB: TEKTUR: Abbruch des Dachstuhls und Neuerrichtung mit Gauben, Umbau der Wohnungen in der 1. DG-Ebene, Ausbau des Dachspitzes und Verbindung mit den Wohnungen der 1. DG-Ebene zu zwei Maisonettewohnungen sowie Anbau von Balkonen und eines Aufzugs
+- TOP 3.2.1.: Vollzug der Baumschutzverordnung: Fraunhoferstr. 13, Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 3.2.2.: Müllerstraße 11, Fällungsantrag für eine Esche
+- TOP 3.2.3.: Klenzestraße 17, Fällung einer Birke
+- TOP 3.2.4.: Vollzug der Baumschutzverordnung: Bavariaring 18, Dacherneuerung und -ausbau sowie Nutzungsänderung des DG (Büro zu Wohnen), Anbau eines Außenaufzugs sowie Anbau/Wiederherstellung einer Außentreppe
+- TOP 3.2.5.: Fällungsantrag für eine Birke, Reifenstuelstr. 1
+- TOP 3.3.1.: Instandsetzung der Ludwigsbrücken, Antrag auf wasserrechtliche Anlagengenehmigung des Baureferates
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Bauvorhaben Reichenbachstraße 51 (s. Vorbescheid TOP 2019.06 B 3.1.17)
+- TOP 5.2.: Bürgeranliegen, Baum als Natur(stadt)-Denkmal
+- TOP 5.3.: Bürgeranliegen, Grünfläche Dreimühlen- / Ecke Reifenstuelstraße
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Entsorgung des Mülls (speziell Glas) von den Wertstoffinseln
+- TOP 1.2.: Aufstellen von Mülleimern, Flaschenbehältern etc. von den Gastronomiebetreibern auf deren Freischankflächen bzw. vor deren Lokalen (erneut aus 06/19)
+- TOP 1.3.: Spätere Mahd der blühenden Isarauen als Bienenschutzmaßnahme Instandsetzung des Fußwegs entlang der Isar nach dem Hochwasserschäden
+- TOP 1.4.: Information bezüglich der Einsätze des privaten Sicherheitsdienstes an der Isar
+- TOP 1.5.: Fahrradstraße Schmellerstraße als Radl-Route zum Kulturzentrum Luise
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Antrag auf Genehmigung einer Freischankfläche, Goethestraße 11 / Schwanthalerstraße 38
+- TOP 2.1.2.: Antrag auf Genehmigung einer Freischankfläche, Thalkirchner Straße 71
+- TOP 2.1.3.: Antrag auf Genehmigung einer Freischankfläche, Bavariaring 5
+- TOP 2.1.4.: Bitte der Bezirksinspektion um Prüfung des Beschlusses vom 25.06.2019 zum Freischankflächenantrag, Goethestraße 40
+- TOP 2.3.1.: (E) Verbot privater Silvesterfeuerwerke in ganz München
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Veranstaltung „Queer Outdoor Cafe" am 15.08.2019, Karl-Heinrich-Ulrichs-Platz
+- TOP 3.1.2.: Nachbarschaftsfest in der Thalkirchner Straße am 31.08.2019 (Ersatztermin am 07.09.2019)
+- TOP 3.1.3.: Straßenfest des Schwulen Kommunikations- und Kulturzentrums e.V. (SUB) am 10.08.2019
+- TOP 3.2.1.: Neue (Zwischen-) Haltestelle Buslinie 132 – Sachstandsmitteilung (Initiative: Rudolf Cermak)
+- TOP 3.2.2.: Fahrradstellplätze am Zenettiplatz
+- TOP 3.3: Sonstiges
+- TOP 3.3.1.: Antrag für eine Fahrradabstellfläche in der Thalkirchner Straße 88 (vertagt aus 05/19, 06/19)
+- TOP 3.3.2.: Angebot des Konfliktmanagements von AKIM im Fall „Gans oder gar nicht“, Pestalozzistraße 8
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.2.: Bürgeranliegen, Ladeberechtigung für das Geschäft am Kapuzinerplatz 2
+- TOP 5.3.: Bürgeranliegen, Parkplätze in der Corneliusstraße 23
+- TOP 5.4.: Bürgeranliegen, Glascontainer an der Theresienwiese
+- TOP 5.5.: Bürgeranliegen, Geruchsbelästigung durch den Schlachthof
+- TOP 5.8.: Bürgeranliegen, Gefahrenstellen im Radverkehr, Glockenbachviertel
+- TOP 5.9.: Bürgeranliegen, Ausweisung der Tumblingerstraße als Tempo-30-Zone
+- TOP 5.10.: Bürgeranliegen, Regelmäßige Blockade des Radweges durch Belieferung der LIDL-Filiale in der Zweibrückenstraße
+- TOP 5.11.: Bürgeranliegen, Radlsicherheit an der Baustelle Königshof
+- TOP D: BA-Angelegenheiten
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Baulicher Emissions- und Lärmschutz für den Spielplatz Dreimühlenstraße, Empfehlung Nr. 14-20 / E 02303 der Bürgerversammlung am 08.11.2018, Sitzungsvorlage Nr. 14-20 / V 14781
+- TOP A 4.4.: Schreiben des Direktoriums zum Antrag auf Budgetmittel des BA 2; eigene Veranstaltung „Anwohner-Info / Beteiligung, Kinderprogramm und Stadtteilführungen am 29.06.2019“
+- TOP A 4.5.: Mieterinnen und Mieter schützen II: Erhaltungssatzungen ausbauen und aufgrund der besonderen Situation auf München ausweiten; Sitzungsvorlage Nr. 14-20 / V 14805
+- TOP A 4.6.: Erhaltungssatzungen weiterentwickeln; Sitzungsvorlage Nr. 14-20 / V 15423
+- TOP A 4.7.: Jour fixe des Kulturreferenten mit den Bezirksausschüssen - Protokoll der Sitzung vom 09.05.2019
+- TOP A 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP B 4.3.: (U) Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum Sachstand und weiteres Vorgehen
+- TOP B 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.5.: (U) Saisonale Umnutzung von Straßenräumen a) Temporäre Interventionen im Öffentlichen Raum b) Zwei Ansätze temporärer Interventionen im Straßenraum c) Behandlung der Anträge und Empfehlungen ...
+- TOP B 4.6.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP B 4.7.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP B 4.8.: (U) Entwicklung Viehhofgelände Zenettistraße (südlich), Thalkirchner Straße (westlich), Bahnlinie München-Rosenheim (nördlich), Tumblingerstraße (östlich) Masterplanung -Bekanntgabe- Stadtbezirk 02 – Ludwigsvorstadt-Isarvorstadt
+- TOP B 4.9.: (U) Generalinstandsetzung der beiden Ludwigsbrücken über die Isar Innere Ludwigsbrücke (BW 33/10A) Äußere Ludwigsbrücke (BW 33/10B) im 1. Stadtbezirk Altstadt - Lehel im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 25.000.000 Euro (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH: 5.000.000 Euro) 1. Projektgenehmigung 2. Genehmigung zur Durchführung der Vorwegmaßnahmen 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 4. Fortschreibung des Mehrjahresinvestitionsprogrammes 2019 - 2023, Unterabschnitt 6300 "Gemeindestraßen"
+- TOP B 4.10.: (U) Gestaltung einer romantischen Ruine auf der Bastion der Corneliusbrücke Antrag Nr. 08-14 / A 04110 von Herrn Stadtrat Josef Schmid, Herrn Stadtrat Richard Quaas, Herrn Stadtrat Georg Schlagbauer und Herrn Stadtrat Mario Schmidbauer vom 18.03.2013 Antrag Nr. 08-14 / B 04682 des Bezirksausschusses des Stadtbezirkes 2 Ludwigsvorstadt - Isarvorstadt vom 19.03.2013
+- TOP B 4.11.: Genehmigung Baumfällungsantrag, Museumsinsel 1
+- TOP B 4.12.: Abdruck des Vorbescheides, Goethestraße 42: Abbruch zweier Bürogebäude / Neuerrichtung zweier Bürogebäude mit 3-geschossiger Unterkellerung und Anschluss an bestehende Tiefgarage
+- TOP B 4.13.: München Modell und Förderung von Baugemeinschaften und partizipativen Wohnformen; Sitzungsvorlagen Nr. 14-20 / V 15241
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichen Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP C 4.6.: Umgestaltung der Einmündung Tumblinger Straße/Ruppertstraße angehen
+- TOP C 4.7.: Wildtiere bei Zirkusgastspielen auf der Theresienwiese
+- TOP C 4.8.: Verbesserung der Querung Thalkirchner Straße Höhe der Einmündungen Ehrengut-/Reifenstuelstraße
+- TOP C 4.9.: (U) Verbesserung der Abstellsituation für Fahrräder Entfernung von aufgegebenen Fahrrädern und Schrotträdern Evaluation
+- TOP C 4.10.: Verzicht auf den Verkauf alkoholischer Getränke ab 22 Uhr, BV-Anfrage Nr. 08-14 / Q 00003
+- TOP C 4.11.: Parkpflegewerk Theresienwiese - Protokoll der Zwischenpräsentation am 11.06.2018
+- TOP C 4.12.: Beschilderung der E-Parkplätze am Glockenbach - Antwort des Kreisverwaltungsreferat
+- TOP C 4.13.: Einfärbung dreier „Zebrastreifen“ in Regenbogenfarben anlässlich des 50. Jubiläumsjahr des Christopher Street Days
+- TOP C 4.14.: Eilentscheidung zum Straßenfest „Team München Festival“ am 20.07.2019, Hans-Sachs-Straße / Ickstattstraße
+- TOP C 4.15.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP C 4.16.: Rotfärbung Radweg Holzkirchner Bahnhof
+- TOP C 4.17.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP C 4.18.: Oktoberfest 2018, Schlussbericht; Sitzungsvorlage Nr. 14-20 / V 13615
+- TOP C 4.19.: Schlechter Zustand des Fahrradweges zwischen Kapuzinerstraße und Wittelsbacherbrücke, Antwortschreiben des Baureferates
+- TOP C 4.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP C 4.21.: Wildtiere bei Zirkusgastspielen auf der Theresienwiese (Teil a + c)
+- TOP C 4.22.: Situation für Radfahrende an der Einmündung Corneliusstraße/Erhardtstraße im Zusammenhang mit der Verlegung der Bushaltestelle verbessern
+- TOP C 4.23.: Fußgängerüberweg in der Auenstraße / Maximilianskirche, Zwischenstandsmeldung des KVR
+- TOP C 4.24.: Mülleimer und Hundekottütenspender am Goetheplatz
+- TOP C 4.25.: Zustimmung durch Eilentscheidung zum Straßenfest in der Reichenbachstraße am 27.07. und 28.07.2019
+- TOP C 4.26.: Pilotprojekt „Schnelle Radverbindungen für den Münchner Norden“; Sitzungsvorlage Nr. 14-20 / V 14925
+- TOP C 4.27.: Sharing-Mobility – Grundsatzbeschluss; Sitzungsvorlage Nr. 14-20 / V 15209
+- TOP C 4.28.: Antwort auf Bürgeranliegen „Urbane Wildästhetik an der Isar“ (s. TOP 2019.06 C 5.5)
+- TOP C 4.29.: Grünfläche am Goetheplatz
+- TOP C 4.30.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV, Bahnhofplatz 5 / Arnuflstraße 1
+- TOP C 4.31.: Antwort auf Bürgeraniegen, Fußgängerüberweg Waltherstraße westlich Maistraße
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Informationsschreiben – BA 01/19, Einhaltung der Anhörungsfrist
+- TOP D 4.2.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP E 2: Bereich Besondere Angelegenheiten
