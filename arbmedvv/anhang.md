@@ -50,7 +50,7 @@ wenn
   f) Tätigkeiten mit Benutzung von Naturgummilatexhandschuhen mit mehr als 30 Mikrogramm Protein je Gramm im Handschuhmaterial,
   g) Tätigkeiten mit dermaler Gefährdung oder inhalativer Exposition mit Gesundheitsgefährdung, verursacht durch Bestandteile unausgehärteter Epoxidharze, insbesondere durch Versprühen von Epoxidharzen,
   h) Tätigkeiten mit Exposition gegenüber Blei und anorganischen Bleiverbindungen bei Überschreitung einer Luftkonzentration von 0,075 Milligramm pro Kubikmeter,
-  i) Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung eingestufte Faserstäube freigesetzt werden können,
+  i) Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung eingestufte Faserstäube freigesetzt werden können,
   j) Tätigkeiten mit Exposition gegenüber Mehlstaub bei Überschreitung einer Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft.
 (2)
 Angebotsvorsorge bei:
@@ -199,7 +199,8 @@ Angebotsvorsorge bei:
 4. Tätigkeiten mit wesentlich erhöhten körperlichen Belastungen, die mit Gesundheitsgefährdungen für das Muskel-Skelett-System verbunden sind durch
   a) Lastenhandhabung beim Heben, Halten, Tragen, Ziehen oder Schieben von Lasten,
   b) repetitive manuelle Tätigkeiten oder
-  c) Arbeiten in erzwungenen Körperhaltungen im Knien, in langdauerndem Rumpfbeugen oder -drehen oder in vergleichbaren Zwangshaltungen.
+  c) Arbeiten in erzwungenen Körperhaltungen im Knien, in langdauerndem Rumpfbeugen oder -drehen oder in vergleichbaren Zwangshaltungen;
+5. Tätigkeiten im Freien mit intensiver Belastung durch natürliche UV-Strahlung von regelmäßig einer Stunde oder mehr je Tag. Der Arbeitgeber hat Maßnahmen des Arbeitsschutzes zu treffen, durch die die Belastung durch natürliche UV-Strahlung möglichst gering gehalten wird.
 Teil 4
 Sonstige Tätigkeiten
 (1)

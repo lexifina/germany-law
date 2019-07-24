@@ -99,7 +99,7 @@
 - [§ 63 Allgemeine Verhaltensregeln; Verordnungsermächtigung](0063.md)
 - [§ 64 Besondere Verhaltensregeln bei der Erbringung von Anlageberatung und Finanzportfolioverwaltung; Verordnungsermächtigung](0064.md)
 - [§ 65 Selbstauskunft bei der Vermittlung des Vertragsschlusses über eine Vermögensanlage im Sinne des § 2a des Vermögensanlagengesetzes](0065.md)
-- [§ 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 3c des Wertpapierprospektgesetzes](0065a.md)
+- [§ 65a Selbstauskunft bei der Vermittlung des Vertragsschlusses über Wertpapiere im Sinne des § 6 des Wertpapierprospektgesetzes](0065a.md)
 - [§ 66 Ausnahmen für Immobiliar-Verbraucherdarlehensverträge](0066.md)
 - [§ 67 Kunden; Verordnungsermächtigung](0067.md)
 - [§ 68 Geschäfte mit geeigneten Gegenparteien; Verordnungsermächtigung](0068.md)
@@ -200,3 +200,4 @@
 - [§ 136 Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz](0136.md)
 - [§ 137 Übergangsvorschrift für Verstöße gegen die §§ 38 und 39 in der bis zum Ablauf des 1. Juli 2016 geltenden Fassung dieses Gesetzes](0137.md)
 - [§ 138 Übergangsvorschrift zur Richtlinie 2014/65/EU über Märkte für Finanzinstrumente](0138.md)
+- [§ 139 Übergangsvorschriften zum Gesetz zur weiteren Ausführung der EU-Prospektverordnung und zur Änderung von Finanzmarktgesetzen](0139.md)

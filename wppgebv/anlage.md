@@ -1,18 +1,60 @@
 # Anlage (zu § 2)Gebührenverzeichnis
 
 | Nr. | Gebührentatbestand | Gebühr in Euro |
-| 1 | Für die Hinterlegung der endgültigen Bedingungen des Angebots (§ 6 Abs. 3 Satz 2, auch in Verbindung mit Satz 3 WpPG) oder des endgültigen Emissionspreises und des Emissionsvolumens (§ 8 Abs. 1 Satz 9 WpPG) | 1,55 |
-| 2 | (weggefallen) |  |
-| 3 | Billigung eines Prospekts, der als ein einziges Dokument im Sinne des § 12 Abs. 1 Satz 1, 1. Alt. des WpPG erstellt worden ist, oder eines Basisprospekts im Sinne des § 6 Abs. 1 WpPG (§ 13 Abs. 1 und § 14 Abs. 1 Satz 1 WpPG) und für deren Hinterlegung | 6 500 |
-| 4 | Billigung eines Registrierungsformulars im Sinne des § 12 Abs. 1 Satz 2 und 3 WpPG (§ 13 Abs. 1 und § 14 Abs. 1 Satz 1 WpPG) und für dessen Hinterlegung | 3 250 |
-| 5 | Billigung einer Wertpapierbeschreibung und Zusammenfassung im Sinne des § 12 Abs. 1 Satz 2, 4 und 5 WpPG oder eines Basisprospekts im Sinne des § 6 Abs. 1 WpPG in den Fällen, in denen nach Artikel 26 Abs. 4 der Verordnung (EG) Nr. 809/2004 der Kommission vom 29. April 2004 die Informationen eines Registrierungsformulars durch Verweis einbezogen wurden (§ 13 Abs. 1 und § 14 Abs. 1 Satz 1 WpPG) und für deren Hinterlegung | 3 250 |
-| 6 | Anordnung, dass die Werbung für jeweils zehn aufeinanderfolgende Tage auszusetzen ist (§ 15 Abs. 6 Satz 1 WpPG) | 1 250 |
-| 7 | Untersagung der Werbung (§ 15 Abs. 6 Satz 2 WpPG) | 2 000 |
-| 8 | Billigung eines Nachtrags im Sinne des § 16 Abs. 1 WpPG (§ 16 Abs. 1 Satz 3 in Verbindung mit § 13 Abs. 1 WpPG) und für dessen Hinterlegung | 84 |
-| 9 | Übermittlung einer Bescheinigung im Sinne des § 18 Abs. 1 WpPG über die Billigung des Prospekts für jeden Mitgliedstaat, an dessen zuständige Behörde eine solche Bescheinigung übermittelt wird (§ 18 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2 WpPG) | 8,55 |
-| 10 | Gestattung nach § 19 Abs. 1 Satz 2 WpPG | 100 |
-| 11 | Billigung eines Prospekts, der von einem Emittenten nach den für ihn geltenden Rechtsvorschriften eines Staates, der nicht Staat des Europäischen Wirtschaftsraums ist, erstellt worden ist, für ein öffentliches Angebot oder die Zulassung zum Handel an einem organisierten Markt und für dessen Hinterlegung (§ 20 Abs. 1 und § 14 Abs. 1 Satz 1 WpPG) | 9 750 |
-| 12 | Untersagung eines öffentlichen Angebots (§ 26 Abs. 4 Satz 1 WpPG) | 4 000 |
-| 13 | Anordnung, dass ein öffentliches Angebot für höchstens zehn Tage auszusetzen ist (§ 26 Abs. 4 Satz 2 WpPG) | 2 500 |
-| 14 | Gestattung der Veröffentlichung eines Wertpapier-Informationsblatts und für dessen Hinterlegung (§ 3a Absatz 1 und 2 WpPG) | 500 |
-| 15 | Für die Hinterlegung eines aktualisierten Wertpapier-Informationsblatts (§ 3a Absatz 8 WpPG) | 55 |
+| 1. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage des Wertpapierprospektgesetzes (WpPG) |  |
+| 1.1 | Gestattung der Veröffentlichung eines Wertpapier-Informationsblatts und dessen Aufbewahrung | 500 |
+|  | (§ 4 Absatz 1 und 2 WpPG) |  |
+| 1.2 | Aufbewahrung eines aktualisierten Wertpapier-Informationsblatts | 55 |
+|  | (§ 4 Absatz 8 WpPG) |  |
+| 1.3 | Untersagung eines öffentlichen Angebots | 4 000 |
+|  | (§ 18 Absatz 4 Satz 1 und 2 WpPG) |  |
+| 1.4 | Anordnung, dass ein öffentliches Angebot nach § 18 Absatz 4 Satz 4 WpPG für höchstens zehn Tage oder nach § 18 Absatz 7 zweiter Halbsatz zweite Variante WpPG auszusetzen ist | 2 500 |
+| 1.5 | Untersagung der Werbung | 2 000 |
+|  | (§ 18 Absatz 5 Satz 2 zweiter Halbsatz erste Variante WpPG) |  |
+| 1.6 | Anordnung, dass die Werbung für jeweils zehn aufeinanderfolgende Tage auszusetzen ist | 1 250 |
+|  | (§ 18 Absatz 5 Satz 2 zweiter Halbsatz zweite Variante WpPG) |  |
+| 1.7 | Anordnung, dass ein öffentliches Angebot zu beschränken ist | 2 500 |
+|  | (§ 18 Absatz 7 zweiter Halbsatz dritte Variante WpPG) |  |
+| 1.8 | Hinterlegung der endgültigen Bedingungen des Angebots oder des endgültigen Emissionspreises und des Emissionsvolumens | 1,55 |
+|  | (§ 6 Absatz 3 Satz 2, auch in Verbindung mit Satz 3 WpPG in der bis zum 20. Juli 2019 geltenden Fassung, |  |
+|  | § 8 Absatz 1 Satz 9 WpPG in der bis zum 20. Juli 2019 geltenden Fassung) |  |
+| 1.9 | Billigung eines Nachtrags im Sinne des § 16 Absatz 1 WpPG in der bis zum 20. Juli 2019 geltenden Fassung und dessen Hinterlegung | 84 |
+|  | (§ 16 Absatz 1 Satz 3 in Verbindung mit § 13 Absatz 1 WpPG in der bis zum 20. Juli 2019 geltenden Fassung) |  |
+| 1.10 | Übermittlung einer Bescheinigung im Sinne des § 18 Absatz 1 WpPG in der bis zum 20. Juli 2019 geltenden Fassung über die Billigung des Prospekts für jeden Mitgliedstaat, an dessen zuständige Behörde eine solche Bescheinigung übermittelt wird | 8,55 |
+|  | (§ 18 Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 WpPG in der bis zum 20. Juli 2019 geltenden Fassung) |  |
+| 2. | Individuell zurechenbare öffentliche Leistungen auf der Grundlage der Verordnung (EU) 2017/1129 |  |
+| 2.1 | Billigung eines einheitlichen Registrierungsformulars im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2017/1129 und dessen Aufbewahrung oder | 3 250 |
+|  | Billigung eines Registrierungsformulars im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 der Verordnung (EU) 2017/1129 und dessen Aufbewahrung |  |
+|  | (Artikel 9 Absatz 2 Unterabsatz 1 der Verordnung (EU) 2017/1129, |  |
+|  | Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.2 | Billigung eines speziellen Registrierungsformulars für einen vereinfachten Prospekt auf der Grundlage der vereinfachten Offenlegungsregelung für Sekundäremissionen im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 14 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129 und dessen Aufbewahrung | 2 437,50 |
+|  | (Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.3 | Billigung eines speziellen Registrierungsformulars für einen EU-Wachstumsprospekt im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 2 und des Artikels 15 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129 und dessen Aufbewahrung | 2 437,50 |
+|  | (Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.4 | Hinterlegung eines einheitlichen Registrierungsformulars im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2017/1129 ohne vorherige Billigung und dessen Aufbewahrung | 65 |
+|  | (Artikel 9 Absatz 2 Unterabsatz 2 der Verordnung (EU) 2017/1129) |  |
+| 2.5 | Hinterlegung einer Änderung zu einem einheitlichen Registrierungsformular im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2017/1129 und deren Aufbewahrung | 65 |
+|  | (Artikel 9 Absatz 7 der Verordnung (EU) 2017/1129) |  |
+| 2.6 | Aufbewahrung der endgültigen Bedingungen des Angebots und der Zusammenfassung für die einzelne Emission oder des endgültigen Emissionsvolumens | 1,55 |
+|  | (Artikel 8 Absatz 5 der Verordnung (EU) 2017/1129, |  |
+|  | Artikel 8 Absatz 8 und 9 der Verordnung (EU) 2017/1129, |  |
+|  | Artikel 17 Absatz 2 der Verordnung (EU) 2017/1129) |  |
+| 2.7 | Billigung von Änderungen eines einheitlichen Registrierungsformulars im Sinne des Artikels 10 Absatz 3 Unterabsatz 2 oder 3 der Verordnung (EU) 2017/1129 oder Billigung von Änderungen eines einheitlichen Registrierungsformulars, die nach Artikel 26 Absatz 2 der Verordnung (EU) 2017/1129 deren Notifizierung vorausgeht | 84 |
+|  | (Artikel 20 Absatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.8 | Billigung eines Prospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 6 Absatz 3 Unterabsatz 1 erste Alternative oder des Artikels 8 Absatz 6 Unterabsatz 1 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist, und dessen Aufbewahrung | 6 500 |
+|  | (Artikel 20 Absatz 1 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.9 | Billigung einer Wertpapierbeschreibung und Zusammenfassung im Sinne des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129 und deren Aufbewahrung | 3 250 |
+|  | (Artikel 20 Absatz 1 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.10 | Billigung eines vereinfachten Prospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 14 Absatz 1 und des Artikels 6 Absatz 3 erste Alternative oder Artikel 8 Absatz 6 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist, und dessen Aufbewahrung | 4 875 |
+|  | (Artikel 20 Absatz 1 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.11 | Billigung einer Wertpapierbeschreibung und Zusammenfassung für einen vereinfachten Prospekt auf der Grundlage der vereinfachten Offenlegungsregelung für Sekundäremissionen im Sinne des Artikels 14 Absatz 1 und des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129 und dessen Aufbewahrung | 2 437,50 |
+|  | (Artikel 20 Absatz 1 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.12 | Billigung eines EU-Wachstumsprospekts oder eines Basisprospekts, der als einziges Dokument im Sinne des Artikels 15 Absatz 1 und des Artikels 6 Absatz 3 erste Alternative oder des Artikels 8 Absatz 6 erste Alternative der Verordnung (EU) 2017/1129 erstellt worden ist, und dessen Aufbewahrung | 4 875 |
+|  | (Artikel 20 Absatz 1 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.13 | Billigung einer speziellen Wertpapierbeschreibung und speziellen Zusammenfassung im Sinne des Artikels 15 Absatz 1 Unterabsatz 2 und des Artikels 6 Absatz 3 Unterabsatz 2 Satz 1 und 3 der Verordnung (EU) 2017/1129 und deren Aufbewahrung | 2 437,50 |
+|  | (Artikel 20 Absatz 1 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.14 | Billigung eines Nachtrags im Sinne des Artikels 10 Absatz 1 Unterabsatz 2 der Verordnung (EU) 2017/1129 und dessen Aufbewahrung oder | 84 |
+|  | Billigung eines Nachtrags im Sinne des Artikels 23 Absatz 1 Unterabsatz 1 der Verordnung (EU) 2017/1129 |  |
+|  | (Artikel 23 Absatz 1 Unterabsatz 2 und Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |
+| 2.15 | Billigung eines Prospekts, der von einem Emittenten nach den für ihn geltenden Rechtsvorschriften eines Staates, der nicht Staat des Europäischen Wirtschaftsraums ist, erstellt worden ist, für ein öffentliches Angebot oder die Zulassung zum Handel an einem geregelten Markt und dessen Aufbewahrung | 9 750 |
+|  | (Artikel 29 Absatz 1 und Artikel 28 Unterabsatz 2 i. V. m. Artikel 21 Absatz 5 Unterabsatz 1 der Verordnung (EU) 2017/1129) |  |

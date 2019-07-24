@@ -16,6 +16,7 @@
 
 - [§ 7 Zuständigkeit](0007.md)
 - [§ 7a Datenübermittlung](0007a.md)
+- [§ 7b Automatisiertes Abrufverfahren](0007b.md)
 - [§ 8 Aufbringung der Mittel](0008.md)
 - [§ 9 Antrag](0009.md)
 - [§ 10 Auskunftspflicht](0010.md)
