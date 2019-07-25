@@ -1,0 +1,127 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2019-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5087953
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5087953
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 10: Unterrichtungen
+- TOP 10.1.3.: Verwendungsnachweise Stadtbezirksbudget
+- TOP 10.1.4.: Sachberichte Stadtbezirksbudget
+- TOP 10.4.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 7.4.2 Vogesenstraße 46-46a, Fl.Nr.: 655/0 - Neubau eines Doppelhauses mit Carport - Vordergebäude
+- TOP 1.3.2.: 7.4.3 Martin-Empl-Ring 14 / RGB, Fl.Nr.: 1504/1 - Neubau eines Mehrfamilienhauses (9 WE) mit Nebengebäude und Tiefgarage
+- TOP 1.3.3.: 7.4.4 Riemer Straße 268, Fl.Nr.: 52/0 - Neubau Verwaltungsgebäude Tierheim und Umbau Verwaltung Tierkrematorium
+- TOP 1.3.4.: 8.2.17 Martin-Empl-Ring 14 8.2.18 Riemer Straße 268 8.2.19 Vogesenstraße 46-46a 8.2.20 Scheibenwiesenweg 12 8.2.21 Von-Gravenreuth-Straße 29 8.2.22 Zauberwaldstraße 3
+- TOP 2.1.1.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00 € / Az. 0262.0-15-0309
+- TOP 2.1.2.: (E) Stadtbezirksbudget SOS Kinderdorf e.V. Sommerfest am 20.07.2019 1.100,00 € / Az. 0262.0-15-0307
+- TOP 2.1.3.: (E) Stadtbezirksbudget DPSG Messestadt-Riem Stamm Galileo Galilei Stammeswochenende in Zellhof vom 27.-29.09.2019 198,00 € / Az. 0262.0-15-0308
+- TOP 2.2.1.: (E) Anbringung von Geländern auf dem Gehweg der Bahnstraße Empfehlung Nr. 14-20 / E 02263 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 08.11.2018
+- TOP 2.2.2.: (E) + (U) Sanierung des Truderinger Ortskern und der Kreuzung Truderinger Straße / Schmuckerweg Empfehlung Nr. 14-20 / E 02258 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 2.2.3.: Entscheidung über eine Veranstaltung auf öffentlichen Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010; Abhalten eines Flohmarktes am 28.09.2019 (Ersatztermin: 05.10.2019) auf dem Platz der Menschenrechte Frist: 26.08.2019
+- TOP 3.2.1.: Vorschlag zum Stadtbezirksbudget / BSL - ein Bürgersteig in der Karlsburger Straße
+- TOP 3.2.2.: Busbahnhof Trudering: Schaltung der Fußgängerampel
+- TOP 3.2.3.: Scheibenwiesenweg: Gefährdung der Schulwegsicherheit durch Rad- und Kraftradfahrer sowie abgestellte Fahrzeuge im Rettungsweg
+- TOP 3.2.4.: Damaschkestraße: Schwerlastverkehr s. auch BA-Antrag 14-20 / B 03218 Damaschkestraße - Verkehrssituation: Folgeantrag zu BA-Initiative 14-20 / I 01253 - Damaschkestraße: Busverkehr
+- TOP 3.2.5.: Am Hüllgraben / Paul-Henri-Spaak Straße: Kenntlichmachung des (Zweirichtungs-)Radweges
+- TOP 3.2.6.: U-Bahnhof Messestadt-Ost: Installation zusätzlicher Fahrradständer
+- TOP 3.2.7.: Messestadt: abgestellte Fahrzeuge einer Autovermietung
+- TOP 3.3.1.: Demografiebericht 2040: Neubebauung Kirchtrudering
+- TOP 3.5.1.: Messestadt Riem: Beleuchtung der neuen Streetballanlage
+- TOP 4.1.: Mehr Bunt in der Messestadt wagen
+- TOP 4.2.: Willy-Brandt-Platz - Voraussetzungen zur Umgestaltung darstellen
+- TOP 4.3.: Bus wartet wirklich auf U-Bahn - Anschlusssicherung 2.0 in Trudering endlich realisieren
+- TOP 5.1.: Busstation Trudering Bf entschlossen erweitern Vertagung aus der Maisitzung 2019
+- TOP 5.2.: Marianne-Plehn-Straße: nächtliche Ruhestörung / Entfernung von Sitzgelegenheiten
+- TOP 5.3.: Gymnasium Trudering: defekte Querlüftung in der Sporthalle
+- TOP 5.4.: Anschluss der Kreillerstraße im Teilbereich Wasserburger Landstraße/Bajuwarenstrasse und Schatzbogen an den ÖPNV
+- TOP 5.5.: Thomas-Hauser-Straße: Erreichbarkeit der KITA von Berg am Laim kommend / Geh- und Radwegsituation
+- TOP 5.6.: Gestaltungskonzept Unnützwiese als Diskussionsgrundlage zur Bürgerbeteiligung
+- TOP 5.7.: Konkrete Schritte hin zu verträglichen, nachhaltigen und intelligenten Beleuchtungslösungen
+- TOP 5.8.: verkehrsrechtliche Anordnung nach § 45 StVO: Erleichterte streckenbezogene Anordnung von Tempo 30 vor Kindergärten und ähnliche Einrichtungen Wasserburger Landstraße 148 Antwortschreiben des RBS/KITA auf das Schreiben des BA im Zusammenhang mit der Kenntnisnahme aus der Maisitzung (TOP 5.8)
+- TOP 5.9.: S4-S6-Fahrplanverwerfungen beseitigen - fußgängerfreundliche MVV-Fahrplanauskünfte zur Regel machen Schreiben des OB - bereits mit BA-Antrag 14-20 / B 4561 in der Maisitzung zur Kenntnis genommen
+- TOP 5.10.: Verbindung zwischen Kerschensteinerstraße und Riemarcaden asphaltieren hier: Schreiben des BauR, dass Herstellung des Weges (BA-Antrag 14-20 / B 04268) erst nach Änderung des Bebauungsplans erfolgen kann gemeinsame Behandlung mit TOP 5.11
+- TOP 5.11.: Verbindung zwischen Kerschensteinerstr. und Riemarcaden gemeinsame Behandlung mit TOP 5.10
+- TOP 5.12.: Drohnenflüge am Riemer See
+- TOP 5.13.: Na also, es geht also doch: Infotafeln für städtische Gebäude auch in Trudering-Riem
+- TOP 5.14.: Am Mittelfeld / Kirtaweg: Installation eines Verkehrsspiegels
+- TOP 7.1: UA Allgemeines
+- TOP 7.1.1.: Veranstaltung in städtischen Grünanlagen, Nachtmarathon im Riemer Park, De-Gasperi-Bogen am 26./27.10.2019 Frist: 13.09.2019
+- TOP 7.1.2.: Manchesterplatz: Sondernutzungserlaubnis für die Aufstellung einer Glasvitrine erneute Stellungnahme des BA
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: verkehrsrechtliche Anordnung nach § 45 StVO: Haltverbot gegenüber Mönchbergstraße 18 Frist: 10.08.2019
+- TOP 7.2.2.: Park-/Liefersituation in der Kreillerstraße nochmalige Anhörung zur Einrichtung einer Ladezone Frist: 16.08.2019
+- TOP 7.2.3.: verkehrsrechtliche Anordnung nach § 45 StVO: absolutes Haltverbot Karotschstraße Südseite östlich der Kreuzung Am Mitterfeld Frist: 14.08.2019
+- TOP 7.2.4.: Austausch von Lichtsignalanlagen Jagdhornstraße / Wasserburger Landstraße Frist: 16.08.2019
+- TOP 7.2.5.: Austausch von Lichtsignalanlagen Friedenspromenade / Gartenstadtstraße Frist: 20.08.2019
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Halfinger Str. 47, Fl.Nr.: 345/5 - Bebauung Eckgrundstücke Halfinger Str. 47 / Truderinger Str. 210 - VORBESCHEID
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.6: UA Umwelt
+- TOP 7.6.1.: Markgrafenstraße: Umwandlung der Rasenflächen in der Grünanlage in Langgrasflächen Vertagung aus der Junisitzung 2019
+- TOP 8.1.1.: Geitnerweg 8 Jagdhornstraße 23 Selbhornstraße 26 Theodor-Kober-Straße 4 Waldschulstraße 69 Wasserburger Landstraße 245
+- TOP 8.2.1.: Am Birkicht 10 Am Moosfeld 56 Bognerhofweg 6 Friedenspromenade 104 Graf-Lehndorff-Straße 29 Halfinger Straße 47 Heilwigstraße 59 - durch UNB abgelehnt Herderwiesweg 6 Hinterrißstraße 6 Ickelsamerstraße 64 Kurzhuberstaße 3 Riemer Straße 343 Ruppanerstraße 23 Schatzbogen 37 Stahlgruberring 11 Von-Erckert-Straße 21
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Anzeige über das Abbrennen eines Feuerwerks (durch Pyrotechniker) auf Privatgrund Straße: Lehrer-Götz-Weg 23 Datum: 12.07.2019 Anlass: Veranstaltung der Pfarrei
+- TOP 10.1.2.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 10.1.3.1: Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V.; Anschaffung einer Ausbildungsbox mit Nebelmaschine, Stromerzeuger und Kabel; 1.898,98€
+- TOP 10.1.3.2: MOBILE Produktionen Bernoulli; Theaterprojekt "Theodor Fontane: Ein weites Feld" vom 07.01.2019 - 29.03.2019; 2.300,00€
+- TOP 10.1.3.3: Freunde der Freiwilligen Feuerwehr Trudering e.V.; Anschaffung einer Audioanlage; 3.872,92€
+- TOP 10.1.3.4: Mittagsbetreuung Lehrer-Götz-Weg VI e.V.; Auf- und Ausbau der neuen Mittagsbetreuung; 2.384,31€
+- TOP 10.1.3.5: Gewerbe & Eigentümerverband Trudering e.V. (GEVT e.V.); Adventleuchten ab 26.11.2018; 6.584,04€
+- TOP 10.1.4.1: Freunde der Abteilung Waldtrudering der Freiwilligen Feuerwehr München e.V.; Anschaffung einer Ausbildungsbox mit Nebelmaschine, Stromerzeuger und Kabel; 1.898,98€
+- TOP 10.1.4.2: MOBILE Produktionen Bernoulli; Theaterprojekt "Theodor Fontane: Ein weites Feld" vom 07.01.2019 - 29.03.2019; 2.300,00€
+- TOP 10.1.4.3: Freunde der Freiwilligen Feuerwehr Trudering e.V.; Anschaffung einer Audioanlage; 3.872,92€
+- TOP 10.1.4.4: Gewerbe & Eigentümerverband Trudering e.V. (GEVT e.V.); Adventleuchten ab 26.11.2018; 6.584,04€
+- TOP 10.1.4.5: Freundeskreis des Sonderpädagogischen Förderzentrums München-Ost; Druck der Schülerzeitung "Eastsider" vom 15.-26.04.2019; 691,00 €
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 10.2.2.: Öffnung der Helenenstraße zwischen Wasserburger Landstraße und Dorotheenstraße für den gegenläufigen Radverkehr
+- TOP 10.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 10.3.2.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 10.3.3.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 10.3.4.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 10.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.9.: (E) + (U) Bebauungsplan mit Grünordnung Nr. 2119 - Fauststraße 90 Informationsgespräch zwischen den Vertretern des Referats für Stadtplanung und Bauordnung und den Vertretern der Bürgerinitiative Fauststr. 90 Empfehlung Nr. 14-20 / E 02259 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Nennung der Grundstücks-Güte "Landschaftsschutzgebiet" in der Fauststraße 90 Empfehlung Nr. 14-20 / E 02260 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Vorläufige Einstellung der Planungsmaßnahmen und Klärung von Rechtsverstößen auf dem Grundstück Fauststraße 90 Empfehlung Nr. 14-20 / E 02264 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Wiederherstellung der gerodeten Hecke auf dem Grundstück Fauststr. 90 Empfehlung Nr. 14-20 / E 02278 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Anfertigung einer Chronologie der Heckenrodung auf dem Grundstück Fauststr. 90 Empfehlung Nr. 14-20 / E 02279 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 10.3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: UA Planung
+- TOP 10.4.1.: (U) Vollzug der Zweckentfremdungssatzung Vollzug der Erhaltungssatzungen Genehmigungsvorbehalt bei Umwandlung von Mietwohnungen in Eigentumswohnungen in Erhaltungssatzungsgebieten Verordnung zur Stärkung des städtebaulichen Milieuschutzes vom 04.02.2014 Bekanntgabe der Jahresstatistik 2018
+- TOP 10.4.2.1: Wachtelweg 9 a
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.6: UA Umwelt
