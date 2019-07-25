@@ -1,0 +1,56 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2019-07-25T18:00:00+02:00
+- Ende: 2019-07-25T00:00:00+02:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1015
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/1015
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00040785.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00041617.pdf
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Durchführung einer Sitzung des Personalausschusses in der Ferienzeit - beschlossen
+- TOP 2: Bebauungsplan Nr. 71 "Am Wilhelmsbühl" - 1. Änderung u. Erweiterung Aufstellungsbeschluss u. Beschluss zur frühzeitigen Beteiligung der Öffentlichkeit u. der Träger öffentlicher Belange nach §§ 3.1 und 4.1 BauGB mit paralleler FNP-Änderung - beschlossen
+- TOP 3: Bebauungsplan Nr. 89 "Südlicher Hammerstielweg" - beschlossen
+- TOP 4: Weiterführung der Jugendsozialarbeit an der Mittelschule Kitzingen-Siedlung; Grundschule St. Hedwig; Grundschule Kitzingen-Siedlung - beschlossen
+- TOP 5: Weiterführung der Kooperationsvereinbarung mit dem AWO Bezirksverband Ufr. e.V. zur Ferienbetreuung für das Schuljahr 2019/2020 durch AWO Bezirksverband Ufr. e.V. - beschlossen
+- TOP 6: Schülerhort Kitzingen - Gebührenkalkulation für das kommende Hortjahr 2019/2020 - beschlossen
+- TOP 7: Mittagsbetreuung an der Grundschule Kitzingen-Siedlung durch die gfi - Hier: Nachtrag zum Trägerschaftsvertrag mit Defizitausgleichsregelung - beschlossen
+- TOP 8: Grundsatzbeschluss: Sanierungspaket Florian-Geyer-Halle - beschlossen
+- TOP 9: Auftragsvergaben
+- TOP 9.1: Öffentliche Ausschreibung gem. VOL/A für 4 Schulbuslinien und 3 Kindergartenbuslinien; Bekanntgabe der nichtöffentlichen Beschlussfassung - Ohne Abstimmung
+- TOP 10: B8 Kitzingen - Bau- und Unterhaltslast der Mühlbachverrohrung unter der B8 in der OD Kitzingen - hier: Abschluss einer entsprechenden Vereinbarung mit der Staatlichen Bauverwaltung - beschlossen
+- TOP 11: Städtebauförderung hier: Anpassung des Programmgebietes "Stadtumbau West" - beschlossen
+- TOP 12: Kommunales Förderprogramm der Stadt Kitzingen - beschlossen
+- TOP 13: Satzung über die Erhebung von Gebühren für die Benutzung der Bestattungseinrichtungen der Stadt Kitzingen (Friedhofsgebührensatzung); hier: 3. Änderungssatzung - beschlossen
+- TOP 14: Flurbereinigungsverfahren Etwashausen; hier: Erlass einer Änderungssatzung zum Flurbereinigungsplan gemäß § 58 Abs. 4 Flurbereinigungsgesetz (FlurbG); betroffene Grundstücke: 5264/3 (Teilfläche), 5248/2 (Teilfläche) - beschlossen
+- TOP 15: Haushaltsüberschreitung; HSt. 7080 6721 - Kläranlage Kitzingen - Unterhalt und Betrieb - Erstattungen an Partnergemeinden - beschlossen
+- TOP 16: Budgetabrechnungen für das Haushaltsjahr 2018
+- TOP 16.1: Beschlussentwürfe:
+- TOP 16.1.1: Budgetübertrag von 2018, UA 3400, Heimat- und Kulturpflege - beschlossen
+- TOP 16.1.2: Budgetabrechnung für das Haushaltsjahr 2018; Budget Bauhof - UA 7711 - beschlossen
+- TOP 16.2: Kenntnisnahmen:
+- TOP 16.2.1: Budgetabrechnung für das Haushaltsjahr 2018; Budget Verkehrsüberwachung - UA 1122, UA 6815 - Ohne Abstimmung
+- TOP 16.2.2: Budgetabrechnung für das Haushaltsjahr 2018; Budget Feuerwehr - UA 1300 - Ohne Abstimmung
+- TOP 16.2.3: Budgetabrechnung für das Haushaltsjahr 2018; Gesamtbudget "Sportanlagen" - UA 2151, 5601, 5602, 5603, 5651, 5652 - Ohne Abstimmung
+- TOP 16.2.4: Budgetübertrag von 2018; UA 3210 Städt. Museum - Ohne Abstimmung
+- TOP 16.2.5: Budgetabrechnung 2018; Budget Städt. Archiv - UA 3211 - Ohne Abstimmung
+- TOP 16.2.6: Budgetübertrag 2018 jungStil - Ohne Abstimmung
+- TOP 16.2.7: Budgetabrechnung für das Haushaltsjahr 2018; Gesamtbudget "Straßen, Wege, Plätze" - Ohne Abstimmung
+- TOP 16.2.8: Budgetabrechnung für das Haushaltsjahr 2018; Gesamtbudget "Abwasserbeseitigung" - Ohne Abstimmung
+- TOP 16.2.9: Budgetabrechnung 2018; - Ohne Abstimmung
+- TOP 16.2.10: Budgetabrechnung 2018; Budget Wohngrundstücke, sonstige bebaute Grundstücke - UA 8801, 8802 - Ohne Abstimmung
+- TOP 17: Anträge von Fraktionen und Gruppen
+- TOP 17.1: Antrag der KIK-Fraktion Nr. 175 vom 01.06.2019 - zurückgestellt
+- TOP 17.2: Antrag der KIK-Fraktion Nr. 176 vom 01.06.2019 Mittelfristige Maßnahmen und Eigeninitiative zur Förderung des Sozialen Wohnungsbaus in der Stadt Kitzingen - zurückgestellt
+- TOP 17.3: Antrag KIK-Fraktion Nr. 177/Juni 2019 - Herstellung kommunaler Hochbauprojekte durch einen Generalunternehmer (GU) - zurückgestellt
+- TOP 18: Berichtswesen
+- TOP 19: Sonstiges
+- TOP 19.1: Anfrage von Stadtrat Dr. Pfeiffle; Sonnensegel im Pausenhof der Grundschule Kitzingen-Siedlung
+- TOP 19.2: Anfrage von Stadtrat Christof; Energienutzungsplan
+- TOP 19.3: Anfrage von Stadträtin Stocker; Sonnensegel im Kindergarten Hohenfeld
