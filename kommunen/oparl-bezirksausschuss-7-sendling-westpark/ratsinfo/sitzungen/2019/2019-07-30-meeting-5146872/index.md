@@ -1,0 +1,150 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-07-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146872
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146872
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 37.37.1: Baulisten
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 43.43.1: Baumaßnahmen SWM
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 59.59.1: Bericht des Vorsitzenden über längerfristige Projekte (nicht-öffentlich)
+- TOP 59.59.2: Abgeschlossenheitsbescheinigungen
+- TOP 59.59.3: Mitteilung über Vorkaufsrecht
+- TOP 6.6.1: Baggerarbeiten an der Werdenfelsstraße
+- TOP 6.6.2: Wertstoffinsel in der Zillertalstraße
+- TOP 6.6.3: Parksituation in der Fernpaßstraße/Hinterbärenbadstraße
+- TOP 6.6.4: Denkmalgeschützte Mauer an der Fernpassschule
+- TOP 6.6.5: Haltverbot in der Werdenfelsstraße
+- TOP 6.6.6: Lärm im Westpark
+- TOP 6.6.7: Wiederherstellung der Radwegverbindung entlang des Heckenstallerparks-Südseite
+- TOP 6.6.8: Radweg und Fahrradstraße Gottfried-Böhm-Ring
+- TOP 6.6.9: Wendekreis Georg-Hager-Straße
+- TOP 6.6.10: Haltverbot-Schilder in der Werdenfelsstraße
+- TOP 7.7.1: Vorstellung MTV München von 1879 e.V. durch den Vorsitzenden
+- TOP 8.8.1: (E) Einrichtung von Behindertenparkplätzen an Aufzügen von U-/ S-Bahn in Sendling-Westpark und in Neuhausen-Nymphenburg
+- TOP 10.10.1: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00€, Az. 0262.0-7-0255
+- TOP 10.10.2: (E) Stadtbezirksbudget Caritas München Süd, Therapeutische Wohngemeinschaft Anschaffung einer Gartenbank für den Vorgarten 423,28€, Az. 0262.0-7-0254
+- TOP 10.10.3: (E) Stadtbezirksbudget Münchner Kreis für Volksmusik, Lied und Tanz e.V. Begegnung! Fest der Volkskulturen am 25./26.05.2019 10.900,00 € / Az. 0262.0-7-0237
+- TOP 10.10.4: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Fernpaßstraße Yoga-Workshop von September 2019 - Juli 2020 4.300,00 € / Az. 0262.0-7-0252
+- TOP 13.13.1: 1a. Bericht des Vorsitzenden über längerfristige Projekte 1b. Lärmschutz durch Radarmessungen an der B2, Antwort des BA 7 zum Schreiben des KVR vom 04.01.2019
+- TOP 14.14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.5: Josef-Naus-Straße 1
+- TOP 15.15.1: Baumfällungen zum Bauvorhaben Harmatinger Straße
+- TOP 15.15.2: Baumfällungen zum Bauvorhaben Meier-Helmbrecht-Straße
+- TOP 15.15.3: Baumfällungen zum Bauvorhaben Werdenfelsstraße
+- TOP 16.16.1: Versammlungsanzeige Nachbarschaftsfest - Reulandstraße
+- TOP 16.16.2: Versammlungsanzeige Sommerfest Infanterix
+- TOP 16.16.3: Versammlungsanzeige Run For School
+- TOP 16.16.4: Unterrichtung zur Entscheidung nach § 20 Abs. 1 BezirksausschussS Sommerfest der SPD am 27.07.2019
+- TOP 17.17.1: Versammlungsanzeige Sommerfest Trabzon von 20.09.19 bis 22.09.19.
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.22.1: Hansastraße - Entfernung Haltverbot
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 29.: Sozialreferat
+- TOP 31.: Baureferat
+- TOP 31.31.1: Protokoll zum Ortstermin WC-Anlage im Sendlinger Wald
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 32.32.1: Anhörungsrecht der BAs - Einhaltung der Anhörungsfrist
+- TOP 33.: Direktorium
+- TOP 33.33.1: Oktoberfest 2019 Reservierungen in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Senkrechtparkplätze Ettalstraße 5
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Trambahn-Westtangente - Sachstandbericht an die BAs
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Auftakttermin - Sportentwicklungsplanung am 15.07.19
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.40.1: Ermittelte Messdaten im Bereich des Tunnelbauwerkes Südwest
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Generalsanierung St. Josef Präsentation vom 01.07.19
+- TOP 42.42.2: Einrichtung einer Planstelle für Schulsozialarbeit an der Gilmschule Fristverlängerung
+- TOP 43.43.2: Fernwärmeprojekt SWM Fernpaßstraße
+- TOP 43.43.3: Zuschüsse für Sommerfest und Ferienprogramm
+- TOP 45.: Baureferat
+- TOP 45.45.1: Radwegsanierung beidseitig - Ehrwalder Straße 52 bis 122
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budget-Bescheid Aluna Minga e.V.
+- TOP 47.47.2: Budget-Bescheid Baugenossenschaft Kriegersiedlung
+- TOP 47.47.3: Budget-Bescheid Kleingartenverein Süd West 83
+- TOP 47.47.4: Budget-Bescheid FC Ludwigsvorstadt München e.V.
+- TOP 47.47.5: Budget-Bescheid Feierwerk e.V.
+- TOP 47.47.6: Budget-Bescheid Offene Bücherschränke Sendling-Westpark e.V.
+- TOP 47.47.7: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Absage: Ministrantengrillen im Westpark am 14.07.2019
+- TOP 49.49.2: Behindertenparkplatz an der Weilheimer Straße 8
+- TOP 49.49.3: Bescheid Schülerlauf im Spielplatz Elmauer Park
+- TOP 49.49.4: Bescheid Sommerfest in der Bodenehrstraße
+- TOP 49.49.5: Bescheid Straßenfest in der Halmstraße
+- TOP 49.49.6: Bescheid Strassenfest in der Rottenbucher Straße
+- TOP 49.49.7: Bescheid Straßenfest in der Schondorfer Straße
+- TOP 49.49.8: Ferienprogramm Dschungelpalast im Westpark
+- TOP 49.49.9: Bescheid Nachbarschaftsfest in der Reulandstraße (Westpark)
+- TOP 49.49.10: Bescheid Offene Bücherschränke Sendling-Westpark
+- TOP 49.49.11: Unveränderte Fortführung Waldhüttn
+- TOP 49.49.12: Bescheid Elternbeirat Phoenix Kitas und Schulen
+- TOP 49.49.13: Filmaufnahmen im Westpark
+- TOP 49.49.14: Nachbarschaftsfest in der Reulandstraße (Westpark)
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Zweckentfremdung Mittenwalderstraße
+- TOP 56.56.2: Zweckentfremdung Werdenfelsstraße
+- TOP 57.57.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.3: (U) Bebauungsplan mit Grünordnung Nr. 2027 Zschokkestr. (südlich), Westendstr. (westlich), Barmer Str. und Hans-Thonauer-Str. (östlich) (Teiländerung des Bebauungsplanes Nr. 58 d) a) Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss b) Aufhebung des Geltungsbereiches der Ergänzung zum Aufstellungsbeschluss Nr. 2027 vom 01.07.2015 im Bereich der Straßenverkehrsflächen Westendstraße, Barmer Straße und Hans-Thonauer-Straße
+- TOP 57.57.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.6: Tagesordnungspunkt (betrifft Privatpersonen)
