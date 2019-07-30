@@ -1,0 +1,124 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2019-07-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5080294
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5080294
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.6.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.2.7.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.8.: Verschiedenes, Termine
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.3.5.: Parkraummanagement - zukünftige Regelung?
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen):
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 09.07.2019
+- TOP 2.2.1.: Knoten München, Viergleisiger Ausbau des Streckenabschnitts Daglfing - Johanneskirchen - Vorstellung durch die deutsche Bahn Netz AG -
+- TOP 2.2.2.: Adalbert-Stifter-Str. 55: Antrag auf Baugenehmigung „Villa Burger“ - Vorstellung des Bauvorhabens durch den Architekten -
+- TOP 2.2.3.: 13er Bürger-und Kulturtreff - Inbetriebnahme der integrierten Quartierseinrichtung am Quartiers-/Bürgerplatz des Areals der ehemaligen Prinz-Eugen-Kaserne - Beschlussentwurf des Kinder- und Jugendhilfeausschusses und des Sozialausschusses sowie des Kulturausschusses in der gemeinsamen Sitzung vom 26.09.2019; Anhörung des Sozialreferats vom 10.07.2019
+- TOP 2.2.4.: Freischützstr. 25: Nutzungsänderung 1. + 2. OG: Büro- und Verwaltungseinheit zu Wohnfläche - Vorbescheid; Rückmeldung des Referats für Stadtplanung und Bauordnung vom 09.07.2019
+- TOP 2.2.5.: Traberstr. 4: Neubau dreier Stadthäuser und eines Doppelhauses mit Doppelparker und 3 Carports; Rückmeldung des Referats für Stadtplanung und Bauordnung vom 11.07.2019
+- TOP 2.3.1.: BPlan 2016 - Cosimastraße Prinz-Eugen-Kaserne Endausbau Erschließungsstraßen; Anhörung des Baureferats vom 16.07.2019 (Unterlagen werden nachgereicht)
+- TOP 2.3.2.: Arabella-/ Denninger Str.: Austausch von Lichtsignalanlagen; Anhörung des Kreisverwaltungsreferates vom 03.07.2019
+- TOP 2.3.3.: Fahrradständer Rosenkavalierplatz; Anhörung des Baureferats vom 06.06.2019 (vertagt am 09.07.2019)
+- TOP 2.3.4.: Odinstr. 2: Absolutes Halteverbot - Feuerwehranfahrtszone; Unterrichtung des Kreisverwaltungsreferates vom 28.06.2019
+- TOP 2.3.6.: Luftreinhaltung ohne Schleichverkehr; Antrag der CSU-Fraktion vom 19.06.2019 (vertagt am 09.07.2019)
+- TOP 2.3.7.: Luftreinhaltung ohne Einführung der Parkraumlizenzierung gegen den erklärten Bürgerwillen; Antrag der CSU-Fraktion vom 19.06.2019 (vertagt am 09.07.2019)
+- TOP 2.3.8.: Maßnahmen zur Luftreinhaltung gemeinsam erarbeiten anstatt sie über die Köpfe der Bürger hinweg zu beschließen; Antrag der CSU-Fraktion vom 19.06.2019 (vertagt am 09.07.2019)
+- TOP 2.3.9.: Eggenfeldener Straße westlich der Hultschiner Straße: Schnellstmögliche Umsetzung der Markierung des Fahrradschutz­streifen; Antrag der Fraktionen ÖDP/DaCG, Bündnis90/DIE GRÜNEN, CSU und SPD vom 10.07.2019
+- TOP 2.3.10.: Errichtung eines BA-Schaukastens im Zuge der Straßengestaltung im Prinz-Eugen-Park; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 15.07.2019
+- TOP 2.3.11.: Straßengestaltung im Prinz-Eugen-Park: Berücksichtigung der Bürgeranträge; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 15.07.2019
+- TOP 2.3.12.: Sicherung gegen wildes Gehwegparken; Antrag der SPD-Fraktion vom 08.07.2019
+- TOP 2.3.13.: Bessere Gefahrenkennzeichnung für Kita und Schulweg; Antrag der SPD-Fraktion vom 10.07.2019
+- TOP 2.3.14.: Richard-Strauß-Straße, Ecke Mühlbaur- und Ecke Stuntzstraße: Erneuerung Hinweistafel "Nur bei Grün"; Antrag der SPD-Fraktion vom 08.07.2019
+- TOP 2.3.15.: Johanneskirchner Straße: Nutzung der zweiten Spur durch Parkverbot bzw. eingeschränkte Parkzeit; Bürgeranliegen vom 02.07.2019
+- TOP 2.3.16.: Einrichtung einer Wertstoffsammelstelle in Daglfing; Bürgeranliegen vom 08.07.2019
+- TOP 2.3.17.: Radweg am Friedensengel; Antrag der Fraktion Bündnis 90/Die Grünen des BA 5
+- TOP 2.3.18.: Antrag betreffend Verkehrsführung im Rahmen der Planung des Express-Busses X30; Bürgeranliegen vom 24.06.2019
+- TOP 2.3.19.: Erneuerung & Verbreiterung der Fahrradwege: Cosimastraße bis Johanneskirchen; Englschalkinger Straße; Vollmannstraße; Denninger Straße; Bürgeranliegen vom 30.06.2019
+- TOP 2.3.20.: Änderung der Ampelschaltung an der Kreuzung Ecke Engelschalkinger Str./Elektrastr.; Cosimastr./Engelschalkinger Str.; Richard-Strauss-Straße/Denninger Straße; Bürgeranliegen vom 30.06.2019
+- TOP 2.3.21.: Anbringung roter Markierungen für Fahrradspuren, an allen Stellen in Bogenhausen, an denen Autos beim Abbiegen Radspuren kreuzen; Bürgeranliegen vom 30.06.2019
+- TOP 2.3.22.: Mehr Fahrradparkplätze an öffentlichen Plätzen; Bürgeranliegen vom 30.06.2019
+- TOP 2.3.23.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.24.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget; SV Zamdorf e.V. Fußballturnier am 29.06.2019 200,00 € / AZ: 0262-0-13-0209
+- TOP 2.4.2.: (E) Stadtbezirksbudget; Faschingsgesellschaft Feringa München-Johanneskirchen e.V. Faschingsumzug am 23.02.2020 3.975,00 € / AZ: 0262.0-13-0210
+- TOP 2.4.3.: (E) Stadtbezirksbudget Schützengesellschaft "Schützenlisl II" Englschalking e.V. Ausbau des Biathlonstandes am 19.10.2019 13.974,00 € / Az. 0262.0-13-0211
+- TOP 2.4.4.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00 € / Az. 0262.0-13-0212
+- TOP 2.4.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.6.: Verschiedenes, Termine
+- TOP 2.5.1.: Errichtung von 2 Häusern für Kinder mit jeweils 3 Krippen- und 3 Kindergartengruppen im Prinz-Eugen-Park - Entwurf der Beschlussvorlage; Anhörung des Referates für Bildung und Sport vom 27.06.2019
+- TOP 2.5.2.: Aufnahme der Grund- und Mittelschule an der Stuntzstraße in die Schulbauoffensive; Antrag der SPD-Fraktion vom 11.07.2019
+- TOP 2.5.3.: Bessere Ausstattung des Neubaus Max-Pröbstl-Str. 4 und Aufstockung; Antrag der SPD-Fraktion vom 09.07.2019
+- TOP 2.5.4.: Prinz-Eugen-Park: Möglichkeiten für Kinderspielen ermöglichen; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 15.07.2019
+- TOP 2.5.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.6.: Verschiedenes, Termine
+- TOP 2.5.7.: Zweiter Kunstrasen auf dem Sportgelände Fritz-Lutz-Straße - Vorstellung des 1. Vorsitzenden des SC Bogenhausen (Nachtrag)
+- TOP 2.5.8.: Stiftung eines Kinder – und Schulpreises des BA 13; Antrag der CSU-Fraktion vom 18.07.2019 (Nachtrag)
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Seidleinweg 12: lt Plan Am Hierlbach 40: lt. Plan Adalbert-Stifter-Str. 55: lt. Plan Pachmayrpl. 1: lt. Plan Steinhauser Str. 33: 5 Hängebirke, 1 Robinie Elbestr. 6: 1 Fichte Adalbert-Stifter-Str: 1 Esche, 2 Birken Montgelasstr.: mehrere Bäume (Eilentscheidung der BA-Vorsitzenden am 22.07.2019: Zustimmung) Im Moosgrund 50: 2 Weiden Soldauer Str. 20a: 1 Eiche Pienzenauerstr. 73: lt. Plan (Nachtrag) Wolfskehlstr. 11: 1 Birke (Nachtrag)
+- TOP 2.6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.4.: Vogelschutz in Bogenhausen: BürgerInnen-Vorschläge und Biodiversitätsstrategie umsetzen; Antrag der Fraktionen ÖDP/DaCG und Bündnis90/DIE GRÜNEN vom 11.07.2019
+- TOP 2.6.5.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.6.: Verschiedenes, Termine
+- TOP 5.1.: Veranstaltung in städtischen Grünanlagen: Gedenkfeier Adalbert-Stifter am 26.10.2019 auf dem Böhmerwaldplatz; Anhörung des Kreisverwaltungsreferats vom 10.07.2019
+- TOP 5.2.: Veranstaltung in städtischen Grünanlagen: Spendenlauf am Shakespeareplatz am 16.07.2019; Anhörung des Kreisverwaltungsreferats vom 10.07.2019 - Zustimmung der BA-Vorsitzenden am 10.07.2019 nach § 20 Abs. 1 Satz 2 BezirksausschussSatzung -
+- TOP 5.3.: An der Cosimastr. / Englschalkinger Str.: Nutzung als Veranstaltung eines Festivals sowie als Standplatz für Zelte und einer Kulturbühne (Weihnachtszauberwald); Anhörung des Kommunalreferats vom 16.07.2019
+- TOP 6.1.: Bettler vor dem REWE Markt in der Pienzauerstraße
+- TOP 7.1.1.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 7.2.1.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 7.2.2.: (U) Kanalnetzsanierung in der Montgelasstraße; Neubau des Regenüberlaufes R159 und Neubau eines Dükers nördlich der Max-Joseph-Brücke im 12. Stadtbezirk Schwabing - Freimann und im 13. Stadtbezirk Bogenhausen Gesamtkosten (Kostenberechnung): 17 Mio. Euro brutto Projektgenehmigung
+- TOP 7.5.1.: Unveränderte Fortführung des Gaststättengewerbes: "Klaus&#039;n", Preziosastr. 43
+- TOP 7.7.1.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 7.7.2.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 7.7.3.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 7.7.4.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 7.7.5.: (U) Bahnübergänge Ausbau S4 West Pasing - Buchenau S-Bahnhof Aubing: Barrierefreie Ortsverbindung und zusätzlicher Zugang nach Westen (Freiham) a) Unterführung Aubinger Bahnhof; Aufzug (Antrag 1) Empfehlung Nr. 14-20 / E 00667 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 27.10.2015 b) Barrierefreier Ausbau S-Bahnhof Aubing; Vorfinanzierung einer Rampe an der Westseite durch die LH München als Provisorium Empfehlung Nr. 14-20 / E 01563 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 13.07.2017 c) Barrierefreier Ausbau S-Bahnhof Aubing Empfehlung Nr. 14-20 / E 01564 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 13.07.2017
+- TOP 7.7.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
