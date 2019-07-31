@@ -1,0 +1,105 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-07-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5221940
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5221940
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Anbringen von Haltverbotsschildern vor dem Behindertenzugang, Aufstellen von drei Blumentrögen, Fassadengestaltung an der Stadtbibliothek Milbertshofen Hier: Aufstellen von drei Blumentrögen sowie deren Pflege vor der Stadtbibliothek Milbertshofen
+- TOP 4.1.2.: Mehr Polizeistellen und bessere Rahmenbedingungen für die Polizeibeschäftigten
+- TOP 4.2.1.: Biodiversität: Drei weitere Wildblumenwiesen im Stadtbezirk 11
+- TOP 4.2.2.: Informationsanfrage zum Stand der Erweiterung des staatlichen Gymnasiums München-Nord
+- TOP 4.4.1.: Weniger Schadstoffe aus dem Straßenverkehr durch intelligente Verkehrssteuerung
+- TOP 4.4.2.: Einrichtung einer Kurzparkzone vor der Kleingartenanlage NO 53
+- TOP 4.4.3.: Ausweisen eines Parklizenzierungsgebietes im 11. Stadtbezirk
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget; AG Buhlstraße e.V. Nachbarschaftsfest im Hof des Nachbarschaftstreffs Ingolstädter Str. 93 am 28.09.19 1.952,20 € / AZ: 0262.0-11-0332
+- TOP 6.1.2.: (E) Stadtbezirksbudget; Ogheneakpobor Righteous Akpowowo Gospelkonzert am 27.07.2019 11.375,00 € / AZ: 0262.0-11-0333
+- TOP 6.1.3.: (E) Stadtbezirksbudget Alten- und Service-Zentrum Milbertshofen Sommerfest am 26.07.2019 1.278,00 Euro, Az.: 0262.0-11-0335
+- TOP 6.1.4.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Zirkusferien vom 29.07. - 02.08.2019 2.690,00 Euro, Az.: 0262.0-11-0334
+- TOP 6.1.5.: (E) Stadtbezirksbudget Kulturverein Olympiadorf e.V. Jubiläums-Sommerfest am 06.07.2019 3.926,50 Euro, Az.: 0262.0-11-0330
+- TOP 6.1.6.: (E) Stadtbezirksbudget; Stadtteilkultur2411 e.V. Bassiona Amorosa goes OPERA 3.0 am 28.09.2019 3.500,00 € / AZ: 0262.0-11-0336
+- TOP 6.1.7.: (E) Sadtbezirksbudget; Evangelisches Hilfswerk München gemeinnützige GmbH Sommerfest Teestube "komm" am 09.08.2019 172,00 € / AZ: 0262.0-11-0337
+- TOP 6.1.8.: (E) Stadtbezirksbudget PV Moosach Olympiadorf Ökumenischer Frauentag "Was mir gut tut" am 16.11.2019 200,00 Euro, Az.: 0262.0-11-0338
+- TOP 6.1.9.: (E) Stadtbezirksbudget Stadtteilarbeit e.V. Kunst- und Spieleparcours am 21.09.2019 2.650,00 Euro, Az.: 0262.0-11-0339
+- TOP 6.1.10.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00€, Az. 0262.0-11-0340
+- TOP 6.1.11.: (E) Stadtbezirksbudget Männerchor Milbertshofen Riesenfeld e.V. Hoagast am 19.10.2019 639,00€, Az. 0262.0-11-0342
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis: Schleißheimer Straße 506, Eiscafé "Gelatissimo" - Genehmigung einer Freischankfläche
+- TOP 6.2.2.: U-Bahn Station Oberwiesenfeld - überdachte Fahrradabstellanlage
+- TOP 6.2.3.: (E) Aufwertung des Ehrenamtes „Schulweghelfer/in“
+- TOP 6.2.4.: (E) + (U) Investorensuche für den Stadtteil Am Hart im 11. Stadtbezirk Empfehlung Nr. 14-20 / E 01679 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 20.07.2017
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Erneuerung der Wege zur U-Bahn-Station Harthof im Harthofanger
+- TOP 7.2.2.: Touristenzug im Olympiapark ökologisch machen
+- TOP 7.2.3.: Mehr Mülleimer im Wohngebiet "Nordhaide"
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Kochwagen-Anfrage für das Schuljahr 2019/2020 des Sonderpädagogischen Förderzentrum München Nord-Ost in der Rothpletzstraße
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Schaffung von legalen Park- und Haltemöglichkeiten an der Südseite des Curt-Mezger-Platzes
+- TOP 7.4.2.: Parkraumorganisation im Stadtbezirk 11
+- TOP 7.4.3.: Einführen von Zufahrtskontrollen zum Olympiadorf bei Großveranstaltungen im Olympiapark
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Plenumssitzungstermine des BA 11 für das Kalenderjahr 2020
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Gemeinde Oberschleißheim: 28. Änderung des Flächennutzungsplanes
+- TOP 8.2.2.: Vollzug des BImSchG und UVPG Schleißheimer Straße 422: BMW FIZ Werk 1.5 - Änderung des Antriebszentrum durch technische Überarbeitung
+- TOP 8.2.3.: Max-Liebermann-Str. 6 a) Bauvorhaben: Neubau Studentenwohnheim, Beherbergungsbetrieb, Gastronomie und Tiefgarage – VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Schopenhauerstraße 97 Nutzungsänderung: 3 Ladeeinheiten zu Kindergarten und Praxis
+- TOP 8.2.5.: Schleißheimer Str. 438 a) Bauvorhaben: Unterbringung von Flüchtlingen und Wohnungslosen in einer Gemeinschaftsunterkunft (Entfristung mit Widerruf) b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Sommerfest Impark" im Olympiapark und -see am 01.08. und 14.08.2019 bzw. Ausweichtermine am 02.08. oder 15.08.2019
+- TOP 8.3.2.: Veranstaltung "Womens Run" im Olympiapark am 07.09.2019
+- TOP 8.3.3.: Veranstaltung "Spiel- und Kreativfest" in der Grünanlage Christoph-von-Gluck-Platz am 21.09.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Ingolstädter Straße (Westseite) - Absolutes Haltverbot b) Keferloherstraße - Beschilderung mit Gefahrzeichen c) Griegstraße - Absolutes Haltverbot
+- TOP 8.4.2.: Erinnerungsverfahren: Moosacher Straße 82 - 88 - Straßenmarkierung / Verkehrsführung
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 9.1.2.: Ermahnung der Fachreferate zur Einhaltung der Anhörungsfrist nach § 13 BA-Satzung - Informationsschreiben
+- TOP 9.1.3.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 9.1.4.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: Kick it international e.V.
+- TOP 9.1.5.: (U) Olympiapark München; Antrag auf Nominierung zur Aufnahme in die UNESCO-Welterbeliste Ensemble Olympiapark soll Unesco-Weltkulturerbe werden, Antrag Nr. 14-20 / A 01883 von DIE LINKE und der ÖDP vom 04.03.2016, eingegangen am 07.03.2016
+- TOP 9.1.6.: Unveränderte Fortführung von Gaststättenbetrieben: a) "Sportcafe" - Riesenfeldstraße 14 b) „Simit Sarayim“ - Bertholdstr. 29
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 9.2.2.: (U) Bauleitplanung für den Bereich Am Oberwiesenfeld (östlich), Moosacher Straße (nördlich), Lerchenauer Straße (westlich), DB-Nordring (südlich) - Knorr-Bremse AG - A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Aufstellung eines Bebauungsplanes mit Grünordnung Nr. 2142 (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1947) - Aufstellungsbeschluss - Durchführung eines städtebaulichen und landschaftsplanerischen Realisierungswettbe- werbs - Eckdatenbeschluss - B) Bekanntgabe des Wettbewerbsergebnisses Moosacher Straße 80 Stadtbezirk 11 – Milbertshofen-Am Hart
+- TOP 9.2.3.: Vollzug des Bayer. Naturschutzgesetzes und der BaumSchV - Baumfällungsbescheide: a) Piccoloministraße 2 - Genehmigung b) Wiegandweg 25 - Genehmigung c) Freiligrathstraße 74-76 - Genehmigung d) Josef-Ressel-Straße 3 - Genehmigung
+- TOP 9.2.4.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Bachstelzenweg 24
+- TOP 9.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7.: Meldelisten Bauvorhaben vom 06.05.2019 – 30.06.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 9.4.2.: (U) Anbindung der Schleißheimer Straße an die Bundesautobahn BAB A 99 11. Stadtbezirk Milbertshofen - Am Hart 12. Stadtbezirk Schwabing - Freimann 24. Stadtbezirk Feldmoching - Hasenbergl Sachstandsbericht und Information zum weiteren Vorgehen - Bekanntgabe -
+- TOP 9.4.3.: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 9.4.4.: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 9.4.5.: Arbeiten im Straßenraum: a) Neuherberg-/Rockefellerstraße - Austausch Lichtsignalanlagen b) Knorrstraße - Stromprojekt Netztrafostation
+- TOP 9.4.6.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Guddenstraße - absolutes Haltverbot
+- TOP 9.4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
