@@ -1,0 +1,135 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2019-07-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5079346
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5079346
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 2.2.8.: Brücke über die Schwere-Reiter-Straße
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 1.1.: Eltern: Grundschule Torquato-Tasso-Straße: Transport zur Nachmittagsbetreuung
+- TOP 2.1.: Jugendkulturprojekt „Hänsel und Gretel“: Bitte um nochmalige Verlängerung des Bewilligungszeitraums für den bereits beschlossenen Zuschusses aus dem Stadtbezirksbudget
+- TOP 2.2.: (E) Stadtbezirksbudget Förderverein der Städtischen Hermann-Frieb-Realschule e.V. Mediatoren-Seminar vom 16.09.2019 - 18.09.2019 620,00€, Az. 0262.0-4-0255
+- TOP 2.3.: (E) Stadtbezirksbudget REGSAM - Trägerverein für regionale soziale Arbeit e.V. "Anbandeln" - Neue soziale Netzwerke im Münchner Norden gestalten am 15.10.2019 1.340,00€, Az. 0262.0-4-0257
+- TOP 2.4.: (E) Stadtbezirksbudget Förderverein der Farinelli Grundschule Schule der Phantasie von Oktober 2019 - September 2020 7.000,00€, Az. 0262.0-4-0258
+- TOP 2.5.: 20 Naturführungen (Gemeinschaftsprojekt der Gärtnerei Stängle & Limmer und der Naturabenteuer GbR): Bitte um Verlängerung des Bewilligungszeitraums für den bereits beschlossenen Zuschuss aus dem Stadtbezirksbudget
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Begrünung der Schulmauern in der Schleißheimer Straße und der Hohenzollernstraße
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis Hermann-Frieb-Realschule: Kunstprojekt „Identität und Demokratie“
+- TOP 3.2.2.: Bewilligungsbescheid an die Initiative „Wunderbuch 2.0“
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: TC Grün-Weiß Luitpoldpark e.V. Verlängerung des bestehenden Mietvertrags über die Tennisanlage, Beschluss des Sportausschusses vom 03.07.2019 (Sitzungsvorlage Nr. 14-20 / V 15343)
+- TOP 3.3.2.: Elisabethmarkt als Jugendtreff (Protokoll des von AKIM organisierten Runden Tisches am 24.06.2019)
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Isoldenstr. 39 „Ernsting&#039;s family“: Aufstellung von Verkaufseinrichtungen
+- TOP 2.1.2.: Nordendstr. 34 „Biobäckerei Wagner“: Genehmigung einer Freischankfläche
+- TOP 2.2.1.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00€, Az. 0262.0-4-0252
+- TOP 2.3.1.: Benefiz-Flohmärkte auf dem Elisabethplatz: Vorschlag des KVR für neues Verfahren
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Verwendungsnachweis Stadt+Kunst e.V.: Theater-/Filmprojekt „Dopplerhelix“
+- TOP 3.2.2.: Bewilligungsbescheid an die Deutsch-Japanische Gesellschaft (Japanfest)
+- TOP 3.2.3.: Bewilligungsbescheid 84 GHz (Kunst im Karrée 2019)
+- TOP 3.3.1.: Werbeaufnahmen am 09.07.2019 in der Georgenstr. 46 (Seite Kurfürstenstraße)
+- TOP 3.3.2.: Drehgenehmigung „Pan Tau“ am 09. oder 10.07.2019 in der Schleißheimer Str. 274
+- TOP 3.3.3.: Fotoaufnahmen am Rodelhügel in der Grünanlage Ackermannstraße
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP 3.5.1.: Eilentscheidung des BA-Vorsitzenden: Zustimmung zum Sporttag des Jugendzentrums LIFE am 04.07.2019 auf der großen Wiese im Ackermannbogen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Hohenzollernstr. 46: Nutzungsänderung zweier DG-Ateliers zu einer Wohnung sowie enerrgetische Sanierung des gesamten Hauses
+- TOP 2.1.2.: Franz-Joseph-Str. 45: Nutzungsänderung EG/VGB: Bankflächen zu Gaststätte
+- TOP 2.1.3.: Tektur Hiltenspergerstr. 84: Neubau eines Wohngebäudes (52 WE) mit Tiefgarage (52 Stellplätze)
+- TOP 2.1.4.: Belgradstr. 22: Nutzungsänderung Lager zu Laden
+- TOP 2.1.5.: Hohenzollernstr. 97: Nutzungsänderung Hobbyraum zu Büronutzung
+- TOP 2.1.6.: Vorbescheid Infanteriestr. 12: Abbruch Bestandsgebäude mit Garagen und Neubau eines Mehrfamilienhauses mit Tiefgarage (geförderter Wohnungsbau für Bedienstete des Freistaats Bayern)
+- TOP 2.1.7.: Vorbescheid Infanteriestr. 14: Neubau eines Wohngebäudes (166 Apartments) mit Tiefgarage
+- TOP 2.1.8.: Herzogstr. 105: Abbruch und Aufstockung eines Dachgeschosses mit Galeriewohnung sowie Aufstockung Zwischenbau um ein Geschoss
+- TOP 2.1.9.: Petra-Kelly-Str. 5: Nutzungsänderung Gaststätte in Büro
+- TOP 2.1.10.: Cherubinistr. 2: Anbau von Balkonen sowie Dach- und Fassadensanierung zweier Wohngebäude im Ensemble inkl. Modernisierung der Außenanlagen
+- TOP 2.1.11.: Elisabethstr. 8: Erweiterung eines Balkons
+- TOP 2.1.12.: Pündterplatz 5: Nutzungsänderung denkmalgeschütztes Büro- zu Wohngebäude (geförderter Wohnungsbau), Umbau und Ergänzung/Anbau zweier Balkone
+- TOP 2.1.13.: Brunnenanlage im Hof des Sophie-Scholl-Gymnasiums: Nachträgliche Aufnahme in die Denkmalliste
+- TOP 2.1.14.: Franz-Joseph-Str. 27: Bestandsgenehmigung: Position und Erschließung des Aufzugs sowie Verortung des Maschinenraums, Position der äußeren Kellertreppe, Einbau einer Tür (1. OG, links) zur Vergrößerung einer Wohnung, Rücknahme der Balkonvergrößerung (2. - 5. OG, 1. OG teilweise) und der Änderung der Gauben hofseitig)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.5.: Protokoll der Mieterbeiratssitzung vom 01.07.2019
+- TOP 3.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: SPD: Aufstellung eines Fahrradständers und evtl. Baumpflanzung an der Ecke Hohenzollern-/Friedrichstraße (vertagt aus 06/2019)
+- TOP 1.2.: Bürgerin: Falschparker vor der Grundschule am Bayernplatz
+- TOP 1.3.: Bürger: Wertstoffinsel am Kölner Platz: Plastikcontainer statt illegalem Altkleidercontainer
+- TOP 1.4.: a) Einteerung der Düsseldorfer Straße b) Baumpflanzungen in der Düsseldorfer Straße c) Reduzierung der Teerfläche in der Belgradstraße zwischen Kaiser- und Herzogstraße (Online eingereichte Vorschläge eines Bürgers für Bestellungen städtischer Leistungen aus dem Stadtbezirksbudget)
+- TOP 1.5.: Bürgerin: Andauernde Lärmbelästigung um den Olympiapark München
+- TOP 1.6.: Bürgerin: Aufstellung von Fahrradständern und Entfernung von Schrotträdern in der Destouchesstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Cherubinistr. 2: Fällung einer Vogelbeere
+- TOP 2.1.2.: Rümannstr. 17: Fällung eines Eschenahorn
+- TOP 2.1.3.: Baumpflanzungen in der Georgenstraße: Nachfrage des Baureferats und Antrag des BA 3
+- TOP 2.1.4.: Herzogstr. 64, Fällung einer Robinie
+- TOP 2.2.1.: Umgestaltung und Begrünung des Kreuzungsbereichs Winzerer-/Lothstraße (Entscheidung über die Projektplanung)
+- TOP 2.2.2.: Karl-Theodor-Straße: Radwegsanierung zwischen Belgrad- und Schleißheimer Straße (Erinnerungsverfahren des Baureferats Tiefbau)
+- TOP 2.2.3.: Elisabethstraße zwischen Schleißheimer Straße und Nordendstraße: Rückbau der Radwege und weitere bauliche Maßnahmen (Anhörung zur Projektplanung)
+- TOP 2.2.4.: Komplette Auflassung der baulichen Radwege in der Tengstraße als Voraussetzung für die Ausweisung als Fahrradstraße: Aufhebung des BA-Beschlussses zum Verbleib des Radwegs auf der Ostseite zwischen Elisabethstraße und Hohenzollernplatz?
+- TOP 2.2.5.: Bürgersteigabsenkungen im Bereich Bumm-, James-Loeb- und Rümannstraße durch Bodenmarkierungen hervorheben – Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 31.05.2019
+- TOP 2.2.6.: Brunnerstr. 41-43: Sanierung von Fahrbahn und Gehweg (Erinnerungsverfahren des Baureferats Tiefbau)
+- TOP 2.2.7.: Austausch von Lichtsignalanlagen: a) Elisabeth-/Isabellastraße b) Elisabeth-/Hiltenspergerstraße
+- TOP 2.2.9.: (E) + (U) Radwegführung an der Kreuzung Kraepelin-/James-Loeb-Straße durch Schilder verdeutlichen
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Workshop zu E-Tretrollern und Sharing-Diensten (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 31.05.2019)
+- TOP 3.1.2.: Neugestaltung des „Adams-Lehmann-Platzes“ (Zwischennachricht des Baureferats nach Ablehnung der Beschlussvorlage durch den BA)
+- TOP 3.1.3.: Wertstoffcontainer gegenüber Römerstr. 11 – Unterflurcontainer an Innenstadtstandorten prüfen (Antwort des Abfallwirtschaftsbetriebs München auf BA-Schreiben vom 08.05.2019)
+- TOP 3.1.4.: Bürgersteigabsenkungen im Bereich Bumm-, James-Loeb- und Rümannstraße durch Bodenmarkierungen hervorheben (Antwort des Baureferats Tiefbau auf BA-Schreiben vom 28.02.2019 zur o.g. Bürgerversammlungsempfehlung)
+- TOP 3.1.5.: Erschütterungs- und Lärmbelästigung durch U3 am Petuelring (Antwort des Referats für Arbeit und Wirtschaft auf BA-Schreiben vom 28.03.2019)
+- TOP 3.1.6.: Öffentliche Fahrradabstellanlage im Bereich Bauerstr. 38: Bestellung städtischer Leistungen aus dem Stadtbezirksbudget
+- TOP 3.1.7.: Übersicht über Tempo-30-Zonen im Stadtbezirk 4 (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 31.05.2019)
+- TOP 3.2.1.: Hiltenspergerstr. 76-82a: Genehmigung zur Fällung einer Zierkirsche
+- TOP 3.2.2.: Schleißheimer Str. 274, Fällung von vier Bäumen
+- TOP 3.3.1.: Parzivalstraße: Tempo 30 im Bereich des Damenstifts
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Olympiapark München; Antrag auf Nominierung zur Aufnahme in die UNESCO-Welterbeliste Ensemble Olympiapark soll Unesco-Weltkulturerbe werden, Antrag Nr. 14-20 / A 01883 von DIE LINKE und der ÖDP vom 04.03.2016, eingegangen am 07.03.2016
+- TOP 3.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.3.: Behindertengerechter Umbau des Hohenzollernplatzes – Ergebnis der Herstellung einer Versuchsfläche am 03.04.2019
+- TOP F: BA-Angelegenheiten
+- TOP G: Verschiedenes
+- TOP H: Termine
