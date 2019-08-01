@@ -24,10 +24,6 @@
 - [§ 3 Erteilung und Erlöschen der Erlaubnis](0003.md)
 - [§ 4 Pflichten des Versorgers, Eigenerzeugers oder erlaubnispflichtigen Letztverbrauchers](0004.md)
 
-## - (weggefallen)
-
-- [§ 4a (weggefallen)](0004a.md)
-
 ## - zu § 8 des Gesetzes
 
 - [§ 5 Anmeldung der Steuer](0005.md)
