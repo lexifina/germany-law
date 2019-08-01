@@ -97,6 +97,7 @@ Erwerbsminderung
 - [§ 41a Vorübergehender Auslandsaufenthalt](0041a.md)
 - [§ 42 Bedarfe](0042.md)
 - [§ 42a Bedarfe für Unterkunft und Heizung](0042a.md)
+- [§ 42b (weggefallen)](0042b.md)
 - [§ 43 Einsatz von Einkommen und Vermögen, Berücksichtigung von Unterhaltsansprüchen](0043.md)
 
 ### Zweiter Abschnitt Verfahrensbestimmungen
@@ -332,3 +333,4 @@ Artikel 116 Abs. 1 des Grundgesetzes](0133.md)
 - [§ 144 Gesamtplan](0144.md)
 - [§ 145 Teilhabezielvereinbarung](0145.md)
 - [Anlage (zu § 28)Regelbedarfsstufen nach § 28 in Euro](anlage.md)
+- [Anlage (zu § 34)Ausstattung mit persönlichem Schulbedarf in Euro](anlage-2.md)

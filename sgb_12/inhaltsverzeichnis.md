@@ -323,3 +323,4 @@
 | § 144 | Gesamtplan |
 | § 145 | Teilhabezielvereinbarung |
 Anlage zu § 28
+Anlage zu § 34

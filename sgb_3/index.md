@@ -80,6 +80,7 @@ Versicherungspflichtige
 - [§ 37c (weggefallen)](0037c.md)
 - [§ 38 Rechte und Pflichten der Ausbildung- und Arbeitsuchenden](0038.md)
 - [§ 39 Rechte und Pflichten der Arbeitgeber](0039.md)
+- [§ 39a Frühzeitige Förderung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung](0039a.md)
 
 #### Dritter Unterabschnitt Gemeinsame Vorschriften
 
@@ -107,7 +108,7 @@ Versicherungspflichtige
 #### Zweiter Unterabschnitt Berufsvorbereitung
 
 - [§ 51 Berufsvorbereitende Bildungsmaßnahmen](0051.md)
-- [§ 52 Förderungsbedürftige junge Menschen](0052.md)
+- [§ 52 Förderungsberechtigte junge Menschen](0052.md)
 - [§ 53 Vorbereitung auf einen Hauptschulabschluss im Rahmen einer berufsvorbereitenden Bildungsmaßnahme](0053.md)
 - [§ 54 Maßnahmekosten](0054.md)
 - [§ 54a Einstiegsqualifizierung](0054a.md)
@@ -118,8 +119,8 @@ Versicherungspflichtige
 - [§ 56 Berufsausbildungsbeihilfe](0056.md)
 - [§ 57 Förderungsfähige Berufsausbildung](0057.md)
 - [§ 58 Förderung im Ausland](0058.md)
-- [§ 59 Förderungsfähiger Personenkreis](0059.md)
-- [§ 60 Sonstige persönliche Voraussetzungen](0060.md)
+- [§ 59 (weggefallen)](0059.md)
+- [§ 60 Förderungsberechtigter Personenkreis bei Berufsausbildung](0060.md)
 - [§ 61 Bedarf für den Lebensunterhalt bei Berufsausbildung](0061.md)
 - [§ 62 Bedarf für den Lebensunterhalt bei berufsvorbereitenden Bildungsmaßnahmen](0062.md)
 - [§ 63 Fahrkosten](0063.md)
@@ -141,7 +142,7 @@ Versicherungspflichtige
 - [§ 76 Außerbetriebliche Berufsausbildung](0076.md)
 - [§ 76a](0076a.md)
 - [§ 77 Sonstige Förderungsvoraussetzungen](0077.md)
-- [§ 78 Förderungsbedürftige junge Menschen](0078.md)
+- [§ 78 (weggefallen)](0078.md)
 - [§ 79 Leistungen](0079.md)
 - [§ 80 Anordnungsermächtigung](0080.md)
 
@@ -252,15 +253,15 @@ Versicherungspflichtige
 - [§ 120 Vorbeschäftigungszeit für das Übergangsgeld](0120.md)
 - [§ 121 Übergangsgeld ohne Vorbeschäftigungszeit](0121.md)
 - [§ 122 Ausbildungsgeld](0122.md)
-- [§ 123 Bedarf bei Berufsausbildung](0123.md)
-- [§ 124 Bedarf bei berufsvorbereitenden Bildungsmaßnahmen, bei Unterstützter Beschäftigung und bei Grundausbildung](0124.md)
-- [§ 125 Bedarf bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches](0125.md)
+- [§ 123 Ausbildungsgeld bei Berufsausbildung und Unterstützter Beschäftigung](0123.md)
+- [§ 124 Ausbildungsgeld bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung](0124.md)
+- [§ 125 Ausbildungsgeld bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen und bei Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches](0125.md)
 - [§ 126 Einkommensanrechnung](0126.md)
 
 ##### Dritter Titel Teilnahmekosten für Maßnahmen
 
 - [§ 127 Teilnahmekosten für Maßnahmen](0127.md)
-- [§ 128 Sonderfälle der Unterbringung und Verpflegung](0128.md)
+- [§ 128 Kosten für Unterkunft und Verpflegung bei anderweitiger auswärtiger Unterbringung](0128.md)
 
 ##### Vierter Titel Anordnungsermächtigung
 
@@ -269,10 +270,10 @@ Versicherungspflichtige
 ### Achter Abschnitt Befristete Leistungen und innovative Ansätze
 
 - [§ 130 Assistierte Ausbildung](0130.md)
-- [§ 131 Sonderregelung zur Eingliederung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung](0131.md)
+- [§ 131 (weggefallen)](0131.md)
 - [§ 131a Sonderregelungen zur beruflichen Weiterbildung](0131a.md)
 - [§ 131b Weiterbildungsförderung in der Altenpflege](0131b.md)
-- [§ 132 Sonderregelung für die Ausbildungsförderung von Ausländerinnen und Ausländern](0132.md)
+- [§ 132 (weggefallen)](0132.md)
 - [§ 133 Saison-Kurzarbeitergeld und ergänzende Leistungen im Gerüstbauerhandwerk](0133.md)
 - [§ 134 (weggefallen)](0134.md)
 - [§ 135 Erprobung innovativer Ansätze](0135.md)
@@ -702,5 +703,7 @@ des Arbeitsförderungsrechts in das Sozialgesetzbuch
 - [§ 444 Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung](0444.md)
 - [§ 444a Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung](0444a.md)
 - [§ 445 Fünfundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes](0445.md)
+- [§ 445a Gesetz zur Anpassung der Berufsausbildungsbeihilfe und des Ausbildungsgeldes](0445a.md)
 - [§ 446 Zweites Gesetz zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer Vorschriften](0446.md)
 - [§ 447 Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung](0447.md)
+- [§ 448 Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern](0448.md)

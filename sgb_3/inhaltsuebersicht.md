@@ -75,6 +75,7 @@
 | § 37 | Potenzialanalyse und Eingliederungsvereinbarung |
 | § 38 | Rechte und Pflichten der Ausbildung- und Arbeitsuchenden |
 | § 39 | Rechte und Pflichten der Arbeitgeber |
+| § 39a | Frühzeitige Förderung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung |
 |  |  |
 | Dritter Unterabschnitt |
 | Gemeinsame Vorschriften |
@@ -104,7 +105,7 @@
 | Zweiter Unterabschnitt |
 | Berufsvorbereitung |
 | § 51 | Berufsvorbereitende Bildungsmaßnahmen |
-| § 52 | Förderungsbedürftige junge Menschen |
+| § 52 | Förderungsberechtigte junge Menschen |
 | § 53 | Vorbereitung auf einen Hauptschulabschluss im Rahmen einer berufsvorbereitenden Bildungsmaßnahme |
 | § 54 | Maßnahmekosten |
 | § 54a | Einstiegsqualifizierung |
@@ -115,8 +116,8 @@
 | § 56 | Berufsausbildungsbeihilfe |
 | § 57 | Förderungsfähige Berufsausbildung |
 | § 58 | Förderung im Ausland |
-| § 59 | Förderungsfähiger Personenkreis |
-| § 60 | Sonstige persönliche Voraussetzungen |
+| § 59 | (weggefallen) |
+| § 60 | Förderungsberechtigter Personenkreis bei Berufsausbildung |
 | § 61 | Bedarf für den Lebensunterhalt bei Berufsausbildung |
 | § 62 | Bedarf für den Lebensunterhalt bei berufsvorbereitenden Bildungsmaßnahmen |
 | § 63 | Fahrkosten |
@@ -137,7 +138,7 @@
 | § 75 | Ausbildungsbegleitende Hilfen |
 | § 76 | Außerbetriebliche Berufsausbildung |
 | § 77 | Sonstige Förderungsvoraussetzungen |
-| § 78 | Förderungsbedürftige junge Menschen |
+| § 78 | (weggefallen) |
 | § 79 | Leistungen |
 | § 80 | Anordnungsermächtigung |
 |  |  |
@@ -247,15 +248,15 @@
 | § 120 | Vorbeschäftigungszeit für das Übergangsgeld |
 | § 121 | Übergangsgeld ohne Vorbeschäftigungszeit |
 | § 122 | Ausbildungsgeld |
-| § 123 | Bedarf bei Berufsausbildung |
-| § 124 | Bedarf bei berufsvorbereitenden Bildungsmaßnahmen, bei Unterstützter Beschäftigung und bei Grundausbildung |
-| § 125 | Bedarf bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen oder bei einem anderen Leistungsanbieter nach § 60 des Neunten Buches |
+| § 123 | Ausbildungsgeld bei Berufsausbildung und Unterstützter Beschäftigung |
+| § 124 | Ausbildungsgeld bei berufsvorbereitenden Bildungsmaßnahmen und bei Grundausbildung |
+| § 125 | Ausbildungsgeld bei Maßnahmen in anerkannten Werkstätten für behinderte Menschen und bei Maßnahmen anderer Leistungsanbieter nach § 60 des Neunten Buches |
 | § 126 | Einkommensanrechnung |
 |  |  |
 | Dritter Titel |
 | Teilnahmekosten für Maßnahmen |
 | § 127 | Teilnahmekosten für Maßnahmen |
-| § 128 | Sonderfälle der Unterbringung und Verpflegung |
+| § 128 | Kosten für Unterkunft und Verpflegung bei anderweitiger auswärtiger Unterbringung |
 |  |  |
 | Vierter Titel |
 | Anordnungsermächtigung |
@@ -264,10 +265,10 @@
 | Achter Abschnitt |
 | Befristete Leistungen und innovative Ansätze |
 | § 130 | Assistierte Ausbildung |
-| § 131 | Sonderregelung zur Eingliederung von Ausländerinnen und Ausländern mit Aufenthaltsgestattung |
+| § 131 | (weggefallen) |
 | § 131a | Sonderregelungen zur beruflichen Weiterbildung |
 | § 131b | Weiterbildungsförderung in der Altenpflege |
-| § 132 | Sonderregelung für die Ausbildungsförderung von Ausländerinnen und Ausländern |
+| § 132 | (weggefallen) |
 | § 133 | Saison-Kurzarbeitergeld und ergänzende Leistungen im Gerüstbauerhandwerk |
 | § 134 | (weggefallen) |
 | § 135 | Erprobung innovativer Ansätze |
@@ -682,5 +683,7 @@
 | § 444 | Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung |
 | § 444a | Gesetz zur Stärkung der beruflichen Weiterbildung und des Versicherungsschutzes in der Arbeitslosenversicherung |
 | § 445 | Fünfundzwanzigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes |
+| § 445a | Gesetz zur Anpassung der Berufsausbildungsbeihilfe und des Ausbildungsgeldes |
 | § 446 | Zweites Gesetz zur Stärkung der pflegerischen Versorgung und zur Änderung weiterer Vorschriften |
 | § 447 | Gesetz zur Stärkung der Chancen für Qualifizierung und für mehr Schutz in der Arbeitslosenversicherung |
+| § 448 | Gesetz zur Förderung der Ausbildung und Beschäftigung von Ausländerinnen und Ausländern |

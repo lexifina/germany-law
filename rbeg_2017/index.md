@@ -9,4 +9,3 @@
 - [§ 6 Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte](0006.md)
 - [§ 7 Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben](0007.md)
 - [§ 8 Regelbedarfsstufen](0008.md)
-- [§ 9 Eigenanteile](0009.md)
