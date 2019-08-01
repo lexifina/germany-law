@@ -11,10 +11,13 @@ Kanzlerin der Hochschule für Künste7), Kanzler der Hochschule für Künste7)
 Konrektorin, Konrektor
 - als die ständige Vertretung der Leiterin oder des Leiters eines Förderzentrums mit bis zu 180 Schülerinnen und Schülern8) -
 - als die ständige Vertretung der Leiterin oder des Leiters eines Förderzentrums mit mehr als 180 Schülerinnen und Schülern2) 8) -
-- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
-- als Leitung eines an einer Grundschule mit mehr als 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik -
-- als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
-- zur Wahrnehmung von Schulleitungsaufgaben an einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern -
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
+- als Leitung eines an einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik -
+- als Leitung eines an einer Grundschule mit mehr als 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik2) -
+- als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern -
+- als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
+- zur Wahrnehmung von Schulleitungsaufgaben an einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
 Leiterin des Medienzentrums Bremerhaven, Leiter des Medienzentrums Bremerhaven
 Oberärztin6), Oberarzt6)
 Oberkustodin, Oberkustos
@@ -25,14 +28,17 @@ Ortsamtsleiterin6) 9), Ortsamtsleiter6) 9)
 Rektorin bei den Justizvollzugsanstalten10), Rektor bei den Justizvollzugsanstalten10)
 Rektorin, Rektor
 - als Leiterin oder als Leiter eines Förderzentrums mit bis zu 180 Schülerinnen und Schülern2) 8) -
-- als Leiterin oder als Leiter einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern -
-- als Leiterin oder als Leiter einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
-- als Leiterin oder als Leiter einer Grundschule mit weniger als 180 Schülerinnen und Schülern, sofern dieser Grundschule ein Zentrum für unterstützende Pädagogik angegliedert ist oder ein Ganztagsbetrieb besteht -
+- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern -
+- als Leiterin oder als Leiter einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
+- als Leiterin oder als Leiter einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern2) -
+- als Leiterin oder als Leiter einer Grundschule mit weniger als 180 Schülerinnen und Schülern, sofern dieser Grundschule ein Zentrum für unterstützende Pädagogik angegliedert ist oder ein Ganztagsbetrieb besteht2) -
 Schulrätin2), Schulrat2)
 Fußnoten
-1) Entfällt.
-5) Entfällt.
-Fußnoten
+2) Erhält eine Amtszulage nach Anlage 6.
+2) Erhält eine Amtszulage nach Anlage 6.
+2) Erhält eine Amtszulage nach Anlage 6.
+2) Erhält eine Amtszulage nach Anlage 6.
+2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.

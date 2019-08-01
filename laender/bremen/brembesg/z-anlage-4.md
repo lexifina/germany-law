@@ -2,22 +2,22 @@
 Anlage IV
 Künftig wegfallende Ämter (zu § 68)
 Besoldungsgruppe A 12
-Lehrerin, Lehrer
-- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern6) 7) -
 Lehrerin für die Primarstufe und Sekundarstufe I1) 8), Lehrer für die Primarstufe und Sekundarstufe I1) 8)
-Besoldungsgruppe A 12a
-Lehrerin, Lehrer
-- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern4) 5) -
+Fußnoten
+6) Entfällt.
+7) Entfällt.
 Besoldungsgruppe A 13
 Didaktische Leiterin4), Didaktischer Leiter4)
 Fachbereichsleiterin3), Fachbereichsleiter3)
 Hauptlehrerin, Hauptlehrer
-- als Leiterin oder als Leiter einer Grundschule, Hauptschule oder Grund- und Hauptschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
+- als Leiterin oder als Leiter einer Grundschule, Hauptschule oder Grund- und Hauptschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern12) -
 Jahrgangsleiterin an einer Gesamtschule3), Jahrgangsleiter an einer Gesamtschule3)
 Jahrgangsleiterin an einem Gymnasium3), Jahrgangsleiter an einem Gymnasium3)
 Jahrgangsleiterin an einer Oberschule3), Jahrgangsleiter an einer Oberschule3)
 Konrektorin, Konrektor
-- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 Schülerinnen und Schülern -
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 Schülerinnen und Schülern12) -
+Lehrerin2), Lehrer2)
+- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern12) -
 Lehrerin für die Primarstufe7), Lehrer für die Primarstufe7)
 Lehrerin für die Primarstufe und Sekundarstufe I6) 8), Lehrer für die Primarstufe und Sekundarstufe I6) 8)
 Lehrerin für die Sekundarstufe I7), Lehrer für die Sekundarstufe I7)
@@ -28,10 +28,8 @@ Leiterin eines Zentrums für unterstützende Pädagogik4), Leiter eines Zentrums
 Oberlehrerin im Justizvollzugsdienst2) 11), Oberlehrer im Justizvollzugsdienst2) 11)
 Oberstufenleiterin4), Oberstufenleiter4)
 - an einer Oberschule -
-Rektorin, Rektor
-- einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) -
 Zweite Konrektorin, Zweiter Konrektor
-- einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+- einer Grundschule mit mehr als 360 Schülerinnen und Schülern12) -
 Besoldungsgruppe A 14
 Abteilungsleiterin eines Schulzentrums der Sekundarstufe I, Abteilungsleiter eines Schulzentrums der Sekundarstufe I
 - des gymnasialen Zweiges mit bis zu 180 Schülerinnen und Schülern1) -
@@ -48,7 +46,8 @@ Leiterin eines Zentrums für unterstützende Pädagogik5), Leiter eines Zentrums
 Oberstufenleiterin5), Oberstufenleiter5)
 - an einer Oberschule -
 Rektorin, Rektor
-- einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
+- einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern -
+- einer Grundschule mit mehr als 360 Schülerinnen und Schülern2) -
 Sonderschulkonrektorin, Sonderschulkonrektor
 - als die ständige Vertretung der Leiterin oder des Leiters einer Sonderschule mit bis zu 180 Schülerinnen und Schülern -
 - als die ständige Vertretung der Leiterin oder des Leiters einer Sonderschule mit mehr als 180 Schülerinnen und Schülern2) -
@@ -179,11 +178,14 @@ Fußnoten
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
 2) Als Einstiegsamt.
+2) Als Einstiegsamt.
+2) Als Einstiegsamt.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
 2) Erhält eine Amtszulage nach Anlage 6.
+2) Erhält eine Amtszulage nach Anlage 6.
 3) Soweit nicht in der Besoldungsgruppe A 14.
 3) Soweit nicht in der Besoldungsgruppe A 14.
 3) Soweit nicht in der Besoldungsgruppe A 14.
@@ -208,7 +210,6 @@ Fußnoten
 3) Soweit nicht in den Besoldungsgruppen A 13, A 14.
 3) Soweit nicht in den Besoldungsgruppen A 13, A 14.
 3) Soweit nicht in den Besoldungsgruppen A 13, A 14.
-4) Soweit nicht in der Besoldungsgruppe A 12.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
 4) Soweit nicht in den Besoldungsgruppen A 14, A 15.
@@ -246,7 +247,6 @@ Fußnoten
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
 4) Erhält eine Amtszulage nach Anlage 6.
-5) Erhält eine Amtszulage nach Anlage 6; diese wird für am 31. August 2014 vorhandene Lehrerinnen und Lehrer nach zehnjährigem Bezug unter Anrechnung der bisher in dieser Funktion verbrachten Zeiten beim Verbleiben in dieser Besoldungsgruppe nach Beendigung der zulagenberechtigten Verwendung weitergewährt.
 5) Soweit nicht in den Besoldungsgruppen A 13, A 15.
 5) Soweit nicht in den Besoldungsgruppen A 13, A 15.
 5) Soweit nicht in den Besoldungsgruppen A 13, A 15.
@@ -257,14 +257,12 @@ Fußnoten
 5) Soweit nicht in den Besoldungsgruppen A 13, A 15.
 5) Soweit nicht in der Besoldungsgruppe A 14.
 5) Soweit nicht in der Besoldungsgruppe A 14.
-6) Soweit nicht in der Besoldungsgruppe A 12a.
 6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
 6) Für dieses Amt dürfen höchstens 40 vom Hundert der Planstellen für die genannten Lehrerinnen und Lehrer ausgewiesen werden, soweit eine entsprechende Funktion wahrgenommen wird.
 6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Soweit nicht in der Besoldungsgruppe A 15.
 6) Die Amtsbezeichnung Oberstudiendirektorin, Oberstudiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Oberstudiendirektorin, Oberstudiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
 6) Die Amtsbezeichnung Oberstudiendirektorin, Oberstudiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Oberstudiendirektorin, Oberstudiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
-7) Erhält eine Amtszulage nach Anlage 6; diese wird für am 31. August 2014 vorhandene Lehrerinnen und Lehrer nach zehnjährigem Bezug unter Anrechnung der bisher in dieser Funktion verbrachten Zeiten beim Verbleiben in dieser Besoldungsgruppe nach Beendigung der zulagenberechtigten Verwendung weitergewährt.
 7) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
 7) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
 7) Nur für die am 31. Juli 2005 vorhandenen Lehrkräfte.
@@ -281,6 +279,9 @@ Fußnoten
 11) Erhält eine Stellenzulage nach Maßgabe des § 46.
 11) Höchstens 30 vom Hundert der Gesamtzahl der planmäßigen Lehrerinnen und Lehrer mit dem Einstiegsamt A 13 mit Ausnahme der Lehrerinnen und Lehrer für Sonderpädagogik und Sonderschullehrerinnen und Sonderschullehrer.
 11) Höchstens 30 vom Hundert der Gesamtzahl der planmäßigen Lehrerinnen und Lehrer mit dem Einstiegsamt A 13 mit Ausnahme der Lehrerinnen und Lehrer für Sonderpädagogik und Sonderschullehrerinnen und Sonderschullehrer.
+12) Erhält eine Amtszulage nach Anlage 6.
+12) Erhält eine Amtszulage nach Anlage 6.
+12) Erhält eine Amtszulage nach Anlage 6.
 12) Erhält eine Amtszulage nach Anlage 6.
 13) Die Amtsbezeichnung Studiendirektorin, Studiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Studiendirektorin, Studiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.
 13) Die Amtsbezeichnung Studiendirektorin, Studiendirektor entfällt nur in Verbindung mit den hier genannten Funktionszusätzen. Die in Anlage I - Besoldungsordnungen A und B - genannte Amtsbezeichnung Studiendirektorin, Studiendirektor behält in Verbindung mit den dort genannten Funktionszusätzen ihre Gültigkeit.

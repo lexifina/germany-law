@@ -4,8 +4,6 @@ Amtsanwältin1) Amtsanwalt1)
 Amtsrätin, Amtsrat
 Amtsrätin im pädagogischen Verwaltungsdienst1), Amtsrat im pädagogischen Verwaltungsdienst1)
 Fachlehrerin2) 3) 4), Fachlehrer2) 3) 4)
-Konrektorin, Konrektor
-- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit bis zu 80 Schülerinnen und Schülern6) 7) -
 Kriminalhauptkommissarin4), Kriminalhauptkommissar4)
 Lehrerin, Lehrer
 - an allgemeinbildenden Schulen1) 3) 5) -
@@ -30,5 +28,3 @@ Fußnoten
 4) Soweit nicht in der Besoldungsgruppe A 11.
 4) Soweit nicht in der Besoldungsgruppe A 11.
 5) Soweit nicht in den Besoldungsgruppen A 12a, A 13.
-6) Soweit nicht in der Besoldungsgruppe A 12a.
-7) Erhält eine Amtszulage nach Anlage 6; diese wird für am 31. August 2014 vorhandene Lehrerinnen und Lehrer nach zehnjährigem Bezug unter Anrechnung der bisher in dieser Funktion verbrachten Zeiten beim Verbleiben in dieser Besoldungsgruppe nach Beendigung der zulageberechtigenden Verwendung weitergewährt.

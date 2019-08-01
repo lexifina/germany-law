@@ -8,24 +8,19 @@ Erste Kriminalhauptkommissarin, Erster Kriminalhauptkommissar
 Erste Polizeihauptkommissarin, Erster Polizeihauptkommissar
 Fachleiterin beim Landesinstitut für Schule2), Fachleiter beim Landesinstitut für Schule2)
 Konrektorin, Konrektor
-- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
-- als Leitung eines an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik -
-- als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern -
-- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) -
-- als Leitung eines an einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik12) -
-- als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 180 bis zu 360 Schülerinnen und Schülern12) -
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit bis zu 80 Schülerinnen und Schülern 12) -
+- als die ständige Vertretung der Leiterin oder des Leiters einer Grundschule mit mehr als 80 und bis zu 180 Schülerinnen und Schülern 12) -
+- als Leitung eines an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern angegliederten Zentrums für unterstützende Pädagogik 12) -
+- als Leitung eines Ganztagsbetriebs an einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern 12) -
 Kustodin2), Kustos2)
 Lehrerin5) 6), Lehrer5) 6)
 - an allgemeinbildenden Schulen -
-Lehrerin bei den Justizvollzugsanstalten2)11), Lehrer bei den Justizvollzugsanstalten2)11)
+Lehrerin bei den Justizvollzugsanstalten2) 11), Lehrer bei den Justizvollzugsanstalten2) 11)
 Oberamtsanwältin9), Oberamtsanwalt9)
 Oberamtsrätin10), Oberamtsrat10)
 Oberrechnungsrätin, Oberrechnungsrat
 - als Prüfungsbeamtin oder als Prüfungsbeamter beim Rechnungshof -
 Rätin2), Rat2)
-Rektorin, Rektor
-- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern -
-- als Leiterin oder als Leiter einer Grundschule mit mehr als 80 bis zu 180 Schülerinnen und Schülern12) -
 Sonderschullehrerin14) 15), Sonderschullehrer14) 15)
 Studienrätin2), Studienrat2)
 - an allgemeinbildenden und beruflichen Schulen sowie an Regionalen Beratungs- und Unterstützungszentren -

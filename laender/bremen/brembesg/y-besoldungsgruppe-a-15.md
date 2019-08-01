@@ -16,6 +16,7 @@ Oberschulrätin8), Oberschulrat8)
 Ortsamtsleiterin5) 9), Ortsamtsleiter5) 9)
 Rektorin, Rektor
 - als Leiterin oder als Leiter eines Förderzentrums mit mehr als 180 Schülerinnen und Schülern10) -
+- als Leiterin oder als Leiter einer Grundschule mit mehr als 360 Schülerinnen und Schülern -
 Studiendirektorin, Studiendirektor
 - an allgemeinbildenden und beruflichen Schulen -
 - als die ständige Vertretung der Leiterin oder des Leiters
@@ -38,10 +39,6 @@ mehr als 540 Schülerinnen und Schülern, wenn die oberste Jahrgangsstufe fehlt4
 mehr als 670 Schülerinnen und Schülern, wenn die zwei oberen Jahrgangsstufen fehlen4),
 mehr als 800 Schülerinnen und Schülern, wenn die drei oberen Jahrgangsstufen fehlen4),
 einer voll ausgebauten Oberschule mit mehr als 360 Schülerinnen und Schülern4) 12) -
-Fußnoten
-3) Entfällt.
-7) Entfällt.
-11) Entfällt.
 Fußnoten
 1) Erhält eine Amtszulage nach Anlage 6.
 1) Erhält eine Amtszulage nach Anlage 6.
