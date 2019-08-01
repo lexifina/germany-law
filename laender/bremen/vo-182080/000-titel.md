@@ -1,1 +1,1 @@
-# Verordnung über die Fachschule für Heilerziehungspflege vom 11. Juni 2002
+# Verordnung über die Fachschule für Heilerziehungspflege vom 19. Februar 2020
