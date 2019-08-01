@@ -1,0 +1,77 @@
+# 28. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-08-01T16:30:00+02:00
+- Ende: 2019-08-01T19:47:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5444
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5444
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=311117
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - vertagt
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-27 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - erledigt
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Ausbau Radfahrangebot in der Kiefholzstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Schulplätze an der Albatros-Schule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Mit "Wifi4EU" freies WLAN im Bezirk ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Querungshilfe im Umfeld der Archenhold-Sternwarte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Bauvorhaben für die Freiwilligen Feuerwehren forcieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Erschließung Kiezklub Bohnsdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: S-Bahnhof Wilhelmshagen – barrierefreien Zugang ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Sichere Radwegauffahrt auf der Elsenstraße schaffen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.9: Barrierefreie Querung durch den Spreetunnel in Friedrichshagen schnellstmöglich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Neubau einer Brücke über die Dahme - überwiesen
+- TOP 7.2.2: Durchgängige schienengebundene Verbindung zwischen Wendenschloß und Bahnhof Schöneweide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - überwiesen
+- TOP 7.2.4: Campus Sophie-Brahe-Gemeinschaftsschule "Am Plänterwald" - überwiesen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten im Ausschuss für Stadtentwicklung und Bauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2020 und 2021 - überwiesen
+- TOP 11.2: Sitzungsterminplan 2020 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Schulwegsicherung in der Wendenschloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Erreichbarkeit Musikerviertel - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Öffnung der Straße Alt-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Bodenschwellen in der Alfonsstraße in Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Mehr Sicherheit für Fahrradfahrer in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Bürgersteig offiziell im Stellingdamm in beide Fahrtrichtungen für Radfahrende ausschildern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Weitere Querungsmöglichkeit auf der Neuen Krugallee errichten - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Köpenzeile als Fahrradstraße ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Parkmöglichkeiten in der Dörpfeldstraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Irreführende Hinweisschilder in der Dörpfeldstraße entfernen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Beschluss des Integrierten Handlungs- und Entwicklungskonzepts (IHEK) für die Förderkulisse Kosmosviertel im Bezirk Treptow-Köpenick und die Anmeldung aus Mitteln des Baufonds für das Projekt "Kita Sonnenschein" - überwiesen
+- TOP 13.2: Bezirksregionenprofil (BZRP) für Köpenick-Nord - überwiesen
+- TOP 13.3: Ergebnis der Überprüfung der Bezirksverordneten auf Mitarbeit beim Ministerium für Staatssicherheit der DDR (II) - vertagt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Kontrolle des Hundeauslaufs an Badestellen - überwiesen
+- TOP 14.2: Steganlagen und Natur im Einklang - Novellierung des Berliner Naturschutzgesetzes - überwiesen
+- TOP 14.3: Straßenbaumbestand in Treptow-Köpenick vergrößern - überwiesen
+- TOP 14.4: Resolution zu den rassistischen und gewalttätigen Vorfällen in Adlershof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.5: Parksituation in der Straße "Am Falkenberg" verbessern - überwiesen
+- TOP 14.6: Bausachverständige/-r für Barrierefreiheit - überwiesen
+- TOP 14.7: Beschilderung Kreuzung Schnellerstraße / Rudower Straße - überwiesen
+- TOP 14.8: Outdoorsportplätze schaffen - überwiesen
+- TOP 14.9: Generationenübergreifender Sport- und Fitnessplatz in Müggelheim - überwiesen
+- TOP 14.10: "Bürger-Etat" statt "Kungel-Kiezkasse" – mehr Demokratie wagen - überwiesen
+- TOP 14.11: "Roller-Koller" verhindern - überwiesen
+- TOP 14.12: Mahd im Sommer - überwiesen
+- TOP 14.13: Spendertafel am Luisenhain versetzen - überwiesen
+- TOP 14.14: Mehr Ladestationen für E-Autos - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Feuer im Gesellschaftshaus Grünau - beantwortet
+- TOP 15.2: Illegale Nutzung auf dem früheren ASMW-Gelände - beantwortet
