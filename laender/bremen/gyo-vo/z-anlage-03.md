@@ -1,36 +1,20 @@
-# Anlage 3 - Tabelle zur Errechnung der Durchschnittsnote für die Fachhochschulreife (schulischer Teil)
+# Anlage 3 - Anlage 3 - Verzeichnis der Bewegungsfelder im Fach Sport / Sportarten (zu § 13 Absatz 1)
 Anlage 3
-Tabelle zur Errechnung der Durchschnittsnote für die Fachhochschulreife (schulischer Teil)
-aus der Punktezahl des Gesamtergebnisses (zu § 20 Absatz 4)
-Punkte | Durchschnittsnote
-285 - 261 | 1,0
-260 - 255 | 1,1
-254 - 249 | 1,2
-248 - 244 | 1,3
-243 - 238 | 1,4
-237 - 232 | 1,5
-231 - 227 | 1,6
-226 - 221 | 1,7
-220 - 215 | 1,8
-214 - 210 | 1,9
-209 - 204 | 2,0
-203 - 198 | 2,1
-197 - 192 | 2,2
-191 - 187 | 2,3
-186 - 181 | 2,4
-180 - 175 | 2,5
-174 - 170 | 2,6
-169 - 164 | 2,7
-163 - 158 | 2,8
-157 - 153 | 2,9
-152 - 147 | 3,0
-146 - 141 | 3,1
-140 - 135 | 3,2
-134 - 130 | 3,3
-129 - 124 | 3,4
-123 - 118 | 3,5
-117 - 113 | 3,6
-112 - 107 | 3,7
-106 - 101 | 3,8
-100 - 96 | 3,9
-95 | 4,0
+Anlage 3 - Verzeichnis der Bewegungsfelder im Fach Sport / Sportarten (zu § 13 Absatz 1)
+Laufen, Springen, Werfen, Stoßen | Spielen | Bewegen an und mit Geräten | Bewegung gymnastisch, rhythmisch und tänzerisch gestalten |  |  |  | 
+LE | Leichtathletik | BB | Basketball | GT | Geräteturnen | GY | Gymnastik
+ |  | FB | Fußball | TR | Trampolinturnen | TA | Tanz
+ |  | FL | Floorball |  |  |  | 
+ |  | HB | Handball |  |  |  | 
+ |  | HC | Hockey |  |  |  | 
+ |  | VB | Volleyball |  |  |  | 
+ |  | BM | Badminton |  |  |  | 
+ |  | TS | Tennis |  |  |  | 
+ |  | TT | Tischtennis |  |  |  | 
+ |  | RB | Rugby |  |  |  | 
+Bewegen im Wasser | Mit/gegen Partner kämpfen | Fahren, Gleiten, Rollen | Fit sein und fit bleiben |  |  |  | 
+SW | Sportschwimmen | JU | Judo | KA | Kanu | GF | gesundheitsorientiertes Kraft- und Ausdauertraining*
+ |  | TW | Taekwondo | RU | Rudern |  | 
+Mit Zustimmung der Senatorin für Kinder und Bildung kann die Schule weitere Sportarten anbieten.
+Fußnoten
+* Das Bewegungsfeld ist nicht Gegenstand der praktischen Abiturprüfung.
