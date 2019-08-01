@@ -1,3 +1,0 @@
-# Eingangsformel
-
-Auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe a, b, c, g, h, v und w in Verbindung mit § 6 Absatz 3 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), von denen § 6 Absatz 1 Nummer 1 Buchstabe b durch Artikel 1 Nummer 6 Buchstabe a des Gesetzes vom 2. Dezember 2010 (BGBl. I S. 1748) und Buchstabe w durch Artikel 1 Nummer 6 Buchstabe d des Gesetzes vom 28. August 2013 (BGBl. I S. 3313) geändert worden ist, in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium für Verkehr und digitale Infrastruktur nach Anhörung der zuständigen obersten Landesbehörden:
