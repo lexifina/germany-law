@@ -1,0 +1,3 @@
+#### Unterabschnitt 5 Zulage für Tätigkeiten als Notfallsanitäter
+# § 11a Zulage für Notfallsanitäter im rettungsdienstlichen Notfalleinsatz
+Beamte der Fachrichtung Feuerwehr, denen es nach § 2 des Notfallsanitätergesetzes vom 22. Mai 2013 (BGBl. I S. 1348), das durch Artikel 1h des Gesetzes vom 4. April 2017 (BGBl. I S. 778) geändert worden ist, in der jeweils geltenden Fassung, erlaubt ist, die Berufsbezeichnung „Notfallsanitäter“ zu führen und die als Notfallsanitäter im rettungsdienstlichen Notfalleinsatz verwendet werden, erhalten eine Zulage. Die Zulage beträgt 3 Euro je Stunde des dienstplanmäßigen Einsatzes als Notfallsanitäter.
