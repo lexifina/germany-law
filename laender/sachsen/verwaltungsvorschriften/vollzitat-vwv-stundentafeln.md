@@ -1,8 +1,8 @@
 # Vollzitat: VwV Stundentafeln
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.1
+- Datum: 2019-08-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17744.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-01.08.2018
+01.08.2019
 bis
-31.07.2019
+31.07.2020
 
 VwV Stundentafeln
 
@@ -74,6 +74,15 @@ LRS-Klassen
 
 
 Für Grundschulen, an denen nach der Klassenstufe 2 eine LRS-Klasse gebildet wird, gilt in der Klassenstufe 3 abweichend zu den Anlagen 1a, 1b und 1c die als Anlage 1d beigefügte Stundentafel.
+
+
+4.
+
+Grundschule mit dem Angebot des Faches Jüdische Religion
+
+An der Annenschule – Grundschule, Chemnitz, der 4. Grundschule Dresden „Am Rosengarten“ und der Lessingschule – Grundschule der Stadt Leipzig, die das Fach Jüdische Religion anbieten, gilt die als Anlage 1e beigefügte Stundentafel. Für das Fach Jüdische Religion gelten die Regelungen in Teil A Nummern 1 bis 6 der Verwaltungsvorschrift des Sächsischen Staatsministeriums für Kultus zur Durchführung des Religionsunterrichts und des Ethikunterrichts im Freistaat Sachsen vom 29. September 2004 (MBl. SMK S. 414), die zuletzt durch Verwaltungsvorschrift vom 12. März 2007 (MBl. SMK S. 69) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 11. Dezember 2017
+
+(SächsABl. SDr. S. S 409) entsprechend.
 
 
 IV.
@@ -234,17 +243,61 @@ IX.
 Deutsch als Zweitsprache
 
 
-Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15  Wochenstunden, für die Oberschulen 25  Wochenstunden und für Kollegs 32  Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der begleitende Unterricht im Fach Deutsch als Zweitsprache (3. Etappe) umfasst in den in Ziffer I genannten Schulen mindestens 2  Wochenstunden und höchstens 4  Wochenstunden je gebildeter Gruppe.
+Die Stundentafel für das Fach Deutsch als Zweitsprache umfasst für die Grundschulen 15   Wochenstunden, für die Oberschulen 25   Wochenstunden und für Kollegs 32   Wochenstunden je gebildeter Vorbereitungsklasse oder -gruppe. Der begleitende Unterricht im Fach Deutsch als Zweitsprache (3. Etappe) umfasst in den in Ziffer I genannten Schulen mindestens 2   Wochenstunden und höchstens 4   Wochenstunden je gebildeter Gruppe.
 
 
 X.
+Abweichungen von den Stundentafeln in Eigenverantwortung  der allgemeinbildenden Schulen
+
+
+1.
+
+An Grundschulen, Oberschulen und Förderschulen sowie in begründeten Einzelfällen an Gymnasien in der Sekundarstufe I kann in jeder Klassenstufe
+
+die  Wochenstundenzahl in bis zu zwei Fächern des Pflichtbereichs im Umfang von jeweils einer Wochenstunde zu Gunsten eines anderen Faches des Pflichtbereichs verlagert werden.
+
+Durch die Verlagerung darf ein Fach des Pflichtbereichs nicht entfallen; die Gesamtzahl der in den Stundentafeln festgelegten  Wochenstunden bleibt gleich. Die Umsetzung der Lehrpläne ist zu gewährleisten. Die Stundenzahl der Fächer Evangelische Religion, Katholische Religion, Jüdische Religion und Ethik bleibt unverändert. Die Stundenzahl in
+
+den Fremdsprachen am Gymnasium darf nicht verringert werden.
+
+Im Rahmen der Eigenverantwortung entscheidet der Schulleiter über die Abweichung von der jeweiligen Stundentafel.
+
+
+2.
+
+Nummer 1 findet keine Anwendung
+
+
+a)
+
+in den Abschlussklassen des Haupt- und Realschulbildungsgangs der Oberschulen und der Förderschulen,
+
+
+b)
+
+an den Schulen mit den Förderschwerpunkten Lernen und geistige Entwicklung,
+
+
+c)
+
+in Klassen mit gleichzeitigem Förderbedarf in den Förderschwerpunkten Lernen und geistige Entwicklung an den Schulen mit den Förderschwerpunkten
+
+Sehen, Hören und körperliche und motorische Entwicklung,
+
+
+d)
+
+an der Palucca Hochschule für Tanz Dresden, Oberschule.
+
+
+XI.
 Abkürzungen der Fächernamen
 
 
 Zur Abkürzung der Namen der in den Grundschulen, Förderschulen, Oberschulen, Gymnasien und Schulen des zweiten Bildungsweges unterrichteten Fächer, Lernbereiche an der Schule mit dem Förderschwerpunkt Lernen, Arbeitsgemeinschaften und der sonstigen in der Stundentafel verwendeten Begriffe sind die als Anlage 7 beigefügten Bezeichnungen zu verwenden.
 
 
-XI.
+XII.
 Inkrafttreten, Außerkrafttreten
 
 
@@ -273,6 +326,9 @@ Stundentafel für die Grundschule im sorbischen Siedlungsgebiet, in der Sorbisch
 
 Anlage 1d
 Stundentafel für die Grundschule LRS-Klasse
+
+Anlage 1e
+Stundentafel für die Grundschule mit dem Angebot des Faches Jüdische Religion
 
 Anlage 2a
 Stundentafel für die Förderschule Schule mit dem Förderschwerpunkt Sehen Primarstufe
@@ -376,9 +432,9 @@ Fsn-Nr.: 710-V18.6
 
 Gültigkeitszeitraum
 
-Fassung gültig ab:  1. August 2018
+Fassung gültig ab:  1. August 2019
 
-Fassung gültig bis: 31. Juli 2019
+Fassung gültig bis: 31. Juli 2020
 
 Drucken/Speichern
 
@@ -405,7 +461,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17744.1
+https://www.revosax.sachsen.de/vorschrift/17744.2
 Stand vom
 18.11.2026
 
