@@ -1,0 +1,51 @@
+# 26. öffentliche Sitzung des Bauausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2019-08-06T17:03:00+02:00
+- Ende: 2019-08-06T19:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=68
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5144
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5144
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=323766
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschriften der 24. Sitzung vom 04.06.2019 und 25. Sitzung vom 20.06.2019 - vertagt
+- TOP 3: Beratung von Drucksachen - (offen)
+- TOP 3.1: Freie Fahrt für Rollstuhlfahrerinnen und Rollstuhlfahrer - im Ausschuss abgelehnt
+- TOP 3.2: Medebacher Weg ertüchtigen - erledigt
+- TOP 3.3: Absenkung von Bordsteinkanten - erledigt
+- TOP 3.4: Zusätzliche Parkplätze schaffen - vertagt
+- TOP 3.5: Erstellung einer Prioritätenliste zur Straßensanierung in Frohnau - erledigt
+- TOP 3.6: Parkbank versetzen - im Ausschuss abgelehnt
+- TOP 3.7: Auch in bestehende Radwege investieren - vertagt
+- TOP 3.8: "ECO-Toiletten" in Reinickendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.9: Graffiti Romain-Rolland-Gymnasium - erledigt
+- TOP 3.10: Fenster Romain-Rolland-Gymnasium - erledigt
+- TOP 3.11: Hauptberufliche Stadtjäger - zurückgezogen
+- TOP 3.12: Lüftung und Heizung in den Sitzungsräumen und Veranstaltungssälen des Bezirks - erledigt
+- TOP 3.13: Standorte für Little Homes in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3.14: Busknoten am U-Bahnhof Alt-Tegel barrierefrei umbauen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.15: Fahrradparkplätze für E-Bikes einrichten - mit Änderungen im Ausschuss beschlossen
+- TOP 3.16: Weitere Fahrradabstellanlagen - vertagt
+- TOP 3.17: Gutachten zur Leistungsfähigkeit der Wasser, Abwasser und Energieversorgung der Hennigsdorfer Straße - vertagt
+- TOP 3.18: Forstamt Tegel personell stärken - vertagt
+- TOP 3.19: Radverkehrsanlagen Zabel-Krüger-Damm - vertagt
+- TOP 3.20: Aufwertung der Benekendorfstraße für Radfahrende - vertagt
+- TOP 3.21: Hundekotbeseitigung - vertagt
+- TOP 3.22: Unterirdische automatische Fahrradgaragen - vertagt
+- TOP 3.23: Calestenics-Geräte im Kienhorstpark - vertagt
+- TOP 3.24: Boulebahnen im Kienhorstpark - vertagt
+- TOP 3.25: Digitale Bildung sicherstellen 3 - vertagt
+- TOP 3.26: Barrierefreiheit des Rathauses gewährleisten - vertagt
+- TOP 3.27: Blühstreifen für Insektenvielfalt - vertagt
+- TOP 3.28: Fontane-Haus barrierefrei zugänglich machen - vertagt
+- TOP 3.29: Bewerbung für WiFi4EU-Mittel abgeben - vertagt
+- TOP 3.30: Fahrradabstellanlage beim Jugendamt Nord, Nimrodstraße - vertagt
+- TOP 3.31: Infrastruktur für Rad fahrende Bezirksamtsmitarbeiter*innen - vertagt
+- TOP 4: Bericht aus dem Bezirksamt - erledigt
+- TOP 5: Verschiedenes - erledigt
