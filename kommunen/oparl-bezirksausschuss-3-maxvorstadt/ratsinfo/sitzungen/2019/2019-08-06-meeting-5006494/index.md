@@ -1,0 +1,153 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2019-08-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5006494
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5006494
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1: Bauvorhaben
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Schreiben des Seniorenbeirates für die Maxvorstadt vom 19.06.2019, öffentlicheToiletten- anlagen an verschiedenen Plätzen in der Maxvorstadt
+- TOP 5.2.2.: Bürgeranliegen vom 28.06.2019, Parksituation und Radfahrer in der Amalienstraße
+- TOP 5.2.3.: Bürgeranliegen vom 29.06.2019, Lärmbelästigung durch Gaststätte in der Georgenstraße
+- TOP 5.2.4.: Bürgeranliegen vom 02.07.2019, fehlende Kinderbetreuungsplätze in der Maxvorstadt
+- TOP 5.2.5.: Bürgeranliegen vom 11.07.2019, Verkehrssituation Steinickeweg
+- TOP 5.2.6.: Bürgeranliegen vom 15.07.2019, Wegfall Fahrradstellplätze Jägerstraße, Antwort des KVR
+- TOP 5.2.7.: Bürgeranliegen vom 27.07.2019, Lärmbelästigung am Josephsplatz
+- TOP 5.2.8.: Bürgeranliegen vom 12.07.2019, Schenkungssteuer bei Hauseigentum in München
+- TOP 5.2.9.: Bürgeranliegen vom 24.07.2019, Fahrradstellplätze Isabella- und Neureutherstraße (s. BV- Empfehlung Nr. 14-20 / E 021989)
+- TOP 5.2.10.: Bürgeranliegen vom 29.07.2019, Verkehrschaos in der Maxvorstadt
+- TOP 5.2.11.: Bürgeranliegen vom 29.07.2019, Verkehrsprobleme in der Veterinärstraße
+- TOP 6.1.: Radwegmarkierung in der Lothstraße
+- TOP 6.2.: Straßenkünstler im Alten Botanischen Garten
+- TOP 6.3.: Parkplätze in der Maxvorstadt, Antwortschreiben zu einem Bürgeranliegen TOP A 5.2.1/05 2019
+- TOP 6.4.: Straßenfest in der Türkenstraße, Sicherheitskonzept, Bürgeranfrage aus der Sitzung des BA 3 vom 02.07.2019, TOP A 5.2.9, Antwortschreiben KVR
+- TOP 6.5.: Umwandlung eines Kfz-Platzes in der Kreittmayrstraße in einen Fahrradstellplatz
+- TOP 6.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7.: Baustellensituation in der Tengstraße, Bürgeranliegen TOP A 5.2.10/07 2019, Antwortschrei- ben des Kreisverwaltungsreferates an die Bürgerin
+- TOP 6.8.: Sicherheitsdienst Alter Nördlicher Friedhof, Bürgeranliegen, Antwortschreiben der Städti- schen Friedhöfe (s. TOP A 5.2.11/07 2019)
+- TOP 6.9.: Bäume vor der Sprachenschule in der Amalienstraße, Bürgeranliegen, Antwortschreiben des Baureferats (s. TOP A 5.2.3/06 2019)
+- TOP 6.10.: Mülleimer Loth-/Ecke Heßstraße
+- TOP 6.11.: Bürger*innen frühzeitig in die Planung einbeziehen hier: Aufstellungsbeschluss zum Bebauungsplan mit Grünordnung Dachauer Straße (östlich), Gabelsbergerstraße (nördlich), Schleißheimer Straße (westlich), Maßmannstraße (südlich)
+- TOP 7.2.1.: Geburtstagsfeier „Ein Jahr offener Bücherschrank“, Rudi-Hierl-Platz, 20.07.2019
+- TOP B: Planung und Umwelt
+- TOP 2.1.1.: 2.1.1 LBK-Listen Bauvorhaben:25., 26., 27., 28., 29., 30. KW
+- TOP 2.1.2.: WEB-Listen der LBK: 25., 26., 27., 28. KW
+- TOP 2.1.3.: Dachauer Straße 7 – 7a, Neuerrichtung des Daches, Nutzungsänderung Speicher zu Wohnungen - VORBESCHEID
+- TOP 2.1.4.: Augustenstraße 103 – 105, Neubau eines wohn- und Geschäftshauses sowie Umbau und Erweiterung eines Rückgebäudes – Vorbescheid
+- TOP 2.1.5.: Fürstenstraße 11, Neubau eines Bürogebäudes
+- TOP 2.1.6.: Denisstraße 3, Neubau eines Büro- und Geschäftsgebäudes mit drei Innenhöfen und Ein- zelhandel im Erdgeschoss - Vorbescheid
+- TOP 3.1.1.: Schönfeldstraße 8 – 10, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage - Tektur
+- TOP 3.2.1.: Kaulbachstraße 38 a, ein Bergahorn
+- TOP 3.2.2.: Barer Straße 27, mehrere Rosskastanien
+- TOP 5.1.: Für mehr Demokratie und Transparenz in Preisgerichten – Strukturen und Abläufe reformier- ren; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 03.07.2019 Sitzungsvorlage Nr. 14-20 / V 15076
+- TOP 5.2.: Demografiebericht München – Teil 2; kleinräumige Bevölkerugnssprognose 2017 bis 2040 für die Stadtbezirke Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.07.2019, Sitzungsvorlage Nr. 14-20 7 V 15147
+- TOP 5.3.: Mieterinnen und Mieter schützen II: Erhaltungssatzungen ausbauen und aufgrund der beson- deren Situation auf München ausweiten, Beschlussvorlage Sitzungsvorlage Nr. 14-20 / V 14805
+- TOP 5.4.: Pilotprojekt „Schnelle Radverbindung für den Münchner Norden, Beschlussvorlage Sitzungsvorlage Nr. 14-20 7 V 14925, einschl. Ergänzung/Hinweis
+- TOP 5.5.: Erhaltungssatzungen weiterentwickeln, Beschlussvorlage Sitzungsvorlage Nr. 14-20 / V 15423
+- TOP 5.6.: München Modell und Förderung von Baugemeinschaften und partizipativen Wohnformen, Beschlussvorlage Sitzungsvorlage Nr. 14-20 / V 15241
+- TOP 5.7.: Mieterschutz, mehr geförderte Wohnungen, Mietbegrenzung auf städtischen Grundstücken Beschlussvorlage, Sitzungsvorlage Nr. 14-20 / V 15568
+- TOP 5.8.: Bebauungsplan mit Grünordnung Nr. 2140, Dachauer Straße (östlich), Gabelsbergerstraße (nördlich), Schleißheimer Straße (westlich), Maßmannstraße (südlich), Teiländerung des Be- bauungsplanes mit Grünordnung Nr. l1872, Aufstellungsbeschluss incl. Anträge und Baum- schutz beim neuen Gesundheits- und Umweltreferat, Hinweis/Ergänzung
+- TOP 5.9.: Städtische Wohnungsbaugesellschaften, Städtischer Mieten-Stopp München, Beschlussvor- lage, Sitzungsvorlage Nr. 14-20 / V 15518, incl. Hinweis/Ergänzung vom 22.07.2019
+- TOP 5.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.11.: Schleißheimer Straße 42, Neubau eines Mehrfamilienhauses mit Tiefgarage Kopie des Vorbescheids
+- TOP 5.12.: Städtische Wohnungsbaugesellschaften, Städtischer Mieten-Stopp München, Beschlussvorlage, Sitzungsvorlage Nr. 14-20 / V 15518, Ergänzung/Hinweis vom 22.07.2019
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Umwandlung eines Kfz-Stellplatzes vor dem Anwesen Kardinal-Döpfner-Straße 8, „Haus der Bayerischen Landkreise“ in Fahrradabstellplätze
+- TOP 1.2.: Antrag der CSU vom 14.7.2019 Parkscheinautomat Augustenstraße 87 – 89 an die Hauswand verlegen
+- TOP 1.3.: Bürgerin: Aufstellung von Fahrradständern und Entfernung von Schrotträdern in der Destouchesstraße
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) Tempo-30-Zone in der Schleißheimer Straße zwischen Gabelsberger- und Theresienstraße Verkehrsberuhigung der Schleißheimer Straße zwischen Rottmann- und Theresienstraße
+- TOP 2.2.1.: Erinnerungsverfahren, Straßenbauarbeiten Türkenstraße 7 und 9, Geh- und Fahrbahn und Seite Prinz-Ludwig-Straße
+- TOP 2.2.2.: Luisenstraße 45, Aufstellung von Sitzgelegenheiten (6 Stühle)
+- TOP 2.2.3.: Kunst im öffentlichen Raum, Ausnahmegenehmigung „Glyptotheke“ von August 2019 bis Oktober 2020 auf dem Königsplatz einschl. Stellungnahme der Staatl. Antikensammlung
+- TOP 2.2.4.: Mehr Fahrradparkplätze in der Maxvorstadt, BA-Antrag Nr. 14-20 / B 05789 des BA 3 vom 12.02.2019, Standortvorschläge des Baureferates
+- TOP 2.3.1.: Loristraße 14, Genehmigung einer Freischankfläche
+- TOP 2.4.1.: Parzivalstraße: Tempo 30 im Bereich des Damenstifts
+- TOP 2.4.2.: Amalienstraßenfest am 24.08.2019
+- TOP 2.4.3.: Konzertwochenende am 14. und 15.09.2019 auf dem Königsplatz
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Baumaßnahmen der Stadtwerke a) Görresstraße 25, Fernwärme b) Seidlstraße 4, Strom c) Fürstenstraße 7, Fernwärme
+- TOP 3.2.: Mobilität in Deutschland 2017 (MiD), Haushaltsbefragung zum Alltagsverkehr in München Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 07.07.2019 Sitzungsvorlage Nr. 14-20 /V 149778
+- TOP 3.3.: Straßenräume für den ÖPNV zukunftsweisend gestalten, Beschlussvorlage Sitzungsvorlage Nr. 14-20 / V 14806
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: (U) Einführung einer Einbahnregelung in der Brienner Straße zwischen Odeons- und Amiraplatz Parkplätze auf Höhe des Wittelsbacherplatzes
+- TOP 3.6.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 3.7.: LMU Sommerfest am 05.07.2019, Erlaubnisbescheid
+- TOP 3.8.: CSU Weinfest, Josephsplatz, 13.07.2019
+- TOP 3.9.: Erinnerungszeichen für Anna und Prof. Dr. Karl Neumayr, 17.07.2019, Königinstraße 35 a, Veranstaltung auf öffentlichem Grund, verkehrsrechtliche Erlaubnis
+- TOP 3.10.: Steirisch Herbst&#039;ln auf dem Wittelsbacherplatz vom 05. bis 08.09.2019 Eilentscheidung des Vorsitzenden, Ablehnung der Veranstaltung
+- TOP 3.11.: Skateboardkurse im Maßmannpark von Juli bis Oktober 2019, Ausnahmegenehmigung
+- TOP 3.12.: Kunstarealfest, verkehrsrechtliche Erlaubnis
+- TOP 3.13.: Sharing-Mobility – Grundsatzbeschluss, Sitzungsvorlage Nr. 14-20 / V 15209
+- TOP 3.14.: Siemens Sommerfest, 25.07.2019, Wittelsbacherplatz, verkehrsrechtliche Erlaubnis (Erlaubnisbescheid gesamt auf Alfresco und RIS)
+- TOP 3.15.: Geburtstagsfeier „Ein Jahr offener Bücherschrank“, Rudi-Hierl-Platz, 20.07.2019
+- TOP 3.16.: Arbeiten im Straßenraum, Kreisverwaltungsreferat a) Heßstaße zwischen Augusten- und Luisenstraße Heßstraße im Kreuzungsbereich Augustenstraße mit Engstellensignalisierung Fernwärmearbeiten b) Kreuzungsbereich Elisen-/Luisenstraße, Bauphase 2, 3a, 3b, Verlegung einer Fernwärme-/kälteleitung c) Marsstraße zwischen Anwesen 40 und der Dachauer Straße und der Denisstraße zwischen Marsstraße und Anwesen 5, Fernkälte-/Fernwärme)
+- TOP 3.17.: Jugendgeschichtswerkstatt, 16./17.07.2019, Königsplatz, verkehrsrechtliche Erlaubnis
+- TOP 3.18.: Oben Ohne Open Air, 20.07.2019, Königsplatz, verkehrsrechtliche Erlaubnis
+- TOP 3.19.: 100 Jahr Studio Isabella, Straßenfest am 13.07.2019, Terminverschiebung auf 24.07.2019 Eilentscheidung des Vorsitzenden, Zustimmung durch Fristablauf und Erlaubnisbescheid
+- TOP 3.20.: Feuerwerk Akademiestraße 2 am 03.08.2019, Erlaubnis
+- TOP 3.21.: Oben Ohne Open Air auf dem Königsplatz am 20.07.2019, Erlaubnisbescheid
+- TOP 3.22.: Munich Sessions Summer Fest vom 02. - 04.08.2019, Prof.-Huber-Platz, Erlaubnisbescheid
+- TOP 3.23.: Georgenstraßenfest am 20.07.2019, Erlaubnisbescheid
+- TOP 3.24.: Georgenstraßenfest am 20.07.2019, Ausnahmezulassung für Kraftstromerzeuger
+- TOP 3.25.: Errichtung eines eingeschränkten Haltverbotes in der Kardinal-Döpfner-Straße
+- TOP 3.26.: Versammlung: Protest gegen den Umbau der Parkplätze Amalienstraße am 09.08.2019
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Haus an der Gabelsbergerstraße Kath. Männerfürsorge Verein Projekt "Schöner Wohnen, auch gemeinsam im Garten" vom 13.08. - 15.10.2019 2.540,00 Euro, Az.: 0262.0-3-0261
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: „Münchner Haus der Schülerinnen und Schüler“ (MHDS), Räumlichkeiten Sachstand Beschlussvorlage für den Bildungsausschuss am 03.07.2019 Sitzungsvorlage Nr. 14-20 / V 15095
+- TOP 4.2.: Pfarrfest der kath. Pfarrei St. Benno am 13.07.2019, Erlaubnisbescheid
+- TOP 4.3.: Sanierung des Bolzplatzes in der Grünanlage Blutenburgstraße während der Sommerferien
+- TOP 4.4.: Budget, Antrag des Elternbeirates des Wittelsbacher Gymnasiums für das Musical „Joseph“ wurde zurückgezogen (s. TOP D 2.1/03 2019)
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Initiative "Buchpublikation Never Forget - Never Again" Buchpublikation "Never Forget - Never Again" im September 2019 3.500,00 Euro, Az.: 0262.0-3-0263
+- TOP 2.2.: (E) Stadtbezirksbudget MIR e.V., Verein für kulturelle Beziehungen Literarisch-musikalische Veranstaltung am 13.09.2019 1.700,00 Euro, Az.: 0262.0-3-0260
+- TOP 2.3.: (E) Stadtbezirksbudget Münchner Theater für Kinder gGmbH Erneuerung des Bühnenbodens vom 12. - 31.07.2019 5.870,00 Euro, Az.: 0262.0-3-0264
+- TOP 2.4.: (E) Stadtbezirksbudget Förderverein für die Kirchenmusik in Sankt Bonifaz e.V. Konzert am 17.11.2019 2.600,00€, Az. 0262.0-3-0262
+- TOP 2.5.: (E) Stadtbezirksbudget Junge Chöre München gGmbH Reise nach China, Kulturaustausch vom 30.08. - 13.09.2019 2.660,00 Euro, Az.: 0262.0-3-0265
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: Budget, Rücknahme eines Antrages der Kath. Kirchenstiftung St. Benno (s. TOP E 2.2/03 2019), Konzert
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP F.2.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP G: Nicht öffentliche Sitzung
