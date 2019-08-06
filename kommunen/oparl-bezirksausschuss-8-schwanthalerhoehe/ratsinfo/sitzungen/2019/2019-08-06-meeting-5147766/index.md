@@ -1,0 +1,74 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-08-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147766
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147766
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Radweg Trappentreustraße / Gollierstraße
+- TOP 4.2.: Rad-Abstellplätze Ligsalzstraße 31a
+- TOP 4.3.: Nächtliche Lärmbelästigung am Parklet Parkstraße 18
+- TOP 4.4.: Parklets im Westend - Ausweitung dieser Nutzung im öffentlichen Straßenraum
+- TOP 4.5.: Spielplatz Gollierplatz - Sachstand
+- TOP 4.6.: Fahrradweg Ridlerstraße
+- TOP 6.1.1.: Freischankfläche Am Bavariapark 16
+- TOP 6.1.2.: Freischankfläche Parkstraße 25
+- TOP 6.1.3.: Mobiler Fahrradständer Guldeinstr. 36
+- TOP 6.2.1.: Bauvorhaben Gollierstraße 39 / Rgb
+- TOP 6.2.2.: Bauvorhaben Theresienhöhe 13a - Baumfällungen
+- TOP 6.2.3.: Bauvorhaben Theresienhöhe - Parkwärterhaus
+- TOP 6.3.1.: Meldelisten Bauvorhaben
+- TOP 6.3.2.: Meldelisten Bauvorhaben SWM
+- TOP 6.3.3.: SWM-Baumaßnahme im Bereich Westendstraße 161
+- TOP 6.3.4.: Aufwertung des Heimeranplatzes
+- TOP 6.3.5.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Anglerstraße 9; Übergabe eines Erinnerungszeichens
+- TOP 7.3.2.: Standorte für Flüchtlinge und Wohnungslose
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Temporäre Fußgängerampel an der Kreuzung Theresienhöhe / Schwanthalerstraße zur Zeit des Oktoberfestes
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Baumfällung Am Bavariapark 5
+- TOP 8.2.2.: Parkstraßenfest am 07.09.2019
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Filmaufnahmen Ganghoferstraße am 23.09.2019
+- TOP 8.3.2.: Gefährliche Situation am nördlichen Ausgang der IG-Feuerwache zum Radweg an der Ben-Chorin-Straße
+- TOP 8.3.3.: Modellstadt 2030 - Mobilität gemeinsam gestalten
+- TOP 8.3.4.: Pilotprojekt Parklets; saisonale Umnutzung von Straßenräumen
+- TOP 8.3.5.: Barrierefreiheit im ÖPNV
+- TOP 8.3.6.: MVG-Leistungsprogramm 2020
+- TOP 8.3.7.: Spendenlauf im Bavariapark am 25.07.2019 - Vorabgenehmigung
+- TOP 8.3.8.: Straßenfest Köskival am 03.08.2019 - Vorabgenehmigung
+- TOP 8.3.9.: Musik- und Kunstfestival auf dem Georg-Freundorfer-Platz vom 26. bis 28.07.2019 - Vorabgenehmigung
+- TOP 8.3.10.: Vorfahrtregelung Radweg Heimeranstraße / Geroltstraße
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00€, Az. 0262.0-8-0195
+- TOP 9.1.2.: (E) Vorschlag zur Bestellung einer städtischen Leistung; Entfernung eines Graffitis vor einer Haustür
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Neu- und Umgestaltung des Fahrbahnverlaufs und der Grünflächen am Heimeranplatz
+- TOP 12.1.: Protokoll der Sitzung vom 09.07.2019
