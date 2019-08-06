@@ -1,0 +1,76 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-08-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145912
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145912
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Allgemeines
+- TOP 2.3.: Benennung einer/eines Beauftragen für Menschen mit Behinderung
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 02.07.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 2.4.: Terminplanung BA-Sitzungstermine 2020
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) LPR gGmbH: Erneuerung der Schulmöbel; Beantragte Summe: 22.546,42 Euro
+- TOP 3.3.: (E) Klangraum e.V.: Jubiläumskonzert am 14.09.2019; Beantragte Summe: 905,00 Euro
+- TOP 3.4.: (E) Helferkreis Flüchtlingsunterkunft Forstenrieder Allee 246: Einrichtung einer Fahrradreparaturwerkstatt ab 06.08.2019; Beantragte Summe: 1.796,00 Euro
+- TOP 3.5.: (E) hpkj familiy e.V.: Ferienfreizeit in Dießen am Ammersee vom 24.08.19 - 31.08.19; Beantragte Summe: 2.814,00 Euro
+- TOP 3.6.: (E) Verein zur Förderung der Grundschule an der Samberger Straße e.V.: Projekt "Schule fördert Biodiversität"; Beantragte Summe: 3.876,00 Euro
+- TOP 3.7.: (E) Katholische öffentliche Bücherei St. Johann Baptist / Solln: Anschaffung von Büchern; Beantragte Summe: 450,00 Euro
+- TOP 3.8.: (E) Evangelischer Verein München-Solln e.V.: Weiterführung der Hausaufgabenhilfe für Kinder an der Samberger Grundschule vom 16.09.2019 – 24.07.2020; Beantragte Summe: 6.882,00 Euro
+- TOP 3.9.: (E) Initiative "Never forget - never again": Buchpublikation im September 2019; Beantragte Summe: 500,00 Euro
+- TOP 3.10.: (E) Andreas Gospel Singers Verein: Anschaffung eines Schlagzeugschallschutzes; Beantragte Summe: 469,00 Euro
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Kiesgewinnung auf städtischen Flächen in Neuried
+- TOP 4.4.: (Antrag) Verbesserungen beim Baumschutz
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Terminverfolgung des Projektes Trambahn-Westtangente
+- TOP 5.1.2: Abbau von Umlaufsperren und Absenkung des Bordsteins im Bereich der Einmündung Karl-Wieninger-Weg in die Mindelheimer Str.
+- TOP 5.2.: (A) Verkehrsrechtliche Anordnung: Haltverbot Grundschule Samberger Straße
+- TOP 5.3.: (E) Ziff. 1: Rote Radwegemarkierung an der Kreuzung Siemensallee/Aidenbachstraße
+- TOP 5.4.: (E) Widmung einer Teilstrecke der Constanze-Hallgarten-Straße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Schrägparken Thurgaustraße
+- TOP 5.6.: (E) Überdachte Sitzgelegenheit an der Bushaltestelle Hinterbrühl
+- TOP 5.7.: (U) Verkehrsrechtliche Anordnung: Feuerwehranfahrtszone St.-Wendel-Straße
+- TOP 5.8.: (U) Verkehrsrechtliche Anordnung: Vorfahrt gewähren Am Isarkanal
+- TOP 5.9.: (Antrag) Erneuerung des Wegbelags in der Schaffhauser Straße
+- TOP 5.10.: (Antrag) Fuß- und Radwegsicherheit an der Forstenrieder Allee
+- TOP 5.11.: (Antrag) Fahrradwege Neurieder Kreisel
+- TOP 5.12.: (A) Änderungsvorschlag zum BA-Antrag Nr. 14-20 / B 06346 „Errichtung eines Halteverbots auf Höhe der Wendeschleife Drygalski-Allee“
+- TOP 5.13.: (Antrag) Haltverbot Forstenrieder Allee 143
+- TOP 5.14.: (Antrag) Berücksichtigung des Schulweges bei der Planung einer Realschule in der südlichen Forstenrieder Allee
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.2.: Seniorenstadtplan für den 19. Stadtbezirk
+- TOP 7.3.: (Antrag) Spielplatz Hermann-Hahn-Platz
+- TOP 7.4.: (Antrag) Trainingsuhr im Bad Forstenrieder Park
+- TOP 7.5.: (Antrag) Nachnutzung Stadtbibliothek Forum Fürstenried
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (Antrag) Kriterien für die temporäre Vermietung städtischer Grundstücke
+- TOP 8.3.: (A) Vermietung stadteigenes Grundstück: Christbaumverkauf Forstenrieder Allee vom 06.12. bis 24.12.2019
+- TOP 8.4.: (A) Veranstaltung: Isarschwimmen 2019 am 21.09.2019
+- TOP 8.5.: (E) Künstlerische Gestaltung der Unterführung an der S-Bahnhaltestelle Siemenswerke
+- TOP 8.6.: (A) Veranstaltung: Wildwassersprint-Rennen am 21.09.2019
+- TOP 8.7.: (A) Veranstaltung: Bücherlauf am 15.09.2019
+- TOP 8.8.: (U) Gaststättenfortführung: Herterichstraße 139
