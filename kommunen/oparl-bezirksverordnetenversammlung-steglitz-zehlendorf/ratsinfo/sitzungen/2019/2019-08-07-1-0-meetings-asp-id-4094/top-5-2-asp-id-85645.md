@@ -1,0 +1,8 @@
+# TOP 5.2: Otto Eduard Weddigen (1882-1915): Kriegsheld, -verbrecher oder -opfer?
+
+- Sitzung: 24. öffentliche Sitzung des Ausschusses für Bildung und Kultur (2019-08-07)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=85645
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=85645
