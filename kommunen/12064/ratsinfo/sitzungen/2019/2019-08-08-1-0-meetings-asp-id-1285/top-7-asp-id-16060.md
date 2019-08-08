@@ -1,0 +1,8 @@
+# TOP 7: Beratung und Beschlussfassung zur Bewilligung von erheblichen überplanmäßigen ÖPNV-Aufwendungen im Haushaltsjahr 2019 <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+
+- Sitzung: 1. Sitzung des Ausschusses für Wirtschaft (2019-08-08)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=16060
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/consultations.asp?typ=i&id=16060
