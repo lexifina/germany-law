@@ -1,37 +1,39 @@
-# Einführung technischer Regelwerke für den Straßenbau in Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für Fahrzeug-Rückhaltesysteme (ZTV FRS 2013, Fassung 2017)
+# Einführung technischer Regelwerke für den Straßenbau in Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für Markierungen auf Straßen (ZTV M 13)
 
 - Herausgeber: Land Brandenburg
-- Datum: 2018-06-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ztv_frs_13_17
+- Datum: 2019-08-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/ztv_m_13_2019
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
 ---
 
-Einführung technischer Regelwerke für den Straßenbau in Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für Fahrzeug-Rückhaltesysteme (ZTV FRS 2013, Fassung 2017)
+Einführung technischer Regelwerke für den Straßenbau in Brandenburg - Zusätzliche Technische Vertragsbedingungen und Richtlinien für Markierungen auf Straßen (ZTV M 13)
 
-vom 7. März 2018
+vom 9. August 2019
 
-(ABl./18, [Nr. 12], S.311)
+(ABl./19, [Nr. 34], S.835)
 
 Der Runderlass richtet sich an
 
 den Landesbetrieb Straßenwesen Brandenburg
 
-die Landkreise, die kreisfreien Städte sowie kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
+die Straßenverkehrsbehörden des Landes Brandenburg
 
-Mit Allgemeinem Rundschreiben Straßenbau (ARS) Nr. 21/2017 wurden die „Zusätzlichen Technischen Vertragsbedingungen und Richtlinien für Fahrzeug-Rückhaltesysteme“ (ZTV FRS 2013, Fassung 2017) neu bekannt gegeben.
+die Landkreise, kreisfreien Städte und Gemeinden.
 
-Hiermit werden die ZTV FRS 2013, Fassung 2017, für Baumaßnahmen an Bundesfern- und Landesstraßen eingeführt. Es wird gebeten, diese bei neu abzuschließenden Bauverträgen für Fahrzeug-Rückhaltesysteme ab dem 1. Juni 2018 zugrunde zu legen.
+Mit dem Allgemeinen Rundschreiben Straßenbau, Nummer 24/2013 vom 18. November 2013 hat das Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS) die Zusätzlichen Technischen Vertragsbedingungen und Richtlinien für Markierungen auf Straßen (ZTV M 13) bekannt gegeben.
 
-Nach Einführung der neuen ZTV FRS kann der Leistungsbereich 129 (1. Auflage 2013) nicht mehr angewendet werden. Weiterhin kann mit dem Leistungsbereich 829 der Baugrund bei allen Arbeiten an FRS mit Homogenbereichen beschrieben werden, die in den ZTV FRS definiert werden. Auf das
+Hiermit werden die ZTV M 13 für den Bereich der Bundesfern- und Landesstraßen eingeführt. Für die im Zuständigkeits­bereich der Landkreise, kreisfreien Städte sowie der kreisangehörigen Städte und Gemeinden des Landes Brandenburg liegenden Straßen wird die Anwendung empfohlen.
 
-ARS 14/2017 des BMVI vom 21. August 2017 wird gesondert hingewiesen.
+Hinsichtlich Kapitel 4.3, letzter Absatz, wird abweichend geregelt, dass Auftragnehmer von Markierungen von den lichttechnischen Anforderungen an die Tagessichtbarkeit auch auf ­neuen bituminösen Deckschichten aus Gründen der Verkehrssicherheit nicht freizustellen sind.
 
-Im Interesse einer einheitlichen Handhabung wird den Landkreisen und kreisfreien Städten sowie den kreisangehörigen Städten und Gemeinden des Landes Brandenburg die Anwendung für Straßen in ihrem Zuständigkeitsbereich empfohlen.
+Hinsichtlich Kapitel 5.1, 16. Absatz, wird abweichend geregelt, dass auch beim Einsatz von Markierungssystemen, die ent­gegen den Vorgaben gemäß dem Abschnitt 5 unter Berücksichtigung der Fachkunde und Sorgfaltspflicht auf Verlangen des Auftraggebers eingesetzt werden, die Erfüllung der Anforderungen im Gebrauchszustand zu erbringen sind.
 
-Die ZTV FRS 2013, Fassung 2017, können beim FGSV-Verlag, Wesselinger Straße 17, 50999 Köln bezogen werden.
+Der Runderlass des Ministeriums für Infrastruktur und Raumordnung Abteilung 5 - Nr. 6/2005 - Straßenverkehrstechnik vom 7. Februar 2005 (ABl. S. 310) wird hiermit aufgehoben und durch diesen Runderlass ersetzt.
 
-Der Runderlass des Ministeriums für Infrastruktur und Landwirtschaft, Abteilung 4, Nr. 5/2014 vom 7. Oktober 2014 (ABl. S. 1322) wird hiermit aufgehoben und durch diesen Runderlass ersetzt.
+Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse
 
-Der Runderlass wird im Amtsblatt für Brandenburg veröffentlicht und in das elektronische „Brandenburgische Vorschriftensystem“ (BRAVORS) unter der Internetadresse www.landesrecht.brandenburg.de eingestellt.
+www.landesrecht.brandenburg.de eingestellt.
+
+Dieser Erlass tritt mit seiner Veröffentlichung im Amtsblatt für Brandenburg in Kraft.
