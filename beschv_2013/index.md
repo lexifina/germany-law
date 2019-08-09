@@ -56,7 +56,7 @@
 ## Teil 7 Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen sowie von Personen mit Duldung und Asylbewerbern
 
 - [§ 31 Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen](0031.md)
-- [§ 32 Beschäftigung von Personen mit Duldung](0032.md)
+- [§ 32 Beschäftigung von Personen mit Duldung oder Aufenthaltsgestattung](0032.md)
 - [§ 33 (weggefallen)](0033.md)
 
 ## Teil 8 Verfahrensregelungen
@@ -70,5 +70,5 @@
 
 - [§ 38 Anwerbung und Vermittlung](0038.md)
 - [§ 39 Ordnungswidrigkeiten](0039.md)
-- [Anlage (zu § 32)](anlage.md)
+- [Anlage (zu § 32) (weggefallen)](anlage.md)
 - [Anlage (zu § 38)](anlage-2.md)
