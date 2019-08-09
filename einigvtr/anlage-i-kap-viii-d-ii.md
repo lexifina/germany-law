@@ -1,8 +1,4 @@
-# Anlage I Kap VIII D II Anlage I Kapitel VIII
-
-Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
-
-Abschnitt II
+# Anlage I Kap VIII D II Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt II
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 1. Sozialgerichtsgesetz in der Fassung der Bekanntmachung vom 23. September 1975 (BGBl. I S. 2535), zuletzt geändert durch Artikel 32 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477), wird wie folgt geändert:

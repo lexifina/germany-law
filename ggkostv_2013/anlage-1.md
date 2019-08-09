@@ -74,7 +74,6 @@ II. Teil: Straßenverkehr
 | 225.2 | Außerordentliche Prüfungen (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4 ADR). Für Prüfungen werden die Gebühren für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen erhoben. |  |
 | 225.3 | Bei Tanks, die durch Trennwände unterteilt sind, wird bei der erstmaligen Prüfung, wiederkehrenden Prüfung und der Zwischenprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14, 6.7.5.12, 6.8.2.4, 6.8.3.4, Abschnitt 6.9.5, 6.10.4 ADR) ein Zuschlag je Abteil erhoben, sofern die Prüfung der Abteile getrennt erfolgt. | 25 |
 | 225.4 | Dichtheits- und Funktionsprüfung der Ausrüstungsteile nach den Gebührennummern 222.4, 223.3 und 224 bei Behältern zum Transport von Gasen (Klasse 2). | 40 je begonnene Viertelstunde |
-| Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 225.5 | Bauprüfung bei Tanks zum Transport von tiefgekühlten verflüssigten Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14 und 6.8.3.4 ADR). | 40 je begonnene Viertelstunde |
 | 225.6 | Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 ADR). | 55 |
 | 225.7 | Änderung der Zulassungsbescheinigung (Unterabschnitt 9.1.3.1 ADR), einschließlich eventuell erforderlicher Prüfungen. | 40 je begonnene Viertelstunde |
@@ -118,7 +117,6 @@ III. Teil: Eisenbahnverkehr
 | 616.1 | Bauprüfung bei Tanks zum Transport von tiefgekühlten verflüssigten Gasen der Klasse 2 (vakuumisolierte Behälter) (Unterabschnitt 6.7.4.14 RID). | 40 je begonnene Viertelstunde |
 | 616.2 | Vakuummessung des Isolierraumes (Absatz 6.8.3.4.7 RID). | 55 |
 | 616.3 | Bei Eisenbahnkesselwagen, die nur mit Obenentleerung ausgerüstet sind (z. B. Klassen 3 bis 9), werden bei den Gebührennummern 613.3, 613.4, 614.2, 614.3 und 615 nur 70 Prozent der jeweiligen Gebühr berechnet. |  |
-| Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 616.4 | Außerordentliche Prüfungen (Absatz 6.8.2.4.4 RID): Für Prüfungen im Rahmen von außerordentlichen Prüfungen sind Gebühren wie für die entsprechenden erstmaligen oder wiederkehrenden Prüfungen zu entrichten. |  |
 | 616.5 | Einzelne Funktionsprüfungen: Im Zusammenhang mit den Prüfungen nach Unterabschnitt 6.8.2.4 und 6.8.3.4 RID vor Inbetriebnahme durchzuführende oder wiederkehrende Funktionsprüfungen von ausgebauten Armaturen. | 20 je Funktionsprüfung |
 | 616.6 | Für die Prüfungen zur Anerkennung der Befähigung der Hersteller für die Ausführung von Schweißarbeiten (Absatz 6.8.2.1.23 Satz 1 RID) werden Gebühren nach Gebührennummer 617 berechnet. |  |
@@ -224,7 +222,6 @@ V. Teil: Seeschiffsverkehr
 | 1061.2 | Druckprüfung (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code). | 100 | 115 | 130 |
 | 1061.3 | Dichtheits- und Funktionsprüfung der Ausrüstungsteile (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code). | 65 | 65 | 65 |
 | 1061.4 | Prüfung der Übereinstimmung mit dem Baumuster im Anschluss an 1061.1 bis 1061.3 (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code). | 100 | 100 | 100 |
-| Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) bis 7 500 Liter: | Gebühr (EUR) bis 20 000 Liter: | Gebühr (EUR) über 20 000 Liter: |
 | 1061.5 | Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code). | 60 bis 90 | 80 bis 120 | 100 bis 150 |
 | 1062 | Wiederkehrende Prüfung, Gebührenhöhe abhängig vom Fassungsraum des Tanks: |  |  |  |
 | 1062.1 | Prüfung des inneren und äußeren Zustands (Unterabschnitt 6.7.2.19, 6.7.3.15, 6.7.4.14 und 6.7.5.12 IMDG-Code). | 145 bis 175 | 180 bis 220 | 215 bis 265 |

@@ -1,8 +1,4 @@
-# Anlage I Kap IV B II Anlage I Kapitel IV
-
-Sachgebiet B - Haushalts- und Finanzwesen
-
-Abschnitt II
+# Anlage I Kap IV B II Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 1. Gesetz über die Errichtung eines Fonds "Deutsche Einheit" vom 25. Juni 1990 (BGBl. 1990 II S. 518, 533)

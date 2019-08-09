@@ -208,11 +208,7 @@ Abschnitt II](anlage-i-kap-iv-a-ii.md)
 Sachgebiet B - Haushalts- und Finanzwesen
 
 Abschnitt I](anlage-i-kap-iv-b-i.md)
-- [Anlage I Kap IV B II Anlage I Kapitel IV
-
-Sachgebiet B - Haushalts- und Finanzwesen
-
-Abschnitt II](anlage-i-kap-iv-b-ii.md)
+- [Anlage I Kap IV B II Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt II](anlage-i-kap-iv-b-ii.md)
 - [Anlage I Kap IV B III Anlage I Kapitel IVSachgebiet B - Haushalts- und FinanzwesenAbschnitt III](anlage-i-kap-iv-b-iii.md)
 - [Anlage I Kap V Anlage I Kapitel VGeschäftsbereich des Bundesministers für Wirtschaft](anlage-i-kap-v.md)
 - [Anlage I Kap V A I Anlage I Kapitel V
@@ -322,11 +318,7 @@ Sachgebiet B - Technischer Arbeitsschutz
 Abschnitt II](anlage-i-kap-viii-b-ii.md)
 - [Anlage I Kap VIII B III Anlage I Kapitel VIIISachgebiet B - Technischer ArbeitsschutzAbschnitt III](anlage-i-kap-viii-b-iii.md)
 - [Anlage I Kap VIII C III Anlage I Kapitel VIIISachgebiet C - Sozialer ArbeitsschutzAbschnitt III](anlage-i-kap-viii-c-iii.md)
-- [Anlage I Kap VIII D II Anlage I Kapitel VIII
-
-Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
-
-Abschnitt II](anlage-i-kap-viii-d-ii.md)
+- [Anlage I Kap VIII D II Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt II](anlage-i-kap-viii-d-ii.md)
 - [Anlage I Kap VIII D III Anlage I Kapitel VIIISachgebiet D - Übergreifende Vorschriften des SozialrechtsAbschnitt III](anlage-i-kap-viii-d-iii.md)
 - [Anlage I Kap VIII E I Anlage I Kapitel VIII
 
