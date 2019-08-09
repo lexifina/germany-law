@@ -89,9 +89,9 @@
   | Klasse | Zahl der Fragen | Summe der Punkte | Zulässige Fehlerpunkte |
   | AM, A1, A2, A, B, L, T | 20 | 72 | 6 |
   | C | 37 | 128 | 10 |
-  | C1, CE | 30 | 105 | 101 |
-  | D | 40 | 138 | 101 |
-  | D1 | 35 | 121 | 101 |
+  | C1, CE | 30 | 105 | 10 |
+  | D | 40 | 138 | 10 |
+  | D1 | 35 | 121 | 10 |
   Weitere Einzelheiten der theoretischen Prüfung ergeben sich aus der Prüfungsrichtlinie, die vom Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden in der jeweils geltenden Fassung im Verkehrsblatt bekannt gemacht wird.
 1.2.3 Bewertung der Prüfung
   Die theoretische Prüfung ist nicht bestanden, wenn die unter Nummer 1.2.2 bei den einzelnen Klassen jeweils aufgeführte Zahl der zulässigen Fehlerpunkte überschritten oder zwei Fragen mit Wertigkeit 5 falsch beantwortet worden sind.

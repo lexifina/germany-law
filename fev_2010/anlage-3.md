@@ -17,7 +17,7 @@ I. Fahrerlaubnisse nach der Straßenverkehrs-Zulassungs-Ordnung (Erteilungsdatum
 | 11 | 2 | im Saarland nach dem 30.11.54 und vor dem 1.10.60 | A, A2, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, BE 79.06 |
 | 12 | 2 | vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.05, A 79.03, A 79.04, BE 79.06 |
 | 13 | 2 | nach dem 31.3.80 | A, A1, AM, B, BE, C1, C1E, C, CE, L, T |  | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06 |
-| 14 | 2 beschränkt auf Kombinationen nach Art eines Sattelkraftfahrzeugs oder eines Lastkraftwagens mit drei Achsen | nach dem 31.12.85 | A, A1, AM, B, BE, C1, C1E, C, CE, L | T1 | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (L ≤ 3) |
+| 14 | 2 beschränkt auf Kombinationen nach Art eines Sattelkraftfahrzeugs oder eines Lastkraftwagens mit drei Achsen | nach dem 31.12.85 | A, A1, AM, B, BE, C1, C1E, C, CE, L | T | C 172, A1 79.03, A1 79.04, A 79.03, A 79.04, BE 79.06, CE 79 (L ≤ 3) |
 | 15 | 3 (a+b) | vor dem 1.12.54 | A, A2, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
 | 16 | 3 | im Saarland nach dem 30.11.54 und vor dem 1.10.60 | A, A2, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
 | 17 | 3 | vor dem 1.4.80 | A, A1, AM, B, BE, C1, C1E, CE, L | T | C1 171, L 174, 175, A1 79.05, A 79.03, A 79.04, BE 79.06, CE 79 (C1E > 12 000 kg, L ≤ 3) |
