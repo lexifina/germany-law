@@ -17,25 +17,30 @@
 | 2.5 | Bescheinigung für eine Wanderausstellung nach Artikel 30 der Verordnung (EG) Nr. 865/2006 | 60 |
 | 2.6 | Genehmigung für Carnet-ATA-Musterkollektionen nach Artikel 44a der Verordnung (EG) Nr. 865/2006 | 24 |
 | 3. | Erteilung von Ausnahmen nach Artikel 8 Absatz 3 der Verordnung (EG) Nr. 338/97 und von den Verboten des § 44 Absatz 2 des Bundesnaturschutzgesetzes nach § 45 Absatz 7 und 8 des Bundesnaturschutzgesetzes im Fall des Verbringens aus dem Ausland | 16 |
-| 4. | Negativbescheinigung oder Bestätigung des Bundesamtes für Naturschutz über bereits ausgestellte Genehmigungen oder Bescheinigungen gegenüber Berechtigten | 16 |
-| 5. | Erteilung von Blanketten für künstlich vermehrte Pflanzen aus registrierten Pflanzenvermehrungsbetrieben nach Artikel 29 der Verordnung (EG) Nr. 865/2006 pro Bescheinigung | 8 |
-| 6. | Anerkennung, Zulassung und Registrierung |  |
-| 6.1 | Zulassung und Registrierung von Kaviarverpackungsbetrieben nach Artikel 66 Absatz 7 der Verordnung (EG) Nr. 865/2006 | 600 |
-| 6.2 | Anerkennung von Betrieben gemäß Artikel IX Absatz 1 Buchstabe a des Übereinkommens vom 3. März 1973 über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (BGBl. 1975 II S. 773, 777) – Washingtoner Artenschutzübereinkommen –, in denen nach Artikel VII Absatz 4 des Washingtoner Artenschutzübereinkommens Exemplare für Handelszwecke gezüchtet oder künstlich vermehrt werden | 300 |
-| 6.3 | Registrierung von Personen oder Einrichtungen nach den Artikeln 18 und 19 der Verordnung (EG) Nr. 865/2006 | 100 |
-| 6.4 | Änderung von Entscheidungen nach den Gebührennummern 6.1 bis 6.3 | 50 bis 300 |
-| 7. | Genehmigung des Ausbringens im Inland noch nicht vorkommender Arten nach § 40 Absatz 5 des Bundesnaturschutzgesetzes | 50 bis 2 000 |
-| 8. | Anordnung von Maßnahmen nach § 7 Absatz 2 des Umweltschadensgesetzes zur Erfüllung von Pflichten aus den §§ 4 bis 6 des Umweltschadensgesetzes im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels | 50 bis 10 000 |
-| 9. | Anordnung nach § 3 Absatz 2 des Bundesnaturschutzgesetzes zur Sicherstellung der Einhaltung der Vorschriften des Bundesnaturschutzgesetzes und der auf Grund dieses Gesetzes erlassenen Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels | 30 bis 2 000 |
-| 10. | Eingriffe in Natur und Landschaft nach § 14 des Bundesnaturschutzgesetzes im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
-| 10.1 | Genehmigung von Eingriffen in Natur und Landschaft nach § 17 Absatz 3 des Bundesnaturschutzgesetzes | 30 bis 2 000 |
-| 10.2 | Untersagung der weiteren Durchführung von Eingriffen nach § 17 Absatz 8 Satz 1 des Bundesnaturschutzgesetzes oder Anordnung von Maßnahmen nach § 17 Absatz 8 Satz 2 in Verbindung mit § 15 des Bundesnaturschutzgesetzes oder Anordnung der Wiederherstellung des früheren Zustands nach § 17 Absatz 8 Satz 2 des Bundesnaturschutzgesetzes | 30 bis 1 500 |
-| 10.3 | Anordnung vorläufiger Maßnahmen zur Sicherung der Ausgleichs- und Ersatzmaßnahmen oder zur Kompensation des Eingriffs nach § 17 Absatz 9 Satz 3 des Bundesnaturschutzgesetzes | 30 bis 1 500 |
-| 11. | Schutz bestimmter Teile von Natur und Landschaft im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
-| 11.1 | Befreiung nach § 67 Absatz 1 des Bundesnaturschutzgesetzes von den Geboten und Verboten in einer Rechtsverordnung auf Grund des § 57 des Bundesnaturschutzgesetzes oder von solchen in einer einstweiligen Sicherstellung nach § 22 Absatz 3 des Bundesnaturschutzgesetzes oder Ausnahme bzw. Befreiung nach der jeweiligen Rechtsverordnung | 30 bis 3 000 |
-| 11.2 | Ausnahme nach § 30 Absatz 3 des Bundesnaturschutzgesetzes oder Befreiung nach § 67 Absatz 1 des Bundesnaturschutzgesetzes von den Verboten des § 30 Absatz 2 des Bundesnaturschutzgesetzes | 50 bis 20 000 |
-| 11.3 | Anordnung im Hinblick auf die Durchführung eines Projekts nach § 34 Absatz 6 des Bundesnaturschutzgesetzes | 30 bis 3 000 |
-| 11.4 | Ausnahme nach § 34 Absatz 3 bis 5 des Bundesnaturschutzgesetzes oder Befreiung nach § 67 Absatz 2 des Bundesnaturschutzgesetzes vom Verbot des § 33 Absatz 1 Satz 1 des Bundesnaturschutzgesetzes oder von den Geboten und Verboten im Sinne von § 32 Absatz 3 des Bundesnaturschutzgesetzes | 30 bis 3 000 |
-| 12. | Artenschutz im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
-| 12.1 | Genehmigung des Ausbringens von Arten nach § 40 Absatz 4 des Bundesnaturschutzgesetzes oder Beseitigungsanordnung nach § 40 Absatz 6 des Bundesnaturschutzgesetzes | 50 bis 2 000 |
-| 12.2 | Ausnahme nach § 45 Absatz 7 oder Befreiung nach § 67 Absatz 2 von den Verboten des § 44 Absatz 1 des Bundesnaturschutzgesetzes | 50 bis 20 000. |
+| 4. | Genehmigung nach § 40c des Bundesnaturschutzgesetzes im Fall des Verbringens aus dem Ausland | 50 bis 2 500 |
+| 5. | Negativbescheinigung oder Bestätigung des Bundesamtes für Naturschutz über bereits ausgestellte Genehmigungen oder Bescheinigungen gegenüber Berechtigten | 16 |
+| 6. | Erteilung von Blanketten für künstlich vermehrte Pflanzen aus registrierten Pflanzenvermehrungsbetrieben nach Artikel 29 der Verordnung (EG) Nr. 865/2006 pro Bescheinigung | 8 |
+| 7. | Anerkennung, Zulassung und Registrierung |  |
+| 7.1 | Zulassung und Registrierung von Kaviarverpackungsbetrieben nach Artikel 66 Absatz 7 der Verordnung (EG) Nr. 865/2006 | 600 |
+| 7.2 | Anerkennung von Betrieben gemäß Artikel IX Absatz 1 Buchstabe a des Übereinkommens vom 3. März 1973 über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen (BGBl. 1975 II S. 773, 777) – Washingtoner Artenschutzübereinkommen –, in denen nach Artikel VII Absatz 4 des Washingtoner Artenschutzübereinkommens Exemplare für Handelszwecke gezüchtet oder künstlich vermehrt werden | 300 |
+| 7.3 | Registrierung von Personen oder Einrichtungen nach den Artikeln 18 und 19 der Verordnung (EG) Nr. 865/2006 | 100 |
+| 7.4 | Änderung von Entscheidungen nach den Gebührennummern 7.1 bis 7.3 | 50 bis 300 |
+| 8. | Genehmigung des Ausbringens im Inland noch nicht vorkommender Arten nach § 40 Absatz 2 des Bundesnaturschutzgesetzes | 50 bis 2 000 |
+| 9. | Anordnung von Maßnahmen nach § 7 Absatz 2 des Umweltschadensgesetzes zur Erfüllung von Pflichten aus den §§ 4 bis 6 des Umweltschadensgesetzes im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels | 50 bis 10 000 |
+| 10. | Anordnung nach § 3 Absatz 2 des Bundesnaturschutzgesetzes zur Sicherstellung der Einhaltung der Vorschriften des Bundesnaturschutzgesetzes und der auf Grund dieses Gesetzes erlassenen Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels | 30 bis 2 000 |
+| 11. | Eingriffe in Natur und Landschaft nach § 14 des Bundesnaturschutzgesetzes im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
+| 11.1 | Genehmigung von Eingriffen in Natur und Landschaft nach § 17 Absatz 3 des Bundesnaturschutzgesetzes | 30 bis 2 000 |
+| 11.2 | Untersagung der weiteren Durchführung von Eingriffen nach § 17 Absatz 8 Satz 1 des Bundesnaturschutzgesetzes oder Anordnung von Maßnahmen nach § 17 Absatz 8 Satz 2 in Verbindung mit § 15 des Bundesnaturschutzgesetzes oder Anordnung der Wiederherstellung des früheren Zustands nach § 17 Absatz 8 Satz 2 des Bundesnaturschutzgesetzes | 30 bis 1 500 |
+| 11.3 | Anordnung vorläufiger Maßnahmen zur Sicherung der Ausgleichs- und Ersatzmaßnahmen oder zur Kompensation des Eingriffs nach § 17 Absatz 9 Satz 3 des Bundesnaturschutzgesetzes | 30 bis 1 500 |
+| 11.4 | Zustimmung zur Bevorratung einer vorgezogenen Ausgleichs- oder Ersatzmaßnahme nach § 56a Absatz 1 des Bundesnaturschutzgesetzes | 800 bis 10 000 |
+| 11.5 | Feststellung von Art, Ort, Umfang und Kompensationswert einer vorgezogenen Ausgleichs- oder Ersatzmaßnahme nach § 56a Absatz 2 des Bundesnaturschutzgesetzes | 400 bis 5 000 |
+| 11.6 | Anerkennung der Berechtigung von juristischen Personen zur Übernahme von Kompensationspflichten nach § 56a Absatz 3 des Bundesnaturschutzgesetzes | 6 000 |
+| 12. | Schutz bestimmter Teile von Natur und Landschaft im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
+| 12.1 | Befreiung nach § 67 Absatz 1 des Bundesnaturschutzgesetzes von den Geboten und Verboten in einer Rechtsverordnung auf Grund des § 57 des Bundesnaturschutzgesetzes oder von solchen in einer einstweiligen Sicherstellung nach § 22 Absatz 3 des Bundesnaturschutzgesetzes oder Ausnahme bzw. Befreiung nach der jeweiligen Rechtsverordnung | 30 bis 3 000 |
+| 12.2 | Ausnahme nach § 30 Absatz 3 des Bundesnaturschutzgesetzes oder Befreiung nach § 67 Absatz 1 des Bundesnaturschutzgesetzes von den Verboten des § 30 Absatz 2 des Bundesnaturschutzgesetzes | 50 bis 20 000 |
+| 12.3 | Anordnung im Hinblick auf die Durchführung eines Projekts nach § 34 Absatz 6 des Bundesnaturschutzgesetzes | 30 bis 3 000 |
+| 12.4 | Ausnahme nach § 34 Absatz 3 bis 5 des Bundesnaturschutzgesetzes oder Befreiung nach § 67 Absatz 2 des Bundesnaturschutzgesetzes vom Verbot des § 33 Absatz 1 Satz 1 des Bundesnaturschutzgesetzes oder von den Geboten und Verboten im Sinne von § 32 Absatz 3 des Bundesnaturschutzgesetzes | 30 bis 3 000 |
+| 13. | Artenschutz im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
+| 13.1 | Genehmigung des Ausbringens von Arten nach § 40 Absatz 1 des Bundesnaturschutzgesetzes oder Beseitigungsanordnung nach § 40 Absatz 3 des Bundesnaturschutzgesetzes | 50 bis 2 000 |
+| 13.2 | Ausnahme nach § 45 Absatz 7 oder Befreiung nach § 67 Absatz 2 von den Verboten des § 44 Absatz 1 des Bundesnaturschutzgesetzes | 50 bis 20 000. |
+| 13.3 | Anordnungen zur Abwehr von Gefahren durch invasive Arten nach § 40a Absatz 1 oder 3 des Bundesnaturschutzgesetzes | 50 bis 10 000. |
