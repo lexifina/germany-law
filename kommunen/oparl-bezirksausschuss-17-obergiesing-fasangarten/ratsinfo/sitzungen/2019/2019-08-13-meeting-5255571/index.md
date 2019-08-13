@@ -1,0 +1,149 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-08-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255571
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255571
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Aufstellung einer Sitzbank in der Unteren Grasstraße 13 - 13 a; Bürgeranliegen (E-Mail) vom 18.07.2019
+- TOP 2.1.2.2.: Waschanlage Shell-Tankstelle Tegernseer Landstraße; Bürgeranliegen (E-Mail) vom 26.07.2019
+- TOP 2.1.2.3.: Stadion Grünwalder Straße, Anwohner; Bürgeranliegen (E-Mail) vom 23.07.2019
+- TOP 2.1.2.4.: Bauvorhaben an der Münchberger Straße; Bürgerschreiben (E-Mail) vom 29.07.2019
+- TOP 3.9.1.1.: Balanstraße 350, 1 Birke
+- TOP 3.9.1.2.: Hohenschwangaustr. 27, 2 Fichten
+- TOP 4.1.: Verkehrsführung in der Silberhorn- und Deisenhofener Straße sowie Verschwenkung Heimgarten- bis zur Werinherstraße; Antrag der SPD-Fraktion
+- TOP 4.2.: SWM-Vorhaben an der Lauensteinstraße und Planungen für die Sportflächen des SV Stadtwerke; Antrag der SPD-Fraktion
+- TOP 4.3.: Verlagerung der Bebauung nach Bebauungsplan Nr. 2118 von der westlichen auf die östliche Seite der BAB A 8, hilfsweise Reduzierung der Planung; Antrag der FDP
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Einspurigkeit der Deisenhofener Straße zur Verbesserung der Verkehrssituation nutzen ! Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.6.: Siedlungswachstum und Schulplanung im 17. Stadtbezirk Obergiesing-Fasangarten; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4.7.: Temporären Fahrradstellplatz vor Biolebensmittelmarkt an der Tegernseer Landstraße 41 einrichten; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 5.1.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Projekt "Sprachförderung" von Mitte September 2019 bis Ende Juli 2020 1.350,00 € / Az. 0262.0-17-0212
+- TOP 5.1.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Projekt "Kunst & Bauen" von Mitte September 2019 bis Ende Juli 2020 500,00 € / Az. 0262.0-17-0213
+- TOP 5.1.3.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00 € / Az. 0262.0-17-0216
+- TOP 5.1.4.: (E) Stadtbezirksbudget 103er - Freizeittreff Obergiesing Theatertage vom 11.-14.11.2019 2.400,00 € / Az. 0262.0-17-0218
+- TOP 5.1.5.: (E) Stadtbezirksbudget Initiative "E-Lastenfahrrad" Anschaffung eines E-Lastenfahrrades 2.600,00 € / Az. 0262.0-17-0217
+- TOP 5.1.6.: Beschlussfassung über die Finanzierung der Veranstaltung zum Tag des offenen Denkmals am 08.09.19 aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von 500,- €
+- TOP 5.2.1.: Bestellung von Ferienpässen und Familienpässen für Einrichtungen mit Kindern und Jugendlichen im Stadtbezirk Obergiesing-Fasangarten; Antrag der CSU-Fraktion
+- TOP 5.2.2.: Aufstellung einer Parkbank in der Unteren Grasstraße 13 - 13 a; Antrag der Freien Wähler
+- TOP 5.4: Sonstiges
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/30 und Bebauungsplan mit Grünordnung Nr. 2118
+- TOP 6.1.3.2.: Traunsteiner Straße 19, Neubau zweier Anbauten mit Wohnungen für Menschen mit Behinderung und für Mitarbeiter sowie einer medizinischen Praxis für Behinderte; Anhörung durch die Lokalbaukommission
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk im Zeitraum vom 24.06.19 - 28.07.19
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Jubiläum 200 Jahre kommunales Friedhofs- und Bestattungswesen“ am 11.-12.10.19 auf dem Ella-Lingens-Platz Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Internationales Sommerfesten“ am 07.09.19 in der Schlierseestraße 21; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.3.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 auf dem Ella-Lingens-Platz Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.4.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der St.-Martin-Straße 7; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.5.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Wendelsteinstraße 11; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.6.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Zugspitzstraße; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.7.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Weinbauernstraße; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.8.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Kistlerstraße; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.9.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Tegernseer Land- / Watzmannstraße; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.10.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Oberen Grasstraße; Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.3.11.: Veranstaltung auf öffentlichem Verkehrsgrund gem. §29 der StVO: „Ois Giasing“ am 07.09.19 in der Raintaler Straße (Louisoder-Spielplatz); Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Freischankflächenantrag vor dem Anwesen Schlierseestraße 23, Antrag zum Aufstellen von Warenstellagen vor dem Anwesen Schlierseestraße 23; Beschluss des BA 17 vom 04.06.2019 (TOP 6.6.2.1 und 6.6.2.2); erneute Vorlage der Anträge; Schreiben des Kreisverwaltungsreferates vom 17.07. und 23.07.2019
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis (Erweiterung einer bestehenden Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; hier: St.-Martzin-Straße 38, Erweiterung einer bestehenden Freischankfläche "Lithos in der Brecherspitze"; Vorlage des Kreisverwaltungsreferates
+- TOP 6.6.2.3.: Entscheidung über Sondernutzungserlaubnis (Genehmigungung einer Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; hier: Martin-Luther-Straße 26, Genehmigung einer Freischankfläche "C & O Cafeteria"; Vorlage des Kreisverwaltungsreferates
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Antrag für die Aufstellung einer Sitzgelegenheit (1 Bank) vor dem Ladengeschäft Kistlerstraße 1 ("Café Schaumamoi"); Anhörung durch das Kreisverwaltungsreferat
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
