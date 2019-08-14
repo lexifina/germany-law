@@ -1,0 +1,101 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-08-14T17:20:00+02:00
+- Ende: 2019-08-14T22:49:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3831
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3831
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Geschäftliches - (offen)
+- TOP 1.1: BVV Neukölln verurteilt islamistische Provokation auf dem Tempelhofer Feld - in der BVV abgelehnt
+- TOP 1.2: Konsensliste - Überweisungsliste - in der BVV abgelehnt
+- TOP 2: Entschließungen - (offen)
+- TOP 2.1: Kein Gedenken an NS-Kriegsverbrecher Rudolf Heß in Neukölln und anderswo - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Vorlagen zur Beschlussfassung - (offen)
+- TOP 3.1: Bezirkshaushaltsplan für die Jahre 2020/2021 (Doppelhaushalt) - überwiesen
+- TOP 4: Vorlagen zur Wahl - (offen)
+- TOP 4.1: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - in der BVV abgelehnt
+- TOP 5: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 5.1: Umsetzung der Kostenfreiheit für Schulessen und Hortbetreuung - beantwortet
+- TOP 5.2: Werbematerial aus dem linken politischen Bereich im öffentlichen Raum - beantwortet
+- TOP 5.3: Fairer Bezirk – Faires Equipment - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Ursachen für Säuglingssterblichkeit wissenschaftlich erforschen lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Veränderungssperre XIV-185db/32 für das Grundstück Rungiusstraße 9 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-185db - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.6: Gefahrensituation in der Glasower Straße entschärfen - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Ampelanlage Werbellinstraße / Morusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Sanktionen im Jobcenter Neukölln aussetzen - in der BVV abgelehnt
+- TOP 5.9: Bezirksamt Neukölln muss seiner Pflicht zum EU-Freizügigkeitsrecht nachkommen - in der BVV abgelehnt
+- TOP 5.10: Ausweitung der Öffnungszeiten des Drogenkonsumraumes - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Weitere(r) Spritzen-Automat(en) in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Energieeffiziente Verwaltung im Rathaus - ohne Änderungen in der BVV beschlossen
+- TOP 5.13: Schilder da, aber niemand kann sie sehen II - in der BVV abgelehnt
+- TOP 5.14: Schilder da, aber niemand kann sie sehen III - in der BVV abgelehnt
+- TOP 5.15: Schilder da, aber niemand kann sie sehen IV - in der BVV abgelehnt
+- TOP 5.16: Schilder da, aber niemand kann sie sehen IX - in der BVV abgelehnt
+- TOP 5.17: Schilder da, aber niemand kann sie sehen V - in der BVV abgelehnt
+- TOP 5.18: Schilder da, aber niemand kann sie sehen VI - in der BVV abgelehnt
+- TOP 5.19: Schilder da, aber niemand kann sie sehen VII - in der BVV abgelehnt
+- TOP 5.20: Schilder da, aber niemand kann sie sehen VIII - in der BVV abgelehnt
+- TOP 5.21: Schilder da, aber niemand kann sie sehen X - in der BVV abgelehnt
+- TOP 5.22: Schilder da, aber niemand kann sie sehen XI - in der BVV abgelehnt
+- TOP 5.23: Schilder da, aber niemand kann sie sehen XII - in der BVV abgelehnt
+- TOP 5.24: Schilder da, aber niemand kann sie sehen XIII - in der BVV abgelehnt
+- TOP 5.25: Schilder da, aber niemand kann sie sehen XIV - in der BVV abgelehnt
+- TOP 5.26: Schilder da, aber niemand kann sie sehen XV - in der BVV abgelehnt
+- TOP 5.27: Schilder da, aber niemand kann sie sehen XVI - in der BVV abgelehnt
+- TOP 5.28: Schilder da, aber niemand kann sie sehen XVII - in der BVV abgelehnt
+- TOP 5.29: Schilder da, aber niemand kann sie sehen XVIII - in der BVV abgelehnt
+- TOP 5.30: Schilder da, aber niemand kann sie sehen XXII - in der BVV abgelehnt
+- TOP 5.31: Schilder da, aber niemand kann sie sehen XXIII - in der BVV abgelehnt
+- TOP 5.32: Schilder da, aber niemand kann sie sehen XXIV - in der BVV abgelehnt
+- TOP 5.33: Schilder da, aber niemand kann sie sehen XXV - in der BVV abgelehnt
+- TOP 5.34: Schilder da, aber niemand kann sie sehen XXVI - in der BVV abgelehnt
+- TOP 5.35: Schilder da, aber niemand kann sie sehen XXVII - in der BVV abgelehnt
+- TOP 5.36: Kippenboxen - ohne Änderungen in der BVV beschlossen
+- TOP 5.37: Radfahrerfreundliches Neukölln- E-Bikes - in der BVV abgelehnt
+- TOP 5.38: Gehweg vor der Neuköllner Straße 213 endlich Pflastern - in der BVV abgelehnt
+- TOP 5.39: Tempo 30 - in der BVV abgelehnt
+- TOP 5.40: Umbau Fahrradstellplatz - ohne Änderungen in der BVV beschlossen
+- TOP 5.41: Rotphase an der Ampel an der Einmündung Lipschitzallee/ Rudower Str. verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 5.42: Planungsrecht Werderlake - in der BVV abgelehnt
+- TOP 5.43: 27. Januar - Gedenktag für die Opfer des Nationalsozialismus begehen - ohne Änderungen in der BVV beschlossen
+- TOP 5.44: Keine Zuwendungskürzungen für To Spiti und Al Muntada - ohne Änderungen in der BVV beschlossen
+- TOP 5.45: Neuland statt Neukölln 2.0? - beantwortet
+- TOP 5.46: Werbeflächen für Sozial- und Kultureinrichtungen in Neukölln - beantwortet
+- TOP 5.47: Monatelanges Warten auf das Wohngeld - beantwortet
+- TOP 5.48: Osteuropäische Obdachlose – im Wartemodus auf Sozialhilfe - vertagt
+- TOP 5.49: Gedenkort Zwangsarbeiterlager Fulhamer Allee - vertagt
+- TOP 5.50: Unterkunft mit Beratung und Unterstützung für wohnungslose Minderjährige - vertagt
+- TOP 5.51: Lehr- und Lernmitteletat der Schulen - vertagt
+- TOP 5.52: Bebauungsplan 8-52ba („Dörferblick - Gärtnereien“) - vertagt
+- TOP 5.53: Städtepartnerschaften! - vertagt
+- TOP 5.54: Städtepartnerschaften leben – Zivilgesellschaftliches Engagement stärken - vertagt
+- TOP 5.55: Elektrische Fahrzeuge und Ladesäulen für Neukölln - vertagt
+- TOP 5.56: 100 Jahre August Heyn Gartenarbeitsschule (AHGAS) - vertagt
+- TOP 5.57: Zustand Post-Briefkästen verbessern - vertagt
+- TOP 5.58: Mehr Sicherheit im Verkehr für Seniorinnen und Senioren sowie Menschen mit einer Behinderung – Fußgängerampeln mit Restlaufanzeige erproben! - vertagt
+- TOP 5.59: Dreck im Gleisbett - vertagt
+- TOP 5.60: Familien-Service-Büro für Neukölln - vertagt
+- TOP 5.61: Tätigkeitsmöglichkeiten für Langzeitarbeitslose ausweiten! - vertagt
+- TOP 5.62: Schulhof für die Konrad-Agadh-Schule - vertagt
+- TOP 5.63: Jahrzehnte ansässige Philipp Moris Fabrik droht die Schließung. Wie kann der Bezirk die 1050 Angestellten unterstützen? - vertagt
+- TOP 5.64: Gilt in Neuköllner Schulkantinen die Scharia? - Teil VI - vertagt
+- TOP 5.65: Rodungen und Fällungen während der Brut- und Setzzeit - schriftlich beantwortet
+- TOP 5.66: Klimagerechte BVV-Unterlagen - vertagt
+- TOP 5.67: Einbahnstraße für den Rad-Gegenverkehr öffnen - vertagt
+- TOP 5.68: Temporäre Fahrbahnmarkierung für Radfahrende - vertagt
+- TOP 5.69: Fahrradstraße Neukölln - vertagt
+- TOP 5.70: Geschwindigkeitsüberwachung im Ortolanweg - vertagt
+- TOP 5.71: Eine neue Küche für den Jugendclub Manege - vertagt
+- TOP 5.72: Aufstellung einer mobilen Geschwindigkeitsmessanlage Fritz-Reuter-Allee - vertagt
+- TOP 5.73: Ausschilderung Baustelle Karl-Marx-Straße - vertagt
+- TOP 5.74: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - vertagt
+- TOP 5.75: Nutzerfreundliche Papierkörbe in der Karl-Marx-Straße - vertagt
+- TOP 5.76: Höhere Taktzeiten auf der Buslinie 171 während des SEV auf der U7 - vertagt
+- TOP 5.77: Bebauungsplan XIV-60 („Mohriner Allee / Buckower Damm“) - vertagt
