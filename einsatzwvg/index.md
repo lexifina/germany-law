@@ -1,5 +1,6 @@
 # Gesetz zur Regelung der Weiterverwendung nach Einsatzunfällen
 
+- [Inhaltsübersicht](inhaltsuebersicht.md)
 
 ## Abschnitt 1 Allgemeine Vorschriften
 
@@ -38,6 +39,7 @@
 
 - [§ 19 Vorübergehend im Auswärtigen Dienst verwendete Beschäftigte des Bundes](0019.md)
 - [§ 20 Zum Bund abgeordnete Beschäftigte](0020.md)
+- [§ 20a Bezugspersonen](0020a.md)
 
 ## Abschnitt 7 Schlussvorschriften
 
