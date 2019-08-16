@@ -21,7 +21,6 @@
 - [§ 12 Berichtigung und Ergänzung von Daten](0012.md)
 - [§ 13 Aufbewahrung von Daten](0013.md)
 - [§ 14 Löschung von Daten](0014.md)
-- [§ 14 Löschung von Daten](0014-2.md)
 - [§ 15 Aufbewahrung und Löschung von Hinweisen](0015.md)
 - [§ 16 Anbieten von Daten an Archive](0016.md)
 
