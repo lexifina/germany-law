@@ -58,7 +58,7 @@
 |  |  |  | Verletzung von Sicherstellungsvorschriften | § 32 |
 |  |  |  | (weggefallen) | § 33 |
 |  |  |  | Koordinierung und Bedarfsdeckung | § 34 |
-|  |  |  | Weisungsrecht gegenüber der Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung | § 35 |
+|  |  |  | Weisungsrecht gegenüber der Bundesagentur für Arbeit | § 35 |
 |  |  |  | Begriffsbestimmung | § 36 |
 |  |  |  | Öffentlich-rechtliche Dienstverhältnisse | § 37 |
 |  |  |  | Rechtsverordnung | § 38 |

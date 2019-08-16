@@ -121,8 +121,7 @@
 | § 61g | Verwendung im nichtöffentlichen Bereich |
 | § 61h | Anwendung der Personalausweisverordnung |
 | Unterabschnitt 2 |
-| Führung von Ausländerdateien durch die Ausländerbehörden und die |
-| Auslandsvertretungen |
+| Führung von Ausländerdateien durch die Ausländerbehörden und die Auslandsvertretungen |
 | § 62 | Dateisystemführungspflicht der Ausländerbehörden |
 | § 63 | Ausländerdatei A |
 | § 64 | Datensatz der Ausländerdatei A |
@@ -142,6 +141,10 @@
 | § 75 | (weggefallen) |
 | § 76 | Mitteilungen der Gewerbebehörden |
 | § 76a | Form und Verfahren der Datenübermittlung im Ausländerwesen |
+| Unterabschnitt 4 |
+| Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes |
+| § 76b | Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik |
+| § 76c | Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten |
 | Kapitel 6 |
 | Ordnungswidrigkeiten |
 | § 77 | Ordnungswidrigkeiten |

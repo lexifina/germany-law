@@ -39,7 +39,7 @@
 | Vierter Abschnitt | Beziehungen zu Krankenhäusern und Vertragsärzten ...................... | §§ 115 bis 123 |
 | Fünfter Abschnitt | Beziehungen zu Leistungserbringern von Heilmitteln ......................... | §§ 124 und 125 |
 | Sechster Abschnitt | Beziehungen zu Leistungserbringern von Hilfsmitteln ........................ | §§ 126 bis 128 |
-| Siebter Abschnitt | Beziehungen zu Apotheken und pharmazeutischen Unternehmern ....... | §§ 129 bis 131 |
+| Siebter Abschnitt | Beziehungen zu Apotheken und pharmazeutischen Unternehmern ....... | §§ 129 bis 131a |
 | Achter Abschnitt | Beziehungen zu sonstigen Leistungserbringern ................. | §§ 132 bis 134 |
 | Neunter Abschnitt | Sicherung der Qualität der Leistungserbringung ................. | §§ 135 bis 139c |
 | Zehnter Abschnitt | Eigeneinrichtungen der Krankenkassen ....... | § 140 |

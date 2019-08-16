@@ -1,4 +1,4 @@
-# Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
+# Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 6 der Geschäftsordnung des Deutschen Bundestages, BGBl I 1980, 1237)
 
 - [1.](0001.md)
 - [2.](0002.md)

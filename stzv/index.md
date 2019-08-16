@@ -1,7 +1,7 @@
 # Verordnung über die Teilzeitbeschäftigung von Soldatinnen und Soldaten der Bundeswehr
 
 - [Eingangsformel](eingangsformel.md)
-- [§ 1 (weggefallen)](0001.md)
+- [§ 1 Zulässigkeit von Teilzeitbeschäftigung](0001.md)
 - [§ 2 Antragsverfahren](0002.md)
 - [§ 3 Antrag auf familienbedingte Teilzeitbeschäftigung](0003.md)
 - [§ 4 Zuständigkeit für die Entscheidung](0004.md)

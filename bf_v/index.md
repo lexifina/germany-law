@@ -1,5 +1,4 @@
-# Verordnung zur Durchführung der Berufsförderung von Soldatinnen und 
-Soldaten
+# Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten
 
 - [Eingangsformel](eingangsformel.md)
 - [Inhaltsübersicht](inhaltsuebersicht.md)
@@ -7,8 +6,10 @@ Soldaten
 ## Teil 1 Berufsberatung nach § 3a des
 Soldatenversorgungsgesetzes
 
-- [§ 1 Beratungsauftrag, Anspruchsberechtigte, schulische und berufliche Bildung](0001.md)
+- [§ 1 Maßnahmen der schulischen und beruflichen Bildung](0001.md)
+- [§ 1a Zuständigkeiten](0001a.md)
 - [§ 2 Berufsberatung](0002.md)
+- [§ 2a Erstattung von Aufwendungen für die Berufsberatung](0002a.md)
 - [§ 3 Förderungsplan](0003.md)
 
 ## Teil 2 Dienstzeitbegleitende Förderung der schulischen und
@@ -40,7 +41,7 @@ Soldatenversorgungsgesetzes
 - [§ 19 Kosten der beruflichen Bildung](0019.md)
 - [§ 20 Lehrgangs- und Studiengebühren](0020.md)
 - [§ 21 Kosten für Ausbildungsmittel](0021.md)
-- [§ 22 Beiträge zur Kranken- und Pflegeversicherung](0022.md)
+- [§ 22 (weggefallen)](0022.md)
 - [§ 23 Reise- und Trennungsauslagen](0023.md)
 - [§ 24 Kosten für Studienfahrten aus Anlass der Maßnahme der beruflichen Bildung](0024.md)
 - [§ 25 Kosten für Eignungsfeststellungsverfahren](0025.md)
@@ -53,15 +54,16 @@ Soldatenversorgungsgesetzes
 
 - [§ 30 Unterstützung zur Erlangung eines Arbeitsplatzes](0030.md)
 - [§ 31 Eingliederungshilfen](0031.md)
-- [§ 32 Einarbeitungszuschuss](0032.md)
+- [§ 32a Lohnkostenzuschuss](0032a.md)
 - [§ 33 Erstattung von Kosten für Vorstellungsreisen](0033.md)
 - [§ 34 Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes](0034.md)
 - [§ 35 Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes](0035.md)
+- [§ 35 Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes](0035-2.md)
 - [§ 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen](0036.md)
+- [§ 36a Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes](0036a.md)
 - [§ 37 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung](0037.md)
 
 ## Teil 6 Schlussvorschriften
 
-- [§ 38 Zuständigkeiten](0038.md)
-- [§ 39 Übergangsregelung aus Anlass der Verordnung zur Änderung der Berufsförderungsverordnung](0039.md)
+- [§ 38 Übergangsregelungen](0038.md)
 - [Schlussformel](schlussformel.md)

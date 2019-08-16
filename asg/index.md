@@ -86,8 +86,7 @@ Bereithaltungsbescheid
 - [§ 32 Verletzung von Sicherstellungsvorschriften](0032.md)
 - [§ 33](0033.md)
 - [§ 34 Koordinierung und Bedarfsdeckung](0034.md)
-- [§ 35 Weisungsrecht gegenüber der Bundesagentur für
-Arbeitsvermittlung und Arbeitslosenversicherung](0035.md)
+- [§ 35 Weisungsrecht gegenüber der Bundesagentur für Arbeit](0035.md)
 - [§ 36 Begriffsbestimmung](0036.md)
 - [§ 37 Öffentlich-rechtliche Dienstverhältnisse](0037.md)
 - [§ 38 Rechtsverordnung](0038.md)

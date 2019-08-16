@@ -82,7 +82,7 @@
 | § 45 | Bußgeldvorschriften |
 | § 46 | (weggefallen) |
 | § 47 | (weggefallen) |
-| § 48 | Vorschriften für den Bereitschafts-, Spannungs- und Verteidigungsfall |
+| § 48 | Bereitschaftsdienst, Spannungs- oder Verteidigungsfall |
 | § 49 | (weggefallen) |
 | § 50 | Zuständigkeit für den Erlass von Rechtsverordnungen |
 | § 51 | Einschränkung von Grundrechten |

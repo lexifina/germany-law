@@ -22,6 +22,7 @@
 | § 15 | Politische Betätigung |
 | § 16 | Verhalten in anderen Staaten |
 | § 17 | Verhalten im und außer Dienst |
+| § 17a | Gesunderhaltungspflicht und Patientenrechte |
 | § 18 | Gemeinschaftsunterkunft und Gemeinschaftsverpflegung |
 | § 19 | Verbot der Annahme von Belohnungen oder Geschenken, Herausgabe- und Auskunftspflicht |
 | § 20 | Nebentätigkeit |
@@ -35,11 +36,17 @@
 | § 27 | Laufbahnvorschriften |
 | § 28 | Urlaub |
 | § 28a | Urlaub bis zum Beginn des Ruhestandes |
-| § 29 | Personalakten |
+| § 29 | Personalakte |
+| § 29a | Verarbeitung von besonderen Kategorien personenbezogener Daten |
+| § 29b | Gesundheitsakte |
+| § 29c | Personalaktenführende Stelle |
+| § 29d | Aufbewahrung von Personalakten |
+| § 29e | Befugtes Offenbaren von Privatgeheimnissen |
 | § 30 | Geld- und Sachbezüge, Versorgung |
 | § 30a | Teilzeitbeschäftigung, Familienpflegezeit und Pflegezeit |
 | § 30b | Zusammentreffen von Urlaub und Teilzeitbeschäftigung |
 | § 30c | Arbeitszeit |
+| § 30d | Höchstzulässige Arbeitszeit bei bestimmten Tätigkeiten |
 | § 31 | Fürsorge |
 | § 31a | Zahlung durch den Dienstherrn bei Schmerzensgeldansprüchen |
 | § 32 | Dienstzeitbescheinigung und Dienstzeugnis |
@@ -101,6 +108,7 @@
 | § 62 | Besondere Auslandsverwendungen |
 | § 63 | Hilfeleistungen im Innern |
 | § 63a | Hilfeleistungen im Ausland |
+| § 63b | Wehrdienst zur temporären Verbesserung der personellen Einsatzbereitschaft |
 | 2. Dienstleistungsausnahmen |
 | § 64 | Dienstunfähigkeit |
 | § 65 | Ausschluss von Dienstleistungen |

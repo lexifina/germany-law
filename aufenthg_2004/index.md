@@ -115,8 +115,6 @@
 - [§ 48 Ausweisrechtliche Pflichten](0048.md)
 - [§ 48a Erhebung von Zugangsdaten](0048a.md)
 - [§ 49 Überprüfung, Feststellung und Sicherung der Identität](0049.md)
-- [§ 49a Fundpapier-Datenbank](0049a.md)
-- [§ 49b Inhalt der Fundpapier-Datenbank](0049b.md)
 
 ## Kapitel 5 Beendigung des Aufenthalts
 
@@ -198,11 +196,11 @@
 ### Abschnitt 4 Datenschutz
 
 - [§ 86 Erhebung personenbezogener Daten](0086.md)
+- [§ 86a Erhebung personenbezogener Daten zu Förderungen der freiwilligen Ausreise und Reintegration](0086a.md)
 - [§ 87 Übermittlungen an Ausländerbehörden](0087.md)
 - [§ 88 Übermittlungen bei besonderen gesetzlichen Verwendungsregelungen](0088.md)
 - [§ 88a Verarbeitung von Daten im Zusammenhang mit Integrationsmaßnahmen](0088a.md)
 - [§ 89 Verfahren bei identitätsüberprüfenden, -feststellenden und -sichernden Maßnahmen](0089.md)
-- [§ 89a Verfahrensvorschriften für die Fundpapier-Datenbank](0089a.md)
 - [§ 90 Übermittlungen durch Ausländerbehörden](0090.md)
 - [§ 90a Mitteilungen der Ausländerbehörden an die Meldebehörden](0090a.md)
 - [§ 90b Datenabgleich zwischen Ausländer- und Meldebehörden](0090b.md)

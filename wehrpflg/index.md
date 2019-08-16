@@ -82,7 +82,7 @@
 - [§ 44 Zustellung, Vorführung und Zuführung](0044.md)
 - [§ 45 Bußgeldvorschriften](0045.md)
 - [(XXXX) §§ 46 und 47 (weggefallen)](xxxx-46-und-47.md)
-- [§ 48 Vorschriften für den Bereitschafts-, Spannungs- und Verteidigungsfall](0048.md)
+- [§ 48 Bereitschaftsdienst, Spannungs- oder Verteidigungsfall](0048.md)
 - [§ 49 (weggefallen)](0049.md)
 - [§ 50 Zuständigkeit für den Erlass von Rechtsverordnungen](0050.md)
 - [§ 51 Einschränkung von Grundrechten](0051.md)

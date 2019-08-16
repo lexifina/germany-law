@@ -173,6 +173,11 @@ des Bundesvertriebenengesetzes](0073.md)
 - [§ 76 Mitteilungen der Gewerbebehörden](0076.md)
 - [§ 76a Form und Verfahren der Datenübermittlung im Ausländerwesen](0076a.md)
 
+#### Unterabschnitt 4 Erkennungsdienstliche Behandlung nach § 49 Absatz 6, 8 und 9 des Aufenthaltsgesetzes
+
+- [§ 76b Technische Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik](0076b.md)
+- [§ 76c Qualitätssicherung des Lichtbildes und der Fingerabdruckdaten](0076c.md)
+
 ## Kapitel 6 Ordnungswidrigkeiten
 
 - [§ 77 Ordnungswidrigkeiten](0077.md)
