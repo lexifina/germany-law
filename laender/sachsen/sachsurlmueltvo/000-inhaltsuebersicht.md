@@ -1,4 +1,3 @@
-## Verordnung der Sächsischen Staatsregierung über den Urlaub, den Mutterschutz und die Elternzeit der Beamten und Richter im Freistaat Sachsen (Sächsische Urlaubs-, Mutterschutz- und Elternzeitverordnung – Sächs-UrlMuEltVO)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
