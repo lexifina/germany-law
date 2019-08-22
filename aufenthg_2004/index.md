@@ -138,6 +138,7 @@
 - [§ 59 Androhung der Abschiebung](0059.md)
 - [§ 60 Verbot der Abschiebung](0060.md)
 - [§ 60a Vorübergehende Aussetzung der Abschiebung (Duldung)](0060a.md)
+- [§ 60b Duldung für Personen mit ungeklärter Identität](0060b.md)
 - [§ 61 Räumliche Beschränkung, Wohnsitzauflage, Ausreiseeinrichtungen](0061.md)
 - [§ 62 Abschiebungshaft](0062.md)
 - [§ 62a Vollzug der Abschiebungshaft](0062a.md)
@@ -225,6 +226,7 @@
 - [§ 95 Strafvorschriften](0095.md)
 - [§ 96 Einschleusen von Ausländern](0096.md)
 - [§ 97 Einschleusen mit Todesfolge; gewerbs- und bandenmäßiges Einschleusen](0097.md)
+- [§ 97a Geheimhaltungspflichten](0097a.md)
 - [§ 98 Bußgeldvorschriften](0098.md)
 
 ## Kapitel 9a Rechtsfolgen bei illegaler Beschäftigung
@@ -243,7 +245,7 @@
 - [§ 104 Übergangsregelungen](0104.md)
 - [§ 104a Altfallregelung](0104a.md)
 - [§ 104b Aufenthaltsrecht für integrierte Kinder von geduldeten Ausländern](0104b.md)
-- [§ 105 (weggefallen)](0105.md)
+- [§ 105 Übergangsregelung zur Duldung für Personen mit ungeklärter Identität](0105.md)
 - [§ 105a Bestimmungen zum Verwaltungsverfahren](0105a.md)
 - [§ 105b Übergangsvorschrift für Aufenthaltstitel nach einheitlichem Vordruckmuster](0105b.md)
 - [§ 105c Überleitung von Maßnahmen zur Überwachung ausgewiesener Ausländer aus Gründen der inneren Sicherheit](0105c.md)

@@ -26,7 +26,6 @@
 - [§ 12a (weggefallen)](0012a.md)
 - [§ 13 Weitere Formen der epidemiologischen Überwachung; Verordnungsermächtigung](0013.md)
 - [§ 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung](0014.md)
-- [§ 14 Elektronisches Melde- und Informationssystem; Verordnungsermächtigung](0014-2.md)
 - [§ 15 Anpassung der Meldepflicht an die epidemische Lage](0015.md)
 - [§ 15a Durchführung der infektionshygienischen und hygienischen Überwachung](0015a.md)
 
@@ -37,7 +36,6 @@
 - [§ 18 Behördlich angeordnete Maßnahmen zur Desinfektion und zur Bekämpfung von Gesundheitsschädlingen, Krätzmilben und Kopfläusen; Verordnungsermächtigungen](0018.md)
 - [§ 19 Aufgaben des Gesundheitsamtes in besonderen Fällen](0019.md)
 - [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020.md)
-- [§ 20 Schutzimpfungen und andere Maßnahmen der spezifischen Prophylaxe](0020-2.md)
 - [§ 21 Impfstoffe](0021.md)
 - [§ 22 Impfausweis](0022.md)
 - [§ 23 Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die Länder](0023.md)

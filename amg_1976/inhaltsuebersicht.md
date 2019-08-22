@@ -12,7 +12,7 @@
 | Zweiter Abschnitt |
 | Anforderungen an die Arzneimittel |
 | § 5 | Verbot bedenklicher Arzneimittel |
-| § 6 | Ermächtigung zum Schutz der Gesundheit |
+| § 6 | Verbote zum Schutz der Gesundheit, Verordnungsermächtigungen |
 | § 6a | (weggefallen) |
 | § 7 | Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel |
 | § 8 | Verbote zum Schutz vor Täuschung |
@@ -134,8 +134,8 @@
 | § 61 | Befugnisse tierärztlicher Bildungsstätten |
 |  |
 | Zehnter Abschnitt |
-| Pharmakovigilanz |
-| § 62 | Organisation des Pharmakovigilanz-Systems der zuständigen Bundesoberbehörde |
+| Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken |
+| § 62 | Organisation |
 | § 63 | Stufenplan |
 | § 63a | Stufenplanbeauftragter |
 | § 63b | Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung |
@@ -146,7 +146,8 @@
 | § 63g | Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen |
 | § 63h | Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind |
 | § 63i | Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe |
-| § 63j | Ausnahmen |
+| § 63j | (zukünftig in Kraft) |
+| § 63k | Ausnahmen |
 |  |
 | Elfter Abschnitt |
 | Überwachung |
@@ -280,5 +281,7 @@
 |  |
 |  | Neunzehnter Unterabschnitt |
 | § 147 | Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften |
+|  |  |
+|  | Anlage (zu § 6) |
 |  |  |
 |  | Anhang (weggefallen) |

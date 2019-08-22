@@ -649,6 +649,7 @@
 | § 420 | Versicherungsfreiheit von Teilnehmerinnen und Teilnehmern des Programms Soziale Teilhabe am Arbeitsmarkt |
 | § 421 | Förderung der Teilnahme an Sprachkursen |
 | § 421a | Arbeiten in Maßnahmen des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen |
+| § 421b | Erprobung einer zentralen Servicestelle für anerkennungssuchende Fachkräfte im Ausland |
 |  |  |
 | Dritter Abschnitt |
 | Grundsätze bei Rechtsänderungen |

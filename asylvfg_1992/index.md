@@ -40,6 +40,7 @@
 ### Unterabschnitt 1 Allgemeine Verfahrensvorschriften
 
 - [§ 12 Handlungsfähigkeit](0012.md)
+- [§ 12a Asylverfahrensberatung](0012a.md)
 - [§ 13 Asylantrag](0013.md)
 - [§ 14 Antragstellung](0014.md)
 - [§ 14a Familieneinheit](0014a.md)

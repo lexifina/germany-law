@@ -100,7 +100,7 @@
 #### Unterabschnitt 3 Schriftliche Abschlussprüfung
 
 - [§ 62 Gegenstand und Durchführung der schriftlichen Abschlussprüfung](0062.md)
-- [§ 63 Prüfende für die schriftliche Abschussprüfung](0063.md)
+- [§ 63 Prüfende für die schriftliche Abschlussprüfung](0063.md)
 - [§ 64 Rangpunktzahl der schriftlichen Abschlussprüfung](0064.md)
 - [§ 65 Bestehen der schriftlichen Abschlussprüfung](0065.md)
 
@@ -127,6 +127,7 @@
 - [§ 78 Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil](0078.md)
 - [§ 79 Täuschung und Ordnungsverstoß bei Prüfungen](0079.md)
 - [§ 80 Prüfungsakte und Einsichtnahme](0080.md)
+- [§ 80a Entscheidung über Widersprüche](0080a.md)
 
 ## Teil 5 Anerkennung anderer Studienleistungen
 

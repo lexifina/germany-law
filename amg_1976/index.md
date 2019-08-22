@@ -14,7 +14,7 @@
 ## Zweiter Abschnitt Anforderungen an die Arzneimittel
 
 - [§ 5 Verbot bedenklicher Arzneimittel](0005.md)
-- [§ 6 Ermächtigung zum Schutz der Gesundheit](0006.md)
+- [§ 6 Verbote zum Schutz der Gesundheit, Verordnungsermächtigungen](0006.md)
 - [§ 6a (weggefallen)](0006a.md)
 - [§ 7 Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel](0007.md)
 - [§ 8 Verbote zum Schutz vor Täuschung](0008.md)
@@ -139,9 +139,9 @@ verwendet werden können](0059c.md)
 - [§ 60 Heimtiere](0060.md)
 - [§ 61 Befugnisse tierärztlicher Bildungsstätten](0061.md)
 
-## Zehnter Abschnitt Pharmakovigilanz
+## Zehnter Abschnitt Beobachtung, Sammlung und Auswertung von Arzneimittelrisiken
 
-- [§ 62 Organisation des Pharmakovigilanz-Systems der zuständigen Bundesoberbehörde](0062.md)
+- [§ 62 Organisation](0062.md)
 - [§ 63 Stufenplan](0063.md)
 - [§ 63a Stufenplanbeauftragter](0063a.md)
 - [§ 63b Allgemeine Pharmakovigilanz-Pflichten des Inhabers der Zulassung](0063b.md)
@@ -152,7 +152,8 @@ verwendet werden können](0059c.md)
 - [§ 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen](0063g.md)
 - [§ 63h Dokumentations- und Meldepflichten für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind](0063h.md)
 - [§ 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe](0063i.md)
-- [§ 63j Ausnahmen](0063j.md)
+- [§ 63j (zukünftig in Kraft)](0063j.md)
+- [§ 63k Ausnahmen](0063k.md)
 
 ## Elfter Abschnitt Überwachung
 
@@ -358,4 +359,5 @@ des Arzneimittelgesetzes
 ### Neunzehnter Unterabschnitt Übergangsvorschrift
 
 - [§ 147 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften](0147.md)
+- [Anlage (zu § 6)](anlage.md)
 - [Anhang (weggefallen)](anhang.md)

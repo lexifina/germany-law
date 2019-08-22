@@ -58,7 +58,6 @@ Soldatenversorgungsgesetzes
 - [§ 33 Erstattung von Kosten für Vorstellungsreisen](0033.md)
 - [§ 34 Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes](0034.md)
 - [§ 35 Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes](0035.md)
-- [§ 35 Berufsorientierungspraktikum nach § 7 Abs. 4 des Soldatenversorgungsgesetzes](0035-2.md)
 - [§ 36 Erstattung von Kosten für fachberufliche Prüfungen und für Umschreibungen militärischer Erlaubnisse und Berechtigungen](0036.md)
 - [§ 36a Eingliederungsseminar nach § 7 Absatz 8 des Soldatenversorgungsgesetzes](0036a.md)
 - [§ 37 Ausstellen von Bescheinigungen und Nachweisen zur zivilberuflichen Anerkennung militärischer Ausbildung und Verwendung](0037.md)
