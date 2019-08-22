@@ -1,0 +1,8 @@
+# TOP 8.5: Status zur Drucksache DS/0794/VIII Schulgesundheitsfachkräfte an Lichtenberger Schulen
+
+- Sitzung: 33. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin (2019-08-22)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=50252
+- Ergebnis: beantwortet
+- Beratung: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/consultations.asp?typ=i&id=50252
