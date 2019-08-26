@@ -1,0 +1,7 @@
+# TOP 8: Einebnung abgeräumter Grabstellen auf den Friedhöfen der Gemeinde Cölbe
+
+- Sitzung: Ausschuss für Klimaschutz, Infrastruktur, Mobilität und Naturschutz (2019-08-26)
+- Körperschaft: Gemeinde Cölbe
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/body/1/agendaitem/2558
+- Ergebnis: Vorlage zurückgezogen                                                                               
