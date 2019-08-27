@@ -1,0 +1,23 @@
+# Alkohol- und Rauchverbot auf Pankower Spielplätzen einführen!
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Drucksache/Vorlage: VIII-0625
+- Art: Antrag
+- Datum: 2019-08-27
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=4973
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/papers.asp?id=4973
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=130&id=174587
+- Beratung:  https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=6070 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5898 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=64
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5908 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=64
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5928 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=64
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5938 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=64
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5859 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=70
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5901 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=70
+- Beratung: mitberatender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5961 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=70
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5867 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5889 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5900 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: federführender Ausschuss https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=5980 https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- underDirectionOf: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=at&id=4
