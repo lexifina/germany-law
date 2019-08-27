@@ -1,0 +1,6 @@
+# TOP 3: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Sitzung des Haupt- und Finanzausschusses des Stadtrates der Stadt Montabaur (21.15 Uhr) (2019-08-27)
+- Körperschaft: Stadt Montabaur
+- Öffentlich: nein
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2019-01HFA-61%7CMAnoe%7C2
