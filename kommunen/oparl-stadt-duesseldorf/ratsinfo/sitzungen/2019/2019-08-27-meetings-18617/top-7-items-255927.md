@@ -1,0 +1,8 @@
+# TOP 7: Einführung von Logineo NRW
+
+- Sitzung: Schulausschuss (2019-08-27)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/255927
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/100258
