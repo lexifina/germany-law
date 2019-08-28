@@ -1,0 +1,142 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-08-28T17:00:00+02:00
+- Ende: 2019-08-28T22:46:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3669
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3669
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Problematik der E-Roller und Fixer im Akazien Wald der Hufeisensiedlung - beantwortet
+- TOP 1.2: Neubauvorhaben "Micro Living" Braunschweiger Str. 21 - beantwortet
+- TOP 1.3: Gefährliche Verkehrsführung für Radfahrer in der Flughafenstraße - schriftlich beantwortet
+- TOP 1.4: Klimaschutzziele verletzt bei Sanierungen am Weigandufer - beantwortet
+- TOP 1.5: Klimaschutz - beantwortet
+- TOP 1.6: Geplanten Rodungen/ Umgestaltungen am Weigandufer - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 3.1: Konsensliste - Überweisungsliste - in der BVV abgelehnt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: BVV Neukölln verurteilt islamistische Provokation auf dem Tempelhofer Feld - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Umwelt- und Naturschutz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Abberufung von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 7.2: Wahl einer Bürgerdeputierten in den Ausschuss für Umwelt- und Naturschutz - gewählt
+- TOP 7.3: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - in der BVV abgelehnt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Mietendeckel - beantwortet
+- TOP 8.2: Schließung MoRo Seniorenwohnanlagen e.V. - beantwortet
+- TOP 8.3: Senats-Sondermittel Umweltbildung - beantwortet
+- TOP 8.4: Meinungsforschung im Investorinteresse beim Karstadtabriss Hermannplatz? - beantwortet
+- TOP 8.5: Schrottimmobilie in der Nogatstraße - beantwortet
+- TOP 8.6: Flächennutzungsplan fürs IFEK - schriftlich beantwortet
+- TOP 8.7: Carl-Legien-Schulgarten - schriftlich beantwortet
+- TOP 8.8: Sozialpsychiatrischer Dienst - schriftlich beantwortet
+- TOP 8.9: Baustelle Alt-Britz 90 - schriftlich beantwortet
+- TOP 8.10: Fahrradfreundlicher Ausbau zum Vorteil des motorisierten Individualverkehrs? - schriftlich beantwortet
+- TOP 8.11: Baumfällung - schriftlich beantwortet
+- TOP 8.12: Strategie Stadtlandschaft - schriftlich beantwortet
+- TOP 8.13: Nogatstraße 1 - beantwortet
+- TOP 8.14: Mögliche Unterstützung der geplanten Vereinsgründung des Bündnis Neukölln durch das Bezirksamt - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Osteuropäische Obdachlose – im Wartemodus auf Sozialhilfe - beantwortet
+- TOP 9.2: Gedenkort Zwangsarbeiterlager Fulhamer Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Unterkunft mit Beratung und Unterstützung für wohnungslose Minderjährige - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Lehr- und Lernmitteletat der Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Bebauungsplan 8-52ba („Dörferblick - Gärtnereien“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Städtepartnerschaften! - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Städtepartnerschaften leben – Zivilgesellschaftliches Engagement stärken - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Elektrische Fahrzeuge und Ladesäulen für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: 100 Jahre August Heyn Gartenarbeitsschule (AHGAS) - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Zustand Post-Briefkästen verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Mehr Sicherheit im Verkehr für Seniorinnen und Senioren sowie Menschen mit einer Behinderung – Fußgängerampeln mit Restlaufanzeige erproben! - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Dreck im Gleisbett - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Familien-Service-Büro für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Tätigkeitsmöglichkeiten für Langzeitarbeitslose ausweiten! - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Schulhof für die Konrad-Agadh-Schule - beantwortet
+- TOP 9.16: Jahrzehnte ansässige Philipp Moris Fabrik droht die Schließung. Wie kann der Bezirk die 1050 Angestellten unterstützen? - beantwortet
+- TOP 9.17: Gilt in Neuköllner Schulkantinen die Scharia? - Teil VI - beantwortet
+- TOP 9.18: Klimagerechte BVV-Unterlagen - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Einbahnstraße für den Rad-Gegenverkehr öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.20: Temporäre Fahrbahnmarkierung für Radfahrende - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.21: Fahrradstraße Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.22: Geschwindigkeitsüberwachung im Ortolanweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.23: Eine neue Küche für den Jugendclub Manege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.24: Aufstellung einer mobilen Geschwindigkeitsmessanlage Fritz-Reuter-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.25: Ausschilderung Baustelle Karl-Marx-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.26: Einsatz von Kunststoffgeschirr und Besteck in der Kantine des Rathauses durch Mehrwegprodukte ersetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.27: Nutzerfreundliche Papierkörbe in der Karl-Marx-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Höhere Taktzeiten auf der Buslinie 171 während des SEV auf der U7 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Bebauungsplan XIV-60 („Mohriner Allee / Buckower Damm“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Reinigung der Grünflächen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Straßenbäume gießen - in der BVV abgelehnt
+- TOP 10.3: Keine Parkgebühren für die Anwohner der Hasenheide wegen des Radweges! - in der BVV abgelehnt
+- TOP 10.4: B-Pläne St. Jakobi II ändern - in der BVV abgelehnt
+- TOP 10.5: Flächen für produzierendes Gewerbe sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Lesbarkeit der Anhörungen zum Milieuschutz - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Richtlinien zum Umgang mit geplanten Hochhäusern im Bezirk - in der BVV abgelehnt
+- TOP 10.8: Stelle für Antidiskriminierungsbeauftragte/n in Neukölln schaffen - in der BVV abgelehnt
+- TOP 10.9: Beschäftigungsmöglichkeiten im Bezirksamt schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Aktionsplan zur weiteren Umsetzung der UN-Behindertenrechtskonvention (UN-BRK) - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Öffentliche Stätte der Erinnerung für im Dienst getötete Berliner Polizeimitarbeiter*innen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Keine Verwaltungsreform zu Lasten der Bezirke - in der BVV abgelehnt
+- TOP 10.13: Monatelanges Warten auf das Wohngeld beenden - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Zugang zur Thomashöhe erleichtern - in der BVV abgelehnt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Inklusion von Kinder und Jugendlichen in der Jugendfreizeit - beantwortet
+- TOP 11.2: Hot-Spots im Bezirk: Wie schlimm ist Neukölln vom Drogensumpf betroffen? - vertagt
+- TOP 11.3: Sondernutzung von Straßenland für Filmdreharbeiten? - vertagt
+- TOP 11.4: Neugestaltung Promenade am Weigandufer überarbeiten - vertagt
+- TOP 11.5: Umbenennung von Nord-Neukölln in Rixdorf - vertagt
+- TOP 11.6: Rund um das Fahrrad - vertagt
+- TOP 11.7: Gilt in Neuköllner Schulkantinen die Scharia? - Teil VII - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Einberufung des Tourismus-Beirates - überwiesen
+- TOP 13.2: Personalverstärkung für das Neuköllner Grünflächenamt - überwiesen
+- TOP 13.3: Schulwegsicherheit verbessern - überwiesen
+- TOP 13.4: Keine flächigen Rodungen am Weigandufer durchführen - überwiesen
+- TOP 13.5: Einsammeln von benutzten Drogenspritzen – Sinnvolle Beschäftigung von Drogenkonsumenten - überwiesen
+- TOP 13.6: Verbesserung der Situation Harzer Straße / Treptower Straße - überwiesen
+- TOP 13.7: Neuköllner Märkte sichern - Händler unterstützen! - überwiesen
+- TOP 13.8: Böhmischer Platz - überwiesen
+- TOP 13.9: Durchführung einer Veranstaltung zur Zukunft des Philip-Morris-Geländes - überwiesen
+- TOP 13.10: Einsammeln von benutzten Drogenspritzen, aber nicht von Bezirksamtmitarbeitern - überwiesen
+- TOP 13.11: Erinnerung an Buckower Felder in Straßennamen bewahren - überwiesen
+- TOP 13.12: Markierung Sondernutzung öffentlichen Straßenland - überwiesen
+- TOP 13.13: Verlässliche Verwaltung für die Anwohner der Krugpfuhlsiedlung - überwiesen
+- TOP 13.14: Neukölln erklärt den Klimanotstand - überwiesen
+- TOP 13.15: Haushaltsnahe Altglassammlung in Neukölln sicherstellen - überwiesen
+- TOP 13.16: Sportlichen Erfolg wertschätzen - Unterstützung für den SV Tasmania Berlin e.V. I - überwiesen
+- TOP 13.17: Sportlichen Erfolg wertschätzen - Unterstützung für den SV Tasmania Berlin e.V. II - überwiesen
+- TOP 13.18: „Diese eG“ ist keine Option für Neukölln - überwiesen
+- TOP 13.19: Seniorenspielplatz - überwiesen
+- TOP 13.20: Ampelanlage Neudecker Weg Ecke August-Fröhlich Straße - überwiesen
+- TOP 13.21: Informationen über Organspende in Bürgerämtern - überwiesen
+- TOP 13.22: Haltestellenumbenennung - überwiesen
+- TOP 13.23: Extremistische Moscheen und Koranschulen schließen – Vereine verbieten - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Zugang zum Carl-Weder-Park sichern - vertagt
+- TOP 14.2: Mülleimer mit Aschenbechern ausstatten - vertagt
+- TOP 14.3: Parkbänke im Parkfriedhof - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Geschichtliche Aufarbeitung Wissmannstraße - vertagt
+- TOP 15.2: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - vertagt
+- TOP 15.3: Mut zu neuen Wegen - Weigandufer als Fahrradstraße - vertagt
+- TOP 15.4: Maßnahmen am Werner-Seelenbinder-Grab - vertagt
+- TOP 15.5: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - vertagt
+- TOP 15.6: Stopp dem Feuerwerkswahnsinn! - vertagt
+- TOP 15.7: Verkaufsverbot an Sonn- und Feiertagen aufheben - vertagt
+- TOP 15.8: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - vertagt
+- TOP 15.9: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes – Hat Neukölln daran Anteil? - vertagt
+- TOP 15.10: Bänke auf dem Reuterplatz wieder aufstellen - vertagt
