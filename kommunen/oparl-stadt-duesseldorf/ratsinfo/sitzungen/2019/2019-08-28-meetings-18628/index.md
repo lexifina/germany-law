@@ -1,0 +1,65 @@
+# Gemeinsame Sitzung des Ordnungs- und Verkehrsausschusses, des Ausschusses für Umweltschutz und der Bezirksvertretungen 1, 3 und 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-08-28T16:00:00+02:00
+- Ende: 2019-08-28T19:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/14, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32, http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18628
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18628
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00350813.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00350813.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00350813.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße
+- TOP 3: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - Empfehlung mehrheitlich beschlossen
+- TOP 3: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - zur Kenntnis genommen
+- TOP 3: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - zur Kenntnis genommen
+- TOP 3: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - zur Kenntnis genommen
+- TOP 3: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - mehrheitlich beschlossen
+- TOP 3.1: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße
+- TOP 3.1: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - Empfehlung mehrheitlich beschlossen
+- TOP 3.1: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - zur Kenntnis genommen
+- TOP 3.1: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - zur Kenntnis genommen
+- TOP 3.1: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - zur Kenntnis genommen
+- TOP 3.1: Umweltspur Werstener Straße - Corneliusstraße - Kaiserstraße - mehrheitlich beschlossen
+- TOP 3.2: Änderungsantrag zur Vorlage OVA/007/2019 "Keine Verbrennungsmotoren auf der Umweltspur Werstener Straße-Corneliusstraße-Kaiserstraße"
+- TOP 3.2: Änderungsantrag zur Vorlage OVA/007/2019 "Keine Verbrennungsmotoren auf der Umweltspur Werstener Straße-Corneliusstraße-Kaiserstraße" - Empfehlung mehrheitlich abgelehnt
+- TOP 3.2: Änderungsantrag zur Vorlage OVA/007/2019 "Keine Verbrennungsmotoren auf der Umweltspur Werstener Straße-Corneliusstraße-Kaiserstraße" - zur Kenntnis genommen
+- TOP 3.2: Änderungsantrag zur Vorlage OVA/007/2019 "Keine Verbrennungsmotoren auf der Umweltspur Werstener Straße-Corneliusstraße-Kaiserstraße" - zur Kenntnis genommen
+- TOP 3.2: Änderungsantrag zur Vorlage OVA/007/2019 "Keine Verbrennungsmotoren auf der Umweltspur Werstener Straße-Corneliusstraße-Kaiserstraße" - zur Kenntnis genommen
+- TOP 3.2: Änderungsantrag zur Vorlage OVA/007/2019 "Keine Verbrennungsmotoren auf der Umweltspur Werstener Straße-Corneliusstraße-Kaiserstraße" - mehrheitlich abgelehnt
+- TOP 3.3: Änderungsantrag der CDU-Ratsfraktion: „Mobil mit Verantwortung: persönliche Mobilität erhalten – Luftqualität weiter verbessern – Lebensqualität sichern“
+- TOP 3.3: Änderungsantrag der CDU-Ratsfraktion: „Mobil mit Verantwortung: persönliche Mobilität erhalten – Luftqualität weiter verbessern – Lebensqualität sichern“ - Empfehlung mehrheitlich beschlossen
+- TOP 3.3: Änderungsantrag der CDU-Ratsfraktion: „Mobil mit Verantwortung: persönliche Mobilität erhalten – Luftqualität weiter verbessern – Lebensqualität sichern“ - zur Kenntnis genommen
+- TOP 3.3: Änderungsantrag der CDU-Ratsfraktion: „Mobil mit Verantwortung: persönliche Mobilität erhalten – Luftqualität weiter verbessern – Lebensqualität sichern“ - zur Kenntnis genommen
+- TOP 3.3: Änderungsantrag der CDU-Ratsfraktion: „Mobil mit Verantwortung: persönliche Mobilität erhalten – Luftqualität weiter verbessern – Lebensqualität sichern“ - zur Kenntnis genommen
+- TOP 3.3: Änderungsantrag der CDU-Ratsfraktion: „Mobil mit Verantwortung: persönliche Mobilität erhalten – Luftqualität weiter verbessern – Lebensqualität sichern“ - einstimmig beschlossen
+- TOP 3.4: Fahrverbote verhindern, Verkehrswende beschleunigen - Ergänzungsantrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen zur Vorlage OVA/007/2019-1
+- TOP 3.4: Fahrverbote verhindern, Verkehrswende beschleunigen - Ergänzungsantrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen zur Vorlage OVA/007/2019-1 - Empfehlung mehrheitlich beschlossen
+- TOP 3.4: Fahrverbote verhindern, Verkehrswende beschleunigen - Ergänzungsantrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen zur Vorlage OVA/007/2019-1 - zur Kenntnis genommen
+- TOP 3.4: Fahrverbote verhindern, Verkehrswende beschleunigen - Ergänzungsantrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen zur Vorlage OVA/007/2019-1 - zur Kenntnis genommen
+- TOP 3.4: Fahrverbote verhindern, Verkehrswende beschleunigen - Ergänzungsantrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen zur Vorlage OVA/007/2019-1 - zur Kenntnis genommen
+- TOP 3.4: Fahrverbote verhindern, Verkehrswende beschleunigen - Ergänzungsantrag der Ratsfraktionen von SPD und Bündnis 90/Die Grünen zur Vorlage OVA/007/2019-1 - mehrheitlich beschlossen
+- TOP 4: Prüfaufträge zu den Umweltspuren Werstener Str.-Corneliusstr.-Kaiserstr. und Merowingerstr.
+- TOP 4: Prüfaufträge zu den Umweltspuren Werstener Str.-Corneliusstr.-Kaiserstr. und Merowingerstr. - zur Kenntnis genommen
+- TOP 4: Prüfaufträge zu den Umweltspuren Werstener Str.-Corneliusstr.-Kaiserstr. und Merowingerstr. - zur Kenntnis genommen
+- TOP 4: Prüfaufträge zu den Umweltspuren Werstener Str.-Corneliusstr.-Kaiserstr. und Merowingerstr. - zur Kenntnis genommen
+- TOP 4: Prüfaufträge zu den Umweltspuren Werstener Str.-Corneliusstr.-Kaiserstr. und Merowingerstr. - zur Kenntnis genommen
+- TOP 4: Prüfaufträge zu den Umweltspuren Werstener Str.-Corneliusstr.-Kaiserstr. und Merowingerstr. - zur Kenntnis genommen
