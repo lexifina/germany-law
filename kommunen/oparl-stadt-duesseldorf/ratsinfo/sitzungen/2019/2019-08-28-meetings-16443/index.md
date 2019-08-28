@@ -1,0 +1,60 @@
+# Ausschuss für Gesundheit und Soziales
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-08-28T15:00:00+02:00
+- Ende: 2019-08-28T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/9
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16443
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/16443
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00351860.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00351860.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00351860.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung einer Schriftführerin - einstimmig beschlossen
+- TOP 2: Bestellung von Seniorenratsmitgliedern als sachkundige Einwohnerinnen/Einwohner in den Ausschuss für Gesundheit und Soziales - einstimmig beschlossen
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigungen der Niederschriften
+- TOP -: 50/-5/2019: Ausschuss für Gesundheit und Soziales am 7.05.2019 - einstimmig beschlossen
+- TOP -: 50/-4/2019: Gemeinsame Sitzung des AGS, JHA und Beirates am 7.05.2019 - einstimmig beschlossen
+- TOP 5: Anfragen
+- TOP 5.1: Sozialticket in Düsseldorf - beantwortet
+- TOP 5.2: Energiesperren - beantwortet
+- TOP 5.3: Städtische Angebote im Bereich sexuell übertragbarer Infektionen - beantwortet
+- TOP 5.4: Fachtagung 2016 'Inklusion als Querschnittsaufgabe' - beantwortet
+- TOP 5.5: Landesinitiative gegen Wohnungslosigkeit in NRW - beantwortet
+- TOP 5.6: Anfrage der Ratsfraktion DIE LINKE: Zwangsräumungen bei der Städt. Wohnungsgesellschaft - beantwortet
+- TOP 5.7: Anfrage der Ratsfraktion DIE LINKE: Zwangsräumungen bei der LEG - beantwortet
+- TOP 5.8: Hitzeschutz in Krankenhäusern, Alten- und Pflegeheimen sowie Hospizen - beantwortet
+- TOP 5.9: "Wie effizient ist die Telefonhotline 116117?" - vertagt
+- TOP 6: Anträge
+- TOP 6.1: Beantragung von Fördermitteln aus dem Fonds "Kultur und Alter" - zurückgezogen
+- TOP 6.2: Erarbeitung einer Agenda "Generation rauchfrei" - zurückgestellt
+- TOP 6.3: Antrag der Fraktionen von FDP, SPD und BÜNDNIS 90/DIE GRÜNEN, Eingang am 9.08.2019, Entwicklung einer Präventionskampagne gegen Einsamkeit „Heute schon die Nachbar*in gesehen? - einstimmig beschlossen
+- TOP -: Amt für Migration und Integration
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Haushaltsplan 2019: Mittelverwendung aus dem Produkt 31 313 01 Konto 53181800 Verwendung der Integra - einstimmig beschlossen
+- TOP 9: "Wohnprojekt für Obdachlose, Völklinger Straße 109/109a" - zur Kenntnis genommen
+- TOP 10: Jahresbericht 2018, AG 4/67, Sachstand Prüfempfehlungen Lenkungsgruppe "Hilfen für wohnungslose/obdachlose Menschen" - vertagt
+- TOP 11: Umsetzung des Ratsbeschlusses „Integration: Evaluation und Weiterentwicklung der Angebote zu Sprache, Arbeit/ Ausbildung Wohnen und Gesundheit“ hier: Evaluationsbericht - zur Kenntnis genommen
+- TOP -: Amt für Soziales
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: mündlicher Vortrag: Info-Kampagne "Streifenfrei - Leitsystem für Sehbehinderte und blinde Menschen - vertagt
+- TOP 14: Mittelverwendung aus dem Profitcenter 31 351 01, Konto 53390000 Sonstige Leistungen - Kommunale Beschäftigungsförderung - - vertagt
+- TOP 15: "Teilhabechancengesetz - Konzept zur Umsetzung in der Landeshauptstadt Düsseldorf" - passieren lassen
+- TOP 16: Düsselpass für Seniorinnen und Senioren - Empfehlung einstimmig beschlossen
+- TOP 17: Tätigkeitbericht der WTG-Behörde - vertagt
+- TOP 18: Ausstattung der stationären Einrichtungen mit W-LAN - zur Kenntnis genommen
+- TOP 19: Kommunale Steuerung im Sozialgesetzbuch Zweites Buch (SGB II) im Jahr 2018 - zur Kenntnis genommen
+- TOP 20: Veränderungen des Arbeitsauftrags des Demenz-Servicezentrums Region Düsseldorf - zur Kenntnis genommen
+- TOP -: Gesundheitsamt
+- TOP 21: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Fachübergreifende Themen
+- TOP 22: Tag der Bildung "Bildung im digitalen Zeitalter" - zur Kenntnis genommen
+- TOP 23: Beschlusskontrolle II/2019 - zur Kenntnis genommen
+- TOP 24: "Starke-Familien-Gesetz", Auswirkungen - zur Kenntnis genommen
+- TOP 25: Verschiedenes - zur Kenntnis genommen
