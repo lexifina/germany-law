@@ -102,7 +102,7 @@
 - [§ 60 Protokoll zur mündlichen Abschlussprüfung](0060.md)
 - [§ 61 Bestehen der mündlichen Abschlussprüfung](0061.md)
 
-#### Unterabschnitt 4 Bestehen der Laufbahnprüfung, Wieder- holung der Laufbahnprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung
+#### Unterabschnitt 4 Bestehen der Laufbahnprüfung,
 
 - [§ 62 Bestehen der Laufbahnprüfung und Abschlussnote](0062.md)
 - [§ 63 Wiederholung der Laufbahnprüfung](0063.md)

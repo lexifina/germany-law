@@ -42,5 +42,5 @@
 | 12.4 | Ausnahme nach § 34 Absatz 3 bis 5 des Bundesnaturschutzgesetzes oder Befreiung nach § 67 Absatz 2 des Bundesnaturschutzgesetzes vom Verbot des § 33 Absatz 1 Satz 1 des Bundesnaturschutzgesetzes oder von den Geboten und Verboten im Sinne von § 32 Absatz 3 des Bundesnaturschutzgesetzes | 30 bis 3 000 |
 | 13. | Artenschutz im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels |  |
 | 13.1 | Genehmigung des Ausbringens von Arten nach § 40 Absatz 1 des Bundesnaturschutzgesetzes oder Beseitigungsanordnung nach § 40 Absatz 3 des Bundesnaturschutzgesetzes | 50 bis 2 000 |
-| 13.2 | Ausnahme nach § 45 Absatz 7 oder Befreiung nach § 67 Absatz 2 von den Verboten des § 44 Absatz 1 des Bundesnaturschutzgesetzes | 50 bis 20 000. |
-| 13.3 | Anordnungen zur Abwehr von Gefahren durch invasive Arten nach § 40a Absatz 1 oder 3 des Bundesnaturschutzgesetzes | 50 bis 10 000. |
+| 13.2 | Ausnahme nach § 45 Absatz 7 oder Befreiung nach § 67 Absatz 2 von den Verboten des § 44 Absatz 1 des Bundesnaturschutzgesetzes | 50 bis 20 000 |
+| 13.3 | Anordnungen zur Abwehr von Gefahren durch invasive Arten nach § 40a Absatz 1 oder 3 des Bundesnaturschutzgesetzes | 50 bis 10 000 |
