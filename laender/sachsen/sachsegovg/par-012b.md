@@ -2,7 +2,7 @@
 (1) Soweit keine verbindlichen Standards vorgegeben sind, wird die Staatsregierung ermächtigt, durch Rechtsverordnung Regelungen zu erlassen zu:
 1. landesspezifischen Standards
 a)
-zur Gewährleistung der behördenübergreifenden Interoperabilität nach § 9 Absatz 1 zwischen elektronischen Verfahren, E-Government- Anwendungen und informationstechnischen Systemen zur elektronischen Unterstützung der Verwaltungstätigkeit und
+zur Gewährleistung der behördenübergreifenden Interoperabilität nach § 9 Absatz 1 zwischen elektronischen Verfahren, E-Government-Anwendungen und informationstechnischen Systemen zur elektronischen Unterstützung der Verwaltungstätigkeit und
 b)
 für die behördenübergreifende elektronische Kommunikation sowie
 2. dem Einsatz bestimmter E-Government-Anwendungen und informationstechnischer Systeme zur elektronischen Unterstützung der Verwaltungstätigkeit, sofern die Interoperabilität nicht auf andere Weise hergestellt werden kann.

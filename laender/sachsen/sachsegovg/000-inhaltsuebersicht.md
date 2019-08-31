@@ -1,3 +1,4 @@
+## Gesetz zur Förderung der elektronischen Verwaltung im Freistaat Sachsen (Sächsisches E-Government-Gesetz – SächsEGovG)
 # Inhaltsübersicht
 Abschnitt 1 Allgemeine Regelungen
 § 1 Anwendungsbereich
@@ -11,7 +12,7 @@ Abschnitt 1 Allgemeine Regelungen
 § 7 Georeferenzierung
 Abschnitt 2 Regelungen für die staatlichen Behörden
 § 8 Bereitstellung von Daten
-§ 9 Interoperabilität und Informationssicherheit
+§ 9 Interoperabilität
 § 10 Basiskomponenten
 § 11 Datenübermittlung
 § 11a Serviceportal Amt24
@@ -19,7 +20,7 @@ Abschnitt 2 Regelungen für die staatlichen Behörden
 § 12a Optimierung von Verwaltungsabläufen
 § 12b Einheitliche Standards
 Abschnitt 3 Regelungen für die Träger der Selbstverwaltung
-§ 13 Interoperabilität und Informationssicherheit
+§ 13 Interoperabilität
 § 13a Bereitstellung von Daten
 § 14 Basiskomponenten, Einheitliche Standards
 § 15 Datenübermittlung
