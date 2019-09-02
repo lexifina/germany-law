@@ -1,0 +1,54 @@
+# Sitzung des Integrationsrates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-02T15:00:00+02:00
+- Ende: 2019-09-02T17:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/19
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20339
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20339
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung einer Schriftführerin / eines Schriftführers
+- TOP 1: Konzept zur Stärkung der integrativen Stadtgesellschaft / aktuelle Informationen
+- TOP 2: Gleichstellungsrelevante Themen
+- TOP 3: Beantwortung von Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Integrationsrates
+- TOP 4.1: Ausstellung von Geburtsurkunden für Neugeborene von Geflüchteten
+- TOP -: Beantwortung einer Anfrage zur Ausstellung von Geburtsurkunden für Neugeborene von Geflüchteten
+- TOP 5: Mitteilungen
+- TOP 5.1: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln"
+- TOP 5.2: Darstellung der Sparten, hier: Interkultur und Inklu
+- TOP 5.3: Bericht Antirassismus-Trainings 2018
+- TOP 5.4: KOMM-AN NRW – Programm zur Stärkung und Begleitung des ehrenamtlichen Engagements in der Arbeit mit Geflüchteten und Neuzugewanderten – Sachstandsbericht 2019
+- TOP 5.5: Abschluss Vergabeverfahren Bewachungsdienstleistungen
+- TOP 5.6: Beteiligungsverfahren Förderkonzept Kulturelle Teilhabe
+- TOP 5.7: 25. Bericht über die Situation Geflüchteter in Köln
+- TOP 5.8: Mitteilung zum 7. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge
+- TOP 5.9: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln
+- TOP 5.10: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet
+- TOP 5.11: Volkshochschule Köln: Der talentCAMPus 2019 zum Thema Kinderrechte!
+- TOP 5.12: ColognePride 2019 – Die Volkshochschule war dabei
+- TOP 5.13: Projekt Auszugsmanagement: Erweiterung der Konzeptes
+- TOP 6: Anträge gemäß § 3 der Geschäftsordnung des Integrationsrates
+- TOP 6.1: Antrag zur Vorgehensweise für das Beteiligungsverfahren zur Erstellung eines Förderkonzeptes Kulturelle Teilhabe - 1425/2019 - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 6.2: 3. Frauenhaus - Sache ist erledigt
+- TOP 7: Berichte
+- TOP 7.1: Berichte der sachkundigen Einwohner/innen in Ratsausschüssen
+- TOP 7.2: Bericht des Landesintegrationsrates (LAGA NRW)
+- TOP 8: Beschlussvorlagen
+- TOP 8.1: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 8.2: Miteinander-Preis Köln für Demokratie und Vielfalt - ungeändert beschlossen
+- TOP 8.3: Beratung des Haushaltsplan-Entwurfs 2020/21 einschließlich der Finanzplanung bis 2024 - geändert beschlossen
+- TOP -: Änderungsantrag zur Beratung des Haushaltsplan-Entwurfs 2020/21 einschließlich der Finanzplanung bis 2024 - ungeändert beschlossen
+- TOP 8.4: Aufnahme einer neuen Schule in den Verbund Kölner Europäischer Grundschulen - ungeändert beschlossen
+- TOP 8.5: EU-Charta - 2. Kölner Gleichstellungsaktionsplan - Sache ist erledigt
+- TOP 8.6: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Interkulturelles Frauen- und Mädchen-Gesundheitszentrum IFMGZ Holla e.V." - ungeändert beschlossen
+- TOP 8.7: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 8.8: Vergabe Restmittel Antirassismus-Training 2019 - ungeändert beschlossen
+- TOP 8.9: Richtlinie für die Anerkennung und Förderung Interkultureller Zentren - ungeändert beschlossen
+- TOP 9: Unterrichtung der Öffentlichkeit gemäß § 25 der Geschäftsordnung des Integrationsrates
+- TOP 10: Mündliche Anfragen gemäß § 4 (2) der Geschäftsordnung des Integrationsrates
