@@ -1,0 +1,59 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-03T16:00:00+02:00
+- Ende: 2019-09-03T19:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18589
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18589
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00353958.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00353958.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00353958.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 172/ -5 /2019 vom 26.06.2019 - einstimmig beschlossen
+- TOP -: Berichte und Verwaltungsvorlagen
+- TOP 4: Erinnerungszeichen Grafenberger Allee 78 -mündlicher Bericht zum Beschluss der Bezirksvertretung vom 27.11.2018, Dr.Nr. 172/ 161/2018 - zur Kenntnis genommen
+- TOP 5: FNP Nr. 157 Westlich Ronsdorfer Straße - Empfehlung einstimmig beschlossen
+- TOP 6: B-Plan Nr. 02/016 Westlich Ronsdorfer Straße - Empfehlung einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - mehrheitlich beschlossen
+- TOP 12: Fassadengestaltung - Einbringung eines Wandbildes- an der Straßenfront des Eisstadions, Brehmstraße 27a - mehrheitlich beschlossen
+- TOP 13: Zuschuss an den Eisenbahner Sportverein Blau-Weiß 1926 e.V. - einstimmig beschlossen
+- TOP 14: Zuschuss an den Deutschen Sportklub Düsseldorf e.V. - Tennisplatzsanierung - einstimmig beschlossen
+- TOP 15: Zuschuss an den Deutschen Sportklub Düsseldorf e.V. - Calisthenics - einstimmig beschlossen
+- TOP 16: Weiterentwicklung der Offenen Ganztagsschule im Primarbereich - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 17: Blumenwiesen statt Steingärten - Vorstellung der Vorgartensatzung für den Stadtbezirk 2 vor dem Hintergrund der gesamtstädtischen Vorgartensatzung - Antrag der Fraktion Bündnis 90/Die Grünen - einstimmig beschlossen
+- TOP 18: Gehwege sind nicht für den motorisierten Individualverkehr da - Antrag der Fraktion Bündnis90/Die Grünen - einstimmig beschlossen
+- TOP 19: Instandsetzung des Parkgeländes um die Buscher Mühle - Antrag der CDU-Fraktion - einstimmig beschlossen
+- TOP 20: Anpflanzung neuer Bäume im Bezirk 2 - Antrag der CDU-Fraktion - abweichend beschlossen
+- TOP 21: Bezirksbezogene Haushaltsmittel – NaturFreunde NRW Straßenfest August 2019 - Antrag der Fraktionen von Bündnis 90/Die Grünen und SPD - mehrheitlich beschlossen
+- TOP 22: Zuschuss an die Evang. Emmaus-Gemeinde für "Musik in Matthäi 2019“ aus bezirksbezogenen Haushaltsmitteln - Antrag der Fraktionen von - einstimmig beschlossen
+- TOP 23: Bezirksbezogene Haushaltsmittel Kantorei an Matthäi - Antrag der CDU-Fraktion
+- TOP 24: Erneuerung der Müllverbrennungsanlage - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP 25: Kühlwetterstraße - Fahrradabstellanlagen - Antrag der SPD-Fraktion - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 26: Entwicklung Biomasse im Bezirk 2 - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 27: Schließung der Filiale Hoffeldstraße der Stadtsparkasse Düsseldorf - Anfrage der Fraktion Bündnis 90/Die Grünen - beantwortet
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Müllentsorgung auf dem Parkgelände um die Buscher Mühle - Anfrage der CDU-Fraktion - beantwortet
+- TOP 32: Bebauungsplan-Vorentwurf Nr. 02/014 Landeswettbewerb 2016 Neues urbanes Wohnen in Flingern Nord - Anfrage der SPD-Fraktion - beantwortet
+- TOP 33: Baumfällungen im Stadtbezirk 2 infolge der Trockenheit - Anfrage der CDU-Fraktion
+- TOP -: Informationsvorlagen
+- TOP 34: Namenloser Verbindungsweg Schlüterstraße - Schwabstraße - zur Kenntnis genommen
+- TOP 35: Wiederherstellung der Abpollerung des Bürgersteiges an der Brehmstraße zwischen DEG-Geschäftsstelle und Grunerstraße - zur Kenntnis genommen
+- TOP 36: Barrierefreier Gehweg Junkersstraße - zur Kenntnis genommen
+- TOP 37: Fahrradständer auf der Ecke Lindenstraße/Cranachstraße stadtauswärts - zur Kenntnis genommen
+- TOP 38: Beschlusskontrolle der Bezirksvertretung 2 - zur Kenntnis genommen
