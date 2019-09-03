@@ -1,0 +1,6 @@
+# TOP 2: Mitteilungen
+
+- Sitzung: 35. Sitzung des Ausschusses für Anregungen und Beschwerden (2019-09-03)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/279510
