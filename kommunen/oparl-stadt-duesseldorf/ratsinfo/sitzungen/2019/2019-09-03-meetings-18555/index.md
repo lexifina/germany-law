@@ -1,0 +1,56 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-03T15:00:00+02:00
+- Ende: 2019-09-03T16:32:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18555
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18555
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket JHA 03.09.2019 (Stand: 26.08.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00352540.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket JHA 03.09.2019 (Stand: 26.08.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00352540.pdf
+- Wortprotokoll: Digitales Sitzungspaket JHA 03.09.2019 (Stand: 26.08.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00352540.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift
+- TOP 2.1: Genehmigung der Niederschrift über die Sitzung des Ausschusses für Gesundheit und Soziales, Jugendhilfeausschusses und des Beirates zur Förderung der Belange von Menschen mit Behinderungen am 07.05.2019 - einstimmig beschlossen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage der SPD-Ratsfraktion - hier: Schulsozialarbeit an städtischen Schulen in Düsseldorf - beantwortet
+- TOP 3.2: Anfrage der CDU-Ratsfraktion - hier: Rheinbad Düsseldorf – Engagement des Jugendamts - beantwortet
+- TOP 4: Anträge
+- TOP 4.1: Antrag der Ratsfraktion DIE LINKE. - hier: Einführung eines Ferienpasses für Kinder und Jugendliche - abweichend beschlossen
+- TOP 4.2: Antrag der Ratsfraktion DIE LINKE. - hier: Mittagsverpflegung in offenen Ganztagsschulen und Kindertagesstätten
+- TOP 4.3: Antrag der Ratsfraktionen CDU, SPD, BÜNDNIS 90/DIE GRÜNEN und FDP - hier: Partizipation von Kindern und Jugendlichen zum Kita-/JFE- Neubau „Hallesche Straße“ - einstimmig beschlossen
+- TOP 5: Berichte
+- TOP 5.1: Bildungs- und Freizeitveranstaltungen der Jugendverbände Düsseldorf – hier: Ferienfreizeiten der Jugendverbände - zur Kenntnis genommen
+- TOP 5.2: Sachstandsbericht zu unbegleiteten minderjährigen Ausländer/-innen in Düsseldorf – Aktueller Stand - zur Kenntnis genommen
+- TOP 6: Präventionsketten Düsseldorf
+- TOP 6.1: Düsseldorfer Präventionsketten: Inbetriebnahme des Familien-Navigators - zur Kenntnis genommen
+- TOP 7: Tageseinrichtungen für Kinder
+- TOP 7.1: Fachkräftemangel im Sozial- und Erziehungsdienst - Gewinnung neuer Mitarbeiterinnen und Mitarbeiter - ein Ausblick - zur Kenntnis genommen
+- TOP 7.2: Teilnahme am Bundesprogramm "ProKindertagespflege" 2019 bis 2021 - zur Kenntnis genommen
+- TOP 8: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 8.1: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Hohenzollernallee 18 - einstimmig beschlossen
+- TOP 8.2: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Erna-Eckstein-Straße 4 (bisher Kita Witzelstraße) - einstimmig beschlossen
+- TOP 8.3: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Carl-Friedrich-Goerdeler-Str. 19b - einstimmig beschlossen
+- TOP 8.4: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Heerstraße 19 - einstimmig beschlossen
+- TOP 8.5: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Moorenstraße 5 - einstimmig beschlossen
+- TOP 8.6: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Paulistraße 4 - einstimmig beschlossen
+- TOP 8.7: Investitionszuschüsse an Betreiber von Großtagespflegen - hier: GTP 1, GTP 2, GTP 3 - Zietenstr. 52 - Neubau - einstimmig beschlossen
+- TOP 9: Jugendförderung
+- TOP 9.1: Trägerwechsel Jugendzentrum Eller - einstimmig beschlossen
+- TOP 9.2: Verlagerung der Kinder- und Jugendfreizeiteinrichtung Kuthsweg 43 an den Standort Gatherweg 109 – Aktueller Stand - zur Kenntnis genommen
+- TOP 10: Soziale Dienste
+- TOP 10.1: Informationen zur Eingliederungshilfe gemäß § 35a SGB VIII - zur Kenntnis genommen
+- TOP 11: Familienförderung
+- TOP 11.1: Umsetzung des Gesetzes zum Elterngeld und zur Elternzeit (Bundeselterngeld- und Elternzeitgesetz) in Düsseldorf 2018 - zur Kenntnis genommen
+- TOP 12: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII
+- TOP 12.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: PRI & PRI KITA Düsseldorf gGmbH - zurückgezogen
+- TOP 12.2: Befristete Verlängerung der Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII - hier: Bärenclub gGmbH - zurückgezogen
+- TOP 13: Fachübergreifende Vorlagen
+- TOP 13.1: "Starke-Familien-Gesetz", Auswirkungen - zur Kenntnis genommen
+- TOP 13.2: Jahresbericht des Jugendamtes 2018 - zur Kenntnis genommen
