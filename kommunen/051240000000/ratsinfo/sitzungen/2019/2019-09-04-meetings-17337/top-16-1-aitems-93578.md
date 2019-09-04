@@ -1,0 +1,7 @@
+# TOP 16.1: Antrag der Aktion V auf einen Zuschuss zu denKkosten für den Vohwinkeltag
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Vohwinkel (2019-09-04)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/93578
+- Ergebnis: ungeändert beschlossen
