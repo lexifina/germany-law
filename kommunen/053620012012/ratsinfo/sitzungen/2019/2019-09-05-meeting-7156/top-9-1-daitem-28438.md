@@ -1,0 +1,6 @@
+# TOP 9.1: Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung: Kostenersatz Grundstücksanschlüsse
+
+- Sitzung: Ausschuss für Bauen und Umwelt (29. Sitzung) (2019-09-05)
+- Körperschaft: Stadt Brühl
+- Öffentlich: ja
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/agendaitem/28438
