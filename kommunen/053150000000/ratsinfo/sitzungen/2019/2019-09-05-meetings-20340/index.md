@@ -1,0 +1,67 @@
+# 40. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-05T15:30:00+02:00
+- Ende: 2019-09-05T17:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20340
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20340
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Zutrittskampagne "Assistenzhund Willkommen!" des BMAS - ungeändert beschlossen
+- TOP 3.2: Förderung von Selbsthilfegruppen im Sozialbereich 2019 - ungeändert beschlossen
+- TOP 3.3: Förderung von Frauenvereinen im Sozialbereich 2019 - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 4.2: Richtlinie für die Anerkennung und Förderung Interkultureller Zentren - Sache ist erledigt
+- TOP 4.2.1: Richtlinie für die Anerkennung und Förderung Interkultureller Zentren - ungeändert beschlossen
+- TOP 4.3: Vergabe Restmittel Antirassismus-Training 2019 - ungeändert beschlossen
+- TOP 4.4: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - zurückgestellt
+- TOP 4.5: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 4.6: Ausbau der Jugendeinrichtung Unnauer Weg 96a im Zuge der Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler; Projekt „Ausbau des Sozialen Zentrums Lino-Club e.V. zu einem generationenübergreifenden Bürgerhaus (Mehrgenerationenhaus)" hier: - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Anregungen und Stellungnahmen der Stadtarbeitsgemeinschaften
+- TOP 7: Wohnen
+- TOP 7.1: Anfragen und Beantwortungen
+- TOP 8: JobCenter Köln
+- TOP 8.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 9: Aktuelle Situation Geflüchteter in Köln
+- TOP 9.1: 25. Bericht über die Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 9.2: Mitteilung zum 7. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge - Kenntnis genommen
+- TOP 9.3: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 9.4: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen I/2019 - Kenntnis genommen
+- TOP 9.5: Projekt Auszugsmanagement: Erweiterung der Konzeptes - Kenntnis genommen
+- TOP 9.6: Anfragen und Beantwortungen
+- TOP 10: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 10.1: Bericht des Behindertenbeauftragten 03/2019: Barrierefreiheit im Baugenehmigungsverfahren nach Landesbauordnung NRW 2018 - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Inklusion in kommunaler Beschäftigung – Nachholbedarf in IT und Ausbildung - zurückgestellt
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - zurückgestellt
+- TOP 12.2: Beantwortung der Anfrage AN/1557/2018 mdl. Anfrage von SE Carolina Brauckmann zum Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW), s. 3909/2018 zur Beantwortung der Anfrage AN/1557/2018 - zurückgestellt
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 13.1: Anfrage der Seniorenvertretung zur Verbesserung der Beratungskapazität von „wohn mobil“ im Jahre 2020 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der Seniorenvertretung der Stadt Köln - Kenntnis genommen
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - zurückgestellt
+- TOP 15.2: Überarbeitung des Regionalplans für den Regierungsbezirk Köln - Kenntnis genommen
+- TOP 15.3: Pegel Köln 4/2019 Einwohnerentwicklung 2018 Kölns Wachstum setzt sich fort: Gestiegene Zuzüge kompensieren Abwanderungen ins Umland - Kenntnis genommen
+- TOP 15.4: Beantwortung der Anfrage "Stärkung der Sozialräume" im JHA - Kenntnis genommen
+- TOP 15.5: Abschluss Vergabeverfahren Bewachungsdienstleistungen - Kenntnis genommen
+- TOP 15.6: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 15.7: Fortführung des Angebotes der Wohnungslosenhilfe des Erik-Wickberg-Hauses in Ehrenfeld - Kenntnis genommen
+- TOP 15.8: Fachdiskussion zur Einführung eines qualifizierten Mietspiegels - Kenntnis genommen
+- TOP 15.9: Jahresbericht 2018 der Selbsthilfe-Kontaktstelle Köln - Kenntnis genommen
+- TOP 15.10: Berichterstattung über die Ergebnisse der mit wohnungslosen Menschen geführten Interviews durch die Streetworker des Benedikt Labre e.V. und der Diakonie Michaelshoven e.V. - Kenntnis genommen
+- TOP 15.11: Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) Sachstand 2018 - Kenntnis genommen
+- TOP 15.12: Bilanz der Kommission zur Stärkung der Bezirke - zurückgestellt
