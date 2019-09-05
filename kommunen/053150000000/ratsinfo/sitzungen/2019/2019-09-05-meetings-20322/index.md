@@ -1,0 +1,54 @@
+# 38. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-05T17:05:00+02:00
+- Ende: 2019-09-05T18:30:00+02:00
+- Ort: Achtung - geänderter Sitzungsort: Lanxess-Arena, Willy-Brandt-Platz 3, 50679 Köln Sitzungsraum: Backstage Restaurant - Eingang Nord
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/18
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20322
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20322
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00729817.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00729817.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00729817.pdf
+
+## Tagesordnung
+
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verpflichtung von Sachkundigen Einwohnern / Sachkundigen Bürgern
+- TOP 1: Präsentation, anschließend Meinungsaustausch
+- TOP 2: Gleichstellungsrelevante Angelegenheiten
+- TOP 3: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 3.1: Anfrage der Fraktion Bündnis 90/Die Grünen betr.: "Verlagerung von Nutzern des Deutzer Hafens" - zurückgestellt
+- TOP 3.2: Anfrage der SPD-Fraktion betr.: "Sachstand Markenprozess Köln - Wie wird die „Marke Köln“ fortgeführt und weiterentwickelt?" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betr.: "Sachstand Markenprozess Köln - Wie wird die „Marke Köln„ fortgeführt und weiterentwickelt?", AN 0890/2019 vom 24.06.2019 - Kenntnis genommen
+- TOP 3.3: Anfrage der SPD-Fraktion betr.: "Sachstand Markenprozess Köln - Wie wird die „Marke Köln“ fortgeführt und weiterentwickelt? Weitere Fragen zum Sachstand" - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage der SPD-Fraktion betr.: "Sachstand Markenprozess Köln - Wie wird die „Marke Köln„ fortgeführt und weiterentwickelt? Weitere Fragen zum Sachstand", AN 0891/2019 vom 24.06.2019 - Kenntnis genommen
+- TOP 3.4: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Großmarkt Köln – Verlängerung der Miet- u. Pachtverträge, Instandsetzung" - zurückgestellt
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung
+- TOP 4.1: Anfrage der CDU-Fraktion und der Fraktion Bündnis 90/Die Grünen betr.: "Gewerbegebiet Marsdorf - Gewerbeflächenbereitstellung" - zurückgestellt
+- TOP 4.2: Anfrage der FDP-Fraktion betr.: "LGBT-Touristen in Köln" - zurückgestellt
+- TOP 5: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 6: Beteiligung des Wirtschaftsausschusses an wirtschaftsrelevanten Planungen
+- TOP 7: Unterrichtung des Wirtschaftsausschusses über wirtschaftsrelevante Angelegenheiten
+- TOP 7.1: Überarbeitung des Regionalplans für den Regierungsbezirk Köln - Kenntnis genommen
+- TOP 7.2: Pegel Köln 4/2019 Einwohnerentwicklung 2018 Kölns Wachstum setzt sich fort: Gestiegene Zuzüge kompensieren Abwanderungen ins Umland - Kenntnis genommen
+- TOP 8: Marktwesen
+- TOP 9: "koeln.de"
+- TOP 9.1: Bericht über die 51. und 52. Sitzung des koeln.de-Beirates - Kenntnis genommen
+- TOP 10: Medien- und Internetwirtschaft in Köln
+- TOP 11: Wirtschafts- und Arbeitsmarktsituation
+- TOP 11.1: Gesundheits- und Sozialwesen – Beschäftigungsentwicklung in Köln und im Regionalvergleich 2008 bis 2018 - Kenntnis genommen
+- TOP 12: Beschäftigungsförderung / Arbeitsmarktförderung
+- TOP 13: Förderung und Sicherung des Industriestandortes Köln (Ratsbeschluss vom 31.01.2002)
+- TOP 14: Mitteilungen
+- TOP 14.1: Immobilien- und Standortgemeinschaft Severinstraße Stand der Maßnahmenumsetzung zur Halbzeit des Projekts (Juni 2019) - Kenntnis genommen
+- TOP 14.2: Köln und die chinesische Stadt Chongqing schließen Kooperationsvereinbarung - Kenntnis genommen
+- TOP 14.3: Stadtentwicklungskonzept Wirtschaft – Ergebnisse des Gewerbe- und Industrieflächengutachtens - zurückgestellt
+- TOP 14.4: Gebührenerhebung bei 236 - Marktverwaltung - Kenntnis genommen
+- TOP 14.5: Kongress "PopSummit #2020" in Köln - Kenntnis genommen
+- TOP 14.6: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 15: Allgemeine Beschlussvorlagen
+- TOP 15.1: Freigabe zusätzlicher Mittel aus der Kulturförderabgabe - Teilplan 1501 Wirtschaft und Tourismus - Zuschuss an die KölnTourismus GmbH - ungeändert beschlossen
+- TOP 16: Mündliche Anfragen
