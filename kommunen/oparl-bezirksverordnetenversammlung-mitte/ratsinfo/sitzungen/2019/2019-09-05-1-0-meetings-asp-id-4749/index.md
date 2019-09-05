@@ -1,0 +1,118 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-09-05T17:30:00+02:00
+- Ende: 2019-09-05T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4749
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4749
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=446195
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - (offen)
+- TOP 2.1: Wasserqualität des Engelbeckens - erledigt
+- TOP 2.2: Verdrängung von Mieter/-innen in der Rathenower Str. 23 - erledigt
+- TOP 3: Feststellen von Dringlichkeiten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2020 und 2021 (dazu zählen DS 1994/V mit Anlagen, DS 1667/V, 1833/V, 1862/V, 1877/V, 1962/V, DS 2002/V) - (offen)
+- TOP 6.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltsjahre 2020 und 2021. - mit Änderungen in der BVV beschlossen
+- TOP 7: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung der im Haushaltsjahr 2018 zugelassenen über- und außerplan-mäßigen Ausgaben und Verpflichtungsermächtigungen. - vertagt
+- TOP 7.2: Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes I-43b VE „südliche Alexanderstraße“ - ohne Änderungen in der BVV beschlossen
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Mietendeckel und die Folgen - beantwortet
+- TOP 8.2: Kostenfreies Schulessen in Mitte - beantwortet
+- TOP 8.3: Erfolgreicher Fachtag des Bezirksamts zur Obdachlosigkeit im Bezirk- wie geht es nun weiter? - beantwortet
+- TOP 8.4: Maßnahmen zum Baumschutz wegen Klimawandel - schriftlich beantwortet
+- TOP 8.5: Freie Busspuren in Mitte - schriftlich beantwortet
+- TOP 9: Dringlichkeitsanfragen - (offen)
+- TOP 9.1: Haus der Gesundheit – verkauft und verraten? - beantwortet
+- TOP 9.2: Ende für das Haus der Gesundheit? - schriftlich beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Engagement der Bevölkerung fördern oder aussitzen? - beantwortet
+- TOP 10.2: Wie weiter auf dem Kurfürstenstrich? - schriftlich beantwortet
+- TOP 10.3: Wohnungsverlust trotz Betreuung durch die Schuldnerberatung – wie geht das? - schriftlich beantwortet
+- TOP 10.4: Sind die Haushaltsmittel für die Präventionsbeauftragten ausreichend? - schriftlich beantwortet
+- TOP 10.5: Umgang mit den Hohenzollern auf Straßen und Plätzen in Berlin-Mitte - schriftlich beantwortet
+- TOP 10.6: Schafe als Kunstobjekte? - schriftlich beantwortet
+- TOP 11: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Verordnung über die Erhaltung der städtebaulichen Eigenart auf Grund der städtebaulichen Gestalt für das Gebiet Hansaviertel im Bezirk Mitte von Berlin gem. § 172 Abs. 1 Satz 1 Nr. 1 BauGB - überwiesen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Haus der Gesundheit - vertagt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Fußgängerüberweg und Umgestaltung Jülicher Straße/ Ecke Eulerstraße - überwiesen
+- TOP 14.2: Haushaltsnahe Altglassammlung in Berlin-Mitte sicherstellen - überwiesen
+- TOP 14.3: Leerstand nutzen: Zwischennutzungen und ein „Haus der Hilfe“ in der Schulstraße 97 ermöglichen - überwiesen
+- TOP 14.4: Entscheidend is auf´m Platz – Bezug zu Alfred Döblin und Hauptwerk mit ins „Konzept Alexanderplatz“ - überwiesen
+- TOP 14.5: Die Bundeswehr gehört in die Öffentlichkeit – Gelöbnis in Mitte - überwiesen
+- TOP 14.6: Fahrbahn für Radfahrer instand setzen! - überwiesen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Weiterentwicklung des derzeitigen QM-Gebietes Ackerstr. nach der Verstetigungsphase nicht gefährden. - vertagt
+- TOP 17.2: Finanzielle Aufwandsentschädigung für die institutionelle Bürgerbeteiligung im Bereich der Sozialen Stadtentwicklung in Mitte gleichstellen - gegenstandslos
+- TOP 17.3: Baumscheiben - Wie gehts richtig - mit Änderungen in der BVV beschlossen
+- TOP 17.4: Grillen mit Grillmeister – Schillerpark als Grill-Oase 2019 - in der BVV abgelehnt
+- TOP 17.5: Bäume vor Trockenheit schützen – Sommerdienst einführen - vertagt
+- TOP 17.6: Im Haushalt 2020/2021 für Jugend und Familie Schwerpunkte setzen - im Ausschuss abgelehnt
+- TOP 17.7: Vier Augen sehen mehr als zwei: Begehung von Wohnungslosenunterkünften gemeinsam mit Wohnungslosen - mit Änderungen in der BVV beschlossen
+- TOP 17.8: Mehr Licht am Alexanderplatz - mit Änderungen in der BVV beschlossen
+- TOP 17.9: Tegel bleibt offen – Bürger*innen brauchen Lärmschutz. - in der BVV abgelehnt
+- TOP 17.10: Entwurf einer Strategie für die anstehende Digitalisierung der Schulen - vertagt
+- TOP 17.11: Bezirkliche Gesundheitsziele umsetzen - Kindergesundheit mit hoher Priorität fördern! - im Ausschuss abgelehnt
+- TOP 17.12: Alltagserleben nach dem Krieg und in Zeiten der Mauer – auch über das Gebiet zwischen Bernauer Straße und Schifffahrtskanal dokumentieren - mit Änderungen in der BVV beschlossen
+- TOP 17.13: Finanzielle Zukunft des Beratungsladen „MachBar“ und „Kiezläufer“ absichern! - ohne Änderungen in der BVV beschlossen
+- TOP 17.14: Schulentwicklungsplan fortschreiben und mit weiteren Informationen ergänzen - mit Änderungen in der BVV beschlossen
+- TOP 17.15: 1000 monatliche Sanktionen durch das Jobcenter weniger: Neue Verfahren zur Terminvergabe einführen - gegenstandslos
+- TOP 17.16: Rasenpflege im Volkspark Rehberge - gegenstandslos
+- TOP 17.17: Ein Treffpunkt für den Huttenkiez ist unabdingbar. - ohne Änderungen in der BVV beschlossen
+- TOP 17.18: Neue Fahrradbügel in Moabit - in der BVV abgelehnt
+- TOP 17.19: Gehwege frei! Fahrradstellplätze auf die Straße – Autoparkplätze umwidmen! - mit Änderungen in der BVV beschlossen
+- TOP 17.20: Dienstleistungsorientierung stärken - bürgernahe Verwaltungssprache zielgerichtet schulen - mit Änderungen in der BVV beschlossen
+- TOP 17.21: Absicherung der bezirklichen Kulturangebote - im Ausschuss abgelehnt
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Information und Veröffentlichung von Gutachten (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.2: Gärtnern in Mitte - für und mit den Bürgerinnen und Bürgern - vertagt
+- TOP 18.3: Webauftritt des Bezirkes Mitte zweisprachig - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.4: Sicherheit zuerst - Schulwegsicherung hat Priorität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Lebensgrundlage von Bienenvölkern ganzheitlich betrachten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Schreibraum für selbständige AutorInnen und ÜbersetzerInnen und LektorInnen in Berlin mitdenken - vertagt
+- TOP 18.7: Verstetigung von Quartiersmanagementgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Erhebung der Lebenslagen von SeniorInnen in Mitte (LISA II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.9: Freifläche in der Auguststraße erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.10: Schulbauvorhaben Adalbertstraße realisieren - Sport am Standort weiter ermöglichen – Sanierungsziele verwirklichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.11: Ausschilderung Stadion Rehberge - vertagt
+- TOP 18.12: Berliner Sportgeschichte hautnah – Eine Flutlichtanlage im Poststadion - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.13: Gesamtkonzept für den Schillerpark erstellen - vertagt
+- TOP 18.14: EU-Netzwerk in Mittes Schulen. - vertagt
+- TOP 18.15: Unterbringung Geflüchteter in Hostels – Ein Ist-Stand - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.16: Sanierungsstau beenden - Mittel für Bau und Sanierung der Verkehrsinfrastruktur erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.17: Überprüfung der Reservierung öffentlich geförderter Kitaplätze durch Unternehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.18: Berlin trägt Kippa! - und rückt Zeugnisse historischer Judenpogrome ins Licht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.19: Invaliden-/ Ecke Chausseestr.: Verkehrsführung sicherer machen - vertagt
+- TOP 18.20: Diesterweg – alles auf Anfang? - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.21: Mobile und flexible Kinderbetreuung in der BVV-Mitte? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.22: 1000 Straßenbäume mehr in Mitte! - vertagt
+- TOP 18.23: Jugendverkehrsschulen dauerhaft arbeitsfähig machen: Festes Personal für die Radfahrausbildung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.24: Himmelbeet retten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.25: Dezentrale Standorte für das Ordnungsamt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.26: Chancengeber Bezirksamt: Mitte als Modellbezirk für eine gelungene Integration und eine zukunftsfähige Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.27: Kommunikation verbessern – Beteiligung und Transparenz sichern II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.28: Schriftliche Informationen zum Inhalt der Abwendungsvereinbarung an Mieter*innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.29: Aufstellung des Bebauungsplans II-39-1 im Bezirk Mitte, Ortsteil Moabit, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB), die frühzeitige Beteiligung der Behörden gemäß § 4 Abs. 1 BauGB sowie der Beteiligung der Behörden gemäß § 4 Abs. 2 BauGB. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.30: Integrierte Handlungs- und Entwicklungskonzepte - Fortschreibung 2019 - der Quar-tiersmanagementgebiete Badstraße, Brunnenviertel-Brunnenstr., Moabit West, Moabit Ost, Reinickendorfer- / Pankstr. und Soldiner Str. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.31: Förderleitlinie bezirklicher Integrationsfonds 2020/2021 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.32: Handlungskonzept BENN - Mitte 2019 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.33: Aktionsplan zur Überleitung des Quartiersmanagement-Gebietes Brunnenviertel-Ackerstraße in Regelstrukturen kommunaler Daseinsvorsorge (Verstetigung). - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.34: Änderung der Einschulungsbereiche für die Grundschulen im Bezirksamt Mitte von Berlin für das Schuljahr 2020/21 - mit Abschlussbericht zur Kenntnis genommen
