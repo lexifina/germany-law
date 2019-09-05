@@ -1,0 +1,53 @@
+# Ausschuss für Bauen und Umwelt (29. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-09-05T18:00:00+02:00
+- Ende: 2019-09-05T19:04:00+02:00
+- Ort: Rathaus, Uhlstr. 3, 50321 Brühl, Sitzungszimmer A013
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-241
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXG2IOELfp3Ak8ancGlnJLo
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7156
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Bauen und Umwelt) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSM9Vk5ULK8gjphSAOkb-BjBWGx2v2rr7gV-O1Kf8Ra4/Bekanntmachung_Ausschuss_fuer_Bauen_und_Umwelt_05.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Bauen und Umwelt) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR-6D8qeJZ0fujz5rQWHgFTd1BwrZCcGForNCYYpLxSW/Oeffentliche_Niederschrift_Ausschuss_fuer_Bauen_und_Umwelt_05.09.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Niederschrift vom 27.06.2019
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Schutz der biologischen Vielfalt in Brühl Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 12.03.2018 - (kein Text vorhanden)
+- TOP 4.: Anträge auf Baumfällungen Bezug: Baumfällanträge - (kein Text vorhanden)
+- TOP 5.: Barrierefreier Umbau Bushaltestellen Hier: Nicht umbaufähige Bushaltestellen
+- TOP 6.: Mögliche (mittelbare) Beteiligung an der Klärschlammkooperation Rheinland (KKR) - (kein Text vorhanden)
+- TOP 7.: Mitteilungen
+- TOP 7.1: Mitteilungen über aktuelle Baumaßnahmen
+- TOP 7.1.1: Franzstraße: Straßen- und Kanalbau
+- TOP 7.1.2: Erschließung Bebauungsplan 01.16 TB II Südfriedhof / Bonnstraße / Schulzentrum / Linie 18
+- TOP 7.1.3: Erschließung Bebauungsplan 06.15 Alte Bonnstraße / südlich Otto-Wels-Straße
+- TOP 7.1.4: Am Krausen Baum: Straßen- und Kanalbau
+- TOP 7.1.5: Barrierefreie Bushaltestellen: abschließendes Los 5
+- TOP 7.1.6: Rückhaltebecken Ost
+- TOP 7.1.7: Rückhaltebecken Renault-Nissan-Straße
+- TOP 7.1.8: Pumpwerke Gertrudenstraße und Schildgesstraße
+- TOP 7.1.9: Thüringer Platz: Asphaltierung
+- TOP 7.1.10: Hürther Straße: Parkplatz Sportplatz Vochem
+- TOP 7.1.11: Renault-Nissan-Straße: kurzfristige Deckenbaumaßnahme des Rhein-Erft-Kreises
+- TOP 8.: Anfragen
+- TOP 8.1: Zum Herrengarten: Wildwuchs im Bankett
+- TOP 8.2: Rathaus B
+- TOP 8.3: Zur Gabjei: Verkehrssituation
+- TOP 8.4: Carl-Schurz-Straße: Abtransport Milchbar / Baumfällungen
+- TOP 8.5: Mehrwegbecher: Sachstandbericht
+- TOP 8.6: Kurfürstenstraße: Bäume und Straßenbeleuchtung
+- TOP 8.7: Biotonne: Abfuhrturnus
+- TOP 8.8: Auf den Steinen / Steingasse: Neubau und Parksituation
+- TOP 8.9: Abgängige Bäume im Stadtgebiet
+- TOP 8.10: Biologische Vielfalt: Nutzung eines städtischen Grundstückes
+- TOP 8.11: Verbindung Langenackerstraße - Bergerstraße: Zustand Radweg
+- TOP B): Nichtöffentliche Sitzung
+- TOP 9.: Mitteilungen
+- TOP 9.1: Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung: Kostenersatz Grundstücksanschlüsse
+- TOP 10.: Anfragen
