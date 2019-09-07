@@ -1,0 +1,6 @@
+# Dritte Verordnung über zwingende Arbeitsbedingungen im Steinmetz- und Steinbildhauerhandwerk
+
+- [Eingangsformel](eingangsformel.md)
+- [§ 1 Zwingende Arbeitsbedingungen](0001.md)
+- [§ 2 Inkrafttreten, Außerkrafttreten](0002.md)
+- [Anlage (zu § 1 Absatz 1)Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Steinmetz- und Steinbildhauerhandwerk vom 25. Februar 2019 (TV Mindestlohn)](anlage.md)
