@@ -46,6 +46,7 @@
 
 - [§ 23 Grundsatz](0023.md)
 - [§ 24 Anwendung des einfachen Ansatzes](0024.md)
+- [§ 24 Anwendung des einfachen Ansatzes](0024-2.md)
 
 ### Unterabschnitt 2 Liquiditätsrisiko und Kontrahentenrisiko
 
@@ -76,5 +77,6 @@
 ## Abschnitt 7 Schlussbestimmungen
 
 - [§ 39 Anwendbarkeit](0039.md)
-- [§ 40 Übergangsbestimmung](0040.md)
+- [§ 40 Übergangsbestimmungen](0040.md)
+- [§ 40 Übergangsbestimmungen](0040-2.md)
 - [§ 41 Inkrafttreten, Außerkrafttreten](0041.md)
