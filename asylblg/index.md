@@ -4,6 +4,7 @@
 - [§ 1a Anspruchseinschränkung](0001a.md)
 - [§ 2 Leistungen in besonderen Fällen](0002.md)
 - [§ 3 Grundleistungen](0003.md)
+- [§ 3a Bedarfssätze der Grundleistungen](0003a.md)
 - [§ 4 Leistungen bei Krankheit, Schwangerschaft und Geburt](0004.md)
 - [§ 5 Arbeitsgelegenheiten](0005.md)
 - [§ 5a Arbeitsgelegenheiten auf der Grundlage des Arbeitsmarktprogramms Flüchtlingsintegrationsmaßnahmen](0005a.md)
