@@ -55,9 +55,8 @@
 - [§ 28 Zeitpunkt der Zahlung von Leistungen](0028.md)
 - [§ 29 Vertretung der Bundesrepublik Deutschland](0029.md)
 
-## Kapitel 5 Bußgeld- und Übergangsvorschriften
+## Kapitel 5 Bußgeldvorschriften
 
 - [§ 30 Bußgeldvorschriften](0030.md)
-- [§ 31 Übergangsvorschriften](0031.md)
-- [Anlage 1 (zu § 9)](anlage-1.md)
+- [Anlage 1 (zu § 9)Mindestleistung](anlage-1.md)
 - [Anlage 2 (zu den §§ 10 und 11)](anlage-2.md)

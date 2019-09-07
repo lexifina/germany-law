@@ -54,6 +54,7 @@ Soldatenversorgungsgesetzes
 
 - [§ 30 Unterstützung zur Erlangung eines Arbeitsplatzes](0030.md)
 - [§ 31 Eingliederungshilfen](0031.md)
+- [§ 32 Einarbeitungszuschuss](0032.md)
 - [§ 32a Lohnkostenzuschuss](0032a.md)
 - [§ 33 Erstattung von Kosten für Vorstellungsreisen](0033.md)
 - [§ 34 Berufsorientierungspraktika nach § 7 Abs. 3 des Soldatenversorgungsgesetzes](0034.md)
