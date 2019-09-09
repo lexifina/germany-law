@@ -1,0 +1,65 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-09T15:00:00+02:00
+- Ende: 2019-09-09T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20341
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20341
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00736949.pdf
+- Ergebnisprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00736949.pdf
+- Wortprotokoll: Beschlussprotokoll öffentlich https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00736949.pdf
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 1.3.2: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Erfolgreiches Schulkonzept nicht gefährden – Holweide-Erlass erhalten - ungeändert beschlossen
+- TOP 2.2: Dringlichkeitsantrag der SPD-Fraktion; Wohnungsbau sichern in Köln-Porz-Elsdorf – Schulinfrastruktur zeitnah erweitern! - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Beantwortung von Fragen zum Monitoringbericht allgemeinbildende Schulen und Berufskollegs 2018 (session 3779/2018) - Kenntnis genommen
+- TOP 3.1.2: Personalsituation bei der technischen Objektbetreuung für Schulen - Sache ist erledigt
+- TOP -: Personalsituation bei der technischen Objektbetreuung für Schulen - Kenntnis genommen
+- TOP 3.1.3: Qualität und Arbeitsbedingungen im Offenen Ganztag an Kölner Schulen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP -: Qualität und Arbeitsbedingungen im Offenen Ganztag an Kölner Schulen - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: KGS Zehnthofstraße - Sache ist erledigt
+- TOP -: Sachstandsmitteilung KGS Zehnthofstraße - zu AN/1055/2019, Anfrage der FDP-Fraktion vom 23.07.2019 zur Sitzung des Ausschusses Schule und Weiterbildung am 09.09.2019 - Kenntnis genommen
+- TOP 3.2.2: Rückzug aller Kölner Gymnasien aus der zieldifferenzierten Inklusion - zurückgestellt
+- TOP 3.2.3: Veränderungen Schulanmeldezahlen 5. Klasse (2016/17) ./. 7. Klasse (2018/19) - zurückgestellt
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Mittelfreigabebeschluss zur Beschaffung der Einrichtung für den Neubau der Grundschule Anna-Langohr-Schule, Fühlinger Weg 7, 50765 Köln-Volkhoven/Weiler - ungeändert beschlossen
+- TOP 4.2: Aufnahme einer neuen Schule in den Verbund Kölner Europäischer Grundschulen - ungeändert beschlossen
+- TOP 4.3: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ungeändert beschlossen
+- TOP 4.4: Auslagerung der Klassen an der Grundschule Hauptstraße 432 in 51143 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 5: Mitteilungen
+- TOP 5.1: Jahresbericht 2018 über die Beschlüsse des Ausschusses Schule und Weiterbildung - Kenntnis genommen
+- TOP 5.2: Abschluss des Schulanmeldeverfahrens der weiterführenden Schulen für das Schuljahr 2019/2020 - Kenntnis genommen
+- TOP 5.3: 25. Bericht über die Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.4: Kommunaler Inklusionsplan für Kölner Schulen 3.0 (2019) - Kenntnis genommen
+- TOP 5.5: Neues VHS-Programm für das 2. Semester im Jubiläumsjahr 2019 - Kenntnis genommen
+- TOP 5.6: Volkshochschule Köln: Der talentCAMPus 2019 zum Thema Kinderrechte! - Kenntnis genommen
+- TOP 5.7: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 5.8: ColognePride 2019 – Die Volkshochschule war dabei - Kenntnis genommen
+- TOP 5.9: Präsentation zweier DVDs zu Projekten der Umweltbildung/Biodiversität - Kenntnis genommen
+- TOP 5.10: Bau einer Grundschule auf dem Gelände des ehemaligen Nippeser Hallenbades - zu AN/0671/2019 - Kenntnis genommen
+- TOP 5.11: Fortsetzung der Zusammenarbeit im Bildungsbereich mit China - Kenntnis genommen
+- TOP 5.12: Stärkung kulturelle Bildung - Kenntnis genommen
+- TOP 5.13: Nutzung des Bolzplatzes an der Hauptschule Tiefentalstraße - Kenntnis genommen
+- TOP 5.14: DigitalPakt Schule-Umsetzung in Köln - Kenntnis genommen
+- TOP 5.15: Konzeptionelle Überlegungen zur Ausbauplanung der Schulsozialarbeit an Kölner Schulen auf der Grundlage armutsinduzierter Bildungsbenachteiligung - Kenntnis genommen
+- TOP 5.16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.17: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 5.18: Sanierung des Lehrschwimmbeckens in der GGS Hohe Straße - zu AN/1056/2019, Anfrage der SPD-Fraktion vom 24.07.2019 zur Sitzung des Sportausschusses am 12.09.2019 und des Betriebsausschusses der Gebäudewirtschaft der Stadt Köln am 16.09.2019 - Kenntnis genommen
+- TOP 5.19: Rheinische Musikschule, Stand der Umsetzung des Ratsbeschlusses vom 14.02.2019 - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 7: Verschiedenes
