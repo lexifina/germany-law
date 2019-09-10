@@ -1,0 +1,99 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-10T17:00:00+02:00
+- Ende: 2019-09-10T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20482
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20482
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe in Anhörung für den Ausschuss Anregungen und Beschwerden gem. § 24 GO, betr.: Verkehrssituation Linder Mauspfad (Az.: 02-1600-76/19) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Behindertenparkplätze Karlstraße (Az.: 02-1600-123/19) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte hier: Ernennung Mitglieder für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 6.2: Herstellung einer Teilfläche in der Schubertstraße - zurückgestellt
+- TOP 6.3: Kanalanschluss Friedhof Köln-Porz, Alfred-Nobel-Straße in 51145 Köln-Porz - Baubeschluss - ungeändert beschlossen
+- TOP 6.4: Kanalanschluss Friedhof Köln-Wahn, Siebengebirgsallee in 51045 Köln-Wahn - Baubeschluss - ungeändert beschlossen
+- TOP 6.5: Kanalanschluss Friedhof Köln-Langel, Schrogenweg, 51143 Köln-Langel - Baubeschluss - ungeändert beschlossen
+- TOP 6.6: Neugestaltung des Schulhofs der Realschule Planckstr. 14, 51145 Köln (Porz) - ungeändert beschlossen
+- TOP 6.7: Genehmigung einer DE: Satzungsbeschluss betreffend den Bebauungsplan-Entwurf Nr. 75405/03, Arbeitstitel: Carlebachstraße in Köln-Porz-Eil - ungeändert beschlossen
+- TOP 6.8: Satzungsbeschluss betreffend die 1. Teilaufhebung des Bebauungsplan-Entwurfes Nr. 75409/02, Arbeitstitel: 1. Teilaufhebung Neue Eiler Straße in Köln-Porz-Eil - ungeändert beschlossen
+- TOP 6.9: Beratung der Haushaltsplan-Entwürfe 2020/ 2021 einschließlich der Finanzplanung bis 2024 und der sonstigen Anlagen - geändert beschlossen
+- TOP 6.9.1: Antrag der Rats-FDP-Fraktion zu den Haushaltsberatungen: 3. Frauenhaus - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 6.9.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9.3: Änderungsantrag der SPD-Fraktion zu TOP 6.9: Beratung der Haushaltsplan-Entwürfe 2020/2021 - endgültig abgelehnt
+- TOP 6.10: Haushaltsplan - Entwürfe 2020/ 2021, hier: Beschluss über die sachliche Verwendung der bezirksorientierten Mittel für die Jahre 2020/ 2021 gemäß § 37 Abs. 3 GO NW - ungeändert beschlossen
+- TOP 6.11: Zuwendungen aus dem städtischen Aktivierungsfonds für zwei Projekte im Sozialraum „Porz-Ost, Finkenberg, Gremberghoven und Eil“ im Rahmen des Leitkonzeptes „Starke Veedel - Starkes Köln“ - ungeändert beschlossen
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: 227. Änderung des Flächennutzungsplanes Arbeitstitel: „Deutzer Hafen“ in Köln-Deutz Anhörung der Bezirksvertretung BV 1, BV 7 zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur 227. Flächennutzungsplanände - mit Änderungen empfohlen
+- TOP 7.3: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz Anhörung der Bezirksvertretungen Innenstadt und Porz zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - mit Änderungen empfohlen
+- TOP 7.4: Gestaltungsplanung für ein Kooperationsgrabfeld auf dem Friedhof Porz - ungeändert empfohlen
+- TOP 7.5: Stadtbahn Bonn-Niederkassel-Köln - mit Änderungen empfohlen
+- TOP 7.5.1: Änderungsantrag der SPD-Fraktion zu TOP 7.5: Stadtbahn Bonn-Niederkassel-Köln - ungeändert beschlossen
+- TOP 7.6: Aufhebung des vorhabenbezogenen Bebauungsplanes (VEP) Nr. 70439/07 Arbeitstitel: Flamme Möbel in Köln-Poll - ungeändert empfohlen
+- TOP 7.7: Auslagerung der Klassen an der Grundschule Hauptstraße 432 in 51143 Köln - Baubeschluss - ungeändert empfohlen
+- TOP 7.8: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet: Verlängerung der Buslinie 423 - mit Änderungen empfohlen
+- TOP 7.8.1: Änderungsantrag der Fraktion die Grünen zu TOP 7.8: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet: Verlängerung der Buslinie 423 - ungeändert beschlossen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Antrag der CDU-Fraktion: Temporäre Besucher PKW-Stellplätze für den Spielplatz an den Straßen Aloys- - ungeändert beschlossen
+- TOP 8.3: Antrag der SPD-Fraktion: LKW-Verkehrszählung Siegburger Straße - ungeändert beschlossen
+- TOP 8.4: Antrag der CDU-Fraktion: Sachvortrag zur Bebauung an der Siegburger Str. 371/Ecke Marktplatz in Poll - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion: Parkraumkonzept S-Bahnhof Wahn zur Vermeidung des Dauerparkens - geändert beschlossen
+- TOP 8.6: Antrag der SPD-Fraktion: Sachstandsbericht Pflege- und Entwicklungsplan für den Geschützten Landschaftsbestandteil LB 7.24 „Senkelsgraben in Lind“ - ungeändert beschlossen
+- TOP 8.7: Antrag der SPD-Fraktion: Sichtschutz Lagerplatz Friedhof Wahn - geändert beschlossen
+- TOP 8.8: Antrag der SPD-Fraktion: Überquerungshilfe für Fußgänger auf der Alfred-Schütte-Allee - ungeändert beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion: Herstellung der Verkehrssicherheit auf der Friedrichstraße ab Kreisverkehr in Fahrtrichtung Norden - geändert beschlossen
+- TOP 8.9.1: Änderungsantrag der Fraktion die Grünen zu TOP 8.9: : Herstellung der Verkehrssicherheit auf der Friedrichstraße ab Kreisver-kehr in Fahrtrichtung Norden - Sache ist erledigt
+- TOP 8.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Bauspielplatz Senkelsgraben - Kenntnis genommen
+- TOP 9.1.1.1: Anfrage der SPD-Fraktion: Bauspielplatz Senkelsgraben - Sache ist erledigt
+- TOP 9.1.2: Barrierefreie Unterbringung in Obdachlosenheimen - Kenntnis genommen
+- TOP 9.1.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.3: Beantwortung einer Anfrage "Friedhof Leidenhausen" - Kenntnis genommen
+- TOP 9.1.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.4: Straßenreinigungssatzung der Stadt Köln - Kenntnis genommen
+- TOP 9.1.4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: Gelände des Zentrums für Therapeutisches Reiten (ZTR) an der - Sache ist erledigt
+- TOP 9.2.2: Anfrage der Fraktion die Grünen: Feuerwerk - zurückgestellt
+- TOP 9.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4: mündliche Anfrage der CDU-Fraktion: Wohnungen Parkstraße - zurückgestellt
+- TOP 9.2.5: Anfrage der CDU-Fraktion: Unterkünfte für Obdachlose - zurückgestellt
+- TOP 9.2.6: mündliche Anfrage der CDU-Fraktion: Heideschule - zurückgestellt
+- TOP 9.2.7: mündliche Anfrage der SPD-Fraktion: Nibelungenstraße - zurückgestellt
+- TOP 9.2.8: Mündliche Anfrage der SPD-Fraktion: Parkplatz Glashüttenstraße - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht bezüglich der Einrichtung von Schrägparkern in der Westfeldgasse in Zündorf - Kenntnis genommen
+- TOP 10.2.2: Bauvorhaben Hauptstraße/Poststraße in Porz - Kenntnis genommen
+- TOP 10.2.3: Niederschrift zum Runden Tisch Radverkehr vom 03.06.2019 - Kenntnis genommen
+- TOP 10.2.4: Integriertes Stadtentwicklungskonzept "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.5: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.6: Sachstand zu der Sackgasse Poststraße an der Straße "Am Bahnhof" in Wahn - Kenntnis genommen
+- TOP 10.2.7: Von der Verwaltung zurückgezogen
+- TOP 10.2.8: Sachstandsbericht zur Verbesserung des Verkehrsflusses und der Parksituation entlang der Hauptstraße in Porz-Zündorf - Kenntnis genommen
+- TOP 10.2.9: Verschoben zu Top 9.1.4
+- TOP 10.2.10: Mitteilung der Verwaltung zur Bürgereingabe nach § 24 GO - "Notfallkonzept zur Straßen- Verkehrsentlastung bei Störfällen im Stadtbezirk Porz - Kenntnis genommen
+- TOP 10.2.11: Offenlage § 3 Absatz 2 BauGB Arbeitstitel: Nördlich Wielermaar in Köln-Porz-Zündorf, 1. Änderung - Kenntnis genommen
+- TOP 10.2.12: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 10.2.13: Sanierung des Lehrschwimmbeckens in der GGS Hohe Straße - zu AN/1056/2019, Anfrage der SPD-Fraktion vom 24.07.2019 zur Sitzung des Sportausschusses am 12.09.2019 und des Betriebsausschusses der Gebäudewirtschaft der Stadt Köln am 16.09.2019 - Kenntnis genommen
+- TOP 10.2.14: Sachstandsbericht zum Maßnahmenkatalog für Porz-Finkenberg (AN/0765/2019) Beantwortung des gemeinsamen Antrages der Fraktionen CDU, Grüne sowie FDP in der Bezirksvertretung Porz auf Grundlage der Stellungnahmen der Fachämter - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
