@@ -1,0 +1,75 @@
+# 49. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-10T17:04:00+02:00
+- Ende: 2019-09-10T18:57:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20279
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20279
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00735273.pdf
+- Ergebnisprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00735273.pdf
+- Wortprotokoll: Tagesordnung (Umdruckexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00735273.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Antrag des Seniorenvertreters Meurers vom 31.08.2019 betr. E-Tretroller - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Verkehrstechnische Maßnahmen zur Verbesserung der Verkehrsabwicklung im Bereich des Gewerbegebietes Köln-Pesch - ungeändert beschlossen
+- TOP 3.2: Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer - geändert beschlossen
+- TOP 3.2.1: Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt 1678/2019 - geändert beschlossen
+- TOP 3.2.2: Änderungsantrag zu Top 3.2 "Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer" - geändert beschlossen
+- TOP 3.3: Stadtbahn Bonn-Niederkassel-Köln - im ersten Durchgang verwiesen
+- TOP 3.4: Radschnellweg Köln-Frechen, erweiterter Planungsbeschluss - im ersten Durchgang verwiesen
+- TOP 3.4.1: Änderungsantrag der FDP-Fraktion - im ersten Durchgang verwiesen
+- TOP 3.5: Bedarfsfeststellungsbeschluss für den Aufbau der gemeinsamen Verkehrs- und Tunnelleitzentrale sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6400-1201-0-0001, Ausstattung Tunnel und Verkehrsleitzentrale - ungeändert beschlossen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Parkgebührenordnung 2019 - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag zu Top 10.1 "Parkgebührenordnung 2019" - abgelehnt (in der Vorberatung)
+- TOP 4.1.2: hier: Parkgebührenordnung 2019 - geändert beschlossen
+- TOP 4.2: Richtlinie zur Förderung nach § 11 Absatz 2 ÖPNVG NRW - ungeändert beschlossen
+- TOP 4.3: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - zurückgestellt
+- TOP 4.4: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet: Verlängerung der Buslinie 423 - mit Änderungen empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Noch offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Anfrage des Seniorenvertreters Meurers betr. Fußgängerbeauftragten - Sache ist erledigt
+- TOP 5.1.2: Kölner Rheinbrücken – Wegeverbindungen für den Radverkehr verbessern! - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Lastenradförderung (un)gedeckelt!? - Sache ist erledigt
+- TOP 5.2.1.1: Lastenradförderung (un)gedeckelt!? - Kenntnis genommen
+- TOP 5.2.2: Freihaltetrassen und möglicher Vorlaufbetrieb - zurückgestellt
+- TOP 5.2.3: E Scooter in Köln - Sache ist erledigt
+- TOP 5.2.3.1: E-Scooter in Köln - Kenntnis genommen
+- TOP 5.2.4: Können Störungen im Betriebsablauf der Linie 7 zwischen Poll und Deutz vermieden werden? - zurückgestellt
+- TOP 5.2.5: Mülheimer Brücke - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Verlängerung des Schnellbus SB 60 - Sache ist erledigt
+- TOP 6.2: Lastenräder – Perspektiven - Sache ist erledigt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Generalinstandsetzung der Troisdorfer Straße, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr.2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Nord-Süd Stadtbahn 1. Baustufe - Kenntnis genommen
+- TOP 7.2.2: Nord-Süd Stadtbahn 2. Baustufe - Kenntnis genommen
+- TOP 7.2.3: Überarbeitung des Regionalplans für den Regierungsbezirk Köln - Kenntnis genommen
+- TOP 7.2.4: Neue Kölner Statistik 3/2019 - Kraftfahrzeuge - Kenntnis genommen
+- TOP 7.2.5: Jahresbericht 2018 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 7.2.6: "Preise der KVB senken" (Bürgereingabe Az. B 09/19) - Kenntnis genommen
+- TOP 7.2.7: Stadtradeln 2019 - Kenntnis genommen
+- TOP 7.2.8: Leitprojekt Köln aufräumen - Beschichtung von Stadtmobiliar - Kenntnis genommen
+- TOP 7.2.9: Unfallhäufungsstellen und tödliche Verkehrsunfälle des Jahres 2018 im Kölner Stadtgebiet - Kenntnis genommen
+- TOP 7.2.10: "Mobilität in Deutschland" (MiD) 2017 - Information über Detailergebnisse für Köln - Kenntnis genommen
+- TOP 7.2.11: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 7.2.12: Aktuelle Stunde der Bezirksvertretung Kalk zum Thema "ÖPNV - Offene Beschlüsse" - Kenntnis genommen
+- TOP 7.2.13: Aufbau eines On-Demand-Angebots als Ergänzung zum bestehenden ÖPNV-Angebot - Kenntnis genommen
+- TOP 7.2.14: Situation E-Scooter in Köln - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Antriebstechnik neues KD-Schiff - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Fahrradspur auf dem Gürtel, Beschluss der BV Ehrenfeld - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.3: Verkehrsmaßnahme auf dem Kiesgrubenweg in Rodenkirchen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.4: Stellplatzsatzung
