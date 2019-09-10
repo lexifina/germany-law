@@ -1,0 +1,7 @@
+# TOP 2: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Betriebsausschusses Kultur (2019-09-10)
+- Körperschaft: Stadt Aachen
+- Öffentlich: nein
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=94380
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
