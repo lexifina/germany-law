@@ -1,0 +1,177 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255701
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255701
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1.: Aktuelles Urteil zum "Uhrmacherhäusl Obere Grasstraße"
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Aufstellung eines "Bücher-Schrankes" in Obergiesing; Bürgerschreiben vom 30.07.2019; FF UA Kultur
+- TOP 2.1.2.2.: Weißensee-Park / AGFA-Aktivitätenband; Gefährdung von Kindern durch Falschparker; Bürgerschreiben vom 20.07.2019, FF UA Verkehr
+- TOP 2.1.2.3.: Angespannte Verkehrssituation in der Feucherbach-/Stettner- und Amerstorfferstraße; Bürgerschreiben vom 17.07.2019; FF UA Verkehr
+- TOP 2.1.2.4.: Gründe für die derzeitige Stilllegung des Kaskadenbrunnens im Ostfriedhof; Bürgerschreiben vom 24.07.2019; FF UA Bau und UA Kultur
+- TOP 2.1.2.5.: Erweiterung der Tempo-30-Zone auf die Spixstraße, Wirtstraße und südlichen Teil der Raintalstraße; Bürgerschreiben vom 15.08.2019; FF UA Verkehr
+- TOP 2.1.2.6.: Gefährliche Verkehrssituation in der Münchberger- / Ecke Obernzellerstraße durch Schwerlastverkehr; Bürgerschreiben vom 15.08.2019; FF UA Verkehr
+- TOP 2.1.2.7.: Nachbarbeteiligung in der Balanstraße 369 (Baumfällung); Bürgerschreiben (Brief) vom 14.08.2019; FF UA Umwelt
+- TOP 2.1.2.8.: Vermeidung der gefährlichen Unfallhäufung in der St. Bonifatius Straße; Bürgerschreiben (E-mail) vom 20.08.2019; FF UA Verkehr
+- TOP 2.1.2.9.: Wechselparksystem in der Traunsteinerstraße (FF UA Verkehr)
+- TOP 3.9.1.1.: Deisenhofener Str. 110 - 112b, 1 Robinie
+- TOP 3.9.1.2.: Perlacher Str. 126, 1 Robinie
+- TOP 3.9.1.3.: Perlacher Str. 100, 1 Waldkiefer
+- TOP 3.9.1.4.: Perlacher Str. 118, 1 Robinie
+- TOP 3.9.1.5.: Trauchbergstr. 6 und Perlacher Str. 120, 1 Trompetenbau
+- TOP 3.9.1.6.: Werinherstr. 50, 1 Traubenkirsche
+- TOP 3.9.1.7.: Bantingstr. 7, 1 Birke
+- TOP 4.1.: Einspurigkeit der Deisenhofener Straße zur Verbesserung der Verkehrssituation nutzen ! Antrag der Fraktion Bündnis`90/Die Grünen (FF UA Verkehr)
+- TOP 4.2.: Durchgangsverkehr in der Feldmüllersiedlung reduzieren: Straßen nur für Anlieger freigeben! (FF UA Verkehr)
+- TOP 4.3.: Radwege aus Obergiesing in die Innenstadt verbessern! (FF UA Verkehr)
+- TOP 4.4.: Verbot von E-Scootern im Stadtgebiet (FF UA Verkehr)
+- TOP 5.1.1.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Projekt "Sprachförderung" von Mitte September 2019 bis Ende Juli 2020 1.350,00 € / Az. 0262.0-17-0212 (FF UA FSA)
+- TOP 5.1.2.: (E) Stadtbezirksbudget Förderverein der Grundschule an der Balanstraße 153 Projekt "Kunst & Bauen" von Mitte September 2019 bis Ende Juli 2020 500,00 € / Az. 0262.0-17-0213 (FF UA FSA)
+- TOP 5.1.3.: (E) Stadtbezirksbudget Initiative "E-Lastenfahrrad" Anschaffung eines E-Lastenfahrrades 2.600,00 € / Az. 0262.0-17-0217 (FF UA Umwelt)
+- TOP 5.1.4.: (E) Stadtbezirksbudget kairosis gUG Partizipatives Theater vom 01.10.19 - 31.07.20 5.000,00 € / Az. 0262.0-17-0219 (FF UA Kultur)
+- TOP 5.1.5.: (E) Stadtbezirksbudget Verein für Sozialarbeit e.V. Eröffnung des Pöllat Pavillon am 11.10.2019 3.075,00 € / Az. 0262.0-17-0220 (FF UA FSA)
+- TOP 5.1.6.: Beschlussfassung über die Finanzierung der begleitenden Veranstaltung des BA zum „Jubiläum 200 Jahre kommunales Friedhofs- und Bestattungswesen“ am 11.-12.10.19 auf dem Ella-Lingens-Platz aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von 500,- € (FF UA Kultur)
+- TOP 5.1.7.: (E) Stadtbezirksbudget BI Amisiedlung Amisiedlung goes World Cleanup Day vom 21.09.2019 – 22.09.2019 300,00€, Az. 0262.0-17-0221 (FF UA Umwelt)
+- TOP 5.4: Sonstiges
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Anhörung über Grundstücksgeschäfte der Landeshauptstadt München
+- TOP 6.1.3.2.: Traunsteiner Str. 55-61, Geförderter Wohnungsbau für Staatsbedienstete des Freistaates Bayern, Neubau von 63 Wohnungen mit Tiefgarage, Abbruch eines Bestandsgebäude mit Garage
+- TOP 6.1.3.3.: Personenbeförderungsgesetz (PBefG); Errichtung einer Interimswerkstatt in der Straßenbahnhauptwerkstätte Ständlerstraße Bitte um Stellungnahme bis spätestens 04.10.2019 Zuleitung vom 22.08.2019
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: Liste der Bauvorhaben im 17. Stadtbezirk
+- TOP 6.1.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.7.: Schallschutz und Luftqualität am St.-Quirin-Platz verbessern
+- TOP 6.1.4.8.: Bebauung des teilweise unbefestigten Parkplatzes am St.-Quirin-Platz mit Sozialem Wohnungsbau und Park+Ride-Flächen
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: Fortführung des Projekts „Soziale Stadt Giesing“
+- TOP 6.2.4.2.: Kita-Erzieher*innen von Bürokratie entlasten !
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Tegernseer Landstraße, Haltverbot (Z. 283 StVO) nördlich Peter-Auzinger-Straße
+- TOP 6.3.3.2.: Antrag für Fahrradabstellfläche vor einem Betrieb; mit der Bitte um Stellungnahme bis spätestens 13.09.19
+- TOP 6.3.3.3.: Ladestationen für Elektrozweiräder ausweiten sowie digital auffindbar machen Förderung der Nutzung von E-Bikes; Antrag Nr. 14-20/B 04861 des BA 17 Obergiesing-Fasangarten vom 08.05.2019 Sitzungsvorlage Nr. 14-20/V 15785 - Beschlussentwurf - Anhörung durch das RGU (Behandlung durch UA Verkehr und UA Umwelt)
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 6.3.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.4.3.: Mögliche Absprache von LKW-Fahrer*innen bei allgemeinen Verkehrskontrollen
+- TOP 6.3.4.4.: Warngauer Straße und Untersbergstraße - Einrichtung von zwei Fußgängerüberwegen verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.5.: Weinbauernstraße - Geschwindigkeitsbeschränkung auf 30 km/h verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.3.4.6.: Lärmschutz an der Tegernseer Landstraße im Bereich der "ehemaligen Amisiedlung"
+- TOP 6.3.4.7.: Austausch von Lichtsignalanlagen hier: Deisenhofener Straße/Tegernseer Landstraße
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Ladestationen für Elektrozweiräder ausweiten sowie digital auffindbar machen Förderung der Nutzung von E-Bikes; Antrag Nr. 14-20/B 04861 des BA 17 Obergiesing-Fasangarten vom 08.05.2019 Sitzungsvorlage Nr. 14-20/V 15785 - Beschlussentwurf - Anhörung durch das RGU (Behandlung durch UA Verkehr und UA Umwelt)
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: Sportplatz Ecke Sintpert-/Setzbergstraße; Ruhestörung durch unbefugte Sportplatznutzung; Antwortschreiben an Schulleitung vom 29.07.2019
+- TOP 6.4.4.2.: Geplanter Großmengen-Wertstoffhof in der Fasangartenstraße
+- TOP 6.4.4.3.: Informationsschreiben der neu gegründeten Bürgerinitiative "Frischluftzufuhr für München"
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Giesinger Bahnhof - Anhörungsverfahren für "Radsicherheitscheck" am 19.11.2019; Email vom 31.07.2019 mit Bitte um Mitteilung bis spätestens 11.10.2019
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: Durchführung eines Christkindlmarktes auf dem Giesinger Bahnhofplatz ab dem Jahr 2019; Einbeziehung des BA 17 bei einem Ortstermin durch das Kommunalreferat
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; hier: Tegernseer Landstraße 11
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; hier: Perlacher Str. 20
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Schank- und Speisewirtschaft "Big Mamas House", Schlierseestr. 83 Antrag auf unveränderte Fortführung
+- TOP 6.6.4.2.: Café "Pinturicchio", Werner-Schlierf-Straße 25 Antrag auf unveränderte Fortführung
+- TOP 6.6.4.3.: Schank- und Speisewirtschaft SSW "Amca", Eintrachtstraße 6a Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: BA-Informationsschreiben: Neue stellvertretende Leitung in der BA-Geschäftsstelle Ost; Schreiben des Direktoriums vom 09.08.2019
+- TOP 7.3.2.: BA-Informationsschreiben 01/19: Anhörungsrecht der Bezirksausschüsse nach § 13 BA-Satzung; Einhaltung der Anhörungsfrist; Schreiben des Direktoriums vom 17.06.2019
+- TOP 7.3.3.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020-2026
+- TOP 7.3.4.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
