@@ -1,0 +1,166 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2019-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5080375
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5080375
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.3.2.: Wahl von drei neuen Beiräte für den Trägerverein Kulturbürgerhaus
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.1: Vorstand
+- TOP 2.2: Unterausschuss Planung
+- TOP 2.2.7.: Oberföhringer Str. 54: Sanierung, Umbau und Erweiterung eines Einfamilienhauses zu einem Mehrfamilienhaus mit Unterflurparkern; Anhörung des Referats für Stadtplanung und Bauordnung vom 06.08.2019
+- TOP 2.2.13.: Bauvorhaben, die zur Kenntnis genommen werden
+- TOP 2.3: Unterausschuss Verkehr
+- TOP 2.4: Unterausschuss Budget, Vereine und Satzung
+- TOP 2.5: Unterausschuss Bildung, Kultur, Sport und Soziales
+- TOP 2.6: Unterausschuss Stadtgestaltung, Öffentlicher Raum und Ökologie
+- TOP 3: Berichte der BA-Beauftragten, Bürgeranträge (ohne Vorberatung)
+- TOP 3.1: Berichte der BA-Beauftragten
+- TOP 3.2: Bürgeranträge
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.1: Direktorium
+- TOP 7.2: Baureferat
+- TOP 7.3: RGU
+- TOP 7.4: KommRef.
+- TOP 7.5: KVR
+- TOP 7.6: Kulturref.
+- TOP 7.7: PlanungsReferat
+- TOP 7.7.3.: Demografiebericht München Teil 2, Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 7.8: Referat für Bildung und Sport
+- TOP 7.9: Soz.Ref.
+- TOP 7.10: POR
+- TOP 7.11: Kämmerei
+- TOP 7.12: RAW
+- TOP 7.13: MVG
+- TOP 7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Sonstiges
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2: Mitteilungen der BA-Vorsitzenden
+- TOP 8.3: Mitteilungen der MdBA
+- TOP 8.4: Termine
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.3.1.: Protokoll der Sitzung vom 30.07.2019
+- TOP 2.2.1.: Bauvorhaben Freischützstraße / Johanneskirchner Straße - Vorstellung durch die Bauherren (ACHTUNG: WURDE VON DER TO GESTRICHEN)
+- TOP 2.2.2.: Vorhabenbezogener Bebauungsplan mit Grünordnung Richard-Strauss-Straße (östlich) (Grundstück Fl.Nr. 214/17) - Teiländerung des Bebauungsplans Nr. 1325 - Einleitungs- und Aufstellungsbeschluss; Anhörung des Referats für Stadtplanung und Bauordnung vom 27.08.2019
+- TOP 2.2.3.: Erhalt des BeerenCafés in Johanneskirchen; Interfraktioneller Antrag vom 26.08.2019 Beerencafe in Johanneskirchen erhalten; Antrag der CSU-Fraktion vom 06.09.2019 (Nachtrag)
+- TOP 2.2.4.: Fragen zur Planung Tunnel Daglfing-Englschalking-Johanneskirchen; Bürgeranliegen vom 08.08.2019
+- TOP 2.2.5.: Eggenfeldener Straße/Ecke Friedrich-Eckart-Straße: Aktueller Stand des leerstehenden Grundstücks; Bürgeranliegen vom 09.08.2019
+- TOP 2.2.6.: Vorstellung des geplanten Abrisses der Vereinsgaststätte "Pyrsos", Englschalkinger Str. 206; Rückmeldung des Referats für Bildung und Sport vom 12.08.2019
+- TOP 2.2.8.: Gustav-Freytag-Str. 2: Neubau eines Wohnhauses mit Tiefgarage - Vorbescheid; Rückmeldung des Referats für Stadtplanung und Bauordnung vom 15.07.2019
+- TOP 2.2.9.: Ebersberger Str. 3: Umbau eines Wohngebäudes (4 WE) zu einem Gebäude mit 2 Wohneinheiten; Rückmeldung des Referats für Stadtplanung und Bauordnung vom 23.07.2019
+- TOP 2.2.10.: Maria-Theresia-Str. 35: Neubau Turnhalle und Nebenräume im UG und Klassenräume im EG; Rückmeldung des Referats für Stadtplanung und Bauordnung vom 31.07.2019
+- TOP 2.2.11.: Griesfeldstr., Fl.Nr. 482/0: Neubau einer gewerblichen Beherbergungsstätte (Boardinghouse) mit unterirdischer Großgarage (Haus Ost); Rückmeldung des Referats für Stadtplanung und Bauordnung vom 08.08.2019
+- TOP 2.2.12.: Griesfeldstr., Fl.Nr. 482/17: Neubau einer gewerblichen Beherbergungsstätte (Boardinghouse) mit unterirdischer Großgarage (Haus Ost); Rückmeldung des Referats für Stadtplanung und Bauordnung vom 08.08.2019
+- TOP 2.2.14.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.2.15.: Verschiedenes, Termine
+- TOP 2.3.1.: Vollzug der Wassergesetze: Bauvorhaben: Kanalnetzsanierung Montgelasstraße, Beschränkte Erlaubnis gemäß Art. 15 BayWG, Anlagengenehmigung nach Art. 20 BayWG; Anhörung des Referats für Gesundheit und Umwelt vom 07.08.2019
+- TOP 2.3.2.: Friedrich-Eckart-Straße 61: Anordnung Tempo 30 wegen Kita; Anhörung des Kreisverwaltungsreferats vom 18.07.2019
+- TOP 2.3.3.: Mobilitätsmix fördern: Einrichtung von ausreichend Fahrradabstellmöglichkeiten an den Tramhaltestellen Prinz-Eugen-Park und Taimerhofstraße - Beschlussentwurf; Anhörung des Referats für Stadtplanung und Bauordnung vom 22.07.2019
+- TOP 2.3.4.: Infoveranstaltung "Straßengestaltung Prinz-Eugen-Park" am 19.09.2019, 19:00 Uhr im Saal der Schützenlisl II, Englschalkinger Str. 208
+- TOP 2.3.5.: Prinzregentenbad: Einführung des Pilotprojekts "Saisonales Fahrradparken"; Anhörung des Referats für Stadtplanung und Bauordnung vom 01.08.2019
+- TOP 2.3.6.: Rennbahnstraße (Streckenabschnitt zwischen Schichtlstraße und Daglfinger Straße): Änderungen der Radverkehrsführung; Anhörung des Kreisverwaltungsreferats vom 12.08.2019
+- TOP 2.3.7.: Gebelestraße (Einmündung Bülowstraße): Anordnung eines absoluten Halteverbots; Unterrichtung des Kreisverwaltungsreferats vom 29.07.2019
+- TOP 2.3.8.: Antrag auf Anbringung eines oder mehrerer Parkpfosten (bzw. Bäume) Ecke Trogerstraße/Prinzregentenstraße; Anhörung des Baureferats vom 21.08.2019 (Rückmeldung, ob Pöller aufgestellt werden sollen?)
+- TOP 2.3.9.: Neugestaltung Herkomerplatz (Antwortschreiben)
+- TOP 2.3.10.: Neugestaltung "Herkomerplatz" (vertagt am 09.07.2019, da jede Fraktion sich Gedanken machen soll, welche Anforderungen gestellt werden)
+- TOP 2.3.11.: Straßengestaltung im Prinz-Eugen-Park: Berücksichtigung der Bürgeranträge; Antrag der Fraktion Bündnis90/DIE GRÜNEN vom 15.07.2019
+- TOP 2.3.12.: Erneuerung der Straßenbelages in einem Teilabschnitt der Barbarossastraße; Antrag der SPD-Fraktion vom 10.08.2019
+- TOP 2.3.13.: Einsatz autonomer Shuttle-E-Busse im Prinz-Eugen-Park; Antrag der SPD-Fraktion vom 13.08.2019
+- TOP 2.3.14.: Sukzessiver Austausch der BA-Informationskästen im 13. Stadtbezirk; Antrag der SPD-Fraktion vom 20.08.2019
+- TOP 2.3.15.: Richard-Strauß-Straße (zwischen Prinzregententstraße und Böhmerwaldplatz): Reduzierung der Geschwindigkeit; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 27.08.2019
+- TOP 2.3.16.: Die Parkbänke am Wilhelm-Hausenstein-Gymnasium werden instandgesetzt; Antrag der SPD-Fraktion vom 14.08.2019
+- TOP 2.3.17.: Verbreiterung der Umlaufsperre am Salzsenderweg; Antrag der SPD-Fraktion vom 20.08.2019
+- TOP 2.3.18.: Gemeinsamen Rad- und Fußgängerüberweg am Bichlhofweg als solchen kennzeichnen; Antrag der SPD-Fraktion vom 18.08.2019
+- TOP 2.3.19.: Richard-Strauss-Straße, Einmündung Lisztstraße und Querung Zaubzerstraße: Radwege farbig markieren; Bürgeranliegen vom 02.08.2019
+- TOP 2.3.20.: Sternwartstraße 2 - 4: Rückbau der Elektroladesäulen samt Parkplätze; Bürgeranliegen vom 01.08.2019
+- TOP 2.3.21.: Meistersingerstraße: Verbesserte 30er-Zonen-Beschilderung, häufigere Geschwindigkeitskontrollen, als Anliegerstraße ausweisen; Bürgeranliegen vom 28.07.2019
+- TOP 2.3.22.: Galileiplatz: Antrag auf Querungshilfe; Bürgeranliegen vom 22.07.2019
+- TOP 2.3.23.: Antrag zur Anbringung rot zu markierender Fahrradstreifen; Bürgeranliegen vom 11.08.2019
+- TOP 2.3.24.: Beschwerde über abgestellte "Wochenanzeiger"; Bürgeranliegen vom 09.08.2019
+- TOP 2.3.25.: Glücksburger Straße (Abschnitt zwischen Flensburger Straße und Salzstraße): Einführung Tempo 30; Bürgeranliegen vom 17.08.2019
+- TOP 2.3.26.: Verteilung der Straßenlaternen in der Jörg-Hube-Straße zwischen den Stadthäusern zur Beleuchtung der Wege/ Einfahrt; Bürgeranliegen vom 19.08.2019
+- TOP 2.3.27.: Cosimastraße (Norden Johanneskirchener Straße bis Höhe Cosimabad), Westseite Höhe Trambahnhaltestelle Taimerhofstraße und Ostseite zwischen Meistersingerstraße und Jörg-Hube-Straße: Jeweils schlechter Zustand des Radwegs; Bürgeranliegen vom 20.08.2019
+- TOP 2.3.28.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.3.29.: Verschiedenes, Termine
+- TOP 2.4.1.: (E) Stadtbezirksbudget Verein für Stadtteilkultur im Münchner Nordosten e.V. NordOstMagazin 2020 vom 20.09. - 20.12.2019 2.782,51 € / Az. 0262.0-13-0214
+- TOP 2.4.2.: (E) Stadtbezirksbudget Seniorenvertretung Bogenhausen Wies´n Mittag für Seniorinnen und Senioren am 18.09.2019 1.300,00 € / Az. 0262.0-13-0213
+- TOP 2.4.3.: (E) Stadtbezirksbudget Cantare Udo-Kim e.V. Konzert am 26.10.2019 605,00 € / Az. 0262.0-13-0215
+- TOP 2.4.4.: (E) Stadtbezirksbudget GeQo - Genossenschaft für Quartiersorganisation Tag des offenen Quartiers am 22.09.2019 4.675,00 € / Az. 0262.0-13-0216
+- TOP 2.4.5.: (E) Stadtbezirksbudget SC Bogenhausen Schwarz / Blau e.V. Anschaffung von Trainingsequipment 6.427,52 € / Az. 0262.0-13-0217
+- TOP 2.4.6.: (E) Stadtbezirksbudget Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. Beschaffung eines Stromerzeugers 1.827,00 € / Az. 0262.0-13-0218
+- TOP 2.4.7.: Antrag der Evang.-Luth. Kirchengemeinde Immanuel-Nazareth vom 06.03.2019, Festival für elektronische Musik vom 23.05. - 25.05.2019: Erhöhung des Zuschussbetrages (auf 2.086,36 EUR); Anhörung des Direktoriums vom 19.08.2019
+- TOP 2.4.8.: Anhörung über Grundstücksgeschäfte der Landeshauptstadt München - Antrag des BA 21; Anhörung des Direktoriums vom 05.08.2019
+- TOP 2.4.9.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 – 2026 - Anzahl der BA-Mitgliederzahlen; Unterrichtung des Direktoriums vom 14.08.2019
+- TOP 2.4.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.11.: Verschiedenes, Termine
+- TOP 2.5.1.: Odinstr. 29: Baulicher Zustand des Höchl-Schlössls; Rückmeldung des Referates für Stadtplanung und Bauordnung vom 05.08.2019
+- TOP 2.5.2.: Baulicher Zustand des Höchl-Schlössls (derzeitiger laufender Antrag)
+- TOP 2.5.3.: Kinder- und Jugendspielplatz "Alte Ziegelei", Oberföhring; Schreiben des Baureferats vom 25.07.2019
+- TOP 2.5.4.: Mosaik Jugendpreis – Mit Vielfalt gegen Rassismus; Schreiben der Stelle für interkulturelle Arbeit vom 08.08.2019
+- TOP 2.5.5.: Stiftung eines Kinder- und Schulpreises des BA 13; Antrag der CSU-Fraktion vom 18.07.2019 Weiteres Vorgehen bzw. Ausgestaltung? (vertagt am 30.07.2019) Anmerkung BAG: Durchführung im Rahmen "Bestellung städtischer Leistung" oder als "BA-eigene Veranstaltung"?
+- TOP 2.5.6.: Aufnahme der Grund- und Mittelschule an der Stuntzstraße in die Schulbauoffensive; Antrag der SPD-Fraktion vom 11.07.2019 (vertagt am 30.07.2019)
+- TOP 2.5.7.: Erneuerung und Erweiterung des Sicherheitsgeländers vor der Stuntzschule; Antrag der SPD-Fraktion vom 19.08.2019
+- TOP 2.5.8.: Antrag direkter Zugang vom Eingang zur Liegewiese im Cosimabad; Antrag der SPD-Fraktion vom 13.08.2019
+- TOP 2.5.9.: Hanglage im Cosimabad für eine Kinderrutsche nutzen; Bürgeranliegen vom 13.08.2019
+- TOP 2.5.10.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.5.11.: Verschiedenes, Termine
+- TOP 2.6.1.: Baumfällungen (Anhörungen): Barlowstr. 30: lt. Plan Daglfinger Str. 101: lt. Plan Max-Nadler-Str. 60: lt Plan Max-Nadler-Str. 60: lt Plan Oberföhringer Str. 54: lt Plan Pienzenauerstr. 142: lt Plan Kolbergerstr. 15-17: lt. Plan Musenbergstr. 28: 1 Kiefer Oberföhringer Str. 214: verschiedene Bäume, Pflanzen usw. Hoyerweg 19: 2 Buchen Gralstr. 12: 1 Walnussbaum Morgenrothstr. 29: 1 Weide Erkweg 9: 1 Laubbaum Spretistr. 25: 1 Fichte Englschalkinger Str. 266: 1 Blaufichte, 1 Robine Gleiwitzer Str. 12: 1 Kiefer
+- TOP 2.6.2.: Baumfällungen (Unterrichtungen): Soldauer Str. 20 a (1 Eiche); Freischützstr. 98 (1 Kirsche); Oberföhringstr. 205 (1 Esche), Westpreußenstr. 38 (1 Fichte, 1 Scheinzypresse)
+- TOP 2.6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.4.: Nutzung des Cosimaplatzes - Beschluss vom 12.06.2018 - (wie in der Sitzung vom 30.07.2019 gewünscht)
+- TOP 2.6.5.: Prinz-Eugen-Park Öffentliche Grünflächen im Bebauungsplan mit Grünordnung Nr. 2016 und angrenzende Grünflächen; Anhörung des Baureferats vom 27.08.2019
+- TOP 2.6.6.: Neugestaltung des Huuezziplatzes; Rückmeldung des Baureferats vom 23.07.2019
+- TOP 2.6.7.: Pühnpark - Neubau einer öffentlichen Grünanlage an der Pühnstraße hier: Information zur Zugänglichkeit der Biotopfläche; Unterrichtung des Baureferats vom 30.07.2019
+- TOP 2.6.8.: Instandsetzung des wassergebundenen Weges in der Grünanlage "Auf der Lehmzunge"; Antrag der SPD-Fraktion vom 21.08.2019
+- TOP 2.6.9.: Pflanzung von ausschließlich verschiedenen einheimische Laub- und Nadelbäume entlang der Ruth-Drexel-Straße, Jörg-Hube-Straße und Eugen-Jochum-Straße im Prinz-Eugen-Park; Antrag der CSU-Fraktion vom 26.08.2019
+- TOP 2.6.10.: Mehrgenerationenpark für den Stadtbezirk Bogenhausen - Bestellung städtischer Leistungen; Antrag der SPD-Fraktion vom 20.08.2019
+- TOP 2.6.11.: Blühende Büsche für den Schlösselgarten; Antrag der SPD-Fraktion vom 20.08.2019
+- TOP 2.6.12.: Vogelschutz in Bogenhausen: BürgerInnen-Vorschläge und Biodiversitätsstrategie umsetzen; Interfraktioneller Antrag vom 11.07.2019 (vertagt am 30.07.2019)
+- TOP 2.6.13.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.6.14.: Verschiedenes, Termine
+- TOP 5.1.: Antrag auf Genehmigung einer Veranstaltung auf öffentlichem Verkehrsgrund: München Marathon am 13.10.2019; Anhörung des Kreisverwaltungsreferats vom 19.08.2019
+- TOP 5.2.: An der Marienburger Str./Daglfinger Str.: Stellplatz für einen Lkw zur Bettfedernreinigung vom 18.10. - 23.10.2019; Anhörung des Kommunalreferats vom 14.08.2019
+- TOP 6.1.: Langgras-/Wilblumenwiesen: Bürger besser informieren!
+- TOP 6.2.: Installation von Elektroladesäulen
+- TOP 6.3.: Einheitliche Montage bei der Aufstellung oder Renovierung von Buswartehäuschen
+- TOP 6.4.: Tram-Wendeschleife Berg am Laim: Biotopzerstörung/Mäharbeiten auf dem Gelände
+- TOP 6.5.: Entschärfung der Verkehrssituation für den Radverkehr am Herkomerplatz / Denninger Straße
+- TOP 6.6.: Radweg von Ost nach West über die Kreuzung Daglfinger - Kunihohstrasse mit roter Farbe hervorheben
+- TOP 6.7.: Denninger Straße: Mehr Sicherheit und Attraktivität für Radverkehr - Antwortschreiben des KVR bezüglich Punkt 1 - (Punkt 2 wird noch beim Baureferat bearbeitet)
+- TOP 6.8.: Grenzbegrünung des Wilhelm-Hausenstein-Gymnasiums am Ariadneweg
+- TOP 6.9.: Anpassung der Fußgängerampel an der Effnerstr. Kreuzung Odinstraße
+- TOP 6.10.: Mehr Infostände für die Tram-Nordtangente im 13. Stadtbezirk entlang der Tram-Strecke anbieten
+- TOP 6.11.: Pilotprojekt im 13. Stadtbezirk: Ergänzen der Mülleimer mit Aschenbechern auf einem Streckenabschnitt der Tram im BA13-Gebiet
+- TOP 6.12.: Behinderung der Sicht auf der Johanneskirchner Straße auf Höhe Nr. 81
+- TOP 6.13.: Schaffung von bezahlbarem Wohnraum für Studierende und Auszubildende durch Überbauung des Parkplatzes am Cosimawellenbad
+- TOP 6.14.: Reinigung des Denkmals "Zur Deutschen Einheit" sowie der dazugehörigen Gedenkschrift
+- TOP 6.15.: Unbefahrbarer Radweg auf der Cosimastraße
+- TOP 6.16.: Ende der Ruth-Drexel-Str.: Beschränkung der Feuerwehrzufahrt auf Mindestbreite von 3m
+- TOP 6.17.: Regenwasserabfluss im Fritz-Meyer-Weg Ecke Cosimastraße
+- TOP 6.18.: Blühende Friedenswiese am Friedensengel
+- TOP 7.2.1.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 7.4.1.: Mitteilung über ein Grundstücksgeschäft: - Brodersenstr. 34
+- TOP 7.7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7.2.: (U) EU-Förderantrag im Rahmen des Förderprogramms "Horizon 2020": HEalthy And Recreative citities for Tomorrow (HEART)
+- TOP 7.7.4.: (U) Für mehr Demokratie und Transparenz in Preisgerichten - Strukturen und Abläufe reformieren BA-Antrag Nr. 14-20 / B 05035 des Bezirksausschusses des Stadtbezirkes 14 - Berg am Laim vom 26.06.2018
+- TOP 7.8.1.: Haus für Kinder im Prinz-Eugen-Park WA 1 und WA 2 - Dienststellenverständigung; Unterrichtung des Referats für Bildung und Sport vom 25.07.2019
+- TOP 7.9.1.: Zweckentfremdung von Wohnraum durch Abbruch: - Beuthener Str. 33
+- TOP 7.9.2.: Zweckentfremdung von Wohnraum durch Abbruch: - Oderstr. 7
+- TOP 7.14.1.: (U) Kanalnetzsanierung in der Montgelasstraße; Neubau des Regenüberlaufes R159 und Neubau eines Dükers nördlich der Max-Joseph-Brücke im 12. Stadtbezirk Schwabing - Freimann und im 13. Stadtbezirk Bogenhausen Gesamtkosten (Kostenberechnung): 17 Mio. Euro brutto Projektgenehmigung
