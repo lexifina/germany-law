@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-09-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5145978
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5145978
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung und Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: Benennung einer/eines Beauftragen für Menschen mit Behinderung
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 06.08.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.1.1: Digitalisierung umsetzten - Kosten senken
+- TOP 3.2.: (E) Diakonie Jugendhilfe Oberbayern: Sanierung/Instandsetzung der Sanitäranlagen Beantragte Summe: 30.000,00 Euro
+- TOP 3.3.: (E) Förderverein Freie Waldorfschule München Südwest e.V.: Ausstattung der Turnhalle mit Turngeräten vom 01.08.2019 bis 15.09.2019 Beantragte Summe: 8.343,89 Euro
+- TOP 3.4.: (E) Förderverein Freie Waldorfschule München Südwest e.V.: Ausstattung der Turnhalle als Versammlungsstätte vom 01.08.2019 bis 15.09.2019 Beantragte Summe: 17.756,57 Euro
+- TOP 3.5.: (E) Initiative „Bücherschrank“: Bücherschrank für Solln ab Dezember 2019 Beantragte Summe: 8.250,00 Euro
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (Antrag) Kiesgewinnung auf städtischen Flächen in Neuried
+- TOP 4.4.: (Antrag) Verbesserungen beim Baumschutz
+- TOP 4.5.: (A) Antwortschreiben BA-Antrag Nr. 14-20 / B 08354 „Insekten schützen - Biodiversität verbessern“
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Ampelgesicherte Überquerungsmöglichkeit der Herterichstr. in Richtung Begasweg
+- TOP 5.1.2: Fahrradabstellplätze U-Bahnhof Aidenbachstraße
+- TOP 5.1.3: Unterbindung der Durchfahrtmöglichkeit in der Constanze-Hallgarten-Straße
+- TOP 5.1.4: Berücksichtigung des Schulweges bei der Planung einer Realschule in der südlichen Forstenrieder Allee
+- TOP 5.1.5: Radstreifen in den Kreuzungseinmündungen Sambergerstr. und Schuchstr. rot einfärben
+- TOP 5.2.: (Antrag) Fahrradwege Neurieder Kreisel
+- TOP 5.3.: (E) Projektplanung: Frans-Hals-Straße
+- TOP 5.4.: (A) Verkehrsrechtliche Anordnung: Haltverbot Wilhelm-Leibl-Straße
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Beschilderung Baierbrunner Straße
+- TOP 5.6.: (E) Barrierefreier Ausbau Bushaltestelle Meglinger Straße/Haltestelle Staffelseestraße
+- TOP 5.7.: (E) Parkscheinautomaten-Standorte im Parklizenzgebiet Thalkirchen
+- TOP 5.8.: (Antrag) Ausbau des Glasfasernetzes auf dem gesamten Gebiet des Stadtbezirks 19
+- TOP 5.9.: (A) Standorte für Elektro-Ladesäulen: Meglingerstraße 19
+- TOP 5.10.: (Antrag) Einbahnregelung Baierbrunner Straße
+- TOP 5.11.: (Antrag) Parkverbot für LKW, Wohnmobile und Anhänger in der Ludwigshöher Straße
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.1.1: Erhalt der Grünfläche zwischen Drygalski-Allee, Herterichstr. und Forstenrieder Allee
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Satzungsänderung: Grundstücksgeschäfte (Antrag BA 21 - Pasing-Obermenzing)
+- TOP 6.4.: (Antrag) Bebauung Fürstenried West - Bezahlbares Wohnen und Ökologie sichern
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Exaktere Zeitmessung im Bad Forstenried ermöglichen
+- TOP 7.3.: Sprengeländerung Grundschulen Boschetsrieder Straße/Konrad-Celtis-Straße
+- TOP 7.4.: (A) Standortsuche für Spielplatz im Umgriff der Züricher Straße
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (A) Veranstaltung: 25-Jahr-Feier am Ratzingerplatz am 14.09.2019
+- TOP 8.3.: (Antrag) Street-Art-Projekt Unterführung Heinrich-Vogl-Straße (S-Bahn-Station Solln)
