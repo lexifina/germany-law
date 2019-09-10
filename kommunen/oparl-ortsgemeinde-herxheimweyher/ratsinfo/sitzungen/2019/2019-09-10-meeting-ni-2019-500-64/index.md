@@ -1,0 +1,57 @@
+# 2. Sitzung des Ortsgemeinderates Herxheimweyher
+
+- Körperschaft: Ortsgemeinde Herxheimweyher
+- Beginn: 2019-09-10T19:00:00+02:00
+- Ende: 2019-09-10T23:00:00+02:00
+- Ort: Rathaus Herxheimweyher, Sitzungszimmer, Hauptstraße 36, 76863 Herxheimweyher
+- Status: durchgeführt
+- Gremium: https://herxheim.gremien.info/oparl/organization/500
+- Ratsinformationssystem: https://herxheim.gremien.info/oparl/meeting/ni_2019-500-64
+- OParl: https://herxheim.gremien.info/oparl/meeting/ni_2019-500-64
+- Quelle: https://herxheim.gremien.info/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-500-64
+- Ergebnisprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-500-64
+- Wortprotokoll: oeffentliches Protokoll https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-500-64
+
+## Tagesordnung
+
+- TOP 1: Verabschiedung des Ortsbürgermeisters und des Beigeordneten
+- TOP 2: Verabschiedung der ausgeschiedenen Ratsmitglieder
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Bebauungsplan 'In den Kieseläckern - 2. Änderung/Erweiterung'
+- TOP 6: Anordnung des Umlegungsverfahrens für das Neubaugebiet 'In den Kieseläckern - 2. Änderung/Erweiterung'
+- TOP 7: Wahl der Ausschussmitglieder für den Umlegungsausschuss
+- TOP 8: Zustimmung zur Übertragung von Geschäftsbereichen an die Beigeordneten
+- TOP 9: Beratung und Beschlussfassung der Geschäftsordnung für den Ortsgemeinderat Herxheimweyher für die Wahlperiode 2019/2024
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Fortschreibung des Dorfentwicklungskonzeptes
+- TOP 12: Ausstattung und Möblierung des Dorfgemeinschaftshauses
+- TOP 13: Bericht über den Stand des Haushaltsvollzugs zum 30.06.2019
+- TOP 14: Unterrichtung über eine Eilentscheidung gem. § 48 GemO Beseitigung einer Gefahrenquelle an einem Wirtschaftsweg
+- TOP 15: Änderung der Satzung zur Erhebung von Kostenerstattungsbeträgen nach §§ 135 a-135 c BauGB
+- TOP 16: Gewährung einer Zuwendung an den Sportverein SV Herxheimweyher
+- TOP 17.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18.1: Mitteilungen und Anfragen
+- TOP 18.2: Mitteilungen und Anfragen Monitor im Ratssaal
+- TOP 18.3: Mitteilungen und Anfragen Hundetoilette / Dog-Station
+- TOP 18.4: Mitteilungen und Anfragen Verkehrsspiegel Ecke Waldstraße/Hauptstraße
+- TOP 18.5: Mitteilungen und Anfragen Straßenlampe in der Waldstraße
+- TOP 18.6: Mitteilungen und Anfragen Gestattungsvertrag für die Windräder
+- TOP 18.7: Mitteilungen und Anfragen Vermessung von kommunalen Gebäuden im Knittelsheimer Weg
+- TOP 18.8: Mitteilungen und Anfragen Durchbruch Kindertagesstätte-Dorfgemeinschaftshaus
+- TOP 18.9: Mitteilungen und Anfragen Umlegung der Altglascontainer
+- TOP 18.10: Mitteilungen und Anfragen Zaunanlage der Kindertagesstätte
+- TOP 18.11: Mitteilungen und Anfragen Nutria-Plage
+- TOP 18.12: Mitteilungen und Anfragen Richtlinienermächtigung für Wertgrenzen der Verwaltung
+- TOP 18.13: Mitteilungen und Anfragen Web-Seite der Ortsgemeinde
+- TOP 18.14: Mitteilungen und Anfragen Neue Benutzungsordnung für das Dorfgemeinschaftshaus
+- TOP 18.15: Mitteilungen und Anfragen Hüpfburg
+- TOP 18.16: Mitteilungen und Anfragen Termin für das Spielfest 2020
+- TOP 18.17: Mitteilungen und Anfragen SWR-Film
+- TOP 18.18: Mitteilungen und Anfragen Termine 2019
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
