@@ -1,0 +1,6 @@
+# TOP 9.1.2: Sachstand zu Abstimmungsverhandlungen mit den Systembetreibern
+
+- Sitzung: Zentraler Betriebsausschuss (21. Sitzung) (2019-09-11)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/52544
