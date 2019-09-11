@@ -1,0 +1,6 @@
+# TOP 6: Anregungen der Bezirksvertretungen
+
+- Sitzung: 41. Sitzung (Einbringung Haushalt 2020) (2019-09-11)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/194239
