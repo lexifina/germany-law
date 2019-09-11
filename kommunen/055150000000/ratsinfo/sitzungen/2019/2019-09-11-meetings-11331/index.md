@@ -1,0 +1,55 @@
+# 41. Sitzung (Einbringung Haushalt 2020)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-09-11T17:46:00+02:00
+- Ende: 2019-09-11T19:58:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11331
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11331
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00448727.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Handlungsprogramm Klimaschutz 2030 für Münster - Forderungen von Fridays for Future Münster
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 7.1: Haushaltsantrag des Integrationsrates der Stadt Münster - verwiesen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 9.1: Verschließbare Mülleimer für eine saubere Stadt! - verwiesen
+- TOP 10: Entwurf der Haushaltssatzung der Stadt Münster für das Jahr 2020 - einstimmig beschlossen
+- TOP 11: Musik-Campus - Ouvertüre für ein deutschlandweit einmaliges Projekt - Grundsatzbeschluss - Vorlage eingebracht
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2019 - einstimmig beschlossen
+- TOP 13: Gewährung eines einmaligen zusätzlichen Zuschusses an den SC Preußen Münster - Überplanmäßige Mittelbereitstellung für die Produktgruppe 0801 Sportentwicklung, Sportanlagen und -stätten - mehrheitlich beschlossen
+- TOP 14: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 15: Änderung der Informationskategorie von steuerungsrelevanten städtischen Beteiligungen - einstimmig beschlossen
+- TOP 16: Zukunft der Wissenschaftsstadt: Perspektiven für den Schlossplatz und das Schlossareal - Vorlage eingebracht
+- TOP 17: Innenstadt weiterdenken: Perspektiven für das Martiniviertel und den Hörster Parkplatz - Vorlage eingebracht
+- TOP 18: Kindertagesbetreuungsbericht 2019 - mehrheitlich beschlossen
+- TOP 19: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2019 - 2022 - von der Tagesordnung abgesetzt
+- TOP 20: Beirat für Klimaschutz - Berufung neuer Mitglieder - einstimmig beschlossen
+- TOP 20.1: Beirat für Klimaschutz - Berufung neuer Mitglieder
+- TOP 21: Bauleitplanung
+- TOP 21.1: Stadtbezirk Münster-West
+- TOP 21.1.1: 84. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 593 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 23.1: Forderungen der Fridays For Future - einstimmig beschlossen
+- TOP 23.2: ÖPNV auf der Straße und Schiene im Münsterland attraktiver machen: Busfahren an den Adventssamstagen zum Nulltarif - verwiesen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 24.1: Dächer in Münster begrünen - verwiesen
+- TOP 24.2: Haushaltsverfahren: Mit Top-Down-Ansatz zu einem ausgeglichenen Haushalt. - verwiesen
+- TOP 24.3: Trägervielfalt an Offenen Ganztagsgrundschulen - verwiesen
+- TOP 24.4: Medienkompetenz in Münsterschen Schulen und Bildungseinrichtungen fördern - verwiesen
+- TOP 24.5: Wasser im urbanen Raum – Lebenselixier für Mensch und Natur - Verbesserung des Umwelt-, Gesellschafts- und sozialen Klimas durch Wasserstellen in Münster - verwiesen
+- TOP 24.6: Kongressinitiative Münster weiterentwickeln - verwiesen
+- TOP 25: Verschiedenes
