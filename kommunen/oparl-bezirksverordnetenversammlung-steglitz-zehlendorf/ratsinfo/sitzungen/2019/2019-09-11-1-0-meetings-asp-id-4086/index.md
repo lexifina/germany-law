@@ -1,0 +1,96 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-09-11T17:00:00+02:00
+- Ende: 2019-09-11T22:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4086
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4086
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - beantwortet
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Betreuungsschlüssel in Kindertagesstätten - beantwortet
+- TOP 3.2: Kältehilfe im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Neubau in der Bruno-Walter-Straße 4-7 - beantwortet
+- TOP 3.4: Ausbildungsplätze im Bezirk Steglitz-Zehlendorf für geflüchtete Menschen - beantwortet
+- TOP 3.5: Leitlinien des Senats für mehr Bürgerbeteiligung - beantwortet
+- TOP 3.6: Digitalpakt Schule - beantwortet
+- TOP 3.7: Sensible Schuldaten auf externen Servern? - beantwortet
+- TOP 3.8: Klage gegen den Senat: Heckeshorn als Gesundheitsstandort sichern - beantwortet
+- TOP 3.9: Wo bleibt die Evaluierung der Arbeit des Denkmalbeirates – Denkmalbeirat wiedereinsetzen? - schriftlich beantwortet
+- TOP 3.10: Freiwilligenagentur sinnvoll unterstützen - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufung eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Hildegard-Gräfin-von-Koenigsmarck-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vorhabenbezogener Bebauungsplan 6-26 VE (Fürstenstraße/Bülowstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Vorhabenbezogener Bebauungsplan 6-31VE (Dessauerstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Bebauungsplan 6-32 für die Grundstücke Mühlenstraße 52/56, 56 A-D und Paul-Schneider-Straße 44 im Bezirk Steglitz-Zehlendorf, Ortsteil Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Sondermittel der BVV für den Papalagi e.V. Integrations-Kinderladen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Veröffentlichung der Namen der stillen Helden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Schulwegsicherung für die Kastaniengrundschule in der Morgensternstraße Ecke Schillerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: Altlastensanierung Dahlemer Weg 247 - in der BVV abgelehnt
+- TOP 4.13: Grünpflege in Lichterfelde-Süd nicht so wichtig? - in der BVV abgelehnt
+- TOP 4.14: Namensergänzung U-Bahnstation Dahlem-Dorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Zuckerschock: „Die dicken Kinder von Spandau" – nicht in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.16: Kontrolle Crailsheimer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Verkehrskontrolle Königstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.18: Spielplatz am Löwentor/Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.19: Schutz von Senioren vor Betrugsdelikten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Überarbeitung Hotelrouten-Wegweiser - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.21: Grundschule am Buschgraben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - (offen)
+- TOP 5.1: Spielplatz Schönower Straße sichern - überwiesen
+- TOP 5.2: Verkehrssicherheit von Radfahrenden an der Einmündung Sundgauer Straße/Dahlemer Weg verbessern - überwiesen
+- TOP 5.3: Gemeinsamer Ausschuss mit Teltow, Kleinmachnow, Stahnsdorf und Großbeeren - überwiesen
+- TOP 5.4: Ehrenamtlichen Katastrophen- und Zivilschutz in Steglitz-Zehlendorf erhalten und verbessern - überwiesen
+- TOP 5.5: Müllbeseitigung an den Seen im Südwesten - überwiesen
+- TOP 5.6: Mehr Fachkräfte für die Pflege - Erweiterung der Wannsee-Schule e.V. - überwiesen
+- TOP 5.7: Altglas-Sammel-Tonnen erhalten - überwiesen
+- TOP 5.8: Denkmalgerechte Umrüstung der Straßenbeleuchtung im Bereich „Waldsiedlung Krumme Lanke" - überwiesen
+- TOP 5.9: Sondernutzungsgebühren für regelmäßig auf öffentlichem Straßenland bereitgestellte Mietfahrzeuge, Tretroller, Fahrräder oder E-Roller - überwiesen
+- TOP 5.10: Sicherung der Notfallwasserversorgung in Steglitz-Zehlendorf - überwiesen
+- TOP 5.11: Parkkonzept für Zehlendorf-Mitte - überwiesen
+- TOP 5.12: Cäsar von Hofacker angemessen würdigen - überwiesen
+- TOP 5.13: Bordsteinabsenkungen in der Königstraße (Zehlendorf-Mitte) - überwiesen
+- TOP 5.14: Geschichte des Yehudi-Menuhin-Platzes sichtbar machen - überwiesen
+- TOP 5.15: Zuwendungen nur bei Einhaltung politischer Neutralität - überwiesen
+- TOP 5.16: Weniger ist mehr: Wenn man vor lauter Plakaten die Wahlwerbung nicht mehr sieht - überwiesen
+- TOP 5.17: Alliiertenmuseum soll bleiben! - überwiesen
+- TOP 5.18: Fortschreibung der Nachhaltigkeitsziele und Herauslösen des Komplexes Klima - überwiesen
+- TOP 5.19: Illegal geparkte Anhänger im öffentlichen Straßenland ordnungsamtlich behandeln - überwiesen
+- TOP 5.20: Frauentreff - überwiesen
+- TOP 5.21: Rückbennenung des Corrensplatzes in Dahlem in Wassermannplatz - überwiesen
+- TOP 5.22: Brunnen auf dem Ludwig-Beck-Platz zur Wasserentnahme ausstatten - überwiesen
+- TOP 5.23: Nachhaltiges Entsorgungskonzept für die Erholungsgebiete im Bezirk - überwiesen
+- TOP 5.24: Mehr Sicherheit auf dem Ludwig-Beck-Platz - überwiesen
+- TOP 5.25: Schulsozialarbeit für alle Schularten einrichten - überwiesen
+- TOP 5.26: Altensteinstraße sicherer und ruhiger - überwiesen
+- TOP 5.27: Temporäre Unterrichtsräume bei Schulsanierungen als „Fliegende Klassenzimmer" in Holzbauweise errichten - überwiesen
+- TOP 5.28: Beschäftigten Dienstradleasing ermöglichen? - überwiesen
+- TOP 5.29: Zeit- und Maßnahmenplan für Schulsanierungen und Schulneubau - überwiesen
+- TOP 5.30: Stindestraße: Fuß- und Radweg freihalten - überwiesen
+- TOP 5.31: Transparenz bei Baumaßnahmen in denkmalgeschützten Gebäuden - überwiesen
+- TOP 5.32: Fahrradstraße Sedanstraße – Lauenburger Straße vor Schleichverkehr schützen - überwiesen
+- TOP 5.33: Überarbeitung Denkmalschutzliste - überwiesen
+- TOP 5.34: Straßen ökologisch aufwerten mit den Anwohnenden - überwiesen
+- TOP 5.35: Beantragung personenbezogener Behindertenparkplätze online ermöglichen - überwiesen
+- TOP 5.36: Kreuzung Machnower Straße/Teltower Damm sicher für Rad und Fuß - überwiesen
+- TOP 6: Haushaltsangelegenheiten - erledigt
+- TOP 6.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2020 und 2021 (Doppelhaushaltsplan 2020/21) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Anträge - im Ausschuss abgelehnt
+- TOP 7.1: Klimanotstand nicht nur in Steglitz-Zehlendorf - überwiesen
+- TOP 7.2: Klima-Maßnahmen sofort! - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Straßenumbenennung Stauffenberg - in der BVV abgelehnt
+- TOP 8.2: Lichterfelder Weidelandschaft für kommende Generationen erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Achtung auf die Einhaltung der gemachten Zusagen der Charité - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
