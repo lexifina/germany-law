@@ -1,0 +1,52 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf zur Beschlussfassung über den Haushalt 2020/2021
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2019-09-11T17:00:00+02:00
+- Ende: 2019-09-11T22:00:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4937
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=4937
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=328024
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Beschlussfassung über den Haushaltsplanentwurf 2020 / 2021 - (offen)
+- TOP 2.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2020 und 2021 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Änderungen am Zahlenteil des Entwurfs des Haushaltsplans Reinickendorf für die Haushaltsjahre 2020 und 2021 (Doppelhaushalt) - Nachschiebeliste - - ohne Änderungen in der BVV beschlossen
+- TOP 2.3: Änderungen am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2020 und 2021 (Doppelhaushalt) - 2. Nachschiebeliste - Beschlussempfehlungen des Hauptausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 2.4: Änderungen am Zahlenteil des Entwurfs des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2020 und 2021 (Doppelhaushalt) - 3. Nachschiebeliste - Beschlussempfehlungen des Hauptausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 34. öffentliche Sitzung der BVV zur Beschlussfassung über den Haushalt 2020/2021 am 11.09.2019 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Drucksachen - (offen)
+- TOP 4.1: Anmeldung für das Investitionsprogramm 2019 bis 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Anmeldung für das Investitionsprogramm 2019 bis 2023 - ohne Änderungen in der BVV beschlossen
+- TOP 4.3: Schwerpunktsetzung zum Bezirkshaushalt 2020/2021 - erledigt
+- TOP 4.4: Investitionen aus dem Digitalpakt für Reinickendorf - mit Änderungen in der BVV beschlossen
+- TOP 4.5: Behindertengerechter Umbau Fuchsbau - mit Änderungen in der BVV beschlossen
+- TOP 4.6: Tarifabschluss vollständig an Beschäftigte bei freien Trägern weitergeben! - erledigt
+- TOP 4.7: Qualität der Fußwege in Reinickendorf grundlegend verbessern - erledigt
+- TOP 4.8: Verkehrssicherheit durch Einsatz von Dialog-Displays erhöhen - erledigt
+- TOP 4.9: Beschaffung seniorengerechter Sitzgelegenheiten - erledigt
+- TOP 4.10: Plastikmüll in Reinickendorf reduzieren - mit Änderungen in der BVV beschlossen
+- TOP 4.11: Bezirkliche Datenkoordination - ohne Änderungen in der BVV beschlossen
+- TOP 4.12: Erste Hilfe für Fahrräder - erledigt
+- TOP 4.13: Ausweitung der digitalen Angebote in Bibliotheken - erledigt
+- TOP 4.14: Ankaufetat der Bibliotheken erhöhen - erledigt
+- TOP 4.15: Alpha-Bündnis stärken - erledigt
+- TOP 4.16: Unterstützung von Senioren, die Grundsicherung erhalten - erledigt
+- TOP 4.17: Fortführung der MINT-Messe - erledigt
+- TOP 4.18: Stärkung von Investitionen II, Schulen an zukunftsfähige Netze anschließen - mit Änderungen in der BVV beschlossen
+- TOP 4.19: Förderung von Gesundheit, Sport und Erholung I, Ausbau der Möglichkeiten der Turnhallenöffnungen im Winter für Familien - erledigt
+- TOP 4.20: Verstärkung der Mittel für den Allgemeinen Ordnungsdienst I, Bereitstellung von Containern als Umkleideräume für die Mitarbeiter - erledigt
+- TOP 4.21: Stärkung von Investitionen I, deutliche Verbesserung des Zustandes der Reinickendorfer Straßen. - erledigt
+- TOP 4.22: Förderung von Gesundheit, Sport und Erholung III, Mehr Sitzbänke für die Reinickendorfer Parks - erledigt
+- TOP 4.23: Verstärkung der Mittel für den Allgemeinen Ordnungsdienst II, Anschaffung weiterer E-Bikes - erledigt
+- TOP 4.24: Personalaufwuchs in der Verwaltung I, Planungskapazitäten im Bezirk erhöhen - erledigt
+- TOP 4.25: Förderung von Gesundheit, Sport und Erholung II, Reinickendorfer Park- und Grünflächen sauber halten. - erledigt
+- TOP 4.26: Verstärkung der Mittel zur Unterstützung finanziell schwacher Senioren - erledigt
+- TOP 4.27: Personalaufwuchs in der Verwaltung II, zusätzliche Stellen für den AOD - erledigt
+- TOP 4.28: Datenkoordinator für Reinickendorf - ohne Änderungen in der BVV beschlossen
