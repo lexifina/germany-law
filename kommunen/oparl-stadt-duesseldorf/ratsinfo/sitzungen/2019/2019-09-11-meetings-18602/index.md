@@ -1,0 +1,67 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-11T17:00:00+02:00
+- Ende: 2019-09-11T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18602
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18602
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket_Ö_20190911 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00353965.pdf
+- Ergebnisprotokoll: Sitzungspaket_Ö_20190911 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00353965.pdf
+- Wortprotokoll: Sitzungspaket_Ö_20190911 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00353965.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - abweichend beschlossen
+- TOP 2: Genehmigung der Niederschrift - öffentlicher Teil - über die Sitzung vom 22. Mai 2019 - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - öffentlicher Teil - über die Sitzung vom 13. Juni 2019 - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: Weiterentwicklung der Offenen Ganztagsschule im Primarbereich - Empfehlung einstimmig beschlossen
+- TOP 5: AuF - KSP Aplerbecker Straße - Neuanschaffung Spielgerätekombination - einstimmig beschlossen
+- TOP 6: Flächennutzungsplanänderung Nr. 180 Vogelsanger Weg, Öffentlichkeitsbeteiligung gem. §3(2) BauGB - Empfehlung einstimmig beschlossen
+- TOP 7: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - zur Kenntnis genommen
+- TOP -: Anfragen aus vorherigen Sitzungen (wurden bereits übersandt)
+- TOP 8: Anfrage der SPD-Fraktion: fehlende dauerhafte ÖPNV-Anbindung des Stadtteils Lichtenbroich an Rath (Buslinie 776) - vertagt
+- TOP 9: Anfrage der SPD-Fraktion: Busshuttle E 729 ISS DOME - schriftlich beantwortet
+- TOP 10: Anfrage der SPD-Fraktion: Altglas- und Papiercontainer - vertagt
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Anfrage der CDU-Fraktion und der FDP-Fraktion: Parken im Gewerbebereich - vertagt
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Anfrage der CDU-Fraktion und der FDP-Fraktion: Trasse für die Ortsumgehung Rath - vertagt
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 16: Anfrage der CDU-Fraktion: Ehemalige Tankstelle in Unterrath, Kalkumer Straße Ecke Zaberner Straße - vertagt
+- TOP 17: Anfrage der CDU-Fraktion: Ungesicherter Geldautomat auf der Unterrather Straße - zurückgezogen
+- TOP -: Anträge
+- TOP 18: Antrag des Jugendrates: Platz für Jugendliche In Unterrath schaffen - abweichend beschlossen
+- TOP 19: Antrag der CDU-Fraktion: Standort einer Mobilen Filiale der Stadtsparkasse in Mörsenbroich - abweichend beschlossen
+- TOP 20: Antrag der CDU-Fraktion und FDP-Fraktion: Grundstücke an der Theodorstraße für Möbelfachmärkte - abweichend beschlossen
+- TOP 21: Antrag der CDU-Fraktion: Neugestaltung der Öffentlichen Grünflächen am Standort A44 - abweichend beschlossen
+- TOP 22: Antrag der SPD-Fraktion: Instandsetzung der Fassade der Grundschule Rather Kreuzweg - einstimmig beschlossen
+- TOP 23: Antrag der SPD-Fraktion: Ampel auf der Westfalenstraße - abweichend beschlossen
+- TOP 24: Antrag der SPD-Fraktion: Wahllokale in Unterrath - abweichend beschlossen
+- TOP 25: Antrag der SPD-Fraktion: Barrierefreiheit und Erreichbarkeit des aktuellen Schienenersatzverkehrs auf der Linie 707 und 705 - abweichend beschlossen
+- TOP 26: Antrag der SPD-Fraktion: Verkehrsänderung - Schulwegsicherung in Unterrath - abweichend beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 27: Zuschussvergabe 2019: Antrag Fest- und Förderverein "Leetebrok" e.V. - Anschaffung neuer Biertischgarnituren für Straßenfeste (wird nachgereicht) - vertagt
+- TOP 28: Zuschussvergabe 2019: SWT e.V. - Sommer- und Kinderfest Theodorstraße (wird nachgereicht) - einstimmig beschlossen
+- TOP 29: Zuschussvergabe 2019: Antrag Caritas Erziehungsberatungsstelle Rath - Kinderrechtejahr - Graffiti-Workshop (wird nachgereicht) - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2019 Antrag Selbsthilfe- und Beratungsstelle für Borderliner und Angehörige e.V. - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2019 - Projekt "Gesunder Garten" - einstimmig beschlossen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 32: Geschwindigkeitsanzeigetafeln - Vorlage 176/ 94/2019 - zur Kenntnis genommen
+- TOP 33: Baumfällungen aus Verkehrssicherheitsgründen - zur Kenntnis genommen
+- TOP 34: Baumfällungen aus Verkehrssicherungsgründen (Nachmeldungen) - zur Kenntnis genommen
+- TOP 35: Verlegung des Wochenmarktes vom Dickhausweg zum Matthiaskirchweg - zur Kenntnis genommen
+- TOP 36: Bewohnerparken und entsprechende Beschilderung im SB 6 - zur Kenntnis genommen
+- TOP 37: In den Diken - Verkehrssituation vor der Postfiliale - zur Kenntnis genommen
+- TOP 38: Vorgehensweise bei Problemen mit der (Fremd-) Müllentsorgung an Containerstandorten und Wildwuchs - Vorlage 176/ 16/2019 - zur Kenntnis genommen
+- TOP 39: Blumenwiese am Vogelsanger Weg als Eingangstor zu Mörsenbroich - zur Kenntnis genommen
+- TOP 40: Öffnung der Busschleuse "Am Roten Haus" in Unterrath (Antrag der BV 5, Vorlage 175/ 69/2019) - Vorlage 176/ 96/2019 - zur Kenntnis genommen
+- TOP 41: Schaffung von Anwohnerparkregelungen im Bereich S-Bahnhof Rath - Vorlage 176/ 72/2019 - zur Kenntnis genommen
+- TOP 42: Standort Realschule im Stadtbezirk 6 - Vorlage 176/ 43/2019 - zur Kenntnis genommen
+- TOP 43: Parker auf dem Grundstück des Stadtentwässerungsbetriebs Kalkumer Straße Nähe Kartäuserpark - Vorlage 176/ 128/2019 - zur Kenntnis genommen
+- TOP 44: Feierabendmarkt im Stadtbezirk 6 - Vorlage 176/ 251/2015 - zur Kenntnis genommen
