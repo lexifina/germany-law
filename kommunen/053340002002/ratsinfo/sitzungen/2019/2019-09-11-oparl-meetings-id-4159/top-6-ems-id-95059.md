@@ -1,0 +1,9 @@
+# TOP 6: Anträge / Anfragen
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Eilendorf (2019-09-11)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=95059
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=28244&bi=26547
+- Beschluss (Datei): Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=361065&DOCTYP=138&OTYP=41&ANNOTS=1
