@@ -1,0 +1,58 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-09-11T18:12:00+02:00
+- Ende: 2019-09-11T22:39:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3670
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3670
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - (offen)
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 4: Vorlagen zur Wahl - erledigt
+- TOP 5: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6: Haushaltsberatungen 2020/2021 - (offen)
+- TOP 6.1: Bezirkshaushaltsplan für die Jahre 2020/2021 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Beschlussempfehlung aus dem Ausschuss zu Bürgervorschlag # 62 - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Bürgerhaushalt für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Schüler*innenhaushalt - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Schüler/innenhaushalt verstetigen I - in der BVV zurückgezogen
+- TOP 6.6: Schüler/innenhaushalt verstetigen II - ohne Änderungen in der BVV beschlossen
+- TOP 6.7: Förderung des Bezirksjugendrings - ohne Änderungen in der BVV beschlossen
+- TOP 6.8: Geschäftsführung des Bezirksjugendrings - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 7.1: Hot-Spots im Bezirk: Wie schlimm ist Neukölln vom Drogensumpf betroffen? - beantwortet
+- TOP 7.2: Sondernutzung von Straßenland für Filmdreharbeiten? - vertagt
+- TOP 7.3: Neugestaltung Promenade am Weigandufer überarbeiten - vertagt
+- TOP 7.4: Umbenennung von Nord-Neukölln in Rixdorf - vertagt
+- TOP 7.5: Rund um das Fahrrad - vertagt
+- TOP 7.6: Gilt in Neuköllner Schulkantinen die Scharia? - Teil VII - vertagt
+- TOP 7.7: Zugang zum Carl-Weder-Park sichern - vertagt
+- TOP 7.8: Mülleimer mit Aschenbechern ausstatten - vertagt
+- TOP 7.9: Parkbänke im Parkfriedhof - vertagt
+- TOP 7.10: Geschichtliche Aufarbeitung Wissmannstraße - vertagt
+- TOP 7.11: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - vertagt
+- TOP 7.12: Mut zu neuen Wegen - Weigandufer als Fahrradstraße - vertagt
+- TOP 7.13: Maßnahmen am Werner-Seelenbinder-Grab - vertagt
+- TOP 7.14: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - vertagt
+- TOP 7.15: Stopp dem Feuerwerkswahnsinn! - vertagt
+- TOP 7.16: Verkaufsverbot an Sonn- und Feiertagen aufheben - vertagt
+- TOP 7.17: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - vertagt
+- TOP 7.18: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes – Hat Neukölln daran Anteil? - vertagt
+- TOP 7.19: Bänke auf dem Reuterplatz wieder aufstellen - vertagt
+- TOP 8: Beschlussempfehlungen - (offen)
+- TOP 8.1: Verpackungsmüll - vertagt
+- TOP 8.2: Videoüberwachung an Drogenschwerpunkten, insbesondere um Schulen und Jugendfreizeiteinrichtungen - vertagt
+- TOP 8.3: Mehrweg statt Einweg – Umweltgerecht feiern in Neukölln - vertagt
+- TOP 8.4: Neue Stuben für die Obdachlosenhilfe - vertagt
+- TOP 8.5: Erarbeitung bezirklicher Leitlinien der Bürger*innenbeteiligung - vertagt
+- TOP 8.6: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - vertagt
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Einkommensschwache Menschen sind nicht „sozial schwach“! - vertagt
+- TOP 9.2: Bebauungsplan 8-2-1 („Grenzallee 37“) - vertagt
