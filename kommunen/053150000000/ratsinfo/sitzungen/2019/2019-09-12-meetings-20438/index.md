@@ -1,0 +1,102 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-12T16:00:00+02:00
+- Ende: 2019-09-12T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20438
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20438
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines neuen Mitglieds der Bezirksvertretung
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Vorstellung Pfarrer Dr. Meiering, Leitender Pfarrer St. Agnes, St. Aposteln, St. Gereon, Herz Jesu und St. Mauritius
+- TOP 1.2: Aktueller Sachstand zu E-Scootern in Köln
+- TOP 1.3: Antrag aktuelle Stunde zu Parken der Reisebusse am linken Rheinufer / Logistikkonzept Rheinufer
+- TOP 1.4: Ebertplatz – weitere Vorgehensweise der Verwaltung und der Polizei nach den aktuellen Ereignissen –
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Verkehrsuntersuchung Neustadt-Süd - zurückgestellt
+- TOP 3.1.1: Anfragen zur Verwaltungsvorlage: 4200/2018 // 3.17 Verkehrsuntersuchung Neustadt-Süd // BV1-Sitzung 27. Juni - zurückgestellt
+- TOP 3.2: Genehmigung Dringlichkeitsentscheidung: Einrichtung von Radfahrstreifen auf der Achse Christophstraße im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - ungeändert beschlossen
+- TOP 3.3: Einrichtung Radfahrstreifen auf der Achse Christophstraße im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - Sache ist erledigt
+- TOP 3.3.1: Änderungs- bzw. Zusatzantrag gem. § 13 der Geschäftsordnung des Rates zu 1413/2019
+- TOP 3.4: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "himmel & ääd gemeinnützige Gesellschaft mbH" - ungeändert empfohlen
+- TOP 3.5: Städtebauliches Planungskonzept Östlich Reitweg (Campus Deutz der TH Köln) in Köln-Deutz, Anhörung der Bezirksvertretung 1 (Innenstadt) zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 3.6: Städtebauliches Planungskonzept (vorhabenbez. B-Plan) Bauliche Erweiterung Blaue Funken/Sachsenturm (Blaue-Funken-Weg 2) in Köln-Neustadt/Süd Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 3.7: 227. Änderung des Flächennutzungsplanes Arbeitstitel: „Deutzer Hafen“ in Köln-Deutz Anhörung der Bezirksvertretung BV 1, BV 7 zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur 227. Flächennutzungsplanände - ungeändert empfohlen
+- TOP 3.8: Städtebauliches Planungskonzept Deutzer Hafen in Köln-Deutz Anhörung der Bezirksvertretungen Innenstadt und Porz zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung, Beschluss über die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes - ungeändert empfohlen
+- TOP 3.9: Beschluss über die Einleitung eines Bebauungsplanverfahrens und die Vorgaben zur Ausarbeitung des Bebauungsplan-Entwurfes 68454/04 (vorhabenbezogener Bebauungsplan) - ungeändert empfohlen
+- TOP 3.10: Gründung der GbR Historische Mitte - ungeändert empfohlen
+- TOP 3.11: Haushaltsplanentwurf Doppelhaushalt 2020/2021 - mit Änderungen empfohlen
+- TOP 3.11.1: 3. Frauenhaus - ungeändert empfohlen
+- TOP 3.12: „Fest der Südstadtvereine und Initiativen“ ausgeführt durch den Bürgerverein Südstadt „Lobby für die Südstadt e.V.“ auf dem Chlodwigplatz am 14.09.2019 - ungeändert beschlossen
+- TOP 3.13: Veranstaltung "STRASSENLAND" 2020 - zurückgestellt
+- TOP 3.13.1: Änderungsantrag zu TOP 3.13 „Strassenland“ - zurückgestellt
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Generalsanierung Gilbachstraße (Az.: 02-1600-145/19) - zurückgestellt
+- TOP 4.2: Bürgereingabe nach § 24 GO -"Stadtquartier St. Maria im Kapitol/Lichhof/Pipinstraße - Via Culturalis Cologne- Sofortiger Baustopp für Freitreppe vor St. Maria im Kapitol" (AZ. 02-1600-172/2019 ) - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Anwohner- Besucher- und Kundenparkplätze in der Innenstadt (Az: 02-1600-37/19) - ungeändert beschlossen
+- TOP 4.4: Eingabe nach § 24 GO - Grüngestaltung vor Marienplatz 4 - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Schaffung zusätzlicher Ladezonen entlang von Radwegen und Radspuren - geändert beschlossen
+- TOP 5.1.2: Erweiterung des Spielplatzes im August-Sander-Park - zurückgestellt
+- TOP 5.1.3: Milieuschutz für den Kartäuserwall - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Sperrung der Deutzer Drehbrücke für den MIV - weitere Verfahrensschritte - ungeändert beschlossen
+- TOP 5.2.1.1: Sperrung des MIV auf der Drehbrücke -SOFORT - - endgültig zurückgezogen
+- TOP 5.2.2: Ausbau der Offene Kinder- und Jugendarbeit im Bürgerhaus Stollwerk (Altstadt/Süd) - ungeändert beschlossen
+- TOP 5.2.3: Reinigung Chlodwigplatz - ungeändert beschlossen
+- TOP 5.2.4: Baumpflanzungen August Sander Park - ungeändert beschlossen
+- TOP 5.2.5: Reinigung des Gedenksteins im Klingelpützpark (Altstadt/Nord) - ungeändert beschlossen
+- TOP 5.2.6: Instandsetzung der Pflasterung, Wiederherstellung der Begrünung, Aufstellung von Fahrradnadeln und Ersatz falscher Poller in der Hermann-Becker-Straße - ungeändert beschlossen
+- TOP 5.2.7: Erwerb des landeseigenen Grundstücks der Oberfinanzdirektion am Riehler Platz (Neustadt/Nord) – Schaffung von bezahlbarem Wohnraum - ungeändert beschlossen
+- TOP 5.2.8: Einhausung eines ehemaligen Zugangs zu einer Toilettenanlage am Neumarkt (Altstadt/Süd) - ungeändert beschlossen
+- TOP 5.2.9: Dringlichkeitsantrag aus Anlass der Aktuellen Stunde „Parken der Reisebusse am linken Rheinufer / Logistikkonzept Rheinufer“ - zurückgestellt
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.2: Verkehrszählung Apostelnstraße (Altstadt/Nord) - zurückgestellt
+- TOP 6.1.3: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.4: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.5: Parkraumfreie Zone - zurückgestellt
+- TOP 6.1.6: Sanierung von vier Innenstadtschulen (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.7: Sachstand Soziale Erhaltungssatzungen, Anfrage SPD - zurückgestellt
+- TOP 6.1.8: Wohnhaus Ritterstraße 7 (Altstadt/Nord), Anfrage SPD
+- TOP 6.1.8.1: Anfrage gem. § 4 der Geschäftsordnung des Rates der SPD-Fraktion in der Bezirksvertretung Innenstadt
+- TOP 6.1.9: Klimaverbesserung durch Fassaden- und Dachbegrünungen in unseren Veedeln - zurückgestellt
+- TOP 6.1.10: Illegale Wohnraumzweckentfremdung ermitteln
+- TOP 6.1.10.1: Illegale Wohnraumzweckentfremdung ermitteln
+- TOP 6.1.11: Baulücke Kartäuserwall 14
+- TOP 6.1.11.1: Beantwortung einer Anfrage der Fraktion DIE LINKE betreffend der Baulücke Kartäu-serwall 14 (AN/0640/2019)
+- TOP 6.1.12: Verhältnis Ausgegebene Anwohnerparkausweise zu Vorhanden Anwohnerstellplätzen
+- TOP 6.1.12.1: Verhältnis ausgegebene Anwohnerparkausweise zu vorhandenen Anwohnerstellplätzen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Baustelleneinrichtung auf dem Dechant-Löbbel-Platz (Altstadt/Nord)
+- TOP 6.2.1.1: Baustelleneinrichtung auf dem Dechant-Löbbel-Platz (Altstadt/Nord)
+- TOP 6.2.2: verschoben zu 3.1.1
+- TOP 6.2.3: Deutz: Durchfahrtverbotszone für Lastkraftwagen - zurückgestellt
+- TOP 6.2.4: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.2.5: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung - Kenntnis genommen
+- TOP 9.1: Umgang mit Schrottfahrrädern im öffentlichen Raum - Kenntnis genommen
+- TOP 9.2: Immobilien- und Standortgemeinschaft Severinstraße Stand der Maßnahmenumsetzung zur Halbzeit des Projekts (Juni 2019) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 9.3: Beschluss der Bezirksvertretung Innenstadt: Konsultationskreis Außengastronomie - Kenntnis genommen
+- TOP 9.4: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 9.5: Generalinstandsetzung der Troisdorfer Straße, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr.2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 9.6: Ludolf-Camphausen-Straße, Köln-Neustadt/Nord Hier: Ergebnis der Mehrfachbeauftragung - Kenntnis genommen
+- TOP 9.7: Antrag der FDP Fraktion für die Sitzung der Bezirksvertretung Innenstadt - Kenntnis genommen
+- TOP 9.8: Mündliche Anfrage aus der Sitzung des Stadtentwicklungsausschusses vom 04.07.2019 betreffend Liegenschaften der Telekom - Kenntnis genommen
+- TOP 9.9: Kiosk Rheinboulevard - Kenntnis genommen
+- TOP 9.10: Leitprojekt Köln aufräumen - Beschichtung von Stadtmobiliar - Kenntnis genommen
+- TOP 9.11: Ergebnis Mehrfachbeauftragung (Wettbewerb) "Campus Kartause“ (Kartäuserwall 24b) in Köln-Altstadt-Süd - Kenntnis genommen
+- TOP 9.12: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 9.13: gestrichen - Kenntnis genommen
+- TOP 9.14: Beantwortung der Anfrage AN/1058/2019 der Ratsgruppe GUT aus der Sitzung des Hauptausschusses vom 05.08.2019 betr.: "Kartäuserwall 18 erhalten" - Kenntnis genommen
