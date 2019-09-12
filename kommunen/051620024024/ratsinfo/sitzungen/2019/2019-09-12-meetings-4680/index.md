@@ -1,0 +1,51 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-09-12T18:18:00+02:00
+- Ende: 2019-09-12T20:29:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4680
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4680
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Bestellung einer Schriftführerin und einer stellvertretenden Schriftführerin für den Hauptausschuss - einstimmig zugestimmt
+- TOP -: Beschlussempfehlung an den Rat
+- TOP 4: Fortschreibung des Klimaschutzkonzeptes, Förderung Klimaschutzmanager/in - einstimmig zugestimmt
+- TOP 5: Beitritt zum Klima-Bündnis mit indigenen Regenwald-Völkern - einstimmig zugestimmt
+- TOP 6: Konzeption Neuss-Pass - mehrheitlich zugestimmt
+- TOP 7: Antrag des Vereins ZIN - Zukunftsinitiative Innenstadt Neuss e. V. auf Erlass einer Ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte im Innenstadtbereich an vier Sonntagen in den Jahren 2020 - 2022 - mehrheitlich beschlossen
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligungen der Bezirksausschüsse
+- TOP 8: Einrichtung von drei Vollzeitstellen für die Aufgabe "Stadtteilkümmerer" - vertagt
+- TOP 9: Sanierungskonzept der Gerätehäuser an den Standorten Norf und Holzheim der Freiwilligen Feuerwehr - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 10: Antrag der Fraktion Die LINKE betr. Klimanotstand vermeiden - verwiesen
+- TOP 11: Antrag der SPD-Fraktion betr. Bildung eines Gleichstellungsbeirates - vertagt
+- TOP 12: Antrag der SPD-Fraktion betr. Maßnahmenkonzept für den Jesuitenhof - verwiesen
+- TOP 13: Antrag der SPD-Fraktion betr. Rettungswagen für den Neusser Süden - verwiesen
+- TOP 14: Antrag der Fraktionen CDU- und Bündnis 90/Die Grünen betr. Freies WLAN in öffentlichen Gebäuden - einstimmig zugestimmt
+- TOP 15: Antrag der Fraktion Die Linke betr. Ausübung der RWE-Aktionärsrechte - verwiesen
+- TOP 16: Antrag der Fraktion Die Linke betr. 100 Prozent Grüner Strom von den Stadtwerken Neuss - verwiesen
+- TOP 17: Antrag der Fraktion Die Linke betr. Hauseigentümer aktiv für Solaranlagen motivieren - verwiesen
+- TOP 18: Antrag der Fraktion Die Linke betr. Klimaneutralität als Kriterium in Vergabeverfahren - verwiesen
+- TOP 19: Antrag der Fraktion Die Linke betr. Förderung des schienengebundenen Güterverkehrs - verwiesen
+- TOP 20: Antrag der Fraktion Die Linke betr. Klimaneutrales Bauen - verwiesen
+- TOP 21: Antrag der Fraktion Die Linke betr. Masterplan "Verkehrswende" - verwiesen
+- TOP 22: Antrag der Fraktion Die Linke betr. Klimaneutralität städtischer Gebäude - verwiesen
+- TOP 23: Antrag der Fraktion Die Linke betr. Neuss wird bis 2035 Klimaneutral - verwiesen
+- TOP 24: Antrag der Fraktion Die Linke betr. Regionaler Klimaschutzplan - verwiesen
+- TOP 25: Antrag der Fraktion Die Linke betr. Energiesparberatung einkommensschwacher Haushalte mit Abwrackprämie für Kühlschränke - verwiesen
+- TOP 26: Antrag der Fraktion Die Linke betr. Förderung der Begrünung von Vorgärten - verwiesen
+- TOP 27: Antrag der Fraktion Die Linke betr. "Tag der offenen Baustelle" initiieren - verwiesen
+- TOP 28: Antrag der Fraktion Die Linke betr. Beim "Klimacafe" über kommunale Klimaschutzmaßnahmen diskutieren - verwiesen
+- TOP 29: Antrag der Fraktion Die LINKE betr. Sachstand Geothermie - verwiesen
+- TOP 30: Antrag der FDP-Fraktion betr. Aufbau eines lokalen Netzwerkes als "Smart-City-Technologie-plattform" für ein intelligent vernetztes (smartes) Neuss - einstimmig zugestimmt
+- TOP 31: Antrag der Fraktion Die LINKE betr. Entwicklung des ehem. ETEX-Geländes - verwiesen
+- TOP -: Anfragen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
