@@ -1,0 +1,52 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-09-12T18:12:00+02:00
+- Ende: 2019-09-12T19:32:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2170
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2170
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bürgeranträge
+- TOP 2.1: Bürgerantrag nach § 24 GO: Einrichtung einer Flugverbotszone für Privatdrohnen - einstimmig
+- TOP 2.2: Bürgerantrag gem. § 24 GO Anschaffung einer Drohne für die Feuerwehr - einstimmig
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Tagebauanrainer - einstimmig
+- TOP 5: Berichterstattung
+- TOP 5.1: Finanzen
+- TOP 5.1.1: Finanzzwischenbericht 2019 - Kenntnisnahme
+- TOP 5.2: Feuerschutz
+- TOP 5.3: Soziales
+- TOP 5.3.1: Die Linke/Piraten, Antrag Nr. 281/14 - Kenntnisnahme
+- TOP 6: Beantwortung von Anträgen/Anfragen
+- TOP 6.1: Sachstand "Organisatorische Voraussetzungen digitale Ratsarbeit" (Antrag Nr. 118/19) - Kenntnisnahme
+- TOP 7: Schriftliche Anträge
+- TOP 7.1: CDU
+- TOP 7.2: SPD
+- TOP 7.3: UWG
+- TOP 7.4: FDP
+- TOP 7.5: B 90/Grüne
+- TOP 7.6: Mein Grevenbroich
+- TOP 7.7: DIE LINKE
+- TOP 8: Schriftliche Anfragen
+- TOP 8.1: CDU
+- TOP 8.2: SPD
+- TOP 8.3: UWG
+- TOP 8.3.1: Kosten Revision (Anfrage 152/2019) - Kenntnisnahme
+- TOP 8.3.2: Fragen zur dritten Gesamtschule - Kenntnisnahme
+- TOP 8.4: FDP
+- TOP 8.5: B 90/Grüne
+- TOP 8.6: Mein Grevenbroich
+- TOP 8.7: DIE LINKE
+- TOP 9: Mündliche Anträge/Anfragen
+- TOP 9.1: Bürgeranträge
+- TOP 10: Mitteilungen BM
+- TOP 10.1.1: ÖPNV (Antrag Nr. 156/2019) - Kenntnisnahme
+- TOP 10.2: Schienenausbau - Kenntnisnahme
+- TOP 10.3: Substitutionsangebote niedergelassener Ärzte im Stadtgebiet - Kenntnisnahme
