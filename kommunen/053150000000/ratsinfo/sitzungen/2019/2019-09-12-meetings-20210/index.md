@@ -1,0 +1,72 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-12T16:30:00+02:00
+- Ende: 2019-09-12T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20210
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20210
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00736326.pdf
+- Ergebnisprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00736326.pdf
+- Wortprotokoll: Nachtragstagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00736326.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - zurückgestellt
+- TOP 1.1.1: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - zurückgestellt
+- TOP 1.1.2: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - zurückgestellt
+- TOP 1.2: Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - Sache ist erledigt
+- TOP 1.2.1: Anfrage der Ratsgruppe BUNT gemäß § 4 der Geschäftsordnung des Rates im Ausschuss für Umwelt und Grün zu einem Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - Kenntnis genommen
+- TOP 1.2.2: Händlerverzeichnis der Wochenmärkte und Plastiktütenbann - Kenntnis genommen
+- TOP 1.3: Gebühren für ordnungswidriges Wegwerfen – plant auch Köln eine Erhöhung? - zurückgestellt
+- TOP 1.4: Rather See - Umwelt schützen! - zurückgestellt
+- TOP 1.5: Umweltmaut für Köln - Sache ist erledigt
+- TOP 1.5.1: Umweltmaut für Köln - Kenntnis genommen
+- TOP 1.6: Anfrage der FDP-Fraktion Plastic Roads - Sache ist erledigt
+- TOP 1.6.1: Plastic Roads - Kenntnis genommen
+- TOP 1.7: Bushaltestellen für Bienen begrünen - Sache ist erledigt
+- TOP 1.7.1: Bushaltestellen für Bienen begrünen - Kenntnis genommen
+- TOP 1.8: Digitalisierung und Umweltbildung: QR-Code statt Infotafel? - zurückgestellt
+- TOP 1.9: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“? - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Klimaschutz durch Kooperation - endgültig abgelehnt
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: Jahresbericht 2018 der Koordinationsstelle Klimaschutz - Kenntnis genommen
+- TOP 3.2: Stadtradeln 2019 - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Lieferung von Kinderspielgeräten, Ersatzteilen und Zubehör - ungeändert empfohlen
+- TOP 4.1.2: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - zurückgestellt
+- TOP 4.1.3: Anpassung der Zuständigkeitsordnung - ungeändert empfohlen
+- TOP 4.1.4: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Rodenkirchen - Kenntnis genommen
+- TOP 4.1.5: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - Kenntnis genommen
+- TOP 4.1.6: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Bezirk Chorweiler - Kenntnis genommen
+- TOP 4.1.7: Dauerkleingartenanlage (DKA) Klettenberg - ungeändert empfohlen
+- TOP 4.1.8: Baubeschluss zur Instandsetzung und Erweiterung der Waldschule Köln im Umweltbildungszentrum Gut Leidenhausen - Sache ist erledigt
+- TOP 4.1.8.1: Gemeinsamer Änderungsantrag von SPD-Fraktion, CDU-Fraktion und Fraktion Bündnis 90 / Die Grünen Baubeschluss zur Instandsetzung und Erweiterung der Waldschule Köln im Umweltbildungszentrum Gut Leidenhausen 43/2018/1 - ungeändert empfohlen
+- TOP 4.1.9: Neuwahl eines ordentlichen und ggf. eines stellvertretenden Mitgliedes für den Naturschutzbeirat bei der Unteren Naturschutzbehörde - ungeändert empfohlen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Gestaltungsplanung für ein Kooperationsgrabfeld auf dem Friedhof Porz - ungeändert beschlossen
+- TOP 4.2.2: Zustimmung zum Abschluss eines Rahmenvertrags für den zentralen Pflanzeneinkauf der Stadt Köln - ungeändert beschlossen
+- TOP 4.2.3: Bauvorhaben Mennweg o. Nr. : Errichtung von zwei landwirtschaftlichen Hallen für die Verarbeitung und Lagerung von landwirtschaftlichen Produkten und einer offenen Remise zum Unterstellen von landwirtschaftlichen Fahrzeugen und Geräten - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 5.1: Städtebauliches Planungskonzept (vorhabenbez. B-Plan) Bauliche Erweiterung Blaue Funken/Sachsenturm (Blaue-Funken-Weg 2) in Köln-Neustadt/Süd Anhörung der Bezirksvertretung Innenstadt zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - ungeändert empfohlen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Überarbeitung des Regionalplans für den Regierungsbezirk Köln - Kenntnis genommen
+- TOP 7.2: Neue Kölner Statistik 3/2019 - Kraftfahrzeuge - Kenntnis genommen
+- TOP 7.3: Neues IT-System für die Grenzkontrollstelle Flughafen Köln-Bonn - Kenntnis genommen
+- TOP 7.4: Kiosk Rheinboulevard - zurückgestellt
+- TOP 7.5: Beantwortung der mündlichen Anfrage des RM Kockerbeck im Bauausschuss vom 01.07.2019 - Kenntnis genommen
+- TOP 7.6: Planungssicherheit für die Sportvereine – Sicherung des Kunstrasenprogramms - Kenntnis genommen
+- TOP 7.7: Kulturraum Kölner Friedhöfe 2025 - Kenntnis genommen
+- TOP 7.8: Bußgelderhöhung für das Wegwerfen von Zigarettenkippen - Kenntnis genommen
+- TOP 7.9: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
