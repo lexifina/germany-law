@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-13T16:00:00+02:00
+- Ende: 2019-09-13T17:34:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18599
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18599
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Digitales Sitzungspaket Ö 13.09.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00354317.pdf
+- Ergebnisprotokoll: Digitales Sitzungspaket Ö 13.09.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00354317.pdf
+- Wortprotokoll: Digitales Sitzungspaket Ö 13.09.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00354317.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Sanierung Kinderspielplatz "Vor dem Deich" im Südpark - Empfehlung einstimmig beschlossen
+- TOP 10: Flächennutzungsplanänderung Nr. 199 - Nördlich Werstener Straße - Empfehlung einstimmig beschlossen
+- TOP 11: Bebauungsplan-Vorentwurf 09/015 "Nördlich Werstener Straße" - Empfehlung einstimmig beschlossen
+- TOP 12: Bezirkssportanlage Am Wald Umbau der ehemaligen Wettkampfanlage - Ausführungs- und Finanzierungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 13: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - Empfehlung einstimmig beschlossen
+- TOP 14: Stadtbaumkonzept für Düsseldorf - 1. Pflanzsaison (Ergänzung) - einstimmig beschlossen
+- TOP 15: Weiterentwicklung der Offenen Ganztagsschule im Primarbereich - Empfehlung einstimmig beschlossen
+- TOP 16: Verfügungsmittel GGS-Schillstraße -Theaterprojekte - interfraktionell - - einstimmig beschlossen
+- TOP 17: Verfügungsmittel - Chorverband Düsseldorf e.V.- Konzerte und Auftritte der Chöre im Stadtbezirk 9 im Jahr 2019 - einstimmig beschlossen
+- TOP 18: Verfügungsmittel Sozialverband Deutschland e.V. - OV Urdenbach-Reisholz-Hassels-Garath - einstimmig beschlossen
+- TOP 19: Verfügungsmittel - Druckkosten für Flyer "Gesucht: Stilles Örtchen" - einstimmig beschlossen
+- TOP 20: Verfügungsmittel - Anschaffung eines Dienstfahrrades für die Bezirksverwaltungsstelle 9 - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 21: Neuplanung des Geländes der alten Eissporthalle Paulsmühlenstraße - Dr. Schork, FDP - zur Kenntnis genommen
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27: Geschwindigkeitsbeschränkung auf der Kölner Landstraße - SPD-Fraktion - einstimmig beschlossen
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Sanierung des Benrather Rathauses - SPD-Fraktion - einstimmig beschlossen
+- TOP 30: Kreuzung Paulsmühlen-/Einsiedelstr./Am Wald- Fraktion BÜ90/Die Grünen - einstimmig beschlossen
+- TOP 31: Unterführung Paulsmühlenstraße - Fraktion BÜ90/Die Grünen - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 32: Bushaltestelle vor dem Grundstück Auf'm Rott 60 - zur Kenntnis genommen
+- TOP 33: Neubau der Feuerwache Düsseldorf-Wersten - zur Kenntnis genommen
+- TOP 34: Verbesserung der Aufenthaltsqualität in der Kölner Landstraße - zur Kenntnis genommen
+- TOP 35: Baumstandorte Heubesstraße - zur Kenntnis genommen
+- TOP 36: Schimmelpfennigstraße/Johannes-Hesse-Straße, 179-116-2017 - zur Kenntnis genommen
