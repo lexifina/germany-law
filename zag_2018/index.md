@@ -93,11 +93,17 @@
 
 ### Unterabschnitt 1 Kartengebundene Zahlungsinstrumente
 
-- [(XXXX) §§ 45 bis 47 (zukünftig in Kraft)](xxxx-45-bis-47.md)
+- [§ 45 Pflichten des kontoführenden Zahlungsdienstleisters](0045.md)
+- [§ 46 Rechte und Pflichten des kartenausgebenden Zahlungsdienstleisters](0046.md)
+- [§ 47 Ausnahme für E-Geld-Instrumente](0047.md)
 
 ### Unterabschnitt 2 Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten
 
-- [(XXXX) §§ 48 bis 52 (zukünftig in Kraft)](xxxx-48-bis-52.md)
+- [§ 48 Pflichten des kontoführenden Zahlungsdienstleisters bei Zahlungsauslösediensten](0048.md)
+- [§ 49 Pflichten des Zahlungsauslösedienstleisters](0049.md)
+- [§ 50 Pflichten des kontoführenden Zahlungsdienstleisters bei Kontoinformationsdiensten](0050.md)
+- [§ 51 Pflichten des Kontoinformationsdienstleisters](0051.md)
+- [§ 52 Zugang zu Zahlungskonten](0052.md)
 
 ### Unterabschnitt 3 Risiken und Meldung von Vorfällen
 
@@ -106,7 +112,7 @@
 
 ### Unterabschnitt 4 Starke Kundenauthentifizierung
 
-- [§ 55 (zukünftig in Kraft)](0055.md)
+- [§ 55 Starke Kundenauthentifizierung](0055.md)
 
 ### Unterabschnitt 5 Zugang zu Konten und Zahlungssystemen
 
