@@ -1,0 +1,62 @@
+# Beteiligungsausschuss (43. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-09-16T17:00:00+02:00
+- Ende: 2019-09-16T18:08:00+02:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZe5yd9AJl5Ly68XtsyaXLgo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5252
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZx_k2W9_Epf0vqyY9-ALW_0c9fr6hBO2cvLoTqFqIiz/Bekanntmachung_Beteiligungsausschuss_16.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRxkx_sT8CdPXISgjURzsiupZgbwhPrTkt6R_udT7p-v/Oeffentliche_Niederschrift_Beteiligungsausschuss_16.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Beteiligungsausschuss am 24.06.2019
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Stadtwerke Solingen GmbH
+- TOP 6.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 7.: Stadtentwicklungsgesellschaft Solingen – Benennung der Mitglieder des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 8.: Stadtentwicklungsgesellschaft Solingen – Benennung der Fraktionsmitglieder in den Gesellschafterversammlungen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG und der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 9.: Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 10.: Jahresabschluss 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Jahresabschluss 2018 Städtisches Klinikum Solingen gemeinnützige GmbH hier: Konkretisierung und Erläuterung der unter dem Punkt 'Fazit' genannten Prozesse
+- TOP 1.2: Abfallwirtschaftliche Kooperation mit der Stadt Dortmund und Gründung einer gemeinsamen Entsorgungsgesellschaft
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Beteiligungsausschuss am 24.06.2019
+- TOP 4.: Protokoll über die 42. Sitzung des Beteiligungsausschuss am 09.07.2019
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 7.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation hier: Informationsvorlage
+- TOP 8.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 9.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 10.: Wirtschaftsplan 2019 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 11.: Städtisches Klinikum Solingen gemeinnützige GmbH - Vertretung der Stadt Solingen im Aufsichtsrat
+- TOP 12.: Altenzentren der Stadt Solingen gemeinnützige GmbH - Bestellung Wirtschaftsprüfer zum Jahresabschluss 2019
+- TOP 13.: Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - Umstellung der Finanzierungsbeiträge (auf jährliche Zahlung)
+- TOP 14.: Wirtschaftsplan 2019 / 2020 EDL Solingen GmbH (EDL)
+- TOP 15.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) - Abberufung eines Prokuristen
+- TOP 16.: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Verkauf der Geschäftsanteile im Rahmen eines Management-Buy-out
+- TOP 17.: Stadtwerke Solingen GmbH (SW SG) - Wirtschaftsplan 2019/2020
+- TOP 17.1: Stadtwerke Solingen GmbH (SW SG) - Wirtschaftsplan 2019/2020
+- TOP 18.: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 18.1: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 19.: Wirtschaftsplan 2019/20 der SWS Netze Solingen GmbH
+- TOP 20.: Wirtschaftsplan 2019/20 der itec solingen gmbh
+- TOP 21.: Jahresabschluss 2018 der EfS GmbH & Co. KG & Jahresabschluss 2018 der EfS Verwaltungs-GmbH
+- TOP 22.: Abfallwirtschaftliche Kooperation zwischen der Stadt Solingen und der Stadt Dortmund ab dem 01.01.2020; Gründung einer gemeinsamen Entsorgungsgesellschaft
+- TOP 23.: RW Holding AG i.L. und RW Beteiligungs GmbH i.L. - Schlussbilanz, Entlastung, Jahresabschluss 2018 , Abschlussprüfer 2019
+- TOP 24.: Beteiligungsgesellschaft Stadt Solingen mbH - Bestellung des Abschlussprüfers 2019
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.2: Anfragen an die Verwaltung
