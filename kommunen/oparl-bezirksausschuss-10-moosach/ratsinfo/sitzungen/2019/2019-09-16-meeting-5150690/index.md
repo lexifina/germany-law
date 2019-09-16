@@ -1,0 +1,106 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-09-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150690
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150690
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Stadtteilbudget (BSL): Erweiterung des Spielplatzes an der Kreuzung Triebstraße/ Bingener Straße
+- TOP 2.2.: Errichtung von diversen Zebrastreifen über die Gärtnerstraße und die Feldmochinger Straße
+- TOP 2.3.: N Rangierbahnhof: Fahrradunfälle auf Wegen
+- TOP 3.2.1.: Ortstermin am 04.09.2019: Verkehrssituation Schragenhofer Straße: 1. Verkehrssicherheit an der Kreuzung Bauberger-/ Schragenhofstr. /Am Kapuzinerhölzl (-> Antrag CSU, TOP 4.2.2, Sitzung am 15.07.2019) 2. Tempo 30 in Höhe Schragenhofer Str. 11 (-> Bürgeranliegen vom 20.08.2019)
+- TOP 3.2.2.: Ortstermin am 19.08.2019: Bushaltestelle Westfriedhof - Versetzen Fahrradständer und Aufbau neue Sitzbänke
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Dachauer Str. 164 2. Donaustaufer Straße 3. Georg-Mooseder-Straße 4. Feldmochinger Str. 12
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Donaustaufer Straße (-> zu Bauvorhaben TOP 3.3.1.2) 2. Feldmochinger Str. 12 (-> zu Bauvorhaben TOP 3.3.1.4) 3. Eggmühler Str. 49
+- TOP 4.: Anträge
+- TOP 4.1.1.: Vorstellung der Pläne zur Entwicklung des sog. "Ascherl-Geländes"
+- TOP 4.1.2.: Instandsetzung des Jugendtreffs Mooskito
+- TOP 4.1.3.: Erweiterung des Umgriffs des Stadtsanierungsgebietes im Rahmen des Projektes "Soziale Stadt" bis zur Landshuter Allee entlang der Olympia-Pressestadt und Prüfung möglicher Lärmschutzmaßnahmen in dieses Bereich
+- TOP 4.1.4.: Situierung der Tiefgaragenzufahrt im Neubauprojekt "Pelkoven66" (Anfrage)
+- TOP 4.2.1.: Stadtsanierung in München - Untersuchungsgebiet Moosach; Entlastung der Verkehrsflächen durch Schaffung von unterirdischem Parkraum
+- TOP 4.3.1.: Randsteinabsenkung Ecke Schiestlstraße/ Rigaer Straße
+- TOP 4.5.1.: Gewährung eines Zuschusses aus BA-Budget für eigene Veranstaltungen "Wir alle sind Moosach" im November 2019
+- TOP 5.1.: (E) Stadtbezirksbudget Initiative "Never forget - never again" Buchpublikation im September 2019 500,00 € / Az. 0262.0-10-0192
+- TOP 5.2.: (E) Stadtbezirksbudget Trägerverein für regionale soziale Arbeit e.V. Senior*innenwoche Moosach vom 10. - 18.10.2019 1.250,00 Euro, Az.: 0262.0-10-0193
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Sperrzeitaufhebung für Fastfood-Restaurant Hanauer Str. 83
+- TOP 5.4.: N (E) Stadtbezirksbudget Moosacher Faschingsclub - München e.V. 12.375,00 € / Az. 0262.0-10-0194
+- TOP 5.5.: (E) Stadtbezirksbudget Gesamtverein Moosach e.V. Kulturelle Zwischennutzung "Die Gubes" vom 25.09.19 - 30.06.2020 24.700,00 € / Az. 0262.0-10-0197
+- TOP 6.1.: Anhörung über Grundstücksgeschäfte der Landeshauptstadt München
+- TOP 6.2.: Zuwendung aus dem Stadtbezirksbudget: Kultur Le Muc - Theaterstück "Diesmal schenken wir uns nichts" hier: Verlängerung des Bewilligungszeitraums bis 20.12.2020
+- TOP 6.3.: Beschlussentwurf: Aufstellung von Aschenbechern an U-Bahnabgängen; Finanzierung
+- TOP 6.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Aufhebung des Taxistandplatzes Dachauer Str. 421 (Hotel Mayerhof)
+- TOP 6.5.: Baumfällungen (Baumschutz): 1. Braunschweiger Str. 12 2. Eggmühler Str. 47 3. Lauinger Str. 16 4. Naumburger Str. 23 5. Pelkovenstr. 56 6. Pelkovenstr. 58 7. Pelkovenstr. 78 8. Pirschstr. 2
+- TOP 6.6.: Kommunalwahlen 2020; Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung
+- TOP 7.1.: Anbringung von Zick-Zack-Linien vor den Feuerwehrzufahrten in der Ehrenbreitsteiner Straße [BA-Antrag Nr. 02-08/ B01834; Feuerwehrzufahrten sind deutlich beschildert, zusätzliche Zickzacklinien nicht erforderlich]
+- TOP 7.2.: Öffnung des Spielplatzes im östlichen Bereich des Schulzentrums Moosach, Gerastr. 6 [BA-Antrag Nr. 14-20/ B05762; Öffnung nach Abschluss der Bauarbeiten 2020]
+- TOP 7.3.: Höhenkontrolle Eisenbahnunterführung Dachauer Straße, 80992 München-Moosach [BA-Antrag Nr. 14-20/ B 05974; Reparatur Portalschilder noch 2019]
+- TOP 7.4.: Sicherheit für Radfahrer in der Pelkovenstraße (zwischen Feldmochinger- und Dachauer Straße) durch Tempo30-Zone erhöhen [BA-Antrag Nr. 14-20/ B 05975; Verbesserungen zur Sicherheit sind verkehrlich nicht begründbar und Haltverbote wären unverhältnismäßig]
+- TOP 7.5.: Verbesserung des Carsharing-Angebotes in Moosach [BA-Antrag Nr. 14-20/ B 05977; Ausweitung im Ermessen des Mobilitätsanbieters; kontinuierliche Ausweitung· Standortvorschläge durch BA möglich]
+- TOP 7.6.: Herstellung der Manzostraße im 10. Stadtbezirk Moosach (Im Bereich Waldhornstraße und Brieger Straße) [BA-Antrag Nr. 14-20/ B06055; Abgrenzung zur Brieger Straße wird baulich wieder hergestellt; erstmalige Herstellung der Manzostraße frühestens 2022 möglich]
+- TOP 7.7.: Erneuerung der Mülleimer im "Hartmannshofer Park, 80997 München [BA-Antrag Nr. 14-20/ B06057; Umsetzung durch Schloss- und Gartenverwaltung Nymphenburg zugesichert]
+- TOP 7.8.: Gestaltung der Dachauer Straße (zwischen Pelkovenstraße und Hugo-Troendle-Straße) als baumbestandene Allee [BA-Antrag Nr. 14-20/ B06176; Finanzierung und Realisierung wird im Rahmen der vorbereitenden Untersuchungen zum Eckdatenbeschluss Stadtsanierung in München, hier: Untersuchungsgebiet "Moosach" geprüft]
+- TOP 7.9.: Instandsetzung Parkbügel Dachauer Straße - Nördlicher Teil (Moosach) [BA-Antrag Nr. 14-20/ B06177; Austausch bzw. Ergänzung bis Ende September 2019]
+- TOP 7.10.: Kunst im öffentlichen Raum in Moosach - Skulpturen reinigen bzw. instandsetzen [BA-Antrag Nr. 14-20/ B06344; die angeführte Skulptur 1 wurde gereinigtdie Reparatur der Skulptur 2 wurde vom Besitzer zugesichert]
+- TOP 7.11.: Aufwertung des Kleinkinder-Spielplatzes in der Grünfläche an der Nanga-Parbat-Straße, 80992 München [BA-Antrag Nr. 14-20/ B06345; Spielplatz wird um kleinen Turm und Rutsche ergänzt]
+- TOP 7.12.: Situierung von Abfallkörben in der Bunzlauer Straße, am Bunzlauer Platz und am Moosacher Stachus [Schreiben BA 10 vom 20.03.2019; Baureferat hat nach Ortsbesichtigung Vorschlägen des BA10 sofern möglich zugestimmt.]
+- TOP 7.13.: Reinigung der Fußgänger-Unterführung am S-Bahnhof Moosach zwischen Bunzlauer Straße und Memminger Platz [Antrag aus Kinderforum am 29.04.2019; Reinigungsunterhalt liegt beim Baureferat; Erhöhung Reinigung 4-6 mal wöchentlich; Reinigung Unterführungswände würde legale Farbgestaltung beschädigen, deshalb Rückmeldung BA erbeten]
+- TOP 7.14.: Olympia-Einkaufszentrum - Anbringung von Hinweisschildern auf barrierefreien Zugang Hanauer Straße [Schreiben BA 10 vom 19.07.2019; ECE Projektmanagement teilt mit, dass im Rahmen der bevorstehenden Modernisierungsmaßnahmen am Eingang OEZ entsprechende Piktogrammen angebracht werden]
+- TOP 7.15.: Abmarkierungen Parkplätze auf der Allacher Brücke erhöhen [Schreiben BA 10 vom 19.07.2019; Bis Ende 2020 werden stadtweit Maßnahmen zur Verbesserung des Buslinienverkehrs durchgeführt - hier: Busspur in der Allacher Straße. Markierung Längsparkplätze erfolgt in diesem Zusammenhang]
+- TOP 7.16.: Genehmigung einer beleuchteten Litfaßsäule in der Gärtnerstraße [Schreiben des BA 10 vom 19.07.2019; Einwendungen (störende Häufung) des BA wird nicht entsprochen]
+- TOP 7.17.: Tempo 50 in der Dachauer Straße [Schreiben des BA 10 an den BA 9 vom 18.07.2019 mit der Bitte um Unterstützung für den Teilabschnitt im 9. Stadtbezirk]
+- TOP 7.18.: Grünanlage an der Nanga-Parbat-Straße: Aufstellen von weiteren Parkbänken und Mülleimern [Schreiben des BA 10 vom 10.04.2019; jeweils 2 Parkbänke und Abfallbehälter werden im September 2019 zusätzlich aufgestellt]
+- TOP 7.19.: Rückschnitt des Straßenbegleitgrüns in der Schragenhofstraße [Schreiben des BA 10 vom 05.06.2019; es bestand keine Gefahr; turnusmässiger Rückschnitt mit Frühjahr und Herbst ausreichend; Erläuterung des stadtweiten Rückschnittkonzeptes]
+- TOP 7.20.: Pflegezustand der Grünanlage am Claudiusplatz [Abdruck Antwort auf Bürgeranliegen; akute Mängelbeseitigungen erfolgt; Pflegemaßnahmen werden turnusmäßig durchgeführt, Ersatz Spielgerät veranlasst.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Veranstaltungen auf öffentlichem Verkehrsgrund: 1. "Meile Moosach" am 07.09.2019 2. "5. Gehwegfest Gubestraße" am 06.09.2019 3. "weißer Nachmittag" in der Borstei am 15.09.2019 (-> jeweils Vorabzustimmung Vorsitzender gem. § 13 Abs. 2 Satz 3 BA-Satzung)
+- TOP 8.3.: Verkehrliche Anordnungen nach § 45 StVO: 1. Baubergerstr. 65; Einrichtung eines allgemeinen Behindertenparkplatzes 2. Waldhornstraße u.a.; Eingliederung in Tempo 30-Zone 3. Agnes-Pockels-Bogen 6; Einrichtung absolutes Haltverbot 4. Meggendorferstr. 27; Versetzung des absoluten Haltverbotes 5. Ludwigsfelder Straße; Einrichtung eines gemeinsamen gegenläufigen Geh- und Radweges
+- TOP 8.4.: unveränderte Fortführung eines Gaststättenbetriebes: 1. Bunzlauer Str. 14 2. Bunzlauer Str. 15
+- TOP 8.5.: Schulwegsicherheit der Grundschule an der Dieselstraße (Schreiben Elternbeirat an OB; Antwort KVR)
+- TOP 8.6.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt"; Bürgerbeteiligung in den Stadtvierteln
+- TOP 8.7.: MVG - Leistungsprogramm 2010 (Auszug) - Beschluss VB; hier: Erledigung des BA-Antrages Nr. 14-20/ B06174 (Taktverdichtung Buslinie 175)
+- TOP 8.8.: Bewerbung Welterbe Olympiapark; Doku Infoveranstaltung (Broschüre)
+- TOP 8.9.: Behindertenbeirat: Jahresbericht 2018 (Broschüre)
+- TOP 8.10.: (U) Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission vom 13.05.2019 a) Beauftragte für Menschen mit Behinderungen; Initiative des Sozialreferates b) Anhörungsrecht bei Gleiserneuerungen Antrag Nr. 14-20 / B 04829 des BA 13 - Bogenhausen vom 08.05.2018 c) Formelles Anhörungsrecht der Bezirksausschüsse für die Einrichtung von Elektroladestationen Antrag Nr. 14-20 / B 05020 des BA 16 - Ramersdorf-Perlach vom 07.06.2018 d) Mehr Grün im Straßenraum Antrag Nr. 14-20 / B 05589 des BA 3 - Maxvorstadt vom 11.12.2018 e) Wertstoffinseln Antrag Nr. 14-20 / B 05728 des BA 12 - Schwabing-Freimann vom 15.01.2019 f) Anhörungsrecht für Anträge auf Vorbescheid zur Errichtung neuer Gebäude Antrag Nr. 14-20 / B 05942 des BA 18 - Untergiesing-Harlaching vom 19.03.2019 g) Bildung der Bezirksausschüsse für die Amtsperiode 2020 - 2026; Anpassung der Anlage 2 zur BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 8.11.: (U) Neubau eines Kultursaals und Umbau des „Hacklhauses“ im 10. Stadtbezirk – Moosach - Ein großer Veranstaltungssaal für Moosach BA-Antrags-Nr. 14-20 / B 02682 des Bezirksausschusses des Stadtbezirkes 10 – Moosach vom 25.07.2016 - Grundsatzbeschluss - Genehmigung des vorläufigen Nutzerbedarfsprogramms - Stadtsanierung in München: Untersuchungsgebiet „Moosach“ Durchführung eines städtebaulich-freiraumplanerischen Planungsverfahrens zur Neuordnung des Moosacher St.-Martins-Platzes mit Umfeld
+- TOP 8.12.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 8.13.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 8.14.: (U) Stadtsanierung in München Untersuchungsgebiet „Moosach“ A) Durchführung eines städtebaulich-freiraumplanerischen Realisierungswettbewerbs für den Bereich Dachauer Straße (südwestlich) Baubergerstraße (südöstlich) Karl-Lipp-Straße (nordöstlich) Wintrichring nördlich) - Eckdatenbeschluss - B) Städtebauförderung, Kosten und Finanzierung C) Vergabe Stadtbezirk 10 Moosach
+- TOP 8.15.: (U) Erhalt des gültigen Bebauungsplans Nr. 578 - Abwendung Bauvorhaben am OEZ, 80993 München Empfehlung Nr. 14-20 / E 02208 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 18.10.2018 Stadtbezirk 10 - Moosach
+- TOP 8.16.: (U) Olympiapark München; Antrag auf Nominierung zur Aufnahme in die UNESCO-Welterbeliste Ensemble Olympiapark soll Unesco-Weltkulturerbe werden, Antrag Nr. 14-20 / A 01883 von DIE LINKE und der ÖDP vom 04.03.2016, eingegangen am 07.03.2016
+- TOP 8.17.: (U) Bauleitplanung für den Bereich Am Oberwiesenfeld (östlich), Moosacher Straße (nördlich), Lerchenauer Straße (westlich), DB-Nordring (südlich) - Knorr-Bremse AG - A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Aufstellung eines Bebauungsplanes mit Grünordnung Nr. 2142 (Teiländerung des Bebauungsplanes mit Grünordnung Nr. 1947) - Aufstellungsbeschluss - Durchführung eines städtebaulichen und landschaftsplanerischen Realisierungswettbe- werbs - Eckdatenbeschluss - B) Bekanntgabe des Wettbewerbsergebnisses Moosacher Straße 80 Stadtbezirk 11 – Milbertshofen-Am Hart
+- TOP 8.18.: (U) Pilotprojekt „Schnelle Radverbindung für den Münchner Norden“ a. Ergebnisse der vertieften Machbarkeitsuntersuchung b. Bedarfs- und Konzeptgenehmigung c. Behandlung von Anträgen „Auf den Straßen Münchens Platz schaffen III - Tiefgaragen im Bereich der Leopoldstraße“ Antrag Nr. 14-20 / A 04911 von Herrn Bürgermeister Manuel Pretzl vom 29.01.2019 „Auf den Straßen Münchens Platz schaffen IV - Ersatz für wegfallenden Parkraum“ Antrag Nr. 14-20 / A 04912 von Herrn Bürgermeister Manuel Pretzl vom 29.01.2019
+- TOP 8.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.20.: (U) Eisenbahnkreuzungsmaßnahmen beim Ausbau der S4 West Pasing – Buchenau S-Bahnhof Aubing: Barrierefreie Ortsverbindung und zusätzliche Erschließung der Verkehrsstation von Westen durch neue Zugangssituation (Freiham) a) Unterführung Aubinger Bahnhof; Aufzug (Antrag 1) Empfehlung Nr. 14-20 / E 00667 der Bürgerversammlung des Stadtbezirks 22 Aubing-Lochhausen-Langwied am 27.10.2015 b) Barrierefreier Ausbau S-Bahnhof Aubing Empfehlung Nr. 14-20 / E 01564 der Bürgerversammlung des Stadtbezirks 22 Aubing-Lochhausen-Langwied am 13.07.2017 c) Barrierefreier Ausbau S-Bahnhof Aubing; Vorfinanzierung einer Rampe an der Westseite durch die LH München als Provisorium Empfehlung Nr. 14-20 / E 01563 der Bürgerversammlung des Stadtbezirks 22 Aubing-Lochhausen-Langwied am 13.07.2017
+- TOP 8.21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.26.: (U) Deutliche Aufstockung des Personals der Unteren Naturschutzbehörde Empfehlung Nr. 14-20 / E 02541 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 26.03.2019
+- TOP 8.27.: (U) Ausstattung der Lokalbaukommission des Referates für Stadtplanung und Bauordnung mit genügend Personal Empfehlung Nr. 14-20 / E 02490 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 28.02.2019
+- TOP 8.28.: Vorkaufsrecht nach dem BauGB: - nicht-öffentlich - 1. Ehrenbreitsteiner Straße 2. Hardenbergstraße 3. Meggendorferstraße
+- TOP 8.29.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Eggmühler Straße 2. Warschauer Straße 3. Wichertstraße
+- TOP 8.30.: WEB - alle Anträge vom 01.07. 2019 bis 311.07.2019 - nicht-öffentlich -
