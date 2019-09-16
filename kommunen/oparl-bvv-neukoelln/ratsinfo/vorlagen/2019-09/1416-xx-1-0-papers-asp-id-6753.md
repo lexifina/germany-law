@@ -1,0 +1,26 @@
+# Bezirkshaushaltsplan für die Jahre 2020/2021 (Doppelhaushalt)
+
+- Körperschaft: BVV-Neukölln
+- Drucksache/Vorlage: 1416/XX
+- Art: Beschlussempfehlung - 2. Lesung
+- Datum: 2019-09-16
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=6753
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/papers.asp?id=6753
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/download.asp?dtyp=130&id=229088
+- Beratung: Vorberatung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3831 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3548 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=41
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3661 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=36
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3615 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3616 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3652 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=42
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3580 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3636 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=22
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3969 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=43
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3570 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=45
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3970 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3645 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Anhörung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3968 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=44
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3581 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=46
+- Beratung: Entscheidung https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3670 https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=at&id=45
