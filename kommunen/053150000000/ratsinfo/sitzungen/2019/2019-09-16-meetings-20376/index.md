@@ -1,0 +1,89 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-16T17:08:00+02:00
+- Ende: 2019-09-16T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20376
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20376
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: TOP A Bericht der Firma Rheinland Raffinerie, Werk Köln-Godorf über Großstillstand in der Rheinlandraffinerie zu Wartungs- und Instandhaltungsarbeiten - Sache ist erledigt
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Rondorfer Hauptstraße 10 (Az.: 02-1600-145/18) - zurückgestellt
+- TOP 2.2: Ginkgo-Bäume in der Ulmenallee - Antrag nach § 24 GO - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Anfrage „Neues Konzept zur Umgestaltung des Kölnbergs in Meschenich“ der Freien Wähler Köln (AN/0477/2019; s. Anlage) für die Sitzung der BV Rodenkirchen am 16.09.2019 - Kenntnis genommen
+- TOP 7.1.2: Ackerrandstreifen im Kölner Süden - Kenntnis genommen
+- TOP 7.1.3: Hinweisschilder sowie Ge- und Verbote am Rodenkirchener Rheinufer - Kenntnis genommen
+- TOP 7.1.4: Sachstand der Sportplatzplanung für Rondorf; Beantwortung einer mündlichen Nachfrage der CDU-Fraktion aus der Sitzung der Bezirksvertretung vom 01.07.2019 - Kenntnis genommen
+- TOP 7.1.5: Durchgangsverkehr und Aufenthaltsqualität auf Straßen in Bayenthal - Kenntnis genommen
+- TOP 7.1.6: Parkplätze an der Bahnhofstraße in Köln-Sürth - Kenntnis genommen
+- TOP 7.1.7: Sachstand Jugendschiff für Rodenkirchen - Kenntnis genommen
+- TOP 7.1.8: Zusätzliche Fahrspur auf dem Militärring zwischen der Straße "Im Wasserwerkswäldchen" und dem Verteilerkreis in Köln-Raderthal - Kenntnis genommen
+- TOP 7.1.9: Flüchtlingsunterkunft Kalscheurer Weg, Köln Zollstock - Kenntnis genommen
+- TOP 7.1.10: Antrag der CDU-Fraktion in der Sitzung der Bezirksvertretung Rodenkirchen am 13.11.2017 - Kenntnis genommen
+- TOP 7.1.11: Europaschule Zollstock: neue Fahrradstellplätze, Sachstand - zu AN/1271/2017 - Kenntnis genommen
+- TOP 7.1.12: Umgestaltung der Kinder-Spielplätze auf der Grünfläche der Rodenkirchener Riviera AN/1149/2017 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3: Glyphosat im Grundwasser des Stadtbezirks Köln-Rodenkirchen, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.4: Zugeparkter Gehweg am Gustav-Heinemann-Ufer, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: Standortverlagerung des Großmarktes Köln-Raderberg, Anfrage der SPD-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.7: Ernst-Moritz-Arndt-Grundschule in Rodenkirchen: Neubau-Termin, Anfrage der SPD-Frartion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Nutzungen des Maternusplatzes und des Marktsplatzes in Sürth 2020, Gemeinsamer Antrag aller Fraktionen der BV 2 - ungeändert beschlossen
+- TOP 8.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.3: Mehr Verkehrssicherheit am Rheinufer in Rodenkirchen, Gemeinsamer Antrag aller Fraktionen der BV 2 - ungeändert beschlossen
+- TOP 8.1.4: Erhöhung der Sicherheit für Radfahrer am Kreisel Bonner / Koblenzer Straße, Antrag der CDU-Fraktion mit Beitritt der SPD-Fraktion - ungeändert beschlossen
+- TOP 8.1.5: Anlegen eines Boule-Platzes im Vorgebirgspark, Antrag der SPD-Fraktion - Sache ist erledigt
+- TOP 8.1.5.1: Antrag der SPD-Fraktion für die Sitzung der Bezirksvertretung Rodenkirchen am 16.09.2019 - Kenntnis genommen
+- TOP 8.1.6: Leerstand von Wohnraum: Überprüfung, Antrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 8.1.7: Anbringung von Parkplatzmarkierungen auf P&R Parkplatz am Bahnhof in RODENKIRCHEN KVB-Linie 16 / 17, Antrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.8.1: Änderungsantrag zu Antrag AN/1084/2019 TOP 8.1.8 - Antrag der CDU-Fraktion - Sache ist erledigt
+- TOP 8.1.9: Bauvorhaben "Ringstraße 38 - 46" in Rodenkirchen: Anforderungen, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.10: Fußballplätze im Bezirk: Kunstrasen-Problematik, Antrag der Fraktion Die Grünen - endgültig abgelehnt
+- TOP 8.1.10.1: Stellungnahme der Verwaltung - Kenntnis genommen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beratung der Haushaltsplan-Entwurfs für den Doppelhaushalt 2020/2021 einschließlich der Finanzplanung bis 2024 und der sonstigen Anlagen - geändert beschlossen
+- TOP 9.1.1.1: 3. Frauenhaus - Antrag der FDP-Ratsfraktion - ohne Votum in nachfolgende Gremien
+- TOP 9.1.1.2: Planung und dem Bau einer Bürgerbegegnungsstätte im Sozialraum „Meschenich und Rondorf“ als Maßnahme des Integrierten Stadtentwicklungskonzeptes (ISEK) „Starke Veedel - Starkes Köln“, Gemeinsamer Antrag der Fraktionen der BV 2 - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Innenentwicklung Heidelweg in Köln-Sürth; 71376/03; Satzungsbeschluss - zurückgestellt
+- TOP 9.2.1.1: TOP 9.2.1 (B-Plan 71376/03 "Innenentwicklung Heidelweg") - Ersetzungsantrag der Fraktion Die Grünen - zurückgestellt
+- TOP 9.2.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Interkulturelles Frauen- und Mädchen-Gesundheitszentrum IFMGZ Holla e.V." - ungeändert empfohlen
+- TOP 9.2.3: Baubeschluss für die Umgestaltung von 4 Knotenpunkten entlang des Streckenzuges Weißer Straße sowie Freigabe einer investiven Verpflichtungsermächtigung - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - ungeändert empfohlen
+- TOP 9.2.4: Stadtbahn Bonn-Niederkassel-Köln - mit Änderungen empfohlen
+- TOP 9.2.5: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Integrative Quartiersentwicklung am Kalscheurer Weg" in Köln-Zollstock - ungeändert empfohlen
+- TOP 9.2.6: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Erweiterung STRÖER Campus in Köln-Sürth - ungeändert empfohlen
+- TOP 9.2.6.1: TOP 9.2.6 (Erweiterung STRÖER Campus) - Liste von Anregungen - ungeändert empfohlen
+- TOP 9.2.7: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert empfohlen
+- TOP 9.2.8: Anpassung der Zuständigkeitsordnung - ungeändert empfohlen
+- TOP 9.2.9: 2. Teilaufhebung des Bebauungsplanes 6440 Nd/03 (65410/03) - Stellungnahmen/Satzungsbeschluss - Arbeitstitel: Kalscheurer Weg in Köln-Zollstock, 2. Teilaufhebung - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Gefährliches Hindernis durch Überreste eines maroden Fahrradwegs am Bayenthalgürtel - Kenntnis genommen
+- TOP 10.2.2: Rodderweg/Josef-Kallscheuer-Straße in Sürth: Durchlässigkeit zum Fuß- u. Radweg - Kenntnis genommen
+- TOP 10.2.3: Taktverdichtung der Buslinie 134 in den Abendstunden - Kenntnis genommen
+- TOP 10.2.4: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.5: Voranfrage zur Klärung des Planungsrechts (Bebauungsgenehmigung) für 2 Mehrfamilienhäuser mit 4 Geschossen mit jeweils 7 Wohnungen und 14 Stellplätzen in der Tiefgarage im Rahmen der Nachverdichtung auf dem Grundstück Sinziger Str. 11 - Kenntnis genommen
+- TOP 10.2.6: Verlegung der Haltestelle und Änderung der Haltezeiten des Bücherbusses der Stadtbibliothek in Köln-Meschenich - Kenntnis genommen
+- TOP 10.2.7: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
