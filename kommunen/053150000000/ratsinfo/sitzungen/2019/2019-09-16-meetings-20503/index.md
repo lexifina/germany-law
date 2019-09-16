@@ -1,0 +1,79 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-16T17:00:00+02:00
+- Ende: 2019-09-16T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20503
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20503
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Mülheim gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP -: B Wahl einer stellvertretenden Bezirksbürgermeisterin/ eines stellvertretenden Bezirksbürgermeisters §§ 36 Abs. 3 Satz 2, § 67 Abs. 2 i.V.m § 50 Abs. 2 GO NRW
+- TOP -: C Einführung und Verpflichtung der stellvertretenden Bezirksbürgermeisterin/des stellvertretenden Bezirksbürgermeisters gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 der Hauptsatzung der Stadt Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Nachfragen zur Einwohnerfrage Elisabeth-Schäfer-Weg - Kenntnis genommen
+- TOP 1.2: Einwohnerfrage Mülleimer Elisabeth-Schäfer-Weg - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Bergisch Gladbacher Straße (Az.: 02-1600-41/19) - geändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Tempo 30 für die Straße "Im Weidenbruch" und den Zufahrten zu dieser Straße (Az.: 02-1600-46/19) - zurückgestellt
+- TOP 2.3: Bürgereingabe gem. § 24 GO, betr.: Haltestelle Flittard Süd - Fahrgastunterstand und Beleuchtung (Az.: 02-1600-247/18) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Querungshilfe Buchheimer RIng - Kenntnis genommen
+- TOP 7.1.2: Beantwortung AN/1720/2018, Anfrage der CDU Fraktion: Neophyten und Neozoen im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.1.3: Statistische Abweichungen / Probleme bei der Europawahl 2019 - Kenntnis genommen
+- TOP 7.1.4: Tempo-30 auf der Bergisch Gladbacher Straße - Kenntnis genommen
+- TOP 7.1.5: Gemarkung Dünnwald, Flur 61, Flurstück 1840 Stammheim, Am Faullbach - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Baumsterben im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.2: Prüfauftrag zur Sitzung der BV 9 am 17.09.2018: Einrichtung eines P+R Platzes an der Haltestelle Herler Straße / Schützegildenweg - Kenntnis genommen
+- TOP 7.2.3: Situation der Wohnsiedlung an der Egonstraße in Köln-Stammheim - Kenntnis genommen
+- TOP 7.2.3.1: Anfrage der CDU-Fraktion in der Bezirksvertretung Mülheim zur Situation der Wohnsiedlung an der Egonstrße in Köln-Stammheim (AN/1203/2019) - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Aufstellung einer Sitzbank neben dem Bücherschrank an der Ecke Alte Wipperführter Strasse / Caumannsstrasse - ungeändert beschlossen
+- TOP 8.1.2: Einrichtung einer Fahrradzählstelle im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 8.1.3: Zukunft des Radiomuseums Köln e.V. (Dellbrück) - ungeändert beschlossen
+- TOP 8.1.4: Richtige Bürgersteige beiderseits des Zeisbuschwegs – Mehr Sicherheit für Fußgänger*innen! - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beschluss über die Aufstellung eines Bebauungsplanes im vereinfachten Verfahren; Arbeitstitel: Wasserwerkstraße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 9.1.2: Beratung des Haushaltsplanentwurfs für den Doppelhaushalt 2020/2021 einschließlich der Finanzplanung bis 2024 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP 9.1.2.1: 3. Frauenhaus - geändert beschlossen
+- TOP 9.1.3: Haushaltsplan-Entwurf Doppelhaushalt 2020/2021 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.4: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 9.1.5: Vergabe von bezirksorientierten Mitteln für das Haushaltsjahr 2019; Restmittel - ungeändert beschlossen
+- TOP 9.1.6: Verzicht auf den Bau einer Gabionenvorsatzschale an der neuen Stützwand des Kalkbergs und stattdessen künstlerische Gestaltung mit Graffiti - ungeändert beschlossen
+- TOP 9.1.7: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ungeändert beschlossen
+- TOP 9.2.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) „Quartier Schlebuscher Weg" in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 9.2.3: Teilaufhebung des Bebauungsplanes Nr. 73479/08 - Stellungnahmen/Satzungsbeschluss - Arbeitstitel: "Oberer Wichheimer Kirchweg in Köln-Holweide" - abgelehnt (in der Vorberatung)
+- TOP 9.2.4: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 9.2.5: Anpassung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Markierung eines Schutzstreifens auf der Wichheimer Straße - Kenntnis genommen
+- TOP 10.2.5: Verbesserung der Sicht für Abbieger Dünnwalder Kommunalweg/Ecke Am Flachsroster Weg (Dünnwald) - Kenntnis genommen
+- TOP 10.2.6: Mitteilung über eine Resolution des Integrationsrates - Kenntnis genommen
+- TOP 10.2.7: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.8: Zukunft des niedergebrannten Pferdehofes in Thielenbruch - Kenntnis genommen
+- TOP 10.2.9: Mehr Sicherheit vor der Jugendeinrichtung Treffer in Köln-Buchheim/Parkregelung in der Guilleaumstraße in Buchheim - zurückgestellt
+- TOP 10.2.10: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 10.2.11: Sicherstellung der Verkehrssicherheit auf der Edelhofstraße in Köln-Flittard - Kenntnis genommen
+- TOP 10.2.12: Sanierung Mülheimer Bücke – Auswirkung der verkehrslenkenden Maßnahmen in Mülheim - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
