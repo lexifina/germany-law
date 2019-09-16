@@ -1,0 +1,54 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-16T17:00:00+02:00
+- Ende: 2019-09-16T18:08:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20350
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20350
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 1.1: Europäische Charta der Gleichstellung von Frauen und Männern - Sachstand zum 1. Kölner Gleichstellungsaktionsplan - ungeändert beschlossen
+- TOP 1.2: Kampagne EDELGARD der Kölner Initiative gegen sexualisierte Gewalt im öffentlichen Raum - Aktueller Sachstand - Kenntnis genommen
+- TOP 2: Internationales
+- TOP 2.1: Fortsetzung der Zusammenarbeit im Bildungsbereich mit China hier: Bildungsdelegation Köln-Peking/Shanghai 25.05.-31.05.2019 - Kenntnis genommen
+- TOP 2.2: Aktueller Sachstand zu Förderrichtlinie für Jugendbegegnungen mit Partnerstädten - Kenntnis genommen
+- TOP 2.3: Köln und die chinesische Stadt Chongqing schließen Kooperationsvereinbarung - Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Anfrage der Fraktion Bündnis 90/Die Grünen betreffend "Erweiterung der "Sag´s-uns-App" der Stadt Köln um zwei Kategorien - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0416/2019 der Fraktion Bündnis 90/Die Grünen betreffend "Erweiterung der "Sag's-uns-App" um zwei Kategorien" zur Sitzung vom 13.05.2019 - Kenntnis genommen
+- TOP 3.2: Anfrage der Fraktion DIE LINKE betreffend "Das Kölner Taxigewerbe und Uber" zur Sitzung vom 13.05.2019 - Kenntnis genommen
+- TOP -: Beantwortung der Anfrage AN/0648/2019 der Fraktion DIE LINKE betreffend "Das Kölner Taxigewerbe und Uber" zur Sitzung vom 13.05.2019 - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - Kenntnis genommen
+- TOP 4.2: Sachstandsbericht Besteuerung des Spielvergnügens an Geldspielgeräten - Kenntnis genommen
+- TOP 4.3: Bericht über die Entwicklung von Ausreisen und Abschiebungen ausreisepflichtiger Personen I/2019 - Kenntnis genommen
+- TOP 4.4: Neues IT-System für die Grenzkontrollstelle Flughafen Köln-Bonn - Kenntnis genommen
+- TOP 4.5: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - Kenntnis genommen
+- TOP 4.6: Neues Rechenzentrum Köln-Kalk - Kenntnis genommen
+- TOP 4.7: Bußgelderhöhung für das Wegwerfen von Zigarettenkippen - Kenntnis genommen
+- TOP 4.8: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 4.9: Widerspruchsrecht gegen die Weitergabe von Meldedaten - Kenntnis genommen
+- TOP 4.10: Erster Sachstandsbericht zur Umsetzung des Konzeptes zur Förderung des Ehrenamtes in der Freiwilligen Feuerwehr Köln aus Oktober 2018 - Kenntnis genommen
+- TOP 4.11: Silvester 2019: Gestaltung der städtischen Maßnahmen - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: E-Scooter und Leihfahrräder
+- TOP 7.2: Elektronischer Handelsplatz
+- TOP 7.3: Autonomes Zentrum
+- TOP 7.4: Klingelpützpark
+- TOP 8: Anträge
+- TOP 9: Platzvergaben
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Blockrandbebauung Wallraf-Richartz-Museum & Fondation Corboud - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Gründung der GbR Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Bestellung der Vertretung der Stadt Köln zur Entsendung in die Verbandsversammlung des Dachverbandes kommunaler IT-Dienstleister (KDN) - ungeändert beschlossen
+- TOP 10.4: Veranstaltung "STRASSENLAND" 2020 - zurückgestellt
+- TOP 10.5: Freigabe von Mitteln für den Sicherheitsaufwand bei Großveranstaltungen - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
