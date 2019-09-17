@@ -1,0 +1,66 @@
+# 38. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-17T15:30:00+02:00
+- Ende: 2019-09-17T19:09:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20273
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20273
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung von sachkundigen Einwohnern:
+- TOP -: Bestellung einer Schriftführerin und deren Stellvertreterin für den Ausschuss Kunst und Kultur und die dazugehörigen Betriebsausschüsse - ungeändert beschlossen
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Darstellung der Sparten - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 3.1: Gemeinsamer Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr.: Förderkonzept Bildende Kunst hier: Änderung 5.3: Modifizierung des Atelierförderkonzepts - geändert beschlossen
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Nutzungsvertrag MiQua - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Geschäftsordnung Jury Böll-Preis - ungeändert beschlossen
+- TOP 4.3: Gewährung von Zuschüssen für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.4: Vergabe der Fördermittel im Schwerpunkt "Cologne Music Export" - ungeändert beschlossen
+- TOP 4.5: Änderung der Geschäftsordnung des Lenkungskreises der Kulturentwicklungsplanung - zurückgestellt
+- TOP 4.6: Bedarfsfeststellungsbeschluss für die Durchführung dringender Restaurierungsmaßnahmen an dem Kunstwerk "Humiliatio" von Brice Marden - ungeändert beschlossen
+- TOP 4.7: Gründung der GbR Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP 5: Sonderausstellungen
+- TOP 5.1: Genehmigung der Mittelverwendung für Sonderausstellungen 2019 - Fortschreibung - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Schenkung an das Museum Schnütgen - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Erweiterung Jury Holger Czukay Preis für Popmusik - ungeändert beschlossen
+- TOP 7.2: Bedarfsfeststellungsbeschluss zur Vorbereitung des Archivbestandes des Rheinischen Bildarchivs für den Umzug in den Neubau am Eifelwall - ungeändert beschlossen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - zurückgestellt
+- TOP 8.2: Vergabe von Mietzuschüssen für Künstlerateliers ab 2020 - Kenntnis genommen
+- TOP 8.3: Durchführung eines Ideenwettbewerbs für die szenografische Gestaltung der neuen Dauerausstellung des Kölnischen Stadtmuseums im Interim Haus Sauer - Kenntnis genommen
+- TOP 8.4: Stärkung kulturelle Bildung - Kenntnis genommen
+- TOP 8.5: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 8.6: Kongress "PopSummit #2020" in Köln - Kenntnis genommen
+- TOP 8.7: Projektbericht: Qualitative und quantitative Bestandsermittlung und Evaluation der Proberaumsituation in Köln - Kenntnis genommen
+- TOP 8.8: Verschoben von 10.08. - Beantwortung der Anfrage AN/1058/2019 der Ratsgruppe GUT aus der Sitzung des Hauptausschusses vom 05.08.2019 betr.: "Kartäuserwall 18 erhalten" - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (Miqua) - Stand 16.08.2019 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv am Eifelwall, Stand 03.09.2019 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht zur Zentralbibliothek Köln - Stand: 17.09.2019 - Kenntnis genommen
+- TOP 9.4: Sachstandsbericht zum Neubau Historische Mitte, Stand September 2019 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.4: Beantwortung einer Anfrage der Fraktionen CDU und Bündnis 90/Die Grünen betr.: Sachstand zur Kunst und Museumsbibliothek - Kenntnis genommen
+- TOP 10.5: Beantwortung einer mündlichen Nachfrage der AFD-Fraktion zur Anfragenbeantwortung 2242/2019 - Kenntnis genommen
+- TOP 10.6: Beantwortung einer Anfrage der SPD-Fraktion in der Sitzung der BV Kalk betr.: Hallen Kalk - zu AN/0623/2019 - Kenntnis genommen
+- TOP 10.7: Anfrage der Ratsgruppe BUNT, betr.: "Diskriminierung von Rollstuhlfahrern und Rollstuhlfahrerinnen bei Kulturveranstaltungen in Köln" vom 26.03.2019
+- TOP -: Beantwortung der Anfrage der Ratsgruppe BUNT, betr.: "Diskriminierung von Rollstuhlfahrern und Rollstuhlfahrerinnen bei Kulturveranstaltungen in Köln" vom 26.03.2019 - Kenntnis genommen
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Anfrage von Ratsmitglied Lisa Gerlach - betr.: #DraussenTanzen - die Subkultur stärken - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 11.3: Gemeinsame Anfrage der Fraktionen CDU und Bündnis 90 / Die Grünen betr.: Separater Zugang zum VHS-Forum - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 12: Mündliche Anfragen
