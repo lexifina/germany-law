@@ -1,0 +1,8 @@
+# TOP 3: Vergabe von Straßenunterhalt 2019/2020
+
+- Sitzung: Sitzung des Finanzausschusses (2019-09-17)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/19254
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/consultations/4148
