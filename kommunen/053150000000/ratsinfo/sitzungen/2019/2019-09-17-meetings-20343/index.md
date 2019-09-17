@@ -1,0 +1,75 @@
+# Sitzung des Jugendhilfeausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-17T14:05:00+02:00
+- Ende: 2019-09-17T15:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/8
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20343
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20343
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Festlegung der Stimmzähler
+- TOP 1.2: Beschluss über die Teilnahme der Bezirksschülerinnen- und Bezirksschülervertretung am öffentlichen Teil der heutigen Sitzung
+- TOP 1.3: Persönliche Erklärungen nach § 22 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.4: Präsentationen
+- TOP 1.4.1: Präsentation zu Entwicklungen und Sachstand im Förderbereich „Frühe Hilfen“
+- TOP -: Präsentation über Entwicklungen und Sachstand im Förderbereich „Frühe Hilfen“
+- TOP 2: Beschlüsse des Jugendhilfeausschusses gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Trägeranerkennungen nach § 75 Sozialgesetzbuch Achtes Buch
+- TOP 2.1.1: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "himmel & ääd gemeinnützige Gesellschaft mbH" - ungeändert beschlossen
+- TOP 2.1.2: Anerkennung als Träger der freien Jugendhilfe gemäß § 75 SGB VIII; hier: "Interkulturelles Frauen- und Mädchen-Gesundheitszentrum IFMGZ Holla e.V." - ungeändert beschlossen
+- TOP 2.2: Verteilung von Haushaltmitteln und Zuschüssen
+- TOP 2.2.1: Kindertagespflege nach §23 SGB VIII - Qualifizierung und Fortbildung von Tagespflegepersonen - ungeändert beschlossen
+- TOP 2.3: Weitere Beschlüsse
+- TOP 2.3.1: Geänderte Richtlinie über die Gewährung von Zuwendungen für die Einrichtung von neuen bilingualen Kindertageseinrichtungen in Köln - ungeändert beschlossen
+- TOP 2.3.2: TBS Zukunftswerkstatt - ungeändert beschlossen
+- TOP 3: Beschlussempfehlungen an andere Ausschüsse und Bezirksvertretungen
+- TOP 4: Beschlussempfehlungen an den Rat
+- TOP 4.1: Neuwahl eines stimmberechtigten Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.2: Neuwahl eines beratenden Mitglieds für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 4.3: Lieferung von Kinderspielgeräten, Ersatzteilen und Zubehör - ungeändert beschlossen
+- TOP 4.4: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ungeändert beschlossen
+- TOP 4.5: Ausbau der Jugendeinrichtung Unnauer Weg 96a im Zuge der Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler; Projekt „Ausbau des Sozialen Zentrums Lino-Club e.V. zu einem generationenübergreifenden Bürgerhaus (Mehrgenerationenhaus)" hier: - ungeändert beschlossen
+- TOP 5: Schriftliche Anträge aus der Politik
+- TOP 5.1: Frühere Anträge
+- TOP 5.2: Neue Anträge
+- TOP 6: Schriftliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 6.1: Frühere Anfragen
+- TOP 6.1.1: Städtisches Familienbüro - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage der SPD-Fraktion aus dem Jugendhilfeausschuss vom 02.07.2019 , TOP 7.2.1 - hier: Städtisches Familienbüro - Kenntnis genommen
+- TOP 6.1.2: Kitabeiträge - Sache ist erledigt
+- TOP -: Anfrage gemäß § 4 der Geschäftsordnung des Rates; - Kenntnis genommen
+- TOP 6.2: Neue Anfragen
+- TOP 6.2.1: Loverboys - zurückgestellt
+- TOP 7: Mündliche Anfragen aus der Politik und von ausschusszugehörigen Trägern der Jugendhilfe
+- TOP 7.1: Frühere Anfragen
+- TOP 7.1.1: Luftemissionen - Messungen in Kindertageseinrichtungen - Kenntnis genommen
+- TOP 7.1.2: Fachstellen "Extremismus- und Gewaltprävention - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1.1: Mitgliederwechsel im Ausschuss für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.2: Mitteilungen aus dem Bereich Jugendhilfeplanung und Kindertagesbetreuung
+- TOP 8.3: Mitteilungen aus dem Bereich Bezirksjugendämter sowie Pädagogische und Soziale Dienste
+- TOP 8.3.1: Fall-und Kostenentwicklung im Bereich der Hilfen zur Erziehung in 2018 - Kenntnis genommen
+- TOP 8.3.2: Kooperation zwischen der Ombudschaft NRW e.V. und dem Amt für Kinder, Jugend und Familie - Kenntnis genommen
+- TOP 8.4: Mitteilungen aus dem Bereich Kinderinteressen, Jugendförderung und Jugendschutz
+- TOP 8.4.1: Jugendforum NRW im Rahmen der Spielmesse gamescom - Kenntnis genommen
+- TOP 8.4.2: Stärkung kulturelle Bildung - Kenntnis genommen
+- TOP 8.5: Weitere Mitteilungen
+- TOP 8.5.1: Jahresbericht "Haus des Jugendrechts" 2018 - Kenntnis genommen
+- TOP 8.5.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 8.5.3: 25. Bericht über die Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.5.4: Konsequenzen aus den Missbrauchsfällen in Lüdge - Kenntnis genommen
+- TOP 8.5.5: Kommunaler Inklusionsplan für Kölner Schulen 3.0 (2019) - Kenntnis genommen
+- TOP 8.5.6: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 8.5.7: Fortsetzung der Zusammenarbeit im Bildungsbereich mit China - Kenntnis genommen
+- TOP 8.5.8: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 8.5.9: Konzeptionelle Überlegungen zur Ausbauplanung der Schulsozialarbeit an Kölner Schulen auf der Grundlage armutsinduzierter Bildungsbenachteiligung - Kenntnis genommen
+- TOP 8.5.10: Berichtswesen Dezernat IV - Teilbericht Jugendhilfeausschuss 2018 - Kenntnis genommen
+- TOP 8.5.11: Netzwerk gegen häusliche Gewalt – Statistik 2018 - ungeändert beschlossen
