@@ -80,17 +80,15 @@ Teil 9 Sicherheit und Ordnung
 § 64 Verhaltensvorschriften
 § 65 Durchsuchung
 § 66 Sichere Unterbringung
-§ 67 Erkennungsdienstliche Maßnahmen
-§ 68 Lichtbildausweise
-§ 68a Videoüberwachung
+§ 67 (aufgehoben)
+§ 68 (aufgehoben)
 § 69 Maßnahmen zur Feststellung von Suchtmittelgebrauch
-§ 69a Auslesen von Datenspeichern
+§ 69a (aufgehoben)
 § 70 Festnahmerecht
 § 71 Besondere Sicherungsmaßnahmen
 § 72 (aufgehoben)
 § 73 (aufgehoben)
 § 74 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
-§ 74a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 75 Ärztliche Überwachung
 § 76 (aufgehoben)
 Teil 10 Unmittelbarer Zwang
@@ -107,37 +105,26 @@ Teil 11 Erzieherische Maßnahmen, Disziplinarmaßnahmen
 Teil 12 Aufhebung von Maßnahmen und Beschwerde
 § 86 Aufhebung von Maßnahmen
 § 87 Beschwerderecht
-Teil 13 Aktenführung und Datenschutz
-§ 88 Verarbeitung
-§ 89 Datenerhebung
-§ 90 Schutz besonderer Daten
-§ 91 Zentrale Vollzugsdatei, Einrichtung automatisierter Abrufverfahren
-§ 92 Akten
-§ 93 Berichtigung, Löschung und Sperrung
-§ 94 Auskunft an den Betroffenen, Akteneinsicht
-§ 95 Auskunft und Akteneinsicht für wissenschaftliche Zwecke
-§ 96 Anwendbarkeit des Sächsischen Datenschutzgesetzes
-Teil 14 Kriminologische Forschung
-§ 97 Evaluation, kriminologische Forschung
-Teil 15 Aufbau der Jugendstrafvollzugsanstalt
-§ 98 Jugendstrafvollzugsanstalt
-§ 99 Festsetzung der Belegungsfähigkeit, Verbot der Überbelegung
-§ 100 Einrichtungen zur schulischen und beruflichen Bildung, Arbeitsbetriebe
-§ 101 Anstaltsleitung
-§ 102 Bedienstete
-§ 103 Seelsorger
-§ 104 Medizinische Versorgung
-§ 105 Sozialtherapeutische Abteilung
-§ 106 (aufgehoben)
-§ 107 Mitverantwortung der Gefangenen
-§ 108 Hausordnung
-Teil 16 Aufsicht, Beirat
-§ 109 Aufsichtsbehörde
-§ 110 Vollstreckungsplan
-§ 111 Beirat
-Teil 17 Schlussbestimmungen
-§ 112 Einschränkung von Grundrechten
-§ 113 Verhältnis zum Bundesrecht
-§ 114 Berichtspflicht
-§ 115 Übergangsbestimmungen
-§ 116 Inkrafttreten
+Teil 13 Kriminologische Forschung
+§ 88 Evaluation, kriminologische Forschung
+Teil 14 Aufbau der Jugendstrafvollzugsanstalt
+§ 89 Jugendstrafvollzugsanstalt
+§ 90 Festsetzung der Belegungsfähigkeit, Verbot der Überbelegung
+§ 91 Einrichtungen zur schulischen und beruflichen Bildung, Arbeitsbetriebe
+§ 92 Anstaltsleitung
+§ 93 Bedienstete
+§ 94 Seelsorger
+§ 95 Medizinische Versorgung
+§ 96 Sozialtherapeutische Abteilung
+§ 97 Mitverantwortung der Gefangenen
+§ 98 Hausordnung
+Teil 15 Aufsicht, Beirat
+§ 99 Aufsichtsbehörde
+§ 100 Vollstreckungsplan
+§ 101 Beirat
+Teil 16 Schlussbestimmungen
+§ 102 Einschränkung von Grundrechten
+§ 103 Verhältnis zum Bundesrecht
+§ 104 Berichtspflicht
+§ 105 Übergangsbestimmungen
+§ 106 Inkrafttreten
