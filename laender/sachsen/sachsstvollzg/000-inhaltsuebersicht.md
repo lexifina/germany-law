@@ -88,15 +88,14 @@ Teil 13 Sicherheit und Ordnung
 § 74 Allgemeine Verhaltenspflichten
 § 75 Durchsuchung
 § 76 Sichere Unterbringung
-§ 77 Erkennungsdienstliche Maßnahmen
-§ 78 Lichtbildausweise
-§ 79 Videoüberwachung
+§ 77 (weggefallen)
+§ 78 (weggefallen)
+§ 79 (weggefallen)
 § 80 Maßnahmen zur Feststellung von Suchtmittelgebrauch
-§ 81 Auslesen von Datenspeichern
+§ 81 (weggefallen)
 § 82 Festnahmerecht
 § 83 Besondere Sicherungsmaßnahmen
 § 84 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
-§ 84a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 85 Ärztliche Überwachung
 Teil 14 Unmittelbarer Zwang
 § 86 Begriffsbestimmungen
@@ -111,35 +110,25 @@ Teil 15 Disziplinarmaßnahmen
 Teil 16 Aufhebung von Maßnahmen, Beschwerde
 § 94 Aufhebung von Maßnahmen
 § 95 Beschwerderecht
-Teil 17 Aktenführung und Datenschutz
-§ 96 Verarbeitung
-§ 97 Datenerhebung
-§ 98 Schutz besonderer Daten
-§ 99 Zentrale Vollzugsdatei, Einrichtung automatisierter Abrufverfahren
-§ 100 Akten
-§ 101 Berichtigung, Löschung und Sperrung
-§ 102 Auskunft an den Betroffenen, Akteneinsicht
-§ 103 Auskunft und Akteneinsicht für wissenschaftliche Zwecke
-§ 104 Anwendbarkeit des Sächsischen Datenschutzgesetzes
-Teil 18 Kriminologische Forschung
-§ 105 Evaluation, kriminologische Forschung
-Teil 19 Aufbau und Organisation der Anstalten
-§ 106 Anstalten
-§ 107 Festsetzung der Belegungsfähigkeit, Verbot der Überbelegung
-§ 108 Anstaltsleitung
-§ 109 Bedienstete
-§ 110 Seelsorger
-§ 111 Medizinische Versorgung
-§ 112 Mitverantwortung der Gefangenen
-§ 113 Hausordnung
-Teil 20 Aufsicht, Beirat
-§ 114 Aufsichtsbehörde
-§ 115 Vollstreckungsplan, Vollzugsgemeinschaften
-§ 116 Beirat
-Teil 21 Vollzug des Strafarrests
-§ 117 Grundsatz
-§ 118 Besondere Bestimmungen
-Teil 22 Schlussbestimmungen
-§ 119 Einschränkung von Grundrechten
-§ 120 Verhältnis zum Bundesrecht
-§ 121 Übergangsbestimmungen
+Teil 17 Kriminologische Forschung
+§ 96 Evaluation, kriminologische Forschung
+Teil 18 Aufbau und Organisation der Anstalten
+§ 97 Anstalten
+§ 98 Festsetzung der Belegungsfähigkeit, Verbot der Überbelegung
+§ 99 Anstaltsleitung
+§ 100 Bedienstete
+§ 101 Seelsorger
+§ 102 Medizinische Versorgung
+§ 103 Mitverantwortung der Gefangenen
+§ 104 Hausordnung
+Teil 19 Aufsicht, Beirat
+§ 105 Aufsichtsbehörde
+§ 106 Vollstreckungsplan, Vollzugsgemeinschaften
+§ 107 Beirat
+Teil 20 Vollzug des Strafarrests
+§ 108 Grundsatz
+§ 109 Besondere Bestimmungen
+Teil 21 Schlussbestimmungen
+§ 110 Einschränkung von Grundrechten
+§ 111 Verhältnis zum Bundesrecht
+§ 112 Übergangsbestimmungen
