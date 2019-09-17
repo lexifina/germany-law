@@ -1,4 +1,4 @@
 # Gesetz über den Vollzug der Untersuchungshaft im Freistaat Sachsen (Sächsisches Untersuchungshaftvollzugsgesetz – SächsUHaftVollzG)
 erlassen als Artikel 1 des Gesetzes über den Vollzug der Untersuchungshaft im Freistaat Sachsen sowie zur Änderung weiterer Gesetze
 Vom 14. Dezember 2010
-Rechtsbereinigt mit Stand vom 22. März 2019
+Rechtsbereinigt mit Stand vom 17. September 2019

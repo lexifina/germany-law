@@ -1,6 +1,6 @@
 # Gesetz über den Vollzug der Unterbringung in der Sicherungsverwahrung im Freistaat Sachsen (Sächsisches Sicherungsverwahrungsvollzugsgesetz – SächsSVVollzG)
 Vom 16. Mai 2013
-Rechtsbereinigt mit Stand vom 22. März 2019
+Rechtsbereinigt mit Stand vom 17. September 2019
 Der Sächsische Landtag hat am 16. Mai 2013 das folgende Gesetz beschlossen:
 Inhaltsübersicht
 Teil 1 Allgemeine Bestimmungen
@@ -97,15 +97,14 @@ Teil 13 Sicherheit und Ordnung
 § 79 Allgemeine Verhaltenspflichten, Aufarbeitung von Pflichtverstößen
 § 80 Durchsuchung
 § 81 Sichere Unterbringung
-§ 82 Erkennungsdienstliche Maßnahmen
-§ 83 Lichtbildausweise
-§ 84 Videoüberwachung
+§ 82 (weggefallen)
+§ 83 (weggefallen)
+§ 84 (weggefallen)
 § 85 Maßnahmen zur Feststellung von Suchtmittelgebrauch
-§ 86 Auslesen von Datenspeichern
+§ 86 (weggefallen)
 § 87 Festnahmerecht
 § 88 Besondere Sicherungsmaßnahmen
 § 89 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
-§ 89a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 90 Ärztliche Überwachung
 Teil 14 Unmittelbarer Zwang
 § 91 Begriffsbestimmungen
@@ -115,33 +114,23 @@ Teil 14 Unmittelbarer Zwang
 Teil 15 Aufhebung von Maßnahmen, Beschwerde
 § 95 Aufhebung von Maßnahmen
 § 96 Beschwerderecht
-Teil 16 Aktenführung und Datenschutz
-§ 97 Verarbeitung
-§ 98 Datenerhebung
-§ 99 Schutz besonderer Daten
-§ 100 Zentrale Vollzugsdatei, Einrichtung automatisierter Abrufverfahren
-§ 101 Akten
-§ 102 Berichtigung, Löschung und Sperrung
-§ 103 Auskunft an den Betroffenen, Akteneinsicht
-§ 104 Auskunft und Akteneinsicht für wissenschaftliche Zwecke
-§ 105 Anwendbarkeit des Sächsischen Datenschutzgesetzes
-Teil 17 Kriminologische Forschung
-§ 106 Evaluation, kriminologische Forschung
-Teil 18 Aufbau und Organisation der Anstalten
-§ 107 Anstalten
-§ 108 Festsetzung der Belegungsfähigkeit, Einzelbelegung
-§ 109 Leitung der Anstalt
-§ 110 Bedienstete
-§ 111 Seelsorger
-§ 112 Medizinische Versorgung
-§ 113 Mitverantwortung der Untergebrachten
-§ 114 Hausordnung
-Teil 19 Aufsicht, Beirat
-§ 115 Aufsichtsbehörde
-§ 116 Vollstreckungsplan, Vollzugsgemeinschaften
-§ 117 Beirat
-Teil 20 Schlussbestimmungen
-§ 118 Einschränkung von Grundrechten
-§ 119 Verhältnis zum Bundesrecht
-§ 120 Übergangsbestimmungen
-§ 121 Inkrafttreten
+Teil 16 Kriminologische Forschung
+§ 97 Evaluation, kriminologische Forschung
+Teil 17 Aufbau und Organisation der Anstalten
+§ 98 Anstalten
+§ 99 Festsetzung der Belegungsfähigkeit, Einzelbelegung
+§ 100 Leitung der Anstalt
+§ 101 Bedienstete
+§ 102 Seelsorger
+§ 103 Medizinische Versorgung
+§ 104 Mitverantwortung der Untergebrachten
+§ 105 Hausordnung
+Teil 18 Aufsicht, Beirat
+§ 106 Aufsichtsbehörde
+§ 107 Vollstreckungsplan, Vollzugsgemeinschaften
+§ 108 Beirat
+Teil 19 Schlussbestimmungen
+§ 109 Einschränkung von Grundrechten
+§ 110 Verhältnis zum Bundesrecht
+§ 111 Übergangsbestimmungen
+§ 112 Inkrafttreten
