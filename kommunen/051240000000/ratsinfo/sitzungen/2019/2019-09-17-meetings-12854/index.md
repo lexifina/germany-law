@@ -1,0 +1,68 @@
+# öffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-09-17T16:06:00+02:00
+- Ende: 2019-09-17T17:51:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12854
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12854
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 09.09.2019 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00242955.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00244697.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2018 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 1.1.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Änderung der Betriebssatzung APH - ungeändert beschlossen
+- TOP 3.2: Abberufung und Bestellung einer stellvertretenden Betriebsleiterin - ungeändert beschlossen
+- TOP 3.3: AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - Neuverträge EKOCity 2024-2033 - ungeändert beschlossen
+- TOP 3.4: Monitoring der Konsolidierung der Gemeinnützige Wohnungbaugesellschaft (GWG) zum 30.06.2019 - Entgegennahme ohne Beschluss
+- TOP 3.5: Sachstand Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Entwicklung des Umlagesatzes des Landschaftsverbands Rheinland (LVR) im HH 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 5.2: Wohnbaugrundstücke Holthauser Str. - Entgegennahme ohne Beschluss
+- TOP 5.3: Vorstellung der Ergebnisse der Organisationsuntersuchung im Team 104.11 „Verkehrslenkung und Ausnahmegenehmigungen“ - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Abriss Bergische Sonne - Beauftragung NRW Urban und weitere Architekten-, Ingenieur-, Sachverständigen- und Bauleistungen - ungeändert beschlossen
+- TOP 6.2: Entwicklung des Stadion Zoo: Ausschreibung des städtischen Grundstückes Boettingerweg - geändert beschlossen
+- TOP 6.3: Carnaper Platz - Bewirtschaftung - Entgegennahme ohne Beschluss
+- TOP 6.4: Fortschreibung des Integrierten Handlungskonzeptes (IHK) in ein Integriertes Städtebauliches Entwicklungskonzept (ISEK) Innenstadt Elberfeld sowie Beschluss für Teilmaßnahmen der Gebietsförderkulisse Innenstadt Elberfeld - ungeändert beschlossen
+- TOP 6.5: Gehwegherstellung Langobardenstraße/ Zugang NBT - ungeändert beschlossen
+- TOP 6.6: Aktualisierung des Integrierten Städtebaulichen Entwicklungskonzeptes (ISEK) - Innenstadt Barmen sowie Beschluss für Teilmaßnahmen der Gebietsförderkulisse Aktive Stadt- und Ortsteilzentren: Innenstadt Barmen - ungeändert beschlossen
+- TOP 6.7: Neubau einer Sport- und Turnhalle (vier Halleneinheiten) auf dem städtischen Grundstück Nevigeser Str. - ungeändert beschlossen
+- TOP 6.8: Umbau der Hauptfeuer- und Rettungswache August-Bebel-Str. 55 / Planung von zwei Rettungswachen - ungeändert beschlossen
+- TOP 6.9: Digitalisierung von Versorgungsamtsakten - ungeändert beschlossen
+- TOP 6.10: Abgesetzt - Vorberatung nicht abgeschlossen: Fortschreibung der Raum- und Gebäudeplanung der Stadtverwaltung - abgesetzt
+- TOP 6.11: Beschlussempfehlung zum Bürgerantrag gem. § 24 Gemeindeordnung NRW - Erhalt des Arthotels mit seinen künstlerisch ausgestalteten Räumen - Entgegennahme ohne Beschluss
+- TOP 6.12: Gebühren für Außengastronomie senken! - geändert beschlossen
+- TOP 6.13: Annahme einer Schenkung von Kunstwerken - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Finco-Berichte zum 30.06. sowie zum 31.07.2019 - Entgegennahme ohne Beschluss
+- TOP 8.2: Finco-Bericht zum 31.08.2019 - Entgegennahme ohne Beschluss
+- TOP 8.3: Stand der Schulden und Kassenkredite zum 30.06.2019 - Entgegennahme ohne Beschluss
+- TOP 8.4: Bericht zur Beschlussfassung der BV Langerfeld-Beyenburg zum Haushalt 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 8.5: Bericht zur Beschlussfassung der BV Barmen zum Haushalt 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Einführung eines wirkungsorientierten Haushaltes bei der Stadt Wuppertal / Gendergerechte Haushaltsplanung - ungeändert beschlossen
+- TOP 9.2: Bereitstellung überplanmäßiger Mittel zur Gewährleistung der Verkehrssicherungspflicht auf Spielplätzen - ungeändert beschlossen
+- TOP 9.3: Bereitstellung überplanmäßiger Mittel zur Gewährleistung der Verkehrssicherungspflicht und Unterhaltung von Spielgeräten auf Schulhofflächen - ungeändert beschlossen
+- TOP 9.4: Genehmigung einer überplanmäßigen Ermächtigung für die Überprüfung und Sanierung von Brunnen und Denkmälern - ungeändert beschlossen
+- TOP 9.5: Sanierung der Futtermauern in der Bramdelle (Nordbahntrasse) - Genehmigung von überplanmäßigen Mitteln zur Schlussabrechnung - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Jahresabschluss des Eigenbetriebes Wasser und Abwasser (WAW) für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 12.1.1: Entlastung der Betriebsleitung des WAW für das Jahr 2018 - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
