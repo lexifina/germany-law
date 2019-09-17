@@ -44,12 +44,12 @@ Abschnitt 6 Sicherheit und Ordnung
 § 35 Grundsatz
 § 36 Verhalten der Jugendarrestanten
 § 37 Durchsuchung
-§ 38 Erkennungsdienstliche Maßnahmen
-§ 39 Videoüberwachung
+§ 38 (weggefallen)
+§ 39 (weggefallen)
 § 40 Maßnahmen zur Feststellung von Suchtmitteln
 § 41 Besondere Sicherungsmaßnahmen und Fesselung
 § 42 Anordnung besonderer Sicherungsmaßnahmen und Verfahren
-§ 43 Einsatz optisch-technischer Hilfsmittel zur Beobachtung
+§ 43 (weggefallen)
 Abschnitt 7 Unmittelbarer Zwang
 § 44 Begriffsbestimmung
 § 45 Allgemeine Voraussetzungen
@@ -65,9 +65,9 @@ Abschnitt 2 Vollzug in freien Formen
 Teil 4 Aufhebung von Maßnahmen und Beschwerde
 § 51 Aufhebung von Maßnahmen
 § 52 Beschwerderecht
-Teil 5 Kriminologische Forschung, Aktenführung und Datenschutz
+Teil 5 Kriminologische Forschung
 § 53 Evaluation und Kriminologische Forschung
-§ 54 Entsprechende Anwendung des Sächsischen Jugendstrafvollzugsgesetzes
+§ 54 (weggefallen)
 Teil 6 Organisation, Vollstreckungsplan und Vollzugsgemeinschaft
 § 55 Trennungsgrundsatz, Aufsichtsbehörde und Ausstattung
 § 56 Festsetzung der Belegungsfähigkeit und Überbelegungsverbot
