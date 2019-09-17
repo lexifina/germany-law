@@ -1,0 +1,75 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-17T17:00:00+02:00
+- Ende: 2019-09-17T19:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18605
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18605
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 17.09.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355877.pdf
+- Ergebnisprotokoll: NachtragsTO 17.09.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355877.pdf
+- Wortprotokoll: NachtragsTO 17.09.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355877.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt Ersatzneubau Lore-Lorentz-Schule, Schlossallee 14 - Empfehlung einstimmig beschlossen
+- TOP 5: Weiterentwicklung der Offenen Ganztagsschule im Primarbereich - Empfehlung einstimmig beschlossen
+- TOP 6: Bebauungsplan Nr. 08/005 - Jägerstraße / Festenbergstraße, Aufstellungsbeschluss - Empfehlung mehrheitlich beschlossen
+- TOP 7: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - vertagt
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Weihnachtsmarkt in Unterbach - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2019 - einstimmig beschlossen
+- TOP 12: Gedenkstätte im Eller Forst - beantwortet
+- TOP 13: Dauerbaustelle Gubener Straße/Neusalzer Straße - beantwortet
+- TOP 14: Vennhauser Allee 222 Instandsetzung - beantwortet
+- TOP 15: Pflege- und Wohnungsangebote für ältere Menschen - zurückgestellt
+- TOP 16: Vorstellung des Ergebnisses der Konferenz "Alter und Pflege" - beantwortet
+- TOP 17: Barrierefreier Haltestellenausbau - beantwortet
+- TOP 18: Kanalbau- und Gewässermaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 19: Mobilstationen und Sharing-Anbieter im Stadtbezirk 8 - zurückgestellt
+- TOP 20: Radwege-Maßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 21: Hitze- und Dürreschäden im Stadtbezirk 8 - zurückgestellt
+- TOP 22: Bürgersteig Erlenkamp - einstimmig beschlossen
+- TOP 23: Tempo 30 auf der Gerresheimer Landstraße - mehrheitlich beschlossen
+- TOP 24: Einmündungsbereich Am Strasserfeld/Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 25: Maßnahmen gegen Befahren des südöstlichen Gertrudisplatzes - einstimmig beschlossen
+- TOP 26: Fußgänger-/Radfahrer-Sicherheit Karl-Geusen-Straße - einstimmig beschlossen
+- TOP 27: Schließung der Stadt-Sparkasse Lierenfeld - einstimmig beschlossen
+- TOP 28: Kleingartenanlage Vennhauser Allee 73 - Bänke - einstimmig beschlossen
+- TOP 29: Busverkehr zum Unterbacher See - Strandbad Süd - einstimmig beschlossen
+- TOP 30: Parkplatz Anhalter Straße/Klein-Eller - einstimmig beschlossen
+- TOP 31: Parkplatz Vennhauser Allee / Krippstraße - einstimmig beschlossen
+- TOP 32: Wir in Eller-Gemeinsam gegen Hass, Rassismus, Demokratiefeindlichkeit und Menschenverachtung - mehrheitlich beschlossen
+- TOP 33: Fahrradbügel Gumbertstraße - einstimmig beschlossen
+- TOP 34: Fahrrad-Schutzstreifen Karlsruher Straße - einstimmig beschlossen
+- TOP 35: Beflaggung Rathaus Eller - einstimmig beschlossen
+- TOP 36: Spielgeräte auf dem Breidenplatz - zur Kenntnis genommen
+- TOP 37: Bolzplatz Eller Kamp - zur Kenntnis genommen
+- TOP 38: Kamper Weg - neu eingerichtete Parkstände - zur Kenntnis genommen
+- TOP 39: Wilhelm-Heinrich-Weg / An der Schützenwiese - Beschilderung - zur Kenntnis genommen
+- TOP 40: Baumfällungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Radweg Vennhauser Allee - zur Kenntnis genommen
+- TOP 42: Taubenschlag Parkplatz Eller Mitte - zur Kenntnis genommen
+- TOP 43: Schulen gegen Rassismus - Schule mit Courage - zur Kenntnis genommen
+- TOP 44: Leih-Fahrräder/Stellplätze im Zentrum Eller - zur Kenntnis genommen
+- TOP 45: Reichenbacher Weg / Eller Kamp - zur Kenntnis genommen
+- TOP 46: Radständer Vennhauser Allee 208 - zur Kenntnis genommen
+- TOP 47: Verlagerung der Kinder- und Jugendfreizeiteinrichtung Kuthsweg 43 an den Standort Gatherweg 109 – Aktueller Stand - zur Kenntnis genommen
+- TOP 48: Eddy-Abstellplatz Ellerkirchstraße - zur Kenntnis genommen
+- TOP 49: Vorgartensatzung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Verkehrsversuch Vennhauser Allee - zur Kenntnis genommen
+- TOP 51: Verkehrssituation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 52: Veränderung von LZA-Schaltungen - zur Kenntnis genommen
+- TOP 53: Kanalbau- und Gewässermaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 54: Radwege-Maßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 55: Vorstellung des Ergebnisses der Konferenz Alter und Pflege - zur Kenntnis genommen
+- TOP 56: Barrierefreier Haltestellenausbau in Eller - zur Kenntnis genommen
+- TOP 57: Verkehrsverlagerungen in den Stadtbezirk 8 durch die sogenannte Umweltspur - zur Kenntnis genommen
+- TOP 58: Trägerwechsel Jugendzentrum Eller - zur Kenntnis genommen
