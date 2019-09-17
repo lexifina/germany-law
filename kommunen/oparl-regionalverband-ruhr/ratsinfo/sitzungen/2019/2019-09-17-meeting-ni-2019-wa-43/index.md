@@ -1,0 +1,64 @@
+# 23. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2019-09-17T10:05:00+02:00
+- Ende: 2019-09-17T12:05:00+02:00
+- Ort: Sitzungszimmer 102, Kronprinzenstr. 6/ erste Etage, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2019-WA-43
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2019-WA-43
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-WA-43
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2019-WA-43
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung des öffentlichen Teils der Niederschrift der Sitzung vom 21.05.2019
+- TOP 3: Angelegenheiten der Business Metropole Ruhr GmbH
+- TOP 3.1: - Jahresabschluss zum 31.12.2018
+- TOP 3.2: Angelegenheiten der Business Metropole Ruhr GmbH - Erhöhung der Gesellschafterzuschüsse 2020 ff
+- TOP 3.3: Angelegenheiten der Business Metropole Ruhr GmbH ecce GmbH - Finanzierung 2020
+- TOP 4: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 4.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2018
+- TOP 4.2: Angelegenheiten der Ruhr Tourismus GmbH - Erhöhung der Gesellschafterzuschüsse 2020 ff
+- TOP 5: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 5.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2018
+- TOP 5.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2018
+- TOP 5.3: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2018
+- TOP 6: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr
+- TOP 6.1: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Interregionale Kooperation der Górnoslasko-Zaglebiowska Metropolia (kurz: Metropolis GZM) in Polen mit dem Regionalverband Ruhr
+- TOP 6.2: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Ausgestaltung und Vorbereitung der operationellen Programme der EU-Förderperiode 2021-2027
+- TOP 7: Angelegenheiten des Bereiches Planung
+- TOP 7.1: Inkrafttreten der Änderung des LEP NRW
+- TOP 7.2: Auf dem Weg zu einem 'Freizeit- und Tourismuskonzept Metropole Ruhr' Hier: Besetzung Fachbeirat
+- TOP 8: Angelegenheiten der Freizeitgesellschaften
+- TOP 8.1: Freizeitgesellschaft Metropole Ruhr mbH
+- TOP 8.1.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH (FMR) - Darlegung der anstehenden Veränderungen in der regionalen Bäderlandschaft mit Auswirkungen auf die FMR
+- TOP 8.1.2: Anfrage der Fraktion Die Linke Möglichkeit der Durchführung des Schwimmunterrichts in den Freizeitgesellschaften hier: Antwort der Verwaltung
+- TOP 8.1.3: Kosten für das Parkpflegemanagement in den Freizeitgesellschaften
+- TOP 8.1.3.1: Anfrage der Fraktion Die Linke Kosten für das Parkpflegemanagement in den Freizeitgesellschaften hier: Antwort der Verwaltung
+- TOP 8.1.4: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr GmbH (FMR) - Jahresabschluss zum 31.12.2018 der FMR und ihrer Betriebsstätten
+- TOP 8.1.5: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr mbH - Bericht über die wirtschaftliche Entwicklung der Freizeitgesellschaften zum 30.06.2019 und Prognose zum 31.12.2019
+- TOP 8.1.6: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2018 der nicht in die FMR mbH integrierten Freizeitgesellschaften (Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH, Freizeitzentrum Xanten GmbH)
+- TOP 8.2: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2018
+- TOP 8.3: Angelegenheiten der Freizeitgesellschaften - Evaluierungsergebnisse für die Gesellschafterzuschüsse 2020 ff
+- TOP 8.4: Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 8.4.1: Betreibergesellschaft Silbersee II Haltern am See mbH - Information über das Bauleitverfahren
+- TOP 8.4.2: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2018
+- TOP 8.5: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2018
+- TOP 8.6: Freizeitschwerpunkt Glörtalsperre GmbH
+- TOP 8.6.1: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2018
+- TOP 8.6.2: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Übernahme der Anteile der Stadt Hagen (Stammkapitalerhöhung) / Änderung des Gesellschaftsvertrages
+- TOP 9: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2018
+- TOP 10: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2018
+- TOP 11: Angelegenheiten der TouristikEisenbahn Ruhrgebiet GmbH - Jahresabschluss zum 31.12.2018
+- TOP 12: Anträge
+- TOP 13: Anfragen und Mitteilungen
+- TOP 13.1: Arbeitskreis Bäder der Metropole Ruhr
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
