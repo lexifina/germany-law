@@ -1,0 +1,77 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-09-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147813
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147813
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Baugerüst Anwesen Landsberger Str. 51
+- TOP 4.2.: Einrichtung eines Fahrradstellplatzes vor dem Anwesen Schwanthalerstr. 123
+- TOP 4.3.: Veranstaltungsdichte im Westend
+- TOP 6.1.1.: Freischankfläche Parkstraße 25
+- TOP 6.2.1.: Bauvorhaben Gollierstr. 15
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Balkone Bergmannstr. 13; Antwortschreiben
+- TOP 6.3.3.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.4.: Meldeliste Bauvorhaben SWM
+- TOP 6.3.5.: Ausweisung des Bereiches Gollierplatz Süd als Fahrradstraße.pdf
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Einladung zum Austauschtreffen mit dem Migrationsbeirat am 04.11.2019
+- TOP 7.3.2.: Mosaik Jugendpreis - Mit Vielfalt gegen Rassismus
+- TOP 7.3.3.: Einrichtung einer Tischtennisplatte an der Linus-Pauling-Straße
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Neuregelung des Verkehrs bzw. des Anwohnerparkens während der Wiesn
+- TOP 8.1.2.: (E) Anforderungszeit für die Fußgängerampel am Bavariaring, nördlich der Bavaria, verkürzen
+- TOP 8.1.3.: Standorte Parkscheinautomaten, Gebiet Bavariapark
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Umwandlung von zwei Kfz-Stellplätzen in Fahrradabstellplätze an der Kreuzung Kazmairstr. / Ligsalzstr.
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Unterhalts- und Pflegemaßnahmen Bavariapark
+- TOP 8.3.2.: Oktoberfest 2019 - Verkehrsregelungen
+- TOP 8.3.3.: Errichtung eines städtischen Trinkwasserbrunnens am Georg-Freundorfer-Platz
+- TOP 8.3.4.: Rückbau des Radwegs in der Heimeranstraße
+- TOP 8.3.5.: Entsiegelung, Begrünung und Neugestaltung der Gehwegnasen im Kreuzungsbereich Gollierstr. / Ridlerstr.
+- TOP 8.3.6.: Umprofilierung, Begrünung und Verkehrsberuhigung der Landsberger Straße zwischen Trappentreustraße und Grasserstraße
+- TOP 8.3.7.: Anwortschreiben; Ruhebank Georg-Freundorfer-Platz und Bepflanzung Zirkuswiese
+- TOP 8.3.8.: Feuerwerksanzeige zur Eröffnung des Oktoberfests am 21.09.19
+- TOP 8.3.9.: Begrünung der Ligsalzstraße
+- TOP 8.3.10.: Nächtliche Fassadenbeleuchtung
+- TOP 8.3.11.: Verlängerung des baulichen Radwegs in der Barthstraße bis zur Landsberger Straße
+- TOP 8.3.12.: Versammlung Geroltstr. 30a am 17.09.2019
+- TOP 8.3.13.: Abbau und Verabschiedung der Parklets aus dem Westend am 19.09.2019
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: (E) Stadtbezirksbudget HIDALGO e.V. Veranstaltung "Street Art Song" (Kunstlied-Festival) am 14.09.2019 1.000,00€, Az. 0262.0-8-0196
+- TOP 9.1.2.: (E) Stadtbezirksbudget Strandkorb. Laden für neue Perspektiven. Konzert „Three Cool Cats“ am 14.11.2019 488,00€, Az. 0262.0-8-0197
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 11.1.: (E) Keine polizeiliche Videoüberwachung im Stadtviertel im Zuge des PAG
+- TOP 11.2.: Anhörung über Grundstücksgeschäfte der Landeshauptstadt München; Änderung BA-Satzung
+- TOP 11.3.: Wiesntermin am 04.10.2019
+- TOP 11.4.: Bildung der Münchner-BAs für die Amstperiode 2020-2026
+- TOP 11.5.: BA-Sitzungskalender 2020
+- TOP 11.6.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt"
+- TOP 11.7.: Kommunalwahl 2020; Informationsveranstaltung Wahlvorschläge aufstellen und einreichen am 22. und 24.10.2019
