@@ -13,7 +13,8 @@ Präambel
 § 11 Wissenschaftlicher Beirat
 § 12 Beschäftigte der Stiftung
 § 13 Haushalt
-§ 13a Satzungsermächtigung
+§ 13a Verarbeitung personenbezogener Daten
+§ 13b Satzungsermächtigung
 § 14 Rechtsaufsicht
 § 15 Prüfungsrechte
 § 16 Aufhebung der Stiftung
