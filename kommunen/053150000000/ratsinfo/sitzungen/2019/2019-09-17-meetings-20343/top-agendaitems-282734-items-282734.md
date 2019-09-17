@@ -1,0 +1,7 @@
+# TOP -: Präsentation über Entwicklungen und Sachstand im Förderbereich „Frühe Hilfen“
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2019-09-17)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/282734
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/134945
