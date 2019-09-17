@@ -50,16 +50,14 @@ Teil 7 Sicherheit und Ordnung
 § 42 Grundsatz
 § 43 Verhaltensvorschriften
 § 44 Durchsuchung
-§ 45 Erkennungsdienstliche Maßnahmen, Lichtbildausweise
-§ 46 Videoüberwachung
+§ 45 (aufgehoben)
+§ 46 (aufgehoben)
 § 47 Maßnahmen zur Feststellung von Suchtmittelgebrauch
-§ 47a Auslesen von Datenspeichern
 § 48 Festnahmerecht
 § 49 Besondere Sicherungsmaßnahmen
 § 50 (aufgehoben)
 § 51 (aufgehoben)
 § 52 Anordnung besonderer Sicherungsmaßnahmen, Verfahren
-§ 52a Einsatz optisch-technischer Hilfsmittel zur Beobachtung
 § 53 Ärztliche Überwachung
 Teil 8 Unmittelbarer Zwang
 § 54 Begriffsbestimmungen
@@ -101,9 +99,8 @@ Teil 13 Aufsicht, Beirat
 § 85 Aufsichtsbehörde
 § 86 Vollstreckungsplan
 § 87 Beirat
-Teil 14 Datenschutz, Kriminologische Forschung
-§ 88 Datenschutz
-§ 88a Kriminologische Forschung
+Teil 14 Kriminologische Forschung
+§ 88 Kriminologische Forschung
 Teil 15 Schlussbestimmungen
 § 89 Einschränkung von Grundrechten
 § 90 Verhältnis zum Bundesrecht
