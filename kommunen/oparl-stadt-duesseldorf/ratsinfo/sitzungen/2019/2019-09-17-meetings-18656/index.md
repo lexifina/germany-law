@@ -1,0 +1,52 @@
+# Bezirksvertretung 3
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-17T17:00:00+02:00
+- Ende: 2019-09-17T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/34
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18656
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18656
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357977.pdf
+- Ergebnisprotokoll: Sitzungspaket ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357977.pdf
+- Wortprotokoll: Sitzungspaket ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357977.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften 6/2019 und 7/2019 vom 13.06.2019 und 02.07.2019 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 4: "Sachstandsbericht Fahrradabstellanlagen" für die Stadtbezirke 1-10 - zur Kenntnis genommen
+- TOP 5: Chrom- und CKW-Grundwasserverunreinigung Bilk / Unterbilk – Sachstand zur Grundwassersanierung und zum Schadensfall an der Sanierungsanlage Martinstraße am 10. Juni 2019 - zur Kenntnis genommen
+- TOP 6: FNP-Verfahren Nr. 192 - Östlich Völklinger Straße - - einstimmig beschlossen
+- TOP 7: Ergebnis des Wettbewerbs Halbinsel Kesselstraße - mehrheitlich beschlossen
+- TOP 7.1: Flächennutzungsplan-Änderung Nr. 193 - mehrheitlich beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Herzogstraße 79; Beseitigung des Gebäudes im Hinterhof - einstimmig beschlossen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Anregungen und Beschwerden aus der Bürgerschaft
+- TOP -: Anfragen
+- TOP 18: Lärmreduzierung auf der Bilker Allee - vertagt
+- TOP 19: Moorenplatz-Rechtsabbieger Richtung Wersten - vertagt
+- TOP 20: Kontrollen auf der Umweltspur Merowingerstraße - zur Kenntnis genommen
+- TOP 21: Sichere Überwege für Kinder im Stadtteil Bilk - vertagt
+- TOP 22: Bachstraße; Ampelanlagen - vertagt
+- TOP 23: Möglichkeiten der Erhaltung bestehender sozialer Infrastruktur und Kreativräumen beim städtebaulichen Wettbewerbsverfahren ‚Südlich Auf’m Tetelberg’ - zur Kenntnis genommen
+- TOP -: Anträge
+- TOP 24: Fahrradständer auf der Brunnenstraße - abweichend beschlossen
+- TOP 25: öffentlicher Trinkbrunnen am Zeitfeld/Volksgarten - vertagt
+- TOP -: Sonstige Verwaltungsvorlagen
+- TOP 26: Beschlusskontrolle 2019/ 1. Halbjahr - zur Kenntnis genommen
+- TOP 27: Zuschuss an den Düsseldorfer Segler Verein e.V. - einstimmig beschlossen
+- TOP 28: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - vertagt
+- TOP 29: Mitteilungen des Bezirksbürgermeisters - zur Kenntnis genommen
+- TOP 29.1: Abbau der Schaukel auf dem Lessingplatz - einstimmig beschlossen
