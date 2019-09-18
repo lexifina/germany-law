@@ -1,0 +1,53 @@
+# Rat (62. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2019-09-18T18:00:00+02:00
+- Ende: 2019-09-18T23:17:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbbwsNmoVFPMPH1OLZoBxkU
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4168
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWrQ-LmBOEsCDYJQN25Lw7KKGUM4rA-RfIqXzas5BPiu/Bekanntmachung_Rat_18.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS_nQyqBmmRvhNzdM8_Eg30nlgB59z2KxaprIb9NSlmA/Oeffentliche_Niederschrift_Rat_18.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 26.06.2019
+- TOP 4.: Niederschrift vom 10.07.2019
+- TOP 5.: Anträge der Fraktionen
+- TOP 5.1: Anwendung des § 108 des Gesetzes gegen Wettbewerbsbeschränkungen (GWB) bei kommunalen Tochtergesellschaften der Stadt Gronau; Antrag der FDP-Fraktion vom 03.09.2019 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Einwohnerantrag gem. § 25 Gemeindeordnung NRW - Einstimmig, 1 Enthaltungen
+- TOP 7.: Budgetbericht für das II. Quartal 2019 - Ohne Abstimmung
+- TOP 8.: „Heimat.Zukunft.Nordrhein-Westfalen. Wir fördern, was Menschen verbindet.“; Auslobung des „Heimatpreises“ für die Jahre 2019 - 2022 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Antrag auf Aufstellung eines Bebauungsplans im Bereich Weiße Dame 103. Änderung des Flächennutzungsplans Bereich „Weiße Dame“, Stadtteil Gronau Bebauungsplan Nr. 192 "An der Weißen Dame", Stadtteil Gronau Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 10.: Bebauungsplan Nr. 185 "Eisenbahnweg", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 11.: 102. Änderung des Flächennutzungsplans Bebauungsplan Nr. 190 "Markenfort" 1. Aufstellungsbeschluss - 31 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 189 "Östlich der Hindenburgstraße" (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 32 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Bebauungsplan Nr. 191 "Südlich der Steinstraße" (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - 32 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 60-I 2. Änderung "Schwartenkamp", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss - Ohne Abstimmung
+- TOP 15.: Bebauungsplan Nr. 193 "Am Blütenhain", Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. §13a BauGB) Aufstellungsbeschluss - Ohne Abstimmung
+- TOP 16.: Bebauungsplan Nr. 181 "Südliche Innenstadt", Stadtteil Gronau Erweiterung des Aufstellungsbeschlusses - 21 Jastimmen, 12 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 18.: Terminplanung für das 4. Quartal 2019 - Ohne Abstimmung
+- TOP 19.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 20.: Mitteilungen der Verwaltung
+- TOP 20.1: Umsetzung des Ratsbeschlusses zu den Transparenzrichtlinien für die Stadt Gronau und ihre Tochtergesellschaften - Ohne Abstimmung
+- TOP 21.: Umgestaltung Radstation zur Mobilitätsstation - Einstimmig, 0 Enthaltungen
+- TOP 21.1: Anfragen
+- TOP 21.1.1: Fragen im Kontext der Schadstoffuntersuchung der ehemaligen Sophie-Scholl-Schule (RM U. Doetkotte)
+- TOP 21.1.2: Persönliche Erklärungen zum Abstimmungsverhalten einzelner Personen oder Fraktionen im Rat zulässig? (RM Gabbe)
+- TOP 21.1.3: Teilnahme des Bürgermeisters an der kommenden Fridays-for-Future-Veranstaltung? (RM Buchholz)
+- TOP 21.1.4: Einbindung von Prof. Gregor Luthe bei der Vorbereitung einer Informationsveranstaltung zur Schadstoffsanierung an Schulen (RM Ricking)
+- TOP 21.1.5: Verlinkung zu der Ombudschaft Jugendhilfe NRW auf der Internetseite des Jugendamtes vermisst (RM Speer)
+- TOP 21.1.6: Mehr Distanz zwischen Schulpavillions und Schuttcontainer an der ehemaligen Sophie-Scholl-Schule (RM Krefter)
+- TOP 21.1.7: Vorstellung der Radwege-Baumaßnahmen 2019 gewünscht (RM Krause)
+- TOP 21.1.8: Warum keine Ausschreibung der Machbarkeitsstudie "Mobilitätsplanung" (RM Krause)
+- TOP 21.1.9: Sind Werbeanlagen im Stadtgebiet alle genehmigt? (RM Böcker)
+- TOP 21.1.10: Ausgleichsflächen für versiegelte Parkplatzflächen schaffen (RM Strestik)
+- TOP 21.1.11: Reinigung der Sperrgut-Abstellflächen durch die ZBU möglich? (RM Buchholz)
+- TOP 21.1.12: Linksabbiegespur für Fahrradfahrer auf der Laubstiege zur Eper Straße möglich? (RM Buchholz)
