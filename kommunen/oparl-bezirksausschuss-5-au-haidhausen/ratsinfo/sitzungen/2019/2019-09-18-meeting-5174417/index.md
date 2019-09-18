@@ -1,0 +1,213 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-09-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174417
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174417
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 0.: Vorstellungen im Unterausschuss
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Anträge zur 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt 3: 1) Durchführung einer außerordentlichen Bürgerversammlung der Stadtbezirke Au-Haidhausen und Berg am Laim 2) Durchführung der Genehmigung des Planfeststellungsabschnitt 3 entsprechend dem gesetzlich vorgeschriebenen Genehmigungsverfahren 3) Ungültigerklärung der Station unter dem Orleansplatz im Rahmen des neuen Genehmigungsverfahrens 4) Erneute Prüfung des Erhalts des Schutzes vom Natur und Landschaft in den Maximiliansanlagen während der Baumaßnahmen 5) Nutzungsänderung der Autoverladung und der Nachtzüge am Ostbahnhof erst nach Ausweisung eines alternativen Standorts
+- TOP 5.1.: Fangampel am Genoveva-Schauer-Platz
+- TOP 5.2.: Bäume pflanzen in der Oberen Au
+- TOP 5.3.: Busch- und Baumrückschnitte in der Brutzeit
+- TOP 5.4.: Dächer mit Photovoltaik-Anlagen nachrüsten
+- TOP 5.5.: Abriss des historischen "Schutzengelhauses" auf dem Gelände des Kirchlichen Zentrums ?
+- TOP 5.6.: Keine Mülltonnenaufstellung am Wiener Platz beim ehemaligen "Huterer"
+- TOP 5.7.: Pflaster am Genoveva-Schauer-Platz bearbeiten
+- TOP 5.8.: Keine Einzäunung des Maxwerks, sondern endlich Sanierung der Fassade und Entfernung der Graffiti !
+- TOP 5.9.: Einrichtung eines Graffiti-Teams in der Landeshauptstadt München
+- TOP 5.10.: Rückbau des baulich getrennten Restradweges in der Orleansstraße
+- TOP 6.1.1.: (E) Stadtbezirksbudget Init. "On the radio" Fotoausstellung "On the radio" vom 21.02. - 08.03.2020 1.228,25 € / Az. 0262.0-5-0256 - siehe auch UA Kultur -
+- TOP 6.1.2.: (E) Stadtbezirksbudget HIDALGO e.V. Veranstaltung "Street Art Song" am 14.09.2019 1.000,00 Euro, Az.: 0262.0-5-0254 - siehe auch UA Kultur -
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative "Gedenkveranstaltung" Lesung zum 80. Jahrestag des Attentats im Bürgerbräukeller 720,00 Euro, Az.: 0262.0-5-0258 - siehe auch UA Kultur -
+- TOP 6.1.4.: (E) Stadtbezirksbudget kairosis gUG Partizipatives Theater vom 01.10.19 - 31.07.20 2.500,00 € / Az. 0262.0-5-0253 - siehe auch UA Kultur -
+- TOP 6.1.5.: (E) Stadtbezirksbudget Cantare Udo-Kim e.V. Konzert am 17.10.2019 555,00 € / Az. 0262.0-5-0252 - siehe auch UA Kultur -
+- TOP 6.1.6.: (E) Stadtbezirksbudget Erziehungshilfezentrum Adelgundenheim Anschaffung von Haushaltsgegenständen für betreute Jugendliche 500,00 Euro, Az.: 0262.0-5-0255 - siehe auch UA Soziales -
+- TOP 6.1.7.: (E) Stadtbezirksbudget Kath. Jugendfürsorge der Erzdiözese München und Freising e.V. , Erziehungshilfezentrum Adelgundenheim Ausstattung der Wohn-/Gruppenräume 3.350,00 € / Az. 0262.0-5-0259 - siehe auch UA Soziales -
+- TOP 6.1.8.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 05.12.2019 - 02.01.2020 4.454,60 € / Az. 0262.0-5-0260 - siehe auch UA Kultur -
+- TOP 6.1.9.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Oefelestraße - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 6.1.10.: (E) Stadtbezirksbudget KIM-Kino im Einstein e.V. Filmprojekt "Zeitreise Haidhausen" von Oktober 2019 - Oktober 2020 3.000,00 Euro, Az.: 0262.0-5-0257 - siehe auch UA Soziales -
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Pirlo", Edlinger Platz 4 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) + (U) Ausbau des Fußgängerdurchgangs vom Johannisplatz auf die gegenüberliegende Straßenseite, Grundstück Johannisplatz 12-16
+- TOP 6.3.2.: (E) Feuerwehrzufahrtsschilder an den Einfahrten von den privaten Hauseigentümern
+- TOP 6.3.3.: (E) + (U) Kneipenstopp in der Preysingstraße, Kellerstraße und in der Steinstraße Empfehlung Nr. 14-20 / E 02481 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 26.02.2019
+- TOP 7.1.: Anhörung über Grundstücksgeschäfte der Landeshauptstadt München
+- TOP 7.2.: Straßennamenerläuterungsschilder am Schmedererweg / Anhörung zur Verlaufsänderung Schmedererweg
+- TOP 8.1.1.: Balanstraße in Gegenrichtung für den Radverkehr öffnen
+- TOP 8.1.2.: Geschwindigkeitsbegrenzung auf 30 km/h am Gebsattelberg
+- TOP 8.1.3.: Einrichtung einer Lieferzone am Michael-Huber-Weg
+- TOP 8.1.4.: Bahnbrücke Balanstraße: Bahnparallelen Radweg einplanen
+- TOP 8.1.5.: Pariser Straße: Baumallee vervollständigen
+- TOP 8.1.6.: Bestellung städtischer Leistung für das Stadtbezirksbudget Bordeauxplatz: Aufstellen von größeren, verschließbaren Mülleimern (krähensicher)
+- TOP 8.1.7.: Taststreifen Haltestelle Eduard-Schmid-Straße
+- TOP 8.1.8.: Offener Bücherschrank in Haidhausen
+- TOP 8.1.9.: Wegweisung zur Münchner Volkshochschule
+- TOP 8.1.10.: Beschleunigte Wiederinbetriebnahme der Tram von Ostbahnhof nach Ramersdorf
+- TOP 8.1.11.: Radampel an der Rosenheimer Straße unterhalb Gasteig
+- TOP 8.1.12.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 8.1.13.: Grün- und Erholungsflächen auf dem auslösenden Gelände nachweisen - keine Kompensation ermöglichen
+- TOP 8.1.14.: Verkehrserschliessung im Zuge der Neubebauung Orleansstraße / Orleanshöfe Fristverlängerung bis 30.06.2020
+- TOP 8.1.15.: Bebauungsplanverfahren Orleanshöfe: Bahnparallelen Radweg einplanen Fristverlängerung bis 30.06.2020
+- TOP 8.1.16.: Blühende Friedenswiese am Friedensengel
+- TOP 8.1.17.: Erweiterung des Bebauungsplans Nr. 2076 – Baugebiet 2 (2) ehem. Paulaner Gelände zwischen Hoch- und Regerstraße Fristverlängerung bis 31.12.2019
+- TOP 8.1.18.: Rosenheimer Straße: Messergebnisse
+- TOP 8.1.19.: Nachfrage: Fehlender Radweg in der Ohlmüllerstraße
+- TOP 8.1.20.: Geschwindigkeitskontrollen/-anzeiger in der - Elsässer Straße/Flurstraße - Hochstraße - Lilienstraße - Welfenstraße
+- TOP 8.1.21.: Aufstellung von Fahrradständern in der Aurbacherstraße (Punkt 2 des Antrags)
+- TOP 8.3.1.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 – 2026 - Anzahl der BA-Mitgliederzahlen; Unterrichtung des Direktoriums vom 14.08.2019
+- TOP 8.3.2.: Sachbeschädigung durch Schmierereien - eine Festnahme in Haidhausen Pressemitteilung Polizeipräsidium
+- TOP 8.4.1.: Infoblatt September 2019
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: (E) Stadtbezirksbudget Init. "On the radio" Fotoausstellung "On the radio" vom 21.02. - 08.03.2020 1.228,25 €
+- TOP II.2.: (E) Stadtbezirksbudget HIDALGO e.V. Veranstaltung "Street Art Song" am 14.09.2019 1.000,00 Euro
+- TOP II.3.: (E) Stadtbezirksbudget Initiative "Gedenkveranstaltung" Lesung zum 80. Jahrestag des Attentats im Bürgerbräukeller 720,00 Euro
+- TOP II.4.: (E) Stadtbezirksbudget kairosis gUG Partizipatives Theater vom 01.10.19 - 31.07.20 2.500,00 €
+- TOP II.5.: (E) Stadtbezirksbudget Cantare Udo-Kim e.V. Konzert am 17.10.2019 555,00 €
+- TOP II.6.: (E) Stadtbezirksbudget Initiative "Fotoausstellung" Fotoausstellung vom 05.12.2019 - 02.01.2020 4.454,60 € / Az. 0262.0-5-0260
+- TOP II.7.: (E) Stadtbezirksbudget KIM-Kino im Einstein e.V. Filmprojekt "Zeitreise Haidhausen" von Oktober 2019 - Oktober 2020 3.000,00 Euro, Az.: 0262.0-5-0257
+- TOP II.8.: Gedenkveranstaltung 2019 zum Jahrestag des 9. November 1938 / Mitwirkung der Bezirksausschüsse
+- TOP II.9.: Anfrage zur Kulturförderung der Theatergruppe "Brettgeflüster"
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget Erziehungshilfezentrum Adelgundenheim Anschaffung von Haushaltsgegenständen für betreute Jugendliche 500,00 Euro
+- TOP 1.2.: (E) Stadtbezirksbudget Kath. Jugendfürsorge der Erzdiözese München und Freising e.V. , Erziehungshilfezentrum Adelgundenheim Ausstattung der Wohn-/Gruppenräume 3.350,00 €
+- TOP 2.: Anhörungen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Übersicht Unterkünfte Wohnungslose und Flüchtlinge Juni 2019
+- TOP 3.2.: Sonderpädagogisches Förderzentrum wird "Schule ohne Rassismus - Schule mit Courage"
+- TOP 3.3.: Mosaik Jugendpreis - Mit Vielfalt gegen Rassismus
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung einer bestehenden Freischankfläche für die Gaststätte "Pirlo", Edlinger Platz 4
+- TOP 2.: Anhörungen
+- TOP 2.1.: Isarinselfest vom 13.-15.09.2019 Vorabzustimmung durch die BA-Vorsitzende
+- TOP 2.2.: München Marathon am 13.10.2019 und Trachtenlauf am 12.10.2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Ärger mit Lokalen am Johannisplatz Antwortschreiben Bezirksinspektion auf Bürgeranliegen
+- TOP 3.2.: Temporärer Widerruf der Freischankflächenerlaubnis des "Isardoro" in der Ismaninger Str. 48 wegen Sanierung der Trambahngleise
+- TOP 3.3.: Standorte für die Strandveranstaltung ab 2020; Auswahlverfahren für die Jahre 2020 bis 2022 => dazu: Stellungnahme BA 16 Ramersdorf-Perlach
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Neue Lokale in Haidhausen
+- TOP 4.2.: Erneut Beschwerden bezüglich dem Weinhäusl am Wiener Platz
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Max-Weber-Platz 3: Nutzungsänderung und Umbau eines Ladengeschäfts und einer Gaststätte zu einer Ladeneinheit mit Lagerfläche im Keller Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.2.: Kellerstraße 1: Verbinden eines Ladens (ehem. Bäckerei, künftig Weinhandel mit Verzehrbereich) mit dem Untergeschoss (Lagerfläche, Umkleide) mittels einer denkmalgeschützten Bestandstreppe sowie Zuordnung eines umgenutzten Raums von Abstellraum zu Büro und Müllraum zu Abstellfläche Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.3.: Sommerstraße 4: DG-Ausbau und Neuerrichtung von Gauben und Dachterrassen – TEKTUR Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.4.: Seeriederstraße 4: Nutzungsänderung – Laden zu Kindertagesbetreuung sowie Laden zu Büro Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.5.: Schweigerstraße 2: Nutzungsänderung – Bürofläche zu Flur und Büroraum (4. OG) Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.6.: Orleansplatz 13: Nutzungsänderung des ehem. Bürgerbüros zu Schulräumen der Berufsschulen Orleansstraße 46 (ohne baul. Änderung) Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.7.: Kirchenstraße 23: Zusammenlegung zweier Wohneinheiten zu einer (mit Umbau, 1. OG) Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.8.: Rosenheimer Straße 115: Umbau und Aufstockung eines Mehrfamilienhauses (ohne Änderung des Nutzungsschwerpunkts), Anbau von Balkonen Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.9.: Kellerstraße 1: Statische Änderung in der Nutzungseinheit Bäckerei mit Stehimbiss (Schließung einer Deckenöffnung und eines Wanddurchbruchs) sowie Wiederherstellung der Decke des Müllraums und Verkleinerung der Nutzungseinheit Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.10.: Breisacher Straße 5/RGB: Neubau eines Rückgebäudes als Erweiterung einer Kindertagesstätte / Kinderkrippe Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.11.: Breisacher Straße 5/RGB: Neubau eines Rückgebäudes als Erweiterung einer Kindertagesstätte / Kinderkrippe – Vollzug der Baumschutzverordnung Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.12.: Einsteinstraße 96: Abbruch Bestandsgebäude, Neubau eines Mehrfamilienhauses mit 4 Untergeschossen (1. UG: Fischmarkt; 2. UG: KG mit Nebenräumen; 3. + 4. UG: Tiefgarage) – Einsteinstraße 96 / Lucile-Grahn-Straße 23 - Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.13.: Einsteinstraße 107/RGB: Abbruch des Rückgebäudes und ortsgleicher Neubau eines Wohngebäudes Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.14.: Ohlmüllerstraße 42: Errichtung einer Unterfluraufzugsanlage als Lastenaufzug zur Müll-Entsorgung sowie Belieferung der firmeninternen Kantine Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.15.: Rosenheimer Straße 36: Nutzungsänderung und bauliche Änderung von Laden-, Wohn-, Büro-, Lagerfläche und KFZ-Werkstatt in Misch-Tonstudios – TEKTUR Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.16.: Preysingstraße 85: Neubau einer 2-zügigen Grundschule und Erweiterung der Tiefgarage im kirchlichen Zentrum – TEKTUR Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.17.: Preysingstraße 95: Neubau Seminarhaus – Kath. Stiftungsfachhochschule – TEKTUR Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 2.18.: Einsteinstr. 107: Balkonanbau und Umverlegung der Fluchtleiter
+- TOP 2.19.: Einsteinstr. 111: Nutzungsänderung Erdgeschoss, Vordergebäude: Arztpraxis zu Schneideratelier
+- TOP 2.20.: Weißenburger Str. 29: Aufbau einer Dachterrasse auf dem Seitenflügel im 1. Obergeschoss
+- TOP 2.21.: Preysingstr. 4: Anbau eines Außenaufzugs, TEKTUR
+- TOP 2.22.: Walserstr. 4: Aufteilung einer Maisonette-Dachgeschoss-Wohnung in 2 eingeschossige Wohneinheiten durch Schließen der Verbindungstreppe und Errichtung einer Ausstiegsöffnung im Giebeldreieck der Dachgaube Nordseite
+- TOP 2.23.: Kellerstr. 41, Vordergebäude: Dachgeschoss-Neubau, Anbau von Balkonen und eines Aufzugs, Dämmung der Außenwände und Neugestaltung der Fassaden, TEKTUR
+- TOP 2.24.: Claude-Lorrain-Str. 9: Umbau und Sanierung einer Wohnung mit Errichtung eines Austritts auf dem Erker
+- TOP 2.25.: Breisacher Str. 5/RGB: Neubau eines Rückgebäudes als Erweiterung einer Kindertagesstätte / Kinderkrippe
+- TOP 2.26.: Falkenstr. 21: Umbau und Erweiterung eines Wohnhauses
+- TOP 2.27.: Orleansstr. 56: Neubau eines Bürogebäudes, TEKTUR
+- TOP 2.28.: Bereitstellung von städtischen Nutzflächen für die Gemeinschaftsgärten Empfehlung Nr. 14-20 / E 02471 der Bürgerversammlung vom 21.02.2019
+- TOP 2.29.: Kegelhof 8, Nachtrag eines Freizeitheims in die Bayerische Denkmalliste
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Barrierefreie Querungen im Fuß- und Radverkehr Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 vom 20.03.2019 Antwort Baureferat auf Schreiben BA 5 vom 25.07.2019
+- TOP 3.7.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Rablstr. 43 b) Rosenheimer Str. 72 c) Pariser Str. 1
+- TOP 3.8.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 3.9.: Verlegung der bestehenden Baustellenzufahrt im Hypopark für das Bauvorhaben des Kirchlichen Zentrums Preysingstraße (Schreiben KVR) => dazu: Ausnahmegenehmigung für die Baustelleneinrichtung
+- TOP 3.10.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt", Bürgerbeteiligung in den Stadtvierteln
+- TOP 3.11.: Grütznerstr. 8, Sachstand zum Balkon Antwort Baureferat zum Schreiben BA 5 vom 06.03.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Mögliche Vorstellung des neuen Wohnquartiers an der Hochstraße am Nockherberg durch den Bauherrn
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 0.1.: Vorstellung der aktuellen Planungen zur Umgestaltung der Ludwigsbrücke durch die MVG
+- TOP 0.2.: Gespräch mit einem Vertreter des Referats für Arbeit und Wirtschaft und Vertretern von Logistikdienstleistern Lastenrad-Projekt für City-Logistik hier: Bitte um Mitteilung von geeigneten Standorten für Mikrodepots BV-Empfehlung Nr. 14-20 / E 02489 => dazu: Antrag Standorte Vertagt in der Sitzung am 17.07.2019
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Oefelestraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Nockherstr. 36: Fällung von 2 Ebereschen
+- TOP 2.2.: Maria-Theresia-Str. 13: Fällung von 2 Bäumen
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: (U) Generalinstandsetzung der beiden Ludwigsbrücken über die Isar Innere Ludwigsbrücke (BW 33/10A) Äußere Ludwigsbrücke (BW 33/10B) im 1. Stadtbezirk Altstadt - Lehel im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt im 5. Stadtbezirk Au - Haidhausen Projektkosten (Kostenobergrenze): 25.000.000 Euro (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH: 5.000.000 Euro) 1. Projektgenehmigung 2. Genehmigung zur Durchführung der Vorwegmaßnahmen 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 4. Fortschreibung des Mehrjahresinvestitionsprogrammes 2019 - 2023, Unterabschnitt 6300 "Gemeindestraßen"
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: (U) Stadt und Fluss - Rahmenplanung innerstädtischer Isarraum Sachstand und weiteres Vorgehen
+- TOP 3.5.: Fällungsgenehmigung Ismaninger Str. 22
+- TOP 3.6.: Straßenbegrünung Eggernstraße => dazu: Bürgeranliegen
+- TOP 3.7.: Gefahrenfreier Übergang Preysingstraße Ecke Wörth-/Metzgerstraße Antwort KVR zum Schreiben BA 5 vom 29.04.2019
+- TOP 3.8.: Neue Fahrradständer unter der Wittelsbacher Brücke Antwort Wasserwirtschaftsamt zum Schreiben BA 5 vom 24.06.2019
+- TOP 3.9.: Aufstellung von Elektroladestationen in der Schornstraße Antwort KVR zum Schreiben BA 5 vom 26.06.2019
+- TOP 3.10.: Prüfung des kreuzungsfreien Radwegs links der Isar Antwort Baureferat zum Schreiben BA 5 vom 13.08.2019
+- TOP 3.11.: Verkehrsberuhigung Trogerstraße - Abschnitt Perfall- und Prinzregentenstraße, Parkregelung in der Neherstraße Antwort KVR zum Schreiben BA 5 vom 29.04.2019
+- TOP 3.12.: Blitzanlage für Wörth-/Comeniusstraße Antwort Polizeipräsidium zum Schreiben BA 5 vom 25.07.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: 2. Stammstrecke mit Tunnel, besonders Planfeststellung 3, 3 A hier: Maßnahmen zur Sicherung einer vorschriftsmäßigen Planfeststellung inkl. Alternativen
+- TOP 4.2.: Kolumbusstraße: Entfernung von Schrotträdern / Errichtung von Fahrradständern
+- TOP 4.3.: Parksituation mit dem Anwohnerausweis "Franziskanerstraße"
+- TOP 4.4.: Gefahrenzone durch Radfahrer auf dem Preysingplatz => dazu: Stellungnahme Polizeipräsidium München
+- TOP 4.5.: Radfahrer auf dem Gehweg trotz Verbot
+- TOP 4.6.: Errichtung einer Geschwindigkeits-Signalanlage ("Smiley") in der Welfenstraße
+- TOP 4.7.: Parksituation rund um das Prinzregententheater
+- TOP 4.8.: Errichtung von Radstellplätzen in der Wörthstr. 32 Verweis aus der Sitzung vom 17.07.2019
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 07.10.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 07.10.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 08.10.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 09.10.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 10.10.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 16.10.2019, 19 Uhr, VHS Einsteinstr. 28 BA-Vorstand, Dienstag, 01.10.2019, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Einladung zum Austauschtreffen Bezirksausschüsse - Migrationsbeirat am 04.11.2019 um 18 Uhr
