@@ -1,0 +1,63 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-09-18T17:00:00+02:00
+- Ende: 2019-09-18T19:25:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4026
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4026
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Einführung neuer Ratsmitglieder:
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 4: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 10.07.2019 (öffentlicher Teil)
+- TOP 5: Luftreinhalteplan, Bericht der Verwaltung zum Gerichtsurteil,Dritte Fortschreibung des Luftreinhalteplans, Sofortmaßnahmen akt. Tagesordnungsanträge der GRÜNE Fraktion vom 07.08.19 und 14.08.2019 - geändert beschlossen
+- TOP 6: Erlass einer Satzung über ein besonderes Vorkaufsrecht gem. § 25 BauGB im Stadtbezirk Aachen-Mitte für den Bereich zwischen "Benediktinerstraße", "Adlerberg" und "Burtscheider Markt" - ungeändert beschlossen
+- TOP 7: Änderung Nr. 65 des Flächennutzungsplanes 1980 und Bebauungsplan Nr. 806 - Gewerbegebiet Schlottfeld II - für den Planbereich im Stadtbezirk Aachen-Laurensberg zwischen dem Gelände der Deutschen Bahn, Pariser Ring/ Toledoring, Süsterfeldstraße und dem vorhandenen Gewerbegebiethier: Änderungsbeschluss/ Satzungsbeschluss gem. §10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 8: Jahresabschluss für den Kulturbetrieb für das Jahr 2018 - ungeändert beschlossen
+- TOP 9: Öffentliche Personenverkehrsdienste auf dem Gebiet der Stadt Aachenhier: Öffentlich-rechtliche Vereinbarungen mit dem Kreis Düren und dem Kreis Euskirchen - ungeändert beschlossen
+- TOP 10: Veränderung des Stellenplanes 2019:
+- TOP 10.1: Veränderung des Stellenplans 2019Einrichtung einer vollen Stelle zur technischen Sachbearbeitung im Bereich der Umweltvorsorgeplanung und Umweltberichte des Fachbereichs Umwelt (FB 36) - ungeändert beschlossen
+- TOP 10.2: Veränderung des Stellenplans 2019Einrichtung einer vollen Stelle zur technischen Sachbearbeitung im Bereich Klimaschutz, Luftreinhaltung und Lärmschutz des Fachbereichs Umwelt (FB 36) - ungeändert beschlossen
+- TOP 10.3: Veränderung des Stellenplans 2019Befristete Einrichtung einer vollen Stelle im Fachbereich Wohnen, Soziales und Integration, Abteilung „Integration“ (FB 56/600) für das Aufgabengebiet „Wegweiser Online“ im Rahmen des Präventionsprogramms „Wegweiser – gemeinsam gegen gewaltbereiten Salafismus“. - ungeändert beschlossen
+- TOP 11: Betrauung der Kur- und Badegesellschaft mbH, hier: Zuwendungsbescheid - ungeändert beschlossen
+- TOP 12: Benehmensherstellung für die Regionsumlage 2020 - ungeändert beschlossen
+- TOP 13: SchenkungenSchenkung "Sammlung Dolfen" an das Centre CharlemagneSchenkung der Galerie Karl Pfefferle "Kuss mit Zungenschlag" an das Ludwig Forum für Internationale KunstSchenkung Galerist Heiner Bastian, Konvolut von 32 Werken von insgesamt 18 Künstlern an das Ludwig Forum für Internationale Kunst - ungeändert beschlossen
+- TOP 14: Ratsantrag Nr. 484/17 der Allianz für Aachen „Optimierung der Parkführung durch Ultraschall-Einzelplatzanzeige in Parkhäusern der APAG.“ - ungeändert beschlossen
+- TOP 15: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen:
+- TOP 15.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen hier: Überplanmäßige Mittelbereitstellung für den Ersatzneubau Brücke Friedhof Hüls - ungeändert beschlossen
+- TOP 15.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen hier: Überplanmäßige Mittelbereitstellung für die Maßnahme Napoleonsberg - ungeändert beschlossen
+- TOP 15.3: Über- und außerplanmäßige Aufwendungen/ Auszahlungen/ Verpflichtungsermächtigungenhier: Überplanmäßige Mittelbereitstellung für den Umbau der Nebenanlagen Trierer Straße - ungeändert beschlossen
+- TOP 16: Benennung von Ratsmitgliedern zur Teilnahme an der 14. Konferenz der Ratsmitglieder im Städtetag NRW am 11.12.2019 in Köln - geändert beschlossen
+- TOP 17: Anfragen:
+- TOP 17.1: Ratsanfragen - ungeändert beschlossen
+- TOP 17.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 18: Ratsanträge - geändert beschlossen
+- TOP 19: Umbesetzung in Ausschüssen und anderen Gremien:
+- TOP 19.1: Umbesetzung in der Verbandsversammlung des WVER - ungeändert beschlossen
+- TOP 19.2: Umbesetzungsantrag der PIRATEN-Fraktion vom 12.09.2019 - ungeändert beschlossen
+- TOP 19.3: Umbesetzungsantrag der FDP-Fraktion vom 16.09.2019 - ungeändert beschlossen
+- TOP 19.4: Umbesetzungsantrag der SPD-Fraktion vom 17.09.2019 - ungeändert beschlossen
+- TOP 19.5: Umbesetzungsantrag der CDU-Fraktion vom 17.09.2019 - ungeändert beschlossen
+- TOP 20: Mitteilungen der Verwaltung
+- TOP 21: Unterzeichnung des ICAN-Appells für eine atomwaffenfreie Welthier: Tagesordnungsantrag der Fraktion DIE LINKE vom 03.09.2019 - vertagt
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW- Sanierung und Erweiterung der Umkleide- und Duschräume sowie den Neubau eines Jugend- und Schulungsraums auf dem Josef-Glockner-Stadion Aachen-Hörn - ungeändert beschlossen
+- TOP 23: Leitbild für die Waldbewirtschaftung der Stadt Aachen - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
