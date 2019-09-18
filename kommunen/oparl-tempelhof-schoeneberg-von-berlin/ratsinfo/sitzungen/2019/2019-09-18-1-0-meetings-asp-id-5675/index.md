@@ -1,0 +1,117 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-09-18T17:00:00+02:00
+- Ende: 2019-09-18T21:15:00+02:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5675
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5675
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=339414
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - erledigt
+- TOP 3: Vorlagen des Vorstehers - erledigt
+- TOP 3.1: Unerledigte Beschlüsse der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XX. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.2: Unerledigte Beschlüsse der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin in der XIX. Wahlperiode - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.3: Sitzungstermine sowie Ferienzeit der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin für das Jahr 2020 - vertagt
+- TOP 3.4: Antrag auf Einwohnerversammlung gem. § 42 BezVG zum Thema: "Durchgangsverkehr in der Gartenstadt" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: Kinder- und Jugendparlament - erledigt
+- TOP 4.1: Ehrengrab für den ehemaligen Oberbürgermeister Adolf Wermuth - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Reparatur der Rathausuhr am Breslauer Platz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Protokollgenehmigung - ohne Änderungen in der BVV beschlossen
+- TOP 6: Unerledigte Drucksachen - ohne Änderungen in der BVV beschlossen
+- TOP 6.1: Unüberwindbare Hürden für autonome Kleinbusse nur in unserem Bezirk? - beantwortet
+- TOP 6.2: Raserei und illegale Autorennen – Täter feststellen und bestrafen - überwiesen
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: Gelände der ehemaligen Kohlenhandlung Bruno Meyer Nachfahren – Außer Spesen nix gewesen? - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - erledigt
+- TOP 10: Anträge - erledigt
+- TOP 10.1: Mittel für Fachkräfte zur psychiatrischen Versorgung von geflüchteten Menschen weiter sicherstellen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Öffnungszeiten der Bürgerämter ausweiten, um mehr Personal unterbringen und mehr Kundentermine anbieten zu können - überwiesen
+- TOP 10.3: Deckel drauf: Aber richtig! - in der BVV abgelehnt
+- TOP 10.4: Sportanlagen & Kunstrasen gemeinsam mit Vereinen sportlich fair & ökologisch optimieren - überwiesen
+- TOP 10.5: Poller auf Gehwegen vor folgenden Häusern beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Lichtenrader Graben als Aufenthaltsort und als Wegeverbindung ertüchtigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bessere Sichtbarmachung der Skulptur der Arc de 124,5° - an der Urania mit Bürger*innen öffentlich diskutieren - überwiesen
+- TOP 10.8: Lichtenrader Wochenmarkt erhalten - neuen Standort finden - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Polizei wieder als Träger öffentlicher Belange bei Bebauungsplanverfahren einsetzen - überwiesen
+- TOP 10.10: Entwicklungs- und Pflegeplan auf dem Tempelhofer Feld (Seite Tempelhof) umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Beschlussempfehlungen der Sitzung des Ausschusses für Bibliotheken, Bildung und Kultur vom 05.09.2019 an den Hauptausschuss nachvollziehbar umsetzen - in der BVV zurückgezogen
+- TOP 10.12: Flagge zeigen gegen Mobbing - überwiesen
+- TOP 10.13: Verkehrssicherheit in der Handjerystraße Ecke Schmiljanstraße erhöhen - überwiesen
+- TOP 10.14: Freifläche vor dem Feld-Theater kulturell nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Neue Mitte Tempelhof – Quartiersgaragen für den ruhenden Verkehr - überwiesen
+- TOP 10.16: Tierschutz in Tempelhof-Schöneberg stärken - in der BVV zurückgezogen
+- TOP 10.17: Fahrradbügel am Platz der Luftbrücke - überwiesen
+- TOP 10.18: Strategie für sauberes Straßenland entwickeln - überwiesen
+- TOP 10.19: Für mehr Freude: öffentliches Klavier am Südkreuz - in der BVV abgelehnt
+- TOP 10.20: Task Force gegen sogenannte Clankriminalität in Tempelhof-Schöneberg einrichten - überwiesen
+- TOP 10.21: Umgestaltung des Kleistparks öffentlich diskutieren - überwiesen
+- TOP 10.22: Mehr Sicherheit in unseren Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Kontrollen im Rudolf-Wilde-Park - überwiesen
+- TOP 10.24: Mit Sport & Spaß fürs Klima: Strampeln für den Strom - in der BVV abgelehnt
+- TOP 10.25: Nachnutzung altes Pumpwerk Lichtenrade - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Gute Nachbarschaft mit Sony Music entwickeln - vertagt
+- TOP 10.27: Mehr Sicherheit bei Neubauvorhaben - überwiesen
+- TOP 10.28: Veranstaltung zu 100 Jahre Groß-Berlin-Gesetz - überwiesen
+- TOP 10.29: Tag des Sports nutzen - Sportgespräch etablieren - überwiesen
+- TOP 10.30: Seniorenspielgeräte in der Grünanlage Fuggerstraße / Eisenacher Straße - überwiesen
+- TOP 10.31: Historische Lichtenrader Postagentur (1893-1904) in Alt-Lichtenrade vor dem Verfall schützen - überwiesen
+- TOP 10.32: Sport & Natur zusammendenken - in der BVV abgelehnt
+- TOP 10.33: Lichtsignalanlage Tempelhofer Damm / Peter-Strasser-Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.34: Geschwindigkeit zählt beim Wettlauf um EU-Gelder – Beteiligung Tempelhof-Schönebergs an WiFi4EU-Ausschreibung der EU-Kommission - überwiesen
+- TOP 10.35: Klimawandel bekämpfen mit dem Zero-Emissions-Stadion - in der BVV abgelehnt
+- TOP 10.36: Ungestörtes Weihnachtssingen - überwiesen
+- TOP 10.37: Tag der Menschen mit Behinderung nutzen, um sichtbar zu machen, wie behindert wird - überwiesen
+- TOP 10.38: Mitmachen beim Vorlesetag „Sport und Bewegung“ am 15.11.19 - überwiesen
+- TOP 10.39: FALLS DRINGLICHKEIT GEGEBEN: Zusagen an die BVV erfüllen, Kleingartenkolonie Zähringer Korso ohne zeitliche Begrenzung mit den Schutzstufen 1 bzw. 2 dauerhaft sichern - in der BVV zurückgezogen
+- TOP 11: übrige Große Anfragen - erledigt
+- TOP 12: Beschlussempfehlungen - erledigt
+- TOP 12.1: Sichtbarmachen der deutschen Kolonialgeschichte anhand von historischen Spuren im Bezirk Tempelhof-Schöneberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Parkplätze von Supermärkten öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Förderpreis für Frauen- und Mädchensport wieder vergeben - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bessere Unterstützung von Leistungsempfänger_innen mit psychosozialer Problematik durch das Jobcenter - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Abwendung von Stromsperren bei Sozialleistungs-Empfänger_innen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Familienfreundliche Arbeitszeitmodelle auch für Reinigungsdienstleistungen schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Unterkunft für obdachlose LGBTTIQ schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Frauenbeirat in Tempelhof-Schöneberg gründen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Von Gewalt betroffene LGBTTIQ besser über Hilfsangebote informieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Radwege auf der Langenscheidtstraße baulich gegen Falschparker sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Wissen über Stadtbäume mehren – Infoschilder anbringen und Baumkataster öffentlich zugänglich machen - im Ausschuss abgelehnt
+- TOP 12.12: Schulprojekte über erneuerbare Energien unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Städtepartnerschaft London Borough of Barnet und Bezirk Tempelhof-Schöneberg durch Schulen ausbauen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Keine Mietschulden-Schufa-Einträge durch die Städtischen Wohnungsbaugesellschaften - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Schulhöfe für den Kiez öffnen - neue (Spiel-)Räume für den Sport in Tempelhof–Schöneberg schaffen - in der BVV abgelehnt
+- TOP 12.16: Dem Klimawandel begegnen – Sturzfluten bei Starkregen vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Ampelanlage am St.-Matthias-Friedhof in der Röblingstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Parkraumbewirtschaftung und Wirtschaftsverkehr im Gewerbegebiet Bessemerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Film „Nur eine Frau“ und Diskussion zum Tag gegen Gewalt an Frauen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Kolonialgeschichte fachlich kompetent bearbeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Nutzung von Räumen in der Potsdamer Straße 140 für Drugstore und Potse ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Potsdamer Str. 140 für Potse und Drugstore sichern – Finanzschule ins „Wirtschaftswunder“ verlagern - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Bezirkselternausschuss Kita durch finanziell angemessene Ausstattung bei der Wahrnehmung seiner Aufgaben unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Laien-Defibrillatoren in Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Injektionsnadeln auf dem Perelsplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - erledigt
+- TOP 13.1: Ombudsstelle für Tempelhof-Schöneberg - überwiesen
+- TOP 13.2: Umleitung für gesperrte Wolziger Zeile durch die Briesingstraße insbesondere für die BVG befahrbar machen - überwiesen
+- TOP 13.3: Qualifizierte Überleitung der Regelstrukturen des Quartiersmanagementgebietes „Schöneberger Norden“ (Wohnen am Kleistpark) gewährleisten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Telefonzellen-Ruinen Instandsetzen oder abbauen lassen - überwiesen
+- TOP 13.5: Gewerbestandort an der General-Pape-Straße absichern - überwiesen
+- TOP 13.6: Schulwegfreundliche Ampelschaltung an der Hohenstaufenstraße Ecke Kyffhäuser Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Fuß- und radverkehrsfreundliche Ampelschaltung auf dem Weg in den Volkspark und zur RR1 nach Wannsee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Schilder am Annedore-Leber-Park erneuern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Benennung des „westlichen Flaschenhalsparks“ nach der Partnergemeinde Mezitli - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.10: Sicherheit erhöhen: Beleuchtung im Grünzug am S-Bahnhof Schichauweg - überwiesen
+- TOP 13.11: Tägliche Staubildung vermeiden – Ampelschaltung optimieren - überwiesen
+- TOP 13.12: Ampelschaltung Riedingerstraße /Bahnhofstraße bis zum Abschluss des mehrjährigen Umbaus optimieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.13: In jedem Park eine insektenfreundliche Wiese - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.14: Gebiet „Bülowstraße/ Wohnen am Kleistpark“ – Bauvorhaben „CAMPUS der Generationen“ – Einreichung von drei Anträgen auf Fördermittel aus dem Baufonds/ Programm Soziale Stadt: 1) Modul I – Nachbarschafts- und Familienzentrum Kurmark, KurmärkischeStraße 1-3, 10783 Berlin 2) Modul II – Kinder-Jugend-Freizeiteinrichtung Villa Schöneberg, Frobenstraße 27-29, 10783 Berlin 3) Modul II – Öffentlicher Kinderspielplatz, Frobenstraße 27-29, 10783 Berlin - überwiesen
+- TOP 13.15: Reduzierung des Geltungsbereiches des im Verfahren befindlichen Bebauungsplanes XI-231 aba für die Verbreiterung des Tempelhofer Weges zwischen Wilhelm-Kabus-Straße und der künftigen Straße in Verlängerung der Ausfahrt A 103 Sachsendamm mit Ausnahmeim Bereich der Grundstücke Tempelhofer Weg 13-24, Tempelhofer Weg 25-26 und Gotenstraße 34 einschließlich einer Teilfläche des Grundstücks Gotenstraße 50-51 und Tempelhofer Weg 27 im Bezirk Tempelhof, Ortsteil Schöneberg - überwiesen
+- TOP 14: Termin der nächsten Sitzung - erledigt
