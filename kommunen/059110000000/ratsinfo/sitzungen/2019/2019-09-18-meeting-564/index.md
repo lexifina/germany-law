@@ -1,0 +1,54 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2019-09-18T15:00:00+02:00
+- Ende: 2019-09-18T16:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbAdzvfhCq8oJ93EtzCp5iA
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/564
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVeBroSwZxZyA4nGDBLLaL27KTuyg2iozTEjUOtEwgq9/Einladung_Seniorenbeirat_18.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfR96B9w9JUlXZhn2eW7-Hi55SNneMjj5BA6pYvJ1X99/Oeffentliche_Niederschrift_Seniorenbeirat_18.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Änderung/ Anpassung der Geschäftsordnung des Seniorenbeirates - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Vorberatung für Gremien
+- TOP 2.1: Integriertes städtebauliches Entwicklungskonzept Innenstadt Bochum hier: Festlegung des Stadtumbaugebietes, Beschluss des integrierten städtebaulichen Entwicklungskonzeptes - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2.2: Integriertes städtebauliches Entwicklungskonzept (ISEK) Hamme hier: Beschluss des integrierten städtebaulichen Entwicklungskonzeptes, Festlegung des Fördergebietes - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 7.1: Transparenz über freie Bettenkapazitäten in Bochumer Krankenhäusern - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.2: "Türen öffnen lohnt sich" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.3: Personelle Unterbesetzung des Seniorenbüro Ost - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.4: Sicher zu Fuß unterwegs: Barrierefreie Querungshilfen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.5: Querungshilfe an der Tippelsberger Straße / Ecke Elfenstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.6: Gehweg vor der Sparkasse am Rosenberg - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7.7: Mündliche Berichte aus den Gremien
+- TOP 8: Anfragen
+- TOP 8.1: Transparenz über freie Bettenkapazitäten in Bochumer Krankenhäusern - Die Anfrage ist schriftlich beantwortet worden.                                                     
+- TOP 8.2: Überfüllte Fahrradständer vor der Post- und Postbankfiliale - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.3: Sachstand Urban Green - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.4: Friedhofsmobil Freigrafendamm - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.5: Sachstand 1.000 Bänke-Programm - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.6: Bänke für Langendreer - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 8.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
