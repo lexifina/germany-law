@@ -1,0 +1,83 @@
+# 46. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-19T17:00:00+02:00
+- Ende: 2019-09-19T20:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20142
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20142
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00737974.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00737974.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00737974.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 1.1: Naturschutzgebiet Rheinaue Worringen-Langel - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Alte Römer Straße - Kenntnis genommen
+- TOP 7.1.2: Verkehrssicherheit Fußweg Balsaminenweg - Kenntnis genommen
+- TOP 7.1.3: Aktueller Sachstand zu Haus Fühlingen - Kenntnis genommen
+- TOP 7.1.4: Nutzung der Schulhöfe im Stadtbezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.5: Nutzung von Schulhöfen als Spiel- und Aufenthaltsfläche - zurückgestellt
+- TOP 7.1.6: Wilde Müllablageplätze - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Öffentlichkeitsarbeit zu der Forststraße in Köln -Heimersdorf als öffentliche Parkfläche Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Anfragen zum Stadt und Feuerwehr bewässern Bäume in Köln Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.3: Deckenbeschädigungen an der Stadtbahnhaltestelle Heimersdorf Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.4: Umzug der Bewohner der Flüchtlingsunterkünfte in Blumenberg und Worringen Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor. - Kenntnis genommen
+- TOP 7.2.5: Baumerkrankungen am Fühlinger See Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.6: Trockenheitsschäden am Fühlinger See und Bezirks-Waldbestand Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.7: Zufahrt Tankstelle Volkhovenerweg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.8: Baugrundstück Staffelsbergstr. Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen und Die Linke - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.3.1: Sitzgelegenheiten an der Bushaltestelle Arenzhof Antrag der SPD-Fraktion - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Beratung des Haushaltsplan-Entwurf Doppelhaushalt 2020/2021 einschließlich der mittelfristigen Finanzplanung bis 2024 und der sonstigen Anlagen - ungeändert beschlossen
+- TOP -: 3. Frauenhaus Antrag der FDP-Fraktion im Rat der Stadt Köln vom 08.07.2019 - ungeändert beschlossen
+- TOP 9.1.2: Haushaltsplan-Entwurf Doppelhaushalt 2020 /2021 hier: Beschluss über die sachliche Verwendung der bezirksorientierten Mittel für die Jahre 2020 / 2021 gem. § 37 Abs. 3 GO NRW - ungeändert beschlossen
+- TOP 9.1.3: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Mittelfreigabebeschluss zur Beschaffung der Einrichtung für den Neubau der Grundschule Anna-Langohr-Schule, Fühlinger Weg 7, 50765 Köln-Volkhoven/Weiler - ungeändert beschlossen
+- TOP 9.2.2: Ausbau der Jugendeinrichtung Unnauer Weg 96a im Zuge der Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler; Projekt „Ausbau des Sozialen Zentrums Lino-Club e.V. zu einem generationenübergreifenden Bürgerhaus (Mehrgenerationenhaus)" hier: - geändert beschlossen
+- TOP 9.2.3: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 9.2.4: Anpassung der Zuständigkeitsordnung hier: Hinweis auf die Verwaltungsrichtlinie zur Zuständigkeitsordnung "Abgrenzungskatalog" und Anzeige zur Umstufung von Straßen als Geschäft der laufenden Verwaltung - ungeändert beschlossen
+- TOP 9.2.5: Beschluss über Stellungnahmen sowie Satzungsbeschluss betreffend die Ergänzung des Bebauungsplan-Entwurfs 60539/04 Arbeitstitel: Griesberger Straße in Köln-Esch/Auweiler - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Erläuterung zu TOP 1.1 in der Sitzung der Bezirksvertretung Chorweiler am 27.06.2019 - Kenntnis genommen
+- TOP 10.1.2: Veranstaltung am 21.09.2019 zu Kreuzfeld - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Offenlage des Bebauungsplanes 59570/06; Arbeitstitel: "Further Straße/Gilleshof" in Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.2: Offenlage des Bebauungsplans 59575/01; Arbeitstitel: „Sinnersdorfer Straße 88 bis 90“ Köln-Roggendorf/Thenhoven - Kenntnis genommen
+- TOP 10.2.3: Erneute Prüfung der Ausweisung einer Hundefreilauffläche in Worringen nahe dem Naturschutzgebiet Rheinaue Worringen bis Langel (N4) - Kenntnis genommen
+- TOP 10.2.4: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.5: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 10.2.6: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof - Kenntnis genommen
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.1.1: Radweg zwischen Ivenshofweg und Haltestelle Merkenich-Mitte - Kenntnis genommen
+- TOP 11.1.2: Bushaltestelle der Linien 122 und 125 in Köln-Heimersdorf, Haselnußweg - Kenntnis genommen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
