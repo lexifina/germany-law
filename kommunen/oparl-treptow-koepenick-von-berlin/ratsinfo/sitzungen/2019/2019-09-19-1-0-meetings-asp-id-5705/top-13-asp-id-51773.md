@@ -1,0 +1,8 @@
+# TOP 13: Beschluss des Integrierten Handlungs- und Entwicklungskonzepts (IHEK) für die Förderkulisse Kosmosviertel im Bezirk Treptow-Köpenick und die Anmeldung aus Mitteln des Baufonds für das Projekt "Kita Sonnenschein"
+
+- Sitzung: 35. (öffentliche, außerordentliche) Sitzung des Ausschusses für Stadtentwicklung und Bauen (2019-09-19)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=51773
+- Ergebnis: erledigt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=51773
