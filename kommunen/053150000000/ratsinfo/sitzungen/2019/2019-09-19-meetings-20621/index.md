@@ -1,0 +1,55 @@
+# 21. Sitzung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-19T17:00:00+02:00
+- Ende: 2019-09-19T19:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/142
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20621
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20621
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00734715.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00734715.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00734715.pdf
+
+## Tagesordnung
+
+- TOP -: A „Keshet Deutschland e.V.“: Verein von LGBTIQ* Jüdinnen und Juden
+- TOP 1: Beantwortungen von Anfragen und Fragen zu Mitteilungen aus früheren Sitzungen
+- TOP 1.1: Formulare zur Anmeldung in Schulen und zur Schuleingangsuntersuchung - Kenntnis genommen
+- TOP 2: Anträge/Beschlüsse/Beschlussempfehlungen
+- TOP 2.1: Nachbesetzung Sachkundige Einwohner*innen und deren Stellvertretungen - ungeändert beschlossen
+- TOP 2.2: Richtlinie der Stadt Köln zur Verwendung des Budgets der Stadtarbeitsgemeinschaft Behindertenpolitik und der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - ungeändert beschlossen
+- TOP 3: LSBTIQ als Wirtschaftsfaktor für Köln
+- TOP 3.1: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - Kenntnis genommen
+- TOP 4: Trans*
+- TOP 4.1: Transpersonen im Krankenhaus - Kenntnis genommen
+- TOP 4.2: Schwimmzeiten für Inter* Trans* und nicht binäre Menschen - Kenntnis genommen
+- TOP 4.3: Trans*Pride Cologne
+- TOP 5: LSBTI Geflüchtete
+- TOP 5.1: Mitteilung zum 7. Tätigkeitsbericht der Ombudsstelle für Flüchtlinge - Kenntnis genommen
+- TOP 5.2: Anhörung von LSBTI-Geflüchteten in Nordrhein-Westfalen - Kenntnis genommen
+- TOP 5.3: Obdachlose Geflüchtete
+- TOP 6: Sichtbarkeit von Lesben in Köln
+- TOP 6.1: LesbenFrühlingsTreffen in Köln (06.-10. Juni 2019) - Kenntnis genommen
+- TOP 7: LSBTI Austausch mit Partnerstädten
+- TOP 7.1: Städtepartnerschaftlicher Austausch zum CSD 2019: "Sister Cities Stand Together" - Kenntnis genommen
+- TOP 7.2: Städtepartnerschaftlicher Austausch 2020 - Kenntnis genommen
+- TOP 7.3: Cluj Pride (15. Juni 2019) - Kenntnis genommen
+- TOP 7.4: Kattowitz Pride (07. Sept. 2019) - Kenntnis genommen
+- TOP 8: Diversity
+- TOP 8.1: Aktivitäten und Maßnahmen im Rahmen des städtischen Diversity-Konzeptes in 2019 - Kenntnis genommen
+- TOP 9: Sachstandsberichte und Mitteilungen
+- TOP 9.1: Teilnahme der Mitarbeitenden der Stadtverwaltung beim CSD 2019 - Kenntnis genommen
+- TOP 9.2: ColognePride 2019 – Die Volkshochschule war dabei - Kenntnis genommen
+- TOP 9.3: Beteiligungsverfahren Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 9.4: Darstellung der Sparten, hier: Interkultur und Inklu - Kenntnis genommen
+- TOP 9.5: Kampagne zur Erhöhung der Anzeigenbereitschaft - Kenntnis genommen
+- TOP 10: Berichte aus Ausschüssen
+- TOP 11: Neue Anfragen
+- TOP 12: Öffentlichkeitsarbeit
+- TOP 13: Themen der nächsten Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender
+- TOP 13.1: Kölner Jugendbefragung 2018
+- TOP 13.2: Jugendbefragung des "anyway" 2019
+- TOP 14: Verschiedenes
