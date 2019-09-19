@@ -1,0 +1,7 @@
+# TOP 23: Bericht zur Beschlusskontrolle
+
+- Sitzung: Bau-, Stadtentwicklungs-, Umwelt- und Verkehrsausschuss (39. Sitzung) (2019-09-19)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/18445
+- Ergebnis: Kenntnisnahme
