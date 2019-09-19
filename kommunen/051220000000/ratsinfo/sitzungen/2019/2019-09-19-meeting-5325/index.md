@@ -1,0 +1,61 @@
+# Finanzausschuss (39. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-09-19T17:00:00+02:00
+- Ende: 2019-09-19T18:27:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Tagungsraum 3
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSPmuc-NukPbvHTggze4UpQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5325
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZNwXt4T6yU7kMRgdMCLuGrSxoE_6-Jnf82oIvGFrqnc/Bekanntmachung_Finanzausschuss_19.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf6B99D8uX3QhH_EQrSOG5VIFSsTNdT3cQDPfPg_36Zq/Oeffentliche_Niederschrift_Finanzausschuss_19.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 37. Sitzung des Finanzausschusses am 27.06.2019
+- TOP 4.: Protokoll über die 38. Sitzung des Finanzausschusses am 11.07.2019
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 6.: Stadtentwicklungsgesellschaft Solingen – Benennung der Fraktionsmitglieder in den Gesellschafterversammlungen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG und der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 7.: Stadtentwicklungsgesellschaft Solingen – Benennung der Mitglieder des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 8.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 9.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Stadtwerke Solingen GmbH
+- TOP 10.: II. Satzung zur Änderung der Gebührentarife zur Gebührensatzung für den Rettungsdienst der Stadt Solingen vom 05.01.2010 in der Fassung der I. Änderungssatzung vom 14.04.2011
+- TOP 11.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Jugendschutzstelle in der Einrichtung „Die 10“
+- TOP 12.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Kinder- und Jugendheime und der Inobhutnahmestelle der Stadt Solingen
+- TOP 13.: Beantragung der Fortsetzung der Förderung aus dem Bundesprogramm „Demokratie leben!“
+- TOP 14.: 2. Quartalsbericht 2019
+- TOP 15.: Quartalsinformationen Kreditportfolio Verwaltung
+- TOP 16.: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. und 2. Quartal 2019
+- TOP 17.: Außerplanmäßige Auszahlung gemäß § 83 GO NRW Aufstellen und Umbauen von Raumcontainern für die Nutzung im Rahmen des offenen Ganztages
+- TOP 18.: Risikomanagement - mündlicher Bericht -
+- TOP 19.: Arbeitskreis-Rechnung zum Gemeindefinanzierungsgesetz 2020
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.1.1: Stellungnahme des Städtetages NRW zur Altschuldenlösung in NRW
+- TOP 20.1.2: Kommunaler Finanzausgleich
+- TOP 20.1.3: Reform der Grundsteuer
+- TOP 20.1.4: DigitalPakt Schule
+- TOP 20.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 37. Sitzung des Finanzausschusses am 27.06.2019
+- TOP 4.: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 4.1: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 5.: Entwicklung eines Instruments zur Bestimmung und Anpassung städtischer Gebühren – hier: Abschlussbericht
+- TOP 6.: Auftrag über die Hard- und Softwareausstattung für die digitale Poststelle
+- TOP 7.: Vergabe von Ingenieurleistungen gem. §§ 49 ff. HOAI (Tragwerksplanung) im Rahmen der Baumaßnahme Neubau FuRW II, Brunnenstraße 11
+- TOP 8.: Integriertes Stadtteilentwicklungskonzept (ISEK) Burg: Vergabe der Bauleistungen für die Umgestaltung der Eschbachstraße
+- TOP 9.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation hier: Informationsvorlage
+- TOP 9.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 9.2: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 10.: Verlängerung eines Erbbaurechts
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.1.1: Verkauf der städtischen Liegenschaft Focher Straße 75/77
+- TOP 11.2: Anfragen an die Verwaltung
