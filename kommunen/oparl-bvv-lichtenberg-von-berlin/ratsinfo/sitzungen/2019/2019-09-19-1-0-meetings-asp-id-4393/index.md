@@ -1,0 +1,102 @@
+# 35. Sitzung in der VIII. Wahlperiode der Bezirksverordnetenversammlung Lichtenberg von Berlin
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Beginn: 2019-09-19T17:00:00+02:00
+- Ende: 2019-09-19T21:30:00+02:00
+- Ort: Fischerstraße 36, 10317 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4393
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=4393
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=273937
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - erledigt
+- TOP 2: Feststellung der Beschlussfähigkeit - erledigt
+- TOP 3: Behandlung von Einsprüchen gegen das Protokoll der vorangegangenen Sitzung - erledigt
+- TOP 4: Feststellung der Dringlichkeit von Drucksachen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beschlussfassung über die Tagesordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Mitteilungen und Vorlagen des/der Vorstehers/-in - erledigt
+- TOP 7: Bericht des Bezirksamtes - erledigt
+- TOP 8: Mündliche Anfragen (Aktuelle Fragestunde) - (offen)
+- TOP 8.1: Information zur DS/1053/VIII - Keine Reduzierung des öffentlichen Grüns an der Franz-Jacob-Straße - beantwortet
+- TOP 8.2: Landkarte "Außerschulische Bildungsorte in Lichtenberg" - beantwortet
+- TOP 8.3: Wie weiter im "Überschwemmungsrisikogebiet" Kaskelkiez/Victoriastadt? - beantwortet
+- TOP 8.4: Ausweichquartier für Sanierung Coppi-Gymnasium - beantwortet
+- TOP 8.5: Lärmbelästigung durch Clubs am Wiesenweg - beantwortet
+- TOP 8.6: Situation am Bahnhof Lichtenberg und Rummelsburg - beantwortet
+- TOP 8.7: Stadtteildialoge - beantwortet
+- TOP 9: Beschlussfassung über die Liste der Drucksachen ohne Aussprache - im Ausschuss abgelehnt
+- TOP 9.1: Vorschläge zum Bürgerhaushalt, hier: Beschlussempfehlungen des Begleitgremiums III. Quartal 2019 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Wahlvorschlag zur Berufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahlvorschlag zur Abberufung der Mitglieder des ehrenamtlichen Dienstes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: BVV-Sondermittel für den Förderverein Schloss Hohenschönhausen e.V. - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: BVV-Sondermittel zur Förderung des Ausstellungsprojekts „Experiment Druckgrafik 2019“ - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Änderung der Geschäftsordnung § 39 Abs. 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Neue Probenräume für Musiker*innen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Zwieseler Straße instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Erinnerungstafel für den Schauspieler und Kabarettisten Edgar Külow (1925-2012) - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Freifläche und Begrünung auf der zu errichtenden Sporthalle Brodowin Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Sondermittel für das 59. Internationale Werner-Seelenbinder-Gedenkturnier - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Bau Flutlichtanlage in der HOWOGE-Arena „Hans Zoschke“ - überwiesen
+- TOP 9.13: Sicherung der Feuerwehrzufahrt in der Vulkanstraße für den Rettungsweg Elli-Voigt-Straße 18-20 - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Wahlplakatierung im Bezirk Lichtenberg - überwiesen
+- TOP 9.15: Zweite Chance bekannter machen - Werbung für den zweiten Bildungsweg am Viktor-Klemperer-Gymnasium auch in Lichtenberg ermöglichen - überwiesen
+- TOP 9.16: Verkehrssituation Friedrichsteiner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Sanierung der Gehwege in der Nöldnerstraße - überwiesen
+- TOP 9.18: Pflanzen von einheimischen Sträuchern für Insekten und Vögel - überwiesen
+- TOP 9.19: Platzordnung für den Vorplatz des Bahnhofs Lichtenberg erlassen! - überwiesen
+- TOP 9.20: Bau einer Grundschule in der Hohenschönhauser Straße 76 - überwiesen
+- TOP 9.21: Zeitplan für den Sportplatz Karlshorst - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Infrastruktur an der Rummelsburger Bucht sichern (Begleitbeschluss zum B-Plan Ostkreuz) - ohne Änderungen in der BVV beschlossen
+- TOP 9.23: Wegeverbindungen im Landschaftspark Wartenberger Feldmark wieder für mehr Aktivitäten nutzbar machen - überwiesen
+- TOP 9.24: Taktfrequenz für die Regionalbahn RB 25 erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 9.25: Bezirkshaushaltsrechnung 2018 - überwiesen
+- TOP 9.26: Vorhabenbezogener Bebauungsplan 11-94 VE - Rechtskontrolle; Arbeitstitel: westlich Ferdinand-Schultze-Straße/südlich Schleizer Straße - überwiesen
+- TOP 9.27: Ertüchtigung der Sportanlage neben den Turnhallen Klützer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.28: Entschleunigung in der Gehrenseestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.29: Betriebliches Mobilitätskonzept für die Bezirksverwaltung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.30: Erneuerung des Skateparks am Weißenseer Weg 100 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.31: Lichtenberg wird Mitglied im Bündnis "Kommunen für biologische Vielfalt e. V." - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.32: Weniger Wurzelschäden durch moderne Technologie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.33: Carsharing in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.34: Für Fußgehende freundliche und sichere Gestaltung der Weitlingstraße zwischen Einbecker- und Irenenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.35: Machbarkeitsstudie für ein neues Bad in Lichtenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.36: Bei Neubau von Kitas und Grundschulen Möglichkeiten zur Schaffung von Familienzentren einplanen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.37: Lösungen und Unterstützung für den Regionalen Sozialpädagogischen Dienst (RSD) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.38: Entwicklung des Vorplatzes am S-Bahnhof Wartenberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.39: Mehr Bienen in Lichtenberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.40: Ausreichend Platz für die Essensversorgung schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.41: Musikschulstandort in Hohenschönhausen sichtbarer ausschildern - überwiesen
+- TOP 9.42: Eingangssituation am Musikschulstandort in Hohenschönhausen attraktiver gestalten - überwiesen
+- TOP 9.43: Bebauungsplan 11-47ba – Auswertung Beteiligung der Öffentlichkeit;Arbeitstitel: „Parkstadt Karlshorst“ - überwiesen
+- TOP 9.44: Zuwendungsanträge für zwei Partnerschaften für Demokratie in Lichtenberg und Hohenschönhausen im Rahmen des Bundesprogramms "Demokratie leben!" für den Förderzeitraum 2020 bis 2024 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.45: Ausübung des Vorkaufsrechts gemäß § 24 Abs. 1 Nr. 4 BauGB in den sozialen Erhaltungsgebieten im Bezirk Lichtenberg für das Grundstück Pfarrstraße 98, 100 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.46: Umbenennung der Beratungsstelle für behinderte, chronisch kranke, krebs- und aidskranke Menschen in Beratungsstelle für Menschen mit Behinderung, Krebs und chronischen Erkrankungen im Gesundheitsamt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.47: Bezirkliche Projekte zur Umsetzung des Nachbarschaftsprogrammes (Integrationsfonds) 2020/2021 - überwiesen
+- TOP 9.48: Bebauungsplan 11-170 – Aufstellungsbeschluss; Arbeitstitel: Barther Straße / Zingster Straße / Falkenberger Chaussee - überwiesen
+- TOP 10: Einwohnerfragestunde - erledigt
+- TOP 11: Wahlen - erledigt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Mietenexplosion in Berlin - wann handelt das Bezirksamt? - schriftlich beantwortet
+- TOP 13: Offene Drucksachen der letzten BVV-Sitzung (soweit in der Sondersitzung der BVV am 12.09.2019 nicht bereits behandelt) - (offen)
+- TOP 13.1: Verordnung über die Veränderungssperre 11-99/29 für die Grundstücke Frankfurter Allee 273, 275, 277 im Bezirk Lichtenberg, Ortsteil Rummelsburg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Vorhabenbezogener Bebauungsplan 11-116 VE – Planreife Arbeitstitel: Landsberger Allee 315/319 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Vorhabenbezogener Bebauungsplan 11-47a-1-VE - Antrag auf Einleitung; Arbeitstitel: "Köpenicker Chaussee 15-18" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Prioritäten der Fraktionen - (offen)
+- TOP 14.1: BVV vor dem Abschluss städtebaulicher Verträge beteiligen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Anrechnung der Staffelgeschosse - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Neubau Sportanlage Blockdammweg - überwiesen
+- TOP 14.4: Durch schnelles Bauen Schulplätze sichern - überwiesen
+- TOP 15: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 15.1: Milieuschutzgebiet in Alt-Lichtenberg einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 16: Anträge zur Beschlussfassung - (offen)
+- TOP 16.1: Sanierung der Gehwege in der Waldowallee - überwiesen
+- TOP 16.2: Niedrigschwelligen Zugang zu Kunst sichern - Kiezkunst bewahren - überwiesen
+- TOP 17: Vorlagen zur Beschlussfassung - (offen)
+- TOP 17.1: Bebauungsplan 11-47ba – Planreife; Arbeitstitel: „Parkstadt Karlshorst“ - überwiesen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Bebauungsplan 11-109 vorantreiben - in der BVV zurückgezogen
+- TOP 19: Schließung der Sitzung - erledigt
