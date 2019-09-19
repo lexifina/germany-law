@@ -1,0 +1,105 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (mit LIVESTREAM)
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-09-19T17:30:00+02:00
+- Ende: 2019-09-19T20:50:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4748
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4748
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=448149
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - gegenstandslos
+- TOP 3: Feststellen von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - (offen)
+- TOP 5: Konsenslisten - mit Änderungen im Ausschuss beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Dokumentenprüfgeräte – eine unendliche Geschichte - beantwortet
+- TOP 7.2: Gerät der geplante Wohnungsbau an der Turm- Ecke Stromstraße ins Stocken? - beantwortet
+- TOP 7.3: Personalbestand und Öffnungszeiten der Schuldnerberatungen im Bezirk - beantwortet
+- TOP 7.4: Wie setzt der Bezirk die Vereinbarungen zu den e-Scootern um? - beantwortet
+- TOP 7.5: Wurde mit der Bayer AG im voraus über eine mögliche Schule in der Sellerstraße 27-30 gesprochen? - beantwortet
+- TOP 7.6: Ehrengrab von Bärbel Bohley - beantwortet
+- TOP 7.7: IT und der Bezirk - eine unendliche Geschichte - beantwortet
+- TOP 7.8: Wie viel zusätzlichen “Müll” verträgt der Bezirk? - schriftlich beantwortet
+- TOP 7.9: Personalmangel im Schulamt - schriftlich beantwortet
+- TOP 7.10: Nachverdichtung Schillerhöhe - schriftlich beantwortet
+- TOP 7.11: Wie geht es weiter mit dem Mettmannplatz - erledigt
+- TOP 7.12: Politische Neutralität im Verwaltungshandeln - schriftlich beantwortet
+- TOP 7.13: Weiterentwicklung von Ordnungsamt Online - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - gegenstandslos
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Wirtschaftsförderung - beantwortet
+- TOP 9.2: Datenschutz im Bezirksamt Mitte – Gläserner Bürger? - schriftlich beantwortet
+- TOP 9.3: Wie weiter mit der Gotenburger Straße 9? - beantwortet
+- TOP 9.4: Barrierefreiheit in Mitte - beantwortet
+- TOP 9.5: Wie geht es weiter mit den Uferhallen: - schriftlich beantwortet
+- TOP 9.6: Welche Konsequenzen zieht das Bezirksamt aus der Hitzewelle? II - schriftlich beantwortet
+- TOP 9.7: Renaturierung der Panke – Aktueller Stand? - schriftlich beantwortet
+- TOP 9.8: Ampelschaltungen nur für olympiareife Sprinter*innen? - schriftlich beantwortet
+- TOP 9.9: Durchsetzung der Hundegesetzdurchführungsverordnung - beantwortet
+- TOP 9.10: In Zukunft keine Mikroplastik-Sportplätze in Mitte? - schriftlich beantwortet
+- TOP 9.11: Aktuelle Situation im Standesamt - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Reaktivierung der Liegenschaft Putbusser Straße 12 als Schulstandort - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 12.1: Genehmigung der im Haushaltsjahr 2018 zugelassenen über- und außerplan-mäßigen Ausgaben und Verpflichtungsermächtigungen. - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: Die Invalidenstraße sicherer machen! - überwiesen
+- TOP 13.2: Grenzwachturm in der Erna-Berger-Straße retten! - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Effektive Personalgewinnung: Headhunter bei XING – Imagepflege in den Sozialen Medien - überwiesen
+- TOP 14.2: Der Bezirk-Mitte erkennt den Klimanotstand an - überwiesen
+- TOP 14.3: Beschilderung Bärbel-Bohley-Ring und Lichtburgring vervollständigen - überwiesen
+- TOP 14.4: Mehr Licht auf der Fischerinsel - überwiesen
+- TOP 14.5: Priorität für Schulneubau in Mitte – Farbe bekennen - überwiesen
+- TOP 14.6: Den Einsatz von photokatalytischem Asphalt und Pflaster prüfen - Stickstoffoxide reduzieren - überwiesen
+- TOP 14.7: Schnellere Beseitigung von Autowracks - überwiesen
+- TOP 14.8: Öffentliche Nutzungen der Pavillons in der Karl-Marx-Allee planungsrechtlich sichern - überwiesen
+- TOP 14.9: Haus der Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Ein Gehweg für Fußgänger*innen auf der Ackerstraße - überwiesen
+- TOP 14.11: Schritte zu einer realistischen Drogenpolitik - überwiesen
+- TOP 14.12: Spielplatzerneuerung in den Rehbergen - überwiesen
+- TOP 14.13: Akteure vor Ort bei Spreeuferentwicklung in der nördlichen Luisenstadt mit einbeziehen! - überwiesen
+- TOP 14.14: Aufwertung der Friedrichstraße - überwiesen
+- TOP 14.15: Wochenmarkt in der Europacity - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Licht ins Dunkel - Grünflächenrückschnitt Stichstraße Derfflingerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Weiterentwicklung des derzeitigen QM-Gebietes Ackerstr. nach der Verstetigungsphase nicht gefährden. - in der BVV abgelehnt
+- TOP 17.2: Bäume vor Trockenheit schützen – Sommerdienst einführen - ohne Änderungen in der BVV beschlossen
+- TOP 17.3: Keine Obdachlosencamps in der Stadt und dem Bezirk - mit Änderungen in der BVV beschlossen
+- TOP 17.4: Sportangebot vergrößern – „Catcherwiese“ in den Rehbergen nutzbar machen! - überwiesen
+- TOP 17.5: Blumen am Richard-Wagner-Denkmal - in der BVV abgelehnt
+- TOP 17.6: Anerkennung von ehrenamtlich Tätigen durch BVG-Fahrscheine - mit Änderungen in der BVV beschlossen
+- TOP 17.7: Barrierefreie Dokumente: Schulung für Mitarbeiter*innen - gegenstandslos
+- TOP 17.8: Überschwemmungen bei Starkregen reduzieren - gegenstandslos
+- TOP 17.9: Entwurf einer Strategie für die anstehende Digitalisierung der Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Bericht zu Verlusten im Produkthaushalt sowie den Strategien und Maßnahmen des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.2: Gärtnern in Mitte - für und mit den Bürgerinnen und Bürgern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Schreibraum für selbständige AutorInnen und ÜbersetzerInnen und LektorInnen in Berlin mitdenken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.4: Obdachlosigkeit vermeiden, Wohnen in der Kameruner Str. 5 sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Ausschilderung Stadion Rehberge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Gesamtkonzept für den Schillerpark erstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.7: EU-Netzwerk in Mittes Schulen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Invaliden-/ Ecke Chausseestr.: Verkehrsführung sicherer machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: 1000 Straßenbäume mehr in Mitte! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Sichere Mitte – verstärkte Zusammenarbeit von Polizei und Ordnungsamt auf ausgesuchten Plätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Dezentrale Regenwasserbewirtschaftung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Änderung des Geltungsbereiches des Bebauungsplans 1-22B. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Weitere Nutzung des AWO-Refugiums Gotenburger Straße bis 30. April 2021 und weitere Unterbringung aller dort nach ASOG untergebrachten Personen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.14: Entwicklung des Grundstücks Pohlstraße 8 zu einem Wohn- und Infrastruktur-standort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.15: Abberufung von Mitgliedsfrauen für den Frauenbeirat Mitte - mit Abschlussbericht zur Kenntnis genommen
