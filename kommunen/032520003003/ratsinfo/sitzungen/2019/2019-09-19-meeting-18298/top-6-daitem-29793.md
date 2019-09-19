@@ -1,0 +1,9 @@
+# TOP 6.: Vertretung der Stadt Bad Pyrmont in den Aufsichtsräten der Stadtwerke Bad Pyrmont GmbH, der Stadtwerke Bad Pyrmont Beteiligungs und Bäder GmbH und der Stadtwerke Bad Pyrmont Parkhaus GmbH
+
+- Sitzung: Rat der Stadt Bad Pyrmont (14. Sitzung) (2019-09-19)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/29793
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/10798
+- Beschluss (Datei): Beschlusstext (Vertretung der Stadt Bad Pyrmont in den Aufsichtsräten der Stadtwerke Bad Pyrmont GmbH, der Stadtwerke Bad Pyrmont Beteiligungs und Bäder GmbH und der Stadtwerke Bad Pyrmont Parkhaus GmbH ) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb_YALPqP-RO2rfheeMQs3T4FXrejxAnaNqbj2I4Ume-/Beschlusstext_254-2019_-oeffentlich-_Rat_der_Stadt_Bad_Pyrmont_19.09.2019.pdf
