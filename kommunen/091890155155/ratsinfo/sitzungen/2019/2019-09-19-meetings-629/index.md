@@ -1,0 +1,51 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Traunstein
+- Beginn: 2019-09-19T15:00:00+02:00
+- Ende: 2019-09-19T18:20:00+02:00
+- Ort: im Großen Saal, Altbau, 3. OG, Rathaus Traunstein
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/meetings/629
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/meetings/629
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/downloadfiles/a/00032423.pdf
+- Ergebnisprotokoll: Niederschrift -Bürgerinfo- https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/downloadfiles/a/00032850.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgaben des Oberbürgermeisters - zur Kenntnis genommen
+- TOP 2: Bestellung eines Stadtheimatpflegers - einstimmig beschlossen
+- TOP 3: Rinderzuchtverband Traunstein e. V. - mehrheitlich beschlossen
+- TOP 4: Bürgerantrag „Parken statt Parks“; Entscheidung über die Zulässigkeit - einstimmig beschlossen
+- TOP 5: Parkhaus Scheibenstraße; Weitere Vorgehensweise, Grundsatzbeschluss - mehrheitlich beschlossen
+- TOP 6: Überlegungen zur Errichtung eines Parkdecks am Karl-Theodor-Platz - mehrheitlich beschlossen
+- TOP 7: Aufstellung eines Bebauungsplans zur Errichtung eines öffentlichen Parkhauses auf dem Grundstück Fl.Nr. 340 der Gemarkung Traunstein am Klosterberg; Bericht über das Ergebnis der vorgezogenen Öffentlichkeitsbeteiligung - mehrheitlich beschlossen
+- TOP 8: Aufstellung eines Bebauungsplans zur Ausweisung eines Allgemeinen Wohngebiets nordöstlich des Ortsteils Traunstorf im Verfahren nach den §§ 13 a und 13 b BauGB; Satzungsbeschluss - einstimmig beschlossen
+- TOP 9: Aufstellung eines Bebauungsplans im Vereinfachten Verfahren nach § 13 a BauGB für die Grundstücke Fl.Nrn. 78 und 78/5 der Gemarkung Haslach sowie Fl.Nr. 868/10 der Gemarkung Wolkersdorf an der Chiemseestraße; Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 10: 6. Änderung des Flächennutzungsplans der Stadt Traunstein im Bereich der Grundstücke Fl.Nr. 239 und einer Teilfläche von Fl.Nr. 260/2 der Gemarkung Haslach nördlich des Ortsteils Seiboldsdorf; Billigung- und Auslegungsbeschluss - einstimmig beschlossen
+- TOP 11: Antrag auf isolierte Abweichung von den Brandschutzvorschriften für die Erweiterung der bestehenden Produktionshalle sowie Anbau von Lagerräumen und einer Doppelgarage auf dem Grundstück Schmidhamer Straße 21 in Traunstein - zur Kenntnis genommen
+- TOP 12: Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Widmung der Stichstraße Fl.Nr. 129/39 der Gemarkung Haslach als Ortsstraße - einstimmig beschlossen
+- TOP 13: Vorstellung des Feuerwehrbedarfplans für die Feuerwehren der Stadt Traunstein 2019 - einstimmig beschlossen
+- TOP 14: Neubau FW-Gerätehaus Hochberg einschl. Löschwasserbehälter Stadtteil Höfen; . Kostenanschlag . Auftragsvergaben Paket 1 - einstimmig beschlossen
+- TOP 15: Grundschule Haslach; Sanierung und Neugestaltung der Sportanlagen . LPH 2 - Vorentwurfsplanung, Kostenschätzung - einstimmig beschlossen
+- TOP 16: Städt. Musikschule, Gesamtsanierung; LPH 2 - Vorentwurfsplanung, Kostenschätzung - einstimmig beschlossen
+- TOP 17: Kulturforum Klosterkiche Traunstein: Sachstandsinformation und Nachträge - mehrheitlich beschlossen
+- TOP 18: Namensgebung für den „Multifunktionsraum“ im Ensemble des Kulturforums Klosterkirche - mehrheitlich beschlossen
+- TOP 19: Sanierung des Bahnhofsbrunnens wegen Wasserverlust - Weiteres Vorgehen - einstimmig beschlossen
+- TOP 20: Erneuerung Niederspannungshauptverteilung Kläranlage Traunstein - einstimmig beschlossen
+- TOP 21: Viaduktsteg - Weiteres Vorgehen - einstimmig beschlossen
+- TOP 22: Fahrradstadt Traunstein: Bereitstellung von Fahrradabstellanlagen - einstimmig beschlossen
+- TOP 23: Traunstein barrierefrei: Umsetzung weiterer Verbesserungsmaßnahmen - einstimmig beschlossen
+- TOP 24: Sonderprogramm Schwimmbadförderung Bayern - SPSF - einstimmig beschlossen
+- TOP 25: Förderprogramm „Energieeffizientes Bauen in Traunstein“ - einstimmig beschlossen
+- TOP 26: Mögliche Gründung einer Wohnbaugesellschaft - mehrheitlich beschlossen
+- TOP 27: Verbesserung der Breitbandversorgung; Entscheidung über die Art des Förderverfahrens - einstimmig beschlossen
+- TOP 28: Stadtpfarrkirche St. Oswald - Antrag auf Gewährung eines Zuschusses für die Innensanierung - mehrheitlich beschlossen
+- TOP 29: Antrag der SPD Stadtratsfraktion zur Einstellung eines Straßensozialarbeiters - mehrheitlich beschlossen
+- TOP 30: Jugendbeiratswahl 2019 - einstimmig beschlossen
+- TOP 31: Erlass einer Grünanlagensatzung - mehrheitlich beschlossen
+- TOP 32: Kommunalwahl am 15. März 2020; Berufung des stellvertretenden Gemeindewahlleiters - einstimmig beschlossen
+- TOP 33: Erlass einer Nachtragshaushaltssatzung für das Jahr 2019 - einstimmig beschlossen
+- TOP 34: Genehmigung der Sitzungsniederschrift vom 18. Juli 2019 - einstimmig beschlossen
+- TOP 35: Anfragen und Wünsche - öffentlich - - zur Kenntnis genommen
