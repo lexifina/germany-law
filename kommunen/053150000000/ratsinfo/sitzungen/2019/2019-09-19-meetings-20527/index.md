@@ -1,0 +1,89 @@
+# 39. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-19T17:00:00+02:00
+- Ende: 2019-09-19T19:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20527
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20527
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage zur Planung und Bau eines Kinderspielplatzes im Johannes-Giesberts-Park - Kenntnis genommen
+- TOP 1.2: Einwohnerfrage zum Tadsch Mahal - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Mobilitätseinschränkung Gellertstraße (Az.: 02-1600-173/19) - zurückgestellt
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Pendelbus zwischen Longerich (S11) und Wilhelm-Sollmann-Straße (Linien 12 und 15)
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Schwerlastzuliefererverkehr zum ICE-Instandhaltungswerk Köln-Nippes - Kenntnis genommen
+- TOP 7.1.2: Erhebung von Straßenbaubeiträgen nach § 8 KAG NRW für die Sanierung des Brunhildplatzes und des Balmungweges in Köln-Mauenheim - Kenntnis genommen
+- TOP 7.1.3: Auskunft über Wochenmärkte auf www.stadt-koeln.de - Kenntnis genommen
+- TOP 7.1.4: Platzfläche vor der verwaisten ehem. VfL 99 Tribüne an der Rennbahnstraße - Kenntnis genommen
+- TOP 7.1.5: Altlastenuntersuchungen und Ergebnisse zur Altlast 50503 (Simonskaul) - Kenntnis genommen
+- TOP 7.1.6: Bestattungsgarten - Kenntnis genommen
+- TOP 7.1.7: Geschwindigkeitskontrollen auf der Geldernstraße - Kenntnis genommen
+- TOP 7.1.8: Illegales Gehwegparken - Kenntnis genommen
+- TOP 7.1.9: Schulgärten im Bezirk Nippes - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Bepflanzung der Wände am Tunnel Boltensternstraße/An der Schanz - Kenntnis genommen
+- TOP 7.2.2: Anfrage zur Instandsetzung des Verbindungsweges Xantener Straße zum Nordpark - Kenntnis genommen
+- TOP 7.2.3: Kleingartenanlage An der Ling - Kenntnis genommen
+- TOP 7.2.4: Altlastenuntersuchung 50503 Vorlagennummer 263/2019 - Kenntnis genommen
+- TOP 7.2.5: Geschützte Bäume auf Privatgrundstücken - Kenntnis genommen
+- TOP 7.2.6: Verkehrssituation Kreuzung Xantener Straße/Kretzerstraße - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Prüfung einer Erweiterung der Bezirkssportanlage Weidenpesch - endgültig zurückgezogen
+- TOP -: Prüfung einer Erweiterung der Bezirkssportanlage Weidenpesch (Scheibenstraße) - Kenntnis genommen
+- TOP 8.1.2: Sperrung der Zufahrt der sogenannten KVB-Straße in Niehl - ungeändert beschlossen
+- TOP 8.1.3: Makrofontest in der Nacht außerhalb der ICX Hallen - ungeändert beschlossen
+- TOP 8.1.4: Errichtung einer Mobilitätsstation am Longericher S-Bahn-Bahnhof - zurückgestellt
+- TOP 8.1.5: Maßnahmen gegen den Klimanotstand: offene Wasserflächen und Aktivierung der städtischen Brunnen - ungeändert beschlossen
+- TOP 8.1.6: Gehwegbeleuchtung in der Schmiedegasse am Nordfriedhof - ungeändert beschlossen
+- TOP 8.1.7: Starke Verunreinigungen entlang der Scheibenstraße in Weidenpesch - ungeändert beschlossen
+- TOP 8.1.8: Tempoflickenteppich in Bilderstöckchen nördlich des Parkgürtels beseitigen - geändert beschlossen
+- TOP 8.1.9: Bäume für das Klima – Bilderstöckchen macht’s vor - endgültig zurückgezogen
+- TOP -: Antrag der CDU-Fraktion "Bäume für das Klima - Bilderstöckchen macht´s vor" (AN/1137/2019) - Kenntnis genommen
+- TOP 8.1.10: Bushaltestellen für Bienen - ungeändert beschlossen
+- TOP 8.1.11: Beteiligung an der Baumpflanzaktion EINHEITSBUDDELN am 3. Oktober 2019 - ungeändert beschlossen
+- TOP 8.1.12: Toiletten und Müllcontainer für den Industriepark Nord - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Phosphorgewinnung aus Klärschlamm
+- TOP 8.2.2: Hafenausbau Godorf - ungeändert beschlossen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Anschaffung von vier neuen Bänken für den Lohsepark - ungeändert beschlossen
+- TOP 9.1.2: Gewährung von bezirksorientierten Mitteln zur Unterstützung des Klimaparks Bilderstöckchen - ungeändert beschlossen
+- TOP 9.1.3: Gewährung von bezirksorientierten Mitteln für die Paraskate 2019 - ungeändert beschlossen
+- TOP 9.1.4: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.5: Stadtklima-/Stadtverschönerungsprogramm im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Satzungsbeschluss betreffend den Bebauungsplan (vorhabenbezogener Bebauungsplan) Nummer 66498/03 Arbeitstitel: Kirchenzentrum Derfflingerstraße in Köln-Weidenpesch - mit Änderungen empfohlen
+- TOP 9.2.2: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Simonskaul" in Köln-Weidenpesch;Stellungnahme der Bezirksvertretung Nippes zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 9.2.3: Beschluss über die Stellungnahmen sowie Satzungsbeschluss betreffend den Bebauungsplan-Entwurf 65520/02 Arbeitstitel: Geestemünder Straße in Köln-Niehl - ungeändert empfohlen
+- TOP 9.2.4: Anpassung der Zuständigkeitsordnung - ungeändert empfohlen
+- TOP 9.2.5: Beratung des Entwurfs des Doppelhaushalts 2020/2021 und Festsetzung der bezirksorientierten Mittel für die Haushaltsjahre 2020 und 2021 - ungeändert beschlossen
+- TOP -: 3. Frauenhaus - ohne Votum in nachfolgende Gremien
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Durchfahrtsverbot Merheimer Straße für LKWs über 7,5 t - Kenntnis genommen
+- TOP 10.2.2: Verbesserung der Lebensqualität in der Graseggerstraße - Kenntnis genommen
+- TOP 10.2.3: Baubeschluss für die Generalinstandsetzung der Verkehrsfläche "Brunhildplatz" in Köln-Mauenheim - Kenntnis genommen
+- TOP 10.2.4: Projekt „Übergänge gestalten“ - Begleitung und Beratung von geflüchteten Familien zur Orientierung im Stadtgebiet - Kenntnis genommen
+- TOP 10.2.5: Sechzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln 1366/2019 und 2226/2919 - Kenntnis genommen
+- TOP 10.2.6: Wartungsarbeiten und gewerbliche Tätigkeiten auf dem ehemaligen Verschiebebahnhof Köln-Nippes - Kenntnis genommen
+- TOP 10.2.7: Zebrastreifen auf dem nördlichen Niehler Damm - Kenntnis genommen
+- TOP 10.2.8: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 10.2.9: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.10: Makrofontest in der Nacht außerhalb der ICX Hallen - Kenntnis genommen
+- TOP 10.2.11: Sitzungstermine der BV Nippes im Jahre 2020 - Kenntnis genommen
