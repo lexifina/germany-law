@@ -1,0 +1,59 @@
+# Rat (41. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2019-09-20T17:00:00+02:00
+- Ende: 2019-09-20T21:35:00+02:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdwaUDEyJ07N25Lg2UinofA
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/3714
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQM19SYw9NzeJ38Mc5dnMuUM9P_4Yv_QGr-pOB1v2SLL/Einladung_Rat_20.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX89o0UoAzfgDqkhRyYDMbjvXNj-L7RBlXh85Cpzp_Jj/Oeffentliche_Niederschrift_Rat_20.09.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 14.06.2019
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Jubiläen langjähriger Ratsmitgliedschaften: 20 Jahre, 25 Jahre, 30 Jahre und 35 Jahre
+- TOP A.23a: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.7: Stadttheater: Prüfung des weiteren Vorgehens im Rahmen der Regionale 2022, hier: Neubau einer Veranstaltungsstätte
+- TOP zu A.7: Beschlussantrag der Fraktion B90/DIE GRÜNEN zum TOP A.7: Stadttheater - Prüfung des weiteren Vorgehens im Rahmen der Regionale 2022, hier: Neubau einer Veranstaltungsstätte
+- TOP zu A.7: Beschlussantrag der FDP-Fraktion zum TOP A.7: Stadttheater - Prüfung des weiteren Vorgehens im Rahmen der Regionale 2022 hier: Neubau einer Veranstaltungsstätte
+- TOP A.24: Antrag der Fraktion B90/DIE GRÜNEN: "Umsetzung des Klimaschutzkonzeptes"
+- TOP A.4: Steuerung von Drittorganisationen:
+- TOP A.4a: Beteiligungsbericht 2018/ 2019
+- TOP A.4b: Bericht aus dem Beteiligungscontrolling: a) Bericht über die Verschuldung zum 30.06.2019 b) Jahresprognose 2019 der Beteiligungsunternehmen zum 30.06.2019
+- TOP A.4c: 2. Situationsbericht zur Haushaltswirtschaft 2019
+- TOP A.4d: Kommunales Klärschlammentsorgungskonzept
+- TOP A.4e: Umstrukturierung der Stadtentwicklungsgesellschaft Hansestadt Herford mbH
+- TOP A.4f: WWS Wohn- und Wirtschafts- Service Herford GmbH: Neubau einer Kindertagesstätte im Frieda-Nadig-Weg und Herstellung einer zur Kindertagesstätte in der Amselstraße gehörenden Außenanlage mit Spielgeräten - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.4g: Finanzierung der Nordwestdeutschen Philharmonie (NWD) a) Finanzierungsbeiträge der Hansestadt Herford für die NWD und das Landestheater Detmold in den Jahren 2021 bis 2025 b) Kooperationsvereinbarung der Überkreuzfinanzierung zwischen den Kreisen Herford und Lippe sowie den Städten Herford und Detmold - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.4h: Westfalen Weser Energie Gruppe: Gründung der Westfälischen Energie Effizienz GmbH als Tochtergesellschaft der Energieservice Westfalen Weser GmbH für energieintensive Leistungen, Vorratsbeschluss zur künftigen Beteiligung der Mark-E Effizienz GmbH an dieser Gesellschaft - Bei 2 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.5: wfg - Interkommunale Wirtschaftsförderungsgesellschaft mbH im Kreis Herford a) Jahresabschlüsse 2017 und 2018 sowie Vortrag der Jahresfehlbeträge b) Entlastung der Geschäftsführung für die Geschäftsjahre 2017 und 2018 c) Wirtschaftsplan 2020 und Mittelfristplanung 2021-2024 d) Wahl des Vorsitzes und des stellvertretenden Vorsitzes e) Verfahren zur Besetzung des geplanten Wirtschaftsbeirates - Bei 2 Enthaltungen und 2 Nein-Stimmen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.6: Prüfergebnis zum Haushaltsbegleitbeschluss: strukturelle Optimierung der Bereiche Wirtschaftsförderung und Stadtmarketing (mündlicher Sachstandsbericht)
+- TOP A.8: Regiopolregion Bielefeld: Sachstandsbericht
+- TOP A.9: Jugendförderung: Fortführung des Bundesprogrammes „Demokratie leben!“ - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.10: Situation von Menschen mit Migrationshintergrund
+- TOP A.11: Stadtentwicklungsmaßnahme "Bildungshaus" im Stadtteil West - Einstimmig und ohne Enthaltung wurde der TOP in die Dezember-Ratssitzung vertagt. 
+- TOP A.12: Gestaltungssatzung der Hansestadt Herford der Alt- und Neustadt hier: Satzungsbeschluss - Bei einer Nein-Stimme und 3 Enthaltungen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.13: Werbesatzung der Hansestadt Herford der Alt- und Neustadt hier: Satzungsbeschluss - Bei einer Nein-Stimme und 3 Enthaltungen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.14: Neufassung der „Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Hansestadt Herford“. - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.15: Satzung der Hansestadt Herford über die öffentliche Nahwärmeversorgung - Bei einer Enthaltung wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.16: Bebauungsplan Nr. 12.39 „Vlothoer Straße-Süd / Wentworth-Kaserne“ hier: 2. Verlängerung der Veränderungssperre Nr. 43 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.17: Bebauungsplan Nr. 12.38 „Vlothoer Straße-Nord/ Hammersmith-Kaserne“ hier: 2. Verlängerung der Veränderungssperre Nr. 42 - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.18: Aufhebung des Bebauungsplans Nr. 5.18 "Auf dem Esche" hier: Satzungsbeschluss - Bei 2 Nein-Stimmen und 2 Enthaltungen wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.19: Endgültiger Ausbau der Straße „Im Barrenholze“ von Engerstraße bis „Am Wasserturm“ hier: Beschluss über die Abschnittsbildung für die Beitragsabrechnung der Erschließungsanlage "Im Barrenholze" nach dem BauGB und der Satzung der Hansestadt Herford über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung) in der Fassung der 7. Änderung vom 22.06.2015 - Bei 4 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.20: Endgültiger Ausbau der Finkenstraße von „Zum Haberland bis „In der Strodtholzsiedlung“ hier: Beschluss über die Abschnittsbildung für die Beitragsabrechnung der Erschließungsanlage "Finkenstraße" nach dem BauGB und der Satzung der Hansestadt Herford über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung) in der Fassung der 7. Änderung vom 22.06.2015 - Bei 5 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.21: Endgültiger Ausbau der Straße "Obernbrink" von der Elverdisser Straße bis einschließlich Haus-Nr. 4 hier: Beschluss über die Abschnittsbildung für die Beitragsabrechnung der Straße "Obernbrink" von Elverdisser Straße bis Haus-Nr. 4" nach dem BauGB und der Satzung der Hansestadt Herford über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung) in der Fassung der 7. Änderung vom 22.06.2015 - Bei 5 Enthaltungen wurde einstimmig folgender Beschluss gefasst: 
+- TOP A.22: Klarstellungs- und Entwicklungssatzung Nr. 1 über die Festlegung der Grenzen des im Zusammenhang bebauten Bereiches im Stadtteil Herringhausen - Ost "Rigteweg" hier: Satzungsbeschluss - Bei 3 Nein-Stimmen und einer Enthaltung wurde mehrheitlich folgender Beschluss gefasst: 
+- TOP A.23: Besetzungen:
+- TOP A.23b: Neuwahl von ehrenamtlichen Richterinnen und Richtern für das Verwaltungsgericht Minden
+- TOP zu A.23b: Neuwahl von ehrenamtlichen Richterinnen und Richtern für das Verwaltungsgericht Minden - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23c: Nachbesetzung im Beirat für Menschen mit Behinderungen - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.23d: Antrag der Fraktion Bürger für Herford zur Umbesetzung im Schulausschuss sowie Bau- und Umweltausschuss
+- TOP zu A.23d: Nachgereichte Umbesetzungsvorschläge der Fraktion Bürger für Herford für den Schulausschuss, Bau- und Umweltausschuss sowie Beirat der Kultur gGmbH
+- TOP A.23e: Antrag der FDP-Fraktion zur Umbesetzung im Sozialausschuss - Einstimmig und ohne Enthaltung wurde folgender Beschluss gefasst: 
+- TOP A.25: Mitteilungen
