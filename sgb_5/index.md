@@ -840,4 +840,4 @@ der Herstellung der Einheit Deutschlands
 - [§ 323 Bestandsbereinigung bei der freiwilligen Versicherung](0323.md)
 - [§ 324 Übergangsregelung für ehemalige Soldatinnen und Soldaten auf Zeit](0324.md)
 - [§ 325 Übergangsregelung zur Neuregelung der Verjährungsfrist für die Ansprüche von Krankenhäusern und Krankenkassen](0325.md)
-- [§ 326 Übergangsregelung zur Vergütung der Vorstandsmitglieder der KassenärztlichenBundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0326.md)
+- [§ 326 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter](0326.md)

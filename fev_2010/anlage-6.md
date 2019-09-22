@@ -1,8 +1,8 @@
-# Anlage 6 (zu den §§ 12, 48 Absatz 4 und 5) Anforderungen an das Sehvermögen
+# Anlage 6 (zu den §§ 12, 48 Absatz 4 und 5)Anforderungen an das Sehvermögen
 
 1. Klassen A, A1, A2, B, BE, AM, L und T
 1.1 Sehtest (§ 12 Absatz 2)
-  Der Sehtest (§ 12 Absatz 2) ist bestanden, wenn die zentrale Tagessehschärfe mit oder ohne Sehhilfen mindestens beträgt: 0,7/0,7. Über den Sehtest ist eine Sehtestbescheinigung nach § 12 Absatz 3 zu erstellen.
+  Der Sehtest (§ 12 Absatz 2) ist bestanden, wenn die zentrale Tagessehschärfe mit oder ohne Sehhilfen mindestens beträgt: 0,7/0,7. Über den Sehtest ist eine Sehtestbescheinigung gemäß dem Muster dieser Anlage zu erstellen.
 1.2 Augenärztliche Untersuchung (§ 12 Absatz 5)
   Besteht der Bewerber den Sehtest nicht, ist eine augenärztliche Untersuchung erforderlich. Bei dieser Untersuchung ist unter anderem auf Sehschärfe, Gesichtsfeld, Dämmerungs- oder Kontrastsehen, Blendempfindlichkeit, Diplopie sowie andere Störungen der Sehfunktion zu achten, die ein sicheres Fahren in Frage stellen können. Es müssen folgende Mindestanforderungen erfüllt sein:
 1.2.1 Zentrale Tagessehschärfe
@@ -53,18 +53,42 @@
   2.2.3.1.1 Liegt die zentrale Tagessehschärfe unterhalb von 1,0/1,0, so muss sie durch Sehhilfen so weit wie möglich dem Sehvermögen des Normalsichtigen angenähert werden.
   2.2.3.1.2 Für Inhaber einer Fahrerlaubnis reichen folgende Mindestwerte für die zentrale Tagessehschärfe aus, wenn feststeht, dass das Wahrnehmungsvermögen des Betroffenen trotz verminderten Sehvermögens zum sicheren Führen eines Kraftfahrzeugs der Klasse/Art noch ausreicht:
     | Bei Fahrerlaubnisinhabern der | Klassen 1, 1a, 1b, 3, 4, 5 | Klasse 2 | Fahrerlaubnis zur Fahrgastbeförderung |
-    | Bei Beidäugigkeit | 0,4/0,2 | 0,7/0,22) | 0,7/0,5 |
-    | Bei Einäugigkeit | 0,6 | 0,7 | 0,73) |
+    | Bei Beidäugigkeit | 0,4/0,2 | 0,7/0,2 | 0,7/0,5 |
+    | Bei Einäugigkeit | 0,6 | 0,7 | 0,7 |
   2.2.3.2 Mindestanforderungen an die übrigen Sehfunktionen
   2.2.3.2.1 | Bei Inhabern der | Klassen 1, 1a, 1b, 3, 4, 5 | Klasse 2, Fahrerlaubnis zur Fahrgastbeförderung |
     | Gesichtsfeld | normales Gesichtsfeld eines Auges oder gleichwertiges beidäugiges Gesichtsfeld | normale Gesichtsfelder beider Augen |
-    | Beweglichkeit | Bei Beidäugigkeit: Augenzittern sowie Begleit- und Lähmungsschielen ohne Doppeltsehen im zentralen Blickfeld bei Kopfgeradehaltung zulässig. Bei Augenzittern darf die Erkennungszeit für die einzelnen Sehzeichen nicht mehr als eine Sekunde betragen. Bei Einäugigkeit: Normale Augenbeweglichkeit, kein Augenzittern. | Normale Beweglichkeit beider Augen1); zeitweises Schielen unzulässig |
+    | Beweglichkeit | Bei Beidäugigkeit: Augenzittern sowie Begleit- und Lähmungsschielen ohne Doppeltsehen im zentralen Blickfeld bei Kopfgeradehaltung zulässig. Bei Augenzittern darf die Erkennungszeit für die einzelnen Sehzeichen nicht mehr als eine Sekunde betragen. Bei Einäugigkeit: Normale Augenbeweglichkeit, kein Augenzittern. | Normale Beweglichkeit beider Augen; zeitweises Schielen unzulässig |
     | Stereosehen | keine Anforderungen | normales Stereosehen |
     | Farbensehen | keine Anforderungen | Rotblindheit oder Rotschwäche mit einem Anomalquotienten unter 0,5 – bei Fahrerlaubnis zur Fahrgastbeförderung: unzulässig – bei Klasse 2: Aufklärung des Betroffenen über die durch die Störung des Farbensehens mögliche Gefährdung ausreichend |
   2.2.3.2.2 Wenn wegen Zweifeln an ausreichendem Sehvermögen eine augenärztliche Begutachtung stattfindet, sollte die Untersuchung auch die Dämmerungssehschärfe und die Blendungsempfindlichkeit umfassen. Werden dabei Mängel festgestellt, so ist der Betroffene auf die Gefahren durch geminderte Dämmerungssehschärfe und erhöhte Blendungsempfindlichkeit beim Fahren in der Dämmerung und in der Nacht hinzuweisen.
 2.3 Nach einer neu eingetretenen relevanten Einschränkung des Sehvermögens muss ein geeigneter Anpassungszeitraum eingehalten werden, während dessen das Führen von Kraftfahrzeugen nicht erlaubt ist. Danach darf erst nach augenärztlicher Untersuchung und Beratung wieder ein Kraftfahrzeug geführt werden.
 2.4 Besteht eine fortschreitende Augenkrankheit, ist eine regelmäßige augenärztliche Untersuchung und Beratung erforderlich.
 3 (weggefallen)
+| Muster |
+  | Sehtestbescheinigung |
+  | (Anlage 6 Nummer 1.1 der Fahrerlaubnis-Verordnung)von Bewerbern um die Erteilung einer Fahrerlaubnis der Klassen AM, A1, A2, A, B, BE, L oder T |
+  |  |  |  |
+  | Nr. | Amtlich anerkannte Sehteststelle: |  |
+  |  |  |  |
+  Name: ___________________________________ Vorname: ______________________________
+  geboren am: ______________________________
+  | Der Sehtest wurde durchgeführt |  |
+  | ohne Sehhilfe | ⃞ | Identität nachgewiesen ⃞ |
+  |  |  |  |
+  | mit Sehhilfe | ⃞ | Ausweisdokument Nr.: |
+  Ergebnis des Sehtests:
+  | Die entsprechende zentrale Tagessehschärfe beträgt: | rechts | links |  | Der Sehtest |  |
+  | 0,7 oder mehr | ⃞ | ⃞ |  | ist bestanden | ⃞ |
+  | weniger | ⃞ | ⃞ |  | ist nicht bestanden | ⃞ |
+| Sonstige Zweifel an ausreichendem Sehvermögen | | | | | |
+  | gemäß Anlage 6 der Fahrerlaubnis-Verordnung |  |  |  | ⃞ |  |
+Art der Zweifel:
+  ____________________________________________________________
+  ____________________________________________________________
+  Ist der Sehtest bestanden, so fügen Sie bitte diese Bescheinigung dem Antrag auf Erteilung der Fahrerlaubnis bei; die Bescheinigung bleibt zwei Jahre gültig. Ist der Sehtest nicht bestanden oder trotz Sehhilfe oder verbesserter Sehhilfe erneut nicht bestanden oder bestehen sonst Zweifel am ausreichenden Sehvermögen, so müssen Sie eine augenärztliche Untersuchung durchführen lassen (§ 12 Absatz 5 der Fahrerlaubnis-Verordnung).
+  ___________________, den ___________________
+  | __________________________________________ Unterschrift des Sehtesters |  |
 Muster
 Bescheinigung über die ärztliche Untersuchung
 (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)

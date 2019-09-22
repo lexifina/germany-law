@@ -23,19 +23,17 @@
 - [§ 11 Gruppenauskünfte an öffentliche Stellen](0011.md)
 - [§ 12 Datenübermittlung an nichtöffentliche Stellen,
 die humanitäre oder soziale Aufgaben wahrnehmen](0012.md)
-- [§ 13 Datenübermittlung an Behörden anderer Staaten und
-an zwischenstaatliche Stellen](0013.md)
+- [§ 13 Datenübermittlung an Behörden anderer Staaten und an zwischenstaatliche Stellen](0013.md)
 - [§ 14 Datenübermittlung an sonstige nichtöffentliche Stellen](0014.md)
 
-## Abschnitt 4 Auskunft an den Betroffenen
+## Abschnitt 4 Auskunft an die betroffene Person
 
 - [§ 15 Voraussetzungen und Verfahren der Auskunftserteilung](0015.md)
 
-## Abschnitt 5 Aufzeichnungen bei Datenübermittlungen, Sperrung
-und Löschung von Daten
+## Abschnitt 5 Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten
 
 - [§ 16 Aufzeichnungen bei Datenübermittlungen](0016.md)
-- [§ 17 Sperrung von Daten](0017.md)
+- [§ 17 Einschränkung der Verarbeitung](0017.md)
 - [§ 18 Löschung von Daten, Löschungsfristen im allgemeinen Datenbestand](0018.md)
 - [§ 19 Löschung von Daten, Löschungsfristen in der Visadatei](0019.md)
 
