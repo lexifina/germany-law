@@ -1,0 +1,8 @@
+# TOP -: Bestellung einer Schriftführerin des Unterausschusses Stellenplan
+
+- Sitzung: Sitzung des Unterausschusses Stellenplan (2019-09-23)
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Öffentlich: ja
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/agendaitems/282751
+- Ergebnis: ungeändert beschlossen
+- Beratung: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/consultations/134102
