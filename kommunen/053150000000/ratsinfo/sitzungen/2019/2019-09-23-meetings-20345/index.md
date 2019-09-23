@@ -1,0 +1,79 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-09-23T14:30:00+02:00
+- Ende: 2019-09-23T15:36:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20345
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20345
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2019 - Kenntnis genommen
+- TOP 2.3: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2019 - Kenntnis genommen
+- TOP 2.4: KSV - Kölner Schulbusverkehr GmbH: Gewinnverteilungsmaßstab - Kenntnis genommen
+- TOP 2.5: Abschluss Vergabeverfahren Bewachungsdienstleistungen - Kenntnis genommen
+- TOP 2.6: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 30.06.2019 - Kenntnis genommen
+- TOP 2.7: 25. Bericht über die Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.8: Planungssicherheit für die Sportvereine – Sicherung des Kunstrasenprogramms - Kenntnis genommen
+- TOP 2.9: Kiosk Rheinboulevard - Kenntnis genommen
+- TOP 2.10: Kölner Verkehrs-Betriebe AG (KVB): Nachprüfungsverfahren gegen die Vergabe eines öffentlichen Dienstleistungsauftrags an die KVB über die Erbringung öffentlicher Personenverkehrsdienste (Vorlagen-Nr. 4240/2018) - Kenntnis genommen
+- TOP 2.11: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 2.12: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.07.2019 - Kenntnis genommen
+- TOP 2.13: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 2.14: Gewerbesteuererstattungen an Reiseveranstalter - Kenntnis genommen
+- TOP 2.15: Situation Festsetzung von Gemeindesteuern - Kenntnis genommen
+- TOP 2.16: Gewerbesteuer - Hebesätze - Aufkommen nach Größenklassen - Kenntnis genommen
+- TOP 2.17: Bericht über die Sanierung der Bühnen am Offenbachplatz - Stand: 31.08.2019 - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Zuwendungen der im Rat und in den Ausschüssen vertretenen Fraktionen, Gruppen und Einzelmandatsträger im Jahr 2018 - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2019 gem. § 83 Abs. 1 u. § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2019 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Generalinstandsetzung der Troisdorfer Straße, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr.2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Bau- und Mittelfreigabebeschluss für die Einrichtung verkehrsberuhigender Elemente sowie für die Durchführung einer Generalsanierung auf der Eupener Straße/Eschweilerstraße/Max-Wallraf-Straße in Braunsfeld - unter Vorbehalt beschlossen
+- TOP 7.2: Baubeschluss für die Generalsanierung der Euskirchener Straße inklusive der Erneuerung der Straßen und Gehwege um den Auerbachplatz, sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6601-1201-0-6605, Generalinstandsetzung - unter Vorbehalt beschlossen
+- TOP 7.3: Baubeschluss für die Umgestaltung von 4 Knotenpunkten entlang des Streckenzuges Weißer Straße sowie Freigabe einer investiven Verpflichtungsermächtigung - hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - ungeändert beschlossen
+- TOP 7.4: Mittelfreigabebeschluss zur Beschaffung der Einrichtung für den Neubau der Grundschule Anna-Langohr-Schule, Fühlinger Weg 7, 50765 Köln-Volkhoven/Weiler - ungeändert beschlossen
+- TOP 7.5: Dauerkleingartenanlage (DKA) Klettenberg - unter Vorbehalt beschlossen
+- TOP 7.6: Radschnellweg Köln-Frechen, erweiterter Planungsbeschluss - zurückgestellt
+- TOP 7.7: Bedarfsfeststellungsbeschluss für den Aufbau der gemeinsamen Verkehrs- und Tunnelleitzentrale sowie Freigabe von investiven Auszahlungsermächtigungen - hier: Finanzstelle 6400-1201-0-0001, Ausstattung Tunnel und Verkehrsleitzentrale - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Parkgebührenordnung 2019 - geändert beschlossen
+- TOP 10.1.1: Änderungsantrag zu Top 10.1 "Parkgebührenordnung 2019" - Sache ist erledigt
+- TOP 10.2: Nutzungsvertrag MiQua - ohne Votum in nachfolgende Gremien
+- TOP 10.3: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 10.4: Anpassung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 10.5: Freigabe zusätzlicher Mittel aus der Kulturförderabgabe - Teilplan 1501 Wirtschaft und Tourismus - Zuschuss an die KölnTourismus GmbH - ungeändert beschlossen
+- TOP 10.6: Blockrandbebauung Wallraf-Richartz-Museum & Fondation Corboud - ungeändert beschlossen
+- TOP 10.7: Vergabe Restmittel Antirassismus-Training 2019 - ungeändert beschlossen
+- TOP 10.8: Befristete Fortsetzung des Projektes WAK für Zuwanderinnen und Zuwanderer aus den südosteuropäischen Mitgliedsstaaten der EU - ungeändert beschlossen
+- TOP 10.9: Haushaltsneutrale Umschichtung von Transferaufwendungen 2019 - ungeändert beschlossen
+- TOP 10.10: Ausbau der Jugendeinrichtung Unnauer Weg 96a im Zuge der Umsetzung des Integrierten Handlungskonzeptes Köln-Lindweiler; Projekt „Ausbau des Sozialen Zentrums Lino-Club e.V. zu einem generationenübergreifenden Bürgerhaus (Mehrgenerationenhaus)" hier: - ungeändert beschlossen
+- TOP 10.11: Gründung der GbR Historische Mitte - ohne Votum in nachfolgende Gremien
+- TOP 10.11.1: GbR Historische Mitte, Vorlage 2292/2019 - Kenntnis genommen
+- TOP 10.11.2: Antwort der Verwaltung - Kenntnis genommen
+- TOP 10.12: Baubeschluss zur Instandsetzung und Erweiterung der Waldschule Köln im Umweltbildungszentrum Gut Leidenhausen - geändert beschlossen
+- TOP 10.13: Wirtschaftsplan des Wallraf-Richartz-Museums & Fondation Corboud der Stadt Köln für das Wirtschaftsjahr 2019 - ungeändert beschlossen
+- TOP 10.14: Auslagerung der Klassen an der Grundschule Hauptstraße 432 in 51143 Köln - Baubeschluss - ungeändert beschlossen
+- TOP 10.15: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - ungeändert beschlossen
+- TOP 10.16: Weiterentwicklung des ÖPNV-Angebotes auf Kölner Stadtgebiet: Verlängerung der Buslinie 423 - geändert beschlossen
+- TOP 10.17: Freigabe von Mitteln für den Sicherheitsaufwand bei Großveranstaltungen - ungeändert beschlossen
+- TOP 10.18: Sanierung der Bühnen am Offenbachplatz, Erweiterung der Verpflichtungs- und Kreditermächtigungen - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 11.1: Bezuschussung von Maßnahmen zur Bauunterhaltung und Technikförderung der freien Szene - 2019, Teil 2 - Volksbühne am Rudolfplatz gGmbH - ungeändert beschlossen
+- TOP 11.2: Mittelfreigabebeschluss zur Beschaffung der Einrichtung für die Neu- und Erweiterungsbauten der Realschule am Rhein, dem Studienhaus und dem Mensa- und Ateliergebäude der Bildungslandschaft Altstadt-Nord (BAN) - ungeändert beschlossen
+- TOP 11.3: Mittelfreigabebeschluss zur Beschaffung der Einrichtung für die Erweiterungsbauten Elisabeth-von-Thüringen-Gymnasium und Schillergymnasium, Nikolausstr. 51 -55 50937 Köln, Köln-Lindenthal - ungeändert beschlossen
+- TOP 12: Mündliche Anfragen
