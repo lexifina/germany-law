@@ -1,0 +1,66 @@
+# Rat (49. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-09-23T18:02:00+02:00
+- Ende: 2019-09-23T20:27:00+02:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYdiTpEFsI74C_gYlLQVDdE
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7118
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVsbDzqq53p0Zm0-W08SlkanCUn08GwtIn28ZTT6A9o2/Bekanntmachung_Rat_23.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYqbxAcPuEfeefyb9MsK_5R71B-6GCNhWRosKOfV695Y/Oeffentliche_Niederschrift_Rat_23.09.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Uhrenmast Balthasar Neumann Platz
+- TOP 1.2: Pflaster Thüringer-Platz
+- TOP 1.3: Rathausneubau
+- TOP 1.4: Übermittagsbetreuung Barbaraschule
+- TOP 2.: Niederschrift vom 08.07.2019
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1: City-Marketing-Projekt "Digitalisierung"; Erhalt und Verbesserung der Attraktivität der Brühler Innenstadt hier: "Brühl-App" Bezug: HA 15.5.2017, Vorlage Nr. 172/2017, HA 26.2.2018, Vorlage Nr. 39/2018, HA 19.11.2018, Vorlage Nr. 398/2018, HA 2.9.2019, Vorlage Nr. 304/2019 - (kein Text vorhanden)
+- TOP 4.: Fortschreibung Brandschutzbedarfsplan - (kein Text vorhanden)
+- TOP 5.: Kindertagesbetreuung in Einrichtungen hier: Vergabe der Trägerschaft für die geplante fünfgruppige Kindertagesstätte auf dem Wingertsberg in Brühl-Badorf
+- TOP 5.1: Kindertagesbetreuung in Einrichtungen hier: geplante Vergabe der Trägerschaft für die geplante fünfgruppige Kindertagesstätte auf dem Wingertsberg in Brühl Bezug: JHA-VL 349/2019 - (kein Text vorhanden)
+- TOP 6.: Förderantrag ISEK - (kein Text vorhanden)
+- TOP 6.1: Förderantrag ISEK hier: Fördergespräch am 05.09.2019 - (kein Text vorhanden)
+- TOP 7.: Kostenbeteiligung Machbarkeitsstudie durchgehender zweigleisiger Ausbau der Stadtbahnlinie 18 - (kein Text vorhanden)
+- TOP 7.1: Kostenbeteiligung Machbarkeitsstudie durchgehender zweigleisiger Ausbau der Stadtbahnlinie 18 Bezug: Vorlage 297/2019 - (kein Text vorhanden)
+- TOP 8.: Vergabe eines Öffentlichen Dienstleistungsauftrages der Stadt Brühl zur Erbringung von öffentlichen Personenverkehrsdienstleistungen nach Art. 5 Abs. 5 EU-VO 1370/07 durch die Stadtwerke Brühl GmbH im Wege der Notmaßnahme - (kein Text vorhanden)
+- TOP 9.: Altkleidercontainer im öffentlichen Straßenraum - (kein Text vorhanden)
+- TOP 10.: Beitritt zur d-NRW AÖR zum 01.01.2020 - (kein Text vorhanden)
+- TOP 11.: Beanstandung des Ratsbeschlusses vom 6.5.2019 zu TOP 18.6 Zuordnung des Fachbereichs Schule und Sport zum Bürgermeisterdezernat - (kein Text vorhanden)
+- TOP 12.: Bebauungspläne
+- TOP 12.1: Bebauungsplan 05.09 „Südlich Sechtemer Straße“ - Abwägungs- und Satzungsbeschluss - (kein Text vorhanden)
+- TOP 13.: Satzungen
+- TOP 13.1: 10. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Brühl - (kein Text vorhanden)
+- TOP 13.2: Einführung einer Wettbürosteuer und Erlass einer Wettbürosteuersatzung. - (kein Text vorhanden)
+- TOP 13.2.1: Satzung über die Erhebung der Wettbürosteuer in der Stadt Brühl - (kein Text vorhanden)
+- TOP 14.: Über- und außerplanmäßige Mittelbereitstellungen
+- TOP 14.1: Erich-Kästner-Realschule -Übergangsunterbringung- Hier: zusätzliche Verpflichtungsermächtigung (VE) für die Herrichtung des „RWE-Gebäudes“ Auguste-Viktoria-Straße als Interimslösung EKR - (kein Text vorhanden)
+- TOP 14.2: Katholische Grundschule Barbara Räumliche Erweiterung der Übermittagsbetreuung Bezug: Änderungsantrag zum Antrag der Fraktion Linke & Piraten, Rat 6.5.2019, Vorlagen-Nr. 113/2019 Antrag der SPD-Fraktion vom 02.05.2019 166/2019, HA 27.05.2019, Rat 08. - (kein Text vorhanden)
+- TOP 15.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 15.1: Dringlichkeitsentscheidung gem. § 60 GO NRW hier: Außerplanmäßige Ausgabe für die Anschaffung und Einrichtung einer neuen Zeiterfassungssoftware nebst Zeiterfassungsterminal - (kein Text vorhanden)
+- TOP 16.: Gesellschafterversammlung Stadtwerke - Jahresabschluss 2018 - (kein Text vorhanden)
+- TOP 17.: Anträge
+- TOP 17.1: Verkehrskonzept Schildgesstraße Bezug: Gemeinsamer Antrag der Fraktionen CDU und Grüne vom 02.09.2019
+- TOP 17.2: Prüfauftrag zur Erstellung eines Gesamtkonzeptes und Auflegen eines Förderprogramms zur Dach-, Fassaden- und Vorgartenbegrünung Bezug: Antrag der Fraktion Linke&Piraten vom 06.09.2019 - (kein Text vorhanden)
+- TOP 17.3: Ausbau Solarenergie Bezug: Antrag der Fraktion Linke&Piraten vom 06.09.2019 - (kein Text vorhanden)
+- TOP 17.4: Lichtershow statt Feuerwerk in der Brühler Innenstadt Bezug: Antrag der Fraktion Linke&Piraten vom 06.09.2019 - (kein Text vorhanden)
+- TOP 18.: Umbesetzung in Ausschüssen
+- TOP 18.1: Umbesetzungen im Schulausschuss und im Sozialausschuss Bezug: Antrag der Fraktion Linke&Piraten vom 06.09.2019 - (kein Text vorhanden)
+- TOP 19.: Mitteilungen
+- TOP 19.1: Veräußerung des Eckgrundstücks neben Parkstraße 20 durch die Bundesanstalt für Immobilienaufgaben (BIMA)
+- TOP 20.: Anfragen
+- TOP 20.1: Beleuchtung Haltestelle Brühl-Süd
+- TOP 20.2: Rathausneubau
+- TOP 20.3: Parksituation Hubert-Geuer-Straße
+- TOP 20.4: Radweg Theodor-Heuss-Straße
+- TOP B): Nichtöffentliche Sitzung
+- TOP 21.: Bericht über die 150. Sitzung des Aufsichtsrates der REVG mbH am 27.06.2019
+- TOP 22.: Mitteilungen
+- TOP 23.: Anfragen
