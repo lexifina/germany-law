@@ -1,0 +1,67 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (42. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-09-23T17:00:00+02:00
+- Ende: 2019-09-23T21:02:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZU7k0qwBqYAYEHoncuQQjFo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5331
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfjBd4uPjrgf4Usr7Gv-nQW3_IZ5sI6nCyXv96utKzhw/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_23.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYpV7sBaqrQDA6bj0ESgRJj_mp6X2fqDBgzhwb7UUzey/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_23.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Instandsetzungsarbeiten an der Wupperbrücke Horn (Juckelbrücke)
+- TOP 1.2: Sanierungsstau bei Eisenbahnbrücken und -unterführungen
+- TOP 1.3: Konsequenzen aus dem dürrebedingten Sterben von Solinger Waldbeständen
+- TOP 1.4: Nahverkehrsplan Teil 2
+- TOP 1.5: Begrünung Haltestellen
+- TOP 1.6: Radabstellplätze mit Mitteln und Unterstützung durch DB und Bundesumweltministerium
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 01.07.2019 (gemeinsame Sitzung mit der Bezirksvertretung Mitte)
+- TOP 4.: Protokoll über die 40. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 01.07.2019 (gemeinsame Sitzung mit der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid)
+- TOP 5.: Protokoll über die 41. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 01.07.2019
+- TOP 6.: Klimaschutz und Klimaanpassung in der Klingenstadt Solingen - Sachstand und Perspektiven; mündlicher Bericht
+- TOP 7.: Vorstellung der Solinger Teilnehmenden an Fridays for Future" und ihrer Positionen hier: Antrag der CDU-Fraktion vom 01.07.2019
+- TOP 8.: Veloroute Düsseldorf-Hilden-Solingen-Wuppertal Querung Korkenziehertrasse/Nümmener Feld/Dahler Straße
+- TOP 9.: Anregung aus dem Agenda-Team zur ökologischen und klimagerechten Gestaltung von Grundstücksvorgärten
+- TOP 10.: „Solingen elektrisiert! - Integriertes Elektromobilitätskonzept der Stadt Solingen“
+- TOP 11.: Ersatzneubau Brücke Korkenziehertrasse über die Gartenstraße
+- TOP 12.: Ergebnis Prüfaufträge Kreisverkehre Innenstadt
+- TOP 13.: Anträge des ÖPNV-Fahrgastbeirates und des Jugendstadtrates aus der gemeinsamen Sitzung am 18.06.2019
+- TOP 14.: Integriertes Stadtteilentwicklungskonzept (ISEK) Ohligs: Hof- und Fassadenprogramm
+- TOP 15.: Integriertes Stadtteilentwicklungskonzept (ISEK) Burg: Hof- und Fassadenprogramm
+- TOP 16.: Erarbeitungsverfahren der 1. Änderung des Regionalplans Düsseldorf (RPD) Mehr Wohnbauland am Rhein Stellungnahme der Stadt Solingen im Beteiligungsverfahren
+- TOP 17.: Rückbau des Parkplatzes Merkurstraße und des Fahrbahnabschnitts westlich des Parkplatzes zwischen Querstraße und Merkurstraße sowie Einziehung der vorgenannten Fahrbahnfläche gem. § 7 Straßen- und Wegegesetz des Landes Nordrhein-Westfalen (StrWG NRW)
+- TOP 18.: Aufhebung der Sanierungssatzung für den Teilbereich I, Block VII des förmlich festgelegten Sanierungsgebietes Solingen-Wald
+- TOP 19.: Bauleitplanung ehemaliges Freibad Höher Heide Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf der Flächennutzungsplanänderung Nr. 23/04 und zum Entwurf des vorhabenbezogenen Bebauungsplanes H 671, zugleich Vorhaben- und Erschließungsplan, sowie Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 23/04 und Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan H 671, zugleich Vorhaben und Erschließungsplan, beide für das Gebiet des ehemaligen Freibades Höher Heide (Beschluss 3) - Stadtbezirk Ohligs/Aufderhöhe/Merscheid -
+- TOP 20.: Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 21.: Stadtentwicklungsgesellschaft Solingen – Benennung der Fraktionsmitglieder in den Gesellschafterversammlungen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG und der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 22.: Stadtentwicklungsgesellschaft Solingen – Benennung der Mitglieder des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 23.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 24.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Stadtwerke Solingen GmbH
+- TOP 25.: Verschiedenes
+- TOP 25.1: Mitteilungen der Verwaltung
+- TOP 25.1.1: Schützenstraße zwischen Ritterstraße und Kreuzung Krahenhöhe: Markierung von Radverkehrsanlagen im Rahmen der KInvFG-Maßnahme
+- TOP 25.1.2: Erneuerung der Signalanlage Cronenberger Str./Potsdamer Straße
+- TOP 25.1.3: Haltestellenumbau im Zuge der Umstellung der Linie 695 auf den Batterie-Oberleitungs-Bus
+- TOP 25.1.4: ÖPNV-Verkehrsmodell, Ergebnis 2. Beiratssitzung
+- TOP 25.1.5: Machbarkeitsstudie zur Anbindung der L79n an die A3
+- TOP 25.1.6: Situation in der Klingenstadt bzgl. der überregionalen Berichterstattung zum s. g. Bauüberhang
+- TOP 25.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 41. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 01.07.2019
+- TOP 4.: Situation in der Klingenstadt bzgl. der überregionalen Berichterstattung zum s. g. Bauüberhang
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 5.1: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 6.: Integriertes Stadtteilentwicklungskonzept (ISEK) Burg: Vergabe der Bauleistungen für die Umgestaltung der Eschbachstraße
+- TOP 7.: Verschiedenes
+- TOP 7.1: Mitteilungen der Verwaltung
+- TOP 7.2: Anfragen an die Verwaltung
