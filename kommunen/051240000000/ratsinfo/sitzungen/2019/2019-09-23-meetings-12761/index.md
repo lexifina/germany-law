@@ -1,0 +1,121 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-09-23T14:00:00+02:00
+- Ende: 2019-09-23T21:00:00+02:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12761
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12761
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 13.09.19 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00243099.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00244621.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Einbringung des Haushaltsplanes 2020/2021 und der Fortschreibung des Haushaltssanierungsplanes
+- TOP 1.2: Haushaltsplan 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 1.2.1: Begleitdrucksache zum Haushaltsplan-Entwurf 2020/2021 - Einführung einer Infrastrukturförderabgabe - Entgegennahme ohne Beschluss
+- TOP 1.3: 9. Fortschreibung des Haushaltssanierungsplans (HSP) 2012 - 2021 für das Jahr 2020 - Entgegennahme ohne Beschluss
+- TOP 1.4: 4. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse und die Bezirksvertretungen - ungeändert beschlossen
+- TOP 1.4.1: Änderungsantrag zur Drucksache VO/0830/19, 4. Änderung der Geschäftsordnung für den Rat der Stadt Wuppertal, die Ausschüsse, und die Bezirksvertretungen - abgelehnt
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Interne Revision Tanztheater Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Interne Revision Tanztheater Wuppertal" vom 04.09.2019 (VO/0857/19) - Entgegennahme ohne Beschluss
+- TOP 2.2: Honorarkräfte an der Bergischen Musikschule - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Große Anfrage der SPD-Ratsfraktion: Honorarkräfte an der Bergischen Musikschule - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zum Erhalt des Arthotels mit seinen künstlerisch ausgestalteten Räumen
+- TOP 3.2: Bürgerantrag zum Thema "Klimaschutz als prioritäre Gemeinschaftsaufgabe"
+- TOP 3.3: Bürgerantrag zum Thema "Vollständiger Erhalt des Baumbestandes im zukünftigen Wupperpark-Ost unter allen Umständen sicherstellen"
+- TOP 3.4: Bürgerantrag zur Aufhebung der Radwegbenutzungspflicht und Anlage eines Radfahrstreifens in der Lenneper Straße
+- TOP 3.5: Bürgerantrag zur Änderung der Satzung über die Abwasserbeseitigung in der Stadt Wuppertal
+- TOP 3.6: Bürgerantrag zur Unterstützung des jährlichen Rosensonntagszuges durch die Stadt Wuppertal
+- TOP 4: Anträge
+- TOP 4.1: Aufhebung des vorhabenbezogenen Bebauungsplans 1220V - FOC/Kleeblatt - in der Sache erledigt
+- TOP 4.1.1: Antrag zur Tagesordnung, Tagesordnungspunkt 4.1, VO/0111/19 - ungeändert beschlossen
+- TOP 4.1.2: Rechtsstreitigkeiten zwischen der Stadt Wuppertal und der Stadt Remscheid wegen des DOC Remscheid-Lennep und des FOC Wuppertal - zurückgezogen
+- TOP 4.1.3: Ankündigung zur Einstellung der Planungen zum - FOC / Kleeblatt - - ungeändert beschlossen
+- TOP 4.1.4: Rechtsstreitigkeiten zwischen der Stadt Wuppertal und der Stadt Remscheid wegen des DOC Remscheid-Lennep und des FOC Wuppertal - Entgegennahme ohne Beschluss
+- TOP 4.2: Schnelle Hilfe für das schwer verletzte Opfer der "Gucci-Bande" - abgelehnt
+- TOP 4.3: Null Toleranz bei der kriminellen "Gucci-Bande" - abgelehnt
+- TOP 4.4: Anonyme Spurensicherung: Finanzierung dauerhaft gewährleisten - ungeändert beschlossen
+- TOP 4.5: Spielplätze inklusiv und seniorengerecht gestalten - zur Vorberatung verwiesen
+- TOP 4.6: "Ungleiches ungleich behandeln: Grundschulen mit besonderen Anforderungen besser ausstatten" - abgelehnt
+- TOP 4.7: Berücksichtigung der Straßenverkehrssituation bei jeglicher Genehmigung von Bauprojekten - abgelehnt
+- TOP 4.8: Bildung einer Begleitkommission im Zusammenhang mit der Besetzung der Leitung des Tanztheaters Wuppertal - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Gebühren für Außengastronomie senken! - geändert beschlossen
+- TOP 5.2: 14 Punkte-Paket für mehr Klimaschutz in Wuppertal - ungeändert beschlossen
+- TOP 5.2.1: Änderungsantrag zur Drucksache VO/0647/19 - 14 Punkte-Paket für mehr Klimaschutz - ungeändert beschlossen
+- TOP 5.2.2: Ergänzungsantrag zur Drucksache VO/0647/19 - Wuppertaler Politik und Verwaltung retten das Weltklima - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Erledigt durch die Drucksache VO/0447/19/1-Neuf. (TOP 6.2). Wiedereinführung der Baumschutzsatzung - abgesetzt
+- TOP 6.1.1: Abgesetzt. Erledigt durch die Drucksache VO/0447/19/1-Neuf. (TOP 6.2). Wiedereinführung der Baumschutzsatzung - 1. Ergänzung - abgesetzt
+- TOP 6.2: Wiedereinführung der Baumschutzsatzung - ungeändert beschlossen
+- TOP 6.3: Erste Änderungssatzung zur Änderung der Wahlordnung für die Wahl des Integrationsrates der Stadt Wuppertal vom 25.02.2014 - vertagen
+- TOP 6.4: Festsetzung privatrechtlicher Entgelte für die Mittagsverpflegung in Tageseinrichtungen für Kinder der Stadt Wuppertal (Entgeltordnung) - ungeändert beschlossen
+- TOP 6.5: 4. Änderung der Hauptsatzung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Bereitstellung überplanmäßiger Mittel: Gewährleistung der Verkehrssicherungspflicht auf Spielplätzen - ungeändert beschlossen
+- TOP 7.2: Bereitstellung überplanmäßiger Mittel: Gewährleistung der Verkehrssicherungspflicht und Unterhaltung von Spielgeräten auf Schulhofflächen - ungeändert beschlossen
+- TOP 7.3: Genehmigung überplanmäßiger Haushaltsmittel: Sanierung der Futtermauern in der Bramdelle (Nordbahntrasse) - ungeändert beschlossen
+- TOP 7.4: Genehmigung einer überplanmäßigen Ermächtigung für die Überprüfung und Sanierung von Brunnen und Denkmälern - ungeändert beschlossen
+- TOP 7.5: Genehmigung einer außerplanmäßigen Ausgabe: Digitalisierung von Versorgungsamtsakten - ungeändert beschlossen
+- TOP 7.6: Einführung eines wirkungsorientierten Haushaltes bei der Stadt Wuppertal / Gendergerechte Haushaltsplanung - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung der Betriebssatzung der Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Abberufung und Bestellung einer stellvertretenden Betriebsleiterin der Alten- und Altenpflegeheime der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2018 für die Alten- und Altenpflegeheime der Stadt Wuppertal - Stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 8.5: Abfallwirtschaftsgesellschaft mbH Wuppertal - Neuverträge EKOCity 2024-2033 - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss des Eigenbetriebes Wasser und Abwasser für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 8.7: Entlastung des Betriebsausschusses für den Eigenbetrieb Wasser und Abwasser für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan 448 - Triebelsheide - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan 1244 - Deutscher Ring - - ungeändert beschlossen
+- TOP 9.3: Aufhebung Fluchtlinienplan 826 - Deutscher Ring - - ungeändert beschlossen
+- TOP 9.4: Erarbeitungsverfahren der 1. Änderung des Regionalplans Düsseldorf (RPD) - Siedlungsbereiche - - geändert beschlossen
+- TOP 9.4.1: Erarbeitungsverfahren der 1. Änderung des Regionalplans Düsseldorf (RPD) - Siedlungsbereiche - - Entgegennahme ohne Beschluss
+- TOP 9.4.2: Änderung des Regionalplans Düsseldorf (RPD) - Siedlungsbereiche - / Ersetzungsantrag zu VO/0714/19 - abgelehnt
+- TOP 9.5: Aufhebung Fluchtlinienplan 970 - Hütter Straße - - ungeändert beschlossen
+- TOP 9.6: 113. Änderung des Flächennutzungsplanes - Westring - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan 1207 - Westring - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Neubau eines Schulgebäudes an der Dieckerhoffstraße - geändert beschlossen
+- TOP 10.2: Neubau einer Sport- und Turnhalle (vier Halleneinheiten) auf dem städtischen Grundstück Nevigeser Straße - ungeändert beschlossen
+- TOP 10.3: Umbau der Hauptfeuer- und Rettungswache August-Bebel-Straße / Planung von zwei Rettungswachen - ungeändert beschlossen
+- TOP 10.4: Abriss Bergische Sonne - Beauftragung NRW Urban und weitere Architekten-, Ingenieur-, Sachverständigen- und Bauleistungen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Entwicklung des Stadions am Zoo: Ausschreibung des städtischen Grundstückes Boettingerweg - geändert beschlossen
+- TOP 11.2: Stadtentwicklungskonzept "Zukunft Wuppertal" - ungeändert beschlossen
+- TOP 11.3: Aktualisierung des Integrierten Städtebaulichen Entwicklungskonzeptes - Innenstadt Barmen sowie Beschluss für Teilmaßnahmen der Gebietsförderkulisse Aktive Stadt- und Ortsteilzentren: Innenstadt Barmen - ungeändert beschlossen
+- TOP 11.4: Fortschreibung Integriertes Städtebauliches Entwicklungskonzept Innenstadt Elberfeld sowie Anmeldung von Maßnahmen der Städtebauförderung im Stadtentwicklungsprogramm 2020 - ungeändert beschlossen
+- TOP 11.5: Verbindliche Bedarfsplanung 01.10.2019 - 30.09.2022 gemäß § 7 (6) Alten- und Pflegegesetz NRW für die Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.6: Gehwegherstellung Langobardenstraße/ Zugang Nordbahntrasse - ungeändert beschlossen
+- TOP 11.7: (nur Hauptausschuss) Berichterstattung über laufende Gerichtsverfahren
+- TOP 11.8: Berufskolleg am Haspel - dauerhafte Errichtung der Dependance Schluchtstraße - ungeändert beschlossen
+- TOP 11.9: Abgesetzt. Vorberatung nicht abgeschlossen. Dachbegrünung - abgesetzt
+- TOP 11.10: Abgesetzt. Vorberatung nicht abgeschlossen. Fortschreibung der Raum- und Gebäudeplanung der Stadtverwaltung - abgesetzt
+- TOP 11.11: Ergebnisbericht zum Projekt der Bergischen Kulturkooperative - Entgegennahme ohne Beschluss
+- TOP 11.12: Annahme einer Schenkung von Kunstwerken - ungeändert beschlossen
+- TOP 11.13: Entscheidung über die Beanstandung eines Beschlusses der Bezirksvertretung Elberfeld vom 08.05.2019 - ungeändert beschlossen
+- TOP 11.14: Bundesbahndirektion - Entgegennahme ohne Beschluss
+- TOP 11.15: Bau von Gerätehäusern für die freiwillige Feuerwehr / Bau von Rettungsdienstwachen - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.2: Gremienumbesetzung Seniorenbeirat - Der Paritätische Wohlfahrtsverband - ungeändert beschlossen
+- TOP 12.3: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Landessozialgericht für das Land Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.4: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Verwaltungsgericht Düsseldorf - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzung Begleitkommission für den Kinder- und Jugendförderplan - ungeändert beschlossen
+- TOP 12.6: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Kommunal- und Integrationsratswahlen 2020 - geändert beschlossen
+- TOP 12.7: Abberufung und Bestellung von Vertretern der Stadt Wuppertal in der KDN-Verbandsversammlung des KDN-Dachverbandes kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 12.8: Berufung eines beratenden Mitglieds in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.9: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Gremienbesetzungen - abgesetzt
+- TOP 12.10: Abgesetzt. Von der Antrag stellenden Fraktion zurückgezogen. Gremienbesetzungen - abgesetzt
+- TOP 12.11: Wahl der Mitglieder /Vertreter*innen für den Beirat der Unteren Naturschutzbehörde - geändert beschlossen
+- TOP 12.12: Gremienbesetzung Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.13: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.14: Gremienbesetzungen / Benennungen - ungeändert beschlossen
