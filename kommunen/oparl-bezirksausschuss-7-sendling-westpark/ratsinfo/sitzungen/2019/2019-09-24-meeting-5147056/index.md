@@ -1,0 +1,131 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-09-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147056
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147056
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 6.6.1: Lärm- und Abgasbelastung durch laufende Motoren am Busparkplatz Hansastraße
+- TOP 6.6.2: Zigarettenkippen vor dem Anwesen Heiterwanger Str. 23
+- TOP 6.6.3: Einschränkungen für die Anwohner durch die angedachte Sperrung der Höglwörther Str. für den Kfz-Verkehr
+- TOP 10.10.1: (E) Stadtbezirksbudget Feierwerk e.V. Kinderkulturfestival „Dschungel 2019“ vom 26.10.2019 – 03.11.2019 2.500,00€, Az. 0262.0-7-0263
+- TOP 10.10.2: (E) Stadtbezirksbudget Klasse Metzel Ausstellungsprojekt „Farbenladen“ vom 01.10.2019 – 31.10.2019 13.500,00€, Az. 0262.0-7-0262
+- TOP 10.10.3: (E) Stadtbezirksbudget Klingende Brücke München e.V. 50 Jahre Klingende Brücke in München am 16.11.2019 960,00€, Az. 0262.0-7-0264
+- TOP 10.10.4: (E) Stadtbezirksbudget Münchner Tennis-Club Ausstellungspark e.V. 100 Jahre Jubiläumsfeier für die Jugend am 15.09.2019 1.525,00€, Az. 0262.0-7-0256
+- TOP 11.11.1: Künstlerische Gestaltung der Trafohäuschen im Stadtbezirk
+- TOP 11.11.2: Ablehnung der Erschließung neuer Kiesabbaugebiete im Münchner Südwesten
+- TOP 11.11.3: Anpassung Fahrradwegekonzept entlang der Tram-Westtangente an die aktuellen und zukünftigen Bedarfe
+- TOP 11.11.4: Wann kommt der verkehrsberuhigte Gehwegbereich am Partnachplatz?
+- TOP 14.14.1: Baumfällung Friedrich-List-Str.
+- TOP 14.14.2: Baumfällung Hahndorfer Str.
+- TOP 14.14.3: Baumfällung Hinterbärenbadstr.
+- TOP 14.14.4: Baumfällung Rießerseestraße
+- TOP 14.14.5: Baumfällung Siebenbürgener Str.
+- TOP 14.14.6: Baumfällung Werdenfelsstraße
+- TOP 15.15.1: Baumfällungen zum Bauvorhaben Friedrich-Hebbel-Str. 26
+- TOP 15.15.2: Bauvorhaben Friedrich-List-Str. 112a
+- TOP 15.15.3: Bauvorhaben Luise-Kiesselbach-Platz 2
+- TOP 18.: Baureferat
+- TOP 18.18.1: Straßenbauarbeiten im Bereich Fürstenrieder Str. 175
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 22.22.1: Kommunalwahl 2020; Stimmbezirkseinteilung
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 29.: Sozialreferat
+- TOP 29.29.1: Münchenstift GmbH; Vorbereitung einer möglichen Generalsanierung des Hauses St. Josef
+- TOP 31.: Baureferat
+- TOP 31.31.1: Finanzierung von Spielfeld-Markierungen im Westpark
+- TOP 31.31.2: Fahrroute Zielstattstr. / Distlhofweg / Bauernbräuweg beschildern
+- TOP 31.31.3: Holzstöpsel für den Bachlauf im Ostteil des Westparks
+- TOP 31.31.4: Aktualisierung des Grünanlagenverzeichnisses
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 - 2026
+- TOP 34.: Kommunalreferat
+- TOP 34.34.1: Aktuelle und künftige Nutzung des Busparkplatzes an der Hansastraße
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Lärmschutz durch Radarmessanlagen an der B2 (A95) und Tempo 50 stadtauswärts BV-Empfehlung Nr. 14-20 / E 01741
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 37.37.1: Meldelisten Bauvorhaben
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 39.: Referat für Bildung und Sport
+- TOP 39.39.1: Grundschule Boschetsrieder Str.; Absage des Runden Tisches am 01.10.2019
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 42.: Sozialreferat
+- TOP 43.43.1: Meldeliste Bauvorhaben SWM
+- TOP 43.43.2: Zugang zum Westpark am Anwesen Heiterwangerstr. 38 - 58
+- TOP 43.43.3: Fertigstellung des Seniorenkompasses
+- TOP 45.: Baureferat
+- TOP 45.45.1: Einschränkung der Fassadenbeleuchtung an öffentlichen Objekten
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Budget-Bescheid Pfiffikus Lern- & Hausaufgabenhilfe e.V.
+- TOP 47.47.2: Budget-Bescheid Bürgerinitiative Gestaltung Pflanztröge Max-Seidl-Weg und Mainbuger Str.
+- TOP 47.47.3: Budget-Bescheid HIDALOGO e.V.
+- TOP 47.47.4: Budget-Bescheid WECF e.V.
+- TOP 47.47.5: Budget-Bescheid Initiative Spielplatz Pfrontener Platz
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Filmaufnahmen Westpark am 28.08.2019
+- TOP 49.49.2: Fotoaufnahmen Westpark am 16.09.2019
+- TOP 49.49.3: Filmaufnahmen Rüdesheimer Straße 23 - 25 am 23.09.2019
+- TOP 49.49.4: Wegweisung an der Waldfriedhofstraße / Luise-Kiesselbach-Platz Richtung Nord
+- TOP 49.49.5: Marbachstraße; Feuerwehranfahrtzone
+- TOP 49.49.6: Veranstaltungsgenehmigung Grünanlage Pfrontener Platz am 14.09.2019
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 53.53.1: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 55.55.1: Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln
+- TOP 55.55.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.55.3: (U) Straßenräume für den ÖPNV zukunftsweisend gestalten Antrag Nr. 14-20 / A 04185 von der BAYERNPARTEI Stadtratsfraktion vom 15.06.2018
+- TOP 55.55.4: (U) Mobilität in Deutschland 2017 (MiD) Haushaltsbefragung zum Alltagsverkehr in München Ergebnisse
+- TOP 55.55.5: (U) Demografiebericht München - Teil 2 Kleinräumige Bevölkerungsprognose 2017 bis 2040 für die Stadtbezirke
+- TOP 55.55.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.55.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 55.55.8: (U) Bebauungsplan mit Grünordnung Nr. 2027 Zschokkestr. (südlich), Westendstr. (westlich), Barmer Str. und Hans-Thonauer-Str. (östlich) (Teiländerung des Bebauungsplanes Nr. 58 d) a) Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss b) Aufhebung des Geltungsbereiches der Ergänzung zum Aufstellungsbeschluss Nr. 2027 vom 01.07.2015 im Bereich der Straßenverkehrsflächen Westendstraße, Barmer Straße und Hans-Thonauer-Straße
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Munich Festival of Action; Zuschussgewährung Sozialreferat
+- TOP 59.59.1: Meldeliste Abgeschlossenheitsbescheinigungen
