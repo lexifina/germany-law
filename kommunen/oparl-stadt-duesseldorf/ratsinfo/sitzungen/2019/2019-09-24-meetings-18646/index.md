@@ -1,0 +1,79 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-24T17:00:00+02:00
+- Ende: 2019-09-24T20:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18646
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18646
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355493.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355493.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355493.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Umgestaltung Kinderspielplatz Gutenbergstraße - Vorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses - - einstimmig beschlossen
+- TOP 6: Ergänzungsvertrag über die Sanierung der CKW-Grundwasserverunreinigung Lierenfeld/Oberbilk in Verbindung mit der Sanierung der PFT-Grundwasserverunreinigung Gerresheim/Flingern - zur Kenntnis genommen
+- TOP 7: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - Empfehlung mehrheitlich beschlossen
+- TOP 8: Zuschuss an den Rochusclub Düsseldorfer Tennisclub e.V. - einstimmig beschlossen
+- TOP 9: Zuschuss an den Post-Sportverein Düsseldorf e.V. - Duschräume Umkleidegebäude - einstimmig beschlossen
+- TOP 10: Zuschuss an den Post-Sportverein Düsseldorf e.V. - Tennishaus - einstimmig beschlossen
+- TOP 11: Zuschuss an den Post-Sportverein Düsseldorf e.V. - Elektroinstallation - einstimmig beschlossen
+- TOP 12: Sitzungstermine der Bezirksvertretung 7 im 1. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP -: Anträge
+- TOP 14: Gestaltung Dreiecksplatz (Heinrich-Könn-Siedlung) - interfraktioneller Antrag - - einstimmig beschlossen
+- TOP 15: Bushaltestelle Schwarzbachstraße / Gräulinger Straße; Fahrtrichtung Hubbelrath - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 16: Sonnenschutz Spielplatz Quellenbusch - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 17: Fahrradwegweiser - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 18: Fahrradfahren auf dem Bürgersteig Heyestraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 19: Verkehrsberuhigung Hagener Straße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 20: Auswirkungen Umweltspur „Werstener Straße – Nordstern“ - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 21: Fahrradständer Siedlung Heinrich-Könn-Straße - Antrag der SPD-Fraktion - - abweichend beschlossen
+- TOP 22: Bergische Landstraße, Verlegung Radweg, Staubildung - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 23: Bike Sharing für Gerresheim - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 24: Begrünung von Haltestellen - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 25: Dachaufstockungen und Dachaufbauten im Stadtbezirk 7 - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 26: Verkehrssicherheit Kreuzung Heyestraße/ Schönaustraße - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 27: Verbesserung Parkplatzsituation Heckteichstraße - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 28: Geschwindigkeitsanzeige Josef-Neuberger-Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 29: Hinweistafeln mit QR-Codes ausstatten - Antrag der CDU-Fraktion - - zurückgezogen
+- TOP 30: Tempolimit Heyestraße - Antrag der CDU-Fraktion - - abweichend beschlossen
+- TOP 31: Bergische Kaserne / Olympisches Dorf - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Fußgängerbrücke über die Düssel in Höhe Kgv. Hippeland - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Sporthallensituation im Stadtbezirk 7 - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 36: Grünpflege im Stadtbezirk 7 - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 37: Verkehrserschließung Bergische Kaserne - Anfrage der Fraktion Bündnis 90/Die Grünen - - zur Kenntnis genommen
+- TOP 38: Vertical Farming im Stadtbezirk 7 - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP -: Informationsvorlagen
+- TOP 39: Beschlusskontrolle der Bezirksvertretung 7 - zur Kenntnis genommen
+- TOP 40: Sicherer Fußgängerüberweg „Neunzigstr. 8“ - Informationsvorlage zum Beschluss der BV 7 vom 25.09.2018 - - zur Kenntnis genommen
+- TOP 41: Müllproblematik auf dem Gerricusplatz - Aufstellung größerer Abfallbehälter - Informationsvorlage zum Beschluss der BV 7 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 42: Busverbindung Wildpark - Informationsvorlage zum Beschluss der BV 7 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 43: Fahrradhäuschen am Staufenplatz - Informationsvorlage zum Beschluss der BV 7 vom 22.01.2019 - - zur Kenntnis genommen
+- TOP 44: Metrobus Hubbelrath - Informationsvorlage zum Beschluss der BV 7 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 45: Bedarfsampel an der Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 26.02.2019 - - zur Kenntnis genommen
+- TOP 46: Fahrradfahren am Neusser Tor - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 47: Baumfällung aus Verkehrssicherungsgründen - zur Kenntnis genommen
+- TOP 48: Altglascontainer vor REWE Grafenberger Allee - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 49: Quadenhofstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 50: Speziallack für Schilder als Aufkleber-Hindernis - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 51: Glashüttenstraße - Informationsvorlage zum Beschluss der BV 7 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 52: Allee der Jahres-Bäume - Informationsvorlage zum Beschluss der BV 7 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 53: Sportplatz An der Leimkuhle/Klotzbahn - Informationsvorlage zum Beschluss der BV 7 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 54: Ergänzung DStO: Hundekot-Tüten - Informationsvorlage zum Beschluss der BV 7 vom 29.05.2018 - - zur Kenntnis genommen
+- TOP 55: Trinkwasserbrunnen - Informationsvorlage zum Beschluss der BV 7 vom 26.02.2019 - - zur Kenntnis genommen
+- TOP 56: Gerresheimer Krankenhaus SANA - Informatonsvorlage zum Beschluss der BV 7 vom 26.02.2019 - - zur Kenntnis genommen
+- TOP 57: Geburtsstation der SANA-Klinik Gerresheim - Informationsvorlage zu den Beschlüssen der BV 7 vom 22.01.2019 - - zur Kenntnis genommen
+- TOP 58: „Geschützte Kreuzung" Torfbruchstraße/Dreherstraße - Informationsvorlage zu dem Beschluss der BV 7 vom 28.05.2019 - - zur Kenntnis genommen
