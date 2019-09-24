@@ -1,0 +1,85 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-09-24T16:00:00+02:00
+- Ende: 2019-09-24T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18618
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18618
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355641.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355641.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00355641.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - Empfehlung einstimmig beschlossen
+- TOP 4.3: Weiterentwicklung der Offenen Ganztagsschule im Primarbereich - Empfehlung einstimmig beschlossen
+- TOP 4.4: Umgestaltung Kinderspielplatz Emil-Barth-Straße 155 - einstimmig beschlossen
+- TOP 4.5: Zuschuss an den Hellerhofer Sportverein e.V. - Beschlussvorlages des Sportamtes - - einstimmig beschlossen
+- TOP 4.6: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an die Bürger- und Interessengemeinschaft Garath e.V. - einstimmig beschlossen
+- TOP 4.7: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an das Caritas-Altenzentrum St. Hildegard - - einstimmig beschlossen
+- TOP 4.8: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Garather Schützenverein 1967 e.V. - - einstimmig beschlossen
+- TOP 4.9: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an die Gesamtschule Stettiner Straße - - einstimmig beschlossen
+- TOP 4.10: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Bürgerverein Hellerhof e.V.- - einstimmig beschlossen
+- TOP 4.11: Verfügungsmittel der Bezirksvertretung 10 - Zuschuss an den Sozialdienst katholischer Frauen und Männer Düsseldorf e.V. - - mehrheitlich beschlossen
+- TOP 4.12: Bezirklicher Bauunterhalt 2019 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2019 - einstimmig beschlossen
+- TOP 4.13: Bezirklicher Bauunterhalt 2019 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste B, Haushalt 2019 - einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Fahrradboxen Hellerhof - vertagt
+- TOP 5.2: Hitzeperiode 2018 - schriftlich beantwortet
+- TOP 5.3: SB57 - schriftlich beantwortet
+- TOP 5.4: Die negative Umgestaltung der Grünfläche an der Dietrich-Bonhoeffer-Straße 3-11 - schriftlich beantwortet
+- TOP 5.5: Verschmutzung der Ackerflächen an der Urdenbacher Kämpe durch Plastik - schriftlich beantwortet
+- TOP 5.6: Brunnen vor der Grundschule Ingeborg Bachmann Straße - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Förderantrag „Dachbegrünung an der Gesamtschule Stettiner Straße“ - schriftlich beantwortet
+- TOP 6.2: Relation des Hundesteueraufkommens zu den Kosten für die Entsorgung von Hundekot belasteten Grünschnitts - zurückgestellt
+- TOP 6.3: Gebühren für Straßenlaternen - zurückgestellt
+- TOP 6.4: Singpause an Grundschulen - zurückgestellt
+- TOP 6.5: Bestreifung des Bereichs unterhalb der Fußgängerbrücke in Hellerhof, auf der Ostseite - schriftlich beantwortet
+- TOP 6.6: Geschwindigkeitsbegrenzung A59 - zurückgestellt
+- TOP 6.7: Buchholzer Busch - zurückgestellt
+- TOP 6.8: OGS-Versorgung - zurückgestellt
+- TOP 6.9: SWD Metall-Zäune - schriftlich beantwortet
+- TOP 6.10: Einrichtung eines zusätzlichen Haltepunktes in Düsseldorf Hellerhof für die S-Bahn Linie S 6, für die Nachtfahrten von Köln kommend in Richtung Düsseldorf Flughafen und umgekehrt - zurückgestellt
+- TOP 6.11: Zeitpunkt der Veröffentlichung der Sitzungsunterlagen im Ratsinformationssystem - schriftlich beantwortet
+- TOP 6.12: Zustand der Wälder im Bezirk Garath/Hellerhof - zurückgestellt
+- TOP 6.13: Geldautomat in Hellerhof - zurückgestellt
+- TOP 6.14: Servicestelle der Stadtsparkasse Düsseldorf in Hellerhof - zurückgestellt
+- TOP 7: Anträge
+- TOP 7.1: Ehrenamtliche "Senioren-Sicherheitsberater" in Düsseldorfer Stadtbezirken - einstimmig beschlossen
+- TOP 7.2: Verbreiterung Gehweg entlang der Feuerwache zum Wertstoffhof - zurückgezogen
+- TOP 7.3: Bezirksbezogene Grund- und Trinkwasserqualität im Lichte der Klimaerwärmung - einstimmig beschlossen
+- TOP 7.4: Radwegführung auf der Koblenzer Straße zwischen Josef-Maria-Olbrich-Straße und Peter-Behrens-Straße - einstimmig beschlossen
+- TOP 7.5: Naturschutzgebiet „Urdenbacher Kämpe“ - abweichend beschlossen
+- TOP 7.6: Ausstattung der Haltestellen im Stadtbezirk 10 mit Dynamischen Fahrgastanzeigen - einstimmig beschlossen
+- TOP 7.7: Umgestaltung der Zufahrt zum Wertstoffhof (Frankfurter Straße) - zurückgezogen
+- TOP 7.8: Radwegmarkierung an der Kreuzung Leo-Baeck-Straße/Hellerhofweg - zurückgezogen
+- TOP 7.9: Fahrradständer EKZ Hellerhof - einstimmig beschlossen
+- TOP 7.10: Anwohnerbeiträge für die Aufstellung neuer Laternen an der Peenemünder Straße - einstimmig beschlossen
+- TOP 7.11: Umbauarbeiten an dem Spielplatz an der Peter-Behrens-Straße - zurückgezogen
+- TOP 7.12: Einladung einer Vertreterin/eines Vertreters der Sana-Kliniken Benrath - einstimmig beschlossen
+- TOP 7.13: Zielvorstellungen für den Umbau der Neugestaltung der Freizeitstätte Garath - einstimmig beschlossen
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Verknüpfung der Metrobuslinien M3 und SB57 - Informationsvorlage zum Beschluss 170/ 55/2019 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 8.2: Naturschonender Grünschnitt im Stadtbezirk 10 - Informationsvorlage zum Beschluss 170/ 78/2019 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 8.3: Räume für die Montessori-Grundschule - Informationsvorlage zum Beschluss 170/ 29/2019 vom 26.02.2019 - - zur Kenntnis genommen
+- TOP 8.4: Verlängerung der Metrobuslinien M1 und M3 an die Stadtteile Hellerhof und Garath - Informationsvorlage zum Beschluss 170/ 53/2019 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 8.5: Verbreiterung des Bürgersteiges vor dem Eingang der Bezirksvertretung/Bürgerbüro und Absenkung der Bordsteinkante - Informationsvorlage zum Beschluss 170/ 82/2019 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 8.6: Garather Kinderparlament, Rückblick: Das erste halbe Jahr seit der Konstituierung - zur Kenntnis genommen
+- TOP 8.7: Maßnahmen zur Steigerung der Nutzung des öffentlichen Nahverkehrs - Informationsvorlage zum Beschluss 170/ 15/2019 vom 22.01.2019 - - zur Kenntnis genommen
+- TOP 8.8: Installation eines Trinkwasserbrunnes im Hauptzentrum Garath - Informationsvorlage zum Beschluss 170/ 51/2019 vom 26.03.2019 - - zur Kenntnis genommen
+- TOP 8.9: Erhöhung der Verkehrssicherheit von Fußgängern und Kindern an der Querung der Dresdener Straße am Evangelischen Gemeindezentrum - Informationsvorlage zum Beschluss 170/ 107/2019 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 8.10: Straßenzustandsbewertung des Stadtbezirkes 10 - zur Kenntnis genommen
+- TOP 8.11: Erreichbarkeit des Sportparks Niederheid im ÖPNV nach Schließung des Hallenbades Benrath - Informationsvorlage zum Beschluss 170/ 36/2019 vom 26.02.2019 - - zur Kenntnis genommen
+- TOP 8.12: Verbesserung der Verkehrssituation an der Montessori Schule Düsseldorf Süd - Informationsvorlage zum Beschluss 170/ 97/2019 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 8.13: Spielplätze Garath-Hellerhof: Instandsetzung, zusätzliche Bänke und ausreichende Beschattung - Informationsvorlage zum Beschluss 170/ 86/2019 vom 28.05.2019 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
