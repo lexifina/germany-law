@@ -1,0 +1,56 @@
+# Haupt- und Personalausschuss (36. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-09-24T17:08:00+02:00
+- Ende: 2019-09-24T18:55:00+02:00
+- Ort: Deutsches Klingenmuseum, Klosterhof 4, 42653 Solingen, Stiftersaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfGC0zwRSZ0ekm-7QjzGNDY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5337
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSRIgFMsATfWLy0QBbOO0m3zCTd5g8CCeaiHglMIcLXT/Bekanntmachung_Haupt-_und_Personalausschuss_24.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZb31aZiBIBFpDEYRfbqPQsD7j8daBX25zAVMWaRA5nO/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_24.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 35. Sitzung des Haupt- und Personalausschusses am 02.07.2019
+- TOP 4.: Eingabe nach § 24 GO NRW hier: Gegen weitere Kürzungen bei den Bussen – für Fahrplan-Verbesserungen!
+- TOP 5.: Vorschlagsliste für die Berufung der ehrenamtlichen Richterinnen und Richter beim Landessozialgericht Nordrhein-Westfalen
+- TOP 6.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 7.: Wahlausschuss für die Kommunalwahl 2020
+- TOP 8.: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2019
+- TOP 9.: Empfehlung des Beirates für Bürgerbeteiligung hier: Transparenz und Information zur weiteren Entwicklung des Klinikums
+- TOP 10.: Stellenplannachtrag 2019
+- TOP 11.: Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 12.: Stadtentwicklungsgesellschaft Solingen – Benennung der Fraktionsmitglieder in den Gesellschafterversammlungen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG und der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 13.: Stadtentwicklungsgesellschaft Solingen – Benennung der Mitglieder des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 14.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 15.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Stadtwerke Solingen GmbH
+- TOP 16.: Bildungs- und Gedenkstätte im Neubau der Hauptstelle der Stadt-Sparkasse Solingen
+- TOP 17.: Sachstand zum Projekt „Smart City Solingen“ - mündlicher Bericht -
+- TOP 18.: Bericht aus den Beteiligungen hier: VRR - Antrag der CDU-Ratsfraktion vom 02.07.2019 - mündlicher Bericht -
+- TOP 19.: II. Satzung zur Änderung der Gebührentarife zur Gebührensatzung für den Rettungsdienst der Stadt Solingen vom 05.01.2010 in der Fassung der I. Änderungssatzung vom 14.04.2011
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.1.1: Stellungnahme des Städtetages NRW zur Altschuldenlösung in NRW
+- TOP 20.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 35. Sitzung des Haupt- und Personalausschusses am 02.07.2019
+- TOP 4.: Wirtschaftsförderung Solingen GmbH & Co. KG (WfS) - Abberufung eines Prokuristen
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 5.1: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 6.: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Verkauf der Geschäftsanteile im Rahmen eines Management-Buy-out
+- TOP 7.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation hier: Informationsvorlage
+- TOP 7.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 7.2: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.1.1: Austausch digitaler Alarmumsetzer (DAU) zur Alarmierung der Feuerwehr
+- TOP 8.1.2: Vergabe eines Auftrages zur Lieferung von einem Mannschaftstransportfahrzeugen (MTF) für die Kinderfeuerwehr der Stadt Solingen
+- TOP 8.2: Anfragen an die Verwaltung
