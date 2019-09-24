@@ -1,0 +1,8 @@
+# TOP 6: Anpassung des Pachtzinses für städtische Kleingartenanlagen
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses (2019-09-24)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=95120
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=28249&bi=26553
