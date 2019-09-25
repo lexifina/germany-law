@@ -1,0 +1,124 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2019-09-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5079565
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5079565
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.2.: Wohnen
+- TOP 1.5.: SPD: Aufstellung eines Fahrradständers und Baumpflanzung an der Ecke Hohenzollern-/Friedrichstraße (vertagt aus 08/2019)
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget SLIC München e.V. Unterstützung von Trainerkosten vom 06.09.2019 – 05.09.2020 5.000,00€, Az. 0262.0-4-0260
+- TOP 2.2.: (E) Stadtbezirksbudget Ackermannbogen e.V. Basketball für Jugendliche, insbesondere für Mädchen mit Migrationshintergrund, vom 01.10.2019 – 31.05.2020 1.577,00€, Az. 0262.0-4-0263
+- TOP 2.3.: 18.jetzt – Fest junger Erwachsener am 19.10.2019 im Rathaus: Teilnahme BA 4?
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid Initiative „Begleitung“
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Blumengeschäft Nordendstr. 36: Aufstellung von Verkaufseinrichtungen
+- TOP 2.1.2.: „chokokoin Dessert Shop“ Kurfürstenplatz 7: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.2.1.: (E) Stadtbezirksbudget DIA-Raum für Kunst Kick-off Veranstaltung für Foto-Festival 2020 vom 15.10.2019 – 02.11.2019 2.300,00€, Az. 0262.0-4-0262
+- TOP 2.2.2.: (E) Stadtbezirksbudget Improtheaterfestival München e.V. "Improvember 2019" vom 31.10.2019 – 03.11.2019 8.493,00€, Az. 0262.0-4-0264
+- TOP 2.2.3.: (E) Stadtbezirksbudget Initiative „Lillys Bus“ Theateraufführung „LILLYS BUS“ vom 14.10.2019 – 01.12.2019 6.603,60€, Az. 0262.0-4-0265
+- TOP 2.3.1.: Kein mehrtägiges Straßenfest in der Georgenstraße mehr (Stellungnahme des KVR zum ablehnenden BA-Beschluss vom 28.02.2019)
+- TOP 2.3.2.: Familienspielfest „Spiel inklusiv – alle spielen mit am 13.10.2019 im Luitpoldpark
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Theaterzelt „Das Schloss“: Genehmigte Betriebszeiten (Antwort der Bezirksinspektion West auf BA-Schreiben vom 29.08.2019)
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid Hidalgo Maßnahme Veranstaltung Street Art Song am 14.09.2019
+- TOP 3.2.2.: Bewilligungsbescheid Initiative Kolibri Maßnahme Mein Herz imitiert den Flügelschlag eines Kolibris vom 20.09 bis 20.12.2019
+- TOP 3.2.3.: Bewilligungsbescheid Initiative Fotoausstellung Fotoausstellung Das Unterschiedliche im Nebeneinander vom 05.12.2019 bis 02.01.2020
+- TOP 3.2.4.: Bewilligungsbescheid Munich International Choral Society (Konzert am 27.10.2019)
+- TOP 3.3.1.: „Soko München“ am 08.09.2019 in der Barbarastr. 27
+- TOP 3.4.1.: Schank- und Speisewirtschaft „Swagatam“, Elisabethstr. 12
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Rümannstr. 5-11: Nutzungsänderung von Ladenflächen und einer Lagerfläche im EG zu einer Betriebswerkstätte der Werkstatt für behinderte Menschen (WfbM) mit Laden, zu Büroflächen mit Schulungsbereich und zu einem Büro
+- TOP 2.1.2.: Hohenzollernstr. 35 RGB: Anbau zweier Notleiteranlagen als 2. Rettungsweg
+- TOP 2.1.3.: Vorbescheid Isoldenstr. 17 – Klinikum Schwabing Haus 31: Nutzungsänderung der ehem. Tierversuchsanstalt zu temporärem Wohnen (Brückenapartments Variante 1: 4 WE, Variante 2: 2 WE) bzw. zu Personalwohnungen (Variante 3) oder Büros (Variante 4)
+- TOP 2.1.4.: Herzogstr. 105: Anbau eines Außenaufzugs (EG-4. OG) und dreier Balkonanlagen
+- TOP 2.1.5.: Schwere-Reiter-Str. 35: Abgrabung und Abbruch einer Bunker- und Kelleranlage mit Entsorgung der Altlasten: Baumfällungen in Zusammenhang mit dem Vorhaben
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: Agnesstr. 62: Abdruck der Baugenehmigung für zum Anbau eines Aufzuges
+- TOP 3.2.2.: Billigungsbeschluss mit vorbehaltlichen Satzungsbeschluss für einen vorhabenbezogenen Bebauungsplan mit Grünordnung Nr. 2115a Sparkassengebäude am Elisabethplatz, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 25.09.2019 (Sitzungsvorlage Nr. 14-20 / V 15963)
+- TOP 3.2.3.: Bauerstr. 10: Abdruck der Baugenehmigung für den Neubau eines Wohngebäudes mit Unterflurparker für 13 Stellplätze
+- TOP 3.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.5.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 3.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.7.: Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 25.09.2019 (Sitzungsvorlage Nr.14-20 / V 16307)
+- TOP 3.2.8.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürger: Hörwarthstraße als Fahrradstraße ausweisen (mündlich vorgebrachtes Anliegen aus 07/2019)
+- TOP 1.2.: Bürgerin: Maßnahmen gegen Gehweg-Radeln im Bereich Winzererstr. 111, 113, 131
+- TOP 1.3.: Bürger: Luitpoldpark
+- TOP 1.4.: Bürgerin: Fahrradfahren in München - ein Erlebnisbericht
+- TOP 1.6.: Bürger: Radweg statt Parkstreifen in der Hohenzollernstraße (vertagt aus 08/2019)
+- TOP 1.7.: Bürger: Fahrradabstellmöglichkeiten vor dem Haus Hiltenspergerstr. 66
+- TOP 1.8.: Bürger: Verkehrsberuhigung Friedrich-Loy-/Farinellistraße (hier: Rückbau der Aufpflasterungen in der Hiltenspergerstraße; Zebrastreifen statt Ampel an der Kreuzung Hiltensperger-/Herzogstraße)
+- TOP 1.9.: Bürger: Tischtennis-Treffpunkt Luitpoldpark
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: Elisabethstraße zwischen Schleißheimer Straße und Nordendstraße: Rückbau der Radwege und weitere bauliche Maßnahmen (Anhörung zur Projektplanung, vertagt aus 07/2019)
+- TOP 2.2.2.: Austausch von Lichtsignalanlagen: Elisabeth-/Hiltenspergerstraße (vertagt aus 07/2019)
+- TOP 2.2.3.: Standortgenehmigung für Parkscheinautomaten im Parklizenzgebiet Ackermannbogen
+- TOP 2.2.4.: Projektplanung Winzerer-/Lothstraße: Bitte um Terminvorschlag für Ortstermin Ende September / Anfang Oktober
+- TOP 2.2.5.: Radwege Nordendstraße und Kurfürstenplatz (Bürgeranliegen TOP E1.2 06/19): Terminvorschläge des Baureferats für den vom BA gewünschten Ortstermin
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Lärmbelästigung im Olympiapark (Antwort der Olympiapark GmbH auf BA-Schreiben vom 01.08.2019, weitergeleitetes Bürgeranliegen)
+- TOP 3.1.2.: Bürger Städt. Altkleidercontainer Kölner Platz (Antwort von AWM auf BA-Schreiben vom 01.08.2019, weitergeleitetes Bürgeranliegen)
+- TOP 3.1.3.: Tischtennisplatten im Luitpoldpark (Antwort des Baureferats Gartenbau auf BA-Schreiben vom 30.08.2019, weitergeleitetes Bürgeranliegen)
+- TOP 3.2.1.: Ersatzpflanzung für den abgestorbenen Baum Ackermannstraße 15 (Antwort des Baureferats Gartenbau auf BA-Schreiben vom 01.08.2019, weitergeleitetes Bürgeranliegen)
+- TOP 3.2.2.: Schleißheimer Str. 274: Genehmigungsbescheid zur Fällung dreier Bäume und zu Veränderungen an einem weiteren Baum
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: Klopstock- und Barlachstraße zwischen Rümann- und Belgradstraße: Asphaltarbeiten auf der Fahrbahn
+- TOP 3.4.2.: Brunnerstraße: Instandsetzung des Wendehammers verzögert sich
+- TOP 3.4.3.: Verkürzung der Anstrahlungszeiten; Umsetzung der Beschlüsse zum Schutz der Artenvielfalt anlässlich der Änderung des Bayersichen Naturschutzgesetzes
+- TOP 3.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.5.: Straßenbauarbeiten im Kreuzungsbereich Teng-/Georgenstraße vom 02.09 bis 20.09.2019
+- TOP 3.4.6.: (U) Münchner Kleingartenwesen - Beseitigung von Behelfsheimen - Zeit-Kleingarten-Anlagen Antrag Nr. 14-20 / A 03454 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Otto Seidl und Herrn Stadtrat Johann Stadler vom 10.10.2017 - Teilung von übergroßen Gartenparzellen
+- TOP 3.4.7.: (U) Pilotprojekt „Schnelle Radverbindung für den Münchner Norden“ a. Ergebnisse der vertieften Machbarkeitsuntersuchung b. Bedarfs- und Konzeptgenehmigung c. Behandlung von Anträgen „Auf den Straßen Münchens Platz schaffen III - Tiefgaragen im Bereich der Leopoldstraße“ Antrag Nr. 14-20 / A 04911 von Herrn Bürgermeister Manuel Pretzl vom 29.01.2019 „Auf den Straßen Münchens Platz schaffen IV - Ersatz für wegfallenden Parkraum“ Antrag Nr. 14-20 / A 04912 von Herrn Bürgermeister Manuel Pretzl vom 29.01.2019
+- TOP 3.4.8.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 3.4.9.: Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten „Flächenkulisse Biodiversität“, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 25.09.2019 (Sitzungsvorlage Nr.14-20 / V 15894)
+- TOP 3.4.10.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 bis 2026
+- TOP F.2.: Anhörung zur Einteilung der Stimmbezirke für die Kommunalwahl am 15.03.2020
+- TOP F.3.: Anpassung des Versandes von Sitzungsunterlagen auf Papier
+- TOP G: Verschiedenes
+- TOP H: Termine
