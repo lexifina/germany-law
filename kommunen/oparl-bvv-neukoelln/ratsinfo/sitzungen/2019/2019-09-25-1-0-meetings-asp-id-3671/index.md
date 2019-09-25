@@ -1,0 +1,117 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-09-25T17:13:00+02:00
+- Ende: 2019-09-25T22:30:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3671
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3671
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Verkehrslenkung - beantwortet
+- TOP 1.2: Umsetzung der Leitlinien für Bürger*innen-Beteiligung in Neukölln - beantwortet
+- TOP 1.3: Hobrechtstr. 80/82 - schriftlich beantwortet
+- TOP 1.4: Versammlungsfreiheit vor dem Rathaus Neukölln - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 6.2: Wahl von ehrenamtlichen Mitgliedern des Milieuschutzbeirates - in der BVV abgelehnt
+- TOP 6.3: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung der im Haushaltsjahr 2018 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Absenkung der Niemetzstraße an der Kreuzung Saalestraße - beantwortet
+- TOP 8.2: Schulweg zur Wetzlar-Grundschule - beantwortet
+- TOP 8.3: BVV-Beschluss zum europaweiten autofreien Tag - beantwortet
+- TOP 8.4: Wie weit sind die Vorbereitungen auf den Mietendeckel in Neukölln? - beantwortet
+- TOP 8.5: Anstieg der Vermietung von möblierten Wohnungen – ein Weg die Mietpreisbremse und den Mietendeckel zu umgehen - beantwortet
+- TOP 8.6: Fristen für Termine bei den Bürgerämtern - beantwortet
+- TOP 8.7: Baukran Bibliothek alt Rudow - schriftlich beantwortet
+- TOP 8.8: Altenhilfekoordination - schriftlich beantwortet
+- TOP 8.9: Information über Verlegung von Fernheizungsrohren - schriftlich beantwortet
+- TOP 8.10: Akteneinsicht zu Rodungen Weigandufer nicht gewährt? - schriftlich beantwortet
+- TOP 8.11: Spielplatzmangel - schriftlich beantwortet
+- TOP 8.12: Handwerkermeile auf Philip-Morris-Gelände - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Sondernutzung von Straßenland für Filmdreharbeiten? - beantwortet
+- TOP 9.2: Neugestaltung Promenade am Weigandufer überarbeiten - beantwortet
+- TOP 9.3: Umbenennung von Nord-Neukölln in Rixdorf - beantwortet
+- TOP 9.4: Rund um das Fahrrad - beantwortet
+- TOP 9.5: Gilt in Neuköllner Schulkantinen die Scharia? - Teil VII - beantwortet
+- TOP 9.6: Zugang zum Carl-Weder-Park sichern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.7: Mülleimer mit Aschenbechern ausstatten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.8: Parkbänke im Parkfriedhof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.9: Geschichtliche Aufarbeitung Wissmannstraße - vertagt
+- TOP 9.10: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - vertagt
+- TOP 9.11: Mut zu neuen Wegen - Weigandufer als Fahrradstraße - vertagt
+- TOP 9.12: Maßnahmen am Werner-Seelenbinder-Grab - vertagt
+- TOP 9.13: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - vertagt
+- TOP 9.14: Stopp dem Feuerwerkswahnsinn! - vertagt
+- TOP 9.15: Verkaufsverbot an Sonn- und Feiertagen aufheben - vertagt
+- TOP 9.16: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - vertagt
+- TOP 9.17: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes – Hat Neukölln daran Anteil? - vertagt
+- TOP 9.18: Bänke auf dem Reuterplatz wieder aufstellen - vertagt
+- TOP 9.19: Verpackungsmüll - vertagt
+- TOP 9.20: Videoüberwachung an Drogenschwerpunkten, insbesondere um Schulen und Jugendfreizeiteinrichtungen - vertagt
+- TOP 9.21: Mehrweg statt Einweg – Umweltgerecht feiern in Neukölln - vertagt
+- TOP 9.22: Neue Stuben für die Obdachlosenhilfe - vertagt
+- TOP 9.23: Erarbeitung bezirklicher Leitlinien der Bürger*innenbeteiligung - vertagt
+- TOP 9.24: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - vertagt
+- TOP 9.25: Einkommensschwache Menschen sind nicht „sozial schwach“! - vertagt
+- TOP 9.26: Bebauungsplan 8-2-1 („Grenzallee 37“) - vertagt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Sportbad Britz - vertagt
+- TOP 10.2: Keine flächigen Rodungen am Weigandufer durchführen - in der BVV abgelehnt
+- TOP 10.3: Absenkung des Bürgersteiges - vertagt
+- TOP 10.4: Grünphase der Lichtzeichenanlage Stubenrauchstraße, Seidelbastweg und Kanalstraße in Richtung Ehrenpreisweg verlängern - vertagt
+- TOP 10.5: Umbenennung des Hertzbergplatzes zur Erinnerung an die Novemberrevolution - vertagt
+- TOP 10.6: Fußgängerquerung Sonnenallee / Geygerstraße - vertagt
+- TOP 10.7: „Diese eG“ ist keine Option für Neukölln - vertagt
+- TOP 10.8: Dauerhaft zu erhaltende Kleingärten mit Handlungsbedarf - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Neubau einer Gemeinschaftsschule an der Oderstraße - vertagt
+- TOP 11.2: Gewalt und Verwahrlosung auf dem Gelände des Campus Rütli - vertagt
+- TOP 11.3: Zu Fuß zur Schule und zur Kita? - vertagt
+- TOP 11.4: Aktueller Stand der Schulsanierung in Neukölln - vertagt
+- TOP 11.5: Fragerecht der AfD Oppositionspartei wird aus politischer Willkür eingeschränkt? - vertagt
+- TOP 11.6: Altersarmut in Neukölln - vertagt
+- TOP 11.7: Sport für (fast) alle in Neukölln I - vertagt
+- TOP 11.8: Neukölln für mehr Klimagerechtigkeit - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Stadtteilbibliotheken sollen einen Namen erhalten - überwiesen
+- TOP 13.2: Seniorenfreizeitstätte Rudow - überwiesen
+- TOP 13.3: Erinnerung an die Novemberrevolution - überwiesen
+- TOP 13.4: Spritzen rechtzeitig erkennen - überwiesen
+- TOP 13.5: Neukölln macht´s vor! Inklusionskonzept für die Kinder- und Jugendarbeit in Neukölln - überwiesen
+- TOP 13.6: Vergrößerung der Baumscheiben zwecks besseren Regenwasserzuflusses - überwiesen
+- TOP 13.7: Neukölln macht´s vor! Ein barrierefreier Spielplatz für Alle - überwiesen
+- TOP 13.8: Sichere Wissmannstraße - überwiesen
+- TOP 13.9: Belastung der Straße Alt-Britz bei Veranstaltungen auf dem Gutshof verhindern - überwiesen
+- TOP 13.10: Anhebung der Investitionspauschale für Straßenunterhaltung und Gehwegsanierung - überwiesen
+- TOP 13.11: Grünflächen ankaufen - überwiesen
+- TOP 13.12: Grüne Dächer für BVG- Wartehäuschen - überwiesen
+- TOP 13.13: Engstelle der Karl-Marx-Straße am Rathaus Neukölln sicher machen - überwiesen
+- TOP 13.14: Neuköllner Bäumen helfen - überwiesen
+- TOP 13.15: Mädchen- und Frauen-Sportfest - überwiesen
+- TOP 13.16: Drogenhandel nachhaltig und robust bekämpfen. - überwiesen
+- TOP 13.17: Gegen Altersarmut - Über Grundsicherung im Alter informieren - überwiesen
+- TOP 13.18: Zuzugssperre für sogenannte Flüchtlinge - in der BVV zurückgezogen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: BVG-Wartehäuschen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Ermäßigtes Parken für Ehrenamtliche am Kombibad Lipschitzallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Mehr Erkenntnisse zur Neuköllner Präventionskette - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: AnsprechpartnerIn für Initiativen in der Verwaltung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Milieuschutzgebiet Schillerpromenade ergänzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Fairer Bezirk – Faires Outfit - vertagt
+- TOP 15.2: App „Gesundes Neukölln“ evaluieren - vertagt
