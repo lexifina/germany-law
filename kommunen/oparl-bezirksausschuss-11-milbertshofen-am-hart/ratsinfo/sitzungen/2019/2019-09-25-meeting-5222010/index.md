@@ -1,0 +1,99 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-09-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5222010
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5222010
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.1.1.: Gestaltung der Bürgerversammlungen - Förderung des Austauschs bzw. Dialogs
+- TOP 4.1.2.: Antrag auf ein Anhörungsrecht der Bezirksausschüsse über Grundstücksgeschäfte der Landeshauptstadt München - BA-Antrag Nr. 14-20 / B 06349 - Antwortschreiben
+- TOP 4.2.1.: Abbau der GU-Container an der Thalhoferstraße
+- TOP 4.2.2.: Zeitplan zum Rückbau der GU-Container an der Thalhoferstraße sowie Nutzung des Bernaysparks
+- TOP 4.2.3.: Bebauung Oberwiesenfeld: Hochhaus auf dem Knorr-Bremsen-Areal
+- TOP 4.2.4.: Connollystraße - Neusituierung der Wertstoffcontainer an der Wendeschleife
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Initiative „Begleitung" Begleitung und Transfer der Erstklässler vom 11.09.2019 – 26.07.2020 2.777,00€, Az.0262.0-11-0341
+- TOP 6.1.2.: (E) Stadtbezirksbudget Initiative ugurische Frauen für Integration und Kultur Interkulturelles Tanz- und Musikprogramm: Rund um die Seidenstraße am 01.12.2019 3.924,00€, Az. 0262.0-11-0247
+- TOP 6.1.3.: (E) Stadtbezirksbudget Hopsasa gGmbH Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder vom 01.12.2019 – 30.11.2020 10.029,75€; Az. 0262.0-11-0345
+- TOP 6.1.4.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Buhlstraße e.V., Spiel- und Begegnungszentrum am Hart Adventsfest des Seniorenbereichs im Spiel- und Begegnungszentrum am Hart (SBZ) am 04.12.2019 548,80€, Az. 0262.0-11-0349
+- TOP 6.1.5.: (E) Stadtbezirksbudget Sportfreunde Harteck München e.V. Ausrichtung der Deutschen Verbandsmeisterschaft im ID-Judo am 16.11.2019 3.550,00€, Az. 0262.0-11-0346
+- TOP 6.1.6.: (E) Stadtbezirksbudget Initiative „Schatzraum“ Schatzraum am 27.09.2019 3.508,00€, Az. 0262.0-11-0352
+- TOP 6.1.7.: (E) Stadtbezirksbudget Kulturverein Olympiadorf 9. Münchener Bergfilmtage vom 13.09.2019 – 15.09.2019 1.467,00€, Az. 0262.0-11-0343
+- TOP 6.1.8.: (E) Stadtbezirksbudget Initiative „Kulturhausevent“ Spendenaktion gegen Plastikmüll in Indien am 20.09.2019 700,00€, az. 0262.0-11-0351
+- TOP 6.1.9.: (E) Stadtbezirksbudget Mexikanisch-Deutscher Kreis in Bayern e.V. “Noche Mexicana 2019“ - Mexikanischer Abend 2019 am 21.09.2019 9.110,00€, Az. 0262.0-11-0348
+- TOP 6.1.10.: (E) Stadtbezirksbudget Zukunft am Hart e.V. Kinder-Herbstfest im Bernayspark am 12.10.2019 1.875,00€, Az. 0262.0-11-0344
+- TOP 6.1.11.: (E) Stadtbezirksbudget Gesellschaft für Deutsch-Indische Zusammenarbeit e.V. Indisches Lichterfest „Diwali“ am 26.10.2019 3.345,00€, Az. 0262.0-11-0350
+- TOP 6.1.12.: (BSL) Haltestelle U-Bahnhof Harthof - Aufstellen von Mülleimern
+- TOP 6.1.13.: (BSL) Haltestelle U-Bahnhof Harthof - Aufstellen von Fahrradständern
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: Entscheidung über eine Sondernutzungserlaubnis: Genehmigung einer Freischankfläche am Frankfurter Ring 83
+- TOP 6.2.2.: (E) Ergänzung der städtischen Grünanlage am Schollerweg/Bernaysstraße unter Einbeziehung des städtischen Nachbargrundstücks zu einer größeren Erholungs- und Freizeitfläche Empfehlung Nr. 14-20 / E 01685 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 20.07.2017
+- TOP 6.2.3.: (E) Barrierefreier Ausbau der Haltestellen "Anhalter Platz" in der Moosacher Straße und Riesenfeldstraße
+- TOP 6.2.4.: (U) Änderung des Ablaufs von Bürgerversammlungen
+- TOP 6.2.5.: (E) Kulturhaus am Curt-Mezger-Platz; Lärmschutz für Anwohner in der Piccoloministraße 1 bis 7; Störung durch laute Veranstaltungen Empfehlung Nr. 14-20 / E 01675 der Bürgerversammlung des Stadtbezirkes 11 – Milbertshofen-Am Hart am 20.07.2017
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Neugestaltung und Renovierung des Spielplatzes am Hirschkäferweg
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Vollzug des BImSchG und UVPG Schleißheimer Straße 422: BMW FIZ Werk 1.5 - Änderung des Antriebszentrum durch technische Überarbeitung
+- TOP 8.2.2.: Max-Liebermann-Str. 6 a) Bauvorhaben: Neubau Studentenwohnheim, Beherbergungsbetrieb, Gastronomie und Tiefgarage – VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.3.: Schopenhauerstraße 97 Nutzungsänderung: Drei Ladeeinheiten zu Kindergarten und Praxis
+- TOP 8.2.4.: Griegstr. 22 – 24 a) Bauvorhaben: Neubau eines Mehrfamilienhauses mit Tiefgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.5.: Antrag auf Baumfällung: Knorrstraße 45-49
+- TOP 8.2.6.: Keferloherstraße 94 - Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid
+- TOP 8.2.7.: Mortonstraße 1 - 32 - Neubau von 16 Wohngebäuden mit Tiefgarage und Kinderkrippe - Vorbescheid
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Regsam-Flohmarkt" auf der Nordhaide-West (Diagonale) am 19.10.2019
+- TOP 8.3.2.: Veranstaltung "Weihnachtszauber der Dankeskirche" auf dem Curt-Mezger-Platz am 08.12.2019
+- TOP 8.3.3.: München Marathon am 13.10.2019 und Trachtenlauf am 12.10.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Grünanlage Rathenaustraße - Fuß-/Radwegkonflikt
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Unveränderte Fortführung von Gaststättenbetrieben: a) „Vereinsgaststätte Harteck“ - Trenkleweg 5
+- TOP 9.1.2.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte: EB Gymnasium München-Nord
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Schleißheimer Str. 321
+- TOP 9.2.3.: (U) Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich V/57 Rathenaustraße (südlich), Knorrstraße (westlich), BMW FIZ Erweiterung Nord (nördlich), Schleißheimer Straße (östlich) und Bereich der ehemaligen Panzerbrücke - ehemalige Kronprinz-Rupprecht-Kaserne und Teilbereich des ehemaligen Virginia-Depots - BMW Forschungs- und Innovationszentrum (FIZ) Nord Nord - Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Stadtbezirk 11 Milbertshofen - Am Hart Stadtbezirk 24 Feldmoching - Hasenbergl
+- TOP 9.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7.: (U) Olympiapark München; Antrag auf Nominierung zur Aufnahme in die UNESCO-Welterbeliste Ensemble Olympiapark soll Unesco-Weltkulturerbe werden, Antrag Nr. 14-20 / A 01883 von DIE LINKE und der ÖDP vom 04.03.2016, eingegangen am 07.03.2016
+- TOP 9.2.8.: (U) Bebauungsplan mit Grünordnung Nr. 1939d Rathenaustraße (südlich), Knorrstraße (westlich), BMW Forschungs- und Innovationszentrum (FIZ) Erweiterung Nord (nördlich), Schleißheimer Straße (östlich) und Bereich der ehemaligen Panzerbrücke (Aufhebung des übergeleiteten Bebauungsplanes gemäß § 173 Abs. 3 BBauG und Teilverdrängung der Bebauungspläne Nr. 40 Teil 2, 462, 948b, 948b (Teiländerung und Ergänzung), 948c, 1939a und 1939c) - BMW FIZ Erweiterung Nord Nord -
+- TOP 9.2.9.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Spitzerstr. 2
+- TOP 9.2.10.: (U) Münchner Kleingartenwesen - Beseitigung von Behelfsheimen - Zeit-Kleingarten-Anlagen Antrag Nr. 14-20 / A 03454 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Otto Seidl und Herrn Stadtrat Johann Stadler vom 10.10.2017 - Teilung von übergroßen Gartenparzellen
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Eisenbahnkreuzungsmaßnahmen beim Ausbau der S4 West Pasing – Buchenau S-Bahnhof Aubing: Barrierefreie Ortsverbindung und zusätzliche Erschließung der Verkehrsstation von Westen durch neue Zugangssituation (Freiham) a) Unterführung Aubinger Bahnhof; Aufzug (Antrag 1) Empfehlung Nr. 14-20 / E 00667 der Bürgerversammlung des Stadtbezirks 22 Aubing-Lochhausen-Langwied am 27.10.2015 b) Barrierefreier Ausbau S-Bahnhof Aubing Empfehlung Nr. 14-20 / E 01564 der Bürgerversammlung des Stadtbezirks 22 Aubing-Lochhausen-Langwied am 13.07.2017 c) Barrierefreier Ausbau S-Bahnhof Aubing; Vorfinanzierung einer Rampe an der Westseite durch die LH München als Provisorium Empfehlung Nr. 14-20 / E 01563 der Bürgerversammlung des Stadtbezirks 22 Aubing-Lochhausen-Langwied am 13.07.2017
+- TOP 9.4.2.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Am Oberwiesenfeld - Absolutes Haltverbot b) Wallensteinstraße - Absolutes Haltverbot
+- TOP 9.4.3.: (U) Pilotprojekt „Schnelle Radverbindung für den Münchner Norden“ a. Ergebnisse der vertieften Machbarkeitsuntersuchung b. Bedarfs- und Konzeptgenehmigung c. Behandlung von Anträgen „Auf den Straßen Münchens Platz schaffen III - Tiefgaragen im Bereich der Leopoldstraße“ Antrag Nr. 14-20 / A 04911 von Herrn Bürgermeister Manuel Pretzl vom 29.01.2019 „Auf den Straßen Münchens Platz schaffen IV - Ersatz für wegfallenden Parkraum“ Antrag Nr. 14-20 / A 04912 von Herrn Bürgermeister Manuel Pretzl vom 29.01.2019
+- TOP 9.4.4.: (U) Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr 1. Sachstandsbericht 2. Bauprogramm mit Maßnahmenpaketen 3. Anträge 3.1 Ausbau Heidemannstraße - Fußgänger- und Fahrradüberführung über die Heidemannstraße zwischen der Reichskleinsiedlung und Alt-Freimann Antrag Nr. 08-14 / A 00082 vom 24.06.2008 3.2 Bauprogramm für Radweg- und Fußgängerbrücken Antrag Nr. 14-20 / A 01313 vom 13.08.2015 3.3 Klenzesteg Antrag Nr. 14-20 / A 01662 vom 17.12.2015 3.4 Braunauer Eisenbahnbrücke für den Radverkehr öffnen Antrag Nr. 14-20 / A 05270 vom 25.04.2019 3.5 Radfahr- und behindertengerechter Aus-/ Umbau der Zufahrtsrampe zur Unterführung unter der A 95 zwischen Einhornallee und Sendlinger Wald im Bereich Einhornallee / Markomannenstraße BA-Antrag Nr. 14-20 / B 05217 des Bezirksausschusses des Stadtbezirkes 7 Sendling - Westpark vom 21.08.2018 3.6 Antrag auf Bau des Klenzestegs BA-Antrag Nr. 14-20 / B 06137 des Bezirksausschusses des Stadtbezirkes 5 Au - Haidhausen vom 20.03.2019
+- TOP 9.4.5.: (U) Anbindung der Schleißheimer Straße an die Bundesautobahn BAB A 99 11. Stadtbezirk Milbertshofen - Am Hart 12. Stadtbezirk Schwabing - Freimann 24. Stadtbezirk Feldmoching - Hasenbergl Sachstandsbericht und Information zum weiteren Vorgehen - Bekanntgabe -
+- TOP 9.4.6.: Arbeiten im Straßenraum: Heidemannstraße Kreuzung maria-Probst-Straße / Paul-Hindemith-Allee - Vollsperrung der Kreuzung
