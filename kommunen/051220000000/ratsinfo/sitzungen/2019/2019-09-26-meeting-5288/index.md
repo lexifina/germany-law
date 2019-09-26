@@ -1,0 +1,77 @@
+# Rat (37. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-09-26T17:04:00+02:00
+- Ende: 2019-09-26T20:55:00+02:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Großer Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWOcWWX8dGuZmA26uR0IVwQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5288
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVwQH441wmCkNc-ZzCR5kzpG5kRWzWKNpK3P-hRACAsO/Bekanntmachung_Rat_26.09.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR6AOx-POQKkhUdGGZAefogNcjRBKrb-s2fzLWfiSRO9/Oeffentliche_Niederschrift_Rat_26.09.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP -: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Ladung von E-Fahrzeugen
+- TOP 1.2: Sanierungsstau bei Eisenbahnbrücken und -unterführungen
+- TOP 1.3: Radabstellplätze mit Mitteln und Unterstützung durch DB und Bundesumweltministerium
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 36. Sitzung des Rates am 04.07.2019
+- TOP 4.: Vorschlag für eine en-bloc-Abstimmung
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung von Ausschüssen und Gremien
+- TOP 6.: Vorschlagsliste für die Berufung der ehrenamtlichen Richterinnen und Richter beim Landessozialgericht Nordrhein-Westfalen
+- TOP 7.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 8.: Wahlausschuss für die Kommunalwahl 2020
+- TOP 9.: Einbringung des Haushaltsentwurfes für das Jahr 2020
+- TOP 10.: Stellenplannachtrag 2019
+- TOP 11.: Beschluss der Kreissynode des Evangelischen Kirchenkreises Solingen hier: Beitritt der Stadt Solingen zum Bündnis "Sichere Häfen"
+- TOP 12.: Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 13.: Stadtentwicklungsgesellschaft Solingen – Benennung der Fraktionsmitglieder in den Gesellschafterversammlungen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG und der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 14.: Stadtentwicklungsgesellschaft Solingen – Benennung der Mitglieder des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 15.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 16.: Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG – Übernahme einer Kommanditbeteiligung durch die Stadtwerke Solingen GmbH
+- TOP 17.: Bildungs- und Gedenkstätte im Neubau der Hauptstelle der Stadt-Sparkasse Solingen
+- TOP 18.: Geschwindigkeitskontrolle am Werwolf hier: Antrag der Ratsfraktion Bündnis 90/ Die Grünen - offene Liste vom 10.09.2019
+- TOP 19.: Beantragung der Fortsetzung der Förderung aus dem Bundesprogramm „Demokratie leben!“
+- TOP 20.: Einführung einer verbindlichen Bedarfsplanung hier: Sicherstellung einer unterstützenden Infrastruktur nach dem Alten- und Pflegegesetz NRW
+- TOP 21.: Integriertes Stadtteilentwicklungskonzept (ISEK) Burg: Hof- und Fassadenprogramm
+- TOP 22.: Integriertes Stadtteilentwicklungskonzept (ISEK) Ohligs: Hof- und Fassadenprogramm
+- TOP 23.: Aufhebung der Sanierungssatzung für den Teilbereich I, Block VII des förmlich festgelegten Sanierungsgebietes Solingen-Wald
+- TOP 24.: II. Satzung zur Änderung der Gebührentarife zur Gebührensatzung für den Rettungsdienst der Stadt Solingen vom 05.01.2010 in der Fassung der I. Änderungssatzung vom 14.04.2011
+- TOP 25.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Jugendschutzstelle in der Einrichtung „Die 10“
+- TOP 26.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der Kinder- und Jugendheime und der Inobhutnahmestelle der Stadt Solingen
+- TOP 27.: Außerplanmäßige Auszahlung gemäß § 83 GO NRW Aufstellen und Umbauen von Raumcontainern für die Nutzung im Rahmen des offenen Ganztages
+- TOP 28.: Überplanmäßige Aufwendungen/Auszahlungen gemäß § 83 GO NRW Eingliederungshilfe – Leistungen der Sozialhilfe außerhalb von Einrichtungen (LVR) – Produkt 31.01.04, Sachkonto 533102
+- TOP 29.: Jahresabschluss 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Feststellung des Jahresabschlusses
+- TOP 30.: Jahresabschluss 2018 des Dienstleistungsbetriebes Gebäude der Stadt Solingen hier: Entlastung der Mitglieder des Zentralen Betriebsausschusses
+- TOP 31.: Bauleitplanung ehemaliges Freibad Höher Heide Information über das Ergebnis der Öffentlichkeits- und Trägerbeteiligungen zum Entwurf der Flächennutzungsplanänderung Nr. 23/04 und zum Entwurf des vorhabenbezogenen Bebauungsplanes H 671, zugleich Vorhaben- und Erschließungsplan, sowie Feststellungsbeschluss zur Flächennutzungsplanänderung Nr. 23/04 und Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan H 671, zugleich Vorhaben und Erschließungsplan, beide für das Gebiet des ehemaligen Freibades Höher Heide (Beschluss 3) - Stadtbezirk Ohligs/Aufderhöhe/Merscheid -
+- TOP 32.: Verschiedenes
+- TOP 32.1: Mitteilungen der Verwaltung
+- TOP 32.1.1: Betreuung von Kindern an Schulen
+- TOP 32.1.2: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. und 2. Quartal 2019
+- TOP 32.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Stadtentwicklungsgesellschaft Solingen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 36. Sitzung des Rates am 04.07.2019
+- TOP 4.: Städtisches Klinikum Solingen gemeinnützige GmbH - Vertretung der Stadt Solingen im Aufsichtsrat
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 5.1: Stadtentwicklungsgesellschaft Solingen – Bestellung der Geschäftsführung der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 6.: Abfallwirtschaftliche Kooperation zwischen der Stadt Solingen und der Stadt Dortmund ab dem 01.01.2020; Gründung einer gemeinsamen Entsorgungsgesellschaft
+- TOP 7.: Ermächtigung zur Übernahme des SBG-Verlustes 2018
+- TOP 8.: Integriertes Stadtteilentwicklungskonzept (ISEK) Burg: Vergabe der Bauleistungen für die Umgestaltung der Eschbachstraße
+- TOP 9.: Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG (IGOS) - Verkauf der Geschäftsanteile im Rahmen eines Management-Buy-out
+- TOP 10.: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation hier: Informationsvorlage
+- TOP 10.1: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 10.2: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation
+- TOP 10.3: Kunstmuseum Solingen Betriebsgesellschaft mbH – Maßnahmen zur Verbesserung der wirtschaftlichen Situation hier: gemeinsamer Antrag der Ratsfraktionen CDU, SPD, BfS und FDP vom 24.09.2019
+- TOP 11.: Verschiedenes
+- TOP 11.1: Mitteilungen der Verwaltung
+- TOP 11.2: Anfragen an die Verwaltung
