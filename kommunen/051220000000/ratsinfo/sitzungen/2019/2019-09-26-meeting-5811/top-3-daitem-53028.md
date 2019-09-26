@@ -1,0 +1,8 @@
+# TOP 3.: Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+
+- Sitzung: Zentraler Betriebsausschuss (22. Sitzung) (2019-09-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/53028
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/30888
+- Beschluss (Datei): Beschlusstext (Stadtentwicklungsgesellschaft Solingen – Weiterführende Beschlüsse zur Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbC7-YIGPfj7tcY9WFbjwPjmN1-JtAMUGm23eAb7AYNm/Beschlusstext_6088-2019_-oeffentlich-_Zentraler_Betriebsausschuss_26.09.2019.pdf
