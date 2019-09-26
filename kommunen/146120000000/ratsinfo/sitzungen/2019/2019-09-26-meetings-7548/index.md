@@ -1,0 +1,78 @@
+# 2. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-09-26T16:00:00+02:00
+- Ende: 2019-09-26T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7548
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7548
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00429657.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht des Oberbürgermeisters
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte - eine Runde
+- TOP 2.1: Umsetzung Richtlinie Kleinfeuerwerke
+- TOP 2.2: Grundstückspaket II / WID-Grundstücke
+- TOP 2.2.1: Marwa El Sherbiny Kultur- und Bildungszentrum Dresden e.V. / Sächsische Begegnungsstätte gUG
+- TOP 2.3: Zukunft des Volkshauses Cotta
+- TOP 2.4: Begleitausschuss des Lokalen Handlungsprogramms „Demokratie leben"
+- TOP 2.5: Verschmutzung der Weltmeere durch Dresdner Müll
+- TOP 2.6: Teilnahme von Mitarbeitern der Verwaltung an Demonstrationen während der Arbeitszeit
+- TOP 2.7: Datenübermittlung an das Landesamt für Verfassungsschutz
+- TOP 2.8: Anwendung der Bürgerbeteiligungssatzung
+- TOP 2.9: Verkehrsraumkonzeption Löbtau
+- TOP 2.9.1: Wahlplakate in der Landeshauptstadt Dresden
+- TOP 2.10: Reise nach Coventry - Kosten für den Neuen Chor Dresden e.V.
+- TOP 2.11: Sanierung der Jägerstraße
+- TOP 2.12: Verkehrssituation - Zentralhaltestelle Kesselsdorfer Strasse nach Umbau
+- TOP 2.13: Bildung einer Fraktion
+- TOP 3: Nichtannahme des Mandates einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Loschwitz der Landeshauptstadt Dresden - Mandat der Sozialdemokratischen Partei Deutschlands (SPD) - Zustimmung
+- TOP 4: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Mandat der Partei BÜNDNIS 90/DIE GRÜNEN (GRÜNE) - Zustimmung mit Änderung
+- TOP 5: Nichtannahme des Mandates einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Mandat der Partei DIE LINKE (LINKE) - Zustimmung
+- TOP 6: Nichtannahme des Mandates einer Stadtbezirksbeirätin und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Prohlis der Landeshauptstadt Dresden - Mandat der Partei DIE LINKE (LINKE) - Zustimmung
+- TOP 7: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Plauen der Landeshauptstadt Dresden - Mandat der Freien Demokratischen Partei (FDP) - Zustimmung
+- TOP 8: Einigungsverfahren - Gremien
+- TOP 8.1: Besetzung des Ausschusses für Sport (Eigenbetrieb Sportstätten) - Zustimmung mit Änderung
+- TOP 8.2: Besetzung Jugendhilfeausschuss (Vertreter)
+- TOP 9: Wahl einer Protokollführerin für die Schiedsstelle Neustadt der Landeshauptstadt Dresden - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Vertagungen aus der Stizung des Stadtrates vom 06.06.2019
+- TOP 11.1: Stadtteilangepasste Mobilitätsplanung für die Louisenstraße - Zustimmung mit Änderung
+- TOP 12: Vertagungen aus der Sitzung des Stadtrates vom 04.07.2019
+- TOP 12.1: Innenstadt begrünen und öffentliche Räume/Freiräume aufwerten - Zustimmung mit Änderung
+- TOP 12.2: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung durch Einreicher
+- TOP 12.3: Verwendung von Einnahmen aus Geschwindigkeitsüberwachungsanlagen (Blitzern) - zurückgezogen
+- TOP 12.4: Unverzüglich sichere Radwege auf der St. Petersburger Straße herstellen! - zurückgezogen
+- TOP 12.5: Verwendung von ungeplanten Mehreinnahmen aus dem Verkauf von kommunalen Grund-stücken/Gebäuden 2018 für den Erwerb von kommunalen Grundstücken/Gebäuden - zurückgezogen
+- TOP 12.6: Nachhaltigkeit und Klimaschutz in der Landeshauptstadt stärken - zurückgezogen
+- TOP 12.7: Europäisches Zentrum der Künste Hellerau – Investitionen zur Sicherstellung der Spielfähigkeit des Hauses 2019/2020 - zurückgezogen
+- TOP 12.8: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung durch Einreicher
+- TOP 12.9: Straßenverkehr für alle Verkehrsteilnehmer/innen in der Landeshauptstadt stärken - zurückgezogen
+- TOP 12.10: Touristische Infrastruktur des Lockwitztals als Ausflugsziel und Naherholungsgebiet verbessern - verkehrliche Potentiale untersuchen - Zustimmung
+- TOP 12.11: Prüfung und Einrichtung von weiteren Aktivitätspunkten mit Sportgeräten im öffentlichen Bereich - Zustimmung mit Ergänzung
+- TOP 12.12: Planungsstart zur Instandsetzung der Neuländer Straße - Zustimmung
+- TOP 12.13: Bürgerbeteiligung und Wirtschaftsförderung in der Landeshauptstadt stärken - zurückgezogen
+- TOP 12.14: Stadtratsbeschlüsse achten und umsetzen - Stadtbezirksbeiräte mit angemessenen Budgets ausstatten - zurückgezogen
+- TOP 12.15: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung durch Einreicher
+- TOP 12.16: Vorgezogene Realisierung des B-Plan 3000 P+R Parkplatz Sohlander Straße bis Mai 2020 - Zustimmung
+- TOP 12.17: Digitale Offensive für die Bürgerinnen und Bürger der Stadt Dresden - Vertagung nach 22 Uhr
+- TOP 12.18: Mehr Frauen in Führungspositionen - Vertagung nach 22 Uhr
+- TOP 12.19: Kunst-, Antik- und Trödelmärkte in der Hauptstraße ermöglichen - Verweisung
+- TOP 13: Widerspruch zu Beschlüssen aus der Sitzung des Stadtrates 6. Juni 2019 gem. § 52 Abs. 2 Satz 1 SächsGemO
+- TOP 13.1: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Verweisung
+- TOP 13.2: Gute Arbeit in und bei der Landeshauptstadt Dresden - Verweisung
+- TOP 13.3: Besetzung und Umbesetzung von Amtsleitungen, Betriebsleitungen und Chefarztpositionen in der Landeshauptstadt Dresden - Verweisung
+- TOP 14: Jahresabschluss 2018 des Eigenbetriebes IT-Dienstleistungen Dresden - Zustimmung
+- TOP 15: Abgabe einer Einredeverzichtserklärung einschließlich abstraktem Schuldanerkenntnis zur Absicherung der Finanzierung des Investitionsbedarfes im Bereich der Abwasserentsorgung einschließlich langfristiger Sicherung eines stabilen Zinsniveaus - Zustimmung
+- TOP 16: Verkehrsbauvorhaben Königsbrücker Landstraße zwischen Karl-Marx-Straße und Arkonastraße - Vertagung
+- TOP 17: Neubenennung von Straßen - Zustimmung
+- TOP 18: Veränderungen im Finanzhaushalt des Straßen- und Tiefbauamtes zum Ausgleich nicht gewährter Zuwendungen für die Carolabrücke - Zustimmung
+- TOP 19: Neues Teilhabechancengesetz nutzen – Stellen für langzeitarbeitslose Menschen schaffen - Vertagung
+- TOP 20: Stärkung des Gemeindlichen Vollzugsdienstes - Vertagung
+- TOP 21: Digitalisierungsstrategie für die Dresdner Schulen - Ersetzung
+- TOP 22: Resolution zum Klimanotstand - Verweisung
