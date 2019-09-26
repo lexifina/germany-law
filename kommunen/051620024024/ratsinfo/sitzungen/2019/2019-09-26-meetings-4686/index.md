@@ -1,0 +1,53 @@
+# Ausschuss für Planung und Stadtentwicklung
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-09-26T17:00:00+02:00
+- Ende: 2019-09-26T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/12
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4686
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4686
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 3: Bebauungsplan Nr. 456 - Rheintorstraße / Düsseldorfer Straße - Auslegungsbeschluss im ergänzenden Verfahren gem. § 214 IV BauGB - mehrheitlich zugestimmt
+- TOP 4: Vorhabenbezogener Bebauungsplan Nr. V 494 – Norf, Grupellostraße (Wohnbebauung) – - einstimmig zugestimmt
+- TOP 5: Vorbereitung des Wettbewerbsverfahrens für den Wendersplatz - vertagt
+- TOP 6: Beschluss des Integrierten Städtebaulichen Entwicklungskonzeptes (ISEK) Bahnhofsumfeld Neuss - einstimmig zugestimmt
+- TOP 7: Stadteingänge inkl. Lichtkonzept: Beleuchtung Fassaden im Hauptstraßenzug 2. Bauabschnitt - mehrheitlich zugestimmt
+- TOP 8: Meererhof: Gestaltung der Oberflächen nach Sanierung - mehrheitlich zugestimmt
+- TOP 9: Aktualisierung und Ergänzung der vorhandenen Beleuchtungsanlagen: Obertor und Windmühlenturm - einstimmig zugestimmt
+- TOP 10: Grefrather Weg: Errichtung einer Querungshilfe und barrierefreier Ausbau der Haltestelle Gaußstraße - einstimmig zugestimmt
+- TOP 11: Beauftragung der SWN, Rheinbahn, BVR, NEW mit Verkehrsdienstleistungen ab 2019 / Vergabe NEW-Linie 870 - einstimmig zugestimmt
+- TOP 12: Namenssteine zur Förderung von Brauchtum etc. - mehrheitlich zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 13: Stellungnahme zum Planfeststellungsverfahren für den Neubau der Anschlussstelle Delrath an der A 57 und Neubau einer Verbindungsstraße - mehrheitlich zugestimmt
+- TOP 14: Stellungnahme zur 1. Änderung des Regionalplanes Düsseldorf - mehrheitlich zugestimmt
+- TOP -: Anträge
+- TOP 15: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Schützensteine auf der Furth
+- TOP 16: Antrag der SPD-Fraktion betr. Ausbau der Steinhausstraße - einstimmig zugestimmt
+- TOP 17: Antrag der SPD-Fraktion betr. Modifizierung ETEX-Siegerentwurf
+- TOP 18: Antrag der SPD-Fraktion betr. Parkplätze im Bereich des Jahnstadions - einstimmig zugestimmt
+- TOP 18.1: Antrag der Fraktion Die LINKE betr. Entwicklung des ehem. ETEX-Geländes
+- TOP 18.2: Antrag der Fraktionen SPD, FDP, UWG/Davarci und Die Linke betr. Günstigere Ticketpreise für Busse und Bahnen - mehrheitlich zugestimmt
+- TOP 18.3: Antrag der FDP-Fraktion betr. Mehr Flächen in Neuss für Wohnen und Gewerbe - mehrheitlich abgelehnt
+- TOP -: Anfragen
+- TOP -: Mitteilungen der Verwaltung
+- TOP 19: Sichtrohr über den römischen Fundamenten auf dem Platz am Romaneum
+- TOP 20: Bericht Beirat Innenstadtstärkungsprogramm (20)
+- TOP 21: Geulenstraße: Verkehrsführung im Etienne-Viertel
+- TOP 22: Verkehrserschließung Lukaskrankenhaus
+- TOP 23: Parkplatz Finkenstraße - Ausbau/Überwachung
+- TOP 24: Unfallhäufungsstellen in Neuss - Bericht über die Maßnahmen aus der Unfallkommission
+- TOP 25: Digitales Neuss - der neue Planungs- und Beteiligungsserver
+- TOP 26: Bebauungsplan Nr. 495 – Furth Süd, Further Straße, Josefstraße
+- TOP 27: Änderung des Landesentwicklungsplanes
+- TOP 28: Erfttal – Möglichkeiten der Wohnbauentwicklung am Derikumer Kreuz
+- TOP 29: Entwicklung des ETEX-Geländes - Sachstand
