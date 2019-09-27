@@ -1,0 +1,78 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-09-27T16:00:00+02:00
+- Ende: 2019-09-27T18:06:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4692
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4692
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung Ausschüsse und Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP -: Entgegennahme der Beschlussempfehlungen der Fachausschüsse
+- TOP 5: Ergebnis der weiteren Gespräche mit den Betreuungsvereinen
+- TOP 6: Gemeinsames Konzept zur Unterbringung wohnungsloser Frauen der St. Augusti-nusKliniken und des Sozialdienstes kath. Frauen e. V. (SkF)
+- TOP 7: Konzept zur Maschinen- und Gerätebeschaffung 2020 ff.
+- TOP 8: Fortschreibung des Klimaschutzkonzeptes, Förderung Klimaschutzmanager/in
+- TOP 9: Beitritt zum Klima-Bündnis mit indigenen Regenwald-Völkern
+- TOP 10: Konzeption Neuss-Pass
+- TOP 11: Antrag des Vereins ZIN - Zukunftsinitiative Innenstadt Neuss e. V. auf Erlass einer Ordnungsbehördlichen Verordnung zur Öffnung der Geschäfte im Innenstadtbereich an vier Sonntagen in den Jahren 2020 - 2022
+- TOP 12: Gründungsoffensive - Kooperation RFH:Gewährung Mietkostenzuschuss
+- TOP 13: Einrichtung von Fußgängerüberwegen am Kreisverkehr Isselstr. / Am Sandhof / An der Norf
+- TOP 14: Rembrandtstraße (Stich- und Verbindungswege): Straßenwiederherstellung nach Verlegung Versorgungsleitungen
+- TOP 15: Wegeverbindung zwischen der Jakob-Weitz-Straße und dem Wirtschaftsweg 2627: Anhebung
+- TOP 16: Carlo-Mierendorff-Straße (zwischen Weckhovener Straße und Franz-Leuninger-Straße): Straßenwiederherstellung nach Kanalbau
+- TOP 17: Gladbacher Straße: Barrierefreier Umbau der Bushaltestelle "Nibelungenstraße"
+- TOP 18: Graf-Landsberg-Straße: Barrierefreier Umbau der Bushaltestelle "Bockholtstraße"
+- TOP 19: Knotenpunkt Aurinstraße / Erprather Straße / Erasmusstraße: Umbau zum Kreisverkehr
+- TOP 20: Feststellung des Jahresabschlusses des Tiefbaumanagements der Stadt Neuss zum 31.12.2018
+- TOP 21: Aktualisierte Spielplatzsatzung der Stadt Neuss
+- TOP 22: Ausbauplanung Kinderspielplatzprogramm 2019/2020
+- TOP 23: Änderung der Satzungen Kindertageseinrichtungen und Kindertagespflege wegen Beitragsbefreiung ab vollendetem 3. Lebensjahr
+- TOP 24: Maßnahme in der Familienbildung "Unsere erste Gruppe"
+- TOP 25: Einrichtung von drei Vollzeitstellen für die Aufgabe "Stadtteilkümmerer"
+- TOP 26: Konzept „Sicher und eigenständig zur Schule“
+- TOP 27: Bibliothekskonzept der Stadtbibliothek
+- TOP 28: Grefrather Weg: Errichtung einer Querungshilfe und barrierefreier Ausbau der Haltestelle Gaußstraße
+- TOP 29: Bebauungsplan Nr. 456 - Rheintorstraße / Düsseldorfer Straße - Auslegungsbeschluss im ergänzenden Verfahren gem. § 214 IV BauGB
+- TOP 30: Namenssteine zur Förderung von Brauchtum etc.
+- TOP 31: Stadteingänge inkl. Lichtkonzept: Beleuchtung Fassaden im Hauptstraßenzug 2. Bauabschnitt
+- TOP 32: Meererhof: Gestaltung der Oberflächen nach Sanierung
+- TOP 33: Aktualisierung und Ergänzung der vorhandenen Beleuchtungsanlagen: Obertor und Windmühlenturm
+- TOP 34: Beschluss des Integrierten Städtebaulichen Entwicklungskonzeptes (ISEK) Bahnhofsumfeld Neuss
+- TOP 35: Beauftragung der SWN, Rheinbahn, BVR, NEW mit Verkehrsdienstleistungen ab 2019 / Vergabe NEW-Linie 870
+- TOP 36: Vorhabenbezogener Bebauungsplan Nr. V 494 – Norf, Grupellostraße (Wohnbebauung) –
+- TOP 37: Vorbereitung des Wettbewerbsverfahrens für den Wendersplatz
+- TOP -: Beschlussfassung des Rates
+- TOP 38: Konferenz der Ratsmitglieder im Städtetag NRW am 11.12.2019
+- TOP 39: Jahresabschluss 2018
+- TOP 40: Einbringung des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Jahr 2020
+- TOP 41: Vertretung der Stadt Neuss in der Neuen Hanse (Hansekommission)
+- TOP 41.1: Modernisierung und Kernsanierung des Nebengebäudes am Nordparkbad
+- TOP -: Anträge
+- TOP 42: Antrag der FDP-Fraktion betr. Freifahrt in Neuss für Bundeswehrangehörige in Uniform
+- TOP 43: Antrag der FDP-Fraktion betr. Maßnahmen und planungsbasierte Klimaverbesserungen für ein lebenswertes Neuss 2030
+- TOP -: Anfragen
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Mitteilungen der Verwaltung
+- TOP 46.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Sachstandsbericht Ausbau Kindertagesbetreuung in der Stadt Neuss
+- TOP 48: Kenntnisnahme üpl./apl. IV/2018 - II/2019
+- TOP 49: Sachstandsbericht "Aufwertung des Stadtgartens"
+- TOP 50: LoRaWAN, Pilotprojekt zum Aufbau eines lokalen Netzwerkes durch die Stadtwerke Neuss Energie und Wasser GmbH
+- TOP -: Einwohnerfragestunde
