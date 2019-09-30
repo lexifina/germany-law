@@ -1,4 +1,4 @@
-# Gesetz über die Rechtsstellung der Reservistinnen und Reservisten der Bundeswehr
+# Gesetz über die Rechtsstellung der Reservisten
 
 
 ## Abschnitt 1 Allgemeines
