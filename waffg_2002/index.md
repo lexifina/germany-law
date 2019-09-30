@@ -103,7 +103,7 @@ und Nachweispflichten
 Angleichung an Gemeinschaftsrecht](0047.md)
 - [§ 48 Sachliche Zuständigkeit](0048.md)
 - [§ 49 Örtliche Zuständigkeit](0049.md)
-- [§ 50 Gebühren und Auslagen](0050.md)
+- [§ 50 (weggefallen)](0050.md)
 
 ## Abschnitt 4 Straf- und Bußgeldvorschriften
 

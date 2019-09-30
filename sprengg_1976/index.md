@@ -97,7 +97,7 @@ gewerblichen Bereich
 - [§ 34 Rücknahme und Widerruf](0034.md)
 - [§ 35 Abhandenkommen des Erlaubnisbescheides und des Befähigungsscheines](0035.md)
 - [§ 36 Zuständige Behörden](0036.md)
-- [§ 37 Gebühren und Auslagen](0037.md)
+- [§ 37 (weggefallen)](0037.md)
 - [§ 38 (weggefallen)](0038.md)
 - [§ 39 Beteiligung beim Erlass von Rechtsverordnungen](0039.md)
 - [§ 39a Datenübermittlung an und von Meldebehörden](0039a.md)

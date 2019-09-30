@@ -80,7 +80,7 @@
 | § 47 | Verordnungen zur Erfüllung internationaler Vereinbarungen oder zur Angleichung an Gemeinschaftsrecht |
 | § 48 | Sachliche Zuständigkeit |
 | § 49 | Örtliche Zuständigkeit |
-| § 50 | Gebühren und Auslagen |
+| § 50 | (weggefallen) |
 | Abschnitt 4 |
 | Straf- und Bußgeldvorschriften |
 | § 51 | Strafvorschriften |
