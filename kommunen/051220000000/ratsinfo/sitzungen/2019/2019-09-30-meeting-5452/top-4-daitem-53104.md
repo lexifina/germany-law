@@ -1,0 +1,7 @@
+# TOP 4.: Wahl des/der stellvertretenden Vorsitzenden des Beirates für Menschen mit Behinderung - mündlicher Bericht -
+
+- Sitzung: Beirat für Menschen mit Behinderung (25. Sitzung) (2019-09-30)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/53104
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/30955
