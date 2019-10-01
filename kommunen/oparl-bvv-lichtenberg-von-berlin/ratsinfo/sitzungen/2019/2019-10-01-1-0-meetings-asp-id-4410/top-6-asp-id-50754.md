@@ -1,0 +1,7 @@
+# TOP 6: Sachstand DS/1291/VIII - Umsetzung der gemeinsamen Strategie des Bezirksamtes Lichtenberg
+
+- Sitzung: 33. Sitzung in der VIII. Wahlperiode des Jugendhilfeausschusses (2019-10-01)
+- Körperschaft: BVV Lichtenberg von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/agendaItems.asp?id=50754
+- Ergebnis: erledigt
