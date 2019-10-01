@@ -1,0 +1,6 @@
+# TOP 2.1.: Bericht der REVG Rhein-Erft-Verkehrsgesellschaft mbH an die Stadträte im Rhein-Erft-Kreis
+
+- Sitzung: Rat (38. Sitzung) (2019-10-01)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/70041
