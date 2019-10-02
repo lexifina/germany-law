@@ -475,18 +475,18 @@ Fahrlässig begangene Ordnungswidrigkeiten
 | 179b | Fahrzeug in Betrieb genommen, dessen Kennzeichen mit Glas, Folien oder ähnlichen Abdeckungen versehen ist | § 10 Absatz 12 i. V. m. § 10 Absatz 2 Satz 1, Absatz 8 § 48 Nummer 1 | 65 € |
 | 179c | Fahrzeug mit CC- oder CD-Zeichen auf öffentlichen Straßen in Betrieb genommen, ohne dass hierzu eine Berechtigung besteht und diese in der Zulassungsbescheinigung Teil I eingetragen ist | § 10 Absatz 11 Satz 3 § 48 Nummer 9b | 10 € |
 |  | Mitteilungs-, Anzeige- und Vorlagepflichten, Zurückziehen aus dem Verkehr, Verwertungsnachweis |  |  |
-| 180 | Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung des Halters, Standortverlegung des Fahrzeuges oder Veräußerung verstoßen | § 13 Absatz 1 Satz 1 bis 4, Absatz 3 Satz 1 § 48 Nummer 12 | 15 € |
+| 180 | Gegen die Mitteilungspflicht bei Änderungen der tatsächlichen Verhältnisse, Wohnsitz- oder Sitzänderung des Halters, Standortverlegung des Fahrzeugs, Veräußerung oder Erwerb verstoßen | § 13 Absatz 1 Satz 1 bis 4, Absatz 3 Satz 1, Absatz 4 Satz 1 erster Halbsatz, Satz 3 oder 4 § 48 Nummer 12 | 15 € |
 | 180a | Als Halter ein Fahrzeug nicht oder nicht ordnungsgemäß außer Betrieb setzen lassen | § 15 Absatz 1 Satz 1, Absatz 2 Satz 1 § 48 Nummer 8 Buchstabe b | 15 € |
 |  | Internetbasierte Zulassung |  |  |
-| 180b | Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen zugeteilten Kennzeichen) angebracht | § 15e Absatz 6 Satz 1 § 48 Nummer 14 | 40 € |
-| 180c | Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht | § 15e Absatz 6 Satz 2 § 48 Nummer 14a | 65 € |
-| 180d | Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt | § 15e Absatz 6 Satz 3 § 48 Nummer 1 Buchstabe c | 70 € |
-| 180e | Als Halter die Inbetriebnahme eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet | § 15e Absatz 6 Satz 4 § 48 Nummer 2 | 70 € |
+| 180b | Als Halter einen Plakettenträger nicht, nicht rechtzeitig oder nicht ordnungsgemäß (ausgenommen auf einem anderen als dem zugehörigen zugeteilten Kennzeichen) angebracht | § 15i Absatz 5 Satz 1 § 48 Nummer 14 | 40 € |
+| 180c | Plakettenträger auf einem Kennzeichenschild mit einem anderen als dem zugehörigen zugeteilten Kennzeichen angebracht | § 15i Absatz 5 Satz 2 § 48 Nummer 14a | 65 € |
+| 180d | Fahrzeug ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen in Betrieb gesetzt | § 15i Absatz 5 Satz 3 § 48 Nummer 1 Buchstabe c | 70 € |
+| 180e | Als Halter die Inbetriebnahme eines Fahrzeuges ohne die dafür übersandten Plakettenträger oder mit einem anderen als den angebrachten Plakettenträgern zugehörigen zugeteilten Kennzeichen zugelassen oder angeordnet | § 15i Absatz 5 Satz 4 § 48 Nummer 2 | 70 € |
 |  | Rote Kennzeichen, Kurzzeitkennzeichen |  |  |
 | 181 | Gegen die Pflicht zur Eintragung in Fahrzeugscheinhefte verstoßen oder das rote Kennzeichen oder das Fahrzeugscheinheft nicht zurückgegeben | § 16 Absatz 2 Satz 3, 7 § 48 Nummer 15, 18 | 10 € |
 | 181a | (aufgehoben) |  |  |
 | 181b | (aufgehoben) |  |  |
-| 182 | Kurzzeitkennzeichen für unzulässige Fahrten oder an einem anderen Fahrzeug verwendet | § 16 Absatz 3 Satz 1 § 48 Nummer 18a | 50 € |
+| 182 | Kurzzeitkennzeichen für unzulässige Fahrten oder an einem anderen Fahrzeug verwendet | § 16a Absatz 3 Satz 1 § 48 Nummer 18a | 50 € |
 | 183 | Gegen die Pflicht zum Fertigen, Aufbewahren oder Aushändigen von Aufzeichnungen über Prüfungs-, Probe- oder Überführungsfahrten verstoßen | § 16 Absatz 2 Satz 5, 6 § 48 Nummer 6, 17 | 25 € |
 | 183a | Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen oder Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen nicht mitgeführt | § 16 Absatz 2 Satz 4 § 17 Absatz 2 Satz 1 § 48 Nummer 5 | 10 € |
 | 183b | Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen nicht mitgeführt | § 16a Absatz 5 Satz 3 § 48 Nummer 5 | 20 € |

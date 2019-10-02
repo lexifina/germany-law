@@ -24,7 +24,7 @@
 | Abschnitt 3 |
 | Sonstige beschussrechtliche Vorschriften |
 | § 15 | Beschussrat |
-| § 16 | Gebühren und Auslagen |
+| § 16 | (weggefallen) |
 | § 17 | Auskunftspflichten und besondere behördliche Befugnisse im Rahmen der Überwachung |
 | § 18 | Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen |
 | § 19 | Rücknahme und Widerruf |

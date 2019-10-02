@@ -41,5 +41,5 @@
 
 - [§ 22 Ausschuss De-Mail-Standardisierung](0022.md)
 - [§ 23 Bußgeldvorschriften](0023.md)
-- [§ 24 Gebühren und Auslagen](0024.md)
+- [§ 24 (weggefallen)](0024.md)
 - [§ 25 Verfahren über eine einheitliche Stelle](0025.md)

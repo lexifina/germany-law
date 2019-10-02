@@ -28,10 +28,26 @@
 ## Abschnitt 2a Internetbasierte Zulassung
 
 - [§ 15a Zulässigkeit internetbasierter Zulassungsverfahren](0015a.md)
-- [§ 15b Gemeinsame Regelungen für internetbasierte Zulassungsverfahren](0015b.md)
-- [§ 15c Nachweis der Hauptuntersuchungen und Sicherheitsprüfungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung](0015c.md)
-- [§ 15d Internetbasierte Außerbetriebsetzung](0015d.md)
-- [§ 15e Internetbasierte Wiederzulassung auf denselben Halter im selben Zulassungsbezirk](0015e.md)
+
+### Unterabschnitt 1 Gemeinsame Regelungen für internetbasierte Zulassungsverfahren
+
+- [§ 15b Portal](0015b.md)
+- [§ 15c Antrag](0015c.md)
+- [§ 15d Sicherheitscodes](0015d.md)
+- [§ 15e Nachweis der Hauptuntersuchungen und Sicherheitsprüfungen nach § 29 der Straßenverkehrs-Zulassungs-Ordnung](0015e.md)
+- [§ 15f Bekanntgabe, Wirksamkeit und Vorbehalt der Nachprüfung](0015f.md)
+
+### Unterabschnitt 2 Internetbasierte Außerbetriebsetzung
+
+- [§ 15g Antrag auf Außerbetriebsetzung](0015g.md)
+- [§ 15h Außerbetriebsetzung](0015h.md)
+
+### Unterabschnitt 3 Internetbasierte Erstzulassung, Wiederzulassung und Änderung bei Halter- und Wohnsitzwechsel
+
+- [§ 15i Gemeinsame Regelungen für die Zulassung und Änderungen](0015i.md)
+- [§ 15j Internetbasierte Erstzulassung](0015j.md)
+- [§ 15k Internetbasierte Wiederzulassung](0015k.md)
+- [§ 15l Internetbasierte Änderung bei Halter- oder Wohnsitzwechsel, sofortige Inbetriebnahme](0015l.md)
 
 ## Abschnitt 3 Zeitweilige Teilnahme am Straßenverkehr
 
@@ -78,6 +94,7 @@
 - [§ 43 Übermittlungssperren](0043.md)
 - [§ 44 Löschung der Daten im Zentralen Fahrzeugregister](0044.md)
 - [§ 45 Löschung der Daten im örtlichen Fahrzeugregister](0045.md)
+- [§ 45a Zentrale Datenbank der Übereinstimmungsbescheinigungen](0045a.md)
 
 ## Abschnitt 7 Durchführungs- und Schlussvorschriften
 
@@ -98,8 +115,8 @@
 - [Anlage 6 (zu § 11 Absatz 4)Zulassungsbescheinigung Teil I für Fahrzeuge der Bundeswehr](anlage-6.md)
 - [Anlage 7 (zu § 12 Absatz 2)Zulassungsbescheinigung Teil II](anlage-7.md)
 - [Anlage 8 (zu § 15)Verwertungsnachweis](anlage-8.md)
-- [Anlage 8a (zu § 15c Absatz 4)Verifizierung der Prüfziffer](anlage-8a.md)
-- [Anlage 8b (zu § 15e Absatz 3)Verifizierung und Verarbeitung der Daten für die internetbasierte Wiederzulassung](anlage-8b.md)
+- [Anlage 8a (zu § 15e Absatz 4)Verifizierung der Prüfziffer](anlage-8a.md)
+- [Anlage 8b (zu § 15i Absatz 3)Verifizierung und Verarbeitung der Daten für internetbasierte Zulassungsverfahren](anlage-8b.md)
 - [Anlage 9 (zu § 16 Absatz 2 Satz 1)Fahrzeugscheinheft für Fahrzeuge mit rotem Kennzeichen](anlage-9.md)
 - [Anlage 10 (zu § 16a Absatz 5 Satz 1)Fahrzeugschein für Fahrzeuge mit Kurzzeitkennzeichen](anlage-10.md)
 - [Anlage 10a (zu § 17 Absatz 2 Satz 1)Fahrzeugscheinheft für Oldtimerfahrzeuge mit roten Kennzeichen](anlage-10a.md)

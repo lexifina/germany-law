@@ -85,8 +85,7 @@ Ansammlungen](0026.md)
 - [§ 47 Sicherstellung](0047.md)
 - [§ 48 Verwahrung](0048.md)
 - [§ 49 Verwertung, Vernichtung](0049.md)
-- [§ 50 Herausgabe sichergestellter Sachen oder des Erlöses,
-Kosten](0050.md)
+- [§ 50 Herausgabe sichergestellter Sachen oder des Erlöses, Gebühren und Auslagen](0050.md)
 
 ## Abschnitt 3 Schadensausgleich
 

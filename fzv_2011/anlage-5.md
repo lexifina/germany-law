@@ -25,24 +25,23 @@ Vorbemerkungen
   e) Der Versand der Vordrucke an die Zulassungsbehörden muss so erfolgen, dass jederzeit eine Verbleibsermittlung möglich ist und der Empfänger innerhalb der Zulassungsbehörde registriert wird.
   Die Unternehmen geben eine Sicherheitserklärung ab, in der sie die Einhaltung der vorgenannten Anforderungen gegenüber dem Kraftfahrt-Bundesamt bestätigen. Das Kraftfahrt-Bundesamt ermächtigt nach Prüfung die Bundesdruckerei, diesen Unternehmen Vordrucke der Zulassungsbescheinigung Teil I zu liefern. Ein Widerruf erfolgt, wenn die Unternehmen gegen einzelne Sicherheitsbestimmungen verstoßen.
 4. Markierung:
-  a) Der Sicherheitscode nach § 11 Absatz 1 Satz 4 ist innerhalb der in der Abbildung der Zulassungsbescheinigung Teil I dargestellten Passmarken anzubringen und durch fälschungserschwerende Sicherheitsabdeckungen zu verbergen. Auf der Sicherheitsabdeckung soll folgender Hinweis stehen:
-    „Nur zur Außerbetriebsetzung Abdeckung entfernen (Dokument nur unbeschädigt gültig)”.
+  a) Die Markierungen mit dem verdeckten Sicherheitscode nach § 11 Absatz 1 Satz 2 bis 4 sind im linken Drittel der Rückseite und dort in der unteren Hälfte rechts, oberhalb der Behördenbezeichnung und Unterschrift, anzubringen.
   b) Die Druckstücknummer ist nach Nummer 5 darzustellen.
   c) Schematische Abbildungen:
-    Die Sicherheitsabdeckung muss gemäß nachfolgender Abbildung nach vorgegebenen Maßen und farblicher Darstellung gestaltet sein:
+    Die Markierungen müssen gemäß nachfolgender Abbildung nach vorgegebenen Maßen und farblicher Darstellung gestaltet sein:
     aa) Format:
       aaa) Breite 30 mm, Höhe 20 mm, Eckradien 1 mm oder
-      bbb) Breite von 35 mm, Höhe von 25 mm, Eckradien 1 mm.
+      bbb) Breite 35 mm, Höhe 25 mm, Eckradien 1 mm.
     bb) Farbe:
       Mittiges Beschriftungsfeld silbergrau mit 4 mm umlaufendem, farbigem Rand (Verkehrsgrün, RAL 6024).
-    cc) Zusätzlich muss ein herstellerspezifisches, unsichtbares Kennzeichen in der Nähe der Druckstücknummer angebracht werden. Die fälschungserschwerende Sicherheitsabdeckung soll gewährleisten, dass die Druckstücknummer und der 2D-Code im Beschriftungsfeld beim Freilegen oder einer Manipulation unwiderruflich zerstört werden. Durch das Entfernen der Abdeckung ist
+    cc) Zusätzlich muss ein herstellerspezifisches, unsichtbares Kennzeichen in der Nähe der Druckstücknummer angebracht werden. Die sichtbare Markierung soll als fälschungserschwerende Sicherheitsabdeckung gewährleisten, dass die auf ihr angebrachte Druckstücknummer und der 2D-Code beim Freilegen oder einer Manipulation unwiderruflich zerstört werden. Durch das Entfernen der sichtbaren Abdeckung ist
       aaa) ein irreversibles 2-farbiges Farbmuster (Schraffur Verkehrsblau RAL 5017/Verkehrsweiß RAL 9016, 45 Grad nach rechts geneigt, Strichstärke 1 mm) oder
       bbb) ein irreversibles 1-farbiges Farbmuster (Verkehrsgrün, RAL 6024)
       freigelegt und die Manipulation oder gewollte Öffnung erkennbar.
     Abbildung zur sichtbaren Markierung:
-    [Bild: bgbl1_2014_j1666-1_0050.jpg]
-    Abbildung zur Markierung mit Sicherheitscode nach Sichtbarmachung:
-    [Bild: bgbl1_2013_j3772-1_0050.jpg]
+    [Bild: bgbl1_2019_j0382-1_0010.jpg]
+    Abbildung zur darunterliegenden Markierung mit Sicherheitscode nach Sichtbarmachung:
+    [Bild: bgbl1_2019_j0382-1_0020.jpg]
 5. Druckstücknummer der Zulassungsbescheinigung Teil I:
   Die Druckstücknummer ist in maschinenlesbarer und unmittelbar lesbarer Form darzustellen. Der maschinenlesbaren Form genügt ein 2D-Code in Form des DataMatrix-Codes. Die Zusammensetzung der Druckstücknummer erfolgt entsprechend der Vorgaben aus Anlage 4a Nummer 1. Der 2D-Code hat eine Mindestgröße von 5 x 5 mm. Als Schriftart ist Arial-Bold mindestens 4 Punkt – schwarz – und für die Klarschriftnummer die Schriftart Arial-Bold mindestens 7 Punkt – schwarz – zu verwenden.
 6. Sicherheitscode der Zulassungsbescheinigung Teil I:

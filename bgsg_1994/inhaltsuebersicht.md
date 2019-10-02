@@ -74,7 +74,7 @@
 |  |  | § 47 | Sicherstellung |
 |  |  | § 48 | Verwahrung |
 |  |  | § 49 | Verwertung, Vernichtung |
-|  |  | § 50 | Herausgabe sichergestellter Sachen oder des Erlöses, Kosten |
+|  |  | § 50 | Herausgabe sichergestellter Sachen oder des Erlöses, Gebühren und Auslagen |
 | Abschnitt 3 |
 |  | Schadensausgleich |
 |  |  | § 51 | Zum Ausgleich verpflichtende Tatbestände |

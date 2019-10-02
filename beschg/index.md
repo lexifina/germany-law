@@ -28,7 +28,7 @@ Schussapparaten und der in ihnen zu verwendenden Kartuschenmunition](0007.md)
 ## Abschnitt 3 Sonstige beschussrechtliche Vorschriften
 
 - [§ 15 Beschussrat](0015.md)
-- [§ 16 Gebühren und Auslagen](0016.md)
+- [§ 16 (weggefallen)](0016.md)
 - [§ 17 Auskunftspflichten und besondere behördliche Befugnisse im Rahmen der Überwachung](0017.md)
 - [§ 18 Inhaltliche Beschränkungen, Nebenbestimmungen und Anordnungen](0018.md)
 - [§ 19 Rücknahme und Widerruf](0019.md)
