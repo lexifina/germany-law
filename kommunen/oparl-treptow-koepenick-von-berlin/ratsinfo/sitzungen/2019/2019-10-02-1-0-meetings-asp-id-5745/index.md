@@ -1,0 +1,52 @@
+# 33. (öffentliche, außerordentliche) Sitzung des Ausschusses für Tiefbau und Ordnungsangelegenheiten
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-10-02T17:30:00+02:00
+- Ende: 2019-10-02T20:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=95
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5745
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5745
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Überweisungen aus der BVV - (offen)
+- TOP 3.1: Verkehrskonzept Südost – Treptow-Köpenick verkehrlich zukunftsfähig machen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.2: Neubau der Elsenbrücke unter Berücksichtigung des Weiterbaus der A100 schnell vorantreiben – Verkehrskonzepte für die Zeit nach der Eröffnung der Autobahn bis Alt-Treptow - mit Änderungen im Ausschuss beschlossen
+- TOP 3.3: Verkehrskonzept für den 1. FC Union - vertagt
+- TOP 3.4: Umfeldverträglicher Weiterbau des 17. Abschnitts der Autobahn A 100 - vertagt
+- TOP 3.5: Fuß- und Radverkehrsbrücke über die Dahme zwischen Wendenschloß und Grünau - mit Änderungen im Ausschuss beschlossen
+- TOP 3.6: Anleger für Fähre am Spreetunnel in Friedrichshagen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.7: Verkehrssicherheit an der Geflüchtetenunterkunft in der Rudower Straße erhöhen - zurückgezogen
+- TOP 3.8: Fahrradweg auf dem Fürstenwalder Damm zwischen Müggelseedamm und Bölschestraße - vertagt
+- TOP 3.9: Veränderung der Verkehrsführung in Adlershof - vertagt
+- TOP 3.10: Sicherung der Straßenbeleuchtung in der Siedlung Spreewiesen - vertagt
+- TOP 3.11: Maßnahmen gegen die Verkehrsbelastung in Köpenick (II) - zurückgezogen
+- TOP 3.12: Mehr Sicherheit für Radfahrer: Radwegmarkierungen in Baumschulenweg - im Ausschuss abgelehnt
+- TOP 3.13: Verbesserung der Verkehrssituation an der Südostallee in Johannisthal - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.14: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.15: Schutz der Baumscheiben in Plänterwald - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.16: Beleuchtung Radwege Fürstenwalder Allee Richtung Stadtgrenze - ohne Änderungen im Ausschuss beschlossen
+- TOP 3.17: Parksituation in der Straße "Am Falkenberg" verbessern - mit Änderungen im Ausschuss beschlossen
+- TOP 3.18: Beschilderung Kreuzung Schnellerstraße / Rudower Straße - vertagt
+- TOP 3.19: "Roller-Koller" verhindern - vertagt
+- TOP 3.20: Bürgerbeteiligungsverfahren zur Erarbeitung des Verkehrsberuhigungskonzeptes in Oberschöneweide fortführen - vertagt
+- TOP 3.21: Bedarfsampel Grünauer Straße - vertagt
+- TOP 3.22: Bedarfsfußgängerampel Bulgarische Straße / Erwin-Bennewitz-Weg - vertagt
+- TOP 3.23: Sicheres Radfahren entlang der Bundestraße B96a - vertagt
+- TOP 3.24: Mehr Sicherheit und weniger Lärm: Tempo 30 in der Siemensstraße in Oberschöneweide - vertagt
+- TOP 3.25: Eisenhutweg erschließen - vertagt
+- TOP 3.26: Fahrradstraße im Agavensteig prüfen - vertagt
+- TOP 3.27: Linksabbiegerampel von der Bellevuestraße in den Fürstenwalder Damm - vertagt
+- TOP 3.28: Kreuzung Dammweg / Kiefholzstraße entschärfen - vertagt
+- TOP 3.29: Radgerechter Straßenbelag - vertagt
+- TOP 3.30: Umbau Kreuzung Südostallee / Rixdorfer Straße / Kiefholzstraße - vertagt
+- TOP 3.31: Neubau einer Brücke über die Dahme - vertagt
+- TOP 3.32: Nahverkehrstangente entlang der TVO-Trasse zügig errichten - vertagt
+- TOP 3.33: Rechtsabbiegerampel Glienicker Weg / Adlergestell - vertagt
+- TOP 3.34: Beschluss des Integrierten Handlungs- und Entwicklungskonzepts (IHEK) für die Förderkulisse Kosmosviertel im Bezirk Treptow-Köpenick und die Anmeldung aus Mitteln des Baufonds für das Projekt "Kita Sonnenschein" - vertagt
+- TOP 4: Verschiedenes - vertagt
