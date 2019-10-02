@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-10-02T15:00:00+02:00
+- Ende: 2019-10-02T21:31:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4566
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4566
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 39 Sitzung des Rates am 03.07.2019 - öffentlicher Teil - Zur Kenntnis genommen
+- TOP 2: Aktueller Sachstand zum Verkauf von Fahrkarten des Schienenpersonenfernverkehrs mit qualifizierter B - Kenntnisnahme
+- TOP 3: Mündlicher Sachstandsbericht - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 3.1: Mündlicher Sachstandsbericht zu Beteiligungen der NEW Smart City GmbH - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 4: Beteiligung der Stadt an der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 5: Anpassung des Gesellschaftsvertrages der ZRR GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 6: Bereitstellung außerplanmäßiger Haushaltsmittel - Einstimmiger Beschluss
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (3. Nachweisung) - Kenntnisnahme
+- TOP 8: Bereitstellung überplanmäßiger Haushaltsmittel für den Gebührenhaushalt - Einstimmiger Beschluss
+- TOP 9: HSP-Umsetzungsbericht 30.06.2019 - Kenntnisnahme
+- TOP 10: Beteiligung an der NEW Kommunalholding - Mit Stimmenmehrheit beschlossen
+- TOP 11: Beteiligung an der NEW Kommunalholding GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 12: Wirtschaftsplan 2020 der mags - Einstimmiger Beschluss
+- TOP 13: Ordnungsbehördliche Verordnungen Offenhalten Verkaufsstellen 2019 - Mit Stimmenmehrheit beschlossen
+- TOP 14: Bildung eines Wahlausschusses für die Integrationsratswahl 2020 - Einstimmiger Beschluss
+- TOP 15: Weiterqualifizierung des Hockeyparks; Errichtung eines nationalen Trainingszentrums für den Deutsche - Mit Stimmenmehrheit beschlossen
+- TOP 16: Inangriffnahme Kunststoffrasen-Mini-Spielfeld an der Sportanlage Stapper Weg - Einstimmiger Beschluss
+- TOP 17: Gründung eines Trägervereins für das TextilTechnikum - Einstimmiger Beschluss
+- TOP 18: Festlegung einer weiteren Grundschule mit dem Angebot zum Gemeinsamen Lernen - Einstimmiger Beschluss
+- TOP 19: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 20: Familienkarte - Mit Stimmenmehrheit beschlossen
+- TOP 21: Mönchengladbach-Ausweis - Einstimmiger Beschluss
+- TOP 22: Jugendclubhaus Westend - Mit Stimmenmehrheit beschlossen
+- TOP 23: Leistungsvereinbarung Streetwork - Mit Stimmenmehrheit beschlossen
+- TOP 24: Jahresabschluss 2018 des Gebäudemanagement Mönchengladbach (GMMG) und Verwendung des Jahresüberschus - Einstimmiger Beschluss
+- TOP 25: Fünfundzwanzigster Nachtrag zur Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 26: Regionale Kooperation - Einstimmiger Beschluss
+- TOP 27: RWE Aktien zum Rückkauf der NEW AG Aktien nutzen - Mit Stimmenmehrheit abgelehnt
+- TOP 28: Bauen mit umweltfreundlichen und co2-speichernden Rohstoffen - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Baumfällungen an der Odenkirchener Straße 298 im Zuge der Errichtung eines Baumarktes - Vom Antragsteller zurückgezogen
+- TOP 30: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 31: ÖPNV Hindenburgstraße – Busverkehr - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Verlängerung des Pachtvertrags über die Nutzung der Trabrennbahn zwischen dem Verein - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Umbau Zentraler Omnibusbahnhof (ZOB) Mönchengladbach - Mit Stimmenmehrheit abgelehnt
+- TOP 34: Umsetzung des nordrhein-westfälischen Landes-Sportstättenförderprogramms „Moderne Sportstätte 2022“ - Vom Antragsteller zurückgezogen
+- TOP 35: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Alternatives Grundstück zum Bau e - Siehe Niederschrift
+- TOP 36: Anfragen und Mitteilungen
+- TOP 36.1: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zum Rathaus der Zukunft - Zur Kenntnis genommen
+- TOP 36.2: Anfrage von RF Brombeis (Bündnis 90/Die Grünen) zum Krankenstand bei der Mobil und Aktiv GmbH - Zur Kenntnis genommen
+- TOP 36.3: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) zur Verleihung der Goldenen Blume - Zur Kenntnis genommen
+- TOP 36.4: Anfrage von RH Sasserath (Bündnis 90/Die Grünen) Anfrage von RH Sasserath (Bündnis 90/Die Grünen) über eintretendes Wasser im Eingangsbereich des Hauptbahnhofes Rheydt - Zur Kenntnis genommen
+- TOP 36.5: Anfrage von RH Schultz (DIE LINKE) zur Gelben Tonne bzw. Wertstofftonne - Zur Kenntnis genommen
+- TOP 36.6: Anfrage von RH Schultz (DIE LINKE) zur Erhöhung von Ordnungsgeldern - Zur Kenntnis genommen
+- TOP 36.7: Mitteilung von Oberbürgermeister Reiners zur Weitergabe von Bürgeranträgen zur Einführung einer 35-Liter Rolltonne an die mags AöR - Zur Kenntnis genommen
