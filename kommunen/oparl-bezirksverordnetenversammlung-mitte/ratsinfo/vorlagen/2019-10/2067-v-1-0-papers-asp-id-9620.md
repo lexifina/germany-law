@@ -1,0 +1,31 @@
+# Sitzungskalender 2020
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 2067/V
+- Art: Beschluss
+- Datum: 2019-10-02
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=9620
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=9620
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=450145
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4793 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung:   https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=7
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4845 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=18
+- Beratung:   https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Beratung:   https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=9
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4844 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=17
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4838 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=48
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4837 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=50
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4847 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=49
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4817 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung: Vorberatung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4840 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=11
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4825 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=47
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4828 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4855 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4829 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=39
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4858 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=39
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4826 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4824 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung:  https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4867 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=8
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4861 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=3
