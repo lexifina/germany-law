@@ -1,0 +1,6 @@
+# TOP 1: Begrüßung zur konstituierenden Sitzung; Vorstellung und Verpflichtung der Stadtbezirksbeiräte
+
+- Sitzung: 1. Sitzung des Stadtbezirksbeirates Klotzsche (2019-10-07)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/121700
