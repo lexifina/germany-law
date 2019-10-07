@@ -1,0 +1,65 @@
+# Sitzung der Bezirksvertretung Rodenkirchen
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-07T17:05:00+02:00
+- Ende: 2019-10-07T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/21
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20377
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20377
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 48 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Ausbau Neuer Weyerstraße in Köln-Zollstock - Kenntnis genommen
+- TOP 7.1.2: Nahverkehrsplan: Feinerschließung Zollstock - Kenntnis genommen
+- TOP 7.1.3: Maßnahmen der Polizei gegen den „unheimlichen Reifenschlitzer in Zollstock“ - Kenntnis genommen
+- TOP 7.1.4: Frischezentrum - Sachstand; Beantwortung einer Anfrage der SPD-Fraktion vom - Kenntnis genommen
+- TOP 7.1.5: Parkplatzsituation aufgrund von Baustellen in Bayenthal - Kenntnis genommen
+- TOP 7.1.6: Sachstand Spielplatz Weißdornweg, Beantwortung einer Anfrage der CDU-Fraktion AN/0318/2019 in der Sitzung der Bezirksvertretung Rodenkirchen vom 25.03.2019, Top 7.2.2 - Kenntnis genommen
+- TOP 7.1.7: Kostenbeteiligung bei der Umgestaltung des Streckenzuges Weisser Straße - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Mögliche Auswirkungen bei einer Neuaufstellung eines Bebauungsplans zur Innenentwicklung Heidelweg, Anfrage der CDU-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.1.1: Beantwortung einer Anfrage der CDU-Fraktion betreffend: Mögliche Auswirkungen bei der Neuaufstellung eines Bebauungsplans zur "Innenentwicklung Heidelweg" (AN/1247/2019) - Kenntnis genommen
+- TOP 7.2.2: Glas-Container an der Goltsteinstraße in Bayenthal, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.3.1: Behinderung von AWB und Feuerwehr auf der Fischenicher Straße in Zollstock - AN/1286/2019 - Kenntnis genommen
+- TOP 7.2.3.2: Beantwortung der AWB der Anfrage AN/1286/2019 - Bezirksvertretung Rodenkirchen - Kenntnis genommen
+- TOP 7.2.3.3: Stellungnahme der Verwaltung zu AN/1286/2019 - Kenntnis genommen
+- TOP 7.2.4: Gewerbegebiete in Rodenkirchen, Ringstraße 38-46 und Weisser Str. 147-151, Anfrage der FDP-Fraktion - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 7.2.5: SCHWARZ-Folien auf den Äckern im Kölner Süden: Entsorgung, Anfrage der Fraktion Die Grünen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Befestigung des Randstreifens der Militärringstraße in Marienburg, Antrag der CDU-Fraktion - ungeändert beschlossen
+- TOP 8.1.2: Zebrastreifen über die Kölnstraße Höhe Seniorenweg: Entschärfung einer Gefahrenstelle, Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.3: Kolumbarium in Weiß - Aufforderung zur Umsetzung, Gemeinsamer Antrag der Fraktion Die Grünen und der FDP-Fraktion - geändert beschlossen
+- TOP 8.1.4: Reinigung und Pflege von Reitwegen im Stadtbezirk Rodenkirchen, Antrag der CDU-Fraktion - zurückgestellt
+- TOP 8.1.5: Mehr Sicherheit an der Kreuzung Kalscheurer Weg / Kendenicher Straße, Antrag der Fraktion Die Grünen - ungeändert beschlossen
+- TOP 8.1.6: Angebot der Schenkung der Wohncontainer aus der Wohncontaineranlage für Geflüchtete am Standort Eygelshovener Straße 33 in 50999 Köln, Dringlichkeitsantrag der FDP-Fraktion - geändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Haushaltsplan-Entwurf Doppelhaushalt 2020/2021 Hier: Aufteilung der bezirksbezogenen Mittel gemäß § 37 Absatz 3 der Gemeindeordnung Nordrhein-Westfalen (GO NRW) - ungeändert beschlossen
+- TOP 9.1.2: Schließung und Rückbau der städtischen Unterkunft für Geflüchtete am Standort Eygelshovener Straße 33, 50999 Köln-Sürth - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Innenentwicklung Heidelweg in Köln-Sürth; 71376/03; Satzungsbeschluss - mit Änderungen empfohlen
+- TOP 9.2.1.1: TOP 9.2.1 (B-Plan 71376/03 "Innenentwicklung Heidelweg") - Ersetzungsantrag der Fraktion Die Grünen - Sache ist erledigt
+- TOP 9.2.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 9.2.3: Baubeschluss für die Umgestaltung des Knotenpunktes Sürther Str./Grüngürtelstr. in einen Kreisverkehr sowie Freigabe von investiven Verpflichtungsermächtigungen, hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - zurückgestellt
+- TOP 9.2.4: Erstellung eines Neubaus für eine Grundschule mit einer 1-fach Turnhalle in der Gaedestr., Köln-Marienburg - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 10.2.3: Schadstoffbelastung Meschenich; Überwachung LKW-Durchfahrtverbot - Kenntnis genommen
+- TOP 10.2.4: Parkplatz Bezirkssportanlage Sürther Feld - Kenntnis genommen
