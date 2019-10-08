@@ -1,0 +1,71 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-10-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147860
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147860
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Verbesserungsvorschläge im Umfeld des "Forum Schwanthalerhöh"
+- TOP 4.2.: Ampelschaltungen zur Oktoberfestzeit
+- TOP 4.3.: Brunnen am Gollierplatz zur Wiesnzeit abstellen; Bodenmarkierungen auf dem Rad-/Fußweg der Donnersberger Brücke
+- TOP 4.4.: Gehweg an der Schnaderböckstraße nutzbar machen
+- TOP 4.5.: Zustand des Radwegs Ridlerstraße auf Höhe Hs 57
+- TOP 4.6.: Das Parklizenzgebiet "Ridlerstraße" (speziell: Sandtnerstraße) und das Oktoberfest
+- TOP 4.7.: Nachnutzung der Gewerberäume Gollierstraße 23
+- TOP 4.8.: Blindengerechter Umbau der Ampelanlage an der Trambahnhaltestelle Barthastraße Behindertenparkplatz vor dem Gesundheitsladen, Astallerstraße 14
+- TOP 4.9.: Umwandlung von Kfz-Stellplätzen in Fahrradabstellplätze vor dem Anwesen Ligsalzstr. 31a
+- TOP 6.3.1.: Meldelisten Bauvorhaben KW 37 und KW 38
+- TOP 6.3.2.: Baumaßnahmen der Stadtwerke München KW 36 und KW 37
+- TOP 6.3.3.: Unveränderte Fortführung Kleingaststätte
+- TOP 6.3.4.: Neubau MKJZ Westendstr. 66
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: 3. Schulbauprogramm, Kita-Bauprogramm 2019; Sitzungsvorlage Nr. 14-20 / V 14012
+- TOP 7.3: Unterrichtungen
+- TOP 7.3.1.: Umgestaltung Spielplatz Gollierplatz
+- TOP 7.3.2.: Demokratiemobil München
+- TOP 8.1: Entscheidungen
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Baumfällung Westendstraße
+- TOP 8.2.2.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 8.2.3.: Oldtimer Shuttle zur Langen Nacht der Museen am 19.10.2019; Museumsinsel 1 und Bavariapark
+- TOP 8.2.4.: Oktoberfest 2019 – Schluss- und Erfahrungsbericht
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Errichtung einer Ladezone in der Kazmairstraße
+- TOP 8.3.2.: Beibehaltung der Radlständer Parkstraße/Schwanthalerstraße nach Parklet-Abbau
+- TOP 8.3.3.: Filmaufnahmen Ganghoferstraße / Heimeranstraße / Franziska-Bilek-Weg
+- TOP 8.3.4.: Rotfärbung von Radwegen an Kreuzungen
+- TOP 8.3.5.: Schienenschleifarbeiten auf der U-Bahnlinie 5 West
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1.: Eigenmittel für den Jahresempfang 2019; € 4000,-
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 10.1.: Umwandlung von 2 Kfz-Stellplätzen zur Einrichtung von sechs Fahrradständern vor dem Anwesen Schwanthalerstr. 125
+- TOP 11.1.: Kommunalwahlen 2020; Stimmbezirkseinteilung
+- TOP 11.2.: BA-Sitzungsunterlagen auf Papier - Anpassung des Versandes
+- TOP 11.3.: Einladungsschreiben Isar-Symposium
+- TOP 11.4.: Nachhaltigkeit von Kleidung
+- TOP 11.5.: Abschaltung des Ratsinformationssystems vom 28.10. bis 31.10.2019
+- TOP 11.6.: Bürgersprechstunde des Oberbürgermeisters am 21.11.2019; Aula der Carl-von-Linde-Realschule, Ridlerstr. 26
