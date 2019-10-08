@@ -1,0 +1,77 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-08T17:00:00+02:00
+- Ende: 2019-10-08T17:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20483
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20483
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz-Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Linder Mauspfad (Az.: 02-1600-76/19) - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Herstellung einer Teilfläche in der Schubertstraße - zurückgestellt
+- TOP 6.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Anpassung der Zuständigkeitsordnung - ungeändert empfohlen
+- TOP 7.3: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 7.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - ungeändert empfohlen
+- TOP 7.5: Zu TOP 8.8 geschoben
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Verkehrssicherheit Fußweg (Teehaus)Leinpfad-Hauptstraße in Zündorf - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Fahrradschutzstreifen - zurückgestellt
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der Fraktion die Grünen: Halteverbot auf der Straße „An Der Mühle“ - ungeändert beschlossen
+- TOP 8.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.5: Antrag der CDU-Fraktion: Durchgangsverkehr in der Meirowskystraße/Carlebachstraße - zurückgestellt
+- TOP 8.6: Antrag der SPD-Fraktion: Einrichtung einer zweiten Tauchbasis in Köln, vorzugsweise in Porz-Gremberghoven an den Alberti-Seen - Sache ist erledigt
+- TOP 8.6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.7: Antrag der SPD-Fraktion: Mehr Verkehrssicherheit auf der Gremberghovener Str. in Porz-Ensen - zurückgestellt
+- TOP 8.8: Aus dem Schulausschuss überwiesen: Dringlichkeitsantrag der SPD-Ratsfraktion: Wohnungsbau sichern in Köln-Porz-Elsdorf – Schulinfrastruktur zeitnah erweitern! - Sache ist erledigt
+- TOP 8.8.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Loorweg in Langel zwischen Haus Nr. 27 und Unterm Berg - Kenntnis genommen
+- TOP 9.1.1.1: Anfrage der SPD-Fraktion: Loorweg in Langel zwischen Hsnr. 27 und unterm Berg - Sache ist erledigt
+- TOP 9.1.2: Wohnungen Parkstraße - Kenntnis genommen
+- TOP 9.1.2.1: mündliche Anfrage der CDU-Fraktion: Wohnungen Parkstraße - Sache ist erledigt
+- TOP 9.1.3: Feuerwerke am Kölner Rheinufer - Kenntnis genommen
+- TOP 9.1.3.1: Anfrage der Fraktion die Grünen: Feuerwerk - Sache ist erledigt
+- TOP 9.1.4: Unterkünfte für Obdachlose - Kenntnis genommen
+- TOP 9.1.4.1: Anfrage der CDU-Fraktion: Unterkünfte für Obdachlose - Sache ist erledigt
+- TOP 9.1.5: Verkehrssicherheit Ortseinfahrt Zündorf - Kenntnis genommen
+- TOP 9.1.5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1.6: Mündliche Anfrage der CDU-Fraktion zur Heideschule in der BV Porz am 10.09.2019 - AN/1233/2019 - Kenntnis genommen
+- TOP 9.1.6.1: Beantwortung einer mündlichen Anfrage der CDU-Fraktion: Heideschule - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion: Bus Porz Rodenkirchen - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD-Fraktion: Gewerbegebiet Poll - zurückgestellt
+- TOP 9.2.3: mündliche Anfrage der Fraktion die Grünen: Straßenbegleitgrün - zurückgestellt
+- TOP 9.2.4: mündliche Anfrage der CDU Fraktion zu TOP 9.1.2: Wohnungen Parkstraße; Anzahl Häuser und Wohnungen - Sache ist erledigt
+- TOP 9.2.5: mündliche Anfrage der SPD Fraktion: Sportplätze Humboldtstraße und Stresemannstraße - zurückgestellt
+- TOP 9.2.6: mündlich Anfrag der SPD-Fraktion: Sachstand Sanierung eines Fußweges in Urbach: Danziger Str. zum Marienplatz - Kenntnis genommen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Mitteilung zum Sachstand der Stilllegungsmaßnahme der Altdeponie "Linder Mauspfad" in Köln Porz-Lind - Kenntnis genommen
+- TOP 10.3: Offenlage nach § 3 Absatz 2 Baugesetzbuch (BauGB) zum Bebauungsplan-Entwurf mit der Nummer 7340/02 Arbeitstitel: Kölner Straße / Hauptstraße in Köln-Porz-Ensen - Kenntnis genommen
+- TOP 10.4: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.5: Planfestellungsbeschluss für das Vorhaben: Deponie "Am Wiemersgrund" - Änderung der Oberflächengestaltung des 2. Deponieabschnitts und Betrieb eines 3. Deponieabschnitts - Kenntnis genommen
+- TOP 10.6: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 10.7: Berichtswesen
+- TOP 10.8: Niederschrift zum 10. Runden Tisch Radverkehr vom 02.09.2019 - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
