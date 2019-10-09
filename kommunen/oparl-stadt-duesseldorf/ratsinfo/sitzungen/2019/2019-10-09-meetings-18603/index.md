@@ -1,0 +1,71 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-10-09T17:00:00+02:00
+- Ende: 2019-10-09T00:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18603
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18603
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket 2019-10-09 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357777.pdf
+- Ergebnisprotokoll: Sitzungspaket 2019-10-09 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357777.pdf
+- Wortprotokoll: Sitzungspaket 2019-10-09 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357777.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Vorstellung Entwicklungskonzept Grünzug Aaper Wald - zur Kenntnis genommen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: B-Plan 06/018 Theodorstraße - Empfehlung abweichend beschlossen
+- TOP 5: FNP-Änderung Nr. 195 - Nördlich und südlich der Theodorstraße - Empfehlung einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen (wurden bereits übersandt)
+- TOP 6: Anfrage SPD: fehlende dauerhafte Anbindung Lichtenbroich / Rath (Linie 776) - schriftlich beantwortet
+- TOP 7: Anfrage SPD: Altglas- und Papiercontainer - vertagt
+- TOP 8: Anfrage CDU und FDP: Parken im Gewerbebereich - vertagt
+- TOP 9: Anfrage SPD: Trasse Ortsumgehung Rath - vertagt
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Ehemalige Tankstelle in Unterrath, Kalkumer Straße Ecke Zaberner Straße - vertagt
+- TOP -: Anfragen
+- TOP 12: Antrag der CDU-Fraktion und der FDP-Fraktion: Qualitätssicherndes Verfahren Mettlacher Straße - schriftlich beantwortet
+- TOP 13: Anfrage der CDU-Fraktion: Nachnutzung Junges Schauspielhaus - evtl. ein Haus der Kulturen - schriftlich beantwortet
+- TOP 14: Anfrage der CDU-Fraktion: "Haus der Kulturen" am Standort des Jungen Schauspielhauses in Mörsenbroich - schriftlich beantwortet
+- TOP 15: Anfrage der FDP-Fraktion: fehlende Vorstellung des Projektes "Haus der Kulturen" - schriftlich beantwortet
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 17: Antrag der SPD-Fraktion: Haltestelle Stadtbahn zwischen Rather Broich und Rather Waldstadion - einstimmig beschlossen
+- TOP 18: Antrag der CDU-Fraktion: "Haus der Kulturen" am Standort des Junges Schauspielhaus in Mörsenbroich - vertagt
+- TOP 19: Antrag der FDP-Fraktion: keine Bereitstellung von HH-Mitteln für den Umzug des Junges Schauspiel - vertagt
+- TOP 20: Antrag der CDU-Fraktion und der FDP-Fraktion: externer Workshop zur Entwicklung des Schwimmbadgrundstücks zum Stadtteilzentrum - mehrheitlich beschlossen
+- TOP 21: Antrag der CDU-Fraktion und der FDP-Fraktion: Verbindung Graf-Recke-Straße mit der Gartenstadt Reitzenstein - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 22: Zuschussvergabe 2019 - abweichend beschlossen
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Zuschussvergabe 2019 - Antrag Gemeinschaftsgrundschule Max-Halbe-Straße - St. Martin/Weihnachtsfeier - abweichend beschlossen
+- TOP 25: Zuschussvergabe 2019 Antrag Bürgerverein Mörsenbroich 1928 e.V. - Aufstellung Weihnachtsbaum Kreitenplatz/Schlieffenstraße/Münsterstraße - einstimmig beschlossen
+- TOP 26: Beratung der Entwürfe - einstimmig beschlossen
+- TOP 27: Genemigung der Niederschrift - öffentlicher Teil - über die Sitzung vom 10. Juni 2019 - abweichend beschlossen
+- TOP 28: Zuschussvergabe 2019 Antrag Pinocchio e.V. - Baumaßnahmen - vertagt
+- TOP 29: Zuschussantrag 2019 - Amt 51/3/6 - einstimmig beschlossen
+- TOP 30: Bauunterhaltungsmittel 2019 - Aufstellung eines Weihnachtsbaumes inkl. Beleuchtung auf dem Hülsmeyerplatz - einstimmig beschlossen
+- TOP 31: Bauunterhaltungsmittel 2019 - Jfe Ammerweg - einstimmig beschlossen
+- TOP 32: Bauunterhaltungsmittel 2019 - Kinderspielplatz Sermer Weg - einstimmig beschlossen
+- TOP 33: Sitzungstermine der Bezirksvertretung 6 im 1. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 34: HH-Antrag der CDU-Fraktion und der FDP-Fraktion: Verkehrsgutachten für den Stadtbezirk 6 - mehrheitlich beschlossen
+- TOP 35: HH-Antrag der CDU-Fraktion: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 36: HH-Antrag der CDU-Fraktion: Anschluss der K3n an die A44 - mehrheitlich beschlossen
+- TOP 37: HH-Antrag der CDU-Fraktion: Nördlicher Zubringer - 3. Fahrspur stadteinwärts - mehrheitlich beschlossen
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: HH-Antrag der CDU-Fraktion: Haushalt 2020 - Sicherheit und Sauberkeit im wachsenden Stadtbezirk 6 - einstimmig beschlossen
+- TOP 40: HH-Antrag der SPD-Fraktion: Folgemaßnahmen Soziale Stadt - einstimmig beschlossen
+- TOP 41: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: HH-Antrag der CDU-Fraktion: Bürgersaal Rath - einstimmig beschlossen
+- TOP 48: HH-Antrag der CDU-Fraktion und der FDP-Fraktion: Beleuchtung Fußweg Kittelbach - einstimmig beschlossen
+- TOP 49: Wartung und Pflege des "Kreitenplatz" an der Münsterstraße - Vorlage 176/ 74/2019 - zur Kenntnis genommen
