@@ -74,7 +74,7 @@
 | Siebenter Abschnitt |
 |  | Verfahrensvorschriften |
 | § 60 | Prüfung der Bauunterlagen für Betriebsanlagen |
-| § 61 | Aufsicht über den Bau von Betriebsanlagen |
+| § 61 | Aufsicht über den Bau von Betriebsanlagen und Fahrzeugen |
 | § 62 | Inbetriebnahmegenehmigung für Betriebsanlagen und Fahrzeuge |
 | Achter Abschnitt |
 |  | Ordnungswidrigkeiten, Schluß- und Übergangsvorschriften |
