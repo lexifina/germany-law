@@ -1,0 +1,99 @@
+# 42. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-10-09T18:23:00+02:00
+- Ende: 2019-10-09T21:49:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11333
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11333
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00450537.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Klimaneutralität in Münster bis 2030
+- TOP 1.2: Bebauung der Grünzüge und Grünringe der Stadt Münster
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Anregungen des Jugendrats gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2017 - einstimmig beschlossen
+- TOP 12: Entwurf des Jahresabschlusses zum 31.12.2018 der Stadt Münster - einstimmig beschlossen
+- TOP 13: Musik-Campus - Ouvertüre für ein deutschlandweit einmaliges Projekt - Beschluss - mehrheitlich beschlossen
+- TOP 13.1: Musik-Campus - Ouvertüre für ein deutschlandweit einmaliges Projekt - Grundsatzbeschluss
+- TOP 14: Zukunft der Wissenschaftsstadt: Perspektiven für den Schlossplatz und das Schlossareal - mehrheitlich beschlossen
+- TOP 15: Innenstadt weiterdenken: Perspektiven für das Martiniviertel und den Hörster Parkplatz - mehrheitlich beschlossen
+- TOP 16: Städtepartnerschaft zwischen Enschede (Niederlande) und Münster - einstimmig beschlossen
+- TOP 17: Münsters Städtepartnerschaften stärken und weiterentwickeln - einstimmig beschlossen
+- TOP 17.1: Münsters Städtepartnerschaften stärken und weiterentwickeln
+- TOP 18: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Sprakel der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 19: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 19.1: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster
+- TOP 20: Berichtspflicht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - einstimmig beschlossen
+- TOP 21: Förderung der Forschungsfertigung für Batteriezellen durch den Konzern Stadt Münster - einstimmig beschlossen
+- TOP 22: Sachstand "Grundsteuerreform" Anregung nach § 24 GO NRW Nr. 2019-00093 auf Unterstützung der Initiative "Grundsteuer: Zeitgemäß" - einstimmig beschlossen
+- TOP 23: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude auf der Konversionsfläche Oxford: - mehrheitlich beschlossen
+- TOP 23.1: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude auf der Konversionsfläche Oxford:
+- TOP 24: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen / Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz NRW)" - einstimmig beschlossen
+- TOP 25: Fertigbauklassen für die Talentschule- Waldschule Kinderhaus- Errichtungsbeschluss - einstimmig beschlossen
+- TOP 26: Errichtung Bildungsgang: Fachoberschule (Klasse 13), Fachbereich Gestaltung am Adolph-Kolping-Berufskolleg zum Schuljahr 2020/2021 - einstimmig beschlossen
+- TOP 27: Errichtungsbeschlüsse für Kindertageseinrichtungen
+- TOP 27.1: Errichtung einer Kindertageseinrichtung am Sankt-Josefs-Kirchplatz im Bezirk Mitte - mehrheitlich beschlossen
+- TOP 27.2: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck [NRW.URBAN] - mehrheitlich beschlossen
+- TOP 27.2.1: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck [NRW.URBAN]
+- TOP 27.3: Errichtungsbeschluss: Neubau einer 4-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen York-Kaserne im Stadtteil Gremmendorf [Wohn- und Stadtbau] - mehrheitlich beschlossen
+- TOP 27.4: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen York-Kaserne im Stadtteil Gremmendorf [NRW.UBRAN] - mehrheitlich beschlossen
+- TOP 27.4.1: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen York-Kaserne im Stadtteil Gremmendorf [NRW.UBRAN]
+- TOP 27.5: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Westfalenstraße/ An der Alten Kirche in Hiltrup - mehrheitlich beschlossen
+- TOP 28: Ausschreibung der Stelle des Generalintendanten/der Generalintendantin der Stadt Münster - einstimmig beschlossen
+- TOP 29: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2019 - 2022 - einstimmig beschlossen
+- TOP 30: Antrag der SPD-Fraktion an den Rat Nr.: A-R/0037/2019 "Die Stadt Münster initiiert die Gründung einer kommunalen Pflegeausbildungskonferenz und richtet diese aus" - einstimmig beschlossen
+- TOP 30.1: Antrag der SPD-Fraktion an den Rat Nr.: A-R/0037/2019 "Die Stadt Münster initiiert die Gründung einer kommunalen Pflegeausbildungskonferenz und richtet diese aus"
+- TOP 31: Weiterentwicklung der NRW-Sportschule - einstimmig beschlossen
+- TOP 32: Übergänge sichern - Teilhabemanagement für gelingende Bildungsbiografien junger Geflüchteter - mehrheitlich geändert beschlossen
+- TOP 33: Gemeinschaftsorientierte, genossenschaftliche und inklusive Wohnprojekte fördern - einstimmig beschlossen
+- TOP 33.1: Gemeinschaftsorientierte, genossenschaftliche und inklusive Wohnprojekte fördern
+- TOP 34: Erweiterung des Schulzentrums Kinderhaus / Neubau einer zweizügigen Grundschule mit Mensa für das Schulzentrum Kinderhaus - einstimmig beschlossen
+- TOP 35: Städtische Erbbaurechte - Betriebswirtschaftliche und strategische Betrachtungen zu bestehenden Erbbaurechten / Verstärkte Ausweisung von Erbbaurechten als zentraler Baustein einer gemeinwohlorientierten Grundstücksvergabe - mehrheitlich geändert beschlossen
+- TOP 36: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022" - von der Tagesordnung abgesetzt
+- TOP 37: Handlungsprogramm Klimaschutz 2030 für Münster - von der Tagesordnung abgesetzt
+- TOP 38: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 39: Photovoltaik und Klimaschutz gemeinsam mit der Bürgerschaft voranbringen - mehrheitlich geändert beschlossen
+- TOP 39.1: Photovoltaik und Klimaschutz gemeinsam mit der Bürgerschaft voranbringen
+- TOP 40: Smart City Münster - Klimaschutz aus der Luft: Münster schützt das Klima - mit Hilfe von katasterbezogener Thermografiebefliegung - mehrheitlich beschlossen
+- TOP 40.1: Smart City Münster - Klimaschutz aus der Luft: Münster schützt das Klima - mit Hilfe von katasterbezogener Thermografiebefliegung
+- TOP 41: Bauleitplanung
+- TOP 41.1: Stadtbezirk Münster-Mitte
+- TOP 41.1.1: 2. Änderung des Bebauungsplans Nr. 147 „II. Westtangente (Kardinal-von-Galen-Ring / Roxeler Straße)“ im Bereich Rishon-Le-Zion-Ring / Domagkstraße - einstimmig beschlossen
+- TOP 41.1.2: Veränderungssperre Nr. 112 für den Bereich des Bebauungsplans Nr. 600 - einstimmig beschlossen
+- TOP 41.2: Stadtbezirk Münster-West
+- TOP 41.2.1: 95. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 603 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 42: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 42.1: Münster ist sicherer Hafen für geflüchtete Menschen - mehrheitlich beschlossen
+- TOP 43: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 43.1: Berechnungsmodell der Elternbeiträge korrigieren - verwiesen
+- TOP 43.2: Grünflächen sichern und für den Klimaschutz entwickeln - verwiesen
+- TOP 43.3: Alter minderjähriger unbegleiteter Flüchtlinge überprüfen - verwiesen
+- TOP 43.4: Ausreisepflichtige Ausländer ausweisen - verwiesen
+- TOP 43.5: Bagatellsteuern auf dem Prüfstand stellen - verwiesen
+- TOP 43.6: Bitcoin als Zahlungsmittel akzeptieren - verwiesen
+- TOP 43.7: Blumen statt Beton - verwiesen
+- TOP 43.8: Denkende Ampeln – Die perfekte Welle - verwiesen
+- TOP 43.9: Fahrradstraßen: Tempo-30-Schilder anbringen - verwiesen
+- TOP 43.10: Gewalt und Übergriffen gegen Kommunalpolitiker und öffentliche Bedienstete konsequent verfolgen - verwiesen
+- TOP 43.11: Grenzüberschreitenden Arbeitsmarkt stärken - verwiesen
+- TOP 43.12: Mehr Flächen für Gewerbe - verwiesen
+- TOP 43.13: Münster-Cloud - verwiesen
+- TOP 43.14: Schuldenuhr für Münster - verwiesen
+- TOP 44: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 45: Verschiedenes
