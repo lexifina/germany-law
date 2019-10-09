@@ -1,0 +1,261 @@
+---
+ecli: "ECLI:DE:BVerfG:2019:lk20191009.2bvl001319"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvL 13/19"
+decided: "2019-10-09"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 9. Oktober 2019\n- 2 BvL 13/19 -, Rn. 1-20,\n                    https://www.bverfg.de/e/lk20191009_2bvl001319"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/10/lk20191009_2bvl001319.html"
+corpus_doc_id: "BVerfG_2019-10-09_K_2_BvL_0013_19_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0012.md", "germany/bund/acts/bverfgg/0013.md", "germany/bund/acts/bverfgg/0080.md", "germany/bund/acts/bverfgg/0081a.md", "germany/bund/acts/famfg/0327.md", "germany/bund/acts/grundgesetz/artikel/100.md", "germany/bund/acts/grundgesetz/artikel/104.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvL 13/19 vom 2019-10-09
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+
+- 2 BvL 13/19 -
+
+                               In dem Verfahren
+                     zur verfassungsrechtlichen Prüfung,
+
+  ob § 21 Absatz 1 und Absatz 4 PsychKHG-HE in der Fassung des Hessischen
+  Gesetzes über Hilfen bei psychischen Krankheiten - Psychisch-Kranken-Hilfe-Gesetz vom 4. Mai 2017 (GVBI 2017, 66) - mit Artikel 2 Absatz 2 Satz 2 und
+  Satz 3 in Verbindung mit Artikel 104 Absatz 1 und Absatz 2 GG vereinbar ist.
+
+
+- Aussetzungs- und Vorlagebeschluss des Amtsgericht Fulda vom 22. August
+2019 - 88 XIV 380/19 L -
+
+hat die 2. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+
+                                den Richter Huber
+
+                                und die Richterinnen Kessal-Wulf,
+
+                                König
+
+gemäß § 81a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993
+(BGBl I S. 1473) am 9. Oktober 2019 einstimmig beschlossen:
+
+        Die Vorlage ist unzulässig.
+
+                                  Gründe:
+ Das Vorlageverfahren betrifft die landesrechtliche Regelung zur Fixierung im Hessischen Gesetz über Hilfen bei psychischen Krankheiten vom 4. Mai 2017 (GVBI
+2017, 66).
+
+                                        I.
+ 1. Gemäß § 21 des Hessischen Gesetzes über Hilfen bei psychischen Krankheiten       2
+(PsychKHG) dürfen in Hessen besondere Sicherungsmaßnahmen, unter anderem
+Fixierungen, bei psychisch Kranken angeordnet werden. Die Norm lautet:
+
+ „(1) Bei einer erheblichen Gefahr für das Leben oder die Gesundheit der untergebrachten Person oder für das Leben, die Gesundheit oder andere bedeutende
+Rechtsgüter Anderer können besondere Sicherungsmaßnahmen angeordnet werden, wenn und solange die Gefahr nicht durch weniger einschneidende Maßnahmen
+abgewendet werden kann. Als besondere Sicherungsmaßnahmen sind zulässig:
+
+ 1. die Absonderung von anderen Patienten,
+
+ 2. die Unterbringung in einem besonders gesicherten Raum ohne gefährdende Gegenstände,
+
+
+
+                                        1/7
+
+ 3. der Entzug oder die Vorenthaltung von Gegenständen,
+
+ 4. der Entzug oder die Beschränkung des Aufenthalts im Freien,
+
+ 5. die zeitweise Einschränkung der Bewegungsfreiheit (Fixierung),
+
+ 6. die Beobachtung der untergebrachten Person, auch durch technische Hilfsmittel.
+
+ Wird eine besondere Sicherungsmaßnahme nach Satz 2 Nr. 2 oder Nr. 5 vorgenommen, hat eine engmaschige Überwachung durch therapeutisches oder pflegerisches Personal zu erfolgen.
+
+ (2) Während der Ausführung, der Vorführung oder des Transports ist bei erhöhtem
+Entweichungsrisiko die Anordnung der Fesselung zulässig, wenn und solange die
+Gefahr nicht durch weniger einschneidende Maßnahmen abgewendet werden kann.
+
+ (3) Besondere Sicherungsmaßnahmen nach Abs. 1 Satz 2 und Abs. 2 dürfen nur
+aufrechterhalten werden, soweit und solange es ihr Zweck erfordert.
+
+ (4) Während der Durchführung besonderer Sicherungsmaßnahmen sind eine ärztliche Mitwirkung und Überwachung zu gewährleisten. Die Durchführung der Maßnahmen ist zu dokumentieren.“
+
+ 2. Unter dem 22. August 2019 beantragte die Klinik … beim Amtsgericht Fulda mit         3
+zwei getrennten Anträgen die sofortige vorläufige Unterbringung des Betroffenen für
+vier Wochen und dessen 5-Punkt-Fixierung für die Dauer von sieben Tagen. Die Klinik führte darin jeweils aus, der Betroffene sei von der Polizei in das Klinikum verbracht worden, weil er am Aufnahmetag seine Wohnung angezündet habe. Er zeige
+sich „bedrohlich, nicht absprachefähig und nicht therapiebereit“. Er drohe damit, Personal der Klinik zu verletzen. Eine psychotische Symptomatik könne nicht ausgeschlossen werden. Aufgrund der konkreten Fremdgefährdung sei die Fixierung des
+Betroffenen erforderlich. Zur Amtshilfe müsse die Polizei hinzugezogen werden.
+
+ 3. Am selben Tag ordnete das Amtsgericht eine Verfahrenspflegerin bei und hörte         4
+den Betroffenen an. Dieser habe geäußert, dass Geister ihm befohlen hätten, seine
+Wohnung anzuzünden. Hinsichtlich des Vorfalls, der zur Fixierung geführt habe, habe er keine Angaben machen können. Nachdem der Betroffene in Tränen ausgebrochen sei, habe das Gericht von einer weiteren Befragung abgesehen.
+
+ Im Rahmen eines Vorgesprächs berichteten Klinikbedienstete, dass der Betroffene         5
+zunehmend angespannt und aggressiv aufgetreten sei. Er habe sich mit geballten
+Fäusten aufgebaut und ins Leere geschlagen. Das Klinikpersonal habe den Eindruck
+gehabt, der Betroffene sei „kurz vor dem Explodieren“ gewesen. Nachdem die Bediensteten nicht gewagt hätten, sich dem Betroffenen zu nähern, sei die Polizei verständigt worden. Erst mit acht Polizisten habe man den Betroffenen fixieren können.
+Von ärztlicher Seite wurde festgestellt, dass der Betroffene, dessen Blut positiv auf
+Cannabis und Amphetamine getestet worden war, hochwahrscheinlich an einer drogeninduzierten Psychose und einer dissozialen Persönlichkeitsstörung leide.
+
+
+
+                                          2/7
+
+                                         II.
+  Mit Beschluss vom 22. August 2019 setzte das Amtsgericht das Verfahren aus und        6
+legte dem Bundesverfassungsgericht die Frage vor, ob § 21 Abs. 1 und Abs. 4
+PsychKHG mit Art. 2 Abs. 2 Satz 2 und Satz 3 in Verbindung mit Art. 104 Abs. 1 und
+Abs. 2 GG vereinbar sei. Gleichzeitig ordnete es die Freiheitsentziehung durch Unterbringung in einem psychiatrischen Krankenhaus bis längstens zum 19. September
+2019 an. Im Wege des vorläufigen Rechtsschutzes genehmigte es zudem die Fixierung des Betroffenen bis zum 26. August 2019. Die ärztliche Mitwirkung, Dokumentation und Eins-zu-eins-Betreuung seien hierbei zu gewährleisten.
+
+  Der Vorlagebeschluss führt zur Begründung aus, die Voraussetzungen einer einstweiligen Unterbringung lägen vor. Auch die Fixierung des Betroffenen sei auf Grundlage von § 21 PsychKHG in Verbindung mit der Rechtsprechung des Bundesverfassungsgerichts im Urteil vom 24. Juli 2018 - 2 BvR 309/15, 2 BvR 502/16 - zu
+genehmigen. Das Verhalten des Betroffenen stelle eine erhebliche Gefahr für Klinikpersonal und Mitpatienten dar. Das Klinikum verfüge über keinen sogenannten Time
+Out-Raum und ein solcher sei im vorliegenden Fall auch ungeeignet, um die Gefahr
+abzuwenden. Denn von dem Betroffenen gehe keine reine Fremdgefahr aus, auch
+Eigengefahr sei angesichts dessen weinerlichen und aufgelösten Zustands zu bejahen. So bestehe die Gefahr, dass der Betroffene sich durch Schlagen seines Kopfes
+an die Wand selbst verletze. Andere Mittel als eine körperliche Fixierung seien nicht
+ersichtlich. Auch eine mildere Form der Fixierung, etwa an drei Punkten, reiche angesichts des hohen Erregungszustands des Betroffenen nicht aus. Dies sei durch
+den in einer persönlichen Anhörung gewonnenen unmittelbaren Eindruck des Gerichts bestätigt worden. Das Gericht sei dem Antrag nicht ganz gefolgt, da die Hoffnung bestehe, dass auf die Fixierung nach vier Tagen verzichtet werden könne.
+
+  Das vorlegende Gericht sei von der Verfassungswidrigkeit des § 21 Abs. 1 und Abs.     8
+4 PsychKHG überzeugt, weil dieser für die Fixierung keinen vorherigen oder nachträglichen Richtervorbehalt vorsehe. Es habe die Fixierung des Betroffenen im Wege
+des vorläufigen Rechtsschutzes genehmigt und lege das Verfahren nunmehr vor. Die
+Gründe für die Verfassungswidrigkeit der genannten Norm des hessischen Landesrechts seien dieselben, aus denen das Bundesverfassungsgericht mit Urteil des
+Zweiten Senats vom 24. Juli 2018 die baden-württembergische Landesregelung für
+mit der Verfassung unvereinbar erklärt habe. Zwar habe das Bundesverfassungsgericht an Vorlagebeschlüsse hohe Anforderungen gestellt, es habe die Fachgerichte
+in dem Fixierungsurteil aber auch in die Pflicht genommen, dem Bundesverfassungsgericht Verfahren vorzulegen. Eine erneute tiefgreifende Auseinandersetzung mit der
+Verfassungswidrigkeit der hessischen Landesregelung laufe auf eine Wiederholung
+des Urteils des Bundesverfassungsgerichts hinaus, so dass insoweit ein Verweis
+hierauf genüge. Die üblicherweise hohen Anforderungen an die Darlegung der Verfassungswidrigkeit der Norm müssten im vorliegenden Fall angesichts des Urteils zu
+einer Parallelnorm abgesenkt werden. Obgleich das Urteil des Zweiten Senats vom
+24. Juli 2018 bereits einige Zeit zurückliege, hätten neben Hessen auch Branden-
+
+
+                                         3/7
+
+burg, Rheinland-Pfalz, Sachsen, Sachsen-Anhalt und Schleswig-Holstein noch immer keinen Richtervorbehalt für Fixierungen nach ihren Unterbringungsgesetzen normiert.
+
+  Im Ausgangsverfahren komme es auch auf die Gültigkeit der vorgelegten Norm an.          9
+Sei § 21 Abs. 1 und Abs. 4 PsychKHG mit der Verfassung vereinbar, sei für die
+Durchführung der Fixierung nur eine ärztliche Anordnung erforderlich. Das Gericht
+sei dann, soweit nicht durch den Betroffenen ein Antrag nach § 327 Abs. 1 FamFG
+gestellt werde, mangels gesetzlicher Ermächtigung nicht befugt, über die Zulässigkeit und Fortdauer einer Fixierung zu entscheiden. Der Antrag eines Arztes auf Genehmigung wäre demnach bereits unzulässig und das Gericht wäre daran gehindert,
+über eine weitere Fixierung zu entscheiden. Das Verfahren über die „endgültige Genehmigung“ sei vorliegend ausgesetzt worden, da die abschließende Entscheidung
+nur dann getroffen werden könne, wenn das Bundesverfassungsgericht die Verfassungsmäßigkeit der landesrechtlichen Norm bestätige. In diesem Fall sei die gerichtliche Genehmigung sofort aufzuheben und künftige Anträge auf richterliche Genehmigung weiterer Fixierungen über den 26. August 2019 hinaus – die Unterbringung
+des Betroffenen sei bis zum 19. September 2019 angeordnet worden – seien zurückzuweisen, weil ein Richtervorbehalt gesetzlich nicht vorgesehen sei. Demnach sei
+die Verfassungsmäßigkeit der vorgelegten Norm im Ausgangsverfahren auch unabhängig von einem Feststellungsantrag des Betroffenen entscheidungserheblich.
+
+  Da nach den Feststellungen des Gerichts eine akute Gefahr für die Gesundheit des       10
+Betroffenen und Dritter bestanden habe, habe das Amtsgericht dennoch vorläufigen
+Rechtsschutz gewährt. Es werde darauf hingewiesen, dass es dem Betreuungsrichter nicht möglich sei, einen zulässigen Vorlagebeschluss zu verfassen, wenn das
+Bundesverfassungsgericht die hohen Hürden für Richtervorlagen in Fällen wie diesen aufrechterhalte. Seit der Fixierungsentscheidung sei es gängige Praxis in Hessen, Fixierungen gemäß § 21 PsychKHG in Verbindung mit dem Urteil des Zweiten
+Senats vom 24. Juli 2018 zu genehmigen, obgleich es bis heute keine gesetzliche
+Anordnung für richterliche Entscheidungen gebe. Wenn das Bundesverfassungsgericht eine Entscheidung zu § 21 PsychKHG verweigere, sei fraglich, ob ein Rückgriff
+auf das Urteil, welches zu einem anderen Land ergangen und dessen Übergangsfrist
+abgelaufen sei, rechtlich „überhaupt noch erlaubt“ sei oder ob die offenkundig verfassungswidrige landesrechtliche Situation in Hessen hingenommen werden müsse. In
+diesem Fall erfolgten Fixierungen wieder ohne richterliche Entscheidung, weil das
+Landesrecht keinen Richtervorbehalt vorsehe und eine dennoch erlassene richterliche Genehmigung einer Fixierung eine „Amtsanmaßung“ darstelle.
+
+ Mit Beschluss vom 5. September 2019 genehmigte das Amtsgericht erneut die               11
+5-Punkt-Fixierung des Betroffenen, diesmal bis zum 7. September 2019, 11 Uhr, weil
+sich dessen Zustand verschlechtert habe und er zwischenzeitlich „völlig ausgerastet“
+sei, sein T-Shirt zerrissen und gegen eine Tür getreten habe, so dass man wiederum
+die Polizei habe holen und den Betroffenen habe fixieren müssen.
+
+
+
+                                          4/7
+
+                                         III.
+ Die Vorlage ist unzulässig. Sie genügt nicht den Darlegungsanforderungen des §          12
+80 Abs. 2 Satz 1 BVerfGG. Die Unzulässigkeit der Vorlage kann die Kammer durch
+einstimmigen Beschluss feststellen (§ 81a Satz 1 BVerfGG).
+
+ 1. Gemäß Art. 100 Abs. 1 Satz 1 Alternative 2 GG in Verbindung mit § 80 Abs. 1          13
+BVerfGG hat ein Gericht das Verfahren auszusetzen und die Entscheidung des Bundesverfassungsgerichts einzuholen, wenn es ein Gesetz für verfassungswidrig hält,
+auf dessen Gültigkeit es bei der Entscheidung ankommt.
+
+ Entscheidungserheblich ist eine Norm nur dann, wenn die Endentscheidung des             14
+vorlegenden Gerichts von der Gültigkeit des für verfassungswidrig gehaltenen Gesetzes abhängt (vgl. BVerfGE 11, 330 <334 f.>; 50, 108 <113>; 70, 191 <198>; 76,
+100 <104>; 79, 240 <243>). Wenn in dem Ausgangsverfahren keine Entscheidung
+mehr zu treffen ist, ist dem Bundesverfassungsgericht die Möglichkeit genommen,
+über die ihm zur Prüfung vorgelegte Rechtsfrage zu entscheiden (vgl. BVerfGE 14,
+140 <142>).
+
+  Gemäß § 80 Abs. 2 Satz 1 BVerfGG muss das vorlegende Gericht darlegen, aus             15
+welchen Gründen es von der Verfassungswidrigkeit der vorgelegten Rechtsvorschrift
+überzeugt ist und dass und weshalb es im Falle ihrer Gültigkeit zu einem anderen
+Ergebnis käme als im Fall ihrer Ungültigkeit (vgl. BVerfGE 136, 127 <141 f. Rn. 43
+ff.>; 138, 1 <13 f. Rn. 37>; 141, 1 <10 f. Rn. 22>; stRspr). Der Vorlagebeschluss
+muss diese Ergebnisrelevanz mit hinreichender Deutlichkeit erkennen lassen (vgl.
+BVerfGE 7, 171 <173>; 72, 91 <102>; 79, 240 <243> m.w.N.). Das vorlegende Gericht muss zuvor sowohl die Entscheidungserheblichkeit der Vorschrift als auch ihre
+Verfassungsmäßigkeit sorgfältig geprüft haben (vgl. BVerfGE 127, 335 <355>;
+BVerfG, Beschluss der 3. Kammer des Ersten Senats vom 6. Mai 2016 - 1 BvL 7/15
+-, Rn. 14; Beschluss der 2. Kammer des Zweiten Senats vom 12. Juli 2017 - 2 BvL 1/
+17 -, Rn. 24).
+
+  Zur Begründung der Entscheidungserheblichkeit der vorgelegten Norm muss der            16
+Sachverhalt umfassend dargestellt werden. Für die Beurteilung der Entscheidungserheblichkeit ist grundsätzlich die Rechtsauffassung des vorlegenden Gerichts maßgeblich, sofern sie nicht offensichtlich unhaltbar ist (vgl. BVerfGE 133, 1 <10 f. Rn.
+35>; 138, 1 <15 Rn. 41>; 141, 1 <11 Rn. 22>). Sie muss zudem nachvollziehbar begründet sein (vgl. BVerfGE 126, 77 <97>; 127, 224 <244>; 131, 1 <15>; 133, 1 <10
+f. Rn. 35>; 138, 1 <15 Rn. 41>; BVerfG, Beschluss der 3. Kammer des Ersten Senats
+vom 6. Mai 2016 - 1 BvL 7/15 -, Rn. 15).
+
+  2. Diesen Anforderungen genügt die Vorlage nicht. Zwar legt das Amtsgericht seine      17
+Überzeugung von der Verfassungswidrigkeit der zur Prüfung vorgelegten landesrechtlichen Norm unter Rückgriff auf das Urteil des Zweiten Senats vom 24. Juli 2018
+(BVerfG, Urteil des Zweiten Senats vom 24. Juli 2018 - 2 BvR 309/15, 2 BvR 502/16
+-) nachvollziehbar dar. Es hat allerdings nicht hinreichend begründet, dass es auf ihre Gültigkeit bei einer noch ausstehenden Entscheidung im Ausgangsverfahren an-
+
+
+                                          5/7
+
+kommt.
+
+  Ausgangspunkt der Entscheidungserheblichkeit ist die Frage, ob die das Ausgangsverfahren abschließende Endentscheidung von der Gültigkeit der zur verfassungsgerichtlichen Überprüfung gestellten Rechtsvorschrift abhängt. Ist bereits nicht dargelegt, welche Entscheidung im Ausgangsverfahren überhaupt noch aussteht, entzieht
+das vorlegende Gericht die Entscheidungserheblichkeit der verfassungsgerichtlichen
+Überprüfung. So liegt es hier. Der Vorlagebeschluss äußert sich nicht dazu, worüber
+im Ausgangsverfahren noch zu entscheiden ist, nachdem das Gericht die – kraft Zeitablaufs erledigte – Fixierung des Betroffenen im Wege des einstweiligen Rechtsschutzes genehmigt hat. Angesichts der Erledigung der Maßnahme bedarf diese Frage näherer fachrichterlicher Darlegung. Soweit das Amtsgericht meint, es habe noch
+über die „endgültige Genehmigung“ der 5-Punkt-Fixierung zu entscheiden, ist diese
+Begründung nicht nachvollziehbar. Denn eine Entscheidung über die Rechtmäßigkeit
+der Maßnahme nach ihrer Erledigung dürfte allenfalls noch in einem Verfahren über
+einen Feststellungsantrag des Betroffenen etwa gemäß § 327 Abs. 1 FamFG zu treffen sein. Dass der Betroffene oder dessen Verfahrenspflegerin die Feststellung der
+Rechtswidrigkeit der Fixierung beantragt haben, führt das vorlegende Gericht nicht
+aus.
+
+  Soweit das vorlegende Gericht die Entscheidungserheblichkeit damit zu begründen         19
+versucht, dass es nach § 21 PsychKHG nicht befugt sei, auf den Antrag eines Arztes
+hin über eine (weitere) Fixierungsmaßnahme zu entscheiden, weil die Norm einen
+Richtervorbehalt gar nicht vorsehe, führt auch dies nicht zur Zulässigkeit der Vorlage.
+Selbst wenn man diese Ansicht zugrunde legte, hinge das Ergebnis des konkreten
+Ausgangsverfahrens nicht von der Verfassungskonformität der zur Prüfung vorgelegten landesrechtlichen Norm ab. Daran ändert auch der Umstand nichts, dass die
+nach Ansicht des vorlegenden Gerichts von der Verfassung gebotene Rechtslage
+nicht im Verfahren der konkreten Normenkontrolle herbeigeführt werden kann. Die
+gesetzlichen Tatbestandsvoraussetzungen der konkreten Normenkontrolle nach
+Art. 100 Abs. 1 GG, §§ 80 ff. BVerfGG sind – trotz ihrer großzügigeren Interpretation
+in der jüngeren Rechtsprechung des Bundesverfassungsgerichts (vgl. BVerfGE 141,
+1 <10 ff. Rn. 22 ff.>) – insoweit nicht disponibel.
+
+ Diese Entscheidung ist unanfechtbar.                                                     20
+
+                   Huber                     Kessal-Wulf                      König
+
+
+
+
+                                          6/7
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Zweiten Senats vom
+9. Oktober 2019 - 2 BvL 13/19
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Zweiten Senats vom 9. Oktober 2019 - 2 BvL 13/19 - Rn. (1 - 20), http://www.bverfg.de/e/
+                lk20191009_2bvl001319.html
+
+ECLI            ECLI:DE:BVerfG:2019:lk20191009.2bvl001319
+
+
+
+
+                                      7/7
