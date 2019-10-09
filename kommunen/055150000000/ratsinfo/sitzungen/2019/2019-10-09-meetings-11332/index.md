@@ -1,0 +1,80 @@
+# 44. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-10-09T17:37:00+02:00
+- Ende: 2019-10-09T21:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/146
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11332
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11332
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00450536.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Haupt- und Finanzausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Bearbeitungsstand der Ratsanträge - 2. Halbjahr 2019 - zur Kenntnis genommen
+- TOP 2.2: Einführung eines Zustelldienstes für Ausweisdokumente durch einen Fahrradkurierdienst - mehrheitlich beschlossen
+- TOP 2.3: ÖPNV auf der Straße und Schiene im Münsterland attraktiver machen: Busfahren an den Adventssamstagen zum Nulltarif (Antrag an den Rat Nr.: A-R /0062/2019) - einstimmig geändert beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion an den Rat Nr. A-R/0044/2019 vom 25.06.2019 "Münster braucht die Verkehrswende - ÖPNV stärken, Mobilstationen einrichten" - mehrheitlich beschlossen
+- TOP 3: Zwischenbericht zur Haushaltswirtschaft - Finanzbericht 2. Quartal 2019 - zur Kenntnis genommen
+- TOP 4: Kreuz- und Mauritzschule Münster, bauliche Erweiterung zur 3-Zügigkeit - einstimmig beschlossen
+- TOP 5: Mosaik-Schule, bauliche Erweiterung zur 3-Zügigkeit mit der Option zur 4-Zügigkeit - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Bestätigung des Gesamtabschlusses der Stadt Münster zum 31.12.2017 - einstimmig beschlossen
+- TOP 7: Entwurf des Jahresabschlusses zum 31.12.2018 der Stadt Münster - einstimmig beschlossen
+- TOP 8: Musik-Campus - Ouvertüre für ein deutschlandweit einmaliges Projekt - Beschluss - ohne Beschlussfassung geschoben
+- TOP 8.1: Musik-Campus - Ouvertüre für ein deutschlandweit einmaliges Projekt - Grundsatzbeschluss
+- TOP 9: Zukunft der Wissenschaftsstadt: Perspektiven für den Schlossplatz und das Schlossareal - ohne Beschlussfassung geschoben
+- TOP 10: Innenstadt weiterdenken: Perspektiven für das Martiniviertel und den Hörster Parkplatz - ohne Beschlussfassung geschoben
+- TOP 11: Städtepartnerschaft zwischen Enschede (Niederlande) und Münster - einstimmig beschlossen
+- TOP 12: Münsters Städtepartnerschaften stärken und weiterentwickeln - einstimmig beschlossen
+- TOP 12.1: Münsters Städtepartnerschaften stärken und weiterentwickeln
+- TOP 13: Errichtungsbeschluss zum Neubau des Feuerwehrhauses für den Löschzug Sprakel der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 14: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster - einstimmig beschlossen
+- TOP 14.1: Satzung zur Änderung der Gebührensatzung für den Rettungsdienst der Stadt Münster
+- TOP 15: Berichtspflicht über die Maßnahmen zur wirtschaftlichen Stabilisierung des Mühlenhofs - einstimmig beschlossen
+- TOP 16: Förderung der Forschungsfertigung für Batteriezellen durch den Konzern Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 17: Sachstand "Grundsteuerreform" Anregung nach § 24 GO NRW Nr. 2019-00093 auf Unterstützung der Initiative "Grundsteuer: Zeitgemäß" - ohne Beschlussfassung geschoben
+- TOP 18: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude auf der Konversionsfläche Oxford: - ohne Beschlussfassung geschoben
+- TOP 18.1: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude auf der Konversionsfläche Oxford:
+- TOP 19: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen / Schülern in die städtischen Schulen (vgl. § 46 Schulgesetz NRW)" - einstimmig beschlossen
+- TOP 20: Fertigbauklassen für die Talentschule- Waldschule Kinderhaus- Errichtungsbeschluss - einstimmig beschlossen
+- TOP 21: Errichtung Bildungsgang: Fachoberschule (Klasse 13), Fachbereich Gestaltung am Adolph-Kolping-Berufskolleg zum Schuljahr 2020/2021 - ohne Beschlussfassung geschoben
+- TOP 22: Errichtungsbeschlüsse für Kindertageseinrichtungen
+- TOP 22.1: Errichtung einer Kindertageseinrichtung am Sankt-Josefs-Kirchplatz im Bezirk Mitte - ohne Beschlussfassung geschoben
+- TOP 22.2: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck [NRW.URBAN] - ohne Beschlussfassung geschoben
+- TOP 22.2.1: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen Oxford-Kaserne im Stadtteil Gievenbeck [NRW.URBAN]
+- TOP 22.3: Errichtungsbeschluss: Neubau einer 4-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen York-Kaserne im Stadtteil Gremmendorf [Wohn- und Stadtbau] - ohne Beschlussfassung geschoben
+- TOP 22.4: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen York-Kaserne im Stadtteil Gremmendorf [NRW.UBRAN] - ohne Beschlussfassung geschoben
+- TOP 22.4.1: Errichtungsbeschluss: Umbau eines Gebäudes zu einer 3-Gruppen-Kindertageseinrichtung auf dem Gelände der ehemaligen York-Kaserne im Stadtteil Gremmendorf [NRW.UBRAN]
+- TOP 22.5: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung an der Westfalenstraße/ An der Alten Kirche in Hiltrup - ohne Beschlussfassung geschoben
+- TOP 23: Ausschreibung der Stelle des Generalintendanten/der Generalintendantin der Stadt Münster - einstimmig beschlossen
+- TOP 24: Verbindlicher kommunaler Pflegebedarfsplan für Münster 2019 - 2022 - einstimmig beschlossen
+- TOP 25: Antrag der SPD-Fraktion an den Rat Nr.: A-R/0037/2019 "Die Stadt Münster initiiert die Gründung einer kommunalen Pflegeausbildungskonferenz und richtet diese aus" - einstimmig beschlossen
+- TOP 25.1: Antrag der SPD-Fraktion an den Rat Nr.: A-R/0037/2019 "Die Stadt Münster initiiert die Gründung einer kommunalen Pflegeausbildungskonferenz und richtet diese aus"
+- TOP 26: Weiterentwicklung der NRW-Sportschule - einstimmig beschlossen
+- TOP 27: Übergänge sichern - Teilhabemanagement für gelingende Bildungsbiografien junger Geflüchteter - ohne Beschlussfassung geschoben
+- TOP 28: Gemeinschaftsorientierte, genossenschaftliche und inklusive Wohnprojekte fördern - ohne Beschlussfassung geschoben
+- TOP 28.1: Gemeinschaftsorientierte, genossenschaftliche und inklusive Wohnprojekte fördern
+- TOP 29: Erweiterung des Schulzentrums Kinderhaus / Neubau einer zweizügigen Grundschule mit Mensa für das Schulzentrum Kinderhaus - einstimmig beschlossen
+- TOP 30: Städtische Erbbaurechte - Betriebswirtschaftliche und strategische Betrachtungen zu bestehenden Erbbaurechten / Verstärkte Ausweisung von Erbbaurechten als zentraler Baustein einer gemeinwohlorientierten Grundstücksvergabe - ohne Beschlussfassung geschoben
+- TOP 31: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022" - von der Tagesordnung abgesetzt
+- TOP 32: Handlungsprogramm Klimaschutz 2030 für Münster - von der Tagesordnung abgesetzt
+- TOP 33: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 34: Photovoltaik und Klimaschutz gemeinsam mit der Bürgerschaft voranbringen - ohne Beschlussfassung geschoben
+- TOP 34.1: Photovoltaik und Klimaschutz gemeinsam mit der Bürgerschaft voranbringen
+- TOP 35: Smart City Münster - Klimaschutz aus der Luft: Münster schützt das Klima - mit Hilfe von katasterbezogener Thermografiebefliegung - ohne Beschlussfassung geschoben
+- TOP 35.1: Smart City Münster - Klimaschutz aus der Luft: Münster schützt das Klima - mit Hilfe von katasterbezogener Thermografiebefliegung
+- TOP 36: Bauleitplanung
+- TOP 36.1: Stadtbezirk Mitte
+- TOP 36.1.1: 2. Änderung des Bebauungsplans Nr. 147 „II. Westtangente (Kardinal-von-Galen-Ring / Roxeler Straße)“ im Bereich Rishon-Le-Zion-Ring / Domagkstraße - einstimmig beschlossen
+- TOP 36.1.2: Veränderungssperre Nr. 112 für den Bereich des Bebauungsplans Nr. 600 - ohne Beschlussfassung geschoben
+- TOP 36.2: Stadtbezirk West
+- TOP 36.2.1: 95. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 603 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 36.3: Stadtbezirk Nord
+- TOP 36.3.1: Bebauungsplans Nr. 557: Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 37: Verschiedenes
