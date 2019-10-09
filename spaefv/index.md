@@ -6,7 +6,7 @@
 - [§ 2 Begriffsbestimmungen](0002.md)
 - [§ 3 Alternative Systeme zur Verbesserung der Energieeffizienz für kleine und mittlere Unternehmen](0003.md)
 - [§ 4 Nachweisführung im Regelverfahren](0004.md)
-- [§ 5 Nachweisführung in der Einführungsphase](0005.md)
+- [§ 5 (weggefallen)](0005.md)
 - [§ 6 Überwachung und Kontrolle](0006.md)
 - [§ 7 Datenübermittlung](0007.md)
 - [§ 8 Berichtspflicht der zuständigen Stelle](0008.md)
