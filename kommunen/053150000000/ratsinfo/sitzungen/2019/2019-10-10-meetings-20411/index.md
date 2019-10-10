@@ -1,0 +1,65 @@
+# 39. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-10T17:00:00+02:00
+- Ende: 2019-10-10T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20411
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20411
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00740369.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00740369.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00740369.pdf
+
+## Tagesordnung
+
+- TOP -: A Einführung und Verpflichtung eines neuen Mitgliedes der Bezirksvertretung Kalk gemäß §§ 36 Abs. 5 Satz 2, 67 Abs. 3 GO NRW und § 5 Hauptsatzung der Stadt Köln
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohneranfrage vom 01.09.2019 betr. Berücksichtigung von Umweltbelangen für die Überplanung des Areals der "Hallen Kalk" und für die Städteplanung in Kalk - Kenntnis genommen
+- TOP -: Eingabe für Einwohnerfragestunde – gemäß § 39 der „Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln“ zur 38. Sitzung der Bezirksvertretung Kalk in der Wahlperiode 2014/2020 am Donnerstag, dem 12.09.2019 - Kenntnis genommen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Aufstellen von Müllcontainern als Übergangslösung am Rather Kirchweg in Köln-Neubrück - geändert beschlossen
+- TOP -: Aufstellen von Müllcontainern als Übergangslösung am Rather Kirchweg in Köln-Neubrück (Antrag der Fraktion Bündnis 90/Die Grünen vom 29.08.2019 (AN/1117/2019) - geändert beschlossen
+- TOP -: Aufstellen von Müllcontainern als Übergangslösung am Rather Kirchweg in Köln-Neubrück - Kenntnis genommen
+- TOP 7.2: Instandsetzung des Radwegs auf der Olpener Straße in Höhe des Matthias-Claudius-Heims in Köln-Brück - ungeändert beschlossen
+- TOP 7.3: Schulnotstand: Ganzheitliche Krisenplanung bereits vor der Krise - ungeändert beschlossen
+- TOP 7.4: Überführung der „Kliniken Köln“ in den Stadtwerkekonzern - ungeändert beschlossen
+- TOP 7.5: Einrichtung von zwei Fußgängerüberwegen in der Hopfenstraße in Köln-Merheim - ungeändert beschlossen
+- TOP 7.6: Prüfauftrag zur Schaffung von weiterem Park-and-Ride Angebot in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.7: Mehr Grün für die Anschlussstelle Königsforst der A3 in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.8: Glassammelcontainer an der Eiler Straße in Köln-Rath/Heumar - ungeändert beschlossen
+- TOP 7.9: Neuordnung des Bereichs südlich der Kalker Post in Köln-Kalk - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Umgestaltung Spielplatz Geraer Straße in Köln-Höhenberg - geändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ungeändert beschlossen
+- TOP 8.2.2: Anpassung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 8.2.3: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 8.2.4: Werkstattverfahren Hallen Kalk Hier: Integrierter Plan als Grundlage der weiteren Bearbeitung - ungeändert beschlossen
+- TOP -: Werkstattverfahren Hallen Kalk; hier: Integrierter Plan als Grundlage der weiteren Bearbeitung (2646/2019) - endgültig abgelehnt
+- TOP 8.2.5: Satzungsbeschluss betreffend den Bebauungsplan (vorhabenbezogener Bebauungsplan) Nummer 74455/02 Arbeitstitel: Ostmerheimer Straße in Köln Merheim - ungeändert beschlossen
+- TOP -: Satzungsbeschluss betr. den Bebauungsplan (vorhabenbezogener Bebauungsplan) Nummer 74455/02, Arbeitstitel: Ostmerheimer Straße in Köln-Merheim (3059/2019) - endgültig abgelehnt
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Erweiterung der Umweltzone im Stadtbezirk Kalk (AN/1170/2019) - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Nachfrage nach Flügen des Flughafens Köln/Bonn zur angeblichen Kartierung - Kenntnis genommen
+- TOP 9.2.2: Fehlende Pfosten vor dem Haus Steprathstraße 9 in Köln-Kalk - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen der Bezirksbürgermeisterin
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Beantwortung der mündlichen Anfrage des RM Kockerbeck im Bauausschuss vom 01.07.2019 - Kenntnis genommen
+- TOP 10.2.2: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.3: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 10.2.4: Neubau der Werkstatthallen mit Verwaltung für die Bühnen der Stadt Köln - Kenntnis genommen
+- TOP 10.2.5: Stadtbahnhaltestelle Vingst, Aufzugsnachrüstung, Bauzeitverlängerung - Kenntnis genommen
+- TOP 10.2.6: "Rather See – Umwelt schützen!" Anfrage der Ratsgruppe GUT vom 24.06.2019, AN/0934/2019 - Kenntnis genommen
