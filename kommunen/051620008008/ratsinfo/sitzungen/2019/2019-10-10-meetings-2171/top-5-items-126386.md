@@ -1,0 +1,6 @@
+# TOP 5: Einbringung des Haushaltes 2020
+
+- Sitzung: Rat der Stadt Grevenbroich (2019-10-10)
+- Körperschaft: Stadt Grevenbroich
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/agendaitems/126386
