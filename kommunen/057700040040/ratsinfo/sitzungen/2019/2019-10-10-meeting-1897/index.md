@@ -1,0 +1,57 @@
+# Rat (37. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2019-10-10T17:00:00+02:00
+- Ende: 2019-10-10T20:30:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVYOThQtdVzrkJN0lZbhK58
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1897
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZeawCPb3zNbQZBjzzzUTVBIyG8BqemDNxlUQt0PVTGW/Bekanntmachung_Rat_10.10.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUg0j8foo2sksY-B-oLnL3NtPwOWH5YLvO_5nmh89_-j/Oeffentliche_Niederschrift_Rat_10.10.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 4.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 5.: Sachstandsbericht der Fa. Internexio zum geförderten Glasfaserausbau
+- TOP 6.: Bericht zur Kirchringbebauung
+- TOP 7.: Ersatzwahl zum Feuerwehrausschuss und zum Betriebsausschuss Wasser und Abwasser - Einstimmig, 0 Enthaltungen
+- TOP 8.: Antrag der CDU-Fraktion zum Thema "Rahden als umwelt- und familienfreundliche Kommune" - Einstimmig, 0 Enthaltungen
+- TOP 9.: Antrag der CDU-Fraktion zur Bewerbung für die Aktion der Telekom "Wir jagen Funklöcher" - Einstimmig, 0 Enthaltungen
+- TOP 10.: Änderung der Satzung über die Errichtung, Unterhaltung und Benutzung des Übergangsheims Weher Straße 163, 32369 Rahden - Einstimmig, 0 Enthaltungen
+- TOP 11.: Änderung der Satzung für die Benutzung der städtischen Übergangswohnungen für Flüchtlinge und Obdachlose der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 12.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2015 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Pflichtprüfung für das "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2018; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 14.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2018; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 15.: 5. Änderung und Erweiterung des Bebauungsplanes Nr. 67 „Gewerbegebiet Rahden-Süd“ und 84. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) zur geringfügigen Erweiterung und Arrondierung des Gewerbegebietes - Einstimmig, 0 Enthaltungen
+- TOP 16.: Erlass einer Innenbereichssatzung (Entwicklungs- und Einbeziehungssatzung) gem. § 34 Abs. 4 Satz 1 Nr. 2 und 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über die im Rahmen der öffentlichen Auslegung und der Beteiligung der berührten Behörden und sonstigen Träger öffentlicher Belange zum Satzungsentwurf vorgebrachten Anregungen b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 17.: Sanierung Hallenbad - Einstimmig, 0 Enthaltungen
+- TOP 18.: Antrag der SPD-Fraktion zur Bildung eines Seniorenbeirates - 27 Stimmen dafür, 0 dagegen, 6 Enthaltungen
+- TOP 19.: Strategische Weiterentwicklung des Kreises Minden-Lübbecke hier: Beschluss eines Leitzielkataloges - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bekanntgaben und Anfragen
+- TOP 20.1: Volkshochschule Lübbecker Land
+- TOP 20.2: Wirtschaftswegekonzept
+- TOP 20.3: EU-Wasserrahmenrichtlinie
+- TOP 20.4: KAG Anliegerbeiträge
+- TOP 20.5: Industriegebiet Süd
+- TOP 20.6: Kreisel Lemförder Straße
+- TOP 20.7: Veranstaltung digitale Angebote im ländlichen Raum
+- TOP 20.8: Umgestaltung Friedhöfe
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 21.: Neubau eines Feuerwehrgerätehauses für die Löschgruppe Tonnenheide; hier: Vergabe des Auftrages für die Architektenleistungen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Antrag zur Förderung der Ansiedlung von Ärztinnen und Ärzten in der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 23.: Grundstücksangelegenheiten
+- TOP 23.1: Grundstücksangelegenheiten; hier: Kirchringbebauung - 25 Stimmen dafür, 1 dagegen, 4 Enthaltungen
+- TOP 23.2: Veräußerung einer Wegefläche in Pr. Ströhen im Rahmen des Wirtschaftswegekonzeptes - Einstimmig, 0 Enthaltungen
+- TOP 24.: Niederschlagung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 25.: Beamtenrecht - Grundsätze zur Bewilligung von Altersteilzeit - Einstimmig, 0 Enthaltungen
+- TOP 26.: Bekanntgaben und Anfragen
+- TOP 26.1: Veranstaltung im Bahnhof Rahden
+- TOP 26.2: Stelle Wirtschaftsförderung/Stadtmarketing
+- TOP 26.3: Sekundarschule Rahden - Lehrerstellen
