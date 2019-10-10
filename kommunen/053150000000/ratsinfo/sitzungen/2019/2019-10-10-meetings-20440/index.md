@@ -1,0 +1,95 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-10T16:00:00+02:00
+- Ende: 2019-10-10T20:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20440
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20440
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Immobilien- und Standortgemeinschaft Severinstraße Stand der Maßnahmenumsetzung zur Halbzeit des Projekts (Juni 2019)
+- TOP 1.3: Genehmigungspraxis Außengastronomie in 2020
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Verkehrsuntersuchung Neustadt-Süd - geändert beschlossen
+- TOP 3.1.1: Anfragen zur Verwaltungsvorlage: 4200/2018 // 3.17 Verkehrsuntersuchung Neustadt-Süd // BV1-Sitzung 27. Juni
+- TOP 3.2: Bildungslandschaft Altstadt/Nord - geändert beschlossen
+- TOP 3.2.1: Änderungsantrag SPD zu Baubeschluss für die Umgestaltung des Knotenpunktes Gereonswall/Vogteistraße - ungeändert beschlossen
+- TOP 3.2.2: Bürgereingabe nach § 24 GO
+- TOP 3.3: Veranstaltung "STRASSENLAND" 2020 - mit Änderungen empfohlen
+- TOP 3.3.1: Änderungsantrag zu TOP 3.13 „Strassenland“ - geändert beschlossen
+- TOP 3.4: Vergabe der Stadtverschönerungsmittel 2019 im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.5: Vergabe von bezirksorientierten Mitteln und Mitteln zur Kulturförderung für den Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 3.6: Anpassung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 3.7: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 3.8: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - mit Änderungen empfohlen
+- TOP 3.8.1: Für effektiven und nachhaltigen Milieuschutz - ungeändert beschlossen
+- TOP 3.9: Genehmigung für die Durchführung von Veranstaltungen auf den zentralen Innenstadtplätzen für das 1. Halbjahr 2020 - ungeändert beschlossen
+- TOP 3.10: Roncalliplatz - ungeändert beschlossen
+- TOP 3.11: Sanierung und Neugestaltung der Spielplätze Rathenauplatz Nord und Süd in Köln/Innenstadt - Neustadt-Süd - ungeändert beschlossen
+- TOP 3.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Baumpflanzungen Kyffhäuserstraße, Köln-Innenstadt - geändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Bauarbeiten Kreuzung Krefelder Straße/Krefelder Wall (Az.: 02-1600-233/18) - geändert beschlossen
+- TOP 4.2.1: Bauarbeiten Kreuzung Krefelder Straße/Krefelder Wall - ungeändert beschlossen
+- TOP 4.3: Bürgereingabe gem. § 24 GO, betr.: Generalsanierung Gilbachstraße (Az.: 02-1600-145/19) - zurückgestellt
+- TOP 4.4: Eingabe nach § 24 GO - Grüngestaltung vor Marienplatz 4 - zurückgestellt
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Überweg Fußgänger*innen und Radfahrer*innen Cäcilienstraße - zurückgestellt
+- TOP 5.1.1.1: Übergang Neumarkt - zurückgestellt
+- TOP 5.1.2: Bessere Absicherung der Schulwege entlang der Johannisstraße - geändert beschlossen
+- TOP 5.1.3: Dringlichkeitsantrag aus Anlass der Aktuellen Stunde „Parken der Reisebusse am linken Rheinufer / Logistikkonzept Rheinufer“ - ungeändert beschlossen
+- TOP 5.1.4: Zülpicher Straße - Wegfall Parkplätze und Verlagerung Lieferzone - geändert beschlossen
+- TOP 5.1.4.1: Zülpicher Platz - Veränderungen - ungeändert beschlossen
+- TOP 5.1.5: Erweiterung des Spielplatzes im August-Sander-Park - endgültig zurückgezogen
+- TOP 5.1.6: Fahrradabstellmöglichkeiten erweitern - zurückgestellt
+- TOP 5.1.7: Mehrgenerationen-Freizeitplätze bauen - geändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Aufhebung der Autoparkplätze auf dem Rudolfplatz zwischen Friesenwall und Pfeilstraße - ungeändert beschlossen
+- TOP 5.2.2: Neuorganisation der Verkehrsführung auf der Schmalbeinstraße - zurückgestellt
+- TOP 5.2.3: Fahrradabstellanlage auf der ehemaligen Bushaltestelle an der Johannisstraße - zurückgestellt
+- TOP 5.2.4: Änderung der Information der Stadt Köln zum Langzeitparken in der Innenstadt - ungeändert beschlossen
+- TOP 5.2.5: Countdown Ampel für Zufußgehende - Kreuzung Ubierring/Alteburger Straße - zurückgestellt
+- TOP 5.2.5.1: Änderungsantrag zu AN/1281/2019 Countdown Ampel für Zufußgehende - zurückgestellt
+- TOP 5.2.6: Sanierung des Kopfsteinpflasters rund um den von-Sandt-Platz - ungeändert beschlossen
+- TOP 5.2.7: Verschoben zu 6.2.4
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Verkehrszählung Apostelnstraße (Altstadt/Nord)
+- TOP 6.1.1.1: Verkehrszählung Apostelnstraße (Altstadt Nord)
+- TOP 6.1.2: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.3: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.4: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.5: Parkraumfreie Zone - zurückgestellt
+- TOP 6.1.6: Sanierung von vier Innenstadtschulen (Neustadt/Nord)
+- TOP 6.1.6.1: Sanierung von vier Innenstadtschulen (Neustadt/Nord) - zu AN/0271/2019
+- TOP 6.1.7: Sachstand Soziale Erhaltungssatzungen, Anfrage SPD
+- TOP 6.1.7.1: 0522/2019 - Anfrage der SPD-Fraktion in der BV Innenstadt zum Sachstand Soziale Erhaltungssatzung
+- TOP 6.1.8: Klimaverbesserung durch Fassaden- und Dachbegrünungen in unseren Veedeln
+- TOP 6.1.8.1: Klimaverbesserung durch Fassaden- und Dachbegrünung in unseren Veedeln - zu AN/0583/2019
+- TOP 6.1.9: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.10: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.11: Deutz: Durchfahrtverbotszone für Lastkraftwagen
+- TOP 6.1.11.1: Deutz: Durchfahrtsverbotszone für Lastkraftwagen
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Leerstand in der Engelbertstraße - zurückgestellt
+- TOP 6.2.2: Sportmöglichkeiten im Inneren Grüngürtel - zurückgestellt
+- TOP 6.2.3: Dienstzeitregelung beim Ordnungs- und Verkehrsdienst - zurückgestellt
+- TOP 6.2.4: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Hydraulische Poller in der Elsaßstraße - Kenntnis genommen
+- TOP 9.2: Modellvorhaben zur Förderung des Fahrradparkens auf Privatgrundstücken im ExWoSt-Projektgebiet Altstadt-Süd - Kenntnis genommen
+- TOP 9.3: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 9.4: Betreuter Taubenschlag für das Pilotprojekt am Hansaring - Kenntnis genommen
+- TOP 9.5: Baulücke Richard-Wagner-Str. 6-10 Beschluss der BV 1 – Innenstadt zur Einleitung eines Enteignungsverfahrens - Kenntnis genommen
+- TOP 9.6: Agrippinaufer 2-10; exklusives Anwohnerparken - Kenntnis genommen
