@@ -1,0 +1,64 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-10T16:00:00+02:00
+- Ende: 2019-10-10T17:48:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20211
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20211
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 08.10.2019, 15 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00741183.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 08.10.2019, 15 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00741183.pdf
+- Wortprotokoll: Tagesordnung, Stand 08.10.2019, 15 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00741183.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Verwendung von Papierhandtüchern bei der Stadt Köln– Wurden Alternativen unter ökologischen und wirtschaftlichen Aspekten untersucht? - Sache ist erledigt
+- TOP 1.1.1: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - Kenntnis genommen
+- TOP 1.1.2: Verwendung von Papierhandtüchern bei der Stadt Köln - zu AN/1310/2018 - Kenntnis genommen
+- TOP 1.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Gebühren für ordnungswidriges Wegwerfen – plant auch Köln eine Erhöhung? - zurückgestellt
+- TOP 1.3: Rather See - Umwelt schützen! - Sache ist erledigt
+- TOP 1.3.1: Beantwortung der Anfrage "Rather See – Umwelt schützen!" Anfrage der Ratsgruppe GUT vom 24.06.2019 - Kenntnis genommen
+- TOP 1.4: Digitalisierung und Umweltbildung: QR-Code statt Infotafel? - Sache ist erledigt
+- TOP 1.4.1: Beantwortung der Anfrage Digitalisierung und Umweltbildung: QR-Code statt Infotafel? - Kenntnis genommen
+- TOP 1.5: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“? - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: SmartCity Memorandum of Understanding - zurückgestellt
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - zurückgestellt
+- TOP 4.1.2: Schaugewächshaus im Botanischen Garten – Kostenfortschreibungsbeschluss gemäß §13 Abs 4 Satz 2 der Betriebsatzung der Gebäudewirtschaft in Verbindung mit §16 Abs 5 Satz 1 der Eigenbetriebsverordnung NRW (EigVO NRW) - ohne Votum in nachfolgende Gremien
+- TOP 4.1.3: Stadtklima-/Stadtverschönerungsprogramm 2019 - Stadtbezirk Ehrenfeld - ungeändert empfohlen
+- TOP 4.1.4: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - ungeändert empfohlen
+- TOP 4.1.5: Konzept "Essbare Stadt" - geändert beschlossen
+- TOP 4.1.6: Satzung der Stadt Köln zur Erhebung von Verwaltungsgebühren für die Kontrolle von Einfuhren von tierischen Produkten jeder Art aus nicht EU-Ländern nach EU-Recht - ungeändert empfohlen
+- TOP 4.1.7: Sürther Feld in Köln-Rodenkirchen - Ausbau der öffentlichen Grünflächen im 2. BA - ungeändert empfohlen
+- TOP 4.1.8: Stadtentwässerungsbetriebe Köln (StEB), AöR: Abwassergebührensatzung 2020 - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Umbau und Erweiterung des denkmalgeschützten Bahnhof Belvedere zu einer öffentlichen Begegnungsstätte, Belvederestr. in Köln-Müngersdorf, LB 3.04 "Parkrest von Haus Belvedere und Gehölzbestände an der Waldschule in Müngersdorf"; L11 Äußerer Grüngürte - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Überprüfung des Kölner Grundwassers auf Pflanzenschutzmittel - Kenntnis genommen
+- TOP 7.2: Mitteilung zum Sachstand der Stilllegungsmaßnahme der Altdeponie "Linder Mauspfad" in Köln Porz-Lind - Kenntnis genommen
+- TOP 7.3: Forsteinrichtungswerk für den Waldbesitz der Stadt Köln - Kenntnis genommen
+- TOP 7.4: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.5: Betreuter Taubenschlag für das Pilotprojekt am Hansaring - Kenntnis genommen
+- TOP 7.6: Bürgereingabe nach § 24 GO - "Kommunaler Insektenschutz" - Kenntnis genommen
+- TOP 7.7: Beantwortung der SPD Anfrage AN/1057/2019 zum Ausbau Godorfer Hafen - Kenntnis genommen
+- TOP 7.8: Sachstand der Umsetzung zum Beschluss AN/0076/2018 "Bienenfreundliches Köln" - Kenntnis genommen
+- TOP 7.9: Fortschreibung des Landschaftsplans Köln (12. Änderung) - Kenntnis genommen
+- TOP 7.10: Bewirtschaftung des städtischen Waldes 2019/2020 - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 9: Mündliche Anfragen
+- TOP 9.1: Förderfähigkeit von Pacht- bzw. Contracting-Photovoltaikanlagen - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.2: CO2-Ausstoß Flughafen Köln/Bonn - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 9.3: Europaweite Ausschreibung von ordnungsbehördlichen Bestattungen - zur weiteren Bearbeitung in die Verwaltung überwiesen
