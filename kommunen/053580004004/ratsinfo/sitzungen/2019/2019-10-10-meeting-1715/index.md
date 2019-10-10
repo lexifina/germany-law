@@ -1,0 +1,57 @@
+# Gemeinderat (51. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2019-10-10T18:03:00+02:00
+- Ende: 2019-10-10T22:01:00+02:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZSkplR_9OjRrN-kPoZDfr8
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1715
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVWP_LPTKVYeGbcVcySjkIcqjPwTDOzc2Gm3CmKv9K9H/Bekanntmachung_Gemeinderat_10.10.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVFc9lHHaZ-YK6iboCLCNl76ZPP7rofgTy9skXc9d9wL/Oeffentliche_Niederschrift_Gemeinderat_10.10.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 29.08.2019 -öffentlicher Teil-
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1.) 48. Änderung des Flächennutzungsplanes der Gemeinde Aldenhoven 2.) Bebauungsplan 82 F - Ederener Straße - a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB zu 1. und 2. b.) Beschluss über die frühzeitige Beteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB zu 1. und 2. c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur 48. Änderung des Flächennutzungsplanes und der Aufstellung des Bebauungsplanes 82 F - Ederener Straße - einstimmig, 0 Enthaltungen
+- TOP 3.2: Förderprogramm Gute Schule 2020 - Maßnahmenkatalog 2019 - einstimmig, 1 Enthaltungen
+- TOP 4.: Vertretung im Amt gemäß § 68 Absatz 1 GO NRW hier: Bestellung des Allgemeinen Vertreters des Bürgermeisters - einstimmig, 0 Enthaltungen
+- TOP 5.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 5.1: Bebauungsplan 76 D - Im Dorf - Abschluss eines neuen Städtebaulichen Vertrages zur Regelung des artenschutzrechtlichen Ausgleichs - einstimmig, 0 Enthaltungen
+- TOP 6.: Anträge von Fraktionen
+- TOP 6.1: Antrag der GL Fraktion: Gestaltung des Friedhofes in Aldenhoven - zur Kenntnis genommen
+- TOP 6.2: Antrag der CDU-Fraktion: Prüfung des Ausbaus von freiem WLAN in Aldenhoven - einstimmig, 0 Enthaltungen
+- TOP 7.: Genehmigung von überplanmäßigen Ausgaben
+- TOP 7.1: Überplanmäßige Ausgabe im Bereich offene Ganztagsschule - einstimmig, 0 Enthaltungen
+- TOP 7.2: Kanalsanierungsmaßnahmen 2019 - einstimmig, 0 Enthaltungen
+- TOP 8.: Gebühren, Beiträge
+- TOP 8.1: Gebührenkalkulation Abfallbeseitigung 2020 - einstimmig, 0 Enthaltungen
+- TOP 8.2: Gebührenkalkulation Abwasserbeseitigung 2020 - einstimmig, 0 Enthaltungen
+- TOP 8.3: Gebührenkalkulation Winterdienst 2020 - einstimmig, 0 Enthaltungen
+- TOP 9.: Erneuerung Heizungsanlage Baubetriebshof - Der Rat der Gemeinde Aldenhoven vertagt die Entscheidung zu diesem TOP.
+- TOP 10.: Widmung der Gemeindestraße „Am Aldenhovener Weg“ gemäß § 6 Straßen- und Wegegesetz NRW - einstimmig, 0 Enthaltungen
+- TOP 11.: Kooperationsvereinbarung zur interkommunalen Entwicklung und Vermarktung von Gewerbeflächen zwischen den Kommunen Aldenhoven, Baesweiler, Alsdorf und Linnich - einstimmig, 0 Enthaltungen
+- TOP 12.: Beiträge zu Verbänden; Wirtschaftsplan 2020 der Entwicklungsgesellschaft indeland GmbH (EwiG) - einstimmig, 0 Enthaltungen
+- TOP 13.: Rolle der Tagebauanrainer im Strukturwandel - einstimmig, 0 Enthaltungen
+- TOP 14.: Sachstandsberichte der Verwaltung
+- TOP 14.1: Ausführung des Haushalts
+- TOP 15.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 29.08.2019 -nichtöffentlicher Teil-.
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Antrag der FWG-Fraktion: Bauhofbegehung - zur Kenntnis genommen
+- TOP 2.2: Versetzung eines Beamten in den vorzeitigen Ruhestand wegen Dienstunfähigkeit - einstimmig, 0 Enthaltungen
+- TOP 2.3: Beförderung eines Beamten - einstimmig, 0 Enthaltungen
+- TOP 3.: Vertragsangelegenheiten
+- TOP 3.1: Erschließungsvertrag zum Bauvorhaben im Bereich der Südstraße - einstimmig, 0 Enthaltungen
+- TOP 3.2: Anteilserwerb der EWV am Windpark Paffendorf - einstimmig, 0 Enthaltungen
+- TOP 4.: Gremienangelegenheiten
+- TOP 4.1: Berichte aus den Gremien
+- TOP 5.: Sachstandsberichte der Verwaltung
+- TOP 5.1: Interkommunale Zusammenarbeit
+- TOP 6.: Verschiedenes
