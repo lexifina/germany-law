@@ -1,0 +1,95 @@
+# Rat der Stadt Grevenbroich
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-10-10T18:08:00+02:00
+- Ende: 2019-10-10T21:42:00+02:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/3
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2171
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2171
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Haushaltsrede des Bürgermeisters http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00095851.pdf
+- Ergebnisprotokoll: Haushaltsrede des Bürgermeisters http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00095851.pdf
+- Wortprotokoll: Haushaltsrede des Bürgermeisters http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/downloadfiles/a/00095851.pdf
+
+## Tagesordnung
+
+- TOP 1: Eröffnung - einstimmig
+- TOP 2: Verpflichtung eines Ratsmitgliedes
+- TOP 3: Strukturwandel in Grevenbroich und in der Region
+- TOP 4: Regelmäßige Informationen aus Beratungen Strukturwandel (Antrag Nr. 172/18) - Kenntnisnahme
+- TOP 5: Einbringung des Haushaltes 2020
+- TOP 6: Sachstandsbericht Sanierungsplan zum 30.06.2019 - Kenntnisnahme
+- TOP 7: Dringlichkeitsentscheidungen
+- TOP 8: Mittelbereitstellungen
+- TOP 9: Flüchtlings- und Integrationsangelegenheiten
+- TOP 10: Entscheidung PlanungsA 17.09.2019
+- TOP 10.1: G 215 - überarb. städtebaulicher Vertrag - einstimmig
+- TOP 10.2: Gu 37 - ern. Aufstell. + Auslegungsbeschluss - mehrheitlich bei
+- TOP 10.3: Vertrag Interkomm. Gewerbegebiet GV Jüchen - einstimmig
+- TOP 10.4: erneute Veränderungssperre Gu 37 - mehrheitlich bei
+- TOP 10.5: N 48 Aufstellungsbeschluss 13b - einstimmig
+- TOP 11: PersonalA 24.09.2019
+- TOP 11.1: Tätigkeitsbericht der Gleichstellungsbeauftragten - Kenntnisnahme
+- TOP 12: Beantwortung Anträge und Anfragen
+- TOP 12.1: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 12.2: Lernbedingungen an der Arche Noah schnellstmöglich verbessern (Antrag Nr. 131/19) - Kenntnisnahme
+- TOP 12.3: Kunstrasenplätze im Stadtgebiet (Anfrage Nr. 129/19) - Kenntnisnahme
+- TOP 12.4: Beantwortung der Anfrage zur Umsetzung des freien WLANs in Grevenbroich ( Nr. 121/19 u.145/16) - Kenntnisnahme
+- TOP 12.5: Beantwortung von Anträgen und Anfragen - Kenntnisnahme
+- TOP 13: Schriftliche Anträge
+- TOP 13.1: CDU
+- TOP 13.1.1: Ausschussumbesetzung - einstimmig
+- TOP 13.1.2: Ausschussumbesetzungen - einstimmig
+- TOP 13.1.3: Neubau 3. Gesamtschule - einstimmig
+- TOP 13.1.4: Klimafreundliches Grevenbroich - einstimmig
+- TOP 13.2: SPD
+- TOP 13.3: UWG
+- TOP 13.3.1: Plastikfreie Stadt / Fertigung von Stoffbeuteln - einstimmig
+- TOP 13.3.2: Bahnhaltepunkt Gustorf - einstimmig
+- TOP 13.3.3: Nutzung von Garagen und Stellplätzen - einstimmig
+- TOP 13.3.4: Gratistrinkwasserstation - einstimmig
+- TOP 13.3.5: Umwandlung Realschule Wevelinghoven - Kenntnisnahme
+- TOP 13.3.6: Ertüchtigung Bolzplatz Wevelinghoven - Kenntnisnahme
+- TOP 13.3.7: Erhalt Spielplatz am Heyerweg - Kenntnisnahme
+- TOP 13.3.8: Bepflanzte Bushaltestellendächer - einstimmig
+- TOP 13.4: FDP
+- TOP 13.4.1: Verkehrsfluss Erlenstraße - einstimmig
+- TOP 13.5: B 90/DIE GRÜNEN
+- TOP 13.5.1: Klimaoffensive Grevenbroich - Kenntnisnahme
+- TOP 13.5.2: Gigawatt Pakt - einstimmig
+- TOP 13.5.3: Autofreies Quartier - einstimmig
+- TOP 13.5.4: Reduzierung Geräusche L 361 - einstimmig
+- TOP 13.6: Mein Grevenbroich
+- TOP 13.6.1: Baumscheiben Nordstraße - einstimmig
+- TOP 13.6.2: Ausschussumbesetzung - einstimmig
+- TOP 13.7: DIE LINKE
+- TOP 13.7.1: Windkrafträder - einstimmig
+- TOP 14: Gemeinschaftsanträge
+- TOP 14.1: Gemeinschaftsantrag Zone 30 - mehrheitlich bei
+- TOP 15: Schriftliche Anfragen
+- TOP 15.1: CDU
+- TOP 15.2: SPD
+- TOP 15.3: UWG
+- TOP 15.4: FDP
+- TOP 15.5: B 90/DIE GRÜNEN
+- TOP 15.5.1: Aufforstung als Beitrag zum Klimaschutz - Kenntnisnahme
+- TOP 15.6: Mein Grevenbroich
+- TOP 15.7: DIE LINKE
+- TOP 16: mündliche Anträge/Anfragen
+- TOP 16.1: Bahnhof Gustorf (Anfrage Nr. 240/19)
+- TOP 16.2: Müllfahrzeuge in Gustorf (Anfrage Nr. 241/19)
+- TOP 16.3: Abfallbehälter auf Friedhöfen (Anfrage Nr. 242/19)
+- TOP 16.4: Bahnhof Gustorf, Bundesköniginnentag (Anfrage Nr. 243/19)
+- TOP 16.5: Piktogramm auf der Schellestraße (Anfrage Nr. 244/19)
+- TOP 16.6: Brückengeländer "Am Wehr"/"An der Untermühle" (Anfrage Nr. 147/2018)
+- TOP 16.7: Hemmerdener Weg (Anfrage Nr. 245/19)
+- TOP 16.8: Zuständigkeitsordnung UmweltA (Anfrage Nr. 246/19)
+- TOP 16.9: Straßenschäden Montanusstraße (Anfrage Nr. 26/2017)
+- TOP 16.10: Parksituation auf der Damaschkestraße in Neuenhausen (Anfrage Nr. 247/19)
+- TOP 16.11: LKW-Verkehr "An der Untermühle" in Wevelinghoven (Anfrage Nr. 248/19)
+- TOP 16.12: Viehstraße in Neukirchen (Anfrage Nr. 249/19)
+- TOP 16.13: Parkplatz Friedensstraße Ecke "Zur Hammhöhe" (Anfrage Nr. 250/19)
+- TOP 16.14: Cyriakusstraße (Anfrage Nr. 30/19)
+- TOP 17: Mitteilungen BM
