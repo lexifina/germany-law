@@ -1,0 +1,9 @@
+# TOP 5.2: Stellenplan 2020 und Entwicklung der Personal- und Versorgungsaufwendungen 2020 (1. Lesung)
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Personal- und Verwaltungsausschusses (2019-10-10)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=95623
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=28277&bi=26584
+- Beschluss (Datei): Sammeldokument öffentlich http://ratsinfo.aachen.de/public/doc?DOLFDNR=359915&DOCTYP=138&OTYP=41&ANNOTS=1
