@@ -1,0 +1,1 @@
+# Bremische Verordnung über zusätzliche Anforderungen bei der Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln auf landwirtschaftlich genutzten Flächen (Bremische Landesdüngeverordnung - BremLDüV) vom 24. September 20
