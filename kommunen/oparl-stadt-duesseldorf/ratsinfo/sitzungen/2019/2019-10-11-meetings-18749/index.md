@@ -1,0 +1,82 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-10-11T14:00:00+02:00
+- Ende: 2019-10-11T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18749
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18749
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzunsgpaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357910.pdf
+- Ergebnisprotokoll: Sitzunsgpaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357910.pdf
+- Wortprotokoll: Sitzunsgpaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00357910.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung eines neuen Mitgliedes der Bezirksvertretung 1 - zur Kenntnis genommen
+- TOP 2: Wahl der 2. stellvertretenden Bezirksbürgermeisterin bzw. des 2. stellvertretenden Bezirksbürgermeisters
+- TOP 3: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über die Sitzung vom 28.06.2019 - einstimmig beschlossen
+- TOP 5: Genehmigung der Niederschrift über die Sondersitzung am 28.08.2019 - einstimmig beschlossen
+- TOP 6: Eingabe nach § 24 Gemeindeordnung NRW - einstimmig beschlossen
+- TOP 7: Verwaltungsvorlagen und mündliche Berichte
+- TOP 7.1: Provisorium der Brücke Kennedydamm - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 7.2: Umgestaltung Rochusmarkt - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 7.3: Benennung des Luise-Oppenheimer-Platzes - einstimmig beschlossen
+- TOP 7.4: Weihnachtsmarkt im Ehrenhof im Jahre 2019 - einstimmig beschlossen
+- TOP 7.5: Workshopverfahren Westlich Kennedydamm (o.Nr.) - zur Kenntnis genommen
+- TOP 7.6: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - zur Kenntnis genommen
+- TOP 7.7: Antikmärkte in der Kö-Galerie und in den Schadow Arkaden im Jahre 2020 - einstimmig beschlossen
+- TOP 7.8: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2019, Platzgestaltung Blücherplätzchen - - einstimmig beschlossen
+- TOP 7.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.11: Radwegeplanung Franklinbrücke/Rethelstraße - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 7.12: Konrad-Adenauer-Platz - 2. Rahmenvereinbarung mit der DB StationService AG und Weiterführung des kooperativen Verfahrens zur Entwicklung des Bahnhofumfeldes - zur Kenntnis genommen
+- TOP 7.13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) sowie Förderung Dritter Konten 1111105001 53175100 - 53176000, Liste C) - Haushalt 2019, Generationen-Werkstatt Matthias-Claudius-Schule - einstimmig beschlossen
+- TOP 7.14: Trödelmärkte auf dem Gelände des Großmarktes im 1. Halbjahr 2020 - einstimmig beschlossen
+- TOP 7.15: Weihnachtsmarkt auf der Nordstraße vom 21.11.2019 bis 23.12.2019 - mehrheitlich beschlossen
+- TOP 8: Beratung des Haushaltsplan-Entwurfes 2020 nebst Anlagen - mehrheitlich beschlossen
+- TOP 8.1: Fassadenrenovierung der Feuer- und Rettungswache 3, 1212601 Gefahrenabwehr - Aufwendungen für Sach- und Dienstleistungen - Antrag zum Haushaltsplanentwurf 2020 der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 8.2: Gehweg auf der Annastraße -Straßen (5454101) - Kleinere Straßenbaumaßnahmen (7.90000262) - Antrag zum Haushaltsplanentwurf 2020 der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 8.3: Gehwegs auf der Bagelstraße - (54541010) Straßen Kleinere Straßenbaumaßnahmen (7.90000262) - Antrag zum Haushaltsplanentwurf 2020 der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 8.4: Smartes Ampel- und Verkehrsmanagementsystem im Bereich Danziger Straße/Kennedydamm bis Cecilienallee - (5454101) Straßen Verkehrstechnik (Leistung 06)/Verkehrsregelung (Leistung 08) - Antrag zum Haushaltsplanentwurf 2020 der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 8.5: Gestaltung des Rochusmarktes - Antrag zum Haushaltsplanentwurf 2020 der CDU-Fraktion - mehrheitlich abgelehnt
+- TOP 9: Sitzungstermine der Bezirksvertretung 1 für das Jahr 2020 - einstimmig beschlossen
+- TOP 10: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 11: Anfragen
+- TOP 11.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2: Sanierung des Luisengymnasiums (Anfage der FDP-Fraktion)
+- TOP 11.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.5: Bauarbeiten an der Maxschule (Anfrage Ratsherr André Simon - CDU) - zur Kenntnis genommen
+- TOP 11.6: Habakuk von Max Ernst (Anfrage der CDU-Fraktion) - zur Kenntnis genommen
+- TOP 11.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.8: Restaurierung der Seitenbalustraden am Tritonenbrunnen an der Königsallee (Anfrage Ratsfrau Sabine Schmidt - CDU) - zur Kenntnis genommen
+- TOP 11.9: Lichtzeichenanlage Kreuzungsbereich Am Wehrhahn/Kölner Straße (Anfrage Ratsfrau Sabine Schmidt - CDU)
+- TOP 11.10: Heinrich-Heine-Allee (Anfrage der SPD-Fraktion)
+- TOP 12: Anträge
+- TOP 12.1: Auf dem Vorplatz des Mahnmals am ehemaligen Güterbahnhof soll Parken verhindert werden (interfraktioneller Antrag) - einstimmig beschlossen
+- TOP 12.2: Umbenennung des E.on-Platzes in Emilie-Preyer-Platz (überfraktioneller Antrag) - mehrheitlich beschlossen
+- TOP 12.3: Baumersatzpflanzung auf der Kapellstrasse vor Haus Nr. 46 (Antrag der CDU-Fraktion) - einstimmig beschlossen
+- TOP 12.4: Verkehrssicherheit auf der Schirmerstraße (Antrag der Fraktion Bündnis 90/Die Grünen) - mehrheitlich beschlossen
+- TOP 12.5: Neueinrichtung eines Kreisverkehrs (Antrag der SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 12.6: Verdeckte Geschwindigkeitsmessung am Mannesmannufer die 3. (Antrag der FDP-Fraktion) - einstimmig beschlossen
+- TOP 12.7: Bürgersteig Ulmenstraße zwischen Spichernplatz und Saarbrücker Straße (Antrag der Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 12.8: Straßenzusatzschild für die Brüderstraße (Antrag Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 12.9: Baumscheibe Am Wehrhahn 53 (Antrag der CDU-Fraktion) - einstimmig beschlossen
+- TOP 12.10: Fahrradständer Kasernenstr. 6 (Antrag der SPD-Fraktion) - einstimmig beschlossen
+- TOP 12.11: Sitzgelegenheiten auf dem Kolpingplatz (Antrag der SPD-Fraktion) - einstimmig beschlossen
+- TOP 12.12: Einrichtung von Schließfächern für die Multifunktionsfläche unter der Theodor-Heuss-Brücke (Antrag der SPD-Fraktion) - mehrheitlich beschlossen
+- TOP 13: Verfügungsmittel
+- TOP 13.1: Verfügungsmittel der BV 1 - Zuschuss an den Heimatverein Derendorfer Jonges e.V. - einstimmig beschlossen
+- TOP 13.2: Verfügungsmittel der BV 1 - Zuschuss an die KGS Paul-Klee-Schule - einstimmig beschlossen
+- TOP 13.3: Verfügungsmittel der BV 1 - Zuschuss an den Heimatverein Derendorfer Jonges e.V. - einstimmig beschlossen
+- TOP 13.4: Verfügungsmittel der BV 1 - Zuschuss für Farbfieber e.V. - mehrheitlich beschlossen
+- TOP 13.5: Verfügungsmittel der BV 1 - Zuschuss für den Heimatverein Derendorfer Jonges e.V. - vertagt
+- TOP 13.6: Verfügungsmittel der BV1 - Zuschuss für das Integrationsprojekt der Neue Zeiten e.V. - vertagt
+- TOP 13.7: Verfügungsmittel der BV 1 - Zuschuss für enkelson. Jahresabschlusskonzert - mehrheitlich beschlossen
+- TOP 13.8: Verfügungsmittel der BV 1 - Zuschuss für Diakonie Familienzentrum Kreuzkirche - einstimmig beschlossen
+- TOP 13.9: Verfügungsmittel der BV 1 - Zuschuss an efa-Stadtteiltreff/Mütterzentrum - einstimmig beschlossen
+- TOP 14: Verschiedenes
