@@ -1,0 +1,77 @@
+# 24. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2019-10-11T10:00:00+02:00
+- Ende: 2019-10-11T12:45:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2019-VV-42
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2019-VV-42
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-VV-42
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2019-VV-42
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2019-VV-42
+
+## Tagesordnung
+
+- TOP -: Niederschrift der Sitzung vom 28.06.2019
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP -: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Vorlagen des Regionalverband Ruhr/Planungsausschuss
+- TOP 1.a: Intensivierung der Einbindung der Politik in den Prozess der Neuaufstellung des Regionalplans Ruhr
+- TOP 1.a.1: Antwort auf Fraktionsantrag vom 18.09.2019 zur Verzögerung im Aufstellungsverfahren Regionalplan Ruhr
+- TOP 1.1: Änderungsverfahren 36 MH des Regionalen Flächennutzungsplans (RFNP) Erteilung des Einvernehmens gemäß § 39 Abs. 3 Landesplanungsgesetz NRW
+- TOP 1.2: Gesetzentwurf zur Änderung des LPlG NRW - Erneute Gelegenheit zur Stellungnahme
+- TOP 1.2.1: Geplante Änderung des § 19 Abs. 3 LPlG NRW
+- TOP 1.3: Inkrafttreten der Änderung des LEP NRW
+- TOP 1.5: 14. Änderung des Regionalplans für den Regierungsbezirk Arnsberg Teilabschnitt Oberbereiche Bochum und Hagen Erweiterung des Allgemeinen Siedlungsbereichs (ASB) im Gebiet der Hansestadt Breckerfeld - Erarbeitungsbeschluss
+- TOP 1.6: Anfragen und Mitteilungen
+- TOP 1.6.1: Abgrabungskonferenz Kies/Kiessand im Kreis Wesel hier: aktueller Sachstand
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP -: Vorlagen aus dem Verbandsausschuss
+- TOP 2.1: Einbringung des Doppelhaushaltes 2020 / 2021
+- TOP 2.1.1: Herstellung des Benehmens mit den Mitgliedskörperschaften für die Haushaltsjahre 2020 / 2021 Tischvorlage
+- TOP 2.2: NKF-Gesamtabschluss zum 31. Dezember 2017
+- TOP 2.2.1: Beschluss über die Behandlung des Jahresfehlbetrages 2017
+- TOP 2.3: Änderung der Geschäftsordnung der Verbandsversammlung und der Ausschüsse
+- TOP 2.4: Angelegenheiten der ecce GmbH - Wahl von Kuratoriumsmitgliedern
+- TOP -: Vorlagen ohne Fachausschussbeteiligung
+- TOP 2.5: Bildung und Besetzung des Wahlausschusses
+- TOP -: Vorlagen aus dem Planungsausschuss
+- TOP 2.7: Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr: Entwurf des Endberichtes zur 2. Stufe
+- TOP 2.7.1: Änderungsantrag der Koalitionsfraktionen (CDU/SPD/Grüne) Regionales Mobilitätsentwicklungskonzept für die Metropole Ruhr: Entwurf des Endberichtes zur 2.Stufe des Regionalen Mobilitätsentwicklungskonzeptes für die Metropole Ruhr
+- TOP 2.7.2: Anfrage der AfD-Fraktion Mobilitätsentwicklungskonzept
+- TOP -: Vorlagen aus dem Umweltausschuss
+- TOP 2.8: Weiterführung des Projektes Schiffsparade/KulturKanal nach 2020
+- TOP 2.9: Agenda Klimaoffensive.RUHR
+- TOP 2.9.1: Antrag der Fraktion Die Linke Agenda Klimaoffensive.RUHR - Modellprojekt für 2020 „Einrichtung einer auf Geodaten basierenden Vitalitätskartierung von Wäldern und Grünflächen“
+- TOP 2.9.2: Rahmennutzungskonzept zur Weiterentwicklung von Haldenstandorten in der Metropole Ruhr
+- TOP 2.9.2.1: Antrag der Fraktion Die Linke Rahmennutzungskonzept zur Weiterentwicklung von Haldenstandorten in der Metropole Ruhr Hier: Ergänzung des Beschlussvorschlages
+- TOP -: Vorlagen aus dem Wirtschaftsausschuss
+- TOP 2.10: Angelegenheiten der Business Metropole Ruhr
+- TOP 2.10.1: - Jahresabschluss zum 31.12.2018
+- TOP 2.10.2: Angelegenheiten der Business Metropole Ruhr GmbH - Erhöhung der Gesellschafterzuschüsse 2020 ff
+- TOP 2.10.3: Angelegenheiten der Business Metropole Ruhr GmbH ecce GmbH - Finanzierung 2020
+- TOP 2.11: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 2.11.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.11.2: Angelegenheiten der Ruhr Tourismus GmbH - Erhöhung der Gesellschafterzuschüsse 2020 ff
+- TOP 2.12: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 2.12.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2018
+- TOP 2.12.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2018
+- TOP 2.13: Angelegenheiten der Freizeitgesellschaften
+- TOP 2.13.1: Angelegenheiten der Freizeitgesellschaften - Freizeitgesellschaft Metropole Ruhr GmbH (FMR) - Jahresabschluss zum 31.12.2018 der FMR und ihrer Betriebsstätten
+- TOP 2.13.2: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2018 der nicht in die FMR mbH integrierten Freizeitgesellschaften (Revierpark Gysenberg Herne GmbH, Revierpark Wischlingen GmbH, Freizeitzentrum Xanten GmbH)
+- TOP 2.13.3: Angelegenheiten der Freizeitgesellschaften - Maximilianpark Hamm GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.13.4: Angelegenheiten der Freizeitgesellschaften - Evaluierungsergebnisse für die Gesellschafterzuschüsse 2020 ff
+- TOP 2.13.5: Angelegenheiten der Freizeitgesellschaften - Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2018
+- TOP 2.13.6: Angelegenheiten der Freizeitgesellschaften - Seegesellschaft Haltern mbH - Jahresabschluss zum 31.12.2018
+- TOP 2.14: Angelegenheiten der Freizeitgesellschaften - Freizeitschwerpunkt Glörtalsperre GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.15: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.16: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.17: Angelegenheiten der TouristikEisenbahn Ruhrgebiet GmbH - Jahresabschluss zum 31.12.2018
+- TOP 2.18: Neuausrichtung Literaturpreis Ruhr
+- TOP 2.18.1: Neuausrichtung Literaturpreis
+- TOP 2.19: Anfragen und Mitteilungen
+- TOP 2.19.1: Sozialkonferenz Ruhr 2019
+- TOP 2.19.2: Angelegenheiten des Referates Europäische und regionale Netzwerke Ruhr - Interregionale Kooperation der Górnoslasko-Zaglebiowska Metropolia (kurz: Metropolis GZM) in Polen mit dem Regionalverband Ruhr
