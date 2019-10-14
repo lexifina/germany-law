@@ -1,23 +1,34 @@
-# Der Rat der Stadt Köln hat in seiner Sitzung am 04.04.2019 auf Grund des § 37 Abs. 1 Satz 2 bis 4 i. V. m. § 41 Abs. 3 der Gemeindeordnung für das Land NordrheinWestfalen (GO NW)
+# Der Rat der Stadt Köln hat in seiner Sitzung am 26.09.2019 auf Grund des § 37 Abs. 1 Satz 2 bis 4 i. V. m. § 41 Abs. 3 der Gemeindeordnung für das Land NordrheinWestfalen (GO NW)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2019-04-18 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/zuständigkeitsordnung_18042019.pdf
+- Datum: 2019-10-14 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/zuständigkeitsordnung_14102019.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Der Rat der Stadt Köln hat in seiner Sitzung am 04.04.2019 auf Grund des § 37 Abs. 1 Satz 2 bis 4 i. V. m. § 41 Abs. 3 der Gemeindeordnung für das Land NordrheinWestfalen (GO NW) vom 14. Juli 1994 (GV NRW S.666/SGV NRW 2023) in der bei Beschlussfassung geltenden Fassung folgende Zuständigkeitsordnung beschlossen:
+Der Rat der Stadt Köln hat in seiner Sitzung am 26.09.2019 auf Grund des § 37 Abs. 1 Satz 2 bis 4 i. V. m. § 41 Abs. 3 der Gemeindeordnung für das Land NordrheinWestfalen (GO NW) vom 14. Juli 1994 (GV NRW S.666/SGV NRW 2023) in der bei Beschlussfassung geltenden Fassung folgende Zuständigkeitsordnung beschlossen:
+
 ZUSTÄNDIGKEITSORDNUNG DER STADT KÖLN
-in der Fassung der 4. Satzung zur Änderung der Zuständigkeitsordnung vom 18.04.2019
-- ABl StK 2017, S. 311, S. 481; ABl StK 2018, S. 111; ABl StK 2019, S. 99, S. 203 -
-I. Allgemeines § 1 Grundsätze § 2 Zuständigkeiten der Bezirksvertretungen § 3 Zuständigkeiten bei Eigenbetrieben, eigenbetriebsähnlichen Einrichtungen,
-Sondervermögen und bei Anstalten des öffentlichen Rechts § 4 Zuständigkeiten bei Controllingaufgaben § 5 Zuständigkeiten bei Bedarfsfeststellungen, Vergaben und Baumaßnahmen § 6 Rückholrecht des Rates
-II. Zuständigkeiten der Ausschüsse § 7 Hauptausschuss § 8 Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe /
-Internationales § 9 Bauausschuss § 10 Finanzausschuss § 11 Gesundheitsausschuss § 12 Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie § 13 Ausschuss Kunst und Kultur § 14 Liegenschaftsausschuss § 15 Rechnungsprüfungsausschuss § 16 Ausschuss für Schule und Weiterbildung § 17 Ausschuss für Soziales und Senioren § 18 Sportausschuss § 19 Stadtentwicklungsausschuss § 20 Ausschuss Umwelt, Gesundheit und Grün § 21 Verkehrsausschuss § 22 Wirtschaftsausschuss
-III. Zuständigkeiten der Oberbürgermeisterin / des Oberbürgermeisters § 23 Zuständigkeiten der Oberbürgermeisterin / des Oberbürgermeisters gem.
-§ 41 Abs. 2 GO § 24 Geschäft der laufenden Verwaltung (§ 41 Abs. 3 GO)
+in der Fassung der 5. Satzung zur Änderung der Zuständigkeitsordnung vom 14.10.2019
+- ABl StK 2017, S. 311, S. 481; ABl StK 2018, S. 111; ABl StK 2019, S. 99, S. 203, S. 623 -
+
+§1 §2 §3
+§4 §5 §6
+§7 §8
+§9 § 10 § 11 § 12 § 13 § 14 § 15 § 16 § 17 § 18 § 19 § 20 § 21 § 22
+
+I. Allgemeines
+Grundsätze Zuständigkeiten der Bezirksvertretungen Zuständigkeiten bei Eigenbetrieben, eigenbetriebsähnlichen Einrichtungen, Sondervermögen und bei Anstalten des öffentlichen Rechts Zuständigkeiten bei Controllingaufgaben Zuständigkeiten bei Bedarfsfeststellungen, Vergaben und Baumaßnahmen Rückholrecht des Rates
+II. Zuständigkeiten der Ausschüsse
+Hauptausschuss Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales Bauausschuss Finanzausschuss Gesundheitsausschuss Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie Ausschuss Kunst und Kultur Liegenschaftsausschuss Rechnungsprüfungsausschuss Ausschuss für Schule und Weiterbildung Ausschuss für Soziales und Senioren Sportausschuss Stadtentwicklungsausschuss Ausschuss Umwelt, Gesundheit und Grün Verkehrsausschuss Wirtschaftsausschuss
+
+§ 23 § 24
+
+III. Zuständigkeiten der Oberbürgermeisterin / des Oberbürgermeisters
+Zuständigkeiten der Oberbürgermeisterin / des Oberbürgermeisters gem. § 41 Abs. 2 GO Geschäft der laufenden Verwaltung (§ 41 Abs. 3 GO)
+
 Seite 1 von 25
 
 I. Allgemeines
@@ -33,10 +44,9 @@ b) bei Entscheidungen des Rates zu außerplanmäßigen und überplanmäßigen Au
 c) im Rahmen der Unterrichtung des Rates nach § 25 Abs. 1 KomHVO NRW in diesen Angelegenheiten.
 (7) Soweit diese Zuständigkeitsordnung Festlegungen zum Geschäft der laufenden Verwaltung trifft, handelt es sich hierbei um Geschäfte im Sinne des § 41 Abs. 3 GO.
 (8) Soweit in dieser Zuständigkeitsordnung Wertgrenzen festgelegt sind, handelt es sich bei den genannten Beträgen jeweils um Nettobeträge (ohne Umsatzsteuer u. ä.)
-(9) Soweit mit dieser Zuständigkeitsordnung den Ausschüssen die Befugnis zur Entscheidung über Maßnahmenprogramme übertragen wird, gilt dies auch für
 Seite 2 von 25
 
-Angelegenheiten, bei denen im Einzelfall die Bezirksvertretungen zur Entscheidung befugt sind. Die Bezirksvertretungen können Prioritätslisten für die in ihrem Entscheidungsbereich liegenden Maßnahmen beschließen. Von diesen Listen darf nur mit Zustimmung der zuständigen Bezirksvertretung abgewichen werden.
+(9) Soweit mit dieser Zuständigkeitsordnung den Ausschüssen die Befugnis zur Entscheidung über Maßnahmenprogramme übertragen wird, gilt dies auch für Angelegenheiten, bei denen im Einzelfall die Bezirksvertretungen zur Entscheidung befugt sind. Die Bezirksvertretungen können Prioritätslisten für die in ihrem Entscheidungsbereich liegenden Maßnahmen beschließen. Von diesen Listen darf nur mit Zustimmung der zuständigen Bezirksvertretung abgewichen werden.
 §2 Zuständigkeiten der Bezirksvertretungen (§§ 37 Abs. 1 und 5 GO, 19 Hauptsatzung)
 (1) Soweit nicht der Rat nach § 41 Abs. 1 ausschließlich zuständig ist, entscheiden die Bezirksvertretungen unter Beachtung der Belange der gesamten Stadt und im Rahmen der vom Rat erlassenen allgemeinen Richtlinien in allen Angelegenheiten, deren Bedeutung nicht wesentlich über den Stadtbezirk hinausgeht, insbesondere in folgenden Angelegenheiten:
 1 Allgemeines Verwaltungswesen
@@ -54,9 +64,10 @@ Angelegenheiten, bei denen im Einzelfall die Bezirksvertretungen zur Entscheidun
 2.1 Vermietung und Verpachtung der städtischen Liegenschaften im Stadtbezirk mit einer Laufzeit von mehr als drei Jahren oder einer Miet- oder Pachtsumme von mehr als € 25.000 innerhalb der Laufzeit;
 2.2 Feststellung des Bedarfs für Anmietungen und andere Vereinbarungen zur Bereitstellung von Liegenschaften für bezirkliche Zwecke mit einer Laufzeit von mehr als drei Jahren oder einer Mietsumme von mehr als € 50.000 innerhalb der Laufzeit;
 3 Ordnungs- und Verkehrswesen
-3.1 Verkehrsführungen, Einbahnstraßen, Sperrungen, Straßenquerungen, Querungshilfen sowie Beruhigung von Gemeindestraßen, die nicht über die Bezirksgrenzen hinausführen, ausgenommen vom Entscheidungsrecht sind Sofortmaßnahmen aus Gründen der Verkehrssicherheit oder vorübergehende Maßnahmen, die nicht über einen Zeitraum von sechs Monaten hinausgehen, als Geschäfte der laufenden Verwaltung;
+3.1 Verkehrsführungen, Einbahnstraßen, Sperrungen, Straßenquerungen, Querungshilfen sowie Beruhigung von Gemeindestraßen, die nicht über die Bezirksgrenzen hinausführen, ausgenommen vom Entscheidungsrecht sind Sofortmaßnahmen aus Gründen der Verkehrssicherheit oder vorübergehende
 Seite 3 von 25
 
+Maßnahmen, die nicht über einen Zeitraum von sechs Monaten hinausgehen, als Geschäfte der laufenden Verwaltung;
 3.2 Festlegung von Prioritäten für den Neu- und Abbau von Lichtsignalanlagen sowie für den Bau von Kreisverkehrsanlagen und Anlagen zur Schulwegsicherung;
 3.3 Ausweisung von Gebieten mit Anwohnerparkvorrechten und von Tempo-30Zonen, sofern der öffentliche Personennahverkehr hiervon nicht beeinträchtigt wird;
 3.4 Neubau von Lichtsignalanlagen ab € 50.000 einschließlich wirtschaftlicher Erfordernisse unter Berücksichtigung sicherheitsrelevanter Belange;
@@ -71,9 +82,10 @@ Seite 3 von 25
 4.4 Aufstellung von Denkmälern, Kunstwerken, Brunnen u. ä. sowie deren Standortbestimmung und -gestaltung; Restaurierung von Denkmälern (Standbildern u. ä.), Kunstwerken und Brunnen u. ä., soweit das Denkmalschutzgesetz NRW in der jeweils geltenden Fassung Aufgaben nicht ausdrücklich anderweitig zuweist, bei Maßnahmen ab € 50.000;
 4.5 Planung und Durchführung kultureller Veranstaltungen mit überwiegend bezirklichem Bezug; hierfür sind Mittel im Haushaltsplan vorzusehen;
 5 Sozial- und Gesundheitswesen einschließlich Sportpflege
-5.1 Gestaltung, Unterhaltung, Ausstattung (Erst- und Ersatzausstattung) und Instandsetzung einschließlich der hierfür erforderlichen Planungen der im Stadtbezirk gelegenen Einrichtungen des Sozialwesens und des öffentlichen Gesundheitsdienstes bei Maßnahmen ab € 50.000; Gestaltung, Unterhaltung, Ausstattung (Erst- und Ersatzausstattung) und Instandsetzung einschließlich der hierfür erforderlichen Planungen der im Stadtbezirk gelegenen kommunalen Bürgerzentren/bürgerschaftlichen Einrichtungen im Rahmen der gesamtstädtischen Konzeption, bei Maßnahmen ab € 50.000;
+5.1 Gestaltung, Unterhaltung, Ausstattung (Erst- und Ersatzausstattung) und Instandsetzung einschließlich der hierfür erforderlichen Planungen der im Stadtbezirk gelegenen Einrichtungen des Sozialwesens und des öffentlichen Gesundheitsdienstes bei Maßnahmen ab € 50.000; Gestaltung, Unterhaltung, Ausstattung (Erst- und Ersatzausstattung) und Instandsetzung einschließlich der hierfür erforderlichen Planungen der im Stadtbezirk gelegenen kommunalen
 Seite 4 von 25
 
+Bürgerzentren/bürgerschaftlichen Einrichtungen im Rahmen der gesamtstädtischen Konzeption, bei Maßnahmen ab € 50.000;
 5.2 Förderung und Unterstützung örtlicher Vereine, Verbände, sonstiger Vereinigungen und Initiativen im Stadtbezirk, die sich sozialen Aufgaben widmen;
 5.3 Förderung und Unterstützung örtlicher Sportvereine und Sportvereinigungen;
 5.4 Gestaltung, Unterhaltung, Ausstattung (Erst- und Ersatzausstattung) und Instandsetzung einschließlich der hierfür erforderlichen Planungen der im Stadtbezirk gelegenen Sporteinrichtungen (Sportplätze, Sportfreianlagen, Turnhallen, Umkleidehäuser u.ä.), bei Maßnahmen ab € 50.000;
@@ -92,10 +104,10 @@ Seite 4 von 25
 (2) Der Bezirksvertretung ist insbesondere bei folgenden Angelegenheiten Gelegenheit zur Stellungnahme zu geben:
 1 Allgemeines Verwaltungswesen
 1.1 Schaffung neuen Ortsrechts (Erlass von Satzungen, Benutzungsordnungen und sonstigem Ortsrecht), soweit dieses Recht im Wesentlichen nur für den Bezirk gilt oder sofern gerade dieser Bezirk in besonderer Weise davon betroffen ist;
-1.2 Änderung der Bezirksgrenzen;
-1.3 Benennung und Begrenzung der Ortsteile im Bezirk;
 Seite 5 von 25
 
+1.2 Änderung der Bezirksgrenzen;
+1.3 Benennung und Begrenzung der Ortsteile im Bezirk;
 1.4 Benennung der Schiedspersonen, Schöffinnen/Schöffen und ehrenamtlichen Richterinnen/ Richtern (Vorschlagsliste);
 1.5 Bestellung der Leiterin/des Leiters des Bürgeramtes;
 2 Finanzwesen einschließlich Liegenschaften
@@ -118,10 +130,9 @@ Seite 5 von 25
 6.1 Aufstellung von Bebauungsplänen, Festlegung von Sanierungsgebieten im Bezirk, Einreichung von Planfeststellungsanträgen, Stellungnahmen der Stadt Köln zu Planungsvorhaben Dritter inner- und außerhalb Kölns von wesentlicher Bedeutung sowie im Rahmen von Planfeststellungsverfahren außer in Fällen der Stadtentwässerungsbetriebe Köln;
 6.2 Stadtentwicklungsplanung, soweit der jeweilige Bezirk betroffen ist, Stadtteilentwicklungsplanung, Verkehrsplanung, Betrieb von Verkehrseinrichtungen, KVB-Liniennetzplanänderungen;
 6.3 Festlegung von Landschaftsschutzgebieten, Naturschutzgebieten und Grünflächen, soweit sie ganz oder teilweise im Bezirk liegen sowie Stellungnahmen zu Festlegungen und Änderungen von Landschaftsplänen, soweit diese den Bezirk berühren;
-6.4 Festlegung des Standortes, Errichtung, Aufhebung und Generalinstandsetzung einschließlich der hierfür erforderlichen Planungen von öffentlichen Einrichtungen (z.B. Schulen, Sportplätzen, Bädern, Turnhallen, Einrichtungen des Sozial- und
 Seite 6 von 25
 
-Gesundheitswesens, kulturelle Einrichtungen, Parkanlagen, Kinderspielplätze, Kindertageseinrichtungen);
+6.4 Festlegung des Standortes, Errichtung, Aufhebung und Generalinstandsetzung einschließlich der hierfür erforderlichen Planungen von öffentlichen Einrichtungen (z.B. Schulen, Sportplätzen, Bädern, Turnhallen, Einrichtungen des Sozial- und Gesundheitswesens, kulturelle Einrichtungen, Parkanlagen, Kinderspielplätze, Kindertageseinrichtungen);
 6.5 Umweltschutzplanungen im Rahmen gesamtstädtischer Zielsetzungen;
 6.6 Standorte von Wertstoffcontainern;
 6.7 Information über Bauvorhaben nach § 34 BauGB, wenn die Größe des zu bebauenden Grundstücks 3.000 qm übersteigt oder von besonderem öffentlichen Interesse ist;
@@ -137,10 +148,10 @@ Gesundheitswesens, kulturelle Einrichtungen, Parkanlagen, Kinderspielplätze, Ki
 (4) Maßnahmen bis zu einem Wert von 50.000 € nach Abs. 1 Ziffer 4.1, 4.4, 5.1, 5.4, 6.6, 6.7, 6.8 und 6.9 gelten als Geschäft der laufenden Verwaltung. Der Rat behält jedoch für diesen Kreis von Geschäften den Bezirksvertretungen das Recht vor, im Einzelfall zu entscheiden. Zudem kann der Rat im Einzelfall entscheiden, ein Geschäft der laufenden Verwaltung auf die jeweilige Bezirksvertretung zu übertragen.
 §3 Zuständigkeiten bei Eigenbetrieben, eigenbetriebsähnlichen Einrichtungen,
 Sondervermögen und bei Anstalten des öffentlichen Rechts
-Entscheidungsbefugnisse, die sich aus der Eigenbetriebsverordnung NRW, dem Gesetz über die kommunalen Versorgungskassen und Zusatzversorgungskassen im Lande Nordrhein-Westfalen und den jeweiligen Betriebssatzungen der Eigenbetriebe, eigenbetriebsähnlichen Einrichtungen und Sondervermögen ergeben, bleiben von dieser Zuständigkeitsordnung unberührt. Gleiches gilt für Entscheidungszuständigkeiten bei rechtsfähigen Anstalten des öffentlichen Rechts (Kommunalunternehmen gem. § 114 a GO, gemeinsame Kommunalunternehmen gem. § 27 des Gesetzes über kommunale Gemeinschaftsarbeit – GkG – und Anstalten des öffentlichen Rechts nach besonderen fachgesetzlichen Vorschriften),
+Entscheidungsbefugnisse, die sich aus der Eigenbetriebsverordnung NRW, dem Gesetz über die kommunalen Versorgungskassen und Zusatzversorgungskassen im Lande Nordrhein-Westfalen und den jeweiligen Betriebssatzungen der Eigenbetriebe, eigenbetriebsähnlichen Einrichtungen und Sondervermögen ergeben, bleiben von dieser Zuständigkeitsordnung unberührt. Gleiches gilt für Entscheidungszuständigkeiten bei rechtsfähigen Anstalten des öffentlichen Rechts
 Seite 7 von 25
 
-die sich aus der GO, dem GkG, der Kommunalunternehmensverordnung, besonderen fachgesetzlichen Vorschriften oder der jeweiligen Anstaltssatzung ergeben.
+(Kommunalunternehmen gem. § 114 a GO, gemeinsame Kommunalunternehmen gem. § 27 des Gesetzes über kommunale Gemeinschaftsarbeit – GkG – und Anstalten des öffentlichen Rechts nach besonderen fachgesetzlichen Vorschriften), die sich aus der GO, dem GkG, der Kommunalunternehmensverordnung, besonderen fachgesetzlichen Vorschriften oder der jeweiligen Anstaltssatzung ergeben.
 §4 Zuständigkeiten bei Controllingaufgaben
 (1) Die Einführung und Umsetzung von Controllingsystemen zur wirtschaftlichen und zielorientierten Steuerung der Verwaltung erfolgt auf der Grundlage der vom Rat vorgegebenen allgemeinen Grundsätze, nach denen die Verwaltung geführt werden soll (§ 41 Abs. 1 Satz 2 lit. a GO).
 (2) Dem Finanzausschuss ist regelmäßig zu berichten.
@@ -156,10 +167,14 @@ Ab einer Wertgrenze von € 1.5 Mio. entscheidet der Rat; im Fall des Buchst. c)
 a) wenn sich der Bedarf aus einem vom Rat beschlossenen Bedarfsplan ergibt
 b) bei Verträgen über Planungsleistungen oder Gutachten mit dem Mindestsatz der Honorar- oder Gebührenordnung
 c) wenn sich der konkrete Bedarf und die Ausgestaltung aus rechtlichen Vorgaben ergeben
-d) für laufende oder wiederkehrende Bedarfe, wenn der Bedarf in der Vergangenheit durch Beschluss anerkannt worden ist, von zugrunde gelegten Standards nicht abgewichen wird und die Leistung lediglich erneut bzw. für einen neuen Zeitraum ausgeschrieben werden soll.
 Seite 8 von 25
 
-(3) Der nach den jeweiligen Regelungen dieser Zuständigkeitsordnung für Baumaßnahmen sowie für die Lieferungen und Leistungen zuständige Fachausschuss bzw. der nach § 114 GO zuständige Betriebsausschuss bzw. die zuständige Bezirksvertretung stellt den Bedarf fest und kann dabei im Einzelfall auch die Wertungskriterien für die Vergabeentscheidung festlegen. Die Verwaltung (Fachverwaltung mit Einbindung des Zentralen Vergabeamtes) entscheidet mit Beteiligung des Rechnungsprüfungsamtes über die Vergabe. Lehnt das Rechnungsprüfungsamt einen Vergabevorschlag ab, ist die Angelegenheit dem zuständigen Gremium mit den jeweiligen Voten zur Entscheidung vorzulegen. (4) Wesentliche rechtliche oder tatsächliche Veränderungen, die nach der Bedarfsfeststellung im Laufe des weiteren Verfahrens eintreten, sind unverzüglich dem nach Absatz 3 zuständigen Gremium mitzuteilen. (5) Die Verwaltung legt dem nach Absatz 3 zuständigen Gremium einmal im Jahr eine Übersicht über die erteilten Aufträge vor, die nach einzelnen Firmen aufzuschlüsseln ist. Für jede Firma sind die Zahl der Aufträge und die Gesamtsumme der Aufträge anzugeben. Aufträge auf der Grundlage von Rahmenverträgen sowie Aufträge unterhalb einer Auftragssumme von € 10.000 bleiben außer Betracht. Eine vollständige Auflistung der erteilten Aufträge erhält der Rechnungsprüfungsausschuss. (6) Das nach Absatz 3 zuständige Gremium hat das Recht, sich jederzeit über den Stand eines Vergabeverfahrens zu informieren. (7) Die Zuständigkeit für die Festlegung und Änderung des Maßnahmekataloges sowie die Festlegung der Höhe von Vertragsstrafen bei Feststellung illegaler Leiharbeit, soweit von der grundsätzlich vorgegebenen Höhe abgewichen werden soll, wird auf den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales übertragen.
+d) für laufende oder wiederkehrende Bedarfe, wenn der Bedarf in der Vergangenheit durch Beschluss anerkannt worden ist, von zugrunde gelegten Standards nicht abgewichen wird und die Leistung lediglich erneut bzw. für einen neuen Zeitraum ausgeschrieben werden soll.
+(3) Der nach den jeweiligen Regelungen dieser Zuständigkeitsordnung für Baumaßnahmen sowie für die Lieferungen und Leistungen zuständige Fachausschuss bzw. der nach § 114 GO zuständige Betriebsausschuss bzw. die zuständige Bezirksvertretung stellt den Bedarf fest und kann dabei im Einzelfall auch die Wertungskriterien für die Vergabeentscheidung festlegen. Die Verwaltung (Fachverwaltung mit Einbindung des Zentralen Vergabeamtes) entscheidet mit Beteiligung des Rechnungsprüfungsamtes über die Vergabe. Lehnt das Rechnungsprüfungsamt einen Vergabevorschlag ab, ist die Angelegenheit dem zuständigen Gremium mit den jeweiligen Voten zur Entscheidung vorzulegen.
+(4) Wesentliche rechtliche oder tatsächliche Veränderungen, die nach der Bedarfsfeststellung im Laufe des weiteren Verfahrens eintreten, sind unverzüglich dem nach Absatz 3 zuständigen Gremium mitzuteilen.
+(5) Die Verwaltung legt dem nach Absatz 3 zuständigen Gremium einmal im Jahr eine Übersicht über die erteilten Aufträge vor, die nach einzelnen Firmen aufzuschlüsseln ist. Für jede Firma sind die Zahl der Aufträge und die Gesamtsumme der Aufträge anzugeben. Aufträge auf der Grundlage von Rahmenverträgen sowie Aufträge unterhalb einer Auftragssumme von € 10.000 bleiben außer Betracht. Eine vollständige Auflistung der erteilten Aufträge erhält der Rechnungsprüfungsausschuss.
+(6) Das nach Absatz 3 zuständige Gremium hat das Recht, sich jederzeit über den Stand eines Vergabeverfahrens zu informieren.
+(7) Die Zuständigkeit für die Festlegung und Änderung des Maßnahmekataloges sowie die Festlegung der Höhe von Vertragsstrafen bei Feststellung illegaler Leiharbeit, soweit von der grundsätzlich vorgegebenen Höhe abgewichen werden soll, wird auf den Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales übertragen.
 §6 Rückholrecht des Rates
 (1) Soweit mit dieser Zuständigkeitsordnung Entscheidungsbefugnisse auf einen Ausschuss oder die Oberbürgermeisterin/den Oberbürgermeister übertragen werden, kann der Rat durch Beschluss im Einzelfall an Stelle des Ausschusses bzw. der Oberbürgermeisterin/des Oberbürgermeisters entscheiden oder die Entscheidung einem anderen Ausschuss oder der Oberbürgermeisterin/dem Oberbürgermeister übertragen. Gleiches gilt, soweit die Entscheidungszuständigkeit eines Ausschusses durch Satzung begründet worden ist und das Rückhol- oder Übertragungsrecht nicht durch eine ausdrückliche Bestimmung in der Satzung ausgeschlossen ist oder die Ausübung des Rückhol- oder Übertragungsrechts gegen ein gesetzliches Verbot verstößt.
 (2) Im Übrigen bleibt das Rückholrecht des Rates bei Geschäften der laufenden Verwaltung nach § 41 Abs. 3 GO unberührt.
@@ -167,33 +182,37 @@ Seite 9 von 25
 
 II. Zuständigkeiten der Ausschüsse
 §7 Hauptausschuss
-(1) Dem Hauptausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
-1. Entscheidungen nach § 28 Hauptsatzung
-2. Genehmigung von Dienstreisen der Bürgermeisterinnen und Bürgermeister, der Ratsausschüsse sowie einzelner Mandatsträgerinnen und Mandatsträger nach Maßgabe der hierzu vom Rat verabschiedeten Richtlinie;
-3. Erteilung von Aussagegenehmigungen für vom Rat zu ehrenamtlicher Tätigkeit oder in ein Ehrenamt Berufene gem. § 30 Abs. 5 GO sowie für Ratsmitglieder gem. § 43 Abs. 2 Nr. 2 GO;
-4. Benennung von öffentlichen Einrichtungen mit überbezirklicher Bedeutung, soweit diese Zuständigkeitsordnung keine besondere Entscheidungszuständigkeit vorsieht;
-5. Kompetenzstreitigkeiten zwischen anderen Ratsausschüssen;
-6. Grundsatzfragen der Förderung bürgerschaftlichen Engagements.
-(2) Der Hauptausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
-1. Entscheidungen gem. § 41 Abs. 1 Satz 1 lit. a, e und s GO;
-2. Rechtsgeschäfte im Sinne des § 111 GO.
+(1) Dem Hauptausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Entscheidungen nach § 28 Hauptsatzung 2. Genehmigung von Dienstreisen der Bürgermeisterinnen und Bürgermeister, der Ratsausschüsse sowie einzelner Mandatsträgerinnen und Mandatsträger nach Maßgabe der hierzu vom Rat verabschiedeten Richtlinie; 3. Erteilung von Aussagegenehmigungen für vom Rat zu ehrenamtlicher Tätigkeit oder in ein Ehrenamt Berufene gem. § 30 Abs. 5 GO sowie für Ratsmitglieder gem. § 43 Abs. 2 Nr. 2 GO; 4. Benennung von öffentlichen Einrichtungen mit überbezirklicher Bedeutung, soweit diese Zuständigkeitsordnung keine besondere Entscheidungszuständigkeit vorsieht; 5. Kompetenzstreitigkeiten zwischen anderen Ratsausschüssen; 6. Grundsatzfragen der Förderung bürgerschaftlichen Engagements. (2) Der Hauptausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Entscheidungen gem. § 41 Abs. 1 Satz 2 lit. a, e und t GO; 2. Rechtsgeschäfte im Sinne des § 111 GO.
 §8 Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe /
 Internationales
-(1) Dem Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
-1. Wesentliche Prozesshandlungen (mit Ausnahme der Klageerwiderung und der Klageänderung) sowie damit verbundene Anwaltsbeauftragungen bei einem Streitwert von mehr als € 500.000 bis einschl. € 1,5 Mio.; 2. Klageänderung sowie damit verbundene Anwaltsbeauftragungen bei Klagen mit einem Ausgangsstreitwert von mehr als € 500.000 bis einschl. € 1,5 Mio.; soweit sich durch die Klageänderung der Streitwert um mehr als € 50.000 ändert und der neue Streitwert € 1,5 Mio. nicht übersteigt; 3. Abschluss von Vergleichen und Abgabe von Anerkenntniserklärungen, wenn dadurch eine Belastung oder ein Rechtsverzicht der Stadt im Gegenwert von mehr als € 100.000 bis einschl. € 500.000 bewirkt wird; 4. Erwerb von Fahrzeugen bei Kosten von mehr als € 50.000 pro Fahrzeug, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht;
-5. Bedarfsfeststellung von Lieferungen und Leistungen bei Auftragswerten von mehr als € 300.000 bis zu € 1,5 Mio.,
+(1) Dem Ausschuss Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Wesentliche Prozesshandlungen (mit Ausnahme der Klageerwiderung und der Klageänderung) sowie damit verbundene Anwaltsbeauftragungen bei einem Streitwert von mehr als € 500.000 bis einschl. € 1,5 Mio.; 2. Klageänderung sowie damit verbundene Anwaltsbeauftragungen bei Klagen mit einem Ausgangsstreitwert von mehr als € 500.000 bis einschl. € 1,5 Mio.; soweit sich durch die Klageänderung der Streitwert um mehr als € 50.000 ändert und der neue Streitwert € 1,5 Mio. nicht übersteigt; 3. Abschluss von Vergleichen und Abgabe von Anerkenntniserklärungen, wenn dadurch eine Belastung oder ein Rechtsverzicht der Stadt im Gegenwert von mehr als € 100.000 bis einschl. € 500.000 bewirkt wird; 4. Erwerb von Fahrzeugen bei Kosten von mehr als € 50.000 pro Fahrzeug, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht;
 Seite 10 von 25
 
+5. Bedarfsfeststellung von Lieferungen und Leistungen bei Auftragswerten von mehr als € 300.000 bis zu € 1,5 Mio.,
 a) soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht;
 b) bei denen mehrere Ausschüsse entscheidungsbefugt sind und das für die Entscheidung erforderliche Einvernehmen zwischen diesen Ausschüssen nicht hergestellt werden kann;
-c) in Zweifelsfällen, welcher Ausschuss entscheidungsbefugt ist; 6. a) Grundsatzfragen zur Nutzung zentraler Kölner Plätze; b) Erteilung von Sondernutzungserlaubnissen und Genehmigungen nach der StVO
-nach dem Vergabekonzept für Veranstaltungen auf zentralen Plätzen der Kölner Innenstadt sowie am Fühlinger See; die zuständigen Bezirksvertretungen sind zuvor anzuhören;
-7. Bestimmung der Wertgrenzen für Vergaben im Rahmen des Erlasses des Landes nach § 26 KomHVO; 8. Förderrichtlinie Städtepartnerschaften; 9. Förderrichtlinie Projekte zur kommunalpolitischen Entwicklungszusammenarbeit. (2) Der Ausschuss AVR ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Gründung neuer Städtepartnerschaften; 2. Erlass des Stellenplanes; 3. Satzungen, die die Erhebung von Steuern, Gebühren oder Beiträgen regeln (mit Ausnahme der Einheitssätze der Erschließungsbeitragssatzung), Festlegung von Entgelten für die Inanspruchnahme öffentlicher Einrichtungen; 4. Kölner Marktsatzung, Satzung über die Erhebung von Gebühren auf den Wochenmärkten, Kölner Marktverordnung, Kölner Stadtordnung; 5. Feuerwehrsatzung, Rettungsdienstsatzung; 6. Entscheidungen gem. § 41 Abs. 1 Satz 2 lit. k bis m GO, außer wenn es sich um Angelegenheiten der Beteiligungsgesellschaften handelt; 7. Beteiligung an EU-Projekten.
+c) in Zweifelsfällen, welcher Ausschuss entscheidungsbefugt ist;
+6.
+a) Grundsatzfragen zur Nutzung zentraler Kölner Plätze;
+b) Erteilung von Sondernutzungserlaubnissen und Genehmigungen nach der StVO nach dem Vergabekonzept für Veranstaltungen auf zentralen Plätzen der Kölner Innenstadt sowie am Fühlinger See; die zuständigen Bezirksvertretungen sind zuvor anzuhören;
+7. Bestimmung der Wertgrenzen für Vergaben im Rahmen des Erlasses des Landes nach § 26 KomHVO;
+8. Förderrichtlinie Städtepartnerschaften;
+9. Förderrichtlinie Projekte zur kommunalpolitischen Entwicklungszusammenarbeit.
+(2) Der Ausschuss AVR ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
+1. Gründung neuer Städtepartnerschaften;
+2. Erlass des Stellenplanes;
+3. Satzungen, die die Erhebung von Steuern, Gebühren oder Beiträgen regeln (mit Ausnahme der Einheitssätze der Erschließungsbeitragssatzung), Festlegung von Entgelten für die Inanspruchnahme öffentlicher Einrichtungen;
+4. Kölner Marktsatzung, Satzung über die Erhebung von Gebühren auf den Wochenmärkten, Kölner Marktverordnung, Kölner Stadtordnung;
+5. Feuerwehrsatzung, Rettungsdienstsatzung;
+6. Entscheidungen gem. § 41 Abs. 1 Satz 2 lit. l bis n GO, außer wenn es sich um Angelegenheiten der Beteiligungsgesellschaften handelt;
+7. Beteiligung an EU-Projekten.
 §9 Bauausschuss
 (1) Dem Bauausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
-1. Planung von städtischen Hochbauten, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht; 2. Baumaßnahmen an und Gestaltung von städtischen Hochbauten bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio., soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht; 3. Einzelmaßnahmen zur Unterhaltung/ Instandsetzung städtischer Brunnen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
+1. Planung von städtischen Hochbauten, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht;
+2. Baumaßnahmen an und Gestaltung von städtischen Hochbauten bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio., soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht;
 Seite 11 von 25
 
+3. Einzelmaßnahmen zur Unterhaltung/ Instandsetzung städtischer Brunnen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
 4. Wiederaufnahme des Betriebes stillgelegter Brunnen;
 (2) Der Bauausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
 1. Energieversorgungskonzept und Maßnahmen zur Energieeinsparung;
@@ -201,63 +220,56 @@ Seite 11 von 25
 § 10 Finanzausschuss
 (1) Dem Finanzausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
 1. Hingabe von Darlehen bei Darlehensbeträgen von mehr als € 50.000 bis einschl. € 150.000, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht;
-2. Erlass von Ansprüchen gem. § 27 Abs. 3 KomHVO NW bei Beiträgen von mehr als € 10.000 bis einschl. € 50.000 mit Ausnahme des Erlasses öffentlicher Abgaben im Sinne des KAG und der AO;
-3. Bedarfsfeststellungen für Lieferungen und Leistungen bei Auftragswerten von mehr als € 100.000 bis zu € 1 Mio. für den Bereich der Finanzverwaltung, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht.
+2. Erlass von Ansprüchen gem. § 27 Abs. 3 KomHVO NRW bei Beiträgen von mehr als € 10.000 bis einschl. € 50.000 mit Ausnahme des Erlasses öffentlicher Abgaben im Sinne des KAG und der AO;
+3. Bedarfsfeststellungen für Lieferungen und Leistungen bei Auftragswerten von mehr als € 300.000 bis einschl. € 1,5 Mio. für den Bereich der Finanzverwaltung, soweit diese Zuständigkeitsordnung keine besondere Entscheidungsbefugnis vorsieht.
 (2) Der Finanzausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
-1. Entscheidungen gem. § 41 Abs. 1 Satz 2 lit. h bis j, n bis p und s GO;
+1. Entscheidungen gem. § 41 Abs. 1 Satz 2 lit. h bis j, o bis q und t GO;
 2. Satzungen, die die Erhebung von Steuern, Gebühren oder Beiträgen regeln (mit Ausnahme der Einheitssätze der Erschließungsbeitragssatzung), Festlegung von Entgelten für die Inanspruchnahme öffentlicher Einrichtungen;
 3. Abschluss von gerichtlichen und außergerichtlichen Vergleichen bei einem Vergleichswert von mehr als € 50.000;
 4. Abgabe von Anerkenntniserklärungen bei Anerkenntniswerten von mehr als € 50.000;
 5. Unterrichtung des Rates über Kostenerhöhungen i. S. d. § 25 Abs. 1 KomHVO NRW;
 6. Baumaßmaßnahmen an und Gestaltung von städtischen Hochbauten bei Kosten von mehr als € 300.000.
-(3) Der Finanzausschuss ist weiterhin zuständig für die Vorberatung aller Vorlagen mit Auswirkungen auf die städtischen Beteiligungen. Dabei ist er insbesondere zuständig für die Vorberatungen von Grundsatzentscheidungen in Beteiligungsangelegenheiten gem. § 41 Abs. 1 Satz 2 lit. k, l, m GO, wie
-1. Gründung neuer Eigenbetriebe, eigen betriebsähnlicher Einrichtungen, Gesellschaften oder Anstalten;
-2. Eingehen neuer unmittelbarer oder mittelbarer Beteiligungen;
-3. Veränderungen von unmittelbarer oder mittelbarer Beteiligungen;
+(3) Der Finanzausschuss ist weiterhin zuständig für die Vorberatung aller Vorlagen mit Auswirkungen auf die städtischen Beteiligungen. Dabei ist er insbesondere zuständig für die Vorberatungen von Grundsatzentscheidungen in Beteiligungsangelegenheiten gem. § 41 Abs. 1 Satz 2 lit. l, m, n GO, wie
 Seite 12 von 25
 
-4. Auflösen von Eigenbetrieben, eigenbetriebsähnlichen Einrichtungen, Gesellschaften oder Anstalten; 5. Aufgabe von Beteiligungen 6. Umstrukturierung von Beteiligungen; 7. Verträge von grundsätzlicher Bedeutung 8. Vorberatung von Wirtschaftsplänen, Finanzplanungen und Jahresabschlüssen der städtischen Beteiligungen.
+1. Gründung neuer Eigenbetriebe, eigen betriebsähnlicher Einrichtungen, Gesellschaften oder Anstalten; 2. Eingehen neuer unmittelbarer oder mittelbarer Beteiligungen; 3. Veränderungen von unmittelbarer oder mittelbarer Beteiligungen; 4. Auflösen von Eigenbetrieben, eigenbetriebsähnlichen Einrichtungen, Gesellschaften oder Anstalten; 5. Aufgabe von Beteiligungen 6. Umstrukturierung von Beteiligungen; 7. Verträge von grundsätzlicher Bedeutung 8. Vorberatung von Wirtschaftsplänen, Finanzplanungen und Jahresabschlüssen der städtischen Beteiligungen.
 § 11 Gesundheitsausschuss
-(1) Dem Gesundheitsausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Planung von Bauwerken und Anlagen des Feuerschutzes und des Rettungsdienstes; 2. Baumaßnahmen an und Gestaltung von Bauwerken und Anlagen des Feuerschutzes und des Rettungsdienstes bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 3. Erwerb von Fahrzeugen und Geräten im Bereich des Feuerschutzes und des Rettungsdienstes bei Kosten von mehr als € 100.000 pro Fahrzeug bzw. Gerät; 4. Planung städtischer Gesundheitseinrichtungen; 5. Baumaßnahmen an und Gestaltung von städtischen Gesundheitseinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 6. Erstellung von Richtlinien (einschließlich Bewilligungsbedingungen) und Verteilung der Mittel zur Förderung von Selbsthilfegruppen im Gesundheitsbereich. (2) Der Gesundheitsausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne von § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Feuerwehrsatzung, Rettungsdienstsatzung; 2. Grundsatzfragen in Gesundheitsangelegenheiten; 3. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Gesundheitseinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. I GO; 4. Grundsatzfragen der Planung, Koordination und Versorgung im Psychiatrie-, Suchtkranken- und Drogenabhängigenbereich; 5. Grundsatzfragen der kommunalen Gesundheitsförderung und der Gesundheitsförderung und sozialkompensatorischen Gesundheitshilfen für Kinder und Jugendliche; 6. Grundsatzfragen des gesundheitlichen Umweltschutzes; 7. Kommunale Gesundheitskonferenz; 8. Angelegenheiten des öffentlichen Gesundheitswesens.
+(1) Dem Gesundheitsausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Planung von Bauwerken und Anlagen des Feuerschutzes und des Rettungsdienstes; 2. Baumaßnahmen an und Gestaltung von Bauwerken und Anlagen des Feuerschutzes und des Rettungsdienstes bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 3. Erwerb von Fahrzeugen und Geräten im Bereich des Feuerschutzes und des Rettungsdienstes bei Kosten von mehr als € 100.000 pro Fahrzeug bzw. Gerät; 4. Planung städtischer Gesundheitseinrichtungen; 5. Baumaßnahmen an und Gestaltung von städtischen Gesundheitseinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 6. Erstellung von Richtlinien (einschließlich Bewilligungsbedingungen) und Verteilung der Mittel zur Förderung von Selbsthilfegruppen im Gesundheitsbereich. (2) Der Gesundheitsausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne von § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Feuerwehrsatzung, Rettungsdienstsatzung; 2. Grundsatzfragen in Gesundheitsangelegenheiten; 3. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Gesundheitseinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. m GO; 4. Grundsatzfragen der Planung, Koordination und Versorgung im Psychiatrie-, Suchtkranken- und Drogenabhängigenbereich; 5. Grundsatzfragen der kommunalen Gesundheitsförderung und der Gesundheitsförderung und sozialkompensatorischen Gesundheitshilfen für Kinder und Jugendliche; 6. Grundsatzfragen des gesundheitlichen Umweltschutzes;
 Seite 13 von 25
 
+7. Kommunale Gesundheitskonferenz; 8. Angelegenheiten des öffentlichen Gesundheitswesens.
 § 12 Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie
-(1) Dem Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Erstellung von gesamtstädtischen Maßnahmenprogrammen zur Neuanlage und Umgestaltung von Spielplätzen auf der Grundlage diesbezüglicher Entscheidungen der Bezirksvertretungen; 2. Aufstellung von pädagogischen Richtlinien zur Gestaltung, Ausstattung und Unterhaltung/ Instandsetzung von Spielplätzen, Kindertages- und Jugendeinrichtungen; 3. Planung von städtischen Kinder- und Jugendeinrichtungen auf der Grundlage diesbezüglicher Entscheidungen der Bezirksvertretung;
-4. Baumaßnahmen an und Gestaltung von städtischen Kinder- und Jugendeinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; ausgenommen sind Zuständigkeiten der Bezirksvertretungen gem. § 2 Abs. 1 Nr. 6.6 der Zuständigkeitsordnung; 5. Jugendhilfeplanung gem. § 80 SGB VIII; 6. Programm „Angebote zur Beteiligung von Kindern und Jugendlichen am öffentlichen Leben“; 7. Verteilung der Mittel zur Förderung von Familienbildungs- und Familienerholungsstätten nichtkommunaler Träger. (2) Der Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
-1. Satzung für das Jugendamt; 2. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Kinder- und Jugendeinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. l GO; 3. Satzung Private Spielflächen für Kleinkinder; 4. Kölner Stadtordnung, sofern die Bestimmungen zu Spiel- und Bolzplätzen geändert werden; 5. Angelegenheiten der Bürgerzentren/-häuser, soweit Aktivitäten für Kinder, Jugendliche und Familien betroffen sind.
+(1) Dem Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Erstellung von gesamtstädtischen Maßnahmenprogrammen zur Neuanlage und Umgestaltung von Spielplätzen auf der Grundlage diesbezüglicher Entscheidungen der Bezirksvertretungen; 2. Aufstellung von pädagogischen Richtlinien zur Gestaltung, Ausstattung und Unterhaltung/ Instandsetzung von Spielplätzen, Kindertages- und Jugendeinrichtungen; 3. Planung von städtischen Kinder- und Jugendeinrichtungen auf der Grundlage diesbezüglicher Entscheidungen der Bezirksvertretung; 4. Baumaßnahmen an und Gestaltung von städtischen Kinder- und Jugendeinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; ausgenommen sind Zuständigkeiten der Bezirksvertretungen gem. § 2 Abs. 1 Nr. 6.6 der Zuständigkeitsordnung; 5. Jugendhilfeplanung gem. § 80 SGB VIII; 6. Programm „Angebote zur Beteiligung von Kindern und Jugendlichen am öffentlichen Leben“; 7. Verteilung der Mittel zur Förderung von Familienbildungs- und Familienerholungsstätten nichtkommunaler Träger. (2) Der Jugendhilfeausschuss - Ausschuss für Kinder, Jugend und Familie ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Satzung für das Jugendamt; 2. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Kinder- und Jugendeinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. m GO; 3. Satzung Private Spielflächen für Kleinkinder; 4. Kölner Stadtordnung, sofern die Bestimmungen zu Spiel- und Bolzplätzen geändert werden; 5. Angelegenheiten der Bürgerzentren/-häuser, soweit Aktivitäten für Kinder, Jugendliche und Familien betroffen sind.
 § 13 Ausschuss Kunst und Kultur
-(1) Dem Ausschuss Kunst und Kultur wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Planung von städtischen Kultureinrichtungen; 2. Baumaßnahmen an und Gestaltung von städtischen Kultureinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
+(1) Dem Ausschuss Kunst und Kultur wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
 Seite 14 von 25
 
-3. Erwerb von Sammlungsgegenständen für die Museen und Archive bei Kaufpreisen von mehr als € 300.000 bis einschl. € 1,5 Mio.; Festlegung eines Limits bei der Ansteigerung von Sammlungsgegenständen für die Museen und Archive von mehr als € 300.000 bis einschl. € 1,5 Mio.;
-4. Förderkonzepte für die Kulturbereiche;
-5. Abbruch und Aufstellung von Denkmälern (z.B. Baudenkmäler, Standbilder), Kunstwerken, Brunnen u. ä. sowie deren Standortbestimmung und -gestaltung bei Kosten bis einschl. € 1,5 Mio. (die Empfehlungen des Kunstbeirates sind zu berücksichtigen);
-6. Baumaßnahmen zur Restaurierung von Denkmälern (z.B. Baudenkmäler, Standbilder, Brunnen), bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
-7. Restaurierung von Kunstwerken und Sammlungsgegenständen für die Museen und die Archive bei Kosten von mehr als € 100.000 bis einschl. € 1 Mio.;
-8. Angelegenheiten nach dem Denkmalschutzgesetz NRW, soweit nicht ein Geschäft der laufenden Verwaltung vorliegt;
-9. Verwendung der Mittel für Sonderausstellungen;
-10. Erstellung von Richtlinien (einschließlich Bewilligungsbedingungen) zur Förderung der Erhaltung von kirchlichen und profanen Bauten;
-11. Verteilung der Mittel zur Förderung der Erhaltung von kirchlichen und profanen Bauten;
-12. institutionelle Förderung nichtstädtischer Einrichtungen in den Bereichen Musik, Theater, Tanz, Literatur, Film, bildende Kunst, Wissenschaft und Forschung;
-(2) Der Ausschuss Kunst und Kultur ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
-1. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung städtischer Kultureinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. l GO;
-2. Entgeltordnungen für die Inanspruchnahme städtischer Kultureinrichtungen;
-3. Satzungen und Benutzungsordnungen für städtische Kultureinrichtungen;
-4. künstlerische Gestaltung in Verbindung mit städtischen Baumaßnahmen im öffentlichen Raum und bei stadtplanerischen Überlegungen;
-5. Angelegenheiten der Film- und Medienkunst sowie kulturwirtschaftliche Projekte.
+1. Planung von städtischen Kultureinrichtungen; 2. Baumaßnahmen an und Gestaltung von städtischen Kultureinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 3. Erwerb von Sammlungsgegenständen für die Museen und Archive bei Kaufpreisen von mehr als € 300.000 bis einschl. € 1,5 Mio.; Festlegung eines Limits bei der Ansteigerung von Sammlungsgegenständen für die Museen und Archive von mehr als € 300.000 bis einschl. € 1,5 Mio.; 4. Förderkonzepte für die Kulturbereiche; 5. Abbruch und Aufstellung von Denkmälern (z.B. Baudenkmäler, Standbilder), Kunstwerken, Brunnen u. ä. sowie deren Standortbestimmung und -gestaltung bei Kosten bis einschl. € 1,5 Mio. (die Empfehlungen des Kunstbeirates sind zu berücksichtigen); 6. Baumaßnahmen zur Restaurierung von Denkmälern (z.B. Baudenkmäler, Standbilder, Brunnen), bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 7. Restaurierung von Kunstwerken und Sammlungsgegenständen für die Museen und die Archive bei Kosten von mehr als € 100.000 bis einschl. € 1 Mio.; 8. Angelegenheiten nach dem Denkmalschutzgesetz NRW, soweit nicht ein Geschäft der laufenden Verwaltung vorliegt; 9. Verwendung der Mittel für Sonderausstellungen; 10. Erstellung von Richtlinien (einschließlich Bewilligungsbedingungen) zur Förderung der Erhaltung von kirchlichen und profanen Bauten; 11. Verteilung der Mittel zur Förderung der Erhaltung von kirchlichen und profanen Bauten; 12. institutionelle Förderung nichtstädtischer Einrichtungen in den Bereichen Musik, Theater, Tanz, Literatur, Film, bildende Kunst, Wissenschaft und Forschung; (2) Der Ausschuss Kunst und Kultur ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung städtischer Kultureinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. m GO; 2. Entgeltordnungen für die Inanspruchnahme städtischer Kultureinrichtungen; 3. Satzungen und Benutzungsordnungen für städtische Kultureinrichtungen; 4. künstlerische Gestaltung in Verbindung mit städtischen Baumaßnahmen im öffentlichen Raum und bei stadtplanerischen Überlegungen; 5. Angelegenheiten der Film- und Medienkunst sowie kulturwirtschaftliche Projekte.
 § 14 Liegenschaftsausschuss
 Dem Liegenschaftsausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
-1. Erwerb (inkl. der Ausübung gesetzlicher und vertraglicher Vorkaufsrechte), Veräußerung und Belastung von Grundstücken bei Beträgen von mehr als € 50.000 bis einschl. € 500.000;
-2. Vermietung und Verpachtung städtischer Liegenschaften bei Verträgen mit einer Laufzeit von mehr als fünf bis einschließlich 10 Jahren oder einer Miet- oder Pachtsumme von mehr als € 50.000 bis einschl. € 500.000 innerhalb der Laufzeit;
 Seite 15 von 25
 
-3. Zuerkennung von Räumungsentschädigungen bei Freistellungen im öffentlichen Interesse bei Beiträgen von mehr als € 25.000.; 4. Baumaßnahmen an und Gestaltung von fiskalisch genutzten städtischen Hochbauten bei Kosten von mehr als € 300.000 bis einschließlich € 1,5 Mio.; 5. Bedarfsfeststellungen von Lieferungen und Leistungen für fachliche und dvtechnische Aufgaben der Liegenschafts-, Vermessungs- und Katasterverwaltung einschließlich des Geodatenmanagements bei Auftragswerten von mehr als € 100.000 bis einschließlich € 1 Mio.
+1. Erwerb (inkl. der Ausübung gesetzlicher und vertraglicher Vorkaufsrechte), Veräußerung und Belastung von Grundstücken bei Beträgen von mehr als € 50.000 bis einschl. € 500.000;
+2. Vermietung und Verpachtung städtischer Liegenschaften bei Verträgen mit einer Laufzeit von mehr als fünf bis einschließlich 10 Jahren oder einer Miet- oder Pachtsumme von mehr als € 50.000 bis einschl. € 500.000 innerhalb der Laufzeit;
+3. Zuerkennung von Räumungsentschädigungen bei Freistellungen im öffentlichen Interesse bei Beiträgen von mehr als € 25.000.;
+4. Baumaßnahmen an und Gestaltung von fiskalisch genutzten städtischen Hochbauten bei Kosten von mehr als € 300.000 bis einschließlich € 1,5 Mio.;
+5. Bedarfsfeststellungen von Lieferungen und Leistungen für fachliche und dvtechnische Aufgaben der Liegenschafts-, Vermessungs- und Katasterverwaltung einschließlich des Geodatenmanagements bei Auftragswerten von mehr als € 100.000 bis einschließlich € 1 Mio.
 § 15 Rechnungsprüfungsausschuss
-(1) Die Aufgaben und Zuständigkeiten des Rechnungsprüfungsausschusses ergeben sich aus dem Gesetz und der Rechnungsprüfungsordnung der Stadt Köln. (2) Das Rechnungsprüfungsamt legt Berichte über wichtige Prüfungen, über Prüfungen im Rahmen von übertragenen Aufgaben gem. § 103 Abs. 2 GO sowie über Prüfungen, die es in besonderem Auftrag des Rates, des Rechnungsprüfungsausschusses oder der Oberbürgermeisterin/des Oberbürgermeisters durchgeführt hat, der Oberbürgermeisterin/dem Oberbürgermeister und dem Rechnungsprüfungsausschuss vor.
+(1) Die Aufgaben und Zuständigkeiten des Rechnungsprüfungsausschusses ergeben sich aus dem Gesetz und der Rechnungsprüfungsordnung der Stadt Köln.
+(2) Das Rechnungsprüfungsamt legt Berichte über wichtige Prüfungen, über Prüfungen im Rahmen von übertragenen Aufgaben gem. § 103 Abs. 2 GO sowie über Prüfungen, die es in besonderem Auftrag des Rates, des Rechnungsprüfungsausschusses oder der Oberbürgermeisterin/des Oberbürgermeisters durchgeführt hat, der Oberbürgermeisterin/dem Oberbürgermeister und dem Rechnungsprüfungsausschuss vor.
 § 16 Ausschuss für Schule und Weiterbildung
-(1) Dem Ausschuss für Schule und Weiterbildung wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Recht zur Einladung des/der ernannten Schulleiters/in gem. § 61 Abs. 1 S. 3 Schulgesetz NRW; 2. Planung städtischer Schul- und Weiterbildungseinrichtungen; 3. Baumaßnahmen an und Gestaltung von städtischen Schul- und Weiterbildungseinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 4. Namensgebung von Sonderschulen, Gesamtschulen und Berufskollegs; 5. Anträge auf Genehmigung von Schulversuchen. (2) Der Ausschuss für Schule und Weiterbildung ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Grundsatzfragen in Schul- und Weiterbildungsangelegenheiten; 2. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Schul- und Weiterbildungseinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. l GO; 3. Einrichtung, Änderung und Auflösung zusätzlicher Hilfsangebote im schulergänzenden Bereich;
+(1) Dem Ausschuss für Schule und Weiterbildung wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
+1. Recht zur Einladung des/der ernannten Schulleiters/in gem. § 61 Abs. 1 S. 3 Schulgesetz NRW;
+2. Planung städtischer Schul- und Weiterbildungseinrichtungen;
+3. Baumaßnahmen an und Gestaltung von städtischen Schul- und Weiterbildungseinrichtungen bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
+4. Namensgebung von Sonderschulen, Gesamtschulen und Berufskollegs;
+5. Anträge auf Genehmigung von Schulversuchen.
+(2) Der Ausschuss für Schule und Weiterbildung ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
+1. Grundsatzfragen in Schul- und Weiterbildungsangelegenheiten;
 Seite 16 von 25
 
+2. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Schul- und Weiterbildungseinrichtungen im Sinne des § 41 Abs. 1 Satz 2 lit. m GO;
+3. Einrichtung, Änderung und Auflösung zusätzlicher Hilfsangebote im schulergänzenden Bereich;
 4. Satzungen, Benutzungs- und Entgeltordnungen, Gebührensatzungen und Honorarordnungen für städtische Schul- und Weiterbildungseinrichtungen (auch für einrichtungsfremde Zwecke);
 5. Rechtsverordnungen über Schulbezirke und Schuleinzugsbereiche.
 § 17 Ausschuss für Soziales und Senioren
@@ -274,40 +286,55 @@ Seite 16 von 25
 1. Grundsatzfragen in allen Angelegenheiten der Leistungen nach SGB XII und SGB II;
 2. Interkulturelle Grundsatzangelegenheiten und Interkulturelles Maßnahmenprogramm einschließlich Flüchtlingspolitik;
 3. Plan für ein seniorenfreundliches Köln/Hilfen für ältere Menschen;
-4. Hilfen für Menschen mit Behinderungen;
-5. Grundsatzfragen zur Unterbringung von Wohnungslosen;
-6. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Sozialeinrichtungen einschließlich der Bürgerzentren/-häuser im Sinne des § 41 Abs. 1 Satz 2 lit. l GO;
 Seite 17 von 25
 
-7. Angelegenheiten der Bürgerzentren/-häuser (soweit der Ausschuss nicht selbst entscheidungsbefugt ist), der sozialkulturellen Zentren, der Sozialraumkonzepte, der Gemeinwesenarbeit und des Programms ‚Pro Veedel‘ sowie sonstiger Beschäftigungsmaßnahmen; 8. Einzelmaßnahmen zur Hilfe für Drogenabhängige; 9. Wahlordnung für die Wahl der Seniorenvertretung der Stadt Köln; 10. Förderung des sozialen Wohnungsbaus; 11. Stadtentwicklungskonzept Wohnen.
+4. Hilfen für Menschen mit Behinderungen;
+5. Grundsatzfragen zur Unterbringung von Wohnungslosen;
+6. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Sozialeinrichtungen einschließlich der Bürgerzentren/-häuser im Sinne des § 41 Abs. 1 Satz 2 lit. m GO;
+7. Angelegenheiten der Bürgerzentren/-häuser (soweit der Ausschuss nicht selbst entscheidungsbefugt ist), der sozialkulturellen Zentren, der Sozialraumkonzepte, der Gemeinwesenarbeit und des Programms ‚Pro Veedel‘ sowie sonstiger Beschäftigungsmaßnahmen;
+8. Einzelmaßnahmen zur Hilfe für Drogenabhängige;
+9. Wahlordnung für die Wahl der Seniorenvertretung der Stadt Köln;
+10. Förderung des sozialen Wohnungsbaus;
+11. Stadtentwicklungskonzept Wohnen.
 § 18 Sportausschuss
-(1) Dem Sportausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Planung von städtischen Sporthochbauten, ungedeckten Sportanlagen und Bädern; 2. Baumaßnahmen an und Gestaltung von städtischen Sporthochbauten, ungedeckten Sportanlagen und Bädern bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.; 3. Erstellung von Raumprogrammen für städtische Sporthochbauten, ungedeckte Sportanlagen und Bäder; 4. Änderung des Ratsbeschlusses „Finanzielle Sportförderung der Stadt Köln – Richtlinien“; 5. Erstellung von gesamtstädtischen Prioritätenlisten für Maßnahmen an Sportanlagen; 6. Verleihung von Sportehrenurkunden gemäß Richtlinien über die Auszeichnung der Stadt Köln für hervorragende sportliche Leistungen und Verdienste für den Kölner Sport; 7. Erwerb von Fahrzeugen und Geräten zur Gestaltung, Unterhaltung/Instandsetzung und Pflege von Sportanlagen bei Kosten von mehr als € 100.000 pro Fahrzeug bzw. Gerät. (2) Der Sportausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Sporteinrichtungen und Bädern im Sinne des § 41 Abs. 1 Satz 2 lit. l GO; 2. Sportstättensatzung; 3. allgemeine Regelungen des Entgelts für die Inanspruchnahme von Sportstätten; 4. Vermietung und Verpachtung städtischer Sporteinrichtungen und Bäder.
+(1) Dem Sportausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
+1. Planung von städtischen Sporthochbauten, ungedeckten Sportanlagen und Bädern;
+2. Baumaßnahmen an und Gestaltung von städtischen Sporthochbauten, ungedeckten Sportanlagen und Bädern bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
+3. Erstellung von Raumprogrammen für städtische Sporthochbauten, ungedeckte Sportanlagen und Bäder;
+4. Änderung des Ratsbeschlusses „Finanzielle Sportförderung der Stadt Köln – Richtlinien“;
+5. Erstellung von gesamtstädtischen Prioritätenlisten für Maßnahmen an Sportanlagen;
+6. Verleihung von Sportehrenurkunden gemäß Richtlinien über die Auszeichnung der Stadt Köln für hervorragende sportliche Leistungen und Verdienste für den Kölner Sport;
+7. Erwerb von Fahrzeugen und Geräten zur Gestaltung, Unterhaltung/Instandsetzung und Pflege von Sportanlagen bei Kosten von mehr als € 100.000 pro Fahrzeug bzw. Gerät.
+(2) Der Sportausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
+1. Errichtung, Übernahme, Erweiterung, Einschränkung und Auflösung von städtischen Sporteinrichtungen und Bädern im Sinne des § 41 Abs. 1 Satz 2 lit. m GO;
+2. Sportstättensatzung;
 Seite 18 von 25
 
+3. allgemeine Regelungen des Entgelts für die Inanspruchnahme von Sportstätten; 4. Vermietung und Verpachtung städtischer Sporteinrichtungen und Bäder.
 § 19 Stadtentwicklungsausschuss
-(1) Dem Stadtentwicklungsausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Auslobung und Auswertung der Ergebnisse von städtebaulichen Wettbewerben; 2. Stellungnahmen in Raumordnungsverfahren nach dem Landesplanungsgesetz NRW; 3. Bauleitplanung, Vorhaben- und Erschließungsplanverfahren und sonstige Satzungsverfahren auf der Grundlage des BauGB und des MaßnahmenG zum BauGB, soweit die Entscheidung nicht gem. § 41 Abs. 1 Satz 2 lit. g GO dem Rat obliegt; 4. städtebauliche Einzelbeschlüsse und Blockkonzepte in den vom Rat förmlich festgelegten Sanierungs-, Ersatz- und Ergänzungsgebieten; 5. Stellungnahmen der Stadt Köln zu Planungsvorhaben Dritter inner- und außerhalb Kölns von wesentlicher Bedeutung sowie im Rahmen von Planfeststellungsverfahren außer in Fällen der Stadtentwässerungsbetriebe Köln; 6. Stadtgestaltungsprogramme und Stadtgestaltungskonzepte; 7. Geschäftsordnung des Gestaltungsbeirates, Kenntnisnahme der Tagesordnungen des Gestaltungsbeirates, Kenntnisnahme der Ergebnisse des Gestaltungsbeirates. (2) Der Stadtentwicklungsausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. städtebauliche Großprojekte; 2. Entscheidungen des Rates gem. § 41 Abs. 1 Satz 2 lit. g GO NRW, es sei denn, nach der öffentlichen Auslegung sind keine Stellungnahmen eingegangen und der Stadtentwicklungsausschuss verzichtet auf die Vorberatung im Einzelfall; 3. Gestaltungssatzungen, Baugestaltungssatzungen; 4. Energieversorgungskonzept und Maßnahmen zur Energieeinsparung; 5. Gewerbeflächengesamtplan einschließlich Büroflächen; 6. Zentren- und Einzelhandelskonzepte; 7. Städtebauförderungsprogramme; 8. Jahresprogramme für Gebiete mit besonderem Erneuerungsbedarf; 9. Fortschreibung des Gesamtkonzeptes der Stadtentwicklungsplanung und seiner fachlichen und räumlichen Konkretisierungen; 10. räumliche Entwicklungsplanungen und Rahmenplanungen; 11. Regionalplanung einschließlich Gebietsentwicklungsplanung; 12. Stadtentwicklungskonzept Wohnen; 13. städtebauliche Entwicklungsmaßnahmen gem. § 165 BauGB; 14. Gestaltung des Öffentlichen Raumes.
+(1) Dem Stadtentwicklungsausschuss wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. Auslobung und Auswertung der Ergebnisse von städtebaulichen Wettbewerben; 2. Stellungnahmen in Raumordnungsverfahren nach dem Landesplanungsgesetz NRW; 3. Bauleitplanung, Vorhaben- und Erschließungsplanverfahren und sonstige Satzungsverfahren auf der Grundlage des BauGB und des MaßnahmenG zum BauGB, soweit die Entscheidung nicht gem. § 41 Abs. 1 Satz 2 lit. g GO dem Rat obliegt; 4. städtebauliche Einzelbeschlüsse und Blockkonzepte in den vom Rat förmlich festgelegten Sanierungs-, Ersatz- und Ergänzungsgebieten; 5. Stellungnahmen der Stadt Köln zu Planungsvorhaben Dritter inner- und außerhalb Kölns von wesentlicher Bedeutung sowie im Rahmen von Planfeststellungsverfahren außer in Fällen der Stadtentwässerungsbetriebe Köln; 6. Stadtgestaltungsprogramme und Stadtgestaltungskonzepte; 7. Geschäftsordnung des Gestaltungsbeirates, Kenntnisnahme der Tagesordnungen des Gestaltungsbeirates, Kenntnisnahme der Ergebnisse des Gestaltungsbeirates. (2) Der Stadtentwicklungsausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. städtebauliche Großprojekte; 2. Entscheidungen des Rates gem. § 41 Abs. 1 Satz 2 lit. g GO NRW, es sei denn, nach der öffentlichen Auslegung sind keine Stellungnahmen eingegangen und der Stadtentwicklungsausschuss verzichtet auf die Vorberatung im Einzelfall; 3. Gestaltungssatzungen, Baugestaltungssatzungen; 4. Energieversorgungskonzept und Maßnahmen zur Energieeinsparung; 5. Gewerbeflächengesamtplan einschließlich Büroflächen; 6. Zentren- und Einzelhandelskonzepte; 7. Städtebauförderungsprogramme; 8. Jahresprogramme für Gebiete mit besonderem Erneuerungsbedarf; 9. Fortschreibung des Gesamtkonzeptes der Stadtentwicklungsplanung und seiner fachlichen und räumlichen Konkretisierungen; 10. räumliche Entwicklungsplanungen und Rahmenplanungen; 11. Regionalplanung einschließlich Gebietsentwicklungsplanung; 12. Stadtentwicklungskonzept Wohnen; 13. städtebauliche Entwicklungsmaßnahmen gem. § 165 BauGB;
 Seite 19 von 25
 
+14. Gestaltung des Öffentlichen Raumes.
 § 20 Ausschuss Umwelt und Grün
 (1) Dem Ausschuss Umwelt und Grün wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
 1. Planung von Grünverbindungen, Grün- und Parkanlagen, Friedhöfen, Kleingartenanlagen, Weihern und Bächen, Forsteinrichtungen und Wäldern sowie Lärmschutzwällen (einschließlich entsprechender Bauwerke);
 2. Baumaßnahmen an sowie Gestaltung und Renaturierung von Grünverbindungen, Grün- und Parkanlagen, Friedhöfen, Kleingartenanlagen, Weihern und Bächen, Forsteinrichtungen und Wäldern sowie Lärmschutzwällen (einschließlich entsprechender Bauwerke) bei Kosten von mehr als € 300.000 bis einschl. € 1,5 Mio.;
-3. Leitlinien und Maßnahmen zum Umweltschutzprogramm bei Kosten von mehr als € 100.000 bis einschl. € 1 Mio. (bei Baumaßnahmen von mehr als € 300.000 bis einschl. € 1,5 Mio.);
-4. Maßnahmen zum Artenschutz (bei Baumaßnahmen von mehr als € 300.000 bis einschl. € 1,5 Mio.);
-5. abfallwirtschaftliche Grundsatzentscheidungen sowie Anpassung des Abfallwirtschaftskonzeptes an neue Gegebenheiten; Grundsatzentscheidungen zur Wertstoffsortierung am Kölner Großmarkt;
-6. Abstimmung zwischen der Stadt Köln und der Abfallentsorgungs- und Verwertungsgesellschaft Köln mbH (AVG) hinsichtlich Planung, Bau und Betrieb von Abfallverwertungsanlagen;
-7. Eingriffe in Natur und Landschaft i. S. d. Bundesnaturschutzgesetzes und des Landesnaturschutzgesetzes NRW, soweit es sich nicht um Geschäfte der laufenden Verwaltung oder den Vollzug von Festsetzungen in der Bauleitplanung handelt;
-8. Umsetzung des Landschaftsplanes;
-9. Aufstellung Wirtschaftsplan städtischer Wald;
-10. Widersprüche des Beirates der unteren Naturschutzbehörde gegen beabsichtigte Befreiungen von Geboten und Verboten gem. § 67 Bundesnaturschutzgesetz;
-11. Erwerb von Fahrzeugen und Geräten zur Gestaltung, Unterhaltung / Instandsetzung und Pflege von Grünverbindungen, Grün- und Parkanlagen, Friedhöfen, Kleingartenanlagen, Weihern und Bächen, Kinderspielplätzen, Forsteinrichtungen und Wäldern sowie Lärmschutzwällen bei Kosten von mehr als € 100.000 pro Fahrzeug und Gerät;
-12. Einzelmaßnahmen aus den Bereichen des Abs. 2 Nr. 3, 4, 5, 7 und 20 bei Baumaßnahmen von mehr als € 300.000 bis einschl. € 1,5 Mio.;
-13. Zustimmung zu Entscheidungen des Verwaltungsrates der StEB über Aufstellung und Änderung des Hochwasserschutzkonzeptes.
+3. Maßnahmen zum Artenschutz (bei Baumaßnahmen von mehr als € 300.000 bis einschl. € 1,5 Mio.);
+4. abfallwirtschaftliche Grundsatzentscheidungen sowie Anpassung des Abfallwirtschaftskonzeptes an neue Gegebenheiten; Grundsatzentscheidungen zur Wertstoffsortierung am Kölner Großmarkt;
+5. Abstimmung zwischen der Stadt Köln und der Abfallentsorgungs- und Verwertungsgesellschaft Köln mbH (AVG) hinsichtlich Planung, Bau und Betrieb von Abfallverwertungsanlagen;
+6. Eingriffe in Natur und Landschaft i. S. d. Bundesnaturschutzgesetzes und des Landesnaturschutzgesetzes NRW, soweit es sich nicht um Geschäfte der laufenden Verwaltung oder den Vollzug von Festsetzungen in der Bauleitplanung handelt;
+7. Umsetzung des Landschaftsplanes;
+8. Aufstellung Wirtschaftsplan städtischer Wald;
+9. Widersprüche des Beirates der unteren Naturschutzbehörde gegen beabsichtigte Befreiungen von Geboten und Verboten gem. § 67 Bundesnaturschutzgesetz;
+10. Erwerb von Fahrzeugen und Geräten zur Gestaltung, Unterhaltung / Instandsetzung und Pflege von Grünverbindungen, Grün- und Parkanlagen, Friedhöfen, Kleingartenanlagen, Weihern und Bächen, Kinderspielplätzen, Forsteinrichtungen und Wäldern sowie Lärmschutzwällen bei Kosten von mehr als € 100.000 pro Fahrzeug und Gerät;
+11. Einzelmaßnahmen aus den Bereichen des Abs. 2 Nr. 3, 4, 5, 7 und 16 bei Baumaßnahmen von mehr als € 300.000 bis einschl. € 1,5 Mio.;
+12. Zustimmung zu Entscheidungen des Verwaltungsrates der StEB über Aufstellung und Änderung des Hochwasserschutzkonzeptes.
 (2) Der Ausschuss Umwelt und Grün ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
 1. Landschaftsplanung, Landschaftsplan;
+2. Abwasserbeseitigungskonzept / Abwasserkonzept 2000, Abwassersatzung, Schmutzwassergrubensatzung;
 Seite 20 von 25
 
-2. Abwasserbeseitigungskonzept / Abwasserkonzept 2000, Abwassersatzung, Schmutzwassergrubensatzung;
 3. Grundsatzfragen in den Bereichen Gewässerschutz, Schutz des Bodens, Luftreinhaltung und Stadtklima;
 4. Grundsatzfragen des Tierschutzes;
 5. Grundsatzfragen der Sanierung von Altlasten / Sanierung kontaminierter städtischer Gebäude und Grundstücke;
@@ -328,9 +355,24 @@ Seite 20 von 25
 2. Maßnahmenprogramme (Erschließungsprogramm Straßenbau, Straßen- und Radwegeunterhaltungsprogramm, Radverkehrskonzepte und Erneuerungsprogramm Lichtsignalanlagen) einschließlich Aufstellung der gesamtstädtischen Prioritätenlisten für diese Programme;
 Seite 21 von 25
 
-3. Verkehrsführungen, verkehrsregelnde und –einschränkende Maßnahmen, Einbahnstraßenregelungen, Einrichtung und Änderung von Bus- und Taxispuren, soweit es sich nicht um Geschäfte der laufenden Verwaltung handelt; 4. Anordnung der Kostenspaltung gem. Erschließungsbeitragssatzung der Stadt Köln; 5. Hingabe von Darlehen nach Maßgabe der Richtlinien der Stadt Köln über die Durchführung von Hilfsmaßnahmen bei Beeinträchtigungen durch Baumaßnahmen der Stadt Köln bei Darlehensbeträgen von mehr als € 150.000; 6. Erstellung gesamtstädtischer Prioritätenlisten für Anlagen zur Schulwegsicherung, Errichtung von Tempo-30-Zonen und von Gebieten mit Anwohnerparkvorrechten; 7. Erwerb von Fahrzeugen und Geräten im Tiefbaubereich bei Kosten von mehr als € 100.000 pro Fahrzeug bzw. Gerät; 8. Festsetzung des Nutzungsentgeltes bei der Inanspruchnahme von Straßenland nach § 23 Straßen- und Wegegesetz NRW bzw. § 8 Abs. 10 Bundesfernstraßengesetz bei Beträgen von mehr als € 250.000 im Einzelfall; 9. Feststellung des Bedarfs für die Beauftragung von Planungsleistungen, Gutachten und sonstigen freiberuflichen Tätigkeiten im Stadtbahnbau bei Honorarkosten von mehr als € 250.000; 10. Widmung, Einziehung und Umstufung von Straßen, Wegen und Plätzen, soweit von überbezirklicher Bedeutung; 11. Verwendung der für die Ablösung von Kfz-Stellplätzen eingenommenen Beträge unter Beachtung der in Ziffer 5 des Ratsbeschlusses vom 28.01.1988, TOP 5.1.1, Beschlussbuch-Nr. 3323 festgelegten vorrangigen Verwendungen; 12. Grundsatzfragen zur Verbesserung des öffentlichen Personennahverkehrs (ÖPNV) und zur Verbesserung der Verkehrslenkung;
-13. Nahverkehrsplan, mit Ausnahme der Entscheidungsbefugnisse des Finanzausschusses und abschließender Beschlüsse zur Fortschreibung/Neufassung des Nahverkehrsplanes. (2) Der Verkehrsausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen: 1. Grundsatzfragen der Beleuchtung an Straßen, Wegen und Plätzen; 2. Gesamtverkehrskonzept (konzeptionelle Planung der Verkehrsnetze, des Parkraumes und der Park+Ride-Plätze); 3. Erschließungsbeitragssatzung, Satzung über die Erhebung von Beiträgen nach § 8 Abs. 1 Satz 2 KAG für straßenbauliche Maßnahmen, Parkgebührenordnung, Sondernutzungssatzung;
-4. Gewässerentwicklungskonzept, Hochwasserschutzkonzept; 5. Grundsatzfragen der Elektromobilität; 6. Konzepte für den Wirtschaftsverkehr (Lkw-Führungskonzept, Güterverkehrskonzept, alternative Logistikkonzepte).
+3. Verkehrsführungen, verkehrsregelnde und –einschränkende Maßnahmen, Einbahnstraßenregelungen, Einrichtung und Änderung von Bus- und Taxispuren, soweit es sich nicht um Geschäfte der laufenden Verwaltung handelt;
+4. Anordnung der Kostenspaltung gem. Erschließungsbeitragssatzung der Stadt Köln;
+5. Hingabe von Darlehen nach Maßgabe der Richtlinien der Stadt Köln über die Durchführung von Hilfsmaßnahmen bei Beeinträchtigungen durch Baumaßnahmen der Stadt Köln bei Darlehensbeträgen von mehr als € 150.000;
+6. Erstellung gesamtstädtischer Prioritätenlisten für Anlagen zur Schulwegsicherung, Errichtung von Tempo-30-Zonen und von Gebieten mit Anwohnerparkvorrechten;
+7. Erwerb von Fahrzeugen und Geräten im Tiefbaubereich bei Kosten von mehr als € 100.000 pro Fahrzeug bzw. Gerät;
+8. Festsetzung des Nutzungsentgeltes bei der Inanspruchnahme von Straßenland nach § 23 Straßen- und Wegegesetz NRW bzw. § 8 Abs. 10 Bundesfernstraßengesetz bei Beträgen von mehr als € 250.000 im Einzelfall;
+9. Feststellung des Bedarfs für die Beauftragung von Planungsleistungen, Gutachten und sonstigen freiberuflichen Tätigkeiten im Stadtbahnbau bei Honorarkosten von mehr als € 250.000;
+10. Widmung, Einziehung und Umstufung von Straßen, Wegen und Plätzen, soweit von überbezirklicher Bedeutung;
+11. Verwendung der für die Ablösung von Kfz-Stellplätzen eingenommenen Beträge unter Beachtung der in Ziffer 5 des Ratsbeschlusses vom 28.01.1988, TOP 5.1.1, Beschlussbuch-Nr. 3323 festgelegten vorrangigen Verwendungen;
+12. Grundsatzfragen zur Verbesserung des öffentlichen Personennahverkehrs (ÖPNV) und zur Verbesserung der Verkehrslenkung;
+13. Nahverkehrsplan, mit Ausnahme der Entscheidungsbefugnisse des Finanzausschusses und abschließender Beschlüsse zur Fortschreibung/Neufassung des Nahverkehrsplanes.
+(2) Der Verkehrsausschuss ist insbesondere in folgenden Angelegenheiten vorberatend im Sinne des § 1 Abs. 5 dieser Zuständigkeitsordnung zu beteiligen:
+1. Grundsatzfragen der Beleuchtung an Straßen, Wegen und Plätzen;
+2. Gesamtverkehrskonzept (konzeptionelle Planung der Verkehrsnetze, des Parkraumes und der Park+Ride-Plätze);
+3. Erschließungsbeitragssatzung, Satzung über die Erhebung von Beiträgen nach § 8 Abs. 1 Satz 2 KAG für straßenbauliche Maßnahmen, Parkgebührenordnung, Sondernutzungssatzung;
+4. Gewässerentwicklungskonzept, Hochwasserschutzkonzept;
+5. Grundsatzfragen der Elektromobilität;
+6. Konzepte für den Wirtschaftsverkehr (Lkw-Führungskonzept, Güterverkehrskonzept, alternative Logistikkonzepte).
 Seite 22 von 25
 
 § 22 Wirtschaftsausschuss
@@ -338,32 +380,17 @@ Seite 22 von 25
 III. Zuständigkeiten der Oberbürgermeisterin/des Oberbürgermeisters
 § 23 Zuständigkeiten der Oberbürgermeisterin/des Oberbürgermeisters
 gem. § 41 Abs. 2 GO
-Der Oberbürgermeisterin/dem Oberbürgermeister wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen: 1. bezüglich Personal- und Rechtsfragen:
+Der Oberbürgermeisterin/dem Oberbürgermeister wird die Entscheidungsbefugnis in folgenden Angelegenheiten übertragen:
 Seite 23 von 25
 
-a) Erlass von Widerspruchsbescheiden gem. § 54 Abs. 3 BeamtStG, soweit nicht der Rat den zugrunde liegenden Verwaltungsakt selbst erlassen hat;
-b) Ausübung der sonstigen beamtenrechtlichen Befugnisse, die dem Rat als oberster Dienstbehörde nach den Bestimmungen des Beamtenrechts zustehen, soweit die Entscheidung nicht aufgrund der Bestimmungen des Beamtenrechts oder der GO unübertragbar ist; die Zustimmungserfordernisse durch den Hauptausschuss gem. § 28 der Hauptsatzung bleiben unberührt;
-c) Klageerwiderungen sowie damit verbundene Anwaltsbeauftragungen;
-2. bezüglich Finanzen:
-a) Stundung von Ansprüchen gem. § 27 Abs. 1 KomHVO NRW;
-b) Niederschlagung von Ansprüchen gem. § 27 Abs. 2 KomHVO NRW;
-c) Stundung, Niederschlagung und Erlass öffentlicher Abgaben im Sinne des KAG und der AO nach den hierüber bestehenden besonderen Vorschriften;
-d) Aufnahme von Krediten und Kassenkrediten im Rahmen der durch die Haushaltssatzung jeweils festgesetzten Höchstbeträge;
-3. Entscheidungen über Widersprüche gegen Verwaltungsakte aller Art, soweit gesetzlich nicht eine andere Zuständigkeit zwingend vorgeschrieben ist; für den Erlass von Widerspruchsbescheiden gem. § 54 Abs. 3 BeamtStG gilt § 23 Nr. 1 lit. a dieser Zuständigkeitsordnung;
-4. Abschluss von Erschließungsverträgen i. S. d. BauGB;
-5. Abwägungsentscheidungen im Rahmen von § 125 Abs. 2 BauGB.
+1. bezüglich Personal- und Rechtsfragen: a) Erlass von Widerspruchsbescheiden gem. § 54 Abs. 3 BeamtStG, soweit nicht
+der Rat den zugrunde liegenden Verwaltungsakt selbst erlassen hat; b) Ausübung der sonstigen beamtenrechtlichen Befugnisse, die dem Rat als
+oberster Dienstbehörde nach den Bestimmungen des Beamtenrechts zustehen, soweit die Entscheidung nicht aufgrund der Bestimmungen des Beamtenrechts oder der GO unübertragbar ist; die Zustimmungserfordernisse durch den Hauptausschuss gem. § 28 der Hauptsatzung bleiben unberührt; c) Klageerwiderungen sowie damit verbundene Anwaltsbeauftragungen; 2. bezüglich Finanzen: a) Stundung von Ansprüchen gem. § 27 Abs. 1 KomHVO NRW; b) Niederschlagung von Ansprüchen gem. § 27 Abs. 2 KomHVO NRW; c) Stundung, Niederschlagung und Erlass öffentlicher Abgaben im Sinne des KAG und der AO nach den hierüber bestehenden besonderen Vorschriften; d) Aufnahme von Krediten und Kassenkrediten im Rahmen der durch die Haushaltssatzung jeweils festgesetzten Höchstbeträge; 3. Entscheidungen über Widersprüche gegen Verwaltungsakte aller Art, soweit gesetzlich nicht eine andere Zuständigkeit zwingend vorgeschrieben ist; für den Erlass von Widerspruchsbescheiden gem. § 54 Abs. 3 BeamtStG gilt § 23 Nr. 1 lit. a dieser Zuständigkeitsordnung; 4. Abschluss von Erschließungsverträgen i. S. d. BauGB; 5. Abwägungsentscheidungen im Rahmen von § 125 Abs. 2 BauGB.
 § 24 Geschäfte der laufenden Verwaltung (§ 41 Abs. 3 GO)
-(1) Ein Geschäft der laufenden Verwaltung liegt in all den Fällen vor, in denen die Wertuntergrenzen für die Zuständigkeit von Ausschüssen unterschritten werden. Im Übrigen liegt ein Geschäft der laufenden Verwaltung auch in den folgenden Fällen vor:
-1. bezüglich Personal- und Rechtsfragen bei:
-a) der Erteilung von Aussagegenehmigungen für städtische Bedienstete;
-b) der Gewährung von Lohn- und Gehaltsvorschüssen nach Maßgabe der dazu ergangenen Ratsbeschlüsse und der Richtlinien über die Gewährung von Vorschüssen in besonderen Fällen (MBl.NW 1976, S. 1235); Hauptausschuss gem. § 28 der Hauptsatzung bleiben unberührt;
-2. im Bereich Bau und Verkehr bei:
-a) der Erteilung von Sondernutzungserlaubnissen für Straßen, Wege und Plätze, mit Ausnahme der Fälle des § 8 Abs. 1 Ziff. 7 lit. b dieser Zuständigkeitsordnung;
-b) Verkehrszählungen, soweit sie nicht Bestandteil von Planungen sind;
-3. bezüglich Finanzen bei: der Hingabe von Darlehen bei Darlehensbeträgen bis einschl. € 50.000, soweit diese Zuständigkeitsordnung keine besondere Regelung vorsieht;
-4. im Jugendbereich bei: Gruppenumwandlungen bei Kindertageseinrichtungen;
+(1) Ein Geschäft der laufenden Verwaltung liegt in all den Fällen vor, in denen die Wertuntergrenzen für die Zuständigkeit von Ausschüssen unterschritten werden. Im Übrigen liegt ein Geschäft der laufenden Verwaltung auch in den folgenden Fällen vor: 1. bezüglich Personal- und Rechtsfragen bei: a) der Erteilung von Aussagegenehmigungen für städtische Bedienstete; b) der Gewährung von Lohn- und Gehaltsvorschüssen nach Maßgabe der dazu
+ergangenen Ratsbeschlüsse und der Richtlinien über die Gewährung von Vorschüssen in besonderen Fällen (MBl.NW 1976, S. 1235); Hauptausschuss gem. § 28 der Hauptsatzung bleiben unberührt; 2. im Bereich Bau und Verkehr bei: a) der Erteilung von Sondernutzungserlaubnissen für Straßen, Wege und Plätze, mit Ausnahme der Fälle des § 8 Abs. 1 Ziff. 7 lit. b dieser Zuständigkeitsordnung; b) Verkehrszählungen, soweit sie nicht Bestandteil von Planungen sind;
 Seite 24 von 25
 
-5. im Bereich Kunst und Kultur bei: a) der Verteilung der Mittel zur Förderung von Musik, Theater, Tanz, Literatur, Film,
+3. bezüglich Finanzen bei: der Hingabe von Darlehen bei Darlehensbeträgen bis einschl. € 50.000, soweit diese Zuständigkeitsordnung keine besondere Regelung vorsieht; 4. im Jugendbereich bei: Gruppenumwandlungen bei Kindertageseinrichtungen; 5. im Bereich Kunst und Kultur bei: a) der Verteilung der Mittel zur Förderung von Musik, Theater, Tanz, Literatur, Film,
 bildender Kunst, Wissenschaft und Forschung außerhalb der Einrichtungen der Stadt Köln (mit Ausnahme der institutionellen Förderung); b) der Eintragung in die Denkmalliste gem. § 3 Abs. 1 Denkmalschutzgesetz NRW, sowie bei der Löschung aus der Denkmalliste; 6. im Schulbereich bei: a) der Einrichtung von Schulbuslinien; b) der Entsendung eines stimmberechtigten Vertreters des Schulträgers in die Schulkonferenz gem. § 61 Abs. 2 Satz 2 SchulG NRW 7. im Sportbereich bei: a) der Entscheidung über die Gewährung von Beihilfen und Ausfallgarantien zur Förderung von Turn- und Sportvereinen nach Maßgabe des Ratsbeschlusses „Finanzielle Sportförderung der Stadt Köln – Richtlinien“; b) der Entscheidung über die Gewährung von Ausnahmeregelungen nach dem Ratsbeschluss „Finanzielle Sportförderung der Stadt Köln – Richtlinien“; 8. bei der Vergabe von Baumaßnahmen, Liefer- und Dienstleistungen sowie freiberuflichen Leistungen, sofern nicht nach § 5 Abs. 3 Satz 3 dieser Zuständigkeitsordnung das für die Bedarfsfeststellung zuständige Gremium auch über die Vergabe entscheidet; 9. bei der Annahme von Schenkungen aller Art (z. B. Geld, Forderungen, Sachen, Dienstleistungen) im Wert bis einschl. € 30.000, soweit die Schenkungen nicht mit Auflagen verbunden sind, deren Erfüllung bei der Stadt Kosten verursacht; 10. bei Abschluss eines Sponsoringvertrages, bei denen die Leistungen des Sponsors einen Betrag von einschließlich € 50.000 nicht überschreitet; 11. bei vorläufigen Maßnahmen zur Erfüllung der Verkehrssicherungspflicht; 12. dem Erwerb von Fahrzeugen bei Kosten bis einschl. € 50.000 pro Fahrzeug, soweit diese Zuständigkeitsordnung keine besondere Regelung vorsieht. 13. bei der Erteilung von Negativattesten sowie dem Abschluss von Abwendungsvereinbarungen über die Nichtausübung von gesetzlichen und vertraglichen Vorkaufsrechten. (2) Bei bezirklichen Angelegenheiten liegt ein Geschäft der laufenden Verwaltung dann vor, wenn die Wertgrenzen des § 2 Abs. 1 unterschritten werden.
 Seite 25 von 25
