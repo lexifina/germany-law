@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150761
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150761
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 3.3.3.: Ortstermin mit Baureferat am 07.10.2019: Gestalterische Überarbeitung des Moosacher Stachus
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Erhöhter Durchgangsverkehr in der Hugo-Troendle-Straße und Zügelstraße
+- TOP 2.2.: BA12: Antrag "Zunehmende "Verparkung" von Gehwegen und Platzflächen" mit der Bitte um Unterstützung
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Andernacher Str. 25-27 2. Andernacher Str. 32-38 3. Dachauer Str. 435-435a
+- TOP 4.: Anträge
+- TOP 4.1.1.: Radfahren in und zu der Grünanlage zwischen Borstei und SWM
+- TOP 4.1.2.: Aufstellung einer Sitzbank in der Pelkovenstraße in Höhe der Hausnummern 50-52
+- TOP 4.1.3.: Informationen über eine geplante Seilbahntrasse von Dachau nach Moosach
+- TOP 4.1.4.: Erweiterung des Umgriffs des Stadtsanierungsgebietes im Rahmen des Projektes "Soziale Stadt" bis zur Landshuter Allee entlang der Olympia-Pressestadt und Prüfung möglicher Lärmschutzmaßnahmen in diesem Bereich
+- TOP 4.3.1.: Anbringen eines Schildes "Signal gilt nicht für Radfahrer" an der T-Kreuzung Dachauer Straße/ Emmy-Noether-Straße
+- TOP 5.1.: (E) Stadtbezirksbudget BIKU e.V. A.PPLAUS Ferienakademie vom 28.-31.10.2019 2.008,31 / Az. 0262.0-10-0195
+- TOP 5.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Einziehung der Gesamtstrecke der Richthofenstraße
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Erweiterung/Vergrößerung eines Obst-/Gemüsestandes auf dem Vorplatz der "Meile Moosach"
+- TOP 6.1.: Nahverkehrsplan der Landeshauptstadt München - Anhörung der Bezirksausschüsse
+- TOP 6.2.: Baumfällungen (Baumschutz): 1. Dieselstr. 5 2. Hans-Beimler-Weg 1 3. Leipziger Str. 129 4. Naumburger Str. 38 5. Prochintalstr. 16 6. Prochintalstr. 23 7. Prochintalstr. 34
+- TOP 6.3.: Entwurf Beschlussvorlage: Schulbauoffensive 2013-2030; 3. Schulbauprogramm, Kita-Bauprogramm 2019
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund: Franz-Marc-Straße: Nikolausfeier am 06.12.2019
+- TOP 6.5.: Entwurf Beschlussvorlage: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs – Zweites Maßnahmenbündel
+- TOP 7.1.: Umsetzung des G9 am Moosacher Gymnasium Gerastr. 6 (Anfrage) [BA-Antrag Nr. 14-20/B 06175; Ziel des RBS der bedarfsorientierten Aufrechterhaltung der 5-Zügigkeit]
+- TOP 7.2.: Einrichtung eines Haltverbotes an der Ecke Nanga-Parbat-/ Ecke Alfred-Drexel-Straße [Antrag aus Kinderforum am 29.04.2019; es erfolgt zusätzliche Markirung der bereits bestehenden Bereiche mit Bordsteinabsenkungen]
+- TOP 7.3.: Grünanlage an der Dietrichstraße: Aufstellen von Hundepollern [Schreiben BA10 vom 09.05.2019; bei der Wiese werden diese wieder angebracht]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Nord-Süd-Grunverbindung (Abdruck Schreiben 3. BMin an Bürger vom 20.09.2019 - Sachstand)
+- TOP 8.3.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB (hier: im 10. Stadtbezirk Moosach) - Jährlicher Sachstandsbericht
+- TOP 8.4.: Wohnungsmarktbeobachtung München: Bericht zur Wohnungssituation in München 2016-2017 (Broschüre) und Wohnungsmarktdaten München 2018 (Flyer)
+- TOP 8.5.: (U) Stadtsanierung in München Untersuchungsgebiet "Moosach" Durchführung eines städtebaulich-freiraumplanerischen Realisierungswettbewerbs für den Bereich Dachauer Straße (südwestlich), Baubergerstraße (südöstlich), Karl-Lipp-Straße (nordöstlich), Windtrichring (nördlich) A) Aktueller Stand und weiteres Vorgehen B) Städtebauförderung, Kosten und Finanzierung Stadtbezirk 10 Moosach
+- TOP 8.6.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 8.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.8.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 8.9.: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP 8.10.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP 8.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.12.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 8.13.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 8.14.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 8.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.16.: Mobilfunk: vertragliche Sicherung des Standortes Am Hartmannshofer Bächl - nicht-öffentlich -
+- TOP 8.17.: Vorkaufsrecht nach dem BauGB: Meggendorfer Straße (Vorkaufsrechtprüfung abgeschlossen) - nicht-öffentlich -
+- TOP 8.18.: Zweckentfremdung von Wohnraum durch Abbruch: - nicht-öffentlich - 1. Waldhornstraße 2. Günzburger Straße
+- TOP 8.19.: WEB - alle Anträge vom 01.09.2019 bis 15.09.2019 - nicht-öffentlich -
