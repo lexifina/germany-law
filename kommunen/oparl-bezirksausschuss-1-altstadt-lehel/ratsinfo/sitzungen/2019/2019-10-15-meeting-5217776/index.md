@@ -1,0 +1,131 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2019-10-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5217776
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5217776
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 2: Protokoll der letzten Sitzung
+- TOP 3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP 4: Anhörungen (ohne Vorbehandlung)
+- TOP 5: Allgemeine Themen
+- TOP 6: Bericht des Vorsitzenden
+- TOP 7: Unterrichtungen (siehe Anlage)
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Sonstige
+- TOP 2.1: Gaststätten
+- TOP 2.2: Sondernutzungen
+- TOP 3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP -: Unterrichtungen
+- TOP B 4.1.: Baulisten
+- TOP C 4.2.: Gaststättenfortführungen
+- TOP A: Allgemeines
+- TOP 4.1.: Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung Kommunalwahlen 2020 (vertagt aus 09.2019)
+- TOP B: Planen, Bauen, Wohnen
+- TOP 1.1.: Uhr Maximilian- Ecke Thierschstraße, Bürgeranliegen
+- TOP 3.1.1.: Viktualienmarkt 5, Errichtung eines erdgeschossigen Anbaus (vertagt aus 09.2019)
+- TOP 3.1.2.: Neuhauser Str. 15, Umbau und Sanierung der Passage im EG (vertagt aus 09.2019)
+- TOP 3.1.3.: Knöbelstr. 6 a, Nutzungsänderung Dachgeschoss zu Speicher sowie Änderung einer Dachgaube zu einer Loggia
+- TOP 3.1.4.: Steinsdorfstr. 5, Nutzungsänderung von Büros zu Wohnungen (5. OG) sowie Erweiterung einer Praxis (EG) und Zusammenlegung von Wohnungen zu einer Wohnung im 2. u. 6. OG
+- TOP 3.1.5.: Hochbrückenstr. 20 – TEKTUR, Neubau eines Rückgebäudes mit 4 Gästeappartments und Wohnbereich (Townhouse)
+- TOP 3.2.1.: Karl-Scharnagl-Ring Werbeanlage 1 City-Light-Säule Nr. 207 FI.Nr.: 1663/0 (vertagt aus 09.2019)
+- TOP 3.2.2.: Karlsplatz Werbeanlage 1 City-Light-Säule Nr. 211 FI.Nr.: 407/8 (vertagt aus 09.2019)
+- TOP 3.2.3.: Prinzregentenstraße Werbeanlage 1 City-Light-Säule Nr. 210 FI.Nr.: 2905/0 (vertagt aus 09.2019)
+- TOP 3.2.4.: Tal Werbeanlage1 City-Light-Säule Nr. 212 FI.Nr.: 1291/0 (vertagt aus 09.2019)
+- TOP 3.2.5.: Nicht kommerzielle Sitzgelegenheiten am Brunnen vor Tal 13: Baureferat bittet um Terminvorschläge für Ortstermin zu Bürgeranliegen aus 2019.08, TOP B 1.1
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP C: Gastronomie und Öffentlicher Raum
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Gaststätte „Zum Alten Hackerhaus“, Sendlinger Str. 14 (vertagt aus 09.2019) Antrag auf Erweiterung einer Freischankfläche
+- TOP 2.1.2.: Gaststätte Due Passi, Ledererstr. 11 Antrag auf Genehmigung einer Freischankfläche (vertagt aus 09.2019)
+- TOP 2.1.3.: Hotelbar „MIO“, Sendlinger Str. 46 Antrag auf Genehmigung einer Freischankfläche
+- TOP 2.1.4.: Café Kreutzkamm, Maffeistr. 4 Antrag auf Erweiterung der bestehenden Freischankfläche
+- TOP 2.3: Sonstige
+- TOP 2.3.1.: (E) Nicht fristgerecht entfernte Wahlwerbung: Auskunft über Kontrollen und Bußgeldverfahren (Antrag 5)
+- TOP 2.3.2.: (E) Änderung der Plakatierungsverordnung bezüglich Wahlwerbung
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Münchner Christkindlmarkt vom 27.11. bis 24.12.2019
+- TOP 3.1.2.: Christkindlmarkt am Sendlinger Tor vom 25.11. bis 22.12.2019
+- TOP 3.1.3.: Proklamation des Würmesia-Prinzenpaares am 11.11.2019 auf dem Marienplatz
+- TOP 3.1.4.: Münchner Feuerzangenbowle im Innenhof des Isartors vom 25.11.2019 bis 06.01.2020
+- TOP 3.2: Sonstige
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP D: Verkehr und Umwelt
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 1.1.: Lärmbelästigung Karl Scharnagl Ring Thomas Wimmer Ring, Bürgeranliegen
+- TOP 1.2.: Umwandlung von Parkplätzen in Fahrradraum, Angertorstraße 3, Bürgeranliegen (vertagt aus 09.2019)
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) + (U) Hochbrückenstraße zwischen Parkhaus und Spielplatz für Anlieger nicht sperren Empfehlung Nr. 14-20 / E 02647 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 06.06.2019
+- TOP 2.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 1 Altstadt-Lehel Umstufung einer Teilstrecke der Dienerstraße und einer Teilstrecke der Straße Rindermarkt
+- TOP 3: Anhörungen
+- TOP 3.1.: Nahverkehrsplan der Landeshauptstadt München, Anhörung zur Beschlussvorlage
+- TOP 3.2.: Radverkehrsplanung in der Blumenstraße
+- TOP 3.3.: Schaffung von Radabstellplätzen vor dem Haus Evangelisches Forum, Herzog-Wilhelm-Str. 24: Einschätzung des BA 1?
+- TOP 3.4.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs Sitzungsvorlagen Nr. 14-20 / V 15495 Anhörung
+- TOP 3.5.: Anschlussbereiche westl. / östl. der Ludwigsbrücke zwischen Rumford- / Thierschstraße und am Gasteig / Rosenheimer Straße Anhörung
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP E: Kultur, Soziales, Budget
+- TOP 0: Bericht
+- TOP 1: Anträge und Bürgeranliegen
+- TOP 2: Entscheidungen
+- TOP 2.1.: (E) Stadtbezirksbudget Favorit Bar, Laule, Nispel & Hirth GbR Vier Science-Fiction-Vorträge von November 2019 - Februar 2020 1.000,00 Euro, Az.: 0262.0-1-0176
+- TOP 2.2.: (E) Stadtbezirksbudget Zukunft Kultur e.V. West-östlicher Divan vom 06.11 - 10.11.2019 6.950,00 €, Az. 0262.0-1-0177
+- TOP 2.3.: (E) Stadtbezirksbudget democraticArts Elser - Rezeptionsgeschichte eines Attentats 2.101,00 €, Az. 0262.0-1-0178
+- TOP 3: Anhörungen
+- TOP 3.1.: Schulbauoffensive 2013-2030 – 3. Schulbauprogramm, Kita-Bauprogramm 2019 Anhörung zur Beschlussvorlage für eine gemeinsame Ausschusssitzung am 05.11.2019
+- TOP 4: Unterrichtungen (siehe Anlage)
+- TOP F: Bericht des Kinder- u. Jugendbeauftragten und der Behindertenbeauftragten
+- TOP G: Verschiedenes / Termine
+- TOP A 7: Unterrichtungen - Allgemeines
+- TOP A 7.1.: Anpassungen des Versandes von Sitzungsunterlagen auf Papier
+- TOP A 7.2.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020-2026, Änderung durch Stadtratsbeschluss vom 02.10.2019
+- TOP A 7.3.: Abschaltung des Ratsinformationssystems (RIS) vom 28. bis 31.10.2019
+- TOP B 4: Unterrichtungen - Planen, Bauen, Wohnen
+- TOP B 4.2.: 2019.10 B 4.2 Thierschstraße 42 Neubau eines Mehrfamilienhauses Vorbescheid Abdruck
+- TOP B 4.3.: München Modell und Förderung von Baugemeinschaften und partizipativen Wohnformen Sitzungsvorlagen Nr. 14-20 / V 15241 Hinweis / Ergänzungen
+- TOP B 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.5.: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP B 4.6.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP B 4.7.: Herzog-Wilhelm-Straße 18, Neubau eines Büro- und Geschäftshauses mit Tiefgarage, Abdruck des Vorbescheids
+- TOP B 4.8.: Neuhauser Straße 8, Schadstoffsanierung, Fassadenöffnungen, Durchfahrtsvergrößerung, Abbruch von Nebengebäuden und archälogische Grabung, Abdruck der Baugenehmigung
+- TOP B 4.9.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP B 4.10.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP B 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.12.: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP B 4.13.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP C 4: Unterrichtungen - Gastronomie und Öffentlicher Raum
+- TOP C 4.1.: Veranstaltungsgenehmigungen
+- TOP C 4.3.: Verschmutzung St. Anna Platz, Antwort AWM zu 2019.08 C 1.2
+- TOP D 4: Unterrichtungen - Verkehr und Umwelt
+- TOP D 4.1.: Radweg an der Isar zwischen Maximiliansbrücke und Liebigstraße
+- TOP D 4.2.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP D 4.3.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP D 4.4.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP D 4.5.: Nachhaltigkeit von Kleidung
+- TOP D 4.6.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP D 4.7.: Arbeiten im Straßenraum Prinzregentenstraße
+- TOP D 4.8.: Fahrradverkehr in der Perusastraße, Anwort KVR zu 2019.08 D 1.5
+- TOP D 4.9.: Fällungsgenehmigung Maximilianstraße 58
+- TOP D 4.10.: Kurzzeitparkplatz Blumenstraße, Antwort auf Bürgeranliegen 2019.08 D 1.2
+- TOP D 4.11.: Zunehmende „Verparkung“ von Gehwegen und Platzflächen, Antrag des BA 12 Schwabing-Freimann
+- TOP D 4.12.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP D 4.13.: Arbeiten im Straßenraum: Fernkälteleitung Fürstenfelder Straße und Kaufingerstraße
+- TOP D 4.14.: Arbeiten im Straßenraum: Ettstraße und Neuhauser Straße
+- TOP D 4.15.: Arbeiten im Straßenraum: Maxburgstraße zwischen Herzog-Max- und Karmeliterstraße
+- TOP E 4: Unterrichtungen - Kultur, Soziales, Budget
+- TOP E 4.1.: Stadtbezirksbudget: Nachweise und Berichte
