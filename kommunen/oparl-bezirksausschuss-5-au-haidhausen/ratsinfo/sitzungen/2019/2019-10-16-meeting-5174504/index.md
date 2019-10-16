@@ -1,0 +1,158 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-10-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174504
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174504
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP 0.: Vorstellungen im Unterausschuss
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 2.1.: Nachträge: A 7.1 Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs A 7.2 St. Martins Laternenfest am 08.11.2019 in den Frühlingsanlagen B III 2.2 Schulbauoffensive 2013-2030 zu B V 0.1 Eilanfrage zu Bauvorhaben Mariahilfplatz zu B V 0.1 Antrag: Versammlungsstätten für nachbarschaftliches Engagement B V 0.2 Vorstellung Wohnquartier Hochstraße zu B VI 2.9 Eilantrag zur neuen Trambahnhaltestelle Regerstraße
+- TOP 4.2.1.: Tassiloplatz: bauliche Veränderung oder regelmäßige Kontrollen
+- TOP 4.2.2.: Preysingstr./Ecke Metzstr.: Verbesserung der Schulwegsicherheit
+- TOP 5.1.: Anfrage: Aktuelle Informationen zum Orleansplatz
+- TOP 5.2.: Busbahnhof am Ostbahnhof neu denken
+- TOP 5.3.: Workshopergebnisse "Orleansplatz" auf den Prüfstand stellen und bearbeiten
+- TOP 5.4.: Verlagerung der Autoverladung am Ostbahnhof
+- TOP 5.5.: Fahrradtaugliche Induktionsschleifen
+- TOP 5.6.: Große Piktogramme für alle Fahrradstraßen
+- TOP 5.7.: Auskunft zu MVG-Leihrädern
+- TOP 5.8.: Wertstoffcontainer an den Haidenauplatz
+- TOP 5.9.: Ausbaupläne der MVG am Ostbahnhof
+- TOP 6.1.1.: (E) Stadtbezirksbudget ASZ Au Internetcafé von Januar bis Dezember 2020 2.690,00 € - siehe auch UA Soziales -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Campus Don Bosco Don Bosco Christkindlmarkt am 06.12.2019 3.176,34 € - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.1.3.: (E) Stadtbezirksbudget VdK-OV Haidhausen Toten- und Kriegergedenken am 16.11.2019 120,00 € / Az. 0262.0-5-0262
+- TOP 6.2.1.: Genehmigung einer Freischankfläche für die Gaststätte "Treffpunkt", Kirchenstr. 34 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.3.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 5 Au-Haidhausen Widmung der Gesamtstrecke des Wilhelm-Herbert-Weges
+- TOP 6.3.2.: (E) + (U) Lastenrad-Projekt für City-Logistik Empfehlung Nr. 14-20 / E 02486 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 26.02.2019
+- TOP 6.3.3.: (E) + (U) Konzept zur Verkehrsberuhigung Empfehlung Nr. 14-20 / E 02468 der Bürgerversammlung des Stadtbezirkes 05 - Au-Haidhausen am 21.02.2019
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: St. Martins Laternenfest am 08.11.2019 in den Frühlingsanlagen
+- TOP 8.1.1.: Biologisch abbaubare Hundekotbeutel (Punkt 1 des Antrags)
+- TOP 8.1.2.: Fehlende Straßenmarkierung in der Entenbachstraße (Einfahrten größer berechnen, Längenbegrenzung, Fahrradständer und Baumbepflanzung anbringen)
+- TOP 8.1.3.: Nockherstraße als Fahrradstraße ausweisen
+- TOP 8.1.4.: Maria-Theresia-Gymnasium, Regerplatz 1 Fassadenbegrünung und Begrünung des Flachdachs
+- TOP 8.1.5.: Gedenktafel zur Erinnerung an ehemalige Zwangsarbeiterinnen und Zwangsarbeiter
+- TOP 8.1.6.: Offener Bücherschrank in Haidhausen Vertagung aus der Sitzung vom 18.09.2019
+- TOP 8.1.7.: Befüllung und Entleerung der Enzis am Mariahilfplatz
+- TOP 8.4.1.: Infoblatt Oktober 2019
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Dringende Kooperationsanfrage im Namen des KJR und der Jungen Volkshochschule
+- TOP II.2.: Benennung des Fuß- und Radweges hinter den Welfenhöfen Vertagung aus der Sitzung vom 18.09.2019
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget ASZ Au Internetcafé von Januar bis Dezember 2020 2.690,00 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Räumlichkeiten für Projekt-Laden International Haidhausen
+- TOP 2.2.: N - Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: 18.jetzt - Fest junger Erwachsener im Rathaus am 19.10.2019
+- TOP 3.2.: Kinderbetreuung von Erstklässlern im Grundschulsprengel 2223 Empfehlung Nr. 14-20 / E 02479 der Bürgerversammlung vom 26.02.2019
+- TOP 3.3.: Angemietete Räume für die Städt. Berufsschule für Zahnmedizinische Fachangestellte in der Orleansstr. 4
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Genehmigung einer Freischankfläche für die Gaststätte "Treffpunkt", Kirchenstr. 34
+- TOP 1.2.: (E) Stadtbezirksbudget Campus Don Bosco Don Bosco Christkindlmarkt am 06.12.2019 3.176,34 €
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kommunalwahl 2020; Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung
+- TOP 2.2.: Boule am Bordeauxplatz, Mitspielen, Mitreden ! Auf 1 Wort - Veranstaltung der SPD Haidhausen am 03.10.2019 Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Mögliche Befreiung von Beschränkungen des BPl 1707 („Kneipenstopp“) für eine neue Gaststätte in der Balanstr. 25 „Trinacria Feinkost Der Sizilianer“
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Neue Lokale in Haidhausen Vertagung aus der Sitzung vom 18.09.2019
+- TOP V.: UA Planung
+- TOP 0.1.: Mariahilfplatz 18: Schulbauoffensive - Abbruch und Erweiterung Sporthallen mit Tagesheim Vorstellung durch das Referat für Bildung und Sport und das Baureferat => dazu: Eilanfrage CSU-Fraktion => dazu: Antrag SPD-Fraktion: Versammlungsstätten für nachbarschaftliches Engagement
+- TOP 0.2.: Neues Wohnquartier an der Hochstraße - Baugebiet 2(1) Vorstellung durch das Hamburger Immobilienunternehmen Becken Development GmbH, Niederlassung München
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Asamstr. 19: Dachgeschoss-Ausbau (2 WE) und Einbau eines Aufzugs
+- TOP 2.2.: Wörthstr. 9 / Rückgebäude: Umbau und Nutzungsänderung der Gewerbeflächen im RGB, Überdachung der Tiefgaragenrampe und Einbau einer Schiebetoranlage zur Garage, Errichtung einer Notleiteranlage im Innenhof
+- TOP 2.3.: Metzstr. 12: Nutzungsänderungen diverser Einheiten
+- TOP 2.4.: Preysingstr. 26: Neubau eines rückwärtigen Wohngebäudes (2 WE), Vorbescheid => dazu: Baumfällungen
+- TOP 2.5.: Elsässer Str. 28: Ausbau zweier Dachgeschosse und Einbau eines Aufzugs, Tektur
+- TOP 2.6.: Lilienstr. 56 Rückgebäude: Aufstockung um ein Geschoss und Dachterrasse
+- TOP 2.7.: Falkenstr. 23: Nachgenehmigung der bestehenden Garage 2
+- TOP 2.8.: Nockerstr. 9: Nutzungsänderung der Garagen zu Wohnräumen, Änderung der Dachneigung, Aufstockung und Sanierung eines Zweifamilienhauses
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Antwort auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 3.6.: Antworten der Lokalbaukommission zu Stellungnahmen des BA 5 zu folgenden Bauvorhaben: a) Franziskanerstr. 38
+- TOP 3.7.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 3.8.: (E) + (U) Bereitstellung von städtischen Nutzflächen für die Gemeinschaftsgärten Empfehlung Nr. 14-20 / E 02471 der Bürgerversammlung des Stadtbezirks 05 - Au-Haidhausen am 21.02.2019
+- TOP 3.9.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 3.12.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Entenbachstr. 3: Fällung von 1 Schwarzkiefer
+- TOP 2.2.: Sammtstr. 2: Fällung von einem Berg Ahorn
+- TOP 2.3.: Sckellstr. 2: Fällung von 2 Bäumen
+- TOP 2.4.: Rosenheimer Str. 11: Fällung von 1 Bergahorn
+- TOP 2.5.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 2.6.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Sommerstr. 19
+- TOP 2.7.: Austausch der Lichtsignalanlage an der Falken-/ Ohlmüllerstraße
+- TOP 2.8.: Verkehrsversuch Schornstraße: Anordnung der Einbahnregelung
+- TOP 2.9.: Errichtung einer Trambahnhaltestelle in der Regerstraße durch die Stadtwerke => dazu: Eilantrag CSU-Fraktion
+- TOP 2.10.: Barrierefreier Ausbau der Bushaltestelle Claude-Lorrain-Straße
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Straßenbeleuchtung Bazeillesstraße Ecke Rosenheimer Straße
+- TOP 3.2.: Ablehnung der Ersatzpflanzung Nockherstr. 36 Schreiben der Unteren Naturschutzbehörde
+- TOP 3.3.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP 3.4.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 3.5.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Tram Horror in Haidhausen Antwort MVG zum Schreiben BA 5 vom 31.07.2019
+- TOP 3.8.: Vorschläge zur Überprüfung von drei Ampelanlagen / Vorschläge um Haidhausen fußgängerfreundlicher zu machen, hier: Ampel Preysing-/Steinstraße Antwort KVR zum Schreiben BA 5 vom 25.07.2019
+- TOP 3.9.: Neue Fahrradständer unter der Wittelsbacher Brücke Antwort Baureferat zum Schreiben BA 5 vom 24.06.2019
+- TOP 3.10.: Nachfrage: Fehlender Radweg in der Ohlmüllerstraße Verweisung aus der Sitzung vom 18.09.2019
+- TOP 3.11.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 3.12.: Ausbau des Umweltverbundes in Au-Haidhausen / Markierung Haidenauplatz; BA-Antrags-Nr. 14-20 / B 04169 Ihr Schreiben vom 21.09.2018
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Kolumbusstraße: Errichtung von Fahrradständern Vertagung aus der Sitzung vom 18.09.2019
+- TOP 4.2.: Errichtung von Radstellplätzen in der Wörthstr. 32 Vertagung aus der Sitzung vom 18.09.2019
+- TOP C: Verschiedenes und Termine
