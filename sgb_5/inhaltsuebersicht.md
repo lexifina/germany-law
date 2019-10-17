@@ -30,14 +30,14 @@
 | Zweiter Titel | Kassenärztliche und Kassenzahnärztliche Vereinigungen ....... | §§ 77 bis 81 |
 | Dritter Titel | Verträge auf Bundes- und Landesebene ....... | §§ 82 bis 87e |
 | Vierter Titel | Bundesleistungsverzeichnis, Vergütungen ......................... | § 88 |
-| Fünfter Titel | Schiedswesen ........................ | § 89 |
+| Fünfter Titel | Schiedswesen ........................ | §§ 89 und 89a |
 | Sechster Titel | Landesausschüsse und Gemeinsamer Bundesausschuss ....................... | §§ 90 bis 94 |
 | Siebter Titel | Voraussetzungen und Formen der Teilnahme von Ärzten und Zahnärzten an der Versorgung ...................... | §§ 95 bis 98 |
 | Achter Titel | Bedarfsplanung, Unterversorgung, Überversorgung ...................... | §§ 99 bis 105 |
 | Neunter Titel | Wirtschaftlichkeits- und Abrechnungsprüfung .................. | §§ 106 bis 106d |
 | Dritter Abschnitt | Beziehungen zu Krankenhäusern und anderen Einrichtungen ............... | §§ 107 bis 114 |
 | Vierter Abschnitt | Beziehungen zu Krankenhäusern und Vertragsärzten ...................... | §§ 115 bis 123 |
-| Fünfter Abschnitt | Beziehungen zu Leistungserbringern von Heilmitteln ......................... | §§ 124 und 125 |
+| Fünfter Abschnitt | Beziehungen zu Leistungserbringern von Heilmitteln ......................... | §§ 124 bis 125b |
 | Sechster Abschnitt | Beziehungen zu Leistungserbringern von Hilfsmitteln ........................ | §§ 126 bis 128 |
 | Siebter Abschnitt | Beziehungen zu Apotheken und pharmazeutischen Unternehmern ....... | §§ 129 bis 131a |
 | Achter Abschnitt | Beziehungen zu sonstigen Leistungserbringern ................. | §§ 132 bis 134 |
@@ -96,4 +96,4 @@
 |  |  |
 | Elftes Kapitel | Straf- und Bußgeldvorschriften ....... | §§ 306 und 307b |
 | Zwölftes Kapitel | Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands ....... | §§ 308 bis 313 |
-| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 325 |
+| Dreizehntes Kapitel | Weitere Übergangsvorschriften ....... | §§ 314 bis 326 |
