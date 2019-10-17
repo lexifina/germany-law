@@ -1,0 +1,117 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2019-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5088331
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5088331
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung und Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Niederschrift der letzten BA- Sitzung
+- TOP 1.3: Ergänzungen zur Tagesordnung
+- TOP 2: Entscheidungsangelegenheiten
+- TOP 2.1: Budgetangelegenheiten
+- TOP 2.2: Weitere Entscheidungsangelegenheiten
+- TOP 3: Bürgeranliegen
+- TOP 3.1: UA Allgemeines
+- TOP 3.2: UA Bau und Verkehr
+- TOP 3.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 3.4: UA Planung
+- TOP 3.5: UA Schule, Soziales und Kultur
+- TOP 3.6: UA Umwelt
+- TOP 3.7: ohne Vorberatung im UA
+- TOP 4: Anträge von BA- Mitgliedern
+- TOP 5: Antwortschreiben der Landeshauptstadt München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Anhörungsfälle der Verwaltung
+- TOP 8: Baumfällungen
+- TOP 8.1: Bereits genehmigte Fällungen durch die Untere Naturschutzbehörde
+- TOP 8.2: Beantragte Baumfällungen
+- TOP 9: Berichte des Vorsitzenden, der Beauftragten und Termine
+- TOP 9.1.: Eilentscheidung des BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 10: Unterrichtungen
+- TOP 10.1.2.: unveränderte Fortführungen eines Gaststättenbetriebs
+- TOP 10.4.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 1.3.1.: 4.5 Graf-Spee-Spielplatz aufwerten
+- TOP 1.3.2.: 4.6 Versuchsprojekt: von Kindern entworfene Mülleimer in begrenzter Anzahl her- und aufstellen
+- TOP 1.3.3.: 7.1.1 Willy-Brandt-Platz: Strandveranstaltung 2020 - 2022 Anhörung des Bezirksausschusses zur Umsetzbarkeit Frist: 18.10.2019
+- TOP 1.3.4.: 7.1.2 Manchesterplatz: Sondernutzungserlaubnis für die Aufstellung einer Glasvitrine Bericht vom stattgefundenen Ortstermin
+- TOP 1.3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.6.: 7.4.10 Sansibarstraße 19, Fl..Nr.: 498/20 - Neubau eines Einfamilien- und eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 1.3.7.: 8.2.16 Sansibarstraße 19 8.2.17 Gerstäckerstraße 25 8.2.18 Bistritzer Weg 13 8.2.19 Kathreinweg 30 8.2.20 Sperberstraße 21h
+- TOP 2.1.1.: (E) Stadtbezirksbudget TSV Trudering e.V. Anschaffung von Material für Rollstuhlfechten 3.854,51 € / Az. 0262.0-15-0314
+- TOP 2.1.2.: (E) Stadtbezirksbudget Kath. Kirchenstiftung "Christi Himmelfahrt" Festkonzert am 24.11.2019 1.740,00 € / Az. 0262.0-15-0315
+- TOP 2.1.3.: (E) Stadtbezirksbudget Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Chor- und Orchesterkonzert am 08.12.2019 1.900,00 € / Az. 0262.0-15-0313
+- TOP 2.1.4.: (E) Stadtbezirksbudget GEVT e.V. Adventleuchten vom 26.11.2019 - 10.01.2020 6.500,45 € / Az. 0262.0-15-0316
+- TOP 3.2.1.: Marianne-Plehn-Straße / Karpfenstraße / Kreuzung Kreillerstraße: Optimierung der Nord-Süd-Fahrradverbindung
+- TOP 3.2.2.: Marianne-Plehn-Straße / Brachsenweg: sichere Querungsmöglichkeit für Kinder
+- TOP 3.2.3.: Truderinger Straße: Einrichtung eines Fahrradweges zwischen Nikolaus-Prugger-Weg und Bahnhof Trudering
+- TOP 3.2.4.: Antrag zum Aufstellen von grünen "Betreten für Hunde verboten" Pollern auf einer Grünfläche am Leonhardiweg 68
+- TOP 4.1.: Buswartehäuschen 2.0 Turnerstraße
+- TOP 4.2.: Namenlose Plätze der Messestadt – Namen geben Identität
+- TOP 4.3.: Geothermie Riem: keine erneute Drohung mit dem Einbau von Temperaturbegrenzern!
+- TOP 4.4.: Ampeln ausschalten, Bushaltestellen beleuchten
+- TOP 5.1.: Trudering sattelt um – endlich moderne zeitgemäße und ausreichend große Fahrradabstellanlagen am Truderinger Bahnhof Nord u. Süd sowie U-Bhf. Moosfeld Wiedervorlage gemäß BA-Beschluss aus der Aprilsitzung 2019
+- TOP 5.2.: Trudering sattelt um - endlich moderne zeitgemäße und ausreichend große Fahrradabstellanlagen am Truderinger Bahnhof: Wohin mit den 850 Fahrrädern am Bahnhof Trudering Süd? – Mut zu einer Fahrrad-Tiefgarage als Münchner Pilotprojekt Wiedervorlage gemäß BA-Beschluss aus der Aprilsitzung 2019
+- TOP 5.3.: 14 Jahre nach der BUGA: wilde Wege endlich barrierefrei herstellen Wiedervorlage gemäß BA-Beschluss aus der Junisitzung 2019
+- TOP 5.4.: Bei der Nachverdichtung Barrierefreiheit nicht vergessen! Wiedervorlage gemäß BA-Beschluss aus der Junisitzung 2019
+- TOP 5.5.: Alternativen für Berufspendler schaffen: Mühldorfer Regionalzüge halten auch in Riem
+- TOP 5.6.: Damaschkestraße: Breite des Bürgersteigs zwischen Kreillerstraße und Brachsenstraße unter besonderer Berücksichtigung der Schulwegsicherheit
+- TOP 5.7.: Demografiebericht 2040: Neubebauung Kirchtrudering
+- TOP 5.8.: Friedenspromenade / Vogesenstrasse: Optimierung der Ampelschaltung für Fußgänger
+- TOP 7.1: UA Allgemeines
+- TOP 7.2: UA Bau und Verkehr
+- TOP 7.2.1.: verkehrsrechtliche Anordnung nach § 45 StVO: absolutes Halteverbot Zehntfeldstraße zwischen Corinthstraße und Neusönner Straße Ostast Frist: 30.10.2019
+- TOP 7.2.2.: Nahverkehrsplan der Landeshauptstadt München 1. Ergebnisse des Teils Qualitätsstandards 2. Grundlagen der Fortschreibung des Infrastrukturteils 3. Sachstand zum Thema Barrierefreiheit im ÖPNV 4. Anträge und Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 15439 Beschluss des Ausschusses für Stadtplanung und Bauordnung (VB) Frist: 05.11.2019
+- TOP 7.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 7.4: UA Planung
+- TOP 7.4.1.: Karl-Schmid-Straße 22, Fl.Nr.: 138/9 - TEKTUR zu 1.1-2019-17962-32 - Neubau eines Hotels und einer Büroeinheit
+- TOP 7.4.2.: Kathreinweg 30, Fl.Nr.: 220/48 - Neubau eines Achtfamilienhauses und eines Doppelhauses mit Tiefgarage (8 Stpl.)
+- TOP 7.4.3.: Am Moosfeld 97, Fl.Nr.: 141/10 - Nutzungsänderung einer Flüchtlingsunterkunft in eine BRK-Rettungswache und - Bereitschaft sowie Neubau von Garagen
+- TOP 7.4.4.: Heilwigstraße 26, Fl.Nr.: 405/36 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 7.4.5.: Waldschulstraße 45 - 47, Fl.Nr.: 486/24 - Neubau dreier Doppelhäuser und eines Reihenhauses mit Tiefgarage
+- TOP 7.4.6.: Iltisstr. 79, Fl.Nr.: 505/5 - Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage - hier: Haus A (MFH)
+- TOP 7.4.7.: Iltisstr. 79, Fl.Nr.: 505/5 - Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage - hier: Haus B (EFH)
+- TOP 7.4.8.: Oberseestr. 8, Fl.Nr.: 319/30 - Neubau eines Mehrfamilienhauses - VORBESCHEID
+- TOP 7.4.9.: St.-Augustinus-Str. 46; Fl.Nr.: 328/76 - Neubau eines Mehrfamilienhauses - TEKTUR
+- TOP 7.5: UA Schule, Soziales und Kultur
+- TOP 7.5.1.: Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019 Sitzungsvorlage Nr. 14-20 / V XXXXX Anhörung der Bezirksausschüsse zum Entwurf der Sitzungsvorlage
+- TOP 7.6: UA Umwelt
+- TOP 8.2.1.: Am Hochstand 36 Birkhahnweg 52: bereits durch UNB genehmigt Friedenspromenade 36a Heilwigstraße 26 Heilwigstraße 40c Karl-Schmid-Straße 22 Kreuzerweg 40 Mönchbergstraße 12 Schwanenweg 32 Solalindenstraße 50 Solalindenstraße 83 Sperberstraße 30 Toni-Schmid-Straße 15 Widmannstraße 21 Waldschulstraße 45 - 47
+- TOP 9.1.1: Internationaler Spielmobilkongress im Quax e.V. am 12./13.10.2019 im Riemer Park (hinter dem Quax in der Helsinkistr. 100 und Ruth-Beuter-Str. zw. Nrn. 20 und 4)
+- TOP 10.1: UA Allgemeines
+- TOP 10.1.1.: Anpassung des Versandes von Sitzungsunterlagen auf Papier
+- TOP 10.1.2.1: Hellbast, Kleingaststätte, Hugo-Weiss-Str. 6, 81827 München
+- TOP 10.1.3.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 – 2026 Beschluss Korrekturfaktor zur Verhinderung des Mitgliederverlusts trotz gestiegener Einwohnerzahl
+- TOP 10.2: UA Bau und Verkehr
+- TOP 10.2.1.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 10.2.2.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP 10.2.3.: Zunehmende „Verparkung“ von Gehwegen und Platzflächen Antrag des BA 12 mit der Bitte um Stellungnahme und Unterstützung
+- TOP 10.2.4.: Arbeiten im Straßenraum; Heinrich-Böll-Straße 4 ggü. Willy-Brandt-Allee 22 - Seite Heinrich-Böll-Straße Neubau Fernwärme - Verkehrsrechtliche Anordnung -
+- TOP 10.2.5.: Bajuwarenstraße / Matterhornstraße: Neubau einer Lichtsignalanlage
+- TOP 10.3: UA Infrastruktur und Stadtteilentwicklung
+- TOP 10.3.1.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 10.3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.3.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 10.3.4.: (E) + (U) Bebauungsplan mit Grünordnung Nr. 2119 - Fauststraße 90 Informationsgespräch zwischen den Vertretern des Referats für Stadtplanung und Bauordnung und den Vertretern der Bürgerinitiative Fauststr. 90 Empfehlung Nr. 14-20 / E 02259 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Nennung der Grundstücks-Güte "Landschaftsschutzgebiet" in der Fauststraße 90 Empfehlung Nr. 14-20 / E 02260 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Vorläufige Einstellung der Planungsmaßnahmen und Klärung von Rechtsverstößen auf dem Grundstück Fauststraße 90 Empfehlung Nr. 14-20 / E 02264 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Wiederherstellung der gerodeten Hecke auf dem Grundstück Fauststr. 90 Empfehlung Nr. 14-20 / E 02278 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018 Anfertigung einer Chronologie der Heckenrodung auf dem Grundstück Fauststr. 90 Empfehlung Nr. 14-20 / E 02279 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 08.11.2018
+- TOP 10.3.5.: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP 10.3.6.: Stellungnahme der Landeshauptstadt München zur 37. Änderung des Flächennutzungsplans der Gemeinde Aschheim Wiederholte Beteiligung im Verfahren nach §4a Abs. 3 Satz 1 und 3 BauGB
+- TOP 10.3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.3.8.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 10.3.9.: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 10.3.10.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 10.4: UA Planung
+- TOP 10.4.1.1: Kurzhuberstraße
+- TOP 10.4.2.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 10.5: UA Schule, Soziales und Kultur
+- TOP 10.5.1.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 10.6: UA Umwelt
+- TOP 10.6.1.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 10.6.2.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
