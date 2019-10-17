@@ -2,9 +2,11 @@
 
 Inhaltsverzeichnis:
 | § 1 | Geltungsbereich |
+|  |
 | Erster Abschnitt – Zusatzversorgung im Gerüstbaugewerbe |
 | § 2 | Zusatzversorgungskasse des Gerüstbaugewerbes |
 | § 3 | Verhältnis zu betrieblichen Altersversorgungen |
+|  |
 | Zweiter Abschnitt – Allgemeine Versicherungsbedingungen der Zusatzversorgungskasse des Gerüstbaugewerbes |
 | § 4 | Leistungen |
 | § 5 | Versicherungsfall |
@@ -15,9 +17,11 @@ Inhaltsverzeichnis:
 | § 10 | Verjährung |
 | § 11 | Sicherung der Ansprüche der Versicherten |
 | § 12 | Befristung von Leistungen |
+|  |
 | Dritter Abschnitt – Aufbringung der Mittel |
 | § 13 | Finanzierung der Beihilfen |
 | § 14 | Verwendung von Überschüssen |
+|  |
 | Vierter Abschnitt – Schlussbestimmungen |
 | § 15 | Verfahren |
 | § 16 | Durchführung des Vertrages |

@@ -2,6 +2,7 @@
 
 Inhaltsverzeichnis
 | § 1 | Geltungsbereich |
+|  |
 | Abschnitt I: Ansprüche des Auszubildenden gegen den Arbeitgeber |
 | § 2 | Geltung der Rahmentarifverträge |
 | § 3 | Ausbildungsvergütung |
@@ -11,6 +12,7 @@ Inhaltsverzeichnis
 | § 7 | Urlaub |
 | § 8 | Schutzkleidung und persönliche Schutzausrüstung |
 | § 9 | Ausschlussfristen |
+|  |
 | Abschnitt II: Erstattung von Ausbildungskosten |
 | § 10 | Gebühren der überbetrieblichen Ausbildung |
 | § 11 | Lohnausgleichskasse des Dachdeckerhandwerks |
@@ -20,6 +22,7 @@ Inhaltsverzeichnis
 | § 15 | Verfahren bei Erstattung |
 | § 16 | Verfahrensvereinfachung |
 | § 17 | Verfall und Verjährung |
+|  |
 | Abschnitt III: Beitrag und Schlussbestimmung |
 | § 18 | Beitrag |
 | § 19 | Erfüllungsort und Gerichtsstand |

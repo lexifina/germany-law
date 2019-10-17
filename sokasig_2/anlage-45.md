@@ -3,6 +3,7 @@
 Inhaltsverzeichnis:
 | § 1 | Geltungsbereich |
 | § 2 | Aufgaben der Sozialkasse des Gerüstbaugewerbes |
+|  |
 | Teil I Regelungen über die Berufsausbildung im Gerüstbauerhandwerk |
 | § 3 | Geltung des Rahmentarifvertrages |
 | § 4 | Ausbildungsvergütung |
@@ -20,6 +21,7 @@ Inhaltsverzeichnis:
 | § 16 | Übernahme von Internats- und Fahrtkosten |
 | § 17 | Kostenerstattung an die überbetriebliche Ausbildungsstätte |
 | § 18 | Nachrangigkeit der Kostenerstattung |
+|  |
 | Teil II Regelungen über die Berufsfortbildung im Gerüstbauerhandwerk |
 | § 19 | Anspruch auf Förderung des Vorbereitungslehrganges für die Abschlussprüfung in Anwendung von § 45 Absatz 2 Berufsbildungsgesetz |
 | § 20 | Zulassung zum Vorbereitungslehrgang für die Abschlussprüfung in Anwendung von § 45 Absatz 2 Berufsbildungsgesetz |
@@ -30,6 +32,7 @@ Inhaltsverzeichnis:
 | § 25 | Vergütung für Teilnehmer an Lehrgängen gemäß §§ 23 und 24 |
 | § 26 | Übernahme der Internats- und Fahrtkosten |
 | § 27 | Einrichtung von Lehrgängen und Prüfungsausschüssen |
+|  |
 | Teil III Allgemeine Regelungen |
 | § 28 | Ausschlussfristen |
 | § 29 | Verfall der Erstattungsansprüche |
