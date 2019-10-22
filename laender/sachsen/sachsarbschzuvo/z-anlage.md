@@ -78,10 +78,10 @@ Verordnung zur arbeitsmedizinischen Vorsorge (ArbMedVV) vom 18. Dezember 2008 (B
 18.
 die §§ 12, 14 Abs. 2 Satz 2, § 15 Abs. 2 des Gesetzes über die Festsetzung von Mindestarbeitsbedingungen (Mindestarbeitsbedingungengesetz – MiArbG) in der im Bundesgesetzblatt Teil III, Gliederungsnummer 802-2, veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 22. April 2009 (BGBl. I S. 818) geändert worden ist, in der jeweils geltenden Fassung,
 19.
-die §§ 17, 19 Abs. 2 Satz 2, § 20 Abs. 2 des Gesetzes über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen ( Arbeitnehmer-Entsendegesetz – AEntG) vom 20. April 2009 (BGBl. I S. 799), in der jeweils geltenden Fassung,
+die §§ 17, 19 Abs. 2 Satz 2, § 20 Abs. 2 des Gesetzes über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen (Arbeitnehmer-Entsendegesetz – AEntG) vom 20. April 2009 (BGBl. I S. 799), in der jeweils geltenden Fassung,
 II. Recht des technischen Verbraucherschutzes und der Anlagensicherheit
 1.
-Geräte- und Produktsicherheitsgesetz ( GPSG) und die auf § 3 GPSG beruhenden Verordnungen, in der jeweils geltenden Fassung,
+Geräte- und Produktsicherheitsgesetz (GPSG) und die auf § 3 GPSG beruhenden Verordnungen, in der jeweils geltenden Fassung,
 a)
 Erste Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über das Inverkehrbringen elektrischer Betriebsmittel zur Verwendung innerhalb bestimmter Spannungsgrenzen – 1. GPSGV) vom 11. Juni 1979 (BGBl. I S. 629), zuletzt geändert durch Artikel 3 der Verordnung vom 18. Juni 2008 (BGBl. I S. 1060, 1065)
 b)
@@ -93,7 +93,7 @@ Siebte Verordnung zum Geräte- und Produktsicherheitsgesetz (Gasverbrauchseinric
 e)
 Achte Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über das Inverkehrbringen von persönlichen Schutzausrüstungen – 8. GPSGV) in der Fassung der Bekanntmachung vom 20. Februar 1997 (BGBl. I S. 316), geändert durch Artikel 15 des Gesetzes vom 6. Januar 2004 (BGBl. I S. 2, 17)
 f)
-Neunte Verordnung zum Geräte- und Produktsicherheitsgesetz ( Maschinenverordnung – 9. GPSGV) vom 12. Mai 1993 (BGBl. I S. 704), zuletzt geändert durch Artikel 1 der Verordnung vom 18. Juni 2008 (BGBl. I S. 1060)
+Neunte Verordnung zum Geräte- und Produktsicherheitsgesetz (Maschinenverordnung – 9. GPSGV) vom 12. Mai 1993 (BGBl. I S. 704), zuletzt geändert durch Artikel 1 der Verordnung vom 18. Juni 2008 (BGBl. I S. 1060)
 g)
 die §§ 1, 2, 3, 4, 5 Abs. 1 , §§ 6, 7 der Zehnten Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über das Inverkehrbringen von und Verkehr mit Sportbooten – 10. GPSGV) vom 9. Juli 2004 (BGBl. I S. 1605), die zuletzt durch Artikel 3 § 19 der Verordnung vom 19. Dezember 2008 (BGBl. I S. 2868, 2886) geändert worden ist,
 h)
@@ -142,8 +142,7 @@ Abschnitte 1, 2 und 4 der 32. Verordnung zur Durchführung des Bundes-Immissions
 Verordnung über ortsbewegliche Druckgeräte (OrtsDruckV) vom 17. Dezember 2004 (BGBl. I S. 3711), geändert durch Artikel 3 der Verordnung vom 3. August 2010 (BGBl. I S. 1139, 1141), in der jeweils geltenden Fassung,
 8.
 Verordnung über Gashochdruckleitungen (GasHDrLtgV) vom 17. Dezember 1974 (BGBl. I S. 3591), zuletzt geändert durch Artikel 380 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407, 2457), in der jeweils geltenden Fassung,
-III. Strahlenschutzrecht im Anwendungsbereich der Röntgenverordnung Röntgenverordnung – RöV
-Informatorisch: Die Bestimmung der ärztlichen und der zahnärztlichen Stelle nach der Röntgenverordnung ist in einer eigenständigen Verordnung geregelt.
+III. (außer Kraft)
 IV. Sprengstoffrecht
 1.
 Gesetz über explosionsgefährliche Stoffe (Sprengstoffgesetz – SprengG) in der Fassung der Bekanntmachung vom 10. September 2002 (BGBl. I S. 3518), zuletzt geändert durch Artikel 4 des Gesetzes vom 11. August 2009 (BGBl. I S. 2723, 2727), in der jeweils geltenden Fassung,
