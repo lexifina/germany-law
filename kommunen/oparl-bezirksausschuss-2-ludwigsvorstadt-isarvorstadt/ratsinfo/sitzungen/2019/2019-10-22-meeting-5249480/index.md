@@ -1,0 +1,150 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2019-10-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5249480
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5249480
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Tagesordnung
+- TOP 4: Genehmigung der Protokolle
+- TOP 1: Anträge
+- TOP 1.1.: Entfernung des Zauns und Einrichtung einer Spielstraße beim KuBu
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Begegnungszone Zenettiplatz
+- TOP 6: Berichte der Beauftragten
+- TOP 3.1: Bauvorhaben
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.1.: Bürgeranliegen, mögliche Luxussanierung im Haus Reichenbachstraße 51
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3.1: Veranstaltungen
+- TOP 3.2: Verkehr
+- TOP 5.3.: Bürgeranliegen, verändertes Nutzungsverhalten bezüglich Verkehrsmitteln
+- TOP 5.11.: Bürgeranliegen, Erhöhung der Umlegung von Mehrreinigungskosten bei Höherstufung der Reinigungsklasse ist zulässig
+- TOP 5.12.: Bürgeranliegen, Karl-Heinrich-Ulrichs-Platz: Erneuerung der Metallplakette am Boden wegen Unleserlichkeit
+- TOP 1: BA-Angelegenheiten / Sonstiges / Verschiedenes
+- TOP 2: Termine
+- TOP 1: Anhörungen, Entscheidungen, Sonstiges
+- TOP 1.1.: Weitere Planungsschritte für IsarLudwig 2020 (vertagt aus der Sitzung am 24.09.2019)
+- TOP -: Unterrichtungen
+- TOP A 4.1.: Stadtbezirksbudget: Bescheide
+- TOP A 4.2.: Stadtbezirksbudget: Verwendungsnachweise, Sachberichte
+- TOP B 4.1.: Baumaßnahmen der Stadtwerke München
+- TOP C 4.1.: Versammlungen unter freiem Himmel
+- TOP C 4.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP C 4.3.: Unveränderte Gaststättenfortführungen
+- TOP C 4.4.: Verkehrsrechtliche Anordnungen
+- TOP C 4.5.: Erlaubnisbescheide
+- TOP I: Allgemeines
+- TOP II: Bürgerfragen und Sonstiges an Bezirksausschuss, Bezirksinspektion und Polizei
+- TOP III: Berichte der Unterausschüsse und Beschlussfassung über Anträge und Beschlussempfehlungen
+- TOP A: Bereich Unterausschuss Kultur, Jugend, Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Perspektive VBI e.V. ISPLH (Nachbetreuungsplatz) vom 08.11.2019 -31.07.2020 1.600,00 €, Az. 0262.0-2-0306
+- TOP 2.2.: (E) Stadtbezirksbudget Perspektive e.V. Intensive Sozialpädagogische Lernhilfe vom 01.01.2020 bis 31.12.2020 2.700,00 €. Az. 0262.0-2-0307
+- TOP 2.3.: (E) Stadtbezirksbudget AlmResidency 2019 "AlmResidency goes Weltraum" vom 10.11.2019 bis 21.11.2019 800,00 €, Az. 0262.0-2.0305
+- TOP 3.1.: Schulbauoffensive 2013-2030 - 3. Schulbauprogramm, Kita-Bauprogramm 2019, Beschlussentwurf
+- TOP B: Bereich Unterausschuss Planen, Bauen
+- TOP 1: Anträge
+- TOP 2: Entscheidungen
+- TOP 3: Anhörungen
+- TOP 3.1.1.: Maistraße 14a VORBESCHEID, Aufstockung und Nutzungsänderung einer Werkstatt zu Büros (vertagt aus der Sitzung vom 24.09.2019)
+- TOP 3.1.2.: Waltherstraße 17, Innenhofgestaltung
+- TOP 3.1.3.: Baaderstraße 6, Nutzungsänderung eines Büro- und Ausstellungsraums zu einer Service-Autowerkstatt mit 2 Arbeitsbühnen sowie einer Kleingaststätte mit 8 Gastplätzen
+- TOP 3.1.4.: Zenettistraße 48 TEKTUR, Nutzungsänderung 1. OG: Sportschule zu 7 Appartments zur Erweiterung des Boardinghouses, HIER: Legalisierung Anbau 1. OG
+- TOP 3.1.5.: Buttermelcherstraße 16 Nutzungsänderung: Lager- und Müllflächen (EG) und Wohnung (1.OG) zu Ausstellungsräumen, Errichtung eines 2-geschossigen Neubaus hofseitig als Erweiterung der Ausstellungsfläche, Schaffung einer Wohnung (1.OG) anstelle des Luftraums der Zufahrt, DG-Ausbau (2 WE), Anhebung der hofseitigen Dachneigung auf 45° und Errichtung zweier Gauben
+- TOP 3.2.1.: Vollzug der Baumschutzverordnung im Rahmen des Bauvorhabens Maistraße 14a (s. TOP B 3.1.1) (vertagt aus der Sitzung vom 24.09.2019)
+- TOP 3.2.2.: Vollzug der Baumschutzverordnung im Rahmen des Bauvorhabens Buttermelcherstraße 16 (s. TOP B 3.1.5)
+- TOP 3.2.3.: Fällungsantrag für vier Bäume
+- TOP 3.3.1.: Bau eines dritten Straßenbahngleises am Bahnhofsvorplatz des Münchner Hauptbahnhofs (Tektur b)
+- TOP 3.3.2.: Vorstellung der Umgestaltung an der Ludwigsbrücke – Anschlussbereiche westl. / östl. der Ludwigsbrücke zwischen Rumford-/Thierschstraße und Am Gasteig / Rosenheimer Straße
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 6: Berichte der Beauftragten
+- TOP C: Bereich Unterausschuss Öffentlicher Raum, Mobilität
+- TOP 1: Anträge
+- TOP 1.1.: Einrichtung von gut sichtbaren Ladezonen in der Fraunhoferstraße
+- TOP 1.2.: Behindertenparkplätze an der Fraunhoferstraße einrichten und überwachen
+- TOP 1.3.: Die Arndtstraße zur Spielstraße umgestalten
+- TOP 1.4.: Informationskampagne Fahrradstraße
+- TOP 1.5.: Anordnung einer Geschwindigkeitsbegrenzung auf 30 km/h in der Fraunhoferstraße -PLENUMSBESCHLUSS-
+- TOP 1.6.: Übergangsbegrünung an der Fraunhoferstraße -PLENUMSBESCHLUSS-
+- TOP 2: Entscheidungen
+- TOP 2.1.1.: Fraunhoferstraße 39, Antrag auf Erweiterung einer Freischankfläche
+- TOP 3.: Anhörungen
+- TOP 3.1.1.: Veranstaltung „Chinesischer Drachentanz“ am 29.10.2019, Schützenstraße 1
+- TOP 3.1.2.: Oktoberfest 2019, Schluss- und Erfahrungsbericht
+- TOP 3.2.1.: Nahverkehrsplan der Landeshauptstadt München, Anhörung zum Beschlussentwurf
+- TOP 3.2.2.: Errichtung einer Ladezone im Bereich Goethestraße 40/42 (vertagt aus der Sitzung am 24.09.2019)
+- TOP 3.3: Sonstiges
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP 5: Sonstiges
+- TOP 5.1.: Bürgeranliegen, Abstellfläche vor dem Haus Klenzestraße 50
+- TOP 5.2.: Entwurf BA-Stellungnahme zu Fußgängerübergang am Stephansplatz
+- TOP 5.4.: Bürgeranliegen, Be- und Entladen in der Fraunhoferstraße (vertagt aus der Sitzung am 24.09.2019)
+- TOP 5.5.: Bürgeranliegen, Ampelregelung für Rechtsabbieger vom Kapuzinerplatz in die Häberlstraße (vertagt aus der Sitzung am 24.09.2019)
+- TOP 5.6.: Bürgeranliegen, Lärmbelästigung am Gärtnerplatz (vertagt aus der Sitzung am 24.09.2019)
+- TOP 5.7.: Bürgeranliegen, Gefahrenstelle für Fahrradfahrer an der Thalkirchner Straße (vertagt aus der Sitzung am 24.09.2019)
+- TOP 5.8.: Bürgeranliegen, Starke Geruchsbelästigung durch den Schlachthof
+- TOP 5.9.: Bürgeranliegen, Zusätzliche Mülleimer und Hundekotbeutel-Spender in der Schmellerstraße
+- TOP 5.10.: Bürgeranliegen, Lärmbelästigung durch Gaststätte Lindwurmstraße 33
+- TOP D: BA-Angelegenheiten
+- TOP 1.1.: -entfällt, siehe I 2.-
+- TOP 1.2.: Anhörungsrecht auch bei stadtbezirksübergreifenden Maßnahmen des Umweltschutzes, insbesondere der Luftreinhaltung; Änderung der Ziffer 7.1 des Katalogs für das Referat für Gesundheit und Umwelt (Anlage 1 zur BA-Satzung) -PLENUMSBESCHLUSS-
+- TOP 1.3.: Antrag zur Teilnahme an der Gedenkveranstaltung auf dem jüdischen Friedhof mit Kranzniederlegung -PLENUMSBESCHLUSS-
+- TOP 3: Veranstaltungen
+- TOP 4: Unterrichtungen (siehe Beiblatt)
+- TOP E: Besondere Angelegenheiten
+- TOP F: Nicht öffentlicher Teil
+- TOP A 4: Bereich Kultur, Jugend und Soziales
+- TOP A 4.3.: Querungshilfen für Kinder, Senioren und Menschen mit Behinderung – Maßnahmenkatalog
+- TOP A 4.4.: Dankesschreiben des Autors des Buchprojektes „NEVER FORGET – NEVER AGAIN“
+- TOP A 4.5.: Verbreiterung des Gehwegs vor der Schwanthaler-Schule
+- TOP A 4.6.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP A 4.7.: Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss 16, Sitzungsvorlagen-Nr.: 14-20 / V 15751
+- TOP B 4: Bereich Planen und Bauen
+- TOP B 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.3.: Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB; Sitzungsvorlage Nr. 14-20 / V 15999
+- TOP B 4.4.: Fällung eines Gefahrenbaums (Linde) am Alten Südfriedhof
+- TOP B 4.5.: Vorbescheid für das Objekt Herzog-Heinrich-Straße 4
+- TOP B 4.6.: Ergebnisse der Baulandkommission, Sitzungsvorlage Nr. 14-20 / V 16067
+- TOP B 4.7.: Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf, Sitzungsvorlage Nr. 14-20 / V 16244
+- TOP B 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP B 4.9.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP B 4.10.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP B 4.11.: Maßnahmen zur Verbesserung der Dienstleistungsfähigkeit und zur Beschleunigung der Genehmigungsverfahren – LBK zukunftsfähig ausstatten, Sitzungsvorlage Nr. 14-20 / 16043
+- TOP B 4.12.: Baugenehmigungsbescheid für das Objekt Schubertstraße 8
+- TOP B 4.13.: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP B 4.14.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP B 4.15.: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP B 4.16.: (U) 46. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2019
+- TOP B 4.17.: Nachträgliche Unterrichtung über entfernte Gefahrenbäume am Alten Südfriedhof
+- TOP B 4.18.: Baugenehmigung für den Neubau eines Hotels in der Schillerstraße 3
+- TOP B 4.19.: Bauvorhaben Klenzestraße 16 Abbruch des Dachstuhls und Neuerrichtung mit Gauben, Umbau der Wohnungen in der 1. DG-Ebene, Ausbau des Dachspitzes und Verbindung mit den Wohnungen der 1. DG-Ebene, Antwortschreiben
+- TOP B 4.20.: Bauvorhaben Goethestraße 7a - Nutzungsänderung Shisha-Bar zu Wettbüro, Antwortschreiben
+- TOP B 4.21.: Baugenehmigungsbescheid für das Objekt Thalkirchner Straße 16
+- TOP C 4: Bereich Öffentlicher Raum und Mobilität
+- TOP C 4.6.: Information bezüglich der Einsätze des privaten Sicherheitsdienstes an der Isar
+- TOP C 4.7.: Fünf Plätze attraktiv neu gestalten; Sitzungsvorlage Nr. 14-20 / V 15997
+- TOP C 4.8.: Antrag des BA 12 Schwabing-Freimann: „Zunehmende Verparkung von Gehwegen und Platzflächen“
+- TOP C 4.9.: Einführung von Tempo 30 in der Auenstraße sowie Errichtung eines (Über-)Eckhinweises auf den Zebrastreifen in der Westermühlstraße, Antwort auf Bürgeranliegen
+- TOP C 4.10.: Austausch von Lichtsignalanlagen am Georg-Hirth-Platz
+- TOP C 4.11.: Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation, Sitzungsvorlage Nr. 14-20 / V 16374
+- TOP C 4.12.: Spätere Mahd der blühenden Isarauen als Bienenschutzmaßnahme Instandsetzung des Fußwegs entlang der Isar nach Hochwasserschäden
+- TOP C 4.13.: Reaktion der Induktionsschleife an der Kreuzung Corneliusstraße / Gärtnerplatz auf Fahrradfahrer, Antwortschreiben
+- TOP D 4: Bereich BA-Angelegenheiten
+- TOP D 4.1.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 – 2026, Korrektur
+- TOP E 2: Bereich Besondere Angelegenheiten
