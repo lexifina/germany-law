@@ -1,0 +1,105 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2019-10-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5180376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5180376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung der TO; Protokollbesprechung
+- TOP 2.: Entscheidungsfälle
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben:
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 5.3.: Veranstaltungen in städtischen Grünanlagen oder auf öffentlichen Grund:
+- TOP 5.4.: Sonstige Anhörungen:
+- TOP 7.: Berichte
+- TOP 7.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3: Unterausschuss Kultur und Budget
+- TOP 8.: Verschiedenes / Termine
+- TOP 7.4: BA-Vorsitzender
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: a) Wahl einer/eines neuen Kinder- und Jugendbeauftragten (inkl. FAK); b) Neubesetzung Mitgliedschaft im Unterausschuss Schule, Sport, Soziales; c) Neubesetzung Ersatzmitgliedschaft im Unterausschuss Planung, Verkehr, Umwelt; d) Neubesetzung Ersatzmitgliedschaft im Unterausschuss Kultur, Budget; e) Benennung einer/eines neuen Beirätin/Beirates der Freizeitstätte "Jump In"; f) Benennung einer/eines neuen Schaukastenbeauftragten (Ludwigsfeld)
+- TOP 2.1.: (E) Stadtbezirksbudget Augustinum gemeinnützige GmbH / Otto-Steiner-Schule Anschaffung von Sinnesmaterialien bzw. -spielen für Autisten zur Nutzung auf dem Pausenhof der Otto-Steiner-Schule 41.348,00 € / Az. 0262.0-24-0280
+- TOP 2.2.: (E) Stadtbezirksbudget Schwestern und Brüder vom hl. Benedikt Labre e.V. Anschaffung eines neuen Küchenherds für die Wohngemeinschaft 1.797,73 € / Az. 0262.0-24-0283
+- TOP 2.3.: (E) Stadtbezirksbudget Kulturhistorischer Verein Feldmoching auf dem Gfild e.V. Ausstellung "100 Jahre Lerchenau" vom 18.10.2019 - 29.02.2020 2.850,00 € / Az. 0262.0-24-0283
+- TOP 2.4.: (E) Stadtbezirksbudget Fasanerie Aktiv e.V. Straßenfest Fasanerie am 20.07.2019 900,00 € / Az. 0262.0-24-0274
+- TOP 2.5.: (E) Stadtbezirksbudget Bürgerverein Lerchenau e.V. Diskussionsveranstaltung "Lebenswerte Entwicklung des 24. Stadtbezirks" am 12.10.2019 3.605,00 € / Az. 0262.0-24-0282
+- TOP 2.6.: (E) Wilhelmine-Reichard-Straße: Einrichtung einer durchgängigen Tempo 30-Zone
+- TOP 2.7.: N (E) Stadtbezirksbudget Diakonie Hasenbergl e.V. Herbstfest am 08.11.2019 2.518,00€, Az. 0262.0-24-0287
+- TOP 3.: Anträge
+- TOP 3.1.: Strukturkonzept für Ludwigsfeld - die zu Grunde liegenden Gutachten rasch öffentlich zugänglich machen
+- TOP 3.2.: Wohnsiedlung Ludwigsfeld; a) Unterbindung des Befliegens mit Drohnen auf dem ehemaligen Fußballplatz westlich des Schwabenbächls b) Versperrung der Zufahrt zu dem Gelände c) Entfernung eingebrachter Betonplatten
+- TOP 3.3.: Parkplätze Schleißheimer Straße zwischen Dülferstraße und Goldschmiedplatz
+- TOP 3.4.: Krankheitsbefallene Schwarzkiefern Ecke Herbergstraße/ Paul-Huml-Bogen; Ansteckungsgefahr für andere Kiefern?
+- TOP 3.5.: Verkehrsproblem; Feldmoching als Pilotprojekt für "Blitztonnen" auswählen
+- TOP 3.6.: Parkplatzsituation im Bereich der Linkstraße – Schaffung zusätzlicher Park­flächen
+- TOP 3.7.: N Bahnhof Feldmoching: Installation einer Rolltreppe vom Bahnsteig (Gleis 1, Fahrtrichtung München) zum Bahnhofuntergeschoss
+- TOP 3.8.: N Errichtung eines Gehwegs auf der Nordseite der Herbergstraße und eine Querungsstelle westlich der Paul-Preuß-Straße (Richtung Sport- und Spielplatz)
+- TOP 3.9.: N Errichtung einer Ampel in der Dülferstraße (Höhe Rainfarnstraße)
+- TOP 3.10.: N Lösung der Parkplatz-Probleme im Hasenbergl (Gebiet zwischen Schleiß­heimer-, Dülfer- und Blodigstraße)
+- TOP 5.1.1.: Paul-Preuß-Str. 15-17 (DHH 1 bis 6)
+- TOP 5.1.2.: Am Blütenanger 83/ RGB
+- TOP 5.1.3.: Glockenblumenstr. 4
+- TOP 5.1.4.: Lerchenauer Str. 147
+- TOP 5.1.5.: Schleißheimer Straße, Fl.Nr. 1172/0, Gemarkung Feldmoching
+- TOP 5.1.6.: N Pappelallee 47
+- TOP 5.1.7.: N Lerchenauer Str. 160
+- TOP 5.2.1.: Auf den Schrederwiesen 14
+- TOP 5.2.2.: Glockenblumenstr. 4
+- TOP 5.2.3.: Olschewskibogen 18
+- TOP 5.2.4.: N Paul-Preuß-Str. 15-17 (DHH 2 bis 6)
+- TOP 5.2.5.: N Am Blütenanger 83/ RGB
+- TOP 5.2.6.: N Lerchenauer Str. 160
+- TOP 5.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; Halteverbote im Zusammenhang mit neur LSA Feldmochinger Straße/ Georg-Zech-Allee
+- TOP 5.4.2.: Kommunalwahlen 2020; Anhörung der Bezirksausschüsse zur Stimmbezirkseinteilung
+- TOP 5.4.3.: Nahverkehrsplan der Landeshauptstadt München - Anhörung der Bezirksausschüsse
+- TOP 5.4.4.: Errichtung eines Alten- und Service-Zentrums (ASZ) Hasenbergl am Standort Stanigplatz
+- TOP 5.4.5.: Entwurf Beschlussvorlage: Schulbau-Offensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 5.4.6.: N Anhörungsrecht bei allgemeinen Maßnahmen des Umweltschutzes, BA-Antrag Nr. 14-20 / B 06665 des BA 17 vom 09.07.2019
+- TOP 5.4.7.: N Höhenfreimachung Bahnübergang Lerchenauer Straße - Machbarkeitsstudie
+- TOP 5.4.8.: N Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs – Zweites Maßnahmenbündel,… Sitzungsvorlage Nr. 14-20 / V 15495
+- TOP 5.4.9.: N Sportbauprogramm 2019,....
+- TOP 6.: Unterrichtungsfälle (Behandlung nur nach Aufruf durch ein BA-Mitglied)
+- TOP 6.1.: (E) + (U) Ablehnung des Baus eines Heizwerkes in Feldmoching Empfehlung Nr. 14-20 / E 01950 der Bürgerversammlung des Stadtbezirkes 24 – Feldmoching-Hasenbergl am 22.03.2018
+- TOP 6.2.: Orientierung der Busverbindung zwischen Eduard-Spranger-MS und der Ausweichschule MS Hildegard-von-Bingen-Anger bzw. dem Interimsgymnasium Georg-Zech-Allee am Unterrichtsbeginn und -ende
+- TOP 6.3.: Mehrzweckhalle in der Georg-Zech-Allee; Berücksichtigung von Vereinssport im Belegungsplan
+- TOP 6.4.: Maßnahmen gegen den Schleichverkehr in Wohngegenden: Caracciolastraße - Zufahrt zur Schleißheimer Straße Empfehlung Nr. 14-20 / E 01947 der Bürgerversammlung des Stadtbezirkes Nr. 24 Feldmoching-Hasenbergl am 22.03.2018, Sitzungsvorlagen Nr. 14-20 / V 12541 - Ergänzung zum Verkehrskonzept
+- TOP 6.5.: Einführung einer Geschwindigkeitsbeschränkung auf 30 km/h in der Feldmochinger Straße im 24. Stbez. - Hier: Zeitzusatz
+- TOP 6.6.: Antrag aus der 17. Kinder- und Jugendsprechstunde vom 22.02.2019; Gehweg Heppstraße; hier: Haltverbot (Nr. 17/11)
+- TOP 6.7.: Grillbereich am Südufer des Lerchenauer Sees: Begehung sowie Aufstellung von Glutbehältern, Müllcontainern und Dixi-Toiletten
+- TOP 6.8.: Feldmochinger Straße Haltverbot für Ausfahrt Freiwilllige Feuerwehr (Vorabzustimmung durch BA-Vorsitzenden)
+- TOP 6.9.: Ausnahmegenehmigung GA - Infomobil des Bundestags vom 23.10. bis 26.10.2019 auf dem Dülfer Anger (Vorabzustimmung durch BA-Vorsitzenden)
+- TOP 6.10.: Veranstaltungen in städtischen Grünanlagen: a) Circus Sorento (Kindercircus ohne Tiere) vom 07. - 14.10.2019, GA Lassallestr./Ecke Wilhelmine-Reichard-Str. - Terminverschiebung (zu 5.3.5 - 23.07.2019) b) Circus Barnum vom 15. - 27.10.2019 (Spielzeit: 17. -27.10.2019), GA Weitlstraße (jeweils Vorabzustimmung durch BA-Vorsitzenden)
+- TOP 6.11.: Verkehrsrechtliche Anordnungen nach § 45 Abs. 1 StVO: a) Einrichtung eines absoluten Haltverbots in der Ponkratzstraße b) Hotelanfahrtszone Auf den Schrederwiesen 27
+- TOP 6.12.: Unterstützung des Caritas-Kinderhauses in der Fortnerstr. 9 - 11 hinsichtlich Nutzung der Gruppenräume und Ausstattung
+- TOP 6.13.: Stadtbezirksprofile zur Infrastrukturversorgung
+- TOP 6.14.: Münchner Sportclub e.V., Eberwurzstr. 28; Sanierung Kunstrasenplatz, Umbau Rasenplatz in Kunstrasenplatz; Anpassung Erbbaurechtsvertrag
+- TOP 6.15.: Verkürzung der Anstrahlungszeiten; Umsetzung der Beschlüsse zum Schutz der Artenvielfalt anlässlich der Änderung des Bayerischen Naturschutzgesetzes
+- TOP 6.16.: (U) Familienzentrum Lichtblick Hasenbergl, Existenzsicherung 24. Stadtbezirk - Feldmoching - Hasenbergl Produktnummer 40363200 Förderung der Erziehung in der Familie Produktleistung 40363200.100 Familienbildung, Familienzentren, Angebote der Frühen Förderung, Familienerholung und Familienpflege
+- TOP 6.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.18.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 6.19.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 6.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.21.: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP 6.22.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 6.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.24.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP 6.25.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 6.26.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 6.27.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 6.28.: (U) Schulbauoffensive (SBO) 2013/30 Bedarfsentwicklung und -planung für die öffentlichen Münchner Realschulen und Gymnasien - Fortschreibung
+- TOP 6.29.: Kinderhaus Fortnerstraße 9 - 11
+- TOP 7.4.1.: a) Workshop „Maßnahmen“ Verkehrskonzept München Nord
+- TOP 8.1.: Sitzungstermine 2020 (Entwurf)
+- TOP 8.2.: Antrag "zunehmende Verparkung von Gehwegen und Platzflächen" mit der Bitte um Unterstützung
+- TOP 8.3.: Antrag "Erhalt des BeerenCafés in Johanniskirchen (Unterrichtung)
+- TOP 8.4.: Antrag "Nachhaltigkeit von Kleidung" (Unterrichtung)
