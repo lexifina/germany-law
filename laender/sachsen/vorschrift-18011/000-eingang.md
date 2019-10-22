@@ -1,3 +1,4 @@
 # Verordnung des Sächsischen Staatministeriums des Innern über die Ausbildung und Prüfung der Beamten der zweiten Einstiegsebene der Laufbahngruppe 1 der Fachrichtung Allgemeine Verwaltung im fachlichen Schwerpunkt Vollzugsdienst in Abschiebungshaft- und Ausreisegewahrsamseinrichtungen (Sächsische Ausbildungs- und Prüfungsordnung Abschiebungshaft – SächsAPOAHaft)
 Vom 25. Januar 2019
+Rechtsbereinigt mit Stand vom 22. Oktober 2019
 Auf Grund des § 30 Satz 1, 2 Nummer 1, 2, 3, 5 bis 8 und Satz 3 des Sächsischen Beamtengesetzes vom 18. Dezember 2013 (SächsGVBl. S. 970, 971), dessen Sätze 1 und 2 Nummer 8 durch Artikel 1 Nummer 15 Buchstabe a und b Doppelbuchstabe aa des Gesetzes vom 28. Juni 2018 (SächsGVBl. S. 430) geändert worden sind, verordnet das Staatsministerium des Innern:
