@@ -1,0 +1,94 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-10-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5222093
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5222093
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Kulturhaus am Curt-Mezger-Platz; Lärmschutz für AnwohnerInnen in der Piccoloministraße 1 bis 7; Störung durch laute Veranstaltungen - Antwort auf Rückfrage des BA 11
+- TOP 4.3.1.: (BSL) Bereitstellung eines Kochwagens für das Sonderpädagogische Förderzentrum München Nord-Ost in der Rothpletzstraße
+- TOP 4.4.1.: Westliche Verlängerung der Heidemannstraße
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Sozialverband VdK Bayern – OV München-Milbertshofen Gedenkveranstaltung zum Volkstrauertag am 17.11.2019 275,00€, Az. 0262.0-11-0353
+- TOP 6.1.2.: (E) Stadtbezirksbudget ETC e.V. Inklusives Hip-Hop Kooperationsprojekt vom 27.09.2019 – 20.12.2019 899,40€, Az. 0262.0-11-354
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Begleitung" Begleitung und Transfer der Erstklässler vom 11.09.2019 – 26.07.2020 1.305,00€, Az.0262.0-11-0341
+- TOP 6.1.4.: (BSL) Haltestelle U-Bahnhof Harthof - Aufstellen von Mülleimern
+- TOP 6.1.5.: (BSL) Haltestelle U-Bahnhof Harthof - Aufstellen von Fahrradständern
+- TOP 6.1.6.: (E) Stadtbezirksbudget Hopsasa gGmbH Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder vom 01.12.2019 – 30.11.2020 10.029,75€; Az. 0262.0-11-0345
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Installation eines Fahrradständers vor dem Edeka-Markt am Lieberweg 42 Empfehlung Nr. 14-20 / E 02797 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 18.07.2019
+- TOP 6.2.2.: (E) Errichtung eines Bürgerbegegnungszentrum im Stadtbezirksteil Harthof Empfehlung Nr. 14-20 / E 02133 ..................... Einrichtung eines ASZ mit Stadtteilcafé im Stadtviertel Harthof Empfehlung Nr. 14-20 / E 02796 .............. ASZ-Einrichtung in der Seniorenwohnanlage Schleißheimer Str. 450/452 Empfehlung Nr. 14-20 / E 02811 ...............
+- TOP 6.2.3.: (E) Kontinuierliche Instandsetzung der Fahrradwege Empfehlung Nr. 14-20 / E 02816 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 18.07.2019
+- TOP 6.2.4.: (E) Halbseitiges Gehwegparken in der Hugo-Wolf-Straße (zwischen Weyprecht- und Rathenaustraße) erlauben
+- TOP 7.1: Plenum
+- TOP 7.3: Kultur / Soziales
+- TOP 7.4: Verkehr
+- TOP 7.4.1.: Schaffung von legalen Park- und Haltemöglichkeiten an der Südseite des Curt-Mezger-Platzes
+- TOP 8.1: Plenum
+- TOP 8.1.1.: Kommunalwahl 2020 - Stimmbezirkseinteilung
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: Kämpferstraße 2 - 10 a) Bauvorhaben: Neubau einer Wohnanlage mit Familienzentrum und TG b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.2.: Max-Liebermann-Straße 6 a) Bauvorhaben: Neubau Studentenwohnheim, Beherbergungsbetrieb, Gastronomie und Tiefgarage - VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.3.: Griegstr. 22 – 24 a) Bauvorhaben: Neubau eines Mehrfamilienhauses mit Tiefgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.4.: Keferloherstraße 94 a) Bauvorhaben: Neubau eines Mehrfamilienhauses mit TG – VORBESCHEID b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.2.5.: Mortonstraße 1 - 32 - Neubau von 16 Wohngebäuden mit TG und Kinderkrippe – VORBESCHEID
+- TOP 8.2.6.: Entwurf Beschlussvorlage: Schulbau-Offensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Veranstaltung "Silvesterlauf" im Olympiapark am 31.12.2019
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Am Oberwiesenfeld 35 – Anfahrtzone (Kurzparkzone) b) Schliemannweg – Öffnung der Einbahnregelung (gegenläufigen Radverkehr)
+- TOP 8.4.2.: Nahverkehrsplan für die Landeshauptstadt München Sitzungsvorlage-Nr. 14-20 / V 15439 (Entwurf)
+- TOP 8.4.3.: Grünanlage Rathenaustraße - Fuß-/Radwegkonflikt
+- TOP 8.4.4.: Einrichtung eines Shuttleservice zur Olympiahalle - Anhörung
+- TOP 8.4.5.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs – Zweites Maßnahmenbündel - Beschlussentwurf - Sitzungsvorlage Nr. 14-20 / V 15495
+- TOP 9.1: Plenum
+- TOP 9.1.1.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 9.1.2.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte, Schriftverkehr: REGSAM, Generationenzentrum e.V., Teestube "komm"
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.2.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 9.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4.: Schopenhauerstraße: Information über das Betreuungskonzept der Kindertagesstätte
+- TOP 9.2.5.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 9.2.6.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 9.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.8.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 9.2.9.: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 9.2.10.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 9.2.11.: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP 9.2.12.: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP 9.2.13.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP 9.2.14.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 9.2.15.: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 9.2.16.: (U) Umsetzung des 5-Hektar-Ziels in Bayern; Gesetzesentwurf der Bayerischen Staatsregierung zum Flächensparen; Stellungnahme der Landeshauptstadt München
+- TOP 9.2.17.: Meldelisten Bauvorhaben vom 02.09.2019 - 29.09.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: (U) Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln a) Erfahrungen mit der Umsetzung der Beschlüsse vom 23.11.2005 und 14.12.2016 b) Entwicklung des Sonderpostens „Stellplatzablöse“ und Mittelverwendung 01.07.2014 - 31.12.2017 c) „Stellplatzablösemittel sinnvoll verwenden – mehr Sorgfalt beim 2000-Stellplätze-Programm“, Antrag Nr. 14-20 / A 04452 der Stadtratsfraktion DIE GRÜNEN/RL vom 20.09.2018
+- TOP 9.4.2.: (U) Zweite Stammstrecke München Information über Umplanungen und Neuplanungen
+- TOP 9.4.3.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Hanselmannstraße - absolutes Haltverbot / Feuerwehrzufahrt
