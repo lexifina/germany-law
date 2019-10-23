@@ -1,0 +1,115 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-10-23T17:00:00+02:00
+- Ende: 2019-10-23T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4118
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4118
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - im Ausschuss abgelehnt
+- TOP 3: Kleine Anfragen - (offen)
+- TOP 3.1: Kein zweiter S-Bahn Eingang am Postplatz in Zehlendorf? - beantwortet
+- TOP 3.2: Kältehilfe im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Auch Radfahrer haben sich an die Straßenverkehrsordnung zu halten - beantwortet
+- TOP 3.4: Bauvorhaben Zehlendorfer Mühlenstraße/Prinz-Handjery-Straße - beantwortet
+- TOP 3.5: Erteilung von Abrissgenehmigungen – ohne Prüfung? - beantwortet
+- TOP 3.6: Wann werden die Dokumentenprüfgeräte im Bezirksamt endlich eigesetzt? - beantwortet
+- TOP 3.7: Und jährlich grüßt das ... Bezirkliche Wohnraumbündnis? - beantwortet
+- TOP 3.8: Beteiligung des Bezirksamtes an den Busspurplanungen am Hindenburgdamm - schriftlich beantwortet
+- TOP 3.9: Temperaturvorgaben für die Steglitz-Zehlendorfer Schulen - schriftlich beantwortet
+- TOP 3.10: Sprengt der angekündigte Mietendeckel die Leistungsgrenzen des bezirklichen Wohnungsamtes? - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Sondermittel der BVV für den Kunst.Raum.Steglitz e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungsplan 6-34B (Dahlem) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Steglitz-Zehlendorf: Inklusionspreis vergeben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Jungen Menschen Räume bieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Barrierefreiheit verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Alternative Route des Fernradwegs Berlin-Leipzig am Gemeindepark Lankwitz - in der BVV abgelehnt
+- TOP 4.7: Sanierung des kleinen Fußweges über die Rehwiese in Nikolassee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Ausweitung von Öffnungszeiten von Kinderarztpraxen in den Randzeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Verkehrssicherheit Königstraße (Wannsee) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Kreuzung Steglitzer Damm/Sembritzkistraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.11: Einmündungen Liebenowzeile und Presselstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.12: 300 Fahrradbügel am Strandbad Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.13: Bedienlücke zwischen den Bussen X10 und N10 schließen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.14: Kreuzungen im Wohngebiet Klingsorstraße – Schützenstraße vor Falschparkern schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.15: Radfahren gegen die Einbahnstraße zulassen in der Gritznerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.16: Radführung in der Mühlenstraße jetzt verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.17: Die Turbo-Baugenehmigung für Berlin! - in der BVV abgelehnt
+- TOP 4.18: Stadion Sachtlebenstraße planerisch absichern! - in der BVV abgelehnt
+- TOP 4.19: Überwege am Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.20: Durchgangsverkehr im Wohngebiet unterbinden - in der BVV abgelehnt
+- TOP 4.21: Moderne Beleuchtung am Quermatenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.22: AVUS: Intelligentes Verkehrsleitsystem statt sechsspurigen Ausbaus - in der BVV abgelehnt
+- TOP 4.23: Kindeswohlgefährdung verhindern: Kein Fasten für Schüler - in der BVV abgelehnt
+- TOP 4.24: Fahrradstraße Sedanstraße – Lauenburger Straße vor Schleichverkehr schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.25: Internetzugang für die Bezirksverordneten während der BVV- und Ausschusssitzungen gewährleisten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.26: Mietverfahren für bezirkliche Räume im Bereich Soziales entbürokratisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.27: Beitritt zur „Charta zur Betreuung schwerstkranker und sterbender Menschen in Deutschland" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.28: Tempo-30-Schilder in der Löhleinstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.29: Mehr Fläche für die Wannseeschule e.V. - in der BVV abgelehnt
+- TOP 4.30: Das Qualitätssiegel „Lebensort Vielfalt” bekannt(er) machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.31: Mehr Fachkräfte für die Pflege - Erweiterung der Wannsee-Schule e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.32: Zuwendungen nur bei Einhaltung politischer Neutralität - in der BVV abgelehnt
+- TOP 4.33: Nachwahl von zwei Mitgliedern in den Widerspruchsbeirat für Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.34: Neuwahl von ehrenamtlichen Mitarbeiterinnen und Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2018 - überwiesen
+- TOP 5.2: Notfalldienstpraxis für Kinder und Jugendliche in Steglitz-Zehlendorf jetzt! - überwiesen
+- TOP 5.3: Ortstermin wegen Fußgängerüberweges in der Wedellstraße in Lankwitz endlich durchführen! - überwiesen
+- TOP 5.4: Flächensicherung für Schule - überwiesen
+- TOP 5.5: Beleuchtung im Park der Schwartzschen Villa - überwiesen
+- TOP 5.6: Endlich E-Autos für das Ordnungsamt anschaffen - überwiesen
+- TOP 5.7: Neue Bäume für Steglitz-Zehlendorf - überwiesen
+- TOP 5.8: Saubere Straßenbenennungsschilder in Steglitz-Zehlendorf! - überwiesen
+- TOP 5.9: Gefährliches Überholen von Fahrrädern auf der Brückenkuppe Sundgauer Straße unterbinden - überwiesen
+- TOP 5.10: Mehr Polizei für den Seenschutz - überwiesen
+- TOP 5.11: Konzept zur Entwicklung von Zehlendorf-Mitte jetzt erstellen - überwiesen
+- TOP 5.12: Digitalisierung unserer Schulen - überwiesen
+- TOP 5.13: Aktuelle Software auf den Computern der Johann-August-Zeune-Schule und Berufsfachschule Dr. Silex – Förderzentrum „Sehen" - überwiesen
+- TOP 5.14: Wasserbrunnen an der Stewardstraße errichten - überwiesen
+- TOP 5.15: Stärkung der Kindernotfallpraxen - überwiesen
+- TOP 5.16: Hundeauslauf in Steglitz erleichtern - überwiesen
+- TOP 5.17: BVV-Audioprotokolle - überwiesen
+- TOP 5.18: Logik der Bildungssenatorin folgen - überwiesen
+- TOP 5.19: Busspur am Hindenburgdamm – vorhandenes Milieu schützen - überwiesen
+- TOP 5.20: Schulwegsicherung Erich-Kästner-Grundschule - überwiesen
+- TOP 5.21: Eigene Baumschule gründen - überwiesen
+- TOP 5.22: Verkehrsführung „kleiner“ Teltower Damm - überwiesen
+- TOP 5.23: Schulkinder schützen - überwiesen
+- TOP 5.24: Fußgängerzone am Kleinen Teltower Damm sicherer machen - überwiesen
+- TOP 5.25: Stadtteilbibliothek für die Sozialräumliche Öffnung in Lichterfelde-Süd - überwiesen
+- TOP 5.26: Shisha-Bars auch in Steglitz-Zehlendorf kontrollieren - überwiesen
+- TOP 5.27: Mehr Behindertenparkplätze auf der Schloßstraße - überwiesen
+- TOP 5.28: Kreuzung Siemensstraße/Leonorenstraße - überwiesen
+- TOP 5.29: Integriertes Stadtentwicklungskonzept Zehlendorf Mitte - überwiesen
+- TOP 5.30: Kreuzung Alt-Lankwitz/Kaiser-Wilhelm-Straße - überwiesen
+- TOP 5.31: Ampelanlage (LZA) Argentinische Allee Höhe Siebenendenweg - überwiesen
+- TOP 5.32: Zeitlich begrenzte Parkplätze am S-Bahnhof Nikolassee - überwiesen
+- TOP 5.33: Niederschwellige Glasmüllsammlung beibehalten - überwiesen
+- TOP 5.34: Heckeshorn entwickeln - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Runder Tisch zur Lösung der Probleme am Osteweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - beantwortet
+- TOP 7.1: Wider die Falschinformation des Senats um den Osteweg 63 - beantwortet
+- TOP 7.2: Welche baulichen Veränderungen werden in Lichterfelde-Ost vorgenommen? - beantwortet
+- TOP 7.3: Klimastreik und Extinction Rebellion - beantwortet
+- TOP 7.4: Welche Auswirkungen hat das neue Steganlagenkonzept des Bezirks Steglitz-Zehlendorf auf den Wassersport und das Tourismuskonzept des selbigen? - schriftlich beantwortet
+- TOP 7.5: Kältehilfe-Update Oktober 2019: Erneutes Versagen des CDU-Stadtrates für Soziales in Steglitz-Zehlendorf?! - beantwortet
+- TOP 8: Anträge - (offen)
+- TOP 8.1: Sicherung des Schulstandortes Osteweg - in der BVV zurückgezogen
+- TOP 8.2: Ja! Zu bepflanzten Baumscheiben - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Rathausneubau zukunftssicher planen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Poller-Radweg auf dem Dahlemer Weg anpassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: „Bike-Flash"-System für Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Express Bus X10 – nächste Haltstelle Finkenstraße/Brücke-Museum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Wir stärken den Jugendoffizieren der Bundeswehr den Rücken! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Subzentrum Lichterfelde-Ost rund um den Kranoldmarkt mit Sorgfalt entwickeln - in der BVV abgelehnt
