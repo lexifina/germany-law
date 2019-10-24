@@ -1,0 +1,125 @@
+# 31. Öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin - MIT LIVESTREAM
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-10-24T17:30:00+02:00
+- Ende: 2019-10-24T22:30:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4793
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4793
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=450877
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Eröffnung, Genehmigung der Tagesordnung - erledigt
+- TOP 2: Einwohneranfragen - (offen)
+- TOP 2.1: Neubau eines Mikroapartmenthauses - beantwortet
+- TOP 2.2: Catcherwiese in den Rehbergen - beantwortet
+- TOP 3: Feststellen von Dringlichkeiten - erledigt
+- TOP 4: Mitteilungen - (offen)
+- TOP 4.1: des Vorstandes - erledigt
+- TOP 4.2: der Fraktionen - erledigt
+- TOP 4.3: der Ausschüsse - erledigt
+- TOP 4.4: des Bezirksamtes - erledigt
+- TOP 5: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 6: Thematische Stunde - erledigt
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Bleibt unsere neue Europacity ohne Anschluss – gibt es Baufortschritte für Infrastruktur? - beantwortet
+- TOP 7.2: Scham bei der Nutzung von Gutscheinen vom Jobcenter Mitte - beantwortet
+- TOP 7.3: Wie ist das Schul-Umwelt-Zentrum Mitte auf seine künftigen Herausforderungen vorbereitet? - schriftlich beantwortet
+- TOP 7.4: Unfallschwerpunkt Fenn Ecke Tegeler Straße? - beantwortet
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Kosten der grünen Oktoberrevolution - schriftlich beantwortet
+- TOP 7.7: Büro für Bürgerbeteiligung - und nu? - schriftlich beantwortet
+- TOP 7.8: Kinderehen im Bezirk Mitte – Wer hilft den Betroffenen? - schriftlich beantwortet
+- TOP 7.9: Religion von Verstorbenen bei Sozialbestattungen berücksichtigen - schriftlich beantwortet
+- TOP 7.10: Wohin mit dem Bolzplatz in der Pohlstraße? - schriftlich beantwortet
+- TOP 7.11: Invalidenstraße - schriftlich beantwortet
+- TOP 7.12: Wie geht es den Sakura-Kirschbäumen dreißig Jahre nach dem Mauerfall? - schriftlich beantwortet
+- TOP 7.13: Umsetzungsstand des Beschlusses zur DS 0239/V "Alternative Nutzungsmöglichkeiten für das Parkcafé Rehberge" - schriftlich beantwortet
+- TOP 7.14: Neues Leben in die ehemalige Hausmeisterwohnung der Anna-Lindh-Grundschule- Warum dauert es so lange? - schriftlich beantwortet
+- TOP 7.15: Was lange währt, wird endlich gut? - schriftlich beantwortet
+- TOP 7.16: Wieder Baumfällungen - schriftlich beantwortet
+- TOP 7.17: Erfahrungen mit dem ISBJ - schriftlich beantwortet
+- TOP 8: Dringlichkeitsanfragen - (offen)
+- TOP 8.1: Medikamentenversorgung in Berlin-Mitte in Gefahr? - beantwortet
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Statt Lichterglanz nur ein Stern in dunkler Nacht – Keine Weihnachtsbeleuchtung am Boulevard „Unter den Linden“? - beantwortet
+- TOP 9.2: Einbeziehung von Bürger*innen im Zuge des Nahraumkonzeptes Bremer Straße - beantwortet
+- TOP 9.3: Deckungslücke im Schulentwicklungsplan - schriftlich beantwortet
+- TOP 9.4: Projekte zum Kampf gegen Antisemitismus und Rechtsextremismus in Berlin-Mitte stärken! - schriftlich beantwortet
+- TOP 9.5: Autofreies Wochenende in der Friedrichstraße - schriftlich beantwortet
+- TOP 9.6: Zustand der Bürgersteige - schriftlich beantwortet
+- TOP 9.7: Neuer Belag der Gustav-Heinemann-Brücke - schriftlich beantwortet
+- TOP 9.8: Geisterstadt oder Tourismus-Highlight – Wie sieht die Zukunft des Nikolaiviertels aus? - schriftlich beantwortet
+- TOP 9.9: Schriftliche Anfragen verhallen im Bezirksamtswald II? - schriftlich beantwortet
+- TOP 9.10: Mieten in Mitte – Wohin geht die Reise? - schriftlich beantwortet
+- TOP 9.11: BERLINer Siegessäule WERBEFREI! - schriftlich beantwortet
+- TOP 9.12: Welche Verantwortung bei der Gesundheitsversorgung im Bezirk sieht das Bezirksamt für sich? - schriftlich beantwortet
+- TOP 9.13: Umweltfreundliche Fahrgastschiffe auf Mittes Gewässern? - schriftlich beantwortet
+- TOP 9.14: Attraktiver Alexanderplatz - aber wie? - schriftlich beantwortet
+- TOP 9.15: Kapazitäten zu Baumaßnahmen beim Facility Management - schriftlich beantwortet
+- TOP 9.16: Clankriminalität in Mitte? - schriftlich beantwortet
+- TOP 9.17: Wie geht es weiter mit dem ehemaligen Diesterweg-Gymnasium? - schriftlich beantwortet
+- TOP 9.18: Was tut das Grünflächenamt gegen die Ausbreitung des „Götterbaums“ in Mitte? - schriftlich beantwortet
+- TOP 9.19: Weihnachtsbeleuchtung AN! - schriftlich beantwortet
+- TOP 10: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Schulentwicklungsplanung für den Bezirk Mitte für die Schuljahre 2018/19 bis 2030/31 - überwiesen
+- TOP 11.2: Sitzungskalender 2020 - überwiesen
+- TOP 11.3: Entscheidung zum Rechtsverordnungsentwurf über die Verlängerung der Verände-rungssperre 1-33B/29 für das Grundstück Linienstraße Nr. 16 - 21 im Bezirk Mitte, Ortsteil Mitte. - überwiesen
+- TOP 12: Beschlussempfehlung zur Vorlage zur Beschlussfassung - (offen)
+- TOP 13: Dringlichkeitsanträge - (offen)
+- TOP 13.1: BVV bei der Sportentwicklungsplanung einbeziehen - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: „Ich bin DIESE“: Bezirksamt Mitte wird Genossenschaftsmitglied bei Diese e.G. - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Durchsetzung der Nachtruhe am Weinbergsweg/Volkspark am Weinbergsweg, Rosenthaler Platz und Umgebung und im Weinbergspark - überwiesen
+- TOP 14.3: Barrierefreiheit in Mitte herstellen! - überwiesen
+- TOP 14.4: Bürgerdeputierte für den Ausschuss Soziales und Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Umwelt schützen - Klassenfahrten mit Bus & Bahn durchführen - in der BVV abgelehnt
+- TOP 14.6: Liberalisierung und Umweltschutz bei der Fahrgastschifffahrt - überwiesen
+- TOP 14.7: Verkehr in Wohnquartieren reduzieren: Diagonalsperren auch für Mitte! - überwiesen
+- TOP 14.8: Aufgabenstellung/ Leistungsbeschreibung der Parkläufer im Weinbergspark zielorientiert anpassen - überwiesen
+- TOP 14.9: Mitgliedschaft bei DIESE eG - in der BVV zurückgezogen
+- TOP 14.10: Toilettenhaus im Großen Tiergarten - überwiesen
+- TOP 14.11: Mehr Straßenpumpen in Mitte zur Bewässerung von Bäumen - überwiesen
+- TOP 14.12: Bekanntheit der Härtefallfonds gegen soziale Härten erhöhen - überwiesen
+- TOP 14.13: Schulen über Angebot der Kiezsportlotsin informieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Unter den Linden soll auch 2019 weihnachtlich erstrahlen - mit Änderungen in der BVV beschlossen
+- TOP 14.15: Bauliche Sicherung des Denkmals Parkcafe in den Rehberge - jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Zentrale Beschwerdestelle im Jobcenter prüfen - überwiesen
+- TOP 14.17: Pilotprojekt entwickeln, um mehr Mädchen und junge Frauen für den Sport zu begeistern - überwiesen
+- TOP 14.18: Mitte braucht Schule! - überwiesen
+- TOP 14.19: Zweckentfremdungsverbot für gemeinnützige Einrichtungen (Tieckstraße 17) - überwiesen
+- TOP 14.20: Nutzungsdauer der Kita Kiautschoustraße 10 verlängern - überwiesen
+- TOP 14.21: Wahl des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Erinnerung "Rund um den Koppenplatz" - ohne Änderungen in der BVV beschlossen
+- TOP 15: Dringliche Entschließungen - (offen)
+- TOP 16: Entschließungen - (offen)
+- TOP 16.1: BVV-Mitte missbilligt die homophoben körperlichen Attacken vom 04.10.2019, 06.10.2019, 14.10.2019 und 16.10.2019 - überwiesen
+- TOP 17: Beschlussempfehlungen aus den Ausschüssen - (offen)
+- TOP 17.1: Mittel für luK im Fachbereich Schule den aktuellen Anforderungen anpassen - mit Änderungen in der BVV beschlossen
+- TOP 17.2: Optimierung der digitalen Kommunikation mit den Mitte-Bürger*innen - in der BVV abgelehnt
+- TOP 17.3: Sportangebot vergrößern – „Catcherwiese“ in den Rehbergen nutzbar machen! - in der BVV abgelehnt
+- TOP 17.4: Sportanlage Lüderitzstraße benennen - ohne Änderungen in der BVV beschlossen
+- TOP 17.5: Voraussetzungen für die ausreichende Bewässerung von Straßenbäumen schaffen! - gegenstandslos
+- TOP 17.6: Den Koppenplatz der prominenten Lage entsprechend gestalten - in der BVV abgelehnt
+- TOP 17.7: Effektive Personalgewinnung: Headhunter bei XING – Imagepflege in den Sozialen Medien - in der BVV abgelehnt
+- TOP 17.8: Schritte zu einer realistischen Drogenpolitik - ohne Änderungen in der BVV beschlossen
+- TOP 18: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 18.1: Biologische Vielfalt in Mitte – Modellprojekt in der Afrikanischen Straße 13 konzipieren und verwirklichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.2: Urban Gardening im Bezirk Mitte stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.3: Die Chance auf eine moderne Verwaltung in Mitte nutzen – zügig E-Government-Gesetz umsetzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.4: Städtebauförderprogramm „Zukunft Stadtgrün“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.5: Schulentwicklungsplanung für Mitte vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.6: Integration durch neue Jugendzentren in Mitte fördern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 18.7: Das Stadion Rehberge finden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.8: Eine U-Bahn ins Nikolaiviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.9: Namenserweiterung der U-Haltestelle „Rotes Rathaus“ in „Rotes Rathaus – Nikolaiviertel“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.10: Namenszusatz der U-Bahnhaltestelle „Rotes Rathaus“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.11: Zusätzliche Ressourcen für die Umsetzung des Jugendförder- und Beteiligungsgesetzes auch zweckentsprechend einsetzen und Mindeststandards garantieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.12: Beim Schulneubau Reinickendorfer Straße das Schulumweltzentrum (SUZ) erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.13: Beschluss über die Aufstellung des Bebauungsplans II-91-1 „Rathenower Straße 16“ und die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 und Behördenbeteiligungen gemäß § 4 Abs. 1 und 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 18.14: Beschluss über die Abwägung der frühzeitigen Beteiligungen von Öffentlichkeit und Behörden gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB für das noch einzuleitende Bebau-ungsplanverfahren 1-105 für den Bereich des ehemaligen Hauses der Statistik - mit Abschlussbericht zur Kenntnis genommen
