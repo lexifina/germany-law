@@ -995,7 +995,7 @@ Tabelle 1: Kategorien von Prüffallvorgaben
 2.2 Struktur der Prüffallvorgaben
 Jede Prüffallvorgabe ist folgendermaßen strukturiert:
 | Attributname | Beschreibung |
-| ID: | Eindeutige Kennzeichung der Prüffallvorgabe Der Bezeichner hat folgende Struktur: P1-XXX-YYY-ZZZ mit folgender Bedeutung: |
+| ID: | Eindeutige Kennzeichnung der Prüffallvorgabe Der Bezeichner hat folgende Struktur: P1-XXX-YYY-ZZZ mit folgender Bedeutung: |
 | XXX | Hauptkategorie (2 bis 3 Zeichen) für die Prüffallvorgaben: |
 | SST BL WL UDA FBH AED MBN TB KON TRO MBD TZB | Kategorie „Technische Schnittstellentests“ Fachlicher Bereich „Blacklist“ Fachlicher Bereich „Whitelist“ Fachlicher Bereich „User-Details“-Anfragen Fachlicher Bereich „Fahrzeugbestand eines Halters“ Fachlicher Bereich „abschnittsbezogene Erhebungsdaten“ Fachlicher Bereich „Mautbuchungsnachweise“ Fachlicher Bereich „Tagesbericht“ Fachlicher Bereich „Kontrolle“ Fachlicher Bereich „Trust Objects“ Fachlicher Bereich „Mautbuchungsdaten“ Fachlicher Bereich „Technischer Zustand eines Bordgeräts (EETS)“ |
 | YYYY | Diese Unterkategorie entspricht der Nummer der betroffenen Schnittstelle (3 bis 4 Zeichen). Ausnahme: Die Kennzeichnung „00X“ wird für schnittstellenübergreifende Prüffallvorgaben verwendet. |
