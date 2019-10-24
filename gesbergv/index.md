@@ -31,7 +31,7 @@
 
 ### 3. Unterabschnitt Besondere Bestimmungen für den untertägigen Nichtsteinkohlenbergbau
 
-- [§ 13 Begrenzung der Belastung durch fibrogene Grubenstäube](0013.md)
+- [§ 13 Maßnahmen bei Belastung durch fibrogene Grubenstäube](0013.md)
 
 ## 4. Abschnitt Schlussvorschriften
 
@@ -62,4 +62,3 @@ nach § 8 Abs. 2 Satz 2](anlage-8.md)
 
 Mindestangaben in den Aufzeichnungen nach § 9 Abs. 1
 Satz 1 Nr. 2](anlage-9.md)
-- [Anlage 10 (zu § 10)Staubgrenzwerte für fibrogene Grubenstäube nach § 10 Abs. 2 Satz 1](anlage-10.md)

@@ -12,6 +12,6 @@
 | 2.3 | Name und Anschrift des untersuchenden Arztes |
 | 3 | Allgemeine Beurteilung (Eignungsgruppe nach Anlage 1) |
 | 4 | Einsatzbeschränkungen |
-|  | (zum Beispiel bei Absturzgefahr, bei unzureichender Seh- und Farbtüchtigkeit, bei Nacht- oder Schichtarbeit, bei Arbeit mit Druckluftwerkzeugen, bei vorwiegend kniend auszuführenden Arbeiten/niedrigen Grubenbauen, bei manueller Handhabung von Lasten, nur bei bestimmter Trocken- oder Effektivtemperatur, bei Tätigkeiten unter Tage gegebenenfalls Beschränkungen nach § 9 Absatz 2, auch in Verbindung mit § 13 Absatz 2 Satz 2) |
+|  | (zum Beispiel bei Absturzgefahr, bei unzureichender Seh- und Farbtüchtigkeit, bei Nacht- oder Schichtarbeit, bei Arbeit mit Druckluftwerkzeugen, bei vorwiegend kniend auszuführenden Arbeiten/niedrigen Grubenbauen, bei manueller Handhabung von Lasten, nur bei bestimmter Trocken- oder Effektivtemperatur, bei Tätigkeiten unter Tage gegebenenfalls Beschränkungen nach § 9 Absatz 2) |
 | 5 | Beurteilung nach anderen Rechtsvorschriften |
-| 6 | Bemerkungen (insbesondere Frist nach Anlage 2 Nummer 1.4 sowie kürzere Fristen nach § 3 Absatz 2 Satz 2; bei Tätigkeiten im untertägigen Steinkohlenbergbau gegebenenfalls Angaben zu zulässigen Staubbelastungswerten nach § 9 Absatz 1 Satz 1). |
+| 6 | Bemerkungen (insbesondere Frist nach Anlage 2 Nummer 1.4 sowie kürzere Fristen nach § 3 Absatz 2 Satz 2; bei Tätigkeiten im untertägigen Steinkohlenbergbau gegebenenfalls Angaben zu zulässigen Staubbelastungswerte nach § 9 Absatz 1 Satz 1). |

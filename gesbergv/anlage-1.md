@@ -5,7 +5,7 @@
   | 2 | Bedingt geeignet/keine gesundheitlichen Bedenken unter bestimmten Voraussetzungen |
   | 3 | Befristetet ungeeignet/befristete gesundheitliche Bedenken |
   | 4 | Ungeeignet/dauernde gesundheitliche Bedenken |
-2. Die Eignungsgruppen 1, 2 und 4 umfassen bei Tätigkeiten unter Tage auch die folgenden Untergruppen. Die Untergruppen 1.1 bis 1.3 und 2.1 und 2.2 sind nur im untertägigen Steinkohlenbergbau, die Untergruppen 4.1 bis 4.5 sind im untertägigen Steinkohlenbergbau sowie bis zum 24. Oktober 2019 im untertägigen Nichtsteinkohlenbergbau festzustellen, soweit dies zur Kennzeichnung von Staublungenveränderungen erforderlich ist. Die Feststellung der Untergruppen dient als Grundlage für die Feststellung der Rechtsfolgen nach § 9 Absatz 1 und 2, auch in Verbindung mit § 13 Absatz 2 Satz 2, durch den Arzt. Auf der Bescheinigung über die Eignungsuntersuchung für den Unternehmer nach Anlage 4 werden nur die Eignungsgruppen 1 bis 4 sowie die Rechtsfolgen nach § 9 Absatz 1 und 2 und § 13 Absatz 2 Satz 2 und nicht die Untergruppen angegeben.
+2. Die Eignungsgruppen 1, 2 und 4 umfassen bei Tätigkeiten unter Tage auch die folgenden Untergruppen. Die Untergruppen 1.1 bis 1.3 und 2.1 und 2.2 sind nur im untertägigen Steinkohlenbergbau, die Untergruppen 4.1 bis 4.5 sind im untertägigen Steinkohlenbergbau sowie bis zum 24. Oktober 2019 im untertägigen Nichtsteinkohlenbergbau festzustellen, soweit dies zur Kennzeichnung von Staublungenveränderungen erforderlich ist. Die Feststellung der Untergruppen dient als Grundlage für die Feststellung der Rechtsfolgen nach § 9 Absatz 1 und 2 durch den Arzt. Auf der Bescheinigung über die Eignungsuntersuchung für den Unternehmer nach Anlage 4 werden nur die Eignungsgruppen 1 bis 4 sowie die Rechtsfolgen nach § 9 Absatz 1 und 2 und nicht die Untergruppen angegeben.
   | Eignungsgruppen – Untergruppen | Streuung nach ILO-Klassifikation |
   | 1 | Geeignet | – |
   | 1.1 | Personen ohne Staublungenveränderungen oder andere ihre Beschäftigung in pneumokoniosegefährdeten Betriebspunkten beeinträchtigende Körperschäden | 0/0 |
@@ -14,7 +14,7 @@
   | 2 | Bedingt geeignet im untertägigen Steinkohlenbergbau (unter Berücksichtigung der Anforderungen nach § 9 Absatz 1 Satz 1 Nummer 2) | – |
   | 2.1 | Personen mit röntgenologisch sicheren, aber noch nicht mittelgradigen Staublungenveränderungen ohne wesentliche Funktionsstörungen | 1/1-2/2 |
   | 2.2 | Personen mit anderen ihre Beschäftigung in pneumokoniosegefährdeten Betriebspunkten entsprechend Nummer 2.1 beeinträchtigenden Körperschäden | – |
-  | 4 | Ungeeignet für Tätigkeiten unter Tage nach § 9 Absatz 2 Satz 1 im Steinkohlenbergbau und nach § 13 Absatz 2 Satz 2 im sonstigen untertägigen Bergbau in Betriebspunkten, in denen fibrogene Grubenstäube auftreten können |  |
+  | 4 | Ungeeignet für Tätigkeiten unter Tage nach § 9 Absatz 2 Satz 1 im Steinkohlenbergbau in Betriebspunkten, in denen fibrogene Grubenstäube auftreten können |  |
   | 4.1 | Frühsilikotiker | – |
   | 4.2 | Personen mit Staublungenveränderungen, die ein rasches Fortschreiten zeigen | – |
   | 4.3 | Personen mit röntgenologisch sicheren, aber noch nicht mittelgradigen Staublungenveränderungen und mit wesentlichen Funktionsstörungen | 1/1-2/2 |
