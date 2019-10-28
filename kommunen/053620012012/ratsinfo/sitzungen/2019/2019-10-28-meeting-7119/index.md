@@ -1,0 +1,52 @@
+# Rat (50. Sitzung)
+
+- Körperschaft: Stadt Brühl
+- Beginn: 2019-10-28T17:01:00+01:00
+- Ende: 2019-10-28T19:58:00+01:00
+- Ort: Clemens-August-Schule, Clemens-August-Str. 33, 50321 Brühl, Mensa
+- Status: 
+- Gremium: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bruehl.de/tops/?__=UGhVM0hpd2NXNFdFcExjZR1Bk74Lu09q7rz2RvNPmrM
+- OParl: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/meeting/7119
+- Quelle: https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTYD5K5y-HGkSL9eOT6zX78OrT8phi774lxYcnNsumFW/Bekanntmachung_Rat_28.10.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.bruehl.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbvUSb1Mc92p-FjLB3uCBtATQ45bYN2ENSuUX3Qe3O4t/Oeffentliche_Niederschrift_Rat_28.10.2019.pdf
+
+## Tagesordnung
+
+- TOP A): Öffentliche Sitzung
+- TOP 1.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Schrankentechnik I
+- TOP 1.2: Streifenwagen für Brühl
+- TOP 1.3: Schrankentechnik II
+- TOP 1.4: Bebauungsplan
+- TOP 2.: Niederschrift vom 23.09.2019
+- TOP 3.: Einbringung der Haushaltssatzung für das Haushaltsjahr 2020 - (kein Text vorhanden)
+- TOP 4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1: City-Marketing-Projekt "Digitalisierung"; Erhalt und Verbesserung der Attraktivität der Brühler Innenstadt hier: "Brühl-App" Bezug: HA 15.5.2017, Vorlage Nr. 172/2017, HA 26.2.2018, Vorlage Nr. 39/2018, HA 19.11.2018, Vorlage Nr. 398/2018, HA 2.9.2019, Vorlage Nr. 304/2019 - (kein Text vorhanden)
+- TOP 5.: Kultur- und Festivalprogramm 2020 - (kein Text vorhanden)
+- TOP 6.: Beitritt der Stadt Brühl zum "Kommunen Netzwerk: engagiert in NRW" - (kein Text vorhanden)
+- TOP 7.: Job-Ticket-Ausgabe im Jahr 2020 - (kein Text vorhanden)
+- TOP 8.: Kooperation mit Urban Sports Club für die Beschäftigten der Stadt Brühl - (kein Text vorhanden)
+- TOP 9.: Mögliche (mittelbare) Beteiligung an der Klärschlammkooperation Rheinland (KKR) - (kein Text vorhanden)
+- TOP 10.: 2. Zwischenbericht zur Haushaltslage 2019 zum 30.09.19 mit Prognose zum 31.12.19
+- TOP 11.: Über- und außerplanmäßige Mittelbereitstellung
+- TOP 11.1: Ersatzbeschaffung eines Gerätewagen Logistik für die Feuerwehr hier: Überplanmäßige Mittelbereitstellung - (kein Text vorhanden)
+- TOP 12.: Umbesetzung in Ausschüssen
+- TOP 12.1: Umbesetzung im Jugendhilfeausschuss - (kein Text vorhanden)
+- TOP 12.2: Umbesetzungen im Ausschuss für Planung und Stadtentwicklung und im Ausschuss für Verkehr und Mobilität Bezug: Antrag der Grünen-Fraktion vom 23.10.2019 - (kein Text vorhanden)
+- TOP 13.: Mitteilungen
+- TOP 13.1: Besuch von Bundespräsident a.D. Christian Wulff
+- TOP 13.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.: Anfragen
+- TOP 14.1: Infotafel am Balthasar-Neumann-Platz
+- TOP 14.2: Informationsveranstaltung Parkraumkonzept
+- TOP 14.3: Neue Mikrofonanlage
+- TOP 14.4: Radstation Brühl
+- TOP 14.5: Earth Hour
+- TOP B): Nichtöffentliche Sitzung
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen
+- TOP 16.1: Regionalplan
+- TOP 16.2: Flächennutzungsplan
+- TOP 16.3: Mitarbeitende des Bürgeramtes
