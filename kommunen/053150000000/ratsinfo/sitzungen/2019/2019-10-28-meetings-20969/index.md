@@ -1,0 +1,70 @@
+# 50. Sitzung des Verkehrsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-28T15:02:00+01:00
+- Ende: 2019-10-28T16:52:00+01:00
+- Ort: KVB AG, Scheidtweilerstr. 38, 50933 Köln, Besprechungsraum 619
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/17
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20969
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20969
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00742957.pdf
+- Ergebnisprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00742957.pdf
+- Wortprotokoll: Tagesordnung (Sitzungsexemplar) https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00742957.pdf
+
+## Tagesordnung
+
+- TOP -: Gleichstellungsrelevante Angelegenheiten
+- TOP -: Bestellung eines stellvertretenden Schriftführers für den Verkehrsausschuss - ungeändert beschlossen
+- TOP 1: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 1.1: Umweltmaut ÖPNV-Abgabe - Sache ist erledigt
+- TOP 1.1.1: Sozial gerechte Umweltmaut! – Änderungsantrag zu Top 3.1.6 "Umweltmaut ÖPNV-Abgabe“ - endgültig zurückgezogen
+- TOP 1.1.2: Umweltmaut ÖPNV-Abgabe (AN/1256/2019 und AN/1314/2019) - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 1.1.3: Umweltmaut ÖPNV-Abgabe - Sache ist erledigt
+- TOP 1.2: Kapazitätserweiterung der P+R-Anlage Königsforst - ungeändert beschlossen
+- TOP 1.2.1: Kapazitätserweiterungen der P+R-Anlagen planen und priorisieren! Änderungsantrag zu TOP 1.2 „Kapazitätserweiterung der P+R-Anlage Königsforst“ - endgültig abgelehnt
+- TOP 2: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren, Anregungen der Bezirksvertretungen und des Integrationsrates
+- TOP 3: Entscheidungen (Beschlussorgan Verkehrsausschuss)
+- TOP 3.1: Stadtbahn Bonn-Niederkassel-Köln - geändert beschlossen
+- TOP 3.2: Bedarfsfeststellungsbeschluss über die Vergabe von freiberuflichen Leistungen zur Realisierung der Maßnahmenumsetzung "Vollausbau der Geestemünder Straße2 in Köln-Niehl - ungeändert beschlossen
+- TOP 3.3: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - zurückgestellt
+- TOP 3.4: Sitzen statt Parken - Außengastronomie auf Stellplätzen - im ersten Durchgang verwiesen
+- TOP 4: Vorberatungen (Beschlussorgan Rat oder anderer Ausschuss)
+- TOP 4.1: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - zurückgestellt
+- TOP 4.3: Anpassung der Zuständigkeitsordnung - zurückgestellt
+- TOP 4.4: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 4.5: Severinsbrücke; Bedarfsfeststellungbeschluss zur Durchführung einer Nachrechnung auf Grundlage der "Richtlinie zur Nachrechnung von Straßenbrücken im Bestand" - ungeändert empfohlen
+- TOP 5: Anfragen nach § 4 der Geschäftsordnung des Rates
+- TOP 5.1: Offene Anfragen aus vorangegangenen Sitzungen
+- TOP 5.1.1: Freihaltetrassen und möglicher Vorlaufbetrieb - zurückgestellt
+- TOP 5.1.2: Können Störungen im Betriebsablauf der Linie 7 zwischen Poll und Deutz vermieden werden? - Sache ist erledigt
+- TOP 5.2: Neue Anfragen
+- TOP 5.2.1: Stellplatzschlüssel bei aktuellen Wohnungsbauvorhaben - Sache ist erledigt
+- TOP 5.2.2: Lastenfahrräder - Sache ist erledigt
+- TOP 5.2.2.1: Lastenfahrräder - Kenntnis genommen
+- TOP 5.2.3: Jobtickets in Köln - Sache ist erledigt
+- TOP 6: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 6.1: Stellungnahme zu einer Anfrage der SDP-Fraktion, hier: Kölner Rheinbrücken – Wegeverbindungen für den Radverkehr verbessern! (AN/0841/2019) - Sache ist erledigt
+- TOP 6.2: Anfrage des Seniorenvertreters Meurers betr. Fußgängerbeauftragten - zurückgestellt
+- TOP 6.3: Mülheimer Brücke - zurückgestellt
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 7.1: Unterrichtung des Rates und des Fachausschusses über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 7.1.1: Umgestaltung des Knotenpunktes Aachenerstraße/Hültzstraße/Stadtwaldgürtel, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr. 2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7.2: Sonstige Mitteilungen
+- TOP 7.2.1: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 7.2.2: Beantwortung der SPD Anfrage AN/1057/2019 zum Ausbau Godorfer Hafen - Kenntnis genommen
+- TOP 7.2.3: Stadtbahnhaltestelle Vingst, Aufzugsnachrüstung, Bauzeitverlängerung - Kenntnis genommen
+- TOP 7.2.4: SmartCity Memorandum of Understanding - Kenntnis genommen
+- TOP 7.2.5: Sachstand Überprüfung des Rückbaus freilaufender Rechtsabbieger - Kenntnis genommen
+- TOP 7.2.6: Parken der Reisebusse am linken Rheinufer/Logistikkonzept Rheinufer - Kenntnis genommen
+- TOP 7.2.7: Verwendung der Stellplatzablösemittel im Jahr 2018 - Kenntnis genommen
+- TOP 7.2.8: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 7.2.9: Förderung von ÖPNV und Radfahren durch mehr Sicherheit von Fußgängern und Radfahrern entlang der Bundesstraße 8 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 7.2.10: Bundeswettbewerb "Klimaschutz durch Radverkehr": Fördermittel bewilligt - Kenntnis genommen
+- TOP 7.2.11: Sachstand Lastenradförderung - Kenntnis genommen
+- TOP 8: Mündliche Anfragen
+- TOP 8.1: Aufhebung der Radwegebenutzungspflicht - zur weiteren Bearbeitung in die Verwaltung überwiesen
+- TOP 8.2: Schaltung der Pförtnerampel in Weiden-West - Sache ist erledigt
+- TOP 8.3: Defekte Aufzüge an Stadtbahnhaltestellen - zur weiteren Bearbeitung in die Verwaltung überwiesen
