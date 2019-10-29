@@ -1,0 +1,51 @@
+# Stadtentwicklungsausschuss (30. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2019-10-29T18:00:00+01:00
+- Ende: 2019-10-29T19:59:00+01:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-112
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRzh2Ri7H9GmXhhzvcbXg9w
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/19970
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSpeOPvA0x_BmSXVkiApkCw3yKgSDMWLr-lSUtKfS1BN/Bekanntmachung_Stadtentwicklungsausschuss_29.10.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtentwicklungsausschuss) https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQQLCwbzY8cJa9xS7pvsEoDO8nKibV47lFvvEiIJeiSp/Oeffentliche_Niederschrift_Stadtentwicklungsausschuss_29.10.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Stadtentwicklungsausschusses Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Stadtentwicklungsausschusses vom 10.09.2019 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Integriertes Stadtentwicklungskonzept (ISEK) der Stadt Bad Münstereifel hier: I. Bewilligung Programmantrag 2019 und Gesamtantrag 2018-2022 II. Programmantrag 2020 - Beschluss bei 4 Enthaltungen
+- TOP 4.: Mobilfunkempfang und mobiles Internet - Einstimmiger Beschluss
+- TOP -: Mobilfunkempfang und mobiles Internet hier: SPD-Antrag vom 02.09.2019 -   
+- TOP 5.: Verkehrsberuhigung Rönnstraße hier: UWV-Antrag vom 23.09.2019 - Einstimmiger Beschluss
+- TOP 6.: Verkehrsberuhigung Aspelweg hier: UWV-Antrag vom 23.09.2019 - Einstimmiger Beschluss
+- TOP 7.: Sperrung des Möschemer Weg mittels einer Schranke hier: CDU-Antrag vom 30.09.2019 - Beschluss bei 1 Enthaltung
+- TOP 8.: Widerrechtliches Parken auf dem Bürgersteig Ecke Turmgasse / Iversheimer Straße in Eschweiler hier: CDU-Antrag vom 30.09.2019 - Einstimmiger Beschluss
+- TOP 9.: Klimaschutzmaßnahmen hier: Errichtung von Ladestationen für Elektrofahrzeuge - Einstimmiger Beschluss
+- TOP 10.: Klimaschutzmaßnahmen hier: Einsatz von E-Bussen im ÖPNV - Einstimmiger Beschluss
+- TOP 11.: Klimaschutzmaßnahmen hier: Elektrifizierung Voreifelbahn - Einstimmiger Beschluss
+- TOP 12.: Klimaschutzmaßnahmen hier: Errichtung von Solarthermien und Photovoltaikanlagen in der Kernstadt und auf denkmalgeschützten Objekten in allen Ortsteilen - Einstimmiger Beschluss
+- TOP 13.: Klimaschutzmaßnahmen hier: Errichtung von Windkraftanlagen - Einstimmiger Beschluss
+- TOP 14.: Klimaschutzmaßnahmen hier: Beheizung zukünftiger Baugebiete - Einstimmiger Beschluss
+- TOP 15.: Radweg Arloff - Kalkar - Einstimmiger Beschluss
+- TOP 16.: Bebauungsplan Nr. 10 "Kurhausgebiet" - 7. Änderung im beschleunigten Verfahren gem. § 13a BauGB hier: a) Abwägungsbeschlüsse und b) Satzungsbeschluss - Einstimmiger Empfehlungsbeschluss
+- TOP 17.: Bauliche Entwicklung auf dem Flurstück Gem. Arloff, Flur 7, Flurstück Nr. 446, Bad Münstereifel-Arloff, Hubertuskapelle - Einstimmiger Beschluss
+- TOP 18.: Anfrage zur baulichen Entwicklung auf dem Grundstück Gemarkung Schönau, Flur 4, Flurstück Nr. 95 - Bad Münstereifel-Schönau -  
+- TOP -: Anfrage zur baulichen Entwicklung auf dem Grundstück Gemarkung Schönau, Flur 4, Flurstück Nr. 95 - Bad Münstereifel-Schönau - Einstimmiger Beschluss
+- TOP 19.: Bauliche Entwicklung auf dem Flurstück Gem. Münstereifel, Flur 10, Flurstück Nr. 29, Bad Münstereifel-Eicherscheid, Ahrweiler Straße hier: Kleinflächige Einzelhandelsansiedlungen unter 800 m² - Einstimmiger Beschluss
+- TOP 20.: Antrag auf bauliche Entwicklung der Flurstücke Gem. Houverath, Flur 35, Flurstücke 12 und 153, Bad Münstereifel Wald – Weidenweg - Beschluss bei 5 Gegenstimmen
+- TOP 21.: Antrag auf weitere bauliche Entwicklung auf dem Grundstück Gemarkung Arloff, Flur 9, Flurstück Nr. 842, Bad Münstereifel-Arloff, Im Baist - Einstimmiger Beschluss
+- TOP 22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 27.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.: Denkmalförderprogramm 2019 des Landes NRW (1) Einzelzuschüsse für größere denkmalpflegerische Maßnahmen Privater, Gemeinden und Gemeindeverbände, Kirchen, Religionsgemeinschaft, Denkmalpflegeorganisationen oder gemeinnützigen Trägern (2) Förderung kleinerer denkmalpflegerischer Maßnahmen Privater mit Pauschalzuweisungen - Einstimmiger Beschluss
+- TOP 29.: Anfragen und Mitteilungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Verkauf eines Grundstücks in Bad Münstereifel-Ellesheim - Einstimmiger Beschluss
+- TOP 2.: Anfragen und Mitteilungen
