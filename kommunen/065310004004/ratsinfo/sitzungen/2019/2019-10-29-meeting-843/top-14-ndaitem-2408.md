@@ -1,0 +1,6 @@
+# TOP 14.: Anfragen und Mitteilungen
+
+- Sitzung: Gemeindevertretung (26. Sitzung) (2019-10-29)
+- Körperschaft: Gemeinde Fernwald
+- Öffentlich: ja
+- OParl: https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/body/1/agendaitem/2408
