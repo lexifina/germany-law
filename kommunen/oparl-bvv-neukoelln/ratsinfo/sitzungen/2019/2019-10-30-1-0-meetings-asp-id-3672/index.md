@@ -1,0 +1,126 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-10-30T17:09:00+01:00
+- Ende: 2019-10-30T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3672
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3672
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Aufbruch Neukölln e.V. muss erhalten bleiben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Das Projekt "Heroes" retten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Niederlegung eines Mandats als Bezirksverordneter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.2: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Gesundheitsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.3: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.5: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.6: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2018 - überwiesen
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Neue Quartiersmanagementgebiete im Bezirk Neukölln - beantwortet
+- TOP 8.2: IFEK - beantwortet
+- TOP 8.3: Errichtung eines kommunalen medizinischen Versorgungszentrums (MVZ) - beantwortet
+- TOP 8.4: Sind Investoreninteressen am Hermannplatz wichtiger als die Bedürfnisse der Neuköllner*innen? - beantwortet
+- TOP 8.5: Körperlicher Angriff auf einen Mitarbeiter des Ordnungsamtes bei einer Verkehrszählung in der Sonnenallee - beantwortet
+- TOP 8.6: Camp Stahl - beantwortet
+- TOP 8.7: Spielplatz Saalestraße/ Ecke Zeitzer Straße - schriftlich beantwortet
+- TOP 8.8: Kehrtwende in Drogenpolitik in Friedrichshain-Kreuzberg - schriftlich beantwortet
+- TOP 8.9: Personalausstattung August-Heyn-Gartenarbeitsschule (AHGAS) - schriftlich beantwortet
+- TOP 8.10: Kindesmissbrauch in Neuköllner Kitas durch Original Play - schriftlich beantwortet
+- TOP 8.11: Vorbereitung auf die kalte Jahreszeit - schriftlich beantwortet
+- TOP 8.12: Schulgärten - schriftlich beantwortet
+- TOP 8.13: Rixdorfer Weihnachtsmarkt - schriftlich beantwortet
+- TOP 8.14: Landesprogramm Stadtteilmütter - schriftlich beantwortet
+- TOP 8.15: Wohnungsbaugenossenschaft im Profitrausch? - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Geschichtliche Aufarbeitung Wissmannstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Hermannplatz fahrrad- und fußgängerfreundlich umgestalten – Beauftragung einer bezirksübergreifenden Planung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Mut zu neuen Wegen - Weigandufer als Fahrradstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Maßnahmen am Werner-Seelenbinder-Grab - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Maßnahme zur Eindämmung der Vermüllung von Teilen Neuköllns - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Stopp dem Feuerwerkswahnsinn! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.7: Verkaufsverbot an Sonn- und Feiertagen aufheben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.8: Menschen mit Behinderungen im RBB-Rundfunkrat beteiligen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.9: Eidechsen und Amphibienvorkommen im Südosten des Tempelhofer Feldes – Hat Neukölln daran Anteil? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.10: Bänke auf dem Reuterplatz wieder aufstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.11: Verpackungsmüll - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Videoüberwachung an Drogenschwerpunkten, insbesondere um Schulen und Jugendfreizeiteinrichtungen - in der BVV abgelehnt
+- TOP 9.13: Mehrweg statt Einweg – Umweltgerecht feiern in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Neue Stuben für die Obdachlosenhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Erarbeitung bezirklicher Leitlinien der Bürger*innenbeteiligung - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Ordentliche Bezahlung unterstützen – Armut entgegenwirken - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Einkommensschwache Menschen sind nicht „sozial schwach“! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.18: Bebauungsplan 8-2-1 („Grenzallee 37“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.19: Sportbad Britz - ohne Änderungen in der BVV beschlossen
+- TOP 9.20: Absenkung des Bürgersteiges - ohne Änderungen in der BVV beschlossen
+- TOP 9.21: Grünphase der Lichtzeichenanlage Stubenrauchstraße, Seidelbastweg und Kanalstraße in Richtung Ehrenpreisweg verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 9.22: Umbenennung des Hertzbergplatzes zur Erinnerung an die Novemberrevolution - vertagt
+- TOP 9.23: Fußgängerquerung Sonnenallee / Geygerstraße - vertagt
+- TOP 9.24: „Diese eG“ ist keine Option für Neukölln - vertagt
+- TOP 9.25: Dauerhaft zu erhaltende Kleingärten mit Handlungsbedarf - vertagt
+- TOP 9.26: Neubau einer Gemeinschaftsschule an der Oderstraße - vertagt
+- TOP 9.27: Gewalt und Verwahrlosung auf dem Gelände des Campus Rütli - vertagt
+- TOP 9.28: Zu Fuß zur Schule und zur Kita? - vertagt
+- TOP 9.29: Aktueller Stand der Schulsanierung in Neukölln - vertagt
+- TOP 9.30: Fragerecht der AfD Oppositionspartei wird aus politischer Willkür eingeschränkt? - vertagt
+- TOP 9.31: Altersarmut in Neukölln - schriftlich beantwortet
+- TOP 9.32: Sport für (fast) alle in Neukölln I - schriftlich beantwortet
+- TOP 9.33: Neukölln für mehr Klimagerechtigkeit - schriftlich beantwortet
+- TOP 9.34: Fairer Bezirk – Faires Outfit - vertagt
+- TOP 9.35: App „Gesundes Neukölln“ evaluieren - vertagt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Keine Kürzung von Fördergelder für Integrationsprojekte - vertagt
+- TOP 10.2: Beteiligung von Gruppen - vertagt
+- TOP 10.3: Namensgeber August-Froehlich-Straße - vertagt
+- TOP 10.4: Verbesserung der Situation Harzer Straße / Treptower Straße - vertagt
+- TOP 10.5: Markierung Sondernutzung öffentlichen Straßenland - vertagt
+- TOP 10.6: Haltestellenumbenennung - vertagt
+- TOP 10.7: Werbeflächen für Sozial- und Kultureinrichtungen in Neukölln - vertagt
+- TOP 10.8: Stadtteilbibliotheken sollen einen Namen erhalten - vertagt
+- TOP 10.9: Extremistische Moscheen und Koranschulen schließen – Vereine verbieten - vertagt
+- TOP 10.10: Haushaltsnahe Altglassammlung in Neukölln sicherstellen - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Mietendeckel für die Neuköllnerinnen und Neuköllner! - vertagt
+- TOP 11.2: Lange Wartezeiten in Bürgerämtern wegen Personalmangel - Dennoch wenige Stellen im Haushalt 2020/21 - vertagt
+- TOP 11.3: Konsequenzen aus dem Neuköllner Gesundheitsbericht - vertagt
+- TOP 11.4: Gilt in Neuköllner Schulkantinen die Scharia - Teil VIII - vertagt
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Camp Stahl - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Neukölln wächst zu - überwiesen
+- TOP 13.3: Klimanotstand! Neukölln handelt angesichts der Klimakrise - überwiesen
+- TOP 13.4: Inklusion als Ziele der Jugendarbeit - überwiesen
+- TOP 13.5: Treptower Straße beruhigen - überwiesen
+- TOP 13.6: Aufbruch Neukölln e.V. muss erhalten bleiben - in der BVV zurückgezogen
+- TOP 13.7: Geschichtliche Aufarbeitung zum Namensgeber der Woermannkehre - überwiesen
+- TOP 13.8: Elsensteg unter Denkmalschutz stellen - überwiesen
+- TOP 13.9: Neuer Kabinentrakt für den TSV Rudow - überwiesen
+- TOP 13.10: Türkischen Konsulatsunterricht schnellstmöglich beenden - überwiesen
+- TOP 13.11: Hundeauslaufgebiet im Frauenviertel - überwiesen
+- TOP 13.12: Kanalgeländer fachgerecht restaurieren - überwiesen
+- TOP 13.13: Radschnellverbindung „Y-Trasse“ für Neuköllner*innen zugänglich machen, Anbindung an lokale Radverkehre und Ortsteile in Rudow, Gropiusstadt und Britz - überwiesen
+- TOP 13.14: Gartenwasser Flatrate - überwiesen
+- TOP 13.15: Sondernutzung öffentlicher Flächen an touristischen Hotspots - überwiesen
+- TOP 13.16: Neue Fahrradstellplätze im Straßenraum - überwiesen
+- TOP 13.17: Tarifbindung für das Schulcatering sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 13.18: Sondernutzung auf dem Böhmischen Platz - überwiesen
+- TOP 13.19: Verwahrlosung bekämpfen – Urban-Gardening fördern! - überwiesen
+- TOP 13.20: Zuzugssperre für sogenannte Flüchtlinge - in der BVV zurückgezogen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Ehrenamtskoordinator für Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Digitalisierung in der BVV - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Böhmischer Platz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - erledigt
