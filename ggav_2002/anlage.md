@@ -65,6 +65,7 @@ Inhaltsverzeichnis
 | Ausnahme 31 (S) | Prüfungsfahrten bei technischen Untersuchungen |
 | Ausnahme 32 (S, E) | Beförderung durch zivile Unternehmen im Auftrag und unter der Verantwortung der Bundeswehr |
 | Ausnahme 33 (M) | Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt betreiben |
+| Ausnahme 34 (M) | Beförderung gefährlicher Güter zur Offshore-Versorgung |
 Ausnahme 1
 – offen –
 Ausnahme 2
@@ -645,3 +646,32 @@ Beförderung gefährlicher Güter auf Fährschiffen, die Küstenschifffahrt betr
   Der Schiffsführer hat die schriftlichen Weisungen nach Abschnitt 5.4.3 ADR griffbereit auf der Brücke vorzuhalten.
 11 Anlaufbedingungsverordnung
   Die Anlaufbedingungsverordnung vom 18. Februar 2004 (BGBl. I S. 300), die zuletzt durch Artikel 3 der Verordnung vom 28. Juni 2016 (BGBl. I S. 1504) geändert worden ist, gilt mit der Maßgabe, dass Nummer 2.5 der Anlage zu § 1 Absatz 1 anzuwenden ist.
+Ausnahme 34 (M)
+Beförderung gefährlicher Güter zur Offshore-Versorgung
+Abweichend von § 3 Absatz 1 Nummer 1 der GGVSee dürfen gefährliche Güter auf Seeschiffen im Verkehr zu Offshore-Anlagen und -Baustellen unter Einhaltung der nachfolgenden Bestimmungen befördert werden:
+1 Art der Beförderungsdurchführung
+  Die gefährlichen Güter werden von Unternehmen in Verbindung mit ihrer Haupttätigkeit als Lieferung oder Rücklieferung zu Offshore-Anlagen oder -Baustellen zum Zweck der Errichtung, des Betriebs, der Instandhaltung und der Wartung befördert.
+2 Verpackung und Kennzeichnung von Versandstücken
+2.1 Die gefährlichen Güter sind nach Kapitel 4.1 in Verbindung mit den Kapiteln 6.1, 6.2, 6.5 und 6.6 des IMDG-Codes oder des ADR/RID zu verpacken.
+2.2 Die Versandstücke sind nach Kapitel 5.2 des IMDG-Codes oder des ADR/RID zu kennzeichnen und zu bezetteln. Die Kennzeichnung mit dem richtigen technischen Namen der gefährlichen Güter ist nicht erforderlich.
+3 Dokumentation
+3.1 Für alle an Bord befindlichen gefährlichen Güter müssen die auf die jeweiligen Stoffe und Gegenstände zutreffenden Sicherheitsdatenblätter mitgeführt werden. Dies gilt nicht für Gegenstände, für die kein Sicherheitsdatenblatt nach Artikel 31 in Verbindung mit Anlage II der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vorgeschrieben ist.
+3.2 Zusätzlich ist ein Verzeichnis mitzuführen, in dem die gefährlichen Güter mit folgenden Angaben aufgeführt sind:
+  a) die UN-Nummer, der die Buchstaben „UN“ vorangestellt werden,
+  b) der richtige technische Name nach Spalte 2 der Gefahrgutliste des IMDG-Codes,
+  c) die Klasse der Hauptgefahr oder, falls zugeordnet, Unterklasse der Güter sowie bei Klasse 1 der Buchstabe der Verträglichkeitsgruppe,
+  d) die gegebenenfalls zugeordnete(n) Nummer(n) für die Klasse oder Unterklasse der Zusatzgefahr und
+  e) gegebenenfalls die dem Stoff oder Gegenstand zugeordnete Verpackungsgruppe.
+4 Ladung
+  Die Versandstücke sind in geeignete und zugelassene Offshore-Container zu verladen, die den Anforderungen des Unterabschnitts 7.3.2.3 des IMDG-Codes entsprechen. Alternativ können Lagerschränke nach der DIN EN 14470-1:2004 verwendet werden. Die Güter sind unter Beachtung der Vorschriften des Abschnitts 7.3.3 des IMDG-Codes in die Container oder in die Lagerschränke zu stauen, mit der Ausnahme, dass anstelle der in Unterabschnitt 7.3.3.5 des IMDG-Codes in Bezug genommenen Trennvorschriften die Zusammenladeverbote nach den Abschnitten 7.5.2 und 7.5.4 des ADR Anwendung finden. Ist die Zusammenladung verboten, sind verschiedene Container oder Lagerschränke zu verwenden, die in einem Abstand von mindestens 0,5 Meter an Bord des Schiffes aufgestellt sind. Die Bestimmungen über die Kennzeichnung und Plakatierung in Unterabschnitt 7.3.3.13 erster Satz des IMDG-Codes und die Bestimmungen zum CTU-Packzertifikat in Unterabschnitt 7.3.3.17 des IMDG-Codes finden keine Anwendung.
+5 Menge der Güter
+  Die Bruttomasse aller gefährlichen Güter darf 3 000 Kilogramm nicht überschreiten, wobei die Bruttomasse der gefährlichen Güter, die der Verpackungsgruppe I zugeordnet sind sowie der gefährlichen Güter der Klassen 1 und 2.3, insgesamt 300 Kilogramm nicht überschreiten darf.
+6 Von der Freistellung ausgenommene Güter
+  Nicht befördert werden dürfen:
+  a) gefährliche Güter, die in Tanks befördert werden,
+  b) gefährliche Güter, deren Beförderung nach den Vorschriften des IMDG-Codes verboten ist oder für die die Verpackungsanweisung P 099 vorgeschrieben ist,
+  c) gefährliche Güter der Klasse 1 mit den Klassifizierungscodes 1.1 A, 1.1 L, 1.2 K, 1.2 L, 1.3 K und 1.3 L sowie der UN-Nummer 0190,
+  d) selbstzersetzliche Stoffe der Klasse 4.1, organische Peroxide der Klasse 5.2, polymerisierende Stoffe und entzündbare Gase und flüssige Stoffe mit einem Flammpunkt unter 23 °C, die unter Temperaturkontrolle zu befördern sind,
+  e) Stoffe der Klassen 4.1 und 5.2, die zusätzlich mit dem Gefahrzettel „EXPLOSIVE“ Muster 1 zu versehen sind,
+  f) gefährliche Güter der Klasse 6.2, Kategorie A und
+  g) gefährliche Güter der Klasse 7 mit Ausnahme der UN-Nummern 2908, 2909, 2910 und 2911.

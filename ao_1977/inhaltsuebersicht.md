@@ -174,8 +174,8 @@
 | § 91 | Anhörung Beteiligter |
 | § 92 | Beweismittel |
 |  |  |
-| II. Beweis durch Auskünfte und Sachverständigengutachten Auskunftspflicht der Beteiligten und anderer |
-| § 93 | Personen |
+| II. Beweis durch Auskünfte und Sachverständigengutachten |
+| § 93 | Auskunftspflicht der Beteiligten und anderer Personen |
 | § 93a | Allgemeine Mitteilungspflichten |
 | § 93b | Automatisierter Abruf von Kontoinformationen |
 | § 93c | Datenübermittlung durch Dritte |

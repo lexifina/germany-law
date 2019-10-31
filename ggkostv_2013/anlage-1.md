@@ -210,10 +210,10 @@ V. Teil: Seeschiffsverkehr
 2. Abschnitt: Gebühren der Landesbehörden
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
 | 1001 | Prüfung und Erteilung einer Ausnahme, einschließlich der Ausfertigung oder Verlängerung der Ausnahme (§ 7 Absatz 1 der Gefahrgutverordnung See). | 50 bis 2 000 |
-| 1002 | Amtshandlungen, einschließlich Prüfungen, der in § 9 Absatz 1 Satz 2 der Gefahrgutverordnung See genannten Landesbehörden, für Aufgaben, die ihnen im IMDG-Code zugewiesen sind. | 25 je begonnene Viertelstunde |
+| 1002 | Amtshandlungen, einschließlich Prüfungen, der in § 9 Absatz 2 der Gefahrgutverordnung See genannten Landesbehörden, für Aufgaben, die ihnen im IMDG-Code zugewiesen sind. | 25 je begonnene Viertelstunde |
 3. Abschnitt: Gebühren der Stellen nach § 1 Absatz 1 Satz 1 Nummer 2 bis 4
 | Gebühren- nummer | Gebührentatbestand | Gebühr (EUR) |
-| 1050 | Prüfung und Erteilung einer Bescheinigung für IMO-Tanks (Absatz 6.8.3.1.3.2, 6.8.3.2.3.2 und 6.8.3.3.3.2 IMDG-Code). | 25 je begonnene Viertelstunde |
+| 1050 | Prüfung und Erteilung einer Bescheinigung für IMO-Tanks (Absatz 6.8.3.1.3.2, 6.8.3.2.3.2, 6.8.3.3.3.2 und 6.8.3.4.3.2 IMDG-Code). | 25 je begonnene Viertelstunde |
 | 1060 | Baumusterprüfungen für ortsbewegliche Tanks und UN-MEGC (Unterabschnitt 6.7.2.18, 6.7.3.14, 6.7.4.13 und 6.7.5.11 IMDG-Code): |  |
 | 1060.1 | Prüfung der Antragsunterlagen. | 40 je begonnene Viertelstunde |
 | 1060.2 | Für die übrigen im Rahmen der Baumusterprüfung anfallenden Prüfungen geltendie Gebühren nach Nummer 1061. |  |

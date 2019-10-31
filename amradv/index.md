@@ -1,5 +1,4 @@
-# Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte
-Arzneimittel
+# Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel
 
 - [§ 1 Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind](0001.md)
 - [§ 2 Verkehrsfähigkeit radioaktiver Arzneimittel](0002.md)
