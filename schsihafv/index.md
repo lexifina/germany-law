@@ -51,10 +51,10 @@
 ### Abschnitt 7 Besondere Vorschriften für die einzelnen Häfen
 
 - [§ 26 (weggefallen)](0026.md)
-- [§ 27 Helgoland](0027.md)
+- [§ 27 (weggefallen)](0027.md)
 - [§ 28 (weggefallen)](0028.md)
-- [§ 29 Seezeichenhafen Wittdün](0029.md)
-- [§ 30 Borkum](0030.md)
+- [§ 29 (weggefallen)](0029.md)
+- [§ 30 (weggefallen)](0030.md)
 
 ## Teil 2 Häfen der Deutschen Marine und der Bundespolizei
 
