@@ -1,0 +1,83 @@
+# 41. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-31T15:35:00+01:00
+- Ende: 2019-10-31T18:31:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20357
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20357
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer Mitglieder des Ausschuss Soziales und Senioren - zurückgestellt
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - zurückgestellt
+- TOP 2.2: Stadt Köln beschafft nur noch energieeffiziente Haushaltsgeräte - zurückgestellt
+- TOP 2.3: Die Bedeutung der Kölner Beschäftigungsträger - endgültig zurückgezogen
+- TOP 2.4: Alternative Nutzung leerstehender Container - Kenntnis genommen
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Umsetzung des Beschlusses des Ausschusses für Anregungen und Beschwerden vom 30.10.2018 zum Thema "Ermäßigungen im Kölner Zoo für auswärtige Bezieher von Sozialleistungen" - endgültig zurückgezogen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 4.2: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ungeändert beschlossen
+- TOP 4.3: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - ohne Votum in nachfolgende Gremien
+- TOP 4.4: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - zurückgestellt
+- TOP 4.5: Verlängerung Auszugsmanagement - ungeändert beschlossen
+- TOP 4.6: Ombudsstelle für Geflüchtete - Verlängerung der Befristung und Reduzierung des Zuschusses - ungeändert beschlossen
+- TOP 4.7: Teilnahme an der Landesinitiative „Gemeinsam klappt´s“; hier: Förderprojekt KOKIP (Kooperation zur Klärung rechtskreisübergreifender Integrationsprozesse) - Teilhabemanagement für geflüchtete Menschen in Köln - ungeändert beschlossen
+- TOP 4.8: Einmalige Zuwendung an die Frauenberatungsstelle von agisra e.V. sowie die haushaltsneutrale Umschichtung von Transferaufwendungen in 2019 - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Diversity / Stadtarbeitsgemeinschaften
+- TOP 6.1: Aktivitäten und Maßnahmen im Rahmen des städtischen Diversity-Konzeptes in 2019 - Kenntnis genommen
+- TOP 6.2: Richtlinie der Stadt Köln zur Verwendung des Budgets der Stadtarbeitsgemeinschaft Behindertenpolitik und der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - ungeändert beschlossen
+- TOP 6.3: Veröffentlichung der Studie "LSBTIQ als Wirtschaftsfaktor für Köln" - Kenntnis genommen
+- TOP 6.4: Teilnahme der Mitarbeitenden der Stadtverwaltung beim CSD 2019 - Kenntnis genommen
+- TOP 6.5: Einfache und Leichte Sprache - Kenntnis genommen
+- TOP 6.6: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 6.7: Sprach-und IntegrationsmittlerInnenpool für die Stadt Köln - Kenntnis genommen
+- TOP 6.8: Erneuerung der Mitgliedschaft im internationalen "Rainbow Cities Network" - ungeändert beschlossen
+- TOP 7: Bericht aus der Arbeit des Behindertenbeauftragten
+- TOP 7.1: Bericht des Behindertenbeauftragten (Platzhalter)
+- TOP 7.2: Anfragen und Beantwortungen
+- TOP 8: Aktuelle Situation von Geflüchteten in Köln
+- TOP 8.1: 26. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 8.2: Anfragen und Beantwortungen
+- TOP 9: JobCenter Köln
+- TOP 9.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 9.2: Anfragen und Beantwortungen
+- TOP 9.2.1: Mdl. Anfrage von RM Paetzold aus der Sitzung des Ausschusses für Soziales und Senioren am 05.09.19 zu den Auswirkungen des Urteils des Bundessozialgerichts (BSG) vom 08.05.19 (B 14 AS 13/18 R) zu den Kosten für Schulbücher und anderer Schulbedarfe - Kenntnis genommen
+- TOP 10: Wohnen
+- TOP 10.1: Bericht "Wohnen in Köln" - zurückgestellt
+- TOP 10.2: Sachstand zu den Sozialhäusern Geisbergstraße 47-53, 50696 Köln - Kenntnis genommen
+- TOP 10.3: "Wohnungen bleiben Wohnungen - Wohnraumschutzsatzung verlängern, verschärfen und durchsetzen" Bericht zur Zweckentfremdung von Wohnraum 2. Quartal 2019 - Kenntnis genommen
+- TOP 10.4: Anfragen und Beantwrtungen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 11.1: Anfrage der SPD- Fraktion zu einer Alternative Nutzung leerstehender Container - Kenntnis genommen
+- TOP 11.1.1: Beantwortung der Anfrage zu einer Alternative Nutzung leerstehender Container - Kenntnis genommen
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - zurückgestellt
+- TOP 12.2: Mdl. Anfrage von SE Carolina Brauckmann zum Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW), s. 3909/2018 zur Beantwortung der Anfrage AN/1557/2018 - zurückgestellt
+- TOP 12.3: Inklusion in kommunaler Beschäftigung – Nachholbedarf in IT und Ausbildung - Kenntnis genommen
+- TOP 12.3.1: Beantwortung zur Anfrage AN/1136/2019 - Kenntnis genommen
+- TOP 12.4: Beantwortung einer mdl. Anfrage von Herrn RM Detjen vom 05.09.2019 zur Mittelbewirtschaftung im Bildungs- und Teilhabepaket (BuT) - Kenntnis genommen
+- TOP 12.5: Beantwortung einer mdl. Anfrage von Herrn RM Detjen vom 05.09.2019 zu "Kat 18" - Kenntnis genommen
+- TOP 12.6: Beantwortung einer Anfrage der SPD-Fraktion vom 13.09.2019 - Kenntnis genommen
+- TOP 12.7: Beantwortung einer mündlichen Anfrage des SE Feles aus der Sitzung vom 05.09.2019 Bescheinigung über den Wohngeldbezug für BUT Antragsteller - Kenntnis genommen
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 13.1: Probleme bei der ambulanten Pflege und bei Haushaltsnahen Dienstleistungen - zurückgestellt
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Bilanz der Kommission zur Stärkung der Bezirke - Kenntnis genommen
+- TOP 15.2: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 15.3: Netzwerk gegen häusliche Gewalt – Statistik 2018 - Kenntnis genommen
+- TOP 15.4: Sachstand Pilotprojekt Erstellung Förderkonzept Kulturelle Teilhabe - Kenntnis genommen
+- TOP 15.5: Mehrfachbeschäftigung in Köln – Entwicklung von kombinierten Beschäftigungsformen 2013 bis 2018 - Kenntnis genommen
+- TOP 15.6: Auswirkungen und Sachstand zur Umsetzung des Bundesteilhabegesetzes (BTHG) - zurückgestellt
+- TOP 15.7: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln (Ratsbeschluss v. 20.3.2018 - Vorlagen Nr. 0342/2018) - zurückgestellt
+- TOP 15.8: Erforderliche Fristverlängerung zur Vorlage des Lebenslagenberichts - Kenntnis genommen
+- TOP 15.9: Einführung der digitalen Wohngeldakte - Kenntnis genommen
+- TOP 15.10: Aktuelle Rechtsprechung zu "Airbnb" - Kenntnis genommen
