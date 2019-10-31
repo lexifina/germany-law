@@ -1,0 +1,84 @@
+# 43. Sitzung des Stadtentwicklungsausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-10-31T15:07:00+01:00
+- Ende: 2019-10-31T18:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/15
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20356
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20356
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung eines Sachkundigen Einwohners
+- TOP 1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Institut der deutschen Wirtschaft: "Köln hat Probleme auf Wohnungsmarkt verschlafen" hier: Beantwortung der Anfrage AN/1149/2019 der FDP – Fraktion zu TOP 2.2.1 aus der Sitzung des Stadtentwicklungsausschusses am 19.09.2019 - Kenntnis genommen
+- TOP 1.3: Beantwortung einer Anfrage der SPD-Fraktion vom 13.09.2019 - Kenntnis genommen
+- TOP 1.4: Mündliche Anfrage RM Sterck zur Baulücke Richard-Wagner-Str. - Kenntnis genommen
+- TOP 2: Schriftliche Anfragen
+- TOP 2.1: Offene Anfragen
+- TOP 2.1.1: Entwicklung des Siemens-Geländes an der Franz-Geuer-Straße - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates Entwicklung des Siemens-Geländes an der Franz-Geuer-Straße - zurückgestellt
+- TOP 2.2: Aktuelle Anfragen
+- TOP 2.2.1: Status Förderprojekt "Grün hoch 3; Dächer, Fassaden, Höfe - Sache ist erledigt
+- TOP -: Status Förderprojekt GRÜN hoch³ Dächer, Fassaden, Höfe - Kenntnis genommen
+- TOP 2.2.2: Leerstehende Wohnungen im „Nachtigallenhof“ in Wahn - Sache ist erledigt
+- TOP -: Leerstehende Wohnungen im "Nachtigallenhof" in Wahn - Kenntnis genommen
+- TOP 2.2.3: Wie können Verwaltung und Ausschussvorsitzender die Veröffentlichung der Niederschriften beschleuinigen? - Sache ist erledigt
+- TOP -: Beantwortung einer Anfrage von RM Wortmann betreffend "Wie können Verwaltung und Ausschussvorsitzender die Veröffentlichung der Niederschriften beschleunigen?" - Kenntnis genommen
+- TOP 2.2.4: Bevölkerungsprognose für Köln 2018 bis 2040 – welche Konsequenzen folgen daraus?
+- TOP 3: Anträge
+- TOP 4: Stadtplanung - Projekte
+- TOP 4.1: Regionale Kooperation: Projekte
+- TOP 4.2: Umsetzung Masterplan
+- TOP 4.2.1: 219. Änderung des Flächennutzungsplanes, Arbeitstitel: Parkstadt Süd in Köln-Zollstock, -Raderberg und -Bayenthal - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Beteiligung an stadtentwicklungsrelevanten Beschlussvorlagen
+- TOP 6.1: Konzeptausschreibung Alpener Straße 4-6 in Köln-Ehrenfeld - geändert beschlossen
+- TOP -: Änderungsantrag zur Vorlage 1136/2019, Konzeptausschreibung Alpener Straße 4-6 in Köln-Ehrenfeld - endgültig abgelehnt
+- TOP -: Konzeptausschreibung Alpener Straße 4-6 in Ehrenfeld, 1136/2019 - ungeändert beschlossen
+- TOP 6.2: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ohne Votum in nachfolgende Gremien
+- TOP 6.3: Werkstattverfahren Hallen Kalk Hier: Integrierter Plan als Grundlage der weiteren Bearbeitung - ungeändert beschlossen
+- TOP -: ÄA zu TOP 6.4 Werkstattverfahren Hallen Kalk – MEHR GRÜN FÜR KALK! - endgültig abgelehnt
+- TOP -: Änderungsantrag zu TOP 6.3 Werkstattverfahren Hallen Kalk; Hier: Integrierter Plan als Grundlage der weiteren Bearbeitung - endgültig abgelehnt
+- TOP 6.4: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - zurückgestellt
+- TOP 6.5: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - zurückgestellt
+- TOP 6.6: Erweiterter Planungsbeschluss über die Verbreiterung der Nebenanlagen Tunisstraße zwischen Streitzeuggasse und Breite Straße gemäß städtebaulichem Masterplan Innenstadt - zurückgestellt
+- TOP 6.7: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - im ersten Durchgang verwiesen
+- TOP -: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - im ersten Durchgang verwiesen
+- TOP 7: Änderungen des Flächennutzungsplanes
+- TOP 8: Städtebauliche Planungskonzepte / Beschlüsse zur Durchführung von frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 9: Städtebauliche Planungskonzepte / Stellungnahme der Bezirksvertretungen zu den Ergebnissen der vorgezogenen Bürgerbeteiligungen/frühzeitigen Öffentlichkeitsbeteiligungen, Entscheidungen über die Vorgaben zu den Bebauungsplan-Entwürfen
+- TOP 9.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Simonskaul" in Köln-Weidenpesch;Stellungnahme der Bezirksvertretung Nippes zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - geändert beschlossen
+- TOP 10: Einleitung/Aufstellung/Offenlage von Bebauungsplänen bzw. Bebauungsplan-Entwürfen, ggf. mit Beschluss zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligungen
+- TOP 10.1: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und zur Durchführung der frühzeitigen Öffentlichkeitsbeteiligung; Arbeitstitel: Weinsbergstraße/Innere Kanalstraße in Köln-Ehrenfeld - zurückgestellt
+- TOP 10.2: Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: "Hallen Kalk" - ungeändert beschlossen
+- TOP -: Änderungsantrag TOP 10.3 Beschluss über die Aufstellung eines Bebauungsplanes Arbeitstitel: "Hallen Kalk" - endgültig abgelehnt
+- TOP 11: Aufhebung von Aufstellungsbeschlüssen sowie Einstellung von Bebauungsplan-Verfahren
+- TOP 11.1: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (Vorhaben- und Erschließungsplan) Arbeitstitel: Melatengürtel/Grüner Weg in Köln-Ehrenfeld - geändert beschlossen
+- TOP 12: Beschlüsse über Anregungen/Stellungnahmen, Änderungen sowie Satzungsbeschlüsse von Bebauungsplan-Entwürfen
+- TOP 12.1: Satzungsbeschluss betreffend den Bebauungsplan (vorhabenbezogener Bebauungsplan) Nummer 74455/02 Arbeitstitel: Ostmerheimer Straße in Köln Merheim - ungeändert beschlossen
+- TOP 13: Änderungen/Ergänzungen von Bebauungsplänen
+- TOP 14: Aufhebung von Bebauungsplänen
+- TOP 15: Sonstige Satzungen
+- TOP 15.1: Innenentwicklung Heidelweg in Köln-Sürth; 71376/03; Satzungsbeschluss - ungeändert beschlossen
+- TOP 15.2: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Porz - Ensen, Arbeitstitel: Kölner Straße / Hauptstraße - zurückgestellt
+- TOP 16: Anträge und Vorschläge aus den Bezirksvertretungen
+- TOP 17: Mitteilungen
+- TOP 17.1: Erneute Offenlage nach § 4 Abs. 3 i.v.m. § 3 Abs. 2 BauGB vorhabenbezogener Bebauungsplan (VEP) Nr. 7440/02 Arbeitstitel: Rather See in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 17.2: Beantwortung der SPD Anfrage AN/1057/2019 zum Ausbau Godorfer Hafen - Kenntnis genommen
+- TOP 17.3: Studentisches Wohnen am Justizzentrum - Kenntnis genommen
+- TOP 17.4: Bericht "Wohnen in Köln" - Kenntnis genommen
+- TOP 17.5: Kölner Stadtmodell hier: Sachstand 2019 - Kenntnis genommen
+- TOP 17.6: Verwendung der Stellplatzablösemittel im Jahr 2018 - Kenntnis genommen
+- TOP 17.7: Parken der Reisebusse am linken Rheinufer/Logistikkonzept Rheinufer - Kenntnis genommen
+- TOP 17.8: 215. Änderung des Flächennutzungsplanes im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: Universitätsklinik zu Köln, Baufeld West in Köln-Lindenthal hier: Offenlage nach § 3 Absatz 2 BauGB und Beteiligung der Träger öffentlicher Belange § 4 Absatz 2 - Kenntnis genommen
+- TOP 17.9: "Wohnungen bleiben Wohnungen - Wohnraumschutzsatzung verlängern, verschärfen und durchsetzen" Bericht zur Zweckentfremdung von Wohnraum 2. Quartal 2019 - Kenntnis genommen
+- TOP 17.10: Sachstand Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" - Kenntnis genommen
+- TOP 17.11: Sachstandsbericht: Regionale Zusammenarbeit der StadtUmland-Verbünde (S.U.N. und K&RN), regionalbedeutsame Strategiekonzepte (Agglomerationskonzept) und regionale Zukunftsthemen (Strukturwandel/Rheinisches Revier) - Kenntnis genommen
+- TOP 17.12: Aktuelle Rechtsprechung zu "Airbnb" - Kenntnis genommen
+- TOP 18: Mündliche Anfragen
+- TOP 19: Gleichstellungsrelevante Themen
