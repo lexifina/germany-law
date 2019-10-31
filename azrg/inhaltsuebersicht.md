@@ -42,6 +42,7 @@
 |  | § 18d | Datenübermittlung an die Jugendämter |
 |  | § 18e | Datenübermittlung an die Meldebehörden |
 |  | § 18f | Datenübermittlung an die Familienkasse Direktion der Bundesagentur für Arbeit |
+|  | § 18g | Datenübermittlung an die Träger der Deutschen Rentenversicherung |
 |  | § 19 | Datenübermittlung an die Staatsangehörigkeits- und Vertriebenenbehörden |
 |  | § 20 | Datenübermittlung an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst |
 |  | § 21 | Datenübermittlung an das Auswärtige Amt, die deutschen Auslandsvertretungen und andere öffentliche Stellen im Visaverfahren |
