@@ -1,0 +1,69 @@
+# Sitzung der Bezirksvertretung Mülheim
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-04T17:08:00+01:00
+- Ende: 2019-11-04T18:23:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/28
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20504
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20504
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage Anzahl der Radpendler
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem § 24 GO "Umwidmung von Fahrradabstellplätzen auf der Holweider Straße" (AZ: 02-1600-66/19) - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Haltestelle Flittard Süd - Fahrgastunterstand und Beleuchtung (Az.: 02-1600-247/18) - geändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Einweg- und Mehrwegverpackungen für Getränke/Pfandsystem - Kenntnis genommen
+- TOP 7.1.2: Barrierefreier Zugang Bezirksrathaus Mülheim - zu AN/0375/2017, Anfrage von Bündinis 90 / Die Grünen - Kenntnis genommen
+- TOP 7.1.3: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates vom 03.05.2017 - Kenntnis genommen
+- TOP 7.1.4: Gesamtinstandsetzung der Mülheimer Brücke - Ausbau der Frankfurter Str. - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Situation der Siedlung an der Egonstraße in Köln-Stammheim - Kenntnis genommen
+- TOP 7.2.2: Fluglärm in Köln-Mülheim - Kenntnis genommen
+- TOP 7.2.3: SozialarbeiterInnen in Holweide - Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Mehr Sicherheit für Fußgänger*innen und Radfahrer*innen in der Unterführung der S-Bahn-Station Stammheim - ungeändert beschlossen
+- TOP 8.1.2: Schulwegsicherung auf dem Pfälzischen Ring - ungeändert beschlossen
+- TOP 8.1.3: Durchgehend Tempo 30 in der Sigwinstraße in Köln-Höhenhaus - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sportentwicklungsplanung - Beteiligungskonzept Modellprojekt "Rendsburger Platz" - ungeändert beschlossen
+- TOP 9.1.2: Baubeschluss für die Errichtung einer Querungshilfe auf dem Buchheimer Ring in Buchheim - ungeändert beschlossen
+- TOP 9.1.3: Widmung eines Teilstücks der Bechsteinstraße und eines Teilstücks der Musäusstraße in Köln-Holweide - ungeändert beschlossen
+- TOP 9.1.4: Einziehungsabsicht eines Teilstücks der Manforter Straße in Köln-Mülheim - ungeändert beschlossen
+- TOP 9.1.5: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Mülheim-Nord, Keupstraße, Buchheim und Buchforst“ - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 9.2.2: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - ungeändert beschlossen
+- TOP 9.2.3: Konzept "Essbare Stadt" - ungeändert beschlossen
+- TOP 9.2.4: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Genoveva-Gymnasiums, Genovevastr. 58-62, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 9.2.5: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 9.2.6: Satzung über die abweichende Herstellung der Erschließungsanlage Fellmühlenweg von Wohnweg bis Mielenforster Straße in Köln-Dellbrück - ungeändert beschlossen
+- TOP 9.2.7: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Baumfällungen im Stadtbezirk Mülheim
+- TOP 10.2.2: Unerledigte Anfragen und Anträge der laufenden Periode
+- TOP 10.2.3: Sachstand Sanierung Mülheimer Brücke
+- TOP 10.2.4: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 10.2.5: Beantwortung der mündlichen Anfrage des RM Kockerbeck im Bauausschuss vom 01.07.2019 - Kenntnis genommen
+- TOP 10.2.6: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 10.2.7: Anfrage im Ausschuss Kunst und Kultur "Integration der Industriegeschichte im Stadtentwicklungsgebiet Mülheim-Süd" - Kenntnis genommen
+- TOP 10.2.8: Aufstellung von Fahrgastunterständen an den Haltestellen der Buslinie 150 auf der Ackerstr. in Köln-Buchheim - Kenntnis genommen
+- TOP 10.2.9: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 10.2.10: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 10.2.11: Förderung von ÖPNV und Radfahren durch mehr Sicherheit von Fußgängern und Radfahrern entlang der Bundesstraße 8 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 10.3: Bemerkungen zur Niederschrift
