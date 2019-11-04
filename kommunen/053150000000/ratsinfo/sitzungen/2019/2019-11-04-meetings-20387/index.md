@@ -1,0 +1,116 @@
+# Sitzung der Bezirksvertretung Lindenthal
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-04T16:00:00+01:00
+- Ende: 2019-11-04T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/22
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20387
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20387
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00742157.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00742157.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00742157.pdf
+
+## Tagesordnung
+
+- TOP -: Information zur P&R Anlage Weiden West durch die KVB
+- TOP -: Information zur "Klimaschutz und mögliche Maßnahmen"
+- TOP -: Aktuelle Stunde zum Thema „Sanierung/Neubau Sozialhäuser Geisbergstr. und Umgang mit den Bewohnern“
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 3: Einwohneranträge
+- TOP 3.1: Bürgeranfrage zur Schaffung von klima- und familienfreundlichem Wohnraum in Sülzer Innenhöfen/Gärten - Kenntnis genommen
+- TOP 3.2: Bürgerantrag zum widerrechtlichen Abstellen von Wohnwagen - Kenntnis genommen
+- TOP 4: Bürgerbegehren und Bürgerentscheide
+- TOP 5: Anregungen und Beschwerden
+- TOP 5.1: Bürgereingabe gem. § 24 GO, betr.: Gehweg entlang des westl. Hans- A.- Müllerheimparks (Az.:02-1600-52/19) - ungeändert beschlossen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Ausbau und Ertüchtigung der Oskar-Jäger-Straße - Kenntnis genommen
+- TOP 7.1.2: "Reichsheimstättensiedlung" in Köln Sülz - Kenntnis genommen
+- TOP 7.1.3: Autobahnanschluss an die A4 Frechen-Nord/Bonnstraße - Kenntnis genommen
+- TOP 7.1.4: Stellungnahme zu einer Anfrage gem. § 4 der Geschäftsordnung des Rates: Unterbindung von Lärmbelästigung im Beethovenpark; Anfrage der Freien Demokraten - FDP Köln - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Geschwindigkeitskontrollen Lise-Meitner-Ring - zurückgestellt
+- TOP 7.2.2: Open Air Veranstaltungen in der Halle Tor 2 in Köln-Vogelsang - zurückgestellt
+- TOP 7.2.3: Unterbindung von Lärmbelästigungen im Beethovenpark - zurückgestellt
+- TOP 7.2.4: Prüfung der Errichtung Sonnenschutz auf dem Spielplatz Karl-Schwering-Platz - zurückgestellt
+- TOP 7.2.5: Geruchsbelästigung im Stadtbezirk - zurückgestellt
+- TOP 7.2.6: Eingriffe in die Substanz der Gleueler Wiesen - zurückgestellt
+- TOP 8: Anträge
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1: Gegensprechanlage mit Türöffner am Haupteingang des Schillergymnasiums in Köln Klettenberg - ungeändert beschlossen
+- TOP 8.1.2: Runder Tisch Radverkehr Stadtbezirk Lindenthal - ungeändert beschlossen
+- TOP 8.1.3: Begrünung von zumindest Teildachflächen des Lindenthaler Rathauses - ungeändert beschlossen
+- TOP 8.1.4: Nachpflanzung von Bäumen an der Aachener Straße/Walter-Binder-Weg in Köln Müngersdorf - ungeändert beschlossen
+- TOP 8.1.5: Straßenzustand der Busspur auf der Aachener Straße - endgültig zurückgezogen
+- TOP 8.1.6: Fahrradspur auf der Luxemburger Straße - ungeändert beschlossen
+- TOP 8.1.7: Gefahrenstelle Mommsenstrasse/Curtiusstrasse - ungeändert beschlossen
+- TOP 8.1.8: Neuaufteilung der Fahrbahn auf dem Gürtel - geändert beschlossen
+- TOP 8.1.9: Einrichtung Zebrastreifen auf der Hauptstraße, Widdersdorf - ungeändert beschlossen
+- TOP 8.1.10: Ampelanlage mit Linksabbieger – Militärring/Gleueler Straße - endgültig abgelehnt
+- TOP 8.1.11: Beflaggung am Internationalen Tag gegen Gewalt gegen Frauen - ungeändert beschlossen
+- TOP 8.1.12: Wiederherstellung der Absperrung Hauptstraße in Widdersdorf - endgültig zurückgezogen
+- TOP 8.1.13: Ergänzung der Arbeitsplatzbeschreibung der Schulhausmeister im Bezirk 3 als Baustein eines kommunalen Energie- und Umweltmanagements - zurückgestellt
+- TOP 8.1.14: Überbauung P+R-Anlage Weiden-West - endgültig abgelehnt
+- TOP 8.1.15: Errichtung eines Fußgängerüberweges auf der Hauptstraße 65 in Köln-Widdersdorf - ungeändert beschlossen
+- TOP 8.1.16: Querung Sülzgürtel/Wichterichstraße in Köln-Sülz - ungeändert beschlossen
+- TOP 8.1.17: KVB-Sonderverkehre zu den Fußballspielen - ungeändert beschlossen
+- TOP 8.1.18: Kiosk Neubau Luxemburger Straße/Gottesweg - ungeändert beschlossen
+- TOP 8.1.19: Kreisverkehr Berrenrather Straße/Weyertal - ungeändert beschlossen
+- TOP 8.1.20: Radüberquerung Breslauer Straße/Bahnstraße - geändert beschlossen
+- TOP 8.1.21: Sicherung Kreuzung Göttinger Straße/Benfleetstraße - geändert beschlossen
+- TOP 8.1.22: Prüfung eines Kreisverkehrs an der Breslauer Straße/Ostlandstraße und zwei Zebrastreifen Einmündung Diepenbeeckallee - ungeändert beschlossen
+- TOP 8.1.23: Aufstockung P+R Anlage Weiden-West - ungeändert beschlossen
+- TOP 8.1.24: Zuweisung bezirksorientierter Mittel gem. § 37 GO NRW - ungeändert beschlossen
+- TOP 8.1.25: Dringlichkeitsantrag - ungeändert beschlossen
+- TOP 8.2: Vorschläge und Anregungen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen
+- TOP 9.1.1: Baubeschluss für die Sanierung und Umgestaltung des Geh- und Radweges auf dem Melatengürtel (Oskar-Jäger-Straße bis Scheidtweilerstraße) - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen
+- TOP 9.2.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 9.2.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP 9.2.3: Radschnellweg Köln-Frechen, erweiterter Planungsbeschluss - zurückgestellt
+- TOP 9.2.4: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert beschlossen
+- TOP 9.2.5: Konzept "Essbare Stadt" - ungeändert beschlossen
+- TOP 9.2.6: Beschluss zur Umstellung des Bebauungsplan-Verfahrens mit dem Arbeitstitel „Am Nachtigallental“ in Köln-Weiden (vorhabenbezogener Bebauungsplan(VEP) von bislang § 13a Baugesetzbuch (BauGB) (beschleunigtes Verfahren bei Innenentwicklungsplänen) auf k - ungeändert beschlossen
+- TOP 10: Mitteilungen der Bezirksbürgermeisterin
+- TOP 11: Mitteilungen der Verwaltung
+- TOP 11.1: Regelmäßige Sachstandsberichte
+- TOP 11.1.1: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 11.1.2: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 11.2: Stellungnahmen zu Beschlüssen der Bezirksvertretung
+- TOP 11.2.1: Minimierung ökologische Schäden Lärmschutzwand Egelspfad - Kenntnis genommen
+- TOP 11.3: Sonstige Mitteilungen
+- TOP 11.3.1: Umgestaltung des Knotenpunktes Aachener Straße/Hültzstraße/Stadtwaldgürtel, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr. 2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - ungeändert beschlossen
+- TOP 11.3.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 11.3.3: Sachstand zu den Sozialhäusern Geisbergstraße 47-53, 50696 Köln - Kenntnis genommen
+- TOP 11.3.4: 215. Änderung des Flächennutzungsplanes im Stadtbezirk 3, Köln-Lindenthal Arbeitstitel: Universitätsklinik zu Köln, Baufeld West in Köln-Lindenthal hier: Offenlage nach § 3 Absatz 2 BauGB und Beteiligung der Träger öffentlicher Belange § 4 Absatz 2 - Kenntnis genommen
+- TOP 11.3.5: Sachstand Überprüfung des Rückbaus freilaufender Rechtsabbieger - Kenntnis genommen
+- TOP 11.4: Erörterung von früheren Mitteilungen und Stellungnahmen
+- TOP 11.5: Nachfragen zu früheren Anfragen
+- TOP 12: Noch nicht beantwortete Anfragen aus vorrangegangenen Sitzungen
+- TOP 12.1: Verkehrsberuhigung ,,Am Keuschhof'' in Lövenich - zurückgestellt
+- TOP 12.2: Barrierefreier Zugang zur Volkssternwarte im Schiller-Gymnasium - zurückgestellt
+- TOP 12.3: Bebauung Kirchengrundstück St. Karl Borromäus - zurückgestellt
+- TOP 12.4: Umwandlung von Vorgärten in gepflasterte Parkplätze - zurückgestellt
+- TOP 12.5: Gülle im Kölner Westen - zurückgestellt
+- TOP 12.6: Nutzung Gebäude Freiligrathstrasse - zurückgestellt
+- TOP 12.7: Gewährleistung eines reibungslosen Betriebs des Jugendzentrums in Köln-Weiden - zurückgestellt
+- TOP 12.8: Sanierungsarbeiten auf der Bert-Fenger-Straße - zurückgestellt
+- TOP 12.9: Anfrage EU-Fördermittel - zurückgestellt
+- TOP 12.10: Plakate im Äußeren Grüngürtel - zurückgestellt
+- TOP 12.11: Autobahnanschluss an die A4 Frechen-Nord/ Bonnstraße - zurückgestellt
+- TOP 12.12: Unnutzbare Sportfläche Nordfeld - zurückgestellt
+- TOP 12.13: Rechtswidrig abgestellte Fahrzeuge - zurückgestellt
+- TOP 12.14: Verhinderung umweltpolitischer Maßnahmen durch Denkmalschutzbestimmungen - zurückgestellt
+- TOP 12.15: Anfrage zu Bundesliegenschaften - zurückgestellt
+- TOP 12.16: Demontage einer Lichtsignalanlage Hauptstraße/Leonardsgasse/Blaugasse - Kenntnis genommen
+- TOP 12.17: Ausbau K 6 von B 59 n bis Köln-Widdersdorf - Kenntnis genommen
+- TOP 12.18: Ertüchtigung der Radwegequerungen über die Aachener Straße in Köln-Weiden - Kenntnis genommen
+- TOP 12.19: Aufenthaltsmöglichkeiten für Jugendliche in Widdersdorf - zurückgestellt
+- TOP 12.20: Begegnungsräume in Widdersdorf - zurückgestellt
