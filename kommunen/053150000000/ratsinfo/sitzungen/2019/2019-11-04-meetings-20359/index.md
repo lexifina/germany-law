@@ -1,0 +1,72 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-04T13:05:00+01:00
+- Ende: 2019-11-04T14:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/7
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20359
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20359
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines stellvertretenden Schriftführers für den Finanzausschuss - ungeändert beschlossen
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Mitteilungen der Verwaltung und Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 2.1: Entwicklung des Anordnungssolls der Gewerbesteuer und Branchenaufteilung - Kenntnis genommen
+- TOP 2.2: Bericht über die Entwicklung der Ertrags- und Aufwandspositionen der Ergebnisrechnung sowie investiver Ein- und Auszahlungen in der Finanzrechnung 2019 - zurückgestellt
+- TOP 2.3: Mittelverwendung einmaliger Zuschuss Weltmusikfestival Köln 2019 - Kenntnis genommen
+- TOP 2.4: Beantwortung der SPD Anfrage AN/1057/2019 zum Ausbau Godorfer Hafen - Kenntnis genommen
+- TOP 2.5: 26. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 2.6: Förderung von ÖPNV und Radfahren durch mehr Sicherheit von Fußgängern und Radfahrern entlang der Bundesstraße 8 im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 2.7: Sachstand Lastenradförderung - Kenntnis genommen
+- TOP 2.8: Bericht über die Sanierung der Bühnen am Offenbachplatz – Stand: 30.09.2019 - Kenntnis genommen
+- TOP 2.9: Reform der Grundsteuer - regelmäßige Berichterstattung - Kenntnis genommen
+- TOP 2.10: Details zur Ausschreibung Bewachungsdienstleistungen für Unterkünfte für Geflüchtete - Kenntnis genommen
+- TOP 3: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Zuwendungen der im Rat und in den Ausschüssen vertretenen Fraktionen, Gruppen und Einzelmandatsträger im Jahr 2018 - Kenntnis genommen
+- TOP 4.1.1: Zuwendungen an die im Rat und in den Ausschüssen vertretenen Fraktionen, Gruppen und Einzelmandatsträger im Jahr 2018 - Kenntnis genommen
+- TOP 4.2: Eigentümerwechsel bei Rheinenergie-Anteilen - zurückgestellt
+- TOP 5: Gleichstellungsrelevante Angelegenheiten sowie Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 6.1: Unterrichtung des Rates über die von der Kämmerin/ den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 6.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Hj. 2019 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2019 - Kenntnis genommen
+- TOP 6.2: Unterrichtung des Rates über Kostenerhöhungen nach § 25 Abs. 1 Nr. 2 KomHVO
+- TOP 6.2.1: Umgestaltung des Knotenpunktes Aachener Straße/Hültzstraße/Stadtwaldgürtel, hier: Mitteilung über eine Kostenerhöhung gemäß §25 Abs. 1 Nr. 2 KomHVO i.V.m. §8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
+- TOP 7: Freigabe von investiven Auszahlungsermächtigungen des Finanzplanes
+- TOP 7.1: Radschnellweg Köln-Frechen, erweiterter Planungsbeschluss - zurückgestellt
+- TOP 7.2: Baubeschluss zur Verbesserung des Fuß- und Radverkehrs an der Hauptstraße zwischen "In der Adelenhütte - ungeändert beschlossen
+- TOP 7.3: Baubeschluss für die Umgestaltung des Knotenpunktes Sürther Str./Grüngürtelstr. in einen Kreisverkehr sowie Freigabe von investiven Verpflichtungsermächtigungen, hier: Finanzstelle 6601-1201-0-6600, Umbau von signalisierten Verkehrsknotenpunkten - ungeändert beschlossen
+- TOP 7.4: Ankauf einer Spiegelkapsel aus Elfenbein, Paris um 1320-1330, für das Museum Schnütgen - ungeändert beschlossen
+- TOP 7.5: Einrichtung des Erweiterungsbaus und entsprechende Freigabe von investiven Auszahlungsermächtigungen für das Genoveva-Gymnasiums, Genovevastr. 58-62, 51063 Köln-Mülheim - ungeändert beschlossen
+- TOP 8: Überplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 8.1: Überplanmäßige Aufwendungen im Teilplan 0106 - Zentrale Dienstleistungen - für das Haushaltsjahr 2019 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige zahlungswirksame Aufwendungen und Auszahlungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Schaugewächshaus im Botanischen Garten – Kostenfortschreibungsbeschluss gemäß §13 Abs 4 Satz 2 der Betriebsatzung der Gebäudewirtschaft in Verbindung mit §16 Abs 5 Satz 1 der Eigenbetriebsverordnung NRW (EigVO NRW) - ungeändert beschlossen
+- TOP 10.2: Vergabe der Stadtverschönerungsmittel 2019 im Stadtbezirk Innenstadt - ungeändert beschlossen
+- TOP 10.3: Erstellung eines Neubaus für eine Grundschule mit einer 1-fach Turnhalle in der Gaedestr., Köln-Marienburg - ohne Votum in nachfolgende Gremien
+- TOP 10.4: Generalsanierung der Turnhalle der Städtischen Katholischen Grundschule Osterather Straße 13, Köln-Nippes - Bau- und Einrichtungsbeschluss - ungeändert beschlossen
+- TOP 10.5: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - zurückgestellt
+- TOP 10.6: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - zurückgestellt
+- TOP 10.7: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2018 - ungeändert beschlossen
+- TOP 10.8: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2020 - ungeändert beschlossen
+- TOP 10.9: Teilnahme an der Landesinitiative „Gemeinsam klappt´s“; hier: Förderprojekt KOKIP (Kooperation zur Klärung rechtskreisübergreifender Integrationsprozesse) - Teilhabemanagement für geflüchtete Menschen in Köln - ungeändert beschlossen
+- TOP 10.10: Ombudsstelle für Geflüchtete - Verlängerung der Befristung und Reduzierung des Zuschusses - ungeändert beschlossen
+- TOP 10.11: Satzung der Stadt Köln zur Erhebung von Verwaltungsgebühren für die Kontrolle von Einfuhren von tierischen Produkten jeder Art aus nicht EU-Ländern nach EU-Recht - ungeändert beschlossen
+- TOP 10.12: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2019, Teil 1 - ungeändert beschlossen
+- TOP 10.13: Stadtentwässerungsbetriebe Köln (StEB), AöR: Abwassergebührensatzung 2020 - ungeändert beschlossen
+- TOP 10.14: Stadtentwässerungsbetriebe Köln, AöR (StEB): Wirtschaftsplan 2020 - ungeändert beschlossen
+- TOP 10.15: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2020 - ungeändert beschlossen
+- TOP 10.16: Verlängerung Auszugsmanagement - ungeändert beschlossen
+- TOP 10.17: Einmalige Zuwendung an die Frauenberatungsstelle von agisra e.V. sowie die haushaltsneutrale Umschichtung von Transferaufwendungen in 2019 - ungeändert beschlossen
+- TOP 10.18: Umgehende strukturelle und finanzielle Weiterentwicklung der vier Sozialpsychiatrischen Zentren (SPZ) der Stadtbezirke Chorweiler, Lindenthal, Porz und Rodenkirchen in Köln - ungeändert beschlossen
+- TOP 10.19: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - zurückgestellt
+- TOP 10.20: Finanzielle Entschädigung für die Tätigkeit in Aufsichtsgremien städtischer Beteiligungsgesellschaften - ungeändert beschlossen
+- TOP 10.21: Weiterführung des Projektes „Plan27“ – Zugehende Hilfe für junge Menschen mit psychischen Problemen bis 27 Jahre zur Überleitung ins Regelsystem und Entwicklung einer beruflichen Perspektive - ungeändert beschlossen
+- TOP 10.22: Mobiles Drogenhilfeangebot in Neumarktnähe - ungeändert beschlossen
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 12: Mündliche Anfragen
