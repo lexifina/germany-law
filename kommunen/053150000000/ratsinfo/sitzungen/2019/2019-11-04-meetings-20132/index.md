@@ -1,0 +1,82 @@
+# 43. Sitzung der Bezirksvertretung Ehrenfeld
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-04T17:00:00+01:00
+- Ende: 2019-11-04T21:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/23
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20132
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20132
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Anregungen und Beschwerden, Einwohneranträge, Bürgerbegehren und Bürgerentscheide gemäß §§ 24, 25 und 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Bürgereingabe gem. § 24 GO, betr.:Beleuchtung Gehweg Äußere Kanalstraße, Abschnitt Ossendorfbad bis Haltestelle Iltisstraße (Az: 02-1600-245/18) - zurückgestellt
+- TOP 3.2: Bürgereingabe gem § 24 GO "Fußgängerampel Venloer Straße 1055/Silbermöwenweg" (AZ: 02-1600-178/19) - geändert beschlossen
+- TOP 3.3: Bürgereingabe gem. § 24 GO, betr.: Einrichten von Bewohnerparkgebieten in den Bereichen des Sandweges und der Wolffsohnstraße in Köln-Ehrenfeld - Sache ist erledigt
+- TOP 3.4: Bürgereingabe gem § 24 GO "Tempo 30 Ossendorfer Straße" (AZ: 02-1600-198/19) - zurückgestellt
+- TOP 4: Anregungen und Stellungnahmen des Integrationsrates
+- TOP 5: Annahme von Schenkungen
+- TOP 6: Anfragen aus vorangegangenen Sitzungen
+- TOP 6.1: Anfrage der Fraktion Die Linke, betr.: Deckel drauf! - eine Einhausung für die A 57 - zurückgestellt
+- TOP 6.2: Anfrage der Fraktion DIE LINKE. BV Ehrenfeld.: Wie lassen sich Hindernisse beseitigen? - zurückgestellt
+- TOP 6.3: Anfrage der Fraktion DIE LINKE: Querung Ehrenfeldgürtel / Bartholomäus-Schink-Straße / Hüttenstraße - zurückgestellt
+- TOP 6.4: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN zu Immobilien der Deutschen Bahn im Stadtbezirk Ehrenfeld - zurückgestellt
+- TOP 6.5: Nutzungsmöglichkeiten des Hauses Vogelsanger Straße 230 - zurückgestellt
+- TOP 6.6: Anfrage der Fraktion BÜNDNIS 90 / DIE GRÜNEN: Barrierefreie Gehwege - Kenntnis genommen
+- TOP 6.6.1: „Barrierefreie Gehwegmobilität" - Kenntnis genommen
+- TOP 6.7: Anfrage der CDU-Fraktion, betr.: Bebauungsplan Philippstraße 50823 Köln-Ehrenfeld - Kenntnis genommen
+- TOP 6.7.1: Beantwortung einer Anfrage der CDU-Fraktion in der BV 4, betr. Bebauungsplan Philippstraße - Kenntnis genommen
+- TOP 7: neue Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Anfrage der Fraktion Bündnis 90/Die Grünen, betr.: Verkehrssituation in der Hüttenstraße - zurückgestellt
+- TOP 7.2: Anfrage der Fraktion Die Linke, betr.: Umsetzung der Wohnungsbauoffensive und Sanierung der Rheinischen Musikschule in der Vogelsanger Straße / Piusstraße - Kenntnis genommen
+- TOP 7.2.1: Beantwortung einer Anfrage der Fraktion Die Linke., AN/1406/2019, Rheinische Musikschule in Köln-Ehrenfeld - Kenntnis genommen
+- TOP 7.3: Anfrage der Fraktion Die Linke, betr.: Anwendung der Wohnraumschutzsatzung und Zweckentfremdung von Wohnraum in Ehrenfeld - zurückgestellt
+- TOP 7.4: Anfrage der SPD-Fraktion, betr.: Wohnungsbaupakt der Stadt Köln mit der Bundesanstalt für Immobilienaufgaben - zurückgestellt
+- TOP 8: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Gemeinsamer Antrag aller Fraktionen und Einzelvertreter/innen, betr.: "Fridays for future“ - ungeändert beschlossen
+- TOP 8.2: Antrag der SPD-Fraktion: Wertstoffcontainer Mengenicher Straße - geändert beschlossen
+- TOP 8.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3.2: Ergänzungsantrag zu TOP 8.3 Beschleunigte Umsetzung und Erweiterung des Straßenbaumkonzepts für Ehrenfelder Straßen - ungeändert beschlossen
+- TOP 8.4: Antrag der Fraktion Die Linke, betr..: Abbau Dreifachdrängelgitter Baadenberger Straße / Eisheiligenstraße - ungeändert beschlossen
+- TOP 8.5: Antrag der SPD-Fraktion, betr.: Einfache Änderung des Bebauungsplanes „Gewerbe- und Medienpark Ossendorf“ - geändert beschlossen
+- TOP 8.6: Antrag der Fraktion Bündnis 90/ Die Grünen: Ausweisung der Ölstraße als verkehrsberuhigter Bereich gem. § 42 Abs. 4a StVO, Verkehrszeichen 325 - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion Die Linke, betr.: Entsiegelungen schneller voran bringen! - ungeändert beschlossen
+- TOP 8.8: Antrag der Fraktion Bündnis 90/Die Grünen, betr.: Führung des Rad- und Fußverkehrs in der Butzweilerstraße - geändert beschlossen
+- TOP 8.9: Antrag der Fraktion Die Linke, betr.: Verlagerung des Taxistands Ehrenfeldgürtel / Subbelrather Straße - geändert beschlossen
+- TOP 8.10: Antrag der CDU-Fraktion, betr,: Einrichtung eines Fußgängerüberweges - zurückgestellt
+- TOP 8.11: Gemeinsamer Antrag aller Fraktionen und Einzelmandatsträger/innen, betr.: Erwerb des Grundstücks der Fa. Max Becker GmbH und Co KG an der Widdersdorferstraße durch die Stadt Köln - geändert beschlossen
+- TOP 9: Entscheidungen
+- TOP 9.1: Bericht über den Ausführungsstand der Beschlüsse der Bezirksvertretung Ehrenfeld (Jahresbericht) - zurückgestellt
+- TOP 9.1.1: Jahresbericht für die Beschlüsse aus der Bezirksvertretung Ehrenfeld in der Zuständigkeit des Amtes für Straßen und Verkehrsentwicklung - zurückgestellt
+- TOP 9.2: Verkehrskonzept Ossendorfer Straße/Baadenberger Straße - zurückgestellt
+- TOP 9.3: Urbanes-Gärtnern Projekt - geändert beschlossen
+- TOP 9.4: Baubeschluss für die Sanierung des Geh- und Radweges zwischen Parkgürtel und Wöhlerstraße - ungeändert beschlossen
+- TOP 9.5: Sitzen statt Parken - Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 10: Anhörungen und Stellungnahmen
+- TOP 10.1: Aufhebung des Einleitungsbeschlusses zum Bebauungsplanverfahren (Vorhaben- und Erschließungsplan) Arbeitstitel: Melatengürtel/Grüner Weg in Köln-Ehrenfeld - abgelehnt (in der Vorberatung)
+- TOP 10.2: Anpassung der Zuständigkeitsordnung - Alternative beschlossen
+- TOP 10.3: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 10.4: Konzept "Essbare Stadt" - zurückgestellt
+- TOP 10.5: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 10.5.1: Änderungsantrag zu TOP 10.5 KAG-Maßnahmen - zurückgestellt
+- TOP 10.6: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 11: Mitteilungen des Bezirksbürgermeisters
+- TOP 12: Mitteilungen der Verwaltung
+- TOP 12.1: Sachstandsbericht "Starke Veedel - Starkes Köln" - Kenntnis genommen
+- TOP 12.2: Bewohnerparken Ehrenfeld, Vogelsanger Straße - Kenntnis genommen
+- TOP 12.3: Neue Straße nördlich Girlitzweg - Kenntnis genommen
+- TOP 12.4: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 12.5: Sachstand Überprüfung des Rückbaus freilaufender Rechtsabbieger - Kenntnis genommen
+- TOP 12.6: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 12.7: Mietspiegel und Mietpreiskontrolle (Neubau Rochusstraße) - Kenntnis genommen
+- TOP 12.8: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 12.9: Leerstehende Kita "Christi Geburt" in Köln- Bocklemünd-Mengenich, Beschluss der BV 4 aus Sitzung vom 08.07.2019 (AN/0954/2019) - Kenntnis genommen
+- TOP 12.10: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates Entwicklung des Siemens-Geländes an der Franz-Geuer-Straße - Kenntnis genommen
+- TOP 12.11: Radverkehrskonzept Ehrenfeld - zurückgestellt
+- TOP 13: mündliche Anfragen
