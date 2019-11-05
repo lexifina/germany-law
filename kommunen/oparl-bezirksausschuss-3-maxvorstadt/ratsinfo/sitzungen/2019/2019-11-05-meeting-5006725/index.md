@@ -1,0 +1,119 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2019-11-05T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5006725
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5006725
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4.: Fragen an die Polizei
+- TOP 5.: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 6.: Antworten der Stadtverwaltung auf Anträge und Anfragen des BA
+- TOP 7: Berichte
+- TOP 7.1: Rechtsextremismusbeauftragter
+- TOP 7.2: Mieterbeirätin
+- TOP 1.: Anträge
+- TOP 2.1: Bauvorhaben
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 3.: Vollzug der Baumschutzverordnung, Baumfällungen, Grün- und Freiflächenplanung
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Grün- und Freiflächenplanung
+- TOP 4.: Aktuelle Sachstandsberichte
+- TOP 5.: Unterrichtungen
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1.: Nächste BA- und UA-Sitzungen
+- TOP A: Allgemeines
+- TOP 5.2.1.: Bürgeranliegen vom 02.10.2019, massive Verunreinigungen vor dem Anwesen Augusten- straße 1
+- TOP 5.2.2.: Bürgeranliegen vom 07.10.2019, Entfernen der Bänke Ecke Karl-/Dachauer Straße
+- TOP 5.2.3.: Bürgeranliegen vom 07.10.2019, Gefahrenstellen Fußgängerübergang Friedrichstraße und Zebrastreifen Friedrich-/Türkenstraße
+- TOP 5.2.4.: Bürgeranliegen vom 02.09.2019, Probenräume für Musiker vertagt aus der Sitzung vom 08.10.2019, TOP A 5.2.1
+- TOP 5.2.5.: Bürgeranliegen vom 15.10.2019, Verkehrssituation Steinickeweg (vgl. TOP A 5.2.5/08 2019)
+- TOP 5.2.6.: Bürgeranliegen vom 15.10.2019, Zufahrt zur Tiefgarage Josephsplatz 4, Parken in der Fußgängerzone
+- TOP 5.2.7.: Bürgeranliegen vom 16.10.2019, Behindertenparkplätze vor der Augenklinik Nymphenburger Straße 43
+- TOP 5.2.8.: Bürgeranliegen vom 13.10.2019, Fahrradfahren in München (z.B. Arcis- / Katharina-von- Bora-Straße)
+- TOP 5.2.9.: Bürgeranliegen vom 21.10.2019, Zieblandstraße zur Einbahnstraße umwandeln
+- TOP 6.1.: Einbahnregelung in der Veterinärstraße, Antwortschreiben des KVR (s. TOP C 1.11/09 2019)
+- TOP 6.2.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP B: Planung und Umwelt
+- TOP 1.1.: Antrag Bündnis 90/Die Grünen vom 21.10.2019 Aufwertung der Rottmannstraße durch Baumpflanzungen
+- TOP 2.1.1.: LBK Listen der Bauvorhaben: 39., 40., 41. und 42. KW
+- TOP 2.1.2.: WEB Listen der LBK: 38., 39. KW
+- TOP 2.1.3.: Türkenstraße 52/54, Verkauf von Wohnhäusern
+- TOP 3.2.1.: Lothstraße 70, vier Goldregen
+- TOP 3.2.2.: Türkenstraße 44, eine Robinie
+- TOP 3.2.3.: Geschwister-Scholl-Platz 1, eine Esche
+- TOP 5.1.: (U) Kunstareal - modifizierte Alternative 5 im 3. Stadtbezirk Maxvorstadt Projektkosten (Ausführungskosten): 9.500.000 € (darin enthalten: 60 %-LHM-Anteil an den Folgekosten der Stadtwerke München GmbH = 50.000 € (brutto)) Ausführungsgenehmigung
+- TOP 5.2.: Fünf Plätze attraktiv neu gestalten (Barer Straße Ecke Nordendstraße), Beschlussvorlage Sitzungsvorlage Nr. 14-20 / V 15997
+- TOP 5.3.: Ergebnisse der Baulandkommission, Forderungen der Landeshauptstadt München, Be- schlussvorlage, Sitzungsvorlage Nr. 14-20 / V 16067
+- TOP 5.4.: Umsetzung der Ergebnisse der Selbstverständnisdebatte der Kommission für Stadtgestal- tung; Sachmittelbedarf, Beschlussvorlage, Sitzungsvorlage Nr. 14-20 7 V 16244
+- TOP 5.5.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 5.6.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 5.7.: Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren – LBK zukunftsfähig ausstatten, Beschlussvorlage Sitzungsvorlage Nr. 14-20 / V 16043
+- TOP 5.8.: (U) Bebauungsplan mit Grünordnung Nr. 2089 Pappenheimstraße (westlich) zwischen Marsplatz und Blutenburgstraße (Teiländerung des Bebauungsplanes N. 1466) --Biilligungsbeschluss und vorbehaltlicher Satzungsbeschluss-
+- TOP 5.9.: Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation BV-Empfehlung Nr. 14-20 / E 02501 der Bürgversammlung des 19. Stadtbezirkes Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019, Sitzungsvorlage Nr. 14-20 / V 16374
+- TOP 5.10.: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP 5.11.: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP 5.12.: Thorwaldsenstraße 13-17, Lothstraße 6, Baumfällung, Ablehnung
+- TOP 5.13.: Rückschnitt der Hecken und Gehölze um die Bäume an der Kreuzung Isabella- / Neureutherstraße
+- TOP C: Verkehr und öffentlicher Raum
+- TOP 1.: Anträge
+- TOP 1.1.: Antrag SPD vom 15.10.2019 Stolperfallen am Ferdinand-Miller-Platz
+- TOP 1.2.: Antrag CSU vom 21.10.2019 Radampeln Ludwigstraße Ecke Geschwister-Scholl- bzw. Professor-Huber-Platz
+- TOP 1.3.: Antrag CSU vom 21.10.2019 Temporäres Nutzungskonzept „Fahrradwegparken“
+- TOP 1.4.: Antrag Bündnis 90/Die Grünen vom 20.10.2019 Radweg in der Görresstraße zum Radfahren unzumutbar – Wann wird ein Sanierungsplan für die Görresstra0e vorgelegt?
+- TOP 1.5.: Antrag Bündnis 90/Die Grünen vom 20.10.2019 Fahrradabstellflächen in der Georgenstraße im Abschnitt Adelheid- bis Schwarzmannstraße ausweisen und schnellstmöglich einrichten
+- TOP 1.6.: Antrag Bündnis 90/Die Grünen vom 21.10.2019 Aufwertung des Rudi-Hierl-Platzes baldmöglichst durchführen
+- TOP 1.7.: Antrag SPD vom 20.10.2019 Priorisierung des Baus der „U29-Spange“ im Zuge des U-Bahn-Projekts „U9“
+- TOP 1.8.: Antrag SPD vom 20.10.2019 Noch immer unbeleuchtete Buswartehallen in der Schellingstraße und am Josephsplatz
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: Barer Straße 45, Aufstellung eines weiteren Postkartenständers
+- TOP 2.3.1.: Brienner Straße 49, Genehmigung einer Freischankfläche
+- TOP 2.4.1.: „Grüne Weihnachten“ am 07.12.2019 auf dem Josephsplatz
+- TOP 2.4.2.: Ludwigstraße 2: Hoffest im Advent am 30.11.2019
+- TOP 2.5: Aktuelle Sachstandsberichte
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Kreisverwaltungsreferat, Arbeiten im Straßenraum, Baustellen a) Königsplatz, Baustelleneinrichtung b) Marsstraße zwischen Pappenheimstraße und Seidlstraße, Straßenbau c) Karlstraße 77-79, Denisstraße 5, Fernwärme- und Kälteleitung
+- TOP 3.2.: 34. München Marathon am 13.10.2019 und Trachtenlauf im Olympiapark am 12.10.2019 Erlaubnisbescheid
+- TOP 3.3.: Kreisverwaltungsreferat, Uwandlung von Kfz-Stellplätzen in Fahrradstellplätze Kreittmayrstraße 23
+- TOP 3.4.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs – Zweites Maßnahmenbündel, Eilentscheidung des Vorsitzenden vom 10.10.2019, Zustimmung
+- TOP 3.5.: Referat für Gesundheit und Umwelt, Vollzug des Bundesimmissionsschutzgesetzes Mülleinsammlung Bereich zwischen Dachauer Straße, Sandstraße, Nymphenburger Straße und Lazarettstraße
+- TOP 3.6.: Kunstaktion EASTERN MUNICH am 19. u. 20.10.2019 auf dem Wittelsbacherplatz, Erlaubnisbescheid
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP D: Soziales und Bildung
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget Marli Bossert Stiftung e.V. Schaffung eines Raumes für eigenleben vom 01.11.2019 bis 31.12.2019 10.069,00 €, Az. 0262.0-3-0272
+- TOP 2.2.: (E) Stadtbezirksbudget Elternbeirat der Grundschule an der Blutenburgstraße 3 Leben und Lernen in der Maxvorstadt 1.820,- €, Az. 0262.0-3-0271
+- TOP 3.: Aktuelle Sachstandsberichte
+- TOP 4.: Unterrichtungen
+- TOP 4.1.: (U) Räumlichkeiten für das "Münchner Haus der Schülerinnen und Schüler" (MHDS) Grundsatzentscheidung Anmietobjekt im 3. Stadtbezirk - Maxvorstadt
+- TOP 4.2.: Räumlichkeiten für das „Münchner Haus der Schülerinnen und Schüler“ (MHDS), Grundsatz- entscheidung, Anmietobjekt im 3. Stadtbezirk Maxvorstadt, Sachstand, Beschlussvorlagen Sitzungsvorlagen Nr: 14-20 / V 15097
+- TOP 4.3.: Wechsel der Schulleitung Grundschule an der Türkenstraße
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP E: Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: (E) Stadtbezirksbudget TUM Jazz Band e.V. Kauf von Instrumenten Zubehör 1.085,00 €, Az. 0262.0-3-0273
+- TOP 2.2.: (E) Stadtbezirksbudget Magazin für Literatur und Kultur e.V. Release Paper Nr. 6: Rausch in der Roten Sonne am 26.10.2019 440,00 Euro, Az.: 0262.0-3-0274
+- TOP 4.: Unterrichtungen
+- TOP F: BA-Angelegenheiten, Sonstiges und Termine
+- TOP F.1.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 bis 2026
+- TOP F.2.: Anhörungsrecht auch bei stadtbezirksübergreifenden Maßnahmen des Umweltschutzes, insbesondere der Luftreinhaltung; Änderung der Ziffer 7.1 des Katalogs für das Referat für Gesundheit und Umwelt (Anlage 1 zur BA-Satzung)
+- TOP F.3.: Anhörungsrecht bei der Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahzeugen, BA-Antrag Nr. 14-20 / B 06220 des BA 5 Au-Haidhausen, Anhörung
+- TOP G: Nicht öffentliche Sitzung
