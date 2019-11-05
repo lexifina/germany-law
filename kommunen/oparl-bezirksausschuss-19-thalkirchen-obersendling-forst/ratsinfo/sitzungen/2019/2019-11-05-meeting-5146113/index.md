@@ -1,0 +1,68 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2019-11-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5146113
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5146113
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Bürgerinnen und Bürger haben das Wort
+- TOP 1: Formalia
+- TOP 1.1.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2.: Festlegung der endgültigen Tagesordnung und Sammelbeschluss
+- TOP 2: Allgemeines
+- TOP 2.3.: Jahresempfang BA 19
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 5: Unterausschuss Verkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 7: Unterausschuss Soziales
+- TOP 7.2.: Informations- und Planungsstand Hermann-von-Siemens-Sportpark
+- TOP 8: Unterausschuss Kultur
+- TOP 9: Verschiedenes
+- TOP 1.3.: Genehmigung der Protokolle vom 09.10.2019
+- TOP 2.1.: Termine
+- TOP 2.2.: Informationen
+- TOP 3.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 3.2.: (E) Stadtbezirksbudget Mexikanisch-Deutscher Kreis in Bayern e.V. Dia de Muertos – Tag der Toten am 02.11.2019 2.650,00 Euro
+- TOP 3.3.: (E) Stadtbezirksbudget Evang.-Luth. Apostelkirche M.-Solln Oratorienkonzert am 17.11.2019 3.100,00 Euro
+- TOP 3.4.: (E) Stadtbezirksbudget Caritasverband der Erzdiözese München und Freising e.V. Weihnachtsfeier für die Bewohner der Flüchtlingsunterkunft Forstenrieder Allee am 12.12.2019 787,50 Euro
+- TOP 3.5.: (Antrag) Vorschlag für das Stadtbezirksbudget: Straßenerläuterungsschild Franz-Reber-Weg (NACHTRAG)
+- TOP 4.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 4.2.: (A) Baumschutzliste
+- TOP 4.3.: (U) Mobilfunkanlagen
+- TOP 4.4.: (A) Satzungsänderung: Anhörungsrecht bei allgemeinen Maßnahmen des Umweltschutzes (Antrag BA 17 - Obergiesing-Fasangarten)
+- TOP 4.5.: (Antrag) Rückverlegung der Wertstoffcontainer in der Kistlerhofstraße
+- TOP 4.6.: (A) Antwortschreiben BA-Antrag Nr. 14-20 / B 08354 „Insekten schützen - Biodiversität verbessern“
+- TOP 4.7.: (Antrag) Baumschutz an der Kistlerhofstraße
+- TOP 4.8.: (Antrag) Begrünung an der Drygalski Allee
+- TOP 5.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 5.1.1: Kurzparkzone Kistlerhofstraße
+- TOP 5.2.: (A) Projektplanung: Frans-Hals-Straße/Wolfratshauser Straße
+- TOP 5.3.: (Antrag) Verkehrssituation Grundschule Walliser Straße
+- TOP 5.4.: (A) Beschlussentwurf: Bürgerbeteiligung am Verkehrskonzept München-Süd; Sitzungsvorlage Nr. 14-20 / V 16289
+- TOP 5.5.: (A) Verkehrsrechtliche Anordnung: Anfahrtszone Boschetsrieder Straße
+- TOP 5.6.: (Antrag) Ersatzabstellplätze für Fahrräder am U-Bahnhof Aidenbachstraße
+- TOP 5.7.: (A) Satzungsänderung: Anhörungsrecht bei der Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen (Antrag BA 5 - Au-Haidhausen)
+- TOP 5.8.: (A) Standortbegehung E-Ladesäulen: Höglwörther Straße
+- TOP 5.9.: (A) Verkehrsrechtliche Maßnahmen Georg-Strebl-Straße
+- TOP 5.10.: (Antrag) MVG-Radstation am Sollner S-Bahnhof
+- TOP 5.11.: (Antrag) Ringschluss der Buslinie 136
+- TOP 5.12.: (Antrag) Auswirkungen einer Sperrung der Höglwörther Straße prüfen
+- TOP 5.13.: (Antrag) Autobahn Südring
+- TOP 5.14.: (Antrag) Fußgängerüberweg Tölzer Straße
+- TOP 5.15.: (E) Christbaumverkaufsplatz: Grünanlage Drygalski-Allee, Ecke Züricher Straße (NACHTRAG)
+- TOP 6.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 6.2.: (A) Bauvorhaben lt. Liste
+- TOP 6.3.: (A) Bauleitplanverfahren: „Haderner Winkel“ Gemeinde Neuried
+- TOP 6.4.: Bauvorhaben Gymnasium Gmunder Straße und Grundschule Boschetsrieder Straße
+- TOP 7.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 7.1.1: Errichtung eines Spielplatzes am Hermann-Hahn-Platz
+- TOP 8.1.: Antwortschreiben, Unterrichtungen, Berichte
+- TOP 8.2.: (U) Gaststättenfortführung: Festingstr. 4
