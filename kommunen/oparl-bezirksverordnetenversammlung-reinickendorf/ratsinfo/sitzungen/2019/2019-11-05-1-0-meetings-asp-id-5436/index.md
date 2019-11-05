@@ -1,0 +1,55 @@
+# 29. öffentliche Sitzung des Bauausschusses
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2019-11-05T17:00:00+01:00
+- Ende: 2019-11-05T18:55:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=68
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5436
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=5436
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=116&id=334714
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und Festsetzung der Tagesordnung - erledigt
+- TOP 2: Genehmigung der Niederschrift der 28. Sitzung vom 01.10.2019 - vertagt
+- TOP 3: Beratung von Punkten aus der Bürgerbeteiligung zum Haushaltsplan 2020/2021 (auf Vorschlag der Fraktion Bündnis 90/Die Grünen) - (offen)
+- TOP 3.1: Sanierung der Pannwitzstraße - erledigt
+- TOP 3.2: Bedarfsstreifen entlang der Humboldtstraße - erledigt
+- TOP 3.3: Mülleimer und Hundekotbehälter anbringen - erledigt
+- TOP 3.4: Anlage eines Zebrastreifens Heiligenseestraße, Befestigung des Fußgängerwegs und Bürgersteigabsenkung Bekassinenweg - erledigt
+- TOP 3.5: Asphaltstreifen auf Kopfsteinpflaster Straßen (Hermsdorf) - erledigt
+- TOP 3.6: Verbesserung der Gehwege in Hermsdorf - erledigt
+- TOP 3.7: Schaffung Radweg in Heiligensee - erledigt
+- TOP 3.8: Fahrbahn Klixstraße begradigen - erledigt
+- TOP 3.9: Hundekottüten- und Müllentsorgungsstellen in FrohnauAufstellen von Mülleimern, Müllentsorgung, Kontrollen Ordnungsamt, Einbindung BSR - erledigt
+- TOP 3.10: Hundekot-Stellen, Ulmenstraße, Tempo 30 Zonen, Weiterbetrieb Flughafen Tegel - erledigt
+- TOP 3.11: Zaunelement entfernen Straße am Nordgraben, mehr Mitarbeiter im OrdnungsamtAnbringung Kamera, Überwachung Fahrradstreifen - erledigt
+- TOP 3.12: Sanierung Fahrradwege, Anlegen von Fahrradstreifen, Verlegung Ampelbedienung - erledigt
+- TOP 3.13: Erhaltung und Pflege Boules-Platz - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Bienen, Schmetterlinge und andere sog. Bestäuber vor dem Aussterben bewahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.2: Mehr Obstbäume auf öffentlichen Grünflächen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Baumscheiben bienenfreundlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Verkehrsberuhigung des Dorfkerns Lübars - mit Änderungen im Ausschuss beschlossen
+- TOP 4.5: Asphaltierte Fußübergänge in Alt-Tegel - mit Änderungen im Ausschuss beschlossen
+- TOP 4.6: Abfallbehälter in Parkanlagen mit Deckeln aufstellen - erledigt
+- TOP 4.7: Instandsetzung Berliner Mauerweg um Reinickendorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.8: QR-Codes an Parkeingängen - im Ausschuss abgelehnt
+- TOP 4.9: Digitale Bildung sicherstellen 3 - vertagt
+- TOP 4.10: Schaffung eines Rad- und Wanderwegs zwischen Reinickendorf und Pankow - vertagt
+- TOP 4.11: Schönheitskur für die Tegeler Sechserbrücke - vertagt
+- TOP 4.12: Hundeauslaufzone - vertagt
+- TOP 4.13: Fontane-Haus barrierefrei zugänglich machen - vertagt
+- TOP 4.14: Blumenkübel am Ludolfinger Platz - vertagt
+- TOP 4.15: Baumlücke schließen - vertagt
+- TOP 4.16: Fahrradweg durch den Steinbergpark - vertagt
+- TOP 4.17: Barrierefreiheit in der Wachsmuthstraße - vertagt
+- TOP 4.18: Sechserbrücke in Tegel endlich behindertengerecht herrichten - vertagt
+- TOP 4.19: Lösung an der Grundschule am Fließtal - vertagt
+- TOP 4.20: Verbesserung der Beleuchtung im Schloßviertel in Tegel - vertagt
+- TOP 4.21: Ein Naturerfahrungsraum (NER) für Reinickendorf - vertagt
+- TOP 5: Bericht aus dem Bezirksamt - erledigt
+- TOP 6: Verschiedenes - erledigt
