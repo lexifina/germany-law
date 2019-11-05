@@ -1,0 +1,72 @@
+# Sitzung der Bezirksvertretung Porz
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-05T17:00:00+01:00
+- Ende: 2019-11-05T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/26
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20484
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20484
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: A - Sachstand Porz Mitte
+- TOP -: B - Sachstand Schulbau in Porz
+- TOP -: C - Vorstellung Hr. Hartjes, Krankenhaus Porz
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Bürgereingabe gem. § 24 GO, betr.: Verkehrssituation Linder Mauspfad (Az.: 02-1600-76/19) - aus der letzten Sitzung bis nach den Messungen geschoben. - zurückgestellt
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6.1: Herstellung einer Teilfläche in der Schubertstraße - aus der letzten Sitzung in Fachgespräch geschoben - zurückgestellt
+- TOP 6.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 6.3: Baubeschluss zur Verbesserung des Fuß- und Radverkehrs an der Hauptstraße zwischen "In der Adelenhütte - ungeändert beschlossen
+- TOP 6.4: Baubeschluss für die Öffnung der Einbahnstraßen Houdainer Straße und Hauptstraße zwischen Schmittgasse und Burgweg für den gegenläufigen Radverkehr - zurückgestellt
+- TOP 6.5: Einbeziehung einer Planstraße in Köln-Porz - ungeändert beschlossen
+- TOP 6.6: Umsetzung des Integrierten Stadtentwicklungskonzeptes Porz Mitte hier: Ernennung Mitglieder für den Beirat Porz Mitte - ungeändert beschlossen
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 7.1: Pflege- und Entwicklungsplan Naturschutzgebiet "Langeler Auwald, rrh." und angrenzende Flächen - aus der letzten Sitzung in Fachgespräch geschoben - zurückgestellt
+- TOP 7.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2: Konzept "Essbare Stadt" - ungeändert empfohlen
+- TOP 7.3: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - aus der letzten Sitzung in Fachgespräch geschoben - mit Änderungen empfohlen
+- TOP 7.3.1: Änderungsantrag zu 7.3: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - ungeändert beschlossen
+- TOP 7.4: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Porz - Ensen, Arbeitstitel: Kölner Straße / Hauptstraße - ungeändert empfohlen
+- TOP 8: Anträge gem. §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 8.1: Antrag der CDU-Fraktion: Durchgangsverkehr in der Meirowskystraße/Carlebachstraße - aus der letzten Sitzung geschoben; es soll ein Ortstermin stattfinden - zurückgestellt
+- TOP 8.2: Antrag der SPD-Fraktion: Fahrradschutzstreifen - aus der letzten Sitzung in runden Tisch Radverkehr geschoben - zurückgestellt
+- TOP 8.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.3: Antrag der Fraktion die Grünen: Altenbergerstr/Neusser Str. in Porz-Eil Parkplätze beim Bauvorhaben der Vonovia - geändert beschlossen
+- TOP 8.3.1: Änderungsantrag der Fraktion die Grünen: Altenbergerstr/Neusser Str. in Porz-Eil Parkplätze beim Bauvorhaben der Vonovia - ungeändert beschlossen
+- TOP 8.4: Antrag der SPD-Fraktion: Mehr Verkehrssicherheit auf der Gremberghovener Str. in Porz-Ensen - aus der letzten Sitzung in den runden Tisch Radverkehr geschoben - zurückgestellt
+- TOP 8.5: Antrag der Fraktion die Grünen: Parkdruck verringern durch Parkraumbewirtschaftung mit 24 Stunden frei parken in den Stadtteilen - zurückgestellt
+- TOP 8.6: Antrag der SPD Fraktion: Anhörung zur Überarbeitung des Regionalplans - ungeändert beschlossen
+- TOP 8.7: Antrag der Fraktion die Grünen: Forderung Verkehrssicherheit Langel - geändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 9.1.1: Beantwortung einer mündl. Anfrage der SPD-Fraktion aus der BV7 vom 08.10.2019 - AN/1383/2019 - Kenntnis genommen
+- TOP 9.1.1.1: mündliche Anfrage: Sportplätze Humboldtstraße und Stresemannstraße - Sache ist erledigt
+- TOP 9.1.2: Beantwortung einer Anfrage der SPD-Ratsfraktion: Leerstehende Wohnungen im "Nachtigallenhof" in Wahn - Kenntnis genommen
+- TOP 9.1.3: Beantwortung der AN/1340/2019 zum Gewerbegebiet Poll - Kenntnis genommen
+- TOP 9.1.3.1: Anfrage der SPD-Fraktion: Gewerbegebiet Poll - Sache ist erledigt
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Anfrage der SPD-Fraktion BV7: Bombensprengungen in der Westhovener Aue - zurückgestellt
+- TOP 9.2.2: Anfrage der SPD Fraktion: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung - zurückgestellt
+- TOP 9.2.3: Anfrage zum Sachstand zum Neubau Nachtigallenhof zwischen Ludwig-Schneider-Str. und Nachtigallenstr. - Kenntnis genommen
+- TOP 9.2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.5: mündliche Anfrage der CDU Fraktion zu temporärer Flüchtlingsunterkunft in der Aloys-Boecker-Straße in Porz-Lind - Kenntnis genommen
+- TOP 9.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.7: mündliche Anfrage der CDU Fraktion: Absperrpfosten Fischerweg, Sachstand AN/1300/2017 - endgültig zurückgezogen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Feststellungsklage beim Verwaltungsgericht zur Überprüfung einer möglichen Verletzung von Mitwirkungsrechten - Kenntnis genommen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 10.2.2: Sitzung des Beirates Porz Mitte am 24.09.2019 hier: Beschlussprotokoll als Mitteilung zur Sitzung der BV7 am 05.11.2019 - Kenntnis genommen
+- TOP 10.2.3: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 11: Annahme von Schenkungen
