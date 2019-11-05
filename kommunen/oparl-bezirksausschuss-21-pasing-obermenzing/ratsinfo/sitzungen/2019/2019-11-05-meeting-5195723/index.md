@@ -1,0 +1,229 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2019-11-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5195723
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5195723
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 2.: Bürgeranliegen
+- TOP 2.1: Bürgersprechstunde
+- TOP 2.2: Bürgerpost an den BA 21
+- TOP 3.: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.1.: Alte Allee 78: 3 Hainbuchen, 1 Kiefer, 1 Obstbaum
+- TOP 3.1.2.: Bauseweinallee 98: 3 Fichten
+- TOP 3.1.3.: Bergsonstr. 91: 2 Scheinzypressen
+- TOP 3.1.4.: Eisenhartstr. 57: 2 Bäume
+- TOP 3.1.5.: Fritz-Reuter-Str. 23: 1 Fichte
+- TOP 3.1.6.: Lindpaintnerstr. 21: 1 Fichte
+- TOP 3.1.7.: Meyerbeerstr. 20: 2 Eschen
+- TOP 3.1.8.: Villacher Str. 21: 1 Fichte
+- TOP 3.1.9.: Wilhelm-Mayr-Str. 11: 1 Birke
+- TOP 3.1.10.: Reußweg 11: 2 Fichten
+- TOP 3.1.11.: Erdmannsdörferstr. 12a: 2 Rotfichten
+- TOP 3.1.12.: Bergsonstr. 61: 2 Schwarzkiefern
+- TOP 3.1.13.: Borodinstr. 34: 2 Thujen
+- TOP 3.1.14.: Varnhagenstr. 29: 1 Fichte
+- TOP 3.1.15.: Suessenguthstr. 30: 1 Fichte
+- TOP 3.1.16.: Dorfstr. 9-11: 1 Kirsche, 1 Kotoniaster, 1 Blutpflaume
+- TOP 3.1.17.: Frauendorferstr. 4: 1 Nordmanntanne
+- TOP 3.1.18.: Marschnerstr. 57: 1 Akazie
+- TOP 3.1.19.: Bodenstedtstr. 62: Baumbestandsplan
+- TOP 3.1.20.: Verdistr. 100: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.21.: Presselweg 4: Baumbestandsplan
+- TOP 3.1.22.: Landsberger Str. 459: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.23.: Lortzingstraße / Scapinellistraße: Baumbestandsplan
+- TOP 3.1.24.: Pläntschweg 72: Baumbestandsplan
+- TOP 3.1.25.: Donizettiweg 14: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.26.: Bosettistr. 7: Baumbestands- und Freiflächengestaltungsplan
+- TOP 3.1.27.: Pfeivestelstr. 43: Baumbestandsplan (DHH 1 + 2)
+- TOP 3.1.28.: Betzenweg 16: Baumbestandsplan (DHH 1 + 2)
+- TOP 3.1.29.: Benderstr. 23: 1 Kiefer
+- TOP 3.1.30.: Offenbachstr. 29: Baumbestandsplan
+- TOP 3.1.31.: Chopinstr. 26: 1 Spitzahorn, 1 Esche
+- TOP 3.1.32.: Heerstr. 41: 1 Fichte
+- TOP 3.1.33.: Bad-Ischler-Str. 10: 1 Fichte
+- TOP 3.1.34.: Rubinsteinstr. 57: 1 Kiefer
+- TOP 3.1.35.: Landschaftsschutzgebiet Würm: 1 Fichte, 3 Eschen, 5 Erlen, 3 Weiden, 1 Ahorn, 1 Kastanie
+- TOP 3.1.36.: Feichthofstr. 57: 1 Thuje
+- TOP 3.1.37.: Oldenbourgstr. 10-10a: 1 Birke
+- TOP 3.2: Gefahrenbäume
+- TOP 4.: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5.: Bericht des UA Bau und verk. Einzelmaßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 6.: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7.: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.1: Berichte der Beauftragten
+- TOP 7.1.1: Kinderbeauftragte
+- TOP 7.1.2: Jugendbeauftragte
+- TOP 7.1.3: Gleichstellungsbeauftragte
+- TOP 7.1.4: Behindertenbeauftragte
+- TOP 7.1.5: Bürgerbeiräte Verdistr. 45, Jugendhilfez. Scapinellistr,
+- TOP 7.1.6: Migrationsbeauftragter
+- TOP 7.1.7: Beauftragter im Mieterbeirat
+- TOP 7.1.8: REGSAM-Beauftragte
+- TOP 7.1.9: Denkmalschutzbeauftragter
+- TOP 8.: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Anhörungen
+- TOP 11.: Anträge und Anfragen
+- TOP 12.: Unterrichtungen
+- TOP 13.: Stadtrats- und Ausschussbeschlüsse
+- TOP 14.: Post an den BA
+- TOP 14.1: von der Stadtverwaltung
+- TOP 1.: Direktorium
+- TOP 2.: Baureferat
+- TOP 3.: Kreisverwaltungsreferat
+- TOP 4.: Referat für Stadtplanung und Bauordnung
+- TOP 5.: Stadtwerke / MVG
+- TOP 6.: Kulturreferat
+- TOP 7.: Referat für Bildung und Sport
+- TOP 8.: Referat für Arbeit und Wirtschaft
+- TOP 9.: Sozialreferat
+- TOP 14.2: Sonstige
+- TOP 15.: Verschiedenes
+- TOP 15.2.: Bürgerforum Altenpflege am 11.11.19 im Alten Rathaus, Marienplatz 15 zum Thema "24-Stunden-Betreuung für hilfe- und pflegebedürftige Menschen"
+- TOP 2.2.1.: Behinderungen für Fußgänger durch die Freischankfläche in der Bäckerstraße (Vertagung aus der BA-Sitzung am 01.10.19)
+- TOP 2.2.2.: Parksituation Ebenböckstraße auf Höhe des Parks sowie Bäckerstraße südlich ab Gräfstraße (Vertagung aus der BA-Sitzung am 01.10.19)
+- TOP 2.2.3.: Vorschlag zum Stadtbezirksbudget: Anlegen eines Barfußpfades am Wensauerplatz (Vertagung aus der BA-Sitzung am 01.10.19)
+- TOP 2.2.4.: Neubau Actionsporthalle im Neubaugebiet Paul-Gerhardt-Allee, Lärmschutzkonzept für angrenzende Wohnbebauung und Parkkonzept
+- TOP 2.2.5.: Fußgängerweg am Nymphenburger Kanal (Vertagung aus der BA-Sitzung am 01.10.19)
+- TOP 2.2.6.: Renaturierte Würm an der Mergenthalerstraße - Enten und Hunde
+- TOP 2.2.7.: Ersatzpflanzung von entfernten Bäumen, Scapinellistr. 6
+- TOP 2.2.8.: Buchprojekt "Never Forget - Never Again": Dank für Unterstützung und Info
+- TOP 2.2.9.: Reduzierung des ortsfremden Durchgangsverkehrs Otilostraße / Paul-Hösch-Straße (Antrag BA 21 vom 02.04.19)
+- TOP 2.2.10.: Zugeparkte Radwege; Georg-Habel-Straße / Ecke Ebenböckstraße
+- TOP 2.2.11.: Ansiedlung Sportwettbüros
+- TOP 2.2.12.: Fußgängerweg Paganinistraße zum Durchblick
+- TOP 2.2.13.: Gefährliche Parksituation in der Verdistraße
+- TOP 2.2.14.: Parksituation Spiegelstr. 1
+- TOP 2.2.15.: Zebrastreifen in der Frauendorferstraße
+- TOP 2.2.16.: Pasinger Stadtpark; Benutzung der Gehwege durch Radfahrer
+- TOP 2.2.17.: Parken vor dem Obermenzinger Friedhof – Zeitraum Allerheiligen
+- TOP 2.2.18.: Kein Bau der geplante Lichtzeichenanlage Pippinger Straße / Dorfstraße
+- TOP 2.2.19.: Öffentlicher Nahverkehr im Stadtbezirk 21, Ausbau von Carsharing-Angeboten
+- TOP 2.2.20.: Grünfläche am Ende der Freseniusstraße, hier: Laubbäume und Blühwiesensamen
+- TOP 2.2.21.: Zustand eines Grundstücks in der Döbereinerstraße
+- TOP 2.2.22.: Evaluation verkehrslenkender Maßnahmen Offenbach- / Meyerbeerstraße
+- TOP 2.2.23.: Lkw-Durchfahrtsverbot Offenbach- / Meyerbeerstraße
+- TOP 2.2.24.: Radwegmarkierung an der Kreuzung Bäcker- / Landsberger Straße
+- TOP 2.2.25.: Verbot von Laubbläsern
+- TOP 5.1.1.: Anwesen in der Melßheimerstraße
+- TOP 9.1.: (E) Stadtbezirksbudget Fabi, Paritätische Familienbildungsstätte München e.V. 70-Jahr-Feier am 18.10.2019 4.120,07 € / Az. 0262.0-21-0218 (Vertagung aus der BA-Sitzung am 01.10.199
+- TOP 9.2.: (E) Stadtbezirksbudget Musikforum Blutenburg e.V. Martinimarkt am 09./10.11.2019 1.390,00€, Az. 0262.0-21-0225
+- TOP 9.3.: (E) Stadtbezirksbudget Turn- und Sportclub Obermenzing e.V. Anschaffung von Volleybällen 1.552,50 Euro, Az.: 0262.0-21-0226
+- TOP 9.4.: (E) Stadtbezirksbudget Initiative “Tanz-/ Kunstprojekt“ Tanz-/Kunstobjekt vom 14.11. - 21.12.2019 200,- €, Az.0262.0-21-0228
+- TOP 9.5.: (E) Stadtbezirksbudget Arbeitsgemeinschaft Pasinger Vereine (ARGE) Pasinger Faschingstreiben am 23.02.2020 5.505,- €, Az. 0262.0-21-0229
+- TOP 9.6.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 21 Pasing-Obermenzing Widmung von Teilstrecken des Angela-von-den-Driesch-Weges
+- TOP 9.7.: (E) Stadtbezirksbudget Aktives Pasing e.V. Ambientebeleuchtung Pasing von August 2019 – Dezember 2020 7.916,28 €, Az. 0262.0-21-0230
+- TOP 10.1.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Nahverkehrsplan der Landeshauptstadt München (Vertagung aus der BA-Sitzung am 01.10.19)
+- TOP 10.2.: Aubinger Str. 12: Nutzungsänderung: Gaststätte zu Gaststätte mit regelmäßigen Musikveranstaltungen (Vertagung aus der BA-Sitzung am 01.10.19)
+- TOP 10.3.: Bodenstedtstr. 62: Neubau eines Einfamilienhauses und eines Stellplatzes
+- TOP 10.4.: Verdistr. 100: Neubau dreier Wohnhäuser mit Tiefgarage
+- TOP 10.5.: Presselweg 4: Neubau eines Einfamilienhauses mit Garage
+- TOP 10.6.: Landsberger Str. 459: Neubau eines Wohngebäudes (30 WE) mit Tiefgarage (Landsberger Str. 459 / Bodenstedtstraße) / Tektur (jetzt 27 statt 30 WE)
+- TOP 10.7.: Lortzingstraße: Neubau einer Wohnanlage (71 WE) mit Tiefgarage (Lortzingstraße / Scapinellistraße)
+- TOP 10.8.: Pläntschweg 72: Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage (6 Stpl.) und eines Einfamilienhauses mit Carport / Vorbescheid
+- TOP 10.9.: Donizettiweg 14: Neubau eines Mehrfamilienhauses (4 WE) mit 2 Doppelparker-Garagen
+- TOP 10.10.: Bosettistr. 7: Abbruch des Bestands und Neubau eines Wohngebäudes mit mehreren Wohneinheiten und Tiefgarage
+- TOP 10.11.: Pfeivestlstr. 43: Umbau eines Einfamilienhauses in ein Doppelhaus / DHH 1 + 2
+- TOP 10.12.: Betzenweg 16: Neubau einer Doppelhaushälfte mit Garage (DHH 1 +2)
+- TOP 10.13.: Schulbauoffensive 2013 - 2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019; Beschlussvorlage für den Bildungsausschuss gemeinsam mit dem Kinder- und Jugendhilfeausschuss und Bauausschuss am 05.11.19
+- TOP 10.14.: Anhörungsrecht auch bei stadtbezirksübergreifenden Maßnahmen des Umweltschutzes, insbesondere der Luftreinhaltung; Änderung der Ziffer 7.1 des Katalogs für das Referat für Gesundheit und Umwelt (Anlage 1 zur BA-Satzung)
+- TOP 10.15.: Zehentstadelweg 6; Künstlerweihnachtsmarkt vom 29.11.-01.12.19
+- TOP 10.16.: Offenbachstr. 29: Neubau eines Doppelhauses / Vorbescheid
+- TOP 10.17.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs, Zweites Maßnahmenbündel; Beschlussvorlage für die Vollversammlung am 23.10.19
+- TOP 10.18.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 10.19.: Errichtung eines Actionsportzentrums an der Erna-Eckstein-Straße; Beschlussvorlage für den Sportausschuss am 06.11.19
+- TOP 11.1.: CSU, Antrag: Marodes Gelände an der Würm
+- TOP 11.2.: CSU, Antrag: Neuordnung Kreuzung Haberland- / Lortzing- / Emil-Neuburger-Straße
+- TOP 11.3.: SPD, Antrag: Mobilitätsstation im Wohngebiet Lipperheide
+- TOP 11.4.: SPD, Antrag: Errichtung einer Photovoltaikanlage auf den Dächern des staatlichen Max-Planck-Gymnasiums
+- TOP 11.5.: SPD, Antrag: Einrichtung einer Photovoltaikanlage auf dem Dach des Westbads
+- TOP 11.6.: SPD, Antrag: Photovoltaikanlage für die Lärmschutzwand entlang der Josef-Felder-Straße
+- TOP 11.7.: SPD, Antrag: Einrichtung von Photovoltaikanlagen auf den Flachdächern des Neubaugebiets Paul-Gerhard-Allee
+- TOP 11.8.: SPD, Antrag: Bau-, Baumbestands- und Freiflächengestaltungspläne in Alfresco verfügbar machen
+- TOP 11.9.: SPD, Antrag: Zebrastreifen über die Paul-Gerhardt-Allee zwischen Peter-Anders-Straße und Kaspar-Kerll-Straße
+- TOP 11.10.: SPD, Antrag: Anbringung des Stadtwappens am Rathausbalkon
+- TOP 11.11.: SPD, Anfrage: Ergebnis der Verkaufsverhandlungen der Fläche der Haltestelle Buslinie 56 am Pasinger Bahnhof
+- TOP 11.12.: Bündnis 90 / Die Grünen, Antrag: Aufwertung der Grünanlage zwischen Strindbergstraße und Anton-Pichler-Straße in Pasing als kleinen Spielplatz
+- TOP 11.13.: Bündnis 90 / Die Grünen, Antrag: Grundreinigung des Robert-Stolz-Denkmals in Pasing
+- TOP 11.14.: Bündnis 90 / Die Grünen, Antrag: Baumpflege für eine verbesserte Wegbeleuchtung zur MVV Bushaltestelle Perlschneiderstraße, Buslinie 56
+- TOP 11.15.: Bündnis 90 / Die Grünen, Antrag: Errichtung eines offenen Jugendtreffs in einem Bauwagen in Pasing
+- TOP 11.16.: FW / ÖDP, Antrag: S-Bahnhof Obermenzing, undichtes Bahnsteigdach (Südbereich)
+- TOP 12.1.: Unveränderte Fortführung von Gaststättenbetrieben - "Peter Pane Burgergrill & Bar", Kaflerstr. 2 - "Fisch und Feines", Menzinger Str. 93
+- TOP 13.1.: Vollversammlung vom 26.06.19: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 13.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 25.09.19: (U) Vergabeermächtigung Aktualisierung naturschutzrelevanter Daten Gutachten "Flächenkulisse Biodiversität"
+- TOP 13.4.: Ausschuss für Stadtplanung und Bauordnung vom 25.09.19: (E) + (U) Bebauung auf der Pippinger Flur (Lipperheidestraße) Empfehlung Nr. 14-20 / E 02533 der Bürgerversammlung des Stadtbezirks 21 - Pasing-Obermenzing am 26.03.2019 Stadtbezirk 21 - Pasing-Obermenzing
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung vom 25.09.19: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 13.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.8.: Ausschuss für Stadtplanung und Bauordnung vom 25.09.19: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 13.9.: Sozialausschuss vom 26.09.19: (U) Verlagerung desAlten- und Service-Zentrums Pasing im 21. Stadtbezirk in die Bodenseestr. 4a 21. Stadtbezirk Pasing-Obermenzing
+- TOP 13.10.: Vollversammlung vom 02.10.19: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 13.11.: Vollversammlung vom 02.10.19: (U) Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2020 bis 2026
+- TOP 13.12.: Bauausschuss vom 08.10.19: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 13.13.: Ausschuss für Stadtplanung und Bauordnung vom 09.10.19: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 13.14.: Ausschuss für Stadtplanung und Bauordnung vom 09.10.19: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 13.15.: Ausschuss für Stadtplanung und Bauordnung vom 09.10.19: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 13.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.17.: Ausschuss für Stadtplanung und Bauordnung vom 09.10.19: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 13.18.: Ausschuss für Stadtplanung und Bauordnung vom 16.10.19: (U) 46. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2019
+- TOP 13.19.: Ausschuss für Stadtplanung und Bauordnung vom 16.10.19: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP 13.20.: Ausschuss für Stadtplanung und Bauordnung vom 16.10.19: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP 13.21.: Ausschuss für Stadtplanung und Bauordnung vom 16.10.19: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP 13.22.: Ausschuss für Stadtplanung und Bauordnung vom 16.10.19: (U) Einhausung der A96 im Stadtgebiet der Landeshauptstadt München - Sachstand und Empfehlungen - Machbarkeitsstudie zur Einhausung der A96 unverzüglich dem Stadtrat zur Entscheidung vorlegen Empfehlung Nr. 14-20 / E 01729 14351der Bürgerversammlung des Stadtbezirkes 07 - Sendling-Westpark am 10.10.2017 A96; Machbarkeitsanalyse zur Einhausung (Ziffer 1 des Antrages) Empfehlung Nr. 14-20 / E 01738 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 17.10.2017
+- TOP 13.23.: Ausschuss für Stadtplanung und Bauordnung vom 16.10.19: (U) Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation Empfehlung Nr. 14-20 / E 02501 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln am 19.03.2019
+- TOP 1.1.: Budget des BA 21, Verwendungsnachweise - Zitherorchester München-Pasing e.V. für Festakt 110 Jahre Zitherorchester München-Pasing - Kindergarten der Himmelfahrtskirche Pasing für Gartengestaltung - REGSAM für Nachbarschaftsfest am 03.07.19 - SV Waldeck Obermenzing e.V. für Anschaffung von 2 Großfeldtoren
+- TOP 1.2.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 - 2026
+- TOP 1.3.: Budget des BA 21; Zuschussantrag Kulturforum München-West e.V. für die Ausstellung "Revolution und Räte-Republik in Pasing 1918/1919"
+- TOP 1.4.: Stadtbezirksbudget; Grafikdateien für Logos
+- TOP 1.5.: Lichtinstallation im Pasinger Zentrum; Abstimmung zum weiteren Vorgehen bzgl. von Zuständigkeiten zur möglichen Umsetzung
+- TOP 2.1.: Vorschlag zum Stadtbezirksbudget: Einrichtung einer Fitness-Anlage (Fit 4 Circle)
+- TOP 2.2.: Mühlerweg zwischen Kunzweg und Maria-Eich-Straße; Sanierung der Fahrbahn
+- TOP 2.3.: Widweg und Durasweg; Sanierung der Fahrbahn
+- TOP 2.4.: Farbliche Bemalung der Straßenbrücke Josef-Felder-Straße (Nordumgehung Pasing) über Offenbachstraße, hier: Klärung des Sachverhalts bezüglich einer Freigabe von Bauwerksflächen für Farbgestaltung
+- TOP 2.5.: Fahrradfreundliches Pasing I (Antrag Nr. 14-20 / B 06161 vom 07.05.19)
+- TOP 2.6.: Schaltkasten des Baureferates - Künstlerische Gestaltung der Netztrafostation Alte Allee
+- TOP 2.7.: Fußgängerweg Paganinistraße zum Durchblick
+- TOP 2.8.: Vorschlag zum Stadtbezirksbudget: Einrichtung einer Kneippanlage im Durchblickpark
+- TOP 2.9.: Bauprogramm Barrierefreie Querungen im Fuß- und Radverkehr
+- TOP 3.1.: Pasinger Bahnhof (Nordseite) - Fuß- und Radwegtunnel (Ausgangsbereich), Änderung der Führung des Fuß- und Radverkehrs; verkehrsrechtliche Anordnung
+- TOP 3.2.: Ausweisung der Josef-Retzer-Straße und Silberdistelstraße zwischen Bäckerstraße und dem Beginn des für den Kraftfahrzeugverkehr gesperrten Bereichs der Silberdistelstraße zur Fahrradstraße sowie Errichtung eines absoluten Haltverbots vor Josef-Retzer-Str. 17; verkehrsrechtliche Anordnung
+- TOP 3.3.: Versammlungsanzeigen - 26.10.19, Pasinger Bahnhofsvorplatz - 02.11.19, Pasinger Bahnhofsvorplatz
+- TOP 3.4.: Neue Straßenführung Verdi- / Wöhlerstraße
+- TOP 3.5.: Videoüberwachung Unterführung Offenbachstraße
+- TOP 3.6.: Mehrjahresinvestitonsprogramm 2019-2023; Lichtsignalanlagen Pippinger - / Dorfstraße und Amalienburgstraße auf Höhe Hausnr. 39
+- TOP 4.1.: Vollzug der Baumschutzverordnung - Betschartstr. 18 - Edmund-Husserl-Str. 16 - Thuillestr. 31 a - Villacher Str. 21
+- TOP 4.2.: Hildachstraße; Ungenehmigte Lagernutzung im Außenbereich
+- TOP 4.3.: Standortbegehung Ladesäulen am 10.10.19 - Protokoll
+- TOP 4.4.: Weinbergerstraße, Verkehrssituation
+- TOP 4.5.: Fortführung Stadtteilmanagement Pasing
+- TOP 4.6.: Bebauung Gottfried-Keller-Straße
+- TOP 4.7.: Standortbegehnung Elektroladesäulen am 06.08.19
+- TOP 5.1.: Wartehalle für die Bushaltestelle am Campingplatz Obermenzing
+- TOP 5.2.: Bushaltestelle Schmaedelstraße der Buslinie 162 in Richtung Eichelhäherstraße; Neuaufstellung von Sitzubänken
+- TOP 5.3.: Stadtbuslinie 161, Umstellung auf E-Busse und Bushaltestellensituierung
+- TOP 5.4.: Baumaßnahmen der Stadtwerke München - Mehrspartenprojekt Karl-Mangold-Straße - Trinkwasserprojekt Balticusstraße
+- TOP 5.5.: Verlegung der Haltestelle "Am Knie" der Stadtbus-Linie 130 Richtung Harras
+- TOP 6.1.: Veranstaltung eines Kunstfestivals im Stadtbezirk 21
+- TOP 6.2.: Stadtteilwoche Allach-Menzing-Pasing im Jahr 2020; Vorbereitungstreffen am 21.11.19 und 28.01.20
+- TOP 7.1.: Dienststellenverständigung; Haus für Kinder, Berduxstr. 11
+- TOP 7.2.: Dienststellenverständigung; Haus für Kinder, Josef-Felder-Str. 43a
+- TOP 7.3.: Dienststellenverständigung; Haus für Kinder, Josef-Felder-Str. 43b
+- TOP 8.1.: Abfahrtszeitanzeiger im Wolkentunnel am Pasinger Bahnhof
+- TOP 9.1.: Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2018
+- TOP 14.2.1.: Antrag BA 12 Schwabing-Freimann: zunehmende "Verparkung" von Gehwegen und Platzflächen
+- TOP 14.2.2.: Internationale Jugendbibliothek: Dank für Förderung des Jubiläums
+- TOP 14.2.3.: Pfarrverband Menzing: Zuwendung aus dem Stadtbezirksbudget für - Konzert Haydn am 20.07.19 - Erwerb mobiler Lautsprecheranlage für St. Leonhard
+- TOP 15.1.: Nächste BA-Sitzungen: - 03.12.19, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Str. 486 - 14.01.20, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Str. 486
