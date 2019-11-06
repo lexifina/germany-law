@@ -1,0 +1,8 @@
+# TOP 5: Vorhabenbezogener Bebauungsplan Nr. 6042, Dresden-Strehlen, Wohnbebauung Hermannstraße
+
+- Sitzung: 3. Sitzung des Ausschusses für Stadtentwicklung, Bau, Verkehr und Liegenschaften (2019-11-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/123194
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/37850
