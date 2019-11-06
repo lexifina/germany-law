@@ -1,0 +1,55 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2019-11-06T15:00:00+01:00
+- Ende: 2019-11-06T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUNqSo0ePJjFtG8z_AzCWRw
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/563
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZvcwwwKhmXDLRhw2VqG47wSVl3kkTNmDKvlfTpnKkji/Einladung_Seniorenbeirat_06.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYDawRlYbEYKjVSfiOGpzp83CfyMIKfWvH2Kvp8AAOPg/Oeffentliche_Niederschrift_Seniorenbeirat_06.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 9.1: Mündlicher Bericht der Wohnberatungsstelle des Diakonischen Werkes Bochum e.V.
+- TOP 9.2: Mündlicher Bericht der Firma Pflegix
+- TOP 9.3: Mündlicher Bericht der Firma PiCNIC
+- TOP 9.4: Sachstand Urban Green - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.5: Sachstand 1.000 Bänke-Programm - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.6: Sachstand 1.000 Bänke Programm - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.7: Überfüllte Fahrradständer vor der Post- und Postbankfiliale - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.8: Reduzierung der Wahllokale - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.9: Infrastrukturelle Unterversorgung einiger Stadtteile / Stadtteilzentren - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.10: Friedhofsmobil Freigrafendamm - Die Antwort der Verwaltung wird zur Kenntnis genommen.                                              
+- TOP 9.11: Berichte aus den Gremien
+- TOP 10: Anfragen
+- TOP 10.1: Stolpergefahr durch Baumwurzeln auf dem Husemannplatz - Anfrage des Seniorenbeirats
+- TOP 10.2: Friedhofsmobil Freigrafendamm, hier: Personal - Anfrage des Seniorenbeirates
+- TOP 10.3: Sachstand 1.000 Bänke-Programm - Anfrage des Seniorenbeirates
+- TOP 10.4: Hausbesuche für Senioren ab 75 Jahren - Anfrage des Seniorenbeirates
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Vorberatung für Gremien
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Anregungen und Empfehlungen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Stellungnahmen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Mitteilungen
+- TOP 10: keine Tagesordnungspunkte
+- TOP 11: Anfragen
+- TOP 11.1: keine Tagesordnungspunkte
