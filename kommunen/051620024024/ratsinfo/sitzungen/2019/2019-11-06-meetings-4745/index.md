@@ -1,0 +1,52 @@
+# Ausschuss für Umwelt und Grünflächen
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-11-06T17:00:00+01:00
+- Ende: 2019-11-06T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/13
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4745
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4745
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 3: Wirtschaftsplan 2020 für die die Städtischen Friedhöfe Neuss
+- TOP 4: Friedhofssatzung der Stadt Neuss
+- TOP 5: EU-Wasserrahmenrichtlinie - Umsetzung von Maßnahmen an der Obererft
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP 6: Beratung des Haushaltsplanentwurfs 2020
+- TOP 6.1: Antrag der SPD-Fraktion betr. Stärkung des „Jröne Meerke“ als Naherholungsgebiet
+- TOP -: Mitteilungen der Verwaltung
+- TOP 7: Quartalsbericht der Städtischen Friedhöfe Neuss (SFN) zum 30.09.2019
+- TOP 8: Umsetzung der Ergebnisse aus dem GPA-Bericht / Grünflächenkataster
+- TOP 9: Beitritt zum Klima-Bündnis mit indigenen Regenwald-Völkern
+- TOP 10: Beitritt zum Klima-Bündnis mit indigenen Regenwald-Völkern
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP -: Anträge
+- TOP 11: Antrag der Fraktion Die Linke betr. Neuss wird bis 2035 Klimaneutral
+- TOP 12: Antrag der Fraktion Die Linke betr. Regionaler Klimaschutzplan
+- TOP 13: Antrag der Fraktion Die Linke betr. Energiesparberatung einkommensschwacher Haushalte mit Abwrackprämie für Kühlschränke
+- TOP 14: Antrag der Fraktion Die Linke betr. Förderung der Begrünung von Vorgärten
+- TOP 15: Antrag der Fraktion Die Linke betr. "Tag der offenen Baustelle" initiieren
+- TOP 16: Antrag der Fraktion Die Linke betr. Beim "Klimacafe" über kommunale Klimaschutzmaßnahmen diskutieren
+- TOP 17: Antrag der Fraktion Die LINKE betr. Sachstand Geothermie
+- TOP 18: Antrag der Fraktion Die LINKE betr. Klimanotstand vermeiden
+- TOP 19: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Regelmäßigen Energiebericht erstellen
+- TOP 20: Antrag der Fraktionen von CDU/Bündnis 90/Die Grünen betr. Aboretum modernisieren
+- TOP 21: Antrag der Fraktion Die Linke betr. Ausübung der RWE-Aktionärsrechte
+- TOP 22: Antrag der Fraktion Die Linke betr. 100 Prozent Grüner Strom von den Stadtwerken Neuss
+- TOP 23: Antrag der Fraktion Die Linke betr. Hauseigentümer aktiv für Solaranlagen motivieren
+- TOP 24: Antrag der Fraktion Die Linke betr. Förderung des schienengebundenen Güterverkehrs
+- TOP 25: Antrag der Fraktion Die Linke betr. Klimaneutrales Bauen
+- TOP 26: Antrag der Fraktion Die Linke betr. Masterplan "Verkehrswende"
+- TOP 27: Antrag der Fraktionen CDU- und Bündnis 90/Die Grünen betr. "Woche der Mobilität" 2020 in Neuss durchführen
+- TOP 28: Antrag der Fraktion Die Linke betr. Klimaneutralität städtischer Gebäude
+- TOP -: Anfragen
+- TOP 29: Beitrag von Vorgärten zum Arten- und Klimaschutz sowie zur Stadtgestaltung
+- TOP 30: Bericht 18. Sitzung Beirat Innenstadtstärkungsprogramm
