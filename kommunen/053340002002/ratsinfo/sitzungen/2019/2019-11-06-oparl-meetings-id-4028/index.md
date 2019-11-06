@@ -1,0 +1,53 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2019-11-06T17:00:00+01:00
+- Ende: 2019-11-06T19:40:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=4028
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=4028
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt hingewiesen.
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 09.10.2019 (öffentlicher Teil)
+- TOP 4: Bürgerbegehren "Radentscheid Aachen"hier: Zulässigkeit und Entscheidung in der Sache - geändert beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Standort der nach Brandschutzbedarfsplan erforderlichen weiteren Feuer- und Rettungswache im süd-westlichen Stadtgebiet - ungeändert beschlossen
+- TOP 7: Veränderung des Stellenplans durch Einrichtung von fünf befristeten Stellen im Fachbereich Stadtentwicklung und Verkehrsanlagen sowie einer befristeten Stelle im Bereich Bauverwaltung für das Projekt „Aachen MooVe! - Modellstadt Emission ohne Verkehr“ im Programm Kommunaler Klimaschutz - ungeändert beschlossen
+- TOP 8: Veränderung des Stellenplans durch Einrichtung von drei Stellen im Fachbereich Umwelt in Folge des vom Rat der Stadt Aachen beschlossenen Klimanotstands - ungeändert beschlossen
+- TOP 9: 1. Änderungssatzung zur Satzung der Stadt Aachen über die Erhebung von Beiträgen nach § 8 KAG NW vom 11.12.2015sowieSachstand zur Gesetzesinitiative zur Modernisierung des KAG in Bezug auf Straßenausbaubeiträge - vertagt
+- TOP 10: Beschluss über eine Veränderungssperre im Bereich des Aufstellungsbeschlusses A 285 - Jülicher Straße / Bahntrasse Nord - - ungeändert beschlossen
+- TOP 11: Geprüfter Jahresabschluss 2017/2018 von Stadttheater und Musikdirektion Aachen per 31.07.2018 - ungeändert beschlossen
+- TOP 12: Zweckverband Region Aachen – Haushaltssatzung für 2020 - ungeändert beschlossen
+- TOP 13: Anfragen:
+- TOP 13.1: Ratsanfragen - ungeändert beschlossen
+- TOP 13.2: Stellungnahmen der Verwaltung zu Ratsanfragen - ungeändert beschlossen
+- TOP 14: Ratsanträge - ungeändert beschlossen
+- TOP 15: Umbesetzung in Ausschüssen und anderen Gremien
+- TOP 15.1: Wahl von städtischen Vertretern in Gesellschaften, Verbänden und sonstigen Organisationen; hier: Aufsichtsrat der Aachener Straßenbahn- und Energieversorgungs-Aktiengesellschaft (ASEAG) - ungeändert beschlossen
+- TOP 15.2: Wahl von städtischen Vertretern in Gesellschaften, Verbänden und sonstigen Organisationen; hier: Neubesetzung im Aufsichtsrat der Energie- und Verkehrsgesellschaft Aachen GmbH (E.V.A.) gem. § 113 GO NRW in Verbindung mit § 8 des Gesellschaftsvertrags (GV) der E.V.A. - ungeändert beschlossen
+- TOP 15.3: Entsendung in die Verbandsversammlung des Aachener Verkehrsverbundes AVV und in den Aufsichtsrat der AVV GmbH - ungeändert beschlossen
+- TOP 15.4: Entsendung in die Verbandsversammlung des NVR und seiner Ausschüsse - ungeändert beschlossen
+- TOP 15.5: Umbesetzungsantrag der SPD-Fraktion vom 05.11.2019 - ungeändert beschlossen
+- TOP 15.6: Umbesetzungsantrag der Fraktion DIE LINKE vom 05.11.2019 - ungeändert beschlossen
+- TOP 16: Mitteilungen der Verwaltung
+- TOP 17: Revitalisierung Neues Kurhaus,hier: Bestätigung der Kosten durch Vorlage Kostenberechnung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
+- TOP 9: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 9.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 10: nicht öffentlicher Tagesordnungspunkt
+- TOP 11: nicht öffentlicher Tagesordnungspunkt
