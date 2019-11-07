@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-07T17:00:00+01:00
+- Ende: 2019-11-07T19:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18737
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18737
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO 07.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362247.pdf
+- Ergebnisprotokoll: NachtragsTO 07.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362247.pdf
+- Wortprotokoll: NachtragsTO 07.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362247.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Bebauungsplanverfahren Nr. 08/007 - Breidenplatz - vertagt
+- TOP 5: B-Plan-Verfahren Nr. 08/002 Nördlich Gerresheimer Landstraße - Empfehlung mehrheitlich beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Ausweichverkehr Stadtbezirk 8 (Anfrage Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 13: Spielhöfe im Stadtbezirk 8 (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 14: Kolumbarium Friedhof Eller und Friedhof Unterbach (Anfrage CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 15: Gewässer im Stadtbezirk 8 (Anfrage CDU-Fraktion, Fraktion Bündnis 90/Die Grünen) - beantwortet
+- TOP 16: Bingener Weg (Anfrage der SPD-Fraktion) - beantwortet
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Defibrillator (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 19: Parken/Halten im Stadtbezirk 8 (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 20: Verbindungsweg Am Schwalbenberg/Gerresheimer Landstraße (Antrag CDU-Fraktion und Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 21: Verkehrssicherheit Klein-Eller/Weinheimer Straße/Annweiler Straße (Antrag CDU-Fraktion und Fraktion Bündnis 90/Die Grünen) - einstimmig beschlossen
+- TOP 22: Erfurter Weg (Antrag SPD-Fraktion) - einstimmig beschlossen
+- TOP 23: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 24: Ortsumgehung Oberbilk Sachstandsbericht - zur Kenntnis genommen
+- TOP 25: Haltestellengeschichten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 26: Reichenbacher Weg - zur Kenntnis genommen
+- TOP 27: Verkehrsregelung Tichauer Weg - zur Kenntnis genommen
+- TOP 28: Kleingartenanlage Vennhauser Allee - Bänke - zur Kenntnis genommen
+- TOP 29: Gerresheimer Landstraße - Tempo 30 - zur Kenntnis genommen
+- TOP 30: Schützenplatz Sturmstraße/Sodener Weg - zur Kenntnis genommen
+- TOP 31: Gumbertstraße 145-147 - Fahrradabstellbügel - zur Kenntnis genommen
+- TOP 32: Gertrudisplatz - Befahren des südöstlichen Bereiches - zur Kenntnis genommen
+- TOP 33: Umzug des Amtes für Migration und Integration - zur Kenntnis genommen
+- TOP 34: Erlenkamp - Instandsetzung Bürgersteig - zur Kenntnis genommen
+- TOP 35: Untersuchung des Unterbacher Sees auf multiresistente Keime - zur Kenntnis genommen
+- TOP 36: Beflaggung Rathaus Eller - zur Kenntnis genommen
+- TOP 37: Breidenplatz-Sitzbänke - zur Kenntnis genommen
+- TOP 38: Robertstraße 2 - Aufstellen einer Bank - zur Kenntnis genommen
+- TOP 39: Hitze- und Dürreschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Spielhöfe im Stadtbezirk 8 - zur Kenntnis genommen
