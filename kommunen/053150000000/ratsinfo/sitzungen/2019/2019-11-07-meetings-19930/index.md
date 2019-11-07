@@ -1,0 +1,108 @@
+# 54. Sitzung des Rates
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-07T14:42:00+01:00
+- Ende: 2019-11-07T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/1
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/19930
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/19930
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung Rat - Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00741327.pdf
+- Ergebnisprotokoll: Tagesordnung Rat - Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00741327.pdf
+- Wortprotokoll: Tagesordnung Rat - Version Umdruck https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00741327.pdf
+
+## Tagesordnung
+
+- TOP 1: Anträge auf Durchführung einer aktuellen Stunde gemäß § 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Annahme von Schenkungen / Vermächtnissen / Erbschaften
+- TOP 2.1: Annahme einer Schenkung für das Museum Ludwig, Annahme des Werkes von Mollusca & The Pelvic Floor, 2018, von Trisha Baga - ungeändert beschlossen
+- TOP 3: Anträge des Rates / Vorschläge und Anregungen der Bezirksvertretungen
+- TOP 3.1: Anträge gemäß § 3 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1.1: Antrag der Fraktionen CDU und Bündnis 90/Die Grünen betr. "Organisatorischer Wechsel des Amtes 23 und Änderung der Ordnungsnummer Dez. VIII zu Dezernat III" - geändert beschlossen
+- TOP 3.1.2: Antrag der Fraktionen SPD, Die Linke. und der Gruppe BUNT betr. "Frischezentrum in Marsdorf realisieren!" - Übergang zum nächsten Tagesordnungspunkt
+- TOP -: Änderungsantrag von RM Wortmann - Übergang zum nächsten Tagesordnungspunkt
+- TOP 3.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.4: Antrag der Gruppe GUT betreffend "Gutachten Aufarbeitung "Messeskandal" veröffentlichen - endgültig zurückgezogen
+- TOP 3.1.5: Antrag der SPD-Fraktion betreffend "Sicherheit im Bezirk stärken - Veedelsschutzmann erhalten" , (Dringlichkeitsantrag aus der Sitzung des Rates vom 26.09.2019) - endgültig abgelehnt
+- TOP 3.1.6: Antrag der SPD-Fraktion betreffend "Wohnen.Bezahlbar.Machen: Wohnungen über Lebensmittelmärkten bauen - Ausnahmeregelung jetzt beschließen!" - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.1.7: Dringlichkeitsantrag der FDP-Fraktion betreffend "Abschaltung der Pförtnerampel" - endgültig abgelehnt
+- TOP 3.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.9: Dringlichkeitsantrag von SPD, CDU, Bündnis 90/Die Grünen, Die Linke., FDP, der Gruppe GUT und RM Wortmann (FWK) "Wissenschaftliche Aufarbeitung der Vergabe zum Bau der Messehallen Nord sowie der Firmenansiedlungen in den "alten Messehallen"" - ungeändert beschlossen
+- TOP 3.1.10: Antrag der AfD-Fraktion betreffend "Kliniken der Stadt Köln rasch sanieren – neue Nutzung für den Standort Holweide" (ursprünglich TOP 21.1 n.ö.T.) - Übergang zum nächsten Tagesordnungspunkt
+- TOP 3.2: Vorschläge und Anregungen der Bezirksvertretungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.2.1: Anregung der Bezirksvertretung Kalk zur Einführung eines Kurzstreckentickets zum Nulltarif im Stadtbezirk Kalk - verwiesen in nachfolgende Gremien (ohne Rücklauf)
+- TOP 3.2.2: Kliniken der Stadt Köln gGmbH: Antrag der Bezirksvertretung Kalk vom 10.10.2019 (ursprünglich TOP 21.2. n.ö.T.) - ungeändert beschlossen
+- TOP 4: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 4.1: Anfrage der AfD-Fraktion betreffend "Nutzung der Dienstwagen" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 07.11.2019 - Kenntnis genommen
+- TOP 4.2: Anfrage der AfD-Fraktion betreffend "Reisen der Oberbürgermeisterin und der Dezernate" - Sache ist erledigt
+- TOP -: Antwort der Verwaltung vom 07.11.2019 - Kenntnis genommen
+- TOP 5: Einwohner, Einwohnerinnen, Bürger und Bürgerinnen
+- TOP 5.1: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.2: Einwohnerantrag gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.3: Bürgerbegehren und Bürgerentscheid gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5.4.1: Zahlung von Sitzungsgeld für Mitglieder des Integrationsrates bei Teilnahme an den Arbeitskreisen – Änderung der Hauptsatzung - geändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzungen
+- TOP 6.1.1: Anpassung der Zuständigkeitsordnung - zurückgestellt
+- TOP 6.1.2: Einsatz des Instruments der Sozialen Erhaltungssatzung Maßnahme aus dem Stadtentwicklungskonzept Wohnen (StEK Wohnen) Hier: Beschluss über die Soziale Erhaltungssatzung gemäß § 172 Abs. 1 Satz 1 Nr. 2 Baugesetzbuch für das Severinsviertel in der Köl - zurückgestellt
+- TOP 6.2: Gebühren-, Entgeltordnungen und ähnliches
+- TOP 6.2.1: Stadtentwässerungsbetriebe Köln (StEB), AöR: Abwassergebührensatzung 2020 - ungeändert beschlossen
+- TOP 6.2.2: Satzung der Stadt Köln zur Erhebung von Verwaltungsgebühren für die Kontrolle von Einfuhren von tierischen Produkten jeder Art aus nicht EU-Ländern nach EU-Recht - ungeändert beschlossen
+- TOP 6.3: Ordnungsbehördliche Verordnungen
+- TOP 6.4: Sonstige städtische Regelungen
+- TOP 7: Haushaltsrechtliche Unterrichtung des Rates
+- TOP 7.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen,-auszahlungen und -verpflichtungen gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW
+- TOP 7.1.1: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen und -verpflichtungen für das Hj. 2019 gem. § 83 Abs. 1 und § 85 Abs. 1 GO NRW i. V. m. der Haushaltssatzung 2019 - Kenntnis genommen
+- TOP 7.2: Unterrichtung des Rates über Kostenerhöhung nach § 25 Abs. 2 KommHVO
+- TOP 7.2.1: Umgestaltung des Knotenpunktes Aachener Straße / Hültzstraße / Stadtwaldgürtel - Kenntnis genommen
+- TOP 8: Überplanmäßige Aufwendungen
+- TOP 8.1: Überplanmäßige Aufwendungen im Teilplan 0106 - Zentrale Dienstleistungen - für das Haushaltsjahr 2019 - ungeändert beschlossen
+- TOP 9: Außerplanmäßige Aufwendungen
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Freigabe- und Baubeschluss der Maßnahme "Ein Platz an der Herler Straße"; aus dem Programm "Starke Veedel - Starkes Köln" (Einzelmaßnahme 2.5.5.) - zurückgestellt
+- TOP 10.2: Teilnahme an der Landesinitiative „Gemeinsam klappt´s“; hier: Förderprojekt KOKIP (Kooperation zur Klärung rechtskreisübergreifender Integrationsprozesse) - Teilhabemanagement für geflüchtete Menschen in Köln - ungeändert beschlossen
+- TOP 10.3: Ombudsstelle für Geflüchtete - Verlängerung der Befristung und Reduzierung des Zuschusses - ungeändert beschlossen
+- TOP 10.4: Schaugewächshaus im Botanischen Garten – Kostenfortschreibungsbeschluss gemäß §13 Abs. 4 Satz 2 der Betriebsatzung der Gebäudewirtschaft in Verbindung mit §16 Abs. 5 Satz 1 der Eigenbetriebsverordnung NRW (EigVO NRW) - ungeändert beschlossen
+- TOP 10.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - zurückgestellt
+- TOP 10.6: Stadtentwässerungsbetriebe Köln, AöR (StEB): Wirtschaftsplan 2020 - ungeändert beschlossen
+- TOP 10.7: Feststellung des Wirtschaftsplans der Beihilfekasse der Stadt Köln für das Wirtschaftsjahr 2020 - ungeändert beschlossen
+- TOP 10.8: Feststellung des Jahresabschlusses und des Lageberichtes der Zusatzversorgungskasse der Stadt Köln 2018 - ungeändert beschlossen
+- TOP 10.9: Feststellung des Wirtschaftsplanes der Zusatzversorgungskasse der Stadt Köln für das Wirtschaftsjahr 2020 - ungeändert beschlossen
+- TOP 10.10: Bericht über die öffentlichen Beteiligungen der Stadt Köln im Haushaltsjahr 2017 - Beteiligungsbericht 2017 - ungeändert beschlossen
+- TOP 10.11: Abschlussbericht „Wie inklusiv ist das Quartier?“ und Kriterienkatalog für barrierefreie und generationengerechte Wohnquartiere - ungeändert beschlossen
+- TOP 10.12: Erstellung eines Neubaus für eine Grundschule mit einer 1-fach Turnhalle in der Gaedestr., Köln-Marienburg - ungeändert beschlossen
+- TOP 10.13: Werkstattverfahren Hallen Kalk Hier: Integrierter Plan als Grundlage der weiteren Bearbeitung - ungeändert beschlossen
+- TOP 10.14: Generalsanierung der Turnhalle der Städtischen Katholischen Grundschule Osterather Straße 13, Köln-Nippes - Bau- und Einrichtungsbeschluss - ungeändert beschlossen
+- TOP 10.15: Severinsbrücke; Bedarfsfeststellungbeschluss zur Durchführung einer Nachrechnung auf Grundlage der "Richtlinie zur Nachrechnung von Straßenbrücken im Bestand" - ungeändert beschlossen
+- TOP 10.16: Verlängerung Auszugsmanagement - ungeändert beschlossen
+- TOP 10.17: Einmalige Zuwendung an die Frauenberatungsstelle von agisra e.V. sowie die haushaltsneutrale Umschichtung von Transferaufwendungen in 2019 - ungeändert beschlossen
+- TOP 10.18: Umgehende strukturelle und finanzielle Weiterentwicklung der vier Sozialpsychiatrischen Zentren (SPZ) der Stadtbezirke Chorweiler, Lindenthal, Porz und Rodenkirchen in Köln - ungeändert beschlossen
+- TOP 10.19: Erneuerung der Mitgliedschaft im internationalen "Rainbow Cities Network" - ungeändert beschlossen
+- TOP 10.20: Mobiles Drogenhilfeangebot in Neumarktnähe - ungeändert beschlossen
+- TOP 10.21: Weiterführung des Projektes „Plan27“ – Zugehende Hilfe für junge Menschen mit psychischen Problemen bis 27 Jahre zur Überleitung ins Regelsystem und Entwicklung einer beruflichen Perspektive - ungeändert beschlossen
+- TOP 10.22: Kliniken der Stadt Köln gGmbH: weiteres Vorgehen im Projekt Klinikverbund (ursprünglich TOP 24.1 n.ö.T.) - geändert beschlossen
+- TOP -: Änderungsantrag der Fraktionen SPD und Die Linke. - endgültig abgelehnt
+- TOP -: Änderungsantrag der Fraktionen CDU, Bündnis 90/Die Grünen und FDP - ungeändert beschlossen
+- TOP 11: Bauleitpläne - Änderung des Flächennutzungsplanes
+- TOP 12: Bauleitpläne - Anregungen / Satzungen
+- TOP 12.1: Satzungsbeschluss betreffend den Bebauungsplan (vorhabenbezogener Bebauungsplan) Nummer 74455/02 Arbeitstitel: Ostmerheimer Straße in Köln Merheim - ungeändert beschlossen
+- TOP 12.2: Innenentwicklung Heidelweg in Köln-Sürth; 71376/03; Satzungsbeschluss - ungeändert beschlossen
+- TOP 13: Bauleitpläne - Aufhebung von Bebauungs- / Durchführungs- / Fluchtlinienplänen
+- TOP 14: Erlass von Veränderungssperren
+- TOP 14.1: Satzung über eine Veränderungssperre für einen Teilbereich der Ortslage in Köln-Porz - Ensen, Arbeitstitel: Kölner Straße / Hauptstraße - zurückgestellt
+- TOP 15: Weitere bauleitplanungsrechtliche Angelegenheiten
+- TOP 16: KAG-Satzungen - Erschließungsbeitragssatzungen
+- TOP 17: Wahlen
+- TOP 17.1: Benennung von Seniorenvertreterinnen und Seniorenvertretern als sachkundige Einwohnerinnen und Einwohner in Ratsausschüssen - ungeändert beschlossen
+- TOP 17.2: Benennung eines Mitglieds der Verwaltung im Ausschuss für anzeigepflichtige Entlassungen - ungeändert beschlossen
+- TOP 17.3: Nachbesetzung Sachkundiger Einwohner für diverse Ausschüsse auf Empfehlung der Stadtarbeitsgemeinschaft Lesben, Schwule und Transgender - ungeändert beschlossen
+- TOP 17.4: Antrag der CDU-Fraktion betreffend "Neuwahl eines Mitgliedes mit beratender Stimme im Bauausschuss" - ungeändert beschlossen
+- TOP 17.5: Antrag der SPD-Fraktion betreffend "Neubesetzung des Jugendhilfeausschusses und des Integrationsrates" - ungeändert beschlossen
+- TOP 17.6: Antrag der CDU-Fraktion betreffend "TOP 17 Wahlen; hier: Neubesetzung Ratsausschüsse, Aufsichtsräte, weitere Gremien" - ungeändert beschlossen
+- TOP 17.7: Antrag der CDU-Fraktion betreffend "TOP 17 Neuwahl eines Mitgliedes mit beratender Stimme im Verkehrsausschuss" - ungeändert beschlossen
+- TOP 18: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 1 Satz 3 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 19: -
