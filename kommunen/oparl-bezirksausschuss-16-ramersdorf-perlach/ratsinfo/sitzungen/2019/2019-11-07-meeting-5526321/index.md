@@ -1,0 +1,177 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2019-11-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5526321
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5526321
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.2: Beschluss über die endgültige Tagesordnung
+- TOP 1.3: Protokoll der vergangenen Sitzung
+- TOP 1.3.1.: Protokolle
+- TOP 1.4: Bericht des BA-Vorsitzenden über aktuelle Vorgänge
+- TOP 1.5: Vertreter/-innen von Behörden und Fachdienststellen sowie weitere Gäste
+- TOP 1.6: Sonstiges
+- TOP 2: Entscheidungsfälle
+- TOP 2.2.2: Weitere Entscheidungen
+- TOP 2.6: Sonstige
+- TOP 3: Anträge
+- TOP 3.6: Sonstige Anträge
+- TOP 4: Anhörungen
+- TOP 4.5.3: Anhörungen zu Änderungen der Geschäftsordnung oder Satzung der Bezirksausschüsse
+- TOP 5: Berichte
+- TOP 5.1: Berichte der Beauftragten des BA 16
+- TOP 5.1.1: Baumschutz
+- TOP 5.1.2: Kinder
+- TOP 5.1.3: Jugend
+- TOP 5.1.4: Senioren/-innen
+- TOP 5.1.5: Gleichstellung
+- TOP 5.1.6: Unterkunftsanlagen und Wohnen/Mieterbeirat
+- TOP 5.1.7: Menschen mit Behinderung
+- TOP 5.1.8: Integration
+- TOP 5.1.9: Gegen Rechtsextremismus
+- TOP 51.10: Internet
+- TOP 5.2: Berichte aus den Unterausschüssen
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.4.2: Weitere Antworten der Verwaltung
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.2.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.2: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.4.1: Aktuelle Bauvorhaben im 16. Stadtbezirk
+- TOP 7.4.2: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung
+- TOP 7.4.3: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 7.5.1: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats
+- TOP 8: Termine und Verschiedenes
+- TOP 8.1: Termine der UA - Sitzungen
+- TOP 2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 8.2: Ankündigungen, Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 1.2.1.: zu 2.5.1 Wildes Grillen und Lärmbelästigung im Ostpark Empfehlung Nr. 14-20 / E 02681 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 27.06.2019 Bitte um verstärkte Kontrollen bei Veranstaltungen und Grillen im Ostpark BA-Antrag Nr. 14-20 / B 06531 Sitzungsvorlage Nr. 14-20 / V 16717 Beschluss des Bezirksausschusses des Stadtbezirkes 16 Ramersdorf-Perlach vom 07.11.2019 Abschlussbericht von AKIM zum Grillen im Ostpark in der Saison 2019 und Stellungnahme des Antragsstellers des BA-Antrags zu dem Abschlussbericht Zuleitung vom 31.10.2019 und 01.11.2019 3.2.4 Dringlichkeitsantrag: Beschleunigte Sanierung für das Eissportzentrum am Ostpark Antrag der CSU Fraktion im BA 16 vom 31.10.2019 3.2.5 Antrag: Problemlösung Eis- und Funsportzentrum Ost Reparatur und Sanierung der Anlage Antrag der SPD Fraktion im BA 16 vom 04.11.2019 3.2.6 Ostpark-Eislaufstadion zügig und zeitgemäß sanieren! Antrag der Bündnis 90/Die Grünen Fraktion im BA 16 vom 05.11.2019
+- TOP 1.2.2.: zu 4.1.2 Neubau eines zweiten U-Bahnbetriebshofes Neuperlach-Süd Planung der Überbauung des künftigen U-Bahnbetriebshofes in den weiteren Planungen und Anlage eines Kreisverkehrs an der Stelle Arnold-Sommerfeld-Straße / Rotkäppchenstraße Sitzungsvorlage Nr. 14-20 / V 16365 Stellungnahme des Bezirksausschusses Frist: 13.11.2019 Zuleitung des Referats für Arbeit und Wirtschaft vom 07.10.2019 (TOP 4.1.4 vom 17.10.2019) Dringlichkeitsantrag zu TOP 4.1.2 U-Bahnabstellanlage in geschlossener Bauweise ausführen Dringlichkeitsantrag der CSU Fraktion im BA 16 vom 03.11.2019 4.4.1.15 Maximilian-Kolbe-Allee 8 – Fl.Nr. 474/0 – TEKTUR + Verlängerung VORBESCHEID Aufstockung eines Gebäudes für 44 Wohnungen Stellungnahme vorab durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung 4.4.1.16 Quiddestraße 45 – Fl.Nr. 1529/37 – VORBESCHEID – Verlängerung Neubau einer Wohnanlage mit Einzelhandelszentrum und TG
+- TOP 1.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Mobilität und Umwelt
+- TOP 2.1.1.: (E) Sicherheit für Fußgänger und Radfahrer in der Görzerstraße durch geeignete Maßnahmen schaffen! (Ziffern 1-4 des Antrages) (TOP 2.1.5 vom 17.10.2019)
+- TOP 2.1.2.: (E) + (U) Geschwindigkeitsbeschränkung Albert-Schweizer-Straße (TOP 2.1.6 vom 17.10.2019)
+- TOP 2.1.3.: (E) Parkverbot für LKW in der Nailastraße
+- TOP 2.1.4.: (E) LKW-Parkverbot am Adolf-Bayer-Damm
+- TOP 2.1.5.: (E) Verbesserung der Sicherheit am Zebrastreifen an der Haltestelle Mitterweg
+- TOP 2.1.6.: (E) Errichtung eines Halteverbots entlang der Carl-Wery-Straße von Otto-Hahn-Ring bis zur Putzbrunnerstraße
+- TOP 2.1.7.: (E) Die Ausführungsplanung der Hochäckerstraße östlich der A 8 ist so zu gestalten, dass beidseitig der Fahrbahn eine Allee ohne wesentliche Lücken entsteht und errichtet werden kann Empfehlung Nr. 14-20 / E 02675 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 27.06.2019
+- TOP 2.2: Budget, Kultur und Sport
+- TOP 2.2.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 Beschlussvorlagen des Direktoriums
+- TOP 2.2.1.1.: (E) Stadtbezirksbudget SVN München e.V. Anschaffung einer mobilen Beschallungsanlage 1.544,96 € / Az. 0262.0-16-0314
+- TOP 2.2.1.2.: (E) Stadtbezirksbudget Nachbarschaftstreff Trambahnhäusl / Verein für Sozialarbeit e.V. Leuchtreklame "Trambahnhäusl" 7.035,28 € / Az. 0262.0-16-0304
+- TOP 2.2.1.3.: (E) Stadtbezirksbudget Elternbeirat der städt. Werner-von-Siemens-Realschule München Mediatorenfahrt vom 06.-08.11.2019 1.092,00 € / Az. 0262.0-16-0313
+- TOP 2.2.1.4.: (E) Stadtbezirksbudget Kath. Kirchenstiftung Christus Erlöser Technische Ausstattung des Pfarrsaals 5.625,40 € / Az. 0262.0-16-0315
+- TOP 2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 2.5.1.: (E) Wildes Grillen und Lärmbelästigung im Ostpark Empfehlung Nr. 14-20 / E 02681 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 27.06.2019 Bitte um verstärkte Kontrollen bei Veranstaltungen und Grillen im Ostpark BA-Antrags-Nr. 14-20 / B 06531 des Bezirksausschusses des Stadtbezirkes 16 Ramersdorf-Perlach vom 04.07.2019
+- TOP 3.1: Mobilität und Umwelt
+- TOP 3.1.1.: Antrag „Hohenaschauerstraße im Bereich der Grünanlage an der Wilramstraße testweise auch weiterhin für den motorisierten Verkehr gesperrt lassen“ Antrag der DaCG/ÖDP Fraktion im BA 16 vom 29.10.2019
+- TOP 3.1.2.: Antrag „Umgehende Ausbesserung und temporäre Beleuchtung der Wegeverbindungen in der Grünanlage an der Wilramstraße“ Antrag der DaCG/ÖDP Fraktion im BA 16 vom 29.10.2019
+- TOP 3.1.3.: Querungshilfe in der Hofangerstraße auf Höhe der Hausnummer 28 zum Ostaprkeingang; Antrag an den Bezirksausschuss 16 Bürgeranliegen vom 09.10.2019
+- TOP 3.1.4.: Verbesserung der Sicherheit für die Markbesucher am Theodor-Heuss-Platz Antrag der CSU Fraktion im BA 16 vom 28.10.2019
+- TOP 3.1.5.: Antrag auf Entsiegelung entlang der Oggersheimer Str. Bürgeranliegen vom 16.10.2019
+- TOP 3.1.6.: Schneeräumung der Fahrradwege im 16. Stadtbezirk Ramersdorf-Perlach Bürgeranliegen vom 21.10.2019
+- TOP 3.1.7.: Anfrage, ob es sich beim Verbindungsweg zwischen Schindlerplatz und Carl-Wery-Straße um einen reinen Fußweg oder einen kombinierten Rad-Fuß-Weg handelt mit der Bitte um eindeutige Kennzeichnung und Erhöhung der Sicherheit für Fußgänger auf dem Verbindungsweg Bürgeranliegen vom 23.10.2019
+- TOP 3.1.8.: Anfrage aktuelle Sachstände zu folgenden BA-Anträgen Antrag der Bündnis 90/Die Grünen Fraktion im BA 16 vom 29.10.2019
+- TOP 3.2: Budget, Kultur und Sport
+- TOP 3.2.1.: Outdoor-Fitnessplätze unter dem Motto "Bewegung für alle in nächster Nähe" Bürgeranliegen vom 06.09.2019 (TOP 3.2.1 vom 17.10.2019)
+- TOP 3.2.2.: SV Stadtwerke unterstützen, Alternativgrundstücke prüfen Antrag der CSU Fraktion im BA 16 vom 27.10.2019
+- TOP 3.2.3.: Antrag: Der BA 16 fordert die LH München und die Stadtwerke München auf, einen Ortstermin auf dem Gelände des Betriebshof an der Ständler Straße zu organisieren. Antrag der Bündnis 90/Die Grünen Fraktion im BA 16 vom 29.10.2019
+- TOP 3.2.4.: Dringlichkeitsantrag: Beschleunigte Sanierung für das Eissportzentrum am Ostpark Antrag der CSU Fraktion im BA 16 vom 31.10.2019
+- TOP 3.2.5.: Antrag: Problemlösung Eis- und Funsportzentrum Ost Reparatur und Sanierung der Anlage Antrag der SPD Fraktion im BA 16 vom 04.11.2019
+- TOP 3.2.6.: Ostpark-Eislaufstadion zügig und zeitgemäß sanieren! Antrag der Bündnis 90/Die Grünen Fraktion im BA 16 vom 05.11.2019
+- TOP 3.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 3.3.1.: Aufstellen eines öffentlichen Bücherschranks am Kustermann-Park Bürgeranliegen vom 26.10.2019
+- TOP 3.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 3.4.1.: Antrag: Strom- und Wasseranschluss im AlexisQuartier (ehemals Piederstorfer Gelände) vor Fertigstellung der Wohnbebauung einplanen und umsetzen. Bürgeranliegen vom 26.10.2019
+- TOP 3.4.2.: Bürgerbeteiligung stärken, Information sichern, Debatte ermöglichen Antrag der CSU Fraktion im BA 16 vom 28.10.2019
+- TOP 3.4.3.: Anfrage zum aktuellen Sachstand der Geothermieanlage am Michaelibad Antrag der CSU Fraktion im BA 16 vom 28.10.2019
+- TOP 3.4.4.: Anregung zur Bebauung der Ottobrunner Str. 102 Bürgeranliegen vom 10.10.2019
+- TOP 3.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 3.5.1.: Online-Kartendienst der Landeshauptstadt München mobiltauglich machen Antrag der CSU Fraktion im BA 16 vom 28.10.2019
+- TOP 4.1: Mobilität und Umwelt
+- TOP 4.1.1.: 4.1.1 Nahverkehrsplan der Landeshauptstadt München 1. Ergebnisse des Teils Qualitätsstandards 2. Grundlagen der Fortschreibung des Infrastrukturteils 3. Sachstand zum Thema Barrierefreiheit im ÖPNV 4. Anträge und Empfehlungen Sitzungsvorlagen Nr. 14-20 / V 15439 Beschluss des Ausschusses für Stadtplanung und Bauordnung (VB) Zuleitung vom 23.09.2019 Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.1.1 vom 17.10.2019) 4.1.2 Neubau eines zweiten U-Bahnbetriebshofes Neuperlach-Süd Planung der Überbauung des künftigen U-Bahnbetriebshofes in den weiteren Planungen und Anlage eines Kreisverkehrs an der Stelle Arnold-Sommerfeld-Straße / Rotkäppchenstraße Sitzungsvorlage Nr. 14-20 / V 16365 Stellungnahme des Bezirksausschusses Frist: 13.11.2019 Zuleitung des Referats für Arbeit und Wirtschaft vom 07.10.2019 (TOP 4.1.4 vom 17.10.2019) Dringlichkeitsantrag zu TOP 4.1.2 U-Bahnabstellanlage in geschlossener Bauweise ausführen Dringlichkeitsantrag der CSU Fraktion im BA 16 vom 03.11.2019 4.1.3 Neubau einer Lichtsignalanlage für den Knotenpunkt Albert-Schweitzer-Straße / Siegfried-Mollier-Straße Zuleitung des Kreisverwaltungsreferats vom 20.09.2019 (TOP 4.1.6 vom 17.10.2019) 4.1.4 Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Karl-Marx-Ring Zuleitung vom 15.10.2019 Frist zur Stellungnahme bis zum 15.11.2019 Stellungnahme vorab durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung
+- TOP 4.2: Budget, Kultur und Sport
+- TOP 4.2.1.: 4.2.1 Neubau eines Kulturhauses am Hanns-Seidel-Platz im Stadtbezirk 16 – Ramersdorf-Perlach Genehmigung des aktualisierten vorläufigen Nutzerbedarfsprogramms Frist: 23.10.2019 Zuleitung des Kulturreferats vom 08.10.2019 Antrag zu TOP 4.2.1.: Neubau eines Kulturhauses am Hanns-Seidel-Platz im Stadtbezirk 16 – Ramersdorf-Perlach Genehmigung des aktualisierten vorläufigen Nutzerbedarfsprogramms Frist: 23.10.2019 Zuleitung des Kulturreferats vom 08.10.2019 Antrag der CSU-Fraktion im BA 16 vom 15.10.2019 zur Behandlung im Unterausschuss Budget, Kultur und Sport, wenn so vom Vollgremium beschlossen Fristverlängerung bis zunächst einschließlich 15.11.2019 mit Schreiben vom 18.10.2019 beantragt (TOP 4.2.1 vom 17.10.2019) 4.2.2 Zuwendung aus dem Stadtbezirksbudget Antrag der Hopsasa gUG vom 14.01.2019 Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder Bitte um Verlängerung des Bewilligungszeitraums bis 01.05.2020 Zuleitung vom 21.10.2019
+- TOP 4.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 4.3.1.: 4.3.1 Schulbauoffensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019 Sitzungsvorlage Nr. 14-20 / V XXXXX Anhörung der Bezirksausschüsse zum Entwurf der Sitzungsvorlage Zuleitung vom 02.10.2019 Antrag zu TOP 4.3.4: Schulbauoffensive 2013-2030 - 3. Schulbauprogramm, Kita-Bauprogramm 2019 Antrag der CSU-Fraktion im BA 16 vom 15.10.2019 zur Behandlung im Unterausschuss Bildung, Gesundheit, Integration und Sport, wenn so vom Vollgremium beschlossen Fristverlängerung bis 31.10.2019, 12:00 Uhr Stellungnahme vorab durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung (TOP 4.3.4 vom 17.10.2019)
+- TOP 4.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 4.4.1: Anhörungen des Bezirksausschusses zu Bauvorhaben im Einzelfall auf Anforderung; Zuleitungen des Referates für Stadtplanung und Bauordnung (Anhörungsfrist 1 Monat ab Eingang)
+- TOP 4.4.1.1.: 4.4.1.1 Leoprechtingstr. 39 - Fl.Nr.: 2225/21 - Neubau eines Mehrfamilienhauses mit Garagen Zuleitung vom 05.09.2019 Erneute Fristverlängerung von der LBK abgelehnt mit der Information, dass die Ablehnung vorgesehen ist Stellungnahme vorab durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung (TOP 4.4.1.2 vom 17.10.2019, TOP 4.4.1.14 vom 12.09.2019) 4.4.1.2 Waldheimpl. 50 - Fl.Nr.: 2200/184 - Neubau eines Wohnhauses (Abbruch Bestand) - VORBESCHEID Zuleitung vom 17.09.2019 Erneute Fristverlängerung von der LBK abgelehnt mit der Information, dass kurzfristig verbeschieden werden soll Stellungnahme vorab durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung (TOP 4.4.1.4 vom 17.10.2019) 4.4.1.3 Hofangerstr. 30 - Fl.Nr.: 1317/126 - Neubau eines Mehrfamilienhauses (9 WE) mit Tiefgarage Zuleitung vom 13.09.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.5 vom 17.10.2019) 4.4.1.4 Heinrich-Wieland-Str. 72 - 76 - Fl.Nr.: 1425/0 - UFW Unterbringung von Flüchtlingen und Wohnungslosen - Errichtung von 6 Wohnheimen für Flüchtlinge und Wohnungslose sowie einer Heizzentrale, befristet auf 10 Jahre (Erweiterung des Bestands von 4 Wohnheimen um 2 zusätzliche Gebäude) Zuleitung vom 17.09.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.12 vom 17.10.2019)
+- TOP 4.4.1.2.: 4.4.1.5 Adolf-Hackenberg-Str. - Fl.Nr.: 977/0 - Neubau einer Wohnanlage mit Mietwohnungen (gefördert nach MMM) Zuleitung vom 20.09.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.13 vom 17.10.2019) 4.4.1.6 Koboldstr. 5; Neubau einer Stadtvilla (3 WE) Zuleitung vom 26.09.2019 Fristverlängerung von der LBK abgelehnt mit der Information, dass die Ablehnung vorgesehen ist Stellungnahme vorab durch den BA-Vorsitzenden nach § 20 Abs. 1 Satz 2 der BA-Satzung (TOP 4.4.1.17 vom 17.10.2019) 4.4.1.7 Balanstr. 77a - Fl.Nr.: 16276/33 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID Zuleitung vom 14.10.2019 Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.12 vom 17.10.2019) 4.4.1.8 Iblherstr. 36 - Fl.Nr.: 294/45 - Neubau dreier verbundener Stadthäuser mit 2 Carports und überdachtem Stellplatz – hier: Haus 1 Zuleitung vom 14.10.2019 Information der LBK: Der Antrag zurückgezogen (TOP 4.4.1.20 vom 17.10.2019) 4.4.1.9 Iblherstr. 36 - Fl.Nr.: 294/45 - Neubau dreier verbundener Stadthäuser mit 2 Carports und überdachtem Stellplatz – hier: Haus 2 Zuleitung vom 14.10.2019 Information der LBK: Der Antrag zurückgezogen (TOP 4.4.1.21 vom 17.10.2019)
+- TOP 4.4.1.3.: 4.4.1.10 Iblherstr. 36 - Fl.Nr.: 294/45 - Neubau dreier verbundener Stadthäuser mit 2 Carports und überdachtem Stellplatz – hier: Haus 3 Zuleitung vom 14.10.2019 Information der LBK: Der Antrag zurückgezogen (TOP 4.4.1.22 vom 17.10.2019) 4.4.1.11 Ramersdorfer Str. 7 - Fl.Nr.: 18410/0 - TEKTUR zu 1.2-2019-7319-31 - Nachverdichtung eines Wohn- und Geschäftshauses Zuleitung vom 14.10.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.23 vom 17.10.2019) 4.4.1.12 Werinherstr. 111 - Fl.Nr.: 15671/55 - Sanierung Vordergbäude und Neubau Rückgebäude Zuleitung vom 14.10.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.24 vom 17.10.2019) 4.4.1.13 Berger-Kreuz-Str. 26 - Fl.Nr.: 1286/4 - Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID Zuleitung vom 14.10.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.25 vom 17.10.2019) 4.4.1.14 Hofangerstr. 22 - Fl.Nr.: 1320/53 - Neubau eines Mehrfamilienhauses mit Tiefgarage Zuleitung vom 14.10.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.1.26 vom 17.10.2019)
+- TOP 4.4.2: Weitere Anhörungen
+- TOP 4.4.2.1.: 4.4.2.1 Bebauungsplan mit Grünordnung Nr. 2090, Friedrich-Creuzer-Straße / Alexisweg, Karl-Marx-Ring, Niederalmstraße, Stemplingeranger - Herstellung und Umbau der öffentlichen Verkehrsflächen Zuleitung vom 06.06.2019; Fristverlängerung bis einschließlich 11.11.2019 beantragt (TOP 4.4.2.1 vom 17.10.2019, TOP 4.4.2.1 vom 12.09.2019, TOP 4.4.2.1 vom 24.07.2019, TOP 4.4.2.4 vom 04.07.2019) 4.4.2.2 Veränderungssperre für das Baugebiet Erdbeerfeld Empfehlung Nr. 14-20 / E 02683 der Bürgerversammlung des Stadtbezirkes 16 - Ramersdorf-Perlach am 27.06.2019 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom (SB) Sitzungsvorlagen Nr. 14-20 / V 16203 Zuleitung vom 11.09.2019; Fristverlängerung bis einschließlich 15.11.2019 (TOP 4.4.2.5 vom 17.10.2019, TOP 4.4.2.7 vom 12.09.2019) 4.4.2.3 Erhalt des Baumbestands in der Haldenseestraße Empfehlung Nr. 14-20 / E 02678 der Bürgerversammlung des Stadtbezirkes 16 – Ramersdorf-Perlach am 27.06.2019 Beschluss des Ausschusses für Stadtplanung und Bauordnung (SB) Sitzungsvorlagen Nr. 14-20 / V 16643 Zuleitung vom 21.10.2019
+- TOP 4.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 4.5.1: Veranstaltungen in städtischen Grünanlagen Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.2: Veranstaltungen auf öffentlichem Verkehrsgrund Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme
+- TOP 4.5.3.1.: 4.5.3.1 Anhörungsrecht bei der Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen Anhörung zum BA-Antrag Nr. 14-20 / B 06220 des BA 5 Zuleitung vom 21.10.2019
+- TOP 4.5.4: Weitere Anhörungen
+- TOP 4.6: Sonstige
+- TOP 5.2.1: Mobilität und Umwelt
+- TOP 5.2.2: Budget, Kultur und Sport
+- TOP 5.2.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 5.2.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 5.2.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 6.1: Mobilität und Umwelt
+- TOP 6.1.1.: Verlängerung des Haltverbotes nach der Querungshilfe am Beginn der Nawiaskystraße auf die 10 Meter denen der Bezirksausschuss zugestimmt hat und Ausweisung von Parken nur für Personenkraftwagen bis zum Beginn der Parkbuchten/ersten Einfahrt
+- TOP 6.1.2.: Überprüfung der Ampelzeiten an der Kreuzung Fritz-Schäffer-Straße/Fritz-Erler-Straße/Heinrich-Wieland-Straße und ggf. Anpassung der Schaltzeiten Zuleitung vom 18.10.2019
+- TOP 6.1.3.: Einrichtung eines Parkverbots im Bereich der Kurve Ludwig-Erhardt-Allee/Irma-Uhrbach-Straße zur Verbesserung der Sicherheit Zuleitung vom 24.10.2019
+- TOP 6.1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Budget, Kultur und Sport
+- TOP 6.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 6.3.1.: Steigende Schülerzahlen an der Grundschule am Dietzfelbinger Platz 1. Soll die städtische Vorschule/Förderschule weiterhin in den Räumlichkeiten der Grundschule blieben? 2. Nachfrage zu einer Erweiterung der Räumlichkeiten des Tagesheims
+- TOP 6.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 6.4.1: Bauvorhaben im 16. Stadtbezirk, Stellungnahmen des BA 16 Antwortschreiben des Referats für Stadtplanung und Bauordnung
+- TOP 6.4.2.1.: 6.4.2.1 Personenbeförderungsgesetz (PbefG); Stadtwerke München GmbH Errichtung einer Interimswerkstatt in der Straßenbahnhauptwerkstätte Ständlerstraße Zuleitung vom 10.10.2019
+- TOP 6.4.2.2.: Stadtteilkonferenz für Ramersdorf Empfehlung Nr. 14-20 / E 02672 der Bürgerversammlung des Stadtbezirkes 16 – Ramersdorf-Perlach am 27.06.2019 Information zur Behandlung der BV-Empfehlung Zuleitung vom 21.10.2019
+- TOP 6.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 6.5.1.: Bitte um Ablehnung einer Verlegung des Kulturstrands in den Ostpark
+- TOP 6.5.2.: Kulturstrand im Ostpark - keine weitere Partyzone! Information zur Behandlung der BV-Empfehlung Zuleitung vom 28.10.2019
+- TOP 6.6: Sonstige
+- TOP -: in der Regel keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen Unterausschüsse
+- TOP 7.1: Mobilität und Umwelt
+- TOP 7.1.1.: 7.1.1 Stellungnahme des AAN im Münchner Forum zum Bau des U9 Bahnhofs am Hauptbahnhof (Stadtratsbeschluss vom 23.10.2019) Zuleitung vom 23.10.2019 7.1.2 Information des Baureferats zu einem Bürgeranliegen bezüglich der Straßenreinigung und Mülls in der Heinrich-Wieland-Straße Zuleitung vom 24.10.2019 7.1.3 verkehrsrechtliche Anordnung nach § 45 StVO: Gerhart-Hauptmann-Ring; Einrichtung von absoluten Haltverboten Zuleitung vom 09.10.2019
+- TOP 7.1.2.: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 7.1.3.: (U) Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation Empfehlung Nr. 14-20 / E 02501 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln am 19.03.2019
+- TOP 7.1.4.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 7.1.5.: U-Bahn-Betriebshof 2 - Zwischenstand der Verkehrsuntersuchung Zuleitung vom 10.10.2019
+- TOP 7.2: Budget, Kultur und Sport
+- TOP 7.2.2.1.: 7.2.2.1 Perlacher Feuerwehrverein e.V., Verwendungsnachweis und Sachbericht für die Aktion: Zuwendung Projektförderung „150-jähriges Jubiläum“ Zuleitung vom 14.10.2019 7.2.2.2 Siedler- und Eigenheimervereinigung Waldperlach – Neubiberg e.V., Verwendungsnachweis für die Aktion: Neubürger Empfang Zuleitung vom 14.10.2019 7.2.2.3 Malteser Hilfsdienst e.V., Verwendungsnachweis und Sachbericht für die Aktion: Anschaffung eines Mehrzweckfahrzeuges für die Malteser Einsatzdienste München Stadt Zuleitung vom 14.10.2019 7.2.2.4 Condrobs e.V., Verwendungsnachweis und Sachbericht für die Aktion: Fußballturnier mit jugendlichen Geflüchteten Zuleitung vom 14.10.2019 7.2.2.5 Bürger- und Gewerbekreis Ramersdorf e.V., Verwendungsnachweis und Sachbericht für die Aktion: Neuerstellung des Gewerbeflyers Zuleitung vom 14.10.2019
+- TOP 7.2.2.2.: 7.2.2.6 KJR München-Stadt, Verwendungsnachweis und Sachbericht für die Aktion: Demokratiemobil München 2019 Zuleitung vom 14.10.2019 7.2.2.7 Förderverein der Grundschule an der Balanstraße 153, Verwendungsnachweis und Sachbericht für die Aktion: Fehlbedarfsfinanzierung für „Kunst und Bauen“ Zuleitung vom 14.10.2019 7.2.2.8 Evang. Hilfswerk München gGmbH, Verwendungsnachweis und Sachbericht für die Aktion: Sommerfest Teestube „komm“ am 09.08.2019 Zuleitung vom 14.10.2019
+- TOP 7.2.3: Weitere Unterrichtungen
+- TOP 7.2.3.1.: 7.2.3.1 Grafikdateien für „Förder-Logos“ für durch das Stadtbezirk geförderte Maßnahmen Zuleitung vom 18.10.2019
+- TOP 7.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 7.3.1.: 7.3.1 Strategie Nächtliches Feiern – Ergebnisse des Dialogprozesses und Maßnahmen für ein attraktives und verträgliches nächtliches Feiern Sitzungsvorlage Nr. 14-20 / V 15776 Beschluss des Sozialausschusses vom 26.09.2019 (SB) Information von AKIM zum Beschluss Zuleitung vom 30.09.2019
+- TOP 7.3.2.: 7.3.2 Neuer Südfriedhof in der Hochäckerstraße Empfehlung Nr. 14-20 / E 02615 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 28.05.2019 Beschluss des Gesundheitsausschusses vom 21.11.2019 (SB) Sitzungsvorlage Nr. 14-20 / V 16046 Zuleitung vom 28.10.2019
+- TOP 7.3.3.: (U) Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 16. Stadtbezirkes
+- TOP 7.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 7.4.2.1.: 7.4.2.1 Bernauer Str. 25; Fällungsantrag vom 10.08.2019; Bescheid vom 07.10.2019 7.4.2.2 Isegrimstr. 19; Fällungsantrag vom 10.09.2019; Bescheid vom 22.10.2019 7.4.2.3 Plettstr. 47 - 65; Fällungsantrag vom 30.07.2019; Bescheid vom 23.10.2019
+- TOP 7.4.4: Weitere Unterrichtungen
+- TOP 7.4.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.4.3.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 7.4.4.4.: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 7.4.4.5.: Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenskollision Stadträte, Oberbürgermeister, Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2019 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.11.2019 (SB) Sitzungsvorlagen Nr. 14-20 / V 16791 Zuleitung vom 28.10.2019
+- TOP 7.4.4.6.: 7.4.4.6 Einbindung und weitere Umsetzung der Konzeption „Freiraum M 2030“ - Leitlinie „Freiraum“ und Schüsselprojekte in Verbindung mit Städtebuaförderung Personal- und Sachmittelbedarf Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.11.2019 (VB) Sitzungsvorlagen Nr. 14-20 / V 16341 Zuleitung vom 28.10.2019 7.4.4.7 Informationen zum 1. Treffen der erweiterten Steuerungsgruppe im BIWAQ-Projekt work&act 2.0 am 16.10.2019 Zuleitung vom 29.10.2019
+- TOP 7.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
+- TOP 7.5.1.1.: 7.5.1.1 Elis, Schank- und Speisewirtschaft, Peschelanger 11 Zuleitung vom 07.10.2019
+- TOP 7.5.2: Weitere Unterrichtungen
+- TOP 7.5.2.1.: 7.5.2.1 Münchner Stiftungsverwaltung - Zahlen, Daten, Fakten 2018 Zuleitung vom 23.10.2019 7.5.2.2 Information zu den Rattenbekämpfungsmaßnahmen am Hachinger Bach Zuleitung vom 21.10.2019
+- TOP 7.6: Sonstige
+- TOP 8.1.1: Mobilität und Umwelt
+- TOP 8.1.2: Budget, Kultur und Sport
+- TOP 8.1.3: Bildung, Gesundheit, Integration und Soziales
+- TOP 8.1.4: Bauvorhaben, Stadtplanung und Bürgerbeteiligung
+- TOP 8.1.5: Allgemeines, öffentliche Ordnung und Grundsatzfragen
