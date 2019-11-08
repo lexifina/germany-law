@@ -7,6 +7,7 @@ Abacavir
 Abamectin
 Abarelix
 Abatacept
+Abemaciclib
 Abirateron und seine Ester
 Acamprosat
 Acarbose
@@ -273,8 +274,10 @@ Bezafibrat
 Bicalutamid
 Bicisat
 - als Kit zur Herstellung eines Radiodiagnostikums mit (⁹⁹ᵐ Tc) Technetium -
+Bictegravir
 Bilastin und seine Ester
 Bimatoprost
+Binimetinib und seine Ester
 Biperiden
 Birkenrinden-Trockenextrakt
 (gereinigter Trockenextrakt von geeigneten Betula-Arten mit weißer Rinde [100 mg aus 0,5 bis 1,0 g Birkenrinde], entsprechend 72 bis 88 Prozent Betulin)
@@ -304,6 +307,8 @@ Bortezomib
 Bosentan
 Bosutinib
 Bretylium-Salze
+Brexpiprazol
+Brigatinib
 Brimonidin
 Brinzolamid
 Brivaracetam
@@ -659,6 +664,7 @@ Demegeston
 Demelverin
 Denaverin
 Depreotid
+Desfesoterodin
 Desfluran
 Desipramin
 Desirudin
@@ -767,9 +773,10 @@ Dipiproverin
 Dipivefrin
 Dipyridamol
 Dirlotapid
-— zur Anwendung bei Tieren —
+– zur Anwendung bei Tieren –
 Disopyramid
 Distickstoffmonoxid
+– zur inhalativen Anwendung –
 Distigmin
 Disulfiram
 Dithranol
@@ -783,6 +790,7 @@ Donepezil
 Dopamin
 Dopexamin
 Doramectin
+Doravirin
 Doripenem
 Dornase alfa
 Dorzolamid
@@ -835,6 +843,7 @@ Emtricitabin
 Emylcamat
 Enalapril
 Enalaprilat
+Encorafenib
 Endomid
 Enfluran
 Enfuvirtid
@@ -1238,9 +1247,10 @@ Indometacin
 - ausgenommen zur cutanen Anwendung in 1%iger Lösung -
 Indoramin
 Indoxacarb
-– zur Anwendung bei Tieren –
+– zur Anwendung bei Tieren, ausgenommen zur Anwendung beim Hund –
 Ingenolmebutat und seine Ester
 myo-Inositolhexanitrat
+Inotersen
 Inproquon
 Insulin, ferner Erzeugnisse, die aus der Bauchspeicheldrüse hergestellt und zu Einspritzungen bei Diabetes mellitus bestimmt sind
 Insulin aspart
@@ -1534,6 +1544,7 @@ Metoclopramid
 Metolazon
 Metomidat
 Metoprolol
+Metreleptin
 Metrifonat
 Metronidazol und seine Ester
 Metyrapon
@@ -1803,6 +1814,7 @@ Paromomycin
 Paroxetin
 Pasireotid
 Patiromer
+Patisiran
 Pazopanib
 Pefloxacin
 Peforelin
@@ -1848,7 +1860,7 @@ Permethrin
 - zur Behandlung der Scabies beim Menschen -
 - zur Anwendung bei Tieren, ausgenommen
 a) als Ohrclip
-b) zur Anwendung beim Pferd -
+b) zur Anwendung beim Pferd und beim Hund -
 Peruvosid
 Phenacemid
 Phenamacid
@@ -1874,9 +1886,8 @@ Phenylpropanolamin
 - zur Anwendung bei Tieren -
 Phospholipide
 – zur parenteralen Anwendung ohne Zusatz weiterer arzneilich wirksamer Bestandteile –
-Phospholipide aus Rinderlunge
-- zur Prophylaxe und Therapie des Atemnotsyndroms bei Frühgeborenen -
-Phospholipide aus Schweinelunge
+– aus Rinderlunge –
+– aus Schweinelunge –
 Phosphor
 Phoxim
 - zur Anwendung bei Tieren -
@@ -2232,6 +2243,7 @@ Strandkiefernrinde und ihre Zubereitungen
 Streptokinase
 - ausgenommen zur buccalen oder oralen Anwendung -
 Streptomycin
+Streptozocin und seine Derivate
 Strophanthi semen und seine Zubereitungen
 Strophanthine
 Strychni semen und seine Zubereitungen
@@ -2327,6 +2339,7 @@ Tetramisol
 Tetrofosmin
 Tetroxoprim
 Tetrylammonium-Salze
+Tezacaftor und seine Ester
 Thalidomid
 Thallium
 Thenalidin
@@ -2517,6 +2530,7 @@ Veratri rhizoma und seine Zubereitungen
 Veratrum-Alkaloide
 Vernakalant
 Verteporfin
+Vestronidase alfa
 Vidarabin
 Vigabatrin
 Vilanterol
@@ -2624,7 +2638,7 @@ Zubereitung aus
 Indoxacarb
 und
 Permethrin
-– zur Anwendung bei Tieren –
+– zur Anwendung bei Tieren, ausgenommen zur Anwendung beim Hund –
 Zubereitung aus
 Ivermectin
 und
