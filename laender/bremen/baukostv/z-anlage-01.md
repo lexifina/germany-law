@@ -201,7 +201,7 @@ Tarifziffer | Gebührentatbestand | Gebühr in Euro
 102.00.04 | Untersagung der Verwendung eines entgegen § 22 Absatz 4 BremLBO mit dem Ü-Zeichen gekennzeichneten Bauprodukts sowie Entwertung oder Beseitigung dieser Kennzeichnung (§ 77 BremLBO) | 37 bis 287
 102.00.05 | Erteilung eines allgemeinen bauaufsichtlichen Prüfzeugnisses nach § 19 Absatz 2 BremLBO | 308 bis 5 750
 102.01 | Anerkennung einer Prüf-, Zertifizierungs- und Überwachungsstelle | 
-102.01.01 | Anerkennung einer Prüf-, Zertifizierungs- und Überwachungsstelle durch den Senator für Umwelt, Bau und Verkehr (§ 25 Absatz 1 und 3 BremLBO) | 500 bis 5 000
+102.01.01 | Anerkennung einer Prüf-, Zertifizierungs- und Überwachungsstelle durch die Senatorin für Klimaschutz, Umwelt, Mobilität, Stadtentwicklung und Wohnungsbau (§ 25 Absatz 1 und 3 BremLBO) | 500 bis 5 000
 102.01.02 | Änderung, Erweiterung, Verlängerung einer Anerkennung | 50 v. H. der Gebühr nach 102.01.01
 102.01.03 | Anerkennung einer Prüf-, Zertifizierungs- und Überwachungsstelle nach § 11 Absatz 1 BauPG sowie als Stelle nach Artikel 16 Absatz 2 der Bauproduktenrichtlinie Anmerkung zu 102.01.03: Die Gebühr deckt auch alle Amtshandlungen im Rahmen des Anerkennungsverfahrens ab, wie Vorgespräche, Beantwortung von Anfragen, Prüfung der Antragsunterlagen, Teilnahme an der Begutachtung vor Ort | 1 074 bis 20 000
 102.01.04 | Änderung, Erweiterung und Verlängerung einer Anerkennung | 269 bis 5 000
