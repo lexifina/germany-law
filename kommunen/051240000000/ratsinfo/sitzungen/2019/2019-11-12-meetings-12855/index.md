@@ -1,0 +1,65 @@
+# öffentliche/ nichtöffentliche Sitzung des Ausschusses für Finanzen, Beteiligungssteuerung und Betriebsausschuss WAW
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-11-12T16:04:00+01:00
+- Ende: 2019-11-12T17:17:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/200
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12855
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12855
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen 04.11.2019 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00246005.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00248334.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2018 der Bergische Struktur- und Wirtschaftsförderungsgesellschaft mbH - ungeändert beschlossen
+- TOP 1.1.1: Entlastung des Aufsichtsrats der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH für das Geschäftsjahr 2018 - ungeändert beschlossen
+- TOP 2: Wirtschaftspläne
+- TOP 2.1: Wirtschaftsplan 2020 der Neue Effizienz GmbH - ungeändert beschlossen
+- TOP 3: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 3.1: Beteiligungsbericht 2018 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 3.2: Monitoring der Konsolidierung der Gemeinnützigen Wohnungsbaugesellschaft (GWG) zum 30.09.2019 - Entgegennahme ohne Beschluss
+- TOP 3.3: Monitoring der Eigenbetriebe ESW und APH zum 30.09.2019 - Entgegennahme ohne Beschluss
+- TOP 3.4: Aktuelle Entwicklung der Finanzsituation beim Gebäudemanagement der Stadt Wuppertal (GMW) - ungeändert beschlossen
+- TOP 3.5: Abberufung des Geschäftsführers und Bestellung eines Liquidators für die WQG Wuppertaler Quartierentwicklungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3.6: Bestellung des Wirtschaftsprüfers für den Jahresabschluss 2018/2019 der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 3.7: Bestellung eines Abschlussprüfers für die Lokalfunk Wuppertal GmbH und die Lokalfunk Wuppertal GmbH & Co. KG für das Geschäftsjahr 2019 - ungeändert beschlossen
+- TOP 4: Berichte und Mitteilungen
+- TOP -: Teil B - Allgemeine Angelegenheiten
+- TOP 5: Berichtsvorlagen
+- TOP 5.1: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 5.2: Prüfauftrag Schul(neu)bau der Fraktion DIE LINKE v. 08.03.2019 - Entgegennahme ohne Beschluss
+- TOP 6: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 6.1: Fortschreibung der Raum- und Gebäudeplanung der Stadtverwaltung - ungeändert beschlossen
+- TOP 6.2: Digitalisierung von Akten - ungeändert beschlossen
+- TOP 6.3: Mobilitätskonzept für Wuppertal - aktueller Sachstand - ungeändert beschlossen
+- TOP 6.4: Bewirtschaftung des Carnaper Platzes und Finanzierung der Baumaßnahme - ungeändert beschlossen
+- TOP 6.5: Verkauf des städtischen Grundstückes Berghauser Str. 45 - vertagen
+- TOP 6.6: Umgestaltung der Poststr. und Alten Freiheit - ungeändert beschlossen
+- TOP 6.7: Ausschreibung für den Breitbandausbau in Wuppertal - vertagt auf Rat
+- TOP 6.8: Antrag der CDU-Fraktion Gebäudebestandserhebung - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil C - Haushaltsangelegenheiten
+- TOP 8: Berichtsvorlagen
+- TOP 8.1: Aktuelle Veränderungen gegenüber dem Haushaltsplan-Entwurf 2020/2021 - Entgegennahme ohne Beschluss
+- TOP 8.2: Finco-Bericht zum 30.09.2019 - Entgegennahme ohne Beschluss
+- TOP 8.3: Stand der Schulden und Kassenkredite zum 30.09.2019 - Entgegennahme ohne Beschluss
+- TOP 8.4: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 8.5: Finco-Bericht zum 31.10.2019 - Entgegennahme ohne Beschluss
+- TOP 9: Allgemeine Vorlagen / Anträge und Anfragen
+- TOP 9.1: Veränderungsnachweisung zum Stellenplan 2020/2021 - ungeändert beschlossen
+- TOP 10: Berichte und Mitteilungen
+- TOP -: Teil D – Angelegenheiten des Eigenbetriebes WAW
+- TOP 11: Berichtsvorlagen
+- TOP 11.1: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das II. Quartal 2019 - Entgegennahme ohne Beschluss
+- TOP 11.2: Finanzwirtschaftlicher Zwischenbericht des Eigenbetriebes WAW für das III. Quartal 2019 - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen /Anträge und Anfragen
+- TOP 12.1: Dritte Änderung der Betriebssatzung des Eigenbetriebs Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 12.2: Abberufung und Bestellung der Betriebsleitung des Eigenbetriebs Wasser und Abwasser Wuppertal (WAW) - ungeändert beschlossen
+- TOP 12.3: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser Wuppertal - ungeändert beschlossen
+- TOP 12.4: Bürgerantrag nach § 24 GO: Änderung der Satzung über die Abwasserbeseitigung in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
