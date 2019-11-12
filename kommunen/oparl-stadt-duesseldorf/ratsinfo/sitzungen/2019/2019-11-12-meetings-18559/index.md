@@ -1,0 +1,58 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-12T15:00:00+01:00
+- Ende: 2019-11-12T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18559
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18559
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: JHA Sitzungsunterlagen (Stand: 04.11.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00361517.pdf
+- Ergebnisprotokoll: JHA Sitzungsunterlagen (Stand: 04.11.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00361517.pdf
+- Wortprotokoll: JHA Sitzungsunterlagen (Stand: 04.11.2019) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00361517.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des des Jugendhilfeausschusses vom 12.03.2019 und 07.05.2019 - einstimmig beschlossen
+- TOP 3: Terminplan für die Sitzungen des Jugendhilfeausschusses im Jahr 2020 (1. Halbjahr) - einstimmig beschlossen
+- TOP 4: Tageseinrichtungen für Kinder
+- TOP 4.1: Bundesprojekt Kindertagespflege: Anreizsystem zur Teilnahme am Qualifizierungsausbau in der Kindertagespflege - einstimmig beschlossen
+- TOP 4.2: Inklusion in den städtischen Kindertageseinrichtungen - Auswirkungen durch das neue Bundesteilhabegesetz (BTHG) - zur Kenntnis genommen
+- TOP 4.3: Servicestelle "Betriebliche Unterstützung Kinderbetreuung" bei der Zukunftswerkstatt Düsseldorf GmbH - einstimmig beschlossen
+- TOP 4.4: Teilnahme am Bundesprogramm „Sprach-Kitas: Weil Sprache der Schlüssel zur Welt ist“ - Verlängerung der ersten Welle bis Dezember 2020 - zur Kenntnis genommen
+- TOP 5: Bau, Einrichtung und Instandsetzung von Tageseinrichtungen für Kinder
+- TOP 5.1: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder – hier: Kita Wimpfener Straße 17 - einstimmig beschlossen
+- TOP 5.2: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder – hier: Kita Lindenstraße 176/178 - einstimmig beschlossen
+- TOP 5.3: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder – hier: Kita Pastor-Finke-Weg 5 - einstimmig beschlossen
+- TOP 5.4: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder – hier: Kita Löricker Straße 31 - einstimmig beschlossen
+- TOP 5.5: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder – hier: Kita Am Sankt Swidbert 70 - einstimmig beschlossen
+- TOP 5.6: Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - hier: Kita Niederkasseler Kirchweg 36 - einstimmig beschlossen
+- TOP 5.7: Verfahren im Umgang mit Vorlagen über Investitionszuschüsse an freie Träger von Tageseinrichtungen für Kinder - Ergänzung - - zur Kenntnis genommen
+- TOP 6: Jugendförderung
+- TOP 6.1: Sachstand Jugendratswahl 2019 (Stand: 17.10.2019) - zur Kenntnis genommen
+- TOP 7: Soziale Dienste
+- TOP 7.1: Infoabend "Kinder- und Jugendschutz im Alltag - Kinderschutz geht uns alle an! Prävention und Vernetzung in Düsseldorf" am 25.09.2019 - zur Kenntnis genommen
+- TOP 8: Familienförderung
+- TOP 8.1: Zuständigkeitswechsel der aufsuchenden Seniorenhilfe vom Jugendamt zum Amt für Soziales - zurückgezogen
+- TOP 8.2: "Audit Familiengerechte Kommune" - Workshop-Dokumentation im Erhaltungszertifikat - zur Kenntnis genommen
+- TOP 9: Gebäudeangelegenheiten
+- TOP 9.1: Freizeitstätte Garath, Fritz-Erler-Straße 21, Stadtbezirk 10 - Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 10: Fachübergreifende Vorlagen
+- TOP 10.1: Controllingbericht Zuwendungen und Zuschüsse - Geschäftsjahr 2018 - zur Kenntnis genommen
+- TOP 10.2: Investitionskostenzuschüsse an freie Träger der Jugendhilfe - einstimmig beschlossen
+- TOP 11: Etat 2020
+- TOP 11.1: Entwurf des Haushaltsplans 2020 - hier: Jugendamt - einstimmig beschlossen
+- TOP 11.1.1: Haushaltsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/DIE GRÜNEN, FDP - hier: Fachberatungsstelle Regenbogenfamilien – Entfristung der Vollzeitstelle - einstimmig beschlossen
+- TOP 11.1.2: Haushaltsantrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN, FDP - hier: Aufnahme in den neuen Kinder- und Jugendförderplan (2021) von ProMädchen Mädchenhaus Düsseldorf e.V. – Emanzipatorisch inklusive Mädchenarbeit mit Schwerpunkt Gewaltschutz - einstimmig beschlossen
+- TOP 11.1.3: Haushaltsantrag der Ratsfraktionen SPD, BÜNDNIS 90/DIE GRÜNEN, FDP - hier: Ausweitung des Angebots für Trans*Jugendliche im PULS Düsseldorf - einstimmig beschlossen
+- TOP 11.1.4: Haushaltsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/ DIE GRÜNEN, FDP - hier: Ausbau der Schulsozialarbeit in Düsseldorf (Produkt: 3636301, Konto: 53180600) - einstimmig beschlossen
+- TOP 11.1.5: Haushaltsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/ DIE GRÜNEN, FDP – hier: Erhöhung im Produkt 3636201, Konto: 52810000 - Partizipation - einstimmig beschlossen
+- TOP 11.1.6: Haushaltsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/ DIE GRÜNEN, FDP – hier: Modellprojekt „Medita“ – Medienerziehung in Kitas - abweichend beschlossen
+- TOP 11.1.7: Haushaltsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/ DIE GRÜNEN, FDP – hier: Maßnahmen zur Minderung der Folgen von Kinderarmut - einstimmig beschlossen
+- TOP 11.1.8: Änderungsantrag der CDU-Ratsfraktion zum Haushaltsplan-Entwurf 2020: Ausbau der Schulsozialarbeit an den Düsseldorfer Schulen - mehrheitlich beschlossen
+- TOP 11.1.9: Änderungsantrag der CDU-Ratsfraktion zum Haushaltsplan-Entwurf 2020: Junge Talente suchen erfahrene Meister/innen - mehrheitlich beschlossen
+- TOP 11.1.10: Haushaltsantrag der Ratsfraktionen von SPD, BÜNDNIS 90/ DIE GRÜNEN und FDP – hier: Erhöhung im Produkt 3636201, Konto: 53810000 – Düsseldorfer Wegweiser e.V. - einstimmig beschlossen
+- TOP 11.1.11: Haushaltsantrag der Ratsfraktion DIE LINKE. - hier: Schulsozialarbeit neu aufstellen - mehrheitlich abgelehnt
