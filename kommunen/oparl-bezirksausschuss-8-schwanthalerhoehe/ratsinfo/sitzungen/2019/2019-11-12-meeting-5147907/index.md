@@ -1,0 +1,68 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2019-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147907
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147907
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bericht aus dem Vorstand
+- TOP 6: Bauen, Planen, Wohnen und Gewerbe
+- TOP 6.1: Entscheidungen
+- TOP 6.2: Anhörungen
+- TOP 6.3: Unterrichtungen
+- TOP 7: Soziales, Bildung, Kultur und Integration
+- TOP 8: Umwelt und Verkehr
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
+- TOP 4.1.: Lärmbelästigung und Lieferverkehr Ligsalzstraße 30
+- TOP 6.2.1.: Umgestaltung der Schnaderböckstraße - Schaffung eines Arbeitskreises
+- TOP 6.2.2.: Bauvorhaben / Baumfällungen Parkstraße 6
+- TOP 6.3.1.: Meldeliste Bauvorhaben
+- TOP 6.3.2.: Tram-Café auf der Zirkuswiese Theresienhöhe
+- TOP 6.3.3.: Baumaßnahmen der Stadtwerke München
+- TOP 6.3.4.: Neubau des Multikulturellen Jugendzentrums in der Westendstraße 66a
+- TOP 6.3.5.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.3.6.: Investitionskostenförderung Kindergarten Kazmairstraße 21
+- TOP 7.1: Entscheidungen
+- TOP 7.2: Anhörungen
+- TOP 7.2.1.: Planung mobile Spiel- und Kunstaktionen 2020 und 2021
+- TOP 7.2.2.: Änderung der BA-Geschäftsordnung; Antragsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte
+- TOP 7.2.3.: Einrichtung eines Beratungs- und Informationsbüros für von Verdrängung bedrohte Bürgerinnen und Bürger; Empfehlung Nr. 2585 vom 04.04.2019
+- TOP 7.3: Unterrichtungen
+- TOP 8.1: Entscheidungen
+- TOP 8.1.1.: (E) Emissionsbelastung durch Hotelbetrieb in der Landsberger Straße
+- TOP 8.1.2.: (E) Ausweisung des Abschnittes der Schwanthalerstr. zwischen Schießstätt- und Ganghoferstraße als Fahrradstraße
+- TOP 8.2: Anhörungen
+- TOP 8.2.1.: Zukunftsfähigkeit des Münchner U-Bahnnetzes; Umsetzung von der Vorhaltemaßnahmen sowie weitere Planungenfür die Entlastungsspange U9; Sitzungsvorlage Nr. 14-20 / V 15457
+- TOP 8.2.2.: Änderung der BA-Satzung; Anhörungsrecht bei der Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 8.2.3.: Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs - Zweites Maßnahmenbündel; Sitzungsvorlage Nr. 14-20 / V 15495
+- TOP 8.2.4.: Baumfällung Theresienhöhe, an der Nordseite der Ruhmeshalle
+- TOP 8.2.5.: Christkindlmarkt am Schneckenplatz vom 25.11. bis 24.12.2019
+- TOP 8.2.6.: Feuerwerksanzeige am 09.11.2019, Theresienhöhe 14; Absage
+- TOP 8.3: Unterrichtungen
+- TOP 8.3.1.: Fahrradweg Ridlerstraße beidseitig in voller Länge ausbauen - Antwortschreiben BA-Antrag Nr. 6625 vom 06.08.2019
+- TOP 8.3.2.: Sinnvolle Radwegeverbindung Westend - Innenstadt; Ausstattung der Schwanthalerstraße mit beidseitigem Radweg - Zwischennachricht BV-Empfehlung Nr. 2574 vom 04.04.2019
+- TOP 8.3.3.: Wegesanierung Bavariapark
+- TOP 8.3.4.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Landsberger Straße 115
+- TOP 8.3.5.: Mangelnde Beachtung des Durchfahrtverbotes am Stöpsel in der Trappentreustraße - Antwortschreiben
+- TOP 8.3.6.: (E) Anforderungszeit für die Fußgängerampel am Bavariaring, nördlich der Bavaria, verkürzen
+- TOP 8.3.7.: Fahrradweg Ridlerstraße beidseitig in voller Breite ausbauen
+- TOP 9.1: Entscheidungen
+- TOP 9.2: Anhörungen
+- TOP 9.3: Unterrichtungen
+- TOP 9.3.1.: Stadtbezirksbudget, Grafikdateien für Logos
+- TOP 11.1.: Zunehmende Verparkung von Gehwegen und Platzflächen
+- TOP 11.2.: Änderung der BA-Satzung; Anhörungsrecht bei allgemeinen Maßnahmen des Umweltschutzes
