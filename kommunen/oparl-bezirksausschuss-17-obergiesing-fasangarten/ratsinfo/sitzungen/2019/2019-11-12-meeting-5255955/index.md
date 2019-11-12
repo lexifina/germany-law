@@ -1,0 +1,175 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2019-11-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5255955
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5255955
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht der Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 2.5: Sonstiges
+- TOP 3.: Berichte der Beauftragten
+- TOP 3.1: Integration
+- TOP 3.2: Flüchtlinge
+- TOP 3.3: Inklusion
+- TOP 3.4: Genderfragen
+- TOP 3.5: Kinder und Jugend
+- TOP 3.6: Seniorinnen und Senioren
+- TOP 3.7: Mieterbeirat
+- TOP 3.8: gegen Rechtsextremismus
+- TOP 3.9: Baumschutz
+- TOP 3.9.1: Einzelfälle
+- TOP 3.9.2: Baumbestandspläne
+- TOP 4.: Anträge/Anfragen
+- TOP 5.: Budget
+- TOP 5.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5.2: Anträge und Entscheidungen zu Bestellungen städtischer Leistungen
+- TOP 5.3: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 6.: Unterausschüsse
+- TOP 6.1: UA Bau/Planung/Wohnen
+- TOP 6.1.1: Bericht
+- TOP 6.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.2.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.2.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.5: Anträge
+- TOP 6.2: UA Familie/Soziales/Ausbildung
+- TOP 6.3: UA Verkehr
+- TOP 1.: Verkehrssituation vor der Schule an der Weißenseestraße (Bürgeranliegen aus der Sitzung vom 08.10.19, ohne Vorgang)
+- TOP 2.: Ein- und Ausfahrtssituation Tiefgarage Deisenhofener Straße (Bürgeranliegen aus der Sitzung vom 08.10.19, ohne Vorgang)
+- TOP 6.4: UA Umwelt und Gesundheit
+- TOP 6.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 1.: Leitungsteam RODEO 2020 und Terminwunsch für Zusammenarbeit mit dem BA 17: Themen, Lokalitäten und Ansprechpartner
+- TOP 6.6: UA lokale Wirtschaft und Arbeit
+- TOP 7.: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 2.1.2.1.: Erweiterung Anwohnerparken Wallbergstrasse; Bürgerschreiben (E-Mail) vom 27.09.2019
+- TOP 2.1.2.2.: Wann wird die Wallbergstraße zum Parklizenz-Bereich; Bürgeranfrage (E-Mail) vom 30.09.2019
+- TOP 2.1.2.3.: Positionspapier der Bürgerinitiative "Frischluftzufuhr für München" zum Interkommunalen Strukturkonzept Hachinger Tal; Schreiben vom 07.10.2019
+- TOP 2.1.2.4.: Erhalt einiger Bäume und Sträucher in der Traunsteiner Str./in der Lincolnstraße/ in der Sinpertstr.; Bürgeranliegen von 24.10.2019
+- TOP 3.9.1.1.: Schwanseestraße 41, 2 Birken
+- TOP 3.9.1.2.: Holtzendorffstr 25/25a, diverse Bäume
+- TOP 4.1.: Fahrradverkehr attraktiver gestalten - Haltelinien auf Radwegen an Ampelanlagen verbessern; Antrag der SPD-Fraktion
+- TOP 4.2.: Fahrradverkehr attraktiver gestalten - Neuschwansteinplatz als "Unechte Einbahnstraße"; Antrag der SPD-Franktion
+- TOP 4.3.: Mehr Sicherheit für Radfahrer*innen an Giesinger Kreuzungen - mehr Radfahrstreifen/ Fahrradaufstellstreifen; Antrag der SPD-Fraktion
+- TOP 4.4.: Straßen instand halten; Antrag der Bündnis 90/ Die Grünen
+- TOP 4.5.: Stadtratsbeschlüsse aktualisieren; Antrag der Bündnis90/DIE GRÜNEN
+- TOP 4.6.: Sportmöglichkeiten für die Siedlung am Perlacher Forst erhalten, Antrag der CSU-Fraktion
+- TOP 4.7.: Bepflanzung von Grünstreifen entlang der Werinherstaße; Antrag der Bündnis90/DIE GRÜNEN
+- TOP 4.8.: Zusätzlicher Lebensraum für Insekten und Kleinstlebewesen auch in der Großstadt Nachtrag - FF UA Umwelt
+- TOP 4.9.: Umwelt, Stadtklima und Naherholungsgebiet schützen - Nein zum Autobahnsüdring Dringlichkeitsantrag
+- TOP 5.1.1.: (E) Stadtbezirksbudget Initiative "play/rewind" Intergenerationelles Begegnungsformat "play/rewind" vom 24.01. - 30.05.2020 8.680,00 € / Az. 0262.0-17-0223
+- TOP 5.4: Sonstiges
+- TOP 5.4.1.: Aufstellung aller Anträge aus BA-Budget im Zeitraum vom 01.01.2019 bis 30.09.2019
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 1.: Verlagerung der Bebauung nach Bebauungsplan Nr. 2118 von der westlichen auf die östliche Seite der BAB A8
+- TOP 6.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.1.2.1.: (E) Beteiligung des Bezirksausschusses 17 an der Machbarkeitsstudie für den Ausbau des städtischen Stadions an der Grünwalder Straße Keine weitere Erhöhung der Zuschauerkapazität im Grünwalder Stadion
+- TOP 6.1.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.1.3.1.: Schwanseestr. 89: Umbau mit Nutzungsänderung von Großtagespflege zu Kindertagesstätteneinrichtung mit 2 Gruppen
+- TOP 6.1.3.2.: Schwanseestr. 10-12, Neubau eines Rückgebäudes, Dachaufstockung und Umbau der Vordergebäude mit Wohnungen und einem Studentenwohnheim sowie Errichtung einer Tiefgarage - Vorbescheid
+- TOP 6.1.3.3.: Gemeinde Unterhaching; Frühzeitige Beteiligung der Behörden und sonstiger Träger öffentlicher Belange
+- TOP 6.1.3.4.: Perlacher Str. 3, Neubau einer Wohnanlage mit Tiefgarage - Vorbescheid
+- TOP 6.1.3.5.: Personenbeförderungsgesetz (PBefG); Errichtung einer Interimswerkstatt in der Straßenbahnhauptwerkstätte Ständlerstraße Bitte um Stellungnahme bis spätestens 04.10.2019 Zuleitung vom 22.08.2019
+- TOP 6.1.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.4.1.: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 6.1.4.2.: Liste der Bauvorhaben im 17. Stadtbezirk
+- TOP 6.1.4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.4.4.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 6.1.4.5.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 6.1.4.6.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP 6.1.4.7.: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP 6.1.4.8.: (U) 46. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2019
+- TOP 6.1.4.9.: Aufstellung einer Parkbank in der Unteren Grasstraße 13 - 13 a; Finanzierung aus dem Stadtbezirksbudget
+- TOP 6.1.6: Sonstiges
+- TOP 6.2.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.2.4.1.: (U) Schulbauoffensive 2013 - 2030 A) Erläuterung der Ausgangslage für die Erstellung von Schulbauprogrammen durch die Priorisierung und Kategorisierung der Schulstandorte B) Übersicht der Bauprogramme C) Bericht zu den Schulbauprogrammen D) Pavillonbauprogramme E) Ausblick auf weitere Schulbauprogramme F) Ausblick auf das Bauprogramm zur Realisierung von Kinderbetreuungsplätzen G) Bündelung der Kita-Ausbauoffensive und der Schulbauoffensive H) Personalbedarf der mit den Schulbauprogrammen befassten Dienststellen I) Bericht über die mögliche Realisierung einer Niedertemperatur-Flächenheizung am neuen Schulcampus Messestadt West J) Behandlung von Anträgen und Empfehlungen: K) Beteiligung der Bezirksausschüsse L) Sonstige Ausführungen
+- TOP 6.2.4.2.: Schwimmbad-Bedarf für den Schulsport
+- TOP 6.2.5: Anträge
+- TOP 6.2.6: Sonstiges
+- TOP 6.3.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.3.2.1.: (E) Markierung einer Stufe am Giesinger Bahnhof bei der Bienen- Apotheke durch Klebestreifen (für alte Menschen und Menschen mit Sehbehinderung) Empfehlung Nr. 14-20 / E 02767 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2019
+- TOP 6.3.2.2.: (E) Zwischenergebnis der Machbarkeitsstudie für eine Fuß- und Radwegbrücke am Giesinger Berg vorstellen Empfehlung Nr. 14-20 / E 02737 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2019
+- TOP 6.3.2.3.: (E) Mehr Platz für Fußgänger und Radfahrer in der Deisenhofener Straße Empfehlung Nr. 14-20 / E 02735 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2019
+- TOP 6.3.2.4.: (E) Farbliche Markierung der Tramplanbegrenzung in der TeLa zwischen Wirtstraße und Tegernseer Platz
+- TOP 6.3.2.5.: (E) Beseitigung der illegalen Lade- und Haltezone in der TeLa
+- TOP 6.3.2.6.: (E) Sanierung der Tirschenreuther- und der Waldmünchener Straße Empfehlung Nr. 14-20 / E 02744 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 04.07.2019
+- TOP 6.3.2.7.: (E) Buslinien Nrn. 220 und 147 im 10-Minuten-Takt Empfehlung Nr. 14-20 / E 02758 der Bürgerversammlung des Stadtbezirkes 17 - Obergiesing am 04.07.2019
+- TOP 6.3.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.3.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3.3.2.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 6.3.3.3.: Einbahnstraßenregelung Weißenseestraße
+- TOP 6.3.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.3.4.1.: (U) Programm im Zuge der Erneuerung von Eisenbahnbrücken durch die DB im 2. Stadtbezirk Ludwigsvorstadt - Isarvorstadt, im 5. Stadtbezirk Au - Haidhausen, im 6. Stadtbezirk Sendling, im 10. Stadtbezirk Moosach, im 14. Stadtbezirk Berg am Laim, im 16. Stadtbezirk Ramersdorf - Perlach, im 17. Stadtbezirk Obergiesing - Fasangarten, im 21. Stadtbezirk Pasing - Obermenzing und im 22. Stadtbezirk Aubing - Lochhausen - Langwied Jährlicher Sachstandsbericht
+- TOP 6.3.5: Anträge
+- TOP 6.3.6: Sonstiges
+- TOP 6.4.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.4.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.4.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.3.2.: Entscheidungsbefugnis über Maßnahmen der Luftreinhaltung Runder Tisch von Experten, Entscheidern der Landeshauptstadt München und Mitgliedern des Bezirksausschusses 17 zur Identifikation von Maßnahmen zur kurzfristigen Verbesserung der Luftsituation in Giesing; Empfehlung Nr. 14-20/E 02766 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 04.07.2019 Sitzungsvorlage Nr. 14-20/V 15898 - Anhörung des Bezirksausschusses -
+- TOP 6.4.3.3.: Anhörungsrecht auch bei stadtbezirksübergreifenden Maßnahmen des Umweltschutzes, insbesondere der Luftreinhaltung; Änderung der Ziffer 7.1 des Katalogs für das Referat für Gesundheit und Umwelt (Anlage 1 zur BA-Satzung)
+- TOP 6.4.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.4.4.1.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 6.4.4.2.: Wiederinbetriebnahme der derzeit geschlossenen, öffentlichen Toilettenanlage im MVG-Zwischengeschoss des Giesinger Bahnhofplatzes; Finanzierung aus dem Stadtbezirksbudget
+- TOP 6.4.4.3.: (U) Erfolgreiche Biotoppflege auf nichtstädtischen Flächen fortführen II Sachmittelbedarf
+- TOP 6.4.4.4.: Fällungsantrag Balanstr. 348: Genehmigung durch die Lokalbaukomission
+- TOP 6.4.4.5.: Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation Empfehlung Nr. 14-20 /E 02501 der Bürgerversammlung des Statdtbezikes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 6.4.5: Anträge
+- TOP 6.4.6: Sonstiges
+- TOP 6.5.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.5.3.1.: Gemeinsames Schmücken des öffentlichen Weihnachtsbaumes am Tegernseer Platz, am 08.12.2019, von 14.00 Uhr bis 16.00 Uhr
+- TOP 6.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.5.4.1.: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP 6.5.5: Anträge
+- TOP 6.5.6: Sonstiges
+- TOP 6.6.1: Bericht
+- TOP -: zuletzt in den Unterausschuss verwiesene Themen:
+- TOP 6.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; hier: Schwanseestr. 3
+- TOP 6.6.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 22.02.2017 Anlagen: Antrag für Errichtung einer Freischankfläche, Bayrischzeller Str. 10, Beschluss des Bezirksausschusses des Stadtbezirkes 17 vom 12.11.2019
+- TOP 6.6.3: Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3.1.: Tegernsee Landstr. 185b, Nutzungsänderung: Laden zu Gaststätte
+- TOP 6.6.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 6.6.4.1.: Schank- und Speisewirtschaft "Morelli La PinsaPizzeria", Wirtstraße 15a Antrag auf unveränderte Fortführung
+- TOP 6.6.5: Anträge
+- TOP 6.6.6: Sonstiges
+- TOP 7.3.1.: (U) Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2020 bis 2026
+- TOP 7.3.2.: Bildung der Münchner Bezirksausschüsse für die Amtsperiode 2020 - 2026
+- TOP 8.1.1: UA Bau/Planung/Wohnen
+- TOP 8.1.2: UA Familie/Soziales/Ausbildung
+- TOP 8.1.3: UA Verkehr
+- TOP 8.1.4: UA Umwelt und Gesundheit
+- TOP 8.1.5: UA Kultur/Vereine/Initiativen/Sport
+- TOP 8.1.6: UA lokale Wirtschaft und Arbeit
