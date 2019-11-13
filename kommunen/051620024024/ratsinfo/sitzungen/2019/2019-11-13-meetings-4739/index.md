@@ -1,0 +1,51 @@
+# Sportausschuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2019-11-13T17:00:00+01:00
+- Ende: 2019-11-13T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/30
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4739
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/4739
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Formalien, Wahlen usw.
+- TOP 1: Feststellung ordnungsgemäß erfolgte Einladung und Beschlussfähigkeit - einstimmig zugestimmt
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Bestimmung eines Mitunterzeichners der Niederschrift
+- TOP -: Beschlussempfehlungen an den Rat
+- TOP 4: Kunstrasenplätze auf Neusser Sportanlagen - mehrheitlich beschlossen
+- TOP 5: Sporthafen Neuss: Sanierungsmaßnahmen und Verlagerung des Feuerlöschbootes - einstimmig zugestimmt
+- TOP -: Empfehlungen an Fachausschüsse, Beteiligung der Bezirksausschüsse
+- TOP -: Beschlüsse des Ausschusses gem. § 41 Abs. 2 GO NRW
+- TOP 6: Sportbaumaßnahmen TSV Norf - einstimmig zugestimmt
+- TOP 7: Antrag des SSV Neuss-Reuschenberg auf Bezuschussung eines Lagercontainers - einstimmig zugestimmt
+- TOP 8: Beratung Haushaltsplanentwurf 2020 für das Sportamt - mehrheitlich beschlossen
+- TOP 9: Maßnahmenliste zum Wirtschaftsplan 2020 des GMN für den Bereich Sport - einstimmig zugestimmt
+- TOP -: Anträge
+- TOP 10: Olympia an Rhein und Ruhr: Chancen für Neuss nutzen
+- TOP 10.1: Granulateinstreuung auf Neusser Kunstrasenplätzen - mehrheitlich abgelehnt
+- TOP 10.2: Basketballkörbe im Jahnstadion - einstimmig zugestimmt
+- TOP 10.3: Machbarkeitsstudie für eine Multifunktionshalle - mehrheitlich abgelehnt
+- TOP -: Mitteilungen der Verwaltung
+- TOP 11: Antrag des TUS Reuschenberg auf Errichtung eines Kunstrasenkleinspielfeldes - zur Kenntnis genommen
+- TOP 12: Zuschüsse zur Förderung des Sports - zur Kenntnis genommen
+- TOP 13: Sport im Park 2019 - zur Kenntnis genommen
+- TOP 14: Neuss macht mobil - Programm zur Bewegungs- und Talentförderung in Neuss - zur Kenntnis genommen
+- TOP 15: Sportstättenförderprogramm des Landes NRW "Moderne Sportstätten 2022" - zur Kenntnis genommen
+- TOP 16: Umgang mit Kunstrasen / Einfüllgranulat - zur Kenntnis genommen
+- TOP 17: Modernisierung und Kernsanierung des Nebengebäudes am Nordparkbad - zur Kenntnis genommen
+- TOP -: Beschlusscontrolling
+- TOP 18: Überarbeitung der Sportförderrichtlinien - zur Kenntnis genommen
+- TOP 19: Sportbaumaßnahmen SVG Weißenberg - zur Kenntnis genommen
+- TOP 20: Genehmigungsverfahren zur Altlastensanierung (2. Tennenplatz Norf, Tennenplätze Rosellen und Weißenberg) - zur Kenntnis genommen
+- TOP 21: Allwetter-Großspielfeld Rosellen (Antrag BZA Rosellen) - zur Kenntnis genommen
+- TOP 22: Errichtung eines Calsthenics-Parks in Uedesheim (Antrag BZA Uedesheim) - zur Kenntnis genommen
+- TOP 23: Modernisierung und Erweiterung Sportstätte Schorlemerstraße - zur Kenntnis genommen
+- TOP 24: Sanierung der Turnhalle Feuerbachweg (Antrag SPD-Stadtratsfraktion) - zur Kenntnis genommen
+- TOP 25: Modernisierung Jahnstadion (Fußball, Leichtathletik, u.a.) - zur Kenntnis genommen
+- TOP 26: Ertüchtigung Jahnstadion (Tennis-Hartplätze, Umkleidegebäude) - zur Kenntnis genommen
+- TOP 27: Bericht des GMN zum aktuellen Stand der Umsetzung der für den Sportbereich im Haushalt angesetzten Maßnahmen des GMN - zur Kenntnis genommen
