@@ -1,0 +1,72 @@
+# öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-11-13T16:00:00+01:00
+- Ende: 2019-11-13T17:12:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12790
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12790
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 05.11.19 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00245972.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00247206.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Abgesetzt. (nur Rat) Einführung einer Stadtverordneten
+- TOP 1.2: (nur Rat) Bericht über den Sachstand der Umsetzung von Ratsaufträgen
+- TOP 1.3: (nur Hauptausschuss) Bericht zur Mitgliedschaft in der Metropolregion Rheinland - Entgegennahme ohne Beschluss
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Themenkomplex Wuppertaler Schwebebahn
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion Freie Wähler "Themenkomplex Wuppertaler Schwebebahn" vom 05.11.2019 (VO/1003/19/1-Neuf.)
+- TOP 2.2: Große Anfrage : Präsenz von Vertretern der Stadt bei radikalen bis extremistischen Islam-Gemeinden
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion PRO Wuppertal "Präsenz von Vertretern der Stadt bei radikalen bis extremistischen Islam-Gemeinden" vom 30.10.2019 (VO/1051/19)
+- TOP 2.3: Aufrechnung wegen sozialwidrigem Verhalten
+- TOP 2.4: Ausschreibung für den Breitbandausbau in Wuppertal
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Genehmigung und Finanzierung des Rosensonntagszuges in Wuppertal - ungeändert beschlossen
+- TOP 3.2: Bürgerantrag zur Rücinahme der "Konfliktschaltung" Schwarzbach / Berliner Straße - Fußgänger- und Radfahrerfurt - zur Beratung und Entscheidung verwiesen
+- TOP 3.3: Bürgerantrag zum Thema "Nathrather Straße / Bahnstraße - Einrichtung eines Grünpfeils - zur Beratung und Entscheidung verwiesen
+- TOP 3.4: Bürgerantrag: Resolution zum Klimanotstand - zur Vorberatung verwiesen
+- TOP 3.5: Bürgerantrag zum Thema "Reinigung der Wupper durch eine Auffangvorrichtung für Plastikmüll" - zur Beratung und Entscheidung verwiesen
+- TOP 3.6: Bürgerantrag zum Thema "Feste des Vereins Islamischer Gemeinschaften" - ungeändert beschlossen
+- TOP 4: Anträge
+- TOP 4.1: (nur Rat) Ordnungsdienst, allg. Gefahrenabwehr in den Barmer Anlagen
+- TOP 4.2: (nur Rat) Resolution: Wir sind weltoffen, vielfältig und international!
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Von der Verwaltung zurückgezogen. Erste Änderungssatzung zur Änderung der Wahlordnung für die Wahl des Integrationsrates der Stadt Wuppertal vom 25.02.2014
+- TOP 6.2: Änderung der Geschäftsordnung des Gestaltungsbeirates - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 7.2: Außerplanmäßige Ausgabe: Digitalisierung von Akten - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligungsbericht 2018 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.2: Änderung der Betriebssatzung des Eigenbetriebes Wasser und Abwasser der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.3: Abberufung und Bestellung der Betriebsleitung des Eigenbetriebes Wasser und Abwasser der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.4: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser der der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Umgestaltung der Poststraße und Alten Freiheit - ungeändert beschlossen
+- TOP 11.2: Abgesetzt. Vorberatung nicht abgeschlossen. Verkauf des städtischen Grundstückes Berghauser Straße
+- TOP 11.3: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 11.4: Abgesetzt. Vorberatung nicht abgeschlossen. Dachbegrünung
+- TOP 11.5: Fortschreibung der Raum- und Gebäudeplanung der Stadtverwaltung - ungeändert beschlossen
+- TOP 11.6: Aktualisierung der Vorgehensweise beim Mobilitätskonzept für Wuppertal - ungeändert beschlossen
+- TOP 11.7: Neuregelungen beim Wuppertal-Pass - ungeändert beschlossen
+- TOP 11.8: (nur Rat) Beendigung der Rechtsstreitigkeiten zwischen der Stadt Wuppertal und der Stadt Remscheid wegen des DOC Remscheid-Lennep
+- TOP 11.8.1: (nur Rat) Antrag zur Drucksache VO/1075/19 Klage DOC beenden
+- TOP 11.9: (nur Rat) Investorenauswahlverfahren für das Historische Empfangsgebäude am Döppersberg
+- TOP 11.10: (nur Rat) Beschaffung von Ökostrom für die städtischen Liegenschaften
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 25./26. Mai 2020 in Essen - Benennung der Delegierten der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung Seniorenbeirat - Sozialverband - ungeändert beschlossen
+- TOP 12.5: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.6: (nur Rat) Nachbenennung einer/eines Delegierten in die Verbandsversammlung des Wupperverbandes
+- TOP 12.7: (nur Rat) Wahl eines Integrationsausschusses gemäß § 27 Absatz 12 Gemeindeordnung NRW anstelle des Integrationsrates
