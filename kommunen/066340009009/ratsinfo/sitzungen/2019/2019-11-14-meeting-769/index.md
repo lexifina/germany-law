@@ -1,0 +1,57 @@
+# Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)* (28. Sitzung)
+
+- Körperschaft: Kreisstadt Homberg (Efze)
+- Beginn: 2019-11-14T19:04:00+01:00
+- Ende: 2019-11-14T21:48:00+01:00
+- Ort: Stadthalle Homberg (Efze), Ziegenhainer Straße 19 a, 34576 Homberg (Efze), Großer Saal
+- Status: 
+- Gremium: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/organization/1-6
+- Ratsinformationssystem: https://rim.ekom21.de/homberg-efze/tops/?__=UGhVM0hpd2NXNFdFcExjZWfA7rNeXTQSZOjjxSAYvPw
+- OParl: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/meeting/769
+- Quelle: https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbc11NSh-GRpyfaAT_vpO77ia5y6F41s4XhaFibt4tqP/Bekanntmachung_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_14.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtverordnetenversammlung der Reformationsstadt Homberg (Efze)*) https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYH6geDJrh6V6P4PDzvUVAlai4vFZ31HLuTiJZ7fnoRy/Oeffentliche_Niederschrift_Stadtverordnetenversammlung_der_Reformationsstadt_Homberg_-Efze--_14.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: öffentliche Sitzung
+- TOP 1.: Kommunales Investitionsprogramm (KIP – Bund/Land) hier: Beratung und Beschlussfassung über die erneute teilweise Umstellung der Fördermittel im Landesprogrammteil - (kein Text vorhanden)
+- TOP 2.: Städtebauliches Konzept für einen Sportpark am Stellberg in Homberg (Efze) Hier: Beratung und Beschlussfassung zum weiteren Vorgehen
+- TOP 2.1: Städtebauliches Konzept für einen Sportpark am Stellberg in Homberg (Efze) Hier: Beratung und Beschlussfassung zum weiteren Vorgehen - (kein Text vorhanden)
+- TOP 3.: Einrichtung eines E-Bike Verleihsystem in Homberg (Efze) hier: a) Reflektion über die Durchführung des Projekts „Radfahren neu entdecken“ b) Einrichtung eines E-Bike-Verleihsystems in 2020 - (kein Text vorhanden)
+- TOP 4.: Neuordnung des Verkehrs im Kreuzungsbereich „Drehscheibe“ hier: Beratung zum weiteren Vorgehen im Bereich der Ziegenhainer Straße
+- TOP 4.1: Neuordnung des Verkehrs im Kreuzungsbereich „Drehscheibe“ hier: Beratung zum weiteren Vorgehen im Bereich der Ziegenhainer Straße - (kein Text vorhanden)
+- TOP 5.: Neuordnung des Verkehrs im Kreuzungsbereich „Drehscheibe“ hier: Beratung zum weiteren Vorgehen im Bereich der Kasseler Straße - (kein Text vorhanden)
+- TOP 6.: Städtebauförderprogramm „Zukunft Stadtgrün“ für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: a) Sachstandsbericht zur Umsetzung der Projekte aus dem ISEK mit Priorität I b) Erarbeitung einer Gesamtkonzeption für den „Alten Friedhof / Auf den Berglöcher“ und den „Neuen Friedhof“
+- TOP 6.1: Städtebauförderprogramm „Zukunft Stadtgrün“ für das Fördergebiet Burgberg mit angrenzenden Friedhöfen, Kleingartenanlagen und Stadtpark hier: a) Sachstandsbericht zur Umsetzung der Projekte aus dem ISEK mit Priorität I b) Erarbeitung einer Gesamtkonzeption für den „Alten Friedhof / Auf den Berglöcher“ und den „Neuen Friedhof“ - (kein Text vorhanden)
+- TOP 7.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung 2020 gemäß § 97 Absatz 3 HGO - (kein Text vorhanden)
+- TOP 8.: Nachwahl eines Ortsgerichtsvorstehers für den Ortsgerichtsbezirk Homberg (Efze) I Nachwahl eines Ortsgerichtsvorstehers für den Ortsgerichtsbezirk Homberg (Efze) II Nachwahl eines stv. Ortgerichtsvorstehers für den Ortsgerichtsbezirk Homberg (Efze)II Nachwahl von zwei Ortsgerichtsschöffen für den Ortsgerichtsbezirk Homberg (Efze) II - (kein Text vorhanden)
+- TOP 9.: Sachstandsberichte und sonstige Informationen
+- TOP 9.1: Sachstandsbericht über Beschlüsse der noch nicht abgearbeiteten Anträge der Stadtverordnetenversammlung
+- TOP 9.1.1: Antrag der SPD-Fraktion vom 15.03.2012 - betr. DSL
+- TOP 9.1.2: Antrag der SPD-Fraktion vom 10.01.2017 - betr. Informationstafeln zur Stadtgeschichte und Sehenswürdigkeiten in Homberg (Efze)
+- TOP 9.1.3: Antrag der SPD-Fraktion vom 10.02.2017 - betr. Wohnmobilstellplatz
+- TOP 9.1.4: Antrag der SPD-Fraktion vom 10.02.2017 - betr. WLAN-Angebot und der CDU-Fraktion vom 17.02.2017 - betr. WLAN-Versorgung
+- TOP 9.1.5: Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 20.08.2017 - betr. Jugend beteiligen
+- TOP 9.1.6: Bekämpfung Riesenbärenklau; hier: Sachstandsbericht
+- TOP 9.1.7: Antrag der SPD-Fraktion vom 04.10.2017 - betr. Entwicklung eines Radewegeentwicklungsplans für Homberg (Efze)
+- TOP 9.1.8: Antrag der SPD-Fraktion vom 26. Juni 2018 betr. Schaffen von "Chill Out-Zonen" im Stadtgebiet
+- TOP 9.1.9: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Runder Tisch Gesundheitsversorgung
+- TOP 9.1.10: Antrag der SPD-Fraktion vom 30. Juni 2018 betr. Initiative kinderfreundliches Homberg
+- TOP 9.1.11: Antrag der FWG-Fraktion vom 20. August 2018 betr. Verbesserung der Verkehrssicherheit: Kurve an L3224 oberhalb Basaltwerk
+- TOP 9.1.12: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Sicheres Homberg (Efze)
+- TOP 9.1.13: Antrag der SPD-Fraktion vom 16. Oktober 2018 betr. Resolution für zwei zusätzliche Polizeistreifen für die Polizeistation in Homberg (Efze)
+- TOP 9.1.14: Antrag der SPD-Fraktion vom 25. November 2018 (eing. 18. Dezember 2018) betr. Wahlwerbesatzung
+- TOP 9.1.15: Anträge der CDU- und FWG-Fraktion vom 1. März 2019 betr. Stellplätze im Bereich obere "Holzhäuser Straße" und "Enge Gasse" bzw. Errichtung einer Parkplatzfläche (Parkpalette) im Bereich zwischen Holzhäuser Straße 3 und 7
+- TOP 9.1.16: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verlängerung Bahnradweg Rotkäppchenland
+- TOP 9.1.17: Antrag der FWG-Fraktion vom 1. März 2019 betr. Verbesserung der Verkehrssicherheit: Einmündung L3224 "Nordumgehung" zu Kasseler Straße
+- TOP 9.1.18: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22.05.2019 betr. Efzewiesen - Naherholungsgebiet aufwerten
+- TOP 9.1.19: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 22. Mai 2019 betr. Keine Wildtiere im Zirkus - tierfreundliche Gemeinde Homberg
+- TOP 10.: Anträge
+- TOP 10.1: Antrag der BL Homberg vom 30.10.2019 betr. "Kreisstadt Homberg (Efze)" - (kein Text vorhanden)
+- TOP 10.2: Antrag der BL Homberg vom 30.10.2019 betr. Bürgerfragestunde - (kein Text vorhanden)
+- TOP 10.3: Antrag der BL Homberg vom 30.10.2019 betr. Unterrichtung über alle wichtigen Verwaltungsangelegenheiten" - (kein Text vorhanden)
+- TOP 11.: Anfragen
+- TOP 11.1: Anfrage der BL Homberg vom 30.10.2019 betr. Förderprogramme
+- TOP 11.2: Anfrage der BL Homberg vom 30.10.2019 betr. Ärztehaus
+- TOP 12.: Anregungen
