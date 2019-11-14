@@ -1,0 +1,72 @@
+# 40. Sitzung der Bezirksvertretung Nippes
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-14T17:00:00+01:00
+- Ende: 2019-11-14T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/24
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20528
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20528
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsrates gemäß § 27 der Gemeindeordnung das Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Peter-Ustinov-Schule - Annahme einer Schenkung - ungeändert beschlossen
+- TOP 7: Anfragen gemäß §§ 4 und 40 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Erhebung von Straßenbaubeiträgen nach § 8 KAG NRW für die Sanierung des Brunhildplatzes und des Balmungsweges in Köln-Mauenheim - Kenntnis genommen
+- TOP 7.1.2: Altlastenuntersuchungen und Ergebnisse zu Altlast 50503 - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Auf dem Ginsterberg - Kenntnis genommen
+- TOP 7.2.2: Verwendung von Stellplatzablösemitteln - Kenntnis genommen
+- TOP 7.2.3: Schulhof Kretzerstraße im Nordpark - Kenntnis genommen
+- TOP 7.2.4: Mülleimer Neusser Straße in Weidenpesch - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 40 Absatz 2 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Errichtung einer Mobilitätsstation am Longericher S-Bahn-Bahnhof - endgültig abgelehnt
+- TOP 8.1.2: Aufwertung des Kriegerplatzes - ungeändert beschlossen
+- TOP 8.1.3: Schaffung von Stellplätzen für Lastenfahrräder auf der Neusser Straße zwischen Auerstraße und Schillstraße - ungeändert beschlossen
+- TOP 8.1.4: Umgebung Lüttich-Kaserne - ungeändert beschlossen
+- TOP 8.1.5: Beleuchtung des FGÜ Riehler Gürtel/Garthestraße - ungeändert beschlossen
+- TOP 8.1.6: Parkbuchten Pohlmanstraße verbreitern - geändert beschlossen
+- TOP 8.1.7: Schulweg sichern - Ampelanlage Xantener Straße im Bereich Kretzerstraße - Sache ist erledigt
+- TOP -: Gemeinsamer Ersetzungsamtrag von SPD, Grünen und CDU - - geändert beschlossen
+- TOP 8.1.8: Kletterwand oder Kletterturm - geändert beschlossen
+- TOP 8.1.9: Entsiegelung von Plätzen und Flächen im Stadtbezirk Nippes - zurückgestellt
+- TOP 8.1.10: Wiedererrichtung einer Kindertagestätte in der Eschenbachstraße
+- TOP 8.2: Vorschläge und Anregungen gemäß § 37 Absatz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Aussetzen aller weiteren planerischen und baulichen Tätigkeiten auf dem ehemaligen Deponiegelände Simonskaul - zurückgestellt
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Generalsanierung der Turnhalle der Städtischen Katholischen Grundschule Osterather Straße 13, Köln-Nippes - Bau- und Einrichtungsbeschluss - ungeändert beschlossen
+- TOP 9.1.2: Errichtung einer City-WC Anlage am Standort Wilhelmplatz - ungeändert beschlossen
+- TOP 9.1.3: Beschluss über die Planung und Durchführung vom Maßnahmen auf den Schulhöfen der GGS und KGS Alzeyer Straße 12 - ungeändert beschlossen
+- TOP 9.1.4: Vergabe von bezirksorientierten Mitteln - ungeändert beschlossen
+- TOP 9.1.5: Stadtklima-/Stadtverschönerungsprogramm im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Städtebauliches Planungskonzept (vorhabenbezogener Bebauungsplan) "Simonskaul" in Köln-Weidenpesch;Stellungnahme der Bezirksvertretung Nippes zu den Ergebnissen der frühzeitigen Öffentlichkeitsbeteiligung - zurückgestellt
+- TOP 9.2.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 9.2.3: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - zurückgestellt
+- TOP 9.2.4: Konzept "Essbare Stadt" - ungeändert empfohlen
+- TOP 9.2.5: Sitzen statt Parken - Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 9.2.6: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert empfohlen
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Phosphorgewinnung aus Klärschlamm - Kenntnis genommen
+- TOP 10.2.2: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 10.2.3: Sachstand Überprüfung des Rückbaus freilaufender Rechtsabbieger - Kenntnis genommen
+- TOP 10.2.4: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 10.2.5: Gehwegbeleuchtung in der Schmiedegasse am Nordfriedhof - Kenntnis genommen
+- TOP 10.2.6: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 10.2.7: Makrofontests in der Nacht außerhalb der ICX-Hallen - Kenntnis genommen
+- TOP 10.2.8: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.2.9: Antrag der SPD AN/1488/2019 Aussetzen aller weiteren planerischen und baulichen Tätigkeiten auf dem ehemaligen Deponiegelände Simonskaul - Kenntnis genommen
+- TOP 10.2.10: Wiedererrichtung einer Kindertagesstätte in der Eschenbachstr. - Kenntnis genommen
