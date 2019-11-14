@@ -1,0 +1,142 @@
+# 30. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2019-11-14T16:30:00+01:00
+- Ende: 2019-11-14T22:13:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5446
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=5446
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=105&id=316638
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - vertagt
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des Bezirksbürgermeisters - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VIII-29 und Nr. VIII-30 hier: - Zwischenberichte (Teil A) - Schlussberichte (Teil B) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Zwischenberichte - (offen)
+- TOP 7.1.1: Regenwasserablauf unter der Bahnbrücke Bahnhofstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.2: Elcknerplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.3: Fahrradstellplätze Mahlsdorfer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.4: Nutzungsattraktivität des ÖPNV steigern Rudower Chaussee – Anbindung an den S-Bahnhof Adlershof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.5: Mit "Wifi4EU" freies WLAN im Bezirk ausbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.6: Beratungsangebot für von illegalen Suchtstoffen abhängige Menschen im Bezirk umgehend verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.7: Sportplatz des Anne-Frank-Gymnasiums öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.8: Lärmschutz im Umfeld der Autobahn und der Bahnanlagen in Alt-Treptow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.9: Informationsveranstaltung für das Kosmosviertel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.10: Weitere Querungsmöglichkeit auf der Neuen Krugallee errichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.11: Köpenzeile als Fahrradstraße ausweisen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.1.12: Aktions- und Maßnahmeplan zur gleichberechtigten Teilhabe von Menschen mit Behinderung in Treptow-Köpenick - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Schlussberichte - (offen)
+- TOP 7.2.1: Ausdehnung der nächtlichen Tempo 30-Zone in der Straße am Treptower Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.2: Sondermittel für "Schachfreunde Friedrichshagen" (SM 17-14) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.3: Fahrrad-Parkplätze schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.4: Beendigung der Befristung für Steganlagengenehmigungen in Treptow-Köpenick - überwiesen
+- TOP 7.2.5: Dauerhafte Beteiligung am europaweiten autofreien Tag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.6: Forschungen zu 100 Jahre Frauenwahlrecht in Treptow-Köpenick beauftragen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.7: Sondermittel für den "Behinderten-Sportverein Köpenick e. V." (SM 18-03) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.8: Sondermittel für den Verein "Motorbootclub Wendenschloß e. V." (SM 18-21) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.9: Bezirkliches Konzept zur Entwicklung der sozialen und grünen Infrastruktur in Treptow-Köpenick – SIKo 2016 (Stand Dezember 2017) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.10: Räumliches Konzept für die Gedenkstätte Köpenicker Blutwoche zeitnah entwickeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.11: Kindertagespflege stärken: Einzeltagespflegestellen und Verbundtagespflegestellen sind keine Zweckentfremdung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.12: S-Bahnhof Wilhelmshagen – barrierefreien Zugang ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.13: Sondermittel für den Verein "Pflanzer-Verein Gemütliches Heim e. V." (SM 19-04) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.14: Sichere Radwegauffahrt auf der Elsenstraße schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2.15: Irreführende Hinweisschilder in der Dörpfeldstraße entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Personelles / Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Sanierung des Dorfteiches und dessen Umgebung in Bohnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Zusammenarbeit mit Nachbarbezirken für touristische Potenziale - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Sauberkeit im Schilderwald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Schulweg und Kinderspielplatz zwischen Bohnsdorfer Weg und Rosestraße sicherer gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Überarbeitung und Aktualisierung des Integrationskonzeptes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Bänke für den Dorfteich Bohnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: E-Bike-Sharing: Dienstfahrräder flexibel zum Pendeln nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Erklärtafeln zu Flora und Fauna am Bohnsdorfer Dorfteich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Pilotprojekt "Eco-Toilette" - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: "Bürger-Etat" statt "Kungel-Kiezkasse" – mehr Demokratie wagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.11: Umgestaltung des Gesamtensembles aus Bohnsdorfer Dorfanger, Dorfkirche und Friedhof - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Bürgerinformationsveranstaltung zur Zukunft der Musikschule in Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Campus Sophie-Brahe-Gemeinschaftsschule "Am Plänterwald" - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Das Kiefernwäldchen in Adlershof – Bäume fällen für den Wohnungsbau - vertagt
+- TOP 10.2: Klimanotstand im Bezirk – Klimaschutz nicht verschlafen - vertagt
+- TOP 10.3: Kita und Hort an der Sophie-Brahe-Schule – Kita- und Hortplätze schaffen durch die Herstellung des vorgeschriebenen Brandschutzes - vertagt
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Gründung einer Grundschule im Ortsteil Oberschöneweide, Keplerstr. 10 in 12459 Berlin zum Schuljahr 2020/2021 - überwiesen
+- TOP 11.2: Erweiterung des räumlichen Geltungsbereichs der Verordnung zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Absatz 1 Satz 1 Nummer 2 des Baugesetzbuchs für das Gebiet "Alt-Treptow" im Bezirk Treptow-Köpenick von Berlin vom 24.06.2016 (72. GVBl. für Berlin vom 08.07.2016, S. 413) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Neufassung der Prüfkriterien für die Umsetzung der sozialen Erhaltungsverordnung in den Erhaltungsgebieten nach § 172 Absatz 1 Satz 1 Nummer 2 BauGB im Bezirk Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bezirkshaushaltsrechnung 2017 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Verkehrskonzeption für Grünau, Bohnsdorf und Altglienicke - vertagt
+- TOP 12.3: Verkehrskonzept Südost – Treptow-Köpenick verkehrlich zukunftsfähig machen - vertagt
+- TOP 12.4: Baulückenkataster für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Modellprojekt Schulgesundheitsfachkraft initiieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Mehr Sicherheit für Radfahrer: Radwegmarkierungen in Baumschulenweg - vertagt
+- TOP 12.7: Mehr Trinkbrunnen für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Radverkehrsverbindung zwischen Rahnsdorf und Wilhelmshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Flächenkonzept für (temporäre) Schulbauten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Zeitlich begrenzte Parkerlaubnis in der Lindenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Alle Buslinien verkehren in Treptow-Köpenick im 10-Minuten-Takt - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Verbesserung der Verkehrssituation an der Südostallee in Johannisthal - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: "Seniorpartner in School" - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Verkehrssicherheit an der Kreuzung Elsenstraße / Ecke Heidelberger Straße erhöhen - vertagt
+- TOP 12.15: Schutz der Baumscheiben in Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Beleuchtung Radwege Fürstenwalder Allee Richtung Stadtgrenze - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Kontrolle des Hundeauslaufs an Badestellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Parksituation in der Straße "Am Falkenberg" verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Beschilderung Kreuzung Schnellerstraße / Rudower Straße - vertagt
+- TOP 12.20: Mehr Ladestationen für E-Autos - vertagt
+- TOP 12.21: • Entwurf des Bebauungsplans XV-30a nebst Begründung • Entwurf der Rechtsverordnung zum Bebauungsplan XV-30a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.22: Bürgerbeteiligungsverfahren zur Erarbeitung des Verkehrsberuhigungskonzeptes in Oberschöneweide fortführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.23: Bedarfsampel Grünauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Bedarfsfußgängerampel Bulgarische Straße / Erwin-Bennewitz-Weg - ohne Änderungen in der BVV beschlossen
+- TOP 12.25: Fuß- und Radverkehrsbrücke über die Dahme zwischen Wendenschloß und Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Gedenktafel für die Opfer des Brotaufruhrs am 6. April 1945 in Rahnsdorf - vertagt
+- TOP 12.27: Sicherung vorhandener grüner und sozialer Infrastruktur in Spindlersfeld – Wohnungsneubau im Karree Färber- / Oberspree- / Ottomar-Geschke-Straße / Ahornallee - vertagt
+- TOP 12.28: Breitbandausbau für das Rathaus Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.29: Bouleplatz in Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Inklusive Ausgestaltung der ungedeckten und gedeckten Sportanlagen bei Sanierung und Neubau - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XV-62-1 ("Lohmühlenstraße") hier: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan XV-62-1 zur teilweisen Änderung des Bebauungsplans XV-62 im Bezirk Treptow-Köpenick, Ortsteil Alt-Treptow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XV-11, Ortsteil Niederschöneweide hier: Beschluss zur Änderung des Beschlusses über die Aufstellung des Bebauungsplans XV-11 - Reduzierung des Geltungsbereichs - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Benennung von zwei privaten Planstraßen im Ortsteil Rahnsdorf in Mausohrweg (Planstraße 1) und Abendseglersteig (Planstraße 2) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Benennung von zwei privaten Planstraßen sowie Umbenennung des Mittelweges (Abschnitt zwischen Wegedornstraße und Bohnsdorfer Weg) im Ortsteil Altglienicke in Chaukenstraße (Planstraße 1 sowie Mittelweg (Abschnitt zwischen Wegedornstraße und Bohnsdorfer Weg)) und Lugierring (Planstraße 2) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Beteiligung des Bezirksamtes am Europäischen Protesttag zur Gleichstellung von Menschen mit Behinderung - überwiesen
+- TOP 14.2: Gemeinschaftsschulstandort in Plänterwald stärken und ISS-Standort schaffen - überwiesen
+- TOP 14.3: Rückkehrberatung im Bezirk installieren - überwiesen
+- TOP 14.4: Einrichtung einer Bushaltestelle in Bohnsdorf - überwiesen
+- TOP 14.5: Interimsstandort der Musikschule verkehrssicher erreichen - überwiesen
+- TOP 14.6: "Adlershof in Treptow-Köpenick" – Kooperation zwischen WISTA und Bezirk fördern - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Barackensanierung im Dokumentationszentrum NS-Zwangsarbeit durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Ehemaliges Lager für Zwangsarbeiterinnen in Adlershof kenntlich machen - überwiesen
+- TOP 14.9: Überprüfung des Bedarfs an Fahrradbügeln - überwiesen
+- TOP 14.10: Gedenktafel für Ernst Reuter in der Siedlung Elsengrund - überwiesen
+- TOP 14.11: Baden in der Spree - überwiesen
+- TOP 14.12: Fußgängerüberweg Altglienicke Kirche - überwiesen
+- TOP 14.13: Zusätzliche Planstellen für das NS-Dokumentationszentrum - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Flagge zeigen zum Gedenktag für die Opfer transfeindlicher Gewalt - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Bahnsteig am S-Bahnhof Altglienicke überdachen - überwiesen
+- TOP 14.16: Geschwindigkeitsbegrenzung in der Straße "Hinter dem Kurpark" - überwiesen
+- TOP 14.17: Begrünte Wartehäuschen - überwiesen
+- TOP 14.18: Alte Gemeindeschule im Kiez von Alt-Treptow denkmalgerecht sanieren und zu einem Kiez-Zentrum entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Bebauungspläne für Nachverdichtung erstellen - vertagt
+- TOP 14.20: Gehweg in der Lohmühlenstraße in Alt-Treptow befestigen - überwiesen
+- TOP 14.21: Leihfahrräder und Leih-E-Roller nur stationsgebunden oder in GPS-Parkzonen zulassen - überwiesen
+- TOP 14.22: Kennzeichnung und Teil-Ausbau einer Radanlage am Teltowkanal - überwiesen
+- TOP 14.23: Smarte Thermostate an Heizungen in Schulen - überwiesen
+- TOP 14.24: Lösung für den Radweg auf dem Hegemeisterweg in Rahnsdorf endlich herbeiführen - überwiesen
+- TOP 14.25: "Traumstrand küsst Hauptstadt" - Zwischennutzung ermöglichen - überwiesen
+- TOP 14.26: Dachstuhl und Innenraum der Stadtkirche St. Laurentius sanieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.27: Willi-Sänger-Sportanlage sanieren und ausbauen - überwiesen
+- TOP 14.28: Sichere Querung des Fürstenwalder Damms - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Umgang des Schul- und Sportamtes mit dem Schüler- und Schülerinnenkongress des Bezirksschülerausschusses Treptow-Köpenick - vertagt
