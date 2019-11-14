@@ -1,0 +1,83 @@
+# 47. Sitzung der Bezirksvertretung Chorweiler
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-14T17:00:00+01:00
+- Ende: 2019-11-14T20:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/25
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20143
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20143
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00746559.pdf
+- Ergebnisprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00746559.pdf
+- Wortprotokoll: Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00746559.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde gemäß § 39 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anregungen und Stellungnahmen des Integrationsbeirates gemäß § 27 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 7.1: Beantwortung von Anfragen aus vorangegangenen Sitzungen
+- TOP 7.1.1: Nutzung von Schulhöfen als Spiel- und Aufenthaltsfläche - zurückgestellt
+- TOP 7.1.2: Geplante GAG-Baumaßnahme in Merkenich "In den Kämpen/Derichsweg" - Kenntnis genommen
+- TOP 7.1.3: Brandschutz und Prävention an Bahngleisanlagen im Bezirk Chorweiler - Kenntnis genommen
+- TOP 7.1.4: Nichtangemeldete Baumfällungen - Kenntnis genommen
+- TOP 7.1.5: Aktueller Sachstand zu Haus Fühlingen - Kenntnis genommen
+- TOP 7.1.6: Grundstück Langenbergstraße / Flüchtlingsheim - Kenntnis genommen
+- TOP 7.2: Neue Anfragen
+- TOP 7.2.1: Sachstandsanfrage Blumenbergsweg Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP 7.2.2: Sachstandsanfrage zum Retentionsraum Worringen Anfrage der SPD-Fraktion - Kenntnis genommen
+- TOP -: Stellungnahme der Verwaltung liegt vor - Kenntnis genommen
+- TOP 7.2.3: Wochenmarkt in Chorweiler Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.4: Baumpflege im Bezirk Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.5: S-Bahnhaltestelle Blumenberg Anfrage der Fraktion Bündnis´90 / Die Grünen - Kenntnis genommen
+- TOP 7.2.6: Spielhallen im Stadtbezirk 6 Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 7.2.7: Anlage von Fahrradwegen an der Willi-Suth-Allee im Stadtteil Chorweiler Anfrage der CDU-Fraktion - Kenntnis genommen
+- TOP 8: Anträge gemäß §§ 3 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 8.1: Stellungnahmen zu Anträgen aus vorangegangenen Sitzungen
+- TOP 8.1.1: Einrichtung eines Fußgängerüberweges auf der Schulstraße in Köln-Pesch - zurückgestellt
+- TOP 8.1.2: Verkehrszählung an der B9 - Ortslage Worringen - zurückgestellt
+- TOP 8.2: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Förderung durch die Bezirksvertretung Chorweiler Gemeinsamer Dringlichkeitsantrag der CDU-Fraktion, der SPD-Fraktion, der Fraktion Bündnis´90 / Die Grünen und Die Linke - ungeändert beschlossen
+- TOP 8.3: Vorschläge und Anregungen gemäß § 37 Absatz 5 Satz 5 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9: Verwaltungsvorlagen
+- TOP 9.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.1.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ungeändert beschlossen
+- TOP 9.1.2: Erlaubnis zur Fällung von sechs Winterlinden an der Swinestraße - geändert beschlossen
+- TOP 9.1.3: Projektanträge im Rahmen des Verfügungsfonds für den Sozialraum „Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 9.1.4: Änderung der Richtlinie der Stadt Köln zur Gewährung von Zuwendungen aus dem Verfügungsfonds im Rahmen des Programms „Starke Veedel – Starkes Köln“ für das Gebiet „Blumenberg, Chorweiler und Seeberg-Nord“ - ungeändert beschlossen
+- TOP 9.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 9.2.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o. Nr., 50765 Köln-Blumenberg, Gemarkung Worringen, Flur 50, Flurstück 1872 tlw. - ungeändert beschlossen
+- TOP 9.2.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP 9.2.3: Konzept "Essbare Stadt" - ungeändert beschlossen
+- TOP 9.2.4: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 9.2.5: Stadtgrün naturnah Grüne Infrastruktur - zurückgestellt
+- TOP 9.2.6: Beschluss über die Planung und Durchführung eines Wettbewerblichen Dialogverfahrens gemäß § 119 Abs. (6) GWB und § 18 VgV sowie der anschließenden integrierten Planung zur Entwicklung eines städtebaulichen Masterplans auf Grundlage des Leitbildes Kre - zurückgestellt
+- TOP 9.2.7: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - zurückgestellt
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.1.1: Sitzung der Bezirksvertretung Chorweiler am 21.11.2019 - Kenntnis genommen
+- TOP 10.1.2: Förderung durch die Bezirksvertretung Chorweiler im Jahr 2020 - Kenntnis genommen
+- TOP 10.1.3: Interfraktionelles Gespräch zum Thema "Verkehr" - ungeändert beschlossen
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Allgemeine und spezielle Beratungs- und Unterstützungsangebote für EU-Bürgerinnen und -Bürger in Köln - Kenntnis genommen
+- TOP 10.2.2: Bekämpfung des Japanischen Staudenknöterichs mit der Heißwassermethode - Kenntnis genommen
+- TOP 10.2.3: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 10.2.4: Herstellung der Erschließungsanlage Bolligstraße von Delrather Str. bis Lievergesberg in Köln-Worringen - Kenntnis genommen
+- TOP 10.2.5: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 10.2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.2.7: Ergänzung des Reinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 10.3: Ständige Tagesordnungspunkte
+- TOP 10.3.1: Fühlinger See / Zweckverband Stöckheimer Hof
+- TOP 10.3.2: Hochwasserschutzkonzept
+- TOP 10.3.3: Flüchtlingsunterbringung im Kölner Norden
+- TOP 11: Mündliche Anfragen
+- TOP 11.1: Beantwortung von mündlichen Anfragen aus vorangegangenen Sitzungen
+- TOP 11.2: Neue mündliche Anfragen
+- TOP 11.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.3: Anfragen der Seniorenvertretung
