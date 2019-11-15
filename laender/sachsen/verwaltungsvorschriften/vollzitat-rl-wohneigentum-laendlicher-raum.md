@@ -1,8 +1,8 @@
 # Vollzitat: RL Wohneigentum ländlicher Raum
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2018-12-21 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/17903.1
+- Datum: 2019-11-15 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/17903.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-21.12.2018
+15.11.2019
 bis
-14.11.2019
+31.12.2019
 
 RL Wohneigentum ländlicher Raum
 
@@ -62,12 +62,12 @@ Gegenstand der Förderung
 
 1.
 
-Gefördert werden die Errichtung von Wohnraum, der Erwerb von bestehendem Wohnraum, der Umbau von Nichtwohnraum in Wohnraum sowie die Erweiterung von bestehendem Wohnraum, wenn er vom Zuwendungsempfänger selbstgenutzt wird (selbstgenutztes Wohneigentum). Sofern beim Erwerb von bestehendem Wohnraum Sanierungsmaßnahmen erforderlich sind, können diese ebenfalls gefördert werden.
+Gefördert werden die Errichtung von Wohnraum, der Erwerb von bestehendem Wohnraum sowie der Umbau von Nichtwohnraum in Wohnraum, wenn er vom Zuwendungsempfänger selbstgenutzt wird (selbstgenutztes Wohneigentum). Sofern beim Erwerb von bestehendem Wohnraum Sanierungsmaßnahmen erforderlich sind, können diese ebenfalls gefördert werden.
 
 
 2.
 
-Gefördert wird die Sanierung von Wohneigentum, das bereits im Eigentum des Zuwendungsempfängers steht und selbstgenutzt wird. Zur Sanierung gehören alle Maßnahmen, die den Wohnwert des selbstgenutzten Wohneigentums angemessen und zeitgemäß erhalten oder erhöhen. Im Fall von Maßnahmen der Wohnwerterhöhung sind nur Maßnahmen förderfähig, die bestehende Bauteile im Wert erhöhen.
+Gefördert wird die Sanierung von Wohneigentum sowie die Erweiterung von selbstgenutztem Wohneigentum. Zur Sanierung gehören alle Maßnahmen, die den Wohnwert des selbstgenutzten Wohneigentums angemessen und zeitgemäß erhalten oder erhöhen. Im Fall von Maßnahmen der Wohnwerterhöhung sind nur Maßnahmen förderfähig, die bestehende Bauteile im Wert erhöhen.
 
 
 3.
@@ -327,9 +327,9 @@ Fsn-Nr.: 554-V18.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 21. Dezember 2018
+Fassung gültig ab: 15. November 2019
 
-Fassung gültig bis: 14. November 2019
+Fassung gültig bis: 31. Dezember 2019
 
 Drucken/Speichern
 
@@ -354,7 +354,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/17903.1
+https://www.revosax.sachsen.de/vorschrift/17903.2
 Stand vom
 18.11.2026
 
