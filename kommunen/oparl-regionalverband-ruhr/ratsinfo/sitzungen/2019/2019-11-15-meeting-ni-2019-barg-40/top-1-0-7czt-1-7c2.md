@@ -1,0 +1,6 @@
+# TOP 1: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 21. Sitzung des Betriebsausschusses RVR Ruhr Grün (2019-11-15)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2019-BARG-40%7Czt_1%7C2
