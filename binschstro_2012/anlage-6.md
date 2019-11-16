@@ -72,7 +72,7 @@ C. Überholzeichen
   |  |  |  |
   | Überholen an Steuerbord des Vorausfahrenden verlangt |  |  |
   |  |  |  |  |  |
-  |  | ▬ ▬ ▪ |  | 2 lange Töne, | „Ich will auf Ihrer Steuerbordseite überholen“ |
+  |  |  |  | 2 lange Töne, | „Ich will auf Ihrer Steuerbordseite überholen“ |
   |  |  |  | 1 kurzer Ton |  | § 6.10 Nummer 2 Buchstabe b |
   |  |  |  | des Überholenden |  |  |
   |  |  |  |  |  |  |
@@ -84,7 +84,7 @@ C. Überholzeichen
   |  |  |  | des Vorausfahrenden |  | § 6.10 Nummer 4 Satz 1 Buchstabe a |
   |  |  |  |  |  |
   |  | ■ ■ |  | 2 kurze Töne | „Einverstanden, ich werde auf Ihrer Backbordseite überholen“ |
-  |  |  |  | des Überholenden |  | § 6.10 Nummer 4 Satz 2 Buchstabe b |
+  |  |  |  | des Überholenden |  | § 6.10 Nummer 4 Satz 2 Buchstabe a |
   |  |  |  |  |  |
   | Unmöglichkeit des Überholens |  |  |
   |  |  |  |  |  |

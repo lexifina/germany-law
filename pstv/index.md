@@ -133,5 +133,5 @@
 - [Anlage 8 (zu den §§ 48, 70)](anlage-8.md)
 - [Anlage 9 (zu den §§ 48, 70)](anlage-9.md)
 - [Anlage 10 (zu § 29)](anlage-10.md)
-- [Anlage 12 (zu § 34)](anlage-12.md)
 - [Anlage 11 (zu § 31 Absatz 2)](anlage-11.md)
+- [Anlage 12 (zu § 34)](anlage-12.md)

@@ -28,6 +28,9 @@ Abschnitt I — Hauptzeichen
 | A.4 | Verbot des Begegnens und Überholens(§ 6.08 Nummer 1 Satz 1) |  |
 |  |  |  |
 |  |  |  |
+| A.4.1 | Verbot des Begegnens und Überholens für Verbände untereinander (§ 6.08 Nummer 1 Satz 1) |  |
+|  |  |  |
+|  |  |  |
 | A.5 | Stillliegeverbot auf der Seite der Wasserstraße, auf der das Tafelzeichen steht(§ 7.02 Nummer 1 Buchstabe c) |  |
 |  |  |  |
 |  |  |  |
@@ -49,7 +52,7 @@ Abschnitt I — Hauptzeichen
 | A.10 | Verbot, außerhalb der angezeigten Begrenzung zu fahren(§ 6.24 Nummer 2 Buchstabe a) |  |
 |  |  |  |
 |  |  |  |
-| A.11 | Verbot der Einfahrt, die Vorbereitungen zur Fortsetzung der Fahrt sind jedoch zu treffen(§ 6.28a Nummer 2 Satz 1 Buchstabe c) |  |
+| A.11 | Verbot der Einfahrt, die Vorbereitungen zur Fortsetzung der Fahrt sind jedoch zu treffen(§ 6.28a Nummer 2 Satz 2 Buchstabe c) |  |
 |  |  |  |
 |  |  |  |
 | A.12 | Fahrverbot für ein Fahrzeug mit Maschinenantrieb |  |
@@ -81,22 +84,22 @@ Abschnitt I — Hauptzeichen
 |  |  |  |
 | B. | Gebotszeichen |  |
 |  |  |  |
-| B.1 | Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen(§ 6.12) |  |
+| B.1 | Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen(§ 6.12 Nummer 1) |  |
 |  |  |  |
 |  |  |  |
-| B.2 | a) | Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der Backbordseite des Fahrzeugs liegt(§ 6.12) |  |
+| B.2 | a) | Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der Backbordseite des Fahrzeugs liegt(§ 6.12 Nummer 1) |  |
 |  |  |  |
-|  | b) | Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der Steuerbordseite des Fahrzeugs liegt(§ 6.12) |  |
-|  |  |  |
-|  |  |  |
-| B.3 | a) | Gebot, die Fahrwasserseite zu halten, die auf der Backbordseite des Fahrzeugs liegt(§ 6.12) |  |
-|  |  |  |
-|  | b) | Gebot, die Fahrwasserseite zu halten, die auf der Steuerbordseite des Fahrzeugs liegt(§ 6.12) |  |
+|  | b) | Gebot, auf die Fahrwasserseite hinüberzufahren, die auf der Steuerbordseite des Fahrzeugs liegt(§ 6.12 Nummer 1) |  |
 |  |  |  |
 |  |  |  |
-| B.4 | a) | Gebot, das Fahrwasser nach Backbord zu überqueren(§ 6.12) |  |
+| B.3 | a) | Gebot, die Fahrwasserseite zu halten, die auf der Backbordseite des Fahrzeugs liegt(§ 6.12 Nummer 1) |  |
 |  |  |  |
-|  | b) | Gebot, das Fahrwasser nach Steuerbord zu überqueren (§ 6.12) |  |
+|  | b) | Gebot, die Fahrwasserseite zu halten, die auf der Steuerbordseite des Fahrzeugs liegt(§ 6.12 Nummer 1) |  |
+|  |  |  |
+|  |  |  |
+| B.4 | a) | Gebot, das Fahrwasser nach Backbord zu überqueren(§ 6.12 Nummer 1) |  |
+|  |  |  |
+|  | b) | Gebot, das Fahrwasser nach Steuerbord zu überqueren(§ 6.12 Nummer 1) |  |
 |  |  |  |
 |  |  |  |
 | B.5 | Gebot, unter bestimmten Bedingungen anzuhalten(§ 6.26 Nummer 2 Satz 2, § 6.28 Nummer 2 Satz 2 und § 6.29 Nummer 2 Satz 1) |  |
@@ -122,6 +125,9 @@ Abschnitt I — Hauptzeichen
 | B.11 | a) | Gebot, Sprechfunk zu benutzen(§ 4.05 Nummer 6) |  |  |
 |  |  |  |
 |  | b) | Gebot, Sprechfunk auf dem angegebenen Kanal zu benutzen(§ 4.05 Nummer 6)Beispiel: Kanal 11 |  |  |
+|  |  |  |
+|  |  |  |
+| B.12 | Gebot zur Nutzung von Landstromanschlüssen(§ 7.06 Nummer 4) |  |
 |  |  |  |
 |  |  |  |
 | C. | Zeichen für Einschränkungen |  |
@@ -162,7 +168,7 @@ Abschnitt I — Hauptzeichen
 |  |  |  |
 | E. | Hinweiszeichen |  |
 |  |  |  |
-| E.1 | Erlaubnis zur Durchfahrt (allgemeine Zeichen)(§ 3.25 Nummer 1 Buchstabe a Doppelbuchstabe bb Dreifachbuchstabe aaa, § 6.08 Nummer 2 Satz 1 Buchstabe b, § 6.27 Nummer 2 Satz 1 und § 6.28a Nummer 4) |  |
+| E.1 | Erlaubnis zur Durchfahrt (allgemeines Zeichen)(§ 3.25 Nummer 1 Buchstabe a Doppelbuchstabe bb Dreifachbuchstabe aaa, § 6.08 Nummer 2 Satz 1 Buchstabe b, § 6.27 Nummer 2 Satz 1 und § 6.28a Nummer 4) |  |
 |  |  |  |
 |  |  |  |
 | E.2 | Kreuzung einer Hochspannungsleitung |  |
@@ -198,7 +204,7 @@ Abschnitt I — Hauptzeichen
 | E.5.6 | Liegestelle für ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14 Nummer 2 führen muss(§ 7.06 Nummer 1) |  |
 |  |  |  |
 |  |  |  |
-| E.5.7 | Liegestelle für ein Fahrzeug der Schubschifffahrt, dass die Bezeichnung nach § 3.14 Nummer 3 führen muss(§ 7.06 Nummer 1) |  |
+| E.5.7 | Liegestelle für ein Fahrzeug der Schubschifffahrt, das die Bezeichnung nach § 3.14 Nummer 3 führen muss(§ 7.06 Nummer 1) |  |
 |  |  |  |
 |  |  |  |
 | E.5.8 | Liegestelle für ein anderes Fahrzeug als ein Fahrzeug der Schubschifffahrt, das nicht die Bezeichnung nach § 3.14 führen muss(§ 7.06 Nummer 1) |  |

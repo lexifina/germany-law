@@ -32,7 +32,7 @@ I. Allgemeines
   |  |  | 11 |  |  |
   | § 3.10 | Schubverband Nummer 1: Schubverband |
   |  |  | 12 |  |  |
-  | § 3.10 | SchubverbandNummer 1 Buchstabe c: Außer dem schiebenden Fahrzeug mehr als zwei von hinten in ganzer Breite sichtbare Fahrzeuge |
+  | § 3.10 | SchubverbandNummer 1 Buchstabe c: Außer dem schiebenden Fahrzeug zwei oder mehr von hinten in ganzer Breite sichtbare Fahrzeuge |
   |  |  | 13 |  |  |
   | § 3.10 | SchubverbandNummer 2: Zwei schiebende Fahrzeuge |
   |  |  | 14 |  |  |
@@ -143,8 +143,11 @@ I. Allgemeines
   | § 3.32 | Satz 1 Buchstabe b Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu verwenden |
   |  |  | 62 |  |  |
   | § 3.33 | Verbot des Stillliegens nebeneinander |
+  | § 28.04 | Nummer 8 Buchstabe a Doppelbuchstabe aa Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG) |
   |  |  | 63 |  |  |
   | § 6.04 | BegegnenNummer 3: Begegnen an der Steuerbordseite |
   |  |  | 64 |  |  |
   | § 8.12 | Bezeichnung beim Einsatz von Tauchern |
   | §§ 21.21, 22.21, 23.21, 24.21 Bezeichnung eines Sportfahrzeugs beim Einsatz von Tauchern |
+  |  |  | 65 |  |  |
+  | § 2.06 | Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen |

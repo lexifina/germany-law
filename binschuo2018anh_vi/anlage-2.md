@@ -90,16 +90,18 @@ Ausbildungs- und Prüfungsinhalte
   g) Anschluss von Verbrauchern 400 V Drehstromnetz
   h) Berührungsschutz/Schutzmaßnahmen
   i) Stromwandlung
-14. Gewässerschutz und Abfallbeseitigung gemäß Kapitel 28 der BinSchStrO
-  a) Begriffsbestimmung – Allgemein
-  b) Begriffsbestimmungen – Ladungsbereich
+14. Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt nach CDNI
+  a) Begriffsbestimmung und Geltungsbereich
+  b) Verbot der Einbringung und Einleitung
   c) Allgemeine Sorgfaltspflicht
-  d) Sorgfaltspflicht beim Bunkern
-  e) Verbot der Einbringung und Einleitung
-  f) Sammlung und Behandlung der Abfälle an Bord
-  g) Ölkontrollbuch, Abgabe an Sammelstellen
-  h) Bilgenentölungsboote
-  i) Anstrich und Außenreinigung der Fahrzeuge.
+  d) Organisation und Kontrolle der Sammlung, Abgabe und Annahme von Abfällen
+  e) Ölkontrollbuch
+  f) Sammlung der Abfälle an Bord, Abgabe an Sammelstellen
+15. Festlegungen in den Polizeiverordnungen zum Gewässerschutz in der Rhein- und Binnenschifffahrt
+  a) Sammlung und Behandlung von Schiffsabfällen
+  b) Allgemeine Sorgfaltspflicht
+  c) Sorgfaltspflicht beim Bunkern
+  d) Anstrich und Außenreinigung der Fahrzeuge.
 Teil 2
 Prüfung
 Durch die Prüfung ist festzustellen, ob der Prüfling befähigt ist, den Anforderungen des Matrosen-Motorwarts zu entsprechen.

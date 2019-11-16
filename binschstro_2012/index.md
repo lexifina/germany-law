@@ -13,7 +13,7 @@
 - [§ 1.04 Allgemeine Sorgfaltspflicht](0001-04.md)
 - [§ 1.05 Verhalten unter besonderen Umständen](0001-05.md)
 - [§ 1.06 Benutzung der Wasserstraße](0001-06.md)
-- [§ 1.07 Anforderungen an die Beladung und Höchstzahl der Fahrgäste](0001-07.md)
+- [§ 1.07 Anforderungen an die Beladung und freie Sicht; Höchstzahl der Fahrgäste](0001-07.md)
 - [§ 1.08 Bau, Ausrüstung und Besatzung der Fahrzeuge](0001-08.md)
 - [§ 1.09 Besetzung des Ruders](0001-09.md)
 - [§ 1.10 Mitführen von Urkunden und sonstigen Unterlagen](0001-10.md)
@@ -42,7 +42,8 @@
 - [§ 2.03 Schiffseichung](0002-03.md)
 - [§ 2.04 Einsenkungsmarken und Tiefgangsanzeiger](0002-04.md)
 - [§ 2.05 Kennzeichen der Anker](0002-05.md)
-- [§ 2.06 Verhaltenspflichten](0002-06.md)
+- [§ 2.06 Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen(Anlage 3: Bild 65)](0002-06.md)
+- [§ 2.07 Verhaltenspflichten](0002-07.md)
 
 ### Kapitel 3 Bezeichnung der Fahrzeuge
 
@@ -215,7 +216,8 @@
 - [§ 8.11 Bezeichnung von Fanggeräten der Fischerei](0008-11.md)
 - [§ 8.12 Bezeichnung beim Einsatz von Tauchern(Anlage 3: Bild 64)](0008-12.md)
 - [§ 8.13 Verbot des Kitesurfens](0008-13.md)
-- [§ 8.14 Verhaltenspflichten](0008-14.md)
+- [§ 8.14 Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen](0008-14.md)
+- [§ 8.15 Verhaltenspflichten](0008-15.md)
 
 ### Kapitel 9 Fahrgastschifffahrt
 
@@ -816,7 +818,8 @@
 - [§ 28.01 Behandlung von Schiffsabfällen](0028-01.md)
 - [§ 28.02 Allgemeine Sorgfaltspflicht](0028-02.md)
 - [§ 28.03 Sorgfaltspflicht beim Bunkern](0028-03.md)
-- [§ 28.04 Anstrich und Außenreinigung der Fahrzeuge](0028-04.md)
+- [§ 28.04 Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)](0028-04.md)
+- [§ 28.05 Anstrich und Außenreinigung der Fahrzeuge](0028-05.md)
 - [Anlage 1 Unterscheidungsbuchstabe oder -buchstabengruppe des Staates,in dem der Heimat- oder Registerort des Fahrzeugs liegt(nur Hinweis)](anlage-1.md)
 - [Anlage 2](anlage-2.md)
 - [Anlage 3 Bezeichnung der Fahrzeuge](anlage-3.md)
