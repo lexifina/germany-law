@@ -1,0 +1,77 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2019-11-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5150810
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5150810
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der FDP
+- TOP 4.5: sonstige Anträge
+- TOP 5.: Entscheidungen [allgemein, Budgetangelegenheiten, Bürgerversammlungsempfehlungen]
+- TOP 6.: Anhörungen
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 8.: Unterrichtungen
+- TOP 2.1.: Aufstellung von Outdoor-Sport-Geräten in der Grünanlage zwischen Borstei und SWM
+- TOP 2.2.: Einrichtung von kombinierten Geh- und Fahrradwegen in der Untermenzinger Straße zwischen Allacher Straße und Memminger Platz
+- TOP 2.3.: Abwicklung von künftigem Hol- und Bringverkehr für den Neubau des Kindergartens Dachauer Straße/ Ecke Haylerstraße
+- TOP 2.4.: Ersatz des Kopfsteinpflasters durch Asphaltdecke im Anfangsbereich der Brieger Straße
+- TOP 2.5.: Parksituation in der Ernst-Platz-Straße, Karl-Lipp-Straße, Gleißmüllerstraße, Hugo-Troendle-Straße und Zügelstraße
+- TOP 2.6.: Verkehrssituation und Verkehrsfluss in der Gärtnerstraße, Riesstraße, Hardenbergstraße, Pelkovenstraße
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Bauvorhaben: 1. Abbachstr. 27 - 27a
+- TOP 3.3.2.: Baumfällungen im Rahmen von Bauvorhaben:
+- TOP 3.3.3.: Planungen zur Gestaltung der beiden Grünflächen auf dem sog. Meillergelände (Bericht über Termin mit Baureferat am 04.11.2019)
+- TOP 3.3.4.: Projektvorstellung SAP Garden Olympiapark (Bericht über Termin mit Red Bull GmbH am 06.11.2019)
+- TOP 4.: Anträge
+- TOP 4.1.1.: Abbiegen von Radfahrern vom Sapporobogen in die Pickelstraße
+- TOP 4.1.2.: Kontoführung zeitgemäß - auch für Bezirksausschüsse
+- TOP 4.3.1.: Trinkwasserbrunnen am sog. "Moosacher Stachus"
+- TOP 5.1.: (E) Stadtbezirksbudget Förderverein der Grundschule Amphionpark Ausbildung von Streitschlichter*innen vom 18.-20.11.2019 796,00 € / Az. 0262.0-10-0198
+- TOP 5.2.: (E) Stadtbezirksbudget Förderverein der Mittelschule München Moosach e.V. Ausbildung der neuen Streitschilchter*innen vom 16. -19.12.2019 1.329,50 €, Az. 0262.0-10-0199
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß OB-Vollmacht: Verlegung eines Obstverkaufsstandes, Bunzlauer Platz 7 vor "Meile Moosach"
+- TOP 6.1.: Antragsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte StR-Antrag Nr. 14-20 / A 06018
+- TOP 6.2.: Anhörungsrecht auch bei stadtbezirksübergreifenden Maßnahmen des Umweltschutzes, insbesondere der Luftreinhaltung; Änderung der Ziffer 7.1 des Katalogs für das Referat für Gesundheit und Umwelt (Anlage 1 zur BA-Satzung)
+- TOP 6.3.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 6.4.: Christbaumverkauf auf städt. Flurstück 1419/8 Allacher Straße
+- TOP 6.5.: Spielen in der Stadt e.V.: Planung mobile Spiel- und Kunstaktionen 2020 und 2021
+- TOP 6.6.: Baumfällungen (Baumschutz): 1. Lauterbachstr. 28 2. Nanga-Parbat-Str. 67 3. Nanga-Parbat-Str. 79 4. Pelkovenstr. 56 5. Pirschstr. 15 6. Gröbenzeller Str. 6 7. Am Kapuzinerhölzl 3 8. Lechelstr. 32
+- TOP 6.7.: Änderung der BA-GeschäftsO hinsichtlich Handhabung der Ordnung und Hausrecht
+- TOP 7.1.: Verkehrssicherheit durch geeignete Maßnahmen erhöhen - Kreuzung Bauberger-/ Schragenhofstraße/ Am Kapuzinerhölzl sicher machen [BA-Antrag Nr. 14-20/B 06535; Markierung einer Fahrradfurt parallel zur abknickenden Vorfahrtsstraße]
+- TOP 7.2.: Einbeziehung der Borstei in den Schulsprengel der neuen Grundschule an der Emmy-Noether-Straße [BA-Antrag Nr. 14-20/B 06178; Bei Sprengelbildung durch RegObb kurz vor Inbetriebnahme der GS wird geprüft, ob Kapazität der GS ausreicht, auch Borstei-Kinder aufzunehmen]
+- TOP 7.3.: Zweiwege-Öffnung Radweg an der Nederlinger Straße [Schreiben BA10 vom 17.10.2018; Mindestbreite Weg 2,0m nicht erfüllt. Sinnvoll wäre Gesamtabschnitt Nederlinger Straße neu zu überplanen, statt immer mehr kleinteilige Anpassungen].
+- TOP 7.4.: Zwei-Richtungs-Fahrradwege in der Pickelstraße bis Dachauer Straße und in der Dachauer Straße von der Pickelstraße bis Sapporobogen [Schreiben BA10 vom 17.07.2019; Öffnung der einbahngeregelten Pickelstraße erfolgt; nicht aber in Dachauer Straße wegen zu geringer Wegmindestbreite]
+- TOP 7.5.: Einrichtung eines Wahllokals in der Floristenschule am Reinmarplatz [Schreiben BA10 vom 15.07.2019; Wahllokal ist im 9. Stadtbezirk; jedoch 2 neue Wahllokale in den Räumen der SWM.]
+- TOP 7.6.: SV "Beschleunigung und Verbesserung der Zuverlässigkeit des Buslinienverkehrs - 2. Maßnahmenbündel", hier: Stellungnahme des BA 10 vom 24.10.2019 [aktuelle Forderung -Busbeschleunigungsspur kann nicht eingearbeitet werden, da "Allacher Straße" bereits im 1. Maßnahmenbündel 2018 beschlossen wurde; wird aber weitergeleitet und gesondert beantwortet.]
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Verkehrliche Anordnungen nach § 45 StVO: 1. Riesstr. 49; 30 km/h-Geschwindigkeitsbeschränkung im Bereich des Kindergartens
+- TOP 8.3.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 8.4.: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP 8.5.: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 8.6.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 8.7.: (U) Maßnahmen zur Verbesserung der Dienstleistungsqualität und zur Beschleunigung der Genehmigungsverfahren - LBK zukunftsfähig ausstatten
+- TOP 8.8.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 8.9.: (U) Umsetzung der Ergebnisse der Selbstverständnisdebatte 2018 der Kommission für Stadtgestaltung; Sachmittelbedarf
+- TOP 8.10.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP 8.11.: (U) Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation Empfehlung Nr. 14-20 / E 02501 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln am 19.03.2019
+- TOP 8.12.: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 8.13.: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP 8.14.: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 8.15.: Mobilfunk: Errichtung einer Mobllfunksendeanlage - Suchkreismeldung Bauberger Straße - nicht-öffentlich -
+- TOP 8.16.: Vorkaufsrecht nach dem BauGB: (Vorkaufsprüfung abgeschlossen) Ehrenbreitsteiner Straße - nicht-öffentlich -
+- TOP 8.17.: WEB - alle Anträge vom 01.10.2019 bis 15.10.2019 - nicht-öffentlich -
