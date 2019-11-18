@@ -1,0 +1,53 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-18T15:00:00+01:00
+- Ende: 2019-11-18T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18640
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18640
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362562.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362562.pdf
+- Wortprotokoll: Sitzungspaket öffentlicher Teil http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362562.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die öffentliche Sitzung des Haupt-und Finanzausschusses am 09.09.2019 (6/2019) - einstimmig beschlossen
+- TOP 3: Anfrage der CDU-Ratsfraktion: Millionengrab Alte Kämmerei? - beantwortet
+- TOP 4: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2019. - zur Kenntnis genommen
+- TOP 5: Gebührenkalkulation Abfall für 2020 - Empfehlung mehrheitlich beschlossen
+- TOP 6: 30. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (Abfallgebührensatzung) - Empfehlung mehrheitlich beschlossen
+- TOP 7: Gebührenkalkulation Straßenreinigung für 2020 - Empfehlung einstimmig beschlossen
+- TOP 8: 34. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - Empfehlung einstimmig beschlossen
+- TOP 9: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Landeshauptstadt Düsseldorf (Sondernutzungssatzung) - Empfehlung einstimmig beschlossen
+- TOP 10: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2020 - Empfehlung mehrheitlich beschlossen
+- TOP 11: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf zum 01.01.2020 - Empfehlung mehrheitlich beschlossen
+- TOP 12: Fortschreibung des Rettungsdienstbedarfsplans sowie Änderung der Gebührentarife zur Gebührensatzung über die Inanspruchnahme des Rettungsdienstes der Landeshauptstadt Düsseldorf vom 15.12.2005 - Empfehlung einstimmig beschlossen
+- TOP 13: Änderungsordnung der Entgeltordnung für freiwillige Hilfeleistungen und Leistungen des vorbeugenden Brandschutzes der Feuerwehr der Landeshauptstadt Düsseldorf vom 24.10.2016 sowie der Entgelte - Empfehlung mehrheitlich beschlossen
+- TOP 14: Satzung zur Änderung der Satzung über Kostenersatz für Einsätze und über Gebühren für die Durchführung von Brandverhütungsschauen der Feuerwehr der Landeshauptstadt Düsseldorf vom 24.10.2016 sowie der Änderung der Gebührentarife - Empfehlung mehrheitlich beschlossen
+- TOP 15: Änderung der Gebührensatzung für die Städtische Clara-Schumann-Musikschule - passieren lassen
+- TOP 16: Entwicklungskonzept für die Städtische Clara-Schumann-Musikschule - passieren lassen
+- TOP 17: Neufassung der Honorarordnung für Veranstaltungen der Volkshochschule Düsseldorf - passieren lassen
+- TOP 17.1: Ergänzungsantrag der CDU-Ratsfraktion zur Vorlage SCHUA/013/2019, Neufassung der Honorarordnung für Veranstaltungen der Volkshochschule Düsseldorf
+- TOP 18: Deutsche Oper am Rhein: Erneuerung Inspizientenanlage und Bühnenwagen -Ausführungs- und Finanzierungsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 19: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Erweiterungsneubaus Theodor-Andresen- und Franz-Marc- Förderschulen, Lohbachweg 16 - 18 - zurückgezogen
+- TOP 20: Radwegeplanung Franklinbrücke/Rethelstraße - Ausführungs- und Finanzierungsbeschluss - - Empfehlung mehrheitlich beschlossen
+- TOP 21: Unterrather Straße, Klinke 2.BA - Ausführungs- und Finanzierungsbeschluss - Empfehlung einstimmig beschlossen
+- TOP 22: Freizeitstätte Garath, Fritz-Erler-Straße 21, Stadtbezirk 10 - Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 23: Neubau des Technischen Verwaltungsgebäudes (TVG) - 2. Bedarfsbeschluss - - passieren lassen
+- TOP 24: Errichtung der "Giersiepen Stiftung" - passieren lassen
+- TOP 25: Gründung einer städtischen Mobilitätsgesellschaft - passieren lassen
+- TOP 26: Richtlinien für die Förderung von selbstgenutztem Wohneigentum - Anpassung der Richtlinien - Empfehlung mehrheitlich beschlossen
+- TOP 27: Integration der Laborkooperation Düsseldorf/Mettmann für die Untersuchung amtlicher Lebensmittelproben in das Chemische und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper (CVUA-RRW) - Empfehlung einstimmig beschlossen
+- TOP 28: Integration der Laborkooperation Düsseldorf/Mettmann für die Untersuchung amtlicher Lebensmittelproben in das Chemische und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper (CVUA-RRW) – Vertretung Verwaltungsrat - Empfehlung einstimmig beschlossen
+- TOP 29: Genehmigung einer Dienstreise von Ausschussmitgliedern zur MIPIM 2020 - mehrheitlich beschlossen
+- TOP 30: B-Plan-Verfahren Nr. 08/002 Nördlich Gerresheimer Landstraße - passieren lassen
+- TOP 31: Antrag der CDU-Ratsfraktion: "Umweltspuren": Versuch sofort abbrechen und beauftragte alternative Verkehrsmaßnahmen umsetzen - zurückgezogen
+- TOP 32: Annahme eines Kunstwerks für den öffentlichen Raum - passieren lassen
+- TOP 33: Strategischer Ausbau des SAP-Systems in der zentralen Verwaltung sowie der Führungs-und Steuerungsebene - Empfehlung einstimmig beschlossen
+- TOP 34: Garath 2.0 - Den Wandel gestalten, Richtlinie zur Vergabe von Fördermitteln - Empfehlung einstimmig beschlossen
+- TOP 35: Spendenaufruf für Düsseldorfs Partnerpräfektur Chiba –„Düsseldorf hilft Chiba“ - Empfehlung einstimmig beschlossen
