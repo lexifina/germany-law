@@ -1,0 +1,77 @@
+# öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-11-18T16:05:00+01:00
+- Ende: 2019-11-18T19:25:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12762
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/12762
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 08.11.19 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00246008.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00247451.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Abgesetzt. Einführung einer Stadtverordneten - abgesetzt
+- TOP 1.2: Bericht über den Sachstand der Umsetzung von Ratsaufträgen - Entgegennahme ohne Beschluss
+- TOP 1.3: (nur Hauptausschuss) Bericht zur Mitgliedschaft in der Metropolregion Rheinland
+- TOP 1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Themenkomplex Wuppertaler Schwebebahn - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Fraktion Freie Wähler "Themenkomplex Wuppertaler Schwebebahn" vom 21.10.2019 (VO/1003/19) - Entgegennahme ohne Beschluss
+- TOP 2.2: Präsenz von Vertretern der Stadt bei radikalen bis extremistischen Islam-Gemeinden - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion PRO Wuppertal "Präsenz von Vertretern der Stadt bei radikalen bis extremistischen Islam-Gemeinden" vom 30.10.2019 (VO/1051/19) - Entgegennahme ohne Beschluss
+- TOP 2.3: Aufrechnung wegen sozialwidrigem Verhalten - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der Fraktion DIE LINKE "Aufrechnung wegen sozialwidrigem Verhalten" vom 05.11.2019 (VO/1071/19) - Entgegennahme ohne Beschluss
+- TOP 2.4: Ausschreibung für den Breitbandausbau in Wuppertal - Entgegennahme ohne Beschluss
+- TOP 2.4.1: Antwort auf die Anfrage der FDP-Fraktion "Ausschreibung für den Breitbandausbau in Wuppertal" vom 31.10.2019 (VO/1065/19) - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Genehmigung und Finanzierung des Rosensonntagszuges in Wuppertal
+- TOP 3.2: Bürgerantrag zur Rücknahme der "Konfliktschaltung" Schwarzbach / Berliner Straße - Fußgänger- und Radfahrerfurt
+- TOP 3.3: Bürgerantrag zum Thema "Nathrather Straße / Bahnstraße - Einrichtung eines Grünpfeils"
+- TOP 3.4: Bürgerantrag: Resolution zum Klimanotstand
+- TOP 3.5: Bürgerantrag zum Thema "Reinigung der Wupper durch eine Auffangvorrichtung für Plastikmüll"
+- TOP 3.6: Bürgerantrag zum Thema "Feste des Vereins Islamischer Gemeinschaften"
+- TOP 4: Anträge
+- TOP 4.1: Ordnungsdienst, allg. Gefahrenabwehr in den Barmer Anlagen - zur Vorberatung verwiesen
+- TOP 4.2: Resolution: Wir sind weltoffen, vielfältig und international! - ungeändert beschlossen
+- TOP 4.2.1: Ergänzungsantrag zur Drucksache VO/1098/19 Keine Vertreter der Stadt bei Veranstaltungen von judenfeindlichen Extremisten und fünften Kolonnen ausländischer Diktatoren - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 12 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Abgesetzt. Von der Verwaltung zurückgezogen. Erste Änderungssatzung zur Änderung der Wahlordnung für die Wahl des Integrationsrates der Stadt Wuppertal vom 25.02.2014 - abgesetzt
+- TOP 6.2: Änderung der Geschäftsordnung des Gestaltungsbeirates - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln - Entgegennahme ohne Beschluss
+- TOP 7.2: Außerplanmäßige Ausgabe: Digitalisierung von Akten - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Beteiligungsbericht 2018 der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8.2: Dritte Änderung der Betriebssatzung des Eigenbetriebes Wasser und Abwasser der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.3: Abberufung und Bestellung der Betriebsleitung des Eigenbetriebes Wasser und Abwasser der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.4: Bestellung eines Wirtschaftsprüfers für den Eigenbetrieb Wasser und Abwasser der Stadt Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Umgestaltung der Poststraße und Alten Freiheit - ungeändert beschlossen
+- TOP 11.2: Abgesetzt. Vorberatung nicht abgeschlossen. Verkauf des städtischen Grundstückes Berghauser Straße - abgesetzt
+- TOP 11.3: Ein Wuppertal für Alle - Fortschreibung des Handlungsprogramms zur Wuppertaler Inklusionspolitik 2018/2019 - Entgegennahme ohne Beschluss
+- TOP 11.4: Abgesetzt. Vorberatung nicht abgeschlossen. Dachbegrünung - abgesetzt
+- TOP 11.5: Fortschreibung der Raum- und Gebäudeplanung der Stadtverwaltung - ungeändert beschlossen
+- TOP 11.6: Aktualisierung der Vorgehensweise beim Mobilitätskonzept für Wuppertal - ungeändert beschlossen
+- TOP 11.7: Neuregelungen beim Wuppertal-Pass - ungeändert beschlossen
+- TOP 11.8: Beendigung der Rechtsstreitigkeiten zwischen der Stadt Wuppertal und der Stadt Remscheid wegen des DOC Remscheid-Lennep - Entgegennahme ohne Beschluss
+- TOP 11.8.1: Antrag zur Drucksache VO/1075/19 Klage DOC beenden - ungeändert beschlossen
+- TOP 11.8.2: Antrag zur Drucksache VO/1075/19 Sonderprüfung der rechtlichen Beratungsleistungen im Zusammenhang mit der Klage gegen das geplante DOC in Remscheid-Lennep - ungeändert beschlossen
+- TOP 11.9: Investorenauswahlverfahren für das Historische Empfangsgebäude am Döppersberg - Entgegennahme ohne Beschluss
+- TOP 11.10: Beschaffung von Ökostrom für die städtischen Liegenschaften
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 25./26. Mai 2020 in Essen - Benennung der Delegierten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.2: Gremienbesetzung Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.4: Gremienumbesetzung Seniorenbeirat - Sozialverband - ungeändert beschlossen
+- TOP 12.5: Gremienbestzungen - ungeändert beschlossen
+- TOP 12.6: Nachbenennung einer/eines Delegierten in die Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.7: Wahl eines Integrationsausschusses gemäß § 27 Absatz 12 Gemeindeordnung NRW anstelle des Integrationsrates - geändert beschlossen
+- TOP 12.8: Gremienbesetzung/Benennung - ungeändert beschlossen
