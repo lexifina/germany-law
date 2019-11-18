@@ -1,0 +1,7 @@
+# TOP 3.4: Bürgerantrag: Resolution zum Klimanotstand
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Rates der Stadt Wuppertal (2019-11-18)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/95191
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/45065
