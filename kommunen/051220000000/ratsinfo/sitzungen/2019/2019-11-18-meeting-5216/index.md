@@ -1,0 +1,51 @@
+# Bezirksvertretung Ohligs/Aufderhöhe/Merscheid (40. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-11-18T17:00:00+01:00
+- Ende: 2019-11-18T18:15:00+01:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-92
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTNxQYC8VJ2mIhHQV9ni_JM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5216
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaHn2MEGrH6PgNNGLou20HlOzUyhQjSul1C-evurfV1n/Bekanntmachung_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_18.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Ohligs/Aufderhöhe/Merscheid) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV3c7Xq5Y_A3W_gRf-CKARLWJRk8j4e5N8pN5BYeY3I1/Oeffentliche_Niederschrift_Bezirksvertretung_Ohligs-Aufderhoehe-Merscheid_18.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Brücken Engelsberger Hof
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 09.09.2019
+- TOP 4.: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW - mündlicher Bericht -
+- TOP 4.1: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Mitwirkung gem. § 37 Abs. 4 Gemeindeordnung NRW - mündlicher Bericht -
+- TOP 5.: Schulentwicklungsplan 2019 - 2029
+- TOP 5.1: Schulentwicklungsplan 2019 – 2029 hier: Austausch Steckbrief Nr.18
+- TOP 6.: Sachstandsbericht zur Umsetzung des Kreisverkehrs Bonner Straße gemäß dem Beschluss zum Haushalt 2020 hier: Antrag der BfS-Fraktion vom 12.09.2019
+- TOP 6.1: Planung eines Kreisverkehrs an der Bonner Straße/Langhansstraße/L 288
+- TOP 7.: Barrierefreier Zugang zur S-Bahn Antrag der CDU-Bezirksfraktion vom 05.11.2019
+- TOP 8.: Verbesserung von Wegeverbindungen im Bereich Börkhauser Bach
+- TOP 9.: Antrag zur Fällung von fünf Bäumen an der Grundschule Uhlandstraße
+- TOP 10.: Boulebahn Kinderspielplatz Park-/ Wittenbergstr.
+- TOP 11.: IP Life Projekt „Atlantische Sandlandschaften“ - weitere Umsetzung der Maßnahmen in der Ohligser Heide
+- TOP 12.: Freie Budgetmittel 2019
+- TOP 12.1: Freie Budgetmittel 2019
+- TOP 12.2: Freie Budgetmittel 2019
+- TOP 12.3: Freie Budgetmittel 2019
+- TOP 13.: Verschiedenes
+- TOP 13.1: Mitteilungen der Verwaltung
+- TOP 13.1.1: Gefahrenbaumfällungen verschiedene Straßen/Orte im Stadtgebiet von Solingen-Ohligs/Aufderhöhe/Merscheid
+- TOP 13.1.2: Planfeststellungsverfahren für das Vorhaben „Erneuerung der Eisenbahnbrücke Schnittert“
+- TOP 13.1.3: Verkehrsberuhigende Maßnahme Höhe Engelsberger Hof hier: Antrag der Bezirksfraktion Bündnis 90/Die Grünen vom 19.03.2019
+- TOP 13.1.3.1: Veloroute 1 Düsseldorf-Hilden-Solingen-Düsseldorf: Corporate-Design-Handbuch
+- TOP 13.1.3.2: Integriertes Stadtteilentwicklungskonzept Ohligs: Freiraumplanerischer Wettbewerb " Umgestaltung der Fußgängerzone und Marktplatz" - Sachstandsbericht
+- TOP 13.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung der Bezirksvertretung Ohligs/Aufderhöhe/Merscheid am 09.09.2019
+- TOP 4.: Verschiedenes
+- TOP 4.1: Mitteilungen der Verwaltung
+- TOP 4.2: Anfragen an die Verwaltung
