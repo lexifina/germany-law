@@ -1,0 +1,54 @@
+# Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung (40. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-11-19T17:00:00+01:00
+- Ende: 2019-11-19T20:26:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-41
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTeJrVjDL8p7taQnXx8a5dM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5306
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRxJoYYHIjFLx-rhHOkKqc6BYwY8rOmpxicyyE1zbi95/Bekanntmachung_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_19.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRClEJWRq8VhOaPXeC4ihwABuHqOqLx8cDxtp1uYSUFp/Oeffentliche_Niederschrift_Ausschuss_fuer_Soziales-_Gesundheit-_Wohnungswesen-_Senioren_und_Beschaeftigungsfoerderung_19.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Wohnberechtigungsschein
+- TOP 1.2: Förderprogramm zur Bekämpfung von Kinderarmut in benachteiligten Quartieren
+- TOP 1.3: Integrationshelfer
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 38. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 12.09.2019
+- TOP 4.: Vorstellung und Tätigkeitsbericht des Selbsthilfebüros im Stadtdienst Gesundheit - mündlicher Bericht -
+- TOP 5.: Methadon-Programm - Zukünftige Versorgung in Solingen
+- TOP 6.: Auf- und Ausbau der Prävention im Bereich der Frühen Hilfen
+- TOP 7.: Integrationsprogramm 2020 - Erste Lesung -
+- TOP 8.: Berichtswesen für das Kommunale Jobcenter
+- TOP 9.: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. - mündlicher Bericht -
+- TOP 10.: Verschiedenes
+- TOP 10.1: Mitteilungen der Verwaltung
+- TOP 10.1.1: Sachstand Situation Substituierter in Solingen
+- TOP 10.1.2: Aktuelle Situation und Unterbringung von Geflüchteten
+- TOP 10.1.3: Umsetzung des Urteils BVerfG in Sachen Sanktionen
+- TOP 10.1.4: Sachstandsbericht zur Umsetzung des Bundesteilhabegesetzes (BTHG) im LVR-Dezernat Soziales
+- TOP 10.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Jahresabschluss 2018 Städtisches Klinikum Solingen gemeinnützige GmbH hier: Konkretisierung und Erläuterung der unter dem Punkt 'Fazit' genannten Prozesse, Vorlage Nr. 5930/2019
+- TOP 1.2: Städtisches Klinikum Solingen Hier: Anfrage von DIE LINKE und BfS zu Vertrauensverlust in die Geschäftsführung des Klinikums
+- TOP 1.3: Städtisches Klinikum Solingen Hier: Anfrage von DIE LINKE zu Ausschreibung und Außenvergabe einzelner Aufgaben bzw. Betriebsteile
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 38. Sitzung des Ausschusses für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung am 12.09.2019
+- TOP 4.: Wirtschaftsplan 2020 Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 5.: Entwicklung Masterplan Städtisches Klinikum Solingen gemeinnützige GmbH 2025 bis Sept. 2020
+- TOP 6.: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — weiteres Vorgehen in Sachen Geschäftsführung
+- TOP 6.1: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — weiteres Vorgehen in Sachen Geschäftsführung – hier: Antrag der FDP-Fraktion zu II. Bildung einer Findungskommission
+- TOP 6.2: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — weiteres Vorgehen in Sachen Geschäftsführung hier: Antrag DIE LINKE vom 24.10.2019
+- TOP 7.: Städtisches Klinikum Solingen gemeinnützige GmbH - Nachbesetzung Chefarzt/-ärztin Nephrologie
+- TOP 7.1: Städtisches Klinikum Solingen gemeinnützige GmbH - Nachbesetzung Chefarzt/-ärztin Nephrologie
+- TOP 8.: Städtisches Klinikum Solingen gemeinnützige GmbH - Ausschreibung Radiologie
+- TOP 9.: Verschiedenes
+- TOP 9.1: Mitteilungen der Verwaltung
+- TOP 9.2: Anfragen an die Verwaltung
