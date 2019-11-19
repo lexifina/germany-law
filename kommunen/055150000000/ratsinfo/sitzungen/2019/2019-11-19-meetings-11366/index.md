@@ -1,0 +1,52 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-11-19T17:06:00+01:00
+- Ende: 2019-11-19T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/480
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11366
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11366
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00454014.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpflichtung und Einführung neuer Mitglieder
+- TOP 2: Festsetzung der Tagesordnung
+- TOP 2.1: Festsetzung der Tagesordnungspunkte, bei denen die Anwesenheit von Verwaltungsmitarbeitern erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Einbringen von Eingaben
+- TOP 5: Umweltschutz, Klimaschutz und Baumaßnahmen
+- TOP 5.1: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022" - einstimmig geändert beschlossen
+- TOP 5.2: Handlungsprogramm Klimaschutz 2030 für Münster - mehrheitlich geändert beschlossen
+- TOP 5.3: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 5.4: Bericht zur Realisierbarkeit und Kostenschätzung der Forderungen der Fridays for Future - zur Kenntnis genommen
+- TOP 5.5: Vermüllung öffentlicher Räume stoppen - einstimmig beschlossen
+- TOP 5.6: Planungs- und Baubeschluss: Einrichtung der Schillerstraße/des Lütkenbecker Weges zwischen Hansaring und Theodor-Scheiwe-Straße als Fahrradstraße - einstimmig beschlossen
+- TOP 5.7: Breitbandausbau im Stadtgebiet Münster - Flächendeckende Gigabit-Versorgung der Gewerbegebiete - einstimmig beschlossen
+- TOP 5.8: Grundsatzbeschluss und Errichtungsbeschluss für ein Schulgebäude und eine Zweifachsporthalle auf der Konversionsfläche York: - einstimmig beschlossen
+- TOP 5.9: Johann-Conrad-Schlaun-Gymnasium: Grundsatzbeschluss für einen Verbleib am Standort Sonnenstraße und zur Sanierung sowie zum Teilneubau für ein 3-zügiges Gymnasium - mehrheitlich beschlossen
+- TOP 5.10: Abwassergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 5.11: Errichtungsbeschluss: Dauerhafte Erweiterung der städtischen Kindertageseinrichtung Am Edelbach in Münster-Coerde, Bezirk Nord - einstimmig beschlossen
+- TOP 5.12: Gewässergebührensatzung: Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 5.13: Umbau und Erweiterung der Pleisterschule - mehrheitlich geändert beschlossen
+- TOP 5.14: Fertigbauklassen für die Talentschule - Waldschule Kinderhaus - einstimmig beschlossen
+- TOP 5.15: Neubau einer 4-Gruppen-Kindertageseinrichtung am Nordkirchenweg in Münster-Hiltrup, Freianlagen - einstimmig beschlossen
+- TOP 5.16: Erarbeitung eines Sanierungskonzeptes zur Promenade - einstimmig beschlossen
+- TOP 5.17: Antrag der AfD-Ratsgruppe lfd. Nr. A-R/0030/2019 „Insektenhotels auf öffentlichen Flächen“ - einstimmig beschlossen
+- TOP 5.18: Erneuerung der Schaltanlagen im Pumpwerk Coermühle 52 - einstimmig beschlossen
+- TOP 5.19: Fahrradtauglicher Ausbau der Betriebswege am Dortmund-Ems-Kanal (DEK) - einstimmig beschlossen
+- TOP 5.20: Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Mitte - einstimmig beschlossen
+- TOP 5.21: Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Südost - einstimmig beschlossen
+- TOP 5.22: Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Ost - einstimmig beschlossen
+- TOP 5.23: Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk West - einstimmig beschlossen
+- TOP 5.24: Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Nord - einstimmig beschlossen
+- TOP 5.25: Maßnahmenprogramm 2020 - 2021 des Amtes für Mobilität und Tiefbau für die überbezirklichen Baumaßnahmen im Stadtbezirk Hiltrup - einstimmig beschlossen
+- TOP 5.26: Geplante Veranlagungen in 2020 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) - zur Kenntnis genommen
+- TOP 5.27: Geplante Veranlagungen in 2020 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) - zur Kenntnis genommen
+- TOP 5.28: Geplante Veranlagungen in 2020 zu Erschließungsbeiträgen nach dem Baugesetzbuch (BauGB) und Straßenbaubeiträgen nach dem Kommunalabgabengesetz NRW (KAG) - zur Kenntnis genommen
+- TOP 6: Beratung des Entwurfs des Haushaltsplanes 2020 sowie des Finanzplanes und des Investitionsplanes 2020ff
+- TOP 7: Beantwortung von Anfragen und Beratung von Anträgen
+- TOP 8: Verschiedenes
