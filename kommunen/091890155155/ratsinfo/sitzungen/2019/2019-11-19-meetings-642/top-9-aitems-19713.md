@@ -1,0 +1,8 @@
+# TOP 9: Verbesserung des örtlichen ÖPNV - Einheitlicher Tarif im Stadtgebiet
+
+- Sitzung: Sitzung des Finanzausschusses (2019-11-19)
+- Körperschaft: Stadt Traunstein
+- Öffentlich: ja
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/agendaitems/19713
+- Ergebnis: Beratungsergebnis
+- Beratung: https://oparl.digitalfabrix.de/bodies/Stadt-Traunstein/consultations/4251
