@@ -1,0 +1,158 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2019-11-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5174591
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5174591
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2.: Beschluss über die endgültige Tagesordnung
+- TOP 3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4.: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 5.: Anträge
+- TOP 6.: Entscheidungen
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.3: Weitere Entscheidungen
+- TOP 7.: Anhörungen
+- TOP 8.: Unterrichtungen
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1.: Regsam
+- TOP 2.: Kinder und Jugend
+- TOP 3.: Behinderte und Barrierefreiheit
+- TOP 4.: Ausländer und Flüchtlinge
+- TOP 5.: Frauen und Mädchen
+- TOP 6.: Internet
+- TOP 7.: Baumschutz
+- TOP 8.: Gegen Rechtsextremismus
+- TOP 9.: Denkmalschutz
+- TOP 10.: Mieterbeirat
+- TOP II.2.: Projekt Milchstr. 4
+- TOP 1.: Berichte von wahrgenommenen Terminen
+- TOP 2.: Nächste UA-Sitzungen
+- TOP 3.: Nächste BA-Sitzung
+- TOP 4.: Sonstige Termine
+- TOP A: Allgemeines
+- TOP 4.2.1.: Bordsteinabsenkung an der Grütznerstraße - Antwort Baureferat liegt vor -
+- TOP 5.1.: Aufklärungsaktion: Was ist eine Fahrradstraße ?
+- TOP 5.2.: Fahrradstraße in der Kirchenstraße: Nachbesserungen
+- TOP 5.3.: Weitere Radlständer in der Weißenburger Str. 41
+- TOP 5.4.: Rosenheimer Platz stadteinwärts: Radfahrstreifen
+- TOP 5.5.: Stolperfalle und Ampel auf Fußüberweg am Ostbahnhof entfernen
+- TOP 5.6.: Wer kommt ins ehemalige Sudhaus des Unionsbräu ?
+- TOP 5.7.: Beschleunigung der Planungen zum Aus-/Umbau der Regerbrücke
+- TOP 5.8.: Fraktionssprecher-Unterlagen über Alfresco zur Verfügung stellen
+- TOP 5.9.: Ganzheitliches Fahrradabstellkonzept für den Ostbahnhof erarbeiten !
+- TOP 6.1.1.: (E) Stadtbezirksbudget AKA e.V. - Aktiv für interKulturellen Austausch Projekt "Kräutergarten - Gesunde Ernährung" ab 01.01.2020 6.916,98 € / Az. 0262.0-5-0264 - siehe auch UA Soziales -
+- TOP 6.1.2.: (E) Stadtbezirksbudget Förderverein Freunde der Schule an der Kirchenstraße e.V. Tanzprojekt vom 01.12.2019 - 31.05.2020 2.756,25 € / Az. 0262.0-5-0265 - siehe auch UA Soziales -
+- TOP 6.1.3.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Pilgersheimer- und Humboldtstraße / Schaffung einer 30er-Zone ab Wittelsbacherbrücke bis Falkenstraße - siehe auch UA Gesundheit, Umwelt und Verkehr -
+- TOP 6.1.4.: (E) Stadtbezirksbudget Initiative "Weihnachtsaktion" Gutscheine für bedürftige Familien 7.500,00 € / Az. 0262.0-5-0266
+- TOP 6.1.5.: (E) Stadtbezirksbudget Morgen e.V. 7. Interkulturelles Märchenfest am 08.12.2019 2.420,00 € / Az. 0262.0-5-0267
+- TOP 6.2.1.: Erweiterung einer bestehenden Freischankfläche für das Hotel Restaurant Ritzi in der Maria-Theresia-Str. 2 a - siehe auch UA Arbeit und Wirtschaft -
+- TOP 6.2.2.: Erweiterung einer bestehenden Freischankfläche für "Il Padrino" in der Kirchenstr. 44 - siehe auch UA Arbeit und Wirtschaft -
+- TOP 7.1.: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 7.2.: Anhörungsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte
+- TOP 7.3.: Anhörungsrecht auch bei stadtbezirksübergreifenden Maßnahmen des Umweltschutzes, insbesondere der Luftreinhaltung; Änderung der Ziffer 7.1 des Katalogs für das Referat für Gesundheit und Umwelt (Anlage 1 zur BA-Satzung)
+- TOP 8.1.1.: Ergänzung des Stadtmöblierungskataloges um Tretrollerständer und Ständer für Elektroscooter
+- TOP 8.1.2.: Radverkehr im Baustellenbereich: Franziskanerstr. 45
+- TOP 8.1.3.: Bäume pflanzen in der Oberen Au
+- TOP 8.1.4.: Zweite S-Bahnstammstrecke: Sicherheit geht vor Abbiegeassistenten bei allen LKWs verbindlich vorschreiben (Antrag an Deutsche Bahn)
+- TOP 8.1.5.: Pflanzung von Bäumen in der Sedanstraße
+- TOP 8.1.6.: Ehrenamtliche BA-Arbeit mit Alfresco vereinfachen
+- TOP 8.1.7.: Fangampel am Genoveva-Schauer-Platz
+- TOP 8.1.8.: Grün- und Erholungsflächen auf dem auslösenden Gelände nachweisen - keine Kompensation ermöglichen II
+- TOP 8.1.9.: Durchführung einer außerordentlichen Bürgerversammlung der Stadtbezirke 5 und 14 zu den aktuellen Planungen 2. S-Bahn Stammstrecke
+- TOP 8.3.1.: (U) Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2020 bis 2026
+- TOP 8.4.1.: Infoblatt 11/19
+- TOP B: Berichte aus den Unterausschüssen und der BA-Beauftragten
+- TOP I.: Bericht der Beauftragten
+- TOP II.: UA Kultur und Freizeit
+- TOP II.1.: Projektmittel-Anfrage Kultur / Lothringer13
+- TOP III.: UA Soziales
+- TOP 1.: Entscheidungen
+- TOP 1.1.: (E) Stadtbezirksbudget AKA e.V. - Aktiv für interKulturellen Austausch Projekt "Kräutergarten - Gesunde Ernährung" ab 01.01.2020 6.916,98 € / Az. 0262.0-5-0264
+- TOP 1.2.: (E) Stadtbezirksbudget Förderverein Freunde der Schule an der Kirchenstraße e.V. Tanzprojekt vom 01.12.2019 - 31.05.2020 2.756,25 € / Az. 0262.0-5-0265
+- TOP 2.: Anhörungen
+- TOP 2.1.: Planung der Einsätze der mobilen Spiel- und Kunstaktionen 2020 und 2021
+- TOP 3.: Unterrichtungen
+- TOP IV.: UA Arbeit und Wirtschaft
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Erweiterung einer bestehenden Freischankfläche für das Hotel Restaurant Ritzi in der Maria-Theresia-Str. 2 a
+- TOP 1.2.: Erweiterung einer bestehenden Freischankfläche für "Il Padrino" in der Kirchenstr. 44
+- TOP 2.: Anhörungen
+- TOP 2.1.: Haidhauser Weihnachtsmarkt vom 25.11.-24.12.2019 auf dem Weißenburger Platz - Vorabstellungnahme durch die BA-Vorsitzende erfolgt -
+- TOP 2.2.: Infostand Bau 2. S-Bahn Stammstrecke am 19.11.2019 auf dem Orleansplatz - Vorabstellungnahme durch die BA-Vorsitzende erfolgt -
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP V.: UA Planung
+- TOP 1.: Entscheidungen
+- TOP 2.: Anhörungen
+- TOP 2.1.: Kirchenstr. 88: Neubau eines Wohngebäudes mit Tiefgarage => dazu: Baumfällungen
+- TOP 2.2.: Untere Feldstr. 4: Neubau eines Wohnhauses, Vorbescheid
+- TOP 2.3.: Falkenstr. 7: Anbau eines Aufzugs und Vergrößerung Dachgauben, Tektur
+- TOP 2.4.: Rosenheimer Str. 115: Umbau und Aufstockung eines Mehrfamilienhauses, Anbau von Balkonen sowie Errichtung eines lichtdichten und unbeleuchteten Außenaufzugs
+- TOP 2.5.: Einsteinstr. 130: Umbau / Teilung einer Verkaufsfläche im 1., 2. und 3. OG und Anbau eines Lastenaufzugs an der Südfassade
+- TOP 2.6.: Maria-Theresia-Str. 4: Neubau eines Wohnhauses mit 7 Wohneinheiten und Tiefgarage, Tektur
+- TOP 2.7.: Chorherrstr. 4: Nutzungsänderung: Büroflächen (EG) zu Drogeriemarkt
+- TOP 2.8.: Einsteinstr. 107: Abbruch des Rückgebäudes und ortsgleicher Neubau eines Wohngebäudes, Tektur
+- TOP 2.9.: Einsteinstr. 165: Nutzungsänderung: Großtagespflege für max. 10 Kinder zu Gewerbe (Laden)
+- TOP 2.10.: Einsteinstr. 96: Abbruch des Bestandsgebäudes sowie Neubau eines Mehrfamilienhauses (109 WE) mit Einzelhandel und Tiefgarage mit Mobilitätskonzept => dazu: Baumfällungen
+- TOP 2.11.: Mariahilfplatz 18: Schulbauoffensive - Abbruch und Erweiterung Sporthallen mit Tagesheim => dazu: Baumfällungen
+- TOP 2.12.: Hochstr. 75: Neubau einer Wohnanlage mit 184 Wohneinheiten und 1 EOF-Wohnung sowie einer zweigeschossigen Tiefgarage / "Hoch der Isar", Baugebiet 2(1)
+- TOP 2.13.: Ohlmüllerstr. 16a: Nutzungsänderung einer gewerblichen Hausdruckerei und einer nicht befahrbaren Garage zu einer Wohneinheit
+- TOP 2.14.: Haidhauser Str. 11: Nutzungsänderung: Laden mit Büro, Lager und Nebenräumen zu 2 Wohnungen, Tektur
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: (U) Wohnungsmarkt München - Expertenbefragung 2019
+- TOP 3.2.: (U) Wettbewerb "Preis für Stadtbildpflege - Bauen und Sanieren in historischer Umgebung"; Stimmrecht beim Preis für Stadtbildpflege für den örtlich zuständigen Bezirksausschuss BA-Antrags-Nr. 14-20 / B 02925 des Bezirksausschusses des Stadtbezirkes 03 - Maxvorstadt vom 11.10.2016
+- TOP 3.3.: (U) Olympiapark; Bewerbung um den Titel "UNESCO-Welterbe" Personalbedarf
+- TOP 3.4.: Grütznerstr. 8, Sachstand zum Balkon Antwort Baureferat zum BA-Schreiben vom 23.09.2019
+- TOP 3.5.: (U) Ergebnisse der Baulandkommission Forderungen der Landeshauptstadt München
+- TOP 3.6.: (U) Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 16. Stadtbezirkes
+- TOP 3.7.: Antwort der LBK auf Anforderung von Bauvorhaben für den 5. Stadtbezirk
+- TOP 3.8.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Fassadenänderung des Wohnblocks Welfenstraße (zwischen Tassiloplatz und Senftlstraße)
+- TOP VI.: UA Gesundheit, Umwelt und Verkehr
+- TOP 1.: Entscheidungen
+- TOP 1.1.: Vorschlag zur Bestellung einer städtischen Leistung über das Stadtbezirksbudget: Baumpflanzungen in der Pilgersheimer- und Humboldtstraße / Schaffung einer 30er-Zone ab Wittelsbacherbrücke bis Falkenstraße
+- TOP 2.: Anhörungen
+- TOP 2.1.: Spicherenstr. 8: Fällung von 1 Thuje
+- TOP 2.2.: Orleansstr. 43: Fällung von 1 Esche
+- TOP 2.3.: Anschlussbereiche westlich/östlich der Ludwigsbrücke zwischen Rumford-/Thierschstraße und Am Gasteig/Rosenheimer Straße Vorabstellungnahme durch die BA-Vorsitzende erfolgt
+- TOP 3.: Unterrichtungen
+- TOP 3.1.: Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation Sitzungsvorlagen Nr. 14-20 / V 16374
+- TOP 3.2.: Mitteilung der Unteren Naturschutzbehörde zu BA-Stellungnahmen: a) Fällungsgenehmigung Entenbachstr. 3 b) Ersatzpflanzungsbescheid Sckellstr. 2
+- TOP 3.3.: Parksituation mit dem Anwohnerausweis "Franziskanerstraße" Antwort KVR zum BA-Schreiben vom 14.10.2019
+- TOP 3.4.: Blitzanlage für die Wörth-/Comeniusstraße Antwort Polizeiinspektion 21 zum BA-Schreiben vom 25.07.2019
+- TOP 3.5.: Schulwegsicherheit an der Grundschule in der Bazeillesstraße Antwort Polizeiinspektion 21 zum BA-Schreiben vom 08.08.2019
+- TOP 3.6.: Verkehrssituation Flurstraße Antwort KVR zum BA-Schreiben vom 23.04.2019
+- TOP 3.7.: Fußgängerbrücke zwischen Kabelsteg und Maximilianeum Antwort Baureferat zum BA-Schreiben vom 25.07.2019
+- TOP 3.8.: Straßenbegrünung Eggernstraße Schreiben Baureferat an Bürger vom 14.10.2019
+- TOP 3.9.: Fehlende Straßenmarkierung in der Entenbachstraße (Einfahrten größer berechnen, Längenbegrenzung, Fahrradständer und Baumbepflanzung anbringen) Verweisung in den Unterausschuss GUV aus der Sitzung vom 16.10.2019
+- TOP 3.10.: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 4.: Bürgeranliegen
+- TOP 4.1.: Mariahilfplatz ist kein "unnötiger Parkplatz"
+- TOP 4.2.: Errichtung von Fahrradparkplätzen am Bordeauxplatz
+- TOP 4.3.: Ampel an der Orleansstraße / Elsässer Straße
+- TOP 4.4.: Radwegbenutzungspflicht Schweigerstraße - Mariahilfplatz - Ohlmüllerstraße
+- TOP 4.5.: Fahrbahnmarkierung Gebsattelstraße
+- TOP 4.6.: Antrag auf Gehwegbenutzung "Am Nockherberg" bergabwärts durch Radfahrer
+- TOP 4.7.: Roteinfärbung des Radwegs an der Rosenheimer Straße stadtauswärts
+- TOP C: Verschiedenes und Termine
+- TOP 2.1.: UA Soziales, 02.12.2019, 19.00 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Gesundheit, Umwelt und Verkehr, 02.12.2019, 19 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Arbeit und Wirtschaft, 03.12.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb. UA Kultur, 04.12.2019, 19 Uhr, Haidhausen Museum, Kirchenstraße 24 UA Planung, 05.12.2019, 19.30 Uhr, Diakonie, Elsässer Straße 30/Rgb.
+- TOP 3.1.: Mittwoch, 11.12.2019, 19 Uhr, VHS Einsteinstr. 28 BA-Vorstand, Mittwoch, 27.11.2019, 19 Uhr, Friedenstraße 40
+- TOP 4.1.: Gemeinsame außerordentliche Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen und des 14. Stadtbezirkes Berg am Laim am 25.11.2019 um 19 Uhr zum Thema "2. Stammstrecke - aktuelle Planungen"
+- TOP 4.2.: Digital Health Summit des Klinikums rechts der Isar vom 27.-29.11.2019
