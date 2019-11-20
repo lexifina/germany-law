@@ -1,0 +1,8 @@
+# TOP 3: Planfeststellungsverfahren für das Vorhaben "Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 3.0a) Unterrath - Kalkum"
+
+- Sitzung: Bezirksvertretung 6 (2019-11-20)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/265670
+- Ergebnis: Empfehlung einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/101935
