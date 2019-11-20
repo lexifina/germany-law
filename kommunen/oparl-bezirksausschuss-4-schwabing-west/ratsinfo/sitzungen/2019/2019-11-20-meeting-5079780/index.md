@@ -1,0 +1,122 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2019-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5079780
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5079780
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung und Beschlussfähigkeit
+- TOP 2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP 4.: Fragen an Polizei und Bezirksinspektion
+- TOP 5.: Bürgeranliegen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.: Wirtschaft
+- TOP 2.2.: Kultur
+- TOP 2.3.: Veranstaltungen
+- TOP 3.3: Drehgenehmigungen
+- TOP 3.4: Unveränderte Fortführung von Gaststätten
+- TOP 2.1.: Planen
+- TOP 2.1.10.: Schwarzbau Hiltenspergerstr. 47
+- TOP 2.2.: Wohnen
+- TOP 2.1.: Umwelt
+- TOP 2.2.: Verkehr
+- TOP 3.2: Baumfällungen
+- TOP 3.3: Verkehrsrechtliche Anordnungen
+- TOP F.4.: Umbesetzungen in den Unterausschüssen
+- TOP A: Allgemeines
+- TOP 6.: Unterrichtungen
+- TOP B: Soziales
+- TOP 2.1.: (E) Stadtbezirksbudget Sehbehindert – aber Richtig e.V. Heizung für die neuen Räume des Vereins vom 26.11.2019 – 25.11.2020 2.119,74 €, A.z 0262.0-4-0271
+- TOP 2.2.: Spielen in der Stadt e.V.: Planung der Einsätze der mobilen Spiel- und Kunstaktionen 2020 und 2021
+- TOP 2.3.: (E) Stadtbezirksbudget Condrobs e.V. Tagesausflüge mit KlientInnen ab dem 07.12.2019 776,00€; Az. 0262.0-4-0274
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Spielen in der Stadt: Bericht über den „Zirkus Pumpernudl“ im Luitpoldpark
+- TOP 3.2.2.: Bewilligungsbescheid Figurentheater Linde Scheringer (Bildergeschichtentheaterausstellung)
+- TOP 3.2.3.: Bewilligungsbescheid Basketballtraining für geflüchtete Jugendliche
+- TOP 3.3: Sonstige Unterrichtungen
+- TOP 3.3.1.: Task Force Kindertageseinrichtungen – Sachstandsbericht, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 06.11.2019 (Sitzungsvorlage Nr. 14-20 / V 14672)
+- TOP C: Wirtschaft und Kultur
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.2.1.: (E) Stadtbezirksbudget Pathos München e.V. Wiederaufnahme „Der Schimmelreiter*in“ vom 27.11. - 28.11.2019 900,-€; Az. 0262.0-4-0272
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.2: BA-Budget (Bescheide, Verwendungsnachweise, Sachberichte)
+- TOP 3.2.1.: Bewilligungsbescheid Initiative Stolperscheine (Gedenkkonzert am 28.11.2019)
+- TOP 3.2.2.: Bewilligungsbescheid Chorbande Schwabing (Chorprobentage Bairawies)
+- TOP 3.3.1.: Drehgenehmigung „Nicht dein Ernst“ am 08.11.2019 auf dem Helmut-Fischer-Platz
+- TOP 3.4.1.: Ausschank von Getränken und/oder Abgabe von zubereiteten Speisen in einer Veranstaltungshalle: „Utopia“ (ehemals „Reithalle“), Heßstr. 132
+- TOP 3.5: Sonstige Unterrichtungen
+- TOP D: Planen und Wohnen
+- TOP 1.: Anträge
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: Tektur Hiltenspergerstr. 38-40: Energetische Sanierung, Dachausbau und Erweiterung eines Gebäudes, Umstrukturierung von Bestandswohnungen sowie Neubau eines Wohnhauses mit Tiefgarage im rückwärtigen Hof
+- TOP 2.1.2.: Tektur Herzogstr. 105: Abbruch und Aufstockung Dachgeschoss mit Galeriewohnung sowie Aufstockung Zwischenbau um ein Geschoss mit Appartment
+- TOP 2.1.3.: Tektur Belgradstr. 5: DG-Ausbau (5.OG) etc.
+- TOP 2.1.4.: Schwere-Reiter-Str. 35: Neubau eines Studentenwohnheims
+- TOP 2.1.5.: Elisabethplatz 1a: Teil-Nutzungsänderung eines Ladens zu einer Gaststätte sowie WC-Umbau
+- TOP 2.1.6.: Tektur Brunnerstr. 2: Errichtung einer Ausgabehütte, einer Treppenüberdachung und einer Gastraumhütte sowie Neustrukturierung des Gartens mit gastronomischer Nutzung
+- TOP 2.1.7.: Agnesstr. 36: Anbau eines Außenaufzugs an das Treppenhaus
+- TOP 2.1.8.: a) + b) Tekturen Bauerstr. 9: Einbau dreier Maisonette-Wohnungen im 4. OG (1. DG) durch Ausbau der 2. DG-Ebene
+- TOP 2.1.9.: Tektur Tengstr. 14: DG-Ausbau zur Wohnraumerweiterung, hier: Errichtung eines Fluchtausstiegs im Spitzboden mit Plattform zur Anleiterung
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Hohenzollernkarree: Massive Baumschutzzäune im Innenhof (Antwort der Branddirektion auf BA-Anfrage vom 24.10.2019)
+- TOP 3.2: Sonstige Unterrichtungen
+- TOP 3.2.1.: (U) Kreativquartier an der Dachauer Straße/ Schwere-Reiter-Straße Vergabeermächtigung zur Erstellung eines Kommunikationskonzeptes Stadtbezirk 9 Neuhausen-Nymphenburg Stadtbezirk 4 Schwabing-West
+- TOP 3.2.2.: Einbindung und weitere Umsetzung der Konzeption „Freiraum M 2030“ - Leitlinie „Freiraum“ und Schlüsselprojekte in Verbindung mit Städtebauförderung, Personal- und Sachmittelbedarf, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 06.11.2019 (Sitzungsvorlage Nr. 14-20 / V 16341)
+- TOP 3.2.3.: Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 06.11.2019 (Sitzungsvorlage Nr. 14-20 / V 16791)
+- TOP 3.2.4.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 3.2.5.: Mieterbeirat der LH München: Protokoll der Sitzung vom 21.10.2019
+- TOP 3.2.6.: Gebäude Agnesstr. 48 ist Baudenkmal (Schreiben der Lokalbaukommission vom 06.11.2019)
+- TOP E: Umwelt und Verkehr
+- TOP 1.: Anträge
+- TOP 1.1.: Bürgerin: Gefährliche Kreuzung Schleißheimer Straße/Hildebold-/Leonhard-Frank-Straße
+- TOP 1.2.: Bürger: Umwandlung der Augustenstraße in eine Fahrradstraße (Antrag aus der Bürgerversammlung am 10.10.2019)
+- TOP 1.3.: Bürgerin: Umwidmung einer der beiden früheren S-Bahn-Brücken über die Triebstraße als Fuß- und Radweg (Antrag aus der Bürgerversammlung am 10.10.2019)
+- TOP 1.4.: Bürger: Ersatzpflanzung für gefällten Baum im Hof Emanuelstr. 8
+- TOP 1.5.: Bürger: Gefährdung von Kindern durch rasende Radfahrer im Ackermannbogen
+- TOP 1.6.: Bürgerin: Randsteine am Südende der Aachener Straße absenken (vertagt aus 10/19)
+- TOP 1.7.: Bürger: Kreuzung Birnauer Straße / Bregenzer Straße
+- TOP 1.8.: Antrag Grüne: Verkehrssituation am Kurfürstenplatz und in der Nordendstraße – mehr Platz und Sicherheit für Radfahrende und Fußgänger*innen
+- TOP 2.: Entscheidungen und Anhörungen
+- TOP 2.1.1.: (E) + (U) Zusätzliche schattige Bänke im Petuelpark Empfehlung Nr. 14-20 / E 02656 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 27.06.2019
+- TOP 2.1.2.: Winzererstr. 27: Fällung eines Walnussbaumes
+- TOP 2.1.3.: Georgenstr. 62, Fällung einer Robinie
+- TOP 2.1.4.: Ortstermin zum Thema „Gefahrenbäume“: Terminvorschläge des Baureferats Gartenbau
+- TOP 2.1.5.: Götzstr. 10: Fällung zweier Birken
+- TOP 2.2.1.: Änderung der Parkregelung in der Rümannstraße und im Mildred-Scheel-Bogen? (vertagt aus 10/19)
+- TOP 2.2.2.: Saisonale Umnutzung des Straßenraums in der Fallmerayerstraße („Sommerstraße“)
+- TOP 3.: Unterrichtungen
+- TOP 3.1: Antworten auf Anträge und Schreiben des BA
+- TOP 3.1.1.: Temporäre Haltverbote in der Hiltenspergerstraße und überflüssige Hinweisschilder in der Georgen-/Tengstraße (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 26.09.2019)
+- TOP 3.1.2.: Baumlückenschließung in der Clemensstraße
+- TOP 3.1.3.: Mehr Bäume in der Düsseldorfer Straße
+- TOP 3.1.4.: Luitpoldpark: Größere Abfalleimer – Überarbeitung des Rad- und Fußwegekonzepts – E-Scooter (Antwort des Baureferats auf BA-Schreiben vom 26.09.2019)
+- TOP 3.1.5.: Sichtbeziehungen an der Belgrad-/Unertlstraße (Antwort des Kreisverwaltungsreferats auf BA-Schreiben vom 26.09.2019)
+- TOP 3.3.1.: Tempo 30 vor Kindergarten Schleißheimer Str. 162 a
+- TOP 3.3.2.: Ausweisung der Clemens- und Saarstraße zwischen Schleißheimer Straße und Therese-Studer-Straße als Fahrradstraße
+- TOP 3.3.3.: Tempo 30 vor dem Schülerhort Schleißheimer Str. 159
+- TOP 3.3.4.: Neubau einer Fernwärmeleitung Karl-Theodor-Str. 92 und gegenüber
+- TOP 3.3.5.: Tempo 30 vor Kindergarten Belgradstr. 36
+- TOP 3.4: Sonstige Unterrichtungen
+- TOP 3.4.1.: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 3.4.2.: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 3.4.3.: (U) Münchner Kleingartenwesen - Beseitigung von Behelfsheimen - Zeit-Kleingarten-Anlagen Antrag Nr. 14-20 / A 03454 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Otto Seidl und Herrn Stadtrat Johann Stadler vom 10.10.2017 - Teilung von übergroßen Gartenparzellen
+- TOP F: BA-Angelegenheiten
+- TOP F.1.: Anhörungsrecht bei der Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeuge (Anhörung zu einem Antrag des BA 5 Au-Haidhausen auf Änderung der BA-Satzung)
+- TOP F.2.: Antragsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte (Anhörung zu einem Antrag der CSU-Fraktion im Stadtrat)
+- TOP F.3.: Änderung der BA-Geschäftsordnung hinsichtlich Handhabung der Ordnung und des Hausrechts (Anhörung zu einem Änderungsvorschlag des Direktoriums)
+- TOP G: Verschiedenes
+- TOP H: Termine
