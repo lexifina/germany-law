@@ -1,0 +1,82 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-20T17:00:00+01:00
+- Ende: 2019-11-20T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18606
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18606
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363566.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363566.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363566.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP -: Bau- und Planungsangelegenheiten
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Planfeststellungsverfahren für das Vorhaben "Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 3.0a) Unterrath - Kalkum" - Empfehlung einstimmig beschlossen
+- TOP 4: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung einstimmig beschlossen
+- TOP 5: Umsetzung des regionalen Schnellbuskonzeptes - zur Kenntnis genommen
+- TOP 6: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 7: Bezirkssportanlage Ammerweg - Erneuerung des Kunstrasenplatzes - einstimmig beschlossen
+- TOP 8: Neubau eines "Hauses für Kinder, Jugendliche und Familien Lichtenbroicher Weg", Stadtbezirk 6 (Ausführungs- und Finanzierungsbeschluss) - Empfehlung einstimmig beschlossen
+- TOP 9: Bebauungsplan Nr. 06/014 - Vogelsanger Weg/Münsterstraße - Empfehlung einstimmig beschlossen
+- TOP 10: 2. Änderung Rahmenplan Einzelhandel (Entwurf) - Zentrum Münsterstraße / Vogelsanger Weg - - Empfehlung einstimmig beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen (wurden bereits übersandt)
+- TOP 11: Anfrage SPD: Altglas- und Papiercontainer - schriftlich beantwortet
+- TOP 12: Anfrage CDU und FDP: Parken im Gewerbebereich - vertagt
+- TOP 13: Anfrage SPD: Trasse Ortsumgehung Rath - vertagt
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Ehemalige Tankstelle in Unterrath, Kalkumer Straße Ecke Zaberner Straße - vertagt
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anfragen
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21: Anfrage der CDU-Fraktion und der FDP-Fraktion: Zwischennutzung Grundstück an der Theodorstraße als Parkplatz - vertagt
+- TOP 22: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 23: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Anträge
+- TOP 26: Antrag der CDU-Fraktion: "Haus der Kulturen" am Standort des Junges Schauspielhaus in Mörsenbroich - mehrheitlich beschlossen
+- TOP 27: Antrag der FDP-Fraktion: keine Bereitstellung von HH-Mitteln für den Umzug des Junges Schauspiel - mehrheitlich beschlossen
+- TOP 28: Interfraktioneller Antrag: Suche nach Finanzierungs-/Förderprogrammen für die Anbindung der Grünanlage Sankt-Franziskus-Straße sowie des Sozialraumes 623 an den Aaper Wald - einstimmig beschlossen
+- TOP 29: Interfraktioneller Antrag: Fortführung des Projektes "Jugend checkt den Stadtbezirk 6" aus Bauunterhaltungsmitteln 2019 - abweichend beschlossen
+- TOP 30: Interfraktioneller Antrag: Schaffung eines sicheren Fußweges für Anwohner sowie KiTa-Kinder und Angehörige - abweichend beschlossen
+- TOP 31: Interfraktioneller Antrag: KGS Rather Kreuzweg "Anlegung eines Schulgartens" aus Bauunterhaltungsmitteln 2019 - Teil A - Schule - einstimmig beschlossen
+- TOP 32: Interfraktoneller Antrag: "Digitalisierung Bildung" an den Schulen im Stadtbezirk 6 - einstimmig beschlossen
+- TOP 33: Interfraktioneller Antrag: Verlegung des Wochenmarktes Lichtenboich - Finanzierung des Stromverteilerkastens i.H.v. 12.000 Euro aus Bauunterhaltungsmitteln 2019 - abweichend beschlossen
+- TOP 34: Antrag der CDU-Fraktion und der FDP-Fraktion: Außenanstrich von 3 Pavillons auf dem Gelände der Katholischen Grundschule Herchenbachstraße 2 - zurückgezogen
+- TOP 35: Antrag der FDP-Fraktion: Installation von großen ÖPNV Anzeigetafeln Haltestellen Unterrath S und Flughafen Fernbahnhof - abweichend beschlossen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP -: Verwaltungsvorlagen
+- TOP 40: Zuschussvergabe 2019 Antrag Pinnochio e.V. - Baumaßnahmen - abweichend beschlossen
+- TOP 41: Zuschussvergabe 2019 Antrag Allgemeiner Rather Turnverein 1877/90 e.V. - abweichend beschlossen
+- TOP 42: Zuschussvergabe 2019 Einkaufs Trümpfe Unterrath e.V. - Aufstellung von Weihnachtsbäumen in Unterrath zzgl. Kleintannen zur Verzierung - abweichend beschlossen
+- TOP 43: Zuschussvergabe 2019 - Antrag des Vereins der Freunde und Förderer der St.-Franziskus-Schule - Finanzierung der Musikkapellen zur St.-Martins-Feier - einstimmig beschlossen
+- TOP 44: Zuschussvergabe 2019 - Antrag der W.i.G. e.V. - Anmietung einer Weihnachtshütte auf dem Weihnachtsmarkt Lichtenbroich - einstimmig beschlossen
+- TOP 45: Zuschussvergabe 2019 - Antrag des Rather Spielverein 1919 e.V. - Interreligiöse Weihnachtsfeier am 5. Dezember 2019 - einstimmig abgelehnt
+- TOP 46: Zuschussvergabe 2019 - Antrag der Kinder und Eltern e.V. - Erneuerung des Fallschutzes durch Gummimatten unter der Schaukel - einstimmig beschlossen
+- TOP 47: Bauunterhaltungsmittel 2019 Teil A Schulen - Umgestaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 48: Bauunterhaltungsmittel 2019 - laufende Maßnahmen - abweichend beschlossen
+- TOP 49: Förderung Dritter 2019 - "Illumination der Kirche Zum Heiligen Kreuze" - einstimmig beschlossen
+- TOP 50: Weihnachtsmarkt auf dem Matthiaskirchweg in Lichtenbroich ium Jahre 2019 - abweichend beschlossen
+- TOP 51: Trödelmärkte auf dem Schützenplatz Rather Broich im 1. Halbjahr 2020 - abweichend beschlossen
+- TOP 52: Bauunterhaltungsmittel 2019 Teil A - Schulen - einstimmig beschlossen
+- TOP 53: Bauunterhaltungsmittel 2019 Teil B - sonstige Gebäude - einstimmig beschlossen
+- TOP 54: Bauunterhaltungsmittel 2019 Teil C - Förderung Dritter - einstimmig beschlossen
+- TOP 55: Bereitstellung von Mitteln für eine Informations- und Imagekampagne - einstimmig beschlossen
+- TOP -: Informationsvorlagen
+- TOP 56: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 57: Blumenwiese zwischen der Damaschkestraße und Am Roten Haus - Vorlage 176/103/2019 - zur Kenntnis genommen
+- TOP 58: MdV - Kleidercontainerleerung im Stadtbezirk 6 - Vorlage 176/ 90/2019 - zur Kenntnis genommen
+- TOP 59: Sitzungstermine der Bezirksvertretung 6 im 2. Halbjahr 2020 - zur Kenntnis genommen
