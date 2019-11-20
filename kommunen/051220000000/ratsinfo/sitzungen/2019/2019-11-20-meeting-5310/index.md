@@ -1,0 +1,65 @@
+# Zentraler Betriebsausschuss (23. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-11-20T16:30:00+01:00
+- Ende: 2019-11-20T18:40:00+01:00
+- Ort: Technische Betriebe Solingen, Dültgenstaler Straße 61, 42719 Solingen, Haus H, Aufenthaltsraum UG
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZU5IHr-TXrbQoIz0Jfg2PE0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5310
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXc_G3GfuyaSZaMEzAgEVfmWAsL7LffJJoYDx-JIm_yG/Bekanntmachung_Zentraler_Betriebsausschuss_20.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcAk43KR7rpphHK91Ik-PNMnpd1w0PpjoSvBN_4YSfWO/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_20.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 21. Sitzung des zentralen Betriebsausschusses am 11.09.2019
+- TOP 4.: Protokoll über die 22. Sitzung des zentralen Betriebsausschusses am 26.09.2019
+- TOP 5.: Quartalsbericht 3. Quartal 2019 der Technischen Betriebe Solingen
+- TOP 6.: Quartalsbericht 3. Quartal 2019 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 7.: Quartalsbericht 3. Quartal 2019 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 8.: Stadtentwicklungsgesellschaft Solingen - Beschluss zu den Gesellschaftsverträgen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG sowie der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 9.: Jahresabschluss 2018 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 10.: Wirtschaftsplan 2020 der Technischen Betriebe Solingen
+- TOP 11.: Wirtschaftsplan 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 12.: Gebührenbedarfsberechnung 2020
+- TOP 13.: III. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 14.: V. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 15.: V. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 16.: I. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 17.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 18.: I. Änderungssatzung zur Friedhofssatzung der Stadt Solingen
+- TOP 19.: Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 20.: Grundstücksbereinigung zwischen den TBS und der Kernverwaltung
+- TOP 21.: Planungsstand des Wertstoffhofes am MHKW Sandstraße 16a
+- TOP 22.: TBS-Standort-Konzept 2030 – Projektauftrag der Module 1 und 2 (MHKW-Standort)
+- TOP 23.: Sachstand zu Ergebnissen des Workshops zur Durchführung einer Bürgerumfrage
+- TOP 24.: Digitalisierung Abfallwirtschaft im Rahmen des SmartCity-Projektes
+- TOP 25.: Sachstand Busbeschleunigung / Ampelvorrangschaltung in Solingen
+- TOP 26.: Verschiedenes
+- TOP 26.1: Mitteilungen des Betriebes
+- TOP 26.1.1: Informationsflyer zur ökologischen und klimagerechten Gestaltung von Grundstücksvorgärten
+- TOP 26.2: Anfragen an den Betrieb
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 21. Sitzung des zentralen Betriebsausschusses am 11.09.2019
+- TOP 4.: Protokoll über die 22. Sitzung des zentralen Betriebsausschusses am 26.09.2019
+- TOP 5.: Quartalsbericht 3. Quartal 2019 der Entsorgung Solingen GmbH
+- TOP 6.: Quartalsbericht 3. Quartal der Solinger Bädergesellschaft mbH
+- TOP 7.: Wirtschaftsplan 2020 der Entsorgung Solingen GmbH
+- TOP 8.: Wirtschaftsplan 2020 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 9.: Abberufung eines Prokuristen
+- TOP 10.: Bestellung eines Prokuristen
+- TOP 11.: Westfälisch-Bergische Entsorgungsgesellschaft mbH (WBE GmbH) - Entsendung der Vertreter der Stadt Solingen in die Gesellschafterversammlung
+- TOP 12.: Verschiedenes
+- TOP 12.1: Mitteilungen des Betriebes
+- TOP 12.1.1: Vergaben und Vertragsabschlüsse über 50.000 Euro der TBS Berichtszeitraum: 10.08.2019 - 31.10.2019
+- TOP 12.1.2: Vergaben und Vertragsabschlüsse über 50.000 Euro des DBSG
+- TOP 12.1.3: Sachstand zur Vermögenseigenschadenversicherung TBS
+- TOP 12.1.4: Stadtentwicklungsgesellschaft Solingen – Mitteilung der Verwaltung zum Beschluss zum Businessplan der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG für die Jahre 2020-2024
+- TOP 12.2: Anfragen an den Betrieb
