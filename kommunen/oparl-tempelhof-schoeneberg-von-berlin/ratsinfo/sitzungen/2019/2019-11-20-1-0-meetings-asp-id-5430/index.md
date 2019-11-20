@@ -1,0 +1,82 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Tempelhof-Schöneberg von Berlin
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-11-20T17:00:00+01:00
+- Ende: 2019-11-20T22:00:00+01:00
+- Ort: Sitzungssaal der, Rathaus Schöneberg - Der Sitzungsraum ist für Menschen mit körperlichen Beeinträchtigungen frei zugä
+- Status: 
+- Gremium: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=6
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5430
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5430
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=343931
+
+## Tagesordnung
+
+- TOP 1: Geschäftliche Mitteilungen - erledigt
+- TOP 2: Einwohneranfragen - beantwortet
+- TOP 3: Vorlagen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.1: Antrag auf Einwohnerversammlung gem. § 42 BezVG - betr.: Erhalt und Sicherung des gesamten Gebietes der "Marienhöhe" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4: Kinder- und Jugendparlament - (offen)
+- TOP 5: Protokollgenehmigung - erledigt
+- TOP 6: Unerledigte Drucksachen - erledigt
+- TOP 6.1: Großbaustellen in Lichtenrade – alles hängt mit allem zusammen! - schriftlich beantwortet
+- TOP 6.2: Bevölkerungsversorgung, Schulschwimmen und Sportbetrieb während der Baumaßnahmen an Bädern im Bezirk sicherstellen - überwiesen
+- TOP 6.3: Städtepartnerschaftstafeln aktualisieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Erhalt der Stadtbäume 1:1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.5: Ungestörtes Weihnachtssingen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.6: Finanzielle Mittel für den Unterhalt und die Verkehrssicherungspflicht beim Baumbestand für das lfd. Haushaltsjahr 2019 verstärken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.7: Das Bezirksamt unterstützt die Neuaufnahme des Gebietes Nahariyastraße in das Programm Soziale Stadt zum 01.01.2021 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - beantwortet
+- TOP 8: Große Anfragen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8.1: Welche Kältehilfe-Vorsorge für Obdachlose hat unser Bezirk getroffen? - schriftlich beantwortet
+- TOP 8.2: Diese e.G unter dem Mietendeckel - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Hartz 4-Sanktion wegen Meldeversäumnisse verringern, durch Änderung der Verwaltungspraxis bei der Einladungen zu Meldeterminen – Auswahlmöglich-keit der Leistungsbeziehenden bei der Terminvergabe. - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bürgeramtsstandort in der Rheinstraße - überwiesen
+- TOP 10.3: Zusammensetzung der Wohnbevölkerung schützen Verkäufe an „Proforma-Mieter*innen“ in Milieuschutzgebieten unterbinden - überwiesen
+- TOP 10.4: Weiterbetrieb des Wenckebach-Klinikums sicherstellen - überwiesen
+- TOP 10.5: Reparatur der Uhr Rathaus Friedenau - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Aufruf der Berliner Beauftragten für Menschen mit Behinderung unterstützen - Bau-Sachverständige für Barrierefreiheit einführen - überwiesen
+- TOP 10.7: Konzept für E-Roller-Parkplätze erarbeiten - überwiesen
+- TOP 10.8: Geburtstag Tucholskys auf Gedenktafel korrigieren - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Am Umzug des AlliiertenMuseums nach Tempelhof im Jahr 2026 festhalten - überwiesen
+- TOP 10.10: Ausschuss für Städtepartnerschaften und Europaangelegenheiten bilden - überwiesen
+- TOP 10.11: B-Plan-Verfahren am Mühlenberg aussetzen - überwiesen
+- TOP 10.12: Änderung § 81 der Geschäftsordnung - überwiesen
+- TOP 10.13: Wohnquartier Albert- / Ebersstraße wirksam vor Durchgangsverkehr schützen - überwiesen
+- TOP 10.14: Umsteigen bitte - überwiesen
+- TOP 10.15: Planungen und Machbarkeitsstudie für Verlängerung der U6 nach Süden jetzt anschieben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.16: Keine Zwangsräumungen bei Mieter_innen in Sozialleistungsbezug durch die städtischen Wohnungsbau-Gesellschaften - überwiesen
+- TOP 10.17: Bezirksbelange in den Planungsprozess Tempelhofer Damm einbringen - überwiesen
+- TOP 10.18: Größere Baumscheiben für Straßenbäume - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.19: Stufenvorweggewährungen im RSD vereinfachen - überwiesen
+- TOP 10.20: S-Bahnhof Kamenzer Damm endlich bestellen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.21: Berufung einer/s Beauftragten für Gute Arbeit und Ausbildung - überwiesen
+- TOP 10.22: Kostentransparenz im Bezirk - überwiesen
+- TOP 10.23: Flächensicherung Röblingsstraße/Attilastraße für öffentlichen Schulbau - überwiesen
+- TOP 10.24: Wo Vierfüßler um die Wette laufen, können dies auch Zweifüßler – Trabrennbahn Mariendorf für weitere Sportarten nutzbar machen - überwiesen
+- TOP 10.25: Neues Leben im Festzentrum der Trabrennbahn - überwiesen
+- TOP 10.26: Ehrenamtlichen Teilnahme am Lichtenrader Lichtermarkt ermöglichen - überwiesen
+- TOP 10.27: Bike-Flashs in Tempelhof-Schöneberg erproben - überwiesen
+- TOP 10.28: Das SIBUZ benötigt einen Standort, der seinen Aufgabenstellungen entspricht! - überwiesen
+- TOP 10.29: Literatur gegen Homophobie in die Bibliotheken - überwiesen
+- TOP 10.30: Parkhäfen am Gustav-Müller-Platz nur für Pkw - überwiesen
+- TOP 11: übrige Große Anfragen - (offen)
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Ausstellungshalle nach Ella Barowsky benennen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Schüler*innen-Haushalt auch in Tempelhof-Schöneberg etablieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Öffnungszeiten der Bürgerämter ausweiten, um mehr Personal unterbringen und mehr Kundentermine anbieten zu können - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Flagge zeigen gegen Mobbing - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Kontrollen im Rudolf-Wilde-Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Vergünstigungen für Ehrenamtskarten auch für Angebote des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Haus der Jugend projektieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Freundschaft mit Mezitli weiterentwickeln Beschilderung des Mezitli Parks - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 13.1: Naturlehrpfade einrichten - vertagt
+- TOP 13.2: Tiergehege im Franckepark - vertagt
+- TOP 13.3: Unterkunft für obdachlose LGBTTIQ schaffen - vertagt
+- TOP 13.4: Trauerweiden im Rudolph-Wilde-Park ersetzen - vertagt
+- TOP 13.5: des Bezirksamtes Tempelhof-Schöneberg von Berlin über die Veröffentlichung der Bezirksregionenprofile (BZRP) Teil II (konzeptioneller Teil, Strategien und Maßnahmen) für die Bezirksregionen Tempelhof und Lichtenrade - vertagt
+- TOP 14: Termin der nächsten Sitzung - erledigt
