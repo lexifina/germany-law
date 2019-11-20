@@ -1,0 +1,23 @@
+# Verkehrsrechtliche Maßnahme im Baugebiet „Häämkes Diik“ in Velen
+
+- Körperschaft: Stadt Velen
+- Drucksache/Vorlage: 114/2019 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2019-11-20
+- Ratsinformationssystem: https://velen.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZe0T4tz8PfpMuuLmU_Re4ag
+- OParl: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/3202
+- Quelle: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Verkehrsrechtliche Maßnahme im Baugebiet „Häämkes Diik“ in Velen) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRQufbCZCT0nxYWqlX35NQeQX7ecpTUBft-j_tshnM-/Beschlussvorlage_114-2019_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1a: Antrag der Anlieger Häämkes Diik) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdUN0nttjRo-FrKrlebF7D-_qBS1vpcUyqpOGyXPDUyi/Anlage_1a-_Antrag_der_Anlieger_Haeaemkes_Diik.pdf
+- Anlage: Beschlussvorlage (Anlage 2: Stellungnahme Kreis Borken) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbzrqSTRafpjaKJYcqYsP5VA_BN6BbKnChApzzYBrfd1/Anlage_2-_Stellungnahme_Kreis_Borken.pdf
+- Anlage: Beschlussvorlage (Anlage 3a: Messung 16.-18.10.2019) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcHZ4wxsO8njOMTguPQkxJYqf8qQOW-S8_lYqF2IUevR/Anlage_3a-_Messung_16.-18.10.2019.pdf
+- Anlage: Beschlussvorlage (Anlage 3b: Messung 18.-22.10.2019) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRfkVgh6FqLubwfYecIr6FP1zweSiwfC5UXFp2IsGabJ/Anlage_3b-_Messung_18.-22.10.2019.pdf
+- Anlage: Beschlussvorlage (Anlage 4a: Luftbild Ausschnitt Graben) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSKi6k8SUwtIatmQ9mfwpTfAc4Qe7Sq__m3nr9A0OsU_/Anlage_4a-_Luftbild_Ausschnitt_Graben.pdf
+- Anlage: Beschlussvorlage (Anlage 4b: Übersichtplan) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQUQmcuZjFOTFuZQT_l-mv1_dAT6lQH-Xvicm5PmgYPl/Anlage_4b-_Uebersichtplan.pdf
+- Anlage: Beschlussvorlage (Anlage 5a: Stellungnahme Anliegerin nördlicher Teil) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZH_J8xpW6TGQTSQDlI-cl7iMVZVMoL6jGH-xJ-wwYWU/Anlage_5a-_Stellungnahme_Anliegerin_noerdlicher_Teil.pdf
+- Anlage: Beschlussvorlage (Anlage 5b: Karte mit Kindern) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWkHFI1gIyY2A001aPdwpCBsMjFEQaM-7Ug3sCzMwuc3/Anlage_5b-_Karte_mit_Kindern.pdf
+- Anlage: Beschlussvorlage (Anlage 6: Stellungnahme Anlieger nördlicher Teil) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYZgSCkJ3w9RAnySi0DAE6sL_SJsesVfUsF_Wam9sXWh/Anlage_6-_Stellungnahme_Anlieger_noerdlicher_Teil.pdf
+- Anlage: Beschlussvorlage (Anlage 7: Antrag der SPD - Baugebiet Häämkes Diik) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXJJgsPtBgY-K4YssDxsnC5Lq35o8xTDp40bt7Nm1s0k/Anlage_7-_Antrag_der_SPD_-_Baugebiet_Haeaemkes_Diik.pdf
+- Anlage: Beschlussvorlage (Anlage 8: Stellungnahme Anlieger, Mail vom 17.11.2019) https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYFJrpjx3d2Pq657a-qgQlydwOO1p277jC4W3XO0FBVp/Anlage_8-_Stellungnahme_Anlieger-_Mail_vom_17.11.2019.pdf
+- Beratung:  https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1546 https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-4
+- underDirectionOf: https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-185
