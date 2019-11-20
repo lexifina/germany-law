@@ -1,0 +1,54 @@
+# 36. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Grünflächen
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2019-11-20T17:37:00+01:00
+- Ende: 2019-11-20T20:12:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4847
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=4847
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=452982
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=454389
+
+## Tagesordnung
+
+- TOP 1: Genehmigungen - (offen)
+- TOP 1.1: Tagesordnung - mit Änderungen im Ausschuss beschlossen
+- TOP 1.2: Protokoll - (offen)
+- TOP 1.2.1: der 32. Sitzung am 14.08.2019 (versandt am 02.09.2019) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.2: der 33. Sitzung am 27.08.2019 (versandt am 13.09.2019) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.3: der 34. Sitzung am 18.09.2019 (liegt noch nicht vor) - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2.4: der 35. Sitzung am 23.10.2019 (liegt noch nicht vor) - vertagt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des stellv. Vorsitzenden - erledigt
+- TOP 2.2: des Bezirksamtes - erledigt
+- TOP 2.3: der Seniorenvertretung - erledigt
+- TOP 3: Aktuelle Viertelstunde - erledigt
+- TOP 4: Beratung von Drucksachen - (offen)
+- TOP 4.1: Sitzungskalender 2020 - mit Änderungen im Ausschuss beschlossen
+- TOP 4.2: Der Bezirk-Mitte erkennt den Klimanotstand an - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.3: Öffentliche Nutzungen der Pavillons in der Karl-Marx-Allee planungsrechtlich sichern - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.4: Die Zerstörung der Arroganz – Zukunft der Rehberge mit Bürger*innen gestalten - vertagt
+- TOP 4.5: Runder Tisch Engelbecken - vertagt
+- TOP 4.6: Gesamtkonzept für die Fischerinsel - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.7: Regelmäßig über den Stand von Baumaßnahmen berichten und vollständigen Risikomanagementbericht vorlegen - im Ausschuss abgelehnt
+- TOP 4.8: Gute Kulisse – mit Menschen! - vertagt
+- TOP 4.9: E-Roller-Sharing als Chance betreiben und Gefährdungen schnell abschalten - erledigt
+- TOP 4.10: Fußgängerüberweg und Umgestaltung Jülicher Straße/ Ecke Eulerstraße - vertagt
+- TOP 4.11: Entscheidend is auf´m Platz – Bezug zu Alfred Döblin und Hauptwerk mit ins „Konzept Alexanderplatz“ - vertagt
+- TOP 4.12: Die Bundeswehr gehört in die Öffentlichkeit – Gelöbnis in Mitte - erledigt
+- TOP 4.13: Fahrbahn für Radfahrer instand setzen! - vertagt
+- TOP 4.14: Den Einsatz von photokatalytischem Asphalt und Pflaster prüfen - Stickstoffoxide reduzieren - im Ausschuss abgelehnt
+- TOP 4.15: Mehr Licht auf der Fischerinsel - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.16: Ein Gehweg für Fußgänger*innen auf der Ackerstraße - zurückgezogen
+- TOP 4.17: Akteure vor Ort bei Spreeuferentwicklung in der nördlichen Luisenstadt mit einbeziehen! - mit Änderungen im Ausschuss beschlossen
+- TOP 4.18: Spielplatzerneuerung in den Rehbergen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.19: Die Invalidenstraße sicherer machen! - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.20: Aufgabenstellung/ Leistungsbeschreibung der Parkläufer im Weinbergspark zielorientiert anpassen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.21: Toilettenhaus im Großen Tiergarten - im Ausschuss abgelehnt
+- TOP 4.22: Mehr Straßenpumpen in Mitte zur Bewässerung von Bäumen - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.23: Nutzungsdauer der Kita Kiautschoustraße 10 verlängern - ohne Änderungen im Ausschuss beschlossen
+- TOP 5: Verschiedenes - erledigt
+- TOP 6: Terminplanung - (offen)
