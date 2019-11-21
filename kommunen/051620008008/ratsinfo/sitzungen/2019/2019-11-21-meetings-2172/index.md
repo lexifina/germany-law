@@ -1,0 +1,78 @@
+# Haupt-, Finanz- und Demografieausschuss
+
+- Körperschaft: Stadt Grevenbroich
+- Beginn: 2019-11-21T09:04:00+01:00
+- Ende: 2019-11-21T12:30:00+01:00
+- Ort: Sitzungssaal im Bernardushaus
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/organizations/gr/47
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2172
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0013/meetings/2172
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung
+- TOP 2: Bürgeranträge
+- TOP 2.1: Namensgebung Straße 'Am Bahndamm/Neukirchen', Bürgerantrag gem. § 24 GO NW - einstimmig
+- TOP 3: Dringlichkeitsentscheidungen
+- TOP 4: Haushaltsangelegenheiten
+- TOP 4.1: Beantwortung schriftlicher Anfragen
+- TOP 4.1.1: Integrationspauschale - Kenntnisnahme
+- TOP 4.1.2: Fragen zum Haushaltsplan 2020 (Anfrage Nr. 181/19) - Kenntnisnahme
+- TOP 4.1.3: Anstieg der Personalaufwendungen (Anfrage Nr. 193/19) - Kenntnisnahme
+- TOP 4.1.4: Anstieg der Personalaufwendungen (Anfrage Nr. 194/19) - Kenntnisnahme
+- TOP 4.1.5: Kosten zur Förderung der Geschlechtergerechtigkeit (Anfrage Nr. 195/19) - Kenntnisnahme
+- TOP 4.1.6: Anstieg der freiwilligen Leistungen im Personalservice (Anfrage Nr. 196/19) - Kenntnisnahme
+- TOP 4.1.7: Sanierungsplanmaßnahme (Anfrage Nr. 197/19) - Kenntnisnahme
+- TOP 4.1.8: Unklare Ansatzfortschreibungen im Forderungsmanagement (Anfrage Nr. 198/19) - Kenntnisnahme
+- TOP 4.1.8.1: Integrationspauschale - Kenntnisnahme
+- TOP 4.1.8.2: Anstieg der Personalaufwendungen (Anfrage Nr. 193/19) - Kenntnisnahme
+- TOP 4.1.8.3: Kosten zur Förderung der Geschlechtergerechtigkeit (Anfrage Nr. 195/19) - Kenntnisnahme
+- TOP 4.1.8.4: Anstieg der freiwilligen Leistungen im Personalservice (Anfrage Nr. 196/19) - Kenntnisnahme
+- TOP 4.1.8.5: Anstieg der Personalaufwendungen (Anfrage Nr. 194/19) - Kenntnisnahme
+- TOP 4.1.8.6: Sanierungsplanmaßnahme (Anfrage Nr. 197/19) - Kenntnisnahme
+- TOP 4.1.8.7: Unklare Ansatzfortschreibungen im Forderungsmanagement (Anfrage Nr. 198/19) - Kenntnisnahme
+- TOP 4.1.8.8: Fragen zum Haushaltsplan 2020 (Nr.181/19) - Kenntnisnahme
+- TOP 4.1.8.9: Fragen zum Haushaltsplan 2020 (Nr.181/19) - Kenntnisnahme
+- TOP 4.1.9: haushaltsrelevante Anträge - Kenntnisnahme
+- TOP 4.2: Haushaltsrelevante Anträge
+- TOP 4.3: Haushalt 2020 - mehrheitlich bei
+- TOP 5: Bericht zum Sachstand "Wohngebiet Langwadener Straße" - Ortsteil Wevelinghoven - Kenntnisnahme
+- TOP 6: Beantwortung von Anträgen/Anfragen
+- TOP 7: Schriftliche Anträge
+- TOP 7.1: CDU
+- TOP 7.1.1: Ablaufplan und Fördermittel für den Jugendpark (Antrag Nr. 210/19) - einstimmig
+- TOP 7.1.2: Beteiligung am Förderprogramm (Antrag Nr. 211/19) - einstimmig
+- TOP 7.1.3: Konzept zur Erweiterung der Jakobus-Grundschule Neukirchen (Antrag Nr. 213/19) - einstimmig
+- TOP 7.1.4: Mobilitätskonzept (Antrag Nr. 214/19) - einstimmig
+- TOP 7.1.5: Personal-Controlling/ -Management (Antrag Nr. 215/19) - einstimmig
+- TOP 7.1.6: Perspektivische Berücksichtigung (Antrag Nr. 216/19) - einstimmig
+- TOP 7.1.7: Überprüfung der Spiel- und Freizeitflächen (Antrag Nr. 217/19) - einstimmig
+- TOP 7.1.8: Feuerwehrschule für Grevenbroich (Antrag Nr. 223/19) - einstimmig
+- TOP 7.1.9: Neue Mobilität für Grevenbroich (Antrag Nr. 226/19) - einstimmig
+- TOP 7.1.10: Kostenerhöhung bei ÖPNV Busverkehr (Antrag Nr. 201/19) - einstimmig
+- TOP 7.1.11: Personalkostenreduzierung (Antrag Nr. 207/19) - einstimmig
+- TOP 7.2: SPD
+- TOP 7.3: UWG
+- TOP 7.3.1: Einführung eines Personalkostencontrollings (Antrag Nr. 184/19) - Kenntnisnahme
+- TOP 7.3.2: Halbjährlicher Austausch / Bericht der Wirtschaftsförderung (Antrag Nr. 185/19) - einstimmig
+- TOP 7.3.3: Mehr Transparenz im Haushalt (Antrag Nr. 188/19) - einstimmig
+- TOP 7.3.4: Digitalisierung der Stadtverwaltung strukturieren (Antrag Nr. 192/19) - Kenntnisnahme
+- TOP 7.4: FDP
+- TOP 7.5: B 90/Grüne
+- TOP 7.5.1: Controlling/Personalcontrolling (Antrag Nr. 180/19) - Kenntnisnahme
+- TOP 7.6: Mein Grevenbroich
+- TOP 7.7: DIE LINKE
+- TOP 8: Schriftliche Anfragen
+- TOP 8.1: CDU
+- TOP 8.2: SPD
+- TOP 8.3: UWG
+- TOP 8.4: FDP
+- TOP 8.5: B 90/Grüne
+- TOP 8.6: Mein Grevenbroich
+- TOP 8.7: DIE LINKE
+- TOP 9: Mündliche Anträge/Anfragen
+- TOP 9.1: Kanalerneuerung Frimmersdorf (Antrag Nr. 231/19)
+- TOP 9.2: Mehrausgaben durch Prüfaufträge (Anfrage Nr. 232/19)
+- TOP 10: Mitteilungen BM
