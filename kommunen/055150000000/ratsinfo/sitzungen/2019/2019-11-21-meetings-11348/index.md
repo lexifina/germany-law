@@ -1,0 +1,54 @@
+# Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2019-11-21T17:10:00+01:00
+- Ende: 2019-11-21T22:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/479
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/11348
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/11348
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00454553.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen zusätzliche Verwaltungspräsenz gewünscht wird.
+- TOP 3: Projektvorstellung Neues Medizinisches Zentrum (UKM)
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 5: Anträge/Anfragen und Eingaben
+- TOP 5.1: Bekanntgabe
+- TOP 5.2: Stellungnahmen
+- TOP 6: Beratung des Entwurfs des Haushaltsplans 2019, des Finanzplans und des Investitionsprogramms 2019 - 2022
+- TOP 6.1: Haushaltsanträge
+- TOP 6.2: Veränderungslisten
+- TOP 6.3: Produktgruppen 02.07, 09.01, 09.02, 10.01, 10.02
+- TOP 7: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 7.1: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022" - mehrheitlich geändert beschlossen
+- TOP 7.2: Handlungsprogramm Klimaschutz 2030 für Münster - mehrheitlich geändert beschlossen
+- TOP 7.3: Handlungskonzept Klimaanpassung 2030 zur Umsetzung des Klimaanpassungskonzeptes der Stadt Münster - einstimmig beschlossen
+- TOP 7.4: Beirat Stadtregion Münster - ohne Beschlussfassung geschoben
+- TOP 7.5: Antrag Nr. A-R/0076/2019 der Ratsgruppe AfD an den Rat - Mehr Flächen für Gewerbe - einstimmig beschlossen
+- TOP 7.6: Stadtteilentwicklung Coerde - Errichtung eines multifunktionalen „Stadtteilhauses" am Hamannplatz - einstimmig beschlossen
+- TOP 7.7: Planung und Entwicklung eines integrierten Begegnungs-, Bildungs- und Gesundheitshauses in Coerde am Hammannplatz Nr. 36 - 40 - einstimmig beschlossen
+- TOP 8: Stadtplanung
+- TOP 8.1: Bebauungsplans Nr. 557: Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.2: 97. Änderung FNP - Beschluss zur Änderung - Vorhabenbezogener Bebauungsplan Nr. 609 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 8.3: 63. Änderung des Flächennutzungsplans - Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 8.4: Vorhabenbezogener Bebauungsplan Nr. 588 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 8.5: Bebauungsplan Nr. 391 - 6. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.6: Bebauungsplan Nr. 391 - vorhabenbezogene 5. Änderung - Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8.7: Bebauungsplan Nr. 606, 607, 608 - Aufstellung - von der Tagesordnung abgesetzt
+- TOP 8.8: 3. Änderung des Bebauungsplans Nr. 268 - Stellungnahmen - Satzungsbeschluss - Aufhebung - einstimmig beschlossen
+- TOP 8.9: 3. Änderung des Bebauungsplans Nr. 312 - Stellungnahmen - Satzungsbeschluss - Aufhebung - einstimmig beschlossen
+- TOP 8.10: Konzept zur Umgestaltung des öffentlichen Raums in der Gievenbecker Ortsmitte - einstimmig geändert beschlossen
+- TOP 9: Verkehr
+- TOP 9.1: Verwendung der Fördermittel gem. § 11 a und § 11 Abs. 2 ÖPNVG - zur Kenntnis genommen
+- TOP 9.2: Förderprogramm für Lastenfahrräder und -anhänger: Erfahrungsbericht - zur Kenntnis genommen
+- TOP 9.3: Planungs- und Baubeschluss: Einrichtung der Schillerstraße/des Lütkenbecker Weges zwischen Hansaring und Theodor-Scheiwe-Straße als Fahrradstraße - einstimmig beschlossen
+- TOP 9.4: Planungs- und Baubeschluss: Einrichtung der Schillerstraße/des Lütkenbecker Weges zwischen Hansaring und Theodor-Scheiwe-Straße als Fahrradstraße - einstimmig beschlossen
+- TOP 9.5: Satzung der Stadt Münster für den Nachweis notwendiger Stellplätze und Fahrradabstellplätze (Stellplatzsatzung der Stadt Münster) - ohne Beschlussfassung geschoben
+- TOP 9.6: Landeswettbewerb "Mobil.NRW - Modellvorhaben innovativer ÖPNV im ländlichen Raum" - einstimmig beschlossen
+- TOP 10: Verschiedenes
