@@ -1,0 +1,95 @@
+# 4. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2019-11-21T16:00:00+01:00
+- Ende: 2019-11-21T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/7550
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/7550
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00440720.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht des Oberbürgermeisters
+- TOP 3: 1. Einwohnerfragestunde
+- TOP 3.1: Entwicklung des innerstädtischen Gebietes entlang der Reicker Straße - Vertagung
+- TOP 3.2: Gedenkstätte am Altmarkt - Vertagung
+- TOP 3.3: Rettungsweg und Hochwasserschutz Laubegast - Vertagung
+- TOP 3.4: Berechnung der Grundsteuer - Vertagung
+- TOP 3.5: Hochwasser 2002/2013 - Vertagung
+- TOP 4: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden – Mandat der Sozialdemokratischen Partei Deutschlands (SPD) - Vertagung
+- TOP 5: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Altstadt der Landeshauptstadt Dresden – Mandat der Partei DIE LINKE. (LINKE) - Vertagung
+- TOP 6: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Cotta der Landeshauptstadt Dresden – Mandat der Freien Demokratischen Partei (FDP) - Vertagung
+- TOP 7: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Leuben der Landeshauptstadt Dresden – Mandat der Partei BÜNDNIS 90/DIE GRÜNEN (GRÜNE) - Vertagung
+- TOP 8: Nichtannahme des Mandates eines Stadtbezirksbeirates und Nachrücken einer Ersatzperson in den Stadtbezirksbeirat Neustadt der Landeshauptstadt Dresden - Mandat der Partei BÜNDNIS 90/DIE GRÜNEN - Vertagung
+- TOP 9: Tagesordnungspunkte ohne Debatte
+- TOP 10: Einigungsverfahren Aufsichtsräte - Vertagungen aus der Sitzung vom 30.10.2019
+- TOP 10.1: Besetzung des Aufsichtsrates der ENSO Energie Sachsen Ost AG - Vertagung
+- TOP 10.2: Besetzung des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH - Vertagung
+- TOP 10.3: Besetzung des Aufsichtsrates der Dresden Marketing GmbH - Vertagung
+- TOP 10.4: Besetzung des Aufsichtsrates der Cultus gGmbH der Landeshauptstadt Dresden - Vertagung
+- TOP 10.5: Besetzung des Aufsichtsrates der Verkehrsmuseum Dresden gGmbH - Vertagung
+- TOP 10.6: Besetzung des Aufsichtsrates der Zoo Dresden GmbH - Vertagung
+- TOP 10.7: Besetzung des Aufsichtsrates der Dresden-IT GmbH - Vertagung
+- TOP 10.8: Besetzung des Aufsichtsrates der Flughafen Dresden GmbH - Vertagung
+- TOP 10.9: Besetzung des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - Vertagung
+- TOP 10.10: Besetzung des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - Vertagung
+- TOP 10.11: Besetzung des Aufsichtsrates der Dresdner Bäder GmbH - Vertagung
+- TOP 10.12: Besetzung des Aufsichtsrates der NanoelektronikZentrumDresden GmbH - Vertagung
+- TOP 10.13: Besetzung des Aufsichtsrates der Kommunale Immobilien Dresden GmbH & Co. KG - Vertagung
+- TOP 10.14: Besetzung des Aufsichtsrates der Messe Dresden GmbH - Vertagung
+- TOP 10.15: Besetzung des Aufsichtsrates der STESAD GmbH - Vertagung
+- TOP 10.16: Besetzung des Aufsichtsrates der Stadtentwässerung Dresden GmbH - Vertagung
+- TOP 10.17: Besetzung des Aufsichtsrates der Technische Werke Dresden GmbH - Vertagung
+- TOP 10.18: Besetzung des Aufsichtsrates der EnergieVerbund Dresden GmbH - Vertagung
+- TOP 10.19: Besetzung des Aufsichtsrates der Wohnen in Dresden GmbH & Co. KG - Vertagung
+- TOP 10.20: Besetzung des Aufsichtsrates der Stadtreinigung Dresden GmbH - Vertagung
+- TOP 10.21: Wahl und Entsendung der Vertreter/-innen der Landeshauptstadt Dresden in die Achte Verbandsversammlung des Kommunalen Sozialverbandes Sachsen (KSV) - Vertagung
+- TOP 10.22: Wahl der Mitglieder des Verwaltungsrates der Ostsächsischen Sparkasse Dresden - Vertagung
+- TOP 11: Besetzung des Beirates "Gesunde Städte" gemäß § 25 Abs. 6 Hauptsatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 12: Besetzung des Seniorenbeirates gemäß § 25 Abs. 4 Hauptsatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 13: Besetzung des Beirates für Menschen mit Behinderungen gemäß § 25 Abs. 8 Hauptsatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 14: Widerspruch zu Beschlüssen aus der Sitzung des Stadtrates 6. Juni 2019 gem. § 52 Abs. 2 Satz 1 SächsGemO
+- TOP 14.1: Sachgrundlose Befristungen von Arbeitsverträgen der LH Dresden - Vertagung
+- TOP 14.2: Gute Arbeit in und bei der Landeshauptstadt Dresden - Vertagung
+- TOP 15: Verweisungen aus der Sitzung des Stadtrates vom 04.07.2019
+- TOP 15.1: Festsetzung der Elternbeiträge ab dem 1. September 2019 nach Vollzug des Abstimmungsverfahrens nach § 15 Abs. 1 SächsKitaG i. V. m. § 2 Abs. 2 der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen (Elternbeitragssatzung) - Vertagung
+- TOP 15.2: Bildung und Kultur in der Landeshauptstadt stärken - Vertagung
+- TOP 16: Vertagungen aus der Sitzung des Stadtrates vom 26.09.2019
+- TOP 16.1: Unterstützung des Wirtschaftsverkehrs und Verbesserung der Luftqualität in Dresden durch kommunale Kaufprämien für die Anschaffung von Transportfahrrädern - Vertagung
+- TOP 16.2: Wirtschaftswachstum in Dresden unterstützen - Gewerbeflächen entwickeln - Vertagung durch Einreicher
+- TOP 16.3: Gemeinwohl-Ökonomie in Dresden stärken - Vertagung
+- TOP 16.4: Neues Teilhabechancengesetz nutzen – Stellen für langzeitarbeitslose Menschen schaffen - Vertagung
+- TOP 16.5: Digitale Offensive für die Bürgerinnen und Bürger der Stadt Dresden - Vertagung
+- TOP 16.6: Stärkung des Gemeindlichen Vollzugsdienstes - Vertagung
+- TOP 16.7: Mehr Frauen in Führungspositionen - Vertagung
+- TOP 17: Vertagung aus der letzten Sitzung des Stadtrates vom 30.10.2019
+- TOP 17.1: Jahresabschluss 2018 des Eigenbetriebes Städtisches Klinikum Dresden - Vertagung
+- TOP 17.2: Satzung zur Änderung der Beherbergungssteuersatzung der Landeshauptstadt Dresden - Vertagung
+- TOP 17.3: Finanzielle Änderungen im Bereich Asyl im Jahr 2019 - Vertagung
+- TOP 17.4: Änderung der Geschäftsordnung des Bildungsbeirates der Landeshauptstadt Dresden (Anlage zu Beschluss V0359/15) - Vertagung
+- TOP 17.5: Umsetzung und Fortschreibung Lichtmasterplan Dresdner Innenstadt aus dem Jahr 2009 - Vertagung
+- TOP 17.6: Kiessee Leuben als sichere Badestelle entwickeln - Vertagung
+- TOP 18: Fachförderrichtlinie „Zukunftsstadt Dresden" - Vertagung
+- TOP 19: Beitritt der Landeshauptstadt Dresden zur bundesweiten Initiative Klischeefrei - Vertagung
+- TOP 20: Veranstaltungsnetz Altmarkt - Umgestaltung für eine barrierefreie Leitungsführung/Herstellung einer funktionstüchtigen Platzdrainage - Vertagung
+- TOP 21: Erhöhung des Kassenkreditrahmens für das Wirtschaftsjahr 2019 des Eigenbetriebes Städtisches Klinikum Dresden - Vertagung
+- TOP 22: Neufassung der Zahlung einer außertariflichen Zulage für Fachärztinnen und Fachärzte im Gesundheitsamt sowie Brand- und Katastrophenschutzamt - Vertagung
+- TOP 23: Umverteilung von Verpflichtungsermächtigungen - Vertagung
+- TOP 24: Ersatzneubau einer Zweifeld-Sporthalle an der 113. Grundschule "Canaletto", Georg-Nerlich-Straße 1 in 01307 Dresden - Vertagung
+- TOP 25: Jahresabschluss 2018 des Eigenbetriebes Kindertageseinrichtungen Dresden - Vertagung
+- TOP 26: Satzung der Landeshauptstadt Dresden über die Feuerwehr (Feuerwehrsatzung) - Vertagung
+- TOP 27: Neufassung der Rettungsdienstgebührensatzung der Landeshauptstadt Dresden ab 1. Januar 2020 - Vertagung
+- TOP 28: Stadtumbau – Programmteil Aufwertung, Dresden Westlicher Innenstadtrand (WIR) - Vertagung
+- TOP 29: Aufhebung der Sanierungssatzung für das Sanierungsgebiet Dresden S 10, Dresden-Neumarkt - Vertagung
+- TOP 30: Bestellung eines Wirtschaftsprüfers zur Prüfung des Jahresabschlusses 2019 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Vertagung
+- TOP 31: Straßenrückbau stoppen - Verkehrsplanung für alle Verkehrsteilnehmer, hier: Korrektur Vorplanungen Stadtbahn 2020 Teilstrecke 1.3 "Nürnberger Straße - Zellescher Weg - Caspar-David-Friedrich-Straße" - Vertagung
+- TOP 32: Trainingsbedingungen in Klotzsche sichern - Vertagung
+- TOP 33: Sozialen Wohnungsbau mit ökologisch und städtebaulich innovativem Quartier voranbringen - Aufstellungsbeschluss für Globus-Markt am Leipziger Bahnhof aufheben - Vertagung
+- TOP 34: Gebührenfreie Vergabe von Wohnberechtigungsscheinen - Vertagung
+- TOP 35: Kunst-, Antik- und Trödelmärkte in der Hauptstraße ermöglichen - Vertagung
+- TOP 36: Maßnahmen zur kurzfristigen baulichen Erweiterung der Grundschulkapazitäten im Grundschulbezirk Altstadt 1 - Vertagung
