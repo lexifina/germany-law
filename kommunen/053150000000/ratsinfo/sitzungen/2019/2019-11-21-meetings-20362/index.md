@@ -1,0 +1,66 @@
+# 42. Sitzung des Ausschusses Soziales und Senioren
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-21T15:30:00+01:00
+- Ende: 2019-11-21T18:19:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/13
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20362
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20362
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Verpflichtung neuer Mitglieder des Ausschuss Soziales und Senioren
+- TOP 1: Gleichstellungsrelevante Themen
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung des Rates
+- TOP 2.1: Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - zurückgestellt
+- TOP 2.1.1: (Ersetzungsantrag zu AN/1090/2019) Besserer Schutz von Menschen in der Prostitution und Förderung von Ausstiegsmöglichkeiten - zurückgestellt
+- TOP 2.2: Stadt Köln beschafft nur noch energieeffiziente Haushaltsgeräte - zurückgestellt
+- TOP 3: Beschlüsse gemäß § 41 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 3.1: Projekt "Radeln ohne Alter" - Umsetzung des Ratsbeschlusses vom 14.11.2017 - geändert beschlossen
+- TOP 3.1.1: Änderungsantrag der Ratsgruppe GUT zu Beschlussvorlage "Radeln ohne Alter" 3847/2019 - ungeändert beschlossen
+- TOP 4: Ausschussempfehlungen an den Rat
+- TOP 4.1: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Langenbergstr. o. Nr., 50765 Köln-Blumenberg, Gemarkung Worringen, Flur 50, Flurstück 1872 tlw. - ungeändert beschlossen
+- TOP 4.2: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.2.1: Ergänzungsantrag der SPD Fraktion zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.3: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 4.4: Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen - zurückgestellt
+- TOP 4.4.1: Ersetzungsantrag zu „Förderung der Aufbauphase eines lokalen Verbunds von Kölner Migrantenselbstorganisationen“ - zurückgestellt
+- TOP 4.4.2: Änderungsantrag zur Vorlage 1224/2019 - zurückgestellt
+- TOP 4.5: Neubau eines Wohngebäudes im öffentlich geförderten Wohnungsbau auf dem städtischen Grundstück Waldstraße 115, 51145 Köln-Porz, Gemarkung Urbach, Flur 5, Flurstück 812 - ohne Votum in nachfolgende Gremien
+- TOP 4.6: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 4.7: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - ungeändert beschlossen
+- TOP 4.8: Fortführung des kombinierten Programms "Win-Win für Köln", haushaltsrechtliche Unterrichtung des Rates gemäß §25 KomHVO über eine Kostensteigerung bei der Sanierung des Rheinparkcafés sowie Antrag auf Bereitstellung einer überplanmäßigen Auszahlung - ungeändert beschlossen
+- TOP 5: Ausschussempfehlungen an andere Ausschüsse
+- TOP 6: Stadtarbeitsgemeinschaften
+- TOP 7: Behindertenbeauftragter
+- TOP 7.1: Bericht des Behindertenbeauftragten
+- TOP 7.2: Herstellung von Barrierefreiheit auf Kölner Gehwegen - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 8: Aktuelle Situation von Flüchtlingen in Köln
+- TOP 8.1: Bericht zur Situation Geflüchteter in Köln
+- TOP 9: Jobcenter
+- TOP 9.1: Bericht des Jobcenter Köln - Kenntnis genommen
+- TOP 10: Wohnen
+- TOP 10.1: Bericht "Wohnen in Köln" - Kenntnis genommen
+- TOP 11: Anfragen und Beantwortungen gemäß § 4 der Geschäftsordnung des Rates
+- TOP 12: Anfragen und Beantwortungen zu früheren Sitzungen
+- TOP 12.1: Solidaritiy City Köln: Kann Köln Teil der europäischen Solidarity Cities werden? - zurückgestellt
+- TOP 12.2: Mdl. Anfrage von SE Carolina Brauckmann zum Bericht über die örtliche Planung nach § 7 Alten- und Pflegegesetz Nordrhein-Westfalen (APG NRW), s. 3909/2018 zur Beantwortung der Anfrage AN/1557/2018 - Kenntnis genommen
+- TOP 12.3: Probleme bei der ambulanten Pflege und bei Haushaltsnahen Dienstleistungen - Anfrage der SVK vom 20.09.2019 - Kenntnis genommen
+- TOP 12.3.1: Beantwortung der Anfrage "Probleme bei der ambulanten Pflege und bei haushaltsnahen Dienstleistungen" - Kenntnis genommen
+- TOP 12.4: Sachstandsbericht zum Thema "Wickeltische in öffentlichen Herrentoiletten" - Mündliche Nachfrage von Frau RM Schmerbach vom 05.09.2019 im Ausschuss Soziales und Senioren - zu AN/0177/2018 - Kenntnis genommen
+- TOP 13: Aktuelle Anfragen und Beantwortungen
+- TOP 13.1: Anfrage der FDP-Fraktion im Rat der Stadt Köln zum Thema Loverboy (AN/1093/2019) - Kenntnis genommen
+- TOP 14: Mündliche Anfragen
+- TOP 15: Mitteilungen
+- TOP 15.1: Auswirkungen und Sachstand zur Umsetzung des Bundesteilhabegesetzes (BTHG) - Kenntnis genommen
+- TOP 15.2: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln (Ratsbeschluss v. 20.3.2018 - Vorlagen Nr. 0342/2018) - Kenntnis genommen
+- TOP 15.3: Winterhilfe für wohnungslose Menschen 2019- 2020 - Kenntnis genommen
+- TOP 15.4: Wegweiser/Informationen für Alleinerziehende in Köln - Kenntnis genommen
+- TOP 15.5: Optimierung des gesamtstädtischen Flüchtlingsdatenmanagements - zurückgestellt
+- TOP 15.6: Umsetzung des Bundesteilhabegesetz (BTHG) - Kenntnis genommen
+- TOP 15.7: Zukunft der Pflege in Köln - Kenntnis genommen
+- TOP 15.8: Mitteilung zum Bericht zur Situation wohnungloser und von Wohnungslosigkeit bedrohter Frauen in der Stadt Köln - zurückgestellt
+- TOP 15.9: Wohngeldstärkungsgesetz zum 01.01.2020 - Kenntnis genommen
