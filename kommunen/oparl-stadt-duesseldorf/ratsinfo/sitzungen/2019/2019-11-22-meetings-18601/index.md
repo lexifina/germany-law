@@ -1,0 +1,72 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-22T16:00:00+01:00
+- Ende: 2019-11-22T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18601
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18601
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö Nachtrag - BV 9 - 22.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364071.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö Nachtrag - BV 9 - 22.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364071.pdf
+- Wortprotokoll: Sitzungspaket Ö Nachtrag - BV 9 - 22.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364071.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 10.10.2019 - einstimmig beschlossen
+- TOP 4: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 5: Machbarkeitsstudie Rheinuferpromenade Benrath/Urdenbach - mündlicher Vortrag - zur Kenntnis genommen
+- TOP 6: Verkehrskonzept Düsseldorf-Süd - mündlicher Vortrag - zur Kenntnis genommen
+- TOP 7: Bebauungsplan - Entwurf Nr. 09/003 - Nördlich Paulsmühlenstraße - Empfehlung mehrheitlich beschlossen
+- TOP 8: Bebauungsplan-Vorentwurf Nr. 09/016 - Ickerswarder Straße - Empfehlung einstimmig beschlossen
+- TOP 8.1: Änderungsantrag zu TOP 8 (Vorlage APS/039/2019) - Bebauungsplan-Vorentwurf Nr. 09/016 - Ickerswarder Straße - einstimmig beschlossen
+- TOP 9: Bezirkssportanlage Am Wald - Erneuerung Kunstrasenbelag Jugendspielfeld - einstimmig beschlossen
+- TOP 10: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 11: Annette-von-Droste-Hülshoff-Gymnasium und Schloß-Gymnasium Benrath - Ausstieg aus dem gebundenen Ganztag - Empfehlung einstimmig beschlossen
+- TOP 12: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen) - vertagt
+- TOP 13: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 9, Liste A (Schulen), Ergänzung - einstimmig beschlossen
+- TOP 14: Bezirklicher Bauunterhalt 2019 - Liste B + C - abweichend beschlossen
+- TOP 15: Trödelmärkte auf dem Schützenplatz Spangerstraße im 1. Halbjahr 2020 - mehrheitlich beschlossen
+- TOP 16: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2020 - mehrheitlich beschlossen
+- TOP 17: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung einstimmig beschlossen
+- TOP 18: Umsetzung des regionalen Schnellbuskonzeptes - zur Kenntnis genommen
+- TOP 19: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 20: Ickerswarder Straße / Münchener Straße - P+R Platz und Herstellung Metrobushaltestelle - zur Kenntnis genommen
+- TOP 21: Verfügungsmittel: VdK OV Benrath-Garath, Adventsfeier 2019 - einstimmig beschlossen
+- TOP 22: Verfügungsmittel: Kinderclub in der Donk - Kindertheater "Wie die Buchstaben entstanden sind" - einstimmig beschlossen
+- TOP 23: Verfügungsmittel: Schützenbruderschaft St. Cäcilia D-Benrath e.V. - Anschaffung eines Beamers - einstimmig beschlossen
+- TOP 24: Verfügungsmittel: Heimatgemeinschaft Groß-Benrath; Nikolausfeier - einstimmig beschlossen
+- TOP 25: Verfügungsmittel: Karnevalsfreunde Kath. Pfarrgemeinde St. Hubertus Itter; Karnevalsumzug - einstimmig beschlossen
+- TOP 26: Verfügungsmittel: Benrather Kulturkreis - Ausstellung "Benrather Rundgang" - einstimmig beschlossen
+- TOP 27: Verfügungsmittel: Adolf-Klarenbach-Schule - Präventionsprogramm "Mein Körper gehört mir" - einstimmig beschlossen
+- TOP 28: Verfügungsmittel: St. Sebastianus-Schützenbruderschaft 1641 D-Himmelgeist - Weihnachtsbaum2019 - einstimmig beschlossen
+- TOP -: Anfragen
+- TOP 29: Vorgartensatzung - schriftlich beantwortet
+- TOP 30: Grünzug Ohmweg - schriftlich beantwortet
+- TOP 31: Parkraumbewirtschaftung „Rund um das Benrather Krankenhaus“ - vertagt
+- TOP 32: Einfahrbeschränkungen für den Werstener Tunnel und den Uni-Tunnel - schriftlich beantwortet
+- TOP 33: Parkplatznot im Einzugsbereich der Harffstraße - vertagt
+- TOP 34: Sachstand Prioritätenliste Mischverkehrsflächen - vertagt
+- TOP 35: Stand Bebauungsplan Areal Südlich Hildener Straße - schriftlich beantwortet
+- TOP 36: Benrather Gärten - schriftlich beantwortet
+- TOP -: Anträge
+- TOP 37: Grundstück Ickerswarder Str./Münchener Straße - zurückgezogen
+- TOP 38: Nutzungskonzept Eisstadiongelände Paulsmühlenstraße - einstimmig beschlossen
+- TOP 39: Nutzungskonzept ehemaliges Sportgrundstück Benrath 1910 - einstimmig beschlossen
+- TOP 40: Fahrradweg Am Schönenkamp - einstimmig beschlossen
+- TOP 41: Graffiti - künstlerische Gestaltung der "Angströhre" - einstimmig beschlossen
+- TOP -: Informationsvorlagen der Bezirksverwaltungsstelle 9
+- TOP 42: RRX-Planung - Fuß- und Radwegeverbindung Reisholz-Hassels - zur Kenntnis genommen
+- TOP 43: Kreuzung Paulsmühlen-/Einsiedelstr./Am Wald - zur Kenntnis genommen
+- TOP 44: Lärmmessung A 46 und A 59 - zur Kenntnis genommen
+- TOP 45: Abfallbehälter in der Fußgängerzone Benrath - zur Kenntnis genommen
+- TOP 46: Sanierung und Modernisierung von Kinderspielplätzen - zur Kenntnis genommen
+- TOP 47: Unterführung Paulsmühlenstraße - zur Kenntnis genommen
+- TOP 48: Sanierung des Benrather Rathauses - zur Kenntnis genommen
+- TOP 49: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 50: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 51: Verfügungsmittel: Flüchtlingsunterkunft Schimmelpfennigstraße - Weihnachtsbaum - einstimmig beschlossen
