@@ -1,0 +1,73 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-22T14:00:00+01:00
+- Ende: 2019-11-22T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18750
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18750
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362756.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362756.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00362756.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung der Bezirksvertretung 1 am 11.10.2019 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen - einstimmig beschlossen
+- TOP 4: Verwaltungsvorlagen und mündliche Berichte
+- TOP 4.1: Vorstellung: SABRA - Beratung bei Rassismus und Antisemitismus - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 4.2: Aktueller Stand zum Interessenswettbewerb "Ort für die Erinnerung und Akzeptanz von gleichgeschlechtlicher und sexueller Vielfalt" - mündlicher Bericht - - vertagt
+- TOP 4.3: Geländer am Burgplatz als Absturzsicherung an der Inneren Nördlichen Düssel - Information - - zur Kenntnis genommen
+- TOP 4.4: Bebauungsplan-Entwurf Nr. 01/11 - Ulmer Höh` -Nordteil - Empfehlung einstimmig beschlossen
+- TOP 4.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11: Barrierefreier Haltestellenumbau “Dreieck“ - Empfehlung einstimmig beschlossen
+- TOP 4.12: Barrierefreier Haltestellenumbau Venloer Straße - vertagt
+- TOP 4.13: Umsetzung des regionalen Schnellbuskonzeptes - zur Kenntnis genommen
+- TOP 4.14: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung einstimmig beschlossen
+- TOP 4.15: Spezialmärkte in den Schadow Arkaden im Jahre 2020 - einstimmig beschlossen
+- TOP 4.16: Veranstaltungen Burgplatz - Jahresprogramm 2020 - Empfehlung einstimmig beschlossen
+- TOP 4.17: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2020 - Empfehlung abweichend beschlossen
+- TOP 4.18: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 4.19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.20: Änderung der Parkgebührenordnung
+- TOP 4.21: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 4.22: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 - Haushalt 2019 Liste A Schulen 2121101/ 52415100 - einstimmig beschlossen
+- TOP 4.23: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Haushalt 2019 - Konten 2121101 52415100 - 52416000 Liste A - Schule - einstimmig beschlossen
+- TOP 4.24: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1 Haushalt 2019 Liste A Schulen 2121101/ 52415100 - Restmittel - einstimmig beschlossen
+- TOP 4.25: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1, Liste B) - Haushalt 2019 - einstimmig beschlossen
+- TOP 4.26: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses für das Projekt St. Rochus Grundschule, Gneisenaustraße 60 - Empfehlung einstimmig beschlossen
+- TOP 4.27: Südverlängerung der Toulouser Allee mit Anschluss an die Worringer Straße -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 4.28: Benennung der Passage am Schauspielhaus in Bernhard-Pfau-Passage - einstimmig beschlossen
+- TOP 4.29: Übertragung von Verfügungsmitteln des Jahres 2019 ins Haushaltsjahr 2020 - einstimmig beschlossen
+- TOP 4.30: Übertragung von Restmitteln aus den Budgetkonten 52415100 - 52416000 Liste B) des Jahres 2019 ins Haushaltsjahr 2020 - einstimmig beschlossen
+- TOP 5: Mitteilung der Verwaltung - zur Kenntnis genommen
+- TOP 6: Sitzungstermine der Bezirksvertretung 1 - 2. Halbjahr - einstimmig beschlossen
+- TOP 7: Anfragen
+- TOP 7.1: Hofgarten – Beschilderung Radwege (Anfrage der CDU-Fraktion) - zur Kenntnis genommen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Zwischennutzung Mühlenstraße erfolgreich? (Anfrage der CDU-Fraktion) - zur Kenntnis genommen
+- TOP 7.4: Nutzung der Umweltspuren im Stadtbezirk 1 (Anfrage der Fraktion Bündnis90/Die Grünen)
+- TOP 7.5: Bordsteinabsenkung Kreuzung Weißenburgstraße/Geistenstraße (Anfrage der Fraktion Bündnis90/Die Grünen)
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Blockierung des Radweges am Mannesmannufer (Anfrage der SPD-Fraktion)
+- TOP 8: Anträge
+- TOP 8.1: Zugang Kriegerdenkmal am Reeser Platz (überfraktioneller Antrag) - mehrheitlich beschlossen
+- TOP 8.2: Fahrradabstellbügel Bagelstraße 136, 132, 122b (Antrag der Fraktion Bündnis90/Die Grünen) - einstimmig beschlossen
+- TOP 8.3: Sportfläche auf dem Schulhof des Görres-Gymnasiums (Antrag der FDP-Fraktion) - einstimmig beschlossen
+- TOP 8.4: Absenkung Gehweg – Benedikt-Schmittmann-Straße/ Ecke Camphausenstraße (Antrag der CDU-Fraktion) - einstimmig beschlossen
+- TOP 8.5: Umbau Alte Kämmerei (Antrag der CDU-Fraktion) - mehrheitlich abgelehnt
+- TOP 8.6: Barrierefreiheit auf der Roßstraße (Antrag der SPD-Fraktion) - einstimmig beschlossen
+- TOP 8.7: Verkehrssicherheit für Kinder auf der Marc-Chagall-Straße erhöhen (Antrag der SPD-Fraktion) - einstimmig beschlossen
+- TOP 9: Verfügungsmittel der Bezirksvertretung 1
+- TOP 9.1: Verfügungsmittel der Bezirksvertretung 1 - Zuschuss an KG.Till's Freunde - Seniorensitzung - einstimmig beschlossen
+- TOP 9.2: Verfügungsmittel der BV 1 - Zuschuss an Matthias-Claudius-Schule - Martinszug - einstimmig beschlossen
