@@ -1,6 +1,5 @@
 # Anlage (zu § 3 Absatz 2)
 
-(Fundstelle: BGBl. I 2009, 3045)
 Die in § 3 Absatz 1 aufgeführten Laufbahnen umfassen die nachfolgenden Ämter:
 | Gehobener Kriminaldienst des Bundes |
 | zu der Laufbahn gehörende Ämter: | Amtsbezeichnungen |
