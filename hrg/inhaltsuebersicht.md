@@ -45,7 +45,7 @@
 | § 29 | Maßstäbe der Ausbildungskapazität |
 | § 30 | Festsetzung von Zulassungszahlen |
 | § 31 | Zentrale Vergabe von Studienplätzen |
-| § 32 | Auswahlverfahren |
+| § 32 | (weggefallen) |
 | § 33 | (weggefallen) |
 | § 33a | (weggefallen) |
 | § 34 | Benachteiligungsverbot |
