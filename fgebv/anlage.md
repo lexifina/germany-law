@@ -79,7 +79,7 @@
 | B.10 | Drahtloser Netzzugang zum Angebot von Telekommunikationsdiensten |  |
 | B.10.1 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 880 bis 915 MHz und 925 bis 960 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B · 500 000 · t1 |
 | B.10.2 | Frequenzzuteilung zur bundesweiten Nutzung für den drahtlosen Netzzugang in den Frequenzbereichen 1710 bis 1780,5 MHz und 1805 bis 1875,5 MHz (einschließlich der Festsetzung funktechnischer Parameter) | B · 250 000 · t1 |
-| B.10.3 | Frequenzzuteilung zur regionalen Nutzung für den drahtlosen Netzzugang in dem Frequenzbereich 3400 bis 3800 MHz (einschließlich der Festsetzung funktechnischer Parameter) | mindestens jedoch 1 250 |
+| B.10.3 | Frequenzzuteilung zur lokalen Nutzung für den drahtlosen Netzzugang in dem Frequenzbereich 3700 bis 3800 MHz (einschließlich der Festsetzung funktechnischer Parameter) | 1 000 + B ∙ t ∙ 5 ∙ (6a1 + a2) |
 | C | Gebühren für Maßnahmen auf Grund von Verstößen gegen die §§ 44 bis 47 des Telekommunikationsgesetzes oder die darauf beruhenden Rechtsverordnungen |  |
 | C.1 | Bearbeiten eines Verstoßes gegen Frequenzzuteilungsbedingungen, Auflagen oder die Frequenzzuteilungsverordnung einschließlich Festlegen der Maßnahmen | 25 bis 1 500 |
 | C.2 | Ausführen eines mobilen Messeinsatzes am Ort des Gestörten | 900 |
