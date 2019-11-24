@@ -16,3 +16,4 @@ Knappschaft-Bahn-See
 - [§ 4 Fortführung der Bundesknappschaft](0004.md)
 - [§ 5 Eingliederung der Bahnversicherungsanstalt und der Seekasse](0005.md)
 - [§ 6 Stellenbörse](0006.md)
+- [§ 7 Beauftragung im Zusammenhang mit der Administration und Prüfung von Förderprogrammen und Förderprojekten](0007.md)

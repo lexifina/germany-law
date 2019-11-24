@@ -1,45 +1,48 @@
 # Anlage 2 (zu § 7)
 
-Fundstelle des Originaltextes: BGBl. I 1986, 2640 - 2641
-Form und Inhalt der Niederschriften
-1 Form
-  1.1 Für die Messungs- und Berechnungsniederschriften sind Vordrucke zu verwenden oder entsprechende Ausdrucke anzufertigen. Die Vordrucke und Ausdrucke sind mit laufenden Seitenzahlen oder Messungsnummern zu versehen und in Büchern oder Heftern nach Vermessungsarten oder Vermessungsbereichen zusammenzufassen.
-  1.2 Jedem Buch oder Hefter sind folgende Angaben voranzustellen:
-  1.2.1 der Name des Betriebes,
-  1.2.2 die Vermessungsart oder der Vermessungsbereich,
-  1.2.3 die laufende Nummer des Buches oder Hefters,
-  1.2.4 der Vermessungs- oder Berechnungszeitraum,
-  1.2.5 die Anzahl der Seiten oder die Messungsnummern des abgeschlossenen Buches oder Hefters.
-  2 Inhalt
-  2.1 Messungsniederschriften
-  2.1.1 Die Messungsniederschriften müssen folgende Angaben enthalten:
-  2.1.1.1 den Ort, Zweck und Tag der Messung,
-  2.1.1.2 die Namen der Ausführenden,
-  2.1.1.3 die Instrumente und Geräte mit Angabe des Herstellers und der Fabrikationsnummer,
-  2.1.1.4 die zu berücksichtigenden gerätebezogenen Konstanten und Korrekturwerte,
-  2.1.1.5 die gemessenen Werte und die erforderlichen Erläuterungen,
-  2.1.1.6 die Angaben über den Anschluß und den Abschluß der Messung,
-  2.1.1.7 die Angaben über Umstände, die das Messungsergebnis beeinflussen können, wie Witterung, Temperatur, Wetterzug, Traufwasser,
-  2.1.1.8 die Hinweise auf die Berechnungsniederschrift und die Übernahme in rißliche Darstellungen.
-  2.1.2 Werden selbstregistrierende Vermessungsinstrumente oder elektronische Datenerfassungsgeräte eingesetzt, ist ein Ausdruck in Klarschrift anzufertigen. Im übrigen gilt Nummer 2.1.1 entsprechend.
-  2.2 Berechnungsniederschriften
-  2.2.1 Die Berechnungsniederschriften müssen folgende Angaben enthalten:
-  2.2.1.1 den Ort, Zweck und Tag der Messung,
-  2.2.1.2 die Namen der Berechnenden und der Kontrollierenden, bei Datenverarbeitungsanlagen die Typen- und Programmbezeichnung, die Namen der Datenerfasser,
-  2.2.1.3 die Eingabewerte aus der Messungsniederschrift,
-  2.2.1.4 die Anschluß- und Abschlußwerte mit Hinweisen auf die Entnahmestellen,
-  2.2.1.5 die berechneten Werte,
-  2.2.1.6 die Angaben über Messungsdifferenzen, ihre Verteilung oder Ausgleichung sowie über die Genauigkeit, wenn der Zweck der Messung es erfordert,
-  2.2.1.7 die Hinweise auf die Messungsniederschrift und die Übernahme in rißliche Darstellungen.
-  2.2.2 Werden Datenverarbeitungsanlagen eingesetzt, ist ein Ausdruck in Klarschrift anzufertigen. Im übrigen gilt Nummer 2.2.1 entsprechend.
-  2.3 Niederschriften bei selbstrechnenden Vermessungsinstrumenten
-  2.3.1 Die Niederschriften müssen folgende Angaben enthalten:
-  2.3.1.1 die Angaben nach den Nummern 2.1.1.1 bis 2.1.1.7, zusätzlich die Typen- und Programmbezeichnung,
-  2.3.1.2 die Einstellwerte,
-  2.3.1.3 die Eingabewerte,
-  2.3.1.4 die Anschluß- und Abschlußwerte mit Hinweisen auf die Entnahmestellen, soweit sie nicht in den Angaben nach Nummer 2.3.1.3 enthalten sind,
-  2.3.1.5 die Angaben nach den Nummern 2.2.1.5 und 2.2.1.6,
-  2.3.1.6 die Hinweise auf die Übernahme in rißliche Darstellungen.
-  2.3.2 Es ist ein Ausdruck in Klarschrift anzufertigen.
-  2.4 Niederschriften auf Datenträgern
-    Mit Zustimmung der zuständigen Behörde darf von der Anfertigung von Ausdrucken nach Nummer 2.1.2 Satz 1, Nummer 2.2.2 Satz 1 oder Nummer 2.3.2 abgesehen werden, wenn gewährleistet ist, daß die Vermessungs- oder Berechnungsergebnisse auf maschinenlesbaren Datenträgern gesichert gespeichert sind und ein Ausdrucken unverzüglich möglich ist.
+Dokumentationspflicht
+1 Form und Inhalt der Dokumentation
+1.1 Messungs- und Berechnungsdokumentationen sind so zu gestalten, dass sie in allen Teilen von fachkundigen Personen nachvollzogen werden können.
+1.2 Messungs- und Berechnungsdokumentationen dürfen in elektronischer Form angefertigt und gespeichert werden.
+1.3 Bei den nach Nummer 1.2 angefertigten und gespeicherten Dokumentationen ist die Möglichkeit des unverzüglichen Ausdruckens bis zum Ende der Bergaufsicht zu gewährleisten.
+1.4 Die zuständige Behörde kann im Einzelfall festlegen, dass Messungs- und Berechnungsdokumentationen in dauerhafter analoger Form anzufertigen sind.
+1.5 Für die dauerhafte analoge Form von Messungs- und Berechnungsdokumentationen sind Vordrucke zu verwenden oder entsprechende Ausdrucke aus den in elektronischer Form vorhandenen Dokumentationen anzufertigen.
+1.6 Die nach Nummer 1.5 angefertigten Vordrucke und Ausdrucke sind mit laufenden Seitenzahlen oder Messungsnummern zu versehen und in Büchern oder Heftern nach Vermessungsarten oder Vermessungsbereichen zusammenzufassen.
+1.7 Jedem der nach Nummer 1.6 angefertigten Buch oder Hefter sind folgende Angaben voranzustellen:
+1.7.1 der Name des Betriebes,
+1.7.2 die Vermessungsart oder der Vermessungsbereich,
+1.7.3 die laufende Nummer des Buches oder Hefters,
+1.7.4 der Vermessungs- oder Berechnungszeitraum,
+1.7.5 die Anzahl der Seiten oder die Messungsnummern des abgeschlossenen Buches oder Hefters.
+2 Inhalt
+2.1 Messungsdokumentationen
+  Die Messungsdokumentationen müssen folgende Angaben enthalten:
+2.1.1 den Namen des Betriebes,
+2.1.2 den Ort, Zweck und Tag der Messung,
+2.1.3 die Namen der Ausführenden,
+2.1.4 die Instrumente und Geräte mit Angabe des Herstellers und der Fabrikationsnummer,
+2.1.5 die zu berücksichtigenden gerätebezogenen Konstanten und Korrekturwerte,
+2.1.6 die gemessenen Werte und die erforderlichen Erläuterungen nach Nummer 3,
+2.1.7 die Angaben über den Anschluss und den Abschluss der Messung,
+2.1.8 die Angaben über Umstände, die das Messungsergebnis beeinflussen können, wie Witterung, Temperatur, Wetterzug, Traufwasser,
+2.1.9 die Hinweise auf die Berechnungsdokumentation und die Übernahme in rissliche Darstellungen,
+2.1.10 bei selbstrechnenden Vermessungsinstrumenten sind zusätzlich zu dokumentieren:
+2.1.10.1 die Programmbezeichnung,
+2.1.10.2 die Einstellwerte,
+2.1.10.3 die Eingabewerte,
+2.1.10.4 die Angaben nach den Nummern 2.2.5 bis 2.2.8.
+2.2 Berechnungsdokumentationen
+  Die Berechnungsdokumentationen müssen folgende Angaben enthalten:
+2.2.1 den Namen des Betriebes,
+2.2.2 den Ort, Zweck und Tag der Messung,
+2.2.3 die Namen der Berechnenden und der Kontrollierenden, bei Verwendung elektronischer Datenverarbeitungsanlagen auch die Software- und Versionsbezeichnungen, die Namen der Datenerfasser,
+2.2.4 die Eingabewerte aus der Messungsdokumentation,
+2.2.5 die Anschluss- und Abschlusswerte mit Hinweisen auf die Entnahmestellen,
+2.2.6 die berechneten Werte,
+2.2.7 die Angaben über Messungsdifferenzen, ihre Verteilung oder Ausgleichung sowie über die Genauigkeit, wenn der Zweck der Messung es erfordert,
+2.2.8 Hinweise auf die Messungsdokumentation nach Nummer 2.2.4,
+2.2.9 die Hinweise auf die Übernahme der Berechnungen in rissliche Darstellungen.
+3 Gemessene Werte
+  Gemessene Werte sind die Werte, die von Messgeräten, Messinstrumenten oder Messeinrichtungen unmittelbar abgelesen werden oder von ihnen angezeigt bzw. gespeichert werden.
+  Bei Messverfahren, bei denen die gesuchten Größen nicht direkt bestimmt werden, sind als gemessene Werte im Sinne dieser Verordnung diejenigen Werte anzusehen, die erst durch spezifische Verfahrensschritte aus den tatsächlich gemessenen Werten bestimmt werden. Die tatsächlich gemessenen Werte werden als Rohdaten, die aus den spezifischen Verfahrensschritten abgeleiteten Werte als Reindaten bezeichnet.
+  In den Erläuterungen zu den gemessenen Werten ist anzugeben, ob die Werte tatsächlich gemessen wurden oder ob es sich um Reindaten handelt. Die Erzeugung der Reindaten ist zu erläutern. Derartige Erläuterungen können auch Verweise auf entsprechende technische Dokumentationen sein.
