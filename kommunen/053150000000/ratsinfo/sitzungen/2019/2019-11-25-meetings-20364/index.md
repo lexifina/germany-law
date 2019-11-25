@@ -1,0 +1,66 @@
+# Sitzung des Ausschusses Schule und Weiterbildung
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-25T15:10:00+01:00
+- Ende: 2019-11-25T18:06:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/12
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20364
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20364
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP -: Bestellung eines Schriftführers - ungeändert beschlossen
+- TOP 1: Allgemeines
+- TOP 1.1: Verpflichtung sachkundiger Bürger oder Einwohner/innen
+- TOP 1.2: Gleichstellungsrelevante Themen
+- TOP 1.3: Bericht über den Stand der Schulbaumaßnahmen
+- TOP 1.3.1: Regelmäßige Berichterstattung aus dem Aktionsbündnis Schulbau, TOP 1.3 - Kenntnis genommen
+- TOP 2: Anträge gemäß § 3 und 5 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 2.1: Wohnungsbau sichern in Köln-Porz-Elsdorf – Schulinfrastruktur zeitnah erweitern! - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 2.1.1: Dringlichkeitsantrag der SPD-Fraktion; Wohnungsbau sichern in Köln- Porz-Elsdorf - Schulinfrastruktur zeitnah erweitern! (AN/1142/2019) - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 2.2: KGS Zehnthofstraße | Ostheim - geändert beschlossen
+- TOP 3: Anfragen gemäß § 4 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 3.1: Frühere Anfragen
+- TOP 3.1.1: Rückzug aller Kölner Gymnasien aus der zieldifferenzierten Inklusion - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.1.1.1: Anfrage AN/1064/2019 Rückzug der Gymnasien aus der zieldifferenzierten Inklusion - Kenntnis genommen mit erneuter Wiedervorlage
+- TOP 3.2: Neue Anfragen
+- TOP 3.2.1: Überlassung von mobilen Endgeräten für einkommensschwache Schülerinnen und Schüler - Kenntnis genommen
+- TOP 3.2.2: Trinkwasserbrunnen in Kölner Schulen- dat Wasser vun Kölle is jot! - Kenntnis genommen
+- TOP 4: Vorlagen der Verwaltung
+- TOP 4.1: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.1.1: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum in nachfolgende Gremien
+- TOP 4.2: Schulrechtliche Änderung der Kapazität der GGS Hauptstraße 432, 51443 Köln-Porz von 3 auf 4 Züge gemäß § 81 Absatz 2 Schulgesetz NRW - ungeändert beschlossen
+- TOP 4.3: 200. Änderung des Flächennutzungsplanes (FNP) im Stadtbezirk 5, in Köln-Weidenpesch; Arbeitstitel: Südliche Schmiedegasse - ungeändert beschlossen
+- TOP 4.4: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 4.5: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 4.6: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - zurückgestellt
+- TOP 4.7: Fortschreibung der priorisierenden Schulbaumaßnahmenliste - ungeändert beschlossen
+- TOP 4.7.1: Änderungsantrag zu TOP 4.7., Vorlage „Fortschreibung der priorisierenden Schulbaumaßnahmenliste“, DS-Nr. 2905/2019 - endgültig zurückgezogen
+- TOP 5: Mitteilungen
+- TOP 5.1: 26. Bericht zur Situation Geflüchteter in Köln - Kenntnis genommen
+- TOP 5.2: Sprach-und IntegrationsmittlerInnenpool für die Stadt Köln - Kenntnis genommen
+- TOP 5.3: Prüfauftrag zur Modifizierung des Anmeldeverfahrens an Grundschulen mit dem Siegel Europaschule - Kenntnis genommen
+- TOP 5.4: Innovative Bildungsanbote der VHS zur Digitalisierung - Kenntnis genommen
+- TOP 5.5: VHS als Dienstleister für die Stadtverwaltung: Aktive Mittagspausen sowie Auftragsschulungen für die Personalentwicklung - Kenntnis genommen
+- TOP 5.6: Anfrage der FDP-Fraktion im Rat der Stadt Köln zum Thema Loverboy (AN/1093/2019) - Kenntnis genommen
+- TOP 5.7: Beantwortung einer Anfrage gem. § 4 der Geschäftsordnung des Rates Entwicklung des Siemens-Geländes an der Franz-Geuer-Straße - Kenntnis genommen
+- TOP 5.8: Veröffentlichung der Handreichungen „Beschulung im Seiteneinstieg im Primar- und Sek I-Bereich – Eine Handreichung für Lehrkräfte, Schulsoziarbeiterinnen und Schulsozialarbeiter“ und - Kenntnis genommen
+- TOP 5.9: Offene Ganztagsschule im Primarbereich - Bedarfssituation im Schuljahr 2019/2020 - Kenntnis genommen
+- TOP 5.10: Erfolgreiches VHS-Projekt „Stadtteileltern Köln“ zur Integration in den Arbeitsmarkt - Kenntnis genommen
+- TOP 5.11: Beratung für Familien zum Bildungsangebot in Kita und OGTS insbesondere in den Kölner Sozialräumen - Kenntnis genommen
+- TOP 5.12: Sachstandsmitteilung zur Umsetzung des DigitalPakt NRW in Köln - Kenntnis genommen
+- TOP 5.13: Partizipation von Kindern und Jugendlichen stärken - Arbeit der Bezirksschüler*innenvertretung und der Schüler*innenvertretungen sicherstellen - Kenntnis genommen
+- TOP 5.14: Ratsbeschluss "Schulsozialindex weiterentwickeln und breit anwenden" Sitzung vom 21.05.2019, TOP 3.1.4 - Kenntnis genommen
+- TOP 5.15: Anmelde- und Aufnahmeverfahren in die weiterführende Schule der Sekundarstufe I (Sek I) zum Schuljahr 2020/2021 - Kenntnis genommen
+- TOP 6: Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Verschiedenes
