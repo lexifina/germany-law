@@ -1,0 +1,60 @@
+# 32. öffentliche Sitzung des Ausschusses für Straßen, Verkehr, Grün und Umwelt
+
+- Körperschaft: Tempelhof-Schöneberg von Berlin
+- Beginn: 2019-11-25T17:00:00+01:00
+- Ende: 2019-11-25T19:40:00+01:00
+- Ort: John-F.-Kennedy-Platz 1, 10825 Berlin
+- Status: 
+- Gremium: 
+- Ratsinformationssystem: https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=5753
+- OParl: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/meetings.asp?id=5753
+- Quelle: https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-tempelhof-schoeneberg.de/oi/oparl/1.0/download.asp?dtyp=105&id=343445
+
+## Tagesordnung
+
+- TOP 1: Begrüßung und Genehmigung der Tagesordnung - im Ausschuss abgelehnt
+- TOP 2: Genehmigung vorliegender Protokolle (31. Sitzung) - im Ausschuss abgelehnt
+- TOP 3: Dialogdisplays im Bezirk (Wunsch: Bündnis'90/Grüne) - im Ausschuss abgelehnt
+- TOP 4: Bericht aus der Verwaltung - im Ausschuss abgelehnt
+- TOP 5: Kinder- und Jugendparlament - (offen)
+- TOP 5.1: Zebrastreifen für die Prechtlstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Gefährliches Über-Rot-Fahren an der Kreuzung Groß-Ziethener Straße/Nahariyastraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Veränderung der Meßmerstraße zu einer Spielstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.4: Ein Zebrastreifen an der Kreuzung Tautenburger Straße/Frankenhauser Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Ein Zebrastreifen auf der Motzener Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Wiedereinführung des Straßenbahnbetriebs auf dem Lichtenrader- und Mariendorfer Damm - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.7: Anhebung der Halker Zeile am nördlichen Ende der Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.8: Umstellung der Ampelschaltung an der Kreuzung Marienfelder Allee/Nahmitzer Damm - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.9: Verlängerung der Grün-Phase der Fußgängerampel Kolonnenstraße Ecke Wilhelm-Kabus-Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.10: Ampelschaltung vor dem Robert Blum Gymnasium - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.11: Fahrradwege für die Günzel Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.12: 2-spuriger Radweg Hohenstaufenstraße (Höhe Martin-Luther-Straße) - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.13: Ein Radweg für die Grunewaldstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.14: Längere grüne Ampelzeit für die Fußgänger an der Kreuzung Potsdamer Straße Ecke Goebenstraße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 5.15: Zebrastreifen vor der Tempelherren Grundschule - vertagt
+- TOP 6: Anträge - (offen)
+- TOP 6.1: Erschütterungen in der Goltzstraße in Lichtenrade - vertagt
+- TOP 6.2: Goltzstraße für den Umleitungsverkehr für die Zeit der jahrelangen Sperrung des Bahnübergangs an der Bahnhofstraße ertüchtigen - vertagt
+- TOP 6.3: Temporäre Spielstraßen auch in Tempelhof-Schöneberg einrichten - im Ausschuss abgelehnt
+- TOP 6.4: Sondernutzungsgebühren für regelmäßig auf öffentlichem Straßenland bereitgestellte Mietfahrzeuge, Tretroller, Fahrräder oder E-Roller (Überweisung aus dem Ausschuss Bürgerdienste/Ordnungsangelegenheiten) - im Ausschuss abgelehnt
+- TOP 6.5: Verkehrssicherheit in der Handjerystraße Ecke Schmiljanstraße erhöhen - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.6: Neue Mitte Tempelhof – Quartiersgaragen für den ruhenden Verkehr (Ausschuss für Stadtentwicklung - federführend) - erledigt
+- TOP 6.7: Fahrradbügel am Platz der Luftbrücke - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.8: Strategie für sauberes Straßenland entwickeln - im Ausschuss abgelehnt
+- TOP 6.9: Umgestaltung des Kleistparks öffentlich diskutieren - mit Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.10: Seniorenspielgeräte in der Grünanlage Fuggerstraße / Eisenacher Straße (Änderungsantrag Fraktion GRÜNE, Ausschuss Soziales, Sen., dem. Wandel - mitberatend) - vertagt
+- TOP 6.11: Sicherung der Notfallwasserversorgung in Tempelhof-Schöneberg - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.12: Marienhöhe wieder zugänglich machen - vertagt
+- TOP 6.13: Mehr Schulwegsicherheit und mehr Fahrradabstellanlagen am Südwestkorso Ecke Varziner Straße - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.15: Fahrradunterstand vom P+R-Parkplatz in der Lichtenrader Steinstraße entfernen - vertagt
+- TOP 6.16: Marienhöhe: bessere Sicherung vor Vandalismus - vertagt
+- TOP 6.17: Potentiale von Baumpflanzungen darstellen - im Ausschuss abgelehnt
+- TOP 6.18: Maßnahmen gegen Falschparken in der Reißeckstraße/Alt-Mariendorf - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.19: Bankpatenschaften für die Allgemeinheit - zurückgezogen
+- TOP 7: Mitteilungen zur Kenntnisnahme - (offen)
+- TOP 7.1: Umleitung für gesperrte Wolziger Zeile durch die Briesingstraße insbesondere für die BVG befahrbar machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Telefonzellen-Ruinen Instandsetzen oder abbauen lassen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Sicherheit erhöhen: Beleuchtung im Grünzug am S-Bahnhof Schichauweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Verschiedenes - (offen)
