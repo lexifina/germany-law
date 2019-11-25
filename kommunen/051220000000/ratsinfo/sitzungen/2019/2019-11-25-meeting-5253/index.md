@@ -1,0 +1,86 @@
+# Beteiligungsausschuss (45. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-11-25T17:00:00+01:00
+- Ende: 2019-11-25T20:00:00+01:00
+- Ort: Verwaltungsgebäude Bonner Straße, Bonner Straße 100 (Eingang Langhansstraße 6), 42697 Solingen, Kasino
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZW14oU-AYKNdrYrKo7Ob9t0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5253
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbPiCHwNNsSah-CibkaKEcv5U6X0xtKwB6fs44Pk6hIy/Bekanntmachung_Beteiligungsausschuss_25.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSLi6XK1bUghEpiqTExe_JeHtyrCwtmQlza5z-01Tw6s/Oeffentliche_Niederschrift_Beteiligungsausschuss_25.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 43. Sitzung des Beteiligungsausschuss am 16.09.2019
+- TOP 4.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5.: Wirtschaftsplan 2020 der Technischen Betriebe Solingen
+- TOP 6.: Jahresabschluss 2018 des Eigenbetriebs Wasserversorgung Solingen hier: Feststellung des Jahresabschlusses
+- TOP 7.: Wirtschaftsplan 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 8.: Stadtentwicklungsgesellschaft Solingen - Beschluss zu den Gesellschaftsverträgen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG sowie der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 9.: Stadtentwicklungsgesellschaft Solingen – Ergänzende Benennung von Mitgliedern des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 10.: Verschiedenes
+- TOP 10.1: Mitteilungen der Verwaltung
+- TOP 10.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Jahresabschluss 2018 Städtisches Klinikum Solingen gemeinnützige GmbH hier: Konkretisierung und Erläuterung der unter dem Punkt 'Fazit' genannten Prozesse, Vorlage Nr. 5930/2019
+- TOP 1.2: Städtisches Klinikum Solingen Hier: Anfrage von DIE LINKE und BfS zu Vertrauensverlust in die Geschäftsführung des Klinikums
+- TOP 1.3: Städtisches Klinikum Solingen Hier: Anfrage von DIE LINKE zu Ausschreibung und Außenvergabe einzelner Aufgaben bzw. Betriebsteile
+- TOP 1.4: Städtisches Klinikum Solingen gemeinnützige GmbH hier: Fragen von Bündnis 90/Die Grünen zur Kostenkalkulation Wäscherei
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 43. Sitzung des Beteiligungsausschuss am 16.09.2019
+- TOP 4.: Protokoll über die 44. Sitzung des Beteiligungsausschuss am 28.10.2019
+- TOP 5.: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6.: Maßnahmencontrolling zur BSG-Portfolioanalyse
+- TOP 7.: Wirtschaftsplan 2020 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 8.: Kunstmuseum Solingen Betriebsgesellschaft mbH - Einzahlung in die Kapitalrücklage für das Geschäftsjahr 2020
+- TOP 9.: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH – Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2019
+- TOP 10.: Zentrum für verfolgte Künste GmbH – Abberufung eines Geschäftsführers
+- TOP 11.: Wirtschaftsplan 2020 der Zentrum für verfolgte Künste GmbH
+- TOP 12.: Zentrum für verfolgte Künste GmbH - Variable Vergütung 2018 für die Geschäftsführung
+- TOP 13.: Zentrum für verfolgte Künste GmbH – Bestellung eines Wirtschaftsprüfers für den Jahresabschluss 2019
+- TOP 14.: Wirtschaftsplan 2020 der Solinger Bädergesellschaft mbH (SBG)
+- TOP 15.: Wirtschaftsplan 2020 Altenzentren der Stadt Solingen gemeinnützige GmbH
+- TOP 16.: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — weiteres Vorgehen in Sachen Geschäftsführung
+- TOP 16.1: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — weiteres Vorgehen in Sachen Geschäftsführung hier: Antrag DIE LINKE vom 24.10.2019
+- TOP 16.2: Städtisches Klinikum Solingen gemeinnützige GmbH (SKS) — weiteres Vorgehen in Sachen Geschäftsführung – hier: Antrag der FDP-Fraktion zu II. Bildung einer Findungskommission
+- TOP 17.: Entwicklung Masterplan Städtisches Klinikum Solingen gemeinnützige GmbH 2025 bis Sept. 2020
+- TOP 18.: Städtisches Klinikum Solingen gemeinnützige GmbH - Nachbesetzung Chefarzt/-ärztin Nephrologie
+- TOP 19.: Städtisches Klinikum Solingen gemeinnützige GmbH - Nachbesetzung Chefarzt/-ärztin Nephrologie
+- TOP 20.: Städtisches Klinikum Solingen gemeinnützige GmbH - Ausschreibung Radiologie
+- TOP 21.: Wirtschaftsplan 2020 der Wirtschaftsförderung Solingen GmbH & Co. KG (WfS KG)
+- TOP 22.: Wirtschaftsplan 2020 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH)
+- TOP 23.: Wirtschaftsförderung Solingen GmbH & Co. KG - Grundstücksverkauf
+- TOP 24.: Wirtschaftsplan 2020 der Gründer- und Technologiezentrum Solingen GmbH Co. KG
+- TOP 25.: Jahresabschluss 2018 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW)
+- TOP 26.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH (BSW) - Bestellung des Jahresabschlussprüfers 2019
+- TOP 27.: Stadtentwicklungsgesellschaft Solingen - Beschluss zum Businessplan der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG für die Jahre 2020-2024
+- TOP 28.: Wirtschaftsplan 2020 der Entsorgung Solingen GmbH
+- TOP 29.: Westfälisch-Bergische Entsorgungsgesellschaft mbH (WBE GmbH) - Entsendung der Vertreter der Stadt Solingen in die Gesellschafterversammlung
+- TOP 30.: Wirtschaftsplan 2020 der Neue Effizienz GmbH
+- TOP 31.: Jahresabschluss 2018/2019 der Stadtwerke Solingen GmbH (SW SG)
+- TOP 32.: Stadtwerke Solingen GmbH (SW SG) - Wirtschaftsplan 2019/2020 Hier: Wirtschaftsplan Gesamt und Verkehr
+- TOP 33.: Stadtwerke Solingen GmbH (SW SG) - Wirtschaftsplan 2019/2020 Hier: Wirtschaftsplan Gesamt und Verkehr (geänderte Anlage 1)
+- TOP 34.: Stadtwerke Solingen GmbH (SW SG) – Wirtschaftsplan 2019/2020 Gesamt und Verkehr Hier: Antrag der CDU-Ratsfraktion vom 21.11.2019
+- TOP 34.1: Stadtwerke Solingen GmbH (SW SG) – Wirtschaftsplan 2019/2020 Gesamt und Verkehr hier: Antrag der CDU-Ratsfraktion vom 25.11.2019
+- TOP 35.: Stadtwerke Solingen GmbH - Erwerb von Geschäftsanteilen an der items GmbH (§ 22 Abs. 1 lit. d der Satzung)
+- TOP 36.: Jahresabschluss 2018/2019 SWS Netze Solingen GmbH
+- TOP 37.: Jahresabschluss 2018/19 der EDL Solingen GmbH (EDL)
+- TOP 38.: Wasserwerk Baumberg GmbH - Wirtschaftsplan 2020
+- TOP 39.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Bergische Symphoniker GmbH
+- TOP 40.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage
+- TOP 41.: Beteiligungsgesellschaft Stadt Solingen mbH - Einzahlung in die Kapitalrücklage der Kunstmuseum Solingen Betriebsgesellschaft mbH für das Geschäftsjahr 2020
+- TOP 42.: Beteiligungsgesellschaft Stadt Solingen mbH Einzahlung in die Kapitalrücklage der Zentrum für verfolgte Künste GmbH für das Geschäftsjahr 2020
+- TOP 43.: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Einzahlung in die Kapitalrücklage der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT)
+- TOP 44.: Wirtschaftsplan 2020 der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 45.: Verkauf von RWE-Aktien / Ausscheiden aus der VkA GmbH
+- TOP 46.: Verband der kommunalen RWE-Aktionäre GmbH - Vorberatung von Gesellschafterbeschlüssen
+- TOP 47.: Verschiedenes
+- TOP 47.1: Mitteilungen der Verwaltung
+- TOP 47.2: Anfragen an die Verwaltung
