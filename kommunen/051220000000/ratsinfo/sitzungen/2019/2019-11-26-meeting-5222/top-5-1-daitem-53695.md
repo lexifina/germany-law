@@ -1,0 +1,6 @@
+# TOP 5.1: Mitteilungen der Verwaltung
+
+- Sitzung: Bezirksvertretung Gräfrath (37. Sitzung) (2019-11-26)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/53695
