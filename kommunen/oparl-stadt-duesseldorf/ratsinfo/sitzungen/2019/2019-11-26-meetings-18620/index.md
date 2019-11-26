@@ -1,0 +1,81 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-26T16:00:00+01:00
+- Ende: 2019-11-26T18:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18620
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18620
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363606.pdf
+- Ergebnisprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363606.pdf
+- Wortprotokoll: Sitzungspaket Ö http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363606.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften vom 24.09.2019 und 08.10.2019 - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnerinnen bzw. Einwohnern
+- TOP 4: Berichte und Verwaltungsvorlagen
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3: Freizeitstätte Garath, Fritz-Erler-Straße 21, Stadtbezirk 10 - Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - zur Kenntnis genommen
+- TOP 4.4: Umsetzung des regionalen Schnellbuskonzeptes - zur Kenntnis genommen
+- TOP 4.5: Trödelmärkte in Garath auf dem Schützenplatz Frankfurter Straße im 1. Halbjahr 2020 - einstimmig beschlossen
+- TOP 4.6: Trödelmärkte in Garath Zentrum Ost im 1. Halbjahr 2020 - einstimmig beschlossen
+- TOP 4.7: Stettiner Straße - Einrichtung von Längsparkplätzen - mehrheitlich beschlossen
+- TOP 4.8: Bezirklicher Bauunterhalt 2019 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2019 - einstimmig beschlossen
+- TOP 4.9: Bezirklicher Bauunterhalt 2019 - Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 10, Liste C, Haushalt 2019 - einstimmig beschlossen
+- TOP 4.10: Sitzungstermine der Bezirksvertretung 10 für das Jahr 2020 - einstimmig beschlossen
+- TOP 4.11: Bezirkssportanlage Koblenzer Straße - Teilerneuerung Kunstrasen * Unterlagen werden nachgereicht - einstimmig beschlossen
+- TOP 4.12: Bezirklicher Bauunterhalt 2019, Unterhaltung von Grundstücken und baulicher Anlagen im Stadtbezirk 10 - Beschlussvorlage der Bezirksverwaltungsstelle 10 - - abweichend beschlossen
+- TOP 4.13: Bezirkssportanlage Garath, Koblenzer Straße 133, Qualifizierung der Bezirkssportanlage zur Förderung des Breitensports - Empfehlung einstimmig beschlossen
+- TOP 5: Anfragen aus vorherigen Sitzungen
+- TOP 5.1: Geldautomat in Hellerhof - zurückgestellt
+- TOP 5.2: Servicestelle der Stadtsparkasse Düsseldorf in Hellerhof - schriftlich beantwortet
+- TOP 5.3: E-Mobilität in Garath und Hellerhof - Ursprungsanfrage 170/ 171/2017 vom 28.11.2017 - - zurückgestellt
+- TOP 5.4: Zustand der Wälder im Bezirk Garath/Hellerhof - schriftlich beantwortet
+- TOP 5.5: Einrichtung eines zusätzlichen Haltepunktes in Düsseldorf Hellerhof für die S-Bahn Linie S 6, für die Nachtfahrten von Köln kommend in Richtung Düsseldorf Flughafen und umgekehrt - schriftlich beantwortet
+- TOP 5.6: Relation des Hundesteueraufkommens zu den Kosten für die Entsorgung von Hundekot belasteten Grünschnitts - schriftlich beantwortet
+- TOP 6: Aktuelle Anfragen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Inanspruchnahme der Leistungen nach dem SGB II Bedarfe für Bildung und Teilhabe bei Kindern, Jugendlichen und jungen Erwachsenen - Anfrage der SPD-Fraktion - - schriftlich beantwortet
+- TOP 6.3: Müllabfallstandorte unter Flur - Anfrage der SPD-Fraktion - - zurückgestellt
+- TOP 6.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Anträge
+- TOP 7.1: Überprüfung der Dehnungsfugen und Kanaldeckel auf der BAB 59 oberhalb des Garather Hauptzentrums - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.6: Austausch der morschen Bänke in der Leo-Baeck Straße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 7.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Informationsvorlagen
+- TOP 8.1: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 8.2: Abzug von Altpapier-Depotcontainerstationen - zur Kenntnis genommen
+- TOP 8.3: Errichtung von Werbeanlagen im Stadtbezirk 10 - zur Kenntnis genommen
+- TOP 8.4: S-Bahn-Anbindung des Stadtbezirks 10 - Informationsvorlage zum Beschluss 170/ 185/2018 vom 27.11.2018 – - zur Kenntnis genommen
+- TOP 8.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.6: Aufwertung der Ehrenamtskarte - Informationsvorlage zum Beschluss 170/ 103/2019 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 8.7: Weiterentwicklung der Offenen Ganztagsschule im Primärbereich - Ergänzende Information zur Vorlage SCHUA/015/2019 - - zur Kenntnis genommen
+- TOP 8.8: Ergebnis der Beratungen zur Aufstellung des Haushaltsplanes 2020 - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 8.9: Anliegerbeiträge für die Aufstellung neuer Laternen an der Peenemünder Straße - Informationsvorlage zum Beschluss BV10/032/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.10: Ehrenamtliche „Senioren-Sicherheitsberater“ in Düsseldorfer Stadtbezirken - Informationsvorlage zum Beschluss BV10/001/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.11: Bezirksbezogenen Grund- und Trinkwasserqualität im Lichte der Klimaerwärmung - Informationsvorlage zum Beschluss BV10/018/2019 - - vertagt
+- TOP 8.12: Räume für die Montessori-Grundschule, Emil-Barth-Straße 45, Beantwortung der Nachfrage zur Informationsvorlageder Vorlage BV10/006/2019 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 8.13: Verbreiterung des Gehwegs und Umgestaltung der Zufahrt zum Wertstoffhof entlang der Feuerwache - Informationsvorlage zum Beschluss BV10/063/2019 vom 08.10.2019 - - zur Kenntnis genommen
+- TOP 8.14: Einladung der im Stadtbezirk 10 ansässigen Wohnungsgesellschaften in eine Sitzung der BV 10 - Informationsvorlage zum Beschluss 170/101/2019 vom 25.06.2019 - - zur Kenntnis genommen
+- TOP 8.15: Garather Kinderparlament, Informationen aus der Sitzung vom 29.10.2019 - Informationsvorlage der Bezirksverwaltungsstelle 10 - - zur Kenntnis genommen
+- TOP 9: Verschiedenes
