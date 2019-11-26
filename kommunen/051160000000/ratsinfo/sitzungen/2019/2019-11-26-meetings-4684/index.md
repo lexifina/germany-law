@@ -1,0 +1,63 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-11-26T14:00:00+01:00
+- Ende: 2019-11-26T21:32:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4684
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4684
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Anlage zu TOP 1: Niederschrift vom 17.09.2019 (öffentlicher Teil) http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00160049.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 34. Sitzung des Planungs- und Bauausschusses und Betriebsausschusses GMMG am 17.09.2019 - öffentlicher Teil -
+- TOP 2: Betriebsausschuss Rathaus der Zukunft mg+
+- TOP 2.1: Wettbewerbsverfahren Rathaus der Zukunft mg+; Wettbewerbsergebnis und weiteres Vorgehen - Mit Stimmenmehrheit beschlossen
+- TOP 2.2: Wirtschaftsplan Rathaus der Zukunft mg+ 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 2.3: Bestellung eines Wirtschaftsprüfers für die EäE RdZ mg+ - Einstimmiger Beschluss
+- TOP 2.4: Anfragen und Mitteilungen
+- TOP 3: Planungs- und Bauausschuss
+- TOP 3.1: Haushaltsrechtliche Abwicklung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 3.2: Fünfter Nachtrag zur Verwaltungsgebührensatzung - Einstimmiger Beschluss
+- TOP 3.3: Konversion Joint Headquartier (JHQ) hier: Landschaftsbauwerk und Gestaltung Renaturierungsbereich - Kenntnisnahme
+- TOP 3.4: Mobilitätssatzung - Einstimmiger Beschluss
+- TOP 3.5: Studie zur Entwicklung von Mikro-Hubs in mittelgroßen Städten - Kenntnisnahme
+- TOP 3.6: Masterplan Stadtbezirke - In den nächsten Ratszug geschoben
+- TOP 3.7: Rahmenplan Hochschulquartier – Zwischenbericht - Kenntnisnahme
+- TOP 3.8: 238. Änderung des Flächennutzungsplanes ("Maurus-Ahn-Straße") - Vorentwurf - Kenntnisnahme
+- TOP 3.9: Bebauungsplan Nr. 798/O („Maurus-Ahn-Straße“) - Vorentwurf - Kenntnisnahme
+- TOP 3.10: Aufstellungsbeschluss aufgrund des Ergebnisses der vorgeschalteten Konzeptvergabe (REME) - Einstimmiger Beschluss
+- TOP 3.11: 229. Änderung des FNP der Stadt MG („Europaplatz“) - Änderungs- und Auslegungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 3.12: Bebauungsplan Nr. 789/N („Europaplatz“) - Aufstellungs- und Auslegungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 3.13: 228. Änderung des FNP der Stadt MG („Bonnenbroicher Straße“) - Änderungs- und Auslegungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 3.14: Bebauungsplan Nr. 786/S („Bonnenbroicher Straße“) - Aufstellungs- und Auslegungsbeschluss - Mit Stimmenmehrheit beschlossen
+- TOP 3.15: Radverkehr Hofstraße - Vertagt (s. Niederschrift)
+- TOP 3.16: Radverkehrsführung Theodor-Heuss-Straße - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 3.16.1: Bericht Sanierung Theodor-Heuss-Straße inklusive Rad- und Fußweg - Vom Antragsteller zurückgezogen
+- TOP 3.17: Konzept zur Aufwertung der Hindenburgstraße „Vom Garten bis zum Weiher, vom Berg bis zum See“ - Kenntnisnahme
+- TOP 3.18: Städtebauliche Fördermaßnahme Soziale Stadt Gladbach und Westend - Alternatives Grundstück zum Bau e - Vom Antragsteller zurückgezogen
+- TOP 3.19: Integriertes Handlungs- und Entwicklungskonzept (IHEK) Rheindahlen-Mitte - Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 3.20: Festlegung des Stadtumbaugebietes „Stadtumbau Rheindahlen-Mitte“ gemäß § 171 b (1) BauGB - Einstimmiger Beschluss
+- TOP 3.21: Modernisierung von Bahnübergängen - Einstimmiger Beschluss
+- TOP 3.22: Städtisches Schallschutzfensterprogramm - Einstimmiger Beschluss
+- TOP 3.23: Soziale Stadt Gladbach und Westend - weitere Vorgehensweise mit dem Projekt "Aufwertung Geropark" - Kenntnisnahme
+- TOP 3.24: 25. Nachtrag zur Kanalbenutzungsgebührensatzung und 12. Nachtrag zur Klärschlammbeseitigungssatzung - Einstimmiger Beschluss
+- TOP 3.25: Stadtklimanalyse - Kenntnisnahme
+- TOP 3.26: Blühendes Mönchengladbach - Einstimmiger Beschluss
+- TOP 3.27: Artenschutz - Mit Stimmenmehrheit abgelehnt
+- TOP 3.28: Milieuschutzsatzung Bereich Stadtmitte - Vom Antragsteller zurückgezogen
+- TOP 3.29: Erweiterung der S28 von Kaarst nach Viersen - Mit Stimmenmehrheit abgelehnt
+- TOP 3.30: Radfahr-/Schutzstreifen innerhalb der Quartiere Rheydt, Mülfort und Heyden - Vom Antragsteller zurückgezogen
+- TOP 3.31: Berichte über die Durchführung von Beschlüssen
+- TOP 3.32: Anfragen und Mitteilungen
+- TOP 4: Betriebsausschuss GMMG
+- TOP 4.1: Zwischenbericht des GMMG für das III Quartal 2019 - Kenntnisnahme
+- TOP 4.2: Bauliche Standards des GMMG – Nachhaltiges Bauen des GMMG - Einstimmiger Beschluss
+- TOP 4.3: Sanierung, Modernisierung und Erweiterung der ZBMG - Einstimmiger Beschluss
+- TOP 4.4: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Schulzentr - Einstimmiger Beschluss
+- TOP 4.5: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Mathematis - Einstimmiger Beschluss
+- TOP 4.6: Berichte über die Durchführung von Beschlüssen
+- TOP 4.7: Anfragen und Mitteilungen
