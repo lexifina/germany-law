@@ -1,0 +1,55 @@
+# 40. Sitzung des Ausschusses Kunst und Kultur
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-26T15:35:00+01:00
+- Ende: 2019-11-26T19:14:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/9
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20301
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20301
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Schwerpunktthemen
+- TOP 2.1: Bericht der Akademie der Künste der Welt / Köln - Kenntnis genommen
+- TOP 3: Schriftliche Anträge
+- TOP 4: Allgemeine Vorlagen
+- TOP 4.1: Änderung der Geschäftsordnung des Lenkungskreises der Kulturentwicklungsplanung - ungeändert beschlossen
+- TOP 4.2: Änderung der Benutzungs- und Entgeltordnung der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 4.3: Bedarfsprüfung, Einleitung eines Vergabeverfahrens und Abschluss eines Rahmenvertrages - ungeändert beschlossen
+- TOP 4.4: Bezuschussung von Maßnahmen aus "Lärmschutzfonds für freie Kulturinstitutionen / Musikclubs" 2019, Teil 2 - ungeändert beschlossen
+- TOP 4.5: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 4.6: Gewährung von Zuschüssen für die Erhaltung sonstiger Sakralbauten - ungeändert beschlossen
+- TOP 4.7: Verteilung der disponiblen Mittel aus dem Leitprojekt "Stärkung der freien Szene als Akteur der Stadtgesellschaft" für die Haushaltsjahre 2020 bis 2022 - ungeändert beschlossen
+- TOP 4.8: Vergabe der Mietzuschüsse in der Sparte Bildende Kunst, Haushaltsjahre 2020 - 2024 - ungeändert beschlossen
+- TOP 4.9: Freigabe Kulturförderabgabe 2019 - ungeändert beschlossen
+- TOP 4.10: Errichtung der "MAKK-Förderstiftung" - zurückgestellt
+- TOP 4.11: Änderung der Benutzungs- und Entgeltordnung für die Museen der Stadt Köln - ungeändert beschlossen
+- TOP 5: Sonderausstellungen
+- TOP 6: Annahme von Schenkungen
+- TOP 6.1: Annahme von 6 Collagen von Louise Nevelson als Schenkung von Giorgio Marconi - ungeändert beschlossen
+- TOP 7: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 Absatz 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8: Mitteilungen der Verwaltung
+- TOP 8.1: Berichtspflicht gem. § 42 Geschäftsordnung des Rates und der Bezirksvertretungen, Bericht an den Ausschuss Kunst und Kultur - Kenntnis genommen
+- TOP 8.2: Sachstandsbericht: Umsetzung des Zehn-Punkte-Aktionsplans der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 8.3: Erhöhung Preisgeld Förderstipendien der Stadt Köln und Verlängerung Jazz-Stipendium - Kenntnis genommen
+- TOP 8.4: Terminplanung der Berichte der Freien Szene 2020 - Kenntnis genommen
+- TOP 9: Kulturbauten
+- TOP 9.1: Sachbestandsbericht zum Projekt Jüdisches Museum im Archäologischen Quartier Köln (Miqua) - Stand 18.10.2019 - Kenntnis genommen
+- TOP 9.2: Sachstandsbericht zur Zentralbibliothek Köln - Stand: 31.10.2019 - Kenntnis genommen
+- TOP 9.3: Sachstandsbericht Neubau des Historischen Archivs mit Rheinischem Bildarchiv am Eifelwall, Stand 31.10.2019 - Kenntnis genommen
+- TOP 10: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 10.1: Gemeinsame Anfrage der Fraktionen CDU und Bündnis 90 / Die Grünen betr.: Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung
+- TOP -: Beantwortung der Anfrage 1350/2019 von CDU-Fraktion und Fraktion Bündnis 90/Die Grünen im Kölner Rat zu "Integration von Kreativräumen und kulturellen Raumbedarfen in die Stadtplanung" - Kenntnis genommen
+- TOP 10.2: Anfrage der Denkmalpflege, Dr.Kierdorf AN/0860/2019 betr.: Verbleib und Ausstellung der Dampfmaschine des historischen KD-Passagierschiffes "Goethe"
+- TOP -: Beantwortung der Anfrage der Denkmalpflege, Dr.Kierdorf AN/0860/2019 betr.: Verbleib und Ausstellung der Dampfmaschine des historischen KD-Schiffes "Goethe" - Kenntnis genommen
+- TOP 10.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Schriftliche Anfragen
+- TOP 11.1: Schriftliche Anfrage der SPD-Fraktion betr.: Inklusion in der Kultur stärker in den Fokus nehmen - Kenntnis genommen
+- TOP 12: Mündliche Anfragen
+- TOP 12.1: Mündliche Anfrage Frau von Bülow: Mietverhältnis der Kunst- und Mueswimsbibliothek am Kattenbug
+- TOP 12.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3: Tagesordnungspunkt (betrifft Privatpersonen)
