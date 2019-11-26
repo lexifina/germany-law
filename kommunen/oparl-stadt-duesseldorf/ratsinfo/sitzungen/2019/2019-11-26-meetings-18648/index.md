@@ -1,0 +1,77 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-26T17:00:00+01:00
+- Ende: 2019-11-26T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18648
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18648
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363242.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363242.pdf
+- Wortprotokoll: Sitzungspaket öffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363242.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Bebauungsplanverfahren Nr. 07/007 - Glasmacherviertel - Empfehlung mehrheitlich beschlossen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung abweichend beschlossen
+- TOP 7: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 8: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Erweiterungsneubaus Theodor-Andresen- und Franz-Marc- Förderschulen, Lohbachweg 16 - 18 - Empfehlung einstimmig beschlossen
+- TOP 9: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 10: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 - Schulen (Haushalt 2019) - abweichend beschlossen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 Städtische Gebäude ohne Schulen sowie die Förderung Dritter, Haushalt 2019 - einstimmig beschlossen
+- TOP 12: Sitzungstermine der Bezirksvertretung 7 im 2. Halbjahr 2020 - zur Kenntnis genommen
+- TOP 13: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 14: Änderung der Ampelschaltung an der Einmündung des Pöhlenwegs, um Fußgänger*innen die Querung zu erleichtern - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich beschlossen
+- TOP 15: Änderung der Verkehrsführung auf der Ludenberger Straße - Antrag der Fraktion Bündnis 90/Die Grünen - - abweichend beschlossen
+- TOP 16: Öffnungen von Einbahnstraßen für den Radverkehr - Antrag der Fraktion Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 17: Tempo 30 auf der Benderstraße - Antrag der Fraktion Bündnis 90/Die Grünen - - mehrheitlich abgelehnt
+- TOP 18: Kreuzung Simrockstraße - Vautierstraße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 19: Wasserspielplatz auf dem Dreherpark - Antrag der CDU-Fraktion - - mehrheitlich beschlossen
+- TOP 20: Parkplätze Kinderhospiz Regenbogenland - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 21: Platz bei Glascontainer auf Glashüttenstraße - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 22: Markierung Parkverbot Eisenacher Weg - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 23: Alte Insel - Antrag der SPD-Fraktion - - zurückgezogen
+- TOP 24: Gerresheim Süd stärken: Trinkwasserbrunnen für die Heyestraße - Antrag der Fraktionen von FDP und SPD - - mehrheitlich beschlossen
+- TOP 25: Blühwiesen für Gerresheim - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 26: Engere Reinigungsintervalle für Container Torfbruch-/Sulzbachstraße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 27: Joggingstrecke Limburgstraße umsetzen - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 28: Künstlerische Gestaltung von Stadtwerke-Stromkästen und Kabelverteilschränken im Stadtbezirk 7 - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 29: Nutzungskonzept „Leerstehende Ladenflächen“ - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 30: „Little Homes“ gegen Obdachlosigkeit - Antrag der FDP-Fraktion - - abweichend beschlossen
+- TOP 31: Neue Mülleimerstandorte in Gerresheim Süd und Quartier Alte Insel - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 32: Neue Parkplätze an der Kreuzung Keldenich-/Gräfrather Straße - Antrag der FDP-Fraktion - - einstimmig beschlossen
+- TOP 33: Schnellbus von Mettmann über Hubbelrath-Erkrath-Gerresheim nach Düsseldorf Hbf - Antrag der FDP-Fraktion - - zurückgezogen
+- TOP 34: Ostparkweiher - Antrag der SPD-Fraktion - - einstimmig beschlossen
+- TOP 35: Unterführung Bahnhof Gerresheim - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 36: Sachstandsbericht Parkplatz Sanaklinik Gräulinger Straße - Antrag der CDU-Fraktion - - einstimmig beschlossen
+- TOP 37: Ampelschaltung Endhaltestelle U73 - Antrag der CDU-Fraktion - - mehrheitlich abgelehnt
+- TOP 38: Kosten Trinkwasserbrunnen - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 39: Welcome Point im Stadtbezirk 7 - Anfrage der Fraktionen von SPD, Bündnis 90/Die Grünen und FDP - - zur Kenntnis genommen
+- TOP 40: Brombeerberg Quellenbusch - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 41: Stellplätze Kinder- und Jugendhospiz - Anfrage der SPD-Fraktion - - zur Kenntnis genommen
+- TOP 42: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 43: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 44: Reaktivierung Westbahn-Strecke mit Grafenberg S- Bahnhof - Anfrage der FDP-Fraktion - - zur Kenntnis genommen
+- TOP 45: Unzumutbare Verkehrssituation im Gerresheimer Süden - Anfrage der CDU-Fraktion - - zur Kenntnis genommen
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 48: Bushaltestelle Schwarzbachstraße / Gräulinger Straße; Fahrtrichtung Hubbelrath - Informationsvolrage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 49: Abzug von Altpapier-Depotcontainerstationen - zur Kenntnis genommen
+- TOP 50: Errichtung von Werbeanlagen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 51: Fahrradwegweiser - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 52: Änderung der Parkgebührenordnung - zurückgezogen
+- TOP 53: Sportanlage Ernst-Poensgen-Allee - Erneuerung des Kunstrasenbelags - - einstimmig beschlossen
+- TOP 54: Fahrradständer Siedlung Heinrich-Könn-Straße - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 55: Shared Space auf der Nachtigallstraße - Informationsvorlage zum Beschluss der BV 7 vom 22.01.2019 - - zur Kenntnis genommen
+- TOP 56: Ersatzneubau Straßenbrücke Torfbruchstraße -Bedarfsbeschluss- - Empfehlung einstimmig beschlossen
+- TOP 57: Tempolimit Heyestraße - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 58: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Ergänzungsantrag der Fraktionen von FDP, SPD und Bündnis 90/Die Grünen - - einstimmig beschlossen
+- TOP 59: Sonnenschutz Spielplatz Quellenbusch - Informationsvorlage zum Beschluss der BV 7 vom 24.09.2019 - - zur Kenntnis genommen
+- TOP 60: Glasmacherviertel - Änderungsantrag der CDU-Fraktion - - mehrheitlich abgelehnt
