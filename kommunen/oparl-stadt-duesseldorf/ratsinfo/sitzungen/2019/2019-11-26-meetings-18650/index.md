@@ -1,0 +1,61 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-26T17:00:00+01:00
+- Ende: 2019-11-26T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18650
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18650
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363310.pdf
+- Ergebnisprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363310.pdf
+- Wortprotokoll: NachtragsTO http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363310.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 8. Oktober 2019 - einstimmig beschlossen
+- TOP -: Verwaltungsvorlagen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Bebauungsplan Nr. 05/009 Nördlich Einbrunger Straße - Empfehlung abweichend beschlossen
+- TOP 7: Bebauungsplan-Entwurf Nr. 05/011 - Verweyenstraße - Empfehlung mehrheitlich beschlossen
+- TOP 8: Umgestaltung Kaiserswerther Markt; Qualifizierung des Bedarfsbeschlusses mittels eines qualitätssichernden Verfahrens (Workshop) - einstimmig beschlossen
+- TOP 9: Planfeststellungsverfahren für das Vorhaben "Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 3.0a) Unterrath - Kalkum" - Empfehlung abweichend beschlossen
+- TOP 10: Umsetzung von Maßnahmen zur Angebotsverbesserung im ÖPNV - Empfehlung abweichend beschlossen
+- TOP 11: Umsetzung des regionalen Schnellbuskonzeptes - zur Kenntnis genommen
+- TOP 12: Aufhebung der Einbahnstraßenregelungen im Stadtteil Stockum, hier: Wohngebiet zwischen A44, Am Roten Haus, Sandweg und Danziger Straße - vertagt
+- TOP 13: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2020 - Empfehlung mehrheitlich beschlossen
+- TOP 14: Zuschuss an die TG Nord Düsseldorf e.V. - einstimmig beschlossen
+- TOP 15: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2019 - Liste A) Schulen 2121101 / 52415500 - abweichend beschlossen
+- TOP 16: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2019 (Liste B), Kita Wittlaerer Kirchweg 5 - abweichend beschlossen
+- TOP 17: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 5 - Haushalt 2019 (Liste B), Kunstobjekte im Lantz'schen Park - abweichend beschlossen
+- TOP 18: Umsetzung von Maßnahmen der Schulentwicklungsplanung 2018/19 - 2023/24 (SOM VIII) - Empfehlung einstimmig beschlossen
+- TOP 19: Haushaltsmittel 2019 - Zuschüsse und Zuwendungen (Liste D) - abweichend beschlossen
+- TOP -: Anfragen aus vorherigen Sitzungen
+- TOP 20: U 79 im Stadtbezirk 5 und Unwetterereignisse - beantwortet
+- TOP 21: Weitere Erschließung des Naherholungsgebiets zwischen B8n und Alte Landstraße - beantwortet
+- TOP 22: Umnutzung Schloss Kalkum - beantwortet
+- TOP 23: Neugestaltung im Umfeld der Straße "Freiheitshagen" in Angermund - beantwortet
+- TOP 24: Aktueller Planungsstand zur Aufwertung der Ortsmitte Stockum (Kaiserswerther Straße/Am Hain/Stockumer Kirchstraße)
+- TOP -: Neue Anfragen
+- TOP 25: Schloss Kalkum - ausstehende Renovierungsarbeiten - beantwortet
+- TOP 26: Dreiecksparkplatz - Festsetzungen
+- TOP 27: Perspektiven für den Düsseldorfer Norden - Umsetzungsstrategie - beantwortet
+- TOP 28: Gefährliche Auf- und Abfahrten an der B8N
+- TOP 29: OB Thomas Geisel: „Vorfahrt für klimaschonende Mobilität“ - Wie hat die Verwaltung die dritte Umweltspur im Düsseldorfer Norden vorbereitet? - beantwortet
+- TOP -: Anträge
+- TOP 30: Zukünftige Erreichbarkeit und Zugänglichkeit des Bürgerbüros Kaiserswerth - mehrheitlich abgelehnt
+- TOP 31: Glyphosat-Stopp entlang der Bahnschienen - besser Information für die Anlieger! - einstimmig beschlossen
+- TOP 32: Schloss Kalkum und sein Park darf in der Schwebezeit nicht verfallen - mehrheitlich beschlossen
+- TOP 33: Baustelleneinrichtungsfläche/weitere Arbeiten zur U81 stoppen - mehrheitlich beschlossen
+- TOP 34: Verbesserung der Radverkehrssituation zwischen Kreisverkehr Lohausen und Kaiserswerther Straße - mehrheitlich beschlossen
+- TOP 35: Verkürzung der Höchstparkdauer vor der Ladenzeile Stockum - abweichend beschlossen
+- TOP -: Informationsvorlagen
+- TOP 36: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Lärmaktionsplan III - zur Kenntnis genommen
+- TOP 38: Verschiedenes
+- TOP 39: Änderung der Parkgebührenordnung - zurückgezogen
