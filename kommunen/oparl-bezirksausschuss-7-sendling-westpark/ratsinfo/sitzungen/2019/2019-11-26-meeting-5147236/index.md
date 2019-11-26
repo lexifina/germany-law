@@ -1,0 +1,139 @@
+# BA 07 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 7: Sendling-Westpark
+- Beginn: 2019-11-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/282
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5147236
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5147236
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.: Nachträglich aufzunehmende Tagesordnungspunkte
+- TOP 3.: Genehmigung der Tagesordnung
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Fragen an die Polizei
+- TOP 6.: Bürgerschreiben
+- TOP 7.: Weitere Punkte
+- TOP 8.: Bürgerversammlungsempfehlungen
+- TOP 9.: Entscheidungen
+- TOP 10.: Budget
+- TOP 11.: Anträge
+- TOP 12.: Anträge und Berichte aus den Unterausschüssen
+- TOP 13.: Berichte der Beauftragten
+- TOP 14.: Baumfällungen
+- TOP 15.: Bauvorhaben / Baumfällungen im Rahmen eines Bauvorhabens
+- TOP 16.: Veranstaltungen auf öffentlichem Grund
+- TOP 17.: Westparkveranstaltungen
+- TOP 30.: Weitere Anhörungen
+- TOP 37.37.1: Listen Bauvorhaben
+- TOP 43.: Weiterer Schriftverkehr
+- TOP 43.43.1: Baumaßnahmen der SWM
+- TOP 44.: Amtsblatt
+- TOP 57.: Weitere Unterrichtungen
+- TOP 58.: Verschiedenes
+- TOP 59.: nichtöffentliche Tagesordnungspunkte
+- TOP 1.1.1: Bericht des Vorsitzenden über längerfristige Projekte 13.1a Schreiben an RGU wegen Messstellen Heckenstallertrog
+- TOP 6.6.1: Baumfällungen im Westpark
+- TOP 6.6.2: Fahrbahnbeleuchtung in der Hansastraße
+- TOP 6.6.3: Hansastraße als 30er Zone ausweisen
+- TOP 7.7.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.10.1: (E) Stadtbezirksbudget Initiative Unterführungsgestaltung Künstlerische Gestaltung der Unterführung Westendstr. / Stegener Weg vom 07.10.2019 – 30.11.2019 2.054,00€, Az. 0262.0-7-0267
+- TOP 11.11.1: Sicherung der Infrastruktur in der Waldfriedhofstraße
+- TOP 11.11.2: Die Sendlinger Spange wird endlich realisiert.
+- TOP 11.11.3: Tempo 30 vor der Kita St. Philippus Westendstraße 253
+- TOP 11.11.4: Trafo-Häuschen am südlichen Beginn der Fürstenrieder Straße künstlerisch gestalten
+- TOP 11.11.5: Städtische Leistung für Westparkausgang Heiterwanger Straße
+- TOP 14.14.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.14.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15.15.1: Bauvorhaben Raidinger Straße
+- TOP 15.15.2: Baumschutz Bauvorhaben Ohlenschlagerstraße
+- TOP 15.15.3: Baumschutz Bauvorhaben Marbachstraße
+- TOP 17.17.1: Festival der Marionetten 2020
+- TOP 17.17.2: Thai Kulturfest
+- TOP 17.17.3: Winterzauber Gans am Wasser
+- TOP 18.: Baureferat
+- TOP 19.: Büro des Oberbürgermeisters
+- TOP 20.: Direktorium
+- TOP 20.20.1: Änderung der BA-GeschO hinsichtlich Handhabung der Ordnung und Hausrecht
+- TOP 20.20.2: Antragsrecht der gewählten Seniorenbeirätinnen und Seniorenbeiräte
+- TOP 20.20.3: Bezirksausschüsse anhören bei Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 21.: Kommunalreferat
+- TOP 22.: Kreisverwaltungsreferat
+- TOP 23.: Kulturreferat
+- TOP 24.: Lokalbaukommission
+- TOP 25.: Referat für Arbeit und Wirtschaft
+- TOP 26.: Referat für Bildung und Sport
+- TOP 27.: Referat für Gesundheit und Umwelt
+- TOP 28.: Referat für Stadtplanung und Bauordnung
+- TOP 28.28.1: Antrag für Laserprojektionen zwischen vier Kirchtürmen im Stadtteil Laim
+- TOP 29.: Sozialreferat
+- TOP 30.30.1: Spielen in der Stadt - Planung 2020/2021
+- TOP 31.: Baureferat
+- TOP 31.31.1: Schutzwand Max-Seidl-Weg
+- TOP 32.: Büro des Oberbürgermeisters
+- TOP 33.: Direktorium
+- TOP 33.33.1: Verlängerung des Antrags des Elternbeirates der Grundschule Fernpaßstraße Schulhausverschönerung Mosaike
+- TOP 34.: Kommunalreferat
+- TOP 35.: Kreisverwaltungsreferat
+- TOP 35.35.1: Einbahnregelung in der Heckenstallerstraße
+- TOP 35.35.2: Tempo 30 in der Hansastraße Fußgängerübergang auf Höhe der nördlichen Pirkheimerstraße
+- TOP 35.35.3: BA-Antrag Nr. 14-20 / B 04405 des BA 07 - Tempo 50 im Luise-Kiesselbach- und Heckenstaller-Tunnel Fristverlängerung
+- TOP 36.: Kulturreferat
+- TOP 37.: Lokalbaukommission
+- TOP 38.: Referat für Arbeit und Wirtschaft
+- TOP 38.38.1: Deckenarbeiten der MVG in U-Bahnhöfen
+- TOP 38.38.2: Hausanschluss durch SWM
+- TOP 39.: Referat für Bildung und Sport
+- TOP 40.: Referat für Gesundheit und Umwelt
+- TOP 40.40.1: Elektrofahrdienst im Waldfriedhof – Alter Teil; Empfehlung Nr. 14-20 / E 02405 der Bürgerversammlung des 7. Stadtbezirks Sendling-West- park am 22.11.2018 Fristverlängerung
+- TOP 41.: Referat für Stadtplanung und Bauordnung
+- TOP 42.: Sozialreferat
+- TOP 42.42.1: Sanierung Haus St. Josef, Brief des Sozialreferats an das Kommunalreferat
+- TOP 43.43.2: Maßnahmen zur Lärmreduzierung am Schrottplatz und an der Ostseite des Werkgeländes
+- TOP 45.: Baureferat
+- TOP 45.45.1: Gefahrenbaumfällungen Kindergarten Heiterwangerstraße
+- TOP 45.45.2: Gefahrenbaumfällungen Fernpaßschule
+- TOP 45.45.3: Gefahrenbaumfällungen Westpark, historischer Teil
+- TOP 46.: Büro des Oberbürgermeisters
+- TOP 47.: Direktorium
+- TOP 47.47.1: Stadtbezirksbudget - neue Grafikdateien für Logos
+- TOP 47.47.2: Bescheid - Komm wir finden eine Lösung
+- TOP 47.47.3: Bescheid - Künstlerische Gestaltung der Unterführung Westendstraße/Stegener Weg
+- TOP 47.47.4: Bescheid - Ausstellung ‚Beste Aussichten II‘ mit Rahmenprogramm
+- TOP 48.: Kommunalreferat
+- TOP 49.: Kreisverwaltungsreferat
+- TOP 49.49.1: Fortführung - Locanda Busento
+- TOP 49.49.2: Fortführung - Scala
+- TOP 49.49.3: Fortführung - Wöllinger
+- TOP 49.49.4: VRA Einhornallee - Sichthaltverbot
+- TOP 49.49.5: VRA Grabbeweg - Radfahrer frei
+- TOP 49.49.6: VRA Siebenbürgener - Straße West
+- TOP 50.: Kulturreferat
+- TOP 51.: Lokalbaukommission
+- TOP 52.: Referat für Arbeit und Wirtschaft
+- TOP 53.: Referat für Bildung und Sport
+- TOP 54.: Referat für Gesundheit und Umwelt
+- TOP 55.: Referat für Stadtplanung und Bauordnung
+- TOP 56.: Sozialreferat
+- TOP 56.56.1: Zahlen, Daten, Fakten 2018 der Stiftungsverwaltung
+- TOP 56.56.2: Zweckentfremdung Esterbergstraße
+- TOP 56.56.3: Zweckentfremdung Werdenfelsstraße
+- TOP 57.57.1: Stellungnahme des AAN im Münchner Forum zum Bau des U9 Bahnhofs am Hauptbahnhof (Stadtratsbeschluss vom 23.10.2019)
+- TOP 57.57.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 57.57.3: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 57.57.4: (U) Unterstützung für Münchner Schülerinnen und Schüler Schulsozialarbeit an den Grundschulen im 24. Stadtbezirk; Aufstockung bzw. Einführung an diversen Grundschulen Antrag Nr. 14-20 / B 05884... Einrichtung einer Planstelle für Schulsozialarbeit an der Grundschule an der Gilmstraße Antrag Nr. 14-20 / B 05216 ... Zusammengehörigkeitsgefühl stärken II Antrag Nr. 14-20 / A 04397 ... Mobbing an Münchner Schulen gemeinsam wirksam vorbeugen und bekämpfen! Antrag Nr. 14-20 / A 03679 ...
+- TOP 57.57.5: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 57.57.6: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 57.57.7: (U) Zukunftsfähigkeit des Münchner U-Bahn-Netzes – Umsetzung der Vorhaltemaßnahmen sowie weitere Planungen für die Entlastungsspange U9 a) Sachstandsbericht und weiteres Vorgehen b) Finanzierung Änderung des Mehrjahresinvestitionsprogrammes 2019-2023 Anmeldung zum Haushalt 2020-2027 Beschleunigte Realisierung der U-Bahnlinie 9 BA-Antrags-Nr. 14-20 / B 05792 des Bezirksausschusses des Stadtbezirkes 03 – Maxvorstadt vom 12.02.2019 Keine Streckenführungsänderung auf der U-Bahnlinie 6 Empfehlung Nr. 14-20 / E 02395 der Bürgerversammlung des Stadtbezirkes 07 – Sendling-Westpark am 22.11.2018
+- TOP 57.57.8: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 57.57.9: Tagesordnungspunkt (betrifft Privatpersonen)
