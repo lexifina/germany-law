@@ -1,0 +1,7 @@
+# TOP 3: Aussprache Finanzlage
+
+- Sitzung: Sitzung des Haupt- und Finanzausschusses des Ortsgemeinderates der Ortsgemeinde Eitelborn (2019-11-27)
+- Körperschaft: Ortsgemeinde Eitelborn
+- Öffentlich: ja
+- OParl: https://montabaur.gremien.info/oparl/agendaItem/ni_2019-04HFA-4%7Czt_2%7C1
+- Beschluss (Datei): Beschluss - Top 3 https://montabaur.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2019-04HFA-4%7Czt_2%7C1
