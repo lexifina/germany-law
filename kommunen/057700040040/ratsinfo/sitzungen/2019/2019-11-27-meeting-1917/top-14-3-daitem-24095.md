@@ -1,0 +1,6 @@
+# TOP 14.3: Tag der offenen Tür an der Städtischen Sekundarschule Rahden
+
+- Sitzung: Ausschuss für Jugend, Schule und Sport (13. Sitzung) (2019-11-27)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/24095
