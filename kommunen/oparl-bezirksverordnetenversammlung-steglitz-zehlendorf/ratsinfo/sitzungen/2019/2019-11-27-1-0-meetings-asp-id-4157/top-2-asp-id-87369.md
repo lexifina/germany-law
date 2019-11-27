@@ -1,0 +1,7 @@
+# TOP 2: Referat zum Umgang mit kolonialem Erbe (Referent angefragt) zur Drs. 1471/V. „Rassistische Skulptur aus dem Straßenland entfernen"
+
+- Sitzung: 26. öffentliche Sitzung des Ausschusses für Bildung und Kultur (2019-11-27)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=87369
+- Ergebnis: erledigt
