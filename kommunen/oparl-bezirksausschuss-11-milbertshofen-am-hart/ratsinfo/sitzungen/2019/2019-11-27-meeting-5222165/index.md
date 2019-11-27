@@ -1,0 +1,96 @@
+# BA 11 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 11: Milbertshofen-Am Hart
+- Beginn: 2019-11-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/302
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/5222165
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/5222165
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Begrüßung
+- TOP 1.1: Feststellung über frist- und formgerechte Ladung
+- TOP 1.2: Beschluss über die TO, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.: Amtseinführung und Benennung eines neuen Mitglieds
+- TOP 3.: Berichte der Polizei und aus dem Stadtrat
+- TOP 4.: Bericht der BA-Vorsitzenden sowie Antworten der Stadtverwaltung
+- TOP 4.1: Plenum
+- TOP 4.2: Bau / Umwelt
+- TOP 4.3: Kultur / Soziales
+- TOP 4.4: Verkehr
+- TOP 5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 6.: Entscheidungsfälle und Budgetangelegenheiten
+- TOP 6.1: Gewährung von Zuschüssen aus dem Budget des Bezirksausschusses
+- TOP 7.: Anträge
+- TOP 7.2: Bau/Umwelt
+- TOP 8.: Anhörungen
+- TOP 9.: Kenntnisnahmen und Unterrichtungen
+- TOP 10.: Sonstiges
+- TOP 4.2.1.: Mehr Mülleimer im Wohngebiet "Nordhaide"
+- TOP 4.2.2.: Ingolstädter Straße 115 - 121: Bauvorhaben Antwortschreiben auf die getroffenen Beschlüsse des BA 11 zu TOP 8.2.3/01-19
+- TOP 4.2.3.: Touristenzug im Olympiapark emissionsfrei betreiben
+- TOP 4.2.4.: Erneuerung der Wege zur U-Bahn-Station Harthof im Harthofanger
+- TOP 4.2.5.: Connollystraße - Neusituierung der Wertstoffcontainer an der Wendeschleife - BA-Antrag Nr. 14-20 / B 06440 - Beantwortung der Rückfrage des BA 11 vom 25.09.2019
+- TOP 4.5: Sonstige Berichte, Termine
+- TOP 6.1.1.: (E) Stadtbezirksbudget Trägerverein Kulturhaus Milbertshofen e.V. 1. Interkulturelles Theaterfestival München vom 05.11.-09.11.2019 2.150,- €, Az. 0262.0-11-0355
+- TOP 6.1.2.: (E) Stadtbezirksbudget Elternbeirat der Bad-Soden-Grundschule Projekt "Kinder treffen Künstler" im Mai/Juni 2019, 3500,00 € - Sitzungsvorlage Nr. 14-20 / V 13758 - Veränderung des Eigenmittelbetrages
+- TOP 6.1.3.: (E) Stadtbezirksbudget Initiative „Begleitung" Begleitung und Transfer der Erstklässler vom 11.09.2019 – 26.07.2020 2.777,00€, Az.0262.0-11-0341
+- TOP 6.1.4.: (E) Stadtbezirksbudget Hopsasa gGmbH Frühkindliche Bewegungsförderung junger Migranten und sozial benachteiligter Kinder vom 01.12.2019 – 30.11.2020 10.029,75€; Az. 0262.0-11-0345
+- TOP 6.1.5.: (E) Stadtbezirksbudget Elternbeirat der Gesamtschule am Hildegard-von-Bingen-Anger Nikolausaktion am 06.12.2019 535,-€; Az. 0262.0-11-0358
+- TOP 6.1.6.: (E) Stadtbezirksbudget Heideflächenverein Münchener Norden e.V. Ergänzung des Lehrpfades im Umweltbildungsgelände der Fröttmaninger Heide von 01.01.2020 bis 30.06.2020 11.944,-€; Az. 0262.0-11-0359
+- TOP 6.1.7.: (E) Stadtbezirksbudget Elternbeirat städtischer Integrationshort Hildegard-von-Bingen-Anger Eislaufen im Januar und Februar 2020 292,80 €, Az. 0262.0-11-0360
+- TOP 6.1.8.: (E) Stadtbezirksbudget Pahr/ Lindner-Köhler GbR Lesebühne „Abgebrüht“ vom 14.01.2020 bis 15.12.2020 1.740,- €, Az. 0262.0-11-0362
+- TOP 6.2: Entscheidungen, Behandlung von Bürgerversammlungsempfehlungen
+- TOP 6.2.1.: (E) Anhalterstraße - Einrichten von Sperrflächen und Anbringen von absoluten Haltverbot-Schildern
+- TOP 6.2.2.: (E) Kreuzung Leopold-/Schenkendorfstraße - Anpassen der Ampelschaltung und Schaffen von geeigneten Maßnahmen zur Verhinderung des ordnungswidrigen Abbiegens der Kraftfahrzeuge
+- TOP 6.2.3.: (E) Vermüllung der Nordhaide-Siedlung strenger kontrollieren Empfehlung Nr. 14-20 / E 02818 der Bürgerversammlung des Stadtbezirkes 11 Milbertshofen-Am Hart am 18.07.2019
+- TOP 7.1: Plenum
+- TOP 7.2.1.: Rothpletzstraße - Umgestaltung des Bolzplatzes und Mitaufnahme in die Bernayspark-Planung
+- TOP 7.2.2.: Anbringen einer geeigneten Beleuchtung im Skatepark am Brundageplatz
+- TOP 7.3: Kultur / Soziales
+- TOP 7.3.1.: Alter St.-Georgs-Platz 4: Räumlichkeiten für Künstlerinnen und Künstler zur Verfügung stellen
+- TOP 7.4: Verkehr
+- TOP 8.1: Plenum
+- TOP 8.1.1.: BA-Satzung: Antragsrecht der gewählten Seniorenbeirätinnen und -beiräte
+- TOP 8.1.2.: BA-Geschäftsordnung: Handhabung der Ordnung und Hausrecht
+- TOP 8.2: Bau/Umwelt
+- TOP 8.2.1.: BA-Satzung: Anhörungsrecht bei allgemeinen Maßnahmen des Umweltschutzes - BA-Antrag Nr. 14-20 / B 06665 des BA 17 - Antwortschreiben
+- TOP 8.2.2.: Anträge auf Baumfällungen: a) Keferloherstraße 92 b) Preußenstraße c) Griegstraße 47 - 49
+- TOP 8.2.3.: Entwurf Beschlussvorlage: Schulbau-Offensive 2013-2030 - 3. Schulbauprogramm und Kita-Bauprogramm 2019
+- TOP 8.2.4.: Griegstraße 22 - 24 Bauvorhaben: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.2.5.: Ostermayerstaße 4 a) Bauvorhaben: Neubau eines Wohngebäudes mit Tiefgarage b) Antrag auf Beseitigung von geschütztem Baumbestand
+- TOP 8.3: Kultur / Soziales
+- TOP 8.3.1.: Spielen in der Stadt e.V.: Planung der mobilen Spiel- und Kunstaktionen 2020/21
+- TOP 8.4: Verkehr
+- TOP 8.4.1.: BA-Satzung: Anhörungsrecht bei der Einrichtung von Flächen für den Verleih und Infrastruktur von Elektrokleinstfahrzeugen
+- TOP 8.4.2.: Grünanlage Rathenaustraße – Fuß-/Radwegkonflikt
+- TOP 8.4.3.: Lieberweg 46 (Kurvenbereich) - zwei Elektro-Ladesäulen (Standortbegehung)
+- TOP 9.1: Plenum
+- TOP 9.1.1.: Stadtbezirksbudget: Verwendungsnachweise, Kurzberichte: EB GS Hugo-Wolf-Straße, Ev. Hilfswerk München GmbH, AG Buhlstraße e.V., EB GS Hildegard-v.-Bingen-Anger
+- TOP 9.1.2.: (U) Änderung der Bezirksausschuss-Satzung; Bildung der Bezirksausschüsse für die Amtsperiode 2020 bis 2026
+- TOP 9.2: Bau / Umwelt
+- TOP 9.2.1.: (U) Baseballclub Caribes e. V. Verlängerung des bestehenden Mietvertrags über die Baseballanlage auf dem Gelände des Zentralen Hochschulsports Teilfläche aus Flst. 404 sowie 404/23 Gemarkung Milbertshofen
+- TOP 9.2.2.: (U) Erhalt von Bäumen und Sträuchern und bessere Bürgerinformation Empfehlung Nr. 14-20 / E 02501 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln am 19.03.2019
+- TOP 9.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.4.: (U) Rücknahme des Stadtratsbeschlusses zur BV-Empfehlung Grünflächenquote pro Einwohner Empfehlung Nr. 14-20 / E 02507 der Bürgerversammlung des Stadtbezirkes 19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln am 19.03.2019
+- TOP 9.2.5.: (U) Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2019 – 30.06.2019
+- TOP 9.2.6.: (U) Landschaftsbezogene Wegekonzeption für den Grüngürtel - Ergebnisse der Studie und weiteres Vorgehen
+- TOP 9.2.7.: (U) Integriertes Smart City Handlungsprogramm (ISCH) - Digitalisierung und Innovation in der Mobilität und Stadtentwicklung - Perspektive München - Digitale Transformation - Ergebnisbeschluss des Forschungsberichts City2Share - Finanzierung und Vergabe - Änderung des MIP 2019-2023 „Modellprojekte Smart Cities“ - München bewirbt sich Antrag Nr. 14-20 / A 05316 von der Fraktion DIE GRÜNEN/RL vom 06.05.2019
+- TOP 9.2.8.: (U) Perspektive München - Handlungsräume der Stadtentwicklung Fortschreibung der Handlungsraumkulisse und Priorisierung zukünftig zu bearbeitender Handlungsräume
+- TOP 9.2.9.: (U) Einbindung und weitere Umsetzung der Konzeption "Freiraum M 2030"- Leitlinie "Freiraum" und Schlüsselprojekte in Verbindung mit Städtebauförderung Personal- und Sachmittelbedarf
+- TOP 9.2.10.: (U) Vorgehen der Stadtverwaltung in Bezug auf das Bauvorhaben an der Münchberger Straße, Interessenkollision Stadträte, Oberbürgermeister; Verhalten von Herrn Oberbürgermeister Reiter Empfehlung Nr. 14-20 / E 02770 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019 Keine Kooperationsvereinbarungen / Verträge mehr mit Unternehmen der Immobilienwirtschaft, die Offshore-Aktivitäten betreiben Empfehlung Nr. 14-20 / E 02771 der Bürgerversammlung des Stadtbezirkes 17 – Obergiesing-Fasangarten am 04.07.2019
+- TOP 9.2.11.: (U) Projekt „Grüne Stadt der Zukunft – Klimaresiliente Quartiere in einer wachsenden Stadt“, gefördert durch das BMBF Sachstand und Ausblick
+- TOP 9.2.12.: Satzung über das Verbot der Zweckentfremdung von Wohnraum Abbruchanzeige: Hänflingweg 22
+- TOP 9.2.13.: (U) Münchner Kleingartenwesen - Beseitigung von Behelfsheimen - Zeit-Kleingarten-Anlagen Antrag Nr. 14-20 / A 03454 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Bettina Messinger, Herrn Stadtrat Otto Seidl und Herrn Stadtrat Johann Stadler vom 10.10.2017 - Teilung von übergroßen Gartenparzellen
+- TOP 9.2.14.: Baumentfernungen und Gehölzpflegemaßnahmen an Straßen und in öffentlichen Grünflächen
+- TOP 9.2.15.: Meldelisten Bauvorhaben vom 30.09.2019 - 03.11.2019
+- TOP 9.3: Kultur / Soziales
+- TOP 9.3.1.: (U) Aufwertung des Stadtviertels Harthof Empfehlung Nr. 14-20 / E 02795 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 18.07.2019
+- TOP 9.3.2.: (U) Task Force Kindertageseinrichtungen Sachstandsbericht
+- TOP 9.4: Verkehr
+- TOP 9.4.1.: Ausgeführte verkehrsrechtliche Anordnungen nach § 45 StVO: a) Siedlung Nordhaide - absolute Haltverbote mit Zusatz „Feuerwehranfahrtzone“ b) Schmalkaldener Straße (Einmündungen) - absolutes Haltverbot c) Lena-Christ-Straße (Südseite) - absolutes Haltverbot d) Schliemannweg (Einbahnregelung) - Öffnung für den gegenläufigen Radverkehr
+- TOP 9.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
