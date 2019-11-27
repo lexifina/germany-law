@@ -1,0 +1,54 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-27T16:00:00+01:00
+- Ende: 2019-11-27T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18757
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18757
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliches Sitzungspaket 27.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363844.pdf
+- Ergebnisprotokoll: Öffentliches Sitzungspaket 27.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363844.pdf
+- Wortprotokoll: Öffentliches Sitzungspaket 27.11.2019 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00363844.pdf
+
+## Tagesordnung
+
+- TOP -: Öffentlicher Teil
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Aktueller Stand und Planung von Radverbindungen - zur Kenntnis genommen
+- TOP 4.2: Zebrastreifen jetzt auch farbig? -Anfrage der CDU-Ratsfraktion- - zur Kenntnis genommen
+- TOP 4.3: Umsetzung von Anregungen der Fachgruppe Radverkehr -Anfrage der Ratsfraktion Die Linke- - zur Kenntnis genommen
+- TOP 4.4: Vorfahrt für eine klimaschonende Mobilität - haben umweltfreundliche Kraftfahrzeuge in Düsseldorf eine Zukunft? - Anfrage der CDU-Ratsfraktion - zur Kenntnis genommen
+- TOP 4.5: Wie ernst nimmt die Verwaltung die Verkehrssicherheit an der Neusser Straße? -Anfrage der Ratsfraktion Bündnis 90/Die Grünen- - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Tempo 30 auf der Brunnenstraße - abweichend beschlossen
+- TOP 5.2: Besserer Schutz der Umwelt durch höhere Geldbußen für das achtlose Wegwerfen von Zigaretten-Kippen - zurückgezogen
+- TOP 5.3: „Mach mit! Rechts stehen, links gehen auf Rolltreppen - Antrag der CDU-Ratsfraktion - - abweichend beschlossen
+- TOP 5.4: Antrag der Ratsfraktion Tierschutz FREIE WÄHLER zu prüfen, ob in Düsseldorf Bushaltestellen mit Blumendächern ausgestattet werden können - zurückgezogen
+- TOP 5.5: Sicherheitskontrollen am Düsseldorfer Flughafen - Antrag der Ratsfraktion Tierschutz/Freie Wähler - verwiesen
+- TOP 5.6: Einrichtung eines Zebrastreifens über die Neusser Straße -Antrag der Ratsfraktion Die Linke- - vertagt
+- TOP 5.7: Fußgängerbrücke Heerdter Lohweg - Antrag der CDU-Ratsfraktion - - mehrheitlich abgelehnt
+- TOP 6: Aktuelles
+- TOP 7: Mitteilungen der Verwaltung
+- TOP 8: Mobilitätsplan D: Beschluss des Zielkonzeptes und des Entwurfes des Evaluationskonzeptes - einstimmig beschlossen
+- TOP 8.1: Ergänzungsantrag der CDU-Ratsfraktion zu TOP 8, Vorlage OVA/002/2019: Mobilitätsplan D - Beschluss des Zielkonzepts und des Entwurfs des Evaluationskonzepts - mehrheitlich abgelehnt
+- TOP 9: Zielkonzept "ÖPNV Düsseldorf: Teil 1 - Stadtbahn" - zur Kenntnis genommen
+- TOP 10: Planfeststellungsverfahren für das Vorhaben "Rhein-Ruhr-Express (RRX), Planfeststellungsabschnitt (PFA 3.0a) Unterrath - Kalkum" - mehrheitlich beschlossen
+- TOP 11: Sachstandsbericht zur Evaluation der Umweltspuren - zur Kenntnis genommen
+- TOP 12: Ortsumgehung Oberbilk Sachstandsbericht - zur Kenntnis genommen
+- TOP 13: Bericht zum aktuellen Stand der Fahrradförderung - zur Kenntnis genommen
+- TOP 14: Theodor-Heuss-Brücke, Teilsanierung (priorisiert notwendige Maßnahmen) - Sachstandsbericht - zur Kenntnis genommen
+- TOP 15: Südverlängerung der Toulouser Allee mit Anschluss an die Worringer Straße -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 16: Ersatzneubau Straßenbrücke Torfbruchstraße -Bedarfsbeschluss- - einstimmig beschlossen
+- TOP 17: Barrierefreier Haltestellenumbau “Dreieck“ - mehrheitlich beschlossen
+- TOP 18: Kreisverkehr Niederrheinstraße/Alte Landstraße/Am Spielberg – Beschluss der BV 5 - einstimmig beschlossen
+- TOP 19: Geländer am Burgplatz als Absturzsicherung an der Inneren Nördlichen Düssel - Information - - zur Kenntnis genommen
+- TOP 20: Veranstaltungen Burgplatz - Jahresprogramm 2020 - mehrheitlich beschlossen
+- TOP 21: Sitzungstermine des Ordnungs- und Verkehrsausschusses für das Jahr 2020 und 01/2021 - zur Kenntnis genommen
+- TOP 22: Bike & Ride als Beitrag zur Verkehrswende in der Region Düsseldorf - zur Kenntnis genommen
+- TOP 23: Einführung eines Einsatzstocks im Ordnungs- und Servicedienst (OSD) - zur Kenntnis genommen
