@@ -1,0 +1,6 @@
+# TOP II.: NICHTÖFFENTLICHE SITZUNG
+
+- Sitzung: Ausschuss für Familie, Soziales, Gesundheit und Senioren (18. Sitzung) (2019-11-27)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/70140
