@@ -1,0 +1,52 @@
+# Ausschuss für Finanzen und Beteiligungen
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2019-11-27T17:00:00+01:00
+- Ende: 2019-11-27T18:55:00+01:00
+- Ort: Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/125
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4555
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/4555
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift über die 32. Sitzung des Ausschusses für Finanzen und Beteiligungen am 18.09.19 - öffentlicher Teil - Siehe Anlage - Niederschrift ohne Einwendung
+- TOP 2: Vorstellung Wirtschaftsplan - hier: der mags, Mönchengladbacher Abfall-,Grün- und Straßenbetriebe AöR - Kenntnisnahme
+- TOP 3: HSP-Umsetzungsbericht 30.09.2019 - Kenntnisnahme
+- TOP 4: Feststellung des Jahresabschlusses 31.12.2018 - Einstimmiger Beschluss
+- TOP 5: Jahresabschluss 2018 - Verwendung des Jahresergebnisses - Einstimmiger Beschluss
+- TOP 6: Haushaltsrechtliche Abwicklung Rathaus der Zukunft mg+ - Mit Stimmenmehrheit beschlossen
+- TOP 7: Wettbewerbsverfahren Rathaus der Zukunft mg+; Wettbewerbsergebnis und weiteres Vorgehen - Mit Stimmenmehrheit beschlossen
+- TOP 8: Wirtschaftsplan Rathaus der Zukunft mg+ 2019/2020 - Mit Stimmenmehrheit beschlossen
+- TOP 9: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - hier: Gesellschafterbeitritt der Sozial-Holding - Einstimmiger Beschluss
+- TOP 10: Beteiligung der Städtische Kliniken Mönchengladbach GmbH - hier: Anpassung des Gesellschaftsvertrages - Einstimmiger Beschluss
+- TOP 11: Sachstandsbericht Wohnungsbaugesellschaften - Kenntnisnahme
+- TOP 12: Vierter Nachtrag zur mags-Satzung der Stadt Mönchengladbach über Mönchengladbacher Abfall-, Grün- und Straßenbetriebe AöR (mags) (wird ggf. nachgereicht) - An den Hauptausschuss verwiesen
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2019 (4. Nachweisung) - Kenntnisnahme
+- TOP 14: Inangriffnahme Kunststoffrasen-Kleinspielfeld und Beachvolleyballanlage BSA Schlossstr - Einstimmiger Beschluss
+- TOP 15: Inangriffnahme der Qualifizierung der Sportanlage Venn - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 16: Digitalisierung an Schulen Zuwendungsmaßnahme zur Anbindung von 22 Schulstandorten an das städtische - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 17: Digitalisierung an Schulen Medienentwicklungsplan für die Schulen der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 18: Leistungsvereinbarungen über das Angebot eines "Tagestreffs" - Einstimmiger Beschluss
+- TOP 19: Anpassung der Leistungsvereinbarung mit der "Arbeitsgemeinschaft Schuldnerberatung der Freien Wohlf - Einstimmiger Beschluss
+- TOP 20: Leistungsvereinbarung Fahrradstationen - Einstimmiger Beschluss
+- TOP 21: Öffentlich-rechtliche Vereinbarung Apothekenaufsicht - Einstimmiger Beschluss
+- TOP 22: Mobilitätssatzung - Einstimmiger Beschluss
+- TOP 23: Fünfter Nachtrag zur Verwaltungsgebührensatzung - Mit Stimmenmehrheit beschlossen
+- TOP 24: Modernisierung von Bahnübergängen - Einstimmiger Beschluss
+- TOP 25: Integriertes Handlungs- und Entwicklungskonzept (IHEK) Rheindahlen-Mitte - Beschluss des Konzeptes - Einstimmiger Beschluss
+- TOP 26: Festlegung des Stadtumbaugebietes „Stadtumbau Rheindahlen-Mitte“ gemäß § 171 b (1) BauGB - Einstimmiger Beschluss
+- TOP 27: 25. Nachtrag zur Kanalbenutzungsgebührensatzung und 12. Nachtrag zur Klärschlammbeseitigungssatzung - Einstimmiger Beschluss
+- TOP 28: Sanierung, Modernisierung und Erweiterung der ZBMG - An den Hauptausschuss verwiesen
+- TOP 29: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Schulzentr - Einstimmiger Beschluss
+- TOP 30: Brandschutzsanierung, Austausch schadhafter Bausubstanz und energetische Verbesserung des Mathematis - Einstimmiger Beschluss
+- TOP 31: Satzung der Mönchengladbacher Abfall-, Grün- und Straßenbetriebe AöR (mags), hier: Ergänzung der Satzung - Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN vom 30.10.2019 - An den Hauptausschuss verwiesen
+- TOP 32: Aktualisierung des Gesellschaftsvertrags der Gesellschaft für Wertstofferfassung - Antrag der Ratsfraktion BÜNDNIS 90/DIE GRÜNEN vom 30.10.2019 - An den Hauptausschuss verwiesen
+- TOP 33: Kita-Bau durch städtische Beteiligungsunternehmen - hier: Antrag der CDU-Ratsfraktion und der SPD-Ratsfraktion vom 06.11.2019 - Einstimmiger Beschluss
+- TOP 34: Förderung von zivilgesellschaftlichem Engagement gegen Extremismus - hier: Antrag der CDU-Ratsfraktion und der SPD-Ratsfraktion vom 12.11.2019 - Einstimmiger Beschluss
+- TOP 35: Anfragen und Mitteilungen - Siehe Niederschrift
+- TOP 35.1: RH Bocks Verabschiedung
+- TOP 35.2: Öffentlicher Dienstleistungsauftrag (ÖDA) / Personenverkehrsdienste des Stadtverkehrs
+- TOP 35.3: Bekanntmachung zum Auslaufen eines Wasserkonzessionsvertrages
