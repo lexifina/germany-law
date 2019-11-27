@@ -1,0 +1,156 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2019-11-27T17:05:00+01:00
+- Ende: 2019-11-27T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3673
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=3673
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - (offen)
+- TOP 1.1: Fixerstube am S-Bahring - schriftlich beantwortet
+- TOP 1.2: Gewerbelärm im Hinterhof - schriftlich beantwortet
+- TOP 1.3: Elektroroller und Leihfahrräder auf Gehwegen - beantwortet
+- TOP 1.4: Verkehrskonzept Richardkiez - Umsetzung - schriftlich beantwortet
+- TOP 1.5: Neugestaltung Karl-Marx-Platz/Rixdorfer Schnalle - schriftlich beantwortet
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - (offen)
+- TOP 3.1: Konsensliste - Überweisungsliste - in der BVV abgelehnt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Solidarität mit Bat Yam - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 5.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierte im Ausschuss für Verkehr, Tiefbau und Ordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - gewählt
+- TOP 6.2: Wahl einer Bürgerdeputierten in den Ausschuss für Verkehr, Tiefbau und Ordnung - gewählt
+- TOP 6.3: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - in der BVV abgelehnt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan XIV-155a („Johannisthaler Chaussee / Wildmeisterdamm“) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Kinderkonferenz in Neukölln - beantwortet
+- TOP 8.2: Bezirk uneins über das Investitionsvorhaben "Karstadt"? - beantwortet
+- TOP 8.3: Bedarfe von Mädchen und jungen Frauen beachten - beantwortet
+- TOP 8.4: Farbe bekennen - Zwangsräumungen in Neukölln - beantwortet
+- TOP 8.5: Umbenennung der Haltestelle „Jugendheim“ - beantwortet
+- TOP 8.6: Angaben zu Baumverlusten und Ausgleich realistisch? - beantwortet
+- TOP 8.7: Urteil des Bundesverfassungsgerichts – Umsetzung im Jobcenter Neukölln - schriftlich beantwortet
+- TOP 8.8: Auswirkungen der Polizeistrukturreform - schriftlich beantwortet
+- TOP 8.9: Entstehung der Leitlinien der Neuköllner Jugendarbeit - schriftlich beantwortet
+- TOP 8.10: Wärmebedarf der Oskar-Heinroth-Schule - schriftlich beantwortet
+- TOP 8.11: Geldwäsche in Neukölln: Was haben Barber-Shops damit zu tun? - schriftlich beantwortet
+- TOP 8.12: Bezirk lässt Geld im Park liegen! - schriftlich beantwortet
+- TOP 8.13: Spielplatz Saalestraße Ecke Zeitzer Straße - schriftlich beantwortet
+- TOP 8.14: Glasrecycling – aber wie und wo? - schriftlich beantwortet
+- TOP 8.15: Der ehemalige Gletscher - eine unendliche Geschichte - schriftlich beantwortet
+- TOP 8.16: Wärmebedarf des SG Neukölln e.V. - schriftlich beantwortet
+- TOP 8.17: Friedhof Columbiadamm - schriftlich beantwortet
+- TOP 8.18: Freibäder in Neukölln - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Umbenennung des Hertzbergplatzes zur Erinnerung an die Novemberrevolution - in der BVV abgelehnt
+- TOP 9.2: Fußgängerquerung Sonnenallee / Geygerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: „Diese eG“ ist keine Option für Neukölln - überwiesen
+- TOP 9.4: Dauerhaft zu erhaltende Kleingärten mit Handlungsbedarf - in der BVV abgelehnt
+- TOP 9.5: Neubau einer Gemeinschaftsschule an der Oderstraße - beantwortet
+- TOP 9.6: Gewalt und Verwahrlosung auf dem Gelände des Campus Rütli - beantwortet
+- TOP 9.7: Zu Fuß zur Schule und zur Kita? - beantwortet
+- TOP 9.8: Aktueller Stand der Schulsanierung in Neukölln - beantwortet
+- TOP 9.9: Fragerecht der AfD Oppositionspartei wird aus politischer Willkür eingeschränkt? - in der BVV zurückgezogen
+- TOP 9.10: Fairer Bezirk – Faires Outfit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.11: App „Gesundes Neukölln“ evaluieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.12: Beteiligung von Gruppen - in der BVV abgelehnt
+- TOP 9.13: Namensgeber August-Froehlich-Straße - in der BVV abgelehnt
+- TOP 9.14: Verbesserung der Situation Harzer Straße / Treptower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Markierung Sondernutzung öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Haltestellenumbenennung - in der BVV abgelehnt
+- TOP 9.17: Werbeflächen für Sozial- und Kultureinrichtungen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Stadtteilbibliotheken sollen einen Namen erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.19: Extremistische Moscheen und Koranschulen schließen – Vereine verbieten - in der BVV abgelehnt
+- TOP 9.20: Haushaltsnahe Altglassammlung in Neukölln sicherstellen - vertagt
+- TOP 9.21: Mietendeckel für die Neuköllnerinnen und Neuköllner! - vertagt
+- TOP 9.22: Lange Wartezeiten in Bürgerämtern wegen Personalmangel - Dennoch wenige Stellen im Haushalt 2020/21 - vertagt
+- TOP 9.23: Konsequenzen aus dem Neuköllner Gesundheitsbericht - schriftlich beantwortet
+- TOP 9.24: Gilt in Neuköllner Schulkantinen die Scharia - Teil VIII - vertagt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Neuköllner Märkte sichern - Händler unterstützen! - vertagt
+- TOP 10.2: Sportlichen Erfolg wertschätzen - Unterstützung für den SV Tasmania Berlin e.V. I - vertagt
+- TOP 10.3: Einsammeln von benutzten Drogenspritzen – Sinnvolle Beschäftigung von Drogenkonsumenten - vertagt
+- TOP 10.4: Einsammeln von benutzten Drogenspritzen, aber nicht von Bezirksamtmitarbeitern - vertagt
+- TOP 10.5: Spritzen rechtzeitig erkennen - vertagt
+- TOP 10.6: Neukölln macht´s vor! Inklusionskonzept für die Kinder- und Jugendarbeit in Neukölln - vertagt
+- TOP 10.7: Öko-Logisches Grünflächenmanagement - vertagt
+- TOP 10.8: Änderung der Geschäftsordnung I - vertagt
+- TOP 10.9: Änderung der Geschäftsordnung II - vertagt
+- TOP 10.10: Änderung der Geschäftsordnung III - vertagt
+- TOP 10.11: Änderung der Geschäftsordnung IV - vertagt
+- TOP 10.12: Erinnerung an die Novemberrevolution - vertagt
+- TOP 10.13: Inklusion als Ziele der Jugendarbeit - vertagt
+- TOP 10.14: Genehmigung der im Haushaltsjahr 2018 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 10.15: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2018 - vertagt
+- TOP 10.16: Bat-Yam-Platz aufwerten - vertagt
+- TOP 10.17: Beleuchtung für Blueberry Inn-Umgebung nicht vergessen - vertagt
+- TOP 10.18: Informationen über Organspende in Bürgerämtern - vertagt
+- TOP 10.19: Gegen Altersarmut - Über Grundsicherung im Alter informieren - vertagt
+- TOP 10.20: Vergrößerung der Baumscheiben zwecks besseren Regenwasserzuflusses - vertagt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Gute Verkehrsanbindung des Neubaugebiets "Buckower Felder" - vertagt
+- TOP 11.2: Alt-Buckow 37 - vertagt
+- TOP 11.3: Umsetzungsstand IFEK Neukölln - vertagt
+- TOP 11.4: Unhaltbare Zustände in der Außenstelle des Sozialamtes Donaustrasse 89 - vertagt
+- TOP 11.5: Erfolg der Maßnahmen zur Clankriminalität - vertagt
+- TOP 11.6: Stolpersteine und die Erteilung von Sondernutzungserlaubnissen - vertagt
+- TOP 11.7: Braucht Neukölln ein Karstadt-Quartier? - vertagt
+- TOP 11.8: Ist der Kleine Fratz deutsch(en)feindlich? - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Defibrillatoren in weiteren Bürostandorten - überwiesen
+- TOP 13.2: Mehr Schulgärten - überwiesen
+- TOP 13.3: ALLRIS-Datenbank nutzbarer gestalten - überwiesen
+- TOP 13.4: Leitfaden Umgang historische Bausubstanz Krugpfuhlsiedlung erstellen - überwiesen
+- TOP 13.5: Ordnungsamtmitarbeiter und Objektschutzmitarbeiter – Nur noch zu zweit auf Streife - überwiesen
+- TOP 13.6: Umbenennung Haltestelle Jugendheim - überwiesen
+- TOP 13.7: Aufenthalts und Speiseräume an Schulen durch Container - überwiesen
+- TOP 13.8: Hartz IV - überwiesen
+- TOP 13.9: Wissenschaftliche Überprüfung potenzieller Eidechsenhabitate in Neukölln - überwiesen
+- TOP 13.10: Wartemöglichkeiten für die Donaustraße 89 - überwiesen
+- TOP 13.11: Handeln gegen das Bienensterben – Grünflächen als Wildblumenwiese - überwiesen
+- TOP 13.12: App exclamo als Pilotprojekt an Neuköllner Schule einführen - überwiesen
+- TOP 13.13: Plastikmüll an Neuköllner Schulen vermeiden - überwiesen
+- TOP 13.14: Menschen in Alt-Britz nicht alt aussehen lassen - überwiesen
+- TOP 13.15: Hinweisschild für die Donaustraße 89 - überwiesen
+- TOP 13.16: Partnerschaft mit Boulogne-Billancourt bei Paris vertiefen - überwiesen
+- TOP 13.17: Neukölln unterstützt das Neubauvorhaben von Karstadt am Hermannplatz! - überwiesen
+- TOP 13.18: Migrationsbeirat abschaffen - überwiesen
+- TOP 13.19: Endlich einen Livestream in der BVV einrichten - überwiesen
+- TOP 13.20: Ausreichende Beleuchtung auf dem Rixdorfer Weihnachtsmarkt - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Belastung der Straße Alt-Britz bei Veranstaltungen auf dem Gutshof verhindern - vertagt
+- TOP 14.2: Engstelle der Karl-Marx-Straße am Rathaus Neukölln sicher machen - vertagt
+- TOP 14.3: Keine Kürzung von Fördergelder für Integrationsprojekte - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Handeln statt populistischem Spiel - vertagt
+- TOP 15.2: Soko BTM - vertagt
+- TOP 15.3: Überbelastung von Buckow durch Flüchtlingsstandorte verhindern! - vertagt
+- TOP 15.4: Preissystem der Berliner Bäderbetriebe - vertagt
+- TOP 15.5: Lärmprognose in belasteten Gebieten - vertagt
+- TOP 15.6: Sitzbänke am Weigandufer aufstellen - vertagt
+- TOP 15.7: Einrichtung von Boule-Bahnen - vertagt
+- TOP 15.8: Brandschutz in Shisha-Bars sicherstellen - vertagt
+- TOP 15.9: Parkraumbewirtschaftung: Ist das sinnvoll für Neukölln? - vertagt
+- TOP 15.10: Die Buslinie 171 soll wieder durch das Einkaufs- und Dienstleistungszentrum Alt-Rudow fahren - vertagt
+- TOP 15.11: Rudower Dorfteich reinigen - vertagt
+- TOP 15.12: Einhaltung der StVO im Möwenweg - vertagt
+- TOP 15.13: Gehwegbeleuchtung an der Nordseite der Saalestraße sicherstellen - vertagt
+- TOP 15.14: Gehwegbeleuchtung an der Oderstraße sicherstellen - vertagt
+- TOP 15.15: Gehwegbeleuchtung des Mittelbuschwegs sicherstellen - vertagt
+- TOP 15.16: Gefahrensituation in der Glasower Straße entschärfen - vertagt
+- TOP 15.17: Ampelanlage Werbellinstraße / Morusstraße - vertagt
+- TOP 15.18: 27. Januar - Gedenktag für die Opfer des Nationalsozialismus begehen - vertagt
+- TOP 15.19: Sicherung und Aufbau der bezirklichen Schulstationen - vertagt
+- TOP 15.20: Dreck im Gleisbett - vertagt
+- TOP 15.21: Mehr Sicherheit im Verkehr für Seniorinnen und Senioren sowie Menschen mit einer Behinderung – Fußgängerampeln mit Restlaufanzeige erproben! - vertagt
+- TOP 15.22: Klimagerechte BVV-Unterlagen - vertagt
