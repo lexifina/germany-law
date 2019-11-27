@@ -1,0 +1,8 @@
+# TOP 5: 2. Änderungssatzung zur Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Aachen (Straßenreinigungs- und Gebührensatzung) vom 12.12.2018.
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung der Bezirksvertretung Aachen-Eilendorf (2019-11-27)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=96111
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=28592&bi=30195
