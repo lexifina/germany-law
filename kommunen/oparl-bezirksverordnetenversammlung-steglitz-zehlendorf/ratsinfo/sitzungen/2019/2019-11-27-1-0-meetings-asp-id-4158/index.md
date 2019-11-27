@@ -1,0 +1,60 @@
+# 14. öffentliche Sitzung des Ausschusses für Straßenverkehr und Tiefbau
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2019-11-27T17:00:00+01:00
+- Ende: 2019-11-27T19:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=71
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=4158
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=4158
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Genehmigung des Protokolls vom 30.10.2019 - erledigt
+- TOP 3: Bericht aus dem Bezirksamt - erledigt
+- TOP 4: Anträge - erledigt
+- TOP 4.1: Angsträume beseitigen - vertagt
+- TOP 4.2: FahrRat öffentlich - mit Änderungen im Ausschuss beschlossen
+- TOP 4.3: Klima-Maßnahmen sofort! - erledigt
+- TOP 4.4: Klimanotstand nicht nur in Steglitz-Zehlendorf - erledigt
+- TOP 4.5: Parkkonzept für Zehlendorf-Mitte - vertagt
+- TOP 4.6: Weniger ist mehr: Wenn man vor lauter Plakaten die Wahlwerbung nicht mehr sieht - im Ausschuss abgelehnt
+- TOP 4.7: Sicherung der Notfallwasserversorgung in Steglitz-Zehlendorf - mit Änderungen im Ausschuss beschlossen
+- TOP 4.8: Gemeinsamer Ausschuss mit Teltow, Kleinmachnow, Stahnsdorf und Großbeeren - mit Änderungen im Ausschuss beschlossen
+- TOP 4.9: Denkmalgerechte Umrüstung der Straßenbeleuchtung im Bereich „Waldsiedlung Krumme Lanke" - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.10: Brunnen auf dem Ludwig-Beck-Platz zur Wasserentnahme ausstatten - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.11: Mehr Sicherheit auf dem Ludwig-Beck-Platz - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.12: Altensteinstraße sicherer und ruhiger - vertagt
+- TOP 4.13: Stindestraße: Fuß- und Radweg freihalten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4.14: Straßen ökologisch aufwerten mit den Anwohnenden - vertagt
+- TOP 4.15: Kreuzung Machnower Straße/Teltower Damm sicher für Rad und Fuß - vertagt
+- TOP 4.16: Sondernutzungsgebühren für regelmäßig auf öffentlichem Straßenland bereitgestellte Mietfahrzeuge, Tretroller, Fahrräder oder E-Roller - vertagt
+- TOP 4.17: Ortstermin wegen Fußgängerüberweges in der Wedellstraße in Lankwitz endlich durchführen! - im Ausschuss zurückgezogen (Beratungsfolge beendet)
+- TOP 4.18: Saubere Straßenbenennungsschilder in Steglitz-Zehlendorf! - vertagt
+- TOP 4.19: Fußgängerzone am Kleinen Teltower Damm sicherer machen - vertagt
+- TOP 4.20: Mehr Behindertenparkplätze auf der Schloßstraße - vertagt
+- TOP 4.21: Gefährliches Überholen von Fahrrädern auf der Brückenkuppe Sundgauer Straße unterbinden - vertagt
+- TOP 4.22: Wasserbrunnen an der Stewardstraße errichten - vertagt
+- TOP 4.23: Schulwegsicherung Erich-Kästner-Grundschule - vertagt
+- TOP 4.24: Schulkinder schützen - vertagt
+- TOP 4.25: Kreuzung Siemensstraße/Leonorenstraße - vertagt
+- TOP 4.26: Kreuzung Alt-Lankwitz/Kaiser-Wilhelm-Straße - vertagt
+- TOP 4.27: Ampelanlage (LZA) Argentinische Allee Höhe Siebenendenweg - vertagt
+- TOP 4.28: Zeitlich begrenzte Parkplätze am S-Bahnhof Nikolassee - vertagt
+- TOP 4.29: Busspur am Hindenburgdamm – vorhandenes Milieu schützen - vertagt
+- TOP 4.30: Verkehrsführung „kleiner“ Teltower Damm - vertagt
+- TOP 4.31: Spiegel Kreuzung Mühlenstraße/Echtermeyerstraße - vertagt
+- TOP 4.32: Aufhebung sachgrundloser Geschwindigkeitsbegrenzung Lorenz- und Mariannenstraße - vertagt
+- TOP 4.33: Tempo 30 in der Matterhornstraße durchsetzen - vertagt
+- TOP 4.34: Stärkung des ÖPNV am Hindenburgdamm - vertagt
+- TOP 4.35: Fußgängerüberweg im Dahlemer Weg Höhe Jägerndorfer Zeile einrichten - vertagt
+- TOP 4.36: Fahrradwege sicherer machen - vertagt
+- TOP 4.37: Barrierefreie Wege zur Kirche - Bordsteinabsenkungen rund um die Martin-Luther-Kirche - vertagt
+- TOP 4.38: Aufstellung eines Kunstwerkes auf dem Mittelstreifen vor dem Haus am Waldsee genehmigen - vertagt
+- TOP 4.39: Eine Lösung für das Be- und Entladen vor der Post am Hindenburgdamm 99, 12203 Berlin, dabei Kunden, Gewerbetreibende und Anwohner nicht verprellen! - vertagt
+- TOP 4.40: Fußgängerbrücke über den Teltowkanal in Verlängerung der Sachtlebenstraße - vertagt
+- TOP 4.41: Tempo 30 vor der Erich-Kästner-Grundschule - vertagt
+- TOP 5: Verschiedenes - im Ausschuss abgelehnt
