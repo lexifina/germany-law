@@ -1,0 +1,8 @@
+# TOP 3: "Global Nachhaltige Kommune in NRW (GNK)" - Nachhaltigkeitsstrategie Münster 2030 - Teil 3: "Maßnahmenprogramm 2019 - 2022"
+
+- Sitzung: Sitzung (Etat) (2019-11-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/196825
+- Ergebnis: mehrheitlich geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/69840
