@@ -1,0 +1,58 @@
+# Ausschuss für Verkehr, Umwelt, Energie und Tierschutz (24. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2019-11-28T18:00:00+01:00
+- Ende: 2019-11-29T21:38:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-108
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYvl9N2jSj-2L57B3XSbGiM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/4201
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Verkehr, Umwelt, Energie und Tierschutz) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfJRgKng2N0jNgiMTf_TB8ghBVW6wBYEfTYEhXOU74kH/Oeffentliche_Niederschrift_Ausschuss_fuer_Verkehr-_Umwelt-_Energie_und_Tierschutz_28.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 25.09.2019
+- TOP 3.: Anregungen und Beschwerden gem. §24 GO NW
+- TOP 3.1: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 8/2019; Bürgerantrag Piepenpohlstraße - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 9/2019; Bürgerantrag Am Buddenbrook - 9 Jastimmen, 3 Neinstimmen, 0 Enthaltungen
+- TOP 3.3: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 10/2019; Bürgerantrag "Ergänzungsvorschlag zur Neugestaltung der Innenstadt" - Einstimmig, 0 Enthaltungen
+- TOP 3.4: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe Nr. 11/2019; Bürgerantrag "Obstbaumpflanzung und Anbringung von Meisen-Fledermauskästen am Nienborger Damm" - Einstimmig, 0 Enthaltungen
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der Fraktion Pro! Bürgerschaft: Fahrrad Beauftragte/r für Gronau und Epe - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Antrag Fraktion Die Linke: Einführung kostenloser Busverkehr ab 01.07.2020 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Einführung der Gelben Tonne und Änderung der Abfuhrbezirke für Restmüll, Biomüll, Leichtverpackungen (Gelbe Tonne) und Altpapier - Ohne Abstimmung
+- TOP 6.: Gestaltung der Abfuhr von Leichtverpackungen (Gelber Sack / Gelbe Tonne) ab 2020 hier: Abstimmung der Systemgestaltung mit den Betreibern des Dualen Systems - Einstimmig, 0 Enthaltungen
+- TOP 7.: Aktueller Sachstand zum Breitbandausbau im Außenbereich - Ohne Abstimmung
+- TOP 8.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahre 2018 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Wirtschaftsplan 2020 der Zentralen Bau- und Umweltdienste - Einstimmig, 0 Enthaltungen
+- TOP 10.: Unterstützung der Arbeit des Naturschutzbundes Deutschland (NABU) Kreisverband Borken e. V. Antrag vom 04.11.2019 - 11 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 11.: Benennung einer Straße nach Grete Kusber - 10 Jastimmen, 0 Neinstimmen, 2 Enthaltungen
+- TOP 12.: Benennung der Straße im Neubaugebiet "Hauskamp/Saarstraße", Stadtteil Epe Gem. Epe, Flur 23 Bebauungsplan 260 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Fortschreibung der Prioritätenliste für den Endausbau von Straßen in Gronau und Epe - Ohne Abstimmung
+- TOP 14.: Baumfällungen Winter 2019/20 - 0 Jastimmen, 12 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Einsatz von Kopierpapier bei der Stadtverwaltung - Ohne Abstimmung
+- TOP 16.: Mitteilungen der Verwaltung
+- TOP 16.1: Abfallgebühren 2020
+- TOP 16.2: Straßenreinigungsgebühr 2020
+- TOP 16.3: Verkehrssituation Schoppenkamp/Amelandsbrückenweg
+- TOP 16.4: Riekenmaateweg (Straßenausbaumaßnahme)
+- TOP 16.5: Alfertring (Neubau Radweg)
+- TOP 16.6: Marie-Curie-Straße (Gehwegausbau Industriegebiet Gronau)
+- TOP 16.7: Heliumspeicheranlage in Gronau-Epe (Zuwegung)
+- TOP 16.8: Tieker Damm (Radwegeausbau)
+- TOP 17.: Anfragen
+- TOP 17.1: Abstellen von Baumaschinen Riekemaateweg/Schoppenkamp (AM U. Doetkotte)
+- TOP 17.2: Brücke Kottiger Hook (AM U. Doetkotte)
+- TOP 17.3: Markierungen An der Eßseite (AM St. Adamsky)
+- TOP 17.4: Ausbauzustand Straßen im "Industrie- und Gewerbegebiet an der Steinfurter Straße" (AM St. Adamsky)
+- TOP 17.5: Vorgehensweise "Eichenprozessionsspinner" in 2020 (AM G. Meyer)
+- TOP 17.6: Kreuzungsbereich Kaiserstiege/Opelstraße (AM M. Raus)
+- TOP 17.7: Prioritätenliste - Herstellung Radwege (RM H. Krause)
+- TOP 17.8: Brücke Tieker Damm (RM M. Große Dütting)
+- TOP 17.9: Verkehrssituation Enscheder Straße (RM M. Große Dütting)
+- TOP 17.10: Markierung Radfahrstreifen Gronauer Straße (RM J. Krefter)
+- TOP 17.11: Links-Abbiegespur Gronauer Straße/Schillerstraße (RM J. Krefter)
