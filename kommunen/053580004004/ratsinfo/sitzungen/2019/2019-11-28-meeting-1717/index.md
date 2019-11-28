@@ -1,0 +1,64 @@
+# Gemeinderat (52. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2019-11-28T18:04:00+01:00
+- Ende: 2019-11-28T22:05:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZf1oJ79bLbhNXXalUu0_fvQ
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1717
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZehKjIzQS114S24b3PUev5fdl5IuyQZdfAbV6Skp0BdY/Bekanntmachung_Gemeinderat_28.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXYuDVn99Shs5_BPRwpBjhEcUjzN-cUGa7Pc5HBOD6-N/Oeffentliche_Niederschrift_Gemeinderat_28.11.2019.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 10.10.2019 -öffentlicher Teil-
+- TOP 3.: Verleihung des Heimatpreises 2019 an die Preisträger
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: Bebauungsplan 80 SCH - Am Nonnenhof - a) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB i.V.m. § 13a BauGB b.) Beschluss gemäß § 13a BauGB i. V. m. § 13 Abs. 2 Ziff. 2 und 3 BauGB über die Offenlage gemäß § 3 Abs. 2 BauGB und die Unterrichtung der berührten Behörden und sonstigen Träger öffentlicher Belange nach § 4 Abs. 2 BauGB c.) Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Aufstellung des Bebauungsplans 80 SCH - Am Nonnenhof - - einstimmig, 0 Enthaltungen
+- TOP 4.2: 1. Änderung Bebauungsplan 57 DE - WK IV - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während frühzeitigen Beteiligung gem. §§ 3 Abs. 1 und 4 Abs. 1 BauGB und der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss c.) Abschluss eines Durchführungsvertrages zur 1. Änderung des Bebauungsplans 57 DE - WK IV - - einstimmig, 0 Enthaltungen
+- TOP 4.3: 29. Änderung des Bebauungsplanes 15 A - Matthäus Straße - a.) Abwägung gem. § 1 Abs. 7 BauGB und Beschluss über die Stellungnahmen zu den eingegangenen Anregungen während der Offenlage gem. §§ 3 Abs. 2 und 4 Abs. 2 BauGB b.) Satzungsbeschluss - einstimmig, 0 Enthaltungen
+- TOP 4.4: 49. Änderung des Flächennutzungsplans der Gemeinde Aldenhoven - Business Park Alsdorf Aldenhoven - nördliche Erweiterung a.) Aufstellungsbeschluss gemäß § 2 Abs. 1 BauGB b.) Beschluss über die frühzeitige Beteiligung gemäß § 3 Abs. 1 und § 4 Abs. 1 BauGB c.) Beschluss über die Bereitstellung von Mitteln für dieses Bauleitplanverfahren im Haushalt der Gemeinde Aldenhoven für das Jahr 2020 - einstimmig, 0 Enthaltungen
+- TOP 4.5: Integrierte Entwicklungsplanung für die Gemeinde Aldenhoven 2.) Beauftragung der Leistungsphase 2 - einstimmig, 0 Enthaltungen
+- TOP 5.: Beschluss über die Empfehlungen des Hauptausschusses
+- TOP 5.1: Straßennamen Bebauungsplan 75 S Siersdorf - einstimmig, 11 Enthaltungen
+- TOP 6.: Anträge von Fraktionen
+- TOP 6.1: Antrag der FWG-Fraktion; hier: Verbrennung von Klärschlamm - 5 Ja-Stimme(n), 21 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 6.2: Antrag der FWG-Fraktion: Vorbereitung der Kommunalwahlen 2020 - zur Kenntnis genommen
+- TOP 6.3: Antrag der GL Fraktion: Baumkontrolle - einstimmig, 0 Enthaltungen
+- TOP 7.: Finanzen, Haushalt
+- TOP 7.1: Bereitstellung außer-/überplanmäßiger Haushaltsmittel hier: anteilige Erstattung der Betriebskosten der Gesamtschule Aldenhoven-Linnich an die Stadt Linnich - einstimmig, 0 Enthaltungen
+- TOP 7.2: Überplanmäßige Ausgabe im Bereich Schülerbeförderung - 21 Ja-Stimme(n), 5 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 7.3: Feststellung des Gesamtabschlusses für das Haushaltsjahr 2018 - einstimmig, 0 Enthaltungen
+- TOP 7.4: Einbringung Entwurf der Haushaltssatzung 2020 mit ihren Anlagen sowie Fortschreibung des Haushaltssanierungsplans
+- TOP 8.: Erneuerung Heizungsanlage Baubetriebshof - 14 Ja-Stimme(n), 10 Nein-Stimme(n), 2 Enthaltung(en)
+- TOP 9.: 1. Änderung der Friedhofssatzung der Gemeinde Aldenhoven vom 22. Dezember 2015 Einführung der Urnenbeisetzungen in amerikanischen Reihengräbern Ermöglichung der Beisetzung von Sternenkindern – Anlage eines Grabfeldes für Sternenkinder redaktionelle Überarbeitung - einstimmig, 0 Enthaltungen
+- TOP 10.: Urnenbeisetzungen in Friedhofsstelen auf dem Friedhof in Aldenhoven - einstimmig, 0 Enthaltungen
+- TOP 11.: Beteiligung der Gemeinde Aldenhoven am Projekt „Heimat-Preis“ der Landesregierung NRW - einstimmig, 0 Enthaltungen
+- TOP 12.: Nachschulische Betreuung Antrag von „Leben wie Zuhause e.V.“ auf Anteilsfinanzierung für das Schulkinderhaus - einstimmig, 0 Enthaltungen
+- TOP 13.: Widmung der Gemeindestraße „Galileo-Allee“ gemäß § 6 Straßen- und Wegegesetz NRW - einstimmig, 0 Enthaltungen
+- TOP 14.: Sachstandsberichte der Verwaltung
+- TOP 15.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 10.10.2019 -nichtöffentlicher Teil-.
+- TOP 2.: Gremienangelegenheiten
+- TOP 2.1: Berichte aus den Gremien
+- TOP 3.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 3.1: 1. Änderung Bebauungsplan 57 DE - WK IV - Abschluss eines Gestattungsvertrages mit dem Vorhabenträger - einstimmig, 0 Enthaltungen
+- TOP 4.: Erschließungsvertrag zur 29. Änderung des B-Plans 15 A - Matthäus Straße - - einstimmig, 0 Enthaltungen
+- TOP 5.: Grundstücksangelegenheiten
+- TOP 5.1: Antrag der Tholen Vermögensverwaltungs GmbH - Erwerb und Anpachtung gemeindeeigener Flächen - 0 Ja-Stimme(n), 25 Nein-Stimme(n), 0 Enthaltung(en)
+- TOP 5.2: Gründung einer Einkaufsgenossenschaft "OneMetering eG" unter Führung der Regionetz - einstimmig, 0 Enthaltungen
+- TOP 5.3: Kooperation der Regionetz mit der Stadt Alsdorf - einstimmig, 0 Enthaltungen
+- TOP 5.4: Verkauf von gemeindeeigenen Flächen - einstimmig, 0 Enthaltungen
+- TOP 6.: Verwendung der Mittel aus dem Kommunalinvestitionsförderungsgesetz (KInvFG) zur Sanierung der Großsporthalle Aldenhoven - einstimmig, 0 Enthaltungen
+- TOP 7.: Vertragsangelegenheiten
+- TOP 7.1: Ersatzbeschaffung für den Baubetriebshof: Holzhäcksler - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 7.2: Beauftragung von Baumprüfungen - Über diesen Tagesordnungspunkt wurde auf Grund der fortgeschrittenen Zeit nicht mehr beraten.
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
