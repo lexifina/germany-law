@@ -1,0 +1,106 @@
+# Sitzung der Bezirksvertretung Innenstadt
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-28T16:00:00+01:00
+- Ende: 2019-11-28T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/20
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20441
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20441
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde / Aktuelle Stunde / Vortrag zu aktuellem Thema
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Römische Stadtmauer Mühlenbach, Zustand und Erhaltungsmaßnahmen
+- TOP 1.3: Vorstellung Jahresbericht 2017/2018 Kölner Anti Spray Aktion
+- TOP 2: Benennung von Bezirksvertretern/innen als Stimmzähler/innen
+- TOP 3: Verwaltungsvorlagen
+- TOP 3.1: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 3.2: Beschluss über die Einleitung eines Bebauungsplanverfahrens (vorhabenbezogener Bebauungsplan) und Durchführung einer frühzeitigen Öffentlichkeitsbeteiligung Arbeitstitel: Campus Kartause (Kartäuserwall 24b) in Köln-Neustadt-Süd - ungeändert empfohlen
+- TOP 3.3: Stadtgrün naturnah - ungeändert empfohlen
+- TOP 3.4: Konzept "Essbare Stadt" - ungeändert empfohlen
+- TOP 3.5: Sitzen statt Parken - Außengastronomie auf Stellplätzen - mit Änderungen empfohlen
+- TOP 3.5.1: Änderungsantrag zur Vorlage 1248/2019 - Sitzen statt Parken - geändert beschlossen
+- TOP 3.6: Umbenennung der Von-Gablenz-Straße in Köln-Deutz - ungeändert beschlossen
+- TOP 3.7: Planfeststellungsverfahren für die Erneuerung von Eisenbahnüberführungen (Bauwerk B) über die Deutz-Mülheimer Straße in Köln-Deutz - zurückgestellt
+- TOP 3.8: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert empfohlen
+- TOP 3.9: 272. Satzung über die Festlegungen gemäß § 8 der Satzung der Stadt Köln vom 28. Februar 2005 über die Erhebung von Beiträgen nach § 8 Absatz 1 Satz 2 KAG NRW für straßenbauliche Maßnahmen - ungeändert empfohlen
+- TOP 3.10: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert empfohlen
+- TOP 3.11: Kiosk Rheinboulevard - mit Änderungen empfohlen
+- TOP 3.11.1: Anfrage zur Vorlage 3247/2019
+- TOP 3.11.2: Anfrage der Fraktion Bündnis 90/Die Grünen in der Sitzung der Bezirksvertretung Innenstadt am 28.11.2019
+- TOP 3.12: Städtebauliche Neuordnung des Domumfeldes im Bereich Trankgasse Bauabschnitt 2 des Gesamtkonzeptes zur städtebaulichen Verbesserung der Domumgebung;Hier: Baubeschluss und ergänzende Planungsbeschlüsse - zurückgestellt
+- TOP 3.13: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 3.14: Integration der Veranstaltung STRASSENLAND in den NRW Tag 2020
+- TOP 4: Anregungen und Beschwerden nach § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4.1: Bürgereingabe gem. § 24 GO, betr.: Generalsanierung Gilbachstraße (Az.: 02-1600-145/19) - geändert beschlossen
+- TOP 4.1.1: Änderungsantrag zu 2449/2019 - ungeändert beschlossen
+- TOP 4.2: Bürgereingabe gem. § 24 GO, betr.: Fahrradstellplätze Hauptbahnhof (Az.: 02-1600-251/18) - zurückgestellt
+- TOP 4.2.1: Gem. Änderungsantrag zu 1277/2019 - Fahrradparken Hauptbahnhof - zurückgestellt
+- TOP 4.3: Eingabe nach § 24 GO - Grüngestaltung vor Marienplatz 4 - ungeändert beschlossen
+- TOP 4.4: Bürgereingabe gemäß §24 GO - Hochbahntrasse für Stadtbahnlinie 7 - ungeändert empfohlen
+- TOP 4.5: Bürgereingabe gem. § 24 GO, betr.: Parkplätze Kolumbastraße und Brückenstraße (Az.: 02-1600-188/18)
+- TOP 4.5.1: Änderungsantrag zu 3620/2019 Kolumbaviertel - ungeändert beschlossen
+- TOP 5: Anträge der Fraktionen und Einzelmandatsträger gemäß § 37 der Gemeindeordnung des Landes Nordrhein-Westfalen (Entscheidungs- und Anhörungsrechte)
+- TOP 5.1: Anträge aus früheren Sitzungen
+- TOP 5.1.1: Countdown Ampel für Zufußgehende - Kreuzung Ubierring/Alteburger Straße - zurückgestellt
+- TOP 5.1.1.1: Änderungsantrag zu AN/1281/2019 Countdown Ampel für Zufußgehende - zurückgestellt
+- TOP 5.1.2: Neuorganisation der Verkehrsführung auf der Schmalbeinstraße - zurückgestellt
+- TOP 5.1.3: Fahrradabstellanlage auf der ehemaligen Bushaltestelle an der Johannisstraße - zurückgestellt
+- TOP 5.1.4: Überweg Fußgänger*innen und Radfahrer*innen Cäcilienstraße - zurückgestellt
+- TOP 5.1.4.1: Übergang Neumarkt - zurückgestellt
+- TOP 5.1.5: Fahrradabstellmöglichkeiten erweitern - ungeändert beschlossen
+- TOP 5.2: Anträge zu dieser Sitzung
+- TOP 5.2.1: Aufstellung zusätzlicher Bänke vor dem EL-DE-Haus - ungeändert beschlossen
+- TOP 5.2.2: Verstärkte Reinigung im Klingelpützpark - ungeändert beschlossen
+- TOP 5.2.3: Radabstellanlagen im Bereich Kartäuserwall/Ecke Brunostraße - ungeändert beschlossen
+- TOP 5.2.4: Übergangslösung Tunnel Johannisstraße - ungeändert beschlossen
+- TOP 5.2.5: Bessere Absicherung der Schulwege entlang der Johannisstraße bis Ende März 2020 umsetzen - ungeändert beschlossen
+- TOP 5.2.6: Quartiersgarage - Suche nach geeignetem Standort umgehend beginnen - ungeändert beschlossen
+- TOP 6: Anfragen der Fraktionen und Einzelvertreter
+- TOP 6.1: Anfragen aus früheren Sitzungen
+- TOP 6.1.1: Quartiersgaragen in der nördlichen Innenstadt - zurückgestellt
+- TOP 6.1.2: Aufwertung Ehrenstraße - Aktueller Stand - zurückgestellt
+- TOP 6.1.3: Sachstand Sanierung Fort X (Neustadt/Nord) - zurückgestellt
+- TOP 6.1.4: Parkraumfreie Zone - zurückgestellt
+- TOP 6.1.5: Anfrage zum Beschluss der BV I / Tempo 50 auf der Inneren Kanalstraße - zurückgestellt
+- TOP 6.1.6: Kellertheater und Kartäuserwall - zurückgestellt
+- TOP 6.1.7: Dienstzeitregelung beim Ordnungs- und Verkehrsdienst
+- TOP 6.1.7.1: Stellungnahme zu einer Anfrage gem. § 4 der Geschäftsordnung des Rates: Dienstzeitregelung beim Ordnungs- und Verkehrsdienst; Anfrage des BÜNDNIS 90 DIE GRÜNEN
+- TOP 6.1.8: Leerstand in der Engelbertstraße
+- TOP 6.1.8.1: Zweckentfremdung von Wohnraum (Engelbertstraße, Krummer Büchel, Im Ferkulum)
+- TOP 6.1.9: Sportmöglichkeiten im Inneren Grüngürtel
+- TOP 6.1.9.1: Sportmöglichkeiten im Inneren Grüngürtel
+- TOP 6.1.10: Grundstück Obenmarspforten 9 – ebenerdiger Parkplatz neben Haus Neuerburg - zurückgestellt
+- TOP 6.2: Anfragen zu dieser Sitzung
+- TOP 6.2.1: Sachstand Radabstellanlagen Trajanstraße - Antrag aus 2015 (0012/2015) - zurückgestellt
+- TOP 6.2.2: Sachstand Umgestaltung Maternuskirchplatz - zurückgestellt
+- TOP 6.2.3: Tag des Büdchens - Sachstand - zurückgestellt
+- TOP 6.2.4: Sanierung des Bolzplatzes am Quäker Nachbarschaftsheim - zurückgestellt
+- TOP 7: Mündliche Fragen an die Verwaltung
+- TOP 7.1: Radwegführung bei Erneuerung der Kragplatte am Altstadtufer
+- TOP 7.2: Beschädigungen des Pflasters durch widerrechtliche Befahrung des Chlodwigplatzes
+- TOP 8: Mitteilungen des Bezirksbürgermeisters
+- TOP 9: Mitteilungen der Verwaltung
+- TOP 9.1: Parken der Reisebusse am linken Rheinufer/Logistikkonzept Rheinufer - Kenntnis genommen
+- TOP 9.2: Sachstand Überprüfung des Rückbaus freilaufender Rechtsabbieger - Kenntnis genommen
+- TOP 9.3: Kölner Stadtmodell hier: Sachstand 2019 - Kenntnis genommen
+- TOP 9.4: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 9.5: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 9.6: Sachstand Fördermaßnahme "Via Culturalis und die Quartiere der Domumgebung" - Kenntnis genommen
+- TOP 9.7: Beantwortung einer Anfrage der SPD-Fraktion vom 13.09.2019 - Kenntnis genommen
+- TOP 9.8: Sachstand über die Sanierung und Wiederinbetriebnahme des Parkcafés im Kölner Rheinpark - Kenntnis genommen
+- TOP 9.9: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 9.10: Beantwortung der mündlichen Anfrage von Bezirksvertreter Fischer (GRÜNE) aus der Sitzung der Bezirksvertretung 1 (Innenstadt) in der Wahlperiode 2014/2020 am 12.09.2019 betreffend TOP 3.9: Beschluss über die Einleitung eines Bebauungsplanverfahrens u - Kenntnis genommen
+- TOP 9.11: Sperrung der Eburonenstraße für den Durchgangsverkehr - Kenntnis genommen
+- TOP 9.12: Ergänzung des Straßenreinigungsverzeichnisses nach Beschlussfassung - Kenntnis genommen
+- TOP 9.13: Anlass: Mitteilung der Verwaltung; Niederschrift des Gestaltungsbeirates vom 15.10.2019 - Kenntnis genommen
+- TOP 9.14: Können Störungen im Betriebsablauf der Linie 7 zwischen Poll und Deutz vermieden werden? - Kenntnis genommen
+- TOP 9.15: Aachener Str. 86-88, 50674 Köln - Fällung eines Ahorns im Innenhof - Kenntnis genommen
+- TOP 9.16: Roncalliplatz - Kenntnis genommen
+- TOP 9.17: Einrichtung von Radfahrstreifen auf dem Ubierring mit einem Teilabschnitt Schutzstreifen - Kenntnis genommen
+- TOP 9.18: Einrichtung von Radfahrstreifen auf der Achse Friesenplatz/Magnusstraße/Burgmauer im Rahmen der Umsetzung des Radverkehrskonzepts Innenstadt - Kenntnis genommen
+- TOP 9.19: Sachstand zur Umsetzung der im Radverkehrskonzept Innenstadt definierten Fahrradstraßen - Kenntnis genommen
