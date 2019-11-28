@@ -1,0 +1,123 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2019-11-28T14:00:00+01:00
+- Ende: 2019-11-28T00:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18641
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/18641
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Sitzungspaket öffentlicher Teil 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364819.pdf
+- Ergebnisprotokoll: Sitzungspaket öffentlicher Teil 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364819.pdf
+- Wortprotokoll: Sitzungspaket öffentlicher Teil 1. Nachlieferung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00364819.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschriften über die öffentlichen Sitzungen des Rates am 29.08.2019 (7/2019) und am 19.09.2019 (8/2019) - einstimmig beschlossen
+- TOP 3: Anfragen aus aktuellem Anlass
+- TOP 3.1: Anfrage aus aktuellem Anlass der Ratsfraktion Tierschutz FREIE WÄHLER: Feldlerche und Wiesenpieper versus Flugzeugbrandsimulationsanlage - beantwortet
+- TOP 3.2: Anfrage aus aktuellem Anlass der Ratsfraktionen von SPD und FDP: Abriss der „Brause“ - beantwortet
+- TOP 3.3: Anfrage aus aktuellem Anlass des Ratsherrn Grenda: Rodung am Leibniz-Montessori Gymnasiums, Scharnhorststrasse - schriftlich beantwortet
+- TOP 3.4: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: Warum musste die Theodor-Heuss-Brücke spontan gesperrt werden? - schriftlich beantwortet
+- TOP 3.5: Anfrage aus aktuellem Anlass der Ratsfraktion BÜ90/GRÜ: Abriss der ehemaligen Heimat des Kulturvereins "Brause" - schriftlich beantwortet
+- TOP 3.6: Anfrage aus aktuellem Anlass der Ratsfraktion DIE LINKE: Illegaler Abriss der "Brause - schriftlich beantwortet
+- TOP 3.7: Anfrage aus aktuellem Anlass der CDU-Ratsfraktion: Wegzug der SMS Group – Düsseldorf büßt 1.500 Arbeitsplätze ein - schriftlich beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Terminschwierigkeiten in Bürgerämtern und bei der Kfz.Zulassungsstelle - beantwortet
+- TOP 4.2: Anfrage der Ratsfraktion Tierschutz FREIE WÄHLER: Rheinbahnunfälle, in denen Tiere verwickelt sind - beantwortet
+- TOP 4.3: Anfrage des Ratsherrn Maniera: Sanierungs- und Renovierungskosten in Unterkünften für Asylbewerber und Flüchtlinge - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion DIE LINKE: Kosten für Open-Air-Gelände - beantwortet
+- TOP 4.5: Anfrage der FDP-Ratfraktion: Planungsstand Glasmacherviertel - beantwortet
+- TOP 4.6: Anfrage der FDP-Ratsfraktion: Dürreschäden in historischen Parkanlagen - beantwortet
+- TOP 4.7: Anfrage der Ratsfraktion von BÜ90/GRÜ: Nutzung von Dienstwagen in der Stadtverwaltung und bei den städtischen Töchtern - schriftlich beantwortet
+- TOP 4.8: Anfrage der Ratsfraktion von BÜ90/GRÜ: Sachstand Ratsbeschluss: „Integration Kreativräume und kulturelle Raumbedarfe in die Stadtplanung – am Tag und in der Nacht“ - schriftlich beantwortet
+- TOP 4.9: Anfrage der Ratsfrau Opelt: "Klimanotstand" und Dienstreiseverhalten des Oberbürgermeisters und seiner Verwaltung sowie der städtischen Tochterunternehmen; oder: An ihren Taten sollt ihr sie messen! - schriftlich beantwortet
+- TOP 4.10: Anfrage der Ratsfrau Opelt: Shisha-Bar am Eisstadion Brehmplatz: Verdient die Stadt mit Kriminalität und Jugendgefährdung? - schriftlich beantwortet
+- TOP 4.11: Anfrage des Ratsherrn Maniera: Schäden durch Vandalismus und Graffiti - schriftlich beantwortet
+- TOP 4.12: Anfrage der Ratsfraktion DIE LINKE: Tour-de-France-Fiasko in Düsseldorf 2017 - schriftlich beantwortet
+- TOP 4.13: Anfrage der CDU-Ratsfraktion: Planungen für KAP1 - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Krüger: Wasserqualität des Ostparkweihers - schriftlich beantwortet
+- TOP 4.15: Anfrage der Ratsfrau El Fassi: Schalltechnische Untersuchungen und 12 vollständig lärmsanierte Ortsdurchfahrten an Düsseldorfer Bahngleisen - schriftlich beantwortet
+- TOP 4.16: Anfrage der Ratsfrau Krüger: unzulängliche Bürger-Kommunikation des Veterinäramts wegen der unter dem Dach des ISS-Doms eingesperrten Tauben - schriftlich beantwortet
+- TOP 4.17: Anfrage des Ratsherrn Dr. Wlecke: Terrorabwehr-Sicherheitsauflagen der von Düsseldorfer Brauchtums- und Traditionsvereinen durchgeführten Veranstaltungen - schriftlich beantwortet
+- TOP 4.18: Anfrage der Ratsfrau El Fassi: Feuerwehr, Rettungsdienst und Bevölkerungsschutz - schriftlich beantwortet
+- TOP 4.19: Anfrage des Ratsherrn Dr. Wlecke: Energieverbrauch der Stadtverwaltung Düsseldorf - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Stadtbahnbau U 81 - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Rhein-Ruhr-Express (RRX) - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Smart City - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Schauspielhaus - zur Kenntnis genommen
+- TOP 10: Spendenaufruf für Düsseldorfs Partnerpräfektur Chiba –„Düsseldorf hilft Chiba“ - einstimmig beschlossen
+- TOP 11: Bekanntgabe der genehmigten über- und außerplanmäßigen Mittelbereitstellungen - Haushaltsjahr 2019. - zur Kenntnis genommen
+- TOP 12: Stellungnahme des Rechnungsprüfungsausschusses über die Prüfung des Gesamtabschlusses der Landeshauptstadt Düsseldorf zum 31.12.2016 - Bestätigung des Gesamtabschlusses - - einstimmig beschlossen
+- TOP 13: Tischtennis WM 2023 - einstimmig beschlossen
+- TOP 14: Gebührenkalkulation Abfall für 2020 - mehrheitlich beschlossen
+- TOP 15: 30. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (Abfallgebührensatzung) - mehrheitlich beschlossen
+- TOP 16: Gebührenkalkulation Straßenreinigung für 2020 - mehrheitlich beschlossen
+- TOP 17: 34. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 18: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen in der Landeshauptstadt Düsseldorf (Sondernutzungssatzung) - mehrheitlich beschlossen
+- TOP 19: Neufestsetzung der Entgeltordnung des Garten-, Friedhofs- und Forstamtes zum 01.01.2020 - mehrheitlich beschlossen
+- TOP 20: Neufestsetzung von Gebührentarifen zur Gebührensatzung für die Friedhöfe der Landeshauptstadt Düsseldorf zum 01.01.2020 - mehrheitlich beschlossen
+- TOP 21: Fortschreibung des Rettungsdienstbedarfsplans sowie Änderung der Gebührentarife zur Gebührensatzung über die Inanspruchnahme des Rettungsdienstes der Landeshauptstadt Düsseldorf vom 15.12.2005 - einstimmig beschlossen
+- TOP 22: Änderungsordnung der Entgeltordnung für freiwillige Hilfeleistungen und Leistungen des vorbeugenden Brandschutzes der Feuerwehr der Landeshauptstadt Düsseldorf vom 24.10.2016 sowie der Entgelte - einstimmig beschlossen
+- TOP 23: Satzung zur Änderung der Satzung über Kostenersatz für Einsätze und über Gebühren für die Durchführung von Brandverhütungsschauen der Feuerwehr der Landeshauptstadt Düsseldorf vom 24.10.2016 sowie der Änderung der Gebührentarife - einstimmig beschlossen
+- TOP 24: Änderung der Gebührensatzung für die Städtische Clara-Schumann-Musikschule - mehrheitlich beschlossen
+- TOP 24.1: Änderungsantrag der Ratsfraktion DIE LINKE zu TOP Ö 24: "Kostenloser Musikunterricht für Haushalte mit Düsselpass" - mehrheitlich abgelehnt
+- TOP 24.2: Änderungsantrag der Fraktionen von SPD, GRÜNEN und FDP zur Vorlage KUA/046/2019 "Änderung Gebührensatzung für die Städtische Clara-Schumann-Musikschule" - mehrheitlich beschlossen
+- TOP 24.3: Änderungsantrag der CDU-Ratsfraktion zu TOP 24, Vorlage KUA/049/2019/1, Änderung der Gebührensatzung für die Städtische Clara-Schumann-Musikschule - mehrheitlich abgelehnt
+- TOP 25: Entwicklungskonzept für die Städtische Clara-Schumann-Musikschule - mehrheitlich beschlossen
+- TOP 25.1: Änderungsantrag der Ratsfraktion DIE LINKE zu TOP Ö 25: "Sozialversicherungspflichtige Beschäftigungsverhältnisse statt Honorarstellen für die Clara-Schumann-Musikschule" - mehrheitlich abgelehnt
+- TOP 25.2: Ergänzungsantrag der Fraktionen von SPD, GRÜNEN und FDP zur Vorlage KUA/045/2019 "Entwicklungskonzept für die Clara-Schumann-Musikschule" - mehrheitlich beschlossen
+- TOP 26: Neufassung der Honorarordnung für Veranstaltungen der Volkshochschule Düsseldorf - einstimmig beschlossen
+- TOP 26.1: Ergänzungsantrag der CDU-Ratsfraktion zu TOP 26, Vorlage SCHUA/013/2019, Neufassung der Honorarordnung für Veranstaltungen der Volkshochschule Düsseldorf - einstimmig beschlossen
+- TOP 27: Deutsche Oper am Rhein: Erneuerung Inspizientenanlage und Bühnenwagen -Ausführungs- und Finanzierungsbeschluss- - einstimmig beschlossen
+- TOP 28: Beschlussvorlage zur Herbeiführung eines Ausführungs- und Finanzierungsbeschlusses des Erweiterungsneubaus Theodor-Andresen- und Franz-Marc- Förderschulen, Lohbachweg 16 - 18 - einstimmig beschlossen
+- TOP 29: Radwegeplanung Franklinbrücke/Rethelstraße - Ausführungs- und Finanzierungsbeschluss - - mehrheitlich beschlossen
+- TOP 30: Unterrather Straße, Klinke 2.BA - Ausführungs- und Finanzierungsbeschluss - einstimmig beschlossen
+- TOP 31: Freizeitstätte Garath, Fritz-Erler-Straße 21, Stadtbezirk 10 - Umbau und Sanierung (Ausführungs- und Finanzierungsbeschluss) - einstimmig beschlossen
+- TOP 32: Neubau des Technischen Verwaltungsgebäudes (TVG) - 2. Bedarfsbeschluss - - zurückgestellt
+- TOP 32.1: Änderungsantrag der Ratsfraktion DIE LINKE zu TOP Ö 32: "Neubau des Technischen Verwaltungsgebäudes: Beschäftigte einbeziehen" - mehrheitlich abgelehnt
+- TOP 32.2: Änderungsantrag der Fraktionen von CDU, SPD, GRÜNEN und FDP zur Vorlage BAU/003/2019 "Neubau Technisches Verwaltungsgebäude (TVG) – 2. Bedarfsbeschluss " - mehrheitlich beschlossen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Garath 2.0 - Den Wandel gestalten, Richtlinie zur Vergabe von Fördermitteln - einstimmig beschlossen
+- TOP 35: Gründung einer städtischen Mobilitätsgesellschaft - mehrheitlich beschlossen
+- TOP 36: Richtlinien für die Förderung von selbstgenutztem Wohneigentum - Anpassung der Richtlinien - mehrheitlich beschlossen
+- TOP 37: Strategischer Ausbau des SAP-Systems in der zentralen Verwaltung sowie der Führungs-und Steuerungsebene - mehrheitlich beschlossen
+- TOP 38: Errichtung der "Giersiepen Stiftung" - einstimmig beschlossen
+- TOP 39: Integration der Laborkooperation Düsseldorf/Mettmann für die Untersuchung amtlicher Lebensmittelproben in das Chemische und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper (CVUA-RRW) - einstimmig beschlossen
+- TOP 40: Integration der Laborkooperation Düsseldorf/Mettmann für die Untersuchung amtlicher Lebensmittelproben in das Chemische und Veterinäruntersuchungsamt Rhein-Ruhr-Wupper (CVUA-RRW) – Vertretung Verwaltungsrat - einstimmig beschlossen
+- TOP 41: Konzept 2035 – Pfad zur Erreichung der Klimaneutralität - mehrheitlich beschlossen
+- TOP 41.1: Änderungsantrag des Ratsherrn Grenda zu TOP 41, Vorlage RAT/115/2019, Konzept 2035 - Pfad zur Erreichung der Klimaneutralität
+- TOP 41.2: Änderungsantrag der Fraktionen von SPD, GRÜNEN und FDP zur Vorlage RAT/115/2019-1 "Konzept 2035 – Pfad zur Erreichung der Klimaneutralität" - mehrheitlich beschlossen
+- TOP 42: Annette-von-Droste-Hülshoff-Gymnasium und Schloß-Gymnasium Benrath - Ausstieg aus dem gebundenen Ganztag - einstimmig beschlossen
+- TOP 43: Beschlusskontrolle des Rates - zur Kenntnis genommen
+- TOP 44: Verwaltungsrat der Stadtsparkasse Düsseldorf - Wahl des/der Vorsitzenden und der Mitglieder (Ersatzwahlen) - - - mehrheitlich beschlossen
+- TOP 45: Umbesetzung in der Kunstkommission - mehrheitlich beschlossen
+- TOP 46: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - Ersatzbestellung - - einstimmig beschlossen
+- TOP 47: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 48: B-Plan-Verfahren Nr. 08/002 Nördlich Gerresheimer Landstraße - mehrheitlich beschlossen
+- TOP 49: Antrag der Berzirksvertretung 1: Umbenennung des E.ON-Platzes in Emilie-Preyer-Platz (überfraktioneller Antrag) - mehrheitlich beschlossen
+- TOP 50: Anträge
+- TOP 50.1: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Chance für ein "Haus der Kulturen" jetzt nutzen - mehrheitlich beschlossen
+- TOP 50.2: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Düsseldorfer Offensive für den ÖPNV - mehrheitlich beschlossen
+- TOP 50.2.1: Ergänzungsantrag der CDU-Ratsfraktion zu TOP 50.2, Vorlage RAT/070/2019, Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Düsseldorfer Offensive für den ÖPNV - mehrheitlich abgelehnt
+- TOP 50.3: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ und FDP: Finanzierung von stop mutilation e.V.
+- TOP 50.4: Antrag der Ratsfraktionen von SPD, BÜ90/GRÜ: Förderung des Radtourismus in Düsseldorf
+- TOP 50.4.1: Änderungsantrag der CDU-Ratsfraktion zur Vorlage RAT/072/2019: Förderung des Radtourismus in Düsseldorf
+- TOP 50.5: Antrag der CDU-Ratsfraktion: Kein Haus der Kulturen in Mörsenbroich ohne Beteiligung der Bürgerinnen und Bürger vor Ort - mehrheitlich abgelehnt
+- TOP 50.6: Antrag der CDU-Ratsfraktion: "Videoguide Düsseldorf" für Tourismus-Marketing nutzen
+- TOP 50.7: Antrag der FDP-Ratsfraktion: Verkehrsversuch Umweltspuren umgehend beenden - mehrheitlich abgelehnt
+- TOP 50.8: Antrag der FDP-Ratsfraktion: Zugang zum Tour de France-Vertrag für alle Düsseldorfer Bürgerinnen und Bürger öffnen
+- TOP 50.9: Antrag der Ratsfraktion DIE LINKE: Kein Neujahrsempfang für konsularische VertreterInnen der Türkei
+- TOP 50.10: Antrag der CDU-Ratsfraktion: „Umweltspuren“: Versuch sofort abbrechen und beauftragte alternative Verkehrsmaßnahmen umsetzen - mehrheitlich abgelehnt
+- TOP 50.11: Antrag der Ratsfraktionen von CDU, SPD, Bündnis 90/Die Grünen, FDP: Respekt für Rettende, Helfende und Personen mit öffentlichen Aufgaben
+- TOP 50.12: Antrag der Ratsfraktionen von SPD und BÜ90/GRÜ: Freigabe des Standstreifens der A 46 - mehrheitlich beschlossen
+- TOP 50.12.1: Ergänzungsantrag des Ratsherrn Grenda zu TOP 50.12, Vorlage RAT/145/2019, Antrag der Ratsfraktionen von SPD und BÜ90/GRÜ: Freigabe des Standstreifens der A 46
+- TOP 50.13: Antrag der CDU-Ratsfraktion: Unterstützung des Brauchtums in Düsseldorf
+- TOP 51: Konzept zur Internationalisierung www.duesseldorf.de - verwiesen
+- TOP 51.1: Änderungsantrag des Ratsherrn Grenda zu TOP 51, Vorlage RAT/159/2019, Konzept zur Internationalisierung www.duesseldorf.de
+- TOP 52: Ergänzung der Vergütungsregelung des § 6(12) der Richtlinie Kunst am Bau und Kunst im öffentlichen Raum - mehrheitlich beschlossen
