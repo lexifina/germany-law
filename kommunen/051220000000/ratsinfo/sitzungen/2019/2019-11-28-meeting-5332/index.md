@@ -1,0 +1,67 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität (43. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-11-28T17:00:00+01:00
+- Ende: 2019-11-28T21:05:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZTrlweGEZNwUcnBy6U3IIgo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5332
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRXTcuMId1CpcmY3wAUhH6zxU1q8LwGSn9sDJzfiR0ra/Bekanntmachung_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_28.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa_FYaeMjizJ6RUVG3H9b8--OptY-2VIumzlFZjtpJ0V/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_28.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Brücken Engelsberger Hof
+- TOP 1.2: Betrieb der S-Bahn Linie 1 nach dem Fahrplanwechsel 2019
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 42. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität vom 23.09.2019
+- TOP 4.: Baumfällungen des Landesbetriebs Straßen NRW Sachstandsbericht Vertreter/in Landesbetrieb Straßen NRW (angefragt) - mündlicher Bericht -
+- TOP 5.: Anträge des ÖPNV-Fahrgastbeirates und des Jugendstadtrates aus der gemeinsamen Sitzung am 18.06.2019
+- TOP 6.: Anerkennung des Klimanotstands hier: Antrag der Fridays for Future Ortsgruppe Solingen (vertagt in der Sitzung des ASUKM am 23.09.2019)
+- TOP 6.1: Anerkennung des Klimanotstands hier: Antrag der Fridays for Future Ortsgruppe Solingen (vertagt in der Sitzung des ASUKM am 23.09.2019)
+- TOP 7.: Konzepte zum Überflutungsschutz der Altstadt Gräfrath - mündlicher Bericht -
+- TOP 8.: Zusammenführung von Gremien zum Solinger Nachhaltigkeitsprozess –Einrichtung des Beirates „Nachhaltige Kommune Solingen“
+- TOP 9.: IP Life Projekt „Atlantische Sandlandschaften“ - weitere Umsetzung der Maßnahmen in der Ohligser Heide
+- TOP 10.: Information zur geplanten Bodenaufbereitungsanlage an Standort Westring 360 in Wuppertal-Vohwinkel
+- TOP 11.: Bestellung des Vorsitzenden und stellvertretenden Vorsitzenden des Umlegungsausschusses und Festlegung der Arbeitsentschädigung im Vertretungsfall
+- TOP 12.: Stadtentwicklungsgesellschaft Solingen - Beschluss zu den Gesellschaftsverträgen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG sowie der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 13.: Stadtentwicklungsgesellschaft Solingen - Jahresprogramm 2020 der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 14.: Stadtentwicklungsgesellschaft Solingen – Ergänzende Benennung von Mitgliedern des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 15.: Bauleitplanung Schützenstraße/ Zietenstraße Allgemeiner Beschluss zur Aufstellung des Bebauungsplanes D 697 gemäß § 2 Abs. 1 Baugesetzbuch (BauGB) für das Gebiet nordöstlich der Schützenstraße und nordwestlich der Zietenstraße (Beschluss 1) – Stadtbezirk Mitte –
+- TOP 16.: Bauleitplanung Maschinenstraße/ Gärtnerstraße Information über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung zum Vorentwurf des Bebauungsplanes H 679 sowie Beschluss zur öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes H 679 für das Gebiet südlich der Mangenberger Straße entlang der Maschinen-, Reider- und Gärtnerstraße (Beschluss 2) – Stadtbezirk Mitte –
+- TOP 17.: Einführung von digitalen Bezahlmöglichkeiten städt. Parkgebühren und Anpassung der Parkgebührenordnung
+- TOP 18.: Sachstandsbericht zur Umsetzung des Kreisverkehrs Bonner Straße gemäß dem Beschluss zum Haushalt 2020 hier: Antrag der BfS-Fraktion vom 12.09.2019
+- TOP 18.1: Planung eines Kreisverkehrs an der Bonner Straße/Langhansstraße/L 288
+- TOP 19.: Sachstand Busbeschleunigung / Ampelvorrangschaltung in Solingen
+- TOP 20.: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. - mündlicher Bericht -
+- TOP 20.1: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der BfS-Fraktion vom 21.11.2019
+- TOP 20.2: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der Fraktion DIE LINKE vom 22.11.2019
+- TOP 20.3: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der FDP Fraktion vom 27.11.2019
+- TOP 20.4: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der CDU Fraktion vom 27.11.2019
+- TOP 21.: Verschiedenes
+- TOP 21.1: Mitteilungen der Verwaltung
+- TOP 21.1.1: Machbarkeitsstudie zur Anbindung der L79n an die A3
+- TOP 21.1.2: Planfeststellungsverfahren für das Vorhaben „Erneuerung der Eisenbahnbrücke Schnittert“
+- TOP 21.1.3: Veloroute 1 Düsseldorf-Hilden-Solingen-Düsseldorf: Corporate-Design-Handbuch
+- TOP 21.1.4: Sachstand Kreisverkehre Innenstadt
+- TOP 21.1.5: Informationsflyer zur ökologischen und klimagerechten Gestaltung von Grundstücksvorgärten
+- TOP 21.1.6: Integriertes Stadtteilentwicklungskonzept Ohligs: Freiraumplanerischer Wettbewerb " Umgestaltung der Fußgängerzone und Marktplatz" - Sachstandsbericht
+- TOP 21.1.7: Soziale Stadt Nordstadt - Verwendung von Restmitteln Perspektive des Quartiersmanagements
+- TOP 21.1.8: Beschluss des Beirates UNB zu erfolgten und geplanten weiteren Baumfällungen im Stadtgebiet Solingens durch den Landesbetrieb Straßen NRW
+- TOP 21.1.9: Resolution des Beirates Untere Naturschutzbehörde zur Waldschadenssituation in Solingen
+- TOP 21.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 1.1: Konsequenzen aus dem dürrebedingten Sterben von Solinger Waldbeständen Darstellung der zusätzlich benötigten Ressourcen zur Bewältigung
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 42. Sitzung des Ausschusses für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität am 23.09.2019
+- TOP 4.: Stadtentwicklungsgesellschaft Solingen - Beschluss zum Businessplan der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG für die Jahre 2020-2024
+- TOP 5.: Situation in der Klingenstadt bzgl. der überregionalen Berichterstattung zum s. g. Bauüberhang
+- TOP 6.: Verschiedenes
+- TOP 6.1: Mitteilungen der Verwaltung
+- TOP 6.2: Anfragen an die Verwaltung
