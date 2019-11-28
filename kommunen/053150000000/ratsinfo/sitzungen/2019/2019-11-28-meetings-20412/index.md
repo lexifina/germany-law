@@ -1,0 +1,87 @@
+# 40. Sitzung der Bezirksvertretung Kalk
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-28T17:00:00+01:00
+- Ende: 2019-11-28T18:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/27
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20412
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20412
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00747407.pdf
+- Ergebnisprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00747407.pdf
+- Wortprotokoll: Erweiterte Tagesordnung https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00747407.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 1.1: Einwohnerfrage vom 10.10.2019 betreffend Nutzung des Heßhofplatzes in Köln-Vingst - zurückgestellt
+- TOP 1.2: Einwohnerfrage vom 10.10.2019 betreffend Sportwettbüros auf der Ostheimer Straße in Köln-Höhenberg und Rösrather Straße in Köln-Rath/Heumar - zurückgestellt
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anregungen und Beschwerden gemäß § 24 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 2.1: Zurückgewiesene Eingabe nach § 24 GO NRW - Stadtteilschild in Humboldt-Gremberg, Az: 224/19 - Kenntnis genommen
+- TOP -: Errichtung eines Stadtteilschildes in Köln-Humboldt/Gremberg - ungeändert beschlossen
+- TOP 2.2: Bürgereingabe gem. § 24 GO, betr.: Anlegen einer Busspur auf der Frankfurter Straße (Az.: 02-1600-39/18) - ungeändert beschlossen
+- TOP 3: Einwohneranträge gemäß § 25 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 4: Bürgerbegehren und Bürgerentscheide gemäß § 26 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 5: Anträge und Anregungen der Bezrirksarbeitsgemeinschaft Seniorenpolitik gemäß § 23 der Hauptsatzung der Stadt Köln
+- TOP 5.1: Ausbau des Bürgersteigs auf der Westseite des Fockerweges in Köln-Rath/Heumar
+- TOP 6: Annahme von Schenkungen
+- TOP 7: Anträge gem. §§ 3, 38 Abs. 1 der Geschäftsordnung des Rates und der Bezirksvertretungen i.V.m. § 37 Abs. 1 GO, § 19 Abs. 1 HS (Entscheidungen) oder gem. § 37 Abs. 5 Satz 5 GO (Vorschläge und Anregungen)
+- TOP 7.1: Neubrück: Auto parken statt Müll entladen - zurückgestellt
+- TOP 7.2: Erweiterung der absoluten Haltverbotszone in der Germaniastraße in Köln-Höhenberg - geändert beschlossen
+- TOP 7.3: Aufstellen weiterer Abfallbehälter im Bereich Merheimer Heideweg/Günter-Kuxdorf-Weg in Köln-Höhenberg - ungeändert beschlossen
+- TOP 7.4: Einhaltung des absoluten Haltverbotes am Günter-Kuxdorf-Weg in Köln-Höhenberg durch Ablage von Baumstämmen - ungeändert beschlossen
+- TOP 7.5: Städtische Gebäude und Liegenschaften im Stadtbezirk Kalk sollen grüner werden - geändert beschlossen
+- TOP 7.6: Prüfung der Zwischennutzung eines Areals auf dem Gelände der Hallen Kalk durch den Verein Baustelle Kalk e.V. - ungeändert beschlossen
+- TOP 7.7: Versetzen des Urinals an der Haltestelle Trimbornstraße in Köln-Kalk - ungeändert beschlossen
+- TOP 7.8: Busbegleitung zur Sicherstellung des geschützten Transfers von Grundschulkindern der KGS Zehnthofstraße zum Interimsstandort Vietorstraße in Köln-Kalk - ungeändert beschlossen
+- TOP 8: Verwaltungsvorlagen
+- TOP 8.1: Entscheidungen gemäß § 37 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.1.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - zurückgestellt
+- TOP 8.1.2: Umgestaltung des Spielplatzes Nesselweg in Köln-Merheim - ungeändert beschlossen
+- TOP 8.1.3: Baubeschluss für die Umgestaltung des Knotenpunktes Hans-Schulten-Straße/Dattenfelder Straße/Rather Kirchweg in einen Kreisverkehr - ungeändert beschlossen
+- TOP 8.1.4: Baubeschluss für die Errichtung einer Querungshilfe auf der Olpener Straße/Servatiusstraße in Merheim - ungeändert beschlossen
+- TOP 8.1.5: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - geändert beschlossen
+- TOP 8.1.6: Vergabe der restlichen bezirksorientierten Mittel für das Jahr 2019 (Neufassung) - ungeändert beschlossen
+- TOP 8.1.7: Finanzmittel für die Bürgervereine im Stadtbezirk Kalk für Instandsetzungsmaßnahmen, Renovierungen und kleinere Anschaffungen im Jahr 2019 (Neufassung) - ungeändert beschlossen
+- TOP 8.1.8: Baubeschluss für die Sanierung des Geh- und Radweges auf der östlichen Seite der Frankfurter Straße zwischen Höhenberger Ring und Fuldaer Straße in Köln Höhenberg - ungeändert beschlossen
+- TOP 8.1.9: Neugestaltung und Erweiterung der Skateanlage am Merheimer Heideweg/Günter-Kuxdorf-Weg in Köln-Höhenberg - geändert beschlossen
+- TOP -: Neugestaltung und Erweiterung der Skateanlage am Merheimer Heideweg/Günter-Kuxdorf-Weg in Köln-Höhenberg (3876/2019) - ungeändert beschlossen
+- TOP 8.1.10: Zuwendung aus dem städtischen Aktivierungsfonds für ein Projekt im Sozialraum „Höhenberg und Vingst“ - geändert beschlossen
+- TOP 8.2: Anhörungen und Stellungnahmen gemäß § 37 Absatz 5 Sätze 1 und 2 der Gemeindeordnung des Landes Nordrhein-Westfalen
+- TOP 8.2.1: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - geändert beschlossen
+- TOP -: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln (2476/2019) - ungeändert beschlossen
+- TOP 8.2.2: Konzept "Essbare Stadt" - geändert beschlossen
+- TOP -: Konzept "Essbare Stadt" (3876/2019) - ungeändert beschlossen
+- TOP 8.2.3: Weiterentwicklung des Programms "Lebenswerte Veedel" - ungeändert beschlossen
+- TOP 8.2.4: Stadtgrün naturnah - ungeändert beschlossen
+- TOP 8.2.5: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert beschlossen
+- TOP 8.2.6: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP -: Ergänzungsantrag zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - zurückgestellt
+- TOP 8.2.7: Kölner Kinder stärken! - 184 Tausend junge Chancen fördern! Umsetzung der Landesinitiative "Kommunale Präventionsketten" - ungeändert beschlossen
+- TOP 8.2.8: Herstellung von Barrierefreiheit auf Kölner Gehwegen - ungeändert beschlossen
+- TOP 9: Anfragen gemäß §§ 4 und 38 Absatz 1 der Geschäftsordnung des Rates und der Bezirksvertretungen
+- TOP 9.1: Beantwortung von Anfragen aus früheren Sitzungen
+- TOP 9.1.1: Nachfrage nach Flügen des Flughafens zur angeblichen Kartierung - Kenntnis genommen
+- TOP 9.2: Neue Anfragen
+- TOP 9.2.1: Grünschnitt auf der Homarstraße und der Straße Alter Deutzer Postweg in Köln-Vingst - Kenntnis genommen
+- TOP 9.2.2: Aktuelle Entwicklung für das Gelände des ehemaligen Brücker Sportparks in Köln-Brück - Kenntnis genommen
+- TOP 9.2.3: Konsequenzen der ICE-Baustelle in Kalk - Kenntnis genommen
+- TOP 9.2.4: Konsequenzen des Klinikumbaus des Krankenhauses Merheim auf Schule und Wohnen - Kenntnis genommen
+- TOP 9.3: Mündliche Anfragen aus aktuellem Anlass
+- TOP 10: Mitteilungen
+- TOP 10.1: Mitteilungen des Bezirksbürgermeisters
+- TOP 10.2: Mitteilungen der Verwaltung
+- TOP 10.2.1: Sachstandsbericht zu den Schulen GGS und KGS Kapitelstraße in Köln Kalk und KGS Zehnthofstraße in Köln-Ostheim sowie zur Schulneubaumaßnahme Thessaloniki-Allee in Köln-Kalk
+- TOP -: Sachstandsbericht Schulbauten GGS und KGS Kapitelstraße, KGS Zehnhofstraße und Schulneubau Thessaloniki-Allee - Kenntnis genommen
+- TOP 10.2.2: Erneute Offenlage nach § 4 Abs. 3 i.v.m. § 3 Abs. 2 BauGB vorhabenbezogener Bebauungsplan (VEP) Nr. 7440/02 Arbeitstitel: Rather See in Köln-Rath/Heumar - Kenntnis genommen
+- TOP 10.2.3: Sachstand Überprüfung des Rückbaus freilaufender Rechtsabbieger - Kenntnis genommen
+- TOP 10.2.4: Tätigkeitsbericht der Ämter für Straßen und Verkehrsentwicklung und für Verkehrsmanagement 2018 - Kenntnis genommen
+- TOP 10.2.5: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 10.2.6: Siebzehnter Statusbericht zum Ausbau der Kindertagesbetreuung in Köln - Kenntnis genommen
+- TOP 10.2.7: Prüfauftrag zur Änderung der Linienführung der Buslinie 157 in Köln-Ostheim in Fahrtrichtung Ostheim - Kenntnis genommen
+- TOP 10.2.8: Instandsetzung des Radwegs auf der Olpener Straße in Höhe des Matthias-Claudius-Heims in Köln Brück - Kenntnis genommen
+- TOP 10.2.9: Beantwortung der mündlichen Anfrage der SE Lange im Ausschuss Umwelt und Grün vom 12.09.2019 - Kenntnis genommen
+- TOP 10.2.10: Generalinstandsetzung der Grevenstraße, hier: Mitteilung über eine Kostenerhöhung gemäß § 25 Abs. 1 Nr. 2 KomHVO i.V.m. § 8 Ziffer 7 der Haushaltssatzung der Stadt Köln für das Haushaltsjahr 2019 - Kenntnis genommen
