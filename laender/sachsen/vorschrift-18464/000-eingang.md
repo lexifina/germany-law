@@ -1,0 +1,3 @@
+# Polizeiverordnung der Landesdirektion Sachsen zur Verhütung von Gefahren durch unbemannte Fluglaternen (Fluglaternenverordnung)
+Vom 15. Oktober 2019
+Aufgrund von § 9 Absatz 1 in Verbindung mit § 1 Absatz 1 und § 17 Absatz 1 des Polizeigesetzes des Freistaates Sachsen in der Fassung der Bekanntmachung vom 13. August 1999 (SächsGVBl. S. 466), das zuletzt durch Artikel 1 des Gesetzes vom 17. Dezember 2013 (SächsGVBl. S. 890) geändert worden ist, erlässt die Landesdirektion Sachsen als Landespolizeibehörde nach § 64 Absatz 1 Nummer 2 in Verbindung mit § 82 des Polizeigesetzes des Freistaates Sachsen folgende Polizeiverordnung:
