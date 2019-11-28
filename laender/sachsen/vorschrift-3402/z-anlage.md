@@ -1,4 +1,4 @@
-## § 4 In-Kraft-Treten und Außer-Kraft-Treten
+## § 5 In-Kraft-Treten und Außer-Kraft-Treten
 # Anlage (zu § 1)
 I. Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Bewertung des Grundbesitzes)
 Zentrale Zuständigkeit einzelner Finanzämter für den Bereich mehrerer Finanzämter (ohne zentrale Zuständigkeiten für die Bewertung des Grundbesitzes)
@@ -7,7 +7,7 @@ Lfd. Nr.: | Aufgabe | Zuständige(s) Finanzamt/ Finanzämter | Die Zuständigkei
 1. | Rennwett-, Lotterie- und Sportwettensteuer | Chemnitz-Mitte | Freistaat Sachsen
 2.1 | Festsetzung und Erhebung der Spielbankabgabe, Mitteilung und Auszahlung des Anteils der Gemeinden am Spielbankabgabeaufkommen | Leipzig II | Freistaat Sachsen
 2.2 | Steueraufsicht Spielbank Chemnitz Spielbank Dresden Spielbank Leipzig | Chemnitz-Mitte Dresden-Nord Leipzig II | 
-3. | Wahrnehmung der Rechte an der Zerlegung der Körperschaftsteuer nach dem Zerlegungsgesetz vom 6. August 1998 (BGBl. I S. 1998), das zuletzt durch Artikel 17 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) geändert worden ist | Dresden-Süd | Freistaat Sachsen
+3. | Wahrnehmung der Rechte an der Zerlegung der Körperschaftsteuer nach dem Zerlegungsgesetz vom 6. August 1998 (BGBl. I S. 1998), das zuletzt durch Artikel 11 des Gesetzes vom 11. Dezember 2018 (BGBl. I S. 2338) geändert worden ist | Dresden-Süd | Freistaat Sachsen
 4. | Erbschaft- und Schenkungsteuer | Chemnitz-Mitte | Annaberg, Chemnitz-Mitte, Chemnitz-Süd, Freiberg, Mittweida, Plauen, Schwarzenberg, Stollberg, Zschopau, Zwickau
 Bautzen | Bautzen, Dresden-Nord, Dresden-Süd, Görlitz, Hoyerswerda, Löbau, Meißen, Pirna
 Leipzig I | Döbeln, Eilenburg, Grimma, Leipzig I, Leipzig II, Oschatz

@@ -1,2 +1,2 @@
-# Verordnung des Sächsischen Staatsministeriums der Finanzen über Bezeichnung, Sitz, Bezirk und Zuständigkeit der Finanzämter sowie über Einrichtung und Zuständigkeit eines Landesrechenzentrums Steuern (Finanzamts- und Rechenzentrums-Zuständigkeitsverordnung – FARZZuVO)
-Rechtsbereinigt mit Stand vom 1. Dezember 2018
+# Verordnung des Sächsischen Staatsministeriums der Finanzen über Zuständigkeiten im Bereich der Finanzverwaltung (Finanzverwaltungszuständigkeitsverordnung – FVwZuVO)
+Rechtsbereinigt mit Stand vom 28. November 2019
