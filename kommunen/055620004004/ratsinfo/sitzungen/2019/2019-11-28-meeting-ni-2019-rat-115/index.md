@@ -1,0 +1,69 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2019-11-28T16:00:00+01:00
+- Ende: 2019-11-28T20:00:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2019-RAT-115
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2019-RAT-115
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2019-RAT-115
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Änderungen zum Stellenplan 2020/2021
+- TOP 3: Haushaltssanierungsplan 2012 - 2021 Fortschreibung für die Jahre 2020 und 2021
+- TOP 4: Haushaltssatzung und Haushaltsplan für die Jahre 2020 und 2021 nebst Anlagen
+- TOP 4.1: Haushaltssatzung und Haushaltsplan für die Jahre 2020 und 2021 nebst Anlagen
+- TOP 4.2: Antrag SPD vom 24.09.2019_800_Jahre_Ickern
+- TOP 4.3: Antrag FWI und CDU vom 03.11.2019_Bürgerbudget
+- TOP 4.3.1: Antrag SPD, CDU und FWI Ratsfraktionen vom 26.11.2019_Bürgerbudget
+- TOP 4.4: Antrag der FDP-Fraktion Hier: Beitritt der Stadt Castrop-Rauxel zum H2-Netzwerk-Ruhr e. V.
+- TOP 4.5: Antrag Bündnis 90 / Die Grünen vom 25.11.2019_Vorbericht zum Haushaltsplan
+- TOP 4.6: Antrag Bündnis 90 / Die Grünen_Strategischer Umweltschutz
+- TOP 4.7: Antrag Bündnis 90 / Die Grünen vom 25.11.2019_Förderung des Soziales Arbeitsmarktes
+- TOP 4.8: Antrag Bündnis 90 / Die Grünen vom 25.11.2019_Gesundes Essen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Neunte Änderungssatzung zur Hauptsatzung der Stadt Castrop-Rauxel
+- TOP 7: 1. Änderungsentgeltordnung vom 28.11.2019 zur Entgeltordnung für die Nutzung der Sportplätze, Sporthallen, Turnhallen und Bäder durch Vereine und sonstige Nutzergruppen vom 01.01.2013
+- TOP 8: Integriertes städtebauliches Entwicklungskonzept Stadtmittelpunkt (ISEK) hier: Beschluss des Konzeptes
+- TOP 9: MitmachStadt Castrop-Rauxel
+- TOP 9.1: Gemeinsamer Antrag von FDP, Die Linke und CDU Fraktionen vom 26.11.2019_„MitmachStadt“
+- TOP 10: Europafest 2020
+- TOP 11: Haushaltsplanung für die Jahre 2020 ff. hier: Abstimmung der Förderprogramme aus den Kommunalinvestitionsförderungsgesetzen des Bundes und des Landes Nordrhein-Westfalen sowie aus dem Programm "Gute Schule 2020" des Landes
+- TOP 12: Finanzcontrolling: Unternehmensbericht Stand 30.10.2019
+- TOP 13: Berichterstattung über die Beteiligungen der Stadt Castrop-Rauxel
+- TOP 14: Bereitstellung zusätzlicher Haushaltsmittel in Höhe von 353.635,56 € bei der Buchungsstelle 61.01/0233.791400 (Tilgung von Krediten vom sonstigen öffentlichen Bereich)
+- TOP 15: Übernahme der Trägeranteile für die neue Kindertageseinrichtung „Castroper Holz“
+- TOP 16: Weitere überplanmäßige Mittelbereitstellung gemäß § 83 GO bei den Buchungsstellen 36.04.533505 (Laufende Leistungen für Kinder und Jugendliche in Heimerziehung) und 36.04.533515 (Laufende Kosten für den gemeinsamen Unterhalt von Müttern, Vätern und Kindern) sowie weitere außerplanmäßige Mehrauszahlung bei der Buchungsstelle des Finanzhaushaltes 36.04.725320 (Erstattungen aus Rückstellungen)
+- TOP 17: Zweite Änderungssatzung zur Gebührensatzung für das Standesamt der Stadt Castrop-Rauxel
+- TOP 18: Neufassung der Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen und Plätzen in der Stadt Castrop-Rauxel (Sondernutzungssatzung)
+- TOP 19: Ermittlung des Bedarfs eines erweiterten Schulangebotes im Norden der Stadt / weitere Elternbefragung
+- TOP 20: Aufstellung einer Gründachstrategie - Entscheidung über das Rahmenkonzept - Auftrag an den EUV zur Erarbeitung eines Flyers zum Thema Dachbegrünung für eine verbesserte Information und Beratung
+- TOP 21: Übertragung des Namensgebungsrecht für städtische Sportstätten
+- TOP 22: Stellplatzsatzung der Stadt Castrop-Rauxel
+- TOP 23: Stellplatzablösesatzung der Stadt Castrop-Rauxel
+- TOP 24: Antrag FWI Fraktion vom 22.10.2019: Einrichtung von Basketball Käfigen/Plätzen in Castrop-Rauxel
+- TOP 25: Erlass einer Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)
+- TOP 26: Satzung über die Entsorgung von Grundstücksentwässerungsanlagen (Kleinkläranlagen, abflusslose Gruben) und Gebührenbedarfsberechnung
+- TOP 27: Gebührensatzung für die Wochenmärkte
+- TOP 28: Änderung der Wochenmarktsatzung
+- TOP 29: Änderung der Satzung über die Kreislaufwirtschaft und Abfallentsorgung der Stadt Castrop-Rauxel (Kreislaufwirtschafts- und Abfallsatzung)
+- TOP 30: Gebührenbedarfsberechnung 2020 -Abfallentsorgung-
+- TOP 31: Gebührenbedarfsberechnung 2020 - Straßenreinigung und Erlass einer 1. Änderungssatzung zur Straßenreinigungs- und Gebührensatzung der Stadt Castrop-Rauxel
+- TOP 32: Gebührenbedarfsberechnung 2020 -Stadtentwässerung- und Erlass einer Gebührensatzung zur Entwässerungssatzung in der Stadt Castrop-Rauxel
+- TOP 33: Erlass einer 11. Änderungsentgeltordnung zur Entgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel
+- TOP 34: Prüfung des Gesamtabschlusses der Stadt Castrop-Rauxel zum 31.12.2016
+- TOP 35: Prüfung des Jahresabschlusses der Stadt Castrop-Rauxel zum 31.12.2018
+- TOP 36: Antrag DIE LINKE vom 07.11.2019_Verbot des Verkaufs von städtischen Grundstücken
+- TOP 37: Antrag DIE LINKE vom 04.11.2019_ Soziale Wohnraumversorgung
+- TOP 38: Umbesetzung des Jugendhilfeausschusses
+- TOP 39: Bereitstellung zusätzlicher Mittel bei der Buchungsstelle 61.01.54392020 (Beratungsleistungen Konzessionsverträge) in Höhe von 91.810,35 €.
+- TOP 40: Bereitstellung zusätzlicher Mittel bei der Buchungsstelle 54.01/0609.785800 "Sanierungsprogramm ZOB Altstadt"
+- TOP 41: Anfragen der Ratsmitglieder
+- TOP 42: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
