@@ -1,0 +1,63 @@
+# Haupt- und Personalausschuss (37. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-11-28T17:03:00+01:00
+- Ende: 2019-11-28T17:15:00+01:00
+- Ort: Forum Produktdesign, Bahnhofstraße 15, 42651 Solingen, Konferenzraum
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfVN6AxbcgRwioTMMy2czHk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5338
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZvvy4JDwQlIq3REn3IE95stmqrvQ-NGjWeHD6N-yKM2/Bekanntmachung_Haupt-_und_Personalausschuss_28.11.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRSQXm2_toTF_VWynGPwm-1r1Qn-CPxqlMmZju6i6tBT/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_28.11.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 36. Sitzung des Haupt- und Personalausschusses am 24.09.2019
+- TOP 4.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 5.: Beirat Untere Naturschutzbehörde hier: Nachwahl
+- TOP 6.: Bergisch-Rheinischer-Wasserverband Vertretung der Stadt Solingen im Vorstand
+- TOP 7.: Besetzung des Finanzausschusses beim Wupperverband
+- TOP 8.: Mitgliederversammlung 2020 des Städtetages Nordrhein-Westfalen hier: Benennung stimmberechtigter Abgeordneter sowie Gäste
+- TOP 9.: Umsetzung der Ausbildung zum/zur Notfallsanitäter/in bei der Feuer-wehr Solingen und entsprechende Anpassung der öffentlich-rechtlichen Vereinbarung über die bestehende gemeinschaftliche staatlich anerkannte Schule für Rettungsassistenten/-assistentinnen für die Städte Solingen, Remscheid und Leverkusen
+- TOP 10.: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. - mündlicher Bericht -
+- TOP 10.1: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der BfS-Ratsfraktion vom 21.11.2019
+- TOP 10.2: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der Ratsfraktion DIE LINKE vom 22.11.2019
+- TOP 10.3: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff. hier: Anträge der FDP-Ratsfraktion vom 27.11.2019
+- TOP 11.: Stellenplannachtrag 2019
+- TOP 12.: Stadtentwicklungsgesellschaft Solingen – Ergänzende Benennung von Mitgliedern des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 13.: Stadtentwicklungsgesellschaft Solingen - Beschluss zu den Gesellschaftsverträgen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG sowie der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 14.: Zusammenführung von Gremien zum Solinger Nachhaltigkeitsprozess –Einrichtung des Beirates „Nachhaltige Kommune Solingen“
+- TOP 15.: Teilnahme an der Aktion „Wir jagen Funklöcher“ der Deutschen Telekom
+- TOP 16.: Verkaufsoffene Sonntage 2020
+- TOP 17.: VIII. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 18.: Satzung der Stadt Solingen über die abweichende Erhebung von Gebühren nach der Allgemeinen Verwaltungsgebührenordnung für das Land Nordrhein-Westfalen (AVerwGebO NRW) für Amtshandlungen des Standesamtes nach dem Personenstandsgesetz
+- TOP 19.: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstige Amtshandlungen auf dem Gebiet der Fleischhygiene in den Städten Remscheid, Solingen und Wuppertal (Fleischhygienegebührensatzung)
+- TOP 19.1: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstige Amtshandlungen auf dem Gebiet der Fleischhygiene in den Städten Remscheid, Solingen und Wuppertal (Fleischhygienegebührensatzung)
+- TOP 20.: Verschiedenes
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 36. Sitzung des Haupt- und Personalausschusses am 24.09.2019
+- TOP 4.: Beförderung einer Beamtin
+- TOP 4.1: Beförderung einer Beamtin
+- TOP 5.: Stadtentwicklungsgesellschaft Solingen - Beschluss zum Businessplan der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG für die Jahre 2020-2024
+- TOP 6.: Zusammenschluss der IT-Dienstleister regio iT GmbH und civitec Zweckverband Kommunale Informationsverarbeitung
+- TOP 7.: Verkauf von RWE-Aktien / Ausscheiden aus der VkA GmbH
+- TOP 8.: Bergische Struktur und Wirtschaftsförderungsgesellschaft mbH (BSW) - Bestellung des Jahresabschlussprüfers 2019
+- TOP 9.: Wirtschaftsförderung Solingen GmbH & Co. KG - Grundstücksverkauf
+- TOP 10.: Wirtschaftsplan 2020 der Wirtschaftsförderung Solingen GmbH & Co. KG (WfS KG)
+- TOP 11.: Wirtschaftsplan 2020 der Wirtschaftsförderung Solingen Verwaltungs GmbH (WfS GmbH)
+- TOP 12.: Wirtschaftsplan 2020 der Neue Effizienz GmbH
+- TOP 13.: Wirtschaftsplan 2020 der Gründer- und Technologiezentrum Solingen GmbH Co. KG
+- TOP 14.: Jahresabschluss 2018 der Bergischen Struktur- und Wirtschaftsförderungsgesellschaft mbH (BSW)
+- TOP 15.: Fördermaßnahmen der Gerd-Kaimer-Bürgerstiftung Solingen
+- TOP 16.: Verschiedenes
+- TOP 16.1: Mitteilungen der Verwaltung
+- TOP 16.2: Anfragen an die Verwaltung
