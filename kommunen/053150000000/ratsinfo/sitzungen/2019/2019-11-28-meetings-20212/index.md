@@ -1,0 +1,65 @@
+# Sitzung des Ausschusses Umwelt und Grün
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-11-28T16:00:00+01:00
+- Ende: 2019-11-28T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/71
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20212
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20212
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung, Stand 27.11.2019, 10:00 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00748314.pdf
+- Ergebnisprotokoll: Tagesordnung, Stand 27.11.2019, 10:00 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00748314.pdf
+- Wortprotokoll: Tagesordnung, Stand 27.11.2019, 10:00 Uhr https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/downloadfiles/a/00748314.pdf
+
+## Tagesordnung
+
+- TOP -: A Verpflichtung von sachkundigen Bürgerinnen und Bürgern und Einwohnerinnen / Einwohnern gemäß § 5 der Hauptsatzung der Stadt Köln
+- TOP -: B Gleichstellungsrelevante Themen
+- TOP -: C Vortrag zur laufenden Insektenuntersuchung - Kenntnis genommen
+- TOP -: D Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG - Kenntnis genommen
+- TOP -: zu D Fortschreibung Lärmaktionsplanung nach § 47 d BImSchG / Ergebnisse der öffentlichen Auslegung des Berichtsentwurfes von LK-Argus und abschließender Beschluss zur Stufe 3 der Lärmaktionsplanung gemäß EU-Umgebungslärmrichtlinie - ohne Votum in nachfolgende Gremien
+- TOP 1: Anfragen gemäß § 4 der Geschäftsordnung sowie deren Beantwortung
+- TOP 1.1: Gebühren für ordnungswidriges Wegwerfen – plant auch Köln eine Erhöhung? - zurückgestellt
+- TOP 1.2: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“? - zurückgestellt
+- TOP 1.2.1: Gesundes und klimagerechtes Wohnen in Köln – Wo steht Köln auf dem Weg zur „Klimawandelgerechten Metropole“?, AN 1161/2019 - zurückgestellt
+- TOP 1.3: Zur Herkunft der Steinkohle im HKW Rostock der RheinEnergie AG - zurückgestellt
+- TOP 1.3.1: Herkunft der Steinkohle im HKW Rostock der RheinEnergie AG - zurückgestellt
+- TOP 1.4: Lichtverschmutzung ausgehend von den MMC-studios - zurückgestellt
+- TOP 2: Anträge gemäß § 3 der Geschäftsordnung
+- TOP 2.1: Gem. Dringlichkeitsantrag von SPD-Fraktion, CDU-Fraktion, Fraktion Bünd-nis 90/Die Grünen und Fraktion DIE LINKE Gesundes aus der Region – Mehr Bio-Produkte und regionale Lebensmittel in städtischen Kantinen, Schulen und Kitas! - ungeändert beschlossen
+- TOP 3: Kommunaler Klimaschutz
+- TOP 3.1: SmartCity Memorandum of Understanding - Kenntnis genommen
+- TOP 3.2: European Energy Award: Köln Partnerin mit Auszeichnung. - Kenntnis genommen
+- TOP 4: Allgemeine Beschlussvorlagen
+- TOP 4.1: Allgemeine Beschlussvorlagen (Vorberatung)
+- TOP 4.1.1: Vergabe der Stadtverschönerungsmittel 2019 im Stadtbezirk Innenstadt - Kenntnis genommen
+- TOP 4.1.2: Stadtklima-/Stadtverschönerungsprogramm im Stadtbezirk Nippes - Bäume, Brunnen, Blumen und Gewässer - Kenntnis genommen
+- TOP 4.1.3: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Kalk - ohne Votum in nachfolgende Gremien
+- TOP 4.1.4: Wegesanierung um das Zwischenwerk XIa am Herler Ring 176 in Köln Buchheim - ungeändert empfohlen
+- TOP 4.1.5: Klettenbergpark - ungeändert empfohlen
+- TOP 4.1.6: Pflege von Schmuckbeeten - ungeändert empfohlen
+- TOP 4.1.7: Stadtgrün naturnah - ohne Votum in nachfolgende Gremien
+- TOP 4.1.8: Entwicklung des neuen Stadtteils Kreuzfeld hier: Beschluss des Leitbildes Kreuzfeld „Ein gutes Stück Köln“ - zurückgestellt
+- TOP 4.1.9: Stadtentwässerungsbetriebe Köln, AöR (StEB): Gewässerentwicklungskonzept Köln 2020 bis 2026 (GEK 2020) - Erste Fortschreibung - ungeändert empfohlen
+- TOP 4.1.10: Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.1.10.1: Ergänzungsantrag der SPD-Fraktion zur Vorlage 2887/2019, Regionalplanüberarbeitung, Modul III– Empfehlungen zur Darstellung neuer Siedlungsbereiche (ASB und GIB) als Optionen zur Weiterentwicklung der wachsenden Stadt - ohne Votum verwiesen mit erneuter Wiedervorlage
+- TOP 4.1.11: Kiosk Rheinboulevard - ungeändert empfohlen
+- TOP 4.1.11.1: Mitteilung zum Kiosk Rheinboulevard - Kenntnis genommen
+- TOP 4.1.12: Stadtklima-/Stadtverschönerungsprogramm 2019 - Bäume, Brunnen, Blumen und Gewässer im Stadtbezirk Mülheim - Kenntnis genommen
+- TOP 4.2: Allgemeine Beschlussvorlagen (Entscheidung)
+- TOP 4.2.1: Zukunftskonzept "Kulturraum Kölner Friedhöfe 2025" - ungeändert beschlossen
+- TOP 5: Mitberatung von Planungsvorlagen
+- TOP 6: Umweltprüfungen und UVP-relevante Planungen und Projekte
+- TOP 7: Mitteilungen
+- TOP 7.1: Förderfähigkeit von Pacht- bzw. Contracting-Photovoltaikanlagen - Kenntnis genommen
+- TOP 7.2: Sachstandsbericht: Regionale Zusammenarbeit der StadtUmland-Verbünde (S.U.N. und K&RN), regionalbedeutsame Strategiekonzepte (Agglomerationskonzept) und regionale Zukunftsthemen (Strukturwandel/Rheinisches Revier) - Kenntnis genommen
+- TOP 7.3: Umweltmaut ÖPNV-Abgabe (AN/1256/2019 und AN/1314/2019) - Kenntnis genommen
+- TOP 7.4: Planfeststellungsverfahren für Hochwasserschutzmaßnahmen am Rhein auf dem Gebiet der Stadt Köln - Sanierung der Lindemauer in Köln-Sürth - Kenntnis genommen
+- TOP 7.5: Sachstand Straßenbaum-Neupflanzungskonzept - Kenntnis genommen
+- TOP 7.6: Unterrichtung des Rates über die von der Kämmerin/den Fachbeigeordneten genehmigten Mehraufwendungen, -auszahlungen u. -verpflichtungen für das Hj. 2019 - zu 3614/2019 Nr. 4 VI/67 ÜPL Friedhöfe (TOP 6.1.1 Sitzung des Finanzausschuss vom 04.11.2019) - Kenntnis genommen
+- TOP 8: Beantwortung von mündlichen Anfragen aus früheren Sitzungen
+- TOP 8.1: Neue Kölner Statistik 3/2019 – Kraftfahrzeuge 1967/2019 hier: Niederschrift der Sitzung des Ausschusses Umwelt und Grün vom 12.09.2019, Top 7.2 - Kenntnis genommen
+- TOP 8.2: Beantwortung der mündlichen Anfrage der SE Lange im Ausschuss Umwelt und Grün vom 12.09.2019 - Kenntnis genommen
+- TOP 9: Mündliche Anfragen
