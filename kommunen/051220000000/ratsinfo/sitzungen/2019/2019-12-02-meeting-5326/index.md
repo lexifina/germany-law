@@ -1,0 +1,69 @@
+# Finanzausschuss (42. Sitzung)
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2019-12-02T14:00:00+01:00
+- Ende: 2019-12-02T16:35:00+01:00
+- Ort: Theater und Konzerthaus, Konrad-Adenauer-Straße 71, 42651 Solingen, Kleiner Konzertsaal
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-102
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZR0S_00CBY0mIIUtznEeMU4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/5326
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb9jrbY0cr6F4m0kE_UNlivMhxopivQR8NecFmbwzDLF/Bekanntmachung_Finanzausschuss_02.12.2019.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Finanzausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRdYA3OWJseU0vn7iSJraG6iYgf3Bn271dd-lzhB2vRM/Oeffentliche_Niederschrift_Finanzausschuss_02.12.2019.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung des Finanzausschusses am 19.09.2019
+- TOP 4.: Protokoll über die 40. Sitzung des Finanzausschusses am 19.09.2019
+- TOP 5.: Protokoll über die 41. Sitzung des Finanzausschusses am 10.10.2019
+- TOP 6.: Stadtentwicklungsgesellschaft Solingen – Ergänzende Benennung von Mitgliedern des Fachbeirates und des Wirtschaftsbeirates der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG
+- TOP 7.: Stadtentwicklungsgesellschaft Solingen - Beschluss zu den Gesellschaftsverträgen der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG sowie der Stadtentwicklungsgesellschaft Solingen Verwaltungs-GmbH
+- TOP 8.: Satzung der Stadt Solingen über die abweichende Erhebung von Gebühren nach der Allgemeinen Verwaltungsgebührenordnung für das Land Nordrhein-Westfalen (AVerwGebO NRW) für Amtshandlungen des Standesamtes nach dem Personenstandsgesetz
+- TOP 9.: Änderungssatzung zur Satzung für die Übergangsheime der Klingenstadt Solingen für Flüchtlinge und Spätaussiedler/innen
+- TOP 10.: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung städtischer Sportstätten
+- TOP 11.: Verwendung der Sportpauschale
+- TOP 12.: Austausch des Kunstrasenbelages von Freisportanlagen
+- TOP 13.: Auf- und Ausbau der Prävention im Bereich der Frühen Hilfen
+- TOP 14.: Schulentwicklungsplan 2019 - 2029
+- TOP 14.1: Schulentwicklungsplan 2019 – 2029 hier: Austausch Steckbrief Nr.18
+- TOP 14.2: Schulentwicklungsplan 2019 - 2029
+- TOP 15.: „Gute Schule 2020“
+- TOP 16.: Gebührenbedarfsberechnung 2020
+- TOP 17.: Entgeltberechnung für das Müllheizkraftwerk Erhebung privatrechtlicher Entgelte für die Benutzung des MHKW der TBS
+- TOP 18.: I. Änderungssatzung zur Abfallwirtschaftssatzung in der Stadt Solingen
+- TOP 19.: III. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 20.: V. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 21.: I. Änderungssatzung zur Friedhofssatzung der Stadt Solingen
+- TOP 22.: Neufassung der Friedhofsgebührensatzung der Stadt Solingen
+- TOP 23.: Grundstücksbereinigung zwischen den TBS und der Kernverwaltung
+- TOP 24.: Wirtschaftsplan 2020 der Technischen Betriebe Solingen
+- TOP 25.: V. Änderungssatzung zur Satzung über die Erhebung von Gebühren zur Wasserversorgungssatzung der Stadt Solingen
+- TOP 26.: Wirtschaftsplan 2020 des Eigenbetriebs Wasserversorgung Solingen
+- TOP 27.: 3. Quartalsbericht 2019
+- TOP 28.: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2019
+- TOP 29.: Überplanmäßige Aufwendungen/Auszahlungen gemäß § 83 GO NRW - Digitalisierung an Schulen
+- TOP 30.: Überplanmäßige Ausgabe gemäß § 83 GO NRW in den Produkten 1.31.01.040 (Eingliederungshilfe), 1.31.01.050 (Hilfe zur Pflege) sowie 1.31.05.010 (Hilfen für Flüchtlinge)
+- TOP 31.: Quartalsinformationen Kreditportfolio Verwaltung
+- TOP 32.: Offizielle Modellrechnung zum Gemeindefinanzierungsgesetz 2020
+- TOP 33.: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff.
+- TOP 33.1: Etatberatungen für das Haushaltsjahr 2020 einschließlich der mittelfristigen Ergebnis- und Finanzplanung bis 2023 und des Haushaltssanierungsplanes 2020 ff.
+- TOP 34.: Verschiedenes
+- TOP 34.1: Mitteilungen der Verwaltung
+- TOP 34.1.1: Reform der Grundsteuer
+- TOP 34.1.2: Themenplan Finanzausschuss 2020
+- TOP 34.2: Anfragen an die Verwaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1.: Beantwortung von Anfragen
+- TOP 2.: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3.: Protokoll über die 39. Sitzung des Finanzausschusses am 19.09.2019
+- TOP 4.: Stadtentwicklungsgesellschaft Solingen - Beschluss zum Businessplan der Stadtentwicklungsgesellschaft Solingen GmbH & Co. KG für die Jahre 2020-2024
+- TOP 5.: Gewerbesteuer - Wirtschaftsstruktur nach Branchen
+- TOP 6.: Verkauf einer städtischen Liegenschaft Bereich: Regerstraße
+- TOP 7.: Zusammenschluss der IT-Dienstleister regio iT GmbH und civitec Zweckverband Kommunale Informationsverarbeitung
+- TOP 8.: Verschiedenes
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.2: Anfragen an die Verwaltung
