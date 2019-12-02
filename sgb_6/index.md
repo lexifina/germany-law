@@ -361,9 +361,9 @@ Versicherungsträger
 ### Zweiter Abschnitt Datenschutz und Datensicherheit
 
 - [§ 147 Versicherungsnummer](0147.md)
-- [§ 148 Datenerhebung, Datenverarbeitung und Datennutzung beim Rentenversicherungsträger](0148.md)
+- [§ 148 Datenverarbeitung beim Rentenversicherungsträger](0148.md)
 - [§ 149 Versicherungskonto](0149.md)
-- [§ 150 Dateien bei der Datenstelle](0150.md)
+- [§ 150 Dateisysteme bei der Datenstelle](0150.md)
 - [§ 151 Auskünfte der Deutschen Post AG](0151.md)
 - [§ 151a Antragstellung im automatisierten Verfahren beim Versicherungsamt](0151a.md)
 - [§ 152 Verordnungsermächtigung](0152.md)
@@ -706,7 +706,7 @@ Knappschaft-Bahn-See](0273.md)
 
 ##### Zweiter Titel Datenverarbeitung und Datenschutz
 
-- [§ 274 Dateien bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971](0274.md)
+- [§ 274 Dateisysteme bei der Datenstelle hinsichtlich der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971](0274.md)
 - [§ 274a](0274a.md)
 - [§ 274b](0274b.md)
 
