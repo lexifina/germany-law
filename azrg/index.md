@@ -56,7 +56,7 @@ werden
 - [§ 22 Abruf im automatisierten Verfahren](0022.md)
 - [§ 23 Statistische Aufbereitung der Daten](0023.md)
 - [§ 24 Planungsdaten](0024.md)
-- [§ 24a Verarbeiten und Nutzen personenbezogener Daten für wissenschaftliche Zwecke](0024a.md)
+- [§ 24a Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke](0024a.md)
 
 #### Unterabschnitt 2 Datenübermittlung an nichtöffentliche Stellen, Behörden
 anderer Staaten und über- oder zwischenstaatliche Stellen
@@ -74,16 +74,16 @@ anderer Staaten und über- oder zwischenstaatliche Stellen
 - [§ 32 Dritte, an die Daten übermittelt werden](0032.md)
 - [§ 33 Abruf im automatisierten Verfahren](0033.md)
 
-## Kapitel 4 Rechte des Betroffenen
+## Kapitel 4 Rechte der betroffenen Person
 
-- [§ 34 Auskunft an den Betroffenen](0034.md)
+- [§ 34 Auskunft an die betroffene Person](0034.md)
 - [§ 34a Datenschutzrechtliche Kontrolle](0034a.md)
 
-## Kapitel 5 Berichtigung, Löschung und Sperrung von Daten
+## Kapitel 5 Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung
 
 - [§ 35 Berichtigung](0035.md)
 - [§ 36 Löschung](0036.md)
-- [§ 37 Sperrung](0037.md)
+- [§ 37 Einschränkung der Verarbeitung](0037.md)
 - [§ 38 Unterrichtung beteiligter Stellen](0038.md)
 
 ## Kapitel 6 Weitere Behörden

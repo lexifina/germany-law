@@ -2,8 +2,7 @@
 
 - [Inhaltsübersicht](inhaltsuebersicht.md)
 
-## Erster Abschnitt Aufgaben und Organisation des
-Zivildienstes
+## Abschnitt 1 Aufgaben und Organisation des Zivildienstes
 
 - [§ 1 Aufgaben des Zivildienstes](0001.md)
 - [§ 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes](0001a.md)
@@ -15,7 +14,7 @@ Zivildienstes
 - [§ 5a Übertragung von Verwaltungsaufgaben](0005a.md)
 - [§ 6 Kosten](0006.md)
 
-## Zweiter Abschnitt Tauglichkeit, Zivildienstausnahmen
+## Abschnitt 2 Tauglichkeit, Zivildienstausnahmen
 
 - [§ 7 Tauglichkeit](0007.md)
 - [§ 8 Zivildienstunfähigkeit](0008.md)
@@ -34,7 +33,7 @@ Zivildienstes
 - [§ 17 Entscheidungen über Wehrdienstausnahmen](0017.md)
 - [§ 18 Erstattung von Auslagen und Verdienstausfall](0018.md)
 
-## Dritter Abschnitt Heranziehung zum Zivildienst
+## Abschnitt 3 Heranziehung zum Zivildienst
 
 - [§ 19 Einberufung](0019.md)
 - [§ 19a Verlegung des ständigen Aufenthaltes](0019a.md)
@@ -45,7 +44,7 @@ Zivildienstes
 - [§ 23 Zivildienstüberwachung](0023.md)
 - [§ 23a Zuführung](0023a.md)
 
-## Vierter Abschnitt Rechtsstellung der Dienstpflichtigen
+## Abschnitt 4 Rechtsstellung der Dienstpflichtigen
 
 - [§ 24 Dauer des Zivildienstes](0024.md)
 - [§ 25 Beginn des Zivildienstes](0025.md)
@@ -73,7 +72,7 @@ Zivildienstes
 - [§ 41 Anträge und Beschwerden](0041.md)
 - [§ 41a Freiwilliger zusätzlicher Zivildienst](0041a.md)
 
-## Fünfter Abschnitt Ende des Zivildienstes; Versorgung
+## Abschnitt 5 Ende des Zivildienstes; Versorgung
 
 - [§ 42 Ende des Zivildienstes](0042.md)
 - [§ 43 Entlassung](0043.md)
@@ -88,11 +87,9 @@ Zivildienstes
 - [§ 49 Versorgungskrankengeld in besonderen Fällen](0049.md)
 - [§ 50 Ausgleich für Zivildienstbeschädigungen](0050.md)
 - [§ 51 Durchführung der Versorgung](0051.md)
-- [§ 51a Überleitungsregelungen aus Anlass der Herstellung der
-Einheit Deutschlands](0051a.md)
+- [§ 51a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands](0051a.md)
 
-## Sechster Abschnitt Straf-, Bußgeld- und
-Disziplinarvorschriften
+## Abschnitt 6 Straf-, Bußgeld- und Disziplinarvorschriften
 
 - [§ 52 Eigenmächtige Abwesenheit](0052.md)
 - [§ 53 Dienstflucht](0053.md)
@@ -120,24 +117,22 @@ Disziplinarvorschriften
 - [§ 69a Tilgung](0069a.md)
 - [§ 70 Gnadenrecht](0070.md)
 
-## Siebenter Abschnitt Besondere Verfahrensvorschriften
+## Abschnitt 7 Besondere Verfahrensvorschriften
 
 - [§ 71 Form und Bekanntgabe von Verwaltungsakten; Zustellungen](0071.md)
 - [§ 72 Widerspruch](0072.md)
 - [§ 73 Anfechtung des Einberufungsbescheides](0073.md)
-- [§ 74 Ausschluss der aufschiebenden Wirkung des Widerspruchs und
-der Klage](0074.md)
+- [§ 74 Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage](0074.md)
 - [§ 75 Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts](0075.md)
 - [§ 76 Rechte des gesetzlichen Vertreters](0076.md)
 - [§ 77 Anwendungsbereich](0077.md)
 
-## Achter Abschnitt Schlussvorschriften
+## Abschnitt 8 Schlussvorschriften
 
 - [§ 78 Entsprechende Anwendung weiterer Rechtsvorschriften](0078.md)
 - [§ 79 Vorschriften für den Spannungs- oder Verteidigungsfall](0079.md)
 - [§ 80 Einschränkung von Grundrechten](0080.md)
-- [§ 81 (weggefallen)](0081.md)
-- [§ 81 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0081-2.md)
+- [§ 81 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0081.md)
 - [§ 81a Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010](0081a.md)
-- [§ 82 Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 31. Juli 2008 (BGBl. I S. 1629)](0082.md)
+- [§ 82 Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2008](0082.md)
 - [§ 83 Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes](0083.md)

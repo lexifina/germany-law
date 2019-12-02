@@ -1,129 +1,129 @@
 # Inhaltsübersicht
 
-| Erster Abschnitt |  |
-|  | Aufgaben und Organisation des Zivildienstes |  |
-|  |  | Aufgaben des Zivildienstes | § 1 |
-|  |  | Aussetzung der Verpflichtung zur Ableistung des Zivildienstes | § 1a |
-|  |  | Organisation des Zivildienstes | § 2 |
-|  |  | Beirat für den Zivildienst | § 2a |
-|  |  | Dienststellen | § 3 |
-|  |  | Anerkennung von Beschäftigungsstellen | § 4 |
-|  |  | Aufstellung der Dienstgruppen | § 5 |
-|  |  | Übertragung von Verwaltungsaufgaben | § 5a |
-|  |  | Kosten | § 6 |
-| Zweiter Abschnitt |  |
-|  | Tauglichkeit; Zivildienstausnahmen |  |
-|  |  | Tauglichkeit | § 7 |
-|  |  | Zivildienstunfähigkeit | § 8 |
-|  |  | Ausschluss vom Zivildienst | § 9 |
-|  |  | Befreiung vom Zivildienst | § 10 |
-|  |  | Zurückstellung vom Zivildienst | § 11 |
-|  |  | Befreiungs- und Zurückstellungsanträge | § 12 |
-|  |  | Verfahren bei der Zurückstellung | § 13 |
-|  |  | Zivilschutz oder Katastrophenschutz | § 14 |
-|  |  | Entwicklungsdienst | § 14a |
-|  |  | Andere Dienste im Ausland | § 14b |
-|  |  | Freiwilliges Jahr | § 14c |
-|  |  | Sondervorschriften für Angehörige des Polizeivollzugsdienstes | § 15 |
-|  |  | Freies Arbeitsverhältnis | § 15a |
-|  |  | Unabkömmlichstellung | § 16 |
-|  |  | Entscheidungen über Wehrdienstausnahmen | § 17 |
-|  |  | Erstattung von Auslagen und Verdienstausfall | § 18 |
-| Dritter Abschnitt |  |
-|  | Heranziehung zum Zivildienst |  |
-|  |  | Einberufung | § 19 |
-|  |  | Verlegung des ständigen Aufenthaltes | § 19a |
-|  |  | Vernehmung von Zeuginnen, Zeugen und Sachverständigen | § 20 |
-|  |  | Widerruf des Einberufungsbescheides | § 21 |
-|  |  | Anrechnung anderen Dienstes | § 22 |
-|  |  | Anrechnung von Wehr- und Zivildienst anderer Staaten | § 22a |
-|  |  | Zivildienstüberwachung | § 23 |
-|  |  | Zuführung | § 23a |
-| Vierter Abschnitt |  |
-|  | Rechtsstellung der Dienstpflichtigen |  |
-|  |  | Dauer des Zivildienstes | § 24 |
-|  |  | Beginn des Zivildienstes | § 25 |
-|  |  | Einweisung in der Dienststelle | § 25a |
-|  |  | Einführung und Begleitung | § 25b |
-|  |  | Staatsbürgerliche Rechte | § 25c |
-|  |  | Achtung der demokratischen Grundordnung | § 26 |
-|  |  | Grundpflichten | § 27 |
-|  |  | Verschwiegenheit | § 28 |
-|  |  | Politische Betätigung | § 29 |
-|  |  | Dienstliche Anordnungen | § 30 |
-|  |  | Pflichten der Vorgesetzten | § 30a |
-|  |  | Dienstliche Unterkunft; Gemeinschaftsverpflegung | § 31 |
-|  |  | Arbeitszeit; innerer Dienstbetrieb | § 32 |
-|  |  | Verwendung bei Arbeitskämpfen | § 32a |
-|  |  | Nebentätigkeit | § 33 |
-|  |  | Haftung | § 34 |
-|  |  | Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub | § 35 |
-|  |  | Personalakten und Beurteilungen | § 36 |
-|  |  | (weggefallen) | § 36a |
-|  |  | Beteiligung der Dienstleistenden | § 37 |
-|  |  | Seelsorge | § 38 |
-|  |  | Ärztliche Untersuchung | § 39 |
-|  |  | Erhaltung der Gesundheit; ärztliche Eingriffe | § 40 |
-|  |  | Anträge und Beschwerden | § 41 |
-|  |  | Freiwilliger zusätzlicher Zivildienst | § 41a |
-| Fünfter Abschnitt |  |
-|  | Ende des Zivildienstes; Versorgung |  |
-|  |  | Ende des Zivildienstes | § 42 |
-|  |  | Entlassung | § 43 |
-|  |  | Zeitpunkt der Beendigung des Zivildienstes | § 44 |
-|  |  | Ausschluss | § 45 |
-|  |  | Mitteilung in Strafsachen | § 45a |
-|  |  | Dienstzeitbescheinigung und Dienstzeugnis | § 46 |
-|  |  | Versorgung | § 47 |
-|  |  | Versorgung in besonderen Fällen | § 47a |
-|  |  | Unfallschutz in besonderen Fällen | § 47b |
-|  |  | Heilbehandlung in besonderen Fällen | § 48 |
-|  |  | Versorgungskrankengeld in besonderen Fällen | § 49 |
-|  |  | Ausgleich für Zivildienstbeschädigungen | § 50 |
-|  |  | Durchführung der Versorgung | § 51 |
-|  |  | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands | § 51a |
-| Sechster Abschnitt |  |
-|  | Straf-, Bußgeld- und Disziplinarvorschriften |  |
-|  |  | Eigenmächtige Abwesenheit | § 52 |
-|  |  | Dienstflucht | § 53 |
-|  |  | Nichtbefolgen von Anordnungen | § 54 |
-|  |  | Teilnahme | § 55 |
-|  |  | Ausschluss der Geldstrafe | § 56 |
-|  |  | Ordnungswidrigkeiten | § 57 |
-|  |  | Dienstvergehen | § 58 |
-|  |  | Ahndung von Dienstvergehen | § 58a |
-|  |  | Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen | § 58b |
-|  |  | Förmliche Anerkennungen | § 58c |
-|  |  | Disziplinarmaßnahmen | § 59 |
-|  |  | Inhalt und Höhe der Disziplinarmaßnahmen | § 60 |
-|  |  | Disziplinarvorgesetzte | § 61 |
-|  |  | Ermittlungen | § 62 |
-|  |  | Aussetzung des Verfahrens | § 62a |
-|  |  | Anhörung | § 62b |
-|  |  | Einstellung des Verfahrens | § 63 |
-|  |  | Verhängung der Disziplinarmaßnahme | § 64 |
-|  |  | Disziplinarverfügung; Beschwerde | § 65 |
-|  |  | Anrufung des Verwaltungsgerichts | § 66 |
-|  |  | Aufhebung der Disziplinarverfügung | § 67 |
-|  |  | Vollstreckung | § 68 |
-|  |  | Auskünfte | § 69 |
-|  |  | Tilgung | § 69a |
-|  |  | Gnadenrecht | § 70 |
-| Siebenter Abschnitt |  |
-|  | Besondere Verfahrensvorschriften |  |
-|  |  | Form und Bekanntgabe von Verwaltungsakten; Zustellungen | § 71 |
-|  |  | Widerspruch | § 72 |
-|  |  | Anfechtung des Einberufungsbescheides | § 73 |
-|  |  | Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage | § 74 |
-|  |  | Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts | § 75 |
-|  |  | Rechte des gesetzlichen Vertreters | § 76 |
-|  |  | Anwendungsbereich | § 77 |
-| Achter Abschnitt |  |
-|  | Schlussvorschriften |  |
-|  |  | Entsprechende Anwendung weiterer Rechtsvorschriften | § 78 |
-|  |  | Vorschriften für den Spannungs- oder Verteidigungsfall | § 79 |
-|  |  | Einschränkung von Grundrechten | § 80 |
-|  |  | Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010 | § 81 |
-|  |  | Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010 | § 81a |
-|  |  | Übergangsvorschrift aus Anlass des Änderungsgesetzes vom 31. Juli 2008 (BGBl. I S. 1629) | § 82 |
-|  |  | Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes | § 83 |
+Abschnitt 1
+Aufgaben und Organisation des Zivildienstes
+| § 1 | Aufgaben des Zivildienstes |
+| § 1a | Aussetzung der Verpflichtung zur Ableistung des Zivildienstes |
+| § 2 | Organisation des Zivildienstes |
+| § 2a | Beirat für den Zivildienst |
+| § 3 | Dienststellen |
+| § 4 | Anerkennung von Beschäftigungsstellen |
+| § 5 | Aufstellung der Dienstgruppen |
+| § 5a | Übertragung von Verwaltungsaufgaben |
+| § 6 | Kosten |
+Abschnitt 2
+Tauglichkeit, Zivildienstausnahmen
+| § 7 | Tauglichkeit |
+| § 8 | Zivildienstunfähigkeit |
+| § 9 | Ausschluss vom Zivildienst |
+| § 10 | Befreiung vom Zivildienst |
+| § 11 | Zurückstellung vom Zivildienst |
+| § 12 | Befreiungs- und Zurückstellungsanträge |
+| § 13 | Verfahren bei der Zurückstellung |
+| § 14 | Zivilschutz oder Katastrophenschutz |
+| § 14a | Entwicklungsdienst |
+| § 14b | Andere Dienste im Ausland |
+| § 14c | Freiwilliges Jahr |
+| § 15 | Sondervorschriften für Angehörige des Polizeivollzugsdienstes |
+| § 15a | Freies Arbeitsverhältnis |
+| § 16 | Unabkömmlichstellung |
+| § 17 | Entscheidungen über Wehrdienstausnahmen |
+| § 18 | Erstattung von Auslagen und Verdienstausfall |
+Abschnitt 3
+Heranziehung zum Zivildienst
+| § 19 | Einberufung |
+| § 19a | Verlegung des ständigen Aufenthaltes |
+| § 20 | Vernehmung von Zeuginnen, Zeugen und Sachverständigen |
+| § 21 | Widerruf des Einberufungsbescheides |
+| § 22 | Anrechnung anderen Dienstes |
+| § 22a | Anrechnung von Wehr- und Zivildienst anderer Staaten |
+| § 23 | Zivildienstüberwachung |
+| § 23a | Zuführung |
+Abschnitt 4
+Rechtsstellung der Dienstpflichtigen
+| § 24 | Dauer des Zivildienstes |
+| § 25 | Beginn des Zivildienstes |
+| § 25a | Einweisung in der Dienststelle |
+| § 25b | Einführung und Begleitung |
+| § 25c | Staatsbürgerliche Rechte |
+| § 26 | Achtung der demokratischen Grundordnung |
+| § 27 | Grundpflichten |
+| § 28 | Verschwiegenheit |
+| § 29 | Politische Betätigung |
+| § 30 | Dienstliche Anordnungen |
+| § 30a | Pflichten der Vorgesetzten |
+| § 31 | Dienstliche Unterkunft; Gemeinschaftsverpflegung |
+| § 32 | Arbeitszeit; innerer Dienstbetrieb |
+| § 32a | Verwendung bei Arbeitskämpfen |
+| § 33 | Nebentätigkeit |
+| § 34 | Haftung |
+| § 35 | Fürsorge; Geld- und Sachbezüge; Reisekosten; Urlaub |
+| § 36 | Personalakten und Beurteilungen |
+| § 36a | (weggefallen) |
+| § 37 | Beteiligung der Dienstleistenden |
+| § 38 | Seelsorge |
+| § 39 | Ärztliche Untersuchung |
+| § 40 | Erhaltung der Gesundheit; ärztliche Eingriffe |
+| § 41 | Anträge und Beschwerden |
+| § 41a | Freiwilliger zusätzlicher Zivildienst |
+Abschnitt 5
+Ende des Zivildienstes; Versorgung
+| § 42 | Ende des Zivildienstes |
+| § 43 | Entlassung |
+| § 44 | Zeitpunkt der Beendigung des Zivildienstes |
+| § 45 | Ausschluss |
+| § 45a | Mitteilungen in Strafsachen |
+| § 46 | Dienstzeitbescheinigung und Dienstzeugnis |
+| § 47 | Versorgung |
+| § 47a | Versorgung in besonderen Fällen |
+| § 47b | Unfallschutz in besonderen Fällen |
+| § 48 | Heilbehandlung in besonderen Fällen |
+| § 49 | Versorgungskrankengeld in besonderen Fällen |
+| § 50 | Ausgleich für Zivildienstbeschädigungen |
+| § 51 | Durchführung der Versorgung |
+| § 51a | Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands |
+Abschnitt 6
+Straf-, Bußgeld- und Disziplinarvorschriften
+| § 52 | Eigenmächtige Abwesenheit |
+| § 53 | Dienstflucht |
+| § 54 | Nichtbefolgen von Anordnungen |
+| § 55 | Teilnahme |
+| § 56 | Ausschluss der Geldstrafe |
+| § 57 | Ordnungswidrigkeiten |
+| § 58 | Dienstvergehen |
+| § 58a | Ahndung von Dienstvergehen |
+| § 58b | Verhältnis der Disziplinarmaßnahmen zu Strafen und Ordnungsmaßnahmen |
+| § 58c | Förmliche Anerkennungen |
+| § 59 | Disziplinarmaßnahmen |
+| § 60 | Inhalt und Höhe der Disziplinarmaßnahmen |
+| § 61 | Disziplinarvorgesetzte |
+| § 62 | Ermittlungen |
+| § 62a | Aussetzung des Verfahrens |
+| § 62b | Anhörung |
+| § 63 | Einstellung des Verfahrens |
+| § 64 | Verhängung der Disziplinarmaßnahme |
+| § 65 | Disziplinarverfügung; Beschwerde |
+| § 66 | Anrufung des Verwaltungsgerichts |
+| § 67 | Aufhebung der Disziplinarverfügung |
+| § 68 | Vollstreckung |
+| § 69 | Auskünfte |
+| § 69a | Tilgung |
+| § 70 | Gnadenrecht |
+Abschnitt 7
+Besondere Verfahrensvorschriften
+| § 71 | Form und Bekanntgabe von Verwaltungsakten; Zustellungen |
+| § 72 | Widerspruch |
+| § 73 | Anfechtung des Einberufungsbescheides |
+| § 74 | Ausschluss der aufschiebenden Wirkung des Widerspruchs und der Klage |
+| § 75 | Rechtsmittel gegen Entscheidungen des Verwaltungsgerichts |
+| § 76 | Rechte des gesetzlichen Vertreters |
+| § 77 | Anwendungsbereich |
+Abschnitt 8
+Schlussvorschriften
+| § 78 | Entsprechende Anwendung weiterer Rechtsvorschriften |
+| § 79 | Vorschriften für den Spannungs- oder Verteidigungsfall |
+| § 80 | Einschränkung von Grundrechten |
+| § 81 | Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010 |
+| § 81a | Weitere Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2010 |
+| § 82 | Übergangsvorschrift aus Anlass des Wehrrechtsänderungsgesetzes 2008 |
+| § 83 | Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes |

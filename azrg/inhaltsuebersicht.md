@@ -50,7 +50,7 @@
 |  | § 22 | Abruf im automatisierten Verfahren |
 |  | § 23 | Statistische Aufbereitung der Daten |
 |  | § 24 | Planungsdaten |
-|  | § 24a | Verarbeiten und Nutzen personenbezogener Daten für wissenschaftliche Zwecke |
+|  | § 24a | Verarbeiten personenbezogener Daten für wissenschaftliche Zwecke |
 |  |
 |  | Unterabschnitt 2 |
 |  | Datenübermittlung an nichtöffentliche Stellen, Behörden anderer Staaten und über- oder zwischenstaatliche Stellen |
@@ -68,15 +68,15 @@
 |  | § 33 | Abruf im automatisierten Verfahren |
 |  |
 | Kapitel 4 |
-|  | Rechte des Betroffenen |
-|  | § 34 | Auskunft an den Betroffenen |
+|  | Rechte der betroffenen Person |
+|  | § 34 | Auskunft an die betroffene Person |
 |  |
 | Kapitel 5 |
-|  | Berichtigung, Löschung und Sperrung von Daten |
+|  | Berichtigung von Daten, Löschung von Daten und Einschränkung der Verarbeitung |
 |  | § 35 | Berichtigung |
 |  | § 36 | Löschung |
-|  | § 37 | Sperrung |
-|  | § 38 | Unterrichtung beteiligter Stellen |
+|  | § 37 | Einschränkung der Verarbeitung |
+|  | § 38 | Unterrichtung beteiligter Stellen und der betroffenen Person |
 |  |
 | Kapitel 6 |
 |  | Weitere Behörden |
