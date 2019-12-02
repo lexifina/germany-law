@@ -1,0 +1,52 @@
+# Sitzung des Ausschusses Allgemeine Verwaltung und Rechtsfragen / Vergabe / Internationales
+
+- Körperschaft: Stadt Köln, kreisfreie Stadt
+- Beginn: 2019-12-02T17:00:00+01:00
+- Ende: 2019-12-02T18:08:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/organizations/gr/74
+- Ratsinformationssystem: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20366
+- OParl: https://buergerinfo.stadt-koeln.de/oparl/bodies/stadtverwaltung_koeln/meetings/20366
+- Quelle: https://buergerinfo.stadt-koeln.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Gleichstellungsrelevante Angelegenheiten
+- TOP 2: Internationales
+- TOP 3: Beantwortung von Anfragen aus vorherigen Sitzungen
+- TOP 3.1: Internationale Jugendbegegnungen und Fachkräfteaustausch; hier: aktualisierte Mitteilung - Kenntnis genommen
+- TOP 3.2: Beantwortung einer mündlichen Anfrage zur Beantwortung der Anfrage AN/1259/2019 der Fraktion Bündnis 90/Die Grünen betreffend "Parkraumüberwachung" - Kenntnis genommen
+- TOP 4: Mitteilungen der Verwaltung
+- TOP 4.1: Bleiberechtsperspektiven für langjährig geduldete Menschen in Köln (Ratsbeschluss v. 20.3.2018 - Vorlagen Nr. 0342/2018) - Kenntnis genommen
+- TOP 4.2: Sachstandsbericht: Umsetzung des Zehn-Punkte-Aktionsplans der Europäischen Städtekoalition gegen Rassismus - Kenntnis genommen
+- TOP 4.3: Jahresbericht 2017/2018 Kölner Anti Spray Aktion - Kenntnis genommen
+- TOP 4.4: Aktuelle Rechtsprechung zu "Airbnb" - Kenntnis genommen
+- TOP 4.5: Sachstandsmitteilung zum Personalrisikomanagement - zurückgestellt
+- TOP 4.6: Fördermittelakquise und -abwicklung von EU Drittmitteln hier: Sachstandsbericht - Kenntnis genommen
+- TOP 4.7: Personalbericht 2018/2019 - zurückgestellt
+- TOP 4.8: Erfahrungsbericht 2018 zur Inklusionsvereinbarung - zurückgestellt
+- TOP 5: Allgemeine Verwaltungsorganisation
+- TOP 6: Schriftliche Anfragen
+- TOP 7: Mündliche Anfragen
+- TOP 7.1: Mündliche Anfrage betreffend "Messenger-Dienst als städtisches Kommunikationsmittel"
+- TOP 8: Anträge
+- TOP 9: Platzvergaben
+- TOP 9.1: Veranstaltung "STRASSENLAND" 2020 - Sache ist erledigt
+- TOP 10: Allgemeine Vorlagen
+- TOP 10.1: Sitzen statt Parken - Außengastronomie auf Stellplätzen - ohne Votum in nachfolgende Gremien
+- TOP 10.2: Änderung der Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln - zurückgestellt
+- TOP 10.3: Änderung der Benutzungs- und Entgeltordnung der Stadtbibliothek Köln - ungeändert beschlossen
+- TOP 10.4: Fortführung des kombinierten Programms "Win-Win für Köln", haushaltsrechtliche Unterrichtung des Rates über eine Kostensteigerung bei der Sanierung des Rheinparkcafés sowie Antrag auf Bereitstellung einer überplanmäßigen Auszahlung - ungeändert beschlossen
+- TOP 10.5: Herstellung von Barrierefreiheit auf Kölner Gehwegen - zurückgestellt
+- TOP 10.6: Änderung der Luftrettungssatzung der Stadt Köln - ungeändert beschlossen
+- TOP 10.7: Beschluss über die Planung und Durchführung eines Wettbewerblichen Dialogverfahrens sowie der anschließenden integrierten Planung zur Entwicklung eines städtebaulichen Masterplans auf Grundlage des Leitbildes Kre - ohne Votum in nachfolgende Gremien
+- TOP 10.8: Beschlussvorlage für den Beitritt der Stadt Köln zur Blockchain-Genossenschaft „govdigital eG“ - ungeändert beschlossen
+- TOP 10.9: 7. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.10: 4. Satzung zur Änderung der Satzung über die Abfallgebühren - ohne Votum in nachfolgende Gremien
+- TOP 10.11: Änderung der Benutzungs- und Entgeltordnung für die Museen der Stadt Köln - ungeändert beschlossen
+- TOP 10.12: Errichtung der "MAKK-Förderstiftung" - zurückgestellt
+- TOP 10.13: 3. Satzung zur Änderung der Satzung zur Erhebung einer Kulturförderabgabe im Gebiet der Stadt Köln vom 18.11.2014 - ohne Votum in nachfolgende Gremien
+- TOP 11: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 11.1: Roncalliplatz - ungeändert beschlossen
+- TOP 11.2: Integration der Veranstaltung „STRASSENLAND“ in den NRW-Tag 2020 - ungeändert beschlossen
